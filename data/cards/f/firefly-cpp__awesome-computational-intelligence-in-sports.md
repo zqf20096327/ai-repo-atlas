@@ -1,6 +1,6 @@
 # firefly-cpp/awesome-computational-intelligence-in-sports
 
-⭐ 30 · CC-BY-SA-4.0 · 推送 2025-12-07 · [GitHub](https://github.com/firefly-cpp/awesome-computational-intelligence-in-sports) · 个人维护
+⭐ 30 · CC-BY-SA-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/firefly-cpp/awesome-computational-intelligence-in-sports) · 个人维护
 
 **计算智能在体育领域应用的文献策展清单**
 

@@ -1,6 +1,6 @@
 # the-database/traiNNer-redux
 
-⭐ 142 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/the-database/traiNNer-redux) · [官网](https://trainner-redux.readthedocs.io) · 个人维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/the-database/traiNNer-redux) · [官网](https://trainner-redux.readthedocs.io) · 个人维护
 
 **图像超分与修复的 PyTorch 模型训练框架**
 

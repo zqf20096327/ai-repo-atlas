@@ -1,6 +1,6 @@
 # mohamedhamdytaha/GitHub-Copilot-app
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mohamedhamdytaha/GitHub-Copilot-app) · 组织维护
+⭐ 40 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mohamedhamdytaha/GitHub-Copilot-app) · 组织维护
 
 **GitHub 官方桌面端：管理跨仓库的 agent 开发工作流**
 

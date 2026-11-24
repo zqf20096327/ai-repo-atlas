@@ -1,6 +1,6 @@
 # ahmaddii/TableVision
 
-⭐ 8 · Python · 推送 2026-11-16 · [GitHub](https://github.com/ahmaddii/TableVision) · 个人维护
+⭐ 9 · Python · 推送 2026-11-16 · [GitHub](https://github.com/ahmaddii/TableVision) · 个人维护
 
 **餐厅 CCTV 视频的餐台占用检测原型**
 

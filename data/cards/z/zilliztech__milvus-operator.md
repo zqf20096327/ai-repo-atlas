@@ -1,6 +1,6 @@
 # zilliztech/milvus-operator
 
-⭐ 137 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/zilliztech/milvus-operator) · [官网](https://milvus.io) · 组织维护
+⭐ 138 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/zilliztech/milvus-operator) · [官网](https://milvus.io) · 组织维护
 
 **在 Kubernetes 上部署管理 Milvus 向量数据库的 Operator**
 

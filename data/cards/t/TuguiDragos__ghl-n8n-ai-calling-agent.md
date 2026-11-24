@@ -1,6 +1,6 @@
 # TuguiDragos/ghl-n8n-ai-calling-agent
 
-⭐ 33 · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/TuguiDragos/ghl-n8n-ai-calling-agent) · [官网](https://n8n.io/workflows/8339-replace-your-call-center-with-an-ai-agent-using-gohighlevel-ghl-vapi-and-twilio/) · 个人维护
+⭐ 34 · NOASSERTION · 推送 2026-08-02 · [GitHub](https://github.com/TuguiDragos/ghl-n8n-ai-calling-agent) · [官网](https://n8n.io/workflows/8339-replace-your-call-center-with-an-ai-agent-using-gohighlevel-ghl-vapi-and-twilio/) · 个人维护
 
 **面向 GoHighLevel 的 n8n AI 外呼代理：自动打电话、筛选线索、约日程**
 

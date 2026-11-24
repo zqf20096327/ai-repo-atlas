@@ -1,6 +1,6 @@
 # ackness/covel
 
-⭐ 76 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ackness/covel) · [官网](https://covel.cc/) · 个人维护 · 中文 README
+⭐ 77 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ackness/covel) · [官网](https://covel.cc/) · 个人维护 · 中文 README
 
 **模块化 Agentic AI 角色扮演游戏框架与可玩工作室**
 

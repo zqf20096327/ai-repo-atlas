@@ -1,6 +1,6 @@
 # assafelovic/gpt-researcher
 
-⭐ 30,863 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/assafelovic/gpt-researcher) · [官网](https://gptr.dev) · 个人维护 · 中文 README
+⭐ 30,879 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/assafelovic/gpt-researcher) · [官网](https://gptr.dev) · 个人维护 · 中文 README
 
 **自主深度研究 agent：输入问题生成带引用的研究报告**
 

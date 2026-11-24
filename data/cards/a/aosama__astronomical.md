@@ -1,6 +1,6 @@
 # aosama/astronomical
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aosama/astronomical) · [官网](https://getastronomical.com) · 个人维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/aosama/astronomical) · [官网](https://getastronomical.com) · 个人维护
 
 **Apple Silicon 本地模型运行器：设定 RAM 上限、SSD 流式运行稀疏大模型**
 

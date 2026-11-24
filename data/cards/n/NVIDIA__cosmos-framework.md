@@ -1,6 +1,6 @@
 # NVIDIA/cosmos-framework
 
-⭐ 658 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/cosmos-framework) · [官网](https://nvidia.github.io/cosmos-framework/) · 组织维护
+⭐ 660 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/cosmos-framework) · [官网](https://nvidia.github.io/cosmos-framework/) · 组织维护
 
 **NVIDIA Cosmos 世界模型的训练与推理部署框架**
 
@@ -33,7 +33,7 @@ NVIDIA Cosmos 项目家族中的训练与服务框架，以单一 Python 包 cos
 
 ## 场景标签
 
- · 领域:AI 基础设施/模型训练与推理框架
+`微调` `推理引擎` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 

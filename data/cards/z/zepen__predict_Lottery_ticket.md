@@ -1,6 +1,6 @@
 # zepen/predict_Lottery_ticket
 
-⭐ 1,086 · Python · 推送 2026-11-20 · [GitHub](https://github.com/zepen/predict_Lottery_ticket) · [官网](https://www.ai-spinach.xyz) · 个人维护 · 中文 README
+⭐ 1,087 · Python · 推送 2026-11-20 · [GitHub](https://github.com/zepen/predict_Lottery_ticket) · [官网](https://www.ai-spinach.xyz) · 个人维护 · 中文 README
 
 **基于 LSTM+CRF 的彩票号码预测实验项目**
 

@@ -1,6 +1,6 @@
 # GoldenLoaf24h/browserpaw
 
-⭐ 41 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/GoldenLoaf24h/browserpaw) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/GoldenLoaf24h/browserpaw) · 个人维护 · 中文 README
 
 **让 AI agent 直接操控日常 Chrome 的扩展 + 本地 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # kimmingul/NanumPlayer
 
-⭐ 3 · Lua · GPL-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/kimmingul/NanumPlayer) · [官网](https://kimmingul.github.io/NanumPlayer/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Windows 视频播放器：播放时实时生成离线 AI 字幕**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-2.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

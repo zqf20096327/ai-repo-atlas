@@ -1,6 +1,6 @@
 # Wendystar0628/AI-All-Round-Bench
 
-⭐ 83 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Wendystar0628/AI-All-Round-Bench) · [官网](https://octathlon.wendystars.com/) · 个人维护 · 中文 README
+⭐ 107 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Wendystar0628/AI-All-Round-Bench) · [官网](https://octathlon.wendystars.com/) · 个人维护 · 中文 README
 
 **给 AI 编程智能体出的限时挑战测评平台与榜单**
 

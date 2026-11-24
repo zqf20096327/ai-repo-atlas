@@ -1,6 +1,6 @@
 # mylamour/blog
 
-⭐ 64 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/mylamour/blog) · [官网](https://fz.cool) · 个人维护 · 中文 README
+⭐ 64 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/mylamour/blog) · [官网](https://fz.cool) · 个人维护 · 中文 README
 
 **个人双语技术博客（Hexo 静态站，安全/机器学习主题）**
 

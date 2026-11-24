@@ -1,6 +1,6 @@
 # Th0rgal/orb
 
-⭐ 719 · Lean · 推送 2026-11-22 · [GitHub](https://github.com/Th0rgal/orb) · [官网](https://orb.thomas.md) · 个人维护
+⭐ 719 · Lean · 推送 2026-11-24 · [GitHub](https://github.com/Th0rgal/orb) · [官网](https://orb.thomas.md) · 个人维护
 
 **统一管理 AI 订阅、机器与 agent 运行的 macOS/iOS 客户端**
 

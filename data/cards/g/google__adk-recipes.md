@@ -1,6 +1,6 @@
 # google/adk-recipes
 
-⭐ 10,659 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google/adk-recipes) · [官网](https://adk.dev) · 组织维护
+⭐ 10,666 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/google/adk-recipes) · [官网](https://adk.dev) · 组织维护
 
 **基于 Google ADK 的 agent 示例配方与垂直插件集合**
 

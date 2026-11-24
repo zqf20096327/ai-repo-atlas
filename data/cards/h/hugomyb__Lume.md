@@ -1,6 +1,6 @@
 # hugomyb/Lume
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hugomyb/Lume) · [官网](https://uselume.dev) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hugomyb/Lume) · [官网](https://uselume.dev) · 个人维护
 
 **带内联 AI 的本地优先开源终端模拟器，可用手机远程控制**
 

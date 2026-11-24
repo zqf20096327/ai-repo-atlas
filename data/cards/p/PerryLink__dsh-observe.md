@@ -1,6 +1,6 @@
 # PerryLink/dsh-observe
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-observe) · [官网](https://www.npmjs.com/package/dsh-observe) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-observe) · [官网](https://www.npmjs.com/package/dsh-observe) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 OpenTelemetry/Langfuse 可观测性导出插件**
 

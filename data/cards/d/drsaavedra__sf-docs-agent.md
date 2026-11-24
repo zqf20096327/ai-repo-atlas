@@ -1,6 +1,6 @@
 # drsaavedra/sf-docs-agent
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/drsaavedra/sf-docs-agent) · [官网](https://www.npmjs.com/package/sf-docs-agent) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/drsaavedra/sf-docs-agent) · [官网](https://www.npmjs.com/package/sf-docs-agent) · 个人维护
 
 **从官方 Salesforce 文档检索并核对引用的 Claude Code 子代理**
 

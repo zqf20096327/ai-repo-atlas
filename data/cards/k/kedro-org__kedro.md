@@ -1,6 +1,6 @@
 # kedro-org/kedro
 
-⭐ 11,059 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/kedro-org/kedro) · [官网](https://kedro.org) · 组织维护
+⭐ 11,060 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/kedro-org/kedro) · [官网](https://kedro.org) · 组织维护
 
 **为数据科学团队构建可复现、模块化的数据管线框架**
 

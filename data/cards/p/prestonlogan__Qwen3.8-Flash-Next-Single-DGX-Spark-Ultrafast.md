@@ -1,6 +1,6 @@
 # prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast
 
-⭐ 6 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast) · 个人维护
+⭐ 9 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast) · 个人维护
 
 **在单台 DGX Spark 上以 100+ tok/s 服务 Qwen3.8-Flash-Next 的部署配方**
 

@@ -1,6 +1,6 @@
 # etalab-ia/OpenGateLLM
 
-⭐ 220 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/etalab-ia/OpenGateLLM) · 组织维护
+⭐ 220 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/etalab-ia/OpenGateLLM) · 组织维护
 
 **面向自托管 LLM 的统一 API 网关：集中接入、安全与治理**
 

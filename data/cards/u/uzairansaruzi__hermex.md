@@ -1,6 +1,6 @@
 # uzairansaruzi/hermex
 
-⭐ 1,784 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/uzairansaruzi/hermex) · [官网](https://hermexapp.com/) · 个人维护
+⭐ 1,812 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/uzairansaruzi/hermex) · [官网](https://hermexapp.com/) · 个人维护
 
 **连接自托管 Hermes Agent 的原生成 iOS 客户端**
 

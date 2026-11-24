@@ -1,6 +1,6 @@
 # deepseek-ai/DeepGEMM
 
-⭐ 9,218 · Cuda · MIT · 推送 2026-11-19 · [GitHub](https://github.com/deepseek-ai/DeepGEMM) · 组织维护 · 中文 README
+⭐ 9,226 · Cuda · MIT · 推送 2026-11-19 · [GitHub](https://github.com/deepseek-ai/DeepGEMM) · 组织维护 · 中文 README
 
 **面向 LLM 推理/训练的 GPU 张量核心算子库（FP8/FP4/BF16 GEMM、MoE 融合核）**
 

@@ -1,6 +1,6 @@
 # thewh1teagle/vibe
 
-⭐ 8,192 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/thewh1teagle/vibe) · [官网](https://thewh1teagle.github.io/vibe/) · 个人维护
+⭐ 8,215 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/thewh1teagle/vibe) · [官网](https://thewh1teagle.github.io/vibe/) · 个人维护
 
 **离线本地语音转录桌面应用：音频视频转文字与摘要**
 

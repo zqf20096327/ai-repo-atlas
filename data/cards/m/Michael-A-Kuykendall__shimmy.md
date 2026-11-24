@@ -1,6 +1,6 @@
 # Michael-A-Kuykendall/shimmy
 
-⭐ 6,022 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Michael-A-Kuykendall/shimmy) · 个人维护
+⭐ 6,026 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Michael-A-Kuykendall/shimmy) · 个人维护
 
 **Rust 编写的本地 GGUF 推理服务器，OpenAI API 兼容**
 

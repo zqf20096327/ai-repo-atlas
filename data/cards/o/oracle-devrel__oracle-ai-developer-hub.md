@@ -1,6 +1,6 @@
 # oracle-devrel/oracle-ai-developer-hub
 
-⭐ 4,494 · Jupyter Notebook · 推送 2026-11-20 · [GitHub](https://github.com/oracle-devrel/oracle-ai-developer-hub) · [官网](https://oracle-devrel.github.io/oracle-ai-developer-hub/) · 组织维护
+⭐ 4,495 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/oracle-devrel/oracle-ai-developer-hub) · [官网](https://oracle-devrel.github.io/oracle-ai-developer-hub/) · 组织维护
 
 **面向 AI 开发者的 Oracle AI 数据库与 OCI 资源集**
 

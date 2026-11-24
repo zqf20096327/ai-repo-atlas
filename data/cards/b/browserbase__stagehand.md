@@ -1,6 +1,6 @@
 # browserbase/stagehand
 
-⭐ 26,115 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/browserbase/stagehand) · [官网](https://stagehand.dev) · 组织维护
+⭐ 26,125 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/browserbase/stagehand) · [官网](https://stagehand.dev) · 组织维护
 
 **浏览器自动化 SDK：让 agent 像人一样操作网页并提取结构化数据**
 

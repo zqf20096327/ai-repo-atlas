@@ -1,6 +1,6 @@
 # rhesis-ai/rhesis
 
-⭐ 405 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/rhesis-ai/rhesis) · [官网](https://www.rhesis.ai/) · 组织维护
+⭐ 405 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/rhesis-ai/rhesis) · [官网](https://www.rhesis.ai/) · 组织维护
 
 **AI agent 团队协作评测层：测试、模拟、追踪与专家标注**
 

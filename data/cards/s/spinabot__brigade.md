@@ -1,6 +1,6 @@
 # spinabot/brigade
 
-⭐ 11,389 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/spinabot/brigade) · [官网](https://www.brigade.spinabot.com) · 个人维护
+⭐ 11,390 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/spinabot/brigade) · [官网](https://www.brigade.spinabot.com) · 个人维护
 
 **自托管的多人格 AI Agent 网关运行时，多渠道接入**
 

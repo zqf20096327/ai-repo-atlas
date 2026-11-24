@@ -1,6 +1,6 @@
 # AqwamCreates/DataPredict
 
-⭐ 27 · Lua · 推送 2026-11-21 · [GitHub](https://github.com/AqwamCreates/DataPredict) · [官网](https://aqwamcreates.github.io/DataPredict/) · 个人维护
+⭐ 27 · Lua · 推送 2026-11-23 · [GitHub](https://github.com/AqwamCreates/DataPredict) · [官网](https://aqwamcreates.github.io/DataPredict/) · 个人维护
 
 **Lua 机器/深度/强化学习库，含 109 个模型**
 

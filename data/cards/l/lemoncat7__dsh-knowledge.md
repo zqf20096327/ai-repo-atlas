@@ -1,6 +1,6 @@
 # lemoncat7/dsh-knowledge
 
-⭐ 28 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lemoncat7/dsh-knowledge) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lemoncat7/dsh-knowledge) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的知识库、笔记与工作日报插件**
 

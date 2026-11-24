@@ -1,6 +1,6 @@
 # songguomix/ConeCode
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/songguomix/ConeCode) · [官网](https://github.com/songguomix/ConeCode/releases/latest) · 个人维护 · 中文 README
+⭐ 33 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/songguomix/ConeCode) · [官网](https://github.com/songguomix/ConeCode/releases/latest) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的桌面工作台，含受限证据驱动的自我改进（RSI）**
 

@@ -1,6 +1,6 @@
 # kazupon/gunshi
 
-⭐ 479 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kazupon/gunshi) · [官网](https://gunshi.dev) · 个人维护
+⭐ 479 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kazupon/gunshi) · [官网](https://gunshi.dev) · 个人维护
 
 **面向人类与 AI Agent 的 JavaScript 命令行库**
 

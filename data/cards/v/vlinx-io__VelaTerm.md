@@ -1,6 +1,6 @@
 # vlinx-io/VelaTerm
 
-⭐ 355 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vlinx-io/VelaTerm) · [官网](https://velaterm.com) · 组织维护 · 中文 README
+⭐ 360 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/vlinx-io/VelaTerm) · [官网](https://velaterm.com) · 组织维护 · 中文 README
 
 **面向 AI 编程 Agent 的原生开发环境终端（ADE）**
 

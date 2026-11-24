@@ -1,6 +1,6 @@
 # Wayn-Git/Amethyst
 
-⭐ 62 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Wayn-Git/Amethyst) · [官网](https://vault-silk-nine.vercel.app) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Wayn-Git/Amethyst) · [官网](https://vault-silk-nine.vercel.app) · 个人维护
 
 **本地优先的个人操作系统：一个 AI agent 管理文件、任务、日历与笔记**
 

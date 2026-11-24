@@ -1,6 +1,6 @@
 # QuantGeekDev/mcp-framework
 
-⭐ 931 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/QuantGeekDev/mcp-framework) · [官网](https://mcp-framework.com/) · 个人维护
+⭐ 978 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/QuantGeekDev/mcp-framework) · [官网](https://mcp-framework.com/) · 个人维护
 
 **用 TypeScript 构建 MCP 服务器的开发框架**
 

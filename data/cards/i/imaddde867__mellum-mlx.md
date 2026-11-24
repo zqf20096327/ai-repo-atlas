@@ -1,6 +1,6 @@
 # imaddde867/mellum-mlx
 
-⭐ 3 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/imaddde867/mellum-mlx) · [官网](https://huggingface.co/imaadd05/Mellum2.1-12B-A2.5B-Thinking-mlx-nvfp4) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Apple Silicon 的 Mellum2.1 思维模型 MLX 量化版本与基准**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

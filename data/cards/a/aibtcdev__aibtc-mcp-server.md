@@ -1,6 +1,6 @@
 # aibtcdev/aibtc-mcp-server
 
-⭐ 12 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/aibtcdev/aibtc-mcp-server) · 组织维护
+⭐ 12 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/aibtcdev/aibtc-mcp-server) · 组织维护
 
 **面向 AI agent 的比特币原生 MCP 服务器：钱包、DeFi 与支付工具**
 

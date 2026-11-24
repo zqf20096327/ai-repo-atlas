@@ -1,6 +1,6 @@
 # AI-SQL-Tuner/aisqltuner-index-tuner
 
-⭐ 10 · TSQL · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AI-SQL-Tuner/aisqltuner-index-tuner) · [官网](https://aisqltuner.com) · 组织维护
+⭐ 10 · TSQL · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AI-SQL-Tuner/aisqltuner-index-tuner) · [官网](https://aisqltuner.com) · 组织维护
 
 **在 SQL Server 内运行的 AI 索引调优存储过程**
 

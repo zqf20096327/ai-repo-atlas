@@ -1,6 +1,6 @@
 # Dokploy/mcp
 
-⭐ 438 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Dokploy/mcp) · 组织维护
+⭐ 440 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Dokploy/mcp) · 组织维护
 
 **将 Dokploy 全部 API 端点暴露为 MCP 工具的官方服务器**
 

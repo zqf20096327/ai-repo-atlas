@@ -1,6 +1,6 @@
 # tomcounsell/ai
 
-⭐ 32 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/tomcounsell/ai) · [官网](https://valorengels.com) · 个人维护
+⭐ 31 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/tomcounsell/ai) · [官网](https://valorengels.com) · 个人维护
 
 **单人运行的自主 AI 雇员系统：可纠正的 agent 内核与工作流**
 

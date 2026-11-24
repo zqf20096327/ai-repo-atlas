@@ -1,6 +1,6 @@
 # diffsec/sibyl
 
-⭐ 4 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/diffsec/sibyl) · 个人维护
+⭐ 4 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/diffsec/sibyl) · 个人维护
 
 **一体化私有 AI 推理服务器：把 GPU 主机变成本地 LLM 服务**
 

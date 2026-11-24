@@ -1,6 +1,6 @@
 # splx-ai/agentic-radar
 
-⭐ 1,072 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/splx-ai/agentic-radar) · [官网](https://splx.ai) · 组织维护
+⭐ 1,073 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/splx-ai/agentic-radar) · [官网](https://splx.ai) · 组织维护
 
 **面向开发者的 LLM agent 工作流安全扫描 CLI**
 

@@ -1,6 +1,6 @@
 # aowang-ai/awesome-finance-agents
 
-⭐ 109 · JavaScript · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/aowang-ai/awesome-finance-agents) · [官网](https://finance-agents.dev) · 个人维护 · 中文 README
+⭐ 110 · JavaScript · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/aowang-ai/awesome-finance-agents) · [官网](https://finance-agents.dev) · 个人维护 · 中文 README
 
 **开源金融 AI agent 双语策展清单：按金融职能与可靠性组织**
 

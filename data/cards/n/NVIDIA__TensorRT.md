@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT
 
-⭐ 13,479 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/TensorRT) · [官网](https://developer.nvidia.com/tensorrt) · 组织维护
+⭐ 13,481 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA/TensorRT) · [官网](https://developer.nvidia.com/tensorrt) · 组织维护
 
 **NVIDIA GPU 上的深度学习推理加速 SDK 开源组件**
 

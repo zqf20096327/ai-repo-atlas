@@ -1,6 +1,6 @@
 # Razee4315/neurix
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Razee4315/neurix) · [官网](https://razee4315.github.io/neurix/) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Razee4315/neurix) · [官网](https://razee4315.github.io/neurix/) · 个人维护
 
 **手机/桌面离线运行本地大模型的聊天应用**
 

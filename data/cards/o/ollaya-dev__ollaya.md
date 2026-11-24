@@ -1,6 +1,6 @@
 # ollaya-dev/ollaya
 
-⭐ 1,475 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ollaya-dev/ollaya) · [官网](https://ollaya.dev) · 个人维护
+⭐ 1,476 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ollaya-dev/ollaya) · [官网](https://ollaya.dev) · 个人维护
 
 **本地运行开源决策模型、兼容 Jev API 的推理服务器**
 

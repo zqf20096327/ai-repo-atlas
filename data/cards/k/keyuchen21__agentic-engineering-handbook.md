@@ -1,6 +1,6 @@
 # keyuchen21/agentic-engineering-handbook
 
-⭐ 595 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/keyuchen21/agentic-engineering-handbook) · 个人维护
+⭐ 599 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/keyuchen21/agentic-engineering-handbook) · 个人维护
 
 **Agentic 工程学习路线图：218 条精选资源的结构化手册**
 

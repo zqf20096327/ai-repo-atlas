@@ -1,6 +1,6 @@
 # SEAbdulbasit/OfflineAI-KMP
 
-⭐ 66 · Kotlin · 推送 2026-07-11 · [GitHub](https://github.com/SEAbdulbasit/OfflineAI-KMP) · 个人维护
+⭐ 66 · Kotlin · 推送 2026-11-23 · [GitHub](https://github.com/SEAbdulbasit/OfflineAI-KMP) · 个人维护
 
 **在 Android/iOS 上离线运行 Gemma 对话的跨平台应用**
 

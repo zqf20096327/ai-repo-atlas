@@ -1,6 +1,6 @@
 # dgesteves/ondocs
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dgesteves/ondocs) · [官网](https://ondocs.vercel.app) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dgesteves/ondocs) · [官网](https://ondocs.vercel.app) · 个人维护
 
 **给自有文档站加带引用的 Ask AI 与 MCP 服务，自托管**
 

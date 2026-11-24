@@ -1,6 +1,6 @@
 # SamurAIGPT/Text-To-Video-AI
 
-⭐ 8 · Jupyter Notebook · MIT · 推送 2026-10-08 · [GitHub](https://github.com/SamurAIGPT/Text-To-Video-AI) · [官网](https://www.vadoo.tv/text-to-video-ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **从文本提示自动生成带配音字幕的短视频**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

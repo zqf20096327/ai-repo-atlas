@@ -1,6 +1,6 @@
 # kayquer/portugues-tecnico-controlado
 
-⭐ 20 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kayquer/portugues-tecnico-controlado) · [官网](https://kayquer.github.io/portugues-tecnico-controlado/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kayquer/portugues-tecnico-controlado) · [官网](https://kayquer.github.io/portugues-tecnico-controlado/) · 个人维护
 
 **Claude Code 技能：按 9 条规则将巴西葡萄牙语技术文本改写为单义版本**
 

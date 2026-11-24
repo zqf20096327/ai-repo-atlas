@@ -1,6 +1,6 @@
 # AgileRL/AgileRL
 
-⭐ 971 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AgileRL/AgileRL) · [官网](https://agilerl.com) · 组织维护
+⭐ 973 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/AgileRL/AgileRL) · [官网](https://agilerl.com) · 组织维护
 
 **LLM 后训练与强化学习训练库：SFT/DPO/多轮 agentic RL 一体化**
 

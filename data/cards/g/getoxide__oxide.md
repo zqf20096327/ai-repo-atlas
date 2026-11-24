@@ -1,6 +1,6 @@
 # getoxide/oxide
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/getoxide/oxide) · [官网](https://oxide.cavallinilorenzo.com) · 组织维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/getoxide/oxide) · [官网](https://oxide.cavallinilorenzo.com) · 组织维护
 
 **面向 GitHub Project 的桌面终端，可在其中运行 AI 编码 CLI**
 

@@ -1,6 +1,6 @@
 # RunanywhereAI/runanywhere-sdks
 
-⭐ 10,354 · C++ · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/RunanywhereAI/runanywhere-sdks) · [官网](https://www.runanywhere.ai) · 组织维护
+⭐ 10,356 · C++ · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/RunanywhereAI/runanywhere-sdks) · [官网](https://www.runanywhere.ai) · 组织维护
 
 **面向开发者的端侧本地 AI 推理 SDK 套件**
 

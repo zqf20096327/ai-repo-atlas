@@ -1,6 +1,6 @@
 # guangxiangdebizi/FinanceMCP
 
-⭐ 874 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/guangxiangdebizi/FinanceMCP) · 个人维护 · 中文 README
+⭐ 874 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/guangxiangdebizi/FinanceMCP) · 个人维护 · 中文 README
 
 **为 AI Agent 提供多市场金融数据的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # DroBov1Tya/dusk_code
 
-⭐ 6 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DroBov1Tya/dusk_code) · [官网](https://drobov1tya.github.io/dusk_code/) · 个人维护
+⭐ 6 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DroBov1Tya/dusk_code) · [官网](https://drobov1tya.github.io/dusk_code/) · 个人维护
 
 **Rust 开源编程 agent：桌面/终端/浏览器多客户端**
 

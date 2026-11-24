@@ -1,6 +1,6 @@
 # neggles/animatediff-cli
 
-⭐ 271 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/neggles/animatediff-cli) · 个人维护
+⭐ 271 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neggles/animatediff-cli) · 个人维护
 
 **AnimateDiff 视频/动画生成的命令行工具，降低显存占用**
 

@@ -1,6 +1,6 @@
 # dropbox/hqq
 
-⭐ 963 · Python · Apache-2.0 · 推送 2026-02-26 · [GitHub](https://github.com/dropbox/hqq) · [官网](https://dropbox.github.io/hqq_blog/) · 组织维护
+⭐ 964 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dropbox/hqq) · [官网](https://dropbox.github.io/hqq_blog/) · 组织维护
 
 **大模型免校准量化库：分钟级完成 1-8bit 量化**
 

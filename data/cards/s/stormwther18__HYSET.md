@@ -1,6 +1,6 @@
 # stormwther18/HYSET
 
-⭐ 17 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/stormwther18/HYSET) · [官网](https://stormwther18-hyset-demo.hf.space) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-10-12 · [GitHub](https://github.com/stormwther18/HYSET) · [官网](https://stormwther18-hyset-demo.hf.space) · 个人维护 · 中文 README
 
 **面向 LLM Agent 的工具集合级检索方法：按查询预测超边选出联合可用的工具集**
 

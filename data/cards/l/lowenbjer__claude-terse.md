@@ -1,6 +1,6 @@
 # lowenbjer/claude-terse
 
-⭐ 57 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lowenbjer/claude-terse) · [官网](https://github.com/lowenbjer/claude-terse#readme) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lowenbjer/claude-terse) · [官网](https://github.com/lowenbjer/claude-terse#readme) · 个人维护
 
 **让 Claude Code 回复简短直白的输出风格插件**
 

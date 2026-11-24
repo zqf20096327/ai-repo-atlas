@@ -1,6 +1,6 @@
 # Sombrace/BoBe
 
-⭐ 10 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Sombrace/BoBe) · [官网](https://www.bobebot.com) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Sombrace/BoBe) · [官网](https://www.bobebot.com) · 个人维护
 
 **macOS 本地优先的主动式 AI 桌面伴侣**
 

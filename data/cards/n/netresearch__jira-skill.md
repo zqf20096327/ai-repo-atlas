@@ -1,6 +1,6 @@
 # netresearch/jira-skill
 
-⭐ 92 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/netresearch/jira-skill) · 组织维护
+⭐ 92 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/netresearch/jira-skill) · 组织维护
 
 **面向 Claude Code 等 AI agent 的 Jira 集成技能插件**
 

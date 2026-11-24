@@ -1,6 +1,6 @@
 # kobimusic/dettato
 
-⭐ 265 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kobimusic/dettato) · [官网](https://huggingface.co/collections/kobimusic/dettato) · 个人维护
+⭐ 294 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kobimusic/dettato) · [官网](https://huggingface.co/collections/kobimusic/dettato) · 个人维护
 
 **多乐器音频转 MIDI 转录器：从录音生成按乐器分轨的 MIDI**
 

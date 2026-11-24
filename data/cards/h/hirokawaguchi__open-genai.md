@@ -1,6 +1,6 @@
 # hirokawaguchi/open-genai
 
-⭐ 142 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hirokawaguchi/open-genai) · 个人维护
+⭐ 142 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hirokawaguchi/open-genai) · 个人维护
 
 **将日本政府 AI「源内」完全本地化部署的非官方项目**
 

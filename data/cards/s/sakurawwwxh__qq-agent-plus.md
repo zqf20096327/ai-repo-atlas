@@ -1,6 +1,6 @@
 # sakurawwwxh/qq-agent-plus
 
-⭐ 109 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sakurawwwxh/qq-agent-plus) · 个人维护 · 中文 README
+⭐ 110 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sakurawwwxh/qq-agent-plus) · 个人维护 · 中文 README
 
 **面向 Linux 服务器的 QQ 群聊 Agent，带贴纸/语音/主动发言与运维命令**
 

@@ -1,6 +1,6 @@
 # Mariete333/Gemini-Config-Checker-
 
-⭐ 52 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Mariete333/Gemini-Config-Checker-) · 个人维护
+⭐ 40 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Mariete333/Gemini-Config-Checker-) · 个人维护
 
 **代理配置扫描器：逐条检验能否进入 Google AI Studio 与 Gemini**
 

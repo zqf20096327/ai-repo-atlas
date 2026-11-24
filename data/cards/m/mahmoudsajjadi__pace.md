@@ -1,6 +1,6 @@
 # mahmoudsajjadi/pace
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mahmoudsajjadi/pace) · [官网](https://huggingface.co/spaces/sajjadi/pace-studio) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mahmoudsajjadi/pace) · [官网](https://huggingface.co/spaces/sajjadi/pace-studio) · 个人维护
 
 **面向研究者的多智能体 LLM 算力对齐评测工具包**
 

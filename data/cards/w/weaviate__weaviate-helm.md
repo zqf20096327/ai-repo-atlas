@@ -1,6 +1,6 @@
 # weaviate/weaviate-helm
 
-⭐ 69 · Shell · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/weaviate/weaviate-helm) · [官网](https://weaviate.io/developers/weaviate/current/) · 组织维护
+⭐ 69 · Shell · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/weaviate/weaviate-helm) · [官网](https://weaviate.io/developers/weaviate/current/) · 组织维护
 
 **将 Weaviate 向量数据库部署到 Kubernetes 的 Helm chart**
 

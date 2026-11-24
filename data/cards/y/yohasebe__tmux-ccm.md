@@ -1,6 +1,6 @@
 # yohasebe/tmux-ccm
 
-⭐ 17 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yohasebe/tmux-ccm) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yohasebe/tmux-ccm) · 个人维护
 
 **管理多项目并行 Claude Code 会话的 tmux 注意力管理插件**
 

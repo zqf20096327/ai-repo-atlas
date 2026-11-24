@@ -1,6 +1,6 @@
 # muffin-project/muffin-agent
 
-⭐ 35 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/muffin-project/muffin-agent) · 个人维护
+⭐ 35 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/muffin-project/muffin-agent) · 个人维护
 
 **单人自托管的个人 AI agent：跨模型与界面保持记忆与授权连续性**
 

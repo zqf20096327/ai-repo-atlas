@@ -1,6 +1,6 @@
 # aml4td/website
 
-⭐ 170 · HTML · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/aml4td/website) · [官网](https://aml4td.org/) · 个人维护
+⭐ 170 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/aml4td/website) · [官网](https://aml4td.org/) · 个人维护
 
 **面向表格数据预测建模的开放教材（书稿源文件）**
 

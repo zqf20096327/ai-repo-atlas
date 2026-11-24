@@ -1,6 +1,6 @@
 # alicevision/AliceVision
 
-⭐ 3,540 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/alicevision/AliceVision) · [官网](https://alicevision.org) · 组织维护
+⭐ 3,541 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/alicevision/AliceVision) · [官网](https://alicevision.org) · 组织维护
 
 **摄影测量计算机视觉框架：从照片重建 3D 场景与相机追踪**
 

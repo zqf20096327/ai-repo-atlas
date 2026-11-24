@@ -1,6 +1,6 @@
 # DawnJson/omp-studio
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DawnJson/omp-studio) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DawnJson/omp-studio) · 个人维护 · 中文 README
 
 **为 oh-my-pi 编码代理提供 Windows/macOS/Linux 桌面界面**
 

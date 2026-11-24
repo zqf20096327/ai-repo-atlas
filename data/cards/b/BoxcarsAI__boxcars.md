@@ -1,6 +1,6 @@
 # BoxcarsAI/boxcars
 
-⭐ 462 · Ruby · MIT · 推送 2026-11-14 · [GitHub](https://github.com/BoxcarsAI/boxcars) · 组织维护
+⭐ 461 · Ruby · MIT · 推送 2026-11-14 · [GitHub](https://github.com/BoxcarsAI/boxcars) · 组织维护
 
 **Ruby/Rails 团队构建 LLM 应用的组合式框架**
 

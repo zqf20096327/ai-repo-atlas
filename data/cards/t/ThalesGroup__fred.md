@@ -1,6 +1,6 @@
 # ThalesGroup/fred
 
-⭐ 76 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ThalesGroup/fred) · [官网](https://fredk8.dev) · 组织维护
+⭐ 76 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ThalesGroup/fred) · [官网](https://fredk8.dev) · 组织维护
 
 **面向团队与受监管场景的自托管 AI agent 平台（Thales 开源）**
 

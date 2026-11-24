@@ -1,6 +1,6 @@
 # LiusCraft/pi-desktop
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/LiusCraft/pi-desktop) · [官网](https://liuscraft.github.io/pi-desktop/) · 个人维护 · 中文 README
+⭐ 7 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LiusCraft/pi-desktop) · [官网](https://liuscraft.github.io/pi-desktop/) · 个人维护 · 中文 README
 
 **pi coding agent 的桌面客户端，Work/Code 双模式**
 

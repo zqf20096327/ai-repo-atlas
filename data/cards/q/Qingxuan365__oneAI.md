@@ -1,6 +1,6 @@
 # Qingxuan365/oneAI
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Qingxuan365/oneAI) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Qingxuan365/oneAI) · 个人维护 · 中文 README
 
 **在单一桌面窗口并排运行多个 AI 编码 CLI 的工作台**
 

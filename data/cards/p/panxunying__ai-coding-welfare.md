@@ -1,10 +1,10 @@
 # panxunying/ai-coding-welfare
 
-⭐ 1,394 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/panxunying/ai-coding-welfare) · [官网](https://panxunying.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
+⭐ 1,402 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/panxunying/ai-coding-welfare) · [官网](https://panxunying.github.io/ai-coding-welfare/) · 个人维护 · 中文 README
 
-**免费使用 Claude Code / Codex 的中转公益站收录与配置导航**
+**给 AI 编程用户的免费额度中转站导航清单**
 
-收录多个提供免费额度的 Claude Code / Codex 中转站与公益站，以表格形式列出各站首日可得额度、额度构成、兼容协议与注册条件，站点状态、模型与价格由脚本抓取公开接口自动更新，并提供变动日志与 Atom 订阅。配套一键 quickstart 脚本（bash/PowerShell）写入 ANTHROPIC_BASE_URL 等环境变量，站点详情页给出 Claude Code、Codex CLI、OpenAI SDK 的接入配置示例与连通性自测命令，同时标注各站的注册限制与风险提示。
+收录多个提供免费额度的 API 中转站与公益站的导航页，以表格列出各站状态、首日可得额度、额度构成、兼容协议、注册方式与邀请码；提供 git clone 后运行的一键配置脚本（bash/PowerShell）生成 Claude Code 环境变量；站点模型、价格与在线状态由脚本抓取公开接口自动更新，附可用性历史、变动日志与 Atom 订阅。每个站点条目含注册要求、接入配置示例与风险提示（如站内计价单位与美元换算、上游波动）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 收录 11+ 个中转/公益站，含额度构成、邀请码与注册门槛明细
-- 站点在线状态、模型与价格由脚本抓取公开接口自动更新，附变动日志与 Atom 订阅
-- 提供 bash/PowerShell 一键脚本写入环境变量，覆盖 Claude Code / Codex CLI 配置示例
-- 各站附使用前必读：计价倍率、证书与域名风险、封号规则等提示
+- 站点额度、模型、价格、在线状态由脚本抓取公开接口自动更新
+- 提供 bash/PowerShell 一键配置脚本写入 Claude Code 环境变量
+- 每站附注册要求、接入配置示例与使用前风险提示
+- 支持可用性历史横评、变动日志与 Atom 订阅
 
 ## 适用场景
 
-- 想找免费额度接入 Claude Code 或 Codex CLI 的开发者
-- 对比多个中转站的额度、倍率与注册条件后选择注册
-- 按站点详情页的示例快速配置环境变量与客户端
+- 查找提供免费额度的 Claude Code / Codex 可用接入站
+- 按协议与额度对比选择注册哪个中转站
+- 用一键脚本快速配置本地 Claude Code 环境变量
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L1: AI Coding 福利站导航
-> L5:  免费额度 · 白嫖 Claude Code / Codex / Cursor 的中转与公益站合集
-> L54: > 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-11-22 19:43 UTC`。
+> L54: > 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-11-23 23:55 UTC`。
+> L69: # 交互式写好 Claude Code 的环境变量（macOS / Linux，需要 Node.js）
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `9c34ca3d6848` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `2e12dff4885b` · [字段定义](../../DATASET.md)*

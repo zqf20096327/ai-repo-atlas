@@ -1,6 +1,6 @@
 # KyoMio/dsh-zen-remote
 
-⭐ 30 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/KyoMio/dsh-zen-remote) · [官网](https://www.npmjs.com/package/dsh-zen-remote) · 个人维护 · 中文 README
+⭐ 30 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/KyoMio/dsh-zen-remote) · [官网](https://zen-remote.com) · 个人维护 · 中文 README
 
 **让手机与另一台电脑远程使用 DeepSeek Harness 的双角色插件**
 

@@ -1,6 +1,6 @@
 # tinovyatkin/amazon-bedrock-copilot-chat
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tinovyatkin/amazon-bedrock-copilot-chat) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tinovyatkin/amazon-bedrock-copilot-chat) · 个人维护
 
 **把 Amazon Bedrock 模型接入 GitHub Copilot Chat 的 VSCode 扩展**
 

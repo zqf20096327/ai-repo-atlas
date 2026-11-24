@@ -1,6 +1,6 @@
 # apache/camel-kit
 
-⭐ 3 · Java · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/apache/camel-kit) · [官网](https://camel.apache.org) · 组织维护
+⭐ 4 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/apache/camel-kit) · [官网](https://camel.apache.org) · 组织维护
 
 **给开发者的 Camel 集成 AI 辅助开发与文档检索工具集**
 

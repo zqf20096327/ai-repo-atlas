@@ -1,6 +1,6 @@
 # DuongBaoNgocAI/youtube-machine
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/DuongBaoNgocAI/youtube-machine) · 组织维护
+⭐ 4 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/DuongBaoNgocAI/youtube-machine) · 组织维护
 
 **面向 YouTube 创作者的 27 项 AI 助手技能：从选niche到发布全流程**
 

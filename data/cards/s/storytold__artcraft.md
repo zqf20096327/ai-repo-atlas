@@ -1,6 +1,6 @@
 # storytold/artcraft
 
-⭐ 41,978 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/storytold/artcraft) · [官网](https://getartcraft.com) · 组织维护
+⭐ 42,098 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/storytold/artcraft) · [官网](https://getartcraft.com) · 组织维护
 
 **面向艺术家/设计师/影视人的 AI 图像与视频创作 IDE**
 

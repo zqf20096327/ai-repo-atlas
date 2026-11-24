@@ -1,6 +1,6 @@
 # open-retina/open-retina
 
-⭐ 27 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/open-retina/open-retina) · [官网](https://open-retina.org) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/open-retina/open-retina) · [官网](https://open-retina.org) · 组织维护
 
 **开源视网膜神经网络模型库：跨数据集与物种建模**
 

@@ -1,6 +1,6 @@
 # fracapuano/robot-learning-tutorial
 
-⭐ 610 · TeX · NOASSERTION · 推送 2026-04-09 · [GitHub](https://github.com/fracapuano/robot-learning-tutorial) · [官网](http://arxiv.org/abs/2510.12403) · 个人维护
+⭐ 611 · TeX · NOASSERTION · 推送 2026-04-09 · [GitHub](https://github.com/fracapuano/robot-learning-tutorial) · [官网](http://arxiv.org/abs/2510.12403) · 个人维护
 
 **机器人学习教程源码仓库，基于 lerobot 提供实践示例**
 

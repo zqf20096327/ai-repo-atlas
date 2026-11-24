@@ -1,6 +1,6 @@
 # PM-Shawn/Abu-Cowork
 
-⭐ 424 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PM-Shawn/Abu-Cowork) · [官网](https://abuwork.com) · 个人维护 · 中文 README
+⭐ 425 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/PM-Shawn/Abu-Cowork) · [官网](https://abuwork.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 桌面办公助理：自然语言驱动读写文件、执行命令与自动化**
 

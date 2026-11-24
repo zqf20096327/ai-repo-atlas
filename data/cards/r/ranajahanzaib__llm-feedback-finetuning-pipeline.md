@@ -1,6 +1,6 @@
 # ranajahanzaib/llm-feedback-finetuning-pipeline
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/llm-feedback-finetuning-pipeline) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/llm-feedback-finetuning-pipeline) · 个人维护
 
 **把业务反馈修正转为 Apple Silicon 本地 LoRA 微调模型的工作流**
 

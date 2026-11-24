@@ -1,6 +1,6 @@
 # franzmoca/ds41-gufo-extension
 
-⭐ 9 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/franzmoca/ds41-gufo-extension) · 个人维护
+⭐ 9 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/franzmoca/ds41-gufo-extension) · 个人维护
 
 **在单台 AMD Strix Halo 上运行 DeepSeek V4.1 Flash 的 Gufo 扩展**
 

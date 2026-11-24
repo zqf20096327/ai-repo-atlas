@@ -1,10 +1,10 @@
 # axoviq-ai/synthadoc
 
-⭐ 2,001 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/axoviq-ai/synthadoc) · [官网](https://axoviq.com/resources/synthadoc) · 组织维护
+⭐ 2,003 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/axoviq-ai/synthadoc) · [官网](https://axoviq.com/resources/synthadoc) · 组织维护
 
-**把文档编译为可溯源结构化本地 wiki 的 LLM 知识引擎**
+**把原始文档编译为本地结构化 wiki 的 LLM 知识引擎**
 
-Synthadoc 在摄取时而非查询时用 LLM 将 PDF、表格、PPT、网页、视频、AI 会话记录等源文档合成持久化 Markdown wiki：自动建立交叉引用与矛盾检测、孤儿页标记、每条声明附 `^[file:L-L]` 行级引用并可通过第二 LLM 对抗审查。所有摄取、查询与成本事件写入不可变审计库，支持软告警/硬门限费用控制、三层缓存、REST API、12 工具 MCP 服务器、Docker 镜像与 Obsidian 集成。AGPL-3.0 许可，面向个人、小团队与合规敏感的企业知识库。
+Synthadoc 读取 PDF、表格、PPT、网页、图片、视频、Word、TXT 与 AI 会话记录等源文档，在摄取阶段用 LLM 将其合成为持久化的结构化 wiki：自动构建交叉引用、检测矛盾、标记孤儿页，每条声明带 ^[file:L-L] 行级引用，输出为本地 Markdown，可在 Obsidian 或任何 wiki 生态中打开。内置审计日志（audit.db）、成本软警告/硬阈值、三层缓存、九个对话式维护工作流（预览 diff、确认后写入、可回滚）、REST API 与 12 工具 MCP server。面向个人、小团队与企业；AGPL-3.0 许可，本地优先、仅绑定 localhost。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ Synthadoc 在摄取时而非查询时用 LLM 将 PDF、表格、PPT、网页、�
 
 ## 能力要点
 
-- 摄取时编译知识并自动建 wikilink 图与 Louvain 主题聚类
-- 每条声明带行级引用，并有按行核验的忠实性检查
-- 九类对话式维护工作流，diff 预览、确认写入、可回滚
-- 不可变审计日志与软告警/硬门限成本阈值
+- 摄取时编译：新来源丰富并交叉链接整个语料，而非追加 chunk
+- 每条声明带 ^[file:L-L] 行级引用，支持按引用行核验
+- 九个对话式维护工作流：矛盾/孤儿/断链/内容健康解析，可回滚
+- 不可变 audit.db 审计日志记录每次摄取、查询与成本事件
 
 ## 适用场景
 
-- 把分散的 PDF/网页/会议记录汇成一个长期维护的知识库
-- 企业合规场景下全程本地化、留审计痕迹的知识平台
-- 个人研究 wiki 用免费 Gemini Flash 或本地 Ollama 零成本运行
-- 多个 wiki 间跨库提问并标注知识空白
+- 把研究资料和文档积累成可维护的个人 wiki
+- 搭建需要本地留存和审计的部门知识库
+- 跨多个 wiki 做一次提问并得到带出处的回答
 
 ## 场景标签
 
-`知识库管理` `知识图谱` · 领域:知识与检索
+`知识库管理` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
+> L27: **An LLM wiki you can trust and operate: compiled at ingest, cited to the source line, governed by an audit trail a
 > L33: Synthadoc reads your raw source documents — PDFs, spreadsheets, PPTs, web pages, images, videos, Word files, TXTs, 
-> L98: Most knowledge-management tools retrieve and summarize at query time. Synthadoc inverts this: it **compiles knowled
 > L109: |Provider choice|LLM backends including free-tier Gemini and Groq, paid Anthropic/OpenAI/DeepSeek/MiniMax/Qwen (Da
 
 ## 星数曲线
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `1a9f4a4b9d22` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `85c24f7ea735` · [字段定义](../../DATASET.md)*

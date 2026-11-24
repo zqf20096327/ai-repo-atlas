@@ -1,10 +1,10 @@
 # kubeshop/testkube
 
-⭐ 1,684 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/kubeshop/testkube) · [官网](https://testkube.io) · 组织维护
+⭐ 1,683 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/kubeshop/testkube) · [官网](https://testkube.io) · 组织维护
 
-**面向工程团队的 Kubernetes 开源测试平台**
+**为团队与 AI agent 提供统一的测试编排执行平台**
 
-Testkube 在 Kubernetes 上提供统一的自动化测试平台：定义、运行与分析 API、E2E、性能、安全、基础设施等任意测试与脚本，可手动、定时、从 CI/CD/GitOps、Kubernetes 事件、REST API 或 MCP 触发，聚合测试结果、产物、日志与资源指标。通过 Webhooks、REST API 与 MCP Server 集成既有工具，AI 能力包括 MCP Server 与原生 AI Agent 用于故障排查、分析与修复。本仓库为 MIT 许可的开源 Agent（单集群独立运行，无需控制面），另有商业控制面提供跨集群编排与 SSO/RBAC 等企业功能。
+运行在 Kubernetes 集群中的开源测试编排 agent（MIT 许可）：支持创建、调度、执行与分析 API、E2E、性能、安全等各类测试，聚合测试结果、日志与产物用于集中报告。测试可手动触发、按计划、经 CI/CD/GitOps 流水线、Kubernetes 事件或 REST API/MCP 触发；通过 Webhook、REST API 与 MCP Server 与现有工具集成。另提供商业控制平面实现跨集群统一管理与 AI 工作流生成等功能。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ Testkube 在 Kubernetes 上提供统一的自动化测试平台：定义、运�
 
 ## 能力要点
 
-- 在 Kubernetes 上运行任意测试/工具/脚本并聚合结果与指标
-- 多种触发方式：手动/定时/CI-CD/GitOps/Kubernetes 事件/REST API/MCP
-- MCP Server 与原生 AI Agent 用于排障、分析与修复
-- 开源 Agent（MIT）单集群独立运行 + 商业控制面跨集群管理
+- 在自有 Kubernetes 集群内独立运行，无需控制平面
+- 支持手动/定时/CI-CD/GitOps/K8s 事件/REST API/MCP 多种测试触发方式
+- 聚合测试结果、产物、日志与资源指标做集中报告
+- 提供 Testkube MCP Server 供 AI agent 集成
 
 ## 适用场景
 
-- 在自有 Kubernetes 集群中统一运行与编排自动化测试
-- 把既有测试脚本接入 CI/CD 与 GitOps 流程并集中查看结果
-- 用 AI Agent 辅助测试失败排查与修复
+- 在 Kubernetes 环境中统一编排和执行 API/E2E/性能等测试
+- 把测试触发接入现有 CI/CD 与 GitOps 流水线
+- 集中汇总多测试工具的结果与日志做故障排查
+- 通过 MCP 让 AI agent 调用测试执行与分析能力
 
 ## 场景标签
 
- · 领域:测试自动化/DevOps
+ · 领域:DevOps/测试自动化
 
 ## 证据(README 行号)
 
-> L7: Testkube provides a single platform for defining, running and analyzing automated tests, using your existing testing
+> L7: Testkube gives teams and AI agents one place to create, orchestrate, execute and analyze any test in their existing 
 > L25: - **Testkube AI**: Use the Testkube MCP Server or native AI Agents for troubleshooting, analysis, remediation, etc 
+> L36: MIT-licensed, runs standalone in your Kubernetes cluster, no control plane required. Great for single-cluster setup
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b3777ea87657` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3043f351b9cc` · [字段定义](../../DATASET.md)*

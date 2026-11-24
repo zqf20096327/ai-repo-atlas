@@ -1,6 +1,6 @@
 # freestylefly/wesight
 
-⭐ 975 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/freestylefly/wesight) · [官网](https://wesight.ai) · 个人维护 · 中文 README
+⭐ 976 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/freestylefly/wesight) · [官网](https://wesight.ai) · 个人维护 · 中文 README
 
 **桌面 AI agent 工作台：统一安装、运行与监控本地编码 agent**
 

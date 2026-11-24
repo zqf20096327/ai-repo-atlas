@@ -1,6 +1,6 @@
 # dodo-mojo/dodo
 
-⭐ 10 · Mojo · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dodo-mojo/dodo) · 个人维护
+⭐ 11 · Mojo · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dodo-mojo/dodo) · 个人维护
 
 **Mojo 语言的 Web 框架，同一进程内置 AI/GPU/视觉能力**
 

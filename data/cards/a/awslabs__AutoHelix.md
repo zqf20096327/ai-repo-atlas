@@ -1,6 +1,6 @@
 # awslabs/AutoHelix
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/awslabs/AutoHelix) · 组织维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/awslabs/AutoHelix) · 组织维护
 
 **让 AI agent 在验证回路中迭代改进代码与模型的工具**
 

@@ -1,6 +1,6 @@
 # renezander030/agentic-task-system
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/renezander030/agentic-task-system) · [官网](https://www.npmjs.com/package/@reneza/ats-cli) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/renezander030/agentic-task-system) · [官网](https://www.npmjs.com/package/@reneza/ats-cli) · 个人维护
 
 **给 AI agent 的任务上下文层：MCP 服务 + CLI，覆盖 TickTick/Notion/GitHub 等**
 

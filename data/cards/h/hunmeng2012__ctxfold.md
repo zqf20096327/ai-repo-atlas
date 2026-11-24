@@ -1,6 +1,6 @@
 # hunmeng2012/ctxfold
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hunmeng2012/ctxfold) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hunmeng2012/ctxfold) · 个人维护 · 中文 README
 
 **给 Pi Agent 分层注入与按任务裁剪系统提示词的控制台**
 

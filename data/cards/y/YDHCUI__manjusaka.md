@@ -1,6 +1,6 @@
 # YDHCUI/manjusaka
 
-⭐ 904 · Rust · 推送 2026-11-06 · [GitHub](https://github.com/YDHCUI/manjusaka) · 个人维护 · 中文 README
+⭐ 904 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/YDHCUI/manjusaka) · 个人维护 · 中文 README
 
 **AI 辅助的全平台远程主机管理与渗透工具（C2 框架）**
 

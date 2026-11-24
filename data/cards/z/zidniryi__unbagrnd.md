@@ -1,6 +1,6 @@
 # zidniryi/unbagrnd
 
-⭐ 195 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/zidniryi/unbagrnd) · [官网](https://zidniryi.space/unbagrnd/) · 个人维护
+⭐ 196 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/zidniryi/unbagrnd) · [官网](https://zidniryi.space/unbagrnd/) · 个人维护
 
 **跨平台本地 AI 抠图工具：设备端去除图片背景**
 

@@ -1,6 +1,6 @@
 # microsoft/Microsoft-AI-Decision-Framework
 
-⭐ 105 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Microsoft-AI-Decision-Framework) · 组织维护
+⭐ 106 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Microsoft-AI-Decision-Framework) · 组织维护
 
 **微软官方 AI 技术选型决策指南，帮架构师选对 AI 产品**
 

@@ -1,6 +1,6 @@
 # Verenu/Verenu
 
-⭐ 18 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Verenu/Verenu) · [官网](https://verenu.com) · 组织维护
+⭐ 18 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Verenu/Verenu) · [官网](https://verenu.com) · 组织维护
 
 **跨平台开源 AI 听写桌面应用：按住热键说话即得整理文本**
 

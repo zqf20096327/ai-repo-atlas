@@ -1,6 +1,6 @@
 # saintberat/jubbio-docs-for-llms
 
-⭐ 3 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/saintberat/jubbio-docs-for-llms) · 个人维护
+⭐ 3 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/saintberat/jubbio-docs-for-llms) · 个人维护
 
 **为 LLM 与 AI agent 提供的 Jubbio 平台开发者文档库**
 

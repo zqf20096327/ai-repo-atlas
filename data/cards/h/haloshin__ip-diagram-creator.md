@@ -1,6 +1,6 @@
 # haloshin/ip-diagram-creator
 
-⭐ 270 · MIT · 推送 2026-06-26 · [GitHub](https://github.com/haloshin/ip-diagram-creator) · 个人维护 · 中文 README
+⭐ 271 · MIT · 推送 2026-06-26 · [GitHub](https://github.com/haloshin/ip-diagram-creator) · 个人维护 · 中文 README
 
 **面向个人 IP 创作者的 Agent 技能：把形象与内容生成为图解**
 

@@ -1,6 +1,6 @@
 # onfire7777/universal-ai-skills-library
 
-⭐ 17 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/onfire7777/universal-ai-skills-library) · [官网](https://github.com/onfire7777/universal-ai-skills-library/wiki) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/onfire7777/universal-ai-skills-library) · [官网](https://github.com/onfire7777/universal-ai-skills-library/wiki) · 个人维护
 
 **为多款 AI 客户端提供共享技能库与按需路由加载的技能系统**
 

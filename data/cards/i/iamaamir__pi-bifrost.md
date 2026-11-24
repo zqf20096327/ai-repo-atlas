@@ -1,6 +1,6 @@
 # iamaamir/pi-bifrost
 
-⭐ 82 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/iamaamir/pi-bifrost) · [官网](https://iamaamir.github.io/pi-bifrost/) · 个人维护
+⭐ 82 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iamaamir/pi-bifrost) · [官网](https://iamaamir.github.io/pi-bifrost/) · 个人维护
 
 **Pi 编码助手的模型路由扩展：按层级为每轮对话选择模型**
 

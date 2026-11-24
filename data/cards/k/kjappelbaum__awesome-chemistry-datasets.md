@@ -1,6 +1,6 @@
 # kjappelbaum/awesome-chemistry-datasets
 
-⭐ 430 · CC0-1.0 · 推送 2026-09-01 · [GitHub](https://github.com/kjappelbaum/awesome-chemistry-datasets) · 个人维护
+⭐ 431 · CC0-1.0 · 推送 2026-09-01 · [GitHub](https://github.com/kjappelbaum/awesome-chemistry-datasets) · 个人维护
 
 **面向化学机器学习的数据集策展清单**
 

@@ -1,6 +1,6 @@
 # delexw/motion-graphics-agent
 
-⭐ 122 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/delexw/motion-graphics-agent) · 个人维护 · 中文 README
+⭐ 131 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/delexw/motion-graphics-agent) · 个人维护 · 中文 README
 
 **把创意变成动态图形短片的本地 AI 视频生成代理**
 

@@ -1,6 +1,6 @@
 # kennywu411-dev/honestly
 
-⭐ 3 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/kennywu411-dev/honestly) · [官网](https://pypi.org/project/honestly/) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kennywu411-dev/honestly) · [官网](https://pypi.org/project/honestly/) · 个人维护 · 中文 README
 
 **拦截 AI 编码代理“测试通过”虚报的确定性 hook 工具**
 

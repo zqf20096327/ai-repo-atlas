@@ -1,6 +1,6 @@
 # open-spaced-repetition/fsrs-rs
 
-⭐ 463 · Rust · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/open-spaced-repetition/fsrs-rs) · [官网](https://crates.io/crates/fsrs) · 组织维护
+⭐ 464 · Rust · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/open-spaced-repetition/fsrs-rs) · [官网](https://crates.io/crates/fsrs) · 组织维护
 
 **FSRS 间隔重复算法的 Rust 实现：排程与参数优化**
 

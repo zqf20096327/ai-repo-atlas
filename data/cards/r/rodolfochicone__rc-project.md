@@ -1,6 +1,6 @@
 # rodolfochicone/rc-project
 
-⭐ 21 · JavaScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/rodolfochicone/rc-project) · [官网](https://rodolfochicone.dev) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-08-06 · [GitHub](https://github.com/rodolfochicone/rc-project) · [官网](https://rodolfochicone.dev) · 个人维护
 
 **Claude Code 的工程化 skills/agents/hooks 插件：从想法到 PR**
 

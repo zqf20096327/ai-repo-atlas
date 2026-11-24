@@ -1,6 +1,6 @@
 # N1nEmAn/sapper-v2
 
-⭐ 2,552 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/N1nEmAn/sapper-v2) · [官网](https://github.com/N1nEmAn/nvwabase) · 个人维护 · 中文 README
+⭐ 2,590 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/N1nEmAn/sapper-v2) · [官网](https://github.com/N1nEmAn/nvwabase) · 个人维护 · 中文 README
 
 **面向授权渗透测试的多 Agent 自主编排军团（CTF 冠军方案）**
 

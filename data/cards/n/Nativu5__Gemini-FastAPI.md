@@ -1,6 +1,6 @@
 # Nativu5/Gemini-FastAPI
 
-⭐ 716 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Nativu5/Gemini-FastAPI) · 个人维护 · 中文 README
+⭐ 717 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nativu5/Gemini-FastAPI) · 个人维护 · 中文 README
 
 **将 Gemini 网页版封装为 OpenAI 兼容 API 的服务**
 

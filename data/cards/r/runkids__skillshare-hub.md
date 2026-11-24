@@ -1,6 +1,6 @@
 # runkids/skillshare-hub
 
-⭐ 22 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/runkids/skillshare-hub) · 个人维护 · 中文 README
+⭐ 22 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/runkids/skillshare-hub) · 个人维护 · 中文 README
 
 **AI CLI 技能策展目录：232 个技能、11 类，可自建组织内部 hub**
 

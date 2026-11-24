@@ -1,6 +1,6 @@
 # catboost/catboost
 
-⭐ 9,211 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/catboost/catboost) · [官网](https://catboost.ai) · 组织维护
+⭐ 9,213 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/catboost/catboost) · [官网](https://catboost.ai) · 组织维护
 
 **梯度提升决策树机器学习库，用于分类/回归/排序**
 

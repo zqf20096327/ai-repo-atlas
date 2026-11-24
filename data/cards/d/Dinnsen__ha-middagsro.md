@@ -1,6 +1,6 @@
 # Dinnsen/ha-middagsro
 
-⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Dinnsen/ha-middagsro) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Dinnsen/ha-middagsro) · 个人维护
 
 **丹麦用户基于 REMA 1000 优惠用 AI 排晚餐计划与购物清单**
 

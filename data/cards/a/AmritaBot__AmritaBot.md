@@ -1,6 +1,6 @@
 # AmritaBot/AmritaBot
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/AmritaBot/AmritaBot) · [官网](https://bot.amritabot.com/) · 组织维护 · 中文 README
+⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AmritaBot/AmritaBot) · [官网](https://bot.amritabot.com/) · 组织维护 · 中文 README
 
 **基于 NoneBot2 的 LLM 聊天机器人项目，面向 QQ 平台**
 

@@ -1,6 +1,6 @@
 # cc2025cheng/Stop-Manually-Refreshing-AutoDL-GPU
 
-⭐ 41 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cc2025cheng/Stop-Manually-Refreshing-AutoDL-GPU) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cc2025cheng/Stop-Manually-Refreshing-AutoDL-GPU) · 个人维护 · 中文 README
 
 **AutoDL 租卡用户的空闲 GPU 监控与自动开机工具**
 

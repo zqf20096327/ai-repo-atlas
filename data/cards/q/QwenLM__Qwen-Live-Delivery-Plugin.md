@@ -1,6 +1,6 @@
 # QwenLM/Qwen-Live-Delivery-Plugin
 
-⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/QwenLM/Qwen-Live-Delivery-Plugin) · 组织维护 · 中文 README
+⭐ 51 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/QwenLM/Qwen-Live-Delivery-Plugin) · 组织维护 · 中文 README
 
 **Codex CLI 长任务持续交付与人机协同插件**
 

@@ -1,6 +1,6 @@
 # chuantiet5-stack/zhiqi-ai-education-assistant
 
-⭐ 3 · Python · 推送 2026-10-12 · [GitHub](https://github.com/chuantiet5-stack/zhiqi-ai-education-assistant) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向学生与家长的教育 Agent 应用：RAG 问答、批改与陪学**
 

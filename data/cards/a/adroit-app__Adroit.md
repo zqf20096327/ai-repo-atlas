@@ -1,6 +1,6 @@
 # adroit-app/Adroit
 
-⭐ 15 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/adroit-app/Adroit) · [官网](https://adroit-app.github.io/) · 组织维护
+⭐ 15 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adroit-app/Adroit) · [官网](https://adroit-app.github.io/) · 组织维护
 
 **Vim 用户的编码 agent 工作区：并排管理多个 Claude Code/Codex 会话**
 

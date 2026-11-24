@@ -1,6 +1,6 @@
 # Rhizobium-gits/jellyfish-ai
 
-⭐ 3 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Rhizobium-gits/jellyfish-ai) · 个人维护 · 中文 README
+⭐ 3 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Rhizobium-gits/jellyfish-ai) · 个人维护 · 中文 README
 
 **桌面像素水母即独立 AI 代理的 macOS 应用**
 

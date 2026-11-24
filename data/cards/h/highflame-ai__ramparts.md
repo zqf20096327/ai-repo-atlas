@@ -1,6 +1,6 @@
 # highflame-ai/ramparts
 
-⭐ 99 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/highflame-ai/ramparts) · [官网](https://www.highflame.com) · 组织维护
+⭐ 99 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/highflame-ai/ramparts) · [官网](https://www.highflame.com) · 组织维护
 
 **MCP 服务器与 AI agent 技能文件的安全扫描器**
 

@@ -1,6 +1,6 @@
 # Noveum/ai-gateway
 
-⭐ 100 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Noveum/ai-gateway) · [官网](https://noveum.ai) · 组织维护
+⭐ 100 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Noveum/ai-gateway) · [官网](https://noveum.ai) · 组织维护
 
 **Rust 编写的 OpenAI 兼容多供应商 AI 网关**
 

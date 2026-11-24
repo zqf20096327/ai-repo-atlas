@@ -1,6 +1,6 @@
 # hibuka-labs/phi-agent
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/hibuka-labs/phi-agent) · [官网](https://docs.phiagent.dev) · 组织维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hibuka-labs/phi-agent) · [官网](https://docs.phiagent.dev) · 组织维护
 
 **Rust AI Agent 运行时框架：自带编排/会话/流式，工具由用户定义**
 

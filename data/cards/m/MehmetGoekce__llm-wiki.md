@@ -1,6 +1,6 @@
 # MehmetGoekce/llm-wiki
 
-⭐ 170 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/MehmetGoekce/llm-wiki) · 个人维护
+⭐ 170 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MehmetGoekce/llm-wiki) · 个人维护
 
 **用 Claude Code 维护个人 LLM 知识库 Wiki 的工具**
 

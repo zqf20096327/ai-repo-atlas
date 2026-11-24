@@ -1,6 +1,6 @@
 # SikamikanikoBG/homelab-monitor
 
-⭐ 239 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SikamikanikoBG/homelab-monitor) · [官网](https://sikamikanikobg.github.io/homelab-monitor/) · 个人维护
+⭐ 238 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SikamikanikoBG/homelab-monitor) · [官网](https://sikamikanikobg.github.io/homelab-monitor/) · 个人维护
 
 **自托管家庭实验室监控面板：GPU/容器/成本/AI 模型一页掌握**
 

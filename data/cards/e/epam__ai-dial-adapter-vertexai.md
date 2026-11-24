@@ -1,6 +1,6 @@
 # epam/ai-dial-adapter-vertexai
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/epam/ai-dial-adapter-vertexai) · [官网](https://dialx.ai) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epam/ai-dial-adapter-vertexai) · [官网](https://dialx.ai) · 组织维护
 
 **为 AI DIAL 平台适配 Google Vertex AI 模型 API 的适配器**
 

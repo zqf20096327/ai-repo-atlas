@@ -1,6 +1,6 @@
 # lnyuqian/comfyui-pose-gallery
 
-⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lnyuqian/comfyui-pose-gallery) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/lnyuqian/comfyui-pose-gallery) · 个人维护 · 中文 README
 
 **ComfyUI 姿态素材库浏览节点：可视化选线稿并接入生图流程**
 

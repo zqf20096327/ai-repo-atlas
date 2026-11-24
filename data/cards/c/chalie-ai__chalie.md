@@ -1,6 +1,6 @@
 # chalie-ai/chalie
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/chalie-ai/chalie) · [官网](https://chalie.ai) · 组织维护
+⭐ 25 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/chalie-ai/chalie) · [官网](https://chalie.ai) · 组织维护
 
 **本地自托管的个人 AI 助理：长期记忆、代理行动**
 

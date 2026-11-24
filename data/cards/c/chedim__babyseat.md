@@ -1,6 +1,6 @@
 # chedim/babyseat
 
-⭐ 23 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chedim/babyseat) · 个人维护
+⭐ 22 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/chedim/babyseat) · 个人维护
 
 **本地运行的带实时记忆的 LLM 代理座椅，替代全量聊天历史**
 

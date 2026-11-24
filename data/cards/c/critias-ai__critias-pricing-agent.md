@@ -1,6 +1,6 @@
 # critias-ai/critias-pricing-agent
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/critias-ai/critias-pricing-agent) · [官网](https://critias.ai) · 组织维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/critias-ai/critias-pricing-agent) · [官网](https://critias.ai) · 组织维护
 
 **本地定价分析 agent：对自己数据做毛利与价量分析并核验数字**
 

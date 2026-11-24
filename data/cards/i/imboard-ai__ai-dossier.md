@@ -1,6 +1,6 @@
 # imboard-ai/ai-dossier
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/imboard-ai/ai-dossier) · [官网](https://ai-dossier.dev) · 组织维护
+⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/imboard-ai/ai-dossier) · [官网](https://ai-dossier.dev) · 组织维护
 
 **给 agent 技能加签名与版本的开源标准及 CLI 工具**
 

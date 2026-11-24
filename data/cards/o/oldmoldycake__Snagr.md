@@ -1,6 +1,6 @@
 # oldmoldycake/Snagr
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/oldmoldycake/Snagr) · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/oldmoldycake/Snagr) · 个人维护
 
 **自托管二手市场价格追踪器：LLM agent 驱动浏览器巡检在售商品**
 

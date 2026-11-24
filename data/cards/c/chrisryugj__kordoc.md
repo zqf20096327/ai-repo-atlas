@@ -1,6 +1,6 @@
 # chrisryugj/kordoc
 
-⭐ 3,106 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chrisryugj/kordoc) · [官网](https://pubax.org/kordoc/) · 个人维护
+⭐ 3,115 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/chrisryugj/kordoc) · [官网](https://pubax.org/kordoc/) · 个人维护
 
 **供 AI 读写韩国公文文档的转换库：HWP/HWPX/PDF↔Markdown**
 

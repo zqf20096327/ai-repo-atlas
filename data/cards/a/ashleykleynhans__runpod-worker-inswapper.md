@@ -1,6 +1,6 @@
 # ashleykleynhans/runpod-worker-inswapper
 
-⭐ 30 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ashleykleynhans/runpod-worker-inswapper) · 个人维护
+⭐ 30 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ashleykleynhans/runpod-worker-inswapper) · 个人维护
 
 **RunPod Serverless 换脸推理 worker：14 种模型可选**
 

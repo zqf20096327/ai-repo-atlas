@@ -1,6 +1,6 @@
 # iDiagoValeta/localOllamaRAG
 
-⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/iDiagoValeta/localOllamaRAG) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iDiagoValeta/localOllamaRAG) · 个人维护
 
 **本地多模态 RAG 应用：用自有模型对 PDF 提问并获得有据回答**
 

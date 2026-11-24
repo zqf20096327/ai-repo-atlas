@@ -1,6 +1,6 @@
 # emplio-app/emplio
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/emplio-app/emplio) · [官网](https://emplio.app) · 组织维护
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/emplio-app/emplio) · [官网](https://emplio.app) · 组织维护
 
 **给整个团队共享的开源 AI 员工，自动干活并自我学习**
 

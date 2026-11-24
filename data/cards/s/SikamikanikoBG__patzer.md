@@ -1,6 +1,6 @@
 # SikamikanikoBG/patzer
 
-⭐ 80 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SikamikanikoBG/patzer) · [官网](https://sikamikanikobg.github.io/patzer/) · 个人维护
+⭐ 81 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SikamikanikoBG/patzer) · [官网](https://sikamikanikobg.github.io/patzer/) · 个人维护
 
 **自托管的私有国际象棋平台：复盘、对弈与本地 LLM 教练**
 

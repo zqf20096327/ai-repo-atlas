@@ -1,6 +1,6 @@
 # sattyamjjain/agent-audit-kit
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sattyamjjain/agent-audit-kit) · [官网](https://github.com/sattyamjjain/agent-audit-kit#readme) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sattyamjjain/agent-audit-kit) · [官网](https://github.com/sattyamjjain/agent-audit-kit#readme) · 个人维护
 
 **MCP 连接的 AI agent 管道静态安全扫描器**
 

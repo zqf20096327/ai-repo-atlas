@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/AuK
 
-⭐ 1,620 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Tencent-Hunyuan/AuK) · [官网](https://auk-project.github.io/) · 组织维护 · 中文 README
+⭐ 1,619 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Tencent-Hunyuan/AuK) · [官网](https://auk-project.github.io/) · 组织维护 · 中文 README
 
 **15亿参数语音生成与编辑基础模型，统一自然语言指令接口**
 

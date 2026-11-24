@@ -1,6 +1,6 @@
 # roitberg-group/torchani-amber
 
-⭐ 18 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/roitberg-group/torchani-amber) · 组织维护
+⭐ 18 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/roitberg-group/torchani-amber) · 组织维护
 
 **在 Amber 分子动力学软件中接入 ANI 等神经网势的接口**
 

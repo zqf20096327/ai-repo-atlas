@@ -1,6 +1,6 @@
 # irahardianto/pi-mcp-extension
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/irahardianto/pi-mcp-extension) · [官网](https://pi.dev/packages/pi-mcp-extension) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/irahardianto/pi-mcp-extension) · [官网](https://pi.dev/packages/pi-mcp-extension) · 个人维护
 
 **为 Pi 编码代理接入任意 MCP 服务器的客户端扩展**
 

@@ -1,6 +1,6 @@
 # Sovgrid/sovereign-fleet
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Sovgrid/sovereign-fleet) · [官网](https://sovgrid.org/fleet/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Sovgrid/sovereign-fleet) · [官网](https://sovgrid.org/fleet/) · 个人维护
 
 **为自主编码 agent CLI 提供内核级沙箱任务队列与路由调度**
 

@@ -1,6 +1,6 @@
 # ayushi-agarwall/graphagent
 
-⭐ 44 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/ayushi-agarwall/graphagent) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/ayushi-agarwall/graphagent) · 个人维护
 
 **零依赖的极简 AI agent 编排框架（<100 行核心）**
 

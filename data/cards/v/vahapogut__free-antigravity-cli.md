@@ -1,6 +1,6 @@
 # vahapogut/free-antigravity-cli
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vahapogut/free-antigravity-cli) · [官网](https://www.npmjs.com/package/free-antigravity-cli) · 个人维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vahapogut/free-antigravity-cli) · [官网](https://www.npmjs.com/package/free-antigravity-cli) · 个人维护
 
 **为官方 Antigravity CLI 接入自定义 AI 模型的本地代理包装器**
 

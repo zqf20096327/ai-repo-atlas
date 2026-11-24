@@ -1,6 +1,6 @@
 # pocketpaw/pocketpaw
 
-⭐ 935 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pocketpaw/pocketpaw) · [官网](http://pocketpaw.xyz/) · 组织维护
+⭐ 937 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pocketpaw/pocketpaw) · [官网](http://pocketpaw.xyz/) · 组织维护
 
 **自托管个人 AI agent：桌面应用+多渠道对话+7 层安全**
 

@@ -1,6 +1,6 @@
 # VedanthB/context7-cli
 
-⭐ 22 · JavaScript · 推送 2026-11-16 · [GitHub](https://github.com/VedanthB/context7-cli) · [官网](https://vedanthb.github.io/context7-cli/) · 个人维护
+⭐ 22 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/VedanthB/context7-cli) · [官网](https://vedanthb.github.io/context7-cli/) · 个人维护
 
 **在终端获取最新版库文档的 Context7 CLI，无需 MCP**
 

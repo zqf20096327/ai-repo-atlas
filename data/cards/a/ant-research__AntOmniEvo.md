@@ -1,6 +1,6 @@
 # ant-research/AntOmniEvo
 
-⭐ 1,234 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ant-research/AntOmniEvo) · 组织维护 · 中文 README
+⭐ 1,236 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ant-research/AntOmniEvo) · 组织维护 · 中文 README
 
 **面向 AI agent 系统的自动进化优化框架**
 

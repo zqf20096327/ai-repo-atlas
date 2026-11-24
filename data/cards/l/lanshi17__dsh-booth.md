@@ -1,6 +1,6 @@
 # lanshi17/dsh-booth
 
-⭐ 3 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/lanshi17/dsh-booth) · 个人维护 · 中文 README
+⭐ 3 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/lanshi17/dsh-booth) · 个人维护 · 中文 README
 
 **dsh agent 团队的终端控制台：提交工单、监督执行、命令面板操作**
 

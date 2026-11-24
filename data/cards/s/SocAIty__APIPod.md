@@ -1,6 +1,6 @@
 # SocAIty/APIPod
 
-⭐ 29 · Python · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/SocAIty/APIPod) · 组织维护
+⭐ 29 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SocAIty/APIPod) · 组织维护
 
 **面向 AI 服务的 FastAPI 风格框架：本地开发到 GPU 云部署**
 

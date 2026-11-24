@@ -1,6 +1,6 @@
 # bidual/awesome-dgx-spark
 
-⭐ 104 · Shell · CC0-1.0 · 推送 2026-11-04 · [GitHub](https://github.com/bidual/awesome-dgx-spark) · 个人维护
+⭐ 105 · Shell · CC0-1.0 · 推送 2026-11-04 · [GitHub](https://github.com/bidual/awesome-dgx-spark) · 个人维护
 
 **NVIDIA DGX Spark（GB10）社区工具与指南策展清单**
 

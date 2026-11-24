@@ -1,6 +1,6 @@
 # wpgaurav/generateblocks-skills
 
-⭐ 143 · PHP · 推送 2026-10-28 · [GitHub](https://github.com/wpgaurav/generateblocks-skills) · [官网](https://gauravtiwari.org/tools/html-to-generateblocks-converter/) · 个人维护
+⭐ 144 · PHP · 推送 2026-10-28 · [GitHub](https://github.com/wpgaurav/generateblocks-skills) · [官网](https://gauravtiwari.org/tools/html-to-generateblocks-converter/) · 个人维护
 
 **GenerateBlocks WordPress 插件的 AI 编码助手技能文档包**
 

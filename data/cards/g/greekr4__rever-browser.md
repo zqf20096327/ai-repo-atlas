@@ -1,6 +1,6 @@
 # greekr4/rever-browser
 
-⭐ 61 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/greekr4/rever-browser) · [官网](https://github.com/greekr4/rever-browser/releases/latest) · 个人维护
+⭐ 61 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/greekr4/rever-browser) · [官网](https://github.com/greekr4/rever-browser/releases/latest) · 个人维护
 
 **面向 API 逆向工程的 agent 驱动桌面工作台**
 

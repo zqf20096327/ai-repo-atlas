@@ -1,10 +1,10 @@
 # Ebony-Vinyl/dsh-our-free-model
 
-⭐ 83,918 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Ebony-Vinyl/dsh-our-free-model) · 个人维护 · 中文 README
+⭐ 85,063 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Ebony-Vinyl/dsh-our-free-model) · 个人维护 · 中文 README
 
-**dsh 插件：免登录免 Key 直接使用免费前沿模型**
+**dsh 免费模型插件：免 Key 接入免费前沿模型与本地网关**
 
-为 dsh（DeepSeek Harness）宿主提供的模型接入插件：挂载后无需登录、注册或 API Key 即可在模型选择器中使用上游免费网关的模型清单，清单随上游刷新并按本机网络出口实测可用性过滤。内置 Kilo 免费池、十账号渠道、聚合渠道（76 家提供商注册表）、OpenAI 与 Anthropic 兼容的本地转发端口、降级链路由、Token 压缩与用量看板。以纯插件形式安装，零依赖、无构建步骤；独立本地服务入口开发中，安装制品尚未发布。免费车道按出口 IP 计配额，插件内置断路器。
+挂在 dsh 宿主上的纯插件，不改内核、零依赖、无构建步骤；无需账号或 API Key 即可使用免费车道模型（来源为 OpenCode Zen 网关与 Kilo 公共网关）。模型清单每次刷新向上游拉取，选择器按出口实测剔除不可用模型；思考强度按档位菜单或 token 预算真实下发。另提供 OpenAI/Anthropic 兼容本地转发端口、用量看板（数据留本机）、十账号渠道接入、聚合渠道（内置 76 家提供商注册表）与降级链路由。EAC 渠道需 GitHub 登录并 star 仓库，仅桌面端可用。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,16 +27,17 @@
 
 ## 能力要点
 
-- 免账号免 Key 使用上游免费网关模型，清单随上游实时刷新
-- OpenAI 兼容转发端口（含 /v1/messages Anthropic 兼容接口），本机工具可直接调用
-- 聚合渠道内置 76 家提供商注册表，聚合 Ollama、LM Studio、llama.cpp 等本地运行时
-- 用量看板与运行日志数据全部留在本机，支持降级链路由与省 Token 压缩
+- 免登录免 Key 使用免费车道模型，清单跟随上游实时刷新
+- 本地网关提供 OpenAI 与 Anthropic 兼容端点，供其它工具调用
+- 聚合渠道内置 76 家提供商注册表，Key 只写本机 0600 文件
+- 用量看板、省 Token 压缩与命名降级链路由均在本机完成
 
 ## 适用场景
 
-- 在 dsh 中不注册任何账号就使用 DeepSeek、Kimi 等免费模型
-- 把本机其他工具经本地网关接入同一批免费模型
-- 为多个第三方模型端点统一管理 Key、探测可用性并配置降级链
+- 在 dsh 里不注册账号直接调用免费前沿模型
+- 给本机其它工具配一个 OpenAI 兼容 base URL 复用同一批模型
+- 把多个第三方端点的 Key 聚合进同一条模型清单统一管理
+- 为关键调用配置降级链以应对配额限制
 
 ## 场景标签
 
@@ -62,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `153f5041ed28` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b9e350f27116` · [字段定义](../../DATASET.md)*

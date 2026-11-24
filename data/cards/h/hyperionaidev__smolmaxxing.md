@@ -1,6 +1,6 @@
 # hyperionaidev/smolmaxxing
 
-⭐ 1,107 · C · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hyperionaidev/smolmaxxing) · [官网](https://hyperion-ai.com/products/smolmaxxing) · 组织维护
+⭐ 1,123 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hyperionaidev/smolmaxxing) · [官网](https://hyperion-ai.com/products/smolmaxxing) · 组织维护
 
 **在电视盒/旧手机/Kindle 等小设备上运行大语言模型的 llama.cpp 补丁集**
 

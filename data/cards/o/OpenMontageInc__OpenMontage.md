@@ -1,6 +1,6 @@
 # OpenMontageInc/OpenMontage
 
-⭐ 82,392 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenMontageInc/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护 · 中文 README
+⭐ 82,731 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenMontageInc/OpenMontage) · [官网](https://www.openmontage.video/) · 组织维护 · 中文 README
 
 **把 AI 编程助手变成完整视频制作工作室的开源系统**
 

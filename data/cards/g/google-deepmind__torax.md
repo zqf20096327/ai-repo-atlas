@@ -1,6 +1,6 @@
 # google-deepmind/torax
 
-⭐ 759 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/torax) · [官网](https://torax.readthedocs.io) · 组织维护
+⭐ 759 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/google-deepmind/torax) · [官网](https://torax.readthedocs.io) · 组织维护
 
 **面向聚变科研的可微分托卡马克一维输运模拟器**
 

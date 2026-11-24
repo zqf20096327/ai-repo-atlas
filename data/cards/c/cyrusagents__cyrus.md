@@ -1,6 +1,6 @@
 # cyrusagents/cyrus
 
-⭐ 911 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cyrusagents/cyrus) · [官网](https://atcyrus.com) · 组织维护
+⭐ 912 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cyrusagents/cyrus) · [官网](https://atcyrus.com) · 组织维护
 
 **部署在自有机器上、由 Linear/Slack 事件驱动的 coding agent 后台运行平台**
 

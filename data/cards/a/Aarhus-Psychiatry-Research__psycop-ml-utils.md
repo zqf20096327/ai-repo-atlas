@@ -1,6 +1,6 @@
 # Aarhus-Psychiatry-Research/psycop-ml-utils
 
-⭐ 10 · Python · 推送 2026-11-09 · [GitHub](https://github.com/Aarhus-Psychiatry-Research/psycop-ml-utils) · [官网](https://aarhus-psychiatry-research.github.io/psycop-ml-utils/) · 组织维护
+⭐ 10 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Aarhus-Psychiatry-Research/psycop-ml-utils) · [官网](https://aarhus-psychiatry-research.github.io/psycop-ml-utils/) · 组织维护
 
 **PSYCOP 精神病学机器学习项目的工具函数库**
 

@@ -1,6 +1,6 @@
 # phinn/KinetAios
 
-⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/phinn/KinetAios) · [官网](https://phinn.github.io/KinetAios/) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/phinn/KinetAios) · [官网](https://phinn.github.io/KinetAios/) · 个人维护 · 中文 README
 
 **本地优先的多引擎 AI agent 桌面工作台，无账号无中转**
 

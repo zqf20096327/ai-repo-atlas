@@ -1,6 +1,6 @@
 # pinecone-io/go-pinecone
 
-⭐ 68 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/pinecone-io/go-pinecone) · [官网](https://pkg.go.dev/github.com/pinecone-io/go-pinecone/v5/pinecone) · 组织维护
+⭐ 68 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/pinecone-io/go-pinecone) · [官网](https://pkg.go.dev/github.com/pinecone-io/go-pinecone/v5/pinecone) · 组织维护
 
 **Pinecone 向量数据库的官方 Go 客户端 SDK**
 

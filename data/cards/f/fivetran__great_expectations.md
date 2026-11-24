@@ -1,6 +1,6 @@
 # fivetran/great_expectations
 
-⭐ 11,943 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/fivetran/great_expectations) · [官网](https://docs.greatexpectations.io/) · 组织维护
+⭐ 11,945 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/fivetran/great_expectations) · [官网](https://docs.greatexpectations.io/) · 组织维护
 
 **数据团队的 Python 数据质量验证与剖析库**
 

@@ -1,6 +1,6 @@
 # HG-ha/Argusai
 
-⭐ 38 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/HG-ha/Argusai) · [官网](https://argusai.sh) · 组织维护 · 中文 README
+⭐ 40 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/HG-ha/Argusai) · [官网](https://argusai.sh) · 组织维护 · 中文 README
 
 **面向安全人员的 Agent 原生本地安全工作台**
 

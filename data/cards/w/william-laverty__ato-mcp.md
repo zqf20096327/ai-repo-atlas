@@ -1,6 +1,6 @@
 # william-laverty/ato-mcp
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/william-laverty/ato-mcp) · [官网](https://ato-mcp.com.au) · 个人维护
+⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/william-laverty/ato-mcp) · [官网](https://ato-mcp.com.au) · 个人维护
 
 **连接 AI agent 与澳大利亚税务知识库的 MCP 服务器**
 

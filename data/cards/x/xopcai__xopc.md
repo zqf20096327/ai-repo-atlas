@@ -1,6 +1,6 @@
 # xopcai/xopc
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/xopcai/xopc) · [官网](https://xopc.ai) · 组织维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xopcai/xopc) · [官网](https://xopc.ai) · 组织维护 · 中文 README
 
 **开源本地优先的个人 AI 助手：对话、委派任务、处理文件与项目**
 

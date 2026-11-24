@@ -1,6 +1,6 @@
 # tam159/next-role
 
-⭐ 68 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/tam159/next-role) · [官网](https://next-role.dev) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/tam159/next-role) · [官网](https://next-role.dev) · 个人维护
 
 **求职者上传 CV 与 JD，多 agent 生成定制简历与面试准备材料**
 

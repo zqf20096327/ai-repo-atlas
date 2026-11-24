@@ -1,6 +1,6 @@
 # aeewws/codex-mobile
 
-⭐ 25 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aeewws/codex-mobile) · 个人维护 · 中文 README
+⭐ 25 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aeewws/codex-mobile) · 个人维护 · 中文 README
 
 **把 Termux 本地 Codex 运行时做成触摸优先的 Android 外壳**
 

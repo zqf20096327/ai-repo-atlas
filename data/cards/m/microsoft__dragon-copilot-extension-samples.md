@@ -1,6 +1,6 @@
 # microsoft/dragon-copilot-extension-samples
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/dragon-copilot-extension-samples) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/dragon-copilot-extension-samples) · 组织维护
 
 **为 Dragon Copilot 开发扩展与临床连接器的示例和 CLI 工具集**
 

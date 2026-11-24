@@ -1,6 +1,6 @@
 # punit2911/Hirepanel
 
-⭐ 59 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/punit2911/Hirepanel) · [官网](https://hirepanel.onrender.com/) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/punit2911/Hirepanel) · [官网](https://hirepanel.onrender.com/) · 个人维护
 
 **多智能体简历筛选系统：每个评分须有简历原文引证**
 

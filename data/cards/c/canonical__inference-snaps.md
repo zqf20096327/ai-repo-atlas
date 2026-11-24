@@ -1,6 +1,6 @@
 # canonical/inference-snaps
 
-⭐ 55 · Go · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/canonical/inference-snaps) · [官网](https://documentation.ubuntu.com/inference-snaps) · 组织维护
+⭐ 56 · Go · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/canonical/inference-snaps) · [官网](https://documentation.ubuntu.com/inference-snaps) · 组织维护
 
 **Canonical 出品的 snap 打包本地模型推理与 API 服务方案**
 

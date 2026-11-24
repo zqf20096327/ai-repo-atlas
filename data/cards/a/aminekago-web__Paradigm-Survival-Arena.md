@@ -1,6 +1,6 @@
 # aminekago-web/Paradigm-Survival-Arena
 
-⭐ 116 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/aminekago-web/Paradigm-Survival-Arena) · 个人维护
+⭐ 116 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/aminekago-web/Paradigm-Survival-Arena) · 个人维护
 
 **六种机器学习范式在浏览器生存竞技场中对抗演化**
 

@@ -1,6 +1,6 @@
 # walkskysu/digital-human-koubo-comfyui
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/walkskysu/digital-human-koubo-comfyui) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/walkskysu/digital-human-koubo-comfyui) · 个人维护 · 中文 README
 
 **一张照片本地生成 AI 数字人口播成片的 Agent Skill**
 

@@ -1,6 +1,6 @@
 # agent0ai/spynel
 
-⭐ 242 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/agent0ai/spynel) · [官网](https://agent-zero.ai) · 组织维护
+⭐ 243 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/agent0ai/spynel) · [官网](https://agent-zero.ai) · 组织维护
 
 **单聊天界面的 agent 编排工具：统一协调已有编码 agent**
 

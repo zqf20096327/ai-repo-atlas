@@ -1,6 +1,6 @@
 # yan-mc/blockbench-ysm-agent
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/yan-mc/blockbench-ysm-agent) · [官网](https://github.com/yan-mc/blockbench-ysm-agent/releases) · 个人维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/yan-mc/blockbench-ysm-agent) · [官网](https://github.com/yan-mc/blockbench-ysm-agent/releases) · 个人维护 · 中文 README
 
 **给 dsh 里的 AI 接入 Blockbench：语义建模 YSM 模型与贴图**
 

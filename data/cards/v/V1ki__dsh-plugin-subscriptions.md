@@ -1,6 +1,6 @@
 # V1ki/dsh-plugin-subscriptions
 
-⭐ 632 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/V1ki/dsh-plugin-subscriptions) · 个人维护
+⭐ 633 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/V1ki/dsh-plugin-subscriptions) · 个人维护
 
 **将 ChatGPT/Claude/Grok 订阅接入 DeepSeek Harness 的插件**
 

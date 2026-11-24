@@ -1,6 +1,6 @@
 # AnnenkovLabs/girl-agent
 
-⭐ 394 · TypeScript · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/AnnenkovLabs/girl-agent) · [官网](https://oss.girl-agent.com/) · 个人维护 · 中文 README
+⭐ 393 · TypeScript · NOASSERTION · 推送 2026-07-18 · [GitHub](https://github.com/AnnenkovLabs/girl-agent) · [官网](https://oss.girl-agent.com/) · 个人维护 · 中文 README
 
 **Telegram AI 女友人格引擎：睡眠、日程、记忆与关系状态**
 

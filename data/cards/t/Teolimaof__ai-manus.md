@@ -1,6 +1,6 @@
 # Teolimaof/ai-manus
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Teolimaof/ai-manus) · 个人维护
+⭐ 148 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Teolimaof/ai-manus) · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 系统**
 

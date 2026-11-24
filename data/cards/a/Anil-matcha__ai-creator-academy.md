@@ -1,6 +1,6 @@
 # Anil-matcha/ai-creator-academy
 
-⭐ 34 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Anil-matcha/ai-creator-academy) · 个人维护
+⭐ 35 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/Anil-matcha/ai-creator-academy) · 个人维护
 
 **教创作者用生成式 AI 做图/视频/音频变现的开源课程**
 

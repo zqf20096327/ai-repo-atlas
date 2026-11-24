@@ -1,6 +1,6 @@
 # VAST-AI-Research/TripoSplat
 
-⭐ 1,479 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/VAST-AI-Research/TripoSplat) · [官网](https://www.tripo3d.ai/research/triposplat) · 组织维护
+⭐ 1,481 · Python · MIT · 推送 2026-08-13 · [GitHub](https://github.com/VAST-AI-Research/TripoSplat) · [官网](https://www.tripo3d.ai/research/triposplat) · 组织维护
 
 **单张 2D 图像生成可变数量 3D 高斯的推理模型**
 

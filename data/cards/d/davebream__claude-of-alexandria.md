@@ -1,6 +1,6 @@
 # davebream/claude-of-alexandria
 
-⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/davebream/claude-of-alexandria) · [官网](https://github.com/davebream/claude-of-alexandria) · 个人维护
+⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/davebream/claude-of-alexandria) · [官网](https://github.com/davebream/claude-of-alexandria) · 个人维护
 
 **面向圣经研究的 Claude Code 技能插件：产出严谨解经分析**
 

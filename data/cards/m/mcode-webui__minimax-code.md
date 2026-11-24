@@ -1,6 +1,6 @@
 # mcode-webui/minimax-code
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mcode-webui/minimax-code) · [官网](https://code.minimax.cn/docs/community/webui) · 组织维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mcode-webui/minimax-code) · [官网](https://code.minimax.cn/docs/community/webui) · 组织维护 · 中文 README
 
 **面向开发者的浏览器端编码 Agent 工作台，本地运行**
 

@@ -1,6 +1,6 @@
 # alexwkleung/reika
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/alexwkleung/reika) · [官网](https://reikacode.com) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/alexwkleung/reika) · [官网](https://reikacode.com) · 个人维护 · 中文 README
 
 **面向小型本地模型的编码 agent CLI（优先本地运行时）**
 

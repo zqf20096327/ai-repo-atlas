@@ -1,6 +1,6 @@
 # TauricResearch/TradingAgents
 
-⭐ 123,486 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://tauric.ai) · 组织维护
+⭐ 123,607 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://tauric.ai) · 组织维护
 
 **多智能体 LLM 金融交易研究框架：分析师辩论生成交易决策**
 

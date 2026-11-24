@@ -1,6 +1,6 @@
 # LearnPrompt/goodcase
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LearnPrompt/goodcase) · [官网](https://goodcase.ai/?utm_source=goodcase-repo&utm_medium=github&utm_campaign=repo-home) · 组织维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LearnPrompt/goodcase) · [官网](https://goodcase.ai/?utm_source=goodcase-repo&utm_medium=github&utm_campaign=repo-home) · 组织维护 · 中文 README
 
 **AI 案例站点 goodcase.ai 的开源版：clone 即跑同款 UI**
 

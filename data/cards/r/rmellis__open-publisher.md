@@ -1,6 +1,6 @@
 # rmellis/open-publisher
 
-⭐ 42 · JavaScript · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rmellis/open-publisher) · [官网](https://openpublisher.app) · 个人维护
+⭐ 44 · JavaScript · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rmellis/open-publisher) · [官网](https://openpublisher.app) · 个人维护
 
 **免费跨平台桌面排版软件：替代 Microsoft Publisher 设计印刷品**
 

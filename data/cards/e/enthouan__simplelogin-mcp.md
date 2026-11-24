@@ -1,6 +1,6 @@
 # enthouan/simplelogin-mcp
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/enthouan/simplelogin-mcp) · [官网](https://simplelogin-mcp.com) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/enthouan/simplelogin-mcp) · [官网](https://simplelogin-mcp.com) · 个人维护
 
 **面向 SimpleLogin 用户的自托管 MCP 服务器：用 AI 客户端管理邮件别名**
 

@@ -1,6 +1,6 @@
 # bitsky-tech/bridgic-browser
 
-⭐ 74 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/bitsky-tech/bridgic-browser) · [官网](https://pypi.org/project/bridgic-browser/) · 组织维护 · 中文 README
+⭐ 75 · Python · MIT · 推送 2026-05-19 · [GitHub](https://github.com/bitsky-tech/bridgic-browser) · [官网](https://pypi.org/project/bridgic-browser/) · 组织维护 · 中文 README
 
 **供 AI Agent 调用的 Playwright 浏览器自动化工具库**
 

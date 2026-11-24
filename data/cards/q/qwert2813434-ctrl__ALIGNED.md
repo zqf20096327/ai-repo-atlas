@@ -1,6 +1,6 @@
 # qwert2813434-ctrl/ALIGNED
 
-⭐ 21 · TypeScript · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/qwert2813434-ctrl/ALIGNED) · [官网](https://aligned-app.github.io/en/) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/qwert2813434-ctrl/ALIGNED) · [官网](https://aligned-app.github.io/en/) · 个人维护 · 中文 README
 
 **Instagram 跨页轮播排版编辑器，AI 可直接生成其项目文件**
 

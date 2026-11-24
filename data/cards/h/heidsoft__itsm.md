@@ -1,6 +1,6 @@
 # heidsoft/itsm
 
-⭐ 88 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/heidsoft/itsm) · [官网](https://cloudmesh.top) · 个人维护 · 中文 README
+⭐ 88 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/heidsoft/itsm) · [官网](https://cloudmesh.top) · 个人维护 · 中文 README
 
 **面向国内企业的开源 ITIL 服务管理系统（Go + Next.js）**
 

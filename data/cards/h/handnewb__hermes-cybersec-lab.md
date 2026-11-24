@@ -1,6 +1,6 @@
 # handnewb/hermes-cybersec-lab
 
-⭐ 25 · Shell · MIT · 推送 2026-08-11 · [GitHub](https://github.com/handnewb/hermes-cybersec-lab) · [官网](https://github.com/handnewb/hermes-cybersec-lab) · 个人维护
+⭐ 26 · Shell · MIT · 推送 2026-08-11 · [GitHub](https://github.com/handnewb/hermes-cybersec-lab) · [官网](https://github.com/handnewb/hermes-cybersec-lab) · 个人维护
 
 **面向 Hermes Agent 的网络安全技能与工具一体化实验室**
 

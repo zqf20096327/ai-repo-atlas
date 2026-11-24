@@ -1,6 +1,6 @@
 # Blazity/enterprise-commerce
 
-⭐ 706 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Blazity/enterprise-commerce) · [官网](https://next-enterprise-commerce.vercel.app) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向企业的 Next.js 电商店面模板：Shopify 后端 + Algolia 中间层**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

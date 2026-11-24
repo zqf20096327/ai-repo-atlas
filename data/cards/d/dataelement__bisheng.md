@@ -1,10 +1,10 @@
 # dataelement/bisheng
 
-⭐ 12,393 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dataelement/bisheng) · [官网](http://www.bisheng.ai) · 组织维护 · 中文 README
+⭐ 12,414 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dataelement/bisheng) · [官网](http://www.bisheng.ai) · 组织维护 · 中文 README
 
-**面向企业的开源一站式 Agent 平台：构建、部署与管理 AI 应用**
+**企业级开源 Agent 平台：构建、部署与管理 AI 应用**
 
-BISHENG 定位企业级 Agent 平台，包含客户端（基于 DSHDesktop）、托管应用发布、多步骤任务模式 Agent（任务规划、子 Agent 并行、Human in the loop）、知识空间与文档权限管理、workflow 编排框架（支持成环/并行/批量）、RBAC/ReBAC 权限与审计、高精度文档解析模型等模块。部署依赖 Docker Compose，默认含 MySQL、Redis、MinIO、ES、Milvus 等组件；统计看板标注为商业版功能。
+BISHENG 定位为开源企业级一站式 Agent 平台，覆盖 Agent 任务模式（任务规划、子 Agent 并行、Human in the loop、技能包）、workflow 编排、企业知识空间与文档问答、频道资讯订阅、托管应用开发与审批上线，以及客户端统一管理、RBAC/ReBAC 权限、审计等企业管控能力。附带基于 DSH 的桌面客户端，可私有化部署。商业版提供统计看板。部署需 Docker Compose，硬件要求 8 核 CPU、32GB 内存。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ BISHENG 定位企业级 Agent 平台，包含客户端（基于 DSHDesktop）、
 
 ## 能力要点
 
-- 任务模式 Agent：任务规划+子 Agent 并行+Human in the loop，交付 HTML/Markdown/PPT/Excel/Word
-- workflow 编排支持成环、并行、批量运行自由组合
-- 知识空间三级权限（空间/文件夹/文件）与回答引用溯源
-- 高精度文档解析模型支持免费私有化部署
+- 任务模式通用 Agent：任务规划、子 Agent 并行、Human in the loop、内置 Word/Excel/PPT/HTML 技能包
+- workflow 编排支持成环、并行、批量运行组合
+- 知识空间支持文件级权限、引用溯源问答
+- 高精度文档解析模型（印刷体/手写体/表格/版式/印章）支持免费私有化部署
 
 ## 适用场景
 
-- 企业内构建并审批发布 AI 应用给同事使用
-- 搭建带细粒度权限的团队知识库问答
-- 文档审核、固定版式报告生成等流程自动化
-- 私有化部署企业级 Agent 与模型管理平台
+- 企业搭建可私有化部署的 AI Agent 应用并统一管控模型与权限
+- 团队用任务模式生成带引用溯源的 Word、Excel、PPT 报告
+- 构建带审批流的应用发布管理流程
+- 搭建文档问答与团队知识库
 
 ## 场景标签
 
-`聊天机器人` `文档问答` `文档解析` `Agent 框架` · 领域:Agent 开发
+`文档解析` `文档问答` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L17: BISHENG是一款 开源的企业级一站式 Agent 平台 ，专注办公效率与企业 AI 应用落地，已有大量行业头部组织及世界 500 强企业在使用。
-> L79:  - **独立、完备的应用编排框架**：不区分 chatflow 和 workflow，多轮对话和自动化处理可以混在同一个流程里。
+> L47:  - **本地开发后提交到平台**：开发者安装 bisheng 命令行工具，用服务账号密钥登录，在本地开发和调试应用，也可以让 Coding Agent 辅助开发。开发者在应用清单中声明运行时、资源档位、要用的平台模型和知识库，再
 > L86:  - **客户端统一管理**：管理员集中配置 BISHENG 客户端可用的模型、技能、API/MCP 工具与知识空间，通过企业插件市场分发插件和工作台，并统一管理模型授权、月度积分和调用记录。
 
 ## 星数曲线
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `d27873205472` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5fa9dcbcc102` · [字段定义](../../DATASET.md)*

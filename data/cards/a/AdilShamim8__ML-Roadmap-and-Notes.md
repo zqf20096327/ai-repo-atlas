@@ -1,6 +1,6 @@
 # AdilShamim8/ML-Roadmap-and-Notes
 
-⭐ 50 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AdilShamim8/ML-Roadmap-and-Notes) · [官网](https://adilshamim8.github.io/) · 个人维护
+⭐ 51 · Jupyter Notebook · MIT · 推送 2026-10-19 · [GitHub](https://github.com/AdilShamim8/ML-Roadmap-and-Notes) · [官网](https://adilshamim8.github.io/) · 个人维护
 
 **机器学习学习路线图与笔记资源合集，覆盖入门到高级工程**
 

@@ -1,6 +1,6 @@
 # CliMA/ClimaParams.jl
 
-⭐ 37 · Julia · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/CliMA/ClimaParams.jl) · 组织维护
+⭐ 37 · Julia · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/CliMA/ClimaParams.jl) · 组织维护
 
 **CliMA 气候建模生态的参数与物理常数集中管理库**
 

@@ -1,6 +1,6 @@
 # AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor
 
-⭐ 41 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/AmirhosseinHonardoust/Coffee-Shop-Profit-Predictor) · 个人维护
 
 **用 SQL 特征工程与回归模型预测咖啡店选址月利润的 Python CLI 项目**
 

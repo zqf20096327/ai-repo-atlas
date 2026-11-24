@@ -1,6 +1,6 @@
 # oll4com/spaceapp
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/oll4com/spaceapp) · [官网](https://spaceapp.dev) · 组织维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oll4com/spaceapp) · [官网](https://spaceapp.dev) · 组织维护
 
 **自托管工作区：并排运行多个 AI 编码 CLI 的统一驾驶舱**
 

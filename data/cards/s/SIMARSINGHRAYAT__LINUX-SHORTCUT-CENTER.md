@@ -1,6 +1,6 @@
 # SIMARSINGHRAYAT/LINUX-SHORTCUT-CENTER
 
-⭐ 74 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/SIMARSINGHRAYAT/LINUX-SHORTCUT-CENTER) · [官网](https://linux-shortcut-center.vercel.app) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/SIMARSINGHRAYAT/LINUX-SHORTCUT-CENTER) · [官网](https://linux-shortcut-center.vercel.app) · 个人维护
 
 **Linux 终端命令与 AI 桌面应用安装指引的策展中心**
 

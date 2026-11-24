@@ -1,6 +1,6 @@
 # axisvela/praxo-core-fortran
 
-⭐ 3 · Fortran · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-fortran) · [官网](https://axisvela.github.io/praxo-core/languages/fortran/) · 组织维护
+⭐ 3 · Fortran · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-fortran) · [官网](https://axisvela.github.io/praxo-core/languages/fortran/) · 组织维护
 
 **面向 Fortran 开发者的可嵌入 AI agent 框架核心库**
 

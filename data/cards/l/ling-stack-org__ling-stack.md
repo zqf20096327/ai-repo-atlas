@@ -1,6 +1,6 @@
 # ling-stack-org/ling-stack
 
-⭐ 983 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ling-stack-org/ling-stack) · 组织维护 · 中文 README
+⭐ 983 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ling-stack-org/ling-stack) · 组织维护 · 中文 README
 
 **本地优先的 AI 队友协作工作区：多模型对话与工具审批集中管理**
 

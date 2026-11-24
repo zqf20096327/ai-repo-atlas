@@ -1,6 +1,6 @@
 # Open-Less/openless
 
-⭐ 4,157 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Open-Less/openless) · [官网](https://openless.top) · 个人维护 · 中文 README
+⭐ 4,157 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Open-Less/openless) · [官网](https://openless.top) · 个人维护 · 中文 README
 
 **开源语音输入工具：按住说话，松开得润色文本**
 

@@ -1,6 +1,6 @@
 # aminezouari52/telemed
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/aminezouari52/telemed) · [官网](https://telemed-demo.netlify.app) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aminezouari52/telemed) · [官网](https://telemed-demo.netlify.app) · 个人维护
 
 **开源远程医疗应用模板：视频问诊、预约支付与 AI 健康助手**
 

@@ -1,6 +1,6 @@
 # metaspartan/cybara
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/metaspartan/cybara) · [官网](https://cybara.ai) · 组织维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/metaspartan/cybara) · [官网](https://cybara.ai) · 组织维护
 
 **自托管的持久 AI agent 工作区：编码、研究、自动化一体化运行时**
 

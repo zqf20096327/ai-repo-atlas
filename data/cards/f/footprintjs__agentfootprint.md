@@ -1,6 +1,6 @@
 # footprintjs/agentfootprint
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/footprintjs/agentfootprint) · [官网](https://agentfootprint.dev/) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/footprintjs/agentfootprint) · [官网](https://agentfootprint.dev/) · 组织维护
 
 **面向开发者的 TypeScript agent 框架：让回答可追溯到执行证据**
 

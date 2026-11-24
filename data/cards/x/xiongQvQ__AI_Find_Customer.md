@@ -1,6 +1,6 @@
 # xiongQvQ/AI_Find_Customer
 
-⭐ 214 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/xiongQvQ/AI_Find_Customer) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
+⭐ 215 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/xiongQvQ/AI_Find_Customer) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
 
 **外贸 B2B 场景的 AI 客户挖掘与开发信自动化系统**
 

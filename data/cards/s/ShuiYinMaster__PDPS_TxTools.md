@@ -1,6 +1,6 @@
 # ShuiYinMaster/PDPS_TxTools
 
-⭐ 14 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ShuiYinMaster/PDPS_TxTools) · 个人维护 · 中文 README
+⭐ 14 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ShuiYinMaster/PDPS_TxTools) · 个人维护 · 中文 README
 
 **给 PDPS 工程师的机器人焊接仿真与离线编程插件集**
 

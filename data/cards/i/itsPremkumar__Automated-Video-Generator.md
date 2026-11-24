@@ -1,6 +1,6 @@
 # itsPremkumar/Automated-Video-Generator
 
-⭐ 140 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/itsPremkumar/Automated-Video-Generator) · [官网](https://itspremkumar.github.io/Automated-Video-Generator/) · 个人维护
+⭐ 141 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/itsPremkumar/Automated-Video-Generator) · [官网](https://itspremkumar.github.io/Automated-Video-Generator/) · 个人维护
 
 **本地自托管的文本转视频全自动流水线：脚本进、配音成片出**
 

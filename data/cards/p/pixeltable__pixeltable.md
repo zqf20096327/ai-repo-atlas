@@ -1,6 +1,6 @@
 # pixeltable/pixeltable
 
-⭐ 1,664 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/pixeltable/pixeltable) · [官网](https://www.pixeltable.com) · 组织维护
+⭐ 1,664 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/pixeltable/pixeltable) · [官网](https://www.pixeltable.com) · 组织维护
 
 **给 AI 应用开发者的多模态数据库：编排、存储与服务合一**
 

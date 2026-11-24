@@ -1,6 +1,6 @@
 # kIieret/Shep
 
-⭐ 17 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/kIieret/Shep) · 个人维护
+⭐ 16 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/kIieret/Shep) · 个人维护
 
 **编排多个并行 AI 编程 agent 的本地编排器，自动开 PR**
 

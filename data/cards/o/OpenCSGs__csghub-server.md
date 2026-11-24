@@ -1,6 +1,6 @@
 # OpenCSGs/csghub-server
 
-⭐ 1,041 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/OpenCSGs/csghub-server) · [官网](https://opencsg.com/models) · 组织维护 · 中文 README
+⭐ 1,041 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenCSGs/csghub-server) · [官网](https://opencsg.com/models) · 组织维护 · 中文 README
 
 **面向开发者的开源大模型资产平台 CSGHub 的后端服务**
 

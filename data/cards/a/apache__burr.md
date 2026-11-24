@@ -1,6 +1,6 @@
 # apache/burr
 
-⭐ 2,608 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/apache/burr) · [官网](https://burr.apache.org/) · 组织维护
+⭐ 2,609 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/apache/burr) · [官网](https://burr.apache.org/) · 组织维护
 
 **开发者构建状态机式 LLM 应用（代理、聊天机器人）的 Python 框架**
 

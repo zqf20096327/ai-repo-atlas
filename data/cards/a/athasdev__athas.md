@@ -1,6 +1,6 @@
 # athasdev/athas
 
-⭐ 3,213 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/athasdev/athas) · [官网](https://athas.dev) · 组织维护
+⭐ 3,222 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/athasdev/athas) · [官网](https://athas.dev) · 组织维护
 
 **为开发者提供带 AI agents 与 vim 键位的跨平台代码编辑器**
 

@@ -1,6 +1,6 @@
 # dvcdsys/code-index
 
-⭐ 31 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dvcdsys/code-index) · [官网](https://codeindex.app) · 组织维护
+⭐ 31 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dvcdsys/code-index) · [官网](https://codeindex.app) · 组织维护
 
 **自托管语义代码搜索平台，供开发者与 AI agent 按含义检索代码**
 

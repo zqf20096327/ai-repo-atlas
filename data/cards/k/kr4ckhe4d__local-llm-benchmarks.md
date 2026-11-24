@@ -1,6 +1,6 @@
 # kr4ckhe4d/local-llm-benchmarks
 
-⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kr4ckhe4d/local-llm-benchmarks) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kr4ckhe4d/local-llm-benchmarks) · 个人维护
 
 **AMD RDNA4 显卡上 llama.cpp 本地 LLM 实测基准记录**
 

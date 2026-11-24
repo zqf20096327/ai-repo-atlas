@@ -1,6 +1,6 @@
 # maumoya/adhd-status
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/maumoya/adhd-status) · [官网](https://maumoya.github.io/adhd-status/progress.html) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/maumoya/adhd-status) · [官网](https://maumoya.github.io/adhd-status/progress.html) · 个人维护
 
 **给 ADHD 开发者的 Claude Code 状态板 skill：一句 STATUS 出微型任务表**
 

@@ -1,6 +1,6 @@
 # gi-dellav/zerostack
 
-⭐ 1,761 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/gi-dellav/zerostack) · [官网](https://gi-dellav.github.io/zerostack/) · 个人维护
+⭐ 1,760 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/gi-dellav/zerostack) · [官网](https://gi-dellav.github.io/zerostack/) · 个人维护
 
 **面向开发者的 Rust 轻量终端编码 Agent，注重内存与性能**
 

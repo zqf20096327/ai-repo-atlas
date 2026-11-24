@@ -1,6 +1,6 @@
 # hoophq/hoop
 
-⭐ 864 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hoophq/hoop) · [官网](https://hoop.dev) · 组织维护
+⭐ 864 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hoophq/hoop) · [官网](https://hoop.dev) · 组织维护
 
 **AI Agent 运行时边车：脱敏数据并拦截破坏性命令**
 

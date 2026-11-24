@@ -1,10 +1,10 @@
 # OpenHands/OpenHands
 
-⭐ 94,075 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/OpenHands/OpenHands) · [官网](https://openhands.dev) · 组织维护
+⭐ 94,165 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/OpenHands/OpenHands) · [官网](https://openhands.dev) · 组织维护
 
-**自托管的编码 agent 控制中心：运行与自动化 agent 任务**
+**自托管的编码 Agent 控制中心：统一运行与管理多个 agent**
 
-Agent Canvas 是一个自托管的开发者控制中心，用于启动编码 agent 对话与自动化日常工作流（如生成报告发布到 Slack、将 GitHub issue 拆解为任务）。默认本地运行，可连接多个 agent 后端（本机、Docker、VM、云）；开箱支持 OpenHands agent，也兼容 Claude Code、Codex、Gemini CLI、Pi、OpenCode 等符合 ACP 协议的第三方 agent。后端由 Agent Server（REST API）提供，架构分散在多个仓库。
+Agent Canvas 将编码 agent 变成自托管、持续在线的工程团队入口：可运行 OpenHands、Claude Code、Codex、Gemini、Pi、OpenCode 及任何 ACP 兼容 agent，后端可切换本地、Docker、VM、云等多种环境而不丢失会话；支持与 Slack、GitHub、Linear、Notion 等集成的定时/webhook 自动化；默认本地运行，前端与 OpenHands Agent Server（REST API）分离，仓库边界划为 frontend/SDK/typescript-client/automation 四个库。
 
 ## 筛选速览
 
@@ -26,27 +26,27 @@ Agent Canvas 是一个自托管的开发者控制中心，用于启动编码 age
 
 ## 能力要点
 
-- 兼容 ACP 协议，可接入 OpenHands、Claude Code、Codex、Gemini CLI 等多个 agent
-- 支持本地、Docker、VM、云等多种后端运行环境并可切换
-- 支持定时或 webhook 触发的自动化工作流，集成 Slack、GitHub、Notion 等
-- 提供 npm 全局安装与 Docker 镜像两种运行方式
+- 支持 OpenHands、Claude Code、Codex、Gemini CLI、Pi、OpenCode 及任意 ACP 兼容 agent
+- 后端可在本地、Docker、VM、云间切换，同一前端管理多个 Agent Server
+- 定时/webhook 自动化，集成 Slack、GitHub、Linear 等第三方服务
+- 支持无沙盒、单 Docker 沙盒、多 Docker 沙盒、源码四种启动方式
 
 ## 适用场景
 
-- 自托管一个持续运行的编码 agent 工作台
-- 把 GitHub issue 自动拆解成任务或定时生成报告推送 Slack
-- 在同一界面切换本地、Docker、云端的多个 agent 后端
-- 团队共享一个 Agent Server 做代码审查和依赖更新
+- 在自托管环境中统一管理多个编码 agent
+- 把 GitHub issue 自动分解为任务、生成报告发布到 Slack
+- 团队共享 Agent Server 做代码审查与依赖更新
+- 让 agent 在服务器上持续运行，笔记本合盖后不中断
 
 ## 场景标签
 
-`编码 Agent` `工作流自动化` `代码审查` · 领域:效率与自动化
+`编码 Agent` `代码审查` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L4:  The self-hosted developer control center for coding agents and automations.
+> L6:  Run OpenHands, Claude Code, Codex, Gemini, Pi, OpenCode, or any ACP-compatible agent across local, remote, and clou
 > L186: Agent Canvas is powered by the OpenHands Agent Server, a REST API for running multiple agents on a single machine.
-> L205: |`OpenHands/OpenHands`|Agent Canvas frontend, user-facing control center, backend selection, and local-stack orche
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `82c2f8d3f35f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `abbcabeff23c` · [字段定义](../../DATASET.md)*

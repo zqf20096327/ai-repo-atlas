@@ -1,6 +1,6 @@
 # dev-formata-io/limitr
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dev-formata-io/limitr) · [官网](https://limitr.dev) · 组织维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dev-formata-io/limitr) · [官网](https://limitr.dev) · 组织维护
 
 **面向 AI 应用的用量计量与计费引擎：额度、上限与定价策略**
 

@@ -1,6 +1,6 @@
 # liyupi/awesome-vibe-coding-websites
 
-⭐ 104 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/liyupi/awesome-vibe-coding-websites) · [官网](https://vibefather.ai) · 个人维护 · 中文 README
+⭐ 141 · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/liyupi/awesome-vibe-coding-websites) · [官网](https://vibefather.ai) · 个人维护 · 中文 README
 
 **AI 生成网站模板清单：274 套模板附原始提示词**
 

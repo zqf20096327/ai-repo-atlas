@@ -1,6 +1,6 @@
 # nkme2007/awesome-book-writing-suite
 
-⭐ 17 · MIT · 推送 2026-04-15 · [GitHub](https://github.com/nkme2007/awesome-book-writing-suite) · 个人维护
+⭐ 18 · MIT · 推送 2026-04-15 · [GitHub](https://github.com/nkme2007/awesome-book-writing-suite) · 个人维护
 
 **面向作者的 Claude 图书写作工作室：12 个技能按流水线编排**
 

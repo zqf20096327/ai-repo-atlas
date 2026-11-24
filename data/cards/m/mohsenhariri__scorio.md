@@ -1,6 +1,6 @@
 # mohsenhariri/scorio
 
-⭐ 27 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mohsenhariri/scorio) · [官网](https://mohsenhariri.github.io/scorio/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mohsenhariri/scorio) · [官网](https://mohsenhariri.github.io/scorio/) · 个人维护
 
 **LLM 统计学评测与排名框架：贝叶斯评测、排名与答案聚合**
 

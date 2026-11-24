@@ -1,6 +1,6 @@
 # NousResearch/hermes-official-plugins
 
-⭐ 790 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/NousResearch/hermes-official-plugins) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 组织维护
+⭐ 795 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/NousResearch/hermes-official-plugins) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 组织维护
 
 **为 Hermes Agent 提供官方插件目录：接入 Home Assistant、Spotify 等服务**
 

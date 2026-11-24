@@ -1,6 +1,6 @@
 # PetoiCamp/OpenCatEsp32-Quadruped-Robot
 
-⭐ 557 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) · [官网](https://www.petoi.com) · 组织维护
+⭐ 557 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) · [官网](https://www.petoi.com) · 组织维护
 
 **ESP32 四足机器宠物的开源框架，面向教育、研究与DIY**
 

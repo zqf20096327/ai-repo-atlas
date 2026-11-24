@@ -1,6 +1,6 @@
 # Cerid-AI/quenchforge
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Cerid-AI/quenchforge) · [官网](https://github.com/Cerid-AI/quenchforge) · 个人维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Cerid-AI/quenchforge) · [官网](https://github.com/Cerid-AI/quenchforge) · 个人维护
 
 **为 Intel Mac+AMD 独显提供本地 LLM/嵌入/重排/语音推理服务**
 

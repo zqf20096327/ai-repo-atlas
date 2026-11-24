@@ -1,6 +1,6 @@
 # apache/seatunnel
 
-⭐ 9,824 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/apache/seatunnel) · [官网](https://seatunnel.apache.org/) · 组织维护
+⭐ 9,829 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/apache/seatunnel) · [官网](https://seatunnel.apache.org/) · 组织维护
 
 **分布式多模态数据集成工具：同步海量异构数据**
 

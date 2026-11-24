@@ -1,6 +1,6 @@
 # fetchai/uAgents
 
-⭐ 1,642 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/fetchai/uAgents) · 组织维护
+⭐ 1,643 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fetchai/uAgents) · 组织维护
 
 **给开发者：用 Python 创建去中心化自主 AI agent 的框架**
 

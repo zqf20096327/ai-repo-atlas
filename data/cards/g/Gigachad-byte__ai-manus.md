@@ -1,6 +1,6 @@
 # Gigachad-byte/ai-manus
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Gigachad-byte/ai-manus) · 个人维护
+⭐ 148 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Gigachad-byte/ai-manus) · 个人维护
 
 **自主 AI Agent 系统：在沙箱中运行工具、执行代码并控制浏览器**
 

@@ -1,6 +1,6 @@
 # stubbi/paperclip-operator
 
-⭐ 32 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stubbi/paperclip-operator) · [官网](https://paperclip.inc) · 组织维护
+⭐ 32 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/stubbi/paperclip-operator) · [官网](https://paperclip.inc) · 组织维护
 
 **在 Kubernetes 上部署管理 Paperclip AI agent 平台的 Operator**
 

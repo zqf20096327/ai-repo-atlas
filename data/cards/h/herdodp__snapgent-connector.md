@@ -1,6 +1,6 @@
 # herdodp/snapgent-connector
 
-⭐ 333 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/herdodp/snapgent-connector) · [官网](https://herdodp.github.io/snapgent-connector/) · 个人维护
+⭐ 338 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/herdodp/snapgent-connector) · [官网](https://herdodp.github.io/snapgent-connector/) · 个人维护
 
 **让任意 AI 聊天网站直接操作 VS Code 工作区的浏览器扩展**
 

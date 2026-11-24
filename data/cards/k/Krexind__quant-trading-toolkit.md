@@ -1,6 +1,6 @@
 # Krexind/quant-trading-toolkit
 
-⭐ 10 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Krexind/quant-trading-toolkit) · 个人维护
+⭐ 10 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Krexind/quant-trading-toolkit) · 个人维护
 
 **为量化交易者提供技术指标策略脚本与可插拔回测框架**
 

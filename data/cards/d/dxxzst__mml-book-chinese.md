@@ -1,6 +1,6 @@
 # dxxzst/mml-book-chinese
 
-⭐ 288 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dxxzst/mml-book-chinese) · 个人维护 · 中文 README
+⭐ 289 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dxxzst/mml-book-chinese) · 个人维护 · 中文 README
 
 **《机器学习中的数学》中文学术教材翻译项目**
 

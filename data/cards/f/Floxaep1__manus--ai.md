@@ -1,6 +1,6 @@
 # Floxaep1/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Floxaep1/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Floxaep1/manus--ai) · 个人维护
 
 **面向日常任务的自主 AI Agent：可执行代码并控制浏览器**
 

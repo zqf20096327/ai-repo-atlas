@@ -1,6 +1,6 @@
 # Zain-ul-din/whatsapp-agents
 
-⭐ 250 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/Zain-ul-din/whatsapp-agents) · [官网](https://wa-ai-seven.vercel.app/) · 个人维护
+⭐ 250 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Zain-ul-din/whatsapp-agents) · [官网](https://wa-ai-seven.vercel.app/) · 个人维护
 
 **接入多家 AI 模型 API 的 WhatsApp 聊天机器人**
 

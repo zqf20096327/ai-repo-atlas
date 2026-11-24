@@ -1,10 +1,10 @@
 # HKUDS/Vibe-Trading
 
-⭐ 38,699 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
+⭐ 38,740 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HKUDS/Vibe-Trading) · [官网](https://vibetrading.wiki/) · 组织维护 · 中文 README
 
-**个人量化交易 Agent：行情、回测与研究的一体化平台**
+**个人交易 Agent：让 LLM 具备行情、回测与交易能力**
 
-以 Python 包形式发布的交易 Agent 系统，覆盖历史行情获取、多市场回测（A股、美股、韩国/台湾/越南等市场规则）、期权分析（Options Lab）、研究实验（Research Lab，含训练/样本外/holdout 划分）与模拟盘交易，并提供 Web、CLI、API 与 Agent/MCP 多种入口。结果可溯源至数据源与运行记录，研究修订保留版本，实盘交易须用户授权限额。附带 Shadow Account、风险归因等模块，桌面版支持签名更新。
+以 pip 包形式分发的交易 Agent 平台：提供 Agent/MCP 工具接入行情数据网关、回测引擎、期权分析（Options Lab）、研究工作区（Research Lab）与 Shadow Account 影子账户等模块，支持 Web、CLI、API 与桌面端，覆盖股票、ETF、期权、加密货币与 A 股/台湾等多市场回测，具备 walk-forward 样本外测试、研究版本对比导出、实盘交易需用户授权限额等机制。技术报告以 arXiv 发布。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- 多市场回测引擎（A股/美股/台湾/韩国/越南/加密货币等规则）
-- Web/CLI/API/Agent/MCP 四类入口共享工作流，11 种界面语言
-- 统一行情数据网关与统一 LLM 网关，带来源与缓存元数据
-- 研究成果修订版本化，可导出 JSON/Markdown 对比
+- 提供 Agent/MCP 工具：回测、期权策略对比、paper_trade_reconcile 台账核对
+- Research Lab 支持训练/样本外/holdout 划分与冻结回放
+- 统一行情数据网关：多源 fallback、缓存与源/币种/复权元数据保留
+- Web、CLI、API、桌面端共享工作流，11 种 UI 语言
 
 ## 适用场景
 
-- 对多市场标的做历史回测与研究实验
-- 通过 MCP 为自己的 Agent 增加交易工具能力
-- 跑 A股 5 分钟模拟盘并独立对账费用与持仓
-- 构建隐含波动率曲面并进行期权策略比较
+- 让 AI Agent 通过 MCP 工具查询行情并运行策略回测
+- 对历史价格做不同费用/滑点下的样本外策略验证
+- 用影子账户做 A 股 5 分钟模拟盘纸面交易并核对费用与净值
+- 比较多个期权策略的收益结构与成本
 
 ## 场景标签
 
@@ -46,8 +46,8 @@
 ## 证据(README 行号)
 
 > L5:  Vibe-Trading: Your Personal Trading Agent
-> L7:  One Command to Empower Your Agent with Comprehensive Trading Capabilities
 > L43:  API / MCP &nbsp;&middot;&nbsp;
+> L47:  pip install vibe-trading-ai
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 low · 依据 README sha `14e72dc63ca6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 low · 依据 README sha `57ffe58dee86` · [字段定义](../../DATASET.md)*

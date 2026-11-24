@@ -1,6 +1,6 @@
 # oraios/serena
 
-⭐ 31,610 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/oraios/serena) · [官网](https://oraios.github.io/serena) · 组织维护
+⭐ 31,647 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/oraios/serena) · [官网](https://oraios.github.io/serena) · 组织维护
 
 **给编码 agent 提供语义级代码检索/编辑工具的 MCP 服务器**
 

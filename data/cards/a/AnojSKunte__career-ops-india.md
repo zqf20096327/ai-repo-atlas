@@ -1,6 +1,6 @@
 # AnojSKunte/career-ops-india
 
-⭐ 14 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/AnojSKunte/career-ops-india) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/AnojSKunte/career-ops-india) · 个人维护
 
 **面向印度求职者的 AI 求职流水线：扫描、评估、定制简历**
 

@@ -1,6 +1,6 @@
 # Pushkinist/rMLX
 
-⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Pushkinist/rMLX) · 个人维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Pushkinist/rMLX) · 个人维护
 
 **Apple Silicon 上的 Rust 单二进制 MLX 推理服务器，OpenAI/Anthropic 兼容 API**
 

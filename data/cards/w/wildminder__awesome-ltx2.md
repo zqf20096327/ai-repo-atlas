@@ -1,6 +1,6 @@
 # wildminder/awesome-ltx2
 
-⭐ 605 · 推送 2026-11-13 · [GitHub](https://github.com/wildminder/awesome-ltx2) · 个人维护
+⭐ 606 · 推送 2026-11-13 · [GitHub](https://github.com/wildminder/awesome-ltx2) · 个人维护
 
 **LTX-2 视频生成模型的策展清单：模型/编码器/工具/LoRA 汇总**
 

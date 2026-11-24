@@ -1,6 +1,6 @@
 # upsetdev/pyo
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/upsetdev/pyo) · [官网](https://pyo.dev) · 组织维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/upsetdev/pyo) · [官网](https://pyo.dev) · 组织维护
 
 **自托管开源 PaaS：在自己服务器上部署应用与服务**
 

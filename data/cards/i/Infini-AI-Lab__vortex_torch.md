@@ -1,6 +1,6 @@
 # Infini-AI-Lab/vortex_torch
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/Infini-AI-Lab/vortex_torch) · [官网](https://infini-ai-lab.github.io/vortex_torch/) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/Infini-AI-Lab/vortex_torch) · [官网](https://infini-ai-lab.github.io/vortex_torch/) · 组织维护
 
 **面向 AI Agent 的可编程稀疏注意力算法设计与评测框架**
 

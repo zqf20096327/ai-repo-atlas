@@ -1,6 +1,6 @@
 # protoLabsAI/protoAgent
 
-⭐ 19 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/protoLabsAI/protoAgent) · [官网](https://agent.protolabs.studio) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/protoLabsAI/protoAgent) · [官网](https://agent.protolabs.studio) · 组织维护
 
 **本地优先的桌面 agent，经 ACP 驱动 Claude Code/Codex 做编码**
 

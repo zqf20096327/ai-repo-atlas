@@ -1,6 +1,6 @@
 # YuqingNicole/variant-design-skill
 
-⭐ 49 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YuqingNicole/variant-design-skill) · [官网](https://variantdesign.xyz) · 个人维护 · 中文 README
+⭐ 49 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/YuqingNicole/variant-design-skill) · [官网](https://variantdesign.xyz) · 个人维护 · 中文 README
 
 **为 Claude Code 等 agent 提供的设计技能：一条提示生成三个可迭代的设计方向**
 

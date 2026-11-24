@@ -1,6 +1,6 @@
 # AlgoETS/AINewsTracker
 
-⭐ 25 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/AlgoETS/AINewsTracker) · [官网](https://algoets.github.io/AINewsTracker/) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AlgoETS/AINewsTracker) · [官网](https://algoets.github.io/AINewsTracker/) · 组织维护
 
 **用 AI 分析财经新闻对股市影响的回测 Web 应用**
 

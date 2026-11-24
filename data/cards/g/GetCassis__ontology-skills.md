@@ -1,6 +1,6 @@
 # GetCassis/ontology-skills
 
-⭐ 32 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/GetCassis/ontology-skills) · [官网](https://blog.getcassis.com/a-blank-beats-a-guess/) · 组织维护
+⭐ 32 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GetCassis/ontology-skills) · [官网](https://blog.getcassis.com/a-blank-beats-a-guess/) · 组织维护
 
 **为分析 agent 构建和扩展数据仓库本体（ontology）的技能包**
 

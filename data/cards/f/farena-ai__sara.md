@@ -1,6 +1,6 @@
 # farena-ai/sara
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/farena-ai/sara) · [官网](https://www.backstagecoding.com) · 组织维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/farena-ai/sara) · [官网](https://www.backstagecoding.com) · 组织维护
 
 **自托管 AI 陪伴与编程搭档：自带记忆、语音与工具审批**
 

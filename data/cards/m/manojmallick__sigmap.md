@@ -1,6 +1,6 @@
 # manojmallick/sigmap
 
-⭐ 652 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/manojmallick/sigmap) · [官网](https://sigmap.io/) · 个人维护
+⭐ 651 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/manojmallick/sigmap) · [官网](https://sigmap.io/) · 个人维护
 
 **为 AI 编码会话生成确定性代码签名图与核查工具**
 

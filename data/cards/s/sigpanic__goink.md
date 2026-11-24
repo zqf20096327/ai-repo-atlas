@@ -1,6 +1,6 @@
 # sigpanic/goink
 
-⭐ 548 · Go · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/sigpanic/goink) · 个人维护 · 中文 README
+⭐ 550 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/sigpanic/goink) · 个人维护 · 中文 README
 
 **桌面 AI 长篇小说创作系统：结构化记忆 + Agent 自维护**
 

@@ -1,6 +1,6 @@
 # zylon-ai/private-gpt
 
-⭐ 57,644 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
+⭐ 57,641 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/zylon-ai/private-gpt) · [官网](https://www.zylon.ai/private-gpt) · 组织维护
 
 **本地模型的私有 AI 应用 API 层：RAG、工具与 MCP**
 

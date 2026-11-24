@@ -1,6 +1,6 @@
 # ShaoRoy/site-selection-skill
 
-⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/ShaoRoy/site-selection-skill) · [官网](https://shaoroy.github.io/site-selection-skill/) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ShaoRoy/site-selection-skill) · [官网](https://shaoroy.github.io/site-selection-skill/) · 个人维护 · 中文 README
 
 **给开店者与 Agent 的门店选址测算技能：商圈/竞品/财务可复核**
 

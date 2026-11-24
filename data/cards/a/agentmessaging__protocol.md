@@ -1,6 +1,6 @@
 # agentmessaging/protocol
 
-⭐ 40 · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/agentmessaging/protocol) · [官网](https://agentmessaging.org) · 组织维护
+⭐ 41 · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/agentmessaging/protocol) · [官网](https://agentmessaging.org) · 组织维护
 
 **AI agent 间安全通信的开放联邦协议规范**
 

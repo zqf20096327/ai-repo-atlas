@@ -1,6 +1,6 @@
 # Arekejoker/qwen21-nsfw-pose-skill
 
-⭐ 4,560 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) · 个人维护 · 中文 README
+⭐ 4,581 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) · 个人维护 · 中文 README
 
 **Qwen-Image 2.1 NSFW/姿势出图的 agent 技能与配方库**
 

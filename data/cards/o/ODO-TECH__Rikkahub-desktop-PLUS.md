@@ -1,6 +1,6 @@
 # ODO-TECH/Rikkahub-desktop-PLUS
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/ODO-TECH/Rikkahub-desktop-PLUS) · 组织维护 · 中文 README
+⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ODO-TECH/Rikkahub-desktop-PLUS) · 组织维护 · 中文 README
 
 **Windows/Linux/NAS 自托管的 LLM 桌面客户端，本地数据优先**
 

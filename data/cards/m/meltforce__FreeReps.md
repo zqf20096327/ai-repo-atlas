@@ -1,6 +1,6 @@
 # meltforce/FreeReps
 
-⭐ 24 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/meltforce/FreeReps) · [官网](https://freereps.meltforce.org/) · 个人维护
+⭐ 24 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/meltforce/FreeReps) · [官网](https://freereps.meltforce.org/) · 个人维护
 
 **自托管健康/训练数据服务器，带可视化仪表盘与 MCP 接口**
 

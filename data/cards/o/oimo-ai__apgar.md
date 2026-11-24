@@ -1,6 +1,6 @@
 # oimo-ai/apgar
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/oimo-ai/apgar) · [官网](https://useapgar.dev) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/oimo-ai/apgar) · [官网](https://useapgar.dev) · 组织维护
 
 **AI agent 发布健康监控：对比新版本与基线表现**
 

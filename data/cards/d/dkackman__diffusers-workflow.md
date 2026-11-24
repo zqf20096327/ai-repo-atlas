@@ -1,6 +1,6 @@
 # dkackman/diffusers-workflow
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dkackman/diffusers-workflow) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/dkackman/diffusers-workflow) · 个人维护
 
 **把 GPU 上的 Diffusers 封装成 agent 可驱动的任务引擎**
 

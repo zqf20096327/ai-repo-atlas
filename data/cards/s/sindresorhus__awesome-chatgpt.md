@@ -1,6 +1,6 @@
 # sindresorhus/awesome-chatgpt
 
-⭐ 6,506 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/sindresorhus/awesome-chatgpt) · 个人维护
+⭐ 6,507 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/sindresorhus/awesome-chatgpt) · 个人维护
 
 **面向 ChatGPT 用户的工具与资源聚合清单**
 

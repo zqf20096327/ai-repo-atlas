@@ -1,6 +1,6 @@
 # sebastienrousseau/static-site-generator
 
-⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sebastienrousseau/static-site-generator) · [官网](https://docs.static-site-generator.com/) · 个人维护
+⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sebastienrousseau/static-site-generator) · [官网](https://docs.static-site-generator.com/) · 个人维护
 
 **面向无障碍与安全的 Rust 静态网站生成器，含本地 LLM 内容管线**
 

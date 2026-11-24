@@ -1,6 +1,6 @@
 # Sidiora-Labs/hyperfide-oss
 
-⭐ 622 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Sidiora-Labs/hyperfide-oss) · [官网](https://www.hyperfide.com) · 组织维护
+⭐ 621 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Sidiora-Labs/hyperfide-oss) · [官网](https://www.hyperfide.com) · 组织维护
 
 **单二进制 agent 工作流引擎：管理任务规划、代码图谱与记忆**
 

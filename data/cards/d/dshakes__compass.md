@@ -1,6 +1,6 @@
 # dshakes/compass
 
-⭐ 23 · Shell · MIT · 推送 2026-11-10 · [GitHub](https://github.com/dshakes/compass) · [官网](https://dshakes.github.io/compass/) · 个人维护
+⭐ 23 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dshakes/compass) · [官网](https://dshakes.github.io/compass/) · 个人维护
 
 **给 AI 编程代理加护栏的本地配置层：预算硬停、命令拦截与自修复 PR 循环**
 

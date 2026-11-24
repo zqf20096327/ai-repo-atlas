@@ -1,6 +1,6 @@
 # CX-ArtLab/BoopFace
 
-⭐ 210 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/CX-ArtLab/BoopFace) · [官网](https://boopface.com) · 个人维护 · 中文 README
+⭐ 214 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/CX-ArtLab/BoopFace) · [官网](https://boopface.com) · 个人维护 · 中文 README
 
 **给 AI 助手/agent 用的表现力机器人头像 Web 组件与嵌入式眼睛引擎**
 

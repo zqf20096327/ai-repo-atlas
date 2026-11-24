@@ -1,6 +1,6 @@
 # GLFzr/QianBi-Novel
 
-⭐ 51 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/GLFzr/QianBi-Novel) · [官网](https://github.com/GLFzr/QianBi-Novel/releases/latest) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GLFzr/QianBi-Novel) · [官网](https://github.com/GLFzr/QianBi-Novel/releases/latest) · 个人维护 · 中文 README
 
 **人 AI 共写的长篇网文创作桌面应用，带闸门式写作流水线**
 

@@ -1,6 +1,6 @@
 # odyth/red-queen
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/odyth/red-queen) · [官网](https://redqueen.sh) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/odyth/red-queen) · [官网](https://redqueen.sh) · 个人维护
 
 **确定性编排器：把 Jira/GitHub 工单送过 AI 编码流水线**
 

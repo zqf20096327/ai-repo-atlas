@@ -1,6 +1,6 @@
 # zerob13/dsh-better-markdown
 
-⭐ 24 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zerob13/dsh-better-markdown) · [官网](https://github.com/zerob13/dsh-better-markdown#readme) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/zerob13/dsh-better-markdown) · [官网](https://github.com/zerob13/dsh-better-markdown#readme) · 个人维护 · 中文 README
 
 **DeepSeek Harness Web 的流式 Markdown 渲染插件**
 

@@ -1,6 +1,6 @@
 # bookwjitchieni1986/blender-ai-mcp-addon
 
-⭐ 2,744 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Blender 的 AI 助手插件：对话式检查、构建与编辑 3D 场景**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

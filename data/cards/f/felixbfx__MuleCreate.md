@@ -1,6 +1,6 @@
 # felixbfx/MuleCreate
 
-⭐ 66 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/felixbfx/MuleCreate) · 个人维护
+⭐ 68 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/felixbfx/MuleCreate) · 个人维护
 
 **3D 线稿草图工具，导出简报交 AI 在 Houdini/Blender 重建**
 

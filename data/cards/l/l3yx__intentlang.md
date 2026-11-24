@@ -1,6 +1,6 @@
 # l3yx/intentlang
 
-⭐ 99 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/l3yx/intentlang) · 个人维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/l3yx/intentlang) · 个人维护 · 中文 README
 
 **面向 AI Agent 的意图驱动编程框架，基于 Python**
 

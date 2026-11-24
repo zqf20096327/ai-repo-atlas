@@ -1,6 +1,6 @@
 # jutsuhq/swapjutsu-seedance-character-swap
 
-⭐ 11 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) · [官网](https://jutsustudio.com/swapjutsu/) · 组织维护
+⭐ 11 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jutsuhq/swapjutsu-seedance-character-swap) · [官网](https://jutsustudio.com/swapjutsu/) · 组织维护
 
 **Mac 上的视频角色替换应用：本地预处理，云端或自有 GPU 渲染**
 

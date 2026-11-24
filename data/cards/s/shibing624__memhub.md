@@ -1,6 +1,6 @@
 # shibing624/memhub
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/shibing624/memhub) · [官网](https://shibing624.github.io/memhub/) · 个人维护 · 中文 README
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shibing624/memhub) · [官网](https://shibing624.github.io/memhub/) · 个人维护 · 中文 README
 
 **跨 18 种 AI 编码工具共享的本地个人记忆中枢与 Python SDK**
 

@@ -1,6 +1,6 @@
 # neo4j-labs/llm-graph-builder
 
-⭐ 5,320 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/neo4j-labs/llm-graph-builder) · [官网](https://llm-graph-builder.neo4jlabs.com/) · 组织维护
+⭐ 5,322 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/neo4j-labs/llm-graph-builder) · [官网](https://llm-graph-builder.neo4jlabs.com/) · 组织维护
 
 **用 LLM 把非结构化数据构建为 Neo4j 知识图谱的应用**
 

@@ -1,6 +1,6 @@
 # MatN23/AdaptiveTrainingSystem
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/MatN23/AdaptiveTrainingSystem) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/MatN23/AdaptiveTrainingSystem) · 个人维护
 
 **面向 ML 工程师的 MoE/MoD Transformer 训练框架，含自定义 CUDA/Metal 内核**
 

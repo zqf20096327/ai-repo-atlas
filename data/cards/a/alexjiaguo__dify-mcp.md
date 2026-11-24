@@ -1,6 +1,6 @@
 # alexjiaguo/dify-mcp
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/alexjiaguo/dify-mcp) · [官网](https://github.com/alexjiaguo/dify-mcp) · 个人维护
+⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/alexjiaguo/dify-mcp) · [官网](https://github.com/alexjiaguo/dify-mcp) · 个人维护
 
 **让任意 AI agent 自动构建/测试/发布 Dify 工作流的 MCP 服务器与 CLI**
 

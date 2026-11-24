@@ -1,6 +1,6 @@
 # MK2112/nn-zero-to-hero-notes
 
-⭐ 252 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MK2112/nn-zero-to-hero-notes) · 个人维护
+⭐ 253 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MK2112/nn-zero-to-hero-notes) · 个人维护
 
 **Karpathy 神经网络课程的 Jupyter 学习笔记汇编**
 

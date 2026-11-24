@@ -1,6 +1,6 @@
 # RichmondAlake/memorizz
 
-⭐ 791 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/RichmondAlake/memorizz) · [官网](https://github.com/RichmondAlake/memorizz) · 个人维护
+⭐ 794 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/RichmondAlake/memorizz) · [官网](https://github.com/RichmondAlake/memorizz) · 个人维护
 
 **为 AI agent 提供持久记忆层的 Python 框架**
 

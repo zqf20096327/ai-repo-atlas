@@ -1,6 +1,6 @@
 # michielhdoteth/squish-memory
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/michielhdoteth/squish-memory) · [官网](https://squishplugin.dev) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/michielhdoteth/squish-memory) · [官网](https://squishplugin.dev) · 个人维护
 
 **为 AI agent 提供校准置信度记忆的本地运行时**
 

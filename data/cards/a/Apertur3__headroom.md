@@ -1,6 +1,6 @@
 # Apertur3/headroom
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Apertur3/headroom) · [官网](https://github.com/Apertur3/headroom#readme) · 组织维护
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Apertur3/headroom) · [官网](https://github.com/Apertur3/headroom#readme) · 组织维护
 
 **AI 编程代理的配额监测守护进程：读订阅限额，答 go/wait/reroute**
 

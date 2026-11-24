@@ -1,6 +1,6 @@
 # alphanome-ai/sec-parser
 
-⭐ 299 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alphanome-ai/sec-parser) · 组织维护
+⭐ 300 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alphanome-ai/sec-parser) · 组织维护
 
 **SEC EDGAR 财报 HTML 解析库：产出语义元素树**
 

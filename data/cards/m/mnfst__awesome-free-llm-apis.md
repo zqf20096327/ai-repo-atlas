@@ -1,10 +1,10 @@
 # mnfst/awesome-free-llm-apis
 
-⭐ 13,980 · JavaScript · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/mnfst/awesome-free-llm-apis) · 组织维护
+⭐ 14,052 · JavaScript · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/mnfst/awesome-free-llm-apis) · 组织维护
 
-**为开发者提供永久免费层 LLM API 的清单**
+**为开发者汇总提供永久免费层 LLM API 的清单**
 
-Awesome 格式的清单，收录带永久免费层的文本推理 LLM API：分「Provider APIs」（模型公司自营）与「Inference providers」（第三方托管平台）两类，每个条目列出免费额度、是否需信用卡、原生与 OpenAI 兼容的 Base URL，以及模型名、上下文长度、最大输出、模态与速率限制的表格，并附 RPM/RPD/TPM 等术语表与贡献指南。面向需要获取免费 API key 的开发者。
+一份 Awesome 风格的免费 LLM API 目录，按 Provider APIs（模型训练方自营）与 Inference providers（第三方推理托管）两类组织，逐条列出永久免费层的获取方式、API key 页链接、Base URL（多数提供 OpenAI 兼容端点）以及模型名、上下文长度、最大输出、模态与速率限制表格。目录覆盖 Aion Labs、Cohere、Gemini、Groq、OpenRouter 等十余家，并标注信用卡要求、配额与限制条件。README 不含安装与运行内容，仅作查阅目录使用；部分条目附脚注说明条款变化风险。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Awesome 格式的清单，收录带永久免费层的文本推理 LLM API：分�
 
 ## 能力要点
 
-- 按 Provider APIs 与 Inference providers 两类组织条目
-- 每条列出免费额度、信用卡要求与 Base URL
-- 标注各模型上下文、模态与速率限制
-- 多数提供 OpenAI 兼容端点
+- 逐家列出免费层的 Base URL 与 API key 获取链接
+- 多数条目提供 OpenAI 兼容端点与原生端点两种 Base URL
+- 每个模型给出上下文长度、最大输出、模态与速率限制表格
+- 区分模型方自营 API 与第三方推理托管平台两类
 
 ## 适用场景
 
-- 为个人项目寻找免费额度的 LLM API
-- 对比各免费 API 的速率限制与模型覆盖
-- 接入 OpenAI 兼容端点做本地开发测试
+- 寻找无需信用卡的免费 LLM API 做开发原型
+- 比较各家免费层模型的配额与速率限制
+- 查看某家模型方或推理平台的免费模型列表与 Base URL
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Awesome 格式的清单，收录带永久免费层的文本推理 LLM API：分�
 ## 证据(README 行号)
 
 > L9:  LLM APIs with permanent free tiers for text inference.
-> L39: ## Provider APIs
+> L11:  Most providers offer an OpenAI-compatible endpoint. Native and compatible base URLs can differ. Each link points t
+> L41: ## Provider APIs
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4a39145178e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7bd3098a1f30` · [字段定义](../../DATASET.md)*

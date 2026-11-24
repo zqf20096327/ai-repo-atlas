@@ -1,6 +1,6 @@
 # VBS2004/jevcut
 
-⭐ 10 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/VBS2004/jevcut) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VBS2004/jevcut) · 个人维护
 
 **把长视频自动剪成 Shorts/Reels/TikTok 短片段的命令行工具**
 

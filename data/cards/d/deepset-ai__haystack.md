@@ -1,6 +1,6 @@
 # deepset-ai/haystack
 
-⭐ 27,077 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/deepset-ai/haystack) · [官网](https://haystack.deepset.ai) · 组织维护
+⭐ 27,086 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/deepset-ai/haystack) · [官网](https://haystack.deepset.ai) · 组织维护
 
 **面向 Python 开发者的 LLM 应用编排框架**
 

@@ -1,6 +1,6 @@
 # Neywa-Labs/nativ
 
-⭐ 1,614 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Neywa-Labs/nativ) · [官网](https://runnativ.ai) · 组织维护
+⭐ 1,614 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Neywa-Labs/nativ) · [官网](https://runnativ.ai) · 组织维护
 
 **macOS 本地 AI 应用：在 Apple Silicon 上离线运行开源模型**
 

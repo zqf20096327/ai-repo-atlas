@@ -1,6 +1,6 @@
 # mlpack/ensmallen
 
-⭐ 814 · C++ · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/mlpack/ensmallen) · [官网](http://ensmallen.org) · 组织维护
+⭐ 814 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mlpack/ensmallen) · [官网](http://ensmallen.org) · 组织维护
 
 **给 C++ 开发者的头文件数值优化函数库**
 

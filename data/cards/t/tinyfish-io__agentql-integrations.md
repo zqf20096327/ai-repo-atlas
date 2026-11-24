@@ -1,6 +1,6 @@
 # tinyfish-io/agentql-integrations
 
-⭐ 32 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tinyfish-io/agentql-integrations) · [官网](https://docs.agentql.com/integrations) · 组织维护
+⭐ 32 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tinyfish-io/agentql-integrations) · [官网](https://docs.agentql.com/integrations) · 组织维护
 
 **AgentQL 与自动化工作流和 AI agent 框架的集成集合**
 

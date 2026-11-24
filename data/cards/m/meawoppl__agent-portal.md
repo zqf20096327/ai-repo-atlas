@@ -1,6 +1,6 @@
 # meawoppl/agent-portal
 
-⭐ 19 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/meawoppl/agent-portal) · [官网](https://txcl.io) · 个人维护
+⭐ 19 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/meawoppl/agent-portal) · [官网](https://txcl.io) · 个人维护
 
 **在自有机器上运行编程 agent 并从浏览器远程操控的门户**
 

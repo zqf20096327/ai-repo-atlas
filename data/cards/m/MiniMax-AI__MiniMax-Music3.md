@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-Music3
 
-⭐ 1,046 · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Music3) · 组织维护 · 中文 README
+⭐ 1,047 · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Music3) · 组织维护 · 中文 README
 
 **音乐生成模型：按歌词与描述生成长达5分钟完整歌曲**
 

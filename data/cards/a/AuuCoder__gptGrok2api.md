@@ -1,6 +1,6 @@
 # AuuCoder/gptGrok2api
 
-⭐ 293 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/AuuCoder/gptGrok2api) · [官网](https://muyuai.top) · 个人维护 · 中文 README
+⭐ 292 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/AuuCoder/gptGrok2api) · [官网](https://muyuai.top) · 个人维护 · 中文 README
 
 **自托管 GPT/Grok 统一网关，账号池与自动注册转 OpenAI 兼容 API**
 

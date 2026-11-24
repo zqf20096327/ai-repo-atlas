@@ -1,6 +1,6 @@
 # autonomous-ai/Personal-AI-Computer
 
-⭐ 1,601 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/autonomous-ai/Personal-AI-Computer) · [官网](https://autonomous.ai/computer) · 组织维护
+⭐ 1,602 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/autonomous-ai/Personal-AI-Computer) · [官网](https://autonomous.ai/computer) · 组织维护
 
 **开源硬件仓库：2-8 GPU 本地 AI 计算机的设计与搭建指南**
 

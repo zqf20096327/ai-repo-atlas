@@ -1,6 +1,6 @@
 # ozkary/ai-engineering
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/ozkary/ai-engineering) · [官网](https://www.ozkary.com) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ozkary/ai-engineering) · [官网](https://www.ozkary.com) · 个人维护
 
 **面向开发者的 AI 工程示例库：LLM、Agent 与治理用例代码**
 

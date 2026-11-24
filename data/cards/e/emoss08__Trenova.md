@@ -1,6 +1,6 @@
 # emoss08/Trenova
 
-⭐ 199 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/emoss08/Trenova) · [官网](https://trenova.app) · 个人维护
+⭐ 200 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/emoss08/Trenova) · [官网](https://trenova.app) · 个人维护
 
 **面向美国中小卡车承运商的开源可自托管运输管理系统**
 

@@ -1,6 +1,6 @@
 # ultralytics/mnist
 
-⭐ 74 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/mnist) · [官网](https://ultralytics.com) · 组织维护
+⭐ 75 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/mnist) · [官网](https://ultralytics.com) · 组织维护
 
 **MNIST 手写数字数据集上的卷积网络实验沙盒**
 

@@ -1,6 +1,6 @@
 # compforge/case-code-review
 
-⭐ 10 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/compforge/case-code-review) · 个人维护 · 中文 README
+⭐ 10 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/compforge/case-code-review) · 个人维护 · 中文 README
 
 **面向开发者的轨迹评估驱动 agentic 代码审查流水线**
 

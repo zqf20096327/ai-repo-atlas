@@ -1,6 +1,6 @@
 # argilla-io/argilla
 
-⭐ 5,209 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/argilla-io/argilla) · [官网](https://argilla-io.github.io/argilla/latest/) · 组织维护
+⭐ 5,210 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/argilla-io/argilla) · [官网](https://argilla-io.github.io/argilla/latest/) · 组织维护
 
 **面向 AI 工程师与领域专家的高质量数据集协作标注平台**
 

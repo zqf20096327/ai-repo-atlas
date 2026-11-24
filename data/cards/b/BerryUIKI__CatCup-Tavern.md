@@ -1,6 +1,6 @@
 # BerryUIKI/CatCup-Tavern
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/BerryUIKI/CatCup-Tavern) · [官网](https://berryuiki.github.io/CatCup-Tavern/) · 个人维护
+⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/BerryUIKI/CatCup-Tavern) · [官网](https://berryuiki.github.io/CatCup-Tavern/) · 个人维护
 
 **面向 SillyTavern 用户的 AI 角色扮演 Web/桌面客户端**
 

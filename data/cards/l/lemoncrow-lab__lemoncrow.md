@@ -1,6 +1,6 @@
 # lemoncrow-lab/lemoncrow
 
-⭐ 71 · Python · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/lemoncrow-lab/lemoncrow) · [官网](https://lemoncrow.com) · 组织维护
+⭐ 71 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/lemoncrow-lab/lemoncrow) · [官网](https://lemoncrow.com) · 组织维护
 
 **给编码 agent 加本地代码智能运行时与人工评审工具**
 

@@ -1,6 +1,6 @@
 # stixez/droid-mcp
 
-⭐ 58 · Kotlin · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stixez/droid-mcp) · [官网](https://stixez.github.io/droid-mcp/) · 个人维护
+⭐ 64 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/stixez/droid-mcp) · [官网](https://stixez.github.io/droid-mcp/) · 个人维护
 
 **Android SDK 与 MCP 服务器：让 LLM 调用手机 157 种工具**
 

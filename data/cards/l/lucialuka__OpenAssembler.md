@@ -1,6 +1,6 @@
 # lucialuka/OpenAssembler
 
-⭐ 221 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lucialuka/OpenAssembler) · 个人维护
+⭐ 221 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lucialuka/OpenAssembler) · 个人维护
 
 **将 Python 模型与 GPU 内核编译为 NVIDIA SASS/cubin 的开源编译器**
 

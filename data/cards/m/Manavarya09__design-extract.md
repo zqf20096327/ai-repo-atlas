@@ -1,6 +1,6 @@
 # Manavarya09/design-extract
 
-⭐ 5,187 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Manavarya09/design-extract) · [官网](https://www.designlang.app) · 个人维护
+⭐ 5,195 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Manavarya09/design-extract) · [官网](https://www.designlang.app) · 个人维护
 
 **一条命令提取任意网站设计系统，输出 DTCG 令牌与多平台代码**
 

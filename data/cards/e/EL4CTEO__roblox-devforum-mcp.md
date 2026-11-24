@@ -1,6 +1,6 @@
 # EL4CTEO/roblox-devforum-mcp
 
-⭐ 10 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EL4CTEO/roblox-devforum-mcp) · [官网](https://www.npmjs.com/package/roblox-devforum-mcp) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EL4CTEO/roblox-devforum-mcp) · [官网](https://www.npmjs.com/package/roblox-devforum-mcp) · 个人维护
 
 **给 AI 编码代理接入 Roblox DevForum 与官方文档的 MCP 服务器**
 

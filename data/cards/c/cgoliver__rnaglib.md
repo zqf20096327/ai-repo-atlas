@@ -1,6 +1,6 @@
 # cgoliver/rnaglib
 
-⭐ 46 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/cgoliver/rnaglib) · [官网](https://rnaglib.org) · 组织维护
+⭐ 46 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cgoliver/rnaglib) · [官网](https://rnaglib.org) · 组织维护
 
 **面向 RNA 2.5D/3D 结构的深度学习工具包与注释数据库**
 

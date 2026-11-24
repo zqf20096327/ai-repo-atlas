@@ -1,6 +1,6 @@
 # Perseus-Computing-LLC/argus
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Perseus-Computing-LLC/argus) · [官网](https://telarch.ai/argus) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 AI agent 行为生成防篡改审计账本：SHA-256 哈希链记录**
 
@@ -11,7 +11,7 @@ Argus 是一个记录 AI agent 行为的防篡改账本库：将每个操作追�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

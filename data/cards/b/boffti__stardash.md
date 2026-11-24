@@ -1,6 +1,6 @@
 # boffti/stardash
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/boffti/stardash) · [官网](https://stardash.dev) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/boffti/stardash) · [官网](https://stardash.dev) · 个人维护
 
 **把 GitHub stars 变成 AI 辅助的发现、整理与贡献工作台**
 

@@ -1,6 +1,6 @@
 # fhiltscher/awesome-ai-coding-sandboxes
 
-⭐ 32 · Python · CC0-1.0 · 推送 2026-11-17 · [GitHub](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) · [官网](https://fhiltscher.github.io/awesome-ai-coding-sandboxes/) · 个人维护
+⭐ 32 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) · [官网](https://fhiltscher.github.io/awesome-ai-coding-sandboxes/) · 个人维护
 
 **面向 AI 编程 agent 的沙箱/隔离方案安全态势清单**
 

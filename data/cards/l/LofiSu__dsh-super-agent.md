@@ -1,6 +1,6 @@
 # LofiSu/dsh-super-agent
 
-⭐ 148 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LofiSu/dsh-super-agent) · 个人维护 · 中文 README
+⭐ 151 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LofiSu/dsh-super-agent) · 个人维护 · 中文 README
 
 **个人多 Agent 运行时框架：Router/Worker 协作处理主动触发的工作流**
 

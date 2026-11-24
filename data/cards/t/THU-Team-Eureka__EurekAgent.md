@@ -1,6 +1,6 @@
 # THU-Team-Eureka/EurekAgent
 
-⭐ 87 · Python · AGPL-3.0 · 推送 2026-08-10 · [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) · 组织维护 · 中文 README
+⭐ 86 · Python · AGPL-3.0 · 推送 2026-08-10 · [GitHub](https://github.com/THU-Team-Eureka/EurekAgent) · 组织维护 · 中文 README
 
 **驱动 Claude Code 做指标驱动自主科学发现的 agent 系统**
 

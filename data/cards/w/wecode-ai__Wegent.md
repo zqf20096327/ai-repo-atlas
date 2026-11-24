@@ -1,6 +1,6 @@
 # wecode-ai/Wegent
 
-⭐ 893 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wecode-ai/Wegent) · [官网](https://wecode-ai.github.io/wegent-docs) · 组织维护 · 中文 README
+⭐ 894 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wecode-ai/Wegent) · [官网](https://wecode-ai.github.io/wegent-docs) · 组织维护 · 中文 README
 
 **面向团队的开源 AI 协作工作台：以 Issue 分配、执行并交付任务**
 

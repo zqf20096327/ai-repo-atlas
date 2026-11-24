@@ -1,6 +1,6 @@
 # sangharshadhyeta/Strata-HotRod
 
-⭐ 74 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sangharshadhyeta/Strata-HotRod) · [官网](https://sangharshadhyeta.github.io/Strata-HotRod/) · 个人维护
+⭐ 83 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sangharshadhyeta/Strata-HotRod) · [官网](https://sangharshadhyeta.github.io/Strata-HotRod/) · 个人维护
 
 **在单张游戏显卡上本地运行 125B MoE 模型的推理引擎分支**
 

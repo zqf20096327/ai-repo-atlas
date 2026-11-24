@@ -1,6 +1,6 @@
 # muna-ai/muna-py
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/muna-ai/muna-py) · [官网](https://docs.muna.ai) · 组织维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/muna-ai/muna-py) · [官网](https://docs.muna.ai) · 组织维护
 
 **本地与云端编译运行 AI 模型的 Python 客户端与 CLI**
 

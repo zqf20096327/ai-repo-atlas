@@ -1,6 +1,6 @@
 # Donglaiye/mcd-calorie-architect
 
-⭐ 4 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Donglaiye/mcd-calorie-architect) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **基于麦当劳官方 MCP 真实营养数据的 AI 控卡配餐 Skill**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

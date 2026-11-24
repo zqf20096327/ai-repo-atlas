@@ -1,6 +1,6 @@
 # alumnium-hq/alumnium
 
-⭐ 1,025 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/alumnium-hq/alumnium) · [官网](https://alumnium.ai) · 组织维护
+⭐ 1,026 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/alumnium-hq/alumnium) · [官网](https://alumnium.ai) · 组织维护
 
 **给开发者用的 AI 端到端测试库与 MCP 服务器**
 

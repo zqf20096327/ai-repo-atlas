@@ -1,6 +1,6 @@
 # syzkillall/comprehensive-thinking-skill
 
-⭐ 49 · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/syzkillall/comprehensive-thinking-skill) · 个人维护 · 中文 README
+⭐ 48 · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/syzkillall/comprehensive-thinking-skill) · 个人维护 · 中文 README
 
 **为 AI agent 设计的推理思维模式 skill，提升复杂判断质量**
 

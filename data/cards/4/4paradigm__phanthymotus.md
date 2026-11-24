@@ -1,6 +1,6 @@
 # 4paradigm/phanthymotus
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/4paradigm/phanthymotus) · [官网](https://motus.phanthy.com/) · 组织维护 · 中文 README
+⭐ 57 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/4paradigm/phanthymotus) · [官网](https://motus.phanthy.com/) · 组织维护 · 中文 README
 
 **给机器人开发者的具身智能 Agent 框架与平台（ROS2 基础）**
 

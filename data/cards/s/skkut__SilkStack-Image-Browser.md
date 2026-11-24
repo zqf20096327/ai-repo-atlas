@@ -1,6 +1,6 @@
 # skkut/SilkStack-Image-Browser
 
-⭐ 35 · TypeScript · MPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/skkut/SilkStack-Image-Browser) · [官网](https://skkut.github.io/silkstack) · 个人维护
+⭐ 35 · TypeScript · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/skkut/SilkStack-Image-Browser) · [官网](https://skkut.github.io/silkstack) · 个人维护
 
 **本地浏览与整理 ComfyUI 等 AI 生成图片的桌面浏览器**
 

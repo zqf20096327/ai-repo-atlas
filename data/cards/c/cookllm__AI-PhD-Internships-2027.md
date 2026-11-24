@@ -1,6 +1,6 @@
 # cookllm/AI-PhD-Internships-2027
 
-⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cookllm/AI-PhD-Internships-2027) · [官网](https://cookllm.com/en/jobs/board?utm_source=github&utm_medium=readme&utm_campaign=phd-internships&utm_content=about) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cookllm/AI-PhD-Internships-2027) · [官网](https://cookllm.com/en/jobs/board?utm_source=github&utm_medium=readme&utm_campaign=phd-internships&utm_content=about) · 个人维护
 
 **面向 PhD 求职者的 2027 AI/ML 研究实习岗位清单**
 

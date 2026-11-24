@@ -1,6 +1,6 @@
 # craigm26/OpenCastor
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/craigm26/OpenCastor) · [官网](https://opencastor.com) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/craigm26/OpenCastor) · [官网](https://opencastor.com) · 个人维护
 
 **开源机器人运行时：驱动、多提供商 AI 路由、车队管理与云桥**
 

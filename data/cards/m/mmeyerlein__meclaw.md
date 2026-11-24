@@ -1,6 +1,6 @@
 # mmeyerlein/meclaw
 
-⭐ 46 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mmeyerlein/meclaw) · [官网](https://meclaw.ai) · 个人维护
+⭐ 47 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mmeyerlein/meclaw) · [官网](https://meclaw.ai) · 个人维护
 
 **Rust 编写的多智能体系统构建框架，单二进制交付**
 

@@ -1,6 +1,6 @@
 # chunonesoft/open-superagent
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/chunonesoft/open-superagent) · [官网](https://github.com/chunonesoft/open-superagent#readme) · 组织维护 · 中文 README
+⭐ 7 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/chunonesoft/open-superagent) · [官网](https://github.com/chunonesoft/open-superagent#readme) · 组织维护 · 中文 README
 
 **给用自建 GitLab 和钉钉的团队接入的编程智能体**
 

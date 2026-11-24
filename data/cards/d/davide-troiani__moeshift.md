@@ -1,6 +1,6 @@
 # davide-troiani/moeshift
 
-⭐ 129 · C++ · MIT · 推送 2026-11-15 · [GitHub](https://github.com/davide-troiani/moeshift) · 个人维护
+⭐ 131 · C++ · MIT · 推送 2026-11-15 · [GitHub](https://github.com/davide-troiani/moeshift) · 个人维护
 
 **在 10GB 内存 Apple Silicon Mac 上本地运行 125B MoE 模型的推理服务器**
 

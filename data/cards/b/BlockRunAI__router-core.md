@@ -1,6 +1,6 @@
 # BlockRunAI/router-core
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/BlockRunAI/router-core) · [官网](https://blockrun.ai/clawrouter) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BlockRunAI/router-core) · [官网](https://blockrun.ai/clawrouter) · 组织维护
 
 **给 LLM 应用与 agent 的本地确定性模型路由引擎**
 

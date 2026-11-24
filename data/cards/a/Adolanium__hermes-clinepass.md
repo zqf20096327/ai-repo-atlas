@@ -1,6 +1,6 @@
 # Adolanium/hermes-clinepass
 
-⭐ 14 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Adolanium/hermes-clinepass) · [官网](https://github.com/Adolanium/hermes-clinepass) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Adolanium/hermes-clinepass) · [官网](https://github.com/Adolanium/hermes-clinepass) · 个人维护
 
 **让 Hermes Agent 通过 ClinePass 调用 Kimi/GLM/DeepSeek 等模型的插件**
 

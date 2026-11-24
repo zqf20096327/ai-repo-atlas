@@ -1,6 +1,6 @@
 # Kamra-PMS/kamra-pms
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Kamra-PMS/kamra-pms) · [官网](https://kamrapms.com) · 组织维护
+⭐ 114 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Kamra-PMS/kamra-pms) · [官网](https://kamrapms.com) · 组织维护
 
 **开源酒店/民宿 PMS：前台、账务、POS 与供 AI 代理调用的 MCP 层**
 

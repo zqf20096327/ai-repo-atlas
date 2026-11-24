@@ -1,6 +1,6 @@
 # Prot10/MyTripPlanner
 
-⭐ 14 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Prot10/MyTripPlanner) · [官网](https://prot10.github.io/MyTripPlanner/) · 个人维护
+⭐ 14 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Prot10/MyTripPlanner) · [官网](https://prot10.github.io/MyTripPlanner/) · 个人维护
 
 **自托管公路旅行规划器：对话式 AI 代理生成真实行程**
 

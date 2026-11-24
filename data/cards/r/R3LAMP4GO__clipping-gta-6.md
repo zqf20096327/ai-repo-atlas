@@ -1,6 +1,6 @@
 # R3LAMP4GO/clipping-gta-6
 
-⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/R3LAMP4GO/clipping-gta-6) · [官网](https://whop.com/opsyscollective/products) · 个人维护
+⭐ 8 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/R3LAMP4GO/clipping-gta-6) · [官网](https://whop.com/opsyscollective/products) · 个人维护
 
 **让 Claude Code/Codex 实时剪辑 GTA 6 直流成字幕竖屏 Shorts**
 

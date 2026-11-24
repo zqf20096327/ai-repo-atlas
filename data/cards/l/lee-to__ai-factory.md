@@ -1,6 +1,6 @@
 # lee-to/ai-factory
 
-⭐ 1,165 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/lee-to/ai-factory) · [官网](https://aif.cutcode.dev) · 个人维护
+⭐ 1,166 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/lee-to/ai-factory) · [官网](https://aif.cutcode.dev) · 个人维护
 
 **为 AI 编程 agent 一键配置技能、提示与工作流的 CLI**
 

@@ -1,6 +1,6 @@
 # baughmann/tikara
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/baughmann/tikara) · [官网](https://baughmann.github.io/tikara/) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/baughmann/tikara) · [官网](https://baughmann.github.io/tikara/) · 个人维护
 
 **基于 Apache Tika 的 Python 文档内容与元数据提取库**
 

@@ -1,6 +1,6 @@
 # Qredence/fleet-prime-agent
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Qredence/fleet-prime-agent) · [官网](https://docs.qredence.ai/fleet-prime-agent/introduction) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Qredence/fleet-prime-agent) · [官网](https://docs.qredence.ai/fleet-prime-agent/introduction) · 组织维护
 
 **Prime Agent 编码智能体的本地浏览器工作界面**
 

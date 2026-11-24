@@ -1,6 +1,6 @@
 # jc4603/telegram-channel-forwarder
 
-⭐ 153 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/jc4603/telegram-channel-forwarder) · 个人维护
+⭐ 153 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/jc4603/telegram-channel-forwarder) · 个人维护
 
 **Windows 本地运行的 Telegram 频道自动转发与 AI 改写工具**
 

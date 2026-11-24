@@ -1,6 +1,6 @@
 # roketskiy/fintwind
 
-⭐ 43 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/roketskiy/fintwind) · 个人维护 · 中文 README
+⭐ 43 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/roketskiy/fintwind) · 个人维护 · 中文 README
 
 **OpenCode 2 的原生 Windows 桌面客户端（Rust+GPUI）**
 

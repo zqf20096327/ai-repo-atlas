@@ -1,6 +1,6 @@
 # sherlockchou86/VideoPipe
 
-⭐ 2,995 · C++ · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/sherlockchou86/VideoPipe) · [官网](http://www.videopipe.cool) · 个人维护 · 中文 README
+⭐ 2,996 · C++ · Apache-2.0 · 推送 2026-02-25 · [GitHub](https://github.com/sherlockchou86/VideoPipe) · [官网](http://www.videopipe.cool) · 个人维护 · 中文 README
 
 **C++ 跨平台视频结构化分析框架：用流水线节点组合 CV 模型与 mLLM**
 

@@ -1,6 +1,6 @@
 # dshworks/awesome-dsh-plugins
 
-⭐ 36 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dshworks/awesome-dsh-plugins) · [官网](https://dsh.works/awesome-dsh-plugins/) · 组织维护
+⭐ 37 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dshworks/awesome-dsh-plugins) · [官网](https://dsh.works/awesome-dsh-plugins/) · 组织维护
 
 **DeepSeek Harness 插件开放数据注册表（20,769 条）**
 

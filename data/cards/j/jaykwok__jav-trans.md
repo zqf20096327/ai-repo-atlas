@@ -1,6 +1,6 @@
 # jaykwok/jav-trans
 
-⭐ 58 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jaykwok/jav-trans) · [官网](https://github.com/jaykwok/jav-trans/releases/latest) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jaykwok/jav-trans) · [官网](https://github.com/jaykwok/jav-trans/releases/latest) · 个人维护 · 中文 README
 
 **Windows 用户为日语视频本地生成日中双语 SRT 字幕**
 

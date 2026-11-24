@@ -1,6 +1,6 @@
 # wangzongming/esp-ai
 
-⭐ 858 · C · MIT · 推送 2026-11-12 · [GitHub](https://github.com/wangzongming/esp-ai) · 个人维护 · 中文 README
+⭐ 859 · C · MIT · 推送 2026-11-12 · [GitHub](https://github.com/wangzongming/esp-ai) · 个人维护 · 中文 README
 
 **为 ESP32 系列开发板提供 AI 对话接入方案**
 

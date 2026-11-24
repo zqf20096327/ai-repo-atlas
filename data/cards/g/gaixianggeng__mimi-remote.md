@@ -1,6 +1,6 @@
 # gaixianggeng/mimi-remote
 
-⭐ 112 · Swift · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/gaixianggeng/mimi-remote) · [官网](https://remote.code89757.com/) · 个人维护 · 中文 README
+⭐ 112 · Swift · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/gaixianggeng/mimi-remote) · [官网](https://remote.code89757.com/) · 个人维护 · 中文 README
 
 **从 iPhone/iPad 远程操控 Codex 与 Claude Code 的自托管客户端**
 

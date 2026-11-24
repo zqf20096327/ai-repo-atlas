@@ -1,6 +1,6 @@
 # chadbyte/clay
 
-⭐ 415 · JavaScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/chadbyte/clay) · 个人维护
+⭐ 417 · JavaScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/chadbyte/clay) · 个人维护
 
 **自托管工作区：人与多个编码 agent 跨项目协作**
 

@@ -1,10 +1,10 @@
 # microsoft/AI-Engineering-Coach
 
-⭐ 4,435 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/AI-Engineering-Coach) · 组织维护
+⭐ 4,440 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/AI-Engineering-Coach) · 组织维护
 
-**给开发者用的 AI 编码助手使用分析仪表盘**
+**分析本地 AI 编码会话日志的 VS Code 仪表盘扩展**
 
-VS Code 扩展（1.115+，MIT），读取本地 AI 编码会话日志并生成洞察仪表盘：练习得分与周趋势、45 条反模式规则检测（提示质量、会话卫生、代码评审、工具掌握、上下文管理）、按语言/模型/harness 统计 AI 生成代码量、把重复提示转化为可复用技能、上下文健康评分。所有解析与分析在本机完成，只读不改会话文件。未发布到市场，需自行构建 .vsix 安装；也可作为 GitHub Copilot 应用的 canvas 运行。
+读取本机 AI 编码助手的会话日志，在不外传数据的前提下生成可视化洞察：练习得分与周趋势、45 条反模式检测规则（提示词质量、会话卫生、代码评审、工具掌握、上下文管理）、按语言/工作区/模型/harness 统计的生成代码量、重复提示词转化为可复用技能、上下文健康评分。以 VS Code 扩展形式分发，需自行构建 .vsix 安装；也可作为 canvas 运行在 GitHub Copilot 应用中。可选 AI 功能依赖 GitHub Copilot 的 VS Code 语言模型 API。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ VS Code 扩展（1.115+，MIT），读取本地 AI 编码会话日志并生成�
 
 ## 能力要点
 
-- 45 条可编辑的反模式检测规则及覆盖率热图
+- 45 条可编辑 markdown 规则的反模式检测与覆盖率热图
 - 按语言、工作区、模型、harness 统计 AI 生成代码量
-- Skill Finder 将重复提示匹配开源技能目录
-- 本地只读分析，无专有遥测，数据不出机器
+- 本地只读分析，无遥测，数据不离开本机
+- 同一 webview 可作为 canvas 运行于 GitHub Copilot 应用
 
 ## 适用场景
 
-- 回顾自己使用 AI 编码助手的习惯并改进提示质量
-- 团队查看 AI 生成代码量与工作时段分布
-- 把高频重复提示整理成可复用技能
+- 追踪自己和团队的 AI 编码助手使用习惯与进步趋势
+- 检测提示词和会话管理中的反模式并改进
+- 把反复出现的提示词沉淀为可复用技能
+- 评估工作区的 agent 就绪度与上下文文件质量
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+ · 领域:开发者工具/AI 编码分析
 
 ## 证据(README 行号)
 
 > L15: AI Engineer Coach reads your local AI session logs and turns them into actionable insights — no data leaves your ma
-> L186: - **Optional AI features** — some features (rule compiler, skill finder, Level Up learning content, context review
+> L18: - **Detect anti-patterns** -- 45 rules across prompt quality, session hygiene, code review, tool mastery, and conte
+> L221: - **Optional AI features** — some features (rule compiler, skill finder, Level Up learning content, context review
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4098181ce4bd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e856260606fb` · [字段定义](../../DATASET.md)*

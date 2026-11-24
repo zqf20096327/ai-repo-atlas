@@ -1,6 +1,6 @@
 # frankroeder/parrot.nvim
 
-⭐ 792 · Lua · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/frankroeder/parrot.nvim) · 个人维护
+⭐ 792 · Lua · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/frankroeder/parrot.nvim) · 个人维护
 
 **面向 Neovim 的 LLM 文本生成插件：补全、改写与聊天**
 

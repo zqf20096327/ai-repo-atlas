@@ -1,6 +1,6 @@
 # openviglet/turing
 
-⭐ 24 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openviglet/turing) · [官网](https://turing.viglet.org/) · 组织维护
+⭐ 24 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openviglet/turing) · [官网](https://turing.viglet.org/) · 组织维护
 
 **自托管企业搜索平台：分面语义搜索+带引用的 RAG 问答**
 

@@ -1,6 +1,6 @@
 # P-YI/OnBud
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/P-YI/OnBud) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/P-YI/OnBud) · 个人维护 · 中文 README
 
 **macOS 本地端侧 AI 启动器：用苹果内置模型检索与操作本机文件**
 

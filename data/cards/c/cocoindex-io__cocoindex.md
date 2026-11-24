@@ -1,6 +1,6 @@
 # cocoindex-io/cocoindex
 
-⭐ 11,927 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cocoindex-io/cocoindex) · [官网](https://cocoindex.io) · 组织维护 · 中文 README
+⭐ 11,931 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/cocoindex-io/cocoindex) · [官网](https://cocoindex.io) · 组织维护 · 中文 README
 
 **面向 AI agent 的增量数据索引/RAG 流水线 Python 框架**
 

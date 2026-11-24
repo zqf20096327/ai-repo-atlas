@@ -1,6 +1,6 @@
 # EnzymeAD/Enzyme.jl
 
-⭐ 595 · Julia · MIT · 推送 2026-11-20 · [GitHub](https://github.com/EnzymeAD/Enzyme.jl) · [官网](https://enzymead.github.io/Enzyme.jl/) · 组织维护
+⭐ 595 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EnzymeAD/Enzyme.jl) · [官网](https://enzymead.github.io/Enzyme.jl/) · 组织维护
 
 **Julia 语言的 LLVM 级自动微分绑定库**
 

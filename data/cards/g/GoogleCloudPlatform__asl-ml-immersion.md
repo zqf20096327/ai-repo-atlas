@@ -1,6 +1,6 @@
 # GoogleCloudPlatform/asl-ml-immersion
 
-⭐ 2,618 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/GoogleCloudPlatform/asl-ml-immersion) · 组织维护
+⭐ 2,618 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/GoogleCloudPlatform/asl-ml-immersion) · 组织维护
 
 **Google Cloud 上的 AI/ML 与生成式 AI 培训课程代码仓库**
 

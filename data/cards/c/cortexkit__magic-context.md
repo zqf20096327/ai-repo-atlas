@@ -1,6 +1,6 @@
 # cortexkit/magic-context
 
-⭐ 2,554 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cortexkit/magic-context) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护 · 中文 README
+⭐ 2,555 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cortexkit/magic-context) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护 · 中文 README
 
 **为编码 agent 提供自管理上下文与跨会话长期记忆的插件**
 

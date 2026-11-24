@@ -1,6 +1,6 @@
 # Aatricks/Emaki
 
-⭐ 28 · Kotlin · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/Aatricks/Emaki) · 个人维护
+⭐ 28 · Kotlin · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Aatricks/Emaki) · 个人维护
 
 **Android 多格式阅读器，支持本地 LLM 离线章节摘要**
 

@@ -1,6 +1,6 @@
 # yoza10635/dsh-argp
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yoza10635/dsh-argp) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yoza10635/dsh-argp) · 个人维护 · 中文 README
 
 **dsh 的第三方上下文压缩引擎插件：LLM 提议、守卫裁决**
 

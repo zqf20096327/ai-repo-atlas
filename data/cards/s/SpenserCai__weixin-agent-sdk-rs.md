@@ -1,6 +1,6 @@
 # SpenserCai/weixin-agent-sdk-rs
 
-⭐ 11 · Rust · MIT · 推送 2026-08-13 · [GitHub](https://github.com/SpenserCai/weixin-agent-sdk-rs) · [官网](https://crates.io/crates/weixin-agent) · 个人维护 · 中文 README
+⭐ 12 · Rust · MIT · 推送 2026-08-13 · [GitHub](https://github.com/SpenserCai/weixin-agent-sdk-rs) · [官网](https://crates.io/crates/weixin-agent) · 个人维护 · 中文 README
 
 **给开发者的微信 ClawBot 接入 Rust 协议层 SDK**
 

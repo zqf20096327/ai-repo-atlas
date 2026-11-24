@@ -1,6 +1,6 @@
 # kianakaslana20/astrbot_plugin_pojia
 
-⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kianakaslana20/astrbot_plugin_pojia) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/kianakaslana20/astrbot_plugin_pojia) · 个人维护 · 中文 README
 
 **AstrBot 插件：注入提示词并重试拒绝，绕开模型拒答**
 

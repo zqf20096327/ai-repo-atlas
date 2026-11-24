@@ -1,6 +1,6 @@
 # yuzushi-dev/Relic
 
-⭐ 48 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/yuzushi-dev/Relic) · [官网](https://yuzushi-dev.github.io/Relic/) · 组织维护
+⭐ 49 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/yuzushi-dev/Relic) · [官网](https://yuzushi-dev.github.io/Relic/) · 组织维护
 
 **为反思型 agent 提供纵向关系建模与运行时治理层**
 

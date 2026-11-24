@@ -1,6 +1,6 @@
 # regulad/vnc-mcp
 
-⭐ 13 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/regulad/vnc-mcp) · [官网](https://vnc-mcp.readthedocs.io/) · 个人维护
+⭐ 13 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/regulad/vnc-mcp) · [官网](https://vnc-mcp.readthedocs.io/) · 个人维护
 
 **让 MCP 兼容 LLM 通过 VNC 操作任意远程桌面的服务器**
 

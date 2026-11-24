@@ -1,6 +1,6 @@
 # n0mad-ai/bastra-recall
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/n0mad-ai/bastra-recall) · [官网](https://bastra.io) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/n0mad-ai/bastra-recall) · [官网](https://bastra.io) · 组织维护
 
 **面向 AI 编码助手的本地优先持久记忆，Markdown 存储**
 

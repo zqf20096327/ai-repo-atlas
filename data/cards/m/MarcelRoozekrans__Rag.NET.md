@@ -1,6 +1,6 @@
 # MarcelRoozekrans/Rag.NET
 
-⭐ 21 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MarcelRoozekrans/Rag.NET) · [官网](https://marcelroozekrans.github.io/Rag.NET/) · 个人维护
+⭐ 21 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MarcelRoozekrans/Rag.NET) · [官网](https://marcelroozekrans.github.io/Rag.NET/) · 个人维护
 
 **.NET 开发者的模块化 RAG 流水线库**
 

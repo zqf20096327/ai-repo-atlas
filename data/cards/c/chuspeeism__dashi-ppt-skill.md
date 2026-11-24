@@ -1,6 +1,6 @@
 # chuspeeism/dashi-ppt-skill
 
-⭐ 10,949 · JavaScript · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/chuspeeism/dashi-ppt-skill) · 个人维护 · 中文 README
+⭐ 11,038 · JavaScript · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/chuspeeism/dashi-ppt-skill) · 个人维护 · 中文 README
 
 **让 AI Agent 从文档生成可浏览器编辑、可导出 PPTX 的技能包**
 

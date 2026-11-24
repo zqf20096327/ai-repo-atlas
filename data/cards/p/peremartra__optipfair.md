@@ -1,6 +1,6 @@
 # peremartra/optipfair
 
-⭐ 47 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/peremartra/optipfair) · [官网](https://peremartra.github.io/optipfair/) · 个人维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/peremartra/optipfair) · [官网](https://peremartra.github.io/optipfair/) · 个人维护
 
 **LLM 结构化剪枝、知识蒸馏与偏见分析 Python 库**
 

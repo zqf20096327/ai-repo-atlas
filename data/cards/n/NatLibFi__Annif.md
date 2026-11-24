@@ -1,6 +1,6 @@
 # NatLibFi/Annif
 
-⭐ 279 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/NatLibFi/Annif) · [官网](https://annif.org) · 组织维护
+⭐ 280 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/NatLibFi/Annif) · [官网](https://annif.org) · 组织维护
 
 **面向图书馆等机构的自动主题标引工具包**
 

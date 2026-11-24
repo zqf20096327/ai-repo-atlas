@@ -1,6 +1,6 @@
 # ralksta/ComfyUI-Photoshoot
 
-⭐ 252 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ralksta/ComfyUI-Photoshoot) · 个人维护
+⭐ 253 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ralksta/ComfyUI-Photoshoot) · 个人维护
 
 **ComfyUI 节点集：一次构建人物，批量生成同人多角度写真系列**
 

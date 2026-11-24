@@ -1,6 +1,6 @@
 # DioNanos/codex-vl
 
-⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/DioNanos/codex-vl) · [官网](https://www.npmjs.com/package/@mmmbuto/codex-vl) · 个人维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DioNanos/codex-vl) · [官网](https://www.npmjs.com/package/@mmmbuto/codex-vl) · 个人维护
 
 **OpenAI Codex CLI 社区分支：增加循环任务与 Vivling 陪伴层**
 

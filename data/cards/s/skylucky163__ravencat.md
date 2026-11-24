@@ -1,6 +1,6 @@
 # skylucky163/ravencat
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/skylucky163/ravencat) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/skylucky163/ravencat) · 个人维护 · 中文 README
 
 **面向个人的 Android 多模型 AI 对话客户端**
 

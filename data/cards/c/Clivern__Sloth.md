@@ -1,6 +1,6 @@
 # Clivern/Sloth
 
-⭐ 199 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Clivern/Sloth) · [官网](https://sloth.clivern.com) · 个人维护
+⭐ 199 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Clivern/Sloth) · [官网](https://sloth.clivern.com) · 个人维护
 
 **面向 AI agent、API 与 MCP 服务器的网关和服务发现注册中心**
 

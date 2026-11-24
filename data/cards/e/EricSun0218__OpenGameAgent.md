@@ -1,6 +1,6 @@
 # EricSun0218/OpenGameAgent
 
-⭐ 61 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EricSun0218/OpenGameAgent) · [官网](https://opengameagent.com) · 个人维护 · 中文 README
+⭐ 61 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/EricSun0218/OpenGameAgent) · [官网](https://opengameagent.com) · 个人维护 · 中文 README
 
 **面向 AI 原生游戏角色的 TypeScript Agent 运行时**
 

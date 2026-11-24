@@ -1,6 +1,6 @@
 # pardnchiu/ToriiDB
 
-⭐ 39 · Go · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pardnchiu/ToriiDB) · [官网](https://toriidb.pardn.io) · 个人维护 · 中文 README
+⭐ 41 · Go · MIT · 推送 2026-10-06 · [GitHub](https://github.com/pardnchiu/ToriiDB) · [官网](https://toriidb.pardn.io) · 个人维护 · 中文 README
 
 **Go 嵌入式 JSON KV 数据库，带向量搜索与 Redis 风格命令**
 

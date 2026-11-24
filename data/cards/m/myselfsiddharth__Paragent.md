@@ -1,6 +1,6 @@
 # myselfsiddharth/Paragent
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/myselfsiddharth/Paragent) · [官网](https://www.npmjs.com/package/paragent) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/myselfsiddharth/Paragent) · [官网](https://www.npmjs.com/package/paragent) · 个人维护
 
 **浏览器任务的录制-回放执行层：回放无需模型，失败时模型修复**
 

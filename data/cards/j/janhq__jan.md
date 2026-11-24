@@ -1,6 +1,6 @@
 # janhq/jan
 
-⭐ 46,028 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/janhq/jan) · [官网](https://jan.ai/) · 组织维护
+⭐ 46,054 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/janhq/jan) · [官网](https://jan.ai/) · 组织维护
 
 **给个人用户的本地离线 LLM 客户端：下载并运行模型**
 

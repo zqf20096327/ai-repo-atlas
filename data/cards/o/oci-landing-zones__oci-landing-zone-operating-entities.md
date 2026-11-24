@@ -1,6 +1,6 @@
 # oci-landing-zones/oci-landing-zone-operating-entities
 
-⭐ 68 · TypeScript · UPL-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities) · [官网](https://oci-landing-zones.github.io/oci-landing-zone-operating-entities/) · 组织维护
+⭐ 68 · TypeScript · UPL-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/oci-landing-zones/oci-landing-zone-operating-entities) · [官网](https://oci-landing-zones.github.io/oci-landing-zone-operating-entities/) · 组织维护
 
 **OCI 落地区蓝图集：用声明式 IaC 简化组织和子公司入驻运行 OCI**
 

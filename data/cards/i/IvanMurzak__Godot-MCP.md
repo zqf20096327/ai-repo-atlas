@@ -1,6 +1,6 @@
 # IvanMurzak/Godot-MCP
 
-⭐ 380 · C# · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/IvanMurzak/Godot-MCP) · [官网](https://ai-game.dev) · 个人维护
+⭐ 383 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/IvanMurzak/Godot-MCP) · [官网](https://ai-game.dev) · 个人维护
 
 **Godot 编辑器的 MCP 集成插件：让 AI 代理直接操作 Godot 项目**
 

@@ -1,6 +1,6 @@
 # jae-jae/fetcher-mcp
 
-⭐ 1,088 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/jae-jae/fetcher-mcp) · [官网](https://1team.top) · 个人维护 · 中文 README
+⭐ 1,087 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/jae-jae/fetcher-mcp) · [官网](https://1team.top) · 个人维护 · 中文 README
 
 **基于 Playwright 无头浏览器的 MCP 网页抓取服务器**
 

@@ -1,6 +1,6 @@
 # mlfoundations/open_clip
 
-⭐ 14,281 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/mlfoundations/open_clip) · 组织维护
+⭐ 14,284 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/mlfoundations/open_clip) · 组织维护
 
 **CLIP 的开源 PyTorch 实现：训练与加载图文/音频多模态模型**
 

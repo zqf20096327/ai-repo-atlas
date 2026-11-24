@@ -1,6 +1,6 @@
 # sscodeai/agency-agents-ja
 
-⭐ 10 · Shell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sscodeai/agency-agents-ja) · 个人维护 · 中文 README
+⭐ 10 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sscodeai/agency-agents-ja) · 个人维护 · 中文 README
 
 **面向日本IT交付的413个AI专业角色提示词库**
 

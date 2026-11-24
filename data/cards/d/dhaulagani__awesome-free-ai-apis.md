@@ -1,6 +1,6 @@
 # dhaulagani/awesome-free-ai-apis
 
-⭐ 3 · 推送 2026-11-22 · [GitHub](https://github.com/dhaulagani/awesome-free-ai-apis) · 个人维护
+⭐ 3 · 推送 2026-11-23 · [GitHub](https://github.com/dhaulagani/awesome-free-ai-apis) · 个人维护
 
 **为开发者提供的每日核验免费 AI 推理 API 目录**
 

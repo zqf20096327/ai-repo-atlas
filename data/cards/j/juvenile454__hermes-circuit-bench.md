@@ -1,6 +1,6 @@
 # juvenile454/hermes-circuit-bench
 
-⭐ 6 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/juvenile454/hermes-circuit-bench) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/juvenile454/hermes-circuit-bench) · 个人维护
 
 **Hermes 用户的 ESP32 电子工作台插件：从选脚到烧录全程计算可溯源**
 

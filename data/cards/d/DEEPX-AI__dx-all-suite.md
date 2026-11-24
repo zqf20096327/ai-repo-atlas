@@ -1,6 +1,6 @@
 # DEEPX-AI/dx-all-suite
 
-⭐ 80 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/DEEPX-AI/dx-all-suite) · [官网](https://developer.deepx.ai/) · 组织维护
+⭐ 80 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/DEEPX-AI/dx-all-suite) · [官网](https://developer.deepx.ai/) · 组织维护
 
 **DEEPX NPU 官方 SDK：编译、量化并在 DEEPX NPU 上部署 ONNX 模型**
 

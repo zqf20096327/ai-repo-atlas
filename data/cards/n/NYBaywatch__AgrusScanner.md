@@ -1,6 +1,6 @@
 # NYBaywatch/AgrusScanner
 
-⭐ 41 · C# · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/NYBaywatch/AgrusScanner) · [官网](https://github.com/NYBaywatch/AgrusScanner/releases/latest) · 个人维护
+⭐ 41 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/NYBaywatch/AgrusScanner) · [官网](https://github.com/NYBaywatch/AgrusScanner/releases/latest) · 个人维护
 
 **Windows 网络扫描器：发现内网中的 AI/ML 服务与 MCP 服务器（影子 AI 探测）**
 

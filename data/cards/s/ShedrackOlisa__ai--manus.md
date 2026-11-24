@@ -1,6 +1,6 @@
 # ShedrackOlisa/ai--manus
 
-⭐ 149 · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/ShedrackOlisa/ai--manus) · 个人维护
+⭐ 147 · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/ShedrackOlisa/ai--manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：自动执行代码与浏览器操作**
 

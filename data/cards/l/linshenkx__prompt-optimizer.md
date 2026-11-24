@@ -1,6 +1,6 @@
 # linshenkx/prompt-optimizer
 
-⭐ 42,216 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/linshenkx/prompt-optimizer) · [官网](https://prompt.always200.com) · 个人维护
+⭐ 42,313 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/linshenkx/prompt-optimizer) · [官网](https://prompt.always200.com) · 个人维护
 
 **面向 AI 使用者的提示词优化、测试与评估工具**
 

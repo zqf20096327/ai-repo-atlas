@@ -1,6 +1,6 @@
 # tambo-ai/tambo
 
-⭐ 11,222 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tambo-ai/tambo) · [官网](https://tambo.co) · 组织维护
+⭐ 11,225 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tambo-ai/tambo) · [官网](https://tambo.co) · 组织维护
 
 **React 生成式 UI 工具包：让 agent 选择并流式渲染组件**
 

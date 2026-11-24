@@ -1,6 +1,6 @@
 # UniversityOfHelsinkiCS/gptwrapper
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/UniversityOfHelsinkiCS/gptwrapper) · [官网](https://curre.helsinki.fi/chat) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/UniversityOfHelsinkiCS/gptwrapper) · [官网](https://curre.helsinki.fi/chat) · 组织维护
 
 **赫尔辛基大学师生的教学科研 LLM 聊天应用**
 

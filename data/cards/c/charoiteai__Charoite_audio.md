@@ -1,6 +1,6 @@
 # charoiteai/Charoite_audio
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/charoiteai/Charoite_audio) · [官网](https://github.com/charoiteai/Charoite_audio/releases/latest) · 组织维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/charoiteai/Charoite_audio) · [官网](https://github.com/charoiteai/Charoite_audio/releases/latest) · 组织维护 · 中文 README
 
 **macOS 全本地 AI 会议助手：转写+说话人分离+自更新知识图谱**
 

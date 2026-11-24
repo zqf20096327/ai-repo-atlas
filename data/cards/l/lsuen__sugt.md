@@ -1,6 +1,6 @@
 # lsuen/sugt
 
-⭐ 154 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lsuen/sugt) · [官网](https://github.com/lsuen/sugt) · 个人维护 · 中文 README
+⭐ 159 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lsuen/sugt) · [官网](https://github.com/lsuen/sugt) · 个人维护 · 中文 README
 
 **本地 AI 网关与技能控制台：统一管理多 LLM 密钥供编码客户端接入**
 

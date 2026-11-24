@@ -1,6 +1,6 @@
 # sotger/allai-chat
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sotger/allai-chat) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sotger/allai-chat) · 个人维护
 
 **AI 网页服务聚合桌面浏览器：多服务独立会话与本地历史搜索**
 

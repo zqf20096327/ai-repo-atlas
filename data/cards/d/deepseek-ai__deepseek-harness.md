@@ -1,6 +1,6 @@
 # deepseek-ai/deepseek-harness
 
-⭐ 285,517 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/deepseek-ai/deepseek-harness) · [官网](https://deepseek.com/harness) · 组织维护 · 中文 README
+⭐ 286,099 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/deepseek-ai/deepseek-harness) · [官网](https://deepseek.com/harness) · 组织维护 · 中文 README
 
 **DeepSeek 开源的 agent 运行时框架，一切皆插件**
 

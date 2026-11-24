@@ -1,6 +1,6 @@
 # probelabs/probe
 
-⭐ 741 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/probelabs/probe) · [官网](https://probelabs.com/probe) · 组织维护
+⭐ 743 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/probelabs/probe) · [官网](https://probelabs.com/probe) · 组织维护
 
 **面向 AI 编程助手的语义代码搜索引擎与上下文引擎**
 

@@ -1,6 +1,6 @@
 # socius-org/Centauri
 
-⭐ 19 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/socius-org/Centauri) · [官网](https://socius.org/research/small-foundation-models-of-human-cognition/) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/socius-org/Centauri) · [官网](https://socius.org/research/small-foundation-models-of-human-cognition/) · 组织维护
 
 **训练心理学行为预测小型基础模型的研究代码库**
 

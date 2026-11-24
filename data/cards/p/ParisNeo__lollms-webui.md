@@ -1,6 +1,6 @@
 # ParisNeo/lollms-webui
 
-⭐ 4,790 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/ParisNeo/lollms-webui) · [官网](https://lollms.com) · 个人维护
+⭐ 4,791 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/ParisNeo/lollms-webui) · [官网](https://lollms.com) · 个人维护
 
 **本地单用户多模型多模态 LLM Web 界面**
 

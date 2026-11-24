@@ -1,6 +1,6 @@
 # AlysisAi/AlysisCode
 
-⭐ 230 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AlysisAi/AlysisCode) · [官网](https://alysiscode.com/) · 组织维护
+⭐ 232 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AlysisAi/AlysisCode) · [官网](https://alysiscode.com/) · 组织维护
 
 **本地 CLI 编码 agent：自带模型、沙箱隔离，产出可审 PR 代码**
 

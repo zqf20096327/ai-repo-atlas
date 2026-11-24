@@ -1,6 +1,6 @@
 # ortus-boxlang/bx-ai
 
-⭐ 21 · Java · 推送 2026-11-22 · [GitHub](https://github.com/ortus-boxlang/bx-ai) · [官网](https://www.boxlang.io) · 组织维护
+⭐ 21 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ortus-boxlang/bx-ai) · [官网](https://www.boxlang.io) · 组织维护
 
 **BoxLang 语言的官方 AI 模块：统一 API 编排多模型、Agent 与 RAG**
 
@@ -11,7 +11,7 @@ Ortus Solutions 维护的 BoxLang AI 库，为运行在 JVM 上的 BoxLang 语�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

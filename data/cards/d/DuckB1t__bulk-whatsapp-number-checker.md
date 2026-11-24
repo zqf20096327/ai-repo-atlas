@@ -1,6 +1,6 @@
 # DuckB1t/bulk-whatsapp-number-checker
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/DuckB1t/bulk-whatsapp-number-checker) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **隐私优先的 WhatsApp 号码批量验证 Chrome 扩展，带可选 MCP 桥**
 
@@ -11,7 +11,7 @@ BWAV 是一个 Manifest V3 Chrome 扩展，通过驱动用户自己已登录的 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

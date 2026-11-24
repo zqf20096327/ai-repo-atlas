@@ -1,6 +1,6 @@
 # chatvia/chatvia
 
-⭐ 52 · PHP · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/chatvia/chatvia) · [官网](https://chatvia.ai) · 组织维护
+⭐ 52 · PHP · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/chatvia/chatvia) · [官网](https://chatvia.ai) · 组织维护
 
 **自托管 AI 聊天 agent 平台：基于自有知识库回答，多渠道部署**
 

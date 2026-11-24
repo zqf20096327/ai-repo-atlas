@@ -1,6 +1,6 @@
 # SamueleMoscatelli/pulse
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SamueleMoscatelli/pulse) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SamueleMoscatelli/pulse) · 个人维护
 
 **AI 资产静态分析与质量门禁 CLI：扫描安全、token 冗余与矛盾**
 

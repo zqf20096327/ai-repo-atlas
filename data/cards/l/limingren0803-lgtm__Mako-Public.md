@@ -1,6 +1,6 @@
 # limingren0803-lgtm/Mako-Public
 
-⭐ 192 · Python · 推送 2026-11-20 · [GitHub](https://github.com/limingren0803-lgtm/Mako-Public) · 个人维护 · 中文 README
+⭐ 199 · Python · 推送 2026-11-20 · [GitHub](https://github.com/limingren0803-lgtm/Mako-Public) · 个人维护 · 中文 README
 
 **面向回国留学生与国内应届生的 AI 求职分析与规划系统**
 

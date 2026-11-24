@@ -1,6 +1,6 @@
 # acara-app/plate
 
-⭐ 41 · PHP · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/acara-app/plate) · [官网](https://plate.acara.app) · 组织维护
+⭐ 41 · PHP · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/acara-app/plate) · [官网](https://plate.acara.app) · 组织维护
 
 **可自托管的健康 AI 代理平台：问答、健康数据接入与营养指导**
 

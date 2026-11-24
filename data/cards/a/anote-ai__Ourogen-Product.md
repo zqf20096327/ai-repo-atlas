@@ -1,6 +1,6 @@
 # anote-ai/Ourogen-Product
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/anote-ai/Ourogen-Product) · [官网](https://chat.anote.ai/) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anote-ai/Ourogen-Product) · [官网](https://chat.anote.ai/) · 组织维护
 
 **面向开发者的多智能体 AI 系统框架与配套助手**
 

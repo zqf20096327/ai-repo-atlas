@@ -1,6 +1,6 @@
 # autodevx/legal-skills
 
-⭐ 21 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/autodevx/legal-skills) · [官网](https://github.com/autodevx) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/autodevx/legal-skills) · [官网](https://github.com/autodevx) · 组织维护
 
 **巴西法律业务 Claude 技能集：CNJ 解析、合同审查、或有负债报告**
 

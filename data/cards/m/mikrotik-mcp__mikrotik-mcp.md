@@ -1,6 +1,6 @@
 # mikrotik-mcp/mikrotik-mcp
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mikrotik-mcp/mikrotik-mcp) · [官网](https://mikrotik-mcp.usestrict.dev) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mikrotik-mcp/mikrotik-mcp) · [官网](https://mikrotik-mcp.usestrict.dev) · 个人维护
 
 **把 MikroTik 路由器变成 AI 可调用的 924 个 MCP 工具**
 

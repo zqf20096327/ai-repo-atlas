@@ -1,6 +1,6 @@
 # aardio/WinRimage
 
-⭐ 12 · MIT · 推送 2026-09-07 · [GitHub](https://github.com/aardio/WinRimage) · [官网](https://aau.cn) · 组织维护 · 中文 README
+⭐ 13 · MIT · 推送 2026-09-07 · [GitHub](https://github.com/aardio/WinRimage) · [官网](https://aau.cn) · 组织维护 · 中文 README
 
 **基于 aardio 与 rimage 的 Windows 图像压缩转换 GUI**
 

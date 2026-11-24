@@ -1,6 +1,6 @@
 # FalkorDB/GraphRAG-SDK
 
-⭐ 1,037 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/FalkorDB/GraphRAG-SDK) · [官网](https://www.falkordb.com/) · 组织维护
+⭐ 1,038 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FalkorDB/GraphRAG-SDK) · [官网](https://www.falkordb.com/) · 组织维护
 
 **给开发者的 GraphRAG 框架：基于 FalkorDB 构建带溯源的 RAG 应用**
 

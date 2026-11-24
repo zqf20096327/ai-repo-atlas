@@ -1,6 +1,6 @@
 # YuhuaBillChen/justfit-llm
 
-⭐ 12 · C++ · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/YuhuaBillChen/justfit-llm) · [官网](https://yuhuachen.com/justfit) · 个人维护
+⭐ 14 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/YuhuaBillChen/justfit-llm) · [官网](https://yuhuachen.com/justfit) · 个人维护
 
 **在 24GB Mac 上运行 Qwen3.8-27B 全 256K 上下文的本地推理服务**
 

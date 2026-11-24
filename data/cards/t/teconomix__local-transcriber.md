@@ -1,6 +1,6 @@
 # teconomix/local-transcriber
 
-⭐ 12 · Swift · MIT · 推送 2026-11-16 · [GitHub](https://github.com/teconomix/local-transcriber) · [官网](https://transcriber.teconomix.net/en/?k=gh-home) · 个人维护
+⭐ 12 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/teconomix/local-transcriber) · [官网](https://transcriber.teconomix.net/en/?k=gh-home) · 个人维护
 
 **macOS 菜单栏本地转录工具：会议录音转写与说话人识别**
 

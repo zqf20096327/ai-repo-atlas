@@ -1,6 +1,6 @@
 # CanReader/FastNN
 
-⭐ 12 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/CanReader/FastNN) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CanReader/FastNN) · 个人维护
 
 **为 Rust 开发者提供内置 CUDA 加速的神经网络训练库**
 

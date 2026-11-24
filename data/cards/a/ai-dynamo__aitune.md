@@ -1,6 +1,6 @@
 # ai-dynamo/aitune
 
-⭐ 290 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ai-dynamo/aitune) · [官网](https://docs.nvidia.com/aitune) · 组织维护
+⭐ 290 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ai-dynamo/aitune) · [官网](https://docs.nvidia.com/aitune) · 组织维护
 
 **为 PyTorch 模型自动调优推理后端的 NVIDIA GPU 工具包**
 

@@ -1,6 +1,6 @@
 # teerthsharma/Alcyone-W
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/teerthsharma/Alcyone-W) · [官网](https://huggingface.co/teerthsharma/Alcyone-W) · 个人维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/teerthsharma/Alcyone-W) · [官网](https://huggingface.co/teerthsharma/Alcyone-W) · 个人维护
 
 **以拓扑不变量为预测目标的 JEPA，用于质子对撞事例分析**
 

@@ -1,6 +1,6 @@
 # kenzz-devv/open-webui-talora-ai-workspace
 
-⭐ 147 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kenzz-devv/open-webui-talora-ai-workspace) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kenzz-devv/open-webui-talora-ai-workspace) · 个人维护
 
 **面向团队的多模型 AI 工作区：统一管理对话、模型与文档**
 

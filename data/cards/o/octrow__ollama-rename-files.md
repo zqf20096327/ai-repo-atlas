@@ -1,6 +1,6 @@
 # octrow/ollama-rename-files
 
-⭐ 47 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/octrow/ollama-rename-files) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/octrow/ollama-rename-files) · 个人维护
 
 **用本地 Ollama 模型按内容重命名散乱文本文件的 CLI 与桌面工具**
 

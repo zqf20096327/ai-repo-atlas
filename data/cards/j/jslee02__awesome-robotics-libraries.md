@@ -1,6 +1,6 @@
 # jslee02/awesome-robotics-libraries
 
-⭐ 3,117 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/jslee02/awesome-robotics-libraries) · [官网](http://jslee02.github.io/awesome-robotics-libraries/) · 个人维护
+⭐ 3,121 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/jslee02/awesome-robotics-libraries) · [官网](http://jslee02.github.io/awesome-robotics-libraries/) · 个人维护
 
 **机器人学开源库与模拟器策展清单**
 

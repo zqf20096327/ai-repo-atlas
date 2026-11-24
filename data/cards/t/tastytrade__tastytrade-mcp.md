@@ -1,6 +1,6 @@
 # tastytrade/tastytrade-mcp
 
-⭐ 38 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/tastytrade/tastytrade-mcp) · [官网](https://developer.tastytrade.com/) · 组织维护
+⭐ 38 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/tastytrade/tastytrade-mcp) · [官网](https://developer.tastytrade.com/) · 组织维护
 
 **给 LLM agent 接入 tastytrade 券商 API 的 MCP 服务器**
 

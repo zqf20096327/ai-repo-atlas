@@ -1,6 +1,6 @@
 # Encapsul/daedalus
 
-⭐ 28 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Encapsul/daedalus) · [官网](https://encapsul.netlify.app) · 个人维护
+⭐ 28 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Encapsul/daedalus) · [官网](https://encapsul.netlify.app) · 个人维护
 
 **把应用打包成单个自解压 Linux ELF 的跨平台 CLI 工具**
 

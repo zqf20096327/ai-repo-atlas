@@ -1,6 +1,6 @@
 # vahmoh/Veda
 
-⭐ 113 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/vahmoh/Veda) · [官网](https://www.vedaos.org) · 个人维护
+⭐ 114 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/vahmoh/Veda) · [官网](https://www.vedaos.org) · 个人维护
 
 **Rust 编写的桌面操作系统，内置语音 agent 控制**
 

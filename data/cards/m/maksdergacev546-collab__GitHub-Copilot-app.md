@@ -1,6 +1,6 @@
 # maksdergacev546-collab/GitHub-Copilot-app
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/maksdergacev546-collab/GitHub-Copilot-app) · 组织维护
+⭐ 40 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/maksdergacev546-collab/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 GitHub Copilot agent 桌面端工作管理应用**
 

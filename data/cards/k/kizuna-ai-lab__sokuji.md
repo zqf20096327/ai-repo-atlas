@@ -1,6 +1,6 @@
 # kizuna-ai-lab/sokuji
 
-⭐ 1,512 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/kizuna-ai-lab/sokuji) · [官网](https://sokuji.kizuna.ai) · 组织维护
+⭐ 1,515 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/kizuna-ai-lab/sokuji) · [官网](https://sokuji.kizuna.ai) · 组织维护
 
 **为双语会议提供实时双向语音翻译的桌面与浏览器应用**
 

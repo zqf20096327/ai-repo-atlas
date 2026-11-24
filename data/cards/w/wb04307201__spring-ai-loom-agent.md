@@ -1,6 +1,6 @@
 # wb04307201/spring-ai-loom-agent
 
-⭐ 311 · Java · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/wb04307201/spring-ai-loom-agent) · 个人维护 · 中文 README
+⭐ 311 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wb04307201/spring-ai-loom-agent) · 个人维护 · 中文 README
 
 **为 Spring Boot 应用提供开箱即用对话/记忆/工具调用能力的 AI Agent 框架**
 

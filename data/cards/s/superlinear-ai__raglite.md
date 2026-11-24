@@ -1,6 +1,6 @@
 # superlinear-ai/raglite
 
-⭐ 1,215 · Python · MPL-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/superlinear-ai/raglite) · 组织维护
+⭐ 1,214 · Python · MPL-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/superlinear-ai/raglite) · 组织维护
 
 **Python RAG 工具包：DuckDB/PostgreSQL 上的检索增强生成**
 

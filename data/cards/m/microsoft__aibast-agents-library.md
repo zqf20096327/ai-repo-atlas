@@ -1,6 +1,6 @@
 # microsoft/aibast-agents-library
 
-⭐ 10 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/aibast-agents-library) · 组织维护
+⭐ 10 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/aibast-agents-library) · 组织维护
 
 **给学习者的 Agent 模式学习与原型验证工具库**
 

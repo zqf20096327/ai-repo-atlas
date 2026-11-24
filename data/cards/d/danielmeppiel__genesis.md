@@ -1,6 +1,6 @@
 # danielmeppiel/genesis
 
-⭐ 83 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/danielmeppiel/genesis) · [官网](https://danielmeppiel.github.io/genesis/) · 个人维护
+⭐ 85 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/danielmeppiel/genesis) · [官网](https://danielmeppiel.github.io/genesis/) · 个人维护
 
 **面向 AI 编码 agent 的架构设计技能：命名模式与契约的知识库**
 

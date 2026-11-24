@@ -1,6 +1,6 @@
 # opsmill/infrahub-mcp
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/opsmill/infrahub-mcp) · [官网](https://docs.infrahub.app) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/opsmill/infrahub-mcp) · [官网](https://docs.infrahub.app) · 组织维护
 
 **把 AI 助手/Agent 接入 Infrahub 管理基础设施数据的 MCP 服务器**
 

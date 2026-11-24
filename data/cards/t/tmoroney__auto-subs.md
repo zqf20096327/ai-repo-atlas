@@ -1,6 +1,6 @@
 # tmoroney/auto-subs
 
-⭐ 4,602 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/tmoroney/auto-subs) · [官网](https://tom-moroney.com/auto-subs/) · 个人维护
+⭐ 4,608 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tmoroney/auto-subs) · [官网](https://tom-moroney.com/auto-subs/) · 个人维护
 
 **本地离线语音转字幕工具，对接 Resolve/Premiere/AE**
 

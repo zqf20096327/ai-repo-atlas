@@ -1,10 +1,10 @@
 # apache/airflow
 
-⭐ 47,600 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/apache/airflow) · [官网](https://airflow.apache.org/) · 组织维护
+⭐ 47,633 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/apache/airflow) · [官网](https://airflow.apache.org/) · 组织维护
 
-**给数据/ML 团队编排调度监控工作流的平台**
+**以代码定义、调度并监控工作流的数据编排平台**
 
-以代码方式（Dag）定义、调度并监控工作流的平台：调度器按依赖关系在 worker 上执行任务，提供命令行工具与 Web UI（Dags/Assets/Grid/Graph/Backfill 等视图）。核心面向静态、缓慢变化的工作流，任务要求幂等、不传递大数据量。README 说明其广泛用于编排机器学习工作流（训练、再训练、评估、部署）及 agentic/LLM 工作负载，但自身不做 agent。仅支持 POSIX 系统，Windows 需 WSL2 或容器；生产环境仅支持 Linux 发行版。
+Apache Airflow 是以代码（Dag）形式编写、调度和监控工作流的平台：调度器按依赖关系在 worker 上执行任务，提供命令行工具与用户界面（Dags/Assets/Grid/Graph/Backfill 等）用于可视化运行、监控与排查。设计上要求任务幂等、任务间不传递大数据量，不适合流式处理，适合静态、缓慢变化的工作流；通过 provider 发行版扩展对接外部服务。安装以 PyPI 配合约束文件为主，Windows 仅经 WSL2 或容器运行。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 以代码定义 Dag，支持动态生成与参数化，Jinja 模板可扩展
-- 调度器按依赖在多 worker 上执行任务，附 CLI 与多视图 Web UI
-- provider 包独立 SemVer，可单独安装（如 postgres、google extras）
-- README 明确支持编排 ML 训练/再训练/评估/部署与 LLM 工作负载
+- 以代码定义 Dag，调度器按依赖在 worker 数组上执行任务
+- Rich UI 提供运行可视化、进度监控与问题排查
+- PyPI 发布并以逐版本约束文件保证可重复安装
+- 通过 provider 发行版扩展（postgres、google 等 extras）
 
 ## 适用场景
 
-- 搭建定时 ETL/ELT 数据管道并监控运行状态
-- 编排机器学习的训练、再训练与部署流程
-- 以批处理方式从数据流拉取数据做近实时处理
+- 编排 ETL/ELT 数据管道并监控生产运行
+- 调度机器学习训练、再训练、评估与部署流程
+- 以批量方式从流中拉取数据做实时数据处理
 
 ## 场景标签
 
@@ -44,8 +44,8 @@
 ## 证据(README 行号)
 
 > L21: Apache Airflow (or simply Airflow) is a platform to programmatically author, schedule, and monitor workflows.
+> L25: Use Airflow to author workflows (Dags) that orchestrate tasks. The Airflow scheduler executes your tasks on an arra
 > L35: Beyond traditional data pipelines, Airflow is widely used to orchestrate machine learning workflows — training, ret
-> L37: Airflow is commonly used to process data, but has the opinion that tasks should ideally be idempotent (i.e., result
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2bc0c5a29b19` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `b101f206214c` · [字段定义](../../DATASET.md)*

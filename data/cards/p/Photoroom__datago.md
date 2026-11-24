@@ -1,6 +1,6 @@
 # Photoroom/datago
 
-⭐ 128 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Photoroom/datago) · 组织维护
+⭐ 128 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Photoroom/datago) · 组织维护
 
 **面向图像 ML 的 Rust 并行数据加载器，Python 模块形式**
 

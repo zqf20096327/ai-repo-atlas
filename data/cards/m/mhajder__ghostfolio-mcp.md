@@ -1,6 +1,6 @@
 # mhajder/ghostfolio-mcp
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/mhajder/ghostfolio-mcp) · [官网](https://pypi.org/project/ghostfolio-mcp/) · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mhajder/ghostfolio-mcp) · [官网](https://pypi.org/project/ghostfolio-mcp/) · 个人维护
 
 **让 AI agent 查询与管理 Ghostfolio 投资组合的 MCP 服务器**
 

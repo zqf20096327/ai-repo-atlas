@@ -1,6 +1,6 @@
 # nasa-jpl/rosa
 
-⭐ 1,694 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/nasa-jpl/rosa) · [官网](https://github.com/nasa-jpl/rosa/wiki) · 组织维护
+⭐ 1,695 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/nasa-jpl/rosa) · [官网](https://github.com/nasa-jpl/rosa/wiki) · 组织维护
 
 **用自然语言查询与操控 ROS1/ROS2 机器人系统的 AI Agent**
 

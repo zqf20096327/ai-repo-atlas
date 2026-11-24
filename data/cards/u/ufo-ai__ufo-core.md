@@ -1,6 +1,6 @@
 # ufo-ai/ufo-core
 
-⭐ 102 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ufo-ai/ufo-core) · [官网](https://ufo.ai) · 组织维护
+⭐ 102 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ufo-ai/ufo-core) · [官网](https://ufo.ai) · 组织维护
 
 **面向团队自托管的 AI agent 运行时与终端客户端**
 

@@ -1,6 +1,6 @@
 # openeverest/openeverest.github.io
 
-⭐ 11 · HTML · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openeverest/openeverest.github.io) · [官网](https://openeverest.io/) · 组织维护
+⭐ 11 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openeverest/openeverest.github.io) · [官网](https://openeverest.io/) · 组织维护
 
 **OpenEverest 项目官方网站（Hugo 静态站点）源码仓库**
 

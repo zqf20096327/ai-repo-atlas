@@ -1,6 +1,6 @@
 # metatensor/metatrain
 
-⭐ 85 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/metatensor/metatrain) · [官网](http://docs.metatensor.org/metatrain/) · 组织维护
+⭐ 85 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/metatensor/metatrain) · [官网](http://docs.metatensor.org/metatrain/) · 组织维护
 
 **原子体系机器学习势模型的统一训练与评估 CLI**
 

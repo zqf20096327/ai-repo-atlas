@@ -1,6 +1,6 @@
 # liyupi/yu-ai-learn
 
-⭐ 152 · Python · MIT · 推送 2026-08-11 · [GitHub](https://github.com/liyupi/yu-ai-learn) · [官网](https://www.codefather.cn/course/2037104890135748610) · 个人维护 · 中文 README
+⭐ 152 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/liyupi/yu-ai-learn) · [官网](https://www.codefather.cn/course/2037104890135748610) · 个人维护 · 中文 README
 
 **AI 闯关学习微信小程序教学项目：一句话出题、闯关答题与复盘**
 

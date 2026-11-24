@@ -1,6 +1,6 @@
 # TylerYep/wolfbot
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TylerYep/wolfbot) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TylerYep/wolfbot) · 个人维护
 
 **一晚终极狼人杀桌游的 AI 玩家实现与模拟器**
 

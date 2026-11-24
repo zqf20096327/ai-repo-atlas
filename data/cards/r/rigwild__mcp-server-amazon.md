@@ -1,6 +1,6 @@
 # rigwild/mcp-server-amazon
 
-⭐ 63 · TypeScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/rigwild/mcp-server-amazon) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/rigwild/mcp-server-amazon) · 个人维护
 
 **非官方 Amazon MCP 服务器：在 Claude 中搜索购买商品**
 

@@ -1,6 +1,6 @@
 # xm6661885/next-agent
 
-⭐ 3 · TypeScript · 推送 2026-11-06 · [GitHub](https://github.com/xm6661885/next-agent) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管 Claude Code 持久化 Agent 的 Web 控制台与 PWA**
 

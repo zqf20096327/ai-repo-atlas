@@ -1,6 +1,6 @@
 # Nefelibatic/dsh-armor-supreme
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nefelibatic/dsh-armor-supreme) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nefelibatic/dsh-armor-supreme) · 个人维护 · 中文 README
 
 **DSH agent 的破甲预设插件：红队测试用的分层提示词装配**
 

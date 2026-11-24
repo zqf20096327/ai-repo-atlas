@@ -1,6 +1,6 @@
 # andreapollastri/larapilot
 
-⭐ 24 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/andreapollastri/larapilot) · 个人维护
+⭐ 25 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/andreapollastri/larapilot) · 个人维护
 
 **Laravel 的 spec 驱动工作流：让 AI 编辑器按流程交付已评审代码**
 

@@ -1,6 +1,6 @@
 # Vasyanator/ManhwaStudio
 
-⭐ 13 · Rust · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/Vasyanator/ManhwaStudio) · 个人维护 · 中文 README
+⭐ 14 · Rust · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/Vasyanator/ManhwaStudio) · 个人维护 · 中文 README
 
 **面向人工翻译流程的漫画/webtoon 一体化翻译排版桌面程序**
 

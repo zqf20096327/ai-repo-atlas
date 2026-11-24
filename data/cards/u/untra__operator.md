@@ -1,6 +1,6 @@
 # untra/operator
 
-⭐ 43 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/untra/operator) · [官网](http://operator.untra.io/) · 个人维护
+⭐ 43 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/untra/operator) · [官网](http://operator.untra.io/) · 个人维护
 
 **管理多 AI 编码 agent 的看板式编排 TUI 工具**
 

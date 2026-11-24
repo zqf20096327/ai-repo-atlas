@@ -1,6 +1,6 @@
 # hadoooooouken/Wynpix
 
-⭐ 14 · C++ · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/hadoooooouken/Wynpix) · [官网](https://github.com/hadoooooouken/wynpix/releases/latest) · 个人维护 · 中文 README
+⭐ 14 · C++ · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hadoooooouken/Wynpix) · [官网](https://github.com/hadoooooouken/wynpix/releases/latest) · 个人维护 · 中文 README
 
 **Windows 用户的快速 GPU 加速图片查看器，含实时 AI 放大**
 

@@ -1,6 +1,6 @@
 # steipete/CodexBar
 
-⭐ 23,280 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
+⭐ 23,302 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/steipete/CodexBar) · [官网](https://codex.bar) · 个人维护
 
 **在菜单栏显示各 AI 编程服务商用量与重置时间的工具**
 

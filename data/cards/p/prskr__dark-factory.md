@@ -1,6 +1,6 @@
 # prskr/dark-factory
 
-⭐ 9 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/prskr/dark-factory) · [官网](http://www.dark-factory.eu/) · 个人维护
+⭐ 9 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/prskr/dark-factory) · [官网](http://www.dark-factory.eu/) · 个人维护
 
 **Kubernetes 原生控制平面：在自有集群运行 AI 编码 agent**
 

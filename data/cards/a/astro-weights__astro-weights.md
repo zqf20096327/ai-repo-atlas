@@ -1,6 +1,6 @@
 # astro-weights/astro-weights
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/astro-weights/astro-weights) · [官网](https://astro-weights.dev) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/astro-weights/astro-weights) · [官网](https://astro-weights.dev) · 个人维护
 
 **对开源 LLM 权重做小型低秩编辑的工具库**
 

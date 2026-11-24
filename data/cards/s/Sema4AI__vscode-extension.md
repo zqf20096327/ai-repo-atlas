@@ -1,6 +1,6 @@
 # Sema4AI/vscode-extension
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Sema4AI/vscode-extension) · [官网](https://sema4.ai/docs/platform/vs-code) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sema4AI/vscode-extension) · [官网](https://sema4.ai/docs/platform/vs-code) · 组织维护
 
 **为开发者在 VS Code 中开发 Python 自动化 Action 的扩展**
 

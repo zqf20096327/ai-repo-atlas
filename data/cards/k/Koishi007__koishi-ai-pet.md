@@ -1,6 +1,6 @@
 # Koishi007/koishi-ai-pet
 
-⭐ 31 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Koishi007/koishi-ai-pet) · 个人维护 · 中文 README
+⭐ 31 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Koishi007/koishi-ai-pet) · 个人维护 · 中文 README
 
 **东方Project古明地恋形象的桌面 AI 虚拟宠物，能感知屏幕并对话**
 

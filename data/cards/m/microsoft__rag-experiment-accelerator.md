@@ -1,6 +1,6 @@
 # microsoft/rag-experiment-accelerator
 
-⭐ 320 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/rag-experiment-accelerator) · [官网](https://github.com/microsoft/rag-experiment-accelerator) · 组织维护
+⭐ 320 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/rag-experiment-accelerator) · [官网](https://github.com/microsoft/rag-experiment-accelerator) · 组织维护
 
 **加速基于 Azure AI Search 与 RAG 模式的实验与评测工具**
 

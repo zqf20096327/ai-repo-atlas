@@ -1,6 +1,6 @@
 # Wintersta7e/AiGameCompanion
 
-⭐ 10 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Wintersta7e/AiGameCompanion) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Wintersta7e/AiGameCompanion) · 个人维护
 
 **游戏内悬浮 AI 问答窗：边玩边向 Gemini/Claude/OpenAI 提问**
 

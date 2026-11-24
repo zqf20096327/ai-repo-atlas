@@ -1,6 +1,6 @@
 # boquila/montgomery
 
-⭐ 15 · Rust · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/boquila/montgomery) · [官网](boquila.org/montgomery-lib) · 组织维护
+⭐ 16 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/boquila/montgomery) · [官网](boquila.org/montgomery-lib) · 组织维护
 
 **Rust 计算机视觉推理与训练栈，CPU/GPU 运行**
 

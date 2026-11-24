@@ -1,6 +1,6 @@
 # netresearch/retro-skill
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/netresearch/retro-skill) · [官网](https://github.com/netresearch/retro-skill) · 组织维护
+⭐ 31 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/netresearch/retro-skill) · [官网](https://github.com/netresearch/retro-skill) · 组织维护
 
 **Claude Code 会话复盘插件：检测摩擦并把经验写入正确去处**
 

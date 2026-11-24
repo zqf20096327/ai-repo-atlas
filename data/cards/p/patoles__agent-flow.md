@@ -1,6 +1,6 @@
 # patoles/agent-flow
 
-⭐ 1,806 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/patoles/agent-flow) · [官网](https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow) · 个人维护
+⭐ 1,812 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/patoles/agent-flow) · [官网](https://marketplace.visualstudio.com/items?itemName=simon-p.agent-flow) · 个人维护
 
 **可视化 Claude Code/Codex agent 执行过程的调试工具**
 

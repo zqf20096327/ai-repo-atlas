@@ -1,6 +1,6 @@
 # sandraschi/advanced-memory-mcp
 
-⭐ 21 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sandraschi/advanced-memory-mcp) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sandraschi/advanced-memory-mcp) · 个人维护 · 中文 README
 
 **给 MCP 助手提供持久记忆的知识管理服务器**
 

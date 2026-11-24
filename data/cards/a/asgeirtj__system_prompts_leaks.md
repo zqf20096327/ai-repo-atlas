@@ -1,10 +1,10 @@
 # asgeirtj/system_prompts_leaks
 
-⭐ 72,411 · Python · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/asgeirtj/system_prompts_leaks) · 个人维护
+⭐ 72,515 · Python · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/asgeirtj/system_prompts_leaks) · 个人维护
 
-**主流聊天机器人泄露系统提示词的汇总存档**
+**主流 AI 聊天机器人泄露系统提示词的汇编清单**
 
-收录 ChatGPT、Claude、Gemini、Grok 等 30+ 产品的泄露系统提示词全文，按厂商与产品分节组织成表格，含模型版本、工具提示词、技能定义等条目，并记录每日更新日志与历史版本。README 未提供安装或运行方式，纯静态清单；内容来自泄露渠道，README 邀请用户提交 PR 补充不同抓取结果。被华盛顿邮报、CEPS、Simon Willison 等引用为来源。
+收集 ChatGPT、Claude、Gemini、Grok 等主流聊天机器人及其周边产品（Claude Code、Codex、Cursor、Copilot 等 30+）的泄露系统提示词，按厂商与产品分节组织，多数产品含多版本历史提示词，每日更新并设有最近变更表。为提示词研究者与 AI 从业者提供原始文本索引，以纯文本/表格清单形式维护，接受社区 PR 补充。
 
 ## 筛选速览
 
@@ -26,15 +26,16 @@
 
 ## 能力要点
 
-- 按厂商/产品/版本组织的系统提示词全文表格
-- 覆盖 30+ 产品，每日更新并列出最近变更
-- 含 Claude Code、Codex、Gemini CLI 等编码工具的提示词
+- 覆盖 30+ 产品（Claude Code、Codex、Cursor、Copilot 等）的泄露系统提示词
+- 多数模型保留 2025 年 5 月以来各历史版本的提示词
+- 按厂商分节组织，含最近变更日期表
+- 每日更新，接受社区 PR 提交
 
 ## 适用场景
 
-- 查看某版本模型官方系统提示词的原文内容
-- 研究各厂商提示词写法与工具定义结构
-- 追踪提示词随版本的变更记录
+- 查看某款聊天机器人的系统提示词原文
+- 对比同一模型不同版本的系统提示词变化
+- 研究 AI 产品的行为规则与工具定义方式
 
 ## 场景标签
 
@@ -42,7 +43,6 @@
 
 ## 证据(README 行号)
 
-> L1: # System Prompts Leaks
 > L3: Leaked system prompts of ChatGPT, Claude, Gemini and more. The hidden system prompt of every popular chatbot, in ful
 > L38: ## Anthropic — Claude
 
@@ -60,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `73cf986d03c1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c534d92f1d70` · [字段定义](../../DATASET.md)*

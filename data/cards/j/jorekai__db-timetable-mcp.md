@@ -1,6 +1,6 @@
 # jorekai/db-timetable-mcp
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jorekai/db-timetable-mcp) · [官网](https://db-timetable-mcp-web.vercel.app/de) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jorekai/db-timetable-mcp) · [官网](https://db-timetable-mcp-web.vercel.app/de) · 个人维护
 
 **接入德铁时刻表 API 的 MCP 服务器，供 LLM 查询车站班次**
 

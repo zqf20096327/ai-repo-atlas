@@ -1,6 +1,6 @@
 # paperswithbacktest/pwb-toolbox
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/paperswithbacktest/pwb-toolbox) · [官网](https://paperswithbacktest.com/) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/paperswithbacktest/pwb-toolbox) · [官网](https://paperswithbacktest.com/) · 组织维护
 
 **为量化交易开发者提供数据集与策略回测/实盘工具的 Python 库**
 

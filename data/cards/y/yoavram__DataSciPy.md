@@ -1,6 +1,6 @@
 # yoavram/DataSciPy
 
-⭐ 26 · Jupyter Notebook · 推送 2026-09-30 · [GitHub](https://github.com/yoavram/DataSciPy) · 个人维护
+⭐ 26 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/yoavram/DataSciPy) · 个人维护
 
 **Python 深度学习研讨会材料：Jupyter 讲义与环境配置**
 

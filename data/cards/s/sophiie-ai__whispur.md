@@ -1,6 +1,6 @@
 # sophiie-ai/whispur
 
-⭐ 10 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sophiie-ai/whispur) · [官网](https://whispur.app) · 组织维护
+⭐ 10 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/sophiie-ai/whispur) · [官网](https://whispur.app) · 组织维护
 
 **macOS 菜单栏语音输入应用：按住快捷键说话即转写粘贴**
 

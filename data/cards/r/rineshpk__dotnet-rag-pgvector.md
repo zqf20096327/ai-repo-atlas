@@ -1,6 +1,6 @@
 # rineshpk/dotnet-rag-pgvector
 
-⭐ 25 · C# · MIT · 推送 2026-03-22 · [GitHub](https://github.com/rineshpk/dotnet-rag-pgvector) · 个人维护
+⭐ 26 · C# · MIT · 推送 2026-03-22 · [GitHub](https://github.com/rineshpk/dotnet-rag-pgvector) · 个人维护
 
 **.NET RAG 语义搜索参考实现：pgvector+Aspire+可插拔 LLM**
 

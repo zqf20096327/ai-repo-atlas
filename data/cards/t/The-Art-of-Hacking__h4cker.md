@@ -1,6 +1,6 @@
 # The-Art-of-Hacking/h4cker
 
-⭐ 30,323 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/The-Art-of-Hacking/h4cker) · [官网](https://hackerrepo.org) · 个人维护
+⭐ 30,346 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/The-Art-of-Hacking/h4cker) · [官网](https://hackerrepo.org) · 个人维护
 
 **面向安全从业者的网络安全资源聚合清单（含 AI 安全）**
 

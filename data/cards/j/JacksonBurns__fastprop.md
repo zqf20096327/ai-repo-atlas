@@ -1,6 +1,6 @@
 # JacksonBurns/fastprop
 
-⭐ 61 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/JacksonBurns/fastprop) · [官网](https://jacksonburns.github.io/fastprop/) · 个人维护
+⭐ 62 · Python · MIT · 推送 2025-12-12 · [GitHub](https://github.com/JacksonBurns/fastprop) · [官网](https://jacksonburns.github.io/fastprop/) · 个人维护
 
 **给化学研究者的分子性质预测库：SMILES 输入，FNN 训练**
 

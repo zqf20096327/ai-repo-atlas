@@ -1,6 +1,6 @@
 # microsoft/intelligent-terminal
 
-⭐ 2,264 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/intelligent-terminal) · [官网](https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/) · 组织维护
+⭐ 2,269 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/intelligent-terminal) · [官网](https://devblogs.microsoft.com/commandline/announcing-intelligent-terminal-version-0-1/) · 组织维护
 
 **带原生 Agent 集成的 Windows Terminal 实验性分支**
 

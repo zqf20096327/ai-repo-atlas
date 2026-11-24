@@ -1,6 +1,6 @@
 # kagura-ai/memory-cloud
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kagura-ai/memory-cloud) · [官网](https://www.kagura-ai.com) · 组织维护 · 中文 README
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kagura-ai/memory-cloud) · [官网](https://www.kagura-ai.com) · 组织维护 · 中文 README
 
 **面向 AI agent 与团队的自托管自适应记忆 MCP 服务器**
 

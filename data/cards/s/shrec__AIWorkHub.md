@@ -1,6 +1,6 @@
 # shrec/AIWorkHub
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shrec/AIWorkHub) · [官网](https://shrec.github.io/AIWorkHub/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/shrec/AIWorkHub) · [官网](https://shrec.github.io/AIWorkHub/) · 组织维护
 
 **本地优先的多模型 AI 编码 agent 控制平面（VS Code/MCP）**
 

@@ -1,6 +1,6 @@
 # hookprobe/hookprobe
 
-⭐ 54 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/hookprobe/hookprobe) · [官网](https://hookprobe.com) · 组织维护
+⭐ 54 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/hookprobe/hookprobe) · [官网](https://hookprobe.com) · 组织维护
 
 **运行在廉价硬件上的去中心化 AI 入侵检测/防御网格**
 

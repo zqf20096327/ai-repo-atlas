@@ -1,6 +1,6 @@
 # Gildaciolopes/agentic-dev-stack
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Gildaciolopes/agentic-dev-stack) · [官网](https://github.com/Gildaciolopes/agentic-dev-stack/blob/main/docs/00-smart-vibe-coding.md) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Gildaciolopes/agentic-dev-stack) · [官网](https://github.com/Gildaciolopes/agentic-dev-stack/blob/main/docs/00-smart-vibe-coding.md) · 个人维护
 
 **为 Claude Code 用户提供多模型编排与省 token 的开发栈**
 

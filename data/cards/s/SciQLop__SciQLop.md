@@ -1,6 +1,6 @@
 # SciQLop/SciQLop
 
-⭐ 29 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/SciQLop/SciQLop) · [官网](https://sciqlop.github.io/) · 组织维护
+⭐ 29 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SciQLop/SciQLop) · [官网](https://sciqlop.github.io/) · 组织维护
 
 **给空间物理研究者的原位等离子体卫星数据浏览、标注与分析 IDE**
 

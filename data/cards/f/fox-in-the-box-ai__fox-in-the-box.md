@@ -1,6 +1,6 @@
 # fox-in-the-box-ai/fox-in-the-box
 
-⭐ 88 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fox-in-the-box-ai/fox-in-the-box) · [官网](https://foxinthebox.io) · 组织维护
+⭐ 88 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fox-in-the-box-ai/fox-in-the-box) · [官网](https://foxinthebox.io) · 组织维护
 
 **自托管的私有 AI 助手桌面应用：聊天+记忆+远程访问一键安装**
 

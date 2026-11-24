@@ -1,6 +1,6 @@
 # vllm-project/ci-infra
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vllm-project/ci-infra) · 组织维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/vllm-project/ci-infra) · 组织维护
 
 **vLLM 项目的 CI 与性能基准基础设施代码仓库**
 

@@ -1,6 +1,6 @@
 # minorcell/minorcell
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/minorcell/minorcell) · [官网](https://minorcell.top/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/minorcell/minorcell) · [官网](https://minorcell.top/) · 个人维护
 
 **minorcell 的个人网站与博客：记录构建与学习**
 

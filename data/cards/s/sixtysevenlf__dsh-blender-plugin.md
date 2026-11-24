@@ -1,6 +1,6 @@
 # sixtysevenlf/dsh-blender-plugin
 
-⭐ 2,239 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/sixtysevenlf/dsh-blender-plugin) · 个人维护 · 中文 README
+⭐ 2,257 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/sixtysevenlf/dsh-blender-plugin) · 个人维护 · 中文 README
 
 **让 DSH agent 在真实 Blender 会话中建模的工具插件**
 

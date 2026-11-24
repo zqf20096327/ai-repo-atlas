@@ -1,6 +1,6 @@
 # kruschdev/krusch-context-mcp
 
-⭐ 83 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kruschdev/krusch-context-mcp) · [官网](https://krusch.dev) · 个人维护
+⭐ 83 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kruschdev/krusch-context-mcp) · [官网](https://krusch.dev) · 个人维护
 
 **给 AI 编码代理的持久化项目记忆 MCP 服务器**
 

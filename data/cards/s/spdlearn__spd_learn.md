@@ -1,6 +1,6 @@
 # spdlearn/spd_learn
 
-⭐ 42 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/spdlearn/spd_learn) · [官网](http://spdlearn.org/) · 组织维护
+⭐ 42 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/spdlearn/spd_learn) · [官网](http://spdlearn.org/) · 组织维护
 
 **面向 BCI/EEG 神经解码的 SPD 矩阵几何深度学习 PyTorch 库**
 

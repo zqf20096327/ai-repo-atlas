@@ -1,6 +1,6 @@
 # newrelic-experimental/preflight
 
-⭐ 67 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/newrelic-experimental/preflight) · [官网](https://newrelic-experimental.github.io/preflight/) · 组织维护
+⭐ 67 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/newrelic-experimental/preflight) · [官网](https://newrelic-experimental.github.io/preflight/) · 组织维护
 
 **AI 编程助手的可观测性工具：成本追踪与效率评分**
 

@@ -1,6 +1,6 @@
 # dante-compass/dante-engine
 
-⭐ 22 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dante-compass/dante-engine) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
+⭐ 22 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dante-compass/dante-engine) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
 
 **Dante Cloud 微服务体系的核心 Java 组件库，含 AI Agent 基座组件**
 

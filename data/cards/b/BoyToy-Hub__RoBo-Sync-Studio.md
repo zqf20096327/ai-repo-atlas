@@ -1,6 +1,6 @@
 # BoyToy-Hub/RoBo-Sync-Studio
 
-⭐ 74 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/BoyToy-Hub/RoBo-Sync-Studio) · 组织维护
+⭐ 74 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/BoyToy-Hub/RoBo-Sync-Studio) · 组织维护
 
 **Roblox Studio 实时同步 AI 助手插件，辅助 Luau 脚本开发**
 

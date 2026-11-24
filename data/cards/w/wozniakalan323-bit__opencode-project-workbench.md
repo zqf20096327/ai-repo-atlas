@@ -1,6 +1,6 @@
 # wozniakalan323-bit/opencode-project-workbench
 
-⭐ 148 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/wozniakalan323-bit/opencode-project-workbench) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 OpenCode 项目管理工作区生命周期的 Windows 命令行工具**
 

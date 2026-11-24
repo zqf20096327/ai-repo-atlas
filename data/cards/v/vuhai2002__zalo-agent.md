@@ -1,6 +1,6 @@
 # vuhai2002/zalo-agent
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/vuhai2002/zalo-agent) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vuhai2002/zalo-agent) · 个人维护
 
 **自托管的 Zalo 聊天 AI agent，多账号、15 工具、Web 仪表盘**
 

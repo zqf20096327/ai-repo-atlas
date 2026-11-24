@@ -1,6 +1,6 @@
 # intel/gpu-ai-skills
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/intel/gpu-ai-skills) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/intel/gpu-ai-skills) · 组织维护
 
 **Intel GPU 上运行/评测/剖析 HF 模型的 Agent Skills 集合**
 

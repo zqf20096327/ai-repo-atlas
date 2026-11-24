@@ -1,6 +1,6 @@
 # benmaster82/Pithos
 
-⭐ 46 · C · MIT · 推送 2026-11-22 · [GitHub](https://github.com/benmaster82/Pithos) · [官网](https://benmaster82.github.io/Pithos/) · 个人维护
+⭐ 48 · C · MIT · 推送 2026-11-22 · [GitHub](https://github.com/benmaster82/Pithos) · [官网](https://benmaster82.github.io/Pithos/) · 个人维护
 
 **无依赖 C11 本地推理引擎，运行 Liquid AI LFM 系列模型**
 

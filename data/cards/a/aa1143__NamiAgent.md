@@ -1,6 +1,6 @@
 # aa1143/NamiAgent
 
-⭐ 592 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aa1143/NamiAgent) · [官网](https://namiai.tech/agent/) · 个人维护 · 中文 README
+⭐ 603 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aa1143/NamiAgent) · [官网](https://namiai.tech/agent/) · 个人维护 · 中文 README
 
 **零基础 AI Agent 教程：11 课可运行代码 + 本地网页端可视化**
 

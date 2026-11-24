@@ -1,6 +1,6 @@
 # khromov/svelte-bench
 
-⭐ 189 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/khromov/svelte-bench) · [官网](https://khromov.github.io/svelte-bench/benchmark-results-merged.html) · 个人维护
+⭐ 190 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/khromov/svelte-bench) · [官网](https://khromov.github.io/svelte-bench/benchmark-results-merged.html) · 个人维护
 
 **评测 LLM 生成 Svelte 5 组件能力的基准（pass@k）**
 

@@ -1,6 +1,6 @@
 # ThegeekyAbhi/claudex
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ThegeekyAbhi/claudex) · [官网](https://www.claudex.live/) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThegeekyAbhi/claudex) · [官网](https://www.claudex.live/) · 个人维护
 
 **在 VS Code 中同时使用 Claude Code 与 Codex 的工作区扩展**
 

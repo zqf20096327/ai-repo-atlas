@@ -1,6 +1,6 @@
 # AlexandrNemashkalo/navi-dnd
 
-⭐ 6 · HTML · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/AlexandrNemashkalo/navi-dnd) · [官网](https://gitlab.com/navitalevich/navi-dnd/-/releases) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **以 Claude/Codex 为 AI 主持人的 D&D 5e 桌面角色扮演游戏**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

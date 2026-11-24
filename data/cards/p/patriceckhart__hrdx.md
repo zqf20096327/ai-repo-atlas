@@ -1,6 +1,6 @@
 # patriceckhart/hrdx
 
-⭐ 50 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/patriceckhart/hrdx) · [官网](https://hrdx.dev) · 个人维护
+⭐ 51 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/patriceckhart/hrdx) · [官网](https://hrdx.dev) · 个人维护
 
 **在单个终端中并行运行多个编码 agent 的轻量终端复用器**
 

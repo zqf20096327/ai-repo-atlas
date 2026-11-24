@@ -1,6 +1,6 @@
 # veryfront/veryfront-code
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/veryfront/veryfront-code) · [官网](https://veryfront.com/docs/code) · 组织维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/veryfront/veryfront-code) · [官网](https://veryfront.com/docs/code) · 组织维护
 
 **TypeScript/React 全栈框架：单项目构建 AI 应用与 Agent**
 

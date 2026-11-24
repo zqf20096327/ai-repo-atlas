@@ -1,6 +1,6 @@
 # open-data-science/pycourse
 
-⭐ 40 · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/open-data-science/pycourse) · [官网](https://open-data-science.github.io/pycourse/) · 组织维护
+⭐ 40 · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/open-data-science/pycourse) · [官网](https://open-data-science.github.io/pycourse/) · 组织维护
 
 **ODS 社区的 Python 入门课程（俄语）**
 

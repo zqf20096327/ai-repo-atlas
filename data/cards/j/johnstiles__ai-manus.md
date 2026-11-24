@@ -1,6 +1,6 @@
 # johnstiles/ai-manus
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/johnstiles/ai-manus) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 系统**
 
@@ -11,7 +11,7 @@ Manus 定位为自主 AI agent：代表用户编写并执行脚本、打开网�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

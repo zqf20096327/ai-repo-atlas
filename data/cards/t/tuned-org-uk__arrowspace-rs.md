@@ -1,6 +1,6 @@
 # tuned-org-uk/arrowspace-rs
 
-⭐ 43 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/tuned-org-uk/arrowspace-rs) · [官网](https://tuned-org-uk.github.io/) · 个人维护
+⭐ 43 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tuned-org-uk/arrowspace-rs) · [官网](https://tuned-org-uk.github.io/) · 个人维护
 
 **基于谱/色散模型的 Rust 向量分析与搜索库**
 

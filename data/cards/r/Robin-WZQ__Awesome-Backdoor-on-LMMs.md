@@ -1,6 +1,6 @@
 # Robin-WZQ/Awesome-Backdoor-on-LMMs
 
-⭐ 124 · 推送 2026-11-16 · [GitHub](https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs) · [官网](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176618816.64264497/v3) · 个人维护
+⭐ 124 · 推送 2026-11-23 · [GitHub](https://github.com/Robin-WZQ/Awesome-Backdoor-on-LMMs) · [官网](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176618816.64264497/v3) · 个人维护
 
 **多模态模型后门攻防论文策展清单**
 

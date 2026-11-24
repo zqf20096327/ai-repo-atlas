@@ -1,6 +1,6 @@
 # master/tensorflow-riemopt
 
-⭐ 111 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/master/tensorflow-riemopt) · [官网](https://tensorflow-riemopt.readthedocs.io/en/latest/) · 个人维护
+⭐ 111 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/master/tensorflow-riemopt) · [官网](https://tensorflow-riemopt.readthedocs.io/en/latest/) · 个人维护
 
 **面向 TensorFlow 的黎曼流形约束优化库**
 

@@ -1,6 +1,6 @@
 # redis-developer/redis-ai-resources
 
-⭐ 496 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/redis-developer/redis-ai-resources) · 组织维护
+⭐ 496 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/redis-developer/redis-ai-resources) · 组织维护
 
 **Redis 在 AI 生态中的资源策展清单：示例、教程与集成**
 

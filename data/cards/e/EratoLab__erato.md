@@ -1,6 +1,6 @@
 # EratoLab/erato
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/EratoLab/erato) · [官网](https://erato.chat/) · 组织维护
+⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/EratoLab/erato) · [官网](https://erato.chat/) · 组织维护
 
 **开源自托管 AI 聊天平台，面向私有化部署**
 

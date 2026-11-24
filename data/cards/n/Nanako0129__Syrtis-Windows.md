@@ -1,6 +1,6 @@
 # Nanako0129/Syrtis-Windows
 
-⭐ 43 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nanako0129/Syrtis-Windows) · 个人维护 · 中文 README
+⭐ 43 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nanako0129/Syrtis-Windows) · 个人维护 · 中文 README
 
 **Windows 托盘监控器：追踪 AI 编程 agent 的 token 用量、费用与配额**
 

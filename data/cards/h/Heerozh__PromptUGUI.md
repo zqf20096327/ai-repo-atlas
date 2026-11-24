@@ -1,6 +1,6 @@
 # Heerozh/PromptUGUI
 
-⭐ 93 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Heerozh/PromptUGUI) · 个人维护 · 中文 README
+⭐ 93 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Heerozh/PromptUGUI) · 个人维护 · 中文 README
 
 **面向 Code Agent 的 Unity uGUI 框架：用文本描述直接生成界面**
 

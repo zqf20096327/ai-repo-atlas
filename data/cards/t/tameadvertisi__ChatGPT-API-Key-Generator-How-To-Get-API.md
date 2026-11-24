@@ -1,6 +1,6 @@
 # tameadvertisi/ChatGPT-API-Key-Generator-How-To-Get-API
 
-⭐ 10 · 推送 2026-10-12 · [GitHub](https://github.com/tameadvertisi/ChatGPT-API-Key-Generator-How-To-Get-API) · 个人维护
+⭐ 9 · 推送 2026-10-12 · [GitHub](https://github.com/tameadvertisi/ChatGPT-API-Key-Generator-How-To-Get-API) · 个人维护
 
 **声称可生成 DeepSeek API key 的工具**
 

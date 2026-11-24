@@ -1,6 +1,6 @@
 # nachalnikokk/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nachalnikokk/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nachalnikokk/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码与操控浏览器**
 

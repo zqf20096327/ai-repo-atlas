@@ -1,6 +1,6 @@
 # Significant-Gravitas/AutoGPT
 
-⭐ 188,134 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [官网](https://agpt.co) · 组织维护
+⭐ 188,155 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Significant-Gravitas/AutoGPT) · [官网](https://agpt.co) · 组织维护
 
 **给企业和个人的一组可指挥的 AI 专家团队平台**
 

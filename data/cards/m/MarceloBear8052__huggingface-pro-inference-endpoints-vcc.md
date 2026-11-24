@@ -1,6 +1,6 @@
 # MarceloBear8052/huggingface-pro-inference-endpoints-vcc
 
-⭐ 65 · 推送 2026-11-11 · [GitHub](https://github.com/MarceloBear8052/huggingface-pro-inference-endpoints-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 86 · 推送 2026-11-11 · [GitHub](https://github.com/MarceloBear8052/huggingface-pro-inference-endpoints-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **CoreGold 虚拟卡开通 Hugging Face Pro 与推理端点的付费指南**
 

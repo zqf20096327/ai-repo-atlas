@@ -1,6 +1,6 @@
 # Pal-AI-Lab/Cortico
 
-⭐ 379 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Pal-AI-Lab/Cortico) · [官网](https://palailab.org) · 组织维护 · 中文 README
+⭐ 379 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Pal-AI-Lab/Cortico) · [官网](https://palailab.org) · 组织维护 · 中文 README
 
 **事件流驱动的自主 persona bot/agent 框架**
 

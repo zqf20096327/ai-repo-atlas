@@ -1,6 +1,6 @@
 # snimu/rebasin
 
-⭐ 19 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/snimu/rebasin) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/snimu/rebasin) · 个人维护
 
 **将 Git Re-Basin 论文方法应用于任意 PyTorch 模型的库**
 

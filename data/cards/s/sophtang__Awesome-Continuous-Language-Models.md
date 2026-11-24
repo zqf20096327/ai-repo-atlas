@@ -1,6 +1,6 @@
 # sophtang/Awesome-Continuous-Language-Models
 
-⭐ 37 · 推送 2026-11-20 · [GitHub](https://github.com/sophtang/Awesome-Continuous-Language-Models) · [官网](https://continuous-lm.github.io/) · 组织维护
+⭐ 39 · 推送 2026-11-20 · [GitHub](https://github.com/sophtang/Awesome-Continuous-Language-Models) · [官网](https://continuous-lm.github.io/) · 组织维护
 
 **连续扩散与流语言模型论文策展清单（配合综述维护）**
 

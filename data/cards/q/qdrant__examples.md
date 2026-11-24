@@ -1,6 +1,6 @@
 # qdrant/examples
 
-⭐ 232 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/qdrant/examples) · 组织维护
+⭐ 232 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/qdrant/examples) · 组织维护
 
 **Qdrant 向量搜索引擎的示例与教程合集**
 

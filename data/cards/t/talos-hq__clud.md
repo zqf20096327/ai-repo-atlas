@@ -1,6 +1,6 @@
 # talos-hq/clud
 
-⭐ 17 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/talos-hq/clud) · [官网](https://talos-hq.github.io/clud/) · 组织维护
+⭐ 17 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/talos-hq/clud) · [官网](https://talos-hq.github.io/clud/) · 组织维护
 
 **在 Claude Code 终端内运行 Codex/DeepSeek 的 CLI 代理运行器**
 

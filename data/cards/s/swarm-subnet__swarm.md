@@ -1,6 +1,6 @@
 # swarm-subnet/swarm
 
-⭐ 44 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/swarm-subnet/swarm) · [官网](https://swarm124.com/) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/swarm-subnet/swarm) · [官网](https://swarm124.com/) · 组织维护
 
 **开放无人机自主飞行竞技场：训练模型参赛并排名**
 

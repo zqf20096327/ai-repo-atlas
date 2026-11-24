@@ -1,6 +1,6 @@
 # YuChenLiao/dsh-comfyui-workbench
 
-⭐ 39 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YuChenLiao/dsh-comfyui-workbench) · 个人维护 · 中文 README
+⭐ 48 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YuChenLiao/dsh-comfyui-workbench) · 个人维护 · 中文 README
 
 **DSH 插件：让模型调用本机 ComfyUI 工作流并管理生图资产**
 

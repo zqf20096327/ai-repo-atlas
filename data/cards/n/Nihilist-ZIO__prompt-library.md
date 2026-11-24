@@ -1,6 +1,6 @@
 # Nihilist-ZIO/prompt-library
 
-⭐ 147 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Nihilist-ZIO/prompt-library) · 个人维护 · 中文 README
+⭐ 155 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Nihilist-ZIO/prompt-library) · 个人维护 · 中文 README
 
 **AI 图像/视频提示词库：124 条八大类，含索引与入库脚本**
 

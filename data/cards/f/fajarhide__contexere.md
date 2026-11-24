@@ -1,6 +1,6 @@
 # fajarhide/contexere
 
-⭐ 379 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
+⭐ 380 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
 
 **给编程 agent 的上下文/令牌压缩层，降噪减 token 且不丢数据**
 

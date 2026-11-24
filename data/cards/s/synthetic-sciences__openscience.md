@@ -1,6 +1,6 @@
 # synthetic-sciences/openscience
 
-⭐ 4,413 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/synthetic-sciences/openscience) · [官网](https://openscience.sh) · 组织维护
+⭐ 4,423 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/synthetic-sciences/openscience) · [官网](https://openscience.sh) · 组织维护
 
 **科研工作台的 AI 研究 agent：读文献、跑实验、写报告**
 

@@ -1,6 +1,6 @@
 # aicodingstack/aicodingstack.io
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/aicodingstack/aicodingstack.io) · [官网](https://aicodingstack.io) · 组织维护 · 中文 README
+⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aicodingstack/aicodingstack.io) · [官网](https://aicodingstack.io) · 组织维护 · 中文 README
 
 **AI 编码工具目录站：社区维护的元数据仓库与对比平台**
 

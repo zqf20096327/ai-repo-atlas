@@ -1,6 +1,6 @@
 # neuro-inc/apolo-cli
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/neuro-inc/apolo-cli) · [官网](https://docs.apolo.us/index/apolo-cli) · 组织维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/neuro-inc/apolo-cli) · [官网](https://docs.apolo.us/index/apolo-cli) · 组织维护
 
 **Apoolo 平台的 Python SDK 库与命令行客户端**
 

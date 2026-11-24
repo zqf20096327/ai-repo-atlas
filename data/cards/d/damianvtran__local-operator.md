@@ -1,6 +1,6 @@
 # damianvtran/local-operator
 
-⭐ 229 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/damianvtran/local-operator) · [官网](https://local-operator.com) · 个人维护
+⭐ 229 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/damianvtran/local-operator) · [官网](https://local-operator.com) · 个人维护
 
 **本机 AI agent 组织枢纽：多 agent 协作、后台常驻、共用现有订阅**
 

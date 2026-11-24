@@ -1,6 +1,6 @@
 # mxyhi/ok-skills
 
-⭐ 517 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mxyhi/ok-skills) · 个人维护 · 中文 README
+⭐ 518 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mxyhi/ok-skills) · 个人维护 · 中文 README
 
 **面向 Codex/Claude Code 等编码 agent 的技能与 AGENTS.md 剧本策展库**
 

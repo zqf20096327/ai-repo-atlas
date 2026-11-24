@@ -1,6 +1,6 @@
 # fujc683/qwen4-max-pricing
 
-⭐ 12 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/qwen4-max-pricing) · [官网](https://gola.apimart.ai/k-ldlt5A) · 个人维护
+⭐ 19 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/qwen4-max-pricing) · [官网](https://gola.apimart.ai/k-ldlt5A) · 个人维护
 
 **Qwen4 Max 模型按百万 token 的定价与用量成本测算页**
 

@@ -1,6 +1,6 @@
 # zenstory-ai/video-recap-skills
 
-⭐ 649 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zenstory-ai/video-recap-skills) · [官网](https://zenstory.ai/zh/video-recap) · 组织维护 · 中文 README
+⭐ 650 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zenstory-ai/video-recap-skills) · [官网](https://zenstory.ai/zh/video-recap) · 组织维护 · 中文 README
 
 **给编程 Agent 的视频剪辑解说技能包，产出成片与剪映草稿**
 

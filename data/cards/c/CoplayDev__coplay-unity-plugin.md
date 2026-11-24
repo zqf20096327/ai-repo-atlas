@@ -1,6 +1,6 @@
 # CoplayDev/coplay-unity-plugin
 
-⭐ 167 · 推送 2026-09-01 · [GitHub](https://github.com/CoplayDev/coplay-unity-plugin) · [官网](https://www.coplay.dev) · 组织维护
+⭐ 166 · 推送 2026-09-01 · [GitHub](https://github.com/CoplayDev/coplay-unity-plugin) · [官网](https://www.coplay.dev) · 组织维护
 
 **面向 Unity 开发者的自然语言 AI Copilot 插件**
 

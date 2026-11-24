@@ -1,6 +1,6 @@
 # ranajahanzaib/llm-finetuning-and-serving
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/llm-finetuning-and-serving) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/llm-finetuning-and-serving) · 个人维护
 
 **Apple Silicon 上的 LLM 微调、评估与本地服务化工作台**
 

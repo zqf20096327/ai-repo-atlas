@@ -1,6 +1,6 @@
 # Vir-Multiplicis/ai-frameworks
 
-⭐ 31 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Vir-Multiplicis/ai-frameworks) · 个人维护
+⭐ 31 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Vir-Multiplicis/ai-frameworks) · 个人维护
 
 **面向 AI 安全与对齐的推理时提示词框架集合（ELT）**
 

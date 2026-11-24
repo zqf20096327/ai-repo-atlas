@@ -1,6 +1,6 @@
 # yousefebrahimi0/list-ai-extensions-chrome-addons-firefox
 
-⭐ 126 · MIT · 推送 2025-12-25 · [GitHub](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) · 个人维护
+⭐ 126 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/yousefebrahimi0/list-ai-extensions-chrome-addons-firefox) · 个人维护
 
 **60+ AI 浏览器扩展/插件策展清单（Chrome 与 Firefox）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # pnp/sharepoint-skills
 
-⭐ 162 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/pnp/sharepoint-skills) · [官网](https://pnp.github.io/sharepoint-skills/) · 组织维护
+⭐ 165 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/pnp/sharepoint-skills) · [官网](https://pnp.github.io/sharepoint-skills/) · 组织维护
 
 **面向 SharePoint Copilot 的 AI 技能策展库，技能可直接安装**
 

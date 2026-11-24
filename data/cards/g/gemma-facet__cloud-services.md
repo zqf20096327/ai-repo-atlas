@@ -1,6 +1,6 @@
 # gemma-facet/cloud-services
 
-⭐ 16 · Python · MIT · 推送 2025-11-27 · [GitHub](https://github.com/gemma-facet/cloud-services) · [官网](https://facetai.mintlify.app) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向非技术用户的 Gemma 3 微调无代码 Web 平台（GSoC'25）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # KenKaiii/gg-framework
 
-⭐ 310 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/KenKaiii/gg-framework) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 311 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/KenKaiii/gg-framework) · [官网](https://www.kenkais.com) · 个人维护
 
 **桌面 AI 编程与聊天应用，支持多模型接入与视频生成**
 

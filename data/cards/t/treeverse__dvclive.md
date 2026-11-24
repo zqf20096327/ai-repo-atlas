@@ -1,6 +1,6 @@
 # treeverse/dvclive
 
-⭐ 195 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/treeverse/dvclive) · [官网](https://dvc.org/doc/dvclive) · 组织维护
+⭐ 195 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/treeverse/dvclive) · [官网](https://dvc.org/doc/dvclive) · 组织维护
 
 **Python 库：以文件格式记录并跟踪 ML 指标、参数与模型**
 

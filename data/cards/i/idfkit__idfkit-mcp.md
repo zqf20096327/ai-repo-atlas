@@ -1,6 +1,6 @@
 # idfkit/idfkit-mcp
 
-⭐ 14 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/idfkit/idfkit-mcp) · [官网](https://mcp.idfkit.com/) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/idfkit/idfkit-mcp) · [官网](https://mcp.idfkit.com/) · 组织维护
 
 **让 AI 助手直接操作 EnergyPlus 建筑能耗模型的 MCP 服务器**
 

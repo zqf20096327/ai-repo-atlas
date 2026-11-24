@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-python
 
-⭐ 4,097 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-python) · 组织维护
+⭐ 4,097 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-python) · 组织维护
 
 **供 Python 应用接入 Claude API 的官方 SDK**
 

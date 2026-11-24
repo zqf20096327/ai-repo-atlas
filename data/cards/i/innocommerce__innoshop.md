@@ -1,6 +1,6 @@
 # innocommerce/innoshop
 
-⭐ 670 · PHP · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/innocommerce/innoshop) · [官网](https://www.innoshop.com) · 组织维护 · 中文 README
+⭐ 672 · PHP · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/innocommerce/innoshop) · [官网](https://www.innoshop.com) · 组织维护 · 中文 README
 
 **基于 Laravel 13 的开源电商系统，集成多 AI 模型与原生 MCP**
 

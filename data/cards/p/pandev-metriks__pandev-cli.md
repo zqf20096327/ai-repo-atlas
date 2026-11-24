@@ -1,6 +1,6 @@
 # pandev-metriks/pandev-cli
 
-⭐ 24 · Shell · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/pandev-metriks/pandev-cli) · [官网](https://pandev-metrics.com/cli) · 组织维护
+⭐ 24 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/pandev-metriks/pandev-cli) · [官网](https://pandev-metrics.com/cli) · 组织维护
 
 **本地分析 AI 编程代理开销的 CLI：按任务/分支/模型/文件拆分成本**
 

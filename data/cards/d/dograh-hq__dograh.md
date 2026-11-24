@@ -1,6 +1,6 @@
 # dograh-hq/dograh
 
-⭐ 6,243 · Python · BSD-2-Clause · 推送 2026-11-16 · [GitHub](https://github.com/dograh-hq/dograh) · [官网](https://app.dograh.com) · 组织维护 · 中文 README
+⭐ 6,251 · Python · BSD-2-Clause · 推送 2026-11-16 · [GitHub](https://github.com/dograh-hq/dograh) · [官网](https://app.dograh.com) · 组织维护 · 中文 README
 
 **自托管开源语音 AI 平台：可视化构建电话语音机器人**
 

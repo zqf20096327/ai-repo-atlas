@@ -1,6 +1,6 @@
 # brittain9/speech-kit-obsidian-plugin
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/brittain9/speech-kit-obsidian-plugin) · [官网](https://community.obsidian.md/plugins/local-dictation) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/brittain9/speech-kit-obsidian-plugin) · [官网](https://community.obsidian.md/plugins/local-dictation) · 个人维护
 
 **Obsidian 语音工具箱：本地听写、转写、翻译与朗读**
 

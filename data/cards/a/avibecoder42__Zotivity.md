@@ -1,6 +1,6 @@
 # avibecoder42/Zotivity
 
-⭐ 27 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/avibecoder42/Zotivity) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/avibecoder42/Zotivity) · 个人维护
 
 **配合 Zotero 做文献检索、引用问答与文献综述的桌面应用**
 

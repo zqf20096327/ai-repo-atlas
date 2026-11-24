@@ -1,6 +1,6 @@
 # antoinezambelli/forge
 
-⭐ 2,268 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/antoinezambelli/forge) · 个人维护
+⭐ 2,269 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/antoinezambelli/forge) · 个人维护
 
 **自托管 LLM 工具调用的可靠性层与代理服务**
 

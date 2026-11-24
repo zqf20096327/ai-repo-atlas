@@ -1,6 +1,6 @@
 # pipeshub-ai/mcp-server
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/pipeshub-ai/mcp-server) · [官网](https://docs.pipeshub.com/mcp/overview) · 组织维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/pipeshub-ai/mcp-server) · [官网](https://docs.pipeshub.com/mcp/overview) · 组织维护
 
 **PipesHub 的远程 MCP 服务器：让 MCP 客户端接入企业搜索与 RAG**
 

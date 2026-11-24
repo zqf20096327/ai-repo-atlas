@@ -1,6 +1,6 @@
 # saboracaiteria/AI-Coding-IDE
 
-⭐ 13 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/saboracaiteria/AI-Coding-IDE) · [官网](https://saboracaiteria.github.io/AI-Coding-IDE/) · 个人维护
+⭐ 13 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/saboracaiteria/AI-Coding-IDE) · [官网](https://saboracaiteria.github.io/AI-Coding-IDE/) · 个人维护
 
 **在 Android 手机上编译并安装 APK 的 AI 编码 IDE**
 

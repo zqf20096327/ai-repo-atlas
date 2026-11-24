@@ -1,6 +1,6 @@
 # iuliandita/digarr
 
-⭐ 337 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/iuliandita/digarr) · [官网](https://github.com/iuliandita/digarr#readme) · 个人维护
+⭐ 336 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iuliandita/digarr) · [官网](https://github.com/iuliandita/digarr#readme) · 个人维护
 
 **自托管音乐发现工具：从收听历史生成推荐并送往 Lidarr 等服务**
 

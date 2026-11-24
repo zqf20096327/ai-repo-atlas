@@ -1,6 +1,6 @@
 # axisvela/praxo-core-dart
 
-⭐ 3 · Dart · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-dart) · [官网](https://axisvela.github.io/praxo-core/languages/dart/) · 组织维护
+⭐ 3 · Dart · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-dart) · [官网](https://axisvela.github.io/praxo-core/languages/dart/) · 组织维护
 
 **Dart 嵌入式 AI agent 框架：工具调度、策略钩子与检查点**
 

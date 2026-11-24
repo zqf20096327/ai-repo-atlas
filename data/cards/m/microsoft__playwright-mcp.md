@@ -1,6 +1,6 @@
 # microsoft/playwright-mcp
 
-⭐ 40,009 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/playwright-mcp) · [官网](https://www.npmjs.com/package/@playwright/mcp) · 组织维护
+⭐ 40,068 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/playwright-mcp) · [官网](https://www.npmjs.com/package/@playwright/mcp) · 组织维护
 
 **给 LLM 提供浏览器自动化能力的 Playwright MCP 服务器**
 

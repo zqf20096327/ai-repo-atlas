@@ -1,6 +1,6 @@
 # mhajder/zabbix-mcp
 
-⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mhajder/zabbix-mcp) · [官网](https://pypi.org/project/zabbix-mcp/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mhajder/zabbix-mcp) · [官网](https://pypi.org/project/zabbix-mcp/) · 个人维护
 
 **让 AI agent 通过 MCP 查询和管理 Zabbix 监控的服务器**
 

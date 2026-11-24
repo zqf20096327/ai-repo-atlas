@@ -1,6 +1,6 @@
 # frangelbarrera/Awesome-Hacking-with-AI
 
-⭐ 49 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/frangelbarrera/Awesome-Hacking-with-AI) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/frangelbarrera/Awesome-Hacking-with-AI) · 个人维护
 
 **AI 安全领域策展清单：AI 助攻安全与 AI 系统安全双线资源**
 

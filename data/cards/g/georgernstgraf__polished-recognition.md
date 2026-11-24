@@ -1,6 +1,6 @@
 # georgernstgraf/polished-recognition
 
-⭐ 15 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/georgernstgraf/polished-recognition) · [官网](https://f-droid.org/packages/com.georgernstgraf.polishedrecognition) · 个人维护
+⭐ 15 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/georgernstgraf/polished-recognition) · [官网](https://f-droid.org/packages/com.georgernstgraf.polishedrecognition) · 个人维护
 
 **Android 语音键盘：自选 STT+LLM，把口述打磨成成品文字**
 

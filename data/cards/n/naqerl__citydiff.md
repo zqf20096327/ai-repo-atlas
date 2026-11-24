@@ -1,6 +1,6 @@
 # naqerl/citydiff
 
-⭐ 9 · JavaScript · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/naqerl/citydiff) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把代码差异渲染为 3D 城市并为变更生成导览的 diff 工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

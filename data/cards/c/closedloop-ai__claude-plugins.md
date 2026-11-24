@@ -1,6 +1,6 @@
 # closedloop-ai/claude-plugins
 
-⭐ 122 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/closedloop-ai/claude-plugins) · 组织维护
+⭐ 122 · JavaScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/closedloop-ai/claude-plugins) · 组织维护
 
 **面向开发团队的开源 Claude Code 多智能体 SDLC 插件集**
 

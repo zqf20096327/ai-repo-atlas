@@ -1,6 +1,6 @@
 # root-signals/scorable-sdk
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/root-signals/scorable-sdk) · [官网](https://sdk.rootsignals.ai/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/root-signals/scorable-sdk) · [官网](https://sdk.rootsignals.ai/) · 组织维护
 
 **面向 LLM 自动化应用的评测与监控 SDK（Python/TS/CLI）**
 

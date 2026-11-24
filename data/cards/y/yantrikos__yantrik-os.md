@@ -1,6 +1,6 @@
 # yantrikos/yantrik-os
 
-⭐ 11 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/yantrikos/yantrik-os) · [官网](https://www.yantrikos.com) · 组织维护
+⭐ 11 · Rust · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/yantrikos/yantrik-os) · [官网](https://www.yantrikos.com) · 组织维护
 
 **面向 AI agent 的 Debian Linux 桌面：agent 经类型化接口操作应用**
 

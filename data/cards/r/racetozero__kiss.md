@@ -1,6 +1,6 @@
 # racetozero/kiss
 
-⭐ 23 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/racetozero/kiss) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/racetozero/kiss) · 个人维护
 
 **Rust 编写的终端编码 agent，支持 44 个模型接入**
 

@@ -1,6 +1,6 @@
 # tonone-ai/tonone
 
-⭐ 83 · Go Template · MIT · 推送 2026-11-10 · [GitHub](https://github.com/tonone-ai/tonone) · [官网](https://second.tonone.ai) · 组织维护
+⭐ 83 · Go Template · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tonone-ai/tonone) · [官网](https://second.tonone.ai) · 组织维护
 
 **给 Claude Code 安装的 100 专家 agent 团队插件（10 团队 + 431 技能）**
 

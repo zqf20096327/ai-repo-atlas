@@ -1,6 +1,6 @@
 # fchavelli/tsseg-eval
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-05-29 · [GitHub](https://github.com/fchavelli/tsseg-eval) · 个人维护
+⭐ 11 · Jupyter Notebook · MIT · 推送 2026-05-29 · [GitHub](https://github.com/fchavelli/tsseg-eval) · 个人维护
 
 **时序分割评估指标的 Python 库：提供 WARI 与 SMS 两种度量**
 

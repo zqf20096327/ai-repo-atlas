@@ -1,6 +1,6 @@
 # jerrydzj/state-dependent-twins
 
-⭐ 4 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jerrydzj/state-dependent-twins) · [官网](https://osf.io/ahgkw) · 个人维护
+⭐ 5 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jerrydzj/state-dependent-twins) · [官网](https://osf.io/ahgkw) · 个人维护
 
 **检验 LLM 数字孪生能否预测随外部状态变化调查答案的研究项目**
 

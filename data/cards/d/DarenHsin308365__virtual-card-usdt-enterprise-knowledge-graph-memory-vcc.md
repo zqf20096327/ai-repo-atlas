@@ -1,6 +1,6 @@
 # DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc
 
-⭐ 49 · 推送 2026-11-13 · [GitHub](https://github.com/DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 72 · 推送 2026-11-13 · [GitHub](https://github.com/DarenHsin308365/virtual-card-usdt-enterprise-knowledge-graph-memory-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **CoreGold 虚拟卡营销文：用 VCC 隔离 GraphRAG 服务的订阅扣款**
 

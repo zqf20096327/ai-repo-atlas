@@ -1,6 +1,6 @@
 # Nayjest/ai-microcore
 
-⭐ 108 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nayjest/ai-microcore) · 个人维护
+⭐ 108 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nayjest/ai-microcore) · 个人维护
 
 **面向 Python 开发者的极简 LLM 适配层，可切换模型与向量库**
 

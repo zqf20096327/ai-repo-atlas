@@ -1,6 +1,6 @@
 # eleiton/ollama-intel-arc
 
-⭐ 430 · Dockerfile · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/eleiton/ollama-intel-arc) · 个人维护
+⭐ 431 · Dockerfile · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/eleiton/ollama-intel-arc) · 个人维护
 
 **在 Intel Arc GPU 上用容器部署 Ollama、SD、Whisper 的方案**
 

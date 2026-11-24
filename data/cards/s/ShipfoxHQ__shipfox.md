@@ -1,6 +1,6 @@
 # ShipfoxHQ/shipfox
 
-⭐ 89 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ShipfoxHQ/shipfox) · [官网](https://www.shipfox.io) · 组织维护
+⭐ 89 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ShipfoxHQ/shipfox) · [官网](https://www.shipfox.io) · 组织维护
 
 **给工程团队的开源自托管 AI 编码代理工作流平台**
 

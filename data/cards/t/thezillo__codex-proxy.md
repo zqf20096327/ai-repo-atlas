@@ -1,6 +1,6 @@
 # thezillo/codex-proxy
 
-⭐ 11 · Rust · 推送 2026-11-03 · [GitHub](https://github.com/thezillo/codex-proxy) · 个人维护
+⭐ 11 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/thezillo/codex-proxy) · 个人维护
 
 **面向订阅用户的 OpenAI 兼容代理：把 Codex 接入任意 OpenAI 客户端**
 

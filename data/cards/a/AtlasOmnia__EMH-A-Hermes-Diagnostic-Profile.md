@@ -1,6 +1,6 @@
 # AtlasOmnia/EMH-A-Hermes-Diagnostic-Profile
 
-⭐ 53 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/AtlasOmnia/EMH-A-Hermes-Diagnostic-Profile) · [官网](https://hermesagenttools.com/) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AtlasOmnia/EMH-A-Hermes-Diagnostic-Profile) · [官网](https://hermesagenttools.com/) · 个人维护
 
 **Hermes Agent 的诊断型配置档：诊断并安全修复 Agent 故障**
 

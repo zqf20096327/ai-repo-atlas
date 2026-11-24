@@ -1,6 +1,6 @@
 # franzmoca/hy4-gufo-extension
 
-⭐ 5 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/franzmoca/hy4-gufo-extension) · 个人维护
+⭐ 5 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/franzmoca/hy4-gufo-extension) · 个人维护
 
 **在 AMD Strix Halo 上本地运行腾讯 Hy4 Flash 模型的 Gufo 扩展**
 

@@ -1,6 +1,6 @@
 # djene-mengistu/dseg_models
 
-⭐ 26 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/djene-mengistu/dseg_models) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/djene-mengistu/dseg_models) · 个人维护
 
 **钢材表面缺陷分割的深度学习模型实现与对比实验代码库**
 

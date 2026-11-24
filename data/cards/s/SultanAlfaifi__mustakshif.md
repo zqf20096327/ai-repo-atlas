@@ -1,6 +1,6 @@
 # SultanAlfaifi/mustakshif
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SultanAlfaifi/mustakshif) · [官网](https://github.com/SultanAlfaifi/mustakshif/releases/latest) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SultanAlfaifi/mustakshif) · [官网](https://github.com/SultanAlfaifi/mustakshif/releases/latest) · 个人维护
 
 **为 Windows PC 扫描硬件并推荐可运行的本地模型**
 

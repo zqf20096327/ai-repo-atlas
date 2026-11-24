@@ -1,6 +1,6 @@
 # HaLongbao/LRRNet
 
-⭐ 16 · Python · 推送 2025-12-04 · [GitHub](https://github.com/HaLongbao/LRRNet) · 个人维护
+⭐ 17 · Python · 推送 2025-12-04 · [GitHub](https://github.com/HaLongbao/LRRNet) · 个人维护
 
 **红外小目标检测网络 LRRNet 官方实现（TGRS'25 论文）**
 

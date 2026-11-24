@@ -1,6 +1,6 @@
 # secfoo-com/secfoo
 
-⭐ 418 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/secfoo-com/secfoo) · [官网](https://secfoo.com) · 组织维护
+⭐ 428 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/secfoo-com/secfoo) · [官网](https://secfoo.com) · 组织维护
 
 **把编程 Agent 变成安全审查 CLI：SAST、密钥扫描与威胁建模**
 

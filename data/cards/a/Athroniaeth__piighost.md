@@ -1,6 +1,6 @@
 # Athroniaeth/piighost
 
-⭐ 21 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Athroniaeth/piighost) · [官网](https://piighost.dev) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Athroniaeth/piighost) · [官网](https://piighost.dev) · 个人维护
 
 **LLM 应用的可逆 PII 脱敏库：占位符替换并在回复与工具调用中还原**
 

@@ -1,10 +1,10 @@
 # lyogavin/airllm
 
-⭐ 42,955 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护 · 中文 README
+⭐ 43,199 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lyogavin/airllm) · 个人维护
 
-**分层加载推理库：4GB 显存运行 70B 大模型**
+**低显存 GPU 上分层加载运行超大 LLM 的推理库**
 
-以 Python pip 包形式提供的 LLM 推理内存优化库：通过逐层换入换出的方式，同一时刻只在 GPU 上驻留一个模型层，使显存需求取决于单层大小而非模型总大小，从而在 4GB 显存运行 70B 模型、~12GB 运行 DeepSeek-V3 (671B)。通过 Hugging Face repo ID 或本地路径加载模型，接口仿照 transformers；提供 4bit/8bit 块级量化压缩（官方称最高 3x 提速）、预取、CPU 推理与 macOS（Apple Silicon、仅 Llama/Mistral 架构）支持；推理前需将模型分解为层分片，磁盘开销大。v3.0 起还支持在小显存 GPU 上冻结底座、流式训练并保留 LoRA 适配器。
+AirLLM 通过逐层从磁盘流式加载、任一时刻仅在 GPU 上保留单层模型的方式降低推理显存占用，使 Llama 3.x 70B 全精度可在约 4GB 显存运行，DeepSeek-V3 约 12GB，并支持 FP8 与 4bit/8bit 块级量化压缩加速。以 pip 包形式提供，AutoModel 统一接入 Hugging Face 模型，2026 年起加入 LoRA 微调训练支持，macOS Apple Silicon 可运行 Llama 系架构模型。速度因逐层读盘而较慢，README 自述生成回复耗时较长。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@
 
 ## 能力要点
 
-- 逐层流式加载：显存占用取决于模型单层大小而非总参数量
-- 4bit/8bit 块级量化压缩，官方称最高 3x 推理加速
-- 支持 Llama/Qwen/DeepSeek/Mixtral/ChatGLM 等主流开源模型家族，统一 AutoModel 接口
-- 小显存 LoRA 训练：冻结权重逐层从磁盘流式读取，仅适配器驻留 GPU
+- 单层驻留 GPU 的分层流式加载，无需量化/蒸馏/剪枝
+- 支持 4bit/8bit 块级量化压缩，最高约 3x 推理加速
+- 提供 LoRA 微调：冻结权重逐层流式读取，仅适配器驻留 GPU
+- AutoModel 统一接口，覆盖 Llama/Qwen/DeepSeek/Mistral 等主流开源模型族
 
 ## 适用场景
 
-- 在消费级显卡上本地推理超大参数量开源模型
-- 本地微调 125B 级模型而不升级显存
-- 加载 gated Hugging Face 模型并控制模型分片存储路径
+- 在 4GB 显存的消费级显卡上运行 70B 级开源大模型
+- 本地对超大模型做 LoRA 微调
+- 在 Apple Silicon Mac 上运行 Llama/Mistral 系模型
 
 ## 场景标签
 
-`推理引擎` `模型量化` `微调` · 领域:训练与推理
+`推理引擎` `微调` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L9: **AirLLM** dramatically reduces inference memory usage, letting 70B large language models run on a single 4GB GPU ca
 > L82: Then, initialize AirLLMLlama2, pass in the huggingface repo ID of the model being used, or the local path, and infe
-> L188: The trick: AirLLM only ever keeps **one layer on the GPU at a time**, so the VRAM you need depends on the model's 
+> L203: AirLLM works out of the box with **virtually every popular open LLM** — just pass its Hugging Face ID to `AutoMode
+> L209: The trick: AirLLM only ever keeps **one layer on the GPU at a time**, so the VRAM you need depends on the model's 
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5832f5a0842d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7a8d7b9b415f` · [字段定义](../../DATASET.md)*

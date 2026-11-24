@@ -1,6 +1,6 @@
 # microsoft/skills
 
-⭐ 3,235 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/skills) · [官网](https://microsoft.github.io/skills/) · 组织维护
+⭐ 3,241 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/skills) · [官网](https://microsoft.github.io/skills/) · 组织维护
 
 **面向 AI 编码代理的 Azure/Foundry 技能与模板库**
 

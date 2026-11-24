@@ -1,6 +1,6 @@
 # jamesmoore/SDMeta
 
-⭐ 20 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/jamesmoore/SDMeta) · 个人维护
+⭐ 20 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jamesmoore/SDMeta) · 个人维护
 
 **批量提取并检索 Stable Diffusion 生成图片元数据的工具**
 

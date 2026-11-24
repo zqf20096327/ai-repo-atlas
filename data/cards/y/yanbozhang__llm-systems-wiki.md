@@ -1,6 +1,6 @@
 # yanbozhang/llm-systems-wiki
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yanbozhang/llm-systems-wiki) · [官网](https://yanbozhang.github.io/llm-systems-wiki/) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yanbozhang/llm-systems-wiki) · [官网](https://yanbozhang.github.io/llm-systems-wiki/) · 个人维护 · 中文 README
 
 **中文大模型与 Agent 系统学习 Wiki：45 主题、135 知识点**
 

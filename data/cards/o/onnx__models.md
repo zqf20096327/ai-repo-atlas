@@ -1,6 +1,6 @@
 # onnx/models
 
-⭐ 9,859 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/onnx/models) · 组织维护
+⭐ 9,858 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/onnx/models) · 组织维护
 
 **ONNX 格式预训练模型集合，供开发者下载使用**
 

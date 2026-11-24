@@ -1,6 +1,6 @@
 # QuesmaOrg/awesome-ai-tokenomics
 
-⭐ 221 · Python · CC0-1.0 · 推送 2026-11-13 · [GitHub](https://github.com/QuesmaOrg/awesome-ai-tokenomics) · 组织维护
+⭐ 221 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/QuesmaOrg/awesome-ai-tokenomics) · 组织维护
 
 **AI token 经济学策展清单：token 成本、测量、优化与治理工具集**
 

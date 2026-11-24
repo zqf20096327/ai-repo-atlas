@@ -1,6 +1,6 @@
 # NVIDIA/Deep-Learning-Accelerator-SW
 
-⭐ 241 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) · 组织维护
+⭐ 241 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) · 组织维护
 
 **面向嵌入式开发者的 NVIDIA DLA 推理软件工具与基准参考库**
 

@@ -1,6 +1,6 @@
 # shanraisshan/gemini-cli-best-practice
 
-⭐ 82 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/shanraisshan/gemini-cli-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
+⭐ 83 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/shanraisshan/gemini-cli-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
 
 **Gemini CLI 最佳实践与技巧策展仓库：概念表、工作流与 29+ 条提示**
 

@@ -1,6 +1,6 @@
 # devoxx/DevoxxGenieIDEAPlugin
 
-⭐ 696 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/devoxx/DevoxxGenieIDEAPlugin) · [官网](https://genie.devoxx.com) · 组织维护
+⭐ 696 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/devoxx/DevoxxGenieIDEAPlugin) · [官网](https://genie.devoxx.com) · 组织维护
 
 **IntelliJ IDEA 的 LLM 代码助手插件，支持本地与云端模型**
 

@@ -1,6 +1,6 @@
 # noah-thing/open-cursor
 
-⭐ 58 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/noah-thing/open-cursor) · [官网](https://opencursor.org) · 个人维护
+⭐ 59 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/noah-thing/open-cursor) · [官网](https://opencursor.org) · 个人维护
 
 **开源 AI 代码编辑器：自带 Agent/补全，用你自己的模型与密钥**
 

@@ -1,6 +1,6 @@
 # cashubtc/orchard
 
-⭐ 61 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cashubtc/orchard) · [官网](https://orchard.space) · 组织维护
+⭐ 61 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cashubtc/orchard) · [官网](https://orchard.space) · 组织维护
 
 **Cashu mint 管理的 Web 应用：运行自己的电子现金铸造服务**
 

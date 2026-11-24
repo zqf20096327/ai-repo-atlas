@@ -1,6 +1,6 @@
 # Nasiko-Labs/nasiko
 
-⭐ 11,938 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Nasiko-Labs/nasiko) · [官网](https://www.nasiko.com) · 组织维护
+⭐ 11,938 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Nasiko-Labs/nasiko) · [官网](https://www.nasiko.com) · 组织维护
 
 **团队 coding agent 的运行时：发现、成本归集、模型路由与部署治理**
 

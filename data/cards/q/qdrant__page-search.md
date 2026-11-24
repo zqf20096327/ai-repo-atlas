@@ -1,6 +1,6 @@
 # qdrant/page-search
 
-⭐ 160 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/qdrant/page-search) · 组织维护
+⭐ 160 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/qdrant/page-search) · 组织维护
 
 **为网站/文档提供毫秒级语义搜索的服务（Python 与 Rust 双实现）**
 

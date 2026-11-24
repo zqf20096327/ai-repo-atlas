@@ -1,6 +1,6 @@
 # AMRITO-KUNDU/llmscribe
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AMRITO-KUNDU/llmscribe) · [官网](https://llmscribe.vercel.app) · 个人维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AMRITO-KUNDU/llmscribe) · [官网](https://llmscribe.vercel.app) · 个人维护
 
 **给 AI agent 用的跨平台结构化文件系统接口（MCP/CLI/Python）**
 

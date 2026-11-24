@@ -1,6 +1,6 @@
 # Unknown-Future1/astrbot_plugin_breeze_tts
 
-⭐ 4 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Unknown-Future1/astrbot_plugin_breeze_tts) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Unknown-Future1/astrbot_plugin_breeze_tts) · 个人维护 · 中文 README
 
 **AstrBot 插件：用本地克隆音色让 QQ 机器人发语音**
 

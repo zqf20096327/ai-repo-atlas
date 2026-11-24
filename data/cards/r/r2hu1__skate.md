@@ -1,6 +1,6 @@
 # r2hu1/skate
 
-⭐ 23 · TypeScript · 推送 2026-07-24 · [GitHub](https://github.com/r2hu1/skate) · 个人维护
+⭐ 24 · TypeScript · 推送 2026-07-24 · [GitHub](https://github.com/r2hu1/skate) · 个人维护
 
 **本地化 CLI：把长视频自动切成竖屏爆款短视频，全程离线**
 

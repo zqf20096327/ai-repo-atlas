@@ -1,6 +1,6 @@
 # AppVerk/av-marketplace
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/AppVerk/av-marketplace) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AppVerk/av-marketplace) · 组织维护
 
 **为 Claude Code 与 Oh My Pi 提供的插件化开发流程 harness**
 

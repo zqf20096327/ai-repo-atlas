@@ -1,6 +1,6 @@
 # fedeya/wisp-ai
 
-⭐ 7 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/fedeya/wisp-ai) · [官网](https://wisp.fedeya.sh) · 个人维护
+⭐ 8 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/fedeya/wisp-ai) · [官网](https://wisp.fedeya.sh) · 个人维护
 
 **魔兽世界游戏内 AI 助手：不离开游戏即可查询角色信息**
 

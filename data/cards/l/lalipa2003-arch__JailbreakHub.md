@@ -1,6 +1,6 @@
 # lalipa2003-arch/JailbreakHub
 
-⭐ 719 · Roff · Unlicense · 推送 2026-11-20 · [GitHub](https://github.com/lalipa2003-arch/JailbreakHub) · 个人维护
+⭐ 744 · Roff · Unlicense · 推送 2026-11-20 · [GitHub](https://github.com/lalipa2003-arch/JailbreakHub) · 个人维护
 
 **面向 LLM 越狱研究的提示词与技术收集清单**
 

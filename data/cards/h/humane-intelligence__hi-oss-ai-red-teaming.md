@@ -1,6 +1,6 @@
 # humane-intelligence/hi-oss-ai-red-teaming
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/humane-intelligence/hi-oss-ai-red-teaming) · [官网](https://humane-intelligence.org) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/humane-intelligence/hi-oss-ai-red-teaming) · [官网](https://humane-intelligence.org) · 组织维护
 
 **面向人类红队测试的 AI 模型评测平台（Web 应用）**
 

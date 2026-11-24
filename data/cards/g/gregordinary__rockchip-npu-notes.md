@@ -1,6 +1,6 @@
 # gregordinary/rockchip-npu-notes
 
-⭐ 34 · Shell · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/gregordinary/rockchip-npu-notes) · 个人维护
+⭐ 33 · Shell · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/gregordinary/rockchip-npu-notes) · 个人维护
 
 **RK3588 NPU 硬件与 regcmd 寄存器接口的逆向研究笔记集**
 

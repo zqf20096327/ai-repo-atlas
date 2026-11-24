@@ -1,6 +1,6 @@
 # modelscope/sirchmunk-web
 
-⭐ 20 · HTML · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/modelscope/sirchmunk-web) · 组织维护
+⭐ 20 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/sirchmunk-web) · 组织维护
 
 **Sirchmunk 文档网站源码：无嵌入的 agentic 搜索引擎官方站点**
 

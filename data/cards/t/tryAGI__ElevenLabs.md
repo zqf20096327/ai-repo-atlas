@@ -1,6 +1,6 @@
 # tryAGI/ElevenLabs
 
-⭐ 14 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tryAGI/ElevenLabs) · [官网](https://tryagi.github.io/ElevenLabs/) · 组织维护
+⭐ 14 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tryAGI/ElevenLabs) · [官网](https://tryagi.github.io/ElevenLabs/) · 组织维护
 
 **ElevenLabs API 的 .NET/C# SDK：语音生成与转录接入**
 

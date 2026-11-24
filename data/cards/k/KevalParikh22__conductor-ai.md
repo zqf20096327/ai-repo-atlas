@@ -1,6 +1,6 @@
 # KevalParikh22/conductor-ai
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/KevalParikh22/conductor-ai) · [官网](https://github.com/KevalParikh22/conductor-ai#readme) · 个人维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KevalParikh22/conductor-ai) · [官网](https://github.com/KevalParikh22/conductor-ai#readme) · 个人维护
 
 **为编码 agent 分配免费/低价模型写码的多 LLM 编排器**
 

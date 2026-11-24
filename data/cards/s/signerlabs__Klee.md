@@ -1,6 +1,6 @@
 # signerlabs/Klee
 
-⭐ 1,788 · Swift · 推送 2026-11-16 · [GitHub](https://github.com/signerlabs/Klee) · [官网](https://kleedesktop.com) · 组织维护
+⭐ 1,791 · Swift · 推送 2026-11-16 · [GitHub](https://github.com/signerlabs/Klee) · [官网](https://kleedesktop.com) · 组织维护
 
 **Apple Silicon 上全本地推理的 macOS AI 聊天应用**
 

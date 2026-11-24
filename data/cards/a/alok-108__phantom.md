@@ -1,6 +1,6 @@
 # alok-108/phantom
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/alok-108/phantom) · [官网](https://github.com/hayagrivai-labs/phantom/blob/main/docs/QUICKSTART.md) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alok-108/phantom) · [官网](https://github.com/hayagrivai-labs/phantom/blob/main/docs/QUICKSTART.md) · 个人维护 · 中文 README
 
 **给 Python 开发者的双层注释指令层：校验与 LLM 差异化生成**
 

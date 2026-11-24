@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Step_Audio_EditX_TTS
 
-⭐ 63 · Python · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/Saganaki22/ComfyUI-Step_Audio_EditX_TTS) · [官网](https://huggingface.co/stepfun-ai/Step-Audio-EditX) · 个人维护
+⭐ 64 · Python · Apache-2.0 · 推送 2025-12-04 · [GitHub](https://github.com/Saganaki22/ComfyUI-Step_Audio_EditX_TTS) · [官网](https://huggingface.co/stepfun-ai/Step-Audio-EditX) · 个人维护
 
 **Step-Audio-EditX 零样本语音克隆与音频编辑的 ComfyUI 节点集**
 

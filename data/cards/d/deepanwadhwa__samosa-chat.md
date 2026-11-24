@@ -1,6 +1,6 @@
 # deepanwadhwa/samosa-chat
 
-⭐ 55 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/deepanwadhwa/samosa-chat) · 个人维护
+⭐ 55 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/deepanwadhwa/samosa-chat) · 个人维护
 
 **本地大模型聊天应用与 HTTP 网关：私有运行 Qwen 等模型**
 

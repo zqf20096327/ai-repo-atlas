@@ -1,6 +1,6 @@
 # praxis-proxy/policy
 
-⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/praxis-proxy/policy) · 组织维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/praxis-proxy/policy) · 组织维护
 
 **面向代理流量的 Rust 策略引擎：鉴权、数据管控与审计**
 

@@ -1,6 +1,6 @@
 # Bai-Cute/big-blue-fish-desktop-pet
 
-⭐ 384 · C# · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Bai-Cute/big-blue-fish-desktop-pet) · 个人维护 · 中文 README
+⭐ 388 · C# · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Bai-Cute/big-blue-fish-desktop-pet) · 个人维护 · 中文 README
 
 **本地大模型驱动的蓝色鲸鱼娘 AI 桌面桌宠**
 

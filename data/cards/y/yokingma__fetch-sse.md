@@ -1,6 +1,6 @@
 # yokingma/fetch-sse
 
-⭐ 30 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/yokingma/fetch-sse) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/yokingma/fetch-sse) · 个人维护
 
 **基于 fetch 的 SSE 请求库，供浏览器与 Node.js 消费事件流**
 

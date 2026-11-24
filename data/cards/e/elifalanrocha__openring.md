@@ -1,6 +1,6 @@
 # elifalanrocha/openring
 
-⭐ 28 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/elifalanrocha/openring) · [官网](https://realvalorai.com.br/openring) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/elifalanrocha/openring) · [官网](https://realvalorai.com.br/openring) · 个人维护
 
 **自托管的 Vapi 兼容语音 AI 电话代理服务器，无平台费**
 

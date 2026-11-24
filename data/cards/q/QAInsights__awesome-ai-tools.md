@@ -1,6 +1,6 @@
 # QAInsights/awesome-ai-tools
 
-⭐ 36 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/QAInsights/awesome-ai-tools) · [官网](https://ai.dosa.dev) · 个人维护
+⭐ 36 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/QAInsights/awesome-ai-tools) · [官网](https://ai.dosa.dev) · 个人维护
 
 **AI 编程工具的策展分类清单（225+ 工具，10+ 类别）**
 

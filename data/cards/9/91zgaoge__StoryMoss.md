@@ -1,6 +1,6 @@
 # 91zgaoge/StoryMoss
 
-⭐ 83 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/91zgaoge/StoryMoss) · [官网](https://storymoss.top) · 个人维护 · 中文 README
+⭐ 83 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/91zgaoge/StoryMoss) · [官网](https://storymoss.top) · 个人维护 · 中文 README
 
 **AI 辅助小说创作的桌面应用，多代理续写与故事资产管理**
 

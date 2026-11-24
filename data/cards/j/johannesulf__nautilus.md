@@ -1,6 +1,6 @@
 # johannesulf/nautilus
 
-⭐ 118 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/johannesulf/nautilus) · [官网](https://nautilus-sampler.readthedocs.io) · 个人维护
+⭐ 119 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/johannesulf/nautilus) · [官网](https://nautilus-sampler.readthedocs.io) · 个人维护
 
 **神经网络加速的贝叶斯后验与证据估计 Python 库**
 

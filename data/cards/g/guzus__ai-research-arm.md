@@ -1,6 +1,6 @@
 # guzus/ai-research-arm
 
-⭐ 14 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/guzus/ai-research-arm) · [官网](https://ara.guzus.xyz) · 个人维护
+⭐ 14 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/guzus/ai-research-arm) · [官网](https://ara.guzus.xyz) · 个人维护
 
 **自动运行的 AI 新闻情报管线：多源 agent 采集并自动出版日报与维基**
 

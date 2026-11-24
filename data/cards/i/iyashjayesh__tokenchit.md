@@ -1,6 +1,6 @@
 # iyashjayesh/tokenchit
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/iyashjayesh/tokenchit) · [官网](https://tokenchit.app) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iyashjayesh/tokenchit) · [官网](https://tokenchit.app) · 个人维护
 
 **读取本地 AI 编程代理日志并生成可提交到 README 的用量统计卡**
 

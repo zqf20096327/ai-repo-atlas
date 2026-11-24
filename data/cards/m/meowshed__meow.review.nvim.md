@@ -1,6 +1,6 @@
 # meowshed/meow.review.nvim
 
-⭐ 12 · Lua · MIT · 推送 2026-11-16 · [GitHub](https://github.com/meowshed/meow.review.nvim) · [官网](https://github.com/retran/meow.review.nvim) · 个人维护
+⭐ 12 · Lua · MIT · 推送 2026-11-23 · [GitHub](https://github.com/meowshed/meow.review.nvim) · [官网](https://github.com/retran/meow.review.nvim) · 个人维护
 
 **Neovim 代码批注插件：持久化审阅注释并导出给 AI agent**
 

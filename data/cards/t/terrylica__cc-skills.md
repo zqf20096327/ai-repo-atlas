@@ -1,6 +1,6 @@
 # terrylica/cc-skills
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/terrylica/cc-skills) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/terrylica/cc-skills) · 个人维护
 
 **为 Claude Code 用户提供插件/技能市场，覆盖开发与 DevOps 工作流**
 

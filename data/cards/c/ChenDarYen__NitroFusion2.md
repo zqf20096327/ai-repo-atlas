@@ -1,6 +1,6 @@
 # ChenDarYen/NitroFusion2
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ChenDarYen/NitroFusion2) · [官网](https://chendaryen.github.io/NitroFusion2.github.io/) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ChenDarYen/NitroFusion2) · [官网](https://chendaryen.github.io/NitroFusion2.github.io/) · 组织维护
 
 **1–2 步文生图扩散模型，将对抗损失施加于 MMDiT 文本流**
 

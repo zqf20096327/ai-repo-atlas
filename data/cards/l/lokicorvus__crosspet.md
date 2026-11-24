@@ -1,6 +1,6 @@
 # lokicorvus/crosspet
 
-⭐ 548 · JavaScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/lokicorvus/crosspet) · [官网](https://github.com/lokicorvus/crosspet/releases/latest) · 个人维护 · 中文 README
+⭐ 559 · JavaScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/lokicorvus/crosspet) · [官网](https://github.com/lokicorvus/crosspet/releases/latest) · 个人维护 · 中文 README
 
 **跨 AI 桌宠：随所用 AI 切换形象、跟随 AI 工作状态做动作**
 

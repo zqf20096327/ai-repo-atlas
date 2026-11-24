@@ -1,6 +1,6 @@
 # joungminsung/OpenPhoneUse
 
-⭐ 38 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/joungminsung/OpenPhoneUse) · [官网](https://joungminsung.github.io/OpenPhoneUse/) · 个人维护
+⭐ 42 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/joungminsung/OpenPhoneUse) · [官网](https://joungminsung.github.io/OpenPhoneUse/) · 个人维护
 
 **让 AI 代理代你操作安卓手机的开源应用**
 

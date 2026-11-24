@@ -1,6 +1,6 @@
 # saeyslab/FlowSOM_Python
 
-⭐ 35 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/saeyslab/FlowSOM_Python) · [官网](https://flowsom.readthedocs.io) · 组织维护
+⭐ 35 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/saeyslab/FlowSOM_Python) · [官网](https://flowsom.readthedocs.io) · 组织维护
 
 **流式细胞术数据的 SOM 聚类与可视化 Python 库**
 

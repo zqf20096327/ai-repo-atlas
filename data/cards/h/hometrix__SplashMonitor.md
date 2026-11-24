@@ -1,6 +1,6 @@
 # hometrix/SplashMonitor
 
-⭐ 31 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hometrix/SplashMonitor) · 个人维护
+⭐ 32 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hometrix/SplashMonitor) · 个人维护
 
 **面向 Apple Silicon 上 Splash 本地推理引擎的原生 macOS 监控与管理桌面应用**
 

@@ -1,6 +1,6 @@
 # nikshepsvn/openvenice
 
-⭐ 67 · TypeScript · 推送 2026-04-17 · [GitHub](https://github.com/nikshepsvn/openvenice) · 个人维护
+⭐ 68 · TypeScript · 推送 2026-04-17 · [GitHub](https://github.com/nikshepsvn/openvenice) · 个人维护
 
 **Venice AI 的自托管多模态前端：聊天/图像/音频/视频/工作流**
 

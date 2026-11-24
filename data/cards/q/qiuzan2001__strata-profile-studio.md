@@ -1,6 +1,6 @@
 # qiuzan2001/strata-profile-studio
 
-⭐ 6 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/qiuzan2001/strata-profile-studio) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/qiuzan2001/strata-profile-studio) · 个人维护
 
 **本地 Strata 推理的性能剖析与调优仪表盘**
 

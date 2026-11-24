@@ -1,6 +1,6 @@
 # cristianodabc/aludel
 
-⭐ 41 · Elixir · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cristianodabc/aludel) · [官网](https://hexdocs.pm/aludel) · 个人维护
+⭐ 41 · Elixir · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cristianodabc/aludel) · [官网](https://hexdocs.pm/aludel) · 个人维护
 
 **Elixir/Phoenix 的 LLM 评测与提示词测试工作台**
 

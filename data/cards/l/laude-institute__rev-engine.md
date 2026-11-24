@@ -1,6 +1,6 @@
 # laude-institute/rev-engine
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/laude-institute/rev-engine) · 组织维护
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/laude-institute/rev-engine) · 组织维护
 
 **以 GitHub Action 运行的 agentic 代码审查工具**
 

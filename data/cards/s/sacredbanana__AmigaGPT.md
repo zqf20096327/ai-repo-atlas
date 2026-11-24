@@ -1,6 +1,6 @@
 # sacredbanana/AmigaGPT
 
-⭐ 80 · C · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/sacredbanana/AmigaGPT) · 个人维护
+⭐ 80 · C · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/sacredbanana/AmigaGPT) · 个人维护
 
 **AmigaOS/MorphOS 上的多供应商 AI 聊天与图像生成客户端**
 

@@ -1,6 +1,6 @@
 # JuliaAI/MLJModels.jl
 
-⭐ 82 · Julia · MIT · 推送 2026-11-17 · [GitHub](https://github.com/JuliaAI/MLJModels.jl) · 组织维护
+⭐ 82 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JuliaAI/MLJModels.jl) · 组织维护
 
 **MLJ 模型注册表及模型搜索/加载工具库**
 

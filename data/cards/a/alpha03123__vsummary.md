@@ -1,6 +1,6 @@
 # alpha03123/vsummary
 
-⭐ 292 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/alpha03123/vsummary) · [官网](https://vsummary.net/) · 个人维护 · 中文 README
+⭐ 294 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/alpha03123/vsummary) · [官网](https://vsummary.net/) · 个人维护 · 中文 README
 
 **面向普通用户的视频 AI 总结与本地知识库工具**
 

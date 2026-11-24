@@ -1,6 +1,6 @@
 # alexanderizh/spark-agent
 
-⭐ 121 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/alexanderizh/spark-agent) · [官网](https://www.yiqibyte.com/) · 个人维护 · 中文 README
+⭐ 122 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alexanderizh/spark-agent) · [官网](https://www.yiqibyte.com/) · 个人维护 · 中文 README
 
 **本地优先桌面 Agent 工作台：编排工作流、多会话协作与模型路由**
 

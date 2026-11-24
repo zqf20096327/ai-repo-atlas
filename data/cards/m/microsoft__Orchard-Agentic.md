@@ -1,6 +1,6 @@
 # microsoft/Orchard-Agentic
 
-⭐ 564 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/Orchard-Agentic) · [官网](https://microsoft.github.io/Orchard-Agentic/) · 组织维护
+⭐ 565 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/Orchard-Agentic) · [官网](https://microsoft.github.io/Orchard-Agentic/) · 组织维护
 
 **开源智能体建模研究集合：沙箱环境服务+评测+RL训练配方**
 

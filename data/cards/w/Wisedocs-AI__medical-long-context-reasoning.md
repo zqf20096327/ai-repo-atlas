@@ -1,6 +1,6 @@
 # Wisedocs-AI/medical-long-context-reasoning
 
-⭐ 13 · Python · 推送 2026-08-31 · [GitHub](https://github.com/Wisedocs-AI/medical-long-context-reasoning) · [官网](https://www.wisedocs.ai/blogs/medical-long-context-reasoning) · 组织维护
+⭐ 14 · Python · 推送 2026-08-31 · [GitHub](https://github.com/Wisedocs-AI/medical-long-context-reasoning) · [官网](https://www.wisedocs.ai/blogs/medical-long-context-reasoning) · 组织维护
 
 **评测 LLM 长文本医学文档推理能力的基准与评测框架**
 

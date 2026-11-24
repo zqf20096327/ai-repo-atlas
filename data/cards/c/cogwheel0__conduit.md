@@ -1,6 +1,6 @@
 # cogwheel0/conduit
 
-⭐ 2,492 · Dart · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/cogwheel0/conduit) · [官网](https://conduit.mobile) · 个人维护
+⭐ 2,505 · Dart · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/cogwheel0/conduit) · [官网](https://conduit.mobile) · 个人维护
 
 **自托管 LLM 服务器的原生 iOS/Android 移动客户端**
 

@@ -1,6 +1,6 @@
 # zimingttkx/AI-Practices
 
-⭐ 438 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zimingttkx/AI-Practices) · [官网](https://zimingttkx.github.io/AI-Practices/) · 个人维护 · 中文 README
+⭐ 438 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zimingttkx/AI-Practices) · [官网](https://zimingttkx.github.io/AI-Practices/) · 个人维护 · 中文 README
 
 **机器学习与深度学习系统化实战教程库（14 模块）**
 

@@ -1,6 +1,6 @@
 # yanfei0725/dsh-qwen-paint
 
-⭐ 45 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/yanfei0725/dsh-qwen-paint) · [官网](https://yanfei0725.github.io/dsh-qwen-paint/) · 个人维护 · 中文 README
+⭐ 46 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/yanfei0725/dsh-qwen-paint) · [官网](https://yanfei0725.github.io/dsh-qwen-paint/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本地文生图/图生图插件（经 ComfyUI 调 Qwen-Image）**
 

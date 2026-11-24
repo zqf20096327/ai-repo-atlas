@@ -1,6 +1,6 @@
 # Kingsmichaei/oyago
 
-⭐ 3 · 推送 2026-10-09 · [GitHub](https://github.com/Kingsmichaei/oyago) · [官网](https://oyago-web.onrender.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给拉各斯居民用英语/皮钦语生成巴士出行指引的 RAG 应用**
 

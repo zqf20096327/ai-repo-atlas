@@ -1,6 +1,6 @@
 # zhangjingwei/weixin-link
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/zhangjingwei/weixin-link) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zhangjingwei/weixin-link) · 个人维护 · 中文 README
 
 **在微信里遥控专属 AI 助手干活的自托管工具**
 

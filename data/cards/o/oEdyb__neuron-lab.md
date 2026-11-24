@@ -1,6 +1,6 @@
 # oEdyb/neuron-lab
 
-⭐ 6 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/oEdyb/neuron-lab) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/oEdyb/neuron-lab) · 个人维护
 
 **在开源权重 LLM 中定位、修改单个神经元并对话的工具**
 

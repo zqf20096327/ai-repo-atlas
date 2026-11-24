@@ -1,6 +1,6 @@
 # manti-by/demetra
 
-⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/manti-by/demetra) · 个人维护
+⭐ 28 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/manti-by/demetra) · 个人维护
 
 **面向开发者的多 AI agent 协同自动化开发平台**
 

@@ -1,6 +1,6 @@
 # youngyangyang04/llm-master
 
-⭐ 1,707 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/youngyangyang04/llm-master) · [官网](https://notes.kamacoder.com/llm/) · 组织维护 · 中文 README
+⭐ 1,721 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/youngyangyang04/llm-master) · [官网](https://notes.kamacoder.com/llm/) · 组织维护 · 中文 README
 
 **程序员的大模型全栈中文学习路线与教程合集**
 

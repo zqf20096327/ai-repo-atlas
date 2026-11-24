@@ -1,6 +1,6 @@
 # 1sh1ro/ai-api-zhongzhuan
 
-⭐ 79 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/1sh1ro/ai-api-zhongzhuan) · [官网](https://ai.xulas.fun) · 个人维护 · 中文 README
+⭐ 81 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/1sh1ro/ai-api-zhongzhuan) · [官网](https://ai.xulas.fun) · 个人维护 · 中文 README
 
 **AI API 公益站与 Token 中转站导航清单**
 

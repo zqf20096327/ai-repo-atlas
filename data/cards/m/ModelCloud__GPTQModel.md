@@ -1,10 +1,10 @@
 # ModelCloud/GPTQModel
 
-⭐ 1,295 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ModelCloud/GPTQModel) · [官网](https://x.com/Qubitium) · 组织维护
+⭐ 1,296 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/ModelCloud/GPTQModel) · [官网](https://x.com/Qubitium) · 组织维护
 
-**面向开发者的 LLM 量化压缩与加速推理工具包**
+**面向 LLM 开发者的多后端量化压缩与推理工具包**
 
-GPTQModel 将校准、量化、评估、转换与加速推理整合为统一工作流：从预训练模型出发选择压缩方案（GPTQ、AWQ、RTN、EXL3、QQQ、GGUF、FP8、VPTQ 等十余种方法），验证质量后保存 checkpoint，用于原生推理或兼容部署引擎。README 描述其覆盖 NVIDIA CUDA、AMD ROCm、Apple Metal/MLX、Intel XPU、Tenstorrent 等硬件路径，模型可经 Hugging Face、vLLM、SGLang 加载，并通过 PyPI 分发。
+将校准、量化、评估、转换与加速推理整合为统一工作流的量化平台：从预训练模型出发选择压缩配方，验证质量后保存可原生推理或部署到兼容引擎的 checkpoint。支持 GPTQ、AWQ、RTN、QQQ、EXL3、GGUF、FP8 等多种量化方法，覆盖 NVIDIA CUDA、AMD ROCm、Apple silicon、Intel XPU、Tenstorrent 与华为昇腾等硬件路径。以 PyPI 包形式发布，版本更新频繁并附详细变更日志。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ GPTQModel 将校准、量化、评估、转换与加速推理整合为统一工�
 
 ## 能力要点
 
-- 统一工作流覆盖校准、量化、评估、转换与加速推理
-- 支持 GPTQ/AWQ/EXL3/QQQ/GGUF/FP8/VPTQ 等多种量化方法
-- 覆盖 CUDA、ROCm、XPU、Tenstorrent、Metal/MLX、CPU 等硬件后端
-- checkpoint 可经 HF、vLLM、SGLang 加载
+- 支持 GPTQ/AWQ/RTN/QQQ/EXL3/GGUF/FP8/MACaQ 等多种量化方法
+- 覆盖 CUDA、ROCm、MLX/Metal、XPU、Tenstorrent、昇腾 NPU 与 CPU 的硬件加速路径
+- 校准、量化、评估、转换、加速推理一体化工作流
+- Quantization accuracy：SmoothMSE 等校准算法持续迭代
 
 ## 适用场景
 
-- 在有限显存上部署压缩后的 LLM
-- 对量化 checkpoint 做质量评估与格式转换
-- 在多种 GPU/NPU 硬件上运行量化模型
+- 将大模型压缩为低比特 checkpoint 以降低显存占用
+- 为不同硬件平台（NVIDIA/AMD/Apple/NPU）生成对应量化格式
+- 量化前用校准数据集评估模型质量损失
 
 ## 场景标签
 
-`模型量化` `推理引擎` · 领域:训练与推理
+`模型量化` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L3:  An extensible platform for LLM quantization. Compress, evaluate, and run models across supported GPUs, accelerators
 > L74: GPT-QModel brings calibration, quantization, evaluation, conversion, and accelerated
-> L75: inference into one workflow. Start from a pretrained model, choose a compression
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2c07cbc92ec3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `66930204ef0b` · [字段定义](../../DATASET.md)*

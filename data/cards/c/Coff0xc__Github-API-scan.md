@@ -1,6 +1,6 @@
 # Coff0xc/Github-API-scan
 
-⭐ 87 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Coff0xc/Github-API-scan) · 个人维护 · 中文 README
+⭐ 89 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Coff0xc/Github-API-scan) · 个人维护 · 中文 README
 
 **扫描 GitHub 组织/仓库或本地 git，检测泄露的 AI API 密钥**
 

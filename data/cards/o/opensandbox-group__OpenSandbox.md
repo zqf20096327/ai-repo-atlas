@@ -1,6 +1,6 @@
 # opensandbox-group/OpenSandbox
 
-⭐ 17,802 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
+⭐ 17,843 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/opensandbox-group/OpenSandbox) · [官网](https://open-sandbox.ai) · 组织维护 · 中文 README
 
 **AI agent 的隔离沙箱运行时：在自有基础设施上安全执行代码**
 

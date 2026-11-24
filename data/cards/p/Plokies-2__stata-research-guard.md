@@ -1,6 +1,6 @@
 # Plokies-2/stata-research-guard
 
-⭐ 4 · Stata · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Plokies-2/stata-research-guard) · 个人维护
+⭐ 4 · Stata · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Plokies-2/stata-research-guard) · 个人维护
 
 **为经济学研究者的 AI 辅助 Stata 编码提供指导与工具的 Codex 插件**
 

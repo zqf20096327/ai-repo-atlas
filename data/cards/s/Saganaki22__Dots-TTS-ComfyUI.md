@@ -1,6 +1,6 @@
 # Saganaki22/Dots-TTS-ComfyUI
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/Saganaki22/Dots-TTS-ComfyUI) · [官网](https://github.com/rednote-hilab/dots.tts) · 个人维护 · 中文 README
+⭐ 40 · Python · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/Saganaki22/Dots-TTS-ComfyUI) · [官网](https://github.com/rednote-hilab/dots.tts) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点：dots.tts 语音合成、克隆与 Whisper 转录**
 

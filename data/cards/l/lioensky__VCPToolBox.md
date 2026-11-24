@@ -1,6 +1,6 @@
 # lioensky/VCPToolBox
 
-⭐ 2,454 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/lioensky/VCPToolBox) · [官网](https://www.vcptoolbox.com) · 个人维护
+⭐ 2,455 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/lioensky/VCPToolBox) · [官网](https://www.vcptoolbox.com) · 个人维护
 
 **面向 AGI OS 探索的 AI 中间件，部署在模型 API 与前端之间**
 

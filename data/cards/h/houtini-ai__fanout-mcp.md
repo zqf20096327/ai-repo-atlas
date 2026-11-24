@@ -1,6 +1,6 @@
 # houtini-ai/fanout-mcp
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/houtini-ai/fanout-mcp) · [官网](https://houtini.com) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/houtini-ai/fanout-mcp) · [官网](https://houtini.com) · 组织维护
 
 **面向 AI 搜索时代的内容查询覆盖缺口分析 MCP 服务器**
 

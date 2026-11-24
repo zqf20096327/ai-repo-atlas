@@ -1,6 +1,6 @@
 # anqimouty907-byte/groq-cloud-batch-lpu-billing
 
-⭐ 68 · 推送 2026-11-06 · [GitHub](https://github.com/anqimouty907-byte/groq-cloud-batch-lpu-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 90 · 推送 2026-11-06 · [GitHub](https://github.com/anqimouty907-byte/groq-cloud-batch-lpu-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡为 Groq Cloud API 充值扣款的服务页**
 

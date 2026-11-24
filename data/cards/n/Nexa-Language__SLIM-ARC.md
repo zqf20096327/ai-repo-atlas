@@ -1,6 +1,6 @@
 # Nexa-Language/SLIM-ARC
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/Nexa-Language/SLIM-ARC) · [官网](https://slim.nexa-lang.com/) · 组织维护 · 中文 README
+⭐ 18 · Python · Apache-2.0 · 推送 2026-08-22 · [GitHub](https://github.com/Nexa-Language/SLIM-ARC) · [官网](https://slim.nexa-lang.com/) · 组织维护 · 中文 README
 
 **内存受限端侧设备的 MoE 推理运行时优化系统**
 

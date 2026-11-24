@@ -1,6 +1,6 @@
 # elixir-nx/scholar
 
-⭐ 499 · Elixir · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/elixir-nx/scholar) · 组织维护
+⭐ 499 · Elixir · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/elixir-nx/scholar) · 组织维护
 
 **Elixir 传统机器学习库：基于 Nx 的分类/回归/聚类算法**
 

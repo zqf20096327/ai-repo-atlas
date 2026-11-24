@@ -1,6 +1,6 @@
 # TTNAN/quark-skill
 
-⭐ 7 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/TTNAN/quark-skill) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/TTNAN/quark-skill) · 个人维护 · 中文 README
 
 **让智能体一句话搜索并转存夸克网盘的 Agent Skill**
 

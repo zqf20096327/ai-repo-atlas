@@ -1,6 +1,6 @@
 # poco-ai/agentero-dsh-plugin
 
-⭐ 249 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/poco-ai/agentero-dsh-plugin) · [官网](https://agentero.app) · 组织维护 · 中文 README
+⭐ 253 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/poco-ai/agentero-dsh-plugin) · [官网](https://agentero.app) · 组织维护 · 中文 README
 
 **给 DeepSeek Harness 的科研文献库插件：论文搜索、引用与笔记**
 

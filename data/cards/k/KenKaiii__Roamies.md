@@ -1,6 +1,6 @@
 # KenKaiii/Roamies
 
-⭐ 430 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/KenKaiii/Roamies) · [官网](https://www.kenkais.com) · 个人维护
+⭐ 453 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/KenKaiii/Roamies) · [官网](https://www.kenkais.com) · 个人维护
 
 **住在桌面上、会说话和指点的 AI 小伙伴应用**
 

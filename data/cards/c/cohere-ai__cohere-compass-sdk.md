@@ -1,6 +1,6 @@
 # cohere-ai/cohere-compass-sdk
 
-⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cohere-ai/cohere-compass-sdk) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cohere-ai/cohere-compass-sdk) · 组织维护
 
 **对接 Compass 文档解析与索引的 Python SDK**
 

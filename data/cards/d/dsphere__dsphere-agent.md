@@ -1,6 +1,6 @@
 # dsphere/dsphere-agent
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dsphere/dsphere-agent) · [官网](http://www.dsphereai.com) · 组织维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dsphere/dsphere-agent) · [官网](http://www.dsphereai.com) · 组织维护 · 中文 README
 
 **让 AI agent 通过 MCP 操作 DSphere 浏览器的本地连接器**
 

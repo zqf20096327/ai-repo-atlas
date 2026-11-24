@@ -1,6 +1,6 @@
 # BennyDaBall930/comfyui_hyperflow_int8_nodes
 
-⭐ 23 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/BennyDaBall930/comfyui_hyperflow_int8_nodes) · 个人维护
+⭐ 23 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/BennyDaBall930/comfyui_hyperflow_int8_nodes) · 个人维护
 
 **ComfyUI 加载 HyperFlow H3 Flash INT8 检查点的自定义节点包**
 

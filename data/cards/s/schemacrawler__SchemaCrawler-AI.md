@@ -1,6 +1,6 @@
 # schemacrawler/SchemaCrawler-AI
 
-⭐ 14 · Java · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/schemacrawler/SchemaCrawler-AI) · 组织维护
+⭐ 14 · Java · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/schemacrawler/SchemaCrawler-AI) · 组织维护
 
 **让 AI agent 通过 MCP 交互查询数据库 schema 元数据的 MCP 服务器**
 

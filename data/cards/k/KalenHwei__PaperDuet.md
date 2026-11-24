@@ -1,6 +1,6 @@
 # KalenHwei/PaperDuet
 
-⭐ 75 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/KalenHwei/PaperDuet) · [官网](https://paperduet.com) · 个人维护 · 中文 README
+⭐ 77 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/KalenHwei/PaperDuet) · [官网](https://paperduet.com) · 个人维护 · 中文 README
 
 **面向科研人员的本地 AI 论文翻译器，原文与译文镜像对照**
 

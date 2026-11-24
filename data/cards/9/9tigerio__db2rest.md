@@ -1,6 +1,6 @@
 # 9tigerio/db2rest
 
-⭐ 473 · Java · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/9tigerio/db2rest) · [官网](https://db2rest.com) · 组织维护
+⭐ 473 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/9tigerio/db2rest) · [官网](https://db2rest.com) · 组织维护
 
 **面向关系型数据库的无代码 REST DATA API 平台，可支撑 GenAI 应用**
 

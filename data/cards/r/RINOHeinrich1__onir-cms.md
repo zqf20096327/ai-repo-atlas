@@ -1,6 +1,6 @@
 # RINOHeinrich1/onir-cms
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RINOHeinrich1/onir-cms) · 组织维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RINOHeinrich1/onir-cms) · 组织维护
 
 **自托管 AI 销售线索对话 CMS：公开聊天链接收集并生成线索档案**
 

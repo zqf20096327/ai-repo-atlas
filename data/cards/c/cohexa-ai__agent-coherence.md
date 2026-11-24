@@ -1,6 +1,6 @@
 # cohexa-ai/agent-coherence
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/cohexa-ai/agent-coherence) · [官网](https://agent-coherence.dev/) · 组织维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/cohexa-ai/agent-coherence) · [官网](https://agent-coherence.dev/) · 组织维护
 
 **多智能体共享状态的缓存一致性协调库，防止静默覆盖**
 

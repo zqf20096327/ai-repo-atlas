@@ -1,6 +1,6 @@
 # sup3rus3r/obsidian-ai
 
-⭐ 81 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/sup3rus3r/obsidian-ai) · 个人维护
+⭐ 83 · Python · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/sup3rus3r/obsidian-ai) · 个人维护
 
 **可视化 AI Agent 构建与编排平台，自托管**
 

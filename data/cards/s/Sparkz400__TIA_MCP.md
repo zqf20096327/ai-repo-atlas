@@ -1,6 +1,6 @@
 # Sparkz400/TIA_MCP
 
-⭐ 3 · C# · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Sparkz400/TIA_MCP) · 个人维护
+⭐ 3 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sparkz400/TIA_MCP) · 个人维护
 
 **面向 MCP 客户端的 TIA Portal V21 离线工程工具服务器**
 

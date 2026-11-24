@@ -1,6 +1,6 @@
 # XiaoBinGan/hermes-purge
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/XiaoBinGan/hermes-purge) · [官网](https://github.com/XiaoBinGan/hermes-purge#readme) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/XiaoBinGan/hermes-purge) · [官网](https://github.com/XiaoBinGan/hermes-purge#readme) · 个人维护 · 中文 README
 
 **对 Hermes Agent 做三层安全机制清洗的补丁工具**
 

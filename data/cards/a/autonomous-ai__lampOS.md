@@ -1,6 +1,6 @@
 # autonomous-ai/lampOS
 
-⭐ 584 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/autonomous-ai/lampOS) · [官网](www.autonomous.ai/lamp) · 组织维护
+⭐ 586 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/autonomous-ai/lampOS) · [官网](www.autonomous.ai/lamp) · 组织维护
 
 **让 AI agent 控制实体机器人的开源操作系统**
 

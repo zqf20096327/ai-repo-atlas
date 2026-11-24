@@ -1,6 +1,6 @@
 # boxlite-ai/boxlite
 
-⭐ 2,683 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/boxlite-ai/boxlite) · [官网](https://boxlite.ai/) · 组织维护
+⭐ 2,684 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/boxlite-ai/boxlite) · [官网](https://boxlite.ai/) · 组织维护
 
 **为 AI agent 提供可嵌入的硬件隔离 micro-VM 沙箱运行时**
 

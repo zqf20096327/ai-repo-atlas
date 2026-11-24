@@ -1,6 +1,6 @@
 # JRufer/VoxCtrl
 
-⭐ 31 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JRufer/VoxCtrl) · [官网](https://jrufer.com/voxctrl/) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JRufer/VoxCtrl) · [官网](https://jrufer.com/voxctrl/) · 个人维护
 
 **本地离线语音转文字听写应用，可将语音路由到任意应用或服务**
 

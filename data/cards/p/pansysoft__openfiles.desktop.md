@@ -1,6 +1,6 @@
 # pansysoft/openfiles.desktop
 
-⭐ 54 · 推送 2026-11-08 · [GitHub](https://github.com/pansysoft/openfiles.desktop) · [官网](https://openfiles.pansysoft.app/) · 组织维护 · 中文 README
+⭐ 55 · 推送 2026-11-08 · [GitHub](https://github.com/pansysoft/openfiles.desktop) · [官网](https://openfiles.pansysoft.app/) · 组织维护 · 中文 README
 
 **面向 Windows/macOS 的 AI 文件工作区：浏览、编辑 350+ 格式并配合 AI 处理**
 

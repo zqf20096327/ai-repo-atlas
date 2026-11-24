@@ -1,6 +1,6 @@
 # chittios/chitti
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/chittios/chitti) · [官网](https://chittios.com) · 个人维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/chittios/chitti) · [官网](https://chittios.com) · 个人维护
 
 **以 AI agent 为基本执行单元的裸金属操作系统**
 

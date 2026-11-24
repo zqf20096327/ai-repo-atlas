@@ -1,6 +1,6 @@
 # ratschlab/DeepSpot2Cell
 
-⭐ 23 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ratschlab/DeepSpot2Cell) · [官网](https://www.biorxiv.org/content/10.1101/2025.09.23.678121v3) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ratschlab/DeepSpot2Cell) · [官网](https://www.biorxiv.org/content/10.1101/2025.09.23.678121v3) · 组织维护
 
 **从 H&E 病理图像预测虚拟单细胞空间转录组的深度学习模型**
 

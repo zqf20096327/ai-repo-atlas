@@ -1,10 +1,10 @@
 # D4Vinci/Scrapling
 
-⭐ 104,997 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
+⭐ 105,292 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/D4Vinci/Scrapling) · [官网](https://scrapling.readthedocs.io/en/latest/) · 个人维护 · 中文 README
 
-**面向开发者的 Python 网页抓取框架，含 MCP 服务器供 AI 调用**
+**供开发者使用的 Python 网页抓取框架，支持 AI agent 通过 MCP 调用**
 
-Python 网页抓取框架，将快速 HTTP 请求、隐身浏览器、解析提取与并发爬取整合到一个库中：支持静态页面抓取、JavaScript 渲染、Cloudflare Turnstile 处理、持久会话、代理轮换、自动重试、暂停/恢复，以及 JSON/JSONL/CSV/XML 导出。提供 Scrapy 风格的 Spider API、AutoThrottle 与 robots.txt 合规选项。可通过 Python、CLI 或 MCP 服务器与 Agent Skill 从 AI agent 调用，输出含整洁 Markdown。以 PyPI 包与 Docker 镜像分发。
+Scrapling 是一个将 HTTP 请求、隐身浏览器、页面解析与并发爬取整合到单一 Python 库中的网页抓取框架。核心能力包括：Fetcher 静态抓取与 StealthyFetcher 动态渲染、持久会话与代理轮换、被拦截请求的自动检测重试、AutoThrottle 自适应限速、暂停/恢复爬取、Scrapy 风格的 Spider API 与多种爬虫模板，以及 JSON/JSONL/CSV/XML 导出。除 Python 与 CLI 外，还提供 MCP server 和 Agent Skill，供 AI agent 浏览网页并提取数据。
 
 ## 筛选速览
 
@@ -27,21 +27,20 @@ Python 网页抓取框架，将快速 HTTP 请求、隐身浏览器、解析提�
 
 ## 能力要点
 
-- 集成 MCP 服务器与 Agent Skill，供 AI agent 浏览并提取数据
+- MCP server 与 Agent Skill 使 AI agent 可直接调用抓取能力
 - Scrapy 风格 Spider API：并发爬取、AutoThrottle、暂停/恢复、流式输出
-- StealthyFetcher 支持 Playwright Chromium、TLS 指纹伪装与反反爬
-- 内置 JSON/JSONL/CSV/XML 导出与整洁 Markdown 输出
+- StealthyFetcher 支持 Playwright Chromium，可处理 Cloudflare Turnstile/Interstitial
+- 自适应元素追踪与干净 Markdown 输出，内置 JSON/JSONL/CSV/XML 导出
 
 ## 适用场景
 
-- 抓取静态页面或渲染 JavaScript 的动态页面并提取字段
-- 构建整站并发爬虫并导出为 JSON/CSV 等格式
-- 让 AI agent 通过 MCP 抓取网页并转为 Markdown
-- 配合代理轮换与重试机制采集需要会话状态的网站
+- 从静态页面或 JavaScript 渲染页面抓取数据
+- 用 Spider 模板整站采集并导出为结构化文件
+- 让 AI agent 通过 MCP 浏览网页并提取数据
 
 ## 场景标签
 
-`网页抓取` `浏览器自动化` · 领域:效率与自动化
+`网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `8bb8bd2368bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `375684bc5f35` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # datamllab/OpenEBFM
 
-⭐ 411 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/datamllab/OpenEBFM) · 组织维护 · 中文 README
+⭐ 422 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/datamllab/OpenEBFM) · 组织维护 · 中文 README
 
 **能量基基础模型的训练与扩展开源代码库**
 

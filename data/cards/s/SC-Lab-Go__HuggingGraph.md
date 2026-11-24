@@ -1,6 +1,6 @@
 # SC-Lab-Go/HuggingGraph
 
-⭐ 14 · Python · 推送 2026-10-31 · [GitHub](https://github.com/SC-Lab-Go/HuggingGraph) · [官网](https://ai-supply-chain.github.io/) · 组织维护
+⭐ 15 · Python · 推送 2026-10-31 · [GitHub](https://github.com/SC-Lab-Go/HuggingGraph) · [官网](https://ai-supply-chain.github.io/) · 组织维护
 
 **LLM 生态供应链的有向异构图数据集与构建管线**
 

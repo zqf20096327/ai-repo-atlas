@@ -1,6 +1,6 @@
 # EvotecIT/IntelligenceX
 
-⭐ 11 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EvotecIT/IntelligenceX) · [官网](http://intelligencex.dev/) · 组织维护
+⭐ 11 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EvotecIT/IntelligenceX) · [官网](http://intelligencex.dev/) · 组织维护
 
 **.NET 零信任 AI 平台：PR 审查、桌面聊天与工具包**
 

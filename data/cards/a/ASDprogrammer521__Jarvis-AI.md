@@ -1,6 +1,6 @@
 # ASDprogrammer521/Jarvis-AI
 
-⭐ 6 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ASDprogrammer521/Jarvis-AI) · [官网](https://jarvis-by-asdcuber.netlify.app) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ASDprogrammer521/Jarvis-AI) · [官网](https://jarvis-by-asdcuber.netlify.app) · 个人维护
 
 **面向个人用户的 PC+手机语音 AI 助手，自动化桌面操作**
 

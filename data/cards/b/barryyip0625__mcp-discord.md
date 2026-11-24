@@ -1,6 +1,6 @@
 # barryyip0625/mcp-discord
 
-⭐ 113 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/barryyip0625/mcp-discord) · 个人维护
+⭐ 113 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/barryyip0625/mcp-discord) · 个人维护
 
 **让 AI 助手操作 Discord 的 MCP 服务器**
 

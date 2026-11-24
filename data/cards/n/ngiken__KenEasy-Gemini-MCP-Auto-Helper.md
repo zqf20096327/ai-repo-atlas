@@ -1,6 +1,6 @@
 # ngiken/KenEasy-Gemini-MCP-Auto-Helper
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper) · [官网](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper/releases/latest) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper) · [官网](https://github.com/ngiken/KenEasy-Gemini-MCP-Auto-Helper/releases/latest) · 个人维护 · 中文 README
 
 **为 Gemini 网页版自动放行 MCP 权限并连续点击的浏览器扩展**
 

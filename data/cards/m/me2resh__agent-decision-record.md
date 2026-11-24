@@ -1,6 +1,6 @@
 # me2resh/agent-decision-record
 
-⭐ 54 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/me2resh/agent-decision-record) · [官网](https://agdr.dev) · 个人维护
+⭐ 54 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/me2resh/agent-decision-record) · [官网](https://agdr.dev) · 个人维护
 
 **记录 AI 编码代理技术决策的开放标准（AgDR）**
 

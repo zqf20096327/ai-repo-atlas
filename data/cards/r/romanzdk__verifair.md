@@ -1,6 +1,6 @@
 # romanzdk/verifair
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/romanzdk/verifair) · [官网](https://romanzdk.github.io/verifair/) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/romanzdk/verifair) · [官网](https://romanzdk.github.io/verifair/) · 个人维护
 
 **自托管的编码 agent 变更报告人工评审平台**
 

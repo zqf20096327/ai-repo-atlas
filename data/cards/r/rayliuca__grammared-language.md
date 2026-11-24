@@ -1,6 +1,6 @@
 # rayliuca/grammared-language
 
-⭐ 40 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/rayliuca/grammared-language) · [官网](https://github.com/rayliuca/grammared-language) · 个人维护
+⭐ 41 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/rayliuca/grammared-language) · [官网](https://github.com/rayliuca/grammared-language) · 个人维护
 
 **把开源语法纠错模型接入 LanguageTool 的 gRPC 远程规则服务器**
 

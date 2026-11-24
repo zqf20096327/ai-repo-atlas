@@ -1,6 +1,6 @@
 # yiisoft/demo-summarizer
 
-⭐ 10 · PHP · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/yiisoft/demo-summarizer) · 组织维护
+⭐ 10 · PHP · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/yiisoft/demo-summarizer) · 组织维护
 
 **Yii3 文档摘要演示应用：上传文档并生成 LLM 摘要**
 

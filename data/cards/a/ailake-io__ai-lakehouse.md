@@ -1,6 +1,6 @@
 # ailake-io/ai-lakehouse
 
-⭐ 46 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/ailake-io/ai-lakehouse) · 组织维护
+⭐ 46 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/ailake-io/ai-lakehouse) · 组织维护
 
 **Rust 编写的向量化湖仓格式：单文件融合 Parquet 表数据、向量与 HNSW 索引**
 

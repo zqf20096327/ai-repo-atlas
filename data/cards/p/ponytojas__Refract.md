@@ -1,6 +1,6 @@
 # ponytojas/Refract
 
-⭐ 8 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ponytojas/Refract) · 个人维护
+⭐ 8 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ponytojas/Refract) · 个人维护
 
 **自托管 LaTeX 工作区，AI 助手以 diff 形式提议修改**
 

@@ -1,6 +1,6 @@
 # Mrkkew/Awesome-Loop-Transformers
 
-⭐ 20 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Mrkkew/Awesome-Loop-Transformers) · [官网](https://awesome-loop-transformers.bright-haven-2369.chatgpt.site) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Mrkkew/Awesome-Loop-Transformers) · [官网](https://awesome-loop-transformers.bright-haven-2369.chatgpt.site) · 个人维护 · 中文 README
 
 **循环 Transformer 论文研究图谱：247 篇论文的双语阅读指南**
 

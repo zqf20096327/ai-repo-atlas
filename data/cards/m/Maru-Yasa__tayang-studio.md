@@ -1,6 +1,6 @@
 # Maru-Yasa/tayang-studio
 
-⭐ 67 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/Maru-Yasa/tayang-studio) · [官网](https://studio.tayang.app) · 个人维护
+⭐ 69 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/Maru-Yasa/tayang-studio) · [官网](https://studio.tayang.app) · 个人维护
 
 **帮创作者用自有 AI agent 自动制作动态视频的桌面应用**
 

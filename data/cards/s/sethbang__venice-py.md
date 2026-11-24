@@ -1,6 +1,6 @@
 # sethbang/venice-py
 
-⭐ 15 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sethbang/venice-py) · [官网](https://venice-docs.sbang.dev/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sethbang/venice-py) · [官网](https://venice-docs.sbang.dev/) · 个人维护
 
 **Venice.ai 非官方 async Python SDK：聊天/图像/视频/音频一站式接入**
 

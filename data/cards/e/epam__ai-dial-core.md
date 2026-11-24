@@ -1,6 +1,6 @@
 # epam/ai-dial-core
 
-⭐ 663 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
+⭐ 663 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
 
 **为开发者统一代理各类聊天补全与嵌入模型的 API 网关**
 

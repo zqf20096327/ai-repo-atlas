@@ -1,6 +1,6 @@
 # MaximilianLindholz/weight-space-programming-medical
 
-⭐ 6 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MaximilianLindholz/weight-space-programming-medical) · [官网](https://arxiv.org/abs/2611.12066) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MaximilianLindholz/weight-space-programming-medical) · [官网](https://arxiv.org/abs/2611.12066) · 个人维护
 
 **论文复现仓库：LLM 直接写出医学影像分类器权重，免训练**
 

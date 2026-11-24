@@ -1,6 +1,6 @@
 # StarTrail-org/LEANN
 
-⭐ 13,808 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/StarTrail-org/LEANN) · [官网](https://arxiv.org/abs/2506.08276) · 组织维护 · 中文 README
+⭐ 13,811 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/StarTrail-org/LEANN) · [官网](https://arxiv.org/abs/2506.08276) · 组织维护 · 中文 README
 
 **本地 RAG 向量数据库：在个人设备上省 97% 存储做检索问答**
 

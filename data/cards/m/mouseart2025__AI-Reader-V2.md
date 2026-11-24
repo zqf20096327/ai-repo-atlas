@@ -1,6 +1,6 @@
 # mouseart2025/AI-Reader-V2
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/mouseart2025/AI-Reader-V2) · [官网](https://ai-reader.cc) · 个人维护 · 中文 README
+⭐ 22 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/mouseart2025/AI-Reader-V2) · [官网](https://ai-reader.cc) · 个人维护 · 中文 README
 
 **上传小说自动生成人物图谱、地图、时间线与百科的桌面应用**
 

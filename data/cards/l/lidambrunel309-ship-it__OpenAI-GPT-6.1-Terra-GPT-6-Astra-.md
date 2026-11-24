@@ -1,6 +1,6 @@
 # lidambrunel309-ship-it/OpenAI-GPT-6.1-Terra-GPT-6-Astra-
 
-⭐ 68 · 推送 2026-11-05 · [GitHub](https://github.com/lidambrunel309-ship-it/OpenAI-GPT-6.1-Terra-GPT-6-Astra-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 89 · 推送 2026-11-05 · [GitHub](https://github.com/lidambrunel309-ship-it/OpenAI-GPT-6.1-Terra-GPT-6-Astra-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡的 ChatGPT 订阅支付攻略（营销内容）**
 

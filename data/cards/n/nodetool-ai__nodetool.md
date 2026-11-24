@@ -1,6 +1,6 @@
 # nodetool-ai/nodetool
 
-⭐ 652 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/nodetool-ai/nodetool) · [官网](https://nodetool.ai/) · 组织维护 · 中文 README
+⭐ 655 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/nodetool-ai/nodetool) · [官网](https://nodetool.ai/) · 组织维护 · 中文 README
 
 **开源 AI 影片工作室：一句话到分镜、生成与剪辑成片**
 

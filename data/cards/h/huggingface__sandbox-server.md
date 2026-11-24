@@ -1,6 +1,6 @@
 # huggingface/sandbox-server
 
-⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/sandbox-server) · 组织维护
+⭐ 15 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/sandbox-server) · 组织维护
 
 **Hugging Face Jobs 沙箱内运行的静态代理服务器：命令执行、文件传输、端口转发**
 

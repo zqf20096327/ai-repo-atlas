@@ -1,6 +1,6 @@
 # ass039514-debug/manus--ai
 
-⭐ 186 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ass039514-debug/manus--ai) · 个人维护
+⭐ 182 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ass039514-debug/manus--ai) · 个人维护
 
 **自主 AI Agent：代用户执行代码与控制浏览器完成任务**
 

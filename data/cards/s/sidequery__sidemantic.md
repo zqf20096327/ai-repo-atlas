@@ -1,6 +1,6 @@
 # sidequery/sidemantic
 
-⭐ 143 · Python · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/sidequery/sidemantic) · [官网](https://sidemantic.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **开源语义层运行时：统一定义治理指标并多格式复用**
 
@@ -11,7 +11,7 @@ Sidemantic 是一个开源语义层运行时（universal metrics layer），允�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # TimeMachineLab/awesome-deepseek-harness-zh
 
-⭐ 26 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/TimeMachineLab/awesome-deepseek-harness-zh) · [官网](https://orbiorbi.com) · 组织维护 · 中文 README
+⭐ 26 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/TimeMachineLab/awesome-deepseek-harness-zh) · [官网](https://orbiorbi.com) · 组织维护 · 中文 README
 
 **DeepSeek Harness（dsh）中文使用指南与资源清单**
 

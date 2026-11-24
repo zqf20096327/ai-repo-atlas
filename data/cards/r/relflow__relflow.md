@@ -1,6 +1,6 @@
 # relflow/relflow
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/relflow/relflow) · [官网](http://relflow.ai) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/relflow/relflow) · [官网](http://relflow.ai) · 组织维护
 
 **在嵌套结构化数据上训练 PyTorch 模型的机器学习库**
 

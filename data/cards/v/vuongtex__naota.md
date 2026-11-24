@@ -1,6 +1,6 @@
 # vuongtex/naota
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/vuongtex/naota) · [官网](https://vuong.ai) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/vuongtex/naota) · [官网](https://vuong.ai) · 个人维护
 
 **本地/VPS 运行的个人 AI 助理，可切换模型大脑做业务自动化**
 

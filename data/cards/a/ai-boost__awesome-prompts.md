@@ -1,6 +1,6 @@
 # ai-boost/awesome-prompts
 
-⭐ 9,297 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ai-boost/awesome-prompts) · [官网](https://agentcraft.dev/en/prompts/agents/) · 组织维护 · 中文 README
+⭐ 9,303 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ai-boost/awesome-prompts) · [官网](https://agentcraft.dev/en/prompts/agents/) · 组织维护 · 中文 README
 
 **面向 LLM/Agent 使用者的提示词与论文策展清单**
 

@@ -1,6 +1,6 @@
 # Zyrexnn/Cybermes
 
-⭐ 1,059 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Zyrexnn/Cybermes) · 个人维护
+⭐ 1,062 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Zyrexnn/Cybermes) · 个人维护
 
 **面向授权渗透测试的 AI Agent 安全评估框架**
 

@@ -1,6 +1,6 @@
 # naxhq/NexQ
 
-⭐ 146 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/naxhq/NexQ) · [官网](https://naxhq.github.io/NexQ/) · 个人维护
+⭐ 150 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/naxhq/NexQ) · [官网](https://naxhq.github.io/NexQ/) · 个人维护
 
 **本地优先的开源 AI 会议助手与实时面试副驾驶（桌面端）**
 

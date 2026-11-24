@@ -1,6 +1,6 @@
 # AmazingDraw/AmazingDraw
 
-⭐ 113 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/AmazingDraw/AmazingDraw) · [官网](https://t.me/AmazingDraw) · 个人维护 · 中文 README
+⭐ 116 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/AmazingDraw/AmazingDraw) · [官网](https://t.me/AmazingDraw) · 个人维护 · 中文 README
 
 **本地 ComfyUI 抽卡引擎：一句话生成图片，内置场景/角色库**
 

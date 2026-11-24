@@ -1,6 +1,6 @@
 # noya21th/claude-source-leaked
 
-⭐ 137 · TypeScript · NOASSERTION · 推送 2026-03-31 · [GitHub](https://github.com/noya21th/claude-source-leaked) · 个人维护 · 中文 README
+⭐ 138 · TypeScript · NOASSERTION · 推送 2026-03-31 · [GitHub](https://github.com/noya21th/claude-source-leaked) · 个人维护 · 中文 README
 
 **Claude Code v2.1.88 源码逆向分析文档：架构、隐藏功能与成本优化**
 

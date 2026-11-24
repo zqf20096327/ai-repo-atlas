@@ -1,6 +1,6 @@
 # sjh9714/dsh-win32
 
-⭐ 170 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/sjh9714/dsh-win32) · [官网](https://www.npmjs.com/package/dsh-win32) · 个人维护 · 中文 README
+⭐ 170 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sjh9714/dsh-win32) · [官网](https://www.npmjs.com/package/dsh-win32) · 个人维护 · 中文 README
 
 **在原生 Windows 上诊断并修复 DeepSeek Harness（DSH）的 CLI 工具**
 

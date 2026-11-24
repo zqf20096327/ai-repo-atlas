@@ -1,6 +1,6 @@
 # xinrui-z/free-llm
 
-⭐ 27 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xinrui-z/free-llm) · [官网](https://free-llm-apis.pages.dev/) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xinrui-z/free-llm) · [官网](https://free-llm-apis.pages.dev/) · 个人维护 · 中文 README
 
 **免费 LLM API 提供商的实时状态监控仪表盘与清单**
 

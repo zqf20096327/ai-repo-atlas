@@ -1,6 +1,6 @@
 # mochow13/keen-code
 
-⭐ 92 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mochow13/keen-code) · [官网](https://mochow13.github.io/keen-code/) · 个人维护 · 中文 README
+⭐ 93 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mochow13/keen-code) · [官网](https://mochow13.github.io/keen-code/) · 个人维护 · 中文 README
 
 **终端 AI 编码 agent：多模型接入的命令行编程助手**
 

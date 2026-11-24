@@ -1,6 +1,6 @@
 # CalebYcj/codex-rehome
 
-⭐ 450 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/CalebYcj/codex-rehome) · 个人维护 · 中文 README
+⭐ 451 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/CalebYcj/codex-rehome) · 个人维护 · 中文 README
 
 **离线迁移 Codex Desktop 项目、对话与 Skills 到新电脑的桌面工具**
 

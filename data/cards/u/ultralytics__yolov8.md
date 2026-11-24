@@ -1,6 +1,6 @@
 # ultralytics/yolov8
 
-⭐ 72 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolov8) · [官网](https://platform.ultralytics.com/ultralytics/yolov8) · 组织维护
+⭐ 73 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolov8) · [官网](https://platform.ultralytics.com/ultralytics/yolov8) · 组织维护
 
 **YOLOv8 模型的发现页：检测、分割、分类、姿态、OBB 与跟踪**
 

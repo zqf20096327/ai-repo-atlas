@@ -1,6 +1,6 @@
 # heshengtao/ai-cut
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/heshengtao/ai-cut) · 个人维护 · 中文 README
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/heshengtao/ai-cut) · 个人维护 · 中文 README
 
 **桌面视频编辑工作站：让 AI agent 经 MCP 在时间线上剪辑**
 

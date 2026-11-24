@@ -1,6 +1,6 @@
 # NVIDIA/nsight-perf-sdk-for-ai
 
-⭐ 117 · CMake · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/NVIDIA/nsight-perf-sdk-for-ai) · [官网](https://developer.nvidia.com/nsight-perf-sdk) · 组织维护
+⭐ 118 · CMake · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/NVIDIA/nsight-perf-sdk-for-ai) · [官网](https://developer.nvidia.com/nsight-perf-sdk) · 组织维护
 
 **面向 AI 负载的 GPU/CUDA 常驻低开销性能追踪 SDK**
 

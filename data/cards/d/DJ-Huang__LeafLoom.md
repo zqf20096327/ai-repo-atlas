@@ -1,6 +1,6 @@
 # DJ-Huang/LeafLoom
 
-⭐ 6 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/DJ-Huang/LeafLoom) · [官网](https://dj-huang.github.io/LeafLoom/) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/DJ-Huang/LeafLoom) · [官网](https://dj-huang.github.io/LeafLoom/) · 个人维护 · 中文 README
 
 **本地优先的 Markdown/HTML 知识库与个人 Wiki，可接入 AI**
 

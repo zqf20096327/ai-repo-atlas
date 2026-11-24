@@ -1,6 +1,6 @@
 # TimeCopilot/foundationforecast
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/TimeCopilot/foundationforecast) · [官网](https://docs.timecopilot.dev/foundationforecast) · 组织维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/TimeCopilot/foundationforecast) · [官网](https://docs.timecopilot.dev/foundationforecast) · 组织维护
 
 **统一 API 调用多家时间序列基础模型的 Python 库**
 

@@ -1,6 +1,6 @@
 # TencentCloud/Octop
 
-⭐ 12,337 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TencentCloud/Octop) · [官网](https://octop.cloud) · 组织维护 · 中文 README
+⭐ 12,422 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TencentCloud/Octop) · [官网](https://octop.cloud) · 组织维护 · 中文 README
 
 **自托管多用户多 Agent AI 助手平台**
 

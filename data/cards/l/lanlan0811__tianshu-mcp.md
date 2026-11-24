@@ -1,6 +1,6 @@
 # lanlan0811/tianshu-mcp
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lanlan0811/tianshu-mcp) · [官网](https://lanaiw.top) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lanlan0811/tianshu-mcp) · [官网](https://lanaiw.top) · 个人维护 · 中文 README
 
 **编排外部 AI-Agent 干活并用运行时证据验收的 MCP server**
 

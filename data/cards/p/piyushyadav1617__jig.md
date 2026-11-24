@@ -1,6 +1,6 @@
 # piyushyadav1617/jig
 
-⭐ 10 · TypeScript · 推送 2026-10-11 · [GitHub](https://github.com/piyushyadav1617/jig) · [官网](https://piyushyadav1617.github.io/jig/) · 个人维护
+⭐ 10 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/piyushyadav1617/jig) · [官网](https://piyushyadav1617.github.io/jig/) · 个人维护
 
 **终端内的 AI 编码 agent：读取文件、改代码、执行命令**
 

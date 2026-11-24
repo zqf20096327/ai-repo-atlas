@@ -1,6 +1,6 @@
 # mazamaka/llm-latency-tracker
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mazamaka/llm-latency-tracker) · [官网](https://llmlatency.dev) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mazamaka/llm-latency-tracker) · [官网](https://llmlatency.dev) · 个人维护
 
 **多区域 AI API 延迟与可用性测量：开放数据+JSON API+MCP**
 

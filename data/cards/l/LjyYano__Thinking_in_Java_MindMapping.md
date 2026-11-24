@@ -1,10 +1,10 @@
 # LjyYano/Thinking_in_Java_MindMapping
 
-⭐ 1,693 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/LjyYano/Thinking_in_Java_MindMapping) · [官网](https://yano-nankai.notion.site/Yano-Space-ff42bde7acd1467eb3ae63dc0d4a9f8c) · 个人维护 · 中文 README
+⭐ 1,693 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/LjyYano/Thinking_in_Java_MindMapping) · [官网](https://yano-nankai.notion.site/Yano-Space-ff42bde7acd1467eb3ae63dc0d4a9f8c) · 个人维护 · 中文 README
 
-**个人技术知识库：Java/Agent 笔记与思维导图**
+**个人技术知识库：Java 后端与 AI/Agent 工程笔记及思维导图**
 
-始于 2017 年《Java 编程思想》思维导图、后发展为个人知识库的仓库：内容覆盖 Java/JVM、Redis、Spring、Netty 等后端技术笔记，Agent/MCP、RAG、模型评测等 AI 工程实践文章，以及读书、观影、游戏和生活记录。仓库内含 Netty.xmind 与 On Java.xmind 思维导图原文件，文章列表由 INDEX.md 自动生成并按主题分类；作者另维护拾遗周刊与面向 AI 编程助手的 skill-pack 项目。
+始于 2017 年《Java 编程思想》思维导图整理，现发展为覆盖 Java/JVM、Redis、Spring、Netty 等后端主题以及 Agent、MCP、RAG、模型评测等 AI 工程主题的个人知识库，同时收录读书、观影、游戏与生活记录。内容形式包括文章、思维导图（仓库内含 Netty.xmind、On Java.xmind 原文件）、按主题自动生成的 INDEX.md 导航，并延伸出拾遗周刊与面向 AI 编程助手的 skill-pack 项目。
 
 ## 筛选速览
 
@@ -16,24 +16,24 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 《Java 编程思想》思维导图及 Netty、On Java 原文件
-- Agent 原理、MCP 原理及 Java 开发指南等 AI 工程文章
-- INDEX.md 自动生成的按主题分类文章导航
-- 延伸项目 skill-pack：面向 Claude Code、Codex CLI 的可复用 Skills 集合
+- 提供《On Java》《Netty》等思维导图原文件（.xmind）
+- 覆盖 Agent 原理、MCP Java 开发指南、RAG、模型评测等 AI 工程主题
+- 文章按主题自动生成 INDEX.md 导航
+- 延伸项目拾遗周刊支持 RSS 订阅
 
 ## 适用场景
 
-- 查阅 JVM、Redis、Netty 等后端技术原理笔记
-- 学习 Agent 与 MCP 的 Java 开发实践
-- 下载思维导图原文件辅助技术学习
+- 查找 Java/JVM、Redis、Netty 等后端技术的原理笔记
+- 阅读 Agent、MCP、RAG 相关的工程实践文章
+- 获取《On Java》《Netty》思维导图文件
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e102156dbf75` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0b8b8f918aec` · [字段定义](../../DATASET.md)*

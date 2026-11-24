@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-Code-Plugins
 
-⭐ 26 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Code-Plugins) · 组织维护 · 中文 README
+⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Code-Plugins) · 组织维护 · 中文 README
 
 **MiniMax Code 的社区插件注册表与贡献工具链**
 

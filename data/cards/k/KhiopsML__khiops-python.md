@@ -1,6 +1,6 @@
 # KhiopsML/khiops-python
 
-⭐ 19 · Python · BSD-3-Clause-Clear · 推送 2026-11-20 · [GitHub](https://github.com/KhiopsML/khiops-python) · [官网](https://khiops.org) · 组织维护
+⭐ 19 · Python · BSD-3-Clause-Clear · 推送 2026-11-23 · [GitHub](https://github.com/KhiopsML/khiops-python) · [官网](https://khiops.org) · 组织维护
 
 **Khiops AutoML 套件的 Python 接口库**
 

@@ -1,6 +1,6 @@
 # Dinesh210805/aura-android-use
 
-⭐ 27 · Kotlin · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Dinesh210805/aura-android-use) · [官网](https://aura-android-use.vercel.app) · 个人维护
+⭐ 27 · Kotlin · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Dinesh210805/aura-android-use) · [官网](https://aura-android-use.vercel.app) · 个人维护
 
 **让 AI agent 直接操控 Android 手机的端侧助手与 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # georgeguimaraes/hallmark
 
-⭐ 19 · Elixir · MIT · 推送 2026-11-09 · [GitHub](https://github.com/georgeguimaraes/hallmark) · 个人维护
+⭐ 19 · Elixir · MIT · 推送 2026-11-23 · [GitHub](https://github.com/georgeguimaraes/hallmark) · 个人维护
 
 **Elixir 幻觉检测库：本地运行 HHEM 模型评估文本一致性**
 

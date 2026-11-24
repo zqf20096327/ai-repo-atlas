@@ -1,6 +1,6 @@
 # jyjeanne/crustly
 
-⭐ 27 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/jyjeanne/crustly) · [官网](https://crates.io/crates/crustly) · 个人维护
+⭐ 27 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/jyjeanne/crustly) · [官网](https://crates.io/crates/crustly) · 个人维护
 
 **终端 AI 编程助手：Rust 实现，支持本地 LLM 离线运行**
 

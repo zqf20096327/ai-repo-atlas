@@ -1,6 +1,6 @@
 # utkuozdemir/nvidia_gpu_exporter
 
-⭐ 1,600 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/utkuozdemir/nvidia_gpu_exporter) · 个人维护
+⭐ 1,600 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/utkuozdemir/nvidia_gpu_exporter) · 个人维护
 
 **NVIDIA GPU 的 Prometheus 监控导出器，读取 NVML 或 nvidia-smi**
 

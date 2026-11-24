@@ -1,6 +1,6 @@
 # sciai-lab/structures25
 
-⭐ 25 · Python · LGPL-3.0 · 推送 2026-02-02 · [GitHub](https://github.com/sciai-lab/structures25) · [官网](https://sciai-lab.github.io/structures25/) · 组织维护
+⭐ 26 · Python · LGPL-3.0 · 推送 2026-02-02 · [GitHub](https://github.com/sciai-lab/structures25) · [官网](https://sciai-lab.github.io/structures25/) · 组织维护
 
 **机器学习无轨道 DFT：用等变图神经网络学习动能泛函**
 

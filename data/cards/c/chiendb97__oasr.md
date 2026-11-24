@@ -1,6 +1,6 @@
 # chiendb97/oasr
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/chiendb97/oasr) · [官网](https://chiendb97.github.io/oasr/) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/chiendb97/oasr) · [官网](https://chiendb97.github.io/oasr/) · 个人维护
 
 **NVIDIA GPU 上的 ASR 推理与服务引擎：统一托管多架构语音识别模型**
 

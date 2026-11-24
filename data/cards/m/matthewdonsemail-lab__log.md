@@ -1,6 +1,6 @@
 # matthewdonsemail-lab/log
 
-⭐ 92 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/matthewdonsemail-lab/log) · [官网](https://log.listeningkit.com) · 组织维护
+⭐ 94 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/matthewdonsemail-lab/log) · [官网](https://log.listeningkit.com) · 组织维护
 
 **让 AI agent 从命令行/MCP 接管社媒账号的收发与回复工具**
 

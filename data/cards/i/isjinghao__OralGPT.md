@@ -1,6 +1,6 @@
 # isjinghao/OralGPT
 
-⭐ 111 · Python · 推送 2026-11-22 · [GitHub](https://github.com/isjinghao/OralGPT) · [官网](https://arxiv.org/abs/2509.09254) · 组织维护 · 中文 README
+⭐ 113 · Python · 推送 2026-11-22 · [GitHub](https://github.com/isjinghao/OralGPT) · [官网](https://arxiv.org/abs/2509.09254) · 组织维护 · 中文 README
 
 **牙科数字医学的多模态模型与评测基准家族（OralGPT）**
 

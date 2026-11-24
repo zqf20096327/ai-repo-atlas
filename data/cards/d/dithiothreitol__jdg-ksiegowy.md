@@ -1,6 +1,6 @@
 # dithiothreitol/jdg-ksiegowy
 
-⭐ 14 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/dithiothreitol/jdg-ksiegowy) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dithiothreitol/jdg-ksiegowy) · 个人维护
 
 **面向波兰个体户（JDG）的开源 AI 记账助手**
 

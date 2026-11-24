@@ -1,6 +1,6 @@
 # HA2345567/awesome-autonomus-ai-agents
 
-⭐ 15 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/HA2345567/awesome-autonomus-ai-agents) · [官网](https://github.com/HA2345567/awesome-autonomus-ai-agents) · 个人维护
+⭐ 15 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/HA2345567/awesome-autonomus-ai-agents) · [官网](https://github.com/HA2345567/awesome-autonomus-ai-agents) · 个人维护
 
 **自主 AI Agent 生态策展清单：380+ 框架、协议与设计模式**
 

@@ -1,6 +1,6 @@
 # uhub/awesome-agent-skills
 
-⭐ 10 · 推送 2026-11-11 · [GitHub](https://github.com/uhub/awesome-agent-skills) · 个人维护 · 中文 README
+⭐ 11 · 推送 2026-11-11 · [GitHub](https://github.com/uhub/awesome-agent-skills) · 个人维护 · 中文 README
 
 **Agent Skills 生态的精选资源清单，供开发者检索框架与技能**
 

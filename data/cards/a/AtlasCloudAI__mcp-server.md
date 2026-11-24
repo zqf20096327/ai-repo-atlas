@@ -1,6 +1,6 @@
 # AtlasCloudAI/mcp-server
 
-⭐ 17 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/AtlasCloudAI/mcp-server) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
+⭐ 17 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/AtlasCloudAI/mcp-server) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
 
 **让 AI 编程助手通过 MCP 调用 Atlas Cloud 510+ 生成模型的服务器**
 

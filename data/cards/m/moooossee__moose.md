@@ -1,6 +1,6 @@
 # moooossee/moose
 
-⭐ 62 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/moooossee/moose) · [官网](https://moooossee.github.io/) · 个人维护
+⭐ 62 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/moooossee/moose) · [官网](https://moooossee.github.io/) · 个人维护
 
 **Linux 原生桌面 AI 聊天应用：本地模型与云端对话**
 

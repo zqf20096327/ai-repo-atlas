@@ -1,6 +1,6 @@
 # TandemLLM/TandemEngine
 
-⭐ 84 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/TandemLLM/TandemEngine) · [官网](https://tandemengine.0xbakeer.com) · 个人维护
+⭐ 84 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/TandemLLM/TandemEngine) · [官网](https://tandemengine.0xbakeer.com) · 个人维护
 
 **在 NVIDIA DGX Spark 上本地运行大模型的推理引擎**
 

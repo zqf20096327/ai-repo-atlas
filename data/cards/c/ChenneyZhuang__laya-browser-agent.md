@@ -1,6 +1,6 @@
 # ChenneyZhuang/laya-browser-agent
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/ChenneyZhuang/laya-browser-agent) · [官网](https://github.com/ChenneyZhuang/laya-browser-agent#readme) · 个人维护 · 中文 README
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/ChenneyZhuang/laya-browser-agent) · [官网](https://github.com/ChenneyZhuang/laya-browser-agent#readme) · 个人维护 · 中文 README
 
 **本地运行 Laya 决策模型驱动浏览器 agent 的中立接入框架**
 

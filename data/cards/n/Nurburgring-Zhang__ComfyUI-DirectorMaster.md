@@ -1,6 +1,6 @@
 # Nurburgring-Zhang/ComfyUI-DirectorMaster
 
-⭐ 14 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Nurburgring-Zhang/ComfyUI-DirectorMaster) · 个人维护 · 中文 README
+⭐ 15 · Python · 推送 2026-09-04 · [GitHub](https://github.com/Nurburgring-Zhang/ComfyUI-DirectorMaster) · 个人维护 · 中文 README
 
 **给影视创作者的 ComfyUI 节点包：创意到分镜与视频提示词**
 

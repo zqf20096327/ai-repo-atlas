@@ -1,6 +1,6 @@
 # alvarolorentedev/opencode-mobile
 
-⭐ 373 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/alvarolorentedev/opencode-mobile) · [官网](https://getopencode.app/) · 个人维护
+⭐ 374 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/alvarolorentedev/opencode-mobile) · [官网](https://getopencode.app/) · 个人维护
 
 **OpenCode 服务器的移动端客户端，远程管理 AI 编码会话**
 

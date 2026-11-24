@@ -1,6 +1,6 @@
 # myYangyunfan/dsh_desktop
 
-⭐ 758 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/myYangyunfan/dsh_desktop) · [官网](https://github.com/myYangyunfan/dsh_desktop/releases) · 个人维护 · 中文 README
+⭐ 761 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/myYangyunfan/dsh_desktop) · [官网](https://github.com/myYangyunfan/dsh_desktop/releases) · 个人维护 · 中文 README
 
 **DSH 插件整合桌面客户端：免装环境一键启动**
 

@@ -1,6 +1,6 @@
 # huggingface/hf-hub
 
-⭐ 348 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/huggingface/hf-hub) · 组织维护
+⭐ 347 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/huggingface/hf-hub) · 组织维护
 
 **面向 Rust 开发者的 Hugging Face Hub API 客户端库**
 

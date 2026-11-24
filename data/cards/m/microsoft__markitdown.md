@@ -1,6 +1,6 @@
 # microsoft/markitdown
 
-⭐ 197,854 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
+⭐ 198,097 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/markitdown) · 组织维护
 
 **将各类文件与 Office 文档转换为 Markdown 的 Python 工具**
 

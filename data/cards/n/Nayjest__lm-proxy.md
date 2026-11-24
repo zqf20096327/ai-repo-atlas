@@ -1,6 +1,6 @@
 # Nayjest/lm-proxy
 
-⭐ 161 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nayjest/lm-proxy) · 个人维护
+⭐ 161 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nayjest/lm-proxy) · 个人维护
 
 **面向开发者的 OpenAI 兼容多提供商 LLM 代理网关**
 

@@ -1,6 +1,6 @@
 # Mohsintl/omadeck
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Mohsintl/omadeck) · [官网](https://mohsintl.is-a.dev/omadeck/) · 个人维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Mohsintl/omadeck) · [官网](https://mohsintl.is-a.dev/omadeck/) · 个人维护
 
 **手机遥控 Linux 桌面的 PWA 遥控盘，带可选 AI 语音命令**
 

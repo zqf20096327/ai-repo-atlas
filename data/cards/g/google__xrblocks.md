@@ -1,6 +1,6 @@
 # google/xrblocks
 
-⭐ 520 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google/xrblocks) · [官网](https://xrblocks.github.io) · 组织维护
+⭐ 522 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/google/xrblocks) · [官网](https://xrblocks.github.io) · 组织维护
 
 **面向开发者的 WebXR + AI 原型库：快速搭建沉浸式 AI 体验**
 

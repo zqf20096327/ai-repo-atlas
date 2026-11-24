@@ -1,6 +1,6 @@
 # hleliofficiel/ExaAiAgent
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/hleliofficiel/ExaAiAgent) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hleliofficiel/ExaAiAgent) · 个人维护
 
 **AI 驱动的渗透测试 agent 框架，多 agent 协作与 Docker 沙箱执行**
 

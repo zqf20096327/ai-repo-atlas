@@ -1,6 +1,6 @@
 # microsoft/voice-agent
 
-⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/voice-agent) · [官网](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/prompt-voice-agent?pivots=portal) · 组织维护
+⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/voice-agent) · [官网](https://learn.microsoft.com/en-us/azure/foundry/agents/quickstarts/prompt-voice-agent?pivots=portal) · 组织维护
 
 **开发者在 Foundry Agent Service 上构建语音 agent 的社区中心**
 

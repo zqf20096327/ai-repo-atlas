@@ -1,6 +1,6 @@
 # shyftlabs/continuum
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/shyftlabs/continuum) · [官网](https://docs.continuum.shyftlabs.io/) · 组织维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/shyftlabs/continuum) · [官网](https://docs.continuum.shyftlabs.io/) · 组织维护
 
 **面向开发者的企业级 AI agent 构建与编排运行时框架**
 

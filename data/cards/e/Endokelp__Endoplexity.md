@@ -1,6 +1,6 @@
 # Endokelp/Endoplexity
 
-⭐ 775 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Endokelp/Endoplexity) · 个人维护
+⭐ 777 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Endokelp/Endoplexity) · 个人维护
 
 **用已有 Claude/Cursor 订阅驱动自有 Chrome 的浏览器 agent**
 

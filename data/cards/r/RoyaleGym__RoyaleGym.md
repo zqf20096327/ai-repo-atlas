@@ -1,6 +1,6 @@
 # RoyaleGym/RoyaleGym
 
-⭐ 22 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RoyaleGym/RoyaleGym) · [官网](https://royalegym.github.io/RoyaleGym/) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RoyaleGym/RoyaleGym) · [官网](https://royalegym.github.io/RoyaleGym/) · 个人维护
 
 **用 Python 训练 Clash Royale 机器人对战的 RL 环境库**
 

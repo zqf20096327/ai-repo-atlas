@@ -1,6 +1,6 @@
 # ultramancode/spring-ai-privacy-guardrails
 
-⭐ 24 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ultramancode/spring-ai-privacy-guardrails) · [官网](https://ultramancode.github.io/spring-ai-privacy-guardrails/) · 个人维护
+⭐ 25 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ultramancode/spring-ai-privacy-guardrails) · [官网](https://ultramancode.github.io/spring-ai-privacy-guardrails/) · 个人维护
 
 **给 Spring AI 应用的隐私与安全护栏库：PII 令牌化与工具授权**
 

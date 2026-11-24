@@ -1,6 +1,6 @@
 # cyruspastelero/switchyard
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cyruspastelero/switchyard) · 个人维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cyruspastelero/switchyard) · 个人维护
 
 **多 Claude Code agent 的实时监控面板：状态、成本、指令注入**
 

@@ -1,6 +1,6 @@
 # lacs-project/sysknife
 
-⭐ 329 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lacs-project/sysknife) · [官网](https://lacs-project.github.io/sysknife/) · 组织维护
+⭐ 338 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lacs-project/sysknife) · [官网](https://lacs-project.github.io/sysknife/) · 组织维护
 
 **审批门控的 Linux 管理 MCP 服务器：AI 规划、人类批准、守护进程执行**
 

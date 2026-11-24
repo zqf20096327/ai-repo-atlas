@@ -1,6 +1,6 @@
 # takashiishida/arxiv-to-prompt
 
-⭐ 174 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/takashiishida/arxiv-to-prompt) · 个人维护
+⭐ 174 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/takashiishida/arxiv-to-prompt) · 个人维护
 
 **把 arXiv 论文转成单一 LaTeX 源供向 LLM 提问的命令行工具**
 

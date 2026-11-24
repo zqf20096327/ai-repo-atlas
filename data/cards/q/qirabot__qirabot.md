@@ -1,6 +1,6 @@
 # qirabot/qirabot
 
-⭐ 20 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/qirabot/qirabot) · [官网](https://qirabot.com) · 组织维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/qirabot/qirabot) · [官网](https://qirabot.com) · 组织维护 · 中文 README
 
 **用多模态 AI 视觉驱动的跨平台 GUI 自动化工具**
 

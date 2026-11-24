@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope
 
-⭐ 36,481 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
+⭐ 36,560 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agentscope-ai/agentscope) · [官网](https://docs.agentscope.io/) · 组织维护 · 中文 README
 
 **构建与运行多模态 LLM agent 的开发者框架及配套服务**
 

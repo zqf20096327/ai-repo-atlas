@@ -1,6 +1,6 @@
 # luA822/ai--manus
 
-⭐ 192 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/luA822/ai--manus) · 个人维护
+⭐ 188 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/luA822/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码、控制浏览器完成日常任务**
 

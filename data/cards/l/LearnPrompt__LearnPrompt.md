@@ -1,6 +1,6 @@
 # LearnPrompt/LearnPrompt
 
-⭐ 2,756 · MDX · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/LearnPrompt/LearnPrompt) · [官网](https://www.learnprompt.pro/) · 个人维护 · 中文 README
+⭐ 2,757 · MDX · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/LearnPrompt/LearnPrompt) · [官网](https://www.learnprompt.pro/) · 个人维护 · 中文 README
 
 **永久免费开源的中文 AI 实战教程站（LearnPrompt）**
 

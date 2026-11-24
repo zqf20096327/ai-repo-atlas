@@ -1,6 +1,6 @@
 # abysschaos/kaggle-moss-lora-pipeline
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/abysschaos/kaggle-moss-lora-pipeline) · [官网](https://github.com/abysschaos/kaggle-moss-lora-pipeline/releases/latest) · 个人维护 · 中文 README
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/abysschaos/kaggle-moss-lora-pipeline) · [官网](https://github.com/abysschaos/kaggle-moss-lora-pipeline/releases/latest) · 个人维护 · 中文 README
 
 **消费级显卡与 Kaggle 双轨训练 MOSS-Image LoRA 的管线**
 

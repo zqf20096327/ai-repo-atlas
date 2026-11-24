@@ -1,6 +1,6 @@
 # mlcommons/training
 
-⭐ 1,779 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlcommons/training) · [官网](https://mlcommons.org/en/groups/training) · 组织维护
+⭐ 1,780 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/mlcommons/training) · [官网](https://mlcommons.org/en/groups/training) · 组织维护
 
 **MLPerf Training 基准测试的参考实现集合**
 

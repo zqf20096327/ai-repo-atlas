@@ -1,6 +1,6 @@
 # el-frontend/video-wizard
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/el-frontend/video-wizard) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/el-frontend/video-wizard) · 组织维护
 
 **自托管短视频 AI 工具箱：找爆款片段、Whisper 字幕、渲染竖版视频**
 

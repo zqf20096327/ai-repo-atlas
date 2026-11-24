@@ -1,6 +1,6 @@
 # AltairaLabs/PromptKit
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/AltairaLabs/PromptKit) · [官网](http://promptkit.altairalabs.ai/) · 组织维护
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AltairaLabs/PromptKit) · [官网](http://promptkit.altairalabs.ai/) · 组织维护
 
 **面向开发者的 Go 语言 LLM 应用运行时与 SDK**
 

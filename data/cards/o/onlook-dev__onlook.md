@@ -1,6 +1,6 @@
 # onlook-dev/onlook
 
-⭐ 27,767 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/onlook-dev/onlook) · [官网](https://onlook.com) · 组织维护 · 中文 README
+⭐ 27,839 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/onlook-dev/onlook) · [官网](https://onlook.com) · 组织维护 · 中文 README
 
 **面向设计师的可视化代码设计工具：在真实代码上用 AI 编辑界面**
 

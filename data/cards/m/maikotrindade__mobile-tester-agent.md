@@ -1,6 +1,6 @@
 # maikotrindade/mobile-tester-agent
 
-⭐ 103 · Kotlin · MIT · 推送 2026-05-28 · [GitHub](https://github.com/maikotrindade/mobile-tester-agent) · [官网](https://maikotrindade.com/ai/kotlin/android/development/agents/2025/08/19/building-agentic-ai-mobile-tester-koog-kotlin.html) · 个人维护
+⭐ 108 · Kotlin · MIT · 推送 2026-05-28 · [GitHub](https://github.com/maikotrindade/mobile-tester-agent) · [官网](https://maikotrindade.com/ai/kotlin/android/development/agents/2025/08/19/building-agentic-ai-mobile-tester-koog-kotlin.html) · 个人维护
 
 **用自然语言驱动 Android/iOS 真机自动测试的 LLM agent 工具**
 

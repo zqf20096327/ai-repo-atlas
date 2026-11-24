@@ -1,6 +1,6 @@
 # leeex1/Quillan-Ronin
 
-⭐ 30 · HTML · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/leeex1/Quillan-Ronin) · 个人维护
+⭐ 30 · HTML · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/leeex1/Quillan-Ronin) · 个人维护
 
 **34 专家议会制的 1.58-bit 三值文本生成模型（520M–1.16B）**
 

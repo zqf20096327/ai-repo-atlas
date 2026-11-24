@@ -1,6 +1,6 @@
 # tiptreesystems/lacuna-research-mcp
 
-⭐ 77 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tiptreesystems/lacuna-research-mcp) · [官网](https://lacuna.tiptreesystems.com) · 组织维护
+⭐ 80 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tiptreesystems/lacuna-research-mcp) · [官网](https://lacuna.tiptreesystems.com) · 组织维护
 
 **面向机器学习研究者的 MCP 服务器：检索 Lacuna 科研知识图谱**
 

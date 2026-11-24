@@ -1,6 +1,6 @@
 # CacinieP/TeXada-Studio-with-agentskills
 
-⭐ 54 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CacinieP/TeXada-Studio-with-agentskills) · [官网](https://github.com/CacinieP/TeXada-Studio-with-agentskills/blob/main/docs/local-studio.md) · 个人维护 · 中文 README
+⭐ 61 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CacinieP/TeXada-Studio-with-agentskills) · [官网](https://github.com/CacinieP/TeXada-Studio-with-agentskills/blob/main/docs/local-studio.md) · 个人维护 · 中文 README
 
 **本地 LaTeX 工作台：双栏编辑、图片识别与保真公式修复审阅**
 

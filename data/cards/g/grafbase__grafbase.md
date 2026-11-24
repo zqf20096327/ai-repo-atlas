@@ -1,6 +1,6 @@
 # grafbase/grafbase
 
-⭐ 1,226 · Rust · MPL-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/grafbase/grafbase) · [官网](https://the-guild.dev/graphql/hive/blog/acquired-grafbase) · 组织维护
+⭐ 1,227 · Rust · MPL-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/grafbase/grafbase) · [官网](https://the-guild.dev/graphql/hive/blog/acquired-grafbase) · 组织维护
 
 **GraphQL Federation 网关，已被收购并进入维护模式**
 

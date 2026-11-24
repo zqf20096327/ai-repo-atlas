@@ -1,6 +1,6 @@
 # microsoft/PowerApps-Samples
 
-⭐ 2,009 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/PowerApps-Samples) · [官网](https://docs.microsoft.com/powerapps) · 组织维护
+⭐ 2,008 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/PowerApps-Samples) · [官网](https://docs.microsoft.com/powerapps) · 组织维护
 
 **微软官方 Power Apps 平台示例代码集合，覆盖 Dataverse/PCF/AI Builder 等**
 

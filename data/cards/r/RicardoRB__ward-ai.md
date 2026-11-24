@@ -1,6 +1,6 @@
 # RicardoRB/ward-ai
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/RicardoRB/ward-ai) · [官网](https://ricardorb.github.io/ward-ai/) · 个人维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/RicardoRB/ward-ai) · [官网](https://ricardorb.github.io/ward-ai/) · 个人维护
 
 **给 AI 编程代理加质量闸门：检查每次编辑并让代理自行修复**
 

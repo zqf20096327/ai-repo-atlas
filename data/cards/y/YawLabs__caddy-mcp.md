@@ -1,6 +1,6 @@
 # YawLabs/caddy-mcp
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/YawLabs/caddy-mcp) · [官网](https://yaw.sh/mcp-servers/caddy-mcp/) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/YawLabs/caddy-mcp) · [官网](https://yaw.sh/mcp-servers/caddy-mcp/) · 组织维护
 
 **通过 MCP 客户端管理 Caddy Web 服务器的 MCP 服务器**
 

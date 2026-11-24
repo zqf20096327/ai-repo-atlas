@@ -1,6 +1,6 @@
 # microsoft/agora-workbench
 
-⭐ 10 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/agora-workbench) · [官网](https://microsoft.github.io/agora-workbench) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/agora-workbench) · [官网](https://microsoft.github.io/agora-workbench) · 组织维护
 
 **给开发者的 MCP 服务器构建工具：把 Python 工具封装为沙箱执行服务**
 

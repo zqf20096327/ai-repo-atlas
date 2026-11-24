@@ -1,6 +1,6 @@
 # codewiththiha/mareader
 
-⭐ 42 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/codewiththiha/mareader) · 个人维护
+⭐ 120 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/codewiththiha/mareader) · 个人维护
 
 **跨平台 PDF/EPUB 阅读器：四窗对照、批注、离线朗读与 AI 辅助**
 

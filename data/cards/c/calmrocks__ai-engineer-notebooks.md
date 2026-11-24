@@ -1,6 +1,6 @@
 # calmrocks/ai-engineer-notebooks
 
-⭐ 757 · Jupyter Notebook · MIT · 推送 2026-11-07 · [GitHub](https://github.com/calmrocks/ai-engineer-notebooks) · [官网](https://www.calm.rocks/resources/career-development/transition-fde-ai-engineer/) · 个人维护
+⭐ 758 · Jupyter Notebook · MIT · 推送 2026-11-07 · [GitHub](https://github.com/calmrocks/ai-engineer-notebooks) · [官网](https://www.calm.rocks/resources/career-development/transition-fde-ai-engineer/) · 个人维护
 
 **面向 AI Engineer/FDE 的动手 Colab 笔记本教程集**
 

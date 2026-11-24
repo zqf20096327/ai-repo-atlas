@@ -1,6 +1,6 @@
 # microsoft/cates
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/microsoft/cates) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/microsoft/cates) · 组织维护
 
 **编码智能体配置的静态评分器：检测 token 效率与安全合规**
 

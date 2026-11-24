@@ -1,6 +1,6 @@
 # nla-group/rote
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nla-group/rote) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nla-group/rote) · 组织维护
 
 **复杂度受控符号序列的学习与外推复现基准**
 

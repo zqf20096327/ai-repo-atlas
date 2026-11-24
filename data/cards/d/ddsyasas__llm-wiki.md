@@ -1,6 +1,6 @@
 # ddsyasas/llm-wiki
 
-⭐ 75 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/ddsyasas/llm-wiki) · [官网](https://llmwiki.cc) · 个人维护
+⭐ 76 · TypeScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/ddsyasas/llm-wiki) · [官网](https://llmwiki.cc) · 个人维护
 
 **由 LLM agent 维护的个人维基知识库：投喂资料自动生成互链笔记**
 

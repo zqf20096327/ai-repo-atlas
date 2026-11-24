@@ -1,6 +1,6 @@
 # opengeos/qgis-samgeo-plugin
 
-⭐ 130 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/opengeos/qgis-samgeo-plugin) · [官网](https://samgeo.gishub.org) · 个人维护
+⭐ 130 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opengeos/qgis-samgeo-plugin) · [官网](https://samgeo.gishub.org) · 个人维护
 
 **QGIS 插件：在 GIS 中用 SAM 做遥感图像分割**
 

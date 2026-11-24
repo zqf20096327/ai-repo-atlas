@@ -1,6 +1,6 @@
 # eremes81/game-design-ai-practice-zh-hans
 
-⭐ 18 · HTML · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [官网](https://eremes81.github.io/game-design-ai-practice-zh-hans/) · 个人维护 · 中文 README
+⭐ 19 · HTML · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/eremes81/game-design-ai-practice-zh-hans) · [官网](https://eremes81.github.io/game-design-ai-practice-zh-hans/) · 个人维护 · 中文 README
 
 **免费电子书：游戏策划实务中活用 Claude Code 的实战手册**
 

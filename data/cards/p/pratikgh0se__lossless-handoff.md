@@ -1,6 +1,6 @@
 # pratikgh0se/lossless-handoff
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pratikgh0se/lossless-handoff) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pratikgh0se/lossless-handoff) · 个人维护
 
 **为 Claude Code 用户在自动压缩前保存无损上下文交接的 hooks**
 

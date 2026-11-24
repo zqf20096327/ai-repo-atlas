@@ -1,6 +1,6 @@
 # lmxhappy/step-by-step-learning-ai
 
-⭐ 45 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lmxhappy/step-by-step-learning-ai) · 个人维护 · 中文 README
+⭐ 45 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lmxhappy/step-by-step-learning-ai) · 个人维护 · 中文 README
 
 **工业搜广推论文精读笔记库：300+ 篇中英双语笔记**
 

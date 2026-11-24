@@ -1,6 +1,6 @@
 # anywhere-labs/Agents-Anywhere
 
-⭐ 3,681 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/anywhere-labs/Agents-Anywhere) · [官网](https://agents-anywhere.com) · 组织维护 · 中文 README
+⭐ 3,712 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anywhere-labs/Agents-Anywhere) · [官网](https://agents-anywhere.com) · 组织维护 · 中文 README
 
 **在手机/桌面/Web 远程管理 coding agent 的开源工作台**
 

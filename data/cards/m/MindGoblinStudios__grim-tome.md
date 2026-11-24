@@ -1,6 +1,6 @@
 # MindGoblinStudios/grim-tome
 
-⭐ 35 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/MindGoblinStudios/grim-tome) · 个人维护
+⭐ 35 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MindGoblinStudios/grim-tome) · 个人维护
 
 **面向任意 AI agent 的提示词/技能合集（50+ /skills，20 位顾问）**
 

@@ -1,6 +1,6 @@
 # VkRainB/ccMesh
 
-⭐ 124 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/VkRainB/ccMesh) · [官网](https://vkrainb.github.io/ccMesh/) · 个人维护 · 中文 README
+⭐ 124 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/VkRainB/ccMesh) · [官网](https://vkrainb.github.io/ccMesh/) · 个人维护 · 中文 README
 
 **桌面端 AI 代理网关：统一接入 Claude/OpenAI/Codex 上游**
 

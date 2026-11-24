@@ -1,6 +1,6 @@
 # yromano/cqr
 
-⭐ 325 · Jupyter Notebook · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/yromano/cqr) · [官网](https://sites.google.com/view/cqr) · 个人维护
+⭐ 326 · Jupyter Notebook · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/yromano/cqr) · [官网](https://sites.google.com/view/cqr) · 个人维护
 
 **Python 实现的保形化分位数回归预测区间构建库**
 

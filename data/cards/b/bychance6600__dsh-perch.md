@@ -1,6 +1,6 @@
 # bychance6600/dsh-perch
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bychance6600/dsh-perch) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bychance6600/dsh-perch) · 个人维护 · 中文 README
 
 **基于事件流长成人格的 DSH 插件，接 QQ 陪伴**
 

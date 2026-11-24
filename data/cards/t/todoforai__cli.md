@@ -1,6 +1,6 @@
 # todoforai/cli
 
-⭐ 85 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/todoforai/cli) · 组织维护
+⭐ 87 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/todoforai/cli) · 组织维护
 
 **在终端创建与管理 TODOforAI 任务的 CLI 客户端**
 

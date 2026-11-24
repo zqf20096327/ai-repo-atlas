@@ -1,6 +1,6 @@
 # shipwords-dev/shipwords
 
-⭐ 378 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shipwords-dev/shipwords) · [官网](https://shipwords.dev) · 组织维护 · 中文 README
+⭐ 384 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/shipwords-dev/shipwords) · [官网](https://shipwords.dev) · 组织维护 · 中文 README
 
 **新词站群框架：一个关键词一个 AI 图像/视频付费站**
 

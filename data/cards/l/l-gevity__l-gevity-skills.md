@@ -1,6 +1,6 @@
 # l-gevity/l-gevity-skills
 
-⭐ 90 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/l-gevity/l-gevity-skills) · [官网](https://l-gevity.nl) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/l-gevity/l-gevity-skills) · [官网](https://l-gevity.nl) · 个人维护
 
 **给编程 agent 的软件架构思维技能库（23 个技能）**
 

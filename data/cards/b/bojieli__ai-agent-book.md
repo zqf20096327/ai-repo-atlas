@@ -1,10 +1,10 @@
 # bojieli/ai-agent-book
 
-⭐ 59,119 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/bojieli/ai-agent-book) · 个人维护 · 中文 README
+⭐ 59,643 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/bojieli/ai-agent-book) · 个人维护 · 中文 README
 
-**AI Agent 开源书籍：10 章正文配 109 个实验供学习实践**
+**AI Agent 设计与工程实践的开源书籍，含 109 个配套实验**
 
-李博杰所著《深入理解 AI Agent》的开源主仓库，围绕 Agent = LLM + 上下文 + 工具的公式，用 10 章覆盖上下文工程、记忆与 RAG、MCP 工具、Coding Agent、评估、后训练、多 Agent 协作等主题。正文 Markdown、配图与 109 个配套实验全部开源，提供 15 种语言的 PDF/EPUB 与在线阅读；实验按章节组织，用 uv 或 pip 安装章节 extra 后运行，调用模型的实验需自行配置 API Key。
+《深入理解 AI Agent》开源书稿主仓库，围绕「Agent = LLM + 上下文 + 工具」公式以 10 章覆盖上下文工程、记忆与 RAG、MCP 工具、Coding Agent、评估、后训练与多 Agent 协作。提供 15 种语言的 PDF/EPUB 下载与在线阅读，正文 Markdown 源码开放，附 109 个按章组织的可运行/复现实验，使用 uv/pip 按章节安装 Python 3.11–3.13 环境，模型调用需自配 API Key。
 
 ## 筛选速览
 
@@ -27,26 +27,25 @@
 
 ## 能力要点
 
-- 10 章正文与 109 个配套实验全部开源
-- 提供 15 种语言的 PDF/EPUB 下载与在线阅读
-- 实验用 uv.lock 固定依赖，支持 Python 3.11–3.13
-- 第 6/7/8/10 章提供 22 个固定版本外部仓库克隆脚本
+- 10 章正文与 109 个配套实验全部开源，实验按章节组织于 chapter1–chapter10
+- 15 种语言 PDF/EPUB 构建，每次 main 分支推送自动更新
+- 实验统一支持 Python 3.11–3.13，提供 uv.lock 可复现环境
+- 附录列出 23 个固定到不可变 SHA 的外部复现仓库
 
 ## 适用场景
 
 - 系统学习 AI Agent 的设计原理与工程实践
-- 跟着章节实验动手实现 RAG、评估、多 Agent 等项目
-- 为团队搭建 Agent 相关培训与学习路径
+- 按章节动手运行实验，从头实现一个 coding agent
+- 为 agent 建立评估集并围绕失败用例做迭代改进
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `Agent 记忆` `多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L10: **Agent = LLM + 上下文 + 工具**——本书围绕这个核心公式，用 10 章把 AI Agent 从原理讲到工程实战。全书正文、配图、**109 个配套实验**全部开源，欢迎亲手把实验跑一遍。
-> L77: > 💡 **读** = 在 GitHub 网页直接读章节正文（markdown）；**N** = 该章正文实验数，点击查看实现与复现说明。项目类型说明（✅ 可运行 / 📖 复现 / 🚧 设计）见各章 README。
-> L81: ## 💻 运行配套实验
+> L20: |📚 **10 章** 正文，从基础到生产|📂 **109 个** 配套实验（含本地项目与外部复现轨道）|🌐 **15 种** 语言：中 / 英 / 西 / 印尼 / 阿 / 繁體中文（台灣） / 俄 / 泰米尔 / 越 / 日 
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a3d6bc83f4c7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `600f7a696ee8` · [字段定义](../../DATASET.md)*

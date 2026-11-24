@@ -1,6 +1,6 @@
 # EleutherAI/gpt-neox
 
-⭐ 7,475 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/EleutherAI/gpt-neox) · [官网](https://www.eleuther.ai/) · 组织维护
+⭐ 7,475 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/EleutherAI/gpt-neox) · [官网](https://www.eleuther.ai/) · 组织维护
 
 **基于 Megatron/DeepSpeed 的大规模自回归语言模型 GPU 训练库**
 

@@ -1,6 +1,6 @@
 # No-Chicken/Echo-Mate
 
-⭐ 383 · C · GPL-3.0 · 推送 2026-04-04 · [GitHub](https://github.com/No-Chicken/Echo-Mate) · 个人维护 · 中文 README
+⭐ 384 · C · GPL-3.0 · 推送 2026-04-04 · [GitHub](https://github.com/No-Chicken/Echo-Mate) · 个人维护 · 中文 README
 
 **基于RV1106的开源硬件AI桌面机器人（聊天/翻译/AI相机）**
 

@@ -1,6 +1,6 @@
 # ClementPla/Didascalie
 
-⭐ 10 · TypeScript · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/ClementPla/Didascalie) · [官网](https://didascalie.readthedocs.io/en/latest/) · 个人维护
+⭐ 10 · TypeScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/ClementPla/Didascalie) · [官网](https://didascalie.readthedocs.io/en/latest/) · 个人维护
 
 **给临床与科研人员的本地医学图像标注桌面工具**
 

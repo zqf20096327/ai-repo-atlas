@@ -1,6 +1,6 @@
 # Antoine-Thomas/UH-Universal-Harness
 
-⭐ 22 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Antoine-Thomas/UH-Universal-Harness) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Antoine-Thomas/UH-Universal-Harness) · 个人维护
 
 **给桌面用户的本地优先 provider 无关 agent 运行框架**
 

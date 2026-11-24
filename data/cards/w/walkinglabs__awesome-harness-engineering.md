@@ -1,6 +1,6 @@
 # walkinglabs/awesome-harness-engineering
 
-⭐ 4,782 · CC0-1.0 · 推送 2026-11-09 · [GitHub](https://github.com/walkinglabs/awesome-harness-engineering) · 组织维护
+⭐ 4,787 · CC0-1.0 · 推送 2026-11-09 · [GitHub](https://github.com/walkinglabs/awesome-harness-engineering) · 组织维护
 
 **面向 agent 开发者的 harness 工程工具与文章清单**
 

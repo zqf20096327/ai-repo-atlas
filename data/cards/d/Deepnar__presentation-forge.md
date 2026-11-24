@@ -1,6 +1,6 @@
 # Deepnar/presentation-forge
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Deepnar/presentation-forge) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Deepnar/presentation-forge) · 个人维护
 
 **本地自托管的 AI 学术演示文稿与报告生成器**
 

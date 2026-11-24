@@ -1,6 +1,6 @@
 # major7apps/tiingo-mcp
 
-⭐ 13 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/major7apps/tiingo-mcp) · [官网](https://crates.io/crates/tiingo-mcp) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/major7apps/tiingo-mcp) · [官网](https://crates.io/crates/tiingo-mcp) · 组织维护
 
 **Rust 编写的 Tiingo 金融数据 MCP 服务器（38 个工具）**
 

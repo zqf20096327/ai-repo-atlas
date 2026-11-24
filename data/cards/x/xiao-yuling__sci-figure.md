@@ -1,6 +1,6 @@
 # xiao-yuling/sci-figure
 
-⭐ 25 · MIT · 推送 2026-07-27 · [GitHub](https://github.com/xiao-yuling/sci-figure) · [官网](https://xiao-yuling.github.io/sci-figure) · 个人维护 · 中文 README
+⭐ 26 · MIT · 推送 2026-07-27 · [GitHub](https://github.com/xiao-yuling/sci-figure) · [官网](https://xiao-yuling.github.io/sci-figure) · 个人维护 · 中文 README
 
 **面向 AI agent 的科研绘图 skill，生成 SCI/Elsevier 风格论文图**
 

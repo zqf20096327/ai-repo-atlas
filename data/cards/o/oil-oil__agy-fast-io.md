@@ -1,6 +1,6 @@
 # oil-oil/agy-fast-io
 
-⭐ 150 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/oil-oil/agy-fast-io) · 个人维护 · 中文 README
+⭐ 152 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/oil-oil/agy-fast-io) · 个人维护 · 中文 README
 
 **非官方 Antigravity 规则插件：减少 Agent 回合与云端审查等待**
 

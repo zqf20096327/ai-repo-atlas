@@ -1,6 +1,6 @@
 # facefusion/facefusion
 
-⭐ 30,785 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/facefusion/facefusion) · [官网](https://facefusion.io) · 组织维护
+⭐ 30,801 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/facefusion/facefusion) · [官网](https://facefusion.io) · 组织维护
 
 **面向开发者的人脸换脸与唇形同步操作平台**
 

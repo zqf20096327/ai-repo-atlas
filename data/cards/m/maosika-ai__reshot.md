@@ -1,6 +1,6 @@
 # maosika-ai/reshot
 
-⭐ 129 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/maosika-ai/reshot) · [官网](https://www.maosika.com) · 组织维护 · 中文 README
+⭐ 131 · Python · Apache-2.0 · 推送 2026-09-28 · [GitHub](https://github.com/maosika-ai/reshot) · [官网](https://www.maosika.com) · 组织维护 · 中文 README
 
 **把参考视频转成深度图/骨架/边缘线控制视频，供AI视频模型复刻运镜动作**
 

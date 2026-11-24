@@ -1,6 +1,6 @@
 # jikongabc/CogDoc
 
-⭐ 22 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/jikongabc/CogDoc) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/jikongabc/CogDoc) · 个人维护 · 中文 README
 
 **本地优先的 AI 知识与研究工作台：多源 RAG 与可验证引用**
 

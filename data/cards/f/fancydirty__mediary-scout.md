@@ -1,6 +1,6 @@
 # fancydirty/mediary-scout
 
-⭐ 1,842 · TypeScript · 0BSD · 推送 2026-11-17 · [GitHub](https://github.com/fancydirty/mediary-scout) · [官网](https://mediaryscout.app) · 个人维护 · 中文 README
+⭐ 1,851 · TypeScript · 0BSD · 推送 2026-11-23 · [GitHub](https://github.com/fancydirty/mediary-scout) · [官网](https://mediaryscout.app) · 个人维护 · 中文 README
 
 **网盘用户的 AI 追更与媒体库整理工具**
 

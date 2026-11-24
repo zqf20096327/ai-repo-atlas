@@ -1,6 +1,6 @@
 # Luisacaotica/ComfyUI-MiniMaxH3Mod
 
-⭐ 640 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod) · 个人维护
+⭐ 645 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Luisacaotica/ComfyUI-MiniMaxH3Mod) · 个人维护
 
 **ComfyUI 节点包：为 MiniMax H3 提供免训练的参考图/视频/音频 RefMod**
 

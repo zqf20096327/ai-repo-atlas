@@ -1,6 +1,6 @@
 # emmarion/sleight
 
-⭐ 3 · Scheme · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/emmarion/sleight) · 个人维护
+⭐ 3 · Scheme · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/emmarion/sleight) · 个人维护
 
 **带依赖类型与终止检查的 s-expression 语言，为 LLM 写作而设计**
 

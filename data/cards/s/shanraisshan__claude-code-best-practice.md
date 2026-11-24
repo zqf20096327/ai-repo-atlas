@@ -1,10 +1,10 @@
 # shanraisshan/claude-code-best-practice
 
-⭐ 69,315 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
+⭐ 69,362 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/shanraisshan/claude-code-best-practice) · [官网](https://linkedin.com/in/shanraisshan) · 个人维护
 
-**Claude Code 最佳实践与工作流策展清单，面向使用 Claude 编码的开发者**
+**给 Claude Code 用户提供最佳实践与工作流整理的策展清单**
 
-策展型仓库：汇总 Claude Code 的概念索引（subagents、commands、skills、hooks、MCP、plugins、memory 等）及其在 .claude/ 下的配置位置，收录 Command→Agent→Skill 编排工作流实现、13 个社区开发工作流方法论（按星标排列）、跨模型协作机制（Plugin/MCP/Router）与 84 条提示与上下文管理技巧。内容以表格与外链为主，自身无安装依赖，使用方式是在 Claude Code 中运行 weather-orchestrator 等示例命令。
+一个围绕 Claude Code 的知识与资源聚合仓库：整理 Claude Code 的概念表（Subagents/Commands/Skills/Hooks/MCP Servers/Plugins/Memory 等）、Command→Agent→Skill 编排工作流实现、多套开发工作流（Research→Plan→Execute→Review→Ship）条目、跨模型使用机制（Plugin/MCP/Router）及 84 条来自社区与 Anthropic 成员的提示技巧。本身不含可运行代码主体，使用方式是阅读条目并访问各来源仓库。
 
 ## 筛选速览
 
@@ -26,16 +26,17 @@
 
 ## 能力要点
 
-- 汇总 Subagents/Commands/Skills/Hooks/MCP 等特性的配置位置与实现链接
-- 收录 13 个社区开发工作流方法论及 Command→Agent→Skill 编排示例
-- 整理 Plugin/MCP/Router 三种跨模型协作机制与桥接工具清单
-- 84 条提示、规划、上下文管理技巧（含来源标注）
+- 整理 Claude Code 概念表：agents/commands/skills/hooks/MCP/memory 等位置与用法
+- 提供 Command→Agent→Skill 编排工作流的实现说明
+- 收录 12 套社区开发工作流与多条跨模型桥接方案（Plugin/MCP/Router）
+- 84 条带来源的提示与上下文管理技巧
 
 ## 适用场景
 
-- 查找 Claude Code 某特性（skills、hooks、memory）的配置位置与官方文档
-- 参考社区工作流方法论组织自己的 agentic 开发流程
-- 了解让 Claude Code 配合 Codex、Gemini、本地模型等跨模型使用的机制
+- 我在用 Claude Code 时想查找官方推荐的目录结构与配置位置
+- 我想对比社区里不同的 plan/tdd/code-review 工作流再选一套上手
+- 我想让 Claude Code 配合其他模型或本地模型一起工作
+- 我想学习上下文管理与会话控制的实操技巧
 
 ## 场景标签
 
@@ -44,7 +45,7 @@
 ## 证据(README 行号)
 
 > L1: # claude-code-best-practice
-> L20: ## 🧠 CONCEPTS
+> L150: Repos primarily known as curated libraries of `SKILL.md` files (distinct from full workflow methodologies above). 
 > L178: ## 💡 TIPS AND TRICKS (84)
 
 ## 星数曲线
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0091ed0ba737` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `965b79f4b302` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # neuml/txtai.go
 
-⭐ 81 · Go · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/neuml/txtai.go) · 组织维护
+⭐ 81 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neuml/txtai.go) · 组织维护
 
 **txtai 的 Go 客户端：通过 API 访问语义搜索与 LLM 工作流**
 

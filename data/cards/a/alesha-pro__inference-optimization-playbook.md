@@ -1,6 +1,6 @@
 # alesha-pro/inference-optimization-playbook
 
-⭐ 77 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/alesha-pro/inference-optimization-playbook) · 个人维护
+⭐ 84 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/alesha-pro/inference-optimization-playbook) · 个人维护
 
 **消费级 GPU 上运行大型 MoE LLM 的调优经验手册**
 

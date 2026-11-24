@@ -1,6 +1,6 @@
 # bartczernicki/MachineLearning-BaseballPrediction-BlazorApp
 
-⭐ 56 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) · [官网](https://baseballaiworkbench-dybyfmbvg8hdctds.b02.azurefd.net/) · 个人维护
+⭐ 56 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bartczernicki/MachineLearning-BaseballPrediction-BlazorApp) · [官网](https://baseballaiworkbench-dybyfmbvg8hdctds.b02.azurefd.net/) · 个人维护
 
 **棒球名人堂分析的决策智能演示 Web 应用（Blazor+ML.NET+AI Agent）**
 

@@ -1,6 +1,6 @@
 # qupath/qupath
 
-⭐ 1,478 · Java · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/qupath/qupath) · [官网](https://qupath.github.io) · 组织维护
+⭐ 1,479 · Java · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/qupath/qupath) · [官网](https://qupath.github.io) · 组织维护
 
 **开源生物图像分析软件：标注、分割与机器学习分类**
 

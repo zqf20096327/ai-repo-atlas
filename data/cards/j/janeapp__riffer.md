@@ -1,6 +1,6 @@
 # janeapp/riffer
 
-⭐ 13 · Ruby · MIT · 推送 2026-11-22 · [GitHub](https://github.com/janeapp/riffer) · [官网](http://riffer.ai/) · 组织维护
+⭐ 13 · Ruby · MIT · 推送 2026-11-23 · [GitHub](https://github.com/janeapp/riffer) · [官网](http://riffer.ai/) · 组织维护
 
 **构建 AI 应用与 Agent 的 Ruby 一体化框架**
 

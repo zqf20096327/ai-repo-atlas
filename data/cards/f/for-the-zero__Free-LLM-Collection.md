@@ -1,6 +1,6 @@
 # for-the-zero/Free-LLM-Collection
 
-⭐ 702 · TypeScript · 推送 2026-11-14 · [GitHub](https://github.com/for-the-zero/Free-LLM-Collection) · [官网](https://for-the-zero.github.io/Free-LLM-Collection/) · 个人维护 · 中文 README
+⭐ 704 · TypeScript · 推送 2026-11-14 · [GitHub](https://github.com/for-the-zero/Free-LLM-Collection) · [官网](https://for-the-zero.github.io/Free-LLM-Collection/) · 个人维护 · 中文 README
 
 **免费大模型 API 清单：收录可长期免费调用的接口**
 

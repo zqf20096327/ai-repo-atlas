@@ -1,6 +1,6 @@
 # Nervenet-AI/nervenet
 
-⭐ 3 · 推送 2026-11-20 · [GitHub](https://github.com/Nervenet-AI/nervenet) · [官网](https://www.nervenet.app) · 组织维护
+⭐ 3 · 推送 2026-11-23 · [GitHub](https://github.com/Nervenet-AI/nervenet) · [官网](https://www.nervenet.app) · 组织维护
 
 **桌面 AI agent：编排模型完成代码与研究任务**
 

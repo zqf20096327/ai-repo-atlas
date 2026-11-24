@@ -1,6 +1,6 @@
 # Blackcat-Informatics/gmeow-ontology
 
-⭐ 13 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Blackcat-Informatics/gmeow-ontology) · [官网](https://blackcatinformatics.ca/gmeow) · 组织维护
+⭐ 13 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Blackcat-Informatics/gmeow-ontology) · [官网](https://blackcatinformatics.ca/gmeow) · 组织维护
 
 **面向 agent 记忆的溯源声明本体引擎：LLM 输出即声明而非事实**
 

@@ -1,6 +1,6 @@
 # epam/ai-dial
 
-⭐ 150 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/epam/ai-dial) · [官网](https://docs.dialx.ai/) · 组织维护
+⭐ 151 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/epam/ai-dial) · [官网](https://docs.dialx.ai/) · 组织维护
 
 **EPAM 开源企业级 AI 平台 DIAL 的文档与示例仓库**
 

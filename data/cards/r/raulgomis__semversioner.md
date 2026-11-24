@@ -1,6 +1,6 @@
 # raulgomis/semversioner
 
-⭐ 48 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/raulgomis/semversioner) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/raulgomis/semversioner) · 个人维护
 
 **面向 AI 原生项目的语义化版本与 CHANGELOG 自动化 CLI**
 

@@ -1,6 +1,6 @@
 # aveloxis/aveloxis
 
-⭐ 19 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aveloxis/aveloxis) · [官网](https://aveloxis.io) · 组织维护
+⭐ 19 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aveloxis/aveloxis) · [官网](https://aveloxis.io) · 组织维护
 
 **开源社区健康分析平台：GitHub/GitLab 贡献者指标、SBOM 与漏洞扫描**
 

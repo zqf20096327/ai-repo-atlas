@@ -1,6 +1,6 @@
 # ketle-man/ComfyUI-Workflow-Studio
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ketle-man/ComfyUI-Workflow-Studio) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ketle-man/ComfyUI-Workflow-Studio) · 个人维护
 
 **ComfyUI 插件：工作流/模型资产管理与批量生图界面**
 

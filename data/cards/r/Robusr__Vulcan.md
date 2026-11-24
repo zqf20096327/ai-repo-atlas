@@ -1,6 +1,6 @@
 # Robusr/Vulcan
 
-⭐ 25 · C# · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Robusr/Vulcan) · 个人维护 · 中文 README
+⭐ 26 · C# · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Robusr/Vulcan) · 个人维护 · 中文 README
 
 **SolidWorks AI 插件：自然语言生成可编辑参数化特征**
 

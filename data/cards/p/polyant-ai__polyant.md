@@ -1,6 +1,6 @@
 # polyant-ai/polyant
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/polyant-ai/polyant) · [官网](https://polyant.ai) · 组织维护
+⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/polyant-ai/polyant) · [官网](https://polyant.ai) · 组织维护
 
 **企业级多 Agent 运行平台：把 Agent 接入业务流程**
 

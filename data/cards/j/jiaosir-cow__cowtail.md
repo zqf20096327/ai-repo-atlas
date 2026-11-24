@@ -1,6 +1,6 @@
 # jiaosir-cow/cowtail
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/jiaosir-cow/cowtail) · 组织维护 · 中文 README
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/jiaosir-cow/cowtail) · 组织维护 · 中文 README
 
 **奶牛尾根 9 轴 IMU 行为标注数据集（4 类行为）**
 

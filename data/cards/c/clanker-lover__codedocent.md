@@ -1,6 +1,6 @@
 # clanker-lover/codedocent
 
-⭐ 10 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/clanker-lover/codedocent) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-04-06 · [GitHub](https://github.com/clanker-lover/codedocent) · 个人维护
 
 **面向非程序员的代码库可视化与解读工具**
 

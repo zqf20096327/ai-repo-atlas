@@ -1,6 +1,6 @@
 # neucine/affon
 
-⭐ 27 · TypeScript · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/neucine/affon) · [官网](https://affon.ai) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neucine/affon) · [官网](https://affon.ai) · 个人维护 · 中文 README
 
 **面向科研计算与机器学习的 TypeScript 运行时**
 

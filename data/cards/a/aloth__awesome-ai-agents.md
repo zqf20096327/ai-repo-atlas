@@ -1,6 +1,6 @@
 # aloth/awesome-ai-agents
 
-⭐ 101 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/aloth/awesome-ai-agents) · [官网](https://aloth.github.io/awesome-ai-agents/) · 个人维护
+⭐ 102 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/aloth/awesome-ai-agents) · [官网](https://aloth.github.io/awesome-ai-agents/) · 个人维护
 
 **AI agent 框架、工具与研究资源的策展清单**
 

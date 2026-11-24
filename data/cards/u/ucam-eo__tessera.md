@@ -1,6 +1,6 @@
 # ucam-eo/tessera
 
-⭐ 796 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ucam-eo/tessera) · 组织维护
+⭐ 799 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ucam-eo/tessera) · 组织维护
 
 **为遥感研究者提供卫星时序数据的自监督嵌入基础模型**
 

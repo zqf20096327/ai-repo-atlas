@@ -1,6 +1,6 @@
 # zjunlp/LightMem-Ego
 
-⭐ 131 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zjunlp/LightMem-Ego) · [官网](https://lightmem-ego.zjukg.cn/) · 组织维护 · 中文 README
+⭐ 131 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zjunlp/LightMem-Ego) · [官网](https://lightmem-ego.zjukg.cn/) · 组织维护 · 中文 README
 
 **面向智能眼镜与手机的自我中心多模态 AI 记忆系统**
 

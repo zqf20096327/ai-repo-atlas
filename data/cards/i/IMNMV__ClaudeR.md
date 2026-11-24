@@ -1,6 +1,6 @@
 # IMNMV/ClaudeR
 
-⭐ 373 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/IMNMV/ClaudeR) · 个人维护
+⭐ 374 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/IMNMV/ClaudeR) · 个人维护
 
 **把 R/Python 会话接入 Claude Code 等 LLM agent 的 MCP 工具**
 

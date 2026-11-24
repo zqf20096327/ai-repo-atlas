@@ -1,6 +1,6 @@
 # bytedance/Sa2VA
 
-⭐ 1,702 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/bytedance/Sa2VA) · 组织维护
+⭐ 1,703 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/bytedance/Sa2VA) · 组织维护
 
 **像素级多模态大模型研究代码库，供视觉理解开发者使用**
 

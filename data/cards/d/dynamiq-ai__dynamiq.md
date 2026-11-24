@@ -1,6 +1,6 @@
 # dynamiq-ai/dynamiq
 
-⭐ 1,072 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dynamiq-ai/dynamiq) · [官网](https://getdynamiq.ai) · 组织维护
+⭐ 1,072 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dynamiq-ai/dynamiq) · [官网](https://getdynamiq.ai) · 组织维护
 
 **面向开发者的 agentic AI 与 LLM 应用编排框架**
 

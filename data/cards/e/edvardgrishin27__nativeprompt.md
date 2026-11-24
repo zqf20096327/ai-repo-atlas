@@ -1,6 +1,6 @@
 # edvardgrishin27/nativeprompt
 
-⭐ 129 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/edvardgrishin27/nativeprompt) · [官网](https://pypi.org/project/nativeprompt/) · 个人维护
+⭐ 129 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/edvardgrishin27/nativeprompt) · [官网](https://pypi.org/project/nativeprompt/) · 个人维护
 
 **离线提示词改写 CLI：按当前模型的官方规则重写并建议努力级别**
 

@@ -1,6 +1,6 @@
 # monk233/lexora
 
-⭐ 3 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/monk233/lexora) · [官网](https://github.com/monk233/lexora) · 个人维护 · 中文 README
+⭐ 4 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/monk233/lexora) · [官网](https://github.com/monk233/lexora) · 个人维护 · 中文 README
 
 **Windows 划词翻译助手：选中即翻译/总结/解释/朗读**
 

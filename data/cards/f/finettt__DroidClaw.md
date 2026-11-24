@@ -1,6 +1,6 @@
 # finettt/DroidClaw
 
-⭐ 39 · Java · 推送 2026-11-21 · [GitHub](https://github.com/finettt/DroidClaw) · [官网](https://finett.undo.it/droidclaw) · 个人维护
+⭐ 39 · Java · 推送 2026-11-23 · [GitHub](https://github.com/finettt/DroidClaw) · [官网](https://finett.undo.it/droidclaw) · 个人维护
 
 **无 root 的 Android 原生个人 AI 助手应用**
 

@@ -1,6 +1,6 @@
 # Ganador1/FenixAI_tradingBot
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/Ganador1/FenixAI_tradingBot) · [官网](https://ko-fi.com/ganador) · 个人维护
+⭐ 161 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/Ganador1/FenixAI_tradingBot) · [官网](https://ko-fi.com/ganador) · 个人维护
 
 **面向 Binance 合约的多 agent 加密货币自动交易机器人**
 

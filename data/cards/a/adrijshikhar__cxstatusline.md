@@ -1,6 +1,6 @@
 # adrijshikhar/cxstatusline
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/adrijshikhar/cxstatusline) · [官网](https://cxstatusline.adrijshikhar.dev/) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adrijshikhar/cxstatusline) · [官网](https://cxstatusline.adrijshikhar.dev/) · 个人维护
 
 **为 OpenAI Codex CLI 提供可定制终端状态栏与实时遥测**
 

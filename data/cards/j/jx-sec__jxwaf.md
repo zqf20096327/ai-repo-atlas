@@ -1,6 +1,6 @@
 # jx-sec/jxwaf
 
-⭐ 1,227 · Go Template · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jx-sec/jxwaf) · [官网](https://www.jxwaf.com/) · 组织维护 · 中文 README
+⭐ 1,228 · Go Template · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jx-sec/jxwaf) · [官网](https://www.jxwaf.com/) · 组织维护 · 中文 README
 
 **基于 AI 大模型的 Web 应用防火墙，检测恶意流量**
 

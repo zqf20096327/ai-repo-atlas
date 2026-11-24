@@ -1,6 +1,6 @@
 # SGCODEX/Music-Recommendation-Using-Facial-Expressions
 
-⭐ 62 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions) · [官网](https://music-recommendation-using-facial-expressions-latest.streamlit.app/) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/SGCODEX/Music-Recommendation-Using-Facial-Expressions) · [官网](https://music-recommendation-using-facial-expressions-latest.streamlit.app/) · 个人维护
 
 **基于摄像头表情识别的情绪音乐推荐应用**
 

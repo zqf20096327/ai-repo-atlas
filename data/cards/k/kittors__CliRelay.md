@@ -1,6 +1,6 @@
 # kittors/CliRelay
 
-⭐ 1,064 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kittors/CliRelay) · 组织维护 · 中文 README
+⭐ 1,063 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kittors/CliRelay) · 组织维护 · 中文 README
 
 **自托管 AI 网关：把编程 CLI 订阅与 API key 汇入单一端点管理**
 

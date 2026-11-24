@@ -1,6 +1,6 @@
 # mixelpixx/KiCAD-MCP-Server
 
-⭐ 3,488 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mixelpixx/KiCAD-MCP-Server) · [官网](https://kicad.orchis.ai) · 个人维护 · 中文 README
+⭐ 3,510 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mixelpixx/KiCAD-MCP-Server) · [官网](https://kicad.orchis.ai) · 个人维护 · 中文 README
 
 **让 Claude 等 AI 助手直接操作 KiCAD 做 PCB 设计的 MCP 服务器**
 

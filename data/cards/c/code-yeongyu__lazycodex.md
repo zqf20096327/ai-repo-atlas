@@ -1,6 +1,6 @@
 # code-yeongyu/lazycodex
 
-⭐ 3,941 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/code-yeongyu/lazycodex) · [官网](https://lazycodex.ai) · 组织维护
+⭐ 3,943 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/code-yeongyu/lazycodex) · [官网](https://lazycodex.ai) · 组织维护
 
 **面向复杂代码库的 Codex agent harness 发行包**
 

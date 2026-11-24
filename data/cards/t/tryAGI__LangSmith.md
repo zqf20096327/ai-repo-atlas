@@ -1,6 +1,6 @@
 # tryAGI/LangSmith
 
-⭐ 17 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tryAGI/LangSmith) · [官网](https://tryagi.github.io/LangSmith/) · 组织维护
+⭐ 17 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tryAGI/LangSmith) · [官网](https://tryagi.github.io/LangSmith/) · 组织维护
 
 **面向 .NET 的 LangSmith SDK：接入 LangSmith 观测与追踪服务**
 

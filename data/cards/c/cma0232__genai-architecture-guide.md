@@ -1,6 +1,6 @@
 # cma0232/genai-architecture-guide
 
-⭐ 28 · JavaScript · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/cma0232/genai-architecture-guide) · [官网](https://www.fdehandbook.com/learn/genai-architecture/overview) · 个人维护
+⭐ 29 · JavaScript · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/cma0232/genai-architecture-guide) · [官网](https://www.fdehandbook.com/learn/genai-architecture/overview) · 个人维护
 
 **面向 FDE/Applied AI 面试的生产级 GenAI 架构学习指南**
 

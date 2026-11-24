@@ -1,6 +1,6 @@
 # DemonDamon/gui-agent-research
 
-⭐ 21 · Jupyter Notebook · 推送 2026-06-12 · [GitHub](https://github.com/DemonDamon/gui-agent-research) · 个人维护 · 中文 README
+⭐ 20 · Jupyter Notebook · 推送 2026-06-12 · [GitHub](https://github.com/DemonDamon/gui-agent-research) · 个人维护 · 中文 README
 
 **GUI Agent 技术调研报告库：16+ 主流方案对比与选型**
 

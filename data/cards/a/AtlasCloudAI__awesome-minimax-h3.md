@@ -1,6 +1,6 @@
 # AtlasCloudAI/awesome-minimax-h3
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/AtlasCloudAI/awesome-minimax-h3) · 组织维护 · 中文 README
+⭐ 23 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AtlasCloudAI/awesome-minimax-h3) · 组织维护 · 中文 README
 
 **MiniMax H3 开源生态策展清单：权重、量化、LoRA 与工具**
 

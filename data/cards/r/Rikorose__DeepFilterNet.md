@@ -1,6 +1,6 @@
 # Rikorose/DeepFilterNet
 
-⭐ 5,082 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/Rikorose/DeepFilterNet) · [官网](https://huggingface.co/spaces/hshr/DeepFilterNet2) · 组织维护
+⭐ 5,088 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/Rikorose/DeepFilterNet) · [官网](https://huggingface.co/spaces/hshr/DeepFilterNet2) · 组织维护
 
 **全频带音频（48kHz）实时语音降噪框架，基于深度滤波**
 

@@ -1,6 +1,6 @@
 # kyegomez/AudioMamba
 
-⭐ 15 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/AudioMamba) · [官网](https://github.com/kyegomez/swarms) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kyegomez/AudioMamba) · [官网](https://github.com/kyegomez/swarms) · 个人维护
 
 **AudioMamba 论文的 PyTorch 实现：音频表示学习**
 

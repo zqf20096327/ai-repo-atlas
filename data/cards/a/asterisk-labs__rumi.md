@@ -1,6 +1,6 @@
 # asterisk-labs/rumi
 
-⭐ 13 · C · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/asterisk-labs/rumi) · [官网](http://asterisk.coop/rumi/) · 组织维护
+⭐ 13 · C · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/asterisk-labs/rumi) · [官网](http://asterisk.coop/rumi/) · 组织维护
 
 **面向 AI4EO 的无状态栅格存储格式，按帧切分影像与数据立方**
 

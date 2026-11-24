@@ -1,6 +1,6 @@
 # FERAL-AI/FERAL-AI
 
-⭐ 135 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/FERAL-AI/FERAL-AI) · [官网](https://docs.feral.sh) · 组织维护
+⭐ 136 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/FERAL-AI/FERAL-AI) · [官网](https://docs.feral.sh) · 组织维护
 
 **本地优先的个人 AI 代理运行时：统一记忆、策略受控执行与设备连接**
 

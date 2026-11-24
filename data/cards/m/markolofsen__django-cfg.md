@@ -1,6 +1,6 @@
 # markolofsen/django-cfg
 
-⭐ 24 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/markolofsen/django-cfg) · [官网](https://djangocfg.com) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/markolofsen/django-cfg) · [官网](https://djangocfg.com) · 个人维护
 
 **类型安全的 Django 配置框架，附带 AI 与企业应用组件**
 

@@ -1,6 +1,6 @@
 # kerbelp/metatron
 
-⭐ 27 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kerbelp/metatron) · [官网](https://getmetatron.com/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kerbelp/metatron) · [官网](https://getmetatron.com/) · 个人维护
 
 **为 AI 编程 agent 提供 git 内团队决策上下文层的工具**
 

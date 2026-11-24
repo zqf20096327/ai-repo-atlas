@@ -1,6 +1,6 @@
 # bongomanuk/jobsquirrel
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/bongomanuk/jobsquirrel) · [官网](https://bongomanuk.github.io/jobsquirrel/) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bongomanuk/jobsquirrel) · [官网](https://bongomanuk.github.io/jobsquirrel/) · 个人维护
 
 **自托管求职申请流水线：代找职位、定制 CV、代投并跟踪回复**
 

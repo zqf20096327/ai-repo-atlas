@@ -1,6 +1,6 @@
 # Xenios91/Glyph
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Xenios91/Glyph) · 个人维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Xenios91/Glyph) · 个人维护
 
 **跨架构二进制函数指纹识别与危险函数扫描平台**
 

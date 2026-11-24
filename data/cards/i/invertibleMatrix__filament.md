@@ -1,6 +1,6 @@
 # invertibleMatrix/filament
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/invertibleMatrix/filament) · [官网](https://filamentdev.com) · 组织维护
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/invertibleMatrix/filament) · [官网](https://filamentdev.com) · 组织维护
 
 **开发者的 agent 编排桌面应用：多模型多 agent 共享一份记忆**
 

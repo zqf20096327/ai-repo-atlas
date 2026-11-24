@@ -1,6 +1,6 @@
 # magurelabs/magoneai-mcp
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/magurelabs/magoneai-mcp) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/magurelabs/magoneai-mcp) · 组织维护
 
 **为 AI agent 提供第三方 API 的 MCP 连接器集合（27 个连接器、283 个工具）**
 

@@ -1,6 +1,6 @@
 # JGRFW/comfyui-AICG3D
 
-⭐ 676 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/JGRFW/comfyui-AICG3D) · [官网](https://github.com/JGRFW/comfyui-AICG3D) · 组织维护 · 中文 README
+⭐ 687 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/JGRFW/comfyui-AICG3D) · [官网](https://github.com/JGRFW/comfyui-AICG3D) · 组织维护 · 中文 README
 
 **ComfyUI 插件：基于 MiniMax H3 生成本地无限时长短剧视频**
 

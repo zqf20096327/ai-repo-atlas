@@ -1,6 +1,6 @@
 # Faceplugin-ltd/Open-Source-Face-Recognition-SDK
 
-⭐ 3,180 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) · [官网](https://faceplugin.com/) · 组织维护
+⭐ 3,188 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Faceplugin-ltd/Open-Source-Face-Recognition-SDK) · [官网](https://faceplugin.com/) · 组织维护
 
 **面向开发者的本地人脸识别 Python SDK，覆盖检测比对全流程**
 

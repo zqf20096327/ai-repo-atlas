@@ -1,6 +1,6 @@
 # Linux5Real/L4-Windows-NotchBar
 
-⭐ 43 · TypeScript · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Linux5Real/L4-Windows-NotchBar) · 个人维护
+⭐ 44 · TypeScript · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/Linux5Real/L4-Windows-NotchBar) · 个人维护
 
 **Windows 的 Dynamic Island 式刘海工具栏，聚合快捷工具**
 

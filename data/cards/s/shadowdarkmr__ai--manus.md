@@ -1,6 +1,6 @@
 # shadowdarkmr/ai--manus
 
-⭐ 149 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/shadowdarkmr/ai--manus) · 个人维护
+⭐ 147 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/shadowdarkmr/ai--manus) · 个人维护
 
 **面向个人日常任务的自主 AI Agent，可执行代码并控制浏览器**
 

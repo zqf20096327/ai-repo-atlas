@@ -1,6 +1,6 @@
 # nejib1/Free-LLM
 
-⭐ 1,087 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nejib1/Free-LLM) · [官网](https://free-llm.com) · 个人维护 · 中文 README
+⭐ 1,099 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nejib1/Free-LLM) · [官网](https://free-llm.com) · 个人维护 · 中文 README
 
 **免费 LLM API 目录 + 聚合多免费源的路由器**
 

@@ -1,6 +1,6 @@
 # bilzeng/cartoon-studio
 
-⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bilzeng/cartoon-studio) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bilzeng/cartoon-studio) · 个人维护 · 中文 README
 
 **给个人创作者的本地分镜编排与 AI 漫剧生成工作台**
 

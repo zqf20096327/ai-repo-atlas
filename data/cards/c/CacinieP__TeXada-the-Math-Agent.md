@@ -1,6 +1,6 @@
 # CacinieP/TeXada-the-Math-Agent
 
-⭐ 80 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CacinieP/TeXada-the-Math-Agent) · 个人维护 · 中文 README
+⭐ 83 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CacinieP/TeXada-the-Math-Agent) · 个人维护 · 中文 README
 
 **本地数学公式转 LaTeX 的桌面 AI 代理：自然语言/图片/残缺 TeX→有效 LaTeX**
 

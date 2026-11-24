@@ -1,6 +1,6 @@
 # yldm-tech/Kando
 
-⭐ 123 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/yldm-tech/Kando) · [官网](https://kando.yldm.ai) · 个人维护 · 中文 README
+⭐ 123 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/yldm-tech/Kando) · [官网](https://kando.yldm.ai) · 个人维护 · 中文 README
 
 **用视频学外语的桌面应用：本地转录+逐句翻译双语字幕**
 

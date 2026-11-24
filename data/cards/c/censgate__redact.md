@@ -1,6 +1,6 @@
 # censgate/redact
 
-⭐ 24 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/censgate/redact) · [官网](https://censgate.com) · 组织维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/censgate/redact) · [官网](https://censgate.com) · 组织维护
 
 **Rust 实现的 PII/密钥检测与脱敏引擎，含网关与证据链**
 

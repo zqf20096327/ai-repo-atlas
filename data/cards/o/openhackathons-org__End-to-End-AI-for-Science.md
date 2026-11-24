@@ -1,6 +1,6 @@
 # openhackathons-org/End-to-End-AI-for-Science
 
-⭐ 284 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openhackathons-org/End-to-End-AI-for-Science) · 组织维护
+⭐ 285 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/openhackathons-org/End-to-End-AI-for-Science) · 组织维护
 
 **面向科研人员的端到端 AI for Science 训练营教材（NVIDIA PhysicsNeMo）**
 

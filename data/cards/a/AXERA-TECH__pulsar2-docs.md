@@ -1,6 +1,6 @@
 # AXERA-TECH/pulsar2-docs
 
-⭐ 21 · JavaScript · BSD-3-Clause · 推送 2026-11-06 · [GitHub](https://github.com/AXERA-TECH/pulsar2-docs) · 组织维护 · 中文 README
+⭐ 21 · JavaScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/AXERA-TECH/pulsar2-docs) · 组织维护 · 中文 README
 
 **爱芯元智 Pulsar2 AI 工具链的官方用户手册文档**
 

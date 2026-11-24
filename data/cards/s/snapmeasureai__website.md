@@ -1,6 +1,6 @@
 # snapmeasureai/website
 
-⭐ 22 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/snapmeasureai/website) · [官网](https://snapmeasureai.com/) · 组织维护
+⭐ 22 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/snapmeasureai/website) · [官网](https://snapmeasureai.com/) · 组织维护
 
 **面向产品的 3D 人体测量 API：两张照片生成 100+ 尺寸**
 

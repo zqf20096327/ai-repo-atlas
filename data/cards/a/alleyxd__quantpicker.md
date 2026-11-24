@@ -1,6 +1,6 @@
 # alleyxd/quantpicker
 
-⭐ 8 · Rust · MIT · 推送 2026-10-28 · [GitHub](https://github.com/alleyxd/quantpicker) · 个人维护
+⭐ 8 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alleyxd/quantpicker) · 个人维护
 
 **实测各 GGUF 量化版本速度与质量损失，帮你选出该用的量化档**
 

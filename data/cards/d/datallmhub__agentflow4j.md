@@ -1,6 +1,6 @@
 # datallmhub/agentflow4j
 
-⭐ 51 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/datallmhub/agentflow4j) · [官网](https://datallmhub.github.io/agentflow4j/) · 组织维护
+⭐ 51 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/datallmhub/agentflow4j) · [官网](https://datallmhub.github.io/agentflow4j/) · 组织维护
 
 **JVM 上的治理型多智能体框架与运行时**
 

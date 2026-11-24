@@ -1,6 +1,6 @@
 # datalab-to/surya
 
-⭐ 21,611 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/datalab-to/surya) · [官网](https://www.datalab.to) · 组织维护
+⭐ 21,616 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/datalab-to/surya) · [官网](https://www.datalab.to) · 组织维护
 
 **面向开发者的多语言文档 OCR 与版面分析模型工具包**
 

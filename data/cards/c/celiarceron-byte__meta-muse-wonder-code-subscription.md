@@ -1,6 +1,6 @@
 # celiarceron-byte/meta-muse-wonder-code-subscription
 
-⭐ 63 · 推送 2026-11-09 · [GitHub](https://github.com/celiarceron-byte/meta-muse-wonder-code-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 86 · 推送 2026-11-09 · [GitHub](https://github.com/celiarceron-byte/meta-muse-wonder-code-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡以开通 AI 编程模型订阅的营销内容**
 

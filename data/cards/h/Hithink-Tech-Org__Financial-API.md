@@ -1,6 +1,6 @@
 # Hithink-Tech-Org/Financial-API
 
-⭐ 4,571 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Hithink-Tech-Org/Financial-API) · [官网](https://fuyao.aicubes.cn/) · 组织维护 · 中文 README
+⭐ 4,594 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Hithink-Tech-Org/Financial-API) · [官网](https://fuyao.aicubes.cn/) · 组织维护 · 中文 README
 
 **同花顺官方 A 股金融数据服务，支持 API/MCP/CLI/Python 接入**
 

@@ -1,6 +1,6 @@
 # cboxdk/statamic-mcp
 
-⭐ 40 · PHP · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cboxdk/statamic-mcp) · [官网](https://cbox.dk/packages/statamic-mcp) · 个人维护
+⭐ 40 · PHP · MIT · 推送 2026-11-24 · [GitHub](https://github.com/cboxdk/statamic-mcp) · [官网](https://cbox.dk/packages/statamic-mcp) · 个人维护
 
 **给 AI 助手接入 Statamic CMS 的 MCP 服务器**
 

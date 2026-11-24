@@ -1,6 +1,6 @@
 # chihumyum/Drifting
 
-⭐ 72 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/chihumyum/Drifting) · [官网](https://drifting.cc) · 个人维护 · 中文 README
+⭐ 74 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chihumyum/Drifting) · [官网](https://drifting.cc) · 个人维护 · 中文 README
 
 **本地优先的 AI 原生小说写作应用，带全书 AI Agent**
 

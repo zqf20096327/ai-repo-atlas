@@ -1,6 +1,6 @@
 # axolotl-ai-cloud/axolotl
 
-⭐ 12,744 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/axolotl-ai-cloud/axolotl) · [官网](https://docs.axolotl.ai) · 组织维护
+⭐ 12,747 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/axolotl-ai-cloud/axolotl) · [官网](https://docs.axolotl.ai) · 组织维护
 
 **面向开发者的开源 LLM 微调与后训练框架**
 

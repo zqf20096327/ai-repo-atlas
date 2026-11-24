@@ -1,6 +1,6 @@
 # IamCatoBot/text2sim-MCP-server
 
-⭐ 26 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/IamCatoBot/text2sim-MCP-server) · [官网](https://text2sim.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **让 LLM 通过 MCP 创建并运行仿真模型的工具服务器**
 
@@ -11,7 +11,7 @@ The Cato Bot Company 开发的 Model Context Protocol 服务器，使大语言�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

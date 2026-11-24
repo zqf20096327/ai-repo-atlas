@@ -1,6 +1,6 @@
 # minikin/cargo-crap
 
-⭐ 435 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/minikin/cargo-crap) · [官网](https://crates.io/crates/cargo-crap) · 个人维护
+⭐ 436 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/minikin/cargo-crap) · [官网](https://crates.io/crates/cargo-crap) · 个人维护
 
 **Rust 项目的 CRAP 变更风险度量 cargo 插件**
 

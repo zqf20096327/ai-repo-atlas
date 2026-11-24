@@ -1,6 +1,6 @@
 # openflowkit/openflowkit
 
-⭐ 1,007 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/openflowkit/openflowkit) · [官网](https://openflowkit.com/) · 组织维护
+⭐ 1,011 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/openflowkit/openflowkit) · [官网](https://openflowkit.com/) · 组织维护
 
 **开源架构图绘制画布：画图、代码写图、AI agent 代画**
 

@@ -1,6 +1,6 @@
 # HKUSTDial/awesome-data-agents
 
-⭐ 805 · Python · 推送 2026-11-08 · [GitHub](https://github.com/HKUSTDial/awesome-data-agents) · [官网](https://arxiv.org/abs/2510.23587) · 组织维护
+⭐ 806 · Python · 推送 2026-11-08 · [GitHub](https://github.com/HKUSTDial/awesome-data-agents) · [官网](https://arxiv.org/abs/2510.23587) · 组织维护
 
 **数据智能体论文清单：配套综述的分类论文集**
 

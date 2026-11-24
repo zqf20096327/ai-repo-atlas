@@ -1,10 +1,10 @@
 # hydropix/TranslateBooksWithLLMs
 
-⭐ 2,605 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护
+⭐ 2,608 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hydropix/TranslateBooksWithLLMs) · [官网](https://github.com/hydropix/TranslateBooksWithLLMs/wiki) · 个人维护 · 中文 README
 
-**用 LLM 翻译整本书籍与文档的桌面应用，保留格式**
+**用 LLM 翻译整本书籍与文档的桌面应用**
 
-桌面/本地 Web 应用，调用 LLM 翻译整本电子书、字幕与文档，支持 EPUB、SRT、DOCX、PDF、TXT、PGN 格式。核心机制：分块处理不限文件大小，保留 EPUB 格式、SRT 时间码与标签，断点续译，可提取复用写作风格预设，自动从文档派生术语表与风格。翻译提供方可选本地 Ollama 或多家云 API；提供 Web UI、CLI 与 Docker 部署。限制：扫描版 PDF 不支持（无 OCR），PDF 与 PGN 暂不可用二次润色。
+桌面应用与 CLI 工具：用本地或云端 LLM 翻译整本书籍、字幕与文档，支持 EPUB、SRT、DOCX、PDF、TXT、PGN 格式，保留原有格式、结构与时间轴。机制包括分块处理无长度限制、检查点断点续译、术语表与文风预设（可自动从原文抽取）、二轮润色与 TTS。安装包形式分发，也支持源码运行、CLI 与 Docker 部署；Web 界面在 localhost:5000，多设备可共享同一工作区。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 支持 EPUB/SRT/DOCX/PDF/TXT/PGN 格式翻译并保留格式与时间码
-- 分块处理无文件大小限制，检查点机制支持中断后续译
-- 多翻译提供方：Ollama 本地运行及 DeepSeek、Gemini、OpenAI 等云 API
-- 自动术语表与写作风格预设，支持 API key 轮换与并行翻译
+- 支持 EPUB/SRT/DOCX/PDF/TXT/PGN 格式并保留格式与时间轴
+- 无文件大小限制，智能分块并保持上下文，支持断点续译
+- 接入 8 种翻译 provider，含本地 Ollama 与 OpenAI 兼容端点（llama.cpp/LM Studio/vLLM/LocalAI）
+- 多 API key 轮换应对限流，完成后可经 ntfy/Discord/Slack 等 webhook 通知
 
 ## 适用场景
 
-- 翻译整本 EPUB 电子书并保留原有排版结构
-- 用本地 Ollama 模型离线翻译文档，内容不出本机
-- 批量翻译字幕文件并保持时间码同步
-- 长篇翻译任务中断后从断点继续
+- 把整本 EPUB/PDF 书籍翻译成目标语言并保留排版
+- 翻译 SRT 字幕并保持时间轴同步
+- 用本地 Ollama 模型离线翻译且数据不出本机
+- 翻译带注释的国际象棋 PGN 棋谱
 
 ## 场景标签
 
- · 领域:翻译/文档工具
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L8: A desktop app that translates **books**, **subtitles**, and **documents** with AI - local or cloud. Drop a file, pic
-> L31: That's it (就这么简单 · これだけ · 이게 다예요). On first launch, you choose a translation provider:
+> L33: - **Free & local** - Install Ollama and pull a model (e.g. `ollama pull qwen3:14b`). Nothing leaves your machine.
 > L107: |`--provider`|ollama/openrouter/openai/gemini/mistral/deepseek/poe/nim|ollama|
 
 ## 星数曲线
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4ecb9a21cc86` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4aee5d292ce2` · [字段定义](../../DATASET.md)*

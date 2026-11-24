@@ -1,6 +1,6 @@
 # LiuJunheng/DeepSeekHarnessGreen
 
-⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/LiuJunheng/DeepSeekHarnessGreen) · [官网](https://dsh-green.website/) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/LiuJunheng/DeepSeekHarnessGreen) · [官网](https://dsh-green.website/) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 封装成双击即用的 Windows 绿色桌面启动器**
 

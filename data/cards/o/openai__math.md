@@ -1,10 +1,10 @@
 # openai/math
 
-⭐ 17,664 · Lean · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/openai/math) · 组织维护
+⭐ 17,693 · Lean · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/openai/math) · 组织维护
 
-**OpenAI 内部模型生成的数学论文与证明工件合集**
+**OpenAI 内部模型生成的数学论文与证明产物集**
 
-由 OpenAI 未发布的内部模型产出的数学手稿与证明材料的开放仓库，含 721 篇手稿、373 个按数学学科分类的族，部分结果附 Lean 形式化证明（约 42% 顶级结果已形式化），并提供模型推理摘要与各手稿的引用 BibTeX。README 明确说明结果处于不同验证阶段，部分未形式化结果可能存在问题；产出方式平均每个结果消耗三小时 ChatGPT Pro 级别的思考算力。
+OpenAI 发布的数学手稿与证明支撑材料合集：来自其未公开的内部模型，共 722 篇手稿、374 个家族，按数学学科分类；约 42% 的一线结果有 Lean 形式化证明，并附推理摘要、版本历史与 BibTeX 引用。README 明确将其定位为原始研究数据而非成稿，部分未形式化结果可能存在问题，将随形式化进展持续更新。无安装或运行说明，属于供数学社区查阅与引用的文献资料。
 
 ## 筛选速览
 
@@ -25,26 +25,26 @@
 
 ## 能力要点
 
-- 721 篇手稿按 373 个数学学科分类族组织
-- 约 42% 顶级结果有 Lean 形式化证明并持续补充
-- 公开部分结果的推理摘要与版本化引用方式
-- preprints/ 目录含 PDF、源文件与构建说明
+- 722 篇手稿、374 个家族，按数学学科分类组织
+- 约 42% 一线结果附带 Lean 形式化证明
+- 提供推理摘要、手稿地图与版本化引用（BibTeX）
+- 包含 ζ 函数零点区域、Hodge 猜想 CM 情形等结果
 
 ## 适用场景
 
-- 查阅内部模型在开放数学问题上的结果与证明材料
-- 核对 Lean 形式化证明及其验证配置
-- 引用特定数学手稿开展后续研究
+- 查阅特定开放数学问题的模型生成证明材料
+- 将手稿作为原始研究数据做独立验证或形式化
+- 按 BibTeX 引用单篇手稿用于学术写作
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+ · 领域:数学研究/知识聚合
 
 ## 证据(README 行号)
 
 > L3: This repository contains mathematical manuscripts and supporting proof artifacts produced by an unnamed internal Ope
 > L12: In our view, these manuscripts are best understood as a form of raw research data, rather than polished academic pa
-> L16: The current catalogue contains 721 manuscripts organized into 373 families. A family groups related papers, which m
+> L16: The current catalogue contains 722 manuscripts organized into 374 families. A family groups related papers, which m
 
 ## 星数曲线
 
@@ -60,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2d5ad51eba63` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ac25e0f3b994` · [字段定义](../../DATASET.md)*

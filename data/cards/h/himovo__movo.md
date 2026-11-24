@@ -1,6 +1,6 @@
 # himovo/movo
 
-⭐ 770 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/himovo/movo) · [官网](https://www.himovo.com) · 组织维护 · 中文 README
+⭐ 777 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/himovo/movo) · [官网](https://www.himovo.com) · 组织维护 · 中文 README
 
 **把 DeepSeek Harness 变成可自托管的企业级 Agent 平台**
 

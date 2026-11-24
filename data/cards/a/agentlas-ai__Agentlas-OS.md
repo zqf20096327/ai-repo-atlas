@@ -1,6 +1,6 @@
 # agentlas-ai/Agentlas-OS
 
-⭐ 1,401 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/agentlas-ai/Agentlas-OS) · [官网](https://agentlas.cloud) · 组织维护 · 中文 README
+⭐ 1,403 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/agentlas-ai/Agentlas-OS) · [官网](https://agentlas.cloud) · 组织维护 · 中文 README
 
 **本地运行的 AI Agent 编排 OS：任务分解、招聘执行、凭据校验**
 

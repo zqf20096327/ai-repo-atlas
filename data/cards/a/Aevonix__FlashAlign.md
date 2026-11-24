@@ -1,6 +1,6 @@
 # Aevonix/FlashAlign
 
-⭐ 128 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
+⭐ 175 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
 
 **按请求切换模型对齐（abliteration）画像的推理路由工具**
 

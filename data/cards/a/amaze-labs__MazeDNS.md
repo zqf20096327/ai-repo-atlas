@@ -1,6 +1,6 @@
 # amaze-labs/MazeDNS
 
-⭐ 17 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/amaze-labs/MazeDNS) · 组织维护
+⭐ 17 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/amaze-labs/MazeDNS) · 组织维护
 
 **多站点自托管 DNS 过滤解析器，可选 AI 域名分类**
 

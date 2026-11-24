@@ -1,6 +1,6 @@
 # jeffreycayao/Dev-Labs
 
-⭐ 76 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jeffreycayao/Dev-Labs) · [官网](http://devlabs.atmt.dev/) · 个人维护
+⭐ 80 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jeffreycayao/Dev-Labs) · [官网](http://devlabs.atmt.dev/) · 个人维护
 
 **桌面多 agent 编排应用：把终端编码 CLI 组成协作团队**
 

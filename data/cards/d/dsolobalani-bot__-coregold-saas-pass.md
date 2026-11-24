@@ -1,6 +1,6 @@
 # dsolobalani-bot/-coregold-saas-pass
 
-⭐ 92 · 推送 2026-10-30 · [GitHub](https://github.com/dsolobalani-bot/-coregold-saas-pass) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 94 · 推送 2026-10-30 · [GitHub](https://github.com/dsolobalani-bot/-coregold-saas-pass) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡的 SaaS 试用防扣费指南页**
 

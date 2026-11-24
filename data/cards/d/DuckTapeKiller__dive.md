@@ -1,6 +1,6 @@
 # DuckTapeKiller/dive
 
-⭐ 31 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/DuckTapeKiller/dive) · 个人维护
+⭐ 31 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DuckTapeKiller/dive) · 个人维护
 
 **本地优先的桌面聊天与 Agent 客户端，接入多种本地/云端模型后端**
 

@@ -1,6 +1,6 @@
 # uditgoenka/autoresearch
 
-⭐ 6,852 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/uditgoenka/autoresearch) · [官网](https://udit.co/projects/autoresearch) · 个人维护
+⭐ 6,856 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/uditgoenka/autoresearch) · [官网](https://udit.co/projects/autoresearch) · 个人维护
 
 **给 Claude Code 等 agent 加自动迭代优化循环的技能**
 

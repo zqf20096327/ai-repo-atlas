@@ -1,6 +1,6 @@
 # lien0219/trademind-ai
 
-⭐ 46 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/lien0219/trademind-ai) · 个人维护 · 中文 README
+⭐ 46 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lien0219/trademind-ai) · 个人维护 · 中文 README
 
 **面向跨境卖家的开源 AI 电商运营与 ERP 平台**
 

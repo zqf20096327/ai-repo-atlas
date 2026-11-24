@@ -1,6 +1,6 @@
 # robertknight/rten
 
-⭐ 372 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/robertknight/rten) · 个人维护
+⭐ 374 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/robertknight/rten) · 个人维护
 
 **Rust 编写的 ONNX 模型 CPU 推理运行时**
 

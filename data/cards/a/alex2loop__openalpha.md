@@ -1,6 +1,6 @@
 # alex2loop/openalpha
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/alex2loop/openalpha) · [官网](https://openalpha.link) · 个人维护 · 中文 README
+⭐ 8 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alex2loop/openalpha) · [官网](https://openalpha.link) · 个人维护 · 中文 README
 
 **自托管 AI 投研团队：多角色分析辩论后给出交易计划**
 

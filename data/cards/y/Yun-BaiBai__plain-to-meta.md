@@ -1,6 +1,6 @@
 # Yun-BaiBai/plain-to-meta
 
-⭐ 5 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Yun-BaiBai/plain-to-meta) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Yun-BaiBai/plain-to-meta) · 个人维护 · 中文 README
 
 **给 AI 编程用户的元知识提示词库：把大白话转译为专业方法钥匙**
 

@@ -1,6 +1,6 @@
 # elbernaderen/machine-learning-signal-finder
 
-⭐ 25 · Python · MIT · 推送 2025-11-27 · [GitHub](https://github.com/elbernaderen/machine-learning-signal-finder) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用随机森林预测加密货币涨跌并通过 Telegram 发送交易信号的脚本集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

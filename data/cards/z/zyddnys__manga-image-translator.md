@@ -1,6 +1,6 @@
 # zyddnys/manga-image-translator
 
-⭐ 10,633 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/zyddnys/manga-image-translator) · [官网](https://cotrans.touhou.ai/) · 个人维护 · 中文 README
+⭐ 10,636 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/zyddnys/manga-image-translator) · [官网](https://cotrans.touhou.ai/) · 个人维护 · 中文 README
 
 **一键翻译漫画等各类图片内文字的工具**
 

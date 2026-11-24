@@ -1,6 +1,6 @@
 # paiml/aprender
 
-⭐ 141 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/paiml/aprender) · [官网](https://paiml.github.io/aprender/) · 组织维护
+⭐ 141 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/paiml/aprender) · [官网](https://paiml.github.io/aprender/) · 组织维护
 
 **纯 Rust 的机器学习框架与 apr 命令行工具链**
 

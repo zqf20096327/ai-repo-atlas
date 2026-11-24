@@ -1,6 +1,6 @@
 # microsoft/Agent365-nodejs
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/Agent365-nodejs) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agent365-nodejs) · 组织维护
 
 **微软 Agent 365 SDK（Node.js/TS）：为 M365/Teams 构建企业级 agent 提供扩展工具**
 

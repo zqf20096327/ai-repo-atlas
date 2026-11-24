@@ -1,6 +1,6 @@
 # yamafaktory/formal
 
-⭐ 26 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yamafaktory/formal) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yamafaktory/formal) · 个人维护
 
 **基于 Lean 4 + Mathlib 的代码属性形式化验证服务，供 agent 调用**
 

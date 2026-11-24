@@ -1,6 +1,6 @@
 # veildawn/ai-proxy-releases
 
-⭐ 13 · Ruby · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/veildawn/ai-proxy-releases) · [官网](https://github.com/veildawn/ai-proxy-releases/releases/latest) · 个人维护 · 中文 README
+⭐ 13 · Ruby · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/veildawn/ai-proxy-releases) · [官网](https://github.com/veildawn/ai-proxy-releases/releases/latest) · 个人维护 · 中文 README
 
 **自托管 AI 网关：把多上游账号汇成团队共享端点**
 

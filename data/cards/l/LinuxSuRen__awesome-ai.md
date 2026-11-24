@@ -1,6 +1,6 @@
 # LinuxSuRen/awesome-ai
 
-⭐ 18 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/LinuxSuRen/awesome-ai) · [官网](https://linuxsuren.github.io/awesome-ai/) · 个人维护 · 中文 README
+⭐ 18 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/LinuxSuRen/awesome-ai) · [官网](https://linuxsuren.github.io/awesome-ai/) · 个人维护 · 中文 README
 
 **AI 工具分类收录清单：对话、编程、开发、图像生成等 82+ 条**
 

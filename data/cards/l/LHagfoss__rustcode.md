@@ -1,6 +1,6 @@
 # LHagfoss/rustcode
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/LHagfoss/rustcode) · [官网](https://rustcode.lhagfoss.com) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/LHagfoss/rustcode) · [官网](https://rustcode.lhagfoss.com) · 个人维护
 
 **Rust 编写的终端 AI 编码 agent，多模型接入与工具沙箱**
 

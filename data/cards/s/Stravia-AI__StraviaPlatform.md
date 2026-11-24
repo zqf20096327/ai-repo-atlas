@@ -1,6 +1,6 @@
 # Stravia-AI/StraviaPlatform
 
-⭐ 22 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Stravia-AI/StraviaPlatform) · [官网](https://www.stravia.cn/) · 组织维护 · 中文 README
+⭐ 42 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Stravia-AI/StraviaPlatform) · [官网](https://www.stravia.cn/) · 组织维护 · 中文 README
 
 **本地自托管 agent 基础设施：为各类 AI 客户端提供统一接入端点**
 

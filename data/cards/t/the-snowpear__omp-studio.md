@@ -1,6 +1,6 @@
 # the-snowpear/omp-studio
 
-⭐ 221 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/the-snowpear/omp-studio) · 组织维护 · 中文 README
+⭐ 229 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/the-snowpear/omp-studio) · 组织维护 · 中文 README
 
 **oh-my-pi AI 编码 Agent 的跨平台桌面 GUI 工作台**
 

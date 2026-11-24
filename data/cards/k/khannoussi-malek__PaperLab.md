@@ -1,6 +1,6 @@
 # khannoussi-malek/PaperLab
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/khannoussi-malek/PaperLab) · [官网](https://khannoussi-malek.github.io/PaperLab/) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/khannoussi-malek/PaperLab) · [官网](https://khannoussi-malek.github.io/PaperLab/) · 个人维护
 
 **研究者的本地优先 PDF 阅读器：笔记锚定页面，AI 回答引用原文**
 

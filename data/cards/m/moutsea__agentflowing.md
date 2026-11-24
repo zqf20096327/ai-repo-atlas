@@ -1,6 +1,6 @@
 # moutsea/agentflowing
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/moutsea/agentflowing) · [官网](https://agentflowing.app) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/moutsea/agentflowing) · [官网](https://agentflowing.app) · 个人维护 · 中文 README
 
 **Cloudflare 全栈 SaaS 脚手架：订阅与积分制 AI Agent 收费产品**
 

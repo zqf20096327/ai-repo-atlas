@@ -1,6 +1,6 @@
 # Wh1isper/ya-mono
 
-⭐ 19 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/Wh1isper/ya-mono) · 个人维护
+⭐ 19 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/Wh1isper/ya-mono) · 个人维护
 
 **多包 monorepo：基于 Pydantic AI 的 Agent SDK/CLI/运行时服务**
 

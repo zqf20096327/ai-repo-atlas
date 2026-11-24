@@ -1,6 +1,6 @@
 # IvanMurzak/GameDev-MCP-Server
 
-⭐ 21 · C# · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/IvanMurzak/GameDev-MCP-Server) · [官网](https://ai-game.dev) · 个人维护
+⭐ 21 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/IvanMurzak/GameDev-MCP-Server) · [官网](https://ai-game.dev) · 个人维护
 
 **跨游戏引擎的本地 MCP 服务器：桥接 AI 客户端与 Unity/Godot/Unreal 插件**
 

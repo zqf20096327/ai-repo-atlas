@@ -1,6 +1,6 @@
 # xai-org/grok-build-plugin-cc
 
-⭐ 281 · JavaScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/xai-org/grok-build-plugin-cc) · 组织维护
+⭐ 282 · JavaScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/xai-org/grok-build-plugin-cc) · 组织维护
 
 **把 Grok CLI 桥接进 Claude Code 的插件：委派审查与导入会话**
 

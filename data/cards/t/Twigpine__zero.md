@@ -1,6 +1,6 @@
 # Twigpine/zero
 
-⭐ 1,782 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Twigpine/zero) · [官网](https://zero.twigpine.com) · 组织维护
+⭐ 1,782 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Twigpine/zero) · [官网](https://zero.twigpine.com) · 组织维护
 
 **本地终端 AI 编码代理：自选模型与权限策略**
 

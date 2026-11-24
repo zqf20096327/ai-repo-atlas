@@ -1,6 +1,6 @@
 # Moxxkidd/foam
 
-⭐ 130 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/Moxxkidd/foam) · 个人维护 · 中文 README
+⭐ 134 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Moxxkidd/foam) · 个人维护 · 中文 README
 
 **Kali 上的 LLM 渗透测试 harness：模型自主驱动安全工具链**
 

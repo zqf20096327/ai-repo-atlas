@@ -1,6 +1,6 @@
 # besidka/besidka
 
-⭐ 28 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/besidka/besidka) · [官网](https://besidka.com) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/besidka/besidka) · [官网](https://besidka.com) · 个人维护
 
 **自带 API Key 的开源 AI 聊天应用，按用量付费**
 

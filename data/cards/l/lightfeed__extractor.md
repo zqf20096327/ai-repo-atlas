@@ -1,6 +1,6 @@
 # lightfeed/extractor
 
-⭐ 322 · TypeScript · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/lightfeed/extractor) · [官网](https://lightfeed.ai) · 组织维护
+⭐ 321 · TypeScript · Apache-2.0 · 推送 2026-06-06 · [GitHub](https://github.com/lightfeed/extractor) · [官网](https://lightfeed.ai) · 组织维护
 
 **给开发者的 TypeScript 库：用 LLM 从网页提取结构化数据**
 

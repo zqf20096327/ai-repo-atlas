@@ -1,6 +1,6 @@
 # lucasvtiradentes/tscanner
 
-⭐ 36 · Rust · MIT · 推送 2026-06-03 · [GitHub](https://github.com/lucasvtiradentes/tscanner) · 个人维护
+⭐ 36 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lucasvtiradentes/tscanner) · 个人维护
 
 **面向 AI 生成代码时代的代码质量扫描器（编辑器/CLI/CI）**
 

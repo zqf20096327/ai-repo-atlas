@@ -1,6 +1,6 @@
 # runmaotui/min-agent
 
-⭐ 33 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/runmaotui/min-agent) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/runmaotui/min-agent) · 个人维护 · 中文 README
 
 **可本地运行的 Agent 循环演示器，带权限门控与 Trace 回放**
 

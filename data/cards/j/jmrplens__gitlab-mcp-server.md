@@ -1,6 +1,6 @@
 # jmrplens/gitlab-mcp-server
 
-⭐ 54 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jmrplens/gitlab-mcp-server) · [官网](https://docs.jmrp.io/gitlab-mcp-server/) · 个人维护
+⭐ 56 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jmrplens/gitlab-mcp-server) · [官网](https://docs.jmrp.io/gitlab-mcp-server/) · 个人维护
 
 **把 1,103 个 GitLab API 操作接入 AI 助手的 MCP 服务器**
 

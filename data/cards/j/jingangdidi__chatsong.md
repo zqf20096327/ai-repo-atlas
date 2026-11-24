@@ -1,6 +1,6 @@
 # jingangdidi/chatsong
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jingangdidi/chatsong) · 个人维护 · 中文 README
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jingangdidi/chatsong) · 个人维护 · 中文 README
 
 **单文件 LLM 对话服务端：浏览器多模型聊天与工具调用**
 

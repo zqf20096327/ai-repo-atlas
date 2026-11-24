@@ -1,6 +1,6 @@
 # chenxiyubp/streamforge-ai
 
-⭐ 3 · Java · 推送 2026-10-09 · [GitHub](https://github.com/chenxiyubp/streamforge-ai) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **基于 Spring Cloud 与 Vue 3 的视频社区学习项目，含 AI 创作接口**
 

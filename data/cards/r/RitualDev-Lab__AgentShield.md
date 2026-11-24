@@ -1,6 +1,6 @@
 # RitualDev-Lab/AgentShield
 
-⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/RitualDev-Lab/AgentShield) · [官网](https://ritualdev.in/agentshield) · 组织维护
+⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/RitualDev-Lab/AgentShield) · [官网](https://ritualdev.in/agentshield) · 组织维护
 
 **为自主 AI agent 提供凭据防泄漏与命令拦截的安全层**
 

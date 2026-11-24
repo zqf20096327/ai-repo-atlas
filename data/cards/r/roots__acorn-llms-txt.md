@@ -1,6 +1,6 @@
 # roots/acorn-llms-txt
 
-⭐ 18 · PHP · MIT · 推送 2026-03-21 · [GitHub](https://github.com/roots/acorn-llms-txt) · 组织维护
+⭐ 18 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/roots/acorn-llms-txt) · 组织维护
 
 **为 WordPress 站点生成 llms.txt 端点，向 LLM 暴露站点内容**
 

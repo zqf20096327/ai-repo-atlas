@@ -1,6 +1,6 @@
 # shadok-ai/shadok-ai
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/shadok-ai/shadok-ai) · [官网](https://shadok.ai) · 组织维护
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/shadok-ai/shadok-ai) · [官网](https://shadok.ai) · 组织维护
 
 **并行运行与管控多个 Claude Code agent 的驾驶舱工具**
 

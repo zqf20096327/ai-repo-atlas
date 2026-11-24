@@ -1,6 +1,6 @@
 # SakuraMathcraft/LaTeXSnipper
 
-⭐ 1,128 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/SakuraMathcraft/LaTeXSnipper) · [官网](https://latexsnipper.interknot.dpdns.org/) · 个人维护 · 中文 README
+⭐ 1,130 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SakuraMathcraft/LaTeXSnipper) · [官网](https://latexsnipper.interknot.dpdns.org/) · 个人维护 · 中文 README
 
 **面向写作用户的截图/手写/PDF 公式识别桌面工具**
 

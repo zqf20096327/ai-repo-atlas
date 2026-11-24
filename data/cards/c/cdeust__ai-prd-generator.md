@@ -1,6 +1,6 @@
 # cdeust/ai-prd-generator
 
-⭐ 13 · Swift · NOASSERTION · 推送 2026-02-19 · [GitHub](https://github.com/cdeust/ai-prd-generator) · 个人维护
+⭐ 14 · Swift · NOASSERTION · 推送 2026-02-19 · [GitHub](https://github.com/cdeust/ai-prd-generator) · 个人维护
 
 **面向 Claude Code/Cowork 的 PRD 生成插件，多 LLM 逐条核验**
 

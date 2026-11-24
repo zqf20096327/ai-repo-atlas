@@ -1,6 +1,6 @@
 # earayu/Mingle
 
-⭐ 95 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
+⭐ 110 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
 
 **把本地 agent 接入既有聊天应用的桥接工具**
 

@@ -1,6 +1,6 @@
 # SWE-agent/mini-swe-agent
 
-⭐ 9,969 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SWE-agent/mini-swe-agent) · [官网](https://mini-swe-agent.com) · 组织维护
+⭐ 10,013 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SWE-agent/mini-swe-agent) · [官网](https://mini-swe-agent.com) · 组织维护
 
 **约百行代码的极简 AI 编程 agent，解 GitHub issue、辅助命令行**
 

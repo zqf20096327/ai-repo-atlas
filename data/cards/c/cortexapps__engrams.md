@@ -1,6 +1,6 @@
 # cortexapps/engrams
 
-⭐ 75 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/cortexapps/engrams) · [官网](https://engramsfactory.com/) · 组织维护
+⭐ 75 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/cortexapps/engrams) · [官网](https://engramsfactory.com/) · 组织维护
 
 **自托管 AI 编码 agent 编排器：Firecracker 微VM 中运行并快照**
 

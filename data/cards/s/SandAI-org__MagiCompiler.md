@@ -1,6 +1,6 @@
 # SandAI-org/MagiCompiler
 
-⭐ 337 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SandAI-org/MagiCompiler) · 组织维护
+⭐ 337 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SandAI-org/MagiCompiler) · 组织维护
 
 **面向大模型训练与多模态推理的编译器加速框架**
 

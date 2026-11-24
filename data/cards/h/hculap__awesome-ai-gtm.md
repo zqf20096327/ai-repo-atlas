@@ -1,6 +1,6 @@
 # hculap/awesome-ai-gtm
 
-⭐ 25 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/hculap/awesome-ai-gtm) · [官网](https://szymonpaluch.com) · 个人维护
+⭐ 25 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/hculap/awesome-ai-gtm) · [官网](https://szymonpaluch.com) · 个人维护
 
 **AI 驱动的 Go-to-Market 工具与 agent 策展清单**
 

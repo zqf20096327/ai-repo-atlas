@@ -1,6 +1,6 @@
 # firebolt-db/firebolt-core
 
-⭐ 261 · Shell · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/firebolt-db/firebolt-core) · [官网](https://firebolt.io/core) · 组织维护
+⭐ 261 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/firebolt-db/firebolt-core) · [官网](https://firebolt.io/core) · 组织维护
 
 **自托管的 Firebolt 分布式数据仓库查询引擎（免费版）**
 

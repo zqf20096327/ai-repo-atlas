@@ -1,6 +1,6 @@
 # nerds-coach/ai--manus
 
-⭐ 179 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/nerds-coach/ai--manus) · 个人维护
+⭐ 175 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/nerds-coach/ai--manus) · 个人维护
 
 **自主 AI Agent：代用户执行代码与控制浏览器完成任务**
 

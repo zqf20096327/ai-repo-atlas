@@ -1,6 +1,6 @@
 # vanich-git/MelonTools
 
-⭐ 5 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vanich-git/MelonTools) · 个人维护 · 中文 README
+⭐ 5 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vanich-git/MelonTools) · 个人维护 · 中文 README
 
 **本地桌面应用：管理 Codex 账户池、多模型网关与定时任务**
 

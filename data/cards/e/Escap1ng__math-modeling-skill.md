@@ -1,6 +1,6 @@
 # Escap1ng/math-modeling-skill
 
-⭐ 20 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Escap1ng/math-modeling-skill) · 个人维护 · 中文 README
+⭐ 20 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Escap1ng/math-modeling-skill) · 个人维护 · 中文 README
 
 **数学建模竞赛全流程 AI 技能文件：赛题分析到论文交付**
 

@@ -1,6 +1,6 @@
 # stellar-experimental/stellar-raven
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/stellar-experimental/stellar-raven) · [官网](https://raven.stellar.org) · 组织维护
+⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/stellar-experimental/stellar-raven) · [官网](https://raven.stellar.org) · 组织维护
 
 **面向 AI agent 的 Stellar 生态远程 MCP 服务器（文档与数据网关）**
 

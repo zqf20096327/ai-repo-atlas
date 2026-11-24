@@ -1,6 +1,6 @@
 # zadazddq/lm-studio-private-ai
 
-⭐ 146 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/zadazddq/lm-studio-private-ai) · 个人维护
+⭐ 68 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/zadazddq/lm-studio-private-ai) · 个人维护
 
 **本地运行大语言模型的桌面软件，数据不出本机**
 

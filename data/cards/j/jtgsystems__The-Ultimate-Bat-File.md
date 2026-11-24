@@ -1,6 +1,6 @@
 # jtgsystems/The-Ultimate-Bat-File
 
-⭐ 15 · Batchfile · 推送 2026-09-03 · [GitHub](https://github.com/jtgsystems/The-Ultimate-Bat-File) · [官网](https://jtgsystems.com) · 组织维护
+⭐ 15 · Batchfile · 推送 2026-11-23 · [GitHub](https://github.com/jtgsystems/The-Ultimate-Bat-File) · [官网](https://jtgsystems.com) · 组织维护
 
 **Windows 系统管理批处理脚本合集（200+ 工具，菜单式）**
 

@@ -1,6 +1,6 @@
 # DataArcTech/ToG-3
 
-⭐ 95 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/DataArcTech/ToG-3) · 组织维护 · 中文 README
+⭐ 96 · Python · MIT · 推送 2026-04-09 · [GitHub](https://github.com/DataArcTech/ToG-3) · 组织维护 · 中文 README
 
 **构建多类 RAG 流水线的框架：含 GraphRAG 与多模态 RAG**
 

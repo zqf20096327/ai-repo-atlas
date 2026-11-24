@@ -1,6 +1,6 @@
 # jholhewres/anchored
 
-⭐ 13 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jholhewres/anchored) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jholhewres/anchored) · 个人维护
 
 **供多种 AI 编码 agent 共享的本地持久记忆（单二进制 MCP 服务器）**
 

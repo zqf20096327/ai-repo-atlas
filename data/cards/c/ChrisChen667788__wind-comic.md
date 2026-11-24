@@ -1,6 +1,6 @@
 # ChrisChen667788/wind-comic
 
-⭐ 722 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ChrisChen667788/wind-comic) · [官网](https://github.com/ChrisChen667788/wind-comic) · 个人维护 · 中文 README
+⭐ 725 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ChrisChen667788/wind-comic) · [官网](https://github.com/ChrisChen667788/wind-comic) · 个人维护 · 中文 README
 
 **一句话生成完整短剧（剧本·分镜·配音·mp4）的多 Agent 工作室**
 

@@ -1,6 +1,6 @@
 # Moonvy/OpenPromptStudio
 
-⭐ 6,735 · Vue · 推送 2026-10-21 · [GitHub](https://github.com/Moonvy/OpenPromptStudio) · [官网](https://moonvy.com/apps/ops/) · 组织维护 · 中文 README
+⭐ 6,736 · Vue · 推送 2026-10-21 · [GitHub](https://github.com/Moonvy/OpenPromptStudio) · [官网](https://moonvy.com/apps/ops/) · 组织维护 · 中文 README
 
 **面向 Midjourney 用户的 AIGC 提示词可视化编辑器**
 

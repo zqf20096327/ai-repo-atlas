@@ -1,6 +1,6 @@
 # qdrant/rust-client
 
-⭐ 422 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/qdrant/rust-client) · [官网](https://crates.io/crates/qdrant-client) · 组织维护
+⭐ 423 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/qdrant/rust-client) · [官网](https://crates.io/crates/qdrant-client) · 组织维护
 
 **Qdrant 向量数据库的 Rust 客户端库**
 

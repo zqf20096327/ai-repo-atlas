@@ -1,16 +1,16 @@
 # tt-a1i/archify
 
-⭐ 98,767 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
+⭐ 99,124 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
 
-**让编码 Agent 把想法/代码库变成可交互架构图的技能**
+**面向编码 agent 的交互式图表生成技能**
 
-一个面向 AI 编码代理（Claude Code、Codex CLI、Cursor、OpenCode 等）的技能包：用户用一句话描述想法或让 Agent 读取仓库，生成可探索、可分享的自包含交互式 HTML 图表。功能包括带来源引用的架构图（钉住 commit、可回链源码）、仓库依赖分析与诊断（依赖环、耦合热点，支持 JS/TS、Python、Java、Go、Rust、C/C++）、解释页（explainer）模式、Story 视频导出与 PR/MR 评注。Apache-2.0 许可，查看输出无需安装本产品。
+Archify 是一个安装到 AI 编码 agent（Claude Code、Codex CLI、Cursor、OpenCode 等）中的开源技能：用户用自然语言描述想法、计划或仓库，agent 生成可交互的单文件 HTML 图表，支持节点点击、源码链接、路径追踪、主题切换，并可导出 PNG/WebP/JPG 与 PDF。附加能力包括将复杂回答整理为图表式解释页（explainer）、仓库架构诊断（依赖环、耦合、热点）、图表故事视频与 PR/MR 评注（可选 archify-pr 技能）。无需仓库即可从描述生成；查看产物不需要安装 Archify。Apache 2.0 许可，版本 3.3.0。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,27 +26,27 @@
 
 ## 能力要点
 
-- 读取仓库生成带 commit 锚定来源引用的架构图
-- 内置架构诊断：依赖环、耦合模块、复杂度热点、分层规则违规
-- 输出单文件离线 HTML，支持 PNG/WebP/JPG 导出与 1080p 故事视频
-- 通过 llms.txt 一句话指令即可让 Agent 完成安装
+- 将想法、计划或仓库生成为自包含的交互式 HTML 图表
+- 仓库架构诊断：依赖环、耦合模块、复杂度热点（支持 JS/TS、Python、Java、Go、Rust、C/C++）
+- 图表可导出 PNG/WebP/JPG/PDF 及 1080p 60fps 故事视频
+- 可在 GitHub PR / GitLab MR 上附加明暗两种图表做变更标注
 
 ## 适用场景
 
-- 让 Agent 读取陌生仓库，生成带源码链接的系统地图
-- 诊断项目的模块耦合与依赖循环并交给 Agent 修复
-- 把复杂问题答成一页可分享的解释页
-- 在 PR/MR 上附上标注变更的架构图
+- 让 agent 读取仓库生成带源码出处、锚定 commit 的架构图
+- 排查性能问题时让 agent 输出结论优先的单页解释报告
+- 为 PR 评审生成标注变更位置的交互式图示
+- 把旅行计划、学习路线等非代码内容做成可交互页面
 
 ## 场景标签
 
- · 领域:开发者工具/代码可视化
+`代码生成` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L9:  Start with an idea, a question, or a plan. Describe it to your AI agent, and Archify turns it into an interactive H
-> L138: **Architecture Diagnosis** reads a repository and shows how it actually hangs together: dependency cycles, tightly
-> L46: Works with Cursor, Claude Code, Codex CLI, and OpenCode. See installation options below for additional integrations
+> L26:  Works with Claude Code, Codex, Cursor, and OpenCode
+> L132:  CODE ANALYSIS · Built into the Skill, no extra install
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2442ac6c4d77` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8764dd05c7df` · [字段定义](../../DATASET.md)*

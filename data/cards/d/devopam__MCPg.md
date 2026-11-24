@@ -1,6 +1,6 @@
 # devopam/MCPg
 
-⭐ 15 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/devopam/MCPg) · [官网](https://devopam.github.io/MCPg/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/devopam/MCPg) · [官网](https://devopam.github.io/MCPg/) · 个人维护
 
 **面向 AI agent 的 PostgreSQL MCP 服务器，279 个工具**
 

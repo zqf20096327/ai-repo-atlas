@@ -1,6 +1,6 @@
 # alinuo666/ComfyUI-Banzhang-All
 
-⭐ 80 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/alinuo666/ComfyUI-Banzhang-All) · [官网](https://space.bilibili.com/15838129) · 个人维护 · 中文 README
+⭐ 82 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/alinuo666/ComfyUI-Banzhang-All) · [官网](https://space.bilibili.com/15838129) · 个人维护 · 中文 README
 
 **面向 MiniMax H3 的 ComfyUI 中文节点包：三采工作流生成高清视频**
 

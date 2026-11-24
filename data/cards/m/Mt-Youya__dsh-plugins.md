@@ -1,6 +1,6 @@
 # Mt-Youya/dsh-plugins
 
-⭐ 108 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Mt-Youya/dsh-plugins) · [官网](https://npmjs.com/package/@cyrusdoyle/dsh-plugins) · 个人维护 · 中文 README
+⭐ 109 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Mt-Youya/dsh-plugins) · [官网](https://npmjs.com/package/@cyrusdoyle/dsh-plugins) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的会话洞察插件集合，查看每轮喂给模型的内容**
 

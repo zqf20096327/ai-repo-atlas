@@ -1,6 +1,6 @@
 # zjunlp/LightRSI
 
-⭐ 86 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/zjunlp/LightRSI) · [官网](https://zjunlp.github.io/LightRSI/) · 组织维护 · 中文 README
+⭐ 87 · TypeScript · MIT · 推送 2026-10-03 · [GitHub](https://github.com/zjunlp/LightRSI) · [官网](https://zjunlp.github.io/LightRSI/) · 组织维护 · 中文 README
 
 **长程 LLM agent 的递归自改进运行时框架**
 

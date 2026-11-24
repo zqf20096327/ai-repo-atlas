@@ -1,6 +1,6 @@
 # zeekk0/OpenAmika
 
-⭐ 683 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/zeekk0/OpenAmika) · [官网](https://www.mekahime.com/openamika) · 个人维护 · 中文 README
+⭐ 684 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/zeekk0/OpenAmika) · [官网](https://www.mekahime.com/openamika) · 个人维护 · 中文 README
 
 **给个人用户的本地 Live2D AI 伴侣：语音对话+长期记忆**
 

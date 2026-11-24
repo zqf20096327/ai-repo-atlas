@@ -1,6 +1,6 @@
 # annatchijova/vigia-intent-analysis
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/annatchijova/vigia-intent-analysis) · [官网](https://annatchijova.github.io/vigia/vigia.html) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/annatchijova/vigia-intent-analysis) · [官网](https://annatchijova.github.io/vigia/vigia.html) · 个人维护
 
 **面向 DFIR 的溯因推理与意图分析引擎：判定证据解释背后的获益方**
 

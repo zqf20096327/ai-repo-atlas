@@ -1,6 +1,6 @@
 # DoubangoTelecom/compv
 
-⭐ 212 · C++ · GPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/DoubangoTelecom/compv) · [官网](https://doubango.org) · 组织维护
+⭐ 213 · C++ · GPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/DoubangoTelecom/compv) · [官网](https://doubango.org) · 组织维护
 
 **面向 ARM/x86 的高性能计算机视觉库（Doubango R&D 项目）**
 

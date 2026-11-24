@@ -1,6 +1,6 @@
 # Obasideyvid/ai--manus
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Obasideyvid/ai--manus) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Obasideyvid/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent：代为写代码、控制浏览器完成日常任务**
 

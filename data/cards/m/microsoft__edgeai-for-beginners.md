@@ -1,6 +1,6 @@
 # microsoft/edgeai-for-beginners
 
-⭐ 1,785 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/edgeai-for-beginners) · 组织维护
+⭐ 1,880 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/edgeai-for-beginners) · 组织维护
 
 **面向初学者的边缘 AI 课程：从概念到端侧部署实操**
 

@@ -1,10 +1,10 @@
 # rtk-ai/rtk
 
-⭐ 87,499 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护
+⭐ 87,610 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rtk-ai/rtk) · [官网](https://www.rtk-ai.app) · 组织维护 · 中文 README
 
-**AI 编码代理的 CLI 输出压缩代理，降低 token 消耗**
+**给 AI 编码代理压缩命令输出的 CLI，降低 token 消耗**
 
-一个用 Rust 编写的 CLI 代理工具，插入 AI 编码代理与 shell 之间：代理运行 git、测试、构建等 100+ 常用命令时，RTK 过滤压缩其输出后再交给代理读取，README 声称输出减少 60-90%，每条命令低于 25ms。通过 hook/plugin/rules file 三种方式接入 18 种 AI 编码工具。可选 pipeline 机制可将大文件读取路由到更便宜的模型、经可选 rtk-proxy 清理 API 流量；另有面向企业的商业版 RTK Pro 提供网关、成本控制与审计。`rtk gain` 在本地统计节省量。
+以 Rust 单二进制提供的 CLI 代理，注册为 agent 的 hook 后拦截并压缩 shell 命令输出（测试、diff、日志、构建等 100+ 命令），使 agent 读取的输出减少最多 90%；`rtk gain` 在本地统计节省量。可选 pipeline 文件可进一步压缩全部工具输出、把大文件读取路由到更便宜的模型、经可选 proxy 清理 provider API 流量。面向使用 AI 编码工具的开发者，官方支持 18 种 agent 工具；另有面向企业的 RTK Pro 商业版（网关、成本控制、审计等）。
 
 ## 筛选速览
 
@@ -26,20 +26,20 @@
 
 ## 能力要点
 
-- 压缩 100+ 常用开发命令（git/cargo/pytest/docker 等）的输出，单命令低于 25ms
-- 通过 hook/plugin/rules file 接入 18 种 AI 编码工具，`rtk init -g` 一条命令安装
-- 可选 pipeline：大文件交给更便宜的模型、经 rtk-proxy 清理 API 流量
-- `rtk gain` 本地统计节省的 token 与命令历史
+- 压缩 100+ 常用开发命令输出，每命令开销低于 25ms，无需配置
+- rtk gain 本地统计节省量与历史图表
+- pipeline 文件机制：共享安装、大文件路由到指定更便宜模型
+- 支持 18 种 AI 编码工具，通过 hook/plugin/rules 文件接入
 
 ## 适用场景
 
-- 让 Claude Code 等编码代理读取更短的命令输出以降低 token 账单
-- 团队统一管理多个 AI 代理的成本、密钥与审计
-- 把大文件读取路由给更便宜的模型而不进入代理上下文
+- 让 Claude Code 等 agent 运行测试时少读冗长输出
+- 团队为多名使用 AI agent 的开发者控制 token 开销
+- 把大文件读取交给更便宜的模型处理
 
 ## 场景标签
 
-`编码 Agent` `模型网关` · 领域:Agent 开发
+ · 领域:开发者工具/AI 编码辅助
 
 ## 证据(README 行号)
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `b3540bc29a4c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `616488ec04a4` · [字段定义](../../DATASET.md)*

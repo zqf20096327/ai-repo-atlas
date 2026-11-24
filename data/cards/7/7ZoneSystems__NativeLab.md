@@ -1,6 +1,6 @@
 # 7ZoneSystems/NativeLab
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/7ZoneSystems/NativeLab) · [官网](https://7zonesystems.github.io/NativeLab/) · 个人维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/7ZoneSystems/NativeLab) · [官网](https://7zonesystems.github.io/NativeLab/) · 个人维护
 
 **全本地 LLM 桌面/终端客户端，封装 llama.cpp 运行模型**
 

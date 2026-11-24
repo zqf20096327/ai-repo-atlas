@@ -1,6 +1,6 @@
 # evanca/flutter-ai-rules
 
-⭐ 674 · Shell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/evanca/flutter-ai-rules) · 个人维护
+⭐ 675 · Shell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/evanca/flutter-ai-rules) · 个人维护
 
 **Flutter/Dart 开发者的 AI 编程代理技能集（36 条）**
 

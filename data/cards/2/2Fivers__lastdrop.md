@@ -1,6 +1,6 @@
 # 2Fivers/lastdrop
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/2Fivers/lastdrop) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/2Fivers/lastdrop) · 组织维护
 
 **Windows 11 托盘应用：一键查看各 AI 服务剩余用量**
 

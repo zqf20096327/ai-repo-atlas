@@ -1,6 +1,6 @@
 # aerosta/rewardhackwatch
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/aerosta/rewardhackwatch) · [官网](https://huggingface.co/aerosta/rewardhackwatch) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aerosta/rewardhackwatch) · [官网](https://huggingface.co/aerosta/rewardhackwatch) · 个人维护
 
 **面向 LLM agent 的奖励作弊与失准信号运行时检测器**
 

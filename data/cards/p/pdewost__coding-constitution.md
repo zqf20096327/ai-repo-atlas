@@ -1,6 +1,6 @@
 # pdewost/coding-constitution
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/pdewost/coding-constitution) · 个人维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/pdewost/coding-constitution) · 个人维护
 
 **治理 AI 编程 agent 的宪法与 hook 强制层**
 

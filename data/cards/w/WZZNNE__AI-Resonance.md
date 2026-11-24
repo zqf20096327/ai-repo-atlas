@@ -1,6 +1,6 @@
 # WZZNNE/AI-Resonance
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/WZZNNE/AI-Resonance) · [官网](https://wzznne.github.io/AI-Resonance/) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/WZZNNE/AI-Resonance) · [官网](https://wzznne.github.io/AI-Resonance/) · 个人维护 · 中文 README
 
 **每日 AI 资讯雷达：五大榜单聚合，评分可审计**
 

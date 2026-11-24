@@ -1,6 +1,6 @@
 # data3oil/factory-ontology
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/data3oil/factory-ontology) · 组织维护 · 中文 README
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/data3oil/factory-ontology) · 组织维护 · 中文 README
 
 **把工厂台账 CSV 变成带证据溯源的自然语言问答系统**
 

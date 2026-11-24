@@ -1,6 +1,6 @@
 # invergent-ai/surogate
 
-⭐ 892 · C++ · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/invergent-ai/surogate) · [官网](https://surogate.ai) · 组织维护
+⭐ 892 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/invergent-ai/surogate) · [官网](https://surogate.ai) · 组织维护
 
 **面向开发者的 C++/CUDA LLM 训练与推理一体化引擎**
 

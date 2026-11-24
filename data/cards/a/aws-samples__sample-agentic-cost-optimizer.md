@@ -1,6 +1,6 @@
 # aws-samples/sample-agentic-cost-optimizer
 
-⭐ 17 · Python · MIT-0 · 推送 2026-11-13 · [GitHub](https://github.com/aws-samples/sample-agentic-cost-optimizer) · 组织维护
+⭐ 17 · Python · MIT-0 · 推送 2026-11-23 · [GitHub](https://github.com/aws-samples/sample-agentic-cost-optimizer) · 组织维护
 
 **分析 AWS Lambda 成本并生成优化建议报告的 AI agent 示例**
 

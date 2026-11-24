@@ -1,6 +1,6 @@
 # approximatelabs/affordance
 
-⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/approximatelabs/affordance) · [官网](https://affordance.rs) · 组织维护
+⭐ 24 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/approximatelabs/affordance) · [官网](https://affordance.rs) · 组织维护
 
 **用 TSX 渲染状态为模型 token 的 agent 应用引擎**
 

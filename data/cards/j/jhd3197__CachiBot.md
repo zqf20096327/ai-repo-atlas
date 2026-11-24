@@ -1,6 +1,6 @@
 # jhd3197/CachiBot
 
-⭐ 22 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jhd3197/CachiBot) · [官网](https://cachibot.ai) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jhd3197/CachiBot) · [官网](https://cachibot.ai) · 个人维护 · 中文 README
 
 **可视化多 agent 平台：构建、部署与审计 AI 机器人**
 

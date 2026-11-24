@@ -1,6 +1,6 @@
 # OmniJev/Flide
 
-⭐ 553 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/OmniJev/Flide) · [官网](https://flide.org) · 组织维护 · 中文 README
+⭐ 566 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/OmniJev/Flide) · [官网](https://flide.org) · 组织维护 · 中文 README
 
 **Jev 式决策模型的快速推理引擎，支持精确状态分叉**
 

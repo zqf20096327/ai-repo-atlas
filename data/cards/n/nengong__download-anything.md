@@ -1,6 +1,6 @@
 # nengong/download-anything
 
-⭐ 269 · Python · 推送 2026-11-08 · [GitHub](https://github.com/nengong/download-anything) · [官网](https://github.com/nengong/download-anything#readme) · 个人维护 · 中文 README
+⭐ 270 · Python · 推送 2026-11-08 · [GitHub](https://github.com/nengong/download-anything) · [官网](https://github.com/nengong/download-anything#readme) · 个人维护 · 中文 README
 
 **个人与 AI Agent 用的全能下载与结构化归档 CLI**
 

@@ -1,6 +1,6 @@
 # Exponential-OS/prompt-engineering-in-action
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Exponential-OS/prompt-engineering-in-action) · [官网](https://thewhyman.blog) · 个人维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Exponential-OS/prompt-engineering-in-action) · [官网](https://thewhyman.blog) · 个人维护
 
 **面向 AI 对话用户的提示词优化与谄媚检测技能集**
 

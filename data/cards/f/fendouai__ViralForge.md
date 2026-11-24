@@ -1,6 +1,6 @@
 # fendouai/ViralForge
 
-⭐ 522 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/fendouai/ViralForge) · 个人维护 · 中文 README
+⭐ 554 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fendouai/ViralForge) · [官网](https://wearai.net/ai-video-generator) · 个人维护 · 中文 README
 
 **爆款短视频一键复刻工作室：拆解脚本结构并产出10个变体**
 

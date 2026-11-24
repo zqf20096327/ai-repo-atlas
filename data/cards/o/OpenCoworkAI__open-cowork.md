@@ -1,6 +1,6 @@
 # OpenCoworkAI/open-cowork
 
-⭐ 2,284 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OpenCoworkAI/open-cowork) · [官网](https://github.com/OpenCoworkAI/open-cowork) · 组织维护 · 中文 README
+⭐ 2,286 · TypeScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/OpenCoworkAI/open-cowork) · [官网](https://github.com/OpenCoworkAI/open-cowork) · 组织维护 · 中文 README
 
 **普通用户可一键安装的 AI agent 桌面应用（Win/macOS）**
 

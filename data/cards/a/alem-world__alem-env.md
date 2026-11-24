@@ -1,6 +1,6 @@
 # alem-world/alem-env
 
-⭐ 56 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/alem-world/alem-env) · [官网](https://alem-world.github.io) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/alem-world/alem-env) · [官网](https://alem-world.github.io) · 组织维护
 
 **评测 LLM/MARL 智能体长期协调能力的 JAX 基准环境**
 

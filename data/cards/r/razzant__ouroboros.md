@@ -1,6 +1,6 @@
 # razzant/ouroboros
 
-⭐ 1,699 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/razzant/ouroboros) · [官网](https://ouroboros-agent.ai/) · 组织维护
+⭐ 1,703 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/razzant/ouroboros) · [官网](https://ouroboros-agent.ai/) · 组织维护
 
 **跨任务保持记忆与身份的通用自主桌面 AI agent**
 

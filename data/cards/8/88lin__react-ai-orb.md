@@ -1,6 +1,6 @@
 # 88lin/react-ai-orb
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/88lin/react-ai-orb) · [官网](https://88lin.github.io/react-ai-orb) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/88lin/react-ai-orb) · [官网](https://88lin.github.io/react-ai-orb) · 个人维护 · 中文 README
 
 **给 React AI 界面提供发光动画球体组件**
 

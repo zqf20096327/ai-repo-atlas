@@ -1,6 +1,6 @@
 # 1111philo/plato
 
-⭐ 25 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/1111philo/plato) · [官网](https://philosophers.group/plato-agentic-classroom/) · 组织维护
+⭐ 25 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/1111philo/plato) · [官网](https://philosophers.group/plato-agentic-classroom/) · 组织维护
 
 **开源 AI 微学习平台：AI 教练对话式带学习者完成示范式课程**
 

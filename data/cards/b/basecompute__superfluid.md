@@ -1,6 +1,6 @@
 # basecompute/superfluid
 
-⭐ 34 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/basecompute/superfluid) · [官网](https://superfluid.sh) · 组织维护
+⭐ 36 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/basecompute/superfluid) · [官网](https://superfluid.sh) · 组织维护
 
 **本地 LLM 推理服务守护进程：统一调度多运行时多机器**
 

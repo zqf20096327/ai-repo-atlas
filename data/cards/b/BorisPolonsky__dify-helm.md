@@ -1,6 +1,6 @@
 # BorisPolonsky/dify-helm
 
-⭐ 679 · Go Template · MIT · 推送 2026-11-20 · [GitHub](https://github.com/BorisPolonsky/dify-helm) · 个人维护
+⭐ 679 · Go Template · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BorisPolonsky/dify-helm) · 个人维护
 
 **在 Kubernetes 上用 Helm 部署 Dify LLM 应用的 Chart**
 

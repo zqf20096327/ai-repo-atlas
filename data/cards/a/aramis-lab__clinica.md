@@ -1,6 +1,6 @@
 # aramis-lab/clinica
 
-⭐ 296 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/aramis-lab/clinica) · [官网](https://aramislab.paris.inria.fr/clinica/docs/public/latest) · 组织维护
+⭐ 297 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/aramis-lab/clinica) · [官网](https://aramislab.paris.inria.fr/clinica/docs/public/latest) · 组织维护
 
 **临床神经影像研究软件平台：BIDS 转换与处理流水线**
 

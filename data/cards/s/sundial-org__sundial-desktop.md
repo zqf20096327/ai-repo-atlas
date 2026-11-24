@@ -1,6 +1,6 @@
 # sundial-org/sundial-desktop
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/sundial-org/sundial-desktop) · 组织维护
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/sundial-org/sundial-desktop) · 组织维护
 
 **人与 AI 共写的实时多人 Markdown 编辑器**
 

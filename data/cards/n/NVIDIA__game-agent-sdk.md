@@ -1,6 +1,6 @@
 # NVIDIA/game-agent-sdk
 
-⭐ 31 · C++ · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/NVIDIA/game-agent-sdk) · 组织维护
+⭐ 32 · C++ · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/NVIDIA/game-agent-sdk) · 组织维护
 
 **游戏内 AI 伴侣开发 SDK：本地 GPU 推理的 C99/C++ 构建块**
 

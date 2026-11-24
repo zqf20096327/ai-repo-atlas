@@ -1,6 +1,6 @@
 # topoteretes/cognee-rs
 
-⭐ 75 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/topoteretes/cognee-rs) · [官网](https://www.cognee.ai) · 组织维护
+⭐ 75 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/topoteretes/cognee-rs) · [官网](https://www.cognee.ai) · 组织维护
 
 **Rust 实现的设备端 AI 记忆引擎：把文本/文件/URL 变为可查询知识图谱**
 

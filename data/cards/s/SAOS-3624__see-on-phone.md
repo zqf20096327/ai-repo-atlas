@@ -1,6 +1,6 @@
 # SAOS-3624/see-on-phone
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SAOS-3624/see-on-phone) · 个人维护 · 中文 README
+⭐ 18 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SAOS-3624/see-on-phone) · 个人维护 · 中文 README
 
 **安卓 AI 聊天 App：对话中用手机摄像头看世界**
 

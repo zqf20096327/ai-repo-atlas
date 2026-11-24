@@ -1,6 +1,6 @@
 # bigwhite/issue2md
 
-⭐ 62 · Go · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/bigwhite/issue2md) · [官网](https://issue2md.tonybai.com) · 个人维护 · 中文 README
+⭐ 63 · Go · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/bigwhite/issue2md) · [官网](https://issue2md.tonybai.com) · 个人维护 · 中文 README
 
 **将 GitHub issue/讨论/PR 转为 Markdown 的 CLI 与 Web 工具**
 

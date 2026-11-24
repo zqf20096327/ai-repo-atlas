@@ -1,6 +1,6 @@
 # samuelrms/omni-ai-cli
 
-⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/samuelrms/omni-ai-cli) · [官网](https://omni.samuelramos.dev) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/samuelrms/omni-ai-cli) · [官网](https://omni.samuelramos.dev) · 个人维护
 
 **把 Claude Code/Codex/OpenRouter 等多工具接入统一终端聊天并按成本路由的 CLI**
 

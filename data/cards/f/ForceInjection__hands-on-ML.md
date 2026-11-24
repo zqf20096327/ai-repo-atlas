@@ -1,6 +1,6 @@
 # ForceInjection/hands-on-ML
 
-⭐ 90 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/ForceInjection/hands-on-ML) · 个人维护 · 中文 README
+⭐ 92 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-21 · [GitHub](https://github.com/ForceInjection/hands-on-ML) · 个人维护 · 中文 README
 
 **机器学习学习路径清单：整合课程、代码与实战案例**
 

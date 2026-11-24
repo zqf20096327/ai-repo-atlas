@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-seo
 
-⭐ 31,605 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/claude-seo) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 31,934 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/claude-seo) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **Claude Code 内的免费 SEO 审计插件，含 GEO/AI 搜索可引用性检查**
 

@@ -1,6 +1,6 @@
 # Moissanite-Labs/exo
 
-⭐ 4 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Moissanite-Labs/exo) · [官网](https://exo.askaconsult.com/) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Moissanite-Labs/exo) · [官网](https://exo.askaconsult.com/) · 组织维护
 
 **面向个人的终端与浏览器编码 agent，跨会话保持单一连续记忆**
 

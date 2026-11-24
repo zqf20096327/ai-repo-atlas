@@ -1,6 +1,6 @@
 # rustyorb/SillyTavern-CreativeStudio
 
-⭐ 10 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rustyorb/SillyTavern-CreativeStudio) · [官网](https://github.com/rustyorb/SillyTavern-CreativeStudio) · 个人维护
+⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rustyorb/SillyTavern-CreativeStudio) · [官网](https://github.com/rustyorb/SillyTavern-CreativeStudio) · 个人维护
 
 **SillyTavern 扩展：从一句话生成完整角色扮演套件**
 

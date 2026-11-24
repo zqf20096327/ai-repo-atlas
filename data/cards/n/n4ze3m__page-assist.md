@@ -1,6 +1,6 @@
 # n4ze3m/page-assist
 
-⭐ 8,353 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/n4ze3m/page-assist) · [官网](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo) · 个人维护
+⭐ 8,360 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/n4ze3m/page-assist) · [官网](https://chromewebstore.google.com/detail/page-assist-a-web-ui-for/jfgfiigpkhlkbnfnbobbkinehhfdhndo) · 个人维护
 
 **连接本地 AI 模型的浏览器扩展：侧边栏与网页 UI 对话**
 

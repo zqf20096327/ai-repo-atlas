@@ -1,6 +1,6 @@
 # alpacakit/alpacawork
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/alpacakit/alpacawork) · 个人维护
+⭐ 9 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alpacakit/alpacawork) · 个人维护
 
 **让协调 AI 为你分派和跟踪 Claude Code/Codex 任务的开源工具**
 

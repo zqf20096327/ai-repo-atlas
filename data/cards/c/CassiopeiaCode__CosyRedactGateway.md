@@ -1,6 +1,6 @@
 # CassiopeiaCode/CosyRedactGateway
 
-⭐ 108 · JavaScript · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/CassiopeiaCode/CosyRedactGateway) · 个人维护 · 中文 README
+⭐ 108 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/CassiopeiaCode/CosyRedactGateway) · 个人维护 · 中文 README
 
 **给程序员的 LLM API 凭据脱敏网关：出网前替换敏感值并可逆还原**
 

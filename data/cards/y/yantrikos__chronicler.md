@@ -1,6 +1,6 @@
 # yantrikos/chronicler
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/yantrikos/chronicler) · [官网](https://github.com/yantrikos/chronicler) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/yantrikos/chronicler) · [官网](https://github.com/yantrikos/chronicler) · 组织维护
 
 **自托管 AI 角色扮演客户端：带跨会话持久记忆**
 

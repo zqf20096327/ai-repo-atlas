@@ -1,6 +1,6 @@
 # lucidrains/env-ssl-wrapper
 
-⭐ 13 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lucidrains/env-ssl-wrapper) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lucidrains/env-ssl-wrapper) · 个人维护
 
 **为强化学习仿真环境提供 torch 原生统一封装的研究库**
 

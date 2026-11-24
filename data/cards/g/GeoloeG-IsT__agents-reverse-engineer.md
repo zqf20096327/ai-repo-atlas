@@ -1,6 +1,6 @@
 # GeoloeG-IsT/agents-reverse-engineer
 
-⭐ 22 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/GeoloeG-IsT/agents-reverse-engineer) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/GeoloeG-IsT/agents-reverse-engineer) · 个人维护
 
 **为 AI 编码助手生成代码库文档的工具（AGENTS.md/.sum）**
 

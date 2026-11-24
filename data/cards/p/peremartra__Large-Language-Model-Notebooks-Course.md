@@ -1,6 +1,6 @@
 # peremartra/Large-Language-Model-Notebooks-Course
 
-⭐ 1,827 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) · [官网](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce) · 个人维护
+⭐ 1,826 · Jupyter Notebook · MIT · 推送 2026-09-29 · [GitHub](https://github.com/peremartra/Large-Language-Model-Notebooks-Course) · [官网](https://medium.com/@peremartra/list/large-language-models-practical-course-66b4ce5943ce) · 个人维护
 
 **LLM 实践课程仓库：含教程文章、notebook 与小型项目**
 

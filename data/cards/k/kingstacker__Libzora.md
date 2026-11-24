@@ -1,6 +1,6 @@
 # kingstacker/Libzora
 
-⭐ 96 · C# · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/kingstacker/Libzora) · [官网](https://kkindle.stacker.beauty/) · 组织维护 · 中文 README
+⭐ 96 · C# · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/kingstacker/Libzora) · [官网](https://kkindle.stacker.beauty/) · 组织维护 · 中文 README
 
 **跨平台电子书与 Kindle 管理阅读器，含 AI 助手**
 

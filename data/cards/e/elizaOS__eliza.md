@@ -1,10 +1,10 @@
 # elizaOS/eliza
 
-⭐ 19,912 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
+⭐ 19,915 · Java · MIT · 推送 2026-11-24 · [GitHub](https://github.com/elizaOS/eliza) · [官网](https://elizaresearch.ai/) · 组织维护
 
-**给开发者的 agent 操作系统规范：Eliza v4 在 Vibestack 上的形式化工程**
+**面向开发者的 agentic 操作系统规范与运行时（Eliza v4 on Vibestack）**
 
-该仓库是 Eliza v4 on Vibestack 的规范工作区，覆盖内核、agent 宿主、设备镜像、云服务与助手插件：agent 运行在设备端，云端提供身份、计费与模型访问。规范包含需求、Quint 模型及 VibeLang 与 Effect 的生成契约。工作流为 pnpm 生成、检查模型轨迹与回放、证明安全义务并记录审查（pnpm accept），各包 shell 由其已接受规范实现。另含 Android Keystore 密码恢复测试夹具（Android 15+ 模拟器、gradle 安装测试 APK、vitest 聚焦旅程）。
+该仓库定义 Eliza v4 on Vibestack 的规格说明，覆盖内核、agent 宿主、设备镜像、云服务与助手插件；agent 在设备端运行，云端提供身份、计费与模型访问。规格包含需求、Quint 模型及 VibeLang 和 Effect 实现的生成契约。构建要求 Node 26 与 pnpm 10.24.0，通过 pnpm gen/check/verify 生成契约、检查模型轨迹、验证安全义务；另含基于 Android Keystore 与 PGlite Cloud Worker 的 Android 密码恢复测试夹具。
 
 ## 筛选速览
 
@@ -27,25 +27,24 @@
 
 ## 能力要点
 
-- 规范覆盖内核、agent 宿主、设备镜像、云服务与助手插件
+- 规格化覆盖内核、agent 宿主、设备镜像、云服务与助手插件
 - 设备端运行 agent，云端提供身份、计费与模型访问
-- pnpm check 生成契约、检查轨迹回放并证明安全义务
-- Android 密码备份/恢复测试夹具（Keystore + PGlite Cloud Worker）
+- Quint 模型与生成的 VibeLang/Effect 契约，pnpm check 做模型轨迹检查与安全义务证明
+- Android Keystore 密码恢复测试夹具（Android 15+ 模拟器）
 
 ## 适用场景
 
-- 按规范构建或验证 Eliza v4 各包的实现
-- 验证 Android 密码备份与新设备恢复流程
-- 基于 accepted specification 生成各包 shell 实现
+- 按规格构建运行在设备端的 Eliza agent
+- 验证 agent 系统的安全义务与模型轨迹
+- 测试 Android 设备上的密码备份与恢复流程
 
 ## 场景标签
 
-`多智能体` `Agent 框架` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: This workspace specifies Eliza v4 on Vibestack: the kernel, the agent host,
-> L4: the device image, the cloud services and the assistant plugins. Agents run
 > L5: on the device; the cloud serves identity, billing and model access. The
 
 ## 星数曲线
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `3e54b0d40f98` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 low · 依据 README sha `713b0a39877c` · [字段定义](../../DATASET.md)*

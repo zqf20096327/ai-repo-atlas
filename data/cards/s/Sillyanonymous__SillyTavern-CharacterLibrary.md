@@ -1,6 +1,6 @@
 # Sillyanonymous/SillyTavern-CharacterLibrary
 
-⭐ 174 · JavaScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Sillyanonymous/SillyTavern-CharacterLibrary) · [官网](https://discord.gg/YpWrpqT4DF) · 个人维护
+⭐ 175 · JavaScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Sillyanonymous/SillyTavern-CharacterLibrary) · [官网](https://discord.gg/YpWrpqT4DF) · 个人维护
 
 **SillyTavern 角色卡库管理扩展：发现、整理与管理角色库**
 

@@ -1,10 +1,10 @@
 # DasterProkio/awesome-ai-companion
 
-⭐ 1,253 · HTML · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/DasterProkio/awesome-ai-companion) · [官网](https://lutopia.app/companion/) · 个人维护 · 中文 README
+⭐ 1,258 · HTML · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/DasterProkio/awesome-ai-companion) · [官网](https://lutopia.app/companion/) · 个人维护 · 中文 README
 
-**面向长期 AI 伴侣关系的开源项目策展清单**
+**人机恋/长期 AI 伴侣开源项目大全清单**
 
-以 Awesome 清单形式聚合 AI 伴侣、桌面宠物、长期记忆与主动对话相关的开源软件、基础设施与社区条目。每个条目附一句功能描述，并标注状态标签（ready/adapt/infra/verify）、运行平台（Android/iOS/Web/Self-host/CLI 等）、编程语言与许可证。清单声明逐条阅读过代码、自动扫描新收录项目的恶意代码与已知漏洞依赖，未完成或不明条目加 verify/adapt 标记。内容按伴侣客户端、虚拟手机与伴侣空间等类别组织，中英双语。
+面向长期 AI 伴侣关系的开源项目聚合清单，收录伴侣客户端、桌面宠物、虚拟手机、长期记忆与主动聊天类项目，中英双语。每条条目标注代码实际功能、语言、运行平台（Android/iOS/Windows/Web/Self-host 等）与状态标签（ready/adapt/infra/verify）。清单声称逐项目阅读代码、对新收录项目做恶意代码扫描，未完成或不明晰的条目以 verify/adapt 标记提示读者自行核验。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 按伴侣客户端、虚拟手机/伴侣空间等类别组织的策展清单
-- 每条目标注状态（ready/adapt/infra/verify）与平台
-- 声明逐条读码并对新条目自动扫描恶意代码与漏洞依赖
-- 中英双语条目，含多个中文项目（橘瓣、柚月小手机、汪汪机等）
+- 逐项目读代码并撰写实际功能描述
+- 新条目自动扫描恶意代码模式与已知漏洞依赖
+- 统一的状态标签体系（ready/adapt/infra/verify）与平台标注
+- 中英双语条目，含多个中文社区项目
 
 ## 适用场景
 
-- 为自建 AI 伴侣或桌面宠物寻找可用的开源客户端与自托管方案
-- 筛选支持长期记忆与主动消息的伴侣应用条目
-- 按许可证与平台标签筛选适合 Android/iOS/Self-host 的项目
+- 想自托管一个带长期记忆的 AI 伴侣应用时选型
+- 查找 Android/iOS 上的伴侣聊天客户端或桌面宠物项目
+- 了解虚拟手机、伴侣空间这类条目的生态现状
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L8:  Software, infrastructure, and communities for long-term AI companion relationships.
-> L9:  人机恋开源项目大全 · 面向长期 AI 伴侣关系的开源软件、基础设施与社区。
-> L21: ## Contents
+> L13: We read the code of every project here, and each description says what it actually does.
+> L23: ## Companion Clients & Workspaces
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `69ff9ddf2561` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9e790976300d` · [字段定义](../../DATASET.md)*

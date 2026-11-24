@@ -1,6 +1,6 @@
 # anthropics/formal-math
 
-⭐ 503 · Lean · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/anthropics/formal-math) · 组织维护
+⭐ 650 · Lean · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/formal-math) · 组织维护
 
 **Anthropic 发布的 Lean 4 机器检验数学形式化项目集合**
 

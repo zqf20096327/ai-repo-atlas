@@ -1,6 +1,6 @@
 # Aarv-1o/Attentry
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Aarv-1o/Attentry) · [官网](https://attentry.js.org) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Aarv-1o/Attentry) · [官网](https://attentry.js.org) · 个人维护
 
 **本地静态分析器：审查 Claude Code/Codex 的每次代码编辑**
 

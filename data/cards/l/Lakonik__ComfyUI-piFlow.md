@@ -1,6 +1,6 @@
 # Lakonik/ComfyUI-piFlow
 
-⭐ 343 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Lakonik/ComfyUI-piFlow) · [官网](https://github.com/Lakonik/LakonLab) · 个人维护
+⭐ 450 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Lakonik/ComfyUI-piFlow) · [官网](https://github.com/Lakonik/LakonLab) · 个人维护
 
 **ComfyUI 自定义节点集：实现 AsymFlow 与 pi-Flow 图像生成模型**
 

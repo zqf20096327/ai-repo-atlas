@@ -1,6 +1,6 @@
 # MrHs6/ai-architec-rhino
 
-⭐ 4 · C# · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/MrHs6/ai-architec-rhino) · [官网](https://ai-arch.ir) · 个人维护
+⭐ 4 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MrHs6/ai-architec-rhino) · [官网](https://ai-arch.ir) · 个人维护
 
 **给 Rhino 建筑师的 AI 建模插件：对话生成本土几何**
 

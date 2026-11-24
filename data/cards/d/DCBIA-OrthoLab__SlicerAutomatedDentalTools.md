@@ -1,6 +1,6 @@
 # DCBIA-OrthoLab/SlicerAutomatedDentalTools
 
-⭐ 188 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) · 组织维护
+⭐ 189 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools) · 组织维护
 
 **3D Slicer 牙科/颅面自动分析扩展：分割、定位点、定向**
 

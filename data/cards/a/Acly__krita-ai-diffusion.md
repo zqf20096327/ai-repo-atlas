@@ -1,6 +1,6 @@
 # Acly/krita-ai-diffusion
 
-⭐ 10,929 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Acly/krita-ai-diffusion) · [官网](https://www.interstice.cloud) · 个人维护
+⭐ 10,935 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Acly/krita-ai-diffusion) · [官网](https://www.interstice.cloud) · 个人维护
 
 **Krita 绘画软件的 AI 图像生成插件**
 

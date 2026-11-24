@@ -1,16 +1,16 @@
 # DIYgod/pinky
 
-⭐ 2,675 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/DIYgod/pinky) · 个人维护
+⭐ 2,717 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/DIYgod/pinky) · 个人维护
 
-**让 AI agent 在你监督下操作 iPhone/Android 手机**
+**让 AI agent 在用户审批下操作 iPhone/Android 手机**
 
-桌面应用与手机端 App：通过 MCP 让任意 agent（Claude Code、Codex、Cursor 或脚本）操作真实手机，同时用户可在电脑上查看、批准风险步骤、随时接管。审批由 Pinky 网关强制执行，支付等操作默认等待确认；银行/钱包应用默认不可见。手机端 App 可脱离电脑独立用所选模型执行任务。提供 macOS/Windows/Linux 安装包，状态为 pre-alpha。
+Pinky 是一个跨平台（macOS/Windows/Linux）桌面应用，通过 MCP 协议让任意 agent（如 Claude Code、Cursor 或脚本）操作真实的 iPhone 或 Android 手机；每一步操作经其 gateway 强制执行审批规则，支付等风险操作默认等待用户确认，全程留有截图与录屏记录。手机端 App 也可独立运行任务，模型可自选。当前状态为 pre-alpha，支持 Android 10–17 与 iOS 17.4+。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 任意支持 MCP 的 agent 可接入，网关强制审批而非靠提示词约束
-- Android 13+ 提供隐藏第二屏幕，手机主屏仍归用户
-- 每步记录文字、截图与带标记的录屏，可导出 HTML 报告
-- 支持定时任务与经用户确认的记忆笔记
+- gateway 强制审批：规则由 Pinky 执行，agent 无法自行批准
+- 银行/钱包/密码管理类应用默认对 agent 不可见
+- Android 13+ 提供隐藏第二屏，手机主屏归用户
+- 每次运行生成带步骤标注的录屏，可导出 HTML 报告
 
 ## 适用场景
 
-- 让 Claude Code 等 agent 代为操作手机完成任务
-- 支付/发消息等敏感操作需人工点击批准的场景
-- 无电脑时用手机端 App 直接下达任务
+- 让 agent 代为在手机上发消息、下单，同时保留人工审批
+- 把手机操作任务交给手机端 App 独立完成，无需电脑
+- 定时或条件触发的手机自动化任务
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L2:  Let AI use your iPhone or Android phone, with you in the loop: any agent from macOS, Windows or Linux, or Pinky its
 > L7: Pinky lets any agent (Claude Code, Claude Desktop, Codex, Cursor or a script) operate a real iPhone or Android phone
-> L26: **Status:** pre-alpha. Claude Code has used real phones through it end to end (an Android phone over USB, an iPhone
+> L11: - **Any agent, one click.** Settings › Agents connects Claude Code, Claude Desktop, Codex, Cursor and more, and any
+> L17:  You decide what waits: Pinky You approve the risky steps. Payments, trades and transfers wait for your click; in S
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0919d165c691` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d5a6380a1d91` · [字段定义](../../DATASET.md)*

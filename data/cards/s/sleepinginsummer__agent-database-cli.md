@@ -1,6 +1,6 @@
 # sleepinginsummer/agent-database-cli
 
-⭐ 37 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sleepinginsummer/agent-database-cli) · [官网](https://www.npmjs.com/package/agent-database-cli) · 个人维护 · 中文 README
+⭐ 36 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sleepinginsummer/agent-database-cli) · [官网](https://www.npmjs.com/package/agent-database-cli) · 个人维护 · 中文 README
 
 **面向 Agent 的多数据库本地 CLI：连接、查询、元信息与权限控制**
 

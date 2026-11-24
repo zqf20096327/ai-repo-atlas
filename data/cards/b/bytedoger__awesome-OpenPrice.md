@@ -1,6 +1,6 @@
 # bytedoger/awesome-OpenPrice
 
-⭐ 1,144 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/bytedoger/awesome-OpenPrice) · [官网](https://www.openprice.cc) · 个人维护 · 中文 README
+⭐ 1,147 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/bytedoger/awesome-OpenPrice) · [官网](https://www.openprice.cc) · 个人维护 · 中文 README
 
 **AI 订阅价格聚合与卡网渠道比价平台：查价与比价**
 

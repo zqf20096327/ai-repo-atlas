@@ -1,6 +1,6 @@
 # spaxe-dev/zen-mcp
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/spaxe-dev/zen-mcp) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/spaxe-dev/zen-mcp) · 个人维护
 
 **让 AI agent 在 Zen Browser 内受控操作的 MCP 服务器**
 

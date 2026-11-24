@@ -1,6 +1,6 @@
 # joaobarrosodev/leis-portugal
 
-⭐ 3 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/joaobarrosodev/leis-portugal) · 个人维护
+⭐ 3 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/joaobarrosodev/leis-portugal) · 个人维护
 
 **葡萄牙法律法规开放数据仓库，面向公众与 AI 应用**
 

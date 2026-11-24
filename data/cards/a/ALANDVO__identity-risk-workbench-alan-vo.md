@@ -1,6 +1,6 @@
 # ALANDVO/identity-risk-workbench-alan-vo
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ALANDVO/identity-risk-workbench-alan-vo) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给身份治理审查者用的身份风险分析与整改预览工作台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

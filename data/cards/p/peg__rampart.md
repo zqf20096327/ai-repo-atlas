@@ -1,6 +1,6 @@
 # peg/rampart
 
-⭐ 93 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/peg/rampart) · [官网](https://rampart.sh) · 组织维护
+⭐ 93 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/peg/rampart) · [官网](https://rampart.sh) · 组织维护
 
 **给 AI agent 运维者的开源策略审批与审计防火墙**
 

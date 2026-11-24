@@ -1,6 +1,6 @@
 # ayaka-notes/ayakaleaf-pro
 
-⭐ 1,811 · JavaScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ayaka-notes/ayakaleaf-pro) · [官网](https://ayakaleaf-home.ayaka.space/) · 组织维护
+⭐ 1,823 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ayaka-notes/ayakaleaf-pro) · [官网](https://ayakaleaf-home.ayaka.space/) · 组织维护
 
 **自托管开源 LaTeX 编辑器，替代 Overleaf 社区版并补充其专业版功能**
 

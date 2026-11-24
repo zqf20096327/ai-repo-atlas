@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-email
 
-⭐ 142 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/AgriciDaniel/claude-email) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
+⭐ 143 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/AgriciDaniel/claude-email) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
 
 **面向 Claude Code 的邮件管理与营销技能包（6 子技能/4 agent）**
 

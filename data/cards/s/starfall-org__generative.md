@@ -1,6 +1,6 @@
 # starfall-org/generative
 
-⭐ 10 · Kotlin · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/starfall-org/generative) · [官网](https://starfall-org.github.io/generative/) · 组织维护
+⭐ 10 · Kotlin · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/starfall-org/generative) · [官网](https://starfall-org.github.io/generative/) · 组织维护
 
 **Android 原生 AI 客户端：BYOK 接入多家模型服务**
 

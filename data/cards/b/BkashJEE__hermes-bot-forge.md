@@ -1,6 +1,6 @@
 # BkashJEE/hermes-bot-forge
 
-⭐ 158 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/BkashJEE/hermes-bot-forge) · [官网](https://github.com/BkashJEE/hermes-bot-forge) · 个人维护
+⭐ 160 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/BkashJEE/hermes-bot-forge) · [官网](https://github.com/BkashJEE/hermes-bot-forge) · 个人维护
 
 **Hermes Agent 插件：一句话生成完整可用的 Bot（身份/记忆/工具/网关）**
 

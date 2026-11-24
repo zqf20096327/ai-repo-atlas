@@ -1,6 +1,6 @@
 # photon-hq/buildspace
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/photon-hq/buildspace) · [官网](https://photon.codes) · 组织维护
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/photon-hq/buildspace) · [官网](https://photon.codes) · 组织维护
 
 **可复用 GitHub Actions 发布流水线与组件库，供研发团队直接接入**
 

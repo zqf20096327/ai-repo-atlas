@@ -1,6 +1,6 @@
 # natolambert/rlhf-book
 
-⭐ 2,548 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/natolambert/rlhf-book) · [官网](https://rlhfbook.com/) · 个人维护 · 中文 README
+⭐ 2,550 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/natolambert/rlhf-book) · [官网](https://rlhfbook.com/) · 个人维护 · 中文 README
 
 **开源 RLHF 教科书：系统讲解 LLM 后训练与人类反馈对齐**
 

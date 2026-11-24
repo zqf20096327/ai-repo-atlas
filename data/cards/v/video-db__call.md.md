@@ -1,6 +1,6 @@
 # video-db/call.md
 
-⭐ 2,490 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/video-db/call.md) · [官网](https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md) · 组织维护
+⭐ 2,647 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/video-db/call.md) · [官网](https://docs.videodb.io/examples-and-tutorials/ai-copilots/call-md) · 组织维护
 
 **会议录制转写与实时 AI 分析的桌面应用，产出摘要与行动项**
 

@@ -1,6 +1,6 @@
 # mlc-ai/web-llm
 
-⭐ 19,396 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mlc-ai/web-llm) · [官网](https://webllm.mlc.ai) · 组织维护
+⭐ 19,399 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mlc-ai/web-llm) · [官网](https://webllm.mlc.ai) · 组织维护
 
 **给 Web 开发者的浏览器内 LLM 推理引擎，无需服务器**
 

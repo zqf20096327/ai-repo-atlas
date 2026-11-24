@@ -1,6 +1,6 @@
 # getsubwave/community
 
-⭐ 10 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/getsubwave/community) · [官网](https://www.getsubwave.com/skills) · 组织维护
+⭐ 10 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/getsubwave/community) · [官网](https://www.getsubwave.com/skills) · 组织维护
 
 **SUB/WAVE AI 电台社区目录：技能、人设、节目与电台索引**
 

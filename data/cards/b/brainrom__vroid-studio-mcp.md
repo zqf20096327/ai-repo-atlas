@@ -1,6 +1,6 @@
 # brainrom/vroid-studio-mcp
 
-⭐ 17 · C# · MIT · 推送 2026-11-07 · [GitHub](https://github.com/brainrom/vroid-studio-mcp) · 个人维护
+⭐ 18 · C# · MIT · 推送 2026-11-07 · [GitHub](https://github.com/brainrom/vroid-studio-mcp) · 个人维护
 
 **让 AI agent 直接操控 VRoid Studio 创建编辑 3D 角色的 MCP server**
 

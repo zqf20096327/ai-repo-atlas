@@ -1,6 +1,6 @@
 # chetto1983/Aura
 
-⭐ 36 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chetto1983/Aura) · 个人维护
+⭐ 36 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/chetto1983/Aura) · 个人维护
 
 **自托管多用户 AI agent 平台：工具、时序记忆、定时任务与多渠道**
 

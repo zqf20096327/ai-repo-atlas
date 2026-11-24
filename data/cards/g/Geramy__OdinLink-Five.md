@@ -1,6 +1,6 @@
 # Geramy/OdinLink-Five
 
-⭐ 78 · C · 推送 2026-11-04 · [GitHub](https://github.com/Geramy/OdinLink-Five) · 个人维护
+⭐ 79 · C · 推送 2026-11-04 · [GitHub](https://github.com/Geramy/OdinLink-Five) · 个人维护
 
 **把 Thunderbolt 5 变成 RDMA 互联的内核驱动与 NCCL/RCCL 插件**
 

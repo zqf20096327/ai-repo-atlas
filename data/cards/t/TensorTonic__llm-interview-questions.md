@@ -1,6 +1,6 @@
 # TensorTonic/llm-interview-questions
 
-⭐ 39 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TensorTonic/llm-interview-questions) · [官网](https://www.tensortonic.com/llm-internals) · 个人维护
+⭐ 40 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/TensorTonic/llm-interview-questions) · [官网](https://www.tensortonic.com/llm-internals) · 个人维护
 
 **LLM/Transformer 面试题清单：39 题配讲解与 Python 练习**
 

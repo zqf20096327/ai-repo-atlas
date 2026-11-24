@@ -1,6 +1,6 @@
 # runzhliu/welink
 
-⭐ 325 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/runzhliu/welink) · [官网](https://welink.click) · 个人维护 · 中文 README
+⭐ 326 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/runzhliu/welink) · [官网](https://welink.click) · 个人维护 · 中文 README
 
 **本地化微信聊天数据分析 AI 平台：分析、画像与 AI 分身**
 

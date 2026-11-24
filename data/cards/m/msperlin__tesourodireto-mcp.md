@@ -1,6 +1,6 @@
 # msperlin/tesourodireto-mcp
 
-⭐ 4 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/msperlin/tesourodireto-mcp) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/msperlin/tesourodireto-mcp) · 个人维护
 
 **为 LLM agent 提供巴西国债与 ANBIMA 收益率曲线数据的 MCP 服务器**
 

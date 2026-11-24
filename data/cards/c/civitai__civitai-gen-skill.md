@@ -1,6 +1,6 @@
 # civitai/civitai-gen-skill
 
-⭐ 19 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/civitai/civitai-gen-skill) · 组织维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/civitai/civitai-gen-skill) · 组织维护
 
 **通过 Civitai API 生成图像/视频/音频的运行时无关 agent 技能**
 

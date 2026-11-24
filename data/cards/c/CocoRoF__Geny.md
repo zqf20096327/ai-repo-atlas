@@ -1,6 +1,6 @@
 # CocoRoF/Geny
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/CocoRoF/Geny) · [官网](https://geny-x.hrletsgo.me) · 组织维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/CocoRoF/Geny) · [官网](https://geny-x.hrletsgo.me) · 组织维护 · 中文 README
 
 **自托管拟人 AI agent 平台：带形象、语音与记忆的多端 agent**
 

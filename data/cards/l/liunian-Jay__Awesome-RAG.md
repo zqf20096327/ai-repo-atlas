@@ -1,6 +1,6 @@
 # liunian-Jay/Awesome-RAG
 
-⭐ 521 · 推送 2026-11-22 · [GitHub](https://github.com/liunian-Jay/Awesome-RAG) · 组织维护
+⭐ 521 · 推送 2026-11-23 · [GitHub](https://github.com/liunian-Jay/Awesome-RAG) · 组织维护
 
 **RAG 领域论文与资源追踪清单（面向研究者）**
 

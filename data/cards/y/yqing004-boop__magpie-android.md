@@ -1,6 +1,6 @@
 # yqing004-boop/magpie-android
 
-⭐ 50 · Java · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/yqing004-boop/magpie-android) · [官网](https://www.coolapk.com/feed/74971201?s=NTU4MTYyYTQxOTEwNDdnNmFmMzNlZWF6a1665) · 个人维护 · 中文 README
+⭐ 54 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/yqing004-boop/magpie-android) · [官网](https://www.coolapk.com/feed/74971201?s=NTU4MTYyYTQxOTEwNDdnNmFmMzNlZWF6a1665) · 个人维护 · 中文 README
 
 **magpie 本地 AI 网关的非官方 Android 客户端**
 

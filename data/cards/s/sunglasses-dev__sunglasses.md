@@ -1,6 +1,6 @@
 # sunglasses-dev/sunglasses
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sunglasses-dev/sunglasses) · [官网](https://sunglasses.dev) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sunglasses-dev/sunglasses) · [官网](https://sunglasses.dev) · 组织维护
 
 **面向 AI agent 的本地输入防火墙与 MCP 代理（beta）**
 

@@ -1,6 +1,6 @@
 # plastic-labs/honcho
 
-⭐ 8,235 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/plastic-labs/honcho) · [官网](https://honcho.dev/docs) · 组织维护
+⭐ 8,251 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/plastic-labs/honcho) · [官网](https://honcho.dev/docs) · 组织维护
 
 **为有状态 agent 提供记忆基础设施的库与服务**
 

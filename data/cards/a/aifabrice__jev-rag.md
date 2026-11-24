@@ -1,6 +1,6 @@
 # aifabrice/jev-rag
 
-⭐ 21 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/aifabrice/jev-rag) · [官网](https://aifabrice.github.io/jev-rag/) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/aifabrice/jev-rag) · [官网](https://aifabrice.github.io/jev-rag/) · 个人维护 · 中文 README
 
 **本地优先的向量无关 RAG 知识搜索引擎，带引用回答**
 

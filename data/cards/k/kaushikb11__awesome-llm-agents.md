@@ -1,6 +1,6 @@
 # kaushikb11/awesome-llm-agents
 
-⭐ 1,625 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/kaushikb11/awesome-llm-agents) · 个人维护
+⭐ 1,628 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/kaushikb11/awesome-llm-agents) · 个人维护
 
 **LLM Agent 框架策展清单：按类别组织、每周更新指标**
 

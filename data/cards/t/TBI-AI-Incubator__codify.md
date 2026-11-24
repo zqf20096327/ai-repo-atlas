@@ -1,6 +1,6 @@
 # TBI-AI-Incubator/codify
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TBI-AI-Incubator/codify) · [官网](https://codify.centreai.global) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/TBI-AI-Incubator/codify) · [官网](https://codify.centreai.global) · 组织维护
 
 **将法律文本转换为 Akoma Ntoso 结构化 XML 的文档处理工具**
 

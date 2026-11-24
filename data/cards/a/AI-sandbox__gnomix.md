@@ -1,6 +1,6 @@
 # AI-sandbox/gnomix
 
-⭐ 128 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/AI-sandbox/gnomix) · 组织维护
+⭐ 128 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/AI-sandbox/gnomix) · [官网](https://www.nature.com/articles/s41467-026-75391-0) · 组织维护
 
 **基因组局部血统推断工具：对混血样本逐段判定祖先来源**
 

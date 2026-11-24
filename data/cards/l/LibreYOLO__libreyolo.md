@@ -1,6 +1,6 @@
 # LibreYOLO/libreyolo
 
-⭐ 1,054 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LibreYOLO/libreyolo) · [官网](https://www.libreyolo.com/) · 组织维护 · 中文 README
+⭐ 1,056 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LibreYOLO/libreyolo) · [官网](https://www.libreyolo.com/) · 组织维护 · 中文 README
 
 **MIT 许可的计算机视觉库：训练、推理与导出视觉模型**
 

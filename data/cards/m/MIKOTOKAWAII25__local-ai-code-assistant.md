@@ -1,6 +1,6 @@
 # MIKOTOKAWAII25/local-ai-code-assistant
 
-⭐ 126 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/MIKOTOKAWAII25/local-ai-code-assistant) · 个人维护
+⭐ 126 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/MIKOTOKAWAII25/local-ai-code-assistant) · 个人维护
 
 **离线多模型桌面编程助手：本地编排多个开源模型辅助编码**
 

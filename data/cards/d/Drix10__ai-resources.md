@@ -1,6 +1,6 @@
 # Drix10/ai-resources
 
-⭐ 133 · HTML · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/Drix10/ai-resources) · [官网](https://blogs.drix10.com) · 个人维护
+⭐ 134 · HTML · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/Drix10/ai-resources) · [官网](https://blogs.drix10.com) · 个人维护
 
 **AI 资讯策展知识库：41 类 10 万+条带来源摘要**
 

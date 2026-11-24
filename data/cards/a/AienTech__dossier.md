@@ -1,6 +1,6 @@
 # AienTech/dossier
 
-⭐ 5,367 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/AienTech/dossier) · [官网](https://dossier.aien.me) · 组织维护
+⭐ 5,435 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AienTech/dossier) · [官网](https://dossier.aien.me) · 组织维护
 
 **自托管求职应用：从个人档案生成定制简历与求职信**
 

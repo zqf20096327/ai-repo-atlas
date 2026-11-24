@@ -1,6 +1,6 @@
 # udecode/plate
 
-⭐ 16,712 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/udecode/plate) · [官网](https://platejs.org) · 组织维护 · 中文 README
+⭐ 16,712 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/udecode/plate) · [官网](https://platejs.org) · 组织维护 · 中文 README
 
 **React 富文本编辑器框架，含 AI 插件与 shadcn/ui 集成**
 

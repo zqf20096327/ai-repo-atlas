@@ -1,6 +1,6 @@
 # knowns-dev/knowns
 
-⭐ 252 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/knowns-dev/knowns) · [官网](http://knowns.sh) · 组织维护
+⭐ 253 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/knowns-dev/knowns) · [官网](http://knowns.sh) · 组织维护
 
 **给 AI 编程助手提供持久化项目上下文层的自托管工具**
 

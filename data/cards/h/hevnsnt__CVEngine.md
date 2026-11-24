@@ -1,6 +1,6 @@
 # hevnsnt/CVEngine
 
-⭐ 748 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/hevnsnt/CVEngine) · 个人维护
+⭐ 747 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/hevnsnt/CVEngine) · 个人维护
 
 **自托管外部攻击面评估平台：持续发现资产并以证据验证漏洞**
 

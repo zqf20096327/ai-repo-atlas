@@ -1,6 +1,6 @@
 # Iweisc/splee
 
-⭐ 7 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Iweisc/splee) · 个人维护
+⭐ 8 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Iweisc/splee) · 个人维护
 
 **自托管开源 AI SDR：找线索、写发个性化冷邮件并回复**
 

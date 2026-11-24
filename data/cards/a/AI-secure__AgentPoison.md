@@ -1,6 +1,6 @@
 # AI-secure/AgentPoison
 
-⭐ 257 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AI-secure/AgentPoison) · [官网](https://billchan226.github.io/AgentPoison) · 组织维护
+⭐ 258 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AI-secure/AgentPoison) · [官网](https://billchan226.github.io/AgentPoison) · 组织维护
 
 **对 LLM Agent 做记忆/知识库后门投毒攻击的红队研究实现**
 

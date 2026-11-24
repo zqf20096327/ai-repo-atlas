@@ -1,6 +1,6 @@
 # aklid01/manhua
 
-⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/aklid01/manhua) · 个人维护 · 中文 README
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/aklid01/manhua) · 个人维护 · 中文 README
 
 **把中文漫画页本地翻译为英文页的流水线工具**
 

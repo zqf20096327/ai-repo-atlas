@@ -1,6 +1,6 @@
 # rnoro/tithon
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/rnoro/tithon) · [官网](https://rnoro.github.io/tithon/) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rnoro/tithon) · [官网](https://rnoro.github.io/tithon/) · 个人维护
 
 **让 Jupyter 内核与输出在客户端断开后存活的守护进程工具**
 

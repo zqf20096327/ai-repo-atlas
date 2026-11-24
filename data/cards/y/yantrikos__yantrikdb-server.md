@@ -1,6 +1,6 @@
 # yantrikos/yantrikdb-server
 
-⭐ 180 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/yantrikos/yantrikdb-server) · [官网](https://yantrikdb.com) · 组织维护
+⭐ 181 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/yantrikos/yantrikdb-server) · [官网](https://yantrikdb.com) · 组织维护
 
 **面向 AI agent 的认知记忆数据库：遗忘、合并、矛盾检测**
 

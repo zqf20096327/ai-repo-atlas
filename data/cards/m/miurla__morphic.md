@@ -1,6 +1,6 @@
 # miurla/morphic
 
-⭐ 9,353 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/miurla/morphic) · [官网](https://chat.morphic.sh) · 个人维护
+⭐ 9,354 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/miurla/morphic) · [官网](https://chat.morphic.sh) · 个人维护
 
 **带生成式 UI 的 AI 搜索引擎（自托管 Web 应用）**
 

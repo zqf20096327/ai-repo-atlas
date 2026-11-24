@@ -1,6 +1,6 @@
 # cruxible-ai/cruxible
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cruxible-ai/cruxible) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cruxible-ai/cruxible) · 组织维护
 
 **给 AI agent 的受治理状态引擎：类型化知识工件全生命周期管理**
 

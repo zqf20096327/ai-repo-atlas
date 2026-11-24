@@ -1,6 +1,6 @@
 # bohyy/academic-ai-prompt
 
-⭐ 2,414 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/bohyy/academic-ai-prompt) · 个人维护 · 中文 README
+⭐ 2,418 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/bohyy/academic-ai-prompt) · 个人维护 · 中文 README
 
 **面向研究生的学术研究 AI Prompt 合集（89+条）**
 

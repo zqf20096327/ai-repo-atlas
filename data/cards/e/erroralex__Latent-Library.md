@@ -1,6 +1,6 @@
 # erroralex/Latent-Library
 
-⭐ 95 · Java · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/erroralex/Latent-Library) · [官网](https://github.com/erroralex/Latent-Library/releases) · 个人维护
+⭐ 96 · Java · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/erroralex/Latent-Library) · [官网](https://github.com/erroralex/Latent-Library/releases) · 个人维护
 
 **面向 AI 生成图像的本地优先桌面素材管理器**
 

@@ -1,6 +1,6 @@
 # Magnussmari/chronograph
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Magnussmari/chronograph) · [官网](https://timeline.sumarhus.com) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Magnussmari/chronograph) · [官网](https://timeline.sumarhus.com) · 个人维护
 
 **AI 生成的 5,226 年人类历史逐年 JSON 语料库与阅读前端**
 

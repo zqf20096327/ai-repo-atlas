@@ -1,6 +1,6 @@
 # boromat/polanon
 
-⭐ 38 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/boromat/polanon) · [官网](https://boromat.pl/polanon/) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/boromat/polanon) · [官网](https://boromat.pl/polanon/) · 个人维护
 
 **面向波兰语场景的可逆 PII 掩码库：LLM 调用与 RAG 前后脱敏还原**
 

@@ -1,6 +1,6 @@
 # ronak-create/FableCut
 
-⭐ 807 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ronak-create/FableCut) · [官网](fablecut.space) · 个人维护
+⭐ 812 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ronak-create/FableCut) · [官网](fablecut.space) · 个人维护
 
 **浏览器端非线性视频编辑器，可由 AI agent 通过 JSON/MCP 驱动**
 

@@ -1,6 +1,6 @@
 # SWE-agent/SWE-agent
 
-⭐ 20,854 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/SWE-agent/SWE-agent) · [官网](https://swe-agent.com) · 组织维护
+⭐ 20,855 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SWE-agent/SWE-agent) · [官网](https://swe-agent.com) · 组织维护
 
 **科研团队的自动修复 GitHub issue 的 LM agent**
 

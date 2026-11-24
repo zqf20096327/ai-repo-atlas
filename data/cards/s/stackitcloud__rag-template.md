@@ -1,6 +1,6 @@
 # stackitcloud/rag-template
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/stackitcloud/rag-template) · [官网](https://www.stackit.de/en/) · 组织维护
+⭐ 86 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/stackitcloud/rag-template) · [官网](https://www.stackit.de/en/) · 组织维护
 
 **STACKIT 维护的 RAG 应用模板：构建 AI 聊天与文档管理**
 

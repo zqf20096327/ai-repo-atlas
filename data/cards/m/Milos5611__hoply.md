@@ -1,6 +1,6 @@
 # Milos5611/hoply
 
-⭐ 21 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Milos5611/hoply) · [官网](https://hoply.dev) · 个人维护
+⭐ 21 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Milos5611/hoply) · [官网](https://hoply.dev) · 个人维护
 
 **macOS 菜单栏应用：监控多个 AI 编码 agent 的会话、费用与限额**
 

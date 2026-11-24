@@ -1,6 +1,6 @@
 # OpenDemon/claude-ace
 
-⭐ 39 · JavaScript · 推送 2026-04-01 · [GitHub](https://github.com/OpenDemon/claude-ace) · [官网](https://github.com/OpenDemon/claude-ace) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · 推送 2026-04-01 · [GitHub](https://github.com/OpenDemon/claude-ace) · [官网](https://github.com/OpenDemon/claude-ace) · 个人维护 · 中文 README
 
 **降低 Token 消耗的 AI 编程助手，兼容多模型 API**
 

@@ -1,6 +1,6 @@
 # DuetDisplay/AutoDoc
 
-⭐ 78 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/DuetDisplay/AutoDoc) · [官网](https://getautodoc.com/) · 组织维护
+⭐ 78 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/DuetDisplay/AutoDoc) · [官网](https://getautodoc.com/) · 组织维护
 
 **本地处理的 AI 会议记录应用，录音转写并生成笔记**
 

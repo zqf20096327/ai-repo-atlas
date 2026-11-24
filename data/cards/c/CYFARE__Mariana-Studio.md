@@ -1,6 +1,6 @@
 # CYFARE/Mariana-Studio
 
-⭐ 62 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/CYFARE/Mariana-Studio) · [官网](https://cyfare.net/) · 组织维护
+⭐ 61 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/CYFARE/Mariana-Studio) · [官网](https://cyfare.net/) · 组织维护
 
 **本地一站式语言模型训练/微调/部署工作台**
 

@@ -1,6 +1,6 @@
 # mangfufu/dsh-comfyui-web
 
-⭐ 25 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/mangfufu/dsh-comfyui-web) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/mangfufu/dsh-comfyui-web) · 个人维护 · 中文 README
 
 **在 dsh 网页内嵌 ComfyUI 并让 AI 经 MCP 操作工作流的插件**
 

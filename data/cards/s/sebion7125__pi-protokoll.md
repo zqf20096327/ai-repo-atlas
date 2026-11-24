@@ -1,6 +1,6 @@
 # sebion7125/pi-protokoll
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sebion7125/pi-protokoll) · [官网](https://pi.dev/packages/pi-protokoll) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sebion7125/pi-protokoll) · [官网](https://pi.dev/packages/pi-protokoll) · 个人维护 · 中文 README
 
 **Pi 编码 agent 扩展：用本地 LLM 做长会话上下文压缩**
 

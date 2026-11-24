@@ -1,6 +1,6 @@
 # frankbria/auto-author
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/frankbria/auto-author) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/frankbria/auto-author) · 个人维护
 
 **面向长篇非虚构写作者的 AI 图书创作平台**
 

@@ -1,6 +1,6 @@
 # AlleyBo55/gocode
 
-⭐ 49 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AlleyBo55/gocode) · 个人维护
+⭐ 49 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AlleyBo55/gocode) · 个人维护
 
 **Go 编写的开源终端 AI 编码 agent 运行时，单二进制支持任意模型**
 

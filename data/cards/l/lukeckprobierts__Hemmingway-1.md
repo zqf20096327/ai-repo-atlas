@@ -1,6 +1,6 @@
 # lukeckprobierts/Hemmingway-1
 
-⭐ 48 · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/lukeckprobierts/Hemmingway-1) · [官网](https://hemmingway.io) · 组织维护
+⭐ 49 · NOASSERTION · 推送 2026-10-01 · [GitHub](https://github.com/lukeckprobierts/Hemmingway-1) · [官网](https://hemmingway.io) · 组织维护
 
 **27B 开放权重写作模型：以贴近人类口吻生成日常文本**
 

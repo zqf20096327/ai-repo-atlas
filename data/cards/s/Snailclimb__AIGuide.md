@@ -1,6 +1,6 @@
 # Snailclimb/AIGuide
 
-⭐ 752 · 推送 2026-11-06 · [GitHub](https://github.com/Snailclimb/AIGuide) · [官网](https://javaguide.cn/ai/) · 个人维护 · 中文 README
+⭐ 753 · 推送 2026-11-06 · [GitHub](https://github.com/Snailclimb/AIGuide) · [官网](https://javaguide.cn/ai/) · 个人维护 · 中文 README
 
 **面向开发者学习 AI 应用开发与 AI 编程的中文指南**
 

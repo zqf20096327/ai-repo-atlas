@@ -1,6 +1,6 @@
 # surya-koritala/Glyd
 
-⭐ 186 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/surya-koritala/Glyd) · [官网](https://surya-koritala.github.io/Glyd/guide/) · 个人维护
+⭐ 186 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/surya-koritala/Glyd) · [官网](https://surya-koritala.github.io/Glyd/guide/) · 个人维护
 
 **给 LLM 推理用户的无损压缩运行时：省约三成 GPU 显存**
 

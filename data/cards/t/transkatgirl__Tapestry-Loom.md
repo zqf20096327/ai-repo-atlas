@@ -1,6 +1,6 @@
 # transkatgirl/Tapestry-Loom
 
-⭐ 94 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/transkatgirl/Tapestry-Loom) · 个人维护
+⭐ 95 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/transkatgirl/Tapestry-Loom) · 个人维护
 
 **面向高级用户的 LLM 基础模型 Loom 界面：树状分支生成与 token 概率分析**
 

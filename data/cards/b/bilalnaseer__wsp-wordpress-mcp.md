@@ -1,6 +1,6 @@
 # bilalnaseer/wsp-wordpress-mcp
 
-⭐ 73 · PHP · GPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bilalnaseer/wsp-wordpress-mcp) · [官网](https://wspmcp.com) · 组织维护
+⭐ 74 · PHP · GPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bilalnaseer/wsp-wordpress-mcp) · [官网](https://wspmcp.com) · 组织维护
 
 **让 AI 编码助手通过 MCP 直接读写 WordPress 站点的插件**
 

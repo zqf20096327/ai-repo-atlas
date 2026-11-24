@@ -1,6 +1,6 @@
 # Echoxiawan/echobench
 
-⭐ 52 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Echoxiawan/echobench) · 个人维护 · 中文 README
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Echoxiawan/echobench) · 个人维护 · 中文 README
 
 **给移动 QA/开发的本机优先测试台：录制、回放、多端同步与 AI 导出**
 

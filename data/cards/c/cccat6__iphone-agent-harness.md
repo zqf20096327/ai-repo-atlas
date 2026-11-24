@@ -1,6 +1,6 @@
 # cccat6/iphone-agent-harness
 
-⭐ 51 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cccat6/iphone-agent-harness) · [官网](https://igent.cc) · 个人维护 · 中文 README
+⭐ 52 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cccat6/iphone-agent-harness) · [官网](https://igent.cc) · 个人维护 · 中文 README
 
 **用 AI 通过 Safari 与 ESP32 蓝牙桥自动化操作 iPhone 的工具**
 

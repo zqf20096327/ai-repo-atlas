@@ -1,6 +1,6 @@
 # chrischall/opencode-copilot-plugin
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/chrischall/opencode-copilot-plugin) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/chrischall/opencode-copilot-plugin) · 个人维护
 
 **让 opencode 以组织 M365 Copilot 作为模型后端的插件**
 

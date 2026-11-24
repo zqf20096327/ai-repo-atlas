@@ -1,6 +1,6 @@
 # thevibeworks/claude-reads-hn
 
-⭐ 18 · HTML · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/thevibeworks/claude-reads-hn) · [官网](https://thevibeworks.github.io/claude-reads-hn) · 个人维护
+⭐ 18 · HTML · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/thevibeworks/claude-reads-hn) · [官网](https://thevibeworks.github.io/claude-reads-hn) · 个人维护
 
 **Claude 定时读 Hacker News 生成辣评摘要并推送的自动化仓库**
 

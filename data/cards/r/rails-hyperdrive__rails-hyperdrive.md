@@ -1,6 +1,6 @@
 # rails-hyperdrive/rails-hyperdrive
 
-⭐ 83 · Ruby · MIT · 推送 2026-10-02 · [GitHub](https://github.com/rails-hyperdrive/rails-hyperdrive) · 组织维护
+⭐ 84 · Ruby · MIT · 推送 2026-10-02 · [GitHub](https://github.com/rails-hyperdrive/rails-hyperdrive) · 组织维护
 
 **开发期 Rails 引擎：向 AI 编码 agent 提供应用实时内省与栈匹配技能**
 

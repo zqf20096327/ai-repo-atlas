@@ -1,6 +1,6 @@
 # wjluoxiao/XB_ToolBox
 
-⭐ 473 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/wjluoxiao/XB_ToolBox) · [官网](https://space.bilibili.com/302329373) · 个人维护 · 中文 README
+⭐ 475 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/wjluoxiao/XB_ToolBox) · [官网](https://space.bilibili.com/302329373) · 个人维护 · 中文 README
 
 **面向 AMD GPU 的 ComfyUI 自定义节点套件：141 节点+显存优化**
 

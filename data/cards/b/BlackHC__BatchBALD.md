@@ -1,6 +1,6 @@
 # BlackHC/BatchBALD
 
-⭐ 249 · Python · GPL-3.0 · 推送 2026-04-13 · [GitHub](https://github.com/BlackHC/BatchBALD) · [官网](https://blackhc.github.io/BatchBALD/) · 个人维护
+⭐ 250 · Python · GPL-3.0 · 推送 2026-04-13 · [GitHub](https://github.com/BlackHC/BatchBALD) · [官网](https://blackhc.github.io/BatchBALD/) · 个人维护
 
 **BatchBALD 论文代码：深度贝叶斯主动学习的批量采集**
 

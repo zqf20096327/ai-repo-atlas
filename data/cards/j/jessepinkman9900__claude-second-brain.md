@@ -1,6 +1,6 @@
 # jessepinkman9900/claude-second-brain
 
-⭐ 179 · JavaScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/jessepinkman9900/claude-second-brain) · [官网](https://jessepinkman9900.github.io/claude-second-brain/) · 个人维护
+⭐ 180 · JavaScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/jessepinkman9900/claude-second-brain) · [官网](https://jessepinkman9900.github.io/claude-second-brain/) · 个人维护
 
 **一条命令搭建 LLM 驱动的个人知识库（Claude Code+Obsidian+qmd）**
 

@@ -1,6 +1,6 @@
 # ThinkOffApp/ide-agent-kit
 
-⭐ 45 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ThinkOffApp/ide-agent-kit) · [官网](https://thinkoff.io) · 组织维护
+⭐ 46 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ThinkOffApp/ide-agent-kit) · [官网](https://thinkoff.io) · 组织维护
 
 **让 IDE AI 参与团队协作的多 agent 协调工具包**
 

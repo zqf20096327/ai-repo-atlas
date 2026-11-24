@@ -1,6 +1,6 @@
 # hamedghaderi/review
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hamedghaderi/review) · [官网](https://review-code.dev/) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hamedghaderi/review) · [官网](https://review-code.dev/) · 个人维护
 
 **本地桌面代码审查工具：审 Git 分支与 GitHub PR，可选 AI 审查**
 

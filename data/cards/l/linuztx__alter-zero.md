@@ -1,6 +1,6 @@
 # linuztx/alter-zero
 
-⭐ 175 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/linuztx/alter-zero) · 个人维护
+⭐ 179 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/linuztx/alter-zero) · 个人维护
 
 **Rust 编写的终端 AI 编程 agent，兼做安全研究与自动化**
 

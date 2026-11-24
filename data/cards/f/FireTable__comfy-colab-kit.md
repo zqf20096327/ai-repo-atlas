@@ -1,6 +1,6 @@
 # FireTable/comfy-colab-kit
 
-⭐ 138 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/FireTable/comfy-colab-kit) · [官网](https://comfy-colab-kit.firetable.tech) · 个人维护 · 中文 README
+⭐ 140 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/FireTable/comfy-colab-kit) · [官网](https://comfy-colab-kit.firetable.tech) · 个人维护 · 中文 README
 
 **在临时 Colab GPU 上按需唤醒/托管 ComfyUI 的网关**
 

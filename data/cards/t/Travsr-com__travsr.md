@@ -1,6 +1,6 @@
 # Travsr-com/travsr
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Travsr-com/travsr) · [官网](https://travsr.com) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Travsr-com/travsr) · [官网](https://travsr.com) · 组织维护
 
 **面向 AI agent 的代码图 MCP 服务器：提供真实调用边上的代码智能**
 

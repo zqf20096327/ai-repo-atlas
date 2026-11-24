@@ -1,6 +1,6 @@
 # go-kratos/kratos
 
-⭐ 26,042 · Go · MIT · 推送 2026-11-01 · [GitHub](https://github.com/go-kratos/kratos) · [官网](https://go-kratos.dev) · 组织维护 · 中文 README
+⭐ 26,043 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/go-kratos/kratos) · [官网](https://go-kratos.dev) · 组织维护 · 中文 README
 
 **Go 微服务框架：云原生服务开发全流程支持**
 

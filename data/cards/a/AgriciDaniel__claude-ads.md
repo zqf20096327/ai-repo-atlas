@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-ads
 
-⭐ 11,236 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/AgriciDaniel/claude-ads) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 11,278 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/AgriciDaniel/claude-ads) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **面向广告运营者的 Claude Code 审计技能：跨 12 个广告平台出具证据化审计**
 

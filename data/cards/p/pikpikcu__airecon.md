@@ -1,6 +1,6 @@
 # pikpikcu/airecon
 
-⭐ 1,098 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/pikpikcu/airecon) · 个人维护
+⭐ 1,101 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/pikpikcu/airecon) · 个人维护
 
 **自主渗透测试 agent：本地 LLM+Kali 沙箱跑侦察与利用**
 

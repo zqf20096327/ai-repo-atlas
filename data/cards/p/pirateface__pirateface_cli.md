@@ -1,6 +1,6 @@
 # pirateface/pirateface_cli
 
-⭐ 31 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/pirateface/pirateface_cli) · [官网](https://pirateface.co) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pirateface/pirateface_cli) · [官网](https://pirateface.co) · 个人维护
 
 **面向 AI 模型的 BitTorrent P2P 下载 CLI 工具**
 

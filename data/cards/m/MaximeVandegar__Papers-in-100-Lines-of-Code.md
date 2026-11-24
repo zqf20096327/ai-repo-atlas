@@ -1,6 +1,6 @@
 # MaximeVandegar/Papers-in-100-Lines-of-Code
 
-⭐ 2,915 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) · 个人维护
+⭐ 2,917 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/MaximeVandegar/Papers-in-100-Lines-of-Code) · 个人维护
 
 **以每篇百行代码实现经典 AI 论文的教育性代码集**
 

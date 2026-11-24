@@ -1,6 +1,6 @@
 # failcoach/ai-agent-onboarding
 
-⭐ 12 · MIT · 推送 2026-04-16 · [GitHub](https://github.com/failcoach/ai-agent-onboarding) · [官网](https://fail.coach) · 个人维护
+⭐ 13 · MIT · 推送 2026-04-16 · [GitHub](https://github.com/failcoach/ai-agent-onboarding) · [官网](https://fail.coach) · 个人维护
 
 **面向小企业主的 AI agent 上手模板与引导式访谈套件**
 

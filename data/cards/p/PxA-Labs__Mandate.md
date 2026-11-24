@@ -1,6 +1,6 @@
 # PxA-Labs/Mandate
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/PxA-Labs/Mandate) · [官网](https://mandate-web-vo77.onrender.com) · 组织维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PxA-Labs/Mandate) · [官网](https://mandate-web-vo77.onrender.com) · 组织维护
 
 **给 AI agent 消费加预算护栏：LLM 提议，代码裁决**
 

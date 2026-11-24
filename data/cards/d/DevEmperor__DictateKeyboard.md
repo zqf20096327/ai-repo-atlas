@@ -1,6 +1,6 @@
 # DevEmperor/DictateKeyboard
 
-⭐ 330 · Kotlin · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/DevEmperor/DictateKeyboard) · [官网](https://dictatekeyboard.com) · 个人维护
+⭐ 332 · Kotlin · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/DevEmperor/DictateKeyboard) · [官网](https://dictatekeyboard.com) · 个人维护
 
 **Android AI 语音听写键盘：多引擎实时转文字**
 

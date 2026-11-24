@@ -1,6 +1,6 @@
 # zavi2997-droid/claude-code-agent-workspace
 
-⭐ 147 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/zavi2997-droid/claude-code-agent-workspace) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Claude Code agent 提供隔离工作区与编排的 Windows CLI**
 

@@ -1,10 +1,10 @@
 # 0xShug0/audio.cpp
 
-⭐ 4,410 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/0xShug0/audio.cpp) · 个人维护
+⭐ 4,426 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/0xShug0/audio.cpp) · 个人维护
 
-**纯 C++ 本地音频模型推理引擎：TTS/ASR/音乐生成等**
+**纯 C++ 本地音频模型推理引擎：运行 TTS/ASR 等任务**
 
-基于 ggml 的 C++ 音频推理框架，为本地音频模型提供统一的原生运行时：支持 TTS、ASR、语音克隆、变声、声源分离、音乐生成、VAD、对齐等多类任务，通过共享 CLI 和 server API 运行 154 个模型家族、250+ 变体。内置 WebUI（Studio/Arena/TTS 应用），支持 GGUF 打包、LoRA 适配器、流式推理。覆盖 Windows/Linux/macOS 与 CUDA、HIP/ROCm、Vulkan、Metal、WebGPU、SYCL、CPU 后端，无 Python 依赖。
+基于 ggml 的 C++ 音频推理框架，通过统一 CLI 与 server API 本地运行 154 个音频模型家族（250+ 变体），覆盖 TTS、ASR、语音克隆/转换、分离、对齐、音乐生成、VAD 等任务。支持 CUDA、HIP/ROCm、Vulkan、Metal、WebGPU、SYCL 与 CPU 后端，运行于 Windows/Linux/macOS，无 Python 依赖，提供内置 WebUI（Studio/Arena/TTS 应用）、GGUF 打包、LoRA 适配器、流式推理与 C ABI 库。模型权重许可与本项目许可分离，另有 Audio Model Architecture Atlas 收录 100+ 模型架构。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- 154 个音频模型家族、250+ 变体，统一 CLI 与 server API
-- 7 类后端：CPU/CUDA/HIP/Vulkan/Metal/WebGPU/SYCL
-- 内置 WebUI：语音生成/克隆、模型对比 Arena、语音库管理
-- GGUF 量化打包、LoRA 适配器、流式推理与 C ABI 库
+- 154 个音频模型家族、250+ 变体，统一 CLI 与 server API 调用
+- 支持 CPU/CUDA/HIP/Vulkan/Metal/WebGPU/SYCL 后端，含 ARM NEON 与 Rockchip NPU 优化
+- 内置 WebUI：语音克隆 Studio、模型对比 Arena、TTS 叙事编辑
+- GGUF 打包、LoRA 适配器、流式会话与 C ABI 集成库
 
 ## 适用场景
 
-- 在本地离线运行 TTS 与语音识别，替代多套 Python 环境
-- 为应用集成语音合成/克隆与转录能力
-- 在浏览器（WASM+WebGPU）中运行音频推理
-- ARM/Rockchip 等边缘设备上部署音频模型
+- 本地运行 TTS 与语音克隆生成语音
+- 本地批量转录语音为文字（ASR/说话人分轨）
+- 在无 Python 环境的机器上部署音频模型推理
+- 浏览器 WebGPU 环境下运行音频推理
 
 ## 场景标签
 
-`语音合成` `语音识别` `推理引擎` `模型量化` · 领域:内容生成
+`语音合成` `语音识别` `推理引擎` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `9d84ca2874bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `853323a1ee53` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # KenTaniguchi-R/ledgr
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/KenTaniguchi-R/ledgr) · 个人维护
+⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/KenTaniguchi-R/ledgr) · 个人维护
 
 **自托管个人记账应用：银行同步+AI分类+MCP代理查询**
 

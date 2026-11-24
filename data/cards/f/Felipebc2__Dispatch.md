@@ -1,6 +1,6 @@
 # Felipebc2/Dispatch
 
-⭐ 3 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Felipebc2/Dispatch) · [官网](https://github.com/Felipebc2/Dispatch) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Felipebc2/Dispatch) · [官网](https://github.com/Felipebc2/Dispatch) · 个人维护
 
 **CTF 选手的分诊优先解题插件，先分类再派发专家 agent**
 

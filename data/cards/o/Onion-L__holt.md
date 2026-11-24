@@ -1,6 +1,6 @@
 # Onion-L/holt
 
-⭐ 21 · Rust · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/Onion-L/holt) · [官网](https://holtagent.cc) · 个人维护 · 中文 README
+⭐ 21 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Onion-L/holt) · [官网](https://holtagent.cc) · 个人维护 · 中文 README
 
 **macOS 本地编码 agent 桌面应用：崩溃恢复与任意步骤回退**
 

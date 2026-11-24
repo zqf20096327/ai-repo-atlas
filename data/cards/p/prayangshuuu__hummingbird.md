@@ -1,6 +1,6 @@
 # prayangshuuu/hummingbird
 
-⭐ 68 · C · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/prayangshuuu/hummingbird) · 个人维护
+⭐ 69 · C · NOASSERTION · 推送 2026-07-31 · [GitHub](https://github.com/prayangshuuu/hummingbird) · 个人维护
 
 **零依赖 C17 LLM 推理运行时：统一 SSD/RAM/VRAM 跑超大 MoE 模型**
 

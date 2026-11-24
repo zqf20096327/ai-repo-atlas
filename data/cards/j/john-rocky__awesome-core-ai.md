@@ -1,6 +1,6 @@
 # john-rocky/awesome-core-ai
 
-⭐ 11 · Python · 推送 2026-11-16 · [GitHub](https://github.com/john-rocky/awesome-core-ai) · [官网](https://john-rocky.github.io/core-ai/) · 个人维护
+⭐ 11 · Python · 推送 2026-11-23 · [GitHub](https://github.com/john-rocky/awesome-core-ai) · [官网](https://john-rocky.github.io/core-ai/) · 个人维护
 
 **Apple Core AI 框架资源策展清单：文档、模型、工具与教程**
 

@@ -1,6 +1,6 @@
 # blwfish/freecad-mcp
 
-⭐ 69 · Python · LGPL-2.1 · 推送 2026-11-16 · [GitHub](https://github.com/blwfish/freecad-mcp) · 个人维护
+⭐ 69 · Python · LGPL-2.1 · 推送 2026-11-23 · [GitHub](https://github.com/blwfish/freecad-mcp) · 个人维护
 
 **连接 AI agent 与 FreeCAD 的 MCP 服务器，含 32 个 CAD 工具**
 

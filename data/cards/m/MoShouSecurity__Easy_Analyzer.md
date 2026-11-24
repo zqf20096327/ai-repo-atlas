@@ -1,6 +1,6 @@
 # MoShouSecurity/Easy_Analyzer
 
-⭐ 29 · Rust · MIT · 推送 2026-11-04 · [GitHub](https://github.com/MoShouSecurity/Easy_Analyzer) · 组织维护 · 中文 README
+⭐ 31 · Rust · MIT · 推送 2026-11-04 · [GitHub](https://github.com/MoShouSecurity/Easy_Analyzer) · 组织维护 · 中文 README
 
 **Rust 跨平台应急响应取证分析工具，CLI+GUI，AI 可选辅助**
 

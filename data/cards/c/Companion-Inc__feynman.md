@@ -1,6 +1,6 @@
 # Companion-Inc/feynman
 
-⭐ 10,147 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Companion-Inc/feynman) · [官网](https://feynman.is) · 组织维护
+⭐ 10,151 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Companion-Inc/feynman) · [官网](https://feynman.is) · 组织维护
 
 **面向研究者的开源 AI 科研 agent CLI**
 

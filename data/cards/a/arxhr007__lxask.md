@@ -1,6 +1,6 @@
 # arxhr007/lxask
 
-⭐ 140 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/arxhr007/lxask) · [官网](https://arxhr007.github.io/lxask/) · 个人维护
+⭐ 179 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/arxhr007/lxask) · [官网](https://arxhr007.github.io/lxask/) · 个人维护
 
 **离线 Linux 命令助手：本地 1.5B 模型生成命令并核对文档**
 

@@ -1,6 +1,6 @@
 # cymoo/lovia
 
-⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cymoo/lovia) · [官网](https://cymoo.github.io/lovia) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cymoo/lovia) · [官网](https://cymoo.github.io/lovia) · 个人维护 · 中文 README
 
 **轻量 Python AI Agent 框架：覆盖工具、会话、上下文压缩与服务**
 

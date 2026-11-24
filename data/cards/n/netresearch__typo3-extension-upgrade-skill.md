@@ -1,6 +1,6 @@
 # netresearch/typo3-extension-upgrade-skill
 
-⭐ 12 · Shell · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/netresearch/typo3-extension-upgrade-skill) · 组织维护
+⭐ 12 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/netresearch/typo3-extension-upgrade-skill) · 组织维护
 
 **给扩展开发者的 TYPO3 扩展升级 Agent 技能包**
 

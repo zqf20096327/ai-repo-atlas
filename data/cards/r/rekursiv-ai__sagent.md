@@ -1,6 +1,6 @@
 # rekursiv-ai/sagent
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rekursiv-ai/sagent) · [官网](https://rekursiv.ai) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/rekursiv-ai/sagent) · [官网](https://rekursiv.ai) · 组织维护
 
 **多供应商编码 agent CLI 与强类型 Python 库**
 

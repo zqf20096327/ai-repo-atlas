@@ -1,6 +1,6 @@
 # heznpc/AirMCP
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/heznpc/AirMCP) · [官网](https://heznpc.github.io/AirMCP/) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/heznpc/AirMCP) · [官网](https://heznpc.github.io/AirMCP/) · 个人维护
 
 **面向 Apple 生态的受治理 MCP 运行时：让 AI 助手操作本机真实应用**
 

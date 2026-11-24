@@ -1,6 +1,6 @@
 # milvus-io/milvus-proto
 
-⭐ 49 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/milvus-io/milvus-proto) · 组织维护
+⭐ 49 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/milvus-io/milvus-proto) · 组织维护
 
 **Milvus 各 SDK 间共享 protobuf 接口定义的仓库**
 

@@ -1,6 +1,6 @@
 # BrainRTP/byoglot-translator
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/BrainRTP/byoglot-translator) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BrainRTP/byoglot-translator) · 个人维护
 
 **复用你自有模型与提示词的浏览器页面/划词翻译扩展**
 

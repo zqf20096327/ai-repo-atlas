@@ -1,6 +1,6 @@
 # kabmo-labs/kabmo
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kabmo-labs/kabmo) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kabmo-labs/kabmo) · 组织维护
 
 **AI 编码 agent 的 Web 控制台与诊断工作台，默认接 omp**
 

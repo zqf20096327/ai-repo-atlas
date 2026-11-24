@@ -1,6 +1,6 @@
 # IIIIIllllIIIIIlllll/Qwenox
 
-⭐ 154 · C++ · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/IIIIIllllIIIIIlllll/Qwenox) · 个人维护 · 中文 README
+⭐ 155 · C++ · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/IIIIIllllIIIIIlllll/Qwenox) · 个人维护 · 中文 README
 
 **在 AMD Strix Halo 128GB APU 上本地运行 Qwen3.8-Flash-Next 的推理引擎**
 

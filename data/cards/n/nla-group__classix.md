@@ -1,6 +1,6 @@
 # nla-group/classix
 
-⭐ 132 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nla-group/classix) · [官网](https://classix.readthedocs.io/) · 组织维护
+⭐ 132 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nla-group/classix) · [官网](https://classix.readthedocs.io/) · 组织维护
 
 **面向数据分析师的可解释快速聚类 Python 库**
 

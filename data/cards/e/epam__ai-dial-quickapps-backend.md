@@ -1,6 +1,6 @@
 # epam/ai-dial-quickapps-backend
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/epam/ai-dial-quickapps-backend) · [官网](https://dialx.ai) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epam/ai-dial-quickapps-backend) · [官网](https://dialx.ai) · 组织维护
 
 **面向开发者的 DIAL 应用组合器：用可复用工具编排 LLM 应用**
 

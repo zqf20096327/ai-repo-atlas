@@ -1,6 +1,6 @@
 # dramaclaw/dramaclaw
 
-⭐ 7,156 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dramaclaw/dramaclaw) · [官网](https://dramaclaw.ai) · 组织维护 · 中文 README
+⭐ 7,169 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/dramaclaw/dramaclaw) · [官网](https://dramaclaw.ai) · 组织维护 · 中文 README
 
 **自托管 AIGC 视频引擎：从剧本到成片一条流水线**
 

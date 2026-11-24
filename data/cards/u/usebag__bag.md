@@ -1,6 +1,6 @@
 # usebag/bag
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/usebag/bag) · [官网](https://bag.dev) · 个人维护
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/usebag/bag) · [官网](https://bag.dev) · 个人维护
 
 **给 AI agent 提供稳定地址与加密邮箱的通信协议**
 

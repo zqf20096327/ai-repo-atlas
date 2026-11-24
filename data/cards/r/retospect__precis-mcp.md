@@ -1,6 +1,6 @@
 # retospect/precis-mcp
 
-⭐ 11 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/retospect/precis-mcp) · [官网](https://pypi.org/project/precis-mcp/) · 个人维护
+⭐ 11 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/retospect/precis-mcp) · [官网](https://pypi.org/project/precis-mcp/) · 个人维护
 
 **面向 LLM agent 的 MCP 服务器：读文献写论文并做模拟**
 

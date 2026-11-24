@@ -1,6 +1,6 @@
 # coldcatallactics/xenolith
 
-⭐ 8 · Common Lisp · ISC · 推送 2026-10-29 · [GitHub](https://github.com/coldcatallactics/xenolith) · 个人维护
+⭐ 8 · Common Lisp · ISC · 推送 2026-11-23 · [GitHub](https://github.com/coldcatallactics/xenolith) · 个人维护
 
 **面向 LLM 终端 TUI 的 Autolith 精选配置发行层**
 

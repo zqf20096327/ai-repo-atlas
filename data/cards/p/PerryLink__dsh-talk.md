@@ -1,6 +1,6 @@
 # PerryLink/dsh-talk
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-talk) · [官网](https://www.npmjs.com/package/dsh-talk) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-talk) · [官网](https://www.npmjs.com/package/dsh-talk) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的语音会话插件：说话输入、语音答复**
 

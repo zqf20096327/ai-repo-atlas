@@ -1,6 +1,6 @@
 # supercli-site/xiaobai-kanban
 
-⭐ 350 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/supercli-site/xiaobai-kanban) · [官网](https://xiaobai.supercli.site) · 个人维护 · 中文 README
+⭐ 400 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/supercli-site/xiaobai-kanban) · [官网](https://xiaobai.supercli.site) · 个人维护 · 中文 README
 
 **面向零基础用户的中文 AI 编程助手入门教程站**
 

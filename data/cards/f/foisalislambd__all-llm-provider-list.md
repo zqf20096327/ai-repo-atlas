@@ -1,6 +1,6 @@
 # foisalislambd/all-llm-provider-list
 
-⭐ 11 · Python · 推送 2026-11-20 · [GitHub](https://github.com/foisalislambd/all-llm-provider-list) · 个人维护
+⭐ 11 · Python · 推送 2026-11-23 · [GitHub](https://github.com/foisalislambd/all-llm-provider-list) · 个人维护
 
 **面向开发者的 494 个 LLM 提供商目录与本地查询工具**
 

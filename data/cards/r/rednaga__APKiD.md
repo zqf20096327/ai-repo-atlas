@@ -1,6 +1,6 @@
 # rednaga/APKiD
 
-⭐ 2,638 · YARA · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/rednaga/APKiD) · 组织维护
+⭐ 2,641 · YARA · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/rednaga/APKiD) · 组织维护
 
 **面向 Android 安全分析者的 APK 构建方式识别工具**
 

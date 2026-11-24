@@ -1,6 +1,6 @@
 # fabriziosalmi/llmproxy
 
-⭐ 12 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fabriziosalmi/llmproxy) · [官网](https://fabriziosalmi.github.io/llmproxy/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fabriziosalmi/llmproxy) · [官网](https://fabriziosalmi.github.io/llmproxy/) · 个人维护
 
 **面向小团队/受监管团队的自托管 LLM 安全网关，含可验证审计链**
 

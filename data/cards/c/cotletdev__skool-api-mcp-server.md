@@ -1,6 +1,6 @@
 # cotletdev/skool-api-mcp-server
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/skool-api-mcp-server) · [官网](https://cotlet.dev/integrations/skool-api-mcp-server) · 组织维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/skool-api-mcp-server) · [官网](https://cotlet.dev/integrations/skool-api-mcp-server) · 组织维护
 
 **把 Skool 社区接入 MCP 客户端与 AI 代理的 API 服务器**
 

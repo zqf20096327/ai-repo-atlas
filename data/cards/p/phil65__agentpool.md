@@ -1,6 +1,6 @@
 # phil65/agentpool
 
-⭐ 201 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/phil65/agentpool) · [官网](https://phil65.github.io/agentpool/) · 个人维护
+⭐ 201 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/phil65/agentpool) · [官网](https://phil65.github.io/agentpool/) · 个人维护
 
 **用 YAML 统一编排多 AI agent 并以标准协议暴露的枢纽**
 

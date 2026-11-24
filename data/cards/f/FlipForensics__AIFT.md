@@ -1,6 +1,6 @@
 # FlipForensics/AIFT
 
-⭐ 53 · Python · AGPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/FlipForensics/AIFT) · [官网](https://github.com/FlipForensics/AIFT/wiki) · 组织维护
+⭐ 54 · Python · AGPL-3.0 · 推送 2026-06-13 · [GitHub](https://github.com/FlipForensics/AIFT) · [官网](https://github.com/FlipForensics/AIFT/wiki) · 组织维护
 
 **面向 DFIR 分析师的取证初筛工具，AI 解析证据生成线索报告**
 

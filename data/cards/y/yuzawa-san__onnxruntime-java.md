@@ -1,6 +1,6 @@
 # yuzawa-san/onnxruntime-java
 
-⭐ 37 · Java · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yuzawa-san/onnxruntime-java) · 个人维护
+⭐ 37 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yuzawa-san/onnxruntime-java) · 个人维护
 
 **Java 版 ONNX Runtime 绑定：基于 FFI API 运行 ONNX 模型推理**
 

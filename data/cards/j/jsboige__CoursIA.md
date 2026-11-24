@@ -1,6 +1,6 @@
 # jsboige/CoursIA
 
-⭐ 18 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jsboige/CoursIA) · 个人维护
+⭐ 19 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jsboige/CoursIA) · 个人维护
 
 **多语言 Jupyter 教学课程：以实践覆盖 AI 从搜索到生成式与形式化验证**
 

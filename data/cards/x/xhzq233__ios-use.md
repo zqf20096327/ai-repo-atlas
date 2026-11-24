@@ -1,6 +1,6 @@
 # xhzq233/ios-use
 
-⭐ 24 · Swift · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/xhzq233/ios-use) · 个人维护
+⭐ 24 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/xhzq233/ios-use) · 个人维护
 
 **终端控制 iPhone/Mac 应用的 iOS UI 自动化 CLI，可由 AI 驱动**
 

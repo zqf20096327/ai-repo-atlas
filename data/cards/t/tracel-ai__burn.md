@@ -1,6 +1,6 @@
 # tracel-ai/burn
 
-⭐ 16,326 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tracel-ai/burn) · [官网](https://burn.dev) · 组织维护
+⭐ 16,334 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tracel-ai/burn) · [官网](https://burn.dev) · 组织维护
 
 **面向 Rust 开发者的深度学习框架与张量库**
 

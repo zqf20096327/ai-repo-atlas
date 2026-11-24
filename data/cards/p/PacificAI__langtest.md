@@ -1,6 +1,6 @@
 # PacificAI/langtest
 
-⭐ 560 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PacificAI/langtest) · [官网](http://langtest.org/) · 组织维护
+⭐ 561 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PacificAI/langtest) · [官网](http://langtest.org/) · 组织维护
 
 **LLM/NLP 模型安全与质量评测库，60+ 类测试一行代码执行**
 

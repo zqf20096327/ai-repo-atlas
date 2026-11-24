@@ -1,6 +1,6 @@
 # jmix-framework/jmix-docai
 
-⭐ 11 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jmix-framework/jmix-docai) · [官网](https://demo.jmix.io/docai/) · 组织维护
+⭐ 11 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jmix-framework/jmix-docai) · [官网](https://demo.jmix.io/docai/) · 组织维护
 
 **面向开发者的 Jmix 文档管理示例应用，含语义搜索与 RAG 助手**
 

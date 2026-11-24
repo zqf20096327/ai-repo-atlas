@@ -1,6 +1,6 @@
 # xianyu110/grokbot
 
-⭐ 100 · 推送 2026-10-30 · [GitHub](https://github.com/xianyu110/grokbot) · [官网](https://grokbotai.asia) · 个人维护 · 中文 README
+⭐ 101 · 推送 2026-10-30 · [GitHub](https://github.com/xianyu110/grokbot) · [官网](https://grokbotai.asia) · 个人维护 · 中文 README
 
 **Grok Bot 使用教程：中文图文指南覆盖开通、配置与定时任务**
 

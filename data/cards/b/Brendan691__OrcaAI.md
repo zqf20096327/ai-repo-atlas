@@ -1,6 +1,6 @@
 # Brendan691/OrcaAI
 
-⭐ 15 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Brendan691/OrcaAI) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Brendan691/OrcaAI) · 个人维护 · 中文 README
 
 **海事知识管理可追溯 RAG 知识库，带定位引用与 AI 报告**
 

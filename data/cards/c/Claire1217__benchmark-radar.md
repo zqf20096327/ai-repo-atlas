@@ -1,6 +1,6 @@
 # Claire1217/benchmark-radar
 
-⭐ 11 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/Claire1217/benchmark-radar) · [官网](https://benchmark-radar.com) · 组织维护
+⭐ 11 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/Claire1217/benchmark-radar) · [官网](https://benchmark-radar.com) · 组织维护
 
 **每日更新的 AI 基准追踪与可检索基准库（3,715 条）**
 

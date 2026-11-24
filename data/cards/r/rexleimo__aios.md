@@ -1,6 +1,6 @@
 # rexleimo/aios
 
-⭐ 62 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rexleimo/aios) · [官网](https://cli.rexai.top/) · 个人维护 · 中文 README
+⭐ 62 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rexleimo/aios) · [官网](https://cli.rexai.top/) · 个人维护 · 中文 README
 
 **本地优先的长期任务编码 agent 控制平面：记忆+编排+验证**
 

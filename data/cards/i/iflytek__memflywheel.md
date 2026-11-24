@@ -1,6 +1,6 @@
 # iflytek/memflywheel
 
-⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/iflytek/memflywheel) · [官网](https://iflytek.github.io/memflywheel/) · 组织维护 · 中文 README
+⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/iflytek/memflywheel) · [官网](https://iflytek.github.io/memflywheel/) · 组织维护 · 中文 README
 
 **给 Agent Harness 加文件原生长期记忆与技能飞轮的插件**
 

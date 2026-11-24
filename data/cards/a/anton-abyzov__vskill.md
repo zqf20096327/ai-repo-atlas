@@ -1,6 +1,6 @@
 # anton-abyzov/vskill
 
-⭐ 47 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/anton-abyzov/vskill) · [官网](https://verified-skill.com) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anton-abyzov/vskill) · [官网](https://verified-skill.com) · 个人维护
 
 **面向 53 个 agent 平台的 AI 技能安装器：装前安全扫描+评测**
 

@@ -1,6 +1,6 @@
 # byte5ai/omadia
 
-⭐ 32 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/byte5ai/omadia) · [官网](https://omadia.ai) · 组织维护
+⭐ 32 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/byte5ai/omadia) · [官网](https://omadia.ai) · 组织维护
 
 **自托管多智能体 OS：构建、运行与审计 AI agent 团队**
 

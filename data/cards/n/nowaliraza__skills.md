@@ -1,6 +1,6 @@
 # nowaliraza/skills
 
-⭐ 5 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nowaliraza/skills) · 个人维护
+⭐ 6 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nowaliraza/skills) · 个人维护
 
 **面向生产环境工程师的 AI Agent 代码审查技能包**
 

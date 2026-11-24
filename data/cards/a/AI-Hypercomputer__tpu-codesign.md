@@ -1,6 +1,6 @@
 # AI-Hypercomputer/tpu-codesign
 
-⭐ 97 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AI-Hypercomputer/tpu-codesign) · [官网](https://ai-hypercomputer.github.io/tpu-codesign/) · 组织维护
+⭐ 101 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AI-Hypercomputer/tpu-codesign) · [官网](https://ai-hypercomputer.github.io/tpu-codesign/) · 组织维护
 
 **面向 Google Cloud TPU 的模型架构设计与优化指南（在线书籍）**
 

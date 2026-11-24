@@ -1,6 +1,6 @@
 # X-GenGroup/Flow-Factory
 
-⭐ 754 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/X-GenGroup/Flow-Factory) · 组织维护 · 中文 README
+⭐ 756 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/X-GenGroup/Flow-Factory) · 组织维护 · 中文 README
 
 **扩散与流匹配模型的统一微调/在线 RL 训练框架**
 

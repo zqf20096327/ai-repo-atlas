@@ -1,6 +1,6 @@
 # Ultimate-Multisite/superdav-ai-agent
 
-⭐ 31 · PHP · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Ultimate-Multisite/superdav-ai-agent) · [官网](https://sdaiagent.com/) · 组织维护
+⭐ 31 · PHP · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Ultimate-Multisite/superdav-ai-agent) · [官网](https://sdaiagent.com/) · 组织维护
 
 **WordPress 站点的 AI Agent 插件：对话生成与管理站点内容**
 

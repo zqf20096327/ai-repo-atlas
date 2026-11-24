@@ -1,6 +1,6 @@
 # supabase/supabase-py
 
-⭐ 2,638 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/supabase/supabase-py) · [官网](https://supabase.com/docs/reference/python) · 组织维护
+⭐ 2,639 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/supabase/supabase-py) · [官网](https://supabase.com/docs/reference/python) · 组织维护
 
 **Supabase 官方 Python 客户端：在 Python 中查询 Postgres 与调用各服务**
 

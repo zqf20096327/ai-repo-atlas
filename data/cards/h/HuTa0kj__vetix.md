@@ -1,6 +1,6 @@
 # HuTa0kj/vetix
 
-⭐ 50 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/HuTa0kj/vetix) · 个人维护 · 中文 README
+⭐ 51 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/HuTa0kj/vetix) · 个人维护 · 中文 README
 
 **扫描 agent SKILL 目录安全风险的 LLM-agent 安全扫描器**
 

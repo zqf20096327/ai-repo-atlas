@@ -1,6 +1,6 @@
 # authzed/openagentprimitives
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/authzed/openagentprimitives) · [官网](openap.org) · 组织维护
+⭐ 15 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/authzed/openagentprimitives) · [官网](openap.org) · 组织维护
 
 **企业 AI agent 安全运行框架：动作级授权与提示注入防护**
 

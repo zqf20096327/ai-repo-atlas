@@ -1,6 +1,6 @@
 # Opselon/AutoTelegramForward
 
-⭐ 3 · Python · 推送 2026-11-07 · [GitHub](https://github.com/Opselon/AutoTelegramForward) · [官网](https://opselon.github.io/AutoTelegramForward/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Telegram 频道自动转发与路由套件，带 AI 改写与多端管理界面**
 

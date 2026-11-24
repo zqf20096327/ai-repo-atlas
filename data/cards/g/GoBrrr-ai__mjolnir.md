@@ -1,6 +1,6 @@
 # GoBrrr-ai/mjolnir
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/GoBrrr-ai/mjolnir) · [官网](https://gobrrr-ai.github.io/mjolnir/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/GoBrrr-ai/mjolnir) · [官网](https://gobrrr-ai.github.io/mjolnir/) · 组织维护
 
 **为边缘 GPU 提供 LLM 推理加速的解码内核与调优 vLLM 镜像**
 

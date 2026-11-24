@@ -1,6 +1,6 @@
 # tireddwarf99/ai--manus
 
-⭐ 174 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tireddwarf99/ai--manus) · 个人维护
+⭐ 170 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tireddwarf99/ai--manus) · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 助手**
 

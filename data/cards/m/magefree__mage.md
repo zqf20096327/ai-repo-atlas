@@ -1,6 +1,6 @@
 # magefree/mage
 
-⭐ 2,415 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/magefree/mage) · [官网](https://xmage.today) · 组织维护
+⭐ 2,416 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/magefree/mage) · [官网](https://xmage.today) · 组织维护
 
 **支持 3.2 万张卡的万智牌规则引擎与在线对战平台**
 

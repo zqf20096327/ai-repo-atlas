@@ -1,6 +1,6 @@
 # SongyuQi-Francisco/Watch2Whoop
 
-⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/SongyuQi-Francisco/Watch2Whoop) · 个人维护 · 中文 README
+⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SongyuQi-Francisco/Watch2Whoop) · 个人维护 · 中文 README
 
 **自托管的 Apple Watch 健康分析服务器，向任意 AI 开放 MCP 数据层**
 

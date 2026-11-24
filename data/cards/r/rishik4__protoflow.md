@@ -1,6 +1,6 @@
 # rishik4/protoflow
 
-⭐ 22 · 推送 2026-10-30 · [GitHub](https://github.com/rishik4/protoflow) · [官网](https://www.protoflow.ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **带 AI 助手的跨平台免费 PCB 设计桌面应用**
 

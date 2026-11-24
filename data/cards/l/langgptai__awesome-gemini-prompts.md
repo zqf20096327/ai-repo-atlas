@@ -1,6 +1,6 @@
 # langgptai/awesome-gemini-prompts
 
-⭐ 500 · CC0-1.0 · 推送 2026-11-14 · [GitHub](https://github.com/langgptai/awesome-gemini-prompts) · [官网](https://www.langgpt.ai) · 个人维护 · 中文 README
+⭐ 501 · CC0-1.0 · 推送 2026-11-14 · [GitHub](https://github.com/langgptai/awesome-gemini-prompts) · [官网](https://www.langgpt.ai) · 个人维护 · 中文 README
 
 **Gemini 模型的提示词示例合集（含中文与越狱提示）**
 

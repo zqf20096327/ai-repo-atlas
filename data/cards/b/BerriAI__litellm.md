@@ -1,10 +1,10 @@
 # BerriAI/litellm
 
-⭐ 63,712 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
+⭐ 63,779 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/BerriAI/litellm) · [官网](https://docs.litellm.ai/docs/) · 组织维护
 
-**给开发者提供统一接口调用 100+ LLM 的 AI 网关**
+**统一接入 100+ LLM 提供商的 AI 网关与 Python SDK**
 
-开源 AI Gateway：以 Python SDK 或自托管代理服务器两种形态，用统一的 OpenAI 格式接口调用 100+ LLM 提供商。功能覆盖虚拟密钥、费用追踪、guardrails、负载均衡、管理面板，支持 /chat/completions、/embeddings、/images、/audio、/rerank 等端点，并提供 Auto Router 自动选模型、A2A Agent 接入、MCP 网关与 agent harness（Claude Code/Codex 等）运行能力。README 还给出 agent 评测接口（agent_eval）与按任务对比 harness/模型的机制。
+LiteLLM 是开源 AI Gateway，为 OpenAI、Anthropic、Bedrock、Azure 等 100+ LLM 提供商提供统一的 OpenAI 格式调用接口。可作为 Python SDK 直接集成，也可部署为团队/组织共用的代理服务器，提供虚拟密钥、费用追踪、guardrails、负载均衡与管理后台。支持 /chat/completions、/embeddings、/images、/audio、/rerank 等端点，并提供 A2A 代理、MCP 网关与自动路由功能。面向需要多提供商接入管理的开发者与企业。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- 统一 OpenAI 格式接口调用 100+ 提供商，提供 Python SDK 与代理服务器两种形态
-- 代理服务器提供虚拟密钥、费用追踪、guardrails、负载均衡与管理面板
-- 支持 Auto Router 自动路由、A2A 协议与 MCP 网关
-- agent harness 支持 Claude Code/Codex/OpenCode 等接入任意模型
+- 统一 API 接入 100+ LLM 提供商，OpenAI 格式直接替换
+- Python SDK 与可自托管的 AI Gateway（代理服务器）两种形态
+- 虚拟密钥、费用追踪、guardrails、负载均衡、管理后台
+- MCP 网关与 A2A Agent 接入支持
 
 ## 适用场景
 
-- 团队内部集中管理多家 LLM 的调用、密钥与费用
-- 在不改代码的情况下切换或混用多个 LLM 提供商
-- 通过网关给 agent 工具（如 IDE、CLI agent）统一供模型
-- 将多个 MCP 服务器接入统一网关供 LLM 调用
+- 团队统一管理多家 LLM 提供商的密钥、路由与费用
+- 在多个模型提供商之间做负载均衡与自动路由
+- 将 MCP 服务器工具接入任意 LLM 调用
+- 让 Claude Code/Codex 等代理工具走自有网关调用任意模型
 
 ## 场景标签
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `36e4bfdc1619` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c0a465e6916c` · [字段定义](../../DATASET.md)*

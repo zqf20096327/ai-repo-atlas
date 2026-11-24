@@ -1,6 +1,6 @@
 # shubh72010/JusNotes
 
-⭐ 11 · Kotlin · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/shubh72010/JusNotes) · [官网](https://github.com/shubh72010/JusNotes) · 个人维护
+⭐ 11 · Kotlin · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/shubh72010/JusNotes) · [官网](https://github.com/shubh72010/JusNotes) · 个人维护
 
 **Android 本地优先笔记应用，含 AI 润色与空间地图**
 

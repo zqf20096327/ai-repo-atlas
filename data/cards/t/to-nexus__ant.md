@@ -1,6 +1,6 @@
 # to-nexus/ant
 
-⭐ 16 · TypeScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/to-nexus/ant) · 个人维护
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/to-nexus/ant) · 个人维护
 
 **自托管 AI 工程平台：声明式上下文驱动 PRD→设计→代码→验证**
 

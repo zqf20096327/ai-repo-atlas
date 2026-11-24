@@ -1,6 +1,6 @@
 # bimwright/dwg-mcp
 
-⭐ 35 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/bimwright/dwg-mcp) · 组织维护 · 中文 README
+⭐ 35 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bimwright/dwg-mcp) · 组织维护 · 中文 README
 
 **AutoCAD 2022-2027 的本地 MCP 网关：让 AI 代理读写翻译图纸文字**
 

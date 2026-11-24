@@ -1,6 +1,6 @@
 # hanlulong/econ-slides-skill
 
-⭐ 33 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/hanlulong/econ-slides-skill) · [官网](https://openecon.ai) · 个人维护 · 中文 README
+⭐ 35 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/hanlulong/econ-slides-skill) · [官网](https://openecon.ai) · 个人维护 · 中文 README
 
 **把经济学论文转成 Beamer 演讲稿的 Agent Skill**
 

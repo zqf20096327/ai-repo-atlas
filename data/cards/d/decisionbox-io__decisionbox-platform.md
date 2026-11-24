@@ -1,6 +1,6 @@
 # decisionbox-io/decisionbox-platform
 
-⭐ 123 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/decisionbox-io/decisionbox-platform) · [官网](https://decisionbox.io) · 组织维护
+⭐ 123 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/decisionbox-io/decisionbox-platform) · [官网](https://decisionbox.io) · 组织维护
 
 **面向数据仓库的自主 AI 数据洞察发现平台**
 

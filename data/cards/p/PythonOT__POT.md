@@ -1,6 +1,6 @@
 # PythonOT/POT
 
-⭐ 2,863 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/PythonOT/POT) · [官网](https://PythonOT.github.io/) · 组织维护
+⭐ 2,864 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/PythonOT/POT) · [官网](https://PythonOT.github.io/) · 组织维护
 
 **面向机器学习与信号图像处理的Python最优传输求解库**
 

@@ -1,6 +1,6 @@
 # zobik-org/zobik
 
-⭐ 3 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/zobik-org/zobik) · [官网](https://zobik.org) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给开发者的去中心化 AI 节点网络：事件总线上的自组织多智能体系统**
 
@@ -11,7 +11,7 @@ Zobik 是基于 Blackboard 与 Pub/Sub 模式的事件驱动 Compound AI System�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

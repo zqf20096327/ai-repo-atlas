@@ -1,6 +1,6 @@
 # global-fde/awesome-fde-resources
 
-⭐ 342 · Python · CC-BY-4.0 · 推送 2026-08-04 · [GitHub](https://github.com/global-fde/awesome-fde-resources) · 组织维护 · 中文 README
+⭐ 343 · Python · CC-BY-4.0 · 推送 2026-08-04 · [GitHub](https://github.com/global-fde/awesome-fde-resources) · 组织维护 · 中文 README
 
 **面向前置部署工程师（FDE）的资源清单：课程、实践、案例与工具**
 

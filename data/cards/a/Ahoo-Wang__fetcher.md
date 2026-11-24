@@ -1,6 +1,6 @@
 # Ahoo-Wang/fetcher
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Ahoo-Wang/fetcher) · [官网](https://fetcher.ahoo.me/) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Ahoo-Wang/fetcher) · [官网](https://fetcher.ahoo.me/) · 个人维护 · 中文 README
 
 **面向 TS 开发者的 HTTP 客户端生态，含 OpenAI 流式支持**
 

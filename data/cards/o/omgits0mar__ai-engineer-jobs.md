@@ -1,6 +1,6 @@
 # omgits0mar/ai-engineer-jobs
 
-⭐ 80 · HTML · MIT · 推送 2026-07-06 · [GitHub](https://github.com/omgits0mar/ai-engineer-jobs) · [官网](https://omgits0mar.github.io/ai-engineer-jobs/) · 个人维护
+⭐ 79 · HTML · MIT · 推送 2026-07-06 · [GitHub](https://github.com/omgits0mar/ai-engineer-jobs) · [官网](https://omgits0mar.github.io/ai-engineer-jobs/) · 个人维护
 
 **社区维护的 AI/ML/数据岗位公司目录（213 家，直链招聘页）**
 

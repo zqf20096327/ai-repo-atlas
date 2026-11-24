@@ -1,6 +1,6 @@
 # langchain-ai/langchain-ibm
 
-⭐ 36 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langchain-ai/langchain-ibm) · [官网](https://python.langchain.com/docs/integrations/providers/ibm) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langchain-ibm) · [官网](https://python.langchain.com/docs/integrations/providers/ibm) · 组织维护
 
 **LangChain 的 IBM watsonx 与 Db2 向量库集成包**
 

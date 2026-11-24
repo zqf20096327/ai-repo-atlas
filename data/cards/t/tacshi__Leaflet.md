@@ -1,6 +1,6 @@
 # tacshi/Leaflet
 
-⭐ 7 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tacshi/Leaflet) · [官网](https://leaflet.capyvibe.app) · 个人维护
+⭐ 6 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tacshi/Leaflet) · [官网](https://leaflet.capyvibe.app) · 个人维护
 
 **人们与 AI agent 共同编辑文档的原生多端笔记应用**
 

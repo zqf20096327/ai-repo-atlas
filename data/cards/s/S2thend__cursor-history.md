@@ -1,6 +1,6 @@
 # S2thend/cursor-history
 
-⭐ 155 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/S2thend/cursor-history) · [官网](https://www.npmjs.com/package/cursor-history) · 个人维护 · 中文 README
+⭐ 154 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/S2thend/cursor-history) · [官网](https://www.npmjs.com/package/cursor-history) · 个人维护 · 中文 README
 
 **浏览/搜索/导出/备份本地 Cursor 聊天历史的 CLI 与 Node.js 库**
 

@@ -1,6 +1,6 @@
 # datris/datris-platform-oss
 
-⭐ 14 · Scala · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/datris/datris-platform-oss) · [官网](https://datris.ai) · 组织维护
+⭐ 14 · Scala · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/datris/datris-platform-oss) · [官网](https://datris.ai) · 组织维护
 
 **面向 AI agent 的自托管数据控制平面：MCP 接入数据获取、校验与落地**
 

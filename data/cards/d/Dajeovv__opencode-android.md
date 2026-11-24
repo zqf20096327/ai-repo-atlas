@@ -1,6 +1,6 @@
 # Dajeovv/opencode-android
 
-⭐ 53 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Dajeovv/opencode-android) · [官网](https://github.com/Dajeovv/opencode-android/releases/latest) · 个人维护
+⭐ 54 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Dajeovv/opencode-android) · [官网](https://github.com/Dajeovv/opencode-android/releases/latest) · 个人维护
 
 **在 Android 手机本地原生运行 opencode 编码 agent 的非官方客户端**
 

@@ -1,6 +1,6 @@
 # timothywarner/ai900
 
-⭐ 93 · HTML · MIT · 推送 2026-09-19 · [GitHub](https://github.com/timothywarner/ai900) · [官网](https://techtrainertim.com) · 个人维护
+⭐ 94 · HTML · MIT · 推送 2026-09-19 · [GitHub](https://github.com/timothywarner/ai900) · [官网](https://techtrainertim.com) · 个人维护
 
 **AI-900 Azure AI 基础认证备考课程仓库（含动手演示）**
 

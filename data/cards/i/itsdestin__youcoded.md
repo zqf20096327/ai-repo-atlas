@@ -1,6 +1,6 @@
 # itsdestin/youcoded
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/itsdestin/youcoded) · [官网](https://youcoded.ai) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/itsdestin/youcoded) · [官网](https://youcoded.ai) · 个人维护
 
 **开源模块化个人 AI 助手与“万物应用”，跨桌面与移动端**
 

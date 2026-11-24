@@ -1,6 +1,6 @@
 # pytorch/ao
 
-⭐ 3,032 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/pytorch/ao) · [官网](https://pytorch.org/ao/stable/index.html) · 组织维护
+⭐ 3,033 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/pytorch/ao) · [官网](https://pytorch.org/ao/stable/index.html) · 组织维护
 
 **PyTorch 原生量化库：为训练与推理提供低精度量化工作流**
 

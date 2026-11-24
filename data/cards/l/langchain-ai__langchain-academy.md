@@ -1,6 +1,6 @@
 # langchain-ai/langchain-academy
 
-⭐ 3,033 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/langchain-academy) · [官网](https://academy.langchain.com) · 组织维护
+⭐ 3,037 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/langchain-academy) · [官网](https://academy.langchain.com) · 组织维护
 
 **LangGraph 官方教学课程仓库：7 个模块的入门与部署教程**
 

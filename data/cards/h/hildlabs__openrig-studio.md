@@ -1,6 +1,6 @@
 # hildlabs/openrig-studio
 
-⭐ 26 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hildlabs/openrig-studio) · [官网](https://hildlabs.github.io/openrig-studio/) · 组织维护
+⭐ 27 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hildlabs/openrig-studio) · [官网](https://hildlabs.github.io/openrig-studio/) · 组织维护
 
 **用自有 AI 订阅生成 Roblox R15/R6 动画的桌面工具**
 

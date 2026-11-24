@@ -1,6 +1,6 @@
 # rasidi3112/Data-Mining
 
-⭐ 7 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/rasidi3112/Data-Mining) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向学习者的数据挖掘与机器学习分级教程笔记本**
 

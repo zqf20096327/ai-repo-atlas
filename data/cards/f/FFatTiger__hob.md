@@ -1,6 +1,6 @@
 # FFatTiger/hob
 
-⭐ 80 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FFatTiger/hob) · 个人维护 · 中文 README
+⭐ 88 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FFatTiger/hob) · 个人维护 · 中文 README
 
 **自托管单用户个人 AI 助理，后台执行任务并按规则请示**
 

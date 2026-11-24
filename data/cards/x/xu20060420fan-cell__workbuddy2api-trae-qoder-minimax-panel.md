@@ -1,6 +1,6 @@
 # xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel
 
-⭐ 123 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel) · 个人维护 · 中文 README
+⭐ 126 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/xu20060420fan-cell/workbuddy2api-trae-qoder-minimax-panel) · 个人维护 · 中文 README
 
 **多平台 AI 编程账号合集的 OpenAI 兼容网关与 Web 管理面板**
 

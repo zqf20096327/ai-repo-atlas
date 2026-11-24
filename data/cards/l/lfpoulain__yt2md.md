@@ -1,6 +1,6 @@
 # lfpoulain/yt2md
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lfpoulain/yt2md) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lfpoulain/yt2md) · 个人维护
 
 **全本地转录 YouTube 频道并生成 RAG 语料库的工具**
 

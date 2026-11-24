@@ -1,6 +1,6 @@
 # AniaBot-Project/AniaBot
 
-⭐ 19 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AniaBot-Project/AniaBot) · [官网](https://aniabot-project.github.io/AniaBot/) · 组织维护 · 中文 README
+⭐ 19 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AniaBot-Project/AniaBot) · [官网](https://aniabot-project.github.io/AniaBot/) · 组织维护 · 中文 README
 
 **Go 语言插件驱动型多平台聊天机器人框架，内置 AI 对话插件**
 

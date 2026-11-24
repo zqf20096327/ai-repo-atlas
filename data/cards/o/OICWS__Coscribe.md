@@ -1,6 +1,6 @@
 # OICWS/Coscribe
 
-⭐ 39 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/OICWS/Coscribe) · [官网](https://oicws.github.io/Coscribe/) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/OICWS/Coscribe) · [官网](https://oicws.github.io/Coscribe/) · 组织维护
 
 **本地办公助手：读写文件并生成 Office/PDF 文档的 agent**
 

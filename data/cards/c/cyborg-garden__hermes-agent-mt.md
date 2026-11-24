@@ -1,6 +1,6 @@
 # cyborg-garden/hermes-agent-mt
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cyborg-garden/hermes-agent-mt) · [官网](https://nimbleco.ai) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cyborg-garden/hermes-agent-mt) · [官网](https://nimbleco.ai) · 组织维护 · 中文 README
 
 **多租户自学习 AI 代理：跨消息平台对话并自主积累技能**
 

@@ -1,6 +1,6 @@
 # Edge-AI-HQ/proactive-assistant
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Edge-AI-HQ/proactive-assistant) · 组织维护 · 中文 README
+⭐ 48 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Edge-AI-HQ/proactive-assistant) · 组织维护 · 中文 README
 
 **连接你的应用与设备的主动式个人 AI 助手**
 

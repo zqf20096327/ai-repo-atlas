@@ -1,6 +1,6 @@
 # natsu0529/agent-mcts
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/natsu0529/agent-mcts) · [官网](https://pypi.org/project/agent-mcts/) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/natsu0529/agent-mcts) · [官网](https://pypi.org/project/agent-mcts/) · 个人维护
 
 **给编码 agent 加 MCTS 树搜索的测试时搜索框架**
 

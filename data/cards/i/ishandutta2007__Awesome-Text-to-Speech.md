@@ -1,6 +1,6 @@
 # ishandutta2007/Awesome-Text-to-Speech
 
-⭐ 231 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/ishandutta2007/Awesome-Text-to-Speech) · 个人维护
+⭐ 232 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/ishandutta2007/Awesome-Text-to-Speech) · 个人维护
 
 **语音合成（TTS）模型与服务策展清单，面向开发者选型**
 

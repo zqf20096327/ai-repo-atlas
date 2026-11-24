@@ -1,6 +1,6 @@
 # cloakyard/cloakpdf
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cloakyard/cloakpdf) · [官网](https://pdf.cloakyard.com) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cloakyard/cloakpdf) · [官网](https://pdf.cloakyard.com) · 个人维护
 
 **完全在浏览器本地运行的隐私优先 PDF 编辑工具箱**
 

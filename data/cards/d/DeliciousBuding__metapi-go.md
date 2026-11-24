@@ -1,6 +1,6 @@
 # DeliciousBuding/metapi-go
 
-⭐ 28 · Go · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/DeliciousBuding/metapi-go) · 个人维护 · 中文 README
+⭐ 28 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/DeliciousBuding/metapi-go) · 个人维护 · 中文 README
 
 **把多个 AI API 中转站聚合成统一网关的 Go 自托管服务**
 

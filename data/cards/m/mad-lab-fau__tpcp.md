@@ -1,6 +1,6 @@
 # mad-lab-fau/tpcp
 
-⭐ 21 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mad-lab-fau/tpcp) · [官网](https://tpcp.readthedocs.io/en/latest/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mad-lab-fau/tpcp) · [官网](https://tpcp.readthedocs.io/en/latest/) · 组织维护
 
 **面向复杂算法评估的 Python 流水线与数据集辅助框架**
 

@@ -1,6 +1,6 @@
 # Sealjay/mcp-whatsapp
 
-⭐ 25 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Sealjay/mcp-whatsapp) · [官网](https://sealjay.com) · 个人维护
+⭐ 26 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Sealjay/mcp-whatsapp) · [官网](https://sealjay.com) · 个人维护
 
 **把个人 WhatsApp 账号以 42 个 MCP 工具暴露给 LLM 的 Go 单二进制服务器**
 

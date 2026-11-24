@@ -1,6 +1,6 @@
 # GenAIwithMS/OpenGPT
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/GenAIwithMS/OpenGPT) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GenAIwithMS/OpenGPT) · 组织维护
 
 **开源自托管 AI 聊天工作区：多模型对话、RAG 问答与编码代理**
 

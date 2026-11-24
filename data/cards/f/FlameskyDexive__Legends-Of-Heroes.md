@@ -1,6 +1,6 @@
 # FlameskyDexive/Legends-Of-Heroes
 
-⭐ 939 · C# · MIT · 推送 2026-09-22 · [GitHub](https://github.com/FlameskyDexive/Legends-Of-Heroes) · 个人维护 · 中文 README
+⭐ 940 · C# · MIT · 推送 2026-09-22 · [GitHub](https://github.com/FlameskyDexive/Legends-Of-Heroes) · 个人维护 · 中文 README
 
 **ET 框架双端 C# 游戏框架，含战斗系统与 AI 辅助开发工具**
 

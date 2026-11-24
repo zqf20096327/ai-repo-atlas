@@ -1,6 +1,6 @@
 # modu-ai/moai-adk
 
-⭐ 1,259 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/modu-ai/moai-adk) · [官网](https://adk.mo.ai.kr) · 组织维护 · 中文 README
+⭐ 1,260 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modu-ai/moai-adk) · [官网](https://adk.mo.ai.kr) · 组织维护 · 中文 README
 
 **Claude Code 的 agent 编排 harness：SPEC 驱动与多会话工厂模式**
 

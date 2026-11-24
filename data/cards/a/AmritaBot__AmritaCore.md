@@ -1,6 +1,6 @@
 # AmritaBot/AmritaCore
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AmritaBot/AmritaCore) · [官网](https://core.amritabot.com/) · 组织维护 · 中文 README
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AmritaBot/AmritaCore) · [官网](https://core.amritabot.com/) · 组织维护 · 中文 README
 
 **轻量级 Python Agent 运行时框架，用于构建交互式 Agent 应用**
 

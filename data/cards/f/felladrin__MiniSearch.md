@@ -1,6 +1,6 @@
 # felladrin/MiniSearch
 
-⭐ 611 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/felladrin/MiniSearch) · [官网](https://felladrin-minisearch.hf.space) · 个人维护
+⭐ 611 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/felladrin/MiniSearch) · [官网](https://felladrin-minisearch.hf.space) · 个人维护
 
 **浏览器内运行 AI 的私有自托管搜索引擎，回答带引用**
 

@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Relay
 
-⭐ 256 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/NeMo-Relay) · [官网](https://docs.nvidia.com/nemo/relay) · 组织维护
+⭐ 257 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/NeMo-Relay) · [官网](https://docs.nvidia.com/nemo/relay) · 组织维护
 
 **多语言 agent 运行时库：管理工具与 LLM 调用的作用域、生命周期与中间件**
 

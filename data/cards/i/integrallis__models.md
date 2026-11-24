@@ -1,6 +1,6 @@
 # integrallis/models
 
-⭐ 14 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/integrallis/models) · [官网](https://integrallis.github.io/models/) · 组织维护
+⭐ 14 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/integrallis/models) · [官网](https://integrallis.github.io/models/) · 组织维护
 
 **Java 进程内小语言模型推理库：无需 Python 或模型服务直接生成文本**
 

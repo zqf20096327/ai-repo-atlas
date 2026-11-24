@@ -1,6 +1,6 @@
 # bd-loser/opencode-bionic
 
-⭐ 42 · Shell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/bd-loser/opencode-bionic) · [官网](https://github.com/bd-loser/opencode-bionic#install) · 个人维护
+⭐ 46 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bd-loser/opencode-bionic) · [官网](https://github.com/bd-loser/opencode-bionic#install) · 个人维护
 
 **在 Android/Termux 上原生运行 opencode AI 编程代理的构建分发仓库**
 

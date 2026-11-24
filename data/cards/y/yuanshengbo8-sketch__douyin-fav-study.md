@@ -1,6 +1,6 @@
 # yuanshengbo8-sketch/douyin-fav-study
 
-⭐ 152 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/yuanshengbo8-sketch/douyin-fav-study) · [官网](https://github.com/yuanshengbo8-sketch/douyin-fav-study/releases/latest) · 个人维护 · 中文 README
+⭐ 155 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/yuanshengbo8-sketch/douyin-fav-study) · [官网](https://github.com/yuanshengbo8-sketch/douyin-fav-study/releases/latest) · 个人维护 · 中文 README
 
 **把抖音收藏视频/图文转为本地 AI 学习笔记的桌面工具**
 

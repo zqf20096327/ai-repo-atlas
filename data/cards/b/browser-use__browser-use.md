@@ -1,6 +1,6 @@
 # browser-use/browser-use
 
-⭐ 121,761 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/browser-use/browser-use) · [官网](https://browser-use.com) · 组织维护
+⭐ 121,868 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/browser-use/browser-use) · [官网](https://browser-use.com) · 组织维护
 
 **开源 Python 浏览器 agent 库：LLM 驱动真实浏览器执行任务**
 

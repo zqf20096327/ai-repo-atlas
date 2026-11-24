@@ -1,6 +1,6 @@
 # marviecephas/nn-htop
 
-⭐ 7 · Python · 推送 2026-10-13 · [GitHub](https://github.com/marviecephas/nn-htop) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **PyTorch 训练的终端监控器：查看层激活与梯度范数**
 

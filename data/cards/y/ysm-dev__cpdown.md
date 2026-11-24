@@ -1,6 +1,6 @@
 # ysm-dev/cpdown
 
-⭐ 582 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ysm-dev/cpdown) · [官网](https://chromewebstore.google.com/detail/cpdown/knnaflplggjdedobhbidojmmnocfbopf) · 个人维护
+⭐ 582 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ysm-dev/cpdown) · [官网](https://chromewebstore.google.com/detail/cpdown/knnaflplggjdedobhbidojmmnocfbopf) · 个人维护
 
 **浏览器扩展：一键复制网页内容/YouTube 字幕为干净 Markdown**
 

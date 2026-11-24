@@ -1,6 +1,6 @@
 # chu0119/Pojun
 
-⭐ 449 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/chu0119/Pojun) · [官网](https://github.com/chu0119/Pojun/releases) · 个人维护 · 中文 README
+⭐ 490 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chu0119/Pojun) · [官网](https://github.com/chu0119/Pojun/releases) · 个人维护 · 中文 README
 
 **LLM 多 Agent 自主渗透测试平台，从目标到漏洞报告**
 

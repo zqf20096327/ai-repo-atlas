@@ -1,6 +1,6 @@
 # rabbit-brain/rb
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rabbit-brain/rb) · [官网](https://rabbitbrain.ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 AI agent 记录并核验科研实验进度的追踪工具**
 
@@ -11,7 +11,7 @@ Python CLI 工具（rb），供使用 Claude Code/Codex 等 coding agent 做机�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

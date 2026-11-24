@@ -1,6 +1,6 @@
 # solarian-dev/solarian
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/solarian-dev/solarian) · [官网](https://solarian.dev) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/solarian-dev/solarian) · [官网](https://solarian.dev) · 组织维护
 
 **给机器人开发者的开源 Python 框架：构建、仿真、训练并部署 AI 机器人**
 

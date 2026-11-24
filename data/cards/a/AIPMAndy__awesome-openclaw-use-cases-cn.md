@@ -1,6 +1,6 @@
 # AIPMAndy/awesome-openclaw-use-cases-cn
 
-⭐ 24 · Shell · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-use-cases-cn) · 个人维护 · 中文 README
+⭐ 24 · Shell · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AIPMAndy/awesome-openclaw-use-cases-cn) · 个人维护 · 中文 README
 
 **OpenClaw 中文实战案例库：13 个真实工作流与配置示例**
 

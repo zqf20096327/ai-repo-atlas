@@ -1,6 +1,6 @@
 # erkamyaman/jev-enforce
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/erkamyaman/jev-enforce) · [官网](https://www.npmjs.com/package/jev-enforce) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/erkamyaman/jev-enforce) · [官网](https://www.npmjs.com/package/jev-enforce) · 个人维护
 
 **校验 Claude Code 回复与编辑是否遵守 CLAUDE.md 规则的插件**
 

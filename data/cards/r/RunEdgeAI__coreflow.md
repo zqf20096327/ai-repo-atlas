@@ -1,6 +1,6 @@
 # RunEdgeAI/coreflow
 
-⭐ 15 · C++ · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/RunEdgeAI/coreflow) · [官网](https://www.runedge.ai) · 组织维护
+⭐ 14 · C++ · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/RunEdgeAI/coreflow) · [官网](https://www.runedge.ai) · 组织维护
 
 **C++ 图执行运行时：构建并跨设备运行 AI/ML/视觉管线**
 

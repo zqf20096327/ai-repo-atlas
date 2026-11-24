@@ -1,6 +1,6 @@
 # canivel/dynolab
 
-⭐ 423 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/canivel/dynolab) · [官网](https://dynolab.dev) · 个人维护
+⭐ 421 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/canivel/dynolab) · [官网](https://dynolab.dev) · 个人维护
 
 **面向 Apple Silicon 的本地 AI 安全与可解释性研究工作台**
 

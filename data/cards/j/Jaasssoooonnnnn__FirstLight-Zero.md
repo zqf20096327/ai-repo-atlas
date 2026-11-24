@@ -1,6 +1,6 @@
 # Jaasssoooonnnnn/FirstLight-Zero
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight-Zero) · 个人维护 · 中文 README
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight-Zero) · 个人维护 · 中文 README
 
 **纯自博弈训练的 Clash Royale PPO 模型，胜过模仿学习模型**
 

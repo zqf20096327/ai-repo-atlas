@@ -1,6 +1,6 @@
 # Ikaros-521/orbit-tools
 
-⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/Ikaros-521/orbit-tools) · [官网](https://ikaros-521.github.io/orbit-tools/) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Ikaros-521/orbit-tools) · [官网](https://ikaros-521.github.io/orbit-tools/) · 个人维护 · 中文 README
 
 **给开发者的开源 uTools 风格插件化工具箱，含 AI Agent 对话**
 

@@ -1,6 +1,6 @@
 # JUNERDD/Atd
 
-⭐ 58 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/JUNERDD/Atd) · [官网](https://atd.best) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JUNERDD/Atd) · [官网](https://atd.best) · 个人维护
 
 **macOS 开源桌面 AI 代理：对话、computer use、MCP 与自动化**
 

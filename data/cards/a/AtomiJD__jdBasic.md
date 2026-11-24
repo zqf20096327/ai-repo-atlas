@@ -1,6 +1,6 @@
 # AtomiJD/jdBasic
 
-⭐ 19 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AtomiJD/jdBasic) · [官网](https://www.jdbasic.org) · 个人维护
+⭐ 19 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AtomiJD/jdBasic) · [官网](https://www.jdbasic.org) · 个人维护
 
 **BASIC 解释器/编译器：内置数组、图形、本地 LLM 与 MCP 服务**
 

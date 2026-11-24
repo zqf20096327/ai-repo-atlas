@@ -1,6 +1,6 @@
 # codeworksh/codework
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/codeworksh/codework) · [官网](https://www.codework.sh) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/codeworksh/codework) · [官网](https://www.codework.sh) · 组织维护
 
 **开源编码 agent CLI：任意模型驱动的代码任务执行工具**
 

@@ -1,6 +1,6 @@
 # NikiforovAll/scratchpad
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/NikiforovAll/scratchpad) · [官网](http://nikiforovall.blog/scratchpad/) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NikiforovAll/scratchpad) · [官网](http://nikiforovall.blog/scratchpad/) · 个人维护
 
 **为 AI agent 组织临时知识到 scratchpad 文件夹的 CLI，带只读查看器**
 

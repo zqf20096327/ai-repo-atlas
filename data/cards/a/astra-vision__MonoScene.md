@@ -1,6 +1,6 @@
 # astra-vision/MonoScene
 
-⭐ 823 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/astra-vision/MonoScene) · [官网](https://astra-vision.github.io/MonoScene/) · 组织维护
+⭐ 824 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/astra-vision/MonoScene) · [官网](https://astra-vision.github.io/MonoScene/) · 组织维护
 
 **CVPR 2022 单目图像 3D 语义占据预测研究代码**
 

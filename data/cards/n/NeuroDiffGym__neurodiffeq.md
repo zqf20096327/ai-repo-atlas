@@ -1,6 +1,6 @@
 # NeuroDiffGym/neurodiffeq
 
-⭐ 791 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/NeuroDiffGym/neurodiffeq) · [官网](http://pypi.org/project/neurodiffeq/) · 组织维护
+⭐ 790 · Python · MIT · 推送 2026-04-22 · [GitHub](https://github.com/NeuroDiffGym/neurodiffeq) · [官网](http://pypi.org/project/neurodiffeq/) · 组织维护
 
 **用神经网络求解微分方程的 PyTorch 库，供科研计算**
 

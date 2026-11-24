@@ -1,6 +1,6 @@
 # wmuj/mcd-roundtable
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/wmuj/mcd-roundtable) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wmuj/mcd-roundtable) · 个人维护 · 中文 README
 
 **麦当劳用户：让三个 AI 军师用真实优惠券算出最优点餐组合**
 

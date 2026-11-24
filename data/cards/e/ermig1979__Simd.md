@@ -1,6 +1,6 @@
 # ermig1979/Simd
 
-⭐ 2,276 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ermig1979/Simd) · [官网](http://ermig1979.github.io/Simd) · 个人维护
+⭐ 2,277 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ermig1979/Simd) · [官网](http://ermig1979.github.io/Simd) · 个人维护
 
 **给 C/C++ 程序员的 SIMD 优化图像处理与机器学习库**
 

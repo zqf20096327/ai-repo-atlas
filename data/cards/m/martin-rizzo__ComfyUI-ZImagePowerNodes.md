@@ -1,6 +1,6 @@
 # martin-rizzo/ComfyUI-ZImagePowerNodes
 
-⭐ 371 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes) · 个人维护
+⭐ 371 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/martin-rizzo/ComfyUI-ZImagePowerNodes) · 个人维护
 
 **面向 Z-Image/Z-Image Turbo 模型的 ComfyUI 自定义节点集**
 

@@ -1,6 +1,6 @@
 # mistrysiddh/hermes-brain-template
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mistrysiddh/hermes-brain-template) · [官网](https://hermes-second-brain.mistrysiddh.in/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mistrysiddh/hermes-brain-template) · [官网](https://hermes-second-brain.mistrysiddh.in/) · 个人维护
 
 **给 Hermes/OpenClaw agent 配套的 Obsidian 记忆库模板**
 

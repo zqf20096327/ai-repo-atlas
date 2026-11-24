@@ -1,6 +1,6 @@
 # Devansh-365/freellm
 
-⭐ 75 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/Devansh-365/freellm) · [官网](https://freellms.vercel.app) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/Devansh-365/freellm) · [官网](https://freellms.vercel.app) · 个人维护
 
 **聚合 8 家免费 LLM 提供商的 OpenAI 兼容网关，带自动故障转移**
 

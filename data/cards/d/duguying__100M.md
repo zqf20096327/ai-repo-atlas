@@ -1,6 +1,6 @@
 # duguying/100M
 
-⭐ 53 · Python · 推送 2026-05-08 · [GitHub](https://github.com/duguying/100M) · [官网](https://tinyllm.duguying.net) · 个人维护 · 中文 README
+⭐ 54 · Python · 推送 2026-05-08 · [GitHub](https://github.com/duguying/100M) · [官网](https://tinyllm.duguying.net) · 个人维护 · 中文 README
 
 **在 Mac 上从零训练 0.1B 中文大模型的 Web 工作台**
 

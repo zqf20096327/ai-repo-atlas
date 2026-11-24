@@ -1,6 +1,6 @@
 # anthropics/commerce-agents
 
-⭐ 3,502 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/anthropics/commerce-agents) · [官网](https://claude.com/solutions/commerce) · 组织维护
+⭐ 3,510 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/anthropics/commerce-agents) · [官网](https://claude.com/solutions/commerce) · 组织维护
 
 **给开发者：基于 Claude 构建购物与商户 agent 的参考蓝图**
 

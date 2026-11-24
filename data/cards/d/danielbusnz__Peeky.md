@@ -1,6 +1,6 @@
 # danielbusnz/Peeky
 
-⭐ 40 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/danielbusnz/Peeky) · [官网](https://getpeeky.ai) · 个人维护
+⭐ 40 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/danielbusnz/Peeky) · [官网](https://getpeeky.ai) · 个人维护
 
 **语音控制的 AI 光标助手：看屏幕、点击、打字、执行多步任务**
 

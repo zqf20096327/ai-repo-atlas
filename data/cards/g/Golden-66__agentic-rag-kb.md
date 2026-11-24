@@ -1,6 +1,6 @@
 # Golden-66/agentic-rag-kb
 
-⭐ 40 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Golden-66/agentic-rag-kb) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Golden-66/agentic-rag-kb) · 个人维护 · 中文 README
 
 **企业级 Agentic RAG 知识库：混合检索+重排+Agent 流式问答**
 

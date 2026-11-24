@@ -1,6 +1,6 @@
 # poco-ai/Agentero
 
-⭐ 2,762 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/poco-ai/Agentero) · [官网](https://agentero.app) · 组织维护 · 中文 README
+⭐ 2,824 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/poco-ai/Agentero) · [官网](https://agentero.app) · 组织维护 · 中文 README
 
 **与 Agent 协同读论文的本地科研工作台，含 PDF 问答与笔记**
 

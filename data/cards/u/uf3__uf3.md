@@ -1,6 +1,6 @@
 # uf3/uf3
 
-⭐ 76 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/uf3/uf3) · 组织维护
+⭐ 77 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/uf3/uf3) · 组织维护
 
 **生成超快机器学习原子间势的 Python 库**
 

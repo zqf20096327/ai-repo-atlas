@@ -1,6 +1,6 @@
 # ranajahanzaib/agent-tool-response-fault-tester
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/agent-tool-response-fault-tester) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/agent-tool-response-fault-tester) · 个人维护
 
 **本地测试 AI agent 在工具响应故障下行为**
 

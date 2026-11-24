@@ -1,6 +1,6 @@
 # inference-gateway/inference-gateway
 
-⭐ 210 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/inference-gateway/inference-gateway) · [官网](https://docs.inference-gateway.com) · 组织维护
+⭐ 210 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/inference-gateway/inference-gateway) · [官网](https://docs.inference-gateway.com) · 组织维护
 
 **统一多家 LLM 提供商的 OpenAI 兼容 API 网关**
 

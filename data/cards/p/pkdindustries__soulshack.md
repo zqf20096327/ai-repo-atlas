@@ -1,6 +1,6 @@
 # pkdindustries/soulshack
 
-⭐ 29 · Go · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/pkdindustries/soulshack) · 个人维护
+⭐ 29 · Go · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pkdindustries/soulshack) · 个人维护
 
 **LLM 驱动的 IRC 聊天机器人，多模型接入并带工具与沙箱**
 

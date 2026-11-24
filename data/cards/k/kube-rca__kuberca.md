@@ -1,6 +1,6 @@
 # kube-rca/kuberca
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/kube-rca/kuberca) · 组织维护
+⭐ 14 · Go · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/kube-rca/kuberca) · 组织维护
 
 **面向 Kubernetes 运维者的 AI 告警根因分析平台**
 

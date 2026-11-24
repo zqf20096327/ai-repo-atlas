@@ -1,6 +1,6 @@
 # Atharva-Phatak/torchflare
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Atharva-Phatak/torchflare) · [官网](https://torchflare.readthedocs.io/en/latest/) · 个人维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Atharva-Phatak/torchflare) · [官网](https://torchflare.readthedocs.io/en/latest/) · 个人维护
 
 **简化 PyTorch 模型训练的高层框架：Keras 式训练体验**
 

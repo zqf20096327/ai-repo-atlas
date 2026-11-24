@@ -1,6 +1,6 @@
 # openai/community-plugins
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/openai/community-plugins) · 组织维护
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/community-plugins) · 组织维护
 
 **面向 Codex 的社区插件市场仓库，供检视后安装**
 

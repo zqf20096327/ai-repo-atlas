@@ -1,6 +1,6 @@
 # oil-oil/wolfcha
 
-⭐ 752 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/oil-oil/wolfcha) · [官网](https://wolf-cha.com) · 个人维护 · 中文 README
+⭐ 754 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/oil-oil/wolfcha) · [官网](https://wolf-cha.com) · 个人维护 · 中文 README
 
 **AI 狼人杀：玩家坐一个座位，LLM 填满其余席位**
 
@@ -33,7 +33,7 @@
 
 ## 场景标签
 
- · 领域:游戏/娱乐
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

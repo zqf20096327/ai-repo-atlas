@@ -1,6 +1,6 @@
 # CliMA/Oceananigans.jl
 
-⭐ 1,456 · Julia · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
+⭐ 1,456 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CliMA/Oceananigans.jl) · [官网](https://clima.github.io/OceananigansDocumentation/stable) · 组织维护
 
 **海洋流体动力学 Julia 仿真库：CPU/GPU 求解 Boussinesq 方程**
 

@@ -1,6 +1,6 @@
 # dyoshikawa/rulesync
 
-⭐ 1,637 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dyoshikawa/rulesync) · [官网](http://rulesync.dyoshikawa.com/) · 个人维护
+⭐ 1,640 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dyoshikawa/rulesync) · [官网](http://rulesync.dyoshikawa.com/) · 个人维护
 
 **为开发者统一生成多种 AI 编码工具配置文件的 CLI**
 

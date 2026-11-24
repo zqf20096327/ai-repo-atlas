@@ -1,6 +1,6 @@
 # restatedev/sdk-python
 
-⭐ 85 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/restatedev/sdk-python) · 组织维护
+⭐ 85 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/restatedev/sdk-python) · 组织维护
 
 **Python SDK：用 durable async/await 构建弹性分布式应用**
 

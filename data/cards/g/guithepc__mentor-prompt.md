@@ -1,6 +1,6 @@
 # guithepc/mentor-prompt
 
-⭐ 188 · 推送 2026-08-16 · [GitHub](https://github.com/guithepc/mentor-prompt) · 个人维护
+⭐ 191 · 推送 2026-08-16 · [GitHub](https://github.com/guithepc/mentor-prompt) · 个人维护
 
 **把 Claude 变成技术导师的提示词文件，逼你自己思考**
 

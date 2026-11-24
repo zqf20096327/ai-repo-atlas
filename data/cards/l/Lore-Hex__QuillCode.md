@@ -1,6 +1,6 @@
 # Lore-Hex/QuillCode
 
-⭐ 23 · Swift · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Lore-Hex/QuillCode) · [官网](https://github.com/Lore-Hex/QuillCode/releases/tag/tester-latest) · 组织维护
+⭐ 23 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Lore-Hex/QuillCode) · [官网](https://github.com/Lore-Hex/QuillCode/releases/tag/tester-latest) · 组织维护
 
 **原生 macOS Swift 编码代理与 AI 协作桌面应用**
 

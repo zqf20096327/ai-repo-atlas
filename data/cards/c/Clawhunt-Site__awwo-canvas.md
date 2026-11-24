@@ -1,6 +1,6 @@
 # Clawhunt-Site/awwo-canvas
 
-⭐ 8 · TypeScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Clawhunt-Site/awwo-canvas) · [官网](https://clawhunt.store/awwo) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **面向开发者的智能体画布：类型化节点编排与热插拔执行器**
 
@@ -11,7 +11,7 @@ AwwO 智能体画布的开源版，包含三部分：画布框架（文档模型
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # ozanazhuang-eng/deepseek-r1-api-spend-governance
 
-⭐ 67 · 推送 2026-11-10 · [GitHub](https://github.com/ozanazhuang-eng/deepseek-r1-api-spend-governance) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 89 · 推送 2026-11-10 · [GitHub](https://github.com/ozanazhuang-eng/deepseek-r1-api-spend-governance) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟信用卡的 DeepSeek 托管 API 付款指南**
 

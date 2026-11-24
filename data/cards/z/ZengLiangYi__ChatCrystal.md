@@ -1,6 +1,6 @@
 # ZengLiangYi/ChatCrystal
 
-⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ZengLiangYi/ChatCrystal) · [官网](https://zengliangyi.github.io/ChatCrystal/) · 个人维护 · 中文 README
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ZengLiangYi/ChatCrystal) · [官网](https://zengliangyi.github.io/ChatCrystal/) · 个人维护 · 中文 README
 
 **面向开发者的本地优先 AI 编程对话知识管理应用**
 

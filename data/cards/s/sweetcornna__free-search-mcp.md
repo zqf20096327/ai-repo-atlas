@@ -1,6 +1,6 @@
 # sweetcornna/free-search-mcp
 
-⭐ 185 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sweetcornna/free-search-mcp) · [官网](https://github.com/ymylive/free-search-mcp) · 个人维护 · 中文 README
+⭐ 186 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/sweetcornna/free-search-mcp) · [官网](https://github.com/ymylive/free-search-mcp) · 个人维护 · 中文 README
 
 **本地优先、免 API key 的网页搜索/抓取/文档阅读 MCP 服务器**
 

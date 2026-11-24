@@ -1,6 +1,6 @@
 # sheaf-lang/sheaf
 
-⭐ 59 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sheaf-lang/sheaf) · [官网](https://www.sheaf-lang.org) · 组织维护
+⭐ 59 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sheaf-lang/sheaf) · [官网](https://www.sheaf-lang.org) · 组织维护
 
 **面向机器学习的函数式 Lisp 方言，编译到 GPU 运行**
 

@@ -1,6 +1,6 @@
 # mddawoodrahman/zeus
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mddawoodrahman/zeus) · [官网](https://chromewebstore.google.com/detail/zeus-%E2%80%94-prompt-enhancement/nejhojapbopmedoagaimcdmgekjnkoal) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mddawoodrahman/zeus) · [官网](https://chromewebstore.google.com/detail/zeus-%E2%80%94-prompt-enhancement/nejhojapbopmedoagaimcdmgekjnkoal) · 个人维护
 
 **Chrome 扩展：在 ChatGPT/Claude/Gemini 等聊天页一键改写优化提示词**
 

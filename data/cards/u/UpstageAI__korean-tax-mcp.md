@@ -1,6 +1,6 @@
 # UpstageAI/korean-tax-mcp
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/UpstageAI/korean-tax-mcp) · [官网](https://upstageai.github.io/korean-tax-mcp/) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/UpstageAI/korean-tax-mcp) · [官网](https://upstageai.github.io/korean-tax-mcp/) · 组织维护
 
 **韩国税法 MCP 服务器：为 AI 代理提供带出处的税法依据检索**
 

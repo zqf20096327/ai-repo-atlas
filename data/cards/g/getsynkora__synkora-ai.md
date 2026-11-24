@@ -1,6 +1,6 @@
 # getsynkora/synkora-ai
 
-⭐ 61 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/getsynkora/synkora-ai) · [官网](https://synkora.ai) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/getsynkora/synkora-ai) · [官网](https://synkora.ai) · 组织维护
 
 **自托管 AI agent 平台：构建、部署、管理多渠道团队 agent**
 

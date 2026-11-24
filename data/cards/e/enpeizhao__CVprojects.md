@@ -1,6 +1,6 @@
 # enpeizhao/CVprojects
 
-⭐ 2,657 · Jupyter Notebook · 推送 2025-12-26 · [GitHub](https://github.com/enpeizhao/CVprojects) · 个人维护 · 中文 README
+⭐ 2,656 · Jupyter Notebook · 推送 2025-12-26 · [GitHub](https://github.com/enpeizhao/CVprojects) · 个人维护 · 中文 README
 
 **计算机视觉项目代码合集：检测识别分割等几十个实例**
 

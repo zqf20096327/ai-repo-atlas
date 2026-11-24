@@ -1,6 +1,6 @@
 # daha1216/dsh-adult-tension
 
-⭐ 627 · Python · 推送 2026-10-29 · [GitHub](https://github.com/daha1216/dsh-adult-tension) · 个人维护 · 中文 README
+⭐ 627 · Python · 推送 2026-11-23 · [GitHub](https://github.com/daha1216/dsh-adult-tension) · 个人维护 · 中文 README
 
 **面向成年人的 Agent Skill 18+ 互动叙事：活人感 NPC 与零漂移存档**
 

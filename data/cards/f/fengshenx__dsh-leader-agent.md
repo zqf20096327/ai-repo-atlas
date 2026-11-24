@@ -1,6 +1,6 @@
 # fengshenx/dsh-leader-agent
 
-⭐ 23 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fengshenx/dsh-leader-agent) · [官网](https://fengshenx.github.io/dsh-leader-agent/) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fengshenx/dsh-leader-agent) · [官网](https://fengshenx.github.io/dsh-leader-agent/) · 个人维护 · 中文 README
 
 **为 dsh 提供 Leader/worker 编排的插件：一人并行管理多个 agent 会话**
 

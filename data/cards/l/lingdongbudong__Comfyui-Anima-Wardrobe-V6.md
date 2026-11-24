@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-Anima-Wardrobe-V6
 
-⭐ 49 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V6) · 个人维护 · 中文 README
+⭐ 54 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V6) · [官网](https://space.bilibili.com/516891894) · 个人维护 · 中文 README
 
 **给 ComfyUI/Anima 出图用户的提示词随机生成节点（含 NSFW 分级）**
 

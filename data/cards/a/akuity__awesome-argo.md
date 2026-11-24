@@ -1,10 +1,10 @@
 # akuity/awesome-argo
 
-⭐ 2,511 · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/akuity/awesome-argo) · [官网](https://akuity.github.io/awesome-argo/) · 组织维护
+⭐ 2,512 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/akuity/awesome-argo) · [官网](https://akuity.github.io/awesome-argo/) · 组织维护
 
-**面向 Argo 生态的策展清单：项目、书籍与博客资源汇总**
+**面向 Argo 生态用户的项目与资源策展清单**
 
-由 Akuity 维护并赞助的 Argo 生态资源清单：先介绍 Argo 四大核心项目（Workflows、CD、Rollouts、Events）及 argoproj-labs 社区组织，随后收录生态项目（含 argoproj-labs 精选项目、使用 Argo 的第三方开源工具，如 Hera SDK、Kargo、Devtron 等）、书籍与官方/社区博客文章。README 为目录式编目，不提供本产品的安装或运行方式。
+由 Akuity 维护的 awesome 清单，收录与 Argo（CNCF 毕业项目）相关的项目与资源。内容覆盖 Argo 四个核心组件（Workflows、CD、Rollouts、Events）的介绍，argoproj-labs 生态项目（如 Argo CD Agent、Hera SDK）、使用 Argo 的第三方开源项目（CI/CD、MLOps、GitOps 工具），以及相关书籍、会议录像与博客文章链接。清单本身不提供安装或运行功能，仅为链接导航。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 收录生态项目、书籍与博客文章三大类资源
-- 覆盖 argoproj 与 argoproj-labs 社区项目
-- 由 Akuity（Argo 商业公司）维护并赞助
+- 收录 argoproj 与 argoproj-labs 组织下的生态项目清单
+- 列出使用 Argo 的第三方开源项目（含 MLOps/GitOps 工具）
+- 整理相关书籍与博客文章链接
+- 由 Akuity 赞助维护
 
 ## 适用场景
 
-- 为 Kubernetes 上的 CI/CD 与工作流需求查找 Argo 相关工具
-- 发现 Argo 生态的扩展、插件与第三方集成项目
-- 查找 Argo 与 GitOps 相关的学习书籍和博客
+- 查找 Argo CD / Argo Workflows 的周边工具与扩展
+- 为 Kubernetes GitOps 落地寻找参考项目与学习资料
+- 了解 Argo 生态的项目分布与社区动态
 
 ## 场景标签
 
@@ -37,7 +38,8 @@
 ## 证据(README 行号)
 
 > L13: A curated list of awesome projects and resources related to Argo, a Cloud Native Computing Foundation (CNCF) gradua
-> L17: This list is maintained and sponsored by Akuity, the Enterprise Company for Argo Project.
+> L23: Argo consists of a set of open source tools for deploying and running applications and workloads on Kubernetes, inc
+> L31: ## Table of Contents
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fe427faed4e9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4cc2303e0786` · [字段定义](../../DATASET.md)*

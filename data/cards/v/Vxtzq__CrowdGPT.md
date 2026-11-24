@@ -1,6 +1,6 @@
 # Vxtzq/CrowdGPT
 
-⭐ 229 · HTML · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Vxtzq/CrowdGPT) · [官网](https://www.crowdgpt.net/) · 个人维护
+⭐ 231 · HTML · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Vxtzq/CrowdGPT) · [官网](https://www.crowdgpt.net/) · 个人维护
 
 **志愿者算力分布式训练大语言模型的开源项目**
 

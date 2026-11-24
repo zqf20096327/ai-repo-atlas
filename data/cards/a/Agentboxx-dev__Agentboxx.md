@@ -1,6 +1,6 @@
 # Agentboxx-dev/Agentboxx
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Agentboxx-dev/Agentboxx) · [官网](https://pypi.org/project/agentboxx/) · 组织维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Agentboxx-dev/Agentboxx) · [官网](https://pypi.org/project/agentboxx/) · 组织维护
 
 **AI agent 防篡改运行记录器：沙箱执行、签名审计、循环检测**
 

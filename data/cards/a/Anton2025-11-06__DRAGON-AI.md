@@ -1,6 +1,6 @@
 # Anton2025-11-06/DRAGON-AI
 
-⭐ 212 · Vue · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Anton2025-11-06/DRAGON-AI) · 个人维护 · 中文 README
+⭐ 212 · Vue · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Anton2025-11-06/DRAGON-AI) · 个人维护 · 中文 README
 
 **给企业用的可私有部署多租户 AI 中台**
 

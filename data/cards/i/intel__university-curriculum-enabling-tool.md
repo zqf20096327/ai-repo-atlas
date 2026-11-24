@@ -1,6 +1,6 @@
 # intel/university-curriculum-enabling-tool
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/intel/university-curriculum-enabling-tool) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/intel/university-curriculum-enabling-tool) · 组织维护
 
 **面向高校师生的课程建设与个性化学习 LLM+RAG 应用**
 

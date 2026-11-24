@@ -1,6 +1,6 @@
 # sagarmainkar/hermes-genui
 
-⭐ 128 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sagarmainkar/hermes-genui) · 个人维护
+⭐ 133 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sagarmainkar/hermes-genui) · 个人维护
 
 **Hermes Agent 插件：让聊天回复直接生成图表、表格与仪表盘**
 

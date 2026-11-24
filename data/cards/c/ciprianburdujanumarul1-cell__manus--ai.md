@@ -1,6 +1,6 @@
 # ciprianburdujanumarul1-cell/manus--ai
 
-⭐ 174 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/ciprianburdujanumarul1-cell/manus--ai) · 个人维护
+⭐ 170 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/ciprianburdujanumarul1-cell/manus--ai) · 个人维护
 
 **自主 AI Agent：代用户执行代码与控制浏览器完成多步任务**
 

@@ -1,6 +1,6 @@
 # soran-ghaderi/torchebm
 
-⭐ 119 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/soran-ghaderi/torchebm) · [官网](https://soran-ghaderi.github.io/torchebm/) · 个人维护
+⭐ 119 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/soran-ghaderi/torchebm) · [官网](https://soran-ghaderi.github.io/torchebm/) · 个人维护
 
 **PyTorch 生成式建模库：EBM、扩散、流匹配的统一原语**
 

@@ -1,6 +1,6 @@
 # dorylab/dory
 
-⭐ 327 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dorylab/dory) · [官网](https://getdory.dev) · 组织维护
+⭐ 329 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dorylab/dory) · [官网](https://getdory.dev) · 组织维护
 
 **面向人类与 AI agent 的 SQL 工作台客户端**
 

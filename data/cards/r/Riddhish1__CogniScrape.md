@@ -1,6 +1,6 @@
 # Riddhish1/CogniScrape
 
-⭐ 67 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/Riddhish1/CogniScrape) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-01-05 · [GitHub](https://github.com/Riddhish1/CogniScrape) · 个人维护
 
 **TypeScript LLM 智能网页抓取库：结构化提取数据**
 

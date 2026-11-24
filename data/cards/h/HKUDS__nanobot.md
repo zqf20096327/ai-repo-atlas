@@ -1,6 +1,6 @@
 # HKUDS/nanobot
 
-⭐ 50,272 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HKUDS/nanobot) · [官网](https://nanobot.wiki) · 组织维护 · 中文 README
+⭐ 50,290 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HKUDS/nanobot) · [官网](https://nanobot.wiki) · 组织维护 · 中文 README
 
 **自托管个人 AI agent：在浏览器/终端/聊天应用中对话干活**
 

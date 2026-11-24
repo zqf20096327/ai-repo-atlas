@@ -1,10 +1,10 @@
 # SeekStorm/SeekStorm
 
-⭐ 1,939 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/SeekStorm/SeekStorm) · [官网](https://seekstorm.com) · 组织维护
+⭐ 1,939 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SeekStorm/SeekStorm) · [官网](https://seekstorm.com) · 个人维护
 
-**为应用与 AI 代理提供毫秒级词法/向量/混合搜索的 Rust 库与服务器**
+**为开发者提供毫秒级词法/向量/混合搜索的 Rust 库与多租户服务器**
 
-以 Rust 编写的搜索引擎，可作为进程内库嵌入、作为多租户服务器运行，或通过内置 MCP 服务器向 AI 代理提供搜索。包含两套原生索引架构（倒排索引与 IVF ANN），支持逐查询的词法、向量或混合搜索（RRF 融合）。功能覆盖 BM25F 排序、6 种分词器（含中文分词）、38 种语言的词干提取、多向量索引、量化、分面、地理搜索、容错与实时索引。通过 crates.io、cargo 与 Docker 分发，附带 Python/TypeScript/Rust/C#/Java SDK。
+用 Rust 实现的搜索组件：以库形式嵌入应用，也可作为多租户服务器运行，并提供 MCP server 供 AI agent 检索。双引擎架构（倒排索引 + IVF ANN）经同一查询规划器按查询提供词法（BM25F）、向量或混合搜索，用 RRF 融合结果。支持实时索引、分面、地理搜索、纠错补全、SIMD 加速与十亿级索引。提供 REST API、内嵌 Web UI、CSV/JSON/NDJSON/PDF 摄取及 Python/TypeScript/Rust/C#/Java SDK，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -16,25 +16,25 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 两种一等搜索引擎（倒排 + IVF ANN）由一个查询规划器结合，支持逐查询的词法/向量/混合搜索及 RRF 融合
-- 内置用于 RAG 和代理搜索的 MCP 服务器（cargo install seekstorm_mcp_server）
-- 真·实时索引：文档在提交过程中或之前即可被搜索
-- 多租户 REST API 服务器，支持嵌入式 Web UI，支持 CSV/JSON/NDJSON/PDF 摄取
+- 词法（BM25F）、向量（IVF ANN）、混合搜索（RRF 融合）三种查询模式
+- 内嵌 Model2Vec 推理生成嵌入，或导入外部嵌入；支持 F32/I8 与量化
+- 内置 MCP server，向 AI agent 暴露搜索、摄取与索引管理工具
+- 多租户服务器含 REST API、内嵌 Web UI 与多语言客户端 SDK
 
 ## 适用场景
 
-- 为我的应用或网站添加带有分面、容错和即时搜索的产品/站点搜索
-- 通过 MCP 为我的 AI 代理或 RAG 流水线提供混合搜索
-- 在我的 Rust 应用中直接嵌入搜索库，无需服务器
-- 在私有数据（JSON/CSV/PDF）上构建搜索引擎
+- 给应用或网站添加带分面、纠错和即时搜索的产品/站点搜索
+- 为 RAG 与 agent 提供经 MCP 的混合检索
+- 对自有 JSON/CSV/NDJSON/PDF 数据构建搜索引擎
+- 以库形式嵌入应用内搜索，无需运行服务器
 
 ## 场景标签
 
-`语义搜索` · 领域:知识与检索
+`RAG` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `5ce32ca898d0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `de1cbc7cc326` · [字段定义](../../DATASET.md)*

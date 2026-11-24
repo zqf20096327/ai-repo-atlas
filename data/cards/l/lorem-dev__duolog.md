@@ -1,6 +1,6 @@
 # lorem-dev/duolog
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lorem-dev/duolog) · 组织维护
+⭐ 4 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lorem-dev/duolog) · 组织维护
 
 **让 Claude Code 与 Codex 在同一项目中结对协作的 CLI 工具**
 

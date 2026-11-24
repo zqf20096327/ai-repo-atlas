@@ -1,6 +1,6 @@
 # ubc-provenance/PIDSMaker
 
-⭐ 151 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ubc-provenance/PIDSMaker) · [官网](https://ubc-provenance.github.io/PIDSMaker/) · 组织维护
+⭐ 151 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ubc-provenance/PIDSMaker) · [官网](https://ubc-provenance.github.io/PIDSMaker/) · 组织维护
 
 **构建溯源入侵检测系统（PIDS）的深度学习实验框架**
 

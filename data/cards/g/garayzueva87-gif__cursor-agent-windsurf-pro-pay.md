@@ -1,6 +1,6 @@
 # garayzueva87-gif/cursor-agent-windsurf-pro-pay
 
-⭐ 69 · 推送 2026-11-06 · [GitHub](https://github.com/garayzueva87-gif/cursor-agent-windsurf-pro-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 88 · 推送 2026-11-06 · [GitHub](https://github.com/garayzueva87-gif/cursor-agent-windsurf-pro-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡用于支付 Cursor/Windsurf 订阅的营销页**
 

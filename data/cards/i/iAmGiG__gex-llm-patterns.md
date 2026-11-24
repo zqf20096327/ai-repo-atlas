@@ -1,6 +1,6 @@
 # iAmGiG/gex-llm-patterns
 
-⭐ 36 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/iAmGiG/gex-llm-patterns) · 个人维护
+⭐ 36 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/iAmGiG/gex-llm-patterns) · 个人维护
 
 **博士研究：用时间混淆测试验证 LLM 对期权 GEX 结构的推理能力**
 

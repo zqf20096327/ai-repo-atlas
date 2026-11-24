@@ -1,6 +1,6 @@
 # solegalli/feature-selection-in-machine-learning-book
 
-⭐ 43 · Jupyter Notebook · NOASSERTION · 推送 2026-05-05 · [GitHub](https://github.com/solegalli/feature-selection-in-machine-learning-book) · [官网](https://www.trainindata.com/p/feature-selection-in-machine-learning-book) · 个人维护
+⭐ 44 · Jupyter Notebook · NOASSERTION · 推送 2026-05-05 · [GitHub](https://github.com/solegalli/feature-selection-in-machine-learning-book) · [官网](https://www.trainindata.com/p/feature-selection-in-machine-learning-book) · 个人维护
 
 **《Feature Selection in Machine Learning》书籍配套代码仓库**
 

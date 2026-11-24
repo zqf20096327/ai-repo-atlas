@@ -1,6 +1,6 @@
 # rsperko/keyscribe
 
-⭐ 14 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/rsperko/keyscribe) · [官网](https://rsperko.github.io/keyscribe/) · 个人维护
+⭐ 14 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/rsperko/keyscribe) · [官网](https://rsperko.github.io/keyscribe/) · 个人维护
 
 **macOS 本地语音听写应用：设备端识别、无遥测**
 

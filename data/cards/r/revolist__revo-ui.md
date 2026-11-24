@@ -1,6 +1,6 @@
 # revolist/revo-ui
 
-⭐ 124 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/revolist/revo-ui) · [官网](https://ui.rv-grid.com) · 组织维护
+⭐ 127 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/revolist/revo-ui) · [官网](https://ui.rv-grid.com) · 组织维护
 
 **多框架 UI 组件库，面向数据密集型应用与仪表盘**
 

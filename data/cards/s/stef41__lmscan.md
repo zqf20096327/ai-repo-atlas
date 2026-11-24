@@ -1,6 +1,6 @@
 # stef41/lmscan
 
-⭐ 38 · Python · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/stef41/lmscan) · 个人维护
+⭐ 39 · Python · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/stef41/lmscan) · 个人维护
 
 **离线检测 AI 生成文本并识别来源模型家族的 Python 工具**
 

@@ -1,6 +1,6 @@
 # gladiaio/normalization
 
-⭐ 29 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gladiaio/normalization) · [官网](https://www.gladia.io/competitors/benchmarks) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gladiaio/normalization) · [官网](https://www.gladia.io/competitors/benchmarks) · 组织维护
 
 **语音转写文本归一化库：WER 计算前统一表层格式**
 

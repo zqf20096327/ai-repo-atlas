@@ -1,6 +1,6 @@
 # certeu/vigilo
 
-⭐ 72 · Python · EUPL-1.2 · 推送 2026-11-20 · [GitHub](https://github.com/certeu/vigilo) · 组织维护
+⭐ 77 · Python · EUPL-1.2 · 推送 2026-11-23 · [GitHub](https://github.com/certeu/vigilo) · 组织维护
 
 **安全团队对自有 Web 应用跑可复现的 AI 渗透测试流水线**
 

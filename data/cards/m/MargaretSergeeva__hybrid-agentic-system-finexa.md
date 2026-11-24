@@ -1,6 +1,6 @@
 # MargaretSergeeva/hybrid-agentic-system-finexa
 
-⭐ 3 · 推送 2026-10-23 · [GitHub](https://github.com/MargaretSergeeva/hybrid-agentic-system-finexa) · [官网](margaretsergeeva.github.io/Finexa_Demo) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向金融科技公司的 12 周混合式 Agentic 系统试点项目文档集**
 

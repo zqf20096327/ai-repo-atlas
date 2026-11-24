@@ -1,6 +1,6 @@
 # han938/open-webui-private-ai-desk
 
-⭐ 148 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/han938/open-webui-private-ai-desk) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地自托管私有 AI 工作台：聊天、文档问答与模型管理**
 

@@ -1,6 +1,6 @@
 # Maneet7805/Phrasor
 
-⭐ 4 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Maneet7805/Phrasor) · [官网](https://maneet7805.github.io/Phrasor/) · 个人维护
+⭐ 4 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Maneet7805/Phrasor) · [官网](https://maneet7805.github.io/Phrasor/) · 个人维护
 
 **Windows 托盘应用：热键把草稿提示词改写为清晰版本**
 

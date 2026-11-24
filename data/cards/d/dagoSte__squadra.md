@@ -1,6 +1,6 @@
 # dagoSte/squadra
 
-⭐ 982 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dagoSte/squadra) · 个人维护
+⭐ 979 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dagoSte/squadra) · 个人维护
 
 **多窗口编码 Agent 的团队协调层：共享任务、复核与本地面板**
 

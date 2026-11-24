@@ -1,6 +1,6 @@
 # OpenMined/PySyft
 
-⭐ 10,063 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/OpenMined/PySyft) · [官网](https://www.openmined.org/) · 组织维护
+⭐ 10,064 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenMined/PySyft) · [官网](https://www.openmined.org/) · 组织维护
 
 **隐私保护远程数据科学库：在他人服务器上的私有数据上运行计算**
 

@@ -1,6 +1,6 @@
 # keras-team/keras
 
-⭐ 64,451 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/keras-team/keras) · [官网](http://keras.io/) · 组织维护
+⭐ 64,445 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/keras-team/keras) · [官网](http://keras.io/) · 组织维护
 
 **面向深度学习开发者的多后端高层框架**
 

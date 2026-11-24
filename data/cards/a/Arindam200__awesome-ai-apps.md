@@ -1,6 +1,6 @@
 # Arindam200/awesome-ai-apps
 
-⭐ 16,775 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Arindam200/awesome-ai-apps) · [官网](https://studio1hq.com) · 个人维护
+⭐ 16,872 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Arindam200/awesome-ai-apps) · [官网](https://studio1hq.com) · 个人维护
 
 **LLM 应用与 Agent 示例项目合集：可克隆运行的 144 个项目**
 

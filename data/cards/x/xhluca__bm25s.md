@@ -1,6 +1,6 @@
 # xhluca/bm25s
 
-⭐ 1,828 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/xhluca/bm25s) · [官网](https://bm25s.github.io) · 个人维护
+⭐ 1,829 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/xhluca/bm25s) · [官网](https://bm25s.github.io) · 个人维护
 
 **Python BM25 稀疏检索库：为文本查询排序文档**
 

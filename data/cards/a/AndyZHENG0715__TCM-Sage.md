@@ -1,6 +1,6 @@
 # AndyZHENG0715/TCM-Sage
 
-⭐ 12 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AndyZHENG0715/TCM-Sage) · [官网](https://tcm-sage-sandy.vercel.app) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AndyZHENG0715/TCM-Sage) · [官网](https://tcm-sage-sandy.vercel.app) · 个人维护 · 中文 README
 
 **面向中医从业者：基于RAG的古籍循证问答助手**
 

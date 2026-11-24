@@ -1,6 +1,6 @@
 # allenai/dolma
 
-⭐ 1,564 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/allenai/dolma) · [官网](https://allenai.github.io/dolma/) · 组织维护
+⭐ 1,565 · Python · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/allenai/dolma) · [官网](https://allenai.github.io/dolma/) · 组织维护
 
 **给 NLP 研究者：3 万亿 token 开放预训练语料与数据清洗工具包**
 

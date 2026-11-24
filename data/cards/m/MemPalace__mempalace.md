@@ -1,6 +1,6 @@
 # MemPalace/mempalace
 
-⭐ 60,661 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MemPalace/mempalace) · [官网](http://mempalaceofficial.com/) · 组织维护
+⭐ 60,674 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MemPalace/mempalace) · [官网](http://mempalaceofficial.com/) · 组织维护
 
 **本地优先的 AI 对话记忆存储与检索系统（MCP 服务器）**
 

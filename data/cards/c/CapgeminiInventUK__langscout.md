@@ -1,6 +1,6 @@
 # CapgeminiInventUK/langscout
 
-⭐ 13 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CapgeminiInventUK/langscout) · 组织维护
+⭐ 13 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/CapgeminiInventUK/langscout) · 组织维护
 
 **Langchain 应用 LLM 追踪工具：存入 MongoDB 并可视化**
 

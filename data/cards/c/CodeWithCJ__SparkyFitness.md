@@ -1,6 +1,6 @@
 # CodeWithCJ/SparkyFitness
 
-⭐ 6,853 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/CodeWithCJ/SparkyFitness) · [官网](https://codewithcj.github.io/SparkyFitness/) · 个人维护
+⭐ 6,858 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/CodeWithCJ/SparkyFitness) · [官网](https://codewithcj.github.io/SparkyFitness/) · 个人维护
 
 **自托管家庭健康追踪平台，可选 AI 聊天记录饮食与运动**
 

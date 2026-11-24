@@ -1,6 +1,6 @@
 # agentconnect-md/agentconnect
 
-⭐ 1,552 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/agentconnect-md/agentconnect) · [官网](https://www.agentconnect.md) · 组织维护 · 中文 README
+⭐ 1,554 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/agentconnect-md/agentconnect) · [官网](https://www.agentconnect.md) · 组织维护 · 中文 README
 
 **多 Agent 协作平台：在团队消息渠道中接入多个 AI agent**
 

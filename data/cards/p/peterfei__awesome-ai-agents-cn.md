@@ -1,6 +1,6 @@
 # peterfei/awesome-ai-agents-cn
 
-⭐ 23 · 推送 2026-06-02 · [GitHub](https://github.com/peterfei/awesome-ai-agents-cn) · [官网](https://github.com/peterfei/awesome-ai-agents-cn) · 个人维护 · 中文 README
+⭐ 24 · 推送 2026-06-02 · [GitHub](https://github.com/peterfei/awesome-ai-agents-cn) · [官网](https://github.com/peterfei/awesome-ai-agents-cn) · 个人维护 · 中文 README
 
 **中文 AI Agent 落地案例精选清单，覆盖 12 类应用场景**
 

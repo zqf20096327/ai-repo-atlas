@@ -1,6 +1,6 @@
 # rustic-ai/uni-db
 
-⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/rustic-ai/uni-db) · [官网](https://rustic-ai.github.io/uni-db/) · 组织维护
+⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rustic-ai/uni-db) · [官网](https://rustic-ai.github.io/uni-db/) · 组织维护
 
 **嵌入式图+向量+列存一体化数据库，面向本地多模态数据访问**
 

@@ -1,6 +1,6 @@
 # RazureSOFT/0KAY
 
-⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RazureSOFT/0KAY) · 组织维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RazureSOFT/0KAY) · 组织维护 · 中文 README
 
 **自托管、可记事带情绪的本地 AI 伙伴平台**
 

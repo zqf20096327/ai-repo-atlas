@@ -1,6 +1,6 @@
 # OpenVie/OpenVie
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/OpenVie/OpenVie) · [官网](https://openvie.linkednodedigital.com/) · 组织维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenVie/OpenVie) · [官网](https://openvie.linkednodedigital.com/) · 组织维护
 
 **越南语优先的自托管企业内部文档 RAG 平台**
 

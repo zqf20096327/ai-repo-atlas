@@ -1,6 +1,6 @@
 # weixiao121/mcd-diff
 
-⭐ 8 · Python · NOASSERTION · 推送 2026-10-09 · [GitHub](https://github.com/weixiao121/mcd-diff) · [官网](https://weixiao121.github.io/mcd-diff/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给麦当劳老客复盘历史订单：同等预算与热量下算可省差额**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

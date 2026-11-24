@@ -1,10 +1,10 @@
 # simplexai-labs/linger
 
-⭐ 3,796 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/simplexai-labs/linger) · [官网](heylinger.com) · 组织维护
+⭐ 4,196 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/simplexai-labs/linger) · [官网](heylinger.com) · 组织维护
 
-**在消费级电脑上完整本地运行的个人 AI 代理**
+**在消费级电脑上本地运行的个人 AI 代理**
 
-Linger 是一个开源个人代理，在本地 PC/Mac 上运行本地模型：内置自研 MoE 推理引擎 PolyStrata，将高频专家保留在 GPU、其余放入 RAM/SSD，使 125B 模型在 12 GB GPU 上运行；安装时按硬件检测推荐并安装模型。代理侧提供共享 wiki 记忆（夜间从 Gmail/Slack/日历等来源更新为图结构页面）、主动触达的 Another Me 代理（夜间重写决策规则）、agent 团队、后台任务委派、模型调度、桌面/浏览器操作与语音转写。提供 macOS/Windows 安装包与 Docker、源码方式。
+开源个人代理，本体由本地 MoE 推理引擎 PolyStrata 驱动：将最常被选中的专家放在 GPU、其余放在 RAM/SSD，使 125B 模型可在 12 GB 显存加 64 GB RAM 的机器上运行。功能包括安装时检测硬件并推荐安装模型（Model Autopilot）、每晚把邮件/聊天/会议写入本地 wiki 的共享记忆、主动发消息的 Another Me 代理（按用户反馈夜间重写决策规则）、agent 团队、后台任务委派、模型调度与会议转写。提供 macOS/Windows/Linux 桌面安装包，Intel Mac 走 Docker Compose。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Linger 是一个开源个人代理，在本地 PC/Mac 上运行本地模型：�
 
 ## 能力要点
 
-- PolyStrata 引擎：125B MoE 模型在 12 GB GPU + 64 GB RAM 上运行（45.5 tok/s @ RTX 3060）
-- Model Autopilot：一条命令检测硬件并推荐、安装、验证模型
-- 夜间将邮件/聊天/会议归档为个人 wiki，全代理共享检索
-- Another Me 代理主动触达并通过夜间 Dreaming 重写决策规则
+- PolyStrata 推理引擎：125B MoE 模型在 12 GB GPU + 64 GB RAM 上运行（45.5 tok/s @RTX 3060）
+- Model Autopilot：检测 GPU/内存/带宽后自动推荐、安装并验证模型
+- 每晚将邮件、Slack、会议归档为可供所有代理检索的本地 wiki
+- Another Me 代理主动跟进事件，并按用户反应夜间重写规则
 
 ## 适用场景
 
-- 在无云账单、无 token 费用的前提下本地运行个人 AI 助手
-- 让代理记住邮件、聊天和会议中的重要信息并在代理间共享
-- 让代理监控收件箱/日历/Slack 并在需要时主动提醒
-- 一条命令为自己的硬件自动挑选并安装合适的本地模型
+- 在个人电脑上本地运行代理助手而不依赖云端 API
+- 让代理记住邮件/聊天/会议中的信息并跨会话检索
+- 让代理主动跟进收件箱与日程并在需要时通知我
+- 多个代理按同一份 team.md 协作完成一项任务
 
 ## 场景标签
 
-`AI 助手` `推理引擎` `Agent 记忆` · 领域:Agent 开发
+`推理引擎` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L3:  Linger is an open-source personal agent with a Claude-class brain running locally on your PC.
-> L16:  Linger in 28.5 seconds: a metal laptop opens, sets up a local model and connects apps. Mail, chats and meetings be
-> L20: - **A loyal AI sidekick.** It remembers what matters, proactively gets things done, and keeps your data on your dev
+> L28: Efficient AI model–harness co-design brings a full local agent to consumer Macs and PCs. Our MoE inference engine, 
+> L51: One command detects your hardware, recommends the best model, installs it and checks it. In our lab we run an archi
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0837d3b43d88` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `eca1f7133980` · [字段定义](../../DATASET.md)*

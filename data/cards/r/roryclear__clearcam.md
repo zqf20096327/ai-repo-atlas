@@ -1,6 +1,6 @@
 # roryclear/clearcam
 
-⭐ 2,766 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/roryclear/clearcam) · [官网](https://clearcam.org) · 个人维护
+⭐ 2,802 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/roryclear/clearcam) · [官网](https://clearcam.org) · 个人维护
 
 **为任意 RTSP 安防摄像头添加目标检测、追踪与通知**
 

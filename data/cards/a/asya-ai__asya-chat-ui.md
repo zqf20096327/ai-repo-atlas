@@ -1,6 +1,6 @@
 # asya-ai/asya-chat-ui
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/asya-ai/asya-chat-ui) · 组织维护
+⭐ 13 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/asya-ai/asya-chat-ui) · 组织维护
 
 **自托管多提供商 LLM 聊天平台，带组织管理与 OpenAI 兼容 API**
 

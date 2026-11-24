@@ -1,6 +1,6 @@
 # SnowWarri0r/lingxi
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/SnowWarri0r/lingxi) · 个人维护 · 中文 README
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SnowWarri0r/lingxi) · 个人维护 · 中文 README
 
 **有生活节奏与记忆的虚拟人格 agent，可自定义人设对话**
 

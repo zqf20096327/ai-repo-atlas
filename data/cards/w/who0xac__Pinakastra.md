@@ -1,6 +1,6 @@
 # who0xac/Pinakastra
 
-⭐ 63 · Go · 推送 2025-12-27 · [GitHub](https://github.com/who0xac/Pinakastra) · 个人维护
+⭐ 62 · Go · 推送 2025-12-27 · [GitHub](https://github.com/who0xac/Pinakastra) · 个人维护
 
 **面向渗透测试者的 AI 辅助自动化侦察与漏洞利用框架**
 

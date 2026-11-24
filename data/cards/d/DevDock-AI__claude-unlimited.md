@@ -1,6 +1,6 @@
 # DevDock-AI/claude-unlimited
 
-⭐ 357 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/DevDock-AI/claude-unlimited) · [官网](https://github.com/DevDock-AI/claude-unlimited#readme) · 组织维护
+⭐ 359 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/DevDock-AI/claude-unlimited) · [官网](https://github.com/DevDock-AI/claude-unlimited#readme) · 组织维护
 
 **在 Claude Code 内轮换 Claude/ChatGPT 订阅与 API key 的本地代理**
 

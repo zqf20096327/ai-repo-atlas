@@ -1,6 +1,6 @@
 # KoLoRang/timing-bomb
 
-⭐ 10 · Swift · 推送 2026-11-12 · [GitHub](https://github.com/KoLoRang/timing-bomb) · [官网](https://timing-bomb.pages.dev/) · 个人维护 · 中文 README
+⭐ 11 · Swift · 推送 2026-11-12 · [GitHub](https://github.com/KoLoRang/timing-bomb) · [官网](https://timing-bomb.pages.dev/) · 个人维护 · 中文 README
 
 **macOS 本地自动化编排器，可视化流程+定时+文件监听+AI Agent 接入**
 

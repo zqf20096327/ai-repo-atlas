@@ -1,6 +1,6 @@
 # huggingface/agents-course
 
-⭐ 35,312 · MDX · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/agents-course) · 组织维护
+⭐ 35,357 · MDX · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/agents-course) · 组织维护
 
 **面向学习者的免费 AI Agent 入门课程（4 单元+认证）**
 

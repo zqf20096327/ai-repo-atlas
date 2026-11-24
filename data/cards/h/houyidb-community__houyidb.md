@@ -1,6 +1,6 @@
 # houyidb-community/houyidb
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/houyidb-community/houyidb) · [官网](https://houyidb.top) · 个人维护 · 中文 README
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/houyidb-community/houyidb) · [官网](https://houyidb.top) · 个人维护 · 中文 README
 
 **面向 RAG/嵌入检索场景的单机向量数据库**
 

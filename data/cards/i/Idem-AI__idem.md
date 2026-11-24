@@ -1,6 +1,6 @@
 # Idem-AI/idem
 
-⭐ 63 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Idem-AI/idem) · [官网](https://idem.africa) · 组织维护
+⭐ 63 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Idem-AI/idem) · [官网](https://idem.africa) · 组织维护
 
 **泛非 AI 平台：从想法生成品牌、商业计划与应用并部署**
 

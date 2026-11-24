@@ -1,6 +1,6 @@
 # DivitMittal/ai-nixCfg
 
-⭐ 20 · Nix · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DivitMittal/ai-nixCfg) · [官网](https://deepwiki.com/DivitMittal/ai-nixCfg) · 个人维护
+⭐ 20 · Nix · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DivitMittal/ai-nixCfg) · [官网](https://deepwiki.com/DivitMittal/ai-nixCfg) · 个人维护
 
 **AI 编码助手与 LLM 工具的 Nix home-manager 模块集**
 

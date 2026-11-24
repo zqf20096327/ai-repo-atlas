@@ -1,6 +1,6 @@
 # RainBowLuoCS/Gamer
 
-⭐ 1,306 · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/RainBowLuoCS/Gamer) · [官网](https://mihoyo-gamer.github.io/) · 组织维护 · 中文 README
+⭐ 1,430 · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/RainBowLuoCS/Gamer) · [官网](https://mihoyo-gamer.github.io/) · 组织维护 · 中文 README
 
 **通用视觉-语言-动作游戏智能体基础模型，生成键鼠操作**
 

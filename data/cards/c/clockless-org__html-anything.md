@@ -1,6 +1,6 @@
 # clockless-org/html-anything
 
-⭐ 166 · JavaScript · MIT-0 · 推送 2026-05-13 · [GitHub](https://github.com/clockless-org/html-anything) · 组织维护
+⭐ 168 · JavaScript · MIT-0 · 推送 2026-05-13 · [GitHub](https://github.com/clockless-org/html-anything) · 组织维护
 
 **把任意文件/回答转为单文件交互 HTML 页面的 agent 技能**
 

@@ -1,6 +1,6 @@
 # Kevinwu901113/dsh-dot
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Kevinwu901113/dsh-dot) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Kevinwu901113/dsh-dot) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 装一个住自己手机的有记忆角色插件**
 

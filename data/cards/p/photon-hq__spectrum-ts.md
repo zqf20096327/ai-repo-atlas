@@ -1,6 +1,6 @@
 # photon-hq/spectrum-ts
 
-⭐ 2,206 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/photon-hq/spectrum-ts) · [官网](https://photon.codes/spectrum) · 组织维护
+⭐ 2,206 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/photon-hq/spectrum-ts) · [官网](https://photon.codes/spectrum) · 组织维护
 
 **让 AI agent 通过 iMessage/SMS/邮件等真实渠道触达用户的 TypeScript 框架**
 

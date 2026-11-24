@@ -1,6 +1,6 @@
 # Felix3322/PotPlayer_ChatGPT_Translate
 
-⭐ 1,084 · AngelScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate) · 个人维护 · 中文 README
+⭐ 1,085 · AngelScript · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Felix3322/PotPlayer_ChatGPT_Translate) · 个人维护 · 中文 README
 
 **为 PotPlayer 用户提供实时字幕翻译的 AI 插件**
 

@@ -1,6 +1,6 @@
 # pegainfer-project/kern
 
-⭐ 224 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/pegainfer-project/kern) · [官网](https://kern-baa.pages.dev/) · 组织维护
+⭐ 235 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/pegainfer-project/kern) · [官网](https://kern-baa.pages.dev/) · 组织维护
 
 **面向 agent 的 GPU LLM 推理运行时，模型以清单+内核交付**
 

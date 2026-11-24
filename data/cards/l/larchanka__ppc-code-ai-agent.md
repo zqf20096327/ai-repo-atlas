@@ -1,6 +1,6 @@
 # larchanka/ppc-code-ai-agent
 
-⭐ 4 · Perl · MIT · 推送 2026-11-22 · [GitHub](https://github.com/larchanka/ppc-code-ai-agent) · [官网](https://mobila.name) · 个人维护
+⭐ 9 · Perl · MIT · 推送 2026-11-23 · [GitHub](https://github.com/larchanka/ppc-code-ai-agent) · [官网](https://mobila.name) · 个人维护
 
 **PowerPC 老款 Mac 上的终端 AI 编码代理**
 

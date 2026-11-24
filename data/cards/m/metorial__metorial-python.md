@@ -1,6 +1,6 @@
 # metorial/metorial-python
 
-⭐ 11 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/metorial/metorial-python) · [官网](https://metorial.com) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/metorial/metorial-python) · [官网](https://metorial.com) · 组织维护
 
 **给 AI agent 接入 MCP 工具的 Python SDK**
 

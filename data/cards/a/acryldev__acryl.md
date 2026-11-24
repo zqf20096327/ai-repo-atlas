@@ -1,6 +1,6 @@
 # acryldev/acryl
 
-⭐ 279 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/acryldev/acryl) · [官网](https://acryl.dev) · 组织维护
+⭐ 279 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/acryldev/acryl) · [官网](https://acryl.dev) · 组织维护
 
 **多编码 Agent 共用持久上下文的 Agentic 开发环境运行时**
 

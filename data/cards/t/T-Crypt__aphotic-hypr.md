@@ -1,6 +1,6 @@
 # T-Crypt/aphotic-hypr
 
-⭐ 108 · QML · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/T-Crypt/aphotic-hypr) · 个人维护
+⭐ 108 · QML · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/T-Crypt/aphotic-hypr) · 个人维护
 
 **基于 Quickshell 的模块化 Hyprland 桌面配置（dotfiles）**
 

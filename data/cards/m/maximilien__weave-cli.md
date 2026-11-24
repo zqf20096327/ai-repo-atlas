@@ -1,6 +1,6 @@
 # maximilien/weave-cli
 
-⭐ 35 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/maximilien/weave-cli) · [官网](https://github.com/maximilien/weave-cli) · 个人维护
+⭐ 35 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/maximilien/weave-cli) · [官网](https://github.com/maximilien/weave-cli) · 个人维护
 
 **管理多种向量数据库的通用 CLI：查看/建删/搜索集合与文档**
 

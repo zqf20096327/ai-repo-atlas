@@ -1,6 +1,6 @@
 # PVRLabs/aibadger
 
-⭐ 91 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/PVRLabs/aibadger) · [官网](https://pvrlabs.xyz/aibadger/) · 组织维护
+⭐ 91 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PVRLabs/aibadger) · [官网](https://pvrlabs.xyz/aibadger/) · 组织维护
 
 **为 AI 聊天准备聚焦仓库上下文的本地 CLI 工具**
 

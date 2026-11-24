@@ -1,6 +1,6 @@
 # tk85457/LocalMind
 
-⭐ 18 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/tk85457/LocalMind) · [官网](https://github.com/tk85457/LocalMind/releases/latest) · 个人维护
+⭐ 19 · C++ · MIT · 推送 2026-10-15 · [GitHub](https://github.com/tk85457/LocalMind) · [官网](https://github.com/tk85457/LocalMind/releases/latest) · 个人维护
 
 **Android 本地 LLM 聊天应用：离线运行 GGUF 模型**
 

@@ -1,6 +1,6 @@
 # ciddwd/overlay-translator
 
-⭐ 1,378 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ciddwd/overlay-translator) · 个人维护 · 中文 README
+⭐ 1,390 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ciddwd/overlay-translator) · 个人维护 · 中文 README
 
 **给游戏/漫画/视觉小说用户的安卓无 ROOT 屏幕实时翻译工具**
 

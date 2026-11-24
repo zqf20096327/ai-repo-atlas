@@ -1,6 +1,6 @@
 # vercel-labs/eve-software-factory-template
 
-⭐ 1,180 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-software-factory-template) · [官网](https://vercel.com/templates/eve/eve-software-factory) · 组织维护
+⭐ 1,186 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-software-factory-template) · [官网](https://vercel.com/templates/eve/eve-software-factory) · 组织维护
 
 **让 AI agent 走完开发流水线的软件工厂模板**
 

@@ -1,6 +1,6 @@
 # import-ai/omnibox
 
-⭐ 1,565 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/import-ai/omnibox) · [官网](https://www.omnibox.pro) · 组织维护 · 中文 README
+⭐ 1,566 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/import-ai/omnibox) · [官网](https://www.omnibox.pro) · 组织维护 · 中文 README
 
 **跨平台一体化 AI 知识库：收集网页/文件，问答与写作**
 

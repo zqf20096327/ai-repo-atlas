@@ -1,6 +1,6 @@
 # spectra-php/laravel-spectra
 
-⭐ 31 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/spectra-php/laravel-spectra) · [官网](https://spectraphp.com) · 个人维护
+⭐ 31 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/spectra-php/laravel-spectra) · [官网](https://spectraphp.com) · 个人维护
 
 **Laravel 应用的 AI/LLM 调用可观测性包：追踪、计费与预算**
 

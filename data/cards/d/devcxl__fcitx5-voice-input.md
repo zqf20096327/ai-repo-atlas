@@ -1,6 +1,6 @@
 # devcxl/fcitx5-voice-input
 
-⭐ 14 · C++ · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/devcxl/fcitx5-voice-input) · [官网](https://devcxl.github.io/fcitx5-voice-input/) · 个人维护 · 中文 README
+⭐ 14 · C++ · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/devcxl/fcitx5-voice-input) · [官网](https://devcxl.github.io/fcitx5-voice-input/) · 个人维护 · 中文 README
 
 **Fcitx5 语音输入插件：VAD 分段后经云端 ASR 转文字上屏**
 

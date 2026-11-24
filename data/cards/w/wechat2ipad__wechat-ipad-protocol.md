@@ -1,6 +1,6 @@
 # wechat2ipad/wechat-ipad-protocol
 
-⭐ 352 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wechat2ipad/wechat-ipad-protocol) · 个人维护 · 中文 README
+⭐ 353 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wechat2ipad/wechat-ipad-protocol) · 个人维护 · 中文 README
 
 **微信 iPad 协议接口：为 AI 客服与私域运营提供微信底层接入**
 

@@ -1,6 +1,6 @@
 # microsoft/Agents
 
-⭐ 1,113 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Agents) · [官网](https://aka.ms/agentsdkdocs) · 组织维护
+⭐ 1,113 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agents) · [官网](https://aka.ms/agentsdkdocs) · 组织维护
 
 **微软多渠道 agent 构建接入 SDK：面向企业开发者**
 

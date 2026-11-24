@@ -1,6 +1,6 @@
 # oil-oil/codex
 
-⭐ 107 · PowerShell · 推送 2026-11-18 · [GitHub](https://github.com/oil-oil/codex) · 个人维护 · 中文 README
+⭐ 108 · PowerShell · 推送 2026-11-18 · [GitHub](https://github.com/oil-oil/codex) · 个人维护 · 中文 README
 
 **让其他 Agent 把 Codex CLI 作为可持续会话的编码子 Agent 的 Skill**
 

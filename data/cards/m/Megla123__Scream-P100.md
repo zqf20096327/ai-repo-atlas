@@ -1,6 +1,6 @@
 # Megla123/Scream-P100
 
-⭐ 14 · Cuda · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Megla123/Scream-P100) · 个人维护
+⭐ 17 · Cuda · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Megla123/Scream-P100) · 个人维护
 
 **在两张退役 Tesla P100 上运行大 MoE 模型的推理引擎移植**
 

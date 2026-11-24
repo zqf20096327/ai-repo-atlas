@@ -1,6 +1,6 @@
 # Temikus/butter
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Temikus/butter) · [官网](https://butterproxy.org/) · 个人维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Temikus/butter) · [官网](https://butterproxy.org/) · 个人维护
 
 **Go 编写的 AI 代理网关：统一 OpenAI 兼容 API 接入多家供应商**
 

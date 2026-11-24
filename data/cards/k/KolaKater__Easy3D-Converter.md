@@ -1,6 +1,6 @@
 # KolaKater/Easy3D-Converter
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/KolaKater/Easy3D-Converter) · [官网](https://www.facebook.com/search/top?q=3d%20stereo%20lover) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/KolaKater/Easy3D-Converter) · [官网](https://www.facebook.com/search/top?q=3d%20stereo%20lover) · 个人维护 · 中文 README
 
 **把单张图片/视频转为 SBS 立体 3D 的 GPU 工具**
 

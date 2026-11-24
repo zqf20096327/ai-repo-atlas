@@ -1,6 +1,6 @@
 # BerriAI/inference-stack
 
-⭐ 19 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BerriAI/inference-stack) · [官网](https://inferencestack.io) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BerriAI/inference-stack) · [官网](https://inferencestack.io) · 组织维护
 
 **一键部署的开源推理栈：整合 LiteLLM、llm-d、vLLM 与 Grafana**
 

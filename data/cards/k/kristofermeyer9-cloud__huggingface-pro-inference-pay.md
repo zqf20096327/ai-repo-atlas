@@ -1,6 +1,6 @@
 # kristofermeyer9-cloud/huggingface-pro-inference-pay
 
-⭐ 69 · 推送 2026-11-04 · [GitHub](https://github.com/kristofermeyer9-cloud/huggingface-pro-inference-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 89 · 推送 2026-11-04 · [GitHub](https://github.com/kristofermeyer9-cloud/huggingface-pro-inference-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡支付 HF 推理端点费用的指南**
 

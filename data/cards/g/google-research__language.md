@@ -1,6 +1,6 @@
 # google-research/language
 
-⭐ 1,828 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/google-research/language) · [官网](https://ai.google/research/teams/language/) · 组织维护
+⭐ 1,829 · Python · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/google-research/language) · [官网](https://ai.google/research/teams/language/) · 组织维护
 
 **Google 语言研究团队开源项目的共享代码仓库**
 

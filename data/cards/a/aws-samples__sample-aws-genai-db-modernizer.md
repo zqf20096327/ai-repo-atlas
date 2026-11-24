@@ -1,6 +1,6 @@
 # aws-samples/sample-aws-genai-db-modernizer
 
-⭐ 15 · Python · MIT-0 · 推送 2026-11-22 · [GitHub](https://github.com/aws-samples/sample-aws-genai-db-modernizer) · [官网](https://aws-samples.github.io/sample-aws-genai-db-modernizer/) · 组织维护
+⭐ 15 · Python · MIT-0 · 推送 2026-11-23 · [GitHub](https://github.com/aws-samples/sample-aws-genai-db-modernizer) · [官网](https://aws-samples.github.io/sample-aws-genai-db-modernizer/) · 组织维护
 
 **面向 AWS 数据库现代化重构的查询分流评估与报告生成工具**
 

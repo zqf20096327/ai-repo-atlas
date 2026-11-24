@@ -1,6 +1,6 @@
 # iyulab/lm-supply
 
-⭐ 13 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/iyulab/lm-supply) · 组织维护
+⭐ 13 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iyulab/lm-supply) · 组织维护
 
 **.NET 本地 AI 推理库：按需下载模型，零内置模型**
 

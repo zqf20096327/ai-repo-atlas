@@ -1,6 +1,6 @@
 # voocel/ainovel-cli
 
-⭐ 2,361 · Go · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/voocel/ainovel-cli) · 个人维护 · 中文 README
+⭐ 2,363 · Go · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/voocel/ainovel-cli) · 个人维护 · 中文 README
 
 **多 agent 全自动长篇小说生成 CLI，从一句话到成书**
 

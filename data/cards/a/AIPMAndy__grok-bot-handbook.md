@@ -1,6 +1,6 @@
 # AIPMAndy/grok-bot-handbook
 
-⭐ 6 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AIPMAndy/grok-bot-handbook) · [官网](https://aipmandy.github.io/grok-bot-handbook/) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AIPMAndy/grok-bot-handbook) · [官网](https://aipmandy.github.io/grok-bot-handbook/) · 个人维护 · 中文 README
 
 **中文用户的 Grok Bot 非官方操作教程与任务指令库**
 

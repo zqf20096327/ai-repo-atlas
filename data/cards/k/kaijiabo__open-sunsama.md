@@ -1,6 +1,6 @@
 # kaijiabo/open-sunsama
 
-⭐ 184 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/kaijiabo/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
+⭐ 187 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/kaijiabo/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
 
 **可被 Claude/ChatGPT 经 MCP 操控的开源自托管日计划工具**
 

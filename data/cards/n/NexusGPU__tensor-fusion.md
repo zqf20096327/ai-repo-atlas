@@ -1,6 +1,6 @@
 # NexusGPU/tensor-fusion
 
-⭐ 170 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NexusGPU/tensor-fusion) · [官网](https://tensor-fusion.ai) · 组织维护 · 中文 README
+⭐ 170 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NexusGPU/tensor-fusion) · [官网](https://tensor-fusion.ai) · 组织维护 · 中文 README
 
 **面向 Kubernetes 的 GPU 虚拟化与池化调度方案，给运维 GPU 集群的团队**
 

@@ -1,6 +1,6 @@
 # norwelltw/Tokmizer
 
-⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/norwelltw/Tokmizer) · [官网](https://tokmizer.com) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **为 AI 编码 agent 压缩命令输出 token 的 CLI 中间层**
 
@@ -11,7 +11,7 @@ Tokmizer 以 hook/plugin 形式插入 Claude Code、Codex、Cursor 等 20 余个
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

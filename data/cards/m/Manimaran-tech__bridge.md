@@ -1,6 +1,6 @@
 # Manimaran-tech/bridge
 
-⭐ 44 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Manimaran-tech/bridge) · [官网](https://www.npmjs.com/package/@markmayandi/bridge) · 个人维护 · 中文 README
+⭐ 56 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Manimaran-tech/bridge) · [官网](https://www.npmjs.com/package/@markmayandi/bridge) · 个人维护 · 中文 README
 
 **把本地代码目录通过 MCP 隧道安全接入网页版 AI 客户端的 CLI**
 

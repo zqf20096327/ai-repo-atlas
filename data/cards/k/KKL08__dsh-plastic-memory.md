@@ -1,6 +1,6 @@
 # KKL08/dsh-plastic-memory
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/KKL08/dsh-plastic-memory) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KKL08/dsh-plastic-memory) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 提供自动沉淀、检索与治理的长期记忆插件**
 

@@ -1,6 +1,6 @@
 # genkit-ai/aws-bedrock-js-plugin
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/genkit-ai/aws-bedrock-js-plugin) · [官网](https://genkit-ai.github.io/aws-bedrock-js-plugin/) · 个人维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/genkit-ai/aws-bedrock-js-plugin) · [官网](https://genkit-ai.github.io/aws-bedrock-js-plugin/) · 个人维护
 
 **让 Genkit 框架接入 AWS Bedrock 模型 API 的社区插件**
 

@@ -1,10 +1,10 @@
 # xlang-ai/OSWorld
 
-⭐ 3,277 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/xlang-ai/OSWorld) · [官网](https://os-world.github.io) · 组织维护
+⭐ 3,277 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/xlang-ai/OSWorld) · [官网](https://os-world.github.io) · 组织维护
 
-**在真实计算机环境中评测多模态 agent 的基准**
+**在真实计算机环境中评测多模态 Agent 的基准**
 
-OSWorld 提供一个用于评测多模态 agent 在真实操作系统环境中完成开放任务的基准：内置带任务配置的 Ubuntu/Windows 虚拟机环境、agent 与环境两套接口，以及按领域/类别统计成功率的评测脚本。用户可基于 VMware、VirtualBox、Docker、Modal、Daytona 或 AWS 多种 provider 运行环境，支持并行评测与手动任务检查；论文发表于 NeurIPS 2024，面向研究 agent 能力的开发者与科研人员。
+提供包含任务、虚拟机环境与评测脚本的多模态 Agent 基准：任务覆盖真实操作系统中的开放式操作，环境基于 Ubuntu/Windows 虚拟机，支持 VMware、VirtualBox、Docker、Modal、Daytona、AWS 等多种运行后端。用户需实现 agent 接口并导入运行脚本，结果包含截图、动作与录像，脚本输出分领域成功率与总分。部分任务需 Google 账号 OAuth 配置，公开榜单需与维护方预约运行。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ OSWorld 提供一个用于评测多模态 agent 在真实操作系统环境中�
 
 ## 能力要点
 
-- 提供 VMware/VirtualBox/Docker/Modal/Daytona/AWS 多种虚拟环境 provider
-- 任务结果含截图、动作与录像，输出领域级与整体成功率统计
-- 提供手动任务检查工具以验证任务正确性与评测指标
-- OSWorld-Verified 更新支持 AWS 并行评测，可将评测压缩至 1 小时内
+- 多后端虚拟机环境：VMware/VirtualBox/Docker/Modal/Daytona/AWS
+- AWS 并行评测可将评估时间缩短至 1 小时以内（README 自述）
+- 结果含截图、动作与录像，输出分领域成功率与总分
+- 提供手动检查工具用于核对任务与评测指标
 
 ## 适用场景
 
-- 在自己的 agent 上运行基准并对比官方模型结果
-- 用 Docker 或 AWS 并行化大规模评测任务
-- 手动检查和验证特定基准任务的评测指标
+- 在我的 agent 上运行该基准并获取各领域成功率
+- 用 Docker/KVM 在服务器上并行执行评测
+- 用手动检查工具核对特定任务的评测指标
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `多模态` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L137: ## 🧪 Experiments
-> L216: ## Evaluation
-> L223: If you want your results to be verified and displayed on the verified leaderboard, you need to schedule a meeting 
+> L32: - 2024-04-11: We released our paper, environment and benchmark, and project page. Check it out!
+> L88: Add the following arguments when initializing `DesktopEnv`:
+> L219: Correctly implement the agent interface and import your customized version in the `run.py` (for single-threaded ex
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f75365e3b6bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d9d8a1da537e` · [字段定义](../../DATASET.md)*

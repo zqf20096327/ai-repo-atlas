@@ -1,6 +1,6 @@
 # Dodaios/ste80-humanizer
 
-⭐ 1,078 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Dodaios/ste80-humanizer) · [官网](https://skills.sh/Dodaios/ste80-humanizer) · 组织维护
+⭐ 1,105 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Dodaios/ste80-humanizer) · [官网](https://skills.sh/Dodaios/ste80-humanizer) · 组织维护
 
 **去除 AI 文风特征并按 STE80 重写文本的 agent 技能**
 

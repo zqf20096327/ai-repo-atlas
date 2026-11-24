@@ -1,6 +1,6 @@
 # anupamchoudhari/enterprise-ai-evals
 
-⭐ 4 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/anupamchoudhari/enterprise-ai-evals) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/anupamchoudhari/enterprise-ai-evals) · 个人维护
 
 **给产品经理写企业级 AI 评测的 PRD 模板与方法**
 

@@ -1,6 +1,6 @@
 # modelsalt/model-salt
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/modelsalt/model-salt) · [官网](https://modelsalt.com) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/modelsalt/model-salt) · [官网](https://modelsalt.com) · 个人维护
 
 **给 MCP 客户端注入外部随机性的服务器：同一提示产生不同结果**
 

@@ -1,6 +1,6 @@
 # open-rollout/tokin
 
-⭐ 140 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/open-rollout/tokin) · 组织维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/open-rollout/tokin) · 组织维护
 
 **把任意 agent harness 变成 token 级的网关，供 RL 采集 rollout**
 

@@ -1,6 +1,6 @@
 # blueshadow62/fairhand
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/blueshadow62/fairhand) · 个人维护
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/blueshadow62/fairhand) · 个人维护
 
 **教师用 AI 转录评分手写主观题答卷的桌面程序**
 

@@ -1,6 +1,6 @@
 # open-net-worth-ai/open-net-worth
 
-⭐ 694 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/open-net-worth-ai/open-net-worth) · [官网](https://opennetworth.ai) · 组织维护
+⭐ 727 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/open-net-worth-ai/open-net-worth) · [官网](https://opennetworth.ai) · 组织维护
 
 **自托管个人理财 AI agent：管理预算、投资并可下单交易**
 

@@ -1,6 +1,6 @@
 # google-deepmind/disentangled_rnns
 
-⭐ 48 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google-deepmind/disentangled_rnns) · [官网](https://openreview.net/pdf?id=SOEF0i0G1z) · 组织维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google-deepmind/disentangled_rnns) · [官网](https://openreview.net/pdf?id=SOEF0i0G1z) · 组织维护
 
 **面向科研的 DisRNN 认知模型发现代码库：拟合行为与神经数据**
 

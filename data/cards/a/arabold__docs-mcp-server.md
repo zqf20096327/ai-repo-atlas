@@ -1,6 +1,6 @@
 # arabold/docs-mcp-server
 
-⭐ 1,911 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/arabold/docs-mcp-server) · [官网](https://grounded.tools) · 个人维护
+⭐ 1,914 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/arabold/docs-mcp-server) · [官网](https://grounded.tools) · 个人维护
 
 **给 AI 编码助手提供按版本索引的文档检索 MCP 服务器**
 

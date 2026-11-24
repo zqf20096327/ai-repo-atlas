@@ -1,6 +1,6 @@
 # kyegomez/Lets-Verify-Step-by-Step
 
-⭐ 119 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kyegomez/Lets-Verify-Step-by-Step) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 119 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kyegomez/Lets-Verify-Step-by-Step) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **OpenAI 过程监督论文的 PyTorch 实现，含 PRM 奖励模型**
 

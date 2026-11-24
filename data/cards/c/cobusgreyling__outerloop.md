@@ -1,6 +1,6 @@
 # cobusgreyling/outerloop
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/cobusgreyling/outerloop) · [官网](https://www.npmjs.com/package/@cobusgreyling/outerloop) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cobusgreyling/outerloop) · [官网](https://www.npmjs.com/package/@cobusgreyling/outerloop) · 个人维护
 
 **面向 agentic 工程的治理层：证据→裁决→可问责**
 

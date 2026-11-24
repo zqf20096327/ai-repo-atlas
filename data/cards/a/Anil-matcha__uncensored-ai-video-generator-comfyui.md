@@ -1,6 +1,6 @@
 # Anil-matcha/uncensored-ai-video-generator-comfyui
 
-⭐ 9 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Anil-matcha/uncensored-ai-video-generator-comfyui) · [官网](https://muapi.ai/ai-spicy-video-generator) · 组织维护
+⭐ 10 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Anil-matcha/uncensored-ai-video-generator-comfyui) · [官网](https://muapi.ai/ai-spicy-video-generator) · 组织维护
 
 **在 ComfyUI 中无 GPU 运行低过滤视频模型的 Muapi 节点使用指南**
 

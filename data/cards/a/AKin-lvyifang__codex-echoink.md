@@ -1,6 +1,6 @@
 # AKin-lvyifang/codex-echoink
 
-⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/AKin-lvyifang/codex-echoink) · [官网](https://echoink.cn) · 个人维护 · 中文 README
+⭐ 50 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/AKin-lvyifang/codex-echoink) · [官网](https://echoink.cn) · 个人维护 · 中文 README
 
 **Obsidian 插件：与笔记对话、整理知识并维护可编辑的长期记忆**
 

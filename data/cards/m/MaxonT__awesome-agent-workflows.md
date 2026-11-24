@@ -1,6 +1,6 @@
 # MaxonT/awesome-agent-workflows
 
-⭐ 40 · HTML · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/MaxonT/awesome-agent-workflows) · 个人维护 · 中文 README
+⭐ 40 · HTML · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/MaxonT/awesome-agent-workflows) · 个人维护 · 中文 README
 
 **按星标排名的 AI agent 框架与工作流项目清单（中英双语）**
 

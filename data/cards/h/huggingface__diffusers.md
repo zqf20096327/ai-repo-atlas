@@ -1,6 +1,6 @@
 # huggingface/diffusers
 
-⭐ 34,965 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/huggingface/diffusers) · [官网](https://huggingface.co/docs/diffusers) · 组织维护
+⭐ 34,968 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/diffusers) · [官网](https://huggingface.co/docs/diffusers) · 组织维护
 
 **为开发者提供 PyTorch 扩散模型的推理与训练工具库**
 

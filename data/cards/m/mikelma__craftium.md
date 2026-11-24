@@ -1,6 +1,6 @@
 # mikelma/craftium
 
-⭐ 216 · C++ · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/mikelma/craftium) · [官网](https://craftium.readthedocs.io/) · 组织维护
+⭐ 217 · C++ · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/mikelma/craftium) · [官网](https://craftium.readthedocs.io/) · 组织维护
 
 **为 AI 研究创建类 Minecraft 3D 单/多智能体环境的框架**
 

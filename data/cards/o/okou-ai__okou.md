@@ -1,6 +1,6 @@
 # okou-ai/okou
 
-⭐ 1,160 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/okou-ai/okou) · [官网](https://www.okou.ai) · 组织维护
+⭐ 1,161 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/okou-ai/okou) · [官网](https://www.okou.ai) · 组织维护
 
 **团队 AI 工作者：接入现有工具并代为执行跨部门任务**
 

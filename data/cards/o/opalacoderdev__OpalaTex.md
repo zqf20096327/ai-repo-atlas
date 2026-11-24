@@ -1,6 +1,6 @@
 # opalacoderdev/OpalaTex
 
-⭐ 24 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/opalacoderdev/OpalaTex) · [官网](https://opalacoder.com) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opalacoderdev/OpalaTex) · [官网](https://opalacoder.com) · 组织维护
 
 **带 AI 助手的本地 LaTeX 编辑器，支持本地编译与可选模型**
 

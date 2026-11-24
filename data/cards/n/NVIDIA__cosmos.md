@@ -1,6 +1,6 @@
 # NVIDIA/cosmos
 
-⭐ 12,432 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/NVIDIA/cosmos) · [官网](https://www.nvidia.com/en-us/ai/cosmos/) · 组织维护
+⭐ 12,440 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/NVIDIA/cosmos) · [官网](https://www.nvidia.com/en-us/ai/cosmos/) · 组织维护
 
 **面向机器人和自动驾驶开发者的世界模型与数据平台**
 

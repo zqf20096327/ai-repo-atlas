@@ -1,6 +1,6 @@
 # mjbommar/ai-law-finance-book
 
-⭐ 71 · TeX · 推送 2026-01-28 · [GitHub](https://github.com/mjbommar/ai-law-finance-book) · [官网](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6923898) · 个人维护
+⭐ 72 · TeX · 推送 2026-01-28 · [GitHub](https://github.com/mjbommar/ai-law-finance-book) · [官网](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6923898) · 个人维护
 
 **面向法律与金融从业者的 AI 开放教科书（撰写中草稿）**
 

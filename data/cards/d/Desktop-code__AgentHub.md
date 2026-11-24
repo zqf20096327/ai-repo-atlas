@@ -1,6 +1,6 @@
 # Desktop-code/AgentHub
 
-⭐ 6 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Desktop-code/AgentHub) · 个人维护 · 中文 README
+⭐ 7 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Desktop-code/AgentHub) · 个人维护 · 中文 README
 
 **给企业用的可独立部署 Agent 中台：配置编排、统一对话入口**
 

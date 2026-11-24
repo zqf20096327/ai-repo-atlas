@@ -1,6 +1,6 @@
 # AliyunContainerService/data-on-ack
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AliyunContainerService/data-on-ack) · [官网](https://aliyuncontainerservice.github.io/data-on-ack/) · 组织维护 · 中文 README
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AliyunContainerService/data-on-ack) · [官网](https://aliyuncontainerservice.github.io/data-on-ack/) · 组织维护 · 中文 README
 
 **面向 ML 工程师的阿里云 ACK 云原生 AI/ML 平台**
 

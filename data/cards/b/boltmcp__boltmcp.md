@@ -1,6 +1,6 @@
 # boltmcp/boltmcp
 
-⭐ 372 · HCL · 推送 2026-11-18 · [GitHub](https://github.com/boltmcp/boltmcp) · [官网](https://install.boltmcp.io) · 组织维护
+⭐ 372 · HCL · 推送 2026-11-23 · [GitHub](https://github.com/boltmcp/boltmcp) · [官网](https://install.boltmcp.io) · 组织维护
 
 **在 Kubernetes 上部署 BoltMCP 的安装工具，支持 Claude 引导安装**
 

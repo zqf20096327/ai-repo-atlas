@@ -1,6 +1,6 @@
 # zb614433612/CodeCraft
 
-⭐ 12 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zb614433612/CodeCraft) · 个人维护 · 中文 README
+⭐ 12 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zb614433612/CodeCraft) · 个人维护 · 中文 README
 
 **多 LLM 驱动的桌面/终端 AI 编程 Agent，自然语言完成开发任务**
 

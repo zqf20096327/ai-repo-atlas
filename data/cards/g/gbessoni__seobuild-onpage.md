@@ -1,6 +1,6 @@
 # gbessoni/seobuild-onpage
 
-⭐ 267 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/gbessoni/seobuild-onpage) · 个人维护
+⭐ 267 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gbessoni/seobuild-onpage) · 个人维护
 
 **面向 SEO/GEO 的页面生成 AI agent：一条命令产出可排名页面**
 

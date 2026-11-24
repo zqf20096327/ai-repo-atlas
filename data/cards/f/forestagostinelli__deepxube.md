@@ -1,6 +1,6 @@
 # forestagostinelli/deepxube
 
-⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/forestagostinelli/deepxube) · [官网](https://forestagostinelli.github.io/deepxube/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/forestagostinelli/deepxube) · [官网](https://forestagostinelli.github.io/deepxube/) · 个人维护
 
 **以领域无关方式学习启发式函数解决寻路问题的 RL 库**
 

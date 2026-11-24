@@ -1,6 +1,6 @@
 # gamedevpl/www.gamedev.pl
 
-⭐ 17 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/gamedevpl/www.gamedev.pl) · [官网](https://www.gamedev.pl) · 组织维护
+⭐ 17 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/gamedevpl/www.gamedev.pl) · [官网](https://www.gamedev.pl) · 组织维护
 
 **AI agent 构建浏览器游戏并发布目录的开放平台**
 

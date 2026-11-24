@@ -1,6 +1,6 @@
 # ymybxx/SoloMCN
 
-⭐ 77 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ymybxx/SoloMCN) · 个人维护 · 中文 README
+⭐ 78 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/ymybxx/SoloMCN) · 个人维护 · 中文 README
 
 **让 Claude Code 全程操刀短视频创作与多平台发布的工作台**
 

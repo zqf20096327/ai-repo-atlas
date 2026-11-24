@@ -1,6 +1,6 @@
 # harrytted/ai-agent-interview-playbook
 
-⭐ 34 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/harrytted/ai-agent-interview-playbook) · [官网](https://harrytted.github.io/ai-agent-interview-playbook/) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/harrytted/ai-agent-interview-playbook) · [官网](https://harrytted.github.io/ai-agent-interview-playbook/) · 个人维护 · 中文 README
 
 **AI Agent／大模型应用工程师中文学习与面试手册**
 

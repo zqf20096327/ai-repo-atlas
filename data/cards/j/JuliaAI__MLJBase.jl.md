@@ -1,6 +1,6 @@
 # JuliaAI/MLJBase.jl
 
-⭐ 164 · Julia · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JuliaAI/MLJBase.jl) · 组织维护
+⭐ 164 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JuliaAI/MLJBase.jl) · 组织维护
 
 **MLJ 机器学习框架的核心功能库，供开发者使用**
 

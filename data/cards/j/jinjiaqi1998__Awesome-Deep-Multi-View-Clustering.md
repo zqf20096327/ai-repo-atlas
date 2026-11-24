@@ -1,6 +1,6 @@
 # jinjiaqi1998/Awesome-Deep-Multi-View-Clustering
 
-⭐ 24 · 推送 2026-09-10 · [GitHub](https://github.com/jinjiaqi1998/Awesome-Deep-Multi-View-Clustering) · 个人维护 · 中文 README
+⭐ 25 · 推送 2026-09-10 · [GitHub](https://github.com/jinjiaqi1998/Awesome-Deep-Multi-View-Clustering) · 个人维护 · 中文 README
 
 **深度多视图聚类论文与代码的策展清单（面向科研人员）**
 

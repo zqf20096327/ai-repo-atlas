@@ -1,6 +1,6 @@
 # vllm-project/vllm-dashboard
 
-⭐ 21 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/vllm-project/vllm-dashboard) · [官网](https://vllm-ci-dashboard.vercel.app) · 组织维护
+⭐ 21 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/vllm-dashboard) · [官网](https://vllm-ci-dashboard.vercel.app) · 组织维护
 
 **观测 vLLM Buildkite CI 的 Next.js 仪表盘：构建、队列、成本与性能趋势**
 

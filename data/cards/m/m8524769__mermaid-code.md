@@ -1,6 +1,6 @@
 # m8524769/mermaid-code
 
-⭐ 19 · Svelte · MIT · 推送 2026-11-22 · [GitHub](https://github.com/m8524769/mermaid-code) · [官网](https://mermaid-code.com) · 个人维护 · 中文 README
+⭐ 20 · Svelte · MIT · 推送 2026-11-23 · [GitHub](https://github.com/m8524769/mermaid-code) · [官网](https://mermaid-code.com) · 个人维护 · 中文 README
 
 **本地优先的 Mermaid 图表编辑器，内置 AI Agent 面板与 MCP 服务器**
 

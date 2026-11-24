@@ -1,6 +1,6 @@
 # MicTx/spec-harness
 
-⭐ 316 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/MicTx/spec-harness) · 个人维护 · 中文 README
+⭐ 316 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MicTx/spec-harness) · 个人维护 · 中文 README
 
 **面向 AI 编程智能体的任务包工作流工具，含 Git 门禁与验证链**
 

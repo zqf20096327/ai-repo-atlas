@@ -1,6 +1,6 @@
 # comsky/remy-skill-recipes
 
-⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/comsky/remy-skill-recipes) · [官网](https://skills.sh/comsky/remy-skill-recipes) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/comsky/remy-skill-recipes) · [官网](https://skills.sh/comsky/remy-skill-recipes) · 个人维护
 
 **面向软件工程的 SKILL.md 技能配方集：12 个结构化 LLM 工作流**
 

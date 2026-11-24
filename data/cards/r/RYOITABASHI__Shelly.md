@@ -1,6 +1,6 @@
 # RYOITABASHI/Shelly
 
-⭐ 75 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/RYOITABASHI/Shelly) · [官网](https://ryoitabashi.github.io/) · 个人维护
+⭐ 76 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RYOITABASHI/Shelly) · [官网](https://ryoitabashi.github.io/) · 个人维护
 
 **Android 手机上的 AI 终端 IDE 与无人值守 agent 运行时**
 

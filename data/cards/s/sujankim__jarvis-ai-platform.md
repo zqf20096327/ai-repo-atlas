@@ -1,6 +1,6 @@
 # sujankim/jarvis-ai-platform
 
-⭐ 19 · Java · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/sujankim/jarvis-ai-platform) · 个人维护
+⭐ 19 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sujankim/jarvis-ai-platform) · 个人维护
 
 **本地优先的开源 AI 助手平台，数据不离开本机**
 

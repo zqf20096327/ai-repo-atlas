@@ -1,6 +1,6 @@
 # browser-use/browser-harness
 
-⭐ 19,195 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
+⭐ 19,216 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/browser-use/browser-harness) · [官网](https://browser-harness.com) · 组织维护
 
 **让编码 Agent 接管你已登录的真实 Chrome 浏览器**
 

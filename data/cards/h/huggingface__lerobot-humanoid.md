@@ -1,6 +1,6 @@
 # huggingface/lerobot-humanoid
 
-⭐ 275 · 推送 2026-08-10 · [GitHub](https://github.com/huggingface/lerobot-humanoid) · 个人维护
+⭐ 277 · 推送 2026-08-10 · [GitHub](https://github.com/huggingface/lerobot-humanoid) · 个人维护
 
 **低成本开源人形机器人全流程工作区：设计到部署**
 

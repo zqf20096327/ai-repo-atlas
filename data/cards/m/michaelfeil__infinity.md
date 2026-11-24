@@ -1,6 +1,6 @@
 # michaelfeil/infinity
 
-⭐ 2,989 · C++ · MIT · 推送 2026-11-12 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
+⭐ 2,991 · C++ · MIT · 推送 2026-11-12 · [GitHub](https://github.com/michaelfeil/infinity) · [官网](https://michaelfeil.github.io/infinity/) · 个人维护
 
 **给开发者的 embedding/rerank 模型 REST 推理服务引擎**
 

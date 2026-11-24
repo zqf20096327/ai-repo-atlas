@@ -1,6 +1,6 @@
 # miaixzo/bus
 
-⭐ 803 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/miaixzo/bus) · [官网](https://miaixz.org) · 个人维护 · 中文 README
+⭐ 803 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/miaixzo/bus) · [官网](https://miaixz.org) · 个人维护 · 中文 README
 
 **给 Java 开发者的轻量级企业应用/服务框架与中间件套件**
 

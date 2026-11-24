@@ -1,6 +1,6 @@
 # Jamie-Cui/magent
 
-⭐ 46 · Emacs Lisp · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Jamie-Cui/magent) · [官网](https://jamie-cui.github.io/magent/) · 个人维护
+⭐ 47 · Emacs Lisp · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Jamie-Cui/magent) · [官网](https://jamie-cui.github.io/magent/) · 个人维护
 
 **Emacs Lisp 编写的多智能体 AI 编程助手**
 

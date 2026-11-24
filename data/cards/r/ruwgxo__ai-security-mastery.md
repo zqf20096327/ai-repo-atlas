@@ -1,6 +1,6 @@
 # ruwgxo/ai-security-mastery
 
-⭐ 12 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ruwgxo/ai-security-mastery) · 个人维护
+⭐ 12 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ruwgxo/ai-security-mastery) · 个人维护
 
 **面向安全从业者的 90 天 AI 安全实战教程（开源书）**
 

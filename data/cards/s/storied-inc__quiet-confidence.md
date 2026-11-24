@@ -1,6 +1,6 @@
 # storied-inc/quiet-confidence
 
-⭐ 11 · CC-BY-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/storied-inc/quiet-confidence) · [官网](https://www.storiedinc.com/storied-ai) · 组织维护
+⭐ 12 · CC-BY-4.0 · 推送 2026-10-15 · [GitHub](https://github.com/storied-inc/quiet-confidence) · [官网](https://www.storiedinc.com/storied-ai) · 组织维护
 
 **高风险沟通的语气重写系统：以资本配置者口吻改写职场文书**
 

@@ -1,6 +1,6 @@
 # redis-developer/langgraph-redis
 
-⭐ 244 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/redis-developer/langgraph-redis) · [官网](http://redis-developer.github.io/langgraph-redis/) · 组织维护
+⭐ 244 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/redis-developer/langgraph-redis) · [官网](http://redis-developer.github.io/langgraph-redis/) · 组织维护
 
 **LangGraph 的 Redis 检查点存储与中间件库，供开发者持久化 agent 状态**
 

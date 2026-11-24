@@ -1,6 +1,6 @@
 # division-sh/swarm
 
-⭐ 25 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/division-sh/swarm) · [官网](https://www.division.sh) · 组织维护
+⭐ 25 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/division-sh/swarm) · [官网](https://www.division.sh) · 组织维护
 
 **以确定性引擎运行多 LLM Agent 编排的自托管框架**
 

@@ -1,6 +1,6 @@
 # Gusion1017/WeChat-ChatBot-Mac
 
-⭐ 7 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Gusion1017/WeChat-ChatBot-Mac) · [官网](https://github.com/Gusion1017/WeChat-ChatBot-Mac/releases/latest) · 个人维护 · 中文 README
+⭐ 8 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Gusion1017/WeChat-ChatBot-Mac) · [官网](https://github.com/Gusion1017/WeChat-ChatBot-Mac/releases/latest) · 个人维护 · 中文 README
 
 **给 macOS 微信用户的本地 AI 聊天机器人：接入大模型自动回复**
 

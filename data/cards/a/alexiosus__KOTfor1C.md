@@ -1,6 +1,6 @@
 # alexiosus/KOTfor1C
 
-⭐ 48 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/alexiosus/KOTfor1C) · [官网](https://marketplace.visualstudio.com/items?itemName=AlexeyEremeev.kot-test-toolkit) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alexiosus/KOTfor1C) · [官网](https://marketplace.visualstudio.com/items?itemName=AlexeyEremeev.kot-test-toolkit) · 个人维护
 
 **1C 自动化测试的 VS Code 扩展，含 AI 辅助功能**
 

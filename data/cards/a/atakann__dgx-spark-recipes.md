@@ -1,6 +1,6 @@
 # atakann/dgx-spark-recipes
 
-⭐ 25 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/atakann/dgx-spark-recipes) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/atakann/dgx-spark-recipes) · 个人维护
 
 **NVIDIA DGX Spark 实测运行配方集：LLM/图像/视频/语音/视觉任务**
 

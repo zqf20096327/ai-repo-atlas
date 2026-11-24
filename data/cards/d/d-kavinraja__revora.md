@@ -1,6 +1,6 @@
 # d-kavinraja/revora
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/d-kavinraja/revora) · [官网](https://revora-pr.vercel.app/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/d-kavinraja/revora) · [官网](https://revora-pr.vercel.app/) · 个人维护
 
 **自托管 AI 代码审查平台：PR 时先建全仓索引再产出审查意见**
 

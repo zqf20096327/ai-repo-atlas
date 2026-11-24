@@ -1,6 +1,6 @@
 # dichiara19/ai-meter
 
-⭐ 5 · C# · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/dichiara19/ai-meter) · 个人维护
+⭐ 5 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dichiara19/ai-meter) · 个人维护
 
 **在 Windows 11 任务栏显示各 AI 服务用量与限额的监控工具**
 

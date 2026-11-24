@@ -1,6 +1,6 @@
 # jeremylongshore/cad-ai-agent
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jeremylongshore/cad-ai-agent) · 个人维护
+⭐ 57 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jeremylongshore/cad-ai-agent) · 个人维护
 
 **面向 AEC 专业人员的 DXF/PDF 图纸自然语言编辑与审查平台**
 

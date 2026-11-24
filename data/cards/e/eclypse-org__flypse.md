@@ -1,6 +1,6 @@
 # eclypse-org/flypse
 
-⭐ 26 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/eclypse-org/flypse) · [官网](https://flypse.readthedocs.io) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eclypse-org/flypse) · [官网](https://flypse.readthedocs.io) · 组织维护
 
 **在云-边连续体上实验联邦学习的 Python 库**
 

@@ -1,6 +1,6 @@
 # skaggsxyz/moltstream
 
-⭐ 64 · TypeScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/skaggsxyz/moltstream) · [官网](https://moltstream.app) · 个人维护
+⭐ 65 · TypeScript · MIT · 推送 2026-04-09 · [GitHub](https://github.com/skaggsxyz/moltstream) · [官网](https://moltstream.app) · 个人维护
 
 **在 Kick 上部署自主 AI 虚拟主播的流媒体运行时**
 

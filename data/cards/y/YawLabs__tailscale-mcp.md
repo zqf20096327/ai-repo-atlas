@@ -1,6 +1,6 @@
 # YawLabs/tailscale-mcp
 
-⭐ 38 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/YawLabs/tailscale-mcp) · [官网](https://yaw.sh/mcp-servers/tailscale-mcp/) · 组织维护
+⭐ 39 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/YawLabs/tailscale-mcp) · [官网](https://yaw.sh/mcp-servers/tailscale-mcp/) · 组织维护
 
 **让 AI 助手通过 MCP 管理 Tailscale tailnet 的服务器**
 

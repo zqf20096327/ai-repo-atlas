@@ -1,6 +1,6 @@
 # traceroost/core
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/traceroost/core) · [官网](https://marketplace.visualstudio.com/items?itemName=agentlens.agentlens-dashboard) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/traceroost/core) · [官网](https://marketplace.visualstudio.com/items?itemName=agentlens.agentlens-dashboard) · 组织维护
 
 **本地化 agentic AI 编码工具监控：追踪、成本与效率分析**
 

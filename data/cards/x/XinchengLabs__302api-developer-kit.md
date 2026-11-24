@@ -1,6 +1,6 @@
 # XinchengLabs/302api-developer-kit
 
-⭐ 111 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/XinchengLabs/302api-developer-kit) · [官网](https://302api.com) · 组织维护 · 中文 README
+⭐ 111 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/XinchengLabs/302api-developer-kit) · [官网](https://302api.com) · 组织维护 · 中文 README
 
 **302API 接入工具包：示例、客户端配置与账单验算器**
 

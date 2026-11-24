@@ -1,6 +1,6 @@
 # sacktock/MASA-Safe-RL
 
-⭐ 16 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sacktock/MASA-Safe-RL) · [官网](https://sacktock.github.io/MASA-Safe-RL/) · 组织维护
+⭐ 16 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sacktock/MASA-Safe-RL) · [官网](https://sacktock.github.io/MASA-Safe-RL/) · 组织维护
 
 **安全强化学习研究库：统一约束与环境接口**
 

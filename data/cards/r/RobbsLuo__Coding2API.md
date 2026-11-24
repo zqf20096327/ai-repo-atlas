@@ -1,6 +1,6 @@
 # RobbsLuo/Coding2API
 
-⭐ 48 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/RobbsLuo/Coding2API) · [官网](https://github.com/RobbsLuo/Coding2API/pkgs/container/coding2api) · 个人维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/RobbsLuo/Coding2API) · [官网](https://github.com/RobbsLuo/Coding2API/pkgs/container/coding2api) · 个人维护 · 中文 README
 
 **把八个编程助手上游封装为 OpenAI 兼容 API 的网关**
 

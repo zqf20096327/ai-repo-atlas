@@ -1,6 +1,6 @@
 # adrienbrault/qwen3.8-27b-rtx5090
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/adrienbrault/qwen3.8-27b-rtx5090) · 个人维护
+⭐ 28 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/adrienbrault/qwen3.8-27b-rtx5090) · 个人维护
 
 **在 2×RTX 5090 上服务 Qwen3.8-27B 的配置与测量记录**
 

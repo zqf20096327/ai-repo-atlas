@@ -1,6 +1,6 @@
 # jan3dev/a1echos
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/jan3dev/a1echos) · [官网](https://www.a1lab.com/echos) · 组织维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jan3dev/a1echos) · [官网](https://www.a1lab.com/echos) · 组织维护 · 中文 README
 
 **端侧 AI 语音记录与转录应用**
 

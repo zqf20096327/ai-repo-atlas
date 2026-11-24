@@ -1,6 +1,6 @@
 # KitionAI/kition
 
-⭐ 686 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/KitionAI/kition) · [官网](https://kition.ai) · 组织维护 · 中文 README
+⭐ 691 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/KitionAI/kition) · [官网](https://kition.ai) · 组织维护 · 中文 README
 
 **AI agent 可共同编辑文件的桌面创作办公套件**
 

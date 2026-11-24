@@ -1,6 +1,6 @@
 # nobrainer-tech/langflow-mcp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nobrainer-tech/langflow-mcp) · [官网](https://nobrainer.tech/langflow-mcp/) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nobrainer-tech/langflow-mcp) · [官网](https://nobrainer.tech/langflow-mcp/) · 个人维护
 
 **让 AI 助手通过 MCP 管理 Langflow 的服务器**
 

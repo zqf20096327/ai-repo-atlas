@@ -1,10 +1,10 @@
 # valqore/valqore
 
-⭐ 1,568 · Python · NOASSERTION · 推送 2026-09-05 · [GitHub](https://github.com/valqore/valqore) · [官网](https://www.valqore.io) · 组织维护
+⭐ 1,568 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/valqore/valqore) · [官网](https://www.valqore.io) · 组织维护
 
-**面向 Kubernetes 与云资源的基础设施治理引擎，输出评分与准入裁决**
+**扫描 K8s/Terraform/云资源的基础设施治理引擎，输出评分与放行/拦截裁决**
 
-扫描 Kubernetes 清单、Terraform 配置与云资源，按 1,431 条内置规则（覆盖安全、成本、碳排、合规、AI 治理，组织为 19 个合规包）输出 0-100 评分与 PASS/PASS_WITH_MONITORING/BLOCK 裁决。提供 agent-audit（对 AI agent 舰队按五维评分）、agent-gate（拦截 agent 变更）、ai-gate（AI 工作负载上线门禁）、FinOps 成本门与 GreenOps 碳排追踪等命令。面向平台工程与合规团队，以 Docker 镜像、Helm chart、VS Code/Freelens 扩展及 MCP 接口提供；确定性核心免费，AI 功能（离线模型、聊天）需许可的付费镜像，代码不开源（镜像为编译后的原生代码）。
+基础设施治理引擎：扫描 Kubernetes 清单、Terraform 配置与云资源，按 1,431 条内置规则与 19 个合规包返回 0-100 评分和 PASS/BLOCK 裁决，覆盖安全、成本（FinOps）、碳排（GreenOps）、合规与 AI 治理。核心确定性引擎免密钥免费运行，仅需 Docker；AI 扫描、自然语言对话等功能需授权的独立镜像，内嵌离线模型。提供五种运行面：CLI/Docker、Helm 安装的 K8s 准入控制、VS Code 与 Freelens 扩展、以及 137 个治理工具的 MCP 接口。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 1,431 条内置规则、19 个合规包（含 EU AI Act、OWASP Agentic、HIPAA 等）
-- agent-audit/agent-gate：AI agent 舰队治理评分与变更拦截，可导出 OSCAL 审计证据
-- K8s 原生准入控制：8 个 ValidatingAdmissionPolicy 由 API server 执行，引擎不在数据路径
-- GreenOps 碳排追踪：77 个云区域的电网碳强度数据
+- 1,431 条规则、19 个合规包（含 EU AI Act、OWASP Agentic、HIPAA、SOC2 等）
+- K8s 原生 8 个 ValidatingAdmissionPolicy 准入控制，引擎不在数据路径上
+- agent-audit/agent-gate 对 AI agent 治理姿态打分并拦截变更，可导出 OSCAL
+- GreenOps：77 个云区域电网碳强度数据、CO2e 估算与碳预算
 
 ## 适用场景
 
-- 在 CI/PR 中对清单与 Terraform 做安全和成本门禁
-- 审计集群中运行的 AI agent 的治理状况
-- 生成 HIPAA/SOC2/EU AI Act 等合规证据包
-- 按碳预算与成本增量门禁管理云支出
+- CI 流水线中对部署清单做安全/成本/合规门禁
+- K8s 集群准入时拦截不合规的 AI agent 工作负载
+- PR 阶段阻止超出预算基线的基础设施变更
+- 为审计准备 HIPAA/ISO 等合规证据包
 
 ## 场景标签
 
- · 领域:云基础设施治理/DevOps
+ · 领域:DevOps/云基础设施治理
 
 ## 证据(README 行号)
 
 > L11: Valqore is an infrastructure governance engine that scans Kubernetes manifests, Terraform configurations, and cloud
 > L84: - **AI Scan** — one command runs evaluate + drift detection + AI-powered explanation. The AI image includes a fine-
-> L92: deterministic core — it's free and runs tokenless. The public image is **compiled** (native
+> L98: |`ghcr.io/valqore/engine:latest`|**Free, public, tokenless**|All 1,431 rules, scoring, drift, billing, compliance, 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6458f3292729` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `cacda50ade1e` · [字段定义](../../DATASET.md)*

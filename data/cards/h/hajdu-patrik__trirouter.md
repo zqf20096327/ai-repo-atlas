@@ -1,6 +1,6 @@
 # hajdu-patrik/trirouter
 
-⭐ 84 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/hajdu-patrik/trirouter) · 个人维护
+⭐ 88 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/hajdu-patrik/trirouter) · 个人维护
 
 **多 agent 编码工具的提示路由与编排系统**
 

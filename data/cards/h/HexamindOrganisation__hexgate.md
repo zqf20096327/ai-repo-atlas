@@ -1,6 +1,6 @@
 # HexamindOrganisation/hexgate
 
-⭐ 25 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HexamindOrganisation/hexgate) · [官网](https://hexgate.ai) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HexamindOrganisation/hexgate) · [官网](https://hexgate.ai) · 组织维护
 
 **AI agent 工具调用的运行时授权与审计 SDK**
 

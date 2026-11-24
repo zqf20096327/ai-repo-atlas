@@ -1,6 +1,6 @@
 # Joshua-Ludolf/rasptorch
 
-⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Joshua-Ludolf/rasptorch) · [官网](https://rasptorch.streamlit.app/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Joshua-Ludolf/rasptorch) · [官网](https://rasptorch.streamlit.app/) · 个人维护
 
 **在树莓派等受限硬件上通过 Vulkan GPU 运行神经网络的 PyTorch 风格库**
 

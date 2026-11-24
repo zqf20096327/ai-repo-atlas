@@ -1,6 +1,6 @@
 # Li-Evan/BloomTutor
 
-⭐ 327 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Li-Evan/BloomTutor) · [官网](https://bloomtutor.app/) · 个人维护 · 中文 README
+⭐ 329 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Li-Evan/BloomTutor) · [官网](https://bloomtutor.app/) · 个人维护 · 中文 README
 
 **自托管 AI 家教：按个人理解水平生成与调整课程**
 

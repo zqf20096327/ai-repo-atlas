@@ -1,6 +1,6 @@
 # cporter202/API-mega-list
 
-⭐ 8,417 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/cporter202/API-mega-list) · 个人维护
+⭐ 8,423 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/cporter202/API-mega-list) · 个人维护
 
 **开发者用的 API 聚合目录：11,860 个 API 按 24 类组织**
 

@@ -1,6 +1,6 @@
 # k8ssandra/k8ssandra-operator
 
-⭐ 244 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/k8ssandra/k8ssandra-operator) · [官网](https://k8ssandra.io/) · 组织维护
+⭐ 244 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/k8ssandra/k8ssandra-operator) · [官网](https://k8ssandra.io/) · 组织维护
 
 **在 Kubernetes 上部署管理多集群 Apache Cassandra/DSE 的 Operator**
 

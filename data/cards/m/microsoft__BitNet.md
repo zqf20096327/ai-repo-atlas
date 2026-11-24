@@ -1,6 +1,6 @@
 # microsoft/BitNet
 
-⭐ 42,420 · C++ · MIT · 推送 2026-07-27 · [GitHub](https://github.com/microsoft/BitNet) · 组织维护
+⭐ 42,448 · C++ · MIT · 推送 2026-07-27 · [GitHub](https://github.com/microsoft/BitNet) · 组织维护
 
 **1-bit 大模型的官方 CPU/GPU 推理框架**
 

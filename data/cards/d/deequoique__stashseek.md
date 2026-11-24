@@ -1,6 +1,6 @@
 # deequoique/stashseek
 
-⭐ 77 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/deequoique/stashseek) · [官网](https://notebookai.deequoique.tech) · 个人维护 · 中文 README
+⭐ 80 · Python · AGPL-3.0 · 推送 2026-10-21 · [GitHub](https://github.com/deequoique/stashseek) · [官网](https://notebookai.deequoique.tech) · 个人维护 · 中文 README
 
 **与收藏视频对话的自托管应用：答案带时间戳可回溯原视频**
 

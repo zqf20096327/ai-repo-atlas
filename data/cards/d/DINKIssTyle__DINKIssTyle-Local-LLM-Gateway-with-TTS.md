@@ -1,6 +1,6 @@
 # DINKIssTyle/DINKIssTyle-Local-LLM-Gateway-with-TTS
 
-⭐ 14 · Go · 推送 2026-11-22 · [GitHub](https://github.com/DINKIssTyle/DINKIssTyle-Local-LLM-Gateway-with-TTS) · 个人维护 · 中文 README
+⭐ 14 · Go · 推送 2026-11-24 · [GitHub](https://github.com/DINKIssTyle/DINKIssTyle-Local-LLM-Gateway-with-TTS) · 个人维护 · 中文 README
 
 **本地 LLM 聊天服务器：整合多模型供应商与 Supertonic TTS**
 

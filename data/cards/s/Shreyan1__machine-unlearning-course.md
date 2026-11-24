@@ -1,6 +1,6 @@
 # Shreyan1/machine-unlearning-course
 
-⭐ 4 · Jupyter Notebook · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/Shreyan1/machine-unlearning-course) · [官网](machine-unlearning.shreyanbasuray.com) · 个人维护
+⭐ 5 · Jupyter Notebook · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/Shreyan1/machine-unlearning-course) · [官网](machine-unlearning.shreyanbasuray.com) · 个人维护
 
 **机器遗忘实践课程：让 ML 模型与 LLM 遗忘数据并给出证明**
 

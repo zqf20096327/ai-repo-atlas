@@ -1,6 +1,6 @@
 # modelstudioai/skills
 
-⭐ 60 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/modelstudioai/skills) · [官网](https://modelstudioai.github.io/skills/) · 组织维护 · 中文 README
+⭐ 60 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelstudioai/skills) · [官网](https://modelstudioai.github.io/skills/) · 组织维护 · 中文 README
 
 **阿里云百炼官方 Agent Skills 技能仓库与策展索引**
 

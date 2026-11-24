@@ -1,6 +1,6 @@
 # RustingStudio/RustingStrata
 
-⭐ 360 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/RustingStudio/RustingStrata) · 个人维护
+⭐ 395 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/RustingStudio/RustingStrata) · 个人维护
 
 **纯 Rust 的 Qwen GGUF 模型推理引擎，支持 CPU+GPU 混合专家**
 

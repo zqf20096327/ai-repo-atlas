@@ -1,6 +1,6 @@
 # agent-labs-dev/fastbrowse
 
-⭐ 232 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/agent-labs-dev/fastbrowse) · 组织维护
+⭐ 234 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/agent-labs-dev/fastbrowse) · 组织维护
 
 **浏览器 Agent：选择模型 Jev 逐步操作页面，LLM 规划并输出带引文引用的回答**
 

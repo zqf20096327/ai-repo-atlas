@@ -1,6 +1,6 @@
 # microsoft/Build26-LAB501-from-zero-to-deployed-on-azure-with-ai-agents
 
-⭐ 56 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/microsoft/Build26-LAB501-from-zero-to-deployed-on-azure-with-ai-agents) · 组织维护
+⭐ 57 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/microsoft/Build26-LAB501-from-zero-to-deployed-on-azure-with-ai-agents) · 组织维护
 
 **Microsoft Build 2026 实验：用 Copilot CLI 与 Azure Skills 部署应用**
 

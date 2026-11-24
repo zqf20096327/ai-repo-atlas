@@ -1,6 +1,6 @@
 # embedded-society/altium-designer-mcp
 
-⭐ 96 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/embedded-society/altium-designer-mcp) · [官网](https://github.com/embedded-society/altium-designer-mcp) · 组织维护
+⭐ 97 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/embedded-society/altium-designer-mcp) · [官网](https://github.com/embedded-society/altium-designer-mcp) · 组织维护
 
 **让 AI 助手读写 Altium 元件库文件的 MCP 服务器**
 

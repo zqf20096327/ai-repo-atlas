@@ -1,6 +1,6 @@
 # tickernelz/opencode-mem
 
-⭐ 1,884 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tickernelz/opencode-mem) · [官网](https://opencode-mem.zhafron.my.id) · 个人维护
+⭐ 1,885 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tickernelz/opencode-mem) · [官网](https://opencode-mem.zhafron.my.id) · 个人维护
 
 **为 OpenCode 编码 agent 提供跨会话持久记忆的插件**
 

@@ -1,6 +1,6 @@
 # neuml/txtai.js
 
-⭐ 159 · JavaScript · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/neuml/txtai.js) · 组织维护
+⭐ 159 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neuml/txtai.js) · 组织维护
 
 **txtai 的 JavaScript 客户端：连接 txtai API 实例**
 

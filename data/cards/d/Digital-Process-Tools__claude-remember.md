@@ -1,6 +1,6 @@
 # Digital-Process-Tools/claude-remember
 
-⭐ 215 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Digital-Process-Tools/claude-remember) · 组织维护
+⭐ 215 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Digital-Process-Tools/claude-remember) · 组织维护
 
 **为 Claude Code 等 CLI 编码代理提供跨会话持久记忆的插件**
 

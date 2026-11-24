@@ -1,6 +1,6 @@
 # fboucher/NoteBookmark
 
-⭐ 13 · C# · 推送 2026-11-15 · [GitHub](https://github.com/fboucher/NoteBookmark) · 个人维护
+⭐ 13 · C# · 推送 2026-11-23 · [GitHub](https://github.com/fboucher/NoteBookmark) · 个人维护
 
 **个人阅读笔记管理与周汇总生成的 Web 应用**
 

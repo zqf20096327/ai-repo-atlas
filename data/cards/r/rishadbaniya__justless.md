@@ -1,6 +1,6 @@
 # rishadbaniya/justless
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rishadbaniya/justless) · 个人维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rishadbaniya/justless) · 个人维护
 
 **为编码 agent 压缩工具输出与代码上下文的本地 CLI**
 

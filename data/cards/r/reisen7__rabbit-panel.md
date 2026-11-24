@@ -1,6 +1,6 @@
 # reisen7/rabbit-panel
 
-⭐ 14 · Go · MIT · 推送 2026-11-06 · [GitHub](https://github.com/reisen7/rabbit-panel) · [官网](https://reisen7.xyz/rabbit-panel/) · 个人维护 · 中文 README
+⭐ 14 · Vue · MIT · 推送 2026-11-23 · [GitHub](https://github.com/reisen7/rabbit-panel) · [官网](https://reisen7.xyz/rabbit-panel/) · 个人维护 · 中文 README
 
 **面向 Linux 服务器的轻量 Docker 运维面板，附 AI 助手**
 

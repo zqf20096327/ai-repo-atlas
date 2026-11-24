@@ -1,6 +1,6 @@
 # nylas/cli
 
-⭐ 84 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nylas/cli) · [官网](https://cli.nylas.com/) · 组织维护
+⭐ 84 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nylas/cli) · [官网](https://cli.nylas.com/) · 组织维护
 
 **Nylas 官方 CLI：终端统一管理邮件、日历、联系人**
 

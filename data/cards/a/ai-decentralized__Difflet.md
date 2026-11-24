@@ -1,6 +1,6 @@
 # ai-decentralized/Difflet
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ai-decentralized/Difflet) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ai-decentralized/Difflet) · 个人维护
 
 **面向多加速器的扩散 Transformer 推理运行时（CLI/API/服务器）**
 

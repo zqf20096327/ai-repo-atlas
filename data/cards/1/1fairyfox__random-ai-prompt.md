@@ -1,6 +1,6 @@
 # 1fairyfox/random-ai-prompt
 
-⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/1fairyfox/random-ai-prompt) · [官网](https://prompt.fairyfox.io) · 个人维护
+⭐ 12 · JavaScript · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/1fairyfox/random-ai-prompt) · [官网](https://prompt.fairyfox.io) · 个人维护
 
 **AI 图像/文本提示词生成器：积木式组合扩展成完整提示词**
 

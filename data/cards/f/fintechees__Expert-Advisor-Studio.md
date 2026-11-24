@@ -1,6 +1,6 @@
 # fintechees/Expert-Advisor-Studio
 
-⭐ 365 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/fintechees/Expert-Advisor-Studio) · [官网](https://www.fintechee.com/web-trader/) · 组织维护 · 中文 README
+⭐ 367 · JavaScript · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/fintechees/Expert-Advisor-Studio) · [官网](https://www.fintechee.com/web-trader/) · 组织维护 · 中文 README
 
 **浏览器端外汇/加密 EA（交易机器人）开发与自动交易平台**
 

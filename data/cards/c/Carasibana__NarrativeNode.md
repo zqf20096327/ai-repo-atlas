@@ -1,6 +1,6 @@
 # Carasibana/NarrativeNode
 
-⭐ 17 · JavaScript · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/Carasibana/NarrativeNode) · [官网](https://carasibana.github.io/NarrativeNode/) · 个人维护
+⭐ 18 · JavaScript · NOASSERTION · 推送 2026-07-09 · [GitHub](https://github.com/Carasibana/NarrativeNode) · [官网](https://carasibana.github.io/NarrativeNode/) · 个人维护
 
 **面向写作者的节点式剧情可视化规划工具，AI 集成完全可选**
 

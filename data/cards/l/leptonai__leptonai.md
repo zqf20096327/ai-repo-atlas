@@ -1,6 +1,6 @@
 # leptonai/leptonai
 
-⭐ 2,826 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/leptonai/leptonai) · [官网](https://lepton.ai/) · 组织维护
+⭐ 2,826 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/leptonai/leptonai) · [官网](https://lepton.ai/) · 组织维护
 
 **NVIDIA DGX Cloud Lepton 平台的 Python 库与 lep CLI**
 

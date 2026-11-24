@@ -1,6 +1,6 @@
 # JosssphZhou/poki
 
-⭐ 1,830 · Swift · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/JosssphZhou/poki) · [官网](https://poki.bot) · 个人维护 · 中文 README
+⭐ 1,889 · Swift · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/JosssphZhou/poki) · [官网](https://poki.bot) · 个人维护 · 中文 README
 
 **在 iPhone 上运行的开源手机操作 agent 应用**
 

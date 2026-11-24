@@ -1,6 +1,6 @@
 # larashero3-dotcom/writing-dna-skill
 
-⭐ 3,264 · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/larashero3-dotcom/writing-dna-skill) · [官网](https://lieflat.work/skills/writing-dna/) · 个人维护
+⭐ 3,278 · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/larashero3-dotcom/writing-dna-skill) · [官网](https://lieflat.work/skills/writing-dna/) · 个人维护
 
 **给内容创作者：蒸馏复刻任意作者写作风格的 agent skill**
 

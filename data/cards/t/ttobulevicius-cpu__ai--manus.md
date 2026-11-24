@@ -1,6 +1,6 @@
 # ttobulevicius-cpu/ai--manus
 
-⭐ 182 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ttobulevicius-cpu/ai--manus) · 个人维护
+⭐ 178 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ttobulevicius-cpu/ai--manus) · 个人维护
 
 **面向日常任务的自主 AI 代理：自行执行代码与控制浏览器**
 

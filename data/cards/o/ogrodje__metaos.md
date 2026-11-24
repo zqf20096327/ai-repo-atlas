@@ -1,6 +1,6 @@
 # ogrodje/metaos
 
-⭐ 5 · Kotlin · 推送 2026-11-22 · [GitHub](https://github.com/ogrodje/metaos) · [官网](https://ogrodje.si) · 组织维护
+⭐ 5 · Kotlin · 推送 2026-11-23 · [GitHub](https://github.com/ogrodje/metaos) · [官网](https://ogrodje.si) · 组织维护
 
 **为 Ogrodje 媒体组织提供代理化运营管理框架**
 

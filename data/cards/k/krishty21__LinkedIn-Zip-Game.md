@@ -1,6 +1,6 @@
 # krishty21/LinkedIn-Zip-Game
 
-⭐ 27 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/krishty21/LinkedIn-Zip-Game) · 个人维护
+⭐ 28 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/krishty21/LinkedIn-Zip-Game) · 个人维护
 
 **AI 自动求解 LinkedIn Zip 拼图游戏并代为操作浏览器**
 

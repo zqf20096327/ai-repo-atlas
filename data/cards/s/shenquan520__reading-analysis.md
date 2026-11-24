@@ -1,6 +1,6 @@
 # shenquan520/reading-analysis
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/shenquan520/reading-analysis) · 个人维护 · 中文 README
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/shenquan520/reading-analysis) · 个人维护 · 中文 README
 
 **英语考试阅读题的 AI 分析方法卡体系，供 AI 读取执行**
 

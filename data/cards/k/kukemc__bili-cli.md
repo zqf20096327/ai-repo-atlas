@@ -1,6 +1,6 @@
 # kukemc/bili-cli
 
-⭐ 412 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/kukemc/bili-cli) · 个人维护 · 中文 README
+⭐ 414 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kukemc/bili-cli) · 个人维护 · 中文 README
 
 **给 AI Agent 用的哔哩哔哩命令行工具，JSON 输出全套账号操作**
 

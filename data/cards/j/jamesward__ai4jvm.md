@@ -1,6 +1,6 @@
 # jamesward/ai4jvm
 
-⭐ 42 · HTML · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/jamesward/ai4jvm) · [官网](https://ai4jvm.com/) · 个人维护
+⭐ 42 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/jamesward/ai4jvm) · [官网](https://ai4jvm.com/) · 个人维护
 
 **Java/Kotlin AI 生态资源策展指南**
 

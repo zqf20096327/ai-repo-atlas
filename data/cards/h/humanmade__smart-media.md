@@ -1,6 +1,6 @@
 # humanmade/smart-media
 
-⭐ 88 · PHP · 推送 2026-10-30 · [GitHub](https://github.com/humanmade/smart-media) · 组织维护
+⭐ 89 · PHP · 推送 2026-10-30 · [GitHub](https://github.com/humanmade/smart-media) · 组织维护
 
 **WordPress 媒体库增强插件：改进图片浏览与裁剪编辑体验**
 

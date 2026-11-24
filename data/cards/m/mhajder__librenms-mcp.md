@@ -1,6 +1,6 @@
 # mhajder/librenms-mcp
 
-⭐ 44 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mhajder/librenms-mcp) · [官网](https://pypi.org/project/librenms-mcp/) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mhajder/librenms-mcp) · [官网](https://pypi.org/project/librenms-mcp/) · 个人维护
 
 **让 AI agent 通过 MCP 查询和管理 LibreNMS 网络监控的服务器**
 

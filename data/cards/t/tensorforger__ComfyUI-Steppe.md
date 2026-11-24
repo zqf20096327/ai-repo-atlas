@@ -1,6 +1,6 @@
 # tensorforger/ComfyUI-Steppe
 
-⭐ 9 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tensorforger/ComfyUI-Steppe) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tensorforger/ComfyUI-Steppe) · 组织维护
 
 **ComfyUI 潜空间生成式放大节点：图像视频 2×/4× 上采样与 2× 帧率**
 

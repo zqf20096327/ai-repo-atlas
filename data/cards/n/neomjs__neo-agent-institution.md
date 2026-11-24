@@ -1,6 +1,6 @@
 # neomjs/neo-agent-institution
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/neomjs/neo-agent-institution) · [官网](https://neomjs.com/) · 组织维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/neomjs/neo-agent-institution) · [官网](https://neomjs.com/) · 组织维护
 
 **AI agent 团队的运营驾驶舱：查看与管控 agent 舰队**
 

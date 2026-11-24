@@ -1,6 +1,6 @@
 # mikel-brostrom/boxmot
 
-⭐ 8,324 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/mikel-brostrom/boxmot) · [官网](https://mikel-brostrom.github.io/boxmot/) · 个人维护
+⭐ 8,329 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/mikel-brostrom/boxmot) · [官网](https://mikel-brostrom.github.io/boxmot/) · 个人维护
 
 **多目标跟踪模块库：为检测框提供可插拔的跟踪与评估**
 

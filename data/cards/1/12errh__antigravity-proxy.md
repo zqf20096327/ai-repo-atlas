@@ -1,6 +1,6 @@
 # 12errh/antigravity-proxy
 
-⭐ 44 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/12errh/antigravity-proxy) · 个人维护
+⭐ 45 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/12errh/antigravity-proxy) · 个人维护
 
 **让 Antigravity 2.0 使用任意 AI 提供商的 TypeScript 代理**
 

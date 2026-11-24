@@ -1,6 +1,6 @@
 # Xquik-dev/hermes-tweet
 
-⭐ 41 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Xquik-dev/hermes-tweet) · [官网](https://docs.xquik.com/guides/hermes-tweet) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Xquik-dev/hermes-tweet) · [官网](https://docs.xquik.com/guides/hermes-tweet) · 组织维护
 
 **Hermes Agent 的 X/Twitter 搜索与操作插件**
 

@@ -1,6 +1,6 @@
 # msmarkgu/RelayFreeLLM
 
-⭐ 178 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/msmarkgu/RelayFreeLLM) · [官网](https://gemlight.42web.io) · 个人维护
+⭐ 177 · Python · MIT · 推送 2026-08-31 · [GitHub](https://github.com/msmarkgu/RelayFreeLLM) · [官网](https://gemlight.42web.io) · 个人维护
 
 **聚合多家免费 AI 额度的 OpenAI 兼容网关，自动故障转移**
 

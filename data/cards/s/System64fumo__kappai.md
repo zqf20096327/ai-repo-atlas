@@ -1,6 +1,6 @@
 # System64fumo/kappai
 
-⭐ 18 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/System64fumo/kappai) · 个人维护
+⭐ 18 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/System64fumo/kappai) · 个人维护
 
 **面向低端硬件优化的本地 LLM 推理引擎**
 

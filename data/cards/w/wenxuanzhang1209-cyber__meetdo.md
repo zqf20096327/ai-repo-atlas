@@ -1,6 +1,6 @@
 # wenxuanzhang1209-cyber/meetdo
 
-⭐ 200 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wenxuanzhang1209-cyber/meetdo) · [官网](https://jkincolisten.cloud) · 组织维护 · 中文 README
+⭐ 209 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wenxuanzhang1209-cyber/meetdo) · [官网](https://jkincolisten.cloud) · 组织维护 · 中文 README
 
 **自托管的会议转行动 AI：本地 ASR/LLM 生成结构化纪要并导出 DOCX/PDF**
 

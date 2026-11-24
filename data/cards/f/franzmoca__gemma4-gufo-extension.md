@@ -1,6 +1,6 @@
 # franzmoca/gemma4-gufo-extension
 
-⭐ 10 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/franzmoca/gemma4-gufo-extension) · 个人维护
+⭐ 10 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/franzmoca/gemma4-gufo-extension) · 个人维护
 
 **为 Gufo 推理框架提供 Gemma 4 模型支持的源码扩展**
 

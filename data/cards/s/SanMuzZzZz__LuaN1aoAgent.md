@@ -1,6 +1,6 @@
 # SanMuzZzZz/LuaN1aoAgent
 
-⭐ 1,494 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/SanMuzZzZz/LuaN1aoAgent) · 个人维护 · 中文 README
+⭐ 1,496 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/SanMuzZzZz/LuaN1aoAgent) · 个人维护 · 中文 README
 
 **面向授权安全研究的自主渗透测试 AI Agent**
 

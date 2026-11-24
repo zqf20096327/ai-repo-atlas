@@ -1,6 +1,6 @@
 # martian56/aviary
 
-⭐ 10 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/martian56/aviary) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/martian56/aviary) · 个人维护
 
 **为 Raven 语言提供统一多家 LLM 服务的 chat-completion 客户端库**
 

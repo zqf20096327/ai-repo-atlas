@@ -1,6 +1,6 @@
 # Azure-Samples/azure-finops-agent
 
-⭐ 39 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Azure-Samples/azure-finops-agent) · [官网](https://azure-finops-agent.com/) · 组织维护
+⭐ 39 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Azure-Samples/azure-finops-agent) · [官网](https://azure-finops-agent.com/) · 组织维护
 
 **面向 Azure 的 FinOps/InfraOps AI agent：用对话完成成本评估与治理**
 

@@ -1,6 +1,6 @@
 # Weaxs/stock-analysis-plugin
 
-⭐ 101 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Weaxs/stock-analysis-plugin) · [官网](https://www.npmjs.com/package/stock-analysis-plugin) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Weaxs/stock-analysis-plugin) · [官网](https://www.npmjs.com/package/stock-analysis-plugin) · 个人维护 · 中文 README
 
 **给 AI agent 用的多市场股票分析/选股/回测插件（70 工具+21 技能）**
 

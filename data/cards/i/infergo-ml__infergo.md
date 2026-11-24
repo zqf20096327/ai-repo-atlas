@@ -1,6 +1,6 @@
 # infergo-ml/infergo
 
-⭐ 11 · Go · MIT · 推送 2025-11-27 · [GitHub](https://github.com/infergo-ml/infergo) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Go 语言的概率编程库：用 Go 写模型做推断**
 
@@ -11,7 +11,7 @@ infergo 是面向 Go 语言的概率编程设施：允许以接近不受限制�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # satriyaa67/qwen2api-MultiLANG
 
-⭐ 48 · Go · 推送 2026-10-19 · [GitHub](https://github.com/satriyaa67/qwen2api-MultiLANG) · [官网](https://github.com/YuJunZhiXue/qwen2API) · 个人维护 · 中文 README
+⭐ 47 · Go · 推送 2026-10-19 · [GitHub](https://github.com/satriyaa67/qwen2api-MultiLANG) · [官网](https://github.com/YuJunZhiXue/qwen2API) · 个人维护 · 中文 README
 
 **qwen2API 的多语言 fork：自托管 Qwen Web 转 OpenAI 兼容 API 网关**
 

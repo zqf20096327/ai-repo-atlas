@@ -1,6 +1,6 @@
 # 0xsline/OpenChatCut
 
-⭐ 3,272 · TypeScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/0xsline/OpenChatCut) · [官网](https://openchatcut.com) · 个人维护 · 中文 README
+⭐ 3,290 · TypeScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/0xsline/OpenChatCut) · [官网](https://openchatcut.com) · 个人维护 · 中文 README
 
 **本地优先的对话式 AI 视频编辑器，代理直接写真实时间线**
 

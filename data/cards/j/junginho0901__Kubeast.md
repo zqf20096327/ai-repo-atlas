@@ -1,6 +1,6 @@
 # junginho0901/Kubeast
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/junginho0901/Kubeast) · [官网](https://junginho0901.github.io/Kubeast/) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/junginho0901/Kubeast) · [官网](https://junginho0901.github.io/Kubeast/) · 个人维护 · 中文 README
 
 **多集群 Kubernetes 控制台，内置按用户权限操作的 AI 助手**
 

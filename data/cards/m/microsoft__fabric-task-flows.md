@@ -1,6 +1,6 @@
 # microsoft/fabric-task-flows
 
-⭐ 50 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/microsoft/fabric-task-flows) · 组织维护
+⭐ 51 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/microsoft/fabric-task-flows) · 组织维护
 
 **用 AI agent 生成 Microsoft Fabric 解决方案的 Task Flow 仓库**
 

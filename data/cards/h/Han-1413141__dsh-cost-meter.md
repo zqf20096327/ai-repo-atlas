@@ -1,6 +1,6 @@
 # Han-1413141/dsh-cost-meter
 
-⭐ 746 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Han-1413141/dsh-cost-meter) · 个人维护 · 中文 README
+⭐ 751 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Han-1413141/dsh-cost-meter) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的成本与额度追踪插件**
 

@@ -1,6 +1,6 @@
 # StreamIntelligenceLab/Kolibrie
 
-⭐ 65 · Rust · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/StreamIntelligenceLab/Kolibrie) · [官网](https://streamintelligencelab.github.io/Kolibrie-website/) · 组织维护
+⭐ 66 · Rust · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/StreamIntelligenceLab/Kolibrie) · [官网](https://streamintelligencelab.github.io/Kolibrie-website/) · 组织维护
 
 **Rust 实现的 SPARQL/RDF 数据库与流推理引擎，供知识图谱应用**
 

@@ -1,6 +1,6 @@
 # ThomasLangbroek/frugal
 
-⭐ 40 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/ThomasLangbroek/frugal) · [官网](https://thomaslangbroek.github.io/frugal/) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThomasLangbroek/frugal) · [官网](https://thomaslangbroek.github.io/frugal/) · 个人维护
 
 **Claude Code 的成本优化 agent 路由插件：子任务走廉价模型**
 

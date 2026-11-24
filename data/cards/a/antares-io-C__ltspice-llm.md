@@ -1,6 +1,6 @@
 # antares-io-C/ltspice-llm
 
-⭐ 19 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/antares-io-C/ltspice-llm) · 个人维护 · 中文 README
+⭐ 18 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/antares-io-C/ltspice-llm) · 个人维护 · 中文 README
 
 **让语言模型与 Python 无界面驱动 LTspice 仿真的工具库**
 

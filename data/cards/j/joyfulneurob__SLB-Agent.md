@@ -1,6 +1,6 @@
 # joyfulneurob/SLB-Agent
 
-⭐ 15 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/joyfulneurob/SLB-Agent) · [官网](https://t.me/jiaoliuqunsbl) · 组织维护 · 中文 README
+⭐ 17 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/joyfulneurob/SLB-Agent) · [官网](https://t.me/jiaoliuqunsbl) · 组织维护 · 中文 README
 
 **桌面多模型 AI Agent 客户端，内置破限与红队插件**
 

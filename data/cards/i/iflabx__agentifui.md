@@ -1,6 +1,6 @@
 # iflabx/agentifui
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/iflabx/agentifui) · [官网](https://www.agentifui.com) · 组织维护
+⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/iflabx/agentifui) · [官网](https://www.agentifui.com) · 组织维护
 
 **面向企业的 Agent 前端 UI：接入已有 Dify 与兼容 LangChain 服务**
 

@@ -1,6 +1,6 @@
 # dxos/dxos
 
-⭐ 531 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dxos/dxos) · [官网](https://dxos.org) · 组织维护
+⭐ 531 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/dxos/dxos) · [官网](https://dxos.org) · 组织维护
 
 **构建完全去中心化应用的平台与 SDK，附 Composer IDE**
 

@@ -1,6 +1,6 @@
 # GeniusPilot2016/NeoBleeper
 
-⭐ 10 · C# · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/GeniusPilot2016/NeoBleeper) · [官网](https://geniuspilot2016.wordpress.com/neobleeper/) · 个人维护
+⭐ 10 · C# · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/GeniusPilot2016/NeoBleeper) · [官网](https://geniuspilot2016.wordpress.com/neobleeper/) · 个人维护
 
 **用主板 PC 喇叭作曲的软件，支持 Gemini 生成音乐**
 

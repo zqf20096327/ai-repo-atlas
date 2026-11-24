@@ -1,6 +1,6 @@
 # spiceai/spiceai
 
-⭐ 3,132 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/spiceai/spiceai) · [官网](https://docs.spiceai.org) · 组织维护
+⭐ 3,132 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/spiceai/spiceai) · [官网](https://docs.spiceai.org) · 组织维护
 
 **给运营数据库加实时分析节点的数据与 AI 引擎**
 

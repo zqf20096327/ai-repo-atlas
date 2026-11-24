@@ -1,6 +1,6 @@
 # WebCoderT/olua
 
-⭐ 28 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/WebCoderT/olua) · [官网](http://yimw.cn) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/WebCoderT/olua) · [官网](http://yimw.cn) · 个人维护 · 中文 README
 
 **AI 全程编写代码的 2D 网页 RPG 三端开源实现**
 

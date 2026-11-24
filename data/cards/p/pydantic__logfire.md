@@ -1,6 +1,6 @@
 # pydantic/logfire
 
-⭐ 4,566 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pydantic/logfire) · [官网](https://pydantic.dev/logfire/) · 组织维护
+⭐ 4,566 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pydantic/logfire) · [官网](https://pydantic.dev/logfire/) · 组织维护
 
 **面向 LLM 与 agent 生产系统的 OpenTelemetry 可观测性平台（Python SDK 开源）**
 

@@ -1,6 +1,6 @@
 # Bergschloss/Refine-Cycle-for-Hermes-Agent
 
-⭐ 46 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Bergschloss/Refine-Cycle-for-Hermes-Agent) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Bergschloss/Refine-Cycle-for-Hermes-Agent) · 个人维护
 
 **Hermes Agent 自我改进插件：跨会话识别重复错误并写入最小修正**
 

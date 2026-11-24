@@ -1,1 +1,80 @@
-{"fn": "EvotecIT/OfficeIMO", "sha": "c52793b74f5e", "source": "readme", "identity": {"one_liner": ".NET 无 COM 的 Office/PDF 等文档创建、转换与读取库", "review": "面向 .NET 开发者的文档处理库集合：无需安装 Microsoft Office 或 COM 组件，即可创建、读取、编辑、转换 Word、Excel、PowerPoint、PDF、Markdown 等 20 多种格式。所有格式遵循统一 API 形状（Create/Load/Save/Add*），转换结果用 ConversionReport 报告丢失内容；按格式拆分为独立 NuGet 包，并提供主题系统、批量转换断点续跑、OCR、证书签名、打印等功能。附带 PowerShell 模块 PSWriteOffice、CLI 工具 OfficeIMO.Tool（经 MCP 向 AI agent 提供转换/提取/搜索）、桌面应用 OfficeIMO Studio。", "highlights": ["无 COM、不依赖 Microsoft Office 的文档创建/读取/编辑/转换", "统一 API 形状覆盖 20+ 格式，支持格式间互转并报告转换丢失", "OfficeIMO.Tool 通过 MCP 向 AI agent 提供转换、提取与搜索能力", "OfficeDocumentReader 支持任意格式的读取、搜索与分块，用于索引和 AI 摄取"], "use_cases": ["在服务端/容器/构建代理中批量生成和转换 Office 与 PDF 文档", "为 RAG 索引流水线读取、搜索和分块各类文档", "为 AI agent 提供 MCP 文档工具", "扫描件 OCR 与文档证书签名"]}, "filters": {"ai_role": "ai-enhanced", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "medium", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["文档处理", "文档转换", ".NET", "OpenXML", "MCP"], "domain": "办公文档处理/文档自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L7: OfficeIMO creates, edits, reads and converts Word, Excel, PowerPoint, PDF, Markdown and two dozen other document formats", "L39: |Read for search or AI|`OfficeDocumentReader` from `OfficeIMO.Reader.All`|", "L116: - OfficeIMO.Tool: the `officeimo` command line, from `dotnet tool install --global OfficeIMO.Tool`. It also serves conve"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-24", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "EvotecIT/OfficeIMO",
+ "sha": "c52793b74f5e",
+ "source": "readme",
+ "identity": {
+  "one_liner": ".NET 无 COM 的 Office/PDF 等文档创建、转换与读取库",
+  "review": "面向 .NET 开发者的文档处理库集合：无需安装 Microsoft Office 或 COM 组件，即可创建、读取、编辑、转换 Word、Excel、PowerPoint、PDF、Markdown 等 20 多种格式。所有格式遵循统一 API 形状（Create/Load/Save/Add*），转换结果用 ConversionReport 报告丢失内容；按格式拆分为独立 NuGet 包，并提供主题系统、批量转换断点续跑、OCR、证书签名、打印等功能。附带 PowerShell 模块 PSWriteOffice、CLI 工具 OfficeIMO.Tool（经 MCP 向 AI agent 提供转换/提取/搜索）、桌面应用 OfficeIMO Studio。",
+  "highlights": [
+   "无 COM、不依赖 Microsoft Office 的文档创建/读取/编辑/转换",
+   "统一 API 形状覆盖 20+ 格式，支持格式间互转并报告转换丢失",
+   "OfficeIMO.Tool 通过 MCP 向 AI agent 提供转换、提取与搜索能力",
+   "OfficeDocumentReader 支持任意格式的读取、搜索与分块，用于索引和 AI 摄取"
+  ],
+  "use_cases": [
+   "在服务端/容器/构建代理中批量生成和转换 Office 与 PDF 文档",
+   "为 RAG 索引流水线读取、搜索和分块各类文档",
+   "为 AI agent 提供 MCP 文档工具",
+   "扫描件 OCR 与文档证书签名"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-enhanced",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "文档处理",
+   "文档转换",
+   ".NET",
+   "OpenXML",
+   "MCP"
+  ],
+  "domain": "知识与检索",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "ocr",
+   "document-parsing"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: OfficeIMO creates, edits, reads and converts Word, Excel, PowerPoint, PDF, Markdown and two dozen other document formats",
+   "L39: |Read for search or AI|`OfficeDocumentReader` from `OfficeIMO.Reader.All`|",
+   "L116: - OfficeIMO.Tool: the `officeimo` command line, from `dotnet tool install --global OfficeIMO.Tool`. It also serves conve"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

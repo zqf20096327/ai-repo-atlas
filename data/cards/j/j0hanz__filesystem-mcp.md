@@ -1,6 +1,6 @@
 # j0hanz/filesystem-mcp
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/j0hanz/filesystem-mcp) · [官网](https://github.com/j0hanz/filesystem-mcp#readme) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/j0hanz/filesystem-mcp) · [官网](https://github.com/j0hanz/filesystem-mcp#readme) · 个人维护
 
 **给 AI 助手提供安全本地文件操作工具的 MCP 服务器**
 

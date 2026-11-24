@@ -1,6 +1,6 @@
 # hsiaozzz/cocos-creator-skill
 
-⭐ 25 · JavaScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/hsiaozzz/cocos-creator-skill) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/hsiaozzz/cocos-creator-skill) · 个人维护 · 中文 README
 
 **给 AI 编程 Agent 注入 Cocos Creator 游戏开发专长的技能包**
 

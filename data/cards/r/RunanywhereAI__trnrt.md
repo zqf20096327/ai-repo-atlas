@@ -1,6 +1,6 @@
 # RunanywhereAI/trnrt
 
-⭐ 1,658 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/RunanywhereAI/trnrt) · [官网](https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels) · 组织维护
+⭐ 1,661 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/RunanywhereAI/trnrt) · [官网](https://runanywhere.ai/blog/glm-5-3-flash-trainium2-nki-megakernels) · 组织维护
 
 **AWS Trainium 上的开源 LLM 推理引擎，OpenAI 兼容 API**
 

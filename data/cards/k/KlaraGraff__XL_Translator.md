@@ -1,6 +1,6 @@
 # KlaraGraff/XL_Translator
 
-⭐ 37 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/KlaraGraff/XL_Translator) · [官网](https://github.com/KlaraGraff/XL_Translator/releases/latest) · 个人维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/KlaraGraff/XL_Translator) · [官网](https://github.com/KlaraGraff/XL_Translator/releases/latest) · 个人维护 · 中文 README
 
 **面向桌面用户的 LLM 文档翻译应用：批量翻译 Excel/Word/PDF/CAD 图纸，双语对照输出**
 

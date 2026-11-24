@@ -1,6 +1,6 @@
 # aravpanwar/dsmai
 
-⭐ 51 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aravpanwar/dsmai) · [官网](https://dsmai.aravpanwar.com/) · 个人维护
+⭐ 53 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aravpanwar/dsmai) · [官网](https://dsmai.aravpanwar.com/) · 个人维护
 
 **现代 AI 概念依赖结构的交互式分层学习地图**
 

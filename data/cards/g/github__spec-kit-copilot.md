@@ -1,6 +1,6 @@
 # github/spec-kit-copilot
 
-⭐ 29 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/github/spec-kit-copilot) · [官网](https://github.com/github/spec-kit) · 组织维护
+⭐ 29 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/github/spec-kit-copilot) · [官网](https://github.com/github/spec-kit) · 组织维护
 
 **面向 GitHub Copilot 的 Spec Kit 集成插件集**
 

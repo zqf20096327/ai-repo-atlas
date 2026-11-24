@@ -1,6 +1,6 @@
 # baidu-baige/LoongForge
 
-⭐ 888 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/baidu-baige/LoongForge) · [官网](https://baidu-baige.github.io/LoongForge/) · 组织维护 · 中文 README
+⭐ 901 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/baidu-baige/LoongForge) · [官网](https://baidu-baige.github.io/LoongForge/) · 组织维护 · 中文 README
 
 **百度开源的训练框架：在 GPU/XPU 上训练 LLM、VLM 与具身模型**
 

@@ -1,6 +1,6 @@
 # rokrokss/shizue-extension
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/rokrokss/shizue-extension) · [官网](https://shizue.net) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rokrokss/shizue-extension) · [官网](https://shizue.net) · 个人维护
 
 **浏览器侧边栏 AI 助手扩展：聊天、摘要与双语翻译**
 

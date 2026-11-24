@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-cpp
 
-⭐ 53 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/milvus-io/milvus-sdk-cpp) · 组织维护
+⭐ 53 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/milvus-io/milvus-sdk-cpp) · 组织维护
 
 **面向 C++ 开发者的 Milvus 向量数据库官方 SDK**
 

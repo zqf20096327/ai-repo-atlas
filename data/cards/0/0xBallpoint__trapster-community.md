@@ -1,6 +1,6 @@
 # 0xBallpoint/trapster-community
 
-⭐ 168 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/0xBallpoint/trapster-community) · [官网](https://docs.trapster.cloud/community/) · 组织维护
+⭐ 170 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/0xBallpoint/trapster-community) · [官网](https://docs.trapster.cloud/community/) · 组织维护
 
 **部署在内网的多协议低交互蜜罐，含 AI 应答生成**
 

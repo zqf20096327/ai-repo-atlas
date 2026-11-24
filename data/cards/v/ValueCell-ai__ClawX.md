@@ -1,10 +1,10 @@
 # ValueCell-ai/ClawX
 
-⭐ 7,591 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ValueCell-ai/ClawX) · [官网](https://claw-x.com) · 组织维护 · 中文 README
+⭐ 7,587 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ValueCell-ai/ClawX) · [官网](https://claw-x.com) · 组织维护 · 中文 README
 
-**给普通用户的 OpenClaw AI Agent 桌面图形界面客户端**
+**为 OpenClaw AI agent 提供图形界面的桌面应用**
 
-基于 Electron + React 的桌面应用，为 OpenClaw AI Agent 提供图形界面，内嵌 OpenClaw 运行时，将命令行编排转为无需终端的桌面体验。功能覆盖多会话聊天界面（流式 Markdown、@agent 路由、/skill 卡片）、Agent 生命周期管理、多渠道管理（微信/钉钉插件）、Cron 定时任务、本地技能管理与文档处理技能、语音听写（Developer Mode）、本地 Computer Use 驱动，以及统一的服务商配置面板（凭据存于系统钥匙串）。预置推荐模型服务商配置，支持 Windows 与多语言界面；另有面向企业的定制服务版。
+基于 Electron/React 构建，内嵌 OpenClaw 运行时，将命令行方式的 agent 编排转为桌面体验：提供多会话聊天界面、Agent 生命周期管理、多渠道管理（内置微信插件与钉钉连接器）、Cron 定时任务、本地化技能管理、供应商统一配置面板（凭据存入系统钥匙串）。功能上还含语音听写（需开启 Developer Mode 并自配语音转文字服务）与本地 Computer Use（限 macOS 13+/Windows x64）。提供 Windows/macOS/Linux 预编译包与源码构建，另声明可联系获取企业版。
 
 ## 筛选速览
 
@@ -20,23 +20,25 @@
 
 ## 能力要点
 
-- 内嵌 OpenClaw 运行时，图形界面完成配置与管理，无需终端
-- 多渠道管理：捆绑微信个人渠道插件与钉钉连接器
-- Cron 定时自动化、本地技能管理与 pdf/xlsx/docx/pptx 处理技能
-- macOS/Windows 本地 Computer Use 操作（窗口/辅助功能/桌面）
+- 内嵌 OpenClaw 运行时，免终端一键安装与引导式设置向导
+- 多渠道管理：微信插件、钉钉连接器及多账号渠道配置
+- Cron 定时任务与可本地管理的技能系统（含 pdf/xlsx/docx/pptx 处理技能）
+- 本地 Computer Use 驱动（macOS 13+/Windows x64）与语音听写
 
 ## 适用场景
 
-- 用图形界面配置和运行 OpenClaw AI Agent，不想碰命令行
-- 定时让 Agent 监控信息并把结果推送到微信/钉钉等渠道
-- 用 Agent 做日常助手：写邮件、总结文档、自动化工作流
+- 在桌面界面中配置和管理多个专用 AI agent
+- 定时让 agent 监控信息源并把结果推送到聊天渠道
+- 为非技术用户提供免命令行的 agent 使用入口
+- 把 agent 接入微信/钉钉等渠道收发消息
 
 ## 场景标签
 
-`AI 助手` `工作流自动化` · 领域:效率与自动化
+`AI 助手` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L5:  The Desktop Interface for OpenClaw AI Agents
 > L26: **ClawX** bridges the gap between powerful AI agents and everyday users. Built on top of OpenClaw, it transforms co
 > L47: Building AI agents shouldn't require mastering the command line. ClawX was designed with a simple philosophy: **pow
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `732d6cbf63af` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `06a2a74a7ae3` · [字段定义](../../DATASET.md)*

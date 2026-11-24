@@ -1,6 +1,6 @@
 # fujc683/awesome-qwen4-max-prompts
 
-⭐ 12 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/awesome-qwen4-max-prompts) · [官网](https://gola.apimart.ai/k-MQoeGx) · 个人维护
+⭐ 18 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/awesome-qwen4-max-prompts) · [官网](https://gola.apimart.ai/k-MQoeGx) · 个人维护
 
 **面向 Qwen4 Max 用户的分类提示词集合**
 

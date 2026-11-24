@@ -1,6 +1,6 @@
 # xinity-ai/xinity-ai
 
-⭐ 65 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/xinity-ai/xinity-ai) · [官网](https://xinity.ai) · 组织维护
+⭐ 66 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/xinity-ai/xinity-ai) · [官网](https://xinity.ai) · 组织维护
 
 **面向企业的本地化 AI 平台：自有硬件上运行模型并统一管理**
 

@@ -1,6 +1,6 @@
 # EvotecIT/OfficeIMO
 
-⭐ 722 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EvotecIT/OfficeIMO) · [官网](https://officeimo.com/) · 组织维护
+⭐ 725 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/EvotecIT/OfficeIMO) · [官网](https://officeimo.com/) · 组织维护
 
 **.NET 无 COM 的 Office/PDF 等文档创建、转换与读取库**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:办公文档处理/文档自动化
+`OCR` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 

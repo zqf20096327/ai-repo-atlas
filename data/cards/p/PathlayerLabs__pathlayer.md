@@ -1,6 +1,6 @@
 # PathlayerLabs/pathlayer
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PathlayerLabs/pathlayer) · 组织维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PathlayerLabs/pathlayer) · 组织维护
 
 **AI Agent 运行时守护层：检测循环、重试与成本失控并干预**
 

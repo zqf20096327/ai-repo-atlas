@@ -1,6 +1,6 @@
 # yonseicasl/NPUsim
 
-⭐ 57 · C++ · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/yonseicasl/NPUsim) · 组织维护
+⭐ 57 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/yonseicasl/NPUsim) · 组织维护
 
 **DNN 加速器全模型周期级功能仿真框架**
 

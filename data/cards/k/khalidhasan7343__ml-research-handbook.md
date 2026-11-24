@@ -1,6 +1,6 @@
 # khalidhasan7343/ml-research-handbook
 
-⭐ 3 · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/khalidhasan7343/ml-research-handbook) · 个人维护
+⭐ 3 · Typst · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/khalidhasan7343/ml-research-handbook) · 个人维护
 
 **英孟双语机器学习与研究方法手册：读论文、找研究缺口**
 

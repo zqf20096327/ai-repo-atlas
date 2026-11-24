@@ -1,6 +1,6 @@
 # Tavris1/ComfyUI-Easy-Install
 
-⭐ 2,123 · PowerShell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Tavris1/ComfyUI-Easy-Install) · 个人维护 · 中文 README
+⭐ 2,127 · PowerShell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Tavris1/ComfyUI-Easy-Install) · 个人维护 · 中文 README
 
 **Windows 一键安装便携版 ComfyUI 的桌面管理器**
 

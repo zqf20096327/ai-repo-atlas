@@ -1,6 +1,6 @@
 # sunholo-data/ailang
 
-⭐ 38 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sunholo-data/ailang) · [官网](http://ailang.sunholo.com/) · 组织维护
+⭐ 38 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sunholo-data/ailang) · [官网](http://ailang.sunholo.com/) · 组织维护
 
 **面向 AI 编码代理的确定性纯函数式编程语言及 CLI**
 

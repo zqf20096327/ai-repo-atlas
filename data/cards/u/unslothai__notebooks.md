@@ -1,10 +1,10 @@
 # unslothai/notebooks
 
-⭐ 5,829 · Jupyter Notebook · LGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/unslothai/notebooks) · [官网](https://unsloth.ai/docs) · 组织维护
+⭐ 5,837 · Jupyter Notebook · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/unslothai/notebooks) · [官网](https://unsloth.ai/docs) · 组织维护
 
-**面向模型微调者的 250+ Unsloth 微调与强化学习 Colab 笔记本集合**
+**面向开发者的 250+ 模型微调与强化学习 Colab 笔记本集**
 
-Unsloth 维护的笔记本清单，按模型家族组织（Gemma、Qwen、Llama、Mistral、gpt-oss 等 250+ 个），覆盖文本、视觉、音频、嵌入、TTS 任务，类型包括对话微调、Alpaca、GRPO/DPO/PPO/ORPO 强化学习、工具调用、OCR、STT 等。每个笔记本在 Colab 中打开即可运行，内容含数据准备、训练与推理，也可在本地运行。
+unslothai 维护的笔记本集合，按模型（Gemma/Llama/Qwen/Mistral/gpt-oss 等）与任务类型组织，覆盖文本、视觉、音频、嵌入、TTS、OCR 等类别，训练方式包括 Alpaca 微调、GRPO/PPO/DPO/ORPO 强化学习、工具调用与知识蒸馏。笔记本以 Colab 链接形式提供，README 说明其可在本地运行，内容涵盖数据准备、训练与推理环节。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Unsloth 维护的笔记本清单，按模型家族组织（Gemma、Qwen、Llama�
 
 ## 能力要点
 
-- 250+ 个按模型家族分类的 Colab 微调笔记本
-- 覆盖 GRPO/DPO/PPO/ORPO 等强化学习训练类型
-- 任务范围含文本、视觉、音频、嵌入、TTS、OCR、STT
-- 笔记本含数据准备、训练与推理完整流程，可本地运行
+- 250+ 按模型与任务组织的 Colab 笔记本
+- 覆盖 GRPO/PPO/DPO/ORPO 等强化学习与多种微调方式
+- 文本、视觉、音频、嵌入、TTS、OCR 多模态任务覆盖
+- 每个笔记本含数据准备、训练与推理环节
 
 ## 适用场景
 
-- 在 Colab 上微调 Qwen、Gemma、Llama 等开源模型
-- 用 GRPO 笔记本对模型做数学/游戏类强化学习
-- 为 TTS、OCR、嵌入模型找现成的微调示例
+- 我想在 Colab 上微调某个开源模型（如 Llama、Gemma、Qwen）
+- 我想按 GRPO/PPO 等强化学习方法训练模型
+- 我想微调 TTS、OCR 或嵌入模型
 
 ## 场景标签
 
@@ -39,6 +39,7 @@ Unsloth 维护的笔记本清单，按模型家族组织（Gemma、Qwen、Llama�
 
 > L6: ## 📒 Fine-tuning Notebooks
 > L7: Below are Colab notebooks, organized by model. You can also view all notebooks in our docs. The notebooks run locall
+> L10: |Model|Type|Notebook Link|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `82a0fe63215f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0d2588f230ee` · [字段定义](../../DATASET.md)*

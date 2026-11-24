@@ -1,6 +1,6 @@
 # Oldcircle/holmes-skill
 
-⭐ 23 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Oldcircle/holmes-skill) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/Oldcircle/holmes-skill) · 个人维护 · 中文 README
 
 **让 agent 像福尔摩斯一样读照片推理的技能包**
 

@@ -1,6 +1,6 @@
 # ID-Robots/clawbox
 
-⭐ 34 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ID-Robots/clawbox) · [官网](https://clawbox.com) · 组织维护
+⭐ 34 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ID-Robots/clawbox) · [官网](https://clawbox.com) · 组织维护
 
 **运行在 NVIDIA Jetson 上的私人 AI 助手整机及配套操作系统**
 

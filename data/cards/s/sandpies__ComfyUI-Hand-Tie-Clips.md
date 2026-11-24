@@ -1,6 +1,6 @@
 # sandpies/ComfyUI-Hand-Tie-Clips
 
-⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sandpies/ComfyUI-Hand-Tie-Clips) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sandpies/ComfyUI-Hand-Tie-Clips) · 个人维护
 
 **ComfyUI 节点包：将 MiniMax H3 生成串成保持角色一致的多镜头连续视频**
 

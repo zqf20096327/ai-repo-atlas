@@ -1,6 +1,6 @@
 # C4rohan/Lampline
 
-⭐ 495 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/C4rohan/Lampline) · 个人维护
+⭐ 494 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/C4rohan/Lampline) · 个人维护
 
 **自托管开源语音电话 agent 平台：导入 Dialogflow CX 构建测试运行**
 

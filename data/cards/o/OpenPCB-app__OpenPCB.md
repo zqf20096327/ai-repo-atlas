@@ -1,6 +1,6 @@
 # OpenPCB-app/OpenPCB
 
-⭐ 52 · TypeScript · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/OpenPCB-app/OpenPCB) · [官网](https://openpcb.app/) · 组织维护
+⭐ 53 · TypeScript · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/OpenPCB-app/OpenPCB) · [官网](https://openpcb.app/) · 组织维护
 
 **桌面 PCB 设计套件：原理图、布局、DRC、制造输出一体**
 

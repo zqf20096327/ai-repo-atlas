@@ -1,6 +1,6 @@
 # juyterman1000/entroly
 
-⭐ 489 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/juyterman1000/entroly) · [官网](https://juyterman1000.github.io/entroly/docs/index.html) · 个人维护 · 中文 README
+⭐ 489 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/juyterman1000/entroly) · [官网](https://juyterman1000.github.io/entroly/docs/index.html) · 个人维护 · 中文 README
 
 **AI 编码工具的上下文选择与压缩层，附带可审计回执**
 

@@ -1,6 +1,6 @@
 # eric861129/Workflow-skill-router
 
-⭐ 18 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/eric861129/Workflow-skill-router) · [官网](https://huangchiyu.com/Workflow-skill-router/) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eric861129/Workflow-skill-router) · [官网](https://huangchiyu.com/Workflow-skill-router/) · 个人维护 · 中文 README
 
 **为 Codex agent 做 Skill 路由与阶段化工作流编排的插件**
 

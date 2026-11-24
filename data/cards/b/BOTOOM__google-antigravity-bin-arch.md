@@ -1,6 +1,6 @@
 # BOTOOM/google-antigravity-bin-arch
 
-⭐ 71 · Shell · 推送 2026-11-21 · [GitHub](https://github.com/BOTOOM/google-antigravity-bin-arch) · [官网](https://antigravity-arch.edwardiaz.dev/) · 个人维护
+⭐ 71 · Shell · 推送 2026-11-24 · [GitHub](https://github.com/BOTOOM/google-antigravity-bin-arch) · [官网](https://antigravity-arch.edwardiaz.dev/) · 个人维护
 
 **Google Antigravity IDE 的 Arch Linux 自动安装/打包脚本**
 

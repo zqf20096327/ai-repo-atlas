@@ -1,6 +1,6 @@
 # iurysza/herdr-tab-smart-rename
 
-⭐ 77 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/iurysza/herdr-tab-smart-rename) · 个人维护
+⭐ 77 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/iurysza/herdr-tab-smart-rename) · 个人维护
 
 **为 Herdr 终端生成任务感知的标签页与窗格名称的插件**
 

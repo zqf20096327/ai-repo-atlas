@@ -1,6 +1,6 @@
 # connormcmonigle/seer-nnue
 
-⭐ 146 · C++ · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/connormcmonigle/seer-nnue) · 个人维护
+⭐ 146 · C++ · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/connormcmonigle/seer-nnue) · 个人维护
 
 **使用神经网络评估局面的 UCI 国际象棋引擎**
 

@@ -1,6 +1,6 @@
 # tigerless-labs/agent-memory
 
-⭐ 4,323 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/tigerless-labs/agent-memory) · 组织维护
+⭐ 4,319 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/tigerless-labs/agent-memory) · 组织维护
 
 **AI agent 的长期记忆运行时：Markdown 为源，本地检索，多宿主共享**
 

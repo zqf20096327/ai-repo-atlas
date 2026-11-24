@@ -1,6 +1,6 @@
 # opendatahub-io/ai-helpers
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/opendatahub-io/ai-helpers) · [官网](https://opendatahub-io.github.io/ai-helpers/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/opendatahub-io/ai-helpers) · [官网](https://opendatahub-io.github.io/ai-helpers/) · 组织维护
 
 **面向 Claude Code/Codex/Cursor 等 AI 编码工具的技能与插件集合**
 

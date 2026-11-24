@@ -1,6 +1,6 @@
 # maxid/vamis
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/maxid/vamis) · [官网](https://maxid.github.io/vamis/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/maxid/vamis) · [官网](https://maxid.github.io/vamis/) · 个人维护 · 中文 README
 
 **Vue 3 低代码运行时，用 YAML/JSON 配置生成页面**
 

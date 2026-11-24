@@ -1,6 +1,6 @@
 # shenald-dev/one-api
 
-⭐ 30 · JavaScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/shenald-dev/one-api) · [官网](https://shenald-portfolio.vercel.app) · 个人维护
+⭐ 31 · JavaScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/shenald-dev/one-api) · [官网](https://shenald-portfolio.vercel.app) · 个人维护
 
 **统一 20+ LLM 提供商的 OpenAI 兼容边缘 API 网关**
 

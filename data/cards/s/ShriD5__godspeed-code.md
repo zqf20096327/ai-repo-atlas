@@ -1,6 +1,6 @@
 # ShriD5/godspeed-code
 
-⭐ 14 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ShriD5/godspeed-code) · [官网](https://godspeed-code.pages.dev) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ShriD5/godspeed-code) · [官网](https://godspeed-code.pages.dev) · 个人维护
 
 **统一运行多种 AI 编码 agent CLI 的原生 macOS 桌面应用**
 

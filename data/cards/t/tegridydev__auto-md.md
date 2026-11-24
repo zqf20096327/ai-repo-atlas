@@ -1,6 +1,6 @@
 # tegridydev/auto-md
 
-⭐ 167 · Python · MIT · 推送 2026-08-30 · [GitHub](https://github.com/tegridydev/auto-md) · 个人维护
+⭐ 167 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tegridydev/auto-md) · 个人维护
 
 **把代码库/文档/GitHub 仓库转为 Markdown 与 RAG 就绪数据包的本地网页应用**
 

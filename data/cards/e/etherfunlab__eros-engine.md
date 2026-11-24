@@ -1,6 +1,6 @@
 # etherfunlab/eros-engine
 
-⭐ 79 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/etherfunlab/eros-engine) · [官网](https://eros.etherfun.xyz) · 组织维护 · 中文 README
+⭐ 79 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/etherfunlab/eros-engine) · [官网](https://eros.etherfun.xyz) · 组织维护 · 中文 README
 
 **Rust 编写的 AI 陪伴角色引擎：持久记忆、关系状态与角色决策**
 

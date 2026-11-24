@@ -1,6 +1,6 @@
 # tc3oliver/laya-apple
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/tc3oliver/laya-apple) · 个人维护 · 中文 README
+⭐ 30 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/tc3oliver/laya-apple) · 个人维护 · 中文 README
 
 **Apple Silicon 上经正确性校验的 Laya 异构推理运行时（MLX GPU+ANE）**
 

@@ -1,6 +1,6 @@
 # Gary2005/cs-net
 
-⭐ 114 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Gary2005/cs-net) · [官网](https://gary2005.github.io/cs-net/) · 个人维护 · 中文 README
+⭐ 117 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Gary2005/cs-net) · [官网](https://gary2005.github.io/cs-net/) · 个人维护 · 中文 README
 
 **基于 Transformer 的 CS2 比赛回放分析与路径预测框架**
 

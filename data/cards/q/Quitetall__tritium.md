@@ -1,6 +1,6 @@
 # Quitetall/tritium
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Quitetall/tritium) · [官网](https://docs.rs/tritium-core) · 个人维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Quitetall/tritium) · [官网](https://docs.rs/tritium-core) · 个人维护
 
 **三值（{-1,0,+1}）模型的训练与推理基础设施库**
 

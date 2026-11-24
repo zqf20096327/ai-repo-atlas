@@ -1,6 +1,6 @@
 # jschm42/taleweaver
 
-⭐ 29 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jschm42/taleweaver) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jschm42/taleweaver) · 个人维护
 
 **自托管的生成式 AI 角色扮演文字冒险引擎工作室**
 

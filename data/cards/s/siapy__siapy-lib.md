@@ -1,6 +1,6 @@
 # siapy/siapy-lib
 
-⭐ 114 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/siapy/siapy-lib) · [官网](https://siapy.github.io/siapy-lib/) · 组织维护
+⭐ 114 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/siapy/siapy-lib) · [官网](https://siapy.github.io/siapy-lib/) · 组织维护
 
 **科研用的光谱图像处理与分析 Python 库**
 

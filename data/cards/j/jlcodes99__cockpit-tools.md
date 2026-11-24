@@ -1,10 +1,10 @@
 # jlcodes99/cockpit-tools
 
-⭐ 20,281 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
+⭐ 20,338 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/jlcodes99/cockpit-tools) · [官网](https://github.com/jlcodes99/cockpit-tools#readme) · 个人维护 · 中文 README
 
-**管理多款 AI IDE 账号的桌面工具：切号、配额监控、多开**
+**AI IDE 多账号管理桌面工具：切号、配额监控与多开**
 
-本地桌面工具，统一管理 Antigravity、Codex、GitHub Copilot、Windsurf、Kiro、Cursor、Grok CLI、CodeBuddy、Qoder、Trae、Zed、ZCode 等 AI IDE/CLI 的账号：支持 OAuth/Token/JSON 导入、一键切号注入并启动客户端、多账号多实例并行运行、配额与套餐展示、定时唤醒任务。内置 Rust 引擎的 API 服务兼容 Responses/Chat Completions/Claude/Gemini/Ollama 协议，可接管 Codex 的模型请求与转写路由。数据保存在本机目录，无需注册平台账号。提供 macOS/Windows/Linux 平台支持与 18 种语言界面。
+本地桌面工具，统一管理 17 种 AI IDE/CLI 的账号：支持 OAuth 授权、Token/JSON/本机导入、切号注入启动、配额与套餐查询、定时唤醒任务，以及多账号多实例并行运行（独立用户目录与启动参数）。内置 Rust 引擎的 API 服务为 Codex 提供 Responses/Claude/Gemini/Ollama 协议兼容的本地网关与账号池调度。数据保存在本机 ~/.cockpit_tools，不依赖自建云端。官方支持 macOS、Windows、Linux。
 
 ## 筛选速览
 
@@ -26,26 +26,27 @@
 
 ## 能力要点
 
-- 16+ 平台的账号导入、切号注入与启动管理
-- 多账号多实例并行运行，实例目录与参数隔离
-- 配额监控仪表盘与定时唤醒任务
-- 内置 Rust API 服务，兼容多种模型协议与语音转写入口
+- 17 个 AI IDE/CLI 平台的账号导入、切号注入与配额监控
+- 多账号多实例并行运行，实例目录与启动参数隔离
+- Rust 引擎 API 服务支持 Responses/Chat Completions/Claude/Gemini/Ollama 协议兼容
+- 支持 18 种界面语言，本地存储账号数据
 
 ## 适用场景
 
-- 同时使用多个 AI IDE 账号并快速切换
-- 多开 IDE 实例分别绑定不同账号处理不同项目
-- 查看各平台配额余量、重置时间与订阅套餐
+- 在多个 AI IDE 订阅账号之间一键切换
+- 同时运行多个 IDE 实例绑定不同账号处理不同项目
+- 实时查看各平台模型配额余量与重置时间
+- 通过本地 API 服务为 Codex 接入账号池与多种模型协议
 
 ## 场景标签
 
- · 领域:开发者工具/AI 工具管理
+ · 领域:开发工具/AI IDE 辅助
 
 ## 证据(README 行号)
 
 > L10: 一款**通用的 AI IDE 账号管理工具**，目前支持 **Antigravity IDE**、**Codex**、**GitHub Copilot**、**Windsurf**、**Kiro**、**Cursor**、**Gr
-> L12: > 本工具旨在帮助用户高效管理多个 AI IDE 账号，支持一键切换、配额监控、自动唤醒与应用多开并行运行，助您充分利用不同账号的资源。
 > L86: - **API 服务**：统一由宿主内的 Rust 引擎运行，支持 Responses HTTP/SSE/WebSocket、上下文压缩及 Chat Completions、Claude、Gemini、Ollama 协议兼容。旧 
+> L283: - **这是本地桌面工具**：不需要单独注册平台账号，也不依赖项目自建云端来存你的账号列表。
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `45466f9b8e9f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `2463aab3521c` · [字段定义](../../DATASET.md)*

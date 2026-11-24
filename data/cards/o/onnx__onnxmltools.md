@@ -1,6 +1,6 @@
 # onnx/onnxmltools
 
-⭐ 1,179 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/onnx/onnxmltools) · [官网](https://onnx.ai) · 组织维护
+⭐ 1,179 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/onnx/onnxmltools) · [官网](https://onnx.ai) · 组织维护
 
 **将多种机器学习工具包模型转换为 ONNX 格式的转换库**
 

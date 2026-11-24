@@ -1,6 +1,6 @@
 # infiniflow/ragflow
 
-⭐ 94,541 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/infiniflow/ragflow) · [官网](https://ragflow.io) · 组织维护 · 中文 README
+⭐ 94,603 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/infiniflow/ragflow) · [官网](https://ragflow.io) · 组织维护 · 中文 README
 
 **开源 RAG 引擎与 agent 基础设施：将复杂数据转为可用的 AI 系统**
 

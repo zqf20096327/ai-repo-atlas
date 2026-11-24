@@ -1,6 +1,6 @@
 # zhangliang605/carrycode
 
-⭐ 44 · Rust · 推送 2026-03-15 · [GitHub](https://github.com/zhangliang605/carrycode) · [官网](https://carrycode.ai) · 组织维护 · 中文 README
+⭐ 45 · Rust · 推送 2026-03-15 · [GitHub](https://github.com/zhangliang605/carrycode) · [官网](https://carrycode.ai) · 组织维护 · 中文 README
 
 **终端原生 AI 编程助手：对话式写码、重构、调试与理解代码**
 

@@ -1,6 +1,6 @@
 # LaoshuBaby/liulianmao
 
-⭐ 16 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/LaoshuBaby/liulianmao) · [官网](https://pypi.org/project/liulianmao/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-07-18 · [GitHub](https://github.com/LaoshuBaby/liulianmao) · [官网](https://pypi.org/project/liulianmao/) · 个人维护 · 中文 README
 
 **命令行/IDE 中使用的大语言模型客户端**
 

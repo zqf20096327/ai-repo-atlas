@@ -1,6 +1,6 @@
 # fabdendev/dagster-mcp
 
-⭐ 18 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fabdendev/dagster-mcp) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/fabdendev/dagster-mcp) · 个人维护
 
 **封装 Dagster GraphQL API 的 MCP server，供 AI agent 运维数据管道**
 

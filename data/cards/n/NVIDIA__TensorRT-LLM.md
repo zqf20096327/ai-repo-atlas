@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-LLM
 
-⭐ 15,117 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [官网](https://nvidia.github.io/TensorRT-LLM) · 组织维护
+⭐ 15,122 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/TensorRT-LLM) · [官网](https://nvidia.github.io/TensorRT-LLM) · 组织维护
 
 **面向开发者的 NVIDIA GPU 上 LLM/视觉生成推理优化库**
 

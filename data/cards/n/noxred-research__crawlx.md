@@ -1,6 +1,6 @@
 # noxred-research/crawlx
 
-⭐ 9 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/noxred-research/crawlx) · 组织维护
+⭐ 9 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/noxred-research/crawlx) · 组织维护
 
 **为授权安全测试映射动态 Web 应用攻击面的 AI 爬虫**
 

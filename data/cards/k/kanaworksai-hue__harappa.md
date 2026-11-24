@@ -1,6 +1,6 @@
 # kanaworksai-hue/harappa
 
-⭐ 7 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/harappa) · [官网](https://x.com/KanaWorks_AI) · 组织维护 · 中文 README
+⭐ 8 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/harappa) · [官网](https://x.com/KanaWorks_AI) · 组织维护 · 中文 README
 
 **一键生成动漫风草原场景的免费 Blender 插件**
 

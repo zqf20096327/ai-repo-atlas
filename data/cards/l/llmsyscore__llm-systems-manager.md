@@ -1,6 +1,6 @@
 # llmsyscore/llm-systems-manager
 
-⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/llmsyscore/llm-systems-manager) · 组织维护
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/llmsyscore/llm-systems-manager) · 组织维护
 
 **自托管面板：监控、控制与调优运行本地 LLM 的机器**
 

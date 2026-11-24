@@ -1,6 +1,6 @@
 # identArk/identark
 
-⭐ 16 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/identArk/identark) · [官网](https://identark.io) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/identArk/identark) · [官网](https://identark.io) · 组织维护
 
 **给 AI agent 开发者的凭据隔离网关 SDK：代理持密钥、带审批与审计**
 

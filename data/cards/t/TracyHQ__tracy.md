@@ -1,6 +1,6 @@
 # TracyHQ/tracy
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TracyHQ/tracy) · [官网](https://tracy.ai) · 组织维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TracyHQ/tracy) · [官网](https://tracy.ai) · 组织维护 · 中文 README
 
 **AI agent 编辑已上线 WordPress/Joomla/EmDash 网站的 CMS**
 

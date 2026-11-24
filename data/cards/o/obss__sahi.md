@@ -1,6 +1,6 @@
 # obss/sahi
 
-⭐ 5,611 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/obss/sahi) · [官网](https://obss.github.io/sahi/) · 组织维护 · 中文 README
+⭐ 5,615 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/obss/sahi) · [官网](https://obss.github.io/sahi/) · 组织维护 · 中文 README
 
 **给开发者的切片推理视觉库：大图小目标检测与分割**
 

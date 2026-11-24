@@ -1,6 +1,6 @@
 # Explorer-Dong/open-csai-wiki
 
-⭐ 118 · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Explorer-Dong/open-csai-wiki) · [官网](https://wiki.dwj601.cn) · 个人维护 · 中文 README
+⭐ 118 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Explorer-Dong/open-csai-wiki) · [官网](https://wiki.dwj601.cn) · 个人维护 · 中文 README
 
 **围绕计算机与人工智能的个人知识库（技术博客/笔记）**
 

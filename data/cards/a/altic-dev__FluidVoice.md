@@ -1,6 +1,6 @@
 # altic-dev/FluidVoice
 
-⭐ 13,205 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/altic-dev/FluidVoice) · [官网](https://altic.dev/fluid) · 组织维护
+⭐ 13,218 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/altic-dev/FluidVoice) · [官网](https://altic.dev/fluid) · 组织维护
 
 **macOS 本地语音听写应用：录音转文字并本地清理润色**
 

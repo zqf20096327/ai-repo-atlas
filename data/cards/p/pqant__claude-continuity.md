@@ -1,6 +1,6 @@
 # pqant/claude-continuity
 
-⭐ 27 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pqant/claude-continuity) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pqant/claude-continuity) · 个人维护
 
 **Claude Code 的零接触会话轮换与监护工具**
 

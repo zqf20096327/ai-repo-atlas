@@ -1,6 +1,6 @@
 # ChengjinLii/studyhub
 
-⭐ 19 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ChengjinLii/studyhub) · [官网](https://study-hub.cn) · 组织维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ChengjinLii/studyhub) · [官网](https://study-hub.cn) · 组织维护 · 中文 README
 
 **高校知识共享与校园互助平台，附带 RAG Agent 与 AI 内容审核**
 

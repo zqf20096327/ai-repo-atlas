@@ -1,6 +1,6 @@
 # ExVRAM/exvram-lab
 
-⭐ 35 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/ExVRAM/exvram-lab) · [官网](https://exvram.pro) · 组织维护
+⭐ 35 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ExVRAM/exvram-lab) · [官网](https://exvram.pro) · 组织维护
 
 **在 8GB 消费级 GPU 上运行 ~27B 大模型的研究实验框架**
 

@@ -1,6 +1,6 @@
 # cool-japan/torsh
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/torsh) · [官网](https://github.com/cool-japan/torsh) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/cool-japan/torsh) · [官网](https://github.com/cool-japan/torsh) · 组织维护
 
 **纯 Rust 编写的 PyTorch 兼容深度学习框架**
 

@@ -1,6 +1,6 @@
 # Mesutcydev/ios-local-llm
 
-⭐ 23 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mesutcydev/ios-local-llm) · [官网](https://ondevice.fun/local-ai-studio/) · 个人维护
+⭐ 24 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mesutcydev/ios-local-llm) · [官网](https://ondevice.fun/local-ai-studio/) · 个人维护
 
 **iPhone/Apple silicon 本地运行 LLM 的 SwiftUI 离线工作台**
 

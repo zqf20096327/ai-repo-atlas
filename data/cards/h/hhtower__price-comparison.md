@@ -1,6 +1,6 @@
 # hhtower/price-comparison
 
-⭐ 334 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/hhtower/price-comparison) · [官网](https://price.yufu.pub) · 个人维护 · 中文 README
+⭐ 339 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hhtower/price-comparison) · [官网](https://price.yufu.pub) · 个人维护 · 中文 README
 
 **自部署的 AI 商品比价站：采集、归类与跨商铺价格比较**
 

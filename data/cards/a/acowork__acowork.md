@@ -1,6 +1,6 @@
 # acowork/acowork
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/acowork/acowork) · [官网](https://acowork.ai) · 组织维护 · 中文 README
+⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/acowork/acowork) · [官网](https://acowork.ai) · 组织维护 · 中文 README
 
 **人类与 AI agent 协作交付工作的多用户平台**
 

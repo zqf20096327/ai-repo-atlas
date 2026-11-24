@@ -1,19 +1,19 @@
 # huggingface/speech-to-speech
 
-⭐ 13,767 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
+⭐ 13,776 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/speech-to-speech) · 组织维护
 
-**本地全开源模型搭建低延迟语音对话 agent 的运行时**
+**本地运行的低延迟开源语音对话 agent，一条命令即用**
 
-以 Python 包形式提供的语音 agent 框架：默认流水线为 Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS，四个阶段各自线程化、经队列相连，且每一级均可通过 CLI 旗标替换后端。服务器以 WebSocket/WebRTC 讲 OpenAI Realtime 协议，面向 OpenAI Realtime API 编写的客户端可指向本机自托管实例，无需 API key 与云服务；也支持 LiveKit Agents 与 OpenAI Agents SDK 接入。默认安装覆盖 macOS/Linux，Windows 未列入兼容矩阵；Linux 的默认 TTS wheel 依赖 CUDA 12.8 与 Ubuntu 24.04。
+以 Silero VAD → Parakeet TDT → Qwen3.5-4B → Qwen3-TTS 四级流水线构建语音助手，完全在本机运行，无需 API key 与云服务；每级提供多个可替换后端并通过 CLI 选择。服务器实现 OpenAI Realtime 协议（WebSocket/WebRTC），面向 OpenAI Realtime API 的客户端可直接指向本地。默认安装面向 Apple Silicon 与 NVIDIA GPU/CPU 平台，可选组件经 pip extras 安装，MeloTTS 等实现已弃用并移入 archive/。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,21 +27,21 @@
 
 ## 能力要点
 
-- 一条命令启动本地语音对话，无需 API key 与云服务，首跑后可离线运行
-- VAD/STT/LLM/TTS 四级流水线，每级提供多个可互换后端（表格列出 30+ 组合）
-- 服务器实现 OpenAI Realtime 协议，兼容 OpenAI Agents SDK 与 LiveKit Agents
-- 按平台自动选模型：Apple Silicon 走 MLX，NVIDIA GPU 走 Transformers，其余走 CPU
+- 四级流水线各阶段后端可互换，CLI 参数选择
+- 服务器兼容 OpenAI Realtime 协议，已对接 OpenAI Agents SDK 与 LiveKit Agents
+- 首次下载模型后可完全离线运行
+- 支持可选音素（viseme）输出与说话人分离
 
 ## 适用场景
 
-- 在自己电脑上跑一套完全本地的语音助手对话
+- 在本机与语音助手实时对话
+- 为 Reachy Mini 等机器人提供对话后端
 - 把现有 OpenAI Realtime 客户端切换到自托管服务器
-- 为机器人或头像应用提供语音对话后端（README 提及用于 Reachy Mini）
-- 按需替换 STT/LLM/TTS 各级模型做语音 agent 实验
+- 为虚拟形象/机器人客户端生成口型时间序列
 
 ## 场景标签
 
-`语音 Agent` `Agent 框架` · 领域:Agent 开发
+`语音 Agent` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `8de2126be6c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d655a800eb8d` · [字段定义](../../DATASET.md)*

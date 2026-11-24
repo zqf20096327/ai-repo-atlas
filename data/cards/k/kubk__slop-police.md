@@ -1,6 +1,6 @@
 # kubk/slop-police
 
-⭐ 17 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kubk/slop-police) · [官网](https://www.npmjs.com/package/slop-police) · 个人维护
+⭐ 17 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kubk/slop-police) · [官网](https://www.npmjs.com/package/slop-police) · 个人维护
 
 **检测 LLM 生成代码坏味道的 TypeScript 静态分析工具**
 

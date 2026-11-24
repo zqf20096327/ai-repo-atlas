@@ -1,6 +1,6 @@
 # gravion-ux/TRISHUL
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/TRISHUL) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravion-ux/TRISHUL) · 个人维护
 
 **面向授权安全测试者的 AI 驱动漏洞扫描平台**
 

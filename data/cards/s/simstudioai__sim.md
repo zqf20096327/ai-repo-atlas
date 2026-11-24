@@ -1,10 +1,10 @@
 # simstudioai/sim
 
-⭐ 30,185 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/simstudioai/sim) · [官网](https://www.sim.ai) · 组织维护
+⭐ 30,194 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/simstudioai/sim) · [官网](https://www.sim.ai) · 组织维护
 
-**可视化工作区：构建、部署与监控 AI agent 和工作流**
+**团队协作构建、部署与监控 AI agent 和工作流的可视化平台**
 
-Sim 是构建、部署和管理 AI agent 与工作流的协作工作区。提供可视化/对话/代码三种构建方式，接入 280+ 集成（5,800+ 动作、530+ 触发器）与主流 LLM，内置表格、文件与知识库作为 agent 可查询的数据源，并监控运行日志与调度。支持云端（sim.ai）、macOS 桌面版与自托管（npx sim-setup 向导 + Docker Compose，需 Node.js 20+），提供 MCP 服务器供 Claude/Codex 等客户端管理部署，企业版含 SSO、SCIM 与审计日志。
+Sim 是一个构建、部署和管理 AI agent 与工作流的协作工作区：提供可视化/对话/代码三种方式搭建 agent，内置 280+ 集成（5,800+ 动作、530+ 触发器），支持文件、数据库、知识库接入，并提供运行日志、调度与活动监控。企业计划提供 SSO（SAML/OIDC）、SCIM、审计日志与权限组等治理能力。可通过云托管（sim.ai）、macOS 桌面端或自托管（npx sim-setup + Docker Compose，需 Node.js 20+）使用，自托管还支持通过 Ollama/vLLM 接入本地模型，并提供 MCP server 供 Claude Code 等 MCP 客户端管理部署。
 
 ## 筛选速览
 
@@ -27,27 +27,27 @@ Sim 是构建、部署和管理 AI agent 与工作流的协作工作区。提供
 
 ## 能力要点
 
-- 280+ 集成、5,800+ 动作与 530+ 触发器，接入主流 LLM
-- 可视化、对话或代码三种方式构建 agent
-- 内置表格、文件与知识库作为 agent 数据源
-- MCP 服务器：Claude/Codex 客户端可管理工作流与部署
+- 280+ 集成（5,800+ 动作、530+ 触发器）与主流 LLM 接入
+- 可视化/对话/代码三种方式构建 agent
+- 内置 Tables、Files、知识库统一工作区
+- MCP server：Claude Code/Codex 等客户端可管理工作流
 
 ## 适用场景
 
-- 用可视化画布搭建业务自动化 agent 工作流
-- 自托管部署并监控团队 agent 的运行与日志
-- 让 agent 查询内部数据库、文件与知识库
-- 通过 MCP 客户端远程管理 Sim 工作区
+- 低代码搭建自动化 AI agent 工作流
+- 企业内自托管部署并做 SSO/审计治理
+- 接入内部数据库与知识库让 agent 检索
+- 通过 MCP 客户端管理已部署的工作流
 
 ## 场景标签
 
-`工作流自动化` `Agent 框架` · 领域:Agent 开发
+`工作流自动化` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L13:  A workspace to build, deploy and manage AI agents and workflows.
-> L39: - Build agents visually, conversationally, or with code
-> L70: Connect Claude, Claude Code, Codex, or any MCP client to Sim Cloud at `https://mcp.sim.ai/mcp`. Your agent can mana
+> L35: ## Capabilities
+> L78: ## Self-hosting
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `11fa6fe06a63` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `64f9ba1a014c` · [字段定义](../../DATASET.md)*

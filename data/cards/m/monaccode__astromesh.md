@@ -1,6 +1,6 @@
 # monaccode/astromesh
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/monaccode/astromesh) · [官网](https://monaccode.github.io/astromesh/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/monaccode/astromesh) · [官网](https://monaccode.github.io/astromesh/) · 组织维护
 
 **多模型 AI agent 运行时：YAML 定义 agent 并按 API 部署**
 

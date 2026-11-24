@@ -1,6 +1,6 @@
 # Jenqyang/Awesome-AI-Agents
 
-⭐ 1,276 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/Jenqyang/Awesome-AI-Agents) · [官网](https://jenqyang.github.io/Awesome-AI-Agents/) · 个人维护
+⭐ 1,277 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/Jenqyang/Awesome-AI-Agents) · [官网](https://jenqyang.github.io/Awesome-AI-Agents/) · 个人维护
 
 **面向关注 AI Agent 者的 LLM 自主 agent 项目清单**
 

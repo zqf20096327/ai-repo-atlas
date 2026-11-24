@@ -1,6 +1,6 @@
 # willdady/platypus
 
-⭐ 132 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/willdady/platypus) · [官网](https://platypus.chat) · 组织维护
+⭐ 132 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/willdady/platypus) · [官网](https://platypus.chat) · 组织维护
 
 **团队自托管的 AI Agent 平台：自备模型构建、运行常驻 Agent**
 

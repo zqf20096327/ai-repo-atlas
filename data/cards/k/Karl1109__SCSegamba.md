@@ -1,6 +1,6 @@
 # Karl1109/SCSegamba
 
-⭐ 297 · Python · Apache-2.0 · 推送 2025-11-27 · [GitHub](https://github.com/Karl1109/SCSegamba) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **轻量级 Mamba 结构裂缝分割网络（CVPR 2025，2.8M 参数）**
 
@@ -11,7 +11,7 @@ CVPR 2025 论文 SCSegamba 的官方开源实现：基于 Vision Mamba 的轻量
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

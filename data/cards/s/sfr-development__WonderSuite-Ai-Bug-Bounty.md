@@ -1,6 +1,6 @@
 # sfr-development/WonderSuite-Ai-Bug-Bounty
 
-⭐ 53 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sfr-development/WonderSuite-Ai-Bug-Bounty) · 组织维护
+⭐ 53 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sfr-development/WonderSuite-Ai-Bug-Bounty) · 组织维护
 
 **桌面端攻击性安全测试平台：91 工具+MITM 代理+MCP 供 AI agent 调用**
 

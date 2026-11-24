@@ -1,6 +1,6 @@
 # vstorm-co/agenticos
 
-⭐ 720 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vstorm-co/agenticos) · [官网](https://vstorm-co.github.io/vstormos-landing/) · 组织维护
+⭐ 795 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vstorm-co/agenticos) · [官网](https://vstorm-co.github.io/vstormos-landing/) · 组织维护
 
 **企业自托管 AI agent 平台：构建、共享并治理公司内部 AI 队友**
 

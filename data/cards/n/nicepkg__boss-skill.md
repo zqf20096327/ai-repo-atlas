@@ -1,6 +1,6 @@
 # nicepkg/boss-skill
 
-⭐ 144 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/nicepkg/boss-skill) · 组织维护 · 中文 README
+⭐ 145 · Python · MIT · 推送 2026-04-01 · [GitHub](https://github.com/nicepkg/boss-skill) · 组织维护 · 中文 README
 
 **生成 AI 老板替身的 Claude Code Skill：PUA 检测、反击话术、劳动法速查**
 

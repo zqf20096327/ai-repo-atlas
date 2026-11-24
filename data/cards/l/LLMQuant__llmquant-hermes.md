@@ -1,6 +1,6 @@
 # LLMQuant/llmquant-hermes
 
-⭐ 27 · MIT · 推送 2026-07-22 · [GitHub](https://github.com/LLMQuant/llmquant-hermes) · [官网](https://llmquantdata.com) · 组织维护 · 中文 README
+⭐ 29 · MIT · 推送 2026-07-22 · [GitHub](https://github.com/LLMQuant/llmquant-hermes) · [官网](https://llmquantdata.com) · 组织维护 · 中文 README
 
 **把 Hermes agent 配置成金融分析师的技能与部署套件**
 

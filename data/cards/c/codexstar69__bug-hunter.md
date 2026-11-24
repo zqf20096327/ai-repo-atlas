@@ -1,6 +1,6 @@
 # codexstar69/bug-hunter
 
-⭐ 572 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/codexstar69/bug-hunter) · 个人维护
+⭐ 575 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/codexstar69/bug-hunter) · 个人维护
 
 **面向 AI 编码 agent 的对抗式代码审计技能，扫描并可授权修复缺陷**
 

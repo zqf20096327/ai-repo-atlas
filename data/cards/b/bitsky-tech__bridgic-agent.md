@@ -1,6 +1,6 @@
 # bitsky-tech/bridgic-agent
 
-⭐ 50 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/bitsky-tech/bridgic-agent) · 组织维护 · 中文 README
+⭐ 51 · TypeScript · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/bitsky-tech/bridgic-agent) · 组织维护 · 中文 README
 
 **本地优先的桌面通用 Agent 与自动化工作流构建器**
 

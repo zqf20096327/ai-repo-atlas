@@ -1,6 +1,6 @@
 # lobbystack/lobbystack
 
-⭐ 64 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lobbystack/lobbystack) · [官网](https://lobbystack.com) · 组织维护
+⭐ 65 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lobbystack/lobbystack) · [官网](https://lobbystack.com) · 组织维护
 
 **面向小企业的开源 AI 电话前台：接电话、订日程**
 

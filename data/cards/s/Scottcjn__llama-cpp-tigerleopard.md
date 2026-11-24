@@ -1,6 +1,6 @@
 # Scottcjn/llama-cpp-tigerleopard
 
-⭐ 68 · C++ · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/llama-cpp-tigerleopard) · [官网](https://rustchain.org) · 个人维护
+⭐ 68 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Scottcjn/llama-cpp-tigerleopard) · [官网](https://rustchain.org) · 个人维护
 
 **在 Mac OS X Tiger/Leopard 的 PowerPC G4/G5 上运行 llama.cpp 推理的移植**
 

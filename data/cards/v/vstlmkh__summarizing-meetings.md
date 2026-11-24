@@ -1,6 +1,6 @@
 # vstlmkh/summarizing-meetings
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/vstlmkh/summarizing-meetings) · 个人维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vstlmkh/summarizing-meetings) · 个人维护
 
 **把会议原始转写整理成清洁记录与行动项跟进的 Agent 技能**
 

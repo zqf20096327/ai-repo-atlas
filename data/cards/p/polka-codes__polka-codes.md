@@ -1,6 +1,6 @@
 # polka-codes/polka-codes
 
-⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/polka-codes/polka-codes) · [官网](https://polka.codes) · 组织维护
+⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/polka-codes/polka-codes) · [官网](https://polka.codes) · 组织维护
 
 **TypeScript 多 agent AI 编程助手框架，面向开发者任务规划与代码生成**
 

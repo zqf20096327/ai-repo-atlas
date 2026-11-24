@@ -1,6 +1,6 @@
 # alecswang/please-hire-me
 
-⭐ 45 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alecswang/please-hire-me) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alecswang/please-hire-me) · 个人维护
 
 **求职者的自动投递 agent：在真实 ATS 表单中代填并提交申请**
 

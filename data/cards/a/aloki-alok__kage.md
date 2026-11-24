@@ -1,6 +1,6 @@
 # aloki-alok/kage
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/aloki-alok/kage) · [官网](https://aloki-alok.github.io/kage/) · 个人维护
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/aloki-alok/kage) · [官网](https://aloki-alok.github.io/kage/) · 个人维护
 
 **把 Claude Code 会话接入 Slack/电话/浏览器的个人代理网关**
 

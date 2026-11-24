@@ -1,6 +1,6 @@
 # rohitg00/agentmemory
 
-⭐ 30,535 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/rohitg00/agentmemory) · [官网](https://www.agent-memory.dev/docs) · 个人维护
+⭐ 30,550 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/rohitg00/agentmemory) · [官网](https://www.agent-memory.dev/docs) · 个人维护
 
 **为 AI 编码 agent 提供跨会话持久记忆的本地服务器**
 

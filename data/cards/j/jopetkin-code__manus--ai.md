@@ -1,6 +1,6 @@
 # jopetkin-code/manus--ai
 
-⭐ 192 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/jopetkin-code/manus--ai) · 个人维护
+⭐ 188 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/jopetkin-code/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码与操作浏览器**
 

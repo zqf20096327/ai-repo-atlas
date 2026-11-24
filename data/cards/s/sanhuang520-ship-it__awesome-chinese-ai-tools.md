@@ -1,6 +1,6 @@
 # sanhuang520-ship-it/awesome-chinese-ai-tools
 
-⭐ 12 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools) · [官网](https://sanhuang520-ship-it.github.io/awesome-chinese-ai-tools/) · 个人维护 · 中文 README
+⭐ 12 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sanhuang520-ship-it/awesome-chinese-ai-tools) · [官网](https://sanhuang520-ship-it.github.io/awesome-chinese-ai-tools/) · 个人维护 · 中文 README
 
 **中文 Agent Skills 合集：212 条目、13 个原创、带可复现实测证据**
 

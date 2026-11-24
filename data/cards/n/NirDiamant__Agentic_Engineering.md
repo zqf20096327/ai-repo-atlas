@@ -1,6 +1,6 @@
 # NirDiamant/Agentic_Engineering
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NirDiamant/Agentic_Engineering) · [官网](https://www.diamant-ai.com/courses?utm_source=github&utm_medium=repo-homepage&utm_campaign=agentic-engineering) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/NirDiamant/Agentic_Engineering) · [官网](https://www.diamant-ai.com/courses?utm_source=github&utm_medium=repo-homepage&utm_campaign=agentic-engineering) · 个人维护
 
 **为编程 agent 生成项目记忆层并自测知识得分**
 

@@ -1,6 +1,6 @@
 # JuliaAI/ScientificTypes.jl
 
-⭐ 99 · Julia · MIT · 推送 2026-09-28 · [GitHub](https://github.com/JuliaAI/ScientificTypes.jl) · 组织维护
+⭐ 99 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JuliaAI/ScientificTypes.jl) · 组织维护
 
 **Julia 数据科学类型约定库：按数据用途而非机器类型分派**
 

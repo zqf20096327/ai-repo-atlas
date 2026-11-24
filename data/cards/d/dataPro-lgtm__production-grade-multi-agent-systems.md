@@ -1,6 +1,6 @@
 # dataPro-lgtm/production-grade-multi-agent-systems
 
-⭐ 25 · JavaScript · CC-BY-4.0 · 推送 2026-07-28 · [GitHub](https://github.com/dataPro-lgtm/production-grade-multi-agent-systems) · [官网](https://datapro-lgtm.github.io/production-grade-multi-agent-systems/) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · CC-BY-4.0 · 推送 2026-07-28 · [GitHub](https://github.com/dataPro-lgtm/production-grade-multi-agent-systems) · [官网](https://datapro-lgtm.github.io/production-grade-multi-agent-systems/) · 个人维护 · 中文 README
 
 **面向 AI 工程师的生产级多智能体系统中文开源书**
 

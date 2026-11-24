@@ -1,6 +1,6 @@
 # khlaifiabilel/awesome-geospatial-super-resolution
 
-⭐ 13 · CC0-1.0 · 推送 2026-08-03 · [GitHub](https://github.com/khlaifiabilel/awesome-geospatial-super-resolution) · 个人维护
+⭐ 14 · CC0-1.0 · 推送 2026-08-03 · [GitHub](https://github.com/khlaifiabilel/awesome-geospatial-super-resolution) · 个人维护
 
 **遥感/对地观测超分辨率算法、数据集与论文策展清单**
 

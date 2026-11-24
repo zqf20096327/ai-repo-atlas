@@ -1,6 +1,6 @@
 # 3x-haust/ondra
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/3x-haust/ondra) · [官网](https://github.com/3x-haust/ondra/releases) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/3x-haust/ondra) · [官网](https://github.com/3x-haust/ondra/releases) · 个人维护
 
 **面向 macOS 用户的 AI 任务委派工作区，拆分执行并核验结果**
 

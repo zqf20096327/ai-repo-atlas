@@ -1,6 +1,6 @@
 # StartLuxLabs/StartLux-Decision
 
-⭐ 1,782 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/StartLuxLabs/StartLux-Decision) · [官网](https://decision.startlux.com/) · 组织维护
+⭐ 1,787 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/StartLuxLabs/StartLux-Decision) · [官网](https://decision.startlux.com/) · 组织维护
 
 **0.8B–27B 开放决策模型家族及推理引擎：一次前向输出每选项概率**
 

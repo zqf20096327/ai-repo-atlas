@@ -1,10 +1,10 @@
 # AtomicBot-ai/atomic-agent
 
-⭐ 3,588 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AtomicBot-ai/atomic-agent) · [官网](https://atomicagent.io) · 组织维护
+⭐ 3,589 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AtomicBot-ai/atomic-agent) · [官网](https://atomicagent.io) · 组织维护
 
-**本地优先的 AI agent：浏览器、文件、命令、跨会话记忆**
+**本机运行的 local-first AI agent：操控浏览器、文件与命令行**
 
-在用户机器上运行控制循环与全部状态的终端 agent：可浏览网页、读写文件、执行经批准的 shell 命令、解析文档、跨会话记忆、定时跟进，并通过 MCP 调用外部工具。支持本地模型、云模型或 Fusion 模式（规划模型+工作者池）。基于内嵌的 TurboQuant llama.cpp 运行量化小模型。提供 CLI 与桌面应用两种形态，通过 HTTP 或 Tauri sidecar 嵌入自有应用。当前为 developer preview，API 与行为仍在变动。
+控制循环与全部状态都在本机运行的 AI agent：浏览网页、读写文件、执行经批准的 shell 命令、检查文档、跨会话记忆上下文、定时任务，并通过 MCP 调用外部工具。可运行本地模型、云端模型或同时运行（Fusion 模式下一个模型规划、一组 worker 执行）。优先通过 llama.cpp 运行小型量化模型以适配消费级硬件长会话；提供 HTTP 与 Tauri sidecar 嵌入方式。状态保存在本地磁盘，本地模型下免费使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 本地/云模型或 Fusion 双模型模式（规划+工作者池）
-- 内嵌 llama.cpp，量化小模型在消费级硬件上长会话运行
-- 支持从 Claude Code/Codex/Hermes/OpenClaw 等导入既有数据
-- GAIA L1 基准 69.8%（53 任务，自报数据）
+- 本地/云/Fusion 三种模型运行模式，经 llama.cpp 运行量化模型
+- 浏览器自动化、文件编辑、已批准命令执行与 MCP 工具调用
+- 支持从 Claude Code/Codex/Hermes 等六个 agent 导入既有数据
+- 提供 CLI（atomic-agent/atag）与 Linux/macOS/Windows 桌面应用
 
 ## 适用场景
 
-- 在本地机器上让 agent 浏览网页、整理文件、执行命令
-- 用小尺寸量化模型跑多步骤长任务
-- 把 agent 能力通过 HTTP/sidecar 嵌入自己的应用
+- 在本机离线运行 agent 处理浏览器自动化与文件操作
+- 用小型本地模型在消费级硬件上跑长任务
+- 从其他 agent 工具迁移会话、记忆与技能数据
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
+> L5: ### A local-first AI agent that runs on your machine, with local or cloud models.
 > L7: Drives your browser, edits files, runs approved commands, and remembers context across sessions. Open source, runnin
 > L26: A local-first AI agent that runs the control loop and all state on your machine. It works across your machine: brow
-> L126: > Developer preview. APIs, commands, config, and behavior are still moving, so pin a release if you need a stable 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `ae665f27c68b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `b3a1f5fa5c15` · [字段定义](../../DATASET.md)*

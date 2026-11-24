@@ -1,6 +1,6 @@
 # itsdecodingai/building-a-coding-agent-from-scratch-course
 
-⭐ 1,238 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/itsdecodingai/building-a-coding-agent-from-scratch-course) · 组织维护
+⭐ 1,246 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/itsdecodingai/building-a-coding-agent-from-scratch-course) · 组织维护
 
 **从零构建编码代理的免费开源课程（8篇文章+6视频）**
 

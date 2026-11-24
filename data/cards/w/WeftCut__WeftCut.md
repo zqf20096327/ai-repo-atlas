@@ -1,6 +1,6 @@
 # WeftCut/WeftCut
 
-⭐ 385 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/WeftCut/WeftCut) · [官网](https://weftcut.com) · 个人维护 · 中文 README
+⭐ 392 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/WeftCut/WeftCut) · [官网](https://weftcut.com) · 个人维护 · 中文 README
 
 **可被 AI agent 通过 MCP 操控的开源桌面视频编辑器**
 

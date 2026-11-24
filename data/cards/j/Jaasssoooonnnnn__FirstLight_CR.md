@@ -1,6 +1,6 @@
 # Jaasssoooonnnnn/FirstLight_CR
 
-⭐ 346 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight_CR) · 个人维护 · 中文 README
+⭐ 372 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight_CR) · 个人维护 · 中文 README
 
 **离线训练与评测 Clash Royale AI agent 的研究框架**
 

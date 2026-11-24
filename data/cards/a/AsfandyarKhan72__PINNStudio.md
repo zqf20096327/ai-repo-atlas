@@ -1,6 +1,6 @@
 # AsfandyarKhan72/PINNStudio
 
-⭐ 40 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/AsfandyarKhan72/PINNStudio) · [官网](https://asfandyarkhan72.github.io/PINNStudio/) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/AsfandyarKhan72/PINNStudio) · [官网](https://asfandyarkhan72.github.io/PINNStudio/) · 个人维护
 
 **无代码的物理信息神经网络科学计算环境：求解正/逆问题**
 

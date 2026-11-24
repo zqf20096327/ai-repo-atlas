@@ -1,6 +1,6 @@
 # yeasy/llm_internals
 
-⭐ 138 · Python · 推送 2026-11-22 · [GitHub](https://github.com/yeasy/llm_internals) · [官网](https://yeasy.gitbook.io/llm_internals/) · 个人维护 · 中文 README
+⭐ 138 · Python · 推送 2026-11-23 · [GitHub](https://github.com/yeasy/llm_internals) · [官网](https://yeasy.gitbook.io/llm_internals/) · 个人维护 · 中文 README
 
 **讲解 Transformer 与大模型架构、训练、推理部署的中文开源书籍**
 

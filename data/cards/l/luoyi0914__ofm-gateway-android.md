@@ -1,6 +1,6 @@
 # luoyi0914/ofm-gateway-android
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/luoyi0914/ofm-gateway-android) · [官网](https://github.com/luoyi0914/ofm-gateway-magisk) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/luoyi0914/ofm-gateway-android) · [官网](https://github.com/luoyi0914/ofm-gateway-magisk) · 个人维护 · 中文 README
 
 **把 OFM 本机 AI 网关打包成免 root 的 Android 应用**
 

@@ -1,6 +1,6 @@
 # ActiveInferenceInstitute/Symposium
 
-⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ActiveInferenceInstitute/Symposium) · [官网](https://activeinferenceinstitute.github.io/Symposium/) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ActiveInferenceInstitute/Symposium) · [官网](https://activeinferenceinstitute.github.io/Symposium/) · 组织维护
 
 **Active Inference 研讨会组织与研究分析 Python 工具集**
 

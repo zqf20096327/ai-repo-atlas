@@ -1,6 +1,6 @@
 # tryAGI/LangChain.Databases
 
-⭐ 12 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tryAGI/LangChain.Databases) · [官网](https://tryagi.github.io/LangChain.Databases/) · 组织维护
+⭐ 12 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tryAGI/LangChain.Databases) · [官网](https://tryagi.github.io/LangChain.Databases/) · 组织维护
 
 **为 LangChain.NET 提供 .NET 向量库抽象与后端包**
 

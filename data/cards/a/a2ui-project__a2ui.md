@@ -1,6 +1,6 @@
 # a2ui-project/a2ui
 
-⭐ 18,094 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/a2ui-project/a2ui) · [官网](https://a2ui.org/) · 组织维护
+⭐ 18,379 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/a2ui-project/a2ui) · [官网](https://a2ui.org/) · 组织维护
 
 **开源生成式 UI 框架：agent 流式输出界面数据，原生渲染**
 

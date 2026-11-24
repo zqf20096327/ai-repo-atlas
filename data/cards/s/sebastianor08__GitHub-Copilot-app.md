@@ -1,6 +1,6 @@
 # sebastianor08/GitHub-Copilot-app
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sebastianor08/GitHub-Copilot-app) · 组织维护
+⭐ 40 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sebastianor08/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 GitHub 仓库 agent 工作管理桌面应用**
 

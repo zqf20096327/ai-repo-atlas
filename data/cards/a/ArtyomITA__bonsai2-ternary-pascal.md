@@ -1,6 +1,6 @@
 # ArtyomITA/bonsai2-ternary-pascal
 
-⭐ 3 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ArtyomITA/bonsai2-ternary-pascal) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ArtyomITA/bonsai2-ternary-pascal) · 个人维护
 
 **让 Ternary Bonsai 2 9B 在 GTX 1080 上解码提速 51% 的 llama.cpp CUDA 补丁**
 

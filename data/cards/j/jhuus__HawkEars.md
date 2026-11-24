@@ -1,6 +1,6 @@
 # jhuus/HawkEars
 
-⭐ 17 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jhuus/HawkEars) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jhuus/HawkEars) · 个人维护
 
 **音频鸟类与两栖类声音识别的桌面/CLI 分析工具**
 

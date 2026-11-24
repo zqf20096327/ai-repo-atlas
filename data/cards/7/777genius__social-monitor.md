@@ -1,6 +1,6 @@
 # 777genius/social-monitor
 
-⭐ 53 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/777genius/social-monitor) · [官网](https://social-monitor.app) · 个人维护
+⭐ 53 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/777genius/social-monitor) · [官网](https://social-monitor.app) · 个人维护
 
 **自托管社媒/新闻聚合监控工具：跨源收集、排序并生成 AI 摘要**
 

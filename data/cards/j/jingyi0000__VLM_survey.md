@@ -1,6 +1,6 @@
 # jingyi0000/VLM_survey
 
-⭐ 3,132 · 推送 2026-11-16 · [GitHub](https://github.com/jingyi0000/VLM_survey) · 组织维护
+⭐ 3,131 · 推送 2026-11-16 · [GitHub](https://github.com/jingyi0000/VLM_survey) · 组织维护
 
 **面向科研者系统整理 VLM 视觉任务论文与数据集的清单**
 

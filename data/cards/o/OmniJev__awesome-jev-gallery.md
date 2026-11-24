@@ -1,6 +1,6 @@
 # OmniJev/awesome-jev-gallery
 
-⭐ 494 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/OmniJev/awesome-jev-gallery) · [官网](https://omnijev.github.io/awesome-jev-gallery/) · 组织维护
+⭐ 495 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/OmniJev/awesome-jev-gallery) · [官网](https://omnijev.github.io/awesome-jev-gallery/) · 组织维护
 
 **Jev/System One 模型的论文、开源模型与评测策展清单**
 

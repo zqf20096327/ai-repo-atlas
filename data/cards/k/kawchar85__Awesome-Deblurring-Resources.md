@@ -1,6 +1,6 @@
 # kawchar85/Awesome-Deblurring-Resources
 
-⭐ 14 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/kawchar85/Awesome-Deblurring-Resources) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/kawchar85/Awesome-Deblurring-Resources) · 个人维护
 
 **图像/视频去模糊研究论文与数据集策展清单（154 篇+18 数据集）**
 

@@ -1,6 +1,6 @@
 # kartik-modi/halo-tv
 
-⭐ 15 · Java · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/kartik-modi/halo-tv) · 个人维护
+⭐ 16 · Java · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/kartik-modi/halo-tv) · 个人维护
 
 **Android/Google/Fire TV 的替换桌面，含 AI 助手与跨平台影视聚合**
 

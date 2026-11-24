@@ -1,6 +1,6 @@
 # Windsland52/create-maa-project
 
-⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Windsland52/create-maa-project) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Windsland52/create-maa-project) · 个人维护 · 中文 README
 
 **MaaFW 项目脚手架 CLI 与 MCP Server，生成并维护 Pipeline/Agent 项目**
 

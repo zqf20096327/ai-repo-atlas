@@ -1,6 +1,6 @@
 # labstack/pitot
 
-⭐ 152 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/labstack/pitot) · [官网](https://pitot.dev) · 组织维护
+⭐ 155 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/labstack/pitot) · [官网](https://pitot.dev) · 组织维护
 
 **单二进制可观测性平台：接收 OTLP，内置 AI 调查代理**
 

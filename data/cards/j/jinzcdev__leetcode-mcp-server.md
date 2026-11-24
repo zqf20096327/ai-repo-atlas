@@ -1,6 +1,6 @@
 # jinzcdev/leetcode-mcp-server
 
-⭐ 158 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/jinzcdev/leetcode-mcp-server) · [官网](https://www.npmjs.com/package/@jinzcdev/leetcode-mcp-server) · 个人维护 · 中文 README
+⭐ 159 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/jinzcdev/leetcode-mcp-server) · [官网](https://www.npmjs.com/package/@jinzcdev/leetcode-mcp-server) · 个人维护 · 中文 README
 
 **为 MCP 客户端接入 LeetCode 题目与用户数据的工具服务器**
 

@@ -1,6 +1,6 @@
 # Anil-matcha/AI-Youtube-Shorts-Generator
 
-⭐ 6,470 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · [官网](https://www.vadoo.tv/ai-youtube-shorts-generator) · 个人维护
+⭐ 6,518 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) · [官网](https://www.vadoo.tv/ai-youtube-shorts-generator) · 个人维护
 
 **把长 YouTube 视频自动切成带评分的 9:16 竖屏短视频**
 

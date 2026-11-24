@@ -1,6 +1,6 @@
 # zhitongblog/solomd
 
-⭐ 1,704 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zhitongblog/solomd) · [官网](https://solomd.app) · 个人维护 · 中文 README
+⭐ 1,719 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zhitongblog/solomd) · [官网](https://solomd.app) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 笔记编辑器，内置 MCP 服务器供 AI 客户端操作 vault**
 

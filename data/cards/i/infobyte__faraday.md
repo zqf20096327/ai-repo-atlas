@@ -1,6 +1,6 @@
 # infobyte/faraday
 
-⭐ 6,878 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/infobyte/faraday) · [官网](https://www.faradaysec.com) · 组织维护
+⭐ 6,880 · Python · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/infobyte/faraday) · [官网](https://www.faradaysec.com) · 组织维护
 
 **开源漏洞管理平台：聚合安全扫描结果并集中管理**
 

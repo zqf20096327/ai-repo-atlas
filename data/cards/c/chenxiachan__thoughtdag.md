@@ -1,6 +1,6 @@
 # chenxiachan/thoughtdag
 
-⭐ 802 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/chenxiachan/thoughtdag) · [官网](https://chenxiachan.github.io/thoughtdag/) · 个人维护 · 中文 README
+⭐ 806 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/chenxiachan/thoughtdag) · [官网](https://chenxiachan.github.io/thoughtdag/) · 个人维护 · 中文 README
 
 **给 LLM 对话者的无限画布：把上下文接线变成可编辑的思维图**
 

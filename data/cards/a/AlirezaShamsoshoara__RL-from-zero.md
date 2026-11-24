@@ -1,6 +1,6 @@
 # AlirezaShamsoshoara/RL-from-zero
 
-⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/AlirezaShamsoshoara/RL-from-zero) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/AlirezaShamsoshoara/RL-from-zero) · 个人维护
 
 **从零实现 13 种强化学习算法的 PyTorch 学习项目**
 

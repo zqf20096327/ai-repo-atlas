@@ -1,6 +1,6 @@
 # MiXaiLL76/auto_ai_router
 
-⭐ 58 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/MiXaiLL76/auto_ai_router) · [官网](https://mixaill76.github.io/auto_ai_router/) · 个人维护
+⭐ 58 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MiXaiLL76/auto_ai_router) · [官网](https://mixaill76.github.io/auto_ai_router/) · 个人维护
 
 **面向多 LLM API 的高性能代理路由与负载均衡网关**
 

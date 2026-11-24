@@ -1,6 +1,6 @@
 # ixiondt/photosweep
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ixiondt/photosweep) · 个人维护
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ixiondt/photosweep) · 个人维护
 
 **自托管 Nextcloud 照片库清理工具：本地视觉模型分类+感知哈希找重**
 

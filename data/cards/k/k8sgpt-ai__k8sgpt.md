@@ -1,6 +1,6 @@
 # k8sgpt-ai/k8sgpt
 
-⭐ 8,348 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/k8sgpt-ai/k8sgpt) · [官网](http://k8sgpt.ai) · 组织维护
+⭐ 8,348 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/k8sgpt-ai/k8sgpt) · [官网](http://k8sgpt.ai) · 组织维护
 
 **扫描 Kubernetes 集群并用 LLM 解释诊断结果的 CLI/Operator**
 

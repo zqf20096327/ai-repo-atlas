@@ -1,6 +1,6 @@
 # brtydse100/litegate
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/brtydse100/litegate) · [官网](https://brtydse100.github.io/litegate/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/brtydse100/litegate) · [官网](https://brtydse100.github.io/litegate/) · 个人维护
 
 **给组织自助发放管理 LiteLLM API 密钥的门户**
 

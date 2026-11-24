@@ -1,6 +1,6 @@
 # darksemfiltro/clonar-programa
 
-⭐ 29 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/darksemfiltro/clonar-programa) · [官网](https://github.com/darksemfiltro/clonar-programa) · 个人维护
+⭐ 31 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/darksemfiltro/clonar-programa) · [官网](https://github.com/darksemfiltro/clonar-programa) · 个人维护
 
 **引导 LLM 代理按证据-架构-spec 流程克隆网站与桌面程序的 skill**
 

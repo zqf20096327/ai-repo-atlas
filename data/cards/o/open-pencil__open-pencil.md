@@ -1,10 +1,10 @@
 # open-pencil/open-pencil
 
-⭐ 10,024 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-pencil/open-pencil) · [官网](https://openpencil.dev) · 组织维护
+⭐ 10,065 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/open-pencil/open-pencil) · [官网](https://openpencil.dev) · 组织维护
 
-**面向设计师与开发者的开源设计编辑器，可读写 .fig 文件**
+**开源设计编辑器：读写 .fig 文件并内置 AI 生成设计**
 
-基于 Vue 3、Skia WASM 与 Tauri v2 的开源设计编辑器，读取与写入 Figma 原生 .fig 文件及自有 .pen 格式。提供桌面应用（约 15 MB）与网页 PWA 两种形态。内置 AI 聊天助手带 100+ 工具可创建和修改画布节点，采用自带 API key 模式且无后端依赖。通过 headless CLI、XPath 查询、Figma Plugin API 的 eval 接口、MCP 服务器与 headless Vue SDK 实现全量可编程性。支持 WebRTC P2P 实时协作（无需服务器与账号）、组件与变体、设计转代码导出。当前处于活跃开发状态。
+基于 Tauri/Skia 的开源设计编辑器，可读写 Figma 原生 .fig 文件，支持组件、自动布局、实时 P2P 协作与设计转代码导出。内置 AI 助手带 100+ 工具，通过自带 API key 调用多家模型在画布上创建和修改节点；提供 headless CLI（XPath 查询、lint、格式转换）、MCP server、Figma Plugin API 兼容的 eval，以及嵌入自定义编辑器的 Vue SDK。处于活跃开发状态，存在未打磨之处。
 
 ## 筛选速览
 
@@ -13,34 +13,34 @@
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 读取并写入 Figma 原生 .fig 文件，本地优先
-- 内置 AI 助手 100+ 工具修改画布，自带 key、无后端
-- headless CLI + XPath + Plugin API eval + MCP 服务器
-- WebRTC P2P 实时协作，含光标、跟随模式与语音通话
+- 读写 Figma 原生 .fig 文件，本地优先，MIT 开源
+- 内置 AI 助手 100+ 工具创建/修改画布节点，BYOK 多供应商
+- headless CLI + MCP server + Figma Plugin API 兼容 eval，全流程可脚本化
+- WebRTC P2P 实时协作，无需服务器与账号
 
 ## 适用场景
 
-- 在没有 Figma 订阅的环境下打开和编辑 .fig 设计文件
-- 让 AI 编码代理通过 MCP 检查和修改设计文档
-- 用 CLI 对设计文件做批量导出、lint 与设计 token 提取
-- 团队通过分享链接进行免服务器的实时协作设计
+- 无 Figma 账号时打开和编辑 .fig 设计文件
+- 让 AI 编码代理通过 MCP 检查和修改设计稿
+- 批量导出、lint 设计文件并提取 design tokens
+- 为自己的应用嵌入可编程的设计编辑界面
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+ · 领域:设计/创意工具
 
 ## 证据(README 行号)
 
-> L9: Open-source design editor. Opens `.fig` and `.pen` design files, includes built-in AI, and ships as a programmable t
 > L34: - **AI builds designs** — describe what you want in chat, 100+ tools create and modify nodes. Bring your own key fo
-> L45: - **~15 MB desktop app** — Tauri v2 for macOS, Windows, Linux. Also runs in the browser as a PWA
+> L9: Open-source design editor. Opens `.fig` and `.pen` design files, includes built-in AI, and ships as a programmable t
+> L41: - **Vue SDK for custom editors** — headless components and composables for embedding OpenPencil into other apps or 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a7867569e0ec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8244d3ba7be6` · [字段定义](../../DATASET.md)*

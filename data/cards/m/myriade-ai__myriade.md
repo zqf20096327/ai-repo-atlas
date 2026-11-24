@@ -1,6 +1,6 @@
 # myriade-ai/myriade
 
-⭐ 62 · Shell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/myriade-ai/myriade) · [官网](https://www.myriade.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向企业数据仓库的 AI 分析师：自然语言查询与数据治理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # seko121/oktobot-releases
 
-⭐ 8 · 推送 2026-11-19 · [GitHub](https://github.com/seko121/oktobot-releases) · 个人维护
+⭐ 8 · 推送 2026-11-23 · [GitHub](https://github.com/seko121/oktobot-releases) · 个人维护
 
 **安卓端 AI agent：代用户操作手机完成任务**
 

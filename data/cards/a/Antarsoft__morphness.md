@@ -1,6 +1,6 @@
 # Antarsoft/morphness
 
-⭐ 7 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Antarsoft/morphness) · [官网](https://morphness.dev/) · 组织维护
+⭐ 7 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Antarsoft/morphness) · [官网](https://morphness.dev/) · 组织维护
 
 **Claude Code 的防护钩子与自学习 agent 流程套件**
 

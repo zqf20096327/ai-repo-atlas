@@ -1,6 +1,6 @@
 # umutkeltek/healthsave-observatory
 
-⭐ 107 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/umutkeltek/healthsave-observatory) · [官网](https://healthsave.app/for/self-hosters/) · 个人维护
+⭐ 107 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/umutkeltek/healthsave-observatory) · [官网](https://healthsave.app/for/self-hosters/) · 个人维护
 
 **自托管健康数据观测台：聚合 Apple Health/穿戴设备数据并提供本地 AI 解读**
 

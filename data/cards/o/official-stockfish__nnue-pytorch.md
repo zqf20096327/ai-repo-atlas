@@ -1,6 +1,6 @@
 # official-stockfish/nnue-pytorch
 
-⭐ 510 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/official-stockfish/nnue-pytorch) · 组织维护
+⭐ 510 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/official-stockfish/nnue-pytorch) · 组织维护
 
 **Stockfish NNUE 国际象棋评估网络的 PyTorch 训练器**
 

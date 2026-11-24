@@ -1,6 +1,6 @@
 # ace-builder/Robbi
 
-⭐ 23 · Python · 推送 2026-11-06 · [GitHub](https://github.com/ace-builder/Robbi) · [官网](https://youtube.com/@acebuilder-diy) · 个人维护
+⭐ 24 · Python · 推送 2026-11-06 · [GitHub](https://github.com/ace-builder/Robbi) · [官网](https://youtube.com/@acebuilder-diy) · 个人维护
 
 **DIY 树莓派 AI 桌面伴侣机器人：自带表情脸、摄像头与语音**
 

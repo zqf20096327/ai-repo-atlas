@@ -1,6 +1,6 @@
 # Card-Forge/forge
 
-⭐ 2,925 · Java · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Card-Forge/forge) · [官网](https://card-forge.github.io/forge/) · 组织维护
+⭐ 2,927 · Java · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Card-Forge/forge) · [官网](https://card-forge.github.io/forge/) · 组织维护
 
 **跨平台万智牌（MTG）规则引擎与单人/在线对局客户端**
 

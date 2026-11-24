@@ -1,6 +1,6 @@
 # google/mantis
 
-⭐ 2,814 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/google/mantis) · [官网](https://cloud.google.com/) · 组织维护
+⭐ 2,818 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google/mantis) · [官网](https://cloud.google.com/) · 组织维护
 
 **给 AI 编码 agent 的漏洞发现、复现与修补工具包**
 

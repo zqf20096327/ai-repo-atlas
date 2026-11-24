@@ -1,6 +1,6 @@
 # mcpland/webpage-mcp
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mcpland/webpage-mcp) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mcpland/webpage-mcp) · 组织维护
 
 **把现有网页/浏览器暴露为 MCP 服务器，供 AI 客户端控制**
 

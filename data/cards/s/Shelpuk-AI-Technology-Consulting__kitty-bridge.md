@@ -1,6 +1,6 @@
 # Shelpuk-AI-Technology-Consulting/kitty-bridge
 
-⭐ 16 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge) · [官网](https://www.shelpuk.com) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Shelpuk-AI-Technology-Consulting/kitty-bridge) · [官网](https://www.shelpuk.com) · 组织维护
 
 **本地 LLM 代理桥：让 Claude Code/Codex 等编码 agent 接入任意模型商**
 

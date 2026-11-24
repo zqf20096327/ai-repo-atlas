@@ -1,6 +1,6 @@
 # bio-ontology-research-group/mowl
 
-⭐ 98 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/bio-ontology-research-group/mowl) · 组织维护
+⭐ 98 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/bio-ontology-research-group/mowl) · 组织维护
 
 **基于本体背景知识的机器学习 Python 库，面向生物医学研究**
 

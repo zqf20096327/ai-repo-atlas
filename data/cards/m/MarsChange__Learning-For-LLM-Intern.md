@@ -1,6 +1,6 @@
 # MarsChange/Learning-For-LLM-Intern
 
-⭐ 37 · 推送 2026-11-08 · [GitHub](https://github.com/MarsChange/Learning-For-LLM-Intern) · 个人维护 · 中文 README
+⭐ 38 · 推送 2026-11-08 · [GitHub](https://github.com/MarsChange/Learning-For-LLM-Intern) · 个人维护 · 中文 README
 
 **面向大模型算法实习面试的个人学习笔记库（Obsidian）**
 

@@ -1,6 +1,6 @@
 # OpenCSGs/csghub
 
-⭐ 4,086 · Vue · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/OpenCSGs/csghub) · [官网](https://opencsg.com) · 组织维护 · 中文 README
+⭐ 4,085 · Vue · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/OpenCSGs/csghub) · [官网](https://opencsg.com) · 组织维护 · 中文 README
 
 **面向企业的开源 LLM 资产管理平台，提供上传/下载/部署全流程**
 

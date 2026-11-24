@@ -1,6 +1,6 @@
 # lee259/oh-my-claudian
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lee259/oh-my-claudian) · [官网](https://community.obsidian.md/plugins/oh-my-claudian) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lee259/oh-my-claudian) · [官网](https://community.obsidian.md/plugins/oh-my-claudian) · 个人维护 · 中文 README
 
 **在 Obsidian 内接入多种编码 agent 做笔记对话与行内编辑的插件**
 

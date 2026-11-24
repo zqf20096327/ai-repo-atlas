@@ -1,6 +1,6 @@
 # Mingbird/Mingbird-agent
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Mingbird/Mingbird-agent) · 个人维护 · 中文 README
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Mingbird/Mingbird-agent) · 个人维护 · 中文 README
 
 **本地优先的桌面 agent 执行器：让 2–9B 小模型在核显笔记本上完成实际任务**
 

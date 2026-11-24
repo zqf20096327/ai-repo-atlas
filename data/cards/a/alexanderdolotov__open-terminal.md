@@ -1,6 +1,6 @@
 # alexanderdolotov/open-terminal
 
-⭐ 17 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/alexanderdolotov/open-terminal) · [官网](https://tesseractanalytics.ai) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/alexanderdolotov/open-terminal) · [官网](https://tesseractanalytics.ai) · 个人维护
 
 **给个人投资者的自托管金融研究终端，整合 SEC 财报、股价与 AI 分析**
 

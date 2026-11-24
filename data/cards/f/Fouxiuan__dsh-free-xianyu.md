@@ -1,6 +1,6 @@
 # Fouxiuan/dsh-free-xianyu
 
-⭐ 6 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Fouxiuan/dsh-free-xianyu) · 个人维护 · 中文 README
+⭐ 7 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Fouxiuan/dsh-free-xianyu) · 个人维护 · 中文 README
 
 **把闲鱼二手商品监控装进 DeepSeek Harness 的免费模型插件**
 

@@ -1,6 +1,6 @@
 # EndoTheDev/omega
 
-⭐ 12 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EndoTheDev/omega) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/EndoTheDev/omega) · 个人维护
 
 **自托管 AI agent 平台：单二进制 CLI+WebUI，多 LLM 路由**
 

@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-K2-Editorial
 
-⭐ 30 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/lingdongbudong/Comfyui-K2-Editorial) · 个人维护 · 中文 README
+⭐ 39 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/lingdongbudong/Comfyui-K2-Editorial) · [官网](https://space.bilibili.com/516891894) · 个人维护 · 中文 README
 
 **给 ComfyUI 用户自动装配 Krea2 长文图像提示词的节点**
 

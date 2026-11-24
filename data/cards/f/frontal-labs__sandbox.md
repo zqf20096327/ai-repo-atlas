@@ -1,6 +1,6 @@
 # frontal-labs/sandbox
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/frontal-labs/sandbox) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/frontal-labs/sandbox) · 组织维护
 
 **为 AI agent 提供毫秒级沙箱执行环境的基础设施**
 

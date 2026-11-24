@@ -1,6 +1,6 @@
 # Devildonia/HaDeS-MOSS-Suite
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Devildonia/HaDeS-MOSS-Suite) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Devildonia/HaDeS-MOSS-Suite) · 个人维护
 
 **ComfyUI 的 MOSS-Image 模型节点套件：加载、合并与 LoRA 管理**
 

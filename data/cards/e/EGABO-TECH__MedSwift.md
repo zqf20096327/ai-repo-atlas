@@ -1,6 +1,6 @@
 # EGABO-TECH/MedSwift
 
-⭐ 10 · JavaScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/EGABO-TECH/MedSwift) · [官网](https://med-swift-app.vercel.app/) · 组织维护
+⭐ 17 · JavaScript · MIT · 推送 2026-08-31 · [GitHub](https://github.com/EGABO-TECH/MedSwift) · [官网](https://med-swift-app.vercel.app/) · 组织维护
 
 **面向临床与供应链的摄像头药品识别审计 PWA**
 

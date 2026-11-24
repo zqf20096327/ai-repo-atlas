@@ -1,6 +1,6 @@
 # llm-d/llm-d-kv-cache
 
-⭐ 197 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/llm-d/llm-d-kv-cache) · [官网](https://www.llm-d.ai) · 组织维护
+⭐ 198 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/llm-d/llm-d-kv-cache) · [官网](https://www.llm-d.ai) · 组织维护
 
 **vLLM 平台的分布式 KV 缓存调度与卸载库**
 

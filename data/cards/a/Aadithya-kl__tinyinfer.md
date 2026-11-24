@@ -1,6 +1,6 @@
 # Aadithya-kl/tinyinfer
 
-⭐ 3 · C++ · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Aadithya-kl/tinyinfer) · 个人维护
+⭐ 4 · C++ · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Aadithya-kl/tinyinfer) · 个人维护
 
 **从零手写 CUDA 内核的 Llama 系推理引擎，可在笔记本 GPU 上本地运行**
 

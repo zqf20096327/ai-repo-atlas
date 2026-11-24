@@ -1,6 +1,6 @@
 # 4ndr0666/gpt
 
-⭐ 27 · Python · 推送 2026-11-15 · [GitHub](https://github.com/4ndr0666/gpt) · 个人维护
+⭐ 27 · Python · 推送 2026-11-23 · [GitHub](https://github.com/4ndr0666/gpt) · 个人维护
 
 **面向 LLM 对齐测试的红队提示注入与越狱载荷合集**
 

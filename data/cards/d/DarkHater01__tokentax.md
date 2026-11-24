@@ -1,6 +1,6 @@
 # DarkHater01/tokentax
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DarkHater01/tokentax) · [官网](https://darkhater01.github.io/tokentax/) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DarkHater01/tokentax) · [官网](https://darkhater01.github.io/tokentax/) · 个人维护
 
 **AI agent token 浪费测量基准：tax=花费/必要，按模型×harness 排名**
 

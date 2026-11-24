@@ -1,6 +1,6 @@
 # beita6969/ScienceClaw
 
-⭐ 1,033 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/beita6969/ScienceClaw) · [官网](https://scienceclaw.science) · 个人维护
+⭐ 1,033 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/beita6969/ScienceClaw) · [官网](https://scienceclaw.science) · 个人维护
 
 **科研 agent 系统：执行证据经重放验证后固化为可复用技能与算子**
 

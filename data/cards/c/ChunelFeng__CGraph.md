@@ -1,6 +1,6 @@
 # ChunelFeng/CGraph
 
-⭐ 2,321 · C++ · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ChunelFeng/CGraph) · [官网](http://www.chunel.cn) · 个人维护 · 中文 README
+⭐ 2,321 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ChunelFeng/CGraph) · [官网](http://www.chunel.cn) · 个人维护 · 中文 README
 
 **给开发者用的无依赖跨平台 C++/Python DAG 流程框架**
 

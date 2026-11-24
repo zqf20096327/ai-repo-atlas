@@ -1,6 +1,6 @@
 # AliAkhtari78/SpotifyScraper
 
-⭐ 324 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/AliAkhtari78/SpotifyScraper) · [官网](https://spotifyscraper.readthedocs.io/en/latest) · 个人维护
+⭐ 325 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/AliAkhtari78/SpotifyScraper) · [官网](https://spotifyscraper.readthedocs.io/en/latest) · 个人维护
 
 **免 API key 抓取 Spotify 公开数据的 Python 库**
 

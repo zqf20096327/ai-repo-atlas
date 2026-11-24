@@ -1,6 +1,6 @@
 # PIsberg/vibetags
 
-⭐ 25 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PIsberg/vibetags) · 个人维护
+⭐ 25 · Java · MIT · 推送 2026-11-24 · [GitHub](https://github.com/PIsberg/vibetags) · 个人维护
 
 **Java 注解处理器：编译期生成 29 个 AI 编码工具的护栏配置**
 

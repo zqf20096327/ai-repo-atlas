@@ -1,6 +1,6 @@
 # Peuqui/AIfred-Intelligence
 
-⭐ 40 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Peuqui/AIfred-Intelligence) · [官网](https://peuqui.github.io/AIfred-Intelligence/) · 个人维护
+⭐ 40 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Peuqui/AIfred-Intelligence) · [官网](https://peuqui.github.io/AIfred-Intelligence/) · 个人维护
 
 **自托管多智能体 AI 助手：本地推理、语音、工具链与多渠道触达**
 

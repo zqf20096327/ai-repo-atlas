@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-blog
 
-⭐ 2,836 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/AgriciDaniel/claude-blog) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 2,843 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/AgriciDaniel/claude-blog) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **Claude Code 插件：调研来源并生成经审校打分的博客文章**
 

@@ -1,6 +1,6 @@
 # OSUPCVLab/SegFormer3D
 
-⭐ 221 · Python · GPL-3.0 · 推送 2026-03-21 · [GitHub](https://github.com/OSUPCVLab/SegFormer3D) · [官网](https://osupcvlab.github.io/SegFormer3D/) · 组织维护
+⭐ 222 · Python · GPL-3.0 · 推送 2026-03-21 · [GitHub](https://github.com/OSUPCVLab/SegFormer3D) · [官网](https://osupcvlab.github.io/SegFormer3D/) · 组织维护
 
 **CVPR 2024 论文官方实现：3D 医学图像分割 Transformer 架构**
 

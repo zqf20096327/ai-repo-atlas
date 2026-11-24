@@ -1,6 +1,6 @@
 # Scottcjn/llama-cpp-power8
 
-⭐ 126 · C · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Scottcjn/llama-cpp-power8) · [官网](https://rustchain.org) · 个人维护
+⭐ 126 · C · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Scottcjn/llama-cpp-power8) · [官网](https://rustchain.org) · 个人维护
 
 **llama.cpp 的 IBM POWER8 优化补丁集：向量与缓存级提速推理**
 

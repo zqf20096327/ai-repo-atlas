@@ -1,6 +1,6 @@
 # anipottsbuilds/imessage-mcp
 
-⭐ 34 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/anipottsbuilds/imessage-mcp) · [官网](https://npmjs.com/package/imessage-mcp) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anipottsbuilds/imessage-mcp) · [官网](https://npmjs.com/package/imessage-mcp) · 个人维护
 
 **本地只读读取 macOS iMessage 历史给 MCP 客户端的服务器**
 

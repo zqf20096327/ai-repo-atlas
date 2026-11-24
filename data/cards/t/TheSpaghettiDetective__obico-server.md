@@ -1,6 +1,6 @@
 # TheSpaghettiDetective/obico-server
 
-⭐ 1,933 · Vue · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/TheSpaghettiDetective/obico-server) · [官网](https://www.obico.io/docs/server-guides/) · 组织维护
+⭐ 1,934 · Vue · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/TheSpaghettiDetective/obico-server) · [官网](https://www.obico.io/docs/server-guides/) · 组织维护
 
 **3D 打印机 AI 失败检测与远程监控的自托管服务器**
 

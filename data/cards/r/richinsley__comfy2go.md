@@ -1,6 +1,6 @@
 # richinsley/comfy2go
 
-⭐ 79 · Go · MIT · 推送 2026-01-13 · [GitHub](https://github.com/richinsley/comfy2go) · 个人维护
+⭐ 80 · Go · MIT · 推送 2026-01-13 · [GitHub](https://github.com/richinsley/comfy2go) · 个人维护
 
 **Go 库：桥接 ComfyUI 后端，提供工作流访问 API**
 

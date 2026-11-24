@@ -1,6 +1,6 @@
 # atlassian/atlassian-mcp-server
 
-⭐ 1,185 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/atlassian/atlassian-mcp-server) · [官网](https://atlassian.com/platform/rovo-mcp) · 组织维护
+⭐ 1,186 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/atlassian/atlassian-mcp-server) · [官网](https://atlassian.com/platform/rovo-mcp) · 组织维护
 
 **官方远程 MCP 服务器：让 AI 工具安全读写 Atlassian 数据**
 

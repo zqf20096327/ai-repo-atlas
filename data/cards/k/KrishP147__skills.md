@@ -1,6 +1,6 @@
 # KrishP147/skills
 
-⭐ 37 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/KrishP147/skills) · [官网](https://www.krishpunjabi.com/skills) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KrishP147/skills) · [官网](https://www.krishpunjabi.com/skills) · 个人维护
 
 **给开发者的 Claude Code 技能/子代理集合：规划、编排与多账号工作流**
 

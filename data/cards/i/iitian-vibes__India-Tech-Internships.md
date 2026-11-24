@@ -1,6 +1,6 @@
 # iitian-vibes/India-Tech-Internships
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/iitian-vibes/India-Tech-Internships) · [官网](https://iitianvibes.com/blog/deadline-desk/) · 组织维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iitian-vibes/India-Tech-Internships) · [官网](https://iitianvibes.com/blog/deadline-desk/) · 组织维护
 
 **面向印度工科学生的科技实习与竞赛每日更新清单**
 

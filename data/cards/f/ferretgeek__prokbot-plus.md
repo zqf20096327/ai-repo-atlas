@@ -1,6 +1,6 @@
 # ferretgeek/prokbot-plus
 
-⭐ 146 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ferretgeek/prokbot-plus) · 个人维护 · 中文 README
+⭐ 149 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ferretgeek/prokbot-plus) · 个人维护 · 中文 README
 
 **自托管运行 Grok Bot 的服务端与客户端补丁，模型自选**
 

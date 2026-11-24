@@ -1,6 +1,6 @@
 # SciSharp/LLamaSharp
 
-⭐ 3,826 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SciSharp/LLamaSharp) · [官网](https://scisharp.github.io/LLamaSharp) · 组织维护 · 中文 README
+⭐ 3,825 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SciSharp/LLamaSharp) · [官网](https://scisharp.github.io/LLamaSharp) · 组织维护 · 中文 README
 
 **在本地设备运行 LLaMA 等模型的 C#/.NET 库**
 

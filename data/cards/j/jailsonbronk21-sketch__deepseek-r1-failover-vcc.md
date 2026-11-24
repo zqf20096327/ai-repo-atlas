@@ -1,6 +1,6 @@
 # jailsonbronk21-sketch/deepseek-r1-failover-vcc
 
-⭐ 85 · 推送 2026-10-31 · [GitHub](https://github.com/jailsonbronk21-sketch/deepseek-r1-failover-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 94 · 推送 2026-10-31 · [GitHub](https://github.com/jailsonbronk21-sketch/deepseek-r1-failover-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向 DeepSeek 用户的付费开卡推广页：引导用 CoreGold 虚拟卡充值**
 

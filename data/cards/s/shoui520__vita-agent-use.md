@@ -1,6 +1,6 @@
 # shoui520/vita-agent-use
 
-⭐ 25 · C · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/shoui520/vita-agent-use) · 个人维护
+⭐ 26 · C · GPL-3.0 · 推送 2026-10-31 · [GitHub](https://github.com/shoui520/vita-agent-use) · 个人维护
 
 **让 AI agent 远程操控 PS Vita 的代理工具（视觉/输入/部署/调试）**
 

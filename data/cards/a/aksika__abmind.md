@@ -1,6 +1,6 @@
 # aksika/abmind
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/aksika/abmind) · [官网](https://aksika.github.io/) · 个人维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aksika/abmind) · [官网](https://aksika.github.io/) · 个人维护
 
 **面向 AI agent 的持久记忆与 RAG 引擎：存储、召回、整理、遗忘**
 

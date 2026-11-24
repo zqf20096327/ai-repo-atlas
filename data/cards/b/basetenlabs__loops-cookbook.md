@@ -1,6 +1,6 @@
 # basetenlabs/loops-cookbook
 
-⭐ 7 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/basetenlabs/loops-cookbook) · [官网](https://docs.baseten.co/loops/overview) · 组织维护
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/basetenlabs/loops-cookbook) · [官网](https://docs.baseten.co/loops/overview) · 组织维护
 
 **面向 Baseten Loops 用户的 RL/SFT 后训练模板与配方集**
 

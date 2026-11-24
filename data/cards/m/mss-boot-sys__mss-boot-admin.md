@@ -1,6 +1,6 @@
 # mss-boot-sys/mss-boot-admin
 
-⭐ 5 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mss-boot-sys/mss-boot-admin) · [官网](docs.mss-boot-io.top Topics) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给开发者提供 RBAC 与 API 注册的 Go 管理后台基础框架**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

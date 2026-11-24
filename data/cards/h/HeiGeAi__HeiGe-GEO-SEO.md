@@ -1,6 +1,6 @@
 # HeiGeAi/HeiGe-GEO-SEO
 
-⭐ 100 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HeiGeAi/HeiGe-GEO-SEO) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HeiGeAi/HeiGe-GEO-SEO) · 个人维护 · 中文 README
 
 **中国市场优先的 GEO+SEO 内容优化工具包：让内容被 AI 引用**
 

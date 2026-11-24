@@ -1,6 +1,6 @@
 # serpro69/capy
 
-⭐ 15 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/serpro69/capy) · 个人维护
+⭐ 15 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/serpro69/capy) · 个人维护
 
 **本地 MCP 服务器：帮编程代理处理大输出、免撑爆上下文**
 

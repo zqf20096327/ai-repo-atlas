@@ -1,6 +1,6 @@
 # hameefy/claude-latex-skill
 
-⭐ 13 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/hameefy/claude-latex-skill) · [官网](https://github.com/hameefy/claude-latex-skill/releases/latest) · 个人维护
+⭐ 14 · MIT · 推送 2026-10-08 · [GitHub](https://github.com/hameefy/claude-latex-skill) · [官网](https://github.com/hameefy/claude-latex-skill/releases/latest) · 个人维护
 
 **让 Claude 生成可编译数学 LaTeX 的技能文件（SKILL.md）**
 

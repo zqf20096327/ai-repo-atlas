@@ -1,6 +1,6 @@
 # AceSpike/StarT-Novel
 
-⭐ 4 · TypeScript · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/AceSpike/StarT-Novel) · [官网](https://acespike.github.io/StarT-Novel/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地运行的 AI 长篇中文网文创作桌面应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

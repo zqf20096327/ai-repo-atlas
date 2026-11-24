@@ -1,6 +1,6 @@
 # iMoonLab/Hyper-RAG
 
-⭐ 331 · Python · Apache-2.0 · 推送 2026-06-27 · [GitHub](https://github.com/iMoonLab/Hyper-RAG) · [官网](https://www.nature.com/articles/s41467-026-71411-1) · 组织维护
+⭐ 332 · Python · Apache-2.0 · 推送 2026-06-27 · [GitHub](https://github.com/iMoonLab/Hyper-RAG) · [官网](https://www.nature.com/articles/s41467-026-71411-1) · 组织维护
 
 **超图驱动的 RAG 框架：建模高阶关联以降低 LLM 幻觉**
 

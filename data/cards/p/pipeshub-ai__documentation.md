@@ -1,6 +1,6 @@
 # pipeshub-ai/documentation
 
-⭐ 20 · MDX · 推送 2026-11-22 · [GitHub](https://github.com/pipeshub-ai/documentation) · [官网](https://docs.pipeshub.com) · 组织维护
+⭐ 20 · MDX · 推送 2026-11-23 · [GitHub](https://github.com/pipeshub-ai/documentation) · [官网](https://docs.pipeshub.com) · 组织维护
 
 **PipesHub（AI 搜索/上下文层）官方文档站源码仓库**
 

@@ -1,6 +1,6 @@
 # ebarti/JobCtrl
 
-⭐ 85 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ebarti/JobCtrl) · [官网](https://jobctrl.dev) · 个人维护
+⭐ 85 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ebarti/JobCtrl) · [官网](https://jobctrl.dev) · 个人维护
 
 **本地优先的求职自动化应用：发现岗位、评分、定制简历**
 

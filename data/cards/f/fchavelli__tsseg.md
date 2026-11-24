@@ -1,6 +1,6 @@
 # fchavelli/tsseg
 
-⭐ 18 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/fchavelli/tsseg) · [官网](https://fchavelli.github.io/tsseg) · 组织维护
+⭐ 19 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/fchavelli/tsseg) · [官网](https://fchavelli.github.io/tsseg) · 组织维护
 
 **Python 时间序列分割库：30+ 变点/状态检测算法统一 API**
 

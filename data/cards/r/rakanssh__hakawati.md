@@ -1,6 +1,6 @@
 # rakanssh/hakawati
 
-⭐ 24 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/rakanssh/hakawati) · [官网](https://hakawati.dev) · 个人维护
+⭐ 24 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/rakanssh/hakawati) · [官网](https://hakawati.dev) · 个人维护
 
 **跨平台开源 AI 文字冒险游戏，支持自有 API key 或本地模型**
 

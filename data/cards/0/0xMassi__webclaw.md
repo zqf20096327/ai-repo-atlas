@@ -1,6 +1,6 @@
 # 0xMassi/webclaw
 
-⭐ 2,443 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护
+⭐ 2,443 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护
 
 **面向 AI agent 与 RAG 的本地网页内容提取工具（CLI/MCP/REST）**
 

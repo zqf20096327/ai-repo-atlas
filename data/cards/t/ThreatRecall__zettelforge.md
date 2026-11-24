@@ -1,6 +1,6 @@
 # ThreatRecall/zettelforge
 
-⭐ 67 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ThreatRecall/zettelforge) · [官网](https://docs.threatrecall.ai/) · 组织维护
+⭐ 68 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ThreatRecall/zettelforge) · [官网](https://docs.threatrecall.ai/) · 组织维护
 
 **面向网络威胁情报的 Python agent 记忆系统：STIX 知识图谱+离线 RAG**
 

@@ -1,6 +1,6 @@
 # PeepSick/usbplus
 
-⭐ 12 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PeepSick/usbplus) · [官网](https://usbplus.peepsicklabs.com) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/PeepSick/usbplus) · [官网](https://usbplus.peepsicklabs.com) · 组织维护
 
 **面向 agent 生态的技能安装与信任校验 CLI**
 

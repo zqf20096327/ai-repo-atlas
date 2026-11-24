@@ -1,6 +1,6 @@
 # vibe-coding-labs/AtomCode2Api
 
-⭐ 17 · Go · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/vibe-coding-labs/AtomCode2Api) · [官网](https://github.com/vibe-coding-labs/AtomCodeProxy) · 组织维护 · 中文 README
+⭐ 18 · Go · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/vibe-coding-labs/AtomCode2Api) · [官网](https://github.com/vibe-coding-labs/AtomCodeProxy) · 组织维护 · 中文 README
 
 **把 AtomCode 免费额度转成 OpenAI/Anthropic 标准接口的代理**
 

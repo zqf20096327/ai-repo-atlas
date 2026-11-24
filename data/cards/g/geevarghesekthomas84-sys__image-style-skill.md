@@ -1,6 +1,6 @@
 # geevarghesekthomas84-sys/image-style-skill
 
-⭐ 4 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/geevarghesekthomas84-sys/image-style-skill) · [官网](https://glogee.online) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/geevarghesekthomas84-sys/image-style-skill) · [官网](https://glogee.online) · 个人维护
 
 **为 AI 图像创作者提供 403 条斜杠命令生成各工具格式的提示词**
 

@@ -1,6 +1,6 @@
 # heng30/wayshot
 
-⭐ 67 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/heng30/wayshot) · 个人维护 · 中文 README
+⭐ 66 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/heng30/wayshot) · 个人维护 · 中文 README
 
 **带大量 AI 辅助功能的视频编辑、录屏、推流与屏幕共享桌面工具**
 

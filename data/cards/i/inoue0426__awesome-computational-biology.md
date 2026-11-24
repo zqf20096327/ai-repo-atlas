@@ -1,6 +1,6 @@
 # inoue0426/awesome-computational-biology
 
-⭐ 163 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/inoue0426/awesome-computational-biology) · 个人维护
+⭐ 163 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/inoue0426/awesome-computational-biology) · 个人维护
 
 **计算生物学资源清单：数据库、软件与论文策展**
 

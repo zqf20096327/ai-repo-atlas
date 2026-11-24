@@ -1,6 +1,6 @@
 # jarmo-productory/ritemark-public
 
-⭐ 17 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/jarmo-productory/ritemark-public) · 组织维护
+⭐ 17 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jarmo-productory/ritemark-public) · 组织维护
 
 **面向非程序员的本地优先 AI agent Markdown 编辑器**
 

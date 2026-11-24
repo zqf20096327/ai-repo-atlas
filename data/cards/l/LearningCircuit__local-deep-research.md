@@ -1,6 +1,6 @@
 # LearningCircuit/local-deep-research
 
-⭐ 9,619 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LearningCircuit/local-deep-research) · 组织维护
+⭐ 9,639 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/LearningCircuit/local-deep-research) · 组织维护
 
 **本地运行的 AI 深度研究助手，生成带引用的研究报告**
 

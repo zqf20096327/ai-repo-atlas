@@ -1,6 +1,6 @@
 # ratschlab/DeepSpotM
 
-⭐ 67 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ratschlab/DeepSpotM) · [官网](https://doi.org/10.64898/2026.06.19.26356060 ) · 组织维护
+⭐ 67 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ratschlab/DeepSpotM) · [官网](https://doi.org/10.64898/2026.06.19.26356060 ) · 组织维护
 
 **从 H&E 组织学图像预测全转录组空间基因表达的多模态基础模型**
 

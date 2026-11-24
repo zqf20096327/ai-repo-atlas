@@ -1,6 +1,6 @@
 # PerryLink/dsh-composer-history
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-composer-history) · [官网](https://www.npmjs.com/package/dsh-composer-history) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-composer-history) · [官网](https://www.npmjs.com/package/dsh-composer-history) · 个人维护 · 中文 README
 
 **DeepSeek Harness 网页输入框的终端式历史插件**
 

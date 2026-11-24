@@ -1,6 +1,6 @@
 # ilovepixelart/pi-code
 
-⭐ 38 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ilovepixelart/pi-code) · [官网](https://npmjs.com/package/pi-code) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ilovepixelart/pi-code) · [官网](https://npmjs.com/package/pi-code) · 个人维护
 
 **为 pi 编码 agent 复用 Claude Code 配置与功能的扩展包**
 

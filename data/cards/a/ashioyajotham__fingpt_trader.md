@@ -1,6 +1,6 @@
 # ashioyajotham/fingpt_trader
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/ashioyajotham/fingpt_trader) · 个人维护
+⭐ 30 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ashioyajotham/fingpt_trader) · 个人维护
 
 **Falcon-7B 情感驱动的加密货币量化交易系统**
 

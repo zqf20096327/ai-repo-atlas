@@ -1,6 +1,6 @@
 # inginddie/elissa
 
-⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/inginddie/elissa) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/inginddie/elissa) · 个人维护
 
 **给 Windows 等桌面用户一个带虚拟形象、可确认操作的语音 AI 助手**
 

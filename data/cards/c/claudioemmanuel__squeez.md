@@ -1,6 +1,6 @@
 # claudioemmanuel/squeez
 
-⭐ 242 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/claudioemmanuel/squeez) · 个人维护
+⭐ 242 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/claudioemmanuel/squeez) · 个人维护
 
 **给 AI 编程 CLI 用户的 hook 式 token 压缩器**
 

@@ -1,6 +1,6 @@
 # inclusionAI/AReno
 
-⭐ 401 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/inclusionAI/AReno) · 组织维护 · 中文 README
+⭐ 408 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/inclusionAI/AReno) · 组织维护 · 中文 README
 
 **单节点本地 LLM 强化学习后训练工具包**
 

@@ -1,6 +1,6 @@
 # csinva/weight-space-programming-autoresearch
 
-⭐ 127 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/csinva/weight-space-programming-autoresearch) · [官网](https://arxiv.org/abs/2611.18114) · 组织维护
+⭐ 131 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/csinva/weight-space-programming-autoresearch) · [官网](https://arxiv.org/abs/2611.18114) · 组织维护
 
 **LLM agent 直接编写模型权重的可解释建模研究代码库**
 

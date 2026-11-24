@@ -1,6 +1,6 @@
 # PerryLink/dsh-checkpoint-rewind
 
-⭐ 33 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-checkpoint-rewind) · [官网](https://www.npmjs.com/package/dsh-checkpoint-rewind) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-checkpoint-rewind) · [官网](https://www.npmjs.com/package/dsh-checkpoint-rewind) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的检查点/回滚插件：三态快照一键恢复**
 

@@ -1,6 +1,6 @@
 # microsoft/CopilotStudioSamples
 
-⭐ 811 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/CopilotStudioSamples) · 组织维护
+⭐ 809 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/CopilotStudioSamples) · 组织维护
 
 **微软 Copilot Studio 官方示例与制品合集**
 

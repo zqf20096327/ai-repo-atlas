@@ -1,6 +1,6 @@
 # video-db/videodb-capture-quickstart
 
-⭐ 29 · Python · ISC · 推送 2026-11-18 · [GitHub](https://github.com/video-db/videodb-capture-quickstart) · [官网](https://docs.videodb.io/pages/ingest/capture-sdks/overview) · 组织维护
+⭐ 29 · Python · ISC · 推送 2026-11-23 · [GitHub](https://github.com/video-db/videodb-capture-quickstart) · [官网](https://docs.videodb.io/pages/ingest/capture-sdks/overview) · 组织维护
 
 **给 AI agent 提供实时桌面感知的屏幕/音频采集 SDK**
 

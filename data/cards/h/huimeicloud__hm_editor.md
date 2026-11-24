@@ -1,6 +1,6 @@
 # huimeicloud/hm_editor
 
-⭐ 125 · HTML · LGPL-2.1 · 推送 2026-09-30 · [GitHub](https://github.com/huimeicloud/hm_editor) · [官网](https://editor.huimei.com/) · 组织维护 · 中文 README
+⭐ 126 · HTML · LGPL-2.1 · 推送 2026-09-30 · [GitHub](https://github.com/huimeicloud/hm_editor) · [官网](https://editor.huimei.com/) · 组织维护 · 中文 README
 
 **面向医疗信息化的开源电子病历编辑器内核，支持AI服务对接**
 

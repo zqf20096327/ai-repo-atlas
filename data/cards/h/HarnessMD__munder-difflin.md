@@ -1,6 +1,6 @@
 # HarnessMD/munder-difflin
 
-⭐ 9,695 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HarnessMD/munder-difflin) · [官网](https://munderdiffl.in) · 组织维护
+⭐ 9,703 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HarnessMD/munder-difflin) · [官网](https://munderdiffl.in) · 组织维护
 
 **桌面应用：在自有订阅的 CLI 上编排一支 AI agent 办公室团队**
 

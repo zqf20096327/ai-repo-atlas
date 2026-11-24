@@ -1,6 +1,6 @@
 # brycewang-stanford/lit-review-agent-tools
 
-⭐ 58 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/brycewang-stanford/lit-review-agent-tools) · [官网](https://brycewang-stanford.github.io/lit-review-agent-tools/) · 个人维护 · 中文 README
+⭐ 58 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/brycewang-stanford/lit-review-agent-tools) · [官网](https://brycewang-stanford.github.io/lit-review-agent-tools/) · 个人维护 · 中文 README
 
 **面向文献综述的开源 AI agent 工具策展清单（70+ 工具、11 类）**
 

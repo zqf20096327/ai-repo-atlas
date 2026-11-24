@@ -1,6 +1,6 @@
 # kiss-kedaya/chanshui
 
-⭐ 21 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kiss-kedaya/chanshui) · [官网](https://chanshui.dev) · 个人维护 · 中文 README
+⭐ 21 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kiss-kedaya/chanshui) · [官网](https://chanshui.dev) · 个人维护 · 中文 README
 
 **自托管 LLM 网关审计站：核验声称模型是否真实提供**
 

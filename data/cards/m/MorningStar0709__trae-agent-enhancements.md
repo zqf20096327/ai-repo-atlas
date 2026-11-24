@@ -1,6 +1,6 @@
 # MorningStar0709/trae-agent-enhancements
 
-⭐ 18 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/MorningStar0709/trae-agent-enhancements) · [官网](https://github.com/MorningStar0709/trae-agent-enhancements) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MorningStar0709/trae-agent-enhancements) · [官网](https://github.com/MorningStar0709/trae-agent-enhancements) · 个人维护 · 中文 README
 
 **Trae IDE Agent 的规则+技能+记忆增强集合**
 

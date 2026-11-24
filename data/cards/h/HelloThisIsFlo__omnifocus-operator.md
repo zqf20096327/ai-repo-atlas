@@ -1,6 +1,6 @@
 # HelloThisIsFlo/omnifocus-operator
 
-⭐ 11 · Python · 推送 2026-11-13 · [GitHub](https://github.com/HelloThisIsFlo/omnifocus-operator) · 个人维护
+⭐ 11 · Python · 推送 2026-11-23 · [GitHub](https://github.com/HelloThisIsFlo/omnifocus-operator) · 个人维护
 
 **面向 AI agent 的 OmniFocus MCP 服务器：让 agent 读写任务**
 

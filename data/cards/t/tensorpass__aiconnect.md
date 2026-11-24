@@ -1,6 +1,6 @@
 # tensorpass/aiconnect
 
-⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tensorpass/aiconnect) · [官网](https://tensorpass.app/docs) · 组织维护
+⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tensorpass/aiconnect) · [官网](https://tensorpass.app/docs) · 组织维护
 
 **网站 AI 功能 SDK：让访客用自己的 AI 账号付费回答**
 

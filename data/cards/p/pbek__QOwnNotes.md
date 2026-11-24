@@ -1,6 +1,6 @@
 # pbek/QOwnNotes
 
-⭐ 5,973 · C++ · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/pbek/QOwnNotes) · [官网](https://www.qownnotes.org/) · 组织维护
+⭐ 5,972 · C++ · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/pbek/QOwnNotes) · [官网](https://www.qownnotes.org/) · 组织维护
 
 **本地 Markdown 笔记与待办管理器，支持 Nextcloud 同步**
 

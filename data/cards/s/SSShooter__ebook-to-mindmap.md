@@ -1,6 +1,6 @@
 # SSShooter/ebook-to-mindmap
 
-⭐ 1,431 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/SSShooter/ebook-to-mindmap) · [官网](https://app.mind-elixir.com/ebook-to-mindmap) · 个人维护 · 中文 README
+⭐ 1,435 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/SSShooter/ebook-to-mindmap) · [官网](https://app.mind-elixir.com/ebook-to-mindmap) · 个人维护 · 中文 README
 
 **面向读者的电子书 AI 总结工具：EPUB/PDF 转思维导图**
 

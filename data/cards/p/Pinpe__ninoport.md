@@ -1,6 +1,6 @@
 # Pinpe/ninoport
 
-⭐ 4 · HTML · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/Pinpe/ninoport) · [官网](https://pinpe.github.io/ninoport/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地 API 网关面板：统一管理各家 AI Key 并直接对话**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

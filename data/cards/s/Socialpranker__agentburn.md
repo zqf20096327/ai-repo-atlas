@@ -1,6 +1,6 @@
 # Socialpranker/agentburn
 
-⭐ 81 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Socialpranker/agentburn) · [官网](https://socialpranker.github.io/agentburn/) · 个人维护
+⭐ 81 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Socialpranker/agentburn) · [官网](https://socialpranker.github.io/agentburn/) · 个人维护
 
 **本地 AI agent 用量剖析器：定位限额窗口与花费去向**
 

@@ -1,6 +1,6 @@
 # Mindful-AI-Research/.github
 
-⭐ 14 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Mindful-AI-Research/.github) · [官网](https://mindful-ai-research.github.io/.github/) · 组织维护
+⭐ 14 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Mindful-AI-Research/.github) · [官网](https://mindful-ai-research.github.io/.github/) · 组织维护
 
 **Mindful AI 组织简介：面向企业的 AI 助手/Agent 与治理知识库**
 

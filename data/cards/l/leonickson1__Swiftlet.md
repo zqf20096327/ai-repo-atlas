@@ -1,6 +1,6 @@
 # leonickson1/Swiftlet
 
-⭐ 667 · Swift · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/leonickson1/Swiftlet) · 个人维护
+⭐ 666 · Swift · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/leonickson1/Swiftlet) · 个人维护
 
 **在 Apple 设备低内存运行大 MoE Qwen 模型的运行时**
 

@@ -1,6 +1,6 @@
 # addyosmani/chatty
 
-⭐ 842 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/addyosmani/chatty) · 个人维护
+⭐ 843 · TypeScript · MIT · 推送 2026-08-09 · [GitHub](https://github.com/addyosmani/chatty) · 个人维护
 
 **浏览器内本地运行 LLM 的私有 AI 聊天应用**
 

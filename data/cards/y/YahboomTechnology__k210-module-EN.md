@@ -1,6 +1,6 @@
 # YahboomTechnology/k210-module-EN
 
-⭐ 10 · 推送 2026-09-14 · [GitHub](https://github.com/YahboomTechnology/k210-module-EN) · [官网](https://category.yahboom.net/products/k210-module) · 组织维护 · 中文 README
+⭐ 11 · 推送 2026-09-14 · [GitHub](https://github.com/YahboomTechnology/k210-module-EN) · [官网](https://category.yahboom.net/products/k210-module) · 组织维护 · 中文 README
 
 **面向嵌入式开发者的 K210 视觉识别模块（AI 硬件）**
 

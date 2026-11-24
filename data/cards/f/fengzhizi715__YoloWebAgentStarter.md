@@ -1,6 +1,6 @@
 # fengzhizi715/YoloWebAgentStarter
 
-⭐ 155 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fengzhizi715/YoloWebAgentStarter) · 个人维护 · 中文 README
+⭐ 156 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fengzhizi715/YoloWebAgentStarter) · 个人维护 · 中文 README
 
 **本地单用户 YOLO 数据集工作台：标注、训练、评估加 AI 助手**
 

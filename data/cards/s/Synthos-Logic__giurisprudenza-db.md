@@ -1,6 +1,6 @@
 # Synthos-Logic/giurisprudenza-db
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Synthos-Logic/giurisprudenza-db) · [官网](https://synthoslogic.ai) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Synthos-Logic/giurisprudenza-db) · [官网](https://synthoslogic.ai) · 个人维护
 
 **意大利判例法开放数据集：宪法法院判例与最高法院摘要**
 

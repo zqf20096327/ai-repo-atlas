@@ -1,6 +1,6 @@
 # a2ui-elixir/a2ui
 
-⭐ 11 · Elixir · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/a2ui-elixir/a2ui) · [官网](https://a2ui-elixir.github.io/a2ui/) · 组织维护
+⭐ 12 · Elixir · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/a2ui-elixir/a2ui) · [官网](https://a2ui-elixir.github.io/a2ui/) · 组织维护
 
 **给 Elixir/Phoenix 开发者的 agent 驱动界面协议实现**
 

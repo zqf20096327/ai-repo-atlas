@@ -1,6 +1,6 @@
 # kagvi13/HMP
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/kagvi13/HMP) · 个人维护 · 中文 README
+⭐ 12 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/kagvi13/HMP) · 个人维护 · 中文 README
 
 **AI agent 去中心化认知网络协议规范与 Python 参考实现**
 

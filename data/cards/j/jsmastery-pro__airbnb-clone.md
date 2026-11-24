@@ -1,6 +1,6 @@
 # jsmastery-pro/airbnb-clone
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jsmastery-pro/airbnb-clone) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/jsmastery-pro/airbnb-clone) · 组织维护
 
 **AI 自然语言搜索的 Airbnb 风格移动应用（教程项目）**
 

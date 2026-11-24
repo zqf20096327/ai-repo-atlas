@@ -1,6 +1,6 @@
 # cofin/litestar-mcp
 
-⭐ 13 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cofin/litestar-mcp) · [官网](https://cofin.github.io/litestar-mcp/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cofin/litestar-mcp) · [官网](https://cofin.github.io/litestar-mcp/) · 个人维护
 
 **把 Litestar 路由暴露为 MCP 工具/资源/提示词的插件**
 

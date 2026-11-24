@@ -1,6 +1,6 @@
 # xinvxueyuan/NovelAI-Image-MCP
 
-⭐ 12 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xinvxueyuan/NovelAI-Image-MCP) · [官网](https://xinvxueyuan.github.io/NovelAI-Image-MCP/) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xinvxueyuan/NovelAI-Image-MCP) · [官网](https://xinvxueyuan.github.io/NovelAI-Image-MCP/) · 个人维护 · 中文 README
 
 **将 NovelAI 图像生成以 MCP 工具形式接入 AI agent 的服务器**
 

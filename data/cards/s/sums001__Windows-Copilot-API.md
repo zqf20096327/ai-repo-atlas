@@ -1,6 +1,6 @@
 # sums001/Windows-Copilot-API
 
-⭐ 1,271 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sums001/Windows-Copilot-API) · 个人维护
+⭐ 1,272 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sums001/Windows-Copilot-API) · 个人维护
 
 **将 Windows Copilot 逆向为 OpenAI 兼容 API 的本地桥接服务**
 

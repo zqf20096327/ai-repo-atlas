@@ -1,6 +1,6 @@
 # alirezadir/Agentic-AI-Systems
 
-⭐ 507 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alirezadir/Agentic-AI-Systems) · 个人维护
+⭐ 506 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alirezadir/Agentic-AI-Systems) · 个人维护
 
 **面向开发者的 Agentic AI 系统设计知识库与实战指南**
 

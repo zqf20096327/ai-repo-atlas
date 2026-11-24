@@ -1,6 +1,6 @@
 # apache/casbin-gateway
 
-⭐ 650 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/apache/casbin-gateway) · [官网](https://gateway.casbin.org) · 组织维护 · 中文 README
+⭐ 652 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/apache/casbin-gateway) · [官网](https://gateway.casbin.org) · 组织维护 · 中文 README
 
 **本机 AI 编码 agent 的统一网关：监控、鉴真 API、管权限**
 

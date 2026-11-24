@@ -1,6 +1,6 @@
 # davidsorianop021-cmd/perplexity-pro-applepay-
 
-⭐ 70 · 推送 2026-11-04 · [GitHub](https://github.com/davidsorianop021-cmd/perplexity-pro-applepay-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 91 · 推送 2026-11-04 · [GitHub](https://github.com/davidsorianop021-cmd/perplexity-pro-applepay-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **Perplexity Pro 订阅支付避坑指南与 CoreGold 开卡教程**
 

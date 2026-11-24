@@ -1,6 +1,6 @@
 # kite-org/kite
 
-⭐ 3,237 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kite-org/kite) · [官网](https://kitehq.dev/) · 个人维护 · 中文 README
+⭐ 3,240 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kite-org/kite) · [官网](https://kitehq.dev/) · 个人维护 · 中文 README
 
 **给运维的多集群 Kubernetes 工作台，含 AI 辅助排障**
 

@@ -1,6 +1,6 @@
 # Xin-YuXiao/Awesome-AI-for-Astronomy
 
-⭐ 411 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 个人维护
+⭐ 415 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 个人维护
 
 **天文与天体物理 AI 论文/模型/基准策展清单**
 

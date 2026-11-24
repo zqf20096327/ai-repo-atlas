@@ -1,6 +1,6 @@
 # gm365/shuita-ai-price
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gm365/shuita-ai-price) · [官网](https://shuita.xyz) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gm365/shuita-ai-price) · [官网](https://shuita.xyz) · 个人维护 · 中文 README
 
 **给 AI 助手查询国内渠道 AI 订阅实时价格的 MCP 服务**
 

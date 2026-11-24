@@ -1,6 +1,6 @@
 # psa-systems/claude-run
 
-⭐ 5 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/psa-systems/claude-run) · 组织维护
+⭐ 5 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/psa-systems/claude-run) · 组织维护
 
 **YAML 驱动的 Claude Code 任务轮询运行器**
 

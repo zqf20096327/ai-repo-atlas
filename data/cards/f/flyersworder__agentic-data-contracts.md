@@ -1,6 +1,6 @@
 # flyersworder/agentic-data-contracts
 
-⭐ 12 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/flyersworder/agentic-data-contracts) · [官网](https://pypi.org/project/agentic-data-contracts/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/flyersworder/agentic-data-contracts) · [官网](https://pypi.org/project/agentic-data-contracts/) · 个人维护
 
 **面向 AI agent 的 YAML 数据契约库：先教业务域规则再写 SQL**
 

@@ -1,6 +1,6 @@
 # gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc
 
-⭐ 37 · 推送 2026-11-16 · [GitHub](https://github.com/gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 60 · 推送 2026-11-16 · [GitHub](https://github.com/gossageangrej-eng/virtual-card-usdt-nvidia-shakeup-multi-cloud-gpu-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向 ML 工程师的云 GPU 租用支付风险管理指南**
 

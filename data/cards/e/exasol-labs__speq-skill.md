@@ -1,6 +1,6 @@
 # exasol-labs/speq-skill
 
-⭐ 54 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/exasol-labs/speq-skill) · 组织维护
+⭐ 55 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/exasol-labs/speq-skill) · 组织维护
 
 **给 Claude Code/Codex 的规格驱动开发插件，含 speq CLI**
 

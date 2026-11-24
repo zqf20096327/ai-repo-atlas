@@ -1,6 +1,6 @@
 # Zackriya-Solutions/meetily
 
-⭐ 32,964 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Zackriya-Solutions/meetily) · [官网](https://meetily.ai) · 组织维护
+⭐ 32,993 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Zackriya-Solutions/meetily) · [官网](https://meetily.ai) · 组织维护
 
 **本地运行的隐私优先 AI 会议记录助手，转录并生成纪要**
 

@@ -1,6 +1,6 @@
 # Nilove2018/cad-master-solidworks
 
-⭐ 4 · C# · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Nilove2018/cad-master-solidworks) · [官网](https://github.com/Nilove2018/solidworks-api-skill) · 个人维护
+⭐ 5 · C# · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/Nilove2018/cad-master-solidworks) · [官网](https://github.com/Nilove2018/solidworks-api-skill) · 个人维护
 
 **SOLIDWORKS 插件：内嵌 Claude Code，用自然语言生成并校验 CAD 模型**
 

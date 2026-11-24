@@ -1,6 +1,6 @@
 # vfaner/muask
 
-⭐ 31 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vfaner/muask) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vfaner/muask) · 个人维护 · 中文 README
 
 **桌面 Text2SQL 工具：中文一句话生成并执行 SQL，驱动全内置**
 

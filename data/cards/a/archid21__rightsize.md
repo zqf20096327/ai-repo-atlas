@@ -1,6 +1,6 @@
 # archid21/rightsize
 
-⭐ 48 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/archid21/rightsize) · [官网](https://aivalue.blog/rightsize) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/archid21/rightsize) · [官网](https://aivalue.blog/rightsize) · 个人维护
 
 **给 Claude Code 用户的模型路由与 token 成本控制插件**
 

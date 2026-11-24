@@ -1,6 +1,6 @@
 # CrowCall/crow-tools
 
-⭐ 31 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/CrowCall/crow-tools) · [官网](http://crowtools.org) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-04-02 · [GitHub](https://github.com/CrowCall/crow-tools) · [官网](http://crowtools.org) · 个人维护
 
 **鸦科发声分析工具包：下载、降噪、检测、分类鸦叫并标注**
 

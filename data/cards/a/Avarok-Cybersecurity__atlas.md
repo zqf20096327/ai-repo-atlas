@@ -1,6 +1,6 @@
 # Avarok-Cybersecurity/atlas
 
-⭐ 737 · Rust · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Avarok-Cybersecurity/atlas) · [官网](https://atlasinference.io) · 组织维护
+⭐ 737 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Avarok-Cybersecurity/atlas) · [官网](https://atlasinference.io) · 组织维护
 
 **纯 Rust 编写的本地 LLM 推理引擎，提供 OpenAI 兼容服务**
 

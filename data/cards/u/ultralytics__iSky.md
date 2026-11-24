@@ -1,6 +1,6 @@
 # ultralytics/iSky
 
-⭐ 81 · Swift · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/iSky) · [官网](https://apps.apple.com/us/app/isky/id1445737240) · 组织维护 · 中文 README
+⭐ 82 · Swift · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/iSky) · [官网](https://apps.apple.com/us/app/isky/id1445737240) · 组织维护 · 中文 README
 
 **iOS 实时风格迁移相机应用：五种名画风格处理实时视频**
 

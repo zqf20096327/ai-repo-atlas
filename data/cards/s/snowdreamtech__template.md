@@ -1,6 +1,6 @@
 # snowdreamtech/template
 
-⭐ 16 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/snowdreamtech/template) · [官网](https://snowdreamtech.github.io/template/) · 组织维护 · 中文 README
+⭐ 16 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/snowdreamtech/template) · [官网](https://snowdreamtech.github.io/template/) · 组织维护 · 中文 README
 
 **面向多 AI IDE 协作的企业级项目基础模板（50+ IDE 规则统一）**
 

@@ -1,6 +1,6 @@
 # nottelabs/notte
 
-⭐ 2,070 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/nottelabs/notte) · [官网](https://console.notte.cc) · 组织维护
+⭐ 2,074 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/nottelabs/notte) · [官网](https://console.notte.cc) · 组织维护
 
 **为 AI agent 与脚本提供云端隐身浏览器的基础设施**
 

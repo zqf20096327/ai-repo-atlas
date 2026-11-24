@@ -1,6 +1,6 @@
 # decocms/studio
 
-⭐ 418 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/decocms/studio) · [官网](https://decocms.com/studio) · 组织维护
+⭐ 418 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/decocms/studio) · [官网](https://decocms.com/studio) · 组织维护
 
 **组织内部 AI agent 的开源控制平面：接入工具、模型与成本追踪**
 

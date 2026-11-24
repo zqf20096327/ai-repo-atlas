@@ -1,6 +1,6 @@
 # magicuidesign/mcp
 
-⭐ 232 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/magicuidesign/mcp) · [官网](https://magicui.design) · 组织维护
+⭐ 231 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/magicuidesign/mcp) · [官网](https://magicui.design) · 组织维护
 
 **Magic UI 官方 MCP 服务器：在 AI 编辑器中搜索并安装 UI 组件**
 

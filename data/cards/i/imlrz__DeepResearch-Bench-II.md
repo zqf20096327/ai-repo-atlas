@@ -1,6 +1,6 @@
 # imlrz/DeepResearch-Bench-II
 
-⭐ 100 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/imlrz/DeepResearch-Bench-II) · [官网](https://arxiv.org/abs/2601.08536) · 组织维护 · 中文 README
+⭐ 101 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/imlrz/DeepResearch-Bench-II) · [官网](https://arxiv.org/abs/2601.08536) · 组织维护 · 中文 README
 
 **深度研究 agent 评测基准：以专家报告分解的评分细则打分**
 

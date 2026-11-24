@@ -1,6 +1,6 @@
 # air-xvc/orca-guide
 
-⭐ 29 · CSS · MIT · 推送 2026-07-26 · [GitHub](https://github.com/air-xvc/orca-guide) · [官网](https://guide.rtxk.us) · 个人维护 · 中文 README
+⭐ 30 · CSS · MIT · 推送 2026-07-26 · [GitHub](https://github.com/air-xvc/orca-guide) · [官网](https://guide.rtxk.us) · 个人维护 · 中文 README
 
 **社区编写的 Orca 中文使用指南：讲如何用 Orca 并行指挥 AI 编程 Agent**
 

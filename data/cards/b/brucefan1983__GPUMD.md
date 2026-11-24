@@ -1,6 +1,6 @@
 # brucefan1983/GPUMD
 
-⭐ 869 · Cuda · 推送 2026-11-22 · [GitHub](https://github.com/brucefan1983/GPUMD) · [官网](https://gpumd.org/dev) · 组织维护
+⭐ 869 · Cuda · 推送 2026-11-23 · [GitHub](https://github.com/brucefan1983/GPUMD) · [官网](https://gpumd.org/dev) · 组织维护
 
 **GPU 上运行的通用分子动力学模拟科研软件包**
 

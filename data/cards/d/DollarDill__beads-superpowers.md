@@ -1,6 +1,6 @@
 # DollarDill/beads-superpowers
 
-⭐ 32 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DollarDill/beads-superpowers) · [官网](https://algocents.com/beads-superpowers/) · 个人维护
+⭐ 33 · Shell · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DollarDill/beads-superpowers) · [官网](https://algocents.com/beads-superpowers/) · 个人维护
 
 **为 AI 编程 agent 提供流程纪律与跨会话任务记忆的插件**
 

@@ -1,6 +1,6 @@
 # SilasEigen/neb
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SilasEigen/neb) · [官网](https://neuralenginebyte.org) · 个人维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SilasEigen/neb) · [官网](https://neuralenginebyte.org) · 个人维护
 
 **用神经网络训练步骤作工作量证明的加密货币**
 

@@ -1,6 +1,6 @@
 # phenobarbital/ai-parrot
 
-⭐ 34 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/phenobarbital/ai-parrot) · [官网](https://phenobarbital.github.io/ai-parrot/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/phenobarbital/ai-parrot) · [官网](https://phenobarbital.github.io/ai-parrot/) · 个人维护
 
 **面向多供应商的异步 Python AI Agent 构建与编排框架**
 

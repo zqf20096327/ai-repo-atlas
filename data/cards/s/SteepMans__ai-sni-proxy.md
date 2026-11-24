@@ -1,6 +1,6 @@
 # SteepMans/ai-sni-proxy
 
-⭐ 54 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SteepMans/ai-sni-proxy) · 个人维护
+⭐ 56 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SteepMans/ai-sni-proxy) · 个人维护
 
 **让受限地区无需 VPN 访问 Claude/ChatGPT 等 AI 服务的 SNI 代理工具**
 

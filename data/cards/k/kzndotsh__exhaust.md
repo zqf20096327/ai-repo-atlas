@@ -1,6 +1,6 @@
 # kzndotsh/exhaust
 
-⭐ 3 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kzndotsh/exhaust) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kzndotsh/exhaust) · 个人维护
 
 **面向安全研究的 agent 工具包：驱动 agent 详尽探测授权目标**
 

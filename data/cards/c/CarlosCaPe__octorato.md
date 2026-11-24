@@ -1,6 +1,6 @@
 # CarlosCaPe/octorato
 
-⭐ 19 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/CarlosCaPe/octorato) · [官网](https://www.dataqbs.com/octorato) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CarlosCaPe/octorato) · [官网](https://www.dataqbs.com/octorato) · 个人维护
 
 **给 AI 编程助手提供持久记忆与规则约束的纯文本 Agent OS**
 

@@ -1,6 +1,6 @@
 # maps-as-data/MapReader
 
-⭐ 153 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/maps-as-data/MapReader) · [官网](https://mapreader.readthedocs.io/en/latest/) · 组织维护
+⭐ 153 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/maps-as-data/MapReader) · [官网](https://mapreader.readthedocs.io/en/latest/) · 组织维护
 
 **分析地图图像的开源 Python 计算机视觉库**
 

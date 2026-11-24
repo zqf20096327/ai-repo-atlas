@@ -1,10 +1,10 @@
 # openai/openai-java
 
-⭐ 1,569 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openai/openai-java) · 组织维护
+⭐ 1,570 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-java) · 组织维护
 
-**Java 应用访问 OpenAI REST API 的官方 SDK**
+**官方 Java 库：在 Java 应用中调用 OpenAI REST API**
 
-由 OpenAI 维护的 Java SDK，供 Java 应用调用 OpenAI REST API。以 Gradle/Maven 依赖发布到 Maven Central，要求 Java 8 及以上。主要接口为 Responses API，同时支持 Chat Completions API；提供同步/异步客户端、SSE 流式响应与流式累积辅助类、JSON schema 结构化输出。支持系统属性/环境变量/手动三种客户端配置方式，并内置 Kubernetes、Azure、GCP 等云环境的工作负载身份认证与 X.509 客户端证书认证。另提供可选的 openai-java-bedrock 构件接入 Amazon Bedrock 上的 OpenAI 兼容 API。
+OpenAI 官方发布的 Java SDK，从 Java 应用访问 OpenAI REST API，通过 Maven Central 分发，要求 Java 8 及以上。主 API 为 Responses API，同时长期支持 Chat Completions API；提供同步与异步客户端、SSE/JSONL 流式响应、流式累积辅助类、结构化输出 JSON schema、不可变类与 builder、客户端配置（系统属性/环境变量）。另提供可选 openai-java-bedrock artifact 调用 Amazon Bedrock 上的 OpenAI 兼容 API；支持 Kubernetes/Azure/GCP 工作负载身份认证与 X.509 证书交换短期令牌。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 支持 Responses API 与 Chat Completions API 生成文本
-- 同步与异步客户端、SSE 流式响应及流式累积辅助类
-- 内置云环境工作负载身份认证（Kubernetes/Azure/GCP）与 X.509 证书认证
-- 可选 openai-java-bedrock 构件，用 AWS 凭证调用 Bedrock 上的 OpenAI 兼容 API
+- 同步/异步客户端，支持 SSE 流式响应与 ChatCompletionAccumulator 累积
+- 可选 openai-java-bedrock artifact 用 AWS 凭证调用 Bedrock 上的 OpenAI 兼容 API
+- Kubernetes/Azure Managed Identity/GCP ID token 工作负载身份认证与 X.509 客户端证书
+- 结构化输出 JSON schema 与 Responses 历史归一化辅助
 
 ## 适用场景
 
-- 在 Java 后端服务中接入 OpenAI API 生成文本
-- 需要流式输出或结构化 JSON 输出的 Java 应用
-- 在 Kubernetes/Azure/GCP 云环境中用短期令牌替代长期 API key 认证
-- 通过 AWS 凭证调用 Amazon Bedrock 上的 OpenAI 兼容模型
+- 在 Java 后端服务中集成 OpenAI 文本生成与 Chat Completions
+- 在 AWS Bedrock 上以 AWS 凭证调用 OpenAI 兼容模型
+- 在 Kubernetes/Azure/GCP 云环境中用短期令牌认证替代长期 API key
+- Java 应用中处理流式输出并累积为完整响应对象
 
 ## 场景标签
 
- · 领域:LLM 基础设施/API SDK
+ · 领域:LLM 基础设施/API 客户端
 
 ## 证据(README 行号)
 
 > L6: The OpenAI Java SDK provides convenient access to the OpenAI REST API from applications written in Java.
 > L50: The primary API for interacting with OpenAI models is the Responses API. You can generate text from the model with 
+> L70: Use the optional `openai-java-bedrock` artifact to call OpenAI-compatible APIs on Amazon Bedrock
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b817e4461f9a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0a83626902d1` · [字段定义](../../DATASET.md)*

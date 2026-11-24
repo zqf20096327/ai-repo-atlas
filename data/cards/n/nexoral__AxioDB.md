@@ -1,6 +1,6 @@
 # nexoral/AxioDB
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nexoral/AxioDB) · [官网](https://axiodb.in) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nexoral/AxioDB) · [官网](https://axiodb.in) · 个人维护
 
 **面向 AI Agent 的嵌入式文档数据库，零服务端运行**
 

@@ -1,6 +1,6 @@
 # mistralai/mistral-vibe
 
-⭐ 5,455 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mistralai/mistral-vibe) · 组织维护
+⭐ 5,463 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mistralai/mistral-vibe) · 组织维护
 
 **Mistral 出品的终端编码 agent CLI，代读代码改文件跑命令**
 

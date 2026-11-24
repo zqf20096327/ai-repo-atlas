@@ -1,6 +1,6 @@
 # scottmartinanderson/clearfront
 
-⭐ 12 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/scottmartinanderson/clearfront) · [官网](https://clearfront.sh) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/scottmartinanderson/clearfront) · [官网](https://clearfront.sh) · 个人维护
 
 **开源 AI OSINT agent：扫描 3,400+ 公开数据源绘制数字足迹**
 

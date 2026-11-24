@@ -1,6 +1,6 @@
 # Saganaki22/Higgs_v3-TTS-ComfyUI
 
-⭐ 76 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Saganaki22/Higgs_v3-TTS-ComfyUI) · [官网](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) · 个人维护 · 中文 README
+⭐ 77 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Saganaki22/Higgs_v3-TTS-ComfyUI) · [官网](https://huggingface.co/bosonai/higgs-audio-v3-tts-4b) · 个人维护 · 中文 README
 
 **在 ComfyUI 中运行 Higgs Audio v3 多语种 TTS 的节点包**
 

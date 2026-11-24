@@ -1,6 +1,6 @@
 # iazaran/trace-replay
 
-⭐ 104 · PHP · MIT · 推送 2026-08-04 · [GitHub](https://github.com/iazaran/trace-replay) · [官网](https://iazaran.github.io/trace-replay/) · 个人维护
+⭐ 105 · PHP · MIT · 推送 2026-08-04 · [GitHub](https://github.com/iazaran/trace-replay) · [官网](https://iazaran.github.io/trace-replay/) · 个人维护
 
 **Laravel 执行追踪与 HTTP 重放调试包，附带 AI 修复提示生成**
 

@@ -1,6 +1,6 @@
 # AsuraAce/ambit
 
-⭐ 48 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/AsuraAce/ambit) · 个人维护
+⭐ 48 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AsuraAce/ambit) · 个人维护
 
 **本地优先的 AI 生成图片库桌面管理应用**
 

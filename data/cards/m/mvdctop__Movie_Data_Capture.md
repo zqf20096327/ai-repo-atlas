@@ -1,6 +1,6 @@
 # mvdctop/Movie_Data_Capture
 
-⭐ 7,452 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/mvdctop/Movie_Data_Capture) · [官网](https://www.mvdc.top) · 组织维护 · 中文 README
+⭐ 7,448 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/mvdctop/Movie_Data_Capture) · [官网](https://www.mvdc.top) · 组织维护 · 中文 README
 
 **整理本地影视媒体库的元数据刮削工具，带 AI 网页解析**
 

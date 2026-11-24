@@ -1,6 +1,6 @@
 # TacoTakumi/vram-lend
 
-⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/TacoTakumi/vram-lend) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TacoTakumi/vram-lend) · 个人维护
 
 **让推理引擎临时出借 GPU 显存的命令行与协议工具**
 

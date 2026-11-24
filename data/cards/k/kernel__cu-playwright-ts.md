@@ -1,6 +1,6 @@
 # kernel/cu-playwright-ts
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kernel/cu-playwright-ts) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kernel/cu-playwright-ts) · 组织维护
 
 **把 Claude Computer Use 映射到 Playwright 的浏览器自动化 TypeScript SDK**
 

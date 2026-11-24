@@ -1,6 +1,6 @@
 # jmcquiggan/Deepfake-Workshop
 
-⭐ 6 · 推送 2026-11-17 · [GitHub](https://github.com/jmcquiggan/Deepfake-Workshop) · [官网](https://www.antisyphontraining.com/product/workshop-build-a-deepfake-learn-the-defense/) · 个人维护
+⭐ 7 · 推送 2026-11-17 · [GitHub](https://github.com/jmcquiggan/Deepfake-Workshop) · [官网](https://www.antisyphontraining.com/product/workshop-build-a-deepfake-learn-the-defense/) · 个人维护
 
 **Deepfake 研讨会的配套资源仓库**
 

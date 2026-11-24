@@ -1,6 +1,6 @@
 # jegly/OfflineLLM
 
-⭐ 293 · Kotlin · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/jegly/OfflineLLM) · [官网](https://jegly.xyz) · 个人维护
+⭐ 293 · Kotlin · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/jegly/OfflineLLM) · [官网](https://jegly.xyz) · 个人维护
 
 **Android 全离线本地 LLM 聊天应用，通过 llama.cpp 运行 GGUF 模型**
 

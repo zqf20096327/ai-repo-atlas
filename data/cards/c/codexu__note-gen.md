@@ -1,6 +1,6 @@
 # codexu/note-gen
 
-⭐ 13,044 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/codexu/note-gen) · [官网](https://notegen.top) · 个人维护 · 中文 README
+⭐ 13,044 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/codexu/note-gen) · [官网](https://notegen.top) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 笔记应用：先速记碎片，再用 AI 整理成笔记**
 

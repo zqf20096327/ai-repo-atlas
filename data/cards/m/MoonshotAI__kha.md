@@ -1,6 +1,6 @@
 # MoonshotAI/kha
 
-⭐ 18 · Go · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/MoonshotAI/kha) · 组织维护 · 中文 README
+⭐ 18 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MoonshotAI/kha) · 组织维护 · 中文 README
 
 **Kimi Hosted Agents 的官方 Go SDK 与 CLI 客户端**
 

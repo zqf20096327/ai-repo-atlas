@@ -1,6 +1,6 @@
 # mlnjsh/ai-research-radar
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mlnjsh/ai-research-radar) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mlnjsh/ai-research-radar) · 个人维护
 
 **自更新的 arXiv AI 论文追踪器，每 6 小时自动汇总分类**
 

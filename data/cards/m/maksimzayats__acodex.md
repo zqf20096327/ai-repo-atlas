@@ -1,6 +1,6 @@
 # maksimzayats/acodex
 
-⭐ 59 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/maksimzayats/acodex) · [官网](http://docs.acodex.dev/) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/maksimzayats/acodex) · [官网](http://docs.acodex.dev/) · 个人维护
 
 **macOS 上连接 Codex 桌面应用的本地 MCP 自动化桥接工具**
 

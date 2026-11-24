@@ -1,6 +1,6 @@
 # vonglasow/gaia
 
-⭐ 12 · Go · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/vonglasow/gaia) · 个人维护
+⭐ 12 · Go · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/vonglasow/gaia) · 个人维护
 
 **Go 编写的本地模型 CLI：问答、代理、调查、聊天与 MCP 服务**
 

@@ -1,6 +1,6 @@
 # ShivamGupta42/goals
 
-⭐ 17 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ShivamGupta42/goals) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ShivamGupta42/goals) · 个人维护
 
 **让 AI agent 长时间运行也能按计划完成目标的工作流插件**
 

@@ -1,6 +1,6 @@
 # 7tg/django-admin-mcp
 
-⭐ 33 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/7tg/django-admin-mcp) · [官网](https://7tg.github.io/django-admin-mcp/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/7tg/django-admin-mcp) · [官网](https://7tg.github.io/django-admin-mcp/) · 个人维护
 
 **把 Django Admin 模型暴露为 MCP 工具的 Python 包**
 

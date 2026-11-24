@@ -1,6 +1,6 @@
 # trymoe/pricing
 
-⭐ 46 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/trymoe/pricing) · [官网](https://try.moe/) · 组织维护 · 中文 README
+⭐ 50 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/trymoe/pricing) · [官网](https://try.moe/) · 组织维护 · 中文 README
 
 **零依赖的 AI API token 成本估算 TypeScript 库**
 

@@ -1,6 +1,6 @@
 # Liu-Bot24/pure-translate
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Liu-Bot24/pure-translate) · [官网](https://blog.liu-qi.cn/tools/) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Liu-Bot24/pure-translate) · [官网](https://blog.liu-qi.cn/tools/) · 个人维护 · 中文 README
 
 **浏览器网页双语翻译扩展：免配置免费翻译当前页面**
 

@@ -1,6 +1,6 @@
 # mhajder/llama.cpp-updater
 
-⭐ 18 · Shell · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mhajder/llama.cpp-updater) · 个人维护
+⭐ 18 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mhajder/llama.cpp-updater) · 个人维护
 
 **一条命令更新 llama.cpp 的 Bash 脚本：下载 nightly 二进制或源码编译**
 

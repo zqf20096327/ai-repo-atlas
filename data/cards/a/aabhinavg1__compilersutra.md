@@ -1,6 +1,6 @@
 # aabhinavg1/compilersutra
 
-⭐ 16 · MDX · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aabhinavg1/compilersutra) · [官网](https://compilersutra.com/) · 个人维护
+⭐ 16 · MDX · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aabhinavg1/compilersutra) · [官网](https://compilersutra.com/) · 个人维护
 
 **软件工程多领域技术学习平台：编译器/系统/GPU/AI 等教程**
 

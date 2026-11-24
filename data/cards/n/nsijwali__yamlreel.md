@@ -1,6 +1,6 @@
 # nsijwali/yamlreel
 
-⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nsijwali/yamlreel) · [官网](https://nsijwali.github.io/yamlreel/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nsijwali/yamlreel) · [官网](https://nsijwali.github.io/yamlreel/) · 个人维护
 
 **写 YAML 文件即可本地渲染解说视频的命令行工具**
 

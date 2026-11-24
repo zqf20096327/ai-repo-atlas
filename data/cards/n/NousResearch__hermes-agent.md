@@ -1,6 +1,6 @@
 # NousResearch/hermes-agent
 
-⭐ 265,402 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NousResearch/hermes-agent) · [官网](https://hermes-agent.nousresearch.com) · 组织维护
+⭐ 265,675 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NousResearch/hermes-agent) · [官网](https://hermes-agent.nousresearch.com) · 组织维护
 
 **可持续学习并跨平台对话的个人 AI agent 运行时**
 

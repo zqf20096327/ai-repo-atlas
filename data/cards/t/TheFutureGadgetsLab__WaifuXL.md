@@ -1,6 +1,6 @@
 # TheFutureGadgetsLab/WaifuXL
 
-⭐ 184 · TypeScript · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/TheFutureGadgetsLab/WaifuXL) · [官网](https://waifuxl.com/) · 组织维护
+⭐ 183 · TypeScript · Apache-2.0 · 推送 2026-02-03 · [GitHub](https://github.com/TheFutureGadgetsLab/WaifuXL) · [官网](https://waifuxl.com/) · 组织维护
 
 **浏览器内本地运行的动漫图像超分辨率放大网站**
 

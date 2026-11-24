@@ -1,6 +1,6 @@
 # Wilfriedbkt/interview-copilot-edtech-app
 
-⭐ 153 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) · 个人维护
+⭐ 153 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/Wilfriedbkt/interview-copilot-edtech-app) · 个人维护
 
 **面试实时辅导应用：转录问题并生成答题提示**
 

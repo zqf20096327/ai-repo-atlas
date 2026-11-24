@@ -1,6 +1,6 @@
 # Johnson-Durui/Companion-Space
 
-⭐ 603 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Johnson-Durui/Companion-Space) · 个人维护 · 中文 README
+⭐ 645 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Johnson-Durui/Companion-Space) · 个人维护 · 中文 README
 
 **本地优先的二次元陪伴学习应用，带语音与 VRM 角色**
 

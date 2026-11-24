@@ -1,6 +1,6 @@
 # georgeguimaraes/tribunal
 
-⭐ 120 · Elixir · MIT · 推送 2026-11-09 · [GitHub](https://github.com/georgeguimaraes/tribunal) · 个人维护
+⭐ 120 · Elixir · MIT · 推送 2026-11-24 · [GitHub](https://github.com/georgeguimaraes/tribunal) · 个人维护
 
 **Elixir 的 LLM 输出评测框架：在 ExUnit/CI 中断言质量与安全**
 

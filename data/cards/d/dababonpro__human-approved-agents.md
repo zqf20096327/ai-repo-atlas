@@ -1,6 +1,6 @@
 # dababonpro/human-approved-agents
 
-⭐ 5 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/dababonpro/human-approved-agents) · [官网](https://dababon.pro/playbook/) · 组织维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dababonpro/human-approved-agents) · [官网](https://dababon.pro/playbook/) · 组织维护
 
 **给小团队用的 AI agent 治理手册、模板与技能集**
 

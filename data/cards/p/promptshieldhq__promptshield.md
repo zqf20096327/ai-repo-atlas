@@ -1,6 +1,6 @@
 # promptshieldhq/promptshield
 
-⭐ 20 · TypeScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/promptshieldhq/promptshield) · [官网](https://promptshield-docs.vercel.app) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/promptshieldhq/promptshield) · [官网](https://promptshield-docs.vercel.app) · 组织维护
 
 **自托管 LLM 安全网关：检测 PII 与密钥并执行策略**
 

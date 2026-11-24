@@ -1,44 +1,44 @@
 # he-yufeng/CoreCoder
 
-⭐ 1,944 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/he-yufeng/CoreCoder) · [官网](https://pypi.org/project/corecoder/) · 个人维护 · 中文 README
+⭐ 1,955 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/he-yufeng/CoreCoder) · [官网](https://pypi.org/project/corecoder/) · 个人维护 · 中文 README
 
-**给学习者的最小 AI 编码 agent 引擎：可读可改可 fork**
+**千行级可读 Python 编码 agent，供学习后 fork**
 
-用纯 Python 实现的最小编码 agent：核心引擎约 1,532 行（全包 3,451 行），包含主循环、流式 LLM 客户端、8 个工具（读写文件、执行 shell、子 agent 等）、三级上下文压缩、plan 模式、hooks 与 checkpoints，磁盘修改与命令执行前需用户确认。默认走 OpenAI 兼容 API，通过环境变量切换供应商，另有可选 LiteLLM 后端。定位为源码阅读参考与 fork 起点，附 8 篇双语讲解文章与 373 个离线测试；作者明确说明不面向日常生产使用。
+用约 1,532 行引擎（全包 3,492 行 Python）实现的最小编码 agent：主循环围绕 LLM 与 8 个工具（bash、读写/编辑文件、glob、grep、todo、子 agent）运转，可读写文件、执行 shell、生成子 agent，三级上下文压缩，支持 plan mode、hooks、checkpoints，附带 422 个离线测试。默认走 OpenAI 兼容 API，切换供应商仅需两个环境变量，可选 LiteLLM 后端。定位是可读参考实现，供阅读源码后 fork 改造，而非日常生产力工具。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 核心引擎约 1,532 行纯 Python，整个项目可一次读完
-- 8 个内置工具，支持子 agent、MCP 扩展接入
-- 三级上下文压缩与 OpenAI 兼容 API 多供应商切换
-- 373 个离线测试与可选 live smoke test
+- 引擎约 1,532 行、全包 3,492 行，可在一下午通读并断点修改
+- 8 个内置工具 + 可选 MCP 服务器扩展（mcp__* 工具）
+- 三级上下文压缩：先裁剪工具输出，再摘要旧轮次，90% 时才强压缩
+- edit_file 采用唯一片段搜索替换而非行号，成功时返回 diff
 
 ## 适用场景
 
-- 想通过读源码理解编码 agent 的工作原理
-- 以此为基础 fork 出自己的编码 agent
-- 教学场景中展示 agent 主循环与上下文管理机制
+- 阅读源码理解编码 agent 的工作原理
+- 以最小实现为基础 fork 出自己的 agent
+- 接入 OpenAI 兼容端点的任意模型跑端到端编码任务
 
 ## 场景标签
 
-`编码 Agent` `教程课程` · 领域:编码与开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L29: The nanoGPT column is there as a reference point: minimal, readable, but it teaches you to train a GPT. CoreCoder i
-> L33: I've always felt coding agents get talked about as if they were arcane. Strip a tool like Claude Code or Cursor all
+> L3: **The nanoGPT of coding agents. A 1.5k-line engine inside 3,492 readable lines of pure Python: understand how a codi
+> L37: And it really runs: reads and writes files, executes shell, spawns sub-agents, compacts context in three tiers, and
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b352bb169b5a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `28b10676c5e4` · [字段定义](../../DATASET.md)*

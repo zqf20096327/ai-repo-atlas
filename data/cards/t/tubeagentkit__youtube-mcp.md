@@ -1,6 +1,6 @@
 # tubeagentkit/youtube-mcp
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tubeagentkit/youtube-mcp) · [官网](https://getyoutubetranscript.com) · 组织维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tubeagentkit/youtube-mcp) · [官网](https://getyoutubetranscript.com) · 组织维护
 
 **远程 YouTube MCP 服务器：供 AI 客户端取转录、搜索视频与频道**
 

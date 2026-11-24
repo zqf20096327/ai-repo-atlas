@@ -1,6 +1,6 @@
 # friendliai/friendlilink
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/friendliai/friendlilink) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/friendliai/friendlilink) · 组织维护
 
 **将多种编码 agent 的配置切换为通过 FriendliAI 运行的 CLI 工具**
 

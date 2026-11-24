@@ -1,6 +1,6 @@
 # tahamukhtar20/mapcv
 
-⭐ 14 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tahamukhtar20/mapcv) · [官网](https://tahamukhtar20.github.io/mapcv/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tahamukhtar20/mapcv) · [官网](https://tahamukhtar20.github.io/mapcv/) · 个人维护
 
 **把影像与地理标签转成可训练遥感数据集的命令行工具**
 

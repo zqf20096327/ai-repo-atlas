@@ -1,6 +1,6 @@
 # danilokhury/Synabun
 
-⭐ 75 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/danilokhury/Synabun) · [官网](https://synabun.ai) · 个人维护
+⭐ 75 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/danilokhury/Synabun) · [官网](https://synabun.ai) · 个人维护
 
 **自托管持久记忆 MCP 服务器与 AI 编码工作台**
 

@@ -1,6 +1,6 @@
 # uncoalesced/agent-wire
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/uncoalesced/agent-wire) · [官网](https://uncoalesced.com/agent-wire) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/uncoalesced/agent-wire) · [官网](https://uncoalesced.com/agent-wire) · 个人维护
 
 **让 AI agent 在本机读取网页与 31 个站点并写出引用简报的 MCP 服务器**
 

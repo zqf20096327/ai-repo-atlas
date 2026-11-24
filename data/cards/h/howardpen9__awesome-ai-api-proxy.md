@@ -1,6 +1,6 @@
 # howardpen9/awesome-ai-api-proxy
 
-⭐ 112 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/howardpen9/awesome-ai-api-proxy) · 个人维护 · 中文 README
+⭐ 118 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/howardpen9/awesome-ai-api-proxy) · 个人维护 · 中文 README
 
 **面向中国及受限地区开发者的 AI API 中转站与 LLM 网关策展清单**
 

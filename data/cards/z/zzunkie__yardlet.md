@@ -1,6 +1,6 @@
 # zzunkie/yardlet
 
-⭐ 46 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zzunkie/yardlet) · [官网](https://yardlet.app) · 个人维护
+⭐ 46 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zzunkie/yardlet) · [官网](https://yardlet.app) · 个人维护
 
 **macOS 原生应用：同窗口并排运行多个编码 agent CLI**
 

@@ -1,6 +1,6 @@
 # httpsphl/botloft
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/httpsphl/botloft) · [官网](https://github.com/httpsphl/botloft/releases/latest) · 个人维护
+⭐ 16 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/httpsphl/botloft) · [官网](https://github.com/httpsphl/botloft/releases/latest) · 个人维护
 
 **本地常驻多 AI 编码 agent 编排桌面应用（Claude Code/Antigravity/Codex）**
 

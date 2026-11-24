@@ -1,6 +1,6 @@
 # jacklandrin/OnlySwitch
 
-⭐ 6,081 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jacklandrin/OnlySwitch) · [官网](https://onlyswitch.click/) · 个人维护 · 中文 README
+⭐ 6,084 · Swift · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jacklandrin/OnlySwitch) · [官网](https://onlyswitch.click/) · 个人维护 · 中文 README
 
 **macOS 菜单栏一体化控制工具，含 AI Agent 与桌面宠物**
 

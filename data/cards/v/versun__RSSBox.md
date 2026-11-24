@@ -1,6 +1,6 @@
 # versun/RSSBox
 
-⭐ 683 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/versun/RSSBox) · [官网](https://rssbox.app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自托管的 RSS 翻译、总结与过滤服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

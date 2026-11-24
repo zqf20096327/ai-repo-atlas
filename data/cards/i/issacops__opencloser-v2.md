@@ -1,6 +1,6 @@
 # issacops/opencloser-v2
 
-⭐ 20 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/issacops/opencloser-v2) · [官网](https://issacops.github.io/opencloser-v2/) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/issacops/opencloser-v2) · [官网](https://issacops.github.io/opencloser-v2/) · 组织维护
 
 **本地桌面版开源 AI 销售团队：AI 冷呼、找客与教练**
 

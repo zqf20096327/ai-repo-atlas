@@ -1,6 +1,6 @@
 # afjcjsbx/picoclaw
 
-⭐ 63 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/afjcjsbx/picoclaw) · [官网](https://afjcjsbx.github.io/picoclaw/) · 个人维护 · 中文 README
+⭐ 64 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/afjcjsbx/picoclaw) · [官网](https://afjcjsbx.github.io/picoclaw/) · 个人维护 · 中文 README
 
 **超轻量自托管个人 AI 助手，可在 RISC-V/开发板/嵌入式运行**
 

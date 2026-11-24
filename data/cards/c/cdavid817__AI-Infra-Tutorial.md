@@ -1,6 +1,6 @@
 # cdavid817/AI-Infra-Tutorial
 
-⭐ 18 · JavaScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/cdavid817/AI-Infra-Tutorial) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/cdavid817/AI-Infra-Tutorial) · 个人维护 · 中文 README
 
 **面向平台建设方的中文 AI 基础设施书稿（31 章+附录+估算器）**
 

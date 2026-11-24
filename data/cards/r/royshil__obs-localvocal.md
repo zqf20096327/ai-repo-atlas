@@ -1,6 +1,6 @@
 # royshil/obs-localvocal
 
-⭐ 1,674 · C++ · GPL-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/royshil/obs-localvocal) · [官网](https://obsproject.com/forum/resources/localvocal-live-stream-ai-assistant.1769/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **OBS 本地语音转写与实时字幕/翻译插件**
 
@@ -11,7 +11,7 @@ OBS Studio 源/滤镜插件：在本地机器上用 OpenAI Whisper（经 Whisper
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-2.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

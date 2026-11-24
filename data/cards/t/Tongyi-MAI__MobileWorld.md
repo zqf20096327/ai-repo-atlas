@@ -1,6 +1,6 @@
 # Tongyi-MAI/MobileWorld
 
-⭐ 307 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Tongyi-MAI/MobileWorld) · [官网](https://tongyi-mai.github.io/MobileWorld/) · 组织维护 · 中文 README
+⭐ 307 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Tongyi-MAI/MobileWorld) · [官网](https://tongyi-mai.github.io/MobileWorld/) · 组织维护 · 中文 README
 
 **评测自主移动 Agent 的基准：201 任务、20 应用、MCP 与人机交互**
 

@@ -1,6 +1,6 @@
 # reyamira/models
 
-⭐ 523 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/reyamira/models) · [官网](https://reyamira.github.io/models/) · 个人维护
+⭐ 523 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/reyamira/models) · [官网](https://reyamira.github.io/models/) · 个人维护
 
 **浏览 AI 模型、基准、编程 agent 与厂商状态的 TUI/CLI**
 

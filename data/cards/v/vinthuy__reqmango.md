@@ -1,6 +1,6 @@
 # vinthuy/reqmango
 
-⭐ 13 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/vinthuy/reqmango) · [官网](https://vinthuy.github.io/reqmango/) · 个人维护 · 中文 README
+⭐ 13 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vinthuy/reqmango) · [官网](https://vinthuy.github.io/reqmango/) · 个人维护 · 中文 README
 
 **自托管项目管理工具：请求先分诊再入积压，AI 辅助处理**
 

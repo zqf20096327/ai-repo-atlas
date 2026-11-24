@@ -1,6 +1,6 @@
 # liuchaoqi-7/DA_Multi_Agent_Workflow
 
-⭐ 37 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/liuchaoqi-7/DA_Multi_Agent_Workflow) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/liuchaoqi-7/DA_Multi_Agent_Workflow) · 个人维护 · 中文 README
 
 **电商多平台数据中台：n8n+LLM 实现 ETL、数仓建模与飞书智能问数**
 

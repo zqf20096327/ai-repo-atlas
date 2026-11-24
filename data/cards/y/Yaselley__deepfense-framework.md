@@ -1,6 +1,6 @@
 # Yaselley/deepfense-framework
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Yaselley/deepfense-framework) · [官网](https://deepfense.github.io/) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/Yaselley/deepfense-framework) · [官网](https://deepfense.github.io/) · 组织维护
 
 **模块化深度伪造音频检测框架：YAML 组合前端/后端/损失训练检测器**
 

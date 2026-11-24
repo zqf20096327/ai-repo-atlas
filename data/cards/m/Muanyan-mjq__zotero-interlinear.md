@@ -1,6 +1,6 @@
 # Muanyan-mjq/zotero-interlinear
 
-⭐ 98 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Muanyan-mjq/zotero-interlinear) · 个人维护 · 中文 README
+⭐ 100 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Muanyan-mjq/zotero-interlinear) · 个人维护 · 中文 README
 
 **Zotero 10/11 段落对照翻译插件：原文下方即显示译文**
 

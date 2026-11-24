@@ -1,6 +1,6 @@
 # Codehagen/Quincy
 
-⭐ 6 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Codehagen/Quincy) · [官网](https://hirequincy.com) · 个人维护
+⭐ 7 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Codehagen/Quincy) · [官网](https://hirequincy.com) · 个人维护
 
 **面向内容创作者的 AI 内容主管 agent：从素材生成各渠道草稿并发布**
 

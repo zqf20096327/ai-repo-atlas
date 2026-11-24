@@ -1,6 +1,6 @@
 # kucherenko/jscpd
 
-⭐ 6,592 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kucherenko/jscpd) · [官网](https://jscpd.dev) · 个人维护
+⭐ 6,605 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kucherenko/jscpd) · [官网](https://jscpd.dev) · 个人维护
 
 **面向开发者的源码重复代码检测器，支持 224 种语言并集成 MCP 供 AI 使用**
 

@@ -1,6 +1,6 @@
 # PrathmeshYa/ai--manus
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/PrathmeshYa/ai--manus) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/PrathmeshYa/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI 代理：代为写代码并控制浏览器**
 

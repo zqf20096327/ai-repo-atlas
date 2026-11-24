@@ -1,6 +1,6 @@
 # huggingface/smolagents
 
-⭐ 30,487 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/smolagents) · [官网](https://huggingface.co/docs/smolagents) · 组织维护
+⭐ 30,503 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/smolagents) · [官网](https://huggingface.co/docs/smolagents) · 组织维护
 
 **以代码动作构建 LLM Agent 的轻量 Python 库**
 

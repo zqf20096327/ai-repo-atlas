@@ -1,6 +1,6 @@
 # RockxyApp/Rockxy
 
-⭐ 1,516 · Swift · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/RockxyApp/Rockxy) · [官网](https://rockxy.io) · 组织维护
+⭐ 1,519 · Swift · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/RockxyApp/Rockxy) · [官网](https://rockxy.io) · 组织维护
 
 **macOS 原生 HTTP 调试代理：抓包、解密、Mock 与 AI 辅助分析**
 

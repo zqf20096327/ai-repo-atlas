@@ -1,6 +1,6 @@
 # modswawa-netizen/openrouter-multi-llm-router-billing
 
-⭐ 69 · 推送 2026-11-06 · [GitHub](https://github.com/modswawa-netizen/openrouter-multi-llm-router-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 91 · 推送 2026-11-06 · [GitHub](https://github.com/modswawa-netizen/openrouter-multi-llm-router-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡的文章：解决 AI 网关充值风控问题**
 

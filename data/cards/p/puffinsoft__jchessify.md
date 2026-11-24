@@ -1,6 +1,6 @@
 # puffinsoft/jchessify
 
-⭐ 13 · Java · MIT · 推送 2025-11-27 · [GitHub](https://github.com/puffinsoft/jchessify) · [官网](https://puffinsoft.github.io/jchessify/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Java 国际象棋引擎框架：快速搭建带搜索与评估的引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # renefichtmueller/adaptive-llm-gateway
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/renefichtmueller/adaptive-llm-gateway) · 个人维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/renefichtmueller/adaptive-llm-gateway) · 个人维护
 
 **把包月 AI 订阅 CLI 转成统一 OpenAI/Anthropic 兼容 API 的自托管网关**
 

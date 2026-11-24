@@ -1,6 +1,6 @@
 # termilly/termilly
 
-⭐ 61 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/termilly/termilly) · [官网](https://termilly.com) · 个人维护
+⭐ 62 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/termilly/termilly) · [官网](https://termilly.com) · 个人维护
 
 **跨平台终端管理器：分组工作区并显示编码 agent 状态**
 

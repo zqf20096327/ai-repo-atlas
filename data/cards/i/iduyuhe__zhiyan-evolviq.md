@@ -1,6 +1,6 @@
 # iduyuhe/zhiyan-evolviq
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/iduyuhe/zhiyan-evolviq) · [官网](https://github.com/iduyuhe/zhiyan-evolviq) · 组织维护 · 中文 README
+⭐ 15 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/iduyuhe/zhiyan-evolviq) · [官网](https://github.com/iduyuhe/zhiyan-evolviq) · 组织维护 · 中文 README
 
 **面向电子制造与半导体的开源工业 Agent 平台**
 

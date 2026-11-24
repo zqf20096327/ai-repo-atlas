@@ -1,6 +1,6 @@
 # Ido-Levi/Hephaestus
 
-⭐ 1,191 · Python · NOASSERTION · 推送 2025-12-01 · [GitHub](https://github.com/Ido-Levi/Hephaestus) · 个人维护
+⭐ 1,190 · Python · NOASSERTION · 推送 2025-12-01 · [GitHub](https://github.com/Ido-Levi/Hephaestus) · 个人维护
 
 **半结构化多智能体框架：工作流由 agent 发现动态生成任务**
 

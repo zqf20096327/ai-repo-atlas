@@ -1,6 +1,6 @@
 # Nahomi055/medical-risk-screening-bot
 
-⭐ 153 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nahomi055/medical-risk-screening-bot) · 个人维护
+⭐ 153 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nahomi055/medical-risk-screening-bot) · 个人维护
 
 **社区驱动的 Telegram 机器人：糖尿病与心脏病早期风险初筛**
 

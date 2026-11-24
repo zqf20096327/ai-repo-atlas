@@ -1,6 +1,6 @@
 # QIN2DIM/hcaptcha-challenger
 
-⭐ 2,591 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/QIN2DIM/hcaptcha-challenger) · 个人维护 · 中文 README
+⭐ 2,590 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/QIN2DIM/hcaptcha-challenger) · 个人维护 · 中文 README
 
 **用多模态大模型与视觉模型自动求解 hCaptcha 验证码的工具库**
 

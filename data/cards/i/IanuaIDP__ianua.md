@@ -1,6 +1,6 @@
 # IanuaIDP/ianua
 
-⭐ 18 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/IanuaIDP/ianua) · [官网](https://ianuaidp.github.io/ianua/) · 个人维护
+⭐ 20 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/IanuaIDP/ianua) · [官网](https://ianuaidp.github.io/ianua/) · 个人维护
 
 **给团队应用与 AI agent 提供统一登录、网关与权限管控**
 

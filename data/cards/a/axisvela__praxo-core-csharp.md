@@ -1,6 +1,6 @@
 # axisvela/praxo-core-csharp
 
-⭐ 3 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-csharp) · [官网](https://axisvela.github.io/praxo-core/languages/csharp/) · 组织维护
+⭐ 3 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-csharp) · [官网](https://axisvela.github.io/praxo-core/languages/csharp/) · 组织维护
 
 **.NET 开发者的可嵌入 AI agent 框架（策略/工具/检查点）**
 

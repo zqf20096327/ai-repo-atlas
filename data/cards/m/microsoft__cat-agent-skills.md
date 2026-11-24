@@ -1,6 +1,6 @@
 # microsoft/cat-agent-skills
 
-⭐ 114 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/cat-agent-skills) · 组织维护
+⭐ 115 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/cat-agent-skills) · 组织维护
 
 **微软维护的 agent 技能社区画廊站点：供 Copilot Studio/Cowork/Scout 使用**
 

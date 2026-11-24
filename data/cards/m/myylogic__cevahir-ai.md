@@ -1,6 +1,6 @@
 # myylogic/cevahir-ai
 
-⭐ 314 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/myylogic/cevahir-ai) · 个人维护
+⭐ 314 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/myylogic/cevahir-ai) · 个人维护
 
 **面向土耳其语的 LLM 训练与认知对话引擎，供开发者自训模型**
 

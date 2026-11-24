@@ -1,6 +1,6 @@
 # thiswillbeyourgithub/AnkiAIUtils
 
-⭐ 896 · Python · AGPL-3.0 · 推送 2026-06-01 · [GitHub](https://github.com/thiswillbeyourgithub/AnkiAIUtils) · 个人维护
+⭐ 894 · Python · AGPL-3.0 · 推送 2026-06-01 · [GitHub](https://github.com/thiswillbeyourgithub/AnkiAIUtils) · 个人维护
 
 **用 LLM 自动增强 Anki 卡片的脚本集：解释/助记/插图**
 

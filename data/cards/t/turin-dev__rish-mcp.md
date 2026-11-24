@@ -1,6 +1,6 @@
 # turin-dev/rish-mcp
 
-⭐ 32 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/turin-dev/rish-mcp) · 个人维护 · 中文 README
+⭐ 32 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/turin-dev/rish-mcp) · 个人维护 · 中文 README
 
 **让 AI 客户端经 MCP 远程访问 Android 设备 shell 的自托管中继**
 

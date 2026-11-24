@@ -1,6 +1,6 @@
 # aignostics/python-sdk
 
-⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aignostics/python-sdk) · [官网](https://aignostics.readthedocs.io) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aignostics/python-sdk) · [官网](https://aignostics.readthedocs.io) · 组织维护
 
 **已弃用的 Aignostics 计算病理学平台 Python SDK 客户端**
 

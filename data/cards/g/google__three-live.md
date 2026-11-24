@@ -1,6 +1,6 @@
 # google/three-live
 
-⭐ 478 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/google/three-live) · [官网](https://google.github.io/three-live/) · 组织维护
+⭐ 495 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/google/three-live) · [官网](https://google.github.io/three-live/) · 组织维护
 
 **把 Three.js 代码 JIT 编译为原生 3D/XR 渲染的开发工具**
 

@@ -1,6 +1,6 @@
 # crit-labs/crit
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/crit-labs/crit) · [官网](https://crit-hub.dev) · 组织维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/crit-labs/crit) · [官网](https://crit-hub.dev) · 组织维护
 
 **给编码 agent 用的推理引擎构建与优化工具包**
 

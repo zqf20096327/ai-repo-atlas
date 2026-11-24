@@ -1,6 +1,6 @@
 # mushroomTW/RimAgent
 
-⭐ 4 · C# · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/mushroomTW/RimAgent) · 个人维护 · 中文 README
+⭐ 4 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mushroomTW/RimAgent) · 个人维护 · 中文 README
 
 **用自然语言管理 RimWorld 殖民地的游戏内 AI agent 模组**
 

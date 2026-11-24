@@ -1,6 +1,6 @@
 # qualcomm/efficient-transformers
 
-⭐ 103 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/qualcomm/efficient-transformers) · [官网](https://qualcomm.github.io/efficient-transformers/) · 组织维护
+⭐ 103 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/qualcomm/efficient-transformers) · [官网](https://qualcomm.github.io/efficient-transformers/) · 组织维护
 
 **把 HuggingFace 模型移植到高通 Cloud AI 加速卡的推理库**
 

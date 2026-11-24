@@ -1,6 +1,6 @@
 # gravion-ux/llm-redteam-kit
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/llm-redteam-kit) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravion-ux/llm-redteam-kit) · 个人维护
 
 **面向开发者的 LLM 红队评测工具：注入/越狱探针与 CI 回归门禁**
 

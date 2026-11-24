@@ -1,6 +1,6 @@
 # bigduu/Bodhi-AI
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bigduu/Bodhi-AI) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bigduu/Bodhi-AI) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI agent 窗口：管理 Bamboo 运行时执行任务**
 

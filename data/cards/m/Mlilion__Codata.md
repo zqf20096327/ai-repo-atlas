@@ -1,6 +1,6 @@
 # Mlilion/Codata
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Mlilion/Codata) · 个人维护 · 中文 README
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Mlilion/Codata) · 个人维护 · 中文 README
 
 **本地优先的桌面 Data Agent：自然语言查数、SQL、看板与专家团分析**
 

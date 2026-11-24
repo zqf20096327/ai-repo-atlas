@@ -1,6 +1,6 @@
 # dialexity/dialectical-framework
 
-⭐ 23 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/dialexity/dialectical-framework) · [官网](https://dialexity.com) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dialexity/dialectical-framework) · [官网](https://dialexity.com) · 组织维护
 
 **面向 LLM 的辩证推理框架：张力图谱驱动综合判断**
 

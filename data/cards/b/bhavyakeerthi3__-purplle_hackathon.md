@@ -1,6 +1,6 @@
 # bhavyakeerthi3/-purplle_hackathon
 
-⭐ 64 · HTML · 推送 2026-06-22 · [GitHub](https://github.com/bhavyakeerthi3/-purplle_hackathon) · 个人维护
+⭐ 67 · HTML · 推送 2026-06-22 · [GitHub](https://github.com/bhavyakeerthi3/-purplle_hackathon) · 个人维护
 
 **把 CCTV 录像转为门店客流与销售分析的平台**
 

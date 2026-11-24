@@ -1,6 +1,6 @@
 # konjoai/squish
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/konjoai/squish) · [官网](https://squish.run) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/konjoai/squish) · [官网](https://squish.run) · 组织维护
 
 **Apple Silicon 上的本地 LLM 推理守护进程，兼容 OpenAI/Ollama API**
 

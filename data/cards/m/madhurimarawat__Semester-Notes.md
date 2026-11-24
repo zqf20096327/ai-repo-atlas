@@ -1,6 +1,6 @@
 # madhurimarawat/Semester-Notes
 
-⭐ 74 · HTML · MIT · 推送 2026-04-25 · [GitHub](https://github.com/madhurimarawat/Semester-Notes) · [官网](https://madhurimarawat.github.io/Semester-Notes/) · 个人维护
+⭐ 74 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/madhurimarawat/Semester-Notes) · [官网](https://madhurimarawat.github.io/Semester-Notes/) · 个人维护
 
 **B.Tech CSE（AI/DS 方向）八年学期课程笔记与试卷知识库**
 

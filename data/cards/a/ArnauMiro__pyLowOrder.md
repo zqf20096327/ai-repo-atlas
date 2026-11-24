@@ -1,6 +1,6 @@
 # ArnauMiro/pyLowOrder
 
-⭐ 36 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ArnauMiro/pyLowOrder) · [官网](https://arnaumiro.github.io/pyLowOrder/) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ArnauMiro/pyLowOrder) · [官网](https://arnaumiro.github.io/pyLowOrder/) · 组织维护
 
 **面向 CFD/流体力学的并行降阶模型与深度学习代理建模库**
 

@@ -1,6 +1,6 @@
 # StashDock/StashDock
 
-⭐ 678 · HTML · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 个人维护 · 中文 README
+⭐ 701 · HTML · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 个人维护 · 中文 README
 
 **本地优先的个人上下文库：为 AI 对话收集复用引用**
 

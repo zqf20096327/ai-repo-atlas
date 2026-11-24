@@ -1,6 +1,6 @@
 # nczz/pi-knowledge
 
-⭐ 38 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nczz/pi-knowledge) · [官网](https://www.npmjs.com/package/pi-knowledge) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nczz/pi-knowledge) · [官网](https://www.npmjs.com/package/pi-knowledge) · 个人维护
 
 **给 Pi/OMP 编程 agent 的本地优先 RAG 知识库**
 

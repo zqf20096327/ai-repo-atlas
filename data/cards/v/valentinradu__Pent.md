@@ -1,6 +1,6 @@
 # valentinradu/Pent
 
-⭐ 10 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/valentinradu/Pent) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/valentinradu/Pent) · 个人维护
 
 **给开发者限制不可信进程文件与网络访问的轻量沙箱**
 

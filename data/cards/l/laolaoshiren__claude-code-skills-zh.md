@@ -1,6 +1,6 @@
 # laolaoshiren/claude-code-skills-zh
 
-⭐ 927 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/laolaoshiren/claude-code-skills-zh) · [官网](https://claude-skills.bt199.com/) · 个人维护 · 中文 README
+⭐ 927 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/laolaoshiren/claude-code-skills-zh) · [官网](https://claude-skills.bt199.com/) · 个人维护 · 中文 README
 
 **中文开发者的 Claude Code Skills 精选与原创技能库**
 

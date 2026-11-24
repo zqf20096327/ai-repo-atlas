@@ -1,6 +1,6 @@
 # epicsagas/epic-harness
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/epicsagas/epic-harness) · [官网](https://epicsagas.github.io/epic-harness/) · 组织维护 · 中文 README
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epicsagas/epic-harness) · [官网](https://epicsagas.github.io/epic-harness/) · 组织维护 · 中文 README
 
 **自我进化的 Claude Code 插件：3 命令+25 技能+自主 spec-to-PR 流水线**
 

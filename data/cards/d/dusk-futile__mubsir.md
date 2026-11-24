@@ -1,6 +1,6 @@
 # dusk-futile/mubsir
 
-⭐ 73 · C# · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/dusk-futile/mubsir) · 个人维护
+⭐ 74 · C# · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/dusk-futile/mubsir) · 个人维护
 
 **面向盲人与低视力者的 Windows 语音代理：按住一键用阿/英文操控整台电脑**
 

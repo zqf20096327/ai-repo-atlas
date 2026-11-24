@@ -1,6 +1,6 @@
 # Ultra-Smashed/reflexion-skill
 
-⭐ 7 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ultra-Smashed/reflexion-skill) · [官网](https://thanisch.co/wissen/guides/reflexion-skill) · 个人维护 · 中文 README
+⭐ 8 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ultra-Smashed/reflexion-skill) · [官网](https://thanisch.co/wissen/guides/reflexion-skill) · 个人维护 · 中文 README
 
 **给 Claude 用户的任务复盘 Skill：四问总结并把经验写入文件**
 

@@ -1,6 +1,6 @@
 # llamatik/Llamatik
 
-⭐ 227 · Kotlin · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/llamatik/Llamatik) · [官网](https://www.llamatik.com) · 组织维护
+⭐ 227 · Kotlin · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/llamatik/Llamatik) · [官网](https://www.llamatik.com) · 组织维护
 
 **Kotlin 跨平台端侧 AI SDK：LLM/语音/图像生成与 Agent 框架**
 

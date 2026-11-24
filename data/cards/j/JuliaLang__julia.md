@@ -1,6 +1,6 @@
 # JuliaLang/julia
 
-⭐ 49,288 · Julia · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JuliaLang/julia) · [官网](https://julialang.org/) · 组织维护
+⭐ 49,295 · Julia · MIT · 推送 2026-11-24 · [GitHub](https://github.com/JuliaLang/julia) · [官网](https://julialang.org/) · 组织维护
 
 **面向技术计算的高性能动态编程语言**
 

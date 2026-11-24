@@ -1,6 +1,6 @@
 # Paul-B98/lecture-ai-basics
 
-⭐ 16 · Jupyter Notebook · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/Paul-B98/lecture-ai-basics) · 个人维护
+⭐ 16 · Jupyter Notebook · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/Paul-B98/lecture-ai-basics) · 个人维护
 
 **AI 入门课程的讲义与实践内容仓库**
 

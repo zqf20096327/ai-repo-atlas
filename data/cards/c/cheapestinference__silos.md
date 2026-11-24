@@ -1,6 +1,6 @@
 # cheapestinference/silos
 
-⭐ 17 · TypeScript · MIT · 推送 2026-04-19 · [GitHub](https://github.com/cheapestinference/silos) · [官网](https://silosplatform.com) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cheapestinference/silos) · [官网](https://silosplatform.com) · 组织维护
 
 **OpenClaw AI agent 的自托管 Web 管理面板**
 

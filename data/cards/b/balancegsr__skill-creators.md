@@ -1,6 +1,6 @@
 # balancegsr/skill-creators
 
-⭐ 21 · MIT · 推送 2026-03-30 · [GitHub](https://github.com/balancegsr/skill-creators) · 个人维护 · 中文 README
+⭐ 22 · MIT · 推送 2026-03-30 · [GitHub](https://github.com/balancegsr/skill-creators) · 个人维护 · 中文 README
 
 **生成定制化项目级 AI Skill 的 Creator 工具集**
 

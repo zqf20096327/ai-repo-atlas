@@ -1,6 +1,6 @@
 # PansaLegrand/dojo-video-agent
 
-⭐ 75 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PansaLegrand/dojo-video-agent) · [官网](https://github.com/PansaLegrand/dojo-video-engine) · 组织维护
+⭐ 81 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PansaLegrand/dojo-video-agent) · [官网](https://github.com/PansaLegrand/dojo-video-engine) · 组织维护
 
 **开源本地视频编辑器：人与 AI agent 共用同一条时间线**
 

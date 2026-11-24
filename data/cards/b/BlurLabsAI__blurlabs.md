@@ -1,6 +1,6 @@
 # BlurLabsAI/blurlabs
 
-⭐ 64 · Python · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/BlurLabsAI/blurlabs) · [官网](https://www.blurlabs.ai/ram2) · 组织维护
+⭐ 66 · Python · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/BlurLabsAI/blurlabs) · [官网](https://www.blurlabs.ai/ram2) · 组织维护
 
 **面向成像研究者的通用图像重建基础模型（RAM 2）**
 

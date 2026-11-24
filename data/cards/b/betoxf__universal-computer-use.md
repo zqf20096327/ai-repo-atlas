@@ -1,6 +1,6 @@
 # betoxf/universal-computer-use
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/betoxf/universal-computer-use) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/betoxf/universal-computer-use) · 个人维护
 
 **让 AI agent 在后台操作 Mac 应用的 MCP 服务器**
 

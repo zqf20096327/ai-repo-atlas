@@ -1,6 +1,6 @@
 # Browser-bookmark-hub/Bookmark-Canvas
 
-⭐ 10 · JavaScript · GPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/Browser-bookmark-hub/Bookmark-Canvas) · 组织维护 · 中文 README
+⭐ 10 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Browser-bookmark-hub/Bookmark-Canvas) · 组织维护 · 中文 README
 
 **基于 JSON Canvas 的 Chrome/Edge 书签可视化画布管理器**
 

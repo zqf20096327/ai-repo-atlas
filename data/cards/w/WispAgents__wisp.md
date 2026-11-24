@@ -1,6 +1,6 @@
 # WispAgents/wisp
 
-⭐ 13 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/WispAgents/wisp) · [官网](https://trywisp.dev/) · 组织维护
+⭐ 14 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/WispAgents/wisp) · [官网](https://trywisp.dev/) · 组织维护
 
 **在后台并行运行编码 Agent，交付一屏报告而非完整转录**
 

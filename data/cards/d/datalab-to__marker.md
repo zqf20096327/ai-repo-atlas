@@ -1,6 +1,6 @@
 # datalab-to/marker
 
-⭐ 41,018 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/datalab-to/marker) · [官网](https://www.datalab.to) · 组织维护
+⭐ 41,037 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/datalab-to/marker) · [官网](https://www.datalab.to) · 组织维护
 
 **将 PDF/Office/EPUB 等文档转为 Markdown/JSON 的深度学习解析工具**
 

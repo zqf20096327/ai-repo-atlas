@@ -1,6 +1,6 @@
 # LingyiChen-AI/beetle
 
-⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/LingyiChen-AI/beetle) · 个人维护 · 中文 README
+⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/LingyiChen-AI/beetle) · 个人维护 · 中文 README
 
 **把飞书群里 @ 机器人的问题交给本机 Claude Code/Codex 处理的托盘客户端**
 

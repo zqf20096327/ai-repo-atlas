@@ -1,6 +1,6 @@
 # Rootly-AI-Labs/rootly-doom-agent-arena
 
-⭐ 18 · C · 推送 2026-11-16 · [GitHub](https://github.com/Rootly-AI-Labs/rootly-doom-agent-arena) · 组织维护
+⭐ 18 · C · 推送 2026-11-23 · [GitHub](https://github.com/Rootly-AI-Labs/rootly-doom-agent-arena) · 组织维护
 
 **在 Doom 游戏中对模型进行实时 1v1 对战的评测竞技场**
 

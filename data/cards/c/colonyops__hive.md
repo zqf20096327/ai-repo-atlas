@@ -1,6 +1,6 @@
 # colonyops/hive
 
-⭐ 43 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/colonyops/hive) · [官网](https://colonyops.github.io/hive/) · 组织维护
+⭐ 43 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/colonyops/hive) · [官网](https://colonyops.github.io/hive/) · 组织维护
 
 **管理多个 AI agent 隔离 git 会话的 CLI/TUI 工具**
 

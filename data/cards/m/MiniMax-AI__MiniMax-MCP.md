@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-MCP
 
-⭐ 1,612 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/MiniMax-AI/MiniMax-MCP) · [官网](https://www.minimax.io/platform) · 组织维护 · 中文 README
+⭐ 1,613 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/MiniMax-AI/MiniMax-MCP) · [官网](https://www.minimax.io/platform) · 组织维护 · 中文 README
 
 **MiniMax 官方 MCP 服务器：为 MCP 客户端接入语音/图像/视频生成 API**
 

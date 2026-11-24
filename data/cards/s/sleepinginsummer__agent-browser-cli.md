@@ -1,6 +1,6 @@
 # sleepinginsummer/agent-browser-cli
 
-⭐ 649 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/sleepinginsummer/agent-browser-cli) · [官网](https://www.npmjs.com/package/@sleepinsummer/agent-browser-cli) · 个人维护 · 中文 README
+⭐ 650 · Rust · MIT · 推送 2026-11-02 · [GitHub](https://github.com/sleepinginsummer/agent-browser-cli) · [官网](https://www.npmjs.com/package/@sleepinsummer/agent-browser-cli) · 个人维护 · 中文 README
 
 **给 AI Agent 提供浏览器感知与控制能力的 CLI**
 

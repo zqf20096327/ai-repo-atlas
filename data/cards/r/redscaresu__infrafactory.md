@@ -1,6 +1,6 @@
 # redscaresu/infrafactory
 
-⭐ 17 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/redscaresu/infrafactory) · [官网](https://github.com/redscaresu/infrafactory) · 个人维护
+⭐ 17 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/redscaresu/infrafactory) · [官网](https://github.com/redscaresu/infrafactory) · 个人维护
 
 **用 LLM 按场景生成多云 OpenTofu 代码并以 mock 验证**
 

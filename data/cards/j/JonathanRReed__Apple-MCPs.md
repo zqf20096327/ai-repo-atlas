@@ -1,6 +1,6 @@
 # JonathanRReed/Apple-MCPs
 
-⭐ 35 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/JonathanRReed/Apple-MCPs) · [官网](https://jonathanrreed.com/projects/apple-mcps/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JonathanRReed/Apple-MCPs) · [官网](https://jonathanrreed.com/projects/apple-mcps/) · 个人维护
 
 **让 AI agent 经 MCP 操作 macOS 应用（邮件/日历/短信等）的服务器**
 

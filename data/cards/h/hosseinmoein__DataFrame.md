@@ -1,6 +1,6 @@
 # hosseinmoein/DataFrame
 
-⭐ 2,997 · C++ · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/hosseinmoein/DataFrame) · [官网](https://hosseinmoein.github.io/DataFrame/) · 个人维护
+⭐ 2,997 · C++ · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/hosseinmoein/DataFrame) · [官网](https://hosseinmoein.github.io/DataFrame/) · 个人维护
 
 **C++ 数据分析库：供量化/数据科学场景做统计与表格计算**
 

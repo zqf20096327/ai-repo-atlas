@@ -1,6 +1,6 @@
 # Agentic-System-Lab/harness-relay
 
-⭐ 38 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Agentic-System-Lab/harness-relay) · [官网](https://agentic-system-lab.github.io/harness-relay/) · 组织维护 · 中文 README
+⭐ 41 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Agentic-System-Lab/harness-relay) · [官网](https://agentic-system-lab.github.io/harness-relay/) · 组织维护 · 中文 README
 
 **本地多 coding agent 协作任务助手：12 种 agent 组队答问改码**
 

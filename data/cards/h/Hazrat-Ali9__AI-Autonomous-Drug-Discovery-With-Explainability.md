@@ -1,6 +1,6 @@
 # Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability
 
-⭐ 25 · 推送 2026-08-18 · [GitHub](https://github.com/Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability) · [官网](https://github.com/Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability) · 个人维护
+⭐ 26 · 推送 2026-08-18 · [GitHub](https://github.com/Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability) · [官网](https://github.com/Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability) · 个人维护
 
 **药物发现 AI 平台：分子预测、生成与可解释决策**
 

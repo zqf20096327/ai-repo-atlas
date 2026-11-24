@@ -1,6 +1,6 @@
 # NitinReddy-A/Rampart
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/NitinReddy-A/Rampart) · [官网](https://rampart.dpdns.org) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NitinReddy-A/Rampart) · [官网](https://rampart.dpdns.org) · 个人维护
 
 **面向开发者的自托管 AppSec 代理：只报告可复现证明的 Web/API 漏洞**
 

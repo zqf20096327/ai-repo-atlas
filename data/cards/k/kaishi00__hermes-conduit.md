@@ -1,6 +1,6 @@
 # kaishi00/hermes-conduit
 
-⭐ 666 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kaishi00/hermes-conduit) · [官网](https://hermesconduit.app) · 个人维护
+⭐ 685 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kaishi00/hermes-conduit) · [官网](https://hermesconduit.app) · 个人维护
 
 **自托管 Hermes Agent 的原生 iOS/iPadOS/Watch 客户端**
 
@@ -34,7 +34,7 @@
 
 ## 场景标签
 
- · 领域:AI Agent 客户端/移动应用
+`聊天机器人` `语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 

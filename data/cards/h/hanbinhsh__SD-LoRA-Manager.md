@@ -1,6 +1,6 @@
 # hanbinhsh/SD-LoRA-Manager
 
-⭐ 37 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hanbinhsh/SD-LoRA-Manager) · 个人维护 · 中文 README
+⭐ 38 · C++ · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hanbinhsh/SD-LoRA-Manager) · 个人维护 · 中文 README
 
 **本地 Stable Diffusion LoRA 模型与返图管理桌面工具**
 

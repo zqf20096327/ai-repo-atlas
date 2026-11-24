@@ -1,6 +1,6 @@
 # tensorflow/text
 
-⭐ 1,299 · C++ · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/tensorflow/text) · [官网](https://www.tensorflow.org/beta/tutorials/tensorflow_text/intro) · 组织维护
+⭐ 1,299 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tensorflow/text) · [官网](https://www.tensorflow.org/beta/tutorials/tensorflow_text/intro) · 组织维护
 
 **TensorFlow 官方文本预处理算子库，供 TF2 文本模型使用**
 

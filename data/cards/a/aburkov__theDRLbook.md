@@ -1,6 +1,6 @@
 # aburkov/theDRLbook
 
-⭐ 10 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/aburkov/theDRLbook) · [官网](http://www.thedrlbook.com) · 个人维护
+⭐ 11 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/aburkov/theDRLbook) · [官网](http://www.thedrlbook.com) · 个人维护
 
 **《百页深度强化学习》官方代码仓库**
 

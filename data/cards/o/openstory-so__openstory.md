@@ -1,6 +1,6 @@
 # openstory-so/openstory
 
-⭐ 729 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/openstory-so/openstory) · [官网](https://openstory.so) · 组织维护
+⭐ 729 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/openstory-so/openstory) · [官网](https://openstory.so) · 组织维护
 
 **本地运行的开源 AI 影片生成工作室，脚本生成完整短片**
 

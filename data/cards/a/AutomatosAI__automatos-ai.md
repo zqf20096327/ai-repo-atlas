@@ -1,6 +1,6 @@
 # AutomatosAI/automatos-ai
 
-⭐ 79 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/AutomatosAI/automatos-ai) · [官网](https://automatos.app) · 组织维护
+⭐ 80 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AutomatosAI/automatos-ai) · [官网](https://automatos.app) · 组织维护
 
 **自托管多智能体编排系统：在本机运行 AI 工作者团队**
 

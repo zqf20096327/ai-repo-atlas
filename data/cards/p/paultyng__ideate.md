@@ -1,6 +1,6 @@
 # paultyng/ideate
 
-⭐ 10 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/paultyng/ideate) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/paultyng/ideate) · 个人维护
 
 **给个人开发者的本地优先 macOS 创意/在途工作管理桌面应用**
 

@@ -1,6 +1,6 @@
 # vesperchinn/learn-anything-skill
 
-⭐ 23 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/vesperchinn/learn-anything-skill) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/vesperchinn/learn-anything-skill) · 个人维护 · 中文 README
 
 **把 AI agent 变成引导式学习教练的多语言技能包**
 

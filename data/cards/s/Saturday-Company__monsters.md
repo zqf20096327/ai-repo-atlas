@@ -1,6 +1,6 @@
 # Saturday-Company/monsters
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Saturday-Company/monsters) · [官网](https://getmonsters.dev) · 组织维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Saturday-Company/monsters) · [官网](https://getmonsters.dev) · 组织维护 · 中文 README
 
 **本地多智能体桌面应用：一队 AI agent 在自己电脑上干活**
 

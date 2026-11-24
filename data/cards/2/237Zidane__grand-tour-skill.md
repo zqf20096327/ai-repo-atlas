@@ -1,6 +1,6 @@
 # 237Zidane/grand-tour-skill
 
-⭐ 157 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/237Zidane/grand-tour-skill) · 个人维护
+⭐ 157 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/237Zidane/grand-tour-skill) · 个人维护
 
 **代码库导览技能：让 agent 阅读仓库并测验你的理解**
 

@@ -1,6 +1,6 @@
 # aimagelab/ReAG
 
-⭐ 32 · Python · 推送 2026-07-13 · [GitHub](https://github.com/aimagelab/ReAG) · [官网](https://aimagelab.github.io/ReAG/) · 组织维护
+⭐ 33 · Python · 推送 2026-07-13 · [GitHub](https://github.com/aimagelab/ReAG) · [官网](https://aimagelab.github.io/ReAG/) · 组织维护
 
 **面向知识型视觉问答的推理增强多模态 RAG 方法（CVPR 2026）**
 

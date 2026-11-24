@@ -1,6 +1,6 @@
 # qikairo7/dsh-gemini-pool
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/qikairo7/dsh-gemini-pool) · [官网](https://github.com/qikairo7/dsh-gemini-pool/releases) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/qikairo7/dsh-gemini-pool) · [官网](https://github.com/qikairo7/dsh-gemini-pool/releases) · 个人维护 · 中文 README
 
 **把 Google AI Pro 订阅接入 DSH 编程环境的多账号 Gemini 插件**
 

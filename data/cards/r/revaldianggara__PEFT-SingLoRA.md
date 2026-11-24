@@ -1,6 +1,6 @@
 # revaldianggara/PEFT-SingLoRA
 
-⭐ 47 · Python · BSD-2-Clause · 推送 2026-09-27 · [GitHub](https://github.com/revaldianggara/PEFT-SingLoRA) · 个人维护
+⭐ 46 · Python · BSD-2-Clause · 推送 2026-09-27 · [GitHub](https://github.com/revaldianggara/PEFT-SingLoRA) · 个人维护
 
 **面向 PEFT 生态的单矩阵 LoRA 变体，适配器参数减半**
 

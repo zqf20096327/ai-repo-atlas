@@ -1,6 +1,6 @@
 # hannsxpeter/scriveno
 
-⭐ 12 · JavaScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hannsxpeter/scriveno) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hannsxpeter/scriveno) · [官网](https://www.npmjs.com/package/@hxp-tools/scriveno) · 个人维护
 
 **面向 AI 编程代理的长篇写作/出版/翻译命令系统**
 

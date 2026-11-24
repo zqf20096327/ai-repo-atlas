@@ -1,6 +1,6 @@
 # bodo-ai/PyDough
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bodo-ai/PyDough) · 组织维护
+⭐ 45 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bodo-ai/PyDough) · 组织维护
 
 **Python 分析型 DSL：以逻辑文档模型表达问题并翻译为 SQL 执行**
 

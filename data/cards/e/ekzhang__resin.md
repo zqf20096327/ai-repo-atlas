@@ -1,6 +1,6 @@
 # ekzhang/resin
 
-⭐ 451 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ekzhang/resin) · 个人维护
+⭐ 453 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ekzhang/resin) · 个人维护
 
 **构建 LLM 推理引擎的积木式库：Rust 调度器+自写 kernel**
 

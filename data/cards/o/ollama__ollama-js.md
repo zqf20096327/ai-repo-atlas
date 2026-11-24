@@ -1,6 +1,6 @@
 # ollama/ollama-js
 
-⭐ 4,420 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ollama/ollama-js) · [官网](https://ollama.com) · 组织维护
+⭐ 4,419 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ollama/ollama-js) · [官网](https://ollama.com) · 组织维护
 
 **Ollama 官方 JavaScript 客户端库，供 JS 项目接入 Ollama**
 

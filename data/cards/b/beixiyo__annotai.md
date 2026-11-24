@@ -1,6 +1,6 @@
 # beixiyo/annotai
 
-⭐ 5 · TypeScript · 推送 2026-11-04 · [GitHub](https://github.com/beixiyo/annotai) · [官网](https://annotai.pages.dev/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给开发者把页面元素标注成 AI 可用源码上下文的 Vite 插件**
 

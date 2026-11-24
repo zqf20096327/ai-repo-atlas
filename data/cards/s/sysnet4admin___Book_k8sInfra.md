@@ -1,6 +1,6 @@
 # sysnet4admin/_Book_k8sInfra
 
-⭐ 502 · Shell · 推送 2026-11-21 · [GitHub](https://github.com/sysnet4admin/_Book_k8sInfra) · [官网](https://product.kyobobook.co.kr/detail/S000221973541) · 组织维护
+⭐ 502 · Shell · 推送 2026-11-23 · [GitHub](https://github.com/sysnet4admin/_Book_k8sInfra) · [官网](https://product.kyobobook.co.kr/detail/S000221973541) · 组织维护
 
 **韩国 Kubernetes/Docker 图书的配套实验代码仓库**
 

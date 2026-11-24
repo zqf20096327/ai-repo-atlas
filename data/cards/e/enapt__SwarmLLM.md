@@ -1,6 +1,6 @@
 # enapt/SwarmLLM
 
-⭐ 91 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/enapt/SwarmLLM) · [官网](https://enapt.github.io/SwarmLLM/) · 组织维护
+⭐ 93 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/enapt/SwarmLLM) · [官网](https://enapt.github.io/SwarmLLM/) · 组织维护
 
 **多机协作运行本地大模型的开源应用，兼作 ChatGPT 式聊天**
 

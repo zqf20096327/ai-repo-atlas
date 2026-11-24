@@ -1,6 +1,6 @@
 # replit/amuse
 
-⭐ 144 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/replit/amuse) · 组织维护
+⭐ 152 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/replit/amuse) · 组织维护
 
 **自托管个人 AI agent：网页研究、实时浏览器、提醒与小应用**
 

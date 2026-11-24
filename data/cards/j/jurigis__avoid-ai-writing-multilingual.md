@@ -1,6 +1,6 @@
 # jurigis/avoid-ai-writing-multilingual
 
-⭐ 23 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/jurigis/avoid-ai-writing-multilingual) · 个人维护
+⭐ 24 · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/jurigis/avoid-ai-writing-multilingual) · 个人维护
 
 **多语言 AI 写作模式检测/改写技能文件集（德/罗/意/法/瑞典语）**
 

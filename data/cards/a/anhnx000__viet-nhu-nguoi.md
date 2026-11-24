@@ -1,6 +1,6 @@
 # anhnx000/viet-nhu-nguoi
 
-⭐ 78 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anhnx000/viet-nhu-nguoi) · [官网](https://github.com/anhnx000/viet-nhu-nguoi#readme) · 个人维护 · 中文 README
+⭐ 78 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anhnx000/viet-nhu-nguoi) · [官网](https://github.com/anhnx000/viet-nhu-nguoi#readme) · 个人维护 · 中文 README
 
 **让 AI 用越南语自然人行文写作的 agent 技能包**
 

@@ -1,6 +1,6 @@
 # npstorey/civic-ai-tools
 
-⭐ 48 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/npstorey/civic-ai-tools) · [官网](https://civicaitools.org) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/npstorey/civic-ai-tools) · [官网](https://civicaitools.org) · 个人维护
 
 **通过 MCP 把 AI 助手接入政府开放数据的平台**
 

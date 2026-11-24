@@ -1,10 +1,10 @@
 # pingdotgg/t3code
 
-⭐ 71,373 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pingdotgg/t3code) · [官网](https://t3.codes) · 组织维护
+⭐ 74,720 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pingdotgg/t3code) · [官网](https://t3.codes) · 组织维护
 
-**在电脑和手机上统一操控本地编码 agent 的开源控制平面**
+**在手机/电脑上统一控制多个编码 Agent 的控制台**
 
-T3 Code 在用户机器上运行编码 agent 并提供统一界面：桌面端、Web 端与 iOS/Android 应用连接同一服务器，可从手机审批 agent 的下一步操作。支持驱动 Claude Code、Codex、Cursor、OpenCode、Grok Build 等已安装并登录的 agent，可在对话中途切换模型或让不同 agent 交接任务。内置 Git worktree、diff 审查与一键提交/PR。MIT 许可，提供桌面安装包、命令行安装脚本与移动应用；使用前提是至少一个 agent 已安装登录。
+T3 Code 是一个开源编码 Agent 控制平面：在本机运行用户已登录的编码 Agent（Claude Code、Codex、Cursor、OpenCode 及任意 ACP Agent），提供统一界面管理线程、切换模型、跨 Agent 交接任务。支持桌面、Web 与 iOS/Android 客户端共用一个服务器同步线程，内置 Git worktree 隔离、diff 审查与一键提交/推送/开 PR，可通过局域网、Tailscale 或 T3 Connect 远程访问。MIT 许可，不转售 token，依赖用户已有的 Agent 订阅。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ T3 Code 在用户机器上运行编码 agent 并提供统一界面：桌面端�
 
 ## 能力要点
 
-- 一个服务器驱动多个编码 agent，桌面/Web/手机客户端同步线程
-- 支持中途切换模型与跨 agent 任务交接
-- 基于 Git worktree 的线程隔离、diff 审查与一键 PR
-- 本地网络、Tailscale 或 T3 Connect 远程接入
+- 统一界面控制 Claude Code、Codex、Cursor 及任意 ACP Agent
+- 桌面/Web/iOS/Android 客户端共享同一服务器与线程
+- 内置 Git worktree 隔离与一键提交、推送、开 PR
+- 提供 brew/winget/scoop/nix/脚本等多种安装方式
 
 ## 适用场景
 
-- 在电脑上开启 agent 任务，路上用手机继续审批
-- 把多个已订阅的编码 agent 收进一个界面统一管理
-- 让不同 agent 在各自 worktree 中并行处理任务
+- 在办公室电脑发起 Agent 任务，用手机批准下一步操作
+- 把多个编码 Agent 收拢到一个界面统一管理
+- 通过 Tailscale 从外部机器远程控制家里的 Agent
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ T3 Code 在用户机器上运行编码 agent 并提供统一界面：桌面端�
 
 ## 证据(README 行号)
 
+> L7:  The open-source control plane for coding agents.
 > L20: T3 Code runs the coding agents on your machine and gives them one fast interface. Start a thread at your desk, then
 > L22: It works with Claude Code, Codex, Cursor, OpenCode, Grok Build, Antigravity, Kiro, Pi, Muse Code, fx, and any ACP a
-> L28: - **Desktop, web, and phone.** One server, and every client shows the same threads. There are apps for iOS and Andr
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `44cfed83b927` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ca361ac9fc1b` · [字段定义](../../DATASET.md)*

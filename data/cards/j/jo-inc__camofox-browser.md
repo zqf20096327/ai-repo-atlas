@@ -1,6 +1,6 @@
 # jo-inc/camofox-browser
 
-⭐ 12,458 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/jo-inc/camofox-browser) · [官网](https://github.com/jo-inc/camofox-browser#readme) · 组织维护
+⭐ 12,469 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jo-inc/camofox-browser) · [官网](https://github.com/jo-inc/camofox-browser#readme) · 组织维护
 
 **给 AI agent 用的反检测无头浏览器 REST 服务**
 

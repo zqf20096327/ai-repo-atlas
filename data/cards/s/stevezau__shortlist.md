@@ -1,6 +1,6 @@
 # stevezau/shortlist
 
-⭐ 114 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/stevezau/shortlist) · [官网](https://shortlistapp.dev/) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/stevezau/shortlist) · [官网](https://shortlistapp.dev/) · 个人维护
 
 **给每个 Plex 用户生成私有推荐行的自托管工具**
 

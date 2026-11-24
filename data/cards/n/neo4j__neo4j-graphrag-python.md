@@ -1,6 +1,6 @@
 # neo4j/neo4j-graphrag-python
 
-⭐ 1,336 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/neo4j/neo4j-graphrag-python) · [官网](https://neo4j.com/docs/neo4j-graphrag-python/current/) · 组织维护
+⭐ 1,338 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/neo4j/neo4j-graphrag-python) · [官网](https://neo4j.com/docs/neo4j-graphrag-python/current/) · 组织维护
 
 **Neo4j 官方 Python 库：构建 GraphRAG 应用与知识图谱**
 

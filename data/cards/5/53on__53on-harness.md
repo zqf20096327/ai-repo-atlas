@@ -1,6 +1,6 @@
 # 53on/53on-harness
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/53on/53on-harness) · [官网](https://53on.com/harness/) · 个人维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/53on/53on-harness) · [官网](https://53on.com/harness/) · 个人维护
 
 **给桌面 AI 提供本地持久记忆与操控 PC 能力的开源外壳**
 

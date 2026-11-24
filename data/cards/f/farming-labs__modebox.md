@@ -1,6 +1,6 @@
 # farming-labs/modebox
 
-⭐ 3 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/farming-labs/modebox) · [官网](https://modebox.farming-labs.dev) · 组织维护
+⭐ 3 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/farming-labs/modebox) · [官网](https://modebox.farming-labs.dev) · 组织维护
 
 **为 AI agent 提供 WebAssembly 沙箱，可安全执行工具调用脚本**
 

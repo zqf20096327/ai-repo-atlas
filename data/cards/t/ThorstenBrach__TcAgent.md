@@ -1,6 +1,6 @@
 # ThorstenBrach/TcAgent
 
-⭐ 16 · C# · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ThorstenBrach/TcAgent) · 个人维护
+⭐ 17 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThorstenBrach/TcAgent) · 个人维护
 
 **让 AI 编码代理操作 TwinCAT 3 IDE 的 MCP 服务器与 VS 扩展**
 

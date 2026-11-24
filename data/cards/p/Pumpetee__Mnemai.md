@@ -1,6 +1,6 @@
 # Pumpetee/Mnemai
 
-⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Pumpetee/Mnemai) · 个人维护
+⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Pumpetee/Mnemai) · 个人维护
 
 **本地 Markdown 记忆层桌面应用：为多个 AI 提供共享个人上下文**
 

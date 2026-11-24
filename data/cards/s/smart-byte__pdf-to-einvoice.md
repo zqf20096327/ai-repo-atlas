@@ -1,6 +1,6 @@
 # smart-byte/pdf-to-einvoice
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/smart-byte/pdf-to-einvoice) · [官网](https://pdf-to-einvoice.app) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/smart-byte/pdf-to-einvoice) · [官网](https://pdf-to-einvoice.app) · 个人维护
 
 **把现有发票 PDF 转成 EN 16931 电子发票，本地运行不上传**
 

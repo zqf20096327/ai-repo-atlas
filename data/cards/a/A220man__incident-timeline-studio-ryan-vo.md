@@ -1,6 +1,6 @@
 # A220man/incident-timeline-studio-ryan-vo
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/A220man/incident-timeline-studio-ryan-vo) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给安全分析师把混合 CSV/JSON 日志整理成可审查的 UTC 事件时间线**
 
@@ -11,7 +11,7 @@ Incident Timeline Studio 将 CSV、JSON 数组/行式日志导入并规范化为
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

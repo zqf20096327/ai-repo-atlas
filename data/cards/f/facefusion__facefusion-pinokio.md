@@ -1,6 +1,6 @@
 # facefusion/facefusion-pinokio
 
-⭐ 409 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/facefusion/facefusion-pinokio) · [官网](https://facefusion.io) · 组织维护
+⭐ 410 · JavaScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/facefusion/facefusion-pinokio) · [官网](https://facefusion.io) · 组织维护
 
 **FaceFusion 的 Pinokio 一键安装发行仓库**
 

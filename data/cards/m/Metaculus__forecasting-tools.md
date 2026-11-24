@@ -1,6 +1,6 @@
 # Metaculus/forecasting-tools
 
-⭐ 91 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Metaculus/forecasting-tools) · 组织维护
+⭐ 91 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Metaculus/forecasting-tools) · 组织维护
 
 **构建 Metaculus AI 预测机器人的 Python 框架与预测工具集**
 

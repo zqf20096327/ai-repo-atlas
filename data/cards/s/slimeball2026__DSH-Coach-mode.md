@@ -1,6 +1,6 @@
 # slimeball2026/DSH-Coach-mode
 
-⭐ 22 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/slimeball2026/DSH-Coach-mode) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/slimeball2026/DSH-Coach-mode) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件包：让 AI 以状态机方式带用户动手学工具**
 

@@ -1,6 +1,6 @@
 # HyperGAN/HyperGAN
 
-⭐ 1,181 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HyperGAN/HyperGAN) · [官网](https://hypergan.github.io/HyperGAN/) · 组织维护
+⭐ 1,181 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HyperGAN/HyperGAN) · [官网](https://hypergan.github.io/HyperGAN/) · 组织维护
 
 **给开发者的 GAN 训练框架：从 TOML 声明文件训练并导出生成模型**
 

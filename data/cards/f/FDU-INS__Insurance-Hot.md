@@ -1,6 +1,6 @@
 # FDU-INS/Insurance-Hot
 
-⭐ 17 · 推送 2026-11-16 · [GitHub](https://github.com/FDU-INS/Insurance-Hot) · [官网](https://www.insurance-hot.com) · 组织维护 · 中文 README
+⭐ 18 · 推送 2026-11-16 · [GitHub](https://github.com/FDU-INS/Insurance-Hot) · [官网](https://www.insurance-hot.com) · 组织维护 · 中文 README
 
 **面向人与 AI 智能体的全球保险资讯聚合平台**
 

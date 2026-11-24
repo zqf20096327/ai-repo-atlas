@@ -1,6 +1,6 @@
 # unstoppableweb/unstoppable-code
 
-⭐ 72 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/unstoppableweb/unstoppable-code) · [官网](https://unstoppable.ai) · 组织维护
+⭐ 75 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/unstoppableweb/unstoppable-code) · [官网](https://unstoppable.ai) · 组织维护
 
 **把多个编码 agent 聚合到一个 IDE 的桌面/移动客户端**
 

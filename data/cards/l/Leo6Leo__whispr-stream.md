@@ -1,6 +1,6 @@
 # Leo6Leo/whispr-stream
 
-⭐ 22 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Leo6Leo/whispr-stream) · [官网](https://leo6leo.github.io/whispr-stream/) · 个人维护
+⭐ 22 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Leo6Leo/whispr-stream) · [官网](https://leo6leo.github.io/whispr-stream/) · 个人维护
 
 **macOS 本地流式语音听写应用，基于 Qwen3-ASR/MLX**
 

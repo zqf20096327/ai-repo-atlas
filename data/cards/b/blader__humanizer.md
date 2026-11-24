@@ -1,6 +1,6 @@
 # blader/humanizer
 
-⭐ 72,281 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/blader/humanizer) · [官网](https://skills.sh/blader/humanizer) · 个人维护
+⭐ 72,749 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/blader/humanizer) · [官网](https://skills.sh/blader/humanizer) · 个人维护
 
 **为 agent 用户改写去除 AI 写作痕迹的技能**
 

@@ -1,6 +1,6 @@
 # Okohedeki/designai
 
-⭐ 52 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Okohedeki/designai) · [官网](https://okohedeki.github.io/designai/) · 个人维护
+⭐ 52 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Okohedeki/designai) · [官网](https://okohedeki.github.io/designai/) · 个人维护
 
 **从一张照片或简短 brief 生成电商创意与滚动网站的本地生成引擎**
 

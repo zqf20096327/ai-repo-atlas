@@ -1,6 +1,6 @@
 # TypeSafeAI/jev-harness
 
-⭐ 40 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TypeSafeAI/jev-harness) · [官网](https://jev.guru) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TypeSafeAI/jev-harness) · [官网](https://jev.guru) · 个人维护
 
 **LLM 编码提案的审查决策框架：证据留痕、代码裁决**
 

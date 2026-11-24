@@ -1,6 +1,6 @@
 # lucidrains/tiny-recursive-model
 
-⭐ 193 · Python · MIT · 推送 2025-12-23 · [GitHub](https://github.com/lucidrains/tiny-recursive-model) · 个人维护
+⭐ 194 · Python · MIT · 推送 2025-12-23 · [GitHub](https://github.com/lucidrains/tiny-recursive-model) · 个人维护
 
 **面向研究者的 Tiny Recursive Model (TRM) PyTorch 非官方实现**
 

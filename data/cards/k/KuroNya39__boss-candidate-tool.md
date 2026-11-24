@@ -1,6 +1,6 @@
 # KuroNya39/boss-candidate-tool
 
-⭐ 10 · JavaScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/KuroNya39/boss-candidate-tool) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/KuroNya39/boss-candidate-tool) · 个人维护 · 中文 README
 
 **给招聘者：从 BOSS直聘提取简历并 AI 评分的桌面工具**
 

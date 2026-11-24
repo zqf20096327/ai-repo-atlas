@@ -1,6 +1,6 @@
 # cheaper-inference/OmniCopilot
 
-⭐ 203 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cheaper-inference/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 组织维护
+⭐ 205 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cheaper-inference/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 组织维护
 
 **把 1200+ 模型接入 GitHub Copilot Chat 的 VS Code 扩展**
 

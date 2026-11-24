@@ -1,6 +1,6 @@
 # agent-sh/computer-use-linux
 
-⭐ 920 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/agent-sh/computer-use-linux) · 组织维护
+⭐ 928 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/agent-sh/computer-use-linux) · 组织维护
 
 **让 AI agent 通过 MCP/CLI 控制本地 Linux 桌面的工具**
 

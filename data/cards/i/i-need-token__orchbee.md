@@ -1,6 +1,6 @@
 # i-need-token/orchbee
 
-⭐ 12 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/i-need-token/orchbee) · [官网](https://orchbee.com) · 个人维护 · 中文 README
+⭐ 13 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/i-need-token/orchbee) · [官网](https://orchbee.com) · 个人维护 · 中文 README
 
 **为运行与编排 AI agent CLI 提供的复用型终端**
 

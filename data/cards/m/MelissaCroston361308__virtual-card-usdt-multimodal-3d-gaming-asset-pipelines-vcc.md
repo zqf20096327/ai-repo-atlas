@@ -1,6 +1,6 @@
 # MelissaCroston361308/virtual-card-usdt-multimodal-3d-gaming-asset-pipelines-vcc
 
-⭐ 49 · 推送 2026-11-14 · [GitHub](https://github.com/MelissaCroston361308/virtual-card-usdt-multimodal-3d-gaming-asset-pipelines-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 72 · 推送 2026-11-14 · [GitHub](https://github.com/MelissaCroston361308/virtual-card-usdt-multimodal-3d-gaming-asset-pipelines-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向游戏工作室的 USDT 虚拟卡支付清结算指南（CoreGold VCC）**
 

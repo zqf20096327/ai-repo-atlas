@@ -1,6 +1,6 @@
 # xiongQvQ/-b2b-lead-hunter-skill
 
-⭐ 42 · Python · 推送 2026-11-05 · [GitHub](https://github.com/xiongQvQ/-b2b-lead-hunter-skill) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
+⭐ 43 · Python · 推送 2026-11-05 · [GitHub](https://github.com/xiongQvQ/-b2b-lead-hunter-skill) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
 
 **外贸 B2B 客户挖掘的 AI Agent 技能包：跑在四平台内自动化线索研究**
 

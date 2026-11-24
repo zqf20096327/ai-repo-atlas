@@ -1,6 +1,6 @@
 # akasecurity/ai-tc
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/akasecurity/ai-tc) · [官网](https://akasecurity.github.io) · 组织维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/akasecurity/ai-tc) · [官网](https://akasecurity.github.io) · 组织维护
 
 **给 AI agent 会话加安全闸门的本地策略引擎，拦截敏感数据与高危命令**
 

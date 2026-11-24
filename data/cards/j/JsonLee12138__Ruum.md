@@ -1,6 +1,6 @@
 # JsonLee12138/Ruum
 
-⭐ 10 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/JsonLee12138/Ruum) · [官网](https://ruum.jsonlee12138.com/) · 个人维护 · 中文 README
+⭐ 10 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/JsonLee12138/Ruum) · [官网](https://ruum.jsonlee12138.com/) · 个人维护 · 中文 README
 
 **跨平台磁盘空间分析与清理工具，含 AI 看护助手与 MCP 服务器**
 

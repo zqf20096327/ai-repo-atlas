@@ -1,6 +1,6 @@
 # r42243450-png/ai--manus
 
-⭐ 175 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/r42243450-png/ai--manus) · 个人维护
+⭐ 171 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/r42243450-png/ai--manus) · 个人维护
 
 **自称自主执行代码与浏览器的通用 AI Agent 助手**
 

@@ -1,6 +1,6 @@
 # ZALPRO/toonflow
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZALPRO/toonflow) · [官网](https://github.com/ZALPRO/toonflow) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/ZALPRO/toonflow) · [官网](https://github.com/ZALPRO/toonflow) · 个人维护
 
 **给创作者/AI agent 用的代码驱动 2D 动画引擎，产出解说视频与竖屏 Reels**
 

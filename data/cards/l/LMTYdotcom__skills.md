@@ -1,6 +1,6 @@
 # LMTYdotcom/skills
 
-⭐ 84 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LMTYdotcom/skills) · [官网](https://lmty.com) · 组织维护
+⭐ 85 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LMTYdotcom/skills) · [官网](https://lmty.com) · 组织维护
 
 **面向 GTM 竞争情报工作的 AI Agent 技能包，装入各类助手使用**
 

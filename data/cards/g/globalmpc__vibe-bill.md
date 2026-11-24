@@ -1,6 +1,6 @@
 # globalmpc/vibe-bill
 
-⭐ 56 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/globalmpc/vibe-bill) · 个人维护
+⭐ 62 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/globalmpc/vibe-bill) · 个人维护
 
 **给 vibe-coded 应用估算多规模用户量运行成本的 Claude Code 技能**
 

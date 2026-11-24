@@ -1,6 +1,6 @@
 # aic0d3r/local-ai-harness
 
-⭐ 38 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aic0d3r/local-ai-harness) · [官网](https://aic0d3r.github.io/local-ai-harness/) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aic0d3r/local-ai-harness) · [官网](https://aic0d3r.github.io/local-ai-harness/) · 个人维护
 
 **给本地跑编程 agent 的硬件检测与引擎切换工具**
 

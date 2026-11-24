@@ -1,6 +1,6 @@
 # Vincentwei1021/video-talkcraft
 
-⭐ 2,483 · HTML · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Vincentwei1021/video-talkcraft) · [官网](https://vincentwei1021.github.io/video-talkcraft/) · 个人维护 · 中文 README
+⭐ 2,502 · HTML · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Vincentwei1021/video-talkcraft) · [官网](https://vincentwei1021.github.io/video-talkcraft/) · 个人维护 · 中文 README
 
 **把 Claude Code/Codex 变成口播视频动效工作室的 agent skill**
 

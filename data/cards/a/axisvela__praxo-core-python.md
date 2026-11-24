@@ -1,6 +1,6 @@
 # axisvela/praxo-core-python
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-python) · [官网](https://axisvela.github.io/praxo-core/languages/python/) · 组织维护
+⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/axisvela/praxo-core-python) · [官网](https://axisvela.github.io/praxo-core/languages/python/) · 组织维护
 
 **面向开发者的可嵌入 Python AI agent 框架，提供运行时**
 

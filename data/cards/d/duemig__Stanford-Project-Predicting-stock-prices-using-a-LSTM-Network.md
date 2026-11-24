@@ -1,6 +1,6 @@
 # duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network
 
-⭐ 299 · Jupyter Notebook · 推送 2026-11-10 · [GitHub](https://github.com/duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network) · 个人维护
+⭐ 300 · Jupyter Notebook · 推送 2026-11-10 · [GitHub](https://github.com/duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network) · 个人维护
 
 **斯坦福 CS230 课程项目：用 LSTM 预测 S&P 500 月度涨跌**
 

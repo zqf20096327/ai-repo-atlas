@@ -1,6 +1,6 @@
 # kennss/SiliconScope
 
-⭐ 1,031 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kennss/SiliconScope) · [官网](https://siliconscope.calidalab.ai/) · 个人维护
+⭐ 1,035 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kennss/SiliconScope) · [官网](https://siliconscope.calidalab.ai/) · 个人维护
 
 **无需 sudo 的 Apple Silicon 系统监视器，可观测 ANE/内存带宽等 AI 负载信号**
 

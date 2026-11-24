@@ -1,6 +1,6 @@
 # openclaw/clawsweeper
 
-⭐ 2,007 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/openclaw/clawsweeper) · [官网](https://clawsweeper.bot) · 组织维护
+⭐ 2,008 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/openclaw/clawsweeper) · [官网](https://clawsweeper.bot) · 组织维护
 
 **OpenClaw 仓库的自动审查机器人：扫描 issue/PR 并提出关闭建议**
 

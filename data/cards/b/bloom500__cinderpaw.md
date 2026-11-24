@@ -1,6 +1,6 @@
 # bloom500/cinderpaw
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bloom500/cinderpaw) · [官网](https://cinderpaw.dev) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bloom500/cinderpaw) · [官网](https://cinderpaw.dev) · 组织维护
 
 **桌面 AI 助手：替你操作文件、应用与浏览器，本地或云端模型**
 

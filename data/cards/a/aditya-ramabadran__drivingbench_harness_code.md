@@ -1,6 +1,6 @@
 # aditya-ramabadran/drivingbench_harness_code
 
-⭐ 63 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/aditya-ramabadran/drivingbench_harness_code) · [官网](https://drivingbench.com) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aditya-ramabadran/drivingbench_harness_code) · [官网](https://drivingbench.com) · 个人维护
 
 **让 AI 模型在封闭场地驾驶真车的基准测试套件**
 

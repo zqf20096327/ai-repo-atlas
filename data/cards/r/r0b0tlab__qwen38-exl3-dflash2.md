@@ -1,6 +1,6 @@
 # r0b0tlab/qwen38-exl3-dflash2
 
-⭐ 25 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/r0b0tlab/qwen38-exl3-dflash2) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/r0b0tlab/qwen38-exl3-dflash2) · 个人维护
 
 **Qwen3.8-27B EXL3 量化与 DFlash2 投机解码 3090 运行方案**
 

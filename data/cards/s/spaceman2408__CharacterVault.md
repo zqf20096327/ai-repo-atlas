@@ -1,6 +1,6 @@
 # spaceman2408/CharacterVault
 
-⭐ 28 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/spaceman2408/CharacterVault) · [官网](https://charactervault.app/) · 个人维护
+⭐ 28 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/spaceman2408/CharacterVault) · [官网](https://charactervault.app/) · 个人维护
 
 **浏览器内的 V2/V3 角色扮演角色卡与世界书编辑器**
 

@@ -1,6 +1,6 @@
 # aunysillyme/agent-personalizer
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/aunysillyme/agent-personalizer) · [官网](https://agent-personalizer.aunysillyme.dev) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aunysillyme/agent-personalizer) · [官网](https://agent-personalizer.aunysillyme.dev) · 个人维护
 
 **从单一源为多个 AI 客户端生成并同步自定义指令**
 

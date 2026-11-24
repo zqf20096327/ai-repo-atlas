@@ -1,6 +1,6 @@
 # annadeters-gif/-deepseek-v4-flash-api-firewall
 
-⭐ 67 · 推送 2026-11-05 · [GitHub](https://github.com/annadeters-gif/-deepseek-v4-flash-api-firewall) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 89 · 推送 2026-11-05 · [GitHub](https://github.com/annadeters-gif/-deepseek-v4-flash-api-firewall) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向开发者的 DeepSeek 海外 API 充值扣费风控方案文档**
 

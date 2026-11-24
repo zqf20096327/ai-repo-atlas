@@ -1,6 +1,6 @@
 # PGZXB/dsh-feishu
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/PGZXB/dsh-feishu) · 个人维护 · 中文 README
+⭐ 38 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/PGZXB/dsh-feishu) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的飞书 UI 插件：卡片按钮控制 agent**
 

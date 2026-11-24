@@ -1,6 +1,6 @@
 # german-krasnikov/unity-biome-mcp
 
-⭐ 33 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/german-krasnikov/unity-biome-mcp) · [官网](https://german-krasnikov.github.io/unity-biome-mcp/) · 个人维护
+⭐ 33 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/german-krasnikov/unity-biome-mcp) · [官网](https://german-krasnikov.github.io/unity-biome-mcp/) · 个人维护
 
 **面向 Unity 编辑器的 MCP server，160 个工具控制场景与资产**
 

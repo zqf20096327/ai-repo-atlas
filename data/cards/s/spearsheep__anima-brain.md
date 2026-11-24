@@ -1,6 +1,6 @@
 # spearsheep/anima-brain
 
-⭐ 86 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/spearsheep/anima-brain) · [官网](https://anima-lab.io) · 个人维护 · 中文 README
+⭐ 87 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/spearsheep/anima-brain) · [官网](https://anima-lab.io) · 个人维护 · 中文 README
 
 **给 AI 陪伴体提供本地记忆与情绪连续性的 Python SDK**
 

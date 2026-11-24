@@ -1,6 +1,6 @@
 # rockbenben/legend-talk
 
-⭐ 62 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/rockbenben/legend-talk) · [官网](https://talk.newzone.top/) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rockbenben/legend-talk) · [官网](https://talk.newzone.top/) · 个人维护 · 中文 README
 
 **与161位思想家多轮圆桌辩论的AI对话应用**
 

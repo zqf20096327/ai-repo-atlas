@@ -1,6 +1,6 @@
 # BerriAI/lens
 
-⭐ 54 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/BerriAI/lens) · 组织维护
+⭐ 67 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/BerriAI/lens) · 组织维护
 
 **AI agent 的追踪与调查平台，可独立或嵌入 LiteLLM**
 

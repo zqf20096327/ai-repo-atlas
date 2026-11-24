@@ -1,6 +1,6 @@
 # Barbaqueda/onyx
 
-⭐ 8 · JavaScript · NOASSERTION · 推送 2026-10-15 · [GitHub](https://github.com/Barbaqueda/onyx) · [官网](https://barbaqueda.github.io/onyx/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Windows 用户的智能文件整理器与资源管理器**
 
@@ -11,7 +11,7 @@ Electron 构建的 Windows x64 桌面文件整理器：扫描文件夹后由 AI 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

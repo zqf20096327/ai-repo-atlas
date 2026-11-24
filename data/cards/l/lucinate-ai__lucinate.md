@@ -1,6 +1,6 @@
 # lucinate-ai/lucinate
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lucinate-ai/lucinate) · [官网](https://lucinate.ai) · 组织维护
+⭐ 14 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lucinate-ai/lucinate) · [官网](https://lucinate.ai) · 组织维护
 
 **终端原生 AI 聊天客户端，接入 OpenClaw/Hermes/Ollama 等后端**
 

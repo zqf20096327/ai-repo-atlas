@@ -1,6 +1,6 @@
 # epam/ai-dial-ui-kit
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/epam/ai-dial-ui-kit) · [官网](https://dialx.ai) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epam/ai-dial-ui-kit) · [官网](https://dialx.ai) · 组织维护
 
 **为开发者构建 AI DIAL 界面的 React 组件库**
 

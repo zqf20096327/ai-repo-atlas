@@ -1,6 +1,6 @@
 # linny006/llm-agents-radar
 
-⭐ 16 · Python · 推送 2026-11-02 · [GitHub](https://github.com/linny006/llm-agents-radar) · [官网](https://github.com/linny006?utm_source=github&utm_medium=about&utm_campaign=llm-agents-radar) · 个人维护 · 中文 README
+⭐ 15 · Python · 推送 2026-11-02 · [GitHub](https://github.com/linny006/llm-agents-radar) · [官网](https://github.com/linny006?utm_source=github&utm_medium=about&utm_campaign=llm-agents-radar) · 个人维护 · 中文 README
 
 **LLM agent 框架的自动更新索引，GitHub 每 15 分钟刷新**
 

@@ -1,6 +1,6 @@
 # strands-agents/samples
 
-⭐ 945 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/strands-agents/samples) · [官网](https://strandsagents.com) · 组织维护
+⭐ 946 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/strands-agents/samples) · [官网](https://strandsagents.com) · 组织维护
 
 **Strands Agents SDK 的示例集：帮开发者上手构建 AI Agent**
 

@@ -1,6 +1,6 @@
 # qwegnai/qwegn
 
-⭐ 4 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/qwegnai/qwegn) · 个人维护
+⭐ 4 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/qwegnai/qwegn) · 个人维护
 
 **Apple Silicon 本地 LLM/VLM 推理引擎，Swift+Metal 实现**
 

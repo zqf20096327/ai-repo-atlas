@@ -1,6 +1,6 @@
 # patchy631/ai-engineering-hub
 
-⭐ 42,066 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/patchy631/ai-engineering-hub) · [官网](https://join.dailydoseofds.com) · 组织维护
+⭐ 42,085 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/patchy631/ai-engineering-hub) · [官网](https://join.dailydoseofds.com) · 组织维护
 
 **面向 AI 工程学习者的 LLM/RAG/Agent 教程项目合集（93+）**
 

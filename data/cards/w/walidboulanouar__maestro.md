@@ -1,6 +1,6 @@
 # walidboulanouar/maestro
 
-⭐ 67 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/walidboulanouar/maestro) · [官网](https://maestro.ayautomate.com) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/walidboulanouar/maestro) · [官网](https://maestro.ayautomate.com) · 个人维护
 
 **开源 LLM 路由编排层：便宜优先、验证后升级的路由网关**
 

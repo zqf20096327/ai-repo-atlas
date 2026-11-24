@@ -1,6 +1,6 @@
 # oaslananka/kicad-mcp-pro
 
-⭐ 232 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/oaslananka/kicad-mcp-pro) · [官网](https://oaslananka.github.io/kicad-mcp-pro/) · 个人维护
+⭐ 233 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/oaslananka/kicad-mcp-pro) · [官网](https://oaslananka.github.io/kicad-mcp-pro/) · 个人维护
 
 **连接 AI agent 与 KiCad 电路设计的 MCP 服务器**
 

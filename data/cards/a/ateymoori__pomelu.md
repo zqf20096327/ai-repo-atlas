@@ -1,6 +1,6 @@
 # ateymoori/pomelu
 
-⭐ 16 · Dart · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ateymoori/pomelu) · [官网](https://royan.se/pomelu/) · 组织维护
+⭐ 17 · Dart · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ateymoori/pomelu) · [官网](https://royan.se/pomelu/) · 组织维护
 
 **自托管 Hermes Agent 的开源移动聊天客户端**
 

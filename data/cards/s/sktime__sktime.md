@@ -1,6 +1,6 @@
 # sktime/sktime
 
-⭐ 10,100 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/sktime/sktime) · [官网](https://www.sktime.net) · 组织维护
+⭐ 10,100 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/sktime/sktime) · [官网](https://www.sktime.net) · 组织维护
 
 **时间序列机器学习统一框架：预测/分类/异常检测统一 API**
 

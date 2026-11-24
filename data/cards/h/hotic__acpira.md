@@ -1,6 +1,6 @@
 # hotic/acpira
 
-⭐ 20 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hotic/acpira) · [官网](acpira.com) · 个人维护 · 中文 README
+⭐ 21 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hotic/acpira) · [官网](acpira.com) · 个人维护 · 中文 README
 
 **跨多个编码 Agent 的原生工作台（Rust 内核，基于 ACP）**
 

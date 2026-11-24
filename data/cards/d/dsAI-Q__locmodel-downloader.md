@@ -1,6 +1,6 @@
 # dsAI-Q/locmodel-downloader
 
-⭐ 9 · C# · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/dsAI-Q/locmodel-downloader) · 个人维护 · 中文 README
+⭐ 9 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/dsAI-Q/locmodel-downloader) · 个人维护 · 中文 README
 
 **给 LocModel 等本地模型运行器用的三站模型下载器（Windows）**
 

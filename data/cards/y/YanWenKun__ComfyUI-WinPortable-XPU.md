@@ -1,6 +1,6 @@
 # YanWenKun/ComfyUI-WinPortable-XPU
 
-⭐ 124 · Python · GPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/YanWenKun/ComfyUI-WinPortable-XPU) · 个人维护 · 中文 README
+⭐ 123 · Python · GPL-3.0 · 推送 2026-07-09 · [GitHub](https://github.com/YanWenKun/ComfyUI-WinPortable-XPU) · 个人维护 · 中文 README
 
 **面向英特尔显卡的 ComfyUI Windows 免安装整合包**
 

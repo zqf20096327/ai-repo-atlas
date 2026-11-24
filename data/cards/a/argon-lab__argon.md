@@ -1,6 +1,6 @@
 # argon-lab/argon
 
-⭐ 180 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/argon-lab/argon) · [官网](https://argonlabs.tech) · 组织维护
+⭐ 180 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/argon-lab/argon) · [官网](https://argonlabs.tech) · 组织维护
 
 **面向 AI agent 的 MongoDB 分支/时间旅行/撤销版本控制工具**
 

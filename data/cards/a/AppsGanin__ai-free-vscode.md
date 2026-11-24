@@ -1,6 +1,6 @@
 # AppsGanin/ai-free-vscode
 
-⭐ 59 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AppsGanin/ai-free-vscode) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AppsGanin/ai-free-vscode) · 个人维护
 
 **让 VS Code Copilot Chat 免 API key 使用网页版免费 AI 的扩展**
 

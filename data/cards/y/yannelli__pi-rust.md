@@ -1,6 +1,6 @@
 # yannelli/pi-rust
 
-⭐ 19 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yannelli/pi-rust) · [官网](https://pi-rust.com/) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yannelli/pi-rust) · [官网](https://pi-rust.com/) · 个人维护
 
 **pi 编码 agent 的 Rust 移植：CLI 编码助手与 LLM 流式库**
 

@@ -1,6 +1,6 @@
 # badhope/sciflow
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/badhope/sciflow) · [官网](https://badhope.github.io/sciflow/) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/badhope/sciflow) · [官网](https://badhope.github.io/sciflow/) · 个人维护 · 中文 README
 
 **本地优先的自主科研循环与论文写作流水线平台**
 

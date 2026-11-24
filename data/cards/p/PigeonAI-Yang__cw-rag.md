@@ -1,6 +1,6 @@
 # PigeonAI-Yang/cw-rag
 
-⭐ 4 · Python · 推送 2026-10-14 · [GitHub](https://github.com/PigeonAI-Yang/cw-rag) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给冒险岛经典世界玩家的本地客户端数据检索 Codex Skill**
 

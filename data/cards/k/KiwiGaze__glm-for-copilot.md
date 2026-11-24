@@ -1,6 +1,6 @@
 # KiwiGaze/glm-for-copilot
 
-⭐ 17 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/KiwiGaze/glm-for-copilot) · [官网](https://marketplace.visualstudio.com/items?itemName=yijiazhen-qi.glm-for-github-copilot-chat) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KiwiGaze/glm-for-copilot) · [官网](https://marketplace.visualstudio.com/items?itemName=yijiazhen-qi.glm-for-github-copilot-chat) · 个人维护 · 中文 README
 
 **把 GLM 模型接入 GitHub Copilot Chat 的 BYOK VS Code 扩展**
 

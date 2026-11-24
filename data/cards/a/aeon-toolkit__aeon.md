@@ -1,6 +1,6 @@
 # aeon-toolkit/aeon
 
-⭐ 1,482 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/aeon-toolkit/aeon) · [官网](https://aeon-toolkit.org/) · 组织维护
+⭐ 1,482 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/aeon-toolkit/aeon) · [官网](https://aeon-toolkit.org/) · 组织维护
 
 **面向研究者与开发者的时间序列机器学习 Python 工具库**
 

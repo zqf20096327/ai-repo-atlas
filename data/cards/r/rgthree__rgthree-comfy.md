@@ -1,6 +1,6 @@
 # rgthree/rgthree-comfy
 
-⭐ 3,692 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rgthree/rgthree-comfy) · 个人维护
+⭐ 3,694 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/rgthree/rgthree-comfy) · 个人维护
 
 **为 ComfyUI 提供节点扩展与工作流改进的工具集**
 

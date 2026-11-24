@@ -1,6 +1,6 @@
 # heuwels/lector
 
-⭐ 58 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/heuwels/lector) · [官网](https://lector.dev) · 个人维护
+⭐ 60 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/heuwels/lector) · [官网](https://lector.dev) · 个人维护
 
 **语言学习阅读器：导入 EPUB/YouTube，点词翻译、完形 SRS、同步 Anki**
 

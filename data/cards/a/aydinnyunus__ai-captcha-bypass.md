@@ -1,6 +1,6 @@
 # aydinnyunus/ai-captcha-bypass
 
-⭐ 1,241 · Python · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/aydinnyunus/ai-captcha-bypass) · 个人维护
+⭐ 1,242 · Python · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/aydinnyunus/ai-captcha-bypass) · 个人维护
 
 **用 GPT-4o/Gemini 自动求解多种 CAPTCHA 的命令行工具**
 

@@ -1,6 +1,6 @@
 # The-Best-Codes/ai-model-directory
 
-⭐ 45 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/The-Best-Codes/ai-model-directory) · [官网](modeldirectory.dev) · 个人维护
+⭐ 45 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/The-Best-Codes/ai-model-directory) · [官网](modeldirectory.dev) · 个人维护
 
 **自动更新的 AI 模型元数据目录（22,000+ 模型，125+ 供应商）**
 

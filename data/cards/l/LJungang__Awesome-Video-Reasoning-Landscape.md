@@ -1,6 +1,6 @@
 # LJungang/Awesome-Video-Reasoning-Landscape
 
-⭐ 195 · Python · 推送 2026-09-29 · [GitHub](https://github.com/LJungang/Awesome-Video-Reasoning-Landscape) · 个人维护
+⭐ 196 · Python · 推送 2026-09-29 · [GitHub](https://github.com/LJungang/Awesome-Video-Reasoning-Landscape) · 个人维护
 
 **视频推理研究论文策展清单：任务、范式与基准的持续收录**
 

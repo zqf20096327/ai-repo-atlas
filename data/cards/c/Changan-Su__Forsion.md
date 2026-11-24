@@ -1,6 +1,6 @@
 # Changan-Su/Forsion
 
-⭐ 195 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Changan-Su/Forsion) · [官网](https://forsion.net) · 个人维护 · 中文 README
+⭐ 198 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Changan-Su/Forsion) · [官网](https://forsion.net) · 个人维护 · 中文 README
 
 **本地优先的 AI 第二大脑桌面应用：笔记+Agent 团队协作**
 

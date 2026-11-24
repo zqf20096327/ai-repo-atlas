@@ -1,6 +1,6 @@
 # eltonsst/postilla.nvim
 
-⭐ 22 · Lua · MIT · 推送 2026-08-20 · [GitHub](https://github.com/eltonsst/postilla.nvim) · 个人维护
+⭐ 22 · Lua · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eltonsst/postilla.nvim) · 个人维护
 
 **Neovim 插件：逐行给 AI 代理代码写行内评审注释并导出反馈**
 

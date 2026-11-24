@@ -1,6 +1,6 @@
 # snap-stanford/memorilla
 
-⭐ 1,576 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/snap-stanford/memorilla) · [官网](https://memory.stanford.edu) · 组织维护
+⭐ 1,594 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/snap-stanford/memorilla) · [官网](https://memory.stanford.edu) · 组织维护
 
 **面向 LLM 的潜在语义记忆系统：把文档集合压缩为 16 个记忆 token**
 

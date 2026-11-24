@@ -1,6 +1,6 @@
 # smendesjunior/WinStatusBar
 
-⭐ 3 · C# · 推送 2026-11-22 · [GitHub](https://github.com/smendesjunior/WinStatusBar) · [官网](https://github.com/smendesjunior/WinStatusBar/releases/latest) · 个人维护
+⭐ 3 · C# · 推送 2026-11-23 · [GitHub](https://github.com/smendesjunior/WinStatusBar) · [官网](https://github.com/smendesjunior/WinStatusBar/releases/latest) · 个人维护
 
 **Windows 11 原生命令栏：一个入口接入多家 AI 与本地模型**
 

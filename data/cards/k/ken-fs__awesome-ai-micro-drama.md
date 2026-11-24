@@ -1,6 +1,6 @@
 # ken-fs/awesome-ai-micro-drama
 
-⭐ 16 · 推送 2026-10-04 · [GitHub](https://github.com/ken-fs/awesome-ai-micro-drama) · [官网](https://openmicrodrama.com) · 个人维护 · 中文 README
+⭐ 17 · 推送 2026-10-04 · [GitHub](https://github.com/ken-fs/awesome-ai-micro-drama) · [官网](https://openmicrodrama.com) · 个人维护 · 中文 README
 
 **AI 竖屏短剧制作的开源工具、agent 技能与提示词策展清单**
 

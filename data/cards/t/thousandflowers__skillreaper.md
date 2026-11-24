@@ -1,6 +1,6 @@
 # thousandflowers/skillreaper
 
-⭐ 67 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/thousandflowers/skillreaper) · 个人维护
+⭐ 68 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/thousandflowers/skillreaper) · 个人维护
 
 **测量并清理 AI agent 技能/MCP/子代理的上下文冗余项**
 

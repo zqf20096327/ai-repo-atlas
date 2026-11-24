@@ -1,6 +1,6 @@
 # WB2024/Essentia-to-Metadata
 
-⭐ 133 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/WB2024/Essentia-to-Metadata) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-04-04 · [GitHub](https://github.com/WB2024/Essentia-to-Metadata) · 个人维护
 
 **本地分析音频并自动写入流派/情绪标签的音乐库工具**
 

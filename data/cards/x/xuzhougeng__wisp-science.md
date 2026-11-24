@@ -1,6 +1,6 @@
 # xuzhougeng/wisp-science
 
-⭐ 1,081 · Rust · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/xuzhougeng/wisp-science) · [官网](http://wispscience.com/) · 个人维护 · 中文 README
+⭐ 1,083 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/xuzhougeng/wisp-science) · [官网](http://wispscience.com/) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 科研工作台：检索、运行分析与留痕**
 

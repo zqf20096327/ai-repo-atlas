@@ -1,6 +1,6 @@
 # alibaba/page-agent
 
-⭐ 29,735 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/alibaba/page-agent) · [官网](https://alibaba.github.io/page-agent/) · 组织维护 · 中文 README
+⭐ 29,742 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alibaba/page-agent) · [官网](https://alibaba.github.io/page-agent/) · 组织维护 · 中文 README
 
 **为网页内嵌自然语言控制的 GUI Agent JS 库**
 

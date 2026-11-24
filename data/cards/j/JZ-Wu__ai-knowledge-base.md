@@ -1,6 +1,6 @@
 # JZ-Wu/ai-knowledge-base
 
-⭐ 11 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/JZ-Wu/ai-knowledge-base) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/JZ-Wu/ai-knowledge-base) · 个人维护 · 中文 README
 
 **本地 Markdown 知识库：选中即问 AI 并直接改写源文件**
 

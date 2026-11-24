@@ -1,6 +1,6 @@
 # azrinaldi/gemini-stealth-bridge
 
-⭐ 164 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/azrinaldi/gemini-stealth-bridge) · 个人维护
+⭐ 166 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/azrinaldi/gemini-stealth-bridge) · 个人维护
 
 **将 Gemini Web 账号转为 OpenAI 兼容 API 的本地代理守护进程**
 

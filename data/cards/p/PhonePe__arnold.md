@@ -1,6 +1,6 @@
 # PhonePe/arnold
 
-⭐ 3 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PhonePe/arnold) · [官网](https://phonepe.github.io/arnold/) · 组织维护
+⭐ 14 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PhonePe/arnold) · [官网](https://phonepe.github.io/arnold/) · 组织维护
 
 **自托管代码评审平台，为 GitLab/GitHub 提供 AI 评审工作流**
 

@@ -1,6 +1,6 @@
 # ScryptHunter/ComfyUI-iris
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/ScryptHunter/ComfyUI-iris) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 ComfyUI 中运行 Iris-3B 生图/深度/修复的节点扩展**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

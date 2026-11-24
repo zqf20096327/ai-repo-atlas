@@ -1,6 +1,6 @@
 # h9-tec/arabic-ai-atlas
 
-⭐ 49 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/h9-tec/arabic-ai-atlas) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/h9-tec/arabic-ai-atlas) · 个人维护
 
 **阿拉伯语 AI 生态地图与清单，可装成 agent 技能**
 

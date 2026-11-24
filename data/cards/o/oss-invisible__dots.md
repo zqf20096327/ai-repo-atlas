@@ -1,6 +1,6 @@
 # oss-invisible/dots
 
-⭐ 58 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/oss-invisible/dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
+⭐ 59 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/oss-invisible/dots) · [官网](https://github.com/feder-cr/invisible_dots/blob/main/docs/guide.md) · 个人维护
 
 **自托管反检测 AI 浏览器代理，替用户长期操作电脑任务**
 

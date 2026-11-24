@@ -1,6 +1,6 @@
 # huggingface/dataset-viewer
 
-⭐ 910 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/dataset-viewer) · [官网](https://huggingface.co/docs/dataset-viewer) · 组织维护
+⭐ 911 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/huggingface/dataset-viewer) · [官网](https://huggingface.co/docs/dataset-viewer) · 组织维护
 
 **支撑 Hugging Face 数据集页面的数据集查看器后端 API**
 

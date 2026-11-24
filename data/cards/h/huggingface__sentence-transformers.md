@@ -1,6 +1,6 @@
 # huggingface/sentence-transformers
 
-⭐ 19,302 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/sentence-transformers) · [官网](https://www.sbert.net) · 组织维护
+⭐ 19,303 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/sentence-transformers) · [官网](https://www.sbert.net) · 组织维护
 
 **给开发者用的句子嵌入计算与训练框架**
 

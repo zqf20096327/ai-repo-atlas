@@ -1,6 +1,6 @@
 # codingjoe/VoIP
 
-⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/codingjoe/VoIP) · [官网](https://codingjoe.dev/VoIP/) · 个人维护
+⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/codingjoe/VoIP) · [官网](https://codingjoe.dev/VoIP/) · 个人维护
 
 **异步 Python VoIP 库，支持语音转录与 AI 语音通话**
 

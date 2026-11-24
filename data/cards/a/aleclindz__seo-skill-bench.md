@@ -1,6 +1,6 @@
 # aleclindz/seo-skill-bench
 
-⭐ 43 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/aleclindz/seo-skill-bench) · [官网](https://seoagent.com/seo-skill-benchmark) · 组织维护
+⭐ 43 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aleclindz/seo-skill-bench) · [官网](https://seoagent.com/seo-skill-benchmark) · 组织维护
 
 **SEO 技能评测基准：在含预埋缺陷的固定站点上实测打分**
 

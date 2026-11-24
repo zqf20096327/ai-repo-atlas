@@ -1,6 +1,6 @@
 # ZeroTang05/VideoAdGuard
 
-⭐ 778 · TypeScript · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ZeroTang05/VideoAdGuard) · [官网](https://vag.xiaobaozi.cn) · 个人维护 · 中文 README
+⭐ 777 · TypeScript · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ZeroTang05/VideoAdGuard) · [官网](https://vag.xiaobaozi.cn) · 个人维护 · 中文 README
 
 **基于大语言模型的B站视频植入广告检测与跳过浏览器插件**
 

@@ -1,6 +1,6 @@
 # sherifkozman/the-red-council
 
-⭐ 18 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/sherifkozman/the-red-council) · [官网](https://theredcouncil.com) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-05-09 · [GitHub](https://github.com/sherifkozman/the-red-council) · [官网](https://theredcouncil.com) · 个人维护
 
 **LLM 对抗安全测试平台：攻击、判定、加固、验证闭环**
 

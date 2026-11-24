@@ -1,6 +1,6 @@
 # SystemSculpt/obsidian-systemsculpt-ai
 
-⭐ 196 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) · [官网](https://systemsculpt.com/?utm_source=github&utm_medium=repo&utm_campaign=evergreen&utm_content=obsidian-plugin) · 组织维护
+⭐ 196 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) · [官网](https://systemsculpt.com/?utm_source=github&utm_medium=repo&utm_campaign=evergreen&utm_content=obsidian-plugin) · 组织维护
 
 **让 Claude Code/Codex 或托管 AI 处理 Obsidian 笔记的插件**
 

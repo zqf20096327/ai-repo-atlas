@@ -1,6 +1,6 @@
 # zoharbabin/web-researcher-mcp
 
-⭐ 79 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zoharbabin/web-researcher-mcp) · [官网](https://zoharbabin.com/web-researcher-mcp/) · 个人维护
+⭐ 79 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zoharbabin/web-researcher-mcp) · [官网](https://zoharbabin.com/web-researcher-mcp/) · 个人维护
 
 **给 AI 助手提供带真实引用的网络研究能力的 MCP 服务器**
 

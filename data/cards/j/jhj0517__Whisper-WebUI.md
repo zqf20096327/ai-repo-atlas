@@ -1,6 +1,6 @@
 # jhj0517/Whisper-WebUI
 
-⭐ 2,900 · Python · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/jhj0517/Whisper-WebUI) · 个人维护
+⭐ 2,901 · Python · Apache-2.0 · 推送 2025-12-29 · [GitHub](https://github.com/jhj0517/Whisper-WebUI) · 个人维护
 
 **Whisper 语音转写字幕的 Gradio 网页界面**
 

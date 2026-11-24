@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-node
 
-⭐ 199 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/milvus-io/milvus-sdk-node) · [官网](https://milvus-io.github.io/milvus-sdk-node/) · 组织维护
+⭐ 199 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/milvus-io/milvus-sdk-node) · [官网](https://milvus-io.github.io/milvus-sdk-node/) · 组织维护
 
 **Milvus 向量数据库的官方 Node.js SDK**
 

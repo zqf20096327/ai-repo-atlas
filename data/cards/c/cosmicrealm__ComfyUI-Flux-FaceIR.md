@@ -1,6 +1,6 @@
 # cosmicrealm/ComfyUI-Flux-FaceIR
 
-⭐ 65 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/cosmicrealm/ComfyUI-Flux-FaceIR) · 组织维护
+⭐ 64 · Python · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/cosmicrealm/ComfyUI-Flux-FaceIR) · 组织维护
 
 **ComfyUI 人脸修复扩展：FLUX.2 + LoRA 做盲修复与参考引导修复**
 

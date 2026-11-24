@@ -1,6 +1,6 @@
 # theguysudo/ENZO
 
-⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/theguysudo/ENZO) · [官网](https://enzo-hub.duckdns.org) · 个人维护
+⭐ 123 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/theguysudo/ENZO) · [官网](https://enzo-hub.duckdns.org) · 个人维护
 
 **BYOK 自托管 AI 工作台：多模型聊天、自拟手册的 agent 与代码生成**
 

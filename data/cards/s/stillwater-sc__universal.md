@@ -1,6 +1,6 @@
 # stillwater-sc/universal
 
-⭐ 505 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/stillwater-sc/universal) · [官网](https://stillwater-sc.github.io/universal/) · 组织维护
+⭐ 505 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/stillwater-sc/universal) · [官网](https://stillwater-sc.github.io/universal/) · 组织维护
 
 **C++ 头文件数值类型库：为混合精度算法开发提供自定义算术类型**
 

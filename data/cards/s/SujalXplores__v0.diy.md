@@ -1,6 +1,6 @@
 # SujalXplores/v0.diy
 
-⭐ 173 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SujalXplores/v0.diy) · [官网](https://v0-diy.vercel.app) · 个人维护
+⭐ 172 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SujalXplores/v0.diy) · [官网](https://v0-diy.vercel.app) · 个人维护
 
 **自托管的 v0.app 克隆：自然语言生成 React 应用**
 

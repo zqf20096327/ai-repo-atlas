@@ -1,6 +1,6 @@
 # modeled-information-format/MIF
 
-⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/modeled-information-format/MIF) · [官网](https://mif-spec.dev/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/modeled-information-format/MIF) · [官网](https://mif-spec.dev/) · 个人维护
 
 **AI 知识可移植交换的开放内容格式规范（Markdown+JSON-LD）**
 

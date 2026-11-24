@@ -1,6 +1,6 @@
 # ai-job-search-dev/ai-job-search
 
-⭐ 73,027 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ai-job-search-dev/ai-job-search) · 个人维护
+⭐ 73,143 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai-job-search-dev/ai-job-search) · 个人维护
 
 **求职者的本地 AI 求职申请框架：评估职位并定制简历**
 

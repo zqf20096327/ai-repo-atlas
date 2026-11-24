@@ -1,6 +1,6 @@
 # oneo-me/nsgo-scenra
 
-⭐ 22 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/oneo-me/nsgo-scenra) · [官网](https://oneo-me.github.io/nsgo-scenra/) · 个人维护 · 中文 README
+⭐ 23 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oneo-me/nsgo-scenra) · [官网](https://oneo-me.github.io/nsgo-scenra/) · 个人维护 · 中文 README
 
 **对话式设计桌面应用：AI 助手按你的确认绘制界面与流程图**
 

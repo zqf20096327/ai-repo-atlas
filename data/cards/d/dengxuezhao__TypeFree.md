@@ -1,6 +1,6 @@
 # dengxuezhao/TypeFree
 
-⭐ 59 · Kotlin · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/dengxuezhao/TypeFree) · 个人维护 · 中文 README
+⭐ 65 · Kotlin · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dengxuezhao/TypeFree) · 个人维护 · 中文 README
 
 **Android 原生 AI 语音输入法与全局悬浮胶囊（BYOK 多引擎）**
 

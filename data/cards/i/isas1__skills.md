@@ -1,6 +1,6 @@
 # isas1/skills
 
-⭐ 230 · MIT · 推送 2026-09-26 · [GitHub](https://github.com/isas1/skills) · 个人维护
+⭐ 231 · MIT · 推送 2026-09-26 · [GitHub](https://github.com/isas1/skills) · 个人维护
 
 **两个 Claude 技能：聊天内白话解释与生成单页 HTML 摘要**
 

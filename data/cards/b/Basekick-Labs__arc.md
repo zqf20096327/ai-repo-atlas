@@ -1,6 +1,6 @@
 # Basekick-Labs/arc
 
-⭐ 696 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Basekick-Labs/arc) · [官网](https://basekick.net) · 组织维护
+⭐ 696 · Go · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Basekick-Labs/arc) · [官网](https://basekick.net) · 组织维护
 
 **SQL 时序数据库：为长期遥测数据提供高吞吐摄取与历史查询**
 

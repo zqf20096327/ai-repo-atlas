@@ -1,6 +1,6 @@
 # Catlyn-Lab/DevCat
 
-⭐ 5 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/Catlyn-Lab/DevCat) · [官网](https://devcat.ai.id) · 组织维护
+⭐ 5 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/Catlyn-Lab/DevCat) · [官网](https://devcat.ai.id) · 组织维护
 
 **开发者的 AI 编码 agent 一体化工作台：终端、Git、数据库、K8s 同窗管理**
 

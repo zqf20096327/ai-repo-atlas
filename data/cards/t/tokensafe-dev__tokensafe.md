@@ -1,6 +1,6 @@
 # tokensafe-dev/tokensafe
 
-⭐ 47 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tokensafe-dev/tokensafe) · [官网](https://tokensafe.dev) · 组织维护
+⭐ 47 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tokensafe-dev/tokensafe) · [官网](https://tokensafe.dev) · 组织维护
 
 **面向 AI 编程代理的本地上下文防火墙与零丢失运行时**
 

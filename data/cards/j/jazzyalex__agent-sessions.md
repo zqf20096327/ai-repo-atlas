@@ -1,6 +1,6 @@
 # jazzyalex/agent-sessions
 
-⭐ 955 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jazzyalex/agent-sessions) · [官网](https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=about-sidebar) · 个人维护
+⭐ 954 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jazzyalex/agent-sessions) · [官网](https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=about-sidebar) · 个人维护
 
 **macOS 本地浏览/搜索/恢复 AI 编码 agent 会话历史的工具**
 

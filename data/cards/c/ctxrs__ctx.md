@@ -1,6 +1,6 @@
 # ctxrs/ctx
 
-⭐ 1,189 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ctxrs/ctx) · [官网](https://ctx.rs) · 组织维护
+⭐ 1,190 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ctxrs/ctx) · [官网](https://ctx.rs) · 组织维护
 
 **为 coding agent 提供本地会话历史检索与代码归因的 CLI 工具链**
 

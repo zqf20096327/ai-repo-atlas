@@ -1,6 +1,6 @@
 # AAswordman/Operit
 
-⭐ 9,782 · Kotlin · LGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/AAswordman/Operit) · [官网](https://operit.app) · 个人维护 · 中文 README
+⭐ 9,802 · Kotlin · LGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/AAswordman/Operit) · [官网](https://operit.app) · 个人维护 · 中文 README
 
 **Android 平台的 AI Agent 应用，将模型接入设备能力执行任务**
 

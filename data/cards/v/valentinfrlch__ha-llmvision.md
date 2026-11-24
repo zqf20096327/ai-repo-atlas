@@ -1,6 +1,6 @@
 # valentinfrlch/ha-llmvision
 
-⭐ 1,535 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/valentinfrlch/ha-llmvision) · [官网](https://llmvision.org) · 个人维护
+⭐ 1,537 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/valentinfrlch/ha-llmvision) · [官网](https://llmvision.org) · 个人维护
 
 **Home Assistant 集成：用多模态大模型分析家庭摄像头画面**
 

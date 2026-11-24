@@ -1,6 +1,6 @@
 # yzsind/mydb
 
-⭐ 95 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/yzsind/mydb) · 个人维护
+⭐ 100 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/yzsind/mydb) · 个人维护
 
 **Rust 编写的 MySQL 兼容 HTAP 数据库，内置向量检索与 AI 调用**
 

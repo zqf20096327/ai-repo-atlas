@@ -1,6 +1,6 @@
 # docxology/codomyrmex
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/docxology/codomyrmex) · [官网](https://doi.org/10.5281/zenodo.21750800) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/docxology/codomyrmex) · [官网](https://doi.org/10.5281/zenodo.21750800) · 个人维护
 
 **模块化 Python 智能体平台：以 MCP 工具形式暴露 LLM 代理与工程能力**
 

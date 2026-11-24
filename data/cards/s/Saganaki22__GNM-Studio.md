@@ -1,6 +1,6 @@
 # Saganaki22/GNM-Studio
 
-⭐ 63 · JavaScript · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/Saganaki22/GNM-Studio) · [官网](http://drbaph.is-a.dev/GNM-Studio/) · 个人维护 · 中文 README
+⭐ 64 · JavaScript · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/Saganaki22/GNM-Studio) · [官网](http://drbaph.is-a.dev/GNM-Studio/) · 个人维护 · 中文 README
 
 **本地优先的 Google GNM 头部创建与摄像头面捕动画桌面/网页工作室**
 

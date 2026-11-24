@@ -1,6 +1,6 @@
 # X-T-E-R/kiki
 
-⭐ 59 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/X-T-E-R/kiki) · [官网](https://x-t-e-r.github.io/kiki/) · 个人维护 · 中文 README
+⭐ 59 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/X-T-E-R/kiki) · [官网](https://x-t-e-r.github.io/kiki/) · 个人维护 · 中文 README
 
 **多模型 AI agent 工作台：桌面/TUI/Web 三端调度子代理完成任务**
 

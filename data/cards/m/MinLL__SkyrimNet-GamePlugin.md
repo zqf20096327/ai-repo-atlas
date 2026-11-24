@@ -1,6 +1,6 @@
 # MinLL/SkyrimNet-GamePlugin
 
-⭐ 387 · Papyrus · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/MinLL/SkyrimNet-GamePlugin) · [官网](https://fateless.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 Skyrim 全体 NPC 提供 AI 对话、记忆与实时语音的游戏模组**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

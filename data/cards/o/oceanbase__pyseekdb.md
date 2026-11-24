@@ -1,6 +1,6 @@
 # oceanbase/pyseekdb
 
-⭐ 61 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/oceanbase/pyseekdb) · [官网](https://seekdb.ai) · 组织维护 · 中文 README
+⭐ 61 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/oceanbase/pyseekdb) · [官网](https://seekdb.ai) · 组织维护 · 中文 README
 
 **面向 OceanBase/seekdb 的 Python SDK，提供向量与全文检索接口**
 

@@ -1,6 +1,6 @@
 # MichaelTMatthews/Craftax
 
-⭐ 476 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MichaelTMatthews/Craftax) · 组织维护
+⭐ 477 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/MichaelTMatthews/Craftax) · 组织维护
 
 **纯 JAX 实现的开放式强化学习基准环境**
 

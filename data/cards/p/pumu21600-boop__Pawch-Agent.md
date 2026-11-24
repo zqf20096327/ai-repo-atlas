@@ -1,6 +1,6 @@
 # pumu21600-boop/Pawch-Agent
 
-⭐ 4 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pumu21600-boop/Pawch-Agent) · 个人维护 · 中文 README
+⭐ 5 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pumu21600-boop/Pawch-Agent) · 个人维护 · 中文 README
 
 **Windows 本机桌面 AI Agent：自定义模型接入、数据本地留存**
 

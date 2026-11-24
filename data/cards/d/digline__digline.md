@@ -1,6 +1,6 @@
 # digline/digline
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/digline/digline) · [官网](https://digline.dev) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/digline/digline) · [官网](https://digline.dev) · 组织维护
 
 **为 LLM 应用在 CI 中做回归测试的 Python CLI 与 pytest 插件**
 

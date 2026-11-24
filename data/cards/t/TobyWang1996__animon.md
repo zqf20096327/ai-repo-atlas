@@ -1,6 +1,6 @@
 # TobyWang1996/animon
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TobyWang1996/animon) · 组织维护 · 中文 README
+⭐ 80 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TobyWang1996/animon) · 组织维护 · 中文 README
 
 **带角色、长期记忆与关系状态的 AI 陪伴对话原型**
 

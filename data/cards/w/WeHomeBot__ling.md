@@ -1,6 +1,6 @@
 # WeHomeBot/ling
 
-⭐ 142 · TypeScript · NOASSERTION · 推送 2025-12-02 · [GitHub](https://github.com/WeHomeBot/ling) · [官网](https://ling.bearbobo.com/) · 组织维护 · 中文 README
+⭐ 141 · TypeScript · NOASSERTION · 推送 2025-12-02 · [GitHub](https://github.com/WeHomeBot/ling) · [官网](https://ling.bearbobo.com/) · 组织维护 · 中文 README
 
 **LLM 结构化内容流式输出工作流框架（npm/TS）**
 

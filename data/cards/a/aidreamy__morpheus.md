@@ -1,6 +1,6 @@
 # aidreamy/morpheus
 
-⭐ 16 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/aidreamy/morpheus) · [官网](https://morpheus.aidreamy.com) · 个人维护
+⭐ 16 · Rust · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/aidreamy/morpheus) · [官网](https://morpheus.aidreamy.com) · 个人维护
 
 **面向终端的 Rust 多智能体编排器：统一管理多个 coding agent**
 

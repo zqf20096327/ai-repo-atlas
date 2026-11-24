@@ -1,6 +1,6 @@
 # mexcool/simplelogin-cli
 
-⭐ 10 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mexcool/simplelogin-cli) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mexcool/simplelogin-cli) · 个人维护
 
 **SimpleLogin 邮件别名的终端管理 CLI，供人类与 agent 使用**
 

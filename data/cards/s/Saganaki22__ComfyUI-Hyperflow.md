@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-Hyperflow
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Saganaki22/ComfyUI-Hyperflow) · [官网](https://huggingface.co/drbaph/Hyperflow-Comfyui) · 个人维护 · 中文 README
+⭐ 66 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/Saganaki22/ComfyUI-Hyperflow) · [官网](https://huggingface.co/drbaph/Hyperflow-Comfyui) · 个人维护 · 中文 README
 
 **在 ComfyUI 中原生加载 HyperFlow 8 步 MiniMax-H3 LoRA 的节点包**
 

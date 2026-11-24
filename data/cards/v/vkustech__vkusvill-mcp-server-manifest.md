@@ -1,6 +1,6 @@
 # vkustech/vkusvill-mcp-server-manifest
 
-⭐ 37 · 推送 2026-10-23 · [GitHub](https://github.com/vkustech/vkusvill-mcp-server-manifest) · 组织维护
+⭐ 38 · 推送 2026-10-23 · [GitHub](https://github.com/vkustech/vkusvill-mcp-server-manifest) · 组织维护
 
 **ВкусВилл 官方购物 MCP 服务器，供 AI 助手代选代购食品**
 

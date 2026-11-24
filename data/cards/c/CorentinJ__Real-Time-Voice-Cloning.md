@@ -1,6 +1,6 @@
 # CorentinJ/Real-Time-Voice-Cloning
 
-⭐ 60,250 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/CorentinJ/Real-Time-Voice-Cloning) · 个人维护
+⭐ 60,247 · Python · NOASSERTION · 推送 2026-03-09 · [GitHub](https://github.com/CorentinJ/Real-Time-Voice-Cloning) · 个人维护
 
 **5 秒音频克隆声音、实时生成任意语音的工具箱**
 

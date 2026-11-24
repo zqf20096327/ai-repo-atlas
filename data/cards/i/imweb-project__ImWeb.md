@@ -1,6 +1,6 @@
 # imweb-project/ImWeb
 
-⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/imweb-project/ImWeb) · [官网](https://imweb.image-ine.org) · 个人维护
+⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/imweb-project/ImWeb) · [官网](https://imweb.image-ine.org) · 个人维护
 
 **浏览器端实时视频合成乐器，Image/ine 的现代化重制版**
 

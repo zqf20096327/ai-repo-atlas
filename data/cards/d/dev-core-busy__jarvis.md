@@ -1,6 +1,6 @@
 # dev-core-busy/jarvis
 
-⭐ 7 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dev-core-busy/jarvis) · [官网](https://jarvis-ai.info) · 组织维护
+⭐ 8 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/dev-core-busy/jarvis) · [官网](https://jarvis-ai.info) · 组织维护
 
 **自托管 Linux 桌面 AI 代理：自然语言操控桌面执行任务**
 

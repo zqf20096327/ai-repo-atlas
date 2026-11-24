@@ -1,6 +1,6 @@
 # nemo-crypto/Web3
 
-⭐ 90 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/nemo-crypto/Web3) · [官网](https://nemo-crypto.github.io/Web3/) · 个人维护 · 中文 README
+⭐ 92 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/nemo-crypto/Web3) · [官网](https://nemo-crypto.github.io/Web3/) · 个人维护 · 中文 README
 
 **Web3 中文教学手册：系统讲解区块链、DeFi 与量化基础**
 

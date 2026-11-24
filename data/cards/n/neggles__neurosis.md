@@ -1,6 +1,6 @@
 # neggles/neurosis
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/neggles/neurosis) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/neggles/neurosis) · 个人维护
 
 **Stable Diffusion 扩散模型的 PyTorch Lightning 训练器**
 

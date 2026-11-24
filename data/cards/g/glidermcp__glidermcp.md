@@ -1,6 +1,6 @@
 # glidermcp/glidermcp
 
-⭐ 18 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/glidermcp/glidermcp) · [官网](https://glidermcp.com) · 组织维护
+⭐ 18 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/glidermcp/glidermcp) · [官网](https://glidermcp.com) · 组织维护
 
 **面向编码 agent 的本地 C#/.NET 代码分析 MCP 工具集**
 

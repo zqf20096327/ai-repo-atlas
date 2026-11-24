@@ -1,6 +1,6 @@
 # clowlove/Hermes-House
 
-⭐ 14 · HTML · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/clowlove/Hermes-House) · [官网](https://clowlove.github.io/Hermes-House/) · 个人维护 · 中文 README
+⭐ 14 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/clowlove/Hermes-House) · [官网](https://clowlove.github.io/Hermes-House/) · 个人维护 · 中文 README
 
 **自进化多 Agent 系统：持续学习并自动扩展技能库**
 

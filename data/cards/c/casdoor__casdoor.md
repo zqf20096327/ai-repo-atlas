@@ -1,6 +1,6 @@
 # casdoor/casdoor
 
-⭐ 14,925 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/casdoor/casdoor) · [官网](https://casdoor.ai) · 组织维护
+⭐ 14,931 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/casdoor/casdoor) · [官网](https://casdoor.ai) · 组织维护
 
 **开源自托管 IAM/SSO 认证服务器，提供 MCP 网关与 agent 访问控制**
 

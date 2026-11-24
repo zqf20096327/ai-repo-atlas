@@ -1,6 +1,6 @@
 # reverie-0606/Axiom-AI-Aimbot
 
-⭐ 60 · Python · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/reverie-0606/Axiom-AI-Aimbot) · 个人维护 · 中文 README
+⭐ 59 · Python · NOASSERTION · 推送 2026-05-01 · [GitHub](https://github.com/reverie-0606/Axiom-AI-Aimbot) · 个人维护 · 中文 README
 
 **Windows 计算机视觉自瞄工具：检测目标并自动控制鼠标**
 

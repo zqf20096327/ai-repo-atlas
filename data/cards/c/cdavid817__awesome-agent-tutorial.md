@@ -1,6 +1,6 @@
 # cdavid817/awesome-agent-tutorial
 
-⭐ 49 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/cdavid817/awesome-agent-tutorial) · 个人维护 · 中文 README
+⭐ 50 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/cdavid817/awesome-agent-tutorial) · 个人维护 · 中文 README
 
 **面向转型工程师的企业级 Agent 工程化中文教程（27 章+贯穿项目）**
 

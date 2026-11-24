@@ -1,6 +1,6 @@
 # shantanu-ai/deep-learning-resources
 
-⭐ 97 · 推送 2025-11-28 · [GitHub](https://github.com/shantanu-ai/deep-learning-resources) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **深度学习入门与研究的课程视频资源清单**
 

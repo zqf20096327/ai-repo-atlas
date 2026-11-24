@@ -1,6 +1,6 @@
 # ZYH1207/ManageAPI
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ZYH1207/ManageAPI) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ZYH1207/ManageAPI) · 个人维护 · 中文 README
 
 **面向多 API 中转站用户的本地比价、探针与统一网关**
 

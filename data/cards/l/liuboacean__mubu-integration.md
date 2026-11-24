@@ -1,6 +1,6 @@
 # liuboacean/mubu-integration
 
-⭐ 19 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/liuboacean/mubu-integration) · [官网](https://clawhub.ai/liuboacean/skills/mubu-integration) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/liuboacean/mubu-integration) · [官网](https://clawhub.ai/liuboacean/skills/mubu-integration) · 个人维护 · 中文 README
 
 **幕布大纲的命令行与 AI Agent Skill：Markdown 无损导入导出**
 

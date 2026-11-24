@@ -1,6 +1,6 @@
 # ys-ll/uniterm
 
-⭐ 1,248 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ys-ll/uniterm) · [官网](https://uniterm.net) · 个人维护 · 中文 README
+⭐ 1,264 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ys-ll/uniterm) · [官网](https://uniterm.net) · 个人维护 · 中文 README
 
 **覆盖 30+ 协议的一体化终端，内置可自主执行命令的 AI Agent**
 

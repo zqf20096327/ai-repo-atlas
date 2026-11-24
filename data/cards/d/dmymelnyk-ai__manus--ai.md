@@ -1,6 +1,6 @@
 # dmymelnyk-ai/manus--ai
 
-⭐ 177 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/dmymelnyk-ai/manus--ai) · 个人维护
+⭐ 173 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/dmymelnyk-ai/manus--ai) · 个人维护
 
 **自主 AI Agent：代替用户执行代码与控制浏览器完成多步任务**
 

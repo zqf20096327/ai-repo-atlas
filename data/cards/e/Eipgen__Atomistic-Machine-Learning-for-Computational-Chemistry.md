@@ -1,6 +1,6 @@
 # Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry
 
-⭐ 208 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry) · 个人维护
+⭐ 209 · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Eipgen/Atomistic-Machine-Learning-for-Computational-Chemistry) · 个人维护
 
 **计算化学原子级机器学习模型策展清单**
 

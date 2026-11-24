@@ -1,6 +1,6 @@
 # DataCovey/nornweave
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/DataCovey/nornweave) · [官网](https://nornweave.datacovey.com/) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DataCovey/nornweave) · [官网](https://nornweave.datacovey.com/) · 个人维护
 
 **为 AI Agent 提供的自托管收件箱即服务（Inbox-as-a-Service）API**
 

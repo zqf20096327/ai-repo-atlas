@@ -1,6 +1,6 @@
 # brunocpf/spritekiln
 
-⭐ 22 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/brunocpf/spritekiln) · 个人维护
+⭐ 23 · Python · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/brunocpf/spritekiln) · 个人维护
 
 **本地生成 2D 游戏美术的 ComfyUI 节点包与工作流套件**
 

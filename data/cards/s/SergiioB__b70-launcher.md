@@ -1,6 +1,6 @@
 # SergiioB/b70-launcher
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SergiioB/b70-launcher) · [官网](https://xecores.com/match) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SergiioB/b70-launcher) · [官网](https://xecores.com/match) · 个人维护
 
 **面向 Intel Arc Pro B70 的本地 LLM 推理启动器**
 

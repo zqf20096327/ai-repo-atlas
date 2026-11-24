@@ -1,6 +1,6 @@
 # inclavare-containers/confidential-agent
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/inclavare-containers/confidential-agent) · 组织维护 · 中文 README
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/inclavare-containers/confidential-agent) · 组织维护 · 中文 README
 
 **基于 Intel TDX 的机密计算 AI Agent 部署方案**
 

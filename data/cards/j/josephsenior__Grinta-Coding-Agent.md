@@ -1,6 +1,6 @@
 # josephsenior/Grinta-Coding-Agent
 
-⭐ 33 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/josephsenior/Grinta-Coding-Agent) · [官网](https://josephsenior.github.io/Grinta-Coding-Agent/) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/josephsenior/Grinta-Coding-Agent) · [官网](https://josephsenior.github.io/Grinta-Coding-Agent/) · 个人维护
 
 **本地优先的自主编码代理，端到端完成长周期软件任务**
 

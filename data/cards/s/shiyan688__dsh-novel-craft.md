@@ -1,6 +1,6 @@
 # shiyan688/dsh-novel-craft
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/shiyan688/dsh-novel-craft) · [官网](https://www.npmjs.com/package/dsh-novel-craft) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/shiyan688/dsh-novel-craft) · [官网](https://www.npmjs.com/package/dsh-novel-craft) · 个人维护 · 中文 README
 
 **给中文小说作者的 AI 写作插件：点赞点踩校准个人文风**
 

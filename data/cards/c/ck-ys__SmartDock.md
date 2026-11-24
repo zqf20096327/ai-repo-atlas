@@ -1,6 +1,6 @@
 # ck-ys/SmartDock
 
-⭐ 320 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ck-ys/SmartDock) · 个人维护 · 中文 README
+⭐ 322 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ck-ys/SmartDock) · 个人维护 · 中文 README
 
 **通用智能体引擎与用户画像引擎的参考实现，附企业级后台基座**
 

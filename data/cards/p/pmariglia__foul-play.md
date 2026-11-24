@@ -1,6 +1,6 @@
 # pmariglia/foul-play
 
-⭐ 385 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/pmariglia/foul-play) · 个人维护
+⭐ 387 · Python · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/pmariglia/foul-play) · 个人维护
 
 **在 Pokemon Showdown 平台自动打对战的宝可梦对战机器人**
 

@@ -1,6 +1,6 @@
 # Neywa-Labs/mlx-audio
 
-⭐ 8,323 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Neywa-Labs/mlx-audio) · [官网](https://www.neywalabs.ai) · 组织维护
+⭐ 8,325 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Neywa-Labs/mlx-audio) · [官网](https://www.neywalabs.ai) · 组织维护
 
 **Apple Silicon 本地运行的 TTS/STT/STS 语音推理库**
 

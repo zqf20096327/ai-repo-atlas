@@ -1,6 +1,6 @@
 # Synthyra/Protify
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Synthyra/Protify) · [官网](https://synthyra.com/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Synthyra/Protify) · [官网](https://synthyra.com/) · 组织维护
 
 **低代码蛋白质/化学语言模型训练与基准平台**
 

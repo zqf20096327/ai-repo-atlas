@@ -1,6 +1,6 @@
 # VertexCorporation/Cortex
 
-⭐ 49 · Dart · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/VertexCorporation/Cortex) · [官网](https://vertexishere.com) · 组织维护
+⭐ 49 · Dart · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/VertexCorporation/Cortex) · [官网](https://vertexishere.com) · 组织维护
 
 **混合 AI 平台：移动端本地推理+多供应商编排+检索记忆**
 

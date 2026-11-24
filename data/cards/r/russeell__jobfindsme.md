@@ -1,6 +1,6 @@
 # russeell/jobfindsme
 
-⭐ 32 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/russeell/jobfindsme) · [官网](https://github.com/russeell/jobfindsme/releases/latest) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/russeell/jobfindsme) · [官网](https://github.com/russeell/jobfindsme/releases/latest) · 个人维护 · 中文 README
 
 **面向中文求职者的本地优先 AI 求职桌面助手**
 

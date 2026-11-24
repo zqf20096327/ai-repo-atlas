@@ -1,6 +1,6 @@
 # qq362946/Fantasy
 
-⭐ 1,493 · C# · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/qq362946/Fantasy) · [官网](https://github.com/qq362946/Fantasy) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **零反射 C# 游戏服务器框架，附 AI Agent 编码技能**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # promptadvisers/unlock
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/promptadvisers/unlock) · 个人维护
+⭐ 26 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/promptadvisers/unlock) · 个人维护
 
 **通过 Claude Code/Codex 编辑本地模型行为的技能：改副本、留原件**
 

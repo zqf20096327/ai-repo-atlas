@@ -1,6 +1,6 @@
 # haremank/nsfw-prompt
 
-⭐ 42 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/haremank/nsfw-prompt) · [官网](https://skills.sh/haremank/nsfw-prompt) · 个人维护 · 中文 README
+⭐ 45 · MIT · 推送 2026-09-02 · [GitHub](https://github.com/haremank/nsfw-prompt) · [官网](https://skills.sh/haremank/nsfw-prompt) · 个人维护 · 中文 README
 
 **面向 Agent 的成人图像英文提示词编译技能（SKILL.md 格式）**
 

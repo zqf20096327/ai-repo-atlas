@@ -1,6 +1,6 @@
 # gquthier/autonomous-shortform-facecam-editing
 
-⭐ 16 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/gquthier/autonomous-shortform-facecam-editing) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/gquthier/autonomous-shortform-facecam-editing) · 个人维护
 
 **Claude Code 技能：把一段口播视频自动做成成片广告**
 

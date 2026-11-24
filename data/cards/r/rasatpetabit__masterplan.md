@@ -1,6 +1,6 @@
 # rasatpetabit/masterplan
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rasatpetabit/masterplan) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rasatpetabit/masterplan) · 个人维护
 
 **Claude Code/Codex 插件：头脑风暴→计划→执行的开发工作流编排**
 

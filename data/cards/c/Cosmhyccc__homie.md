@@ -1,6 +1,6 @@
 # Cosmhyccc/homie
 
-⭐ 8 · Swift · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Cosmhyccc/homie) · [官网](https://homie-mac.vercel.app) · 个人维护
+⭐ 8 · Swift · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Cosmhyccc/homie) · [官网](https://homie-mac.vercel.app) · 个人维护
 
 **Mac 刘海中的本地离线语音助手：按住说话即完成操作**
 

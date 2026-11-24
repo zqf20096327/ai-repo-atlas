@@ -1,6 +1,6 @@
 # MicroZ-LLC/AllInOneIME
 
-⭐ 17 · Swift · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/MicroZ-LLC/AllInOneIME) · [官网](https://allinoneime.com) · 组织维护 · 中文 README
+⭐ 17 · Swift · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MicroZ-LLC/AllInOneIME) · [官网](https://allinoneime.com) · 组织维护 · 中文 README
 
 **带 AI 命令的 macOS 输入法：任意输入框内改写/翻译/提问**
 

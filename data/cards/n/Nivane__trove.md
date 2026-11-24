@@ -1,6 +1,6 @@
 # Nivane/trove
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Nivane/trove) · [官网](https://nivane.github.io/trove/) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Nivane/trove) · [官网](https://nivane.github.io/trove/) · 个人维护 · 中文 README
 
 **面向业务方的自托管 AI 数据决策智能体：问数、分析、决策、行动**
 

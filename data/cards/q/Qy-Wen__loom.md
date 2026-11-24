@@ -1,6 +1,6 @@
 # Qy-Wen/loom
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Qy-Wen/loom) · [官网](https://loom.sanzang.site) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Qy-Wen/loom) · [官网](https://loom.sanzang.site) · 个人维护 · 中文 README
 
 **本地优先的素材库桌面应用：用对话浏览、搜索和整理文件**
 

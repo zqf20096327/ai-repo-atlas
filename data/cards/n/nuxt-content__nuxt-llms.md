@@ -1,6 +1,6 @@
 # nuxt-content/nuxt-llms
 
-⭐ 171 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nuxt-content/nuxt-llms) · 组织维护
+⭐ 171 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nuxt-content/nuxt-llms) · 组织维护
 
 **为 Nuxt 应用自动生成 llms.txt 文档的模块**
 

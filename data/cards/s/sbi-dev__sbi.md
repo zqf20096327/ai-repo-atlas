@@ -1,6 +1,6 @@
 # sbi-dev/sbi
 
-⭐ 889 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sbi-dev/sbi) · [官网](https://sbi.readthedocs.io) · 组织维护
+⭐ 890 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sbi-dev/sbi) · [官网](https://sbi.readthedocs.io) · 组织维护
 
 **面向科研与工程的贝叶斯参数推断库**
 

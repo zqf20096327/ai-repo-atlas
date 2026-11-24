@@ -1,6 +1,6 @@
 # hubooooooo/agent-workshop
 
-⭐ 38 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hubooooooo/agent-workshop) · 个人维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hubooooooo/agent-workshop) · 个人维护 · 中文 README
 
 **本地运行的 Agent 产品推导引擎：从点子推导 PRD、架构方案与骨架验收**
 

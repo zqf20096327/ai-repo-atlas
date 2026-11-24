@@ -1,6 +1,6 @@
 # microsoft/mcp
 
-⭐ 3,886 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/mcp) · 组织维护
+⭐ 3,889 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/mcp) · 组织维护
 
 **微软官方 MCP 服务器目录：让 AI 应用接入数据与工具**
 

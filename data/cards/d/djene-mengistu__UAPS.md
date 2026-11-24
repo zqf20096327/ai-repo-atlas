@@ -1,6 +1,6 @@
 # djene-mengistu/UAPS
 
-⭐ 14 · Python · MIT · 推送 2026-04-17 · [GitHub](https://github.com/djene-mengistu/UAPS) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/djene-mengistu/UAPS) · 个人维护
 
 **半监督缺陷分割研究代码：不确定性引导伪标签训练**
 

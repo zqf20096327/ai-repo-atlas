@@ -1,6 +1,6 @@
 # ddalcu/mlx-serve
 
-⭐ 2,576 · Zig · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ddalcu/mlx-serve) · [官网](https://mlxserve.com/) · 个人维护 · 中文 README
+⭐ 2,588 · Zig · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ddalcu/mlx-serve) · [官网](https://mlxserve.com/) · 个人维护 · 中文 README
 
 **面向 Apple Silicon 的本地推理服务器与应用，兼容 OpenAI/Anthropic API**
 

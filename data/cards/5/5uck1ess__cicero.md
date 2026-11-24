@@ -1,6 +1,6 @@
 # 5uck1ess/cicero
 
-⭐ 68 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/5uck1ess/cicero) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/5uck1ess/cicero) · 个人维护
 
 **自托管语音前端：用语音对话驱动编码 agent 干活**
 

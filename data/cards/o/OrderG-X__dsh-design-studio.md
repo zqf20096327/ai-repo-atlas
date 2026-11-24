@@ -1,6 +1,6 @@
 # OrderG-X/dsh-design-studio
 
-⭐ 135 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/OrderG-X/dsh-design-studio) · 个人维护 · 中文 README
+⭐ 142 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/OrderG-X/dsh-design-studio) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的设计工作台插件：画布预览界面、点选改稿**
 

@@ -1,6 +1,6 @@
 # eclipse-theia/theia
 
-⭐ 21,782 · TypeScript · EPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/eclipse-theia/theia) · [官网](https://theia-ide.org/) · 组织维护
+⭐ 21,784 · TypeScript · EPL-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/eclipse-theia/theia) · [官网](https://theia-ide.org/) · 组织维护
 
 **供开发者构建浏览器与桌面自定义 IDE 的开源框架**
 

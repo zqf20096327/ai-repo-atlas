@@ -1,6 +1,6 @@
 # liangxiao777/TeachMeCoding
 
-⭐ 105 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/liangxiao777/TeachMeCoding) · 个人维护 · 中文 README
+⭐ 117 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/liangxiao777/TeachMeCoding) · 个人维护 · 中文 README
 
 **本地运行的 AI 编程老师：生成学习路线、课件与执行测评**
 

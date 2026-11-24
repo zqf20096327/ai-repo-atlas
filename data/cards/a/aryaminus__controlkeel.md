@@ -1,6 +1,6 @@
 # aryaminus/controlkeel
 
-⭐ 11 · Elixir · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/aryaminus/controlkeel) · [官网](https://controlkeel.com) · 个人维护
+⭐ 11 · Elixir · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/aryaminus/controlkeel) · [官网](https://controlkeel.com) · 个人维护
 
 **给 AI 编码 agent 提供治理控制面：校验输出、执行策略门禁**
 

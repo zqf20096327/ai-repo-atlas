@@ -1,6 +1,6 @@
 # lightning-uq-box/lightning-uq-box
 
-⭐ 232 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lightning-uq-box/lightning-uq-box) · [官网](https://lightning-uq-box.readthedocs.io/en/latest/) · 组织维护
+⭐ 232 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lightning-uq-box/lightning-uq-box) · [官网](https://lightning-uq-box.readthedocs.io/en/latest/) · 组织维护
 
 **基于 PyTorch Lightning 的神经网络不确定性量化方法库**
 

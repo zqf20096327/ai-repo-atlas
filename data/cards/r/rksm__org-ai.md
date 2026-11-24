@@ -1,6 +1,6 @@
 # rksm/org-ai
 
-⭐ 823 · Emacs Lisp · GPL-3.0 · 推送 2026-01-07 · [GitHub](https://github.com/rksm/org-ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Emacs org-mode 的生成式 AI 副模式：文本/图像生成与语音输入输出**
 
@@ -11,7 +11,7 @@ org-mode 的 Emacs minor mode，通过 #+begin_ai 代码块调用生成式 AI：
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

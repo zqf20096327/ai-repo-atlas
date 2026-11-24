@@ -1,6 +1,6 @@
 # zAbuQasem/daily-security-feed
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/zAbuQasem/daily-security-feed) · [官网](https://zabuqasem.github.io/daily-security-feed/) · 个人维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/zAbuQasem/daily-security-feed) · [官网](https://zabuqasem.github.io/daily-security-feed/) · 个人维护
 
 **AI 分类安全资讯 RSS 聚合管道，日更发布并推送 Discord/Slack**
 

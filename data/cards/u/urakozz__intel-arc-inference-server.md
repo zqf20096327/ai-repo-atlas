@@ -1,6 +1,6 @@
 # urakozz/intel-arc-inference-server
 
-⭐ 15 · C++ · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/urakozz/intel-arc-inference-server) · 个人维护
+⭐ 19 · C++ · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/urakozz/intel-arc-inference-server) · 个人维护
 
 **面向 Intel Arc Pro B70 显卡的本地 LLM 推理服务器**
 

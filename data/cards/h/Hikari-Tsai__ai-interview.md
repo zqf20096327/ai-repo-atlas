@@ -1,6 +1,6 @@
 # Hikari-Tsai/ai-interview
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Hikari-Tsai/ai-interview) · [官网](https://hikari-tsai.github.io/ai-interview) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Hikari-Tsai/ai-interview) · [官网](https://hikari-tsai.github.io/ai-interview) · 个人维护 · 中文 README
 
 **AI 工程面试题库：多语言卡片练习与溯源学习笔记**
 

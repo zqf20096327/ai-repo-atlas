@@ -1,6 +1,6 @@
 # dylan-murray/agent-desk
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dylan-murray/agent-desk) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/dylan-murray/agent-desk) · 个人维护
 
 **给开发者的本地编码 agent 工作台：并排运行与审查多个 agent**
 

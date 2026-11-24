@@ -1,6 +1,6 @@
 # BloretCrew/CrewRouter
 
-⭐ 35 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/BloretCrew/CrewRouter) · [官网](https://crewrouter.bloret.net) · 组织维护 · 中文 README
+⭐ 35 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/BloretCrew/CrewRouter) · [官网](https://crewrouter.bloret.net) · 组织维护 · 中文 README
 
 **团队级 AI 模型统一网关：一个端点聚合多供应商**
 

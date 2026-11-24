@@ -1,6 +1,6 @@
 # bjcoombs/ai-native-toolkit
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/bjcoombs/ai-native-toolkit) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/bjcoombs/ai-native-toolkit) · 个人维护
 
 **面向 AI 协作开发的 Claude Code 插件与 Agent Skills 工具集**
 

@@ -1,6 +1,6 @@
 # ghuntley/how-to-build-a-coding-agent
 
-⭐ 5,931 · Go · 推送 2026-11-21 · [GitHub](https://github.com/ghuntley/how-to-build-a-coding-agent) · [官网](https://ghuntley.com/agent/) · 个人维护
+⭐ 5,932 · Go · 推送 2026-11-21 · [GitHub](https://github.com/ghuntley/how-to-build-a-coding-agent) · [官网](https://ghuntley.com/agent/) · 个人维护
 
 **教学工坊：用 Go 分步搭建自己的 AI 编程助手**
 

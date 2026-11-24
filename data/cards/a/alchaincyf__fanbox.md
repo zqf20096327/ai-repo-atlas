@@ -1,6 +1,6 @@
 # alchaincyf/fanbox
 
-⭐ 1,102 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/alchaincyf/fanbox) · [官网](https://github.com/alchaincyf/fanbox/releases/latest) · 个人维护 · 中文 README
+⭐ 1,104 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/alchaincyf/fanbox) · [官网](https://github.com/alchaincyf/fanbox/releases/latest) · 个人维护 · 中文 README
 
 **给 vibe coding 用户的 Coding Agent 驾驶舱桌面应用**
 

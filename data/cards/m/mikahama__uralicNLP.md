@@ -1,6 +1,6 @@
 # mikahama/uralicNLP
 
-⭐ 101 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/mikahama/uralicNLP) · [官网](http://uralicnlp.com/) · 个人维护
+⭐ 101 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mikahama/uralicNLP) · [官网](http://uralicnlp.com/) · 个人维护
 
 **面向乌拉尔语系及多语的形态学 NLP Python 库**
 

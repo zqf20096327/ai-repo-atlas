@@ -1,6 +1,6 @@
 # epicsagas/alcove
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/epicsagas/alcove) · [官网](https://epicsagas.github.io/alcove/) · 个人维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epicsagas/alcove) · [官网](https://epicsagas.github.io/alcove/) · 个人维护
 
 **让 AI 编程代理按需检索私有项目文档的 MCP/HTTP 服务器**
 

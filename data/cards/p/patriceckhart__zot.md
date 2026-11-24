@@ -1,6 +1,6 @@
 # patriceckhart/zot
 
-⭐ 371 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
+⭐ 371 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
 
 **Go 编写的轻量编码代理客户端，一个静态二进制接 30+ 模型**
 

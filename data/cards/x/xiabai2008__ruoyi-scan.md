@@ -1,6 +1,6 @@
 # xiabai2008/ruoyi-scan
 
-⭐ 59 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xiabai2008/ruoyi-scan) · [官网](https://xiabai2008.github.io/ruoyi-scan/) · 个人维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xiabai2008/ruoyi-scan) · [官网](https://xiabai2008.github.io/ruoyi-scan/) · 个人维护 · 中文 README
 
 **面向若依框架的专项漏洞扫描器，带三态判定与 AI 辅助**
 

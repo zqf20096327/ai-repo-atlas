@@ -1,6 +1,6 @@
 # optuna/optuna
 
-⭐ 15,074 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/optuna/optuna) · [官网](https://optuna.org) · 组织维护
+⭐ 15,078 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/optuna/optuna) · [官网](https://optuna.org) · 组织维护
 
 **为机器学习开发者自动搜索超参数的 Python 优化框架**
 

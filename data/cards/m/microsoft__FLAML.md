@@ -1,6 +1,6 @@
 # microsoft/FLAML
 
-⭐ 4,421 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/FLAML) · [官网](https://microsoft.github.io/FLAML/) · 组织维护 · 中文 README
+⭐ 4,422 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/FLAML) · [官网](https://microsoft.github.io/FLAML/) · 组织维护 · 中文 README
 
 **轻量 AutoML 与超参数优化 Python 库，低算力选出可用模型**
 

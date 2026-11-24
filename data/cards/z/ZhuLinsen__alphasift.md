@@ -1,6 +1,6 @@
 # ZhuLinsen/alphasift
 
-⭐ 531 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ZhuLinsen/alphasift) · [官网](https://alphasift.zhulinsen.tech/) · 个人维护 · 中文 README
+⭐ 549 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ZhuLinsen/alphasift) · [官网](https://alphasift.zhulinsen.tech/) · 个人维护 · 中文 README
 
 **A股全市场选股筛选引擎：确定性因子+可选LLM排序与复盘评估**
 

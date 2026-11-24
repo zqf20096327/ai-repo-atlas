@@ -1,6 +1,6 @@
 # cotletdev/partiful-api-mcp-server
 
-⭐ 8 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/partiful-api-mcp-server) · [官网](https://cotlet.dev/integrations/partiful-api-mcp-server) · 组织维护
+⭐ 8 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/partiful-api-mcp-server) · [官网](https://cotlet.dev/integrations/partiful-api-mcp-server) · 组织维护
 
 **让 AI 助手操作 Partiful 的 API 与 MCP 服务器**
 

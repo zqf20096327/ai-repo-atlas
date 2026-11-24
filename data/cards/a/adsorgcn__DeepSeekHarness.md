@@ -1,6 +1,6 @@
 # adsorgcn/DeepSeekHarness
 
-⭐ 19 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/adsorgcn/DeepSeekHarness) · [官网](https://dsh.ilang.guide/) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adsorgcn/DeepSeekHarness) · [官网](https://dsh.ilang.guide/) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户装本地记忆、技能与一键安装的工具包**
 

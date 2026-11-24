@@ -1,6 +1,6 @@
 # nexscope-ai/eCommerce-Skills
 
-⭐ 1,491 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/nexscope-ai/eCommerce-Skills) · 组织维护
+⭐ 1,512 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/nexscope-ai/eCommerce-Skills) · 组织维护
 
 **面向电商卖家的 AI agent 技能合集（营销/定价/供应链）**
 

@@ -1,6 +1,6 @@
 # n8n-io/n8n
 
-⭐ 211,824 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/n8n-io/n8n) · [官网](https://n8n.io) · 组织维护
+⭐ 211,837 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/n8n-io/n8n) · [官网](https://n8n.io) · 组织维护
 
 **给开发/运维团队的 AI Agent 与工作流自动化平台**
 

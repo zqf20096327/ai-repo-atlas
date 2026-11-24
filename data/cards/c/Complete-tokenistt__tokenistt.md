@@ -1,6 +1,6 @@
 # Complete-tokenistt/tokenistt
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Complete-tokenistt/tokenistt) · [官网](tokenistt.com) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Complete-tokenistt/tokenistt) · [官网](tokenistt.com) · 组织维护
 
 **自托管 AI 成本治理网关：追踪 LLM 支出、预算与策略审计**
 

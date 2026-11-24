@@ -1,6 +1,6 @@
 # nrodriguez1997/lora-docker-aliyun-pipeline
 
-⭐ 56 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/nrodriguez1997/lora-docker-aliyun-pipeline) · 个人维护
+⭐ 56 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/nrodriguez1997/lora-docker-aliyun-pipeline) · 个人维护
 
 **面向阿里云环境的 LoRA 训练 Docker 自动化编排流水线**
 

@@ -1,6 +1,6 @@
 # Masar-X/Masar-x
 
-⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Masar-X/Masar-x) · [官网](https://masarx.vercel.app) · 组织维护 · 中文 README
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Masar-X/Masar-x) · [官网](https://masarx.vercel.app) · 组织维护 · 中文 README
 
 **面向大学生的双语 AI 学习平台：资料、测验与 AI 辅导**
 

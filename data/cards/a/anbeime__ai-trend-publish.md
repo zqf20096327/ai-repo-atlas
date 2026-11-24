@@ -1,6 +1,6 @@
 # anbeime/ai-trend-publish
 
-⭐ 26 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anbeime/ai-trend-publish) · [官网](https://ai-trend-publish.vercel.app) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anbeime/ai-trend-publish) · [官网](https://ai-trend-publish.vercel.app) · 个人维护 · 中文 README
 
 **AI 内容创作全栈平台：热点采集、AI 生成、多平台自动发布**
 

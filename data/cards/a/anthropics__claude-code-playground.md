@@ -1,6 +1,6 @@
 # anthropics/claude-code-playground
 
-⭐ 394 · JavaScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/anthropics/claude-code-playground) · 组织维护
+⭐ 397 · JavaScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/anthropics/claude-code-playground) · 组织维护
 
 **Anthropic DevRel 的 Claude Code 配置、技能与演示示例合集**
 

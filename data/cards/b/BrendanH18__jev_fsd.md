@@ -1,6 +1,6 @@
 # BrendanH18/jev_fsd
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BrendanH18/jev_fsd) · [官网](https://brendanh18.github.io/jev_fsd/) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BrendanH18/jev_fsd) · [官网](https://brendanh18.github.io/jev_fsd/) · 个人维护
 
 **在真实加拿大街道上给 AI 模型做驾驶测试的模拟器**
 

@@ -1,6 +1,6 @@
 # dream-num/univer-cli
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dream-num/univer-cli) · [官网](https://univer.ai) · 组织维护 · 中文 README
+⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dream-num/univer-cli) · [官网](https://univer.ai) · 组织维护 · 中文 README
 
 **给 AI agent 用的本地 Office 命令行工具：创建/编辑/审阅文档表格幻灯片**
 

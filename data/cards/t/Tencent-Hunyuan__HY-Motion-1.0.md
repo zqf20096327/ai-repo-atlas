@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HY-Motion-1.0
 
-⭐ 2,681 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) · [官网](https://hunyuan.tencent.com/motion) · 组织维护 · 中文 README
+⭐ 2,683 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/Tencent-Hunyuan/HY-Motion-1.0) · [官网](https://hunyuan.tencent.com/motion) · 组织维护 · 中文 README
 
 **文本生成3D人体骨骼动画的模型库：开发者输入文字即得动作**
 

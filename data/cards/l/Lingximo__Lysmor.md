@@ -1,6 +1,6 @@
 # Lingximo/Lysmor
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Lingximo/Lysmor) · 个人维护 · 中文 README
+⭐ 39 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Lingximo/Lysmor) · 个人维护 · 中文 README
 
 **可自托管的 AI 伴侣系统：长期记忆、情绪模拟与多端界面**
 

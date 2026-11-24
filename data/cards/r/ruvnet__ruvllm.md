@@ -1,6 +1,6 @@
 # ruvnet/ruvllm
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/ruvnet/ruvllm) · [官网](https://ruv.io) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/ruvnet/ruvllm) · [官网](https://ruv.io) · 个人维护
 
 **面向开发/研究的模型权重编辑与配对评测治理工具**
 

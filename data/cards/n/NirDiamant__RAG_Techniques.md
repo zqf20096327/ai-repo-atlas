@@ -1,6 +1,6 @@
 # NirDiamant/RAG_Techniques
 
-⭐ 30,477 · Jupyter Notebook · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/NirDiamant/RAG_Techniques) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 30,522 · Jupyter Notebook · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/NirDiamant/RAG_Techniques) · [官网](https://diamant-ai.com) · 个人维护
 
 **面向研究者的 42+ 篇 RAG 技术可运行教程集**
 

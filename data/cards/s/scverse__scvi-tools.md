@@ -1,6 +1,6 @@
 # scverse/scvi-tools
 
-⭐ 1,734 · Python · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/scverse/scvi-tools) · [官网](http://scvi-tools.org/) · 组织维护
+⭐ 1,734 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/scverse/scvi-tools) · [官网](http://scvi-tools.org/) · 组织维护
 
 **单细胞与空间组学数据的深度概率建模分析库**
 

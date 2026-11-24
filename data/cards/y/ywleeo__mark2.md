@@ -1,6 +1,6 @@
 # ywleeo/mark2
 
-⭐ 71 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ywleeo/mark2) · [官网](https://ywleeo.github.io/mark2/) · 个人维护 · 中文 README
+⭐ 71 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ywleeo/mark2) · [官网](https://ywleeo.github.io/mark2/) · 个人维护 · 中文 README
 
 **轻量离线 Markdown 写作桌面应用，内置 AI 续写与润色**
 

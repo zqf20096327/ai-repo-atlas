@@ -1,6 +1,6 @@
 # Lumidarin/agy-capsule
 
-⭐ 199 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Lumidarin/agy-capsule) · 个人维护 · 中文 README
+⭐ 243 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Lumidarin/agy-capsule) · 个人维护 · 中文 README
 
 **Antigravity 插件：在输入框底栏显示上下文占用与模型配额**
 

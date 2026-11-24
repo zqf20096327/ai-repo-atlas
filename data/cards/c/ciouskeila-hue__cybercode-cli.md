@@ -1,6 +1,6 @@
 # ciouskeila-hue/cybercode-cli
 
-⭐ 46 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/ciouskeila-hue/cybercode-cli) · 个人维护 · 中文 README
+⭐ 45 · Python · NOASSERTION · 推送 2026-07-01 · [GitHub](https://github.com/ciouskeila-hue/cybercode-cli) · 个人维护 · 中文 README
 
 **本地运行的浏览器 AI Agent，通过 32+ 模型执行文件、代码与多媒体任务**
 

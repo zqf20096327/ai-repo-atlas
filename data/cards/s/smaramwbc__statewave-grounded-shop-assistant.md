@@ -1,6 +1,6 @@
 # smaramwbc/statewave-grounded-shop-assistant
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/smaramwbc/statewave-grounded-shop-assistant) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/smaramwbc/statewave-grounded-shop-assistant) · 组织维护
 
 **Statewave 记忆运行时的落地示例：带引用的商店问答与内容缺口闭环**
 

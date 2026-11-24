@@ -1,6 +1,6 @@
 # PSPDFKit-labs/nutrient-skills
 
-⭐ 18 · Python · 推送 2026-11-16 · [GitHub](https://github.com/PSPDFKit-labs/nutrient-skills) · [官网](https://www.nutrient.io/) · 组织维护
+⭐ 18 · Python · 推送 2026-11-23 · [GitHub](https://github.com/PSPDFKit-labs/nutrient-skills) · [官网](https://www.nutrient.io/) · 组织维护
 
 **面向 AI agent 的 Nutrient 文档处理技能包：转换/OCR/解析 PDF**
 

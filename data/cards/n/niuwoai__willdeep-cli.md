@@ -1,6 +1,6 @@
 # niuwoai/willdeep-cli
 
-⭐ 253 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/niuwoai/willdeep-cli) · [官网](https://willdeep.com) · 个人维护 · 中文 README
+⭐ 253 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/niuwoai/willdeep-cli) · [官网](https://willdeep.com) · 个人维护 · 中文 README
 
 **自托管可审计 AI Coding Agent，改动可追溯、子 Agent 退出码裁决**
 

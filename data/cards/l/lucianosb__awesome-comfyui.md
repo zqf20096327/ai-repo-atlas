@@ -1,6 +1,6 @@
 # lucianosb/awesome-comfyui
 
-⭐ 216 · 推送 2026-09-18 · [GitHub](https://github.com/lucianosb/awesome-comfyui) · 个人维护
+⭐ 217 · 推送 2026-09-18 · [GitHub](https://github.com/lucianosb/awesome-comfyui) · 个人维护
 
 **ComfyUI 工具与插件策展清单：收录自定义节点、工作流与相关项目**
 

@@ -1,6 +1,6 @@
 # fenago/LearnGraph
 
-⭐ 17 · TypeScript · 推送 2025-12-14 · [GitHub](https://github.com/fenago/LearnGraph) · 个人维护
+⭐ 18 · TypeScript · 推送 2025-12-14 · [GitHub](https://github.com/fenago/LearnGraph) · 个人维护
 
 **给任意 LLM 提供学习者画像与知识图谱的个性化教育知识库**
 

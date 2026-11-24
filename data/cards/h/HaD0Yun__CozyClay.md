@@ -1,10 +1,10 @@
 # HaD0Yun/CozyClay
 
-⭐ 2,089 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/HaD0Yun/CozyClay) · [官网](https://cozyclay.org) · 个人维护
+⭐ 2,102 · JavaScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/HaD0Yun/CozyClay) · [官网](https://cozyclay.org) · 个人维护
 
-**给影视/动画创作者：浏览器内3D预演并导出到AI视频模型**
+**浏览器 3D 预演工具：先排戏再交给 AI 视频模型**
 
-浏览器中的开源 previs（预演）工具：用基础几何搭建场景、放置绑定角色、编排镜头运动与剪辑，随后将首末帧、灰盒参考片段、相机参数与提示词打包导出给 AI 视频模型。动作描述由 agent 生成 motion spec，浏览器内确定性编译器逐帧烘焙，并有碰撞/滑步等 QA 检查。可通过 Agent 面板、MCP 服务器或终端三种方式驱动。需 Node.js 22.19+ 与 Chromium 浏览器，无需 GPU、Python 或模型下载，AGPL-3.0 许可。
+在浏览器中运行的预演（previs）软件：用积木式灰盒搭建场景、摆位角色、设计镜头运动与剪切，然后将首末帧、灰盒参考片段、相机与提示词打包导出给 AI 视频模型。动作可由 Agent 面板中的 motion writer 模型描述生成，由确定性引擎逐帧计算并度量脚滑、接触与平衡；支持 MCP 服务器与终端协议驱动运行中的工作室。安装为 npx 一条命令，需 Node 22.19+ 与 Chromium，无需 GPU 或模型下载。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 导出关键帧包（首末帧、灰盒片段、相机、提示词）、mp4、深度/法线通道与 OTIO 剪辑清单
-- 自然语言动作生成 motion spec，浏览器内确定性编译器烘焙每一帧，附碰撞/滑步/触及 QA 检查
-- 三种 AI 驱动入口：工作室内 Agent 面板、MCP 服务器（Claude Desktop/Code/Cursor）、终端 JSON 协议
-- npx 一条命令启动，不需要 GPU、Python 或模型下载
+- 灰盒 blocking 导出为首帧、参考片段、相机与提示词的打包
+- motion writer 模型写动作 spec，确定性引擎逐帧计算并度量脚滑/接触/平衡
+- 三种 AI 驱动入口：Agent 面板聊天、MCP 服务器、终端 JSON 协议
+- 导出 mp4、深度与法线 pass、OTIO 剪辑清单
 
 ## 适用场景
 
-- 在花钱调用视频模型前，先用 3D 灰盒确定走位、镜头与剪辑点
-- 通过 MCP 让 Claude Desktop/Cursor 等客户端直接操作预演场景
-- 制作分镜板（storyboard）与动态分镜（animatic）
+- 为 AI 视频生成提前确定走位、机位与剪切点，减少按次重试成本
+- 在 3D 场景里用自然语言描述动作并生成动画
+- 用 MCP 客户端或编码 agent 驱动场景搭建与拍摄
 
 ## 场景标签
 
- · 领域:创作工具/影视预演与AI视频
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L15:  Open source previs in a browser tab: block the set, move the cast, cut the camera, hand the shot to an AI video mo
-> L42: model gets the shot as a first frame, a greybox reference clip and a prompt that describes the
-> L76: |**Shoot**|Put shots on a timeline, draw dolly rails, look through the lens. Each shot knows the limits of the vide
+> L75: |**Move**|Describe the action in the Agent panel. A second model, the motion writer, writes a motion spec, and a de
+> L87: |**Agent panel**|`Cmd/Ctrl+B` in the studio|Chat in the studio. Sign in with ChatGPT or use your own key (Anthropic
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ccb68e0c420e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `88667d207f63` · [字段定义](../../DATASET.md)*

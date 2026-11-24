@@ -1,6 +1,6 @@
 # senickimoro-art/pinokio-olvara-ai-workspace
 
-⭐ 147 · Dockerfile · MIT · 推送 2026-11-22 · [GitHub](https://github.com/senickimoro-art/pinokio-olvara-ai-workspace) · 个人维护
+⭐ 68 · Dockerfile · MIT · 推送 2026-11-24 · [GitHub](https://github.com/senickimoro-art/pinokio-olvara-ai-workspace) · 个人维护
 
 **面向 Windows/桌面端的本地 AI 模型编排工作区**
 

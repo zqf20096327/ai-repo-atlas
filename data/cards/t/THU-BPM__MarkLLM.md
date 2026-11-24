@@ -1,6 +1,6 @@
 # THU-BPM/MarkLLM
 
-⭐ 1,093 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/THU-BPM/MarkLLM) · [官网](https://aclanthology.org/2024.emnlp-demo.7/) · 组织维护
+⭐ 1,093 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/THU-BPM/MarkLLM) · [官网](https://aclanthology.org/2024.emnlp-demo.7/) · 组织维护
 
 **LLM 水印算法研究与评估开源工具包**
 

@@ -1,6 +1,6 @@
 # Pupok462/open-geo
 
-⭐ 30 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Pupok462/open-geo) · [官网](https://pupok462.github.io/open-geo/) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Pupok462/open-geo) · [官网](https://pupok462.github.io/open-geo/) · 个人维护 · 中文 README
 
 **测量品牌在七大 AI 引擎答案中可见度的 agent 技能**
 

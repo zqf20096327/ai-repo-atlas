@@ -1,6 +1,6 @@
 # memorycrystal/memorycrystal
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/memorycrystal/memorycrystal) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/memorycrystal/memorycrystal) · 组织维护
 
 **为 AI agent 提供跨会话持久记忆的 MCP server 与 OpenClaw 插件**
 

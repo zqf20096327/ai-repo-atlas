@@ -1,6 +1,6 @@
 # tgxy2026/youth-fantasy-engine
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tgxy2026/youth-fantasy-engine) · [官网](https://youth-fantasy-engine.online) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tgxy2026/youth-fantasy-engine) · [官网](https://youth-fantasy-engine.online) · 个人维护 · 中文 README
 
 **网文作者的结构化长篇创作工作台，内置 AI 辅助续写与推演**
 

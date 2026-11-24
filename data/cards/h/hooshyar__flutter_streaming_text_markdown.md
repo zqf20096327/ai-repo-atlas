@@ -1,6 +1,6 @@
 # hooshyar/flutter_streaming_text_markdown
 
-⭐ 38 · Dart · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hooshyar/flutter_streaming_text_markdown) · [官网](https://hooshyar.github.io/flutter_streaming_text_markdown/) · 个人维护
+⭐ 38 · Dart · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hooshyar/flutter_streaming_text_markdown) · [官网](https://hooshyar.github.io/flutter_streaming_text_markdown/) · 个人维护
 
 **Flutter 组件：将 LLM 流式输出实时渲染为 markdown**
 

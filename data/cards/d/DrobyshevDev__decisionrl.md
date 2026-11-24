@@ -1,6 +1,6 @@
 # DrobyshevDev/decisionrl
 
-⭐ 10 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/DrobyshevDev/decisionrl) · [官网](https://drobyshevdev.github.io/decisionrl/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DrobyshevDev/decisionrl) · [官网](https://drobyshevdev.github.io/decisionrl/) · 个人维护
 
 **面向运营决策的强化学习库：定价/库存/能源等 32 种算法**
 

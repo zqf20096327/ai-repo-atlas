@@ -1,6 +1,6 @@
 # OpenDigitalProductFactory/opendigitalproductfactory
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/OpenDigitalProductFactory/opendigitalproductfactory) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenDigitalProductFactory/opendigitalproductfactory) · 组织维护
 
 **本地优先的企业运营平台：受人类授权约束的 AI 同事参与运行业务**
 

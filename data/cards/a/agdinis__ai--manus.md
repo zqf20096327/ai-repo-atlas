@@ -1,6 +1,6 @@
 # agdinis/ai--manus
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/agdinis/ai--manus) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/agdinis/ai--manus) · 个人维护
 
 **自主 AI Agent：代替用户执行代码与控制浏览器完成任务**
 

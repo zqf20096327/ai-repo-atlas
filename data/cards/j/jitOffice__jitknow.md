@@ -1,6 +1,6 @@
 # jitOffice/jitknow
 
-⭐ 17 · 推送 2026-04-26 · [GitHub](https://github.com/jitOffice/jitknow) · [官网](https://know.jitword.com) · 组织维护 · 中文 README
+⭐ 18 · 推送 2026-04-26 · [GitHub](https://github.com/jitOffice/jitknow) · [官网](https://know.jitword.com) · 组织维护 · 中文 README
 
 **企业级 AI 知识库平台的开放 API，供第三方嵌入问答能力**
 

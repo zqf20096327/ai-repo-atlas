@@ -1,6 +1,6 @@
 # iambiniyam/ai-infra-roadmap
 
-⭐ 11 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/iambiniyam/ai-infra-roadmap) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iambiniyam/ai-infra-roadmap) · 个人维护
 
 **AI 基础设施学习路线图：9 层栈地图与 6 阶段进阶**
 

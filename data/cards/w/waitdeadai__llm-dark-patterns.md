@@ -1,6 +1,6 @@
 # waitdeadai/llm-dark-patterns
 
-⭐ 22 · Shell · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/waitdeadai/llm-dark-patterns) · [官网](https://github.com/waitdeadai/llm-dark-patterns/blob/main/METHODOLOGY.md) · 组织维护
+⭐ 23 · Shell · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/waitdeadai/llm-dark-patterns) · [官网](https://github.com/waitdeadai/llm-dark-patterns/blob/main/METHODOLOGY.md) · 组织维护
 
 **Claude Code 钩子套件：在文本边界拦截 LLM 输出中的暗模式行为**
 

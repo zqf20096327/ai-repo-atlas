@@ -1,6 +1,6 @@
 # time-series-machine-learning/tsml-eval
 
-⭐ 62 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/time-series-machine-learning/tsml-eval) · [官网](https://tsml-eval.readthedocs.io/) · 组织维护
+⭐ 62 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/time-series-machine-learning/tsml-eval) · [官网](https://tsml-eval.readthedocs.io/) · 组织维护
 
 **时间序列机器学习算法的评测与基准测试工具库**
 

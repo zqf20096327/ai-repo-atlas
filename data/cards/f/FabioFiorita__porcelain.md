@@ -1,6 +1,6 @@
 # FabioFiorita/porcelain
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FabioFiorita/porcelain) · [官网](https://porcelain.fabiofiorita.com) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/FabioFiorita/porcelain) · [官网](https://porcelain.fabiofiorita.com) · 个人维护
 
 **审阅编码 agent 改动的桌面/Web 工具：按决策走查 diff 并回复评论**
 

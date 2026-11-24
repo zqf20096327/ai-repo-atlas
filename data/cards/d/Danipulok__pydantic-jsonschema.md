@@ -1,6 +1,6 @@
 # Danipulok/pydantic-jsonschema
 
-⭐ 14 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Danipulok/pydantic-jsonschema) · [官网](https://danipulok.github.io/pydantic-jsonschema/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Danipulok/pydantic-jsonschema) · [官网](https://danipulok.github.io/pydantic-jsonschema/) · 个人维护
 
 **将 JSON Schema 转换为 Pydantic 模型并做运行时校验的 Python 库**
 

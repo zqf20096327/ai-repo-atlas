@@ -1,6 +1,6 @@
 # peace-orefejo/attest
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/peace-orefejo/attest) · [官网](https://pypi.org/project/agent-attest/) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/peace-orefejo/attest) · [官网](https://pypi.org/project/agent-attest/) · 个人维护
 
 **基于工具真实输出的 AI agent 评测库，逐条核验答案声明**
 

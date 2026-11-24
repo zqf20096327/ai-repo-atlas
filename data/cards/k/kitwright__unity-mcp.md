@@ -1,6 +1,6 @@
 # kitwright/unity-mcp
 
-⭐ 41 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/kitwright/unity-mcp) · [官网](https://kitwright.dev/) · 个人维护 · 中文 README
+⭐ 42 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kitwright/unity-mcp) · [官网](https://kitwright.dev/) · 个人维护 · 中文 README
 
 **让 AI 助手直接操作 Unity 编辑器的 MCP 服务器**
 

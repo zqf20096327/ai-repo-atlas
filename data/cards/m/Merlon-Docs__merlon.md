@@ -1,6 +1,6 @@
 # Merlon-Docs/merlon
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Merlon-Docs/merlon) · [官网](https://merlon-docs.github.io/merlon/) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Merlon-Docs/merlon) · [官网](https://merlon-docs.github.io/merlon/) · 组织维护
 
 **面向软件项目的文档系统 Agent Skill：分片存储+CI 校验**
 

@@ -1,6 +1,6 @@
 # e2b-dev/runtime
 
-⭐ 1,870 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/e2b-dev/runtime) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) · 组织维护
+⭐ 1,871 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/e2b-dev/runtime) · [官网](https://e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=runtime) · 组织维护
 
 **为 AI agent 提供快照恢复型 Firecracker 沙箱的开源运行时**
 

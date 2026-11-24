@@ -1,6 +1,6 @@
 # enmerasoftware/ai-design-check
 
-⭐ 279 · HTML · MIT · 推送 2026-11-08 · [GitHub](https://github.com/enmerasoftware/ai-design-check) · [官网](https://www.npmjs.com/package/@enmera/ai-design-check) · 组织维护
+⭐ 284 · HTML · MIT · 推送 2026-11-08 · [GitHub](https://github.com/enmerasoftware/ai-design-check) · [官网](https://www.npmjs.com/package/@enmera/ai-design-check) · 组织维护
 
 **零依赖 UI 设计规则检查器：检测并修复 AI 生成界面的设计问题**
 

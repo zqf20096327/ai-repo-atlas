@@ -1,6 +1,6 @@
 # vllm-project/vllm-gguf-plugin
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/vllm-project/vllm-gguf-plugin) · 组织维护
+⭐ 60 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/vllm-project/vllm-gguf-plugin) · 组织维护
 
 **为 vLLM 提供树外 GGUF 量化支持的插件**
 

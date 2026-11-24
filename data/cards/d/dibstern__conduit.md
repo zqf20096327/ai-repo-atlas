@@ -1,6 +1,6 @@
 # dibstern/conduit
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dibstern/conduit) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dibstern/conduit) · 个人维护
 
 **OpenCode 的浏览器 UI：手机/平板远程查看会话并一键审批权限**
 

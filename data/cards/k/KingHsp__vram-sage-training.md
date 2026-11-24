@@ -1,6 +1,6 @@
 # KingHsp/vram-sage-training
 
-⭐ 57 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/KingHsp/vram-sage-training) · 个人维护 · 中文 README
+⭐ 57 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/KingHsp/vram-sage-training) · 个人维护 · 中文 README
 
 **在 12GB 显存上微调 SDXL 级扩散模型的训练套件**
 

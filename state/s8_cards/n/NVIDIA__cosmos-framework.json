@@ -1,1 +1,82 @@
-{"fn": "NVIDIA/cosmos-framework", "sha": "0623696b0963", "source": "readme", "identity": {"one_liner": "NVIDIA Cosmos 世界模型的训练与推理部署框架", "review": "NVIDIA Cosmos 项目家族中的训练与服务框架，以单一 Python 包 cosmos_framework/ 组织：训练侧提供 FSDP/TP/CP/PP 分布式训练器、DCP 检查点与 JSONL/WebDataset/LeRobot 数据集适配器；推理侧支持 Diffusers/Transformers/vLLM 后端的离线批量生成与在线服务（Ray + Gradio）；另含策略服务（server-client 管线）与后训练/强化学习运行时（DPO/GRPO/PPO/OPD/SFT 等算法）。以 uv 安装，依赖 CUDA 环境，示例配方为 8×H100 配置。", "highlights": ["训练与推理统一于单一 cosmos_framework/ Python 包", "Diffusers/Transformers/vLLM 三种推理后端，支持离线批量与在线服务", "后训练/RL 运行时覆盖 DPO、GRPO、PPO、蒸馏等算法", "内置面向编码 agent 的 AgentSkills（SKILL.md）与 AGENTS.md 仓库地图"], "use_cases": ["在多 GPU 集群上对 Cosmos3 系列世界模型做微调与后训练", "将训练好的 Cosmos3 检查点部署为推理服务或策略服务器", "为机器人具身策略做强化学习优化"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": null, "model_dep": "local-ok", "hardware": null, "install_friction": "medium", "maturity": "research"}, "eval": {"target_user": "开发者", "paper_url": "https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf", "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["世界模型", "模型训练", "推理服务", "强化学习", "Physical AI"], "domain": "AI 基础设施/模型训练与推理框架", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["vllm"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L6:  Part of the NVIDIA Cosmos project family — the training and serving framework repository.", "L10: **Cosmos-Framework** is an end-to-end framework for training and serving world models, including the **Cosmos3** model f", "L13: - **Inference** — Diffusers / Transformers / vLLM backends with offline batch generation and online serving (Ray + Gradi"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-24", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "NVIDIA/cosmos-framework",
+ "sha": "0623696b0963",
+ "source": "readme",
+ "identity": {
+  "one_liner": "NVIDIA Cosmos 世界模型的训练与推理部署框架",
+  "review": "NVIDIA Cosmos 项目家族中的训练与服务框架，以单一 Python 包 cosmos_framework/ 组织：训练侧提供 FSDP/TP/CP/PP 分布式训练器、DCP 检查点与 JSONL/WebDataset/LeRobot 数据集适配器；推理侧支持 Diffusers/Transformers/vLLM 后端的离线批量生成与在线服务（Ray + Gradio）；另含策略服务（server-client 管线）与后训练/强化学习运行时（DPO/GRPO/PPO/OPD/SFT 等算法）。以 uv 安装，依赖 CUDA 环境，示例配方为 8×H100 配置。",
+  "highlights": [
+   "训练与推理统一于单一 cosmos_framework/ Python 包",
+   "Diffusers/Transformers/vLLM 三种推理后端，支持离线批量与在线服务",
+   "后训练/RL 运行时覆盖 DPO、GRPO、PPO、蒸馏等算法",
+   "内置面向编码 agent 的 AgentSkills（SKILL.md）与 AGENTS.md 仓库地图"
+  ],
+  "use_cases": [
+   "在多 GPU 集群上对 Cosmos3 系列世界模型做微调与后训练",
+   "将训练好的 Cosmos3 检查点部署为推理服务或策略服务器",
+   "为机器人具身策略做强化学习优化"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": null,
+  "model_dep": "local-ok",
+  "hardware": null,
+  "install_friction": "medium",
+  "maturity": "research"
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": "https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf",
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "世界模型",
+   "模型训练",
+   "推理服务",
+   "强化学习",
+   "Physical AI"
+  ],
+  "domain": "训练与推理",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "vllm"
+  ],
+  "scenario_tags_v2": [
+   "fine-tuning",
+   "inference-engine",
+   "reinforcement-learning"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L6:  Part of the NVIDIA Cosmos project family — the training and serving framework repository.",
+   "L10: **Cosmos-Framework** is an end-to-end framework for training and serving world models, including the **Cosmos3** model f",
+   "L13: - **Inference** — Diffusers / Transformers / vLLM backends with offline batch generation and online serving (Ray + Gradi"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

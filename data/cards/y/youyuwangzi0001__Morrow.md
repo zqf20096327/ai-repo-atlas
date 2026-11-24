@@ -1,6 +1,6 @@
 # youyuwangzi0001/Morrow
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/youyuwangzi0001/Morrow) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/youyuwangzi0001/Morrow) · 个人维护 · 中文 README
 
 **Windows 本地优先桌面 AI 代理：把一句话需求变成成品文件**
 

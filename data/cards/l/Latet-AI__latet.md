@@ -1,6 +1,6 @@
 # Latet-AI/latet
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Latet-AI/latet) · [官网](https://latet.ai) · 组织维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Latet-AI/latet) · [官网](https://latet.ai) · 组织维护
 
 **本地隐私防火墙：AI agent 请求出站前掩码敏感数据**
 

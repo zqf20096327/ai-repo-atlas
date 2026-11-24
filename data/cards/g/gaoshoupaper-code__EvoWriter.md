@@ -1,6 +1,6 @@
 # gaoshoupaper-code/EvoWriter
 
-⭐ 48 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gaoshoupaper-code/EvoWriter) · 个人维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gaoshoupaper-code/EvoWriter) · 个人维护 · 中文 README
 
 **自进化长篇小说创作多 Agent 平台，含观测与门禁发版闭环**
 

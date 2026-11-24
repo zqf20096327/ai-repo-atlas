@@ -1,6 +1,6 @@
 # huaxialucaicaizi/ai-startup-skills
 
-⭐ 704 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/huaxialucaicaizi/ai-startup-skills) · 个人维护 · 中文 README
+⭐ 706 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/huaxialucaicaizi/ai-startup-skills) · 个人维护 · 中文 README
 
 **一人公司做 AI 产品的 7 步 Agent Skill 合集**
 

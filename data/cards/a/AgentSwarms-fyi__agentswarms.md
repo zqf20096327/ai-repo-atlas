@@ -1,6 +1,6 @@
 # AgentSwarms-fyi/agentswarms
 
-⭐ 303 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/AgentSwarms-fyi/agentswarms) · [官网](https://agentswarms.fyi) · 组织维护
+⭐ 304 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AgentSwarms-fyi/agentswarms) · [官网](https://agentswarms.fyi) · 组织维护
 
 **自托管的 Agentic AI 与数据一体化平台（代理+湖仓+BI+ML）**
 

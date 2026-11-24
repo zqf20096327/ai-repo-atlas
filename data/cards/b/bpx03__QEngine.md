@@ -1,6 +1,6 @@
 # bpx03/QEngine
 
-⭐ 82 · Cuda · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bpx03/QEngine) · 个人维护
+⭐ 85 · Cuda · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bpx03/QEngine) · 个人维护
 
 **面向 RTX 30-50 系多卡的 C++/CUDA 本地 LLM 推理引擎**
 

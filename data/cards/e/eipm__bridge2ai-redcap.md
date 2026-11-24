@@ -1,6 +1,6 @@
 # eipm/bridge2ai-redcap
 
-⭐ 19 · MIT · 推送 2026-10-15 · [GitHub](https://github.com/eipm/bridge2ai-redcap) · [官网](https://b2ai-voice.org/) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eipm/bridge2ai-redcap) · [官网](https://b2ai-voice.org/) · 组织维护
 
 **Bridge2AI-Voice 语音健康研究协议与 REDCap 数据采集资源库**
 

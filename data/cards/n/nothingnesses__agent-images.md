@@ -1,6 +1,6 @@
 # nothingnesses/agent-images
 
-⭐ 52 · Shell · BlueOak-1.0.0 · 推送 2026-11-22 · [GitHub](https://github.com/nothingnesses/agent-images) · 个人维护
+⭐ 52 · Shell · BlueOak-1.0.0 · 推送 2026-11-23 · [GitHub](https://github.com/nothingnesses/agent-images) · 个人维护
 
 **用 Nix 可复现构建 AI 编程 agent 沙箱容器镜像**
 

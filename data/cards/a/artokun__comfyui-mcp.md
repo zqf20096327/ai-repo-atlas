@@ -1,6 +1,6 @@
 # artokun/comfyui-mcp
 
-⭐ 947 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/artokun/comfyui-mcp) · [官网](https://comfyui-mcp.artokun.io/docs) · 组织维护
+⭐ 952 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/artokun/comfyui-mcp) · [官网](https://comfyui-mcp.artokun.io/docs) · 组织维护
 
 **用任意 LLM 通过 MCP 驱动 ComfyUI 的本地控制平面**
 

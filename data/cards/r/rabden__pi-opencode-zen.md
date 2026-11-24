@@ -1,6 +1,6 @@
 # rabden/pi-opencode-zen
 
-⭐ 5 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/rabden/pi-opencode-zen) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/rabden/pi-opencode-zen) · 个人维护
 
 **让 OpenCode Zen 免费模型在 Pi 中使用的扩展**
 

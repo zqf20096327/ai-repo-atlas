@@ -1,6 +1,6 @@
 # aimhubio/aim
 
-⭐ 6,296 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/aimhubio/aim) · [官网](https://aimstack.io) · 组织维护
+⭐ 6,297 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/aimhubio/aim) · [官网](https://aimstack.io) · 组织维护
 
 **自托管 ML 实验追踪工具：记录训练运行与元数据并对比**
 

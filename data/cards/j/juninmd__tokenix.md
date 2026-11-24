@@ -1,6 +1,6 @@
 # juninmd/tokenix
 
-⭐ 15 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/juninmd/tokenix) · 个人维护
+⭐ 15 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/juninmd/tokenix) · 个人维护
 
 **AI 编码代理的本地代码索引与输出过滤器 CLI，降低 token 消耗**
 

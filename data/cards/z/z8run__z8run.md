@@ -1,6 +1,6 @@
 # z8run/z8run
 
-⭐ 45 · Rust · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/z8run/z8run) · [官网](https://z8run.org) · 组织维护
+⭐ 47 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/z8run/z8run) · [官网](https://z8run.org) · 组织维护
 
 **Rust 编写的自托管可视化流程引擎，面向自动化与 AI 管道**
 

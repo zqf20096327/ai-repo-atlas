@@ -1,6 +1,6 @@
 # opendataloader-project/opendataloader-pdf
 
-⭐ 30,357 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/opendataloader-project/opendataloader-pdf) · [官网](https://opendataloader.org) · 组织维护
+⭐ 30,361 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/opendataloader-project/opendataloader-pdf) · [官网](https://opendataloader.org) · 组织维护
 
 **面向 AI 数据管道的 PDF 解析库：输出 Markdown/JSON/HTML**
 

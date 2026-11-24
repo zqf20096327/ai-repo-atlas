@@ -1,6 +1,6 @@
 # antoniolupetti/algebrica
 
-⭐ 1,143 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/antoniolupetti/algebrica) · [官网](https://algebrica.org) · 个人维护
+⭐ 1,149 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/antoniolupetti/algebrica) · [官网](https://algebrica.org) · 个人维护
 
 **大学级数学知识库：手写条目+语义层开源内容**
 

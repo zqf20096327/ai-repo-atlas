@@ -1,6 +1,6 @@
 # TaewoooPark/DRIFT
 
-⭐ 26 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/TaewoooPark/DRIFT) · [官网](https://www.taewoopark.com/projects/DRIFT) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/TaewoooPark/DRIFT) · [官网](https://www.taewoopark.com/projects/DRIFT) · 个人维护 · 中文 README
 
 **把一个 LLM 按层拆到 Mac(MPS)+PC(CUDA) 多机联合推理的运行时**
 

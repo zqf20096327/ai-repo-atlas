@@ -1,6 +1,6 @@
 # experdot/pointer
 
-⭐ 91 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/experdot/pointer) · 个人维护 · 中文 README
+⭐ 91 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/experdot/pointer) · [官网](https://github.com/experdot/pointer/wiki) · 个人维护 · 中文 README
 
 **桌面 AI 聊天客户端：树状对话分支，对话以 Markdown 文件本地存储**
 

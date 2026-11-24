@@ -1,6 +1,6 @@
 # OpenAgentHQ/openagent-eval
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/OpenAgentHQ/openagent-eval) · [官网](https://openagenthq.github.io/openagent-eval/) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenAgentHQ/openagent-eval) · [官网](https://openagenthq.github.io/openagent-eval/) · 组织维护
 
 **本地优先的 RAG 与 AI Agent 评测框架，CLI + SDK**
 

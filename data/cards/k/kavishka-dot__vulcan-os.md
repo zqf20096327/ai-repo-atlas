@@ -1,6 +1,6 @@
 # kavishka-dot/vulcan-os
 
-⭐ 12 · C · 推送 2026-05-14 · [GitHub](https://github.com/kavishka-dot/vulcan-os) · 个人维护
+⭐ 11 · C · 推送 2026-05-14 · [GitHub](https://github.com/kavishka-dot/vulcan-os) · 个人维护
 
 **面向 STM32H7 边缘 ML 推理与训练的自研实时操作系统**
 

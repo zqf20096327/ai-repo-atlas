@@ -1,6 +1,6 @@
 # AnotiaWang/awesome-decision-models
 
-⭐ 725 · Python · CC0-1.0 · 推送 2026-11-13 · [GitHub](https://github.com/AnotiaWang/awesome-decision-models) · [官网](https://anotiawang.github.io/awesome-decision-models/) · 个人维护
+⭐ 728 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/AnotiaWang/awesome-decision-models) · [官网](https://anotiawang.github.io/awesome-decision-models/) · 个人维护
 
 **决策模型资源的社区策展清单**
 

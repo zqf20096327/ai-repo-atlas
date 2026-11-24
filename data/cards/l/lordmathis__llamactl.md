@@ -1,6 +1,6 @@
 # lordmathis/llamactl
 
-⭐ 161 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lordmathis/llamactl) · [官网](http://llamactl.org/) · 个人维护
+⭐ 161 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lordmathis/llamactl) · [官网](http://llamactl.org/) · 个人维护
 
 **统一管理与路由 llama.cpp/MLX/vLLM 模型的 Web 仪表盘工具**
 

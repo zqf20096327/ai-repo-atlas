@@ -1,6 +1,6 @@
 # gotonote/awesome-agent-boom
 
-⭐ 28 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gotonote/awesome-agent-boom) · [官网](https://gotonote.github.io/awesome-agent-boom/) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gotonote/awesome-agent-boom) · [官网](https://gotonote.github.io/awesome-agent-boom/) · 个人维护 · 中文 README
 
 **AI Agent 开源书单与课程合集，Star 数每日自动更新**
 

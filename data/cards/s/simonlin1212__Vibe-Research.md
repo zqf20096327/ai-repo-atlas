@@ -1,6 +1,6 @@
 # simonlin1212/Vibe-Research
 
-⭐ 3,858 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/simonlin1212/Vibe-Research) · [官网](https://viberesearch.wiki) · 个人维护 · 中文 README
+⭐ 3,860 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/simonlin1212/Vibe-Research) · [官网](https://viberesearch.wiki) · 个人维护 · 中文 README
 
 **A股/美股/港股投研工作台：AI 生成研究报告与回测**
 

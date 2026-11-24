@@ -1,6 +1,6 @@
 # simonlin1212/a-stock-data
 
-⭐ 11,978 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/simonlin1212/a-stock-data) · 个人维护 · 中文 README
+⭐ 11,990 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/simonlin1212/a-stock-data) · 个人维护 · 中文 README
 
 **给 AI 编程助手的 A 股数据技能包：87 端点直连 34 个数据源**
 

@@ -1,6 +1,6 @@
 # Mr-Bingoo/seeu-computeruse
 
-⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Mr-Bingoo/seeu-computeruse) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Mr-Bingoo/seeu-computeruse) · 个人维护 · 中文 README
 
 **让 AI 在 Mac/Windows/Linux 后台看屏、点击、打字的计算机操作工具**
 

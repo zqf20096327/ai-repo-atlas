@@ -1,6 +1,6 @@
 # JunjoSick/bookforge
 
-⭐ 18 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/JunjoSick/bookforge) · 个人维护
+⭐ 18 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JunjoSick/bookforge) · 个人维护
 
 **保留 EPUB 结构的 AI 整本书翻译工具，附浏览器界面**
 

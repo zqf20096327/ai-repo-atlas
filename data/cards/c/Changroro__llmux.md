@@ -1,6 +1,6 @@
 # Changroro/llmux
 
-⭐ 26 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Changroro/llmux) · [官网](https://changroro.github.io/llmux/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Changroro/llmux) · [官网](https://changroro.github.io/llmux/) · 个人维护
 
 **统一终端管理 vLLM 与 llama.cpp 推理服务器的 TUI+CLI 工具**
 

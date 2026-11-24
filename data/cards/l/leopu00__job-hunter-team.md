@@ -1,6 +1,6 @@
 # leopu00/job-hunter-team
 
-⭐ 53 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/leopu00/job-hunter-team) · [官网](https://jobhunterteam.ai) · 个人维护
+⭐ 53 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/leopu00/job-hunter-team) · [官网](https://jobhunterteam.ai) · 个人维护
 
 **自托管的 AI agent 团队，自动执行求职全流程**
 

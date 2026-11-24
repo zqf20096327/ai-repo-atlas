@@ -1,6 +1,6 @@
 # profullstack/c0mpute
 
-⭐ 12 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/profullstack/c0mpute) · [官网](https://c0mpute.com) · 组织维护
+⭐ 12 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/profullstack/c0mpute) · [官网](https://c0mpute.com) · 组织维护
 
 **去中心化算力网络：一条命令跑节点，汇聚 CPU/GPU 服务开源模型推理**
 

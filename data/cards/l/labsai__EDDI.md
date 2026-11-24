@@ -1,6 +1,6 @@
 # labsai/EDDI
 
-⭐ 393 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/labsai/EDDI) · [官网](https://eddi.technology) · 组织维护
+⭐ 393 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/labsai/EDDI) · [官网](https://eddi.technology) · 组织维护
 
 **面向生产环境的对话式 AI 多智能体编排中间件**
 

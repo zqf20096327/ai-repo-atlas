@@ -1,6 +1,6 @@
 # google/skills
 
-⭐ 24,548 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/google/skills) · 组织维护
+⭐ 24,587 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google/skills) · 组织维护
 
 **Google 官方 Agent Skills 技能集：为 AI agent 提供操作 Google 产品的技能**
 

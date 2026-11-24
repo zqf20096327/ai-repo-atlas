@@ -1,6 +1,6 @@
 # yang-ai-lab/OSF-Open-Sleep-FM
 
-⭐ 35 · Jupyter Notebook · MIT · 推送 2026-03-12 · [GitHub](https://github.com/yang-ai-lab/OSF-Open-Sleep-FM) · [官网](https://yang-ai-lab.github.io/osf) · 组织维护
+⭐ 36 · Jupyter Notebook · MIT · 推送 2026-03-12 · [GitHub](https://github.com/yang-ai-lab/OSF-Open-Sleep-FM) · [官网](https://yang-ai-lab.github.io/osf) · 组织维护
 
 **睡眠基础模型 OSF：多导睡眠图信号的预训练与下游任务模型**
 

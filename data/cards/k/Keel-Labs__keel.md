@@ -1,6 +1,6 @@
 # Keel-Labs/keel
 
-⭐ 51 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/Keel-Labs/keel) · [官网](https://github.com/Keel-Labs/keel/releases/latest) · 个人维护
+⭐ 52 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/Keel-Labs/keel) · [官网](https://github.com/Keel-Labs/keel/releases/latest) · 个人维护
 
 **本地优先的 Mac/Windows AI 助手，记忆存为 markdown 归用户所有**
 

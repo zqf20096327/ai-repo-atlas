@@ -1,6 +1,6 @@
 # Genesis-Molecular-AI/genesis-potency-dataset
 
-⭐ 13 · CC-BY-SA-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/Genesis-Molecular-AI/genesis-potency-dataset) · 组织维护
+⭐ 19 · CC-BY-SA-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/Genesis-Molecular-AI/genesis-potency-dataset) · 组织维护
 
 **面向药效预测模型的 540 万条公开蛋白-配体 potency 数据集**
 

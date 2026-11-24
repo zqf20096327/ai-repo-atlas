@@ -1,6 +1,6 @@
 # SudoKrondor/EliteIntel
 
-⭐ 151 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SudoKrondor/EliteIntel) · 个人维护
+⭐ 151 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SudoKrondor/EliteIntel) · 个人维护
 
 **Elite Dangerous 游戏的 LLM 助手与数据分析工具**
 

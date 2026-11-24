@@ -1,6 +1,6 @@
 # Open330/kiwimu
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Open330/kiwimu) · [官网](https://open330.github.io/kiwimu/) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Open330/kiwimu) · [官网](https://open330.github.io/kiwimu/) · 个人维护
 
 **把教科书/PDF/网页变成 LLM 生成的个人学习维基**
 

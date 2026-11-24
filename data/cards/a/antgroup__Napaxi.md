@@ -1,6 +1,6 @@
 # antgroup/Napaxi
 
-⭐ 34 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/antgroup/Napaxi) · 组织维护 · 中文 README
+⭐ 34 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/antgroup/Napaxi) · 组织维护 · 中文 README
 
 **移动端原生 agent SDK：在 App 内嵌入端上 AI 代理运行时**
 

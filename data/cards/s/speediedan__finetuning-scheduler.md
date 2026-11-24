@@ -1,6 +1,6 @@
 # speediedan/finetuning-scheduler
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/speediedan/finetuning-scheduler) · [官网](https://finetuning-scheduler.readthedocs.io) · 个人维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/speediedan/finetuning-scheduler) · [官网](https://finetuning-scheduler.readthedocs.io) · 个人维护
 
 **PyTorch Lightning 扩展：用分阶段微调计划表加速模型实验**
 

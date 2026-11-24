@@ -1,6 +1,6 @@
 # kortix-ai/CompanyOS
 
-⭐ 20,785 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/kortix-ai/CompanyOS) · [官网](https://kortix.com) · 组织维护
+⭐ 20,789 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/kortix-ai/CompanyOS) · [官网](https://kortix.com) · 组织维护
 
 **开源企业级多智能体运行平台：常驻 AI 代理按事件驱动执行公司工作**
 

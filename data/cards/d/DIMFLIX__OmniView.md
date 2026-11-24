@@ -1,6 +1,6 @@
 # DIMFLIX/OmniView
 
-⭐ 31 · Python · GPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/DIMFLIX/OmniView) · [官网](https://pypi.org/project/omniview/) · 个人维护 · 中文 README
+⭐ 32 · Python · GPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/DIMFLIX/OmniView) · [官网](https://pypi.org/project/omniview/) · 个人维护 · 中文 README
 
 **多摄像头视频流采集与多路显示库，供计算机视觉接入**
 

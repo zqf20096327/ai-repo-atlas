@@ -1,6 +1,6 @@
 # daggerhashimoto/openclaw-nerve
 
-⭐ 871 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/daggerhashimoto/openclaw-nerve) · [官网](https://nerve.zone) · 个人维护
+⭐ 871 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/daggerhashimoto/openclaw-nerve) · [官网](https://nerve.zone) · 个人维护
 
 **OpenClaw 的自托管 Web 驾驶舱：语音对话、看板与 agent 舰队控制**
 

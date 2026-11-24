@@ -1,6 +1,6 @@
 # AtlasCloudAI/awesome-seedance-2-prompts
 
-⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
+⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AtlasCloudAI/awesome-seedance-2-prompts) · [官网](https://www.atlascloud.ai) · 组织维护 · 中文 README
 
 **Seedance 2.0 视频生成提示词合集（2706 条，含预览视频）**
 

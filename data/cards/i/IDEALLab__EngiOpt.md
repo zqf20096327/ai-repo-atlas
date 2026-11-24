@@ -1,6 +1,6 @@
 # IDEALLab/EngiOpt
 
-⭐ 20 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/IDEALLab/EngiOpt) · [官网](https://engibench.ethz.ch/) · 组织维护
+⭐ 20 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/IDEALLab/EngiOpt) · [官网](https://engibench.ethz.ch/) · 组织维护
 
 **工程设计问题的逆向设计与优化算法基准库（EngiBench 兼容）**
 

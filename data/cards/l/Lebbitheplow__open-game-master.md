@@ -1,6 +1,6 @@
 # Lebbitheplow/open-game-master
 
-⭐ 89 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Lebbitheplow/open-game-master) · [官网](https://opengamemaster.com) · 个人维护
+⭐ 89 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Lebbitheplow/open-game-master) · [官网](https://opengamemaster.com) · 个人维护
 
 **本地/自选模型驱动的 AI 游戏主持人：多人跑 5e 战役**
 

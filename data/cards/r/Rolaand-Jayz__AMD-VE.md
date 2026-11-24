@@ -1,6 +1,6 @@
 # Rolaand-Jayz/AMD-VE
 
-⭐ 12 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Rolaand-Jayz/AMD-VE) · 个人维护
+⭐ 12 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Rolaand-Jayz/AMD-VE) · 个人维护
 
 **面向 AMD GPU 的 Linux AI 视频修复与超分应用**
 

@@ -1,6 +1,6 @@
 # modelscope/twinkle
 
-⭐ 269 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/modelscope/twinkle) · 组织维护 · 中文 README
+⭐ 270 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/twinkle) · 组织维护 · 中文 README
 
 **面向开发者的轻量级 Client-Server 大模型训练框架**
 

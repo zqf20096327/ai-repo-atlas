@@ -1,6 +1,6 @@
 # rjcuff/Woolly
 
-⭐ 13 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rjcuff/Woolly) · [官网](https://usewoolly.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地共享的项目记忆服务器：让多个 AI 编码工具共用记忆**
 
@@ -11,7 +11,7 @@ Woolly 为 Claude Code、Cursor、Codex 等编码 agent 提供运行在本机的
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

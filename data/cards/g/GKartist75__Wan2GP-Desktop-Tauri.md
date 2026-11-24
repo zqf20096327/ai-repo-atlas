@@ -1,6 +1,6 @@
 # GKartist75/Wan2GP-Desktop-Tauri
 
-⭐ 74 · Rust · MIT · 推送 2026-11-06 · [GitHub](https://github.com/GKartist75/Wan2GP-Desktop-Tauri) · 个人维护
+⭐ 75 · Rust · MIT · 推送 2026-11-06 · [GitHub](https://github.com/GKartist75/Wan2GP-Desktop-Tauri) · 个人维护
 
 **给创作者的一键安装 Wan2GP 桌面启动器，免 Python/CUDA 环境搭建**
 

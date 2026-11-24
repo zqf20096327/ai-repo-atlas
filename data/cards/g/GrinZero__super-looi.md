@@ -1,6 +1,6 @@
 # GrinZero/super-looi
 
-⭐ 22 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/GrinZero/super-looi) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/GrinZero/super-looi) · 个人维护 · 中文 README
 
 **面向 LOOI 机器人的本地优先 BLE 控制 SDK 及配套 Expo 应用**
 

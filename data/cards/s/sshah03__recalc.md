@@ -1,6 +1,6 @@
 # sshah03/recalc
 
-⭐ 79 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/sshah03/recalc) · 个人维护
+⭐ 80 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/sshah03/recalc) · 个人维护
 
 **与 AI agent 共用的电子表格：单元格可放公式、命令或 Claude Code/Codex**
 

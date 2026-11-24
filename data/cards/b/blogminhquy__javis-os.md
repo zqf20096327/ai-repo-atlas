@@ -1,6 +1,6 @@
 # blogminhquy/javis-os
 
-⭐ 894 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/blogminhquy/javis-os) · [官网](https://javisos.com) · 个人维护 · 中文 README
+⭐ 906 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/blogminhquy/javis-os) · [官网](https://javisos.com) · 个人维护 · 中文 README
 
 **自托管语音 AI agent 系统：可换模型、带自我积累的第二大脑**
 

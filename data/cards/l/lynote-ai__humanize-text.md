@@ -1,6 +1,6 @@
 # lynote-ai/humanize-text
 
-⭐ 3,477 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lynote-ai/humanize-text) · [官网](https://lynote.ai/ai-humanizer) · 组织维护 · 中文 README
+⭐ 3,445 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/lynote-ai/humanize-text) · [官网](https://lynote.ai/ai-humanizer) · 组织维护 · 中文 README
 
 **给开发者的 AI 文本改写管线：把 AI 生成文本改写为自然文风**
 

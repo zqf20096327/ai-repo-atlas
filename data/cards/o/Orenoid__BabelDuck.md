@@ -1,6 +1,6 @@
 # Orenoid/BabelDuck
 
-⭐ 694 · TypeScript · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/Orenoid/BabelDuck) · [官网](https://duck.orenoid.com) · 个人维护 · 中文 README
+⭐ 695 · TypeScript · NOASSERTION · 推送 2026-04-07 · [GitHub](https://github.com/Orenoid/BabelDuck) · [官网](https://duck.orenoid.com) · 个人维护 · 中文 README
 
 **面向语言学习者的 AI 口语对话练习应用，支持语音交互**
 

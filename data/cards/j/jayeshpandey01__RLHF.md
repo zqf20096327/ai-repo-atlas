@@ -1,6 +1,6 @@
 # jayeshpandey01/RLHF
 
-⭐ 5 · Python · 推送 2026-10-10 · [GitHub](https://github.com/jayeshpandey01/RLHF) · [官网](https://github.com/jayeshpandey01/RLHF) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **开发者的大模型持续后训练闭环原型：采集、微调、门控发布**
 

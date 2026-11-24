@@ -1,6 +1,6 @@
 # AI-sandbox/iLTM
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/AI-sandbox/iLTM) · [官网](https://arxiv.org/abs/2511.15941) · 组织维护
+⭐ 33 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/AI-sandbox/iLTM) · [官网](https://arxiv.org/abs/2511.15941) · 组织维护
 
 **表格数据基础模型：开箱即用的分类与回归预测**
 

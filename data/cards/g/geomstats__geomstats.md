@@ -1,6 +1,6 @@
 # geomstats/geomstats
 
-⭐ 1,537 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/geomstats/geomstats) · [官网](http://geomstats.ai) · 组织维护
+⭐ 1,538 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/geomstats/geomstats) · [官网](http://geomstats.ai) · 组织维护
 
 **流形上的几何计算与统计机器学习 Python 库**
 

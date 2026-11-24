@@ -1,6 +1,6 @@
 # nace-ai/kapitsa
 
-⭐ 860 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nace-ai/kapitsa) · [官网](https://kapitsa.vercel.app) · 组织维护
+⭐ 872 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nace-ai/kapitsa) · [官网](https://kapitsa.vercel.app) · 组织维护
 
 **Apple Silicon 本地推理引擎：为编码 agent 运行本地 LLM**
 

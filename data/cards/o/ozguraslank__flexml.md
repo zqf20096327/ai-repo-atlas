@@ -1,6 +1,6 @@
 # ozguraslank/flexml
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-01-24 · [GitHub](https://github.com/ozguraslank/flexml) · 个人维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-01-24 · [GitHub](https://github.com/ozguraslank/flexml) · 个人维护
 
 **Python AutoML 库：自动完成模型选择与超参数调优**
 

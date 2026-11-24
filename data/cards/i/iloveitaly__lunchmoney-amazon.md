@@ -1,6 +1,6 @@
 # iloveitaly/lunchmoney-amazon
 
-⭐ 27 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/iloveitaly/lunchmoney-amazon) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iloveitaly/lunchmoney-amazon) · 个人维护
 
 **用 LLM 自动分类 LunchMoney 中 Amazon 交易的个人记账工具**
 

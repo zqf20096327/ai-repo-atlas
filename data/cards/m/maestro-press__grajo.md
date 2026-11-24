@@ -1,6 +1,6 @@
 # maestro-press/grajo
 
-⭐ 28 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/maestro-press/grajo) · [官网](https://maestro.press/software/crow/) · 组织维护
+⭐ 29 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/maestro-press/grajo) · [官网](https://maestro.press/software/crow/) · 组织维护
 
 **自托管的 agentic 框架与 MCP 平台，个人可搭建运行 AI agents**
 

@@ -1,6 +1,6 @@
 # melchersimon011-bot/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/melchersimon011-bot/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/melchersimon011-bot/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI 代理：自动写码执行并控制浏览器**
 

@@ -1,6 +1,6 @@
 # InftyAI/Nebula
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/InftyAI/Nebula) · 组织维护
+⭐ 13 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/InftyAI/Nebula) · 组织维护
 
 **GPUaaS 控制平面：跨 NeoCloud/超大规模云统一供给 GPU Pod**
 

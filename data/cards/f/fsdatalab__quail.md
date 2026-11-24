@@ -1,6 +1,6 @@
 # fsdatalab/quail
 
-⭐ 193 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fsdatalab/quail) · [官网](https://fsdatalab.github.io/quail) · 组织维护
+⭐ 193 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/fsdatalab/quail) · [官网](https://fsdatalab.github.io/quail) · 组织维护
 
 **面向开发者的 AI-SQL 执行引擎，SQL 中嵌入自然语言指令**
 

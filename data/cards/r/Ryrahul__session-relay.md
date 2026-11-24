@@ -1,6 +1,6 @@
 # Ryrahul/session-relay
 
-⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Ryrahul/session-relay) · [官网](https://relay.rahulweb.online) · 个人维护
+⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Ryrahul/session-relay) · [官网](https://relay.rahulweb.online) · 个人维护
 
 **让团队在多个 AI 编码代理间共享与接续会话的工具**
 

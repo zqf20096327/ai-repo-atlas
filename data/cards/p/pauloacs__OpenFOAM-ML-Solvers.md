@@ -1,6 +1,6 @@
 # pauloacs/OpenFOAM-ML-Solvers
 
-⭐ 26 · C++ · MIT · 推送 2026-11-15 · [GitHub](https://github.com/pauloacs/OpenFOAM-ML-Solvers) · 个人维护
+⭐ 26 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pauloacs/OpenFOAM-ML-Solvers) · 个人维护
 
 **用深度学习代理模型加速 OpenFOAM CFD 模拟的求解器集**
 

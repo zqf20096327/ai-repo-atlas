@@ -1,6 +1,6 @@
 # initred/laravel-langfuse
 
-⭐ 3 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/initred/laravel-langfuse) · [官网](https://packagist.org/packages/initred/laravel-langfuse) · 个人维护
+⭐ 3 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/initred/laravel-langfuse) · [官网](https://packagist.org/packages/initred/laravel-langfuse) · 个人维护
 
 **把 Laravel 应用接入 Langfuse 可观测平台的 PHP SDK**
 

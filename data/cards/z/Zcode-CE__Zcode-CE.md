@@ -1,6 +1,6 @@
 # Zcode-CE/Zcode-CE
 
-⭐ 57 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/Zcode-CE/Zcode-CE) · 组织维护 · 中文 README
+⭐ 57 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Zcode-CE/Zcode-CE) · 组织维护 · 中文 README
 
 **AI 编程工作台 ZCode 的开源社区版：桌面/Web/终端三种形态**
 

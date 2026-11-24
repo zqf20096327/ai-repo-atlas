@@ -1,6 +1,6 @@
 # czottmann/pi-automode
 
-⭐ 225 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/czottmann/pi-automode) · [官网](https://npmx.dev/package/@czottmann/pi-automode) · 个人维护
+⭐ 226 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/czottmann/pi-automode) · [官网](https://npmx.dev/package/@czottmann/pi-automode) · 个人维护
 
 **Pi/OMP 的 Claude Code 式 auto 模式守卫扩展**
 

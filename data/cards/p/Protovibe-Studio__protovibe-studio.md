@@ -1,6 +1,6 @@
 # Protovibe-Studio/protovibe-studio
 
-⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Protovibe-Studio/protovibe-studio) · [官网](https://protovibe-studio.github.io/) · 组织维护
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Protovibe-Studio/protovibe-studio) · [官网](https://protovibe-studio.github.io/) · 组织维护
 
 **面向 React+Tailwind 的可视化 Web 构建器，可搭配自有 AI agent**
 

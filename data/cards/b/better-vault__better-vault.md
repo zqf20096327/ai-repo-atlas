@@ -1,6 +1,6 @@
 # better-vault/better-vault
 
-⭐ 112 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/better-vault/better-vault) · [官网](https://better-vault.dev) · 组织维护
+⭐ 121 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/better-vault/better-vault) · [官网](https://better-vault.dev) · 组织维护
 
 **开源 NotebookLM 替代品：用自选模型与资料对话并生成学习材料**
 

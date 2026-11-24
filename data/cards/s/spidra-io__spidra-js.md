@@ -1,6 +1,6 @@
 # spidra-io/spidra-js
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/spidra-io/spidra-js) · [官网](https://spidra.io/) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/spidra-io/spidra-js) · [官网](https://spidra.io/) · 组织维护
 
 **Spidra 网页抓取/搜索服务的官方 Node.js SDK**
 

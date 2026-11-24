@@ -1,6 +1,6 @@
 # openvinotoolkit/model_server
 
-⭐ 965 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/openvinotoolkit/model_server) · [官网](https://docs.openvino.ai/2026/model-server/ovms_what_is_openvino_model_server.html) · 组织维护
+⭐ 966 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openvinotoolkit/model_server) · [官网](https://docs.openvino.ai/2026/model-server/ovms_what_is_openvino_model_server.html) · 组织维护
 
 **面向 Intel 硬件优化的模型推理服务：以网络 API 提供生成式与经典模型推理**
 

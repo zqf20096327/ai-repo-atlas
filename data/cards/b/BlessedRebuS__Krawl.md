@@ -1,6 +1,6 @@
 # BlessedRebuS/Krawl
 
-⭐ 844 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/BlessedRebuS/Krawl) · [官网](https://demo.krawlme.com/das_dashboard) · 个人维护
+⭐ 843 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/BlessedRebuS/Krawl) · [官网](https://demo.krawlme.com/das_dashboard) · 个人维护
 
 **面向蓝队的 Web 蜜罐/欺骗服务器：诱捕攻击者与爬虫**
 

@@ -1,6 +1,6 @@
 # llmmanorg/llmman
 
-⭐ 599 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/llmmanorg/llmman) · [官网](https://llmmanorg.github.io/) · 组织维护
+⭐ 600 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/llmmanorg/llmman) · [官网](https://llmmanorg.github.io/) · 组织维护
 
 **本地/托管模型上运行各类 AI agent 的 CLI 与推理服务**
 

@@ -1,6 +1,6 @@
 # asta-nguyen/goko
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/asta-nguyen/goko) · [官网](https://goko.astalife.co) · 个人维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/asta-nguyen/goko) · [官网](https://goko.astalife.co) · 个人维护
 
 **按项目管理交互式命令行 AI Agent 的跨平台桌面应用**
 

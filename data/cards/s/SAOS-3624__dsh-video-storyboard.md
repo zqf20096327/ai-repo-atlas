@@ -1,6 +1,6 @@
 # SAOS-3624/dsh-video-storyboard
 
-⭐ 589 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SAOS-3624/dsh-video-storyboard) · [官网](https://github.com/SAOS-3624/dsh-video-storyboard) · 个人维护 · 中文 README
+⭐ 593 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SAOS-3624/dsh-video-storyboard) · [官网](https://github.com/SAOS-3624/dsh-video-storyboard) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：把视频压成一张可寻址分镜故事板图供文本 agent 阅读**
 

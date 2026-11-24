@@ -1,6 +1,6 @@
 # kaanaksit/odak
 
-⭐ 218 · Python · MPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/kaanaksit/odak) · [官网](https://kaanaksit.com/odak) · 组织维护
+⭐ 218 · Python · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kaanaksit/odak) · [官网](https://kaanaksit.com/odak) · 组织维护
 
 **光学、图形学与视觉感知的可微分科学计算库，服务光学设计与实验研究**
 

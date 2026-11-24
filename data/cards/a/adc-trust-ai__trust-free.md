@@ -1,6 +1,6 @@
 # adc-trust-ai/trust-free
 
-⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/adc-trust-ai/trust-free) · [官网](https://whiteboxlab.ai/) · 个人维护
+⭐ 16 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/adc-trust-ai/trust-free) · [官网](https://whiteboxlab.ai/) · 个人维护
 
 **可解释线性模型树回归/分类库，附自动解释报告**
 

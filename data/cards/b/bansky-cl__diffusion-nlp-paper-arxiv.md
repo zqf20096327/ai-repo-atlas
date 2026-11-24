@@ -1,6 +1,6 @@
 # bansky-cl/diffusion-nlp-paper-arxiv
 
-⭐ 319 · Python · 推送 2026-11-22 · [GitHub](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) · [官网](https://github.com/bansky-cl/Diffusion-LM-Papers) · 个人维护
+⭐ 319 · Python · 推送 2026-11-24 · [GitHub](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) · [官网](https://github.com/bansky-cl/Diffusion-LM-Papers) · 个人维护
 
 **自动抓取 arXiv 扩散 NLP 论文的月度追踪清单**
 

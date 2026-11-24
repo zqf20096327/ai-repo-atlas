@@ -1,6 +1,6 @@
 # ayushcmd/dollar-hegemony
 
-⭐ 107 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ayushcmd/dollar-hegemony) · [官网](https://huggingface.co/spaces/Ayush0826/dollar-hegemony) · 个人维护
+⭐ 119 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ayushcmd/dollar-hegemony) · [官网](https://huggingface.co/spaces/Ayush0826/dollar-hegemony) · 个人维护
 
 **分析美元主导地位对 BRICS/G7 汇率压力的 ML 研究系统**
 

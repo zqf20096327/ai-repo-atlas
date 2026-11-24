@@ -1,6 +1,6 @@
 # jens-duttke/agent-monitor-for-claude
 
-⭐ 24 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jens-duttke/agent-monitor-for-claude) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jens-duttke/agent-monitor-for-claude) · 个人维护 · 中文 README
 
 **本地桌面监控器：一眼看清各 Claude Code agent 的运行状态与费用**
 

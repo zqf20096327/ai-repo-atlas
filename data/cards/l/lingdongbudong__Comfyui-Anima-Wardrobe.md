@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-Anima-Wardrobe
 
-⭐ 30 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe) · [官网](https://registry.comfy.org/nodes/comfyui-anima-wardrobe) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe) · [官网](https://registry.comfy.org/nodes/comfyui-anima-wardrobe) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点：动漫角色造型槽位与提示词标签仲裁**
 

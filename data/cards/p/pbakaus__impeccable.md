@@ -1,6 +1,6 @@
 # pbakaus/impeccable
 
-⭐ 114,949 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护
+⭐ 115,636 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护
 
 **给编码 agent 的设计词汇与 UI 审查工具集**
 

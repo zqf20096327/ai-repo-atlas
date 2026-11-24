@@ -1,6 +1,6 @@
 # dutchman-cad/pilot
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dutchman-cad/pilot) · 组织维护
+⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dutchman-cad/pilot) · 组织维护
 
 **让本地小模型在 SolidCraft 中生成 CAD 零件的工具**
 

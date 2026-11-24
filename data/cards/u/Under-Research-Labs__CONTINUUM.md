@@ -1,6 +1,6 @@
 # Under-Research-Labs/CONTINUUM
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Under-Research-Labs/CONTINUUM) · [官网](https://continuum-nu-six.vercel.app) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Under-Research-Labs/CONTINUUM) · [官网](https://continuum-nu-six.vercel.app) · 组织维护
 
 **为长时运行 AI agent 提供语义检查点与崩溃恢复的基础设施**
 

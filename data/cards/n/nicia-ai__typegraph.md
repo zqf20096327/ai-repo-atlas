@@ -1,6 +1,6 @@
 # nicia-ai/typegraph
 
-⭐ 93 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nicia-ai/typegraph) · [官网](https://typegraph.dev) · 组织维护
+⭐ 94 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nicia-ai/typegraph) · [官网](https://typegraph.dev) · 组织维护
 
 **嵌入 SQLite/PostgreSQL 的 TypeScript 知识图谱库，供 Agent 记忆与 RAG 建模**
 

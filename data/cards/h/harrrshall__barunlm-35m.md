@@ -1,6 +1,6 @@
 # harrrshall/barunlm-35m
 
-⭐ 76 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/harrrshall/barunlm-35m) · [官网](https://huggingface.co/harrrshall/BarunLM-35M) · 个人维护
+⭐ 75 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/harrrshall/barunlm-35m) · [官网](https://huggingface.co/harrrshall/BarunLM-35M) · 个人维护
 
 **35M 参数小型基座语言模型，5.7B token 预训练**
 

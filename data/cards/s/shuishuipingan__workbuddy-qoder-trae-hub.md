@@ -1,6 +1,6 @@
 # shuishuipingan/workbuddy-qoder-trae-hub
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/shuishuipingan/workbuddy-qoder-trae-hub) · [官网](https://wqt-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/shuishuipingan/workbuddy-qoder-trae-hub) · [官网](https://wqt-hub-eybpg15659n.qoder.zone) · 个人维护 · 中文 README
 
 **把 Qoder 封装成 OpenAI/Anthropic 兼容接口的多账号网关**
 

@@ -1,6 +1,6 @@
 # religa/multi_mcp
 
-⭐ 36 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/religa/multi_mcp) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/religa/multi_mcp) · 个人维护
 
 **面向 Claude Code 的多模型编排 MCP 服务器，做代码审查与分析**
 

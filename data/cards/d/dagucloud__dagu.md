@@ -1,10 +1,10 @@
 # dagucloud/dagu
 
-⭐ 4,648 · Go · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
+⭐ 4,652 · Go · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/dagucloud/dagu) · [官网](https://dagu.sh) · 组织维护
 
-**给非编排团队用的自托管工作流引擎：YAML 定义 DAG**
+**自托管工作流编排器：用 YAML 管理脚本调度与依赖**
 
-本地优先的自托管工作流引擎：单个二进制内置 Web UI，无需外部数据库或消息代理，运行在 Linux/macOS/Windows。以声明式 YAML 定义 DAG，工作流结构与业务脚本分离，脚本无需引入框架代码。原生执行 shell 命令、Docker 容器、Kubernetes Jobs 与 SSH 远程命令，提供 cron 调度、重试、Sub-DAG 复用、运行历史、人工任务、Webhook 触发与内置 MCP server。社区自托管免费，商业功能（SSO/RBAC/审计）需自托管许可。
+面向以内部自动化为日常工作的团队：把已有脚本、SSH 命令、容器等封装为声明式 YAML 的 DAG，工作流结构与业务逻辑分离，删除 YAML 后脚本可原样运行。单二进制文件、内置 Web UI、无外部数据库与消息中间件，支持 cron 调度、重试、人工任务、运行历史、子 DAG 复用、并发控制、MCP server 及单机/临时/分布式三种部署拓扑。社区自托管免费，SSO/RBAC/审计日志等功能需自托管许可证。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 单二进制安装，无外部 DBMS 或消息代理
-- 声明式 YAML 定义 DAG，脚本不 import 编排器，删除 YAML 脚本可独立运行
-- 支持 shell/Docker/Kubernetes Jobs/SSH 远程命令等多种步骤类型
-- 内置 MCP server 用于检查与控制工作流，人工任务支持暂停与输入
+- 单二进制安装，无外部数据库与消息中间件
+- 声明式 YAML 定义 DAG，支持 shell/Docker/Kubernetes Jobs/SSH 步骤
+- 内置 MCP server 用于查看、修改与控制工作流运行
+- 支持单机、临时 worker、分布式 worker 三种部署拓扑
 
 ## 适用场景
 
-- 把数据抽取脚本、SQL、dbt 命令编排成可观测的 ETL 流水线
-- 替代 cron 管理带依赖、重试与历史记录的定时脚本
-- 通过 SSH 在私有服务器上运行运维自动化并集中收集日志
-- 给非工程团队提供自助式诊断与查询工作流
+- 把零散的 cron 定时脚本改成带依赖、重试和日志的 DAG
+- 编排 ETL 与 dbt 数据处理流水线
+- 通过 SSH 批量自动化远程服务器运维任务
+- 在边缘或隔离网络上靠近数据源运行定时任务
 
 ## 场景标签
 
@@ -40,6 +40,7 @@
 
 > L15: Dagu is a local-first workflow engine for operations and internal automation. It is open source and self-hostable: 
 > L29: - Built-in MCP server for inspecting workflows and runs, maintaining Wiki pages, applying changes, and controlling 
+> L203: - **Self-host license:** Adds SSO, RBAC, audit logging, incident SaaS integration, and monitoring in Dagu Console 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f2e96798494d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `960b00ece8a4` · [字段定义](../../DATASET.md)*

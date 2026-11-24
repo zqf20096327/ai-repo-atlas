@@ -1,6 +1,6 @@
 # doofinder/doofinder-magento2
 
-⭐ 13 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/doofinder/doofinder-magento2) · [官网](https://www.doofinder.com/en/solutions/magento) · 组织维护
+⭐ 13 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/doofinder/doofinder-magento2) · [官网](https://www.doofinder.com/en/solutions/magento) · 组织维护
 
 **Magento 2 商店的 Doofinder AI 搜索集成插件**
 

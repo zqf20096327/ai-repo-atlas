@@ -1,6 +1,6 @@
 # DomynAI/domyn-agents
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/DomynAI/domyn-agents) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DomynAI/domyn-agents) · 组织维护
 
 **Python/YAML 构建与运行 AI agent 的框架与终端客户端**
 

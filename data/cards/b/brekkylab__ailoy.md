@@ -1,6 +1,6 @@
 # brekkylab/ailoy
 
-⭐ 159 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/brekkylab/ailoy) · [官网](https://ailoy.co) · 组织维护
+⭐ 188 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/brekkylab/ailoy) · [官网](https://ailoy.co) · 组织维护
 
 **给每个 AI agent 配 microVM 沙箱的 agent 构建库**
 

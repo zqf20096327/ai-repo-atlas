@@ -1,6 +1,6 @@
 # navthings/airgpt
 
-⭐ 26 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/navthings/airgpt) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/navthings/airgpt) · 个人维护
 
 **在 Mac 上从零训练个人聊天机器人的工具**
 

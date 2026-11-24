@@ -1,6 +1,6 @@
 # ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc
 
-⭐ 47 · 推送 2026-11-14 · [GitHub](https://github.com/ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 70 · 推送 2026-11-14 · [GitHub](https://github.com/ArmaniGustafsson016225/-virtual-card-usdt-autonomous-short-drama-multimodal-omni-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡（VCC）+USDT 支付方案的营销文档，面向短剧出海团队**
 

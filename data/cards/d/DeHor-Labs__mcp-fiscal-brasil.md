@@ -1,6 +1,6 @@
 # DeHor-Labs/mcp-fiscal-brasil
 
-⭐ 436 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/DeHor-Labs/mcp-fiscal-brasil) · [官网](https://fiscal.dehor.dev) · 组织维护
+⭐ 437 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/DeHor-Labs/mcp-fiscal-brasil) · [官网](https://fiscal.dehor.dev) · 组织维护
 
 **面向巴西财税数据的 MCP 服务器：44 个工具免密查询**
 

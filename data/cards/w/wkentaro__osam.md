@@ -1,6 +1,6 @@
 # wkentaro/osam
 
-⭐ 133 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/wkentaro/osam) · 个人维护
+⭐ 133 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wkentaro/osam) · 个人维护
 
 **本地运行可提示视觉模型（SAM 系列/YOLO-World）的工具**
 

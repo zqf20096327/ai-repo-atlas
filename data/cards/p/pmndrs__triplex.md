@@ -1,6 +1,6 @@
 # pmndrs/triplex
 
-⭐ 1,333 · TypeScript · 推送 2026-06-11 · [GitHub](https://github.com/pmndrs/triplex) · [官网](https://triplex.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **React / Three Fiber 的开源可视化场景编辑工作台**
 

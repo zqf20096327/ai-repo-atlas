@@ -1,6 +1,6 @@
 # chmouel/liseur-sync
 
-⭐ 25 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chmouel/liseur-sync) · [官网](https://chmouel.github.io/liseur-sync/) · 个人维护
+⭐ 26 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chmouel/liseur-sync) · [官网](https://chmouel.github.io/liseur-sync/) · 个人维护
 
 **自托管的电子书阅读进度同步与统计服务器**
 

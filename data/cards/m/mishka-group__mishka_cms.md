@@ -1,6 +1,6 @@
 # mishka-group/mishka_cms
 
-⭐ 31 · Elixir · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mishka-group/mishka_cms) · [官网](https://mishka.tools/cms) · 组织维护
+⭐ 33 · Elixir · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mishka-group/mishka_cms) · [官网](https://mishka.tools/cms) · 组织维护
 
 **多租户实时 CMS：一次部署运行多个网站，带可视化建页**
 

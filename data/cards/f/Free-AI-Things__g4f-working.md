@@ -1,6 +1,6 @@
 # Free-AI-Things/g4f-working
 
-⭐ 153 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Free-AI-Things/g4f-working) · 个人维护
+⭐ 153 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Free-AI-Things/g4f-working) · 个人维护
 
 **GPT4Free 免鉴权可用模型与提供商的每日测试清单**
 

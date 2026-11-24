@@ -1,6 +1,6 @@
 # ShadowLoveElysia/AiNiee-Next
 
-⭐ 252 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ShadowLoveElysia/AiNiee-Next) · 个人维护 · 中文 README
+⭐ 254 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ShadowLoveElysia/AiNiee-Next) · 个人维护 · 中文 README
 
 **AiNiee 优化分支：面向批量长篇内容的 LLM 翻译 CLI/TUI 工具**
 

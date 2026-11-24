@@ -1,6 +1,6 @@
 # TheSyart/emperor-agent
 
-⭐ 220 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/TheSyart/emperor-agent) · [官网](https://github.com/TheSyart/emperor-agent) · 个人维护 · 中文 README
+⭐ 220 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TheSyart/emperor-agent) · [官网](https://github.com/TheSyart/emperor-agent) · 个人维护 · 中文 README
 
 **本地运行的个人桌面 Agent 工作台（对话/项目工作/规划/持续任务）**
 

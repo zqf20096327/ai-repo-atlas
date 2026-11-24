@@ -1,6 +1,6 @@
 # yifanfeng97/Hyper-Extract
 
-⭐ 4,258 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/yifanfeng97/Hyper-Extract) · [官网](https://yifanfeng97.github.io/Hyper-Extract/) · 个人维护 · 中文 README
+⭐ 4,259 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/yifanfeng97/Hyper-Extract) · [官网](https://yifanfeng97.github.io/Hyper-Extract/) · 个人维护 · 中文 README
 
 **用 LLM 将文档一键抽取为图/超图等结构化知识的 CLI**
 

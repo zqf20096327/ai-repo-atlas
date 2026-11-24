@@ -1,6 +1,6 @@
 # joshuaswarren/omarchy-cluster
 
-⭐ 27 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/joshuaswarren/omarchy-cluster) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/joshuaswarren/omarchy-cluster) · 个人维护
 
 **跨多台 Apple Silicon 机器分布式运行单个本地 MLX/GGUF 模型的推理集群工具**
 

@@ -1,6 +1,6 @@
 # tetherto/qvac
 
-⭐ 818 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tetherto/qvac) · [官网](https://qvac.tether.io) · 组织维护
+⭐ 823 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tetherto/qvac) · [官网](https://qvac.tether.io) · 组织维护
 
 **在本地设备运行多种 AI 工作负载的开源 SDK**
 

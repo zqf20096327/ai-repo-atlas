@@ -1,6 +1,6 @@
 # Green-tero/datawhisper
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Green-tero/datawhisper) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Green-tero/datawhisper) · 个人维护
 
 **本地优先的数据问答与 SQL PR 审计工具：自然语言查数据并审变更**
 

@@ -1,6 +1,6 @@
 # AyingAI/flywhere
 
-⭐ 11 · HTML · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AyingAI/flywhere) · 个人维护 · 中文 README
+⭐ 11 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AyingAI/flywhere) · 个人维护 · 中文 README
 
 **帮旅行者按票价探索国内外低价机票目的地的工具**
 

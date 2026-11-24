@@ -1,6 +1,6 @@
 # Indras-Mirror/Strata-GLM
 
-⭐ 8 · C++ · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Indras-Mirror/Strata-GLM) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **消费级硬件上运行 GLM-5.3-Flash 320B MoE 的推理引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # ext3ndedsoft/gemini-to-dsh
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/ext3ndedsoft/gemini-to-dsh) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ext3ndedsoft/gemini-to-dsh) · 个人维护
 
 **把 Gemini 接入 DSH 及 OpenAI 兼容客户端的本地桥接器**
 

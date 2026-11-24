@@ -1,6 +1,6 @@
 # csmar432/finai-research
 
-⭐ 111 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/csmar432/finai-research) · [官网](https://csmar432.github.io/finai-research/) · 个人维护 · 中文 README
+⭐ 111 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/csmar432/finai-research) · [官网](https://csmar432.github.io/finai-research/) · 个人维护 · 中文 README
 
 **经济学/金融研究者的 8 阶段 AI 论文工作流，产出可核验 LaTeX 草稿**
 

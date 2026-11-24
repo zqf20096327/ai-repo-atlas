@@ -1,6 +1,6 @@
 # adil-adysh/llama-cpp-android-node
 
-⭐ 5 · Kotlin · 推送 2026-10-14 · [GitHub](https://github.com/adil-adysh/llama-cpp-android-node) · 个人维护
+⭐ 6 · Kotlin · 推送 2026-10-14 · [GitHub](https://github.com/adil-adysh/llama-cpp-android-node) · 个人维护
 
 **把 Android 手机变成 llama.cpp 分布式推理 RPC 节点**
 

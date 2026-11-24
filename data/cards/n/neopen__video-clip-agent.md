@@ -1,6 +1,6 @@
 # neopen/video-clip-agent
 
-⭐ 46 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/neopen/video-clip-agent) · [官网](https://clip.helpenx.com/) · 个人维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/neopen/video-clip-agent) · [官网](https://clip.helpenx.com/) · 个人维护 · 中文 README
 
 **自然语言驱动的视频混剪智能体：分析、筛选、裁剪、合成多个视频**
 

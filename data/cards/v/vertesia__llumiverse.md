@@ -1,6 +1,6 @@
 # vertesia/llumiverse
 
-⭐ 30 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/vertesia/llumiverse) · 组织维护
+⭐ 30 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/vertesia/llumiverse) · 组织维护
 
 **Node.js/Bun 的多 LLM 提供商统一连接驱动库**
 

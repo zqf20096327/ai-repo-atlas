@@ -1,6 +1,6 @@
 # openapi/openapi-llm-wiki
 
-⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/openapi/openapi-llm-wiki) · [官网](https://console.openapi.com) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/openapi/openapi-llm-wiki) · [官网](https://console.openapi.com) · 组织维护
 
 **面向 LLM/Agent 的 Openapi API 市场结构化知识库**
 

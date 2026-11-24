@@ -1,6 +1,6 @@
 # middlewarehq/middleware
 
-⭐ 1,632 · TypeScript · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/middlewarehq/middleware) · [官网](https://middlewarehq.com) · 组织维护
+⭐ 1,633 · TypeScript · Apache-2.0 · 推送 2026-08-03 · [GitHub](https://github.com/middlewarehq/middleware) · [官网](https://middlewarehq.com) · 组织维护
 
 **面向工程管理者的开源 DORA 指标度量与分析平台**
 

@@ -1,6 +1,6 @@
 # imphillip/SoulTavern
 
-⭐ 19 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/imphillip/SoulTavern) · [官网](https://soul.tavern.host/) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/imphillip/SoulTavern) · [官网](https://soul.tavern.host/) · 个人维护 · 中文 README
 
 **把 SillyTavern V2 角色卡转换为 SOUL.md 人格文件的 agent 技能**
 

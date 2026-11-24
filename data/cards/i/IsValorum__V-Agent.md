@@ -1,6 +1,6 @@
 # IsValorum/V-Agent
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/IsValorum/V-Agent) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/IsValorum/V-Agent) · 个人维护
 
 **Windows 本地优先 AI agent：运行 GGUF 模型并提供真实工具**
 

@@ -1,6 +1,6 @@
 # JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc
 
-⭐ 57 · 推送 2026-11-13 · [GitHub](https://github.com/JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
+⭐ 79 · 推送 2026-11-13 · [GitHub](https://github.com/JoaquinWaluk600227/virtual-card-usdt-security-auditing-red-team-ai-agents-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护
 
 **面向自主安全审计 agent 的虚拟卡付费隔离指南**
 

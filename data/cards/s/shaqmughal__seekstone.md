@@ -1,6 +1,6 @@
 # shaqmughal/seekstone
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shaqmughal/seekstone) · [官网](https://seekstone.dev) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/shaqmughal/seekstone) · [官网](https://seekstone.dev) · 个人维护
 
 **直读 Obsidian 库的 MCP 服务器：为 AI 客户端提供毫秒级笔记检索**
 

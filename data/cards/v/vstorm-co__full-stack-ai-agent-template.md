@@ -1,6 +1,6 @@
 # vstorm-co/full-stack-ai-agent-template
 
-⭐ 2,005 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template) · [官网](https://vstorm-co.github.io/full-stack-ai-agent-template/) · 组织维护
+⭐ 2,007 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vstorm-co/full-stack-ai-agent-template) · [官网](https://vstorm-co.github.io/full-stack-ai-agent-template/) · 组织维护
 
 **生成 FastAPI+Next.js 全栈 AI Agent 应用的项目模板生成器**
 

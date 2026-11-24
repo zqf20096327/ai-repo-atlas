@@ -1,6 +1,6 @@
 # truera/trulens
 
-⭐ 3,667 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/truera/trulens) · [官网](https://www.trulens.org/) · 组织维护
+⭐ 3,668 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/truera/trulens) · [官网](https://www.trulens.org/) · 组织维护
 
 **面向 LLM 应用与 AI Agent 的评估与追踪（追踪/评测）开源工具**
 

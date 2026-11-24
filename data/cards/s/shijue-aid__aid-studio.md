@@ -1,6 +1,6 @@
 # shijue-aid/aid-studio
 
-⭐ 1,509 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shijue-aid/aid-studio) · [官网](https://www.aidstudio.com.cn/) · 组织维护 · 中文 README
+⭐ 1,733 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shijue-aid/aid-studio) · [官网](https://www.aidstudio.com.cn/) · 组织维护 · 中文 README
 
 **面向创作者的开源自托管 AI 漫剧/短剧/短片制作工作台**
 

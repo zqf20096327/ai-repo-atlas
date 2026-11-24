@@ -1,6 +1,6 @@
 # dvsusan/susanSayJava
 
-⭐ 487 · 推送 2026-11-21 · [GitHub](https://github.com/dvsusan/susanSayJava) · [官网](https://susan.net.cn) · 个人维护 · 中文 README
+⭐ 488 · 推送 2026-11-23 · [GitHub](https://github.com/dvsusan/susanSayJava) · [官网](https://susan.net.cn) · 个人维护 · 中文 README
 
 **Java 后端面试八股文与企业级项目实战文章合集**
 

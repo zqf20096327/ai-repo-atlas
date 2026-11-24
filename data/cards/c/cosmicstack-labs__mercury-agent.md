@@ -1,6 +1,6 @@
 # cosmicstack-labs/mercury-agent
 
-⭐ 4,060 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) · [官网](https://mercuryagent.sh/) · 组织维护 · 中文 README
+⭐ 4,066 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cosmicstack-labs/mercury-agent) · [官网](https://mercuryagent.sh/) · 组织维护 · 中文 README
 
 **本地常驻个人 AI agent：权限管控、记忆与多渠道接入**
 

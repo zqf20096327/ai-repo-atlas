@@ -1,6 +1,6 @@
 # CyberStrikeus/CyberStrike
 
-⭐ 3,678 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CyberStrikeus/CyberStrike) · [官网](https://cyberstrike.io) · 组织维护 · 中文 README
+⭐ 3,702 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CyberStrikeus/CyberStrike) · [官网](https://cyberstrike.io) · 组织维护 · 中文 README
 
 **开源 agentic AI 渗透测试框架：从终端自动执行完整渗透测试**
 

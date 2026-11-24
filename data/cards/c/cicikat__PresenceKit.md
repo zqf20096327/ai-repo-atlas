@@ -1,6 +1,6 @@
 # cicikat/PresenceKit
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/cicikat/PresenceKit) · 个人维护 · 中文 README
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cicikat/PresenceKit) · 个人维护 · 中文 README
 
 **单人 AI 伴侣后端运行时：人格、长期记忆、情绪与主动联系**
 

@@ -1,6 +1,6 @@
 # huggingface/agent-collabs
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/agent-collabs) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/huggingface/agent-collabs) · 组织维护
 
 **在 Hugging Face 上快速搭建多 agent 协作研究挑战赛的基础设施模板**
 

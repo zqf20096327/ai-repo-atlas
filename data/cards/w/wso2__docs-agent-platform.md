@@ -1,6 +1,6 @@
 # wso2/docs-agent-platform
 
-⭐ 12 · MDX · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/wso2/docs-agent-platform) · [官网](https://wso2.com/agent-platform/docs/) · 组织维护
+⭐ 12 · MDX · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wso2/docs-agent-platform) · [官网](https://wso2.com/agent-platform/docs/) · 组织维护
 
 **WSO2 Agent Manager 平台的文档源仓库**
 

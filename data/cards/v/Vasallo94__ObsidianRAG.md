@@ -1,6 +1,6 @@
 # Vasallo94/ObsidianRAG
 
-⭐ 127 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Vasallo94/ObsidianRAG) · [官网](https://pypi.org/project/obsidianrag/) · 个人维护
+⭐ 127 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Vasallo94/ObsidianRAG) · [官网](https://pypi.org/project/obsidianrag/) · 个人维护
 
 **用本地 AI 对 Obsidian 笔记做问答的隐私优先 RAG 插件**
 

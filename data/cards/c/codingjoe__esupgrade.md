@@ -1,6 +1,6 @@
 # codingjoe/esupgrade
 
-⭐ 15 · JavaScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/codingjoe/esupgrade) · 个人维护
+⭐ 15 · JavaScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/codingjoe/esupgrade) · 个人维护
 
 **面向 JavaScript/TypeScript 开发者的语法自动升级工具**
 

@@ -1,10 +1,10 @@
 # harvard-edge/cs249r_book
 
-⭐ 30,291 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
+⭐ 30,297 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/harvard-edge/cs249r_book) · [官网](https://mlsysbook.ai) · 组织维护
 
-**哈佛 CS249r 机器学习系统开源教材系列（四卷）配套教学工具**
+**哈佛 CS249r 机器学习系统开源教材系列，面向学习者与教师**
 
-一套开源教科书与课程资源，覆盖从单机执行、分布式扩展到 Agentic AI 与物理 AI 的机器学习系统主题，共四卷；Vol I 已由 MIT Press 出版。仓库内含配套组件：TinyTorch（20 个模块从零构建 ML 框架）、MLSys·im 模拟器、硬件套件（Arduino/Seeed/Raspberry Pi）、Marimo 交互实验、StaffML 题库（9,000+ 题）、教学大纲与讲义幻灯片。Vol III/IV 为开放草稿，作者声明尚未定型、不建议引用。
+一套四卷的开源教材系列，讲述机器学习系统如何构建及为何如此构建，配套教学工具：TinyTorch（20 个模块从零构建 ML 框架）、MLSys·im 模拟器、硬件实验套件（Arduino/Seeed/Raspberry Pi）、Marimo 交互式 Labs、9000+ 道系统设计题的 StaffML、教师大纲与 Beamer 幻灯片。第一卷已由 MIT Press 出版，第三、四卷为开放草稿，作者明确提示暂勿引用或用于教学。
 
 ## 筛选速览
 
@@ -26,17 +26,16 @@
 
 ## 能力要点
 
-- 四卷教材：单机系统、分布式扩展、Agentic、物理 AI
-- TinyTorch：20 个渐进模块从零构建 ML 框架
-- MLSys·im 模拟器建模内存/计算/网络/能耗限制
-- StaffML 题库 9,000+ 系统设计题与讲师大纲
+- 四卷覆盖单机执行、分布式扩展、Agentic 系统与物理 AI
+- TinyTorch：20 个渐进模块从张量到 transformer 构建 ML 框架
+- MLSys·im 模拟器对内存/计算/网络/能耗建模
+- 提供英/中/日/韩多语言翻译及教师 syllabus 与幻灯片
 
 ## 适用场景
 
-- 自学机器学习系统的原理与实践
-- 高校开设 ML 系统课程并使用配套大纲与实验
-- 准备系统设计面试的工程师练习题库
-- 在硬件设备上部署模型完成教学实验
+- 作为机器学习系统课程的教学材料与实验配套
+- 自学者按卷次系统学习 ML 系统工程知识
+- 教师使用 Instructor Hub 的课程大纲、幻灯片与硬件套件开课
 
 ## 场景标签
 
@@ -45,7 +44,8 @@
 ## 证据(README 行号)
 
 > L10:  An open textbook series on how machine learning systems are built and why they are built that way, with companion 
-> L52: ## Why This Curriculum Exists
+> L120: ## The Four Volumes
+> L161: > ⚠️ *Volumes III and IV are open drafts. Chapters are added, reorganized, and rewritten as my understanding grows
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ad52da29c319` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f0a8380fc974` · [字段定义](../../DATASET.md)*

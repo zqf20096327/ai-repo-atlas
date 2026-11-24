@@ -1,6 +1,6 @@
 # nilearn/nilearn
 
-⭐ 1,461 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/nilearn/nilearn) · [官网](http://nilearn.github.io) · 组织维护
+⭐ 1,462 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/nilearn/nilearn) · [官网](http://nilearn.github.io) · 组织维护
 
 **Python 脑影像（体积/表面）统计分析与机器学习库**
 

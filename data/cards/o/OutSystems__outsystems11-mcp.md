@@ -1,6 +1,6 @@
 # OutSystems/outsystems11-mcp
 
-⭐ 36 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/OutSystems/outsystems11-mcp) · 组织维护
+⭐ 37 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/OutSystems/outsystems11-mcp) · 组织维护
 
 **让编码 agent 通过 MCP 读写 OutSystems 11 应用的技能包**
 

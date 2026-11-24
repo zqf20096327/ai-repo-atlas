@@ -1,6 +1,6 @@
 # Novior-dev/MentorAgent
 
-⭐ 16 · C# · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Novior-dev/MentorAgent) · [官网](https://mentoragent.net/) · 组织维护
+⭐ 16 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Novior-dev/MentorAgent) · [官网](https://mentoragent.net/) · 组织维护
 
 **为 .NET 应用接入 AI agent 的框架：方法变工具并带权限与人工确认**
 

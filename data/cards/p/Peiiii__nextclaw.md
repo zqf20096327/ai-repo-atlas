@@ -1,6 +1,6 @@
 # Peiiii/nextclaw
 
-⭐ 264 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Peiiii/nextclaw) · [官网](https://nextclaw.io) · 个人维护 · 中文 README
+⭐ 264 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Peiiii/nextclaw) · [官网](https://nextclaw.io) · 个人维护 · 中文 README
 
 **面向个人的长期 AI 伙伴：本地优先的桌面 Agent 工作台**
 

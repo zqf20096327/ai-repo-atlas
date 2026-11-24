@@ -1,6 +1,6 @@
 # vllm-project/vllm-neuron
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/vllm-project/vllm-neuron) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/vllm-neuron) · 组织维护
 
 **在 AWS Trainium 上运行 vLLM 的社区维护硬件插件**
 

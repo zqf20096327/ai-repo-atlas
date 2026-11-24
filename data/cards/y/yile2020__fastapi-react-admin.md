@@ -1,6 +1,6 @@
 # yile2020/fastapi-react-admin
 
-⭐ 237 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yile2020/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 个人维护 · 中文 README
+⭐ 257 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yile2020/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 个人维护 · 中文 README
 
 **FastAPI+React 19 管理后台基座：RBAC/审批流/权限受限 AI 助手**
 

@@ -1,6 +1,6 @@
 # STARDUSTLC666/deepseek-computer-use
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/STARDUSTLC666/deepseek-computer-use) · [官网](https://www.npmjs.com/package/deepseek-computer-use) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/STARDUSTLC666/deepseek-computer-use) · [官网](https://www.npmjs.com/package/deepseek-computer-use) · 个人维护 · 中文 README
 
 **给 DSH 加 Windows 桌面操作能力的插件**
 

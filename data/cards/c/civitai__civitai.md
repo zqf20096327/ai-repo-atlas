@@ -1,6 +1,6 @@
 # civitai/civitai
 
-⭐ 7,329 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/civitai/civitai) · [官网](https://civitai.com) · 组织维护
+⭐ 7,329 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/civitai/civitai) · [官网](https://civitai.com) · 组织维护
 
 **Stable Diffusion 模型分享平台：上传、浏览与交流**
 

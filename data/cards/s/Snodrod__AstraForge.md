@@ -1,6 +1,6 @@
 # Snodrod/AstraForge
 
-⭐ 63 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Snodrod/AstraForge) · [官网](https://snodrod.github.io/AstraForge/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地 3D 游戏资产制作工具：图片或文本生成 3D 模型并绑定导出**
 
@@ -11,7 +11,7 @@ Windows 本地应用，把单张图片或文本提示转换为游戏可用的 3D
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

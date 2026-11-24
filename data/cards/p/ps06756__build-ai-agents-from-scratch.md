@@ -1,6 +1,6 @@
 # ps06756/build-ai-agents-from-scratch
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-08-25 · [GitHub](https://github.com/ps06756/build-ai-agents-from-scratch) · 个人维护
+⭐ 30 · Jupyter Notebook · MIT · 推送 2026-08-25 · [GitHub](https://github.com/ps06756/build-ai-agents-from-scratch) · 个人维护
 
 **从零构建 AI Agent 的渐进式教程仓库（LangGraph/LangChain）**
 

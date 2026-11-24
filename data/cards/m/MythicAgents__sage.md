@@ -1,6 +1,6 @@
 # MythicAgents/sage
 
-⭐ 52 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/MythicAgents/sage) · 组织维护
+⭐ 52 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/MythicAgents/sage) · 组织维护
 
 **嵌入 Mythic C2 的 AI 操作员：读作战数据、规划并驱动攻击任务**
 

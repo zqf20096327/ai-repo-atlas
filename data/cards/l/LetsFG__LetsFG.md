@@ -1,6 +1,6 @@
 # LetsFG/LetsFG
 
-⭐ 2,296 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/LetsFG/LetsFG) · [官网](https://letsfg.co) · 组织维护
+⭐ 2,298 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/LetsFG/LetsFG) · [官网](https://letsfg.co) · 组织维护
 
 **面向 AI agent 的机票与酒店搜索预订服务（MCP/CLI/SDK）**
 

@@ -1,6 +1,6 @@
 # benchopt/benchopt
 
-⭐ 361 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/benchopt/benchopt) · [官网](https://benchopt.github.io) · 组织维护
+⭐ 361 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/benchopt/benchopt) · [官网](https://benchopt.github.io) · 组织维护
 
 **面向机器学习优化算法的可复现基准测试框架**
 

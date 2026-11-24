@@ -1,6 +1,6 @@
 # firebase/firebase-ios-sdk
 
-⭐ 6,996 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/firebase/firebase-ios-sdk) · [官网](https://firebase.google.com) · 组织维护
+⭐ 6,997 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/firebase/firebase-ios-sdk) · [官网](https://firebase.google.com) · 组织维护
 
 **面向 Apple 平台开发者的 Firebase 官方 SDK 源码库**
 

@@ -1,6 +1,6 @@
 # eracle/OpenOutreach
 
-⭐ 3,813 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/eracle/OpenOutreach) · [官网](https://openoutreach.app) · 个人维护
+⭐ 3,825 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/eracle/OpenOutreach) · [官网](https://openoutreach.app) · 个人维护
 
 **自托管 CLI：为 B2B 卖家自动找线索、判定匹配理由并发邮件**
 

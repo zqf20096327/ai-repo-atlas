@@ -1,6 +1,6 @@
 # rambotronado112-sudo/ai--manus
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/rambotronado112-sudo/ai--manus) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/rambotronado112-sudo/ai--manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：可执行代码并控制浏览器**
 

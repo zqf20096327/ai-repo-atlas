@@ -1,6 +1,6 @@
 # guregodevo/memdoor
 
-⭐ 418 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/guregodevo/memdoor) · [官网](https://memdoor.ai) · 个人维护
+⭐ 420 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/guregodevo/memdoor) · [官网](https://memdoor.ai) · 个人维护
 
 **单二进制 CLI 编码/自动化 agent，本地或 SSH 运行，BYOK**
 

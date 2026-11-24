@@ -1,6 +1,6 @@
 # nano-muse/nanoMuse
 
-⭐ 3,637 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/nano-muse/nanoMuse) · [官网](https://nanomuse.cn/) · 个人维护 · 中文 README
+⭐ 3,663 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/nano-muse/nanoMuse) · [官网](https://nanomuse.cn/) · 个人维护 · 中文 README
 
 **面向个人用户的开源跨设备自主代理：替你操作设备而非只回答**
 

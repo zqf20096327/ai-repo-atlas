@@ -1,6 +1,6 @@
 # NVIDIA/hyperflare-inference
 
-⭐ 827 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/hyperflare-inference) · 组织维护
+⭐ 829 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/hyperflare-inference) · 组织维护
 
 **面向 NVIDIA SM120/SM121 GPU 的本地推理服务器，服务长对话与编码 agent**
 

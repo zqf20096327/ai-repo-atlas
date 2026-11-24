@@ -1,6 +1,6 @@
 # BabitMF/bmf
 
-⭐ 1,039 · C++ · Apache-2.0 · 推送 2026-08-26 · [GitHub](https://github.com/BabitMF/bmf) · [官网](https://babitmf.github.io/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **字节跳动开源的跨平台多媒体处理框架，支持 AI 推理集成**
 
@@ -11,7 +11,7 @@ BMF（Babit Multimedia Framework）是字节跳动开发的跨平台多媒体处
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

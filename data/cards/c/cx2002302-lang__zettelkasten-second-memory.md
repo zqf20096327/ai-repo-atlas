@@ -1,6 +1,6 @@
 # cx2002302-lang/zettelkasten-second-memory
 
-⭐ 17 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/cx2002302-lang/zettelkasten-second-memory) · [官网](https://github.com/cx2002302-lang/zettelkasten-second-memory/releases) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/cx2002302-lang/zettelkasten-second-memory) · [官网](https://github.com/cx2002302-lang/zettelkasten-second-memory/releases) · 个人维护 · 中文 README
 
 **把 AI 对话沉淀为 Zettelkasten 知识库的 OpenClaw/Hermes 插件**
 

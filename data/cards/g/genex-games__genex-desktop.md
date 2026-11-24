@@ -1,6 +1,6 @@
 # genex-games/genex-desktop
 
-⭐ 906 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/genex-games/genex-desktop) · [官网](https://genex.games/desktop) · 组织维护
+⭐ 910 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/genex-games/genex-desktop) · [官网](https://genex.games/desktop) · 组织维护
 
 **AI 原生游戏开发的桌面应用：Agent 自动搭引擎、写游戏并试玩**
 

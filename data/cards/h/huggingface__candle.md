@@ -1,6 +1,6 @@
 # huggingface/candle
 
-⭐ 21,382 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/huggingface/candle) · 组织维护
+⭐ 21,394 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/candle) · 组织维护
 
 **面向 Rust 开发者的极简机器学习框架，支持 GPU 与浏览器推理**
 

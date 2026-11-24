@@ -1,6 +1,6 @@
 # LibrePhotos/librephotos
 
-⭐ 8,182 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LibrePhotos/librephotos) · [官网](https://docs.librephotos.com/) · 组织维护
+⭐ 8,183 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LibrePhotos/librephotos) · [官网](https://docs.librephotos.com/) · 组织维护
 
 **自托管开源照片管理服务，提供人脸识别与语义搜索**
 

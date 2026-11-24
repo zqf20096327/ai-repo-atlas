@@ -1,6 +1,6 @@
 # CCOSTAN/Home-AssistantConfig
 
-⭐ 5,332 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/CCOSTAN/Home-AssistantConfig) · [官网](https://www.vCloudInfo.com) · 个人维护
+⭐ 5,335 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/CCOSTAN/Home-AssistantConfig) · [官网](https://www.vCloudInfo.com) · 个人维护
 
 **个人智能家居 Home Assistant 配置与文档分享**
 

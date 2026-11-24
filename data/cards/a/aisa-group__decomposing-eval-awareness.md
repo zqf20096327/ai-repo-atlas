@@ -1,6 +1,6 @@
 # aisa-group/decomposing-eval-awareness
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/aisa-group/decomposing-eval-awareness) · [官网](https://arxiv.org/abs/2605.23055) · 组织维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/aisa-group/decomposing-eval-awareness) · [官网](https://arxiv.org/abs/2605.23055) · 组织维护
 
 **评测意识研究代码与 EvalAwareBench 基准：测量模型是否识别自己在被评测**
 

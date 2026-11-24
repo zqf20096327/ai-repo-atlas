@@ -1,6 +1,6 @@
 # esa/pygmo2
 
-⭐ 547 · C++ · MPL-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/esa/pygmo2) · [官网](https://esa.github.io/pygmo2/) · 组织维护
+⭐ 548 · C++ · MPL-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/esa/pygmo2) · [官网](https://esa.github.io/pygmo2/) · 组织维护
 
 **面向科研的 Python 大规模并行优化库**
 

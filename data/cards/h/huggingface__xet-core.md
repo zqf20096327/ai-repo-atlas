@@ -1,6 +1,6 @@
 # huggingface/xet-core
 
-⭐ 637 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/xet-core) · 组织维护
+⭐ 637 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/xet-core) · 组织维护
 
 **Hugging Face Hub 的 Xet 存储客户端，支撑 hf_hub 上传下载**
 

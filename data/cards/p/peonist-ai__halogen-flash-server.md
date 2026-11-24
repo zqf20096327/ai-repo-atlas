@@ -1,6 +1,6 @@
 # peonist-ai/halogen-flash-server
 
-⭐ 1,417 · Shell · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/peonist-ai/halogen-flash-server) · [官网](https://peonist.ai/halogen/) · 组织维护
+⭐ 1,424 · Shell · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/peonist-ai/halogen-flash-server) · [官网](https://peonist.ai/halogen/) · 组织维护
 
 **为开发者在 AMD Strix Halo 上本地运行 Qwen3.8 的推理服务器**
 

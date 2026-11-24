@@ -1,6 +1,6 @@
 # DevDock-AI/Speedy
 
-⭐ 137 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/DevDock-AI/Speedy) · 组织维护
+⭐ 140 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/DevDock-AI/Speedy) · 组织维护
 
 **在消费级 RTX 3080 上运行 125B MoE 模型长上下文推理的引擎（Strata 分支）**
 

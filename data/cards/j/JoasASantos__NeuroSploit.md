@@ -1,6 +1,6 @@
 # JoasASantos/NeuroSploit
 
-⭐ 1,550 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JoasASantos/NeuroSploit) · [官网](https://neurosploitai.github.io/) · 个人维护
+⭐ 1,558 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JoasASantos/NeuroSploit) · [官网](https://neurosploitai.github.io/) · 个人维护
 
 **授权渗透测试的自主化 Rust 编排框架，多模型验证产出报告**
 

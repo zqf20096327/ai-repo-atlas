@@ -1,6 +1,6 @@
 # nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc
 
-⭐ 41 · 推送 2026-11-16 · [GitHub](https://github.com/nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 62 · 推送 2026-11-16 · [GitHub](https://github.com/nooxebas-sketch/virtual-card-usdt-gemini-nano-banana-edge-applepay-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向独立开发者的虚拟卡+USDT+Apple Pay 跨境支付方案推广页**
 

@@ -1,6 +1,6 @@
 # asimov-platform/asimov-cli
 
-⭐ 27 · Rust · Unlicense · 推送 2026-11-16 · [GitHub](https://github.com/asimov-platform/asimov-cli) · [官网](https://crates.io/crates/asimov-cli) · 组织维护
+⭐ 27 · Rust · Unlicense · 推送 2026-11-23 · [GitHub](https://github.com/asimov-platform/asimov-cli) · [官网](https://crates.io/crates/asimov-cli) · 组织维护
 
 **面向 AI agent 的 ASIMOV 模块/资源管理命令行工具**
 

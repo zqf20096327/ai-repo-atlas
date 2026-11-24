@@ -1,6 +1,6 @@
 # zjunlp/LightThinker
 
-⭐ 166 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/zjunlp/LightThinker) · 组织维护 · 中文 README
+⭐ 167 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/zjunlp/LightThinker) · 组织维护 · 中文 README
 
 **面向研究者的 LLM 推理压缩与记忆管理方法代码库**
 

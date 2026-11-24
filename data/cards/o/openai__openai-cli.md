@@ -1,6 +1,6 @@
 # openai/openai-cli
 
-⭐ 1,182 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openai/openai-cli) · 组织维护
+⭐ 1,182 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-cli) · 组织维护
 
 **开发者的 OpenAI API 官方命令行工具**
 

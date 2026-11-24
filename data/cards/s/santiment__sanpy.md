@@ -1,6 +1,6 @@
 # santiment/sanpy
 
-⭐ 114 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/santiment/sanpy) · 组织维护
+⭐ 114 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/santiment/sanpy) · 组织维护
 
 **Santiment API 的 Python 客户端：获取 3000+ 加密资产数据**
 

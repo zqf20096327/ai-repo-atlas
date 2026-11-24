@@ -1,6 +1,6 @@
 # PaulDuvall/ai-development-patterns
 
-⭐ 682 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/PaulDuvall/ai-development-patterns) · [官网](https://paulduvall.github.io/ai-development-patterns/) · 个人维护
+⭐ 684 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PaulDuvall/ai-development-patterns) · [官网](https://paulduvall.github.io/ai-development-patterns/) · 个人维护
 
 **面向团队用 AI 辅助开发软件的模式目录**
 

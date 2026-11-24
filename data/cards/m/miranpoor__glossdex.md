@@ -1,6 +1,6 @@
 # miranpoor/glossdex
 
-⭐ 6 · Python · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/miranpoor/glossdex) · [官网](https://memoyad.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地照片/文档语义搜索：按证据支持度决定返回几条或不返回**
 
@@ -11,7 +11,7 @@ glossdex 对文件夹内的照片与文档做私有语义搜索：本地模型�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

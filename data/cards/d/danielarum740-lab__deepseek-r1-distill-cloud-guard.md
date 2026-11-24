@@ -1,6 +1,6 @@
 # danielarum740-lab/deepseek-r1-distill-cloud-guard
 
-⭐ 70 · 推送 2026-11-06 · [GitHub](https://github.com/danielarum740-lab/deepseek-r1-distill-cloud-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 92 · 推送 2026-11-06 · [GitHub](https://github.com/danielarum740-lab/deepseek-r1-distill-cloud-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **海外 GPU 租用扣费熔断方案：CoreGold 商用卡限额止损**
 

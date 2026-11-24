@@ -1,6 +1,6 @@
 # Rayyan9477/linkedin_mcp
 
-⭐ 28 · Python · 推送 2026-03-15 · [GitHub](https://github.com/Rayyan9477/linkedin_mcp) · 个人维护
+⭐ 29 · Python · 推送 2026-03-15 · [GitHub](https://github.com/Rayyan9477/linkedin_mcp) · 个人维护
 
 **让 AI 助手操作 LinkedIn 的 MCP 服务器：求职搜索与文档生成**
 

@@ -1,6 +1,6 @@
 # damione1/souffle
 
-⭐ 27 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/damione1/souffle) · [官网](usesouffle.app) · 个人维护
+⭐ 27 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/damione1/souffle) · [官网](usesouffle.app) · 个人维护
 
 **macOS 全本地会议转录与听写应用，录音不离开本机**
 

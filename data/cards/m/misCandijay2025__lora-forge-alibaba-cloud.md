@@ -1,6 +1,6 @@
 # misCandijay2025/lora-forge-alibaba-cloud
 
-⭐ 57 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/misCandijay2025/lora-forge-alibaba-cloud) · 个人维护
+⭐ 57 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/misCandijay2025/lora-forge-alibaba-cloud) · 个人维护
 
 **LoRA 训练容器的自动化构建与阿里云镜像推送流水线**
 

@@ -1,6 +1,6 @@
 # unitagain/TideScope
 
-⭐ 29 · Python · 推送 2025-11-27 · [GitHub](https://github.com/unitagain/TideScope) · [官网](https://github.com/unitagain/TideScope#readme) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **扫描 GitHub 仓库生成贡献者指南与技术债务星图的开源协作工具**
 

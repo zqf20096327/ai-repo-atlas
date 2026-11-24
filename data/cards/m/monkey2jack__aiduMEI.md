@@ -1,6 +1,6 @@
 # monkey2jack/aiduMEI
 
-⭐ 21 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/monkey2jack/aiduMEI) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/monkey2jack/aiduMEI) · 个人维护 · 中文 README
 
 **给 AI Agent 用的单机自托管长期记忆引擎**
 

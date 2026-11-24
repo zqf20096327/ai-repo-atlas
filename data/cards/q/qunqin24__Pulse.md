@@ -1,6 +1,6 @@
 # qunqin24/Pulse
 
-⭐ 646 · Swift · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/qunqin24/Pulse) · [官网](https://github.com/qunqin24/Pulse/releases/latest) · 个人维护 · 中文 README
+⭐ 646 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/qunqin24/Pulse) · [官网](https://github.com/qunqin24/Pulse/releases/latest) · 个人维护 · 中文 README
 
 **屏幕边缘显示 78 个 AI 编码工具用量额度的 macOS 监控**
 

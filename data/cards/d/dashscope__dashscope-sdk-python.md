@@ -1,6 +1,6 @@
 # dashscope/dashscope-sdk-python
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dashscope/dashscope-sdk-python) · [官网](https://dashscope.github.io/dashscope-sdk-python/) · 组织维护 · 中文 README
+⭐ 82 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dashscope/dashscope-sdk-python) · [官网](https://dashscope.github.io/dashscope-sdk-python/) · 组织维护 · 中文 README
 
 **阿里云百炼 DashScope 官方 Python SDK，调用各类模型 API**
 

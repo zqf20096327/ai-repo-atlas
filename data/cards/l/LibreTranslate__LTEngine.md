@@ -1,6 +1,6 @@
 # LibreTranslate/LTEngine
 
-⭐ 214 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/LibreTranslate/LTEngine) · 组织维护
+⭐ 215 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/LibreTranslate/LTEngine) · 组织维护
 
 **本地 LLM 机器翻译 API 服务，兼容 LibreTranslate 接口**
 

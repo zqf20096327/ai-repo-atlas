@@ -1,6 +1,6 @@
 # tokenfanpage1/ai--manus
 
-⭐ 177 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tokenfanpage1/ai--manus) · 个人维护
+⭐ 173 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tokenfanpage1/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 

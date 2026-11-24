@@ -1,6 +1,6 @@
 # ankitjha67/JARVIS
 
-⭐ 11 · Python · 推送 2026-11-22 · [GitHub](https://github.com/ankitjha67/JARVIS) · 个人维护
+⭐ 28 · Python · 推送 2026-11-22 · [GitHub](https://github.com/ankitjha67/JARVIS) · 个人维护
 
 **Windows 个人 AI 桌面助手：语音控制 + 164 工具操作电脑**
 

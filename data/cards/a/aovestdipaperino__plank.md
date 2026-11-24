@@ -1,6 +1,6 @@
 # aovestdipaperino/plank
 
-⭐ 37 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aovestdipaperino/plank) · [官网](https://plank-agent.dev) · 个人维护
+⭐ 37 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aovestdipaperino/plank) · [官网](https://plank-agent.dev) · 个人维护
 
 **macOS 本地运行 DeepSeek 等模型的终端编程 agent**
 

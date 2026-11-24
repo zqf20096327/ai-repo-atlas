@@ -1,6 +1,6 @@
 # Xander-Xai/Customer-Service-AI-Agent
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Xander-Xai/Customer-Service-AI-Agent) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **企业客服多智能体 Agent 参考实现：双路径执行+人工审批治理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

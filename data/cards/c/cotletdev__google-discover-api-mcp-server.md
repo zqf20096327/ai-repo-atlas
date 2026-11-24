@@ -1,6 +1,6 @@
 # cotletdev/google-discover-api-mcp-server
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/google-discover-api-mcp-server) · [官网](https://cotlet.dev/integrations/google-discover-api-mcp-server) · 个人维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/google-discover-api-mcp-server) · [官网](https://cotlet.dev/integrations/google-discover-api-mcp-server) · 个人维护
 
 **让 AI 助手读取 Google Discover 信息流的 MCP 服务器与 API**
 

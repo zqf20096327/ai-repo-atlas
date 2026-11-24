@@ -1,6 +1,6 @@
 # hollisorg/iv-studio
 
-⭐ 116 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hollisorg/iv-studio) · [官网](https://infinitevariance.ai/studio) · 组织维护
+⭐ 121 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hollisorg/iv-studio) · [官网](https://infinitevariance.ai/studio) · 组织维护
 
 **本地 AI 短片制作桌面应用：固定角色演员+剪辑+语音音乐**
 

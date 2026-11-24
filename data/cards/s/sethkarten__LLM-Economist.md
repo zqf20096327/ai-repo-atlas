@@ -1,6 +1,6 @@
 # sethkarten/LLM-Economist
 
-⭐ 129 · Python · MIT · 推送 2026-03-11 · [GitHub](https://github.com/sethkarten/LLM-Economist) · 组织维护
+⭐ 129 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sethkarten/LLM-Economist) · 组织维护
 
 **科研框架：用 LLM 驱动多智能体经济模拟研究税收机制设计**
 

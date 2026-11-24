@@ -1,6 +1,6 @@
 # packstub/filament-agents
 
-⭐ 14 · PHP · MIT · 推送 2026-11-21 · [GitHub](https://github.com/packstub/filament-agents) · [官网](https://packstub.dev/plugins/filament-agents) · 组织维护
+⭐ 14 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/packstub/filament-agents) · [官网](https://packstub.dev/plugins/filament-agents) · 组织维护
 
 **为 Filament v5 面板提供内置 AI 助手与 MCP 服务器的 Laravel 插件**
 

@@ -1,6 +1,6 @@
 # l0ng-ai/papr
 
-⭐ 597 · Rust · MIT · 推送 2026-09-23 · [GitHub](https://github.com/l0ng-ai/papr) · 个人维护 · 中文 README
+⭐ 599 · Rust · MIT · 推送 2026-09-23 · [GitHub](https://github.com/l0ng-ai/papr) · 个人维护 · 中文 README
 
 **带 AI 摘要与 Agent CLI 的本地 RSS 阅读器**
 

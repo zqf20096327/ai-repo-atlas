@@ -1,6 +1,6 @@
 # daytona/clients
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/daytona/clients) · [官网](https://daytona.io) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/daytona/clients) · [官网](https://daytona.io) · 组织维护
 
 **Daytona 平台的官方 SDK、API 客户端与 CLI/MCP 工具集**
 

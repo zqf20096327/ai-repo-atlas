@@ -1,6 +1,6 @@
 # holoviz/lumen
 
-⭐ 362 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/holoviz/lumen) · [官网](https://lumen.holoviz.org/) · 组织维护
+⭐ 368 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/holoviz/lumen) · [官网](https://lumen.holoviz.org/) · 组织维护
 
 **开源 Agent 框架：自然语言生成 SQL、图表与仪表盘**
 

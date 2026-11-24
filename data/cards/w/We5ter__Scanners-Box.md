@@ -1,6 +1,6 @@
 # We5ter/Scanners-Box
 
-⭐ 9,225 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/We5ter/Scanners-Box) · [官网](https://we5ter.github.io/ai-tools/) · 个人维护 · 中文 README
+⭐ 9,226 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/We5ter/Scanners-Box) · [官网](https://we5ter.github.io/ai-tools/) · 个人维护 · 中文 README
 
 **面向极客、企业与 AI 智能体的开源安全工具矩阵清单**
 

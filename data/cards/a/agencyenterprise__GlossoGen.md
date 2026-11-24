@@ -1,6 +1,6 @@
 # agencyenterprise/GlossoGen
 
-⭐ 28 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/agencyenterprise/GlossoGen) · [官网](https://agencyenterprise.github.io/GlossoGen/) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/agencyenterprise/GlossoGen) · [官网](https://agencyenterprise.github.io/GlossoGen/) · 组织维护
 
 **运行多 LLM agent 团队受控实验的平台**
 

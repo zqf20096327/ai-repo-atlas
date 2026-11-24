@@ -1,6 +1,6 @@
 # WenyuChiou/awesome-agentic-ai-zh
 
-⭐ 8,853 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) · [官网](https://wenyuchiou.github.io/awesome-agentic-ai-zh/) · 个人维护 · 中文 README
+⭐ 8,855 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/WenyuChiou/awesome-agentic-ai-zh) · [官网](https://wenyuchiou.github.io/awesome-agentic-ai-zh/) · 个人维护 · 中文 README
 
 **面向中文学习者的 AI Agent 三语学习路线图与资源清单**
 

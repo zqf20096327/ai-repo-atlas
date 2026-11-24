@@ -1,6 +1,6 @@
 # EndlessBlueWJL/schengen-visa-guide
 
-⭐ 33 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/EndlessBlueWJL/schengen-visa-guide) · 个人维护 · 中文 README
+⭐ 34 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/EndlessBlueWJL/schengen-visa-guide) · 个人维护 · 中文 README
 
 **面向中国护照持有者的申根签证 AI Agent 技能**
 

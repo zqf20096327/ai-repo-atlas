@@ -1,6 +1,6 @@
 # thu-pacman/chitu
 
-⭐ 3,006 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/thu-pacman/chitu) · [官网](https://chitu.ai/) · 组织维护 · 中文 README
+⭐ 3,006 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/thu-pacman/chitu) · [官网](https://chitu.ai/) · 组织维护 · 中文 README
 
 **面向生产环境的大模型推理引擎，支持多元算力与集群部署**
 

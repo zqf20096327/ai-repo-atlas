@@ -1,6 +1,6 @@
 # Pacoaldev/Nox9Go
 
-⭐ 7 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Pacoaldev/Nox9Go) · 个人维护
+⭐ 7 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Pacoaldev/Nox9Go) · 个人维护
 
 **面向开发者的轻量 LLM 网关：统一接入多提供商与配额**
 

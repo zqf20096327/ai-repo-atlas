@@ -1,6 +1,6 @@
 # GladLuter/Alethite
 
-⭐ 3 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/GladLuter/Alethite) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GladLuter/Alethite) · 个人维护
 
 **Windows 下 Claude Code 插件：发送前看价格、聊天交接与本地记忆**
 

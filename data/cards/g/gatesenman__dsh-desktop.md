@@ -1,6 +1,6 @@
 # gatesenman/dsh-desktop
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gatesenman/dsh-desktop) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gatesenman/dsh-desktop) · 个人维护 · 中文 README
 
 **DeepSeek Harness (dsh) 的非官方桌面客户端，免命令行一键启动**
 

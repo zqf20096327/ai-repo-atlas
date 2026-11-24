@@ -1,6 +1,6 @@
 # BeterXie/ai_price_radar
 
-⭐ 37 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BeterXie/ai_price_radar) · [官网](https://ai.pricememo.cn/) · 个人维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BeterXie/ai_price_radar) · [官网](https://ai.pricememo.cn/) · 个人维护 · 中文 README
 
 **面向 AI 订阅商品的公开报价聚合与比价平台**
 

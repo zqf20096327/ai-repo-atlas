@@ -1,6 +1,6 @@
 # google/langextract
 
-⭐ 39,348 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/google/langextract) · [官网](https://pypi.org/project/langextract/) · 组织维护
+⭐ 39,352 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/google/langextract) · [官网](https://pypi.org/project/langextract/) · 组织维护
 
 **用 LLM 从非结构化文本提取结构化信息并溯源的 Python 库**
 

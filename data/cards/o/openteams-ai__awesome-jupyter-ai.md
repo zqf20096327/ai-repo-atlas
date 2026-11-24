@@ -1,6 +1,6 @@
 # openteams-ai/awesome-jupyter-ai
 
-⭐ 12 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/openteams-ai/awesome-jupyter-ai) · 组织维护
+⭐ 12 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/openteams-ai/awesome-jupyter-ai) · 组织维护
 
 **JupyterLab/Notebook 7 的 AI 扩展策展清单（百余条）**
 

@@ -1,6 +1,6 @@
 # google/adk-go
 
-⭐ 8,990 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google/adk-go) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 8,999 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google/adk-go) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **Go 代码优先的 AI agent 构建工具包**
 

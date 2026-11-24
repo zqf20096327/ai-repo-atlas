@@ -1,6 +1,6 @@
 # lmitechnologies/LMI_AI_Solutions
 
-⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lmitechnologies/LMI_AI_Solutions) · [官网](https://lmi3d.com/factorysmart-ai-solutions-home/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lmitechnologies/LMI_AI_Solutions) · [官网](https://lmi3d.com/factorysmart-ai-solutions-home/) · 组织维护
 
 **LMI 公司的工业 AI 模型工具库：目标检测/异常检测/分类**
 

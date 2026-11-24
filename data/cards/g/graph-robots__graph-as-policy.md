@@ -1,6 +1,6 @@
 # graph-robots/graph-as-policy
 
-⭐ 220 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/graph-robots/graph-as-policy) · 组织维护
+⭐ 222 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/graph-robots/graph-as-policy) · 组织维护
 
 **把自然语言任务编译为经验证的机器人技能图并执行**
 

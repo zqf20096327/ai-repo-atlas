@@ -1,6 +1,6 @@
 # 54yyyu/zotero-mcp
 
-⭐ 6,030 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/54yyyu/zotero-mcp) · [官网](https://stevenyuyy.com/zotero-mcp/) · 个人维护
+⭐ 6,039 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/54yyyu/zotero-mcp) · [官网](https://stevenyuyy.com/zotero-mcp/) · 个人维护
 
 **通过 MCP 将 Zotero 文献库接入 Claude/ChatGPT 等 AI 助手**
 

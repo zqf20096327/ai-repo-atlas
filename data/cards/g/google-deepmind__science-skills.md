@@ -1,6 +1,6 @@
 # google-deepmind/science-skills
 
-⭐ 3,514 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/google-deepmind/science-skills) · [官网](https://antigravity.google/use-cases/science) · 组织维护
+⭐ 3,521 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/google-deepmind/science-skills) · [官网](https://antigravity.google/use-cases/science) · 组织维护
 
 **科研 agent 技能集：基因组/结构生物/文献检索等任务**
 

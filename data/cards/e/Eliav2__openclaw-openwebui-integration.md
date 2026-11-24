@@ -1,6 +1,6 @@
 # Eliav2/openclaw-openwebui-integration
 
-⭐ 16 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Eliav2/openclaw-openwebui-integration) · [官网](https://eliav2.github.io/openclaw-openwebui-integration/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Eliav2/openclaw-openwebui-integration) · [官网](https://eliav2.github.io/openclaw-openwebui-integration/) · 个人维护
 
 **将 OpenClaw agent 接入 Open WebUI 的对话集成组件**
 

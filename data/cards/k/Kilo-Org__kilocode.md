@@ -1,6 +1,6 @@
 # Kilo-Org/kilocode
 
-⭐ 28,087 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Kilo-Org/kilocode) · [官网](https://kilo.ai/) · 组织维护
+⭐ 28,099 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Kilo-Org/kilocode) · [官网](https://kilo.ai/) · 组织维护
 
 **面向开发者的开源 AI 编码代理，覆盖 VS Code、JetBrains 与 CLI**
 

@@ -1,6 +1,6 @@
 # maiobarbero/laravel-boost-ddd
 
-⭐ 11 · PHP · MIT · 推送 2026-10-27 · [GitHub](https://github.com/maiobarbero/laravel-boost-ddd) · [官网](https://packagist.org/packages/maiobarbero/laravel-boost-ddd) · 个人维护
+⭐ 11 · PHP · MIT · 推送 2026-11-24 · [GitHub](https://github.com/maiobarbero/laravel-boost-ddd) · [官网](https://packagist.org/packages/maiobarbero/laravel-boost-ddd) · 个人维护
 
 **给 Laravel 编码 agent 的 DDD 架构规则与技能包**
 

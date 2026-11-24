@@ -1,6 +1,6 @@
 # MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning
 
-⭐ 18,563 · MATLAB · 推送 2026-11-10 · [GitHub](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) · 组织维护 · 中文 README
+⭐ 18,572 · MATLAB · 推送 2026-11-23 · [GitHub](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) · 组织维护 · 中文 README
 
 **给强化学习学习者提供数学基础教材及配套课程资源**
 

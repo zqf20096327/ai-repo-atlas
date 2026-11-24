@@ -1,6 +1,6 @@
 # CarlDog/openchronicle-mcp
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/CarlDog/openchronicle-mcp) · 个人维护
+⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/CarlDog/openchronicle-mcp) · 个人维护
 
 **面向 LLM agent 的持久记忆数据库，REST+MCP 双通道服务**
 

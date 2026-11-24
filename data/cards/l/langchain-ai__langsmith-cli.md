@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-cli
 
-⭐ 81 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/langchain-ai/langsmith-cli) · 组织维护
+⭐ 81 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/langsmith-cli) · 组织维护
 
 **面向 AI 编程代理的 LangSmith 资源查询管理 CLI**
 

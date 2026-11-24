@@ -1,6 +1,6 @@
 # Zhengyuuuui/workbuddy2api
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Zhengyuuuui/workbuddy2api) · 个人维护 · 中文 README
+⭐ 30 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Zhengyuuuui/workbuddy2api) · 个人维护 · 中文 README
 
 **CodeBuddy/WorkBuddy 反代网关：转 OpenAI/Anthropic 协议供本地客户端调用**
 

@@ -1,6 +1,6 @@
 # skrrt-sh/motty-sdk
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/skrrt-sh/motty-sdk) · 个人维护
+⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/skrrt-sh/motty-sdk) · 个人维护
 
 **用 TypeScript 写模型逻辑的 LLM 网关/中间层 SDK**
 

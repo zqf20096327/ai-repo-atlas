@@ -1,6 +1,6 @@
 # 0xcd21h/borg-commander
 
-⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/0xcd21h/borg-commander) · [官网](https://0xcd21h.github.io/borg-commander/) · 个人维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/0xcd21h/borg-commander) · [官网](https://0xcd21h.github.io/borg-commander/) · 个人维护
 
 **面向 macOS/Linux 的双栏文件管理器，内嵌 shell 并支持 AI 代理远程接入**
 

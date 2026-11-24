@@ -1,6 +1,6 @@
 # No-Country-simulation/G10-BRASIL-equipo-26
 
-⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/No-Country-simulation/G10-BRASIL-equipo-26) · [官网](https://mentoria-tech-ai.streamlit.app) · 组织维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/No-Country-simulation/G10-BRASIL-equipo-26) · [官网](https://mentoria-tech.streamlit.app/) · 组织维护
 
 **把技术文档转成个性化学习材料的 RAG 教育平台**
 

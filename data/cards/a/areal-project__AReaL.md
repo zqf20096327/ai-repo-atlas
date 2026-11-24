@@ -1,6 +1,6 @@
 # areal-project/AReaL
 
-⭐ 5,928 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/areal-project/AReaL) · [官网](https://areal-ai.io) · 组织维护 · 中文 README
+⭐ 5,930 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/areal-project/AReaL) · [官网](https://areal-ai.io) · 组织维护 · 中文 README
 
 **面向 LLM Agent 应用的强化学习训练基础设施**
 

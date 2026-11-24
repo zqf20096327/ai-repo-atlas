@@ -1,6 +1,6 @@
 # localixai/localix-studio
 
-⭐ 76 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/localixai/localix-studio) · [官网](https://studio.localix.ai) · 组织维护
+⭐ 76 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/localixai/localix-studio) · [官网](https://studio.localix.ai) · 组织维护
 
 **桌面端 agent 开发环境：自带 agent 与子 agent，任意模型**
 

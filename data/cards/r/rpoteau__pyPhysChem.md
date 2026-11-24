@@ -1,6 +1,6 @@
 # rpoteau/pyPhysChem
 
-⭐ 14 · Jupyter Notebook · 推送 2026-11-22 · [GitHub](https://github.com/rpoteau/pyPhysChem) · 个人维护
+⭐ 15 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/rpoteau/pyPhysChem) · 个人维护
 
 **物理化学教学用 Jupyter notebook 集合，含化学 ML 示例**
 

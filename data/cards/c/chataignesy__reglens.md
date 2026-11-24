@@ -1,6 +1,6 @@
 # chataignesy/reglens
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chataignesy/reglens) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chataignesy/reglens) · 个人维护
 
 **面向欧盟信用风险监管的带引用 RAG 问答助手**
 

@@ -1,6 +1,6 @@
 # 657kbps/quota-widget
 
-⭐ 18 · Kotlin · 推送 2026-11-17 · [GitHub](https://github.com/657kbps/quota-widget) · 个人维护 · 中文 README
+⭐ 18 · Kotlin · 推送 2026-11-23 · [GitHub](https://github.com/657kbps/quota-widget) · 个人维护 · 中文 README
 
 **Android 桌面小组件：一眼查看 AI API 余额与用量**
 

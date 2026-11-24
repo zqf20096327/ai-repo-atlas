@@ -1,6 +1,6 @@
 # mohitahlawat2001/ApothecaryShop
 
-⭐ 33 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mohitahlawat2001/ApothecaryShop) · [官网](https://apothecary-shop.vercel.app) · 个人维护
+⭐ 33 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mohitahlawat2001/ApothecaryShop) · [官网](https://apothecary-shop.vercel.app) · 个人维护
 
 **面向药房/医院的药品库存与采购分销管理系统（MERN）**
 

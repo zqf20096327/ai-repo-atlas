@@ -1,6 +1,6 @@
 # ilien-dev/quiron
 
-⭐ 67 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ilien-dev/quiron) · [官网](https://quiron.ilien.dev/) · 个人维护
+⭐ 68 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ilien-dev/quiron) · [官网](https://quiron.ilien.dev/) · 个人维护
 
 **给 Claude Code/Codex/Cursor 用户的 AI 文本人性化技能：去 AI 腔并量化测量**
 

@@ -1,6 +1,6 @@
 # ronitgupta138/Vectra-Core
 
-⭐ 65 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ronitgupta138/Vectra-Core) · 个人维护
+⭐ 65 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ronitgupta138/Vectra-Core) · 个人维护
 
 **Java 21 实现的内存向量搜索引擎与 HNSW ANN 图索引**
 

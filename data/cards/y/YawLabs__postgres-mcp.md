@@ -1,6 +1,6 @@
 # YawLabs/postgres-mcp
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YawLabs/postgres-mcp) · [官网](https://yaw.sh/mcp-servers/postgres-mcp/) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/YawLabs/postgres-mcp) · [官网](https://yaw.sh/mcp-servers/postgres-mcp/) · 组织维护
 
 **面向 AI agent 的 PostgreSQL MCP 服务器：查询、检查、诊断数据库**
 

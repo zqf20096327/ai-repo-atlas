@@ -1,6 +1,6 @@
 # lancedb/lancedb
 
-⭐ 11,968 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lancedb/lancedb) · [官网](https://lancedb.com/docs) · 组织维护
+⭐ 11,973 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/lancedb/lancedb) · [官网](https://lancedb.com/docs) · 组织维护
 
 **面向多模态 AI 应用的嵌入式向量检索数据库**
 

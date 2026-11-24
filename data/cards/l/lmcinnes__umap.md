@@ -1,6 +1,6 @@
 # lmcinnes/umap
 
-⭐ 8,339 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/lmcinnes/umap) · [官网](https://umap-learn.readthedocs.io) · 个人维护
+⭐ 8,340 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/lmcinnes/umap) · [官网](https://umap-learn.readthedocs.io) · 个人维护
 
 **面向数据科学者的非线性降维与可视化 Python 库**
 

@@ -1,6 +1,6 @@
 # trvon/yams
 
-⭐ 372 · C++ · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/trvon/yams) · [官网](https://yamsmemory.ai/) · 个人维护
+⭐ 372 · C++ · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/trvon/yams) · [官网](https://yamsmemory.ai/) · 个人维护
 
 **面向 LLM 与本地应用的持久化内容寻址记忆存储**
 

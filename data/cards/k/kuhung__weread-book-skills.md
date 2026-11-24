@@ -1,6 +1,6 @@
 # kuhung/weread-book-skills
 
-⭐ 12 · Shell · MIT · 推送 2026-07-18 · [GitHub](https://github.com/kuhung/weread-book-skills) · 个人维护 · 中文 README
+⭐ 13 · Shell · MIT · 推送 2026-07-18 · [GitHub](https://github.com/kuhung/weread-book-skills) · 个人维护 · 中文 README
 
 **把微信读书笔记编译成可挂载的 AI Agent 技能**
 

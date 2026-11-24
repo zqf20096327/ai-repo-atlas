@@ -1,6 +1,6 @@
 # gaudot/SlicerDentalSegmentator
 
-⭐ 202 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/gaudot/SlicerDentalSegmentator) · 组织维护
+⭐ 203 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/gaudot/SlicerDentalSegmentator) · 组织维护
 
 **3D Slicer 扩展：CT/CBCT 牙科体数据全自动分割**
 

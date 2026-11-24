@@ -1,6 +1,6 @@
 # BindsNET/bindsnet
 
-⭐ 1,707 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/BindsNET/bindsnet) · 组织维护
+⭐ 1,707 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/BindsNET/bindsnet) · 组织维护
 
 **基于 PyTorch 的脉冲神经网络仿真库，面向 ML/RL 研究者**
 

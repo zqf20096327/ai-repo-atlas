@@ -1,6 +1,6 @@
 # theonlyamos/cognitrix
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/theonlyamos/cognitrix) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/theonlyamos/cognitrix) · 个人维护
 
 **开源自主 AI agent 编排框架：创建、管理并运行带工具的 agent**
 

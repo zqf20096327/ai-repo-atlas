@@ -1,6 +1,6 @@
 # FareedKhan-dev/kimi-k3-in-c
 
-⭐ 12,571 · C · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) · [官网](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · 个人维护
+⭐ 12,620 · C · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/kimi-k3-in-c) · [官网](https://medium.com/@fareedkhandev/building-kimi-k3-in-c-to-run-a-2-8t-model-on-consumer-hardware-a5792cbf3b59) · 个人维护
 
 **单 CPU、低内存下以纯 C99 运行 Kimi K2 671B 推理**
 

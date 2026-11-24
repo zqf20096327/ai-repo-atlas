@@ -1,6 +1,6 @@
 # jasonzliang/caesar-agent
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jasonzliang/caesar-agent) · [官网](https://jasonzliang.github.io/caesar-agent/) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jasonzliang/caesar-agent) · [官网](https://jasonzliang.github.io/caesar-agent/) · 个人维护
 
 **自主网络研究 agent：图探索+对抗式综合生成研究答案**
 

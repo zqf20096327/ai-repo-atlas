@@ -1,6 +1,6 @@
 # vvts-alpha/VERDICT
 
-⭐ 32 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/vvts-alpha/VERDICT) · 组织维护
+⭐ 32 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/vvts-alpha/VERDICT) · 组织维护
 
 **带证据核验的 AI 自动化 Web 渗透测试桌面应用**
 

@@ -1,6 +1,6 @@
 # VinkyDev/vibestart
 
-⭐ 300 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/VinkyDev/vibestart) · [官网](https://vibestart.net) · 个人维护 · 中文 README
+⭐ 300 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VinkyDev/vibestart) · [官网](https://vibestart.net) · 个人维护 · 中文 README
 
 **为 AI 编码智能体生成经验证的全栈 TypeScript 项目脚手架**
 

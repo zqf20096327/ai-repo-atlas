@@ -1,6 +1,6 @@
 # keuperj/Llameros
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/keuperj/Llameros) · [官网](https://www.llameros.org) · 组织维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/keuperj/Llameros) · [官网](https://www.llameros.org) · 组织维护
 
 **Ollama 本地模型管理器：安全共享给多用户**
 

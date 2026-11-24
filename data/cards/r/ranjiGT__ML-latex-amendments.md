@@ -1,6 +1,6 @@
 # ranjiGT/ML-latex-amendments
 
-⭐ 67 · TeX · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ranjiGT/ML-latex-amendments) · 个人维护
+⭐ 67 · TeX · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ranjiGT/ML-latex-amendments) · 个人维护
 
 **硕士级机器学习课程作业集，LaTeX 排版，含解答**
 

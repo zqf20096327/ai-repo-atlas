@@ -1,6 +1,6 @@
 # infiniflow/infinity
 
-⭐ 4,772 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/infiniflow/infinity) · [官网](https://infiniflow.org) · 组织维护
+⭐ 4,773 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/infiniflow/infinity) · [官网](https://infiniflow.org) · 组织维护
 
 **面向 LLM/RAG 应用的 AI 原生混合搜索数据库**
 

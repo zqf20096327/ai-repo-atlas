@@ -1,6 +1,6 @@
 # mlverse/mall
 
-⭐ 131 · R · 推送 2026-05-21 · [GitHub](https://github.com/mlverse/mall) · [官网](https://mlverse.github.io/mall/) · 组织维护
+⭐ 132 · R · 推送 2026-05-21 · [GitHub](https://github.com/mlverse/mall) · [官网](https://mlverse.github.io/mall/) · 组织维护
 
 **R/Python 库：对数据框逐行批量运行 LLM 预测**
 

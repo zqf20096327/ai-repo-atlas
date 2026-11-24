@@ -1,6 +1,6 @@
 # jpmorgan-payments/ai
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jpmorgan-payments/ai) · [官网](https://developer.payments.jpmorgan.com/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jpmorgan-payments/ai) · [官网](https://developer.payments.jpmorgan.com/) · 组织维护
 
 **摩根大通支付 API 的 agent 技能与 MCP 文档服务工具包**
 

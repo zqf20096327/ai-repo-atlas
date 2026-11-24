@@ -1,6 +1,6 @@
 # dovvnloading/Cortex
 
-⭐ 37 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dovvnloading/Cortex) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dovvnloading/Cortex) · 个人维护
 
 **Windows 本地优先 AI 聊天工作区，本地跑模型不外发数据**
 

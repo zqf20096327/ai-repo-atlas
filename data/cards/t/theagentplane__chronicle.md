@@ -1,6 +1,6 @@
 # theagentplane/chronicle
 
-⭐ 27 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/theagentplane/chronicle) · [官网](https://theagentplane.github.io) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/theagentplane/chronicle) · [官网](https://theagentplane.github.io) · 组织维护
 
 **Agent 决策图录制回放 SDK：无 LLM 调用复现线上失败**
 

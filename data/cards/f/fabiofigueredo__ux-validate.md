@@ -1,6 +1,6 @@
 # fabiofigueredo/ux-validate
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/fabiofigueredo/ux-validate) · [官网](https://fabiofigueredo.github.io/ux-validate/)
+⭐ 9 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fabiofigueredo/ux-validate) · [官网](https://fabiofigueredo.github.io/ux-validate/)
 
 **让 AI agent 以 persona 身份测试网页 UX 与可访问性的工具**
 

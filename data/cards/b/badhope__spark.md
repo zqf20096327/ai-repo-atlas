@@ -1,6 +1,6 @@
 # badhope/spark
 
-⭐ 30 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/badhope/spark) · [官网](https://badhope.github.io/spark/) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/badhope/spark) · [官网](https://badhope.github.io/spark/) · 个人维护 · 中文 README
 
 **本地自托管 AI 编程智能体，同一核心提供六种运行形态**
 

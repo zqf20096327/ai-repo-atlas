@@ -1,6 +1,6 @@
 # titanwings/distilly
 
-⭐ 26,779 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/titanwings/distilly) · 个人维护 · 中文 README
+⭐ 26,810 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/titanwings/distilly) · 个人维护 · 中文 README
 
 **把人物经验沉淀为可复用 Agent 技能的人物建模工具**
 

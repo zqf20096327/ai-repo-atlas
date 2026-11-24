@@ -1,6 +1,6 @@
 # hanlulong/econ-paper-review-skill
 
-⭐ 36 · Python · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/hanlulong/econ-paper-review-skill) · [官网](https://openecon.ai) · 个人维护 · 中文 README
+⭐ 37 · Python · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/hanlulong/econ-paper-review-skill) · [官网](https://openecon.ai) · 个人维护 · 中文 README
 
 **经济学论文的 AI 预审稿技能：在真实审稿人之前生成审稿报告与修改计划**
 

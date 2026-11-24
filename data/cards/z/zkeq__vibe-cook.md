@@ -1,6 +1,6 @@
 # zkeq/vibe-cook
 
-⭐ 38 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/zkeq/vibe-cook) · [官网](https://cook.corerevive.cn) · 个人维护 · 中文 README
+⭐ 40 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/zkeq/vibe-cook) · [官网](https://cook.corerevive.cn) · 个人维护 · 中文 README
 
 **沉浸式一步步烹饪 App：把 HowToCook 菜谱变成跟做体验**
 

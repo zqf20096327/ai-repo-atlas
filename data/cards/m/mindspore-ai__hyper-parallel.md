@@ -1,6 +1,6 @@
 # mindspore-ai/hyper-parallel
 
-⭐ 217 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mindspore-ai/hyper-parallel) · 组织维护 · 中文 README
+⭐ 217 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/mindspore-ai/hyper-parallel) · 组织维护 · 中文 README
 
 **面向昇腾超节点的分布式并行训练框架，服务大模型训练**
 

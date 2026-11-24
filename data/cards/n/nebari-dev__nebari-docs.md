@@ -1,6 +1,6 @@
 # nebari-dev/nebari-docs
 
-⭐ 22 · BSD-3-Clause · 推送 2026-11-12 · [GitHub](https://github.com/nebari-dev/nebari-docs) · [官网](https://www.nebari.dev) · 组织维护
+⭐ 22 · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/nebari-dev/nebari-docs) · [官网](https://www.nebari.dev) · 组织维护
 
 **团队数据科学与 MLOps 平台的文档仓库：Nebari 使用与部署说明**
 

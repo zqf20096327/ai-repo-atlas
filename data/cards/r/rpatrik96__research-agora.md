@@ -1,6 +1,6 @@
 # rpatrik96/research-agora
 
-⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rpatrik96/research-agora) · [官网](https://rpatrik96.github.io/research-agora/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rpatrik96/research-agora) · [官网](https://rpatrik96.github.io/research-agora/) · 个人维护
 
 **面向 ML 研究者的 Claude Code 技能集市：论文写作/引用核验/实验追踪技能**
 

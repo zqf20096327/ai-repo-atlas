@@ -1,6 +1,6 @@
 # pccria/logd
 
-⭐ 11 · Dart · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/pccria/logd) · [官网](https://www.pub.dev/packages/logd) · 个人维护
+⭐ 11 · Dart · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/pccria/logd) · [官网](https://www.pub.dev/packages/logd) · 个人维护
 
 **Dart/Flutter 的结构化分层日志引擎，面向开发者可观测性**
 

@@ -1,6 +1,6 @@
 # RayBytes/ChatMock
 
-⭐ 1,566 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/RayBytes/ChatMock) · 个人维护
+⭐ 1,567 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/RayBytes/ChatMock) · 个人维护
 
 **让 Codex 模型以 OpenAI/Ollama 兼容 API 供聊天工具调用的本地服务器**
 

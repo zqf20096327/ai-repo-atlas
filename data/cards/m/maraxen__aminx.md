@@ -1,6 +1,6 @@
 # maraxen/aminx
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/maraxen/aminx) · [官网](https://maraxen.github.io/aminx/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/maraxen/aminx) · [官网](https://maraxen.github.io/aminx/) · 个人维护
 
 **JAX/Equinox 重实现的 ProteinMPNN/LigandMPNN 蛋白序列设计库**
 

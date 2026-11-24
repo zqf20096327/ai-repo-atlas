@@ -1,6 +1,6 @@
 # iammrduncan/tensorless
 
-⭐ 4 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/iammrduncan/tensorless) · [官网](https://tensorless.dev) · 个人维护
+⭐ 5 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/iammrduncan/tensorless) · [官网](https://tensorless.dev) · 个人维护
 
 **面向 Tesla P100 显卡的一命令量化 LLM 推理引擎**
 

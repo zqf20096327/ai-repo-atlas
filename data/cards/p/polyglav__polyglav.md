@@ -1,6 +1,6 @@
 # polyglav/polyglav
 
-⭐ 20 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/polyglav/polyglav) · [官网](https://polyglav.github.io/polyglav/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/polyglav/polyglav) · [官网](https://polyglav.github.io/polyglav/) · 个人维护
 
 **终端里的多智能体任务编排 AI 助手**
 

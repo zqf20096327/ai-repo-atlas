@@ -1,6 +1,6 @@
 # wangyuchen5110/opencodeplugginprogram
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/wangyuchen5110/opencodeplugginprogram) · [官网](https://github.com/marketplace/actions/skills-doctor) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wangyuchen5110/opencodeplugginprogram) · [官网](https://github.com/marketplace/actions/skills-doctor) · 个人维护 · 中文 README
 
 **审计 agent skills 隐藏 token 成本的本地 CLI 工具**
 

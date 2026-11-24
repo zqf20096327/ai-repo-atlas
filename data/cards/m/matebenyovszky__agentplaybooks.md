@@ -1,6 +1,6 @@
 # matebenyovszky/agentplaybooks
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/matebenyovszky/agentplaybooks) · [官网](https://agentplaybooks.ai/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/matebenyovszky/agentplaybooks) · [官网](https://agentplaybooks.ai/) · 个人维护
 
 **AI agent 配置的可移植 playbook：一处存储，多平台同步**
 

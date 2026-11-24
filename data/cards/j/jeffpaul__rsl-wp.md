@@ -1,6 +1,6 @@
 # jeffpaul/rsl-wp
 
-⭐ 35 · PHP · 推送 2026-11-03 · [GitHub](https://github.com/jeffpaul/rsl-wp) · 个人维护
+⭐ 35 · PHP · 推送 2026-11-23 · [GitHub](https://github.com/jeffpaul/rsl-wp) · 个人维护
 
 **WordPress 插件：为站点内容定义机器可读的 RSL 许可条款**
 

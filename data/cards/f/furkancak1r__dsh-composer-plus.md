@@ -1,6 +1,6 @@
 # furkancak1r/dsh-composer-plus
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/furkancak1r/dsh-composer-plus) · [官网](https://www.npmjs.com/package/dsh-composer-plus) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **DeepSeek Harness (dsh) 的社区插件：为 coding agent 界面补足一批操作功能**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

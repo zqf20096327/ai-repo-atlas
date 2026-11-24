@@ -1,6 +1,6 @@
 # UmTioAii/ASTRO-Harness
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/UmTioAii/ASTRO-Harness) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/UmTioAii/ASTRO-Harness) · 个人维护
 
 **本地终端优先的多 agent 编码 harness：路由、审计、成本治理**
 

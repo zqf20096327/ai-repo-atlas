@@ -1,6 +1,6 @@
 # JL-GUO/skill-siphon
 
-⭐ 29 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JL-GUO/skill-siphon) · 个人维护 · 中文 README
+⭐ 30 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JL-GUO/skill-siphon) · 个人维护 · 中文 README
 
 **把高星 Agent Skill 提炼为可学习资料的技能工具**
 

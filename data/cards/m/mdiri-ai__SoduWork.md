@@ -1,6 +1,6 @@
 # mdiri-ai/SoduWork
 
-⭐ 6,810 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mdiri-ai/SoduWork) · [官网](https://www.soduwork.ai) · 组织维护 · 中文 README
+⭐ 7,051 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mdiri-ai/SoduWork) · [官网](https://www.soduwork.ai) · 组织维护 · 中文 README
 
 **团队自托管的多 harness 多 agent 协作引擎**
 

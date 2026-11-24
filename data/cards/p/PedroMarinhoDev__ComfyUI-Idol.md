@@ -1,6 +1,6 @@
 # PedroMarinhoDev/ComfyUI-Idol
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Idol) · [官网](https://huggingface.co/PedroMarinhoDev/Idol-ComfyUI) · 个人维护
+⭐ 13 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Idol) · [官网](https://huggingface.co/PedroMarinhoDev/Idol-ComfyUI) · 个人维护
 
 **让 ComfyUI 用户用一张图原生生成 3D 高斯泼溅的节点包**
 

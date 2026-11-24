@@ -1,6 +1,6 @@
 # ketle-man/comfyui-comic-creator
 
-⭐ 32 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ketle-man/comfyui-comic-creator) · 个人维护 · 中文 README
+⭐ 32 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ketle-man/comfyui-comic-creator) · 个人维护 · 中文 README
 
 **运行在 ComfyUI 上的漫画页面制作 SPA 自定义节点**
 

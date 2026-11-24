@@ -1,6 +1,6 @@
 # julienkay/com.doji.diffusers
 
-⭐ 66 · C# · MIT · 推送 2026-02-20 · [GitHub](https://github.com/julienkay/com.doji.diffusers) · 组织维护
+⭐ 66 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/julienkay/com.doji.diffusers) · 组织维护
 
 **在 Unity 中运行预训练扩散模型的 Sentis 包**
 

@@ -1,6 +1,6 @@
 # aledipa/Free-GPT4-WEB-API
 
-⭐ 731 · Python · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/aledipa/Free-GPT4-WEB-API) · [官网](https://api.freegpt4.ddns.net/?text=Your Request Here) · 个人维护
+⭐ 729 · Python · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/aledipa/Free-GPT4-WEB-API) · [官网](https://api.freegpt4.ddns.net/?text=Your Request Here) · 个人维护
 
 **自托管 Web API：免 API key 统一调用 GPT-4 等多家 LLM**
 

@@ -1,6 +1,6 @@
 # mistval/yozakura
 
-⭐ 42 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/mistval/yozakura) · [官网](https://mistval.github.io/yozakura/) · 个人维护
+⭐ 43 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mistval/yozakura) · [官网](https://mistval.github.io/yozakura/) · 个人维护
 
 **LLM 驱动的社交模拟引擎：多角色在地图上互动并生成记忆**
 

@@ -1,6 +1,6 @@
 # volcengine/OpenViking
 
-⭐ 42,609 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/volcengine/OpenViking) · [官网](https://openviking.ai) · 组织维护 · 中文 README
+⭐ 42,663 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/volcengine/OpenViking) · [官网](https://openviking.ai) · 组织维护 · 中文 README
 
 **AI Agent 的上下文数据库：统一记忆、知识 RAG 与技能**
 

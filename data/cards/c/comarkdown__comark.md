@@ -1,6 +1,6 @@
 # comarkdown/comark
 
-⭐ 1,109 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/comarkdown/comark) · [官网](https://comark.dev) · 组织维护
+⭐ 1,108 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/comarkdown/comark) · [官网](https://comark.dev) · 组织维护
 
 **为开发者把 Markdown/LLM 输出解析并渲染到多框架的库**
 

@@ -1,6 +1,6 @@
 # mdaiWorks/yengi
 
-⭐ 21 · C# · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/mdaiWorks/yengi) · [官网](https://youtu.be/l0tdhvCmwNI) · 个人维护
+⭐ 22 · C# · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mdaiWorks/yengi) · [官网](https://youtu.be/l0tdhvCmwNI) · 个人维护
 
 **Windows 开源 AI IDE：本地/云模型驱动的自主开发代理**
 

@@ -1,6 +1,6 @@
 # cipi-sh/cli
 
-⭐ 10 · Go · 推送 2026-11-21 · [GitHub](https://github.com/cipi-sh/cli) · [官网](https://cipi.sh/docs/cli-client) · 组织维护
+⭐ 10 · Go · 推送 2026-11-23 · [GitHub](https://github.com/cipi-sh/cli) · [官网](https://cipi.sh/docs/cli-client) · 组织维护
 
 **从终端管理 Cipi 服务器、应用、数据库与部署的 CLI 客户端**
 

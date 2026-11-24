@@ -1,6 +1,6 @@
 # atte500/TeDDy
 
-⭐ 30 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/atte500/TeDDy) · [官网](https://pypi.org/project/teddy-cli) · 个人维护
+⭐ 30 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/atte500/TeDDy) · [官网](https://pypi.org/project/teddy-cli) · 个人维护
 
 **本地优先的软件工程 agent 编排框架，将 TDD 流程嵌入 AI 开发工作流**
 

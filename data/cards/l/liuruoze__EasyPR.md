@@ -1,6 +1,6 @@
 # liuruoze/EasyPR
 
-⭐ 6,430 · C++ · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/liuruoze/EasyPR) · 个人维护 · 中文 README
+⭐ 6,432 · C++ · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/liuruoze/EasyPR) · 个人维护 · 中文 README
 
 **非限制场景下的中文车牌识别开源库**
 

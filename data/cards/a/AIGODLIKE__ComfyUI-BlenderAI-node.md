@@ -1,6 +1,6 @@
 # AIGODLIKE/ComfyUI-BlenderAI-node
 
-⭐ 1,599 · Python · GPL-3.0 · 推送 2025-11-28 · [GitHub](https://github.com/AIGODLIKE/ComfyUI-BlenderAI-node) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **在 Blender 内使用 ComfyUI 的插件：AI 材质生成与节点式 AI 渲染**
 
@@ -11,7 +11,7 @@ Blender 插件，将 ComfyUI 节点转换为 Blender 节点，用户可在 Blend
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

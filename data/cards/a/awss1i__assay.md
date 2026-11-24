@@ -1,6 +1,6 @@
 # awss1i/assay
 
-⭐ 110 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/awss1i/assay) · [官网](https://pypi.org/project/assay-ui/) · 个人维护 · 中文 README
+⭐ 110 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/awss1i/assay) · [官网](https://pypi.org/project/assay-ui/) · 个人维护 · 中文 README
 
 **面向编码 agent 的网页确定性 QA CLI：自动发现控件并检查**
 

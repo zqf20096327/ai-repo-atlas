@@ -1,6 +1,6 @@
 # Yamz-Labs/kyojin
 
-⭐ 245 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Yamz-Labs/kyojin) · [官网](https://yamzlabs.com) · 组织维护
+⭐ 246 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Yamz-Labs/kyojin) · [官网](https://yamzlabs.com) · 组织维护
 
 **面向 AMD Strix Halo（ROCm）的 128GB 单机大模型推理引擎**
 

@@ -1,10 +1,10 @@
 # deepspeedai/DeepSpeed
 
-⭐ 43,351 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护
+⭐ 43,355 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/deepspeedai/DeepSpeed) · [官网](https://www.deepspeed.ai/) · 组织维护
 
-**面向开发者的大模型分布式训练与推理优化库**
+**面向开发者的分布式训练与推理优化库**
 
-PyTorch 生态的深度学习优化库，提供 ZeRO、ZeRO-Infinity、3D 并行、Ulysses 序列并行、DeepSpeed-MoE 等系统创新，支持大规模模型训练与推理，含压缩与 MoE 能力。以 pip 安装，C++/CUDA 扩展默认通过 JIT 在运行时编译链接，需要预先安装 PyTorch 及 nvcc/hipcc 编译器。已与 Transformers、Accelerate、Lightning、MosaicML、Determined、MMEngine 等框架集成，Windows 上多数功能可用但 AIO/GDS 不支持。
+DeepSpeed 是微软主导的深度学习优化库，通过 ZeRO、ZeRO-Infinity、3D 并行、Ulysses 序列并行、DeepSpeed-MoE 等系统创新支持大规模模型训练与推理。README 列出其曾参与训练 MT-530B、BLOOM、GLM 等大型模型，并与 Transformers、Accelerate、Lightning、MosaicML、Determined、MMEngine 等框架集成。支持 pip 安装，C++/CUDA 扩展默认以 JIT 方式编译，Windows 需手动构建 wheel。
 
 ## 筛选速览
 
@@ -26,26 +26,26 @@ PyTorch 生态的深度学习优化库，提供 ZeRO、ZeRO-Infinity、3D 并行
 
 ## 能力要点
 
-- ZeRO/ZeRO-Infinity 内存优化与 3D 并行（数据/模型/流水线）
-- 支持万亿参数规模训练，曾被用于训练 MT-530B、BLOOM 等模型
-- 与 Transformers、Accelerate、Lightning 等多个框架集成
-- 支持 NVIDIA/AMD GPU、CPU、华为昇腾、Intel Gaudi/XPU 等硬件
+- ZeRO/ZeRO-Infinity 与 3D 并行等大规模训练机制
+- 与 Transformers、Accelerate、Lightning 等 6 个框架集成
+- 支持 NVIDIA/AMD GPU 及 Ascend、Gaudi、XPU 等多种加速器
+- ds_report 命令可验证安装与扩展兼容性
 
 ## 适用场景
 
-- 单机多卡或多节点训练大参数量模型
-- 通过 ZeRO-Offload 在有限显存下训练 LLM
-- 为 Hugging Face 模型自动配置张量并行训练
+- 训练百亿到万亿参数规模的大模型
+- 为已有 PyTorch 训练脚本增加分布式与显存优化
+- 在多种国产或非 NVIDIA 加速器上运行分布式训练
 
 ## 场景标签
 
-`模型训练` `微调` · 领域:训练与推理
+`模型训练` `推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L54: ***DeepSpeed enabled the world's most powerful language models (at the time of this writing) such as MT-530B and BL
 > L76: DeepSpeed has been integrated with several different popular open-source DL frameworks such as:
-> L101: # Installation
+> L103: The quickest way to get started with DeepSpeed is via pip, this will install
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `7c174cb4f561` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ae35e440a86b` · [字段定义](../../DATASET.md)*

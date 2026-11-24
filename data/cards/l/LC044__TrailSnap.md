@@ -1,6 +1,6 @@
 # LC044/TrailSnap
 
-⭐ 922 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/LC044/TrailSnap) · [官网](https://trailsnap.cn/) · 个人维护 · 中文 README
+⭐ 925 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/LC044/TrailSnap) · [官网](https://trailsnap.cn/) · 个人维护 · 中文 README
 
 **自托管 AI 相册：整理旅行照片并生成旅行日记**
 

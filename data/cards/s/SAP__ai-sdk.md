@@ -1,6 +1,6 @@
 # SAP/ai-sdk
 
-⭐ 16 · HTML · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SAP/ai-sdk) · 组织维护
+⭐ 16 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SAP/ai-sdk) · 组织维护
 
 **SAP Cloud SDK for AI 文档门户的源码仓库**
 

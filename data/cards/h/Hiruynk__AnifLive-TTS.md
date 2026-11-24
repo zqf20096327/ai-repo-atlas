@@ -1,6 +1,6 @@
 # Hiruynk/AnifLive-TTS
 
-⭐ 65 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Hiruynk/AnifLive-TTS) · [官网](http://demo.aniflive-tts-studio.diurnoctra.com) · 个人维护 · 中文 README
+⭐ 66 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Hiruynk/AnifLive-TTS) · [官网](http://demo.aniflive-tts-studio.diurnoctra.com) · 个人维护 · 中文 README
 
 **基于 GPT-SoVITS 的低延迟多语言语音克隆 TTS 运行时，粤语优先**
 

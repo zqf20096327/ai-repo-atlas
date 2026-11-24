@@ -1,6 +1,6 @@
 # stancaedy10-glitch/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/stancaedy10-glitch/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/stancaedy10-glitch/manus--ai) · 个人维护
 
 **面向日常任务的自主 AI Agent：代用户执行代码与操控浏览器**
 

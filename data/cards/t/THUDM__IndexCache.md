@@ -1,6 +1,6 @@
 # THUDM/IndexCache
 
-⭐ 147 · NOASSERTION · 推送 2026-03-14 · [GitHub](https://github.com/THUDM/IndexCache) · [官网](https://huggingface.co/papers/2603.12201) · 组织维护 · 中文 README
+⭐ 148 · NOASSERTION · 推送 2026-03-14 · [GitHub](https://github.com/THUDM/IndexCache) · [官网](https://huggingface.co/papers/2603.12201) · 组织维护 · 中文 README
 
 **给推理引擎的补丁：跨层复用稀疏注意力索引以加速 DSA 推理**
 

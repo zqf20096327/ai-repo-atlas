@@ -1,6 +1,6 @@
 # ericwang915/agent-hive
 
-⭐ 23 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ericwang915/agent-hive) · [官网](https://ericwang915.github.io/agent-hive/) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ericwang915/agent-hive) · [官网](https://ericwang915.github.io/agent-hive/) · 个人维护 · 中文 README
 
 **macOS 桌面应用：统一调度多个 coding agent CLI 协作**
 

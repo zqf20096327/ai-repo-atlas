@@ -1,6 +1,6 @@
 # golemcloud/golem
 
-⭐ 1,507 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/golemcloud/golem) · [官网](https://learn.golem.cloud/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **分布式运行 WebAssembly 组件与构建 agent 的服务平台**
 
@@ -11,7 +11,7 @@ Golem 是一组在分布式云环境中运行 WebAssembly 组件的服务，支�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

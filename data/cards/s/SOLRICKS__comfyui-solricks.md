@@ -1,6 +1,6 @@
 # SOLRICKS/comfyui-solricks
 
-⭐ 14 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/SOLRICKS/comfyui-solricks) · [官网](https://solricks.com/en) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SOLRICKS/comfyui-solricks) · [官网](https://solricks.com/en) · 组织维护
 
 **ComfyUI 的视频/图像抗锯齿与细节增强节点包**
 

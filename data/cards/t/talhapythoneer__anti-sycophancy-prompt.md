@@ -1,6 +1,6 @@
 # talhapythoneer/anti-sycophancy-prompt
 
-⭐ 24 · MIT · 推送 2026-09-16 · [GitHub](https://github.com/talhapythoneer/anti-sycophancy-prompt) · 个人维护
+⭐ 26 · MIT · 推送 2026-09-16 · [GitHub](https://github.com/talhapythoneer/anti-sycophancy-prompt) · 个人维护
 
 **抑制 AI 谄媚行为的系统提示词，附 42 条来源文献**
 

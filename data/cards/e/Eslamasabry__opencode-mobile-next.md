@@ -1,6 +1,6 @@
 # Eslamasabry/opencode-mobile-next
 
-⭐ 152 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Eslamasabry/opencode-mobile-next) · [官网](https://eslamasabry.github.io/opencode-mobile-next/) · 个人维护
+⭐ 160 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Eslamasabry/opencode-mobile-next) · [官网](https://eslamasabry.github.io/opencode-mobile-next/) · 个人维护
 
 **在 Android 手机上运行编码 agent 的 Flutter 客户端**
 

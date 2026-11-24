@@ -1,6 +1,6 @@
 # cryskai/crysk
 
-⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cryskai/crysk) · [官网](https://crysk.dev) · 个人维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cryskai/crysk) · [官网](https://crysk.dev) · 个人维护
 
 **多智能体 PR 审查引擎：并行猎手找缺陷并分级阻断**
 

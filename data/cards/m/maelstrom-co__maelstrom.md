@@ -1,6 +1,6 @@
 # maelstrom-co/maelstrom
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/maelstrom-co/maelstrom) · [官网](https://maelstrom-ai.co) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/maelstrom-co/maelstrom) · [官网](https://maelstrom-ai.co) · 组织维护
 
 **AI 编排 UI 框架：让模型实时编排你预构建的组件**
 

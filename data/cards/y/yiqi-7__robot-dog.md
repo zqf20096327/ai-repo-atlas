@@ -1,6 +1,6 @@
 # yiqi-7/robot-dog
 
-⭐ 3 · C++ · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/yiqi-7/robot-dog) · 个人维护 · 中文 README
+⭐ 4 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/yiqi-7/robot-dog) · 个人维护 · 中文 README
 
 **仿真四足巡检机器人：浏览器看板派任务、看遥测**
 

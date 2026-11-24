@@ -1,6 +1,6 @@
 # respawn-llc/firefox-cli
 
-⭐ 38 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/respawn-llc/firefox-cli) · 组织维护
+⭐ 39 · TypeScript · AGPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/respawn-llc/firefox-cli) · 组织维护
 
 **让 AI Agent 通过 CLI 控制真实 Firefox 浏览器**
 

@@ -1,6 +1,6 @@
 # discovery-unicamp/dasf-core
 
-⭐ 13 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/discovery-unicamp/dasf-core) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/discovery-unicamp/dasf-core) · 组织维护
 
 **用 Dask 与 RAPIDS 加速扩展机器学习算法的 Python 框架**
 

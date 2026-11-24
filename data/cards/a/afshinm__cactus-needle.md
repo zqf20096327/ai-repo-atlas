@@ -1,6 +1,6 @@
 # afshinm/cactus-needle
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/afshinm/cactus-needle) · [官网](https://afshinm.github.io/cactus-needle/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **JS/TS 本地推理库：浏览器/Node.js 运行模型做工具调用与转录**
 
@@ -11,7 +11,7 @@ JavaScript/TypeScript 库，封装 Needle 与 Whistle 两个本地模型，在 N
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

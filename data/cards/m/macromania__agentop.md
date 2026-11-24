@@ -1,6 +1,6 @@
 # macromania/agentop
 
-⭐ 11 · TypeScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/macromania/agentop) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-04-01 · [GitHub](https://github.com/macromania/agentop) · 个人维护
 
 **目标优先的并行 agent 桌面应用：AI 规划拆解任务并多代理并行执行**
 

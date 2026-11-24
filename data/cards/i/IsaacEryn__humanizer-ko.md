@@ -1,6 +1,6 @@
 # IsaacEryn/humanizer-ko
 
-⭐ 49 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/IsaacEryn/humanizer-ko) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/IsaacEryn/humanizer-ko) · 个人维护
 
 **去除韩语文本中 AI 写作痕迹的 Claude Code 代理技能**
 

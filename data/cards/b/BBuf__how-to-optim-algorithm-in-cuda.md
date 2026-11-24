@@ -1,6 +1,6 @@
 # BBuf/how-to-optim-algorithm-in-cuda
 
-⭐ 3,356 · Cuda · 推送 2026-11-02 · [GitHub](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) · 个人维护 · 中文 README
+⭐ 3,358 · Cuda · 推送 2026-11-02 · [GitHub](https://github.com/BBuf/how-to-optim-algorithm-in-cuda) · 个人维护 · 中文 README
 
 **CUDA/GPU 内核与 LLM 推理优化的学习笔记仓库**
 

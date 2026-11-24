@@ -1,6 +1,6 @@
 # pytorch/xla
 
-⭐ 2,808 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/pytorch/xla) · [官网](https://pytorch.org/xla) · 组织维护
+⭐ 2,809 · C++ · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/pytorch/xla) · [官网](https://pytorch.org/xla) · 组织维护
 
 **让 PyTorch 在 XLA 设备（Google TPU）上运行的 Python 包**
 

@@ -1,6 +1,6 @@
 # 2nd1st/open-mcp-apps
 
-⭐ 40 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/2nd1st/open-mcp-apps) · [官网](https://openmcp.app) · 个人维护 · 中文 README
+⭐ 41 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/2nd1st/open-mcp-apps) · [官网](https://openmcp.app) · 个人维护 · 中文 README
 
 **为 MCP 主机提供 AI 可构建的持久化小程序引擎与应用商店**
 

@@ -1,6 +1,6 @@
 # charmbracelet/crush
 
-⭐ 29,165 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/charmbracelet/crush) · 组织维护
+⭐ 29,176 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/charmbracelet/crush) · 组织维护
 
 **终端里的 AI 编程代理客户端，可接入多种 LLM**
 

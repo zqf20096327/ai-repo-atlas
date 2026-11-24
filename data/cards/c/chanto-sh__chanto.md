@@ -1,6 +1,6 @@
 # chanto-sh/chanto
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/chanto-sh/chanto) · [官网](https://chanto.sh) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/chanto-sh/chanto) · [官网](https://chanto.sh) · 组织维护
 
 **终端里的编程 Agent CLI，可接本地或云端多种模型**
 

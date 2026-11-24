@@ -1,6 +1,6 @@
 # cotletdev/pirate-ship-api-mcp-server
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/pirate-ship-api-mcp-server) · [官网](https://cotlet.dev/integrations/pirate-ship-api-mcp-server) · 组织维护
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/pirate-ship-api-mcp-server) · [官网](https://cotlet.dev/integrations/pirate-ship-api-mcp-server) · 组织维护
 
 **让 AI agent 操作 Pirate Ship 寄送业务的 MCP 服务器**
 

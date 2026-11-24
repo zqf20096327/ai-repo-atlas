@@ -1,6 +1,6 @@
 # datalab-to/indra
 
-⭐ 1,916 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/datalab-to/indra) · [官网](https://www.datalab.to) · 组织维护
+⭐ 1,939 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/datalab-to/indra) · [官网](https://www.datalab.to) · 组织维护
 
 **给开发者的 1M 参数 CPU 端 OCR 模型：把 PDF/图像转成 markdown/JSON**
 

@@ -1,6 +1,6 @@
 # bigm4ngo/dsh-oh-my-gravity
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bigm4ngo/dsh-oh-my-gravity) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bigm4ngo/dsh-oh-my-gravity) · 个人维护
 
 **将已登录的 Antigravity CLI 作为 DeepSeek Harness 模型提供方的插件**
 

@@ -1,6 +1,6 @@
 # hacksider/Deep-Live-Cam
 
-⭐ 98,634 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/hacksider/Deep-Live-Cam) · [官网](https://deeplivecam.net/) · 组织维护
+⭐ 98,827 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/hacksider/Deep-Live-Cam) · [官网](https://deeplivecam.net/) · 组织维护
 
 **单张图片实现实时换脸与一键视频 deepfake 的桌面工具**
 

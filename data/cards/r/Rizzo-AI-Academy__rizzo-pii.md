@@ -1,6 +1,6 @@
 # Rizzo-AI-Academy/rizzo-pii
 
-⭐ 1,297 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Rizzo-AI-Academy/rizzo-pii) · [官网](https://rizzo-ai-academy.github.io/rizzo-pii/) · 组织维护
+⭐ 1,300 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Rizzo-AI-Academy/rizzo-pii) · [官网](https://rizzo-ai-academy.github.io/rizzo-pii/) · 组织维护
 
 **为受 GDPR 约束的意大利法律从业者本地化名文档后再用云端 LLM**
 

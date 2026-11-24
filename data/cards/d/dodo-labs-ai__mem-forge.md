@@ -1,6 +1,6 @@
 # dodo-labs-ai/mem-forge
 
-⭐ 105 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dodo-labs-ai/mem-forge) · 组织维护
+⭐ 105 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/dodo-labs-ai/mem-forge) · 组织维护
 
 **给 AI agent 的团队记忆层：把文档/工单/聊天变成可溯源记忆**
 

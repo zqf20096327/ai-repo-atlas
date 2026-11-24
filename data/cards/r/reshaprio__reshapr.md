@@ -1,6 +1,6 @@
 # reshaprio/reshapr
 
-⭐ 180 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/reshaprio/reshapr) · [官网](https://reshapr.io) · 组织维护
+⭐ 180 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/reshaprio/reshapr) · [官网](https://reshapr.io) · 组织维护
 
 **将既有 REST/GraphQL/gRPC API 转为 MCP 工具的运行时**
 

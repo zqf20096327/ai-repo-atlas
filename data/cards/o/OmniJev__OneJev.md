@@ -1,6 +1,6 @@
 # OmniJev/OneJev
 
-⭐ 284 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/OmniJev/OneJev) · [官网](https://omnijev.github.io/OneJev/) · 组织维护 · 中文 README
+⭐ 285 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OmniJev/OneJev) · [官网](https://omnijev.github.io/OneJev/) · 组织维护 · 中文 README
 
 **多模态决策模型：对屏幕/图片/视频/文本给出校准概率答案**
 

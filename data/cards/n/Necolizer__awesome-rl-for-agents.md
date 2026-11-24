@@ -1,6 +1,6 @@
 # Necolizer/awesome-rl-for-agents
 
-⭐ 117 · CC0-1.0 · 推送 2026-11-13 · [GitHub](https://github.com/Necolizer/awesome-rl-for-agents) · 个人维护
+⭐ 117 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/Necolizer/awesome-rl-for-agents) · 个人维护
 
 **面向 LLM/MLLM 智能体的强化学习论文与工具策展清单**
 

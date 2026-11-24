@@ -1,6 +1,6 @@
 # ld-singh/ai-factory-ops-lab
 
-⭐ 21 · Shell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ld-singh/ai-factory-ops-lab) · [官网](https://ld-singh.github.io/ai-factory-ops-lab/) · 个人维护
+⭐ 22 · Shell · MIT · 推送 2026-09-14 · [GitHub](https://github.com/ld-singh/ai-factory-ops-lab) · [官网](https://ld-singh.github.io/ai-factory-ops-lab/) · 个人维护
 
 **无需自购 GPU 的 AI/HPC 基础设施运维实操课程**
 

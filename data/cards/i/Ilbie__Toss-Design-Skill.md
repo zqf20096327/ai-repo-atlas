@@ -1,6 +1,6 @@
 # Ilbie/Toss-Design-Skill
 
-⭐ 59 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Ilbie/Toss-Design-Skill) · 个人维护
+⭐ 119 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Ilbie/Toss-Design-Skill) · 个人维护
 
 **参考 Toss Tech 设计文章的非官方 agent 技能包**
 

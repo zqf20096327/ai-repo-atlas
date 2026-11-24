@@ -1,6 +1,6 @@
 # IngTian/witness
 
-⭐ 12 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/IngTian/witness) · [官网](https://github.com/IngTian/witness#readme) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/IngTian/witness) · [官网](https://github.com/IngTian/witness#readme) · 个人维护
 
 **把 AI 编程会话或文本流变成带日期与溯源的变化史 MCP 服务**
 

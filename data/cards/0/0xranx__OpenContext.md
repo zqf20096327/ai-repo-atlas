@@ -1,6 +1,6 @@
 # 0xranx/OpenContext
 
-⭐ 1,294 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/0xranx/OpenContext) · [官网](https://0xranx.github.io/OpenContext/) · 个人维护 · 中文 README
+⭐ 1,295 · JavaScript · MIT · 推送 2026-06-16 · [GitHub](https://github.com/0xranx/OpenContext) · [官网](https://0xranx.github.io/OpenContext/) · 个人维护 · 中文 README
 
 **给编程 Agent 的个人上下文存储：跨项目持久记忆**
 

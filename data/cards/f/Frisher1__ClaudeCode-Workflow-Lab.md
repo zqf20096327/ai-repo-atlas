@@ -1,6 +1,6 @@
 # Frisher1/ClaudeCode-Workflow-Lab
 
-⭐ 115 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/Frisher1/ClaudeCode-Workflow-Lab) · 个人维护
+⭐ 115 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/Frisher1/ClaudeCode-Workflow-Lab) · 个人维护
 
 **面向 AI 系统的对抗性验证框架：预算约束验证环 + 15 章课程与 14 个实验**
 

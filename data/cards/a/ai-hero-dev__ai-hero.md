@@ -1,6 +1,6 @@
 # ai-hero-dev/ai-hero
 
-⭐ 1,951 · TypeScript · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/ai-hero-dev/ai-hero) · [官网](https://www.aihero.dev/) · 个人维护
+⭐ 1,952 · TypeScript · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/ai-hero-dev/ai-hero) · [官网](https://www.aihero.dev/) · 个人维护
 
 **AI 工程课程的开源示例与练习代码仓库**
 

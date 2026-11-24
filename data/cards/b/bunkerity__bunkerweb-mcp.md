@@ -1,6 +1,6 @@
 # bunkerity/bunkerweb-mcp
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bunkerity/bunkerweb-mcp) · [官网](https://www.bunkerweb.io) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bunkerity/bunkerweb-mcp) · [官网](https://www.bunkerweb.io) · 组织维护
 
 **向 MCP 客户端暴露 BunkerWeb API 的服务器**
 

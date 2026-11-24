@@ -1,6 +1,6 @@
 # dspv/caprock
 
-⭐ 50 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dspv/caprock) · [官网](https://caprock.dev) · 个人维护
+⭐ 51 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/dspv/caprock) · [官网](https://caprock.dev) · 个人维护
 
 **本地桌面应用：并排运行多个编码 agent 并追踪成本**
 

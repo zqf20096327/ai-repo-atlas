@@ -1,6 +1,6 @@
 # Dataojitori/nocturne_memory
 
-⭐ 1,437 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Dataojitori/nocturne_memory) · [官网](https://misaligned.top/memory) · 个人维护 · 中文 README
+⭐ 1,435 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Dataojitori/nocturne_memory) · [官网](https://misaligned.top/memory) · 个人维护 · 中文 README
 
 **给 MCP Agent 提供可回滚、可视化的长期记忆服务器**
 

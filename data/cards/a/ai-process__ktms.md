@@ -1,6 +1,6 @@
 # ai-process/ktms
 
-⭐ 23 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ai-process/ktms) · [官网](https://ai-process.dev) · 组织维护
+⭐ 23 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ai-process/ktms) · [官网](https://ai-process.dev) · 组织维护
 
 **自托管 LLM 网关：密钥托管、规则路由、降级与限流**
 

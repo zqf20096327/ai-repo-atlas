@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/EmoReward
 
-⭐ 41 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/Tencent-Hunyuan/EmoReward) · [官网](https://emoreward-project.github.io/) · 组织维护 · 中文 README
+⭐ 42 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/Tencent-Hunyuan/EmoReward) · [官网](https://emoreward-project.github.io/) · 组织维护 · 中文 README
 
 **情感视频生成 RL 的自进化奖励校准机制官方实现**
 

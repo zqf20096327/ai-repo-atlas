@@ -1,6 +1,6 @@
 # avalanche-run/predict-rlm
 
-⭐ 437 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/avalanche-run/predict-rlm) · [官网](https://trampoline.ai) · 组织维护
+⭐ 437 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/avalanche-run/predict-rlm) · [官网](https://trampoline.ai) · 组织维护
 
 **面向生产的多步 LLM 工作流运行时（RLM）：模型自写代码控制流程**
 

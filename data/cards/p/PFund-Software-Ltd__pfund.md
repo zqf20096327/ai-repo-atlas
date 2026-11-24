@@ -1,6 +1,6 @@
 # PFund-Software-Ltd/pfund
 
-⭐ 69 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PFund-Software-Ltd/pfund) · [官网](https://pfund.pfund.ai) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PFund-Software-Ltd/pfund) · [官网](https://pfund.pfund.ai) · 组织维护
 
 **面向散户的 Python 算法交易框架：回测/训练/实盘/监控一体化**
 

@@ -1,6 +1,6 @@
 # ljleb/comfy-mecha
 
-⭐ 103 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/ljleb/comfy-mecha) · 个人维护
+⭐ 103 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ljleb/comfy-mecha) · 个人维护
 
 **ComfyUI 模型合并节点包：低内存执行合并配方**
 

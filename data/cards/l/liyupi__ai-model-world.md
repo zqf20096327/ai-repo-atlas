@@ -1,6 +1,6 @@
 # liyupi/ai-model-world
 
-⭐ 277 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/liyupi/ai-model-world) · [官网](https://bilibili.com/toy/ai-model-world) · 个人维护 · 中文 README
+⭐ 277 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/liyupi/ai-model-world) · [官网](https://bilibili.com/toy/ai-model-world) · 个人维护 · 中文 README
 
 **把 556 个大模型拟人化为像素小人的可视化站点**
 

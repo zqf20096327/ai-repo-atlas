@@ -1,6 +1,6 @@
 # iziqing/-disk-cleaner
 
-⭐ 43 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/iziqing/-disk-cleaner) · 个人维护 · 中文 README
+⭐ 44 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/iziqing/-disk-cleaner) · 个人维护 · 中文 README
 
 **给普通用户的 Claude Code 磁盘清理技能：WizTree 扫描 + AI 分析**
 

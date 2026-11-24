@@ -1,6 +1,6 @@
 # acvnace/awesome-vibe-coding-resources
 
-⭐ 336 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/acvnace/awesome-vibe-coding-resources) · [官网](https://yangmao.ai) · 个人维护
+⭐ 337 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/acvnace/awesome-vibe-coding-resources) · [官网](https://yangmao.ai) · 个人维护
 
 **vibe coding 工具与资源的策展清单**
 

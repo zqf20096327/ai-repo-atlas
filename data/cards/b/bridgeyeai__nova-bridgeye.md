@@ -1,6 +1,6 @@
 # bridgeyeai/nova-bridgeye
 
-⭐ 11 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/bridgeyeai/nova-bridgeye) · [官网](https://nova.bridgeye.com/) · 组织维护
+⭐ 11 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/bridgeyeai/nova-bridgeye) · [官网](https://nova.bridgeye.com/) · 组织维护
 
 **终端里的自主修复型开发 agent：自动修复报错与环境问题**
 

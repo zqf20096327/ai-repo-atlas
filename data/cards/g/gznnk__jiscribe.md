@@ -1,6 +1,6 @@
 # gznnk/jiscribe
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gznnk/jiscribe) · [官网](https://beta.jiscribe.dev) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gznnk/jiscribe) · [官网](https://beta.jiscribe.dev) · 个人维护
 
 **人与 AI agent 共同绘制的 SVG 画布：图表、原型、海报、文档**
 

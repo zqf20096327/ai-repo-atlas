@@ -1,6 +1,6 @@
 # open-webui/computer
 
-⭐ 768 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/open-webui/computer) · [官网](https://openwebui.com/computer) · 组织维护
+⭐ 769 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/open-webui/computer) · [官网](https://openwebui.com/computer) · 组织维护
 
 **在浏览器中远程操作自己机器的文件与终端工作区**
 

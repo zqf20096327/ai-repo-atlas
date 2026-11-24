@@ -1,6 +1,6 @@
 # mistqkw/cl0udly-mobile
 
-⭐ 35 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mistqkw/cl0udly-mobile) · 个人维护
+⭐ 36 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mistqkw/cl0udly-mobile) · 个人维护
 
 **在 Android 手机上本地运行 OpenCode 服务端的 AI 编程代理客户端**
 

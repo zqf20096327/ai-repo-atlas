@@ -1,6 +1,6 @@
 # Ironsail-llc/genus-os
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Ironsail-llc/genus-os) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Ironsail-llc/genus-os) · 组织维护
 
 **自托管的 AI agent 运行平台：企业可自有基础设施部署**
 

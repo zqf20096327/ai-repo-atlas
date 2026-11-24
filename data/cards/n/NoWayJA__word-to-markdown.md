@@ -1,6 +1,6 @@
 # NoWayJA/word-to-markdown
 
-⭐ 62 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/NoWayJA/word-to-markdown) · 个人维护
+⭐ 63 · TypeScript · MIT · 推送 2026-02-04 · [GitHub](https://github.com/NoWayJA/word-to-markdown) · 个人维护
 
 **浏览器本地运行的 Word/PDF 转 Markdown 隐私工具**
 

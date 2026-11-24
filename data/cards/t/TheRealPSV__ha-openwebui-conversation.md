@@ -1,6 +1,6 @@
 # TheRealPSV/ha-openwebui-conversation
 
-⭐ 51 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/TheRealPSV/ha-openwebui-conversation) · 个人维护
+⭐ 51 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/TheRealPSV/ha-openwebui-conversation) · 个人维护
 
 **Home Assistant 接入 OpenWebUI 的对话代理集成，支持联网搜索**
 

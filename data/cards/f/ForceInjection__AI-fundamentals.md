@@ -1,10 +1,10 @@
 # ForceInjection/AI-fundamentals
 
-⭐ 3,520 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ForceInjection/AI-fundamentals) · [官网](https://forceinjection.github.io) · 个人维护 · 中文 README
+⭐ 3,532 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ForceInjection/AI-fundamentals) · [官网](https://forceinjection.github.io) · 个人维护 · 中文 README
 
-**面向 AI 工程师的 GPU/CUDA/LLM 基础设施学习资源合集**
+**面向 AI 工程师的 GPU/CUDA/LLM 基础设施学习资源库**
 
-以文章目录为主的学习资源仓库，按八个章节组织：硬件架构与互连、集群运维与 NCCL 通信、Kubernetes 云原生 AI 平台、GPU/CUDA/DPU/昇腾 NPU 编程、LLM 应用开发与编排、机器学习基础、LLM 理论与训练。全文以中文技术文章链接与主题导航形式呈现，收录 12 处可运行 Demo 并附依赖索引，面向 AI 工程师、系统架构师与 GPU 编程开发者提供系统学习路径。
+以中文组织的人工智能基础设施知识库，按八个章节编排学习路径：硬件架构与互连、集群运维与 NCCL 通信、Kubernetes 云原生 AI 平台、GPU/CUDA/DPU/NPU 编程、LLM 应用开发编排、机器学习基础、LLM 理论、大模型训练。内容以文章链接、文档门户和 12 处可运行 Demo 索引的形式提供，收录外部教程与实战 Notebook（如 LangGraph 客服系统、Qwen2 微调）。自身不提供软件安装，定位为学习路径与实践指导合集。
 
 ## 筛选速览
 
@@ -20,20 +20,19 @@
 
 ## 能力要点
 
-- 覆盖从 GPU 架构、CUDA 编程到 LLM 训练的完整技术栈章节体系
-- 含 HAMi GPU 切分、vLLM+LWS 推理调度、JuiceFS/DeepSeek 3FS 存储等云原生专题
-- 提供 12 处可运行 Demo 总索引，附依赖要求与验证状态
-- 收录昇腾 NPU/CANN 编程与 LoRA 微调端到端实战文章
+- 覆盖硬件到应用的完整技术栈章节体系（8 章）
+- 全仓库 12 处可运行 Demo 总索引，含依赖要求与验证状态
+- 含 GPU 虚拟化、HAMi、TileLang 等专题的子门户与代码参考实现
 
 ## 适用场景
 
 - 系统学习 GPU 架构与 CUDA 编程
-- 搭建 Kubernetes 上的大模型推理与训练平台时查参考资料
-- 入门 LangGraph/Spring AI 等大模型应用开发框架
+- 搭建 Kubernetes 上的 AI 集群与推理调度
+- 准备大模型训练与微调的工程实践
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`教程课程` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `62f0989ec3cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `71062d0dca68` · [字段定义](../../DATASET.md)*

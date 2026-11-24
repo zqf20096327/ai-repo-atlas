@@ -1,6 +1,6 @@
 # do-md/homekb
 
-⭐ 15 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/do-md/homekb) · [官网](https://www.homekb.app) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-07-21 · [GitHub](https://github.com/do-md/homekb) · [官网](https://www.homekb.app) · 个人维护 · 中文 README
 
 **本地优先的个人 Markdown 知识库：语义搜索、带引用问答与 MCP 接入**
 

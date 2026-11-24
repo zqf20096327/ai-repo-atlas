@@ -1,6 +1,6 @@
 # NamtaoProductions/0rwx.com
 
-⭐ 124 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/NamtaoProductions/0rwx.com) · [官网](https://namtaoproductions.github.io/0rwx.com/) · 个人维护
+⭐ 134 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/NamtaoProductions/0rwx.com) · [官网](https://namtaoproductions.github.io/0rwx.com/) · 个人维护
 
 **声明 PR/代码中 LLM 使用程度的 AI 徽章规范网站**
 

@@ -1,6 +1,6 @@
 # olegpustovit/agentpack
 
-⭐ 17 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/olegpustovit/agentpack) · [官网](https://olegpustovit.github.io/agentpack) · 个人维护
+⭐ 17 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/olegpustovit/agentpack) · [官网](https://olegpustovit.github.io/agentpack) · 个人维护
 
 **为编程 agent 固定 skills 与插件版本的项目清单/锁文件工具**
 

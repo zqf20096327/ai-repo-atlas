@@ -1,6 +1,6 @@
 # Abdoandqsnk/ai-manus
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Abdoandqsnk/ai-manus) · 个人维护
+⭐ 148 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Abdoandqsnk/ai-manus) · 个人维护
 
 **面向日常小任务的自主 AI Agent：代跑代码、控浏览器**
 

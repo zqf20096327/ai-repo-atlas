@@ -1,6 +1,6 @@
 # graphersal/graphersal
 
-⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/graphersal/graphersal) · [官网](https://graphersal.dev) · 个人维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/graphersal/graphersal) · [官网](https://graphersal.dev) · 个人维护
 
 **Rust 内存图数据库与 Gremlin/GQL 遍历引擎，含向量检索**
 

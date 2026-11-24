@@ -1,6 +1,6 @@
 # zi-yue-1129/DATAGEN
 
-⭐ 1,817 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zi-yue-1129/DATAGEN) · 个人维护
+⭐ 1,817 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zi-yue-1129/DATAGEN) · 个人维护
 
 **面向数据分析研究者的多 Agent 自动化研究助手**
 

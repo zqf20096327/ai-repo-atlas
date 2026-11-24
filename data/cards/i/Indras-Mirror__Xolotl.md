@@ -1,6 +1,6 @@
 # Indras-Mirror/Xolotl
 
-⭐ 560 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Indras-Mirror/Xolotl) · [官网](https://indrasmirror.au/blog-xolotl-frontier-models-one-gaming-pc) · 个人维护
+⭐ 567 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Indras-Mirror/Xolotl) · [官网](https://indrasmirror.au/blog-xolotl-frontier-models-one-gaming-pc) · 个人维护
 
 **在单张游戏显卡上运行 552B MoE 模型的推理引擎**
 

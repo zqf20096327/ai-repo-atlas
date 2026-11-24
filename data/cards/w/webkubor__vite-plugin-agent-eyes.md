@@ -1,6 +1,6 @@
 # webkubor/vite-plugin-agent-eyes
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/webkubor/vite-plugin-agent-eyes) · [官网](https://webkubor.github.io/vite-plugin-agent-eyes/) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/webkubor/vite-plugin-agent-eyes) · [官网](https://webkubor.github.io/vite-plugin-agent-eyes/) · 个人维护 · 中文 README
 
 **Vite 遥测插件：让 AI agent 读取网站运行时错误与日志**
 

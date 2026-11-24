@@ -1,35 +1,35 @@
 # liyupi/yu-ai-agent
 
-⭐ 2,786 · Java · 推送 2026-01-07 · [GitHub](https://github.com/liyupi/yu-ai-agent) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
+⭐ 2,790 · Java · 推送 2026-11-23 · [GitHub](https://github.com/liyupi/yu-ai-agent) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
 
-**面向程序员的 AI 应用开发实战教程：恋爱大师应用与 ReAct 智能体**
+**Java 后端开发者的 AI 智能体实战教学项目**
 
-程序员鱼皮的付费教学项目，以 Java 21 + Spring Boot 3 + Spring AI / LangChain4j 为技术栈，带学员开发 AI 恋爱大师应用（多轮对话、RAG 知识库、Tool Calling、MCP 服务调用）和基于 ReAct 模式的自主规划智能体 YuManus。教程分 9 期，覆盖大模型接入（含 Ollama 本地部署）、Prompt 工程、PgVector 向量数据库、MCP 协议、智能体构建与 Serverless 部署，并提供简历写法与面试题解。完整视频教程需加入编程导航会员获取。
+由程序员鱼皮/编程导航团队出品的 Spring Boot 3 + Java 21 + Spring AI 教学实战项目，包含 AI 恋爱大师问答应用、基于 ReAct 模式的 YuManus 自主规划智能体，以及独立的图片搜索 MCP 服务端。覆盖大模型接入、Ollama 本地部署、Prompt 工程、对话记忆、RAG 知识库与 PgVector 向量检索、Tool Calling、MCP、SSE 流式与 Serverless 部署。配套 9 期课程视频教程、文字笔记与面试题解，定位于 Java 工程师向 AI 应用开发转型学习。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | — |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- AI 恋爱大师应用：多轮对话 + RAG 知识库 + 工具调用 + MCP 服务
-- 基于 ReAct 模式自主实现 Manus 类智能体 YuManus
-- 9 期学习大纲覆盖 Spring AI、RAG、Tool Calling、MCP、智能体、Serverless
-- 附带简历写法、面试题解与答疑服务
+- 基于 ReAct 模式的自主规划智能体 YuManus（OpenManus Java 实现）
+- RAG 知识库全链路：ETL 切分、PgVector 存储、检索调优与幻觉治理
+- 独立图片搜索 MCP 服务端模块（Pexels 接口）
+- 支持 Ollama 本地大模型部署与阿里云百炼云端接入
 
 ## 适用场景
 
-- 跟随教程学习 Spring AI 与 AI 应用全栈开发
-- 为求职简历增加 AI 项目实战经历
-- 学习 RAG、工具调用、MCP 与智能体的实现原理
+- Java 后端工程师系统学习 Spring AI 与智能体开发
+- 毕业设计延伸开发垂直行业 AI 智能体
+- 参考其 RAG/MCP 开发范式迁移到企业文档问答系统
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L5: > 本项目为教学项目，提供完整视频教程 + 文字教程 + 简历写法 + 面试题解 + 答疑服务，帮你提升项目能力，给简历增加亮点！
-> L13: 这是一套以 **AI 开发实战** 为核心的项目教程，将通过开发 **AI 恋爱大师应用 + 拥有自主规划能力的超级智能体**，带大家掌握新时代程序员必知必会的 AI 核心概念、AI 实用工具、AI 编程技术、AI 框架原理、AI
-> L25: 鱼皮给大家讲的都是 **通用的项目开发方法和架构设计套路**，从这个项目中你将学到：
+> L67: 本项目以 Java 21、Spring Boot 3 和 Spring AI 框架为核心，同时兼顾 LangChain4j 的对比实战，融合向量检索、协议扩展、前端交互与 Serverless 部署等全栈技术栈，帮助你建立完整的企
+> L74: |智能体与协议扩展|ReAct Agent 自主规划引擎、Tool Calling 工具调用、MCP 模型上下文协议（独立图片搜索服务端）|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `00973cbcdbe4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8526f27ef00e` · [字段定义](../../DATASET.md)*

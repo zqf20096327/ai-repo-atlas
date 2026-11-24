@@ -1,6 +1,6 @@
 # DeepShah1406/College_RAG_Chatbot
 
-⭐ 14 · Python · MIT · 推送 2025-12-18 · [GitHub](https://github.com/DeepShah1406/College_RAG_Chatbot) · 个人维护
+⭐ 15 · Python · MIT · 推送 2025-12-18 · [GitHub](https://github.com/DeepShah1406/College_RAG_Chatbot) · 个人维护
 
 **面向高校知识库的 RAG 聊天机器人，基于院校文档回答提问**
 

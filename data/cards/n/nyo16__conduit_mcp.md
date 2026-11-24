@@ -1,6 +1,6 @@
 # nyo16/conduit_mcp
 
-⭐ 11 · Elixir · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/nyo16/conduit_mcp) · 个人维护
+⭐ 11 · Elixir · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nyo16/conduit_mcp) · 个人维护
 
 **Elixir 的 MCP 协议实现：构建向 LLM 应用暴露工具/资源/提示的服务端**
 

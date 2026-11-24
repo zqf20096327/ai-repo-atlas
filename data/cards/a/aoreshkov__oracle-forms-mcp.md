@@ -1,6 +1,6 @@
 # aoreshkov/oracle-forms-mcp
 
-⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aoreshkov/oracle-forms-mcp) · [官网](https://registry.modelcontextprotocol.io/) · 个人维护
+⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aoreshkov/oracle-forms-mcp) · [官网](https://registry.modelcontextprotocol.io/) · 个人维护
 
 **把 Oracle Forms 模块内容暴露给 AI 助手的 MCP 服务器**
 

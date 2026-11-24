@@ -1,6 +1,6 @@
 # kilolonion/agent-vscreen
 
-⭐ 164 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kilolonion/agent-vscreen) · [官网](https://github.com/kilolonion/agent-vscreen/releases/latest) · 个人维护 · 中文 README
+⭐ 171 · Kotlin · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kilolonion/agent-vscreen) · [官网](https://github.com/kilolonion/agent-vscreen/releases/latest) · 个人维护 · 中文 README
 
 **给手机 AI agent 用的 Android 后台虚拟屏操作工具**
 

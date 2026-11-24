@@ -1,6 +1,6 @@
 # google-deepmind/alphaevolve
 
-⭐ 78 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/google-deepmind/alphaevolve) · 组织维护
+⭐ 83 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/google-deepmind/alphaevolve) · 组织维护
 
 **DeepMind 的算法与科学发现编码 Agent 论文代码**
 

@@ -1,6 +1,6 @@
 # anthropics/k12-teacher-skills
 
-⭐ 637 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/anthropics/k12-teacher-skills) · 组织维护
+⭐ 641 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/anthropics/k12-teacher-skills) · 组织维护
 
 **给 K-12 教师的四个 Claude 代理技能与配套评测框架**
 

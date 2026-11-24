@@ -1,6 +1,6 @@
 # 100yenadmin/hermes-plan-mode
 
-⭐ 46 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/100yenadmin/hermes-plan-mode) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/100yenadmin/hermes-plan-mode) · 个人维护
 
 **Hermes Agent 的计划模式插件：只读探索并锁定编辑工具直到审批**
 

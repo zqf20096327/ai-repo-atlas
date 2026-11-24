@@ -1,6 +1,6 @@
 # nocobase/nocobase
 
-⭐ 24,979 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/nocobase/nocobase) · [官网](https://www.nocobase.com) · 组织维护 · 中文 README
+⭐ 24,989 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/nocobase/nocobase) · [官网](https://www.nocobase.com) · 组织维护 · 中文 README
 
 **AI 代理参与构建业务系统的开源无代码平台**
 

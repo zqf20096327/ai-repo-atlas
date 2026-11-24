@@ -1,6 +1,6 @@
 # j128djsj/Lightweight-Speech-Enhancement
 
-⭐ 10 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/j128djsj/Lightweight-Speech-Enhancement) · [官网](https://doi.org/10.1016/j.dsp.2026.105987) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/j128djsj/Lightweight-Speech-Enhancement) · [官网](https://doi.org/10.1016/j.dsp.2026.105987) · 个人维护
 
 **研究者的轻量语音增强模型 PyTorch 实现**
 

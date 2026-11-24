@@ -1,6 +1,6 @@
 # pensarai/argus-validation-benchmarks
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pensarai/argus-validation-benchmarks) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/pensarai/argus-validation-benchmarks) · 组织维护
 
 **面向 AI 渗透测试 agent 的评测基准集（71 渗透 + 10 威胁建模）**
 

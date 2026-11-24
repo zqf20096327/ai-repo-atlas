@@ -1,6 +1,6 @@
 # ictinnovations/asterisk-ai-voice-agent
 
-⭐ 30 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ictinnovations/asterisk-ai-voice-agent) · [官网](https://ictinnovations.com/asterisk-ai-voice-agent-audiosocket-open-source/) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ictinnovations/asterisk-ai-voice-agent) · [官网](https://ictinnovations.com/asterisk-ai-voice-agent-audiosocket-open-source/) · 组织维护
 
 **自托管的 Asterisk AI 电话语音代理边车**
 

@@ -1,6 +1,6 @@
 # yilewang/llm-for-zotero
 
-⭐ 3,608 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/yilewang/llm-for-zotero) · [官网](https://yilewang.github.io/llm-for-zotero) · 个人维护 · 中文 README
+⭐ 3,610 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/yilewang/llm-for-zotero) · [官网](https://yilewang.github.io/llm-for-zotero) · 个人维护 · 中文 README
 
 **把 LLM 助手与文献 Agent 嵌入 Zotero 阅读器的插件**
 

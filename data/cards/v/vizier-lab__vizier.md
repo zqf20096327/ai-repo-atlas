@@ -1,6 +1,6 @@
 # vizier-lab/vizier
 
-⭐ 19 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vizier-lab/vizier) · [官网](https://www.vizier.rs/) · 组织维护
+⭐ 30 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vizier-lab/vizier) · [官网](https://www.vizier.rs/) · 组织维护
 
 **自托管的 Rust 多 AI agent 框架：单二进制运行多身份 agent**
 

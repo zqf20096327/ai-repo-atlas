@@ -1,6 +1,6 @@
 # xiyasunny-blip/grok-3-big-brain-subscription
 
-⭐ 68 · 推送 2026-11-06 · [GitHub](https://github.com/xiyasunny-blip/grok-3-big-brain-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 88 · 推送 2026-11-06 · [GitHub](https://github.com/xiyasunny-blip/grok-3-big-brain-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推销 CoreGold 虚拟卡以订阅 Grok 3 的推广文**
 

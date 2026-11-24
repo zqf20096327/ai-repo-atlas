@@ -1,6 +1,6 @@
 # microsoft/AgentHosting.Cli
 
-⭐ 15 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/AgentHosting.Cli) · 组织维护
+⭐ 15 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/AgentHosting.Cli) · 组织维护
 
 **Microsoft 官方 CLI：以代码方式开发和管理 Copilot Studio 代理**
 

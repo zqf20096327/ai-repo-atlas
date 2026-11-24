@@ -1,6 +1,6 @@
 # avibe-bot/avibe
 
-⭐ 647 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/avibe-bot/avibe) · [官网](https://avibe.bot) · 组织维护 · 中文 README
+⭐ 652 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/avibe-bot/avibe) · [官网](https://avibe.bot) · 组织维护 · 中文 README
 
 **让个人电脑成为本地 AI 伙伴之家的 Agent OS**
 

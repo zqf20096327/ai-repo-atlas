@@ -1,6 +1,6 @@
 # ZenRows/cli
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ZenRows/cli) · [官网](https://docs.zenrows.com/cli/introduction) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ZenRows/cli) · [官网](https://docs.zenrows.com/cli/introduction) · 组织维护
 
 **让 AI agent 经 Zenrows 云可靠抓取受保护网页的 CLI/MCP 工具**
 

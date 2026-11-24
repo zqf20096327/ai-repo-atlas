@@ -1,6 +1,6 @@
 # bindoffice/terry
 
-⭐ 10 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/bindoffice/terry) · [官网](https://bindoffice.github.io/terry/) · 个人维护
+⭐ 11 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/bindoffice/terry) · [官网](https://bindoffice.github.io/terry/) · 个人维护
 
 **面向 AI 编码代理的多终端工作区，垂直标签+侧栏 Agent**
 

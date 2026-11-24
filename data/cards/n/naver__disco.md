@@ -1,6 +1,6 @@
 # naver/disco
 
-⭐ 76 · Python · NOASSERTION · 推送 2025-11-27 · [GitHub](https://github.com/naver/disco) · [官网](https://disco.naverlabs.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **控制生成模型输出分布以匹配人类偏好的微调工具包**
 
@@ -11,7 +11,7 @@ NAVER 维护的生成模型分布控制工具包：先通过在样本上定义�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

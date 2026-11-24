@@ -1,6 +1,6 @@
 # Lucki74/draggy
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Lucki74/draggy) · [官网](https://draggy.org) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **跨平台本地 AI 助手与编码 Agent 桌面应用**
 
@@ -11,7 +11,7 @@ Draggy 是一款 Windows/macOS/Linux 桌面应用，通过内嵌 llama.cpp 引�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

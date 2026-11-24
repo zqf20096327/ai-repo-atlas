@@ -1,6 +1,6 @@
 # PaddlePaddle/HALOps
 
-⭐ 25 · Cuda · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/PaddlePaddle/HALOps) · 组织维护 · 中文 README
+⭐ 25 · Cuda · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PaddlePaddle/HALOps) · 组织维护 · 中文 README
 
 **面向 NVIDIA Blackwell 的 LLM 推理高性能算子库**
 

@@ -1,6 +1,6 @@
 # Adityuhh11/Omni
 
-⭐ 6 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Adityuhh11/Omni) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地运行的 Windows/Mac 启动器：开应用、按语义找文件、问本地 AI**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

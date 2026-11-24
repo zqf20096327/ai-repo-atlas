@@ -1,6 +1,6 @@
 # LibreChat-AI/docs
 
-⭐ 703 · MDX · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LibreChat-AI/docs) · [官网](https://www.librechat.ai) · 组织维护
+⭐ 703 · MDX · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LibreChat-AI/docs) · [官网](https://www.librechat.ai) · 组织维护
 
 **LibreChat 官方文档站：覆盖安装、配置与版本变更日志**
 

@@ -1,6 +1,6 @@
 # anthropics/sandbox-runtime
 
-⭐ 7,227 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/anthropics/sandbox-runtime) · 组织维护
+⭐ 7,245 · TypeScript · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/anthropics/sandbox-runtime) · 组织维护
 
 **为 AI Agent 等进程加 OS 级文件与网络隔离的沙箱工具**
 

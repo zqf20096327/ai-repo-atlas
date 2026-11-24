@@ -1,6 +1,6 @@
 # codercops/chatcops
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/codercops/chatcops) · [官网](https://chat.codercops.com) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/codercops/chatcops) · [官网](https://chat.codercops.com) · 组织维护
 
 **网站可嵌入的通用 AI 聊天挂件，一行 script 接入多模型**
 

@@ -1,6 +1,6 @@
 # sherwinvishesh/OpenGSO
 
-⭐ 397 · JavaScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/sherwinvishesh/OpenGSO) · [官网](https://sherwinvishesh.github.io/OpenGSO/) · 个人维护
+⭐ 395 · JavaScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/sherwinvishesh/OpenGSO) · [官网](https://sherwinvishesh.github.io/OpenGSO/) · 个人维护
 
 **让网站对 AI agent 可读的评分与 Markdown 孪生生成工具**
 

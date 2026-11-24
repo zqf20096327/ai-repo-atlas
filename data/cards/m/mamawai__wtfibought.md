@@ -1,6 +1,6 @@
 # mamawai/wtfibought
 
-⭐ 146 · Java · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/mamawai/wtfibought) · [官网](https://intro.wtfibought.com) · 个人维护 · 中文 README
+⭐ 146 · Java · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mamawai/wtfibought) · [官网](https://intro.wtfibought.com) · 个人维护 · 中文 README
 
 **LLM 交易 agent 竞技场：自带模型和 key，用虚拟资金交易真实行情**
 

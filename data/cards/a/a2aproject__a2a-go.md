@@ -1,6 +1,6 @@
 # a2aproject/a2a-go
 
-⭐ 512 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/a2aproject/a2a-go) · [官网](https://a2a-protocol.org/) · 组织维护
+⭐ 513 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/a2aproject/a2a-go) · [官网](https://a2a-protocol.org/) · 组织维护
 
 **A2A 协议的 Go SDK：构建与调用 agent 服务端和客户端**
 

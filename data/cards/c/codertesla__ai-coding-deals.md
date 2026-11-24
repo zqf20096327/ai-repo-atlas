@@ -1,6 +1,6 @@
 # codertesla/ai-coding-deals
 
-⭐ 144 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/codertesla/ai-coding-deals) · 个人维护 · 中文 README
+⭐ 145 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/codertesla/ai-coding-deals) · 个人维护 · 中文 README
 
 **AI 编程工具省钱指南：追踪免费额度、折扣与开源替代**
 

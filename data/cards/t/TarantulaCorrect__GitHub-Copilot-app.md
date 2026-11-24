@@ -1,6 +1,6 @@
 # TarantulaCorrect/GitHub-Copilot-app
 
-⭐ 373 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TarantulaCorrect/GitHub-Copilot-app) · 组织维护
+⭐ 370 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TarantulaCorrect/GitHub-Copilot-app) · 组织维护
 
 **桌面端 Copilot 代理工作台：跨仓库发现、运行与落地开发任务**
 

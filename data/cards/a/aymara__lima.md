@@ -1,6 +1,6 @@
 # aymara/lima
 
-⭐ 119 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/aymara/lima) · [官网](http://aymara.github.io/lima/) · 组织维护
+⭐ 119 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/aymara/lima) · [官网](http://aymara.github.io/lima/) · 组织维护
 
 **多语言 NLP 分析工具包：分词、词性标注、实体关系抽取**
 

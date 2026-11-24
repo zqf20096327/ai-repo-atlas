@@ -1,6 +1,6 @@
 # ui-insight/vandalizer
 
-⭐ 13 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/ui-insight/vandalizer) · 组织维护
+⭐ 13 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/ui-insight/vandalizer) · 组织维护
 
 **高校科研管理文档的 AI 审查与结构化数据提取平台**
 

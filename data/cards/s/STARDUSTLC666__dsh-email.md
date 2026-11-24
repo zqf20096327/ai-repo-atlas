@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-email
 
-⭐ 51 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/STARDUSTLC666/dsh-email) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 51 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/STARDUSTLC666/dsh-email) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的邮件工作台插件：收发邮件、草稿确认后发送**
 

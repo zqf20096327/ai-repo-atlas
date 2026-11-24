@@ -1,6 +1,6 @@
 # shengyanlin/claude-overlay
 
-⭐ 104 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shengyanlin/claude-overlay) · 个人维护
+⭐ 104 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/shengyanlin/claude-overlay) · 个人维护
 
 **Windows 屏幕感知悬浮 Claude Code 聊天窗，用自有订阅**
 

@@ -1,6 +1,6 @@
 # fideus-labs/KonfAI
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/fideus-labs/KonfAI) · [官网](https://fideus-labs.github.io/KonfAI/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/fideus-labs/KonfAI) · [官网](https://fideus-labs.github.io/KonfAI/) · 组织维护
 
 **声明式医学影像深度学习执行引擎，YAML 配置驱动训练到部署**
 

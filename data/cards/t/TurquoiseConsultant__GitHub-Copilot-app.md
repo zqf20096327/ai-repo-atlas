@@ -1,6 +1,6 @@
 # TurquoiseConsultant/GitHub-Copilot-app
 
-⭐ 373 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TurquoiseConsultant/GitHub-Copilot-app) · 组织维护
+⭐ 370 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TurquoiseConsultant/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 GitHub Copilot 桌面应用：跨仓库查找、运行与交付软件工作**
 

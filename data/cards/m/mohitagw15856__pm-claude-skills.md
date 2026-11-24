@@ -1,6 +1,6 @@
 # mohitagw15856/pm-claude-skills
 
-⭐ 1,589 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mohitagw15856/pm-claude-skills) · [官网](https://mohitagw15856.github.io/pm-claude-skills/) · 个人维护 · 中文 README
+⭐ 1,595 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mohitagw15856/pm-claude-skills) · [官网](https://mohitagw15856.github.io/pm-claude-skills/) · 个人维护 · 中文 README
 
 **面向 AI 助手的职业任务技能库：1,374 个 markdown 技能**
 

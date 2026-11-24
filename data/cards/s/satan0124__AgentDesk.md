@@ -1,6 +1,6 @@
 # satan0124/AgentDesk
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/satan0124/AgentDesk) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/satan0124/AgentDesk) · 个人维护 · 中文 README
 
 **Windows 桌面应用：在统一聊天中管理多个 CLI 编码 agent**
 

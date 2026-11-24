@@ -1,6 +1,6 @@
 # mirkobozzetto/flowflow
 
-⭐ 173 · Rust · EUPL-1.2 · 推送 2026-11-12 · [GitHub](https://github.com/mirkobozzetto/flowflow) · [官网](https://apps.apple.com/us/app/flowflow/id6773033233) · 个人维护
+⭐ 172 · Rust · EUPL-1.2 · 推送 2026-11-12 · [GitHub](https://github.com/mirkobozzetto/flowflow) · [官网](https://apps.apple.com/us/app/flowflow/id6773033233) · 个人维护
 
 **iPhone/Mac 语音笔记应用：录音转写、与笔记 RAG 对话与执行动作**
 

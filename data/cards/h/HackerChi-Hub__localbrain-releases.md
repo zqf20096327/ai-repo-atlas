@@ -1,6 +1,6 @@
 # HackerChi-Hub/localbrain-releases
 
-⭐ 16 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/HackerChi-Hub/localbrain-releases) · [官网](https://hyphentech.top/localbrain-local-ai-box/) · 组织维护 · 中文 README
+⭐ 16 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/HackerChi-Hub/localbrain-releases) · [官网](https://hyphentech.top/localbrain-local-ai-box/) · 组织维护 · 中文 README
 
 **本地大模型与文件、语音/图片/视频任务的桌面工作台**
 

@@ -1,6 +1,6 @@
 # e2bgateway/e2bgateway
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/e2bgateway/e2bgateway) · [官网](https://deepwiki.com/e2bgateway/e2bgateway) · 组织维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/e2bgateway/e2bgateway) · [官网](https://deepwiki.com/e2bgateway/e2bgateway) · 组织维护
 
 **给 AI agent 沙箱用的统一网关：兼容 E2B API 接多后端**
 

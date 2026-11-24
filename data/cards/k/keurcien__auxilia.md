@@ -1,6 +1,6 @@
 # keurcien/auxilia
 
-⭐ 24 · HTML · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/keurcien/auxilia) · 个人维护
+⭐ 25 · HTML · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/keurcien/auxilia) · 个人维护
 
 **面向团队的自托管 Web 端 MCP AI 助手运行平台**
 

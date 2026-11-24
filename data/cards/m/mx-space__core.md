@@ -1,6 +1,6 @@
 # mx-space/core
 
-⭐ 568 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/mx-space/core) · 个人维护 · 中文 README
+⭐ 569 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mx-space/core) · 个人维护 · 中文 README
 
 **面向个人博客与创作者的 AI 增强无头 CMS 全栈 monorepo**
 

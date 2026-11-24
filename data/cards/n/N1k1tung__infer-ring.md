@@ -1,6 +1,6 @@
 # N1k1tung/infer-ring
 
-⭐ 31 · Swift · MIT · 推送 2026-05-19 · [GitHub](https://github.com/N1k1tung/infer-ring) · 个人维护
+⭐ 32 · Swift · MIT · 推送 2026-05-19 · [GitHub](https://github.com/N1k1tung/infer-ring) · 个人维护
 
 **跨 iOS/macOS 设备组合内存做本地 LLM 推理的应用**
 

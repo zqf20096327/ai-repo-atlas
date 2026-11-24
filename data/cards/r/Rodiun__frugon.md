@@ -1,6 +1,6 @@
 # Rodiun/frugon
 
-⭐ 218 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Rodiun/frugon) · [官网](https://frugon.rodiun.io) · 组织维护
+⭐ 218 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Rodiun/frugon) · [官网](https://frugon.rodiun.io) · 组织维护
 
 **本地运行的 LLM 账单分析器：定位成本泄漏并给出路由建议**
 

@@ -1,6 +1,6 @@
 # reductstore/reductstore
 
-⭐ 380 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/reductstore/reductstore) · [官网](https://www.reduct.store) · 组织维护
+⭐ 380 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/reductstore/reductstore) · [官网](https://www.reduct.store) · 组织维护
 
 **面向机器人与工业物联网的时间索引对象存储**
 

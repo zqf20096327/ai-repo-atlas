@@ -1,6 +1,6 @@
 # pgsty/vchord
 
-⭐ 18 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/pgsty/vchord) · [官网](https://vchord.pgsty.com/docs/vchord) · 组织维护
+⭐ 19 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pgsty/vchord) · [官网](https://vchord.pgsty.com/docs/vchord) · 组织维护
 
 **PostgreSQL 向量相似度检索扩展：磁盘友好的大规模 ANN 索引**
 

@@ -1,6 +1,6 @@
 # Mal-Suen/JianYing-AutoEdit-MCP
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Mal-Suen/JianYing-AutoEdit-MCP) · 个人维护 · 中文 README
+⭐ 13 · Python · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/Mal-Suen/JianYing-AutoEdit-MCP) · 个人维护 · 中文 README
 
 **让 AI 通过 MCP 协议组装剪映草稿的服务器**
 

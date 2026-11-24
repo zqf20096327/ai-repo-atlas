@@ -1,6 +1,6 @@
 # pain2hustle/AMH-Cloudflare-Ops-MCP-by-WT
 
-⭐ 10 · HTML · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/pain2hustle/AMH-Cloudflare-Ops-MCP-by-WT) · [官网](https://mcp.artificialmindhive.com) · 个人维护
+⭐ 10 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/pain2hustle/AMH-Cloudflare-Ops-MCP-by-WT) · [官网](https://mcp.artificialmindhive.com) · 个人维护
 
 **让 AI 在审批门控下安全操作你的 Cloudflare 站点的 MCP 工具集**
 

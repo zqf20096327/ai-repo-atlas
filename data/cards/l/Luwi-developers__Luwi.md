@@ -1,6 +1,6 @@
 # Luwi-developers/Luwi
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Luwi-developers/Luwi) · [官网](https://github.com/Luwi-developers/Luwi/releases) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Luwi-developers/Luwi) · [官网](https://github.com/Luwi-developers/Luwi/releases) · 个人维护 · 中文 README
 
 **让 AI 操作安卓手机的端侧 Agent 应用（dsh 移植）**
 

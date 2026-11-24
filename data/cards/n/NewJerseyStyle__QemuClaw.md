@@ -1,6 +1,6 @@
 # NewJerseyStyle/QemuClaw
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NewJerseyStyle/QemuClaw) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NewJerseyStyle/QemuClaw) · 个人维护 · 中文 README
 
 **在 QEMU 虚拟机中一键隔离部署 OpenClaw 个人 AI 助手**
 

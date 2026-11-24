@@ -1,6 +1,6 @@
 # ellmos-ai/skills
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ellmos-ai/skills) · [官网](https://github.com/ellmos-ai/skills#readme) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ellmos-ai/skills) · [官网](https://github.com/ellmos-ai/skills#readme) · 组织维护
 
 **面向 Claude Code 类 agent 的可移植 SKILL.md 技能库**
 

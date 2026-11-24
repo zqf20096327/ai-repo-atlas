@@ -1,6 +1,6 @@
 # diagram-of-thought/diagram-of-thought
 
-⭐ 201 · 推送 2026-05-14 · [GitHub](https://github.com/diagram-of-thought/diagram-of-thought) · [官网](https://huggingface.co/papers/2409.10038) · 组织维护
+⭐ 202 · 推送 2026-05-14 · [GitHub](https://github.com/diagram-of-thought/diagram-of-thought) · [官网](https://huggingface.co/papers/2409.10038) · 组织维护
 
 **单模型构建推理 DAG 的推理框架论文官方实现**
 

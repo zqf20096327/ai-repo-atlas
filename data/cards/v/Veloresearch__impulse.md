@@ -1,6 +1,6 @@
 # Veloresearch/impulse
 
-⭐ 39 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Veloresearch/impulse) · [官网](https://veloresearch.com/impulse) · 组织维护
+⭐ 39 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Veloresearch/impulse) · [官网](https://veloresearch.com/impulse) · 组织维护
 
 **本地运行 GGUF 模型的桌面应用：长记忆、电脑操作与 OpenAI 兼容 API**
 

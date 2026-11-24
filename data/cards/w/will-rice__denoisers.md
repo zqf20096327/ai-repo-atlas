@@ -1,6 +1,6 @@
 # will-rice/denoisers
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/will-rice/denoisers) · [官网](https://huggingface.co/spaces/wrice/denoisers) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/will-rice/denoisers) · [官网](https://huggingface.co/spaces/wrice/denoisers) · 个人维护
 
 **面向波形音频的 PyTorch 深度学习降噪库**
 

@@ -1,6 +1,6 @@
 # FlexMeasures/flexmeasures
 
-⭐ 218 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/FlexMeasures/flexmeasures) · [官网](https://flexmeasures.io) · 组织维护
+⭐ 218 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FlexMeasures/flexmeasures) · [官网](https://flexmeasures.io) · 组织维护
 
 **能源柔性资产的实时调度与预测优化平台（EMS 后端）**
 

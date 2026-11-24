@@ -1,6 +1,6 @@
 # jan-janssen/gmailsorter
 
-⭐ 20 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/jan-janssen/gmailsorter) · [官网](http://gmailsorter.readthedocs.io) · 个人维护
+⭐ 20 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/jan-janssen/gmailsorter) · [官网](http://gmailsorter.readthedocs.io) · 个人维护
 
 **基于相似度学习自动分类 Gmail 邮件的服务端工具**
 

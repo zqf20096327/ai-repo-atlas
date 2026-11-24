@@ -1,6 +1,6 @@
 # Aluminium0926/doc-tree
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Aluminium0926/doc-tree) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Aluminium0926/doc-tree) · 个人维护 · 中文 README
 
 **给读文档的人用：划词向 AI 提问且问答锚定原文可回看**
 

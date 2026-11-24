@@ -1,6 +1,6 @@
 # catex-lab/opc-agent
 
-⭐ 25 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/catex-lab/opc-agent) · 组织维护 · 中文 README
+⭐ 26 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/catex-lab/opc-agent) · 组织维护 · 中文 README
 
 **把本机多个 Agent CLI 收进一个 IM 界面的桌面应用**
 

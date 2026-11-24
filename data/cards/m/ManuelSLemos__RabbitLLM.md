@@ -1,6 +1,6 @@
 # ManuelSLemos/RabbitLLM
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-02-28 · [GitHub](https://github.com/ManuelSLemos/RabbitLLM) · 个人维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-02-28 · [GitHub](https://github.com/ManuelSLemos/RabbitLLM) · 个人维护
 
 **AirLLM 分支：4GB 显存逐层流式推理 70B+ 大模型**
 

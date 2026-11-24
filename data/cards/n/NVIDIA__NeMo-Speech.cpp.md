@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Speech.cpp
 
-⭐ 278 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/NeMo-Speech.cpp) · 组织维护
+⭐ 279 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/NeMo-Speech.cpp) · 组织维护
 
 **NVIDIA 语音模型家族的本地 C++ 推理运行时与 CLI**
 

@@ -1,6 +1,6 @@
 # borisdali/helpdesk
 
-⭐ 12 · Go · 推送 2026-11-20 · [GitHub](https://github.com/borisdali/helpdesk) · [官网](https://aiHelpDesk.biz) · 个人维护
+⭐ 12 · Go · 推送 2026-11-23 · [GitHub](https://github.com/borisdali/helpdesk) · [官网](https://aiHelpDesk.biz) · 个人维护
 
 **数据库故障响应的治理型 AI Agent 系统，供 DBA/SRE 使用**
 

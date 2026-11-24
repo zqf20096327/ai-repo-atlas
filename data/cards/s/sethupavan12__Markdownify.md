@@ -1,6 +1,6 @@
 # sethupavan12/Markdownify
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/sethupavan12/Markdownify) · [官网](https://clickpy.clickhouse.com/dashboard/llm-markdownify) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sethupavan12/Markdownify) · [官网](https://clickpy.clickhouse.com/dashboard/llm-markdownify) · 个人维护
 
 **用视觉 LLM 把 PDF/扫描件/图片转成 Markdown 的工具库**
 

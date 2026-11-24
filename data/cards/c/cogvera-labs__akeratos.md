@@ -1,6 +1,6 @@
 # cogvera-labs/akeratos
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cogvera-labs/akeratos) · [官网](https://cogveralabs.ai/akeratos) · 组织维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cogvera-labs/akeratos) · [官网](https://cogveralabs.ai/akeratos) · 组织维护
 
 **在 Apple Silicon Mac 上从零预训练小语言模型的工具**
 

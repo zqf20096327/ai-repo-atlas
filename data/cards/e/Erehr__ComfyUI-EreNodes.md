@@ -1,6 +1,6 @@
 # Erehr/ComfyUI-EreNodes
 
-⭐ 86 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Erehr/ComfyUI-EreNodes) · 个人维护
+⭐ 88 · JavaScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Erehr/ComfyUI-EreNodes) · 个人维护
 
 **ComfyUI 提示词管理节点集：可切换标签、标签库与 booru 浏览器**
 

@@ -1,6 +1,6 @@
 # andyleimc-source/hap-auto-maker
 
-⭐ 17 · Python · 推送 2026-05-08 · [GitHub](https://github.com/andyleimc-source/hap-auto-maker) · [官网](https://www.mingdao.com) · 个人维护 · 中文 README
+⭐ 18 · Python · 推送 2026-05-08 · [GitHub](https://github.com/andyleimc-source/hap-auto-maker) · [官网](https://www.mingdao.com) · 个人维护 · 中文 README
 
 **自然语言驱动的明道云 HAP 应用自动搭建工具**
 

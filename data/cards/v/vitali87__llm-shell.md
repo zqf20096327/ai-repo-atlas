@@ -1,6 +1,6 @@
 # vitali87/llm-shell
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vitali87/llm-shell) · [官网](https://ollama.com/vitali87/shell-commands) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vitali87/llm-shell) · [官网](https://ollama.com/vitali87/shell-commands) · 个人维护
 
 **Zsh 终端 AI 助手：自然语言生成 shell 命令（本地 Ollama）**
 

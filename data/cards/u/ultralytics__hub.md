@@ -1,6 +1,6 @@
 # ultralytics/hub
 
-⭐ 254 · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/hub) · [官网](https://platform.ultralytics.com) · 组织维护
+⭐ 255 · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/hub) · [官网](https://platform.ultralytics.com) · 组织维护
 
 **已停服的 Ultralytics HUB 历史仓库，指向继任的 Ultralytics Platform**
 

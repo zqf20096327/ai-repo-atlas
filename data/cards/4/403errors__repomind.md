@@ -1,6 +1,6 @@
 # 403errors/repomind
 
-⭐ 291 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/403errors/repomind) · [官网](https://repomind.in) · 组织维护
+⭐ 291 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/403errors/repomind) · [官网](https://repomind.in) · 组织维护
 
 **用 Agentic CAG 与公开 GitHub 仓库/开发者对话的 AI 分析平台**
 

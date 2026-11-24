@@ -1,6 +1,6 @@
 # sezer-muhammed/Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti
 
-⭐ 52 · 推送 2026-01-02 · [GitHub](https://github.com/sezer-muhammed/Teknofest-Ulasimda-Yapay-Zeka-Veri-Seti) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **2022 Teknofest 交通赛俯视图目标检测数据集**
 

@@ -1,6 +1,6 @@
 # gpt-img-2/ai-image-prompt-cookbook
 
-⭐ 113 · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/gpt-img-2/ai-image-prompt-cookbook) · [官网](https://gptimg2.art/zh/prompts/gpt-image-2) · 个人维护 · 中文 README
+⭐ 114 · NOASSERTION · 推送 2026-07-16 · [GitHub](https://github.com/gpt-img-2/ai-image-prompt-cookbook) · [官网](https://gptimg2.art/zh/prompts/gpt-image-2) · 个人维护 · 中文 README
 
 **面向电商与内容创作的中文 AI 图片提示词模板库**
 

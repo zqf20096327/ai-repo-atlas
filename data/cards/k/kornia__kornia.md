@@ -1,6 +1,6 @@
 # kornia/kornia
 
-⭐ 12,406 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kornia/kornia) · [官网](https://kornia.readthedocs.io) · 组织维护 · 中文 README
+⭐ 12,406 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kornia/kornia) · [官网](https://kornia.readthedocs.io) · 组织维护 · 中文 README
 
 **面向空间 AI 开发者的可微分几何计算机视觉 PyTorch 库**
 

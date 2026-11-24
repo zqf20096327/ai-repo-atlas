@@ -1,6 +1,6 @@
 # AndyShaman/gemini-webapi-mcp
 
-⭐ 70 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/AndyShaman/gemini-webapi-mcp) · [官网](https://ai-handler.com/#gemini-webapi-mcp) · 个人维护
+⭐ 69 · Python · AGPL-3.0 · 推送 2026-09-21 · [GitHub](https://github.com/AndyShaman/gemini-webapi-mcp) · [官网](https://ai-handler.com/#gemini-webapi-mcp) · 个人维护
 
 **通过浏览器 cookies 接入 Gemini 的 MCP 服务器：图像生成、编辑与聊天**
 

@@ -1,6 +1,6 @@
 # menpo/menpo
 
-⭐ 328 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/menpo/menpo) · [官网](http://www.menpo.org) · 组织维护
+⭐ 328 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/menpo/menpo) · [官网](http://www.menpo.org) · 组织维护
 
 **处理标注图像/网格数据的统计建模核心库**
 

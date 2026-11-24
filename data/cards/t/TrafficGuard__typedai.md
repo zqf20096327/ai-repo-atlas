@@ -1,6 +1,6 @@
 # TrafficGuard/typedai
 
-⭐ 1,196 · TypeScript · MIT · 推送 2025-12-22 · [GitHub](https://github.com/TrafficGuard/typedai) · [官网](https://typedai.dev) · 组织维护
+⭐ 1,197 · TypeScript · MIT · 推送 2025-12-22 · [GitHub](https://github.com/TrafficGuard/typedai) · [官网](https://typedai.dev) · 组织维护
 
 **TypeScript 开发者的 AI agent 与 LLM 工作流平台**
 

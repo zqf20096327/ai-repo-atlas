@@ -1,6 +1,6 @@
 # youssofal/MTPLX
 
-⭐ 2,768 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/youssofal/MTPLX) · [官网](https://mtplx.com) · 个人维护
+⭐ 2,801 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/youssofal/MTPLX) · [官网](https://mtplx.com) · 个人维护
 
 **Mac 用户在 Apple Silicon 上本地运行 LLM 的推理引擎**
 

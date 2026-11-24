@@ -1,10 +1,10 @@
 # gptme/gptme
 
-⭐ 4,492 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gptme/gptme) · [官网](https://gptme.org/) · 组织维护
+⭐ 4,492 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/gptme/gptme) · [官网](https://gptme.org/) · 组织维护
 
-**在终端运行的个人 AI agent：写代码、执行命令、浏览网页**
+**在终端中运行的本地工具 AI agent CLI**
 
-在终端中运行的 agent 工具，内置 shell、Python、文件读写补丁、浏览器（Playwright）、视觉、截图、GitHub CLI、tmux、subagent、MCP 等工具。面向需要在终端环境执行任务的开发者，支持交互式 CLI、TUI、自托管 Web UI 与 REST API server，可扩展为持续运行的持久自主 agent（gptme-agent-template）。Provider 无关，支持多家 API 或本地模型，并通过插件、Skills、Lessons、Hooks 机制扩展；沙箱化执行支持 Docker 与 Wasmtime。
+在终端中运行的个人 AI agent CLI，可在笔记本、ssh、tmux、无头服务器和 CI 中使用，provider 无关且本地优先。内置 shell、Python、文件读写与 patch、浏览器（Playwright）、视觉、截图、tmux、GitHub、MCP 等约 20 个本地工具；支持插件、技能与 lessons 的分层扩展，可通过 gptme-agent-template 搭建持久自主 agent，或经 ACP 作为 Zed/JetBrains 的编码 agent。通过 PyPI/pipx 安装，另有 Linux/macOS/Windows 桌面应用与可自托管的 Web UI 及 REST API。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 内置 shell/Python/浏览器/视觉/tmux/MCP 等 20 余个工具
-- 可配置为持久自主 agent，含记忆、任务队列与多 agent 协调
-- MCP 双向：既可加载外部 MCP 服务器，也可作为 MCP server 暴露工具
-- 桌面应用支持 Linux/macOS/Windows，带自动更新
+- 内置约 20 个本地工具（shell/ipython/patch/browser/vision/tmux/computer 等）
+- 支持插件、技能与 lessons 的分层扩展，及跨 harness 共享的本地 Markdown 记忆库
+- 双向 MCP（客户端与服务端）与 ACP 集成，可作为 Zed/JetBrains 中的编码 agent
+- 提供 gptme-agent-template 搭建持久自主 agent（git 追踪工作区、定时运行循环、多 agent 协调）
 
 ## 适用场景
 
-- 在终端让 agent 写代码、跑命令并提交到 GitHub
-- 在 Zed/JetBrains 编辑器中作为编码 agent 使用
-- 在无头服务器或 CI 流水线中运行自主任务
-- 通过 Web UI 在浏览器中与 agent 对话
+- 在终端里让 agent 写代码、跑命令、改文件并自我纠错
+- 把 agent 接入编辑器（Zed/JetBrains）或 Claude Desktop 等 MCP 客户端
+- 用模板搭建持续运行的自主 agent 处理 GitHub、邮件等集成任务
+- 通过 Ollama 或 OpenAI 兼容服务在本地运行 agent
 
 ## 场景标签
 
-`多智能体` `浏览器自动化` `代码生成` `AI 助手` · 领域:Agent 开发
+`AI 助手` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L49: 📜 A personal AI agent that runs anywhere a terminal runs — your laptop,
-> L151: - 💻 **Code execution**
-> L271: gptme is designed to run not just interactively but as a **persistent autonomous agent** — an AI that runs continu
+> L170: - 🤖 **Support for many LLM [providers][docs-providers]**
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5f1739a57b39` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9c8e23b39406` · [字段定义](../../DATASET.md)*

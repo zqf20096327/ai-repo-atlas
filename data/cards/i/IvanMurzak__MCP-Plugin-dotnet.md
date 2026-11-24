@@ -1,6 +1,6 @@
 # IvanMurzak/MCP-Plugin-dotnet
 
-⭐ 21 · C# · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/IvanMurzak/MCP-Plugin-dotnet) · 个人维护
+⭐ 21 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/IvanMurzak/MCP-Plugin-dotnet) · 个人维护
 
 **.NET 应用的 MCP 桥接插件：把方法/数据暴露为 MCP 工具**
 

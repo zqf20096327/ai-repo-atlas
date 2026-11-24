@@ -1,6 +1,6 @@
 # aj-seven/ai-hub
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/aj-seven/ai-hub) · [官网](https://ai-hubx.vercel.app) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aj-seven/ai-hub) · [官网](https://ai-hubx.vercel.app) · 个人维护
 
 **面向用户的多模型聊天与内容生成 Web/桌面应用**
 

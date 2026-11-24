@@ -1,6 +1,6 @@
 # fujc683/cheap-llm-api
 
-⭐ 11 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/cheap-llm-api) · [官网](https://gola.apimart.ai/k-5qbxtS) · 个人维护
+⭐ 15 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/cheap-llm-api) · [官网](https://gola.apimart.ai/k-5qbxtS) · 个人维护
 
 **APIMart 平台 LLM 价格排名清单与两级路由省钱模式**
 

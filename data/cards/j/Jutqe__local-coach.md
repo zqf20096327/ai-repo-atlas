@@ -1,6 +1,6 @@
 # Jutqe/local-coach
 
-⭐ 3 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Jutqe/local-coach) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Jutqe/local-coach) · 个人维护 · 中文 README
 
 **本地运行的私人教练-心理陪伴应用，从 Obsidian 笔记学习**
 

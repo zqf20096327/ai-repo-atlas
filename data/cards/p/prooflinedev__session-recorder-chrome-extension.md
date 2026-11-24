@@ -1,6 +1,6 @@
 # prooflinedev/session-recorder-chrome-extension
 
-⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/prooflinedev/session-recorder-chrome-extension) · [官网](https://proofline.sh/session-recorder-chrome-extension/) · 组织维护
+⭐ 21 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/prooflinedev/session-recorder-chrome-extension) · [官网](https://proofline.sh/session-recorder-chrome-extension/) · 组织维护
 
 **开源 Chrome 扩展：录制浏览器 bug 会话并生成 GitHub issue**
 

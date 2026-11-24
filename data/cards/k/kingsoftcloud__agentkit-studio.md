@@ -1,6 +1,6 @@
 # kingsoftcloud/agentkit-studio
 
-⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kingsoftcloud/agentkit-studio) · [官网](https://kingsoftcloud.github.io/agentkit-studio/) · 组织维护 · 中文 README
+⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kingsoftcloud/agentkit-studio) · [官网](https://kingsoftcloud.github.io/agentkit-studio/) · 组织维护 · 中文 README
 
 **面向开发者的 DeepSeek Harness Agent 编排与部署工作台**
 

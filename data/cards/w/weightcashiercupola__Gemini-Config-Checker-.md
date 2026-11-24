@@ -1,6 +1,6 @@
 # weightcashiercupola/Gemini-Config-Checker-
 
-⭐ 470 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/weightcashiercupola/Gemini-Config-Checker-) · 个人维护
+⭐ 465 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/weightcashiercupola/Gemini-Config-Checker-) · 个人维护
 
 **检测代理配置能否访问 Google AI Studio/Gemini 的跨平台工具**
 

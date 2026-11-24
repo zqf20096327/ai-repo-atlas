@@ -1,6 +1,6 @@
 # ckaraca/awesome-jev
 
-⭐ 18 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/ckaraca/awesome-jev) · [官网](https://docs.typesafe.ai/) · 个人维护
+⭐ 18 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/ckaraca/awesome-jev) · [官网](https://docs.typesafe.ai/) · 个人维护
 
 **基于 Jev 模型构建的工具、集成与实验的策展清单**
 

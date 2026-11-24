@@ -1,6 +1,6 @@
 # hv0905/NekoImageGallery
 
-⭐ 195 · Python · AGPL-3.0 · 推送 2026-04-13 · [GitHub](https://github.com/hv0905/NekoImageGallery) · [官网](https://image-insights.edgeneko.com/) · 个人维护 · 中文 README
+⭐ 196 · Python · AGPL-3.0 · 推送 2026-04-13 · [GitHub](https://github.com/hv0905/NekoImageGallery) · [官网](https://image-insights.edgeneko.com/) · 个人维护 · 中文 README
 
 **基于 CLIP 的 AI 图片搜索引擎：自然语言与以图搜图**
 

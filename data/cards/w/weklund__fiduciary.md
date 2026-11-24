@@ -1,6 +1,6 @@
 # weklund/fiduciary
 
-⭐ 13 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/weklund/fiduciary) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/weklund/fiduciary) · 个人维护
 
 **本地优先的个人财务顾问：Plaid+SQLite+LLM Agent 技能**
 

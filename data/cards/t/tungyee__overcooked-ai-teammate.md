@@ -1,6 +1,6 @@
 # tungyee/overcooked-ai-teammate
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tungyee/overcooked-ai-teammate) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tungyee/overcooked-ai-teammate) · 个人维护 · 中文 README
 
 **Overcooked! 2 的实时 AI 队友：边做菜边听懂语音指令**
 

@@ -1,6 +1,6 @@
 # QAInsights/jmeter-ai
 
-⭐ 67 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/QAInsights/jmeter-ai) · [官网](https://jmeter.ai) · 个人维护
+⭐ 67 · Java · MIT · 推送 2026-11-24 · [GitHub](https://github.com/QAInsights/jmeter-ai) · [官网](https://jmeter.ai) · 个人维护
 
 **Apache JMeter 的 AI 助手插件：聊天、Agent 改测试计划、提取器生成**
 

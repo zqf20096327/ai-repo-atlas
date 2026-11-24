@@ -1,6 +1,6 @@
 # adaline/gateway
 
-⭐ 608 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/adaline/gateway) · [官网](https://www.adaline.ai/docs) · 组织维护
+⭐ 608 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adaline/gateway) · [官网](https://www.adaline.ai/docs) · 组织维护
 
 **TypeScript 统一 LLM 调用 SDK：本地调用 300+ 模型**
 

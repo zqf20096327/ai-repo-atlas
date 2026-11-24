@@ -1,6 +1,6 @@
 # AIRclub-UdeSA/AIR-newsletter
 
-⭐ 10 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/AIRclub-UdeSA/AIR-newsletter) · 个人维护
+⭐ 10 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/AIRclub-UdeSA/AIR-newsletter) · 个人维护
 
 **大学 AI/机器人社的自动化新闻通讯流水线**
 

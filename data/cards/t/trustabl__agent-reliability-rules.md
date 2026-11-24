@@ -1,6 +1,6 @@
 # trustabl/agent-reliability-rules
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/trustabl/agent-reliability-rules) · 组织维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/trustabl/agent-reliability-rules) · 组织维护
 
 **AI agent SDK 可靠性/安全检测规则包，供 Trustabl 扫描器调用**
 

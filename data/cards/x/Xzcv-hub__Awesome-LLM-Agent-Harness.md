@@ -1,6 +1,6 @@
 # Xzcv-hub/Awesome-LLM-Agent-Harness
 
-⭐ 20 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Xzcv-hub/Awesome-LLM-Agent-Harness) · 个人维护
+⭐ 21 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Xzcv-hub/Awesome-LLM-Agent-Harness) · 个人维护
 
 **LLM Agent Harness 论文与系统策展清单：人机交互/自进化/长程自主**
 

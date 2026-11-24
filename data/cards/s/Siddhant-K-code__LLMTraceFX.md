@@ -1,6 +1,6 @@
 # Siddhant-K-code/LLMTraceFX
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Siddhant-K-code/LLMTraceFX) · [官网](https://siddhantkhare.com/writing?q=Inference+lab) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Siddhant-K-code/LLMTraceFX) · [官网](https://siddhantkhare.com/writing?q=Inference+lab) · 个人维护
 
 **面向本地模型与 OpenAI 兼容 API 的 LLM 推理测量与验证工具包**
 

@@ -1,6 +1,6 @@
 # NVIDIA/Nomos
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/Nomos) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/Nomos) · 组织维护
 
 **给企业开发者的 AI agent 特权操作授权与审计层**
 

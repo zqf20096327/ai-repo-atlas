@@ -1,6 +1,6 @@
 # taiga-family/taiga-ui-mcp
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/taiga-family/taiga-ui-mcp) · [官网](https://www.npmjs.com/package/@taiga-ui/mcp) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/taiga-family/taiga-ui-mcp) · [官网](https://www.npmjs.com/package/@taiga-ui/mcp) · 组织维护
 
 **为 AI 助手提供 Taiga UI 组件文档检索的 MCP 服务器**
 

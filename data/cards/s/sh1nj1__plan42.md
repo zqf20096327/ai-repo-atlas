@@ -1,6 +1,6 @@
 # sh1nj1/plan42
 
-⭐ 13 · Ruby · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/sh1nj1/plan42) · [官网](https://collavre.com) · 个人维护
+⭐ 13 · Ruby · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/sh1nj1/plan42) · [官网](https://collavre.com) · 个人维护
 
 **人与 AI agent 共用的自托管协作工作区：文档/任务/讨论/上下文合一**
 

@@ -1,6 +1,6 @@
 # cotletdev/tradify-api-mcp-server
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/tradify-api-mcp-server) · [官网](https://cotlet.dev/integrations/tradify-api-mcp-server) · 组织维护
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/tradify-api-mcp-server) · [官网](https://cotlet.dev/integrations/tradify-api-mcp-server) · 组织维护
 
 **给现场服务企业用户：让 AI agent 操作 Tradify 的 API 与 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # JonathanRiche/verde
 
-⭐ 36 · Zig · MIT · 推送 2026-11-20 · [GitHub](https://github.com/JonathanRiche/verde) · [官网](https://verdeai.dev) · 个人维护
+⭐ 36 · Zig · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JonathanRiche/verde) · [官网](https://verdeai.dev) · 个人维护
 
 **在桌面平铺窗口中并排运行各编码 agent 的本地工作区**
 

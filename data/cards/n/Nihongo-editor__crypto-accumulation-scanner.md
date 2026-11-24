@@ -1,6 +1,6 @@
 # Nihongo-editor/crypto-accumulation-scanner
 
-⭐ 153 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/Nihongo-editor/crypto-accumulation-scanner) · 个人维护
+⭐ 153 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/Nihongo-editor/crypto-accumulation-scanner) · 个人维护
 
 **给加密货币交易者的吸筹形态扫描机器人，定时推送排名候选清单**
 

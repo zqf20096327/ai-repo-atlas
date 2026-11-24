@@ -1,6 +1,6 @@
 # veasel-labs/veasel
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/veasel-labs/veasel) · [官网](https://www.veasel.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **V 语言编写的开源终端 AI 编码代理，本地运行、审批生效**
 
@@ -11,7 +11,7 @@ Veasel Code 是一个用 V 实现的开源 AI 编码代理，包含回环 HTTP �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

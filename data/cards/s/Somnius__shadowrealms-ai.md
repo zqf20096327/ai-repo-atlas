@@ -1,6 +1,6 @@
 # Somnius/shadowrealms-ai
 
-⭐ 23 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Somnius/shadowrealms-ai) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Somnius/shadowrealms-ai) · 个人维护
 
 **自托管的黑暗世界跑团 Web 应用：AI 主持人带掷骰、语音与记忆**
 

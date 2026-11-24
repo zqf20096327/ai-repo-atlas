@@ -1,6 +1,6 @@
 # tamim2vv-creator/claude-3-7-extended-thinking-billing
 
-⭐ 70 · 推送 2026-11-06 · [GitHub](https://github.com/tamim2vv-creator/claude-3-7-extended-thinking-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 92 · 推送 2026-11-06 · [GitHub](https://github.com/tamim2vv-creator/claude-3-7-extended-thinking-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向国内用户的 Claude 订阅绑卡付费教程，推广 CoreGold 虚拟卡**
 

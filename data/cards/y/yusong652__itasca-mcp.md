@@ -1,6 +1,6 @@
 # yusong652/itasca-mcp
 
-⭐ 235 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yusong652/itasca-mcp) · [官网](https://pypi.org/project/itasca-mcp/) · 个人维护 · 中文 README
+⭐ 235 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yusong652/itasca-mcp) · [官网](https://pypi.org/project/itasca-mcp/) · 个人维护 · 中文 README
 
 **让 AI agent 通过对话操作 ITASCA 岩土模拟软件的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # Hy4ri/hermes-mobile
 
-⭐ 487 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Hy4ri/hermes-mobile) · [官网](https://hy4ri.github.io/hermes-mobile/) · 个人维护
+⭐ 491 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Hy4ri/hermes-mobile) · [官网](https://hy4ri.github.io/hermes-mobile/) · 个人维护
 
 **在 Android 手机上控制 Hermes AI agent 的原生客户端**
 

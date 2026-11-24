@@ -1,6 +1,6 @@
 # sirfyyn/FastLocalExperts
 
-⭐ 3 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sirfyyn/FastLocalExperts) · [官网](https://sirfyyn.de/en/fle/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在单张 32GB GPU 上本地运行大型 MoE 模型的 llama.cpp 分支**
 
@@ -11,7 +11,7 @@ FLE 是一个面向本地 LLM 推理的 llama.cpp 分支，针对大参数量 Mo
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

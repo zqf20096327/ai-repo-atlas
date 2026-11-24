@@ -1,6 +1,6 @@
 # akshinmrv/Voxa
 
-⭐ 20 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/akshinmrv/Voxa) · [官网](https://voxa.servoogle.com) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/akshinmrv/Voxa) · [官网](https://voxa.servoogle.com) · 个人维护
 
 **单文件 Python CLI：将视频配音到另一语言且保持同步**
 

@@ -1,6 +1,6 @@
 # benjiyaya/ComfyUI-ReaVideoBreakdown
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/benjiyaya/ComfyUI-ReaVideoBreakdown) · 个人维护 · 中文 README
+⭐ 113 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/benjiyaya/ComfyUI-ReaVideoBreakdown) · 个人维护 · 中文 README
 
 **ComfyUI 节点：逐镜头拆解视频并生成文生视频提示词**
 

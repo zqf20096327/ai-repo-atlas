@@ -1,6 +1,6 @@
 # ashleykleynhans/faceswap-api
 
-⭐ 33 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ashleykleynhans/faceswap-api) · 个人维护
+⭐ 33 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ashleykleynhans/faceswap-api) · 个人维护
 
 **给开发者的 GPU 加速人脸替换 API 服务（14 模型+CodeFormer）**
 

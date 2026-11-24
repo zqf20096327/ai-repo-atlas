@@ -1,6 +1,6 @@
 # PerryLink/dsh-score
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-score) · [官网](https://www.npmjs.com/package/dsh-score) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-score) · [官网](https://www.npmjs.com/package/dsh-score) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 插件做多维质量评分的 DSH 插件**
 

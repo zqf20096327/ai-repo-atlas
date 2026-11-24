@@ -1,6 +1,6 @@
 # 10xGraph/10xGraph
 
-⭐ 31 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/10xGraph/10xGraph) · [官网](https://10xgraph.com) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/10xGraph/10xGraph) · [官网](https://10xgraph.com) · 组织维护
 
 **构建多 agent AI 系统的 Python 图编排框架，面向生产部署**
 

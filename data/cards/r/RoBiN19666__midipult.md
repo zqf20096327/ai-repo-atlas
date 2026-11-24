@@ -1,6 +1,6 @@
 # RoBiN19666/midipult
 
-⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RoBiN19666/midipult) · 个人维护
+⭐ 15 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RoBiN19666/midipult) · 个人维护
 
 **为已 root 的雅 station Midi 提供本地 Web 控制面板**
 

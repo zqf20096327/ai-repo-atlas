@@ -1,6 +1,6 @@
 # SajjadPSavoji/awesome-wsp
 
-⭐ 3 · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/SajjadPSavoji/awesome-wsp) · [官网](https://rikiyat.github.io/blog/weight-space-programming/) · 个人维护
+⭐ 3 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/SajjadPSavoji/awesome-wsp) · [官网](https://rikiyat.github.io/blog/weight-space-programming/) · 个人维护
 
 **面向研究者收录权重空间编程论文与代码的清单**
 

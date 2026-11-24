@@ -1,6 +1,6 @@
 # toolsdk-ai/toolsdk-mcp-registry
 
-⭐ 303 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/toolsdk-ai/toolsdk-mcp-registry) · [官网](https://toolsdk.ai) · 组织维护
+⭐ 312 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/toolsdk-ai/toolsdk-mcp-registry) · [官网](https://toolsdk.ai) · 组织维护
 
 **MCP 服务器注册表与网关：发现、接入并执行 MCP 工具**
 

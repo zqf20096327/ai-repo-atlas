@@ -1,6 +1,6 @@
 # VicenteVivan/geo-clip
 
-⭐ 421 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/VicenteVivan/geo-clip) · [官网](https://arxiv.org/abs/2309.16020) · 组织维护
+⭐ 422 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/VicenteVivan/geo-clip) · [官网](https://arxiv.org/abs/2309.16020) · 组织维护
 
 **图像全球地理定位模型：将图像与 GPS 坐标对齐预测拍摄位置**
 

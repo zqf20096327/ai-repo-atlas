@@ -1,6 +1,6 @@
 # cauliyang/DeepBioP
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/cauliyang/DeepBioP) · [官网](http://yangyangli.top/DeepBioP/) · 个人维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cauliyang/DeepBioP) · [官网](http://yangyangli.top/DeepBioP/) · 个人维护
 
 **面向生物数据的深度学习预处理库（Rust/Python/CLI）**
 

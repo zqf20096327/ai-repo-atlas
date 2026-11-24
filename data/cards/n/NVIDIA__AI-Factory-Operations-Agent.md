@@ -1,6 +1,6 @@
 # NVIDIA/AI-Factory-Operations-Agent
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/AI-Factory-Operations-Agent) · [官网](https://nvidia.github.io/AI-Factory-Operations-Agent/) · 组织维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/AI-Factory-Operations-Agent) · [官网](https://nvidia.github.io/AI-Factory-Operations-Agent/) · 组织维护
 
 **部署 AI agent 排查集群问题的 NVIDIA 运维蓝图**
 

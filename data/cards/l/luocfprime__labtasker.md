@@ -1,6 +1,6 @@
 # luocfprime/labtasker
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/luocfprime/labtasker) · [官网](https://luocfprime.github.io/labtasker/dev) · 个人维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/luocfprime/labtasker) · [官网](https://luocfprime.github.io/labtasker/dev) · 个人维护
 
 **面向 ML 实验/推理/评测任务的 Python 分布式任务队列**
 

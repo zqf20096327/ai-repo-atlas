@@ -1,6 +1,6 @@
 # PatrickWiloak/ai-zero-to-hero
 
-⭐ 19 · Python · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/PatrickWiloak/ai-zero-to-hero) · [官网](https://ai.noblerworks.com/) · 组织维护
+⭐ 20 · Python · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/PatrickWiloak/ai-zero-to-hero) · [官网](https://ai.noblerworks.com/) · 组织维护
 
 **免费 AI 学习资源库：156 篇论文白话解读 + 学习/应用/治理指南**
 

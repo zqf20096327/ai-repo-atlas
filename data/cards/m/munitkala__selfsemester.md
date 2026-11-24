@@ -1,6 +1,6 @@
 # munitkala/selfsemester
 
-⭐ 110 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/munitkala/selfsemester) · 个人维护
+⭐ 112 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/munitkala/selfsemester) · 个人维护
 
 **把任意科目变成可排期、可打分课程的 Windows 自学应用**
 

@@ -1,6 +1,6 @@
 # lisresearchgroup/math-rsi
 
-⭐ 64 · Lean · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lisresearchgroup/math-rsi) · [官网](https://lisresearchgroup.github.io/math-rsi/) · 组织维护 · 中文 README
+⭐ 66 · Lean · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lisresearchgroup/math-rsi) · [官网](https://lisresearchgroup.github.io/math-rsi/) · 组织维护 · 中文 README
 
 **面向数学发现与证明的自改进 agent 技能包，适配 Claude Code 与 Codex**
 

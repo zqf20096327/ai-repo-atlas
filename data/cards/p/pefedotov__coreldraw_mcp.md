@@ -1,6 +1,6 @@
 # pefedotov/coreldraw_mcp
 
-⭐ 3 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/pefedotov/coreldraw_mcp) · 个人维护
+⭐ 4 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/pefedotov/coreldraw_mcp) · 个人维护
 
 **把运行中的 CorelDRAW 变成 MCP 服务器的插件**
 

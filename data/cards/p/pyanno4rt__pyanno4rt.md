@@ -1,6 +1,6 @@
 # pyanno4rt/pyanno4rt
 
-⭐ 30 · Python · GPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/pyanno4rt/pyanno4rt) · [官网](https://pyanno4rt.readthedocs.io/en/latest/) · 组织维护
+⭐ 31 · Python · GPL-3.0 · 推送 2026-08-09 · [GitHub](https://github.com/pyanno4rt/pyanno4rt) · [官网](https://pyanno4rt.readthedocs.io/en/latest/) · 组织维护
 
 **放射治疗逆向计划优化 Python 包，含 ML 预测模型组件**
 

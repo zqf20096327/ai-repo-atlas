@@ -1,6 +1,6 @@
 # axisvela/praxo-core-java
 
-⭐ 4 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-java) · [官网](https://axisvela.github.io/praxo-core/languages/java/) · 组织维护
+⭐ 4 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-java) · [官网](https://axisvela.github.io/praxo-core/languages/java/) · 组织维护
 
 **可嵌入 Java 应用的 AI Agent 框架实现**
 

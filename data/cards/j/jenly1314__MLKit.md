@@ -1,6 +1,6 @@
 # jenly1314/MLKit
 
-⭐ 1,177 · Kotlin · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/jenly1314/MLKit) · [官网](https://jenly1314.github.io/MLKit/) · 个人维护 · 中文 README
+⭐ 1,178 · Kotlin · Apache-2.0 · 推送 2026-06-11 · [GitHub](https://github.com/jenly1314/MLKit) · [官网](https://jenly1314.github.io/MLKit/) · 个人维护 · 中文 README
 
 **Android 端 Google ML Kit 机器视觉功能的封装工具库**
 

@@ -1,6 +1,6 @@
 # HKUSTDial/DeepEye
 
-⭐ 270 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/HKUSTDial/DeepEye) · [官网](http://deepeye.hk) · 组织维护
+⭐ 271 · Python · Apache-2.0 · 推送 2026-08-09 · [GitHub](https://github.com/HKUSTDial/DeepEye) · [官网](http://deepeye.hk) · 组织维护
 
 **自驱动数据 Agent 系统：从异构数据自动生成视频、看板与报告**
 

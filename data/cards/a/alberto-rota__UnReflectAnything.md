@@ -1,6 +1,6 @@
 # alberto-rota/UnReflectAnything
 
-⭐ 42 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/alberto-rota/UnReflectAnything) · [官网](https://alberto-rota.github.io/UnReflectAnything/) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/alberto-rota/UnReflectAnything) · [官网](https://alberto-rota.github.io/UnReflectAnything/) · 组织维护
 
 **RGB 图像镜面高光去除模型，输出纯漫反射图像**
 

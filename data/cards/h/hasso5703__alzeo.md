@@ -1,6 +1,6 @@
 # hasso5703/alzeo
 
-⭐ 273 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hasso5703/alzeo) · [官网](https://alzeo.ai) · 个人维护
+⭐ 273 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hasso5703/alzeo) · [官网](https://alzeo.ai) · 个人维护
 
 **把 DGX Spark/GB10 设备一键变成本地 AI 服务器**
 

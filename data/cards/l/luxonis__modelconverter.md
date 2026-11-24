@@ -1,6 +1,6 @@
 # luxonis/modelconverter
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/luxonis/modelconverter) · [官网](https://www.luxonis.com/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/luxonis/modelconverter) · [官网](https://www.luxonis.com/) · 组织维护
 
 **将 ONNX/OpenVINO/TFLite 模型转换为 Luxonis 相机可用格式**
 

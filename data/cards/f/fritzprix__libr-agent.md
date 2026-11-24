@@ -1,6 +1,6 @@
 # fritzprix/libr-agent
 
-⭐ 12 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fritzprix/libr-agent) · [官网](https://fritzprix.github.io/libr-agent/) · 个人维护 · 中文 README
+⭐ 12 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fritzprix/libr-agent) · [官网](https://fritzprix.github.io/libr-agent/) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI agent 运行环境：选模型、装工具、选编排模式**
 

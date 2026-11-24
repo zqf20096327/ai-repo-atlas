@@ -1,6 +1,6 @@
 # istitov/stuff
 
-⭐ 49 · Shell · GPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/istitov/stuff) · [官网](https://istitov.github.io/stuff/) · 个人维护
+⭐ 49 · Shell · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/istitov/stuff) · [官网](https://istitov.github.io/stuff/) · 个人维护
 
 **Gentoo ebuild 多领域软件仓库：AI/GPU 计算与材料科学打包**
 

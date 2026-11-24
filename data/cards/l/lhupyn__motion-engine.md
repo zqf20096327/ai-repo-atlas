@@ -1,6 +1,6 @@
 # lhupyn/motion-engine
 
-⭐ 40 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lhupyn/motion-engine) · [官网](https://lhupyn.github.io/motion-engine/) · 个人维护
+⭐ 40 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lhupyn/motion-engine) · [官网](https://lhupyn.github.io/motion-engine/) · 个人维护
 
 **给 TalkingHead 虚拟形象做表情与肢体动作的决策库：按台词分类驱动**
 

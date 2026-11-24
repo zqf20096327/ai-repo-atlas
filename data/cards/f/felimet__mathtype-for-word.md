@@ -1,6 +1,6 @@
 # felimet/mathtype-for-word
 
-⭐ 24 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/felimet/mathtype-for-word) · 个人维护 · 中文 README
+⭐ 24 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/felimet/mathtype-for-word) · 个人维护 · 中文 README
 
 **让 AI agent 在 Word/PowerPoint 中创建可编辑 MathType 公式的技能与 MCP 服务器**
 

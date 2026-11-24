@@ -1,6 +1,6 @@
 # gsaini/financial-research-analyst-agent
 
-⭐ 66 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/gsaini/financial-research-analyst-agent) · [官网](https://financial-agents-ai.streamlit.app) · 个人维护
+⭐ 67 · Python · NOASSERTION · 推送 2026-05-13 · [GitHub](https://github.com/gsaini/financial-research-analyst-agent) · [官网](https://financial-agents-ai.streamlit.app) · 个人维护
 
 **多智能体股票研究系统：11 个分析 agent 生成投资分析报告**
 

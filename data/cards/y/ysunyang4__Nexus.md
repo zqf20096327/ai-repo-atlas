@@ -1,6 +1,6 @@
 # ysunyang4/Nexus
 
-⭐ 493 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ysunyang4/Nexus) · [官网](https://github.com/ysunyang4/Nexus) · 个人维护 · 中文 README
+⭐ 496 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/ysunyang4/Nexus) · [官网](https://github.com/ysunyang4/Nexus) · 个人维护 · 中文 README
 
 **本地 AI 控制中枢：让网页版 AI 经 MCP 隧道操作本地工作站**
 

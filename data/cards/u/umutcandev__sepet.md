@@ -1,6 +1,6 @@
 # umutcandev/sepet
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/umutcandev/sepet) · [官网](https://www.trysepet.com) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/umutcandev/sepet) · [官网](https://www.trysepet.com) · 个人维护
 
 **AI 助手汇总土耳其连锁超市价格并优化购物车**
 

@@ -1,6 +1,6 @@
 # rolandbrake/pilang
 
-⭐ 24 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rolandbrake/pilang) · [官网](https://pi-lang.netlify.app/) · 个人维护
+⭐ 24 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rolandbrake/pilang) · [官网](https://pi-lang.netlify.app/) · 个人维护
 
 **C 实现的数值计算与可视化脚本语言，面向实验型开发者**
 

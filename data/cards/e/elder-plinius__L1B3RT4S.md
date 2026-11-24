@@ -1,6 +1,6 @@
 # elder-plinius/L1B3RT4S
 
-⭐ 23,463 · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/elder-plinius/L1B3RT4S) · [官网](https://x.com/elder_plinius) · 个人维护
+⭐ 23,491 · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/elder-plinius/L1B3RT4S) · [官网](https://x.com/elder_plinius) · 个人维护
 
 **面向各旗舰 AI 模型的越狱提示词收集仓库**
 

@@ -1,6 +1,6 @@
 # artlite-project/artlite
 
-⭐ 25 · Python · LGPL-2.1 · 推送 2026-11-22 · [GitHub](https://github.com/artlite-project/artlite) · 个人维护
+⭐ 25 · Python · LGPL-2.1 · 推送 2026-11-23 · [GitHub](https://github.com/artlite-project/artlite) · 个人维护
 
 **在 AMD Ryzen AI NPU 上运行 LLM 与图像生成的轻量推理运行时**
 

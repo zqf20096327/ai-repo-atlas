@@ -1,6 +1,6 @@
 # negoziator/ai-commit
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/negoziator/ai-commit) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/negoziator/ai-commit) · 个人维护
 
 **给开发者的 CLI 工具：用 LLM 生成 git 提交信息**
 

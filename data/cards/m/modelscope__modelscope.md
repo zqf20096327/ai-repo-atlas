@@ -1,6 +1,6 @@
 # modelscope/modelscope
 
-⭐ 9,223 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/modelscope/modelscope) · [官网](https://www.modelscope.cn/) · 组织维护 · 中文 README
+⭐ 9,227 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/modelscope/modelscope) · [官网](https://www.modelscope.cn/) · 组织维护 · 中文 README
 
 **开发者用的 MaaS 模型推理/训练/评估库**
 

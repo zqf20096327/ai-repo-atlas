@@ -1,6 +1,6 @@
 # osmvision/freetime
 
-⭐ 4 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/osmvision/freetime) · [官网](https://osmvision.github.io/freetime/) · 个人维护
+⭐ 5 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/osmvision/freetime) · [官网](https://osmvision.github.io/freetime/) · 个人维护
 
 **按时间/精力/预算推荐休闲活动的桌面与终端应用**
 

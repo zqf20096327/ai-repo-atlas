@@ -1,6 +1,6 @@
 # blak0p/git-courer
 
-⭐ 46 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/blak0p/git-courer) · [官网](https://blak0p.github.io/git-courer/) · 个人维护
+⭐ 46 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/blak0p/git-courer) · [官网](https://blak0p.github.io/git-courer/) · 个人维护
 
 **给 AI agent 用的 Git MCP 服务器，本地运行零 token 成本**
 

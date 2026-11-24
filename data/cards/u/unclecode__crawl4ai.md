@@ -1,10 +1,10 @@
 # unclecode/crawl4ai
 
-⭐ 87,672 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com/?ref=github-about) · 个人维护
+⭐ 87,728 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/unclecode/crawl4ai) · [官网](https://crawl4ai.com/signin/?ref=github-about) · 个人维护
 
-**为 AI agent 与 RAG 生成干净 Markdown/结构化 JSON 的开源爬虫**
+**为 AI agent 提供网页抓取、结构化提取与网络搜索的爬虫库及托管 API**
 
-开源（Apache-2.0）网络爬虫库，配套托管云 API。核心能力：将网页转为适配 LLM 阅读的 Markdown（含标题、表格、引用列表与去噪过滤器）、通过 CSS/XPath/正则（无 LLM）或任意 LLM 提供商提取结构化 JSON、浏览器控制（会话、代理、隐身模式、Chromium/Firefox/WebKit）、深爬策略与自适应爬取。可通过 pip、CLI（crwl）或 Docker 服务器自托管，亦可用免费 API key 接入云端 /scrape、/extract、/search 等端点及 MCP 服务。
+Apache-2.0 开源爬虫库，同时提供托管云 API：将网页转为适合 LLM 的 Markdown，通过 CSS/XPath 正则或任意 LLM 提取结构化 JSON，并支持深度爬取、会话与代理管理、JavaScript 渲染。可 pip 安装为 Python 库/CLI，或以 Docker 服务自托管（REST API + MCP）。Cloud 版提供搜索、SERP 与免自备 LLM key 的提取，每月 1,000 免费额度。面向为 RAG 与 agent 准备网页数据的开发者。
 
 ## 筛选速览
 
@@ -27,25 +27,25 @@
 
 ## 能力要点
 
-- 生成含引用列表的 LLM 友好 Markdown，带 Pruning/BM25/LLM 三种内容过滤器
-- 无 LLM 的 CSS/XPath/正则结构化提取，及可接任意 LLM 提供商的 LLMExtractionStrategy
-- 浏览器控制：持久会话、代理轮换、隐身模式、多引擎支持
-- Docker 自托管带 REST API、MCP、监控面板，支持 AMD64/ARM64
+- 网页转 LLM 友好的 Markdown，含内容过滤与引用列表
+- CSS/XPath/正则免 LLM 提取与 LLM 结构化提取策略
+- 自托管 Docker 服务器带 REST API、MCP、监控面板，AMD64/ARM64 镜像
+- 异步浏览器池、代理轮换、隐身模式与多引擎（Chromium/Firefox/WebKit）
 
 ## 适用场景
 
-- 为 RAG 管道批量抓取网页并转成 Markdown 语料
-- 从网页抽取结构化 JSON 供数据管道使用
-- 给 Claude Code/Cursor 等 agent 接入抓取与网页搜索工具
-- 自托管爬虫服务并控制代理与会话
+- 为 RAG 系统批量抓取网页并生成干净 Markdown 语料
+- 从页面中提取结构化 JSON 数据供 agent 使用
+- 自托管爬取服务并接入 Claude Code 等 agent 的 MCP
+- 对动态渲染、反爬页面执行带代理和会话的深度爬取
 
 ## 场景标签
 
-`网页抓取` `文档解析` · 领域:效率与自动化
+`网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3: **Crawl4AI Cloud is a hosted web scraping, extraction, and search API for AI agents and data pipelines.** Turn pages
+> L9: This repository is home to the Apache-2.0 crawler that powers Crawl4AI Cloud. Run it yourself with Python or Docker.
 > L111: - **LLM-ready output**: smart Markdown with headings, tables, code and citation hints
 > L132: - 🤖 **LLM extraction**: any LLM provider, open-source or hosted, into a typed JSON schema (`LLMExtractionStrategy`
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `aca4d1854255` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `693a9eb1fedd` · [字段定义](../../DATASET.md)*

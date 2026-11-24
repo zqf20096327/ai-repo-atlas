@@ -1,6 +1,6 @@
 # sudoeren/karpa
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sudoeren/karpa) · [官网](https://karpa.erencakar.com) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sudoeren/karpa) · [官网](https://karpa.erencakar.com) · 个人维护
 
 **隐私优先的本地 AI 翻译桌面应用，数据不离设备**
 

@@ -1,6 +1,6 @@
 # D3voz/openjutsu
 
-⭐ 2,551 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/D3voz/openjutsu) · 个人维护
+⭐ 2,592 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/D3voz/openjutsu) · 个人维护
 
 **给创作者的本地视频换人工具：上传视频与角色照即可替换主角**
 

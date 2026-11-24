@@ -1,6 +1,6 @@
 # interfere-inc/landmines
 
-⭐ 705 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/interfere-inc/landmines) · [官网](https://www.npmjs.com/package/@interfere/landmines) · 组织维护
+⭐ 755 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/interfere-inc/landmines) · [官网](https://www.npmjs.com/package/@interfere/landmines) · 组织维护
 
 **面向 AI 生成代码的 Oxlint 规则集：约束测试真实性与代码规范**
 

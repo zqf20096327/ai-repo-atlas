@@ -1,6 +1,6 @@
 # microsoft/ai-dev-gallery
 
-⭐ 1,520 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/ai-dev-gallery) · 组织维护
+⭐ 1,521 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/ai-dev-gallery) · 组织维护
 
 **给 Windows 开发者学习在应用中集成本地 AI 模型的示例库**
 

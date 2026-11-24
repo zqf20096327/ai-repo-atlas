@@ -1,6 +1,6 @@
 # Master-Norna/yan
 
-⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Master-Norna/yan) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Master-Norna/yan) · 个人维护 · 中文 README
 
 **本地运行的中文聊天与轻量 Agent 界面，模型自接**
 

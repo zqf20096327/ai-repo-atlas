@@ -1,6 +1,6 @@
 # LintenAI/lintenagents
 
-⭐ 241 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/LintenAI/lintenagents) · [官网](https://linten.app/lintenagent) · 组织维护
+⭐ 242 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/LintenAI/lintenagents) · [官网](https://linten.app/lintenagent) · 组织维护
 
 **统一 Python SDK，跨 DeepAgents/Pydantic AI/Claude Agent SDK 等切换 agent 框架与模型**
 

@@ -1,6 +1,6 @@
 # epam/statgpt-portal-frontend
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/epam/statgpt-portal-frontend) · [官网](https://statgpt.dialx.ai) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/epam/statgpt-portal-frontend) · [官网](https://statgpt.dialx.ai) · 组织维护
 
 **构建 StatGPT 统计数据问答门户的前端代码库**
 

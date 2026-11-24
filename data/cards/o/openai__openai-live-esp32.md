@@ -1,6 +1,6 @@
 # openai/openai-live-esp32
 
-⭐ 28 · C · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openai/openai-live-esp32) · 组织维护
+⭐ 31 · C · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-live-esp32) · 组织维护
 
 **在 ESP32-S3 开发板上通过 OpenAI Live API 构建语音助手**
 

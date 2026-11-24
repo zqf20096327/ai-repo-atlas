@@ -1,6 +1,6 @@
 # groupultra/telegram-search
 
-⭐ 4,155 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/groupultra/telegram-search) · [官网](https://search.lingogram.app) · 组织维护 · 中文 README
+⭐ 4,154 · TypeScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/groupultra/telegram-search) · [官网](https://search.lingogram.app) · 组织维护 · 中文 README
 
 **导出并模糊检索 Telegram 聊天记录，支持向量搜索与 AI 摘要**
 

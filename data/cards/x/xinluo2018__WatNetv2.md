@@ -1,6 +1,6 @@
 # xinluo2018/WatNetv2
 
-⭐ 15 · Jupyter Notebook · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/xinluo2018/WatNetv2) · 个人维护
+⭐ 15 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/xinluo2018/WatNetv2) · 个人维护
 
 **遥感地表水体提取模型：支持 Sentinel-2 与 Landsat 系列影像**
 

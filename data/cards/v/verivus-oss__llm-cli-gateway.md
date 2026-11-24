@@ -1,6 +1,6 @@
 # verivus-oss/llm-cli-gateway
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/verivus-oss/llm-cli-gateway) · [官网](https://llm-cli-gateway.dev) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/verivus-oss/llm-cli-gateway) · [官网](https://llm-cli-gateway.dev) · 组织维护
 
 **统一操控多家 AI 编码 agent CLI 的单用户 MCP 网关**
 

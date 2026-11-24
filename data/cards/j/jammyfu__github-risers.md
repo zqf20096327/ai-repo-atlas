@@ -1,6 +1,6 @@
 # jammyfu/github-risers
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jammyfu/github-risers) · [官网](https://jammyfu.github.io/github-risers/) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jammyfu/github-risers) · [官网](https://jammyfu.github.io/github-risers/) · 个人维护 · 中文 README
 
 **按每日新增 star 排名的 GitHub 上升项目每日榜单**
 

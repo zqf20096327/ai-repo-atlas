@@ -1,6 +1,6 @@
 # op7418/guizang-ppt-skill
 
-⭐ 30,262 · HTML · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/op7418/guizang-ppt-skill) · 个人维护 · 中文 README
+⭐ 30,315 · HTML · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/op7418/guizang-ppt-skill) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex 等 Agent 的网页 PPT 生成技能**
 

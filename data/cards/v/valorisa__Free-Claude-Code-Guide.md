@@ -1,6 +1,6 @@
 # valorisa/Free-Claude-Code-Guide
 
-⭐ 12 · Dockerfile · MIT · 推送 2026-05-04 · [GitHub](https://github.com/valorisa/Free-Claude-Code-Guide) · 个人维护
+⭐ 13 · Dockerfile · MIT · 推送 2026-05-04 · [GitHub](https://github.com/valorisa/Free-Claude-Code-Guide) · 个人维护
 
 **Free Claude Code 代理的安装使用指南文档（Windows/macOS/Linux）**
 

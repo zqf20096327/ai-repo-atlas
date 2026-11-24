@@ -1,6 +1,6 @@
 # rightcommit/rightcommit
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rightcommit/rightcommit) · [官网](https://rightcommit.com) · 个人维护 · 中文 README
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rightcommit/rightcommit) · [官网](https://rightcommit.com) · 个人维护 · 中文 README
 
 **AI 编码 agent 的自托管工作流引擎：编排运行与成本追踪**
 

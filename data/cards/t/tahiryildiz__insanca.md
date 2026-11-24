@@ -1,6 +1,6 @@
 # tahiryildiz/insanca
 
-⭐ 70 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tahiryildiz/insanca) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tahiryildiz/insanca) · 个人维护
 
 **清除土耳其语 AI 写作痕迹的 agent 技能，重写为自然人类文风**
 

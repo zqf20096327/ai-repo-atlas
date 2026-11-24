@@ -1,6 +1,6 @@
 # armandcismaru/DeepTraderX
 
-⭐ 22 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/armandcismaru/DeepTraderX) · 个人维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/armandcismaru/DeepTraderX) · 个人维护
 
 **深度学习交易代理：在多线程金融市场模拟中交易与评测**
 

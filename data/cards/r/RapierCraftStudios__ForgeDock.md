@@ -1,6 +1,6 @@
 # RapierCraftStudios/ForgeDock
 
-⭐ 118 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/RapierCraftStudios/ForgeDock) · [官网](https://rapiercraftstudios.github.io/ForgeDock/) · 组织维护
+⭐ 118 · JavaScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/RapierCraftStudios/ForgeDock) · [官网](https://rapiercraftstudios.github.io/ForgeDock/) · 组织维护
 
 **面向 Claude Code 的自主开发流水线：issue 进、合并 PR 出**
 

@@ -1,6 +1,6 @@
 # dedene/Hibana-Qwen3.8-Flash-Next-DGX-Spark
 
-⭐ 3 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dedene/Hibana-Qwen3.8-Flash-Next-DGX-Spark) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dedene/Hibana-Qwen3.8-Flash-Next-DGX-Spark) · 个人维护
 
 **在单台 DGX Spark 上用 Docker Compose 部署 Qwen3.8-Flash-Next 推理服务的方案**
 

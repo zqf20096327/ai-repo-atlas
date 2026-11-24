@@ -1,6 +1,6 @@
 # kyegomez/MultiModalMamba
 
-⭐ 473 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/kyegomez/MultiModalMamba) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 473 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kyegomez/MultiModalMamba) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **融合 ViT 与 Mamba 的多模态模型实现（文本+图像）**
 

@@ -1,6 +1,6 @@
 # fegennari/3DWorld
 
-⭐ 1,453 · C++ · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/fegennari/3DWorld) · 个人维护
+⭐ 1,453 · C++ · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/fegennari/3DWorld) · 个人维护
 
 **个人开发的跨平台 OpenGL 程序化 3D 游戏引擎，供图形学与游戏开发参考**
 

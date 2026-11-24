@@ -1,6 +1,6 @@
 # jonwiggins/optio
 
-⭐ 1,112 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jonwiggins/optio) · [官网](https://optio.host/) · 个人维护
+⭐ 1,114 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jonwiggins/optio) · [官网](https://optio.host/) · 个人维护
 
 **自托管的编码 agent 编排层：在 Kubernetes 上统一运行 AI agent 工作流**
 

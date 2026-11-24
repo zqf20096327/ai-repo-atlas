@@ -1,6 +1,6 @@
 # Shadowell/Alpha
 
-⭐ 45 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Shadowell/Alpha) · 个人维护 · 中文 README
+⭐ 45 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Shadowell/Alpha) · 个人维护 · 中文 README
 
 **A股自进化量化选股系统：Kronos K线预测 + Hermes Agent 闭环**
 

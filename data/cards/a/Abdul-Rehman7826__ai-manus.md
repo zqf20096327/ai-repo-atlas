@@ -1,6 +1,6 @@
 # Abdul-Rehman7826/ai-manus
 
-⭐ 154 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Abdul-Rehman7826/ai-manus) · 个人维护
+⭐ 152 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Abdul-Rehman7826/ai-manus) · 个人维护
 
 **面向日常小任务的自主 AI 代理：自动执行代码与控制浏览器**
 

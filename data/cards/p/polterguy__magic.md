@@ -1,6 +1,6 @@
 # polterguy/magic
 
-⭐ 1,254 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/polterguy/magic) · [官网](https://hyperlambda.dev) · 个人维护
+⭐ 1,254 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/polterguy/magic) · [官网](https://hyperlambda.dev) · 个人维护
 
 **用自然语言生成全栈应用与 AI Agent 的开源低代码平台**
 

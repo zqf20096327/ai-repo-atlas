@@ -1,6 +1,6 @@
 # Orchestra-Research/AI-Research-SKILLs
 
-⭐ 14,740 · TeX · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [官网](http://orchestra-research.com) · 组织维护
+⭐ 14,771 · TeX · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Orchestra-Research/AI-Research-SKILLs) · [官网](http://orchestra-research.com) · 组织维护
 
 **面向 AI 研究者的 98 项 agent 技能库**
 

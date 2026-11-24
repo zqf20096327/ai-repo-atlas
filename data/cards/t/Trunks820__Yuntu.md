@@ -1,6 +1,6 @@
 # Trunks820/Yuntu
 
-⭐ 54 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Trunks820/Yuntu) · [官网](https://kakarot8.com) · 个人维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Trunks820/Yuntu) · [官网](https://kakarot8.com) · 个人维护 · 中文 README
 
 **AI 旅行规划引擎：确定性路线排程 + 事实约束文案生成**
 

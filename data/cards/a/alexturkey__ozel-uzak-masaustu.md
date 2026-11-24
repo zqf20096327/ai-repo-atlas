@@ -1,6 +1,6 @@
 # alexturkey/ozel-uzak-masaustu
 
-⭐ 52 · PowerShell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/alexturkey/ozel-uzak-masaustu) · 个人维护
+⭐ 52 · PowerShell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alexturkey/ozel-uzak-masaustu) · 个人维护
 
 **面向非开发者的私有远程桌面分步设置指南，由 AI 代理执行**
 

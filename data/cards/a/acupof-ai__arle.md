@@ -1,6 +1,6 @@
 # acupof-ai/arle
 
-⭐ 23 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/acupof-ai/arle) · [官网](https://acupof-ai.github.io/arle/) · 组织维护 · 中文 README
+⭐ 23 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/acupof-ai/arle) · [官网](https://acupof-ai.github.io/arle/) · 组织维护 · 中文 README
 
 **面向编码 agent 的本地推理服务器：Rust 单二进制，Anthropic/OpenAI API**
 

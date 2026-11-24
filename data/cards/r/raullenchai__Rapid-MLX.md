@@ -1,6 +1,6 @@
 # raullenchai/Rapid-MLX
 
-⭐ 4,174 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/raullenchai/Rapid-MLX) · [官网](https://rapidmlx.com) · 个人维护
+⭐ 4,179 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/raullenchai/Rapid-MLX) · [官网](https://rapidmlx.com) · 个人维护
 
 **面向 Apple Silicon 的本地 LLM 推理服务器，为编码 agent 提供本地后端**
 

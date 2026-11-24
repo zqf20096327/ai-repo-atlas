@@ -1,6 +1,6 @@
 # FluxonLab/Skillry
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/FluxonLab/Skillry) · [官网](https://fluxonlab.com) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/FluxonLab/Skillry) · [官网](https://fluxonlab.com) · 组织维护
 
 **面向多平台 agent 运行时的可安装技能与子代理库**
 

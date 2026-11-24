@@ -1,6 +1,6 @@
 # yeasy/ai_security_guide
 
-⭐ 133 · Python · 推送 2026-11-20 · [GitHub](https://github.com/yeasy/ai_security_guide) · [官网](https://yeasy.gitbook.io/ai_security_guide) · 个人维护 · 中文 README
+⭐ 134 · Python · 推送 2026-11-23 · [GitHub](https://github.com/yeasy/ai_security_guide) · [官网](https://yeasy.gitbook.io/ai_security_guide) · 个人维护 · 中文 README
 
 **面向工程师的大模型与智能体安全攻防图书（含配套实验）**
 

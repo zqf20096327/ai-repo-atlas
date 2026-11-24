@@ -1,6 +1,6 @@
 # technologiestiftung/parla-frontend
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/technologiestiftung/parla-frontend) · [官网](https://www.parla.berlin/) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/technologiestiftung/parla-frontend) · [官网](https://www.parla.berlin/) · 组织维护
 
 **柏林州议会公文 RAG 问答系统的前端应用**
 

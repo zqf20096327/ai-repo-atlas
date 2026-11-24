@@ -1,6 +1,6 @@
 # tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers
 
-⭐ 168 · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers) · 组织维护
+⭐ 168 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers) · 组织维护
 
 **资源高效 LLM 论文策展清单，附系统综述**
 

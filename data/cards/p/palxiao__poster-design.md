@@ -1,6 +1,6 @@
 # palxiao/poster-design
 
-⭐ 5,024 · Vue · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/palxiao/poster-design) · [官网](https://design.palxp.cn) · 个人维护 · 中文 README
+⭐ 5,025 · Vue · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/palxiao/poster-design) · [官网](https://design.palxp.cn) · 个人维护 · 中文 README
 
 **给需要在线设计海报的用户的开源自部署图片编辑器**
 

@@ -1,6 +1,6 @@
 # morganrcu/awesome-eu-ai-act
 
-⭐ 31 · 推送 2026-09-26 · [GitHub](https://github.com/morganrcu/awesome-eu-ai-act) · 个人维护
+⭐ 32 · 推送 2026-09-26 · [GitHub](https://github.com/morganrcu/awesome-eu-ai-act) · 个人维护
 
 **欧盟 AI 法案合规与 AI 治理工具策展清单**
 

@@ -1,6 +1,6 @@
 # jbexta/AgentPilot
 
-⭐ 574 · Python · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/jbexta/AgentPilot) · [官网](https://agentpilot.ai) · 个人维护
+⭐ 575 · Python · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/jbexta/AgentPilot) · [官网](https://agentpilot.ai) · 个人维护
 
 **桌面端 AI 工作流自动化平台：创建、组织并执行多成员 AI 工作流**
 

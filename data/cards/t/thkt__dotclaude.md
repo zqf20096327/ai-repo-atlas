@@ -1,6 +1,6 @@
 # thkt/dotclaude
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/thkt/dotclaude) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/thkt/dotclaude) · 个人维护
 
 **个人 Claude Code 配置集：27 技能、28 代理与质量门禁钩子**
 

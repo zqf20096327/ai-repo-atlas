@@ -1,6 +1,6 @@
 # ratschlab/DeepSpot
 
-⭐ 107 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ratschlab/DeepSpot) · [官网](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) · 组织维护
+⭐ 107 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ratschlab/DeepSpot) · [官网](https://www.medrxiv.org/content/10.1101/2025.02.09.25321567v3) · 组织维护
 
 **从 H&E 病理图像预测空间转录组的深度学习模型**
 

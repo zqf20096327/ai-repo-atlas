@@ -1,6 +1,6 @@
 # loks666/get_jobs
 
-⭐ 9,841 · Java · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/loks666/get_jobs) · [官网](https://loks666.github.io/get_jobs/) · 个人维护 · 中文 README
+⭐ 9,855 · Java · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/loks666/get_jobs) · [官网](https://loks666.github.io/get_jobs/) · 个人维护 · 中文 README
 
 **自动投简历脚本：多平台求职投递工具**
 

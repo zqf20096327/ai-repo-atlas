@@ -1,6 +1,6 @@
 # microsoft/semantic-kernel
 
-⭐ 28,790 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/semantic-kernel) · [官网](https://aka.ms/semantic-kernel) · 组织维护
+⭐ 28,796 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/semantic-kernel) · [官网](https://aka.ms/semantic-kernel) · 组织维护
 
 **面向开发者的 LLM Agent 编排 SDK（Python/.NET/Java）**
 

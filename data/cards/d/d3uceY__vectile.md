@@ -1,6 +1,6 @@
 # d3uceY/vectile
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/d3uceY/vectile) · 个人维护
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/d3uceY/vectile) · 个人维护
 
 **本地混合检索的桌面知识库搜索应用，索引笔记/书籍/代码**
 

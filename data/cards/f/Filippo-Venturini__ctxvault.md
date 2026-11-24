@@ -1,6 +1,6 @@
 # Filippo-Venturini/ctxvault
 
-⭐ 70 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Filippo-Venturini/ctxvault) · [官网](https://filippo-venturini.github.io/ctxvault/) · 个人维护
+⭐ 70 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Filippo-Venturini/ctxvault) · [官网](https://filippo-venturini.github.io/ctxvault/) · 个人维护
 
 **面向 AI agent 的本地记忆基础设施：隔离的分区化知识库**
 

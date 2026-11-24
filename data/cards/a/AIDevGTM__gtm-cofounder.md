@@ -1,6 +1,6 @@
 # AIDevGTM/gtm-cofounder
 
-⭐ 344 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AIDevGTM/gtm-cofounder) · [官网](https://gtmcofounder.com) · 个人维护
+⭐ 344 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AIDevGTM/gtm-cofounder) · [官网](https://gtmcofounder.com) · 个人维护
 
 **面向开发者工具/AI 产品创始人的开源 GTM Agent 技能包**
 

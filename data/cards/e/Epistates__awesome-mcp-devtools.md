@@ -1,6 +1,6 @@
 # Epistates/awesome-mcp-devtools
 
-⭐ 13 · MIT · 推送 2026-09-14 · [GitHub](https://github.com/Epistates/awesome-mcp-devtools) · 个人维护
+⭐ 13 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Epistates/awesome-mcp-devtools) · 个人维护
 
 **MCP 开发者工具策展清单：SDK、框架、测试与网关等 100+ 条目**
 

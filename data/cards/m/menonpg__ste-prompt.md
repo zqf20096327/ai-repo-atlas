@@ -1,6 +1,6 @@
 # menonpg/ste-prompt
 
-⭐ 51 · MIT · 推送 2026-10-09 · [GitHub](https://github.com/menonpg/ste-prompt) · 个人维护
+⭐ 53 · MIT · 推送 2026-10-09 · [GitHub](https://github.com/menonpg/ste-prompt) · 个人维护
 
 **让编码 agent 用简化技术英语（ASD-STE100）写作的规则插件**
 

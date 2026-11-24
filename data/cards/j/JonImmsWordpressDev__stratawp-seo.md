@@ -1,6 +1,6 @@
 # JonImmsWordpressDev/stratawp-seo
 
-⭐ 40 · PHP · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/JonImmsWordpressDev/stratawp-seo) · [官网](https://stratawpseo.com) · 个人维护
+⭐ 40 · PHP · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/JonImmsWordpressDev/stratawp-seo) · [官网](https://stratawpseo.com) · 个人维护
 
 **WordPress 四合一 SEO 插件：AI 内容引擎+技术 SEO+AEO 引用追踪+自动化**
 

@@ -1,6 +1,6 @@
 # Cashara-io/eunomia
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Cashara-io/eunomia) · [官网](https://www.buildpaperless.com.au/eunomia) · 组织维护
+⭐ 15 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Cashara-io/eunomia) · [官网](https://www.buildpaperless.com.au/eunomia) · 组织维护
 
 **自托管的 AI agent 共享记忆服务：按 vault 存取人物、事实与决策**
 

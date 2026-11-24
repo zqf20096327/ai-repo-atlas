@@ -1,6 +1,6 @@
 # ojuschugh1/sqz
 
-⭐ 679 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/ojuschugh1/sqz) · [官网](https://ojuschugh1.github.io/sqz/) · 个人维护 · 中文 README
+⭐ 678 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/ojuschugh1/sqz) · [官网](https://ojuschugh1.github.io/sqz/) · 个人维护 · 中文 README
 
 **为 AI 编码 agent 压缩工具输出的 Rust CLI/MCP 代理**
 

@@ -1,6 +1,6 @@
 # app-vitals/shipwright
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/app-vitals/shipwright) · [官网](https://shipwrightharness.com) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/app-vitals/shipwright) · [官网](https://shipwrightharness.com) · 组织维护
 
 **面向 Claude Code 的自主交付 agent：从 PRD 到上线全流程**
 

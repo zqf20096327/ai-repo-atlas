@@ -1,6 +1,6 @@
 # aws-samples/sample-agentic-coding-harness-benchmarks
 
-⭐ 22 · Python · MIT-0 · 推送 2026-11-16 · [GitHub](https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks) · [官网](https://aws.amazon.com/blogs/aws-cloud-financial-management/tokenomics-for-coding-agents-benchmark-cost-and-quality-on-your-own-code/) · 组织维护
+⭐ 22 · Python · MIT-0 · 推送 2026-11-23 · [GitHub](https://github.com/aws-samples/sample-agentic-coding-harness-benchmarks) · [官网](https://aws.amazon.com/blogs/aws-cloud-financial-management/tokenomics-for-coding-agents-benchmark-cost-and-quality-on-your-own-code/) · 组织维护
 
 **编码 agent 跨模型基准工具与 swe-router 模型选型技能**
 

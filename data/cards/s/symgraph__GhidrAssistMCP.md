@@ -1,6 +1,6 @@
 # symgraph/GhidrAssistMCP
 
-⭐ 820 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/symgraph/GhidrAssistMCP) · 组织维护
+⭐ 821 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/symgraph/GhidrAssistMCP) · 组织维护
 
 **让 AI 助手通过 MCP 调用 Ghidra 逆向工程能力的扩展**
 

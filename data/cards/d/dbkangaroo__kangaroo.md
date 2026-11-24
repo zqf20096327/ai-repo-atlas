@@ -1,6 +1,6 @@
 # dbkangaroo/kangaroo
 
-⭐ 519 · TSQL · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/dbkangaroo/kangaroo) · [官网](https://www.datatable.online/?from=github) · 组织维护 · 中文 README
+⭐ 518 · TSQL · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/dbkangaroo/kangaroo) · [官网](https://www.datatable.online/?from=github) · 组织维护 · 中文 README
 
 **面向多种数据库的 AI 增强型 SQL 客户端与管理工具**
 

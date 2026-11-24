@@ -1,6 +1,6 @@
 # whatstask/Cairn
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/whatstask/Cairn) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/whatstask/Cairn) · 个人维护
 
 **给 Rust 开发者的持久化、可治理、模型无关的 agent 框架**
 

@@ -1,6 +1,6 @@
 # anthropics/anthropic-cli
 
-⭐ 738 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/anthropic-cli) · [官网](https://platform.claude.com/docs/en/api/sdks/cli) · 组织维护
+⭐ 740 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/anthropic-cli) · [官网](https://platform.claude.com/docs/en/api/sdks/cli) · 组织维护
 
 **面向开发者的 Claude API 官方命令行客户端**
 

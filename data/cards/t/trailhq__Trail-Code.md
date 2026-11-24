@@ -1,6 +1,6 @@
 # trailhq/Trail-Code
 
-⭐ 11,444 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/trailhq/Trail-Code) · [官网](https://trailhq.com/trail-code) · 组织维护
+⭐ 11,458 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/trailhq/Trail-Code) · [官网](https://trailhq.com/trail-code) · 组织维护
 
 **为团队编码 agent 提供共享代码地图与决策记忆的 CLI**
 

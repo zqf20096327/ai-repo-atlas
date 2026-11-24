@@ -1,6 +1,6 @@
 # OlegUshakov-pl/CRM
 
-⭐ 13 · HTML · MIT · 推送 2026-10-14 · [GitHub](https://github.com/OlegUshakov-pl/CRM) · 个人维护
+⭐ 13 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/OlegUshakov-pl/CRM) · 个人维护
 
 **面向小型制造团队的本地 CRM/ERP，含 AI 助手**
 

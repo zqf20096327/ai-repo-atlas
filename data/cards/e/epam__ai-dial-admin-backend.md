@@ -1,6 +1,6 @@
 # epam/ai-dial-admin-backend
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/epam/ai-dial-admin-backend) · [官网](https://dialx.ai) · 组织维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epam/ai-dial-admin-backend) · [官网](https://dialx.ai) · 组织维护
 
 **给 DIAL Core 提供配置管理 REST API 的后台服务**
 

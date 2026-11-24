@@ -1,6 +1,6 @@
 # O0000-code/awesome-academic-skills
 
-⭐ 73 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/O0000-code/awesome-academic-skills) · 个人维护 · 中文 README
+⭐ 73 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/O0000-code/awesome-academic-skills) · 个人维护 · 中文 README
 
 **学术研究全流程的 Claude/agent 技能双语索引清单**
 

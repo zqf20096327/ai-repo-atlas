@@ -1,6 +1,6 @@
 # elevenlabs/elevenlabs-python
 
-⭐ 3,194 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
+⭐ 3,195 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/elevenlabs/elevenlabs-python) · [官网](https://elevenlabs.io/docs/api-reference/overview) · 组织维护
 
 **给开发者的 ElevenLabs API 官方 Python SDK：语音合成与语音代理接入**
 

@@ -1,6 +1,6 @@
 # CycloneDX/specification
 
-⭐ 586 · XSLT · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/CycloneDX/specification) · [官网](https://cyclonedx.org/) · 组织维护
+⭐ 586 · XSLT · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/CycloneDX/specification) · [官网](https://cyclonedx.org/) · 组织维护
 
 **供应链物料清单（BOM）标准规范仓库（ECMA-424）**
 

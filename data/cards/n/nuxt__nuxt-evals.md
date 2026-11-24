@@ -1,6 +1,6 @@
 # nuxt/nuxt-evals
 
-⭐ 52 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nuxt/nuxt-evals) · [官网](https://nuxt.com/evals) · 组织维护
+⭐ 54 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nuxt/nuxt-evals) · [官网](https://nuxt.com/evals) · 组织维护
 
 **Nuxt 官方维护的 AI 模型编码能力评测集与评测脚手架**
 

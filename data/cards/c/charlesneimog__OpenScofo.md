@@ -1,6 +1,6 @@
 # charlesneimog/OpenScofo
 
-⭐ 10 · C++ · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/charlesneimog/OpenScofo) · [官网](https://charlesneimog.github.io/OpenScofo/) · 个人维护
+⭐ 10 · C++ · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/charlesneimog/OpenScofo) · [官网](https://charlesneimog.github.io/OpenScofo/) · 个人维护
 
 **面向研究者与音乐人的实时乐谱跟随 C++ 库**
 

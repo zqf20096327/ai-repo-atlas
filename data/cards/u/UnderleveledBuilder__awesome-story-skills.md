@@ -1,6 +1,6 @@
 # UnderleveledBuilder/awesome-story-skills
 
-⭐ 12 · Python · CC0-1.0 · 推送 2026-11-17 · [GitHub](https://github.com/UnderleveledBuilder/awesome-story-skills) · 个人维护 · 中文 README
+⭐ 13 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/UnderleveledBuilder/awesome-story-skills) · 个人维护 · 中文 README
 
 **可安装的 AI 写故事工具清单：845 个 skill/应用按叙事方法分类**
 

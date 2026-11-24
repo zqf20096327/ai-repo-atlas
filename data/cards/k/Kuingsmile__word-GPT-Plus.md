@@ -1,6 +1,6 @@
 # Kuingsmile/word-GPT-Plus
 
-⭐ 1,386 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Kuingsmile/word-GPT-Plus) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **在 Microsoft Word 内直接使用 AI 与 Agent 的办公插件**
 
@@ -11,7 +11,7 @@ Word GPT Plus 是一个 Microsoft Word 加载项（add-in），把 AI 对话与 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

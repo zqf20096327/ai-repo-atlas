@@ -1,6 +1,6 @@
 # datalevin/datalevin
 
-⭐ 1,494 · Clojure · EPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/datalevin/datalevin) · [官网](https://datalevin.org) · 组织维护
+⭐ 1,496 · Clojure · EPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/datalevin/datalevin) · [官网](https://datalevin.org) · 组织维护
 
 **支持内嵌 AI 能力的 Datalog 多模型数据库**
 

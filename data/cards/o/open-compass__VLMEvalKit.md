@@ -1,6 +1,6 @@
 # open-compass/VLMEvalKit
 
-⭐ 4,502 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/open-compass/VLMEvalKit) · [官网](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) · 组织维护 · 中文 README
+⭐ 4,502 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/open-compass/VLMEvalKit) · [官网](https://huggingface.co/spaces/opencompass/open_vlm_leaderboard) · 组织维护 · 中文 README
 
 **面向研究者的多模态大模型评测工具包**
 

@@ -1,6 +1,6 @@
 # mrviduus/textstack
 
-⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/mrviduus/textstack) · [官网](https://textstack.app/) · 个人维护
+⭐ 32 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/mrviduus/textstack) · [官网](https://textstack.app/) · 个人维护
 
 **可接入自有 AI 助手的技术书阅读器（EPUB/PDF/FB2）**
 

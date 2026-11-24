@@ -1,6 +1,6 @@
 # templatesgrokbot/templatesgrokbot.com
 
-⭐ 32 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/templatesgrokbot/templatesgrokbot.com) · [官网](https://templatesgrokbot.com/) · 个人维护
+⭐ 32 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/templatesgrokbot/templatesgrokbot.com) · [官网](https://templatesgrokbot.com/) · 个人维护
 
 **10,464 个 Grok Bot 提示词模板库：按职业/工作类型检索安装**
 

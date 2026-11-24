@@ -1,6 +1,6 @@
 # BetterThanTomorrow/calva-backseat-driver
 
-⭐ 66 · Clojure · MIT · 推送 2026-11-19 · [GitHub](https://github.com/BetterThanTomorrow/calva-backseat-driver) · [官网](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva-backseat-driver) · 个人维护
+⭐ 66 · Clojure · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BetterThanTomorrow/calva-backseat-driver) · [官网](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva-backseat-driver) · 个人维护
 
 **给 VS Code AI 助手提供 Calva Clojure 工具的扩展**
 

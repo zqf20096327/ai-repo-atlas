@@ -1,6 +1,6 @@
 # MuseLinn/MusePi
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MuseLinn/MusePi) · [官网](https://muselinn.github.io/MusePi/) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MuseLinn/MusePi) · [官网](https://muselinn.github.io/MusePi/) · 个人维护 · 中文 README
 
 **桌面优先的 AI 编程智能体：Electron GUI + TUI/CLI + 守护进程**
 

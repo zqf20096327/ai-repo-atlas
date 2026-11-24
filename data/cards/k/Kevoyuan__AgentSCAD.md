@@ -1,6 +1,6 @@
 # Kevoyuan/AgentSCAD
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Kevoyuan/AgentSCAD) · [官网](https://agentscad.vercel.app) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Kevoyuan/AgentSCAD) · [官网](https://agentscad.vercel.app) · 个人维护 · 中文 README
 
 **自然语言生成可编辑 OpenSCAD 模型的本地 CAD 工作台**
 

@@ -1,6 +1,6 @@
 # MyrikLD/memlord
 
-⭐ 30 · Python · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/MyrikLD/memlord) · 组织维护
+⭐ 30 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/MyrikLD/memlord) · 组织维护
 
 **自托管多用户 MCP 记忆服务器，供个人与团队使用**
 

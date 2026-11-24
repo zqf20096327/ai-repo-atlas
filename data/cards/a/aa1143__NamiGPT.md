@@ -1,6 +1,6 @@
 # aa1143/NamiGPT
 
-⭐ 281 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aa1143/NamiGPT) · [官网](https://namiai.tech/articles/) · 个人维护 · 中文 README
+⭐ 291 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/aa1143/NamiGPT) · [官网](https://namiai.tech/articles/) · 个人维护 · 中文 README
 
 **面向中文零基础读者的手写 GPT-2 教程**
 

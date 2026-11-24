@@ -1,6 +1,6 @@
 # HimanshuMohanty-Git24/upasarathi
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HimanshuMohanty-Git24/upasarathi) · [官网](https://upasarathi.vercel.app/) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HimanshuMohanty-Git24/upasarathi) · [官网](https://upasarathi.vercel.app/) · 个人维护
 
 **13部奥义书知识图谱阅读站+检测AI迎合倾向的对齐评测工具**
 

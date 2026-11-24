@@ -1,6 +1,6 @@
 # YasserCR/galdor
 
-⭐ 10 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/YasserCR/galdor) · [官网](https://galdor.org) · 个人维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-09-30 · [GitHub](https://github.com/YasserCR/galdor) · [官网](https://galdor.org) · 个人维护
 
 **Go 原生 LLM Agent 框架：构建编排与内置观测**
 

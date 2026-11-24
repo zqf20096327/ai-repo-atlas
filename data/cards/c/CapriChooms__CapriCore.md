@@ -1,6 +1,6 @@
 # CapriChooms/CapriCore
 
-⭐ 363 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/CapriChooms/CapriCore) · [官网](https://capri-core.com/) · 组织维护
+⭐ 392 · JavaScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/CapriChooms/CapriCore) · [官网](https://capri-core.com/) · 组织维护
 
 **Windows 桌面 AI 伴侣：本地/API 模型对话、语音与桌面工具**
 

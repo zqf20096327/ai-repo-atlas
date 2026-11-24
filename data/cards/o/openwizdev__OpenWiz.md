@@ -1,6 +1,6 @@
 # openwizdev/OpenWiz
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openwizdev/OpenWiz) · [官网](https://openwiz.dev) · 组织维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openwizdev/OpenWiz) · [官网](https://openwiz.dev) · 组织维护
 
 **agent 工厂的开放内核：驱动代理编写、构建、审查并合并**
 

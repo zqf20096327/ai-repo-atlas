@@ -1,6 +1,6 @@
 # carlosh7/blender-mcp
 
-⭐ 21 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/carlosh7/blender-mcp) · [官网](https://github.com/carlosh7/blender-mcp/releases/latest) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/carlosh7/blender-mcp) · [官网](https://github.com/carlosh7/blender-mcp/releases/latest) · 个人维护
 
 **让 AI agent 用自然语言操控 Blender 建模渲染的 MCP 服务器**
 

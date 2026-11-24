@@ -1,6 +1,6 @@
 # ianustec/openwebui-generate-slides
 
-⭐ 78 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ianustec/openwebui-generate-slides) · [官网](https://ianustec.com) · 个人维护
+⭐ 79 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ianustec/openwebui-generate-slides) · [官网](https://ianustec.com) · 个人维护
 
 **Open WebUI 工具：从模型生成的 JSON 规格生成原生 PPTX 演示文稿**
 

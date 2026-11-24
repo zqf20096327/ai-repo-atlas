@@ -1,6 +1,6 @@
 # abhishekash/agenturm
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/abhishekash/agenturm) · [官网](https://www.agenturm.dev) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/abhishekash/agenturm) · [官网](https://www.agenturm.dev) · 个人维护
 
 **本地终端优先的编程 agent 监控工具：查看每个 agent 请求与调用记录**
 

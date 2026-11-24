@@ -1,6 +1,6 @@
 # oxylabs/agent-skills
 
-⭐ 869 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/oxylabs/agent-skills) · 组织维护
+⭐ 868 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oxylabs/agent-skills) · 组织维护
 
 **Oxylabs 官方 AI agent 技能集：让 agent 接入代理与采集服务**
 

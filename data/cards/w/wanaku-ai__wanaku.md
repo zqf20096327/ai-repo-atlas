@@ -1,6 +1,6 @@
 # wanaku-ai/wanaku
 
-⭐ 137 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/wanaku-ai/wanaku) · [官网](https://wanaku.ai) · 组织维护
+⭐ 137 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wanaku-ai/wanaku) · [官网](https://wanaku.ai) · 组织维护
 
 **面向 AI agent 的受管动作代理：拦截并治理工具调用**
 

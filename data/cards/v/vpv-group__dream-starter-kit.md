@@ -1,6 +1,6 @@
 # vpv-group/dream-starter-kit
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vpv-group/dream-starter-kit) · [官网](https://meetdream.com/) · 组织维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/vpv-group/dream-starter-kit) · [官网](https://meetdream.com/) · 组织维护
 
 **全栈 Web+iOS/Android 应用起步模板：认证、CMS、支付、推送、AI 助手一体**
 

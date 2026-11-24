@@ -1,6 +1,6 @@
 # Lanvender4444/TreeEngine
 
-⭐ 3 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/Lanvender4444/TreeEngine) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **RAG 与 AI Agent 的细粒度证据检索与上下文重建库**
 
@@ -11,7 +11,7 @@ Python 检索库，将文档解析为结构树，先检索细粒度 Block 作为
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

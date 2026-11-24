@@ -1,6 +1,6 @@
 # wink-wink-wink555/WordNest
 
-⭐ 95 · HTML · MIT · 推送 2026-05-26 · [GitHub](https://github.com/wink-wink-wink555/WordNest) · 个人维护 · 中文 README
+⭐ 96 · HTML · MIT · 推送 2026-05-26 · [GitHub](https://github.com/wink-wink-wink555/WordNest) · 个人维护 · 中文 README
 
 **基于 Flask 的个人生词本 Web 应用，配 AI 例句与词汇知识图谱**
 

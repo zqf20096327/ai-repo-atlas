@@ -1,6 +1,6 @@
 # JudgmentLabs/judgeval
 
-⭐ 1,073 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/JudgmentLabs/judgeval) · [官网](https://judgmentlabs.ai/) · 组织维护
+⭐ 1,073 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/JudgmentLabs/judgeval) · [官网](https://judgmentlabs.ai/) · 组织维护
 
 **为 LLM agent 用户提供追踪与评估的开源 SDK**
 

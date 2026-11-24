@@ -1,6 +1,6 @@
 # gplanchat/awf-workflow-openspec-tdd
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/gplanchat/awf-workflow-openspec-tdd) · 个人维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/gplanchat/awf-workflow-openspec-tdd) · 个人维护
 
 **给开发者提供 OpenSpec 测试先行的 agent 工作流包**
 

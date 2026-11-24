@@ -1,6 +1,6 @@
 # primitivedotdev/sdks
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/primitivedotdev/sdks) · [官网](https://www.primitive.dev/) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/primitivedotdev/sdks) · [官网](https://www.primitive.dev/) · 组织维护
 
 **面向 AI agent 的邮件平台 Primitive 官方多语言 SDK 与 CLI**
 

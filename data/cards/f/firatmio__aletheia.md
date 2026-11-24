@@ -1,6 +1,6 @@
 # firatmio/aletheia
 
-⭐ 17 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/firatmio/aletheia) · [官网](https://aletheia.firattunaarslan.me) · 个人维护
+⭐ 18 · Go · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/firatmio/aletheia) · [官网](https://aletheia.firattunaarslan.me) · 个人维护
 
 **面向编码 agent 的可验证记忆服务器，记忆附代码证据**
 

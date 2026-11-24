@@ -1,6 +1,6 @@
 # ai-screams/HwpForge
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ai-screams/HwpForge) · [官网](https://ai-scream.ai/HwpForge/) · 组织维护
+⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ai-screams/HwpForge) · [官网](https://ai-scream.ai/HwpForge/) · 组织维护
 
 **Rust 库：编程读写/转换韩文 HWP/HWPX 文档，含 MCP 服务器**
 

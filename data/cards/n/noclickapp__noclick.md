@@ -1,6 +1,6 @@
 # noclickapp/noclick
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/noclickapp/noclick) · [官网](https://www.noclick.com) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/noclickapp/noclick) · [官网](https://www.noclick.com) · 组织维护
 
 **开源 AI agent 工作流自动化平台，可视化画布+约160集成**
 

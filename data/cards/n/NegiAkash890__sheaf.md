@@ -1,6 +1,6 @@
 # NegiAkash890/sheaf
 
-⭐ 4 · HTML · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/NegiAkash890/sheaf) · [官网](https://sheaf-site-nine-rouge.vercel.app/) · 个人维护
+⭐ 6 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/NegiAkash890/sheaf) · [官网](https://sheaf-site-nine-rouge.vercel.app/) · 个人维护
 
 **本地 AI 整理 Mac 杂乱文件夹的桌面应用**
 

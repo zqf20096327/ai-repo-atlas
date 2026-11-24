@@ -1,6 +1,6 @@
 # mlco2/ecologits
 
-⭐ 363 · Python · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mlco2/ecologits) · [官网](https://ecologits.ai/) · 组织维护
+⭐ 364 · Python · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mlco2/ecologits) · [官网](https://ecologits.ai/) · 组织维护
 
 **追踪生成式 AI API 调用能耗与环境足迹的 Python 库**
 

@@ -1,6 +1,6 @@
 # Anionex/banana-slides
 
-⭐ 16,061 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Anionex/banana-slides) · [官网](https://bananaslides.online) · 个人维护 · 中文 README
+⭐ 16,074 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Anionex/banana-slides) · [官网](https://bananaslides.online) · 个人维护 · 中文 README
 
 **面向普通用户的图像模型原生 PPT 生成应用**
 

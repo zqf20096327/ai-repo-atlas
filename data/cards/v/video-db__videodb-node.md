@@ -1,6 +1,6 @@
 # video-db/videodb-node
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/video-db/videodb-node) · [官网](https://www.npmjs.com/package/videodb) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/video-db/videodb-node) · [官网](https://www.npmjs.com/package/videodb) · 组织维护
 
 **VideoDB 云视频数据库的 Node.js SDK：上传索引并语义搜索视频**
 

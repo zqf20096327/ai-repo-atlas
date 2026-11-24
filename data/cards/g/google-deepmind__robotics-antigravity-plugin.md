@@ -1,6 +1,6 @@
 # google-deepmind/robotics-antigravity-plugin
 
-⭐ 215 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/robotics-antigravity-plugin) · [官网](https://deepmind.google/models/gemini-robotics/) · 组织维护
+⭐ 244 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/robotics-antigravity-plugin) · [官网](https://deepmind.google/models/gemini-robotics/) · 组织维护
 
 **Google Antigravity 机器人插件：让 agent 编写控制并在仿真与真机上运行**
 

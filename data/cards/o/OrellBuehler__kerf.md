@@ -1,6 +1,6 @@
 # OrellBuehler/kerf
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/OrellBuehler/kerf) · [官网](https://orellbuehler.github.io/kerf/) · 个人维护
+⭐ 15 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/OrellBuehler/kerf) · [官网](https://orellbuehler.github.io/kerf/) · 个人维护
 
 **内嵌 MCP 服务器的跨平台非破坏性视频编辑器，供 LLM 驱动剪辑**
 

@@ -1,6 +1,6 @@
 # AI-Northstar-Tech/vector-io
 
-⭐ 271 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AI-Northstar-Tech/vector-io) · [官网](https://vector-io.com) · 个人维护
+⭐ 271 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AI-Northstar-Tech/vector-io) · [官网](https://vector-io.com) · 个人维护
 
 **向量数据库通用导入导出工具：统一格式迁移与重嵌入向量数据**
 

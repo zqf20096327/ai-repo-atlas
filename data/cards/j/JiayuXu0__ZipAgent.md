@@ -1,6 +1,6 @@
 # JiayuXu0/ZipAgent
 
-⭐ 111 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JiayuXu0/ZipAgent) · [官网](https://github.com/JiayuXu0/ZipAgent) · 个人维护 · 中文 README
+⭐ 113 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/JiayuXu0/ZipAgent) · [官网](https://github.com/JiayuXu0/ZipAgent) · 个人维护 · 中文 README
 
 **轻量级 Python AI Agent 框架，700 行核心代码构建智能助手**
 

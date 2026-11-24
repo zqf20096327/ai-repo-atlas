@@ -1,6 +1,6 @@
 # fw-ai-external/cookbook
 
-⭐ 245 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/fw-ai-external/cookbook) · [官网](https://fireworks.ai/docs) · 组织维护
+⭐ 247 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/fw-ai-external/cookbook) · [官网](https://fireworks.ai/docs) · 组织维护
 
 **Fireworks 平台的模型训练教程与示例代码集**
 

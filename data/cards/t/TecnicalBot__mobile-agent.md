@@ -1,6 +1,6 @@
 # TecnicalBot/mobile-agent
 
-⭐ 82 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TecnicalBot/mobile-agent) · [官网](https://mobileagent.technicalbot.in/) · 个人维护
+⭐ 86 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TecnicalBot/mobile-agent) · [官网](https://mobileagent.technicalbot.in/) · 个人维护
 
 **完全在手机端本地运行的 Android AI agent**
 

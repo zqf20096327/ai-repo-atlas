@@ -1,6 +1,6 @@
 # FavorPan/ai-daily-pulse
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FavorPan/ai-daily-pulse) · [官网](https://ai-daily-pulse.top) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FavorPan/ai-daily-pulse) · [官网](https://ai-daily-pulse.top) · 个人维护 · 中文 README
 
 **AI 资讯自动化雷达：评分过滤 51 个 RSS 源生成每日双语摘要**
 

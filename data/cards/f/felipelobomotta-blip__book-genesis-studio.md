@@ -1,6 +1,6 @@
 # felipelobomotta-blip/book-genesis-studio
 
-⭐ 168 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/felipelobomotta-blip/book-genesis-studio) · [官网](https://felipelobomotta-blip.github.io/book-genesis-studio/) · 个人维护
+⭐ 169 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/felipelobomotta-blip/book-genesis-studio) · [官网](https://felipelobomotta-blip.github.io/book-genesis-studio/) · 个人维护
 
 **给 AI 编程 agent 的整书创作技能集：从一句话到成书**
 

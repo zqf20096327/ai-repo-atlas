@@ -1,6 +1,6 @@
 # microsoft/windows-365-for-agents
 
-⭐ 15 · C# · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/microsoft/windows-365-for-agents) · 组织维护
+⭐ 15 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/windows-365-for-agents) · 组织维护
 
 **微软官方文档：让 AI agent 在云端 Windows PC 上执行任务**
 

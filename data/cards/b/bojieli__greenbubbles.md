@@ -1,6 +1,6 @@
 # bojieli/greenbubbles
 
-⭐ 429 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bojieli/greenbubbles) · 个人维护 · 中文 README
+⭐ 429 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bojieli/greenbubbles) · 个人维护 · 中文 README
 
 **让 AI 读取本机微信聊天记录的 macOS 工具，含代理技能**
 

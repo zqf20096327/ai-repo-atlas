@@ -1,6 +1,6 @@
 # DaoyuanLi2816/RepoGuardBench
 
-⭐ 74 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/DaoyuanLi2816/RepoGuardBench) · [官网](https://openreview.net/forum?id=58AGMTgU3L) · 个人维护
+⭐ 75 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/DaoyuanLi2816/RepoGuardBench) · [官网](https://openreview.net/forum?id=58AGMTgU3L) · 个人维护
 
 **评测本地编码 agent 抗仓库内提示注入能力的基准**
 

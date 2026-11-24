@@ -1,6 +1,6 @@
 # cszach/muse-discord
 
-⭐ 15 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cszach/muse-discord) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cszach/muse-discord) · 个人维护
 
 **把 Muse AI 伙伴接入 Discord 的机器人**
 

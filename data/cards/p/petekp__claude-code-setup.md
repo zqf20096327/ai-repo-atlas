@@ -1,6 +1,6 @@
 # petekp/claude-code-setup
 
-⭐ 49 · Shell · MIT · 推送 2026-10-26 · [GitHub](https://github.com/petekp/claude-code-setup) · 个人维护
+⭐ 49 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/petekp/claude-code-setup) · 个人维护
 
 **可 fork 的 Claude Code/Codex 配置集：技能与脚本一键链接同步**
 

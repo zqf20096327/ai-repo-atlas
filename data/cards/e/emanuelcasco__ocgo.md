@@ -1,6 +1,6 @@
 # emanuelcasco/ocgo
 
-⭐ 102 · Go · MIT · 推送 2026-06-04 · [GitHub](https://github.com/emanuelcasco/ocgo) · 个人维护
+⭐ 103 · Go · MIT · 推送 2026-06-04 · [GitHub](https://github.com/emanuelcasco/ocgo) · 个人维护
 
 **让 Claude Code / Codex CLI 使用 OpenCode Go 订阅的本地代理 CLI**
 

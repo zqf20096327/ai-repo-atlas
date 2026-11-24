@@ -1,6 +1,6 @@
 # runkora/kora
 
-⭐ 74 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/runkora/kora) · [官网](https://runkora.io) · 组织维护
+⭐ 74 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/runkora/kora) · [官网](https://runkora.io) · 组织维护
 
 **生产环境运行 agent 工厂的开源控制平面**
 

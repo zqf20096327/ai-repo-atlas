@@ -1,6 +1,6 @@
 # datawhalechina/reasoning-kingdom
 
-⭐ 271 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/datawhalechina/reasoning-kingdom) · [官网](https://datawhalechina.github.io/reasoning-kingdom/) · 组织维护 · 中文 README
+⭐ 332 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/datawhalechina/reasoning-kingdom) · [官网](https://datawhalechina.github.io/reasoning-kingdom/) · 组织维护 · 中文 README
 
 **三部曲开源书籍：从信息论与逻辑剖析 AI 推理的本质与边界**
 

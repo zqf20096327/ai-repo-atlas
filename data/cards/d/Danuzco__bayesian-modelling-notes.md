@@ -1,6 +1,6 @@
 # Danuzco/bayesian-modelling-notes
 
-⭐ 55 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Danuzco/bayesian-modelling-notes) · [官网](https://doctoradoia.cl/cuerpo-academico/daniel-uzcategui/) · 个人维护
+⭐ 56 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Danuzco/bayesian-modelling-notes) · [官网](https://doctoradoia.cl/cuerpo-academico/daniel-uzcategui/) · 个人维护
 
 **智利博士课程的贝叶斯建模讲义与 Jupyter 代码集**
 

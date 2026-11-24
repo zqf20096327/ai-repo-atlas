@@ -1,6 +1,6 @@
 # wordbricks/onequery
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/wordbricks/onequery) · [官网](https://onequery.dev) · 组织维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/wordbricks/onequery) · [官网](https://onequery.dev) · 组织维护 · 中文 README
 
 **自托管数据查询网关：统一连接数据库与分析工具，安全可审计**
 

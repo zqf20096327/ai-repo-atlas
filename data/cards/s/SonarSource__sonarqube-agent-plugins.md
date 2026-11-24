@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-agent-plugins
 
-⭐ 116 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/SonarSource/sonarqube-agent-plugins) · 组织维护
+⭐ 116 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/SonarSource/sonarqube-agent-plugins) · 组织维护
 
 **让 AI 编码代理接入 SonarQube 代码质量检查的插件集**
 

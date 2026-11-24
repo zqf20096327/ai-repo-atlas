@@ -1,6 +1,6 @@
 # bryn-hill/SillyGit
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bryn-hill/SillyGit) · [官网](https://bryn-hill.github.io/SillyGit/) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bryn-hill/SillyGit) · [官网](https://bryn-hill.github.io/SillyGit/) · 个人维护
 
 **内置 Claude Code 的桌面 Git 客户端，带合并编辑器与提交图**
 

@@ -1,6 +1,6 @@
 # eracle/OpenOutSend
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/eracle/OpenOutSend) · [官网](https://openoutreach.app) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/eracle/OpenOutSend) · [官网](https://openoutreach.app) · 个人维护
 
 **面向 B2B 冷邮件外联的发送端 CLI：接收线索并按节奏发送**
 

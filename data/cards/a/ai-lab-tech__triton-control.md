@@ -1,6 +1,6 @@
 # ai-lab-tech/triton-control
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ai-lab-tech/triton-control) · [官网](https://ailabtech.net/) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ai-lab-tech/triton-control) · [官网](https://ailabtech.net/) · 组织维护
 
 **为 Kubernetes 上的 NVIDIA Triton 推理服务器提供统一 Web 管理界面**
 

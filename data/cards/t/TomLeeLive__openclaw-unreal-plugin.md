@@ -1,6 +1,6 @@
 # TomLeeLive/openclaw-unreal-plugin
 
-⭐ 13 · C++ · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/TomLeeLive/openclaw-unreal-plugin) · 个人维护
+⭐ 14 · C++ · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/TomLeeLive/openclaw-unreal-plugin) · 个人维护
 
 **让 MCP 兼容 AI agent 实时控制 Unreal Editor 的插件**
 

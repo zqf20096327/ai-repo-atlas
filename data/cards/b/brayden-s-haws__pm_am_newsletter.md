@@ -1,6 +1,6 @@
 # brayden-s-haws/pm_am_newsletter
 
-⭐ 29 · Python · MIT · 推送 2025-11-27 · [GitHub](https://github.com/brayden-s-haws/pm_am_newsletter) · [官网](https://pmnews.today/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 GPT 自动生成产品管理日报新闻邮件的 Python 脚本集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

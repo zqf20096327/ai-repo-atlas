@@ -1,6 +1,6 @@
 # knostic/OpenAnt
 
-⭐ 816 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/knostic/OpenAnt) · [官网](https://www.knostic.ai/openant) · 组织维护
+⭐ 816 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/knostic/OpenAnt) · [官网](https://www.knostic.ai/openant) · 组织维护
 
 **面向防御者的 LLM 驱动漏洞发现与修复 CLI 工具**
 

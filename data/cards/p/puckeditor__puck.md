@@ -1,6 +1,6 @@
 # puckeditor/puck
 
-⭐ 13,746 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/puckeditor/puck) · [官网](https://puckeditor.com) · 组织维护
+⭐ 13,749 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/puckeditor/puck) · [官网](https://puckeditor.com) · 组织维护
 
 **给 React 应用嵌入拖拽式可视化页面编辑器的开发库**
 

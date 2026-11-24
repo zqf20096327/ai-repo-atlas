@@ -1,6 +1,6 @@
 # 0Chencc/clawgod
 
-⭐ 2,335 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/0Chencc/clawgod) · [官网](http://clawgod.0chen.cc) · 个人维护 · 中文 README
+⭐ 2,337 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/0Chencc/clawgod) · [官网](http://clawgod.0chen.cc) · 个人维护 · 中文 README
 
 **官方 Claude Code 的运行时补丁：解锁功能、去除限制、增强隐私**
 

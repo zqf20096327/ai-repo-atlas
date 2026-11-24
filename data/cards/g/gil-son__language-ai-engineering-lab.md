@@ -1,6 +1,6 @@
 # gil-son/language-ai-engineering-lab
 
-⭐ 130 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gil-son/language-ai-engineering-lab) · 个人维护
+⭐ 132 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gil-son/language-ai-engineering-lab) · 个人维护
 
 **覆盖 NLP 到 LLM 生产系统的结构化学习路径仓库**
 

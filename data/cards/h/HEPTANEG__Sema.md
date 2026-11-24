@@ -1,6 +1,6 @@
 # HEPTANEG/Sema
 
-⭐ 46 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/HEPTANEG/Sema) · 个人维护 · 中文 README
+⭐ 58 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/HEPTANEG/Sema) · 个人维护 · 中文 README
 
 **记忆原生 AI agent：跨会话长期记忆与自主维护**
 

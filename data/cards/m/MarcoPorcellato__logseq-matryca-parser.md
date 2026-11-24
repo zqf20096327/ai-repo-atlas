@@ -1,6 +1,6 @@
 # MarcoPorcellato/logseq-matryca-parser
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/MarcoPorcellato/logseq-matryca-parser) · 组织维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MarcoPorcellato/logseq-matryca-parser) · 组织维护
 
 **确定性 Logseq Markdown 解析库：保留父子层级供 RAG 使用**
 

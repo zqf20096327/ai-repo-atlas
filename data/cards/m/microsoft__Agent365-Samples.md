@@ -1,6 +1,6 @@
 # microsoft/Agent365-Samples
 
-⭐ 113 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/Agent365-Samples) · 组织维护
+⭐ 113 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agent365-Samples) · 组织维护
 
 **微软 Agent 365 SDK 的示例 agent 与提示词集合**
 

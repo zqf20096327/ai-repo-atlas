@@ -1,6 +1,6 @@
 # martinholovsky/SOTA-skills
 
-⭐ 29 · Python · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/martinholovsky/SOTA-skills) · [官网](https://probably.group) · 个人维护
+⭐ 29 · Python · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/martinholovsky/SOTA-skills) · [官网](https://probably.group) · 个人维护
 
 **给 AI 编程助手的工程规范技能库：43 个技能按任务路由加载**
 

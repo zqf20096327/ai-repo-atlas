@@ -1,6 +1,6 @@
 # F0ran9/forang
 
-⭐ 16 · Go · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/F0ran9/forang) · 个人维护 · 中文 README
+⭐ 17 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/F0ran9/forang) · 个人维护 · 中文 README
 
 **多 Agent 协同的 AI 自动化渗透测试平台，覆盖侦察到 C2 全链路**
 

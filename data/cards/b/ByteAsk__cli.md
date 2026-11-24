@@ -1,6 +1,6 @@
 # ByteAsk/cli
 
-⭐ 701 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ByteAsk/cli) · [官网](https://byteask.ai) · 组织维护
+⭐ 851 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ByteAsk/cli) · [官网](https://byteask.ai) · 组织维护
 
 **面向 C/C++ 的终端 AI 编码代理，基于 Codex CLI 分叉**
 

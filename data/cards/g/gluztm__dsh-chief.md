@@ -1,6 +1,6 @@
 # gluztm/dsh-chief
 
-⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/gluztm/dsh-chief) · [官网](https://awesome-dsh-plugin.com/p/gluztm/dsh-chief/) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/gluztm/dsh-chief) · [官网](https://awesome-dsh-plugin.com/p/gluztm/dsh-chief/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的多代理看护面板：压缩防丢、权限审批、子代理监控**
 

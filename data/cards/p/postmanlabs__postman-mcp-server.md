@@ -1,6 +1,6 @@
 # postmanlabs/postman-mcp-server
 
-⭐ 332 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/postmanlabs/postman-mcp-server) · [官网](https://www.postman.com/product/mcp-server/) · 组织维护
+⭐ 333 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/postmanlabs/postman-mcp-server) · [官网](https://www.postman.com/product/mcp-server/) · 组织维护
 
 **将 AI 编码代理接入 Postman 集合与 API 规范的 MCP 服务器**
 

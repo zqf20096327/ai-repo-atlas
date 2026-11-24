@@ -1,6 +1,6 @@
 # EvilFreelancer/docker-fish-speech-server
 
-⭐ 33 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EvilFreelancer/docker-fish-speech-server) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EvilFreelancer/docker-fish-speech-server) · 个人维护
 
 **fish-speech-1.5 语音生成 API 服务器的 Docker 封装**
 

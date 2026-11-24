@@ -1,6 +1,6 @@
 # microsoft/mcp-for-beginners
 
-⭐ 17,698 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/mcp-for-beginners) · 组织维护
+⭐ 17,705 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/mcp-for-beginners) · 组织维护
 
 **面向开发者的 MCP 协议入门课程（多语言代码示例）**
 

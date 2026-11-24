@@ -1,6 +1,6 @@
 # mit-han-lab/EvolvingInfra
 
-⭐ 175 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/mit-han-lab/EvolvingInfra) · [官网](https://inference-rsi.com/) · 组织维护
+⭐ 182 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mit-han-lab/EvolvingInfra) · [官网](https://inference-rsi.com/) · 组织维护
 
 **面向 agent 工作负载自适应的 LLM 推理服务系统**
 

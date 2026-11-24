@@ -1,6 +1,6 @@
 # danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide
 
-⭐ 21 · 推送 2026-11-19 · [GitHub](https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 41 · 推送 2026-11-19 · [GitHub](https://github.com/danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **将 CoreGold USDT 虚拟卡添加至美区 Apple Wallet 的教程**
 

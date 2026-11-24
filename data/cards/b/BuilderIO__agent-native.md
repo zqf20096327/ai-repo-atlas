@@ -1,6 +1,6 @@
 # BuilderIO/agent-native
 
-⭐ 7,738 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BuilderIO/agent-native) · [官网](https://www.agent-native.com) · 组织维护
+⭐ 7,750 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/BuilderIO/agent-native) · [官网](https://www.agent-native.com) · 组织维护
 
 **构建带专用 UI 的 agent 应用的 TypeScript 框架**
 

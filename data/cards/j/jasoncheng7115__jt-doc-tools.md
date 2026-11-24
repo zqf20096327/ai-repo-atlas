@@ -1,6 +1,6 @@
 # jasoncheng7115/jt-doc-tools
 
-⭐ 251 · HTML · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
+⭐ 251 · HTML · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
 
 **自架开源的 PDF/Office 文件处理平台，含 52 种工具与可选 LLM 增强**
 

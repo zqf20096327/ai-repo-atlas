@@ -1,6 +1,6 @@
 # beelzebub-labs/beelzebub
 
-⭐ 2,253 · Go · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/beelzebub-labs/beelzebub) · [官网](https://docs.beelzebub.ai) · 组织维护
+⭐ 2,255 · Go · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/beelzebub-labs/beelzebub) · [官网](https://docs.beelzebub.ai) · 组织维护
 
 **给安全团队用的开源蜜罐欺骗框架，LLM 驱动诱饵响应**
 

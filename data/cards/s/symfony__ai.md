@@ -1,6 +1,6 @@
 # symfony/ai
 
-⭐ 1,253 · PHP · MIT · 推送 2026-11-22 · [GitHub](https://github.com/symfony/ai) · [官网](https://ai.symfony.com/) · 组织维护
+⭐ 1,255 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/symfony/ai) · [官网](https://ai.symfony.com/) · 组织维护
 
 **为 PHP/Symfony 应用集成 AI 能力的组件集**
 

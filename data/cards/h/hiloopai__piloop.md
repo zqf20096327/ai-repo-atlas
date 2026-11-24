@@ -1,6 +1,6 @@
 # hiloopai/piloop
 
-⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hiloopai/piloop) · [官网](https://piloop.autoresearch.inc) · 组织维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hiloopai/piloop) · [官网](https://piloop.autoresearch.inc) · 组织维护
 
 **让编码 agent 尝试想法、按评估打分择优提交的工具**
 

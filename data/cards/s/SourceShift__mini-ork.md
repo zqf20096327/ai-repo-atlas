@@ -1,6 +1,6 @@
 # SourceShift/mini-ork
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SourceShift/mini-ork) · [官网](https://miniork.dev) · 个人维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SourceShift/mini-ork) · [官网](https://miniork.dev) · 个人维护
 
 **面向 AI agent 的验证门控任务运行时，证明修复确实修了 bug**
 

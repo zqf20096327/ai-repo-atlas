@@ -1,6 +1,6 @@
 # hypnosis/ssh-mcp-server
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/hypnosis/ssh-mcp-server) · [官网](https://www.npmjs.com/package/@hypnosis/ssh-mcp-server) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/hypnosis/ssh-mcp-server) · [官网](https://www.npmjs.com/package/@hypnosis/ssh-mcp-server) · 个人维护
 
 **给 AI agent 提供远程 SSH 运维工具的 MCP 服务器**
 

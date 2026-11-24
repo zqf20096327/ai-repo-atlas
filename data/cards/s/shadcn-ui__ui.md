@@ -1,6 +1,6 @@
 # shadcn-ui/ui
 
-⭐ 128,758 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/shadcn-ui/ui) · [官网](https://ui.shadcn.com) · 组织维护
+⭐ 128,864 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/shadcn-ui/ui) · [官网](https://ui.shadcn.com) · 组织维护
 
 **给开发者的可定制 React 组件集合，用于构建自己的组件库**
 

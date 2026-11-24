@@ -1,6 +1,6 @@
 # microsoft/apm-action
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/apm-action) · 组织维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/apm-action) · 组织维护
 
 **GitHub Action：安装 APM 并把 agent 资产部署进 CI 流程**
 

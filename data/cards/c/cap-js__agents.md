@@ -1,6 +1,6 @@
 # cap-js/agents
 
-⭐ 20 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cap-js/agents) · 组织维护
+⭐ 20 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cap-js/agents) · 组织维护
 
 **SAP CAP 的 Node.js 插件：基于 A2A 协议构建 agent**
 

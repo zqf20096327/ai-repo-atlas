@@ -1,6 +1,6 @@
 # Gen-Verse/PAST-Bench
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Gen-Verse/PAST-Bench) · [官网](https://arxiv.org/abs/2608.04003) · 组织维护 · 中文 README
+⭐ 39 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Gen-Verse/PAST-Bench) · [官网](https://arxiv.org/abs/2608.04003) · 组织维护 · 中文 README
 
 **评测持久化 agent 跨会话自我改进能力的基准（26 任务族/204 集）**
 

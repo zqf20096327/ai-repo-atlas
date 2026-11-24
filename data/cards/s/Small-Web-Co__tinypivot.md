@@ -1,6 +1,6 @@
 # Small-Web-Co/tinypivot
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Small-Web-Co/tinypivot) · [官网](https://tiny-pivot.com) · 组织维护
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Small-Web-Co/tinypivot) · [官网](https://tiny-pivot.com) · 组织维护
 
 **Vue/React 数据表格与透视表组件，Pro 版含 AI 数据分析**
 

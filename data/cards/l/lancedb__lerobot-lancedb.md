@@ -1,6 +1,6 @@
 # lancedb/lerobot-lancedb
 
-⭐ 32 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/lancedb/lerobot-lancedb) · [官网](https://lancedb.github.io/lerobot-lancedb/) · 组织维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/lancedb/lerobot-lancedb) · [官网](https://lancedb.github.io/lerobot-lancedb/) · 组织维护
 
 **把 LeRobot 机器人数据集转为 Lance 格式并直接训练的加载器**
 

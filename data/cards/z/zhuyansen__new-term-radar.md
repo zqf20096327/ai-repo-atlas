@@ -1,6 +1,6 @@
 # zhuyansen/new-term-radar
 
-⭐ 2,210 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zhuyansen/new-term-radar) · [官网](https://agentskillshub.top/skill/zhuyansen/new-term-radar/) · 个人维护 · 中文 README
+⭐ 2,216 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zhuyansen/new-term-radar) · [官网](https://agentskillshub.top/skill/zhuyansen/new-term-radar/) · 个人维护 · 中文 README
 
 **面向 SEO 与内容站点的 AI 新词每日雷达报告**
 

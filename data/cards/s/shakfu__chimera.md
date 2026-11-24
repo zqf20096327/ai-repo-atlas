@@ -1,6 +1,6 @@
 # shakfu/chimera
 
-⭐ 14 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shakfu/chimera) · 个人维护
+⭐ 14 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/shakfu/chimera) · 个人维护
 
 **单二进制本地推理多工具：集成 llama/whisper/sd.cpp 三引擎**
 

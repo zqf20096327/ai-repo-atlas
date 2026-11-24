@@ -1,6 +1,6 @@
 # TrapBladesmith/GitHub-Copilot-app
 
-⭐ 374 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TrapBladesmith/GitHub-Copilot-app) · 组织维护
+⭐ 371 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TrapBladesmith/GitHub-Copilot-app) · 组织维护
 
 **面向 GitHub 仓库的 Copilot 桌面端，代理并行开发工作台**
 

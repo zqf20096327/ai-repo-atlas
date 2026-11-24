@@ -1,6 +1,6 @@
 # broxhq/qpilot
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/broxhq/qpilot) · [官网](https://brox.sh/) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/broxhq/qpilot) · [官网](https://brox.sh/) · 组织维护
 
 **AI agent：在真实浏览器中执行纯文本手工测试用例**
 

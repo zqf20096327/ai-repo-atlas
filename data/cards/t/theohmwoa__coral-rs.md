@@ -1,6 +1,6 @@
 # theohmwoa/coral-rs
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/theohmwoa/coral-rs) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-07-24 · [GitHub](https://github.com/theohmwoa/coral-rs) · 个人维护
 
 **Coral USB 加速器的纯 Rust 驱动与推理运行时**
 

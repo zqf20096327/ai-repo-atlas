@@ -1,6 +1,6 @@
 # victorcuscahua1974-afk/ai-video-studio-billing-guard
 
-⭐ 71 · 推送 2026-11-03 · [GitHub](https://github.com/victorcuscahua1974-afk/ai-video-studio-billing-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 93 · 推送 2026-11-03 · [GitHub](https://github.com/victorcuscahua1974-afk/ai-video-studio-billing-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向 AI 视频工作室的虚拟卡开卡推广页（CoreGold）**
 

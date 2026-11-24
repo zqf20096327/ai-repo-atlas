@@ -1,6 +1,6 @@
 # mlte-team/mlte
 
-⭐ 22 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/mlte-team/mlte) · [官网](http://mlte.rtfd.io/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mlte-team/mlte) · [官网](http://mlte.rtfd.io/) · 组织维护
 
 **机器学习模型测试与评估框架（Python 库+Web UI）**
 

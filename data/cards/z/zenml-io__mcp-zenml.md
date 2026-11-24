@@ -1,6 +1,6 @@
 # zenml-io/mcp-zenml
 
-⭐ 49 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zenml-io/mcp-zenml) · [官网](https://www.zenml.io) · 组织维护
+⭐ 49 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zenml-io/mcp-zenml) · [官网](https://www.zenml.io) · 组织维护
 
 **连接 MCP 客户端与 ZenML MLOps/LLMOps 管道的 MCP 服务器**
 

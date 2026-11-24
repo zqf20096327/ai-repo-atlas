@@ -1,6 +1,6 @@
 # Etamus/NeveAI
 
-⭐ 65 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Etamus/NeveAI) · [官网](https://huggingface.co/NeveAI) · 个人维护
+⭐ 65 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Etamus/NeveAI) · [官网](https://huggingface.co/NeveAI) · 个人维护
 
 **本地隐私优先的 AI 平台：离线运行 LLM 对话、生成图像/音乐/视频**
 

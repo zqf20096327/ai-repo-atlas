@@ -1,6 +1,6 @@
 # baidu/cosui
 
-⭐ 101 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/baidu/cosui) · [官网](https://baidu.github.io/cosui/) · 组织维护 · 中文 README
+⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/baidu/cosui) · [官网](https://baidu.github.io/cosui/) · 组织维护 · 中文 README
 
 **面向 AI 应用的前端 UI 解决方案：UI 协议、渲染 SDK 与组件库**
 

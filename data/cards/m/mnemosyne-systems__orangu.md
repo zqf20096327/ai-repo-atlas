@@ -1,6 +1,6 @@
 # mnemosyne-systems/orangu
 
-⭐ 59 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/mnemosyne-systems/orangu) · [官网](https://mnemosyne-systems.github.io/orangu/) · 组织维护
+⭐ 60 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mnemosyne-systems/orangu) · [官网](https://mnemosyne-systems.github.io/orangu/) · 组织维护
 
 **全离线的终端 AI 编程环境，含自研 Rust GGUF 推理引擎**
 

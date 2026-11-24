@@ -1,6 +1,6 @@
 # asf0/libstrix
 
-⭐ 24 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/asf0/libstrix) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/asf0/libstrix) · 个人维护
 
 **AMD Strix Halo 上加速 vLLM 推理的 HIP 内核插件**
 

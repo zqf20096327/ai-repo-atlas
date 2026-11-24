@@ -1,6 +1,6 @@
 # streamlit/streamlit
 
-⭐ 46,482 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/streamlit/streamlit) · [官网](https://streamlit.io) · 组织维护
+⭐ 46,483 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/streamlit/streamlit) · [官网](https://streamlit.io) · 组织维护
 
 **用纯 Python 构建数据应用与仪表盘的应用框架**
 

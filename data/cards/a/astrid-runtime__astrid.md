@@ -1,6 +1,6 @@
 # astrid-runtime/astrid
 
-⭐ 10,290 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/astrid-runtime/astrid) · 组织维护
+⭐ 10,294 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/astrid-runtime/astrid) · 组织维护
 
 **面向 agent 的能力安全 WASM 运行时：沙箱化组合并隔离各组件权限**
 

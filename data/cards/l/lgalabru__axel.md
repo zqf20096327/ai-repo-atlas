@@ -1,6 +1,6 @@
 # lgalabru/axel
 
-⭐ 325 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lgalabru/axel) · [官网](https://axel.md) · 个人维护
+⭐ 327 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lgalabru/axel) · [官网](https://axel.md) · 个人维护
 
 **面向 Rex 终端的编码 agent 编排工具：线程与命名 agent 协作**
 

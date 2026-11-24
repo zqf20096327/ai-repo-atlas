@@ -1,6 +1,6 @@
 # process-intelligence-solutions/pm4py
 
-⭐ 1,082 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/process-intelligence-solutions/pm4py) · [官网](https://processintelligence.solutions/pm4py) · 组织维护
+⭐ 1,082 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/process-intelligence-solutions/pm4py) · [官网](https://processintelligence.solutions/pm4py) · 组织维护
 
 **Python 过程挖掘库：从事件日志分析业务流程**
 

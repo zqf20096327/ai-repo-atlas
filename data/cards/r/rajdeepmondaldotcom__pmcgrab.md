@@ -1,6 +1,6 @@
 # rajdeepmondaldotcom/pmcgrab
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/rajdeepmondaldotcom/pmcgrab) · [官网](https://rajdeepmondaldotcom.github.io/pmcgrab/) · 个人维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rajdeepmondaldotcom/pmcgrab) · [官网](https://rajdeepmondaldotcom.github.io/pmcgrab/) · 个人维护
 
 **给生医 AI/RAG 管线的 PMC 文献解析库：PMC ID 进、干净论文 JSON 出**
 

@@ -1,6 +1,6 @@
 # DU8866-nice/awesome-ai-drama
 
-⭐ 27 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/DU8866-nice/awesome-ai-drama) · 个人维护 · 中文 README
+⭐ 28 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/DU8866-nice/awesome-ai-drama) · 个人维护 · 中文 README
 
 **AI 短剧/漫剧全流程开源工具清单，供创作选型**
 

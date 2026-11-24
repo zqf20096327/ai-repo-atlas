@@ -1,6 +1,6 @@
 # python-adaptive/adaptive
 
-⭐ 1,232 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/python-adaptive/adaptive) · [官网](http://adaptive.readthedocs.io/) · 组织维护
+⭐ 1,232 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/python-adaptive/adaptive) · [官网](http://adaptive.readthedocs.io/) · 组织维护
 
 **数学函数的自适应并行采样 Python 库**
 

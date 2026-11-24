@@ -1,6 +1,6 @@
 # buddy/claude-managed-agents
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/buddy/claude-managed-agents) · [官网](https://buddy.works/docs/ai-agents/claude-managed-agents) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/buddy/claude-managed-agents) · [官网](https://buddy.works/docs/ai-agents/claude-managed-agents) · 组织维护
 
 **在 Buddy Sandboxes 上自托管 Claude Managed Agents 执行层的控制平面**
 

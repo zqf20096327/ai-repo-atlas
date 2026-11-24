@@ -1,6 +1,6 @@
 # leonardobetti/pd-portfolio-review
 
-⭐ 38 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/leonardobetti/pd-portfolio-review) · [官网](https://pd-portfolio-review.vercel.app/) · 个人维护
+⭐ 39 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/leonardobetti/pd-portfolio-review) · [官网](https://pd-portfolio-review.vercel.app/) · 个人维护
 
 **AI agent 技能：以招聘评审视角给设计作品集打分出报告**
 

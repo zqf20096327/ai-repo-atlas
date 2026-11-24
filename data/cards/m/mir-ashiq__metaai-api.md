@@ -1,6 +1,6 @@
 # mir-ashiq/metaai-api
 
-⭐ 97 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/mir-ashiq/metaai-api) · [官网](https://github.com/mir-ashiq/VibesAI-api) · 个人维护
+⭐ 99 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/mir-ashiq/metaai-api) · [官网](https://github.com/mir-ashiq/VibesAI-api) · 个人维护
 
 **非官方 Meta AI Python SDK 与 FastAPI 服务器：文生图、对话**
 

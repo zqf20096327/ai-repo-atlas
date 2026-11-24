@@ -1,6 +1,6 @@
 # letuhao/lore-weave
 
-⭐ 40 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/letuhao/lore-weave) · [官网](https://github.com/letuhao/lore-weave/blob/main/README.md) · 个人维护
+⭐ 40 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/letuhao/lore-weave) · [官网](https://github.com/letuhao/lore-weave/blob/main/README.md) · 个人维护
 
 **面向小说作者与世界构建者的自托管 AI 共创写作平台**
 

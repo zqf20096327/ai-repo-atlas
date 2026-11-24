@@ -1,6 +1,6 @@
 # aranculleton/last-job-search
 
-⭐ 6 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aranculleton/last-job-search) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aranculleton/last-job-search) · 个人维护
 
 **运行在 Claude Code 上的求职代理系统：找岗位、定制简历、跟进提醒**
 

@@ -1,6 +1,6 @@
 # PerryLink/dsh-mask
 
-⭐ 19 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-mask) · [官网](https://www.npmjs.com/package/dsh-mask) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-mask) · [官网](https://www.npmjs.com/package/dsh-mask) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 PII 脱敏插件：模型边界前置匿名化**
 

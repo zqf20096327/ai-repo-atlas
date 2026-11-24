@@ -1,6 +1,6 @@
 # Surya-Hariharan/Velune-CLI
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Surya-Hariharan/Velune-CLI) · [官网](https://velune-cli.vercel.app/) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Surya-Hariharan/Velune-CLI) · [官网](https://velune-cli.vercel.app/) · 个人维护
 
 **本地优先的终端 AI 编程助手：多智能体协作改代码**
 

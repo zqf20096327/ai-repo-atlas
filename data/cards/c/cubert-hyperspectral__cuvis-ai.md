@@ -1,6 +1,6 @@
 # cubert-hyperspectral/cuvis-ai
 
-⭐ 20 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/cubert-hyperspectral/cuvis-ai) · [官网](https://docs.cuvis.ai/) · 组织维护
+⭐ 20 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cubert-hyperspectral/cuvis-ai) · [官网](https://docs.cuvis.ai/) · 组织维护
 
 **构建高光谱视频 AI 处理管线的模块化节点框架**
 

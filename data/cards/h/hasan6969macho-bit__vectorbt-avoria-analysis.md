@@ -1,6 +1,6 @@
 # hasan6969macho-bit/vectorbt-avoria-analysis
 
-⭐ 147 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis) · 个人维护
 
 **基于 vectorbt 的量化回测与参数扫描工具库**
 

@@ -1,6 +1,6 @@
 # tuke307/luki-fitti
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/tuke307/luki-fitti) · [官网](https://luki-fitti.tony-luke.de/) · 组织维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/tuke307/luki-fitti) · [官网](https://luki-fitti.tony-luke.de/) · 组织维护
 
 **面向健身者的开源训练与饮食追踪应用（Web/iPhone/Watch）**
 

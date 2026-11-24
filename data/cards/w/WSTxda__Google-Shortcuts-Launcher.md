@@ -1,6 +1,6 @@
 # WSTxda/Google-Shortcuts-Launcher
 
-⭐ 734 · Kotlin · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/WSTxda/Google-Shortcuts-Launcher) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在启动器抽屉中直达 Google 应用功能的快捷方式合集**
 
@@ -11,7 +11,7 @@ Android 应用，向系统启动器应用抽屉注入一组快捷方式，调用
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

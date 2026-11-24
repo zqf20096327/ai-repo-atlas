@@ -1,6 +1,6 @@
 # Unclecheng-li/Hello-AI
 
-⭐ 77 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Unclecheng-li/Hello-AI) · [官网](https://hello-ai.seekstar.ai) · 个人维护 · 中文 README
+⭐ 78 · Python · MIT · 推送 2026-07-27 · [GitHub](https://github.com/Unclecheng-li/Hello-AI) · [官网](https://hello-ai.seekstar.ai) · 个人维护 · 中文 README
 
 **面向中文 AI 小白的 LLM 入门知识站与学习路径**
 

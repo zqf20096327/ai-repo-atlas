@@ -1,6 +1,6 @@
 # JostQQ/tradingview-mcp
 
-⭐ 21 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/JostQQ/tradingview-mcp) · 个人维护
+⭐ 22 · JavaScript · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/JostQQ/tradingview-mcp) · 个人维护
 
 **给 agent 提供 TradingView Desktop 自动化能力的 MCP 服务器**
 

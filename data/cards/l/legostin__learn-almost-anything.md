@@ -1,6 +1,6 @@
 # legostin/learn-almost-anything
 
-⭐ 18 · TypeScript · 推送 2026-07-01 · [GitHub](https://github.com/legostin/learn-almost-anything) · [官网](https://github.com/legostin/learn-almost-anything/releases) · 个人维护
+⭐ 19 · TypeScript · 推送 2026-07-01 · [GitHub](https://github.com/legostin/learn-almost-anything) · [官网](https://github.com/legostin/learn-almost-anything/releases) · 个人维护
 
 **本地桌面 AI 导师：把任意主题生成为含测验作业的完整课程**
 

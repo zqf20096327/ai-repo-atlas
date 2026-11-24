@@ -1,6 +1,6 @@
 # Darna-Digital/reviewer
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Darna-Digital/reviewer) · [官网](https://reviewer.sh) · 组织维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Darna-Digital/reviewer) · [官网](https://reviewer.sh) · 组织维护
 
 **macOS 原生应用：查看 diff 并评审 AI 生成的代码**
 

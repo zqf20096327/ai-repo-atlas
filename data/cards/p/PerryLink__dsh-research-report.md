@@ -1,6 +1,6 @@
 # PerryLink/dsh-research-report
 
-⭐ 220 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-research-report) · [官网](https://www.npmjs.com/package/dsh-research-report) · 个人维护 · 中文 README
+⭐ 221 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-research-report) · [官网](https://www.npmjs.com/package/dsh-research-report) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：生成逐条声明可验证的密封研究报告**
 

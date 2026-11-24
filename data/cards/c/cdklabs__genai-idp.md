@@ -1,6 +1,6 @@
 # cdklabs/genai-idp
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cdklabs/genai-idp) · [官网](https://cdklabs.github.io/genai-idp/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/cdklabs/genai-idp) · [官网](https://cdklabs.github.io/genai-idp/) · 组织维护
 
 **AWS CDK 版 GenAI 文档处理加速器：非结构化文档转结构化数据**
 

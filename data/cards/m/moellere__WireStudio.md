@@ -1,6 +1,6 @@
 # moellere/WireStudio
 
-⭐ 29 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/moellere/WireStudio) · [官网](https://wirestudio.io) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/moellere/WireStudio) · [官网](https://wirestudio.io) · 个人维护
 
 **面向 ESPHome/LoRaWAN 硬件的 AI 辅助设计工作台：从 design.json 生成全套硬件产物**
 

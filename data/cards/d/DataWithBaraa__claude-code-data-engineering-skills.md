@@ -1,6 +1,6 @@
 # DataWithBaraa/claude-code-data-engineering-skills
 
-⭐ 107 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/DataWithBaraa/claude-code-data-engineering-skills) · [官网](https://youtu.be/F5lZj1bQyUw) · 个人维护
+⭐ 110 · HTML · MIT · 推送 2026-11-06 · [GitHub](https://github.com/DataWithBaraa/claude-code-data-engineering-skills) · [官网](https://youtu.be/F5lZj1bQyUw) · 个人维护
 
 **面向数据工程师的 16 个 Claude Code 技能包**
 

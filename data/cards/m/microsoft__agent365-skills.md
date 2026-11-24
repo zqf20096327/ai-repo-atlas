@@ -1,6 +1,6 @@
 # microsoft/agent365-skills
 
-⭐ 57 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/agent365-skills) · 组织维护
+⭐ 57 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/agent365-skills) · 组织维护
 
 **面向 Microsoft Agent 365 的 AI 编程技能与 MCP 配置集**
 

@@ -1,6 +1,6 @@
 # restatedev/ai-examples
 
-⭐ 99 · Python · 推送 2026-11-18 · [GitHub](https://github.com/restatedev/ai-examples) · [官网](https://ai.restate.dev) · 组织维护
+⭐ 100 · Python · 推送 2026-11-18 · [GitHub](https://github.com/restatedev/ai-examples) · [官网](https://ai.restate.dev) · 组织维护
 
 **Restate 官方的 AI agent/工作流可运行示例与模板合集**
 

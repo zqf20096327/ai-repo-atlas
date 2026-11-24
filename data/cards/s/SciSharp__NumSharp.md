@@ -1,6 +1,6 @@
 # SciSharp/NumSharp
 
-⭐ 1,483 · C# · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/SciSharp/NumSharp) · [官网](https://scisharp.github.io/NumSharp/) · 组织维护
+⭐ 1,483 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SciSharp/NumSharp) · [官网](https://scisharp.github.io/NumSharp/) · 组织维护
 
 **给 .NET 开发者提供 NumPy 同构 API 的 N 维数组计算库**
 

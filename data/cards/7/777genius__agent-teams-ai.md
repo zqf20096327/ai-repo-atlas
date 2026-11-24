@@ -1,6 +1,6 @@
 # 777genius/agent-teams-ai
 
-⭐ 2,529 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/777genius/agent-teams-ai) · [官网](https://agentteams.live) · 个人维护 · 中文 README
+⭐ 2,537 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/777genius/agent-teams-ai) · [官网](https://agentteams.live) · 个人维护 · 中文 README
 
 **AI agent 团队编排桌面应用：看板指挥多 agent 协作干活**
 

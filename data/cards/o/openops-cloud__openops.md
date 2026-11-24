@@ -1,6 +1,6 @@
 # openops-cloud/openops
 
-⭐ 1,083 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/openops-cloud/openops) · [官网](https://www.openops.com) · 组织维护
+⭐ 1,083 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/openops-cloud/openops) · [官网](https://www.openops.com) · 组织维护
 
 **无代码 FinOps 自动化平台：帮组织降低云成本并自动化财务运营流程**
 

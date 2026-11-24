@@ -1,6 +1,6 @@
 # nestjs/ai
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nestjs/ai) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nestjs/ai) · 组织维护
 
 **Nest 框架的 AI 模块：依赖注入方式接入语言模型与构建 agent**
 

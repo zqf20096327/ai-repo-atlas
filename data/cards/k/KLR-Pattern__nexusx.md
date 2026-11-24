@@ -1,6 +1,6 @@
 # KLR-Pattern/nexusx
 
-⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/KLR-Pattern/nexusx) · [官网](https://klr-pattern.github.io/nexusx/) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KLR-Pattern/nexusx) · [官网](https://klr-pattern.github.io/nexusx/) · 个人维护 · 中文 README
 
 **为开发者从单一 SQLModel 模型生成 MCP/GraphQL/REST/CLI 的 Python 框架**
 

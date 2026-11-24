@@ -1,6 +1,6 @@
 # PythonnotJava/RemindAI
 
-⭐ 195 · Dart · MIT · 推送 2026-11-08 · [GitHub](https://github.com/PythonnotJava/RemindAI) · [官网](https://www.robot-shadow.cn/extend/remindai/) · 个人维护 · 中文 README
+⭐ 199 · Dart · MIT · 推送 2026-11-08 · [GitHub](https://github.com/PythonnotJava/RemindAI) · [官网](https://www.robot-shadow.cn/extend/remindai/) · 个人维护 · 中文 README
 
 **桌面 AI 助手：让大模型直接操作文件、执行代码、管理记忆**
 

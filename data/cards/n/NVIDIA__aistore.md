@@ -1,6 +1,6 @@
 # NVIDIA/aistore
 
-⭐ 1,971 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/aistore) · [官网](https://docs.nvidia.com/aistore) · 组织维护
+⭐ 1,972 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/aistore) · [官网](https://docs.nvidia.com/aistore) · 组织维护
 
 **面向 AI 应用的分布式对象存储集群**
 

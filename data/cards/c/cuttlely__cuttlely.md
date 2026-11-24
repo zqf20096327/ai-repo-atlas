@@ -1,6 +1,6 @@
 # cuttlely/cuttlely
 
-⭐ 8 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cuttlely/cuttlely) · [官网](https://cuttlely.com) · 组织维护
+⭐ 8 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cuttlely/cuttlely) · [官网](https://cuttlely.com) · 组织维护
 
 **自托管可视化编排 AI agent 团队的平台**
 

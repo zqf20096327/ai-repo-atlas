@@ -1,6 +1,6 @@
 # aliyun/alibabacloud-agent-toolkit
 
-⭐ 33 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/aliyun/alibabacloud-agent-toolkit) · 组织维护 · 中文 README
+⭐ 33 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aliyun/alibabacloud-agent-toolkit) · 组织维护 · 中文 README
 
 **阿里云官方 AI 编码 agent 插件与 MCP 工具集**
 

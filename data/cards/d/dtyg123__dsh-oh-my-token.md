@@ -1,6 +1,6 @@
 # dtyg123/dsh-oh-my-token
 
-⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dtyg123/dsh-oh-my-token) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dtyg123/dsh-oh-my-token) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 省 token 的插件：改写工具输出再入提示词**
 

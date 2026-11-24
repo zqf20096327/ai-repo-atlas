@@ -1,6 +1,6 @@
 # UfoMiao/zcf
 
-⭐ 6,066 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/UfoMiao/zcf) · [官网](http://zcf.ufomiao.com/) · 个人维护 · 中文 README
+⭐ 6,065 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/UfoMiao/zcf) · [官网](http://zcf.ufomiao.com/) · 个人维护 · 中文 README
 
 **为 Claude Code/Codex 等 AI 编码工具做统一配置安装的 CLI**
 

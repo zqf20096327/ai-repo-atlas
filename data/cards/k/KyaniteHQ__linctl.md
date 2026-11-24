@@ -1,6 +1,6 @@
 # KyaniteHQ/linctl
 
-⭐ 12 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/KyaniteHQ/linctl) · [官网](https://github.com/KyaniteHQ/linctl) · 组织维护
+⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KyaniteHQ/linctl) · [官网](https://github.com/KyaniteHQ/linctl) · 组织维护
 
 **给 AI agent 用的 Linear CLI：写入仅限仓库内钉定的团队**
 

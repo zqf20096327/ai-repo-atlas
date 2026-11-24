@@ -1,6 +1,6 @@
 # truffle-ai/dexto
 
-⭐ 661 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/truffle-ai/dexto) · [官网](https://dexto.ai) · 组织维护
+⭐ 661 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/truffle-ai/dexto) · [官网](https://dexto.ai) · 组织维护
 
 **开发者用 YAML 编排 LLM agent 的 harness 与 CLI/SDK 工具包**
 

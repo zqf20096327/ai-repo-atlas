@@ -1,6 +1,6 @@
 # marcreichel/laya-router
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/marcreichel/laya-router) · [官网](https://www.youtube.com/watch?v=9XJRytvBujM) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Claude Code 会话按首条提示自动路由 Anthropic 模型的插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # bcorfman/freytag-forge
 
-⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bcorfman/freytag-forge) · [官网](https://bcorfman.github.io/freytag-forge/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bcorfman/freytag-forge) · [官网](https://bcorfman.github.io/freytag-forge/) · 个人维护
 
 **基于 LLM 叙事与事实校验世界模型的自由文字冒险引擎**
 

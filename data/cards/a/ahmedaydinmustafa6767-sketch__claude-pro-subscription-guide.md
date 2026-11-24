@@ -1,6 +1,6 @@
 # ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide
 
-⭐ 75 · 推送 2026-11-02 · [GitHub](https://github.com/ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 92 · 推送 2026-11-02 · [GitHub](https://github.com/ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **教用户用 CoreGold 虚拟卡订阅 Claude Pro 的推广指南**
 

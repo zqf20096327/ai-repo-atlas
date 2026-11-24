@@ -1,6 +1,6 @@
 # muellerberndt/mini-agi
 
-⭐ 2,930 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/muellerberndt/mini-agi) · 个人维护
+⭐ 2,929 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/muellerberndt/mini-agi) · 个人维护
 
 **基于 OpenAI API 的极简通用自主 agent**
 

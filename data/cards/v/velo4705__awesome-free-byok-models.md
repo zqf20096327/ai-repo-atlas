@@ -1,6 +1,6 @@
 # velo4705/awesome-free-byok-models
 
-⭐ 88 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/velo4705/awesome-free-byok-models) · 个人维护
+⭐ 91 · Python · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/velo4705/awesome-free-byok-models) · 个人维护
 
 **免信用卡 LLM 免费 API 层的策展清单：39 家供应商与模型额度**
 

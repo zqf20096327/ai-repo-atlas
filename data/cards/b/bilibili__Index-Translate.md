@@ -1,6 +1,6 @@
 # bilibili/Index-Translate
 
-⭐ 2,135 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bilibili/Index-Translate) · [官网](https://index-translate.bilibili.com) · 组织维护 · 中文 README
+⭐ 2,145 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/bilibili/Index-Translate) · [官网](https://index-translate.bilibili.com) · 组织维护 · 中文 README
 
 **B 站发布的多语言多模态翻译模型家族，含免费 API**
 

@@ -1,6 +1,6 @@
 # seungmanchoi/react-native-fsd-agent-template
 
-⭐ 52 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/seungmanchoi/react-native-fsd-agent-template) · 个人维护 · 中文 README
+⭐ 52 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/seungmanchoi/react-native-fsd-agent-template) · 个人维护 · 中文 README
 
 **React Native + Expo 项目模板：内置 FSD 架构与 10 个 Claude Code agent**
 

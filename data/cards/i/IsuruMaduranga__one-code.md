@@ -1,6 +1,6 @@
 # IsuruMaduranga/one-code
 
-⭐ 81 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/IsuruMaduranga/one-code) · 个人维护
+⭐ 81 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/IsuruMaduranga/one-code) · 个人维护
 
 **模型槽开放的 Claude Code 式开源编码 agent**
 

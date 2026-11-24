@@ -1,6 +1,6 @@
 # beizilaoshi/Cupbox
 
-⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/beizilaoshi/Cupbox) · [官网](https://afdian.com/a/beilaishi) · 组织维护 · 中文 README
+⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/beizilaoshi/Cupbox) · [官网](https://afdian.com/a/beilaishi) · 组织维护 · 中文 README
 
 **给开发者和 AI 智能体的本地杂活工具箱（CLI+MCP+桌面版）**
 

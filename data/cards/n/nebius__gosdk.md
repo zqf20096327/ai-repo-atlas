@@ -1,6 +1,6 @@
 # nebius/gosdk
 
-⭐ 17 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nebius/gosdk) · [官网](https://nebius.com) · 组织维护
+⭐ 17 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nebius/gosdk) · [官网](https://nebius.com) · 组织维护
 
 **Nebius AI Cloud 的 Go 客户端 SDK：管理云资源与鉴权**
 

@@ -1,6 +1,6 @@
 # CodeAgentMobile/codeagent-mobile-clients
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/CodeAgentMobile/codeagent-mobile-clients) · [官网](https://www.codeagent-mobile.com) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CodeAgentMobile/codeagent-mobile-clients) · [官网](https://www.codeagent-mobile.com) · 个人维护
 
 **让开发者在手机上远程监督 IDE 中 AI 编码 agent 的客户端桥**
 

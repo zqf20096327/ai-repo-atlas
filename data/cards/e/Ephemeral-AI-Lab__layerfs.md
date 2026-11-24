@@ -1,6 +1,6 @@
 # Ephemeral-AI-Lab/layerfs
 
-⭐ 2,851 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) · [官网](https://layerfs.ai/) · 组织维护
+⭐ 2,852 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Ephemeral-AI-Lab/layerfs) · [官网](https://layerfs.ai/) · 组织维护
 
 **为 agent 提供可写工作区与共享提交历史的 FUSE 文件系统**
 

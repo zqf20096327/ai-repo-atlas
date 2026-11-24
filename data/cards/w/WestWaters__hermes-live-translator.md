@@ -1,6 +1,6 @@
 # WestWaters/hermes-live-translator
 
-⭐ 15 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/WestWaters/hermes-live-translator) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/WestWaters/hermes-live-translator) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 个人维护
 
 **本地运行的实时通话翻译器：双方各听母语、保留原声**
 

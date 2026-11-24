@@ -1,6 +1,6 @@
 # ntygod/ZhiWei
 
-⭐ 138 · Java · MIT · 推送 2026-08-11 · [GitHub](https://github.com/ntygod/ZhiWei) · 个人维护 · 中文 README
+⭐ 137 · Java · MIT · 推送 2026-08-11 · [GitHub](https://github.com/ntygod/ZhiWei) · 个人维护 · 中文 README
 
 **本地优先的自托管个人 AI Agent 助手，带记忆与自主任务**
 

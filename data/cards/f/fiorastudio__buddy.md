@@ -1,6 +1,6 @@
 # fiorastudio/buddy
 
-⭐ 120 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fiorastudio/buddy) · 组织维护
+⭐ 120 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fiorastudio/buddy) · 组织维护
 
 **给 AI 编程 CLI 养的 MCP 虚拟宠物伴侣，含推理审查与代码反馈**
 

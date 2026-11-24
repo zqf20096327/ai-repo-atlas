@@ -1,6 +1,6 @@
 # dstackai/dstack
 
-⭐ 2,319 · Python · MPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dstackai/dstack) · [官网](https://dstack.ai/docs) · 组织维护
+⭐ 2,321 · Python · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dstackai/dstack) · [官网](https://dstack.ai/docs) · 组织维护
 
 **为团队统一编排 GPU 云、K8s 与本地集群的训练推理算力**
 

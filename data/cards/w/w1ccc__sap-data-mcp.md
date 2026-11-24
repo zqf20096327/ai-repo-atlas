@@ -1,6 +1,6 @@
 # w1ccc/sap-data-mcp
 
-⭐ 24 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/w1ccc/sap-data-mcp) · 个人维护 · 中文 README
+⭐ 92 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/w1ccc/sap-data-mcp) · 个人维护 · 中文 README
 
 **给 AI 助手开只读账号查 SAP S/4HANA 的 MCP 服务**
 

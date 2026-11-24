@@ -1,6 +1,6 @@
 # w1251788888-web/moxi-drama-studio
 
-⭐ 31 · JavaScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/w1251788888-web/moxi-drama-studio) · 个人维护 · 中文 README
+⭐ 32 · JavaScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/w1251788888-web/moxi-drama-studio) · 个人维护 · 中文 README
 
 **给短剧编剧的本地创作工作台：一句话故事到可导出剧本**
 

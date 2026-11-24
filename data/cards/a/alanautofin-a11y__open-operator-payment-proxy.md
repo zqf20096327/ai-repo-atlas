@@ -1,6 +1,6 @@
 # alanautofin-a11y/open-operator-payment-proxy
 
-⭐ 78 · 推送 2026-11-02 · [GitHub](https://github.com/alanautofin-a11y/open-operator-payment-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 94 · 推送 2026-11-02 · [GitHub](https://github.com/alanautofin-a11y/open-operator-payment-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向 AI Agent 支付场景的 CoreGold 虚拟卡介绍文档**
 

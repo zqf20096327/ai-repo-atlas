@@ -1,6 +1,6 @@
 # agentid-im/agent-redpackets
 
-⭐ 4 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/agentid-im/agent-redpackets) · [官网](https://www.agentid.im) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/agentid-im/agent-redpackets) · [官网](https://www.agentid.im) · 个人维护 · 中文 README
 
 **BNB Chain 上仅限 Agent ID 持有者领取并由其 AI 代理执行的红包合约**
 

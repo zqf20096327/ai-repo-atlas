@@ -1,6 +1,6 @@
 # salesforce/OmniXAI
 
-⭐ 975 · Jupyter Notebook · BSD-3-Clause · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/OmniXAI) · 组织维护
+⭐ 976 · Jupyter Notebook · BSD-3-Clause · 推送 2026-06-02 · [GitHub](https://github.com/salesforce/OmniXAI) · 组织维护
 
 **面向数据科学家的机器学习可解释性（XAI）Python 库**
 

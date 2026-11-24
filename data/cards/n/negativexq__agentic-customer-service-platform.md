@@ -1,6 +1,6 @@
 # negativexq/agentic-customer-service-platform
 
-⭐ 12 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/negativexq/agentic-customer-service-platform) · [官网](https://omerfkoc.dev) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/negativexq/agentic-customer-service-platform) · [官网](https://omerfkoc.dev/projects/agentic-customer-service-platform) · 个人维护
 
 **生产导向的客服 AI agent 控制平面：LLM 提议、确定性软件裁决执行**
 

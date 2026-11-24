@@ -1,6 +1,6 @@
 # BryanBradfo/ai-residency-programs
 
-⭐ 35 · 推送 2026-01-20 · [GitHub](https://github.com/BryanBradfo/ai-residency-programs) · 个人维护
+⭐ 36 · 推送 2026-01-20 · [GitHub](https://github.com/BryanBradfo/ai-residency-programs) · 个人维护
 
 **AI 研究驻留/实习/奖学金项目清单，供求职者按年份查机会**
 

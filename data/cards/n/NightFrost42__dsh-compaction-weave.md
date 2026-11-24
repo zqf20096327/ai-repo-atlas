@@ -1,6 +1,6 @@
 # NightFrost42/dsh-compaction-weave
 
-⭐ 56 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NightFrost42/dsh-compaction-weave) · [官网](https://www.npmjs.com/package/dsh-compaction-weave)
+⭐ 63 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NightFrost42/dsh-compaction-weave) · [官网](https://www.npmjs.com/package/dsh-compaction-weave)
 
 **DeepSeek Harness 长对话上下文压缩插件：保留要求与进度**
 

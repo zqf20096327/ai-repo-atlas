@@ -1,10 +1,10 @@
 # qualcomm/aimet
 
-⭐ 2,748 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/qualcomm/aimet) · [官网](https://quic.github.io/aimet-pages/index.html) · 组织维护
+⭐ 2,749 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/qualcomm/aimet) · [官网](https://qualcomm.github.io/aimet-pages/releases/latest/index.html) · 组织维护
 
-**面向已训练 ML 模型的量化与压缩工具库**
+**给开发者量化压缩已训练神经网络的模型优化工具库**
 
-由 Qualcomm Innovation Center 维护的模型效率工具包：对训练好的深度学习模型做训练后量化（PTQ，含 AdaRound、SeqMSE、Cross Layer Equalization 等技术）、量化感知训练（QAT，仅 aimet-torch）与模型压缩（Spatial SVD、通道剪枝），以减小模型体积与推理算力，便于部署到手机等边缘设备。支持 ONNX 与 PyTorch 框架的模型，提供可在 PyTorch 管线中直接调用的 API；以 aimet-onnx 与 aimet-torch 包发布在 PyPI，也可在 Docker 环境从源码构建。
+Qualcomm Innovation Center 维护的模型量化与压缩工具库：对已训练的 PyTorch/ONNX 模型做训练后量化（Calibration、AdaRound、SeqMSE、OmniQuant、SpinQuant 等）、量化感知训练（QAT）以及空间 SVD 与通道剪枝等压缩，目标是降低内存占用与计算量、便于在手机/笔记本等边缘设备部署，并以 API 形式嵌入 PyTorch 流水线；README 给出 MobileNet-v2、ResNet-50、DeepLabv3、DeepSpeech2 等模型的量化前后精度数据。aimet-onnx 与 aimet-torch 通过 PyPI 分发，也可从源码构建。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- PTQ 技术覆盖 Calibration、AdaRound、SeqMSE、SpinQuant 等多种方法
-- QAT 仅在 aimet-torch 中支持，兼容循环模型（RNN/LSTM/GRU）
-- Spatial SVD 与通道剪枝实现约 50% MAC 压缩并保持精度
-- 支持 ONNX 与 PyTorch 模型，提供 PyPI 包
+- 支持 ONNX 与 PyTorch 模型的训练后量化（PTQ）与量化感知训练（QAT）
+- 提供空间 SVD、通道剪枝与逐层压缩率自动选择等压缩技术
+- 支持 RNN/LSTM/GRU 等循环模型的量化仿真与 QAT
+- aimet-onnx 与 aimet-torch 包可在 PyPI 获取
 
 ## 适用场景
 
-- 把 FP32 模型量化为 INT8/INT4 以便部署到边缘设备
-- 压缩模型降低推理时的计算量与内存占用
-- 在 PyTorch 管线中直接调用量化 API 自动优化模型
+- 把 32 位浮点模型量化为 8 位定点模型用于边缘设备部署
+- 在压缩模型时把精度损失控制在可接受范围内
+- 在 PyTorch 训练流水线中调用量化感知训练 API
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L5: AIMET is a software toolkit for quantizing trained ML models.
 > L11: AIMET supports models from the ONNX and PyTorch frameworks.
+> L23: * **Advanced quantization techniques**: Inference using integer runtimes is significantly faster than using floatin
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d4f320c0d16a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `606f54f0ddfe` · [字段定义](../../DATASET.md)*

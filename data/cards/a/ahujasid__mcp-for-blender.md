@@ -1,6 +1,6 @@
 # ahujasid/mcp-for-blender
 
-⭐ 35,370 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ahujasid/mcp-for-blender) · [官网](https://www.mcp-for-blender.com/) · 个人维护
+⭐ 35,528 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ahujasid/mcp-for-blender) · [官网](https://www.mcp-for-blender.com/) · 个人维护
 
 **让 AI 客户端经 MCP 控制 Blender 3D 建模与场景的插件**
 

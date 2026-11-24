@@ -1,6 +1,6 @@
 # HugoRCD/nuxt-ui-chat
 
-⭐ 112 · Vue · 推送 2026-11-21 · [GitHub](https://github.com/HugoRCD/nuxt-ui-chat) · [官网](https://nuxt-ui-chat.hrcd.fr) · 个人维护
+⭐ 112 · Vue · 推送 2026-11-23 · [GitHub](https://github.com/HugoRCD/nuxt-ui-chat) · [官网](https://nuxt-ui-chat.hrcd.fr) · 个人维护
 
 **基于 Nuxt 与 Vercel AI SDK 的流式多模型 AI 聊天应用**
 

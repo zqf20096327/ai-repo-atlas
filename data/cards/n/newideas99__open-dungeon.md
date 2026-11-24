@@ -1,6 +1,6 @@
 # newideas99/open-dungeon
 
-⭐ 241 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/newideas99/open-dungeon) · 个人维护
+⭐ 243 · TypeScript · MIT · 推送 2026-07-06 · [GitHub](https://github.com/newideas99/open-dungeon) · 个人维护
 
 **给互动小说玩家的全本地 AI 角色扮演写作应用**
 

@@ -1,6 +1,6 @@
 # seyedehsanhadi/sloptrim
 
-⭐ 429 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/seyedehsanhadi/sloptrim) · 个人维护
+⭐ 432 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/seyedehsanhadi/sloptrim) · 个人维护
 
 **本地 AI 写作痕迹检测插件：给 agent 保存的文本打分并要求修正**
 

@@ -1,6 +1,6 @@
 # nalamap/nalamap
 
-⭐ 20 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nalamap/nalamap) · [官网](http://www.nalamap.org/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nalamap/nalamap) · [官网](http://www.nalamap.org/) · 组织维护
 
 **用自然语言创建网络地图并分析地理空间数据的开源平台**
 

@@ -1,6 +1,6 @@
 # kts982/mcp-sap-gui
 
-⭐ 55 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kts982/mcp-sap-gui) · [官网](https://pypi.org/project/mcp-sap-gui/) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kts982/mcp-sap-gui) · [官网](https://pypi.org/project/mcp-sap-gui/) · 个人维护
 
 **让 AI 助手通过 MCP 操作 SAP GUI 的服务器**
 

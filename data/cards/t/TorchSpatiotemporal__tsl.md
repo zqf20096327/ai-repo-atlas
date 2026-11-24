@@ -1,6 +1,6 @@
 # TorchSpatiotemporal/tsl
 
-⭐ 394 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TorchSpatiotemporal/tsl) · [官网](https://torch-spatiotemporal.readthedocs.io/) · 组织维护
+⭐ 393 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TorchSpatiotemporal/tsl) · [官网](https://torch-spatiotemporal.readthedocs.io/) · 组织维护
 
 **面向研究的 PyTorch 时空（图神经网络）预测库**
 

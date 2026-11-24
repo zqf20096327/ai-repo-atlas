@@ -1,6 +1,6 @@
 # hanzhcn/laohan-skills
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hanzhcn/laohan-skills) · [官网](https://github.com/hanzhcn/laohan-skills/releases) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hanzhcn/laohan-skills) · [官网](https://github.com/hanzhcn/laohan-skills/releases) · 个人维护 · 中文 README
 
 **内容创作者的 Agent 技能包：22+ 技能覆盖选题到发布全流程**
 

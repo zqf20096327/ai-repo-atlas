@@ -1,6 +1,6 @@
 # yan-mc/dsh-normify
 
-⭐ 132 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/yan-mc/dsh-normify) · 个人维护 · 中文 README
+⭐ 134 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/yan-mc/dsh-normify) · 个人维护 · 中文 README
 
 **DSH 插件：让 AI 把项目建成可校验的分形模块树并渲染架构图**
 

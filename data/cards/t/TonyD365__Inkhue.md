@@ -1,6 +1,6 @@
 # TonyD365/Inkhue
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/TonyD365/Inkhue) · [官网](https://tonyd365.github.io/Inkhue/) · 个人维护 · 中文 README
+⭐ 3 · Python · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/TonyD365/Inkhue) · [官网](https://tonyd365.github.io/Inkhue/) · 个人维护 · 中文 README
 
 **黑白打印纸内嵌颜色信息，扫描后还原彩色照片**
 

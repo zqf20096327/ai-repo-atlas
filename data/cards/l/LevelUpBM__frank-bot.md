@@ -1,6 +1,6 @@
 # LevelUpBM/frank-bot
 
-⭐ 19 · Python · 推送 2026-03-30 · [GitHub](https://github.com/LevelUpBM/frank-bot) · [官网](https://frankbot.lvlup.au/) · 组织维护
+⭐ 20 · Python · 推送 2026-03-30 · [GitHub](https://github.com/LevelUpBM/frank-bot) · [官网](https://frankbot.lvlup.au/) · 组织维护
 
 **面向企业文档问答的自托管 RAG 聊天机器人平台**
 

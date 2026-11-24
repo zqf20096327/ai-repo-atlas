@@ -1,6 +1,6 @@
 # LLAMATOR-Core/llamator
 
-⭐ 230 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/LLAMATOR-Core/llamator) · [官网](https://llamator-core.github.io/llamator/) · 组织维护
+⭐ 231 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/LLAMATOR-Core/llamator) · [官网](https://llamator-core.github.io/llamator/) · 组织维护
 
 **测试聊天机器人与生成式 AI 系统的红队 Python 框架**
 

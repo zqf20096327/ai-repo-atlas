@@ -1,6 +1,6 @@
 # rferrari/boar-app
 
-⭐ 45 · C · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rferrari/boar-app) · [官网](https://boarapp.com) · 个人维护
+⭐ 45 · C · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rferrari/boar-app) · [官网](https://boarapp.com) · 个人维护
 
 **离线运行的 Android 本地 AI 研究问答助手，答案带出处**
 

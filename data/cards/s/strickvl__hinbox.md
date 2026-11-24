@@ -1,6 +1,6 @@
 # strickvl/hinbox
 
-⭐ 18 · Python · 推送 2026-11-22 · [GitHub](https://github.com/strickvl/hinbox) · 个人维护
+⭐ 18 · Python · 推送 2026-11-23 · [GitHub](https://github.com/strickvl/hinbox) · 个人维护
 
 **面向历史学者的领域可配置实体抽取系统**
 

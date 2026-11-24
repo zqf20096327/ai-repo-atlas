@@ -1,6 +1,6 @@
 # m3dev/gokart
 
-⭐ 343 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/m3dev/gokart) · [官网](https://gokart.readthedocs.io/en/latest/) · 组织维护
+⭐ 343 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/m3dev/gokart) · [官网](https://gokart.readthedocs.io/en/latest/) · 组织维护
 
 **基于 luigi 的 Python 机器学习流水线框架，解决可复现与任务依赖**
 

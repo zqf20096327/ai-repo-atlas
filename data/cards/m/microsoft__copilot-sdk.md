@@ -1,6 +1,6 @@
 # microsoft/copilot-sdk
 
-⭐ 10,702 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/copilot-sdk) · 组织维护
+⭐ 10,706 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/copilot-sdk) · 组织维护
 
 **在应用中以编程方式接入 Copilot agent 运行时的多语言 SDK**
 

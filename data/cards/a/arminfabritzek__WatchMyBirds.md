@@ -1,6 +1,6 @@
 # arminfabritzek/WatchMyBirds
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/arminfabritzek/WatchMyBirds) · 个人维护
+⭐ 29 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/arminfabritzek/WatchMyBirds) · 个人维护
 
 **从摄像头实时检测与分类鸟类的自托管监控应用**
 

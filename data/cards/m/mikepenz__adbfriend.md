@@ -1,6 +1,6 @@
 # mikepenz/adbfriend
 
-⭐ 77 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/mikepenz/adbfriend) · 个人维护
+⭐ 77 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mikepenz/adbfriend) · 个人维护
 
 **带 MCP Server 的 Android ADB 命令行管理工具**
 

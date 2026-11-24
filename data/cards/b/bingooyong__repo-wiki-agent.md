@@ -1,6 +1,6 @@
 # bingooyong/repo-wiki-agent
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/bingooyong/repo-wiki-agent) · 个人维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bingooyong/repo-wiki-agent) · 个人维护 · 中文 README
 
 **为任意代码仓库生成结构化 Wiki 文档的本地优先 Python CLI**
 

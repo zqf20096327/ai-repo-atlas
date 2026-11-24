@@ -1,6 +1,6 @@
 # xtdf0224-boop/firefly-harness
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/xtdf0224-boop/firefly-harness) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/xtdf0224-boop/firefly-harness) · 个人维护 · 中文 README
 
 **受流萤启发的 AI Agent 桌面工作台：给目标、看计划、确认执行**
 

@@ -1,6 +1,6 @@
 # ClickHouse/loom
 
-⭐ 191 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ClickHouse/loom) · [官网](https://clickhouse.github.io/loom/) · 组织维护
+⭐ 197 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ClickHouse/loom) · [官网](https://clickhouse.github.io/loom/) · 组织维护
 
 **自托管 MCP 服务器：为 AI agent 提供共享长期记忆、文档搜索与代码索引**
 

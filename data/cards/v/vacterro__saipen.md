@@ -1,6 +1,6 @@
 # vacterro/saipen
 
-⭐ 10 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/vacterro/saipen) · [官网](https://github.com/vacterro/saipen/blob/main/GUIDE.md) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vacterro/saipen) · [官网](https://github.com/vacterro/saipen/blob/main/GUIDE.md) · 个人维护
 
 **给 AI 编码 agent 的纯文件续接协议：冷启动恢复任务状态**
 

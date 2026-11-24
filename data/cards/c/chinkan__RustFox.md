@@ -1,6 +1,6 @@
 # chinkan/RustFox
 
-⭐ 13 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chinkan/RustFox) · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/chinkan/RustFox) · 个人维护
 
 **自托管的 Telegram AI 助手：Rust 单二进制，带沙箱工具与记忆**
 

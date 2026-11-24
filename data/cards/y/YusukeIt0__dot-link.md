@@ -1,6 +1,6 @@
 # YusukeIt0/dot-link
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YusukeIt0/dot-link) · [官网](https://yusukeit0.github.io/dot-link/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 ChatGPT Dot 接入 Even G2 智能眼镜的 Mac 中继应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

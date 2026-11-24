@@ -1,6 +1,6 @@
 # kursatdinc/agent-mem-vault
 
-⭐ 6 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kursatdinc/agent-mem-vault) · [官网](https://pypi.org/project/agent-mem-vault/) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kursatdinc/agent-mem-vault) · [官网](https://pypi.org/project/agent-mem-vault/) · 个人维护
 
 **为编码 agent 提供共享长期记忆的 MCP 服务器，存为 Obsidian vault**
 

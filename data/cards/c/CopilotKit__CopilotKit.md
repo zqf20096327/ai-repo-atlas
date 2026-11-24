@@ -1,6 +1,6 @@
 # CopilotKit/CopilotKit
 
-⭐ 38,885 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CopilotKit/CopilotKit) · [官网](https://docs.copilotkit.ai) · 组织维护
+⭐ 38,916 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CopilotKit/CopilotKit) · [官网](https://docs.copilotkit.ai) · 组织维护
 
 **给 AI Agent 加前端界面的开源 React/Angular 等框架**
 

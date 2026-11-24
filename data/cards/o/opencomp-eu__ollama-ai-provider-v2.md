@@ -1,6 +1,6 @@
 # opencomp-eu/ollama-ai-provider-v2
 
-⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/opencomp-eu/ollama-ai-provider-v2) · [官网](https://www.npmjs.com/package/ollama-ai-provider-v2) · 个人维护
+⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/opencomp-eu/ollama-ai-provider-v2) · [官网](https://www.npmjs.com/package/ollama-ai-provider-v2) · 个人维护
 
 **让 Vercel AI SDK 通过本地 Ollama 运行 LLM 的 TypeScript Provider**
 

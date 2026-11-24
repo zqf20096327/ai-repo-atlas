@@ -1,6 +1,6 @@
 # jernejk/talk-deck-template
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jernejk/talk-deck-template) · [官网](https://talk-deck-template.surge.sh) · 个人维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jernejk/talk-deck-template) · [官网](https://talk-deck-template.surge.sh) · 个人维护
 
 **给演讲者的 AI-first HTML 幻灯片模板，由编码代理生成**
 

@@ -1,6 +1,6 @@
 # HarnessRouter/harnessrouter
 
-⭐ 4,407 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/HarnessRouter/harnessrouter) · [官网](https://harnessrouter.ai/) · 组织维护
+⭐ 4,472 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/HarnessRouter/harnessrouter) · [官网](https://harnessrouter.ai/) · 组织维护
 
 **为构建 agent 产品的开发者提供统一的 agent harness 接入 API**
 

@@ -1,6 +1,6 @@
 # mozilla-ai/otari
 
-⭐ 960 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mozilla-ai/otari) · [官网](https://otari.ai/) · 组织维护 · 中文 README
+⭐ 962 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/mozilla-ai/otari) · [官网](https://otari.ai/) · 组织维护 · 中文 README
 
 **自托管 AI 网关：统一端点接 40+ 模型服务商，管理密钥与预算**
 

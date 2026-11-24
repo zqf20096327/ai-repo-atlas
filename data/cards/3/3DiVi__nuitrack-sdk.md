@@ -1,6 +1,6 @@
 # 3DiVi/nuitrack-sdk
 
-⭐ 563 · C++ · 推送 2026-08-09 · [GitHub](https://github.com/3DiVi/nuitrack-sdk) · [官网](https://nuitrack.com) · 组织维护
+⭐ 564 · C++ · 推送 2026-08-09 · [GitHub](https://github.com/3DiVi/nuitrack-sdk) · [官网](https://nuitrack.com) · 组织维护
 
 **面向深度相机的 3D 骨骼/人体追踪 SDK，供开发者做动作应用**
 

@@ -1,6 +1,6 @@
 # thebozturk/yokla
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/thebozturk/yokla) · [官网](https://www.npmjs.com/package/yokla) · 个人维护
+⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/thebozturk/yokla) · [官网](https://www.npmjs.com/package/yokla) · 个人维护
 
 **对话式 AI 助手的端到端测试 CLI：确定性校验回答质量与安全**
 

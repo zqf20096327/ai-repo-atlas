@@ -1,6 +1,6 @@
 # LING71671/open-reverselab
 
-⭐ 1,386 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/LING71671/open-reverselab) · [官网](https://ling71671.github.io/open-reverselab/) · 个人维护 · 中文 README
+⭐ 1,388 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/LING71671/open-reverselab) · [官网](https://ling71671.github.io/open-reverselab/) · 个人维护 · 中文 README
 
 **给逆向工程人员的 AI 工作区桌面应用**
 

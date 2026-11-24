@@ -1,6 +1,6 @@
 # 1broseidon/hotline
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/1broseidon/hotline) · [官网](https://hotline.dev) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/1broseidon/hotline) · [官网](https://hotline.dev) · 个人维护
 
 **自托管的多 AI agent 协作房间，桌面端+手机端**
 

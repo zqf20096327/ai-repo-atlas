@@ -1,6 +1,6 @@
 # xero00000/expert-streaming-engine
 
-⭐ 21 · C++ · MIT · 推送 2026-11-16 · [GitHub](https://github.com/xero00000/expert-streaming-engine) · [官网](https://github.com/xero00000/expert-streaming-engine/releases/latest) · 个人维护
+⭐ 21 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xero00000/expert-streaming-engine) · [官网](https://github.com/xero00000/expert-streaming-engine/releases/latest) · 个人维护
 
 **桌面本地 LLM 运行引擎：跨 SSD/RAM/GPU 运行 MoE 大模型**
 

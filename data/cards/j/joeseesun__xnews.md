@@ -1,6 +1,6 @@
 # joeseesun/xnews
 
-⭐ 142 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/joeseesun/xnews) · [官网](https://xnews.qiaomu.ai) · 个人维护 · 中文 README
+⭐ 142 · HTML · 推送 2026-11-24 · [GitHub](https://github.com/joeseesun/xnews) · [官网](https://xnews.qiaomu.ai) · 个人维护 · 中文 README
 
 **将海外创始人帖文与 AI 视频改写为中文的内容站点**
 

@@ -1,6 +1,6 @@
 # stacksjs/stacks
 
-⭐ 637 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/stacksjs/stacks) · [官网](https://stacksjs.com) · 组织维护
+⭐ 637 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/stacksjs/stacks) · [官网](https://stacksjs.com) · 组织维护
 
 **给全栈开发者的快速应用/库/云开发框架**
 

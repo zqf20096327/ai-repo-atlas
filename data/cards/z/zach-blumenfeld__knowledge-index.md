@@ -1,6 +1,6 @@
 # zach-blumenfeld/knowledge-index
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/zach-blumenfeld/knowledge-index) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-08-25 · [GitHub](https://github.com/zach-blumenfeld/knowledge-index) · 个人维护
 
 **Markdown 知识库的图索引搜索引擎，供 CLI 与 AI agent 检索**
 

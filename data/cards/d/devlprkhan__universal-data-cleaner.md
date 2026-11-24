@@ -1,6 +1,6 @@
 # devlprkhan/universal-data-cleaner
 
-⭐ 4 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/devlprkhan/universal-data-cleaner) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/devlprkhan/universal-data-cleaner) · 个人维护
 
 **面向 pandas 表格数据的生产级 scikit-learn 兼容清洗转换器**
 

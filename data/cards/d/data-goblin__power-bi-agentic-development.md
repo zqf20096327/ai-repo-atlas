@@ -1,6 +1,6 @@
 # data-goblin/power-bi-agentic-development
 
-⭐ 1,107 · C# · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/data-goblin/power-bi-agentic-development) · [官网](https://data-goblins.com) · 个人维护
+⭐ 1,110 · C# · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/data-goblin/power-bi-agentic-development) · [官网](https://data-goblins.com) · 个人维护
 
 **给 Claude Code/Copilot 装 Power BI 技能的插件市场**
 

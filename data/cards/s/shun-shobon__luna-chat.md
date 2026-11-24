@@ -1,6 +1,6 @@
 # shun-shobon/luna-chat
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shun-shobon/luna-chat) · 个人维护 · 中文 README
+⭐ 33 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/shun-shobon/luna-chat) · 个人维护 · 中文 README
 
 **常驻 Discord 的自律型个人 AI 代理，支持对话、记忆与定时执行**
 

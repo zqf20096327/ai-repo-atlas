@@ -1,6 +1,6 @@
 # Baobababab/ai-benchmark-check
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Baobababab/ai-benchmark-check) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Baobababab/ai-benchmark-check) · 个人维护
 
 **基于公开榜单与价格推荐性价比 AI 模型的命令行工具**
 

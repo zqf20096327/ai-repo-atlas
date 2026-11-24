@@ -1,6 +1,6 @@
 # jkawamoto/ctranslate2-rs
 
-⭐ 64 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jkawamoto/ctranslate2-rs) · [官网](https://docs.rs/ct2rs) · 个人维护
+⭐ 64 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jkawamoto/ctranslate2-rs) · [官网](https://docs.rs/ct2rs) · 个人维护
 
 **CTranslate2 的 Rust 绑定库：在 Rust 中运行推理**
 

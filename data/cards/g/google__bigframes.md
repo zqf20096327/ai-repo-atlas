@@ -1,6 +1,6 @@
 # google/bigframes
 
-⭐ 299 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/google/bigframes) · [官网](https://dataframes.bigquery.dev/) · 组织维护
+⭐ 299 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/google/bigframes) · [官网](https://dataframes.bigquery.dev/) · 组织维护
 
 **给数据分析师/科学家：用 pandas 风格 API 在 BigQuery 上做大规模分析与 ML**
 

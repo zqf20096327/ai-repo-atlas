@@ -1,6 +1,6 @@
 # ExaDev/agent-comms
 
-⭐ 40 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ExaDev/agent-comms) · [官网](https://www.npmjs.com/package/agent-comms) · 个人维护
+⭐ 40 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ExaDev/agent-comms) · [官网](https://www.npmjs.com/package/agent-comms) · 个人维护
 
 **跨 harness 的 LLM agent 通信网格：房间、私聊与在线状态**
 

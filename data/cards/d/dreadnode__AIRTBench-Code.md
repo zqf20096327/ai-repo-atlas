@@ -1,6 +1,6 @@
 # dreadnode/AIRTBench-Code
 
-⭐ 116 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/dreadnode/AIRTBench-Code) · [官网](https://arxiv.org/abs/2506.14682) · 组织维护
+⭐ 117 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/dreadnode/AIRTBench-Code) · [官网](https://arxiv.org/abs/2506.14682) · 组织维护
 
 **评测 LLM 自主红队攻防能力的 agent 与基准工具**
 

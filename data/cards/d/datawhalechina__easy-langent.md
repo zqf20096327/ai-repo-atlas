@@ -1,6 +1,6 @@
 # datawhalechina/easy-langent
 
-⭐ 534 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/datawhalechina/easy-langent) · [官网](https://datawhalechina.github.io/easy-langent/) · 组织维护 · 中文 README
+⭐ 536 · Python · Apache-2.0 · 推送 2026-09-09 · [GitHub](https://github.com/datawhalechina/easy-langent) · [官网](https://datawhalechina.github.io/easy-langent/) · 组织维护 · 中文 README
 
 **LangChain/LangGraph 智能体开发中文学习教程**
 

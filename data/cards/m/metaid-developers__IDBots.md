@@ -1,6 +1,6 @@
 # metaid-developers/IDBots
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/metaid-developers/IDBots) · [官网](https://idbots.ai) · 组织维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/metaid-developers/IDBots) · [官网](https://idbots.ai) · 组织维护 · 中文 README
 
 **本地优先桌面应用：养育有链上身份的自主 AI 代理**
 

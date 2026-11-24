@@ -1,6 +1,6 @@
 # josephsteuerjr/praxis
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/josephsteuerjr/praxis) · [官网](https://github.com/josephsteuerjr/praxis/releases/latest) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/josephsteuerjr/praxis) · [官网](https://github.com/josephsteuerjr/praxis/releases/latest) · 个人维护
 
 **面向独立 agent 的桌面宿主：持久记忆、工具、Telegram 与可选本地语音**
 

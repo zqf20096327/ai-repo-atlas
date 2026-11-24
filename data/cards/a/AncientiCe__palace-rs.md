@@ -1,6 +1,6 @@
 # AncientiCe/palace-rs
 
-⭐ 14 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AncientiCe/palace-rs) · [官网](https://palacememory.com/) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AncientiCe/palace-rs) · [官网](https://palacememory.com/) · 个人维护
 
 **给编码 agent 提供本地跨会话记忆的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # creative-mode/kixi
 
-⭐ 13 · Java · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/creative-mode/kixi) · 组织维护
+⭐ 13 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/creative-mode/kixi) · 组织维护
 
 **安哥拉考试平台：试题管理、模拟考试、OCR 导入与 AI 导师**
 

@@ -1,6 +1,6 @@
 # milvus-io/talon
 
-⭐ 35 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/milvus-io/talon) · 组织维护
+⭐ 35 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/milvus-io/talon) · 组织维护
 
 **分布式 S3 对象存储缓存（Rust）：元数据不随数据增长**
 

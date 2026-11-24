@@ -1,6 +1,6 @@
 # woXrooX/x
 
-⭐ 17 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/woXrooX/x) · [官网](https://www.woXrooX.com/developer/tools/x) · 个人维护
+⭐ 17 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/woXrooX/x) · [官网](https://www.woXrooX.com/developer/tools/x) · 个人维护
 
 **加速 Web 应用创建初始阶段的开发工具**
 

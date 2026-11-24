@@ -1,6 +1,6 @@
 # andyvandaric/opencode-ag-auth
 
-⭐ 67 · TypeScript · MIT · 推送 2026-02-21 · [GitHub](https://github.com/andyvandaric/opencode-ag-auth) · [官网](https://www.npmjs.com/package/opencode-ag-auth) · 个人维护
+⭐ 68 · TypeScript · MIT · 推送 2026-02-21 · [GitHub](https://github.com/andyvandaric/opencode-ag-auth) · [官网](https://www.npmjs.com/package/opencode-ag-auth) · 个人维护
 
 **让 OpenCode 经 Google OAuth 接入 Antigravity 模型的认证插件**
 

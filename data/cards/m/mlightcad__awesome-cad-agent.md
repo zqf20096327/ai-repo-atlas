@@ -1,6 +1,6 @@
 # mlightcad/awesome-cad-agent
 
-⭐ 9 · 推送 2026-11-17 · [GitHub](https://github.com/mlightcad/awesome-cad-agent) · 组织维护
+⭐ 10 · 推送 2026-11-17 · [GitHub](https://github.com/mlightcad/awesome-cad-agent) · 组织维护
 
 **连接 CAD 与 AI agent 的开源项目策展清单**
 

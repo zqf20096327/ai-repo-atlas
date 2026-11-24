@@ -1,6 +1,6 @@
 # glincker/awesome-selfhosted-ai
 
-⭐ 134 · JavaScript · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/glincker/awesome-selfhosted-ai) · [官网](https://github.com/glincker/awesome-selfhosted-ai/blob/main/LIVE.md) · 个人维护
+⭐ 135 · JavaScript · CC0-1.0 · 推送 2026-11-11 · [GitHub](https://github.com/glincker/awesome-selfhosted-ai) · [官网](https://github.com/glincker/awesome-selfhosted-ai/blob/main/LIVE.md) · 个人维护
 
 **自托管开源 AI 项目策展清单（303 个，按周健康检查）**
 

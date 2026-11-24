@@ -1,6 +1,6 @@
 # Biohub/VisCy
 
-⭐ 109 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/Biohub/VisCy) · [官网](https://biohub.github.io/VisCy/) · 组织维护
+⭐ 109 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/Biohub/VisCy) · [官网](https://biohub.github.io/VisCy/) · 组织维护
 
 **显微镜图像单细胞表型的计算机视觉模型训练部署管线**
 

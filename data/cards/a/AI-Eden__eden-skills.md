@@ -1,6 +1,6 @@
 # AI-Eden/eden-skills
 
-⭐ 28 · Rust · MIT · 推送 2026-04-15 · [GitHub](https://github.com/AI-Eden/eden-skills) · 组织维护
+⭐ 29 · Rust · MIT · 推送 2026-04-15 · [GitHub](https://github.com/AI-Eden/eden-skills) · 组织维护
 
 **AI agent 技能管理 CLI：确定性安装与自愈修复**
 

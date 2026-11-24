@@ -1,6 +1,6 @@
 # ConcordDev/concord-cognitive-engine
 
-⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ConcordDev/concord-cognitive-engine) · [官网](https://concord-os.org) · 个人维护
+⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ConcordDev/concord-cognitive-engine) · [官网](https://concord-os.org) · 个人维护
 
 **给工程师的可验证计算引擎：AI 问答附求解器凭据与手算校核**
 

@@ -1,6 +1,6 @@
 # zhongkaifu/TensorSharp
 
-⭐ 681 · C# · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/zhongkaifu/TensorSharp) · [官网](https://tensorsharp.ai) · 个人维护 · 中文 README
+⭐ 682 · C# · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/zhongkaifu/TensorSharp) · [官网](https://tensorsharp.ai) · 个人维护 · 中文 README
 
 **.NET 本地 GGUF 推理引擎，提供 CLI/网页/API 多种接入**
 

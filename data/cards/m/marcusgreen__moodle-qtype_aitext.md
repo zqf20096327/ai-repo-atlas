@@ -1,6 +1,6 @@
 # marcusgreen/moodle-qtype_aitext
 
-⭐ 33 · PHP · 推送 2026-11-16 · [GitHub](https://github.com/marcusgreen/moodle-qtype_aitext) · [官网](https://moodle.org/plugins/qtype_aitext) · 个人维护
+⭐ 33 · PHP · 推送 2026-11-23 · [GitHub](https://github.com/marcusgreen/moodle-qtype_aitext) · [官网](https://moodle.org/plugins/qtype_aitext) · 个人维护
 
 **Moodle 题型插件：用远程 LLM 批改自由文本答案**
 

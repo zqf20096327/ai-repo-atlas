@@ -1,6 +1,6 @@
 # qwersyk/Newelle
 
-⭐ 1,506 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/qwersyk/Newelle) · [官网](https://newelle.qsk.me) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **GNOME 桌面上的虚拟助手应用，本地/多模型对话与文件管理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

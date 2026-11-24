@@ -1,6 +1,6 @@
 # Layfate/StyleDNA
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Layfate/StyleDNA) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Layfate/StyleDNA) · 个人维护
 
 **把参考图分析为可复用 AI 风格技能的本地桌面应用**
 

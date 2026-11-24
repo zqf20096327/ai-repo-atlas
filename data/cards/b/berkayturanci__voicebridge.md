@@ -1,6 +1,6 @@
 # berkayturanci/voicebridge
 
-⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/berkayturanci/voicebridge) · [官网](https://berkayturanci.github.io/voicebridge/) · 个人维护
+⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/berkayturanci/voicebridge) · [官网](https://berkayturanci.github.io/voicebridge/) · 个人维护
 
 **手机语音双向操控本地编程 agent 的自托管桥接应用**
 

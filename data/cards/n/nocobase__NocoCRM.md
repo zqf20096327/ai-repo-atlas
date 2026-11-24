@@ -1,6 +1,6 @@
 # nocobase/NocoCRM
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/nocobase/NocoCRM) · [官网](https://www.nocobase.com/solution-crm) · 组织维护 · 中文 README
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/nocobase/NocoCRM) · [官网](https://www.nocobase.com/solution-crm) · 组织维护 · 中文 README
 
 **基于 NocoBase 的开源 B2B 销售 CRM，内置 6 个销售 Agent**
 

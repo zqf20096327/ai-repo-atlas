@@ -1,6 +1,6 @@
 # sh6drack/zen-mcp
 
-⭐ 28 · JavaScript · 推送 2026-05-16 · [GitHub](https://github.com/sh6drack/zen-mcp) · 个人维护
+⭐ 29 · JavaScript · 推送 2026-05-16 · [GitHub](https://github.com/sh6drack/zen-mcp) · 个人维护
 
 **面向 Zen Browser 的 MCP 服务器：让 AI 客户端自动化浏览器**
 

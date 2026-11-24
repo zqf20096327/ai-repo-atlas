@@ -1,6 +1,6 @@
 # KrasimirKralev/harvest-hollow
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/KrasimirKralev/harvest-hollow) · [官网](https://krasimirkralev.github.io/harvest-hollow/) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/KrasimirKralev/harvest-hollow) · [官网](https://krasimirkralev.github.io/harvest-hollow/) · 个人维护
 
 **双人合作的浏览器 3D 农场游戏，附 AI 愿望改模助手**
 

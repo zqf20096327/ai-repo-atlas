@@ -1,6 +1,6 @@
 # sahinmola5-rgb/coregold-vcc-terminal
 
-⭐ 88 · 推送 2026-10-31 · [GitHub](https://github.com/sahinmola5-rgb/coregold-vcc-terminal) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 94 · 推送 2026-10-31 · [GitHub](https://github.com/sahinmola5-rgb/coregold-vcc-terminal) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **海外软件/AI 订阅用的虚拟信用卡开卡服务推广页**
 

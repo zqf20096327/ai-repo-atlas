@@ -1,6 +1,6 @@
 # browser-use/sdk
 
-⭐ 29 · Python · 推送 2026-11-21 · [GitHub](https://github.com/browser-use/sdk) · [官网](https://docs.cloud.browser-use.com) · 组织维护
+⭐ 29 · Python · 推送 2026-11-24 · [GitHub](https://github.com/browser-use/sdk) · [官网](https://docs.cloud.browser-use.com) · 组织维护
 
 **Browser Use Cloud 官方多语言 SDK：接入云端浏览器代理与托管浏览器**
 

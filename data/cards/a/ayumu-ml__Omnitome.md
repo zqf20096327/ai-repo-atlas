@@ -1,6 +1,6 @@
 # ayumu-ml/Omnitome
 
-⭐ 32 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayumu-ml/Omnitome) · [官网](https://github.com/ayumu-ml/Omnitome/releases) · 个人维护
+⭐ 44 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayumu-ml/Omnitome) · [官网](https://github.com/ayumu-ml/Omnitome/releases) · 个人维护
 
 **本地优先 AI 阅读应用：有界语义压缩+逐句溯源**
 

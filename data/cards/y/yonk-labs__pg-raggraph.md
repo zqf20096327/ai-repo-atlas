@@ -1,6 +1,6 @@
 # yonk-labs/pg-raggraph
 
-⭐ 21 · HTML · MIT · 推送 2026-08-29 · [GitHub](https://github.com/yonk-labs/pg-raggraph) · 组织维护
+⭐ 22 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yonk-labs/pg-raggraph) · 组织维护
 
 **在纯 PostgreSQL 上实现 GraphRAG 的 Python 检索库与工具集**
 

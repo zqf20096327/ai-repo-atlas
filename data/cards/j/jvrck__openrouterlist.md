@@ -1,6 +1,6 @@
 # jvrck/openrouterlist
 
-⭐ 13 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jvrck/openrouterlist) · [官网](https://openrouterlist.jvrck.com) · 个人维护
+⭐ 13 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jvrck/openrouterlist) · [官网](https://openrouterlist.jvrck.com) · 个人维护
 
 **OpenRouter 模型价格与能力对比的静态站点（468 模型）**
 

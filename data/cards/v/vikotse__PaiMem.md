@@ -1,6 +1,6 @@
 # vikotse/PaiMem
 
-⭐ 4 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/vikotse/PaiMem) · 组织维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vikotse/PaiMem) · 组织维护 · 中文 README
 
 **为 LLM agent 提供可溯源长期记忆的检索服务**
 

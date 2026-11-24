@@ -1,6 +1,6 @@
 # oliver-zehentleitner/maity
 
-⭐ 63 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/oliver-zehentleitner/maity) · [官网](https://maity.dev) · 个人维护
+⭐ 63 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/oliver-zehentleitner/maity) · [官网](https://maity.dev) · 个人维护
 
 **让多个 AI 编码代理与人协作的协调中枢**
 

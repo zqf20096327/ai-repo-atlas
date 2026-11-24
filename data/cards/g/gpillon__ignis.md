@@ -1,6 +1,6 @@
 # gpillon/ignis
 
-⭐ 71 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/gpillon/ignis) · 个人维护
+⭐ 72 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/gpillon/ignis) · 个人维护
 
 **单卡 Blackwell GPU 上服务 Qwen3.8 与图像模型的 OpenAI 兼容推理服务器**
 

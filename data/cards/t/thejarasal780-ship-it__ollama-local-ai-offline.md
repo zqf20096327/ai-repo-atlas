@@ -1,6 +1,6 @@
 # thejarasal780-ship-it/ollama-local-ai-offline
 
-⭐ 148 · Python · 推送 2026-11-22 · [GitHub](https://github.com/thejarasal780-ship-it/ollama-local-ai-offline) · 个人维护
+⭐ 69 · Python · 推送 2026-11-23 · [GitHub](https://github.com/thejarasal780-ship-it/ollama-local-ai-offline) · 个人维护
 
 **面向工程与研究人员的本地离线 LLM 桌面客户端**
 

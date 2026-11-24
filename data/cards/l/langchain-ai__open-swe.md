@@ -1,6 +1,6 @@
 # langchain-ai/open-swe
 
-⭐ 11,251 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/open-swe) · [官网](https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents) · 组织维护
+⭐ 11,253 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/open-swe) · [官网](https://www.langchain.com/blog/open-swe-an-open-source-framework-for-internal-coding-agents) · 组织维护
 
 **给工程团队的开源异步编码 Agent：从 issue 到 PR**
 

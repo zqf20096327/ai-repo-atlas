@@ -1,6 +1,6 @@
 # leo-kuang-ai/spec-first
 
-⭐ 114 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/leo-kuang-ai/spec-first) · [官网](http://spec-first.cn/) · 个人维护 · 中文 README
+⭐ 115 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/leo-kuang-ai/spec-first) · [官网](http://spec-first.cn/) · 个人维护 · 中文 README
 
 **面向多种 AI coding 宿主的仓库原生工作流 Harness**
 

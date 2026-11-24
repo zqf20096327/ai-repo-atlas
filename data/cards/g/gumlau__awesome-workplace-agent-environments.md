@@ -1,6 +1,6 @@
 # gumlau/awesome-workplace-agent-environments
 
-⭐ 4 · Python · 推送 2026-10-08 · [GitHub](https://github.com/gumlau/awesome-workplace-agent-environments) · [官网](https://gumlau.github.io/awesome-workplace-agent-environments/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **职场 AI Agent 环境/基准/数据集策展清单**
 

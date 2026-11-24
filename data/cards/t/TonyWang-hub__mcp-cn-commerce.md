@@ -1,6 +1,6 @@
 # TonyWang-hub/mcp-cn-commerce
 
-⭐ 102 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/TonyWang-hub/mcp-cn-commerce) · [官网](https://github.com/TonyWang-hub/mcp-cn-commerce/releases) · 个人维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TonyWang-hub/mcp-cn-commerce) · [官网](https://github.com/TonyWang-hub/mcp-cn-commerce/releases) · 个人维护 · 中文 README
 
 **让 AI Agent 只读访问中国电商平台商家经营数据的 MCP Server 套件**
 

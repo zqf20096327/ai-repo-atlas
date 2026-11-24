@@ -1,6 +1,6 @@
 # Helldez/BigMoeOnEdge
 
-⭐ 1,085 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Helldez/BigMoeOnEdge) · 个人维护
+⭐ 1,100 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Helldez/BigMoeOnEdge) · 个人维护
 
 **让手机/笔记本运行超出内存的 MoE 大模型的流式推理引擎**
 

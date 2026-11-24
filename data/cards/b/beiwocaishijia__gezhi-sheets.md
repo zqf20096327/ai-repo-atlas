@@ -1,6 +1,6 @@
 # beiwocaishijia/gezhi-sheets
 
-⭐ 556 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/beiwocaishijia/gezhi-sheets) · 个人维护 · 中文 README
+⭐ 600 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/beiwocaishijia/gezhi-sheets) · 个人维护 · 中文 README
 
 **接入国产大模型的本地 AI 表格助手，用自然语言整理表格**
 

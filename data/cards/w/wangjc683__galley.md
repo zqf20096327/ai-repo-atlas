@@ -1,6 +1,6 @@
 # wangjc683/galley
 
-⭐ 73 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/wangjc683/galley) · 个人维护 · 中文 README
+⭐ 73 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wangjc683/galley) · 个人维护 · 中文 README
 
 **本地优先的桌面个人 AI 助理，操作终端、文件与浏览器完成任务**
 

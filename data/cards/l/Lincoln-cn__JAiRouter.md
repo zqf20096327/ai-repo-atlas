@@ -1,6 +1,6 @@
 # Lincoln-cn/JAiRouter
 
-⭐ 27 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Lincoln-cn/JAiRouter) · [官网](https://jairouter.com/) · 个人维护 · 中文 README
+⭐ 27 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Lincoln-cn/JAiRouter) · [官网](https://jairouter.com/) · 个人维护 · 中文 README
 
 **自托管 AI 模型网关：统一 OpenAI 兼容端点管理多后端**
 

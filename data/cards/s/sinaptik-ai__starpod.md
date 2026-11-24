@@ -1,6 +1,6 @@
 # sinaptik-ai/starpod
 
-⭐ 83 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/sinaptik-ai/starpod) · [官网](https://starpod.sh) · 组织维护
+⭐ 84 · Rust · MIT · 推送 2026-04-08 · [GitHub](https://github.com/sinaptik-ai/starpod) · [官网](https://starpod.sh) · 组织维护
 
 **Rust 编写的个人 AI agent 运行时，本地或云端部署**
 

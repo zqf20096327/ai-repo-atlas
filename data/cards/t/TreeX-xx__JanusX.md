@@ -1,6 +1,6 @@
 # TreeX-xx/JanusX
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TreeX-xx/JanusX) · [官网](https://treex-xx.github.io/JanusX/) · 个人维护 · 中文 README
+⭐ 8 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TreeX-xx/JanusX) · [官网](https://treex-xx.github.io/JanusX/) · 个人维护 · 中文 README
 
 **AI 编程桌面工作区：集中管理项目、终端与 AI 助手会话**
 

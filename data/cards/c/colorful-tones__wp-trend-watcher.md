@@ -1,6 +1,6 @@
 # colorful-tones/wp-trend-watcher
 
-⭐ 14 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/colorful-tones/wp-trend-watcher) · [官网](https://colorful-tones.github.io/wp-trend-watcher/) · 组织维护
+⭐ 14 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/colorful-tones/wp-trend-watcher) · [官网](https://colorful-tones.github.io/wp-trend-watcher/) · 组织维护
 
 **为 WordPress 开发者生成 AI 辅助、人工审阅的周报工作流**
 

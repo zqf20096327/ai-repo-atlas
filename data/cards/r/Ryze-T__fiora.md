@@ -1,6 +1,6 @@
 # Ryze-T/fiora
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Ryze-T/fiora) · 个人维护 · 中文 README
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Ryze-T/fiora) · 个人维护 · 中文 README
 
 **给开发者做代码漏洞审计的 CLI：规则扫描+AI 判定+证据链报告**
 

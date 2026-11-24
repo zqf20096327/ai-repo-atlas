@@ -1,6 +1,6 @@
 # Teabie666/vilausity-claude-code-gui-shell
 
-⭐ 4 · TypeScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Teabie666/vilausity-claude-code-gui-shell) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Windows 桌面 Claude Code 客户端，填 API key 即用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

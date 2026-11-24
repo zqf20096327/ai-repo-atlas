@@ -1,6 +1,6 @@
 # alibaba/InferSim
 
-⭐ 105 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/alibaba/InferSim) · 组织维护 · 中文 README
+⭐ 108 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/alibaba/InferSim) · 组织维护 · 中文 README
 
 **面向 LLM 推理的性能模拟器：按 FLOPs/带宽/MFU 预估 TTFT/TPOT/TGS**
 

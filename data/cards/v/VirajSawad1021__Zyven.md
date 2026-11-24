@@ -1,6 +1,6 @@
 # VirajSawad1021/Zyven
 
-⭐ 5 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/VirajSawad1021/Zyven) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把开源库自动编译为经沙箱验证的 MCP 工具供 agent 使用**
 
@@ -11,7 +11,7 @@ Zyven 读取开源库源码做静态分析，用 open-weight 模型围绕该库�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

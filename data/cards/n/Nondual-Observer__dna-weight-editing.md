@@ -1,6 +1,6 @@
 # Nondual-Observer/dna-weight-editing
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Nondual-Observer/dna-weight-editing) · [官网](https://huggingface.co/Nondual-Observer/Qwen3.5-0.8B-SGNE-CC) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Nondual-Observer/dna-weight-editing) · [官网](https://huggingface.co/Nondual-Observer/Qwen3.5-0.8B-SGNE-CC) · 个人维护
 
 **对 Qwen3.5-0.8B 两种免训练权重编辑的几何审计与基准研究**
 

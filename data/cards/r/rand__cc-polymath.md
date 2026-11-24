@@ -1,6 +1,6 @@
 # rand/cc-polymath
 
-⭐ 193 · Python · MIT · 推送 2026-02-28 · [GitHub](https://github.com/rand/cc-polymath) · 个人维护
+⭐ 192 · Python · MIT · 推送 2026-02-28 · [GitHub](https://github.com/rand/cc-polymath) · 个人维护
 
 **面向 Claude Code 的 410+ 原子开发技能库与渐进式发现插件**
 

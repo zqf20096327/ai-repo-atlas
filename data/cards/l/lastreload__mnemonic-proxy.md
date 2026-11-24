@@ -1,6 +1,6 @@
 # lastreload/mnemonic-proxy
 
-⭐ 82 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lastreload/mnemonic-proxy) · [官网](https://lastreload.github.io/mnemonic-proxy/) · 组织维护
+⭐ 82 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lastreload/mnemonic-proxy) · [官网](https://lastreload.github.io/mnemonic-proxy/) · 组织维护
 
 **代理层：管理编码 agent 上下文窗口，原文存档可召回**
 

@@ -1,6 +1,6 @@
 # vincentkoc/dotskills
 
-⭐ 111 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/vincentkoc/dotskills) · 个人维护
+⭐ 111 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vincentkoc/dotskills) · 个人维护
 
 **个人维护的 Codex/OpenClaw agent 技能库：可安装复用的技能模块**
 

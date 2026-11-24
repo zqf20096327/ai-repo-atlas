@@ -1,6 +1,6 @@
 # ErcinDedeoglu/WhisperDock
 
-⭐ 31 · C++ · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/ErcinDedeoglu/WhisperDock) · [官网](https://hub.docker.com/r/dublok/whisperdock) · 个人维护
+⭐ 31 · C++ · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/ErcinDedeoglu/WhisperDock) · [官网](https://hub.docker.com/r/dublok/whisperdock) · 个人维护
 
 **Docker 化的 Whisper C++ 语音转文字 API 服务**
 

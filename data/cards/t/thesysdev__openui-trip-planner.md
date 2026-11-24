@@ -1,6 +1,6 @@
 # thesysdev/openui-trip-planner
 
-⭐ 9 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/thesysdev/openui-trip-planner) · [官网](https://www.openui.com/demo/trip-planner) · 组织维护
+⭐ 10 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/thesysdev/openui-trip-planner) · [官网](https://www.openui.com/demo/trip-planner) · 组织维护
 
 **对话式生成行程界面的 AI 旅行规划 Web 应用**
 

@@ -1,6 +1,6 @@
 # sky-valley/pi
 
-⭐ 90 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sky-valley/pi) · 个人维护
+⭐ 91 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sky-valley/pi) · 个人维护
 
 **pi agent 工具链的纯 Go 移植：多供应商 LLM API 与编码代理**
 

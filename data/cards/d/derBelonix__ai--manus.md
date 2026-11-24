@@ -1,6 +1,6 @@
 # derBelonix/ai--manus
 
-⭐ 190 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/derBelonix/ai--manus) · 个人维护
+⭐ 186 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/derBelonix/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent：可执行代码与控制浏览器完成多步任务**
 

@@ -1,6 +1,6 @@
 # vstlmkh/designing-databases
 
-⭐ 4 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/vstlmkh/designing-databases) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vstlmkh/designing-databases) · 个人维护
 
 **数据库设计/调优的 Agent Skill：面向 PostgreSQL 与 MySQL 开发者**
 

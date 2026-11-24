@@ -1,6 +1,6 @@
 # ranjithrajv/awesome-volunteer-computing
 
-⭐ 37 · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/ranjithrajv/awesome-volunteer-computing) · [官网](https://github.com/ranjithrajv/awesome-volunteer-computing) · 个人维护
+⭐ 37 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/ranjithrajv/awesome-volunteer-computing) · [官网](https://github.com/ranjithrajv/awesome-volunteer-computing) · 个人维护
 
 **志愿计算项目与平台策展清单：闲置算力捐给科研**
 

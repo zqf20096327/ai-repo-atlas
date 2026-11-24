@@ -1,6 +1,6 @@
 # lutzkind/open-webui-chatgpt-siwc
 
-⭐ 8 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/lutzkind/open-webui-chatgpt-siwc) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 ChatGPT 订阅接入自托管 Open WebUI 的 SIWC 适配器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

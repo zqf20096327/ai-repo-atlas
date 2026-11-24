@@ -1,6 +1,6 @@
 # hardenedlinux/SonicBoom
 
-⭐ 35 · C++ · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/hardenedlinux/SonicBoom) · [官网](https://hardenedvault.com/sonicboom/) · 组织维护 · 中文 README
+⭐ 35 · C++ · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hardenedlinux/SonicBoom) · [官网](https://hardenedvault.com/sonicboom/) · 组织维护 · 中文 README
 
 **C++/CUDA 原生张量运行时，面向消费级 GPU 的本地 LLM 推理**
 

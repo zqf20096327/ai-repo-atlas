@@ -1,6 +1,6 @@
 # kyegomez/ShallowFF
 
-⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/ShallowFF) · [官网](https://discord.gg/Yx5y5VBahs) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kyegomez/ShallowFF) · [官网](https://discord.gg/Yx5y5VBahs) · 个人维护
 
 **用浅层前馈网络替代注意力层的 Transformer 实现**
 

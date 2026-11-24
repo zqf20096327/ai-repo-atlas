@@ -1,10 +1,10 @@
 # felladrin/awesome-ai-web-search
 
-⭐ 1,521 · HTML · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/felladrin/awesome-ai-web-search) · [官网](https://hf.co/spaces/felladrin/awesome-ai-web-search) · 个人维护
+⭐ 1,524 · HTML · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/felladrin/awesome-ai-web-search) · [官网](https://hf.co/spaces/felladrin/awesome-ai-web-search) · 个人维护
 
-**AI 网页搜索软件的策展清单：开源/闭源/搜索 API 三表**
+**AI 网页搜索软件策展清单：开源/闭源/Agent 搜索 API 分类收录**
 
-聚焦 LLM 与网页搜索结合的软件清单，按时间线组织为三部分：开源软件（Khoj、Perplexica、Morphic 等约 70 条，附 Demo/截图链接）、闭源服务（Perplexity、Kimi 等约 50 条）、可接入 AI Agent 的网页搜索 API 与 MCP 构件（SearXNG、Tavily、Exa 等），并注明限定通用搜索、排除学术/代码等领域专用搜索。清单托管于 Hugging Face Space。
+以时间线形式收录结合大语言模型与网页搜索能力的软件清单，分三个板块：开源软件（Khoj、Perplexica、GPT Researcher 等 70 余项）、闭源产品（Perplexity、Kimi 等 40 余项）以及可接入自建 AI Agent 的网页搜索 API（SerpApi、SearXNG、Tavily 等）。每条包含发布日期与预览链接，覆盖 LLM 摘要搜索、带网页搜索的聊天、Agent 深度研究报告三类用例，并通过 Hugging Face Space 展示。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 开源软件时间线表约 70 条，附 Demo/截图/主页链接
-- 闭源 AI 搜索服务表约 50 条按上线日期排列
-- 面向 AI Agent 的搜索 API/MCP 构件专表
-- 声明范围为通用网页搜索，排除领域专用搜索 API
+- 开源板块按时间线收录 70+ 项 AI 网页搜索软件
+- 闭源板块收录 Perplexity、Kimi 等 40+ 商业产品
+- 单独整理可接入 AI Agent 的网页搜索 API 清单
+- 通过 Hugging Face Space 在线展示
 
 ## 适用场景
 
-- 查找支持 LLM 网页搜索的开源软件并直达演示
-- 为自建 AI Agent 挑选可接入的网页搜索 API
-- 按时间线了解 AI 搜索产品的发展脉络
+- 查找支持网页搜索的开源 LLM 应用
+- 为自建 Agent 选择网页搜索 API
+- 了解 AI 搜索领域产品的发布脉络
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L3: A curated list of AI-powered web search software, focusing on the intersection of Large Language Models (LLMs) and w
 > L5: The list is organized as a timeline, containing software that support the following use cases:
-> L146: Web-search APIs you can wire into your own AI agents by pointing the agent at the API docs, or via an MCP server w
+> L11: ## Open Source
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5e87eb0e2b0a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4e2c2d76c3ff` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # AI-QL/api-proxy
 
-⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/AI-QL/api-proxy) · [官网](https://api.aiql.com/) · 组织维护
+⭐ 26 · JavaScript · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/AI-QL/api-proxy) · [官网](https://api.aiql.com/) · 组织维护
 
 **API 网关代理：解决地域限制、CORS 与 TLS 校验下的 API 访问**
 

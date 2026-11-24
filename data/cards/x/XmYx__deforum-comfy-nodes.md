@@ -1,6 +1,6 @@
 # XmYx/deforum-comfy-nodes
 
-⭐ 198 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/XmYx/deforum-comfy-nodes) · [官网](https://deforum.studio/) · 组织维护
+⭐ 198 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/XmYx/deforum-comfy-nodes) · [官网](https://deforum.studio/) · 组织维护
 
 **在 ComfyUI 中运行 Deforum 的动画生成节点包**
 

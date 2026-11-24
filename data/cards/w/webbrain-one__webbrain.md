@@ -1,6 +1,6 @@
 # webbrain-one/webbrain
 
-⭐ 1,750 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护 · 中文 README
+⭐ 1,753 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/webbrain-one/webbrain) · [官网](https://webbrain.one) · 组织维护 · 中文 README
 
 **浏览器扩展型 AI agent：读页、问答与多步任务自动化**
 

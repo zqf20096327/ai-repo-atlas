@@ -1,6 +1,6 @@
 # modelpack/model-spec
 
-⭐ 241 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/modelpack/model-spec) · [官网](https://modelpack.org) · 组织维护
+⭐ 241 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelpack/model-spec) · [官网](https://modelpack.org) · 组织维护
 
 **CNCF 主持的 LLM 打包分发开放规范标准**
 

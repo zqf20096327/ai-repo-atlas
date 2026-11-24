@@ -1,6 +1,6 @@
 # polakowo/vectorbt
 
-⭐ 9,915 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/polakowo/vectorbt) · [官网](https://vectorbt.dev) · 个人维护
+⭐ 9,925 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/polakowo/vectorbt) · [官网](https://vectorbt.dev) · 个人维护
 
 **面向交易者与研究员的 Python 回测研究工具包**
 

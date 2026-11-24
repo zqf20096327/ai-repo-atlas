@@ -1,6 +1,6 @@
 # lpnovi/Orbit-Assistant
 
-⭐ 14 · Java · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lpnovi/Orbit-Assistant) · 个人维护
+⭐ 14 · Java · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lpnovi/Orbit-Assistant) · 个人维护
 
 **Android 全局 AI 助手应用：侧键唤起、屏幕上下文与设备操作**
 

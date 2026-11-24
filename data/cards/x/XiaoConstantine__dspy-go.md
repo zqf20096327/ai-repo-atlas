@@ -1,6 +1,6 @@
 # XiaoConstantine/dspy-go
 
-⭐ 205 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/XiaoConstantine/dspy-go) · [官网](https://xiaoconstantine.github.io/dspy-go/) · 个人维护
+⭐ 205 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/XiaoConstantine/dspy-go) · [官网](https://xiaoconstantine.github.io/dspy-go/) · 个人维护
 
 **DSPy 框架的 Go 原生实现：模块化构建 LLM 应用**
 

@@ -1,6 +1,6 @@
 # DuckCoding-dev/DuckCoding
 
-⭐ 143 · Rust · AGPL-3.0 · 推送 2026-02-19 · [GitHub](https://github.com/DuckCoding-dev/DuckCoding) · [官网](https://duckcoding.com) · 组织维护 · 中文 README
+⭐ 142 · Rust · AGPL-3.0 · 推送 2026-02-19 · [GitHub](https://github.com/DuckCoding-dev/DuckCoding) · [官网](https://duckcoding.com) · 组织维护 · 中文 README
 
 **一键安装配置 Claude Code/Codex/Gemini CLI 的跨平台桌面管理工具**
 

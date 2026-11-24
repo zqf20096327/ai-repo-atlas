@@ -1,6 +1,6 @@
 # kobimusic/copisteria
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/kobimusic/copisteria) · 个人维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/kobimusic/copisteria) · 个人维护
 
 **光学乐谱识别读取器：扫描乐谱页面转 MusicXML**
 

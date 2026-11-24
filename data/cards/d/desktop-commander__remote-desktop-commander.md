@@ -1,6 +1,6 @@
 # desktop-commander/remote-desktop-commander
 
-⭐ 243 · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/desktop-commander/remote-desktop-commander) · [官网](https://mcp.desktopcommander.app) · 组织维护
+⭐ 246 · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/desktop-commander/remote-desktop-commander) · [官网](https://mcp.desktopcommander.app) · 组织维护
 
 **远程 MCP 服务器：让 AI 应用经 OAuth 控制你的电脑**
 

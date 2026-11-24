@@ -1,6 +1,6 @@
 # fdueblab/Micro-Agent
 
-⭐ 101 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fdueblab/Micro-Agent) · 组织维护 · 中文 README
+⭐ 101 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fdueblab/Micro-Agent) · 组织维护 · 中文 README
 
 **面向垂域应用的轻量级 AI Agent 框架，以 API 服务交付**
 

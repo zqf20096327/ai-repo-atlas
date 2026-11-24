@@ -1,6 +1,6 @@
 # DietrichGebert/ponytail
 
-⭐ 196,817 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DietrichGebert/ponytail) · [官网](https://ponytail.dev) · 个人维护 · 中文 README
+⭐ 197,524 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DietrichGebert/ponytail) · [官网](https://ponytail.dev) · 个人维护 · 中文 README
 
 **给 AI 编码代理注入最小化编码风格的技术栈提示词与技能包**
 

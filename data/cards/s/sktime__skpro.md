@@ -1,6 +1,6 @@
 # sktime/skpro
 
-⭐ 339 · Python · BSD-3-Clause · 推送 2026-10-11 · [GitHub](https://github.com/sktime/skpro) · [官网](https://skpro.readthedocs.io/en/latest) · 组织维护
+⭐ 340 · Python · BSD-3-Clause · 推送 2026-10-11 · [GitHub](https://github.com/sktime/skpro) · [官网](https://skpro.readthedocs.io/en/latest) · 组织维护
 
 **Python 概率预测库：表格概率回归、生存预测与概率分布**
 

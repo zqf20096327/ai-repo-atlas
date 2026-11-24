@@ -1,6 +1,6 @@
 # pytorch/ci-infra
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/pytorch/ci-infra) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/pytorch/ci-infra) · 组织维护
 
 **PyTorch 项目 CI 基础设施：EC2 自动扩缩容的 Terraform 配置**
 

@@ -1,6 +1,6 @@
 # topology-gg/DiffusionPythonBot
 
-⭐ 30 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/topology-gg/DiffusionPythonBot) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/topology-gg/DiffusionPythonBot) · 个人维护
 
 **本地 Stable Diffusion 生图的 Discord 机器人**
 

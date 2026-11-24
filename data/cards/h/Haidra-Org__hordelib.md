@@ -1,6 +1,6 @@
 # Haidra-Org/hordelib
 
-⭐ 73 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Haidra-Org/hordelib) · [官网](https://hordelib.org) · 组织维护
+⭐ 73 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Haidra-Org/hordelib) · [官网](https://hordelib.org) · 组织维护
 
 **封装固定版本 ComfyUI，供 AI Horde 程序化运行推理管线**
 

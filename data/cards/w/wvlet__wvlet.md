@@ -1,6 +1,6 @@
 # wvlet/wvlet
 
-⭐ 161 · Scala · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wvlet/wvlet) · [官网](https://wvlet.org/wvlet/) · 组织维护
+⭐ 161 · Scala · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/wvlet/wvlet) · [官网](https://wvlet.org/wvlet/) · 组织维护
 
 **编译到 SQL 的流式查询语言，供数据建模与探索**
 

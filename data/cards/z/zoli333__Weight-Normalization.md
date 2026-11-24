@@ -1,6 +1,6 @@
 # zoli333/Weight-Normalization
 
-⭐ 26 · Python · 推送 2026-11-22 · [GitHub](https://github.com/zoli333/Weight-Normalization) · 个人维护
+⭐ 26 · Python · 推送 2026-11-23 · [GitHub](https://github.com/zoli333/Weight-Normalization) · 个人维护
 
 **复现 Weight Normalization 论文的 PyTorch 实现库**
 

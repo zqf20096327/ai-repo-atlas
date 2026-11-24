@@ -1,6 +1,6 @@
 # kubeflow/katib
 
-⭐ 1,707 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kubeflow/katib) · [官网](https://www.kubeflow.org/docs/components/katib) · 组织维护
+⭐ 1,707 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kubeflow/katib) · [官网](https://www.kubeflow.org/docs/components/katib) · 组织维护
 
 **Kubernetes 原生 AutoML 系统：超参调优与神经架构搜索**
 

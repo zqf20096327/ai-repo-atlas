@@ -1,6 +1,6 @@
 # Wolfe-Jam/claude-faf-mcp
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Wolfe-Jam/claude-faf-mcp) · [官网](https://faf.one) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Wolfe-Jam/claude-faf-mcp) · [官网](https://faf.one) · 个人维护
 
 **为 Claude 维护项目持久上下文的 MCP 服务器（.faf 格式）**
 

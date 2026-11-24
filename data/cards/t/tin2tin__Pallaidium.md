@@ -1,6 +1,6 @@
 # tin2tin/Pallaidium
 
-⭐ 1,559 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/tin2tin/Pallaidium) · [官网](https://tin2tin.github.io/Pallaidium/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **集成在 Blender 视频编辑器中的生成式 AI 影片工作室插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | GPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |

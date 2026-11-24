@@ -1,6 +1,6 @@
 # voidvenom/oh-my-rea
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/voidvenom/oh-my-rea) · [官网](https://www.npmjs.com/package/oh-my-rea) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/voidvenom/oh-my-rea) · [官网](https://www.npmjs.com/package/oh-my-rea) · 个人维护
 
 **终端逆向工程 AI 代理：带证据引用的分析 TUI/CLI**
 

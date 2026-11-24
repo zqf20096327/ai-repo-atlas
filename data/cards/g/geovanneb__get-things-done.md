@@ -1,6 +1,6 @@
 # geovanneb/get-things-done
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/geovanneb/get-things-done) · [官网](https://www.npmjs.com/package/@bertonha/getthingsdone) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/geovanneb/get-things-done) · [官网](https://www.npmjs.com/package/@bertonha/getthingsdone) · 个人维护
 
 **面向高管的本地 GTD 工作区：Markdown 文件加看板供 AI 代理读写**
 

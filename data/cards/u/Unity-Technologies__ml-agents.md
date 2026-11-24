@@ -1,6 +1,6 @@
 # Unity-Technologies/ml-agents
 
-⭐ 19,891 · C# · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Unity-Technologies/ml-agents) · [官网](https://unity.com/products/machine-learning-agents) · 组织维护
+⭐ 19,890 · C# · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Unity-Technologies/ml-agents) · [官网](https://unity.com/products/machine-learning-agents) · 组织维护
 
 **让 Unity 游戏与仿真成为强化学习智能体训练环境的工具包**
 

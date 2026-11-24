@@ -1,6 +1,6 @@
 # Someblueman/hydra
 
-⭐ 28 · C · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Someblueman/hydra) · 个人维护
+⭐ 28 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Someblueman/hydra) · 个人维护
 
 **管理并行 AI 编码代理会话的 CLI/TUI 任务控制台**
 

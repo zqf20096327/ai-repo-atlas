@@ -1,6 +1,6 @@
 # MinaSaad1/pbi-cli
 
-⭐ 494 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MinaSaad1/pbi-cli) · [官网](https://mina-saad.com/pbi-cli) · 个人维护
+⭐ 496 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MinaSaad1/pbi-cli) · [官网](https://mina-saad.com/pbi-cli) · 个人维护
 
 **面向 Claude Code 的 Power BI CLI：语义模型与报表操作技能**
 

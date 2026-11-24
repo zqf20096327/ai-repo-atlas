@@ -1,6 +1,6 @@
 # mrlurix/zefira-panel
 
-⭐ 16 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/mrlurix/zefira-panel) · [官网](https://mrlurix.github.io/zefira-panel/) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mrlurix/zefira-panel) · [官网](https://mrlurix.github.io/zefira-panel/) · 个人维护 · 中文 README
 
 **多协议 VPN 账号销售管理面板，附带 AI 助手**
 

@@ -1,6 +1,6 @@
 # viajatech/agente-isabella
 
-⭐ 198 · Java · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/viajatech/agente-isabella) · [官网](https://viajatech.com) · 个人维护 · 中文 README
+⭐ 199 · Java · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/viajatech/agente-isabella) · [官网](https://viajatech.com) · 个人维护 · 中文 README
 
 **把 root 安卓手机变成用自己 SIM 打真实电话的 AI 语音助理**
 

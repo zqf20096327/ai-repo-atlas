@@ -1,6 +1,6 @@
 # jpezzulli/sglang-rtxpro6000
 
-⭐ 206 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jpezzulli/sglang-rtxpro6000) · [官网](https://msoexpert.com) · 个人维护
+⭐ 206 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jpezzulli/sglang-rtxpro6000) · [官网](https://msoexpert.com) · 个人维护
 
 **面向 RTX PRO 6000 Blackwell 的 SGLang 派生推理运行时**
 

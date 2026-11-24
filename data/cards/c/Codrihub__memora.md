@@ -1,6 +1,6 @@
 # Codrihub/memora
 
-⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Codrihub/memora) · [官网](https://memora.codrihub.tech) · 组织维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Codrihub/memora) · [官网](https://memora.codrihub.tech) · 组织维护
 
 **给 AI agent 的自托管长期记忆库，经 MCP 读写 markdown 笔记**
 

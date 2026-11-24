@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/MovieRoll
 
-⭐ 271 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Tencent-Hunyuan/MovieRoll) · 组织维护 · 中文 README
+⭐ 324 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Tencent-Hunyuan/MovieRoll) · 组织维护 · 中文 README
 
 **长视频生成模型框架：从文本/图像提示持续生成480p长视频**
 

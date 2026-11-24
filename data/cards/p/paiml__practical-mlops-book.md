@@ -1,6 +1,6 @@
 # paiml/practical-mlops-book
 
-⭐ 991 · Jupyter Notebook · 推送 2026-11-09 · [GitHub](https://github.com/paiml/practical-mlops-book) · 个人维护
+⭐ 991 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/paiml/practical-mlops-book) · [官网](https://www.coursera.org/learn/machine-learning-with-databricks-and-mlflow?utm_source=github&utm_medium=repo_website&utm_campaign=funnel_2026q4&utm_content=practical-mlops-book) · 个人维护
 
 **O'Reilly《Practical MLOps》一书的示例代码仓库**
 

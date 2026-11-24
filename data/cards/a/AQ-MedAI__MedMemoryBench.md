@@ -1,6 +1,6 @@
 # AQ-MedAI/MedMemoryBench
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/AQ-MedAI/MedMemoryBench) · [官网](https://x.com/AQ_MedAI) · 组织维护 · 中文 README
+⭐ 91 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/AQ-MedAI/MedMemoryBench) · [官网](https://x.com/AQ_MedAI) · 组织维护 · 中文 README
 
 **医疗对话场景下评测 Agent 记忆方法的基准框架**
 

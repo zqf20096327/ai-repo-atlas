@@ -1,6 +1,6 @@
 # jjmerri/gspro-shotcast
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/jjmerri/gspro-shotcast) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/jjmerri/gspro-shotcast) · 个人维护
 
 **为 GSPro 高尔夫模拟器提供挥杆记录、统计页面与 AI 实时解说**
 

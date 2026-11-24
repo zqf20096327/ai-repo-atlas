@@ -1,6 +1,6 @@
 # xiusu318-bot/Rikkanon
 
-⭐ 3 · Kotlin · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/xiusu318-bot/Rikkanon) · 个人维护 · 中文 README
+⭐ 4 · Kotlin · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/xiusu318-bot/Rikkanon) · 个人维护 · 中文 README
 
 **Android AI Agent 客户端（RikkaHub 二开），带子代理与终端**
 

@@ -1,6 +1,6 @@
 # Noisyxl/brier
 
-⭐ 111 · HTML · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Noisyxl/brier) · [官网](brier.watch) · 个人维护
+⭐ 110 · HTML · MIT · 推送 2026-09-20 · [GitHub](https://github.com/Noisyxl/brier) · [官网](brier.watch) · 个人维护
 
 **面向 LLM 的预测记账本：事前密封概率、事后按评分规则判分**
 

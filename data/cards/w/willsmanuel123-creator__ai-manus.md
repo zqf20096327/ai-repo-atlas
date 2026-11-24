@@ -1,6 +1,6 @@
 # willsmanuel123-creator/ai-manus
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/willsmanuel123-creator/ai-manus) · 个人维护
+⭐ 148 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/willsmanuel123-creator/ai-manus) · 个人维护
 
 **面向个人用户的自主 AI 代理：代为执行代码与浏览器操作**
 

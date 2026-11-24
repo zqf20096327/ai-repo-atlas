@@ -1,6 +1,6 @@
 # cold-atom/Orca
 
-⭐ 50 · GDScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/cold-atom/Orca) · [官网](https://aiorca.dev) · 个人维护
+⭐ 50 · GDScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cold-atom/Orca) · [官网](https://aiorca.dev) · 个人维护
 
 **Godot 编辑器内置的 AI 开发代理：检查项目、审阅后改动**
 

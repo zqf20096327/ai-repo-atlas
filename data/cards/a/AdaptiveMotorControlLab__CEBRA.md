@@ -1,6 +1,6 @@
 # AdaptiveMotorControlLab/CEBRA
 
-⭐ 1,137 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/AdaptiveMotorControlLab/CEBRA) · [官网](https://cebra.ai) · 组织维护
+⭐ 1,138 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AdaptiveMotorControlLab/CEBRA) · [官网](https://cebra.ai) · 组织维护
 
 **神经与行为数据联合分析的自监督嵌入库（科研）**
 

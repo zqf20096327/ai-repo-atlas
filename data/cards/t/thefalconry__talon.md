@@ -1,6 +1,6 @@
 # thefalconry/talon
 
-⭐ 72 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/thefalconry/talon) · [官网](https://thefalconry.github.io) · 组织维护
+⭐ 72 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/thefalconry/talon) · [官网](https://thefalconry.github.io) · 组织维护
 
 **多平台 agentic AI 运行框架：Telegram/WhatsApp/Discord/Teams/终端/桌面运行可插拔后端 agent**
 

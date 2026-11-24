@@ -1,6 +1,6 @@
 # DO0OG/Ari-VoiceCommand
 
-⭐ 21 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DO0OG/Ari-VoiceCommand) · [官网](https://ari-voice-command.vercel.app) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DO0OG/Ari-VoiceCommand) · [官网](https://ari-voice-command.vercel.app) · 个人维护 · 中文 README
 
 **Windows 开源 AI 语音助手：唤醒词对话并自动操作桌面**
 

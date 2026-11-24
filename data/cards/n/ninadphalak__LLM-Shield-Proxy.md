@@ -1,6 +1,6 @@
 # ninadphalak/LLM-Shield-Proxy
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ninadphalak/LLM-Shield-Proxy) · [官网](https://llmshieldproxy.com) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ninadphalak/LLM-Shield-Proxy) · [官网](https://llmshieldproxy.com) · 个人维护
 
 **面向 OpenAI 兼容 API 的自托管隐私脱敏网关及配套检测工具**
 

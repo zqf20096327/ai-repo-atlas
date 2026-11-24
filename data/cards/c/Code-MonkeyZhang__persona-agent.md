@@ -1,6 +1,6 @@
 # Code-MonkeyZhang/persona-agent
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Code-MonkeyZhang/persona-agent) · [官网](https://code-monkeyzhang.github.io/persona-agent/) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Code-MonkeyZhang/persona-agent) · [官网](https://code-monkeyzhang.github.io/persona-agent/) · 个人维护 · 中文 README
 
 **开源个人 AI 陪伴助手：自定义性格、声音与立绘**
 

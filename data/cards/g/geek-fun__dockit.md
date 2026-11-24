@@ -1,6 +1,6 @@
 # geek-fun/dockit
 
-⭐ 1,146 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/geek-fun/dockit) · [官网](https://www.geekfun.club/products/dockit/) · 组织维护 · 中文 README
+⭐ 1,147 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/geek-fun/dockit) · [官网](https://www.geekfun.club/products/dockit/) · 组织维护 · 中文 README
 
 **面向 NoSQL 开发者的多数据库桌面 GUI 客户端，支持自然语言查询**
 

@@ -1,6 +1,6 @@
 # vtsaplin/datatalk-cli
 
-⭐ 17 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/vtsaplin/datatalk-cli) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/vtsaplin/datatalk-cli) · 个人维护
 
 **用自然语言查询本地 CSV/Excel/Parquet 的命令行工具**
 

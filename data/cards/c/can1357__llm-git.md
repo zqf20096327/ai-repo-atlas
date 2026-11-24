@@ -1,6 +1,6 @@
 # can1357/llm-git
 
-⭐ 62 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/can1357/llm-git) · 个人维护
+⭐ 62 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/can1357/llm-git) · 个人维护
 
 **给开发者的 git 提交信息生成 CLI：用 LLM 从 diff 生成规范提交**
 

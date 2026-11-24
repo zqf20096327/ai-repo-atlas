@@ -1,6 +1,6 @@
 # tensorflow/tfjs-examples
 
-⭐ 6,785 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/tensorflow/tfjs-examples) · [官网](https://js.tensorflow.org/) · 组织维护
+⭐ 6,784 · JavaScript · Apache-2.0 · 推送 2026-09-22 · [GitHub](https://github.com/tensorflow/tfjs-examples) · [官网](https://js.tensorflow.org/) · 组织维护
 
 **TensorFlow.js 官方示例集：浏览器/Node.js 中的训练与推理**
 

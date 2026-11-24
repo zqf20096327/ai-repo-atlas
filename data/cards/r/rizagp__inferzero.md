@@ -1,6 +1,6 @@
 # rizagp/inferzero
 
-⭐ 80 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rizagp/inferzero) · [官网](https://rizagp.github.io/inferzero/) · 个人维护
+⭐ 87 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rizagp/inferzero) · [官网](https://rizagp.github.io/inferzero/) · 个人维护
 
 **面向 Intel 核显的从零编写的本地 LLM 推理引擎**
 

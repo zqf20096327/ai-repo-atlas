@@ -1,6 +1,6 @@
 # franklywatson/claude-rig
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/franklywatson/claude-rig) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/franklywatson/claude-rig) · 个人维护
 
 **把 rtk/jcodemunch/graphify 等工具接入 Claude Code 的路由与执行面板**
 

@@ -1,6 +1,6 @@
 # Baro7ue/comllm-edge-scheduler
 
-⭐ 3 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Baro7ue/comllm-edge-scheduler) · 个人维护 · 中文 README
+⭐ 3 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Baro7ue/comllm-edge-scheduler) · 个人维护 · 中文 README
 
 **在 Jetson 上用 0.5B LLM 做 55ms 级任务卸载调度器**
 

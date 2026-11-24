@@ -1,6 +1,6 @@
 # xiaomochn/openclaw-feishu-swarm
 
-⭐ 37 · TypeScript · 推送 2026-03-18 · [GitHub](https://github.com/xiaomochn/openclaw-feishu-swarm) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · 推送 2026-03-18 · [GitHub](https://github.com/xiaomochn/openclaw-feishu-swarm) · 个人维护 · 中文 README
 
 **让飞书群内多个 AI 机器人互相对话的 OpenClaw 插件**
 

@@ -1,6 +1,6 @@
 # xinkyle/Voconly
 
-⭐ 163 · C++ · MIT · 推送 2026-11-11 · [GitHub](https://github.com/xinkyle/Voconly) · [官网](https://voconly.vercel.app) · 个人维护 · 中文 README
+⭐ 164 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xinkyle/Voconly) · [官网](https://voconly.vercel.app) · 个人维护 · 中文 README
 
 **本地优先的 AI 语音输入工具：说话即得润色后的文字**
 

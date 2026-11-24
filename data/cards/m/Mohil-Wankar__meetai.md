@@ -1,6 +1,6 @@
 # Mohil-Wankar/meetai
 
-⭐ 21 · TypeScript · 推送 2026-06-06 · [GitHub](https://github.com/Mohil-Wankar/meetai) · [官网](https://meetai-ten-lake.vercel.app) · 个人维护
+⭐ 22 · TypeScript · 推送 2026-06-06 · [GitHub](https://github.com/Mohil-Wankar/meetai) · [官网](https://meetai-ten-lake.vercel.app) · 个人维护
 
 **与专项 AI 角色实时语音对话的对话平台**
 

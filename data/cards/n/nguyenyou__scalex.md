@@ -1,6 +1,6 @@
 # nguyenyou/scalex
 
-⭐ 111 · Scala · MIT · 推送 2026-09-18 · [GitHub](https://github.com/nguyenyou/scalex) · [官网](https://nguyenyou.github.io/scalex/) · 个人维护
+⭐ 112 · Scala · MIT · 推送 2026-09-18 · [GitHub](https://github.com/nguyenyou/scalex) · [官网](https://nguyenyou.github.io/scalex/) · 个人维护
 
 **给编码 Agent 的 Scala 代码智能查询插件，免编译免构建服务器**
 

@@ -1,6 +1,6 @@
 # Ramseygithub/ai-legal-compliance-assistant
 
-⭐ 342 · Python · 推送 2026-02-03 · [GitHub](https://github.com/Ramseygithub/ai-legal-compliance-assistant) · [官网](http://0.0.0.0:8000/) · 个人维护 · 中文 README
+⭐ 343 · Python · 推送 2026-02-03 · [GitHub](https://github.com/Ramseygithub/ai-legal-compliance-assistant) · [官网](http://0.0.0.0:8000/) · 个人维护 · 中文 README
 
 **面向法规解读的 AI 合规分析平台：RAG+知识图谱问答**
 

@@ -1,6 +1,6 @@
 # punitsnaik/TidyLink
 
-⭐ 26 · Kotlin · MIT · 推送 2026-11-09 · [GitHub](https://github.com/punitsnaik/TidyLink) · 个人维护
+⭐ 26 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/punitsnaik/TidyLink) · 个人维护
 
 **Android 书签管理器：AI 自动分类与摘要保存的链接**
 

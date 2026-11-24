@@ -1,6 +1,6 @@
 # amitshekhariitbhu/forward-deployed-engineer-roadmap
 
-⭐ 563 · Markdown · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 599 · Markdown · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/amitshekhariitbhu/forward-deployed-engineer-roadmap) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **面向 Forward Deployed Engineer 的 AI 工程学习路线图**
 

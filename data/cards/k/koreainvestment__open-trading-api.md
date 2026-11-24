@@ -1,6 +1,6 @@
 # koreainvestment/open-trading-api
 
-⭐ 1,679 · Python · 推送 2026-11-16 · [GitHub](https://github.com/koreainvestment/open-trading-api) · [官网](https://apiportal.koreainvestment.com) · 组织维护 · 中文 README
+⭐ 1,680 · Python · 推送 2026-11-24 · [GitHub](https://github.com/koreainvestment/open-trading-api) · [官网](https://apiportal.koreainvestment.com) · 组织维护 · 中文 README
 
 **韩国投资证券 Open API 的示例代码库（含 LLM 导航支持）**
 

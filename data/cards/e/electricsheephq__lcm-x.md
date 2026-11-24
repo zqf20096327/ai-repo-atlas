@@ -1,6 +1,6 @@
 # electricsheephq/lcm-x
 
-⭐ 178 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/electricsheephq/lcm-x) · [官网](https://losslesscontext.com/) · 组织维护
+⭐ 178 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/electricsheephq/lcm-x) · [官网](https://losslesscontext.com/) · 组织维护
 
 **Hermes Agent 的无损记忆上下文引擎插件**
 

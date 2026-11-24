@@ -1,6 +1,6 @@
 # wudahua/MCP_CREO_MechDog
 
-⭐ 31 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/wudahua/MCP_CREO_MechDog) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wudahua/MCP_CREO_MechDog) · 个人维护 · 中文 README
 
 **让 AI 客户端通过 MCP 直接驱动 Creo 建原生参数化特征的本地服务**
 

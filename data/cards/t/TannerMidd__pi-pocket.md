@@ -1,6 +1,6 @@
 # TannerMidd/pi-pocket
 
-⭐ 877 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TannerMidd/pi-pocket) · [官网](https://tannermidd.github.io/pi-pocket/) · 个人维护
+⭐ 882 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/TannerMidd/pi-pocket) · [官网](https://tannermidd.github.io/pi-pocket/) · 个人维护
 
 **自托管的移动优先 Web 应用：在手机上运行与管理 Pi 编码代理会话**
 

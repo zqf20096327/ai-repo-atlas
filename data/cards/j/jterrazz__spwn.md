@@ -1,6 +1,6 @@
 # jterrazz/spwn
 
-⭐ 14 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jterrazz/spwn) · [官网](https://spwn.sh) · 个人维护
+⭐ 14 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jterrazz/spwn) · [官网](https://spwn.sh) · 个人维护
 
 **以代码方式编排 AI agent 的工具：声明式环境构建与运行**
 

@@ -1,6 +1,6 @@
 # hanzoai/python-sdk
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hanzoai/python-sdk) · [官网](https://hanzo.ai) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hanzoai/python-sdk) · [官网](https://hanzo.ai) · 组织维护
 
 **Hanzo AI 云平台的 Python SDK：代理、MCP、IAM、KMS 等工具集**
 

@@ -1,6 +1,6 @@
 # cyang2020/brk
 
-⭐ 22 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cyang2020/brk) · [官网](https://cyang2020.github.io/brk/) · 个人维护
+⭐ 23 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cyang2020/brk) · [官网](https://cyang2020.github.io/brk/) · 个人维护
 
 **用 Swift 重建的 macOS 原生 Arc 浏览器，带本地 AI 功能**
 

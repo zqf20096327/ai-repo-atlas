@@ -1,6 +1,6 @@
 # GramosoftAI/GSearchAI
 
-⭐ 27 · Python · 推送 2026-11-21 · [GitHub](https://github.com/GramosoftAI/GSearchAI) · [官网](https://gsearchai.com/) · 组织维护
+⭐ 27 · Python · 推送 2026-11-23 · [GitHub](https://github.com/GramosoftAI/GSearchAI) · [官网](https://gsearchai.com/) · 组织维护
 
 **自托管企业 AI 搜索与 Graph RAG 平台，面向多租户场景**
 

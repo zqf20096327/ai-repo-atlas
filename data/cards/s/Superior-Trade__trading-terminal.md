@@ -1,6 +1,6 @@
 # Superior-Trade/trading-terminal
 
-⭐ 1,101 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Superior-Trade/trading-terminal) · [官网](https://terminal.superior.trade) · 组织维护
+⭐ 1,102 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Superior-Trade/trading-terminal) · [官网](https://terminal.superior.trade) · 组织维护
 
 **面向 Hyperliquid 的自托管 AI 交易终端：图表手绘预测生成可执行策略**
 

@@ -1,6 +1,6 @@
 # Quat3rnion/bf16-to-hgn
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/Quat3rnion/bf16-to-hgn) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 Qwen3.8 Flash-Next 权重的 Rust 格式转换 CLI**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

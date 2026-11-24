@@ -1,6 +1,6 @@
 # ginuim/skill-base
 
-⭐ 123 · Vue · 推送 2026-11-18 · [GitHub](https://github.com/ginuim/skill-base) · [官网](https://skillbase.reaidea.com/) · 个人维护 · 中文 README
+⭐ 123 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/ginuim/skill-base) · [官网](https://skillbase.reaidea.com/) · 个人维护 · 中文 README
 
 **团队私有 Agent 技能分发平台：跨 Cursor/Claude Code 等发布安装技能**
 

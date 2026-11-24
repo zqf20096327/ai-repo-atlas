@@ -1,6 +1,6 @@
 # Derrors/iphone-control
 
-⭐ 53 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Derrors/iphone-control) · [官网](https://derrors.github.io/iphone-control/) · 个人维护 · 中文 README
+⭐ 57 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Derrors/iphone-control) · [官网](https://derrors.github.io/iphone-control/) · 个人维护 · 中文 README
 
 **让 AI 代理通过 MCP 操作真实 USB 连接的 iPhone/iPad**
 

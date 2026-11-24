@@ -1,6 +1,6 @@
 # supElement/ComfyUI_Element_easy
 
-⭐ 14 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/supElement/ComfyUI_Element_easy) · 个人维护 · 中文 README
+⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/supElement/ComfyUI_Element_easy) · 个人维护 · 中文 README
 
 **给 ComfyUI 用户的可视化交互节点集：剪辑、素材管理与调色**
 

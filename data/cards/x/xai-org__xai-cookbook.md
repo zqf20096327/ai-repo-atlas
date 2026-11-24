@@ -1,6 +1,6 @@
 # xai-org/xai-cookbook
 
-⭐ 655 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/xai-org/xai-cookbook) · 组织维护
+⭐ 657 · Python · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/xai-org/xai-cookbook) · 组织维护
 
 **xAI Grok API 官方示例集：25 个可运行应用覆盖语音/视频/Agent**
 

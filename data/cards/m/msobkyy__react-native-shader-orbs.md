@@ -1,6 +1,6 @@
 # msobkyy/react-native-shader-orbs
 
-⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/msobkyy/react-native-shader-orbs) · [官网](react-native-shader-orbs.vercel.app) · 个人维护
+⭐ 6 · TypeScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/msobkyy/react-native-shader-orbs) · [官网](react-native-shader-orbs.vercel.app) · 个人维护
 
 **为 React Native/Expo 开发者提供 33 个 WebGPU shader 球组件**
 

@@ -1,6 +1,6 @@
 # salishforge/memforge
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/salishforge/memforge) · [官网](https://github.com/salishforge/memforge#readme) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/salishforge/memforge) · [官网](https://github.com/salishforge/memforge#readme) · 组织维护
 
 **给 AI agent 的三层记忆系统：休眠周期改写强化知识**
 

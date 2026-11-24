@@ -1,6 +1,6 @@
 # ls1intum/Artemis
 
-⭐ 836 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ls1intum/Artemis) · [官网](https://docs.artemis.tum.de) · 组织维护
+⭐ 838 · Java · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ls1intum/Artemis) · [官网](https://docs.artemis.tum.de) · 组织维护
 
 **面向高校的自托管交互式学习与自动反馈平台**
 

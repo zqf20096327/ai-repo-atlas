@@ -1,6 +1,6 @@
 # polylint/uncomment
 
-⭐ 144 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/polylint/uncomment) · [官网](https://github.com/polylint/uncomment#readme) · 组织维护
+⭐ 144 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/polylint/uncomment) · [官网](https://github.com/polylint/uncomment#readme) · 组织维护
 
 **基于 tree-sitter 的注释删除与标签注释检查工具**
 

@@ -1,6 +1,6 @@
 # intellegix/intellegix-code-agent-toolkit
 
-⭐ 57 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/intellegix/intellegix-code-agent-toolkit) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/intellegix/intellegix-code-agent-toolkit) · 组织维护
 
 **Claude Code CLI 的配置工具集：自主循环驱动、编排与治理命令**
 

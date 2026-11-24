@@ -1,6 +1,6 @@
 # MCERQUA/OpenVoiceUI
 
-⭐ 87 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MCERQUA/OpenVoiceUI) · [官网](https://openvoiceui.com) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MCERQUA/OpenVoiceUI) · [官网](https://openvoiceui.com) · 个人维护
 
 **浏览器语音优先的自托管 AI 助手前端：接入任意 LLM 与 TTS**
 

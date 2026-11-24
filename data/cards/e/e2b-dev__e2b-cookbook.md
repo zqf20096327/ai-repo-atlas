@@ -1,6 +1,6 @@
 # e2b-dev/e2b-cookbook
 
-⭐ 1,427 · TypeScript · 推送 2026-11-19 · [GitHub](https://github.com/e2b-dev/e2b-cookbook) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b-cookbook) · 组织维护
+⭐ 1,427 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/e2b-dev/e2b-cookbook) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b-cookbook) · 组织维护
 
 **面向使用 E2B SDK 构建的开发者的示例与指南集**
 

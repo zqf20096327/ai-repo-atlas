@@ -1,6 +1,6 @@
 # VillagePrefect/stable-diffusion-atelier
 
-⭐ 93 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/VillagePrefect/stable-diffusion-atelier) · 个人维护
+⭐ 92 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/VillagePrefect/stable-diffusion-atelier) · 个人维护
 
 **本地 AI 绘画（Stable Diffusion）启动笔记与构建分发仓库**
 

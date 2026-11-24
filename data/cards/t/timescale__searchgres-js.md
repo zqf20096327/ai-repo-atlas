@@ -1,6 +1,6 @@
 # timescale/searchgres-js
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/timescale/searchgres-js) · 组织维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/timescale/searchgres-js) · 组织维护
 
 **PostgreSQL 混合检索库：BM25+向量+RRF+结构化过滤**
 

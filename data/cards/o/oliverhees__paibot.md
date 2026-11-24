@@ -1,6 +1,6 @@
 # oliverhees/paibot
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/oliverhees/paibot) · [官网](https://paibot.de) · 个人维护
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/oliverhees/paibot) · [官网](https://paibot.de) · 个人维护
 
 **自托管个人 KI-Agent 团队：本地/EU 模型+数据脱敏闸门**
 

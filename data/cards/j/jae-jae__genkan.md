@@ -1,6 +1,6 @@
 # jae-jae/genkan
 
-⭐ 3 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jae-jae/genkan) · [官网](https://1team.top) · 个人维护 · 中文 README
+⭐ 3 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jae-jae/genkan) · [官网](https://1team.top) · 个人维护 · 中文 README
 
 **家庭实验室的 AI 对话式起始页/仪表盘**
 

@@ -1,6 +1,6 @@
 # Nocetic/flowly
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Nocetic/flowly) · [官网](https://www.useflowlyapp.com) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Nocetic/flowly) · [官网](https://www.useflowlyapp.com) · 组织维护
 
 **可自托管的开源个人 AI agent：自带记忆、技能与多渠道接入**
 

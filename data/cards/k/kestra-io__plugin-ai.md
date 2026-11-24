@@ -1,6 +1,6 @@
 # kestra-io/plugin-ai
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kestra-io/plugin-ai) · 组织维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kestra-io/plugin-ai) · 组织维护
 
 **Kestra 编排平台的 AI 插件，在工作流中接入生成式 AI**
 

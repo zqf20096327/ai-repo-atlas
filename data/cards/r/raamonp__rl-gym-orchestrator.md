@@ -1,6 +1,6 @@
 # raamonp/rl-gym-orchestrator
 
-⭐ 55 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/raamonp/rl-gym-orchestrator) · 组织维护
+⭐ 55 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/raamonp/rl-gym-orchestrator) · 组织维护
 
 **面向 LLM 的强化学习微调框架，生成式训练环境+多维奖励塑形**
 

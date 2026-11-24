@@ -1,6 +1,6 @@
 # car-mrazomor/nanocode-agent
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/car-mrazomor/nanocode-agent) · [官网](https://car-mrazomor.github.io/nanocode-agent/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/car-mrazomor/nanocode-agent) · [官网](https://car-mrazomor.github.io/nanocode-agent/) · 个人维护
 
 **单文件可读可改的终端编程 Agent，接 Claude 订阅、OpenRouter 或 Ollama 本地模型**
 

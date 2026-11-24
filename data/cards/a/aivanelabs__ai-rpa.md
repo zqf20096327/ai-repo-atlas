@@ -1,6 +1,6 @@
 # aivanelabs/ai-rpa
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aivanelabs/ai-rpa) · [官网](https://aivane.net/) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aivanelabs/ai-rpa) · [官网](https://aivane.net/) · 组织维护 · 中文 README
 
 **桌面或 AI agent 局域网控制 Android 手机的自动化工具（Beta）**
 

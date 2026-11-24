@@ -1,6 +1,6 @@
 # EverMind-AI/Raven
 
-⭐ 6,291 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/EverMind-AI/Raven) · [官网](https://raven.evermind.ai) · 组织维护 · 中文 README
+⭐ 6,306 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/EverMind-AI/Raven) · [官网](https://raven.evermind.ai) · 组织维护 · 中文 README
 
 **多智能体编排主机：统筹内置与第三方 agent 协作完成复杂任务**
 

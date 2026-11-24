@@ -1,6 +1,6 @@
 # can4hou6joeng4/boss-agent-cli
 
-⭐ 2,288 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) · [官网](https://can4hou6joeng4.github.io/boss-agent-cli/) · 个人维护 · 中文 README
+⭐ 2,293 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/can4hou6joeng4/boss-agent-cli) · [官网](https://can4hou6joeng4.github.io/boss-agent-cli/) · 个人维护 · 中文 README
 
 **面向真人与 AI Agent 的 BOSS 直聘求职/招聘 CLI**
 

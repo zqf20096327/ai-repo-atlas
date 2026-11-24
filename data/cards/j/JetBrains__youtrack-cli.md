@@ -1,6 +1,6 @@
 # JetBrains/youtrack-cli
 
-⭐ 16 · Go · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/JetBrains/youtrack-cli) · 组织维护
+⭐ 17 · Go · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/JetBrains/youtrack-cli) · 组织维护
 
 **YouTrack 官方命令行客户端，供终端用户与 AI agent 驱动项目管理**
 

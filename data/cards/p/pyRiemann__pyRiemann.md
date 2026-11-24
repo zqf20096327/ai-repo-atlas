@@ -1,6 +1,6 @@
 # pyRiemann/pyRiemann
 
-⭐ 785 · Python · BSD-3-Clause · 推送 2026-11-04 · [GitHub](https://github.com/pyRiemann/pyRiemann) · [官网](https://pyriemann.readthedocs.io) · 组织维护
+⭐ 785 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/pyRiemann/pyRiemann) · [官网](https://pyriemann.readthedocs.io) · 组织维护
 
 **基于黎曼几何的多变量数据（EEG/BCI/遥感）机器学习库**
 

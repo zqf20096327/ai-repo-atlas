@@ -1,6 +1,6 @@
 # PavelGrigoryevDS/awesome-data-analysis
 
-⭐ 2,226 · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/PavelGrigoryevDS/awesome-data-analysis) · [官网](https://pavelgrigoryevds.github.io/awesome-data-analysis/) · 个人维护
+⭐ 2,229 · CC0-1.0 · 推送 2026-11-01 · [GitHub](https://github.com/PavelGrigoryevDS/awesome-data-analysis) · [官网](https://pavelgrigoryevds.github.io/awesome-data-analysis/) · 个人维护
 
 **数据分析与数据科学资源清单：收录 500+ 工具、教程与学习路径**
 

@@ -1,6 +1,6 @@
 # lovstudio/Ataru
 
-⭐ 363 · Rust · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/lovstudio/Ataru) · [官网](https://lovstudio.ai/app/ataru) · 组织维护 · 中文 README
+⭐ 364 · Rust · Apache-2.0 · 推送 2026-08-24 · [GitHub](https://github.com/lovstudio/Ataru) · [官网](https://lovstudio.ai/app/ataru) · 组织维护 · 中文 README
 
 **本地 AI 会话记忆检索工具：Rust 搜索内核加桌面 GUI**
 

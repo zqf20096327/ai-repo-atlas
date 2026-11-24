@@ -1,6 +1,6 @@
 # soycodetrail/vibe-coding-gallery
 
-⭐ 11 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/soycodetrail/vibe-coding-gallery) · [官网](https://soycodetrail.top/vibe-coding) · 个人维护 · 中文 README
+⭐ 12 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/soycodetrail/vibe-coding-gallery) · [官网](https://soycodetrail.top/vibe-coding) · 个人维护 · 中文 README
 
 **AI 辅助开发作品的中文策展清单（783 条 / 15 分类）**
 

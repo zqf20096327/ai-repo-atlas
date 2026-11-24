@@ -1,6 +1,6 @@
 # crit-labs/crit-engines
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/crit-labs/crit-engines) · [官网](https://crit-hub.dev) · 组织维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/crit-labs/crit-engines) · [官网](https://crit-hub.dev) · 组织维护
 
 **crit-hub 收录的 LLM 推理引擎源码仓库**
 

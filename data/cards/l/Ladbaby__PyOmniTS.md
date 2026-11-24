@@ -1,6 +1,6 @@
 # Ladbaby/PyOmniTS
 
-⭐ 112 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Ladbaby/PyOmniTS) · [官网](https://ladbaby.github.io/PyOmniTS-docs/) · 组织维护
+⭐ 112 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Ladbaby/PyOmniTS) · [官网](https://ladbaby.github.io/PyOmniTS-docs/) · 组织维护
 
 **时间序列分析训练框架：任意模型×数据集×损失组合训练**
 

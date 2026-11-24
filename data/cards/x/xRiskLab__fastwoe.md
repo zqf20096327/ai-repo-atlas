@@ -1,6 +1,6 @@
 # xRiskLab/fastwoe
 
-⭐ 24 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/xRiskLab/fastwoe) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xRiskLab/fastwoe) · 组织维护
 
 **分类任务中类别特征的 WOE 编码与统计推断 Python 库**
 

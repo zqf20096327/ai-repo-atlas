@@ -1,6 +1,6 @@
 # upzare/Waffy
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/upzare/Waffy) · [官网](https://waffy.io) · 个人维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/upzare/Waffy) · [官网](https://waffy.io) · 个人维护
 
 **浏览器侧边栏 AI 自动化扩展：自然语言驱动网页操作**
 

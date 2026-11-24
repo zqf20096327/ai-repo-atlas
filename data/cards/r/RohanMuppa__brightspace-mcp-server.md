@@ -1,6 +1,6 @@
 # RohanMuppa/brightspace-mcp-server
 
-⭐ 68 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/RohanMuppa/brightspace-mcp-server) · [官网](https://www.npmjs.com/package/brightspace-mcp-server) · 个人维护
+⭐ 69 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/RohanMuppa/brightspace-mcp-server) · [官网](https://www.npmjs.com/package/brightspace-mcp-server) · 个人维护
 
 **让学生/教师通过 AI 应用查看 Brightspace 课程数据的 MCP 服务器**
 

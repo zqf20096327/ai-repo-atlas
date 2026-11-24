@@ -1,6 +1,6 @@
 # mojomast/open-higgsfield-skills
 
-⭐ 58 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mojomast/open-higgsfield-skills) · 组织维护
+⭐ 63 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/mojomast/open-higgsfield-skills) · 组织维护
 
 **让任意编码代理用开源权重从一句提示生成短片的 37 个技能包**
 

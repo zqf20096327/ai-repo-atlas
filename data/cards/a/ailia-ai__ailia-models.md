@@ -1,6 +1,6 @@
 # ailia-ai/ailia-models
 
-⭐ 2,406 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/ailia-ai/ailia-models) · 组织维护 · 中文 README
+⭐ 2,407 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/ailia-ai/ailia-models) · 组织维护 · 中文 README
 
 **428 个预训练 AI 模型合集，统一 CLI 运行推理**
 

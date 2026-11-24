@@ -1,6 +1,6 @@
 # lastmile-ai/aiconfig
 
-⭐ 1,087 · Python · MIT · 推送 2026-02-10 · [GitHub](https://github.com/lastmile-ai/aiconfig) · [官网](https://aiconfig.lastmileai.dev) · 组织维护
+⭐ 1,088 · Python · MIT · 推送 2026-02-10 · [GitHub](https://github.com/lastmile-ai/aiconfig) · [官网](https://aiconfig.lastmileai.dev) · 组织维护
 
 **配置化框架：将生成式 AI 提示词与模型参数存为可版本控制的 JSON**
 

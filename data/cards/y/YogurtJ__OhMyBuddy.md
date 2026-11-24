@@ -1,6 +1,6 @@
 # YogurtJ/OhMyBuddy
 
-⭐ 82 · JavaScript · ISC · 推送 2026-11-12 · [GitHub](https://github.com/YogurtJ/OhMyBuddy) · [官网](https://github.com/YogurtJ/OhMyBuddy#readme) · 个人维护 · 中文 README
+⭐ 83 · JavaScript · ISC · 推送 2026-11-12 · [GitHub](https://github.com/YogurtJ/OhMyBuddy) · [官网](https://github.com/YogurtJ/OhMyBuddy#readme) · 个人维护 · 中文 README
 
 **自托管个人 AI 助理：带可见长期记忆，浏览器/手机/微信可用**
 

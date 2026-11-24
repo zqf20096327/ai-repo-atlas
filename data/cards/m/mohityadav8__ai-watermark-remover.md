@@ -1,6 +1,6 @@
 # mohityadav8/ai-watermark-remover
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/mohityadav8/ai-watermark-remover) · [官网](https://tools.job-find.xyz) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mohityadav8/ai-watermark-remover) · [官网](https://tools.job-find.xyz) · 个人维护
 
 **检测并剥离文本与文件中 AI 溯源水印的工具（agent 技能+服务）**
 

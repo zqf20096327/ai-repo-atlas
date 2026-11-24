@@ -1,10 +1,10 @@
 # AnalyseDeCircuit/oxideterm
 
-⭐ 1,971 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [官网](https://oxideterm.app) · 个人维护 · 中文 README
+⭐ 1,992 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AnalyseDeCircuit/oxideterm) · [官网](https://oxideterm.app) · 个人维护 · 中文 README
 
-**给运维和开发者的原生多协议远程工作区客户端**
+**面向服务器运维者的开源原生 SSH 多合一工作区客户端**
 
-用 Rust 与 GPUI 构建的 SSH 客户端，覆盖 macOS、Windows 和 Linux，无 WebView 与遥测。每个服务器连接对应一个工作区，聚合终端、SFTP 文件管理、端口转发、远程 IDE、主机监控与远程桌面（RDP/VNC，插件形式）。支持从 ~/.ssh/config 及 SecureCRT、Xshell、Termius 等客户端导入连接，会话按组管理。AI 部分为可选的 OxideSens 助手，使用用户自选的供应商与 API key。以 GPL-3.0 开源，提供安装包下载。
+macOS/Windows/Linux 上的 SSH 客户端，每个连接对应一个工作区，整合终端、SFTP 文件管理、端口转发、远程代码编辑、主机监控与远程桌面（RDP/VNC，插件形式）。基于 Rust 与 GPUI 绘制界面、无 WebView，SSH 栈用 russh/ring 实现，不依赖 OpenSSL。支持 Mosh、Telnet、串口，可从 ~/.ssh/config 及多款客户端导入连接。内置 OxideSens AI 助手为可选功能，使用用户自选的提供商与 API key。GPL-3.0 开源，无遥测。
 
 ## 筛选速览
 
@@ -13,24 +13,24 @@
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单窗口工作区聚合终端、SFTP、端口转发、IDE 与主机监控
-- 原生 GPUI 渲染，空闲内存约 81 MB（macOS）/24 MB（Windows）
-- 纯 Rust SSH 栈（russh + ring），不依赖 OpenSSL/libssh2
-- 支持从 ~/.ssh/config 及 8 种其他客户端导入连接
+- 单窗口多服务器工作区：终端、SFTP、端口转发、IDE 共享一条 SSH 连接
+- Rust + GPUI 原生渲染，无 WebView，空闲内存约 24–81 MB
+- 支持 SSH/Mosh/Telnet/串口/RDP/VNC 及多种密钥与代理认证方式
+- OxideSens 助手按用户自带提供商与 API key 运行
 
 ## 适用场景
 
-- 用带断线恢复的 SSH 终端管理多台远程服务器
-- 在同一工作区内进行双栏 SFTP 传文件和远程代码编辑
-- 通过一键转发快速访问服务器上监听的服务端口
-- 自带 key 接入 AI 助手辅助操作
+- 用一个客户端统一管理大量服务器的终端、文件与转发
+- 网络不稳定环境下保持 vim/htop 等全屏程序会话
+- 在远程项目上进行编辑并查看主机资源监控
+- 把其他 SSH 客户端的既有连接配置迁移过来
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b751cbf19699` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `55f5aee62d12` · [字段定义](../../DATASET.md)*

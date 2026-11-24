@@ -1,10 +1,10 @@
 # HKUDS/LightRAG
 
-⭐ 40,815 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护 · 中文 README
+⭐ 40,836 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HKUDS/LightRAG) · [官网](https://arxiv.org/abs/2410.05779) · 组织维护 · 中文 README
 
-**给开发者的图结构化检索增强生成框架与服务器**
+**给开发者用的图结构 RAG 框架：文档入库→知识图谱检索问答**
 
-LightRAG 提供基于知识图谱的检索增强生成（RAG）实现，包含 Python 库与带 WebUI 的 API 服务器（默认端口 9621）。机制上：文档经解析与分块后抽取实体构建知识图谱，查询支持多模式检索与 reranker；存储支持本地文件、PostgreSQL、Neo4j、MongoDB、OpenSearch 等后端；通过 RAG-Anything 集成 MinerU/Docling 做多模态解析，集成 RAGAS 评估与 Langfuse 追踪。限制：需配置 LLM 与嵌入模型的 API key 或兼容端点；服务器默认绑定 0.0.0.0 且认证默认关闭，README 提示共享网络部署前需绑定私有地址或启用认证。
+来自 HKUDS 的检索增强生成框架：将文档解析、分块后抽取实体构建知识图谱，提供 naive/local/global/hybrid 等查询模式与重排序，输出带引用来源的回答；内置 API 服务器与 WebUI 支持文档插入、查询和图谱可视化。存储支持本地文件、PostgreSQL、Neo4j、MongoDB、OpenSearch 等；经 MinerU/Docling 集成多模态解析（RAG-Anything 已合并），并集成 RAGAS 评测与 Langfuse 追踪。部署方式包括 PyPI/uv、源码构建（WebUI 需 bun）与 Docker Compose，README 含共享网络部署的安全警告。
 
 ## 筛选速览
 
@@ -27,27 +27,27 @@ LightRAG 提供基于知识图谱的检索增强生成（RAG）实现，包含 P
 
 ## 能力要点
 
-- 知识图谱索引与检索流程（indexing/retrieval flowchart 提供图示）
-- 多存储后端：PostgreSQL/Neo4j/MongoDB/OpenSearch 可作一体化存储
-- WebUI、REST API 与 Ollama 兼容路由（/api/*）
-- 交互式 setup wizard 与 Docker Compose 部署
+- 基于知识图谱的索引与检索流程，支持 5 种文本分块策略（L14）
+- 角色化 LLM 配置：EXTRACT/QUERY/KEYWORDS/VLM 四角色独立设置
+- 存储后端可选本地文件、PostgreSQL、Neo4j、MongoDB、OpenSearch 等
+- lightrag-server 提供 WebUI 与 Ollama 兼容 API，支持引用溯源
 
 ## 适用场景
 
-- 把文档库建成知识图谱并提供 WebUI 查询
-- 部署带来源引用（citation）的 RAG 问答服务
-- 对 PDF/Office/表格/公式等多模态文档做解析与检索
-- 离线/内网环境下预装依赖部署 RAG 服务
+- 把一批 PDF/Word 文档构建成可问答的知识库
+- 需要引用出处与文档可追溯性的企业知识问答
+- 用 Docker 在本地/内网自托管 RAG 服务
+- 用 RAGAS 评测并追踪 RAG 检索质量
 
 ## 场景标签
 
-`RAG` `知识图谱` `文档解析` · 领域:知识与检索
+`RAG` `知识图谱` `文档解析` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L3: # 🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation
-> L41: ## Installation
-> L119: Open `http://localhost:9621/webui` for the WebUI. The interactive REST API docs are at `http://localhost:9621/docs
+> L121: Open `http://localhost:9621/webui` for the WebUI. The interactive REST API docs are at `http://localhost:9621/docs
+> L43: ## Installation
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `bcd726939d40` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7cb255d72f13` · [字段定义](../../DATASET.md)*

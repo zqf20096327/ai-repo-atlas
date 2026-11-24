@@ -1,6 +1,6 @@
 # thoughtspot/visual-embed-sdk
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/thoughtspot/visual-embed-sdk) · [官网](https://developers.thoughtspot.com) · 组织维护
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/thoughtspot/visual-embed-sdk) · [官网](https://developers.thoughtspot.com) · 组织维护
 
 **将 ThoughtSpot 分析与 AI 搜索嵌入 Web 应用的前端 SDK**
 

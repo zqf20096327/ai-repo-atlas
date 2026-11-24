@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-H3-Image
 
-⭐ 447 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3-Image) · 组织维护 · 中文 README
+⭐ 456 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3-Image) · 组织维护 · 中文 README
 
 **开源权重图像生成与编辑模型，支持16MP文生图与多图编辑**
 

@@ -1,6 +1,6 @@
 # SajjadPSavoji/awesome-weight-space-programming
 
-⭐ 9 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/SajjadPSavoji/awesome-weight-space-programming) · [官网](https://rikiyat.github.io/blog/weight-space-programming/) · 个人维护
+⭐ 9 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/SajjadPSavoji/awesome-weight-space-programming) · [官网](https://rikiyat.github.io/blog/weight-space-programming/) · 个人维护
 
 **权重空间编程论文与代码的每日更新策展清单**
 

@@ -1,6 +1,6 @@
 # NightMean/OlliteRT
 
-⭐ 647 · Kotlin · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/NightMean/OlliteRT) · 个人维护
+⭐ 649 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NightMean/OlliteRT) · 个人维护
 
 **把 Android 手机变成 OpenAI 兼容的本地 LLM 推理服务器**
 

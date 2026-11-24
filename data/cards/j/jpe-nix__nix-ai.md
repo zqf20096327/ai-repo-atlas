@@ -1,6 +1,6 @@
 # jpe-nix/nix-ai
 
-⭐ 11 · Nix · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jpe-nix/nix-ai) · 个人维护
+⭐ 11 · Nix · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jpe-nix/nix-ai) · 个人维护
 
 **Nix 声明式管理 AI 编码工具链与 MCP 服务器的 home-manager 模块**
 

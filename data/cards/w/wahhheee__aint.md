@@ -1,6 +1,6 @@
 # wahhheee/aint
 
-⭐ 25 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wahhheee/aint) · 个人维护 · 中文 README
+⭐ 26 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wahhheee/aint) · 个人维护 · 中文 README
 
 **本地运行的 AI 互动小说运行时，导入作品连接模型阅读游玩**
 

@@ -1,6 +1,6 @@
 # microsoft/TokenEconomizer
 
-⭐ 7,955 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/TokenEconomizer) · 组织维护
+⭐ 8,030 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/TokenEconomizer) · 组织维护
 
 **为编程 agent 降低会话成本的插件：跨会话学习剪除浪费**
 

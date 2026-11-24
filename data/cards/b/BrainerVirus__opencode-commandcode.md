@@ -1,6 +1,6 @@
 # BrainerVirus/opencode-commandcode
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BrainerVirus/opencode-commandcode) · [官网](https://www.npmjs.com/package/@brainervirus/opencode-commandcode) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/BrainerVirus/opencode-commandcode) · [官网](https://www.npmjs.com/package/@brainervirus/opencode-commandcode) · 个人维护
 
 **为 OpenCode 接入 Command Code Provider API 的插件**
 

@@ -1,6 +1,6 @@
 # wq19901103wq/wechat-mac-rpa
 
-⭐ 152 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wq19901103wq/wechat-mac-rpa) · [官网](https://wq19901103wq.github.io/wechat-mac-rpa/) · 个人维护 · 中文 README
+⭐ 154 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wq19901103wq/wechat-mac-rpa) · [官网](https://wq19901103wq.github.io/wechat-mac-rpa/) · 个人维护 · 中文 README
 
 **macOS 微信自动回复框架：视觉感知 + LLM Agent 读屏操作**
 

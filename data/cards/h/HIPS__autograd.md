@@ -1,6 +1,6 @@
 # HIPS/autograd
 
-⭐ 7,559 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/HIPS/autograd) · 组织维护
+⭐ 7,559 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HIPS/autograd) · 组织维护
 
 **对原生 Python/NumPy 代码做自动微分的库，服务于梯度优化**
 

@@ -1,6 +1,6 @@
 # NVIDIA/auto-ontology-eval
 
-⭐ 191 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/auto-ontology-eval) · 组织维护
+⭐ 192 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/auto-ontology-eval) · 组织维护
 
 **Text-to-SQL 评测工具集：数据集灌入、检索评测与确定性评分**
 

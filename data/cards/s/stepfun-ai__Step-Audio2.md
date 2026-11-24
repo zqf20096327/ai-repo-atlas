@@ -1,6 +1,6 @@
 # stepfun-ai/Step-Audio2
 
-⭐ 1,530 · Python · Apache-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/stepfun-ai/Step-Audio2) · 组织维护 · 中文 README
+⭐ 1,531 · Python · Apache-2.0 · 推送 2026-03-16 · [GitHub](https://github.com/stepfun-ai/Step-Audio2) · 组织维护 · 中文 README
 
 **端到端多模态语音大模型：音频理解与语音对话**
 

@@ -1,6 +1,6 @@
 # matrixmapai/openabcode
 
-⭐ 462 · TypeScript · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/matrixmapai/openabcode) · [官网](https://openabcode.com) · 组织维护
+⭐ 465 · TypeScript · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/matrixmapai/openabcode) · [官网](https://openabcode.com) · 组织维护
 
 **按任务类型动态路由多模型的终端编码 agent**
 

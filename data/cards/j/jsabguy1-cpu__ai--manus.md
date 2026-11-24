@@ -1,6 +1,6 @@
 # jsabguy1-cpu/ai--manus
 
-⭐ 194 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jsabguy1-cpu/ai--manus) · 个人维护
+⭐ 190 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/jsabguy1-cpu/ai--manus) · 个人维护
 
 **自主 AI Agent 助手：代用户运行代码并控制浏览器完成任务**
 

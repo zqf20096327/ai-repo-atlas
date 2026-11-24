@@ -1,6 +1,6 @@
 # agentevals-dev/agentevals
 
-⭐ 171 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/agentevals-dev/agentevals) · [官网](https://aevals.ai/) · 组织维护
+⭐ 171 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agentevals-dev/agentevals) · [官网](https://aevals.ai/) · 组织维护
 
 **基于 OpenTelemetry 追踪的 AI agent 评测工具，无需重跑或专用 SDK**
 

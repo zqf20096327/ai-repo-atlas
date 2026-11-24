@@ -1,6 +1,6 @@
 # ralis-ai/weir
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/ralis-ai/weir) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/ralis-ai/weir) · 组织维护
 
 **检测 AI agent 泄露 API key 的安全测试与审计工具**
 

@@ -1,6 +1,6 @@
 # healthonrails/annolid
 
-⭐ 60 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/healthonrails/annolid) · 组织维护
+⭐ 60 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/healthonrails/annolid) · 组织维护
 
 **科研动物视频的标注、分割、多目标追踪与行为分析桌面工具**
 

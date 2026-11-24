@@ -1,6 +1,6 @@
 # getmetal/motorhead
 
-⭐ 915 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/getmetal/motorhead) · [官网](https://getmetal.io) · 组织维护
+⭐ 915 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/getmetal/motorhead) · [官网](https://getmetal.io) · 组织维护
 
 **为 LLM 应用提供记忆与检索的服务端（已停止维护）**
 

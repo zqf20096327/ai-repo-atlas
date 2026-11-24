@@ -1,6 +1,6 @@
 # rahatarch/brud
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rahatarch/brud) · 组织维护
+⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rahatarch/brud) · 组织维护
 
 **面向自主 agent 的可嵌入式零信任微内核运行时**
 

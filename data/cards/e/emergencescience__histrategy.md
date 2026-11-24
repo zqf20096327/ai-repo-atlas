@@ -1,6 +1,6 @@
 # emergencescience/histrategy
 
-⭐ 37 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/emergencescience/histrategy) · [官网](https://emergence.science/play/histrategy) · 组织维护 · 中文 README
+⭐ 37 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/emergencescience/histrategy) · [官网](https://emergence.science/play/histrategy) · 组织维护 · 中文 README
 
 **LLM 驱动的历史叙事策略游戏（三国/罗马/南明）**
 

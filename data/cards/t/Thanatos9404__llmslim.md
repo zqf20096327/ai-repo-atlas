@@ -1,6 +1,6 @@
 # Thanatos9404/llmslim
 
-⭐ 27 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Thanatos9404/llmslim) · [官网](https://www.llmslim.app) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Thanatos9404/llmslim) · [官网](https://www.llmslim.app) · 个人维护
 
 **给 AI agent 的长期记忆与上下文压缩层：无 LLM 调用**
 

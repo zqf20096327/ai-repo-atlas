@@ -1,6 +1,6 @@
 # airblackbox/airblackbox
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/airblackbox/airblackbox) · [官网](https://airblackbox.ai) · 个人维护
+⭐ 25 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/airblackbox/airblackbox) · [官网](https://airblackbox.ai) · 个人维护
 
 **AI agent 飞行记录仪：记录、回放、合规扫描与行为门控**
 

@@ -1,6 +1,6 @@
 # okfcli/okf
 
-⭐ 31 · Go · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/okfcli/okf) · [官网](https://useokf.com) · 组织维护
+⭐ 31 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/okfcli/okf) · [官网](https://useokf.com) · 组织维护
 
 **OKF 知识目录格式的厂商中立 Go CLI：创建/校验/索引/搜索**
 

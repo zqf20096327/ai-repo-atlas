@@ -1,6 +1,6 @@
 # roboflow/roboflow-python
 
-⭐ 641 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/roboflow/roboflow-python) · [官网](https://docs.roboflow.com/python) · 组织维护
+⭐ 641 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/roboflow/roboflow-python) · [官网](https://docs.roboflow.com/python) · 组织维护
 
 **Roboflow 官方 Python SDK：管理视觉数据集与模型部署**
 

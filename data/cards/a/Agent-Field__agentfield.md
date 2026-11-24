@@ -1,10 +1,10 @@
 # Agent-Field/agentfield
 
-⭐ 2,666 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Agent-Field/agentfield) · [官网](http://www.agentfield.ai) · 组织维护
+⭐ 2,667 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Agent-Field/agentfield) · [官网](http://www.agentfield.ai) · 组织维护
 
-**把 AI 代理像 API 一样构建、运行与扩展的后端控制面**
+**开发者构建运行扩展 AI 代理的开源控制平面**
 
-开源（Apache 2.0）的 AI 代理控制面：用 Python/Go/TypeScript 编写的代理函数自动暴露为 REST 端点，控制面负责路由、异步执行、队列、重试、跨代理调用与可观测性。提供四作用域内存、W3C DID 代理身份、基于标签的策略门控与签名审计轨迹，支持金丝雀发布、人工审批暂停与 Prometheus 指标。可通过 curl 安装脚本、Docker Compose 或 Kubernetes 部署，附 Dashboard、Python/Go/TypeScript SDK 与 REST API。
+AgentField 是一个 Apache 2.0 的开源控制平面，把用 Python、Go 或 TypeScript 编写的 agent 函数转换为可被其他服务调用的 REST 端点，提供路由、异步执行、重试、内存（KV+向量检索四作用域）、服务发现与可观测性（工作流 DAG、Prometheus 指标）。控制平面为无状态 Go 服务，可水平扩展；每个 agent 获得基于 W3C DID 的加密身份与签名审计轨迹。提供 Python/Go/TypeScript SDK、REST API、Dashboard、安装脚本及 Docker Compose、Kubernetes 部署方式。
 
 ## 筛选速览
 
@@ -13,34 +13,33 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 每个函数自动暴露为 REST 端点，控制面处理扇出、队列与重试
-- 代理获得 W3C DID 加密身份与签名审计轨迹，策略由基础设施执行
-- 四作用域内存（global/actor/session/workflow）含 KV 与向量检索，无需 Redis
-- Harness 编排 CodeAF/Claude Code/Codex/Gemini CLI 等多轮编码代理
+- 每个函数自动暴露为 REST 端点，跨 agent 调用经控制平面路由
+- 异步执行支持 webhooks/SSE 与重试，单次运行可达数小时或数天
+- 基于 W3C DID 的 agent 加密身份、策略门控与可离线验证的审计凭证
+- 支持金丝雀发布、人工审批暂停与多语言 SDK
 
 ## 适用场景
 
-- 把内部代理以 REST API 形式提供给前后端或其他服务调用
-- 一个请求扇出到上千代理分支并追踪每条执行路径
-- 需要人工审批、审计轨迹与访问控制的代理生产部署
-- 跨语言团队用 Python/Go/TypeScript 编写代理并统一治理
+- 把内部 agent 以 API 形式暴露给前端/后端/定时任务调用
+- 一个请求扇出到数千个 agent 分支的场景编排
+- 企业需要对 agent 执行做身份、策略与审计治理
+- 通过 /agentfield 规格在编码代理中生成多 agent 后端
 
 ## 场景标签
 
-`编码 Agent` `LLM 可观测性` `Agent 框架` · 领域:Agent 开发
+`LLM 可观测性` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L21: AgentField is an open-source control plane that lets you build AI agents callable by any service in your stack - fr
-> L117: Most agent tools help you **write** agent logic. AgentField is what **runs** it in production: the layer that make
-> L141: AgentField is an open-source (Apache 2.0) framework and control plane: you write agents in it and they run as back
+> L145: AgentField is an open-source (Apache 2.0) framework and control plane: you write agents in it and they run as back
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `bc663e48afbb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a280abf7661e` · [字段定义](../../DATASET.md)*

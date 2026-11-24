@@ -1,6 +1,6 @@
 # longsurf-ai/openchart
 
-⭐ 404 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/longsurf-ai/openchart) · [官网](https://chart.chat) · 组织维护
+⭐ 407 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/longsurf-ai/openchart) · [官网](https://chart.chat) · 组织维护
 
 **开源交易图表工作台，接入自有 AI agent 做市场研究**
 

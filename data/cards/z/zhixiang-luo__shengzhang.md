@@ -1,6 +1,6 @@
 # zhixiang-luo/shengzhang
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zhixiang-luo/shengzhang) · [官网](https://bigai.xin/shengzhang/) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zhixiang-luo/shengzhang) · [官网](https://bigai.xin/shengzhang/) · 个人维护 · 中文 README
 
 **面向年轻个人用户的语音一句话记账应用**
 

@@ -1,6 +1,6 @@
 # heilcheng/awesome-agent-skills
 
-⭐ 6,424 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/heilcheng/awesome-agent-skills) · [官网](http://agent-skill.co) · 个人维护
+⭐ 6,425 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/heilcheng/awesome-agent-skills) · [官网](http://agent-skill.co) · 个人维护
 
 **面向 AI agent 使用者的 SKILL.md 技能目录与教程清单**
 

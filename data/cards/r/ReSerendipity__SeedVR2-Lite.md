@@ -1,6 +1,6 @@
 # ReSerendipity/SeedVR2-Lite
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ReSerendipity/SeedVR2-Lite) · 个人维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ReSerendipity/SeedVR2-Lite) · 个人维护 · 中文 README
 
 **本地视频/图像超分修复工具箱：上传即得 SeedVR2 修复结果**
 

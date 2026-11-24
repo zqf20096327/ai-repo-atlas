@@ -1,6 +1,6 @@
 # JGRFW/comfyui-h3-image
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/JGRFW/comfyui-h3-image) · [官网](https://huggingface.co/PrunaAI/p-h3-image-comfy) · 个人维护 · 中文 README
+⭐ 8 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/JGRFW/comfyui-h3-image) · [官网](https://huggingface.co/PrunaAI/p-h3-image-comfy) · 个人维护 · 中文 README
 
 **ComfyUI 用户封装 MiniMax H3 文生图/图片编辑工作流**
 

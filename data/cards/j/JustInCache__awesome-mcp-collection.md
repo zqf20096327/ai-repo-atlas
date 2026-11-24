@@ -1,6 +1,6 @@
 # JustInCache/awesome-mcp-collection
 
-⭐ 19 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JustInCache/awesome-mcp-collection) · [官网](https://github.com/JustInCache/awesome-mcp-collection) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JustInCache/awesome-mcp-collection) · [官网](https://github.com/JustInCache/awesome-mcp-collection) · 个人维护
 
 **MCP 服务器策展清单：按类别/技术栈组织并附配置**
 

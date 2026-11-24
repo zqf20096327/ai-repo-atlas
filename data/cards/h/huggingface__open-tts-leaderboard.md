@@ -1,6 +1,6 @@
 # huggingface/open-tts-leaderboard
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/huggingface/open-tts-leaderboard) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/open-tts-leaderboard) · 组织维护
 
 **Open TTS Leaderboard 的评测脚本：批量评测 TTS 模型并发布榜单**
 

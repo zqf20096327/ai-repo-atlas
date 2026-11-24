@@ -1,6 +1,6 @@
 # jenkinsci/explain-error-plugin
 
-⭐ 46 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jenkinsci/explain-error-plugin) · [官网](https://plugins.jenkins.io/explain-error/) · 组织维护
+⭐ 46 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jenkinsci/explain-error-plugin) · [官网](https://plugins.jenkins.io/explain-error/) · 组织维护
 
 **Jenkins 插件：用 AI 解释失败构建的原因并给出修复建议**
 

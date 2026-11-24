@@ -1,6 +1,6 @@
 # huggingface/AnyLanguageModel
 
-⭐ 989 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/AnyLanguageModel) · 组织维护
+⭐ 990 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/AnyLanguageModel) · 组织维护
 
 **Swift 开发者接入多语言模型后端的 API 兼容层**
 

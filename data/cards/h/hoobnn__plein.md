@@ -1,6 +1,6 @@
 # hoobnn/plein
 
-⭐ 6 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/hoobnn/plein) · [官网](https://plein.ikuyu.com) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hoobnn/plein) · [官网](https://plein.ikuyu.com) · 个人维护 · 中文 README
 
 **开源 AI 无限画布短剧创作工具：从创意到成片全流程节点化**
 

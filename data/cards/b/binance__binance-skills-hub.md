@@ -1,6 +1,6 @@
 # binance/binance-skills-hub
 
-⭐ 1,229 · Python · 推送 2026-11-12 · [GitHub](https://github.com/binance/binance-skills-hub) · 组织维护
+⭐ 1,230 · Python · 推送 2026-11-12 · [GitHub](https://github.com/binance/binance-skills-hub) · 组织维护
 
 **币安的 AI agent 加密技能市场：搜索/交易/钱包/DeFi**
 

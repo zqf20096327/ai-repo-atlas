@@ -1,6 +1,6 @@
 # MDVR9980/Employment-Scam-Detection
 
-⭐ 25 · Jupyter Notebook · 推送 2025-11-27 · [GitHub](https://github.com/MDVR9980/Employment-Scam-Detection) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 NLP 与机器学习检测虚假招聘广告的项目（SVM ~98%）**
 

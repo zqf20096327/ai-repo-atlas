@@ -1,6 +1,6 @@
 # OpenNMT/CTranslate2
 
-⭐ 4,761 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/OpenNMT/CTranslate2) · [官网](https://opennmt.net/CTranslate2) · 组织维护
+⭐ 4,762 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/OpenNMT/CTranslate2) · [官网](https://opennmt.net/CTranslate2) · 组织维护
 
 **给开发者用的 Transformer 模型高效推理引擎（C++/Python）**
 

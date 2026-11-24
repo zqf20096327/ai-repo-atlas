@@ -1,6 +1,6 @@
 # NipunaRanasinghe/awesome-ai-agents
 
-⭐ 61 · HTML · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/NipunaRanasinghe/awesome-ai-agents) · [官网](https://nipunaranasinghe.github.io/awesome-ai-agents) · 个人维护
+⭐ 62 · HTML · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/NipunaRanasinghe/awesome-ai-agents) · [官网](https://nipunaranasinghe.github.io/awesome-ai-agents) · 个人维护
 
 **AI agent 框架与工具的策展清单**
 

@@ -1,6 +1,6 @@
 # paiml/rust-de-specialization
 
-⭐ 13 · Makefile · MIT · 推送 2026-11-20 · [GitHub](https://github.com/paiml/rust-de-specialization) · 组织维护
+⭐ 13 · Makefile · MIT · 推送 2026-11-22 · [GitHub](https://github.com/paiml/rust-de-specialization) · 组织维护
 
 **Rust 数据工程 Coursera 专项课程目录（31 门，含配套代码）**
 

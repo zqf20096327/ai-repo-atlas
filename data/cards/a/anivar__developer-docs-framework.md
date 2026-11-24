@@ -1,6 +1,6 @@
 # anivar/developer-docs-framework
 
-⭐ 18 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/anivar/developer-docs-framework) · [官网](https://skills.sh/anivar/developer-docs-framework) · 个人维护
+⭐ 19 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/anivar/developer-docs-framework) · [官网](https://skills.sh/anivar/developer-docs-framework) · 个人维护
 
 **面向编码 agent 的技术文档写作框架技能包（27 规则）**
 

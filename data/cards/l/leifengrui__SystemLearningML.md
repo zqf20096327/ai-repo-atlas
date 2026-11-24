@@ -1,6 +1,6 @@
 # leifengrui/SystemLearningML
 
-⭐ 33 · 推送 2026-11-05 · [GitHub](https://github.com/leifengrui/SystemLearningML) · 个人维护 · 中文 README
+⭐ 33 · 推送 2026-11-23 · [GitHub](https://github.com/leifengrui/SystemLearningML) · 个人维护 · 中文 README
 
 **ML/LLM/RL 全栈知识库：Obsidian 双链笔记，供人与 agent 共用**
 

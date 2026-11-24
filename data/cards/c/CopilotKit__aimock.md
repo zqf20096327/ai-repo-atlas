@@ -1,6 +1,6 @@
 # CopilotKit/aimock
 
-⭐ 1,031 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/CopilotKit/aimock) · [官网](http://aimock.copilotkit.dev/) · 组织维护
+⭐ 1,032 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CopilotKit/aimock) · [官网](http://aimock.copilotkit.dev/) · 组织维护
 
 **AI 应用测试用本地 mock 服务器：模拟 LLM API/MCP/向量库等**
 

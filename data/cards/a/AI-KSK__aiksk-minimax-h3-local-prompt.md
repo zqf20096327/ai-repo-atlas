@@ -1,6 +1,6 @@
 # AI-KSK/aiksk-minimax-h3-local-prompt
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt) · 个人维护 · 中文 README
+⭐ 52 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/AI-KSK/aiksk-minimax-h3-local-prompt) · 个人维护 · 中文 README
 
 **MiniMax H3 视频生成提示词工程 Skill 规范包**
 

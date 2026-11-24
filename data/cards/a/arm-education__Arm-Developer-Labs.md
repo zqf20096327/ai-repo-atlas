@@ -1,6 +1,6 @@
 # arm-education/Arm-Developer-Labs
 
-⭐ 45 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/arm-education/Arm-Developer-Labs) · [官网](https://arm-education.github.io/Arm-Developer-Labs/) · 组织维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/arm-education/Arm-Developer-Labs) · [官网](https://arm-education.github.io/Arm-Developer-Labs/) · 组织维护
 
 **Arm 官方的产业相关项目清单：面向学生与开发者**
 

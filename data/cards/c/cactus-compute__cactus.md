@@ -1,6 +1,6 @@
 # cactus-compute/cactus
 
-⭐ 14,885 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/cactus-compute/cactus) · [官网](https://cactuscompute.com) · 组织维护
+⭐ 14,898 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cactus-compute/cactus) · [官网](https://cactuscompute.com) · 组织维护
 
 **消费级设备上的本地文本/语音/视觉模型运行库**
 

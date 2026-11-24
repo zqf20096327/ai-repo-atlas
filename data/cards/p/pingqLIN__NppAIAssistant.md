@@ -1,6 +1,6 @@
 # pingqLIN/NppAIAssistant
 
-⭐ 10 · C++ · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/pingqLIN/NppAIAssistant) · 个人维护 · 中文 README
+⭐ 11 · C++ · NOASSERTION · 推送 2026-10-05 · [GitHub](https://github.com/pingqLIN/NppAIAssistant) · 个人维护 · 中文 README
 
 **给 Notepad++ 用户的轻量 AI 助手插件，可查看提示词**
 

@@ -1,6 +1,6 @@
 # emarco177/langgraph-course
 
-⭐ 754 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/emarco177/langgraph-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
+⭐ 757 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/emarco177/langgraph-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
 
 **面向开发者的 LangGraph 实战课程配套代码仓库**
 

@@ -1,6 +1,6 @@
 # native-bond-lab/Jev-Interaction
 
-⭐ 95 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/native-bond-lab/Jev-Interaction) · [官网](https://pupunpu-jev-interaction.hf.space/) · 组织维护 · 中文 README
+⭐ 127 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/native-bond-lab/Jev-Interaction) · [官网](https://pupunpu-jev-interaction.hf.space/) · 组织维护 · 中文 README
 
 **全双工语音交互框架：用自然语言决策控制轮次切换**
 

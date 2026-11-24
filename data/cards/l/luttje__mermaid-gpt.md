@@ -1,6 +1,6 @@
 # luttje/mermaid-gpt
 
-⭐ 18 · Svelte · MIT · 推送 2026-01-06 · [GitHub](https://github.com/luttje/mermaid-gpt) · [官网](https://luttje.github.io/mermaid-gpt/) · 个人维护
+⭐ 18 · Svelte · MIT · 推送 2026-11-23 · [GitHub](https://github.com/luttje/mermaid-gpt) · [官网](https://luttje.github.io/mermaid-gpt/) · 个人维护
 
 **用 GPT-3 从自然语言生成 Mermaid 图表（类图/ERD）**
 

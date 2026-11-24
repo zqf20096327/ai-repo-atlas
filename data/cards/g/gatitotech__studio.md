@@ -1,6 +1,6 @@
 # gatitotech/studio
 
-⭐ 4 · JavaScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gatitotech/studio) · 组织维护
+⭐ 5 · JavaScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gatitotech/studio) · 组织维护
 
 **面向开发者的全屏终端编码 agent 客户端**
 

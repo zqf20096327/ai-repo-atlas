@@ -1,6 +1,6 @@
 # openai/openai-cs-agents-demo
 
-⭐ 6,619 · Python · MIT · 推送 2025-12-18 · [GitHub](https://github.com/openai/openai-cs-agents-demo) · 组织维护
+⭐ 6,617 · Python · MIT · 推送 2025-12-18 · [GitHub](https://github.com/openai/openai-cs-agents-demo) · 组织维护
 
 **OpenAI Agents SDK 客服智能体示例：航班客服多 Agent 编排**
 

@@ -1,6 +1,6 @@
 # choushunn/awesome-RK3588
 
-⭐ 622 · CC0-1.0 · 推送 2026-11-15 · [GitHub](https://github.com/choushunn/awesome-RK3588) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **RK3588 芯片开发资源策展清单：SDK、模型、板卡、系统一册收**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | CC0-1.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

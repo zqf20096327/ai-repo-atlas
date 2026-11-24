@@ -1,6 +1,6 @@
 # CrayLabs/SmartSim
 
-⭐ 276 · Python · BSD-2-Clause · 推送 2026-10-26 · [GitHub](https://github.com/CrayLabs/SmartSim) · 组织维护
+⭐ 277 · Python · BSD-2-Clause · 推送 2026-10-26 · [GitHub](https://github.com/CrayLabs/SmartSim) · 组织维护
 
 **在 HPC 系统上启动 ML 与仿真工作流的基础设施库**
 

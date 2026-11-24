@@ -1,6 +1,6 @@
 # harry0703/MoneyPrinterTurbo
 
-⭐ 145,084 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/harry0703/MoneyPrinterTurbo) · 个人维护 · 中文 README
+⭐ 145,244 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/harry0703/MoneyPrinterTurbo) · 个人维护 · 中文 README
 
 **给内容创作者：从主题一键生成脚本配音字幕的高清短视频**
 

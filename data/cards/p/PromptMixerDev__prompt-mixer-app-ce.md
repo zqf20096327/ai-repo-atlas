@@ -1,6 +1,6 @@
 # PromptMixerDev/prompt-mixer-app-ce
 
-⭐ 85 · TypeScript · MIT · 推送 2025-11-28 · [GitHub](https://github.com/PromptMixerDev/prompt-mixer-app-ce) · [官网](https://www.promptmixer.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **测试与管理提示词链的桌面应用，供对比多个 LLM 输出**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

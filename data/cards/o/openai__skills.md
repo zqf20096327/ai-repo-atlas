@@ -1,6 +1,6 @@
 # openai/skills
 
-⭐ 28,910 · Python · 推送 2026-10-28 · [GitHub](https://github.com/openai/skills) · 组织维护
+⭐ 29,025 · Python · 推送 2026-10-28 · [GitHub](https://github.com/openai/skills) · 组织维护
 
 **为 Codex 提供可发现、可复用的 AI agent 技能目录**
 

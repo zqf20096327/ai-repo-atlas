@@ -1,6 +1,6 @@
 # opus-pro/reelmakeeasy
 
-⭐ 7 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/opus-pro/reelmakeeasy) · [官网](https://open.opus.pro/reelmakeeasy/) · 组织维护
+⭐ 7 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/opus-pro/reelmakeeasy) · [官网](https://open.opus.pro/reelmakeeasy/) · 组织维护
 
 **自托管的 AI 竖屏短视频生成器，由你的编程 Agent 指挥在本机生成**
 

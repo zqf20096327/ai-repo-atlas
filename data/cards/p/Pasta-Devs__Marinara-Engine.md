@@ -1,6 +1,6 @@
 # Pasta-Devs/Marinara-Engine
 
-⭐ 793 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Pasta-Devs/Marinara-Engine) · [官网](https://spicymarinara.github.io/) · 个人维护
+⭐ 795 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Pasta-Devs/Marinara-Engine) · [官网](https://spicymarinara.github.io/) · 个人维护
 
 **本地运行的角色扮演聊天与游戏引擎，直接产出 AI 内容**
 

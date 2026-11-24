@@ -1,6 +1,6 @@
 # fennaraOfficial/fennara-godot-ai
 
-⭐ 320 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fennaraOfficial/fennara-godot-ai) · [官网](https://www.fennara.io) · 组织维护
+⭐ 321 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fennaraOfficial/fennara-godot-ai) · [官网](https://www.fennara.io) · 组织维护
 
 **给 Godot 开发者的 AI 工具桥：让 AI 助手实时连接 Godot 编辑器**
 

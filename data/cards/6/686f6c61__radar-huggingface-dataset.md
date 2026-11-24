@@ -1,6 +1,6 @@
 # 686f6c61/radar-huggingface-dataset
 
-⭐ 21 · JavaScript · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/686f6c61/radar-huggingface-dataset) · [官网](https://radar-huggingface.686f6c61.dev) · 个人维护
+⭐ 21 · JavaScript · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/686f6c61/radar-huggingface-dataset) · [官网](https://radar-huggingface.686f6c61.dev) · 个人维护
 
 **HuggingFace 模型生态的开策展数据集：西语模型档案与退出追踪**
 

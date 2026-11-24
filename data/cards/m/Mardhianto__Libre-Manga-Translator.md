@@ -1,6 +1,6 @@
 # Mardhianto/Libre-Manga-Translator
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Mardhianto/Libre-Manga-Translator) · [官网](https://libre.mangatl.asia) · 个人维护
+⭐ 5 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Mardhianto/Libre-Manga-Translator) · [官网](https://libre.mangatl.asia) · 个人维护
 
 **漫画读者浏览器扩展：本地/云端翻译漫画页**
 

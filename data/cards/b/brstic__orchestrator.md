@@ -1,6 +1,6 @@
 # brstic/orchestrator
 
-⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/brstic/orchestrator) · [官网](https://office-demo.sparkcan.com) · 个人维护
+⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/brstic/orchestrator) · [官网](https://office-demo.sparkcan.com) · 个人维护
 
 **以 3D 办公室形式管理真实 Claude Code 会话的多代理协作工具**
 

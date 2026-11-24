@@ -1,6 +1,6 @@
 # RBLN-SW/torch-rbln
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/RBLN-SW/torch-rbln) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/RBLN-SW/torch-rbln) · 组织维护
 
 **让 PyTorch 在 Rebellions NPU 上运行的 PyTorch 扩展**
 

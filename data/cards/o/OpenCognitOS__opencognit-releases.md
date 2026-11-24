@@ -1,6 +1,6 @@
 # OpenCognitOS/opencognit-releases
 
-⭐ 4 · 推送 2026-11-21 · [GitHub](https://github.com/OpenCognitOS/opencognit-releases) · [官网](https://opencognit.com) · 组织维护
+⭐ 4 · 推送 2026-11-23 · [GitHub](https://github.com/OpenCognitOS/opencognit-releases) · [官网](https://opencognit.com) · 组织维护
 
 **在一个窗口中并行运行多个 AI 编码代理的桌面控制台**
 

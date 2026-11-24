@@ -1,6 +1,6 @@
 # smol-machines/smolvm
 
-⭐ 7,175 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/smol-machines/smolvm) · [官网](https://smolmachines.com) · 组织维护 · 中文 README
+⭐ 7,193 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/smol-machines/smolvm) · [官网](https://smolmachines.com) · 组织维护 · 中文 README
 
 **为 AI Agent 提供本地可嵌入、可分支 microVM 沙箱的运行时**
 

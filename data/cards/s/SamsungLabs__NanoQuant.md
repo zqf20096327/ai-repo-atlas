@@ -1,6 +1,6 @@
 # SamsungLabs/NanoQuant
 
-⭐ 60 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/SamsungLabs/NanoQuant) · [官网](https://arxiv.org/abs/2602.06694) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/SamsungLabs/NanoQuant) · [官网](https://arxiv.org/abs/2602.06694) · 组织维护
 
 **LLM 亚 1 比特后训练量化算法：无需重训练压缩模型权重**
 

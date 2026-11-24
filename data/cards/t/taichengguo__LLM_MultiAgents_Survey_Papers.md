@@ -1,6 +1,6 @@
 # taichengguo/LLM_MultiAgents_Survey_Papers
 
-⭐ 1,337 · 推送 2026-11-21 · [GitHub](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) · [官网](https://arxiv.org/abs/2402.01680) · 个人维护
+⭐ 1,338 · 推送 2026-11-21 · [GitHub](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers) · [官网](https://arxiv.org/abs/2402.01680) · 个人维护
 
 **面向研究者的 LLM 多智能体论文分类清单**
 

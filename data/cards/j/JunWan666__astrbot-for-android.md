@@ -1,6 +1,6 @@
 # JunWan666/astrbot-for-android
 
-⭐ 421 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JunWan666/astrbot-for-android) · 个人维护 · 中文 README
+⭐ 426 · Kotlin · MIT · 推送 2026-11-24 · [GitHub](https://github.com/JunWan666/astrbot-for-android) · 个人维护 · 中文 README
 
 **在 Android 手机本地部署管理 AstrBot 与 NapCat 的应用**
 

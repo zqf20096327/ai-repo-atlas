@@ -1,6 +1,6 @@
 # roboflow/supervision
 
-⭐ 51,699 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/roboflow/supervision) · [官网](https://supervision.roboflow.com) · 组织维护
+⭐ 51,706 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/roboflow/supervision) · [官网](https://supervision.roboflow.com) · 组织维护
 
 **给 CV 开发者的可复用工具库：检测标注、数据集处理与计数追踪**
 

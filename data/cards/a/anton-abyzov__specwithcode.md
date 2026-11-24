@@ -1,6 +1,6 @@
 # anton-abyzov/specwithcode
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anton-abyzov/specwithcode) · [官网](https://spec-weave.com/code/) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anton-abyzov/specwithcode) · [官网](https://specwithcode.com) · 个人维护
 
 **一个桌面应用统一管理多个编码 Agent 并跨供应商续接任务线程**
 

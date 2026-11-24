@@ -1,6 +1,6 @@
 # manuelgscom/dale
 
-⭐ 58 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/manuelgscom/dale) · [官网](https://manuelgs.com/en/dale/) · 个人维护
+⭐ 59 · C++ · MIT · 推送 2026-10-29 · [GitHub](https://github.com/manuelgscom/dale) · [官网](https://manuelgs.com/en/dale/) · 个人维护
 
 **离线自然语言转 Linux 命令的原生 CLI 二进制**
 

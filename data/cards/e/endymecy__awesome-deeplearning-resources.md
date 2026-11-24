@@ -1,6 +1,6 @@
 # endymecy/awesome-deeplearning-resources
 
-⭐ 3,039 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/endymecy/awesome-deeplearning-resources) · 个人维护 · 中文 README
+⭐ 3,040 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/endymecy/awesome-deeplearning-resources) · 个人维护 · 中文 README
 
 **深度学习与强化学习论文及资源清单**
 

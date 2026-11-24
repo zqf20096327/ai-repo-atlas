@@ -1,6 +1,6 @@
 # Oaklight/llm-rosetta
 
-⭐ 103 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Oaklight/llm-rosetta) · [官网](https://llm-rosetta.readthedocs.io) · 个人维护 · 中文 README
+⭐ 102 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Oaklight/llm-rosetta) · [官网](https://llm-rosetta.readthedocs.io) · 个人维护 · 中文 README
 
 **LLM API 格式转换库：OpenAI/Anthropic/Google 双向互转**
 

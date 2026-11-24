@@ -1,6 +1,6 @@
 # Bitget-AI/agent_hub
 
-⭐ 234 · JavaScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/Bitget-AI/agent_hub) · 组织维护
+⭐ 235 · JavaScript · MIT · 推送 2026-06-30 · [GitHub](https://github.com/Bitget-AI/agent_hub) · 组织维护
 
 **连接 AI 代理与 Bitget 交易所的官方开源工具集**
 

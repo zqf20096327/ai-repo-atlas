@@ -1,6 +1,6 @@
 # lofcz/LLMTornado
 
-⭐ 656 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lofcz/LLMTornado) · [官网](https://llmtornado.ai) · 组织维护
+⭐ 656 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lofcz/LLMTornado) · [官网](https://llmtornado.ai) · 组织维护
 
 **.NET 的 AI agent/工作流构建 SDK，内置 30+ 提供商连接器**
 

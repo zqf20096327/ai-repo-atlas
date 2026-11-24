@@ -1,6 +1,6 @@
 # waw666waw666/awesome-free-search-apis
 
-⭐ 7 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/waw666waw666/awesome-free-search-apis) · 个人维护 · 中文 README
+⭐ 10 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/waw666waw666/awesome-free-search-apis) · 个人维护 · 中文 README
 
 **给无法联网的 AI 配免费搜索/抓取/嵌入 API 额度的清单**
 

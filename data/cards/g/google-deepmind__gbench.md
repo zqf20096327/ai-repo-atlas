@@ -1,6 +1,6 @@
 # google-deepmind/gbench
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-deepmind/gbench) · [官网](https://pypi.org/project/gbench/ ) · 组织维护
+⭐ 105 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-deepmind/gbench) · [官网](https://pypi.org/project/gbench/ ) · 组织维护
 
 **开源 LLM/VLM 性能与能力评测基准套件**
 

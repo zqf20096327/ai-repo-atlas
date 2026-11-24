@@ -1,6 +1,6 @@
 # mileson/open-vibecoding
 
-⭐ 142 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mileson/open-vibecoding) · 个人维护 · 中文 README
+⭐ 145 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mileson/open-vibecoding) · 个人维护 · 中文 README
 
 **为编码 Agent 提供可审查工作流的协作框架**
 

@@ -1,6 +1,6 @@
 # langchain-ai/smithtune
 
-⭐ 35 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/smithtune) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/smithtune) · 组织维护
 
 **基于 LangSmith 轨迹数据做模型后训练（微调）的 CLI 工具**
 

@@ -1,6 +1,6 @@
 # NiceEval/NiceEval
 
-⭐ 167 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/NiceEval/NiceEval) · [官网](https://www.niceeval.com/) · 组织维护 · 中文 README
+⭐ 167 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/NiceEval/NiceEval) · [官网](https://www.niceeval.com/) · 组织维护 · 中文 README
 
 **用 TypeScript 写类单元测试的 LLM agent 评测框架**
 

@@ -1,6 +1,6 @@
 # roboflow/rf-detr
 
-⭐ 10,129 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/roboflow/rf-detr) · [官网](https://rfdetr.roboflow.com) · 组织维护
+⭐ 10,147 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/roboflow/rf-detr) · [官网](https://rfdetr.roboflow.com) · 组织维护
 
 **面向微调场景的实时目标检测与分割模型**
 

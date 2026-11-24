@@ -1,6 +1,6 @@
 # fugazi/test-automation-skills-agents
 
-⭐ 270 · Java · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fugazi/test-automation-skills-agents) · 个人维护
+⭐ 271 · Java · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fugazi/test-automation-skills-agents) · 个人维护
 
 **面向 QA 自动化工程师的工具无关 AI agents/技能/规范库**
 

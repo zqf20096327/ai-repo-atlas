@@ -1,6 +1,6 @@
 # xming521/WeClone
 
-⭐ 18,421 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
+⭐ 18,428 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/xming521/WeClone) · [官网](https://weclone.love) · 个人维护 · 中文 README
 
 **从聊天记录构建个人生活画像，供个人助手与数字分身使用**
 

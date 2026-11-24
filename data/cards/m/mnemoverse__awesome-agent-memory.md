@@ -1,6 +1,6 @@
 # mnemoverse/awesome-agent-memory
 
-⭐ 68 · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/mnemoverse/awesome-agent-memory) · 组织维护
+⭐ 68 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/mnemoverse/awesome-agent-memory) · 组织维护
 
 **AI agent 记忆系统与研究的策展清单**
 

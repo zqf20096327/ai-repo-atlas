@@ -1,6 +1,6 @@
 # axone-protocol/contracts
 
-⭐ 123 · Rust · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/axone-protocol/contracts) · [官网](https://axone.xyz) · 组织维护
+⭐ 123 · Rust · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/axone-protocol/contracts) · [官网](https://axone.xyz) · 组织维护
 
 **AXONE 区块链协议的 CosmWasm 智能合约集（治理与凭证）**
 

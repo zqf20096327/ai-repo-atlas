@@ -1,6 +1,6 @@
 # barndog-ai/barndog-cli
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/barndog-ai/barndog-cli) · [官网](https://barndog.dev) · 组织维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/barndog-ai/barndog-cli) · [官网](https://barndog.dev) · 组织维护
 
 **跨 AI 编码工具统一安装与同步 Skills/MCP/Hooks 的 CLI**
 

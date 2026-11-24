@@ -1,6 +1,6 @@
 # adelphidata/borg
 
-⭐ 10 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/adelphidata/borg) · 组织维护
+⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adelphidata/borg) · 组织维护
 
 **本地运行的安全优先个人 AI 助理，可接管任务与设备**
 

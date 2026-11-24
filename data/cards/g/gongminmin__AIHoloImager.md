@@ -1,6 +1,6 @@
 # gongminmin/AIHoloImager
 
-⭐ 196 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gongminmin/AIHoloImager) · 个人维护
+⭐ 196 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gongminmin/AIHoloImager) · 个人维护
 
 **从少量照片或视频生成 3D 网格的重建工具（Windows）**
 

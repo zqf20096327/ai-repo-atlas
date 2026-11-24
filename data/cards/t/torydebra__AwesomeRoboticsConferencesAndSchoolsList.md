@@ -1,6 +1,6 @@
 # torydebra/AwesomeRoboticsConferencesAndSchoolsList
 
-⭐ 89 · JavaScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList) · [官网](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/) · 个人维护
+⭐ 89 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/torydebra/AwesomeRoboticsConferencesAndSchoolsList) · [官网](https://torydebra.github.io/AwesomeRoboticsConferencesAndSchoolsList/) · 个人维护
 
 **机器人学术会议与暑期学校清单：交互式表格选会**
 

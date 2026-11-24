@@ -1,6 +1,6 @@
 # aiperceivable/apcore
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/aiperceivable/apcore) · [官网](https://www.aiperceivable.com/products/apcore/) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/aiperceivable/apcore) · [官网](https://www.aiperceivable.com/products/apcore/) · 组织维护
 
 **面向 AI agent 的治理化能力模块框架：一次定义、多面暴露**
 

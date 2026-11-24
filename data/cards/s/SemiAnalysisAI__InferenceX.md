@@ -1,6 +1,6 @@
 # SemiAnalysisAI/InferenceX
 
-⭐ 2,075 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [官网](https://inferencex.com/) · 组织维护 · 中文 README
+⭐ 2,081 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/SemiAnalysisAI/InferenceX) · [官网](https://inferencex.com/) · 组织维护 · 中文 README
 
 **持续基准测试开源推理框架与 GPU 性能的研究平台**
 

@@ -1,6 +1,6 @@
 # 5235aa-web/Pebble_companionchat
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/5235aa-web/Pebble_companionchat) · 个人维护 · 中文 README
+⭐ 97 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/5235aa-web/Pebble_companionchat) · 个人维护 · 中文 README
 
 **本地优先的 AI 角色扮演伴侣聊天应用：文字、语音、图像一体的桌面工作台**
 

@@ -1,6 +1,6 @@
 # cotletdev/omio-api-mcp-server
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/omio-api-mcp-server) · [官网](https://cotlet.dev/integrations/omio-api-mcp-server) · 组织维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/omio-api-mcp-server) · [官网](https://cotlet.dev/integrations/omio-api-mcp-server) · 组织维护
 
 **把 Omio 账号接入 ChatGPT/Claude 等 AI agent 的 MCP 服务器与 REST API**
 

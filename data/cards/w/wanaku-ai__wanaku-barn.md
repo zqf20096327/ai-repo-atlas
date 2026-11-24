@@ -1,6 +1,6 @@
 # wanaku-ai/wanaku-barn
 
-⭐ 46 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wanaku-ai/wanaku-barn) · [官网](https://wanaku.ai) · 组织维护
+⭐ 47 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wanaku-ai/wanaku-barn) · [官网](https://wanaku.ai) · 组织维护
 
 **Wanaku 治理执行代理的企业工具集：CLI、K8s Operator、管理后端**
 

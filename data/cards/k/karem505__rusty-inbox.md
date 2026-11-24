@@ -1,6 +1,6 @@
 # karem505/rusty-inbox
 
-⭐ 26 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/karem505/rusty-inbox) · [官网](https://aboelmakarem.pro/apps/rusty-inbox) · 个人维护
+⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/karem505/rusty-inbox) · [官网](https://aboelmakarem.pro/apps/rusty-inbox) · 个人维护
 
 **跨平台原生桌面邮件客户端，带可选 AI 助手**
 

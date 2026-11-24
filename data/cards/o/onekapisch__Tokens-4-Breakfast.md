@@ -1,6 +1,6 @@
 # onekapisch/Tokens-4-Breakfast
 
-⭐ 26 · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/onekapisch/Tokens-4-Breakfast) · [官网](https://www.tokens4breakfast.app) · 组织维护
+⭐ 27 · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/onekapisch/Tokens-4-Breakfast) · [官网](https://www.tokens4breakfast.app) · 组织维护
 
 **Mac 菜单栏追踪 11 家 AI 工具用量、花费与限额的商用闭源应用**
 

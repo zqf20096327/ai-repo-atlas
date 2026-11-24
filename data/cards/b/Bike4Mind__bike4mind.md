@@ -1,6 +1,6 @@
 # Bike4Mind/bike4mind
 
-⭐ 97 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Bike4Mind/bike4mind) · [官网](https://bike4mind.com/) · 组织维护
+⭐ 97 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Bike4Mind/bike4mind) · [官网](https://bike4mind.com/) · 组织维护
 
 **开源核心的 AI 工作台：notebook、agent、RAG、多模型接入**
 

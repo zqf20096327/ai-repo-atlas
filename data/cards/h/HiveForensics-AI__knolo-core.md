@@ -1,6 +1,6 @@
 # HiveForensics-AI/knolo-core
 
-⭐ 153 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/HiveForensics-AI/knolo-core) · [官网](https://knolo.org) · 组织维护
+⭐ 151 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/HiveForensics-AI/knolo-core) · [官网](https://knolo.org) · 组织维护
 
 **AI agent 间共享知识的开源框架：可验证的便携知识镜像**
 

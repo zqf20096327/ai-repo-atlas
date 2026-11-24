@@ -1,10 +1,10 @@
 # microsoft/waza
 
-⭐ 1,518 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/waza) · [官网](https://microsoft.github.io/waza/) · 组织维护
+⭐ 1,520 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/waza) · [官网](https://microsoft.github.io/waza/) · 组织维护
 
-**面向开发者的 AI agent 工作流评测 CLI：可复现场景、评分与证据**
+**微软出品的 agent 工作流评测 CLI：可重复场景、评分与 CI 集成**
 
-微软出品的 Go 命令行工具，用于对 agent 工作流、技能与自定义 agent 做评测：编写仓库/CLI/MCP 场景，运行带评分器的分级试验，收集证据并接入 CI 回归门禁。提供安装脚本、waza update 自更新与可选源码构建；另有 azd 扩展分发形式。内置执行溯源、checkpoint 恢复、聚合与 OTLP 遥测导出等机制；发布版本默认开启产品使用遥测，可通过多种方式关闭。Mock 结果仅验证测试框架本身，不代表真实 agent 质量。
+Go 编写的 CLI，用于测试与评估 agent 工作流、自定义 agent 与技能：编写仓库/CLI/MCP 场景，运行带评分（grader）与证据（evidence）的试验，并集成 CI 回归门禁。每个任务使用独立复制的隔离工作区；支持 checkpoint 恢复、执行溯源与血缘记录、OpenTelemetry 导出，以及通过 azd 扩展或可选 Lab 仪表盘使用。默认收集可关闭的产品遥测；评估结果保留在本地。发布为预构建二进制，也可从源码构建。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 可复现评测场景 + 评分器 + 证据留存的 CLI 评测框架
-- CI 回归门禁与 azd 扩展两种集成方式
-- checkpoint 创建/恢复与执行 lineage、OTLP 遥测导出
-- 自动版本检查与 waza update 自更新
+- 可重复场景 + grader 评分 + 证据留存，支持 CI 回归门禁
+- 任务级隔离工作区（复制 fixture，不修改原件）
+- checkpoint 创建/恢复与执行尝试血缘、OTLP 遥测导出
+- 支持 azd 扩展安装与编码 agent 辅助编写评测
 
 ## 适用场景
 
-- 为 agent 工作流建立可重复的评测与回归基线
-- 在 CI 中加入评测门禁防止 agent 行为回退
-- 用 agent 辅助编写与维护评测规格
+- 为 agent 工作流建立可重复的回归评测
+- 在 CI 中用评分结果做合并门禁
+- 审计 agent 运行的证据与执行血缘
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `18b50d2cb7e0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `76531c50356a` · [字段定义](../../DATASET.md)*

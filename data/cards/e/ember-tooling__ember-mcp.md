@@ -1,6 +1,6 @@
 # ember-tooling/ember-mcp
 
-⭐ 29 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ember-tooling/ember-mcp) · 组织维护
+⭐ 29 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ember-tooling/ember-mcp) · 组织维护
 
 **面向 Ember.js 开发者的 MCP Server：为 AI agent 提供文档与最佳实践访问**
 

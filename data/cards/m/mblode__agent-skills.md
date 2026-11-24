@@ -1,6 +1,6 @@
 # mblode/agent-skills
 
-⭐ 216 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mblode/agent-skills) · [官网](https://blode.co/agent-skills) · 个人维护
+⭐ 220 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mblode/agent-skills) · [官网](https://blode.co/agent-skills) · 个人维护
 
 **面向编码代理的按需技能集：UI 审计、排版、文档、PR 审查与发布**
 

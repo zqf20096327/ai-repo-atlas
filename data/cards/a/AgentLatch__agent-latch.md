@@ -1,6 +1,6 @@
 # AgentLatch/agent-latch
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AgentLatch/agent-latch) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AgentLatch/agent-latch) · 组织维护
 
 **给 AI agent 项目做本地安全扫描与 MCP 流量记录的工具**
 

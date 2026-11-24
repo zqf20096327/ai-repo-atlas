@@ -1,6 +1,6 @@
 # hobbytp/hobbytp.github.io
 
-⭐ 14 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hobbytp/hobbytp.github.io) · [官网](https://hobbytp.github.io/) · 个人维护 · 中文 README
+⭐ 14 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hobbytp/hobbytp.github.io) · [官网](https://hobbytp.github.io/) · 个人维护 · 中文 README
 
 **个人 AI 技术博客：论文解读、技术分析与开源项目分享**
 

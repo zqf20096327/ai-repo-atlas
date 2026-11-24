@@ -1,6 +1,6 @@
 # avinshe/agentseed
 
-⭐ 63 · TypeScript · MIT · 推送 2026-02-10 · [GitHub](https://github.com/avinshe/agentseed) · [官网](https://www.npmjs.com/package/agentseed) · 个人维护
+⭐ 64 · TypeScript · MIT · 推送 2026-02-10 · [GitHub](https://github.com/avinshe/agentseed) · [官网](https://www.npmjs.com/package/agentseed) · 个人维护
 
 **一条命令从代码库生成 AGENTS.md 的 CLI 工具**
 

@@ -1,6 +1,6 @@
 # Anthony-xyr/PlanReview
 
-⭐ 5 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/Anthony-xyr/PlanReview) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Anthony-xyr/PlanReview) · 个人维护 · 中文 README
 
 **给个人用户做计划管理与 AI 时间复盘的桌面应用**
 

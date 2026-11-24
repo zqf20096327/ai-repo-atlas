@@ -1,6 +1,6 @@
 # emiliioaguirre/youtube-live-tts
 
-⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/emiliioaguirre/youtube-live-tts) · 个人维护
+⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/emiliioaguirre/youtube-live-tts) · 个人维护
 
 **YouTube 直播弹幕实时转语音工具，调用 ElevenLabs 语音**
 

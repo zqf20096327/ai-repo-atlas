@@ -1,6 +1,6 @@
 # state-alchemists/zrb
 
-⭐ 19 · Python · 推送 2026-11-22 · [GitHub](https://github.com/state-alchemists/zrb) · [官网](https://pypi.org/project/zrb/) · 个人维护
+⭐ 19 · Python · 推送 2026-11-24 · [GitHub](https://github.com/state-alchemists/zrb) · [官网](https://pypi.org/project/zrb/) · 个人维护
 
 **可编程进任务流水线的终端编码 agent 与构建系统**
 

@@ -1,6 +1,6 @@
 # commit-issues/cyber-pantry
 
-⭐ 44 · HTML · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/commit-issues/cyber-pantry) · [官网](https://www.cyberpantry.org) · 个人维护
+⭐ 45 · HTML · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/commit-issues/cyber-pantry) · [官网](https://www.cyberpantry.org) · 个人维护
 
 **325+ 条免费网络安全学习资源清单，按初学到进阶组织**
 

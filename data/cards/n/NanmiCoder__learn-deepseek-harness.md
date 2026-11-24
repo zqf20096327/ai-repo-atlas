@@ -1,6 +1,6 @@
 # NanmiCoder/learn-deepseek-harness
 
-⭐ 19 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/NanmiCoder/learn-deepseek-harness) · [官网](https://learn-dsh.vercel.app) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-08-17 · [GitHub](https://github.com/NanmiCoder/learn-deepseek-harness) · [官网](https://learn-dsh.vercel.app) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件开发交互式教程：20 节课带可跑 demo**
 

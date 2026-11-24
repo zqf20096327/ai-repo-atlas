@@ -1,6 +1,6 @@
 # Azure/agent-app-ingestion
 
-⭐ 187 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Azure/agent-app-ingestion) · [官网](https://aka.ms/agentlz) · 组织维护
+⭐ 187 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Azure/agent-app-ingestion) · [官网](https://aka.ms/agentlz) · 组织维护
 
 **Agent Landing Zone 的数据摄取服务：把文档转为 agent 检索知识**
 

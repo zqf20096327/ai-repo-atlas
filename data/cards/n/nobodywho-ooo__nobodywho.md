@@ -1,6 +1,6 @@
 # nobodywho-ooo/nobodywho
 
-⭐ 1,703 · Rust · EUPL-1.2 · 推送 2026-11-19 · [GitHub](https://github.com/nobodywho-ooo/nobodywho) · [官网](https://nobodywho.ai) · 组织维护
+⭐ 1,704 · Rust · EUPL-1.2 · 推送 2026-11-19 · [GitHub](https://github.com/nobodywho-ooo/nobodywho) · [官网](https://nobodywho.ai) · 组织维护
 
 **让开发者在本地设备上运行 GGUF 格式 LLM 的推理引擎**
 

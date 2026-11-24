@@ -1,6 +1,6 @@
 # yamadashy/repomix
 
-⭐ 29,385 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yamadashy/repomix) · [官网](https://repomix.com) · 个人维护
+⭐ 29,403 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yamadashy/repomix) · [官网](https://repomix.com) · 个人维护
 
 **给开发者把代码仓库打包成单一 AI 友好文件的工具**
 

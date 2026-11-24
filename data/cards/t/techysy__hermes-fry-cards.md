@@ -1,6 +1,6 @@
 # techysy/hermes-fry-cards
 
-⭐ 19 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/techysy/hermes-fry-cards) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/techysy/hermes-fry-cards) · 个人维护 · 中文 README
 
 **Hermes Agent 网关的飞书流式卡片输出插件**
 

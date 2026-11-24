@@ -1,6 +1,6 @@
 # GiovanniPasq/chunky
 
-⭐ 234 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/GiovanniPasq/chunky) · 个人维护
+⭐ 235 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/GiovanniPasq/chunky) · 个人维护
 
 **面向 RAG 的本地文档处理工作台：PDF 转 Markdown、清洗、分块与元数据增强**
 

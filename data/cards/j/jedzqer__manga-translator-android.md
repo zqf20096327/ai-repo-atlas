@@ -1,6 +1,6 @@
 # jedzqer/manga-translator-android
 
-⭐ 521 · Kotlin · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/jedzqer/manga-translator-android) · 个人维护 · 中文 README
+⭐ 522 · Kotlin · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/jedzqer/manga-translator-android) · 个人维护 · 中文 README
 
 **安卓端 LLM 驱动的漫画自动翻译与阅读 App**
 

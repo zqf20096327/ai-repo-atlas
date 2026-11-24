@@ -1,6 +1,6 @@
 # NVIDIA/TensorRT-Edge-LLM
 
-⭐ 635 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/NVIDIA/TensorRT-Edge-LLM) · 组织维护
+⭐ 637 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/NVIDIA/TensorRT-Edge-LLM) · 组织维护
 
 **NVIDIA 边缘平台上的 C++ LLM/VLM 推理运行时**
 

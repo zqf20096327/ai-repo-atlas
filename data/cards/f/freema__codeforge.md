@@ -1,6 +1,6 @@
 # freema/codeforge
 
-⭐ 15 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/freema/codeforge) · [官网](https://codeforge.tomasgrasl.cz) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/freema/codeforge) · [官网](https://codeforge.tomasgrasl.cz) · 个人维护
 
 **自托管后端编排器：在 git 仓库上运行 AI CLI 会话与自动 PR 审查**
 

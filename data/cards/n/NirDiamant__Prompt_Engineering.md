@@ -1,6 +1,6 @@
 # NirDiamant/Prompt_Engineering
 
-⭐ 7,938 · Jupyter Notebook · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/NirDiamant/Prompt_Engineering) · [官网](https://diamant-ai.com) · 个人维护
+⭐ 7,941 · Jupyter Notebook · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/NirDiamant/Prompt_Engineering) · [官网](https://diamant-ai.com) · 个人维护
 
 **面向 LLM 使用者的 22 个提示工程技术 Jupyter 教程集**
 

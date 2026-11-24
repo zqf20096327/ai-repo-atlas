@@ -1,6 +1,6 @@
 # pavlin-policar/openTSNE
 
-⭐ 1,624 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/pavlin-policar/openTSNE) · [官网](https://opentsne.rtfd.io) · 个人维护
+⭐ 1,625 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/pavlin-policar/openTSNE) · [官网](https://opentsne.rtfd.io) · 个人维护
 
 **给数据分析师提供并行加速的 t-SNE 降维嵌入 Python 库**
 

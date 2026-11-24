@@ -1,6 +1,6 @@
 # Dokploy/dokploy
 
-⭐ 38,644 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Dokploy/dokploy) · [官网](https://dokploy.com/) · 组织维护
+⭐ 38,662 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Dokploy/dokploy) · [官网](https://dokploy.com/) · 组织维护
 
 **自托管 PaaS：部署和管理应用与数据库**
 

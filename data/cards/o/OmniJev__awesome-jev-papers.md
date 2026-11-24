@@ -1,6 +1,6 @@
 # OmniJev/awesome-jev-papers
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/OmniJev/awesome-jev-papers) · [官网](https://omnijev.github.io/awesome-jev-papers/) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/OmniJev/awesome-jev-papers) · [官网](https://omnijev.github.io/awesome-jev-papers/) · 组织维护
 
 **围绕 Jev/System One 决策模型的论文清单（228 篇）**
 

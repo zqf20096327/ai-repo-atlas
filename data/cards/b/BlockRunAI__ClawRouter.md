@@ -1,10 +1,10 @@
 # BlockRunAI/ClawRouter
 
-⭐ 6,669 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/BlockRunAI/ClawRouter) · [官网](https://www.npmjs.com/package/@blockrun/clawrouter) · 组织维护
+⭐ 6,670 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BlockRunAI/ClawRouter) · [官网](https://www.npmjs.com/package/@blockrun/clawrouter) · 组织维护
 
-**面向自主 agent 的本地 LLM 路由器，支持钱包签名与 USDC 支付**
+**面向自主 Agent 的本地 LLM 路由器，钱包签名即账号**
 
-ClawRouter 是一个 MIT 许可的开源 LLM 路由器，以本地代理形式运行（默认端口 8402），在本地按 15 维度对请求评分并在 1ms 内选择模型，覆盖 91 个聊天模型及图像、视频、语音等 API。认证方式为本地生成钱包、以 x402 协议的 USDC 每请求结算（Solana/Base），也可通过 user.blockrun.ai 注册并用信用卡充值获取 API key；另有 8 个免费模型无需注册即可使用。安装方式为 npm 全局包，可作为 OpenClaw 插件或独立代理对接 continue.dev、Cursor 及 OpenAI 兼容客户端，macOS 另有 Electron 桌面控制面板。
+开源（MIT）LLM 智能路由器，本地运行、路由耗时低于 1ms，按 15 维评分将请求分配给可胜任的低价模型。面向无法注册账号、只能签交易的自主 Agent：本地生成钱包，通过 x402 协议以 USDC 按请求结算（Solana/Base），也支持信用卡注册充值换取 API key 的传统路径，另有 8 个免费模型无需任何注册。聚合 91 个聊天模型及图像、视频、语音等接口，可作为 OpenClaw 插件或本地代理（端口 8402）供 OpenAI 兼容客户端使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ClawRouter 是一个 MIT 许可的开源 LLM 路由器，以本地代理形式�
 
 ## 能力要点
 
-- 15 维度本地评分路由，1ms 内选择模型，无需外部依赖
-- 钱包签名即认证，x402 协议 USDC 按请求结算（Solana/Base），也支持信用卡 API key
-- 8 个免费模型无需注册、key 或钱包即可使用
-- 提供 OpenClaw 插件安装路径、独立本地代理与 macOS Electron 控制面板
+- 15 维本地评分路由，宣称低于 1ms 完成
+- x402 + USDC 按请求结算，钱包签名即认证，无账号/密钥
+- 8 个免费模型，无需注册、密钥或钱包
+- Electron 桌面控制面板支持 OpenClaw/Codex 等一键接入
 
 ## 适用场景
 
-- 给自主 agent 配置免注册的模型调用与按请求付费通道
-- 在 continue.dev/Cursor 等客户端接入统一的多模型路由端点
-- 通过自动选模型降低 API 调用支出
+- 让自主 Agent 自主付费调用 LLM 而无需人工注册账号
+- 在 continue.dev、Cursor 等客户端通过本地代理按成本优选模型
+- 降低多模型 API 调用支出
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `548736452bae` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `cf2c39062c98` · [字段定义](../../DATASET.md)*

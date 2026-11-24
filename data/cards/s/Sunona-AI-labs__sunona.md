@@ -1,6 +1,6 @@
 # Sunona-AI-labs/sunona
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Sunona-AI-labs/sunona) · [官网](https://sunona-twilio.onrender.com) · 组织维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Sunona-AI-labs/sunona) · [官网](https://sunona-twilio.onrender.com) · 组织维护
 
 **语音 AI 平台：编排 STT+LLM+TTS 构建电话/语音助手**
 

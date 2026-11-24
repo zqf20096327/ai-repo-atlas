@@ -1,6 +1,6 @@
 # jaehyeon-kim/odctl
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jaehyeon-kim/odctl) · [官网](https://jaehyeon.me/odctl) · 个人维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jaehyeon-kim/odctl) · [官网](https://jaehyeon.me/odctl) · 个人维护
 
 **本地一键启动开源数据栈的 CLI：Docker Compose 编排大数据/MLOps 服务**
 

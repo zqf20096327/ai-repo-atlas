@@ -1,6 +1,6 @@
 # satellite-image-deep-learning/techniques
 
-⭐ 10,312 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/satellite-image-deep-learning/techniques) · 个人维护
+⭐ 10,313 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/satellite-image-deep-learning/techniques) · 个人维护
 
 **面向遥感从业者的卫星影像深度学习技术资源清单**
 

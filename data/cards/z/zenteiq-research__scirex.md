@@ -1,6 +1,6 @@
 # zenteiq-research/scirex
 
-⭐ 21 · Python · LGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/zenteiq-research/scirex) · [官网](https://zenteiq-research.github.io/scirex/) · 组织维护
+⭐ 21 · Python · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/zenteiq-research/scirex) · [官网](https://zenteiq-research.github.io/scirex/) · 组织维护
 
 **JAX/Flax 神经算子库：PDE 求解与物理系统代理建模**
 

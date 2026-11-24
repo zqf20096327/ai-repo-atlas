@@ -1,6 +1,6 @@
 # dermatologist/crisp-t
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/dermatologist/crisp-t) · [官网](https://nuchange.ca/2025/10/crisp-t-ai-assisted-qualitative-research.html) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dermatologist/crisp-t) · [官网](https://nuchange.ca/2025/10/crisp-t-ai-assisted-qualitative-research.html) · 个人维护
 
 **面向质性研究的文本+数值混合数据分析 CLI 工具包**
 

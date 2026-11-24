@@ -1,6 +1,6 @@
 # majiayu000/dsh-desk
 
-⭐ 18 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/majiayu000/dsh-desk) · [官网](https://www.dshdesk.com) · 个人维护 · 中文 README
+⭐ 18 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/majiayu000/dsh-desk) · [官网](https://www.dshdesk.com) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的桌面发行版：安装即用、内置固定 runtime**
 

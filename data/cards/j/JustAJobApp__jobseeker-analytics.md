@@ -1,6 +1,6 @@
 # JustAJobApp/jobseeker-analytics
 
-⭐ 208 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JustAJobApp/jobseeker-analytics) · [官网](https://www.justajobapp.com) · 个人维护
+⭐ 207 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/JustAJobApp/jobseeker-analytics) · [官网](https://www.justajobapp.com) · 个人维护
 
 **连接 Gmail 自动追踪求职进度的求职者仪表盘**
 

@@ -1,6 +1,6 @@
 # janosh/diagrams
 
-⭐ 715 · Typst · MIT · 推送 2026-11-21 · [GitHub](https://github.com/janosh/diagrams) · [官网](https://janosh.github.io/diagrams) · 个人维护
+⭐ 716 · Typst · MIT · 推送 2026-11-21 · [GitHub](https://github.com/janosh/diagrams) · [官网](https://janosh.github.io/diagrams) · 个人维护
 
 **科研人员可搜索下载的物理/化学/机器学习概念图集**
 

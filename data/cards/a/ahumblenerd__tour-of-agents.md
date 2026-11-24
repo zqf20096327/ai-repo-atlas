@@ -1,6 +1,6 @@
 # ahumblenerd/tour-of-agents
 
-⭐ 45 · TypeScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/ahumblenerd/tour-of-agents) · [官网](https://tinyagents.dev) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-07-05 · [GitHub](https://github.com/ahumblenerd/tour-of-agents) · [官网](https://tinyagents.dev) · 个人维护
 
 **30分钟交互课程：用60行纯Python从零构建AI agent**
 

@@ -1,6 +1,6 @@
 # hanzohanzhe/Grandet
 
-⭐ 1,468 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/hanzohanzhe/Grandet) · [官网](https://grandet.ai) · 个人维护 · 中文 README
+⭐ 1,497 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/hanzohanzhe/Grandet) · [官网](https://grandet.ai) · 个人维护 · 中文 README
 
 **帮 AI agent 用户查找并接入最便宜的模型 API**
 

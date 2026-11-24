@@ -1,6 +1,6 @@
 # Huskyauto/VisionClaw-Agent-Public-Release
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Huskyauto/VisionClaw-Agent-Public-Release) · [官网](https://agenticcorporation.net) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Huskyauto/VisionClaw-Agent-Public-Release) · [官网](https://agenticcorporation.net) · 个人维护
 
 **自托管多租户 AI agent 工作台：18 个 agent 协作产出交付物**
 

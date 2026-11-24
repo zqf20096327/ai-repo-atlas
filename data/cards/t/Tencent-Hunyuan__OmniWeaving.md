@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/OmniWeaving
 
-⭐ 807 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Tencent-Hunyuan/OmniWeaving) · [官网](https://omniweaving.github.io/) · 组织维护 · 中文 README
+⭐ 808 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Tencent-Hunyuan/OmniWeaving) · [官网](https://omniweaving.github.io/) · 组织维护 · 中文 README
 
 **腾讯混元开源的统一视频生成模型：多图/视频自由组合与推理生成**
 

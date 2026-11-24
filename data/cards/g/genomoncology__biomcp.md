@@ -1,6 +1,6 @@
 # genomoncology/biomcp
 
-⭐ 683 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/genomoncology/biomcp) · [官网](https://biomcp.org/) · 组织维护
+⭐ 685 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/genomoncology/biomcp) · [官网](https://biomcp.org/) · 组织维护
 
 **面向生物医学研究与 AI 代理的统一数据查询 CLI/MCP 服务器**
 

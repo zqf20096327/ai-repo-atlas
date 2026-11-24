@@ -1,6 +1,6 @@
 # gosha70/code-copilot-team
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gosha70/code-copilot-team) · [官网](https://gosha70.github.io/code-copilot-team/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gosha70/code-copilot-team) · [官网](https://gosha70.github.io/code-copilot-team/) · 个人维护
 
 **给开发者提供多 agent 编码规则与安全护栏的统一 harness**
 

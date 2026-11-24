@@ -1,6 +1,6 @@
 # rebel0789/navo
 
-⭐ 17 · JavaScript · MIT · 推送 2026-06-13 · [GitHub](https://github.com/rebel0789/navo) · [官网](https://www.npmjs.com/package/@rebel0x/navo) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-06-13 · [GitHub](https://github.com/rebel0789/navo) · [官网](https://www.npmjs.com/package/@rebel0x/navo) · 个人维护
 
 **让 Codex 接入 OpenCode Go 模型的本地桥接与路由工具**
 

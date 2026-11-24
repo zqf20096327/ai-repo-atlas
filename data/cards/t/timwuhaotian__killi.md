@@ -1,6 +1,6 @@
 # timwuhaotian/killi
 
-⭐ 55 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/timwuhaotian/killi) · [官网](https://timwuhaotian.github.io/killi/) · 个人维护
+⭐ 55 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/timwuhaotian/killi) · [官网](https://timwuhaotian.github.io/killi/) · 个人维护
 
 **面向终端的 Rust 编写小型 AI 编程 agent（Apple Silicon Mac）**
 

@@ -1,6 +1,6 @@
 # Serg-Norseman/GEDKeeper
 
-⭐ 216 · C# · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Serg-Norseman/GEDKeeper) · [官网](https://gedkeeper.net/) · 个人维护
+⭐ 216 · C# · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Serg-Norseman/GEDKeeper) · [官网](https://gedkeeper.net/) · 个人维护
 
 **跨平台个人家谱数据库管理程序，支持 GEDCOM 标准与插件**
 

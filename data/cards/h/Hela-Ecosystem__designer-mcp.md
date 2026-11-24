@@ -1,6 +1,6 @@
 # Hela-Ecosystem/designer-mcp
 
-⭐ 17 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Hela-Ecosystem/designer-mcp) · [官网](http://demo-designer.glassgallery.my.id/) · 组织维护
+⭐ 17 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Hela-Ecosystem/designer-mcp) · [官网](http://demo-designer.glassgallery.my.id/) · 组织维护
 
 **面向生产级 UI/品牌设计的 MCP server：46 个设计工具与质量门**
 

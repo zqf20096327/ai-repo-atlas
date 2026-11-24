@@ -1,6 +1,6 @@
 # guguzea/MC-AI-Coding-Assistant-Tool
 
-⭐ 143 · HTML · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/guguzea/MC-AI-Coding-Assistant-Tool) · 个人维护 · 中文 README
+⭐ 143 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/guguzea/MC-AI-Coding-Assistant-Tool) · 个人维护 · 中文 README
 
 **为 AI 编程助手提供 Minecraft 模组开发全流程知识库与 MCP 工具包**
 

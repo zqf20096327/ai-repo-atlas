@@ -1,6 +1,6 @@
 # SeriousOldMan/Simulator-Controller
 
-⭐ 461 · AutoHotkey · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/SeriousOldMan/Simulator-Controller) · 个人维护
+⭐ 461 · AutoHotkey · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/SeriousOldMan/Simulator-Controller) · 个人维护
 
 **Sim Racing 的模块化管理与控制工具，含多个 AI 赛事语音助手**
 

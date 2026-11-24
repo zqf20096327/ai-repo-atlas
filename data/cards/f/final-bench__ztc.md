@@ -1,6 +1,6 @@
 # final-bench/ztc
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/final-bench/ztc) · [官网](https://huggingface.co/FINAL-Bench) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **零生成 token 的 LLM 答案可信度校验器，供开发者在生产中核验回答**
 
@@ -11,7 +11,7 @@ ZTC 读取任意模型产生的问题与答案，在单次前向传播中取末�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

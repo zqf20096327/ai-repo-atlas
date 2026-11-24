@@ -1,6 +1,6 @@
 # fitlab-ai/agent-infra
 
-⭐ 88 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/fitlab-ai/agent-infra) · 组织维护 · 中文 README
+⭐ 88 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fitlab-ai/agent-infra) · 组织维护 · 中文 README
 
 **给 AI 编程代理团队的协作基础设施：统一技能、工作流与沙箱**
 

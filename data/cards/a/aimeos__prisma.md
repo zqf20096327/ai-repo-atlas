@@ -1,6 +1,6 @@
 # aimeos/prisma
 
-⭐ 245 · PHP · MIT · 推送 2026-11-21 · [GitHub](https://github.com/aimeos/prisma) · [官网](https://php-prisma.org) · 组织维护
+⭐ 248 · PHP · MIT · 推送 2026-11-21 · [GitHub](https://github.com/aimeos/prisma) · [官网](https://php-prisma.org) · 组织维护
 
 **PHP 多模态 LLM 统一集成包：一套接口接入 40+ 供应商**
 

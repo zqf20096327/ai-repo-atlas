@@ -1,6 +1,6 @@
 # HolobiomicsLab/MetaboT
 
-⭐ 35 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/HolobiomicsLab/MetaboT) · [官网](https://holobiomicslab.github.io/MetaboT/) · 组织维护
+⭐ 36 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/HolobiomicsLab/MetaboT) · [官网](https://holobiomicslab.github.io/MetaboT/) · 组织维护
 
 **面向代谢组学研究者：自然语言查询质谱知识图谱的多智能体框架**
 

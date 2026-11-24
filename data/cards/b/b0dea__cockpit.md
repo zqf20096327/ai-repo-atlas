@@ -1,6 +1,6 @@
 # b0dea/cockpit
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/b0dea/cockpit) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/b0dea/cockpit) · 个人维护
 
 **为多编码代理统一环境与守则的 CLI：一套配置驱动 Claude Code、Codex、OpenCode**
 

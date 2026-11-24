@@ -1,6 +1,6 @@
 # giulianireg-spec/dosync-app-beta
 
-⭐ 6 · Shell · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/giulianireg-spec/dosync-app-beta) · [官网](https://dosync.dev/app/) · 个人维护
+⭐ 6 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/giulianireg-spec/dosync-app-beta) · [官网](https://dosync.dev/app/) · 个人维护
 
 **以手机为中控、用自然语言操控智能家居的 Android 应用**
 

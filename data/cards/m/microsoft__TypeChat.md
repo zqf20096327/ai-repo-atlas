@@ -1,6 +1,6 @@
 # microsoft/TypeChat
 
-⭐ 8,693 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/TypeChat) · [官网](https://microsoft.github.io/TypeChat/) · 组织维护 · 中文 README
+⭐ 8,693 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/TypeChat) · [官网](https://microsoft.github.io/TypeChat/) · 组织维护 · 中文 README
 
 **用类型定义构建自然语言界面的 TypeScript 库**
 

@@ -1,6 +1,6 @@
 # parasite6/noullama
 
-⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/parasite6/noullama) · [官网](https://noullama.dev) · 个人维护
+⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/parasite6/noullama) · [官网](https://noullama.dev) · 个人维护
 
 **本地决策模型工作台与 API，基于 llama.cpp 运行**
 

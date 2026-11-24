@@ -1,6 +1,6 @@
 # codingjoe/einfache-sprache
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/codingjoe/einfache-sprache) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把德语文本改写为 DIN 8581-1 简易语言的 AI 技能**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

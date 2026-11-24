@@ -1,6 +1,6 @@
 # kitfunso/hippo-memory
 
-⭐ 794 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kitfunso/hippo-memory) · [官网](https://hippo-memory.com) · 个人维护
+⭐ 793 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kitfunso/hippo-memory) · [官网](https://hippo-memory.com) · 个人维护
 
 **为编码 agent 提供跨工具共享的本地记忆存储**
 

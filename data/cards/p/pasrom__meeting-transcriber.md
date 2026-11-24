@@ -1,6 +1,6 @@
 # pasrom/meeting-transcriber
 
-⭐ 252 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pasrom/meeting-transcriber) · [官网](https://meetingtranscriber.app) · 个人维护
+⭐ 254 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pasrom/meeting-transcriber) · [官网](https://meetingtranscriber.app) · 个人维护
 
 **macOS 本地会议转录器：录音、转录、说话人分离全在设备端**
 

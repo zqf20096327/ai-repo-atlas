@@ -1,6 +1,6 @@
 # deeptelar/telar
 
-⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/deeptelar/telar) · [官网](https://deeptelar.github.io/telar/) · 个人维护
+⭐ 14 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/deeptelar/telar) · [官网](https://deeptelar.github.io/telar/) · 个人维护
 
 **Kotlin 多平台 AI agent 与工作流框架：类型化图编排**
 

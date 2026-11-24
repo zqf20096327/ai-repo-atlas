@@ -1,6 +1,6 @@
 # bagofwords1/bagofwords
 
-⭐ 462 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/bagofwords1/bagofwords) · [官网](https://bagofwords.com) · 组织维护
+⭐ 462 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/bagofwords1/bagofwords) · [官网](https://bagofwords.com) · 组织维护
 
 **开源智能体分析平台：连接任意 LLM 与企业数据**
 

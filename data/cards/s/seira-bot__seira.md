@@ -1,6 +1,6 @@
 # seira-bot/seira
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/seira-bot/seira) · [官网](https://seira.bot) · 组织维护
+⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/seira-bot/seira) · [官网](https://seira.bot) · 组织维护
 
 **把 Claude Code、Codex 等 25+ AI 引擎组队放进一个聊天桌面应用**
 

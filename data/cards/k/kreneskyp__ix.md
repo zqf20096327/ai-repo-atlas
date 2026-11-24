@@ -1,6 +1,6 @@
 # kreneskyp/ix
 
-⭐ 1,043 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/kreneskyp/ix) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **设计并部署自主 LLM 智能体与工作流的平台**
 
@@ -11,7 +11,7 @@ IX 是用于设计和部署自主/半自主 LLM 智能体与工作流的开源�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

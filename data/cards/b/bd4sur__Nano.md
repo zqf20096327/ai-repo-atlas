@@ -1,6 +1,6 @@
 # bd4sur/Nano
 
-⭐ 299 · C · 推送 2026-11-21 · [GitHub](https://github.com/bd4sur/Nano) · [官网](https://bd4sur.com/Nano/infer/web) · 个人维护 · 中文 README
+⭐ 299 · C · 推送 2026-11-23 · [GitHub](https://github.com/bd4sur/Nano) · [官网](https://bd4sur.com/Nano/infer/web) · 个人维护 · 中文 README
 
 **从零实现的 Transformer 语言模型训练与多端推理项目，供个人研究赏玩**
 

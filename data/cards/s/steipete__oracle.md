@@ -1,6 +1,6 @@
 # steipete/oracle
 
-⭐ 4,074 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/steipete/oracle) · [官网](https://askoracle.sh) · 个人维护
+⭐ 4,072 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/steipete/oracle) · [官网](https://askoracle.sh) · 个人维护
 
 **把选定文件打包发给 AI 模型做二次评审的 CLI 与 MCP 服务器**
 

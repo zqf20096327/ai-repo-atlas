@@ -1,6 +1,6 @@
 # Tripstack-Corp/spyc
 
-⭐ 20 · Rust · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/Tripstack-Corp/spyc) · 组织维护
+⭐ 20 · Rust · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/Tripstack-Corp/spyc) · 组织维护
 
 **面向编码 agent 的终端文件指挥器：通过本地 MCP 共享工作集**
 

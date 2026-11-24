@@ -1,6 +1,6 @@
 # nathansutton/chad
 
-⭐ 144 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/nathansutton/chad) · 个人维护
+⭐ 144 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nathansutton/chad) · 个人维护
 
 **在 Apple Silicon Mac 上本地运行的编程 Agent（MLX + 27B 模型）**
 

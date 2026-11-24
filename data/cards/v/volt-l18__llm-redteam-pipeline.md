@@ -1,6 +1,6 @@
 # volt-l18/llm-redteam-pipeline
 
-⭐ 31 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/volt-l18/llm-redteam-pipeline) · 个人维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-08-12 · [GitHub](https://github.com/volt-l18/llm-redteam-pipeline) · 个人维护
 
 **自动化多轮 LLM 红队评测管线：攻防对话评估模型安全边界**
 

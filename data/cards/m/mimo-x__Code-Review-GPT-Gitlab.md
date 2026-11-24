@@ -1,6 +1,6 @@
 # mimo-x/Code-Review-GPT-Gitlab
 
-⭐ 817 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mimo-x/Code-Review-GPT-Gitlab) · [官网](https://mimo-x.github.io/Code-Review-GPT-Gitlab/) · 组织维护 · 中文 README
+⭐ 816 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mimo-x/Code-Review-GPT-Gitlab) · [官网](https://mimo-x.github.io/Code-Review-GPT-Gitlab/) · 组织维护 · 中文 README
 
 **面向研发团队的 GitLab LLM 辅助 Code Review 工具**
 

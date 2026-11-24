@@ -1,6 +1,6 @@
 # anthropics/claude-tag-plugins
 
-⭐ 77 · Shell · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/anthropics/claude-tag-plugins) · 组织维护
+⭐ 79 · Shell · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/claude-tag-plugins) · 组织维护
 
 **将 Claude agent 接入常见 SaaS 服务的官方插件集合**
 

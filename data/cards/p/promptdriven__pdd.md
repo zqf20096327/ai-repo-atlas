@@ -1,6 +1,6 @@
 # promptdriven/pdd
 
-⭐ 937 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
+⭐ 938 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
 
 **以 Prompt 为源代码的开发方法与 CLI 工具链**
 

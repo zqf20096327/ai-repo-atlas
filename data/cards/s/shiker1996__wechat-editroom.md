@@ -1,6 +1,6 @@
 # shiker1996/wechat-editroom
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/shiker1996/wechat-editroom) · [官网](https://wechat-newsroom-guide.vercel.app/) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/shiker1996/wechat-editroom) · [官网](https://wechat-newsroom-guide.vercel.app/) · 个人维护 · 中文 README
 
 **公众号作者的本地内容采集、编辑与排版工作台**
 

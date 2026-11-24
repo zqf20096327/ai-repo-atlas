@@ -1,6 +1,6 @@
 # pevyhlas/product-kit
 
-⭐ 4 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pevyhlas/product-kit) · 个人维护
+⭐ 4 · Shell · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pevyhlas/product-kit) · 个人维护
 
 **给开发团队的单一产品规格：让编码 Agent 随代码同步维护**
 

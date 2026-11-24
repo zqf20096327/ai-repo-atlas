@@ -1,6 +1,6 @@
 # chryzxc/herm
 
-⭐ 52 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/chryzxc/herm) · [官网](https://herm-desktop.vercel.app) · 个人维护
+⭐ 53 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/chryzxc/herm) · [官网](https://herm-desktop.vercel.app) · 个人维护
 
 **macOS 原生前端：以刘海槽常驻查看和操控 Hermes Agent**
 

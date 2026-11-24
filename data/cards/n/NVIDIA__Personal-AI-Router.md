@@ -1,6 +1,6 @@
 # NVIDIA/Personal-AI-Router
 
-⭐ 1,786 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/NVIDIA/Personal-AI-Router) · 组织维护
+⭐ 1,787 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/Personal-AI-Router) · 组织维护
 
 **家庭局域网内多机本地推理请求路由器**
 

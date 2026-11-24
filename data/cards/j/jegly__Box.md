@@ -1,6 +1,6 @@
 # jegly/Box
 
-⭐ 1,036 · Kotlin · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/jegly/Box) · [官网](https://jegly.xyz) · 个人维护
+⭐ 1,039 · Kotlin · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/jegly/Box) · [官网](https://jegly.xyz) · 个人维护
 
 **Android 全离线端侧 AI 套件，覆盖文本/图像/语音/视觉**
 

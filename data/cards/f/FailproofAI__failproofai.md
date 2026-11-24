@@ -1,6 +1,6 @@
 # FailproofAI/failproofai
 
-⭐ 10,108 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/FailproofAI/failproofai) · [官网](https://befailproof.ai) · 组织维护 · 中文 README
+⭐ 10,136 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/FailproofAI/failproofai) · [官网](https://befailproof.ai) · 组织维护 · 中文 README
 
 **为 AI agent 运行时提供追踪审计与策略强制执行的观测工具**
 

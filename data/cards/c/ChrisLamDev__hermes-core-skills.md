@@ -1,6 +1,6 @@
 # ChrisLamDev/hermes-core-skills
 
-⭐ 13 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ChrisLamDev/hermes-core-skills) · [官网](https://chrislamdev.github.io/hermes-core-skills/) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ChrisLamDev/hermes-core-skills) · [官网](https://chrislamdev.github.io/hermes-core-skills/) · 个人维护 · 中文 README
 
 **给 AI 编码代理的 25 个可执行工作流技能包**
 

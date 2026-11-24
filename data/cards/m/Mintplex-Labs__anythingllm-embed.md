@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-embed
 
-⭐ 191 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-embed) · [官网](https://anythingllm.com) · 组织维护
+⭐ 192 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-embed) · [官网](https://anythingllm.com) · 组织维护
 
 **AnythingLLM 的网站嵌入式聊天挂件（子模块）**
 

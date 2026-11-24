@@ -1,6 +1,6 @@
 # TestSprite/testsprite-cli
 
-⭐ 5,217 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/TestSprite/testsprite-cli) · [官网](https://www.testsprite.com) · 组织维护
+⭐ 5,222 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/TestSprite/testsprite-cli) · [官网](https://www.testsprite.com) · 组织维护
 
 **面向开发者的 AI 自动化测试 CLI：云端对真实应用执行测试**
 

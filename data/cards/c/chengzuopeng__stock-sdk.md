@@ -1,6 +1,6 @@
 # chengzuopeng/stock-sdk
 
-⭐ 2,006 · TypeScript · ISC · 推送 2026-11-21 · [GitHub](https://github.com/chengzuopeng/stock-sdk) · [官网](https://stock-sdk.linkdiary.cn/) · 个人维护 · 中文 README
+⭐ 2,008 · TypeScript · ISC · 推送 2026-11-21 · [GitHub](https://github.com/chengzuopeng/stock-sdk) · [官网](https://stock-sdk.linkdiary.cn/) · 个人维护 · 中文 README
 
 **给前端/Node.js 开发者的零依赖股票行情数据 SDK（含 CLI 与 MCP）**
 

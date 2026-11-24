@@ -1,6 +1,6 @@
 # zqiren/Orbital
 
-⭐ 1,119 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/zqiren/Orbital) · [官网](https://orbital.top/) · 个人维护 · 中文 README
+⭐ 1,127 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/zqiren/Orbital) · [官网](https://orbital.top/) · 个人维护 · 中文 README
 
 **本地项目上下文管家：让多个编码 Agent 共享同一份项目记忆**
 

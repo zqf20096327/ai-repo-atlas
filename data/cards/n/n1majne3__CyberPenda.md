@@ -1,6 +1,6 @@
 # n1majne3/CyberPenda
 
-⭐ 33 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/n1majne3/CyberPenda) · [官网](https://cyberpenda-demo.vercel.app) · 个人维护 · 中文 README
+⭐ 33 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/n1majne3/CyberPenda) · [官网](https://cyberpenda-demo.vercel.app) · 个人维护 · 中文 README
 
 **本地优先的授权渗透测试 agent 工作台**
 

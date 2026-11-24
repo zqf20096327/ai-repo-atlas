@@ -1,6 +1,6 @@
 # KKonstantinov/markdown-for-agents
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/KKonstantinov/markdown-for-agents) · [官网](http://markdown-for-agents.vercel.app) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KKonstantinov/markdown-for-agents) · [官网](http://markdown-for-agents.vercel.app) · 个人维护
 
 **面向 AI agent 的 HTML 转 Markdown 转换库，降低 token 消耗**
 

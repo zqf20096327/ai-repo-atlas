@@ -1,6 +1,6 @@
 # microsoft/agent-lightning
 
-⭐ 18,994 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/agent-lightning) · [官网](https://microsoft.github.io/agent-lightning/) · 组织维护 · 中文 README
+⭐ 18,996 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/microsoft/agent-lightning) · [官网](https://microsoft.github.io/agent-lightning/) · 组织维护 · 中文 README
 
 **以 RL 训练 AI agent 的轻量框架，agent 无需改代码**
 

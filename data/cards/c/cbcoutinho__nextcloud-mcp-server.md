@@ -1,6 +1,6 @@
 # cbcoutinho/nextcloud-mcp-server
 
-⭐ 420 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/cbcoutinho/nextcloud-mcp-server) · 个人维护
+⭐ 420 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/cbcoutinho/nextcloud-mcp-server) · 个人维护
 
 **连接 AI 助手与 Nextcloud 的独立 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing
 
-⭐ 68 · 推送 2026-11-09 · [GitHub](https://github.com/dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 89 · 推送 2026-11-09 · [GitHub](https://github.com/dhsakilkhan503-a11y/claude-haiku-5-5-high-volume-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向 Claude Haiku 5.5 高频扣费用户的 CoreGold 虚拟卡推广指南**
 

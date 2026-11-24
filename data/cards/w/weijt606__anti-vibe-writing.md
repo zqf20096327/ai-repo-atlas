@@ -1,6 +1,6 @@
 # weijt606/anti-vibe-writing
 
-⭐ 136 · Shell · MIT · 推送 2026-11-15 · [GitHub](https://github.com/weijt606/anti-vibe-writing) · 个人维护 · 中文 README
+⭐ 137 · Shell · MIT · 推送 2026-11-15 · [GitHub](https://github.com/weijt606/anti-vibe-writing) · 个人维护 · 中文 README
 
 **给 agent 用户的写作技能：清除文稿中的 AI 腔与模板痕迹**
 

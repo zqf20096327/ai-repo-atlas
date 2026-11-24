@@ -1,6 +1,6 @@
 # BehaviorTree/BehaviorTree.CPP
 
-⭐ 4,307 · C++ · MIT · 推送 2026-11-13 · [GitHub](https://github.com/BehaviorTree/BehaviorTree.CPP) · [官网](https://behaviortree.dev) · 个人维护
+⭐ 4,309 · C++ · MIT · 推送 2026-11-13 · [GitHub](https://github.com/BehaviorTree/BehaviorTree.CPP) · [官网](https://behaviortree.dev) · 个人维护
 
 **C++17 行为树框架：为机器人和游戏构建任务协调逻辑**
 

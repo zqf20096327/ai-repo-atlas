@@ -1,10 +1,10 @@
 # aoci-spec/aoci-code
 
-⭐ 2,903 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aoci-spec/aoci-code) · [官网](www.aoci.ai) · 组织维护 · 中文 README
+⭐ 2,970 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/aoci-spec/aoci-code) · [官网](www.aoci.ai) · 组织维护 · 中文 README
 
-**为编码 agent 提供代码库与数据库结构的持久化索引**
+**给编码代理提供 Git 版本化代码库认知索引的本地 MCP 服务**
 
-以 Go 编写的本地 MCP 服务器与 CLI，为代码库生成 Git 版本化、按文件一行的纯文本索引（职责、依赖、公开接口、不可破坏约束），agent 在执行任务前先读索引以减少反复检索。索引存于项目仓库内可 diff 与回滚，MCP 服务器检测代码变更并驱动增量维护。支持对 MySQL 5.7.6+/PostgreSQL 及受约束的 openGauss 6.0.5 建表级索引。仅本地运行、只读源码与表结构，不联网。首次建索引约每 20 万行耗时一小时。当前版本 v0.2.0-rc3，FSL-1.1-MIT 许可。
+Go 编写的本地 MCP 服务器与 CLI，为 Codex、Claude Code、Cursor、OpenCode 等编码代理维护一份持久的、Git 版本化的代码库索引（每文件一行，含职责 F、关联 R、契约 A、不可破坏约束 S），代理在执行任务前先读索引以了解整个系统；MCP 服务器检测代码变更并提示代理更新条目，使索引与代码保持同步。另可为 MySQL/PostgreSQL/openGauss 6.0.5 建表级数据库索引。仅本地运行：只读系统、不联网、不存储凭据。通过 Release 包或源码构建分发。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 每文件一行的 FRAS 索引格式，带层级/领域/重要度标签
-- 索引随代码存于 Git，可 diff、版本化与回滚
-- MCP 服务器检测变更并驱动增量维护
-- 支持 MySQL/PostgreSQL/openGauss 的表级数据库索引
+- 每文件一行的纯文本索引（F/R/A/S 字段 + 层级标签），存于仓库内由 Git 版本化
+- MCP 服务器检测变更并触发代理增量维护索引
+- 支持 MySQL 5.7.6+、PostgreSQL、openGauss 6.0.5 的表级索引
+- 本地优先：只读、不联网、数据库凭据仅以环境变量名引用
 
 ## 适用场景
 
-- 让 agent 接手既有大型代码库而无需每次重新通读
-- 项目换人、换 agent 或新开会话时通过索引恢复上下文
-- 让非专业开发者持续迭代自己的系统
+- 让代理在大型代码库（约 50 万行级别）上接手开发而不每次重读代码
+- 项目换人、换代理或开新会话时通过读索引延续上下文
+- 让代理同时理解代码与数据库表结构后再动手
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L89: **AOCI (AI-Oriented Cognition Infrastructure)** is the method and protocol: a layer between coding agents and softw
 > L5: **A persistent, Git-versioned map of your entire codebase — written by your coding agent, governed by a local MCP se
+> L89: **AOCI (AI-Oriented Cognition Infrastructure)** is the method and protocol: a layer between coding agents and softw
+> L91: AOCI-CODE distills what actually matters for understanding and changing a system into a dense, plain-text index tha
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8541ee4387b5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `84c8b11c2a8a` · [字段定义](../../DATASET.md)*

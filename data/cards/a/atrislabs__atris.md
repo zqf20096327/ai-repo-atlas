@@ -1,6 +1,6 @@
 # atrislabs/atris
 
-⭐ 71 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/atrislabs/atris) · [官网](https://atris.ai) · 组织维护
+⭐ 71 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/atrislabs/atris) · [官网](https://atris.ai) · 组织维护
 
 **把任意仓库变成 AI agent 可操作工作区的 CLI 与 MCP 服务**
 

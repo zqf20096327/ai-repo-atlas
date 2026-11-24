@@ -1,6 +1,6 @@
 # ZhiHui6/zhiai_nodes_comfyui
 
-⭐ 184 · JavaScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ZhiHui6/zhiai_nodes_comfyui) · 组织维护 · 中文 README
+⭐ 184 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ZhiHui6/zhiai_nodes_comfyui) · 组织维护 · 中文 README
 
 **55+ ComfyUI 自定义节点合集：提示词生成、翻译、图像处理**
 

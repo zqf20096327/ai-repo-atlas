@@ -1,6 +1,6 @@
 # vox-serve/vox-serve
 
-⭐ 79 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vox-serve/vox-serve) · [官网](https://vox-serve.github.io/) · 组织维护 · 中文 README
+⭐ 79 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vox-serve/vox-serve) · [官网](https://vox-serve.github.io/) · 组织维护 · 中文 README
 
 **面向 TTS/STS 语音模型的流式推理服务引擎**
 

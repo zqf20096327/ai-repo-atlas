@@ -1,6 +1,6 @@
 # maipeici/ai-ad-creative-workbench
 
-⭐ 7 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/maipeici/ai-ad-creative-workbench) · 个人维护 · 中文 README
+⭐ 8 · JavaScript · 推送 2026-10-11 · [GitHub](https://github.com/maipeici/ai-ad-creative-workbench) · 个人维护 · 中文 README
 
 **面向广告从业者的 AI 创意、分镜与视频批量制作工作台**
 

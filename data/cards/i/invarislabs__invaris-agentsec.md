@@ -1,6 +1,6 @@
 # invarislabs/invaris-agentsec
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/invarislabs/invaris-agentsec) · [官网](https://pypi.org/project/invaris-agentsec/) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/invarislabs/invaris-agentsec) · [官网](https://pypi.org/project/invaris-agentsec/) · 组织维护
 
 **面向 AI agent 的对抗性安全测试框架，覆盖提示注入、工具滥用与 MCP 扫描**
 

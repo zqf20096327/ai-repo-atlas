@@ -1,6 +1,6 @@
 # PINA-org/PINA
 
-⭐ 802 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PINA-org/PINA) · [官网](https://pina-org.github.io/PINA/) · 组织维护
+⭐ 802 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PINA-org/PINA) · [官网](https://pina-org.github.io/PINA/) · 组织维护
 
 **面向科研人员的科学机器学习 Python 库：解微分方程与物理建模**
 

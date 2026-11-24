@@ -1,6 +1,6 @@
 # pingcap/tidb
 
-⭐ 40,765 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/pingcap/tidb) · [官网](https://www.tidb.io/) · 组织维护 · 中文 README
+⭐ 40,766 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/pingcap/tidb) · [官网](https://www.tidb.io/) · 组织维护 · 中文 README
 
 **开源分布式 SQL 数据库：面向事务、分析与向量检索负载**
 

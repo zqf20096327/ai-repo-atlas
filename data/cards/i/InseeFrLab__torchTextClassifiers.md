@@ -1,6 +1,6 @@
 # InseeFrLab/torchTextClassifiers
 
-⭐ 23 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/InseeFrLab/torchTextClassifiers) · [官网](https://inseefrlab.github.io/torchTextClassifiers/) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/InseeFrLab/torchTextClassifiers) · [官网](https://inseefrlab.github.io/torchTextClassifiers/) · 组织维护
 
 **基于 PyTorch 的文本分类框架，支持类别变量混合输入**
 

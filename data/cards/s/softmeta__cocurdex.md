@@ -1,6 +1,6 @@
 # softmeta/cocurdex
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/softmeta/cocurdex) · [官网](https://cocurdex.com) · 组织维护 · 中文 README
+⭐ 11 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/softmeta/cocurdex) · [官网](https://cocurdex.com) · 组织维护 · 中文 README
 
 **桌面优先的多 AI 编码 Agent 工作区，集中管理各会话**
 

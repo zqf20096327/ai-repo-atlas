@@ -1,6 +1,6 @@
 # w8123/EnterpriseAgentFramework
 
-⭐ 1,057 · Java · MIT · 推送 2026-11-15 · [GitHub](https://github.com/w8123/EnterpriseAgentFramework) · 组织维护 · 中文 README
+⭐ 1,058 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/w8123/EnterpriseAgentFramework) · 组织维护 · 中文 README
 
 **企业业务系统智能化改造的智能体开发与运行平台**
 

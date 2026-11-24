@@ -1,6 +1,6 @@
 # netresearch/t3x-cowriter
 
-⭐ 10 · PHP · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/netresearch/t3x-cowriter) · 组织维护
+⭐ 10 · PHP · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/netresearch/t3x-cowriter) · 组织维护
 
 **为 TYPO3 编辑者提供 CKEditor 内 AI 写作助手的扩展**
 

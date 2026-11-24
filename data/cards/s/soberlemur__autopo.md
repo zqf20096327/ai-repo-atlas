@@ -1,6 +1,6 @@
 # soberlemur/autopo
 
-⭐ 19 · Java · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/soberlemur/autopo) · [官网](https://autopo.ooo) · 个人维护
+⭐ 19 · Java · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/soberlemur/autopo) · [官网](https://autopo.ooo) · 个人维护
 
 **用 AI 自动翻译 .po 本地化文件的桌面应用**
 

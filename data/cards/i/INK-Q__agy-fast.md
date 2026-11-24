@@ -1,6 +1,6 @@
 # INK-Q/agy-fast
 
-⭐ 491 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/INK-Q/agy-fast) · 个人维护 · 中文 README
+⭐ 791 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/INK-Q/agy-fast) · 个人维护 · 中文 README
 
 **为 Google Antigravity 加速 MCP 工具调用的本地插件**
 

@@ -1,6 +1,6 @@
 # cookieY/Yearning
 
-⭐ 8,981 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/cookieY/Yearning) · [官网](https://v4.yearning.io/) · 组织维护 · 中文 README
+⭐ 8,981 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/cookieY/Yearning) · [官网](https://v4.yearning.io/) · 组织维护 · 中文 README
 
 **给 DBA/平台团队提供 AI 预检与治理的 SQL 审核变更平台**
 

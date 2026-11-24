@@ -1,6 +1,6 @@
 # AI-PM-Wiki/AIPM
 
-⭐ 62 · JavaScript · 推送 2026-11-17 · [GitHub](https://github.com/AI-PM-Wiki/AIPM) · [官网](https://aipm.ac/) · 组织维护 · 中文 README
+⭐ 62 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/AI-PM-Wiki/AIPM) · [官网](https://aipm.ac/) · 组织维护 · 中文 README
 
 **面向 AI 产品经理的知识整合 wiki 站点**
 

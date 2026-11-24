@@ -1,6 +1,6 @@
 # Shenchangxin/yoyo
 
-⭐ 27 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Shenchangxin/yoyo) · [官网](https://shenchangxin.github.io/yoyo/) · 个人维护 · 中文 README
+⭐ 27 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Shenchangxin/yoyo) · [官网](https://shenchangxin.github.io/yoyo/) · 个人维护 · 中文 README
 
 **本地 Agent 工作站：桌面/浏览器/CLI 多入口编辑代码与生成短视频**
 

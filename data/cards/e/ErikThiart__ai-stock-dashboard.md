@@ -1,6 +1,6 @@
 # ErikThiart/ai-stock-dashboard
 
-⭐ 105 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/ErikThiart/ai-stock-dashboard) · [官网](https://analyze-stocks.streamlit.app/) · 个人维护
+⭐ 104 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/ErikThiart/ai-stock-dashboard) · [官网](https://analyze-stocks.streamlit.app/) · 个人维护
 
 **股票技术分析与随机森林预测的 Streamlit 仪表盘**
 

@@ -1,6 +1,6 @@
 # intel/dokimi
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/intel/dokimi) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/intel/dokimi) · 组织维护
 
 **面向编码智能体的 A/B 测试评测工具：测技能与文档是否有效**
 

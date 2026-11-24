@@ -1,6 +1,6 @@
 # dbetteb/early-ML
 
-⭐ 13 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/dbetteb/early-ML) · 个人维护
+⭐ 13 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dbetteb/early-ML) · 个人维护
 
 **面向学习者的 Python 机器学习与优化分步教程库**
 

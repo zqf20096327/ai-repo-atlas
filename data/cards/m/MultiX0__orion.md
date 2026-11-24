@@ -1,6 +1,6 @@
 # MultiX0/orion
 
-⭐ 28 · C · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/MultiX0/orion) · [官网](https://joinorion.io/) · 个人维护
+⭐ 29 · C · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/MultiX0/orion) · [官网](https://joinorion.io/) · 个人维护
 
 **自组桌面语音助手套件：ESP32-S3 板 + 双语唤醒应答**
 

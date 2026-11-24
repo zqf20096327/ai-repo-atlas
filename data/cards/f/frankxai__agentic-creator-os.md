@@ -1,6 +1,6 @@
 # frankxai/agentic-creator-os
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/frankxai/agentic-creator-os) · [官网](https://frankx.ai/products/agentic-creator-os) · 个人维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/frankxai/agentic-creator-os) · [官网](https://frankx.ai/products/agentic-creator-os) · 个人维护
 
 **面向创作者工作流的可复用 AI 技能/命令/代理目录与本地安装工具**
 

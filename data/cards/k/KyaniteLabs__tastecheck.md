@@ -1,6 +1,6 @@
 # KyaniteLabs/tastecheck
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/KyaniteLabs/tastecheck) · [官网](https://kyanitelabs.github.io/tastecheck/) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KyaniteLabs/tastecheck) · [官网](https://kyanitelabs.github.io/tastecheck/) · 组织维护
 
 **给 AI 编码 agent 的前端设计技能包与发布门禁工具集**
 

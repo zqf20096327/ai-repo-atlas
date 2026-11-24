@@ -1,6 +1,6 @@
 # heavenaruba/codified-prompt-rule-engine
 
-⭐ 122 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/heavenaruba/codified-prompt-rule-engine) · 个人维护
+⭐ 122 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/heavenaruba/codified-prompt-rule-engine) · 个人维护
 
 **将原始指令转换为结构化提示词的元提示编排系统**
 

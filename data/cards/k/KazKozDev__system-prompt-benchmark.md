@@ -1,6 +1,6 @@
 # KazKozDev/system-prompt-benchmark
 
-⭐ 18 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/KazKozDev/system-prompt-benchmark) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-03-29 · [GitHub](https://github.com/KazKozDev/system-prompt-benchmark) · 个人维护
 
 **LLM 系统提示词红队基准测试工具：12 类对抗场景评估**
 

@@ -1,6 +1,6 @@
 # AgiMateIo/agimate-backend
 
-⭐ 14 · Java · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/AgiMateIo/agimate-backend) · [官网](https://agimate.io) · 组织维护 · 中文 README
+⭐ 14 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AgiMateIo/agimate-backend) · [官网](https://agimate.io) · 组织维护 · 中文 README
 
 **自托管多 agent 平台后端：凭证不出平台、出站调用逐次校验留痕**
 

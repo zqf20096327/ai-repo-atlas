@@ -1,6 +1,6 @@
 # MacPaw/ai-sdk-typescript
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/MacPaw/ai-sdk-typescript) · 组织维护
+⭐ 58 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MacPaw/ai-sdk-typescript) · 组织维护
 
 **MacPaw AI Gateway 的 TypeScript SDK：统一接入多模型与音视频端点**
 

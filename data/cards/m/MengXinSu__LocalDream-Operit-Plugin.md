@@ -1,6 +1,6 @@
 # MengXinSu/LocalDream-Operit-Plugin
 
-⭐ 27 · JavaScript · GPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/MengXinSu/LocalDream-Operit-Plugin) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · GPL-3.0 · 推送 2026-08-13 · [GitHub](https://github.com/MengXinSu/LocalDream-Operit-Plugin) · 个人维护 · 中文 README
 
 **手机本地 AI 生图插件：在 Operit 平台离线运行 Stable Diffusion**
 

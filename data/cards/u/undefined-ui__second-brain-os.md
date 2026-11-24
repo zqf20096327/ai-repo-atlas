@@ -1,6 +1,6 @@
 # undefined-ui/second-brain-os
 
-⭐ 1,595 · HTML · MIT · 推送 2026-11-03 · [GitHub](https://github.com/undefined-ui/second-brain-os) · [官网](https://secondbrainos.dev) · 个人维护
+⭐ 1,598 · HTML · MIT · 推送 2026-11-03 · [GitHub](https://github.com/undefined-ui/second-brain-os) · [官网](https://secondbrainos.dev) · 个人维护
 
 **面向 AI 工程师的 agent 课程、手册与知识库实践教程集**
 

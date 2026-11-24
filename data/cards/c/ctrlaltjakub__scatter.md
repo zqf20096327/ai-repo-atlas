@@ -1,6 +1,6 @@
 # ctrlaltjakub/scatter
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ctrlaltjakub/scatter) · [官网](https://scatter.study) · 个人维护
+⭐ 20 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ctrlaltjakub/scatter) · [官网](https://scatter.study) · 个人维护
 
 **自带 API key 的 AI 思维导图知识探索 Web 应用**
 

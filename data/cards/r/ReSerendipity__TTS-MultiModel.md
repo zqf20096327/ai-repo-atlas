@@ -1,6 +1,6 @@
 # ReSerendipity/TTS-MultiModel
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ReSerendipity/TTS-MultiModel) · 组织维护 · 中文 README
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ReSerendipity/TTS-MultiModel) · 组织维护 · 中文 README
 
 **自托管多引擎 TTS 平台：六本地引擎统一 Web 工作台**
 

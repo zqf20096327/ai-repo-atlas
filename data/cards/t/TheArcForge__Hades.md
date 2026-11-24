@@ -1,6 +1,6 @@
 # TheArcForge/Hades
 
-⭐ 29 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/TheArcForge/Hades) · 组织维护
+⭐ 29 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TheArcForge/Hades) · 组织维护
 
 **为 Claude Code 提供 Unity 项目知识图谱的本地 MCP 桌面应用**
 

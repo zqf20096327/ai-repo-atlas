@@ -1,6 +1,6 @@
 # marcreichel/laya-php
 
-⭐ 115 · PHP · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/marcreichel/laya-php) · [官网](https://packagist.org/packages/marcreichel/laya-php) · 个人维护 · 中文 README
+⭐ 116 · PHP · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/marcreichel/laya-php) · [官网](https://packagist.org/packages/marcreichel/laya-php) · 个人维护 · 中文 README
 
 **PHP/Laravel 的 Laya 文本决策 SDK：自托管分类替代 LLM API**
 

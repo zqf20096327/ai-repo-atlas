@@ -1,6 +1,6 @@
 # fxai666/fxai-fully-automated-creation-skills
 
-⭐ 3 · Python · 推送 2026-11-18 · [GitHub](https://github.com/fxai666/fxai-fully-automated-creation-skills) · [官网](https://www.fxai.site) · 个人维护 · 中文 README
+⭐ 3 · Python · 推送 2026-11-22 · [GitHub](https://github.com/fxai666/fxai-fully-automated-creation-skills) · [官网](https://www.fxai.site) · 个人维护 · 中文 README
 
 **装进智能体的全自动化视频创作技能包：一句话从剧本到发布**
 

@@ -1,6 +1,6 @@
 # Nixtla/mlforecast
 
-⭐ 1,308 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Nixtla/mlforecast) · [官网](https://nixtlaverse.nixtla.io/mlforecast) · 组织维护
+⭐ 1,309 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Nixtla/mlforecast) · [官网](https://nixtlaverse.nixtla.io/mlforecast) · 组织维护
 
 **面向数据科学者的机器学习时间序列预测框架**
 

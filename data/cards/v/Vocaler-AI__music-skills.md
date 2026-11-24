@@ -1,6 +1,6 @@
 # Vocaler-AI/music-skills
 
-⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Vocaler-AI/music-skills) · [官网](https://skills.vocaler.ai) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Vocaler-AI/music-skills) · [官网](https://skills.vocaler.ai) · 组织维护
 
 **为音乐创作者提供可在各 agent 中运行的音乐 AI 技能集**
 

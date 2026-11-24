@@ -1,6 +1,6 @@
 # alirostami01/aima-4e-persian
 
-⭐ 15 · HTML · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/alirostami01/aima-4e-persian) · [官网](https://alirostami.com/aima-4e-persian) · 个人维护
+⭐ 22 · HTML · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/alirostami01/aima-4e-persian) · [官网](https://alirostami.com/aima-4e-persian) · 个人维护
 
 **AIMA 第4版教科书的波斯语翻译开源项目**
 

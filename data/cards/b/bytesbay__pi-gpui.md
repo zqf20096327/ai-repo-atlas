@@ -1,6 +1,6 @@
 # bytesbay/pi-gpui
 
-⭐ 194 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/bytesbay/pi-gpui) · [官网](https://pi-gpui.dev) · 个人维护 · 中文 README
+⭐ 197 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bytesbay/pi-gpui) · [官网](https://pi-gpui.dev) · 个人维护 · 中文 README
 
 **为 pi 编程 agent 提供的原生 Rust 桌面 GUI（macOS/Linux）**
 

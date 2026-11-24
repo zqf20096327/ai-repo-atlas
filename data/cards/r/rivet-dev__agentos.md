@@ -1,6 +1,6 @@
 # rivet-dev/agentos
 
-⭐ 4,911 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rivet-dev/agentos) · [官网](https://rivet.dev/agentos) · 组织维护
+⭐ 4,918 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rivet-dev/agentos) · [官网](https://rivet.dev/agentos) · 组织维护
 
 **为 AI agent 提供隔离沙箱的轻量 Linux 兼容 VM 运行时**
 

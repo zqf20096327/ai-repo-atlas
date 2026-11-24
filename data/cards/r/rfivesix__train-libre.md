@@ -1,6 +1,6 @@
 # rfivesix/train-libre
 
-⭐ 19 · Dart · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/rfivesix/train-libre) · [官网](https://trainlibre.com/) · 个人维护
+⭐ 19 · Dart · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/rfivesix/train-libre) · [官网](https://trainlibre.com/) · 个人维护
 
 **面向健身者的离线优先训练与营养追踪 App（Android/iOS）**
 

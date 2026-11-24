@@ -1,6 +1,6 @@
 # mindemory/proxenos
 
-⭐ 4 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mindemory/proxenos) · [官网](https://mindemory.io/proxenos) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mindemory/proxenos) · [官网](https://mindemory.io/proxenos) · 个人维护
 
 **本机私有的个人记忆工具：读你的记录并代拟下一步**
 

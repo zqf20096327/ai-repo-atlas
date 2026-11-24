@@ -1,6 +1,6 @@
 # ace-trump-tech/DeltaForce-OBS-Locker
 
-⭐ 1,778 · Python · 推送 2026-11-04 · [GitHub](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) · 个人维护 · 中文 README
+⭐ 1,783 · Python · 推送 2026-11-04 · [GitHub](https://github.com/ace-trump-tech/DeltaForce-OBS-Locker) · 个人维护 · 中文 README
 
 **面向三角洲行动玩家的 OBS 画面识别与模拟输入工具**
 

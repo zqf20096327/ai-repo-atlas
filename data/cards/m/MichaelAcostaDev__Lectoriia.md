@@ -1,6 +1,6 @@
 # MichaelAcostaDev/Lectoriia
 
-⭐ 5 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/MichaelAcostaDev/Lectoriia) · [官网](https://lectoriia.vercel.app) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/MichaelAcostaDev/Lectoriia) · [官网](https://lectoriia.vercel.app) · 个人维护
 
 **无需外部 AI 的 PDF/文本阅读分析 Web 应用**
 

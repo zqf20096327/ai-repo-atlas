@@ -1,6 +1,6 @@
 # ysunyang4/webagent
 
-⭐ 187 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ysunyang4/webagent) · [官网](https://github.com/ysunyang4/webagent/blob/main/USAGE.md) · 个人维护 · 中文 README
+⭐ 188 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ysunyang4/webagent) · [官网](https://github.com/ysunyang4/webagent/blob/main/USAGE.md) · 个人维护 · 中文 README
 
 **让网页版大模型通过 MCP 调用本地工具的浏览器扩展**
 

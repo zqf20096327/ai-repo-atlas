@@ -1,6 +1,6 @@
 # xocketlabs/bupsy.si
 
-⭐ 12 · Swift · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/xocketlabs/bupsy.si) · [官网](https://bupsy.si) · 组织维护
+⭐ 12 · Swift · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/xocketlabs/bupsy.si) · [官网](https://bupsy.si) · 组织维护
 
 **macOS 原生应用：在自己的 Claude Code/Codex 订阅上运行 AI bot 团队**
 

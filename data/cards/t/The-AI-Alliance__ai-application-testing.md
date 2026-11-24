@@ -1,6 +1,6 @@
 # The-AI-Alliance/ai-application-testing
 
-⭐ 13 · Python · 推送 2026-11-17 · [GitHub](https://github.com/The-AI-Alliance/ai-application-testing) · [官网](https://the-ai-alliance.github.io/ai-application-testing/) · 组织维护
+⭐ 14 · Python · 推送 2026-11-17 · [GitHub](https://github.com/The-AI-Alliance/ai-application-testing) · [官网](https://the-ai-alliance.github.io/ai-application-testing/) · 组织维护
 
 **生成式 AI 应用开发者测试方法指南与工具集**
 

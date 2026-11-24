@@ -1,6 +1,6 @@
 # antvis/GPT-Vis
 
-⭐ 807 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/antvis/GPT-Vis) · [官网](https://gpt-vis.antv.vision) · 组织维护 · 中文 README
+⭐ 807 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/antvis/GPT-Vis) · [官网](https://gpt-vis.antv.vision) · 组织维护 · 中文 README
 
 **面向 LLM 应用的可视化渲染库：26 种图表随模型流式输出渲染**
 

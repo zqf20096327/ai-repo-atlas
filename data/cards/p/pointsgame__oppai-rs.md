@@ -1,6 +1,6 @@
 # pointsgame/oppai-rs
 
-⭐ 14 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/pointsgame/oppai-rs) · 个人维护
+⭐ 14 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pointsgame/oppai-rs) · 个人维护
 
 **Points 棋类游戏的 AI 引擎：搜索最优落子**
 

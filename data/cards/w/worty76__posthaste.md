@@ -1,6 +1,6 @@
 # worty76/posthaste
 
-⭐ 12 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/worty76/posthaste) · [官网](https://posthaste.ink) · 个人维护
+⭐ 16 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/worty76/posthaste) · [官网](https://posthaste.ink) · 个人维护
 
 **本地优先、键盘驱动的待办笔记应用，可选 AI 润色**
 

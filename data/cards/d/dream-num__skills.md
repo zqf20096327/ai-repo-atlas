@@ -1,6 +1,6 @@
 # dream-num/skills
 
-⭐ 81 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/dream-num/skills) · [官网](https://univer.ai) · 组织维护 · 中文 README
+⭐ 82 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/dream-num/skills) · [官网](https://univer.ai) · 组织维护 · 中文 README
 
 **指导编码 agent 使用 Univer Office SDK 的 agent 技能包**
 

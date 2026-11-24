@@ -1,6 +1,6 @@
 # SonarSource/sonarqube-mcp-server
 
-⭐ 693 · Java · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/SonarSource/sonarqube-mcp-server) · [官网](https://www.sonarsource.com/products/sonarqube/mcp-server/) · 组织维护
+⭐ 694 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/SonarSource/sonarqube-mcp-server) · [官网](https://www.sonarsource.com/products/sonarqube/mcp-server/) · 组织维护
 
 **给 AI agent 接入 SonarQube 代码质量与安全数据的 MCP 服务器**
 

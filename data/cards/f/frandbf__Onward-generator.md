@@ -1,6 +1,6 @@
 # frandbf/Onward-generator
 
-⭐ 7 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/frandbf/Onward-generator) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/frandbf/Onward-generator) · 个人维护
 
 **把地球上任意街道生成 Onward（Meta Quest）可玩地图的工具**
 

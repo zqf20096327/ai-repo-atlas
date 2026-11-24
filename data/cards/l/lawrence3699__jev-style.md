@@ -1,6 +1,6 @@
 # lawrence3699/jev-style
 
-⭐ 138 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/lawrence3699/jev-style) · [官网](https://jevstyle.com) · 个人维护
+⭐ 140 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/lawrence3699/jev-style) · [官网](https://jevstyle.com) · 个人维护
 
 **本地运行的小型校准决策模型：文本输入返回各选项概率**
 

@@ -1,6 +1,6 @@
 # oryx-labs/oryxos
 
-⭐ 214 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/oryx-labs/oryxos) · [官网](https://oryx-labs.github.io/oryxos/) · 组织维护
+⭐ 215 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/oryx-labs/oryxos) · [官网](https://oryx-labs.github.io/oryxos/) · 组织维护
 
 **面向企业的自托管分布式 AI Agent 操作系统**
 

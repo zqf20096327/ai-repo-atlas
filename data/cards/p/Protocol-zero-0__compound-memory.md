@@ -1,6 +1,6 @@
 # Protocol-zero-0/compound-memory
 
-⭐ 338 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Protocol-zero-0/compound-memory) · 个人维护 · 中文 README
+⭐ 349 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/Protocol-zero-0/compound-memory) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex 等编程 agent 的跨会话长期记忆工具**
 

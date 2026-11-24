@@ -1,6 +1,6 @@
 # CercaTrovato/cityu-ai-course-notes
 
-⭐ 19 · HTML · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/CercaTrovato/cityu-ai-course-notes) · 个人维护 · 中文 README
+⭐ 21 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/CercaTrovato/cityu-ai-course-notes) · 个人维护 · 中文 README
 
 **CityU 五门课中文精读笔记知识库：讲义×转录双源融合**
 

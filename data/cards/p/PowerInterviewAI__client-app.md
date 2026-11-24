@@ -1,6 +1,6 @@
 # PowerInterviewAI/client-app
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PowerInterviewAI/client-app) · [官网](https://www.powerinterviewai.com) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/PowerInterviewAI/client-app) · [官网](https://www.powerinterviewai.com) · 组织维护
 
 **面向求职者的实时 AI 面试助手：实时转录与提示建议**
 

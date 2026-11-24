@@ -1,6 +1,6 @@
 # Soflutionltd/MemoryPilot
 
-⭐ 18 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Soflutionltd/MemoryPilot) · [官网](https://soflution.com) · 组织维护
+⭐ 18 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Soflutionltd/MemoryPilot) · [官网](https://soflution.com) · 组织维护
 
 **给 AI 助手/Coding Agent 的本地 MCP 记忆服务器**
 

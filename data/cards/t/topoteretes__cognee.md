@@ -1,6 +1,6 @@
 # topoteretes/cognee
 
-⭐ 33,468 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/topoteretes/cognee) · [官网](https://www.cognee.ai) · 组织维护 · 中文 README
+⭐ 33,528 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/topoteretes/cognee) · [官网](https://www.cognee.ai) · 组织维护 · 中文 README
 
 **为 AI agent 提供持久长期记忆的开源知识图谱平台**
 

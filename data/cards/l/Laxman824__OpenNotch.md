@@ -1,6 +1,6 @@
 # Laxman824/OpenNotch
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Laxman824/OpenNotch) · [官网](https://laxman824.github.io/opennotch/) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Laxman824/OpenNotch) · [官网](https://laxman824.github.io/opennotch/) · 个人维护
 
 **驻留 MacBook 刘海的本地优先 AI 助手，附桌面伴侣**
 

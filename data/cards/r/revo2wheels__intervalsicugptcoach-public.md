@@ -1,6 +1,6 @@
 # revo2wheels/intervalsicugptcoach-public
 
-⭐ 52 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/revo2wheels/intervalsicugptcoach-public) · [官网](https://www.montis.icu) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/revo2wheels/intervalsicugptcoach-public) · [官网](https://www.montis.icu) · 个人维护
 
 **基于 Intervals.icu 数据的确定性耐力训练教练引擎**
 

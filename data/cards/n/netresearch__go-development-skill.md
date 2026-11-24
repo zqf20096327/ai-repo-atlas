@@ -1,6 +1,6 @@
 # netresearch/go-development-skill
 
-⭐ 13 · Shell · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/netresearch/go-development-skill) · 组织维护
+⭐ 15 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/netresearch/go-development-skill) · 组织维护
 
 **面向 AI agent 的 Go 企业级开发技能包（SKILL.md 标准）**
 

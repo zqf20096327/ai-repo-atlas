@@ -1,6 +1,6 @@
 # wanshuiyin/HERO-Anti-OverDefense
 
-⭐ 889 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/wanshuiyin/HERO-Anti-OverDefense) · 个人维护 · 中文 README
+⭐ 896 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/wanshuiyin/HERO-Anti-OverDefense) · 个人维护 · 中文 README
 
 **一段粘贴进配置文件的契约，抑制编码代理的过度防御行为**
 

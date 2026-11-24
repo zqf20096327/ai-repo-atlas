@@ -1,6 +1,6 @@
 # agnaistic/agnai
 
-⭐ 795 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/agnaistic/agnai) · [官网](https://agnai.chat) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **多用户多角色的 AI 角色扮演聊天自托管平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

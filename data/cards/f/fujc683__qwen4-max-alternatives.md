@@ -1,6 +1,6 @@
 # fujc683/qwen4-max-alternatives
 
-⭐ 11 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/qwen4-max-alternatives) · [官网](https://gola.apimart.ai/k-IF3cwI) · 个人维护
+⭐ 18 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/qwen4-max-alternatives) · [官网](https://gola.apimart.ai/k-IF3cwI) · 个人维护
 
 **面向开发者的 Qwen4/DeepSeek 模型选型对比清单**
 

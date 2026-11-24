@@ -1,6 +1,6 @@
 # Theorvane/OpenScene
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Theorvane/OpenScene) · [官网](https://openscene.app) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Theorvane/OpenScene) · [官网](https://openscene.app) · 个人维护
 
 **本地优先桌面视频剪辑器，AI Agent 可直接操作时间线**
 

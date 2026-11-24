@@ -1,6 +1,6 @@
 # polyrabbit/hacker-news-digest
 
-⭐ 754 · Python · LGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/polyrabbit/hacker-news-digest) · [官网](http://hackernews.betacat.io/) · 个人维护 · 中文 README
+⭐ 755 · Python · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/polyrabbit/hacker-news-digest) · [官网](http://hackernews.betacat.io/) · 个人维护 · 中文 README
 
 **用 LLM 为 Hacker News 首页新闻生成摘要与配图的阅读站**
 

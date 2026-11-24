@@ -1,6 +1,6 @@
 # DavidOsherdiagnostica/data-gov-il-mcp
 
-⭐ 111 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DavidOsherdiagnostica/data-gov-il-mcp) · 个人维护
+⭐ 111 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DavidOsherdiagnostica/data-gov-il-mcp) · 个人维护
 
 **接入以色列政府开放数据的 MCP 服务器，供 MCP 客户端查询数据集**
 

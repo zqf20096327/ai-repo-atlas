@@ -1,6 +1,6 @@
 # amajorai/ryu
 
-⭐ 45 · HTML · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/amajorai/ryu) · [官网](https://ryuhq.com) · 组织维护
+⭐ 45 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/amajorai/ryu) · [官网](https://ryuhq.com) · 组织维护
 
 **自托管 agent 运行时与编排基础设施，可接入现成 agent**
 

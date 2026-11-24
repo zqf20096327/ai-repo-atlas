@@ -1,6 +1,6 @@
 # orionsheep/wordlink
 
-⭐ 444 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/orionsheep/wordlink) · [官网](https://wordlink.lifeplayertribe.com) · 组织维护 · 中文 README
+⭐ 456 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/orionsheep/wordlink) · [官网](https://wordlink.lifeplayertribe.com) · 组织维护 · 中文 README
 
 **基于 326k 词链图的英语词汇学习工作台，附微调模型**
 

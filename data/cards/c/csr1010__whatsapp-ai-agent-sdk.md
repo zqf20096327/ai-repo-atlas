@@ -1,6 +1,6 @@
 # csr1010/whatsapp-ai-agent-sdk
 
-⭐ 322 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/csr1010/whatsapp-ai-agent-sdk) · [官网](https://www.wappy.ai/) · 个人维护
+⭐ 328 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/csr1010/whatsapp-ai-agent-sdk) · [官网](https://www.wappy.ai/) · 个人维护
 
 **在本地构建和运行 WhatsApp AI agent 的开源 SDK**
 

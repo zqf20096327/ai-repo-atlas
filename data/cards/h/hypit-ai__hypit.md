@@ -1,6 +1,6 @@
 # hypit-ai/hypit
 
-⭐ 31,094 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/hypit-ai/hypit) · [官网](https://hypit.ai) · 组织维护 · 中文 README
+⭐ 31,232 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/hypit-ai/hypit) · [官网](https://hypit.ai) · 组织维护 · 中文 README
 
 **让编程 Agent 用 SVML 语言批量克隆/生成短视频的工作流系统**
 

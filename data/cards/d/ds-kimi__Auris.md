@@ -1,6 +1,6 @@
 # ds-kimi/Auris
 
-⭐ 41 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ds-kimi/Auris) · [官网](https://discord.gg/tnYU8DnkCe) · 个人维护
+⭐ 42 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ds-kimi/Auris) · [官网](https://discord.gg/tnYU8DnkCe) · 个人维护
 
 **Garry's Mod 服务器实时语音转文字模块（whisper.cpp）**
 

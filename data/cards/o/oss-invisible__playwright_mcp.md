@@ -1,6 +1,6 @@
 # oss-invisible/playwright_mcp
 
-⭐ 872 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oss-invisible/playwright_mcp) · [官网](https://github.com/feder-cr/invisible_playwright_mcp/wiki) · 个人维护
+⭐ 875 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oss-invisible/playwright_mcp) · [官网](https://github.com/feder-cr/invisible_playwright_mcp/wiki) · 个人维护
 
 **给 AI 助手接入反检测隐身 Firefox 的浏览器自动化 MCP 服务器**
 

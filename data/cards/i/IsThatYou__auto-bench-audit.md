@@ -1,6 +1,6 @@
 # IsThatYou/auto-bench-audit
 
-⭐ 17 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/IsThatYou/auto-bench-audit) · [官网](https://autobenchaudit.com) · 组织维护
+⭐ 17 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/IsThatYou/auto-bench-audit) · [官网](https://autobenchaudit.com) · 组织维护
 
 **自动审计 LLM/agent 基准的管线：发现任务歧义与评测缺陷**
 

@@ -1,6 +1,6 @@
 # liliang-cn/agent-go
 
-⭐ 11 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/liliang-cn/agent-go) · [官网](https://liliang-cn.github.io/agent-go/) · 个人维护 · 中文 README
+⭐ 11 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/liliang-cn/agent-go) · [官网](https://liliang-cn.github.io/agent-go/) · 个人维护 · 中文 README
 
 **Go 开发者的 AI Agent SDK：嵌入程序的 agent 循环库**
 

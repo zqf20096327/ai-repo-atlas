@@ -1,6 +1,6 @@
 # r-muresan/screen.vision
 
-⭐ 308 · TypeScript · MIT · 推送 2026-02-20 · [GitHub](https://github.com/r-muresan/screen.vision) · [官网](https://screen.vision) · 个人维护
+⭐ 309 · TypeScript · MIT · 推送 2026-02-20 · [GitHub](https://github.com/r-muresan/screen.vision) · [官网](https://screen.vision) · 个人维护
 
 **屏幕实时指导应用：描述目标后逐步获得 AI 操作指引**
 

@@ -1,6 +1,6 @@
 # sqfcyily/deva
 
-⭐ 1,677 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sqfcyily/deva) · [官网](https://deva.chat) · 个人维护 · 中文 README
+⭐ 1,708 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sqfcyily/deva) · [官网](https://deva.chat) · 个人维护 · 中文 README
 
 **本地桌面对话式 AI Agent：多角色协作与多成员分工**
 

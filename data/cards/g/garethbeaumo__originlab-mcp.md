@@ -1,6 +1,6 @@
 # garethbeaumo/originlab-mcp
 
-⭐ 99 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/garethbeaumo/originlab-mcp) · 个人维护 · 中文 README
+⭐ 100 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/garethbeaumo/originlab-mcp) · 个人维护 · 中文 README
 
 **通过 MCP 让 AI 客户端用自然语言操控 OriginLab 的桥接服务器**
 

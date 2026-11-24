@@ -1,6 +1,6 @@
 # NeuralNomadsAI/CodeNomad
 
-⭐ 2,680 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NeuralNomadsAI/CodeNomad) · [官网](https://neuralnomadsai.github.io/CodeNomad/) · 组织维护
+⭐ 2,680 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NeuralNomadsAI/CodeNomad) · [官网](https://neuralnomadsai.github.io/CodeNomad/) · 组织维护
 
 **为 OpenCode V2 编码代理提供的桌面/浏览器工作台**
 

@@ -1,6 +1,6 @@
 # ngocsangyem/MeowKit
 
-⭐ 17 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ngocsangyem/MeowKit) · [官网](https://docs.meowkit.dev/) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ngocsangyem/MeowKit) · [官网](https://docs.meowkit.dev/) · 个人维护
 
 **为 Claude Code 安装结构化工作流的 AI agent 工具包**
 

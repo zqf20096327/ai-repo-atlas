@@ -1,6 +1,6 @@
 # neuregex/freefield
 
-⭐ 1,694 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/neuregex/freefield) · [官网](https://youtu.be/N7mv2v3Txeo) · 组织维护
+⭐ 1,723 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/neuregex/freefield) · [官网](https://youtu.be/N7mv2v3Txeo) · 组织维护
 
 **在 ComfyUI 上以开放权重重建 120 个图像/视频/VFX/音频应用**
 

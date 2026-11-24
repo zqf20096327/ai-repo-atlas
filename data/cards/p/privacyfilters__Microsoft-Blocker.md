@@ -1,6 +1,6 @@
 # privacyfilters/Microsoft-Blocker
 
-⭐ 14 · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/privacyfilters/Microsoft-Blocker) · 个人维护
+⭐ 14 · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/privacyfilters/Microsoft-Blocker) · 个人维护
 
 **屏蔽 Microsoft 遥测与服务的域名过滤清单（三档强度）**
 

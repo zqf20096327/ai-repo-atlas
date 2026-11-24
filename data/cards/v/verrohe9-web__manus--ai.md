@@ -1,6 +1,6 @@
 # verrohe9-web/manus--ai
 
-⭐ 189 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/verrohe9-web/manus--ai) · 个人维护
+⭐ 185 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/verrohe9-web/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码与操控浏览器**
 

@@ -1,6 +1,6 @@
 # Esri/esri-developer-agent-skills
 
-⭐ 33 · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Esri/esri-developer-agent-skills) · [官网](https://github.com/Esri/esri-agent-skills) · 组织维护
+⭐ 33 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Esri/esri-developer-agent-skills) · [官网](https://github.com/Esri/esri-agent-skills) · 组织维护
 
 **为 AI agent 提供 ArcGIS 开发技能与官方文档 MCP 服务的插件**
 

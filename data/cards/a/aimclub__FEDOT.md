@@ -1,6 +1,6 @@
 # aimclub/FEDOT
 
-⭐ 714 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/aimclub/FEDOT) · [官网](https://fedot.readthedocs.io) · 组织维护 · 中文 README
+⭐ 714 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/aimclub/FEDOT) · [官网](https://fedot.readthedocs.io) · 组织维护 · 中文 README
 
 **面向 AutoML 的自动机器学习流水线生成框架**
 

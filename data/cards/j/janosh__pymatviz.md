@@ -1,6 +1,6 @@
 # janosh/pymatviz
 
-⭐ 340 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/janosh/pymatviz) · [官网](https://janosh.github.io/pymatviz) · 个人维护
+⭐ 340 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/janosh/pymatviz) · [官网](https://janosh.github.io/pymatviz) · 个人维护
 
 **材料信息学可视化 Python 工具库，覆盖元素周期表到晶体结构**
 

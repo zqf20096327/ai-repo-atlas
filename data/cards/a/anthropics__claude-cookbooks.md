@@ -1,6 +1,6 @@
 # anthropics/claude-cookbooks
 
-⭐ 55,046 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/claude-cookbooks) · 组织维护
+⭐ 55,121 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/claude-cookbooks) · 组织维护
 
 **面向开发者的 Claude 使用示例与教程合集**
 

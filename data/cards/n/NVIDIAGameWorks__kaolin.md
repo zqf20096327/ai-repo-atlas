@@ -1,6 +1,6 @@
 # NVIDIAGameWorks/kaolin
 
-⭐ 5,198 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIAGameWorks/kaolin) · 组织维护
+⭐ 5,199 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIAGameWorks/kaolin) · 组织维护
 
 **面向 3D 深度学习科研的 PyTorch GPU 模块库**
 

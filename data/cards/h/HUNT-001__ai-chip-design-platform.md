@@ -1,6 +1,6 @@
 # HUNT-001/ai-chip-design-platform
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/HUNT-001/ai-chip-design-platform) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/HUNT-001/ai-chip-design-platform) · 组织维护
 
 **RISC-V RTL 多智能体验证平台，附验证结论可信度研究轨道**
 

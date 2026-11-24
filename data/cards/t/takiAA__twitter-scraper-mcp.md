@@ -1,6 +1,6 @@
 # takiAA/twitter-scraper-mcp
 
-⭐ 27 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/takiAA/twitter-scraper-mcp) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/takiAA/twitter-scraper-mcp) · 个人维护 · 中文 README
 
 **让 MCP agent 通过本地 X 会话做搜索与推文读取的服务器**
 

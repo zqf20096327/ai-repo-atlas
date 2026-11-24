@@ -1,6 +1,6 @@
 # monurcan/simit_paper
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/monurcan/simit_paper) · [官网](https://monurcan.github.io/simit) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/monurcan/simit_paper) · [官网](https://monurcan.github.io/simit) · 组织维护
 
 **SIMIT 测试时自改进 VLM 框架的论文官方实现**
 

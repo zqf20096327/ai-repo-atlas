@@ -1,6 +1,6 @@
 # wellwelwel/lagune
 
-⭐ 254 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/wellwelwel/lagune) · [官网](https://lagune.ai) · 个人维护
+⭐ 261 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/wellwelwel/lagune) · [官网](https://lagune.ai) · 个人维护
 
 **让 AI agent 对任意语言项目做安全加固与审计的命令工具集**
 

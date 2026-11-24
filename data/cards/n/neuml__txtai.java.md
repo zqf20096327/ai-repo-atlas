@@ -1,6 +1,6 @@
 # neuml/txtai.java
 
-⭐ 42 · Java · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/neuml/txtai.java) · 个人维护
+⭐ 42 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neuml/txtai.java) · 个人维护
 
 **txtai 的 Java 客户端：通过 API 接入语义搜索与 LLM 编排**
 

@@ -1,6 +1,6 @@
 # inclusionAI/ASpec
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/inclusionAI/ASpec) · [官网](https://github.com/inclusionAI/ASpec) · 组织维护 · 中文 README
+⭐ 59 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/inclusionAI/ASpec) · [官网](https://github.com/inclusionAI/ASpec) · 组织维护 · 中文 README
 
 **面向投机采样草稿模型的高吞吐训练框架**
 

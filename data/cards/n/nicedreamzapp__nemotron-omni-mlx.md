@@ -1,6 +1,6 @@
 # nicedreamzapp/nemotron-omni-mlx
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [官网](https://nicedreamzwholesale.com/2026/07/16/nvidia-nemotron-omni-mlx-apple-silicon-vision-audio-runtime/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [官网](https://nicedreamzwholesale.com/2026/07/16/nvidia-nemotron-omni-mlx-apple-silicon-vision-audio-runtime/) · 个人维护
 
 **在 Apple Silicon 上纯 MLX 运行 NVIDIA 三模态 Nemotron Omni 模型**
 

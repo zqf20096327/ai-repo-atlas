@@ -1,6 +1,6 @@
 # antgroup/FluidMarkdown
 
-⭐ 645 · JavaScript · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/antgroup/FluidMarkdown) · 组织维护 · 中文 README
+⭐ 646 · JavaScript · Apache-2.0 · 推送 2026-01-30 · [GitHub](https://github.com/antgroup/FluidMarkdown) · 组织维护 · 中文 README
 
 **面向 Android/iOS/HarmonyOS 的流式 Markdown 渲染库**
 

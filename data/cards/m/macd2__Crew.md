@@ -1,6 +1,6 @@
 # macd2/Crew
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/macd2/Crew) · [官网](https://crew.forgecoreai.com) · 个人维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/macd2/Crew) · [官网](https://crew.forgecoreai.com) · 个人维护
 
 **Hermes 插件：一条 /crew 消息变成看板上经证明完成的工作**
 

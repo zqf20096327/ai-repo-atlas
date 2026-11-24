@@ -1,6 +1,6 @@
 # NVIDIA/Ising-Decoding
 
-⭐ 124 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/Ising-Decoding) · [官网](https://developer.nvidia.com/ising) · 组织维护
+⭐ 124 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/Ising-Decoding) · [官网](https://developer.nvidia.com/ising) · 组织维护
 
 **量子纠错解码器的神经网络预解码训练方案**
 

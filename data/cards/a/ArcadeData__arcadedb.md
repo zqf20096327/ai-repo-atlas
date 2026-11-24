@@ -1,6 +1,6 @@
 # ArcadeData/arcadedb
 
-⭐ 1,259 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ArcadeData/arcadedb) · [官网](https://arcadedb.com) · 组织维护
+⭐ 1,263 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ArcadeData/arcadedb) · [官网](https://arcadedb.com) · 组织维护
 
 **面向多模型数据场景的多模型 DBMS：一库支持图/文档/向量等**
 

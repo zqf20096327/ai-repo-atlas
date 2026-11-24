@@ -1,6 +1,6 @@
 # cotletdev/peopleperhour-api-mcp-server
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/peopleperhour-api-mcp-server) · [官网](https://cotlet.dev/integrations/peopleperhour-api-mcp-server) · 组织维护
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/peopleperhour-api-mcp-server) · [官网](https://cotlet.dev/integrations/peopleperhour-api-mcp-server) · 组织维护
 
 **把 PeoplePerHour 接入 ChatGPT/Claude 等 AI 客户端的 MCP 服务器与 REST API**
 

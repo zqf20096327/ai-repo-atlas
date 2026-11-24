@@ -1,6 +1,6 @@
 # samosa-ai-com/Gotcha
 
-⭐ 27 · Kotlin · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/samosa-ai-com/Gotcha) · [官网](https://samosa-ai.com/gotcha) · 组织维护
+⭐ 27 · Kotlin · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/samosa-ai-com/Gotcha) · [官网](https://samosa-ai.com/gotcha) · 组织维护
 
 **安卓端上 AI 副驾：自然语言驱动的全设备操作应用**
 

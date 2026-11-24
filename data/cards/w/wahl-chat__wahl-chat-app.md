@@ -1,6 +1,6 @@
 # wahl-chat/wahl-chat-app
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/wahl-chat/wahl-chat-app) · [官网](https://wahl.chat) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/wahl-chat/wahl-chat-app) · [官网](https://wahl.chat) · 组织维护
 
 **德国选举政治问答聊天机器人平台（RAG，带来源佐证）**
 

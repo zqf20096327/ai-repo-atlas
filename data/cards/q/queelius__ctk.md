@@ -1,6 +1,6 @@
 # queelius/ctk
 
-⭐ 26 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/queelius/ctk) · [官网](https://queelius.github.io/ctk/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/queelius/ctk) · [官网](https://queelius.github.io/ctk/) · 个人维护
 
 **多平台 AI 对话记录统一管理 CLI/TUI：导入、搜索、分支、导出与对话**
 

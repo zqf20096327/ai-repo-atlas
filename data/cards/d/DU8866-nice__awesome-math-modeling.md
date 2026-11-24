@@ -1,6 +1,6 @@
 # DU8866-nice/awesome-math-modeling
 
-⭐ 9 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/DU8866-nice/awesome-math-modeling) · 个人维护 · 中文 README
+⭐ 10 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/DU8866-nice/awesome-math-modeling) · 个人维护 · 中文 README
 
 **数学建模竞赛的 AI 工具与资源策展清单（120 项）**
 

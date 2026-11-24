@@ -1,6 +1,6 @@
 # Free-The-Ai/free-ai
 
-⭐ 40 · Astro · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Free-The-Ai/free-ai) · [官网](https://freetheai.org) · 个人维护 · 中文 README
+⭐ 39 · Astro · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Free-The-Ai/free-ai) · [官网](https://freetheai.org) · 个人维护 · 中文 README
 
 **免费的 OpenAI 兼容 AI API 聚合服务与 SDK**
 

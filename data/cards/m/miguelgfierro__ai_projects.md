@@ -1,6 +1,6 @@
 # miguelgfierro/ai_projects
 
-⭐ 873 · Jupyter Notebook · NOASSERTION · 推送 2026-02-09 · [GitHub](https://github.com/miguelgfierro/ai_projects) · [官网](https://miguelgfierro.com/) · 个人维护
+⭐ 874 · Jupyter Notebook · NOASSERTION · 推送 2026-02-09 · [GitHub](https://github.com/miguelgfierro/ai_projects) · [官网](https://miguelgfierro.com/) · 个人维护
 
 **多领域机器学习项目代码示例集合（附博客讲解）**
 

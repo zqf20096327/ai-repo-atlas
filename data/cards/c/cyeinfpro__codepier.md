@@ -1,6 +1,6 @@
 # cyeinfpro/codepier
 
-⭐ 23 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cyeinfpro/codepier) · 组织维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cyeinfpro/codepier) · 组织维护 · 中文 README
 
 **自托管 MCP 服务与开发面板：让 ChatGPT 安全操作本地项目**
 

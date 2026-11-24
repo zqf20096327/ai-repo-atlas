@@ -1,6 +1,6 @@
 # awakenworks/awaken
 
-⭐ 101 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/awakenworks/awaken) · [官网](https://awakenworks.github.io/awaken/) · 组织维护 · 中文 README
+⭐ 101 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/awakenworks/awaken) · [官网](https://awakenworks.github.io/awaken/) · 组织维护 · 中文 README
 
 **Rust 编写的 AI agent 运行时：多协议服务与在线调优**
 

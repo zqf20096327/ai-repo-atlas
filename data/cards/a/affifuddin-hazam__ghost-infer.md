@@ -1,6 +1,6 @@
 # affifuddin-hazam/ghost-infer
 
-⭐ 261 · HTML · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/affifuddin-hazam/ghost-infer) · 个人维护 · 中文 README
+⭐ 264 · HTML · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/affifuddin-hazam/ghost-infer) · 个人维护 · 中文 README
 
 **消费级 NVIDIA GPU 上的本地 GGUF 推理引擎，含桌面应用**
 

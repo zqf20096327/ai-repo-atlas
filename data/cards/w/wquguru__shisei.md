@@ -1,6 +1,6 @@
 # wquguru/shisei
 
-⭐ 573 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/wquguru/shisei) · [官网](https://shisei.indaloop.app) · 个人维护 · 中文 README
+⭐ 577 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/wquguru/shisei) · [官网](https://shisei.indaloop.app) · 个人维护 · 中文 README
 
 **CC0 人偶姿势参考图库：280 姿势×5 角度，供 AI 绘图工具使用**
 

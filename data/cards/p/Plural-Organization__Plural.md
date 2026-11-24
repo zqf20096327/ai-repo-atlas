@@ -1,6 +1,6 @@
 # Plural-Organization/Plural
 
-⭐ 5 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Plural-Organization/Plural) · [官网](https://plrl.host/) · 组织维护
+⭐ 5 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Plural-Organization/Plural) · [官网](https://plrl.host/) · 组织维护
 
 **为编码 agent 提供多人共享会话与权限门的协作 CLI**
 

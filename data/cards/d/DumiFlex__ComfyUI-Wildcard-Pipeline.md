@@ -1,6 +1,6 @@
 # DumiFlex/ComfyUI-Wildcard-Pipeline
 
-⭐ 14 · TypeScript · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/DumiFlex/ComfyUI-Wildcard-Pipeline) · [官网](https://wp.dumiflex.dev) · 组织维护
+⭐ 15 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/DumiFlex/ComfyUI-Wildcard-Pipeline) · [官网](https://wp.dumiflex.dev) · 组织维护
 
 **ComfyUI 模块化提示词生成扩展：按上下文逐步构建随机提示词**
 

@@ -1,6 +1,6 @@
 # looplj/axonhub
 
-⭐ 5,484 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/looplj/axonhub) · [官网](https://axonhub.reveric.app) · 组织维护 · 中文 README
+⭐ 5,485 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/looplj/axonhub) · [官网](https://axonhub.reveric.app) · 组织维护 · 中文 README
 
 **给开发者的 AI 网关：任意 SDK 调 100+ 模型，免改代码切换供应商**
 

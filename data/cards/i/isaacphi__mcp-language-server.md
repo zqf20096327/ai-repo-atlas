@@ -1,6 +1,6 @@
 # isaacphi/mcp-language-server
 
-⭐ 1,622 · Go · BSD-3-Clause · 推送 2026-03-01 · [GitHub](https://github.com/isaacphi/mcp-language-server) · 个人维护
+⭐ 1,623 · Go · BSD-3-Clause · 推送 2026-03-01 · [GitHub](https://github.com/isaacphi/mcp-language-server) · 个人维护
 
 **将语言服务器（LSP）能力暴露给 LLM 的 MCP 服务器**
 

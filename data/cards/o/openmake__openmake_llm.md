@@ -1,6 +1,6 @@
 # openmake/openmake_llm
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openmake/openmake_llm) · [官网](https://openmake.cc/en/) · 组织维护 · 中文 README
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openmake/openmake_llm) · [官网](https://openmake.cc/en/) · 组织维护 · 中文 README
 
 **自托管 AI 工作台：编排多模型、agent 与 MCP 工具完成通用任务**
 

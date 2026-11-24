@@ -1,6 +1,6 @@
 # NVlabs/Eagle
 
-⭐ 3,862 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/NVlabs/Eagle) · [官网](https://nvlabs.github.io/Eagle/) · 组织维护
+⭐ 3,864 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/NVlabs/Eagle) · [官网](https://nvlabs.github.io/Eagle/) · 组织维护
 
 **NVIDIA 视觉-语言模型族：图像/视频理解与视觉定位**
 

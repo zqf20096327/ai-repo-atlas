@@ -1,6 +1,6 @@
 # NatLabRockies/COMPASS
 
-⭐ 17 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/NatLabRockies/COMPASS) · [官网](https://natlabrockies.github.io/COMPASS/) · 组织维护
+⭐ 17 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/NatLabRockies/COMPASS) · [官网](https://natlabrockies.github.io/COMPASS/) · 组织维护
 
 **用 LLM 汇编能源法规条例清单的工具：检索并抽取结构化数据**
 

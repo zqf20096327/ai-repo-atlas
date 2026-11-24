@@ -1,6 +1,6 @@
 # yavno/speech-text
 
-⭐ 3 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/yavno/speech-text) · [官网](https://speech-text.app/) · 个人维护
+⭐ 3 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/yavno/speech-text) · [官网](https://speech-text.app/) · 个人维护
 
 **macOS 全局语音输入工具：按键说话，文字落至光标处**
 

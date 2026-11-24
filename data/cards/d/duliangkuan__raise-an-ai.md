@@ -1,6 +1,6 @@
 # duliangkuan/raise-an-ai
 
-⭐ 44 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/duliangkuan/raise-an-ai) · [官网](https://raiseai.dufengyun.xyz) · 个人维护 · 中文 README
+⭐ 46 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/duliangkuan/raise-an-ai) · [官网](https://raiseai.dufengyun.xyz) · 个人维护 · 中文 README
 
 **养鲸鱼娘的开源平台：接入自备模型，伴聊、B站探索与飞书互动**
 

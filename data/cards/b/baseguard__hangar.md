@@ -1,6 +1,6 @@
 # baseguard/hangar
 
-⭐ 100 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/baseguard/hangar) · [官网](https://hangar.bot) · 组织维护
+⭐ 102 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/baseguard/hangar) · [官网](https://hangar.bot) · 组织维护
 
 **在 Mac 虚拟机中隔离运行 AI 编码 agent 的沙箱工具**
 

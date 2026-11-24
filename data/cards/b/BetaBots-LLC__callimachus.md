@@ -1,6 +1,6 @@
 # BetaBots-LLC/callimachus
 
-⭐ 50 · Rust · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/BetaBots-LLC/callimachus) · [官网](https://callimachus.app) · 组织维护
+⭐ 50 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/BetaBots-LLC/callimachus) · [官网](https://callimachus.app) · 组织维护
 
 **本地索引并检索 11 种 AI 编码代理的对话历史**
 

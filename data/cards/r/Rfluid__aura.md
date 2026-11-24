@@ -1,6 +1,6 @@
 # Rfluid/aura
 
-⭐ 18 · Rust · 推送 2026-11-09 · [GitHub](https://github.com/Rfluid/aura) · 个人维护
+⭐ 18 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/Rfluid/aura) · 个人维护
 
 **系统托盘 AI agent 用量指示器：实时显示 token 与配额**
 

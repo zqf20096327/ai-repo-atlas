@@ -1,6 +1,6 @@
 # NimbleBrainInc/nimblebrain
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NimbleBrainInc/nimblebrain) · [官网](https://nimblebrain.ai) · 组织维护
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NimbleBrainInc/nimblebrain) · [官网](https://nimblebrain.ai) · 组织维护
 
 **自托管的 MCP 应用与 agent 任务运行平台**
 

@@ -1,6 +1,6 @@
 # copywriting-software/ai-assistant-for-writing
 
-⭐ 7 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/copywriting-software/ai-assistant-for-writing) · [官网](https://copywriting-software.github.io/ai-assistant-for-writing/) · 个人维护
+⭐ 9 · Rust · 推送 2026-11-19 · [GitHub](https://github.com/copywriting-software/ai-assistant-for-writing) · [官网](https://copywriting-software.github.io/ai-assistant-for-writing/) · 个人维护
 
 **macOS 系统级 AI 写作助手：ghost text 补全、语法/布局修复**
 

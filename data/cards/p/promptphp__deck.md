@@ -1,6 +1,6 @@
 # promptphp/deck
 
-⭐ 117 · PHP · MIT · 推送 2026-11-21 · [GitHub](https://github.com/promptphp/deck) · [官网](https://deck.promptphp.com/) · 个人维护
+⭐ 117 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/promptphp/deck) · [官网](https://deck.promptphp.com/) · 个人维护
 
 **Laravel/PHP 的 AI 提示词版本管理包：模板变量、A/B 测试**
 

@@ -1,6 +1,6 @@
 # The-OpenROAD-Project/ORAssistant
 
-⭐ 51 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/The-OpenROAD-Project/ORAssistant) · 组织维护
+⭐ 51 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/The-OpenROAD-Project/ORAssistant) · 组织维护
 
 **面向 OpenROAD 用户的 RAG 文档问答聊天助手**
 

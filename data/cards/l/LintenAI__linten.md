@@ -1,6 +1,6 @@
 # LintenAI/linten
 
-⭐ 241 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/LintenAI/linten) · [官网](https://linten.app) · 组织维护
+⭐ 242 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/LintenAI/linten) · [官网](https://linten.app) · 组织维护
 
 **自托管开源 AI 网关：统一 OpenAI 格式调用 100+ 模型**
 

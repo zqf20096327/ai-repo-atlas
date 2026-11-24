@@ -1,6 +1,6 @@
 # Tuteliq/swift
 
-⭐ 18 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Tuteliq/swift) · [官网](https://tuteliq.ai) · 组织维护
+⭐ 18 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Tuteliq/swift) · [官网](https://tuteliq.ai) · 组织维护
 
 **Tuteliq 儿童安全检测 API 的官方 Swift SDK**
 

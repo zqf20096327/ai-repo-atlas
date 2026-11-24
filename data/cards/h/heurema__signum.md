@@ -1,6 +1,6 @@
 # heurema/signum
 
-⭐ 18 · Shell · MIT · 推送 2026-11-20 · [GitHub](https://github.com/heurema/signum) · 个人维护
+⭐ 18 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/heurema/signum) · 个人维护
 
 **面向 agentic 开发流程的合约式审查与证明门禁（Claude Code 插件）**
 

@@ -1,6 +1,6 @@
 # cohere-ai/cohere-megakernel
 
-⭐ 110 · C++ · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/cohere-ai/cohere-megakernel) · 组织维护
+⭐ 111 · C++ · Apache-2.0 · 推送 2026-09-08 · [GitHub](https://github.com/cohere-ai/cohere-megakernel) · 组织维护
 
 **面向 H100 的 decode megakernel 推理服务引擎，服务 North Mini Code**
 

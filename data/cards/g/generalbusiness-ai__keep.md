@@ -1,6 +1,6 @@
 # generalbusiness-ai/keep
 
-⭐ 41 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/generalbusiness-ai/keep) · [官网](https://docs.keepnotes.ai/guides/quickstart/) · 组织维护
+⭐ 41 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/generalbusiness-ai/keep) · [官网](https://docs.keepnotes.ai/guides/quickstart/) · 组织维护
 
 **给 AI agent 的反思式记忆系统：语义存储与检索基础设施**
 

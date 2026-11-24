@@ -1,6 +1,6 @@
 # saadnvd1/agent-os
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/saadnvd1/agent-os) · [官网](https://runagentos.com) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/saadnvd1/agent-os) · [官网](https://runagentos.com) · 个人维护
 
 **自托管的 AI 编码 agent 管理界面：手机端统筹多 agent 会话**
 

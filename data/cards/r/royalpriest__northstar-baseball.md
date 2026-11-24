@@ -1,6 +1,6 @@
 # royalpriest/northstar-baseball
 
-⭐ 23 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/royalpriest/northstar-baseball) · [官网](https://northstar-baseball.vercel.app) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/royalpriest/northstar-baseball) · [官网](https://northstar-baseball.vercel.app) · 个人维护
 
 **为棒球爱好者提供 2025 MLB 打者数据分析诊断**
 

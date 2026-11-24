@@ -1,6 +1,6 @@
 # panvv-ai/bid-engine
 
-⭐ 8 · Go · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/panvv-ai/bid-engine) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **给投标团队的全流程 AI 工作台：找标、读标、写标、审标**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

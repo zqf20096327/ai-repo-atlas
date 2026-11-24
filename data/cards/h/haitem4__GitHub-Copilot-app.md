@@ -1,6 +1,6 @@
 # haitem4/GitHub-Copilot-app
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/haitem4/GitHub-Copilot-app) · 组织维护
+⭐ 40 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/haitem4/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 GitHub Copilot 桌面端：管理、并行运行与落定代码 agent 工作流**
 

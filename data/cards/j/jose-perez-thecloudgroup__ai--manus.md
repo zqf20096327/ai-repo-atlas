@@ -1,6 +1,6 @@
 # jose-perez-thecloudgroup/ai--manus
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/jose-perez-thecloudgroup/ai--manus) · 组织维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/jose-perez-thecloudgroup/ai--manus) · 组织维护
 
 **面向日常任务的自主 AI Agent：自动执行代码与浏览器操作**
 

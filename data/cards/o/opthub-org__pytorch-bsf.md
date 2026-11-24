@@ -1,6 +1,6 @@
 # opthub-org/pytorch-bsf
 
-⭐ 12 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/opthub-org/pytorch-bsf) · [官网](https://pypi.org/project/pytorch-bsf/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opthub-org/pytorch-bsf) · [官网](https://pypi.org/project/pytorch-bsf/) · 组织维护
 
 **PyTorch 的 Bézier 单纯形体拟合库：曲线曲面回归与插值**
 

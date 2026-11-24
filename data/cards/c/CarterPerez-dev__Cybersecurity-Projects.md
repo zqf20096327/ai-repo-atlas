@@ -1,6 +1,6 @@
 # CarterPerez-dev/Cybersecurity-Projects
 
-⭐ 9,636 · Go · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/CarterPerez-dev/Cybersecurity-Projects) · [官网](https://angelamos.com) · 个人维护
+⭐ 9,650 · Go · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/CarterPerez-dev/Cybersecurity-Projects) · [官网](https://angelamos.com) · 个人维护
 
 **为网络安全学习者提供 70 个分级实战项目与认证路线图**
 

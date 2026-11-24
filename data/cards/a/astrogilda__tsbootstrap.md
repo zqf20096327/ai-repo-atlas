@@ -1,6 +1,6 @@
 # astrogilda/tsbootstrap
 
-⭐ 97 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/astrogilda/tsbootstrap) · [官网](https://tsbootstrap.readthedocs.io/en/latest/) · 组织维护
+⭐ 98 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/astrogilda/tsbootstrap) · [官网](https://tsbootstrap.readthedocs.io/en/latest/) · 组织维护
 
 **时间序列与参差面板的块自助重采样与不确定性量化库**
 

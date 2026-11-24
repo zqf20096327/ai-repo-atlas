@@ -1,6 +1,6 @@
 # publu/RoboRun
 
-⭐ 13 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/publu/RoboRun) · [官网](https://roborun.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **机器人行为运行时：热重载 Python 驱动 ROS 1/2 机器人并加密记录运行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

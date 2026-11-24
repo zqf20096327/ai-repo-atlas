@@ -1,6 +1,6 @@
 # fabricioctelles/astro-webmcp
 
-⭐ 20 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/fabricioctelles/astro-webmcp) · [官网](https://www.npmjs.com/package/astro-webmcp) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-09-19 · [GitHub](https://github.com/fabricioctelles/astro-webmcp) · [官网](https://www.npmjs.com/package/astro-webmcp) · 个人维护
 
 **Astro 集成：一行代码让站点内容通过 WebMCP 暴露给 AI agent**
 

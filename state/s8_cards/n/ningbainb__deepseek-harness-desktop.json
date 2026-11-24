@@ -1,1 +1,85 @@
-{"fn": "ningbainb/deepseek-harness-desktop", "sha": "30d2cfd187b8", "source": "readme", "identity": {"one_liner": "DeepSeek Harness 的桌面 GUI 客户端，打包零配置运行环境", "review": "基于官方 DSH Runtime 的社区开源桌面工作台，用 Electron 封装 DeepSeek Harness Web Surface 并统一管理本地运行时：AI 对话与代码修改、文件浏览与 Git 操作、Skills 与插件市场、任务看板交给真实 DSH Agent Session 执行、SSH/手机远程接入，以及 15 套主题皮肤与桌宠。安装包内置 Node.js、Git、pnpm 与 DSH，无需手动准备组件；按 BSD-3-Clause 发布，Windows 为正式版，macOS/Linux 为未签名 Preview。", "highlights": ["零配置安装包内置 Node.js、Git、pnpm 与 DSH Runtime", "任务看板支持定时任务并记录 Task Run 与 Evidence", "SSH/手机远程/Web Terminal/SFTP/端口转发/多主机集群", "Browser Use 与 Computer Use 智能操控（默认关闭、逐次审批）"], "use_cases": ["不想手动配 Node/Git，安装即用的 Harness 开发环境", "通过手机或 QQ Bot 远程控制本机 AI 编程会话", "用任务看板管理周期性开发与自动化任务"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": "desktop", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["AI编程", "桌面GUI", "Agent工作台", "插件生态"], "domain": "AI 编程工具/桌面客户端", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["deepseek"]}, "intel": {"maintainer_type": "individual", "zh_origin": true, "zh_origin_signals": ["全中文 README", "QQ 社群与爱发电赞助", "QQ Bot 接入", "LINUX DO 社区"]}, "trust": {"confidence": "high", "evidence": ["L7: DeepSeek Harness Desktop 是基于官方 DSH 的社区开源桌面工作台，用于对话、项目、插件和任务自动化。", "L236: 桌面版直接运行 DeepSeek Harness Web Surface，并由桌面宿主管理本地 DSH Runtime。", "L26: 支持 Windows 10 / 11 x64、macOS 13+ Apple Silicon arm64 Preview 和 Linux x64 Preview。安装包包含 Node.js 与 DSH。Windows 内置 Git，macO"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-24", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "ningbainb/deepseek-harness-desktop",
+ "sha": "30d2cfd187b8",
+ "source": "readme",
+ "identity": {
+  "one_liner": "DeepSeek Harness 的桌面 GUI 客户端，打包零配置运行环境",
+  "review": "基于官方 DSH Runtime 的社区开源桌面工作台，用 Electron 封装 DeepSeek Harness Web Surface 并统一管理本地运行时：AI 对话与代码修改、文件浏览与 Git 操作、Skills 与插件市场、任务看板交给真实 DSH Agent Session 执行、SSH/手机远程接入，以及 15 套主题皮肤与桌宠。安装包内置 Node.js、Git、pnpm 与 DSH，无需手动准备组件；按 BSD-3-Clause 发布，Windows 为正式版，macOS/Linux 为未签名 Preview。",
+  "highlights": [
+   "零配置安装包内置 Node.js、Git、pnpm 与 DSH Runtime",
+   "任务看板支持定时任务并记录 Task Run 与 Evidence",
+   "SSH/手机远程/Web Terminal/SFTP/端口转发/多主机集群",
+   "Browser Use 与 Computer Use 智能操控（默认关闭、逐次审批）"
+  ],
+  "use_cases": [
+   "不想手动配 Node/Git，安装即用的 Harness 开发环境",
+   "通过手机或 QQ Bot 远程控制本机 AI 编程会话",
+   "用任务看板管理周期性开发与自动化任务"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": "desktop",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "AI编程",
+   "桌面GUI",
+   "Agent工作台",
+   "插件生态"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "deepseek"
+  ],
+  "scenario_tags_v2": [
+   "coding-agent",
+   "ai-assistant"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "全中文 README",
+   "QQ 社群与爱发电赞助",
+   "QQ Bot 接入",
+   "LINUX DO 社区"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L7: DeepSeek Harness Desktop 是基于官方 DSH 的社区开源桌面工作台，用于对话、项目、插件和任务自动化。",
+   "L236: 桌面版直接运行 DeepSeek Harness Web Surface，并由桌面宿主管理本地 DSH Runtime。",
+   "L26: 支持 Windows 10 / 11 x64、macOS 13+ Apple Silicon arm64 Preview 和 Linux x64 Preview。安装包包含 Node.js 与 DSH。Windows 内置 Git，macO"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

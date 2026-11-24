@@ -1,6 +1,6 @@
 # DebarghaG/proofofthought
 
-⭐ 377 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DebarghaG/proofofthought) · [官网](https://debarghag.github.io/proofofthought/) · 个人维护
+⭐ 378 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DebarghaG/proofofthought) · [官网](https://debarghag.github.io/proofofthought/) · 个人维护
 
 **结合 LLM 与 Z3 定理证明器的神经符号推理 Python 库**
 

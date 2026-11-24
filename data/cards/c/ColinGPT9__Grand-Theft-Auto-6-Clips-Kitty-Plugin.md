@@ -1,6 +1,6 @@
 # ColinGPT9/Grand-Theft-Auto-6-Clips-Kitty-Plugin
 
-⭐ 46 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ColinGPT9/Grand-Theft-Auto-6-Clips-Kitty-Plugin) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ColinGPT9/Grand-Theft-Auto-6-Clips-Kitty-Plugin) · 个人维护
 
 **GTA 直播流高光片段检测的 Clips Kitty 插件**
 

@@ -1,6 +1,6 @@
 # OpenADMET/openadmet-models
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/OpenADMET/openadmet-models) · [官网](https://docs.openadmet.org/en/latest/) · 组织维护
+⭐ 62 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenADMET/openadmet-models) · [官网](https://docs.openadmet.org/en/latest/) · 组织维护
 
 **面向药物 ADMET 性质预测的机器学习建模库**
 

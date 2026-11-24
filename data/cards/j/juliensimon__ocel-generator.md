@@ -1,6 +1,6 @@
 # juliensimon/ocel-generator
 
-⭐ 17 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/juliensimon/ocel-generator) · [官网](https://huggingface.co/datasets/juliensimon/open-agent-traces) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/juliensimon/ocel-generator) · [官网](https://huggingface.co/datasets/juliensimon/open-agent-traces) · 个人维护
 
 **生成多智能体工作流 OCEL 2.0 轨迹数据的 Python 工具**
 

@@ -1,6 +1,6 @@
 # openMF/mcp-mifosx
 
-⭐ 30 · Java · MPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/openMF/mcp-mifosx) · [官网](https://ai.mifos.community/) · 组织维护
+⭐ 30 · Java · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openMF/mcp-mifosx) · [官网](https://ai.mifos.community/) · 组织维护
 
 **为 Mifos X 核心银行系统提供 MCP 工具服务器，供 AI agent 调用**
 

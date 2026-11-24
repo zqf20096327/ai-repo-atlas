@@ -1,6 +1,6 @@
 # fengshao1227/ccg-workflow
 
-⭐ 5,985 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fengshao1227/ccg-workflow) · [官网](https://ccg.fengshao1227.com) · 个人维护 · 中文 README
+⭐ 5,987 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fengshao1227/ccg-workflow) · [官网](https://ccg.fengshao1227.com) · 个人维护 · 中文 README
 
 **Claude Code 的多模型协作工作流引擎，自动编排 Codex/Gemini 等协作**
 

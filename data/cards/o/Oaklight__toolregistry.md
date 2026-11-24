@@ -1,6 +1,6 @@
 # Oaklight/toolregistry
 
-⭐ 67 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Oaklight/toolregistry) · [官网](https://toolregistry.readthedocs.io) · 个人维护 · 中文 README
+⭐ 67 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Oaklight/toolregistry) · [官网](https://toolregistry.readthedocs.io) · 个人维护 · 中文 README
 
 **为函数调用 LLM 应用统一注册与执行工具的 Python 库**
 

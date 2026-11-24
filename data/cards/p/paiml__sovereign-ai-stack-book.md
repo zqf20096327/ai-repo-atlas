@@ -1,6 +1,6 @@
 # paiml/sovereign-ai-stack-book
 
-⭐ 15 · Makefile · MIT · 推送 2026-11-09 · [GitHub](https://github.com/paiml/sovereign-ai-stack-book) · [官网](https://paiml.github.io/sovereign-ai-stack-book/) · 组织维护
+⭐ 15 · Makefile · MIT · 推送 2026-11-22 · [GitHub](https://github.com/paiml/sovereign-ai-stack-book) · [官网](https://paiml.github.io/sovereign-ai-stack-book/) · 组织维护
 
 **纯 Rust 主权 AI 技术栈书籍：23 章可复现代码讲解 EU 合规 ML 基础设施**
 

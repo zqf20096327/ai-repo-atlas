@@ -1,6 +1,6 @@
 # arkflow-rs/arkflow
 
-⭐ 1,319 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/arkflow-rs/arkflow) · [官网](https://arkflow-rs.com/) · 组织维护 · 中文 README
+⭐ 1,319 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/arkflow-rs/arkflow) · [官网](https://arkflow-rs.com/) · 组织维护 · 中文 README
 
 **面向开发者的 Rust 流处理引擎，内置 LLM/向量检索处理**
 

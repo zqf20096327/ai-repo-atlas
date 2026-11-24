@@ -1,6 +1,6 @@
 # mingchen666/Reviva
 
-⭐ 346 · Python · 推送 2026-11-15 · [GitHub](https://github.com/mingchen666/Reviva) · [官网](https://www.reviva.cn) · 个人维护 · 中文 README
+⭐ 346 · Python · 推送 2026-11-23 · [GitHub](https://github.com/mingchen666/Reviva) · [官网](https://www.reviva.cn) · 个人维护 · 中文 README
 
 **本地优先的 AI 学习工作台：围绕自有资料问答、笔记、复习与创作**
 

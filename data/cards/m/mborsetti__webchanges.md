@@ -1,6 +1,6 @@
 # mborsetti/webchanges
 
-⭐ 51 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/mborsetti/webchanges) · [官网](https://pypi.org/project/webchanges/) · 个人维护
+⭐ 51 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mborsetti/webchanges) · [官网](https://pypi.org/project/webchanges/) · 个人维护
 
 **网页变更监控工具：匿名检测网页/图片/命令变化并通知，含 AI 摘要**
 

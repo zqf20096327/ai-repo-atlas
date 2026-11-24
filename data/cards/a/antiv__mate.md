@@ -1,6 +1,6 @@
 # antiv/mate
 
-⭐ 111 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/antiv/mate) · [官网](https://antonijevic.rs/mate) · 个人维护
+⭐ 111 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/antiv/mate) · [官网](https://antonijevic.rs/mate) · 个人维护
 
 **自托管多 agent 编排与治理平台：仪表盘改配置无需重部署**
 

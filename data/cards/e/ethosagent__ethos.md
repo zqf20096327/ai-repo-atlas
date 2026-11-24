@@ -1,6 +1,6 @@
 # ethosagent/ethos
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ethosagent/ethos) · [官网](https://ethosagent.ai) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ethosagent/ethos) · [官网](https://ethosagent.ai) · 组织维护
 
 **TypeScript AI agent 框架：以人格为单位构建多平台运行的专业 agent 团队**
 

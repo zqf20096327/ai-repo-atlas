@@ -1,6 +1,6 @@
 # raiyyan729-cloud/llmfit-gui
 
-⭐ 24 · PowerShell · 推送 2026-09-02 · [GitHub](https://github.com/raiyyan729-cloud/llmfit-gui) · [官网](https://github.com/AlexsJones/llmfit) · 个人维护
+⭐ 25 · PowerShell · 推送 2026-09-02 · [GitHub](https://github.com/raiyyan729-cloud/llmfit-gui) · [官网](https://github.com/AlexsJones/llmfit) · 个人维护
 
 **Windows GUI，按硬件选型、下载并基准测试本地 LLM**
 

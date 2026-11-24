@@ -1,6 +1,6 @@
 # juniorrojas/ff-net
 
-⭐ 56 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/juniorrojas/ff-net) · [官网](http://juniorrojas.com/ff-net) · 个人维护
+⭐ 57 · JavaScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/juniorrojas/ff-net) · [官网](http://juniorrojas.com/ff-net) · 个人维护
 
 **实时展示前馈神经网络学习过程的可视化演示**
 

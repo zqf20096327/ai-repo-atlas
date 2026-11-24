@@ -1,6 +1,6 @@
 # edgethink00/drifty
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/edgethink00/drifty) · [官网](https://drifty.so) · 个人维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/edgethink00/drifty) · [官网](https://drifty.so) · 个人维护
 
 **macOS/Windows 的 AI 自动时间追踪应用，免手动计时**
 

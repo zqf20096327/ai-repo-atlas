@@ -1,6 +1,6 @@
 # benjamincanac/nuxt-agent-discovery
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/benjamincanac/nuxt-agent-discovery) · [官网](https://nuxt-agent-discovery.vercel.app) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/benjamincanac/nuxt-agent-discovery) · [官网](https://nuxt-agent-discovery.vercel.app) · 个人维护
 
 **让 Nuxt 站点对 AI agent 可读的发现模块：markdown 协商与发现文档**
 

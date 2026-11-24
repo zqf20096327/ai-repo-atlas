@@ -1,6 +1,6 @@
 # studie-tech/TheNinjaRPG
 
-⭐ 106 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/studie-tech/TheNinjaRPG) · [官网](https://www.theninja-rpg.com) · 组织维护
+⭐ 106 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/studie-tech/TheNinjaRPG) · [官网](https://www.theninja-rpg.com) · 组织维护
 
 **火影忍者题材网页 RPG（TheNinja-RPG）官方源码，T3 技术栈**
 

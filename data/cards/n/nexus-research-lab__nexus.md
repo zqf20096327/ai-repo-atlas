@@ -1,6 +1,6 @@
 # nexus-research-lab/nexus
 
-⭐ 164 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nexus-research-lab/nexus) · [官网](https://www.nexusos.cn) · 组织维护 · 中文 README
+⭐ 164 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nexus-research-lab/nexus) · [官网](https://www.nexusos.cn) · 组织维护 · 中文 README
 
 **企业/团队的多 Agent 协作平台：持久记忆的 Agent 房间协作**
 

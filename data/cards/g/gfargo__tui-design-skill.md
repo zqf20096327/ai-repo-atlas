@@ -1,6 +1,6 @@
 # gfargo/tui-design-skill
 
-⭐ 48 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/gfargo/tui-design-skill) · [官网](https://griffen.codes/post/tui-design-skill-claude/) · 个人维护
+⭐ 48 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gfargo/tui-design-skill) · [官网](https://griffen.codes/post/tui-design-skill-claude/) · 个人维护
 
 **面向 agent 的终端 UI/CLI 设计技能包，覆盖四语言生态**
 

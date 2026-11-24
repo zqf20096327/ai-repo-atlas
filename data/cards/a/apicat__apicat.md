@@ -1,6 +1,6 @@
 # apicat/apicat
 
-⭐ 289 · Go · 推送 2026-11-03 · [GitHub](https://github.com/apicat/apicat) · [官网](https://apicat.ai) · 组织维护 · 中文 README
+⭐ 290 · Go · 推送 2026-11-03 · [GitHub](https://github.com/apicat/apicat) · [官网](https://apicat.ai) · 组织维护 · 中文 README
 
 **兼容 OpenAPI 的 API 文档管理工具，内置 LLM 生成能力**
 

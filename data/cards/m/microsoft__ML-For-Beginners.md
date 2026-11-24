@@ -1,6 +1,6 @@
 # microsoft/ML-For-Beginners
 
-⭐ 92,404 · Jupyter Notebook · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/ML-For-Beginners) · 组织维护
+⭐ 92,433 · Jupyter Notebook · MIT · 推送 2026-11-07 · [GitHub](https://github.com/microsoft/ML-For-Beginners) · 组织维护
 
 **面向初学者的12周26课经典机器学习课程**
 

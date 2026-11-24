@@ -1,6 +1,6 @@
 # mirpo/fastapi-gen
 
-⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mirpo/fastapi-gen) · [官网](https://pypi.org/project/fastapi-gen) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mirpo/fastapi-gen) · [官网](https://pypi.org/project/fastapi-gen) · 个人维护
 
 **FastAPI 项目脚手架 CLI：一条命令生成含 LLM 能力的应用模板**
 

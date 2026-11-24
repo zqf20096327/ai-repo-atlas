@@ -1,6 +1,6 @@
 # meanllbrl/dreamcontext
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/meanllbrl/dreamcontext) · 个人维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/meanllbrl/dreamcontext) · 个人维护
 
 **让 Claude/agent 以文件为“大脑”运行整个项目的 CLI 记忆层**
 

@@ -1,6 +1,6 @@
 # navskh/IM
 
-⭐ 11 · TypeScript · 推送 2026-04-22 · [GitHub](https://github.com/navskh/IM) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · 推送 2026-04-22 · [GitHub](https://github.com/navskh/IM) · 个人维护 · 中文 README
 
 **面向开发者的本地优先想法与任务管理器，可交接给 AI agent 执行**
 

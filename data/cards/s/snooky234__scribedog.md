@@ -1,6 +1,6 @@
 # snooky234/scribedog
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/snooky234/scribedog) · [官网](https://sourceforge.net/projects/scribedog/) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/snooky234/scribedog) · [官网](https://sourceforge.net/projects/scribedog/) · 个人维护
 
 **本地优先的私有 Markdown 笔记编辑器，AI 可选本地运行**
 

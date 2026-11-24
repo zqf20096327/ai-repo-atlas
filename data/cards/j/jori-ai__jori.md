@@ -1,6 +1,6 @@
 # jori-ai/jori
 
-⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jori-ai/jori) · [官网](https://getjori.ai) · 组织维护
+⭐ 13 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jori-ai/jori) · [官网](https://getjori.ai) · 组织维护
 
 **运行在已有 Claude 订阅上的常驻个人/团队 AI 助手**
 

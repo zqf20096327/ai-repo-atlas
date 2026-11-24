@@ -1,6 +1,6 @@
 # BotHarness/DeepSeekBot
 
-⭐ 966 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BotHarness/DeepSeekBot) · [官网](https://tobs.app) · 组织维护 · 中文 README
+⭐ 995 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/BotHarness/DeepSeekBot) · [官网](https://tobs.app) · 组织维护 · 中文 README
 
 **给个人用户的开源多 Bot 团队：长期记忆、IM 接入、插件扩展**
 

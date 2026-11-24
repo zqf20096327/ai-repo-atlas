@@ -1,6 +1,6 @@
 # sovantica/engrava
 
-⭐ 12 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/sovantica/engrava) · [官网](https://engrava.ai) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sovantica/engrava) · [官网](https://engrava.ai) · 组织维护
 
 **面向 AI agent 的记忆数据库：SQLite 上的思维图与混合检索**
 

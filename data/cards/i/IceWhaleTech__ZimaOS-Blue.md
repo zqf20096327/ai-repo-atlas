@@ -1,6 +1,6 @@
 # IceWhaleTech/ZimaOS-Blue
 
-⭐ 31 · Go · MIT · 推送 2026-10-22 · [GitHub](https://github.com/IceWhaleTech/ZimaOS-Blue) · 组织维护
+⭐ 31 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/IceWhaleTech/ZimaOS-Blue) · 组织维护
 
 **本地优先的开源 AI Agent 运行时与工具包，面向自托管开发者**
 

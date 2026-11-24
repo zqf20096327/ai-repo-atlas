@@ -1,6 +1,6 @@
 # imsai-sh/fish-pocket
 
-⭐ 421 · Swift · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/imsai-sh/fish-pocket) · [官网](https://apps.apple.com/cn/app/fish-pocket/id6830703602) · 个人维护 · 中文 README
+⭐ 434 · Swift · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/imsai-sh/fish-pocket) · [官网](https://apps.apple.com/cn/app/fish-pocket/id6830703602) · 个人维护 · 中文 README
 
 **在 iPhone/iPad 上本机运行 DSH 智能体引擎的原生 App**
 

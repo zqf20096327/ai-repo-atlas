@@ -1,6 +1,6 @@
 # FootprintAI/Containarium
 
-⭐ 318 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/FootprintAI/Containarium) · [官网](https://containarium.dev) · 组织维护
+⭐ 318 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FootprintAI/Containarium) · [官网](https://containarium.dev) · 组织维护
 
 **给 AI agent 的自托管隔离运行时：每个 agent 一个 SSH 可达容器**
 

@@ -1,6 +1,6 @@
 # danielmiessler/Fabric
 
-⭐ 44,739 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/danielmiessler/Fabric) · [官网](https://danielmiessler.com/p/fabric-origin-story) · 个人维护
+⭐ 44,755 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/danielmiessler/Fabric) · [官网](https://danielmiessler.com/p/fabric-origin-story) · 个人维护
 
 **为命令行用户组织 AI 提示词并可接入多家模型的框架**
 

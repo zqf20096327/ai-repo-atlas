@@ -1,6 +1,6 @@
 # ranxi2001/zero2Agent
 
-⭐ 1,137 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ranxi2001/zero2Agent) · [官网](https://onefly.top/zero2Agent/) · 个人维护 · 中文 README
+⭐ 1,148 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranxi2001/zero2Agent) · [官网](https://onefly.top/zero2Agent/) · 个人维护 · 中文 README
 
 **面向程序员的 Agent 工程教程与大厂面试题库网站**
 

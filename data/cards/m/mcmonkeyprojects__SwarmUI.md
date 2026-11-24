@@ -1,6 +1,6 @@
 # mcmonkeyprojects/SwarmUI
 
-⭐ 4,806 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mcmonkeyprojects/SwarmUI) · 个人维护
+⭐ 4,805 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mcmonkeyprojects/SwarmUI) · 个人维护
 
 **模块化 Stable Diffusion 图像生成 WebUI，本地运行**
 

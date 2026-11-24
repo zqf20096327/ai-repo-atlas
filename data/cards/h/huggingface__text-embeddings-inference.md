@@ -1,6 +1,6 @@
 # huggingface/text-embeddings-inference
 
-⭐ 5,128 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/text-embeddings-inference) · [官网](https://huggingface.co/docs/text-embeddings-inference/quick_tour) · 组织维护
+⭐ 5,129 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/text-embeddings-inference) · [官网](https://huggingface.co/docs/text-embeddings-inference/quick_tour) · 组织维护
 
 **文本嵌入模型推理服务：为开发者托管嵌入、重排与分类模型**
 

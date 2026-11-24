@@ -1,6 +1,6 @@
 # androoAGI/starnet
 
-⭐ 1,917 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/androoAGI/starnet) · [官网](https://github.com/androoAGI/starnet-releases/releases/latest) · 个人维护
+⭐ 1,923 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/androoAGI/starnet) · [官网](https://github.com/androoAGI/starnet-releases/releases/latest) · 个人维护
 
 **本地优先的像素风桌面 agent 工作站，让多个 AI agent 执行真实任务**
 

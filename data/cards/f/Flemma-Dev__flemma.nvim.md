@@ -1,6 +1,6 @@
 # Flemma-Dev/flemma.nvim
 
-⭐ 58 · Lua · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/Flemma-Dev/flemma.nvim) · 组织维护
+⭐ 57 · Lua · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/Flemma-Dev/flemma.nvim) · 组织维护
 
 **Neovim 的纯文本 AI 知识工作台：以 .chat 文件承载对话**
 

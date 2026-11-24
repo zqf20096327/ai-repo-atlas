@@ -1,6 +1,6 @@
 # lucascaro/hive
 
-⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/lucascaro/hive) · [官网](https://lucascaro.github.io/hive/) · 个人维护
+⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/lucascaro/hive) · [官网](https://lucascaro.github.io/hive/) · 个人维护
 
 **管理多个 AI 编码 agent 会话的原生桌面 GUI**
 

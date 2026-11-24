@@ -1,6 +1,6 @@
 # strict-lang/Strict
 
-⭐ 15 · MLIR · MIT · 推送 2026-11-22 · [GitHub](https://github.com/strict-lang/Strict) · [官网](https://strict-lang.org) · 组织维护
+⭐ 15 · MLIR · MIT · 推送 2026-11-23 · [GitHub](https://github.com/strict-lang/Strict) · [官网](https://strict-lang.org) · 组织维护
 
 **面向 AI 编写的低级编程语言：自举、强校验、原生代码生成**
 

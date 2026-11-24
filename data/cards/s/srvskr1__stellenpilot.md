@@ -1,6 +1,6 @@
 # srvskr1/stellenpilot
 
-⭐ 13 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/srvskr1/stellenpilot) · [官网](https://stellenpilot.dev) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/srvskr1/stellenpilot) · [官网](https://stellenpilot.dev) · 个人维护
 
 **德国求职者的本地求职助手：每日找岗、评分并生成求职信**
 

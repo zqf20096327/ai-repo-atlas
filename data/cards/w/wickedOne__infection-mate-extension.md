@@ -1,6 +1,6 @@
 # wickedOne/infection-mate-extension
 
-⭐ 3 · PHP · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wickedOne/infection-mate-extension) · 个人维护
+⭐ 3 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wickedOne/infection-mate-extension) · 个人维护
 
 **让编码 agent 运行 Infection 变异测试并分析结果的 Symfony Mate 扩展**
 

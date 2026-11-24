@@ -1,6 +1,6 @@
 # shengdaklp99/ComfyUI-lyw-MA-Loader
 
-⭐ 52 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/shengdaklp99/ComfyUI-lyw-MA-Loader) · 个人维护 · 中文 README
+⭐ 53 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/shengdaklp99/ComfyUI-lyw-MA-Loader) · 个人维护 · 中文 README
 
 **ComfyUI 的可视化 LoRA 加载节点：分组、预设与元数据管理**
 

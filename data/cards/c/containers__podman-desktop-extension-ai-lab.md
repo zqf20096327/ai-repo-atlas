@@ -1,6 +1,6 @@
 # containers/podman-desktop-extension-ai-lab
 
-⭐ 304 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/containers/podman-desktop-extension-ai-lab) · [官网](https://podman-desktop.io/extensions/ai-lab) · 组织维护
+⭐ 304 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/containers/podman-desktop-extension-ai-lab) · [官网](https://podman-desktop.io/extensions/ai-lab) · 组织维护
 
 **Podman Desktop 扩展：在本地容器中运行 LLM 并提供示例应用目录**
 

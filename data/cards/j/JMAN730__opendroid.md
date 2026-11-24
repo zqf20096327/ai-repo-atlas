@@ -1,6 +1,6 @@
 # JMAN730/opendroid
 
-⭐ 1,301 · Kotlin · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/JMAN730/opendroid) · [官网](https://jman730.github.io/opendroid/) · 个人维护
+⭐ 1,299 · Kotlin · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/JMAN730/opendroid) · [官网](https://jman730.github.io/opendroid/) · 个人维护
 
 **Android 端自主规划 AI Agent，用 LLM 与无障碍服务自动化操作手机**
 

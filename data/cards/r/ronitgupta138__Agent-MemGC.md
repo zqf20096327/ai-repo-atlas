@@ -1,6 +1,6 @@
 # ronitgupta138/Agent-MemGC
 
-⭐ 4 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ronitgupta138/Agent-MemGC) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ronitgupta138/Agent-MemGC) · 个人维护
 
 **为 AI agent 指令文件提供审计、清理与缓存优化的 Rust 工具**
 

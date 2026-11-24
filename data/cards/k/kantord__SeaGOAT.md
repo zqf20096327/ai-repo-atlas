@@ -1,6 +1,6 @@
 # kantord/SeaGOAT
 
-⭐ 1,320 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kantord/SeaGOAT) · [官网](https://kantord.github.io/SeaGOAT/) · 个人维护
+⭐ 1,320 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kantord/SeaGOAT) · [官网](https://kantord.github.io/SeaGOAT/) · 个人维护
 
 **本地运行的语义代码搜索引擎，向量化检索代码库**
 

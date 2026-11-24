@@ -1,6 +1,6 @@
 # Semantic-Infrastructure-Lab/reveal
 
-⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Semantic-Infrastructure-Lab/reveal) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Semantic-Infrastructure-Lab/reveal) · 组织维护
 
 **供 AI agent 与工程师渐进式查看代码库结构的 CLI**
 

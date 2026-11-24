@@ -1,6 +1,6 @@
 # laowang-wy/adai-sketchup-skill-mcp
 
-⭐ 116 · JavaScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/laowang-wy/adai-sketchup-skill-mcp) · 个人维护 · 中文 README
+⭐ 115 · JavaScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/laowang-wy/adai-sketchup-skill-mcp) · 个人维护 · 中文 README
 
 **让 AI Agent 在 SketchUp 中做可编辑建筑建模的 MCP 服务器与 Skill**
 

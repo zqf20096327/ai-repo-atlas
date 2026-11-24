@@ -1,6 +1,6 @@
 # BryceWG/BiBi-Keyboard
 
-⭐ 900 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/BryceWG/BiBi-Keyboard) · [官网](https://bibi.brycewg.com) · 个人维护 · 中文 README
+⭐ 904 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/BryceWG/BiBi-Keyboard) · [官网](https://bibi.brycewg.com) · 个人维护 · 中文 README
 
 **安卓上的 LLM+ASR 语音输入法，长按麦克风即语音输入**
 

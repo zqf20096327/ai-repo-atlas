@@ -1,6 +1,6 @@
 # stdlogits/drowse
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/stdlogits/drowse) · [官网](https://drowse.ai) · 组织维护
+⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/stdlogits/drowse) · [官网](https://drowse.ai) · 组织维护
 
 **LLM 机制可解释性工作台：激活转向、概念探针与监控**
 

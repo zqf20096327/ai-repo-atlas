@@ -1,6 +1,6 @@
 # sensoris/semcache
 
-⭐ 99 · Rust · MIT · 推送 2026-01-02 · [GitHub](https://github.com/sensoris/semcache) · [官网](https://semcache.io) · 组织维护
+⭐ 100 · Rust · MIT · 推送 2026-01-02 · [GitHub](https://github.com/sensoris/semcache) · [官网](https://semcache.io) · 组织维护
 
 **面向 LLM 应用的语义缓存层：复用相似回答、降低开销**
 

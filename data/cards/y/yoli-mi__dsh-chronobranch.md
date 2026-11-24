@@ -1,6 +1,6 @@
 # yoli-mi/dsh-chronobranch
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yoli-mi/dsh-chronobranch) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yoli-mi/dsh-chronobranch) · 个人维护 · 中文 README
 
 **DSH 会话的时间线分支画布插件：可视化分叉与多对话关联**
 

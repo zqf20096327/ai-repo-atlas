@@ -1,6 +1,6 @@
 # labring/fastgpt-plugin
 
-⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/labring/fastgpt-plugin) · 组织维护 · 中文 README
+⭐ 49 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/labring/fastgpt-plugin) · 组织维护 · 中文 README
 
 **FastGPT 插件系统：模型预设、系统工具与扩展功能**
 

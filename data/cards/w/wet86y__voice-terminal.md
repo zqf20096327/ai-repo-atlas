@@ -1,6 +1,6 @@
 # wet86y/voice-terminal
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wet86y/voice-terminal) · [官网](https://github.com/wet86y/voice-terminal/releases/latest) · 个人维护 · 中文 README
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wet86y/voice-terminal) · [官网](https://github.com/wet86y/voice-terminal/releases/latest) · 个人维护 · 中文 README
 
 **Windows 上的个人语音 Agent，提供低延迟语音交互**
 

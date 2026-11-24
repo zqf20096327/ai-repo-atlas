@@ -1,6 +1,6 @@
 # a-r-j/ProteinWorkshop
 
-⭐ 280 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/a-r-j/ProteinWorkshop) · [官网](https://proteins.sh/) · 个人维护
+⭐ 281 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/a-r-j/ProteinWorkshop) · [官网](https://proteins.sh/) · 个人维护
 
 **面向蛋白质结构表征学习的基准评测框架（ICLR 2024）**
 

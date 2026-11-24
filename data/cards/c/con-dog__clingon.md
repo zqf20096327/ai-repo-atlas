@@ -1,6 +1,6 @@
 # con-dog/clingon
 
-⭐ 20 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/con-dog/clingon) · [官网](https://github.com/con-dog/clingon) · 个人维护
+⭐ 21 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/con-dog/clingon) · [官网](https://github.com/con-dog/clingon) · 个人维护
 
 **macOS 侧边命令菜单工具，AI 可代替用户挑选并执行命令**
 

@@ -1,6 +1,6 @@
 # charlesjones-dev/ai-agent-plugins
 
-⭐ 37 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/charlesjones-dev/ai-agent-plugins) · [官网](https://charlesjones.dev) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/charlesjones-dev/ai-agent-plugins) · [官网](https://charlesjones.dev) · 个人维护
 
 **面向 Claude Code/Codex/Cursor 的 13 个开发工作流插件集**
 

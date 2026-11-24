@@ -1,6 +1,6 @@
 # GreyhavenHQ/greywall
 
-⭐ 315 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/GreyhavenHQ/greywall) · [官网](https://greywall.io) · 组织维护
+⭐ 316 · Go · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/GreyhavenHQ/greywall) · [官网](https://greywall.io) · 组织维护
 
 **给开发者的 AI 编程代理沙箱：默认拒绝的文件/网络/系统调用隔离**
 

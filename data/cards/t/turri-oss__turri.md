@@ -1,6 +1,6 @@
 # turri-oss/turri
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/turri-oss/turri) · [官网](https://turri.dev) · 组织维护
+⭐ 50 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/turri-oss/turri) · [官网](https://turri.dev) · 组织维护
 
 **从系统定义再生代码的编码 agent（CLI 与桌面版）**
 

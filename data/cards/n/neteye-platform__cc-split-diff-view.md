@@ -1,6 +1,6 @@
 # neteye-platform/cc-split-diff-view
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/neteye-platform/cc-split-diff-view) · 组织维护
+⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/neteye-platform/cc-split-diff-view) · 组织维护
 
 **Claude Code 插件：以双栏并排形式显示 Edit/Write 的 diff**
 

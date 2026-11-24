@@ -1,6 +1,6 @@
 # teimakes/free-ai-campus
 
-⭐ 11 · Unlicense · 推送 2026-11-22 · [GitHub](https://github.com/teimakes/free-ai-campus) · 个人维护
+⭐ 11 · Unlicense · 推送 2026-11-23 · [GitHub](https://github.com/teimakes/free-ai-campus) · 个人维护
 
 **面向韩国学习者的 ML/DL·LLM·Agent 免费公开课策展清单**
 

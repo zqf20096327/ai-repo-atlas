@@ -1,6 +1,6 @@
 # ActiveInferenceInstitute/Journal_Utilities
 
-⭐ 11 · HTML · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/ActiveInferenceInstitute/Journal_Utilities) · 组织维护
+⭐ 11 · HTML · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/ActiveInferenceInstitute/Journal_Utilities) · 组织维护
 
 **为 Active Inference 期刊内容创作提供的工具与文档集**
 

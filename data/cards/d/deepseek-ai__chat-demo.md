@@ -1,6 +1,6 @@
 # deepseek-ai/chat-demo
 
-⭐ 5,277 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/deepseek-ai/chat-demo) · [官网](https://deepseek-ai.github.io/chat-demo/) · 组织维护 · 中文 README
+⭐ 5,349 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/deepseek-ai/chat-demo) · [官网](https://deepseek-ai.github.io/chat-demo/) · 组织维护 · 中文 README
 
 **基于 DeepSeek API 的静态网页聊天演示应用**
 

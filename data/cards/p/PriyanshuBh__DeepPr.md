@@ -1,6 +1,6 @@
 # PriyanshuBh/DeepPr
 
-⭐ 73 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/PriyanshuBh/DeepPr) · [官网](https://deeppr.d1i2c97iv74gio.amplifyapp.com/) · 个人维护
+⭐ 76 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/PriyanshuBh/DeepPr) · [官网](https://deeppr.d1i2c97iv74gio.amplifyapp.com/) · 个人维护
 
 **GitHub PR 自动评审工具：多模型 + 向量 RAG + 持久记忆**
 

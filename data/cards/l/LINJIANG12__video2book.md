@@ -1,6 +1,6 @@
 # LINJIANG12/video2book
 
-⭐ 43 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/LINJIANG12/video2book) · 个人维护 · 中文 README
+⭐ 44 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/LINJIANG12/video2book) · 个人维护 · 中文 README
 
 **把 B 站/YouTube 等长视频课程转为教材长文与复习笔记的 Agent 技能**
 

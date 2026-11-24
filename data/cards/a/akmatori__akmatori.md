@@ -1,6 +1,6 @@
 # akmatori/akmatori
 
-⭐ 55 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/akmatori/akmatori) · [官网](https://akmatori.com) · 组织维护
+⭐ 56 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/akmatori/akmatori) · [官网](https://akmatori.com) · 组织维护
 
 **自托管 AI AIOps 平台：SRE 用 LLM agent 调查与处置告警**
 

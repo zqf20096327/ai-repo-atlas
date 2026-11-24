@@ -1,6 +1,6 @@
 # simadan11/GitHub-Copilot-app
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/simadan11/GitHub-Copilot-app) · 组织维护
+⭐ 40 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/simadan11/GitHub-Copilot-app) · 组织维护
 
 **面向 GitHub 仓库的桌面端 Agent 开发工作管理应用**
 

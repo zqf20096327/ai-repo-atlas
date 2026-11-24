@@ -1,6 +1,6 @@
 # AiursoftWeb/OllamaGateway
 
-⭐ 10 · C# · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/AiursoftWeb/OllamaGateway) · [官网](https://ollama.aiursoft.com/) · 组织维护
+⭐ 10 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AiursoftWeb/OllamaGateway) · [官网](https://ollama.aiursoft.com/) · 组织维护
 
 **为 Ollama 添加企业级鉴权、审计与虚拟模型的 API 网关**
 

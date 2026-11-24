@@ -1,6 +1,6 @@
 # leochiu-a/git-pr-ai
 
-⭐ 80 · TypeScript · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/leochiu-a/git-pr-ai) · [官网](https://leochiu-a.github.io/git-pr-ai) · 个人维护
+⭐ 80 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/leochiu-a/git-pr-ai) · [官网](https://leochiu-a.github.io/git-pr-ai) · 个人维护
 
 **用 AI 辅助开发者完成 git 分支、提交与 PR 全流程的 CLI 工具**
 

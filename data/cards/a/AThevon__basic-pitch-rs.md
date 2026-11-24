@@ -1,6 +1,6 @@
 # AThevon/basic-pitch-rs
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/AThevon/basic-pitch-rs) · [官网](https://athevon.github.io/basic-pitch-rs/) · 个人维护
+⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AThevon/basic-pitch-rs) · [官网](https://athevon.github.io/basic-pitch-rs/) · 个人维护
 
 **Rust 版 Basic Pitch：音频转 MIDI 多音高转录工具**
 

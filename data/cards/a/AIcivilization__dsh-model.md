@@ -1,6 +1,6 @@
 # AIcivilization/dsh-model
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AIcivilization/dsh-model) · [官网](https://www.npmjs.com/package/dsh-model) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AIcivilization/dsh-model) · [官网](https://www.npmjs.com/package/dsh-model) · 个人维护 · 中文 README
 
 **个人用户的 LLM 中转网关插件：自动签到领积分并聚合多来源模型**
 

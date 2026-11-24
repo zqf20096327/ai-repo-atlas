@@ -1,6 +1,6 @@
 # xigh/herbert-rs
 
-⭐ 45 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/xigh/herbert-rs) · [官网](https://philippe-anel.fr/en/blog/2026/03/15/herbert-comprendre-avant-optimiser/) · 个人维护
+⭐ 47 · Rust · MIT · 推送 2026-11-01 · [GitHub](https://github.com/xigh/herbert-rs) · [官网](https://philippe-anel.fr/en/blog/2026/03/15/herbert-comprendre-avant-optimiser/) · 个人维护
 
 **Rust 从零实现的本地 LLM 推理引擎，含 CPU/GPU 内核与 CLI/服务器**
 

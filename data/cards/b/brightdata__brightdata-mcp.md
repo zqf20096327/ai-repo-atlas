@@ -1,10 +1,10 @@
 # brightdata/brightdata-mcp
 
-⭐ 2,733 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
+⭐ 2,734 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/brightdata/brightdata-mcp) · [官网](https://brightdata.com/) · 组织维护
 
-**给 AI agent 提供网页搜索、抓取与浏览器自动化的 MCP 服务器**
+**为 AI agent 和 MCP 客户端提供网页搜索、抓取与浏览器自动化**
 
-Bright Data 的 MCP 服务器，向 AI agent 与 LLM 客户端暴露 30 个工具：网页搜索（Bing/Google）、任意 URL 转 Markdown/HTML/JSON-LD、1,200+ 预构建爬虫的结构化 JSON 输出、远程浏览器自动化（导航/点击/截图），以及向 ChatGPT/Perplexity 发送提示并取回回答文本。提供托管远程服务器（一个 URL）与本地 npx 实例两种部署方式。每账号含每月 5,000 次免费请求，超出后按量计费；工具可按分组加载以减少上下文占用。
+Bright Data 出品的 MCP 服务器，通过 Model Context Protocol 向 AI agent 暴露 31 个工具，覆盖网页搜索（Bing/Google）、URL 抓取为 Markdown/HTML/JSON-LD、1200+ 预构建爬虫的结构化数据提取、远程浏览器自动化，以及向 ChatGPT/Perplexity 发送 prompt 收集回答。支持托管远程服务器（一个 URL 即用）与本地 npx 实例两种部署方式，提供 Claude Desktop、Claude Code、Cursor、VS Code、Windsurf、Gem CLI、Zed、Warp 等客户端的接入配置。账户含每月 5,000 次免费请求额度，超出后按量计费，可设消费上限。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Bright Data 的 MCP 服务器，向 AI agent 与 LLM 客户端暴露 30 个工�
 
 ## 能力要点
 
-- 30 个 MCP 工具覆盖搜索、抓取、结构化数据与浏览器自动化
-- 1,200+ 预构建爬虫（Amazon、LinkedIn、TikTok、npm、PyPI 等）输出 JSON
-- 托管远程服务器与本地 npx 两种部署方式
-- 工具分组机制（GROUPS/TOOLS）控制加载范围以减少上下文
+- 31 个 MCP 工具：搜索、抓取、结构化提取、远程浏览器自动化
+- 1200+ 预构建爬虫返回干净 JSON（Amazon、LinkedIn、TikTok、npm、PyPI 等）
+- 托管远程服务器（无需安装）与本地 npx 两种部署方式
+- 工具分组机制（GROUPS/TOOLS）按需加载以减少上下文占用
 
 ## 适用场景
 
-- 让 agent 用实时网页数据回答问题而非依赖训练数据
-- 批量采集电商产品的价格、库存与评论数据
-- 为编码 agent 按需获取 npm/PyPI 包与 GitHub 仓库信息
-- 监控社交媒体平台上账号与内容的互动指标
+- 让 AI agent 用实时网页数据替代训练数据回答问题
+- 为编程 agent 按需读取 npm/PyPI 包与 GitHub 仓库信息
+- 监控社交平台上竞品的帖子、评论与互动数据
+- 替换 agent 内置的 fetch/search 工具以处理需 JS 渲染的页面
 
 ## 场景标签
 
-`网页抓取` `浏览器自动化` · 领域:效率与自动化
+`浏览器自动化` `网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L7:  Web search, page scraping, structured data extraction, and browser automation for AI agents and LLMs over the Model
-> L26: The Bright Data MCP server gives AI agents real-time access to public web data. It exposes **30 tools** covering:
-> L34: Two deployment options: a hosted remote server (one URL, no installation) or a local instance via `npx @brightdata/
+> L26: The Bright Data MCP server gives AI agents real-time access to public web data. It exposes **31 tools** covering:
+> L35: Two deployment options: a hosted remote server (one URL, no installation) or a local instance via `npx @brightdata/
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `1d16cd930dc5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `0e40193d09ee` · [字段定义](../../DATASET.md)*

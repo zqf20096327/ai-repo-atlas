@@ -1,6 +1,6 @@
 # aeshef/obsidian-agent
 
-⭐ 12 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aeshef/obsidian-agent) · [官网](https://github.com/aeshef/obsidian-agent#install-start-here) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aeshef/obsidian-agent) · [官网](https://github.com/aeshef/obsidian-agent#install-start-here) · 个人维护
 
 **自托管的 Obsidian 个人 AI 助手 Telegram 机器人**
 

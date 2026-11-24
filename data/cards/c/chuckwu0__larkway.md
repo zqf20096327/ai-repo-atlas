@@ -1,6 +1,6 @@
 # chuckwu0/larkway
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/chuckwu0/larkway) · [官网](https://larkway.dev) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/chuckwu0/larkway) · [官网](https://larkway.dev) · 个人维护 · 中文 README
 
 **把 Claude Code/Codex 订阅变成飞书团队可 @ 的编码 agent 桥**
 

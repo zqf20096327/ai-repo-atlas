@@ -1,10 +1,10 @@
 # zeronsh/zeron
 
-⭐ 3,731 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zeronsh/zeron) · [官网](https://zeron.sh) · 组织维护 · 中文 README
+⭐ 3,740 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zeronsh/zeron) · [官网](https://zeron.sh) · 个人维护 · 中文 README
 
-**本地优先的编码 agent 控制面板：管理与监控多种 coding agent**
+**本地控制面板：统一管理多个编码代理的会话**
 
-用 Rust/GPUI 构建的桌面应用（含 Linux headless CLI），用于在本地控制 Claude Code、Codex、Cursor、Devin 等编码 agent：默认无需账号与网络连接，会话保存在本机，应用可自更新。可选登录账号实现多设备同步，在一台设备启动 agent 后可从其他设备查看或驱动；同账号设备可互访工作区文件。CLI 安装器在 Linux 上以后台服务方式运行引擎并可跨重启存活。
+面向开发者的编码代理控制面板，默认在本地运行，可从单一桌面应用控制 Claude Code、Codex、Cursor、Devin 等 11 种编码代理。桌面版基于原生 Rust 与支持热重载 Luau UI 的 zgx 构建，支持插件、模板与主题，可自更新；提供面向无显示服务器（如 VPS）的 Linux CLI，以后台服务形式常驻引擎，支持开机存活；可选多设备同步，登录后可在另一设备接续或驱动代理，本地会话默认不上传。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 支持 Claude Code、Codex、Cursor、Devin、Grok 等 8 种编码 agent 的本地控制
-- 默认本地优先：无需账号与网络，会话不上传（登录前不传已有会话）
-- 可选多设备同步：跨设备查看/驱动 agent 并互访工作区文件
-- 提供 macOS/Windows/Linux 桌面安装包与 Linux headless CLI
+- 桌面应用统一控制 11 种编码代理，默认本地运行、无需账号
+- Linux 无头 CLI 安装为后台服务，支持开机后继续运行代理
+- 可选多设备同步，跨设备读取/写入工作区文件
+- 基于 zgx 的插件、模板与主题机制，支持自更新
 
 ## 适用场景
 
-- 在桌面上统一管理多个编码 agent 的会话
-- 在 VPS 上以 headless 方式常驻运行 agent
-- 换设备继续查看或接管正在运行的 agent 任务
+- 在同一界面里切换和驱动多个编码代理会话
+- 在 VPS 上挂机运行代理，合上笔记本后任务继续
+- 在多台设备间接续查看或操控同一个代理任务
 
 ## 场景标签
 
- · 领域:开发者工具/编码 agent 管理
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L3: Control your coding agents (Claude Code, Codex, Cursor, Devin, Grok, Hermes, Pi, Antigravity) locally by default, wi
-> L17: No account or network connection is needed; sessions stay on your device. The app updates itself.
+> L3: Control your coding agents (Claude Code, Codex, Cursor, OpenCode, Devin, Grok, Hermes, Pi, Antigravity, Muse Code, f
+> L17: No account or network connection is needed; sessions stay on your device. The desktop app is built on zgx (native R
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ad7e83bd342d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8d3b719ee22d` · [字段定义](../../DATASET.md)*

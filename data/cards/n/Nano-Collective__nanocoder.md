@@ -1,6 +1,6 @@
 # Nano-Collective/nanocoder
 
-⭐ 2,583 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Nano-Collective/nanocoder) · [官网](https://docs.nanocollective.org/nanocoder) · 组织维护
+⭐ 2,585 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Nano-Collective/nanocoder) · [官网](https://docs.nanocollective.org/nanocoder) · 组织维护
 
 **社区集体开发的开源终端编码 agent，自选模型本地优先**
 

@@ -1,6 +1,6 @@
 # stoyan-stoyanov/wavefunction
 
-⭐ 21 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/stoyan-stoyanov/wavefunction) · [官网](https://www.wavefunction.si) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/stoyan-stoyanov/wavefunction) · [官网](https://www.wavefunction.si) · 个人维护
 
 **macOS 开源桌面编码 agent：并行会话、MCP 连接器与计算机使用**
 

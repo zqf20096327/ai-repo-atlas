@@ -1,6 +1,6 @@
 # rosette-api/java
 
-⭐ 15 · Java · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/rosette-api/java) · 组织维护
+⭐ 15 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rosette-api/java) · 组织维护
 
 **面向 Java 开发者的 Babel Street Analytics API 客户端绑定库**
 

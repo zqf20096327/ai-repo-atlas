@@ -1,6 +1,6 @@
 # Agora-Lab-AI/HydraNet
 
-⭐ 14 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Agora-Lab-AI/HydraNet) · [官网](https://agoralab.xyz) · 组织维护
+⭐ 14 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Agora-Lab-AI/HydraNet) · [官网](https://agoralab.xyz) · 组织维护
 
 **融合 MQA、MoE 与持续学习的 Transformer 架构库，面向开发者**
 

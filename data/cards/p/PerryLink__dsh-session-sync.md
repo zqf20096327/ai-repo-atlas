@@ -1,6 +1,6 @@
 # PerryLink/dsh-session-sync
 
-⭐ 42 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-session-sync) · [官网](https://www.npmjs.com/package/dsh-session-sync) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-session-sync) · [官网](https://www.npmjs.com/package/dsh-session-sync) · 个人维护 · 中文 README
 
 **DSH 会话的跨设备 git 同步插件：冲突时双方保留**
 

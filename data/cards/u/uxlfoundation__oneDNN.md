@@ -1,6 +1,6 @@
 # uxlfoundation/oneDNN
 
-⭐ 4,094 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/uxlfoundation/oneDNN) · [官网](http://uxlfoundation.github.io/oneDNN/) · 组织维护
+⭐ 4,096 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/uxlfoundation/oneDNN) · [官网](http://uxlfoundation.github.io/oneDNN/) · 组织维护
 
 **为 CPU/GPU 上的深度学习算子提供优化的 C++ 加速库**
 

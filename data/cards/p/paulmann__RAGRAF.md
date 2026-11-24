@@ -1,6 +1,6 @@
 # paulmann/RAGRAF
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/paulmann/RAGRAF) · [官网](https://ragraf.ru) · 个人维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/paulmann/RAGRAF) · [官网](https://ragraf.ru) · 个人维护
 
 **面向 LLM agent 的本地代码知识库 MCP 服务器：定位/调用/影响分析**
 

@@ -1,6 +1,6 @@
 # firerpa/lamda
 
-⭐ 8,761 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/firerpa/lamda) · [官网](https://device-farm.com/) · 组织维护 · 中文 README
+⭐ 8,765 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/firerpa/lamda) · [官网](https://device-farm.com/) · 组织维护 · 中文 README
 
 **Android 全栈设备控制平台，含 AI Agent 与 MCP 接入**
 

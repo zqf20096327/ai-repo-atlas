@@ -1,6 +1,6 @@
 # pathwaycom/serviette
 
-⭐ 58,682 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/pathwaycom/serviette) · [官网](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · 组织维护
+⭐ 58,681 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/pathwaycom/serviette) · [官网](https://github.com/pathwaycom/serviette/blob/main/docs/README.md) · 组织维护
 
 **给企业的文档问答服务器：文档改动秒级同步进答案**
 

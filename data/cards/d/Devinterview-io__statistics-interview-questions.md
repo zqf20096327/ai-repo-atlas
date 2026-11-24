@@ -1,6 +1,6 @@
 # Devinterview-io/statistics-interview-questions
 
-⭐ 56 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/statistics-interview-questions) · 组织维护
+⭐ 57 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/statistics-interview-questions) · 组织维护
 
 **面向求职者的统计学面试题与解答合集（75 题）**
 

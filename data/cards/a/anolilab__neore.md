@@ -1,6 +1,6 @@
 # anolilab/neore
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/anolilab/neore) · 个人维护
+⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/anolilab/neore) · 个人维护
 
 **多模型 AI 聊天应用：网页端+浏览器扩展，自托管部署**
 

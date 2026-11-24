@@ -1,6 +1,6 @@
 # LightningRAG/LightningRAG
 
-⭐ 455 · Go · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/LightningRAG/LightningRAG) · [官网](https://LightningRAG.com) · 组织维护 · 中文 README
+⭐ 456 · Go · Apache-2.0 · 推送 2026-04-17 · [GitHub](https://github.com/LightningRAG/LightningRAG) · [官网](https://LightningRAG.com) · 组织维护 · 中文 README
 
 **Vue+Gin 全栈 RAG 起始框架：知识库、检索与 Agent 编排**
 

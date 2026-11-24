@@ -1,6 +1,6 @@
 # guruvaidev/avaloka
 
-⭐ 149 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/guruvaidev/avaloka) · [官网](https://www.avaloka.ai) · 组织维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/guruvaidev/avaloka) · [官网](https://www.avaloka.ai) · 组织维护
 
 **多 Agent 数据科学平台：从原始数据到训练并部署模型，含自检证据层**
 

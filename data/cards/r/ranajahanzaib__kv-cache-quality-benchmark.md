@@ -1,6 +1,6 @@
 # ranajahanzaib/kv-cache-quality-benchmark
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ranajahanzaib/kv-cache-quality-benchmark) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/kv-cache-quality-benchmark) · 个人维护
 
 **本地评测 llama.cpp KV-cache 压缩质量与内存开销的工具**
 

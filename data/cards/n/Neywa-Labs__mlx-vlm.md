@@ -1,6 +1,6 @@
 # Neywa-Labs/mlx-vlm
 
-⭐ 5,915 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Neywa-Labs/mlx-vlm) · [官网](https://neywa-labs.github.io/mlx-vlm/) · 组织维护
+⭐ 5,928 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Neywa-Labs/mlx-vlm) · [官网](https://neywa-labs.github.io/mlx-vlm/) · 组织维护
 
 **在 Mac (Apple Silicon) 上本地运行与微调视觉语言模型的工具包**
 

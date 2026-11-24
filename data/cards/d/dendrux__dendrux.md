@@ -1,6 +1,6 @@
 # dendrux/dendrux
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dendrux/dendrux) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/dendrux/dendrux) · 组织维护
 
 **异步 Python agent 运行时：故障恢复、证据持久化、暂停等待人工**
 

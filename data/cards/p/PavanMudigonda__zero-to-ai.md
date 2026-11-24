@@ -1,6 +1,6 @@
 # PavanMudigonda/zero-to-ai
 
-⭐ 162 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/PavanMudigonda/zero-to-ai) · [官网](https://zero-to-ai.dev) · 个人维护
+⭐ 163 · Jupyter Notebook · MIT · 推送 2026-11-01 · [GitHub](https://github.com/PavanMudigonda/zero-to-ai) · [官网](https://zero-to-ai.dev) · 个人维护
 
 **免费开源 AI/ML 课程：950+ Jupyter 笔记本覆盖入门到进阶**
 

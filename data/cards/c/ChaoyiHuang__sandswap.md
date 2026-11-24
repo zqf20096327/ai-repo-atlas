@@ -1,6 +1,6 @@
 # ChaoyiHuang/sandswap
 
-⭐ 7 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ChaoyiHuang/sandswap) · [官网](https://chaoyihuang.github.io/sandswap/) · 个人维护 · 中文 README
+⭐ 8 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ChaoyiHuang/sandswap) · [官网](https://chaoyihuang.github.io/sandswap/) · 个人维护 · 中文 README
 
 **为 AI agent 提供毫秒级复用的 KVM microVM 沙箱**
 

@@ -1,6 +1,6 @@
 # neuml/txtai.rs
 
-⭐ 114 · Rust · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/neuml/txtai.rs) · 个人维护
+⭐ 114 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neuml/txtai.rs) · 个人维护
 
 **txtai API 的 Rust 客户端绑定**
 

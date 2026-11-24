@@ -1,6 +1,6 @@
 # BlackMixture/Mix-Studio
 
-⭐ 306 · JavaScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/BlackMixture/Mix-Studio) · [官网](https://blackmixture.com) · 个人维护
+⭐ 307 · JavaScript · GPL-3.0 · 推送 2026-10-26 · [GitHub](https://github.com/BlackMixture/Mix-Studio) · [官网](https://blackmixture.com) · 个人维护
 
 **基于 ComfyUI 的本地 AI 图像/视频生成工作台**
 

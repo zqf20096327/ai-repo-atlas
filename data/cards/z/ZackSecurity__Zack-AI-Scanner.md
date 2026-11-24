@@ -1,6 +1,6 @@
 # ZackSecurity/Zack-AI-Scanner
 
-⭐ 112 · Java · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ZackSecurity/Zack-AI-Scanner) · 个人维护 · 中文 README
+⭐ 113 · Java · GPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ZackSecurity/Zack-AI-Scanner) · 个人维护 · 中文 README
 
 **Burp Suite 的 LLM 驱动漏洞扫描扩展：右键即可对请求做智能测试**
 

@@ -1,6 +1,6 @@
 # hidecard/YBS-Bus-Data
 
-⭐ 18 · 推送 2026-11-17 · [GitHub](https://github.com/hidecard/YBS-Bus-Data) · 个人维护
+⭐ 19 · 推送 2026-11-17 · [GitHub](https://github.com/hidecard/YBS-Bus-Data) · 个人维护
 
 **仰光 YBS 公交线路与站点静态 JSON 开放数据集**
 

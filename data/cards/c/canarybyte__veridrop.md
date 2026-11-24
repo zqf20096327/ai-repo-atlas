@@ -1,6 +1,6 @@
 # canarybyte/veridrop
 
-⭐ 778 · Python · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/canarybyte/veridrop) · [官网](https://veridrop.app) · 个人维护 · 中文 README
+⭐ 780 · Python · AGPL-3.0 · 推送 2026-09-20 · [GitHub](https://github.com/canarybyte/veridrop) · [官网](https://veridrop.app) · 个人维护 · 中文 README
 
 **检测 AI API 中转站真伪与合规性的开源工具，面向开发者和站长**
 

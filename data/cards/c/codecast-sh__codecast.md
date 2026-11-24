@@ -1,6 +1,6 @@
 # codecast-sh/codecast
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/codecast-sh/codecast) · [官网](https://codecast.sh) · 组织维护
+⭐ 51 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/codecast-sh/codecast) · [官网](https://codecast.sh) · 组织维护
 
 **把人与编码 agent 聚在一个工作区的协作平台**
 

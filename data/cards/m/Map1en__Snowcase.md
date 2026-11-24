@@ -1,6 +1,6 @@
 # Map1en/Snowcase
 
-⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Map1en/Snowcase) · 个人维护 · 中文 README
+⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Map1en/Snowcase) · 个人维护 · 中文 README
 
 **面向 BOOTH 生态的本地素材管理器，覆盖 VRChat 头像资产流程**
 

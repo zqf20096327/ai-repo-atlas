@@ -1,6 +1,6 @@
 # stanfordmlgroup/ngboost
 
-⭐ 1,905 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/stanfordmlgroup/ngboost) · 组织维护
+⭐ 1,906 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/stanfordmlgroup/ngboost) · 组织维护
 
 **不确定性预测的梯度提升 Python 库：输出概率分布**
 

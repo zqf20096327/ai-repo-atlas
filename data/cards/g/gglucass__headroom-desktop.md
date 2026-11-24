@@ -1,6 +1,6 @@
 # gglucass/headroom-desktop
 
-⭐ 650 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gglucass/headroom-desktop) · [官网](https://extraheadroom.com) · 组织维护
+⭐ 653 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gglucass/headroom-desktop) · [官网](https://extraheadroom.com) · 组织维护
 
 **压缩 Claude Code/Codex 请求 token 的本地代理菜单栏应用**
 

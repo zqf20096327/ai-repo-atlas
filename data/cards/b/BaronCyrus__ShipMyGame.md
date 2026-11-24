@@ -1,6 +1,6 @@
 # BaronCyrus/ShipMyGame
 
-⭐ 17 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BaronCyrus/ShipMyGame) · 个人维护 · 中文 README
+⭐ 17 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BaronCyrus/ShipMyGame) · 个人维护 · 中文 README
 
 **AI Agent 用的 Unity 游戏上架操作手册：一句话完成全渠道发布**
 

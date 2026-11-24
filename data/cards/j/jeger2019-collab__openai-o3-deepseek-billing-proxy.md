@@ -1,6 +1,6 @@
 # jeger2019-collab/openai-o3-deepseek-billing-proxy
 
-⭐ 78 · 推送 2026-11-02 · [GitHub](https://github.com/jeger2019-collab/openai-o3-deepseek-billing-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 92 · 推送 2026-11-02 · [GitHub](https://github.com/jeger2019-collab/openai-o3-deepseek-billing-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向 AI API 用户的虚拟卡支付方案推广文（CoreGold）**
 

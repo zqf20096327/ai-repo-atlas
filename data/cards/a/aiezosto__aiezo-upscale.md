@@ -1,6 +1,6 @@
 # aiezosto/aiezo-upscale
 
-⭐ 5 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/aiezosto/aiezo-upscale) · [官网](https://aiezo.net) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Windows 桌面端本地 AI 图片放大工具，输出 2K/4K/8K**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |

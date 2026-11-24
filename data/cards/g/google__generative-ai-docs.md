@@ -1,6 +1,6 @@
 # google/generative-ai-docs
 
-⭐ 2,263 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/google/generative-ai-docs) · [官网](https://ai.google.dev) · 组织维护
+⭐ 2,264 · Jupyter Notebook · Apache-2.0 · 推送 2026-01-26 · [GitHub](https://github.com/google/generative-ai-docs) · [官网](https://ai.google.dev) · 组织维护
 
 **Gemini API 官方文档与示例源码仓库（已弃用）**
 

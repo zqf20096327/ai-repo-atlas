@@ -1,6 +1,6 @@
 # QwenLM/open-computer-use
 
-⭐ 326 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/QwenLM/open-computer-use) · 组织维护 · 中文 README
+⭐ 325 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/QwenLM/open-computer-use) · 组织维护 · 中文 README
 
 **让 AI agent 通过 MCP 控制三平台电脑的计算机使用服务**
 

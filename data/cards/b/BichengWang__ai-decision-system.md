@@ -1,6 +1,6 @@
 # BichengWang/ai-decision-system
 
-⭐ 361 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/BichengWang/ai-decision-system) · [官网](https://bichengwang.github.io/ai-decision-system/) · 个人维护
+⭐ 361 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BichengWang/ai-decision-system) · [官网](https://bichengwang.github.io/ai-decision-system/) · 个人维护
 
 **AI 辅助 go/no-go 决策的可重放、离线可验证记录工具集**
 

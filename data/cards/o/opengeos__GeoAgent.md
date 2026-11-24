@@ -1,6 +1,6 @@
 # opengeos/GeoAgent
 
-⭐ 544 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/opengeos/GeoAgent) · [官网](https://geoagent.gishub.org) · 个人维护
+⭐ 548 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opengeos/GeoAgent) · [官网](https://geoagent.gishub.org) · 个人维护
 
 **给地理空间库与 QGIS 提供共享 AI agent 层，统一接入 LLM**
 

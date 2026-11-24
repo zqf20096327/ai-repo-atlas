@@ -1,6 +1,6 @@
 # tinker495/JAxtar
 
-⭐ 52 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tinker495/JAxtar) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tinker495/JAxtar) · 个人维护
 
 **给科研者的纯 JAX GPU 批量并行 A*/Q* 启发式搜索求解器**
 

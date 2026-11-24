@@ -1,10 +1,10 @@
 # bestruirui/octopus
 
-⭐ 2,750 · TypeScript · AGPL-3.0 · 推送 2026-10-23 · [GitHub](https://github.com/bestruirui/octopus) · 个人维护 · 中文 README
+⭐ 2,752 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/bestruirui/octopus) · 个人维护 · 中文 README
 
-**面向个人的 LLM API 聚合网关：多渠道统一接入与管理**
+**个人 LLM API 聚合网关：多渠道统一管理与协议转换**
 
-Go 编写的 LLM API 聚合网关，面向个人用户：将多个 LLM 提供商渠道统一管理，支持 OpenAI Chat / OpenAI Responses / Anthropic / Gemini 协议互转，通过 Group 机制以统一模型名对外暴露多渠道，并提供自动故障转移、上游错误屏蔽、价格与模型列表自动同步（数据来自 models.dev）、请求统计与费用追踪。部署形态为单二进制（前端嵌入）或 Docker，支持 SQLite/MySQL/PostgreSQL。文档给出 OpenAI SDK、Claude Code、Codex 的客户端接入示例。
+用 Go 编写的 LLM API 聚合服务，面向个人用户：将多个上游渠道聚合为统一端点，支持 OpenAI Chat/Responses 与 Anthropic 三种协议格式相互转换；提供自动故障切换、上游错误拦截、模型列表与价格自动同步、请求链路可视化、用量与成本统计。单二进制部署，支持 SQLite/MySQL/PostgreSQL。安装方式包括 Docker、Release 二进制下载与源码构建（需 Go 1.24.4、Node.js 18+、pnpm）。提供 OpenAI SDK、Claude Code、Codex 客户端接入示例。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Go 编写的 LLM API 聚合网关，面向个人用户：将多个 LLM 提供商
 
 ## 能力要点
 
-- 多渠道聚合与统一模型名（Group）对外暴露
-- OpenAI Chat / Responses / Anthropic / Gemini 协议转换
-- 自动故障转移与上游错误屏蔽
-- 单二进制部署，支持 SQLite/MySQL/PostgreSQL
+- 多渠道聚合与统一管理，协议间自动转换（OpenAI Chat/Responses/Anthropic）
+- 上游渠道故障自动切换并拦截上游错误
+- 模型与价格自动同步（数据源 models.dev），含成本统计
+- 单二进制部署，无外部运行时依赖
 
 ## 适用场景
 
-- 把多个 LLM 提供商渠道聚合为一个统一 API 入口
-- 给 Claude Code / Codex 等客户端接自管网关
-- 追踪 token 消耗与费用统计
+- 把多个 LLM 渠道聚合成一个统一 API 供客户端调用
+- 为 Claude Code / Codex 等客户端配置本地网关地址
+- 跟踪 token 消耗与费用统计
+- 按组统一暴露模型名并做故障切换
 
 ## 场景标签
 
@@ -38,7 +39,8 @@ Go 编写的 LLM API 聚合网关，面向个人用户：将多个 LLM 提供商
 ## 证据(README 行号)
 
 > L5: **A Simple, Beautiful, and Elegant LLM API Aggregation Service for Individuals**
-> L11: - 🔀 **Multi-Channel Aggregation** - Connect multiple LLM provider channels with unified management
+> L16: - 🔀 **Multi-Channel Aggregation** - Connect multiple LLM provider channels with unified management
+> L17: - 🔄 **Protocol Conversion** - Seamless conversion between OpenAI Chat / OpenAI Responses / Anthropic API formats
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `e35d81fefdab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `15bc5ff39692` · [字段定义](../../DATASET.md)*

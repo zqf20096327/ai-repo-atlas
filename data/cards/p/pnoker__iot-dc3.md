@@ -1,6 +1,6 @@
 # pnoker/iot-dc3
 
-⭐ 1,275 · Java · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/pnoker/iot-dc3) · [官网](https://dc3.site) · 个人维护 · 中文 README
+⭐ 1,276 · Java · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/pnoker/iot-dc3) · [官网](https://dc3.site) · 个人维护 · 中文 README
 
 **面向 Physical AI 的开源工业物联网运行时平台**
 

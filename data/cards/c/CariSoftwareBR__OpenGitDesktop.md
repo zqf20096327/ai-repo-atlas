@@ -1,6 +1,6 @@
 # CariSoftwareBR/OpenGitDesktop
 
-⭐ 4 · TypeScript · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/CariSoftwareBR/OpenGitDesktop) · [官网](https://github.com/CariSoftwareBR/OpenGitDesktop/releases/latest) · 组织维护
+⭐ 4 · TypeScript · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/CariSoftwareBR/OpenGitDesktop) · [官网](https://github.com/CariSoftwareBR/OpenGitDesktop/releases/latest) · 组织维护
 
 **带受监督 AI 助手的跨平台桌面 Git 客户端**
 

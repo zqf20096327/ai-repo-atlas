@@ -1,6 +1,6 @@
 # theopenbee/openbee
 
-⭐ 54 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/theopenbee/openbee) · [官网](https://www.theopenbee.com/) · 组织维护 · 中文 README
+⭐ 54 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/theopenbee/openbee) · [官网](https://www.theopenbee.com/) · 组织维护 · 中文 README
 
 **自托管服务：把 Claude Code/Codex/Pi 等 AI agent 接入聊天平台使用**
 

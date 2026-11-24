@@ -1,6 +1,6 @@
 # siyuan-note/siyuan
 
-⭐ 47,341 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/siyuan-note/siyuan) · [官网](https://b3log.org/siyuan) · 组织维护 · 中文 README
+⭐ 47,354 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/siyuan-note/siyuan) · [官网](https://b3log.org/siyuan) · 组织维护 · 中文 README
 
 **隐私优先的自托管个人知识管理系统，支持块级引用与 AI 协作**
 

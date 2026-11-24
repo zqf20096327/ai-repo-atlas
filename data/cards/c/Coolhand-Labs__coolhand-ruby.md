@@ -1,6 +1,6 @@
 # Coolhand-Labs/coolhand-ruby
 
-⭐ 11 · Ruby · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Coolhand-Labs/coolhand-ruby) · [官网](https://coolhandlabs.com) · 组织维护
+⭐ 11 · Ruby · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Coolhand-Labs/coolhand-ruby) · [官网](https://coolhandlabs.com) · 组织维护
 
 **为 Ruby 应用自动记录并分析 LLM API 调用的监控 SDK**
 

@@ -1,6 +1,6 @@
 # taoq-ai/ziran
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/taoq-ai/ziran) · [官网](https://taoq-ai.github.io/ziran/) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/taoq-ai/ziran) · [官网](https://taoq-ai.github.io/ziran/) · 组织维护
 
 **AI agent 安全测试工具：图式工具链漏洞发现与多阶段攻击验证**
 

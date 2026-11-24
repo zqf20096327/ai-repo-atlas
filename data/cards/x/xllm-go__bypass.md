@@ -1,6 +1,6 @@
 # xllm-go/bypass
 
-⭐ 1,246 · Go · GPL-3.0 · 推送 2026-06-24 · [GitHub](https://github.com/xllm-go/bypass) · [官网](https://xllm-go.github.io/bypass) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **将多款 AI 聊天逆向接口适配为 OpenAI 标准接口的服务端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

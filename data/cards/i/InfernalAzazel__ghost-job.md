@@ -1,6 +1,6 @@
 # InfernalAzazel/ghost-job
 
-⭐ 168 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/InfernalAzazel/ghost-job) · 个人维护 · 中文 README
+⭐ 173 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/InfernalAzazel/ghost-job) · 个人维护 · 中文 README
 
 **求职者用的 BOSS 直聘 AI 自动投递桌面软件**
 

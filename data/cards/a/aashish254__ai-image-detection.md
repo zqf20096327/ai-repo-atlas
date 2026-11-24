@@ -1,6 +1,6 @@
 # aashish254/ai-image-detection
 
-⭐ 77 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/aashish254/ai-image-detection) · 组织维护
+⭐ 77 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aashish254/ai-image-detection) · 组织维护
 
 **多模态 AI 生成图像取证分析平台，输出五档判定报告**
 

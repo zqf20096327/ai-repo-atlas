@@ -1,6 +1,6 @@
 # ncoevoet/facet
 
-⭐ 399 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ncoevoet/facet) · [官网](https://ncoevoet.github.io/facet/) · 个人维护 · 中文 README
+⭐ 404 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ncoevoet/facet) · [官网](https://ncoevoet.github.io/facet/) · 个人维护 · 中文 README
 
 **本地照片 AI 评分与筛选引擎：评分、人脸识别、语义搜索**
 

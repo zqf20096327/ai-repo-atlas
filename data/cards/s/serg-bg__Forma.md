@@ -1,6 +1,6 @@
 # serg-bg/Forma
 
-⭐ 5 · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/serg-bg/Forma) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向神经科学研究者的桌面端 3D 显微图像深度学习分割与分析应用**
 
@@ -11,7 +11,7 @@ Forma 是一个 Mac/Windows/Linux 桌面应用，工作流为：读取 TIFF/ND2/
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | GPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

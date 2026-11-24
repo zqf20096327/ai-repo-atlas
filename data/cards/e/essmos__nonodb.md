@@ -1,6 +1,6 @@
 # essmos/nonodb
 
-⭐ 22 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/essmos/nonodb) · [官网](https://nonodb.com) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/essmos/nonodb) · [官网](https://nonodb.com) · 个人维护
 
 **面向小型 VM 与边缘设备的 JSON 文档数据库（MongoDB 风格）**
 

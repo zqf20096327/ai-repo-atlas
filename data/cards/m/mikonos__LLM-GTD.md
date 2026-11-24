@@ -1,6 +1,6 @@
 # mikonos/LLM-GTD
 
-⭐ 20 · Shell · MIT · 推送 2026-06-11 · [GitHub](https://github.com/mikonos/LLM-GTD) · 个人维护
+⭐ 21 · Shell · MIT · 推送 2026-06-11 · [GitHub](https://github.com/mikonos/LLM-GTD) · 个人维护
 
 **跨 Claude Code/Cursor/Codex 的 GTD 任务管理 agent 技能包**
 

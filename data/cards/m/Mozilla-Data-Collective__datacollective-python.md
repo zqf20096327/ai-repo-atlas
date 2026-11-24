@@ -1,6 +1,6 @@
 # Mozilla-Data-Collective/datacollective-python
 
-⭐ 31 · Python · MPL-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Mozilla-Data-Collective/datacollective-python) · [官网](https://mozilla-data-collective.github.io/datacollective-python/) · 组织维护
+⭐ 31 · Python · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Mozilla-Data-Collective/datacollective-python) · [官网](https://mozilla-data-collective.github.io/datacollective-python/) · 组织维护
 
 **访问 Mozilla Data Collective 数据集平台的官方 Python SDK**
 

@@ -1,6 +1,6 @@
 # Gsync/jobsync
 
-⭐ 1,540 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Gsync/jobsync) · [官网](https://jobsync.ca) · 个人维护
+⭐ 1,549 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Gsync/jobsync) · [官网](https://jobsync.ca) · 个人维护
 
 **自托管的求职申请追踪器，附 AI 简历评审与职位匹配**
 

@@ -1,6 +1,6 @@
 # 101dotxyz/GPTeam
 
-⭐ 1,727 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/101dotxyz/GPTeam) · [官网](https://www.gpteamai.com/) · 个人维护
+⭐ 1,727 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/101dotxyz/GPTeam) · [官网](https://www.gpteamai.com/) · 个人维护
 
 **基于 GPT-4 的多智能体协作模拟：多 agent 在世界中协作完成任务**
 

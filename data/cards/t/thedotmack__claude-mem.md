@@ -1,10 +1,10 @@
 # thedotmack/claude-mem
 
-⭐ 119,048 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/thedotmack/claude-mem) · [官网](https://claude-mem.ai) · 个人维护
+⭐ 119,329 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/thedotmack/claude-mem) · [官网](https://claude-mem.ai) · 个人维护
 
-**为编程 agent 提供跨会话持久记忆的插件工具**
+**为编码 agent 提供跨会话持久记忆的插件/工作服务**
 
-Claude-Mem 通过 agent 生命周期钩子捕获每次工具调用，由本地 worker 服务上的 observer agent 将活动压缩为观察记录与摘要，存入本地 SQLite/Chroma 存储（~/.claude-mem），下一会话按渐进式披露注入相关上下文索引。支持 Claude Code、Codex、Cursor、OpenCode 等 13+ 个 agent，部分 agent 仅支持记忆搜索。提供 mem-search 检索、web 查看器、团队共享工作区与可选云同步；记忆提供方可选 claude-mem observer（30 天试用）、OpenRouter、Gemini 或 Anthropic 计划。通过 npx 安装或 Claude Code 插件市场安装。
+Claude-Mem 在用户的编码 agent 旁运行一个本地 worker 与 observer agent：通过 hooks 捕获每次工具调用，由 observer 压缩为观察记录并存入本地 SQLite/FTS5 与 Chroma 向量库，下次会话开始时注入分层的上下文索引，agent 按需取详情。支持 Claude Code、Codex、OpenCode、Cursor 等多个 agent，部分 agent 仅支持记忆搜索。记忆默认存于本机 ~/.claude-mem，云同步可选，提供 web viewer、团队共享工作区、私密度标签与遥测开关。安装走 npx 或 Claude Code 插件市场；npm 全局安装只装 SDK。
 
 ## 筛选速览
 
@@ -27,16 +27,16 @@ Claude-Mem 通过 agent 生命周期钩子捕获每次工具调用，由本地 w
 
 ## 能力要点
 
-- 钩子捕获工具活动，observer agent 压缩为观察与摘要
-- 下一会话注入分层上下文索引，按需取详情以控制 token 开销
-- SQLite + FTS5 + Chroma 混合检索，mem-search 三步查询
-- 本地存储于 ~/.claude-mem，云同步 opt-in，<private> 标签防敏感内容入库
+- hooks 捕获工具调用，observer agent 生成观察记录与摘要
+- 本地存储（SQLite + FTS5 + Chroma），云同步可选，<private> 标签排除内容
+- 支持 Claude Code/Codex/OpenCode 等 13+ agent，部分仅限记忆搜索
+- 可自选记忆提供方：claude-mem observer、OpenRouter、Gemini key 或 Anthropic 计划
 
 ## 适用场景
 
-- 让编程 agent 在新会话中延续上一次的工作上下文
-- 用自然语言检索历史项目会话中的工作记录
-- 团队共享 agent 工作清单与发现（TeamBrain）
+- 让编码 agent 在新会话延续上次工作进度
+- 用自然语言搜索项目的改动历史
+- 团队共享 agent 观察记录与待办清单
 
 ## 场景标签
 
@@ -45,8 +45,8 @@ Claude-Mem 通过 agent 生命周期钩子捕获每次工具调用，由本地 w
 ## 证据(README 行号)
 
 > L103:  Claude-Mem runs a second agent beside it that takes notes while it works. The next session starts with a short in
-> L115: The installer sets everything up first, then asks you to sign in to claude-mem in your browser (email magic link, 
 > L239: 1. **Your agent works.** Hooks in your agent hand each tool call (what it reads, edits and runs) to a small local 
+> L253: - **The worker** (`src/services/worker-service.ts`, routes in `src/services/worker/http/routes/`): a local HTTP se
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a95999c4989a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `dbc0df81e527` · [字段定义](../../DATASET.md)*

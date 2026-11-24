@@ -1,6 +1,6 @@
 # gestordescomplicaa-web/zervis
 
-⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gestordescomplicaa-web/zervis) · 组织维护
+⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/gestordescomplicaa-web/zervis) · 组织维护
 
 **面向自动化从业者的语音助手：WhatsApp 接待、代码代理与集成**
 

@@ -1,6 +1,6 @@
 # protonspy/harness-for-rea
 
-⭐ 32 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/protonspy/harness-for-rea) · 组织维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/protonspy/harness-for-rea) · 组织维护
 
 **双 agent 沙箱化的软件逆向分析桌面应用与终端 UI**
 

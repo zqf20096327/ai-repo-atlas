@@ -1,6 +1,6 @@
 # controlplaneio/sandbox-probe
 
-⭐ 27 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/controlplaneio/sandbox-probe) · [官网](https://control-plane.io) · 组织维护
+⭐ 27 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/controlplaneio/sandbox-probe) · [官网](https://control-plane.io) · 组织维护
 
 **沙箱安全探测工具：审计 AI 编码代理沙箱的实际边界**
 

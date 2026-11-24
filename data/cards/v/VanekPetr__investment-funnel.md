@@ -1,6 +1,6 @@
 # VanekPetr/investment-funnel
 
-⭐ 77 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/VanekPetr/investment-funnel) · [官网](https://investment-funnel.algostrata.com) · 组织维护
+⭐ 77 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VanekPetr/investment-funnel) · [官网](https://investment-funnel.algostrata.com) · 组织维护
 
 **开源 Python 投资策略开发与回测平台，含 ETF/基金市场总览**
 

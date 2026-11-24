@@ -1,6 +1,6 @@
 # oh-my-omp/omp-config
 
-⭐ 16 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/oh-my-omp/omp-config) · 组织维护 · 中文 README
+⭐ 16 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/oh-my-omp/omp-config) · 组织维护 · 中文 README
 
 **Oh My Pi 编码 agent 的版本化配置与插件清单仓库**
 

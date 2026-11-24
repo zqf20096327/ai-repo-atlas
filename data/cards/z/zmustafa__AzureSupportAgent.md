@@ -1,6 +1,6 @@
 # zmustafa/AzureSupportAgent
 
-⭐ 43 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zmustafa/AzureSupportAgent) · [官网](https://github.com/zmustafa/AzureSupportAgent) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zmustafa/AzureSupportAgent) · [官网](https://github.com/zmustafa/AzureSupportAgent) · 个人维护
 
 **面向 Azure 运维的 AI 工作台：租户对话、多智能体调查与治理**
 

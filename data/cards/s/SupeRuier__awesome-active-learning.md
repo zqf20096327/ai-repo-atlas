@@ -1,6 +1,6 @@
 # SupeRuier/awesome-active-learning
 
-⭐ 1,011 · 推送 2026-03-16 · [GitHub](https://github.com/SupeRuier/awesome-active-learning) · 个人维护 · 中文 README
+⭐ 1,012 · 推送 2026-03-16 · [GitHub](https://github.com/SupeRuier/awesome-active-learning) · 个人维护 · 中文 README
 
 **主动学习研究资料库：论文、综述、工具与学者索引**
 

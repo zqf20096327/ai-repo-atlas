@@ -1,6 +1,6 @@
 # olyaiy/TypeGPT
 
-⭐ 149 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/olyaiy/TypeGPT) · [官网](https://discord.gg/Vfxeb2U2Ay) · 个人维护
+⭐ 148 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/olyaiy/TypeGPT) · [官网](https://discord.gg/Vfxeb2U2Ay) · 个人维护
 
 **在系统任意文本框通过快捷键调用 LLM 的桌面工具**
 

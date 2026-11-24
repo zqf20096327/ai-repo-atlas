@@ -1,6 +1,6 @@
 # davidcitahernandez-debug/computer-use-agent-vault
 
-⭐ 85 · 推送 2026-11-02 · [GitHub](https://github.com/davidcitahernandez-debug/computer-use-agent-vault) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 93 · 推送 2026-11-02 · [GitHub](https://github.com/davidcitahernandez-debug/computer-use-agent-vault) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向自主 Agent 的虚拟卡支付沙箱方案宣传仓库（CoreGold）**
 

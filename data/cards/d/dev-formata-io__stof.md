@@ -1,6 +1,6 @@
 # dev-formata-io/stof
 
-⭐ 65 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/dev-formata-io/stof) · [官网](https://stof.dev) · 组织维护
+⭐ 66 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/dev-formata-io/stof) · [官网](https://stof.dev) · 组织维护
 
 **在应用内沙箱运行 AI 生成逻辑的文档格式与运行时库**
 

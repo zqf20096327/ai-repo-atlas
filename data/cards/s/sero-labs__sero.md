@@ -1,6 +1,6 @@
 # sero-labs/sero
 
-⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/sero-labs/sero) · [官网](https://sero-ai.dev/) · 组织维护
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sero-labs/sero) · [官网](https://sero-ai.dev/) · 组织维护
 
 **本地优先的 AI agent 桌面工作区，承载 Pi 编码代理运行**
 

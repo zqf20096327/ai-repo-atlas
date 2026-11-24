@@ -1,6 +1,6 @@
 # 2sellyogurt/AI-CAD-Audit-System
 
-⭐ 13 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/2sellyogurt/AI-CAD-Audit-System) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-06-25 · [GitHub](https://github.com/2sellyogurt/AI-CAD-Audit-System) · 个人维护 · 中文 README
 
 **面向建筑审查的施工图 AI 合规审图平台（GB 规范）**
 

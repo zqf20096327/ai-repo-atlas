@@ -1,6 +1,6 @@
 # MIV-XJTU/JanusVLN
 
-⭐ 599 · Python · 推送 2026-08-17 · [GitHub](https://github.com/MIV-XJTU/JanusVLN) · [官网](https://miv-xjtu.github.io/JanusVLN.github.io/) · 组织维护 · 中文 README
+⭐ 600 · Python · 推送 2026-08-17 · [GitHub](https://github.com/MIV-XJTU/JanusVLN) · [官网](https://miv-xjtu.github.io/JanusVLN.github.io/) · 组织维护 · 中文 README
 
 **视觉语言导航框架：双隐式记忆解耦语义与空间认知**
 

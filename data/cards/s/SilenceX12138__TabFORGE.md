@@ -1,6 +1,6 @@
 # SilenceX12138/TabFORGE
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/SilenceX12138/TabFORGE) · [官网](https://silencex12138.github.io/TabFORGE/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向研究者的表格基础模型库：生成/分类/回归等七任务统一接口**
 
@@ -11,7 +11,7 @@ NeurIPS 2026 论文的官方实现：一个表格基础模型，由 Structure-aw
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

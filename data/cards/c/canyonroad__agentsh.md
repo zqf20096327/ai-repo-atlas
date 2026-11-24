@@ -1,6 +1,6 @@
 # canyonroad/agentsh
 
-⭐ 411 · Go · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/canyonroad/agentsh) · [官网](https://www.agentsh.org) · 个人维护
+⭐ 412 · Go · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/canyonroad/agentsh) · [官网](https://www.agentsh.org) · 个人维护
 
 **面向 AI agent 的策略强制执行 shell 网关与审计层**
 

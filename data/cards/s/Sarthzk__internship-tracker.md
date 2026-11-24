@@ -1,6 +1,6 @@
 # Sarthzk/internship-tracker
 
-⭐ 159 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Sarthzk/internship-tracker) · [官网](https://t.me/tech_internships) · 个人维护
+⭐ 160 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Sarthzk/internship-tracker) · [官网](https://t.me/tech_internships) · 个人维护
 
 **自动追踪印度科技实习岗位的清单仓库，附 Telegram 提醒**
 

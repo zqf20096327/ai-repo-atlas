@@ -1,6 +1,6 @@
 # Mantux775/NVAI-open
 
-⭐ 33 · Swift · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Mantux775/NVAI-open) · [官网](https://github.com/Mantux775/NVAI-open/releases) · 个人维护
+⭐ 35 · Swift · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Mantux775/NVAI-open) · [官网](https://github.com/Mantux775/NVAI-open/releases) · 个人维护
 
 **本地图像/视频/音乐/3D 生成桌面应用，免云免订阅**
 

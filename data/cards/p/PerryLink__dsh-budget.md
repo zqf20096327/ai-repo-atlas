@@ -1,6 +1,6 @@
 # PerryLink/dsh-budget
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-budget) · [官网](https://www.npmjs.com/package/dsh-budget) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-budget) · [官网](https://www.npmjs.com/package/dsh-budget) · 个人维护 · 中文 README
 
 **DSH 插件：按会话/日/月计量 token 成本、碳足迹与延迟并设预算闸门**
 

@@ -1,6 +1,6 @@
 # google/adk-java
 
-⭐ 1,779 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google/adk-java) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 1,779 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google/adk-java) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **面向开发者的 Java 代码优先 AI Agent 构建工具包**
 

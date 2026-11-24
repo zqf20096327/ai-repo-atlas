@@ -1,6 +1,6 @@
 # abdallah-swe/layerpool
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/abdallah-swe/layerpool) · [官网](https://pypi.org/project/layerpool/) · 个人维护
+⭐ 9 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/abdallah-swe/layerpool) · [官网](https://pypi.org/project/layerpool/) · 个人维护
 
 **把多台设备的显存合并，分层拆分训练大模型**
 

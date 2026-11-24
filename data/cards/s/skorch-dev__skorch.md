@@ -1,6 +1,6 @@
 # skorch-dev/skorch
 
-⭐ 6,186 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-10 · [GitHub](https://github.com/skorch-dev/skorch) · 组织维护
+⭐ 6,185 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-10 · [GitHub](https://github.com/skorch-dev/skorch) · 组织维护
 
 **给 scikit-learn 用户提供兼容 sklearn API 的 PyTorch 神经网络封装库**
 

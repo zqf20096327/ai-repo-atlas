@@ -1,6 +1,6 @@
 # JosephHampton/awesome-gemini-cli-subagents
 
-⭐ 122 · Shell · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/JosephHampton/awesome-gemini-cli-subagents) · [官网](https://josephhampton.github.io/awesome-gemini-cli-subagents/) · 个人维护
+⭐ 124 · Shell · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/JosephHampton/awesome-gemini-cli-subagents) · [官网](https://josephhampton.github.io/awesome-gemini-cli-subagents/) · 个人维护
 
 **面向 Gemini CLI/Antigravity 的 81 个子代理提示词策展库**
 

@@ -1,6 +1,6 @@
 # harnessprotocol/harness-kit
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/harnessprotocol/harness-kit) · [官网](https://harnesskit.ai) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/harnessprotocol/harness-kit) · [官网](https://harnesskit.ai) · 组织维护
 
 **AI 编码工具配置的打包与同步工具：一份配置应用到多端**
 

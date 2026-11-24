@@ -1,6 +1,6 @@
 # openai/openai-dotnet
 
-⭐ 2,720 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/openai/openai-dotnet) · [官网](https://www.nuget.org/packages/OpenAI) · 组织维护
+⭐ 2,720 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-dotnet) · [官网](https://www.nuget.org/packages/OpenAI) · 组织维护
 
 **.NET 开发者访问 OpenAI REST API 的官方客户端库**
 

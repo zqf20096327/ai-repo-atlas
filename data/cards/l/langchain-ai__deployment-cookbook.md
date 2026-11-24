@@ -1,6 +1,6 @@
 # langchain-ai/deployment-cookbook
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/langchain-ai/deployment-cookbook) · [官网](https://docs.langchain.com/langsmith/deployment) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/langchain-ai/deployment-cookbook) · [官网](https://docs.langchain.com/langsmith/deployment) · 组织维护
 
 **LangChain agent 生产部署参考实现集（多平台全栈示例）**
 

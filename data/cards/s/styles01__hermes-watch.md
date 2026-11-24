@@ -1,6 +1,6 @@
 # styles01/hermes-watch
 
-⭐ 24 · C++ · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/styles01/hermes-watch) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
+⭐ 25 · C++ · AGPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/styles01/hermes-watch) · [官网](https://github.com/NousResearch/hermes-agent) · 个人维护
 
 **给 AI agent 用户的语音遥控器：M5Stack 圆屏手表固件**
 

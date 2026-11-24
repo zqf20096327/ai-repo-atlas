@@ -1,6 +1,6 @@
 # iloveitaly/llm-ide-rules
 
-⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/iloveitaly/llm-ide-rules) · [官网](https://github.com/iloveitaly/llm_ide_rules) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iloveitaly/llm-ide-rules) · [官网](https://github.com/iloveitaly/llm_ide_rules) · 个人维护
 
 **跨 IDE 的 LLM 指令规则下载与格式转换 CLI 工具**
 

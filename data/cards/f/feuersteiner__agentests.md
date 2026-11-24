@@ -1,6 +1,6 @@
 # feuersteiner/agentests
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/feuersteiner/agentests) · [官网](https://discord.gg/kESK4bgEPW) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/feuersteiner/agentests) · [官网](https://discord.gg/kESK4bgEPW) · 个人维护
 
 **让团队把业务规则转成可验证测试的 Agent 工具**
 

@@ -1,6 +1,6 @@
 # chandewardnyanesh/kronos-nse-terminal
 
-⭐ 12 · Python · 推送 2026-05-31 · [GitHub](https://github.com/chandewardnyanesh/kronos-nse-terminal) · 个人维护
+⭐ 13 · Python · 推送 2026-05-31 · [GitHub](https://github.com/chandewardnyanesh/kronos-nse-terminal) · 个人维护
 
 **在 NSE/BSE 实时数据上运行 Kronos 模型做 K 线预测的 Python 交易终端**
 

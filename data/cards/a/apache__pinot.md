@@ -1,6 +1,6 @@
 # apache/pinot
 
-⭐ 6,178 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/apache/pinot) · [官网](https://pinot.apache.org/) · 组织维护
+⭐ 6,178 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/apache/pinot) · [官网](https://pinot.apache.org/) · 组织维护
 
 **实时分布式 OLAP 数据库，支持低延迟 SQL 与向量检索**
 

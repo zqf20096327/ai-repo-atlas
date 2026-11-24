@@ -1,6 +1,6 @@
 # daoif/tokless
 
-⭐ 27 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/daoif/tokless) · [官网](https://www.npmjs.com/package/tokless) · 个人维护 · 中文 README
+⭐ 41 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/daoif/tokless) · [官网](https://www.npmjs.com/package/tokless) · 个人维护 · 中文 README
 
 **给 AI 编程 Agent 削减盲目读取与 Token 消耗的省流套件**
 

@@ -1,6 +1,6 @@
 # Agent-Field/pr-af
 
-⭐ 668 · Go · 推送 2026-11-13 · [GitHub](https://github.com/Agent-Field/pr-af) · [官网](https://www.agentfield.ai) · 组织维护
+⭐ 668 · Go · 推送 2026-11-23 · [GitHub](https://github.com/Agent-Field/pr-af) · [官网](https://www.agentfield.ai) · 组织维护
 
 **基于 AgentField 的开源 PR 代码审查 agent，供 CI 使用**
 

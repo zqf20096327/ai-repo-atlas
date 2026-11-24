@@ -1,6 +1,6 @@
 # explosion/spaCy
 
-⭐ 34,087 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/explosion/spaCy) · [官网](https://spacy.io) · 组织维护
+⭐ 34,090 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/explosion/spaCy) · [官网](https://spacy.io) · 组织维护
 
 **Python 开发者的工业级 NLP 处理库**
 

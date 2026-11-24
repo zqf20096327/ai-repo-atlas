@@ -1,6 +1,6 @@
 # ebibibi/ebi-agent-chat-relay
 
-⭐ 67 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ebibibi/ebi-agent-chat-relay) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ebibibi/ebi-agent-chat-relay) · 个人维护 · 中文 README
 
 **多前端统一驾驶舱：并行运行与监督多个编码 agent CLI**
 

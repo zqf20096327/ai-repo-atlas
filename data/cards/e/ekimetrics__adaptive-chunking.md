@@ -1,6 +1,6 @@
 # ekimetrics/adaptive-chunking
 
-⭐ 419 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ekimetrics/adaptive-chunking) · 组织维护
+⭐ 421 · Python · MIT · 推送 2026-07-06 · [GitHub](https://github.com/ekimetrics/adaptive-chunking) · 组织维护
 
 **为 RAG 逐文档自动选出最优分块策略的库（LREC 2026 论文实现）**
 

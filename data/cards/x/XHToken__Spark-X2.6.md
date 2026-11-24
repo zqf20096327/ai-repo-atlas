@@ -1,6 +1,6 @@
 # XHToken/Spark-X2.6
 
-⭐ 932 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/XHToken/Spark-X2.6) · [官网](https://xhtoken.ai/) · 组织维护
+⭐ 935 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/XHToken/Spark-X2.6) · [官网](https://xhtoken.ai/) · 组织维护
 
 **端侧部署的开源 LLM 系列（4B/1.7B），面向开发者**
 

@@ -1,6 +1,6 @@
 # lovelybowen/runtars
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lovelybowen/runtars) · [官网](https://runtars.com) · 个人维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lovelybowen/runtars) · [官网](https://runtars.com) · 个人维护
 
 **自托管的 AI 队友平台：持久记忆、例程与沙盒电脑**
 

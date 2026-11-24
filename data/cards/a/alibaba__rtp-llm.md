@@ -1,6 +1,6 @@
 # alibaba/rtp-llm
 
-⭐ 1,402 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/alibaba/rtp-llm) · 组织维护 · 中文 README
+⭐ 1,402 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/alibaba/rtp-llm) · 组织维护 · 中文 README
 
 **阿里开发的高性能 LLM 推理加速引擎**
 

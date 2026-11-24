@@ -1,6 +1,6 @@
 # elbwalker/walkerOS
 
-⭐ 351 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/elbwalker/walkerOS) · [官网](https://www.walkeros.io/) · 组织维护
+⭐ 351 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/elbwalker/walkerOS) · [官网](https://www.walkeros.io/) · 组织维护
 
 **面向开发者的开源事件采集/标签管理器，经 MCP 供 AI agent 使用**
 

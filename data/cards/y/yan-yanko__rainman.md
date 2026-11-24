@@ -1,6 +1,6 @@
 # yan-yanko/rainman
 
-⭐ 22 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/yan-yanko/rainman) · [官网](https://yan-yanko.github.io/rainman/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/yan-yanko/rainman) · [官网](https://yan-yanko.github.io/rainman/) · 个人维护
 
 **给 AI 编码工具的本地项目记忆层：按上下文召回经验**
 

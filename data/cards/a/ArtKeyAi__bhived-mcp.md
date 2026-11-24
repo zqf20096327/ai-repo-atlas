@@ -1,6 +1,6 @@
 # ArtKeyAi/bhived-mcp
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ArtKeyAi/bhived-mcp) · [官网](https://bhived.ai/) · 组织维护
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/ArtKeyAi/bhived-mcp) · [官网](https://bhived.ai/) · 组织维护
 
 **给 AI agent 提供共享经验、技能与 MCP 工具发现的 MCP 服务器**
 

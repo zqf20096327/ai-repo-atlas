@@ -1,6 +1,6 @@
 # jangviktor-web/nihaixia-app
 
-⭐ 304 · Dart · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jangviktor-web/nihaixia-app) · [官网](https://jangviktor-web.github.io/nihaixia-app/) · 个人维护 · 中文 README
+⭐ 303 · Dart · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jangviktor-web/nihaixia-app) · [官网](https://jangviktor-web.github.io/nihaixia-app/) · 个人维护 · 中文 README
 
 **离线中医经方学习与辅助诊断安卓 App，附带可选 AI 讲义问答**
 

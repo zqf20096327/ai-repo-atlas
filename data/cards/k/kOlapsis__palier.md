@@ -1,6 +1,6 @@
 # kOlapsis/palier
 
-⭐ 17 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kOlapsis/palier) · [官网](https://kolapsis.github.io/palier/) · 个人维护
+⭐ 17 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kOlapsis/palier) · [官网](https://kolapsis.github.io/palier/) · 个人维护
 
 **自托管 Docker Compose 栈的自动更新工具，AI 读取发版说明规划升级路径**
 

@@ -1,6 +1,6 @@
 # cotletdev/fresha-api-mcp-server
 
-⭐ 7 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/fresha-api-mcp-server) · [官网](https://cotlet.dev/integrations/fresha-api-mcp-server) · 组织维护
+⭐ 7 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/fresha-api-mcp-server) · [官网](https://cotlet.dev/integrations/fresha-api-mcp-server) · 组织维护
 
 **让 AI 代理操作 Fresha 门店系统的 MCP 服务器与本地 API**
 

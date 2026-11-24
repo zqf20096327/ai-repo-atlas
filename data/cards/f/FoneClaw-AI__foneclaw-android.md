@@ -1,6 +1,6 @@
 # FoneClaw-AI/foneclaw-android
 
-⭐ 23 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/FoneClaw-AI/foneclaw-android) · [官网](https://www.foneclaw.ai) · 组织维护
+⭐ 25 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/FoneClaw-AI/foneclaw-android) · [官网](https://www.foneclaw.ai) · 组织维护
 
 **Android 手机 AI 语音代理：一句话执行 120+ 设备操作**
 

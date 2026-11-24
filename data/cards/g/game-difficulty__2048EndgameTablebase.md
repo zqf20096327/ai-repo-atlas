@@ -1,6 +1,6 @@
 # game-difficulty/2048EndgameTablebase
 
-⭐ 165 · C++ · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/game-difficulty/2048EndgameTablebase) · [官网](https://2048tables.online/) · 个人维护 · 中文 README
+⭐ 164 · C++ · GPL-3.0 · 推送 2026-10-17 · [GitHub](https://github.com/game-difficulty/2048EndgameTablebase) · [官网](https://2048tables.online/) · 个人维护 · 中文 README
 
 **2048 残局表库 AI 引擎与表生成器，供玩家训练与自动对弈**
 

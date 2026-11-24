@@ -1,6 +1,6 @@
 # sidiangongyuan/codex-skills-library
 
-⭐ 25 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/sidiangongyuan/codex-skills-library) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/sidiangongyuan/codex-skills-library) · 个人维护 · 中文 README
 
 **18 个可安装的 Codex 工作流技能库：科研写作与开发运维**
 

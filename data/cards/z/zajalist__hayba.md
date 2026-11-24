@@ -1,6 +1,6 @@
 # zajalist/hayba
 
-⭐ 13 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zajalist/hayba) · [官网](https://hayba.vercel.app) · 个人维护
+⭐ 13 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zajalist/hayba) · [官网](https://hayba.vercel.app) · 个人维护
 
 **把 MCP agent 接入 Unreal 编辑器的世界构建工具箱**
 

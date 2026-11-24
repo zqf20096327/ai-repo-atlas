@@ -1,6 +1,6 @@
 # grinev/opencode-telegram-bot
 
-⭐ 1,370 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/grinev/opencode-telegram-bot) · 个人维护
+⭐ 1,373 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/grinev/opencode-telegram-bot) · 个人维护
 
 **OpenCode 的 Telegram 移动客户端：手机远程运行监控 AI 编码任务**
 

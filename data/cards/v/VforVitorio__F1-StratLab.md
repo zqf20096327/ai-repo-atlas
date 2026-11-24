@@ -1,6 +1,6 @@
 # VforVitorio/F1-StratLab
 
-⭐ 34 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/VforVitorio/F1-StratLab) · [官网](https://f1stratlab.com/) · 个人维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/VforVitorio/F1-StratLab) · [官网](https://f1stratlab.com/) · 个人维护
 
 **F1 赛事回放与多智能体进站策略模拟平台**
 

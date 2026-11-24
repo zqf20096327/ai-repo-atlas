@@ -1,6 +1,6 @@
 # t3x-dev/t3x-core
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/t3x-dev/t3x-core) · [官网](https://t3x.dev) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/t3x-dev/t3x-core) · [官网](https://t3x.dev) · 组织维护
 
 **给人与 AI agent 提供结构化状态变更的版本控制**
 

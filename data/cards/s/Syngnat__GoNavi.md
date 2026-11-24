@@ -1,6 +1,6 @@
 # Syngnat/GoNavi
 
-⭐ 2,106 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Syngnat/GoNavi) · [官网](https://gonavi.org) · 组织维护 · 中文 README
+⭐ 2,106 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Syngnat/GoNavi) · [官网](https://gonavi.org) · 组织维护 · 中文 README
 
 **开发者用的多数据源数据库客户端，内置 AI 助手与 MCP 接入**
 

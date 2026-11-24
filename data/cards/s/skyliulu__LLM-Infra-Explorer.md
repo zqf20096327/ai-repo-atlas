@@ -1,6 +1,6 @@
 # skyliulu/LLM-Infra-Explorer
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/skyliulu/LLM-Infra-Explorer) · [官网](http://skyliulu.github.io/LLM-Infra-Explorer/) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/skyliulu/LLM-Infra-Explorer) · [官网](http://skyliulu.github.io/LLM-Infra-Explorer/) · 个人维护 · 中文 README
 
 **LLM 推理系统与底层机制的交互式可视化教学工作台**
 

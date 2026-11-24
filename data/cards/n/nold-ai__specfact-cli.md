@@ -1,6 +1,6 @@
 # nold-ai/specfact-cli
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nold-ai/specfact-cli) · [官网](https://docs.specfact.io/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nold-ai/specfact-cli) · [官网](https://docs.specfact.io/) · 组织维护
 
 **面向 Python 团队的本地确定性代码审查与 AI 膨胀防御 CLI**
 

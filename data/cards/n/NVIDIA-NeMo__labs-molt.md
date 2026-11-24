@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/labs-molt
 
-⭐ 1,401 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA-NeMo/labs-molt) · [官网](https://nvidia-nemo.github.io/labs-molt/) · 组织维护
+⭐ 1,404 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA-NeMo/labs-molt) · [官网](https://nvidia-nemo.github.io/labs-molt/) · 组织维护
 
 **面向 RL 研究者的 Hugging Face 原生 agentic 强化学习框架**
 

@@ -1,6 +1,6 @@
 # drivendataorg/deon
 
-⭐ 310 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/drivendataorg/deon) · [官网](https://deon.drivendata.org/) · 组织维护
+⭐ 311 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/drivendataorg/deon) · [官网](https://deon.drivendata.org/) · 组织维护
 
 **为数据科学项目生成伦理检查清单的命令行工具**
 

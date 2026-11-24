@@ -1,6 +1,6 @@
 # magiksoft/aider-desk
 
-⭐ 1,472 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/magiksoft/aider-desk) · [官网](https://aiderdesk.dev) · 组织维护
+⭐ 1,474 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/magiksoft/aider-desk) · [官网](https://aiderdesk.dev) · 组织维护
 
 **面向专业软件工程师的 AI 编排桌面平台（Aider GUI 演化）**
 

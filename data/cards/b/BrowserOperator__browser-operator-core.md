@@ -1,6 +1,6 @@
 # BrowserOperator/browser-operator-core
 
-⭐ 514 · TypeScript · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/BrowserOperator/browser-operator-core) · [官网](https://browseroperator.io/) · 组织维护
+⭐ 514 · TypeScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/BrowserOperator/browser-operator-core) · [官网](https://browseroperator.io/) · 组织维护
 
 **开源 AI 浏览器：内置多 Agent 平台做网页研究与自动化**
 

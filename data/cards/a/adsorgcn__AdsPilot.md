@@ -1,6 +1,6 @@
 # adsorgcn/AdsPilot
 
-⭐ 25 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/adsorgcn/AdsPilot) · [官网](https://ilang.ai) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adsorgcn/AdsPilot) · [官网](https://ilang.ai) · 个人维护 · 中文 README
 
 **广告联盟 SEM/PPC 投放基座与插件，交给自有 Agent 无人值守运行**
 

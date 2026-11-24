@@ -1,6 +1,6 @@
 # Ch1rpys/Mirrai
 
-⭐ 1,270 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Ch1rpys/Mirrai) · 个人维护 · 中文 README
+⭐ 1,271 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Ch1rpys/Mirrai) · 个人维护 · 中文 README
 
 **从真实聊天记录重建数字分身的自托管 AI 陪伴应用**
 

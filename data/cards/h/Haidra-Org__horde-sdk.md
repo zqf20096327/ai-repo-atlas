@@ -1,6 +1,6 @@
 # Haidra-Org/horde-sdk
 
-⭐ 44 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Haidra-Org/horde-sdk) · [官网](https://aihorde.net/) · 组织维护
+⭐ 44 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Haidra-Org/horde-sdk) · [官网](https://aihorde.net/) · 组织维护
 
 **与 AI-Horde 免费生成式 AI API 交互的 Python SDK**
 

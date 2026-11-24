@@ -1,6 +1,6 @@
 # amitshekhariitbhu/100-days-of-ai
 
-⭐ 82 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/amitshekhariitbhu/100-days-of-ai) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
+⭐ 84 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/amitshekhariitbhu/100-days-of-ai) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
 **面向 AI 工程学习者的 100 天 AI 概念学习计划**
 

@@ -1,6 +1,6 @@
 # nixopus/nixopus
 
-⭐ 1,474 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/nixopus/nixopus) · [官网](https://nixopus.com) · 组织维护
+⭐ 1,473 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/nixopus/nixopus) · [官网](https://nixopus.com) · 组织维护
 
 **带自主 AI Agent 的自托管应用部署平台**
 

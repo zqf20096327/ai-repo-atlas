@@ -1,6 +1,6 @@
 # microsoft/amplifier-smart-tools
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/amplifier-smart-tools) · [官网](https://microsoft.github.io/amplifier-smart-tools/) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/amplifier-smart-tools) · [官网](https://microsoft.github.io/amplifier-smart-tools/) · 组织维护
 
 **把领域专长打包为任意 agent 可调用工具的格式规范**
 

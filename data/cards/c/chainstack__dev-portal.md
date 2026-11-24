@@ -1,6 +1,6 @@
 # chainstack/dev-portal
 
-⭐ 14 · MDX · 推送 2026-11-20 · [GitHub](https://github.com/chainstack/dev-portal) · [官网](https://docs.chainstack.com) · 组织维护
+⭐ 14 · MDX · 推送 2026-11-23 · [GitHub](https://github.com/chainstack/dev-portal) · [官网](https://docs.chainstack.com) · 组织维护
 
 **Chainstack 区块链开发者文档门户，含托管 MCP 服务**
 

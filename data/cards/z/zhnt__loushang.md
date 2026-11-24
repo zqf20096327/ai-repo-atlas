@@ -1,6 +1,6 @@
 # zhnt/loushang
 
-⭐ 2,104 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/zhnt/loushang) · 个人维护 · 中文 README
+⭐ 2,105 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/zhnt/loushang) · 个人维护 · 中文 README
 
 **面向开发者的 AI 编码 agent CLI：意图到可验证交付**
 

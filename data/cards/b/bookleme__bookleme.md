@@ -1,6 +1,6 @@
 # bookleme/bookleme
 
-⭐ 174 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/bookleme/bookleme) · 组织维护 · 中文 README
+⭐ 185 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/bookleme/bookleme) · 组织维护 · 中文 README
 
 **把整本书编译成可安装 Agent Skill 的工具链**
 

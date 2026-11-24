@@ -1,6 +1,6 @@
 # acrion/zelph
 
-⭐ 23 · C++ · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/acrion/zelph) · [官网](https://zelph.org) · 组织维护
+⭐ 23 · C++ · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/acrion/zelph) · [官网](https://zelph.org) · 组织维护
 
 **C++ 语义网络与推理引擎：规则、事实与数均为图中节点**
 

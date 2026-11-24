@@ -1,6 +1,6 @@
 # 0x11c11e/awesome-ai-research-tools
 
-⭐ 94 · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/0x11c11e/awesome-ai-research-tools) · 个人维护
+⭐ 93 · CC0-1.0 · 推送 2026-11-12 · [GitHub](https://github.com/0x11c11e/awesome-ai-research-tools) · 个人维护
 
 **面向科研全流程的 AI 工具策展清单（文献、引用、写作等）**
 

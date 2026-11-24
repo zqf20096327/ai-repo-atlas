@@ -1,6 +1,6 @@
 # captivus/chrome-agent
 
-⭐ 310 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/captivus/chrome-agent) · [官网](https://pypi.org/project/chrome-agent/) · 个人维护
+⭐ 310 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/captivus/chrome-agent) · [官网](https://pypi.org/project/chrome-agent/) · 个人维护
 
 **让 AI 编码 Agent 直接通过 CDP 观察和操作 Chrome 的 CLI**
 

@@ -1,6 +1,6 @@
 # Vihan-2008/jarvis
 
-⭐ 6 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Vihan-2008/jarvis) · [官网](https://vihan-2008.github.io/jarvis/) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Vihan-2008/jarvis) · [官网](https://vihan-2008.github.io/jarvis/) · 个人维护
 
 **本地桌面 AI 助手：说话/打字即操作电脑与写软件**
 

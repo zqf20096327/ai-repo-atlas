@@ -1,6 +1,6 @@
 # Blushyes/reef
 
-⭐ 83 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Blushyes/reef) · [官网](https://blushyes.github.io/reef-site) · 个人维护 · 中文 README
+⭐ 84 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Blushyes/reef) · [官网](https://blushyes.github.io/reef-site) · 个人维护 · 中文 README
 
 **面向 AI 编码时代的单二进制开发终端：浏览、审查、提交代码**
 

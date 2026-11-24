@@ -1,6 +1,6 @@
 # github/evals
 
-⭐ 17 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/github/evals) · 组织维护
+⭐ 18 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/github/evals) · 组织维护
 
 **为 Copilot 定制（技能/Agent/MCP 工具）创建与运行可复现评测的插件**
 

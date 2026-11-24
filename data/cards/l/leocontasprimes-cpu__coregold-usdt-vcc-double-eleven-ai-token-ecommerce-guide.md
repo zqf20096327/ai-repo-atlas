@@ -1,6 +1,6 @@
 # leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide
 
-⭐ 15 · 推送 2026-11-19 · [GitHub](https://github.com/leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 38 · 推送 2026-11-19 · [GitHub](https://github.com/leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向电商与内容团队的虚拟卡（USDT 充值）开卡使用指南**
 

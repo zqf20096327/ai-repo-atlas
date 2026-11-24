@@ -1,6 +1,6 @@
 # EL4CTEO/rbx-studio-mcp
 
-⭐ 16 · Luau · MIT · 推送 2026-11-21 · [GitHub](https://github.com/EL4CTEO/rbx-studio-mcp) · [官网](https://www.npmjs.com/package/@el4cteo/rbx-studio-mcp) · 个人维护
+⭐ 19 · Luau · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EL4CTEO/rbx-studio-mcp) · [官网](https://www.npmjs.com/package/@el4cteo/rbx-studio-mcp) · 个人维护
 
 **让 AI agent 操作 Roblox Studio 的 MCP 服务器（35 个工具）**
 

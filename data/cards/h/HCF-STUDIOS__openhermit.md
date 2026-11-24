@@ -1,6 +1,6 @@
 # HCF-STUDIOS/openhermit
 
-⭐ 89 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HCF-STUDIOS/openhermit) · [官网](https://openhermit.ai) · 组织维护
+⭐ 89 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HCF-STUDIOS/openhermit) · [官网](https://openhermit.ai) · 组织维护
 
 **将 AI agent 集群部署为生产服务的开源平台**
 

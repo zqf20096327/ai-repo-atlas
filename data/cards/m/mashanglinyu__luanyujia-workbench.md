@@ -1,6 +1,6 @@
 # mashanglinyu/luanyujia-workbench
 
-⭐ 643 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mashanglinyu/luanyujia-workbench) · [官网](https://luanyujia.pages.dev) · 个人维护 · 中文 README
+⭐ 650 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mashanglinyu/luanyujia-workbench) · [官网](https://luanyujia.pages.dev) · 个人维护 · 中文 README
 
 **多场景本地 AI 工作台的搭建方法、模板与外壳源码**
 

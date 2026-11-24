@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-K3
 
-⭐ 9,111 · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/MoonshotAI/Kimi-K3) · 组织维护 · 中文 README
+⭐ 9,115 · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/MoonshotAI/Kimi-K3) · 组织维护 · 中文 README
 
 **开源权重的原生多模态 agentic 前沿模型（2.8T MoE）**
 

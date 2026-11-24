@@ -1,6 +1,6 @@
 # andrearaponi/walden
 
-⭐ 62 · Go · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/andrearaponi/walden) · [官网](https://andrearaponi.github.io/walden/) · 个人维护
+⭐ 62 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/andrearaponi/walden) · [官网](https://andrearaponi.github.io/walden/) · 个人维护
 
 **面向编码代理的规格驱动交付内核 CLI：从意图到可认证发布**
 

@@ -1,6 +1,6 @@
 # Vincentqyw/image-matching-webui
 
-⭐ 1,312 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vincentqyw/image-matching-webui) · [官网](https://huggingface.co/spaces/Realcat/image-matching-webui) · 个人维护
+⭐ 1,312 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Vincentqyw/image-matching-webui) · [官网](https://huggingface.co/spaces/Realcat/image-matching-webui) · 个人维护
 
 **给研究者的多算法图像关键点匹配 WebUI 工具**
 

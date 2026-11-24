@@ -1,6 +1,6 @@
 # zxbb1190/VoxGo_game_voice_trans
 
-⭐ 27 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/zxbb1190/VoxGo_game_voice_trans) · [官网](https://voxgo.cn/) · 个人维护 · 中文 README
+⭐ 28 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/zxbb1190/VoxGo_game_voice_trans) · [官网](https://voxgo.cn/) · 个人维护 · 中文 README
 
 **给 PC 游戏玩家的实时语音翻译浮窗，识别并翻译游戏语音**
 

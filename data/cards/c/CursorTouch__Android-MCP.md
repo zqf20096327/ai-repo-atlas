@@ -1,6 +1,6 @@
 # CursorTouch/Android-MCP
 
-⭐ 940 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CursorTouch/Android-MCP) · 个人维护
+⭐ 941 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CursorTouch/Android-MCP) · 个人维护
 
 **让 AI agent 通过 MCP 操作 Android 设备的 ADB 服务器**
 

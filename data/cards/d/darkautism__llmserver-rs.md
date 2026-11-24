@@ -1,6 +1,6 @@
 # darkautism/llmserver-rs
 
-⭐ 25 · Rust · 推送 2026-11-18 · [GitHub](https://github.com/darkautism/llmserver-rs) · 个人维护
+⭐ 25 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/darkautism/llmserver-rs) · 个人维护
 
 **在 RK3588 NPU 上运行 LLM 的 OpenAI 风格 API 服务器**
 

@@ -1,6 +1,6 @@
 # sylviangth/awesome-remote-mcp-servers
 
-⭐ 77 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sylviangth/awesome-remote-mcp-servers) · 组织维护
+⭐ 80 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sylviangth/awesome-remote-mcp-servers) · 组织维护
 
 **托管/远程 MCP 服务器策展清单：按 URL 端点即接即用**
 

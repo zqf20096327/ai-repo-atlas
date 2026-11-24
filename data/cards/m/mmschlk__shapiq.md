@@ -1,6 +1,6 @@
 # mmschlk/shapiq
 
-⭐ 797 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mmschlk/shapiq) · [官网](https://shapiq.readthedocs.io) · 组织维护
+⭐ 797 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mmschlk/shapiq) · [官网](https://shapiq.readthedocs.io) · 组织维护
 
 **给机器学习研究者与使用者计算 Shapley 交互解释**
 

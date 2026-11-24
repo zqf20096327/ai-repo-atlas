@@ -1,6 +1,6 @@
 # TaterTotterson/Tater
 
-⭐ 47 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/TaterTotterson/Tater) · [官网](https://taterassistant.com) · 个人维护
+⭐ 47 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/TaterTotterson/Tater) · [官网](https://taterassistant.com) · 个人维护
 
 **本地自托管的个人 AI 助手平台，替代 Siri/Alexa**
 

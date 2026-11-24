@@ -1,6 +1,6 @@
 # deepseekv5/jutian-agent
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/deepseekv5/jutian-agent) · [官网](https://deepseekv5.github.io/jutian-agent/) · 组织维护 · 中文 README
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/deepseekv5/jutian-agent) · [官网](https://deepseekv5.github.io/jutian-agent/) · 组织维护 · 中文 README
 
 **本地优先的开源 AI 桌面工作台：对话执行任务、代码、集群**
 

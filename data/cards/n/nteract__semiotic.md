@@ -1,10 +1,10 @@
 # nteract/semiotic
 
-⭐ 2,716 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nteract/semiotic) · [官网](https://semiotic.nteract.io) · 组织维护
+⭐ 2,716 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nteract/semiotic) · [官网](https://semiotic.nteract.io) · 组织维护
 
-**面向 AI 辅助开发的 React 数据可视化组件库**
+**面向 AI 辅助开发的 React 数据可视化库**
 
-提供 XY、分类、网络、地理、实时流、物理模拟等家族的 React 图表组件，共用 accessor 驱动的 prop API；实时图表基于 canvas 渲染并通过 ref 推送数据，支持 LinkedCharts 联动视图与 Vega-Lite spec 翻译。针对 AI 辅助开发场景，附带 schema 驱动的组件目录、MCP 服务器、CLI 校验工具、反模式诊断与数据预检，以及 AGENTS.md/llms.txt 等机器可读文档；每个图表内置错误边界、开发态校验警告与键盘/无障碍支持。需 React 18.1+ 或 19，经 npm 安装。
+Semiotic 是 React 数据可视化库，覆盖 XY/分类/网络/地理/实时/物理等图表族，以 accessor 驱动的统一 prop API 提供组件；实时图表基于 canvas 以 ref 推送渲染。针对 AI 辅助开发提供 schema 驱动的组件目录（semiotic/ai）、MCP 服务器、CLI 校验工具、anti-pattern 检测与数据预检，并包含 AGENTS.md/llms.txt 供编码代理读取。依赖 React 18.1+ 或 19，地理图表需可选 world-atlas peer dependency。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 覆盖 XY/分类/网络/地理/实时/物理等家族的 React 图表组件
-- 提供 semiotic-mcp MCP 服务器与 CLI doctor 校验工具
-- schema 驱动的组件目录与 diagnoseConfig 反模式检测
-- LinkedCharts 跨图表联动与 Vega-Lite 双向翻译
+- 多图表族统一 API：XY、分类、网络、地理、实时、物理、自定义布局
+- 面向 AI 辅助开发：schema.json、MCP 服务器、semiotic-ai --doctor 校验
+- Vega-Lite spec 翻译与 toConfig/fromConfig JSON 往返序列化
+- 内置错误边界、可访问性（aria-label、键盘图例）与 LinkedCharts 协同视图
 
 ## 适用场景
 
-- 为 React 应用添加流式监控大盘与实时图表
-- 构建网络关系图、桑基图与地理可视化
-- 让编码助手基于 schema 生成并校验图表配置
+- 在 React 应用中渲染流式实时监控图表
+- 构建联动筛选的数据仪表盘
+- 让编码代理生成并校验图表配置
+- 将 Vega-Lite spec 转换为 Semiotic 组件
 
 ## 场景标签
 
- · 领域:开发者工具/数据可视化
+ · 领域:前端/数据可视化
 
 ## 证据(README 行号)
 
 > L12: A React data visualization library designed for AI-assisted development and streaming data.
-> L199: Semiotic provides a workflow for generating, checking and repairing chart
+> L190: Semiotic is a data visualization library for React that combines broad chart
 > L203: - **`semiotic/ai`** — a single import with the schema-backed chart capability catalog (XY, ordinal, network, realt
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1492991e38a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a41a562e7220` · [字段定义](../../DATASET.md)*

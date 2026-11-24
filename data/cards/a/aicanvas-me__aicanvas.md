@@ -1,6 +1,6 @@
 # aicanvas-me/aicanvas
 
-⭐ 74 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/aicanvas-me/aicanvas) · [官网](https://aicanvas.me) · 组织维护
+⭐ 74 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aicanvas-me/aicanvas) · [官网](https://aicanvas.me) · 组织维护
 
 **动效 React 组件注册表：shadcn CLI 或 AI 编辑器经 MCP 安装真实源码**
 

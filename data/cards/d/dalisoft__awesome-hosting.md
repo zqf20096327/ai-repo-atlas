@@ -1,6 +1,6 @@
 # dalisoft/awesome-hosting
 
-⭐ 972 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dalisoft/awesome-hosting) · 个人维护
+⭐ 972 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dalisoft/awesome-hosting) · 个人维护
 
 **按最低套餐价格排序的主机服务商清单**
 

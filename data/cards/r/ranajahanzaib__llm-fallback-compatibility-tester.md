@@ -1,6 +1,6 @@
 # ranajahanzaib/llm-fallback-compatibility-tester
 
-⭐ 3 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/llm-fallback-compatibility-tester) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/llm-fallback-compatibility-tester) · 个人维护
 
 **给 LLM 应用开发者测试模型故障切换是否保持行为与安全**
 

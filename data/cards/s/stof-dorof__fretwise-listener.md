@@ -1,6 +1,6 @@
 # stof-dorof/fretwise-listener
 
-⭐ 58 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/stof-dorof/fretwise-listener) · 个人维护
+⭐ 58 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/stof-dorof/fretwise-listener) · 个人维护
 
 **实时吉他音高识别练习应用，把弹奏映射到指板可视化**
 

@@ -1,6 +1,6 @@
 # xinxin7/claw-shield
 
-⭐ 25 · Rust · MIT · 推送 2026-03-11 · [GitHub](https://github.com/xinxin7/claw-shield) · 个人维护
+⭐ 24 · Rust · MIT · 推送 2026-03-11 · [GitHub](https://github.com/xinxin7/claw-shield) · 个人维护
 
 **AI agent 治理层：监控推理链、审计工具调用、拦截高风险操作**
 

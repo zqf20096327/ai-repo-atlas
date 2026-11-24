@@ -1,16 +1,16 @@
 # Lightning-AI/torchmetrics
 
-⭐ 2,483 · Python · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/Lightning-AI/torchmetrics) · [官网](https://lightning.ai/docs/torchmetrics/) · 组织维护
+⭐ 2,483 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Lightning-AI/torchmetrics) · [官网](https://lightning.ai/docs/torchmetrics/) · 组织维护
 
-**面向 PyTorch 的 100+ 机器学习指标库，支持分布式训练**
+**为 PyTorch 开发者提供分布式可扩展的机器学习指标库**
 
-Lightning-AI 维护的 PyTorch 指标集合：内置 100+ 指标，覆盖音频、分类、检测、图像、多模态、回归、分割、文本等领域；提供模块化与函数式两套 API，可子类化 Metric 自定义指标。机制上自动化跨批次累积与多设备同步，在 CPU、单 GPU、多 GPU/多节点下用法一致；与 PyTorch Lightning 集成时指标自动放置到正确设备并支持原生日志记录。内置 .plot 绘图方法（需额外依赖）。以 Python 包分发。
+TorchMetrics 是一个包含 100+ PyTorch 指标实现的 Python 库，并提供自定义指标的易用 API。核心机制包括：模块化指标内部维护状态以自动跨批次累积、多设备间自动同步、支持 CPU/单 GPU/多 GPU/DDP 分布式训练场景；同时提供函数式接口（输入输出均为 torch.tensor）。覆盖音频、分类、检测、图像、回归、分割、文本等 10 个领域，内置绘图功能，部分领域需安装额外依赖。通过 pip/conda/uv/源码安装，Apache 2.0 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@ Lightning-AI 维护的 PyTorch 指标集合：内置 100+ 指标，覆盖音频�
 
 ## 能力要点
 
-- 100+ 内置指标，覆盖音频/分类/检测/图像/多模态/文本等领域
-- 跨批次自动累积与多设备自动同步，支持分布式训练
-- 模块化与函数式双 API，可子类化自定义指标
-- 内置 .plot 指标可视化方法
+- 100+ 指标实现，覆盖 10 个领域（分类/检测/分割/文本等）
+- 模块化指标自动跨批次累积与多设备同步
+- 适配分布式训练（单 GPU/多 GPU/多节点 DDP）
+- 通过子类化 torchmetrics.Metric 实现 update/compute 创建自定义指标，并内置绘图支持
 
 ## 适用场景
 
-- PyTorch 训练流程中标准化计算与记录评估指标
-- 多 GPU/多节点分布式训练下的指标同步
-- 快速实现自定义评估指标并复用统一接口
+- 为 PyTorch 训练流程接入标准化评估指标
+- 多 GPU/多节点分布式训练下的指标计算与同步
+- 为研究领域（音频/图像/文本等）快速调用对应指标并可视化结果
+- 以子类化方式封装自定义评估指标
 
 ## 场景标签
 
@@ -37,8 +38,9 @@ Lightning-AI 维护的 PyTorch 指标集合：内置 100+ 指标，覆盖音频�
 
 ## 证据(README 行号)
 
-> L90: TorchMetrics is a collection of 100+ PyTorch metrics implementations and an easy-to-use API to create custom metric
-> L161: In total TorchMetrics contains 100+ metrics, which
+> L1: **Machine learning metrics for distributed, scalable PyTorch applications.**
+> L89: TorchMetrics is a collection of 100+ PyTorch metrics implementations and an easy-to-use API to create custom metric
+> L160: In total TorchMetrics contains 100+ metrics, which
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e4ae6afd02b5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `68b612f6aec3` · [字段定义](../../DATASET.md)*

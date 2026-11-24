@@ -1,6 +1,6 @@
 # YonK0/Revvy
 
-⭐ 39 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/YonK0/Revvy) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/YonK0/Revvy) · 个人维护
 
 **VS Code 扩展：用 YAML 团队规则做结构化 AI 代码审查**
 

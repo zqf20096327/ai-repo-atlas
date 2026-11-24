@@ -1,6 +1,6 @@
 # demo007x/Magpie
 
-⭐ 25 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/demo007x/Magpie) · [官网](https://demo007x.github.io/Magpie/) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/demo007x/Magpie) · [官网](https://demo007x.github.io/Magpie/) · 个人维护 · 中文 README
 
 **macOS/Windows 划词即译、解释、摘要的 AI 阅读工具**
 

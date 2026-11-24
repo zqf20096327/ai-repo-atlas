@@ -1,6 +1,6 @@
 # mraza007/minute
 
-⭐ 31 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mraza007/minute) · [官网](https://minutenotes.app) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mraza007/minute) · [官网](https://minutenotes.app) · 个人维护
 
 **macOS 离线 AI 会议记录应用：录音、转写、摘要全在本机**
 

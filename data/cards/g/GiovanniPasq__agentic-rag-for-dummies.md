@@ -1,6 +1,6 @@
 # GiovanniPasq/agentic-rag-for-dummies
 
-⭐ 4,401 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/GiovanniPasq/agentic-rag-for-dummies) · 个人维护
+⭐ 4,403 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/GiovanniPasq/agentic-rag-for-dummies) · 个人维护
 
 **用 LangGraph 搭建模块化 Agentic RAG 的教程仓库**
 

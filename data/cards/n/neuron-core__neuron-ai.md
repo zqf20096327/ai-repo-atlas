@@ -1,6 +1,6 @@
 # neuron-core/neuron-ai
 
-⭐ 2,182 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/neuron-core/neuron-ai) · [官网](https://neuron-ai.dev) · 组织维护
+⭐ 2,184 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/neuron-core/neuron-ai) · [官网](https://neuron-ai.dev) · 组织维护
 
 **PHP 生态构建生产级 AI Agent 的框架**
 

@@ -1,6 +1,6 @@
 # Giton22/kyllene
 
-⭐ 308 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Giton22/kyllene) · [官网](https://kyllene.app) · 个人维护
+⭐ 314 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Giton22/kyllene) · [官网](https://kyllene.app) · 个人维护
 
 **Hermes Agent 的非官方 Android 原生聊天客户端**
 

@@ -1,6 +1,6 @@
 # takashiishida/arxiv-latex-mcp
 
-⭐ 151 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/takashiishida/arxiv-latex-mcp) · 个人维护
+⭐ 151 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/takashiishida/arxiv-latex-mcp) · 个人维护
 
 **为 MCP 客户端提供 arXiv 论文 LaTeX 源获取与处理服务**
 

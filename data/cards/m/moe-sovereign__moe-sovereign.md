@@ -1,6 +1,6 @@
 # moe-sovereign/moe-sovereign
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/moe-sovereign/moe-sovereign) · [官网](https://moe-sovereign.github.io/moe-sovereign/) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/moe-sovereign/moe-sovereign) · [官网](https://moe-sovereign.github.io/moe-sovereign/) · 组织维护
 
 **自托管多模型编排器：模板化专家路由与主权环境 AI 基础设施**
 

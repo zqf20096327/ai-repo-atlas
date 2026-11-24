@@ -1,6 +1,6 @@
 # vlang/vtl
 
-⭐ 173 · V · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vlang/vtl) · [官网](https://vlang.github.io/vtl) · 组织维护
+⭐ 173 · V · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vlang/vtl) · [官网](https://vlang.github.io/vtl) · 组织维护
 
 **V 语言的张量库：ndarray、autograd 与神经网络训练**
 

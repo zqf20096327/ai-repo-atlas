@@ -1,10 +1,10 @@
 # NVIDIA/nccl
 
-⭐ 5,251 · C++ · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/nccl) · [官网](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html) · 组织维护
+⭐ 5,255 · C++ · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/nccl) · [官网](https://docs.nvidia.com/deeplearning/nccl/user-guide/docs/index.html) · 组织维护
 
-**GPU 集合通信库：为多 GPU/多机提供高性能通信原语**
+**面向 GPU 的多卡集合通信原语库（NCCL）**
 
-NVIDIA 维护的独立 GPU 通信例程库，实现 all-reduce、all-gather、broadcast、reduce-scatter 等 collective 操作及任意 send/receive 通信模式，针对 PCIe、NVLink、NVswitch 及 InfiniBand Verbs/TCP/IP 网络优化带宽。支持单机或多机的任意数量 GPU，可用于单进程或多进程（如 MPI）应用。从源码编译构建（依赖 CUDA，需指定 CUDA_HOME 若非默认路径），可打包为 deb/rpm/tarball/Python wheel 安装，官方测试版可从 NVIDIA 开发者站点下载。
+NVIDIA 维护的独立 C 库，实现 all-reduce、all-gather、reduce、broadcast、reduce-scatter 等集合通信例程及任意 send/receive 模式，针对 PCIe、NVLink、NVSwitch 以及 InfiniBand Verbs、TCP/IP 网络优化带宽，支持单节点或多节点任意数量 GPU，可在单进程或多进程（如 MPI）应用中使用。源码通过 make 构建，可打包为 deb/rpm/tarball/Python wheel 安装，官方预编译版本另行提供。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ NVIDIA 维护的独立 GPU 通信例程库，实现 all-reduce、all-gather、br
 
 ## 能力要点
 
-- 实现 all-reduce/all-gather/broadcast/reduce-scatter 等全部集合通信原语
-- 针对 PCIe/NVLink/NVswitch/InfiniBand/TCP IP 优化
-- 支持单机或多机任意数量 GPU，兼容单/多进程（MPI）应用
-- 可构建 deb/rpm/tarball/Python wheel 多种安装包
+- 实现 all-reduce、all-gather、broadcast、reduce-scatter 等标准集合通信例程
+- 支持 PCIe/NVLink/NVSwitch 与 InfiniBand Verbs、TCP/IP sockets
+- 支持单节点或多节点任意数量 GPU，兼容 MPI 多进程应用
+- 可构建 deb/rpm/tarball/Python wheel 包安装
 
 ## 适用场景
 
-- 多 GPU 训练框架底层的跨卡梯度同步通信
-- 多机集群中节点间集合通信
-- 深度学习推理或 HPC 应用的 GPU 数据交换
+- 多 GPU 训练任务的集合通信后端
+- 跨节点 GPU 集群中配置高速通信
+- 多进程（MPI）GPU 应用中的卡间数据交换
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ NVIDIA 维护的独立 GPU 通信例程库，实现 all-reduce、all-gather、br
 
 ## 证据(README 行号)
 
+> L3: Optimized primitives for inter-GPU communication.
 > L7: NCCL (pronounced "Nickel") is a stand-alone library of standard communication routines for GPUs, implementing all-re
-> L13: Note: the official and tested builds of NCCL can be downloaded from: https://developer.nvidia.com/nccl. You can ski
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `02e6f8ec748b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b37ba6cea036` · [字段定义](../../DATASET.md)*

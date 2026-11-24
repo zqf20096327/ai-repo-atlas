@@ -1,6 +1,6 @@
 # LDJ-creat/video-helper
 
-⭐ 54 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/LDJ-creat/video-helper) · [官网](https://video-helper-landing.vercel.app/) · 个人维护 · 中文 README
+⭐ 53 · Python · NOASSERTION · 推送 2026-07-14 · [GitHub](https://github.com/LDJ-creat/video-helper) · [官网](https://video-helper-landing.vercel.app/) · 个人维护 · 中文 README
 
 **AI 视频学习助手：从视频链接/本地视频自动生成思维导图与总结**
 

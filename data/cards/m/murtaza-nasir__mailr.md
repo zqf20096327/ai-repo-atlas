@@ -1,6 +1,6 @@
 # murtaza-nasir/mailr
 
-⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/murtaza-nasir/mailr) · [官网](https://murtaza-nasir.github.io/mailr/) · 个人维护
+⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/murtaza-nasir/mailr) · [官网](https://murtaza-nasir.github.io/mailr/) · 个人维护
 
 **自托管 webmail：邮件存储/日历/任务/笔记加 AI 助手**
 

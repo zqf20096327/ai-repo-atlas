@@ -1,6 +1,6 @@
 # crowdllama/crowdllama
 
-⭐ 31 · Go · MIT · 推送 2025-11-27 · [GitHub](https://github.com/crowdllama/crowdllama) · [官网](https://crowdllama.ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 Ollama 的 P2P 多节点分布式 LLM 推理系统**
 
@@ -11,7 +11,7 @@ Go 编写的分布式系统，利用开源 Ollama 项目在多个节点间通过
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

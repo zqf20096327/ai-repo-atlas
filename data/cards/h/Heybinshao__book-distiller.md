@@ -1,6 +1,6 @@
 # Heybinshao/book-distiller
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/Heybinshao/book-distiller) · 个人维护 · 中文 README
+⭐ 30 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/Heybinshao/book-distiller) · 个人维护 · 中文 README
 
 **面向非技术用户的 AI 拆书 Skill：epub/pdf/md 拆成结构化知识**
 

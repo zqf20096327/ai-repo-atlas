@@ -1,6 +1,6 @@
 # entropy-cloud/nop-chaos-flux
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/entropy-cloud/nop-chaos-flux) · 组织维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/entropy-cloud/nop-chaos-flux) · 组织维护 · 中文 README
 
 **Schema 驱动的低代码渲染与运行时框架，面向平台团队**
 

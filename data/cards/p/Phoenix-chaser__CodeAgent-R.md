@@ -1,6 +1,6 @@
 # Phoenix-chaser/CodeAgent-R
 
-⭐ 7 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Phoenix-chaser/CodeAgent-R) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Phoenix-chaser/CodeAgent-R) · 个人维护 · 中文 README
 
 **面向代码修复的后训练实验平台：可审计地微调与评测模型**
 

@@ -1,6 +1,6 @@
 # InternLM/Intern-Decision
 
-⭐ 814 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/InternLM/Intern-Decision) · 组织维护 · 中文 README
+⭐ 815 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/InternLM/Intern-Decision) · 组织维护 · 中文 README
 
 **多模态决策模型：输入状态与图像，输出带概率的决策**
 

@@ -1,6 +1,6 @@
 # r-uby-dev/llm
 
-⭐ 142 · Ruby · MIT · 推送 2026-11-22 · [GitHub](https://github.com/r-uby-dev/llm) · 个人维护
+⭐ 142 · Ruby · MIT · 推送 2026-11-23 · [GitHub](https://github.com/r-uby-dev/llm) · 个人维护
 
 **Ruby 的 agentic AI 应用运行时框架，统一 API 覆盖 14+ 提供商**
 

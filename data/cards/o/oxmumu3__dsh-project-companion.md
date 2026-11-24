@@ -1,6 +1,6 @@
 # oxmumu3/dsh-project-companion
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/oxmumu3/dsh-project-companion) · [官网](https://github.com/oxmumu3/dsh-project-companion/releases/tag/v0.12.0-preview.3) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oxmumu3/dsh-project-companion) · [官网](https://github.com/oxmumu3/dsh-project-companion/releases/tag/v0.12.0-preview.3) · 个人维护 · 中文 README
 
 **给个人用户的长在微信里的项目助理，跨会话记忆与跟进交办**
 

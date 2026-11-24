@@ -1,6 +1,6 @@
 # oxynet-cpet/pyoxynet
 
-⭐ 27 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/oxynet-cpet/pyoxynet) · [官网](https://oxynet-cpet.github.io/pyoxynet/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oxynet-cpet/pyoxynet) · [官网](https://oxynet-cpet.github.io/pyoxynet/) · 个人维护
 
 **本地分析心肺运动测试数据的深度学习模型包，输出运动强度域与通气阈**
 

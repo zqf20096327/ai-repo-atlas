@@ -1,10 +1,10 @@
 # ZeroLu/awesome-seedance
 
-⭐ 2,859 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ZeroLu/awesome-seedance) · [官网](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance) · 个人维护 · 中文 README
+⭐ 2,868 · Shell · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ZeroLu/awesome-seedance) · [官网](https://cyberbara.com/seedance2.0?utm_source=awesome-seedance) · 个人维护 · 中文 README
 
-**为视频创作者整理 Seedance 2.0 提示词与资源的策展清单**
+**Seedance 2.0 视频生成提示词与资源集合**
 
-以 awesome 清单形式收集 Seedance 2.0 提示词与教程资源：按电影感影像、广告品牌、社交媒体梗图、UGC、动画、短剧、视效实验等类别组织，每条包含完整提示词文本、示例视频链接与来源署名（X/微信/Replicate 博客等），并收录 API 使用与工作流资源章节。README 提供 7 种语言版本，MIT 许可，标注更新日期，含赞助方栏目。本身不提供模型运行或生成能力，属资料聚合。
+收录来自 X、微信公众号与提示词工程师的 Seedance 2.0 提示词，按电影风格、广告、社交媒体梗图、UGC、动漫、短剧、特效实验等类别组织，每个条目附提示词文本与示例视频链接；另设资源章节收录 API 与使用教程链接。README 提供英中德法西日多语言切换，以 MIT 许可发布，由赞助商 API 平台支持维护。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 按 7 个创作场景分类组织提示词条目
-- 每条提示词附示例视频链接与来源署名
-- 提供英/中/德/法/西/日多语言 README
-- 含 API 使用与视频生成工作流资源章节
+- 按 7 类使用场景组织的 Seedance 2.0 提示词集合
+- 每条提示词附带示例视频链接与来源署名
+- 含 Replicate 博客收集的分镜时间轴（time-coded）提示词范例
+- 提供 API 指南与使用教程的资源章节
 
 ## 适用场景
 
-- 查找电影感视频生成的提示词模板
-- 为广告或社交媒体内容寻找视频生成写法参考
-- 了解 Seedance 2.0 的 API 与工作流资源入口
+- 为 Seedance 2.0 生成电影感视频寻找可用提示词
+- 参考分镜时间轴写法编排 15 秒视频场景
+- 查找 Seedance API 与使用教程资源
 
 ## 场景标签
 
-`精选清单` `视频生成` · 领域:内容生成
+`视频生成` `精选清单` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c39790443fe3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `160a9017ee45` · [字段定义](../../DATASET.md)*

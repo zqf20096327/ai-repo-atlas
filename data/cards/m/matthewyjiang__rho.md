@@ -1,6 +1,6 @@
 # matthewyjiang/rho
 
-⭐ 17 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/matthewyjiang/rho) · [官网](https://matthewyjiang.github.io/rho/) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/matthewyjiang/rho) · [官网](https://matthewyjiang.github.io/rho/) · 个人维护
 
 **Rust 编写的轻量终端编码代理框架，多提供商编排**
 

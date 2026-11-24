@@ -1,6 +1,6 @@
 # demoos415/lua-script-bridge
 
-⭐ 69 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/demoos415/lua-script-bridge) · 个人维护
+⭐ 69 · HTML · 推送 2026-11-24 · [GitHub](https://github.com/demoos415/lua-script-bridge) · 个人维护
 
 **MCP 服务器：让 AI 助手接入运行中的 Roblox Luau 环境**
 

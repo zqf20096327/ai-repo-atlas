@@ -1,6 +1,6 @@
 # raffaelefarinaro/ciaobot
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/raffaelefarinaro/ciaobot) · [官网](https://www.raffaelefarinaro.com/ciaobot/) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/raffaelefarinaro/ciaobot) · [官网](https://www.raffaelefarinaro.com/ciaobot/) · 个人维护
 
 **围绕 Claude Code/OpenCode 的个人助理与第二大脑工作区**
 

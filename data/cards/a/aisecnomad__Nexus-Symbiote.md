@@ -1,6 +1,6 @@
 # aisecnomad/Nexus-Symbiote
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aisecnomad/Nexus-Symbiote) · [官网](https://medium.com/@EmmanuelDahunsi/the-supply-chain-of-agency-c73667e08162) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aisecnomad/Nexus-Symbiote) · [官网](https://medium.com/@EmmanuelDahunsi/the-supply-chain-of-agency-c73667e08162) · 个人维护
 
 **为 AI Agent 供应链生成证据化物料清单的扫描工具**
 

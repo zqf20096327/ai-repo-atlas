@@ -1,6 +1,6 @@
 # renezander030/skillgate
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/renezander030/skillgate) · [官网](https://www.npmjs.com/package/@reneza/skillgate) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/renezander030/skillgate) · [官网](https://www.npmjs.com/package/@reneza/skillgate) · 个人维护
 
 **给 AI 编码代理加确定性完成门禁的 CLI：不通过不许提交**
 

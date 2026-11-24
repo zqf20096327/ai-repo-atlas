@@ -1,6 +1,6 @@
 # HyunSeob/iphone-cli
 
-⭐ 119 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HyunSeob/iphone-cli) · [官网](https://hyunseob.github.io/iphone-cli/) · 个人维护 · 中文 README
+⭐ 136 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HyunSeob/iphone-cli) · [官网](https://hyunseob.github.io/iphone-cli/) · 个人维护 · 中文 README
 
 **让 AI agent 通过无障碍树读取并操作真机 iPhone 的 CLI/MCP 工具**
 

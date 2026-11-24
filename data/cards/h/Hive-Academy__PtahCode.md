@@ -1,6 +1,6 @@
 # Hive-Academy/PtahCode
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Hive-Academy/PtahCode) · [官网](https://ptah.live) · 组织维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Hive-Academy/PtahCode) · [官网](https://ptah.live) · 组织维护
 
 **Electron 桌面端 AI 编排中枢：统一调度 Claude、Codex 等编码 CLI**
 

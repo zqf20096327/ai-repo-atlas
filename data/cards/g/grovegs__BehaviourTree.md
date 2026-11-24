@@ -1,6 +1,6 @@
 # grovegs/BehaviourTree
 
-⭐ 35 · C# · MIT · 推送 2026-11-10 · [GitHub](https://github.com/grovegs/BehaviourTree) · 组织维护
+⭐ 35 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/grovegs/BehaviourTree) · 组织维护
 
 **面向 .NET/Unity/Godot 的轻量行为树框架**
 

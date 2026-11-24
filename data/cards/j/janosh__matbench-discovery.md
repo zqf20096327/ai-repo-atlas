@@ -1,6 +1,6 @@
 # janosh/matbench-discovery
 
-⭐ 259 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/janosh/matbench-discovery) · [官网](https://matbench-discovery.materialsproject.org) · 个人维护
+⭐ 259 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/janosh/matbench-discovery) · [官网](https://matbench-discovery.materialsproject.org) · 个人维护
 
 **评测 ML 原子间势模型在材料发现任务中表现的基准排行榜**
 

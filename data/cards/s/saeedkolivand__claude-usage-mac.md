@@ -1,6 +1,6 @@
 # saeedkolivand/claude-usage-mac
 
-⭐ 15 · Swift · 推送 2026-11-18 · [GitHub](https://github.com/saeedkolivand/claude-usage-mac) · [官网](https://claude-usage-mac.iamsaeed.dev/) · 个人维护
+⭐ 15 · Swift · 推送 2026-11-23 · [GitHub](https://github.com/saeedkolivand/claude-usage-mac) · [官网](https://claude-usage-mac.iamsaeed.dev/) · 个人维护
 
 **macOS 菜单栏与桌面小组件：显示 Claude Code 用量与费用**
 

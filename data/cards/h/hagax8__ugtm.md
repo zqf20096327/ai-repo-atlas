@@ -1,6 +1,6 @@
 # hagax8/ugtm
 
-⭐ 53 · HTML · MIT · 推送 2026-05-22 · [GitHub](https://github.com/hagax8/ugtm) · [官网](https://ugtm.readthedocs.io/en/latest/overview.html) · 个人维护
+⭐ 54 · HTML · MIT · 推送 2026-05-22 · [GitHub](https://github.com/hagax8/ugtm) · [官网](https://ugtm.readthedocs.io/en/latest/overview.html) · 个人维护
 
 **Python 库：实现 GTM 降维及其分类/回归算法**
 

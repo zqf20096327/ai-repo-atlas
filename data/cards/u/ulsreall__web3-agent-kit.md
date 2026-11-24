@@ -1,6 +1,6 @@
 # ulsreall/web3-agent-kit
 
-⭐ 22 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ulsreall/web3-agent-kit) · [官网](https://web3agentkit.site/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ulsreall/web3-agent-kit) · [官网](https://web3agentkit.site/) · 个人维护
 
 **构建区块链交互 AI Agent 的 Python 工具包**
 

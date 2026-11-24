@@ -1,6 +1,6 @@
 # InfiniEvolve/TraceVista
 
-⭐ 96 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/InfiniEvolve/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
+⭐ 100 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/InfiniEvolve/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
 
 **给开发者把 agent 日志转成可交互决策地图与故事的可视化工具**
 

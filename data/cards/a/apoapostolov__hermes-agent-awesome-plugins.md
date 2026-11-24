@@ -1,6 +1,6 @@
 # apoapostolov/hermes-agent-awesome-plugins
 
-⭐ 56 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/apoapostolov/hermes-agent-awesome-plugins) · 个人维护
+⭐ 57 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/apoapostolov/hermes-agent-awesome-plugins) · 个人维护
 
 **Hermesis Agent 桌面端插件包：配额监控、会话管理、记忆审核、RSS 阅读**
 

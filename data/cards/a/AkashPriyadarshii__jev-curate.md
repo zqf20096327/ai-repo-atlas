@@ -1,6 +1,6 @@
 # AkashPriyadarshii/jev-curate
 
-⭐ 115 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/AkashPriyadarshii/jev-curate) · [官网](https://jev-curate.vercel.app) · 个人维护
+⭐ 116 · Rust · MIT · 推送 2026-11-11 · [GitHub](https://github.com/AkashPriyadarshii/jev-curate) · [官网](https://jev-curate.vercel.app) · 个人维护
 
 **开发者用的高吞吐合成/预训练数据集筛选 CLI 与 Python 库**
 

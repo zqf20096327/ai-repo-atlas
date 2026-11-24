@@ -1,6 +1,6 @@
 # ewhacc/tandem.cpp
 
-⭐ 115 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ewhacc/tandem.cpp) · 个人维护
+⭐ 127 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ewhacc/tandem.cpp) · 个人维护
 
 **llama.cpp 补丁集：让超出 VRAM 的 MoE 模型本地解码更快**
 

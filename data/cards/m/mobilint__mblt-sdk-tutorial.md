@@ -1,6 +1,6 @@
 # mobilint/mblt-sdk-tutorial
 
-⭐ 12 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/mobilint/mblt-sdk-tutorial) · [官网](https://www.mobilint.com/) · 组织维护
+⭐ 12 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/mobilint/mblt-sdk-tutorial) · [官网](https://www.mobilint.com/) · 组织维护
 
 **Mobilint NPU SDK（qbcompiler/qbruntime）官方入门教程仓库**
 

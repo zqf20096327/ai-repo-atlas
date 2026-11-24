@@ -1,6 +1,6 @@
 # cognizant-ai-labs/agentic-web
 
-⭐ 31 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cognizant-ai-labs/agentic-web) · [官网](https://worldwideagenticweb.org/) · 组织维护
+⭐ 35 · JavaScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/cognizant-ai-labs/agentic-web) · [官网](https://worldwideagenticweb.org/) · 组织维护
 
 **开放 Agentic Web 挑战：让网站在浏览器中运行可互联的 agent 网络**
 

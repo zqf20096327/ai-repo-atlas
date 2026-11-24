@@ -1,6 +1,6 @@
 # gravion-ux/mcp-shield
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/mcp-shield) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravion-ux/mcp-shield) · 个人维护
 
 **给 MCP 服务器做安全审计的 CLI：检测工具投毒与配置漂移**
 

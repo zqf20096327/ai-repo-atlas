@@ -1,6 +1,6 @@
 # morettt/my-neuro
 
-⭐ 1,462 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/morettt/my-neuro) · 个人维护 · 中文 README
+⭐ 1,463 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/morettt/my-neuro) · 个人维护 · 中文 README
 
 **可定制的 AI 桌面陪伴角色：语音对话、记忆与形象可塑**
 

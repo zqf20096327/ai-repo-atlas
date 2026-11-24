@@ -1,6 +1,6 @@
 # tryatlas/atlas
 
-⭐ 9,181 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/tryatlas/atlas) · [官网](https://www.tryatlas.cc/) · 组织维护
+⭐ 9,178 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tryatlas/atlas) · [官网](https://www.tryatlas.cc/) · 组织维护
 
 **给编码 Agent 团队做会话记录、commit 关联与协作的时间线工具**
 

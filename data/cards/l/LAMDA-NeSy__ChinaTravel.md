@@ -1,6 +1,6 @@
 # LAMDA-NeSy/ChinaTravel
 
-⭐ 140 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/LAMDA-NeSy/ChinaTravel) · [官网](https://sh-jj.github.io/ChinaTravel/index.html) · 组织维护 · 中文 README
+⭐ 141 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/LAMDA-NeSy/ChinaTravel) · [官网](https://sh-jj.github.io/ChinaTravel/index.html) · 组织维护 · 中文 README
 
 **面向语言 Agent 的中文真实旅行规划基准（评测数据集+评估器）**
 

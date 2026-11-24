@@ -1,6 +1,6 @@
 # neuml/txtai.py
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/neuml/txtai.py) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neuml/txtai.py) · 组织维护
 
 **txtai API 的 Python 客户端绑定库**
 

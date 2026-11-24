@@ -1,6 +1,6 @@
 # khuynh22/paper-deck
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/khuynh22/paper-deck) · [官网](https://www.ppdeck.com/) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/khuynh22/paper-deck) · [官网](https://www.ppdeck.com/) · 个人维护
 
 **聚合 arXiv/HF/Semantic Scholar 论文的多用户阅读应用**
 

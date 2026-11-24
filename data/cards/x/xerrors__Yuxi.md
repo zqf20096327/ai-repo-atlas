@@ -1,6 +1,6 @@
 # xerrors/Yuxi
 
-⭐ 7,720 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xerrors/Yuxi) · [官网](https://xerrors.github.io/Yuxi/) · 个人维护 · 中文 README
+⭐ 7,727 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xerrors/Yuxi) · [官网](https://xerrors.github.io/Yuxi/) · 个人维护 · 中文 README
 
 **可私有部署的多租户知识智能体平台：RAG+图谱+多智能体**
 

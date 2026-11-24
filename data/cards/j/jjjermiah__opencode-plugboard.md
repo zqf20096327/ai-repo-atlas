@@ -1,6 +1,6 @@
 # jjjermiah/opencode-plugboard
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jjjermiah/opencode-plugboard) · [官网](https://jjjermiah.github.io/opencode-plugboard/) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jjjermiah/opencode-plugboard) · [官网](https://jjjermiah.github.io/opencode-plugboard/) · 个人维护
 
 **将 OpenCode 已登录模型以 OpenAI/Anthropic/Gemini API 形式对外提供**
 

@@ -1,6 +1,6 @@
 # specstoryai/getspecstory
 
-⭐ 1,378 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/specstoryai/getspecstory) · [官网](https://specstory.com/) · 组织维护
+⭐ 1,379 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/specstoryai/getspecstory) · [官网](https://specstory.com/) · 组织维护
 
 **为 AI 编程助手保存、检索并复用会话历史的工具**
 

@@ -1,6 +1,6 @@
 # xerj-org/xerj
 
-⭐ 19,411 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/xerj-org/xerj) · [官网](https://xerj.org) · 组织维护 · 中文 README
+⭐ 20,257 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/xerj-org/xerj) · [官网](https://xerj.org) · 组织维护 · 中文 README
 
 **面向 agent 的本地搜索引擎：一个 Rust 二进制提供检索、记忆与 MCP**
 

@@ -1,6 +1,6 @@
 # adelinecaviezel-blip/-qwen-3-8-max-cloud-spend-guard
 
-⭐ 69 · 推送 2026-11-05 · [GitHub](https://github.com/adelinecaviezel-blip/-qwen-3-8-max-cloud-spend-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 90 · 推送 2026-11-05 · [GitHub](https://github.com/adelinecaviezel-blip/-qwen-3-8-max-cloud-spend-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向海外算力租用的虚拟卡付费控制服务宣传页**
 

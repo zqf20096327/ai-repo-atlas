@@ -1,6 +1,6 @@
 # zainsharief/torchvulkan
 
-⭐ 36 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zainsharief/torchvulkan) · 个人维护
+⭐ 36 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zainsharief/torchvulkan) · 个人维护
 
 **为 PyTorch 注册跨平台 Vulkan GPU 后端的扩展库**
 

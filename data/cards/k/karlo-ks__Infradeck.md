@@ -1,6 +1,6 @@
 # karlo-ks/Infradeck
 
-⭐ 165 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/karlo-ks/Infradeck) · 个人维护
+⭐ 170 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/karlo-ks/Infradeck) · 个人维护
 
 **自托管家庭实验室监控面板，含可选 AI 事件诊断代理**
 

@@ -1,6 +1,6 @@
 # umutyesildal/berlin-job-search
 
-⭐ 64 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/umutyesildal/berlin-job-search) · [官网](https://github.com/umutyesildal/berlin-job-search) · 个人维护
+⭐ 69 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/umutyesildal/berlin-job-search) · [官网](https://github.com/umutyesildal/berlin-job-search) · 个人维护
 
 **面向德国（柏林优先）求职者的 AI 求职教练技能包**
 

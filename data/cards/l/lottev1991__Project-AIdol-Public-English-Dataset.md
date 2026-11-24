@@ -1,6 +1,6 @@
 # lottev1991/Project-AIdol-Public-English-Dataset
 
-⭐ 18 · CC-BY-SA-4.0 · 推送 2025-12-28 · [GitHub](https://github.com/lottev1991/Project-AIdol-Public-English-Dataset) · [官网](https://lottev.moe) · 个人维护
+⭐ 19 · CC-BY-SA-4.0 · 推送 2025-12-28 · [GitHub](https://github.com/lottev1991/Project-AIdol-Public-English-Dataset) · [官网](https://lottev.moe) · 个人维护
 
 **女性英语歌声合成（SVS）公开语料库，时长1小时45分**
 

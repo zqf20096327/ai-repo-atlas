@@ -1,6 +1,6 @@
 # QwenLM/Qwen-MM-Plugins
 
-⭐ 3,207 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/QwenLM/Qwen-MM-Plugins) · 组织维护 · 中文 README
+⭐ 3,210 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/QwenLM/Qwen-MM-Plugins) · 组织维护 · 中文 README
 
 **为 agent harness 提供原生气多模态插件的 Qwen 工具集**
 

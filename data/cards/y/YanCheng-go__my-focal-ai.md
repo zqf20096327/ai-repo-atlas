@@ -1,6 +1,6 @@
 # YanCheng-go/my-focal-ai
 
-⭐ 14 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/YanCheng-go/my-focal-ai) · [官网](https://myfocalai.vercel.app) · 个人维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/YanCheng-go/my-focal-ai) · [官网](https://myfocalai.vercel.app) · 个人维护
 
 **个人 AI 资讯聚合系统：多源采集、LLM 评分、自托管看板**
 

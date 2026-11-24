@@ -1,6 +1,6 @@
 # erhanmeydan/kilnframe
 
-⭐ 121 · HTML · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/erhanmeydan/kilnframe) · [官网](https://kilnframe.com) · 个人维护
+⭐ 123 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/erhanmeydan/kilnframe) · [官网](https://kilnframe.com) · 个人维护
 
 **把口述内容变成动画插片与配乐的视频剪辑插件**
 

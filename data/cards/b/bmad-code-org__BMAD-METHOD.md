@@ -1,6 +1,6 @@
 # bmad-code-org/BMAD-METHOD
 
-⭐ 55,627 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · 组织维护
+⭐ 55,670 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/bmad-code-org/BMAD-METHOD) · 组织维护
 
 **为开发者提供 AI 驱动的敏捷软件开发方法论与工作流**
 

@@ -1,6 +1,6 @@
 # DioNanos/termux-ai
 
-⭐ 11 · Java · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/DioNanos/termux-ai) · 个人维护
+⭐ 12 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/DioNanos/termux-ai) · 个人维护
 
 **面向 AI CLI 工作流优化的 Android Termux 终端构建**
 

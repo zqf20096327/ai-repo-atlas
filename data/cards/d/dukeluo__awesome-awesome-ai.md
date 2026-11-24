@@ -1,6 +1,6 @@
 # dukeluo/awesome-awesome-ai
 
-⭐ 140 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/dukeluo/awesome-awesome-ai) · 个人维护 · 中文 README
+⭐ 140 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dukeluo/awesome-awesome-ai) · 个人维护 · 中文 README
 
 **AI 清单的清单：聚合各 AI 主题 awesome list 的导航目录**
 

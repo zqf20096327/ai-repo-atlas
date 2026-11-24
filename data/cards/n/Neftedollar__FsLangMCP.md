@@ -1,6 +1,6 @@
 # Neftedollar/FsLangMCP
 
-⭐ 37 · F# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Neftedollar/FsLangMCP) · 个人维护
+⭐ 37 · F# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Neftedollar/FsLangMCP) · 个人维护
 
 **给 AI 编程 Agent 的 F# 语义工具 MCP 服务器**
 

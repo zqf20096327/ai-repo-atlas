@@ -1,6 +1,6 @@
 # templetongroup/radiant
 
-⭐ 118 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/templetongroup/radiant) · [官网](https://templetongroup.dev/showcase/radiant/) · 组织维护
+⭐ 119 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/templetongroup/radiant) · [官网](https://templetongroup.dev/showcase/radiant/) · 组织维护
 
 **Mac 本地编码代理客户端：聚合云端与本地模型聊天驱动代理**
 

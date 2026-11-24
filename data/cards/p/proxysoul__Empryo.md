@@ -1,6 +1,6 @@
 # proxysoul/Empryo
 
-⭐ 1,632 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/proxysoul/Empryo) · [官网](https://empryo.com/) · 组织维护
+⭐ 1,634 · TypeScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/proxysoul/Empryo) · [官网](https://empryo.com/) · 组织维护
 
 **面向桌面、终端与 CI 的 AI 编码 harness：映射仓库并按符号编辑代码**
 

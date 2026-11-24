@@ -1,6 +1,6 @@
 # microsoft/teams-sdk
 
-⭐ 739 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/teams-sdk) · 组织维护
+⭐ 739 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/teams-sdk) · 组织维护
 
 **面向开发者的 Microsoft Teams 应用与 AI agent 开发 SDK**
 

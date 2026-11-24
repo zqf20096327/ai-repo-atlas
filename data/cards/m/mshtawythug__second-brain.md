@@ -1,6 +1,6 @@
 # mshtawythug/second-brain
 
-⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mshtawythug/second-brain) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mshtawythug/second-brain) · 个人维护
 
 **本地优先的个人知识库 CLI，供人与 AI agent 查询笔记与通信记录**
 

@@ -1,6 +1,6 @@
 # Abolfazlrwm/Machine-Learning
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Abolfazlrwm/Machine-Learning) · [官网](https://huggingface.co/spaces/Abol0pati/farsi-rag-assistant) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Abolfazlrwm/Machine-Learning) · [官网](https://abolfazlrwm.github.io/Machine-Learning/) · 个人维护
 
 **机器学习作品集：从零实现的 GPT、波斯语 RAG、推荐系统等端到端项目**
 

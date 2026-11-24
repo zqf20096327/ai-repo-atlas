@@ -1,6 +1,6 @@
 # aerbrowser/heyaer
 
-⭐ 3 · Shell · 推送 2026-11-20 · [GitHub](https://github.com/aerbrowser/heyaer) · [官网](https://heyaer.com) · 个人维护
+⭐ 5 · Shell · 推送 2026-11-23 · [GitHub](https://github.com/aerbrowser/heyaer) · [官网](https://heyaer.com) · 个人维护
 
 **面向工作区场景的 macOS Chromium 浏览器，内置 AI 助手与 Bot**
 

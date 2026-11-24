@@ -1,6 +1,6 @@
 # microsoft/Agent365-python
 
-⭐ 43 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/Agent365-python) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agent365-python) · 组织维护
 
 **微软面向 M365/Teams 的企业级 Agent 开发 SDK（Python）**
 

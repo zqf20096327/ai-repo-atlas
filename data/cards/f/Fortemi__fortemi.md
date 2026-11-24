@@ -1,6 +1,6 @@
 # Fortemi/fortemi
 
-⭐ 30 · Rust · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/Fortemi/fortemi) · 组织维护
+⭐ 30 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Fortemi/fortemi) · 组织维护
 
 **面向 AI 应用的自托管智能知识库，供 RAG 与 agent 记忆使用**
 

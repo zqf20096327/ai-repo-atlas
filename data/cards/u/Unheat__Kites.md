@@ -1,6 +1,6 @@
 # Unheat/Kites
 
-⭐ 43 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Unheat/Kites) · [官网](https://kites-translator.pages.dev/) · 个人维护
+⭐ 47 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Unheat/Kites) · [官网](https://kites-translator.pages.dev/) · 个人维护
 
 **浏览器内本地 AI 漫画翻译扩展：OCR、修复与排版**
 

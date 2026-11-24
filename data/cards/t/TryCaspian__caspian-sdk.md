@@ -1,6 +1,6 @@
 # TryCaspian/caspian-sdk
 
-⭐ 971 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/TryCaspian/caspian-sdk) · [官网](https://trycaspianai.com) · 组织维护 · 中文 README
+⭐ 969 · Python · AGPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/TryCaspian/caspian-sdk) · [官网](https://trycaspianai.com) · 组织维护 · 中文 README
 
 **AI agent 多渠道通信 SDK：一套代码接入邮件/Slack/Discord 等**
 

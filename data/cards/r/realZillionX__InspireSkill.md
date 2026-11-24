@@ -1,6 +1,6 @@
 # realZillionX/InspireSkill
 
-⭐ 577 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/realZillionX/InspireSkill) · 组织维护 · 中文 README
+⭐ 579 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/realZillionX/InspireSkill) · 组织维护 · 中文 README
 
 **让 AI Agent 经 CLI 调度启智平台算力的本地工具套件**
 

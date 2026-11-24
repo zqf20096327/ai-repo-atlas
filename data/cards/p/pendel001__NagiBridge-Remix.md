@@ -1,6 +1,6 @@
 # pendel001/NagiBridge-Remix
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/pendel001/NagiBridge-Remix) · 个人维护 · 中文 README
+⭐ 31 · Python · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/pendel001/NagiBridge-Remix) · 个人维护 · 中文 README
 
 **让外部 AI 通过 MCP 操控星露谷角色的 SMAPI mod + MCP 服务器**
 

@@ -1,6 +1,6 @@
 # hany202507/finance-ai-skills
 
-⭐ 7 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hany202507/finance-ai-skills) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hany202507/finance-ai-skills) · 个人维护
 
 **韩国会计·税务·审计从业者用的 Claude Code 技能集**
 

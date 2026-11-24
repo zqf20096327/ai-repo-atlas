@@ -1,6 +1,6 @@
 # nikolausm/imap-mcp-server
 
-⭐ 136 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nikolausm/imap-mcp-server) · 个人维护
+⭐ 137 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nikolausm/imap-mcp-server) · 个人维护
 
 **让 AI 助手通过 MCP 收发和管理多个邮箱的 IMAP/SMTP 服务器**
 

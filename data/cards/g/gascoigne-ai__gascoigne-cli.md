@@ -1,6 +1,6 @@
 # gascoigne-ai/gascoigne-cli
 
-⭐ 3 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/gascoigne-ai/gascoigne-cli) · [官网](https://gascoigne-ai.github.io/) · 组织维护
+⭐ 3 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/gascoigne-ai/gascoigne-cli) · [官网](https://gascoigne-ai.github.io/) · 组织维护
 
 **为编码 agent 压缩命令输出与工具结果的 token 优化 CLI**
 

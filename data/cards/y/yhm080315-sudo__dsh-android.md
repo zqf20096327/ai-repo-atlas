@@ -1,6 +1,6 @@
 # yhm080315-sudo/dsh-android
 
-⭐ 24 · Java · MIT · 推送 2026-11-10 · [GitHub](https://github.com/yhm080315-sudo/dsh-android) · 个人维护 · 中文 README
+⭐ 27 · Java · MIT · 推送 2026-11-10 · [GitHub](https://github.com/yhm080315-sudo/dsh-android) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 打包成免 root 的独立 Android 应用**
 

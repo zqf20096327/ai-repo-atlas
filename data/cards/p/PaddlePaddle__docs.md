@@ -1,6 +1,6 @@
 # PaddlePaddle/docs
 
-⭐ 285 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/PaddlePaddle/docs) · [官网](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html) · 组织维护 · 中文 README
+⭐ 286 · Python · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/PaddlePaddle/docs) · [官网](https://www.paddlepaddle.org.cn/documentation/docs/zh/guides/index_cn.html) · 组织维护 · 中文 README
 
 **PaddlePaddle 深度学习框架的官方文档源文件仓库**
 

@@ -1,6 +1,6 @@
 # PenglongHuang/chinese-novelist-skill
 
-⭐ 5,446 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/PenglongHuang/chinese-novelist-skill) · 个人维护 · 中文 README
+⭐ 5,510 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/PenglongHuang/chinese-novelist-skill) · 个人维护 · 中文 README
 
 **让 coding agent 从零写完整中文长篇小说的 Skill**
 

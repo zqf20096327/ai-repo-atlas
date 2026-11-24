@@ -1,6 +1,6 @@
 # google-deepmind/open_spiel
 
-⭐ 5,605 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/google-deepmind/open_spiel) · 组织维护
+⭐ 5,607 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/google-deepmind/open_spiel) · 组织维护
 
 **游戏强化学习与搜索规划研究的环境与算法集合**
 

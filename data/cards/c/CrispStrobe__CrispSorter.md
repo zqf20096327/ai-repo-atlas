@@ -1,6 +1,6 @@
 # CrispStrobe/CrispSorter
 
-⭐ 13 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CrispStrobe/CrispSorter) · 个人维护
+⭐ 13 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/CrispStrobe/CrispSorter) · 个人维护
 
 **本地 LLM 整理文档：提取标题作者年份并归档**
 

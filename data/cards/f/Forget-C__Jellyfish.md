@@ -1,10 +1,10 @@
 # Forget-C/Jellyfish
 
-⭐ 7,293 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Forget-C/Jellyfish) · [官网](https://www.jellyfishai.cc/) · 个人维护 · 中文 README
+⭐ 7,303 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Forget-C/Jellyfish) · [官网](https://www.jellyfishai.cc/) · 个人维护 · 中文 README
 
-**AI 短剧端到端生产工作台：从剧本到视频生成与导出**
+**面向短剧团队的 AI 分镜与视频生成工作台**
 
-面向短剧/微短剧创作者的 AI 视频生产工作台：读取章节剧本后自动拆分镜头、抽取角色/场景/道具/服装与对白，提供候选确认与镜头就绪度判定；通过多 provider/多模型管理调度文本、图像与视频生成任务，统一异步任务中心支持状态跟踪、取消与上下文跳转；集中实体管理与提示词模板用于跨镜头一致性。前端 React+Vite、后端 FastAPI，提供 Docker Compose 部署（含 MySQL/Redis/RustFS），也支持本地 uv/pnpm 开发运行。Apache-2.0 许可。
+以 React+Vite 前端与 FastAPI 后端构成的项目式工作区：将章节文本拆解为场景与分镜，在画布上把镜头描述与角色/场景/道具参考图连接到图像或视频模型，生成候选帧与媒体供创作者挑选。通过项目资产实现角色、场景、道具的一致性复用，内置异步任务中心追踪文本/图像/视频作业，支持配置模型提供商与提示词模板。界面默认中文并支持英文。部署依赖 Docker Compose（含 MySQL 与 RustFS），生成媒体前需先配置模型。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 剧本→分镜→候选确认→生成工作区的结构化流水线
-- 集中管理角色/场景/道具/服装实体以控制跨镜头一致性
-- 统一异步任务中心：状态/耗时跟踪、取消、恢复导航
-- 多 provider/多模型管理与提示词模板基础设施
+- 章节→场景→分镜的拆解与画布编辑工作流
+- 角色/场景/道具资产引用，跨镜头保持一致性
+- 统一异步任务中心，追踪文本、图像、视频作业
+- 模型提供商与提示词模板的可配置基础设施
 
 ## 适用场景
 
-- 短剧/微短剧团队从剧本批量生成视频内容
-- 个人创作者探索竖屏短剧生产流程
-- 教育或电商团队制作叙事型宣传视频
+- 短剧团队协作准备分镜并评审候选帧
+- 独立创作者为同一场景尝试不同镜头方案
+- 教育、品牌与电商团队将剧本发展为短视频
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+`视频生成` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L24: An end-to-end production workspace for AI-generated short dramas.
-> L36: - **Connect the full production flow**: Move from script input to storyboard preparation, image/video generation, a
-> L110: - multi-provider / multi-model management
+> L25: A production workspace for AI short dramas. Divide a chapter into scenes, prepare visual references and generate ca
+> L69: On the canvas, connect shot descriptions and references to a model card, check its inputs and review the generated 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `07735e2cc90c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `22d11ea970ab` · [字段定义](../../DATASET.md)*

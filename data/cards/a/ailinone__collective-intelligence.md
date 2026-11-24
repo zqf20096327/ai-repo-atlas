@@ -1,6 +1,6 @@
 # ailinone/collective-intelligence
 
-⭐ 228 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/ailinone/collective-intelligence) · [官网](https://ailin.one) · 组织维护 · 中文 README
+⭐ 228 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ailinone/collective-intelligence) · [官网](https://ailin.one) · 组织维护 · 中文 README
 
 **让十万级 AI 模型协作的集体智能推理引擎**
 

@@ -1,6 +1,6 @@
 # stefandevo/claude-dialects
 
-⭐ 10 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/stefandevo/claude-dialects) · [官网](https://claude-dialects.cc) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/stefandevo/claude-dialects) · [官网](https://claude-dialects.cc) · 个人维护
 
 **为开发者隔离运行多模型版 Claude Code 的 CLI 工具**
 

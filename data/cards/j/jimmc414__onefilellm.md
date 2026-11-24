@@ -1,6 +1,6 @@
 # jimmc414/onefilellm
 
-⭐ 2,030 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/jimmc414/onefilellm) · 个人维护
+⭐ 2,029 · Python · MIT · 推送 2026-06-12 · [GitHub](https://github.com/jimmc414/onefilellm) · 个人维护
 
 **多源内容聚合为单一 XML 文件供 LLM 使用的命令行工具**
 

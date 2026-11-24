@@ -1,6 +1,6 @@
 # test-zeus-ai/testzeus-hercules
 
-⭐ 1,229 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/test-zeus-ai/testzeus-hercules) · [官网](https://testzeus.com/hercules) · 组织维护
+⭐ 1,231 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/test-zeus-ai/testzeus-hercules) · [官网](https://testzeus.com/hercules) · 组织维护
 
 **开源测试 agent：从 Gherkin 步骤自动生成端到端测试**
 

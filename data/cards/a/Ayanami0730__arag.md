@@ -1,6 +1,6 @@
 # Ayanami0730/arag
 
-⭐ 368 · Python · 推送 2026-02-06 · [GitHub](https://github.com/Ayanami0730/arag) · [官网](https://agentresearchlab.org/agents/a-rag) · 组织维护
+⭐ 367 · Python · 推送 2026-02-06 · [GitHub](https://github.com/Ayanami0730/arag) · [官网](https://agentresearchlab.org/agents/a-rag) · 组织维护
 
 **给研究者的 Agentic RAG 框架：分层检索工具支持多跳问答**
 

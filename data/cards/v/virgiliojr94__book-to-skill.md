@@ -1,6 +1,6 @@
 # virgiliojr94/book-to-skill
 
-⭐ 38,750 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/virgiliojr94/book-to-skill) · 个人维护 · 中文 README
+⭐ 38,873 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/virgiliojr94/book-to-skill) · 个人维护 · 中文 README
 
 **把技术书籍 PDF 转成 agent 可加载的结构化技能**
 

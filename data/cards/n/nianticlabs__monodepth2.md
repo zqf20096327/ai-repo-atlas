@@ -1,6 +1,6 @@
 # nianticlabs/monodepth2
 
-⭐ 4,512 · Jupyter Notebook · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/nianticlabs/monodepth2) · 组织维护
+⭐ 4,511 · Jupyter Notebook · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/nianticlabs/monodepth2) · 组织维护
 
 **单目图像深度估计的 PyTorch 参考实现（ICCV 2019 论文配套代码）**
 

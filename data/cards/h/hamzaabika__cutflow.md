@@ -1,6 +1,6 @@
 # hamzaabika/cutflow
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/hamzaabika/cutflow) · [官网](https://getcutflow.pages.dev/) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hamzaabika/cutflow) · [官网](https://getcutflow.pages.dev/) · 个人维护
 
 **免费开源的跨平台桌面视频编辑器，含 AI 助手与自动字幕**
 

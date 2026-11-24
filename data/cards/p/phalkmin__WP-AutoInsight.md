@@ -1,6 +1,6 @@
 # phalkmin/WP-AutoInsight
 
-⭐ 14 · PHP · GPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/phalkmin/WP-AutoInsight) · [官网](https://wpautoinsight.phalkmin.me/) · 个人维护
+⭐ 14 · PHP · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/phalkmin/WP-AutoInsight) · [官网](https://wpautoinsight.phalkmin.me/) · 个人维护
 
 **WordPress 插件：用自有 API 密钥定时生成 AI 博客文章**
 

@@ -1,6 +1,6 @@
 # neomjs/neo-agent-brain
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/neomjs/neo-agent-brain) · [官网](https://neomjs.com/) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/neomjs/neo-agent-brain) · [官网](https://neomjs.com/) · 个人维护
 
 **面向自有代码库的跨模型 AI 工程团队 Agent OS**
 

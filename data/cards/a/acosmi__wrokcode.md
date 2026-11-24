@@ -1,6 +1,6 @@
 # acosmi/wrokcode
 
-⭐ 4 · 推送 2026-11-22 · [GitHub](https://github.com/acosmi/wrokcode) · [官网](https://acosmi.com) · 组织维护 · 中文 README
+⭐ 6 · 推送 2026-11-22 · [GitHub](https://github.com/acosmi/wrokcode) · [官网](https://acosmi.com) · 组织维护 · 中文 README
 
 **个人 AI 工作台：从需求生成页面、文档与海报**
 

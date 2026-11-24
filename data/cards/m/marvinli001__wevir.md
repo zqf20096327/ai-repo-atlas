@@ -1,6 +1,6 @@
 # marvinli001/wevir
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/marvinli001/wevir) · [官网](https://wevir.si) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/marvinli001/wevir) · [官网](https://wevir.si) · 个人维护 · 中文 README
 
 **本地优先桌面工作区：统一运行多个 AI 编码 agent**
 

@@ -1,6 +1,6 @@
 # royalplugins/royal-mcp
 
-⭐ 10 · PHP · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/royalplugins/royal-mcp) · [官网](https://royalplugins.com/royal-mcp/) · 组织维护
+⭐ 10 · PHP · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/royalplugins/royal-mcp) · [官网](https://royalplugins.com/royal-mcp/) · 组织维护
 
 **面向 WordPress 站长：把站点变成 MCP 服务器供 AI 代理读写管理**
 

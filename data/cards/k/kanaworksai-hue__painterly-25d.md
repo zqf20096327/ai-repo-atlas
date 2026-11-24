@@ -1,6 +1,6 @@
 # kanaworksai-hue/painterly-25d
 
-⭐ 11 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/painterly-25d) · [官网](https://x.com/KanaWorks_AI) · 组织维护
+⭐ 12 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/painterly-25d) · [官网](https://x.com/KanaWorks_AI) · 组织维护
 
 **一键把 Blender 3D 场景转成手绘 2.5D 画面效果的免费插件**
 

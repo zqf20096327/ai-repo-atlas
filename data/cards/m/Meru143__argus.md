@@ -1,6 +1,6 @@
 # Meru143/argus
 
-⭐ 18 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Meru143/argus) · [官网](https://merup.me/argus/) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Meru143/argus) · [官网](https://merup.me/argus/) · 个人维护
 
 **本地优先的 AI 代码审查平台：让独立 AI 审查 AI 生成代码**
 

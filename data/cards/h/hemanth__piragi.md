@@ -1,6 +1,6 @@
 # hemanth/piragi
 
-⭐ 133 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/hemanth/piragi) · [官网](https://hemanth.github.io/piragi/) · 个人维护
+⭐ 132 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/hemanth/piragi) · [官网](https://hemanth.github.io/piragi/) · 个人维护
 
 **面向开发者的本地优先 RAG Python 库：一行构建可问答知识库**
 

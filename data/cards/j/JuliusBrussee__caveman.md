@@ -1,10 +1,10 @@
 # JuliusBrussee/caveman
 
-⭐ 122,155 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/JuliusBrussee/caveman) · [官网](https://docs.caveman.so/caveman) · 个人维护
+⭐ 122,421 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/JuliusBrussee/caveman) · [官网](https://docs.caveman.so/caveman) · 个人维护
 
-**给编码 Agent 降 token 的技能+本地代理，原文可恢复**
+**给编码 agent 压缩回答与工具输出的 Skill+本地代理**
 
-Caveman 由一个 slash 技能和一个本地代理组成，作用于 Claude Code、Codex、Gemini CLI 等 30+ 编码 Agent：'Say less' 用固定句式规则压缩 Agent 回答（代码与命令逐字保留），'Read less' 在模型读取前压缩日志/CSV/JSON/YAML 等大体积工具输出，原始文件保留在本地磁盘可随时取回。另含按任务自动选模型与努力档的 Auto（需免费账号）、可复用脚本的 Blocks、缓存保温与网页压缩。通过 npx 一条命令安装，需 Node.js 22.13+，使用用户已有的订阅或 key。
+由 npm CLI 安装的本地代理与技能组合，让编码 agent 输出更短、读入更少的 token：代理拦截 agent 的回答与工具输出并压缩，原始内容保留在本地磁盘可恢复；'say less' 按固定规则改写回答但代码/命令/路径逐字保留，'read less' 压缩 CSV、日志、YAML、测试输出、JSON 等大输出，另有按任务自动选模型与 effort 的 Auto、可复用脚本的 Blocks 等六模块，各自可开关。支持 Claude Code、Codex、Gemini CLI、OpenCode 等 30+ agent，需 Node.js 22.13+，运行在用户自有密钥与登录上。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@ Caveman 由一个 slash 技能和一个本地代理组成，作用于 Claude Cod
 
 ## 能力要点
 
-- Say less：结构化短句规则压缩 Agent 回答，代码/命令/路径逐字保留
-- Read less：读取前压缩工具输出（实测整体会话输入 token 减少 33.2%），原始文件留本地可恢复
-- Auto：按任务自动选择模型与努力档（需免费账号）
-- Blocks：保留并复用 Agent 写过的脚本，预置 8 个 block
+- 本地代理压缩回答与工具输出，原始内容保留在磁盘可恢复
+- 'say less' 规则化改写回答，代码/命令/路径逐字不动
+- 'read less' 对 CSV/日志/YAML/JSON/测试输出压缩后再给模型读
+- Auto 模块按任务选择模型与 effort，Blocks 保留并复用 agent 脚本
 
 ## 适用场景
 
-- 在 Claude Code/Codex 等 Agent 里降低长会话的 token 开销
-- 让 Agent 读取大体积日志/CSV/JSON 时减少输入 token
-- 通过 Auto 按任务难度自动分配模型与努力档以降低成本
+- 日常使用编码 agent 时减少输入输出 token 消耗
+- 按 API 计费（如按请求付费）场景下降低 agent 使用成本
+- 团队希望 agent 会话读入更小的日志与数据文件
 
 ## 场景标签
 
- · 领域:开发者工具/LLM 成本优化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L18: **Caveman make your AI agent say less and read less. Code stay exact. Brain still big.**
 > L62: After that, plain `claude` stays caveman'd. So do Codex, Gemini CLI, OpenCode, and 30+ more. It runs on your machin
-> L177: Every original stays on your disk. The agent can pull it back any time.
+> L161: ## Read less: 33.2% fewer input tokens
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d03291fa4539` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `c0700c1c539c` · [字段定义](../../DATASET.md)*

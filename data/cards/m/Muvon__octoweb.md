@@ -1,6 +1,6 @@
 # Muvon/octoweb
 
-⭐ 140 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Muvon/octoweb) · [官网](https://octoweb.xyz) · 个人维护
+⭐ 138 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Muvon/octoweb) · [官网](https://octoweb.xyz) · 个人维护
 
 **macOS 键盘优先的 AI 浏览器：内置 AI 助手侧栏与 MCP 服务器**
 

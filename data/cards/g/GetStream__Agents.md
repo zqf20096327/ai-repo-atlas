@@ -1,6 +1,6 @@
 # GetStream/Agents
 
-⭐ 8,218 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/GetStream/Agents) · [官网](https://visionagents.ai) · 组织维护
+⭐ 8,218 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/GetStream/Agents) · [官网](https://visionagents.ai) · 组织维护
 
 **Go 后端框架：构建文本/语音/视频 AI Agent**
 

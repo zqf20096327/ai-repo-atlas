@@ -1,6 +1,6 @@
 # noahgift/functional_intro_to_python
 
-⭐ 315 · Jupyter Notebook · NOASSERTION · 推送 2026-09-01 · [GitHub](https://github.com/noahgift/functional_intro_to_python) · [官网](https://noahgift.github.io/functional_intro_to_python/) · 个人维护
+⭐ 315 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/noahgift/functional_intro_to_python) · [官网](https://noahgift.github.io/functional_intro_to_python/) · 个人维护
 
 **面向数据科学的 Python 函数式入门教学仓库（含 Rust 转译）**
 

@@ -1,6 +1,6 @@
 # gauravsharmaGG/mergejudge-runner
 
-⭐ 30 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gauravsharmaGG/mergejudge-runner) · [官网](https://mergejudge.si) · 个人维护
+⭐ 55 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gauravsharmaGG/mergejudge-runner) · [官网](https://mergejudge.si) · 个人维护
 
 **给工程团队的自托管 AI 代码审查 GitHub Action 与 CLI**
 

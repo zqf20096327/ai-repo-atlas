@@ -1,6 +1,6 @@
 # alexw5702-afk/krea2-anypaint
 
-⭐ 58 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/alexw5702-afk/krea2-anypaint) · [官网](https://huggingface.co/yijunwang2/krea2-anypaint) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/alexw5702-afk/krea2-anypaint) · [官网](https://huggingface.co/yijunwang2/krea2-anypaint) · 个人维护
 
 **Krea 2 AnyPaint 的 ComfyUI 节点包：任意遮罩重绘与外绘**
 

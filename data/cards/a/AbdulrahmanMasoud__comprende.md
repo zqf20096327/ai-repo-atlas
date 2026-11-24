@@ -1,6 +1,6 @@
 # AbdulrahmanMasoud/comprende
 
-⭐ 65 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/AbdulrahmanMasoud/comprende) · 个人维护 · 中文 README
+⭐ 65 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AbdulrahmanMasoud/comprende) · 个人维护 · 中文 README
 
 **AI 编码代理插件：解释其写的代码并在推送前问答验证理解**
 

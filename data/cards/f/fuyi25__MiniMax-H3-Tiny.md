@@ -1,6 +1,6 @@
 # fuyi25/MiniMax-H3-Tiny
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/fuyi25/MiniMax-H3-Tiny) · [官网](https://fuyi25.github.io/MiniMax-H3-Tiny/) · 个人维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/fuyi25/MiniMax-H3-Tiny) · [官网](https://fuyi25.github.io/MiniMax-H3-Tiny/) · 个人维护
 
 **MiniMax H3 结构化剪枝的 14B/17B 视频+音频生成模型**
 

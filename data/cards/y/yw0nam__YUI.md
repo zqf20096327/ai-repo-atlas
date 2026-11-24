@@ -1,6 +1,6 @@
 # yw0nam/YUI
 
-⭐ 22 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/yw0nam/YUI) · [官网](https://yw0nam.github.io/YUI/) · 个人维护
+⭐ 22 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/yw0nam/YUI) · [官网](https://yw0nam.github.io/YUI/) · 个人维护
 
 **桌面 VRM 陪伴角色：为任意 OpenAI 兼容后端提供形象、语音与桌面存在感**
 

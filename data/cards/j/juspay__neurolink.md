@@ -1,6 +1,6 @@
 # juspay/neurolink
 
-⭐ 167 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/juspay/neurolink) · [官网](https://neurolink.ink) · 组织维护
+⭐ 166 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/juspay/neurolink) · [官网](https://neurolink.ink) · 组织维护
 
 **TypeScript AI 管道层：统一接口接入多提供商与三类推理**
 

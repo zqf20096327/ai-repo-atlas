@@ -1,6 +1,6 @@
 # google-research/zapbench
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-research/zapbench) · [官网](https://google-research.github.io/zapbench) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google-research/zapbench) · [官网](https://google-research.github.io/zapbench) · 组织维护
 
 **斑马鱼全脑神经活动预测基准，含数据集与教程**
 

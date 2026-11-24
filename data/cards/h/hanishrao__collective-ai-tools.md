@@ -1,6 +1,6 @@
 # hanishrao/collective-ai-tools
 
-⭐ 261 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hanishrao/collective-ai-tools) · [官网](https://collectiveai.tools/) · 个人维护
+⭐ 262 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hanishrao/collective-ai-tools) · [官网](https://collectiveai.tools/) · 个人维护
 
 **社区维护的 AI 工具与资源策展清单，覆盖多品类**
 

@@ -1,6 +1,6 @@
 # LLYSH-HANNARI/antigravity-Codex-Claude-effort-slider
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LLYSH-HANNARI/antigravity-Codex-Claude-effort-slider) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LLYSH-HANNARI/antigravity-Codex-Claude-effort-slider) · 个人维护 · 中文 README
 
 **给 Antigravity 桌面端/IDE 注入 Codex&Claude 风格推理档位滑条**
 

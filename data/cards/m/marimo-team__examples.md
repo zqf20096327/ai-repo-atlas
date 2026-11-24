@@ -1,6 +1,6 @@
 # marimo-team/examples
 
-⭐ 71 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/marimo-team/examples) · [官网](https://marimo.io) · 组织维护
+⭐ 73 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/marimo-team/examples) · [官网](https://marimo.io) · 组织维护
 
 **marimo 示例笔记本策展集，供数据探索与工作流起步**
 

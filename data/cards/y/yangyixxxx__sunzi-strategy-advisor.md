@@ -1,6 +1,6 @@
 # yangyixxxx/sunzi-strategy-advisor
 
-⭐ 10 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/yangyixxxx/sunzi-strategy-advisor) · 个人维护 · 中文 README
+⭐ 11 · MIT · 推送 2026-07-28 · [GitHub](https://github.com/yangyixxxx/sunzi-strategy-advisor) · 个人维护 · 中文 README
 
 **把《孙子兵法》执行为决策纪律的 AI Skill，输出战略诊断**
 

@@ -1,6 +1,6 @@
 # vdblm/CausalPFN
 
-⭐ 145 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/vdblm/CausalPFN) · 组织维护
+⭐ 147 · Jupyter Notebook · Apache-2.0 · 推送 2026-09-27 · [GitHub](https://github.com/vdblm/CausalPFN) · 组织维护
 
 **基于 Transformer 上下文学习的因果效应估计库**
 

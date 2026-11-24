@@ -1,6 +1,6 @@
 # gaopengbin/openlayers-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gaopengbin/openlayers-mcp) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gaopengbin/openlayers-mcp) · 个人维护 · 中文 README
 
 **通过 MCP 让 AI Agent 用自然语言控制 OpenLayers 地图**
 

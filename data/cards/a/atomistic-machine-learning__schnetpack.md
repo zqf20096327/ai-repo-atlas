@@ -1,6 +1,6 @@
 # atomistic-machine-learning/schnetpack
 
-⭐ 946 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/atomistic-machine-learning/schnetpack) · 组织维护
+⭐ 946 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/atomistic-machine-learning/schnetpack) · 组织维护
 
 **原子体系神经网络工具箱：预测分子与材料的量子化学性质**
 

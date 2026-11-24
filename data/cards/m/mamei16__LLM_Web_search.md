@@ -1,6 +1,6 @@
 # mamei16/LLM_Web_search
 
-⭐ 285 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/mamei16/LLM_Web_search) · 个人维护
+⭐ 286 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mamei16/LLM_Web_search) · 个人维护
 
 **为 text-generation-webui 本地 LLM 增加联网搜索能力的扩展**
 

@@ -1,6 +1,6 @@
 # maxoliverbr/eia-api-ts
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/maxoliverbr/eia-api-ts) · [官网](https://maxoliverbr.github.io/eia-api-ts/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/maxoliverbr/eia-api-ts) · [官网](https://maxoliverbr.github.io/eia-api-ts/) · 个人维护
 
 **为 AI agent 封装美国 EIA 能源 APIv2 的本地服务**
 

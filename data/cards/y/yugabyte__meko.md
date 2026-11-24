@@ -1,6 +1,6 @@
 # yugabyte/meko
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/yugabyte/meko) · [官网](https://mekodata.ai) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/yugabyte/meko) · [官网](https://mekodata.ai) · 组织维护
 
 **面向 agent 应用的上下文引擎：统一记忆、知识与决策轨迹**
 

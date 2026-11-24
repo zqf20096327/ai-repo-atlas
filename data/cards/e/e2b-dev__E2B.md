@@ -1,6 +1,6 @@
 # e2b-dev/E2B
 
-⭐ 14,967 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/e2b-dev/E2B) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b) · 组织维护
+⭐ 14,984 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/e2b-dev/E2B) · [官网](https://docs.e2b.dev/?utm_source=github&utm_medium=referral&utm_campaign=repo_website&utm_content=e2b) · 组织维护
 
 **为 AI agent 提供云端安全沙箱，运行生成的代码**
 

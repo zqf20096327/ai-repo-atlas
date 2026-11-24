@@ -1,6 +1,6 @@
 # Nitjsefnie/claudit
 
-⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nitjsefnie/claudit) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Nitjsefnie/claudit) · 个人维护
 
 **自托管 Claude Code 用量仪表盘：成本与项目归因统计**
 

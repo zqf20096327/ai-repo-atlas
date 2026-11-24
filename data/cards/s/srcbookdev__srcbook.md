@@ -1,6 +1,6 @@
 # srcbookdev/srcbook
 
-⭐ 3,462 · TypeScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/srcbookdev/srcbook) · 组织维护
+⭐ 3,470 · TypeScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/srcbookdev/srcbook) · 组织维护
 
 **本地运行的 TypeScript notebook，支持 AI 辅助探索代码与想法**
 

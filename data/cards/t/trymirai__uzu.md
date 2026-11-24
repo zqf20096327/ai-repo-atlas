@@ -1,6 +1,6 @@
 # trymirai/uzu
 
-⭐ 3,382 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/trymirai/uzu) · [官网](https://trymirai.com) · 组织维护
+⭐ 3,380 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/trymirai/uzu) · [官网](https://trymirai.com) · 组织维护
 
 **嵌入应用的本地模型推理引擎，Rust 实现多语言绑定**
 

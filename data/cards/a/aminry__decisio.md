@@ -1,6 +1,6 @@
 # aminry/decisio
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aminry/decisio) · [官网](https://opendecisio.com) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aminry/decisio) · [官网](https://opendecisio.com) · 组织维护
 
 **自托管决策推理服务器：输入分类问题，输出每个选项的校准概率**
 

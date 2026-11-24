@@ -1,6 +1,6 @@
 # Tuntii/RustAPI
 
-⭐ 65 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/Tuntii/RustAPI) · [官网](https://rustapi.cloud) · 组织维护
+⭐ 65 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Tuntii/RustAPI) · [官网](https://rustapi.cloud) · 组织维护
 
 **Rust Web 框架：编译期路由、自动 OpenAPI、内建 MCP/LLM 支持**
 

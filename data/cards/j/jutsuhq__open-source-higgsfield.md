@@ -1,6 +1,6 @@
 # jutsuhq/open-source-higgsfield
 
-⭐ 133 · JavaScript · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/jutsuhq/open-source-higgsfield) · [官网](https://jutsustudio.com/open-source-higgsfield/) · 组织维护
+⭐ 135 · JavaScript · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/jutsuhq/open-source-higgsfield) · [官网](https://jutsustudio.com/open-source-higgsfield/) · 组织维护
 
 **开源 Higgsfield 替代品清单：收录 96 个挑战项目与 6 个既有方案**
 

@@ -1,6 +1,6 @@
 # parlance-zz/dualdiffusion
 
-⭐ 94 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/parlance-zz/dualdiffusion) · [官网](https://www.g-diffuser.com/dualdiffusion/) · 个人维护
+⭐ 94 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/parlance-zz/dualdiffusion) · [官网](https://www.g-diffuser.com/dualdiffusion/) · 个人维护
 
 **基于扩散模型的电子游戏配乐音乐生成模型**
 

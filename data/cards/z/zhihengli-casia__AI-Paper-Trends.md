@@ -1,6 +1,6 @@
 # zhihengli-casia/AI-Paper-Trends
 
-⭐ 225 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zhihengli-casia/AI-Paper-Trends) · [官网](https://github.com/zhihengli-casia/AI-Paper-Trends/blob/main/docs/topic-atlas/README.md) · 个人维护 · 中文 README
+⭐ 226 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/zhihengli-casia/AI-Paper-Trends) · [官网](https://github.com/zhihengli-casia/AI-Paper-Trends/blob/main/docs/topic-atlas/README.md) · 个人维护 · 中文 README
 
 **AI 论文索引与细粒度主题图谱：按年份/会议/主题浏览论文**
 

@@ -1,6 +1,6 @@
 # StormBrawlerSack/legwork-osint-ai-investigator
 
-⭐ 237 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) · [官网](https://awesomeosint.tools/legwork/) · 个人维护
+⭐ 251 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/StormBrawlerSack/legwork-osint-ai-investigator) · [官网](https://awesomeosint.tools/legwork/) · 个人维护
 
 **Windows 版 AI 开源情报调查员：逐句带出处的问答**
 

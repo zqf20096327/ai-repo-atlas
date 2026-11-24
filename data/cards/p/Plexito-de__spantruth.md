@@ -1,6 +1,6 @@
 # Plexito-de/spantruth
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Plexito-de/spantruth) · [官网](https://plexito-de.github.io/spantruth/) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Plexito-de/spantruth) · [官网](https://plexito-de.github.io/spantruth/) · 个人维护
 
 **校验 LLM 埋点遥测是否与 provider 实际响应一致的测试工具**
 

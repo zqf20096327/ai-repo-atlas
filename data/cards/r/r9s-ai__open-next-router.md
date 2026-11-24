@@ -1,6 +1,6 @@
 # r9s-ai/open-next-router
 
-⭐ 28 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/r9s-ai/open-next-router) · 组织维护 · 中文 README
+⭐ 28 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/r9s-ai/open-next-router) · 组织维护 · 中文 README
 
 **面向开发者的 DSL 驱动 LLM API 网关：路由与规范化多上游**
 

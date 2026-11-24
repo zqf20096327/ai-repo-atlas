@@ -1,6 +1,6 @@
 # SenolIsci/mykg
 
-⭐ 86 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SenolIsci/mykg) · 个人维护
+⭐ 87 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/SenolIsci/mykg) · 个人维护
 
 **把混合文档目录转换成基于归纳本体的置信度知识图谱引擎**
 

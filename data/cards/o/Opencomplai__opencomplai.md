@@ -1,6 +1,6 @@
 # Opencomplai/opencomplai
 
-⭐ 19 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Opencomplai/opencomplai) · [官网](https://opencomplai.com/) · 组织维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Opencomplai/opencomplai) · [官网](https://opencomplai.com/) · 组织维护
 
 **面向 CI/CD 的 EU AI Act 合规自动化规则引擎**
 

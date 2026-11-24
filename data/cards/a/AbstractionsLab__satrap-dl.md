@@ -1,6 +1,6 @@
 # AbstractionsLab/satrap-dl
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/AbstractionsLab/satrap-dl) · [官网](https://abstractionslab.github.io/satrap-dl/website/product-presentation.html) · 组织维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AbstractionsLab/satrap-dl) · [官网](https://abstractionslab.github.io/satrap-dl/website/product-presentation.html) · 组织维护
 
 **面向 CTI 分析的半自动化威胁侦察与事件处置工具套件**
 

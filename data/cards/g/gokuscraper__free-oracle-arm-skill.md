@@ -1,6 +1,6 @@
 # gokuscraper/free-oracle-arm-skill
 
-⭐ 19 · Shell · MIT · 推送 2026-07-25 · [GitHub](https://github.com/gokuscraper/free-oracle-arm-skill) · 个人维护 · 中文 README
+⭐ 20 · Shell · MIT · 推送 2026-07-25 · [GitHub](https://github.com/gokuscraper/free-oracle-arm-skill) · 个人维护 · 中文 README
 
 **让 AI 助手自动抢 Oracle 免费 ARM 实例的 agent 技能**
 

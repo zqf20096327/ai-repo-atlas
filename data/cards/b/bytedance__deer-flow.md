@@ -1,6 +1,6 @@
 # bytedance/deer-flow
 
-⭐ 85,614 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
+⭐ 85,707 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
 
 **面向开发者的开源 SuperAgent 运行时：编排子代理执行长时程任务**
 

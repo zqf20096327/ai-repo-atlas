@@ -1,6 +1,6 @@
 # Meko1/llm-interview-guide
 
-⭐ 39 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/Meko1/llm-interview-guide) · [官网](https://meko1.github.io/llm-interview-guide/) · 个人维护 · 中文 README
+⭐ 42 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Meko1/llm-interview-guide) · [官网](https://meko1.github.io/llm-interview-guide/) · 个人维护 · 中文 README
 
 **面向中文读者的大模型面试知识库，问答式整理高频考点**
 

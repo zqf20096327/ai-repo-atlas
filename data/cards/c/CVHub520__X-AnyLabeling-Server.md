@@ -1,6 +1,6 @@
 # CVHub520/X-AnyLabeling-Server
 
-⭐ 340 · Python · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/CVHub520/X-AnyLabeling-Server) · [官网](https://xanylabeling.com) · 个人维护
+⭐ 341 · Python · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/CVHub520/X-AnyLabeling-Server) · [官网](https://xanylabeling.com) · 个人维护
 
 **面向 X-AnyLabeling 的 AI 推理服务框架：自动标注后端**
 

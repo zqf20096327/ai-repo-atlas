@@ -1,6 +1,6 @@
 # DoRmAmMu1997/My-Algo-Trading-Code
 
-⭐ 20 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/DoRmAmMu1997/My-Algo-Trading-Code) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DoRmAmMu1997/My-Algo-Trading-Code) · 个人维护
 
 **印度指数期权个人算法交易套件：信号、回测、纸面/实盘与可选 AI 代理**
 

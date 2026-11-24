@@ -1,6 +1,6 @@
 # zenml-io/zenml
 
-⭐ 5,637 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/zenml-io/zenml) · [官网](https://zenml.io) · 组织维护
+⭐ 5,638 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/zenml-io/zenml) · [官网](https://zenml.io) · 组织维护
 
 **面向 ML/AI 工程师的 MLOps 编排平台：管道到 Agent**
 

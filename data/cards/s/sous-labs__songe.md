@@ -1,6 +1,6 @@
 # sous-labs/songe
 
-⭐ 217 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sous-labs/songe) · [官网](https://souslabs.ai/songe) · 组织维护
+⭐ 311 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sous-labs/songe) · [官网](https://souslabs.ai/songe) · 组织维护
 
 **利用空闲算力在本地持续微调你的本地模型的训练引擎**
 

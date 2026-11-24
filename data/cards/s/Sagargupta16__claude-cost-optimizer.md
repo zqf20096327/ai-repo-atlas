@@ -1,6 +1,6 @@
 # Sagargupta16/claude-cost-optimizer
 
-⭐ 46 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Sagargupta16/claude-cost-optimizer) · [官网](https://sagargupta.online/claude-cost-optimizer/) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Sagargupta16/claude-cost-optimizer) · [官网](https://sagargupta.online/claude-cost-optimizer/) · 个人维护
 
 **降低 Claude Code 使用成本的技能与工具箱：定价杠杆、成本计算与项目评分**
 

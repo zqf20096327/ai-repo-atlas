@@ -1,6 +1,6 @@
 # infinilabs/coco-server
 
-⭐ 151 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/infinilabs/coco-server) · [官网](https://coco.rs/) · 组织维护
+⭐ 151 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/infinilabs/coco-server) · [官网](https://coco.rs/) · 组织维护
 
 **企业统一搜索与协作平台 Coco AI 的服务端组件**
 

@@ -1,6 +1,6 @@
 # nyxandro/bitrix24-workspace-skill
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/nyxandro/bitrix24-workspace-skill) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nyxandro/bitrix24-workspace-skill) · 个人维护
 
 **让 AI 代理只读访问 Bitrix24 工作区的技能**
 

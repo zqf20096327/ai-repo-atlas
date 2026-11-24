@@ -1,6 +1,6 @@
 # artyomsv/quil
 
-⭐ 28 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/artyomsv/quil) · [官网](https://quil.cc/) · 个人维护
+⭐ 29 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/artyomsv/quil) · [官网](https://quil.cc/) · 个人维护
 
 **面向 AI 开发的持久化终端复用器：重启后恢复工作区与 AI 会话**
 

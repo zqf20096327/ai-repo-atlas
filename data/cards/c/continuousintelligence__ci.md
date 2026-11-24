@@ -1,6 +1,6 @@
 # continuousintelligence/ci
 
-⭐ 84 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/continuousintelligence/ci) · [官网](https://www.continuousintelligence.co.uk) · 组织维护
+⭐ 86 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/continuousintelligence/ci) · [官网](https://www.continuousintelligence.co.uk) · 组织维护
 
 **给开发者的时序基础模型：零配置概率预测，2M+ 步历史**
 

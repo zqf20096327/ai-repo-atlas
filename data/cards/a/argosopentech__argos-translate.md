@@ -1,6 +1,6 @@
 # argosopentech/argos-translate
 
-⭐ 6,683 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/argosopentech/argos-translate) · [官网](https://www.argosopentech.com) · 个人维护
+⭐ 6,689 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/argosopentech/argos-translate) · [官网](https://www.argosopentech.com) · 个人维护
 
 **离线开源机器翻译库：本地运行语言模型包翻译文本**
 

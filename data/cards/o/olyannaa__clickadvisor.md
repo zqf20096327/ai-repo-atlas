@@ -1,6 +1,6 @@
 # olyannaa/clickadvisor
 
-⭐ 18 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/olyannaa/clickadvisor) · [官网](https://clickadvisor.lovable.app) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/olyannaa/clickadvisor) · [官网](https://clickadvisor.lovable.app) · 个人维护 · 中文 README
 
 **ClickHouse SQL 性能分析与规则引擎 CLI，含 MCP 服务器**
 

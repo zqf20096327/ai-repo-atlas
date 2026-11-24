@@ -1,6 +1,6 @@
 # microsoft/vibe-kit
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/microsoft/vibe-kit) · 组织维护
+⭐ 38 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/microsoft/vibe-kit) · 组织维护
 
 **微软研究院 AI 编程助手技能合集（6 项）**
 

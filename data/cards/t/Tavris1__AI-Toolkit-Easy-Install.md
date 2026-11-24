@@ -1,6 +1,6 @@
 # Tavris1/AI-Toolkit-Easy-Install
 
-⭐ 545 · Batchfile · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Tavris1/AI-Toolkit-Easy-Install) · 个人维护
+⭐ 544 · Batchfile · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Tavris1/AI-Toolkit-Easy-Install) · 个人维护
 
 **Windows 上一键便携安装 AI-Toolkit 训练套件的安装器**
 

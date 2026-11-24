@@ -1,6 +1,6 @@
 # microsoft/FastTrack
 
-⭐ 232 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/FastTrack) · [官网](https://microsoft.github.io/FastTrack/) · 组织维护
+⭐ 232 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/FastTrack) · [官网](https://microsoft.github.io/FastTrack/) · 组织维护
 
 **微软 FastTrack 的 M365 Copilot 部署指南、代理与脚本资源库**
 

@@ -1,6 +1,6 @@
 # Thakay/aiterm
 
-⭐ 65 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Thakay/aiterm) · 个人维护
+⭐ 65 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Thakay/aiterm) · 个人维护
 
 **把自然语言转成终端 shell 命令并按确认执行的 Go CLI**
 

@@ -1,6 +1,6 @@
 # rcarmo/piclaw
 
-⭐ 922 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rcarmo/piclaw) · [官网](https://rcarmo.github.io/projects/piclaw/) · 个人维护
+⭐ 922 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rcarmo/piclaw) · [官网](https://rcarmo.github.io/projects/piclaw/) · 个人维护
 
 **自托管的单用户 AI 工作区，基于 Pi Coding Agent**
 

@@ -1,6 +1,6 @@
 # gomlx/gomlx
 
-⭐ 1,687 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/gomlx/gomlx) · 个人维护
+⭐ 1,690 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/gomlx/gomlx) · 个人维护
 
 **Go 语言机器学习框架：训练/微调/运行模型，多后端加速**
 

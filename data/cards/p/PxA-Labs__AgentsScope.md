@@ -1,6 +1,6 @@
 # PxA-Labs/AgentsScope
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PxA-Labs/AgentsScope) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PxA-Labs/AgentsScope) · 组织维护
 
 **自托管多智能体 AI 管线的可观测性仪表盘**
 

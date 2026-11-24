@@ -1,6 +1,6 @@
 # dwim-sh/dwim
 
-⭐ 49 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dwim-sh/dwim) · [官网](https://dwim.sh) · 组织维护
+⭐ 52 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dwim-sh/dwim) · [官网](https://dwim.sh) · 组织维护
 
 **本地优先的编码 agent：Rust 单程序内置模型与推理引擎**
 

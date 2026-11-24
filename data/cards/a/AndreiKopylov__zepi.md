@@ -1,6 +1,6 @@
 # AndreiKopylov/zepi
 
-⭐ 6 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/AndreiKopylov/zepi) · 个人维护
+⭐ 6 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AndreiKopylov/zepi) · 个人维护
 
 **Windows 代码与办公文档编辑器，内置 agent**
 

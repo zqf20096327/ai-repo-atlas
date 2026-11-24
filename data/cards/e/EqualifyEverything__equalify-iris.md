@@ -1,6 +1,6 @@
 # EqualifyEverything/equalify-iris
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/EqualifyEverything/equalify-iris) · [官网](https://philosophers.group/iris-beyond-solving-blindness/) · 组织维护
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/EqualifyEverything/equalify-iris) · [官网](https://philosophers.group/iris-beyond-solving-blindness/) · 组织维护
 
 **将 PDF 页面经视觉模型转为 WCAG 2.2 AA 可访问 HTML**
 

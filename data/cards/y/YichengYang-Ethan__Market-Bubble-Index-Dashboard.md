@@ -1,6 +1,6 @@
 # YichengYang-Ethan/Market-Bubble-Index-Dashboard
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) · [官网](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/YichengYang-Ethan/Market-Bubble-Index-Dashboard) · [官网](https://yichengyang-ethan.github.io/Market-Bubble-Index-Dashboard/) · 个人维护
 
 **给投资者的市场泡沫风险仪表盘：7 指标综合指数与回撤概率**
 

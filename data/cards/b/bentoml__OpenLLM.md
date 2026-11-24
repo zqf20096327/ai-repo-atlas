@@ -1,6 +1,6 @@
 # bentoml/OpenLLM
 
-⭐ 12,612 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/bentoml/OpenLLM) · [官网](https://bentoml.com) · 组织维护
+⭐ 12,613 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bentoml/OpenLLM) · [官网](https://bentoml.com) · 组织维护
 
 **开发者一条命令自托管开源 LLM，输出 OpenAI 兼容 API**
 

@@ -1,6 +1,6 @@
 # mcplama/mcplama
 
-⭐ 25 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/mcplama/mcplama) · [官网](https://mcplama.com) · 组织维护
+⭐ 27 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/mcplama/mcplama) · [官网](https://mcplama.com) · 组织维护
 
 **自托管 MCP 网关：集中管理团队 MCP 服务器的凭证、权限与审计**
 

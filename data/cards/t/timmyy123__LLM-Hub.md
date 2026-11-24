@@ -1,6 +1,6 @@
 # timmyy123/LLM-Hub
 
-⭐ 667 · C · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/timmyy123/LLM-Hub) · [官网](https://llm-hub.app) · 个人维护
+⭐ 667 · C · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/timmyy123/LLM-Hub) · [官网](https://llm-hub.app) · 个人维护
 
 **本地端运行 LLM 对话与图像/视频/音乐生成的开源移动与桌面应用**
 

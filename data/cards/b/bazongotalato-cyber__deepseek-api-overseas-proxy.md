@@ -1,6 +1,6 @@
 # bazongotalato-cyber/deepseek-api-overseas-proxy
 
-⭐ 69 · 推送 2026-11-04 · [GitHub](https://github.com/bazongotalato-cyber/deepseek-api-overseas-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 91 · 推送 2026-11-04 · [GitHub](https://github.com/bazongotalato-cyber/deepseek-api-overseas-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡用于 DeepSeek API 云平台结算的营销文档**
 

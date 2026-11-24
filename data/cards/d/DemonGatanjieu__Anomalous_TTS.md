@@ -1,6 +1,6 @@
 # DemonGatanjieu/Anomalous_TTS
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/DemonGatanjieu/Anomalous_TTS) · 个人维护 · 中文 README
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/DemonGatanjieu/Anomalous_TTS) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：用训练好的 GPT-SoVITS 角色模型生成台词语音**
 

@@ -1,6 +1,6 @@
 # openai/openai-go
 
-⭐ 3,545 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openai/openai-go) · 组织维护
+⭐ 3,547 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-go) · 组织维护
 
 **OpenAI 官方 Go SDK：在 Go 应用中调用 OpenAI API**
 

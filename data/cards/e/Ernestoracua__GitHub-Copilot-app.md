@@ -1,6 +1,6 @@
 # Ernestoracua/GitHub-Copilot-app
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Ernestoracua/GitHub-Copilot-app) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者的 GitHub 仓库 agent 工作桌面控制中心**
 
@@ -11,7 +11,7 @@ GitHub 官方发布的桌面应用，将仓库中的软件工作从想法到 pul
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

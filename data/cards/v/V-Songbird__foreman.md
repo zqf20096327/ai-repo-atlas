@@ -1,6 +1,6 @@
 # V-Songbird/foreman
 
-⭐ 35 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/V-Songbird/foreman) · [官网](https://github.com/V-Songbird/foundry) · 个人维护
+⭐ 35 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/V-Songbird/foreman) · [官网](https://github.com/V-Songbird/foundry) · 个人维护
 
 **给单人开发者的项目连续性插件：代码旁的任务路线图**
 

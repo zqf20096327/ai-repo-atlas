@@ -1,6 +1,6 @@
 # kuafuai/andee
 
-⭐ 6,180 · Kotlin · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/kuafuai/andee) · [官网](https://heyandee.com) · 组织维护 · 中文 README
+⭐ 6,186 · Kotlin · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/kuafuai/andee) · [官网](https://heyandee.com) · 组织维护 · 中文 README
 
 **住进手机/Mac 的个人 agent：像人一样操作任意 App**
 

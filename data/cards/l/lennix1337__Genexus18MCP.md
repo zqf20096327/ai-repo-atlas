@@ -1,6 +1,6 @@
 # lennix1337/Genexus18MCP
 
-⭐ 47 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lennix1337/Genexus18MCP) · [官网](https://www.npmjs.com/package/genexus-mcp) · 个人维护
+⭐ 48 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lennix1337/Genexus18MCP) · [官网](https://www.npmjs.com/package/genexus-mcp) · 个人维护
 
 **GeneXus MCP 服务器：让 AI 代理读写重构 GeneXus 知识库**
 

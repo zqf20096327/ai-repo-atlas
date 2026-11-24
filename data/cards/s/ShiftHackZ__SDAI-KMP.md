@@ -1,6 +1,6 @@
 # ShiftHackZ/SDAI-KMP
 
-⭐ 1,296 · Kotlin · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ShiftHackZ/SDAI-KMP) · [官网](https://sdai.moroz.cc) · 组织维护
+⭐ 1,296 · Kotlin · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ShiftHackZ/SDAI-KMP) · [官网](https://sdai.moroz.cc) · 组织维护
 
 **Android/iOS 端 Stable Diffusion 图像生成客户端**
 

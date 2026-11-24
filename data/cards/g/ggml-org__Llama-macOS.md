@@ -1,6 +1,6 @@
 # ggml-org/Llama-macOS
 
-⭐ 1,860 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ggml-org/Llama-macOS) · [官网](https://llama.app) · 组织维护
+⭐ 1,865 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ggml-org/Llama-macOS) · [官网](https://llama.app) · 组织维护
 
 **macOS 菜单栏应用：本地运行与管理 LLM**
 

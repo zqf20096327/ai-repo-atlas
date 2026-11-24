@@ -1,6 +1,6 @@
 # sammargolis/OpenScribe
 
-⭐ 237 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sammargolis/OpenScribe) · [官网](https://openscribe.org) · 个人维护
+⭐ 238 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sammargolis/OpenScribe) · [官网](https://openscribe.org) · 个人维护
 
 **开源 AI 医疗病历助手：录音问诊并自动生成结构化病历**
 

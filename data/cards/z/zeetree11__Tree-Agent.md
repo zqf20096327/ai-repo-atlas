@@ -1,6 +1,6 @@
 # zeetree11/Tree-Agent
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/zeetree11/Tree-Agent) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zeetree11/Tree-Agent) · 个人维护 · 中文 README
 
 **基于 pi 编码 agent 封装的个人助理运行时**
 

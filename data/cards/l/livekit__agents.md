@@ -1,6 +1,6 @@
 # livekit/agents
 
-⭐ 15,306 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/livekit/agents) · [官网](https://docs.livekit.io/agents) · 组织维护
+⭐ 15,317 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/livekit/agents) · [官网](https://docs.livekit.io/agents) · 组织维护
 
 **给开发者：构建实时语音 AI Agent 的 Python 框架**
 

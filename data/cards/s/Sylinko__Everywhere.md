@@ -1,6 +1,6 @@
 # Sylinko/Everywhere
 
-⭐ 6,363 · C# · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Sylinko/Everywhere) · [官网](https://everywhere.sylinko.com) · 组织维护 · 中文 README
+⭐ 6,364 · C# · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sylinko/Everywhere) · [官网](https://everywhere.sylinko.com) · 组织维护 · 中文 README
 
 **桌面屏幕感知 AI 助手：快捷键就地调用多模型与 MCP 工具**
 

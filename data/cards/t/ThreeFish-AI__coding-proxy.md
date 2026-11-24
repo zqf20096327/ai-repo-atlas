@@ -1,6 +1,6 @@
 # ThreeFish-AI/coding-proxy
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ThreeFish-AI/coding-proxy) · [官网](https://threefish.site) · 组织维护 · 中文 README
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ThreeFish-AI/coding-proxy) · [官网](https://threefish.site) · 组织维护 · 中文 README
 
 **面向 Claude Code 的多厂商代理：自动故障切换与格式转换**
 

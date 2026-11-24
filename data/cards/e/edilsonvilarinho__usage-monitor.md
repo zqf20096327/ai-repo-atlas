@@ -1,6 +1,6 @@
 # edilsonvilarinho/usage-monitor
 
-⭐ 22 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/edilsonvilarinho/usage-monitor) · 个人维护
+⭐ 22 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/edilsonvilarinho/usage-monitor) · 个人维护
 
 **桌面 HUD 汇总各 AI 编程工具的配额、用量与成本**
 

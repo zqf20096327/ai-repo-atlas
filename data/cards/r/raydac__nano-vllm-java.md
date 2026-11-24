@@ -1,6 +1,6 @@
 # raydac/nano-vllm-java
 
-⭐ 12 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/raydac/nano-vllm-java) · 个人维护
+⭐ 12 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/raydac/nano-vllm-java) · 个人维护
 
 **供 Java 应用在 CPU 上本地运行预训练模型推理的库**
 

@@ -1,6 +1,6 @@
 # PIsberg/llm-fw
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/PIsberg/llm-fw) · 个人维护
+⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/PIsberg/llm-fw) · 个人维护
 
 **本地运行的提示注入防火墙：拦截工具与 LLM API 之间的流量**
 

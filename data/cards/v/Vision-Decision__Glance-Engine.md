@@ -1,6 +1,6 @@
 # Vision-Decision/Glance-Engine
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vision-Decision/Glance-Engine) · 组织维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vision-Decision/Glance-Engine) · 组织维护
 
 **视觉决策模型推理引擎：一次前向回答多问题、一问扫描多图**
 

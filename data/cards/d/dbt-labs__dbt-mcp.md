@@ -1,6 +1,6 @@
 # dbt-labs/dbt-mcp
 
-⭐ 624 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/dbt-labs/dbt-mcp) · 组织维护
+⭐ 624 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dbt-labs/dbt-mcp) · 组织维护
 
 **让 AI agent 操作 dbt 的 MCP 服务器**
 

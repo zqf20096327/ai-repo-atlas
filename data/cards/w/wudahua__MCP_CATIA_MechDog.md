@@ -1,6 +1,6 @@
 # wudahua/MCP_CATIA_MechDog
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/wudahua/MCP_CATIA_MechDog) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wudahua/MCP_CATIA_MechDog) · 个人维护 · 中文 README
 
 **让 AI 客户端通过 MCP 在 CATIA V5 中生成可编辑的 3D 模型**
 

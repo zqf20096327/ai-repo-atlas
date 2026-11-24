@@ -1,6 +1,6 @@
 # AbdulMuhaiminKhan/smart-speaking
 
-⭐ 3 · Python · 推送 2026-11-14 · [GitHub](https://github.com/AbdulMuhaiminKhan/smart-speaking) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地运行的免费 AI 演讲教练：录制演讲并给出多维反馈**
 

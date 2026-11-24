@@ -1,6 +1,6 @@
 # JerrIsTheBesta/AI-Short-Drama-Studio
 
-⭐ 60 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/JerrIsTheBesta/AI-Short-Drama-Studio) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/JerrIsTheBesta/AI-Short-Drama-Studio) · 个人维护 · 中文 README
 
 **开源 AI 短剧创作工作台：剧本到成片的一站式生成**
 

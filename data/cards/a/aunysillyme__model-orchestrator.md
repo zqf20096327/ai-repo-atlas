@@ -1,6 +1,6 @@
 # aunysillyme/model-orchestrator
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/aunysillyme/model-orchestrator) · [官网](https://model-orchestrator.aunysillyme.dev) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aunysillyme/model-orchestrator) · [官网](https://model-orchestrator.aunysillyme.dev) · 个人维护
 
 **AI 编码代理的模型路由器：按规则把日常任务分给廉价模型**
 

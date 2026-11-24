@@ -1,10 +1,10 @@
 # neavo/LinguaGacha
 
-⭐ 2,756 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/neavo/LinguaGacha) · [官网](https://github.com/neavo/LinguaGacha/wiki) · 个人维护 · 中文 README
+⭐ 2,764 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/neavo/LinguaGacha) · [官网](https://github.com/neavo/LinguaGacha/wiki) · 个人维护 · 中文 README
 
-**面向无技术背景用户的 AI 多格式一键翻译工具**
+**调用大模型一键翻译漫画/游戏/音视频/电子书的全格式桌面工具**
 
-桌面翻译应用，支持将图片/漫画、音视频与字幕、电子书（txt/md/epub/pdf/srt/ass 等）、游戏引擎文件（Godot/RenPy/RPGMAKER 等）拖入输入框后借助大模型接口自动互译。机制上提供自动术语表以保持专有名词一致、AGENT 语义校对与润色、样式效果保留。流程为：下载应用→配置大模型接口（如 DeepSeek）→拖入文件翻译。注意：源码仅作展示，禁止集成、修改、分发与二次开发。
+以桌面应用形式发布的翻译工具，将待翻译文件拖入输入框后调用大模型接口自动完成翻译，覆盖音频视频、图片漫画、字幕电子书（txt/epub/pdf/srt/ass 等）及游戏引擎数据文件（Godot/RenPy/RPGMAKER 等）多类格式。提供术语表、文本保护、自定义提示词、AGENT 校对等功能，并附各内容类型的最佳实践教程。需自行获取大模型 API 接口。注意：作者声明源码仅作展示，禁止集成、修改与分发。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 支持图片漫画、音视频、字幕、电子书、游戏引擎文件等多格式输入
-- 自动生成术语表，保持专有名词跨作品统一
-- AGENT 语义校对，指出问题后自动修正润色
-- 提供 Windows/macOS/Linux 三平台安装包
+- 支持音频、图片漫画、字幕电子书、游戏数据文件等多类格式输入
+- 提供术语表、文本保护、文本替换与自定义提示词功能
+- Windows/macOS/Linux 三平台提供安装包，含命令行模式
+- 附 Godot/RenPy/Tyrano/RPGMAKER 等游戏引擎翻译的最佳实践教程
 
 ## 适用场景
 
-- 将日文漫画或图片批量翻译并保留排版
-- 汉化 RenPy/RPGMAKER 等引擎的游戏文本
-- 翻译字幕、电子书等长文本格式
-- 无技术背景用户一键翻译音视频内容
+- 把日文 Galgame 或 RPG 游戏文本翻译成中文
+- 给漫画和动态漫画图片做翻译排版
+- 翻译 srt/ass 字幕和 EPUB/PDF 电子书
+- 为 ASMR 音频和视频内容生成译本
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:翻译/本地化工具
 
 ## 证据(README 行号)
 
-> L9: - LinguaGacha (/ˈlɪŋɡwə ˈɡɑːtʃə/)，翻译特化的次世代 `AGENT Harness`
-> L17: - `全格式 - 万物皆可译，包括但不限于以下内容`
-> L57: - 获取一个可靠的 AI 大模型接口，比如 [DeepSeek ]
+> L10: - LinguaGacha (/ˈlɪŋɡwə ˈɡɑːtʃə/)，翻译特化的次世代 `AGENT Harness`
+> L12:  - 各语言全自动一键互译
+> L41: - 从 发布页 下载应用
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1c7ceb2b523e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `86d82dd0830b` · [字段定义](../../DATASET.md)*

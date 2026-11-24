@@ -1,6 +1,6 @@
 # ifixai-ai/iFixAi
 
-⭐ 46,849 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ifixai-ai/iFixAi) · [官网](https://www.ifixai.ai) · 组织维护
+⭐ 46,984 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ifixai-ai/iFixAi) · [官网](https://www.ifixai.ai) · 组织维护
 
 **AI Agent 独立审计 CLI：模拟业务场景检验 agent 是否越权**
 

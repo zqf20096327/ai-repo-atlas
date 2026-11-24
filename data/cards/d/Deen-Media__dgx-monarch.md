@@ -1,6 +1,6 @@
 # Deen-Media/dgx-monarch
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Deen-Media/dgx-monarch) · 组织维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Deen-Media/dgx-monarch) · 组织维护
 
 **在两台 DGX Spark 上分布式运行 ComfyUI 图像/视频生成**
 

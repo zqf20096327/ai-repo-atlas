@@ -1,6 +1,6 @@
 # xororz/local-dream
 
-⭐ 4,106 · Kotlin · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/xororz/local-dream) · [官网](https://play.google.com/store/apps/details?id=io.github.xororz.localdream) · 个人维护 · 中文 README
+⭐ 4,122 · Kotlin · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/xororz/local-dream) · [官网](https://play.google.com/store/apps/details?id=io.github.xororz.localdream) · 个人维护 · 中文 README
 
 **Android 端 Stable Diffusion 应用，支持骁龙 NPU 加速**
 

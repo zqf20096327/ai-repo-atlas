@@ -1,6 +1,6 @@
 # martian56/rook
 
-⭐ 28 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/martian56/rook) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/martian56/rook) · 个人维护
 
 **终端里的编码 agent：模型读写文件、跑命令改代码**
 

@@ -1,6 +1,6 @@
 # lrstanley/context7-http
 
-⭐ 23 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lrstanley/context7-http) · 个人维护
+⭐ 23 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lrstanley/context7-http) · 个人维护
 
 **Context7 的 HTTP/SSE MCP 服务器封装，可远程调用文档检索**
 

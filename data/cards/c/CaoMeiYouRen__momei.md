@@ -1,6 +1,6 @@
 # CaoMeiYouRen/momei
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CaoMeiYouRen/momei) · [官网](https://demo.momei.app/) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CaoMeiYouRen/momei) · [官网](https://demo.momei.app/) · 个人维护 · 中文 README
 
 **AI 驱动、原生国际化的开发者博客平台**
 

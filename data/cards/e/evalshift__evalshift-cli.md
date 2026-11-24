@@ -1,6 +1,6 @@
 # evalshift/evalshift-cli
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/evalshift/evalshift-cli) · [官网](https://www.evalshift.dev) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/evalshift/evalshift-cli) · [官网](https://www.evalshift.dev) · 组织维护
 
 **为 AI agent 提供 LLM 迁移与回归测试的 CLI 工具**
 

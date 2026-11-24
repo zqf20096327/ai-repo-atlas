@@ -1,6 +1,6 @@
 # bayesml/BayesML
 
-⭐ 28 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/bayesml/BayesML) · [官网](https://bayesml.github.io/BayesML/) · 组织维护
+⭐ 28 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/bayesml/BayesML) · [官网](https://bayesml.github.io/BayesML/) · 组织维护
 
 **面向教学科研的贝叶斯机器学习 Python 库**
 

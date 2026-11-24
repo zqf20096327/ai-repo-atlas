@@ -1,6 +1,6 @@
 # soulsteads/soulsteads-agent-workboard
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/soulsteads/soulsteads-agent-workboard) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/soulsteads/soulsteads-agent-workboard) · 个人维护
 
 **给自主 agent 用的共享任务看板：认领、依赖与审计**
 

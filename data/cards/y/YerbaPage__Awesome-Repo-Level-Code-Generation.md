@@ -1,6 +1,6 @@
 # YerbaPage/Awesome-Repo-Level-Code-Generation
 
-⭐ 339 · MIT · 推送 2026-11-03 · [GitHub](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation) · 组织维护
+⭐ 339 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation) · 组织维护
 
 **仓库级代码生成与议题修复论文策展清单**
 

@@ -1,6 +1,6 @@
 # tudormatei/jarvis-local
 
-⭐ 12 · Python · 推送 2026-03-27 · [GitHub](https://github.com/tudormatei/jarvis-local) · 个人维护
+⭐ 13 · Python · 推送 2026-03-27 · [GitHub](https://github.com/tudormatei/jarvis-local) · 个人维护
 
 **本地全离线的语音/文本 AI 语音助手，注重隐私**
 

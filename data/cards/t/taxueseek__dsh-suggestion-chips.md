@@ -1,6 +1,6 @@
 # taxueseek/dsh-suggestion-chips
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/taxueseek/dsh-suggestion-chips) · [官网](https://github.com/taxueseek/dsh-suggestion-chips#readme) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/taxueseek/dsh-suggestion-chips) · [官网](https://github.com/taxueseek/dsh-suggestion-chips#readme) · 个人维护 · 中文 README
 
 **给 DSH 每条回复加建议按钮与 Tab 幽灵文本的插件**
 

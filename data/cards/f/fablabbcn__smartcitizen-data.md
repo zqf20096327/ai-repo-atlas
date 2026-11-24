@@ -1,6 +1,6 @@
 # fablabbcn/smartcitizen-data
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/fablabbcn/smartcitizen-data) · [官网](https://docs.smartcitizen.me/data/data-tools/) · 组织维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/fablabbcn/smartcitizen-data) · [官网](https://docs.smartcitizen.me/data/data-tools/) · 组织维护
 
 **Smart Citizen 环境传感器数据分析框架**
 

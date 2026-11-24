@@ -1,6 +1,6 @@
 # Higangssh/homebutler
 
-⭐ 391 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Higangssh/homebutler) · [官网](https://homebutler.dev) · 个人维护
+⭐ 397 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Higangssh/homebutler) · [官网](https://homebutler.dev) · 个人维护
 
 **单二进制服务器变更检测与运维工具，内置 MCP server**
 

@@ -1,6 +1,6 @@
 # MikkoParkkola/nab
 
-⭐ 18 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MikkoParkkola/nab) · [官网](https://crates.io/crates/nab) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MikkoParkkola/nab) · [官网](https://crates.io/crates/nab) · 个人维护
 
 **面向 LLM agent 的本地网页抓取/ASR 工具：URL 转干净 markdown**
 

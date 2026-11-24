@@ -1,6 +1,6 @@
 # DevVettel/turkish-humanizer
 
-⭐ 20 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DevVettel/turkish-humanizer) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DevVettel/turkish-humanizer) · 个人维护 · 中文 README
 
 **消除土耳其语文本 AI 痕迹的 Claude 技能，兼容多家 LLM**
 

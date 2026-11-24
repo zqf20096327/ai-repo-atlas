@@ -1,6 +1,6 @@
 # sglogger/watermarks-remover-gui
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/sglogger/watermarks-remover-gui) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/sglogger/watermarks-remover-gui) · 个人维护
 
 **检测并清除文本/文档/图像中 AI 水印痕迹的网页前端**
 

@@ -1,6 +1,6 @@
 # tornikegomareli/agent-rules
 
-⭐ 12 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/tornikegomareli/agent-rules) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/tornikegomareli/agent-rules) · 个人维护
 
 **为所有本机编码 agent 统一注入行为规则集的工具**
 

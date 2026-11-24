@@ -1,6 +1,6 @@
 # vzxxbacq/orca-colab
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vzxxbacq/orca-colab) · [官网](https://orca.dev/plugins/vzxxbacq/orca-colab) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vzxxbacq/orca-colab) · [官网](https://orca.dev/plugins/vzxxbacq/orca-colab) · 个人维护 · 中文 README
 
 **让 Claude Code 等 AI 编码 agent 调用 Google Colab GPU 的插件与 CLI**
 

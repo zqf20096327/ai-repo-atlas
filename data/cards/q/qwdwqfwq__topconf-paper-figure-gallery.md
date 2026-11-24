@@ -1,6 +1,6 @@
 # qwdwqfwq/topconf-paper-figure-gallery
 
-⭐ 1,937 · JavaScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) · [官网](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · 个人维护 · 中文 README
+⭐ 2,072 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) · [官网](https://qwdwqfwq.github.io/topconf-paper-figure-gallery/) · 个人维护 · 中文 README
 
 **给科研人员提供顶会论文主图版式参考画廊与生图初稿工具**
 

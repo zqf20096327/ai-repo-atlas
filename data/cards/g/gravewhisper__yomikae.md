@@ -1,6 +1,6 @@
 # gravewhisper/yomikae
 
-⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravewhisper/yomikae) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravewhisper/yomikae) · 个人维护
 
 **浏览器内日文漫画原位翻译工具：OCR+LLM+图像修复**
 

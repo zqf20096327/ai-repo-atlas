@@ -1,6 +1,6 @@
 # KRLabsOrg/rulechef
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/KRLabsOrg/rulechef) · [官网](https://krlabsorg.github.io/rulechef/) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/KRLabsOrg/rulechef) · [官网](https://krlabsorg.github.io/rulechef/) · 组织维护
 
 **从标注示例学习规则模型的Python库，用LLM合成、推理免调用**
 

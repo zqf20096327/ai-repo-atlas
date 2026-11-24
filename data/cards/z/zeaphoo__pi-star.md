@@ -1,6 +1,6 @@
 # zeaphoo/pi-star
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/zeaphoo/pi-star) · [官网](quadhub.cloud/product/pi-star/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/zeaphoo/pi-star) · [官网](quadhub.cloud/product/pi-star/) · 个人维护 · 中文 README
 
 **pi coding agent 的跨平台桌面工作台，集编码循环于一窗**
 

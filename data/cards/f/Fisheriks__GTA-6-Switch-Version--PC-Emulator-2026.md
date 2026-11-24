@@ -1,6 +1,6 @@
 # Fisheriks/GTA-6-Switch-Version--PC-Emulator-2026
 
-⭐ 30 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Fisheriks/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Fisheriks/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
 
 **面向 Windows 用户的 GTA VI PC 版安装与优化指南站点**
 

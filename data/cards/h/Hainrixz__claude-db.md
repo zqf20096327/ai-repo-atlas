@@ -1,6 +1,6 @@
 # Hainrixz/claude-db
 
-⭐ 24 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/claude-db) · [官网](https://tododeia.com) · 个人维护
+⭐ 25 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/claude-db) · [官网](https://tododeia.com) · 个人维护
 
 **Claude Code 的多范式数据库设计/审计/迁移插件，离线可用**
 

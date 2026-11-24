@@ -1,6 +1,6 @@
 # Sentient-OS-Labs/sentient-os
 
-⭐ 777 · Swift · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Sentient-OS-Labs/sentient-os) · [官网](https://sentient-os.ai) · 组织维护
+⭐ 787 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sentient-OS-Labs/sentient-os) · [官网](https://sentient-os.ai) · 组织维护
 
 **Mac 上的本地个人 AI：理解你的生活上下文并代为执行任务**
 

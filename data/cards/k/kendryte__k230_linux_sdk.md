@@ -1,6 +1,6 @@
 # kendryte/k230_linux_sdk
 
-⭐ 68 · C · BSD-2-Clause · 推送 2026-11-19 · [GitHub](https://github.com/kendryte/k230_linux_sdk) · [官网](https://www.kendryte.com/zh/sdkResource/230linux) · 组织维护 · 中文 README
+⭐ 68 · C · BSD-2-Clause · 推送 2026-11-23 · [GitHub](https://github.com/kendryte/k230_linux_sdk) · [官网](https://www.kendryte.com/zh/sdkResource/230linux) · 组织维护 · 中文 README
 
 **K230 RISC-V 芯片的 Linux SDK：构建系统镜像与运行 AI Demo**
 

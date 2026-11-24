@@ -1,6 +1,6 @@
 # ray-project/ray
 
-⭐ 44,359 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ray-project/ray) · [官网](https://ray.io) · 组织维护
+⭐ 44,368 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ray-project/ray) · [官网](https://ray.io) · 组织维护
 
 **ML 工作负载的分布式计算引擎与 AI 库集**
 

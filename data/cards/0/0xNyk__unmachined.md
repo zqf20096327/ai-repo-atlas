@@ -1,6 +1,6 @@
 # 0xNyk/unmachined
 
-⭐ 12 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/0xNyk/unmachined) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/0xNyk/unmachined) · 个人维护
 
 **给 agent 的去 AI 腔技能：扫描并修整文本与 UI 模板痕迹**
 

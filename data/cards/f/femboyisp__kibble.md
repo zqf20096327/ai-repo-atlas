@@ -1,6 +1,6 @@
 # femboyisp/kibble
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-08-18 · [GitHub](https://github.com/femboyisp/kibble) · 个人维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-08-18 · [GitHub](https://github.com/femboyisp/kibble) · 个人维护
 
 **Rust 数据摄取与清洗工具：把任意来源加工成微调数据集和知识库**
 

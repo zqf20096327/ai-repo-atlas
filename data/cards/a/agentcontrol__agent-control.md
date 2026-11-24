@@ -1,6 +1,6 @@
 # agentcontrol/agent-control
 
-⭐ 340 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/agentcontrol/agent-control) · [官网](https://agentcontrol.dev) · 组织维护
+⭐ 341 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/agentcontrol/agent-control) · [官网](https://agentcontrol.dev) · 组织维护
 
 **给多 Agent 系统的集中式运行时护栏控制平面**
 

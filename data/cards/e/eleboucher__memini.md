@@ -1,6 +1,6 @@
 # eleboucher/memini
 
-⭐ 34 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/eleboucher/memini) · 个人维护
+⭐ 34 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/eleboucher/memini) · 个人维护
 
 **给 MCP 智能体提供持久分层记忆的 Go 单二进制服务**
 

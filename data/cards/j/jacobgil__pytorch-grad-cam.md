@@ -1,6 +1,6 @@
 # jacobgil/pytorch-grad-cam
 
-⭐ 13,015 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/jacobgil/pytorch-grad-cam) · [官网](https://jacobgil.github.io/pytorch-gradcam-book) · 个人维护
+⭐ 13,016 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/jacobgil/pytorch-grad-cam) · [官网](https://jacobgil.github.io/pytorch-gradcam-book) · 个人维护
 
 **PyTorch 计算机视觉可解释性库：多类 CAM 方法与评测指标**
 

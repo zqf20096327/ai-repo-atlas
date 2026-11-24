@@ -1,6 +1,6 @@
 # supElement/ComfyUI_MinimaxH3_AutoContext
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/supElement/ComfyUI_MinimaxH3_AutoContext) · 个人维护 · 中文 README
+⭐ 41 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/supElement/ComfyUI_MinimaxH3_AutoContext) · 个人维护 · 中文 README
 
 **ComfyUI 长视频生成节点：MiniMax H3 分段推理突破显存限制**
 

@@ -1,6 +1,6 @@
 # Dicklesworthstone/source_to_prompt_tui
 
-⭐ 23 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Dicklesworthstone/source_to_prompt_tui) · 个人维护
+⭐ 23 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Dicklesworthstone/source_to_prompt_tui) · 个人维护
 
 **把源码文件组合成 LLM 提示词的终端界面工具**
 

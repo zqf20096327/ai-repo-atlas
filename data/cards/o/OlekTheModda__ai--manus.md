@@ -1,6 +1,6 @@
 # OlekTheModda/ai--manus
 
-⭐ 177 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/OlekTheModda/ai--manus) · 个人维护
+⭐ 173 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/OlekTheModda/ai--manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：代用户运行代码并控制浏览器**
 

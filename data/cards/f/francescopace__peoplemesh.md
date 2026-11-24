@@ -1,6 +1,6 @@
 # francescopace/peoplemesh
 
-⭐ 12 · Java · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/francescopace/peoplemesh) · [官网](https://peoplemesh.org) · 个人维护
+⭐ 12 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/francescopace/peoplemesh) · [官网](https://peoplemesh.org) · 个人维护
 
 **面向企业内部的人员/机会语义匹配与发现平台**
 

@@ -1,6 +1,6 @@
 # JOINCLASS/ai-ceo-framework
 
-⭐ 61 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/JOINCLASS/ai-ceo-framework) · [官网](https://joinclass.co.jp/?utm_source=github&utm_medium=repo&utm_campaign=dx-cta-2026-11) · 组织维护 · 中文 README
+⭐ 62 · Shell · MIT · 推送 2026-11-17 · [GitHub](https://github.com/JOINCLASS/ai-ceo-framework) · [官网](https://joinclass.co.jp/?utm_source=github&utm_medium=repo&utm_campaign=dx-cta-2026-11) · 组织维护 · 中文 README
 
 **基于 Claude Code 的一人公司多 agent 运营框架**
 

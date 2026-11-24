@@ -1,6 +1,6 @@
 # notadev-iamaura/OneRAG
 
-⭐ 125 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/notadev-iamaura/OneRAG) · [官网](https://github.com/notadev-iamaura/OneRAG) · 个人维护 · 中文 README
+⭐ 125 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/notadev-iamaura/OneRAG) · [官网](https://github.com/notadev-iamaura/OneRAG) · 个人维护 · 中文 README
 
 **组件可插拔的 RAG 后端框架：一行配置切换向量库与 LLM**
 

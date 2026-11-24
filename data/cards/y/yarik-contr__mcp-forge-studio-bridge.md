@@ -1,6 +1,6 @@
 # yarik-contr/mcp-forge-studio-bridge
 
-⭐ 74 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/yarik-contr/mcp-forge-studio-bridge) · 个人维护
+⭐ 74 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/yarik-contr/mcp-forge-studio-bridge) · 个人维护
 
 **连接 AI 编码助手与 Roblox Studio 的 MCP 服务器及配套插件**
 

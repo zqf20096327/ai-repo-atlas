@@ -1,6 +1,6 @@
 # 0xwi11iam/Suijin
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/0xwi11iam/Suijin) · 个人维护
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/0xwi11iam/Suijin) · 个人维护
 
 **面向渗透测试者的全自主 Web 渗透/红队 agent 框架**
 

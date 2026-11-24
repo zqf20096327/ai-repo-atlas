@@ -1,6 +1,6 @@
 # Champ-X/MMA-RAG
 
-⭐ 20 · Python · 推送 2026-11-16 · [GitHub](https://github.com/Champ-X/MMA-RAG) · [官网](https://tessmora.xiangqingping.com/) · 组织维护 · 中文 README
+⭐ 22 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Champ-X/MMA-RAG) · [官网](https://tessmora.xiangqingping.com/) · 组织维护 · 中文 README
 
 **自托管多模态 RAG 工作台：统一检索文档/图片/音视频并给出带引用回答**
 

@@ -1,6 +1,6 @@
 # lizhiyao/oh-my-knowledge
 
-⭐ 25 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lizhiyao/oh-my-knowledge) · [官网](https://oh-my-knowledge.pages.dev) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lizhiyao/oh-my-knowledge) · [官网](https://oh-my-knowledge.pages.dev) · 个人维护 · 中文 README
 
 **面向 agent 用户与 AI 应用开发者的评测与知识维护工具**
 

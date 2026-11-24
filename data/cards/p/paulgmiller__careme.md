@@ -1,6 +1,6 @@
 # paulgmiller/careme
 
-⭐ 12 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/paulgmiller/careme) · [官网](https://careme.cooking) · 个人维护
+⭐ 12 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/paulgmiller/careme) · [官网](https://careme.cooking) · 个人维护
 
 **扫描本地超市库存并用 LLM 生成每周菜谱的 Web 应用**
 

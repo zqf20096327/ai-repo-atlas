@@ -1,6 +1,6 @@
 # langchain-ai/deepagents
 
-⭐ 31,518 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/deepagents) · [官网](https://docs.langchain.com/deepagents) · 组织维护
+⭐ 31,538 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/deepagents) · [官网](https://docs.langchain.com/deepagents) · 组织维护
 
 **开箱即用的 agent 框架：文件系统、子代理与上下文管理**
 

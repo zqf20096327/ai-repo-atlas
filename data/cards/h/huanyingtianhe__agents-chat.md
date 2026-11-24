@@ -1,6 +1,6 @@
 # huanyingtianhe/agents-chat
 
-⭐ 27 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/huanyingtianhe/agents-chat) · [官网](https://wljytt.japaneast.cloudapp.azure.com/) · 个人维护
+⭐ 27 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/huanyingtianhe/agents-chat) · [官网](https://wljytt.japaneast.cloudapp.azure.com/) · 个人维护
 
 **多 AI agent 聊天与编排界面，直连 ACP 协议 CLI agent**
 

@@ -1,6 +1,6 @@
 # lpalbou/AbstractCore
 
-⭐ 11 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/lpalbou/AbstractCore) · [官网](https://www.abstractcore.ai) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lpalbou/AbstractCore) · [官网](https://www.abstractcore.ai) · 个人维护
 
 **Python 的跨提供商 LLM 抽象层：一套 API 接本地与云端模型**
 

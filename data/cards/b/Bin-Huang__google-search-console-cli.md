@@ -1,6 +1,6 @@
 # Bin-Huang/google-search-console-cli
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Bin-Huang/google-search-console-cli) · 个人维护
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Bin-Huang/google-search-console-cli) · 个人维护
 
 **面向 AI agent 的 Google Search Console 命令行工具与技能包**
 

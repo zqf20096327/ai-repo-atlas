@@ -1,6 +1,6 @@
 # Antseed/antseed
 
-⭐ 168 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Antseed/antseed) · [官网](https://antseed.com) · 组织维护
+⭐ 174 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Antseed/antseed) · [官网](https://antseed.com) · 组织维护
 
 **P2P AI 推理服务网络：供给方与买方经 DHT 加密直连交易**
 

@@ -1,6 +1,6 @@
 # johnmarktaylor91/torchlens
 
-⭐ 714 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/johnmarktaylor91/torchlens) · 个人维护
+⭐ 714 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/johnmarktaylor91/torchlens) · 个人维护
 
 **神经网络内部观测库：捕获任意模型的激活、梯度与计算图**
 

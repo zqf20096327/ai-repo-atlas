@@ -1,6 +1,6 @@
 # QuestMeet/questmeet-skill
 
-⭐ 24 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/QuestMeet/questmeet-skill) · [官网](https://questmeet.ai) · 组织维护 · 中文 README
+⭐ 54 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/QuestMeet/questmeet-skill) · [官网](https://questmeet.ai) · 组织维护 · 中文 README
 
 **让 AI 代理接入 QuestMeet 机会网络撮合人脉的技能包**
 

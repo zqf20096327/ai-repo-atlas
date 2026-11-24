@@ -1,6 +1,6 @@
 # google-deepmind/code-verification
 
-⭐ 294 · Lean · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/code-verification) · [官网](https://google-deepmind.github.io/code-verification/) · 组织维护
+⭐ 297 · Lean · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/code-verification) · [官网](https://google-deepmind.github.io/code-verification/) · 组织维护
 
 **在 Lean 中形式化验证 Signal 机器码安全性的证明集合**
 

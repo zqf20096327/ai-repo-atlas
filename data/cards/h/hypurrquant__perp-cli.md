@@ -1,6 +1,6 @@
 # hypurrquant/perp-cli
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hypurrquant/perp-cli) · 组织维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hypurrquant/perp-cli) · 组织维护
 
 **多 DEX 永续合约交易 CLI，含 18 个 MCP 工具供 AI agent 调用**
 

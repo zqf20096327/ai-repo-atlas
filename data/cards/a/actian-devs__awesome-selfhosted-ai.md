@@ -1,6 +1,6 @@
 # actian-devs/awesome-selfhosted-ai
 
-⭐ 7 · Python · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/actian-devs/awesome-selfhosted-ai) · 组织维护
+⭐ 7 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/actian-devs/awesome-selfhosted-ai) · 组织维护
 
 **自托管 AI 工具策展清单：模型、推理、向量库、Agent 等分类收录**
 

@@ -1,6 +1,6 @@
 # initxy/noeta
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/initxy/noeta) · [官网](https://initxy.github.io/noeta/) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/initxy/noeta) · [官网](https://initxy.github.io/noeta/) · 个人维护 · 中文 README
 
 **自托管的 Claude Code 兼容编码 agent，多 worker 运行**
 

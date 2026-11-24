@@ -1,6 +1,6 @@
 # ManifoldKit/ManifoldKit
 
-⭐ 11 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ManifoldKit/ManifoldKit) · [官网](https://manifoldkit.github.io/ManifoldKit/) · 组织维护
+⭐ 11 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ManifoldKit/ManifoldKit) · [官网](https://manifoldkit.github.io/ManifoldKit/) · 组织维护
 
 **为 iOS/macOS 开发者提供的全栈 SwiftUI LLM 聊天框架**
 

@@ -1,6 +1,6 @@
 # ankimcp/anki-mcp-server-addon
 
-⭐ 109 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ankimcp/anki-mcp-server-addon) · [官网](https://ankimcp.ai) · 组织维护
+⭐ 110 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ankimcp/anki-mcp-server-addon) · [官网](https://ankimcp.ai) · 组织维护
 
 **Anki 插件：在 Anki 内运行 MCP 服务器，让 AI 助手操作卡组**
 

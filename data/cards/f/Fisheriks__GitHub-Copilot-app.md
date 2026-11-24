@@ -1,6 +1,6 @@
 # Fisheriks/GitHub-Copilot-app
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Fisheriks/GitHub-Copilot-app) · 组织维护
+⭐ 40 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Fisheriks/GitHub-Copilot-app) · 组织维护
 
 **GitHub 仓库软件工作的 agent 桌面控制中心**
 

@@ -1,6 +1,6 @@
 # nvk/llm-wiki
 
-⭐ 1,565 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nvk/llm-wiki) · [官网](https://llm-wiki.net/) · 个人维护
+⭐ 1,568 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nvk/llm-wiki) · [官网](https://llm-wiki.net/) · 个人维护
 
 **为 AI agent 编译知识库的多运行时插件/技能包**
 

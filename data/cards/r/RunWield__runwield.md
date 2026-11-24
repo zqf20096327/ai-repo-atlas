@@ -1,6 +1,6 @@
 # RunWield/runwield
 
-⭐ 60 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/RunWield/runwield) · [官网](https://www.runwield.dev) · 个人维护
+⭐ 60 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RunWield/runwield) · [官网](https://www.runwield.dev) · 个人维护
 
 **面向开发者的 AI 编码代理框架：先审计划再动代码**
 

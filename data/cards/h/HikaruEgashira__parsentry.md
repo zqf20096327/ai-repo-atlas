@@ -1,6 +1,6 @@
 # HikaruEgashira/parsentry
 
-⭐ 49 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/HikaruEgashira/parsentry) · [官网](https://hikaruegashira.github.io/parsentry/) · 个人维护
+⭐ 49 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/HikaruEgashira/parsentry) · [官网](https://hikaruegashira.github.io/parsentry/) · 个人维护
 
 **为 CLI AI 代理编排安全扫描的工具，生成威胁模型与并行分析提示**
 

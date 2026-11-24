@@ -1,6 +1,6 @@
 # robscc/ginno
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/robscc/ginno) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/robscc/ginno) · 个人维护 · 中文 README
 
 **本地优先的个人 AI agent 桌面应用，含可视化工作流与本地知识库**
 

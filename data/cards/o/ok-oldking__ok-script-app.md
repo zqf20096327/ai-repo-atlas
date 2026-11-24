@@ -1,6 +1,6 @@
 # ok-oldking/ok-script-app
 
-⭐ 228 · Python · 推送 2026-11-03 · [GitHub](https://github.com/ok-oldking/ok-script-app) · 个人维护 · 中文 README
+⭐ 229 · Python · 推送 2026-11-03 · [GitHub](https://github.com/ok-oldking/ok-script-app) · 个人维护 · 中文 README
 
 **基于 ok-script 的 Python 游戏自动化应用起步模板**
 

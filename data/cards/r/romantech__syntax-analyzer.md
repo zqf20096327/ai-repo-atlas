@@ -1,6 +1,6 @@
 # romantech/syntax-analyzer
 
-⭐ 17 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/romantech/syntax-analyzer) · [官网](https://syntax-analyzer.romantech.net) · 个人维护
+⭐ 17 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/romantech/syntax-analyzer) · [官网](https://syntax-analyzer.romantech.net) · 个人维护
 
 **面向英语学习者的英语句子句法分析与编辑 Web 应用**
 

@@ -1,6 +1,6 @@
 # mosynthkey/beat_this_cpp
 
-⭐ 17 · C++ · MIT · 推送 2026-07-01 · [GitHub](https://github.com/mosynthkey/beat_this_cpp) · 个人维护
+⭐ 18 · C++ · MIT · 推送 2026-07-01 · [GitHub](https://github.com/mosynthkey/beat_this_cpp) · 个人维护
 
 **给开发者的 C++ 音乐节拍检测器：transformer 模型定位节拍与强拍**
 

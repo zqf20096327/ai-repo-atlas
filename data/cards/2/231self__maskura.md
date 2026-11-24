@@ -1,6 +1,6 @@
 # 231self/maskura
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/231self/maskura) · [官网](https://maskura.dev) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/231self/maskura) · [官网](https://maskura.dev) · 组织维护
 
 **为 AI 代理提供对象存储数据隐私网关：过滤、脱敏与加密**
 

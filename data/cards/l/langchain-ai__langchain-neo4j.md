@@ -1,6 +1,6 @@
 # langchain-ai/langchain-neo4j
 
-⭐ 40 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/langchain-ai/langchain-neo4j) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langchain-neo4j) · 组织维护
 
 **LangChain 的 Neo4j 集成包**
 

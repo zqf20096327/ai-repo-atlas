@@ -1,6 +1,6 @@
 # theagentrouter/agent-router
 
-⭐ 2,433 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/theagentrouter/agent-router) · [官网](https://theagentrouter.ai/) · 组织维护
+⭐ 2,438 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/theagentrouter/agent-router) · [官网](https://theagentrouter.ai/) · 组织维护
 
 **为应用与平台团队统一接入生成式 AI 服务的 API 网关**
 

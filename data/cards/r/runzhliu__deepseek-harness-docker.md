@@ -1,6 +1,6 @@
 # runzhliu/deepseek-harness-docker
 
-⭐ 187 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/runzhliu/deepseek-harness-docker) · 个人维护 · 中文 README
+⭐ 190 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/runzhliu/deepseek-harness-docker) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的社区 Docker/K8s 封装：双架构镜像与多方式部署**
 

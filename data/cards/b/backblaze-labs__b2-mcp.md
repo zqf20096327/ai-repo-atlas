@@ -1,6 +1,6 @@
 # backblaze-labs/b2-mcp
 
-⭐ 48 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/backblaze-labs/b2-mcp) · [官网](https://backblaze-labs.github.io/b2-mcp/) · 组织维护
+⭐ 48 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/backblaze-labs/b2-mcp) · [官网](https://backblaze-labs.github.io/b2-mcp/) · 组织维护
 
 **Backblaze 官方 B2 云存储 MCP 服务器，供 AI 客户端操作存储**
 

@@ -1,6 +1,6 @@
 # Binfufu/Megu-bot
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Binfufu/Megu-bot) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Binfufu/Megu-bot) · 个人维护 · 中文 README
 
 **接入 QQ 的长期陪伴角色聊天机器人框架**
 

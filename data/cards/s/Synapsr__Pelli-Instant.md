@@ -1,6 +1,6 @@
 # Synapsr/Pelli-Instant
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Synapsr/Pelli-Instant) · [官网](https://pelli.io) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Synapsr/Pelli-Instant) · [官网](https://pelli.io) · 组织维护
 
 **摄影师的本地 AI 选片工具：自动剔除糊片闭眼与重复**
 

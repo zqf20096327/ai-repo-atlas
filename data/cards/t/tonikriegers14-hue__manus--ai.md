@@ -1,6 +1,6 @@
 # tonikriegers14-hue/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tonikriegers14-hue/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tonikriegers14-hue/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码与控制浏览器**
 

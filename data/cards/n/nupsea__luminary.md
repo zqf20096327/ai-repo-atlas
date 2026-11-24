@@ -1,6 +1,6 @@
 # nupsea/luminary
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nupsea/luminary) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nupsea/luminary) · 组织维护
 
 **本地优先的个人学习工作区：文档问答、笔记与 FSRS 闪卡复习**
 

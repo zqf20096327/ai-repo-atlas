@@ -1,6 +1,6 @@
 # litefuse/litefuse
 
-⭐ 116 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/litefuse/litefuse) · [官网](https://litefuse.ai) · 组织维护 · 中文 README
+⭐ 117 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/litefuse/litefuse) · [官网](https://litefuse.ai) · 组织维护 · 中文 README
 
 **开源 LLM 工程平台：团队协作开发、监控、评测与调试 AI 应用**
 

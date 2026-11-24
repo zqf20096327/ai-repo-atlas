@@ -1,6 +1,6 @@
 # chanzuckerberg/napari-hub
 
-⭐ 54 · TypeScript · MIT · 推送 2026-03-06 · [GitHub](https://github.com/chanzuckerberg/napari-hub) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **napari 插件的发现、安装与分享平台（已停止维护）**
 
@@ -11,7 +11,7 @@ Chan Zuckerberg Initiative 团队开发的 napari 插件聚合网站：帮助生
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

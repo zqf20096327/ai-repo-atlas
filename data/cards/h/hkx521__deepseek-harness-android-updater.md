@@ -1,6 +1,6 @@
 # hkx521/deepseek-harness-android-updater
 
-⭐ 25 · Java · MIT · 推送 2026-09-22 · [GitHub](https://github.com/hkx521/deepseek-harness-android-updater) · 个人维护 · 中文 README
+⭐ 26 · Java · MIT · 推送 2026-09-22 · [GitHub](https://github.com/hkx521/deepseek-harness-android-updater) · 个人维护 · 中文 README
 
 **把 DSH 内核打包成 APK，让 AI 通过 root/Shizuku 操作安卓手机**
 

@@ -1,6 +1,6 @@
 # Mahiron-hq/ai-dns
 
-⭐ 8 · PowerShell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Mahiron-hq/ai-dns) · 个人维护 · 中文 README
+⭐ 9 · PowerShell · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Mahiron-hq/ai-dns) · 个人维护 · 中文 README
 
 **Windows 用户一键筛选可用 smart DNS 访问 ChatGPT/Claude/Gemini**
 

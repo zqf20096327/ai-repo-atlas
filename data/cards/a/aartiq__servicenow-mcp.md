@@ -1,6 +1,6 @@
 # aartiq/servicenow-mcp
 
-⭐ 229 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aartiq/servicenow-mcp) · [官网](https://nowaikit.com) · 组织维护
+⭐ 230 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aartiq/servicenow-mcp) · [官网](https://nowaikit.com) · 组织维护
 
 **把 Claude/ChatGPT/Cursor 等 AI 客户端接入 ServiceNow 的 MCP 服务器**
 

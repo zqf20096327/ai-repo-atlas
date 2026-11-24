@@ -1,6 +1,6 @@
 # meirz911/manus--ai
 
-⭐ 176 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/meirz911/manus--ai) · 个人维护
+⭐ 172 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/meirz911/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 

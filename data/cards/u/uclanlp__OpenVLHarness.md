@@ -1,6 +1,6 @@
 # uclanlp/OpenVLHarness
 
-⭐ 563 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/uclanlp/OpenVLHarness) · [官网](https://openvlharness.github.io/) · 组织维护
+⭐ 573 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/uclanlp/OpenVLHarness) · [官网](https://openvlharness.github.io/) · 组织维护
 
 **给 MLLM 加视觉工具与多模态记忆的免训练 agent 框架**
 

@@ -1,6 +1,6 @@
 # citrusli2026/dsh-desktop
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/citrusli2026/dsh-desktop) · [官网](https://dsh-desktop.com) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/citrusli2026/dsh-desktop) · [官网](https://dsh-desktop.com) · 个人维护 · 中文 README
 
 **DeepSeek Harness 官方 WebUI 的非官方 Electron 桌面封装**
 

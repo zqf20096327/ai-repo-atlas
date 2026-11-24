@@ -1,6 +1,6 @@
 # SR88888888/zhiwei-ecommerce-cs-agent
 
-⭐ 19 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/SR88888888/zhiwei-ecommerce-cs-agent) · 个人维护 · 中文 README
+⭐ 20 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/SR88888888/zhiwei-ecommerce-cs-agent) · 个人维护 · 中文 README
 
 **电商客服 Agent 系统：意图分流+工具调用+RAG 处理订单物流售后咨询**
 

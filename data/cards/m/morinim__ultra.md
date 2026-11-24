@@ -1,6 +1,6 @@
 # morinim/ultra
 
-⭐ 20 · C++ · MPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/morinim/ultra) · [官网](https://ultraevolution.org/) · 个人维护
+⭐ 20 · C++ · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/morinim/ultra) · [官网](https://ultraevolution.org/) · 个人维护
 
 **C++23 进化算法框架：遗传编程/遗传算法/差分进化**
 

@@ -1,6 +1,6 @@
 # captain-majid/BWAPI-Revamped
 
-⭐ 12 · 推送 2026-03-11 · [GitHub](https://github.com/captain-majid/BWAPI-Revamped) · 个人维护
+⭐ 13 · 推送 2026-03-11 · [GitHub](https://github.com/captain-majid/BWAPI-Revamped) · 个人维护
 
 **给玩家的 BWAPI 一站式启动器：免配置人机对战 SC1 AI**
 

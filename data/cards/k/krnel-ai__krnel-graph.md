@@ -1,6 +1,6 @@
 # krnel-ai/krnel-graph
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/krnel-ai/krnel-graph) · [官网](https://krnel.ai) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-05-27 · [GitHub](https://github.com/krnel-ai/krnel-graph) · [官网](https://krnel.ai) · 组织维护
 
 **面向机制可解释性研究的 Python 计算图工具箱**
 

@@ -1,6 +1,6 @@
 # LostBeard/SpawnDev.ILGPU.ML
 
-⭐ 26 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/LostBeard/SpawnDev.ILGPU.ML) · [官网](https://lostbeard.github.io/SpawnDev.ILGPU.ML/) · 个人维护
+⭐ 26 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/LostBeard/SpawnDev.ILGPU.ML) · [官网](https://lostbeard.github.io/SpawnDev.ILGPU.ML/) · 个人维护
 
 **.NET 神经网络推理与训练引擎，一套 C# 内核跑六种后端**
 

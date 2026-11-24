@@ -1,6 +1,6 @@
 # fzn0x/watchtower
 
-⭐ 224 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/fzn0x/watchtower) · [官网](https://fzn0x.github.io/watchtower/) · 个人维护
+⭐ 225 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/fzn0x/watchtower) · [官网](https://fzn0x.github.io/watchtower/) · 个人维护
 
 **给安全测试人员的 LLM Agent 编排渗透测试自动化 CLI**
 

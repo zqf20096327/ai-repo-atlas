@@ -1,6 +1,6 @@
 # AbstractionsLab/idps-escape
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/AbstractionsLab/idps-escape) · [官网](https://abstractionslab.github.io/idps-escape/website/product-presentation.html) · 组织维护
+⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AbstractionsLab/idps-escape) · [官网](https://abstractionslab.github.io/idps-escape/website/product-presentation.html) · 组织维护
 
 **面向 SOC 的入侵检测防护系统：ML 异常检测加自动化响应**
 

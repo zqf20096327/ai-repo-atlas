@@ -1,6 +1,6 @@
 # Lykhoyda/ask-llm
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Lykhoyda/ask-llm) · [官网](https://lykhoyda.github.io/ask-llm/) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Lykhoyda/ask-llm) · [官网](https://lykhoyda.github.io/ask-llm/) · 个人维护
 
 **MCP 服务器：让编码助手内咨询其他厂商模型做代码评审**
 

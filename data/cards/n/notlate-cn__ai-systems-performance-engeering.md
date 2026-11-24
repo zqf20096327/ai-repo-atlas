@@ -1,6 +1,6 @@
 # notlate-cn/ai-systems-performance-engeering
 
-⭐ 120 · 推送 2026-07-24 · [GitHub](https://github.com/notlate-cn/ai-systems-performance-engeering) · [官网](https://aispe.notlate.cn) · 个人维护 · 中文 README
+⭐ 122 · 推送 2026-07-24 · [GitHub](https://github.com/notlate-cn/ai-systems-performance-engeering) · [官网](https://aispe.notlate.cn) · 个人维护 · 中文 README
 
 **AI 系统性能工程一书的中英对照翻译阅读站**
 

@@ -1,6 +1,6 @@
 # maziyarpanahi/openmed
 
-⭐ 5,834 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/maziyarpanahi/openmed) · [官网](https://openmed.life/) · 个人维护 · 中文 README
+⭐ 5,839 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/maziyarpanahi/openmed) · [官网](https://openmed.life/) · 个人维护 · 中文 README
 
 **本地优先的医疗临床 NER 与 PII 去识别化 SDK**
 

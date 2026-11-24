@@ -1,6 +1,6 @@
 # askvalet/valet
 
-⭐ 91 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/askvalet/valet) · [官网](https://askvalet.dev) · 组织维护
+⭐ 92 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/askvalet/valet) · [官网](https://askvalet.dev) · 组织维护
 
 **自托管的家庭服务器 AI 门户主页：聚合 185 个集成并可对话操作**
 

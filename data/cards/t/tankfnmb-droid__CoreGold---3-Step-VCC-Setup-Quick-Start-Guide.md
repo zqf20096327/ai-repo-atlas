@@ -1,6 +1,6 @@
 # tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide
 
-⭐ 98 · 推送 2026-10-30 · [GitHub](https://github.com/tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 99 · 推送 2026-10-30 · [GitHub](https://github.com/tankfnmb-droid/CoreGold---3-Step-VCC-Setup-Quick-Start-Guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **CoreGold 海外虚拟卡开卡充值的三步图文指南**
 

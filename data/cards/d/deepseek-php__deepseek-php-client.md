@@ -1,6 +1,6 @@
 # deepseek-php/deepseek-php-client
 
-⭐ 476 · PHP · MIT · 推送 2026-05-24 · [GitHub](https://github.com/deepseek-php/deepseek-php-client) · 组织维护 · 中文 README
+⭐ 475 · PHP · MIT · 推送 2026-05-24 · [GitHub](https://github.com/deepseek-php/deepseek-php-client) · 组织维护 · 中文 README
 
 **PHP 应用的 DeepSeek API 客户端 SDK**
 

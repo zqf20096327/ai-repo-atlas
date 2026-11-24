@@ -1,6 +1,6 @@
 # JetBrains/teamcity-cli
 
-⭐ 131 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/JetBrains/teamcity-cli) · [官网](https://jb.gg/tc/docs) · 组织维护
+⭐ 131 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/JetBrains/teamcity-cli) · [官网](https://jb.gg/tc/docs) · 组织维护
 
 **JetBrains 官方 TeamCity 命令行客户端，含 AI agent 技能**
 

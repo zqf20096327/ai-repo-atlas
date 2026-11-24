@@ -1,6 +1,6 @@
 # TauricResearch/Trading-R1
 
-⭐ 760 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/TauricResearch/Trading-R1) · [官网](https://tauric.ai) · 组织维护 · 中文 README
+⭐ 769 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/TauricResearch/Trading-R1) · [官网](https://arxiv.org/pdf/2509.11420) · 组织维护 · 中文 README
 
 **面向金融研究者的终端 AI 研究分析工具**
 

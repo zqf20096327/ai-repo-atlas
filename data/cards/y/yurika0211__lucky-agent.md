@@ -1,6 +1,6 @@
 # yurika0211/lucky-agent
 
-⭐ 17 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yurika0211/lucky-agent) · [官网](https://yurika0211.github.io/lucky-agent/) · 个人维护 · 中文 README
+⭐ 17 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yurika0211/lucky-agent) · [官网](https://yurika0211.github.io/lucky-agent/) · 个人维护 · 中文 README
 
 **Go 实现的 Agent 框架：长任务规划、长期记忆与多渠道运行时**
 

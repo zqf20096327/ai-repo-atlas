@@ -1,6 +1,6 @@
 # StaysUp/agentbus-cockpit
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/StaysUp/agentbus-cockpit) · [官网](https://agentbus.art) · 个人维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/StaysUp/agentbus-cockpit) · [官网](https://agentbus.art) · 个人维护
 
 **AgentBus 的自托管浏览器驾驶舱：查看会话、轮次与模型调用成本**
 

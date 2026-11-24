@@ -1,6 +1,6 @@
 # nexu-io/html-video
 
-⭐ 4,899 · HTML · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nexu-io/html-video) · [官网](https://open-design.ai/html-video) · 组织维护 · 中文 README
+⭐ 4,913 · HTML · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nexu-io/html-video) · [官网](https://open-design.ai/html-video) · 组织维护 · 中文 README
 
 **给编码 agent 用的本地 HTML→MP4 程序化视频生成工具**
 

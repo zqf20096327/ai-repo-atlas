@@ -1,6 +1,6 @@
 # termdock/termdock-issues
 
-⭐ 160 · Shell · 推送 2026-11-08 · [GitHub](https://github.com/termdock/termdock-issues) · [官网](https://termdock.com) · 组织维护 · 中文 README
+⭐ 160 · Shell · 推送 2026-11-23 · [GitHub](https://github.com/termdock/termdock-issues) · [官网](https://termdock.com) · 组织维护 · 中文 README
 
 **面向 AI 编码代理会话的 GPU 加速终端（macOS/Windows）**
 

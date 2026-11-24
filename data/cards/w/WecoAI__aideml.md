@@ -1,6 +1,6 @@
 # WecoAI/aideml
 
-⭐ 1,631 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/WecoAI/aideml) · [官网](https://weco.ai) · 组织维护
+⭐ 1,632 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/WecoAI/aideml) · [官网](https://weco.ai) · 组织维护
 
 **面向研究者的树搜索 ML 工程自动化 agent**
 

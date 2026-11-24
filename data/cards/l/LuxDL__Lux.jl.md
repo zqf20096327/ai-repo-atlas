@@ -1,6 +1,6 @@
 # LuxDL/Lux.jl
 
-⭐ 742 · Julia · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LuxDL/Lux.jl) · [官网](https://lux.csail.mit.edu/) · 个人维护
+⭐ 742 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LuxDL/Lux.jl) · [官网](https://lux.csail.mit.edu/) · 个人维护
 
 **Julia 语言深度学习框架：显式参数化建模，经 XLA 编译运行**
 

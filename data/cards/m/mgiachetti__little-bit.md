@@ -1,6 +1,6 @@
 # mgiachetti/little-bit
 
-⭐ 5 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mgiachetti/little-bit) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mgiachetti/little-bit) · 个人维护
 
 **LLM 亚1比特压缩方法的 PyTorch 复现研究库**
 

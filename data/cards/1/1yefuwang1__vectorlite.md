@@ -1,6 +1,6 @@
 # 1yefuwang1/vectorlite
 
-⭐ 360 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/1yefuwang1/vectorlite) · [官网](https://1yefuwang1.github.io/vectorlite/) · 个人维护
+⭐ 361 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/1yefuwang1/vectorlite) · [官网](https://1yefuwang1.github.io/vectorlite/) · 个人维护
 
 **SQLite 向量搜索扩展：通过 SQL 接口提供基于 HNSW 的 ANN 检索**
 

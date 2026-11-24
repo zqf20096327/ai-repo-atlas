@@ -1,6 +1,6 @@
 # tikoci/quickchr
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tikoci/quickchr) · [官网](https://tikoci.github.io/p/quickchr) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tikoci/quickchr) · [官网](https://tikoci.github.io/p/quickchr) · 个人维护
 
 **面向测试与脚本的 MikroTik CHR 虚拟机快速启动管理 CLI**
 

@@ -1,6 +1,6 @@
 # dadashi44/vue-llm
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dadashi44/vue-llm) · [官网](http://vue-llm.js.org/) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dadashi44/vue-llm) · [官网](http://vue-llm.js.org/) · 个人维护
 
 **Vue/Nuxt 开发者的 AI SDK：流式聊天与多模型接入**
 

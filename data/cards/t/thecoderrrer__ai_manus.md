@@ -1,6 +1,6 @@
 # thecoderrrer/ai_manus
 
-⭐ 150 · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/thecoderrrer/ai_manus) · 个人维护
+⭐ 148 · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/thecoderrrer/ai_manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：自动执行代码与浏览器操作**
 

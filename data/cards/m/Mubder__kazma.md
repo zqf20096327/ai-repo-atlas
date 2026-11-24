@@ -1,6 +1,6 @@
 # Mubder/kazma
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mubder/kazma) · [官网](https://kazma.ai/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Mubder/kazma) · [官网](https://kazma.ai/) · 个人维护
 
 **自托管双语（英/阿）AI agent 平台，行动前请求批准**
 

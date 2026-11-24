@@ -1,6 +1,6 @@
 # DemonDamon/AgenticX
 
-⭐ 1,159 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/DemonDamon/AgenticX) · [官网](https://www.agxbuilder.com/) · 组织维护 · 中文 README
+⭐ 1,177 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DemonDamon/AgenticX) · [官网](https://www.agxbuilder.com/) · 组织维护 · 中文 README
 
 **给开发者的统一多智能体平台：SDK+CLI+桌面端+企业版**
 

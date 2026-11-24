@@ -1,6 +1,6 @@
 # wshowlyrics/wshowlyrics
 
-⭐ 16 · C · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/wshowlyrics/wshowlyrics) · [官网](https://wshowlyrics.github.io/wshowlyrics/) · 个人维护
+⭐ 16 · C · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/wshowlyrics/wshowlyrics) · [官网](https://wshowlyrics.github.io/wshowlyrics/) · 个人维护
 
 **Linux 桌面歌词悬浮层：随播放同步显示与翻译歌词**
 

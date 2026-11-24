@@ -1,6 +1,6 @@
 # eullm/eullm
 
-⭐ 61 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/eullm/eullm) · [官网](https://www.eullm.eu) · 组织维护
+⭐ 61 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/eullm/eullm) · [官网](https://www.eullm.eu) · 组织维护
 
 **本地优先的欧盟合规 LLM 推理引擎：单一 Rust 二进制，兼容 Ollama/OpenAI API**
 

@@ -1,6 +1,6 @@
 # tysoncung/crypto-chart-patterns
 
-⭐ 27 · Jupyter Notebook · MIT · 推送 2026-05-05 · [GitHub](https://github.com/tysoncung/crypto-chart-patterns) · 个人维护
+⭐ 28 · Jupyter Notebook · MIT · 推送 2026-05-05 · [GitHub](https://github.com/tysoncung/crypto-chart-patterns) · 个人维护
 
 **加密货币 K 线图形态自动检测工具（15 类形态）**
 

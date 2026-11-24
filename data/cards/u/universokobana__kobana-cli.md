@@ -1,6 +1,6 @@
 # universokobana/kobana-cli
 
-⭐ 16 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/universokobana/kobana-cli) · [官网](https://www.kobana.com.br/ia/cli) · 组织维护
+⭐ 27 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/universokobana/kobana-cli) · [官网](https://www.kobana.com.br/ia/cli) · 组织维护
 
 **面向人类与 AI agent 的巴西多银行金融操作命令行工具**
 

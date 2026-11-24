@@ -1,6 +1,6 @@
 # penteos/penteos
 
-⭐ 7 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/penteos/penteos) · [官网](https://penteos.com) · 组织维护
+⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/penteos/penteos) · [官网](https://penteos.com) · 组织维护
 
 **给渗透测试者的 AI 测试工作台：侦察到报告一站完成**
 

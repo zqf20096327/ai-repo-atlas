@@ -1,6 +1,6 @@
 # AIDAChip-Inc/mem-plus-plus
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AIDAChip-Inc/mem-plus-plus) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AIDAChip-Inc/mem-plus-plus) · 组织维护
 
 **为 LLM agent 提供非破坏性长期组织记忆的存储与检索引擎**
 

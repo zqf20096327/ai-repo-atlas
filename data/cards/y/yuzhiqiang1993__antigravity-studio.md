@@ -1,6 +1,6 @@
 # yuzhiqiang1993/antigravity-studio
 
-⭐ 50 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yuzhiqiang1993/antigravity-studio) · 个人维护 · 中文 README
+⭐ 50 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yuzhiqiang1993/antigravity-studio) · 个人维护 · 中文 README
 
 **Antigravity 多账号管理与模型代理桌面客户端**
 

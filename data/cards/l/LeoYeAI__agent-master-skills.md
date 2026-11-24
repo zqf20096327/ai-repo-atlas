@@ -1,6 +1,6 @@
 # LeoYeAI/agent-master-skills
 
-⭐ 2,220 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LeoYeAI/agent-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 2,222 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LeoYeAI/agent-master-skills) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **面向 agent 运行时的技能策展合集（3200+，每日更新）**
 

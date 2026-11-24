@@ -1,6 +1,6 @@
 # modelflare-ai/AnyModelBot
 
-⭐ 4,973 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/modelflare-ai/AnyModelBot) · [官网](https://anymodel.bot/) · 组织维护 · 中文 README
+⭐ 4,993 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/modelflare-ai/AnyModelBot) · [官网](https://anymodel.bot/) · 组织维护 · 中文 README
 
 **本地优先的开源 AI 机器人团队桌面应用，多模型多渠道常驻干活**
 

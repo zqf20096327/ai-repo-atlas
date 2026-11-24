@@ -1,6 +1,6 @@
 # mrdav30/GridForge
 
-⭐ 22 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/mrdav30/GridForge) · [官网](https://mrdav30.github.io/GridForge/) · 个人维护
+⭐ 22 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mrdav30/GridForge) · [官网](https://mrdav30.github.io/GridForge/) · 个人维护
 
 **.NET 确定性体素网格库，用于空间划分与游戏开发**
 

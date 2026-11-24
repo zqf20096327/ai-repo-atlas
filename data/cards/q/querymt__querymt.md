@@ -1,6 +1,6 @@
 # querymt/querymt
 
-⭐ 13 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/querymt/querymt) · [官网](https://query.mt) · 组织维护
+⭐ 13 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/querymt/querymt) · [官网](https://query.mt) · 组织维护
 
 **面向开发者的统一 LLM 接口框架与插件式 provider 架构**
 

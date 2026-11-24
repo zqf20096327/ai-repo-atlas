@@ -1,6 +1,6 @@
 # labring/sealos-skills
 
-⭐ 84 · Python · 推送 2026-09-28 · [GitHub](https://github.com/labring/sealos-skills) · [官网](https://sealos.io/sealos-skills) · 组织维护 · 中文 README
+⭐ 85 · Python · 推送 2026-09-28 · [GitHub](https://github.com/labring/sealos-skills) · [官网](https://sealos.io/sealos-skills) · 组织维护 · 中文 README
 
 **让 AI agent 一句话把项目部署到 Sealos 云的技能插件**
 

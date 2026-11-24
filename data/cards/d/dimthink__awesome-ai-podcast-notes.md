@@ -1,6 +1,6 @@
 # dimthink/awesome-ai-podcast-notes
 
-⭐ 13 · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dimthink/awesome-ai-podcast-notes) · 个人维护 · 中文 README
+⭐ 14 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/dimthink/awesome-ai-podcast-notes) · 个人维护 · 中文 README
 
 **AI 长播客/YouTube 深度笔记开放资料库（983 篇）**
 

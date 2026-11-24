@@ -1,6 +1,6 @@
 # MoonshotAI/CombiBench
 
-⭐ 56 · Lean · MIT · 推送 2026-06-15 · [GitHub](https://github.com/MoonshotAI/CombiBench) · 组织维护
+⭐ 57 · Lean · MIT · 推送 2026-06-15 · [GitHub](https://github.com/MoonshotAI/CombiBench) · 组织维护
 
 **组合数学自动定理证明基准：100 道 Lean 4 形式化题**
 

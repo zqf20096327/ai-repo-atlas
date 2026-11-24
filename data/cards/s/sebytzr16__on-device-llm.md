@@ -1,6 +1,6 @@
 # sebytzr16/on-device-llm
 
-⭐ 29 · Dart · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/sebytzr16/on-device-llm) · [官网](https://github.com/sebytzr16/on-device-llm/releases/latest) · 个人维护
+⭐ 31 · Dart · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/sebytzr16/on-device-llm) · [官网](https://github.com/sebytzr16/on-device-llm/releases/latest) · 个人维护
 
 **Android/Windows 本地离线 AI 助手：手机或 PC 上运行 GGUF 模型**
 

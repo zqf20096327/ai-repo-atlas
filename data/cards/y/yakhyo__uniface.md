@@ -1,6 +1,6 @@
 # yakhyo/uniface
 
-⭐ 2,286 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yakhyo/uniface) · [官网](https://yakhyo.github.io/uniface/) · 个人维护 · 中文 README
+⭐ 2,293 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/yakhyo/uniface) · [官网](https://yakhyo.github.io/uniface/) · 个人维护 · 中文 README
 
 **Python 人脸分析库：检测/识别/属性等 15 类任务**
 

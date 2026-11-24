@@ -1,10 +1,10 @@
 # onehumanbeing/esp32-iphone-agent
 
-⭐ 5,227 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://manina.ai?ref=github) · 个人维护 · 中文 README
+⭐ 5,276 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/onehumanbeing/esp32-iphone-agent) · [官网](https://manina.ai?ref=github) · 个人维护 · 中文 README
 
-**用 $7 ESP32 让 AI 视觉模型操控真实 iPhone**
+**用 $7 ESP32 板让 AI 模型操作真实 iPhone**
 
-软硬结合的 iPhone 自动化方案：ESP32-S3 板作为 AirPlay 接收端镜像屏幕（H.264 直传，TCP :7201），同时充当 USB/蓝牙 HID 鼠标键盘，配套 iOS 应用解码画面后发送截图给任意 OpenAI 兼容视觉模型，由 planner/actor 两级模型生成点击、滑动、输入等动作，并通过指针追踪、预点抖动校正等机制闭合控制回路。无需 Mac、开发者账号或越狱；每次运行在手机上留有可回放、可导出的 trace。提供 TestFlight 应用、浏览器刷写固件路径，以及可被编码代理调用的 MCP 服务器与 Claude Code 插件。
+通过 ESP32-S3 板让 AI 视觉模型控制真实 iPhone：屏幕经 AirPlay 镜像到板载热点并转发给手机上的 App，App 解码后将截图发给任意 OpenAI 兼容视觉模型，由 planner/actor 生成点击、滑动、输入等动作，经 USB/蓝牙 HID 鼠标键盘执行；指针自动校准、断连暂停恢复、每步可回放并导出 trace。无需越狱、开发者账号或常驻电脑；iOS 16.4+，App 经 TestFlight 分发，也提供 npm CLI 以 MCP 方式供编程 agent 调用。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- AirPlay 镜像（板端 H.264 直传）+ USB/蓝牙 HID 输入组成"眼睛与手"
-- planner/actor 双模型架构，可分别指定模型并支持 extra body JSON 定制
-- esp32agent CLI 提供 MCP 服务器，可被 Claude Code/Cursor 等编码代理驱动
-- 运行留痕：逐步回放、截图与标注导出，供其他 agent 分析
+- AirPlay 接收 + USB/蓝牙 HID 输入实现无越狱 iPhone 操作
+- 支持任意 OpenAI 兼容视觉端点，可分别配置 planner 与 actor 模型
+- esp32agent CLI 作为 MCP server，可被 Claude Code/Cursor 等调用
+- 运行记录逐帧回放并支持导出 trace 供其他 agent 分析
 
 ## 适用场景
 
-- 让 AI 代为完成 iPhone 上的 App 操作任务（如打开设置连 Wi-Fi）
-- 通过 Siri/快捷方式/控制中心触发已保存的自动任务
-- 把 iPhone 作为 MCP 服务器接入本地编码代理工作流
-- 在无 Mac、无开发者账号的条件下做 iOS UI 自动化实验
+- 让 AI 自动完成 iPhone 上的应用操作任务
+- 为 computer-use 研究采集带截图与动作的真实操作轨迹
+- 通过 MCP 让本机编程 agent 远程驱动一台 iPhone
 
 ## 场景标签
 
-`GUI 自动化` · 领域:效率与自动化
+`GUI 自动化` `编码 Agent` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L3:  An AI agent uses a real iPhone like a person.
 > L89: - **Brain — the app.** The app decodes the stream, sends screenshots to any OpenAI-compatible vision model, and run
-> L90:  a planner and an actor: tap, swipe, draw, type, press keys, go home, finish. It runs in the background while it
-> L216: - Any OpenAI-compatible vision endpoint works (vLLM, SGLang, llama.cpp, Ollama, cloud APIs). The app lists the
+> L222: - Any OpenAI-compatible vision endpoint works (vLLM, SGLang, llama.cpp, Ollama, cloud APIs). The app lists the
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `93529f5acb81` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ba93866fa9cf` · [字段定义](../../DATASET.md)*

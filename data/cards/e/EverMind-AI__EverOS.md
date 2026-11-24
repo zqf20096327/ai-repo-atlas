@@ -1,6 +1,6 @@
 # EverMind-AI/EverOS
 
-⭐ 13,969 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护 · 中文 README
+⭐ 13,980 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/EverMind-AI/EverOS) · [官网](https://evermind.ai/everos) · 组织维护 · 中文 README
 
 **给 AI agent 提供跨应用可携带的本地长期记忆层**
 

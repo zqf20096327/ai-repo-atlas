@@ -1,6 +1,6 @@
 # Cameleering/cameleer
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Cameleering/cameleer) · [官网](https://cameleer.ing) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Cameleering/cameleer) · [官网](https://cameleer.ing) · 组织维护
 
 **为 AI Agent 提供 Rust 实现的可靠动作层：路由即 MCP 工具**
 

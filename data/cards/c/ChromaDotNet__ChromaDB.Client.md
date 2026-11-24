@@ -1,6 +1,6 @@
 # ChromaDotNet/ChromaDB.Client
 
-⭐ 36 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ChromaDotNet/ChromaDB.Client) · [官网](https://chromadotnet.org) · 组织维护
+⭐ 36 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ChromaDotNet/ChromaDB.Client) · [官网](https://chromadotnet.org) · 组织维护
 
 **Chroma 向量数据库的 .NET 客户端库，支持 Chroma Cloud**
 

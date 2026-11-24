@@ -1,6 +1,6 @@
 # tommy0103/obelisk
 
-⭐ 970 · JavaScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/tommy0103/obelisk) · [官网](https://obelisk.antinomie.org) · 个人维护 · 中文 README
+⭐ 970 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/tommy0103/obelisk) · [官网](https://obelisk.antinomie.org) · 个人维护 · 中文 README
 
 **把编码 Agent 历史会话索引成 SQLite，供 Agent 查询、人浏览**
 

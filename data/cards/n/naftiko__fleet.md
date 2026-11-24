@@ -1,6 +1,6 @@
 # naftiko/fleet
 
-⭐ 14 · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/naftiko/fleet) · [官网](https://shipyard.naftiko.io/fleet/) · 组织维护
+⭐ 14 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/naftiko/fleet) · [官网](https://shipyard.naftiko.io/fleet/) · 组织维护
 
 **面向开发团队的 Spec 驱动 API 集成平台（三组件）**
 

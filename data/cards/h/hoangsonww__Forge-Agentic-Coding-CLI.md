@@ -1,6 +1,6 @@
 # hoangsonww/Forge-Agentic-Coding-CLI
 
-⭐ 27 · TypeScript · MIT · 推送 2026-09-27 · [GitHub](https://github.com/hoangsonww/Forge-Agentic-Coding-CLI) · [官网](https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hoangsonww/Forge-Agentic-Coding-CLI) · [官网](https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/) · 个人维护
 
 **本地优先的多智能体软件工程运行时（CLI/REPL/UI）**
 

@@ -1,6 +1,6 @@
 # hope1026/weppy-roblox-mcp
 
-⭐ 83 · PowerShell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/hope1026/weppy-roblox-mcp) · [官网](https://weppyai.com) · 个人维护
+⭐ 84 · PowerShell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/hope1026/weppy-roblox-mcp) · [官网](https://weppyai.com) · 个人维护
 
 **让 AI agent 直接操作 Roblox Studio 的 MCP 服务器与插件**
 

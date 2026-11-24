@@ -1,6 +1,6 @@
 # VasiHemanth/tokentelemetry
 
-⭐ 387 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/VasiHemanth/tokentelemetry) · [官网](https://tokentelemetry.com/docs/) · 个人维护
+⭐ 387 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VasiHemanth/tokentelemetry) · [官网](https://tokentelemetry.com/docs/) · 个人维护
 
 **本地观测面板：追踪 AI 编程/自主 agent 的 token、成本与会话**
 

@@ -1,6 +1,6 @@
 # JuliaDecisionFocusedLearning/DecisionFocusedLearningBenchmarks.jl
 
-⭐ 17 · Julia · MIT · 推送 2026-11-20 · [GitHub](https://github.com/JuliaDecisionFocusedLearning/DecisionFocusedLearningBenchmarks.jl) · 组织维护
+⭐ 17 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JuliaDecisionFocusedLearning/DecisionFocusedLearningBenchmarks.jl) · 组织维护
 
 **面向决策聚焦学习算法评测的 Julia 基准问题集**
 

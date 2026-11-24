@@ -1,6 +1,6 @@
 # mohamedhamdytaha/manus--ai
 
-⭐ 175 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mohamedhamdytaha/manus--ai) · 个人维护
+⭐ 171 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/mohamedhamdytaha/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI Agent，可代为执行代码与浏览器操作**
 

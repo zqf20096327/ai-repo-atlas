@@ -1,6 +1,6 @@
 # CrowPus/Zelyq
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CrowPus/Zelyq) · [官网](https://zelyq.com) · 组织维护
+⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/CrowPus/Zelyq) · [官网](https://zelyq.com) · 组织维护
 
 **自托管 AI 应用构建平台：描述需求，Agent 在真实工作区生成并部署应用**
 

@@ -1,6 +1,6 @@
 # poweruserz/OpenTokenUsage
 
-⭐ 61 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/poweruserz/OpenTokenUsage) · [官网](https://opentokenusage.app) · 个人维护 · 中文 README
+⭐ 64 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/poweruserz/OpenTokenUsage) · [官网](https://opentokenusage.app) · 个人维护 · 中文 README
 
 **Windows 11 托盘应用：集中显示各 AI 编程订阅的用量限额**
 

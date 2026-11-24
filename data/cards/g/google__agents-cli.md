@@ -1,6 +1,6 @@
 # google/agents-cli
 
-⭐ 6,392 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google/agents-cli) · [官网](https://google.github.io/agents-cli/) · 组织维护
+⭐ 6,397 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/google/agents-cli) · [官网](https://google.github.io/agents-cli/) · 组织维护
 
 **让编码助手学会在 Google Cloud 上构建、评估、部署 AI Agent 的 CLI**
 

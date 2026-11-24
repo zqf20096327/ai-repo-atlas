@@ -1,6 +1,6 @@
 # hiruhiru2005/sync-strata
 
-⭐ 88 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hiruhiru2005/sync-strata) · 个人维护
+⭐ 99 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hiruhiru2005/sync-strata) · 个人维护
 
 **在单台家用 PC 上一键运行 125B MoE 模型的本地 LLM 应用**
 

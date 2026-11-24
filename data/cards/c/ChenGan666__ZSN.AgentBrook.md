@@ -1,6 +1,6 @@
 # ChenGan666/ZSN.AgentBrook
 
-⭐ 24 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ChenGan666/ZSN.AgentBrook) · [官网](https://agentbrook.com) · 个人维护 · 中文 README
+⭐ 24 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ChenGan666/ZSN.AgentBrook) · [官网](https://agentbrook.com) · 个人维护 · 中文 README
 
 **企业级 AI 智能体编排平台：可视化工作流+RAG+MCP**
 

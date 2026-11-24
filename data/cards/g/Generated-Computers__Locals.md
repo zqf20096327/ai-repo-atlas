@@ -1,6 +1,6 @@
 # Generated-Computers/Locals
 
-⭐ 687 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Generated-Computers/Locals) · [官网](https://generatedcomputers.com) · 组织维护
+⭐ 810 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Generated-Computers/Locals) · [官网](https://generatedcomputers.com) · 组织维护
 
 **Mac 上为多 agent 并行设计的本地推理服务器**
 

@@ -1,6 +1,6 @@
 # vllm-project/perf-eval
 
-⭐ 19 · Python · 推送 2026-11-18 · [GitHub](https://github.com/vllm-project/perf-eval) · 组织维护
+⭐ 19 · Python · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/perf-eval) · 组织维护
 
 **vLLM 的性能基准与准确率评测工作负载仓库**
 

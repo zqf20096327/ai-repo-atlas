@@ -1,6 +1,6 @@
 # contember/okena
 
-⭐ 104 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/contember/okena) · [官网](https://www.okena.dev) · 组织维护
+⭐ 104 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/contember/okena) · [官网](https://www.okena.dev) · 组织维护
 
 **Rust 原生终端复用器，带 AI 工具状态与用量集成**
 

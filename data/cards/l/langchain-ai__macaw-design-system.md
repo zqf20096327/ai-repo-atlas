@@ -1,6 +1,6 @@
 # langchain-ai/macaw-design-system
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/macaw-design-system) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/macaw-design-system) · 组织维护
 
 **LangChain 产品套件共享的 React 设计系统与组件库**
 

@@ -1,6 +1,6 @@
 # capture0x/AdAgent
 
-⭐ 11 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/capture0x/AdAgent) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-06-03 · [GitHub](https://github.com/capture0x/AdAgent) · 个人维护
 
 **AI 驱动的 AD 攻防测试 agent，供授权红队自动化执行攻击链**
 

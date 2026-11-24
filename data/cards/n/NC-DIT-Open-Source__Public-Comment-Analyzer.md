@@ -1,6 +1,6 @@
 # NC-DIT-Open-Source/Public-Comment-Analyzer
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/NC-DIT-Open-Source/Public-Comment-Analyzer)
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NC-DIT-Open-Source/Public-Comment-Analyzer)
 
 **政府公共意见批量分析工具：上传表格获取逐条分析与汇总**
 

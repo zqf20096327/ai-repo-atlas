@@ -1,6 +1,6 @@
 # kyshipit/tech-notes
 
-⭐ 65 · Shell · CC-BY-SA-4.0 · 推送 2026-11-18 · [GitHub](https://github.com/kyshipit/tech-notes) · 个人维护 · 中文 README
+⭐ 68 · Shell · CC-BY-SA-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/kyshipit/tech-notes) · 个人维护 · 中文 README
 
 **嵌入式/边缘AI/机器人/物联网技术笔记合集，持续更新**
 

@@ -1,6 +1,6 @@
 # kennymckormick/pyskl
 
-⭐ 1,271 · Python · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/kennymckormick/pyskl) · 个人维护
+⭐ 1,270 · Python · Apache-2.0 · 推送 2026-02-19 · [GitHub](https://github.com/kennymckormick/pyskl) · 个人维护
 
 **基于 PyTorch 的骨架动作识别工具箱**
 

@@ -1,6 +1,6 @@
 # Mag1cFall/AIStudio2API
 
-⭐ 1,135 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mag1cFall/AIStudio2API) · 个人维护 · 中文 README
+⭐ 1,165 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mag1cFall/AIStudio2API) · 个人维护 · 中文 README
 
 **把 Google AI Studio 网页反代成 OpenAI/Anthropic/Gemini 兼容 API 的代理服务**
 

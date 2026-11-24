@@ -1,6 +1,6 @@
 # bloodf/durindoor
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bloodf/durindoor) · [官网](https://www.durindoor.app/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/bloodf/durindoor) · [官网](https://www.durindoor.app/) · 个人维护
 
 **自托管 AI 网关：统一接入多家提供商订阅、API key 与本地模型**
 

@@ -1,6 +1,6 @@
 # mrhlaingbwardev/agentic-hacking-skills
 
-⭐ 326 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/mrhlaingbwardev/agentic-hacking-skills) · 个人维护 · 中文 README
+⭐ 325 · JavaScript · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/mrhlaingbwardev/agentic-hacking-skills) · 个人维护 · 中文 README
 
 **《Agentic Hacking》电子书配套的 agent 技能与 MCP 配置合集**
 

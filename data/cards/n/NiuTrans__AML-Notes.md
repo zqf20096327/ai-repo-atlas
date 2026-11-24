@@ -1,6 +1,6 @@
 # NiuTrans/AML-Notes
 
-⭐ 54 · TeX · 推送 2026-10-18 · [GitHub](https://github.com/NiuTrans/AML-Notes) · 组织维护 · 中文 README
+⭐ 55 · TeX · 推送 2026-10-18 · [GitHub](https://github.com/NiuTrans/AML-Notes) · 组织维护 · 中文 README
 
 **面向生成式 AI 时代的高级机器学习教材（东北大学NLP实验室）**
 

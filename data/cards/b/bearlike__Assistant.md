@@ -1,6 +1,6 @@
 # bearlike/Assistant
 
-⭐ 43 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bearlike/Assistant) · [官网](https://docs.mewbo.com/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bearlike/Assistant) · [官网](https://docs.mewbo.com/) · 个人维护
 
 **开源 agent 工作栈：长任务自动化、代码库 wiki 问答与跨工具搜索**
 

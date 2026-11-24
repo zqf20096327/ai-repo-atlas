@@ -1,6 +1,6 @@
 # OmegaMc1331/agentic-software-factory
 
-⭐ 28 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/OmegaMc1331/agentic-software-factory) · 个人维护
+⭐ 29 · Rust · MIT · 推送 2026-10-26 · [GitHub](https://github.com/OmegaMc1331/agentic-software-factory) · 个人维护
 
 **本地多智能体编码运行时：编排编码 agent 完成规划、审查与集成**
 

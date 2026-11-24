@@ -1,6 +1,6 @@
 # apelabs-dev/sur9e
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/apelabs-dev/sur9e) · [官网](https://sur9e.com/) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/apelabs-dev/sur9e) · [官网](https://sur9e.com/) · 组织维护
 
 **本地自托管的 AI 求职工具箱：评估职位、筛选 JD、定制简历**
 

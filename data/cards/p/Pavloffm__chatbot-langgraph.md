@@ -1,6 +1,6 @@
 # Pavloffm/chatbot-langgraph
 
-⭐ 5 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/Pavloffm/chatbot-langgraph) · 个人维护
+⭐ 5 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/Pavloffm/chatbot-langgraph) · [官网](https://mykhailo-pavlov.vercel.app/en/projects/ai-knowledge-assistant) · 个人维护
 
 **本地优先 AI 聊天应用：持久会话、流式回复、可选联网搜索**
 

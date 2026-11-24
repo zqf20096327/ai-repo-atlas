@@ -1,6 +1,6 @@
 # ooples/token-optimizer-mcp
 
-⭐ 591 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ooples/token-optimizer-mcp) · [官网](https://www.npmjs.com/package/@ooples/token-optimizer-mcp) · 组织维护
+⭐ 594 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ooples/token-optimizer-mcp) · [官网](https://www.npmjs.com/package/@ooples/token-optimizer-mcp) · 组织维护
 
 **为 AI 编程代理压缩上下文并核算 token 账单的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # arthurle3210/SwpilotCLI
 
-⭐ 37 · C# · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/arthurle3210/SwpilotCLI) · 个人维护
+⭐ 38 · C# · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/arthurle3210/SwpilotCLI) · 个人维护
 
 **嵌入 Claude Code/Codex CLI 的 SolidWorks AI 自动化插件**
 

@@ -1,6 +1,6 @@
 # tryAGI/Anthropic
 
-⭐ 44 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tryAGI/Anthropic) · [官网](https://tryagi.github.io/Anthropic/) · 组织维护
+⭐ 44 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tryAGI/Anthropic) · [官网](https://tryagi.github.io/Anthropic/) · 组织维护
 
 **C#/.NET 开发者调用 Anthropic API 的官方规格生成 SDK**
 

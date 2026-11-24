@@ -1,6 +1,6 @@
 # abdulmominsakib/localmind
 
-⭐ 341 · Dart · MIT · 推送 2026-11-20 · [GitHub](https://github.com/abdulmominsakib/localmind) · 个人维护
+⭐ 343 · Dart · MIT · 推送 2026-11-20 · [GitHub](https://github.com/abdulmominsakib/localmind) · 个人维护
 
 **移动端本地 LLM 聊天客户端：离线跑 GGUF 模型或连接自有服务器**
 

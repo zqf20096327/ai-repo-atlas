@@ -1,6 +1,6 @@
 # buttheadtrenton16-byte/ai--manus
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/buttheadtrenton16-byte/ai--manus) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/buttheadtrenton16-byte/ai--manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：代用户运行代码与控制浏览器**
 

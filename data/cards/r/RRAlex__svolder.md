@@ -1,6 +1,6 @@
 # RRAlex/svolder
 
-⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/RRAlex/svolder) · 个人维护
+⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RRAlex/svolder) · 个人维护
 
 **从 Linux 控制 Schiit Forkbeard 蓝牙音频设备的 CLI/TUI/守护进程套件**
 

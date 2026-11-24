@@ -1,6 +1,6 @@
 # Mark-Life/telegram-claude-codex
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/Mark-Life/telegram-claude-codex) · [官网](https://andrey-markin.com/projects/telegram-claude) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mark-Life/telegram-claude-codex) · [官网](https://andrey-markin.com/projects/telegram-claude) · 个人维护
 
 **在 VPS 上通过 Telegram bot 运行 Claude Code/Codex 的接入层**
 

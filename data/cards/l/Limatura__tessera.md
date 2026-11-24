@@ -1,6 +1,6 @@
 # Limatura/tessera
 
-⭐ 83 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Limatura/tessera) · [官网](https://tessera-docs-three.vercel.app) · 个人维护 · 中文 README
+⭐ 84 · Rust · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Limatura/tessera) · [官网](https://tessera-docs-three.vercel.app) · 个人维护 · 中文 README
 
 **自托管临时文件/文本分享服务，到期或达下载上限后自动删除**
 

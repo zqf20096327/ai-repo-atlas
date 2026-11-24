@@ -1,6 +1,6 @@
 # op7418/guizang-social-card-skill
 
-⭐ 8,227 · HTML · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/op7418/guizang-social-card-skill) · [官网](https://github.com/op7418/guizang-social-card-skill) · 个人维护 · 中文 README
+⭐ 8,231 · HTML · AGPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/op7418/guizang-social-card-skill) · [官网](https://github.com/op7418/guizang-social-card-skill) · 个人维护 · 中文 README
 
 **给 Agent 用的技能：从小红书图文与公众号封面**
 

@@ -1,6 +1,6 @@
 # clay-good/anvilate
 
-⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/clay-good/anvilate) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/clay-good/anvilate) · 个人维护
 
 **本地优先的机械零件工程校核工具：生成参数化 CAD 文件与逐条引用规范的校核记分卡**
 

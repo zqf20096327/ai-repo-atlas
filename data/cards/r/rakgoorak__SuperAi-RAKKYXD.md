@@ -1,6 +1,6 @@
 # rakgoorak/SuperAi-RAKKYXD
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rakgoorak/SuperAi-RAKKYXD) · [官网](https://rakgoorak.github.io/SuperAi-RAKKYXD/) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rakgoorak/SuperAi-RAKKYXD) · [官网](https://rakgoorak.github.io/SuperAi-RAKKYXD/) · 个人维护 · 中文 README
 
 **统一多家 AI 编程助手的本地优先桌面工作区**
 

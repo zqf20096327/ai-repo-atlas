@@ -1,6 +1,6 @@
 # mangiucugna/json_repair
 
-⭐ 5,137 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mangiucugna/json_repair) · [官网](https://mangiucugna.github.io/json_repair/) · 个人维护
+⭐ 5,138 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mangiucugna/json_repair) · [官网](https://mangiucugna.github.io/json_repair/) · 个人维护
 
 **修复 LLM 与日志中畸形 JSON 的 Python 库**
 

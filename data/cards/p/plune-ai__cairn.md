@@ -1,6 +1,6 @@
 # plune-ai/cairn
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/plune-ai/cairn) · [官网](https://plune.ai/cairn) · 组织维护
+⭐ 35 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/plune-ai/cairn) · [官网](https://plune.ai/cairn) · 组织维护
 
 **自主 QA 代理：探索 Web 应用并生成可运行的 Playwright 测试**
 

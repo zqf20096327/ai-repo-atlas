@@ -1,6 +1,6 @@
 # langchain-ai/langchain-aws
 
-⭐ 354 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/langchain-aws) · 组织维护
+⭐ 354 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/langchain-aws) · 组织维护
 
 **为 LangChain/LangGraph 提供 AWS 服务集成组件的 Python 库**
 

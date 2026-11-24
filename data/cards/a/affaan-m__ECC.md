@@ -1,6 +1,6 @@
 # affaan-m/ECC
 
-⭐ 308,911 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/affaan-m/ECC) · [官网](https://ecc.tools) · 个人维护
+⭐ 309,590 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/affaan-m/ECC) · [官网](https://ecc.tools) · 个人维护
 
 **为 AI 编码 agent 提供 72 agents/328 skills 的工程化协调系统**
 

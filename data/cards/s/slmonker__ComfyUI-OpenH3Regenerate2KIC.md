@@ -1,6 +1,6 @@
 # slmonker/ComfyUI-OpenH3Regenerate2KIC
 
-⭐ 55 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/slmonker/ComfyUI-OpenH3Regenerate2KIC) · [官网](https://huggingface.co/slmonker/Open-H3-Regenerate-2K-IC-ComfyUI) · 个人维护 · 中文 README
+⭐ 56 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/slmonker/ComfyUI-OpenH3Regenerate2KIC) · [官网](https://huggingface.co/slmonker/Open-H3-Regenerate-2K-IC-ComfyUI) · 个人维护 · 中文 README
 
 **在 ComfyUI 中运行 Open-H3-Regenerate-2K 视频精修的节点与工作流**
 

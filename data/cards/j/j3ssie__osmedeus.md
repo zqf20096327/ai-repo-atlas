@@ -1,10 +1,10 @@
 # j3ssie/osmedeus
 
-⭐ 6,664 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护
+⭐ 6,670 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/j3ssie/osmedeus) · [官网](https://www.osmedeus.org/) · 个人维护
 
-**安全工作流编排引擎：以 YAML 声明式自动化侦察与扫描**
+**面向安全工作者的 YAML 声明式工作流编排引擎**
 
-面向安全测试的声明式编排引擎，将复杂工作流定义为可审计的 YAML，支持条件分支、事件驱动调度、Redis 主从分布式执行与多 runner（host/Docker/SSH）。提供 80+ 工具函数（nmap 集成、SSH 执行、SARIF 解析等）、云端扫描（AWS/GCP/Azure 等）、REST API 与 Web UI。其中 LLM 部分为 Agentic 步骤：工具调用循环、子代理编排，并支持 Claude Code、Codex 等 ACP 子进程代理。以安装脚本、npm 包、Docker 镜像及预编译二进制分发。
+以 YAML 定义安全自动化工作流的编排引擎，支持 hooks、条件分支与多运行器（host/Docker/SSH），基于 Redis 的 master-worker 分布式执行，内置 80+ 工具函数（nmap 集成、SARIF 解析、CDN/WAF 分类等），提供事件驱动调度、云端扫描（DigitalOcean/AWS/GCP 等）、REST API 与 Web UI。其中包含工具调用型 LLM agent 步骤与 ACP 子进程 agent。安装方式含安装脚本、npm 与 Docker 预编译二进制，MIT 许可。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 声明式 YAML 工作流，支持钩子、条件分支与模块排除
-- Agentic LLM 步骤：工具调用循环与子代理编排，支持 ACP 子进程代理（Claude Code/Codex/OpenCode/Gemini）
-- Redis 主从分布式执行与事件驱动调度（cron/文件监听/webhook）
-- 云端扫描支持 DigitalOcean/AWS/GCP/Linode/Azure，含成本控制与自动清理
+- 声明式 YAML 工作流，支持 hooks、决策路由与条件分支
+- Redis 分布式 master-worker 执行与 webhook/file-watch/cron 触发
+- 工具调用型 LLM agent 步骤与 ACP 子进程 agent（Claude Code、Codex 等）
+- 80+ 内置函数库与 REST API/Web UI 仪表盘
 
 ## 适用场景
 
-- 对目标资产运行自动化侦察与扫描流水线
-- 用 YAML 定义可审计的安全工作流并分布式执行
-- 在云上按需发起扫描并自动清理资源
+- 编排侦察与漏洞扫描等渗透测试工作流
+- 以分布式队列批量管理攻击面资产扫描
+- 把 LLM agent 步骤嵌入安全自动化流水线
+- 在云主机上按需运行扫描并控制成本
 
 ## 场景标签
 
-`网络安全` `工作流自动化` · 领域:效率与自动化
+`工作流自动化` `网络安全` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `a09b74bccce7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `92f0a507b766` · [字段定义](../../DATASET.md)*

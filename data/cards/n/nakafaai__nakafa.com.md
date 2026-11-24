@@ -1,6 +1,6 @@
 # nakafaai/nakafa.com
 
-⭐ 81 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/nakafaai/nakafa.com) · [官网](https://nakafa.com) · 组织维护
+⭐ 81 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/nakafaai/nakafa.com) · [官网](https://nakafa.com) · 组织维护
 
 **面向 K-12 到大学学习的源码可见教育平台（结构化学习/测评/古兰经/政治分析）**
 

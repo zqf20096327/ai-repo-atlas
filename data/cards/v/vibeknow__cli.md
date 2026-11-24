@@ -1,6 +1,6 @@
 # vibeknow/cli
 
-⭐ 13 · Go · MIT · 推送 2026-10-29 · [GitHub](https://github.com/vibeknow/cli) · [官网](https://vibeknow.ai) · 组织维护 · 中文 README
+⭐ 13 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vibeknow/cli) · [官网](https://vibeknow.ai) · 组织维护 · 中文 README
 
 **文档/网页一键生成视频的 CLI，为人类与 AI Agent 设计**
 

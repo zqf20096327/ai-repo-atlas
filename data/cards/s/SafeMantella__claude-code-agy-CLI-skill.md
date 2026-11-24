@@ -1,6 +1,6 @@
 # SafeMantella/claude-code-agy-CLI-skill
 
-⭐ 20 · MIT · 推送 2026-05-20 · [GitHub](https://github.com/SafeMantella/claude-code-agy-CLI-skill) · 个人维护
+⭐ 21 · MIT · 推送 2026-05-20 · [GitHub](https://github.com/SafeMantella/claude-code-agy-CLI-skill) · 个人维护
 
 **让 Claude Code 把重任务委派给 Antigravity CLI 的多 agent 技能**
 

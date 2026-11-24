@@ -1,6 +1,6 @@
 # jeffdafoe/llm-memory-api
 
-⭐ 13 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jeffdafoe/llm-memory-api) · [官网](https://www.llm-memory.net/) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jeffdafoe/llm-memory-api) · [官网](https://www.llm-memory.net/) · 个人维护
 
 **为 AI agent 提供持久记忆与多 agent 通信的 MCP 平台**
 

@@ -1,6 +1,6 @@
 # ethanplusai/sellbird
 
-⭐ 6,963 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ethanplusai/sellbird) · [官网](https://sellbird.ai) · 组织维护
+⭐ 7,092 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ethanplusai/sellbird) · [官网](https://sellbird.ai) · 组织维护
 
 **跑在 Claude/ChatGPT 订阅上的开源冷邮件外联平台**
 

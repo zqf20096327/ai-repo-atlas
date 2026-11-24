@@ -1,6 +1,6 @@
 # requie/AI-Red-Teaming-Guide
 
-⭐ 1,065 · 推送 2026-10-28 · [GitHub](https://github.com/requie/AI-Red-Teaming-Guide) · 个人维护 · 中文 README
+⭐ 1,066 · 推送 2026-10-28 · [GitHub](https://github.com/requie/AI-Red-Teaming-Guide) · 个人维护 · 中文 README
 
 **AI 系统红队测试与安全评估的综合指南**
 

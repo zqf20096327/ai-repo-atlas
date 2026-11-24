@@ -1,6 +1,6 @@
 # firecrawl/firecrawl
 
-⭐ 206,897 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/firecrawl/firecrawl) · [官网](https://firecrawl.dev) · 组织维护
+⭐ 207,936 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/firecrawl/firecrawl) · [官网](https://firecrawl.dev) · 组织维护
 
 **给 AI Agent 提供网页抓取/搜索/数据接入的知识基础设施**
 

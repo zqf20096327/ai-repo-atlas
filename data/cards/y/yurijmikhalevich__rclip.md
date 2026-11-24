@@ -1,6 +1,6 @@
 # yurijmikhalevich/rclip
 
-⭐ 1,064 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yurijmikhalevich/rclip) · 个人维护
+⭐ 1,067 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yurijmikhalevich/rclip) · 个人维护
 
 **终端本地离线图片语义搜索工具：自然语言或示例图找照片**
 

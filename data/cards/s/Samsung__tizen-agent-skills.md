@@ -1,6 +1,6 @@
 # Samsung/tizen-agent-skills
 
-⭐ 21 · JavaScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Samsung/tizen-agent-skills) · [官网](https://github.com/Samsung/tizen-agent-skills#readme) · 组织维护
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Samsung/tizen-agent-skills) · [官网](https://github.com/Samsung/tizen-agent-skills#readme) · 组织维护
 
 **Samsung 的 Tizen 开发 agent 技能与插件集，让 AI 编码助手操作 Tizen SDK**
 

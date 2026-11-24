@@ -1,10 +1,10 @@
 # homeassistant-ai/ha-mcp
 
-⭐ 8,070 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/homeassistant-ai/ha-mcp) · [官网](https://homeassistant-ai.github.io/ha-mcp/) · 组织维护
+⭐ 8,088 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/homeassistant-ai/ha-mcp) · [官网](https://homeassistant-ai.github.io/ha-mcp/) · 组织维护
 
-**让 AI 助手配置和自动化 Home Assistant 的 MCP 服务器**
+**让 Claude/ChatGPT 等 AI 助手通过 MCP 配置与自动化 Home Assistant**
 
-提供 87 个工具的 MCP 服务器，使 Claude、ChatGPT 等 AI 客户端能够配置和自动化 Home Assistant。推荐方式是通过 Home Assistant 内置 Marketplace 安装集成，以 in-process 方式运行完整服务器，支持 OS/Supervised/Container/Core 各类安装；另有 add-on、Docker、PyPI/uvx、本地 stdio 等安装方式，每种客户端只应配置一种。提供 Setup Wizard 为 15+ 客户端生成配置，支持 secret URL 或 Home Assistant 账号认证，可通过 Nabu Casa、Webhook Proxy 或 OpenAI Tunnel 实现远程访问，并附带连接托管 demo 环境的一键脚本。
+提供 87 个工具的 MCP 服务器，将 Home Assistant 暴露给 MCP 客户端，使其能读取和控制家庭自动化实例。推荐方式是通过 Home Assistant 内置 Marketplace 安装 in-process 集成，适用于 OS/Supervised/Container/Core 全部安装类型；另有 add-on、Docker、PyPI/uvx、本地 stdio 等安装路径。远程访问经 Nabu Casa、Webhook Proxy 或 OpenAI Tunnel；stdio 传输存在已知连接问题，仅建议用于演示测试。需要管理员长期访问令牌或专用账号。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 87 个工具覆盖 Home Assistant 配置与自动化
-- 推荐经内置 Marketplace 安装集成，in-process 运行于任意 HA 安装类型
-- 支持 Docker、PyPI/uvx、add-on、stdio 多种运行方式
-- Setup Wizard 为 Claude Code、Gemini CLI、ChatGPT 等 15+ 客户端生成配置
+- 提供 87 个 MCP 工具管理 Home Assistant
+- 支持集成、add-on、Docker、PyPI/uvx、stdio 多种安装方式
+- 远程访问支持 Nabu Casa、Webhook Proxy、OpenAI Tunnel 与 OIDC 认证
+- 自带侧边栏设置面板管理工具、功能开关与备份
 
 ## 适用场景
 
-- 用自然语言让 AI 客户端管理和自动化家庭设备
-- 为本地或远程的 AI 客户端接入 Home Assistant
-- 无需自己的 HA 实例先试用 demo 环境体验 AI 控制
+- 用 Claude 或 ChatGPT 对话式配置和自动化 Home Assistant
+- 在 Container/Core 安装上通过 Docker/PyPI 独立运行 MCP 服务器
+- 通过演示环境先试用再接入自己的 Home Assistant
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3bdc95d9d4e6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b7f29c8ba8f5` · [字段定义](../../DATASET.md)*

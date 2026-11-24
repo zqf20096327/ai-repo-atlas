@@ -1,6 +1,6 @@
 # Golden0Voyager/kimi-code-usage
 
-⭐ 15 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Golden0Voyager/kimi-code-usage) · 个人维护 · 中文 README
+⭐ 15 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Golden0Voyager/kimi-code-usage) · 个人维护 · 中文 README
 
 **Kimi Coding Plan 用量配额追踪工具链：CLI + MCP 服务器 + VS Code 扩展**
 

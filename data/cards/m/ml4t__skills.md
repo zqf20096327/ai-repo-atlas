@@ -1,6 +1,6 @@
 # ml4t/skills
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ml4t/skills) · [官网](https://ml4trading.io) · 个人维护
+⭐ 50 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ml4t/skills) · [官网](https://ml4trading.io) · 个人维护
 
 **量化交易机器学习的 AI 编程助手技能集（61 条 SKILL.md）**
 

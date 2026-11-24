@@ -1,6 +1,6 @@
 # valeman/awesome-conformal-prediction
 
-⭐ 1,346 · 推送 2026-11-21 · [GitHub](https://github.com/valeman/awesome-conformal-prediction) · 个人维护
+⭐ 1,347 · 推送 2026-11-21 · [GitHub](https://github.com/valeman/awesome-conformal-prediction) · 个人维护
 
 **共形预测（Conformal Prediction）资源的策展清单**
 

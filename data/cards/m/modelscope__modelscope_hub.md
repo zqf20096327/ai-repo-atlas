@@ -1,6 +1,6 @@
 # modelscope/modelscope_hub
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/modelscope/modelscope_hub) · 组织维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/modelscope_hub) · 组织维护 · 中文 README
 
 **ModelScope Hub 官方 Python SDK 与 CLI，管理模型/数据集等 AI 资产**
 

@@ -1,6 +1,6 @@
 # Noble-Lab/CasanovoGUI
 
-⭐ 10 · Java · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/Noble-Lab/CasanovoGUI) · 组织维护
+⭐ 11 · Java · GPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/Noble-Lab/CasanovoGUI) · 组织维护
 
 **为质谱从头测序工具 Casanovo 提供跨平台图形界面**
 

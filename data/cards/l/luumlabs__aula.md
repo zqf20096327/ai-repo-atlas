@@ -1,6 +1,6 @@
 # luumlabs/aula
 
-⭐ 72 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/luumlabs/aula) · [官网](https://github.com/luumlabs/aula/releases/latest) · 组织维护
+⭐ 72 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/luumlabs/aula) · [官网](https://github.com/luumlabs/aula/releases/latest) · 组织维护
 
 **免费开源 AI 家教与学习应用：把笔记课件变成课程与测验**
 

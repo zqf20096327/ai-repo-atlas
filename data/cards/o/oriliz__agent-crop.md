@@ -1,6 +1,6 @@
 # oriliz/agent-crop
 
-⭐ 237 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oriliz/agent-crop) · 个人维护 · 中文 README
+⭐ 290 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oriliz/agent-crop) · 个人维护 · 中文 README
 
 **AI 编程助手的时间观测与自改进插件：本地记录时间去向并写回改进**
 

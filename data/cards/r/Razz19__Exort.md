@@ -1,6 +1,6 @@
 # Razz19/Exort
 
-⭐ 228 · Svelte · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/Razz19/Exort) · [官网](https://exort.dev) · 个人维护
+⭐ 229 · Svelte · AGPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/Razz19/Exort) · [官网](https://exort.dev) · 个人维护
 
 **面向微控制器的开源 AI 编程桌面工作区**
 

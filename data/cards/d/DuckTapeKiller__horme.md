@@ -1,6 +1,6 @@
 # DuckTapeKiller/horme
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/DuckTapeKiller/horme) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DuckTapeKiller/horme) · 个人维护
 
 **面向 Obsidian 的本地优先 AI 助手插件，带 RAG 笔记记忆**
 

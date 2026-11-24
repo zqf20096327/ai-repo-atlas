@@ -1,6 +1,6 @@
 # SAP-samples/btp-generative-ai-hub-use-cases
 
-⭐ 79 · HTML · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SAP-samples/btp-generative-ai-hub-use-cases) · [官网](https://partneredge.sap.com/en/library/education/products/btp/build/e_ep_use-cases_ai-foundation.html) · 组织维护
+⭐ 79 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SAP-samples/btp-generative-ai-hub-use-cases) · [官网](https://partneredge.sap.com/en/library/education/products/btp/build/e_ep_use-cases_ai-foundation.html) · 组织维护
 
 **SAP BTP 生成式 AI 用例示例代码集合（多个可运行项目）**
 

@@ -1,6 +1,6 @@
 # Dopethedev/omma
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Dopethedev/omma) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Dopethedev/omma) · 个人维护
 
 **给纯文本 AI agent 提供图像感知的 CLI 与 MCP 工具**
 

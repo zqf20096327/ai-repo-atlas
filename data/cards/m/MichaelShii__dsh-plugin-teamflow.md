@@ -1,6 +1,6 @@
 # MichaelShii/dsh-plugin-teamflow
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MichaelShii/dsh-plugin-teamflow) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MichaelShii/dsh-plugin-teamflow) · 个人维护 · 中文 README
 
 **面向 DeepSeek Harness 的多 Agent 团队研发流水线插件**
 

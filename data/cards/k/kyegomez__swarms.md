@@ -1,10 +1,10 @@
 # kyegomez/swarms
 
-⭐ 7,388 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kyegomez/swarms) · [官网](https://docs.swarms.world) · 个人维护 · 中文 README
+⭐ 7,394 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/kyegomez/swarms) · [官网](https://docs.swarms.world) · 个人维护 · 中文 README
 
-**多智能体编排框架：构建、部署与扩展多 Agent 系统**
+**面向企业的多智能体编排框架：构建、部署与扩展 swarm 系统**
 
-以 Python 库与 CLI 形式提供的多智能体编排框架，核心构件为 Agent（LLM + Tools + Memory）与多种预置编排结构，包括 SequentialWorkflow、ConcurrentWorkflow、AgentRearrange、GraphWorkflow、MixtureOfAgents、GroupChat、HierarchicalSwarm、HeavySwarm、SwarmRouter 等，README 称另有 60+ 种结构。支持 MCP 集成（接入外部 MCP 服务器工具，或通过 MCPDeployer 将任意 Agent/Swarm 部署为带鉴权的 MCP 服务器）。安装途径包括 pip、源码与官方 Docker 镜像，模型调用通过环境变量配置 API key。
+Swarms 是一个 Python 多智能体编排框架，提供 Agent（LLM+工具+内存）基础构件与多种预置多智能体架构：SequentialWorkflow、ConcurrentWorkflow、GraphWorkflow（DAG）、MixtureOfAgents、GroupChat、HierarchicalSwarm、HeavySwarm 等，共 60+ 种结构。支持 MCP 集成（接入 MCP 服务器取工具，或经 MCPDeployer 将 agent 反向暴露为带鉴权的 MCP server）、AutoSwarmBuilder 按任务描述自动生成 agent 团队、自定义 Social Algorithms。通过 pip 或 Docker 分发，运行需配置各家模型 API key。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 提供 Sequential/Concurrent/Graph/MoA/GroupChat/Hierarchical 等多种预置编排结构
-- 支持 MCP 双向集成：消费外部 MCP 工具，或将 Agent/Swarm 部署为 MCP 服务器
-- max_loops="auto" 让 Agent 自主决定任务完成时机
-- 官方 Docker 镜像覆盖 linux/amd64 与 linux/arm64
+- 60+ 预置多智能体架构（顺序/并发/DAG/层级/群聊等）
+- MCP 双向集成：接入 MCP 工具服务器，或用 MCPDeployer 将 agent 发布为 MCP server
+- AutoSwarmBuilder 从任务描述自动生成 agent、提示词与工作流
+- swarms[fast] 可选加速：LLM 网关与 rustworkx 图后端
 
 ## 适用场景
 
-- 将研究、写作等任务编排为多 Agent 流水线
-- 把已有 Agent 通过 MCPDeployer 暴露为 MCP 服务供其他 Agent 调用
-- 构建需要多角色协作决策的对话式群聊系统
-- 用 AutoSwarmBuilder 从任务描述快速生成 Agent 团队原型
+- 将研究、写作等多角色 agent 串成流水线生成报告
+- 批量并行处理高吞吐任务（ConcurrentWorkflow）
+- 用层级式 director/worker 结构做项目分解与任务分发
+- 把已有 agent 发布为 MCP server 供其他系统调用
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 
 ## 证据(README 行号)
 
-> L39: Build, deploy, and scale high-performance multi-agent systems with Swarms Python, a fast, flexible, and optimized a
+> L37: > Swarms, The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework
 > L163: `swarms` provides a variety of powerful, pre-built multi-agent architectures enabling you to orchestrate agents in
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `b434b9da1d9a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c50a2abb5944` · [字段定义](../../DATASET.md)*

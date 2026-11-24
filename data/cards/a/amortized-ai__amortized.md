@@ -1,6 +1,6 @@
 # amortized-ai/amortized
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/amortized-ai/amortized) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/amortized-ai/amortized) · 组织维护
 
 **为 agent 任务微调小型模型的编排平台**
 

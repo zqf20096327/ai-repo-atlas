@@ -1,6 +1,6 @@
 # GISWLH/CAS-Canglong
 
-⭐ 12 · Jupyter Notebook · MIT · 推送 2026-10-27 · [GitHub](https://github.com/GISWLH/CAS-Canglong) · [官网](https://huggingface.co/spaces/LonghaoWang/CAS-Canglong) · 组织维护 · 中文 README
+⭐ 12 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GISWLH/CAS-Canglong) · [官网](https://huggingface.co/spaces/LonghaoWang/CAS-Canglong) · 组织维护 · 中文 README
 
 **3-D Earth transformer 预测全球海温与 ENSO，提前 1–16 个月**
 

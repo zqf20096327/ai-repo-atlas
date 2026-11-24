@@ -1,6 +1,6 @@
 # Ignitic-AI/ignitic
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/Ignitic-AI/ignitic) · [官网](https://igniticai.hinterbuild.com/) · 组织维护
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Ignitic-AI/ignitic) · [官网](https://igniticai.hinterbuild.com/) · 组织维护
 
 **自托管的电商运营 AI 代理平台：一个聊天入口驱动 14 个专家代理**
 

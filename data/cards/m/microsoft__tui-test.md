@@ -1,6 +1,6 @@
 # microsoft/tui-test
 
-⭐ 321 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/tui-test) · [官网](https://tui-test.dev) · 组织维护
+⭐ 322 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/tui-test) · [官网](https://tui-test.dev) · 组织维护
 
 **控制、录制与测试终端/TUI 应用的跨平台工具，供 AI agent 结构化访问终端**
 

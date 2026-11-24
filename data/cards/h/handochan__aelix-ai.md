@@ -1,6 +1,6 @@
 # handochan/aelix-ai
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/handochan/aelix-ai) · [官网](https://handochan.github.io/aelix-ai/) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/handochan/aelix-ai) · [官网](https://handochan.github.io/aelix-ai/) · 个人维护 · 中文 README
 
 **自托管、可审计的纯 Python agent 运行时与扩展平台**
 

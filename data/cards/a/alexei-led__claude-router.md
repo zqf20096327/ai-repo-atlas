@@ -1,6 +1,6 @@
 # alexei-led/claude-router
 
-⭐ 49 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/alexei-led/claude-router) · 个人维护
+⭐ 50 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alexei-led/claude-router) · 个人维护
 
 **Claude Code 插件：按轮次自动选择模型与 effort 档位**
 

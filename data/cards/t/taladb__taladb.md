@@ -1,6 +1,6 @@
 # taladb/taladb
 
-⭐ 103 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/taladb/taladb) · [官网](https://taladb.dev) · 组织维护
+⭐ 116 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/taladb/taladb) · [官网](https://taladb.dev) · 组织维护
 
 **面向本地优先 AI 应用的嵌入式文档+向量数据库**
 

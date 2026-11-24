@@ -1,6 +1,6 @@
 # ag2ai/fastagency
 
-⭐ 546 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ag2ai/fastagency) · [官网](https://fastagency.ai/latest) · 组织维护
+⭐ 547 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/ag2ai/fastagency) · [官网](https://fastagency.ai/latest) · 组织维护
 
 **将 AG2 多智能体工作流从原型部署到生产的框架**
 

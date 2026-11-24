@@ -1,6 +1,6 @@
 # hexamatic/pihole-mcp
 
-⭐ 14 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/hexamatic/pihole-mcp) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hexamatic/pihole-mcp) · 个人维护
 
 **让 AI 助手通过 MCP 管理 Pi-hole v6 DNS 的 Go 服务器**
 

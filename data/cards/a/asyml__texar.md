@@ -1,6 +1,6 @@
 # asyml/texar
 
-⭐ 2,391 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/asyml/texar) · [官网](https://asyml.io) · 组织维护
+⭐ 2,392 · Python · Apache-2.0 · 推送 2026-07-21 · [GitHub](https://github.com/asyml/texar) · [官网](https://asyml.io) · 组织维护
 
 **TensorFlow 版机器学习/NLP/文本生成模块化工具库**
 

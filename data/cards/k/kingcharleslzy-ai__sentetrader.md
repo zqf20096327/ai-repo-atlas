@@ -1,6 +1,6 @@
 # kingcharleslzy-ai/sentetrader
 
-⭐ 239 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kingcharleslzy-ai/sentetrader) · [官网](https://qilinshuzhi.com/trader/download) · 组织维护 · 中文 README
+⭐ 257 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kingcharleslzy-ai/sentetrader) · [官网](https://qilinshuzhi.com/trader/download) · 组织维护 · 中文 README
 
 **面向个人期货交易者的 AI 交易助理（模拟盘）**
 

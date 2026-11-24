@@ -1,6 +1,6 @@
 # asteroid-team/asteroid
 
-⭐ 2,602 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/asteroid-team/asteroid) · [官网](https://asteroid-team.github.io/) · 组织维护
+⭐ 2,603 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/asteroid-team/asteroid) · [官网](https://asteroid-team.github.io/) · 组织维护
 
 **面向研究者的 PyTorch 音频源分离工具包**
 

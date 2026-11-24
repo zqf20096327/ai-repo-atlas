@@ -1,6 +1,6 @@
 # harmonydata/harmony
 
-⭐ 67 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/harmonydata/harmony) · [官网](https://harmonydata.ac.uk) · 组织维护
+⭐ 67 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/harmonydata/harmony) · [官网](https://harmonydata.ac.uk) · 组织维护
 
 **帮助心理学研究者用 NLP 匹配跨语言问卷条目的 Python 库**
 

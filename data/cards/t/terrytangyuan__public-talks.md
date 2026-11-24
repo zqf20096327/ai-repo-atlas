@@ -1,6 +1,6 @@
 # terrytangyuan/public-talks
 
-⭐ 36 · Python · BSD-3-Clause · 推送 2026-11-15 · [GitHub](https://github.com/terrytangyuan/public-talks) · [官网](https://terrytangyuan.github.io/public-talks/) · 个人维护
+⭐ 36 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/terrytangyuan/public-talks) · [官网](https://terrytangyuan.github.io/public-talks/) · 个人维护
 
 **个人公开演讲的幻灯片与视频资料汇总库**
 

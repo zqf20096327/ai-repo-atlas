@@ -1,6 +1,6 @@
 # VanoPeradze/cutroom
 
-⭐ 34 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/VanoPeradze/cutroom) · [官网](https://cutroom-studio.expo.app) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VanoPeradze/cutroom) · [官网](https://cutroom-studio.expo.app) · 个人维护
 
 **本地优先的免费视频剪辑器：手动剪辑为主，AI 草稿可选**
 

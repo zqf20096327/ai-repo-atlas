@@ -1,6 +1,6 @@
 # ohdearquant/lionagi
 
-⭐ 413 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ohdearquant/lionagi) · [官网](https://khive.ai) · 组织维护
+⭐ 413 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ohdearquant/lionagi) · [官网](https://khive.ai) · 组织维护
 
 **Python 多智能体编排框架：构建、运行与治理 agent 工作流**
 

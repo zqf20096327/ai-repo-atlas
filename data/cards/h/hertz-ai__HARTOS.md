@@ -1,6 +1,6 @@
 # hertz-ai/HARTOS
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/hertz-ai/HARTOS) · [官网](https://docs.hevolve.ai/) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hertz-ai/HARTOS) · [官网](https://docs.hevolve.ai/) · 组织维护
 
 **面向开发者与终端用户的本地优先 AI 原生运行时/OS**
 

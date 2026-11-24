@@ -1,6 +1,6 @@
 # open-webui/open-terminal
 
-⭐ 3,638 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-webui/open-terminal) · [官网](https://openterminal.sh/) · 组织维护
+⭐ 3,641 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-webui/open-terminal) · [官网](https://openterminal.sh/) · 组织维护
 
 **给 AI agent 提供自托管命令/文件/代码/浏览器执行环境的 REST API 服务器**
 

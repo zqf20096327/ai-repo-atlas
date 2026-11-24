@@ -1,6 +1,6 @@
 # ThyrixYang/awesome-artificial-intelligence-research
 
-⭐ 134 · 推送 2026-10-12 · [GitHub](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) · 个人维护
+⭐ 133 · 推送 2026-10-12 · [GitHub](https://github.com/ThyrixYang/awesome-artificial-intelligence-research) · 个人维护
 
 **AI 研究资源元清单：聚合论文清单、基准与学习资源**
 

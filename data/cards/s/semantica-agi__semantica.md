@@ -1,10 +1,10 @@
 # semantica-agi/semantica
 
-⭐ 14,728 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
+⭐ 14,753 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/semantica-agi/semantica) · [官网](https://getsemantica.ai) · 组织维护
 
-**为 LLM 与 agent 提供可审计 Context Graph 的语义层基础设施**
+**为受监管行业 AI 提供图谱化语义层与决策溯源**
 
-定位为 LLM、向量库与 agent 框架之下的语义/上下文层：将企业数据摄入、解析、抽取（NER/关系/事件/三元组），经冲突检测与去重后构建携带业务含义的知识图谱与 Context Graph；图谱构建、推理与溯源层为确定性实现，不依赖 LLM。以决策记录为一等图节点，输出 W3C PROV-O 溯源与审计轨迹，支持 RDF 与 LPG 多后端存储及 OWL/SHACL/SKOS 本体治理。pip 安装，提供 CLI、REST API、MCP server 与 Python 库。面向 AI 平台团队、受监管行业企业与合规审计团队。
+面向 LLM 与 agent 框架下方的语义/上下文层：从文件、数据库、数据平台（Databricks/Snowflake/SAP）等多源摄取数据，经解析、实体感知分块、NER/关系/事件抽取、冲突检测与去重后构建 Context Graph 与知识图谱，支持 RDF 与属性图多种存储后端互换。本体治理用 OWL/SHACL/SKOS，推理引擎为确定性规则（前向链、Rete、Datalog、SPARQL），每条事实带 W3C PROV-O 溯源；决策记录为一等图节点可导出供审计。图构建与推理不依赖 LLM，LLM 调用可选且供应商中立。面向 AI/ML 平台团队、企业数据团队与合规审计团队，Python 3.11.5+ 可用。
 
 ## 筛选速览
 
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- 图谱构建、推理与溯源为确定性实现，LLM 可选且厂商中立（semantica.llms 支持多 provider）
-- 决策记录为一等图节点，支持 record_decision/因果关联/先例搜索，导出 W3C PROV-O
-- 多源数据摄入管道：NER/关系/事件抽取、冲突检测、语义去重与保留溯源的合并
-- RDF（Oxigraph/Blazegraph/Jena/RDF4J）与 LPG（Neo4j/FalkorDB/AGE/Neptune）多后端可切换
+- 确定性推理引擎（前向链、Rete、Datalog、SPARQL），构建与推理无需 LLM
+- 每条事实带 W3C PROV-O 溯源，决策记录为一等可查询图节点
+- 多源摄取管线含冲突检测、语义去重与保持溯源的合并
+- RDF 与 LPG 多后端存储可互换，提供 MCP server、REST API、CLI 与 LangChain/CrewAI/Agno 集成
 
 ## 适用场景
 
-- 为 agent 提供结构化、可查询的上下文记忆层
-- 受监管行业记录并解释 AI 决策以供审计
-- 把数据仓库/Databricks/Snowflake 中的表构建为带血缘的知识图谱
-- 对多源企业数据做实体消歧与冲突检测
+- 为 agent 构建可查询、可追溯的结构化上下文与决策记忆
+- 把湖仓/数仓中已有的表治理为带血缘的知识图谱
+- 合规审计场景回答'AI 为什么做这个决策'并导出监管格式
+- 多源脏数据建图时自动标记冲突事实并合并重复实体
 
 ## 场景标签
 
-`Agent 记忆` `知识图谱` `RAG` `文档解析` · 领域:Agent 开发
+`知识图谱` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L54: Semantica is the semantic/context layer underneath your LLM, vector store, and agent framework: deterministic infra
-> L63: - **AI/ML platform teams** shipping agents that make consequential decisions and need structured, queryable context
-> L84: - **Drop-in Integrations:** Agno, CrewAI, and LangChain support, a full MCP server, a CLI, a REST API, and plugins 
+> L82: - **Polyglot Graph Storage:** RDF (Oxigraph, Blazegraph, Jena, RDF4J) and Labeled Property Graphs (Neo4j, FalkorDB,
+> L101: Semantica complements your existing stack rather than replacing it. Keep your LLM, vector store, and agent framewo
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `9144a942f18d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `694012bd701d` · [字段定义](../../DATASET.md)*

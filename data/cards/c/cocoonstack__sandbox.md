@@ -1,6 +1,6 @@
 # cocoonstack/sandbox
 
-⭐ 91 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/cocoonstack/sandbox) · [官网](https://cocoonstack.github.io/sandbox/) · 组织维护
+⭐ 92 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/cocoonstack/sandbox) · [官网](https://cocoonstack.github.io/sandbox/) · 组织维护
 
 **面向 AI agent 的快速冷启动 MicroVM 沙箱运行时**
 

@@ -1,6 +1,6 @@
 # vavo/lora-pilot
 
-⭐ 92 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vavo/lora-pilot) · [官网](https://www.lorapilot.com) · 个人维护
+⭐ 92 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vavo/lora-pilot) · [官网](https://www.lorapilot.com) · 个人维护
 
 **一体化 Docker 镜像：LoRA 训练到图像/视频生成的浏览器工作区**
 

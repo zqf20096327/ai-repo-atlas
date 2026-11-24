@@ -1,6 +1,6 @@
 # linkedin/venice
 
-⭐ 622 · Java · BSD-2-Clause · 推送 2026-11-21 · [GitHub](https://github.com/linkedin/venice) · [官网](https://venicedb.org) · 组织维护
+⭐ 622 · Java · BSD-2-Clause · 推送 2026-11-23 · [GitHub](https://github.com/linkedin/venice) · [官网](https://venicedb.org) · 组织维护
 
 **面向在线推断的衍生数据存储平台，支撑特征存储**
 

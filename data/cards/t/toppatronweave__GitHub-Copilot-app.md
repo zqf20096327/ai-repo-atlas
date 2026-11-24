@@ -1,6 +1,6 @@
 # toppatronweave/GitHub-Copilot-app
 
-⭐ 376 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/toppatronweave/GitHub-Copilot-app) · 组织维护
+⭐ 373 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/toppatronweave/GitHub-Copilot-app) · 组织维护
 
 **面向 GitHub 仓库的 agent 驱动软件开发桌面应用**
 

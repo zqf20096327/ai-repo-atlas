@@ -1,6 +1,6 @@
 # humanfia/qda
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/humanfia/qda) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/humanfia/qda) · 组织维护
 
 **让编码 Agent 为 LLM 设计量化配方并产出可部署检查点**
 

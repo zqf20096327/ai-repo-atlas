@@ -1,6 +1,6 @@
 # PersonalClaw/PersonalClaw
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PersonalClaw/PersonalClaw) · [官网](https://personalclaw.dev) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/PersonalClaw/PersonalClaw) · [官网](https://personalclaw.dev) · 组织维护
 
 **自托管单用户 AI agent 平台：聊天、记忆、知识库与自动化**
 

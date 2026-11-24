@@ -1,6 +1,6 @@
 # open-webui/docs
 
-⭐ 928 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/open-webui/docs) · [官网](https://docs.openwebui.com) · 组织维护
+⭐ 928 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/open-webui/docs) · [官网](https://docs.openwebui.com) · 组织维护
 
 **Open WebUI 的文档站点源码与构建流程**
 

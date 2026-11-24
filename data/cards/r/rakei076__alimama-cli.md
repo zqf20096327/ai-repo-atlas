@@ -1,6 +1,6 @@
 # rakei076/alimama-cli
 
-⭐ 56 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rakei076/alimama-cli) · 个人维护 · 中文 README
+⭐ 58 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rakei076/alimama-cli) · 个人维护 · 中文 README
 
 **读取万相台广告数据的只读 CLI + MCP Skill，供 AI 助手查广告花费**
 

@@ -1,6 +1,6 @@
 # cosolar/AgentLearn
 
-⭐ 30 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/cosolar/AgentLearn) · [官网](https://docs.minims.cn/share/agentlearn) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/cosolar/AgentLearn) · [官网](https://docs.minims.cn/share/agentlearn) · 个人维护 · 中文 README
 
 **AI Agent 系统化开源教程：80+ 篇文档与 12+ 实战项目**
 

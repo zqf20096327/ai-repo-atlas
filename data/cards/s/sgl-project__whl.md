@@ -1,6 +1,6 @@
 # sgl-project/whl
 
-⭐ 28 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sgl-project/whl) · [官网](https://docs.sglang.io/whl/) · 组织维护
+⭐ 28 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sgl-project/whl) · [官网](https://docs.sglang.io/whl/) · 组织维护
 
 **SGLang 预编译 wheel 的 PEP 503 包索引仓库**
 

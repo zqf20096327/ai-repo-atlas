@@ -1,6 +1,6 @@
 # infino-ai/infino
 
-⭐ 158 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/infino-ai/infino) · [官网](http://infino.ai) · 组织维护
+⭐ 158 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/infino-ai/infino) · [官网](http://infino.ai) · 组织维护
 
 **嵌入式检索库：全文、向量、混合与 SQL 存于 Parquet 单表**
 

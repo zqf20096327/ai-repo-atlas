@@ -1,6 +1,6 @@
 # x1xhlol/better-clawd
 
-⭐ 436 · TypeScript · 推送 2026-07-01 · [GitHub](https://github.com/x1xhlol/better-clawd) · [官网](https://better-clawd.dev) · 个人维护
+⭐ 437 · TypeScript · 推送 2026-07-01 · [GitHub](https://github.com/x1xhlol/better-clawd) · [官网](https://better-clawd.dev) · 个人维护
 
 **Claude Code 的社区分支：多提供商接入、去遥测的编码 CLI**
 

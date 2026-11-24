@@ -1,6 +1,6 @@
 # aliyevaladddin/AladdinAI
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/aliyevaladddin/AladdinAI) · [官网](https://aladdinai.cc) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aliyevaladddin/AladdinAI) · [官网](https://aladdinai.cc) · 个人维护
 
 **自托管 BYOI AI Agent 平台：接入自有基础设施构建管理智能体**
 

@@ -1,6 +1,6 @@
 # Wuki60/MrCuisineVibeConnect
 
-⭐ 65 · Kotlin · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Wuki60/MrCuisineVibeConnect) · [官网](https://github.com/Wuki60/MrCuisineVibeConnect#readme) · 个人维护
+⭐ 72 · Kotlin · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Wuki60/MrCuisineVibeConnect) · [官网](https://toqueapp.org) · 个人维护
 
 **给 Lidl Monsieur Cuisine Connect 厨师机的替代操作界面（含 AI 代理安装向导）**
 

@@ -1,6 +1,6 @@
 # shannonbay/Quarterdeck
 
-⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/shannonbay/Quarterdeck) · 个人维护
+⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shannonbay/Quarterdeck) · 个人维护
 
 **把 Claude Code 变成后台常驻个人助理的插件：目标式定时代理**
 

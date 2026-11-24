@@ -1,6 +1,6 @@
 # taahamahdi/i18n-ai-translate
 
-⭐ 104 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/taahamahdi/i18n-ai-translate) · 个人维护
+⭐ 104 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/taahamahdi/i18n-ai-translate) · 个人维护
 
 **用 AI 自动翻译 i18n 多语言资源文件的 CLI/Node 库/Action**
 

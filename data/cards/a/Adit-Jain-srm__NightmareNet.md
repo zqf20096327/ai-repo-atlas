@@ -1,6 +1,6 @@
 # Adit-Jain-srm/NightmareNet
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Adit-Jain-srm/NightmareNet) · [官网](https://frontend-aj5.vercel.app) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Adit-Jain-srm/NightmareNet) · [官网](https://frontend-aj5.vercel.app) · 个人维护
 
 **对抗鲁棒性训练平台：Wake/Dream/Nightmare/Compress 循环强化模型**
 

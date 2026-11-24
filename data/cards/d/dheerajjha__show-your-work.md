@@ -1,6 +1,6 @@
 # dheerajjha/show-your-work
 
-⭐ 4 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/dheerajjha/show-your-work) · [官网](https://github.com/dheerajjha/show-your-work) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **核验编码 agent 最终声明是否与实际运行一致的插件**
 
@@ -11,7 +11,7 @@ show-your-work 要求编码 agent 在最终消息中为每条声明附上实际�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

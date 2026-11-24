@@ -1,6 +1,6 @@
 # storm-orm/storm-framework
 
-⭐ 11 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/storm-orm/storm-framework) · [官网](https://orm.st) · 组织维护
+⭐ 12 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/storm-orm/storm-framework) · [官网](https://orm.st) · 组织维护
 
 **面向 Kotlin/Java 的类型安全 SQL-first ORM，支持编码 Agent 集成**
 

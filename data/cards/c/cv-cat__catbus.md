@@ -1,6 +1,6 @@
 # cv-cat/catbus
 
-⭐ 642 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cv-cat/catbus) · 个人维护 · 中文 README
+⭐ 646 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cv-cat/catbus) · 个人维护 · 中文 README
 
 **统一 CLI 操作多平台搜索/读取/下载/发布，供人和 AI Agent 使用**
 

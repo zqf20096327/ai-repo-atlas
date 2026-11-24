@@ -1,6 +1,6 @@
 # mgh3326/auto_trader
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mgh3326/auto_trader) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mgh3326/auto_trader) · 个人维护
 
 **LLM 代理在确定性安全层下自动交易 KR/US 股票与加密货币**
 

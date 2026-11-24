@@ -1,6 +1,6 @@
 # PerryLink/dsh-library
 
-⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-library) · [官网](https://www.npmjs.com/package/dsh-library) · 个人维护 · 中文 README
+⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-library) · [官网](https://www.npmjs.com/package/dsh-library) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本地文档知识库插件：检索带可核验引用**
 

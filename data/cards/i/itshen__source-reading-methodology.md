@@ -1,6 +1,6 @@
 # itshen/source-reading-methodology
 
-⭐ 140 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/itshen/source-reading-methodology) · [官网](https://xueai.app/?from=source-reading-methodology) · 组织维护 · 中文 README
+⭐ 141 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/itshen/source-reading-methodology) · [官网](https://xueai.app/?from=source-reading-methodology) · 组织维护 · 中文 README
 
 **带 AI 精读大型开源仓库的方法论与模板集**
 

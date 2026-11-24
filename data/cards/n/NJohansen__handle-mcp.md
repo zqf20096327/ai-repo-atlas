@@ -1,6 +1,6 @@
 # NJohansen/handle-mcp
 
-⭐ 162 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NJohansen/handle-mcp) · [官网](https://handlemcp.dk) · 个人维护
+⭐ 163 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NJohansen/handle-mcp) · [官网](https://handlemcp.dk) · 个人维护
 
 **让 AI 代理在丹麦三家超市比价并填购物车的 MCP server**
 

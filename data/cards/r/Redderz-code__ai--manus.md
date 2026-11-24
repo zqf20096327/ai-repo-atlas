@@ -1,6 +1,6 @@
 # Redderz-code/ai--manus
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Redderz-code/ai--manus) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Redderz-code/ai--manus) · 个人维护
 
 **面向日常小任务的自主体 AI 代理：自行写码并控制浏览器**
 

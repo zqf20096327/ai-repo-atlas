@@ -1,6 +1,6 @@
 # becloudready/labagent
 
-⭐ 8 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/becloudready/labagent) · [官网](https://becloudready.com/labs) · 组织维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/becloudready/labagent) · [官网](https://becloudready.com/labs) · 组织维护
 
 **为培训/黑客松一键创建和销毁云与 AI 动手实验环境的 CLI**
 

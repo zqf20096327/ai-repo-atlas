@@ -1,6 +1,6 @@
 # petertzy/markdown-reader
 
-⭐ 46 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/petertzy/markdown-reader) · [官网](https://petertzy.github.io/markdown-reader/) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/petertzy/markdown-reader) · [官网](https://petertzy.github.io/markdown-reader/) · 个人维护
 
 **本地优先的跨平台 Markdown 编辑器，内置 AI 翻译与对话**
 

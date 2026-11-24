@@ -1,6 +1,6 @@
 # FlippFuzz/ai-sub
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FlippFuzz/ai-sub) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FlippFuzz/ai-sub) · 个人维护
 
 **用 Gemini 生成视频双语字幕（原文+英译）的命令行工具**
 

@@ -1,6 +1,6 @@
 # wings1848/dsh-mcp-lazy
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/wings1848/dsh-mcp-lazy) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wings1848/dsh-mcp-lazy) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的惰性 MCP 网关插件：单工具代理省 token**
 

@@ -1,6 +1,6 @@
 # Bronya0/ally-agent
 
-⭐ 153 · Go · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Bronya0/ally-agent) · [官网](https://bronya0.github.io/ally-agent/) · 个人维护 · 中文 README
+⭐ 153 · Go · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Bronya0/ally-agent) · [官网](https://bronya0.github.io/ally-agent/) · 个人维护 · 中文 README
 
 **面向本地项目的桌面 AI 编程助手**
 

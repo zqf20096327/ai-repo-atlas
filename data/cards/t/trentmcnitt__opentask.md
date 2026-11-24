@@ -1,6 +1,6 @@
 # trentmcnitt/opentask
 
-⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/trentmcnitt/opentask) · [官网](https://opentask.mcnitt.io) · 个人维护
+⭐ 13 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/trentmcnitt/opentask) · [官网](https://opentask.mcnitt.io) · 个人维护
 
 **自托管的 AI 任务与习惯管理器（Web/iOS/Watch/Mac）**
 

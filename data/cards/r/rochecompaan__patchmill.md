@@ -1,6 +1,6 @@
 # rochecompaan/patchmill
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rochecompaan/patchmill) · [官网](https://patchmill.dev) · 个人维护
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rochecompaan/patchmill) · [官网](https://patchmill.dev) · 个人维护
 
 **面向团队的 agent 驱动软件工厂，把议题自动变成已审查的代码变更**
 

@@ -1,6 +1,6 @@
 # dongdonga11/dsh-customer-service
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/dongdonga11/dsh-customer-service) · [官网](https://github.com/dongdonga11/dsh-customer-service) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/dongdonga11/dsh-customer-service) · [官网](https://github.com/dongdonga11/dsh-customer-service) · 个人维护 · 中文 README
 
 **给电商卖家的多平台 AI 客服插件：AI 回复带闸门与审计**
 

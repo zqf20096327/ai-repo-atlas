@@ -1,10 +1,10 @@
 # osaurus-ai/osaurus
 
-⭐ 8,205 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/osaurus-ai/osaurus) · [官网](https://osaurus.ai) · 组织维护
+⭐ 8,203 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/osaurus-ai/osaurus) · [官网](https://osaurus.ai) · 组织维护
 
-**macOS 本地运行的端侧 AI 助手与 Agent 应用**
+**macOS 本地 AI agent 平台：本地/云模型+记忆+工具自主执行**
 
-用 Swift 编写的 macOS 开源应用：一个 Orchestrator 助手调度多个绑定应用或文件夹的 Agent（Planner/Courier/Keeper 等），支持记忆、技能插件、工作流、定时自动化、浏览器/电脑使用与端到端加密身份。模型可换：本地 MLX 模型、Apple Foundation Models、云服务商或 Osaurus Cloud，Agent 与记忆在切换模型后保留。提供 OpenAI/Anthropic/Ollama 格式的本地 API 端点，可作 MCP server 与 client。需 macOS 15.5+ 与 Apple Silicon，沙箱 VM 需 macOS 26+。
+纯 Swift 编写的开源 agent 运行框架，运行在 Apple Silicon Mac 上，支持完全离线。核心机制是一个 Orchestrator 助手，将请求分派给自带或自定义 agent（各含独立提示词、模型、工具、记忆与工作目录），并支持工作流、定时自动化、分层记忆、Linux VM 沙箱代码执行、浏览器/计算机使用、加密身份与端到端同步。模型可本地（MLX）或云端，切换模型时 agent 与记忆保持不变。需 macOS 15.5+ 与 Apple Silicon；沙箱与 Apple 基础模型需 macOS 26+。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 本地运行 MLX 模型（Gemma/Qwen/Llama 等），完全离线可用
-- 多 Agent 团队、分层记忆、工作流与自动化调度
-- 本地服务器提供 OpenAI/Anthropic/Ollama 兼容端点，双向 MCP
-- 云发送前隐私过滤器：端侧替换姓名、邮箱、密钥等敏感信息
+- 提供 OpenAI/Responses/Anthropic/Ollama 兼容的本地 API 端点
+- 本地模型经 MLX 运行于 Apple Silicon，亦支持多家云端提供商
+- 既是 MCP 服务器也是 MCP 客户端
+- 隐私过滤器在云端发送前替换设备上的敏感信息
 
 ## 适用场景
 
-- 在 Mac 上离线运行个人 AI 助手并保留长期记忆
-- 让 Agent 操作日历、邮件、笔记等 Apple 原生应用
-- 为已有工具提供本地 OpenAI 格式推理端点
-- 定时或经 webhook 触发多步骤自动化工作流
+- 在 Mac 上离线运行自有 agent 与个人记忆
+- 通过本地 API 端点接入现有开发工具
+- 定时或事件触发的自动化工作流
+- 给 MCP 客户端开放本机工具能力
 
 ## 场景标签
 
-`AI 助手` `多智能体` `Agent 记忆` `工作流自动化` · 领域:Agent 开发
+`工作流自动化` `推理引擎` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L6:  Agents, memory, tools, and identity that live on your Mac. Built purely in Swift. Fully offline. Open source.
-> L47: - **Hands work to your team.** A fresh install comes with a small team of agents, each bound to one app or folder: 
-> L78: - **Local**: Gemma, Qwen, GPT-OSS, Llama, LFM, and more, running on Apple Silicon through MLX. Osaurus publishes cu
+> L43: You talk to one assistant, the **Orchestrator**. Ask in your own words and it decides how to handle the request:
+> L55: - **Agents**: custom agents, each with its own prompt, model, tools, memory, working folder, and avatar. They can r
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ab2a22162dce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7f74197bffa6` · [字段定义](../../DATASET.md)*

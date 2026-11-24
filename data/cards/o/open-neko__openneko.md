@@ -1,6 +1,6 @@
 # open-neko/openneko
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/open-neko/openneko) · [官网](https://openneko.app) · 个人维护
+⭐ 22 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/open-neko/openneko) · [官网](https://openneko.app) · 个人维护
 
 **自托管商业运营智能平台：读业务数据、答疑并按规则执行动作**
 

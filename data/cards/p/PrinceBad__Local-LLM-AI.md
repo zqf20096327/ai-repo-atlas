@@ -1,6 +1,6 @@
 # PrinceBad/Local-LLM-AI
 
-⭐ 16 · Kotlin · MIT · 推送 2026-11-13 · [GitHub](https://github.com/PrinceBad/Local-LLM-AI) · [官网](https://github.com/PrinceBad/Local-LLM-AI/releases) · 个人维护
+⭐ 17 · Kotlin · MIT · 推送 2026-11-13 · [GitHub](https://github.com/PrinceBad/Local-LLM-AI) · [官网](https://github.com/PrinceBad/Local-LLM-AI/releases) · 个人维护
 
 **在 Android 设备上离线运行大语言模型的多模态聊天客户端**
 

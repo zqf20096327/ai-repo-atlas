@@ -1,6 +1,6 @@
 # giapnguyen74/xnovelist
 
-⭐ 12 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/giapnguyen74/xnovelist) · [官网](https://giapnguyen74.github.io/xnovelist/) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-06-08 · [GitHub](https://github.com/giapnguyen74/xnovelist) · [官网](https://giapnguyen74.github.io/xnovelist/) · 个人维护
 
 **本地优先的开源长篇小说写作工具，AI 可选且分级可控**
 

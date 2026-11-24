@@ -1,6 +1,6 @@
 # megagonlabs/tabulaflow
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/megagonlabs/tabulaflow) · [官网](https://megagonlabs.github.io/tabulaflow/) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/megagonlabs/tabulaflow) · [官网](https://megagonlabs.github.io/tabulaflow/) · 组织维护
 
 **面向数据分析的自然语言数据代理应用与构建库**
 

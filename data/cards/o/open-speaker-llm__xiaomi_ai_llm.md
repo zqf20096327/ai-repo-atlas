@@ -1,6 +1,6 @@
 # open-speaker-llm/xiaomi_ai_llm
 
-⭐ 73 · Shell · MIT · 推送 2026-11-10 · [GitHub](https://github.com/open-speaker-llm/xiaomi_ai_llm) · 个人维护 · 中文 README
+⭐ 76 · Shell · MIT · 推送 2026-11-10 · [GitHub](https://github.com/open-speaker-llm/xiaomi_ai_llm) · 个人维护 · 中文 README
 
 **让老款小爱音箱直连云端大模型问答的客户端**
 

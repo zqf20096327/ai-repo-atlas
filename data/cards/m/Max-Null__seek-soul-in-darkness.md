@@ -1,6 +1,6 @@
 # Max-Null/seek-soul-in-darkness
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Max-Null/seek-soul-in-darkness) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Max-Null/seek-soul-in-darkness) · 个人维护 · 中文 README
 
 **基于 DeepSeek DSH 的桌面 AI 应用：改壳装插件开箱即用**
 

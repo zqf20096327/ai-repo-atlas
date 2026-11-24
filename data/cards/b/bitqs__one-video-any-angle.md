@@ -1,6 +1,6 @@
 # bitqs/one-video-any-angle
 
-⭐ 3 · NOASSERTION · 推送 2026-10-08 · [GitHub](https://github.com/bitqs/one-video-any-angle) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给内容创作者的 AI 视频工作流：从原片提取动作生成任意机位多风格视频**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |

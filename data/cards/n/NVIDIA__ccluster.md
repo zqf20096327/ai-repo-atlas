@@ -1,6 +1,6 @@
 # NVIDIA/ccluster
 
-⭐ 12 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/ccluster) · 组织维护
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/ccluster) · 组织维护
 
 **AI 团队管理多云 GPU 集群与模型生命周期的 Kubernetes 平台**
 

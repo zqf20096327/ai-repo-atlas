@@ -1,6 +1,6 @@
 # MaartenGr/BERTopic
 
-⭐ 7,968 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/MaartenGr/BERTopic) · [官网](https://maartengr.github.io/BERTopic/) · 个人维护
+⭐ 7,970 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/MaartenGr/BERTopic) · [官网](https://maartengr.github.io/BERTopic/) · 个人维护
 
 **给开发者/NLP 研究者的主题建模库：从文本生成可解释主题**
 

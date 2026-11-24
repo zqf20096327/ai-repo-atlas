@@ -1,6 +1,6 @@
 # Irsyadmr354/KESTREL
 
-⭐ 108 · 推送 2026-11-21 · [GitHub](https://github.com/Irsyadmr354/KESTREL) · [官网](https://irsyadmr354.github.io/KESTREL/) · 个人维护
+⭐ 109 · 推送 2026-11-23 · [GitHub](https://github.com/Irsyadmr354/KESTREL) · [官网](https://irsyadmr354.github.io/KESTREL/) · 个人维护
 
 **单文件越狱系统提示词：粘贴到任意接受系统提示的模型**
 

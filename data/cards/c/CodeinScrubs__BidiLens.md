@@ -1,6 +1,6 @@
 # CodeinScrubs/BidiLens
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/CodeinScrubs/BidiLens) · [官网](https://codeinscrubs.github.io/BidiLens/) · 组织维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CodeinScrubs/BidiLens) · [官网](https://codeinscrubs.github.io/BidiLens/) · 组织维护 · 中文 README
 
 **保留源序的 RTL/LTR 混排文本工具包：供 AI 聊天等界面正确渲染**
 

@@ -1,6 +1,6 @@
 # j9t/html-minifier
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/j9t/html-minifier) · [官网](https://htmlminifier.org/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/j9t/html-minifier) · [官网](https://htmlminifier.org/) · 个人维护
 
 **给前端开发者的可配置 HTML/CSS/JS/SVG 页面压缩工具**
 

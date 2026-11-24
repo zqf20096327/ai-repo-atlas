@@ -1,6 +1,6 @@
 # molML/ChemLint
 
-⭐ 37 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/molML/ChemLint) · [官网](https://pubs.acs.org/jcisd8/article/66/19/12568/5346216/ChemLint-Conversational-Cheminformatics-with-Large) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/molML/ChemLint) · [官网](https://pubs.acs.org/jcisd8/article/66/19/12568/5346216/ChemLint-Conversational-Cheminformatics-with-Large) · 组织维护
 
 **让 LLM 通过 MCP 对话式完成分子机器学习工作流的服务器**
 

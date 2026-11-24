@@ -1,6 +1,6 @@
 # NeoLabs-Systems/NeoAgent
 
-⭐ 27 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/NeoLabs-Systems/NeoAgent) · [官网](https://neolabs-systems.github.io/NeoAgent/) · 组织维护
+⭐ 28 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/NeoLabs-Systems/NeoAgent) · [官网](https://neolabs-systems.github.io/NeoAgent/) · 组织维护
 
 **自托管的个人 AI agent：自动化、消息、设备控制**
 

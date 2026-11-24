@@ -1,6 +1,6 @@
 # XBlueSky/cortexes
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/XBlueSky/cortexes) · [官网](https://cortexes.pages.dev) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/XBlueSky/cortexes) · [官网](https://cortexes.pages.dev) · 个人维护 · 中文 README
 
 **Claude Code 个人知识库插件：会话记录、记忆蒸馏与混合检索**
 

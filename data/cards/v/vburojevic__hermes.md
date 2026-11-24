@@ -1,6 +1,6 @@
 # vburojevic/hermes
 
-⭐ 26 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vburojevic/hermes) · [官网](https://hermesapp.dev) · 个人维护
+⭐ 26 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vburojevic/hermes) · [官网](https://hermesapp.dev) · 个人维护
 
 **连接自托管 Hermes Agent 的 iPhone/iPad/Mac 原生客户端**
 

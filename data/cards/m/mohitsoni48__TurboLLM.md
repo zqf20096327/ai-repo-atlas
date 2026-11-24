@@ -1,6 +1,6 @@
 # mohitsoni48/TurboLLM
 
-⭐ 298 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/mohitsoni48/TurboLLM) · [官网](https://turbollm.dev) · 个人维护
+⭐ 298 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/mohitsoni48/TurboLLM) · [官网](https://turbollm.dev) · 个人维护
 
 **本地 LLM 引擎运行器：任意 llama.cpp 分支加自动调参与 Web UI**
 

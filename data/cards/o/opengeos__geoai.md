@@ -1,6 +1,6 @@
 # opengeos/geoai
 
-⭐ 3,481 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/opengeos/geoai) · [官网](https://opengeoai.org) · 个人维护
+⭐ 3,488 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opengeos/geoai) · [官网](https://opengeoai.org) · 个人维护
 
 **面向地理空间研究者的 AI 遥感分析 Python 包**
 

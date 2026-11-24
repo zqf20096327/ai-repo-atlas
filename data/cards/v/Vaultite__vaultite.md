@@ -1,6 +1,6 @@
 # Vaultite/vaultite
 
-⭐ 214 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Vaultite/vaultite) · [官网](https://vaultite.com) · 组织维护
+⭐ 231 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Vaultite/vaultite) · [官网](https://vaultite.com) · 组织维护
 
 **本地优先的 Markdown 知识库，人与 AI 共同读写笔记**
 

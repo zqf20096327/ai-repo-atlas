@@ -1,6 +1,6 @@
 # NeuroTechX/moabb
 
-⭐ 1,088 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/NeuroTechX/moabb) · [官网](https://moabb.neurotechx.com/docs/index.html) · 组织维护
+⭐ 1,089 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/NeuroTechX/moabb) · [官网](https://moabb.neurotechx.com/docs/index.html) · 组织维护
 
 **脑机接口算法基准测试框架：统一评测 BCI 算法**
 

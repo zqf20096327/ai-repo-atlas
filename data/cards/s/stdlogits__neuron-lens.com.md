@@ -1,6 +1,6 @@
 # stdlogits/neuron-lens.com
 
-⭐ 26 · Svelte · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/stdlogits/neuron-lens.com) · [官网](https://neuron-lens.com) · 组织维护
+⭐ 26 · Svelte · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/stdlogits/neuron-lens.com) · [官网](https://neuron-lens.com) · 组织维护
 
 **浏览 Qwen3-8B 与 Gemma 4 12B 各神经元/注意力头激活语义的网站**
 

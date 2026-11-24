@@ -1,6 +1,6 @@
 # QianYan-Art/SafetyRAISE-OS
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/QianYan-Art/SafetyRAISE-OS) · [官网](https://safetyraise.cn) · 组织维护 · 中文 README
+⭐ 42 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/QianYan-Art/SafetyRAISE-OS) · [官网](https://safetyraise.cn) · 组织维护 · 中文 README
 
 **道路交通事故分析报告生成系统：从影像材料到文书导出**
 

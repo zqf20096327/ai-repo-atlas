@@ -1,6 +1,6 @@
 # YOLOW92/pagesift
 
-⭐ 303 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/YOLOW92/pagesift) · [官网](https://pagesift.tech) · 个人维护 · 中文 README
+⭐ 308 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/YOLOW92/pagesift) · [官网](https://pagesift.tech) · 个人维护 · 中文 README
 
 **面向 AI agent 的 Rust 网页抓取与内容提取引擎**
 

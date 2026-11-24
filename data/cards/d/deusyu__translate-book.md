@@ -1,10 +1,10 @@
 # deusyu/translate-book
 
-⭐ 2,456 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/deusyu/translate-book) · [官网](https://translate.dyu.sh/) · 个人维护
+⭐ 2,461 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/deusyu/translate-book) · [官网](https://translate.dyu.sh/en/) · 个人维护
 
-**给 Codex/Claude Code/OpenClaw 用户的整本图书翻译 Agent 技能**
+**让 Claude Code 等 Agent 用并行子代理整本翻译书籍的技能**
 
-以 Agent skill 形式发布的整书翻译流水线：将 PDF/DOCX/EPUB/Markdown 输入转换为 Markdown 后切块（约 6000 字符/块），由默认 8 个并行子代理各自独立上下文翻译，配合术语表机制保证专有名词跨块一致，用 SHA-256 manifest 校验防止过期或损坏输出被合并，支持块级断点续译与选择性重译，最终产出 HTML（浮动目录）、DOCX、EPUB、PDF 多格式。依赖 Codex/Claude Code/OpenClaw 之一作为运行时，另需 Calibre 与 Pandoc；公式表格密集的 PDF 可选 MinerU/Marker 预提取。维护为单人拥有的 AI 辅助技能流水线，贡献首选 issue 而非 PR。
+一个 Agent Skills 格式的翻译技能，安装到 Claude Code、Codex、Cursor、OpenClaw 等 Agent 后，将 PDF/DOCX/EPUB 书籍转换为 Markdown 并切块，由 8 个并行子代理分别翻译（各自独立上下文窗口），经 SHA-256 清单校验后合并，输出 HTML/DOCX/EPUB/PDF 多格式。支持块级断点续译、邻近块上下文消解指代、多语言目标（zh/en/ja/ko/fr/de/es 可扩展）。依赖宿主 Agent、Calibre 与 Pandoc；兼容性表中仅 Cursor 与 Codex 标注为已验证。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 8 个并行子代理分块翻译，每块独立上下文避免截断
-- SHA-256 manifest 校验与块级断点续译（run_state.json）
-- 翻译前自动构建术语表并以硬约束注入各块 prompt
-- 输出 HTML/DOCX/EPUB/PDF 四种格式，支持源指纹校验防过期复用
+- 8 个并行子代理分块翻译，各自独立上下文避免截断
+- SHA-256 manifest 校验与 chunk 级断点续译
+- 输出 HTML（浮动目录）、DOCX、EPUB、PDF 四种格式
+- 依赖 Calibre/Pandoc 做格式转换，公式密集 PDF 可经 MinerU/Marker 预提取
 
 ## 适用场景
 
-- 把整本 PDF 或 EPUB 书翻译成中文等目标语言
-- 翻译公式与表格较多的学术/技术 PDF（配合 MinerU/Marker 预提取）
-- 长书中断后续译，或修改术语表后只重译受影响的块
+- 把整本外文书籍翻译成中文等目标语言并生成 EPUB
+- 翻译公式、表格较多的学术 PDF（先用 MinerU/Marker 提取为 Markdown）
+- 翻译中断后从已完成的块继续而非重头开始
 
 ## 场景标签
 
- · 领域:翻译/文档处理
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L7: An agent skill for Codex, Claude Code, and OpenClaw that translates entire books (PDF/DOCX/EPUB) into any language u
+> L7: An Agent Skill for Claude Code, Codex, Cursor, OpenClaw and other Agent Skills–compatible agents that translates ent
 > L9:  translate-book — a whole book, translated in parallel: split into chunks, translated by 8 parallel sub-agents, veri
-> L37: - **Agent runtime** — Codex, Claude Code, or OpenClaw, installed and ready to run skills
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `56a3f6ad53bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `4ba596a8cd81` · [字段定义](../../DATASET.md)*

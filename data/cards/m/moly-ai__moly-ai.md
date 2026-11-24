@@ -1,6 +1,6 @@
 # moly-ai/moly-ai
 
-⭐ 426 · Rust · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/moly-ai/moly-ai) · [官网](https://moly-ai.github.io/moly-ai/) · 组织维护
+⭐ 427 · Rust · Apache-2.0 · 推送 2026-03-27 · [GitHub](https://github.com/moly-ai/moly-ai) · [官网](https://moly-ai.github.io/moly-ai/) · 组织维护
 
 **纯 Rust 编写的本地+云端 LLM 多平台 GUI 客户端**
 

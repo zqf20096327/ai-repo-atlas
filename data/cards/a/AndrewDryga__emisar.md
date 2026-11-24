@@ -1,6 +1,6 @@
 # AndrewDryga/emisar
 
-⭐ 481 · Elixir · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/AndrewDryga/emisar) · [官网](https://emisar.dev/) · 组织维护
+⭐ 480 · Elixir · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AndrewDryga/emisar) · [官网](https://emisar.dev/) · 组织维护
 
 **让 AI agent 经策略约束以声明式动作操作基础设施的 MCP 平台**
 

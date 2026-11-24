@@ -1,6 +1,6 @@
 # ozankasikci/agent-sessions
 
-⭐ 81 · Rust · 推送 2026-11-05 · [GitHub](https://github.com/ozankasikci/agent-sessions) · [官网](https://ozankasikci.github.io/agent-sessions/) · 个人维护
+⭐ 81 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/ozankasikci/agent-sessions) · [官网](https://ozankasikci.github.io/agent-sessions/) · 个人维护
 
 **macOS 桌面应用：实时监控多个 AI 编码 agent 会话**
 

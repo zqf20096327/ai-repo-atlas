@@ -1,6 +1,6 @@
 # 4liyev/Gemini-Config-Checker-
 
-⭐ 52 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/4liyev/Gemini-Config-Checker-) · 个人维护
+⭐ 40 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/4liyev/Gemini-Config-Checker-) · 个人维护
 
 **为需要访问 Google AI Studio/Gemini 的用户检测可用代理配置**
 

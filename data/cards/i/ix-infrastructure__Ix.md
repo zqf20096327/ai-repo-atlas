@@ -1,6 +1,6 @@
 # ix-infrastructure/Ix
 
-⭐ 1,159 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ix-infrastructure/Ix) · [官网](https://www.ix-infra.com) · 组织维护
+⭐ 1,160 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ix-infrastructure/Ix) · [官网](https://www.ix-infra.com) · 组织维护
 
 **把代码库解析成持久图，供人与 AI agent 查询结构**
 

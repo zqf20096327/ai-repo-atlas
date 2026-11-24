@@ -1,6 +1,6 @@
 # sigstore/model-transparency
 
-⭐ 250 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/sigstore/model-transparency) · 组织维护
+⭐ 250 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sigstore/model-transparency) · 组织维护
 
 **给 ML 从业者的模型签名与校验工具，保障模型供应链完整性**
 

@@ -1,6 +1,6 @@
 # MitulShah1/openai-agents-go
 
-⭐ 47 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/MitulShah1/openai-agents-go) · [官网](https://mitulshah1.github.io/openai-agents-go/) · 个人维护
+⭐ 47 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MitulShah1/openai-agents-go) · [官网](https://mitulshah1.github.io/openai-agents-go/) · 个人维护
 
 **非官方 Go 版 OpenAI Agents SDK：构建多 agent 工作流**
 

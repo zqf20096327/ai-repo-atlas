@@ -1,6 +1,6 @@
 # maruel/genai
 
-⭐ 34 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/maruel/genai) · 个人维护
+⭐ 34 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/maruel/genai) · 个人维护
 
 **Go 语言的 LLM 多后端 SDK：一套类型安全 API 接入 20+ 家模型服务商**
 

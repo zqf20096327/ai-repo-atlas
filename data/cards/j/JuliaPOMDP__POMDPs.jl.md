@@ -1,6 +1,6 @@
 # JuliaPOMDP/POMDPs.jl
 
-⭐ 771 · Julia · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/JuliaPOMDP/POMDPs.jl) · [官网](http://juliapomdp.github.io/POMDPs.jl/latest/) · 组织维护
+⭐ 771 · Julia · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/JuliaPOMDP/POMDPs.jl) · [官网](http://juliapomdp.github.io/POMDPs.jl/latest/) · 组织维护
 
 **Julia 的 MDP/POMDP 定义、求解与仿真接口框架**
 

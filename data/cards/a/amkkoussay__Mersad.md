@@ -1,6 +1,6 @@
 # amkkoussay/Mersad
 
-⭐ 13 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/amkkoussay/Mersad) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/amkkoussay/Mersad) · 个人维护 · 中文 README
 
 **给 AI agent 共享本地记忆库：双时态事实与决策日志**
 

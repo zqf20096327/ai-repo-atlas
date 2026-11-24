@@ -1,6 +1,6 @@
 # Root0ne/Malspark
 
-⭐ 21 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Root0ne/Malspark) · [官网](https://malspark.com) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Root0ne/Malspark) · [官网](https://malspark.com) · 个人维护
 
 **自托管多智能体恶意软件分析平台：AI 分析师团队出具带证据的报告**
 

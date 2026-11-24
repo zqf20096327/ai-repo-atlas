@@ -1,6 +1,6 @@
 # EuroEval/EuroEval
 
-⭐ 206 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EuroEval/EuroEval) · [官网](https://euroeval.com) · 个人维护
+⭐ 206 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EuroEval/EuroEval) · [官网](https://euroeval.com) · 个人维护
 
 **欧洲语言模型评测基准框架（前身为 ScandEval）**
 

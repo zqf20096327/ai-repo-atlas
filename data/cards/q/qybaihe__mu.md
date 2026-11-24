@@ -1,6 +1,6 @@
 # qybaihe/mu
 
-⭐ 616 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/qybaihe/mu) · [官网](https://usemu.dev) · 个人维护 · 中文 README
+⭐ 616 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/qybaihe/mu) · [官网](https://usemu.dev) · 个人维护 · 中文 README
 
 **带小模型判断核的编码 agent，让主模型专注写代码**
 

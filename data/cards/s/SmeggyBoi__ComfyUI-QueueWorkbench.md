@@ -1,6 +1,6 @@
 # SmeggyBoi/ComfyUI-QueueWorkbench
 
-⭐ 10 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SmeggyBoi/ComfyUI-QueueWorkbench) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/SmeggyBoi/ComfyUI-QueueWorkbench) · 个人维护
 
 **ComfyUI 队列管理面板：区分/编辑/重排/持久化排队任务**
 

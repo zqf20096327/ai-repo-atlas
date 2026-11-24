@@ -1,6 +1,6 @@
 # Domush/antigravity-plugin-context-mode
 
-⭐ 123 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Domush/antigravity-plugin-context-mode) · [官网](https://domush.github.io/antigravity-plugin-context-mode/) · 个人维护
+⭐ 130 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Domush/antigravity-plugin-context-mode) · [官网](https://domush.github.io/antigravity-plugin-context-mode/) · 个人维护
 
 **Google Antigravity 的本地上下文压缩插件：拦截大输出省 token**
 

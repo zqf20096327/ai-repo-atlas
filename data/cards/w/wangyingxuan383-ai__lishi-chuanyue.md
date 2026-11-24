@@ -1,6 +1,6 @@
 # wangyingxuan383-ai/lishi-chuanyue
 
-⭐ 13 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/wangyingxuan383-ai/lishi-chuanyue) · [官网](https://github.com/wangyingxuan383-ai/lishi-chuanyue/releases) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/wangyingxuan383-ai/lishi-chuanyue) · [官网](https://github.com/wangyingxuan383-ai/lishi-chuanyue/releases) · 个人维护 · 中文 README
 
 **装在手机和电脑里的历史穿越 AI 互动小说应用**
 

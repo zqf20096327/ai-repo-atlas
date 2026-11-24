@@ -1,6 +1,6 @@
 # fxstein/ascii-guard
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/fxstein/ascii-guard) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fxstein/ascii-guard) · 个人维护
 
 **检测并修复文档中 AI ASCII 框图错位的 Python linter**
 

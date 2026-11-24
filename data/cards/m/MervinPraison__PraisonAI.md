@@ -1,6 +1,6 @@
 # MervinPraison/PraisonAI
 
-⭐ 9,380 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai) · 组织维护
+⭐ 9,381 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MervinPraison/PraisonAI) · [官网](https://praison.ai) · 组织维护
 
 **可完全离线运行的 Python 多智能体开发框架**
 

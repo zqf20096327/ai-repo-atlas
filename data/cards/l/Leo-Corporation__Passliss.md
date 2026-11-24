@@ -1,6 +1,6 @@
 # Leo-Corporation/Passliss
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Leo-Corporation/Passliss) · [官网](https://passliss.leocorporation.dev/) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Leo-Corporation/Passliss) · [官网](https://passliss.leocorporation.dev/) · 个人维护
 
 **网页密码生成与分析工具：生成、强度测试与加密**
 

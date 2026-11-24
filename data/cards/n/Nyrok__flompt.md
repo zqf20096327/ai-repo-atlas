@@ -1,6 +1,6 @@
 # Nyrok/flompt
 
-⭐ 156 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/Nyrok/flompt) · [官网](https://flompt.dev) · 个人维护
+⭐ 157 · TypeScript · MIT · 推送 2026-03-30 · [GitHub](https://github.com/Nyrok/flompt) · [官网](https://flompt.dev) · 个人维护
 
 **可视化 AI 提示词构建器：拆解提示词为流程图并编译为 XML**
 

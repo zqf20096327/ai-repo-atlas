@@ -1,6 +1,6 @@
 # huggingface/robotics-course
 
-⭐ 176 · MDX · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/robotics-course) · 组织维护
+⭐ 177 · MDX · 推送 2026-10-27 · [GitHub](https://github.com/huggingface/robotics-course) · 组织维护
 
 **Hugging Face 机器人学课程：从经典方法到学习方法的实践教程**
 

@@ -1,6 +1,6 @@
 # basilelt/overseer
 
-⭐ 9 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/basilelt/overseer) · [官网](https://basilelt.github.io/overseer/) · 个人维护
+⭐ 9 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/basilelt/overseer) · [官网](https://basilelt.github.io/overseer/) · 个人维护
 
 **统一运行与监督多个 AI 编码 agent 的桌面/移动应用**
 

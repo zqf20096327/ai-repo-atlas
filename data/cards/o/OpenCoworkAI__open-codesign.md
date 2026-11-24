@@ -1,6 +1,6 @@
 # OpenCoworkAI/open-codesign
 
-⭐ 8,249 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/OpenCoworkAI/open-codesign) · [官网](https://opencoworkai.github.io/open-codesign/) · 组织维护 · 中文 README
+⭐ 8,250 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/OpenCoworkAI/open-codesign) · [官网](https://opencoworkai.github.io/open-codesign/) · 组织维护 · 中文 README
 
 **开源桌面 AI 设计工具：提示词生原型/幻灯/PDF，BYOK 多模型**
 

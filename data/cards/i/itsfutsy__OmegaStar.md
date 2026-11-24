@@ -1,6 +1,6 @@
 # itsfutsy/OmegaStar
 
-⭐ 15 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/itsfutsy/OmegaStar) · 个人维护
+⭐ 16 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/itsfutsy/OmegaStar) · 个人维护
 
 **把已装好的 Claude Code 组建成 AI 员工团队的桌面应用**
 

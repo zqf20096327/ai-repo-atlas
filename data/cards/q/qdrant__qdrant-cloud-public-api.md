@@ -1,6 +1,6 @@
 # qdrant/qdrant-cloud-public-api
 
-⭐ 12 · Shell · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/qdrant/qdrant-cloud-public-api) · 组织维护
+⭐ 12 · Shell · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/qdrant/qdrant-cloud-public-api) · 组织维护
 
 **Qdrant Cloud 平台 API 的 proto 定义与 SDK（Go/Python/TS）**
 

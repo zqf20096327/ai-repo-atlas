@@ -1,6 +1,6 @@
 # memtomem/memtomem
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/memtomem/memtomem) · [官网](https://memtomem.com) · 个人维护 · 中文 README
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/memtomem/memtomem) · [官网](https://memtomem.com) · 个人维护 · 中文 README
 
 **Markdown 优先的 AI agent 长期记忆基础设施（MCP 混合检索）**
 

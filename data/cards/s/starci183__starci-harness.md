@@ -1,6 +1,6 @@
 # starci183/starci-harness
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/starci183/starci-harness) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/starci183/starci-harness) · 个人维护 · 中文 README
 
 **给 AI 编码代理的任务加契约与干净校验的 CLI 工具**
 

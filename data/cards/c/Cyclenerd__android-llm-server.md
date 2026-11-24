@@ -1,6 +1,6 @@
 # Cyclenerd/android-llm-server
 
-⭐ 33 · Kotlin · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Cyclenerd/android-llm-server) · 个人维护
+⭐ 33 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Cyclenerd/android-llm-server) · 个人维护
 
 **把 Android 手机变成本地 LLM 服务器的应用**
 

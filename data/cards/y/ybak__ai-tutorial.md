@@ -1,6 +1,6 @@
 # ybak/ai-tutorial
 
-⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ybak/ai-tutorial) · [官网](https://ybak.github.io/ai-tutorial/) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ybak/ai-tutorial) · [官网](https://ybak.github.io/ai-tutorial/) · 个人维护 · 中文 README
 
 **面向跨境电商多租户智能体平台的中文教程书架**
 

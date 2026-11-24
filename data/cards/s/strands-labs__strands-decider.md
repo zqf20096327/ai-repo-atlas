@@ -1,10 +1,10 @@
 # strands-labs/strands-decider
 
-⭐ 1,253 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/strands-labs/strands-decider) · [官网](https://strandsagents.com/docs/labs/) · 组织维护
+⭐ 1,264 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/strands-labs/strands-decider) · [官网](https://strandsagents.com/docs/labs/) · 组织维护
 
-**给 agentic 工作流的快速决策模型：选项判定与打分**
+**面向 agent 工作流的小型快速决策模型，输出选项判定与置信度**
 
-Strands Decider 是一个决策模型（自称 system one 模型）：在预训练 LLM 主干上丢弃语言建模头，换成约百万参数的指针头，单次前向即可从选项中挑选或按量表打分，不做文本生成。提供三种问题类型（noul 是/否、choice 多选一、score 有序评分），每次决策附带校准置信度。以 CLI 和 HTTP 服务器形式提供，基于 Qwen3.5 与 Gemma 4 基座，支持 CPU、CUDA、MPS、MLX 设备，模型权重发布在 Hugging Face。
+Strands Decider 是'决策模型'（system one 模型）：基于预训练 decoder 主体加一个 readout 头，一次前向、无生成，从给定选项中做出选择、回答 Yes/No（noul）或给出量表分数，每个决策附带校准置信度。提供 CLI 与 HTTP server 两种使用方式，模型权重托管在 Hugging Face。v2 系列基于 Gemma 4，共五个尺寸（E2B 至 31B），支持 32,768 token 上下文与图像输入；选项由请求动态给出，新增类别无需重训练。小尺寸模型可在 24 GB GPU 或 CPU 上运行。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Strands Decider 是一个决策模型（自称 system one 模型）：在预训�
 
 ## 能力要点
 
-- 单次前向输出的指针头架构，不做生成与解码循环
-- 三种问题类型：choice/noul/score，附带校准置信度
-- 以 CLI 与 HTTP 服务器形式提供，支持 --vision 图像输入
-- 提供 2B 至 26B-A4B 多个尺寸，全部可在 CPU 运行
+- 三种问题类型：choice（选项选择）、noul（Yes/No）、score（量表评分）
+- 每个决策携带校准置信度，0.9 以上置信度约 95% 正确率
+- token readout 架构：一次前向、无生成，选项来自请求无需重训练
+- 支持图像输入与 32,768 token 上下文
 
 ## 适用场景
 
-- 在 agent 工作流中做路由决策（如按工单内容选择处理团队）
-- 对文本做快速情感/紧急度打分
-- 对文档图像做是/否判断（如签名栏是否填写）
+- agent 工作流中代替 LLM 做快速选项判定
+- 对文本情感或用户情绪做量表打分
+- 客服请求的自动分类与分流
+- 对文档图像内容做是/否判断
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+ · 领域:AI 模型/推理
 
 ## 证据(README 行号)
 
-> L20: Strands decider is one of a new class of **decision models**, or "system one" models. Unlike an
-> L23: and traditional classification models: it is a general-purpose classification and scoring
-> L26: agentic workflows built with the Strands Agents SDK.
+> L11:  A small, fast decision model for agentic AI.
+> L26: Strands decider is one of a new class of **decision models**, or "system one" models. Unlike an
+> L32: agentic workflows built with the Strands Agents SDK.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cb86d5d3f95c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b2659921bd68` · [字段定义](../../DATASET.md)*

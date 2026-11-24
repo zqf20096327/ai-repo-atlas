@@ -1,6 +1,6 @@
 # geeks-accelerator/ollama-herd
 
-⭐ 36 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/geeks-accelerator/ollama-herd) · [官网](https://ollamaherd.com) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/geeks-accelerator/ollama-herd) · [官网](https://ollamaherd.com) · 组织维护
 
 **面向 Ollama/MLX 集群的本地 AI 推理路由与负载均衡器**
 

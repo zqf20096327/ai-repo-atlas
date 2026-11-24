@@ -1,6 +1,6 @@
 # Swizzle-AI/swizzle-runtime
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Swizzle-AI/swizzle-runtime) · [官网](https://swizzle-ten.vercel.app) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Swizzle-AI/swizzle-runtime) · [官网](https://swizzle-ten.vercel.app) · 组织维护
 
 **Rust 编写的本地 LLM 推理运行时，读取 GGUF/.ktc 模型**
 

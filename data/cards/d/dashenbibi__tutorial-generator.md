@@ -1,6 +1,6 @@
 # dashenbibi/tutorial-generator
 
-⭐ 15 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/dashenbibi/tutorial-generator) · 个人维护 · 中文 README
+⭐ 16 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/dashenbibi/tutorial-generator) · 个人维护 · 中文 README
 
 **AI Skill：从任意 URL 自动生成带截图与 TTS 解说的图文/视频教程**
 

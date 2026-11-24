@@ -1,6 +1,6 @@
 # ConardLi/garden-skills
 
-⭐ 15,656 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ConardLi/garden-skills) · [官网](https://github.com/ConardLi/garden-skills) · 个人维护 · 中文 README
+⭐ 15,704 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ConardLi/garden-skills) · [官网](https://github.com/ConardLi/garden-skills) · 个人维护 · 中文 README
 
 **为 Claude Code 等 AI 编码 agent 提供的生产级技能合集**
 

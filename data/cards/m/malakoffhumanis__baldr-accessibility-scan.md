@@ -1,6 +1,6 @@
 # malakoffhumanis/baldr-accessibility-scan
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/malakoffhumanis/baldr-accessibility-scan) · 组织维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/malakoffhumanis/baldr-accessibility-scan) · 组织维护
 
 **给开发与合规团队的 RGAA/WCAG 网页无障碍自动审计工具**
 

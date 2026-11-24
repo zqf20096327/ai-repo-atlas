@@ -1,6 +1,6 @@
 # netresearch/github-project-skill
 
-⭐ 11 · Shell · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/netresearch/github-project-skill) · 组织维护
+⭐ 13 · Shell · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/netresearch/github-project-skill) · 组织维护
 
 **给 AI agent 用的 GitHub 仓库配置与平台功能技能包**
 

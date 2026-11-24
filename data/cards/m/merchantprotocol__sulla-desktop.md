@@ -1,6 +1,6 @@
 # merchantprotocol/sulla-desktop
 
-⭐ 14 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/merchantprotocol/sulla-desktop) · [官网](https://sulladesktop.com) · 组织维护
+⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/merchantprotocol/sulla-desktop) · [官网](https://sulladesktop.com) · 组织维护
 
 **运行在本机的 AI 执行助理桌面应用，按自然语言构建并定时运行自动化**
 

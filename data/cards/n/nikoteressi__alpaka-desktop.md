@@ -1,6 +1,6 @@
 # nikoteressi/alpaka-desktop
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nikoteressi/alpaka-desktop) · [官网](https://nikoteressi.github.io/alpaka-desktop/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nikoteressi/alpaka-desktop) · [官网](https://nikoteressi.github.io/alpaka-desktop/) · 个人维护
 
 **Linux 原生 Ollama 桌面客户端（Tauri 构建）**
 

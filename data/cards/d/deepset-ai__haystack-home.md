@@ -1,6 +1,6 @@
 # deepset-ai/haystack-home
 
-⭐ 24 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/deepset-ai/haystack-home) · [官网](https://haystack.deepset.ai) · 组织维护
+⭐ 24 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/deepset-ai/haystack-home) · [官网](https://haystack.deepset.ai) · 组织维护
 
 **Haystack 官网仓库：用 Hugo 构建静态网站源码与贡献指南**
 

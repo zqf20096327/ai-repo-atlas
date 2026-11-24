@@ -1,6 +1,6 @@
 # google/edward2
 
-⭐ 714 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google/edward2) · 组织维护
+⭐ 715 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/google/edward2) · 组织维护
 
 **给研究者的轻量级概率编程语言，支持 TensorFlow/JAX/NumPy 后端**
 

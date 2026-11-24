@@ -1,6 +1,6 @@
 # ruvnet/ruv-FANN
 
-⭐ 399 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ruvnet/ruv-FANN) · [官网](https://ruv.io) · 个人维护
+⭐ 399 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ruvnet/ruv-FANN) · [官网](https://ruv.io) · 个人维护
 
 **Rust/JS/WASM 小型神经网络库：权重编程与模型修订管理**
 

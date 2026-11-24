@@ -1,6 +1,6 @@
 # sherwinvishesh/SurrogateShield
 
-⭐ 1,002 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/sherwinvishesh/SurrogateShield) · [官网](https://sherwinvishesh.github.io/SurrogateShield/) · 个人维护
+⭐ 1,020 · Python · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/sherwinvishesh/SurrogateShield) · [官网](https://sherwinvishesh.github.io/SurrogateShield/) · 个人维护
 
 **LLM/RAG 管道的 PII 防护栏：检测、替换、还原敏感数据**
 

@@ -1,6 +1,6 @@
 # ArtJack/second-brain
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ArtJack/second-brain) · [官网](https://artjeck.com) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ArtJack/second-brain) · [官网](https://artjeck.com) · 个人维护
 
 **本地优先的个人 RAG 问答助手，答案强制引用自有文档**
 

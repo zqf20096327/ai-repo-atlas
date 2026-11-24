@@ -1,6 +1,6 @@
 # a7med7emedan/medagentrx
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/a7med7emedan/medagentrx) · [官网](https://a7med7emedan.github.io/medagentrx/) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/a7med7emedan/medagentrx) · [官网](https://a7med7emedan.github.io/medagentrx/) · 个人维护
 
 **给临床 AI 模型更新做变更控制审查的 Python 门禁工具**
 

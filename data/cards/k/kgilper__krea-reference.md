@@ -1,6 +1,6 @@
 # kgilper/krea-reference
 
-⭐ 22 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/kgilper/krea-reference) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kgilper/krea-reference) · 个人维护
 
 **用参考图引导 Krea 2 生成的 ComfyUI 自定义节点集**
 

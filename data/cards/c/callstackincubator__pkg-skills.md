@@ -1,6 +1,6 @@
 # callstackincubator/pkg-skills
 
-⭐ 21 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/callstackincubator/pkg-skills) · 组织维护
+⭐ 21 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/callstackincubator/pkg-skills) · 组织维护
 
 **按项目依赖推荐并管理 React Native agent 技能的 CLI**
 

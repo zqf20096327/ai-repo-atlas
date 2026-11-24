@@ -1,6 +1,6 @@
 # cluster1900/ai-engineering-from-scratch-zh
 
-⭐ 14 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/cluster1900/ai-engineering-from-scratch-zh) · [官网](https://ai-learn.apexolab.com/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/cluster1900/ai-engineering-from-scratch-zh) · [官网](https://ai-learn.apexolab.com/) · 个人维护 · 中文 README
 
 **中文版 AI 工程课程：20 阶段 542 课，从数学到 Agent/MCP**
 

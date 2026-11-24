@@ -1,6 +1,6 @@
 # rockbenben/free-llm-intel
 
-⭐ 65 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rockbenben/free-llm-intel) · [官网](https://free-llm-intel.aishort.top/) · 个人维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rockbenben/free-llm-intel) · [官网](https://free-llm-intel.aishort.top/) · 个人维护 · 中文 README
 
 **LLM 免费额度与厂商动态情报站：脚本每日巡检官方页生成总表与 RSS**
 

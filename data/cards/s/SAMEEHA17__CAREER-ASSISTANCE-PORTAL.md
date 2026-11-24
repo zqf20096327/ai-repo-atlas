@@ -1,6 +1,6 @@
 # SAMEEHA17/CAREER-ASSISTANCE-PORTAL
 
-⭐ 18 · JavaScript · 推送 2025-11-27 · [GitHub](https://github.com/SAMEEHA17/CAREER-ASSISTANCE-PORTAL) · [官网](https://sensai-bysamee.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 AI 与行业动态洞察的求职辅助门户（Next.js 全栈）**
 

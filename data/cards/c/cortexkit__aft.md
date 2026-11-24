@@ -1,6 +1,6 @@
 # cortexkit/aft
 
-⭐ 348 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cortexkit/aft) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护
+⭐ 348 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/cortexkit/aft) · [官网](https://discord.gg/DSa65w8wuf) · 组织维护
 
 **为编码 agent 提供符号级代码感知与执行环境的工具层**
 

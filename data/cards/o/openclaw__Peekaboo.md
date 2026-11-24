@@ -1,6 +1,6 @@
 # openclaw/Peekaboo
 
-⭐ 5,511 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/openclaw/Peekaboo) · [官网](http://www.peekaboo.boo) · 个人维护
+⭐ 5,521 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/openclaw/Peekaboo) · [官网](http://www.peekaboo.boo) · 个人维护
 
 **给 AI agent 提供屏幕截图与 UI 自动化能力的 macOS CLI**
 

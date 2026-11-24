@@ -1,6 +1,6 @@
 # aartiles/tenaz
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/aartiles/tenaz) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aartiles/tenaz) · 个人维护
 
 **让本地 LLM 经编码代理长时间自主构建软件的运行器**
 

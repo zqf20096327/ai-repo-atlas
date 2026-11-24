@@ -1,6 +1,6 @@
 # embeddedos-org/eAI
 
-⭐ 10 · C · MIT · 推送 2026-11-22 · [GitHub](https://github.com/embeddedos-org/eAI) · 组织维护
+⭐ 10 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/embeddedos-org/eAI) · 组织维护
 
 **嵌入式设备的端侧 AI 运行时层，供 IoT/工业系统集成**
 

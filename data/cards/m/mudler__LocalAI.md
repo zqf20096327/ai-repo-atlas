@@ -1,6 +1,6 @@
 # mudler/LocalAI
 
-⭐ 50,499 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护
+⭐ 50,514 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mudler/LocalAI) · [官网](https://localai.io) · 组织维护
 
 **本地运行开源模型的推理服务：团队自托管聊天/语音/图像 API**
 

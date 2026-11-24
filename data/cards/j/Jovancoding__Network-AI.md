@@ -1,6 +1,6 @@
 # Jovancoding/Network-AI
 
-⭐ 91 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Jovancoding/Network-AI) · [官网](https://network-ai.org/) · 个人维护
+⭐ 91 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Jovancoding/Network-AI) · [官网](https://network-ai.org/) · 个人维护
 
 **给多智能体开发者的 TypeScript 编排框架：共享状态、护栏与治理**
 

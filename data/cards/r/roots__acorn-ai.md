@@ -1,6 +1,6 @@
 # roots/acorn-ai
 
-⭐ 26 · PHP · MIT · 推送 2026-06-03 · [GitHub](https://github.com/roots/acorn-ai) · [官网](https://roots.io/announcing-acorn-ai/) · 组织维护
+⭐ 26 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/roots/acorn-ai) · [官网](https://roots.io/announcing-acorn-ai/) · 组织维护
 
 **为 WordPress/Acorn 提供 laravel/ai 封装与 Abilities API 集成的 PHP 包**
 

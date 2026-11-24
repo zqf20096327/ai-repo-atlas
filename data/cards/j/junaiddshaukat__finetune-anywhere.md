@@ -1,6 +1,6 @@
 # junaiddshaukat/finetune-anywhere
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/junaiddshaukat/finetune-anywhere) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/junaiddshaukat/finetune-anywhere) · 个人维护
 
 **小模型微调并在本地运行的分硬件教程指南**
 

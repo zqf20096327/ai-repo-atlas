@@ -1,6 +1,6 @@
 # talgent-work/workbench
 
-⭐ 88 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/talgent-work/workbench) · [官网](https://talgent.work) · 组织维护
+⭐ 105 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/talgent-work/workbench) · [官网](https://talgent.work) · 组织维护
 
 **自托管的托管式 AI Agent 平台，每个任务独立沙箱运行**
 

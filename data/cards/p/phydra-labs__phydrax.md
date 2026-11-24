@@ -1,6 +1,6 @@
 # phydra-labs/phydrax
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/phydra-labs/phydrax) · [官网](https://phydra-labs.github.io/phydrax) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/phydra-labs/phydrax) · [官网](https://phydra-labs.github.io/phydrax) · 组织维护
 
 **基于 JAX+Equinox 的 PDE 科学机器学习工具包，供科研人员构建物理约束模型**
 

@@ -1,6 +1,6 @@
 # kubeflow/sdk
 
-⭐ 163 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kubeflow/sdk) · [官网](https://sdk.kubeflow.org/en/latest/) · 组织维护
+⭐ 164 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kubeflow/sdk) · [官网](https://sdk.kubeflow.org/en/latest/) · 组织维护
 
 **在 Kubernetes 上运行 AI 工作负载的统一 Python SDK**
 

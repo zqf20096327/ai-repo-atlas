@@ -1,6 +1,6 @@
 # feyninc/pulpie
 
-⭐ 80 · HTML · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/feyninc/pulpie) · [官网](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/) · 组织维护
+⭐ 81 · HTML · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/feyninc/pulpie) · [官网](https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/) · 组织维护
 
 **编码器模型从 HTML 中抽取正文内容并输出 HTML/Markdown**
 

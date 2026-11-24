@@ -1,6 +1,6 @@
 # pion/mediadevices
 
-⭐ 649 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/pion/mediadevices) · [官网](https://pion.ly/) · 组织维护
+⭐ 649 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pion/mediadevices) · [官网](https://pion.ly/) · 组织维护
 
 **Go 的 MediaDevices API 实现：访问摄像头/麦克风/屏幕并编码**
 

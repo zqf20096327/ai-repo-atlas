@@ -1,6 +1,6 @@
 # proteendas/ImagineCAD
 
-⭐ 5 · Rust · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/proteendas/ImagineCAD) · 个人维护
+⭐ 6 · Rust · GPL-3.0 · 推送 2026-10-16 · [GitHub](https://github.com/proteendas/ImagineCAD) · 个人维护
 
 **面向机械绘图者的 2D CAD，支持手绘草图照片转精确图纸**
 

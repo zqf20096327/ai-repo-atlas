@@ -1,6 +1,6 @@
 # cnoe-io/openapi-mcp-codegen
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/cnoe-io/openapi-mcp-codegen) · [官网](https://cnoe-io.github.io/openapi-mcp-codegen/) · 组织维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cnoe-io/openapi-mcp-codegen) · [官网](https://cnoe-io.github.io/openapi-mcp-codegen/) · 组织维护
 
 **从 OpenAPI 规范生成 MCP Server 的 Python 代码生成器**
 

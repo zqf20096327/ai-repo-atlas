@@ -1,6 +1,6 @@
 # RevEngAI/plugin-ghidra
 
-⭐ 201 · Java · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/RevEngAI/plugin-ghidra) · [官网](https://reveng.ai) · 组织维护
+⭐ 201 · Java · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RevEngAI/plugin-ghidra) · [官网](https://reveng.ai) · 组织维护
 
 **给逆向工程师的 Ghidra 插件：接入 RevEng.AI 做二进制相似度与 AI 反编译**
 

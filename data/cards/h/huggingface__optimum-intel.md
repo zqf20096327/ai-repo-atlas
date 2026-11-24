@@ -1,6 +1,6 @@
 # huggingface/optimum-intel
 
-⭐ 631 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/huggingface/optimum-intel) · [官网](https://huggingface.co/docs/optimum-intel/en/index) · 组织维护
+⭐ 631 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/optimum-intel) · [官网](https://huggingface.co/docs/optimum-intel/en/index) · 组织维护
 
 **Hugging Face 库接入 OpenVINO：在 Intel 硬件上加速模型推理**
 

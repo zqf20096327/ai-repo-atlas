@@ -1,6 +1,6 @@
 # rosasynthesiz/flstudio-mcp
 
-⭐ 151 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rosasynthesiz/flstudio-mcp) · 个人维护
+⭐ 153 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rosasynthesiz/flstudio-mcp) · 个人维护
 
 **用 Claude 等 AI 助手通过自然语言控制 FL Studio 的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # AI-in-Transportation-Lab/awesome-tinyml
 
-⭐ 156 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/AI-in-Transportation-Lab/awesome-tinyml) · [官网](https://dl.acm.org/doi/10.1145/3776588) · 组织维护
+⭐ 156 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AI-in-Transportation-Lab/awesome-tinyml) · [官网](https://dl.acm.org/doi/10.1145/3776588) · 组织维护
 
 **TinyML 资源策展清单：面向边缘设备机器学习研究者的论文/库/教程汇总**
 

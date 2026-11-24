@@ -1,6 +1,6 @@
 # ray-project/kuberay-helm
 
-⭐ 66 · Mustache · 推送 2026-11-06 · [GitHub](https://github.com/ray-project/kuberay-helm) · 组织维护
+⭐ 66 · Mustache · 推送 2026-11-23 · [GitHub](https://github.com/ray-project/kuberay-helm) · 组织维护
 
 **KubeRay 项目的 Helm charts 仓库，用于在 Kubernetes 部署 KubeRay**
 

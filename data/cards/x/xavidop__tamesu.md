@@ -1,6 +1,6 @@
 # xavidop/tamesu
 
-⭐ 7 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/xavidop/tamesu) · [官网](https://xavidop.github.io/tamesu/) · 个人维护
+⭐ 7 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xavidop/tamesu) · [官网](https://xavidop.github.io/tamesu/) · 个人维护
 
 **AI Agent 与 Web 应用的 YAML 化测试 CLI：CI 中模拟用户验证**
 

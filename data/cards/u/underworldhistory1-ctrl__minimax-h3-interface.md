@@ -1,6 +1,6 @@
 # underworldhistory1-ctrl/minimax-h3-interface
 
-⭐ 37 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/underworldhistory1-ctrl/minimax-h3-interface) · [官网](https://underworldhistory1-ctrl.github.io/minimax-h3-interface/) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/underworldhistory1-ctrl/minimax-h3-interface) · [官网](https://underworldhistory1-ctrl.github.io/minimax-h3-interface/) · 组织维护
 
 **自托管 MiniMax H3 视频生成与 Qwen 图像创作的浏览器工作台**
 

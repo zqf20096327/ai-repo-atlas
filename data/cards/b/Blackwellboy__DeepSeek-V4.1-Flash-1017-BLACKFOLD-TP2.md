@@ -1,6 +1,6 @@
 # Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2) · [官网](https://huggingface.co/BlackwellBoy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-EXL3-2.9bpw-TP2) · 个人维护
+⭐ 65 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Blackwellboy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-TP2) · [官网](https://huggingface.co/BlackwellBoy/DeepSeek-V4.1-Flash-1017-BLACKFOLD-EXL3-2.9bpw-TP2) · 个人维护
 
 **在双 DGX Spark 上运行 DeepSeek-V4.1-Flash 的 TP2 部署配方**
 

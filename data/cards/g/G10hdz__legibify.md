@@ -1,6 +1,6 @@
 # G10hdz/legibify
 
-⭐ 6 · HTML · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/G10hdz/legibify) · [官网](https://g10hdz.github.io/legibify/) · 个人维护
+⭐ 7 · HTML · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/G10hdz/legibify) · [官网](https://g10hdz.github.io/legibify/) · 个人维护
 
 **把 PR/提交/代码片段转成分层可核验解释的 agent 技能**
 

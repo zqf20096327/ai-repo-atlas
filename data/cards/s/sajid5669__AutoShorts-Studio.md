@@ -1,6 +1,6 @@
 # sajid5669/AutoShorts-Studio
 
-⭐ 15 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/sajid5669/AutoShorts-Studio) · 个人维护
+⭐ 15 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/sajid5669/AutoShorts-Studio) · 个人维护
 
 **面向社媒的自动化短视频生成平台（AI 脚本+配音+发布）**
 

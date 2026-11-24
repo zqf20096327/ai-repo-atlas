@@ -1,6 +1,6 @@
 # chteau/tokenforge
 
-⭐ 6 · Rust · MIT · 推送 2026-10-12 · [GitHub](https://github.com/chteau/tokenforge) · [官网](https://chteau.github.io/tokenforge/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 Claude Code 用户降低会话 token 消耗的插件**
 
@@ -11,7 +11,7 @@ TokenForge 是一个 Claude Code 插件，通过改变工作组织方式减少�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

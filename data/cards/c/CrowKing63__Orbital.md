@@ -1,6 +1,6 @@
 # CrowKing63/Orbital
 
-⭐ 49 · C# · MIT · 推送 2026-11-02 · [GitHub](https://github.com/CrowKing63/Orbital) · [官网](https://crowking63.github.io/Orbital/) · 个人维护
+⭐ 49 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CrowKing63/Orbital) · [官网](https://crowking63.github.io/Orbital/) · 个人维护
 
 **Windows 划词弹出的 AI 动作栏：翻译、总结、改写、自定义提示词**
 

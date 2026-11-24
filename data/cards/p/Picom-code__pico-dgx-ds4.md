@@ -1,6 +1,6 @@
 # Picom-code/pico-dgx-ds4
 
-⭐ 153 · Cuda · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Picom-code/pico-dgx-ds4) · 个人维护
+⭐ 159 · Cuda · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Picom-code/pico-dgx-ds4) · 个人维护
 
 **在 4 台 DGX Spark 上运行 DeepSeek V4.1 Flash 的多用户推理引擎**
 

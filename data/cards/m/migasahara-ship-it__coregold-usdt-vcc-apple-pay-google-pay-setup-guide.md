@@ -1,6 +1,6 @@
 # migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide
 
-⭐ 32 · 推送 2026-11-17 · [GitHub](https://github.com/migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 53 · 推送 2026-11-17 · [GitHub](https://github.com/migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **Coregold 虚拟卡申请、USDT 充值与绑定 Apple/Google Pay 的教程**
 

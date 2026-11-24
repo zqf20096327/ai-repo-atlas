@@ -1,6 +1,6 @@
 # dagster-io/dagster
 
-⭐ 16,457 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dagster-io/dagster) · [官网](https://dagster.io) · 组织维护
+⭐ 16,465 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dagster-io/dagster) · [官网](https://dagster.io) · 组织维护
 
 **面向数据资产的管道编排平台，覆盖开发到生产全周期**
 

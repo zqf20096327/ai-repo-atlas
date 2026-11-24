@@ -1,6 +1,6 @@
 # AuroraProudmoore/java-audit-skill
 
-⭐ 29 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/AuroraProudmoore/java-audit-skill) · [官网](https://github.com/AuroraProudmoore/java-audit-skill) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-05-12 · [GitHub](https://github.com/AuroraProudmoore/java-audit-skill) · [官网](https://github.com/AuroraProudmoore/java-audit-skill) · 个人维护 · 中文 README
 
 **AI 代码安全审计 Skill：给 LLM 装上资深审计员工作流协议**
 

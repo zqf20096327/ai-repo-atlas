@@ -1,6 +1,6 @@
 # tribgames/mixdog
 
-⭐ 259 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tribgames/mixdog) · [官网](https://mixdog.ai/) · 组织维护
+⭐ 259 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tribgames/mixdog) · [官网](https://mixdog.ai/) · 组织维护
 
 **开源桌面编码 agent：主模型规划、廉价模型并行执行搜索与审校**
 

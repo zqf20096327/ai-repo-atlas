@@ -1,6 +1,6 @@
 # lightly-ai/lightly-studio
 
-⭐ 913 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lightly-ai/lightly-studio) · [官网](https://docs.lightly.ai/studio/) · 组织维护
+⭐ 913 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lightly-ai/lightly-studio) · [官网](https://docs.lightly.ai/studio/) · 组织维护
 
 **给 ML 团队的多模态数据管理与标注平台**
 

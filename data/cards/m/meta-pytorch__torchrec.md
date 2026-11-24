@@ -1,6 +1,6 @@
 # meta-pytorch/torchrec
 
-⭐ 2,630 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/meta-pytorch/torchrec) · [官网](https://pytorch.org/torchrec/) · 组织维护
+⭐ 2,630 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/meta-pytorch/torchrec) · [官网](https://pytorch.org/torchrec/) · 组织维护
 
 **面向大规模推荐系统的 PyTorch 领域库**
 

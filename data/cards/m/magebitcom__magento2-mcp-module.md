@@ -1,6 +1,6 @@
 # magebitcom/magento2-mcp-module
 
-⭐ 25 · PHP · MIT · 推送 2026-11-09 · [GitHub](https://github.com/magebitcom/magento2-mcp-module) · [官网](https://magebit.com/magento-mcp) · 组织维护
+⭐ 26 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/magebitcom/magento2-mcp-module) · [官网](https://magebit.com/magento-mcp) · 组织维护
 
 **面向 Magento 2 商店的 MCP 服务器：让 AI agent 读写店铺数据**
 

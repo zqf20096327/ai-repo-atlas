@@ -1,6 +1,6 @@
 # answerLoops/answerLoops
 
-⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/answerLoops/answerLoops) · [官网](https://answerloops.com) · 组织维护
+⭐ 31 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/answerLoops/answerLoops) · [官网](https://answerloops.com) · 组织维护
 
 **面向社区的自托管 AI 客服系统：来源支撑回答+双 Agent 审核**
 

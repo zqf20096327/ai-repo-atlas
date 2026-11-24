@@ -1,6 +1,6 @@
 # david-xinyuwei/david-share
 
-⭐ 450 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/david-xinyuwei/david-share) · 个人维护 · 中文 README
+⭐ 450 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/david-xinyuwei/david-share) · 个人维护 · 中文 README
 
 **个人 AI Agents 与深度学习实战项目集合：代码、基准与讲解**
 

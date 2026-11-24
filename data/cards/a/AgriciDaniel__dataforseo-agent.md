@@ -1,6 +1,6 @@
 # AgriciDaniel/dataforseo-agent
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/dataforseo-agent) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/dataforseo-agent) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **终端里的 SEO 问答 agent：自然语言查 DataForSEO 数据并出图表**
 

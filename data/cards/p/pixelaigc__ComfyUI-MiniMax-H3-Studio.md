@@ -1,6 +1,6 @@
 # pixelaigc/ComfyUI-MiniMax-H3-Studio
 
-⭐ 41 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/pixelaigc/ComfyUI-MiniMax-H3-Studio) · 组织维护 · 中文 README
+⭐ 42 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/pixelaigc/ComfyUI-MiniMax-H3-Studio) · 组织维护 · 中文 README
 
 **面向新手的 MiniMax H3 本地视频生成 Web 工作台（免节点图）**
 

@@ -1,6 +1,6 @@
 # JacobJandon/Sicry
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/JacobJandon/Sicry) · [官网](https://github.com/JacobJandon/Sicry) · 个人维护
+⭐ 21 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/JacobJandon/Sicry) · [官网](https://github.com/JacobJandon/Sicry) · 个人维护
 
 **给 AI agent 用的单文件 Tor/.onion 访问层与暗网 OSINT 工具集**
 

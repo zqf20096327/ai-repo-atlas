@@ -1,6 +1,6 @@
 # huawei-csl/MACaQ
 
-⭐ 389 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huawei-csl/MACaQ) · [官网](https://huawei-csl.com/blog/macaq/) · 组织维护 · 中文 README
+⭐ 394 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huawei-csl/MACaQ) · [官网](https://huawei-csl.com/blog/macaq/) · 组织维护 · 中文 README
 
 **模型无关的校准量化工具：压缩文本/图像/音频模型供本地推理**
 

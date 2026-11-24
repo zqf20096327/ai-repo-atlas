@@ -1,6 +1,6 @@
 # gAI-ventures/pilotfish-ai
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gAI-ventures/pilotfish-ai) · [官网](https://pilotfish.gai.ventures/docs/open) · 组织维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gAI-ventures/pilotfish-ai) · [官网](https://pilotfish.gai.ventures/docs/open) · 组织维护
 
 **给 MCP agent 提供本机真实 Chrome 的浏览器自动化 MCP 服务器**
 

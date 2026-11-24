@@ -1,6 +1,6 @@
 # langfuse/experiment-action
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/langfuse/experiment-action) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langfuse/experiment-action) · 组织维护
 
 **在 GitHub Actions 中运行 Langfuse 实验的 CI 组件**
 

@@ -1,6 +1,6 @@
 # petrobras/3W
 
-⭐ 543 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/petrobras/3W) · [官网](https://threewtoolkit.readthedocs.io) · 组织维护
+⭐ 544 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/petrobras/3W) · [官网](https://threewtoolkit.readthedocs.io) · 组织维护
 
 **海上油井异常事件公开数据集与配套机器学习实验工具包**
 

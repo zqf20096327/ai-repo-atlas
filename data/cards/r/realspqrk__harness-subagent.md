@@ -1,6 +1,6 @@
 # realspqrk/harness-subagent
 
-⭐ 18 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/realspqrk/harness-subagent) · 个人维护
+⭐ 18 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/realspqrk/harness-subagent) · 个人维护
 
 **把 Codex/Grok 等编码 agent CLI 作为一次性子代理调度的 Claude 技能**
 

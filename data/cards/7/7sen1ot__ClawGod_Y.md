@@ -1,6 +1,6 @@
 # 7sen1ot/ClawGod_Y
 
-⭐ 157 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/7sen1ot/ClawGod_Y) · [官网](https://github.com/7sen1ot/ClawGod_Y) · 个人维护 · 中文 README
+⭐ 158 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/7sen1ot/ClawGod_Y) · [官网](https://github.com/7sen1ot/ClawGod_Y) · 个人维护 · 中文 README
 
 **给渗透测试者的 Claude Code 运行时补丁：绕过权限与安全限制**
 

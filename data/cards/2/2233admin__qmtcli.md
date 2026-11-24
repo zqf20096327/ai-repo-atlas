@@ -1,6 +1,6 @@
 # 2233admin/qmtcli
 
-⭐ 14 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/2233admin/qmtcli) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/2233admin/qmtcli) · 个人维护 · 中文 README
 
 **把 QMT/xtquant 包装成只读本地 JSON CLI，供脚本与 AI Agent 调用**
 

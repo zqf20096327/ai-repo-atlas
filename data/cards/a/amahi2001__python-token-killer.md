@@ -1,6 +1,6 @@
 # amahi2001/python-token-killer
 
-⭐ 14 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/amahi2001/python-token-killer) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/amahi2001/python-token-killer) · 个人维护
 
 **零依赖 Python 库：压缩任意 Python 对象以减少 LLM token**
 

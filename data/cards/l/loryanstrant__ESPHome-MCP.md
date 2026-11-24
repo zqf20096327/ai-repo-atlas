@@ -1,6 +1,6 @@
 # loryanstrant/ESPHome-MCP
 
-⭐ 38 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/loryanstrant/ESPHome-MCP) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/loryanstrant/ESPHome-MCP) · 个人维护
 
 **对接 ESPHome Device Builder 仪表盘的 MCP 服务器（17 个工具）**
 

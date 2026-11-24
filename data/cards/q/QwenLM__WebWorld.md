@@ -1,6 +1,6 @@
 # QwenLM/WebWorld
 
-⭐ 63 · Python · 推送 2026-02-25 · [GitHub](https://github.com/QwenLM/WebWorld) · 组织维护 · 中文 README
+⭐ 64 · Python · 推送 2026-02-25 · [GitHub](https://github.com/QwenLM/WebWorld) · 组织维护 · 中文 README
 
 **在模拟浏览器中训练 Web Agent 的大规模网页世界模型**
 

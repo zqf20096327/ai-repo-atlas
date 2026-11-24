@@ -1,6 +1,6 @@
 # yyu0310/cc-to-grok-bridge
 
-⭐ 11 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yyu0310/cc-to-grok-bridge) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/yyu0310/cc-to-grok-bridge) · 个人维护 · 中文 README
 
 **把 Claude Code 配置桥接到 Grok Build 的适配层**
 

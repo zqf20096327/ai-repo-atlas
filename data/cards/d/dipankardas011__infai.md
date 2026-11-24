@@ -1,6 +1,6 @@
 # dipankardas011/infai
 
-⭐ 14 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dipankardas011/infai) · [官网](https://infai.dipankar-das.com/) · 个人维护
+⭐ 15 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dipankardas011/infai) · [官网](https://infai.dipankar-das.com/) · 个人维护
 
 **本地 AI 终端工具集：TUI 管理 llama.cpp/vLLM 推理与后台 agent 服务**
 

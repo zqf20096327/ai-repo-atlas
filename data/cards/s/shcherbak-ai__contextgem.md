@@ -1,6 +1,6 @@
 # shcherbak-ai/contextgem
 
-⭐ 2,098 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/shcherbak-ai/contextgem) · [官网](https://contextgem.shcherbak.ai/) · 个人维护
+⭐ 2,097 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/shcherbak-ai/contextgem) · [官网](https://contextgem.shcherbak.ai/) · 个人维护
 
 **开发者用声明式框架从文档中抽取结构化数据与洞察**
 

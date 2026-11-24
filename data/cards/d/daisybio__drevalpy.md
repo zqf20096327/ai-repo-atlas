@@ -1,6 +1,6 @@
 # daisybio/drevalpy
 
-⭐ 48 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/daisybio/drevalpy) · [官网](https://www.nature.com/articles/s41467-026-72903-w) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/daisybio/drevalpy) · [官网](https://www.nature.com/articles/s41467-026-72903-w) · 组织维护
 
 **癌症细胞系药物响应预测模型的评测与基准工具包**
 

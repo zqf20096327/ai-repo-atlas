@@ -1,6 +1,6 @@
 # Natively-AI-assistant/natively-cluely-ai-assistant
 
-⭐ 3,366 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [官网](https://natively.software) · 组织维护
+⭐ 3,369 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Natively-AI-assistant/natively-cluely-ai-assistant) · [官网](https://natively.software) · 组织维护
 
 **开源 AI 会议助手与面试辅助工具，本地运行实时转录与作答**
 

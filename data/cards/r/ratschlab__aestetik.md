@@ -1,6 +1,6 @@
 # ratschlab/aestetik
 
-⭐ 28 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ratschlab/aestetik) · [官网](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433) · 组织维护
+⭐ 28 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ratschlab/aestetik) · [官网](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag316/8692433) · 组织维护
 
 **从空间转录组与形态学图像学习点级表示的卷积自编码器**
 

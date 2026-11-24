@@ -1,6 +1,6 @@
 # Feur-Inc/1loop
 
-⭐ 8 · Go · 推送 2026-11-22 · [GitHub](https://github.com/Feur-Inc/1loop) · [官网](https://feur-inc.github.io/1loop/) · 个人维护
+⭐ 8 · Go · 推送 2026-11-23 · [GitHub](https://github.com/Feur-Inc/1loop) · [官网](https://feur-inc.github.io/1loop/) · 个人维护
 
 **自托管的本地编码 agent，支持自选模型与多端运行**
 

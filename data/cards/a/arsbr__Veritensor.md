@@ -1,6 +1,6 @@
 # arsbr/Veritensor
 
-⭐ 89 · Python · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/arsbr/Veritensor) · [官网](https://www.veritensor.com) · 个人维护
+⭐ 90 · Python · Apache-2.0 · 推送 2026-08-04 · [GitHub](https://github.com/arsbr/Veritensor) · [官网](https://www.veritensor.com) · 个人维护
 
 **AI 供应链安全扫描器：静态扫描模型、数据集、RAG 文档与笔记本**
 

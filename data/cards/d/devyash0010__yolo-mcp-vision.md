@@ -1,6 +1,6 @@
 # devyash0010/yolo-mcp-vision
 
-⭐ 3 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/devyash0010/yolo-mcp-vision) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 YOLO 检测结果转为结构化空间上下文供 AI agent 查询的 MCP 服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

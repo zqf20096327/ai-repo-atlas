@@ -1,6 +1,6 @@
 # combust/mleap
 
-⭐ 1,544 · Scala · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/combust/mleap) · [官网](https://combust.github.io/mleap-docs/) · 组织维护
+⭐ 1,543 · Scala · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/combust/mleap) · [官网](https://combust.github.io/mleap-docs/) · 组织维护
 
 **面向数据科学与工程团队的 ML 管道生产部署运行时**
 

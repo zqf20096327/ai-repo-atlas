@@ -1,6 +1,6 @@
 # FareedKhan-dev/production-grade-agentic-system
 
-⭐ 1,023 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/production-grade-agentic-system) · [官网](https://medium.com/@fareedkhandev/building-a-critical-infrastructure-for-production-ready-ai-agentic-system-building-a-production-37ee5d941f1c) · 个人维护
+⭐ 1,024 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/FareedKhan-dev/production-grade-agentic-system) · [官网](https://medium.com/@fareedkhandev/building-a-critical-infrastructure-for-production-ready-ai-agentic-system-building-a-production-37ee5d941f1c) · 个人维护
 
 **构建生产级 Agentic AI 系统的分层架构教程工程**
 

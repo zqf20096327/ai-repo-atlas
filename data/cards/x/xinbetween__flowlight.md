@@ -1,6 +1,6 @@
 # xinbetween/flowlight
 
-⭐ 12 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/xinbetween/flowlight) · [官网](http://flowlight.xinbetween.com/) · 个人维护
+⭐ 12 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/xinbetween/flowlight) · [官网](http://flowlight.xinbetween.com/) · 个人维护
 
 **macOS 原生网络监控器：按应用归属流量并审计 AI agent 的对外连接**
 

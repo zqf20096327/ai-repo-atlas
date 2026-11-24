@@ -1,6 +1,6 @@
 # orecus/faber
 
-⭐ 28 · TypeScript · AGPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/orecus/faber) · 个人维护
+⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-04-10 · [GitHub](https://github.com/orecus/faber) · 个人维护
 
 **编排多种 CLI 编码 agent 的跨平台桌面应用**
 

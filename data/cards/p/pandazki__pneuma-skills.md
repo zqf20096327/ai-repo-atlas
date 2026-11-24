@@ -1,6 +1,6 @@
 # pandazki/pneuma-skills
 
-⭐ 161 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/pandazki/pneuma-skills) · 个人维护 · 中文 README
+⭐ 161 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pandazki/pneuma-skills) · 个人维护 · 中文 README
 
 **人与代码 agent 协作的内容创作基础设施，含可视化环境与技能模式**
 

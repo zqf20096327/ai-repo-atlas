@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/FlashTopK
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Tencent-Hunyuan/FlashTopK) · [官网](https://arxiv.org/abs/2610.32057) · 组织维护 · 中文 README
+⭐ 60 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Tencent-Hunyuan/FlashTopK) · [官网](https://arxiv.org/abs/2610.32057) · 组织维护 · 中文 README
 
 **学习型稀疏注意力训练与推理的融合 top-k 选择 CUDA 内核**
 

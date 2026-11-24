@@ -1,6 +1,6 @@
 # Curated-Awesome-Lists/awesome-ai-music-generation
 
-⭐ 510 · Apache-2.0 · 推送 2026-09-04 · [GitHub](https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI 音乐生成资源策展清单：项目、论文、课程与书籍**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

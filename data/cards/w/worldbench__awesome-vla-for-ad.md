@@ -1,6 +1,6 @@
 # worldbench/awesome-vla-for-ad
 
-⭐ 530 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/worldbench/awesome-vla-for-ad) · [官网](https://worldbench.github.io/vla4ad) · 组织维护
+⭐ 531 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/worldbench/awesome-vla-for-ad) · [官网](https://worldbench.github.io/vla4ad) · 组织维护
 
 **自动驾驶 VLA 模型综述论文配套方法清单**
 

@@ -1,6 +1,6 @@
 # nouverse/nouride
 
-⭐ 116 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/nouverse/nouride) · [官网](nouride.com) · 组织维护
+⭐ 118 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/nouverse/nouride) · [官网](nouride.com) · 组织维护
 
 **在自有小主机上运行多个 AI agent 的单二进制守护进程**
 

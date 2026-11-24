@@ -1,6 +1,6 @@
 # vicfei/awesome-jev-prompts
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/vicfei/awesome-jev-prompts) · 个人维护 · 中文 README
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/vicfei/awesome-jev-prompts) · 个人维护 · 中文 README
 
 **Jev 类型化决策模型的提问模式与校准笔记策展清单**
 

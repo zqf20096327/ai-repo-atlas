@@ -1,6 +1,6 @@
 # cotletdev/substack-api-mcp-server
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/substack-api-mcp-server) · [官网](https://cotlet.dev/integrations/substack-api-mcp-server) · 组织维护
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/substack-api-mcp-server) · [官网](https://cotlet.dev/integrations/substack-api-mcp-server) · 组织维护
 
 **让 AI agent 通过 MCP/REST 操作 Substack 的本地 API 服务器**
 

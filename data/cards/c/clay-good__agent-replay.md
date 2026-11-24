@@ -1,6 +1,6 @@
 # clay-good/agent-replay
 
-⭐ 15 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/clay-good/agent-replay) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/clay-good/agent-replay) · 个人维护
 
 **本地 CLI 工具：AI agent 执行轨迹的录制、回放、diff 与评估**
 

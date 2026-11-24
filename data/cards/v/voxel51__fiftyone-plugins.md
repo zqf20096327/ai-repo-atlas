@@ -1,6 +1,6 @@
 # voxel51/fiftyone-plugins
 
-⭐ 145 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/voxel51/fiftyone-plugins) · [官网](https://docs.voxel51.com/plugins) · 组织维护
+⭐ 145 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/voxel51/fiftyone-plugins) · [官网](https://docs.voxel51.com/plugins) · 组织维护
 
 **FiftyOne 插件策展清单：计算机视觉工作流扩展集合**
 

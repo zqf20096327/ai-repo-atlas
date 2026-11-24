@@ -1,6 +1,6 @@
 # PlasmaControl/FusionAIHub
 
-⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/PlasmaControl/FusionAIHub) · [官网](https://control.princeton.edu/) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PlasmaControl/FusionAIHub) · [官网](https://control.princeton.edu/) · 组织维护
 
 **聚变实验机器学习工作流的训练平台与工具集**
 

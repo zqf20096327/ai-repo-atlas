@@ -1,6 +1,6 @@
 # gamingnews5/awesome-opus-5.5-games
 
-⭐ 10 · Python · 推送 2026-10-27 · [GitHub](https://github.com/gamingnews5/awesome-opus-5.5-games) · [官网](https://games.omgithub.com/) · 个人维护
+⭐ 11 · Python · 推送 2026-10-27 · [GitHub](https://github.com/gamingnews5/awesome-opus-5.5-games) · [官网](https://games.omgithub.com/) · 个人维护
 
 **AI 生成游戏来源清单：3888 个游戏条目按模型与评分浏览**
 

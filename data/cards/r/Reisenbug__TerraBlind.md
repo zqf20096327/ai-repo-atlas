@@ -1,6 +1,6 @@
 # Reisenbug/TerraBlind
 
-⭐ 81 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Reisenbug/TerraBlind) · 个人维护 · 中文 README
+⭐ 81 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Reisenbug/TerraBlind) · 个人维护 · 中文 README
 
 **在 Terraria 中实时游玩的 AI Agent（tModLoader 模组）**
 

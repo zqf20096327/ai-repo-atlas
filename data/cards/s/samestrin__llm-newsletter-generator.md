@@ -1,6 +1,6 @@
 # samestrin/llm-newsletter-generator
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/samestrin/llm-newsletter-generator) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/samestrin/llm-newsletter-generator) · 个人维护
 
 **用 LLM 从 RSS/Atom 源生成带事实核查的 Newsletter**
 

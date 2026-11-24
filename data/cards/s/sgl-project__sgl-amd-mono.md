@@ -1,6 +1,6 @@
 # sgl-project/sgl-amd-mono
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sgl-project/sgl-amd-mono) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/sgl-project/sgl-amd-mono) · 组织维护
 
 **SGLang 在 AMD Instinct GPU 上的 monokernel 解码内核插件库**
 

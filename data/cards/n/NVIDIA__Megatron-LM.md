@@ -1,6 +1,6 @@
 # NVIDIA/Megatron-LM
 
-⭐ 18,457 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/Megatron-LM) · [官网](https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html) · 组织维护
+⭐ 18,467 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/Megatron-LM) · [官网](https://docs.nvidia.com/megatron-core/developer-guide/latest/get-started/quickstart.html) · 组织维护
 
 **NVIDIA 的大规模 transformer 训练 GPU 优化库**
 

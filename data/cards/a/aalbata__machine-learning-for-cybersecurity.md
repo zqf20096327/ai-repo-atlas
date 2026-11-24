@@ -1,6 +1,6 @@
 # aalbata/machine-learning-for-cybersecurity
 
-⭐ 24 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/aalbata/machine-learning-for-cybersecurity) · [官网](https://aalbata.github.io/machine-learning-for-cybersecurity/) · 组织维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-10-16 · [GitHub](https://github.com/aalbata/machine-learning-for-cybersecurity) · [官网](https://aalbata.github.io/machine-learning-for-cybersecurity/) · 组织维护
 
 **免费机器学习与网络安全课程：11 单元含实验、习题与测验**
 

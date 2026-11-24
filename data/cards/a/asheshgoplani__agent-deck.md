@@ -1,6 +1,6 @@
 # asheshgoplani/agent-deck
 
-⭐ 1,293 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/asheshgoplani/agent-deck) · [官网](https://discord.gg/e4xSs6NBN8) · 个人维护
+⭐ 1,295 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/asheshgoplani/agent-deck) · [官网](https://discord.gg/e4xSs6NBN8) · 个人维护
 
 **用一张 TUI 统一管理多个 AI 编码 agent 终端会话**
 

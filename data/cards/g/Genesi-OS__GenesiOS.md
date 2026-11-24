@@ -1,6 +1,6 @@
 # Genesi-OS/GenesiOS
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Genesi-OS/GenesiOS) · [官网](https://www.genesios.org) · 组织维护
+⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Genesi-OS/GenesiOS) · [官网](https://www.genesios.org) · 组织维护
 
 **面向开发者的本地 AI 调优 Linux 发行版（基于 CachyOS）**
 

@@ -1,6 +1,6 @@
 # ThinkFlowLab/agentdescent
 
-⭐ 221 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 组织维护
+⭐ 221 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 组织维护
 
 **自进化 agent 框架：并行 worker 提出编辑、聚合器合并演进提示与技能**
 

@@ -1,6 +1,6 @@
 # Ton-Llop/Jaull
 
-⭐ 16 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Ton-Llop/Jaull) · [官网](jaull.tech) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Ton-Llop/Jaull) · [官网](jaull.tech) · 个人维护
 
 **检测本机硬件并推荐、验证可运行本地 LLM 的工具**
 

@@ -1,6 +1,6 @@
 # citrolabs/ego-lite
 
-⭐ 24,028 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/citrolabs/ego-lite) · [官网](https://lite.ego.app) · 组织维护 · 中文 README
+⭐ 24,187 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/citrolabs/ego-lite) · [官网](https://lite.ego.app) · 组织维护 · 中文 README
 
 **供 AI agent 共享登录态并行执行网页自动化的浏览器**
 

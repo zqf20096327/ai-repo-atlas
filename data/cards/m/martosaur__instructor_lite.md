@@ -1,6 +1,6 @@
 # martosaur/instructor_lite
 
-⭐ 145 · Elixir · 推送 2026-11-09 · [GitHub](https://github.com/martosaur/instructor_lite) · 个人维护
+⭐ 145 · Elixir · 推送 2026-11-23 · [GitHub](https://github.com/martosaur/instructor_lite) · 个人维护
 
 **Elixir 结构化输出库：用 Ecto schema 约束 LLM 输出**
 

@@ -1,6 +1,6 @@
 # bytedance/axion1_0
 
-⭐ 103 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/bytedance/axion1_0) · [官网](https://axion1-0.github.io) · 组织维护 · 中文 README
+⭐ 104 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/bytedance/axion1_0) · [官网](https://axion1-0.github.io) · 组织维护 · 中文 README
 
 **开源 agent 基础模型及完整训练配方（2 SFT+RL）**
 

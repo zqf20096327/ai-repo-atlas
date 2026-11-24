@@ -1,6 +1,6 @@
 # ihsan-sa/hive
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ihsan-sa/hive) · [官网](https://hivelab.ca) · 组织维护
+⭐ 6 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ihsan-sa/hive) · [官网](https://hivelab.ca) · 组织维护
 
 **在你的机器上自托管的多 agent 协作系统，持续推进你的项目**
 

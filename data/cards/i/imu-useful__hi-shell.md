@@ -1,6 +1,6 @@
 # imu-useful/hi-shell
 
-⭐ 12 · QML · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/imu-useful/hi-shell) · [官网](https://t.me/tux_emp) · 个人维护
+⭐ 12 · QML · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/imu-useful/hi-shell) · [官网](https://t.me/tux_emp) · 个人维护
 
 **面向 Hyprland 的 Material 3 桌面 shell，内置 AI 聊天**
 

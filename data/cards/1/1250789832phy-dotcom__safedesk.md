@@ -1,6 +1,6 @@
 # 1250789832phy-dotcom/safedesk
 
-⭐ 21 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/1250789832phy-dotcom/safedesk) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/1250789832phy-dotcom/safedesk) · 个人维护 · 中文 README
 
 **面向开发者的受控本地代码任务 Agent：diff 确认+固定测试+验收门禁**
 

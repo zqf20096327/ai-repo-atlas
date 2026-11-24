@@ -1,6 +1,6 @@
 # synthesisengineering/ragbot
 
-⭐ 34 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/synthesisengineering/ragbot) · [官网](https://rajiv.com/blog/2023/05/08/introducing-rbot-a-personalized-ai-assistant-written-by-rbot/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/synthesisengineering/ragbot) · [官网](https://rajiv.com/blog/2023/05/08/introducing-rbot-a-personalized-ai-assistant-written-by-rbot/) · 个人维护
 
 **给个人用户的对话式 AI 助手运行时：本地优先、工作区感知的合成工程工作台**
 

@@ -1,6 +1,6 @@
 # ItlaStudent/DevAgents
 
-⭐ 8 · C · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ItlaStudent/DevAgents) · [官网](https://4stra.dev/devagents) · 个人维护
+⭐ 9 · C · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ItlaStudent/DevAgents) · [官网](https://4stra.dev/devagents) · 个人维护
 
 **多模型多智能体开发编排环境：带预算与可审计治理**
 

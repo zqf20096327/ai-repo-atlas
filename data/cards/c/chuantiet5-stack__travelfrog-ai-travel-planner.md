@@ -1,6 +1,6 @@
 # chuantiet5-stack/travelfrog-ai-travel-planner
 
-⭐ 3 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/chuantiet5-stack/travelfrog-ai-travel-planner) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向旅行者的多渠道对话式行程规划助手**
 

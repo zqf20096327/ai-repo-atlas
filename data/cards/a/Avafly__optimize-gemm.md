@@ -1,6 +1,6 @@
 # Avafly/optimize-gemm
 
-⭐ 26 · C++ · MIT · 推送 2026-08-07 · [GitHub](https://github.com/Avafly/optimize-gemm) · 个人维护
+⭐ 27 · C++ · MIT · 推送 2026-08-07 · [GitHub](https://github.com/Avafly/optimize-gemm) · 个人维护
 
 **树莓派4B上的CPU GEMM优化实践，达220倍加速**
 

@@ -1,6 +1,6 @@
 # Playa-Cyrene/Cyrene-Agent
 
-⭐ 812 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Playa-Cyrene/Cyrene-Agent) · [官网](https://playaagentcyrene.online/) · 个人维护 · 中文 README
+⭐ 816 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Playa-Cyrene/Cyrene-Agent) · [官网](https://playaagentcyrene.online/) · 个人维护 · 中文 README
 
 **面向个人用户的 Live2D 角色化桌面 AI 伴侣与助手**
 

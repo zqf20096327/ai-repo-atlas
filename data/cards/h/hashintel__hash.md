@@ -1,6 +1,6 @@
 # hashintel/hash
 
-⭐ 1,692 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/hashintel/hash) · [官网](https://hash.dev) · 组织维护
+⭐ 1,693 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/hashintel/hash) · [官网](https://hash.dev) · 组织维护
 
 **自助构建知识图谱与仿真的多租户开源数据库平台**
 

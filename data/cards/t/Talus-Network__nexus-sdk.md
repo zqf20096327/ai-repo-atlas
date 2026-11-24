@@ -1,6 +1,6 @@
 # Talus-Network/nexus-sdk
 
-⭐ 177 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Talus-Network/nexus-sdk) · [官网](https://docs.talus.network) · 组织维护
+⭐ 177 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Talus-Network/nexus-sdk) · [官网](https://docs.talus.network) · 组织维护
 
 **构建 Talus 链上 agent 的 SDK/CLI 工具集**
 

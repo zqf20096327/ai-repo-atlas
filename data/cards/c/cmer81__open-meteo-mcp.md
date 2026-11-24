@@ -1,6 +1,6 @@
 # cmer81/open-meteo-mcp
 
-⭐ 74 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cmer81/open-meteo-mcp) · [官网](https://www.npmjs.com/package/open-meteo-mcp-server) · 个人维护
+⭐ 74 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cmer81/open-meteo-mcp) · [官网](https://www.npmjs.com/package/open-meteo-mcp-server) · 个人维护
 
 **为 LLM 提供天气数据的 MCP 服务器（17 个工具）**
 

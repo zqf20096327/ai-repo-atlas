@@ -1,6 +1,6 @@
 # howshannon/slop-cop
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/howshannon/slop-cop) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/howshannon/slop-cop) · 个人维护
 
 **面向 agent 的文风/设计/代码去模板化审查技能**
 

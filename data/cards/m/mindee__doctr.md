@@ -1,10 +1,10 @@
 # mindee/doctr
 
-⭐ 6,435 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mindee/doctr) · [官网](https://mindee.github.io/doctr/) · 组织维护
+⭐ 6,441 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mindee/doctr) · [官网](https://mindee.github.io/doctr/) · 组织维护
 
 **面向开发者的深度学习 OCR 库：文档文字检测与识别**
 
-基于 PyTorch 的 OCR 库，采用两阶段流程：先做文本检测定位词语，再做文本识别输出字符；读取 PDF 或图片，可附加版面检测（Title/Text/Table 等区域）、表格结构识别、公式识别与 KIE 多类检测预测器。结果以 Page/Block/Line/Word 嵌套结构返回，可导出 JSON 或可视化/重建页面。经 pip 安装，提供 Streamlit 本地 demo、Hugging Face Spaces 在线 demo、GPU-ready Docker 镜像及 FastAPI 模板（/detection /recognition /ocr /kie 路由）。维护方已由 Mindee 转为 t2k GmbH，后者围绕它提供商业服务。
+基于 PyTorch 的 OCR 库，采用两阶段流程：文本检测定位文字区域，文本识别输出字符；读取 PDF 或图像后返回结构化 Document 对象，可导出 JSON 或重建文档。支持版面检测、旋转页面处理、KIE 多类别检测、表格结构识别与公式识别等预测器。由 Mindee 创建，现由 t2k GmbH 维护，提供商业服务；以 PyPI 包、源码安装与 Docker 镜像分发。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 两阶段 OCR 流程：文本检测 + 文本识别，架构可自选（DBNet、CRNN、PARSeq 等）
-- 版面检测、表格结构识别、公式识别与 KIE 预测器管线
-- 结果为嵌套文档结构，支持 JSON 导出与页面重建
-- 提供 Docker 镜像、FastAPI 模板与 Hugging Face Spaces demo
+- 两阶段 OCR 流程：文本检测 + 文本识别，架构可自选
+- 版面检测、表格结构识别、公式识别与 KIE 多类别预测器
+- 提供 FastAPI 模板与 Hugging Face Spaces 在线演示
+- GPU-ready Docker 镜像（CUDA 12.2）
 
 ## 适用场景
 
-- 从 PDF 和扫描图片中提取文字与版面结构
-- 对文档中的日期、地址等字段做多类检测识别
-- 把 OCR 能力以 REST API 形式集成进自己的服务
-- 处理含旋转页面的文档并可视化识别结果
+- 从 PDF 和扫描图像中提取文字与版面结构
+- 构建文档解析 API 接入业务系统
+- 识别表格结构与文档中的公式
+- 处理含旋转页面的文档
 
 ## 场景标签
 
-`OCR` `文档解析` · 领域:知识与检索
+`OCR` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
+> L13: - efficient ways to parse textual information (localize and identify each word) from your documents
 > L22: End-to-End OCR is achieved in docTR using a two-stage approach: text detection (localizing words), then text recogn
-> L28: model = ocr_predictor(det_arch="db_resnet50", reco_arch="crnn_vgg16_bn", pretrained=True)
-> L7: **docTR** was originally created by Mindee. It is now actively developed and maintained by t2k GmbH.
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `de9793d3ea30` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c4d8a572edf2` · [字段定义](../../DATASET.md)*

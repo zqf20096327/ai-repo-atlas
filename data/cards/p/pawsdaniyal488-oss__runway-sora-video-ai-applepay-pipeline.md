@@ -1,6 +1,6 @@
 # pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline
 
-⭐ 63 · 推送 2026-11-10 · [GitHub](https://github.com/pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 84 · 推送 2026-11-10 · [GitHub](https://github.com/pawsdaniyal488-oss/runway-sora-video-ai-applepay-pipeline) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **教程：用 CoreGold 虚拟卡经 Apple Pay 订阅 Runway/Sora**
 

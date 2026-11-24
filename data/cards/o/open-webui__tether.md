@@ -1,6 +1,6 @@
 # open-webui/tether
 
-⭐ 193 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/open-webui/tether) · [官网](https://docs.openwebui.com/ecosystem/tether) · 组织维护
+⭐ 195 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/open-webui/tether) · [官网](https://docs.openwebui.com/ecosystem/tether) · 组织维护
 
 **Open WebUI 的桌面伴侣应用，从桌面直连你的 AI**
 

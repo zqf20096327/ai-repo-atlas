@@ -1,6 +1,6 @@
 # yohey-w/multi-agent-shogun
 
-⭐ 1,421 · Shell · MIT · 推送 2026-08-06 · [GitHub](https://github.com/yohey-w/multi-agent-shogun) · 个人维护
+⭐ 1,420 · Shell · MIT · 推送 2026-08-06 · [GitHub](https://github.com/yohey-w/multi-agent-shogun) · 个人维护
 
 **用 tmux 并行编排 7 种 AI 编码 CLI 的多 agent 系统**
 

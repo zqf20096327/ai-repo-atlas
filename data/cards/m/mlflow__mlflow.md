@@ -1,6 +1,6 @@
 # mlflow/mlflow
 
-⭐ 28,931 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mlflow/mlflow) · [官网](https://mlflow.org) · 组织维护
+⭐ 28,946 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/mlflow/mlflow) · [官网](https://mlflow.org) · 组织维护
 
 **面向 agents、LLM 与 ML 模型的开源 AI 工程平台**
 

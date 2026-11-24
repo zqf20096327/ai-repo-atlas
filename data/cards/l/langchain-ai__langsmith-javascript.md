@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-javascript
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/langsmith-javascript) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langsmith-javascript) · 组织维护
 
 **面向 LLM 应用的 LangSmith 平台 TypeScript 客户端 SDK**
 

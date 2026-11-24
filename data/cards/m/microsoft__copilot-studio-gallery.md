@@ -1,6 +1,6 @@
 # microsoft/copilot-studio-gallery
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/copilot-studio-gallery) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/copilot-studio-gallery) · 组织维护
 
 **Copilot Studio 智能体与工作流方案的社区画廊站点**
 

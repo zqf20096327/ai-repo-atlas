@@ -1,6 +1,6 @@
 # edwardtay/awesome-scrapers
 
-⭐ 25 · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/edwardtay/awesome-scrapers) · 个人维护
+⭐ 25 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/edwardtay/awesome-scrapers) · 个人维护
 
 **150+ 网页爬取/反检测/MCP 工具的策展清单**
 

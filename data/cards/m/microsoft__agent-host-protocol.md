@@ -1,6 +1,6 @@
 # microsoft/agent-host-protocol
 
-⭐ 468 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/agent-host-protocol) · [官网](https://microsoft.github.io/agent-host-protocol/) · 组织维护
+⭐ 470 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/agent-host-protocol) · [官网](https://microsoft.github.io/agent-host-protocol/) · 组织维护
 
 **微软的 AI agent 会话多客户端状态同步协议**
 

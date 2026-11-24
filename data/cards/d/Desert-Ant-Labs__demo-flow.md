@@ -1,6 +1,6 @@
 # Desert-Ant-Labs/demo-flow
 
-⭐ 5 · Swift · MIT · 推送 2026-10-20 · [GitHub](https://github.com/Desert-Ant-Labs/demo-flow) · [官网](https://desertant.com) · 组织维护
+⭐ 5 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Desert-Ant-Labs/demo-flow) · [官网](https://desertant.com) · 组织维护
 
 **macOS 本地模型自动化工作台：串联设备端模型运行流程**
 

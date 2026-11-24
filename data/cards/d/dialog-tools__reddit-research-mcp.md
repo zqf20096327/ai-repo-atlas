@@ -1,6 +1,6 @@
 # dialog-tools/reddit-research-mcp
 
-⭐ 266 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dialog-tools/reddit-research-mcp) · [官网](https://dialog.tools/) · 组织维护
+⭐ 268 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dialog-tools/reddit-research-mcp) · [官网](https://dialog.tools/) · 组织维护
 
 **面向 AI 助手的 Reddit 研究数据接入 MCP 服务器**
 

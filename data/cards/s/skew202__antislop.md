@@ -1,6 +1,6 @@
 # skew202/antislop
 
-⭐ 18 · HTML · 推送 2026-11-18 · [GitHub](https://github.com/skew202/antislop) · 个人维护
+⭐ 18 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/skew202/antislop) · 个人维护
 
 **检测 AI 生成代码遗留问题的多语言 linter，供开发者使用**
 

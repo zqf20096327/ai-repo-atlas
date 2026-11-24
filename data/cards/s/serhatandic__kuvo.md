@@ -1,6 +1,6 @@
 # serhatandic/kuvo
 
-⭐ 76 · Swift · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/serhatandic/kuvo) · [官网](https://kuvo.run/code) · 个人维护
+⭐ 76 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/serhatandic/kuvo) · [官网](https://kuvo.run/code) · 个人维护
 
 **给 Mac 用户的原生 coding agent 客户端：任意模型运行编码智能体**
 

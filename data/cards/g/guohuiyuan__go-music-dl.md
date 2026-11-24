@@ -1,6 +1,6 @@
 # guohuiyuan/go-music-dl
 
-⭐ 6,689 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/guohuiyuan/go-music-dl) · [官网](https://music.zkkp.nyc.mn) · 个人维护 · 中文 README
+⭐ 6,719 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/guohuiyuan/go-music-dl) · [官网](https://music.zkkp.nyc.mn) · 个人维护 · 中文 README
 
 **面向个人用户的多平台音乐搜索下载工具，支持 AI 接口操控播放器**
 

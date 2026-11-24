@@ -1,6 +1,6 @@
 # artokun/comfyui-mcp-panel
 
-⭐ 142 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/artokun/comfyui-mcp-panel) · [官网](https://comfyui-mcp.artokun.io/docs/panel) · 个人维护
+⭐ 143 · JavaScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/artokun/comfyui-mcp-panel) · [官网](https://comfyui-mcp.artokun.io/docs/panel) · 个人维护
 
 **嵌入 ComfyUI 侧边栏的本地 AI agent 面板，自然语言驱动画布**
 

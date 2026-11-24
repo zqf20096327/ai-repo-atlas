@@ -1,6 +1,6 @@
 # openai/terraform-provider-openai
 
-⭐ 43 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/openai/terraform-provider-openai) · 组织维护
+⭐ 43 · Go Template · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/terraform-provider-openai) · 组织维护
 
 **官方 Terraform Provider，管理 OpenAI 组织与项目 webhook 资源**
 

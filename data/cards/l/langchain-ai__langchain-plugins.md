@@ -1,6 +1,6 @@
 # langchain-ai/langchain-plugins
 
-⭐ 10 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/langchain-ai/langchain-plugins) · [官网](https://docs.langchain.com/oss/python/deepagents/code/plugins) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **编码 agent 的 LangChain 生态插件市场：装技能与 MCP 服务器**
 
@@ -11,7 +11,7 @@ LangChain 官方维护的插件市场，面向 dcode、Claude Code、OpenAI Code
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

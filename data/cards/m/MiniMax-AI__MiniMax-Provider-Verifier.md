@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-Provider-Verifier
 
-⭐ 55 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Provider-Verifier) · 组织维护 · 中文 README
+⭐ 56 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Provider-Verifier) · 组织维护 · 中文 README
 
 **验证 MiniMax M2 系模型第三方部署正确性的评测工具包**
 

@@ -1,6 +1,6 @@
 # yckonnnnn/zack-design-skills
 
-⭐ 8 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yckonnnnn/zack-design-skills) · [官网](https://yckonnnnn.github.io/zack-design-skills/) · 个人维护 · 中文 README
+⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yckonnnnn/zack-design-skills) · [官网](https://yckonnnnn.github.io/zack-design-skills/) · 个人维护 · 中文 README
 
 **给 AI 编码工具用的网页设计技能包，修掉 AI 味**
 

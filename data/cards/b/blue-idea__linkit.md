@@ -1,6 +1,6 @@
 # blue-idea/linkit
 
-⭐ 356 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/blue-idea/linkit) · [官网](https://github.com/blue-idea/linkit/releases) · 个人维护 · 中文 README
+⭐ 365 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/blue-idea/linkit) · [官网](https://github.com/blue-idea/linkit/releases) · 个人维护 · 中文 README
 
 **带 AI 摘要与语义搜索的书签/知识管理桌面应用**
 

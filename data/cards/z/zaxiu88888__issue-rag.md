@@ -1,6 +1,6 @@
 # zaxiu88888/issue-rag
 
-⭐ 489 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/zaxiu88888/issue-rag) · 个人维护 · 中文 README
+⭐ 498 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/zaxiu88888/issue-rag) · 个人维护 · 中文 README
 
 **面向 GitHub issues 的 RAG 问答系统，含人工复核评测集与判分器审计**
 

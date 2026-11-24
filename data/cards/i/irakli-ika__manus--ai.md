@@ -1,6 +1,6 @@
 # irakli-ika/manus--ai
 
-⭐ 179 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/irakli-ika/manus--ai) · 个人维护
+⭐ 175 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/irakli-ika/manus--ai) · 个人维护
 
 **面向个人用户的自主 AI 代理：代写代码并控制浏览器**
 

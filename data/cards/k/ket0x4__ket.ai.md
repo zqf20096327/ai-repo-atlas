@@ -1,6 +1,6 @@
 # ket0x4/ket.ai
 
-⭐ 11 · TypeScript · 推送 2026-11-14 · [GitHub](https://github.com/ket0x4/ket.ai) · [官网](https://t.me/Ketardgrambot) · 个人维护
+⭐ 11 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/ket0x4/ket.ai) · [官网](https://t.me/Ketardgrambot) · 个人维护
 
 **基于 Gemini 的 Telegram 群聊 AI 机器人，带向量记忆**
 

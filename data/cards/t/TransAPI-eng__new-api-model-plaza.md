@@ -1,6 +1,6 @@
 # TransAPI-eng/new-api-model-plaza
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TransAPI-eng/new-api-model-plaza) · [官网](https://transapi-eng.github.io/new-api-model-plaza/) · 组织维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TransAPI-eng/new-api-model-plaza) · [官网](https://transapi-eng.github.io/new-api-model-plaza/) · 组织维护 · 中文 README
 
 **给 New API / One API 中转站定价页换树状卡片界面的前端组件**
 

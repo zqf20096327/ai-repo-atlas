@@ -1,6 +1,6 @@
 # ashenfad/agex
 
-⭐ 44 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/ashenfad/agex) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ashenfad/agex) · 个人维护
 
 **在版本化工作区上运行的 Python agent 框架**
 

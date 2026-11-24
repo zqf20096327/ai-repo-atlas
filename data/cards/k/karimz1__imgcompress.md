@@ -1,6 +1,6 @@
 # karimz1/imgcompress
 
-⭐ 381 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/karimz1/imgcompress) · [官网](https://imgcompress.karimzouine.com) · 个人维护 · 中文 README
+⭐ 382 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/karimz1/imgcompress) · [官网](https://imgcompress.karimzouine.com) · 个人维护 · 中文 README
 
 **自托管图像处理工具箱：70+ 格式转换、压缩与本地 AI 抠图**
 

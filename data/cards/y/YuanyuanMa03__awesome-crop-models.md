@@ -1,6 +1,6 @@
 # YuanyuanMa03/awesome-crop-models
 
-⭐ 7 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YuanyuanMa03/awesome-crop-models) · [官网](https://yuanyuanma03.github.io/awesome-crop-models/) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/YuanyuanMa03/awesome-crop-models) · [官网](https://yuanyuanma03.github.io/awesome-crop-models/) · 个人维护 · 中文 README
 
 **面向农业科研的开源作物与农业过程模型策展清单**
 

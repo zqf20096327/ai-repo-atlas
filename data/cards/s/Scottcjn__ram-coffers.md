@@ -1,6 +1,6 @@
 # Scottcjn/ram-coffers
 
-⭐ 169 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Scottcjn/ram-coffers) · [官网](https://rustchain.org) · 个人维护
+⭐ 169 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Scottcjn/ram-coffers) · [官网](https://rustchain.org) · 个人维护
 
 **基于 NUMA 内存分柜的 LLM 推理优化架构，面向自托管旧硬件**
 

@@ -1,6 +1,6 @@
 # general-molecular-simulations/so3lr
 
-⭐ 300 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/general-molecular-simulations/so3lr) · [官网](https://arxiv.org/abs/2611.06237) · 组织维护
+⭐ 300 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/general-molecular-simulations/so3lr) · [官网](https://arxiv.org/abs/2611.06237) · 组织维护
 
 **预训练机器学习力场：用于生物分子模拟的能量与力预测**
 

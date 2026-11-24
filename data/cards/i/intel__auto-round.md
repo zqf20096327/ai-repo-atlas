@@ -1,6 +1,6 @@
 # intel/auto-round
 
-⭐ 1,705 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/intel/auto-round) · 组织维护 · 中文 README
+⭐ 1,706 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/intel/auto-round) · 组织维护 · 中文 README
 
 **LLM/VLM 训练后量化工具包，低比特压缩部署**
 

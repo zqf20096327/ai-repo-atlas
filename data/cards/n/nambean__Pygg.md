@@ -1,6 +1,6 @@
 # nambean/Pygg
 
-⭐ 12 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nambean/Pygg) · [官网](http://inviv.vn) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nambean/Pygg) · [官网](http://inviv.vn) · 个人维护
 
 **为编程 agent 提供本地网关：路由多模型并记录请求成本**
 

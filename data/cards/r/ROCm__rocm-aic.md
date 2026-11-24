@@ -1,6 +1,6 @@
 # ROCm/rocm-aic
 
-⭐ 19 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ROCm/rocm-aic) · [官网](https://rocm.github.io/rocm-aic/) · 组织维护
+⭐ 19 · Shell · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ROCm/rocm-aic) · [官网](https://rocm.github.io/rocm-aic/) · 组织维护
 
 **AMD Instinct GPU 上的分离式 KV Cache LLM 推理栈**
 

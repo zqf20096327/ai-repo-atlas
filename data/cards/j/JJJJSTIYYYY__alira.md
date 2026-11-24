@@ -1,6 +1,6 @@
 # JJJJSTIYYYY/alira
 
-⭐ 312 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/JJJJSTIYYYY/alira) · 个人维护 · 中文 README
+⭐ 314 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/JJJJSTIYYYY/alira) · 个人维护 · 中文 README
 
 **构建 AI Agent 应用的模块化运行时框架**
 

@@ -1,6 +1,6 @@
 # hamzamostafa77772-cyber/ai-manus
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/hamzamostafa77772-cyber/ai-manus) · 个人维护
+⭐ 148 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/hamzamostafa77772-cyber/ai-manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：代写执行代码、控制浏览器**
 

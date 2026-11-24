@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/WebsiteBench
 
-⭐ 643 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TIGER-AI-Lab/WebsiteBench) · [官网](https://website-bench.com/) · 组织维护
+⭐ 689 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/TIGER-AI-Lab/WebsiteBench) · [官网](https://website-bench.com/) · 组织维护
 
 **评测 AI agent 通过浏览器探索重建网站能力的基准**
 

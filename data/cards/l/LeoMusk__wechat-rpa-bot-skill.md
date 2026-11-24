@@ -1,6 +1,6 @@
 # LeoMusk/wechat-rpa-bot-skill
 
-⭐ 112 · 推送 2026-11-10 · [GitHub](https://github.com/LeoMusk/wechat-rpa-bot-skill) · [官网](https://yobot.yokoagi.com) · 个人维护 · 中文 README
+⭐ 111 · 推送 2026-11-10 · [GitHub](https://github.com/LeoMusk/wechat-rpa-bot-skill) · [官网](https://yobot.yokoagi.com) · 个人维护 · 中文 README
 
 **给 AI 智能体用的微信 RPA 技能：本地 MCP 服务暴露微信操作**
 

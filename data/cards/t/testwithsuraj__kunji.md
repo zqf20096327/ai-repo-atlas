@@ -1,6 +1,6 @@
 # testwithsuraj/kunji
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/testwithsuraj/kunji) · [官网](http://kunji.iamsuraj.me) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/testwithsuraj/kunji) · [官网](http://kunji.iamsuraj.me) · 个人维护
 
 **BYOK 终端 AI 聊天客户端：接入多家模型并跟踪费用与预算**
 

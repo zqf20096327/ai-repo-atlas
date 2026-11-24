@@ -1,6 +1,6 @@
 # FunplayAI/funplay-godot-mcp
 
-⭐ 58 · GDScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/FunplayAI/funplay-godot-mcp) · 组织维护 · 中文 README
+⭐ 59 · GDScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/FunplayAI/funplay-godot-mcp) · 组织维护 · 中文 README
 
 **Godot 编辑器 MCP 服务器：让 AI 客户端直接操作运行中的项目**
 

@@ -1,6 +1,6 @@
 # Maxwell-FreeFOV/loom
 
-⭐ 4 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Maxwell-FreeFOV/loom) · [官网](https://github.com/Maxwell-FreeFOV/loom/tree/main/examples/reading-notes/en) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 AI 助手用的项目记忆技能：决策、事实、下一步存为 Markdown**
 
@@ -11,7 +11,7 @@ Loom 是一个面向 AI 编程助手的 Agent Skill，把长期项目中的对�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

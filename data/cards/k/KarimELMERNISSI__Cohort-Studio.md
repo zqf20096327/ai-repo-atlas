@@ -1,6 +1,6 @@
 # KarimELMERNISSI/Cohort-Studio
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/KarimELMERNISSI/Cohort-Studio) · [官网](https://karimelmernissi.github.io/Cohort-Studio/) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/KarimELMERNISSI/Cohort-Studio) · [官网](https://karimelmernissi.github.io/Cohort-Studio/) · 个人维护
 
 **给临床研究者的队列数据分析与可复现报告应用**
 

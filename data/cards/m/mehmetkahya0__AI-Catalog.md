@@ -1,6 +1,6 @@
 # mehmetkahya0/AI-Catalog
 
-⭐ 504 · HTML · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/mehmetkahya0/AI-Catalog) · [官网](https://mehmetkahya0.github.io/AI-Catalog/) · 个人维护
+⭐ 504 · HTML · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mehmetkahya0/AI-Catalog) · [官网](https://mehmetkahya0.github.io/AI-Catalog/) · 个人维护
 
 **AI 工具策展清单：500+ 工具按 40+ 类别收录供查找**
 

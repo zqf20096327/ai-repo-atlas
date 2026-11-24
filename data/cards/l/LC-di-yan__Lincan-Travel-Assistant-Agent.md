@@ -1,6 +1,6 @@
 # LC-di-yan/Lincan-Travel-Assistant-Agent
 
-⭐ 17 · Python · 推送 2026-11-09 · [GitHub](https://github.com/LC-di-yan/Lincan-Travel-Assistant-Agent) · [官网](https://lc-di-yan.github.io/Lincan-Travel-Assistant-Agent/) · 个人维护 · 中文 README
+⭐ 17 · Python · 推送 2026-11-23 · [GitHub](https://github.com/LC-di-yan/Lincan-Travel-Assistant-Agent) · [官网](https://lc-di-yan.github.io/Lincan-Travel-Assistant-Agent/) · 个人维护 · 中文 README
 
 **中文差旅助手：一句话生成可执行行程的多智能体 Web 应用**
 

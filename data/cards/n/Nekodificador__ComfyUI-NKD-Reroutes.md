@@ -1,6 +1,6 @@
 # Nekodificador/ComfyUI-NKD-Reroutes
 
-⭐ 15 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Nekodificador/ComfyUI-NKD-Reroutes) · 个人维护
+⭐ 15 · JavaScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Nekodificador/ComfyUI-NKD-Reroutes) · 个人维护
 
 **ComfyUI 连线样式与节点吸附整理扩展**
 

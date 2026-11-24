@@ -1,6 +1,6 @@
 # 1056210674-sketch/guanghe-project-example
 
-⭐ 4 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/1056210674-sketch/guanghe-project-example) · [官网](https://www.guangheai.com/) · 组织维护 · 中文 README
+⭐ 5 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/1056210674-sketch/guanghe-project-example) · [官网](https://www.guangheai.com/) · 组织维护 · 中文 README
 
 **企业级全栈 AI Agent 框架：对话、知识、内容创作与 GEO 监测**
 

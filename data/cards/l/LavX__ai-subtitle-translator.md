@@ -1,6 +1,6 @@
 # LavX/ai-subtitle-translator
 
-⭐ 14 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/LavX/ai-subtitle-translator) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LavX/ai-subtitle-translator) · 个人维护
 
 **为 Bazarr 打造的 SRT 字幕 LLM 翻译 API 服务**
 

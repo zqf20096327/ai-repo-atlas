@@ -1,6 +1,6 @@
 # madebywelch/guaca
 
-⭐ 60 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/madebywelch/guaca) · [官网](https://guaca.bot/) · 个人维护
+⭐ 60 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/madebywelch/guaca) · [官网](https://guaca.bot/) · 个人维护
 
 **让多个 AI agent 协作工作的自托管桌面工作区**
 

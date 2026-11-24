@@ -1,6 +1,6 @@
 # wasabihu/sessfork
 
-⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/wasabihu/sessfork) · [官网](https://wasabihu.github.io/sessfork/) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wasabihu/sessfork) · [官网](https://wasabihu.github.io/sessfork/) · 个人维护
 
 **把已登录的 Chrome 会话无头派生给 AI agent 浏览器**
 

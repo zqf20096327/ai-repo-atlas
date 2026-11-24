@@ -1,6 +1,6 @@
 # Sriram-PR/doc-scraper
 
-⭐ 110 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Sriram-PR/doc-scraper) · [官网](https://sriram-pr.github.io/doc-scraper/) · 个人维护
+⭐ 110 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sriram-PR/doc-scraper) · [官网](https://sriram-pr.github.io/doc-scraper/) · 个人维护
 
 **抓取文档站点转 Markdown 并通过 MCP 供编程代理离线检索**
 

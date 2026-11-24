@@ -1,6 +1,6 @@
 # sajadh76/awesome-AI-tools
 
-⭐ 27 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sajadh76/awesome-AI-tools) · 个人维护 · 中文 README
+⭐ 27 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sajadh76/awesome-AI-tools) · 个人维护 · 中文 README
 
 **每周更新的 AI 工具策展清单，覆盖 100+ 工具**
 

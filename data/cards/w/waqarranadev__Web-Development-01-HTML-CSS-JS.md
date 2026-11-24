@@ -1,6 +1,6 @@
 # waqarranadev/Web-Development-01-HTML-CSS-JS
 
-⭐ 23 · 推送 2025-11-28 · [GitHub](https://github.com/waqarranadev/Web-Development-01-HTML-CSS-JS) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向学生的 AI 辅助 Web 开发入门课程资料仓库**
 

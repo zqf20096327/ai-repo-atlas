@@ -1,6 +1,6 @@
 # No-22-Github/dsh-rwkv-plugin
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/No-22-Github/dsh-rwkv-plugin) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/No-22-Github/dsh-rwkv-plugin) · 个人维护 · 中文 README
 
 **把 RWKV-7 G1 接入 DeepSeek Harness 的模型提供方插件**
 

@@ -1,6 +1,6 @@
 # formanova-ai/awesome-jewelry-ai
 
-⭐ 30 · CC0-1.0 · 推送 2026-06-04 · [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) · [官网](https://formanova.ai) · 组织维护
+⭐ 31 · CC0-1.0 · 推送 2026-06-04 · [GitHub](https://github.com/formanova-ai/awesome-jewelry-ai) · [官网](https://formanova.ai) · 组织维护
 
 **珠宝图像 AI 资源策展清单：论文、模型、数据集与工具**
 

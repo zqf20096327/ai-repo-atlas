@@ -1,6 +1,6 @@
 # sonpiaz/echoly
 
-⭐ 47 · JavaScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/sonpiaz/echoly) · [官网](https://kymaapi.com) · 个人维护
+⭐ 48 · JavaScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/sonpiaz/echoly) · [官网](https://kymaapi.com) · 个人维护
 
 **给普通观众的 YouTube 实时 AI 配音翻译 Chrome 扩展**
 

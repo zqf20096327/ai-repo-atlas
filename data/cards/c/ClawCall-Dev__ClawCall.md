@@ -1,6 +1,6 @@
 # ClawCall-Dev/ClawCall
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ClawCall-Dev/ClawCall) · [官网](https://clawcall.dev) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ClawCall-Dev/ClawCall) · [官网](https://clawcall.dev) · 组织维护
 
 **让 AI agent 通过 MCP 拨打真实电话的远程服务**
 

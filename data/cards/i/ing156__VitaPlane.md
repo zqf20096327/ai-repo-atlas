@@ -1,6 +1,6 @@
 # ing156/VitaPlane
 
-⭐ 12 · C++ · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ing156/VitaPlane) · [官网](https://ing156.github.io/VitaPlane/) · 个人维护
+⭐ 12 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ing156/VitaPlane) · [官网](https://ing156.github.io/VitaPlane/) · 个人维护
 
 **PS Vita 掌机上的第三方 Telegram 客户端**
 

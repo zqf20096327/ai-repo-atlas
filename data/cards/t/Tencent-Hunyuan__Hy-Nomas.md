@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy-Nomas
 
-⭐ 603 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Nomas) · 组织维护 · 中文 README
+⭐ 606 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/Tencent-Hunyuan/Hy-Nomas) · 组织维护 · 中文 README
 
 **自由形式交互式视频世界生成模型，支持多轮文本与相机控制**
 

@@ -1,6 +1,6 @@
 # abhimanyu-jain/PRML_Solutions
 
-⭐ 13 · 推送 2026-11-21 · [GitHub](https://github.com/abhimanyu-jain/PRML_Solutions) · 个人维护
+⭐ 13 · 推送 2026-11-23 · [GitHub](https://github.com/abhimanyu-jain/PRML_Solutions) · 个人维护
 
 **PRML 教材全部习题的个人解答仓库**
 

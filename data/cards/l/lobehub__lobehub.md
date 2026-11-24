@@ -1,6 +1,6 @@
 # lobehub/lobehub
 
-⭐ 86,003 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/lobehub/lobehub) · [官网](https://lobehub.com) · 组织维护 · 中文 README
+⭐ 86,057 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/lobehub/lobehub) · [官网](https://lobehub.com) · 组织维护 · 中文 README
 
 **给团队聊天中添加能自主执行任务的 super-agent 平台**
 

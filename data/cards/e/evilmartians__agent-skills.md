@@ -1,6 +1,6 @@
 # evilmartians/agent-skills
 
-⭐ 67 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/evilmartians/agent-skills) · [官网](https://evilmartians.com/agent-skills) · 组织维护
+⭐ 68 · Shell · MIT · 推送 2026-11-13 · [GitHub](https://github.com/evilmartians/agent-skills) · [官网](https://evilmartians.com/agent-skills) · 组织维护
 
 **Evil Martians 出品的 AI 编程 agent 技能集合（6 个 SKILL.md）**
 

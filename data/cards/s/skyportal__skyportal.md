@@ -1,6 +1,6 @@
 # skyportal/skyportal
 
-⭐ 135 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/skyportal/skyportal) · [官网](https://skyportal.io) · 组织维护
+⭐ 135 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/skyportal/skyportal) · [官网](https://skyportal.io) · 组织维护
 
 **时域天文协作数据平台，供天文学家共享分析瞬变源数据**
 

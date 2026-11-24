@@ -1,6 +1,6 @@
 # Zleap-AI/SAG-Wiki
 
-⭐ 1,596 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Zleap-AI/SAG-Wiki) · [官网](https://sag-wiki.zleap.com) · 组织维护 · 中文 README
+⭐ 1,657 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Zleap-AI/SAG-Wiki) · [官网](https://sag-wiki.zleap.com) · 组织维护 · 中文 README
 
 **面向人与 agent 的本地文件知识库：快速索引、可溯源检索问答**
 

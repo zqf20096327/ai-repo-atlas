@@ -1,6 +1,6 @@
 # Zhou-Shilin/Aether
 
-⭐ 782 · Kotlin · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Zhou-Shilin/Aether) · [官网](https://aether.baimoqilin.com) · 个人维护 · 中文 README
+⭐ 780 · Kotlin · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Zhou-Shilin/Aether) · [官网](https://aether.baimoqilin.com) · 个人维护 · 中文 README
 
 **面向 Android/iOS/macOS 的本地通用 AI Agent 应用**
 

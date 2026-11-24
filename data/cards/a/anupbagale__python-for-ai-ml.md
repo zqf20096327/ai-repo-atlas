@@ -1,6 +1,6 @@
 # anupbagale/python-for-ai-ml
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anupbagale/python-for-ai-ml) · 个人维护
+⭐ 11 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anupbagale/python-for-ai-ml) · 个人维护
 
 **面向 AI/ML 初学者的 Python 动手课程：21 模块、Colab 运行**
 

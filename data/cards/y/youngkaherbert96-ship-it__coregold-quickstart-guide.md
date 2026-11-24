@@ -1,6 +1,6 @@
 # youngkaherbert96-ship-it/coregold-quickstart-guide
 
-⭐ 91 · 推送 2026-10-30 · [GitHub](https://github.com/youngkaherbert96-ship-it/coregold-quickstart-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 94 · 推送 2026-10-30 · [GitHub](https://github.com/youngkaherbert96-ship-it/coregold-quickstart-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **CoreGold 虚拟卡开卡订阅操作指南，用于海外平台支付**
 

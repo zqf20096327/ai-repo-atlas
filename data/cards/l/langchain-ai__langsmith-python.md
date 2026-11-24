@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-python
 
-⭐ 27 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/langsmith-python) · 组织维护
+⭐ 28 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langsmith-python) · 组织维护
 
 **LangSmith 平台的 Python 客户端 SDK：LLM 应用追踪与评测**
 

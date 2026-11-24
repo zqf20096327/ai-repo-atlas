@@ -1,6 +1,6 @@
 # somastllc/nlp-for-machine-learning-bootcamp
 
-⭐ 119 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/somastllc/nlp-for-machine-learning-bootcamp) · [官网](https://www.somast.so) · 组织维护
+⭐ 119 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/somastllc/nlp-for-machine-learning-bootcamp) · [官网](https://www.somast.so) · 组织维护
 
 **面向有 ML 基础学员的 NLP 训练营课程仓库**
 

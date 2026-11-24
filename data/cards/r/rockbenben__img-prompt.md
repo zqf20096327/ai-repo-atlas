@@ -1,6 +1,6 @@
 # rockbenben/img-prompt
 
-⭐ 373 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/rockbenben/img-prompt) · [官网](https://prompt.newzone.top) · 个人维护 · 中文 README
+⭐ 374 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rockbenben/img-prompt) · [官网](https://prompt.newzone.top) · 个人维护 · 中文 README
 
 **非英文用户点选母语标签自动拼装英文 AI 绘图/视频提示词**
 

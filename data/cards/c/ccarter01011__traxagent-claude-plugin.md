@@ -1,6 +1,6 @@
 # ccarter01011/traxagent-claude-plugin
 
-⭐ 137 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ccarter01011/traxagent-claude-plugin) · [官网](https://www.traxagent.io) · 个人维护
+⭐ 136 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ccarter01011/traxagent-claude-plugin) · [官网](https://www.traxagent.io) · 个人维护
 
 **面向团队的 AI 支出审计 MCP 服务器与 Claude Code 插件**
 

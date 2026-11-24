@@ -1,6 +1,6 @@
 # identArk/identark-js
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/identArk/identark-js) · [官网](https://identark.io) · 组织维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/identArk/identark-js) · [官网](https://identark.io) · 组织维护
 
 **面向 AI agent 的 TypeScript SDK：零密钥执行与治理路由**
 

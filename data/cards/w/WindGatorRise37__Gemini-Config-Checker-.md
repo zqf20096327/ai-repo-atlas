@@ -1,6 +1,6 @@
 # WindGatorRise37/Gemini-Config-Checker-
 
-⭐ 469 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/WindGatorRise37/Gemini-Config-Checker-) · 个人维护
+⭐ 464 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/WindGatorRise37/Gemini-Config-Checker-) · 个人维护
 
 **测试代理配置能否进入 Google AI Studio/Gemini 的链路扫描工具**
 

@@ -1,6 +1,6 @@
 # citizenhicks/mobius
 
-⭐ 640 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/citizenhicks/mobius) · [官网](https://mobius.thinkingsand.dev) · 个人维护
+⭐ 638 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/citizenhicks/mobius) · [官网](https://mobius.thinkingsand.dev) · 个人维护
 
 **给编码 agent 的前端中立 Rust 运行时框架与网关**
 

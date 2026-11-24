@@ -1,6 +1,6 @@
 # modelscope/mcore-bridge
 
-⭐ 107 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/modelscope/mcore-bridge) · [官网](https://swift.readthedocs.io/en/latest/Megatron-SWIFT/Mcore-Bridge.html) · 组织维护 · 中文 README
+⭐ 107 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/mcore-bridge) · [官网](https://swift.readthedocs.io/en/latest/Megatron-SWIFT/Mcore-Bridge.html) · 组织维护 · 中文 README
 
 **基于 Megatron-Core 的大模型定义库：让 Megatron 训练像 Transformers 一样简单**
 

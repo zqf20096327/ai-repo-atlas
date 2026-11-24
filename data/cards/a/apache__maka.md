@@ -1,6 +1,6 @@
 # apache/maka
 
-⭐ 5,997 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/apache/maka) · 组织维护 · 中文 README
+⭐ 6,000 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/apache/maka) · 组织维护 · 中文 README
 
 **本地优先的终端/桌面 agent 工作区，记录每次运行与审批**
 

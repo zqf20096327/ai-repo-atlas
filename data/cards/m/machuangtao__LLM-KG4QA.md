@@ -1,6 +1,6 @@
 # machuangtao/LLM-KG4QA
 
-⭐ 167 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/machuangtao/LLM-KG4QA) · [官网](https://machuangtao.github.io/LLM-KG4QA/survey-emnlp25) · 组织维护
+⭐ 167 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/machuangtao/LLM-KG4QA) · [官网](https://machuangtao.github.io/LLM-KG4QA/survey-emnlp25) · 组织维护
 
 **LLM+知识图谱问答方向的论文综述清单（EMNLP2025）**
 

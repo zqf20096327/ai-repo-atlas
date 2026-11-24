@@ -1,6 +1,6 @@
 # huggingface/trl
 
-⭐ 19,795 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/huggingface/trl) · [官网](http://hf.co/docs/trl) · 组织维护
+⭐ 19,802 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/trl) · [官网](http://hf.co/docs/trl) · 组织维护
 
 **面向开发者的基础模型后训练库：支持 SFT/DPO/GRPO 等方法**
 

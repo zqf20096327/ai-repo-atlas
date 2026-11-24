@@ -1,6 +1,6 @@
 # FANzR-arch/Numerologist_skills
 
-⭐ 2,173 · Python · 推送 2026-10-16 · [GitHub](https://github.com/FANzR-arch/Numerologist_skills) · [官网](https://numerologist-skills.vercel.app) · 个人维护 · 中文 README
+⭐ 2,189 · Python · 推送 2026-10-16 · [GitHub](https://github.com/FANzR-arch/Numerologist_skills) · [官网](https://numerologist-skills.vercel.app) · 个人维护 · 中文 README
 
 **传统术数 AI skills：用固定排盘脚本与口径约束减少 LLM 幻觉**
 

@@ -1,6 +1,6 @@
 # AreevAI/areev
 
-⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/AreevAI/areev) · [官网](https://areev.ai/store) · 组织维护
+⭐ 27 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AreevAI/areev) · [官网](https://areev.ai/store) · 组织维护
 
 **构建微垂直 AI 产品的开源引擎：记忆、工作流、人工审批与受治理改进**
 

@@ -1,6 +1,6 @@
 # erensrtky/cogit
 
-⭐ 214 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/erensrtky/cogit) · [官网](https://www.npmjs.com/package/@cogit/cli) · 个人维护
+⭐ 216 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/erensrtky/cogit) · [官网](https://www.npmjs.com/package/@cogit/cli) · 个人维护
 
 **记录 AI 编码代理决策意图的工具：把每条消息变成可追溯的 thought commit**
 

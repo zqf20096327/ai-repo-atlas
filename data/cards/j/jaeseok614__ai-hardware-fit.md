@@ -1,6 +1,6 @@
 # jaeseok614/ai-hardware-fit
 
-⭐ 44 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jaeseok614/ai-hardware-fit) · [官网](https://jaeseok614.github.io/ai-hardware-fit/) · 个人维护
+⭐ 44 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jaeseok614/ai-hardware-fit) · [官网](https://jaeseok614.github.io/ai-hardware-fit/) · 个人维护
 
 **GPU 与 AI 模型适配查询工具：选 GPU 得可跑模型与运行命令**
 

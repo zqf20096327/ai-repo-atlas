@@ -1,6 +1,6 @@
 # elie222/inbox-zero
 
-⭐ 13,093 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/elie222/inbox-zero) · [官网](https://getinboxzero.com) · 个人维护
+⭐ 13,102 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/elie222/inbox-zero) · [官网](https://getinboxzero.com) · 个人维护
 
 **开源 AI 邮件助手：助你更快清空收件箱**
 

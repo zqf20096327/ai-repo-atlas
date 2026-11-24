@@ -1,6 +1,6 @@
 # lincc-frameworks/hyrax
 
-⭐ 44 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lincc-frameworks/hyrax) · [官网](https://hyrax.readthedocs.io/) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lincc-frameworks/hyrax) · [官网](https://hyrax.readthedocs.io/) · 组织维护
 
 **面向天文学的低代码 ML 实验框架，减少样板代码**
 

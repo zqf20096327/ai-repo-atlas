@@ -1,6 +1,6 @@
 # evoelsewhere/evo-harness
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/evoelsewhere/evo-harness) · [官网](https://evoelsewhere.asia) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/evoelsewhere/evo-harness) · [官网](https://evoelsewhere.asia) · 组织维护
 
 **本地优先的 AI agent 桌面工作区，聚合聊天、文件、终端与浏览器**
 

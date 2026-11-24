@@ -1,10 +1,10 @@
 # iamajmeena/neonclipping
 
-⭐ 2,079 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/iamajmeena/neonclipping) · 个人维护
+⭐ 2,310 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iamajmeena/neonclipping) · 个人维护
 
-**本地运行的视频切片引擎：粘贴链接生成带字幕的竖屏短片**
+**本地运行的开源视频切片引擎：粘贴链接生成带字幕竖版短视频**
 
-NeonClipping 将 YouTube/Twitch/Kick 长视频或本地 MP4 转为带字幕、标题与 hook 的 9:16 竖屏切片，全部在本机运行，不上传、无账号。机制：默认 Fast 模式只下载音频，优先复用 YouTube 自带逐词字幕，用响度跳变/高频能量/光流运动等信号打分候选片段，再用本地 LLM（Ollama）评分并写标题；Deep 模式下载全片加入光流与切镜密度。依赖 Python 3.10–3.13 与 FFmpeg，支持 NVIDIA NVENC/VideoToolbox/x264 编码。提供星级反馈训练本地偏好排序权重。
+NeonClipping 把 YouTube/Twitch/Kick 长视频或本地 MP4 转成 9:16 带字幕切片并生成标题与 hook，全程本地运行、无需账号与上传。快速模式只下载音频、优先复用 YouTube 字幕做转写、按响度跳变等信号评分，再用 Ollama 本地 LLM 打分写标题，最后仅下载选中片段渲染 1080x1920；深度模式加入光流运动信号。提供 11 种游戏画面布局、52 种字幕语言、Hinglish 转写、偏好评分反馈学习。安装依赖 Python 3.10–3.13 与 FFmpeg，Mac 安装脚本作者自述未经真机验证。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ NeonClipping 将 YouTube/Twitch/Kick 长视频或本地 MP4 转为带字幕、�
 
 ## 能力要点
 
-- 音频优先管线：85 分钟流媒体 97 秒完成切片，零 API 成本
-- Fast/Deep 双模式：Fast 只下载选定片段，24 小时视频无需全量下载
-- 本地 LLM（Ollama）评分、写标题与 hook，评级数据留在本机
-- 11 种直播构图布局与 5 种字幕样式，52 种字幕语言
+- 音频优先流程：85 分钟视频仅下载 79 MB 音频，评分后只下载选中片段
+- 优先复用 YouTube 逐词字幕，无字幕来源回退本地 Whisper 模型
+- 本地 LLM（Ollama）生成标题与 hook，五星级反馈可更新本地排序权重
+- 11 种游戏画面布局自动/手动画框，1080p 默认导出（NVENC/VideoToolbox/x264）
 
 ## 适用场景
 
-- 把直播录像切成竖屏短片发 Shorts/Reels
-- 游戏主播自动定位 facecam 并生成带字幕切片
-- 离线/无 API 环境下本地批量切片
+- 把游戏直播录像切成带字幕的竖版短视频
+- 给长视频批量生成片段标题与开场引导语
+- 离线环境处理本地 MP4 并导出 SRT/WebVTT 字幕
 
 ## 场景标签
 
-`语音识别` `图像视频处理` · 领域:感知与多模态
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L5: NeonClipping turns long YouTube / Twitch / Kick videos (or your own MP4) into vertical, captioned clips with a title
-> L43: 2. Take the transcript for free from YouTube's own captions (word-timed). No speech model needed. For other sources
 > L45: 4. Take the best moments, read each one's transcript with a local LLM (Ollama) and let it score the moment, write a
+> L125: Open <http://127.0.0.1:8770>, paste a link, press **⚡ Make clips**.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `99f5e3367cb5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `8256b862ce96` · [字段定义](../../DATASET.md)*

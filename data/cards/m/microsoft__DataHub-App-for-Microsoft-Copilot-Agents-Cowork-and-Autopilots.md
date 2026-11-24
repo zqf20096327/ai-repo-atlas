@@ -1,6 +1,6 @@
 # microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots) · 组织维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/DataHub-App-for-Microsoft-Copilot-Agents-Cowork-and-Autopilots) · 组织维护
 
 **分析组织内 Microsoft 365 Copilot 与 agent 使用量及价值估算的报表应用**
 

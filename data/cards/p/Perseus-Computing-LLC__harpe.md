@@ -1,6 +1,6 @@
 # Perseus-Computing-LLC/harpe
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Perseus-Computing-LLC/harpe) · [官网](https://telarch.ai/harpe) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 AI agent 在 token 预算内选择每次调用的上下文项**
 
@@ -11,7 +11,7 @@ Rust/Python 双语言库（同仓 crate 与 pip 包），在 token 预算内决�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

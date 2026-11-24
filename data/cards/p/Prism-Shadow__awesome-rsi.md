@@ -1,6 +1,6 @@
 # Prism-Shadow/awesome-rsi
 
-⭐ 628 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/Prism-Shadow/awesome-rsi) · [官网](https://prism-shadow.github.io/awesome-rsi/) · 组织维护 · 中文 README
+⭐ 635 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/Prism-Shadow/awesome-rsi) · [官网](https://prism-shadow.github.io/awesome-rsi/) · 组织维护 · 中文 README
 
 **递归自我改进（RSI）论文与基准索引，供研究者检索**
 

@@ -1,6 +1,6 @@
 # bug-ops/mcp-execution
 
-⭐ 48 · Rust · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/bug-ops/mcp-execution) · 组织维护
+⭐ 48 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/bug-ops/mcp-execution) · 组织维护
 
 **把 MCP 服务器转成可执行 TypeScript 工具，节省 token**
 

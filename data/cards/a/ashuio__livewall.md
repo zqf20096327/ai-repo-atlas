@@ -1,6 +1,6 @@
 # ashuio/livewall
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/ashuio/livewall) · [官网](https://ashu.io/projects/livewall/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 AI agent 边工作边写入的实时状态看板**
 
@@ -11,7 +11,7 @@ Livewall 提供一个由 AI agent 在执行任务时实时更新的浏览器状�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # mq-yuan/project-docs
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mq-yuan/project-docs) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mq-yuan/project-docs) · 个人维护 · 中文 README
 
 **为 coding agent 提供项目级记忆：以仓库文档承载项目事实并就地改写**
 

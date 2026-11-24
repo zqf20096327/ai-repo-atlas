@@ -1,6 +1,6 @@
 # hyeonsang010716/OpenDocKit
 
-⭐ 43 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hyeonsang010716/OpenDocKit) · [官网](https://pypi.org/project/opendockit/) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hyeonsang010716/OpenDocKit) · [官网](https://pypi.org/project/opendockit/) · 个人维护
 
 **把多格式文档转为 LLM 可用 Markdown 的转换库**
 

@@ -1,6 +1,6 @@
 # gylidianh/harness-gemini
 
-⭐ 8 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/gylidianh/harness-gemini) · [官网](https://github.com/gylidianh/harness-gemini/releases/latest) · 个人维护 · 中文 README
+⭐ 9 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/gylidianh/harness-gemini) · [官网](https://github.com/gylidianh/harness-gemini/releases/latest) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 工作台：集中聊天、编程、生图与浏览**
 

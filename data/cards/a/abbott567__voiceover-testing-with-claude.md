@@ -1,6 +1,6 @@
 # abbott567/voiceover-testing-with-claude
 
-⭐ 3 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/abbott567/voiceover-testing-with-claude) · [官网](https://www.craigabbott.co.uk/blog/2026/automated-screen-reader-testing-with-claude-code-voiceover-and-gherkin/) · 个人维护
+⭐ 4 · HTML · MIT · 推送 2026-10-19 · [GitHub](https://github.com/abbott567/voiceover-testing-with-claude) · [官网](https://www.craigabbott.co.uk/blog/2026/automated-screen-reader-testing-with-claude-code-voiceover-and-gherkin/) · 个人维护
 
 **用 Claude Code 驱动 macOS VoiceOver 自动执行屏幕阅读器无障碍测试**
 

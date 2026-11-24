@@ -1,10 +1,10 @@
 # skyzh/tiny-llm
 
-⭐ 5,803 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/skyzh/tiny-llm) · [官网](https://tiny-llm.dev) · 个人维护
+⭐ 5,805 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/skyzh/tiny-llm) · [官网](https://tiny-llm.dev) · 个人维护
 
-**面向系统工程师的 LLM 推理系统实践课程（Apple Silicon）**
+**面向系统工程师在 Apple Silicon 上手写 LLM 推理系统的课程**
 
-tiny-llm 是一门面向系统工程师的实践课程，目标是端到端理解 LLM 推理。课程基于 MLX 数组与 MLX 扩展运行时，不使用高层神经网络层：学员在 Python、C++ 或 Metal 中实现算子，MLX 作为正确性参照与性能基线。路径为四周：从矩阵运算搭建 Qwen3 模型、KV-cache 与量化/SIMD 优化、实现 continuous batching 与 paged KV 的 mini vLLM，到构建带校验边界的 coding agent。课程环境需 Apple Silicon（共享内存与 Metal 内核）。
+tiny-llm 是一个面向系统工程师的实操课程，目标是端到端理解 LLM 推理：从加载 Qwen3 模型、将 token 转为 logits 到生成文本，类比 CMU Needle 项目的 LLM serving 版本。课程按四周路径组织：基于 mlx.core 数组运算实现 Qwen3 模型、KV-cache 与量化算子、带 continuous batching 与 paged KV 的 mini vLLM 服务机制，以及编码 Agent。学员在 Python/C++/Metal 中自行实现算子，MLX 仅作正确性对照与性能基线。依赖 pdm 管理 Python 环境，教材发布于 skyzh.github.io/tiny-llm。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ tiny-llm 是一门面向系统工程师的实践课程，目标是端到端理�
 
 ## 能力要点
 
-- 四部分路径：Qwen3 模型搭建 → 单请求优化 → mini vLLM → coding agent
-- 在 Python/C++/Metal 中手动实现算子，MLX 作正确性参照与性能基线
-- 将公式与内存流量、kernel 占用、KV-cache、批处理、调度关联
-- 配套参考实现 tiny_llm_ref 与测试/基准附录
+- 四周学习路径：Matmul→单请求优化→mini vLLM→编码 Agent
+- 在 Python/C++/Metal 中手写算子，MLX 作正确性对照与性能基线
+- 覆盖 KV-cache、量化、continuous batching、paged KV 等 serving 机制
+- 基于 Apple Silicon 统一内存与 Metal 内核，无需 CUDA GPU
 
 ## 适用场景
 
-- 系统工程师想端到端理解 LLM 推理链路
-- 在本地 Apple Silicon 上学习 kernel 与服务机制
-- 动手实现 continuous batching 与 paged KV-cache
+- 系统工程师想端到端理解 LLM 推理与 serving 机制
+- 在本地 Apple Silicon 环境练习实现注意力、RoPE、采样等算子
+- 学习 continuous batching 与 paged KV-cache 的服务调度实现
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ tiny-llm 是一门面向系统工程师的实践课程，目标是端到端理�
 
 ## 证据(README 行号)
 
-> L5: tiny-llm is a hands-on course for systems engineers who want to understand LLM
-> L17: The course is built on MLX arrays and the MLX extension runtime, without using
-> L25: The course follows a four-week learning path:
+> L6: tiny-llm is a hands-on course for systems engineers who want to understand LLM
+> L18: The course is built on MLX arrays and the MLX extension runtime, without using
+> L26: The course follows a four-week learning path:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bc19b8c1c025` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1ebea08fc129` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # tsingliuwin/boundless
 
-⭐ 10 · Rust · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/tsingliuwin/boundless) · [官网](https://github.com/tsingliuwin/boundless/releases) · 个人维护 · 中文 README
+⭐ 11 · Rust · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/tsingliuwin/boundless) · [官网](https://github.com/tsingliuwin/boundless/releases) · 个人维护 · 中文 README
 
 **给设计师与演示者的手绘风无限白板，AI 直接在画布作画**
 

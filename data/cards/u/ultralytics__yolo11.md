@@ -1,6 +1,6 @@
 # ultralytics/yolo11
 
-⭐ 48 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolo11) · [官网](https://platform.ultralytics.com/ultralytics/yolo11) · 组织维护
+⭐ 49 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/yolo11) · [官网](https://platform.ultralytics.com/ultralytics/yolo11) · 组织维护
 
 **YOLO11 模型发现页：目标检测/分割/分类/姿态/旋转框/跟踪**
 

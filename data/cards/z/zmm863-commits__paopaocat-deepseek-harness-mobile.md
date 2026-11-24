@@ -1,6 +1,6 @@
 # zmm863-commits/paopaocat-deepseek-harness-mobile
 
-⭐ 22 · Dart · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile) · [官网](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile/releases/latest) · 个人维护 · 中文 README
+⭐ 23 · Dart · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile) · [官网](https://github.com/zmm863-commits/paopaocat-deepseek-harness-mobile/releases/latest) · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 智能体运行时完整装入 Android 手机的 App**
 

@@ -1,6 +1,6 @@
 # Leizhidong-creator/modelpick
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Leizhidong-creator/modelpick) · [官网](https://leizhidong-creator.github.io/modelpick/) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Leizhidong-creator/modelpick) · [官网](https://leizhidong-creator.github.io/modelpick/) · 个人维护 · 中文 README
 
 **给 AI agent 的模型路由 CLI：按任务节点选模型并计算每任务成本**
 

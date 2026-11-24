@@ -1,6 +1,6 @@
 # rlaope/oh-my-hermes
 
-⭐ 5,938 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rlaope/oh-my-hermes) · [官网](https://omher.app/) · 个人维护 · 中文 README
+⭐ 5,987 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rlaope/oh-my-hermes) · [官网](https://omher.app/) · 个人维护 · 中文 README
 
 **Hermes Agent 的操作层：多模型分道并行协作干活**
 

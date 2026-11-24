@@ -1,6 +1,6 @@
 # AZNixl/Oime
 
-⭐ 12 · Kotlin · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/AZNixl/Oime) · [官网](https://github.com/AZNixl/Oime/releases/latest) · 个人维护 · 中文 README
+⭐ 11 · Kotlin · GPL-3.0 · 推送 2026-10-29 · [GitHub](https://github.com/AZNixl/Oime) · [官网](https://github.com/AZNixl/Oime/releases/latest) · 个人维护 · 中文 README
 
 **给 Android 用户的 RIME 输入法：方案即放即用，带离线语音与 AI 输入**
 

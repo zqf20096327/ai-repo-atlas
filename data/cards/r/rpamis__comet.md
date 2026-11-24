@@ -1,6 +1,6 @@
 # rpamis/comet
 
-⭐ 3,311 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/rpamis/comet) · [官网](https://docs.comet.rpamis.com) · 组织维护 · 中文 README
+⭐ 3,313 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rpamis/comet) · [官网](https://docs.comet.rpamis.com) · 组织维护 · 中文 README
 
 **为 agent 提供可恢复长任务工作流与 Skill 平台的开发工具**
 

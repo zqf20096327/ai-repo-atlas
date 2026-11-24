@@ -1,6 +1,6 @@
 # nicknisi/fleet
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/nicknisi/fleet) · 个人维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nicknisi/fleet) · 个人维护
 
 **tmux 终端面板：集中管理多个 AI agent 会话并批量发送提示**
 

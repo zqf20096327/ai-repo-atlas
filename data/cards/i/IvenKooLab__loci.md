@@ -1,6 +1,6 @@
 # IvenKooLab/loci
 
-⭐ 102 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/IvenKooLab/loci) · 组织维护 · 中文 README
+⭐ 102 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/IvenKooLab/loci) · 组织维护 · 中文 README
 
 **AI 编码工具共享记忆库：本地混合检索与带引用问答**
 

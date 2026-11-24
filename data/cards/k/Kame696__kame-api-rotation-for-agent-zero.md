@@ -1,6 +1,6 @@
 # Kame696/kame-api-rotation-for-agent-zero
 
-⭐ 25 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Kame696/kame-api-rotation-for-agent-zero) · [官网](https://github.com/Kame696/kame-api-rotation-for-agent-zero) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Kame696/kame-api-rotation-for-agent-zero) · [官网](https://github.com/Kame696/kame-api-rotation-for-agent-zero) · 个人维护
 
 **Agent Zero 插件：多 API key 轮换与模型自动降级，聚合配额池**
 

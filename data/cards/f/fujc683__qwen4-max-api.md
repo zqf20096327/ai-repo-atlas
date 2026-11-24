@@ -1,6 +1,6 @@
 # fujc683/qwen4-max-api
 
-⭐ 14 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/qwen4-max-api) · [官网](https://gola.apimart.ai/k-SBK4VP) · 个人维护
+⭐ 19 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/qwen4-max-api) · [官网](https://gola.apimart.ai/k-SBK4VP) · 个人维护
 
 **开发者调用 Qwen4 Max API 的端点与参数指南**
 

@@ -1,6 +1,6 @@
 # ballerina-platform/skills
 
-⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/ballerina-platform/skills) · 组织维护
+⭐ 27 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ballerina-platform/skills) · 组织维护
 
 **面向 AI 编程助手的 Ballerina 语言技能与插件集**
 

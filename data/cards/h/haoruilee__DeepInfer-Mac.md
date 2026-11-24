@@ -1,6 +1,6 @@
 # haoruilee/DeepInfer-Mac
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/haoruilee/DeepInfer-Mac) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/haoruilee/DeepInfer-Mac) · 个人维护 · 中文 README
 
 **在单台 Apple Silicon Mac 上以 SSD 专家流式运行 DeepSeek-V4.1-Flash**
 

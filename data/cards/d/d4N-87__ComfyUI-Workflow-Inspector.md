@@ -1,6 +1,6 @@
 # d4N-87/ComfyUI-Workflow-Inspector
 
-⭐ 25 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/d4N-87/ComfyUI-Workflow-Inspector) · [官网](https://d4n-87.github.io/ComfyUI-Workflow-Inspector/) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/d4N-87/ComfyUI-Workflow-Inspector) · [官网](https://d4n-87.github.io/ComfyUI-Workflow-Inspector/) · 个人维护
 
 **浏览器端查看 ComfyUI 工作流元数据的 React 检视工具**
 

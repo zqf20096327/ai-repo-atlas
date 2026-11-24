@@ -1,6 +1,6 @@
 # chan4lk/specclaw
 
-⭐ 14 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/chan4lk/specclaw) · [官网](https://chan4lk.github.io/specclaw/) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/chan4lk/specclaw) · [官网](https://chan4lk.github.io/specclaw/) · 个人维护
 
 **面向 Claude Code/Codex 的规格驱动开发插件工作流**
 

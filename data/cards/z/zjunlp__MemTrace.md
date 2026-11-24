@@ -1,6 +1,6 @@
 # zjunlp/MemTrace
 
-⭐ 83 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/zjunlp/MemTrace) · 组织维护 · 中文 README
+⭐ 86 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zjunlp/MemTrace) · 组织维护 · 中文 README
 
 **LLM 记忆系统错误溯源工具：定位错误引入的操作步骤**
 

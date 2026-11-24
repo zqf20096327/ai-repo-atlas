@@ -1,6 +1,6 @@
 # belaytzev/Telebrief
 
-⭐ 26 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/belaytzev/Telebrief) · [官网](https://telebrief.ti1orn.com) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/belaytzev/Telebrief) · [官网](https://telebrief.ti1orn.com) · 个人维护
 
 **自部署 Telegram 频道 AI 摘要机器人：定时生成分组日报**
 

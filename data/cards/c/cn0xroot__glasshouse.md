@@ -1,6 +1,6 @@
 # cn0xroot/glasshouse
 
-⭐ 7 · Go · 推送 2026-11-20 · [GitHub](https://github.com/cn0xroot/glasshouse) · [官网](https://www.sistudiohq.com) · 个人维护 · 中文 README
+⭐ 8 · Go · 推送 2026-11-20 · [GitHub](https://github.com/cn0xroot/glasshouse) · [官网](https://www.sistudiohq.com) · 个人维护 · 中文 README
 
 **为 AI agent 提供硬件级隔离 Ubuntu VM 沙箱**
 

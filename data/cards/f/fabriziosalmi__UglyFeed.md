@@ -1,6 +1,6 @@
 # fabriziosalmi/UglyFeed
 
-⭐ 324 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/fabriziosalmi/UglyFeed) · [官网](https://fabriziosalmi.github.io/UglyFeed/) · 个人维护
+⭐ 323 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/fabriziosalmi/UglyFeed) · [官网](https://fabriziosalmi.github.io/UglyFeed/) · 个人维护
 
 **用 LLM 抓取、聚合、改写并发布 RSS 订阅源的应用**
 

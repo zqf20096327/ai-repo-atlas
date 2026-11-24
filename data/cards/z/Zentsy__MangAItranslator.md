@@ -1,6 +1,6 @@
 # Zentsy/MangAItranslator
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Zentsy/MangAItranslator) · [官网](https://zentsy.github.io/MangAItranslator/) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Zentsy/MangAItranslator) · [官网](https://zentsy.github.io/MangAItranslator/) · 个人维护
 
 **面向扫描汉化组的漫画 AI 辅助翻译桌面应用**
 

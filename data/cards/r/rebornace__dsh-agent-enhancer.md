@@ -1,6 +1,6 @@
 # rebornace/dsh-agent-enhancer
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rebornace/dsh-agent-enhancer) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rebornace/dsh-agent-enhancer) · 个人维护 · 中文 README
 
 **DeepSeek Harness Desktop 的智能体增强插件**
 

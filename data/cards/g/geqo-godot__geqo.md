@@ -1,6 +1,6 @@
 # geqo-godot/geqo
 
-⭐ 48 · GDScript · MIT · 推送 2026-05-18 · [GitHub](https://github.com/geqo-godot/geqo) · 个人维护
+⭐ 49 · GDScript · MIT · 推送 2026-05-18 · [GitHub](https://github.com/geqo-godot/geqo) · 个人维护
 
 **Godot 4 的节点式环境查询系统，供 AI 角色选取最佳位置**
 

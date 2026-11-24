@@ -1,6 +1,6 @@
 # raysonmeng/agent-bridge
 
-⭐ 436 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/raysonmeng/agent-bridge) · [官网](https://raysonmeng.github.io/agent-bridge/) · 个人维护 · 中文 README
+⭐ 438 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/raysonmeng/agent-bridge) · [官网](https://raysonmeng.github.io/agent-bridge/) · 个人维护 · 中文 README
 
 **让 Claude Code 与 Codex 在同一会话双向协作的本地桥接工具**
 

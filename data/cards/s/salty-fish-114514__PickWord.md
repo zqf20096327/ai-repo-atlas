@@ -1,6 +1,6 @@
 # salty-fish-114514/PickWord
 
-⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/salty-fish-114514/PickWord) · [官网](https://github.com/salty-fish-114514/PickWord/releases/latest) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/salty-fish-114514/PickWord) · [官网](https://github.com/salty-fish-114514/PickWord/releases/latest) · 个人维护 · 中文 README
 
 **面向写作者的 Windows 本地写作软件，以候选词选择方式辅助续写**
 

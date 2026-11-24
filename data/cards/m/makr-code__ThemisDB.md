@@ -1,6 +1,6 @@
 # makr-code/ThemisDB
 
-⭐ 10 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/makr-code/ThemisDB) · [官网](https:\\www.themisdb.org) · 组织维护
+⭐ 10 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/makr-code/ThemisDB) · [官网](https:\\www.themisdb.org) · 组织维护
 
 **C++ 多模型数据库：图/向量/关系/文档等多负载统一存储**
 

@@ -1,6 +1,6 @@
 # wenyuanw/quick-prompt
 
-⭐ 862 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/wenyuanw/quick-prompt) · [官网](https://quick-prompt.wenyuanw.me/) · 个人维护 · 中文 README
+⭐ 861 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/wenyuanw/quick-prompt) · [官网](https://quick-prompt.wenyuanw.me/) · 个人维护 · 中文 README
 
 **管理提示词库并在任意网页输入框快速插入的浏览器插件**
 

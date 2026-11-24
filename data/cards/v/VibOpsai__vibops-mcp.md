@@ -1,6 +1,6 @@
 # VibOpsai/vibops-mcp
 
-⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/VibOpsai/vibops-mcp) · [官网](https://vibops.ai) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VibOpsai/vibops-mcp) · [官网](https://vibops.ai) · 组织维护
 
 **MCP 服务器：让 AI 助手操作 GPU 基础设施与 Agent FinOps**
 

@@ -1,6 +1,6 @@
 # skyzhao1223/zspace-cli
 
-⭐ 32 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/skyzhao1223/zspace-cli) · [官网](https://pypi.org/project/zspace-cli/) · 个人维护 · 中文 README
+⭐ 33 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/skyzhao1223/zspace-cli) · [官网](https://pypi.org/project/zspace-cli/) · 个人维护 · 中文 README
 
 **极空间 NAS 的 CLI/SDK/MCP 工具，供终端与 AI Agent 管理文件**
 

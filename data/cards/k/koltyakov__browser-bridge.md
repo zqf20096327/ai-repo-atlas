@@ -1,6 +1,6 @@
 # koltyakov/browser-bridge
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/koltyakov/browser-bridge) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/koltyakov/browser-bridge) · 个人维护
 
 **让编码 Agent 检查/操控真实 Chrome 标签页的本地浏览器桥**
 

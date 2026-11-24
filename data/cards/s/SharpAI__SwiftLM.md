@@ -1,6 +1,6 @@
 # SharpAI/SwiftLM
 
-⭐ 802 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SharpAI/SwiftLM) · 组织维护
+⭐ 803 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SharpAI/SwiftLM) · 组织维护
 
 **面向 Apple Silicon 的原生 Swift LLM 推理服务器，提供 OpenAI 兼容 API**
 

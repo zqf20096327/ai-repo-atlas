@@ -1,6 +1,6 @@
 # OpenByteInc/QuantDinger
 
-⭐ 13,912 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/OpenByteInc/QuantDinger) · [官网](https://ai.quantdinger.com) · 组织维护 · 中文 README
+⭐ 13,948 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/OpenByteInc/QuantDinger) · [官网](https://ai.quantdinger.com) · 组织维护 · 中文 README
 
 **自托管开源 AI 量化交易平台：研究、回测到实盘执行**
 

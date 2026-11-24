@@ -1,6 +1,6 @@
 # janishar/h3c-studio
 
-⭐ 20 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/janishar/h3c-studio) · 个人维护
+⭐ 21 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/janishar/h3c-studio) · 个人维护
 
 **在 Apple Silicon 上本地驱动 h3.c 生成 MiniMax-H3 视频音频的 Web 工作台**
 

@@ -1,6 +1,6 @@
 # Quasynvo/Quasnooze
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Quasynvo/Quasnooze) · [官网](https://quasynvo.github.io/Quasnooze/) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Quasynvo/Quasnooze) · [官网](https://quasynvo.github.io/Quasnooze/) · 个人维护
 
 **本地优先的个人 AI 语音助手，多渠道接入**
 

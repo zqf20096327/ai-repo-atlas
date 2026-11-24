@@ -1,6 +1,6 @@
 # zincware/ZnTrack
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/zincware/ZnTrack) · [官网](https://zntrack.readthedocs.io) · 组织维护
+⭐ 57 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/zincware/ZnTrack) · [官网](https://zntrack.readthedocs.io) · 组织维护
 
 **把 Python 代码转为可复现 DVC 工作流的库**
 

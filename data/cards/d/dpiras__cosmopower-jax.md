@@ -1,6 +1,6 @@
 # dpiras/cosmopower-jax
 
-⭐ 50 · Jupyter Notebook · GPL-3.0 · 推送 2025-11-27 · [GitHub](https://github.com/dpiras/cosmopower-jax) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **JAX 可微分宇宙学功率谱模拟器，加速高维贝叶斯推断**
 
@@ -11,7 +11,7 @@ CosmoPower 的 JAX 扩展：用神经网络模拟器给出宇宙学功率谱（�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

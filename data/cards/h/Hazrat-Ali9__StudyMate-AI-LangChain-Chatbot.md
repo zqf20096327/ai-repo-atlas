@@ -1,6 +1,6 @@
 # Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot
 
-⭐ 25 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot) · [官网](https://github.com/Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot) · 个人维护
+⭐ 26 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot) · [官网](https://github.com/Hazrat-Ali9/StudyMate-AI-LangChain-Chatbot) · 个人维护
 
 **面向初学者的教育问答聊天机器人，LangChain 构建多路由并发管道**
 

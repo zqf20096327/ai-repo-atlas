@@ -1,6 +1,6 @@
 # yahorbarkouski/bodylang
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/yahorbarkouski/bodylang) · [官网](https://bodylang.vercel.app) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/yahorbarkouski/bodylang) · [官网](https://bodylang.vercel.app) · 个人维护
 
 **本地运行的 3D 人体生理可视化应用：用 LLM 解读日常事件**
 

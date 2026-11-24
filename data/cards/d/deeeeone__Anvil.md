@@ -1,6 +1,6 @@
 # deeeeone/Anvil
 
-⭐ 39 · Swift · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/deeeeone/Anvil) · 个人维护
+⭐ 45 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/deeeeone/Anvil) · 个人维护
 
 **macOS 原生编码 agent：任意模型驱动的本地代码修改工具**
 

@@ -1,6 +1,6 @@
 # sunerpy/voltip
 
-⭐ 130 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/sunerpy/voltip) · [官网](https://voltip.firlab.app/) · 个人维护 · 中文 README
+⭐ 137 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/sunerpy/voltip) · [官网](https://voltip.firlab.app/) · 个人维护 · 中文 README
 
 **跨平台按住说话的听写应用：云端或本机语音转文字**
 

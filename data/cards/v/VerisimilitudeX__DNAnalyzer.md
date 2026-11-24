@@ -1,6 +1,6 @@
 # VerisimilitudeX/DNAnalyzer
 
-⭐ 187 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/VerisimilitudeX/DNAnalyzer) · 个人维护
+⭐ 187 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VerisimilitudeX/DNAnalyzer) · 个人维护
 
 **本地运行的 DNA 序列分析平台：隐私优先的基因组建模**
 

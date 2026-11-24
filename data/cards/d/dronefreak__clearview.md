@@ -1,6 +1,6 @@
 # dronefreak/clearview
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dronefreak/clearview) · [官网](https://huggingface.co/spaces/dronefreak/clearview-derain-demo) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dronefreak/clearview) · [官网](https://huggingface.co/spaces/dronefreak/clearview-derain-demo) · 个人维护
 
 **PyTorch 图像去雨工具：单图/目录/视频去雨，含训练与评测**
 

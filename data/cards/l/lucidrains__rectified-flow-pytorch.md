@@ -1,6 +1,6 @@
 # lucidrains/rectified-flow-pytorch
 
-⭐ 490 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lucidrains/rectified-flow-pytorch) · 个人维护
+⭐ 490 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lucidrains/rectified-flow-pytorch) · 个人维护
 
 **PyTorch 版 rectified flow 及其后续研究的实现库**
 

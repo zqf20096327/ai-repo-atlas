@@ -1,6 +1,6 @@
 # recommenders-team/recommenders
 
-⭐ 22,009 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/recommenders-team/recommenders) · [官网](https://recommenders-team.github.io/recommenders/intro.html) · 组织维护
+⭐ 22,010 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/recommenders-team/recommenders) · [官网](https://recommenders-team.github.io/recommenders/intro.html) · 组织维护
 
 **为研究人员与开发者提供推荐系统算法实现与最佳实践库**
 

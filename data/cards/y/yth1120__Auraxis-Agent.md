@@ -1,6 +1,6 @@
 # yth1120/Auraxis-Agent
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yth1120/Auraxis-Agent) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yth1120/Auraxis-Agent) · 个人维护 · 中文 README
 
 **桌面端 AI 智能体工作台：多 Agent 调度与代码/文档/自动化**
 

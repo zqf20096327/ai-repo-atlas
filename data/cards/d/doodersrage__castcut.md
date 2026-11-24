@@ -1,6 +1,6 @@
 # doodersrage/castcut
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/doodersrage/castcut) · [官网](https://doodersrage.github.io/castcut/) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/doodersrage/castcut) · [官网](https://doodersrage.github.io/castcut/) · 个人维护
 
 **本地 AI 角色短片创作工具：用 ComfyUI 生成一致角色的图像与影片**
 

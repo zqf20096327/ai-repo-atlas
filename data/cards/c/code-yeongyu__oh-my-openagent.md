@@ -1,6 +1,6 @@
 # code-yeongyu/oh-my-openagent
 
-⭐ 71,061 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/code-yeongyu/oh-my-openagent) · [官网](https://omo.dev) · 个人维护
+⭐ 71,085 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/code-yeongyu/oh-my-openagent) · [官网](https://omo.dev) · 个人维护
 
 **面向开发者的终端 AI agent 编排工具，多人协作图式执行任务**
 

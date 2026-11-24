@@ -1,6 +1,6 @@
 # akfamily/aktools
 
-⭐ 1,579 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/akfamily/aktools) · [官网](https://aktools.akfamily.xyz/) · 个人维护 · 中文 README
+⭐ 1,580 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/akfamily/aktools) · [官网](https://aktools.akfamily.xyz/) · 个人维护 · 中文 README
 
 **为开发者与 AI 助手提供 AKShare 财经数据的 HTTP API 与 MCP 服务**
 

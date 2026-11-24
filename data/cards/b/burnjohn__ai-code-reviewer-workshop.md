@@ -1,6 +1,6 @@
 # burnjohn/ai-code-reviewer-workshop
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/burnjohn/ai-code-reviewer-workshop) · [官网](https://burnjohn.github.io/ai-code-reviewer-workshop/) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/burnjohn/ai-code-reviewer-workshop) · [官网](https://burnjohn.github.io/ai-code-reviewer-workshop/) · 个人维护
 
 **45 分钟动手教程：构建基于 GitHub Action 的 AI 代码评审器**
 

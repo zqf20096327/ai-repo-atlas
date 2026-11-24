@@ -1,6 +1,6 @@
 # BaLaurent/agent-desktop
 
-⭐ 58 · TypeScript · AGPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/BaLaurent/agent-desktop) · [官网](https://agent-desktop.site) · 个人维护
+⭐ 59 · TypeScript · AGPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/BaLaurent/agent-desktop) · [官网](https://agent-desktop.site) · 个人维护
 
 **面向 agent 的可配置 LLM 桌面客户端，默认 Claude**
 

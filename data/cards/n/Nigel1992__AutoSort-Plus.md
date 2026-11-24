@@ -1,6 +1,6 @@
 # Nigel1992/AutoSort-Plus
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Nigel1992/AutoSort-Plus) · [官网](https://nigel1992.github.io/AutoSort-Plus/) · 个人维护
+⭐ 15 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nigel1992/AutoSort-Plus) · [官网](https://nigel1992.github.io/AutoSort-Plus/) · 个人维护
 
 **AI 自动邮件分类的 Thunderbird 扩展**
 

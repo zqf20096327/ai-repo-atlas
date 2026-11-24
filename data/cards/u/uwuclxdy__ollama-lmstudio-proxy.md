@@ -1,6 +1,6 @@
 # uwuclxdy/ollama-lmstudio-proxy
 
-⭐ 34 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/uwuclxdy/ollama-lmstudio-proxy) · 个人维护
+⭐ 34 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/uwuclxdy/ollama-lmstudio-proxy) · 个人维护
 
 **将 LM Studio 模型通过 Ollama API 暴露的 Rust 代理**
 

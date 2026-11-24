@@ -1,6 +1,6 @@
 # thunderbird/thunderbolt
 
-⭐ 4,827 · TypeScript · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/thunderbird/thunderbolt) · [官网](https://thunderbolt.io) · 组织维护
+⭐ 4,829 · TypeScript · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/thunderbird/thunderbolt) · [官网](https://thunderbolt.io) · 组织维护
 
 **开源自托管多平台 AI 客户端：自选模型、本地掌控数据**
 

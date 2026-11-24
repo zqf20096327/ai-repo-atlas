@@ -1,6 +1,6 @@
 # google-deepmind/kfac-jax
 
-⭐ 332 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/kfac-jax) · 组织维护
+⭐ 334 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/kfac-jax) · 组织维护
 
 **面向研究者的 JAX 二阶优化与曲率估计库（K-FAC）**
 

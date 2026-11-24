@@ -1,6 +1,6 @@
 # comwit/comwit
 
-⭐ 12 · MDX · MIT · 推送 2026-11-18 · [GitHub](https://github.com/comwit/comwit) · [官网](https://library.comwit.io) · 组织维护
+⭐ 12 · MDX · MIT · 推送 2026-11-23 · [GitHub](https://github.com/comwit/comwit) · [官网](https://library.comwit.io) · 组织维护
 
 **面向 AI 辅助开发的 React 状态管理与模板共享工作区**
 

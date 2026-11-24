@@ -1,6 +1,6 @@
 # huggingface/smol-course
 
-⭐ 6,800 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/smol-course) · 组织维护
+⭐ 6,801 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/smol-course) · 组织维护
 
 **面向本地机器的小语言模型对齐实战课程**
 

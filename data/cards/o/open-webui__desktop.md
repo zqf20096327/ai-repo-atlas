@@ -1,6 +1,6 @@
 # open-webui/desktop
 
-⭐ 3,236 · Svelte · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/open-webui/desktop) · [官网](https://openwebui.com) · 组织维护
+⭐ 3,244 · Svelte · AGPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/open-webui/desktop) · [官网](https://openwebui.com) · 组织维护
 
 **把 Open WebUI 一键安装到桌面的安装器应用**
 

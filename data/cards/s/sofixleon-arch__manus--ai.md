@@ -1,6 +1,6 @@
 # sofixleon-arch/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/sofixleon-arch/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/sofixleon-arch/manus--ai) · 个人维护
 
 **自主 AI Agent 系统：代用户执行代码并控制浏览器完成多步任务**
 

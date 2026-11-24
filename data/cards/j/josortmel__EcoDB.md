@@ -1,6 +1,6 @@
 # josortmel/EcoDB
 
-⭐ 11 · HTML · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/josortmel/EcoDB) · 个人维护
+⭐ 11 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/josortmel/EcoDB) · 个人维护
 
 **多 agent 团队的共享 AI 记忆基础设施（GAMR 检索+知识图谱）**
 

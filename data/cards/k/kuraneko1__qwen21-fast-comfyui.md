@@ -1,6 +1,6 @@
 # kuraneko1/qwen21-fast-comfyui
 
-⭐ 17 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/kuraneko1/qwen21-fast-comfyui) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/kuraneko1/qwen21-fast-comfyui) · 个人维护
 
 **在 RTX 4070 12GB 的 ComfyUI 上运行 Qwen-Image-2.1 的设置备忘录与脚本集**
 

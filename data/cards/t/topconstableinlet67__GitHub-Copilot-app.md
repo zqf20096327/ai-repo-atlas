@@ -1,6 +1,6 @@
 # topconstableinlet67/GitHub-Copilot-app
 
-⭐ 370 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topconstableinlet67/GitHub-Copilot-app) · 组织维护
+⭐ 367 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topconstableinlet67/GitHub-Copilot-app) · 组织维护
 
 **管理 GitHub 仓库中 agent 开发工作的桌面应用**
 

@@ -1,6 +1,6 @@
 # sbroenne/skillpm
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sbroenne/skillpm) · [官网](https://skillpm.dev) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/sbroenne/skillpm) · [官网](https://skillpm.dev) · 个人维护
 
 **基于 npm 的 Agent Skills 包管理器：发布、安装、版本与接入**
 

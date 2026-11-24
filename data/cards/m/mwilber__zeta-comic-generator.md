@@ -1,6 +1,6 @@
 # mwilber/zeta-comic-generator
 
-⭐ 14 · PHP · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/mwilber/zeta-comic-generator) · [官网](https://comicgenerator.greenzeta.com/) · 个人维护
+⭐ 14 · PHP · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/mwilber/zeta-comic-generator) · [官网](https://comicgenerator.greenzeta.com/) · 个人维护
 
 **用 AI 生成三格漫画的实验项目，提供在线站与 MCP 服务**
 

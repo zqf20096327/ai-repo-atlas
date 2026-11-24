@@ -1,6 +1,6 @@
 # melthond/sharpen
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/melthond/sharpen) · [官网](https://sharpen-site.vercel.app) · 个人维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/melthond/sharpen) · [官网](https://sharpen-site.vercel.app) · 个人维护
 
 **Claude Code 插件：把含糊的输入重写成明确的工程化提示词**
 

@@ -1,6 +1,6 @@
 # inferstep/ATLAS
 
-⭐ 2,112 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/inferstep/ATLAS) · [官网](https://inferstep.com) · 组织维护
+⭐ 2,111 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/inferstep/ATLAS) · [官网](https://inferstep.com) · 组织维护
 
 **本地编码 agent：让小模型在自己硬件上完成软件工作**
 

@@ -1,6 +1,6 @@
 # hyyyyyyz/dramai
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/hyyyyyyz/dramai) · [官网](https://hyyyyyyz.github.io/dramai/) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/hyyyyyyz/dramai) · [官网](https://hyyyyyyz.github.io/dramai/) · 个人维护 · 中文 README
 
 **浏览器内运行的 AI 短剧创作工具，文本到成片全流程**
 

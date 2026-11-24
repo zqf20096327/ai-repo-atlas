@@ -1,6 +1,6 @@
 # ultralytics/.github
 
-⭐ 83 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/.github) · [官网](https://ultralytics.com) · 组织维护
+⭐ 84 · AGPL-3.0 · 推送 2026-09-16 · [GitHub](https://github.com/ultralytics/.github) · [官网](https://ultralytics.com) · 组织维护
 
 **Ultralytics 组织级 GitHub 社区健康文件与模板仓库**
 

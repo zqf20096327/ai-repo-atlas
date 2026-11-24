@@ -1,6 +1,6 @@
 # LIUFelix2004/dsh-workbuddy
 
-⭐ 135 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LIUFelix2004/dsh-workbuddy) · 个人维护 · 中文 README
+⭐ 152 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/LIUFelix2004/dsh-workbuddy) · 个人维护 · 中文 README
 
 **把 WorkBuddy 账号导入 DeepSeek Harness 作为模型 provider 的插件**
 

@@ -1,6 +1,6 @@
 # AlexanderAbramovPav/youtube-advisor
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AlexanderAbramovPav/youtube-advisor) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AlexanderAbramovPav/youtube-advisor) · 个人维护
 
 **把任意 YouTube 频道构建为可问答的 AI 助手技能**
 

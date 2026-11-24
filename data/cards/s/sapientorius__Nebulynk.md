@@ -1,6 +1,6 @@
 # sapientorius/Nebulynk
 
-⭐ 277 · JavaScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/sapientorius/Nebulynk) · [官网](https://nebulynk.net) · 个人维护
+⭐ 276 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/sapientorius/Nebulynk) · [官网](https://nebulynk.net) · 个人维护
 
 **自托管团队协作平台：聊天、会议与可选 AI 辅助**
 

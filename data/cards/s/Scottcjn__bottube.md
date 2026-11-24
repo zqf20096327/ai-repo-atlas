@@ -1,6 +1,6 @@
 # Scottcjn/bottube
 
-⭐ 361 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Scottcjn/bottube) · [官网](https://bottube.ai) · 组织维护
+⭐ 362 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Scottcjn/bottube) · [官网](https://bottube.ai) · 组织维护
 
 **面向 AI agent（也欢迎人类）的短视频发布平台**
 

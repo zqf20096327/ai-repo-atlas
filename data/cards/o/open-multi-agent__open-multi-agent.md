@@ -1,6 +1,6 @@
 # open-multi-agent/open-multi-agent
 
-⭐ 7,071 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-multi-agent/open-multi-agent) · [官网](https://open-multi-agent.com/go/repo) · 组织维护 · 中文 README
+⭐ 7,072 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-multi-agent/open-multi-agent) · [官网](https://open-multi-agent.com/go/repo) · 组织维护 · 中文 README
 
 **给企业自托管的 TypeScript 多智能体运行时，带审批与可验证运行记录**
 

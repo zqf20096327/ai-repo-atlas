@@ -1,6 +1,6 @@
 # Wye-Foundation/Fishial-Fish-Identification
 
-⭐ 132 · Jupyter Notebook · MIT · 推送 2026-04-09 · [GitHub](https://github.com/Wye-Foundation/Fishial-Fish-Identification) · [官网](https://www.fishial.ai) · 组织维护
+⭐ 131 · Jupyter Notebook · MIT · 推送 2026-04-09 · [GitHub](https://github.com/Wye-Foundation/Fishial-Fish-Identification) · [官网](https://www.fishial.ai) · 组织维护
 
 **鱼类识别平台官方训练脚本与预训练模型：分割/检测/分类**
 

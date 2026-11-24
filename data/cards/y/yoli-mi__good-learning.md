@@ -1,6 +1,6 @@
 # yoli-mi/good-learning
 
-⭐ 364 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/yoli-mi/good-learning) · 个人维护 · 中文 README
+⭐ 370 · Python · MIT · 推送 2026-09-24 · [GitHub](https://github.com/yoli-mi/good-learning) · 个人维护 · 中文 README
 
 **为 AI agent 提供学习计划、错题复盘与 LaTeX PDF 生成能力的 skill**
 

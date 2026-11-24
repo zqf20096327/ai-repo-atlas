@@ -1,6 +1,6 @@
 # schowave/llmenu
 
-⭐ 5 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/schowave/llmenu) · [官网](https://schowave.github.io/llmenu/) · 个人维护
+⭐ 5 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/schowave/llmenu) · [官网](https://schowave.github.io/llmenu/) · 个人维护
 
 **团队从 LiteLLM 网关按价格/上下文/基准选模型并接入编程工具**
 

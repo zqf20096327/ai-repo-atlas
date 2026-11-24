@@ -1,6 +1,6 @@
 # ArcAnima/ComfyUI-Anima-Ref-Adapter
 
-⭐ 245 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter) · 个人维护 · 中文 README
+⭐ 248 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/ArcAnima/ComfyUI-Anima-Ref-Adapter) · 个人维护 · 中文 README
 
 **ComfyUI 节点+LoRA：让 Anima 模型按参考图保持角色与画风生成图像**
 

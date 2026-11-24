@@ -1,6 +1,6 @@
 # testomatio/explorbot
 
-⭐ 109 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/testomatio/explorbot) · [官网](https://testomat.ai/explorbot/) · 组织维护
+⭐ 111 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/testomatio/explorbot) · [官网](https://testomat.ai/explorbot/) · 组织维护
 
 **AI agent 自主探索式测试 Web 应用并沉淀可复用测试**
 

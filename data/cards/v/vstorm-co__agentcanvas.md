@@ -1,6 +1,6 @@
 # vstorm-co/agentcanvas
 
-⭐ 84 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/vstorm-co/agentcanvas) · [官网](https://vstorm.co) · 组织维护
+⭐ 85 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/vstorm-co/agentcanvas) · [官网](https://vstorm.co) · 组织维护
 
 **将 Logfire 中的 Pydantic AI agent 运行轨迹渲染为交互式 HTML 图**
 

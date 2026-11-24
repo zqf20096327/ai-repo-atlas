@@ -1,6 +1,6 @@
 # NVIDIA/NeMo-Agent-Toolkit-UI
 
-⭐ 109 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/NeMo-Agent-Toolkit-UI) · 组织维护
+⭐ 109 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/NeMo-Agent-Toolkit-UI) · 组织维护
 
 **NeMo Agent Toolkit 的官方 Web 前端：聊天界面运行 agent 工作流**
 

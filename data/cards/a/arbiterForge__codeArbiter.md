@@ -1,6 +1,6 @@
 # arbiterForge/codeArbiter
 
-⭐ 155 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/arbiterForge/codeArbiter) · [官网](https://codearbiter.dev/) · 组织维护
+⭐ 155 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/arbiterForge/codeArbiter) · [官网](https://codearbiter.dev/) · 组织维护
 
 **面向 AI 编码 agent 的仓库级治理与硬门禁插件套件**
 

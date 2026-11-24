@@ -1,6 +1,6 @@
 # scbrown/pixelsrc
 
-⭐ 10 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/scbrown/pixelsrc) · [官网](https://scbrown.github.io/pixelsrc/) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/scbrown/pixelsrc) · [官网](https://scbrown.github.io/pixelsrc/) · 个人维护
 
 **面向 GenAI 的语义化像素画文本格式与编译器**
 

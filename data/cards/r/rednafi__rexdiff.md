@@ -1,6 +1,6 @@
 # rednafi/rexdiff
 
-⭐ 50 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rednafi/rexdiff) · 个人维护
+⭐ 53 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rednafi/rexdiff) · 个人维护
 
 **在 Rex 终端内查看 AI 编码代理改动差异的 CLI 工具**
 

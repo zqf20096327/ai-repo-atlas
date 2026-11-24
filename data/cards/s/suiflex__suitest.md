@@ -1,6 +1,6 @@
 # suiflex/suitest
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/suiflex/suitest) · [官网](https://suitest.suiflex.dev/) · 组织维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/suiflex/suitest) · [官网](https://suitest.suiflex.dev/) · 组织维护
 
 **自托管测试平台：用例管理+MCP 自动执行+可选 AI 分析**
 

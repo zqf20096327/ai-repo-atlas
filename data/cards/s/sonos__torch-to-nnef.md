@@ -1,6 +1,6 @@
 # sonos/torch-to-nnef
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/sonos/torch-to-nnef) · [官网](https://sonos.github.io/torch-to-nnef) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/sonos/torch-to-nnef) · [官网](https://sonos.github.io/torch-to-nnef) · 组织维护
 
 **把 PyTorch 模型导出为 NNEF 交换格式的工具库**
 

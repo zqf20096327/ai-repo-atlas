@@ -1,6 +1,6 @@
 # PerryLink/dsh-data-quality
 
-⭐ 55 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-data-quality) · [官网](https://www.npmjs.com/package/dsh-data-quality) · 个人维护 · 中文 README
+⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-data-quality) · [官网](https://www.npmjs.com/package/dsh-data-quality) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：数据集剖析、清洗与校验的确定性工具**
 

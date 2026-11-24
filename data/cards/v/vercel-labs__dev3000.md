@@ -1,6 +1,6 @@
 # vercel-labs/dev3000
 
-⭐ 1,602 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vercel-labs/dev3000) · [官网](https://dev3000.ai) · 组织维护
+⭐ 1,603 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vercel-labs/dev3000) · [官网](https://dev3000.ai) · 组织维护
 
 **给编码 agent 提供托管浏览器与统一调试时间线**
 

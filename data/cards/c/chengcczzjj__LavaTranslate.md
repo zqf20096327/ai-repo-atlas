@@ -1,6 +1,6 @@
 # chengcczzjj/LavaTranslate
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chengcczzjj/LavaTranslate) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/chengcczzjj/LavaTranslate) · 个人维护 · 中文 README
 
 **截图原位翻译与母语回复外语聊天的桌面/安卓应用**
 

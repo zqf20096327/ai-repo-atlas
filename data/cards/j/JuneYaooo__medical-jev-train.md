@@ -1,6 +1,6 @@
 # JuneYaooo/medical-jev-train
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/JuneYaooo/medical-jev-train) · [官网](https://huggingface.co/JuneYao/medical-jev-4b) · 个人维护 · 中文 README
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/JuneYaooo/medical-jev-train) · [官网](https://huggingface.co/JuneYao/medical-jev-4b) · 个人维护 · 中文 README
 
 **本地运行的医疗选择题判断模型：输入病例与选项，输出答案和概率**
 

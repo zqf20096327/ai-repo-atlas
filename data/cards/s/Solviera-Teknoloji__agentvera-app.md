@@ -1,6 +1,6 @@
 # Solviera-Teknoloji/agentvera-app
 
-⭐ 3 · 推送 2026-11-03 · [GitHub](https://github.com/Solviera-Teknoloji/agentvera-app) · [官网](https://agentvera.dev/en/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在单窗口并行运行多个 AI 编码 agent 的桌面应用**
 

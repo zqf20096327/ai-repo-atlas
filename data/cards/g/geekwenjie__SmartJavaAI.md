@@ -1,6 +1,6 @@
 # geekwenjie/SmartJavaAI
 
-⭐ 941 · Java · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/geekwenjie/SmartJavaAI) · [官网](http://smartjavaai.cn) · 个人维护 · 中文 README
+⭐ 942 · Java · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/geekwenjie/SmartJavaAI) · [官网](http://smartjavaai.cn) · 个人维护 · 中文 README
 
 **面向 Java 开发者的离线 AI 算法工具箱：人脸/检测/OCR/语音开箱即用**
 

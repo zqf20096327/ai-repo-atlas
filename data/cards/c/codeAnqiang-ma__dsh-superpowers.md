@@ -1,6 +1,6 @@
 # codeAnqiang-ma/dsh-superpowers
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/codeAnqiang-ma/dsh-superpowers) · 个人维护
+⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/codeAnqiang-ma/dsh-superpowers) · 个人维护
 
 **为 DeepSeek Harness 移植 obra/superpowers 技能集的插件**
 

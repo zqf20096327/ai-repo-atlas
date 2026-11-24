@@ -1,6 +1,6 @@
 # alibaba/tair-kvcache
 
-⭐ 284 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/alibaba/tair-kvcache) · 组织维护 · 中文 README
+⭐ 286 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/alibaba/tair-kvcache) · 组织维护 · 中文 README
 
 **面向 LLM 推理的全局 KVCache 管理与推理模拟系统**
 

@@ -1,6 +1,6 @@
 # fabriziosalmi/naso
 
-⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/fabriziosalmi/naso) · [官网](https://fabriziosalmi.github.io/naso/) · 个人维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/fabriziosalmi/naso) · [官网](https://fabriziosalmi.github.io/naso/) · 个人维护
 
 **自托管的数据泄露与暗网暴露监控平台，本地 LLM 协助分诊**
 

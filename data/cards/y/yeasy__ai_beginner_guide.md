@@ -1,6 +1,6 @@
 # yeasy/ai_beginner_guide
 
-⭐ 232 · Python · 推送 2026-11-21 · [GitHub](https://github.com/yeasy/ai_beginner_guide) · [官网](https://yeasy.gitbook.io/ai_beginner_guide/) · 个人维护 · 中文 README
+⭐ 233 · Python · 推送 2026-11-23 · [GitHub](https://github.com/yeasy/ai_beginner_guide) · [官网](https://yeasy.gitbook.io/ai_beginner_guide/) · 个人维护 · 中文 README
 
 **面向零基础读者的 AI 入门书籍（16 章，含实验与学习路线）**
 

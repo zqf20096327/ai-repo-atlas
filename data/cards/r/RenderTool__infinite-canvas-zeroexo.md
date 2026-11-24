@@ -1,6 +1,6 @@
 # RenderTool/infinite-canvas-zeroexo
 
-⭐ 40 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/RenderTool/infinite-canvas-zeroexo) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-09-06 · [GitHub](https://github.com/RenderTool/infinite-canvas-zeroexo) · 个人维护 · 中文 README
 
 **面向创作者的 AI 短片创作画布平台：剧本到成片全流程**
 

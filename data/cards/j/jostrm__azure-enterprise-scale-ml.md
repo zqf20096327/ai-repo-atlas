@@ -1,6 +1,6 @@
 # jostrm/azure-enterprise-scale-ml
 
-⭐ 53 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jostrm/azure-enterprise-scale-ml) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jostrm/azure-enterprise-scale-ml) · 个人维护
 
 **面向企业的 Azure AI 应用落地区 IaC 方案：自动部署 GenAI/ML 全套环境**
 

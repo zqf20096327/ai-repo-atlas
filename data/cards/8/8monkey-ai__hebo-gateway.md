@@ -1,6 +1,6 @@
 # 8monkey-ai/hebo-gateway
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/8monkey-ai/hebo-gateway) · [官网](https://hebo.ai/gateway) · 组织维护
+⭐ 27 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/8monkey-ai/hebo-gateway) · [官网](https://hebo.ai/gateway) · 组织维护
 
 **可嵌入应用的 AI 网关框架，控制模型路由与请求生命周期**
 

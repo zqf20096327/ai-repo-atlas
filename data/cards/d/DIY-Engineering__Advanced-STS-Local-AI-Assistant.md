@@ -1,6 +1,6 @@
 # DIY-Engineering/Advanced-STS-Local-AI-Assistant
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/DIY-Engineering/Advanced-STS-Local-AI-Assistant) · [官网](https://www.youtube.com/@DIY_Engineering/featured) · 个人维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/DIY-Engineering/Advanced-STS-Local-AI-Assistant) · [官网](https://www.youtube.com/@DIY_Engineering/featured) · 个人维护
 
 **全离线语音对话 AI 助手桌面应用：语音识别+本地 LLM+语音合成+RAG**
 

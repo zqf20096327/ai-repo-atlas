@@ -1,6 +1,6 @@
 # Wolfe-Jam/grok-faf-mcp
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Wolfe-Jam/grok-faf-mcp) · [官网](https://faf.one) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Wolfe-Jam/grok-faf-mcp) · [官网](https://faf.one) · 个人维护
 
 **面向 xAI Grok 的持久项目上下文 MCP 服务器（.faf 格式）**
 

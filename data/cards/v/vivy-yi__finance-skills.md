@@ -1,6 +1,6 @@
 # vivy-yi/finance-skills
 
-⭐ 45 · HTML · MIT · 推送 2026-06-14 · [GitHub](https://github.com/vivy-yi/finance-skills) · [官网](https://vivy-yi.github.io/finance-skills/) · 个人维护 · 中文 README
+⭐ 47 · HTML · MIT · 推送 2026-06-14 · [GitHub](https://github.com/vivy-yi/finance-skills) · [官网](https://vivy-yi.github.io/finance-skills/) · 个人维护 · 中文 README
 
 **面向 AI Agent 的 CFO 财务职能 Skill 体系（34 场景 × 152 Skill）**
 

@@ -1,6 +1,6 @@
 # github/spec-kit
 
-⭐ 151,028 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/github/spec-kit) · [官网](https://github.github.com/spec-kit/) · 组织维护 · 中文 README
+⭐ 151,166 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/github/spec-kit) · [官网](https://github.github.com/spec-kit/) · 组织维护 · 中文 README
 
 **给 AI 编码代理提供结构化流程与模板的开发工具包**
 

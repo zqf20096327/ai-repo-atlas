@@ -1,6 +1,6 @@
 # mcheemaa/mistri
 
-⭐ 20 · Ruby · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mcheemaa/mistri) · [官网](https://mistri.sh) · 个人维护
+⭐ 20 · Ruby · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mcheemaa/mistri) · [官网](https://mistri.sh) · 个人维护
 
 **Ruby 应用的 AI agent 框架：托管 agent 循环与持久会话**
 

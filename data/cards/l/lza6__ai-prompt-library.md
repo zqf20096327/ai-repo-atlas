@@ -1,6 +1,6 @@
 # lza6/ai-prompt-library
 
-⭐ 6 · Python · 推送 2026-11-20 · [GitHub](https://github.com/lza6/ai-prompt-library) · 个人维护 · 中文 README
+⭐ 7 · Python · 推送 2026-11-20 · [GitHub](https://github.com/lza6/ai-prompt-library) · 个人维护 · 中文 README
 
 **面向 AI 使用者的中文提示词与技能聚合知识库**
 

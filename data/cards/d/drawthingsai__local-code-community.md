@@ -1,6 +1,6 @@
 # drawthingsai/local-code-community
 
-⭐ 171 · C · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/drawthingsai/local-code-community) · [官网](https://getlocalcode.app) · 组织维护
+⭐ 172 · C · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/drawthingsai/local-code-community) · [官网](https://getlocalcode.app) · 组织维护
 
 **Mac/iPad/iPhone 上的本地 AI 编码代理应用**
 

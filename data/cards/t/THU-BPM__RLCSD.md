@@ -1,6 +1,6 @@
 # THU-BPM/RLCSD
 
-⭐ 117 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/THU-BPM/RLCSD) · [官网](https://arxiv.org/abs/2606.11709) · 组织维护
+⭐ 118 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/THU-BPM/RLCSD) · [官网](https://arxiv.org/abs/2606.11709) · 组织维护
 
 **面向 LLM 推理训练的对比式 on-policy 自蒸馏 RL 方法代码**
 

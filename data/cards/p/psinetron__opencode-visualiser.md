@@ -1,6 +1,6 @@
 # psinetron/opencode-visualiser
 
-⭐ 191 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/psinetron/opencode-visualiser) · [官网](https://github.com/psinetron/opencode-visualiser/blob/main/README.md) · 个人维护
+⭐ 193 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/psinetron/opencode-visualiser) · [官网](https://github.com/psinetron/opencode-visualiser/blob/main/README.md) · 个人维护
 
 **把 OpenCode 终端日志可视化为 2D 像素办公室的插件**
 

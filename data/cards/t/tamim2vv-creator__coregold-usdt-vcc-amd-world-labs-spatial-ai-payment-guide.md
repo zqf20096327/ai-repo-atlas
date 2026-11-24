@@ -1,6 +1,6 @@
 # tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide
 
-⭐ 17 · 推送 2026-11-19 · [GitHub](https://github.com/tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 40 · 推送 2026-11-19 · [GitHub](https://github.com/tamim2vv-creator/coregold-usdt-vcc-amd-world-labs-spatial-ai-payment-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向订阅海外 AI 工具的用户：CoreGold 虚拟卡开卡与绑卡指南**
 

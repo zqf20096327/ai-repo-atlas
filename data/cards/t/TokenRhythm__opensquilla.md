@@ -1,6 +1,6 @@
 # TokenRhythm/opensquilla
 
-⭐ 7,162 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TokenRhythm/opensquilla) · [官网](https://opensquilla.ai) · 组织维护 · 中文 README
+⭐ 7,163 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TokenRhythm/opensquilla) · [官网](https://opensquilla.ai) · 组织维护 · 中文 README
 
 **面向 CLI/Web/聊天渠道的省 token 微内核 AI Agent**
 

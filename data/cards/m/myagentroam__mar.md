@@ -1,6 +1,6 @@
 # myagentroam/mar
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/myagentroam/mar) · [官网](https://myagentroam.dev) · 组织维护 · 中文 README
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/myagentroam/mar) · [官网](https://myagentroam.dev) · 组织维护 · 中文 README
 
 **自托管的 AI 编码代理工作台：跨设备跟踪与审查代理工作**
 

@@ -1,6 +1,6 @@
 # utensils/comfyui-nix
 
-⭐ 175 · Nix · MIT · 推送 2026-11-12 · [GitHub](https://github.com/utensils/comfyui-nix) · [官网](https://flakehub.com/flake/utensils/comfyui) · 个人维护
+⭐ 177 · Nix · MIT · 推送 2026-11-12 · [GitHub](https://github.com/utensils/comfyui-nix) · [官网](https://flakehub.com/flake/utensils/comfyui) · 个人维护
 
 **ComfyUI 的 Nix flake 打包：NixOS/macOS/Linux 可复现运行**
 

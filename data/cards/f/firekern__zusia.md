@@ -1,6 +1,6 @@
 # firekern/zusia
 
-⭐ 36 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/firekern/zusia) · 个人维护
+⭐ 37 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/firekern/zusia) · 个人维护
 
 **Zotero 内的论文阅读 AI 助手：连本地 CLI 问答当前论文**
 

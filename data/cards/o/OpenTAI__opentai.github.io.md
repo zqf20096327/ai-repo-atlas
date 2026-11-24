@@ -1,6 +1,6 @@
 # OpenTAI/opentai.github.io
 
-⭐ 12 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/OpenTAI/opentai.github.io) · [官网](https://opentai.org) · 组织维护 · 中文 README
+⭐ 12 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/OpenTAI/opentai.github.io) · [官网](https://opentai.org) · 组织维护 · 中文 README
 
 **可信 AI 开放社区官网：汇聚安全基准、数据集与论文目录**
 

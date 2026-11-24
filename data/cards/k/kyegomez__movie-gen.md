@@ -1,6 +1,6 @@
 # kyegomez/movie-gen
 
-⭐ 61 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/movie-gen) · [官网](https://discord.com/servers/agora-999382051935506503) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kyegomez/movie-gen) · [官网](https://discord.com/servers/agora-999382051935506503) · 个人维护
 
 **Meta Movie Gen 论文的开源社区实现：视频/音频生成模型**
 

@@ -1,6 +1,6 @@
 # ThioJoe/Auto-Synced-Translated-Dubs
 
-⭐ 1,755 · Python · AGPL-3.0 · 推送 2026-05-11 · [GitHub](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) · 组织维护
+⭐ 1,756 · Python · AGPL-3.0 · 推送 2026-05-11 · [GitHub](https://github.com/ThioJoe/Auto-Synced-Translated-Dubs) · 组织维护
 
 **基于字幕文件自动翻译配音的 Python 工具，语音与原视频同步**
 

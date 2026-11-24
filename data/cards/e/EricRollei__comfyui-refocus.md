@@ -1,6 +1,6 @@
 # EricRollei/comfyui-refocus
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/EricRollei/comfyui-refocus) · [官网](http://historic.camera) · 个人维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/EricRollei/comfyui-refocus) · [官网](http://historic.camera) · 个人维护
 
 **ComfyUI 节点集：生成式重新对焦、去模糊与景深估计**
 

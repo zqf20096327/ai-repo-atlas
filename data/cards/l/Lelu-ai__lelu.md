@@ -1,6 +1,6 @@
 # Lelu-ai/lelu
 
-⭐ 80 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Lelu-ai/lelu) · [官网](https://lelu-ai.com/) · 组织维护
+⭐ 81 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Lelu-ai/lelu) · [官网](https://lelu-ai.com/) · 组织维护
 
 **AI agent 授权引擎：每次行动前判定允许/拒绝/人工审查**
 

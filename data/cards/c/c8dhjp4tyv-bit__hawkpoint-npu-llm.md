@@ -1,6 +1,6 @@
 # c8dhjp4tyv-bit/hawkpoint-npu-llm
 
-⭐ 33 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/c8dhjp4tyv-bit/hawkpoint-npu-llm) · 个人维护
+⭐ 33 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/c8dhjp4tyv-bit/hawkpoint-npu-llm) · 个人维护
 
 **在 AMD XDNA1 NPU 上运行小模型推理的研究运行时**
 

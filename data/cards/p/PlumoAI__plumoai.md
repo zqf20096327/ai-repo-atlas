@@ -1,6 +1,6 @@
 # PlumoAI/plumoai
 
-⭐ 83 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/PlumoAI/plumoai) · [官网](https://plumoai.com) · 组织维护
+⭐ 84 · Python · NOASSERTION · 推送 2026-09-11 · [GitHub](https://github.com/PlumoAI/plumoai) · [官网](https://plumoai.com) · 组织维护
 
 **自托管自主 AI 员工平台：创建并运行承担业务职责的 AI 雇员**
 

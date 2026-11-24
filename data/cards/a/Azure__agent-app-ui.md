@@ -1,6 +1,6 @@
 # Azure/agent-app-ui
 
-⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Azure/agent-app-ui) · [官网](https://aka.ms/agentlz) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Azure/agent-app-ui) · [官网](https://aka.ms/agentlz) · 组织维护
 
 **Agent Landing Zone 的 Chainlit 会话界面，流式展示代理响应与引用**
 

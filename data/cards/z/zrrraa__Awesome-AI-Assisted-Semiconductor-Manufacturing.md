@@ -1,6 +1,6 @@
 # zrrraa/Awesome-AI-Assisted-Semiconductor-Manufacturing
 
-⭐ 3 · Python · 推送 2026-10-28 · [GitHub](https://github.com/zrrraa/Awesome-AI-Assisted-Semiconductor-Manufacturing) · [官网](https://zrrraa.github.io/Awesome-AI-Assisted-Semiconductor-Manufacturing/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **AI 辅助半导体制造论文集：从感知到自主的分阶段调研**
 

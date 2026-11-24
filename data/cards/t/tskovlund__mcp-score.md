@@ -1,6 +1,6 @@
 # tskovlund/mcp-score
 
-⭐ 32 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tskovlund/mcp-score) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tskovlund/mcp-score) · 个人维护
 
 **让 AI 助手生成与编辑乐谱的 MCP server（MusicXML+MuseScore）**
 

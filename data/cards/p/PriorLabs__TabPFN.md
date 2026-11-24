@@ -1,6 +1,6 @@
 # PriorLabs/TabPFN
 
-⭐ 8,511 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PriorLabs/TabPFN) · [官网](http://priorlabs.ai) · 组织维护
+⭐ 8,521 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PriorLabs/TabPFN) · [官网](http://priorlabs.ai) · 组织维护
 
 **表格数据基础模型：无需训练即可分类回归预测**
 

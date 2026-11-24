@@ -1,6 +1,6 @@
 # hybridgroup/yzma
 
-⭐ 678 · Go · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/hybridgroup/yzma) · [官网](https://yzma.ai) · 组织维护
+⭐ 679 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/hybridgroup/yzma) · [官网](https://yzma.ai) · 组织维护
 
 **Go 开发者本地推理库：直接集成 llama.cpp 并支持硬件加速**
 

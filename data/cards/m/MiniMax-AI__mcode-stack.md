@@ -1,6 +1,6 @@
 # MiniMax-AI/mcode-stack
 
-⭐ 739 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/mcode-stack) · 组织维护 · 中文 README
+⭐ 742 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/MiniMax-AI/mcode-stack) · 组织维护 · 中文 README
 
 **MiniMax Code 团队的 AI 编码工作流与技能包合集**
 

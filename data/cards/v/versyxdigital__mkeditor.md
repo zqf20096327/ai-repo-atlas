@@ -1,6 +1,6 @@
 # versyxdigital/mkeditor
 
-⭐ 233 · TypeScript · MIT · 推送 2026-06-22 · [GitHub](https://github.com/versyxdigital/mkeditor) · [官网](https://versyxdigital.github.io/mkeditor) · 组织维护
+⭐ 233 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/versyxdigital/mkeditor) · [官网](https://versyxdigital.github.io/mkeditor) · 组织维护
 
 **带 AI 助手的 Markdown 编辑器，支持多 AI 提供商接入**
 

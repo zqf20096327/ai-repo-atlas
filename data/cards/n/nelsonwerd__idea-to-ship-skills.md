@@ -1,6 +1,6 @@
 # nelsonwerd/idea-to-ship-skills
 
-⭐ 91 · Shell · MIT · 推送 2026-08-04 · [GitHub](https://github.com/nelsonwerd/idea-to-ship-skills) · 个人维护
+⭐ 92 · Shell · MIT · 推送 2026-08-04 · [GitHub](https://github.com/nelsonwerd/idea-to-ship-skills) · 个人维护
 
 **Claude/Codex 可复用技能套件：把想法经验证、规划推进到交付**
 

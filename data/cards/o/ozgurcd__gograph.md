@@ -1,6 +1,6 @@
 # ozgurcd/gograph
 
-⭐ 232 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ozgurcd/gograph) · [官网](https://gograph.identuum.ai) · 个人维护
+⭐ 232 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ozgurcd/gograph) · [官网](https://gograph.identuum.ai) · 个人维护
 
 **本地 Go 代码静态分析引擎，为 AI 编码代理提供结构感知**
 

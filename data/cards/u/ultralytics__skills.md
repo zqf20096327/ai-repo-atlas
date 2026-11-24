@@ -1,6 +1,6 @@
 # ultralytics/skills
 
-⭐ 41 · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/ultralytics/skills) · [官网](https://www.ultralytics.com) · 组织维护 · 中文 README
+⭐ 42 · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ultralytics/skills) · [官网](https://www.ultralytics.com) · 组织维护 · 中文 README
 
 **教 AI 编程代理使用 Ultralytics YOLO 的技能文件集**
 

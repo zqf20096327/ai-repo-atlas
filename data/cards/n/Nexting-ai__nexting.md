@@ -1,6 +1,6 @@
 # Nexting-ai/nexting
 
-⭐ 2,392 · C · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Nexting-ai/nexting) · [官网](https://nexting.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **从手机远程查看与驱动本机 AI agent 会话的控制端**
 
@@ -11,7 +11,7 @@ Nexting 提供 iOS 应用与桥接工具，将 Mac/Windows 上运行的 Claude C
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

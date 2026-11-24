@@ -1,6 +1,6 @@
 # TurtleReside/Gemini-Config-Checker-
 
-⭐ 469 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TurtleReside/Gemini-Config-Checker-) · 个人维护
+⭐ 464 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TurtleReside/Gemini-Config-Checker-) · 个人维护
 
 **扫描代理配置能否真正进入 Google AI Studio 与 Gemini 的桌面/移动工具**
 

@@ -1,6 +1,6 @@
 # kenz1117/dsh-engram
 
-⭐ 75 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kenz1117/dsh-engram) · [官网](https://kenz1117.github.io/dsh-engram/) · 个人维护 · 中文 README
+⭐ 76 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kenz1117/dsh-engram) · [官网](https://kenz1117.github.io/dsh-engram/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的本地跨会话长期记忆插件（记忆宫殿架构）**
 

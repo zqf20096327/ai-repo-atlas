@@ -1,6 +1,6 @@
 # Jjo37/new-acad
 
-⭐ 47 · C# · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Jjo37/new-acad) · 个人维护 · 中文 README
+⭐ 50 · C# · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Jjo37/new-acad) · 个人维护 · 中文 README
 
 **装进 AutoCAD/Civil 3D 的自然语言 AI 工程助手插件**
 

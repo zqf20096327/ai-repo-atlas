@@ -1,6 +1,6 @@
 # LvvUP/academic-writing-assistant
 
-⭐ 22 · Python · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/LvvUP/academic-writing-assistant) · 组织维护 · 中文 README
+⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/LvvUP/academic-writing-assistant) · 组织维护 · 中文 README
 
 **面向中文科研作者的通用学术写作 Agent Skill，保真润色不改数据**
 

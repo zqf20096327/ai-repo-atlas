@@ -1,6 +1,6 @@
 # guikksou/antigravitybee
 
-⭐ 3 · Python · 推送 2026-11-20 · [GitHub](https://github.com/guikksou/antigravitybee) · 个人维护
+⭐ 4 · Python · 推送 2026-11-20 · [GitHub](https://github.com/guikksou/antigravitybee) · 个人维护
 
 **Google Antigravity 的像素风桌面宠物挂件，实时同步 agent 状态**
 

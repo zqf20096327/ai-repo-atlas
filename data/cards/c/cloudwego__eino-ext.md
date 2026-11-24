@@ -1,6 +1,6 @@
 # cloudwego/eino-ext
 
-⭐ 840 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/cloudwego/eino-ext) · [官网](https://www.cloudwego.io/zh/docs/eino/core_modules/components/) · 组织维护 · 中文 README
+⭐ 841 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/cloudwego/eino-ext) · [官网](https://www.cloudwego.io/zh/docs/eino/core_modules/components/) · 组织维护 · 中文 README
 
 **Eino LLM 框架的官方扩展集合：组件实现、回调、DevOps 工具**
 

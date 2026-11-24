@@ -1,6 +1,6 @@
 # trackersnailgrip/ai--manus2.0
 
-⭐ 368 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/trackersnailgrip/ai--manus2.0) · 个人维护
+⭐ 365 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/trackersnailgrip/ai--manus2.0) · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 系统**
 

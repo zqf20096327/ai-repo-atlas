@@ -1,6 +1,6 @@
 # ashworks1706/piramid
 
-⭐ 16 · Rust · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ashworks1706/piramid) · [官网](https://piramiddb.com) · 个人维护
+⭐ 16 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ashworks1706/piramid) · [官网](https://piramiddb.com) · 个人维护
 
 **面向开发者的 Rust 推理系统：让语言模型在计算中直接使用外部信息**
 

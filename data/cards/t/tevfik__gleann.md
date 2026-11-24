@@ -1,6 +1,6 @@
 # tevfik/gleann
 
-⭐ 47 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/tevfik/gleann) · 个人维护
+⭐ 47 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tevfik/gleann) · 个人维护
 
 **Go 编写的本地代码智能与 RAG 工作区，供 AI 编码代理接入**
 

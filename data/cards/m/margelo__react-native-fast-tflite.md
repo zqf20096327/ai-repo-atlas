@@ -1,6 +1,6 @@
 # margelo/react-native-fast-tflite
 
-⭐ 1,243 · TypeScript · MIT · 推送 2026-09-11 · [GitHub](https://github.com/margelo/react-native-fast-tflite) · [官网](https://mrousavy.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **React Native 的 TensorFlow Lite 高性能运行库，支持 GPU 加速**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

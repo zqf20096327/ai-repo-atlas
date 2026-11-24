@@ -1,6 +1,6 @@
 # rokrokss/shizue-plot
 
-⭐ 4 · TypeScript · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rokrokss/shizue-plot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地运行的 RisuAI/SillyTavern 角色卡聊天应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

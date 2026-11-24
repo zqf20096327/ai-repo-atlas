@@ -1,6 +1,6 @@
 # mzarnecki/php-rag
 
-⭐ 67 · PHP · MIT · 推送 2026-07-19 · [GitHub](https://github.com/mzarnecki/php-rag) · [官网](https://medium.com/@michalzarnecki88/a-guide-to-using-llm-retrieval-augmented-generation-with-php-3bff25ce6616) · 个人维护
+⭐ 68 · PHP · MIT · 推送 2026-07-19 · [GitHub](https://github.com/mzarnecki/php-rag) · [官网](https://medium.com/@michalzarnecki88/a-guide-to-using-llm-retrieval-augmented-generation-with-php-3bff25ce6616) · 个人维护
 
 **PHP 实现的 RAG 问答应用：多模型检索文档生成回答**
 

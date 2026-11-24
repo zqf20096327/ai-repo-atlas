@@ -1,6 +1,6 @@
 # RegaLabs/lorasmith
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/RegaLabs/lorasmith) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/RegaLabs/lorasmith) · 个人维护
 
 **一条命令在自有数据上微调开源 LLM 的 Rust 工具**
 

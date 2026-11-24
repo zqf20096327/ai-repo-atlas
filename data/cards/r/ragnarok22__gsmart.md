@@ -1,6 +1,6 @@
 # ragnarok22/gsmart
 
-⭐ 15 · TypeScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ragnarok22/gsmart) · [官网](https://ragnarok22.github.io/gsmart/) · 个人维护
+⭐ 15 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ragnarok22/gsmart) · [官网](https://ragnarok22.github.io/gsmart/) · 个人维护
 
 **用 AI 从 Git diff 生成 Conventional Commit 消息的终端工具**
 

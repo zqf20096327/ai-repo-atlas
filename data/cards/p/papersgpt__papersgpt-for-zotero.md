@@ -1,6 +1,6 @@
 # papersgpt/papersgpt-for-zotero
 
-⭐ 2,714 · JavaScript · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/papersgpt/papersgpt-for-zotero) · [官网](https://www.papersgpt.com) · 组织维护
+⭐ 2,714 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/papersgpt/papersgpt-for-zotero) · [官网](https://www.papersgpt.com) · 组织维护
 
 **Zotero 插件：全库检索、多 PDF 对话与文献追踪的 AI 研究工具**
 

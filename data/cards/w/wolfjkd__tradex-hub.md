@@ -1,6 +1,6 @@
 # wolfjkd/tradex-hub
 
-⭐ 75 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wolfjkd/tradex-hub) · 个人维护 · 中文 README
+⭐ 75 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wolfjkd/tradex-hub) · 个人维护 · 中文 README
 
 **本地运行的 A 股金融数据中台，供 AI Agent 统一调用**
 

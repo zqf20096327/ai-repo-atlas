@@ -1,6 +1,6 @@
 # NUGURI-7/CoCoWork
 
-⭐ 15 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/NUGURI-7/CoCoWork) · [官网](https://cocowork.nuguri.org) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/NUGURI-7/CoCoWork) · [官网](https://cocowork.nuguri.org) · 个人维护 · 中文 README
 
 **多 Agent 协作平台：supervisor 调度、Agentic RAG 与沙箱产出物**
 

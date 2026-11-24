@@ -1,6 +1,6 @@
 # KOSASIH/EdCore
 
-⭐ 11 · Java · MIT · 推送 2025-11-27 · [GitHub](https://github.com/KOSASIH/EdCore) · [官网](https://kosasih.github.io/EdCore/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向学习者/教育者的 AR 历史教育应用，AI 个性化学习内容**
 
@@ -11,7 +11,7 @@ EdCore 定位为微服务架构的 AR 历史教育应用：用户通过 Web AR �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

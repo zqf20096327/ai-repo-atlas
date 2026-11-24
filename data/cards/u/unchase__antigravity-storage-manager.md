@@ -1,6 +1,6 @@
 # unchase/antigravity-storage-manager
 
-⭐ 127 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/unchase/antigravity-storage-manager) · 个人维护 · 中文 README
+⭐ 126 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/unchase/antigravity-storage-manager) · 个人维护 · 中文 README
 
 **VS Code 扩展：AI 网关代理、配额监控与对话同步管理**
 

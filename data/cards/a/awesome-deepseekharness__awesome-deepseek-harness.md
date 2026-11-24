@@ -1,6 +1,6 @@
 # awesome-deepseekharness/awesome-deepseek-harness
 
-⭐ 47 · JavaScript · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) · [官网](https://awesome-deepseekharness.github.io/awesome-deepseek-harness/) · 组织维护 · 中文 README
+⭐ 47 · JavaScript · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/awesome-deepseekharness/awesome-deepseek-harness) · [官网](https://awesome-deepseekharness.github.io/awesome-deepseek-harness/) · 组织维护 · 中文 README
 
 **DeepSeek Harness (dsh) 插件与工具的社区精选清单**
 

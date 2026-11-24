@@ -1,6 +1,6 @@
 # sepandhaghighi/pycm
 
-⭐ 1,507 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sepandhaghighi/pycm) · [官网](http://pycm.io) · 个人维护
+⭐ 1,507 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sepandhaghighi/pycm) · [官网](http://pycm.io) · 个人维护
 
 **多分类混淆矩阵 Python 库：分类模型评估指标计算**
 

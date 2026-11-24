@@ -1,6 +1,6 @@
 # aion7891/rag-titan
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aion7891/rag-titan) · [官网](https://aion7891.github.io/rag-titan/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aion7891/rag-titan) · [官网](https://aion7891.github.io/rag-titan/) · 个人维护
 
 **统一 Python API 的多类型 RAG 库，可本地运行**
 

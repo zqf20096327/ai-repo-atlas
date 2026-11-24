@@ -1,6 +1,6 @@
 # harshithsunku/learn-jev-end-to-end
 
-⭐ 22 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/harshithsunku/learn-jev-end-to-end) · [官网](https://harshithsunku.github.io/learn-jev-end-to-end/) · 个人维护
+⭐ 23 · Jupyter Notebook · MIT · 推送 2026-09-23 · [GitHub](https://github.com/harshithsunku/learn-jev-end-to-end) · [官网](https://harshithsunku.github.io/learn-jev-end-to-end/) · 个人维护
 
 **免费动手课程：用 Jev 决策模型与 LLM 构建 13 个 AI agent 用例**
 

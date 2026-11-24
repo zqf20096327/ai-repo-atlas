@@ -1,6 +1,6 @@
 # elflodge/elflodge
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/elflodge/elflodge) · [官网](https://elflodge.com) · 个人维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/elflodge/elflodge) · [官网](https://elflodge.com) · 个人维护
 
 **在本地并行运行数百个沙箱 agent 的任务队列与作业 API**
 

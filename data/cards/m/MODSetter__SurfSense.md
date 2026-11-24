@@ -1,6 +1,6 @@
 # MODSetter/SurfSense
 
-⭐ 16,928 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/MODSetter/SurfSense) · [官网](https://www.surfsense.com) · 个人维护
+⭐ 16,932 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/MODSetter/SurfSense) · [官网](https://www.surfsense.com) · 个人维护
 
 **本地运行的 NotebookLM 替代桌面应用：研究、转换与编辑文档**
 

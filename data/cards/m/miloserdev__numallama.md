@@ -1,6 +1,6 @@
 # miloserdev/numallama
 
-⭐ 8 · C · MIT · 推送 2026-11-22 · [GitHub](https://github.com/miloserdev/numallama) · 个人维护 · 中文 README
+⭐ 10 · C · MIT · 推送 2026-11-22 · [GitHub](https://github.com/miloserdev/numallama) · 个人维护 · 中文 README
 
 **面向大 NUMA Arm 服务器的 Llama/Qwen 系列本地 CPU 推理引擎**
 

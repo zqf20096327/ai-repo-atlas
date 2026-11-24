@@ -1,6 +1,6 @@
 # KazKozDev/live-translation
 
-⭐ 46 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KazKozDev/live-translation) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-10-04 · [GitHub](https://github.com/KazKozDev/live-translation) · 个人维护
 
 **macOS 本地实时系统音频字幕+翻译应用**
 

@@ -1,6 +1,6 @@
 # clustervision/trinityX
 
-⭐ 131 · Jinja · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/clustervision/trinityX) · 组织维护
+⭐ 131 · Jinja · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/clustervision/trinityX) · 组织维护
 
 **企业级 HPC/AI 集群部署管理平台，供集群管理员快速搭建集群**
 

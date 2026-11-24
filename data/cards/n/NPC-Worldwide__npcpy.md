@@ -1,6 +1,6 @@
 # NPC-Worldwide/npcpy
 
-⭐ 1,530 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
+⭐ 1,530 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NPC-Worldwide/npcpy) · 组织维护
 
 **多模态 LLM、Agent 与知识图谱研发的 Python 库**
 

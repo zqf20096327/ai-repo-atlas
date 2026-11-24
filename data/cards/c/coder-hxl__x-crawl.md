@@ -1,6 +1,6 @@
 # coder-hxl/x-crawl
 
-⭐ 1,888 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/coder-hxl/x-crawl) · [官网](https://coder-hxl.github.io/x-crawl/) · 个人维护 · 中文 README
+⭐ 1,887 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/coder-hxl/x-crawl) · [官网](https://coder-hxl.github.io/x-crawl/) · 个人维护 · 中文 README
 
 **Node.js AI 辅助爬虫库：用 AI 应对网页结构变化**
 

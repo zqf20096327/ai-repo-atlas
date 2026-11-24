@@ -1,6 +1,6 @@
 # beehive-lab/jitllm
 
-⭐ 297 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/beehive-lab/jitllm) · [官网](https://beehive-lab.github.io/jitllm/) · 组织维护
+⭐ 297 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/beehive-lab/jitllm) · [官网](https://beehive-lab.github.io/jitllm/) · 组织维护
 
 **JVM 上的 LLM 推理与服务引擎：纯 Java 经 TornadoVM JIT 到任意 GPU**
 

@@ -1,6 +1,6 @@
 # fancyboi999/ai-engineering-from-scratch-zh
 
-⭐ 1,359 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fancyboi999/ai-engineering-from-scratch-zh) · [官网](https://aieng-zh.cn) · 个人维护 · 中文 README
+⭐ 1,360 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fancyboi999/ai-engineering-from-scratch-zh) · [官网](https://aieng-zh.cn) · 个人维护 · 中文 README
 
 **AI 工程师中文学习路径：20 阶段 542 课从零构建教程**
 

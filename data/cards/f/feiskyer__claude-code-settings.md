@@ -1,6 +1,6 @@
 # feiskyer/claude-code-settings
 
-⭐ 1,684 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/feiskyer/claude-code-settings) · [官网](https://feisky.xyz/claude-code-settings/) · 个人维护 · 中文 README
+⭐ 1,685 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/feiskyer/claude-code-settings) · [官网](https://feisky.xyz/claude-code-settings/) · 个人维护 · 中文 README
 
 **为 Claude Code 用户提供的技能、子代理与多提供商配置模板集**
 

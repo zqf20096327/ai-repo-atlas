@@ -1,6 +1,6 @@
 # MercurieVV/ScalaSemantic
 
-⭐ 23 · Scala · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MercurieVV/ScalaSemantic) · [官网](https://mercurievv.github.io/ScalaSemantic/) · 个人维护
+⭐ 23 · Scala · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MercurieVV/ScalaSemantic) · [官网](https://mercurievv.github.io/ScalaSemantic/) · 个人维护
 
 **给 AI 编码代理的 Scala 语义分析 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # gensecaihq/Wazuh-MCP-Server
 
-⭐ 279 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gensecaihq/Wazuh-MCP-Server) · [官网](https://wazuhmcp.netlify.app/) · 组织维护
+⭐ 281 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gensecaihq/Wazuh-MCP-Server) · [官网](https://wazuhmcp.netlify.app/) · 组织维护
 
 **连接 LLM 客户端与 Wazuh SIEM 的 MCP 服务器**
 

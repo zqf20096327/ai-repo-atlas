@@ -1,6 +1,6 @@
 # muend/arcgis-mcp-bridge
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/muend/arcgis-mcp-bridge) · [官网](https://pypi.org/project/arcgis-mcp-bridge/) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/muend/arcgis-mcp-bridge) · [官网](https://pypi.org/project/arcgis-mcp-bridge/) · 个人维护
 
 **面向 Claude Desktop 等 MCP 主机的 ArcGIS Pro ArcPy 桥接服务器**
 

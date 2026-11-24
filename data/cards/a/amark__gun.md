@@ -1,6 +1,6 @@
 # amark/gun
 
-⭐ 19,167 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/amark/gun) · [官网](https://gun.eco/docs) · 个人维护
+⭐ 19,168 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/amark/gun) · [官网](https://gun.eco/docs) · 个人维护
 
 **去中心化图数据同步协议，供开发者构建 P2P 加密应用**
 

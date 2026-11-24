@@ -1,6 +1,6 @@
 # secretflow/kuscia
 
-⭐ 145 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/secretflow/kuscia) · [官网](https://www.secretflow.org.cn/docs/kuscia/latest/zh-Hans) · 组织维护 · 中文 README
+⭐ 145 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/secretflow/kuscia) · [官网](https://www.secretflow.org.cn/docs/kuscia/latest/zh-Hans) · 组织维护 · 中文 README
 
 **K8s 隐私计算任务编排框架，统一多方安全计算基础设施**
 

@@ -1,6 +1,6 @@
 # thoufeeque22/zeroburn
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/thoufeeque22/zeroburn) · [官网](https://directly.social) · 组织维护
+⭐ 6 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/thoufeeque22/zeroburn) · [官网](https://directly.social) · 组织维护
 
 **降低 Claude/Gemini 编码代理 token 消耗的编排工具集**
 

@@ -1,6 +1,6 @@
 # Comfy-Org/comfy-cli
 
-⭐ 1,061 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Comfy-Org/comfy-cli) · [官网](https://docs.comfy.org/comfy-cli/getting-started) · 组织维护
+⭐ 1,061 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Comfy-Org/comfy-cli) · [官网](https://docs.comfy.org/comfy-cli/getting-started) · 组织维护
 
 **给 ComfyUI 用户的命令行工具：安装、运行、管理节点与工作流**
 

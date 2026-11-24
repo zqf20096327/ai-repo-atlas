@@ -1,6 +1,6 @@
 # jim-berend/semanticlens
 
-⭐ 55 · Python · BSD-3-Clause · 推送 2026-08-23 · [GitHub](https://github.com/jim-berend/semanticlens) · [官网](https://jim-berend.github.io/semanticlens/) · 个人维护
+⭐ 56 · Python · BSD-3-Clause · 推送 2026-08-23 · [GitHub](https://github.com/jim-berend/semanticlens) · [官网](https://jim-berend.github.io/semanticlens/) · 个人维护
 
 **解读与验证大型视觉模型的 PyTorch 语义解释框架**
 

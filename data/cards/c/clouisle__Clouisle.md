@@ -1,6 +1,6 @@
 # clouisle/Clouisle
 
-⭐ 19 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/clouisle/Clouisle) · [官网](https://clouisle.asia) · 组织维护 · 中文 README
+⭐ 19 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/clouisle/Clouisle) · [官网](https://clouisle.asia) · 组织维护 · 中文 README
 
 **企业级多智能体协作平台与可视化工作流引擎**
 

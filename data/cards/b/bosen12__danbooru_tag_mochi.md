@@ -1,6 +1,6 @@
 # bosen12/danbooru_tag_mochi
 
-⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/bosen12/danbooru_tag_mochi) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **将 Danbooru 标签以卡片形式组合生成图像，并连接到本地 ComfyUI 的工具。**
 
@@ -11,7 +11,7 @@ Mochi 是一个面向本地 ComfyUI（WAI/Illustrious SDXL）的卡片式工作�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `dual` | GPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

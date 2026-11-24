@@ -1,6 +1,6 @@
 # akhayam99/goodboy
 
-⭐ 119 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/akhayam99/goodboy) · [官网](https://goodboy-ai.dev/) · 个人维护
+⭐ 119 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/akhayam99/goodboy) · [官网](https://goodboy-ai.dev/) · 个人维护
 
 **管理编码代理会话的 macOS/Linux 桌面应用**
 

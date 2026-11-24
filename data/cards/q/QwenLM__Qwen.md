@@ -1,6 +1,6 @@
 # QwenLM/Qwen
 
-⭐ 22,072 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/QwenLM/Qwen) · 组织维护 · 中文 README
+⭐ 22,074 · Python · Apache-2.0 · 推送 2026-03-05 · [GitHub](https://github.com/QwenLM/Qwen) · 组织维护 · 中文 README
 
 **阿里云开源的通义千问大语言模型官方仓库**
 

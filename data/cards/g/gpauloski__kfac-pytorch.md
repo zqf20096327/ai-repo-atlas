@@ -1,6 +1,6 @@
 # gpauloski/kfac-pytorch
 
-⭐ 98 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/gpauloski/kfac-pytorch) · 个人维护
+⭐ 98 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gpauloski/kfac-pytorch) · 个人维护
 
 **面向 PyTorch 的分布式 K-FAC 二阶预条件器库**
 

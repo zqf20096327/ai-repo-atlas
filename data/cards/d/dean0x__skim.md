@@ -1,6 +1,6 @@
 # dean0x/skim
 
-⭐ 31 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dean0x/skim) · [官网](https://dean0x.github.io/x/skim/) · 个人维护
+⭐ 31 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dean0x/skim) · [官网](https://dean0x.github.io/x/skim/) · 个人维护
 
 **为编码 agent 优化上下文的 Rust CLI：代码压缩与输出瘦身**
 

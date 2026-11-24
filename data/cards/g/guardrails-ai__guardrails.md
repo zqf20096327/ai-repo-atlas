@@ -1,6 +1,6 @@
 # guardrails-ai/guardrails
 
-⭐ 7,636 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/guardrails-ai/guardrails) · [官网](https://www.guardrailsai.com/docs) · 组织维护
+⭐ 7,639 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/guardrails-ai/guardrails) · [官网](https://www.guardrailsai.com/docs) · 组织维护
 
 **LLM 应用的输入/输出校验防护框架**
 

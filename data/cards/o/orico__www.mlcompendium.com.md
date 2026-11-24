@@ -1,6 +1,6 @@
 # orico/www.mlcompendium.com
 
-⭐ 2,203 · 推送 2026-10-01 · [GitHub](https://github.com/orico/www.mlcompendium.com) · [官网](https://www.mlcompendium.com) · 个人维护
+⭐ 2,204 · 推送 2026-10-01 · [GitHub](https://github.com/orico/www.mlcompendium.com) · [官网](https://www.mlcompendium.com) · 个人维护
 
 **开源机器学习知识汇编书：502 个主题的学习资源导航**
 

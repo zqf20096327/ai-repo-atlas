@@ -1,6 +1,6 @@
 # PerryLink/dsh-local-ai
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-local-ai) · [官网](https://www.npmjs.com/package/dsh-local-ai) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-local-ai) · [官网](https://www.npmjs.com/package/dsh-local-ai) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Ollama 本地模型集成插件**
 

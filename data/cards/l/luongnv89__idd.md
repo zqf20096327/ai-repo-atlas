@@ -1,6 +1,6 @@
 # luongnv89/idd
 
-⭐ 15 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/luongnv89/idd) · [官网](http://luongnv.com/idd/) · 个人维护
+⭐ 15 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/luongnv89/idd) · [官网](http://luongnv.com/idd/) · 个人维护
 
 **把 GitHub Issues 结构化为可执行工单的 8 个 agent 技能集**
 

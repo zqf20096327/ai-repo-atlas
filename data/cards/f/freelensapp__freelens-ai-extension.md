@@ -1,6 +1,6 @@
 # freelensapp/freelens-ai-extension
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/freelensapp/freelens-ai-extension) · [官网](https://freelens.app/) · 组织维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/freelensapp/freelens-ai-extension) · [官网](https://freelens.app/) · 组织维护
 
 **Freelens 的 Kubernetes AI 助手扩展：自然语言读写集群**
 

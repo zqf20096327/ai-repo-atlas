@@ -1,6 +1,6 @@
 # intel/intel-accel-for-llm
 
-⭐ 19 · C · 推送 2026-11-17 · [GitHub](https://github.com/intel/intel-accel-for-llm) · 组织维护
+⭐ 19 · C · 推送 2026-11-23 · [GitHub](https://github.com/intel/intel-accel-for-llm) · 组织维护
 
 **利用 Intel 硬件加速器提升 LLM 推理性能的 IAXL 库**
 

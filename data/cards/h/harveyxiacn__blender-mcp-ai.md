@@ -1,6 +1,6 @@
 # harveyxiacn/blender-mcp-ai
 
-⭐ 20 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/harveyxiacn/blender-mcp-ai) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/harveyxiacn/blender-mcp-ai) · 个人维护 · 中文 README
 
 **让 AI 客户端通过 MCP 协议用自然语言控制 Blender 的服务器**
 

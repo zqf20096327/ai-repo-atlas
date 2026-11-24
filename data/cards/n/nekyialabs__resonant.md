@@ -1,6 +1,6 @@
 # nekyialabs/resonant
 
-⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/nekyialabs/resonant) · [官网](https://liveresonant.com) · 组织维护
+⭐ 65 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/nekyialabs/resonant) · [官网](https://liveresonant.com) · 组织维护
 
 **本地自托管的单用户 AI 伴侣应用，带记忆与身份持久化**
 

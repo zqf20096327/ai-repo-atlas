@@ -1,6 +1,6 @@
 # rokbenko/ai-playground
 
-⭐ 318 · Python · MIT · 推送 2026-04-23 · [GitHub](https://github.com/rokbenko/ai-playground) · [官网](https://www.youtube.com/@rokbenko?sub_confirmation=1) · 个人维护
+⭐ 317 · Python · MIT · 推送 2026-04-23 · [GitHub](https://github.com/rokbenko/ai-playground) · [官网](https://www.youtube.com/@rokbenko?sub_confirmation=1) · 个人维护
 
 **YouTube AI 编程教程配套代码合集（LLM/Agent/向量库等）**
 

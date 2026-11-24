@@ -1,6 +1,6 @@
 # aws-solutions-library-samples/global-capacity-orchestrator-on-aws
 
-⭐ 55 · Python · MIT-0 · 推送 2026-11-22 · [GitHub](https://github.com/aws-solutions-library-samples/global-capacity-orchestrator-on-aws) · [官网](https://aws-solutions-library-samples.github.io/global-capacity-orchestrator-on-aws/) · 组织维护
+⭐ 55 · Python · MIT-0 · 推送 2026-11-24 · [GitHub](https://github.com/aws-solutions-library-samples/global-capacity-orchestrator-on-aws) · [官网](https://aws-solutions-library-samples.github.io/global-capacity-orchestrator-on-aws/) · 组织维护
 
 **AWS 多区域加速算力编排平台：一个 API 调度 GPU 训练与推理**
 

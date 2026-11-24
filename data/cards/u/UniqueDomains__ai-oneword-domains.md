@@ -1,6 +1,6 @@
 # UniqueDomains/ai-oneword-domains
 
-⭐ 17 · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/UniqueDomains/ai-oneword-domains) · [官网](https://unique.domains/tld/ai) · 组织维护
+⭐ 17 · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/UniqueDomains/ai-oneword-domains) · [官网](https://unique.domains/tld/ai) · 组织维护
 
 **给创始人/投资者的 .ai 单词域名公开数据集（1,000 行抽取）**
 

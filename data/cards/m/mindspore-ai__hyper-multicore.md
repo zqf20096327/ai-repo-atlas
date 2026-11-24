@@ -1,6 +1,6 @@
 # mindspore-ai/hyper-multicore
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mindspore-ai/hyper-multicore) · 组织维护 · 中文 README
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mindspore-ai/hyper-multicore) · 组织维护 · 中文 README
 
 **华为昇腾超节点 Megakernel 开发框架（MoE/路由/混合算子）**
 

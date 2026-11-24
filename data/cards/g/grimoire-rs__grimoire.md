@@ -1,6 +1,6 @@
 # grimoire-rs/grimoire
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/grimoire-rs/grimoire) · [官网](https://grimoire.rs) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/grimoire-rs/grimoire) · [官网](https://grimoire.rs) · 组织维护
 
 **AI agent 配置包管理器：将技能/规则/MCP 装入各编码 agent**
 

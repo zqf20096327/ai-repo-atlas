@@ -1,6 +1,6 @@
 # AmyangXYZ/PoPo
 
-⭐ 285 · TypeScript · GPL-3.0 · 推送 2026-02-10 · [GitHub](https://github.com/AmyangXYZ/PoPo) · [官网](https://popo-topaz-five.vercel.app) · 个人维护
+⭐ 286 · TypeScript · GPL-3.0 · 推送 2026-02-10 · [GitHub](https://github.com/AmyangXYZ/PoPo) · [官网](https://popo-topaz-five.vercel.app) · 个人维护
 
 **用自然语言生成 MMD 角色姿势与动画的 Web 应用**
 

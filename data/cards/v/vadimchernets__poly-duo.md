@@ -1,6 +1,6 @@
 # vadimchernets/poly-duo
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/vadimchernets/poly-duo) · [官网](https://polyhelper.ai/duo) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vadimchernets/poly-duo) · [官网](https://polyhelper.ai/duo) · 个人维护
 
 **让手机上已有 ChatGPT 与 Claude 应用一键协同回答并互查**
 

@@ -1,6 +1,6 @@
 # apax-hub/apax
 
-⭐ 39 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/apax-hub/apax) · [官网](https://apax.readthedocs.io) · 组织维护
+⭐ 39 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/apax-hub/apax) · [官网](https://apax.readthedocs.io) · 组织维护
 
 **基于 JAX 的原子机器学习势训练与推断框架**
 

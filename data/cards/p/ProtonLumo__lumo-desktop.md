@@ -1,6 +1,6 @@
 # ProtonLumo/lumo-desktop
 
-⭐ 84 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ProtonLumo/lumo-desktop) · [官网](https://proton.me/blog/lumo-desktop-features) · 组织维护
+⭐ 85 · Rust · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ProtonLumo/lumo-desktop) · [官网](https://proton.me/blog/lumo-desktop-features) · 组织维护
 
 **Proton 隐私优先 AI 助手 Lumo 的桌面客户端**
 

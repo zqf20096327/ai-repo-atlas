@@ -1,6 +1,6 @@
 # GuzmanJacqueline93/copy-ai-pro-win
 
-⭐ 339 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/GuzmanJacqueline93/copy-ai-pro-win) · [官网](https://guzmanjacqueline93.github.io/copy-ai-pro-win/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Windows 桌面 AI 文案助手：生成营销文案并做 SEO 优化**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

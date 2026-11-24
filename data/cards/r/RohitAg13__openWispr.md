@@ -1,6 +1,6 @@
 # RohitAg13/openWispr
 
-⭐ 44 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/RohitAg13/openWispr) · [官网](https://www.openwispr.dev) · 个人维护
+⭐ 46 · C++ · MIT · 推送 2026-11-19 · [GitHub](https://github.com/RohitAg13/openWispr) · [官网](https://www.openwispr.dev) · 个人维护
 
 **本地优先的语音听写应用：说话即转文字并插入当前输入框**
 

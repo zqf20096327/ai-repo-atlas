@@ -1,6 +1,6 @@
 # dappros/ethora
 
-⭐ 552 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/dappros/ethora) · [官网](https://ethora.com/) · 组织维护
+⭐ 552 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dappros/ethora) · [官网](https://ethora.com/) · 组织维护
 
 **面向开发者的聊天/消息与对话式 AI SDK monorepo**
 

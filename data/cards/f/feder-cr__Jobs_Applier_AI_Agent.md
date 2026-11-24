@@ -1,6 +1,6 @@
 # feder-cr/Jobs_Applier_AI_Agent
 
-⭐ 32,613 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/feder-cr/Jobs_Applier_AI_Agent) · 组织维护
+⭐ 32,620 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/feder-cr/Jobs_Applier_AI_Agent) · 组织维护
 
 **给求职者自动搜索职位并代填代投简历的 AI bot**
 

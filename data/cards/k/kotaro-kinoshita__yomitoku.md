@@ -1,6 +1,6 @@
 # kotaro-kinoshita/yomitoku
 
-⭐ 1,709 · Python · 推送 2026-11-19 · [GitHub](https://github.com/kotaro-kinoshita/yomitoku) · [官网](https://kotaro-kinoshita.github.io/yomitoku/) · 个人维护
+⭐ 1,710 · Python · 推送 2026-11-19 · [GitHub](https://github.com/kotaro-kinoshita/yomitoku) · [官网](https://kotaro-kinoshita.github.io/yomitoku/) · 个人维护
 
 **面向日语文档图像的 OCR 与版面解析 Python 包**
 

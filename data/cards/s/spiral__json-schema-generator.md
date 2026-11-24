@@ -1,6 +1,6 @@
 # spiral/json-schema-generator
 
-⭐ 115 · PHP · MIT · 推送 2026-11-16 · [GitHub](https://github.com/spiral/json-schema-generator) · 组织维护
+⭐ 115 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/spiral/json-schema-generator) · 组织维护
 
 **从 PHP DTO 类生成 JSON Schema，用于 LLM 结构化输出与工具参数**
 

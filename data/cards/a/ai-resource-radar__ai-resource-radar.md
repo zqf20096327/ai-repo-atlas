@@ -1,6 +1,6 @@
 # ai-resource-radar/ai-resource-radar
 
-⭐ 12 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ai-resource-radar/ai-resource-radar) · [官网](https://ai-resource-radar.github.io/ai-resource-radar/) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ai-resource-radar/ai-resource-radar) · [官网](https://ai-resource-radar.github.io/ai-resource-radar/) · 个人维护 · 中文 README
 
 **免费 AI API 与 GPU 资源的每日核验追踪仪表盘**
 

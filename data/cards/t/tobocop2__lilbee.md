@@ -1,6 +1,6 @@
 # tobocop2/lilbee
 
-⭐ 72 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tobocop2/lilbee) · [官网](https://lilbee.sh) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tobocop2/lilbee) · [官网](https://lilbee.sh) · 个人维护
 
 **单文件本地 AI 栈：运行本地模型并对文件/代码/网页做带引用的问答**
 

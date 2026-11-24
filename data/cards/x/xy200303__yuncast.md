@@ -1,6 +1,6 @@
 # xy200303/yuncast
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/xy200303/yuncast) · [官网](https://yuncast.xyun.dev/) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/xy200303/yuncast) · [官网](https://yuncast.xyun.dev/) · 个人维护 · 中文 README
 
 **面向不会直播的商家：AI 写稿配音自动回复评论的直播工作台**
 

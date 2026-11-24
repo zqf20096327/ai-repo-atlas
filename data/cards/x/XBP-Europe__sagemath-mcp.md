@@ -1,6 +1,6 @@
 # XBP-Europe/sagemath-mcp
 
-⭐ 22 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/XBP-Europe/sagemath-mcp) · [官网](https://pypi.org/project/sagemath-mcp/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/XBP-Europe/sagemath-mcp) · [官网](https://pypi.org/project/sagemath-mcp/) · 组织维护
 
 **给 LLM 提供沙箱化 SageMath 数学能力的 MCP 服务器**
 

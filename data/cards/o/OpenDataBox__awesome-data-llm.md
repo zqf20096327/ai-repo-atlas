@@ -1,6 +1,6 @@
 # OpenDataBox/awesome-data-llm
 
-⭐ 837 · 推送 2026-10-25 · [GitHub](https://github.com/OpenDataBox/awesome-data-llm) · [官网](https://arxiv.org/pdf/2505.18458) · 组织维护 · 中文 README
+⭐ 839 · 推送 2026-10-25 · [GitHub](https://github.com/OpenDataBox/awesome-data-llm) · [官网](https://arxiv.org/pdf/2505.18458) · 组织维护 · 中文 README
 
 **面向 LLM 研究者的数据集与数据处理论文集清单**
 

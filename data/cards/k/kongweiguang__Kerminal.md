@@ -1,6 +1,6 @@
 # kongweiguang/Kerminal
 
-⭐ 34 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/kongweiguang/Kerminal) · 个人维护 · 中文 README
+⭐ 34 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/kongweiguang/Kerminal) · 个人维护 · 中文 README
 
 **带 AI Agent 集成的本地与远程终端运维桌面工作台**
 

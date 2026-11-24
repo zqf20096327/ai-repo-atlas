@@ -1,6 +1,6 @@
 # geminixiang/pi-mobile
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/geminixiang/pi-mobile) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/geminixiang/pi-mobile) · 个人维护 · 中文 README
 
 **非官方 Android 客户端：在手机上运行 pi coding agent**
 

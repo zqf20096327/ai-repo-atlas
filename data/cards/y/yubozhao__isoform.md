@@ -1,6 +1,6 @@
 # yubozhao/isoform
 
-⭐ 31 · Go · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/yubozhao/isoform) · [官网](https://www.isoform.ai) · 个人维护 · 中文 README
+⭐ 31 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/yubozhao/isoform) · [官网](https://www.isoform.ai) · 个人维护 · 中文 README
 
 **本地优先的主动式个人 AI 助手：观察电脑使用并生成简报与任务**
 

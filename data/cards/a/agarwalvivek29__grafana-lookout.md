@@ -1,6 +1,6 @@
 # agarwalvivek29/grafana-lookout
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/agarwalvivek29/grafana-lookout) · 个人维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agarwalvivek29/grafana-lookout) · 个人维护
 
 **面向自托管 Grafana 的 AI 助手插件：用自然语言查询指标日志并给可点链接**
 

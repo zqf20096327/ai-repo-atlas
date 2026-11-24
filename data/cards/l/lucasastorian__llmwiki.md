@@ -1,6 +1,6 @@
 # lucasastorian/llmwiki
 
-⭐ 1,786 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/lucasastorian/llmwiki) · [官网](https://llmwiki.app) · 个人维护
+⭐ 1,789 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/lucasastorian/llmwiki) · [官网](https://llmwiki.app) · 个人维护
 
 **AI 自主维护的个人维基：上传资料，Claude 经 MCP 自动撰写**
 

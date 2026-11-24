@@ -1,6 +1,6 @@
 # piazzatron/anki-smart-notes
 
-⭐ 40 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/piazzatron/anki-smart-notes) · [官网](https://smart-notes.xyz) · 个人维护
+⭐ 40 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/piazzatron/anki-smart-notes) · [官网](https://smart-notes.xyz) · 个人维护
 
 **Anki 插件：用 AI 为卡片字段生成文本、例句、语音与图片**
 

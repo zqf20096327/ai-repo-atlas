@@ -1,6 +1,6 @@
 # Innei/haklex
 
-⭐ 45 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/Innei/haklex) · [官网](https://haklex.innei.dev) · 个人维护 · 中文 README
+⭐ 47 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/Innei/haklex) · [官网](https://haklex.innei.dev) · 个人维护 · 中文 README
 
 **面向 React 开发者的 AI-agent 原生富文本编辑器生态**
 

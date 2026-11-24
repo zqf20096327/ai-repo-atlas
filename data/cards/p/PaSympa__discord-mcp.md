@@ -1,6 +1,6 @@
 # PaSympa/discord-mcp
 
-⭐ 39 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/PaSympa/discord-mcp) · [官网](https://pasympa.github.io/discord-mcp/) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PaSympa/discord-mcp) · [官网](https://pasympa.github.io/discord-mcp/) · 个人维护
 
 **用自然语言管理 Discord 服务器的 MCP 服务器（95+ 工具）**
 

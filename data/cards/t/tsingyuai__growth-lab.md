@@ -1,6 +1,6 @@
 # tsingyuai/growth-lab
 
-⭐ 1,980 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/tsingyuai/growth-lab) · [官网](https://growthlab.tsingyuai.com) · 组织维护 · 中文 README
+⭐ 1,981 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/tsingyuai/growth-lab) · [官网](https://growthlab.tsingyuai.com) · 组织维护 · 中文 README
 
 **开源增长运营工具：用自然语言运行增长闭环并自我复盘**
 

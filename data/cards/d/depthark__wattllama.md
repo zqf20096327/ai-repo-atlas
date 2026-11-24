@@ -1,6 +1,6 @@
 # depthark/wattllama
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/depthark/wattllama) · 个人维护
+⭐ 8 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/depthark/wattllama) · 个人维护
 
 **本地 LLM 功耗仪表盘：实时统计电力、温度与每 token 能耗**
 

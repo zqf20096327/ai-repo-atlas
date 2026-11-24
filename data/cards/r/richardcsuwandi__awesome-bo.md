@@ -1,6 +1,6 @@
 # richardcsuwandi/awesome-bo
 
-⭐ 32 · Python · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/richardcsuwandi/awesome-bo) · [官网](https://richardcsuwandi.github.io/awesome-bo/) · 个人维护
+⭐ 32 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/richardcsuwandi/awesome-bo) · [官网](https://richardcsuwandi.github.io/awesome-bo/) · 个人维护
 
 **贝叶斯优化资源策展清单：教程、书籍、库与论文**
 

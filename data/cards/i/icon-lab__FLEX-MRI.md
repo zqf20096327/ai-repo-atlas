@@ -1,6 +1,6 @@
 # icon-lab/FLEX-MRI
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/icon-lab/FLEX-MRI) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为科研人员提供加速 MRI 重建的生成式模型官方实现**
 
@@ -11,7 +11,7 @@ FLEX-MRI 的官方 PyTorch 实现，实现论文所述的随机有限转移学�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

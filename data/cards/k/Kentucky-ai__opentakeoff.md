@@ -1,6 +1,6 @@
 # Kentucky-ai/opentakeoff
 
-⭐ 877 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Kentucky-ai/opentakeoff) · [官网](https://opentakeoff.kentucky-ai.com) · 组织维护
+⭐ 883 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Kentucky-ai/opentakeoff) · [官网](https://opentakeoff.kentucky-ai.com) · 组织维护
 
 **给造价/地板估算者与 AI agent 的浏览器端 PDF 工程量测算引擎**
 

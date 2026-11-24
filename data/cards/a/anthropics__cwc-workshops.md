@@ -1,6 +1,6 @@
 # anthropics/cwc-workshops
 
-⭐ 2,333 · TypeScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/anthropics/cwc-workshops) · 组织维护
+⭐ 2,341 · TypeScript · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/anthropics/cwc-workshops) · 组织维护
 
 **Anthropic Code with Claude 工作坊教程材料合集**
 

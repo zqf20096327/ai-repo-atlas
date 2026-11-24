@@ -1,6 +1,6 @@
 # aman-bhaskar-codes/ARES
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/aman-bhaskar-codes/ARES) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aman-bhaskar-codes/ARES) · 个人维护
 
 **面向研究者带引用溯源的自主研究与证据检索工作台**
 

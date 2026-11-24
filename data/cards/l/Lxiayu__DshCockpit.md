@@ -1,6 +1,6 @@
 # Lxiayu/DshCockpit
 
-⭐ 39 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Lxiayu/DshCockpit) · [官网](dshcockpit.site) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Lxiayu/DshCockpit) · [官网](dshcockpit.site) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的桌面驾驶舱：监控 Agent 团队用量成本**
 

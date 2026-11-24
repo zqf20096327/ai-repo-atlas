@@ -1,6 +1,6 @@
 # SawyerHan-AI/TideMind
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SawyerHan-AI/TideMind) · [官网](https://tidemind.ai/) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SawyerHan-AI/TideMind) · [官网](https://tidemind.ai/) · 个人维护 · 中文 README
 
 **跨 AI 工具与笔记的本地优先记忆层/知识图谱**
 

@@ -1,6 +1,6 @@
 # butterpurse-dot/deepseek-harness-linux
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/butterpurse-dot/deepseek-harness-linux) · [官网](https://butterpurse-dot.github.io/deepseek-harness-linux/) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/butterpurse-dot/deepseek-harness-linux) · [官网](https://butterpurse-dot.github.io/deepseek-harness-linux/) · 个人维护
 
 **为 DeepSeek Harness 桌面版提供社区 Linux 打包发布**
 

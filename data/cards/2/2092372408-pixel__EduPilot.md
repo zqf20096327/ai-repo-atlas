@@ -1,6 +1,6 @@
 # 2092372408-pixel/EduPilot
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/2092372408-pixel/EduPilot) · [官网](https://github.com/2092372408-pixel/EduPilot/releases/latest) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/2092372408-pixel/EduPilot) · [官网](https://github.com/2092372408-pixel/EduPilot/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的教材 AI 成课与复习学习工作台**
 

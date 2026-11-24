@@ -1,6 +1,6 @@
 # Sinfony8838/LocalCode
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Sinfony8838/LocalCode) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Sinfony8838/LocalCode) · 个人维护 · 中文 README
 
 **Windows 本地优先 AI 编程桌面，Ollama 本地推理与隔离 Agent**
 

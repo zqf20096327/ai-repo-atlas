@@ -1,6 +1,6 @@
 # MnemeHQ/mneme
 
-⭐ 34 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MnemeHQ/mneme) · [官网](https://mnemehq.com) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MnemeHQ/mneme) · [官网](https://mnemehq.com) · 组织维护
 
 **面向 agentic 软件开发的决策与控制层：防止架构漂移**
 

@@ -1,6 +1,6 @@
 # ne1s0n/coding_excercises
 
-⭐ 26 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ne1s0n/coding_excercises) · 组织维护
+⭐ 26 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ne1s0n/coding_excercises) · 组织维护
 
 **生物学者深度学习入门课程的讲义与练习仓库**
 

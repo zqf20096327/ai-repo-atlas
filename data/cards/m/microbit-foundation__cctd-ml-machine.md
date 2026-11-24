@@ -1,6 +1,6 @@
 # microbit-foundation/cctd-ml-machine
 
-⭐ 10 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/microbit-foundation/cctd-ml-machine) · [官网](https://ml-machine.org/) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microbit-foundation/cctd-ml-machine) · [官网](https://ml-machine.org/) · 组织维护
 
 **面向教育的交互式机器学习平台：micro:bit 手势识别与反馈**
 

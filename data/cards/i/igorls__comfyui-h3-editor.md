@@ -1,6 +1,6 @@
 # igorls/comfyui-h3-editor
 
-⭐ 110 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/igorls/comfyui-h3-editor) · [官网](https://igorls.github.io/comfyui-h3-editor/) · 个人维护
+⭐ 111 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/igorls/comfyui-h3-editor) · [官网](https://igorls.github.io/comfyui-h3-editor/) · 个人维护
 
 **ComfyUI 内的 MiniMax H3 时间线 AI 视频编辑器**
 

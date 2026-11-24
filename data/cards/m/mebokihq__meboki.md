@@ -1,6 +1,6 @@
 # mebokihq/meboki
 
-⭐ 10 · Swift · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/mebokihq/meboki) · [官网](https://meboki.com/) · 个人维护
+⭐ 11 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mebokihq/meboki) · [官网](https://meboki.com/) · 个人维护
 
 **macOS 本地私有语法检查工具：开源 LLM 在本机运行**
 

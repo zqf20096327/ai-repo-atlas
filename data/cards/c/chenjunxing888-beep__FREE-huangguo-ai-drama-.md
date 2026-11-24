@@ -1,6 +1,6 @@
 # chenjunxing888-beep/FREE-huangguo-ai-drama-
 
-⭐ 7 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/chenjunxing888-beep/FREE-huangguo-ai-drama-) · 个人维护 · 中文 README
+⭐ 8 · HTML · 推送 2026-11-16 · [GitHub](https://github.com/chenjunxing888-beep/FREE-huangguo-ai-drama-) · 个人维护 · 中文 README
 
 **面向新手的 AI 短剧制作资料整理与黄果短剧入口**
 

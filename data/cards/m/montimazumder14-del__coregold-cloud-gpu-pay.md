@@ -1,6 +1,6 @@
 # montimazumder14-del/coregold-cloud-gpu-pay
 
-⭐ 80 · 推送 2026-11-02 · [GitHub](https://github.com/montimazumder14-del/coregold-cloud-gpu-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 94 · 推送 2026-11-02 · [GitHub](https://github.com/montimazumder14-del/coregold-cloud-gpu-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向海外云 GPU 租用付费的虚拟卡（VCC）推广页**
 

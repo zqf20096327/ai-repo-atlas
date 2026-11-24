@@ -1,6 +1,6 @@
 # kekko7072/flutter_local_ai
 
-⭐ 51 · Dart · MIT · 推送 2026-11-14 · [GitHub](https://github.com/kekko7072/flutter_local_ai) · [官网](https://pub.dev/packages/flutter_local_ai) · 个人维护
+⭐ 52 · Dart · MIT · 推送 2026-11-14 · [GitHub](https://github.com/kekko7072/flutter_local_ai) · [官网](https://pub.dev/packages/flutter_local_ai) · 个人维护
 
 **Flutter 插件：统一 API 调用 iOS/Android/Windows/Chrome 系统内置端侧 AI 模型**
 

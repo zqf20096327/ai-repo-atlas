@@ -1,6 +1,6 @@
 # Mintplex-Labs/anything-llm
 
-⭐ 68,517 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Mintplex-Labs/anything-llm) · [官网](https://anythingllm.com) · 组织维护 · 中文 README
+⭐ 68,565 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Mintplex-Labs/anything-llm) · [官网](https://anythingllm.com) · 组织维护 · 中文 README
 
 **本地优先的一体化 AI 应用：文档问答、AI Agent 与多用户管理**
 

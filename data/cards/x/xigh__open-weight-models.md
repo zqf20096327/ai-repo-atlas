@@ -1,6 +1,6 @@
 # xigh/open-weight-models
 
-⭐ 118 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/xigh/open-weight-models) · [官网](https://philippe-anel.fr/en/blog/2026/04/04/panorama-llm-open-source-2026/) · 个人维护
+⭐ 121 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/xigh/open-weight-models) · [官网](https://philippe-anel.fr/en/blog/2026/04/04/panorama-llm-open-source-2026/) · 个人维护
 
 **可商用许可开放权重模型的策展清单，按硬件门槛筛选**
 

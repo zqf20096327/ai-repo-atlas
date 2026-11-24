@@ -1,6 +1,6 @@
 # HatsyRei/maid-native
 
-⭐ 20 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/HatsyRei/maid-native) · 个人维护 · 中文 README
+⭐ 21 · Kotlin · MIT · 推送 2026-11-16 · [GitHub](https://github.com/HatsyRei/maid-native) · 个人维护 · 中文 README
 
 **连接任意 OpenAI 兼容接口的原生 Android 聊天客户端**
 

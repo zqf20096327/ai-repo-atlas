@@ -1,6 +1,6 @@
 # DEEIX-AI/DEEIX-Chat
 
-⭐ 1,639 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/DEEIX-AI/DEEIX-Chat) · [官网](https://deeix.com) · 组织维护
+⭐ 1,638 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/DEEIX-AI/DEEIX-Chat) · [官网](https://deeix.com) · 组织维护
 
 **企业 AI 工作台：多模型接入、路由、RAG、计费与运维一体**
 

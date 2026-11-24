@@ -1,6 +1,6 @@
 # easystats/performance
 
-⭐ 1,160 · R · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/easystats/performance) · [官网](https://easystats.github.io/performance/) · 组织维护
+⭐ 1,160 · R · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/easystats/performance) · [官网](https://easystats.github.io/performance/) · 组织维护
 
 **R 包：统一计算回归模型质量与拟合指标**
 

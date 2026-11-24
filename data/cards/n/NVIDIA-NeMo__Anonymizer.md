@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/Anonymizer
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA-NeMo/Anonymizer) · [官网](https://nvidia-nemo.github.io/Anonymizer/latest/) · 组织维护
+⭐ 139 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA-NeMo/Anonymizer) · [官网](https://nvidia-nemo.github.io/Anonymizer/latest/) · 组织维护
 
 **面向开发者的文本 PII 检测与匿名化库（GLiNER+LLM）**
 

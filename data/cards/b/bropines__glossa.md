@@ -1,6 +1,6 @@
 # bropines/glossa
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/bropines/glossa) · [官网](https://github.com/bropines/glossa/releases) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bropines/glossa) · [官网](https://github.com/bropines/glossa/releases) · 个人维护
 
 **全局划词桌面翻译工具：任意程序选文本按热键即得翻译**
 

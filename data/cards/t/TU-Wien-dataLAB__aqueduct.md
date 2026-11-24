@@ -1,6 +1,6 @@
 # TU-Wien-dataLAB/aqueduct
 
-⭐ 32 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/TU-Wien-dataLAB/aqueduct) · [官网](https://tu-wien-datalab.github.io/aqueduct/) · 组织维护
+⭐ 32 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/TU-Wien-dataLAB/aqueduct) · [官网](https://tu-wien-datalab.github.io/aqueduct/) · 组织维护
 
 **基于 LiteLLM Router SDK 与 Django 的自托管 AI 网关**
 

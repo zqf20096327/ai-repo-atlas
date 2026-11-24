@@ -1,6 +1,6 @@
 # calico88x/DGX-Model-Manager
 
-⭐ 57 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/calico88x/DGX-Model-Manager) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/calico88x/DGX-Model-Manager) · 个人维护
 
 **面向 DGX Spark 的模型与推理部署管理 Web 控制台**
 

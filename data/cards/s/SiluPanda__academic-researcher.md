@@ -1,6 +1,6 @@
 # SiluPanda/academic-researcher
 
-⭐ 15 · TeX · MIT · 推送 2026-02-16 · [GitHub](https://github.com/SiluPanda/academic-researcher) · 个人维护
+⭐ 16 · TeX · MIT · 推送 2026-02-16 · [GitHub](https://github.com/SiluPanda/academic-researcher) · 个人维护
 
 **供 AI 编程助手生成学术论文与 LaTeX 稿件的技能包**
 

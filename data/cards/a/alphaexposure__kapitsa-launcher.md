@@ -1,6 +1,6 @@
 # alphaexposure/kapitsa-launcher
 
-⭐ 3 · Swift · MIT · 推送 2026-11-10 · [GitHub](https://github.com/alphaexposure/kapitsa-launcher) · 个人维护
+⭐ 4 · Swift · MIT · 推送 2026-11-10 · [GitHub](https://github.com/alphaexposure/kapitsa-launcher) · 个人维护
 
 **运行本地 Kapitsa 模型服务器并与之聊天的 macOS 原生客户端**
 

@@ -1,6 +1,6 @@
 # MiniMax-AI/Research
 
-⭐ 52 · TeX · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/MiniMax-AI/Research) · 组织维护
+⭐ 77 · TeX · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MiniMax-AI/Research) · 组织维护
 
 **MiniMax 发布内部模型产出的研究成果与论文**
 

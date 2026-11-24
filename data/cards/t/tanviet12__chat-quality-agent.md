@@ -1,6 +1,6 @@
 # tanviet12/chat-quality-agent
 
-⭐ 314 · Go · MIT · 推送 2026-09-25 · [GitHub](https://github.com/tanviet12/chat-quality-agent) · [官网](https://tanviet12.github.io/chat-quality-agent/) · 个人维护
+⭐ 313 · Go · MIT · 推送 2026-09-25 · [GitHub](https://github.com/tanviet12/chat-quality-agent) · [官网](https://tanviet12.github.io/chat-quality-agent/) · 个人维护
 
 **用 AI 评估客服聊天质量的系统：同步 Zalo/FB 消息并打分告警**
 

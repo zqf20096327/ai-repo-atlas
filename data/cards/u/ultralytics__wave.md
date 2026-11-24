@@ -1,6 +1,6 @@
 # ultralytics/wave
 
-⭐ 90 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/wave) · [官网](https://ultralytics.com) · 组织维护
+⭐ 91 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/wave) · [官网](https://ultralytics.com) · 组织维护
 
 **用深度学习读出全波形 ToF 粒子探测器信号的代码库**
 

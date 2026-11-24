@@ -1,6 +1,6 @@
 # CoplayDev/unity-mcp
 
-⭐ 16,123 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/CoplayDev/unity-mcp) · [官网](https://coplaydev.github.io/unity-mcp/) · 组织维护 · 中文 README
+⭐ 16,138 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/CoplayDev/unity-mcp) · [官网](https://coplaydev.github.io/unity-mcp/) · 组织维护 · 中文 README
 
 **Unity 编辑器的 MCP 桥：让 AI 助手操作资产、场景与脚本**
 

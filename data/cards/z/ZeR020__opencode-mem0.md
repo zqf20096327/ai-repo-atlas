@@ -1,6 +1,6 @@
 # ZeR020/opencode-mem0
 
-⭐ 14 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ZeR020/opencode-mem0) · [官网](https://github.com/ZeR020/opencode-mem0) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/ZeR020/opencode-mem0) · [官网](https://github.com/ZeR020/opencode-mem0) · 个人维护
 
 **为 OpenCode 编码 agent 提供本地持久记忆的插件**
 

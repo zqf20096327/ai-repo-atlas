@@ -1,6 +1,6 @@
 # genspark-ai/genoffice
 
-⭐ 12,773 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/genspark-ai/genoffice) · [官网](https://genoffice.ai/) · 组织维护 · 中文 README
+⭐ 12,833 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/genspark-ai/genoffice) · [官网](https://genoffice.ai/) · 组织维护 · 中文 README
 
 **开源 AI 办公套件：本地编辑 Office 文件并内置 AI agent**
 

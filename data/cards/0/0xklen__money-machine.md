@@ -1,6 +1,6 @@
 # 0xklen/money-machine
 
-⭐ 4 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/0xklen/money-machine) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 AI agent 提供 1040 个赚钱机器构建技能的 Markdown 程序库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,10 +1,10 @@
 # google-deepmind/mujoco_menagerie
 
-⭐ 4,401 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/google-deepmind/mujoco_menagerie) · 组织维护
+⭐ 4,411 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/google-deepmind/mujoco_menagerie) · 组织维护
 
-**Google DeepMind 维护的 MuJoCo 机器人仿真模型库**
+**为 MuJoCo 物理引擎提供社区精选的机器人仿真模型库**
 
-面向 MuJoCo 物理引擎用户的精选模型合集：收录人形、四足、双足、机械臂、末端执行器、无人机等类别的机器人 MJCF 模型，每个模型目录含网格资产、许可文件与生成说明，部分提供 MJX 兼容变体。使用方式包括直接 git clone、pip 安装 mujoco-menagerie Python 包（按需下载并编译场景）或 uvx 命令行查看。设有 A+ 至 C 的模型质量分级体系，各模型指定最低 MuJoCo 版本要求。
+由 Google DeepMind 维护的 MuJoCo 模型合集，收录人形、四足、双足、机械臂、灵巧手、无人机等机器人模型的 MJCF XML 定义、网格资产与场景文件，各模型标注自由度数与许可证。提供 Python 包（pip install mujoco-menagerie，按需下载到用户缓存）与 git clone 两种使用方式，部分模型提供 MJX 兼容变体；模型按参数真实程度分为 A+ 至 C 的分级体系，并接受社区贡献。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖人形/四足/机械臂/末端执行器等多类机器人 MJCF 模型
-- pip/uvx 安装的 Python 包按需下载模型并编译场景
-- 部分模型提供 MJX 兼容变体
-- A+ 至 C 模型质量分级体系
+- 覆盖人形/四足/机械臂/灵巧手/无人机等多类机器人模型，标注自由度与许可证
+- 提供 mujoco-menagerie Python 包，首次加载自动下载到用户缓存
+- 部分模型含 MJX 兼容变体（scene_mjx.xml）
+- 模型质量分级体系（A+/A/B/C）与贡献者 CI 检查流程
 
 ## 适用场景
 
-- 机器人仿真研究与强化学习实验获取现成模型
-- 在 MuJoCo viewer 中交互查看机器人模型
-- 通过 robot_descriptions 等第三方包引用模型
+- 为 MuJoCo 强化学习或机器人控制研究加载现成机器人模型
+- 在 Python viewer 中交互式查看机器人仿真场景
+- 为机器人仿真项目贡献或复用经过整编的 MJCF 模型
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L16: **Menagerie** is a collection of high-quality models for the
-> L22: "bad" models which do not behave as expected. The goal of this collection is to
+> L23: provide the community with a curated library of well-designed models that work
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `ac1b797b4bc5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c7982c828858` · [字段定义](../../DATASET.md)*

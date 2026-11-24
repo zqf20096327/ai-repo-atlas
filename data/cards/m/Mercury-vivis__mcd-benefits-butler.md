@@ -1,6 +1,6 @@
 # Mercury-vivis/mcd-benefits-butler
 
-⭐ 17 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Mercury-vivis/mcd-benefits-butler) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/Mercury-vivis/mcd-benefits-butler) · 个人维护 · 中文 README
 
 **扫描麦当劳历史订单待评价权益的 WorkBuddy 技能/MCP 客户端**
 

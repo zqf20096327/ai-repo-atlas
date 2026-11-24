@@ -1,6 +1,6 @@
 # ankit373/hydra
 
-⭐ 12 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ankit373/hydra) · [官网](https://hydra.uvansa.com/) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ankit373/hydra) · [官网](https://hydra.uvansa.com/) · 个人维护
 
 **面向开发者的 LLM 路由控制平面：按能力与成本分发并校验回答**
 

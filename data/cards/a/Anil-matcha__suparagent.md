@@ -1,6 +1,6 @@
 # Anil-matcha/suparagent
 
-⭐ 7,151 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Anil-matcha/suparagent) · [官网](https://suparagent.ai) · 个人维护
+⭐ 7,159 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Anil-matcha/suparagent) · [官网](https://suparagent.ai) · 个人维护
 
 **自托管 AI 同事工作区：命名 agent、记忆、例程与审批**
 

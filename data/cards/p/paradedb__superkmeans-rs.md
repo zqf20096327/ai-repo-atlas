@@ -1,6 +1,6 @@
 # paradedb/superkmeans-rs
 
-⭐ 16 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/paradedb/superkmeans-rs) · [官网](https://crates.io/crates/superkmeans-rs) · 组织维护
+⭐ 16 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/paradedb/superkmeans-rs) · [官网](https://crates.io/crates/superkmeans-rs) · 组织维护
 
 **SuperKMeans 论文的 Rust 移植：高维向量 k-means 聚类**
 

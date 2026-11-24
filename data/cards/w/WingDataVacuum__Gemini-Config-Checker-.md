@@ -1,6 +1,6 @@
 # WingDataVacuum/Gemini-Config-Checker-
 
-⭐ 469 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/WingDataVacuum/Gemini-Config-Checker-) · 个人维护
+⭐ 464 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/WingDataVacuum/Gemini-Config-Checker-) · 个人维护
 
 **代理配置检测器：核验哪些代理能真正进入 Gemini 与 AI Studio**
 

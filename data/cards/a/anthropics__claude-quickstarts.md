@@ -1,6 +1,6 @@
 # anthropics/claude-quickstarts
 
-⭐ 21,136 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/anthropics/claude-quickstarts) · 组织维护
+⭐ 21,155 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/anthropics/claude-quickstarts) · 组织维护
 
 **帮开发者用 Claude API 快速搭建可部署应用的示例集合**
 

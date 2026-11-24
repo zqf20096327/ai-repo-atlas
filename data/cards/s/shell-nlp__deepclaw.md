@@ -1,6 +1,6 @@
 # shell-nlp/deepclaw
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/shell-nlp/deepclaw) · 组织维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shell-nlp/deepclaw) · 组织维护 · 中文 README
 
 **企业级智能体工作台：单进程提供 Agent 运行时、RAG 与 IM 渠道接入**
 

@@ -1,6 +1,6 @@
 # plastic-labs/tutor-gpt
 
-⭐ 934 · TypeScript · GPL-3.0 · 推送 2026-02-20 · [GitHub](https://github.com/plastic-labs/tutor-gpt) · [官网](https://discord.gg/plasticlabs) · 组织维护
+⭐ 935 · TypeScript · GPL-3.0 · 推送 2026-02-20 · [GitHub](https://github.com/plastic-labs/tutor-gpt) · [官网](https://discord.gg/plasticlabs) · 组织维护
 
 **面向学习者的 LLM 对话辅导应用，动态更新自身提示词**
 

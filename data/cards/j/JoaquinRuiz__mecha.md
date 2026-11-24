@@ -1,6 +1,6 @@
 # JoaquinRuiz/mecha
 
-⭐ 6 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/JoaquinRuiz/mecha) · [官网](https://joaquinruiz.github.io/mecha/) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JoaquinRuiz/mecha) · [官网](https://joaquinruiz.github.io/mecha/) · 个人维护 · 中文 README
 
 **本地仪表盘+CLI：检查 AI API 密钥的有效期与余额**
 

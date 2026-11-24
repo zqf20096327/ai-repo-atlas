@@ -1,6 +1,6 @@
 # jeikl/JeikCode
 
-⭐ 78 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/jeikl/JeikCode) · [官网](https://jeikcode.top) · 个人维护 · 中文 README
+⭐ 78 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/jeikl/JeikCode) · [官网](https://jeikcode.top) · 个人维护 · 中文 README
 
 **Rust 编写的跨平台 AI 编码 Agent（TUI/WebUI/桌面/OpenWrt）**
 

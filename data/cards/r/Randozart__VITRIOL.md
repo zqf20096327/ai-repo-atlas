@@ -1,6 +1,6 @@
 # Randozart/VITRIOL
 
-⭐ 39 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Randozart/VITRIOL) · 个人维护
+⭐ 39 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Randozart/VITRIOL) · 个人维护
 
 **面向老旧/低显存硬件的本地 LLM 推理引擎（llama.cpp 分支）**
 

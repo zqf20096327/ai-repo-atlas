@@ -1,6 +1,6 @@
 # JuliusBrussee/cavemem
 
-⭐ 679 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/JuliusBrussee/cavemem) · [官网](https://caveman.so/) · 个人维护
+⭐ 678 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/JuliusBrussee/cavemem) · [官网](https://caveman.so/) · 个人维护
 
 **为编程助手提供跨 IDE 的本地持久化记忆存储**
 

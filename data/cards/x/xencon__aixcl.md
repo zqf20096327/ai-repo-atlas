@@ -1,6 +1,6 @@
 # xencon/aixcl
 
-⭐ 19 · Shell · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/xencon/aixcl) · [官网](https://www.xenithconsulting.com/) · 个人维护
+⭐ 19 · Shell · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/xencon/aixcl) · [官网](https://www.xenithconsulting.com/) · 个人维护
 
 **自托管本地 LLM 的 Agentic SDLC 平台**
 

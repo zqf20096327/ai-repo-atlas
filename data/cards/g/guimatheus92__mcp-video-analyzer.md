@@ -1,6 +1,6 @@
 # guimatheus92/mcp-video-analyzer
 
-⭐ 133 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/guimatheus92/mcp-video-analyzer) · [官网](https://glama.ai/mcp/servers/guimatheus92/mcp-video-analyzer) · 个人维护
+⭐ 133 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/guimatheus92/mcp-video-analyzer) · [官网](https://glama.ai/mcp/servers/guimatheus92/mcp-video-analyzer) · 个人维护
 
 **把视频转成转录、关键帧、OCR 与元数据的 MCP 服务器**
 

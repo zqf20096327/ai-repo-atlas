@@ -1,6 +1,6 @@
 # cbueth/infomeasure
 
-⭐ 80 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/cbueth/infomeasure) · [官网](https://infomeasure.org/) · 个人维护
+⭐ 81 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/cbueth/infomeasure) · [官网](https://infomeasure.org/) · 个人维护
 
 **计算熵、互信息、传递熵等信息度量的 Python 库**
 

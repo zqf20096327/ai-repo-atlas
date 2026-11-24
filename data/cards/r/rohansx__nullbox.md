@@ -1,6 +1,6 @@
 # rohansx/nullbox
 
-⭐ 11 · Rust · 推送 2026-04-05 · [GitHub](https://github.com/rohansx/nullbox) · [官网](https://nullbox.sh) · 个人维护
+⭐ 12 · Rust · 推送 2026-04-05 · [GitHub](https://github.com/rohansx/nullbox) · [官网](https://nullbox.sh) · 个人维护
 
 **专用于运行自主 AI agent 的不可变极简 Linux 发行版**
 

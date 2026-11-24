@@ -1,6 +1,6 @@
 # huggingface/hf-mount
 
-⭐ 828 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/hf-mount) · 组织维护
+⭐ 829 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/hf-mount) · 组织维护
 
 **把 Hugging Face 仓库挂载为本地文件系统，按需读取不下载**
 

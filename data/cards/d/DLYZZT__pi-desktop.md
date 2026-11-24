@@ -1,6 +1,6 @@
 # DLYZZT/pi-desktop
 
-⭐ 355 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/DLYZZT/pi-desktop) · [官网](https://pi-desktop.app) · 个人维护 · 中文 README
+⭐ 356 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/DLYZZT/pi-desktop) · [官网](https://pi-desktop.app) · 个人维护 · 中文 README
 
 **给 Pi Coding Agent 用户的本地优先跨平台桌面工作台**
 

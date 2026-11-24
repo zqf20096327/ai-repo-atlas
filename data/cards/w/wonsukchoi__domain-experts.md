@@ -1,6 +1,6 @@
 # wonsukchoi/domain-experts
 
-⭐ 28 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wonsukchoi/domain-experts) · [官网](https://domainexperts.dev/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wonsukchoi/domain-experts) · [官网](https://domainexperts.dev/) · 个人维护
 
 **956 个职业专家角色定义库，供 AI agent 按需加载**
 

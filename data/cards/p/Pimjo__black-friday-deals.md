@@ -1,6 +1,6 @@
 # Pimjo/black-friday-deals
 
-⭐ 63 · 推送 2026-11-22 · [GitHub](https://github.com/Pimjo/black-friday-deals) · [官网](https://pimjo.com/black-friday-cyber-monday-deal) · 个人维护
+⭐ 64 · 推送 2026-11-23 · [GitHub](https://github.com/Pimjo/black-friday-deals) · [官网](https://pimjo.com/black-friday-cyber-monday-deal) · 个人维护
 
 **面向开发者与设计师的黑五促销清单：161+ 条工具折扣**
 

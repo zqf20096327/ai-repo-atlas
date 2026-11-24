@@ -1,6 +1,6 @@
 # xbsheng/lakala-cs80
 
-⭐ 20 · Python · 推送 2026-11-17 · [GitHub](https://github.com/xbsheng/lakala-cs80) · 个人维护 · 中文 README
+⭐ 20 · Python · 推送 2026-11-23 · [GitHub](https://github.com/xbsheng/lakala-cs80) · 个人维护 · 中文 README
 
 **把拉卡拉 CS80 客显屏改造成本地副屏，显示画布与 Agent 状态**
 

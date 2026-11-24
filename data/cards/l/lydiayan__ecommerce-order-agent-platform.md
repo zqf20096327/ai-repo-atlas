@@ -1,6 +1,6 @@
 # lydiayan/ecommerce-order-agent-platform
 
-⭐ 13 · Java · MIT · 推送 2026-11-09 · [GitHub](https://github.com/lydiayan/ecommerce-order-agent-platform) · 个人维护 · 中文 README
+⭐ 14 · Java · MIT · 推送 2026-11-09 · [GitHub](https://github.com/lydiayan/ecommerce-order-agent-platform) · 个人维护 · 中文 README
 
 **面向电商订单场景的可观测 AI Agent 平台，带 RAG 与人工审批**
 

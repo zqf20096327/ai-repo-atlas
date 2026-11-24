@@ -1,6 +1,6 @@
 # AOSSIE-Org/OpenVerifiableLLM
 
-⭐ 26 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/AOSSIE-Org/OpenVerifiableLLM) · [官网](https://huggingface.co/datasets/AOSSIE/openverifiable-enwiki-20260901-20260918-r1-evidence) · 组织维护
+⭐ 27 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AOSSIE-Org/OpenVerifiableLLM) · [官网](https://huggingface.co/datasets/AOSSIE/openverifiable-enwiki-20260901-20260918-r1-evidence) · 组织维护
 
 **可逐段复算训练过程的开放权重 LLM 项目（含 23.1M 模型与验证工具）**
 

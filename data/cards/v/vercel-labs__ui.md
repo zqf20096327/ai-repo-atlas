@@ -1,16 +1,16 @@
 # vercel-labs/ui
 
-⭐ 6,535 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vercel-labs/ui) · [官网](https://ui-sdk.dev) · 组织维护
+⭐ 6,812 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vercel-labs/ui) · [官网](https://ui-sdk.dev) · 组织维护
 
-**面向 agent 的无头 UI 行为库，覆盖五大前端框架**
+**供 agent 驱动构建交互 UI 的行为库（headless SDK）**
 
-UI SDK 提供键盘导航、焦点、选择、弹层、拖放及对应 ARIA 行为的 headless 原语（@ui-sdk/core），并为 React、Vue、Svelte、Solid 和 Web Components 提供适配层。其设计面向 AI agent 构建界面：开发者通过 npm 安装核心与框架适配包后，可用 npx skills 命令为 agent 注入 UI SDK 技能，由 agent 组合行为生成组件。README 声明处于 beta 阶段，API 与行为可能在正式版前变化。
+Vercel 出品的 UI SDK（beta）：将键盘导航、焦点、选择、弹层、拖放及所需 ARIA 封装为 @ui-sdk/core 中的行为（behaviors），并提供 React、Vue、Svelte、Solid、Web Components 五种适配器。组件由 createPopup、createSelection、createTypeahead 等行为组合成 primitive，再用 createParts 在各框架渲染相同部件。面向使用 agent 的开发者，通过 npx skills 为 agent 安装 ui-sdk 技能，由 agent 编写行为组合代码；当前处于 beta，API 与行为可能变更。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ UI SDK 提供键盘导航、焦点、选择、弹层、拖放及对应 ARIA 行�
 
 ## 能力要点
 
-- 核心包提供键盘导航、焦点、选择、弹层、拖放等行为及 ARIA 支持
-- 五个框架适配：React/Vue/Svelte/Solid/Web Components
-- 通过 npx skills 命令为 agent 注入 UI SDK 技能
-- 声明处于 beta 阶段，API 可能变更
+- 核心行为（焦点恢复、选择、弹层、拖放等）与 ARIA 封装于 @ui-sdk/core
+- 同一 primitive 输出 React/Vue/Svelte/Solid/Web Components 五种适配器部件
+- 通过 npx skills@latest add 安装 ui-sdk 技能供 agent 使用
+- npm 安装，处于 beta 阶段并受 Vercel beta 条款约束
 
 ## 适用场景
 
-- 让 AI agent 生成带无障碍行为的界面组件
-- 在多框架项目中复用同一套 headless 交互行为
-- 为 agent 构建的前端界面提供键盘与焦点管理
+- 让 agent 生成符合 ARIA 无障碍要求的交互组件
+- 在多框架项目中复用同一套 headless 行为定义
+- 构建搜索框、弹层、类型提示等含键盘导航的部件
 
 ## 场景标签
 
@@ -37,7 +37,7 @@ UI SDK 提供键盘导航、焦点、选择、弹层、拖放及对应 ARIA 行�
 
 ## 证据(README 行号)
 
-> L3: A library of behaviors for agents to build the next generation of user interfaces.
+> L3: A library of behaviors for agents to build and drive the next generation of user interfaces.
 > L5: Keyboard navigation, focus, selection, dismissal, popups, drag and drop and the ARIA they need live in `@ui-sdk/core
 > L21: Then give your agent the UI SDK skill:
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `7ee9c712ba40` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `50f4807977c0` · [字段定义](../../DATASET.md)*

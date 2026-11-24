@@ -1,10 +1,10 @@
 # HKUDS/DeepCode
 
-⭐ 16,860 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HKUDS/DeepCode) · [官网](http://arxiv.org/abs/2512.07921) · 组织维护 · 中文 README
+⭐ 16,859 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HKUDS/DeepCode) · [官网](http://arxiv.org/abs/2512.07921) · 组织维护 · 中文 README
 
-**面向工程实战的开源编码 Agent，多客户端共享本地服务**
+**开源 Coding Agent：让开发者可靠完成真实工程任务**
 
-DeepCode 是一个开源编码 Agent：读取项目结构、编辑文件、运行命令与测试，以 Goal 形式执行长程任务。其机制包括完成度核验（运行用户确认的检查清单并可选独立评审）、压缩上下文保留原句、由本地后台服务持久化 Goal 与会话，支持中断/重启/切换模型后继续。提供 TUI、Desktop、Web 与 headless 四种客户端共享同一服务，支持 Ask/Read only/Full access 权限分级与 OS 沙箱；自我演化功能为规划中、尚未发布。安装需 Python 3.12+ 与支持工具调用的模型。
+面向真实软件工程的开源 Coding Agent：理解项目、编辑代码、运行命令与测试，并跨中断/重启/换模型继续任务。核心机制包括经检查清单与独立评审验证的完成判定、上下文压缩与自动停止的 Goal 管理、由本地后台服务保有的持久化状态。提供 TUI、Desktop、Web 与 headless 四类客户端，共享同一本地服务；权限分级、OS 沙箱与 diff 审查控制 agent 行为。需 Python 3.12+，模型须支持工具调用。
 
 ## 筛选速览
 
@@ -26,26 +26,27 @@ DeepCode 是一个开源编码 Agent：读取项目结构、编辑文件、运�
 
 ## 能力要点
 
-- 完成度核验机制：运行确认清单并可选独立评审，不达标回退给 Agent
-- 本地后台服务持久化 Goals、会话与审批，跨客户端续接
-- 权限分级（Ask/Read only/Full access）与 shell 沙箱、编辑以 diff 展示
-- 内置 14 个 provider 模板，支持自定义 OpenAI/Anthropic 兼容端点
+- Verified completion：运行确认清单并由独立评审证明每条需求
+- 四客户端共享本地服务，会话跨重启与模型切换延续
+- 14 个内置 provider 模板与自定义 OpenAI/Anthropic 兼容端点
+- MCP 客户端与服务端、Skills 插件体系、定时 Automations
 
 ## 适用场景
 
-- 让 Agent 在真实仓库中完成多步骤修改并自动跑测试核验
-- 在终端与浏览器之间续接同一个开发会话
-- 接入自有模型端点或本地模型驱动编码任务
+- 让 agent 在我的仓库里完成多步骤改动并通过测试验证
+- 在终端、浏览器和桌面之间续接同一个编码会话
+- 把论文或技术文档转成代码库（Paper2Code）
+- 定时运行固定的指令自动化任务
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `代码生成` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L76: DeepCode is an open-source Coding Agent for real software engineering. Give it
-> L123: - **Any model.** Use any of 14 built-in providers, your own OpenAI- or
-> L113: - **One session, four clients.** Turns run in a local background service,
+> L68: DeepCode is an open-source Coding Agent for real software engineering. Give it
+> L105: - **One session, four clients.** Turns run in a local background service,
+> L29: DeepCode provides TUI, Desktop, and Web clients over one shared local service.
 
 ## 星数曲线
 
@@ -61,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f4f9c2ddb7c9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e6d1a3d18058` · [字段定义](../../DATASET.md)*

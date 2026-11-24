@@ -1,6 +1,6 @@
 # kubernetes-sigs/agent-sandbox
 
-⭐ 4,683 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/kubernetes-sigs/agent-sandbox) · [官网](https://agent-sandbox.sigs.k8s.io) · 组织维护
+⭐ 4,696 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kubernetes-sigs/agent-sandbox) · [官网](https://agent-sandbox.sigs.k8s.io) · 组织维护
 
 **Kubernetes 上的沙箱编排器：为 AI agent 运行时提供隔离有状态工作负载**
 

@@ -1,6 +1,6 @@
 # Cristallin2006/DSH-CTF-Mode
 
-⭐ 3 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Cristallin2006/DSH-CTF-Mode) · [官网](https://github.com/Cristallin2006/DSH-CTF-Skill/blob/main/docs/QUICKSTART.md) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Cristallin2006/DSH-CTF-Mode) · [官网](https://github.com/Cristallin2006/DSH-CTF-Skill/blob/main/docs/QUICKSTART.md) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 提供全栈 CTF 解题技能与子代理编排**
 

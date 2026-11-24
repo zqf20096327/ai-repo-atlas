@@ -1,6 +1,6 @@
 # momentic-ai/cli
 
-⭐ 14 · 推送 2026-11-22 · [GitHub](https://github.com/momentic-ai/cli) · [官网](https://momentic.ai/docs) · 组织维护
+⭐ 14 · 推送 2026-11-24 · [GitHub](https://github.com/momentic-ai/cli) · [官网](https://momentic.ai/docs) · 组织维护
 
 **Momentic 官方 CLI：用自然语言构建与运行端到端测试**
 

@@ -1,6 +1,6 @@
 # roomi-fields/gemini-notebook-mcp
 
-⭐ 242 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/roomi-fields/gemini-notebook-mcp) · [官网](https://notebooklm.roomi-fields.com/) · 个人维护
+⭐ 243 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/roomi-fields/gemini-notebook-mcp) · [官网](https://notebooklm.roomi-fields.com/) · 个人维护
 
 **让 Agent 与自动化平台以 REST/MCP 调用 NotebookLM 的服务器**
 

@@ -1,6 +1,6 @@
 # AkaliKong/MiniOneRec
 
-⭐ 1,986 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/AkaliKong/MiniOneRec) · 个人维护
+⭐ 1,987 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/AkaliKong/MiniOneRec) · 个人维护
 
 **开源生成式推荐复现框架：SID 构建+ SFT + 推荐向 RL 全流程**
 

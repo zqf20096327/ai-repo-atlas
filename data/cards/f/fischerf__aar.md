@@ -1,6 +1,6 @@
 # fischerf/aar
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/fischerf/aar) · 个人维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fischerf/aar) · 个人维护
 
 **面向开发者的开源编码 Agent，提供 CLI/TUI/IDE 集成**
 

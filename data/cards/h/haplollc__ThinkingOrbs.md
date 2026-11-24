@@ -1,6 +1,6 @@
 # haplollc/ThinkingOrbs
 
-⭐ 351 · Swift · MIT · 推送 2026-11-06 · [GitHub](https://github.com/haplollc/ThinkingOrbs) · 组织维护
+⭐ 414 · Swift · MIT · 推送 2026-11-06 · [GitHub](https://github.com/haplollc/ThinkingOrbs) · 组织维护
 
 **给 SwiftUI AI/Agent 界面用的 3D 点阵加载指示器组件库**
 

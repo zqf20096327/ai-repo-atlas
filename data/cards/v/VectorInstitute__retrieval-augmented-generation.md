@@ -1,6 +1,6 @@
 # VectorInstitute/retrieval-augmented-generation
 
-⭐ 38 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/VectorInstitute/retrieval-augmented-generation) · 组织维护
+⭐ 38 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/VectorInstitute/retrieval-augmented-generation) · 组织维护
 
 **RAG 训练营参考实现集合：笔记本演示 RAG 各环节方法**
 

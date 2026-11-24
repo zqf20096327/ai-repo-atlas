@@ -1,6 +1,6 @@
 # a-lottes/aSPARK
 
-⭐ 25 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/a-lottes/aSPARK) · [官网](https://aspark.lottes.dev) · 个人维护
+⭐ 26 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/a-lottes/aSPARK) · [官网](https://aspark.lottes.dev) · 个人维护
 
 **Claude Code 插件：带质量门禁的敏捷 AI 产品团队流程**
 

@@ -1,6 +1,6 @@
 # kayba-ai/recursive-improve
 
-⭐ 304 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/kayba-ai/recursive-improve) · [官网](https://kayba.ai/) · 组织维护
+⭐ 306 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/kayba-ai/recursive-improve) · [官网](https://kayba.ai/) · 组织维护
 
 **让编码 agent 递归自我改进的追踪与评测工具**
 

@@ -1,6 +1,6 @@
 # langchain-ai/docs
 
-⭐ 456 · MDX · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/docs) · [官网](https://docs.langchain.com) · 组织维护
+⭐ 457 · MDX · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/docs) · [官网](https://docs.langchain.com) · 组织维护
 
 **LangChain 全家桶官方文档仓库与构建管线**
 

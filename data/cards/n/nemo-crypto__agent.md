@@ -1,6 +1,6 @@
 # nemo-crypto/agent
 
-⭐ 36 · Go · 推送 2026-11-13 · [GitHub](https://github.com/nemo-crypto/agent) · 个人维护 · 中文 README
+⭐ 38 · Go · 推送 2026-11-13 · [GitHub](https://github.com/nemo-crypto/agent) · 个人维护 · 中文 README
 
 **契约驱动的 AI 全栈开发实践工程与 Agent 工作流**
 

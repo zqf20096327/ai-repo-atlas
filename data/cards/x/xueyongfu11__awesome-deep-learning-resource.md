@@ -1,6 +1,6 @@
 # xueyongfu11/awesome-deep-learning-resource
 
-⭐ 71 · 推送 2026-11-14 · [GitHub](https://github.com/xueyongfu11/awesome-deep-learning-resource) · 个人维护 · 中文 README
+⭐ 71 · 推送 2026-11-23 · [GitHub](https://github.com/xueyongfu11/awesome-deep-learning-resource) · 个人维护 · 中文 README
 
 **个人深度学习论文笔记与开源资源分类整理仓库**
 

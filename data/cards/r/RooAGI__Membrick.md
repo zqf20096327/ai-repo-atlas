@@ -1,6 +1,6 @@
 # RooAGI/Membrick
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/RooAGI/Membrick) · [官网](https://rooagi.github.io/Membrick/) · 组织维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/RooAGI/Membrick) · [官网](https://rooagi.github.io/Membrick/) · 组织维护
 
 **给 AI 编码代理提供带时效证据的持久记忆层**
 

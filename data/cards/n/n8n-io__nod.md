@@ -1,10 +1,10 @@
 # n8n-io/nod
 
-⭐ 3,104 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/n8n-io/nod) · [官网](https://nod.n8n.io/) · 组织维护
+⭐ 3,277 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/n8n-io/nod) · [官网](https://nod.n8n.io/) · 组织维护
 
-**开源自用个人 agent，自带电脑与浏览器替你跑真实网站任务**
+**本地运行的个人 AI 代理，代替用户在真实网站执行任务**
 
-n8n 团队推出的开源桌面个人 agent（Electron 应用），在用户本机或自有服务器运行，通过自有浏览器与应用连接执行追讨发票、生成通话简报、草拟 Slack 回复、定时页面监控等任务；每次可能改变状态的操作需用户批准后执行。架构为 Node.js 进程加 Docker 容器，信任检查、密码 Vault 与支出限制置于服务端而非提示词；记忆逐条可见可编辑，风格学习仅来自用户已发邮件。当前为 research preview，需 ChatGPT Plus/Pro 或 API key。
+n8n 团队出品的开源个人代理，自带独立计算机与浏览器环境，可跨 Gmail、Calendar、Slack、Notion 及网页执行追账单、准备通话简报、取消试用等任务，并在代替用户操作前先请求确认。运行在用户本机或自有服务器，数据与记忆留存本地；服务器侧执行信任检查，密码由 Vault 私密注入而不进入模型。提供 Mac/Windows 安装包，Linux 为预览版；底层为 Node.js 24 上的 TypeScript 进程加 Docker 容器。当前为 research preview 状态。
 
 ## 筛选速览
 
@@ -13,34 +13,33 @@ n8n 团队推出的开源桌面个人 agent（Electron 应用），在用户本�
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 本地优先：文件、记忆、登录凭据留在本机或自有服务器
-- 模型可选：OpenAI、Anthropic、Gemini、OpenRouter、Bedrock、Vertex AI、Azure 等 20+ 提供商或自有服务器
-- 服务端信任检查：未覆盖的网站步骤等待用户批准
-- 实测指标：226 项任务 98% 完成、678 次运行 0 次不安全操作（模拟环境）
+- 自带浏览器与计算机环境，在真实网站完成任务并支持浏览器自动化
+- 动作经信任检查，未被规则覆盖的操作需用户确认后执行
+- 本地记忆系统：偏好、写作风格、任务步骤均可记忆并可见可编辑
+- 支持 OpenAI、Anthropic、Gemini、OpenRouter、Bedrock 等 20+ 模型来源或自有服务器
 
 ## 适用场景
 
-- 自动追讨发票、取消试用等需要登录网站的多步任务
-- 每天早上根据消息与日历自动生成通话简报
-- 定时监控页面价格变动并只在变化时通知
-- 按我的定价表草拟回复并在我批准后发送
+- 每天早上自动生成一页通话简报
+- 起草 Slack/邮件回复并在批准后发送
+- 定时监测页面价格变动并报告
+- 代替用户在网站上完成登录、表单等多步任务
 
 ## 场景标签
 
-`浏览器自动化` `AI 助手` · 领域:效率与自动化
+`浏览器自动化` `GUI 自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L1: n8n presents Nod: open source personal agent with its own computer
-> L43:  Jobs that eat an afternoon of tabs, logins, and forms. Nod has its own computer and browser, so it finishes them.
-> L100: - **Built with** TypeScript on Node.js 24, Fastify, React, PostgreSQL with pg-boss, the Pi agent runtime, agent-br
+> L4:  It chases invoices, preps your calls and cancels trials, on real websites.
+> L79: - **Uses the model you choose.** OpenAI, Anthropic, Gemini, OpenRouter, Bedrock, Vertex AI, Azure, 20+ more, or you
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `db32496515f3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a6a9cd6abbe0` · [字段定义](../../DATASET.md)*

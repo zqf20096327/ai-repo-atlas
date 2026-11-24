@@ -1,6 +1,6 @@
 # baojingyu/dsh-superagent-multi-channel
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/baojingyu/dsh-superagent-multi-channel) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/baojingyu/dsh-superagent-multi-channel) · 个人维护 · 中文 README
 
 **为 DSH 超级智能体接入六渠道消息的插件**
 

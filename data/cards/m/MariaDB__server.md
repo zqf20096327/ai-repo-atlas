@@ -1,6 +1,6 @@
 # MariaDB/server
 
-⭐ 8,647 · C++ · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/MariaDB/server) · [官网](https://mariadb.org) · 组织维护
+⭐ 8,648 · C++ · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MariaDB/server) · [官网](https://mariadb.org) · 组织维护
 
 **开源关系型数据库：MySQL 兼容分支，含原生向量检索**
 

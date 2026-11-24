@@ -1,6 +1,6 @@
 # iamsouravmourya-jpg/ShadRox
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/iamsouravmourya-jpg/ShadRox) · [官网](https://www.shadrox.cyou) · 个人维护
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/iamsouravmourya-jpg/ShadRox) · [官网](https://www.shadrox.cyou) · 个人维护
 
 **面向开发者的 Windows 本地 AI 编码工作区：编辑器+BYOK聊天+Agent**
 

@@ -1,6 +1,6 @@
 # MarimerLLC/rockbot
 
-⭐ 38 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MarimerLLC/rockbot) · 个人维护
+⭐ 38 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MarimerLLC/rockbot) · 个人维护
 
 **事件驱动的多 agent AI 框架：agent 经消息总线通信与隔离执行**
 

@@ -1,6 +1,6 @@
 # agentscope-ai/Trinity-RFT
 
-⭐ 713 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/agentscope-ai/Trinity-RFT) · [官网](https://agentscope-ai.github.io/Trinity-RFT/) · 组织维护 · 中文 README
+⭐ 714 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/agentscope-ai/Trinity-RFT) · [官网](https://agentscope-ai.github.io/Trinity-RFT/) · 组织维护 · 中文 README
 
 **面向开发与研究的 LLM 强化微调通用框架**
 

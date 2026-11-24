@@ -1,6 +1,6 @@
 # davidmigloz/langchain_dart
 
-⭐ 687 · Dart · MIT · 推送 2026-11-16 · [GitHub](https://github.com/davidmigloz/langchain_dart) · [官网](http://davidmigloz.github.io/langchain_dart/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **LangChain 的 Dart/Flutter 移植版：构建 LLM 应用框架**
 
@@ -11,7 +11,7 @@ LangChain.dart 是 LangChain Python 框架的非官方 Dart 移植版，为 Dart
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

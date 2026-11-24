@@ -1,6 +1,6 @@
 # fabricioctelles/jump-skills
 
-⭐ 33 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fabricioctelles/jump-skills) · [官网](https://jumpskills.ninja) · 个人维护
+⭐ 34 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fabricioctelles/jump-skills) · [官网](https://jumpskills.ninja) · 个人维护
 
 **AI 编码 agent 的元技能集合：按需路由到各云厂商专家技能**
 

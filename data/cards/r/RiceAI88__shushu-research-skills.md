@@ -1,6 +1,6 @@
 # RiceAI88/shushu-research-skills
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/RiceAI88/shushu-research-skills) · [官网](https://riceai985.cc/) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RiceAI88/shushu-research-skills) · [官网](https://riceai985.cc/) · 个人维护 · 中文 README
 
 **面向大学生的科研 Agent Skills 按专业与任务导航站**
 

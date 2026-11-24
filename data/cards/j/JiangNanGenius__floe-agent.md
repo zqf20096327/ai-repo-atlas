@@ -1,6 +1,6 @@
 # JiangNanGenius/floe-agent
 
-⭐ 461 · Swift · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/JiangNanGenius/floe-agent) · [官网](https://www.floe-agent.com/) · 个人维护 · 中文 README
+⭐ 477 · Swift · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/JiangNanGenius/floe-agent) · [官网](https://www.floe-agent.com/) · 个人维护 · 中文 README
 
 **面向 iPhone/iPad 与 Android 的设备端 AI 智能体工作台**
 

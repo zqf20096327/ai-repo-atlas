@@ -1,6 +1,6 @@
 # cihadkocasahan/Awesome-Delphi-AI
 
-⭐ 6 · 推送 2026-11-18 · [GitHub](https://github.com/cihadkocasahan/Awesome-Delphi-AI) · [官网](https://github.com/cihadkocasahan/Awesome-Delphi-AI) · 个人维护 · 中文 README
+⭐ 7 · 推送 2026-11-18 · [GitHub](https://github.com/cihadkocasahan/Awesome-Delphi-AI) · [官网](https://github.com/cihadkocasahan/Awesome-Delphi-AI) · 个人维护 · 中文 README
 
 **面向 Delphi 开发者的 AI 工具与 MCP 服务器目录清单**
 

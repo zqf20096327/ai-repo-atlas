@@ -1,6 +1,6 @@
 # Besty0728/Unity-Skills
 
-⭐ 1,962 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Besty0728/Unity-Skills) · [官网](https://www.micostar.cc) · 组织维护 · 中文 README
+⭐ 1,969 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Besty0728/Unity-Skills) · [官网](https://www.micostar.cc) · 组织维护 · 中文 README
 
 **让 AI 代理通过 REST 接口直接操作 Unity 编辑器的技能集**
 

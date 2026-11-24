@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hunyuan-GameCraft-1.0
 
-⭐ 765 · Python · NOASSERTION · 推送 2025-11-28 · [GitHub](https://github.com/Tencent-Hunyuan/Hunyuan-GameCraft-1.0) · [官网](https://hunyuan-gamecraft.github.io/) · 组织维护 · 中文 README
+⭐ — · [GitHub]() · 组织维护 · 中文 README
 
 **腾讯混元游戏视频生成模型：键盘鼠标交互式生成游戏画面**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-24g` | |

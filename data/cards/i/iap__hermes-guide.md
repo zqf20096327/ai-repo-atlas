@@ -1,6 +1,6 @@
 # iap/hermes-guide
 
-⭐ 28 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/iap/hermes-guide) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/iap/hermes-guide) · 个人维护
 
 **Hermes Agent 的自诊断插件与故障排查技能集**
 

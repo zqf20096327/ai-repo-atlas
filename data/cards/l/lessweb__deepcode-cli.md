@@ -1,6 +1,6 @@
 # lessweb/deepcode-cli
 
-⭐ 2,186 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lessweb/deepcode-cli) · [官网](https://deepcode.vegamo.cn) · 组织维护 · 中文 README
+⭐ 2,188 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lessweb/deepcode-cli) · [官网](https://deepcode.vegamo.cn) · 组织维护 · 中文 README
 
 **面向开发者的 DeepSeek 优化终端 AI 编码助手**
 

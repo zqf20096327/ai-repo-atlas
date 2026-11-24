@@ -1,6 +1,6 @@
 # Ashford-A/UniVI
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Ashford-A/UniVI) · [官网](https://univi.readthedocs.io) · 组织维护
+⭐ 11 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Ashford-A/UniVI) · [官网](https://univi.readthedocs.io) · 组织维护
 
 **单细胞多模态 VAE 工具包：将异构单细胞数据对齐到共享潜空间**
 

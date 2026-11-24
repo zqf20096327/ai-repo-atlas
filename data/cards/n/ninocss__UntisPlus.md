@@ -1,6 +1,6 @@
 # ninocss/UntisPlus
 
-⭐ 45 · Dart · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ninocss/UntisPlus) · [官网](https://nino161er.tech) · 个人维护
+⭐ 45 · Dart · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ninocss/UntisPlus) · [官网](https://nino161er.tech) · 个人维护
 
 **隐私优先的 WebUntis 客户端：课表、考试、空闲教室与本地 AI 助手**
 

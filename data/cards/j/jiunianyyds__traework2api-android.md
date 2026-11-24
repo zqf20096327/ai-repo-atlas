@@ -1,6 +1,6 @@
 # jiunianyyds/traework2api-android
 
-⭐ 15 · Kotlin · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jiunianyyds/traework2api-android) · 个人维护 · 中文 README
+⭐ 16 · Kotlin · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jiunianyyds/traework2api-android) · 个人维护 · 中文 README
 
 **Android 本地 API 网关：把 Trae 账号额度转为 OpenAI 兼容 API**
 

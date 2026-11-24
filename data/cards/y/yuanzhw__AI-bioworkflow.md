@@ -1,6 +1,6 @@
 # yuanzhw/AI-bioworkflow
 
-⭐ 96 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/yuanzhw/AI-bioworkflow) · [官网](https://yuanzhw.com) · 个人维护 · 中文 README
+⭐ 95 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/yuanzhw/AI-bioworkflow) · [官网](https://yuanzhw.com) · 个人维护 · 中文 README
 
 **面向生信分析的 LLM 规划约束型工作流编译器，生成可审计 WDL 1.0**
 

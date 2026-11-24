@@ -1,6 +1,6 @@
 # sums001/Deepseek-API
 
-⭐ 381 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sums001/Deepseek-API) · 个人维护
+⭐ 382 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sums001/Deepseek-API) · 个人维护
 
 **将 DeepSeek 网页聊天封装成 OpenAI 兼容本地 API 的桥梁**
 

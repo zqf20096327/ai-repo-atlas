@@ -1,6 +1,6 @@
 # fanyzp/unofficial-instagram-mcp
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fanyzp/unofficial-instagram-mcp) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/fanyzp/unofficial-instagram-mcp) · 个人维护
 
 **给 AI agent 提供 Instagram 消息/主页/帖子操作工具的 MCP 服务器**
 

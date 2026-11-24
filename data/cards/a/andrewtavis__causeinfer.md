@@ -1,6 +1,6 @@
 # andrewtavis/causeinfer
 
-⭐ 65 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/andrewtavis/causeinfer) · 个人维护
+⭐ 65 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/andrewtavis/causeinfer) · [官网](https://codeberg.org/andrewtavis/causeinfer) · 个人维护
 
 **Python 因果推断/uplift 机器学习库：估计处理效应**
 

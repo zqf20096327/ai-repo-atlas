@@ -1,6 +1,6 @@
 # Decodo/cli
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Decodo/cli) · [官网](https://decodo.com/scraping/web) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Decodo/cli) · [官网](https://decodo.com/scraping/web) · 组织维护
 
 **终端网页抓取 CLI，供脚本与 AI agent 调用获取网页数据**
 

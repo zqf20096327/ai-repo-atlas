@@ -1,6 +1,6 @@
 # Open-course-ai/open-course-cli
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Open-course-ai/open-course-cli) · [官网](https://open-course.eu) · 个人维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Open-course-ai/open-course-cli) · [官网](https://open-course.eu) · 个人维护
 
 **终端里的 AI 语言学习导师：练习与讲解由所选 LLM 生成**
 

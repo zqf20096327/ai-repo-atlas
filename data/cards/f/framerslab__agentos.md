@@ -1,6 +1,6 @@
 # framerslab/agentos
 
-⭐ 691 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/framerslab/agentos) · [官网](https://docs.agentos.sh) · 组织维护
+⭐ 691 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/framerslab/agentos) · [官网](https://docs.agentos.sh) · 组织维护
 
 **TypeScript AI agent 框架：持久认知记忆与运行时工具锻造**
 

@@ -1,6 +1,6 @@
 # MauroDruwel/NIMStats
 
-⭐ 60 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/MauroDruwel/NIMStats) · [官网](https://nimstats.maurodruwel.be) · 个人维护
+⭐ 61 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MauroDruwel/NIMStats) · [官网](https://nimstats.maurodruwel.be) · 个人维护
 
 **GitHub Actions 驱动的 NVIDIA NIM 模型每小时自动化基准与仪表盘**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

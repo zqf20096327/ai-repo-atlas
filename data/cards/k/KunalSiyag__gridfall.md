@@ -1,6 +1,6 @@
 # KunalSiyag/gridfall
 
-⭐ 5 · GDScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/KunalSiyag/gridfall) · [官网](https://kunalsiyag.github.io/gridfall/) · 个人维护
+⭐ 5 · GDScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KunalSiyag/gridfall) · [官网](https://kunalsiyag.github.io/gridfall/) · 个人维护
 
 **由 5 个 AI 市长与约 100 个 AI 居民驱动的 SimCity 式城市模拟**
 

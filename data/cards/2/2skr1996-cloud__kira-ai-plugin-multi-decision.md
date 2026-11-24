@@ -1,6 +1,6 @@
 # 2skr1996-cloud/kira-ai-plugin-multi-decision
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/2skr1996-cloud/kira-ai-plugin-multi-decision) · 个人维护 · 中文 README
 
 **KiraAI 群聊插件：接管回复判定与上下文窗口管理**
 

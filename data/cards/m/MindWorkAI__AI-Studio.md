@@ -1,6 +1,6 @@
 # MindWorkAI/AI-Studio
 
-⭐ 593 · C# · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/MindWorkAI/AI-Studio) · [官网](https://MindWorkAI.org/) · 组织维护
+⭐ 593 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MindWorkAI/AI-Studio) · [官网](https://MindWorkAI.org/) · 组织维护
 
 **跨平台桌面 LLM 客户端：统一界面接入本地与云端各家模型**
 

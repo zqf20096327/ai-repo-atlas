@@ -1,6 +1,6 @@
 # Hamza-Abili/opencode-telegram-notify
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Hamza-Abili/opencode-telegram-notify) · [官网](https://www.npmjs.com/package/@hamzaabili/opencode-telegram-notify) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Hamza-Abili/opencode-telegram-notify) · [官网](https://www.npmjs.com/package/@hamzaabili/opencode-telegram-notify) · 个人维护
 
 **OpenCode 的 Telegram 通知插件：手机上点按钮批权限**
 

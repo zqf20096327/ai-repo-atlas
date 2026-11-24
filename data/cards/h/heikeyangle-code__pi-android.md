@@ -1,6 +1,6 @@
 # heikeyangle-code/pi-android
 
-⭐ 22 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/heikeyangle-code/pi-android) · 个人维护 · 中文 README
+⭐ 22 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/heikeyangle-code/pi-android) · 个人维护 · 中文 README
 
 **在安卓手机本地运行 pi coding agent 的应用，保留完整扩展生态**
 

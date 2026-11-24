@@ -1,6 +1,6 @@
 # fraiseql/fraiseql-python
 
-⭐ 23 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/fraiseql/fraiseql-python) · [官网](https://fraiseql.dev) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fraiseql/fraiseql-python) · [官网](https://fraiseql.dev) · 个人维护
 
 **基于 FastAPI 的 Python GraphQL 框架，以 PostgreSQL 为中心**
 

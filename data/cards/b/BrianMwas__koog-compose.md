@@ -1,6 +1,6 @@
 # BrianMwas/koog-compose
 
-⭐ 15 · Kotlin · 推送 2026-08-24 · [GitHub](https://github.com/BrianMwas/koog-compose) · 个人维护
+⭐ 16 · Kotlin · 推送 2026-08-24 · [GitHub](https://github.com/BrianMwas/koog-compose) · 个人维护
 
 **Kotlin Multiplatform 库：在 Compose 中构建端上 AI agent**
 

@@ -1,6 +1,6 @@
 # llmsecrets/llm-secrets
 
-⭐ 32 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/llmsecrets/llm-secrets) · [官网](https://llmsecrets.com) · 组织维护
+⭐ 32 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/llmsecrets/llm-secrets) · [官网](https://llmsecrets.com) · 组织维护
 
 **用硬件密钥保护 .env 密钥不被 AI 编程助手读取的加密金库**
 

@@ -1,6 +1,6 @@
 # ballerina-platform/module-ballerina-ai
 
-⭐ 19 · Ballerina · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/ballerina-platform/module-ballerina-ai) · 组织维护
+⭐ 20 · Ballerina · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/ballerina-platform/module-ballerina-ai) · 组织维护
 
 **Ballerina 语言的 AI agent 构建库**
 

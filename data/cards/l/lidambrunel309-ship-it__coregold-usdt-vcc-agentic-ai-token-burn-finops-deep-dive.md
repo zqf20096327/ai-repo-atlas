@@ -1,6 +1,6 @@
 # lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive
 
-⭐ 12 · 推送 2026-11-20 · [GitHub](https://github.com/lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 34 · 推送 2026-11-20 · [GitHub](https://github.com/lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **讲解 AI Agent 高频扣款风险与 CoreGold 虚拟卡开卡实操**
 

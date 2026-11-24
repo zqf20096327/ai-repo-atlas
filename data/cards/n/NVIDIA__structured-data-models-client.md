@@ -1,6 +1,6 @@
 # NVIDIA/structured-data-models-client
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/structured-data-models-client) · [官网](https://github.com/NVIDIA/structured-data-models-client) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/structured-data-models-client) · [官网](https://github.com/NVIDIA/structured-data-models-client) · 组织维护
 
 **面向 NVIDIA 表格/关系型基础模型的预测查询 Python 客户端**
 

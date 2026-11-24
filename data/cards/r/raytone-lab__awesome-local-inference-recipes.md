@@ -1,6 +1,6 @@
 # raytone-lab/awesome-local-inference-recipes
 
-⭐ 4 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/raytone-lab/awesome-local-inference-recipes) · [官网](https://raytone-lab.github.io/awesome-local-inference-recipes/) · 组织维护 · 中文 README
+⭐ 4 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/raytone-lab/awesome-local-inference-recipes) · [官网](https://raytone-lab.github.io/awesome-local-inference-recipes/) · 组织维护 · 中文 README
 
 **本地 AI 推理速度实测数据集：模型×引擎×硬件的来源可查清单**
 

@@ -1,6 +1,6 @@
 # pablocaeg/sloptotal
 
-⭐ 134 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/pablocaeg/sloptotal) · [官网](https://sloptotal.com) · 个人维护 · 中文 README
+⭐ 138 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pablocaeg/sloptotal) · [官网](https://sloptotal.com) · 个人维护 · 中文 README
 
 **自托管开源 AI 文本检测器：23 引擎并行，输出单一校准分数**
 

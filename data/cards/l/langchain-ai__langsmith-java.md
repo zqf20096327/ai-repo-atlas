@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-java
 
-⭐ 34 · Kotlin · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/langsmith-java) · 组织维护
+⭐ 34 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langsmith-java) · 组织维护
 
 **LangSmith 平台的 Java SDK：供 Java 应用访问其 REST API**
 

@@ -1,6 +1,6 @@
 # Bin-Cao/awesome-xrd2crystal
 
-⭐ 26 · HTML · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Bin-Cao/awesome-xrd2crystal) · [官网](https://bin-cao.github.io/awesome-xrd2crystal/) · 组织维护 · 中文 README
+⭐ 27 · HTML · MIT · 推送 2026-07-14 · [GitHub](https://github.com/Bin-Cao/awesome-xrd2crystal) · [官网](https://bin-cao.github.io/awesome-xrd2crystal/) · 组织维护 · 中文 README
 
 **PXRD→晶体结构方向的论文/代码/数据集策展清单**
 

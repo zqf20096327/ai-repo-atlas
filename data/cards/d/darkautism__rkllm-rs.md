@@ -1,6 +1,6 @@
 # darkautism/rkllm-rs
 
-⭐ 13 · Rust · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/darkautism/rkllm-rs) · [官网](https://github.com/darkautism/rkllm-rs) · 个人维护
+⭐ 13 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/darkautism/rkllm-rs) · [官网](https://github.com/darkautism/rkllm-rs) · 个人维护
 
 **RKLLM Runtime 的 Rust FFI 绑定：在 RK3588 上运行本地 LLM**
 

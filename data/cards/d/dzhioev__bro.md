@@ -1,6 +1,6 @@
 # dzhioev/bro
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dzhioev/bro) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dzhioev/bro) · 个人维护
 
 **面向开发者的多 AI agent 声明式框架：一处声明、沙箱运行**
 

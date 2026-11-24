@@ -1,6 +1,6 @@
 # icaros-usc/pyribs
 
-⭐ 270 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/icaros-usc/pyribs) · [官网](https://pyribs.org) · 组织维护
+⭐ 270 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/icaros-usc/pyribs) · [官网](https://pyribs.org) · 组织维护
 
 **质量多样性（QD）优化的 Python 库，面向科研与算法开发者**
 

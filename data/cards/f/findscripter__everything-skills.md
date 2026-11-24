@@ -1,6 +1,6 @@
 # findscripter/everything-skills
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/findscripter/everything-skills) · [官网](https://findscripter.github.io/everything-skills/) · 个人维护 · 中文 README
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/findscripter/everything-skills) · [官网](https://findscripter.github.io/everything-skills/) · 个人维护 · 中文 README
 
 **按任务查找/组合/安装 Agent Skills 的技能目录与索引工具**
 

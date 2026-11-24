@@ -1,6 +1,6 @@
 # orkunkinay/openai_cost_calculator
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/orkunkinay/openai_cost_calculator) · [官网](https://orkunkinay.github.io/openai_cost_calculator/) · 个人维护
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/orkunkinay/openai_cost_calculator) · [官网](https://orkunkinay.github.io/openai_cost_calculator/) · 个人维护
 
 **计算 13 家 LLM API 调用精确美元成本的 Python 库**
 

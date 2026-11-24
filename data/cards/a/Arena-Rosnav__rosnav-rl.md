@@ -1,6 +1,6 @@
 # Arena-Rosnav/rosnav-rl
 
-⭐ 109 · Python · 推送 2026-11-19 · [GitHub](https://github.com/Arena-Rosnav/rosnav-rl) · [官网](https://docs.arena-rosnav.org/en/latest/arena_training/) · 组织维护
+⭐ 110 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Arena-Rosnav/rosnav-rl) · [官网](https://docs.arena-rosnav.org/en/latest/arena_training/) · 组织维护
 
 **面向科研的 ROS2 机器人 DRL 导航模块化训练与部署框架**
 

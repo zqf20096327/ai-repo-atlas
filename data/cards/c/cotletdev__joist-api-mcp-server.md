@@ -1,6 +1,6 @@
 # cotletdev/joist-api-mcp-server
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/joist-api-mcp-server) · [官网](https://cotlet.dev/integrations/joist-api-mcp-server) · 组织维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/joist-api-mcp-server) · [官网](https://cotlet.dev/integrations/joist-api-mcp-server) · 组织维护
 
 **把 Joist 接入 ChatGPT/Claude 等 AI 代理的 MCP 服务器与 REST API**
 

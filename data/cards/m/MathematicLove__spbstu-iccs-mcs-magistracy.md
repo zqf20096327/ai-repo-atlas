@@ -1,6 +1,6 @@
 # MathematicLove/spbstu-iccs-mcs-magistracy
 
-⭐ 19 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/MathematicLove/spbstu-iccs-mcs-magistracy) · 个人维护
+⭐ 19 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MathematicLove/spbstu-iccs-mcs-magistracy) · 个人维护
 
 **硕士学习课程作业与论文的存档仓库（俄语）**
 

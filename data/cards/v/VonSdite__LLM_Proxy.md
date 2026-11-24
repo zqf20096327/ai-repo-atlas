@@ -1,6 +1,6 @@
 # VonSdite/LLM_Proxy
 
-⭐ 74 · Python · 推送 2026-11-22 · [GitHub](https://github.com/VonSdite/LLM_Proxy) · 个人维护 · 中文 README
+⭐ 75 · Python · 推送 2026-11-22 · [GitHub](https://github.com/VonSdite/LLM_Proxy) · 个人维护 · 中文 README
 
 **统一 LLM 接入层：多上游多协议代理与凭据池管理**
 

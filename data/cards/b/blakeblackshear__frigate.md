@@ -1,6 +1,6 @@
 # blakeblackshear/frigate
 
-⭐ 37,842 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/blakeblackshear/frigate) · [官网](https://frigate.video) · 组织维护 · 中文 README
+⭐ 37,886 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/blakeblackshear/frigate) · [官网](https://frigate.video) · 组织维护 · 中文 README
 
 **本地实时目标检测的 IP 摄像头 NVR**
 

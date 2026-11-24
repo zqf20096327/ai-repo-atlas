@@ -1,6 +1,6 @@
 # moocj/yt-remove-ai-chapters
 
-⭐ 42 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/moocj/yt-remove-ai-chapters) · 个人维护
+⭐ 43 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/moocj/yt-remove-ai-chapters) · 个人维护
 
 **移除 YouTube AI 自动生成章节的浏览器用户脚本**
 

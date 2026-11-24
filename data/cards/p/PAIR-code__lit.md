@@ -1,6 +1,6 @@
 # PAIR-code/lit
 
-⭐ 3,671 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/PAIR-code/lit) · [官网](https://pair-code.github.io/lit) · 组织维护
+⭐ 3,672 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/PAIR-code/lit) · [官网](https://pair-code.github.io/lit) · 组织维护
 
 **可视化交互式 ML 模型理解与调试工具，支持文本/图像/表格数据**
 

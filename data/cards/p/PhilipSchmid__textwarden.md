@@ -1,6 +1,6 @@
 # PhilipSchmid/textwarden
 
-⭐ 47 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PhilipSchmid/textwarden) · 个人维护
+⭐ 47 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PhilipSchmid/textwarden) · 个人维护
 
 **macOS 端上隐私语法检查器，全程本地运行**
 

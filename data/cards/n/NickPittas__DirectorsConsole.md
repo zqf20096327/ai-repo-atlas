@@ -1,6 +1,6 @@
 # NickPittas/DirectorsConsole
 
-⭐ 373 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/NickPittas/DirectorsConsole) · 个人维护
+⭐ 374 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/NickPittas/DirectorsConsole) · 个人维护
 
 **面向电影人的 AI 图像/视频生成工作台：提示词设计+ComfyUI并行渲染**
 

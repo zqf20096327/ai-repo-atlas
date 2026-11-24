@@ -1,6 +1,6 @@
 # utkualsir/sharkyclips
 
-⭐ 28 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/utkualsir/sharkyclips) · [官网](https://utkualsir.github.io/sharkyclips-site/) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/utkualsir/sharkyclips) · [官网](https://utkualsir.github.io/sharkyclips-site/) · 个人维护
 
 **给主播的本地 AI 短视频剪辑工具，自动生成可发布的竖屏切片**
 

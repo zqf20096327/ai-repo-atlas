@@ -1,6 +1,6 @@
 # hulatu/Publishing_Platform
 
-⭐ 3 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/hulatu/Publishing_Platform) · [官网](https://publish.hulatu.com) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/hulatu/Publishing_Platform) · [官网](https://publish.hulatu.com) · 个人维护 · 中文 README
 
 **把一篇 Markdown 分发到 11 个平台的内容发布台**
 

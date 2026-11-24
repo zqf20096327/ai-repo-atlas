@@ -1,6 +1,6 @@
 # estebanbaigts/Yumi
 
-⭐ 20 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/estebanbaigts/Yumi) · [官网](https://estebanbaigts.github.io/Yumi/) · 个人维护
+⭐ 20 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/estebanbaigts/Yumi) · [官网](https://estebanbaigts.github.io/Yumi/) · 个人维护
 
 **驻留 Mac 刘海区的 AI 伴侣应用：先请示后行动**
 

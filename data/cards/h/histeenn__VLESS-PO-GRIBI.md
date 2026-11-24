@@ -1,6 +1,6 @@
 # histeenn/VLESS-PO-GRIBI
 
-⭐ 101 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/histeenn/VLESS-PO-GRIBI) · [官网](https://t.me/histeenn) · 个人维护
+⭐ 101 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/histeenn/VLESS-PO-GRIBI) · [官网](https://t.me/histeenn) · 个人维护
 
 **每 3 小时自动聚合校验的免费 VPN 订阅链接集合**
 

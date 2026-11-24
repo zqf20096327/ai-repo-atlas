@@ -1,6 +1,6 @@
 # SheepSeb/tinyworldformer
 
-⭐ 377 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/SheepSeb/tinyworldformer) · [官网](https://sheepseb.github.io/stealth/posts/tinyworldformer.html) · 个人维护
+⭐ 376 · Rust · 推送 2026-10-27 · [GitHub](https://github.com/SheepSeb/tinyworldformer) · [官网](https://sheepseb.github.io/stealth/posts/tinyworldformer.html) · 个人维护
 
 **在树莓派 Pico 2W 上生成并游玩游戏的微型世界模型**
 

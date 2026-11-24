@@ -1,6 +1,6 @@
 # socrates8300/rswarm
 
-⭐ 14 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/socrates8300/rswarm) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/socrates8300/rswarm) · 个人维护
 
 **Rust 库：为生产后端构建多轮 Agent 式 LLM 工作流**
 

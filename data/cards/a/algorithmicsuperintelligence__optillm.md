@@ -1,6 +1,6 @@
 # algorithmicsuperintelligence/optillm
 
-⭐ 4,344 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/algorithmicsuperintelligence/optillm) · 组织维护
+⭐ 4,343 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/algorithmicsuperintelligence/optillm) · 组织维护
 
 **OpenAI 兼容的 LLM 推理优化代理：以推理时技术提升准确率**
 

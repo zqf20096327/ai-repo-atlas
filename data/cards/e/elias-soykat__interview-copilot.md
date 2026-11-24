@@ -1,6 +1,6 @@
 # elias-soykat/interview-copilot
 
-⭐ 32 · TypeScript · 推送 2026-09-12 · [GitHub](https://github.com/elias-soykat/interview-copilot) · [官网](https://interview-copilot.app) · 个人维护
+⭐ 32 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/elias-soykat/interview-copilot) · [官网](https://interview-copilot.app) · 个人维护
 
 **面试实时助手桌面应用：听题、转写并生成答案**
 

@@ -1,6 +1,6 @@
 # YanYaoyuan/omniTerm
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/YanYaoyuan/omniTerm) · 个人维护 · 中文 README
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/YanYaoyuan/omniTerm) · 个人维护 · 中文 README
 
 **面向开发者：集成 Codex Agent 的跨平台终端工作台**
 

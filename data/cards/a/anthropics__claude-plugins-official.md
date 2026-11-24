@@ -1,6 +1,6 @@
 # anthropics/claude-plugins-official
 
-⭐ 47,975 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/anthropics/claude-plugins-official) · [官网](https://code.claude.com/docs/en/plugins) · 组织维护
+⭐ 48,066 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/anthropics/claude-plugins-official) · [官网](https://code.claude.com/docs/en/plugins) · 组织维护
 
 **Anthropic 官方维护的 Claude Code 插件市场仓库**
 

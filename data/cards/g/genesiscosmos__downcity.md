@@ -1,6 +1,6 @@
 # genesiscosmos/downcity
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/genesiscosmos/downcity) · [官网](https://downcity.ai) · 组织维护 · 中文 README
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/genesiscosmos/downcity) · [官网](https://downcity.ai) · 组织维护 · 中文 README
 
 **给 AI 开发者的 Agent 基础设施运行时：统一管理多个 Agent**
 

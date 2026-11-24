@@ -1,6 +1,6 @@
 # hugimuni-labs/brnrd
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hugimuni-labs/brnrd) · [官网](https://brnrd.dev) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hugimuni-labs/brnrd) · [官网](https://brnrd.dev) · 组织维护
 
 **让 CLI 编码 agent 常驻本机并从聊天工具远程驱动的守护进程**
 

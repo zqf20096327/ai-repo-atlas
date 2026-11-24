@@ -1,6 +1,6 @@
 # artcc/openclient-llm
 
-⭐ 37 · Swift · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/artcc/openclient-llm) · [官网](https://www.arturocarreterocalvo.com/openclient-llm) · 个人维护
+⭐ 37 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/artcc/openclient-llm) · [官网](https://www.arturocarreterocalvo.com/openclient-llm) · 个人维护
 
 **iOS/iPadOS/macOS 原生 LLM 聊天客户端，连接自有服务器**
 

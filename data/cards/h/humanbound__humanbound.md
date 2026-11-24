@@ -1,6 +1,6 @@
 # humanbound/humanbound
 
-⭐ 248 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/humanbound/humanbound) · [官网](https://docs.humanbound.ai/) · 组织维护
+⭐ 249 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/humanbound/humanbound) · [官网](https://docs.humanbound.ai/) · 组织维护
 
 **AI agent 的对抗性测试引擎、SDK 与 CLI，可本地运行**
 

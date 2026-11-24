@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/Hy4
 
-⭐ 73 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4) · 组织维护 · 中文 README
+⭐ 76 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Tencent-Hunyuan/Hy4) · 组织维护 · 中文 README
 
 **腾讯混元 770B MoE 开源多模态大模型权重发布**
 

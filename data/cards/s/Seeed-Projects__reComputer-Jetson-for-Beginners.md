@@ -1,6 +1,6 @@
 # Seeed-Projects/reComputer-Jetson-for-Beginners
 
-⭐ 193 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners) · 组织维护
+⭐ 194 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/Seeed-Projects/reComputer-Jetson-for-Beginners) · 组织维护
 
 **面向初学者的 Jetson Orin 边缘 AI 教学课程（10 个模块）**
 

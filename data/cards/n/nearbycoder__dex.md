@@ -1,6 +1,6 @@
 # nearbycoder/dex
 
-⭐ 5 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nearbycoder/dex) · [官网](https://trydex.dev) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nearbycoder/dex) · [官网](https://trydex.dev) · 个人维护
 
 **部署在 Cloudflare 上的个人 AI agent：每聊天配云端 VM**
 

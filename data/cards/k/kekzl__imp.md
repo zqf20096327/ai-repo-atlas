@@ -1,6 +1,6 @@
 # kekzl/imp
 
-⭐ 79 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kekzl/imp) · 个人维护
+⭐ 79 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kekzl/imp) · 个人维护
 
 **面向 NVIDIA Blackwell GPU 的专用 LLM 推理服务器**
 

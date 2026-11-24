@@ -1,6 +1,6 @@
 # timoncool/prompt-warrior
 
-⭐ 26 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/timoncool/prompt-warrior) · [官网](https://t.me/nerual_dreming) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/timoncool/prompt-warrior) · [官网](https://t.me/nerual_dreming) · 个人维护
 
 **把 AI 编码会话日志变成游戏化角色卡片的 agent 技能**
 

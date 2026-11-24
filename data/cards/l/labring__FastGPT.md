@@ -1,6 +1,6 @@
 # labring/FastGPT
 
-⭐ 30,083 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/labring/FastGPT) · [官网](https://fastgpt.io) · 组织维护 · 中文 README
+⭐ 30,090 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/labring/FastGPT) · [官网](https://fastgpt.io) · 组织维护 · 中文 README
 
 **基于 LLM 的知识库问答与可视化工作流构建平台**
 

@@ -1,6 +1,6 @@
 # VersusControl/versus-incident
 
-⭐ 965 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/VersusControl/versus-incident) · [官网](https://versusincident.com) · 组织维护
+⭐ 968 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VersusControl/versus-incident) · [官网](https://versusincident.com) · 组织维护
 
 **自托管 AI SRE 代理：自动检测事件并升级 on-call**
 

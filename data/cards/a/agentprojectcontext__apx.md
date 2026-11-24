@@ -1,6 +1,6 @@
 # agentprojectcontext/apx
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/agentprojectcontext/apx) · [官网](https://apxagent.app/) · 组织维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/agentprojectcontext/apx) · [官网](https://apxagent.app/) · 组织维护
 
 **本地运行的 Agent OS：自组多 AI agent 团队协同工作**
 

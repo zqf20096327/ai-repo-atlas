@@ -1,6 +1,6 @@
 # aomi-labs/aomi
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/aomi-labs/aomi) · [官网](https://aomi.dev/) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aomi-labs/aomi) · [官网](https://aomi.dev/) · 组织维护
 
 **面向链上 agentic AI 的开发套件：聊天组件、运行时、SDK 与 CLI**
 

@@ -1,6 +1,6 @@
 # bloodworks-io/phlox
 
-⭐ 114 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/bloodworks-io/phlox) · [官网](https://phlox.bloodworks.io) · 组织维护
+⭐ 114 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bloodworks-io/phlox) · [官网](https://phlox.bloodworks.io) · 组织维护
 
 **面向临床医生的本地优先 AI 医疗速记与患者管理系统**
 

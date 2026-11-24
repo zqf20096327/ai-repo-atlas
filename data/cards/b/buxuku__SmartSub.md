@@ -1,6 +1,6 @@
 # buxuku/SmartSub
 
-⭐ 6,132 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/buxuku/SmartSub) · [官网](https://smartsub.linxiaodong.com/) · 个人维护 · 中文 README
+⭐ 6,140 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/buxuku/SmartSub) · [官网](https://smartsub.linxiaodong.com/) · 个人维护 · 中文 README
 
 **给视频创作者/内容团队：本地离线转写、翻译、配音与烧录字幕的桌面工具**
 

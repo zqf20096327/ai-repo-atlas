@@ -1,6 +1,6 @@
 # GioiaZheng/rag-observatory
 
-⭐ 19 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/GioiaZheng/rag-observatory) · [官网](https://gioiazheng.github.io/projects/rag-observatory/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GioiaZheng/rag-observatory) · [官网](https://gioiazheng.github.io/projects/rag-observatory/) · 个人维护
 
 **RAG 执行轨迹的可观测性与失败分析诊断层**
 

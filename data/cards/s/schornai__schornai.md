@@ -1,6 +1,6 @@
 # schornai/schornai
 
-⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/schornai/schornai) · [官网](https://schorn.ai) · 组织维护
+⭐ 9 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/schornai/schornai) · [官网](https://schorn.ai) · 组织维护
 
 **团队自托管 AI 工作区：构建 Agent、检索文档、转录音频**
 

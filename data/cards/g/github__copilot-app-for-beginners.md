@@ -1,6 +1,6 @@
 # github/copilot-app-for-beginners
 
-⭐ 175 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/github/copilot-app-for-beginners) · [官网](https://gh.io/copilot-app-course) · 组织维护
+⭐ 185 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/github/copilot-app-for-beginners) · [官网](https://gh.io/copilot-app-course) · 组织维护
 
 **GitHub Copilot 桌面应用入门课程：教你指挥 AI 编码 agent**
 

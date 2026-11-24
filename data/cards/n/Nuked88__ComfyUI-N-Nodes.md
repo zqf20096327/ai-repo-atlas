@@ -1,6 +1,6 @@
 # Nuked88/ComfyUI-N-Nodes
 
-⭐ 239 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Nuked88/ComfyUI-N-Nodes) · 个人维护
+⭐ 240 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Nuked88/ComfyUI-N-Nodes) · 个人维护
 
 **ComfyUI 自定义节点套件：视频处理与图像描述生成**
 

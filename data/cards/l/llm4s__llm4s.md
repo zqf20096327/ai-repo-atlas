@@ -1,6 +1,6 @@
 # llm4s/llm4s
 
-⭐ 279 · Scala · MIT · 推送 2026-11-22 · [GitHub](https://github.com/llm4s/llm4s) · 组织维护
+⭐ 279 · Scala · MIT · 推送 2026-11-24 · [GitHub](https://github.com/llm4s/llm4s) · 组织维护
 
 **面向 Scala/JVM 开发者的 LLM 应用与 Agent 开发框架**
 

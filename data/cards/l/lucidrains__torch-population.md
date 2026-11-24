@@ -1,6 +1,6 @@
 # lucidrains/torch-population
 
-⭐ 3 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lucidrains/torch-population) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lucidrains/torch-population) · 个人维护
 
 **为 torch 用户提供群体/遗传算法方法的封装库**
 

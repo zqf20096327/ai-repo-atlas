@@ -1,6 +1,6 @@
 # lsdefine/GenericAgent
 
-⭐ 14,442 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lsdefine/GenericAgent) · [官网](https://github.com/lsdefine/GenericAgent) · 个人维护 · 中文 README
+⭐ 14,445 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lsdefine/GenericAgent) · [官网](https://github.com/lsdefine/GenericAgent) · 个人维护 · 中文 README
 
 **自进化自主 agent 框架：LLM 接管电脑操作并沉淀技能**
 

@@ -1,6 +1,6 @@
 # orobsonn/segundo-cerebro
 
-⭐ 24 · TypeScript · 推送 2026-04-21 · [GitHub](https://github.com/orobsonn/segundo-cerebro) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · 推送 2026-04-21 · [GitHub](https://github.com/orobsonn/segundo-cerebro) · 个人维护 · 中文 README
 
 **自托管个人知识图谱 MCP 服务器，供 Claude 捕获与关联概念**
 

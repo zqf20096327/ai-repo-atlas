@@ -1,6 +1,6 @@
 # cpfcoaching/jobhunter-Max
 
-⭐ 10 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/cpfcoaching/jobhunter-Max) · 个人维护
+⭐ 10 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/cpfcoaching/jobhunter-Max) · 个人维护
 
 **求职管理应用：跟踪公司与投递，AI 优化简历与邮件**
 

@@ -1,6 +1,6 @@
 # pankajgarkoti/magi
 
-⭐ 6 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/pankajgarkoti/magi) · [官网](https://computerreinvention.com) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pankajgarkoti/magi) · [官网](https://computerreinvention.com) · 个人维护
 
 **围绕 LLM agent 编排的 Fedora/Hyprland 桌面环境配置**
 

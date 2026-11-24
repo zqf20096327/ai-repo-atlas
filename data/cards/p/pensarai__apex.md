@@ -1,6 +1,6 @@
 # pensarai/apex
 
-⭐ 330 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/pensarai/apex) · [官网](https://pensar.dev) · 组织维护
+⭐ 330 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/pensarai/apex) · [官网](https://pensar.dev) · 组织维护
 
 **终端内运行的自主 agent 渗透测试工具（黑白盒）**
 

@@ -1,6 +1,6 @@
 # microsoft/sre-agent
 
-⭐ 194 · PowerShell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/sre-agent) · 组织维护
+⭐ 194 · PowerShell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/sre-agent) · 组织维护
 
 **微软 Azure SRE Agent 的官方社区资源仓库**
 

@@ -1,6 +1,6 @@
 # lloweryfn-rgb/Gemini-Config-Checker-
 
-⭐ 52 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lloweryfn-rgb/Gemini-Config-Checker-) · 个人维护
+⭐ 40 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lloweryfn-rgb/Gemini-Config-Checker-) · 个人维护
 
 **测试代理配置能否进入 Google AI Studio 与 Gemini 的桌面扫描工具**
 

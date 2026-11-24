@@ -1,6 +1,6 @@
 # techgptoffical/thrones
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/techgptoffical/thrones) · [官网](https://github.com/techgptoffical/thrones/releases/latest) · 个人维护
+⭐ 7 · Python · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/techgptoffical/thrones) · [官网](https://github.com/techgptoffical/thrones/releases/latest) · 个人维护
 
 **在个人电脑本地运行的开源模型私人 AI 助手**
 

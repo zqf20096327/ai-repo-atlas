@@ -1,6 +1,6 @@
 # Tahsine/kaggle-llm-server
 
-⭐ 50 · Jupyter Notebook · 推送 2026-05-24 · [GitHub](https://github.com/Tahsine/kaggle-llm-server) · 个人维护
+⭐ 51 · Jupyter Notebook · 推送 2026-05-24 · [GitHub](https://github.com/Tahsine/kaggle-llm-server) · 个人维护
 
 **在免费 Kaggle GPU 上运行 Qwen3.6-35B 多模态 LLM 服务器的笔记本方案**
 

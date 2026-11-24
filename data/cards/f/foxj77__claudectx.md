@@ -1,6 +1,6 @@
 # foxj77/claudectx
 
-⭐ 144 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/foxj77/claudectx) · 个人维护
+⭐ 144 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/foxj77/claudectx) · 个人维护
 
 **Claude Code 配置切换 CLI：一条命令切换多套配置档案**
 

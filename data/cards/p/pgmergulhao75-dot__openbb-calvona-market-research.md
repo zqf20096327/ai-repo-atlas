@@ -1,6 +1,6 @@
 # pgmergulhao75-dot/openbb-calvona-market-research
 
-⭐ 147 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/pgmergulhao75-dot/openbb-calvona-market-research) · 个人维护
+⭐ 68 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/pgmergulhao75-dot/openbb-calvona-market-research) · 个人维护
 
 **面向量化分析师的多资产市场数据分析桌面工具**
 

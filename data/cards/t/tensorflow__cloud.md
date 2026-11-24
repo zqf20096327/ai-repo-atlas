@@ -1,6 +1,6 @@
 # tensorflow/cloud
 
-⭐ 379 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/tensorflow/cloud) · [官网](https://github.com/tensorflow/cloud) · 组织维护
+⭐ 379 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tensorflow/cloud) · [官网](https://github.com/tensorflow/cloud) · 组织维护
 
 **把本地 Keras/TF 训练代码一键转为 GCP 分布式云训练的 API**
 

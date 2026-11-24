@@ -1,6 +1,6 @@
 # sanic732/P2P
 
-⭐ 29 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sanic732/P2P) · [官网](https://sanic732.github.io/P2P/) · 个人维护
+⭐ 30 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sanic732/P2P) · [官网](https://sanic732.github.io/P2P/) · 个人维护
 
 **为使用者的任务生成适配目标模型语法的提示词的 Claude 插件**
 

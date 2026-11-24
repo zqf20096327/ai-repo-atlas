@@ -1,6 +1,6 @@
 # openminion/openminion
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openminion/openminion) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openminion/openminion) · 组织维护
 
 **本地优先的 Python 工具调用 AI agent 运行时**
 

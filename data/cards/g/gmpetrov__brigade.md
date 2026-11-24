@@ -1,6 +1,6 @@
 # gmpetrov/brigade
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gmpetrov/brigade) · [官网](https://www.brigade.lol) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gmpetrov/brigade) · [官网](https://www.brigade.lol) · 个人维护
 
 **自托管 AI 队友平台：复用 Claude/ChatGPT 订阅跑公司任务**
 

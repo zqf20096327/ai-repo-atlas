@@ -1,6 +1,6 @@
 # Furox-Art/scientific-computing-system
 
-⭐ 23 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Furox-Art/scientific-computing-system) · [官网](https://furox-art.github.io/scientific-computing-system/) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Furox-Art/scientific-computing-system) · [官网](https://furox-art.github.io/scientific-computing-system/) · 个人维护
 
 **零依赖纯 Python 科学计算库，覆盖数值方法到量子模拟 35 个模块**
 

@@ -1,6 +1,6 @@
 # StaysUp/agentbus
 
-⭐ 77 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/StaysUp/agentbus) · [官网](https://agentbus.art) · 个人维护
+⭐ 78 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/StaysUp/agentbus) · [官网](https://agentbus.art) · 个人维护
 
 **跨厂商编码 agent 网关：统一运行并记录每次模型调用**
 

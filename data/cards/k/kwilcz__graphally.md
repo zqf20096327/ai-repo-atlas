@@ -1,6 +1,6 @@
 # kwilcz/graphally
 
-⭐ 24 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/kwilcz/graphally) · 个人维护
+⭐ 25 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/kwilcz/graphally) · 个人维护
 
 **让 AI agent 生成可编辑 SVG 技术架构图的技能与渲染引擎**
 

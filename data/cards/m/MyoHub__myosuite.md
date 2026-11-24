@@ -1,6 +1,6 @@
 # MyoHub/myosuite
 
-⭐ 1,290 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/MyoHub/myosuite) · [官网](https://www.myosuite.org) · 组织维护
+⭐ 1,290 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MyoHub/myosuite) · [官网](https://www.myosuite.org) · 组织维护
 
 **基于 MuJoCo 的肌肉骨骼 RL 环境套件，服务运动控制研究**
 

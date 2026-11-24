@@ -1,6 +1,6 @@
 # mahdims/researchmate
 
-⭐ 11 · Python · 推送 2026-11-20 · [GitHub](https://github.com/mahdims/researchmate) · [官网](researchmate.app) · 个人维护
+⭐ 11 · Python · 推送 2026-11-23 · [GitHub](https://github.com/mahdims/researchmate) · [官网](researchmate.app) · 个人维护
 
 **运筹优化×AI 交叉领域论文策展清单（研究代理筛选评分）**
 

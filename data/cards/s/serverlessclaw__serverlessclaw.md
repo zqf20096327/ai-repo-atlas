@@ -1,6 +1,6 @@
 # serverlessclaw/serverlessclaw
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/serverlessclaw/serverlessclaw) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/serverlessclaw/serverlessclaw) · 组织维护
 
 **AWS 上的无服务器自主多智能体框架，闲置零成本**
 

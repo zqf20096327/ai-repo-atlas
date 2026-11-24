@@ -1,6 +1,6 @@
 # hive-agi/hive-mcp
 
-⭐ 31 · Clojure · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/hive-agi/hive-mcp) · [官网](https://hive-mcp.com) · 组织维护
+⭐ 31 · Clojure · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/hive-agi/hive-mcp) · [官网](https://hive-mcp.com) · 组织维护
 
 **带持久记忆与多 Agent 协调的 Clojure MCP server**
 

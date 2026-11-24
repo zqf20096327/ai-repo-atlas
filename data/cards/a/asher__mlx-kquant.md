@@ -1,6 +1,6 @@
 # asher/mlx-kquant
 
-⭐ 11 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/asher/mlx-kquant) · 个人维护
+⭐ 11 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/asher/mlx-kquant) · 个人维护
 
 **为 MLX 增加 K-quant 量化与微调工具链，面向 Apple Silicon**
 

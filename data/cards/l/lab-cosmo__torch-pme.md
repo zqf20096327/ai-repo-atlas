@@ -1,6 +1,6 @@
 # lab-cosmo/torch-pme
 
-⭐ 84 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/lab-cosmo/torch-pme) · [官网](https://lab-cosmo.github.io/torch-pme/) · 组织维护
+⭐ 84 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/lab-cosmo/torch-pme) · [官网](https://lab-cosmo.github.io/torch-pme/) · 组织维护
 
 **PyTorch 长程相互作用计算库：可微的粒子网格 Ewald 方法**
 

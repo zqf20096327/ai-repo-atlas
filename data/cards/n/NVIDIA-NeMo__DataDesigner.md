@@ -1,6 +1,6 @@
 # NVIDIA-NeMo/DataDesigner
 
-⭐ 2,420 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA-NeMo/DataDesigner) · [官网](https://docs.nvidia.com/nemo/datadesigner) · 组织维护
+⭐ 2,423 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA-NeMo/DataDesigner) · [官网](https://docs.nvidia.com/nemo/datadesigner) · 组织维护
 
 **面向开发者的多模态合成数据生成框架**
 

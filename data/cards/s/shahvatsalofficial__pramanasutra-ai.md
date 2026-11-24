@@ -1,6 +1,6 @@
 # shahvatsalofficial/pramanasutra-ai
 
-⭐ 4 · HTML · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/shahvatsalofficial/pramanasutra-ai) · [官网](https://shahvatsalofficial.github.io/pramanasutra-ai/) · 个人维护
+⭐ 4 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shahvatsalofficial/pramanasutra-ai) · [官网](https://shahvatsalofficial.github.io/pramanasutra-ai/) · 个人维护
 
 **面向编码 agent 的 QA 与发布门禁 agent，产出证据式审计报告**
 

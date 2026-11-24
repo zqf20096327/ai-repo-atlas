@@ -1,6 +1,6 @@
 # BrainDriveAI/BrainDrive
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/BrainDriveAI/BrainDrive) · [官网](https://braindrive.ai) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BrainDriveAI/BrainDrive) · [官网](https://braindrive.ai) · 组织维护
 
 **自托管的个人 AI 系统：帮用户设定并达成人生目标**
 

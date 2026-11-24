@@ -1,6 +1,6 @@
 # Kingston5390/ai--manus
 
-⭐ 179 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Kingston5390/ai--manus) · 个人维护
+⭐ 175 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Kingston5390/ai--manus) · 个人维护
 
 **面向个人用户的自主 AI Agent：代跑代码并操作浏览器**
 

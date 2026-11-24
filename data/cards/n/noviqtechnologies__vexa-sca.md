@@ -1,6 +1,6 @@
 # noviqtechnologies/vexa-sca
 
-⭐ 6 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/noviqtechnologies/vexa-sca) · 组织维护
+⭐ 6 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/noviqtechnologies/vexa-sca) · 组织维护
 
 **给 DevSecOps 团队的软件成分分析与漏洞扫描引擎**
 

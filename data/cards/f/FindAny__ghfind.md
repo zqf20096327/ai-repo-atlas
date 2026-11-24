@@ -1,6 +1,6 @@
 # FindAny/ghfind
 
-⭐ 290 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/FindAny/ghfind) · [官网](https://ghfind.com) · 个人维护 · 中文 README
+⭐ 292 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/FindAny/ghfind) · [官网](https://ghfind.com) · 个人维护 · 中文 README
 
 **基于公开 GitHub 数据的开发者 0–100 评分与发现平台**
 

@@ -1,6 +1,6 @@
 # EvanClub-Agent/protoflow-ai
 
-⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/EvanClub-Agent/protoflow-ai) · 组织维护 · 中文 README
+⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/EvanClub-Agent/protoflow-ai) · [官网](https://alex.xclubai.com/) · 组织维护 · 中文 README
 
 **给产品经理与开发团队的 AI 可视化原型设计与 ER 建模桌面工作台**
 

@@ -1,6 +1,6 @@
 # hackingmaterials/matminer
 
-⭐ 629 · HTML · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/hackingmaterials/matminer) · [官网](https://hackingmaterials.github.io/matminer/) · 组织维护
+⭐ 631 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/hackingmaterials/matminer) · [官网](https://hackingmaterials.github.io/matminer/) · 组织维护
 
 **材料科学领域的数据挖掘 Python 工具库**
 

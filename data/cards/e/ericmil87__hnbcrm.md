@@ -1,6 +1,6 @@
 # ericmil87/hnbcrm
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ericmil87/hnbcrm) · [官网](https://hnbcrm.com) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ericmil87/hnbcrm) · [官网](https://hnbcrm.com) · 个人维护
 
 **人机共用 CRM：人类与 AI 机器人同管道协作管客户**
 

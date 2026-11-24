@@ -1,6 +1,6 @@
 # microsoft/postgres-skills
 
-⭐ 56 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/postgres-skills) · 组织维护
+⭐ 57 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/postgres-skills) · 组织维护
 
 **面向 AI 编码代理的 PostgreSQL 专家技能插件（33 个子技能）**
 

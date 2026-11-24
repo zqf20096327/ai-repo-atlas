@@ -1,6 +1,6 @@
 # ovg-project/kvcached
 
-⭐ 2,054 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ovg-project/kvcached) · 组织维护
+⭐ 2,055 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ovg-project/kvcached) · 组织维护
 
 **给 LLM 推理引擎提供共享 GPU 上弹性 KV cache 的库**
 

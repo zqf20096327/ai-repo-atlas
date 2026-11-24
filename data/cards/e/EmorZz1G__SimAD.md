@@ -1,6 +1,6 @@
 # EmorZz1G/SimAD
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-01-19 · [GitHub](https://github.com/EmorZz1G/SimAD) · [官网](https://emorzz1g.github.io/SimAD/) · 个人维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-01-19 · [GitHub](https://github.com/EmorZz1G/SimAD) · [官网](https://emorzz1g.github.io/SimAD/) · 个人维护
 
 **TNNLS 2025 论文 SimAD 官方实现：时间序列异常检测**
 

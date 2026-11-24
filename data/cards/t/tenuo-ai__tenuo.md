@@ -1,6 +1,6 @@
 # tenuo-ai/tenuo
 
-⭐ 109 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tenuo-ai/tenuo) · [官网](https://tenuo.ai) · 组织维护
+⭐ 109 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tenuo-ai/tenuo) · [官网](https://tenuo.ai) · 组织维护
 
 **面向 AI agent 的任务级密码学授权库：签名 warrant 约束工具与参数**
 

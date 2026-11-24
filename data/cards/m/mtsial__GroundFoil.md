@@ -1,6 +1,6 @@
 # mtsial/GroundFoil
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mtsial/GroundFoil) · 个人维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mtsial/GroundFoil) · 个人维护
 
 **面向 F1 翼型地效流动预测的深度学习代理模型与数据集**
 

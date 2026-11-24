@@ -1,6 +1,6 @@
 # ml-tooling/opyrator
 
-⭐ 3,133 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ml-tooling/opyrator) · [官网](https://opyrator-playground.mltooling.org) · 组织维护
+⭐ 3,134 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ml-tooling/opyrator) · [官网](https://opyrator-playground.mltooling.org) · 组织维护
 
 **把 Python 函数一键变成带 Web API 与 GUI 的微服务**
 

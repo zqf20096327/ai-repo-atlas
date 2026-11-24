@@ -1,6 +1,6 @@
 # dzkchen/oh-my-diff
 
-⭐ 19 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dzkchen/oh-my-diff) · [官网](https://www.ohmydiff.me) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dzkchen/oh-my-diff) · [官网](https://www.ohmydiff.me) · 个人维护
 
 **Codex CLI 的 TypeScript 模组宿主：不改习惯即可扩展命令与工具**
 

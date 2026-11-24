@@ -1,6 +1,6 @@
 # Bencibr/bugx
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Bencibr/bugx) · [官网](https://bugx.dev) · 个人维护 · 中文 README
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Bencibr/bugx) · [官网](https://bugx.dev) · 个人维护 · 中文 README
 
 **装进 AI 编程助手的代码审计 Agent，输出可复现漏洞账本**
 

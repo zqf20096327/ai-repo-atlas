@@ -1,10 +1,10 @@
 # haifengl/smile
 
-⭐ 6,439 · Java · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/haifengl/smile) · [官网](https://haifengl.github.io) · 组织维护
+⭐ 6,439 · Java · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/haifengl/smile) · [官网](https://haifengl.github.io) · 组织维护
 
-**JVM 平台的机器学习与 LLM 推理引擎库**
+**JVM 平台的机器学习与 LLM 推理引擎及推理服务器**
 
-面向 JVM 的机器学习与 AI 平台，基于 Java 25，提供 Kotlin/Scala API。核心引擎可在 Java/Scala/Kotlin 进程内直接调用分类、回归、聚类、流形学习、时间序列、NLP、深度学习等数百种算法；SMILE Serve 为基于 Quarkus 的推理服务器，统一提供经典 ML 模型、ONNX 模型与 OpenAI 兼容的 LLM 聊天接口；另含 Agent Studio 桌面工作区与数据处理（CSV/JSON/Parquet 等）模块。默认纯 JVM 运行，原生加速（OpenBLAS/LAPACK、ONNX Runtime、LibTorch/CUDA）为可选。商业许可由 HALO.AI 提供，移除 copyleft 义务。
+面向 JVM 的机器学习与 AI 平台，提供数百种经典 ML 算法（分类、回归、聚类、流形学习、时间序列、NLP 等）、LibTorch/ONNX 深度学习后端与 DeepSeek/Qwen/Llama 等模型的本地 LLM 推理。包含三大组成部分：进程内嵌入的核心引擎、基于 Quarkus 的 SMILE Serve 推理服务器（含 OpenAI 兼容接口与 Prometheus 指标）、带多 Agent 团队与 IDE 的 Agent Studio。支持 SHAP 可解释性、agentic AutoML 与模型热替换。商业许可由 HALO.AI 提供。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 核心引擎数百种算法覆盖分类/回归/聚类/流形/NLP/时间序列等
-- SMILE Serve 统一推理服务器：经典 ML、ONNX、OpenAI 兼容 LLM 接口
-- 进程内 TreeSHAP 与 KernelSHAP 特征归因解释
-- 支持 DeepSeek、MiniMax、Qwen、LLaMA 等模型的本地 LLM 推理
+- 覆盖经典 ML、深度学习与本地 LLM 推理的统一引擎
+- SMILE Serve 提供 OpenAI 兼容 chat 接口、ONNX 推理与 Prometheus 指标
+- TreeSHAP 与 KernelSHAP 进程内可解释性
+- 可在边缘设备上训练与更新模型（Random Forests、GBDT、K-Means 等）
 
 ## 适用场景
 
-- 在 JVM 微服务或边缘设备上内嵌模型训练与预测
-- 自托管部署多模态 LLM 推理服务
-- 对高风险决策提供 SHAP 级模型解释
-- 数据管道中的 DataFrame 处理与统计分析
+- 在 JVM 微服务或边缘节点内嵌机器学习推理，避免云端往返
+- 自托管部署 LLM chat 服务（OpenAI 兼容 API）
+- 用 Java/Scala/Kotlin 直接调用经典机器学习算法库
+- 通过 Agent Studio 的桌面工作区运行多 Agent 协作任务
 
 ## 场景标签
 
-`推理引擎` `模型训练` · 领域:训练与推理
+`推理引擎` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7: high-performance machine learning and AI platform for the JVM. Built on **Java 25**
-> L31: - **Comprehensive Breadth in One Engine:** Hundreds of algorithms spanning classification, regression, clustering, 
-> L42: A production-ready, Quarkus-based inference server (available as JVM, CUDA GPU, and GraalVM native containers) that
+> L6: SMILE (**Statistical Machine Intelligence & Learning Engine**) is a comprehensive,
+> L11: application, and serving classical ML, ONNX graphs, and LLMs on your own machines.
+> L41: #### 2. SMILE Serve: Unified Inference Runtime
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `332e0bec3e53` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `76cc8ac4b1d4` · [字段定义](../../DATASET.md)*

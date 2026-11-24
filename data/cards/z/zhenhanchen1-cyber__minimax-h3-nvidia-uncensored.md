@@ -1,6 +1,6 @@
 # zhenhanchen1-cyber/minimax-h3-nvidia-uncensored
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/zhenhanchen1-cyber/minimax-h3-nvidia-uncensored) · [官网](https://gitcode.com/nxxwjbl/minimax-h3-ascend-uncensored) · 个人维护 · 中文 README
+⭐ 23 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/zhenhanchen1-cyber/minimax-h3-nvidia-uncensored) · [官网](https://gitcode.com/nxxwjbl/minimax-h3-ascend-uncensored) · 个人维护 · 中文 README
 
 **MiniMax-H3 视频模型在 NVIDIA 卡（8GB 显存起）的本地部署脚本与工作流包**
 

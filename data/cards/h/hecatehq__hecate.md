@@ -1,6 +1,6 @@
 # hecatehq/hecate
 
-⭐ 24 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hecatehq/hecate) · [官网](https://hecate.sh) · 组织维护
+⭐ 24 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hecatehq/hecate) · [官网](https://hecate.sh) · 组织维护
 
 **面向操作者的个人 AI 工作台与运行时：网关、聊天、任务、监督外部 agent**
 

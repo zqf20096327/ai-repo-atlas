@@ -1,6 +1,6 @@
 # NazmusSayad/offsite
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NazmusSayad/offsite) · [官网](https://offsite.sayad.dev) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NazmusSayad/offsite) · [官网](https://offsite.sayad.dev) · 个人维护
 
 **在浏览器中运行 Claude Code/Codex/OpenCode 并与 CLI 共享会话**
 

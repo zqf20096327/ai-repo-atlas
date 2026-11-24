@@ -1,6 +1,6 @@
 # PrimeFoldTools/Andon
 
-⭐ 170 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PrimeFoldTools/Andon) · [官网](https://primefold.tools) · 个人维护
+⭐ 170 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PrimeFoldTools/Andon) · [官网](https://primefold.tools) · 个人维护
 
 **面向 AI agent 协作的精益质量体系工具包：把缺陷转为防错机制**
 

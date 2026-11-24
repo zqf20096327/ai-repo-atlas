@@ -1,6 +1,6 @@
 # oficcejo/alphapilot
 
-⭐ 10 · Python · 推送 2026-11-19 · [GitHub](https://github.com/oficcejo/alphapilot) · [官网](https://discord.gg/jk4mnW53gK) · 个人维护 · 中文 README
+⭐ 10 · Python · 推送 2026-11-24 · [GitHub](https://github.com/oficcejo/alphapilot) · [官网](https://discord.gg/jk4mnW53gK) · 个人维护 · 中文 README
 
 **面向 OKX 交易所的 AI 量化交易平台：自动挖掘 Alpha 因子并支持实盘交易**
 

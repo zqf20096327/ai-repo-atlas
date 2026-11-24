@@ -1,6 +1,6 @@
 # baby-llm/baby-agent
 
-⭐ 501 · Go · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/baby-llm/baby-agent) · 组织维护 · 中文 README
+⭐ 500 · Go · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/baby-llm/baby-agent) · 组织维护 · 中文 README
 
 **Go 语言 AI Agent 教学仓库：面向无 LLM 背景的后端工程师**
 

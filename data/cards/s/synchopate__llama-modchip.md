@@ -1,6 +1,6 @@
 # synchopate/llama-modchip
 
-⭐ 1,403 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/synchopate/llama-modchip) · [官网](https://synchopate.github.io/) · 个人维护
+⭐ 1,407 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/synchopate/llama-modchip) · [官网](https://synchopate.github.io/) · 个人维护
 
 **在纯 CPU 上运行 30B-284B 级 MoE 大模型的本地推理引擎**
 

@@ -1,6 +1,6 @@
 # mcp-use/mcp-use-cli
 
-⭐ 53 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/mcp-use/mcp-use-cli) · [官网](https://github.com/mcp-use/mcp-use/tree/main/libraries/typescript/packages/cli) · 组织维护
+⭐ 53 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/mcp-use/mcp-use-cli) · [官网](https://github.com/mcp-use/mcp-use/tree/main/libraries/typescript/packages/cli) · 组织维护
 
 **MCP 客户端与开发服务器的预构建 CLI**
 

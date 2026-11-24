@@ -1,6 +1,6 @@
 # axisvela/praxo-core-rust
 
-⭐ 4 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-rust) · [官网](https://axisvela.github.io/praxo-core/languages/rust/) · 组织维护
+⭐ 4 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-rust) · [官网](https://axisvela.github.io/praxo-core/languages/rust/) · 组织维护
 
 **可嵌入的 Rust AI agent 框架：提供 agent 循环、工具调用与策略控制**
 

@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Carbon-Aware-AI
 
-⭐ 25 · 推送 2026-08-28 · [GitHub](https://github.com/Hazrat-Ali9/Carbon-Aware-AI) · [官网](https://github.com/Hazrat-Ali9/Carbon-Aware-AI) · 个人维护
+⭐ 26 · 推送 2026-08-28 · [GitHub](https://github.com/Hazrat-Ali9/Carbon-Aware-AI) · [官网](https://github.com/Hazrat-Ali9/Carbon-Aware-AI) · 个人维护
 
 **可持续 AI 研究项目：降低 AI 训练推理的能耗与碳排放**
 

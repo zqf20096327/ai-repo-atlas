@@ -1,6 +1,6 @@
 # wippyai/runtime
 
-⭐ 15 · Go · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wippyai/runtime) · [官网](https://wippy.ai/) · 组织维护
+⭐ 16 · Go · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wippyai/runtime) · [官网](https://wippy.ai/) · 组织维护
 
 **开源 actor 模型运行时，用于构建复杂应用与 agent 系统**
 

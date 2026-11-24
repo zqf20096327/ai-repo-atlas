@@ -1,6 +1,6 @@
 # varpsilon/hazzel
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/varpsilon/hazzel) · [官网](https://agenthazzel.vercel.app) · 个人维护
+⭐ 31 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/varpsilon/hazzel) · [官网](https://agenthazzel.vercel.app) · 个人维护
 
 **终端里的代码编辑 agent，BYOK 无订阅，写盘前 diff 确认**
 

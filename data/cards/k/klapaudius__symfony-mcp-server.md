@@ -1,6 +1,6 @@
 # klapaudius/symfony-mcp-server
 
-⭐ 32 · PHP · MIT · 推送 2026-11-09 · [GitHub](https://github.com/klapaudius/symfony-mcp-server) · 个人维护
+⭐ 32 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/klapaudius/symfony-mcp-server) · 个人维护
 
 **给 Symfony 开发者的 MCP Server 构建包**
 

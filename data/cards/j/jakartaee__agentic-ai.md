@@ -1,6 +1,6 @@
 # jakartaee/agentic-ai
 
-⭐ 41 · Java · EPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jakartaee/agentic-ai) · [官网](https://jakartaee.github.io/agentic-ai/) · 组织维护
+⭐ 41 · Java · EPL-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/jakartaee/agentic-ai) · [官网](https://jakartaee.github.io/agentic-ai/) · 组织维护
 
 **Jakarta EE 平台的厂商中立 AI agent 开发规范 API**
 

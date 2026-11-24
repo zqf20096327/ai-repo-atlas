@@ -1,6 +1,6 @@
 # groundgrounder/Hortus
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/groundgrounder/Hortus) · 个人维护 · 中文 README
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/groundgrounder/Hortus) · 个人维护 · 中文 README
 
 **面向 AI agent 的原生 macOS Markdown 知识库阅读器**
 

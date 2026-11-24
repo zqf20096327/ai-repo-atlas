@@ -1,6 +1,6 @@
 # mkultraware/accuretta
 
-⭐ 86 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/mkultraware/accuretta) · [官网](https://www.sekura.se/accuretta) · 个人维护
+⭐ 86 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/mkultraware/accuretta) · [官网](https://www.sekura.se/accuretta) · 个人维护
 
 **本地 GGUF 模型的桌面 agent 工作区与微型 IDE**
 

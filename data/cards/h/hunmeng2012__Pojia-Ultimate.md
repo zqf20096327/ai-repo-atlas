@@ -1,6 +1,6 @@
 # hunmeng2012/Pojia-Ultimate
 
-⭐ 4 · PowerShell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hunmeng2012/Pojia-Ultimate) · [官网](https://www.hunmeng.icu/) · 个人维护 · 中文 README
+⭐ 4 · PowerShell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hunmeng2012/Pojia-Ultimate) · [官网](https://www.hunmeng.icu/) · 个人维护 · 中文 README
 
 **国产无审查大模型 API 中转服务，OpenAI 兼容接入**
 

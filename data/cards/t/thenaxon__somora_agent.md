@@ -1,6 +1,6 @@
 # thenaxon/somora_agent
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/thenaxon/somora_agent) · [官网](https://somora.ai) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/thenaxon/somora_agent) · [官网](https://somora.ai) · 个人维护
 
 **本地优先的个人 AI agent 团队：多 agent 共享记忆、任意模型**
 

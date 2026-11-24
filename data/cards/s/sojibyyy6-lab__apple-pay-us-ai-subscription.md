@@ -1,6 +1,6 @@
 # sojibyyy6-lab/apple-pay-us-ai-subscription
 
-⭐ 69 · 推送 2026-11-04 · [GitHub](https://github.com/sojibyyy6-lab/apple-pay-us-ai-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 91 · 推送 2026-11-04 · [GitHub](https://github.com/sojibyyy6-lab/apple-pay-us-ai-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **教程：用 CoreGold 虚拟卡绑 Apple Pay 订阅海外 AI 服务**
 

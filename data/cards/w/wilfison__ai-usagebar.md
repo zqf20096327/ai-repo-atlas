@@ -1,6 +1,6 @@
 # wilfison/ai-usagebar
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/wilfison/ai-usagebar) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wilfison/ai-usagebar) · 个人维护
 
 **GNOME Shell 扩展：顶栏实时显示各家 AI 订阅用量与重置倒计时**
 

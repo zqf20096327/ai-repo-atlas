@@ -1,6 +1,6 @@
 # digital-garbage/FunUI
 
-⭐ 24 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/digital-garbage/FunUI) · 个人维护
+⭐ 24 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/digital-garbage/FunUI) · 个人维护
 
 **基于 ComfyUI 后端的非线性视频编辑与生成浏览器工作室**
 

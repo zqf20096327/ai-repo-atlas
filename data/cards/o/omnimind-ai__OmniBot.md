@@ -1,6 +1,6 @@
 # omnimind-ai/OmniBot
 
-⭐ 2,154 · Dart · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/omnimind-ai/OmniBot) · [官网](https://omnibot.omnimind.com.cn) · 组织维护 · 中文 README
+⭐ 2,157 · Dart · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/omnimind-ai/OmniBot) · [官网](https://omnibot.omnimind.com.cn) · 组织维护 · 中文 README
 
 **安卓端侧 AI Agent 应用：操作终端并完成 Android 设备任务**
 

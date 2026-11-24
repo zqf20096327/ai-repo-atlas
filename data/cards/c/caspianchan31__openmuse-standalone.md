@@ -1,6 +1,6 @@
 # caspianchan31/openmuse-standalone
 
-⭐ 7 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/caspianchan31/openmuse-standalone) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自托管个人 AI agent：对话数据存在自己的 Postgres，不依赖托管聊天云**
 
@@ -11,7 +11,7 @@ CopilotKit 上游 OpenMuse 的一个分支：把原本存在托管服务 Copilot
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

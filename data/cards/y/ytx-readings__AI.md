@@ -1,6 +1,6 @@
 # ytx-readings/AI
 
-⭐ 63 · 推送 2026-04-06 · [GitHub](https://github.com/ytx-readings/AI) · [官网](https://ytx-readings.github.io/AI/) · 个人维护
+⭐ 64 · 推送 2026-04-06 · [GitHub](https://github.com/ytx-readings/AI) · [官网](https://ytx-readings.github.io/AI/) · 个人维护
 
 **AI 书籍与论文的收集仓库**
 

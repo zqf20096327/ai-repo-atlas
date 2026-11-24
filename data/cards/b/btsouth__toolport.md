@@ -1,6 +1,6 @@
 # btsouth/toolport
 
-⭐ 245 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/btsouth/toolport) · [官网](https://toolport.app) · 个人维护
+⭐ 246 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/btsouth/toolport) · [官网](https://toolport.app) · 个人维护
 
 **本地优先的 MCP 网关：一次配置 MCP 服务器供各 AI 客户端共用**
 

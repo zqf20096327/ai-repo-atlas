@@ -1,6 +1,6 @@
 # Crokily/pi-durable-bot
 
-⭐ 82 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Crokily/pi-durable-bot) · [官网](https://pots.sh) · 个人维护
+⭐ 89 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Crokily/pi-durable-bot) · [官网](https://pots.sh) · 个人维护
 
 **自托管的开源 AI 同事机器人：接入聊天渠道自主干活**
 

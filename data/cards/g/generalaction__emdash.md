@@ -1,6 +1,6 @@
 # generalaction/emdash
 
-⭐ 6,293 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/generalaction/emdash) · [官网](https://emdash.com/classic) · 组织维护
+⭐ 6,295 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/generalaction/emdash) · [官网](https://emdash.com/classic) · 组织维护
 
 **并行运行编码 Agent 的开源桌面应用：worktree 隔离**
 

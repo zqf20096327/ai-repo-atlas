@@ -1,6 +1,6 @@
 # aradfarahani/Remote-Sensing
 
-⭐ 39 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/aradfarahani/Remote-Sensing) · [官网](https://FEZtool.com) · 个人维护
+⭐ 39 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aradfarahani/Remote-Sensing) · [官网](https://FEZtool.com) · 个人维护
 
 **遥感影像处理与机器学习示例代码合集（15 个主题）**
 

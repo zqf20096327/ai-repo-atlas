@@ -1,6 +1,6 @@
 # repowise-dev/repowise
 
-⭐ 8,201 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护 · 中文 README
+⭐ 8,231 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/repowise-dev/repowise) · [官网](https://repowise.dev) · 组织维护 · 中文 README
 
 **本地代码库索引与 MCP 工具：供编码 Agent 免重复读代码、供人看健康度**
 

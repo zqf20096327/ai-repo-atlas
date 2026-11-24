@@ -1,6 +1,6 @@
 # pwillia7/sorant
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pwillia7/sorant) · [官网](https://github.com/pwillia7/sorant/blob/main/docs/setup.md) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pwillia7/sorant) · [官网](https://github.com/pwillia7/sorant/blob/main/docs/setup.md) · 个人维护
 
 **基于自有 ComfyUI 的文生视频/音乐 Web 前端**
 

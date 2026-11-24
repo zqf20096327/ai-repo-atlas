@@ -1,6 +1,6 @@
 # pathbit/AgentDevKit
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pathbit/AgentDevKit) · [官网](https://www.pathbit.com.br) · 组织维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pathbit/AgentDevKit) · [官网](https://www.pathbit.com.br) · 组织维护
 
 **为编码 agent 提供统一 skills、命令与工作流的管理套件**
 

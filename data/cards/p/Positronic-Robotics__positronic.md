@@ -1,6 +1,6 @@
 # Positronic-Robotics/positronic
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Positronic-Robotics/positronic) · [官网](https://positronic.ro/) · 组织维护
+⭐ 90 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Positronic-Robotics/positronic) · [官网](https://positronic.ro/) · 组织维护
 
 **Python 原生机器人 ML 工具链：硬件接入、数据采集与 VLA 模型评测部署**
 

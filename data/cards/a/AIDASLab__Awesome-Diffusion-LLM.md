@@ -1,6 +1,6 @@
 # AIDASLab/Awesome-Diffusion-LLM
 
-⭐ 112 · 推送 2026-11-02 · [GitHub](https://github.com/AIDASLab/Awesome-Diffusion-LLM) · 组织维护 · 中文 README
+⭐ 113 · 推送 2026-11-02 · [GitHub](https://github.com/AIDASLab/Awesome-Diffusion-LLM) · 组织维护 · 中文 README
 
 **扩散语言模型（dLLM）研究论文的策展清单，供研究者查阅**
 

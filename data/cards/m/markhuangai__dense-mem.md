@@ -1,6 +1,6 @@
 # markhuangai/dense-mem
 
-⭐ 40 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/markhuangai/dense-mem) · [官网](https://markhuang.ai/blog/ai-memory-beyond-rag) · 个人维护 · 中文 README
+⭐ 40 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/markhuangai/dense-mem) · [官网](https://markhuang.ai/blog/ai-memory-beyond-rag) · 个人维护 · 中文 README
 
 **自托管的 MCP 记忆服务器：为 AI agent 提供持久证据与受控召回**
 

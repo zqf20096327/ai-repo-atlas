@@ -1,6 +1,6 @@
 # TangGee/aiopsterm
 
-⭐ 93 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/TangGee/aiopsterm) · [官网](https://aiopsterm.com) · 组织维护 · 中文 README
+⭐ 153 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/TangGee/aiopsterm) · [官网](https://aiopsterm.com) · 组织维护 · 中文 README
 
 **面向人和 AI 的运维终端：终端/SSH/数据库/K8s 一体化桌面工作区**
 

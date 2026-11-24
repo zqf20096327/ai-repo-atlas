@@ -1,6 +1,6 @@
 # usual-labs/usual-bot
 
-⭐ 13 · Swift · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/usual-labs/usual-bot) · [官网](https://github.com/usual-labs/usual-bot/releases/latest) · 组织维护
+⭐ 14 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/usual-labs/usual-bot) · [官网](https://github.com/usual-labs/usual-bot/releases/latest) · 组织维护
 
 **Mac/iPhone 原生消息客户端：连接 Hermes 网关与 Bot 对话**
 

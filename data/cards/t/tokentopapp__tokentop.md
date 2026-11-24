@@ -1,6 +1,6 @@
 # tokentopapp/tokentop
 
-⭐ 77 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tokentopapp/tokentop) · [官网](https://tokentop.app) · 组织维护
+⭐ 77 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tokentopapp/tokentop) · [官网](https://tokentop.app) · 组织维护
 
 **终端实时监控 LLM token 用量与花费的 TUI 工具**
 

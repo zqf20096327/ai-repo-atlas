@@ -1,6 +1,6 @@
 # Tonephorepair/ai--manus2.0
 
-⭐ 365 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Tonephorepair/ai--manus2.0) · 个人维护
+⭐ 362 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Tonephorepair/ai--manus2.0) · 个人维护
 
 **面向个人用户的自主 AI 代理：自主执行代码并控制浏览器**
 

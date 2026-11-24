@@ -1,6 +1,6 @@
 # chuccp/NestSpace
 
-⭐ 8 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/chuccp/NestSpace) · [官网](https://chuccp.github.io/NestSpace/) · 个人维护 · 中文 README
+⭐ 9 · Kotlin · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/chuccp/NestSpace) · [官网](https://chuccp.github.io/NestSpace/) · 个人维护 · 中文 README
 
 **Android 应用级虚拟空间：多开隔离+AI 助手+MCP 控制**
 

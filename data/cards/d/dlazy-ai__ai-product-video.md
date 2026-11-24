@@ -1,6 +1,6 @@
 # dlazy-ai/ai-product-video
 
-⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/dlazy-ai/ai-product-video) · 组织维护 · 中文 README
+⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-08-31 · [GitHub](https://github.com/dlazy-ai/ai-product-video) · 组织维护 · 中文 README
 
 **面向 Claude Code/Codex 的产品宣传片制作技能库（152 镜头卡）**
 

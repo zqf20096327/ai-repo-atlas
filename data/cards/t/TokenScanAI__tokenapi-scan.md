@@ -1,6 +1,6 @@
 # TokenScanAI/tokenapi-scan
 
-⭐ 12 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/TokenScanAI/tokenapi-scan) · [官网](https://tokenscanai.com) · 组织维护 · 中文 README
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/TokenScanAI/tokenapi-scan) · [官网](https://tokenscanai.com) · 组织维护 · 中文 README
 
 **AI API 中转站真伪与质量检测平台（文档+数据仓库）**
 

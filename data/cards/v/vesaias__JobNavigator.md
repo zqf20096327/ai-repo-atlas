@@ -1,6 +1,6 @@
 # vesaias/JobNavigator
 
-⭐ 197 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/vesaias/JobNavigator) · [官网](https://vesaias.github.io/JobNavigator-demo) · 个人维护
+⭐ 197 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vesaias/JobNavigator) · [官网](https://vesaias.github.io/JobNavigator-demo) · 个人维护
 
 **自托管求职自动化平台：抓取职位、AI 评分匹配、定制简历、追踪申请**
 

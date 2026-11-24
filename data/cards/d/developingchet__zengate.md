@@ -1,6 +1,6 @@
 # developingchet/zengate
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/developingchet/zengate) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/developingchet/zengate) · 个人维护
 
 **自托管 OpenAI 兼容网关：免密访问 OpenCode Zen 免费模型**
 

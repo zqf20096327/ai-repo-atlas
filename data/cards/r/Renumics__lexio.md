@@ -1,6 +1,6 @@
 # Renumics/lexio
 
-⭐ 44 · TypeScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Renumics/lexio) · 组织维护
+⭐ 44 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Renumics/lexio) · 组织维护
 
 **构建 RAG 对话界面的 React 组件库，供开发者快速搭建**
 

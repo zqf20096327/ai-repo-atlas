@@ -1,10 +1,10 @@
 # EgoAlpha/prompt-in-context-learning
 
-⭐ 2,251 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护
+⭐ 2,252 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/EgoAlpha/prompt-in-context-learning) · [官网](https://egoalpha.com) · 组织维护
 
-**学习者的上下文学习与提示工程资源清单**
+**面向学习者与开发者的上下文学习与提示工程论文/教程资源清单**
 
-EgoAlpha Lab 维护的 Awesome 类资源聚合仓库，收录 In-Context Learning、Prompt Engineering、Agent、Foundation Models 相关论文，按 Survey、Prompt Design、Chain of Thought、RAG、Evaluation、Agent、Multimodal Prompt、应用等类别组织，每条附 arXiv 链接与日期。另设有 Playground（提示实验用 LLM）、ChatGPT Prompt 示例、以及基于 LangChain 的 LLM 使用入门指南，宣称每日更新。
+EgoAlpha Lab 维护的 Awesome 类资源聚合仓库，收录 In-Context Learning、Prompt Engineering、Agent、Foundation Models 等方向的论文链接，按 Survey、Prompt Design、Chain of Thought、RAG、Evaluation、Agent、Multimodal Prompt 等类别组织，并附 ChatGPT 提示示例、提示实验 Playground 入口与基于 LangChain 的大模型上手指南，README 标注每日更新。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ EgoAlpha Lab 维护的 Awesome 类资源聚合仓库，收录 In-Context Learnin
 
 ## 能力要点
 
-- 按 Survey/Prompt Design/CoT/ICL/RAG/评估/Agent/多模态等类别组织的论文清单
-- 每条论文附 arXiv 链接与发表日期
-- 提供 ChatGPT Prompt 示例与基于 LangChain 的 LLM 入门指南
-- 设有 AI Spotlight 板块跟踪最新研究论文
+- 论文按 Survey/Prompt Design/Chain of Thought/RAG/Evaluation/Agent 等类别分节收录
+- 提供 ChatGPT 提示示例与可做提示实验的 Playground 资源入口
+- 包含基于 LangChain 快速上手大语言模型的使用指南
+- README 标注每日更新的 AI Spotlight 论文板块
 
 ## 适用场景
 
-- 查找上下文学习与提示工程方向的论文入口
-- 按主题浏览 CoT、RAG、多模态提示等研究进展
-- 获取可直接套用的 ChatGPT 提示示例
+- 查找上下文学习与思维链方向的相关论文
+- 为工作与日常场景参考可复用的 ChatGPT 提示示例
+- 借助 LangChain 指南入门大语言模型使用
 
 ## 场景标签
 
-`提示工程` `精选清单` · 领域:Agent 开发
+`精选清单` `教程课程` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: **An Open-Source Engineering Guide for Prompt-in-context-learning from EgoAlpha Lab.**
-> L16: The resources include:
 > L18: *🎉Papers🎉*: The latest papers about *In-Context Learning*, *Prompt Engineering*, *Agent*, and *Foundation Models*.
+> L76: # 📜 Papers
+> L104: ## Prompt Engineering
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c48f145fa628` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `960e3f39822a` · [字段定义](../../DATASET.md)*

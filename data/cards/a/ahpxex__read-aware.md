@@ -1,6 +1,6 @@
 # ahpxex/read-aware
 
-⭐ 517 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ahpxex/read-aware) · [官网](https://readaware.app) · 个人维护 · 中文 README
+⭐ 520 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ahpxex/read-aware) · [官网](https://readaware.app) · 个人维护 · 中文 README
 
 **带自进化 AI agent 的跨平台电子书阅读器**
 

@@ -1,6 +1,6 @@
 # vitali87/speculant-graph
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vitali87/speculant-graph) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vitali87/speculant-graph) · 个人维护
 
 **用 n-gram 图替代小模型的投机解码框架：加速 LLM 推理**
 

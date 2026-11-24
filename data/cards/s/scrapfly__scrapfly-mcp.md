@@ -1,6 +1,6 @@
 # scrapfly/scrapfly-mcp
 
-⭐ 15 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/scrapfly/scrapfly-mcp) · [官网](https://scrapfly.io/mcp-cloud) · 组织维护
+⭐ 15 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/scrapfly/scrapfly-mcp) · [官网](https://scrapfly.io/mcp-cloud) · 组织维护
 
 **面向 MCP 客户端的网页抓取工具服务器，让 AI 实时访问网站数据**
 

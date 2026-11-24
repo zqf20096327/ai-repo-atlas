@@ -1,6 +1,6 @@
 # Sec-Link/Argus-Agentic-SOC-Platform
 
-⭐ 1,282 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Sec-Link/Argus-Agentic-SOC-Platform) · [官网](https://siem.seclink.info) · 组织维护 · 中文 README
+⭐ 1,301 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sec-Link/Argus-Agentic-SOC-Platform) · [官网](https://siem.seclink.info) · 组织维护 · 中文 README
 
 **开源 AI 原生 Agentic SOC 安全运营平台**
 

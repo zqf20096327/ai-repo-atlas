@@ -1,6 +1,6 @@
 # krapcys1-maker/adaptive-agent-memory-research
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/krapcys1-maker/adaptive-agent-memory-research) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/krapcys1-maker/adaptive-agent-memory-research) · 个人维护
 
 **LLM agent 经验记忆的对照实验研究项目与结果登记库**
 

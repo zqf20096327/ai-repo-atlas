@@ -1,6 +1,6 @@
 # AInVFX/ainvfx-paintaplate
 
-⭐ 163 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/AInVFX/ainvfx-paintaplate) · [官网](www.ainvfx.com/open-source/) · 组织维护
+⭐ 165 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/AInVFX/ainvfx-paintaplate) · [官网](www.ainvfx.com/open-source/) · 组织维护
 
 **给视效合成师的 ComfyUI 节点包：首帧涂绘擦除/添加/重光并贯穿整镜头**
 

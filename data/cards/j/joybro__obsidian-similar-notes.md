@@ -1,6 +1,6 @@
 # joybro/obsidian-similar-notes
 
-⭐ 109 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/joybro/obsidian-similar-notes) · 个人维护
+⭐ 109 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/joybro/obsidian-similar-notes) · 个人维护
 
 **Obsidian 笔记语义相似查找与语义搜索插件**
 

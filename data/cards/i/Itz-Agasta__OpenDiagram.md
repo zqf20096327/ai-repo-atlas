@@ -1,6 +1,6 @@
 # Itz-Agasta/OpenDiagram
 
-⭐ 75 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Itz-Agasta/OpenDiagram) · [官网](https://opendiagram.ink) · 个人维护
+⭐ 77 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Itz-Agasta/OpenDiagram) · [官网](https://opendiagram.ink) · 个人维护
 
 **自然语言生成可编辑软件架构图的 AI 工具，可自托管**
 

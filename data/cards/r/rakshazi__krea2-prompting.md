@@ -1,6 +1,6 @@
 # rakshazi/krea2-prompting
 
-⭐ 80 · Python · CC-BY-SA-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/rakshazi/krea2-prompting) · [官网](https://rakshazi.me/blog/krea2-prompting-skill/) · 个人维护
+⭐ 120 · Python · CC-BY-SA-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/rakshazi/krea2-prompting) · [官网](https://rakshazi.me/blog/krea2-prompting-skill/) · 个人维护
 
 **Krea 2 (Turbo) 文生图提示词 agent 技能库**
 

@@ -1,6 +1,6 @@
 # huecoder/MD3-Agent
 
-⭐ 28 · Kotlin · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/huecoder/MD3-Agent) · 个人维护
+⭐ 30 · Kotlin · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/huecoder/MD3-Agent) · 个人维护
 
 **开源 Android 手机 AI 助手应用：自带 API key 读屏控机**
 

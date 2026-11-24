@@ -1,6 +1,6 @@
 # openlit/website
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openlit/website) · [官网](https://openlit.io/) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/openlit/website) · [官网](https://openlit.io/) · 组织维护
 
 **OpenLIT 官网源码：面向开发者的 LLM 可观测平台营销站**
 

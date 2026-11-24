@@ -1,6 +1,6 @@
 # pixgt-ai/awesome-ecommerce-ai-tools
 
-⭐ 20 · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) · 组织维护 · 中文 README
+⭐ 20 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/pixgt-ai/awesome-ecommerce-ai-tools) · 组织维护 · 中文 README
 
 **面向电商与跨境卖家的 AI 视觉工具策展清单**
 

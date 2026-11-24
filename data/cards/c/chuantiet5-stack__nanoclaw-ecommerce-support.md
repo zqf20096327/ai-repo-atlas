@@ -1,6 +1,6 @@
 # chuantiet5-stack/nanoclaw-ecommerce-support
 
-⭐ 3 · Python · 推送 2026-10-12 · [GitHub](https://github.com/chuantiet5-stack/nanoclaw-ecommerce-support) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **电商客服 Agent：商品订单查询、售后与人工接入**
 

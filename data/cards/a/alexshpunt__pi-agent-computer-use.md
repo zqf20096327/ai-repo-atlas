@@ -1,6 +1,6 @@
 # alexshpunt/pi-agent-computer-use
 
-⭐ 104 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/alexshpunt/pi-agent-computer-use) · [官网](https://pi.dev/packages/pi-agent-computer-use) · 个人维护
+⭐ 104 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alexshpunt/pi-agent-computer-use) · [官网](https://pi.dev/packages/pi-agent-computer-use) · 个人维护
 
 **让 Pi 编码 agent 操作 Windows 应用与浏览器的扩展包**
 

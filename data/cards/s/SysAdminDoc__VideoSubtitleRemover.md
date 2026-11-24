@@ -1,6 +1,6 @@
 # SysAdminDoc/VideoSubtitleRemover
 
-⭐ 115 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SysAdminDoc/VideoSubtitleRemover) · [官网](https://github.com/SysAdminDoc/VideoSubtitleRemover/releases/latest) · 个人维护
+⭐ 116 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SysAdminDoc/VideoSubtitleRemover) · [官网](https://github.com/SysAdminDoc/VideoSubtitleRemover/releases/latest) · 个人维护
 
 **本地去除视频硬字幕与文字的 Windows 桌面应用**
 

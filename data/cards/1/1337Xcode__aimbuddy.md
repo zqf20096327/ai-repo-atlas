@@ -1,6 +1,6 @@
 # 1337Xcode/aimbuddy
 
-⭐ 89 · C++ · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/1337Xcode/aimbuddy) · [官网](https://1337xcode.github.io/aimbuddy) · 个人维护
+⭐ 93 · C++ · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/1337Xcode/aimbuddy) · [官网](https://1337xcode.github.io/aimbuddy) · 个人维护
 
 **Android 端到设备瞄准辅助：视觉检测+辅助转向（aimbot 类）**
 

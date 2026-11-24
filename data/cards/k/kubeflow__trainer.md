@@ -1,10 +1,10 @@
 # kubeflow/trainer
 
-⭐ 2,289 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kubeflow/trainer) · [官网](https://trainer.kubeflow.org/en/latest/) · 组织维护
+⭐ 2,289 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kubeflow/trainer) · [官网](https://trainer.kubeflow.org/en/latest/) · 组织维护
 
-**Kubernetes 上的分布式模型训练与 LLM 微调平台**
+**在 Kubernetes 上进行分布式训练与 LLM 微调的平台**
 
-Kubernetes 原生的分布式 AI 训练平台，面向 LLM 微调、超参数优化和跨框架模型训练，支持 PyTorch、HuggingFace、DeepSpeed、JAX、XGBoost 等运行时。通过 MPI 编排多节点、多 GPU 分布式作业，集成 Kueue/KAI Scheduler 调度，提供零拷贝分布式数据缓存直传 GPU。AI 从业者通过 Python SDK 使用 TrainJob 与 Runtimes API 进行开发与微调。当前项目处于 alpha 状态，API 可能变更。
+Kubeflow Trainer 是一个 Kubernetes 原生的分布式 AI 平台，提供 LLM 微调、超参数优化与多框架模型训练能力，支持的框架包括 PyTorch、MLX、HuggingFace、DeepSpeed、Megatron-LM、JAX、XGBoost 等。通过 MPI 编排多节点多 GPU 分布式作业，集成 Kueue、Volcano 等调度组件，并提供分布式数据缓存以零拷贝方式向 GPU 节点流式传输数据。AI 从业者可通过 Python SDK 使用 TrainJob 与 Runtimes API。项目处于 alpha 状态，API 可能变更。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ Kubernetes 原生的分布式 AI 训练平台，面向 LLM 微调、超参数优
 
 ## 能力要点
 
-- 支持 PyTorch、HuggingFace、DeepSpeed、Megatron-LM、JAX、XGBoost 等多框架训练运行时
+- 支持 PyTorch、MLX、HuggingFace、DeepSpeed、Megatron-LM、JAX、XGBoost 等多框架训练运行时
 - MPI 编排多节点多 GPU 分布式作业，面向 HPC 集群
-- 分布式数据缓存零拷贝流式传输到 GPU 节点
-- Kubeflow Python SDK 提供 TrainJob 与 Runtimes API
+- 分布式数据缓存以零拷贝方式向 GPU 节点流式传输数据
+- 提供 Python SDK（CustomTrainer/BuiltinTrainer）与 TrainJob、Runtimes API
 
 ## 适用场景
 
-- 在 Kubernetes 集群上进行 LLM 微调与超参数优化
-- 多节点多 GPU 的大规模分布式训练作业编排
-- 混合 Kubernetes 与 Slurm 集群的 HPC AI 工作负载调度
+- 在 Kubernetes 集群上微调大语言模型
+- 跨多节点多 GPU 运行分布式训练作业
+- 在混合 Kubernetes 与 Slurm 集群上调度 AI 工作负载
+- 进行大规模训练数据的分布式缓存与传输
 
 ## 场景标签
 
-`微调` `模型训练` · 领域:训练与推理
+`微调` `模型训练` `MLOps` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L46: Kubeflow Trainer is a Kubernetes-native distributed AI platform for scalable large language model
-> L47: (LLM) fine-tuning, hyperparameter optimization, and training of AI models across a wide range of frameworks,
 > L69: With the Kubeflow Python SDK, AI practitioners can effortlessly
-> L70: develop and fine-tune LLMs while leveraging the Kubeflow Trainer APIs: TrainJob and Runtimes.
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7d7dbad7d9b7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d71dbf65c5db` · [字段定义](../../DATASET.md)*

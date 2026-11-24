@@ -1,6 +1,6 @@
 # Sagargupta16/awesome-mcp-servers
 
-⭐ 157 · Python · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/Sagargupta16/awesome-mcp-servers) · [官网](http://sagargupta.online/awesome-mcp-servers/) · 个人维护
+⭐ 165 · Python · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/Sagargupta16/awesome-mcp-servers) · [官网](http://sagargupta.online/awesome-mcp-servers/) · 个人维护
 
 **经人工核验的 MCP 服务器与工具策展清单（可搜索站点）**
 

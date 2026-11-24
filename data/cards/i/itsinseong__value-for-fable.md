@@ -1,6 +1,6 @@
 # itsinseong/value-for-fable
 
-⭐ 239 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/itsinseong/value-for-fable) · 个人维护
+⭐ 240 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/itsinseong/value-for-fable) · 个人维护
 
 **Claude Code 插件：给 Sonnet 注入结构化行为规范的 output-style 配置**
 

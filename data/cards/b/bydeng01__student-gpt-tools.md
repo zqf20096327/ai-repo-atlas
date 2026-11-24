@@ -1,6 +1,6 @@
 # bydeng01/student-gpt-tools
 
-⭐ 90 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/bydeng01/student-gpt-tools) · 个人维护 · 中文 README
+⭐ 90 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bydeng01/student-gpt-tools) · 个人维护 · 中文 README
 
 **面向学生的 GPT/AI 工具策展清单（写作/学习/科研/编程）**
 

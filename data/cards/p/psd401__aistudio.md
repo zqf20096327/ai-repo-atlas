@@ -1,6 +1,6 @@
 # psd401/aistudio
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/psd401/aistudio) · [官网](https://psd401.ai/aistudio) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/psd401/aistudio) · [官网](https://psd401.ai/aistudio) · 组织维护
 
 **面向 K-12 教育的自托管多模型生成式 AI 平台**
 

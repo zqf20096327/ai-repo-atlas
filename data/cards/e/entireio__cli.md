@@ -1,6 +1,6 @@
 # entireio/cli
 
-⭐ 5,351 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/entireio/cli) · [官网](https://entire.io) · 组织维护
+⭐ 5,352 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/entireio/cli) · [官网](https://entire.io) · 组织维护
 
 **开发者终端工具：捕获 agent 会话并与提交关联成可检索记录**
 

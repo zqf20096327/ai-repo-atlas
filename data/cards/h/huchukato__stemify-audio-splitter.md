@@ -1,6 +1,6 @@
 # huchukato/stemify-audio-splitter
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/huchukato/stemify-audio-splitter) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/huchukato/stemify-audio-splitter) · 个人维护
 
 **AI 音轨分离工具：把歌曲拆成人声、鼓、贝斯等分轨**
 

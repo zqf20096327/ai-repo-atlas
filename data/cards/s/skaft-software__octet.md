@@ -1,6 +1,6 @@
 # skaft-software/octet
 
-⭐ 244 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/skaft-software/octet) · [官网](https://octet.skaft.org) · 组织维护
+⭐ 245 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/skaft-software/octet) · [官网](https://octet.skaft.org) · 组织维护
 
 **Rust 编写的终端编码 agent，支持多模态输入与任意语言扩展**
 

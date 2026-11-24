@@ -1,6 +1,6 @@
 # betweentwomidnights/gary-localhost-installer
 
-⭐ 12 · Python · 推送 2026-11-22 · [GitHub](https://github.com/betweentwomidnights/gary-localhost-installer) · [官网](https://thecollabagepatch.com) · 个人维护
+⭐ 12 · Python · 推送 2026-11-23 · [GitHub](https://github.com/betweentwomidnights/gary-localhost-installer) · [官网](https://thecollabagepatch.com) · 个人维护
 
 **一键安装并管理 7 个本地音乐生成模型的 Windows 控制中心**
 

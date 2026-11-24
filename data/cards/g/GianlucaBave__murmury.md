@@ -1,6 +1,6 @@
 # GianlucaBave/murmury
 
-⭐ 30 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/GianlucaBave/murmury) · [官网](https://murmury.pages.dev) · 个人维护
+⭐ 30 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/GianlucaBave/murmury) · [官网](https://murmury.pages.dev) · 个人维护
 
 **视频通话期间从自有文档实时生成答案、屏幕共享不可见的 Mac 工具**
 

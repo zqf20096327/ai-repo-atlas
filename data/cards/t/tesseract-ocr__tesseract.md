@@ -1,16 +1,16 @@
 # tesseract-ocr/tesseract
 
-⭐ 77,621 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/tesseract-ocr/tesseract) · [官网](https://tesseract-ocr.github.io/) · 组织维护
+⭐ 77,631 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tesseract-ocr/tesseract) · [官网](https://tesseract-ocr.github.io/) · 组织维护
 
-**OCR 引擎：为开发者提供图片文字识别库与命令行工具**
+**OCR 引擎库与命令行工具：识别 100+ 种语言文字**
 
-包含 OCR 引擎 libtesseract 与命令行程序 tesseract 两个部分。第 4 版引入基于 LSTM 神经网络的行识别引擎，同时通过 --oem 0 兼容第 3 版的字符模式识别引擎。支持 Unicode/UTF-8，开箱可识别 100 多种语言，支持 PNG、JPEG、TIFF 等图像输入，输出纯文本、hOCR、PDF、TSV、ALTO、PAGE 等格式。不含 GUI，可通过 tessdata 训练数据支持更多语言，开发者可经 C/C++ API 或多语言 wrapper 集成。依赖 Leptonica 库读取图像。
+包含 OCR 引擎 libtesseract 和命令行程序 tesseract。第 4 版引入基于 LSTM 神经网络的行识别引擎，同时通过 --oem 0 兼容第 3 版的字符模式识别旧引擎。支持 Unicode（UTF-8），开箱即支持 100 多种语言，可训练识别其他语言。输入支持 PNG、JPEG、TIFF 等图像格式，输出纯文本、hOCR、PDF、TSV、ALTO、PAGE 等格式。依赖 Leptonica 库读写图像，不包含 GUI 应用，需配合 traineddata 训练数据文件使用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,17 +26,16 @@
 
 ## 能力要点
 
-- 提供 libtesseract 库与 tesseract 命令行程序两种使用方式
-- 支持 LSTM 引擎与 Legacy 引擎两种 OCR 模式（--oem 切换）
-- 开箱支持 100 多种语言，输出文本/hOCR/PDF/TSV/ALTO/PAGE 等格式
-- 提供 C/C++ API 与其他语言的 wrapper 绑定
+- LSTM 神经网络引擎与 legacy 引擎（--oem 0）两种 OCR 模式
+- 开箱支持 100+ 种语言，可自行训练新语言
+- 多种输出格式：纯文本/hOCR/PDF/TSV/ALTO/PAGE
+- 提供 C/C++ API 及多语言 wrapper
 
 ## 适用场景
 
-- 从 PNG/JPEG/TIFF 图片中批量提取文字
-- 生成带文本层的可搜索 PDF 或 hOCR 结构化输出
-- 通过 C/C++ API 在自有应用中嵌入 OCR 能力
-- 训练引擎识别新的语言或字符集
+- 从扫描文档图片提取可搜索的 PDF 或文本
+- 批量识别截图、票据图像中的文字并导出 TSV
+- 在应用中通过 libtesseract C/C++ API 集成 OCR 功能
 
 ## 场景标签
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 high · 依据 README sha `2af580546cbe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0e25806ebb2b` · [字段定义](../../DATASET.md)*

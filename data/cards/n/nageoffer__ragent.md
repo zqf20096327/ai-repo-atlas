@@ -1,6 +1,6 @@
 # nageoffer/ragent
 
-⭐ 4,491 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nageoffer/ragent) · [官网](https://nageoffer.com/ragent) · 个人维护 · 中文 README
+⭐ 4,500 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nageoffer/ragent) · [官网](https://nageoffer.com/ragent) · 个人维护 · 中文 README
 
 **Java 后端开发者学习 Agentic RAG 工程实现的开源实战平台**
 

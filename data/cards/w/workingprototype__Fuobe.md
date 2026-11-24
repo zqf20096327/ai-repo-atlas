@@ -1,6 +1,6 @@
 # workingprototype/Fuobe
 
-⭐ 258 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/workingprototype/Fuobe) · [官网](https://fuobe.com) · 组织维护
+⭐ 260 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/workingprototype/Fuobe) · [官网](https://fuobe.com) · 组织维护
 
 **自托管的开放权重创意工作室：图/视频/3D/音频一站生成**
 

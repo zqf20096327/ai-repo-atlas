@@ -1,6 +1,6 @@
 # GUYI-AI/gugu
 
-⭐ 354 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/GUYI-AI/gugu) · [官网](https://gugu.nextmind.space) · 组织维护 · 中文 README
+⭐ 358 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/GUYI-AI/gugu) · [官网](https://gugu.nextmind.space) · 组织维护 · 中文 README
 
 **连接用户与 AI agent 的桌面/安卓协作客户端**
 

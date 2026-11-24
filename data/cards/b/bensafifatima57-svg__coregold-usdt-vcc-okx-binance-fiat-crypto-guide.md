@@ -1,6 +1,6 @@
 # bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide
 
-⭐ 26 · 推送 2026-11-19 · [GitHub](https://github.com/bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide) · 个人维护 · 中文 README
+⭐ 46 · 推送 2026-11-19 · [GitHub](https://github.com/bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide) · 个人维护 · 中文 README
 
 **面向新手的 USDT 买币与 CoreGold 充值操作教程**
 

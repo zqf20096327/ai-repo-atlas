@@ -1,6 +1,6 @@
 # dragonked2/alphacode
 
-⭐ 658 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dragonked2/alphacode) · [官网](https://alphacli.github.io/) · 个人维护
+⭐ 674 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dragonked2/alphacode) · [官网](https://alphacli.github.io/) · 个人维护
 
 **开发者终端里的 Rust AI 编码 Agent，无需 API key 即可启动**
 

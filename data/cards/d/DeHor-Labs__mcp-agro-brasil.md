@@ -1,6 +1,6 @@
 # DeHor-Labs/mcp-agro-brasil
 
-⭐ 71 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/DeHor-Labs/mcp-agro-brasil) · [官网](https://dehor.dev) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DeHor-Labs/mcp-agro-brasil) · [官网](https://dehor.dev) · 个人维护
 
 **巴西农业数据的 MCP 服务器：牛/大豆/玉米/奶价与汇率等**
 

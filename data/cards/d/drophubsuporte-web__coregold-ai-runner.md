@@ -1,6 +1,6 @@
 # drophubsuporte-web/coregold-ai-runner
 
-⭐ 85 · 推送 2026-10-31 · [GitHub](https://github.com/drophubsuporte-web/coregold-ai-runner) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 93 · 推送 2026-10-31 · [GitHub](https://github.com/drophubsuporte-web/coregold-ai-runner) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **CoreGold 虚拟卡服务的推广页：用于 AI 订阅支付**
 

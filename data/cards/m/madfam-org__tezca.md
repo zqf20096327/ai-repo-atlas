@@ -1,6 +1,6 @@
 # madfam-org/tezca
 
-⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/madfam-org/tezca) · [官网](https://tezca.mx) · 组织维护
+⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/madfam-org/tezca) · [官网](https://tezca.mx) · 组织维护
 
 **面向墨西哥法律场景的法律数据平台：30,000+ 部法律可检索可机读**
 

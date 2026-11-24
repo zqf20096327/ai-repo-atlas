@@ -1,6 +1,6 @@
 # PerryLink/dsh-test-drive
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-test-drive) · [官网](https://www.npmjs.com/package/dsh-test-drive) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-test-drive) · [官网](https://www.npmjs.com/package/dsh-test-drive) · 个人维护 · 中文 README
 
 **DSH 插件的隔离安装冒烟测试工具，输出 pass/fail 结果矩阵**
 

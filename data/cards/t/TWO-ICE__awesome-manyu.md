@@ -1,6 +1,6 @@
 # TWO-ICE/awesome-manyu
 
-⭐ 39 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/TWO-ICE/awesome-manyu) · 个人维护 · 中文 README
+⭐ 41 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/TWO-ICE/awesome-manyu) · 个人维护 · 中文 README
 
 **开源 AI 漫剧/短剧工具清单：按生产流水线分类，含 License 红绿灯**
 

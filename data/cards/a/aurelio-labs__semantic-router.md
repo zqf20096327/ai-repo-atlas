@@ -1,6 +1,6 @@
 # aurelio-labs/semantic-router
 
-⭐ 4,040 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aurelio-labs/semantic-router) · [官网](https://www.aurelio.ai/semantic-router) · 组织维护
+⭐ 4,045 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aurelio-labs/semantic-router) · [官网](https://www.aurelio.ai/semantic-router) · 组织维护
 
 **为 LLM 与 agent 提供毫秒级语义路由决策的 Python 库**
 

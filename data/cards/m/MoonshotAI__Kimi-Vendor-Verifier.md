@@ -1,6 +1,6 @@
 # MoonshotAI/Kimi-Vendor-Verifier
 
-⭐ 211 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/MoonshotAI/Kimi-Vendor-Verifier) · 组织维护 · 中文 README
+⭐ 211 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MoonshotAI/Kimi-Vendor-Verifier) · 组织维护 · 中文 README
 
 **为 Kimi 模型的各供应商 API 部署做验收评测的基准套件**
 

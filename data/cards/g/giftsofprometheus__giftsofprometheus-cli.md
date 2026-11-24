@@ -1,6 +1,6 @@
 # giftsofprometheus/giftsofprometheus-cli
 
-⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/giftsofprometheus/giftsofprometheus-cli) · [官网](https://giftsofprometheus.com/?utm_source=github&utm_medium=repo&utm_campaign=cli) · 组织维护
+⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/giftsofprometheus/giftsofprometheus-cli) · [官网](https://giftsofprometheus.com/?utm_source=github&utm_medium=repo&utm_campaign=cli) · 组织维护
 
 **俄语 AI 知识目录 CLI：供开发者与其 AI 代理检索大会演讲转录**
 

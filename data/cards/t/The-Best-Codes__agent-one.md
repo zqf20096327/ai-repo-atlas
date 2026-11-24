@@ -1,6 +1,6 @@
 # The-Best-Codes/agent-one
 
-⭐ 66 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/The-Best-Codes/agent-one) · [官网](https://www.agent-one.dev) · 个人维护
+⭐ 67 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/The-Best-Codes/agent-one) · [官网](https://www.agent-one.dev) · 个人维护
 
 **免费开源桌面 AI agent，支持万级模型与扩展**
 

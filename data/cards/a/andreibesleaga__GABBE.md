@@ -1,6 +1,6 @@
 # andreibesleaga/GABBE
 
-⭐ 24 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/andreibesleaga/GABBE) · [官网](https://andreibesleaga.github.io/GABBE/) · 个人维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/andreibesleaga/GABBE) · [官网](https://andreibesleaga.github.io/GABBE/) · 个人维护
 
 **面向 AI 编码 agent 的软件工程治理套件（技能/模板/多代理团队）**
 

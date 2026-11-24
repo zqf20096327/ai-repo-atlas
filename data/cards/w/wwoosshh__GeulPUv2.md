@@ -1,6 +1,6 @@
 # wwoosshh/GeulPUv2
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/wwoosshh/GeulPUv2) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wwoosshh/GeulPUv2) · 个人维护
 
 **在自有 GPU 上运行 GGUF 模型的本地 LLM 引擎，带确定性调试器**
 

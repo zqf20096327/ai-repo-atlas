@@ -1,6 +1,6 @@
 # RISE-UNIBAS/humanities_data_benchmark
 
-⭐ 34 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/RISE-UNIBAS/humanities_data_benchmark) · [官网](https://rise-services.rise.unibas.ch/benchmarks/) · 组织维护
+⭐ 34 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RISE-UNIBAS/humanities_data_benchmark) · [官网](https://rise-services.rise.unibas.ch/benchmarks/) · 组织维护
 
 **面向人文数据的 LLM 评测基准套件：转录、抽取与版面分析**
 

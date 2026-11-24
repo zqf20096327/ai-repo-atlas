@@ -1,6 +1,6 @@
 # zhoushoujianwork/easyeda-agent
 
-⭐ 1,167 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://eda.daboluo.cc) · 个人维护 · 中文 README
+⭐ 1,189 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/zhoushoujianwork/easyeda-agent) · [官网](https://eda.daboluo.cc) · 个人维护 · 中文 README
 
 **EasyEDA Pro 的 AI 自动化工具：生成原理图与 PCB**
 

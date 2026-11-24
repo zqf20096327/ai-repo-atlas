@@ -1,6 +1,6 @@
 # bayesflow-org/bayesflow
 
-⭐ 790 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bayesflow-org/bayesflow) · [官网](https://bayesflow.org/) · 组织维护
+⭐ 790 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/bayesflow-org/bayesflow) · [官网](https://bayesflow.org/) · 组织维护
 
 **面向科研人员的基于仿真的深度学习贝叶斯推断库**
 

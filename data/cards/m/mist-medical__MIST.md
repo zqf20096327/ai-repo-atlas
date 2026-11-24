@@ -1,6 +1,6 @@
 # mist-medical/MIST
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mist-medical/MIST) · 组织维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mist-medical/MIST) · 组织维护
 
 **面向医学影像研究者的 3D 医学图像分割端到端框架**
 

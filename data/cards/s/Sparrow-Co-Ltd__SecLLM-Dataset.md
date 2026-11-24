@@ -1,6 +1,6 @@
 # Sparrow-Co-Ltd/SecLLM-Dataset
 
-⭐ 52 · Python · CC-BY-4.0 · 推送 2026-11-16 · [GitHub](https://github.com/Sparrow-Co-Ltd/SecLLM-Dataset) · [官网](https://sparrow-co-ltd.github.io/SecLLM-Dataset-Portal/) · 组织维护
+⭐ 73 · Python · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sparrow-Co-Ltd/SecLLM-Dataset) · [官网](https://sparrow-co-ltd.github.io/SecLLM-Dataset-Portal/) · 组织维护
 
 **SAST 产出的安全漏洞数据集：供 LLM 训练检测/解释/修补漏洞**
 

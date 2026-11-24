@@ -1,6 +1,6 @@
 # opensearch-project/observability-stack
 
-⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/opensearch-project/observability-stack) · [官网](https://observability.opensearch.org/) · 组织维护
+⭐ 45 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/opensearch-project/observability-stack) · [官网](https://observability.opensearch.org/) · 组织维护
 
 **面向微服务与 AI agent 的 OpenSearch 可观测性全家桶**
 

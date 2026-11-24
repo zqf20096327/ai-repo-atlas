@@ -1,6 +1,6 @@
 # LEVOGNE/airust
 
-⭐ 11 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LEVOGNE/airust) · [官网](https://docs.rs/airust) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LEVOGNE/airust) · [官网](https://docs.rs/airust) · 个人维护
 
 **Rust 模块化知识检索库：词法搜索、文本匹配、可选语义检索**
 

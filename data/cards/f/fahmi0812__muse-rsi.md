@@ -1,6 +1,6 @@
 # fahmi0812/muse-rsi
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/fahmi0812/muse-rsi) · [官网](https://github.com/fahmi0812/muse-rsi/blob/main/setup/README.md) · 个人维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/fahmi0812/muse-rsi) · [官网](https://github.com/fahmi0812/muse-rsi/blob/main/setup/README.md) · 个人维护
 
 **经人工核验的 Muse agent 技能清单与一键安装系统**
 

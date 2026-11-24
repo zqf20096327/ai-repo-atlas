@@ -1,6 +1,6 @@
 # contenox/harness
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/contenox/harness) · [官网](https://contenox.com) · 组织维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/contenox/harness) · [官网](https://contenox.com) · 组织维护
 
 **策略约束、厂商中立的 AI agent 编排桌面运行时**
 

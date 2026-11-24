@@ -1,6 +1,6 @@
 # ginlix-ai/LangAlpha
 
-⭐ 2,338 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ginlix-ai/LangAlpha) · [官网](https://langalpha.ai) · 组织维护 · 中文 README
+⭐ 2,341 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ginlix-ai/LangAlpha) · [官网](https://langalpha.ai) · 组织维护 · 中文 README
 
 **为投资者提供研究市场并按权限执行交易的 AI agent 工作台**
 

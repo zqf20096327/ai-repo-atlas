@@ -1,6 +1,6 @@
 # microsoft/Agents-for-net
 
-⭐ 186 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/Agents-for-net) · 组织维护
+⭐ 186 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agents-for-net) · 组织维护
 
 **.NET 构建 M365/Teams 等平台多渠道 agent 的 SDK**
 

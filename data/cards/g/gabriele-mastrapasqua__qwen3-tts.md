@@ -1,6 +1,6 @@
 # gabriele-mastrapasqua/qwen3-tts
 
-⭐ 142 · C · MIT · 推送 2026-09-25 · [GitHub](https://github.com/gabriele-mastrapasqua/qwen3-tts) · 个人维护
+⭐ 143 · C · MIT · 推送 2026-09-25 · [GitHub](https://github.com/gabriele-mastrapasqua/qwen3-tts) · 个人维护
 
 **纯 C 实现的 Qwen3-TTS 推理引擎，CPU 上跑文本转语音**
 

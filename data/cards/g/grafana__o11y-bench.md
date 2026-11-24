@@ -1,6 +1,6 @@
 # grafana/o11y-bench
 
-⭐ 81 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/grafana/o11y-bench) · [官网](https://o11ybench.ai/) · 组织维护
+⭐ 81 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/grafana/o11y-bench) · [官网](https://o11ybench.ai/) · 组织维护
 
 **评测 LLM agent 在可观测性/SRE 任务上表现的开放基准**
 

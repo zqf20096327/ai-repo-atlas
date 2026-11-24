@@ -1,6 +1,6 @@
 # Davidix07TV/Nest-Music
 
-⭐ 13 · Kotlin · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Davidix07TV/Nest-Music) · [官网](https://davidix07tv.github.io/Nest-Music/) · 个人维护
+⭐ 13 · Kotlin · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Davidix07TV/Nest-Music) · [官网](https://davidix07tv.github.io/Nest-Music/) · 个人维护
 
 **YouTube Music 第三方客户端，支持 Android/Windows/Linux**
 

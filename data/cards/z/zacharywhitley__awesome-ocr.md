@@ -1,6 +1,6 @@
 # zacharywhitley/awesome-ocr
 
-⭐ 1,033 · 推送 2026-08-13 · [GitHub](https://github.com/zacharywhitley/awesome-ocr) · 个人维护
+⭐ 1,034 · 推送 2026-08-13 · [GitHub](https://github.com/zacharywhitley/awesome-ocr) · 个人维护
 
 **OCR 相关算法与工具的策展清单（检测/矫正/分割等）**
 

@@ -1,6 +1,6 @@
 # Verlintas/NovaBAIC
 
-⭐ 120 · Kotlin · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Verlintas/NovaBAIC) · [官网](https://verlintas.dev/NovaBAIC/) · 个人维护 · 中文 README
+⭐ 121 · Kotlin · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Verlintas/NovaBAIC) · [官网](https://verlintas.dev/NovaBAIC/) · 个人维护 · 中文 README
 
 **本地优先的 Android AI 智能体 App：让 AI 通过函数调用操作手机**
 

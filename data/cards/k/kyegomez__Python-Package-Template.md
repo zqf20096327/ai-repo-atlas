@@ -1,6 +1,6 @@
 # kyegomez/Python-Package-Template
 
-⭐ 202 · Shell · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kyegomez/Python-Package-Template) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 202 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kyegomez/Python-Package-Template) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **Python 包开发模板：预置文档、测试、CI 与代码质量工具链**
 

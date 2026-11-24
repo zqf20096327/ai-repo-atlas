@@ -1,6 +1,6 @@
 # devladinci/saystack
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/devladinci/saystack) · [官网](https://devladinci.github.io/saystack/) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/devladinci/saystack) · [官网](https://devladinci.github.io/saystack/) · 个人维护
 
 **给 LLM 聊天 UI 的语音输入输出库：朗读、跟读高亮与听写**
 

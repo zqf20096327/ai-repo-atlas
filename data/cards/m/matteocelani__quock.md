@@ -1,6 +1,6 @@
 # matteocelani/quock
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/matteocelani/quock) · [官网](https://apps.apple.com/app/quock/id6785608333) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/matteocelani/quock) · [官网](https://apps.apple.com/app/quock/id6785608333) · 个人维护
 
 **面向 Ollama Cloud 的 iOS 聊天客户端：云端推理、本地存对话**
 

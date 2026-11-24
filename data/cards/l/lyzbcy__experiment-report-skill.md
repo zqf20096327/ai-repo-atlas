@@ -1,6 +1,6 @@
 # lyzbcy/experiment-report-skill
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lyzbcy/experiment-report-skill) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lyzbcy/experiment-report-skill) · 个人维护 · 中文 README
 
 **给 AI 编程工具的实验报告生成技能：真实跑实验后交付 md+docx 报告**
 

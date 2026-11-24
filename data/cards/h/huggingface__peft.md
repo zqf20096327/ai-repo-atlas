@@ -1,6 +1,6 @@
 # huggingface/peft
 
-⭐ 21,916 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/peft) · [官网](https://huggingface.co/docs/peft) · 组织维护
+⭐ 21,918 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/peft) · [官网](https://huggingface.co/docs/peft) · 组织维护
 
 **给开发者用少量参数微调大型预训练模型的库**
 

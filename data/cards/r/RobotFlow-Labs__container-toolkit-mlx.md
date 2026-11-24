@@ -1,6 +1,6 @@
 # RobotFlow-Labs/container-toolkit-mlx
 
-⭐ 11 · Swift · MIT · 推送 2026-03-15 · [GitHub](https://github.com/RobotFlow-Labs/container-toolkit-mlx) · [官网](https://robotflowlabs.com) · 组织维护
+⭐ 12 · Swift · MIT · 推送 2026-03-15 · [GitHub](https://github.com/RobotFlow-Labs/container-toolkit-mlx) · [官网](https://robotflowlabs.com) · 组织维护
 
 **让 Linux 容器在 Apple Silicon 上调用主机 Metal GPU 跑 MLX 推理**
 

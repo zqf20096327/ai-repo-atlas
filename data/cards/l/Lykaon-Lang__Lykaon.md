@@ -1,6 +1,6 @@
 # Lykaon-Lang/Lykaon
 
-⭐ 6 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Lykaon-Lang/Lykaon) · [官网](https://lykaon-lang.github.io/Lykaon/) · 组织维护
+⭐ 6 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Lykaon-Lang/Lykaon) · [官网](https://lykaon-lang.github.io/Lykaon/) · 组织维护
 
 **类英语语法的编程语言：编译为原生可执行文件**
 

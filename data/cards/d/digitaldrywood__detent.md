@@ -1,6 +1,6 @@
 # digitaldrywood/detent
 
-⭐ 16 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/digitaldrywood/detent) · [官网](https://digitaldrywood.com) · 组织维护
+⭐ 16 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/digitaldrywood/detent) · [官网](https://digitaldrywood.com) · 组织维护
 
 **基于看板的编码代理工作流编排器：让 agent 在自管机器上执行并合入 issue**
 

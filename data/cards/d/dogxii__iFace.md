@@ -1,6 +1,6 @@
 # dogxii/iFace
 
-⭐ 154 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dogxii/iFace) · [官网](https://face.dogxi.me) · 个人维护 · 中文 README
+⭐ 156 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dogxii/iFace) · [官网](https://face.dogxi.me) · 个人维护 · 中文 README
 
 **本地存储的工程师面试刷题工具，配 AI 面试教练**
 

@@ -1,6 +1,6 @@
 # meshy-dev/meshy-3d-agent
 
-⭐ 122 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/meshy-dev/meshy-3d-agent) · 组织维护
+⭐ 123 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/meshy-dev/meshy-3d-agent) · 组织维护
 
 **驱动 Meshy CLI 的 agent 技能包：文生/图生 3D 与 3D 打印工作流**
 

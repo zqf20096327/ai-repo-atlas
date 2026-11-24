@@ -1,6 +1,6 @@
 # bulkgrid/bulkgrid
 
-⭐ 94 · TypeScript · 推送 2026-11-17 · [GitHub](https://github.com/bulkgrid/bulkgrid) · [官网](https://bulkgrid.com) · 组织维护
+⭐ 94 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/bulkgrid/bulkgrid) · [官网](https://bulkgrid.com) · 组织维护
 
 **面向开发者的网络数据获取与索引平台 SDK，为 AI 应用供检索**
 

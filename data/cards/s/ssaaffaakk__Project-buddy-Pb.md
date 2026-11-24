@@ -1,6 +1,6 @@
 # ssaaffaakk/Project-buddy-Pb
 
-⭐ 20 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ssaaffaakk/Project-buddy-Pb) · [官网](https://project-buddy-pb.onrender.com) · 个人维护
+⭐ 19 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/ssaaffaakk/Project-buddy-Pb) · [官网](https://project-buddy-pb.onrender.com) · 个人维护
 
 **面向大学生的组队平台：语义匹配队友与项目、信誉体系、RAG 助手**
 

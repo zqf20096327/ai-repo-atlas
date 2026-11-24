@@ -1,6 +1,6 @@
 # bug-ops/zeph
 
-⭐ 66 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bug-ops/zeph) · [官网](https://bug-ops.github.io/zeph/) · 组织维护
+⭐ 66 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bug-ops/zeph) · [官网](https://bug-ops.github.io/zeph/) · 组织维护
 
 **记忆优先的长期任务 AI agent：本地/云/去中心化运行**
 

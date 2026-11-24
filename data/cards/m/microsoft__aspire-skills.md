@@ -1,6 +1,6 @@
 # microsoft/aspire-skills
 
-⭐ 97 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/aspire-skills) · [官网](https://aspire.dev/get-started/aspire-skills/) · 组织维护
+⭐ 97 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/aspire-skills) · [官网](https://aspire.dev/get-started/aspire-skills/) · 组织维护
 
 **微软官方 Aspire 技能包：让 AI 编码代理正确操作 Aspire 分布式应用**
 

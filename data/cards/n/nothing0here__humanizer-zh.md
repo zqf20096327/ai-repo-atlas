@@ -1,6 +1,6 @@
 # nothing0here/humanizer-zh
 
-⭐ 16 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/nothing0here/humanizer-zh) · 个人维护 · 中文 README
+⭐ 17 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/nothing0here/humanizer-zh) · 个人维护 · 中文 README
 
 **去除中文文本“AI味”的 Agent 技能（SKILL.md 提示词规范）**
 

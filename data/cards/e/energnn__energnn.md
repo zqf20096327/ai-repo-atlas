@@ -1,6 +1,6 @@
 # energnn/energnn
 
-⭐ 34 · Python · MPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/energnn/energnn) · [官网](https://energnn.readthedocs.io) · 组织维护
+⭐ 34 · Python · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/energnn/energnn) · [官网](https://energnn.readthedocs.io) · 组织维护
 
 **面向能源网络的图神经网络库，基于 JAX/Flax**
 

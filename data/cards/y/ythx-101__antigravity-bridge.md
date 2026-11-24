@@ -1,6 +1,6 @@
 # ythx-101/antigravity-bridge
 
-⭐ 65 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/antigravity-bridge) · 个人维护 · 中文 README
+⭐ 64 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/antigravity-bridge) · 个人维护 · 中文 README
 
 **把 Google Antigravity 桌面端聊天封装成本地 REST API 的非官方桥**
 

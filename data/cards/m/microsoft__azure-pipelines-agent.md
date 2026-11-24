@@ -1,6 +1,6 @@
 # microsoft/azure-pipelines-agent
 
-⭐ 1,930 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/azure-pipelines-agent) · 组织维护
+⭐ 1,929 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/azure-pipelines-agent) · 组织维护
 
 **Azure Pipelines 与 TFS 的跨平台构建发布代理**
 

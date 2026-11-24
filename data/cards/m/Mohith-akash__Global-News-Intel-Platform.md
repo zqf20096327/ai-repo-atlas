@@ -1,6 +1,6 @@
 # Mohith-akash/Global-News-Intel-Platform
 
-⭐ 29 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Mohith-akash/Global-News-Intel-Platform) · [官网](https://global-news-intel-platform.streamlit.app/) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Mohith-akash/Global-News-Intel-Platform) · [官网](https://global-news-intel-platform.streamlit.app/) · 个人维护
 
 **GDELT 地缘新闻数据平台：每小时 ETL + 仪表盘与 AI 问答**
 

@@ -1,6 +1,6 @@
 # STEAM-DROPS/finetune-lab-notes
 
-⭐ 54 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/STEAM-DROPS/finetune-lab-notes) · 组织维护
+⭐ 54 · HTML · 推送 2026-11-24 · [GitHub](https://github.com/STEAM-DROPS/finetune-lab-notes) · 组织维护
 
 **Transformer 微调实验笔记本合集：面向学习者的动手教程库**
 

@@ -1,6 +1,6 @@
 # Muvon/octomind
 
-⭐ 647 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Muvon/octomind) · [官网](https://octomind.run) · 个人维护
+⭐ 654 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Muvon/octomind) · [官网](https://octomind.run) · 个人维护
 
 **开源编码 agent 运行时：单二进制接入任意模型，TOML 策略护栏**
 

@@ -1,10 +1,10 @@
 # getzep/graphiti
 
-⭐ 33,002 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/getzep/graphiti) · [官网](https://help.getzep.com/graphiti) · 组织维护
+⭐ 33,038 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/getzep/graphiti) · [官网](https://help.getzep.com/graphiti) · 组织维护
 
-**为 AI Agent 构建可查询时序知识图谱的 Python 框架**
+**为 AI Agent 构建和查询时序知识图谱的 Python 框架**
 
-Graphiti 是一个开源 Python 框架，用于构建和查询面向 AI Agent 的时序 context graph：事实带有效期窗口、保留对原始数据（episodes）的溯源、支持 Pydantic 定义或从数据中习得的本体。数据增量接入无需全图重算，检索混合语义嵌入、BM25 与图遍历。用户提供图数据库（Neo4j/FalkorDB/Neptune）、LLM 与嵌入器；默认使用 OpenAI，需 OpenAI API key；附参考 MCP 与 REST 服务器实现（无鉴权，非生产部署）。
+开源 Python 框架，用于构建和查询面向 AI Agent 的时序上下文图谱：事实带时间有效期窗口、可溯源至原始数据（episodes），支持通过 Pydantic 模型规定或从数据中学习 ontology，增量更新无需整图重算，检索融合语义嵌入、BM25 关键词与图遍历。用户需自备图数据库（Neo4j/FalkorDB/Amazon Neptune/Relate）、LLM 与嵌入器；默认使用 OpenAI 并需设置 API key，默认低并发以规避 LLM 429 限流。与商业产品 Zep（托管企业上下文层）为不同定位，Graphiti 仅自托管。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@ Graphiti 是一个开源 Python 框架，用于构建和查询面向 AI Agent �
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,20 +27,20 @@ Graphiti 是一个开源 Python 框架，用于构建和查询面向 AI Agent �
 
 ## 能力要点
 
-- 事实带时序有效期窗口，信息变更时旧事实失效而非删除
+- 事实带时间有效期窗口，信息变更时旧事实自动失效并保留历史
+- episodes 溯源机制：每个事实可回溯到产生它的原始数据
 - 混合检索：语义嵌入 + BM25 关键词 + 图遍历
-- 增量图构建，无需批量重算；支持 prescribed/learned 双本体
-- 提供参考 MCP 服务器与 REST 服务器实现
+- 通过 Pydantic 模型自定义实体与边类型
 
 ## 适用场景
 
-- 给 Agent 构建随交互演化的长期记忆图谱
-- 对频繁变化的企业数据做时序查询与历史回溯
-- 替代静态 RAG 分块方案，保留结构化上下文与溯源
+- 为 Agent 搭建随交互演化的记忆知识图谱
+- 对频繁变化的企业数据做实时增量入图与历史查询
+- 替代平铺文档切片，为应用提供结构化上下文
 
 ## 场景标签
 
-`Agent 记忆` `知识图谱` `RAG` · 领域:Agent 开发
+`知识图谱` `RAG` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `e7c5df3bb34e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e886600926dd` · [字段定义](../../DATASET.md)*

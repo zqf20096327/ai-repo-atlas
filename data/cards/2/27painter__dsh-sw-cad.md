@@ -1,6 +1,6 @@
 # 27painter/dsh-sw-cad
 
-⭐ 15 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/27painter/dsh-sw-cad) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/27painter/dsh-sw-cad) · 个人维护 · 中文 README
 
 **让 AI agent 驱动 SolidWorks/AutoCAD 出图并自检交付**
 

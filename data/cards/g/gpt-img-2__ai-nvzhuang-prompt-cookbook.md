@@ -1,6 +1,6 @@
 # gpt-img-2/ai-nvzhuang-prompt-cookbook
 
-⭐ 11 · NOASSERTION · 推送 2026-06-07 · [GitHub](https://github.com/gpt-img-2/ai-nvzhuang-prompt-cookbook) · [官网](https://gptimg2.art/zh/prompts/gpt-image-2/category/womens-fashion?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear) · 组织维护 · 中文 README
+⭐ 12 · NOASSERTION · 推送 2026-06-07 · [GitHub](https://github.com/gpt-img-2/ai-nvzhuang-prompt-cookbook) · [官网](https://gptimg2.art/zh/prompts/gpt-image-2/category/womens-fashion?utm_source=github&utm_medium=repo&utm_campaign=fashion_prompt_cookbook&utm_content=womenswear) · 组织维护 · 中文 README
 
 **女装电商与博主的 AI 图片生成提示词库**
 

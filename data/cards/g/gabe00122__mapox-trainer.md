@@ -1,6 +1,6 @@
 # gabe00122/mapox-trainer
 
-⭐ 17 · Python · 推送 2026-11-19 · [GitHub](https://github.com/gabe00122/mapox-trainer) · 个人维护
+⭐ 17 · Python · 推送 2026-11-23 · [GitHub](https://github.com/gabe00122/mapox-trainer) · 个人维护
 
 **JAX 多智能体强化学习训练框架：Transformer 智能体+PPO**
 

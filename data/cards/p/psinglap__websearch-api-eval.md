@@ -1,6 +1,6 @@
 # psinglap/websearch-api-eval
 
-⭐ 4 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/psinglap/websearch-api-eval) · [官网](https://psinglap.github.io/websearch-api-eval/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **AI agent 用的四款网页搜索 API 基准评测与查询工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

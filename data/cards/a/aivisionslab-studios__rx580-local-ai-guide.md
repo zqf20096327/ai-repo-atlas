@@ -1,6 +1,6 @@
 # aivisionslab-studios/rx580-local-ai-guide
 
-⭐ 51 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/aivisionslab-studios/rx580-local-ai-guide) · [官网](https://setup-ia-local-rx580-vulkan.web.app) · 组织维护
+⭐ 52 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/aivisionslab-studios/rx580-local-ai-guide) · [官网](https://setup-ia-local-rx580-vulkan.web.app) · 组织维护
 
 **AMD RX 580 8GB 上用 Vulkan 跑本地 AI 的完整指南**
 

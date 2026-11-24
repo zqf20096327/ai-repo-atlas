@@ -1,6 +1,6 @@
 # soulsteads/soulsteads-model-router
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/soulsteads/soulsteads-model-router) · [官网](https://soulsteads.github.io/soulsteads) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/soulsteads/soulsteads-model-router) · [官网](https://soulsteads.github.io/soulsteads) · 个人维护
 
 **为本地推理服务器提供容量感知路由的 OpenAI 兼容网关**
 

@@ -1,6 +1,6 @@
 # yc-software/minecraft-agent-harness
 
-⭐ 232 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yc-software/minecraft-agent-harness) · 组织维护
+⭐ 233 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yc-software/minecraft-agent-harness) · 组织维护
 
 **在 Minecraft 中运行 LLM agent 的 harness，含持久会话与沙箱**
 

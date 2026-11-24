@@ -1,6 +1,6 @@
 # prp/oscar
 
-⭐ 20 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/prp/oscar) · 组织维护
+⭐ 21 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/prp/oscar) · 组织维护
 
 **让 Apple Silicon Mac 以弹性内存运行超内存大型 MoE 模型**
 

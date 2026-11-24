@@ -1,6 +1,6 @@
 # microsoft/azure-skills
 
-⭐ 1,666 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/azure-skills) · 组织维护
+⭐ 1,669 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/azure-skills) · 组织维护
 
 **为编码 Agent 提供 Azure 技能与 MCP 服务器配置的插件**
 

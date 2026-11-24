@@ -1,6 +1,6 @@
 # lifeiteng/Flash-SoftDTW
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lifeiteng/Flash-SoftDTW) · [官网](https://pypi.org/project/flash-softdtw-torch/) · 个人维护 · 中文 README
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lifeiteng/Flash-SoftDTW) · [官网](https://pypi.org/project/flash-softdtw-torch/) · 个人维护 · 中文 README
 
 **PyTorch 的 soft-DTW 可微损失库：批量快速计算值与梯度**
 

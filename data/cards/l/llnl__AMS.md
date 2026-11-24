@@ -1,6 +1,6 @@
 # llnl/AMS
 
-⭐ 12 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/llnl/AMS) · 组织维护
+⭐ 12 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/llnl/AMS) · [官网](https://software.llnl.gov/AMS/) · 组织维护
 
 **面向 HPC 代码集成 ML 代理模型的库（建设中）**
 

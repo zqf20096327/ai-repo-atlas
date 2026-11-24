@@ -1,6 +1,6 @@
 # context-dot-dev/enrichable
 
-⭐ 297 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/context-dot-dev/enrichable) · [官网](https://www.enrichable.io) · 组织维护
+⭐ 301 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/context-dot-dev/enrichable) · [官网](https://www.enrichable.io) · 组织维护
 
 **面向销售/增长团队的 AI 数据富化电子表格**
 

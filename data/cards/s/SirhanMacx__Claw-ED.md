@@ -1,6 +1,6 @@
 # SirhanMacx/Claw-ED
 
-⭐ 65 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SirhanMacx/Claw-ED) · [官网](https://sirhanmacx.github.io/Claw-ED) · 组织维护
+⭐ 66 · Python · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SirhanMacx/Claw-ED) · [官网](https://sirhanmacx.github.io/Claw-ED) · 组织维护
 
 **本地优先的 AI 教学助手：用教师自有课件生成可编辑教案与课件**
 

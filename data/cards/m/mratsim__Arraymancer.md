@@ -1,6 +1,6 @@
 # mratsim/Arraymancer
 
-⭐ 1,418 · Nim · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/mratsim/Arraymancer) · [官网](https://mratsim.github.io/Arraymancer/) · 个人维护
+⭐ 1,419 · Nim · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/mratsim/Arraymancer) · [官网](https://mratsim.github.io/Arraymancer/) · 个人维护
 
 **Nim 语言的张量计算与深度学习库，支持 CPU/CUDA/OpenCL**
 

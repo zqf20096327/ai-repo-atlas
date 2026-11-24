@@ -1,6 +1,6 @@
 # flowork-os/flowork-os
 
-⭐ 5 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/flowork-os/flowork-os) · [官网](https://floworkos.com) · 个人维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/flowork-os/flowork-os) · [官网](https://floworkos.com) · 个人维护
 
 **面向桌面用户的自主 AI 代理操作系统，内置 Android/Wine 与 USB 启动**
 

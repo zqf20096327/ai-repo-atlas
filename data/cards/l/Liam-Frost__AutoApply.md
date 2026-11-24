@@ -1,6 +1,6 @@
 # Liam-Frost/AutoApply
 
-⭐ 62 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Liam-Frost/AutoApply) · 个人维护 · 中文 README
+⭐ 62 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Liam-Frost/AutoApply) · 个人维护 · 中文 README
 
 **求职者的本地求职自动化工作台：发现岗位、评分、生成材料、人工把关提交**
 

@@ -1,6 +1,6 @@
 # FarsideResearch/StateFrame
 
-⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/FarsideResearch/StateFrame) · [官网](https://farsideresearch.com) · 组织维护
+⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/FarsideResearch/StateFrame) · [官网](https://farsideresearch.com) · 组织维护
 
 **长时运行 agent 的开源引擎：固定提示预算、无历史压缩**
 

@@ -1,6 +1,6 @@
 # coldiceh/ocg-ruling-assistant
 
-⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/coldiceh/ocg-ruling-assistant) · [官网](https://tcg-ruling-assistant.vercel.app/) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/coldiceh/ocg-ruling-assistant) · [官网](https://tcg-ruling-assistant.vercel.app/) · 个人维护 · 中文 README
 
 **面向 OCG 玩家的游戏王裁定问答助手（检索+RAG）**
 

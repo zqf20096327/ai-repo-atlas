@@ -1,6 +1,6 @@
 # parksben/opensider
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/parksben/opensider) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/parksben/opensider) · 个人维护 · 中文 README
 
 **驱动本地 Agent CLI 操作网页的浏览器侧边栏扩展**
 

@@ -1,6 +1,6 @@
 # luiscleto/shepherdr
 
-⭐ 24 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/luiscleto/shepherdr) · 个人维护
+⭐ 25 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/luiscleto/shepherdr) · 个人维护
 
 **手机网页端监控与操作 Herdr 编码 agent 的界面**
 

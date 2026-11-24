@@ -1,6 +1,6 @@
 # agentproto/ts
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/agentproto/ts) · [官网](https://agentproto.sh) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/agentproto/ts) · [官网](https://agentproto.sh) · 组织维护
 
 **TypeScript 编码 agent 运行时：后台托管会话并做门禁检查**
 

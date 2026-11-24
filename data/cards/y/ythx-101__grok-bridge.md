@@ -1,6 +1,6 @@
 # ythx-101/grok-bridge
 
-⭐ 163 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/grok-bridge) · 个人维护 · 中文 README
+⭐ 162 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/grok-bridge) · 个人维护 · 中文 README
 
 **把已登录 Safari 的 Grok 网页变成本地 REST API/CLI**
 

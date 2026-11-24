@@ -1,6 +1,6 @@
 # hanyeol/model-compose
 
-⭐ 118 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hanyeol/model-compose) · 个人维护 · 中文 README
+⭐ 119 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hanyeol/model-compose) · 个人维护 · 中文 README
 
 **用单个 YAML 声明式编排 AI 管线与应用的开源框架**
 

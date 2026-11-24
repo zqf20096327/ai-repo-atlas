@@ -1,6 +1,6 @@
 # a1st-dev/aix
 
-⭐ 22 · TypeScript · 推送 2026-11-10 · [GitHub](https://github.com/a1st-dev/aix) · [官网](https://aix.a1st.dev) · 个人维护
+⭐ 22 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/a1st-dev/aix) · [官网](https://aix.a1st.dev) · 个人维护
 
 **AI 编辑器配置的统一管理工具：一份 ai.json 用于多家编辑器**
 

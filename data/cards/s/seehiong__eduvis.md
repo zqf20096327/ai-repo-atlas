@@ -1,6 +1,6 @@
 # seehiong/eduvis
 
-⭐ 29 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/seehiong/eduvis) · [官网](https://seehiong.github.io/eduvis/showcase/) · 个人维护
+⭐ 30 · Python · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/seehiong/eduvis) · [官网](https://seehiong.github.io/eduvis/showcase/) · 个人维护
 
 **课程感知的教育内容规范：教学中间表示、编译校验与 SVG 渲染**
 

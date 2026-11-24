@@ -1,6 +1,6 @@
 # stfc/qiskit-machine-learning
 
-⭐ 1,116 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stfc/qiskit-machine-learning) · [官网](https://stfc.github.io/qiskit-machine-learning/) · 组织维护
+⭐ 1,116 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/stfc/qiskit-machine-learning) · [官网](https://stfc.github.io/qiskit-machine-learning/) · 组织维护
 
 **基于 Qiskit 的量子机器学习库：量子核与量子神经网络**
 

@@ -1,6 +1,6 @@
 # framerslab/safeos
 
-⭐ 58 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/framerslab/safeos) · [官网](https://safeos.sh/) · 组织维护
+⭐ 58 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/framerslab/safeos) · [官网](https://safeos.sh/) · 组织维护
 
 **浏览器端本地运行的宠物/婴儿/老人 AI 监控 PWA**
 

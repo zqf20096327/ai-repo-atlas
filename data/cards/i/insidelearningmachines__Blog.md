@@ -1,6 +1,6 @@
 # insidelearningmachines/Blog
 
-⭐ 29 · Jupyter Notebook · 推送 2026-10-18 · [GitHub](https://github.com/insidelearningmachines/Blog) · [官网](https://www.insidelearningmachines.com) · 个人维护
+⭐ 29 · Jupyter Notebook · 推送 2026-11-22 · [GitHub](https://github.com/insidelearningmachines/Blog) · [官网](https://www.insidelearningmachines.com) · 个人维护
 
 **博客文章配套的 Python/Jupyter 代码示例集**
 

@@ -1,6 +1,6 @@
 # Atlas-Inf/atlas
 
-⭐ 45 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Atlas-Inf/atlas) · [官网](https://atlasinference.dev) · 组织维护
+⭐ 46 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Atlas-Inf/atlas) · [官网](https://atlasinference.dev) · 组织维护
 
 **纯 Rust/CUDA 的 LLM 本地推理引擎，面向工作站硬件**
 

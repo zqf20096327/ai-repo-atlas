@@ -1,6 +1,6 @@
 # Tencent-Hunyuan/HYDRA
 
-⭐ 99 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Tencent-Hunyuan/HYDRA) · [官网](https://bollossom.github.io/HYDRA/) · 组织维护 · 中文 README
+⭐ 106 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Tencent-Hunyuan/HYDRA) · [官网](https://bollossom.github.io/HYDRA/) · 组织维护 · 中文 README
 
 **统一多模态理解与文生图生成的模型及 tokenizer（NeurIPS 2026）**
 

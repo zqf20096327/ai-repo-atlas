@@ -1,6 +1,6 @@
 # google-deepmind/reaf-sim
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google-deepmind/reaf-sim) · [官网](https://reaf-sim.readthedocs.io/) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-deepmind/reaf-sim) · [官网](https://reaf-sim.readthedocs.io/) · 组织维护
 
 **面向 sim-to-real 机器人工作流的 MuJoCo 仿真环境编写框架**
 

@@ -1,6 +1,6 @@
 # dronefreak/DetectionBench
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dronefreak/DetectionBench) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dronefreak/DetectionBench) · 个人维护
 
 **面向非 COCO 检测数据集的标准化评测框架**
 

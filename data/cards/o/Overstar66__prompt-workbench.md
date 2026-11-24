@@ -1,6 +1,6 @@
 # Overstar66/prompt-workbench
 
-⭐ 68 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Overstar66/prompt-workbench) · 个人维护 · 中文 README
+⭐ 72 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Overstar66/prompt-workbench) · 个人维护 · 中文 README
 
 **本地动漫提示词工作台：图反推、AI 扩写、标签拼装**
 

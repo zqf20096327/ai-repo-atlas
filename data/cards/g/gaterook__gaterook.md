@@ -1,6 +1,6 @@
 # gaterook/gaterook
 
-⭐ 6 · Java · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/gaterook/gaterook) · [官网](https://gaterook.com) · 组织维护
+⭐ 7 · Java · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/gaterook/gaterook) · [官网](https://gaterook.com) · 组织维护
 
 **给 AI 应用接入生产基础设施加权限、审批与审计的 MCP 桌面网关**
 

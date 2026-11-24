@@ -1,6 +1,6 @@
 # yucezerey/turkish-anti-ai-skill
 
-⭐ 332 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/yucezerey/turkish-anti-ai-skill) · 个人维护
+⭐ 331 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/yucezerey/turkish-anti-ai-skill) · 个人维护
 
 **清除土耳其语文本中 AI 写作痕迹的 Agent Skill 与 Humanizer 包**
 

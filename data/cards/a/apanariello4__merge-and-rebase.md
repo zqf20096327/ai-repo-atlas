@@ -1,6 +1,6 @@
 # apanariello4/merge-and-rebase
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/apanariello4/merge-and-rebase) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/apanariello4/merge-and-rebase) · 个人维护
 
 **模型合并、任务向量迁移与微调的研究代码库，面向视觉与 LLM 模型**
 

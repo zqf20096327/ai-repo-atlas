@@ -1,6 +1,6 @@
 # lets-mica/mica-ai
 
-⭐ 33 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/lets-mica/mica-ai) · [官网](https://www.dreamlu.net) · 组织维护 · 中文 README
+⭐ 33 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lets-mica/mica-ai) · [官网](https://www.dreamlu.net) · 组织维护 · 中文 README
 
 **面向 Java 生态的多模型 AI 推理工具箱，JVM 内直接运行**
 

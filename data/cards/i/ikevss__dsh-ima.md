@@ -1,6 +1,6 @@
 # ikevss/dsh-ima
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ikevss/dsh-ima) · [官网](https://www.npmjs.com/package/ik-dsh-ima) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ikevss/dsh-ima) · [官网](https://www.npmjs.com/package/ik-dsh-ima) · 个人维护 · 中文 README
 
 **把腾讯 ima 知识库接入 DeepSeek Harness 的插件：浏览/搜索/上传**
 

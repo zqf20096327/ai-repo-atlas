@@ -1,6 +1,6 @@
 # openagents-org/openagents
 
-⭐ 4,442 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
+⭐ 4,447 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/openagents-org/openagents) · [官网](https://openagents.org) · 组织维护
 
 **为多 AI agent 提供统一工作区：连接、协作与混编团队**
 

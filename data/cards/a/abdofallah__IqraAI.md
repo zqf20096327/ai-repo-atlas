@@ -1,6 +1,6 @@
 # abdofallah/IqraAI
 
-⭐ 10 · C# · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/abdofallah/IqraAI) · [官网](https://www.iqra.bot) · 组织维护
+⭐ 10 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/abdofallah/IqraAI) · [官网](https://www.iqra.bot) · 组织维护
 
 **无代码编排语音/对话 Agent 的平台，供企业构建可靠对话系统**
 

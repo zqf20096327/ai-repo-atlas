@@ -1,6 +1,6 @@
 # badchars/darknet-mcp-server
 
-⭐ 541 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/badchars/darknet-mcp-server) · [官网](https://www.npmjs.com/package/darknet-mcp-server) · 个人维护 · 中文 README
+⭐ 543 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/badchars/darknet-mcp-server) · [官网](https://www.npmjs.com/package/darknet-mcp-server) · 个人维护 · 中文 README
 
 **给 AI agent 的暗网与威胁情报 MCP 服务器（66 工具/16 源）**
 

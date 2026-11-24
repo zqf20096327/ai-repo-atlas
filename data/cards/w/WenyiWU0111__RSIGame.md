@@ -1,6 +1,6 @@
 # WenyiWU0111/RSIGame
 
-⭐ 179 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/WenyiWU0111/RSIGame) · [官网](https://huggingface.co/spaces/RSIGame/rsigame-page) · 组织维护 · 中文 README
+⭐ 180 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/WenyiWU0111/RSIGame) · [官网](https://huggingface.co/spaces/RSIGame/rsigame-page) · 组织维护 · 中文 README
 
 **自主 agentic 游戏开发框架：递归自改进生成游戏**
 

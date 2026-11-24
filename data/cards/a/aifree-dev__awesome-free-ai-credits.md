@@ -1,6 +1,6 @@
 # aifree-dev/awesome-free-ai-credits
 
-⭐ 4 · 推送 2026-10-30 · [GitHub](https://github.com/aifree-dev/awesome-free-ai-credits) · [官网](https://aifree.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者与学生/创业者的免费 AI 额度核验清单**
 

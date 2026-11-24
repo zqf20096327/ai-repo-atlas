@@ -1,6 +1,6 @@
 # f/prompts.chat
 
-⭐ 178,274 · MDX · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/f/prompts.chat) · [官网](https://prompts.chat) · 个人维护
+⭐ 178,327 · MDX · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/f/prompts.chat) · [官网](https://prompts.chat) · 个人维护
 
 **面向 AI 用户的开源提示词库：浏览、分享与自托管提示词**
 

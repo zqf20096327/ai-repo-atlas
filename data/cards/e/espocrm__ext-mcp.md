@@ -1,6 +1,6 @@
 # espocrm/ext-mcp
 
-⭐ 13 · PHP · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/espocrm/ext-mcp) · 组织维护
+⭐ 13 · PHP · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/espocrm/ext-mcp) · 组织维护
 
 **让 EspoCRM 充当 MCP 服务器的官方扩展**
 

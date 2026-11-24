@@ -1,6 +1,6 @@
 # kreuzberg-dev/kreuzberg-lts
 
-⭐ 21 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kreuzberg-dev/kreuzberg-lts) · [官网](https://kreuzberg.dev) · 组织维护
+⭐ 22 · Rust · MIT · 推送 2026-10-31 · [GitHub](https://github.com/kreuzberg-dev/kreuzberg-lts) · [官网](https://kreuzberg.dev) · 组织维护
 
 **多语言文档文本提取库：97+格式解析、OCR 与代码结构分析**
 

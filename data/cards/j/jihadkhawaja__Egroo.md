@@ -1,6 +1,6 @@
 # jihadkhawaja/Egroo
 
-⭐ 179 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jihadkhawaja/Egroo) · 个人维护
+⭐ 179 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jihadkhawaja/Egroo) · 个人维护
 
 **自托管实时聊天平台：端到端加密与频道语音通话，AI 代理可入群**
 

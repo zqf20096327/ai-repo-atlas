@@ -1,6 +1,6 @@
 # prooflinedev/yek
 
-⭐ 2,479 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/prooflinedev/yek) · 组织维护
+⭐ 2,478 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/prooflinedev/yek) · 组织维护
 
 **把仓库文本文件序列化为单文件供 LLM 使用的 CLI 工具**
 

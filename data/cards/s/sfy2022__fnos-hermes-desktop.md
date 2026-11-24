@@ -1,6 +1,6 @@
 # sfy2022/fnos-hermes-desktop
 
-⭐ 3 · Python · 推送 2026-11-05 · [GitHub](https://github.com/sfy2022/fnos-hermes-desktop) · 个人维护 · 中文 README
+⭐ 4 · Python · 推送 2026-11-05 · [GitHub](https://github.com/sfy2022/fnos-hermes-desktop) · 个人维护 · 中文 README
 
 **把 Hermes Agent 官方 Webapp 打包成飞牛 NAS（fnOS）的 fpk 应用**
 

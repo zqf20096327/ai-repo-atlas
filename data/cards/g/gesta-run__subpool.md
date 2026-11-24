@@ -1,6 +1,6 @@
 # gesta-run/subpool
 
-⭐ 117 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/gesta-run/subpool) · 组织维护 · 中文 README
+⭐ 118 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/gesta-run/subpool) · 组织维护 · 中文 README
 
 **面向团队的自托管 AI 订阅额度池化与治理网关**
 

@@ -1,6 +1,6 @@
 # bimwright/ipt-mcp
 
-⭐ 22 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/bimwright/ipt-mcp) · 组织维护 · 中文 README
+⭐ 22 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bimwright/ipt-mcp) · 组织维护 · 中文 README
 
 **让 Claude Code 等 MCP 客户端本地驱动 Autodesk Inventor 的 MCP 网关**
 

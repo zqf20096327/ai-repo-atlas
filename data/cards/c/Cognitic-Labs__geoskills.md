@@ -1,6 +1,6 @@
 # Cognitic-Labs/geoskills
 
-⭐ 33 · JavaScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/Cognitic-Labs/geoskills) · [官网](https://aivsrank.com) · 组织维护
+⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/Cognitic-Labs/geoskills) · [官网](https://aivsrank.com) · 组织维护
 
 **面向网站运营者的 GEO Agent 技能套件：审计与修复 AI 可见性**
 

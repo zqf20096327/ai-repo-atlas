@@ -1,10 +1,10 @@
 # BaaRai/ARTEX
 
-⭐ 16,082 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/BaaRai/ARTEX) · 个人维护
+⭐ 17,763 · Go · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/BaaRai/ARTEX) · 个人维护
 
-**自托管多智能体自主渗透测试平台，产出带证据的发现**
+**自托管多 Agent 自主渗透测试平台，产出带证据链的发现**
 
-用 Go 编写的自托管 LLM 驱动渗透测试平台，单个 Go 二进制内嵌 Next.js UI，依赖 PostgreSQL。规划器将目标拆解为意图，工作器调用真实工具执行并回写两个关联图（资产图与探索图），形成事件驱动的推进循环。每条发现绑定捕获的 HTTP 请求/响应作为证据，支持 MITM 代理与浏览器扩展采集流量、漏洞复测循环、报告导出。自治行为受审批门、scope 规则、token/轮次预算和噪声调控器约束。
+自托管的 LLM 驱动渗透测试平台：planner 将目标拆解为 intents，workers 用真实工具执行并把结果写回资产图与探索图两张关联图；每条发现可绑定捕获的 HTTP 请求/响应作为证据，所有自主动作经过范围规则、审批门与预算控制。单 Go 二进制内嵌 Next.js UI，依赖 PostgreSQL，支持 Anthropic、OpenAI 兼容端点与本地 Ollama，带 MITM 流量录制代理、浏览器扩展捕获、复测循环与报告导出。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 双图架构：共享资产图与每任务探索图通过锚点关联
-- MITM 代理与浏览器扩展采集流量，发现绑定请求/响应证据
-- 人工审批门、argv 前缀规则、scope/deny 门与任务/意图预算
-- 支持 MCP 服务器、技能与远程工具扩展 agent
+- 双图架构：共享资产图 + 每任务探索图，由锚点关联并计算资产测试覆盖
+- MITM 录制代理与浏览器扩展捕获真实流量，发现绑定请求/响应证据
+- 人工审批门、argv 前缀规则、范围/预算限制与工具输出的注入防护边界
+- 多 provider worker 轮换与故障转移（Anthropic/OpenAI 兼容/Ollama）
 
 ## 适用场景
 
-- 对授权目标执行自主渗透测试并保留可审计证据链
-- 赏金项目中按范围管理资产测试覆盖
-- 对已报告漏洞做固定版本条件下的复测
+- 对授权范围内的目标做自主渗透测试并保留可审计证据
+- Bug bounty 项目中管理资产覆盖与发现复测
+- 需要人工审批关键工具调用的团队渗透流程
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L9: Self-hosted multi-agent offensive security. A planner explores, workers run real tools,
-> L19: ARTEX is a self-hosted, LLM-driven penetration testing platform. It is not a chat wrapper around
-> L33: - **Self-hosted and model-agnostic.** One Go binary with the Next.js UI embedded, PostgreSQL,
+> L17: ARTEX is a self-hosted, LLM-driven penetration testing platform. It is not a chat wrapper around
+> L132: The **planner** reads the exploration graph, judges goals, and dispatches intents only when there
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `92bcf80b3a60` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9cb1b7f90616` · [字段定义](../../DATASET.md)*

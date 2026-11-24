@@ -1,6 +1,6 @@
 # pileax-ai/pileax
 
-⭐ 40 · Vue · MIT · 推送 2026-11-09 · [GitHub](https://github.com/pileax-ai/pileax) · [官网](https://www.pileax.ai) · 组织维护 · 中文 README
+⭐ 40 · Vue · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pileax-ai/pileax) · [官网](https://www.pileax.ai) · 组织维护 · 中文 README
 
 **本地优先的一体化 AI 知识库：AI 对话、笔记与电子书阅读管理**
 

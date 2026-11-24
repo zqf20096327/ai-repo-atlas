@@ -1,6 +1,6 @@
 # modelscope/ms-swift
 
-⭐ 16,142 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/modelscope/ms-swift) · [官网](https://swift.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
+⭐ 16,151 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/ms-swift) · [官网](https://swift.readthedocs.io/zh-cn/latest/) · 组织维护 · 中文 README
 
 **大模型与多模态模型的微调、推理、评测、量化与部署框架**
 

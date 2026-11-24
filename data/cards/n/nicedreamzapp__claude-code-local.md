@@ -1,6 +1,6 @@
 # nicedreamzapp/claude-code-local
 
-⭐ 3,528 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nicedreamzapp/claude-code-local) · [官网](https://nicedreamzapp.github.io/claude-code-local/) · 个人维护
+⭐ 3,531 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nicedreamzapp/claude-code-local) · [官网](https://nicedreamzapp.github.io/claude-code-local/) · 个人维护
 
 **让 Claude Code 在用量用尽后继续跑本地模型的代理服务器**
 

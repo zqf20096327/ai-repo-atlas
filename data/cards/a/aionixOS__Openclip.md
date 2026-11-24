@@ -1,6 +1,6 @@
 # aionixOS/Openclip
 
-⭐ 56 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aionixOS/Openclip) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aionixOS/Openclip) · 个人维护
 
 **本地自托管工具：粘贴 YouTube 链接自动生成短视频切片**
 

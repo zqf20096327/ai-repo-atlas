@@ -1,6 +1,6 @@
 # netket/netket
 
-⭐ 709 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/netket/netket) · [官网](https://www.netket.org) · 组织维护
+⭐ 709 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/netket/netket) · [官网](https://www.netket.org) · 组织维护
 
 **面向科研的量子多体系统神经网络机器学习库**
 

@@ -1,6 +1,6 @@
 # onnx/ir-py
 
-⭐ 54 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/onnx/ir-py) · [官网](http://onnx.ai/ir-py/) · 组织维护
+⭐ 54 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/onnx/ir-py) · [官网](http://onnx.ai/ir-py/) · 组织维护
 
 **Python 内存 IR 库：完整支持 ONNX 规范的图构建与变换**
 

@@ -1,6 +1,6 @@
 # HaseebKhalid1507/capri-syn
 
-⭐ 18 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HaseebKhalid1507/capri-syn) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HaseebKhalid1507/capri-syn) · 个人维护
 
 **Linux/Windows 桌面伴侣宠物，内置 Synaps agent 会话与语音对话**
 

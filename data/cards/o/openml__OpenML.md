@@ -1,6 +1,6 @@
 # openml/OpenML
 
-⭐ 761 · PHP · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/openml/OpenML) · [官网](https://openml.org) · 组织维护
+⭐ 761 · PHP · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/openml/OpenML) · [官网](https://openml.org) · 组织维护
 
 **开放科学平台：共享机器学习数据集、算法与实验**
 

@@ -1,6 +1,6 @@
 # petergreiff3-pixel/gemini-2-5-pro-gcp-billing
 
-⭐ 68 · 推送 2026-11-06 · [GitHub](https://github.com/petergreiff3-pixel/gemini-2-5-pro-gcp-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 90 · 推送 2026-11-06 · [GitHub](https://github.com/petergreiff3-pixel/gemini-2-5-pro-gcp-billing) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡以激活 GCP 结算的营销文档，非软件项目**
 

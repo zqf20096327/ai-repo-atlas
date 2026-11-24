@@ -1,6 +1,6 @@
 # arthjean/paneflow
 
-⭐ 100 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/arthjean/paneflow) · [官网](https://paneflow.dev) · 个人维护
+⭐ 100 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/arthjean/paneflow) · [官网](https://paneflow.dev) · 个人维护
 
 **面向编码 agent 的原生终端复用器：并行运行与审阅改动**
 

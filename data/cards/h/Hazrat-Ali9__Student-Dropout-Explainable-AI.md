@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Student-Dropout-Explainable-AI
 
-⭐ 25 · 推送 2026-08-31 · [GitHub](https://github.com/Hazrat-Ali9/Student-Dropout-Explainable-AI) · [官网](https://github.com/Hazrat-Ali9/Student-Dropout-Explainable-AI) · 个人维护
+⭐ 26 · 推送 2026-08-31 · [GitHub](https://github.com/Hazrat-Ali9/Student-Dropout-Explainable-AI) · [官网](https://github.com/Hazrat-Ali9/Student-Dropout-Explainable-AI) · 个人维护
 
 **用机器学习与可解释 AI 预测并解释学生辍学风险的研究项目**
 

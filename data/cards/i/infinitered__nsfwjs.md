@@ -1,6 +1,6 @@
 # infinitered/nsfwjs
 
-⭐ 9,032 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/infinitered/nsfwjs) · [官网](https://nsfwjs.com/) · 组织维护
+⭐ 9,033 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/infinitered/nsfwjs) · [官网](https://nsfwjs.com/) · 组织维护
 
 **浏览器端不雅图像识别的 JavaScript 库（TensorFlow.js）**
 

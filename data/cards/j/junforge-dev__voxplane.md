@@ -1,6 +1,6 @@
 # junforge-dev/voxplane
 
-⭐ 308 · Python · 推送 2026-11-13 · [GitHub](https://github.com/junforge-dev/voxplane) · [官网](https://junforge-dev.github.io/voxplane/) · 组织维护 · 中文 README
+⭐ 308 · Python · 推送 2026-11-23 · [GitHub](https://github.com/junforge-dev/voxplane) · [官网](https://junforge-dev.github.io/voxplane/) · 组织维护 · 中文 README
 
 **面向 CT/MR/PET 的跨平台 DICOM 阅片工作台**
 

@@ -1,6 +1,6 @@
 # SciSharp/Gym.NET
 
-⭐ 140 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SciSharp/Gym.NET) · [官网](https://scisharp.github.io/Gym.NET/) · 组织维护
+⭐ 140 · C# · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/SciSharp/Gym.NET) · [官网](https://scisharp.github.io/Gym.NET/) · 组织维护
 
 **OpenAI Gym 的 C# 移植版：强化学习算法开发与对比工具包**
 

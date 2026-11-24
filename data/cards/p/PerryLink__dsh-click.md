@@ -1,6 +1,6 @@
 # PerryLink/dsh-click
 
-⭐ 27 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-click) · [官网](https://www.npmjs.com/package/dsh-click) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-click) · [官网](https://www.npmjs.com/package/dsh-click) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的原生桌面控制插件：看屏幕、点击输入、审批把关**
 

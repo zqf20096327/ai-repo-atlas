@@ -1,6 +1,6 @@
 # devopscorner/nifi
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/devopscorner/nifi) · [官网](https://devopscorner.id) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/devopscorner/nifi) · [官网](https://devopscorner.id) · 组织维护
 
 **Apache NiFi 与 NiFi Registry 的生产级容器部署方案**
 

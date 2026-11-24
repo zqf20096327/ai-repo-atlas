@@ -1,6 +1,6 @@
 # osbytes/reelsaw
 
-⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/osbytes/reelsaw) · [官网](https://reelsaw.com/) · 组织维护
+⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/osbytes/reelsaw) · [官网](https://reelsaw.com/) · 组织维护
 
 **自托管 AI 视频剪辑工具：长视频自动转竖屏短视频**
 

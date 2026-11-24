@@ -1,6 +1,6 @@
 # dropps07/forkcast
 
-⭐ 49 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dropps07/forkcast) · [官网](https://forkcast-frontend.onrender.com) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dropps07/forkcast) · [官网](https://forkcast-frontend.onrender.com) · 个人维护
 
 **面向个人用户的多天个性化膳食计划与食谱清单应用**
 

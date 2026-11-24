@@ -1,6 +1,6 @@
 # clusterzx/paperless-ai
 
-⭐ 6,151 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/clusterzx/paperless-ai) · [官网](https://clusterzx.github.io/paperless-ai/) · 个人维护
+⭐ 6,160 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/clusterzx/paperless-ai) · [官网](https://clusterzx.github.io/paperless-ai/) · 个人维护
 
 **为 Paperless-ngx 文档库自动打标并支持自然语言问答**
 

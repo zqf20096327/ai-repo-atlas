@@ -1,6 +1,6 @@
 # wonderwhy-er/DesktopCommanderMCP
 
-⭐ 10,395 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [官网](https://desktopcommander.app/) · 个人维护
+⭐ 10,407 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) · [官网](https://desktopcommander.app/) · 个人维护
 
 **给 Claude 等 MCP 客户端提供终端控制与文件编辑能力的服务器**
 

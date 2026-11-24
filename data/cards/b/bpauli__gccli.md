@@ -1,6 +1,6 @@
 # bpauli/gccli
 
-⭐ 33 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bpauli/gccli) · 个人维护
+⭐ 33 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bpauli/gccli) · 个人维护
 
 **面向 Garmin Connect 的命令行工具，附 AI 助手技能**
 

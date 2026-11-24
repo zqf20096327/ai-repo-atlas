@@ -1,6 +1,6 @@
 # lucidrains/supermimic-pytorch
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lucidrains/supermimic-pytorch) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lucidrains/supermimic-pytorch) · 个人维护
 
 **Supermimic 论文的非官方 PyTorch 实现（进行中）**
 

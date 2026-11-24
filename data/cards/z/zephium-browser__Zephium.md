@@ -1,6 +1,6 @@
 # zephium-browser/Zephium
 
-⭐ 1,231 · Rust · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/zephium-browser/Zephium) · [官网](https://zephium.app) · 组织维护
+⭐ 1,283 · Rust · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/zephium-browser/Zephium) · [官网](https://zephium.app) · 组织维护
 
 **面向用户与 agent 的开源浏览器，AI 在画布上协作完成任务**
 

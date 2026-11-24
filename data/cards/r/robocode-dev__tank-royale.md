@@ -1,6 +1,6 @@
 # robocode-dev/tank-royale
 
-⭐ 275 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/robocode-dev/tank-royale) · [官网](https://robocode.dev/) · 个人维护
+⭐ 275 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/robocode-dev/tank-royale) · [官网](https://robocode.dev/) · 个人维护
 
 **编程对战游戏：写程序控制虚拟坦克在竞技场对战**
 

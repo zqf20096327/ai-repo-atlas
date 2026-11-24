@@ -1,6 +1,6 @@
 # offbyonebit/arc-llama
 
-⭐ 20 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/offbyonebit/arc-llama) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/offbyonebit/arc-llama) · 个人维护
 
 **Intel Arc GPU 上一键运行的 llama.cpp 运行时与服务**
 

@@ -1,6 +1,6 @@
 # aether-aiagent/aether
 
-⭐ 41 · Kotlin · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/aether-aiagent/aether) · [官网](https://aether-aiagent.github.io/aether/) · 个人维护
+⭐ 40 · Kotlin · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/aether-aiagent/aether) · [官网](https://aether-aiagent.github.io/aether/) · 个人维护
 
 **Android 本地 AI Agent 应用：手机上运行带工具与本地 Linux 环境的 LLM 助手**
 

@@ -1,6 +1,6 @@
 # brayevalerien/Flux.1-Architecture-Diagram
 
-⭐ 87 · Typst · MIT · 推送 2026-10-19 · [GitHub](https://github.com/brayevalerien/Flux.1-Architecture-Diagram) · 个人维护
+⭐ 88 · Typst · MIT · 推送 2026-10-19 · [GitHub](https://github.com/brayevalerien/Flux.1-Architecture-Diagram) · 个人维护
 
 **Flux.1 [dev] 模型架构的详细图解（分解到单个 ML 模块）**
 

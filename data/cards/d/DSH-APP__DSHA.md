@@ -1,6 +1,6 @@
 # DSH-APP/DSHA
 
-⭐ 3,651 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/DSH-APP/DSHA) · 组织维护 · 中文 README
+⭐ 3,674 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/DSH-APP/DSHA) · 组织维护 · 中文 README
 
 **免 ROOT 免 Termux 在安卓手机上运行 DeepSeek Harness 的启动器**
 

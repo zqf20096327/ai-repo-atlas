@@ -1,6 +1,6 @@
 # AbhinavPabbaraju/nexus-deep-research-agent
 
-⭐ 38 · TypeScript · 推送 2026-04-30 · [GitHub](https://github.com/AbhinavPabbaraju/nexus-deep-research-agent) · [官网](https://nexus-deep-research-agent.vercel.app) · 个人维护
+⭐ 39 · TypeScript · 推送 2026-04-30 · [GitHub](https://github.com/AbhinavPabbaraju/nexus-deep-research-agent) · [官网](https://nexus-deep-research-agent.vercel.app) · 个人维护
 
 **多阶段深度研究 agent：规划-执行-评估循环产出研究报告**
 

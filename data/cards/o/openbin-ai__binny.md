@@ -1,6 +1,6 @@
 # openbin-ai/binny
 
-⭐ 258 · Go · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/openbin-ai/binny) · [官网](https://openbin.ai/#binny) · 组织维护
+⭐ 258 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/openbin-ai/binny) · [官网](https://openbin.ai/#binny) · 组织维护
 
 **逆向工程 agent 运行框架：接入任意模型分析二进制并产出报告**
 

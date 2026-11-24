@@ -1,6 +1,6 @@
 # freestyle-sh/Adorable
 
-⭐ 839 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/freestyle-sh/Adorable) · 组织维护
+⭐ 838 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/freestyle-sh/Adorable) · 组织维护
 
 **开源 AI 应用构建器：对话生成应用并实时预览、发布**
 

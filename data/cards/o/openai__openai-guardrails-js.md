@@ -1,6 +1,6 @@
 # openai/openai-guardrails-js
 
-⭐ 115 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/openai/openai-guardrails-js) · [官网](https://guardrails.openai.com) · 组织维护
+⭐ 115 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-guardrails-js) · [官网](https://guardrails.openai.com) · 组织维护
 
 **给 OpenAI 应用加输入输出安全检查的 TypeScript 库**
 

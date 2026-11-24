@@ -1,6 +1,6 @@
 # LMD0311/Awesome-World-Model
 
-⭐ 2,306 · 推送 2026-11-21 · [GitHub](https://github.com/LMD0311/Awesome-World-Model) · [官网](https://arxiv.org/abs/2502.10498) · 组织维护
+⭐ 2,307 · 推送 2026-11-21 · [GitHub](https://github.com/LMD0311/Awesome-World-Model) · [官网](https://arxiv.org/abs/2502.10498) · 组织维护
 
 **自动驾驶（及机器人）世界模型论文策展清单**
 

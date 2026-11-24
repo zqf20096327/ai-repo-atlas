@@ -1,6 +1,6 @@
 # evandempsey/podcast-llm
 
-⭐ 153 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/evandempsey/podcast-llm) · [官网](https://evandempsey.github.io/podcast-llm/) · 个人维护
+⭐ 153 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/evandempsey/podcast-llm) · [官网](https://evandempsey.github.io/podcast-llm/) · 个人维护
 
 **仅凭标题自动生成 AI 对话播客的命令行/网页工具**
 

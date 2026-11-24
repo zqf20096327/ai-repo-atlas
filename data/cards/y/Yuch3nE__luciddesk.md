@@ -1,6 +1,6 @@
 # Yuch3nE/luciddesk
 
-⭐ 22 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Yuch3nE/luciddesk) · [官网](https://luciddesk.bbkingdom365.com) · 个人维护 · 中文 README
+⭐ 23 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Yuch3nE/luciddesk) · [官网](https://luciddesk.bbkingdom365.com) · 个人维护 · 中文 README
 
 **Windows 桌面图标整理工具：面板分组、文件夹浏览、搜索预览与 Agent 联动**
 

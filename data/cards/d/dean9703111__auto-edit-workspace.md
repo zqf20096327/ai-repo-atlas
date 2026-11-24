@@ -1,6 +1,6 @@
 # dean9703111/auto-edit-workspace
 
-⭐ 67 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dean9703111/auto-edit-workspace) · [官网](https://deanlin.net/auto-edit-workspace/) · 个人维护 · 中文 README
+⭐ 69 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dean9703111/auto-edit-workspace) · [官网](https://deanlin.net/auto-edit-workspace/) · 个人维护 · 中文 README
 
 **给创作者的 AI 自动剪辑工作区：白话指令剪出讲解影片**
 

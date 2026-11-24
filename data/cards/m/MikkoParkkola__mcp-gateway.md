@@ -1,6 +1,6 @@
 # MikkoParkkola/mcp-gateway
 
-⭐ 91 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/MikkoParkkola/mcp-gateway) · [官网](https://mikkoparkkola.github.io/mcp-gateway/) · 个人维护
+⭐ 92 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/MikkoParkkola/mcp-gateway) · [官网](https://mikkoparkkola.github.io/mcp-gateway/) · 个人维护
 
 **自托管 MCP 网关：把大量 MCP 服务器与 API 聚合到少量工具面**
 

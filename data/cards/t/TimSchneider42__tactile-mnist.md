@@ -1,6 +1,6 @@
 # TimSchneider42/tactile-mnist
 
-⭐ 20 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/TimSchneider42/tactile-mnist) · [官网](https://timschneider42.github.io/tactile-mnist/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TimSchneider42/tactile-mnist) · [官网](https://timschneider42.github.io/tactile-mnist/) · 个人维护
 
 **触觉主动感知强化学习基准：11 个仿真任务与触觉数据集**
 

@@ -1,6 +1,6 @@
 # NVIDIA/dgx-spark-playbooks
 
-⭐ 1,500 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/dgx-spark-playbooks) · 组织维护
+⭐ 1,501 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/NVIDIA/dgx-spark-playbooks) · 组织维护
 
 **DGX Spark 设备上搭建 AI/ML 工作负载的步骤式指南合集**
 

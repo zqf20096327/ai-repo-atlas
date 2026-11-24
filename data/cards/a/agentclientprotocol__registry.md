@@ -1,6 +1,6 @@
 # agentclientprotocol/registry
 
-⭐ 468 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/agentclientprotocol/registry) · [官网](https://agentclientprotocol.com/registry) · 组织维护
+⭐ 469 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agentclientprotocol/registry) · [官网](https://agentclientprotocol.com/registry) · 组织维护
 
 **实现 ACP 协议的 AI agent 官方注册表清单**
 

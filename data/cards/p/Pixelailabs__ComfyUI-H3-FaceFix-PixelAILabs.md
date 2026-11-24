@@ -1,6 +1,6 @@
 # Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs
 
-⭐ 74 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs) · [官网](https://pixelailabs.com) · 组织维护
+⭐ 98 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs) · [官网](https://pixelailabs.com) · 组织维护
 
 **ComfyUI 工作流+节点：修复 MiniMax H3 视频中的远景人脸**
 

@@ -1,6 +1,6 @@
 # aws-samples/whats-new-summary-notifier
 
-⭐ 50 · TypeScript · MIT-0 · 推送 2026-11-21 · [GitHub](https://github.com/aws-samples/whats-new-summary-notifier) · 组织维护
+⭐ 50 · TypeScript · MIT-0 · 推送 2026-11-24 · [GitHub](https://github.com/aws-samples/whats-new-summary-notifier) · 组织维护
 
 **自动摘要 AWS What's New 等网页并推送 Slack/Teams 的生成式 AI 应用**
 

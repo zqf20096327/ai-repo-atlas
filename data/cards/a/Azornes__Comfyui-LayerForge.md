@@ -1,6 +1,6 @@
 # Azornes/Comfyui-LayerForge
 
-⭐ 354 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Azornes/Comfyui-LayerForge) · 个人维护
+⭐ 353 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/Azornes/Comfyui-LayerForge) · 个人维护
 
 **ComfyUI 的类 Photoshop 分层画布编辑节点，服务合成与重绘工作流**
 

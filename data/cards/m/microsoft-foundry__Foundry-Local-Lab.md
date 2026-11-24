@@ -1,6 +1,6 @@
 # microsoft-foundry/Foundry-Local-Lab
 
-⭐ 131 · C# · MIT · 推送 2026-04-24 · [GitHub](https://github.com/microsoft-foundry/Foundry-Local-Lab) · 组织维护
+⭐ 133 · C# · MIT · 推送 2026-04-24 · [GitHub](https://github.com/microsoft-foundry/Foundry-Local-Lab) · 组织维护
 
 **Foundry Local 本地 AI 应用开发动手工作坊（教程仓库）**
 

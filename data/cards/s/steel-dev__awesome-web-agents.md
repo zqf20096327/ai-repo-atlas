@@ -1,6 +1,6 @@
 # steel-dev/awesome-web-agents
 
-⭐ 1,614 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/steel-dev/awesome-web-agents) · 组织维护
+⭐ 1,615 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/steel-dev/awesome-web-agents) · 组织维护
 
 **构建 AI 网页 Agent 的工具与资源清单**
 

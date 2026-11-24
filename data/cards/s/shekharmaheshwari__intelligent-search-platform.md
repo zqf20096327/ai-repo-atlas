@@ -1,6 +1,6 @@
 # shekharmaheshwari/intelligent-search-platform
 
-⭐ 49 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/shekharmaheshwari/intelligent-search-platform) · [官网](https://shekharmaheshwari.github.io/intelligent-search-platform/) · 个人维护
+⭐ 49 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shekharmaheshwari/intelligent-search-platform) · [官网](https://shekharmaheshwari.github.io/intelligent-search-platform/) · 个人维护
 
 **自托管混合搜索后端：索引内容并提供词法+语义检索**
 

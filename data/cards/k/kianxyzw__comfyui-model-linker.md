@@ -1,6 +1,6 @@
 # kianxyzw/comfyui-model-linker
 
-⭐ 72 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kianxyzw/comfyui-model-linker) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kianxyzw/comfyui-model-linker) · 个人维护
 
 **ComfyUI 扩展：为工作流缺失模型做模糊匹配重链与下载**
 

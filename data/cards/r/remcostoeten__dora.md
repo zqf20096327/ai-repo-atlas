@@ -1,6 +1,6 @@
 # remcostoeten/dora
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/remcostoeten/dora) · [官网](https://doradb.app) · 个人维护
+⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/remcostoeten/dora) · [官网](https://doradb.app) · 个人维护
 
 **Rust/Tauri 桌面数据库工作台，支持多种数据库与 AI SQL 生成**
 

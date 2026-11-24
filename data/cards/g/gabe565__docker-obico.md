@@ -1,6 +1,6 @@
 # gabe565/docker-obico
 
-⭐ 38 · 推送 2026-11-06 · [GitHub](https://github.com/gabe565/docker-obico) · [官网](https://obico.io) · 个人维护
+⭐ 38 · 推送 2026-11-24 · [GitHub](https://github.com/gabe565/docker-obico) · [官网](https://obico.io) · 个人维护
 
 **为 Obico 服务器提供预构建 Docker 镜像，便于在不支持本地构建的托管环境部署**
 

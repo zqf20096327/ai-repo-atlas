@@ -1,6 +1,6 @@
 # Metixpro/Macron-Agent
 
-⭐ 15 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Metixpro/Macron-Agent) · 个人维护 · 中文 README
+⭐ 16 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Metixpro/Macron-Agent) · 个人维护 · 中文 README
 
 **自托管的个人 AI 代理，桌面/终端/Telegram 三端执行真实任务**
 

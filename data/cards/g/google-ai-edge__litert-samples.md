@@ -1,6 +1,6 @@
 # google-ai-edge/litert-samples
 
-⭐ 499 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google-ai-edge/litert-samples) · [官网](https://developers.google.com/edge/litert) · 组织维护
+⭐ 500 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-ai-edge/litert-samples) · [官网](https://developers.google.com/edge/litert) · 组织维护
 
 **Google AI Edge 官方端侧 ML/GenAI 示例应用、模型转换配方与 agent 技能库**
 

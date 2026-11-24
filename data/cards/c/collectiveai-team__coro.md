@@ -1,6 +1,6 @@
 # collectiveai-team/coro
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/collectiveai-team/coro) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/collectiveai-team/coro) · 组织维护
 
 **自托管 ASR + 说话人分离服务器，兼容 OpenAI/Deepgram API**
 

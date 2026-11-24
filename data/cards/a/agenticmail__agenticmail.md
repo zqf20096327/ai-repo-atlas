@@ -1,6 +1,6 @@
 # agenticmail/agenticmail
 
-⭐ 257 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/agenticmail/agenticmail) · [官网](https://www.npmjs.com/package/agenticmail) · 组织维护
+⭐ 258 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/agenticmail/agenticmail) · [官网](https://www.npmjs.com/package/agenticmail) · 组织维护
 
 **给 AI agent 提供真实邮箱、手机号与通话的通信基础设施**
 

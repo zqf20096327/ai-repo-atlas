@@ -1,6 +1,6 @@
 # ZSeven-W/dsh-game-studio
 
-⭐ 815 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ZSeven-W/dsh-game-studio) · [官网](https://finiking.github.io/dsh-games/wall/) · 个人维护 · 中文 README
+⭐ 853 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ZSeven-W/dsh-game-studio) · [官网](https://finiking.github.io/dsh-games/wall/) · 个人维护 · 中文 README
 
 **给 agent 用户的 AI 小游戏生成插件：一句话生成可玩游戏**
 

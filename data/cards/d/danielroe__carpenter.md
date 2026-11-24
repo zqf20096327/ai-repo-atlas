@@ -1,6 +1,6 @@
 # danielroe/carpenter
 
-⭐ 76 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/danielroe/carpenter) · [官网](https://github.com/nuxt/nuxt) · 个人维护
+⭐ 76 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/danielroe/carpenter) · [官网](https://github.com/nuxt/nuxt) · 个人维护
 
 **面向 Nuxt 仓库的 LLM 驱动 issue 分类机器人**
 

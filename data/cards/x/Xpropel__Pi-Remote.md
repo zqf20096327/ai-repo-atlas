@@ -1,6 +1,6 @@
 # Xpropel/Pi-Remote
 
-⭐ 334 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Xpropel/Pi-Remote) · 个人维护 · 中文 README
+⭐ 336 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Xpropel/Pi-Remote) · 个人维护 · 中文 README
 
 **把 pi 终端编码代理会话镜像到浏览器的远程控制工具**
 

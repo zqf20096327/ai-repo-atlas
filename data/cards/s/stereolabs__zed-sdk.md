@@ -1,6 +1,6 @@
 # stereolabs/zed-sdk
 
-⭐ 1,247 · C++ · MIT · 推送 2026-10-21 · [GitHub](https://github.com/stereolabs/zed-sdk) · [官网](https://stereolabs.com) · 组织维护
+⭐ 1,247 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/stereolabs/zed-sdk) · [官网](https://stereolabs.com) · 组织维护
 
 **为 ZED 相机开发空间感知应用的跨平台 SDK**
 

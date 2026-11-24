@@ -1,6 +1,6 @@
 # hachmannlab/chemml
 
-⭐ 180 · Python · BSD-3-Clause · 推送 2026-11-04 · [GitHub](https://github.com/hachmannlab/chemml) · [官网](https://hachmannlab.github.io/chemml) · 组织维护
+⭐ 180 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/hachmannlab/chemml) · [官网](https://hachmannlab.github.io/chemml) · 组织维护
 
 **化学与材料数据的机器学习/信息学程序套件**
 

@@ -1,6 +1,6 @@
 # Agent-Field/plandb
 
-⭐ 111 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Agent-Field/plandb) · [官网](https://agentfield.ai/) · 组织维护
+⭐ 112 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/Agent-Field/plandb) · [官网](https://agentfield.ai/) · 组织维护
 
 **面向 AI agent 的本地优先任务/问题跟踪器（单二进制+SQLite）**
 

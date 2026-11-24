@@ -1,6 +1,6 @@
 # sgl-project/sglang-torchtpu
 
-⭐ 87 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sgl-project/sglang-torchtpu) · 组织维护
+⭐ 88 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/sgl-project/sglang-torchtpu) · 组织维护
 
 **SGLang 的 PyTorch 原生 TPU 推理服务后端插件**
 

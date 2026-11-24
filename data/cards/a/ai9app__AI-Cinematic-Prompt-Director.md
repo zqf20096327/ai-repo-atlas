@@ -1,6 +1,6 @@
 # ai9app/AI-Cinematic-Prompt-Director
 
-⭐ 26 · MIT · 推送 2026-06-21 · [GitHub](https://github.com/ai9app/AI-Cinematic-Prompt-Director) · [官网](https://ai9app.io/ai-media-agent) · 组织维护
+⭐ 27 · MIT · 推送 2026-06-21 · [GitHub](https://github.com/ai9app/AI-Cinematic-Prompt-Director) · [官网](https://ai9app.io/ai-media-agent) · 组织维护
 
 **面向 AI 视频模型的 250 条电影摄影知识库与提示词框架**
 

@@ -1,6 +1,6 @@
 # TheCarBun/RedditAI
 
-⭐ 12 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/TheCarBun/RedditAI) · [官网](https://reddit-ai-one.vercel.app) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-06-20 · [GitHub](https://github.com/TheCarBun/RedditAI) · [官网](https://reddit-ai-one.vercel.app) · 个人维护
 
 **给 Reddit 用户：用 Gemini 生成帖子评论的 AI 摘要**
 

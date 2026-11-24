@@ -1,6 +1,6 @@
 # guillermina-gatti/manual-operaciones
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/guillermina-gatti/manual-operaciones) · 组织维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/guillermina-gatti/manual-operaciones) · 组织维护
 
 **企业内部操作手册平台，RAG 助手引用内部文档作答**
 

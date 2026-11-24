@@ -1,6 +1,6 @@
 # yak1234/toska
 
-⭐ 11 · C++ · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/yak1234/toska) · 个人维护
+⭐ 11 · C++ · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/yak1234/toska) · 个人维护
 
 **给画师的内置 AI Agent 绘画工具（Krita 分支）**
 

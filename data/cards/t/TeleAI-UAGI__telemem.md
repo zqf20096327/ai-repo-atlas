@@ -1,6 +1,6 @@
 # TeleAI-UAGI/telemem
 
-⭐ 495 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/TeleAI-UAGI/telemem) · [官网](https://teleai-uagi.github.io/telemem/) · 组织维护 · 中文 README
+⭐ 496 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/TeleAI-UAGI/telemem) · [官网](https://teleai-uagi.github.io/telemem/) · 组织维护 · 中文 README
 
 **给 Agent 开发者的长期/多模态记忆管理层，可替换 Mem0**
 

@@ -1,6 +1,6 @@
 # MockLoop/mockloop-mcp
 
-⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MockLoop/mockloop-mcp) · [官网](https://mockloop.com) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MockLoop/mockloop-mcp) · [官网](https://mockloop.com) · 组织维护
 
 **MCP 服务器：从 OpenAPI 规范生成 Mock API 并做测试分析**
 

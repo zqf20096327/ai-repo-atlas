@@ -1,6 +1,6 @@
 # PerryLink/dsh-defend
 
-⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-defend) · [官网](https://www.npmjs.com/package/dsh-defend) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-defend) · [官网](https://www.npmjs.com/package/dsh-defend) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的提示注入/越狱/密钥泄露防御插件**
 

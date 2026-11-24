@@ -1,6 +1,6 @@
 # reshaprio/reshapr.io
 
-⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/reshaprio/reshapr.io) · [官网](https://reshapr.io/) · 组织维护
+⭐ 11 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/reshaprio/reshapr.io) · [官网](https://reshapr.io/) · 组织维护
 
 **reShapr 产品文档网站的构建与贡献指南（Docusaurus）**
 

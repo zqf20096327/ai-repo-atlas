@@ -1,6 +1,6 @@
 # narcosovalle173-glitch/browser-agent-operator-sandbox-pay
 
-⭐ 70 · 推送 2026-11-06 · [GitHub](https://github.com/narcosovalle173-glitch/browser-agent-operator-sandbox-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 91 · 推送 2026-11-06 · [GitHub](https://github.com/narcosovalle173-glitch/browser-agent-operator-sandbox-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向浏览器自动化 Agent 的支付沙箱使用指南（CoreGold 商业卡）**
 

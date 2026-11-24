@@ -1,6 +1,6 @@
 # fanbidog/okkmax-web
 
-⭐ 210 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/fanbidog/okkmax-web) · [官网](https://www.okkmax.com) · 个人维护 · 中文 README
+⭐ 210 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/fanbidog/okkmax-web) · [官网](https://www.okkmax.com) · 个人维护 · 中文 README
 
 **AI API 中转站测评与排行榜平台，检测纯度与可用性**
 

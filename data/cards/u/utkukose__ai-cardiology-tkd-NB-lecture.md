@@ -1,6 +1,6 @@
 # utkukose/ai-cardiology-tkd-NB-lecture
 
-⭐ 3 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/utkukose/ai-cardiology-tkd-NB-lecture) · [官网](https://utkukose.github.io/ai-cardiology-tkd-NB-lecture/) · 组织维护
+⭐ 4 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/utkukose/ai-cardiology-tkd-NB-lecture) · [官网](https://utkukose.github.io/ai-cardiology-tkd-NB-lecture/) · 组织维护
 
 **面向心脏病医生的 11 周 Python 与 AI 培训课程**
 

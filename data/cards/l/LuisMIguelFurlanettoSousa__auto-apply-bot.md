@@ -1,6 +1,6 @@
 # LuisMIguelFurlanettoSousa/auto-apply-bot
 
-⭐ 46 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/LuisMIguelFurlanettoSousa/auto-apply-bot) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/LuisMIguelFurlanettoSousa/auto-apply-bot) · 个人维护
 
 **用 Gemini 驱动浏览器自动投递求职申请的 AI agent**
 

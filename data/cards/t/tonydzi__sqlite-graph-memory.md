@@ -1,6 +1,6 @@
 # tonydzi/sqlite-graph-memory
 
-⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tonydzi/sqlite-graph-memory) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tonydzi/sqlite-graph-memory) · 个人维护
 
 **面向编码 Agent 的持久记忆层：MCP 服务器 + SQLite 上的 Graph RAG**
 

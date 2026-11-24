@@ -1,6 +1,6 @@
 # datachain-ai/datachain
 
-⭐ 2,831 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/datachain-ai/datachain) · [官网](https://docs.datachain.ai) · 组织维护
+⭐ 2,832 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/datachain-ai/datachain) · [官网](https://docs.datachain.ai) · 组织维护
 
 **面向开发者的非结构化数据处理库：跨云文件构建类型化版本化数据集**
 

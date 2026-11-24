@@ -1,6 +1,6 @@
 # waterbili/PerimeterX_RE
 
-⭐ 24 · JavaScript · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/waterbili/PerimeterX_RE) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/waterbili/PerimeterX_RE) · 个人维护 · 中文 README
 
 **PerimeterX 反爬 SDK 的纯算法逆向重建，生成 _px3/_px2 cookie**
 

@@ -1,6 +1,6 @@
 # networkoptix/nx_open
 
-⭐ 84 · C++ · 推送 2026-11-22 · [GitHub](https://github.com/networkoptix/nx_open) · [官网](https://networkoptix.com) · 组织维护
+⭐ 84 · C++ · 推送 2026-11-23 · [GitHub](https://github.com/networkoptix/nx_open) · [官网](https://networkoptix.com) · 组织维护
 
 **Nx 视频管理平台桌面客户端的开源组件，可自行构建 VMS 桌面端**
 

@@ -1,6 +1,6 @@
 # Big-Dao/dsh-plugin-wsl-env
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Big-Dao/dsh-plugin-wsl-env) · [官网](https://github.com/Big-Dao/dsh-plugin-wsl-env#readme) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Big-Dao/dsh-plugin-wsl-env) · [官网](https://github.com/Big-Dao/dsh-plugin-wsl-env#readme) · 个人维护
 
 **让 DeepSeek Harness 桌面会话在 WSL 发行版内执行的插件**
 

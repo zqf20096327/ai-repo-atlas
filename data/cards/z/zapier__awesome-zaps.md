@@ -1,6 +1,6 @@
 # zapier/awesome-zaps
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zapier/awesome-zaps) · 组织维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zapier/awesome-zaps) · 组织维护
 
 **给 AI agent 用户的一行安装式 Zap 自动化模板清单**
 

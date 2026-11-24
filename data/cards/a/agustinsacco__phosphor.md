@@ -1,6 +1,6 @@
 # agustinsacco/phosphor
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/agustinsacco/phosphor) · [官网](https://phosphor.saccolabs.com) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/agustinsacco/phosphor) · [官网](https://phosphor.saccolabs.com) · 个人维护
 
 **基于 pi 编码代理的开源多代理桌面 IDE**
 

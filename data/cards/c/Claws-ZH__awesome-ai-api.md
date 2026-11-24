@@ -1,6 +1,6 @@
 # Claws-ZH/awesome-ai-api
 
-⭐ 94 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Claws-ZH/awesome-ai-api) · [官网](https://claws-zh.github.io/awesome-ai-api/) · 个人维护 · 中文 README
+⭐ 94 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Claws-ZH/awesome-ai-api) · [官网](https://claws-zh.github.io/awesome-ai-api/) · 个人维护 · 中文 README
 
 **AI API 网关/中转站清单：185 家每日探测与排名**
 

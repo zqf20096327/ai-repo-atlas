@@ -1,6 +1,6 @@
 # uxgnod/yaf
 
-⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/uxgnod/yaf) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/uxgnod/yaf) · 个人维护 · 中文 README
 
 **自部署在 Cloudflare 免费套餐上的 flomo 便签替代品，含 AI 语义检索与洞察**
 

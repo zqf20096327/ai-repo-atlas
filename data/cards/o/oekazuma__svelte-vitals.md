@@ -1,6 +1,6 @@
 # oekazuma/svelte-vitals
 
-⭐ 25 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/oekazuma/svelte-vitals) · [官网](https://oekazuma.github.io/svelte-vitals/) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oekazuma/svelte-vitals) · [官网](https://oekazuma.github.io/svelte-vitals/) · 个人维护
 
 **SvelteKit 应用的静态代码健康检查工具，无需浏览器**
 

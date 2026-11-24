@@ -1,6 +1,6 @@
 # xavidop/genkitx-github
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/xavidop/genkitx-github) · [官网](https://xavidop.github.io/genkitx-github/) · 个人维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/xavidop/genkitx-github) · [官网](https://xavidop.github.io/genkitx-github/) · 个人维护
 
 **Firebase Genkit 的 GitHub Models 社区插件：接入 GitHub Models API**
 

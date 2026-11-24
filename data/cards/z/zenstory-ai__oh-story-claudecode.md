@@ -1,6 +1,6 @@
 # zenstory-ai/oh-story-claudecode
 
-⭐ 8,837 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zenstory-ai/oh-story-claudecode) · [官网](https://zenstory.ai/zh/oh-story) · 组织维护 · 中文 README
+⭐ 8,855 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zenstory-ai/oh-story-claudecode) · [官网](https://zenstory.ai/zh/oh-story) · 组织维护 · 中文 README
 
 **给网文作者的编程 Agent 技能包：扫榜拆文到连载成稿**
 

@@ -1,6 +1,6 @@
 # davidalami/VulnMapAI
 
-⭐ 34 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/davidalami/VulnMapAI) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/davidalami/VulnMapAI) · 个人维护
 
 **结合 nmap 扫描与 LLM 的漏洞报告生成工具**
 

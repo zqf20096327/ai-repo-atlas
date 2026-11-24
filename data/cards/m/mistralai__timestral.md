@@ -1,6 +1,6 @@
 # mistralai/timestral
 
-⭐ 1,248 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mistralai/timestral) · 组织维护
+⭐ 1,254 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mistralai/timestral) · 组织维护
 
 **面向开发者的多变量概率时序预测基础模型及推理库**
 

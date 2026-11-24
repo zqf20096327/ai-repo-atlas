@@ -1,6 +1,6 @@
 # LynchzDEV/ai-auto-trader-ahh
 
-⭐ 17 · Go · MIT · 推送 2026-04-21 · [GitHub](https://github.com/LynchzDEV/ai-auto-trader-ahh) · [官网](https://demo-trade.lynchz.dev/) · 个人维护 · 中文 README
+⭐ 18 · Go · MIT · 推送 2026-04-21 · [GitHub](https://github.com/LynchzDEV/ai-auto-trader-ahh) · [官网](https://demo-trade.lynchz.dev/) · 个人维护 · 中文 README
 
 **多 AI 辩论共识驱动的币安合约自动交易平台**
 

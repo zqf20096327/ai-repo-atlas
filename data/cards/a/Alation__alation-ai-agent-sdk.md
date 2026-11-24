@@ -1,6 +1,6 @@
 # Alation/alation-ai-agent-sdk
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Alation/alation-ai-agent-sdk) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Alation/alation-ai-agent-sdk) · 组织维护
 
 **让 AI agent 接入 Alation 数据目录的 Python SDK 与 MCP 服务器**
 

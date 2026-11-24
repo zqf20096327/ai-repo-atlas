@@ -1,6 +1,6 @@
 # saidsef/ml-classifier
 
-⭐ 14 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/saidsef/ml-classifier) · 个人维护
+⭐ 14 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/saidsef/ml-classifier) · 个人维护
 
 **基于 sklearn 的新闻文章分类服务：REST API 实时预测类别**
 

@@ -1,6 +1,6 @@
 # scrunchds/Command-Center
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/scrunchds/Command-Center) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/scrunchds/Command-Center) · 个人维护
 
 **面向 Obsidian 用户的本地优先 AI 多 agent 编排插件与个人运营中枢**
 

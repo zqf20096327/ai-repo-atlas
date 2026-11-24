@@ -1,6 +1,6 @@
 # PapilotAI/papilot
 
-⭐ 414 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PapilotAI/papilot) · [官网](https://papilot.ai) · 组织维护 · 中文 README
+⭐ 420 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/PapilotAI/papilot) · [官网](https://papilot.ai) · 组织维护 · 中文 README
 
 **面向 PDF 的 AI LaTeX 编辑器：直接在排版页面上标注修改**
 

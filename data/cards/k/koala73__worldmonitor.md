@@ -1,6 +1,6 @@
 # koala73/worldmonitor
 
-⭐ 91,070 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/koala73/worldmonitor) · [官网](https://worldmonitor.app) · 个人维护 · 中文 README
+⭐ 91,113 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/koala73/worldmonitor) · [官网](https://worldmonitor.app) · 个人维护 · 中文 README
 
 **实时全球情报仪表盘：AI 新闻聚合与地缘监控**
 

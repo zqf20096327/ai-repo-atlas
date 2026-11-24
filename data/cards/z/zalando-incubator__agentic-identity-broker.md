@@ -1,6 +1,6 @@
 # zalando-incubator/agentic-identity-broker
 
-⭐ 80 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zalando-incubator/agentic-identity-broker) · [官网](https://agenticidentitybroker.dev) · 组织维护
+⭐ 81 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zalando-incubator/agentic-identity-broker) · [官网](https://agenticidentitybroker.dev) · 组织维护
 
 **为 AI agent 提供 OAuth2 委托与同意管理的身份代理**
 

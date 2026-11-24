@@ -1,6 +1,6 @@
 # a4webdev/tiacommander-mcp
 
-⭐ 68 · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/a4webdev/tiacommander-mcp) · [官网](https://tiacommander.com/) · 组织维护
+⭐ 69 · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/a4webdev/tiacommander-mcp) · [官网](https://tiacommander.com/) · 组织维护
 
 **连接 MCP AI 助手与西门子 TIA Portal 的 MCP 服务器**
 

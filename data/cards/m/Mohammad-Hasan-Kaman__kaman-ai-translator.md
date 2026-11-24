@@ -1,6 +1,6 @@
 # Mohammad-Hasan-Kaman/kaman-ai-translator
 
-⭐ 70 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Mohammad-Hasan-Kaman/kaman-ai-translator) · [官网](https://mhkaman.com) · 个人维护
+⭐ 72 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Mohammad-Hasan-Kaman/kaman-ai-translator) · [官网](https://mhkaman.com) · 个人维护
 
 **把 PDF/EPUB 整本书自动译为学术波斯语的桌面应用**
 

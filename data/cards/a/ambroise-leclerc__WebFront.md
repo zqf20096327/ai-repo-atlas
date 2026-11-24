@@ -1,6 +1,6 @@
 # ambroise-leclerc/WebFront
 
-⭐ 46 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ambroise-leclerc/WebFront) · 个人维护
+⭐ 46 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ambroise-leclerc/WebFront) · 个人维护
 
 **C++23 header-only 库：用 TypeScript/React 构建原生窗口界面**
 

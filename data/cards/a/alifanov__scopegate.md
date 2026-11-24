@@ -1,6 +1,6 @@
 # alifanov/scopegate
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/alifanov/scopegate) · [官网](https://scopegate.dev) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alifanov/scopegate) · [官网](https://scopegate.dev) · 个人维护
 
 **AI 代理的细粒度权限网关，按动作粒度下发 MCP 端点**
 

@@ -1,6 +1,6 @@
 # mwakidenis/GBV-SafeSpace
 
-⭐ 17 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/mwakidenis/GBV-SafeSpace) · [官网](https://hera-safehaven.vercel.app/) · 个人维护
+⭐ 17 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/mwakidenis/GBV-SafeSpace) · [官网](https://hera-safehaven.vercel.app/) · 个人维护
 
 **面向非洲女性与女孩的性别暴力防护数字平台**
 

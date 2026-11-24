@@ -1,6 +1,6 @@
 # FutureSpeakAI/Agent-Friday
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FutureSpeakAI/Agent-Friday) · [官网](https://futurespeak.ai) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FutureSpeakAI/Agent-Friday) · [官网](https://futurespeak.ai) · 组织维护
 
 **本地优先的 Windows 私人 AI 语音助手，行动前需用户批准**
 

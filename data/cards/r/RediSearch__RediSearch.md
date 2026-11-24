@@ -1,6 +1,6 @@
 # RediSearch/RediSearch
 
-⭐ 6,244 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/RediSearch/RediSearch) · [官网](https://redis.io/docs/latest/develop/ai/search-and-query/) · 组织维护
+⭐ 6,244 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/RediSearch/RediSearch) · [官网](https://redis.io/docs/latest/develop/ai/search-and-query/) · 组织维护
 
 **Redis 的查询与索引引擎：二级索引、全文与向量搜索**
 

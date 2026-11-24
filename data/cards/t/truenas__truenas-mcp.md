@@ -1,6 +1,6 @@
 # truenas/truenas-mcp
 
-⭐ 125 · Go · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/truenas/truenas-mcp) · [官网](https://truenas.com) · 组织维护
+⭐ 128 · Go · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/truenas/truenas-mcp) · [官网](https://truenas.com) · 组织维护
 
 **让 AI 通过 MCP 用自然语言管理 TrueNAS 的服务器工具**
 

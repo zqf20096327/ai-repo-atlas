@@ -1,6 +1,6 @@
 # helloianneo/ian-handdrawn-ppt
 
-⭐ 1,532 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/ian-handdrawn-ppt) · [官网](https://ianneo.xyz) · 个人维护 · 中文 README
+⭐ 1,534 · MIT · 推送 2026-10-27 · [GitHub](https://github.com/helloianneo/ian-handdrawn-ppt) · [官网](https://ianneo.xyz) · 个人维护 · 中文 README
 
 **指导 AI Agent 生成中文手绘风格 PPT 页面图的 Codex Skill**
 

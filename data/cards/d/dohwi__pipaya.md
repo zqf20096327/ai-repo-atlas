@@ -1,6 +1,6 @@
 # dohwi/pipaya
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dohwi/pipaya) · [官网](https://pipaya.dohwi.com) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dohwi/pipaya) · [官网](https://pipaya.dohwi.com) · 个人维护
 
 **自托管在自有服务器上的 AI agent 聊天工具**
 

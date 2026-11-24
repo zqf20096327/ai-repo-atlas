@@ -1,6 +1,6 @@
 # yui0/catseye
 
-⭐ 33 · C · 推送 2026-11-14 · [GitHub](https://github.com/yui0/catseye) · 个人维护 · 中文 README
+⭐ 33 · C · 推送 2026-11-23 · [GitHub](https://github.com/yui0/catseye) · 个人维护 · 中文 README
 
 **单头文件 C 神经网络库及示例应用集**
 

@@ -1,6 +1,6 @@
 # ChisaAlter/WhaleIsle-MyGo
 
-⭐ 6 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ChisaAlter/WhaleIsle-MyGo) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **把 DeepSeek Harness 做成原生桌面客户端的 AI 编码工作台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # apecloud/ApeRAG
 
-⭐ 1,317 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/apecloud/ApeRAG) · [官网](https://apemind.ai) · 组织维护 · 中文 README
+⭐ 1,320 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/apecloud/ApeRAG) · [官网](https://apemind.ai) · 组织维护 · 中文 README
 
 **生产级 RAG 平台：构建知识图谱并支持多模态检索与 AI Agent**
 

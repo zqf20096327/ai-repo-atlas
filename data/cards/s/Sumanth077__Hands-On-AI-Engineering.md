@@ -1,6 +1,6 @@
 # Sumanth077/Hands-On-AI-Engineering
 
-⭐ 4,120 · Python · 推送 2026-11-22 · [GitHub](https://github.com/Sumanth077/Hands-On-AI-Engineering) · [官网](https://aiengineering.beehiiv.com) · 个人维护
+⭐ 4,121 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Sumanth077/Hands-On-AI-Engineering) · [官网](https://aiengineering.beehiiv.com) · 个人维护
 
 **面向 AI 学习者的实践项目合集：OCR、RAG、Agent 等案例**
 

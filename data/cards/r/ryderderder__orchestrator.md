@@ -1,6 +1,6 @@
 # ryderderder/orchestrator
 
-⭐ 12 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/ryderderder/orchestrator) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/ryderderder/orchestrator) · 个人维护
 
 **把多个 AI 订阅 CLI 编成 tmux 团队并按配额路由**
 

@@ -1,6 +1,6 @@
 # LuqP2/Image-MetaHub
 
-⭐ 339 · TypeScript · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/LuqP2/Image-MetaHub) · [官网](https://imagemetahub.com) · 个人维护
+⭐ 339 · TypeScript · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/LuqP2/Image-MetaHub) · [官网](https://imagemetahub.com) · 个人维护
 
 **本地优先的 AI 生成图像管理与检索桌面应用**
 

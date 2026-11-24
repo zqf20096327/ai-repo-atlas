@@ -1,6 +1,6 @@
 # prefix-tree/uberscene
 
-⭐ 49 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/prefix-tree/uberscene) · [官网](http://uberscene.prefixtree.xyz/) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/prefix-tree/uberscene) · [官网](http://uberscene.prefixtree.xyz/) · 个人维护
 
 **面向 agent 的代码化视频编辑 React 库：TSX 即视频**
 

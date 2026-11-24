@@ -1,6 +1,6 @@
 # theexperiencecompany/gaia-ui
 
-⭐ 226 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/theexperiencecompany/gaia-ui) · [官网](https://ui.heygaia.io) · 组织维护
+⭐ 225 · TypeScript · MIT · 推送 2026-09-03 · [GitHub](https://github.com/theexperiencecompany/gaia-ui) · [官网](https://ui.heygaia.io) · 组织维护
 
 **面向 AI 助手/聊天界面的 React UI 组件注册表**
 

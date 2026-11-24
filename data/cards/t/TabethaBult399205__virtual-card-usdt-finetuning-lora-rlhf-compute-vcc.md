@@ -1,6 +1,6 @@
 # TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc
 
-⭐ 53 · 推送 2026-11-13 · [GitHub](https://github.com/TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 76 · 推送 2026-11-13 · [GitHub](https://github.com/TabethaBult399205/virtual-card-usdt-finetuning-lora-rlhf-compute-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡+USDT 为 AI 训练算力付费设预算上限**
 

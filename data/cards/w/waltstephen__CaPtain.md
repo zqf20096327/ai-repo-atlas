@@ -1,6 +1,6 @@
 # waltstephen/CaPtain
 
-⭐ 124 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/waltstephen/CaPtain) · 组织维护
+⭐ 130 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/waltstephen/CaPtain) · 组织维护
 
 **把小视觉语言模型后训练成代码即策略机器人智能体的开源全流程管线**
 

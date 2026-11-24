@@ -1,6 +1,6 @@
 # 01UNCLEDOG01/TokenTracker-Plus
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/01UNCLEDOG01/TokenTracker-Plus) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/01UNCLEDOG01/TokenTracker-Plus) · 个人维护 · 中文 README
 
 **给 AI 编码工具重度用户的本地 Token 用量追踪桌面端**
 

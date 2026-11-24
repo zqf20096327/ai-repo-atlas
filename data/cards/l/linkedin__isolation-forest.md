@@ -1,6 +1,6 @@
 # linkedin/isolation-forest
 
-⭐ 265 · Scala · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/linkedin/isolation-forest) · 组织维护
+⭐ 266 · Scala · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/linkedin/isolation-forest) · 组织维护
 
 **给数据工程师的 Spark/Scala 分布式孤立森林异常检测库**
 

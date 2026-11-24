@@ -1,6 +1,6 @@
 # schmitthub/clawker
 
-⭐ 59 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/schmitthub/clawker) · [官网](https://docs.clawker.dev) · 个人维护
+⭐ 59 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/schmitthub/clawker) · [官网](https://docs.clawker.dev) · 个人维护
 
 **自托管的 AI 编码 agent 沙箱平台：在 Docker 隔离容器中运行 Claude Code/Codex 等 CLI**
 

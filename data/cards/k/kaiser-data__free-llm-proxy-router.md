@@ -1,6 +1,6 @@
 # kaiser-data/free-llm-proxy-router
 
-⭐ 21 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kaiser-data/free-llm-proxy-router) · 组织维护
+⭐ 23 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kaiser-data/free-llm-proxy-router) · 组织维护
 
 **Go 单二进制免费 LLM 代理路由器：聚合各家免费额度为一个 OpenAI 兼容端点**
 

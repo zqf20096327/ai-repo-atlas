@@ -1,6 +1,6 @@
 # TalyxTerminal/TalyxTerminal
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TalyxTerminal/TalyxTerminal) · 个人维护 · 中文 README
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TalyxTerminal/TalyxTerminal) · 个人维护 · 中文 README
 
 **本地运行的模块化金融终端：图表、量化研究与 AI Agent**
 

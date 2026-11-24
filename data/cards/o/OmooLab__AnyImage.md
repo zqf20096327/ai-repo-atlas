@@ -1,6 +1,6 @@
 # OmooLab/AnyImage
 
-⭐ 363 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/OmooLab/AnyImage) · [官网](https://docs.omoolab.xyz/anyimage/latest/) · 组织维护 · 中文 README
+⭐ 364 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/OmooLab/AnyImage) · [官网](https://docs.omoolab.xyz/anyimage/latest/) · 组织维护 · 中文 README
 
 **Blender 图像工具包：将粘贴的图像转为场景元素**
 

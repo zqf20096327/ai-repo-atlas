@@ -1,6 +1,6 @@
 # tezra-io/fermix
 
-⭐ 24 · Elixir · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tezra-io/fermix) · [官网](https://fermix.ai) · 组织维护
+⭐ 24 · Elixir · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tezra-io/fermix) · [官网](https://fermix.ai) · 组织维护
 
 **自托管的个人多 agent AI 守护进程：通过你已在用的聊天渠道触达**
 

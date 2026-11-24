@@ -1,6 +1,6 @@
 # sethbang/mcp-screenshot-server
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sethbang/mcp-screenshot-server) · 个人维护
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sethbang/mcp-screenshot-server) · 个人维护
 
 **为 AI 助手提供网页与系统截图能力的 MCP 服务器**
 

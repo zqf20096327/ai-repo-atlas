@@ -1,6 +1,6 @@
 # AlphaAvatar/AlphaAvatar
 
-⭐ 823 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/AlphaAvatar/AlphaAvatar) · [官网](https://www.alphaavatar.ai) · 组织维护
+⭐ 823 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AlphaAvatar/AlphaAvatar) · [官网](https://www.alphaavatar.ai) · 组织维护
 
 **可自托管的全模态实时个人助理框架**
 

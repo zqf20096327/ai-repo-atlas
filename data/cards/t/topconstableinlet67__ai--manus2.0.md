@@ -1,6 +1,6 @@
 # topconstableinlet67/ai--manus2.0
 
-⭐ 373 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topconstableinlet67/ai--manus2.0) · 个人维护
+⭐ 370 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topconstableinlet67/ai--manus2.0) · 个人维护
 
 **面向日常任务的自主 AI Agent：自行执行代码与浏览器操作**
 

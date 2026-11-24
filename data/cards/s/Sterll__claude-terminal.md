@@ -1,6 +1,6 @@
 # Sterll/claude-terminal
 
-⭐ 84 · JavaScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Sterll/claude-terminal) · [官网](https://claudeterminal.dev) · 个人维护
+⭐ 84 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sterll/claude-terminal) · [官网](https://claudeterminal.dev) · 个人维护
 
 **管理 Claude Code 项目的跨平台桌面应用，集成终端与聊天界面**
 

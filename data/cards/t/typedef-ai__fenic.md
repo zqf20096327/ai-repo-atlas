@@ -1,6 +1,6 @@
 # typedef-ai/fenic
 
-⭐ 681 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/typedef-ai/fenic) · [官网](https://fenic.ai) · 组织维护
+⭐ 681 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/typedef-ai/fenic) · [官网](https://fenic.ai) · 组织维护
 
 **带 AI 算子的语义 DataFrame 引擎，供人与 agent 共用**
 

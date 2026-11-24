@@ -1,6 +1,6 @@
 # janmus1c/ncm-mlx
 
-⭐ 10 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/janmus1c/ncm-mlx) · [官网](https://janmus1c.github.io/ncm-mlx/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/janmus1c/ncm-mlx) · [官网](https://janmus1c.github.io/ncm-mlx/) · 个人维护
 
 **在 Apple Silicon GPU 上运行与训练 NCM 非自回归文本生成模型**
 

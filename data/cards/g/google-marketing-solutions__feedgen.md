@@ -1,6 +1,6 @@
 # google-marketing-solutions/feedgen
 
-⭐ 268 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-marketing-solutions/feedgen) · 组织维护
+⭐ 269 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-marketing-solutions/feedgen) · 组织维护
 
 **用 Vertex AI LLM 优化 Google Shopping 商品流的工具**
 

@@ -1,6 +1,6 @@
 # 2182977liu-bit/awesome-ai-agent-learning
 
-⭐ 94 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/2182977liu-bit/awesome-ai-agent-learning) · [官网](https://github.com/2182977liu-bit/awesome-ai-agent-learning#readme) · 个人维护 · 中文 README
+⭐ 95 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/2182977liu-bit/awesome-ai-agent-learning) · [官网](https://github.com/2182977liu-bit/awesome-ai-agent-learning#readme) · 个人维护 · 中文 README
 
 **中文原创 AI Agent 保姆级教程：从零手写 Agent 到框架实战**
 

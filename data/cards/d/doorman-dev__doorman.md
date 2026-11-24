@@ -1,6 +1,6 @@
 # doorman-dev/doorman
 
-⭐ 245 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/doorman-dev/doorman) · [官网](https://doorman.dev) · 组织维护
+⭐ 245 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/doorman-dev/doorman) · [官网](https://doorman.dev) · 组织维护
 
 **Rust 编写的多协议 API 网关与控制平面，含 AI API 接入**
 

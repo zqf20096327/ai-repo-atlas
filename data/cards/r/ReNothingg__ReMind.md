@@ -1,6 +1,6 @@
 # ReNothingg/ReMind
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-10-16 · [GitHub](https://github.com/ReNothingg/ReMind) · [官网](https://chat.synvexai.com) · 个人维护
+⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ReNothingg/ReMind) · [官网](https://chat.synvexai.com) · 个人维护
 
 **自托管的流式 AI 聊天工作台（React+Flask 全栈应用）**
 

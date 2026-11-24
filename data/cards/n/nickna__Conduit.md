@@ -1,6 +1,6 @@
 # nickna/Conduit
 
-⭐ 14 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nickna/Conduit) · 个人维护
+⭐ 14 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nickna/Conduit) · 个人维护
 
 **多 LLM 供应商统一网关：OpenAI 兼容 API 与计费路由**
 

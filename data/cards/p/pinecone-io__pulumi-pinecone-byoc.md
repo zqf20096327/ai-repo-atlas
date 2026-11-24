@@ -1,6 +1,6 @@
 # pinecone-io/pulumi-pinecone-byoc
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/pinecone-io/pulumi-pinecone-byoc) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/pinecone-io/pulumi-pinecone-byoc) · 组织维护
 
 **用 Pulumi 在自有云账号部署 Pinecone 向量数据库的 IaC 工具**
 

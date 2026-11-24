@@ -1,6 +1,6 @@
 # riesbri/dshline
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/riesbri/dshline) · [官网](https://dshline.xyz) · 个人维护 · 中文 README
+⭐ 27 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/riesbri/dshline) · [官网](https://dshline.xyz) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的终端原生 TUI 前端，带真实滚动回显**
 

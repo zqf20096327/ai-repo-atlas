@@ -1,6 +1,6 @@
 # frgfm/torch-cam
 
-⭐ 2,302 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/frgfm/torch-cam) · [官网](https://frgfm.github.io/torch-cam/) · 个人维护 · 中文 README
+⭐ 2,302 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/frgfm/torch-cam) · [官网](https://frgfm.github.io/torch-cam/) · 个人维护 · 中文 README
 
 **为 PyTorch 模型生成类激活图的可解释性库**
 

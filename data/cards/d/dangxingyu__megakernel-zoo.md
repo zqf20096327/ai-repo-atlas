@@ -1,6 +1,6 @@
 # dangxingyu/megakernel-zoo
 
-⭐ 41 · Cuda · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dangxingyu/megakernel-zoo) · [官网](https://dangxingyu.github.io/megakernel/) · 个人维护
+⭐ 45 · Cuda · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dangxingyu/megakernel-zoo) · [官网](https://dangxingyu.github.io/megakernel/) · 个人维护
 
 **为单一模型+GPU 编写的 megakernel LLM 解码引擎集合与服务器**
 

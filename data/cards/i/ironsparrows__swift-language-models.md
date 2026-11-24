@@ -1,6 +1,6 @@
 # ironsparrows/swift-language-models
 
-⭐ 24 · Swift · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ironsparrows/swift-language-models) · [官网](https://swiftpackageindex.com/ironsparrows/swift-language-models) · 个人维护
+⭐ 24 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ironsparrows/swift-language-models) · [官网](https://swiftpackageindex.com/ironsparrows/swift-language-models) · 个人维护
 
 **统一 Swift API：把多家 LLM 接入 Apple Foundation Models 会话**
 

@@ -1,6 +1,6 @@
 # Forge-Audio/mp-forge
 
-⭐ 7 · Rust · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Forge-Audio/mp-forge) · [官网](https://forge-audio.github.io/mp-forge/) · 组织维护
+⭐ 8 · Rust · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Forge-Audio/mp-forge) · [官网](https://forge-audio.github.io/mp-forge/) · 组织维护
 
 **为 Akai MPC 生成乐器/效果器插件的桌面 AI 工具**
 

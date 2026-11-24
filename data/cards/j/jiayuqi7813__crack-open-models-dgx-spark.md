@@ -1,6 +1,6 @@
 # jiayuqi7813/crack-open-models-dgx-spark
 
-⭐ 73 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jiayuqi7813/crack-open-models-dgx-spark) · 个人维护
+⭐ 75 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/jiayuqi7813/crack-open-models-dgx-spark) · 个人维护
 
 **在双 DGX Spark 上做开源模型行为干预的 Codex 技能**
 

@@ -1,6 +1,6 @@
 # DrejT/alineo
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/DrejT/alineo) · [官网](https://alineo.tech) · 个人维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DrejT/alineo) · [官网](https://alineo.tech) · 个人维护
 
 **沙箱化 AI agent 集群的控制平面：运行/分叉/暂停/审计多个 agent**
 

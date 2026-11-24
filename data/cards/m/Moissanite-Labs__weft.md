@@ -1,6 +1,6 @@
 # Moissanite-Labs/weft
 
-⭐ 3 · HTML · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Moissanite-Labs/weft) · [官网](https://w3ft.org) · 组织维护
+⭐ 3 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Moissanite-Labs/weft) · [官网](https://w3ft.org) · 组织维护
 
 **在可检查约束内研究模型能力添加与迁移的开源研究项目**
 

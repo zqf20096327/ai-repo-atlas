@@ -1,6 +1,6 @@
 # benmaster82/Kwipu
 
-⭐ 615 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/benmaster82/Kwipu) · [官网](https://benmaster82.github.io/Kwipu/) · 个人维护 · 中文 README
+⭐ 616 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/benmaster82/Kwipu) · [官网](https://benmaster82.github.io/Kwipu/) · 个人维护 · 中文 README
 
 **对 Markdown 笔记做本地 Graph RAG 问答的工具，兼容 Obsidian**
 

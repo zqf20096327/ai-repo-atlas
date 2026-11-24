@@ -1,6 +1,6 @@
 # IncarnaMind/IncarnaMind
 
-⭐ 860 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
+⭐ 860 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
 
 **桌面应用：核对 AI 代理所写内容与你的本地文件并逐句标注出处**
 

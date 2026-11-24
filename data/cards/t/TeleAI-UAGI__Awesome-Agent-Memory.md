@@ -1,6 +1,6 @@
 # TeleAI-UAGI/Awesome-Agent-Memory
 
-⭐ 715 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · 组织维护 · 中文 README
+⭐ 718 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · 组织维护 · 中文 README
 
 **LLM/多模态智能体记忆领域的系统、基准与论文策展清单**
 

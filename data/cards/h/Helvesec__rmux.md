@@ -1,6 +1,6 @@
 # Helvesec/rmux
 
-⭐ 2,703 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Helvesec/rmux) · [官网](https://rmux.io) · 组织维护 · 中文 README
+⭐ 2,703 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Helvesec/rmux) · [官网](https://rmux.io) · 组织维护 · 中文 README
 
 **Rust 终端多路复用引擎：兼容 tmux 命令并提供类型化 SDK**
 

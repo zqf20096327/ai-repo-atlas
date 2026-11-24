@@ -1,6 +1,6 @@
 # nico2sh/kimun
 
-⭐ 66 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nico2sh/kimun) · [官网](https://nico2sh.github.io/kimun/) · 个人维护
+⭐ 66 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nico2sh/kimun) · [官网](https://nico2sh.github.io/kimun/) · 个人维护
 
 **本地优先的终端 Markdown 笔记应用，带 MCP 与可选 RAG 服务**
 

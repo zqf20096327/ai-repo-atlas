@@ -1,6 +1,6 @@
 # lobehub/lobe-ui
 
-⭐ 2,279 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lobehub/lobe-ui) · [官网](https://ui.lobehub.com) · 组织维护
+⭐ 2,279 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lobehub/lobe-ui) · [官网](https://ui.lobehub.com) · 组织维护
 
 **为开发者提供构建 AI 聊天与 AIGC Web 应用的 React 组件库**
 

@@ -1,6 +1,6 @@
 # NVIDIA/cdf-anomalygen
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/cdf-anomalygen) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/cdf-anomalygen) · 组织维护
 
 **工业检测的少样本合成缺陷图像生成管线（基于扩散模型）**
 

@@ -1,6 +1,6 @@
 # TypeTyrantScheme/Gemini-Config-Checker-
 
-⭐ 469 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-) · 个人维护
+⭐ 464 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TypeTyrantScheme/Gemini-Config-Checker-) · 个人维护
 
 **扫描代理配置能否进入 Google AI Studio 与 Gemini 的桌面/命令行工具**
 

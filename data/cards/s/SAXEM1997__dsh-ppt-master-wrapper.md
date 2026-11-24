@@ -1,6 +1,6 @@
 # SAXEM1997/dsh-ppt-master-wrapper
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SAXEM1997/dsh-ppt-master-wrapper) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SAXEM1997/dsh-ppt-master-wrapper) · 个人维护 · 中文 README
 
 **把 ppt-master 技能集封装为 DeepSeek Harness 插件，供 agent 生成 PPTX**
 

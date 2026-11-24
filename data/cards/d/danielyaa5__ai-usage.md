@@ -1,6 +1,6 @@
 # danielyaa5/ai-usage
 
-⭐ 3 · Swift · MIT · 推送 2026-11-14 · [GitHub](https://github.com/danielyaa5/ai-usage) · [官网](https://danielyakobian.com/ai-usage/) · 个人维护
+⭐ 3 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/danielyaa5/ai-usage) · [官网](https://danielyakobian.com/ai-usage/) · 个人维护
 
 **macOS 本地面板：统计 Claude Code/Codex/Antigravity 用量与套餐额度**
 

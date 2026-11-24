@@ -1,6 +1,6 @@
 # CraftOS-dev/CraftBot
 
-⭐ 430 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/CraftOS-dev/CraftBot) · [官网](https://craftbot.live/) · 组织维护 · 中文 README
+⭐ 429 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CraftOS-dev/CraftBot) · [官网](https://craftbot.live/) · 组织维护 · 中文 README
 
 **通用 AI agent 平台：可自建并运行 SaaS 工具的智能体框架**
 

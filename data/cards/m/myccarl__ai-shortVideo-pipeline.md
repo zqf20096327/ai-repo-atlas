@@ -1,6 +1,6 @@
 # myccarl/ai-shortVideo-pipeline
 
-⭐ 851 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/myccarl/ai-shortVideo-pipeline) · 个人维护 · 中文 README
+⭐ 855 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/myccarl/ai-shortVideo-pipeline) · 个人维护 · 中文 README
 
 **面向中文短视频创作者的端到端自动化生产流水线**
 

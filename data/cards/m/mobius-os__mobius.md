@@ -1,6 +1,6 @@
 # mobius-os/mobius
 
-⭐ 43 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mobius-os/mobius) · [官网](https://www.mobius.you) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mobius-os/mobius) · [官网](https://www.mobius.you) · 组织维护
 
 **自托管个人 AI agent 工作区：对话式 agent 代办任务并构建应用**
 

@@ -1,6 +1,6 @@
 # orneryd/NornicDB
 
-⭐ 935 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
+⭐ 936 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
 
 **兼容 Neo4j 协议的图+向量数据库，供开发者运行图检索与 AI 记忆**
 

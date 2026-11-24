@@ -1,6 +1,6 @@
 # EvoMap/awesome-agent-evolution
 
-⭐ 243 · JavaScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/EvoMap/awesome-agent-evolution) · 组织维护
+⭐ 243 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/EvoMap/awesome-agent-evolution) · 组织维护
 
 **AI Agent 自我进化、记忆系统与多智能体架构的策展清单**
 

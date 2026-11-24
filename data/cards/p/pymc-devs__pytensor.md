@@ -1,6 +1,6 @@
 # pymc-devs/pytensor
 
-⭐ 654 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/pymc-devs/pytensor) · [官网](https://pytensor.readthedocs.io) · 组织维护
+⭐ 655 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/pymc-devs/pytensor) · [官网](https://pytensor.readthedocs.io) · 组织维护
 
 **多维数组数学表达式的定义、优化与求值 Python 库**
 

@@ -1,6 +1,6 @@
 # taishan666/MaxKB4j
 
-⭐ 144 · Java · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/taishan666/MaxKB4j) · [官网](http://tarzan.blog.csdn.net/) · 个人维护 · 中文 README
+⭐ 144 · Java · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/taishan666/MaxKB4j) · [官网](http://tarzan.blog.csdn.net/) · 个人维护 · 中文 README
 
 **Java 技术栈的 LLMOps 平台：RAG 知识库与可视化工作流引擎**
 

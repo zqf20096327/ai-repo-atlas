@@ -1,6 +1,6 @@
 # xieyulai/steer
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/xieyulai/steer) · [官网](https://github.com/xieyulai/steer) · 个人维护 · 中文 README
+⭐ 29 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/xieyulai/steer) · [官网](https://github.com/xieyulai/steer) · 个人维护 · 中文 README
 
 **AI4R 自主实验治理框架：冻结任务与评分，agent 只改实现**
 

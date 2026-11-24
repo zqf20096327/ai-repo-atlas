@@ -1,6 +1,6 @@
 # SunOner/sunone_aimbot_2
 
-⭐ 743 · C++ · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/SunOner/sunone_aimbot_2) · 个人维护
+⭐ 744 · C++ · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/SunOner/sunone_aimbot_2) · 个人维护
 
 **面向 FPS/TPS 游戏的 AI 检测瞄准辅助程序**
 

@@ -1,6 +1,6 @@
 # jetyu/Snaptium
 
-⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jetyu/Snaptium) · [官网](https://snaptium.com) · 个人维护 · 中文 README
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/jetyu/Snaptium) · [官网](https://snaptium.com) · 个人维护 · 中文 README
 
 **本地优先的跨平台 Markdown 笔记应用，带 AI 助手与知识库问答**
 

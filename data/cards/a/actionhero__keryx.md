@@ -1,6 +1,6 @@
 # actionhero/keryx
 
-⭐ 618 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/actionhero/keryx) · [官网](https://www.keryxjs.com) · 组织维护
+⭐ 614 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/actionhero/keryx) · [官网](https://www.keryxjs.com) · 组织维护
 
 **面向开发者的全栈 TypeScript 框架：一次编写的 Action 同时服务 MCP 与多种 API 传输**
 

@@ -1,6 +1,6 @@
 # LogeshR15/screener-mcp
 
-⭐ 28 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/LogeshR15/screener-mcp) · [官网](https://logeshr15.github.io/screener-mcp/) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LogeshR15/screener-mcp) · [官网](https://logeshr15.github.io/screener-mcp/) · 个人维护
 
 **给 Claude 接入印度股市数据的 MCP 服务器（Screener.in/NSE/MCX）**
 

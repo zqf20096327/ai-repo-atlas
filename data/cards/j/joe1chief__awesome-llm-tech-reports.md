@@ -1,6 +1,6 @@
 # joe1chief/awesome-llm-tech-reports
 
-⭐ 31 · Python · 推送 2026-11-22 · [GitHub](https://github.com/joe1chief/awesome-llm-tech-reports) · [官网](https://joe1chief.github.io/awesome-llm-tech-reports/) · 个人维护 · 中文 README
+⭐ 31 · Python · 推送 2026-11-23 · [GitHub](https://github.com/joe1chief/awesome-llm-tech-reports) · [官网](https://joe1chief.github.io/awesome-llm-tech-reports/) · 个人维护 · 中文 README
 
 **前沿 LLM 技术报告策展档案：按年份/公司组织论文与模型卡**
 

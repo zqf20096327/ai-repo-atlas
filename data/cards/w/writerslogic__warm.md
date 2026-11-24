@@ -1,6 +1,6 @@
 # writerslogic/warm
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/writerslogic/warm) · [官网](https://docs.holographic-memory.com/) · 组织维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/writerslogic/warm) · [官网](https://docs.holographic-memory.com/) · 组织维护
 
 **给 AI agent 的本地记忆与混合检索 Rust 引擎，含 MCP 服务**
 

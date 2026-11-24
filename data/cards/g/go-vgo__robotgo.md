@@ -1,6 +1,6 @@
 # go-vgo/robotgo
 
-⭐ 10,912 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/go-vgo/robotgo) · [官网](https://atomai.cc) · 个人维护 · 中文 README
+⭐ 10,911 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/go-vgo/robotgo) · [官网](https://atomai.cc) · 个人维护 · 中文 README
 
 **Go 跨平台桌面自动化库：控制鼠标键盘、读屏、图像与窗口**
 

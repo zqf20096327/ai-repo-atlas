@@ -1,6 +1,6 @@
 # Locotir/nexo
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Locotir/nexo) · 个人维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Locotir/nexo) · 个人维护
 
 **面向开发者的 Rust 终端编码 agent，长会话上下文不溢出**
 

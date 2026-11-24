@@ -1,6 +1,6 @@
 # 3155498108/workbuddy-one
 
-⭐ 12 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/3155498108/workbuddy-one) · 个人维护 · 中文 README
+⭐ 13 · Go · MIT · 推送 2026-11-14 · [GitHub](https://github.com/3155498108/workbuddy-one) · 个人维护 · 中文 README
 
 **给 WorkBuddy 桌面客户端加账号一键切换，并整合上游 API 面板**
 

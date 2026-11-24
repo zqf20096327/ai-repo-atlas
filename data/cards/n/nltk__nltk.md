@@ -1,6 +1,6 @@
 # nltk/nltk
 
-⭐ 14,779 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/nltk/nltk) · [官网](https://www.nltk.org) · 组织维护
+⭐ 14,777 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/nltk/nltk) · [官网](https://www.nltk.org) · 组织维护
 
 **为 NLP 研究与开发提供 Python 模块、数据集与教程的工具包**
 

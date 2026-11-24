@@ -1,6 +1,6 @@
 # chrysb/alphaclaw
 
-⭐ 1,489 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/chrysb/alphaclaw) · 个人维护
+⭐ 1,488 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/chrysb/alphaclaw) · 个人维护
 
 **OpenClaw 的托管运行面板：部署、看护、可观测**
 

@@ -1,6 +1,6 @@
 # bostrot/wslmanager
 
-⭐ 4,069 · Dart · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/bostrot/wslmanager) · [官网](https://wslmanager.com) · 个人维护
+⭐ 4,071 · Dart · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/bostrot/wslmanager) · [官网](https://wslmanager.com) · 个人维护
 
 **WSL 发行版的图形化管理器：免命令行安装/备份/迁移**
 

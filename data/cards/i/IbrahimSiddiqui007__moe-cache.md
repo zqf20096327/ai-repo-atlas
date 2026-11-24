@@ -1,6 +1,6 @@
 # IbrahimSiddiqui007/moe-cache
 
-⭐ 22 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/IbrahimSiddiqui007/moe-cache) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/IbrahimSiddiqui007/moe-cache) · 个人维护
 
 **让普通 PC 在 RAM 不足时运行超内存的 MoE 大模型的 llama.cpp 插件**
 

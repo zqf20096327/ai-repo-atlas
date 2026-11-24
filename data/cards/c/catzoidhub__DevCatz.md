@@ -1,6 +1,6 @@
 # catzoidhub/DevCatz
 
-⭐ 22 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/catzoidhub/DevCatz) · [官网](https://catzoid.com/devcatz) · 个人维护
+⭐ 22 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/catzoidhub/DevCatz) · [官网](https://catzoid.com/devcatz) · 个人维护
 
 **macOS/Windows/Linux 本地开发环境应用：自动识别技术栈并一站管理**
 

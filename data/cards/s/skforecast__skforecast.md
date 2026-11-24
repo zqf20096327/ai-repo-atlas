@@ -1,6 +1,6 @@
 # skforecast/skforecast
 
-⭐ 1,551 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/skforecast/skforecast) · [官网](https://skforecast.org) · 组织维护 · 中文 README
+⭐ 1,551 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/skforecast/skforecast) · [官网](https://skforecast.org) · 组织维护 · 中文 README
 
 **时间序列预测 Python 库：统一接口训练、评估与部署预测模型**
 

@@ -1,6 +1,6 @@
 # yoheinakajima/activegraph
 
-⭐ 709 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/yoheinakajima/activegraph) · [官网](https://activegraph.ai) · 个人维护
+⭐ 710 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/yoheinakajima/activegraph) · [官网](https://activegraph.ai) · 个人维护
 
 **事件溯源图运行时：为长时运行、可审计的 agent 提供框架**
 

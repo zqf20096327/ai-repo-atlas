@@ -1,6 +1,6 @@
 # EduardoMoraga/edu
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/EduardoMoraga/edu) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向编码 agent CLI 的身份/记忆/编排层：跨 Claude Code 等工具统一协作**
 
@@ -11,7 +11,7 @@ Edu 安装在已有的编码 agent CLI 之内，为 Claude Code、Codex、Pi、O
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

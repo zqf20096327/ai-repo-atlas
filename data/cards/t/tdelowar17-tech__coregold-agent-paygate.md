@@ -1,6 +1,6 @@
 # tdelowar17-tech/coregold-agent-paygate
 
-⭐ 82 · 推送 2026-11-02 · [GitHub](https://github.com/tdelowar17-tech/coregold-agent-paygate) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 94 · 推送 2026-11-02 · [GitHub](https://github.com/tdelowar17-tech/coregold-agent-paygate) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向 AI API 订阅付费的海外虚拟商用卡发卡服务推广页**
 

@@ -1,6 +1,6 @@
 # darkautism/sensevoice-rs
 
-⭐ 43 · Rust · 推送 2026-11-18 · [GitHub](https://github.com/darkautism/sensevoice-rs) · 个人维护
+⭐ 43 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/darkautism/sensevoice-rs) · 个人维护
 
 **纯 Rust 语音识别库，支持 Rockchip NPU 运行 SenseVoiceSmall**
 

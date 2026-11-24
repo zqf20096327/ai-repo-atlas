@@ -1,6 +1,6 @@
 # linxule/loom
 
-⭐ 11 · Shell · CC-BY-4.0 · 推送 2026-10-06 · [GitHub](https://github.com/linxule/loom) · [官网](https://threadcounts.org) · 个人维护 · 中文 README
+⭐ 11 · Shell · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/linxule/loom) · [官网](https://threadcounts.org) · 个人维护 · 中文 README
 
 **人机协作质性研究系列文章的双语开源合集**
 

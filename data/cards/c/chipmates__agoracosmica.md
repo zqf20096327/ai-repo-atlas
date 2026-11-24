@@ -1,6 +1,6 @@
 # chipmates/agoracosmica
 
-⭐ 152 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/chipmates/agoracosmica) · [官网](https://agoracosmica.org) · 组织维护
+⭐ 152 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chipmates/agoracosmica) · [官网](https://agoracosmica.org) · 组织维护
 
 **可与三十位历史人物对话的“活图书馆”Web应用**
 

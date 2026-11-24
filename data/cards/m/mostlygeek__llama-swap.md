@@ -1,6 +1,6 @@
 # mostlygeek/llama-swap
 
-⭐ 6,295 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mostlygeek/llama-swap) · [官网](https://llama-swap.ai) · 个人维护
+⭐ 6,303 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mostlygeek/llama-swap) · [官网](https://llama-swap.ai) · 个人维护
 
 **本地 AI 服务器间的模型按需热切换代理**
 

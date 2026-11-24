@@ -1,6 +1,6 @@
 # tsingyuec/cs336-blog
 
-⭐ 21 · 推送 2026-10-01 · [GitHub](https://github.com/tsingyuec/cs336-blog) · 个人维护 · 中文 README
+⭐ 22 · 推送 2026-10-01 · [GitHub](https://github.com/tsingyuec/cs336-blog) · 个人维护 · 中文 README
 
 **Stanford CS336 课程的中译视频整理成 18 篇中文技术博客与文稿**
 

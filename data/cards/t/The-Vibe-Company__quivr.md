@@ -1,6 +1,6 @@
 # The-Vibe-Company/quivr
 
-⭐ 39,654 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/The-Vibe-Company/quivr) · [官网](https://www.thevibecompany.co/en/portfolio/quivr) · 组织维护
+⭐ 39,654 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/The-Vibe-Company/quivr) · [官网](https://www.thevibecompany.co/en/portfolio/quivr) · 组织维护
 
 **持续内容流的搜索与监控引擎：存储、检索、告警**
 

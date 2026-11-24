@@ -1,6 +1,6 @@
 # eee1723/dsh-houdini
 
-⭐ 124 · Python · 推送 2026-11-20 · [GitHub](https://github.com/eee1723/dsh-houdini) · 个人维护 · 中文 README
+⭐ 124 · Python · 推送 2026-11-23 · [GitHub](https://github.com/eee1723/dsh-houdini) · 个人维护 · 中文 README
 
 **让 AI Agent 用自然语言操作 Houdini 工程的 DSH 插件**
 

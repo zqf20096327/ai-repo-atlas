@@ -1,6 +1,6 @@
 # william-jin-cmu/cetus
 
-⭐ 152 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/william-jin-cmu/cetus) · [官网](https://cetus.run) · 个人维护 · 中文 README
+⭐ 152 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/william-jin-cmu/cetus) · [官网](https://cetus.run) · 个人维护 · 中文 README
 
 **macOS 桌面客户端：统一管理 Claude Code、Codex 等多个 agent 运行时**
 

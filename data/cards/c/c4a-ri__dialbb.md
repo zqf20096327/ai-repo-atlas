@@ -1,6 +1,6 @@
 # c4a-ri/dialbb
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/c4a-ri/dialbb) · [官网](https://c4a-ri.github.io/dialbb/) · 组织维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/c4a-ri/dialbb) · [官网](https://c4a-ri.github.io/dialbb/) · 组织维护
 
 **对话系统开发框架：面向教学，含 LLM/DST/RAG 内置模块**
 

@@ -1,6 +1,6 @@
 # kaanrkaraman/nblean
 
-⭐ 4 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/kaanrkaraman/nblean) · [官网](https://pypi.org/project/nblean/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给编码 agent 省Token访问 Jupyter notebook 的 CLI**
 
@@ -11,7 +11,7 @@ nblean 提供一个 Rust 单二进制 CLI 与 agent 技能，让编码 agent 按
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

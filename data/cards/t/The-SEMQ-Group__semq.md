@@ -1,6 +1,6 @@
 # The-SEMQ-Group/semq
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/The-SEMQ-Group/semq) · [官网](https://thesemqgroup.ai) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/The-SEMQ-Group/semq) · [官网](https://thesemqgroup.ai) · 组织维护
 
 **嵌入向量的确定性符号编码库：跨语言字节一致、可 diff 可验证**
 

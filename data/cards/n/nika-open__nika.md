@@ -1,6 +1,6 @@
 # nika-open/nika
 
-⭐ 100 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/nika-open/nika) · [官网](https://nika.sh) · 组织维护
+⭐ 101 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/nika-open/nika) · [官网](https://nika.sh) · 组织维护
 
 **把重复的 AI 工作固化为可检查、可验证的工作流文件**
 

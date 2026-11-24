@@ -1,6 +1,6 @@
 # emreocell/Praxi-Bot
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/emreocell/Praxi-Bot) · 个人维护
+⭐ 24 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/emreocell/Praxi-Bot) · 个人维护
 
 **本地优先的开源桌面 AI agent 平台，权限引擎控制每一步操作**
 

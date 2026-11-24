@@ -1,6 +1,6 @@
 # momokun7/xgrep
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/momokun7/xgrep) · [官网](https://crates.io/crates/xgrep-search) · 个人维护
+⭐ 23 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/momokun7/xgrep) · [官网](https://crates.io/crates/xgrep-search) · 个人维护
 
 **带 MCP 服务器的索引式代码搜索引擎，供人类与 AI agent 使用**
 

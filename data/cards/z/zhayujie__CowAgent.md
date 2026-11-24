@@ -1,6 +1,6 @@
 # zhayujie/CowAgent
 
-⭐ 48,044 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zhayujie/CowAgent) · [官网](https://cowagent.ai) · 个人维护 · 中文 README
+⭐ 48,052 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zhayujie/CowAgent) · [官网](https://cowagent.ai) · 个人维护 · 中文 README
 
 **个人 AI 助手：规划任务、调用工具技能，长期记忆自我进化**
 

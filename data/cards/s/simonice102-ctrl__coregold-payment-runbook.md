@@ -1,6 +1,6 @@
 # simonice102-ctrl/coregold-payment-runbook
 
-⭐ 90 · 推送 2026-10-30 · [GitHub](https://github.com/simonice102-ctrl/coregold-payment-runbook) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 94 · 推送 2026-10-30 · [GitHub](https://github.com/simonice102-ctrl/coregold-payment-runbook) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **海外绑卡与支付报错排查手册，配套 CoreGold 虚拟卡操作流程**
 

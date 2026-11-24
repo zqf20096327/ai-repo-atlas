@@ -1,6 +1,6 @@
 # lincolixavier/job-hunt-agent
 
-⭐ 21 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lincolixavier/job-hunt-agent) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lincolixavier/job-hunt-agent) · 个人维护
 
 **把 AI 编码代理改造成求职助理的工作流与 CLI**
 

@@ -1,6 +1,6 @@
 # HKUDS/DeepTutor
 
-⭐ 61,580 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/HKUDS/DeepTutor) · [官网](http://arxiv.org/abs/2604.26962) · 组织维护 · 中文 README
+⭐ 61,957 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/HKUDS/DeepTutor) · [官网](http://arxiv.org/abs/2604.26962) · 组织维护 · 中文 README
 
 **面向学习者的终身个性化 AI 辅导平台（桌面版+CLI）**
 

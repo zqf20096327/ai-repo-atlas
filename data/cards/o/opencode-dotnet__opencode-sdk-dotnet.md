@@ -1,6 +1,6 @@
 # opencode-dotnet/opencode-sdk-dotnet
 
-⭐ 46 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/opencode-dotnet/opencode-sdk-dotnet) · [官网](https://www.nuget.org/packages/OpenCodeDotNet.Sdk/) · 组织维护
+⭐ 46 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opencode-dotnet/opencode-sdk-dotnet) · [官网](https://www.nuget.org/packages/OpenCodeDotNet.Sdk/) · 组织维护
 
 **面向 .NET 开发者的 opencode HTTP API 非官方类型化 SDK**
 

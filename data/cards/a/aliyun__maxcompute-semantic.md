@@ -1,6 +1,6 @@
 # aliyun/maxcompute-semantic
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/aliyun/maxcompute-semantic) · [官网](https://aliyun.github.io/maxcompute-semantic/) · 组织维护 · 中文 README
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aliyun/maxcompute-semantic) · [官网](https://aliyun.github.io/maxcompute-semantic/) · 组织维护 · 中文 README
 
 **为 AI agent 提供_MaxCompute 数据语义层与 SQL 护栏的 CLI**
 

@@ -1,6 +1,6 @@
 # raudhatulirfandta-droid/claude-code-billing-setup
 
-⭐ 71 · 推送 2026-11-03 · [GitHub](https://github.com/raudhatulirfandta-droid/claude-code-billing-setup) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 91 · 推送 2026-11-03 · [GitHub](https://github.com/raudhatulirfandta-droid/claude-code-billing-setup) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **教程/推广：用 CoreGold 虚拟商业卡为 Claude Code 与 Anthropic 绑卡**
 

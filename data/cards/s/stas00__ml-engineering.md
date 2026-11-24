@@ -1,6 +1,6 @@
 # stas00/ml-engineering
 
-⭐ 19,739 · Python · CC-BY-SA-4.0 · 推送 2026-11-21 · [GitHub](https://github.com/stas00/ml-engineering) · [官网](https://stasosphere.com/machine-learning/) · 个人维护
+⭐ 19,742 · Python · CC-BY-SA-4.0 · 推送 2026-11-24 · [GitHub](https://github.com/stas00/ml-engineering) · [官网](https://stasosphere.com/machine-learning/) · 个人维护
 
 **面向 LLM 训练工程师的训练/微调/推理方法论开源手册**
 

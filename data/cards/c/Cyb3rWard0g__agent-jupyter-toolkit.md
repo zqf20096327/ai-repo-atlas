@@ -1,6 +1,6 @@
 # Cyb3rWard0g/agent-jupyter-toolkit
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Cyb3rWard0g/agent-jupyter-toolkit) · 个人维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/Cyb3rWard0g/agent-jupyter-toolkit) · 个人维护
 
 **让 AI agent 通过 Jupyter 内核执行代码的 Python 工具包与 MCP 服务器**
 

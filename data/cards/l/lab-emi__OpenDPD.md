@@ -1,6 +1,6 @@
 # lab-emi/OpenDPD
 
-⭐ 182 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/lab-emi/OpenDPD) · [官网](https://www.tudemi.com) · 组织维护
+⭐ 183 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lab-emi/OpenDPD) · [官网](https://www.tudemi.com) · 组织维护
 
 **PyTorch 功放建模与数字预失真端到端学习框架**
 

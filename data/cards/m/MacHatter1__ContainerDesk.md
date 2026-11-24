@@ -1,6 +1,6 @@
 # MacHatter1/ContainerDesk
 
-⭐ 42 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MacHatter1/ContainerDesk) · [官网](https://www.containerdesk.dev) · 个人维护
+⭐ 43 · Swift · MIT · 推送 2026-11-17 · [GitHub](https://github.com/MacHatter1/ContainerDesk) · [官网](https://www.containerdesk.dev) · 个人维护
 
 **macOS 原生 GUI，管理 Apple container 运行时并内置本地 MLX 聊天**
 

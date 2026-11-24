@@ -1,6 +1,6 @@
 # mosaicml/streaming
 
-⭐ 1,574 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/mosaicml/streaming) · [官网](https://streaming.docs.mosaicml.com) · 组织维护
+⭐ 1,575 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/mosaicml/streaming) · [官网](https://streaming.docs.mosaicml.com) · 组织维护
 
 **面向分布式神经网络训练的云存储数据流式读取库**
 

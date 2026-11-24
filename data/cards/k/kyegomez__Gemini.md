@@ -1,6 +1,6 @@
 # kyegomez/Gemini
 
-⭐ 468 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kyegomez/Gemini) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
+⭐ 468 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kyegomez/Gemini) · [官网](https://discord.gg/GYbXvDGevY) · 个人维护
 
 **Google Gemini 模型的开源复现尝试（PyTorch）**
 

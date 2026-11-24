@@ -1,6 +1,6 @@
 # NoobyGains/godmode
 
-⭐ 133 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/NoobyGains/godmode) · 个人维护
+⭐ 135 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NoobyGains/godmode) · 个人维护
 
 **给 AI 编程 agent 注入工程纪律的技能包（33 个 skills，多 harness 通用）**
 

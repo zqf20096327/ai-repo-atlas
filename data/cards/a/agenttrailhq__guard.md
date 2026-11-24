@@ -1,6 +1,6 @@
 # agenttrailhq/guard
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/agenttrailhq/guard) · [官网](https://www.agenttrail.sh) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agenttrailhq/guard) · [官网](https://www.agenttrail.sh) · 组织维护
 
 **给 AI 编码 agent 加护栏的本地 CLI：工具调用执行前拦截检查**
 

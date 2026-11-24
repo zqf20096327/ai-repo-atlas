@@ -1,6 +1,6 @@
 # Kaiden118/Cross-Modality-Conditional-Diffusion-Model
 
-⭐ 29 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Kaiden118/Cross-Modality-Conditional-Diffusion-Model) · 个人维护
 
 **面向科研者的 T1/T2 MRI 跨模态图像翻译扩散模型实现**
 

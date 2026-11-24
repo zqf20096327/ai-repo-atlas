@@ -1,6 +1,6 @@
 # Alexl-git/Delphi-RAG-Lint
 
-⭐ 22 · Pascal · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Alexl-git/Delphi-RAG-Lint) · [官网](https://www.delphi-rag-lint.com) · 个人维护
+⭐ 22 · Pascal · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Alexl-git/Delphi-RAG-Lint) · [官网](https://www.delphi-rag-lint.com) · 个人维护
 
 **Delphi/Pascal 源码的符号索引、检索、lint 与重构工具**
 

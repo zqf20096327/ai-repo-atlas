@@ -1,6 +1,6 @@
 # omnifaces/claude-faces-expert
 
-⭐ 30 · Shell · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/omnifaces/claude-faces-expert) · 组织维护
+⭐ 30 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/omnifaces/claude-faces-expert) · 组织维护
 
 **面向编码 Agent 的 Jakarta Faces 知识库，随装随用**
 

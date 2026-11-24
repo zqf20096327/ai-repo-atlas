@@ -1,6 +1,6 @@
 # satwiksps/rigsolve
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/satwiksps/rigsolve) · [官网](https://rigsolve.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为 PyTorch 开发者解析 torch/CUDA/GPU 扩展兼容性并生成安装方案**
 
@@ -11,7 +11,7 @@ rigsolve 是离线优先的兼容性解析 CLI 工具：在不导入 torch 的�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

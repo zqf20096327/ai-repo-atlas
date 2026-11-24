@@ -1,6 +1,6 @@
 # druide67/asiai
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/druide67/asiai) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/druide67/asiai) · 个人维护
 
 **Apple Silicon 多推理引擎 LLM 基准测试与监控 CLI**
 

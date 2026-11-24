@@ -1,6 +1,6 @@
 # bigduu/Bamboo-agent
 
-⭐ 24 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bigduu/Bamboo-agent) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
+⭐ 24 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bigduu/Bamboo-agent) · [官网](https://bigduu.github.io/Pavilion/) · 个人维护 · 中文 README
 
 **本地优先的 Rust agent 运行时：终端/浏览器/SDK 里跑 AI 代理**
 

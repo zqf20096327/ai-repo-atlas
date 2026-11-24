@@ -1,6 +1,6 @@
 # rgctl/rgctl
 
-⭐ 31 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rgctl/rgctl) · [官网](https://rgctl.io) · 组织维护
+⭐ 31 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rgctl/rgctl) · [官网](https://rgctl.io) · 组织维护
 
 **给 LLM 编程 agent 用的代码知识图谱 CLI，输出紧凑确定性 JSON**
 

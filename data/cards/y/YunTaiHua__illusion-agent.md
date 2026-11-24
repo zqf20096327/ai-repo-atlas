@@ -1,6 +1,6 @@
 # YunTaiHua/illusion-agent
 
-⭐ 83 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YunTaiHua/illusion-agent) · [官网](https://github.com/YunTaiHua/illusion-agent/releases/latest) · 个人维护 · 中文 README
+⭐ 84 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YunTaiHua/illusion-agent) · [官网](https://github.com/YunTaiHua/illusion-agent/releases/latest) · 个人维护 · 中文 README
 
 **跨终端与浏览器的多模型开源 AI agent 平台**
 

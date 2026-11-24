@@ -1,6 +1,6 @@
 # yashabcyber7/nexadroid
 
-⭐ 1,318 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yashabcyber7/nexadroid) · [官网](https://yashabcyber7.github.io/nexadroid/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **多智能体 AI Android 自动化系统：自然语言分解任务并执行**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

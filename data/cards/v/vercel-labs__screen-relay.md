@@ -1,6 +1,6 @@
 # vercel-labs/screen-relay
 
-⭐ 357 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vercel-labs/screen-relay) · [官网](https://screen-relay.dev) · 组织维护
+⭐ 384 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vercel-labs/screen-relay) · [官网](https://screen-relay.dev) · 组织维护
 
 **给人类和 AI agent 用的低延迟桌面串流与控制工具**
 

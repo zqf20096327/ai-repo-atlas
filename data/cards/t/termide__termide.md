@@ -1,6 +1,6 @@
 # termide/termide
 
-⭐ 189 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/termide/termide) · [官网](https://termide.github.io) · 组织维护 · 中文 README
+⭐ 190 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/termide/termide) · [官网](https://termide.github.io) · 组织维护 · 中文 README
 
 **一体化终端工作区：编辑器/文件管理器/终端/git/数据库与编码 Agent，单一二进制**
 

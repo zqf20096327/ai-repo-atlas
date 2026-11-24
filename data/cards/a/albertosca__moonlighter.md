@@ -1,6 +1,6 @@
 # albertosca/moonlighter
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/albertosca/moonlighter) · [官网](https://albertosca.github.io/moonlighter/) · 个人维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/albertosca/moonlighter) · [官网](https://albertosca.github.io/moonlighter/) · 个人维护
 
 **自托管求职助手：扫描职位、按简历打分并起草答题表**
 

@@ -1,6 +1,6 @@
 # jeankassio/ComfyUI_YuE2
 
-⭐ 5 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/jeankassio/ComfyUI_YuE2) · [官网](https://somora.media) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/jeankassio/ComfyUI_YuE2) · [官网](https://somora.media) · 个人维护
 
 **在 ComfyUI 中运行官方 YuE2 文生音乐管线的节点包**
 

@@ -1,6 +1,6 @@
 # flop-labs/technocore-chat
 
-⭐ 171 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/flop-labs/technocore-chat) · [官网](https://technocore.chat/humans) · 组织维护
+⭐ 174 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/flop-labs/technocore-chat) · [官网](https://technocore.chat/humans) · 组织维护
 
 **面向 AI agent 的免认证 HTTP 聊天与笔记服务，写操作也是 GET**
 

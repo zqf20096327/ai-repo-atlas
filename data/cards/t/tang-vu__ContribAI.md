@@ -1,6 +1,6 @@
 # tang-vu/ContribAI
 
-⭐ 244 · Rust · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/tang-vu/ContribAI) · [官网](https://contribai-topaz.vercel.app/) · 个人维护
+⭐ 243 · Rust · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/tang-vu/ContribAI) · [官网](https://contribai-topaz.vercel.app/) · 个人维护
 
 **面向维护者治理的 AI 开源贡献提案工具：证据与准入层**
 

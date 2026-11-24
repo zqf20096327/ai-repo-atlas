@@ -1,6 +1,6 @@
 # 777genius/claude-code-source-code
 
-⭐ 940 · 推送 2026-10-08 · [GitHub](https://github.com/777genius/claude-code-source-code) · 个人维护
+⭐ 942 · 推送 2026-10-08 · [GitHub](https://github.com/777genius/claude-code-source-code) · 个人维护
 
 **Claude Code 源码镜像的指针仓库：代码已迁移**
 

@@ -1,6 +1,6 @@
 # Mein-Augenstern/MUYI
 
-⭐ 11 · Vue · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Mein-Augenstern/MUYI) · [官网](https://mein-augenstern.github.io/MUYI/) · 个人维护 · 中文 README
+⭐ 11 · Vue · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Mein-Augenstern/MUYI) · [官网](https://mein-augenstern.github.io/MUYI/) · 个人维护 · 中文 README
 
 **面向后端工程师的生产级知识库：394 篇可验证文章**
 

@@ -1,6 +1,6 @@
 # antosec00/kira-desktop
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/antosec00/kira-desktop) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/antosec00/kira-desktop) · 个人维护
 
 **本地桌面工作台：为已有 AI 模型提供项目、工具与权限管理**
 

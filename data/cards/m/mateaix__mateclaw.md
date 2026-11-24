@@ -1,6 +1,6 @@
 # mateaix/mateclaw
 
-⭐ 1,208 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mateaix/mateclaw) · [官网](https://claw.mate.vip) · 组织维护 · 中文 README
+⭐ 1,209 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mateaix/mateclaw) · [官网](https://claw.mate.vip) · 组织维护 · 中文 README
 
 **企业可部署的多用户个人 AI 代理平台（第二大脑）**
 

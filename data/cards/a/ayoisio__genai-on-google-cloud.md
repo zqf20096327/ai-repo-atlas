@@ -1,6 +1,6 @@
 # ayoisio/genai-on-google-cloud
 
-⭐ 44 · Jupyter Notebook · MIT · 推送 2026-05-07 · [GitHub](https://github.com/ayoisio/genai-on-google-cloud) · [官网](https://www.oreilly.com/library/view/genai-on-google/9798341623842/) · 组织维护
+⭐ 45 · Jupyter Notebook · MIT · 推送 2026-05-07 · [GitHub](https://github.com/ayoisio/genai-on-google-cloud) · [官网](https://www.oreilly.com/library/view/genai-on-google/9798341623842/) · 组织维护
 
 **GenAI on Google Cloud 图书配套练习与项目代码库（Vertex AI）**
 

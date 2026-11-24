@@ -1,6 +1,6 @@
 # ranajahanzaib/multi-tenant-rag
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/multi-tenant-rag) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/multi-tenant-rag) · 个人维护
 
 **面向 SaaS 的多租户权限感知 RAG 参考应用**
 

@@ -1,6 +1,6 @@
 # PersonaliAI/chatty
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PersonaliAI/chatty) · [官网](https://chatty.personaliai.com) · 组织维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/PersonaliAI/chatty) · [官网](https://chatty.personaliai.com) · 组织维护 · 中文 README
 
 **面向商店与企业的开源 AI 客服平台，Zendesk/Intercom 替代**
 

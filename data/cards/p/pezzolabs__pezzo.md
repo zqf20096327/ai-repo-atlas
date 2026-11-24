@@ -1,6 +1,6 @@
 # pezzolabs/pezzo
 
-⭐ 3,287 · TypeScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/pezzolabs/pezzo) · [官网](https://pezzo.ai) · 组织维护
+⭐ 3,289 · TypeScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/pezzolabs/pezzo) · [官网](https://pezzo.ai) · 组织维护
 
 **开源 LLMOps 平台：提示词管理、可观测性与协作**
 

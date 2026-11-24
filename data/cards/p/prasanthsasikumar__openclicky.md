@@ -1,6 +1,6 @@
 # prasanthsasikumar/openclicky
 
-⭐ 57 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/prasanthsasikumar/openclicky) · [官网](https://openclicky.org) · 个人维护
+⭐ 57 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/prasanthsasikumar/openclicky) · [官网](https://openclicky.org) · 个人维护
 
 **macOS 语音助手：语音问屏定位答案、离线听写、交接任务给 Codex**
 

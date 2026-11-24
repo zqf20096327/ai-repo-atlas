@@ -1,6 +1,6 @@
 # iPythoning/b2b-sdr-hermes-skill
 
-⭐ 46 · MIT · 推送 2026-08-20 · [GitHub](https://github.com/iPythoning/b2b-sdr-hermes-skill) · [官网](https://pulseagent.io) · 个人维护
+⭐ 47 · MIT · 推送 2026-08-20 · [GitHub](https://github.com/iPythoning/b2b-sdr-hermes-skill) · [官网](https://pulseagent.io) · 个人维护
 
 **Hermes Agent 的 B2B 外贸 AI 销售 SDR 技能：找客户、跟单、发触达**
 

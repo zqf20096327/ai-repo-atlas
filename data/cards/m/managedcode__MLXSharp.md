@@ -1,6 +1,6 @@
 # managedcode/MLXSharp
 
-⭐ 10 · C# · MIT · 推送 2026-11-16 · [GitHub](https://github.com/managedcode/MLXSharp) · 组织维护
+⭐ 10 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/managedcode/MLXSharp) · 组织维护
 
 **在 .NET 中接入 Apple MLX 的封装库**
 

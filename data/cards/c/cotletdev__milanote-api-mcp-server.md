@@ -1,6 +1,6 @@
 # cotletdev/milanote-api-mcp-server
 
-⭐ 7 · Python · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/cotletdev/milanote-api-mcp-server) · [官网](https://cotlet.dev/integrations/milanote-api-mcp-server) · 组织维护
+⭐ 7 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/cotletdev/milanote-api-mcp-server) · [官网](https://cotlet.dev/integrations/milanote-api-mcp-server) · 组织维护
 
 **让 AI 助手通过 MCP 操作 Milanote 看板的 API/MCP 服务器**
 

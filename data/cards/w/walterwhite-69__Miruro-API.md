@@ -1,6 +1,6 @@
 # walterwhite-69/Miruro-API
 
-⭐ 75 · Python · 推送 2026-07-03 · [GitHub](https://github.com/walterwhite-69/Miruro-API) · 个人维护
+⭐ 76 · Python · 推送 2026-07-03 · [GitHub](https://github.com/walterwhite-69/Miruro-API) · 个人维护
 
 **绕过 Miruro 加密管道的动漫元数据与 M3U8 流地址 Python API**
 

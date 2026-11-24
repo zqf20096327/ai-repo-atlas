@@ -1,6 +1,6 @@
 # Mallikarjun-Roddannavar/ai-testcase-generator-mcp
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Mallikarjun-Roddannavar/ai-testcase-generator-mcp) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Mallikarjun-Roddannavar/ai-testcase-generator-mcp) · 个人维护
 
 **面向 QA 工程师的 MCP 服务器：从 API 元数据生成测试用例 Excel**
 

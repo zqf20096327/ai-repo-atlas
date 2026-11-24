@@ -1,6 +1,6 @@
 # jhljx/RecSys-Industrial-Book
 
-⭐ 503 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/jhljx/RecSys-Industrial-Book) · [官网](https://jhljx.github.io/RecSys-Industrial-Book/) · 个人维护 · 中文 README
+⭐ 504 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/jhljx/RecSys-Industrial-Book) · [官网](https://jhljx.github.io/RecSys-Industrial-Book/) · 个人维护 · 中文 README
 
 **推荐系统工业架构与算法的开源书稿及配套 AI 学习知识库**
 

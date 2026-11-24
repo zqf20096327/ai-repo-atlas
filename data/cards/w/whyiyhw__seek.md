@@ -1,6 +1,6 @@
 # whyiyhw/seek
 
-⭐ 24 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/whyiyhw/seek) · [官网](https://seek.whyiyhw.com) · 个人维护 · 中文 README
+⭐ 24 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/whyiyhw/seek) · [官网](https://seek.whyiyhw.com) · 个人维护 · 中文 README
 
 **本地终端编码 agent 平台：计划、子 agent 并行与定时任务**
 

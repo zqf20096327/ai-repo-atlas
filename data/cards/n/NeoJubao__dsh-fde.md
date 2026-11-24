@@ -1,6 +1,6 @@
 # NeoJubao/dsh-fde
 
-⭐ 22 · JavaScript · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/NeoJubao/dsh-fde) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/NeoJubao/dsh-fde) · 个人维护 · 中文 README
 
 **DSH 插件：客户全生命周期看板、8 阶段门禁与 FDE 方法库**
 

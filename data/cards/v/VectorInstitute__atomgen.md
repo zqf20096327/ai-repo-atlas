@@ -1,6 +1,6 @@
 # VectorInstitute/atomgen
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/VectorInstitute/atomgen) · [官网](https://vectorinstitute.github.io/AtomGen/) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/VectorInstitute/atomgen) · [官网](https://vectorinstitute.github.io/AtomGen/) · 组织维护
 
 **面向材料/分子研究的原子图数据与 Transformer 训练库**
 

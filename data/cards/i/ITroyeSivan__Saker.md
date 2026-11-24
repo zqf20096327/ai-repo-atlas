@@ -1,6 +1,6 @@
 # ITroyeSivan/Saker
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ITroyeSivan/Saker) · [官网](https://github.com/ITroyeSivan/Saker/releases/latest) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **基于 DeepSeek Harness Desktop 的 AI 安全测试插件，面向授权渗透场景**
 
@@ -11,7 +11,7 @@ Saker 是 DeepSeek Harness Desktop 的安全测试插件，面向 SRC 挖掘、�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

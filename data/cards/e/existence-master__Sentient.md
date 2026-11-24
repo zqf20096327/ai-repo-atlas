@@ -1,6 +1,6 @@
 # existence-master/Sentient
 
-⭐ 723 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/existence-master/Sentient) · [官网](https://existence.technology/sentient) · 组织维护
+⭐ 724 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/existence-master/Sentient) · [官网](https://existence.technology/sentient) · 组织维护
 
 **本地运行的个人 AI 助理：长任务、记忆、语音与设备配对**
 

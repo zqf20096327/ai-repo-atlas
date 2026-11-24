@@ -1,6 +1,6 @@
 # IEvangelist/resource-translator
 
-⭐ 70 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/IEvangelist/resource-translator) · [官网](https://ievangelist.github.io/resource-translator/) · 个人维护
+⭐ 70 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/IEvangelist/resource-translator) · [官网](https://ievangelist.github.io/resource-translator/) · 个人维护
 
 **GitHub Action：为资源文件自动生成机器翻译的 PR**
 

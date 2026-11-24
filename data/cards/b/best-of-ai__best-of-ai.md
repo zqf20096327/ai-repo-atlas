@@ -1,6 +1,6 @@
 # best-of-ai/best-of-ai
 
-⭐ 775 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/best-of-ai/best-of-ai) · [官网](https://bestofai.io) · 组织维护
+⭐ 777 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/best-of-ai/best-of-ai) · [官网](https://bestofai.io) · 组织维护
 
 **面向AI工具使用者的社区策展工具目录（2174+工具，143类）**
 

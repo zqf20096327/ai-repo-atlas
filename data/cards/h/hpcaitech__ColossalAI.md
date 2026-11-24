@@ -1,6 +1,6 @@
 # hpcaitech/ColossalAI
 
-⭐ 41,423 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/hpcaitech/ColossalAI) · [官网](https://www.colossalai.org) · 组织维护 · 中文 README
+⭐ 41,427 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hpcaitech/ColossalAI) · [官网](https://www.colossalai.org) · 组织维护 · 中文 README
 
 **大模型分布式训练与推理的并行加速框架**
 

@@ -1,6 +1,6 @@
 # vericle/intellyweave
 
-⭐ 79 · Python · BSD-3-Clause · 推送 2026-09-02 · [GitHub](https://github.com/vericle/intellyweave) · 组织维护
+⭐ 80 · Python · BSD-3-Clause · 推送 2026-09-02 · [GitHub](https://github.com/vericle/intellyweave) · 组织维护
 
 **面向情报分析员的 OSINT 分析平台：实体抽取、地图与档案调查**
 

@@ -1,6 +1,6 @@
 # ericmjl/llamabot
 
-⭐ 183 · Python · 推送 2026-11-20 · [GitHub](https://github.com/ericmjl/llamabot) · [官网](https://ericmjl.github.io/llamabot/) · 个人维护
+⭐ 183 · Python · 推送 2026-11-22 · [GitHub](https://github.com/ericmjl/llamabot) · [官网](https://ericmjl.github.io/llamabot/) · 个人维护
 
 **Python 类式 LLM 接口库：在代码/Jupyter 中便捷调用各类模型**
 

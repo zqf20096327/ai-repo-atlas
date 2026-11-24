@@ -1,10 +1,10 @@
 # lemonade-sdk/lemonade
 
-⭐ 6,267 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lemonade-sdk/lemonade) · [官网](https://lemonade-server.ai/) · 组织维护
+⭐ 6,269 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/lemonade-sdk/lemonade) · [官网](https://lemonade-server.ai/) · 组织维护
 
-**本地 AI 服务器：在 NPU/GPU 上运行并服务多模态模型**
+**本地 AI 服务器：在 NPU/GPU 上运行 LLM、语音、图像模型**
 
-Lemonade 是一个本地 AI 服务器，通过标准 OpenAI、Anthropic 与 Ollama 兼容 API 向数百个应用提供本地运行的模型，覆盖聊天、代码、语音与图像生成；另有可嵌入应用的便携二进制形态。模型管理器支持浏览、下载 GGUF/FLM/ONNX、whisper、stable diffusion 等模型，可从 Hugging Face 或 ModelScope 拉取；支持 llamacpp、FLM、vllm、onnxruntime 等推理引擎与 CPU/GPU/NPU 多后端，提供模型别名与主备切换。安装覆盖 Windows/Linux/macOS/Docker/源码。
+Lemonade 提供两种形态：Lemonade Server 以 OpenAI、Anthropic、Ollama 兼容 API 供数百款应用接入，Embeddable Lemonade 为可打包进自有应用的便携二进制。通过 Model Manager 下载 GGUF/FLM/ONNX、whisper、stable diffusion 等模型，支持文本生成、语音识别、TTS、音频与图像及 3D 生成，按 CPU/GPU/NPU 设备自动选择推理引擎后端（llamacpp、flm、vllm 等），并提供别名管理与主备切换、云端路由（实验性）。提供 Windows/Linux/macOS/Docker 安装及 iOS/Android 客户端。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@ Lemonade 是一个本地 AI 服务器，通过标准 OpenAI、Anthropic 与 Olla
 
 ## 能力要点
 
-- 兼容 OpenAI、Anthropic、Ollama API 的本地服务器（localhost:13305）
-- 多模态：文本生成、语音识别、TTS、音频/图像/3D 生成
-- 支持 GGUF/FLM/ONNX 模型，可从 Hugging Face 或 ModelScope 拉取
-- 模型别名管理与主备即时切换；实验性云上负载分流
+- Server 与可嵌入二进制两种交付形态
+- 支持 OpenAI/Anthropic/Ollama 兼容 API 接入数百款应用
+- 覆盖 LLM、语音识别、TTS、音频/图像/3D 生成等多模态
+- 多推理引擎后端与模型别名主备切换
 
 ## 适用场景
 
-- 在本地 NPU/GPU 上运行模型，给 Open WebUI 等应用当后端
-- 管理本地模型下载与别名，做主备切换
-- 把本地 AI 能力嵌入自己的应用（Embeddable 版）
+- 在自己的 NPU/GPU 上本地运行聊天、编程与图像生成模型
+- 为桌面/移动应用嵌入自动优化的本地 AI 能力
+- 用 OpenAI 兼容客户端接入本地服务器替代云端 API 调用
+- 混合部署中同时路由本地模型与云端提供商
 
 ## 场景标签
 
-`推理引擎` `图像生成` `语音合成` `语音识别` · 领域:内容生成
+`推理引擎` `图像生成` `语音识别` `语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `428faf3be0f3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5eb4d731882b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # gravion-ux/gravion-trainner
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gravion-ux/gravion-trainner) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravion-ux/gravion-trainner) · 组织维护
 
 **对 OpenAI 兼容端点运行 JSONL 数据集评测的启发式冒烟测试工具**
 

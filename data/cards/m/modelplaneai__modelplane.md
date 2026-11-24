@@ -1,6 +1,6 @@
 # modelplaneai/modelplane
 
-⭐ 243 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/modelplaneai/modelplane) · [官网](https://modelplane.ai) · 组织维护
+⭐ 244 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/modelplaneai/modelplane) · [官网](https://modelplane.ai) · 组织维护
 
 **面向平台团队与开发者的 AI 推理基础设施编排控制平面**
 

@@ -1,6 +1,6 @@
 # ACiDekCZ/strom-research
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ACiDekCZ/strom-research) · [官网](https://stromapp.info) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ACiDekCZ/strom-research) · [官网](https://stromapp.info) · 个人维护 · 中文 README
 
 **把 AI agent 变成家谱研究员：查教区档案、留证据、生成 GEDCOM**
 

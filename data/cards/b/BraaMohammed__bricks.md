@@ -1,6 +1,6 @@
 # BraaMohammed/bricks
 
-⭐ 74 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/BraaMohammed/bricks) · [官网](https://usebricks.xyz) · 个人维护
+⭐ 74 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/BraaMohammed/bricks) · [官网](https://usebricks.xyz) · 个人维护
 
 **本地自托管的 Clay.com 替代表格：数据 enrichment 与外联自动化**
 

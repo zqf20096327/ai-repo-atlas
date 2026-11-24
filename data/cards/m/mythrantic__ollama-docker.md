@@ -1,6 +1,6 @@
 # mythrantic/ollama-docker
 
-⭐ 1,434 · HTML · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/mythrantic/ollama-docker) · [官网](https://ollama-docker.valiantlynx.com/) · 个人维护
+⭐ 1,435 · HTML · NOASSERTION · 推送 2026-05-26 · [GitHub](https://github.com/mythrantic/ollama-docker) · [官网](https://ollama-docker.valiantlynx.com/) · 个人维护
 
 **用 Docker Compose 一键部署 Ollama 及其 WebUI 的脚手架**
 

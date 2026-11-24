@@ -1,6 +1,6 @@
 # UrgenProchnoff/prozetta
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/UrgenProchnoff/prozetta) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/UrgenProchnoff/prozetta) · 个人维护 · 中文 README
 
 **面向小说翻译者的 LLM 分章流水线，含术语表与自检循环**
 

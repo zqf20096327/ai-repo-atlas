@@ -1,6 +1,6 @@
 # video-db/skills
 
-⭐ 153 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/video-db/skills) · [官网](https://docs.videodb.io) · 组织维护
+⭐ 156 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/video-db/skills) · [官网](https://docs.videodb.io) · 组织维护
 
 **让 AI 编码代理执行服务端视频工作流的技能包**
 

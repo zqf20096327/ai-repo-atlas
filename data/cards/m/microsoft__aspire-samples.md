@@ -1,6 +1,6 @@
 # microsoft/aspire-samples
 
-⭐ 1,200 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/aspire-samples) · [官网](https://aspire.dev/reference/samples/) · 组织维护
+⭐ 1,200 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/aspire-samples) · [官网](https://aspire.dev/reference/samples/) · 组织维护
 
 **Aspire 开发者工具集的多语言场景示例集**
 

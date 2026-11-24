@@ -1,6 +1,6 @@
 # aceHubert/newapi-ai-check-in
 
-⭐ 274 · Python · BSD-2-Clause · 推送 2026-09-06 · [GitHub](https://github.com/aceHubert/newapi-ai-check-in) · [官网](https://anyrouter.top/register?aff=ZXtq) · 个人维护 · 中文 README
+⭐ 275 · Python · BSD-2-Clause · 推送 2026-09-06 · [GitHub](https://github.com/aceHubert/newapi-ai-check-in) · [官网](https://anyrouter.top/register?aff=ZXtq) · 个人维护 · 中文 README
 
 **newapi.ai 站点多账号自动签到脚本，跑在 GitHub Actions**
 

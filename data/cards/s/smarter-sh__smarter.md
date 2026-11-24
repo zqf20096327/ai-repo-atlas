@@ -1,6 +1,6 @@
 # smarter-sh/smarter
 
-⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/smarter-sh/smarter) · [官网](https://smarter.sh/) · 组织维护
+⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/smarter-sh/smarter) · [官网](https://smarter.sh/) · 组织维护
 
 **YAML 声明式构建 AI 应用与资源管理的云原生平台**
 

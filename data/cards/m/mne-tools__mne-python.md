@@ -1,10 +1,10 @@
 # mne-tools/mne-python
 
-⭐ 3,614 · Python · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/mne-tools/mne-python) · [官网](https://mne.tools) · 组织维护
+⭐ 3,616 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/mne-tools/mne-python) · [官网](https://mne.tools) · 组织维护
 
-**面向科研者的 MEG/EEG 等神经生理数据分析 Python 库**
+**神经生理数据分析 Python 库：MEG/EEG 等数据的探索与可视化**
 
-开源 Python 包，用于读取、预处理、可视化和分析 MEG、EEG、sEEG、ECoG 等人类神经生理数据，模块覆盖数据输入输出、预处理、源定位、时频分析、连接性分析、机器学习与统计。面向神经科学研究与临床数据分析用户，提供文档、教程与示例，附用户论坛与 GitHub issue 跟踪。最低依赖为 Python ≥ 3.11 及 NumPy/SciPy/Matplotlib 等科学计算库，BSD-3-Clause 许可。
+开源 Python 包，用于探索、可视化和分析 MEG、EEG、sEEG、ECoG 等人类神经生理数据。模块覆盖数据读写、预处理、可视化、源估计、时频分析、连接性分析、机器学习与统计。安装支持 pip、独立安装包、conda-forge 与源码克隆，最小依赖为 Python≥3.11 及 NumPy、SciPy、Matplotlib 等科学计算库。采用 BSD-3-Clause 许可，通过论坛与 issue tracker 提供支持渠道。
 
 ## 筛选速览
 
@@ -20,15 +20,17 @@
 
 ## 能力要点
 
-- 支持 MEG/EEG/sEEG/ECoG 等多种神经生理数据的读取与预处理
-- 提供源定位、时频分析、连接性分析、机器学习与统计模块
-- 提供文档、教程、示例与独立安装器
+- 支持 MEG、EEG、sEEG、ECoG 等多种神经生理数据的读写与预处理
+- 内置源估计、时频分析、连接性分析、机器学习与统计模块
+- 提供 pip、conda-forge、独立安装包与源码四种安装途径
+- 文档站包含教程、示例、贡献指南与 API 参考
 
 ## 适用场景
 
-- 分析脑电/脑磁图实验数据并做源定位与时频分析
-- 对神经生理信号做预处理与统计检验
-- 可视化神经影像数据用于科研报告
+- 对 MEG/EEG 实验数据进行预处理和时频分析
+- 做脑电源定位（source estimation）与连接性分析
+- 在教学和科研中可视化神经生理数据
+- 在脑数据分析流程中调用其机器学习与统计模块
 
 ## 场景标签
 
@@ -37,6 +39,7 @@
 ## 证据(README 行号)
 
 > L7: MNE-Python is an open-source Python package for exploring,
+> L10: visualization, source estimation, time-frequency analysis, connectivity analysis,
 > L11: machine learning, statistics, and more.
 
 ## 星数曲线
@@ -53,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `91537bd65acf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `253423c79e31` · [字段定义](../../DATASET.md)*

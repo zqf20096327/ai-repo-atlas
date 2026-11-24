@@ -1,6 +1,6 @@
 # GMS64260/gleba
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/GMS64260/gleba) · [官网](https://gleba.fr/) · 个人维护
+⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/GMS64260/gleba) · [官网](https://gleba.fr/) · 个人维护
 
 **面向小型农场的开源农场管理软件，内置 AI 助手与 MCP 服务器**
 

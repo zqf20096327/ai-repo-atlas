@@ -1,6 +1,6 @@
 # D3-vin/Zcode2Api
 
-⭐ 57 · Go · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/D3-vin/Zcode2Api) · [官网](https://t.me/D3_vin) · 个人维护
+⭐ 58 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/D3-vin/Zcode2Api) · [官网](https://t.me/D3_vin) · 个人维护
 
 **将 Z.AI ZCode 账号池转换为 OpenAI/Anthropic 兼容 API 的代理网关**
 

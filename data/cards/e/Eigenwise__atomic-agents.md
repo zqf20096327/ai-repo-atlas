@@ -1,6 +1,6 @@
 # Eigenwise/atomic-agents
 
-⭐ 6,345 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Eigenwise/atomic-agents) · [官网](https://eigenwise.github.io/atomic-agents/) · 个人维护
+⭐ 6,346 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Eigenwise/atomic-agents) · [官网](https://eigenwise.github.io/atomic-agents/) · 个人维护
 
 **给开发者构建 Agentic AI 应用的轻量模块化框架**
 

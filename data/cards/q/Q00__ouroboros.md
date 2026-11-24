@@ -1,6 +1,6 @@
 # Q00/ouroboros
 
-⭐ 6,383 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Q00/ouroboros) · [官网](https://ouroboros.page/) · 个人维护
+⭐ 6,388 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Q00/ouroboros) · [官网](https://ouroboros.page/) · 个人维护
 
 **为已有 AI 编码代理提供访谈式规格先行与检查闭环的 MCP 工具**
 

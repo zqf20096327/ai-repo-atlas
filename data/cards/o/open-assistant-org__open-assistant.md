@@ -1,6 +1,6 @@
 # open-assistant-org/open-assistant
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/open-assistant-org/open-assistant) · [官网](https://open-assistant.org) · 组织维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/open-assistant-org/open-assistant) · [官网](https://open-assistant.org) · 组织维护
 
 **自托管个人 AI 助手：把邮件/日历/文件/笔记统一进对话**
 

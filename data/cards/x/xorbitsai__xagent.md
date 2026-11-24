@@ -1,6 +1,6 @@
 # xorbitsai/xagent
 
-⭐ 310 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/xorbitsai/xagent) · [官网](https://docs.xagent.co) · 组织维护 · 中文 README
+⭐ 310 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/xorbitsai/xagent) · [官网](https://docs.xagent.co) · 组织维护 · 中文 README
 
 **面向个人到企业的自主代理运行平台：描述目标即完成工作**
 

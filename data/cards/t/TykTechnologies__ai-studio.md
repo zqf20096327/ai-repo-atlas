@@ -1,6 +1,6 @@
 # TykTechnologies/ai-studio
 
-⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/TykTechnologies/ai-studio) · [官网](https://tyk.io/tyk-ai-studio/) · 组织维护
+⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/TykTechnologies/ai-studio) · [官网](https://tyk.io/tyk-ai-studio/) · 组织维护
 
 **给企业统一管理、治理与接入 AI 的开源网关平台**
 

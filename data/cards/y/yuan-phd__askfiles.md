@@ -1,6 +1,6 @@
 # yuan-phd/askfiles
 
-⭐ 16 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/yuan-phd/askfiles) · [官网](https://github.com/yuan-phd/askfiles/releases/latest) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/yuan-phd/askfiles) · [官网](https://github.com/yuan-phd/askfiles/releases/latest) · 个人维护 · 中文 README
 
 **Mac/Windows 本地文档问答应用：引用可核验的私有 RAG**
 

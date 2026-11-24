@@ -1,6 +1,6 @@
 # kividbio/kividb
 
-⭐ 1,335 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/kividbio/kividb) · [官网](https://kividb.io) · 组织维护 · 中文 README
+⭐ 1,378 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/kividbio/kividb) · [官网](https://kividb.io) · 组织维护 · 中文 README
 
 **Redis 兼容的 Rust 内存数据库，内置向量与全文检索**
 

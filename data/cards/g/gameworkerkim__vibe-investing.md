@@ -1,6 +1,6 @@
 # gameworkerkim/vibe-investing
 
-⭐ 363 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/gameworkerkim/vibe-investing) · [官网](https://vibequant.cc/) · 个人维护
+⭐ 366 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/gameworkerkim/vibe-investing) · [官网](https://vibequant.cc/) · 个人维护
 
 **个人维护的 AI 量化投资策展仓库：策略、工具与专栏合集**
 

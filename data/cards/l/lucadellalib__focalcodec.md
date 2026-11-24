@@ -1,6 +1,6 @@
 # lucadellalib/focalcodec
 
-⭐ 178 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-30 · [GitHub](https://github.com/lucadellalib/focalcodec) · [官网](https://lucadellalib.github.io/focalcodec-web/) · 个人维护
+⭐ 179 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-30 · [GitHub](https://github.com/lucadellalib/focalcodec) · [官网](https://lucadellalib.github.io/focalcodec-web/) · 个人维护
 
 **低码率单码本神经语音编解码器，供语音处理研究使用**
 

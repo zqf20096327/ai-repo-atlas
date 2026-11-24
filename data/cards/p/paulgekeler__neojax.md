@@ -1,6 +1,6 @@
 # paulgekeler/neojax
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/paulgekeler/neojax) · [官网](https://paulgekeler.github.io/neojax/) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/paulgekeler/neojax) · [官网](https://paulgekeler.github.io/neojax/) · 个人维护
 
 **JAX/Equinox 上的神经算子库：求解 PDE 的模型实现**
 

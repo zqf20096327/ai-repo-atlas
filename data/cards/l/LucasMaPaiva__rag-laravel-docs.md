@@ -1,6 +1,6 @@
 # LucasMaPaiva/rag-laravel-docs
 
-⭐ 6 · Python · 推送 2026-11-13 · [GitHub](https://github.com/LucasMaPaiva/rag-laravel-docs) · 个人维护
+⭐ 7 · Python · 推送 2026-11-13 · [GitHub](https://github.com/LucasMaPaiva/rag-laravel-docs) · 个人维护
 
 **对 Laravel 英文文档做本地 RAG 问答并全程评估的 Python 项目**
 

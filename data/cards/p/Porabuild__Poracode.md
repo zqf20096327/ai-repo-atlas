@@ -1,6 +1,6 @@
 # Porabuild/Poracode
 
-⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Porabuild/Poracode) · [官网](https://poracode.com) · 组织维护
+⭐ 124 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Porabuild/Poracode) · [官网](https://poracode.com) · 组织维护
 
 **单一窗口并行运行多种 AI 编程 agent 的桌面客户端**
 

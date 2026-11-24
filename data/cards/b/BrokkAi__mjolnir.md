@@ -1,6 +1,6 @@
 # BrokkAi/mjolnir
 
-⭐ 120 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/BrokkAi/mjolnir) · [官网](https://mjolnir.slopcop.com/) · 组织维护
+⭐ 121 · Rust · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/BrokkAi/mjolnir) · [官网](https://mjolnir.slopcop.com/) · 组织维护
 
 **多编程 Agent 统一控制平面：会话持久化、隔离环境与配额管理**
 

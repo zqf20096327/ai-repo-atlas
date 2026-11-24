@@ -1,6 +1,6 @@
 # quyetcao/ai-manus
 
-⭐ 152 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/quyetcao/ai-manus) · 个人维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/quyetcao/ai-manus) · 个人维护
 
 **自主执行代码与浏览器操作的通用 AI Agent 系统**
 

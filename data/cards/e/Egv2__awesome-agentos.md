@@ -1,6 +1,6 @@
 # Egv2/awesome-agentos
 
-⭐ 108 · CC0-1.0 · 推送 2026-09-30 · [GitHub](https://github.com/Egv2/awesome-agentos) · 个人维护
+⭐ 109 · CC0-1.0 · 推送 2026-09-30 · [GitHub](https://github.com/Egv2/awesome-agentos) · 个人维护
 
 **面向自主计算的 AgentOS/AI agent 开源项目策展清单**
 

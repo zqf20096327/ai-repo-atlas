@@ -1,6 +1,6 @@
 # p-e-w/heretic
 
-⭐ 42,610 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
+⭐ 42,811 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/p-e-w/heretic) · [官网](https://heretic-project.org) · 个人维护
 
 **在消费级硬件上免训练修改 LLM 行为的工具**
 

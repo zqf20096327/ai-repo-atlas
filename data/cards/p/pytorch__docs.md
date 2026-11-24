@@ -1,6 +1,6 @@
 # pytorch/docs
 
-⭐ 13 · HTML · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/pytorch/docs) · 组织维护
+⭐ 13 · HTML · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/pytorch/docs) · 组织维护
 
 **PyTorch 官方文档网站的自动生成源码仓库**
 

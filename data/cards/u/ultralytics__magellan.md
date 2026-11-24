@@ -1,6 +1,6 @@
 # ultralytics/magellan
 
-⭐ 71 · MATLAB · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/magellan) · [官网](https://ultralytics.com) · 组织维护
+⭐ 72 · MATLAB · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/magellan) · [官网](https://ultralytics.com) · 组织维护
 
 **MATLAB 机器学习地球观测与中子制图工具集**
 

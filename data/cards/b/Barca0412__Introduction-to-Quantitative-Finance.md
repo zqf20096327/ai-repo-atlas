@@ -1,6 +1,6 @@
 # Barca0412/Introduction-to-Quantitative-Finance
 
-⭐ 1,894 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) · [官网](https://quant.hfthnu.com/) · 组织维护 · 中文 README
+⭐ 1,896 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Barca0412/Introduction-to-Quantitative-Finance) · [官网](https://quant.hfthnu.com/) · 组织维护 · 中文 README
 
 **中文项目式量化金融教程与 AI×金融论文雷达知识库**
 

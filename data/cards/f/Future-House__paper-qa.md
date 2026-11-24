@@ -1,6 +1,6 @@
 # Future-House/paper-qa
 
-⭐ 9,638 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Future-House/paper-qa) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook) · 组织维护
+⭐ 9,646 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Future-House/paper-qa) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook) · 组织维护
 
 **面向科研文献的 RAG 问答库：对 PDF 生成带引用的回答**
 

@@ -1,6 +1,6 @@
 # modelscope/AgentEvolver
 
-⭐ 1,596 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/modelscope/AgentEvolver) · [官网](https://modelscope.github.io/AgentEvolver/) · 组织维护
+⭐ 1,595 · Python · Apache-2.0 · 推送 2026-04-01 · [GitHub](https://github.com/modelscope/AgentEvolver) · [官网](https://modelscope.github.io/AgentEvolver/) · 组织维护
 
 **自进化 LLM Agent 的端到端强化学习训练框架**
 

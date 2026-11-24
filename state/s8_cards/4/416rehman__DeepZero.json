@@ -1,1 +1,81 @@
-{"fn": "416rehman/DeepZero", "sha": "ee62ec5cb5b6", "source": "readme", "identity": {"one_liner": "AI 驱动的漏洞研究流水线：批量分析 Windows 内核驱动 IOCTL", "review": "以 YAML 定义流水线的自动化漏洞研究引擎，将解析、反编译与 LLM 评估等阶段组合为可并行执行的管道，支持中断恢复、增量重跑与自定义 Python 处理器；LLM 后端通过 LiteLLM 或 Claude Code CLI 接入，可用 -m 指定如 openai/gpt-4o。内置 demo 无需 API key 即可运行；内核驱动分析需自备 Ghidra、JDK 与驱动语料，源码审计需 Semgrep 与 Git。提供 HTML 报告生成与实验性 REST API。", "highlights": ["YAML 流水线组合解析、过滤、转换与 LLM 评估阶段", "并行执行、断点恢复与增量重跑（提示词变更只重跑受影响阶段）", "LLM 后端支持 LiteLLM（如 openai/gpt-4o）与 Claude Code CLI", "deepzero report 生成自包含 HTML 报告，附实验性 REST API"], "use_cases": ["批量审计 Windows 内核驱动中的可利用 IOCTL", "对多个代码仓库做自动化源码安全审计", "用 YAML 组合 LLM 评估阶段构建可复现的分析流水线"]}, "filters": {"ai_role": "ai-native", "license_risk": "permissive", "deploy": "library", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["漏洞研究", "安全审计", "AI Agent", "流水线引擎", "内核驱动分析"], "domain": "网络安全/自动化漏洞研究", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L3:  Automated vulnerability research pipeline engine", "L21: - **YAML pipelines** - combine ingestion, filtering, transformation, and LLM assessment stages.", "L25: - **LLM backends** - use Jinja2 prompts with LiteLLM or the Claude Code CLI."], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-24", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "416rehman/DeepZero",
+ "sha": "ee62ec5cb5b6",
+ "source": "readme",
+ "identity": {
+  "one_liner": "AI 驱动的漏洞研究流水线：批量分析 Windows 内核驱动 IOCTL",
+  "review": "以 YAML 定义流水线的自动化漏洞研究引擎，将解析、反编译与 LLM 评估等阶段组合为可并行执行的管道，支持中断恢复、增量重跑与自定义 Python 处理器；LLM 后端通过 LiteLLM 或 Claude Code CLI 接入，可用 -m 指定如 openai/gpt-4o。内置 demo 无需 API key 即可运行；内核驱动分析需自备 Ghidra、JDK 与驱动语料，源码审计需 Semgrep 与 Git。提供 HTML 报告生成与实验性 REST API。",
+  "highlights": [
+   "YAML 流水线组合解析、过滤、转换与 LLM 评估阶段",
+   "并行执行、断点恢复与增量重跑（提示词变更只重跑受影响阶段）",
+   "LLM 后端支持 LiteLLM（如 openai/gpt-4o）与 Claude Code CLI",
+   "deepzero report 生成自包含 HTML 报告，附实验性 REST API"
+  ],
+  "use_cases": [
+   "批量审计 Windows 内核驱动中的可利用 IOCTL",
+   "对多个代码仓库做自动化源码安全审计",
+   "用 YAML 组合 LLM 评估阶段构建可复现的分析流水线"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "permissive",
+  "deploy": "library",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "漏洞研究",
+   "安全审计",
+   "AI Agent",
+   "流水线引擎",
+   "内核驱动分析"
+  ],
+  "domain": "编码与开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "code-review"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3:  Automated vulnerability research pipeline engine",
+   "L21: - **YAML pipelines** - combine ingestion, filtering, transformation, and LLM assessment stages.",
+   "L25: - **LLM backends** - use Jinja2 prompts with LiteLLM or the Claude Code CLI."
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

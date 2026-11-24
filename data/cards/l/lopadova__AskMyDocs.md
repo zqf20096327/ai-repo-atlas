@@ -1,6 +1,6 @@
 # lopadova/AskMyDocs
 
-⭐ 10 · PHP · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lopadova/AskMyDocs) · [官网](https://askmydocs.padosoft.com) · 组织维护
+⭐ 10 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lopadova/AskMyDocs) · [官网](https://askmydocs.padosoft.com) · 组织维护
 
 **可自托管的企业知识 AI hub：RAG+知识图谱问答**
 

@@ -1,6 +1,6 @@
 # chunxiaoxx/nautilus-compass
 
-⭐ 1,260 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/chunxiaoxx/nautilus-compass) · [官网](https://compass.nautilus.social) · 组织维护 · 中文 README
+⭐ 1,260 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/chunxiaoxx/nautilus-compass) · [官网](https://compass.nautilus.social) · 组织维护 · 中文 README
 
 **AI agent 的本地长期记忆与可靠性层（MCP 插件）**
 

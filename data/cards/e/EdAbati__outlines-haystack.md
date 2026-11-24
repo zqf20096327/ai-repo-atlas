@@ -1,6 +1,6 @@
 # EdAbati/outlines-haystack
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/EdAbati/outlines-haystack) · [官网](https://pypi.org/project/outlines-haystack/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EdAbati/outlines-haystack) · [官网](https://pypi.org/project/outlines-haystack/) · 个人维护
 
 **在 Haystack 管道中使用 outlines 结构化生成器的集成库**
 

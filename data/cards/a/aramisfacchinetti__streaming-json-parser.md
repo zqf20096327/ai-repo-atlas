@@ -1,6 +1,6 @@
 # aramisfacchinetti/streaming-json-parser
 
-⭐ 13 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/aramisfacchinetti/streaming-json-parser) · [官网](https://pypi.org/project/streaming-json-parser/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aramisfacchinetti/streaming-json-parser) · [官网](https://pypi.org/project/streaming-json-parser/) · 个人维护
 
 **Python 严格增量 JSON 流式解析库，支持 NDJSON 与选择性提取**
 

@@ -1,6 +1,6 @@
 # Kvindo/KvindoCode
 
-⭐ 3 · C# · 推送 2026-10-19 · [GitHub](https://github.com/Kvindo/KvindoCode) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **跨平台桌面 AI 编码代理，含 git worktree 隔离与密钥保险库**
 

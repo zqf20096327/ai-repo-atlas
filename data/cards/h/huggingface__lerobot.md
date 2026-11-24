@@ -1,6 +1,6 @@
 # huggingface/lerobot
 
-⭐ 29,030 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
+⭐ 29,053 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/lerobot) · [官网](https://huggingface.co/docs/lerobot) · 组织维护 · 中文 README
 
 **机器人端到端学习的 PyTorch 库：模型、数据集与工具**
 

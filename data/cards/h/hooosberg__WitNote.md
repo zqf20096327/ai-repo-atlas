@@ -1,6 +1,6 @@
 # hooosberg/WitNote
 
-⭐ 570 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/hooosberg/WitNote) · [官网](https://hooosberg.com/apps/witnote/) · 个人维护 · 中文 README
+⭐ 571 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/hooosberg/WitNote) · [官网](https://hooosberg.com/apps/witnote/) · 个人维护 · 中文 README
 
 **本地优先的 Markdown 双栏编辑器，带离线/云端 AI 写作辅助**
 

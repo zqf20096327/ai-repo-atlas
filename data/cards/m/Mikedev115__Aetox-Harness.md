@@ -1,6 +1,6 @@
 # Mikedev115/Aetox-Harness
 
-⭐ 129 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Mikedev115/Aetox-Harness) · [官网](https://mikedev115.github.io/Aetox-landing/) · 个人维护
+⭐ 130 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Mikedev115/Aetox-Harness) · [官网](https://mikedev115.github.io/Aetox-landing/) · 个人维护
 
 **Windows 本地优先 AI agent 客户端，接入 31 家模型操作文件/代码/浏览器**
 

@@ -1,6 +1,6 @@
 # snad-space/coniferest
 
-⭐ 18 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/snad-space/coniferest) · [官网](https://coniferest.snad.space) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/snad-space/coniferest) · [官网](https://coniferest.snad.space) · 组织维护
 
 **天文学数据主动异常检测 Python 包**
 

@@ -1,6 +1,6 @@
 # Echoxiawan/Astra
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Echoxiawan/Astra) · 个人维护 · 中文 README
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Echoxiawan/Astra) · 个人维护 · 中文 README
 
 **用自然语言在真机上跑移动端 UI 测试并生成 pytest+Appium 脚本**
 

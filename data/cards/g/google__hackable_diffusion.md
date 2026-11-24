@@ -1,6 +1,6 @@
 # google/hackable_diffusion
 
-⭐ 172 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/google/hackable_diffusion) · 组织维护
+⭐ 172 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google/hackable_diffusion) · 组织维护
 
 **JAX 扩散模型实验与教学模块化工具箱**
 

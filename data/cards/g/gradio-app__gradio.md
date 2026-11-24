@@ -1,6 +1,6 @@
 # gradio-app/gradio
 
-⭐ 44,127 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/gradio-app/gradio) · [官网](http://www.gradio.app) · 组织维护
+⭐ 44,131 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/gradio-app/gradio) · [官网](http://www.gradio.app) · 组织维护
 
 **面向 ML 开发者：用纯 Python 快速构建并分享模型演示 Web 应用**
 

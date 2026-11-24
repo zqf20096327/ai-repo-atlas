@@ -1,6 +1,6 @@
 # totalcms/cms
 
-⭐ 11 · PHP · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/totalcms/cms) · [官网](https://totalcms.co) · 组织维护
+⭐ 11 · PHP · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/totalcms/cms) · [官网](https://totalcms.co) · 组织维护
 
 **面向 Web 专业者的无数据库 flat-file PHP CMS，内置 MCP 供 AI agent 操作**
 

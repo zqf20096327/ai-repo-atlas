@@ -1,16 +1,16 @@
 # codewhale-hq/Codewhale
 
-⭐ 41,197 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 个人维护
+⭐ 41,199 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/codewhale-hq/Codewhale) · [官网](https://codewhale.net/) · 个人维护 · 中文 README
 
-**终端里的开源 Rust 编码代理，可接任意模型并多代理分工**
+**Rust 编写的开源终端编码 agent，接任意模型**
 
-以 Rust 编写的终端编码代理：读取仓库、编辑文件并运行命令直至任务完成，通过 Plan/Work/Operate 模式与 Ask/Auto-Review/Full Access 权限档控制自主程度，提供回执清单、/undo 与 /restore 回滚、OS 级沙箱（macOS Seatbelt、Linux bubblewrap）。内置 40 余个 provider，默认 DeepSeek，支持 OpenAI 兼容端点与 Ollama/vLLM/SGLang 本地模型；可将任务拆分给带角色和模型的子代理/Fleet。提供交互终端、exec 无头运行、本地 web 客户端、PR 审查、HTTP Runtime API 与 ACP 编辑器接入等多种运行方式，另支持 MCP/插件/skills/hook 扩展。
+面向在终端中完成编码任务的开发者：给定任务后读取仓库、编辑文件并执行命令，直到完成或等待用户输入。机制上支持 40+ 内置 provider 与任意 OpenAI 兼容端点、本地模型（Ollama/vLLM/SGLang），可将任务拆分给多个子 agent（Fleet/工作流），提供 receipts 审计、单步 /undo、快照 /restore、五档自主权限（Ask→Full Access）与 macOS/Linux 沙箱；安装提供 shell 脚本、winget、npm、cargo，无账户要求，API key 留在本机。Windows 暂无 OS 沙箱。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -28,26 +28,26 @@
 ## 能力要点
 
 - 内置 40+ provider，支持 OpenAI 兼容端点与 Ollama/vLLM/SGLang 本地模型
-- 多代理协作：子代理、Fleet 与仓库内工作流
-- 回执与回滚：/receipts 列出文件改动、命令、MCP 调用与审批记录，/undo /restore 回退
-- OS 沙箱与分级权限（Ask/Auto-Review/Full Access），无账户、密钥留本机
+- 多 agent 协作：子 agent、Fleet、仓库内工作流拆分同一任务
+- Receipts 记录文件改动、命令、MCP 调用与审批，支持 /undo 与 /restore
+- 五档权限模式加 OS 沙箱（macOS Seatbelt / Linux bubblewrap）
 
 ## 适用场景
 
-- 在终端让代理完成修测试、改代码、跑命令的开发任务
-- 用自有 API key 或本地模型驱动编码代理，费用可控
-- 在脚本与 CI 中以 codewhale exec 无头运行任务
-- 把任务拆给多个带不同角色与模型的代理协作完成
+- 在终端里让 agent 修复失败测试并解释改动
+- 用自带 API key 在 CI 中以 codewhale exec 无界面跑任务
+- 通过 MCP 服务器与插件扩展 agent 工具能力
+- 用本地模型在不联网、不用 key 的情况下改代码
 
 ## 场景标签
 
-`编码 Agent` `多智能体` · 领域:Agent 开发
+`编码 Agent` `多智能体` `模型网关` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: Codewhale is an open-source coding agent for your terminal, written in Rust.
 > L83: More than 40 providers are built in, including Anthropic, OpenAI, DeepSeek,
-> L54: 2. Run `/provider` (or press `F3`), pick a provider, paste its API key and
+> L104: `/goal` sets an objective that carries across turns. Codewhale can split work
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `5986a5a4cc49` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8e5d36aea98a` · [字段定义](../../DATASET.md)*

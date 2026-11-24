@@ -1,6 +1,6 @@
 # Violetnyudress/Gemini-Config-Checker-
 
-⭐ 469 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Violetnyudress/Gemini-Config-Checker-) · 个人维护
+⭐ 464 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Violetnyudress/Gemini-Config-Checker-) · 个人维护
 
 **检测代理配置能否进入 AI Studio/Gemini 的地区扫描工具**
 

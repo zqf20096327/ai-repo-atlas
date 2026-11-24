@@ -1,6 +1,6 @@
 # yuxiaopeng/hacker-news-summarizer
 
-⭐ 32 · Python · 推送 2026-11-21 · [GitHub](https://github.com/yuxiaopeng/hacker-news-summarizer) · [官网](https://yuxiaopeng.com/hacker-news-summarizer/) · 个人维护 · 中文 README
+⭐ 32 · Python · 推送 2026-11-22 · [GitHub](https://github.com/yuxiaopeng/hacker-news-summarizer) · [官网](https://yuxiaopeng.com/hacker-news-summarizer/) · 个人维护 · 中文 README
 
 **Hacker News Top100 每日 AI 摘要中文翻译，自动更新**
 

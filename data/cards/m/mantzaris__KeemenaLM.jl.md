@@ -1,6 +1,6 @@
 # mantzaris/KeemenaLM.jl
 
-⭐ 16 · Julia · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mantzaris/KeemenaLM.jl) · [官网](https://mantzaris.github.io/KeemenaLM.jl/) · 个人维护
+⭐ 16 · Julia · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mantzaris/KeemenaLM.jl) · [官网](https://mantzaris.github.io/KeemenaLM.jl/) · 个人维护
 
 **Julia 语言从零构建/训练/运行 GPT 式解码器模型的研究包**
 

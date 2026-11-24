@@ -1,6 +1,6 @@
 # silverstein/minutes
 
-⭐ 1,613 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/silverstein/minutes) · [官网](https://useminutes.app) · 个人维护
+⭐ 1,616 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/silverstein/minutes) · [官网](https://useminutes.app) · 个人维护
 
 **本地优先的会议录音转录工具，供 MCP 客户端查询**
 

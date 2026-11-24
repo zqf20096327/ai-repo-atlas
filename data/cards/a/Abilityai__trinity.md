@@ -1,6 +1,6 @@
 # Abilityai/trinity
 
-⭐ 794 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Abilityai/trinity) · [官网](https://www.ability.ai/trinity) · 组织维护
+⭐ 796 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Abilityai/trinity) · [官网](https://www.ability.ai/trinity) · 组织维护
 
 **自托管 AI Agent 平台：为企业运行、治理持久化 agent 舰队**
 

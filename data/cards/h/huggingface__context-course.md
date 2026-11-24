@@ -1,6 +1,6 @@
 # huggingface/context-course
 
-⭐ 121 · Python · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/context-course) · 组织维护
+⭐ 122 · Python · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/context-course) · 组织维护
 
 **面向代码 agent 的上下文工程课程（技能/MCP/插件/子agent）**
 

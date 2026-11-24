@@ -1,6 +1,6 @@
 # lab-cosmo/atomistic-cookbook
 
-⭐ 58 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/lab-cosmo/atomistic-cookbook) · [官网](https://atomistic-cookbook.org) · 组织维护
+⭐ 58 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/lab-cosmo/atomistic-cookbook) · [官网](https://atomistic-cookbook.org) · 组织维护
 
 **原子尺度材料/分子模拟的配方合集源码库**
 

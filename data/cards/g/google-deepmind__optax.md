@@ -1,6 +1,6 @@
 # google-deepmind/optax
 
-⭐ 2,367 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google-deepmind/optax) · [官网](https://optax.readthedocs.io) · 组织维护
+⭐ 2,368 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google-deepmind/optax) · [官网](https://optax.readthedocs.io) · 组织维护
 
 **面向 JAX 的梯度处理与优化器构建库**
 

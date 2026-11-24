@@ -1,6 +1,6 @@
 # flohoeller/affectui
 
-⭐ 930 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/flohoeller/affectui) · [官网](https://www.affectui.com) · 组织维护
+⭐ 947 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/flohoeller/affectui) · [官网](https://www.affectui.com) · 组织维护
 
 **面向 agent 应用的 React UI 组件库：agent 树、工具调用、审批界面**
 

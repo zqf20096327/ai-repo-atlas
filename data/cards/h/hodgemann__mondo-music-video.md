@@ -1,6 +1,6 @@
 # hodgemann/mondo-music-video
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/hodgemann/mondo-music-video) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/hodgemann/mondo-music-video) · 个人维护
 
 **把歌曲转成完整音乐视频的应用：节拍感知规划+LLM 写提示词+渲染合成**
 

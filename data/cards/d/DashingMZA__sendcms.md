@@ -1,6 +1,6 @@
 # DashingMZA/sendcms
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DashingMZA/sendcms) · [官网](https://sendcms.bond) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DashingMZA/sendcms) · [官网](https://sendcms.bond) · 个人维护
 
 **为任意网站提供托管联系表单后端的服务**
 

@@ -1,6 +1,6 @@
 # aisecnomad/Nexus-ShadowScan
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aisecnomad/Nexus-ShadowScan) · [官网](https://medium.com/@EmmanuelDahunsi) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aisecnomad/Nexus-ShadowScan) · [官网](https://medium.com/@EmmanuelDahunsi) · 个人维护
 
 **扫描组织内影子 AI agent 证据并与已批准清单对账的安全工具**
 

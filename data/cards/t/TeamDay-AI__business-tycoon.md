@@ -1,6 +1,6 @@
 # TeamDay-AI/business-tycoon
 
-⭐ 34 · JavaScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/TeamDay-AI/business-tycoon) · [官网](https://tycoon.teamday.ai) · 组织维护
+⭐ 35 · JavaScript · MIT · 推送 2026-03-05 · [GitHub](https://github.com/TeamDay-AI/business-tycoon) · [官网](https://tycoon.teamday.ai) · 组织维护
 
 **浏览器直接运行的等距 AI 创业公司模拟经营游戏**
 

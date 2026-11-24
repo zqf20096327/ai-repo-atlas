@@ -1,6 +1,6 @@
 # D3-vin/Qoder2Api
 
-⭐ 26 · Go · MIT · 推送 2026-08-19 · [GitHub](https://github.com/D3-vin/Qoder2Api) · [官网](https://t.me/D3_vin) · 个人维护
+⭐ 27 · Go · MIT · 推送 2026-08-19 · [GitHub](https://github.com/D3-vin/Qoder2Api) · [官网](https://t.me/D3_vin) · 个人维护
 
 **将 Qoder IDE 账号转为 OpenAI/Anthropic 兼容 API 的 Go 网关**
 

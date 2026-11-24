@@ -1,6 +1,6 @@
 # mahpate/Vlite
 
-⭐ 3 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mahpate/Vlite) · [官网](https://mahpate.github.io/Vlite/) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mahpate/Vlite) · [官网](https://mahpate.github.io/Vlite/) · 个人维护
 
 **给嵌入检索应用的 Rust 单文件向量与图数据库**
 

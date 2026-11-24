@@ -1,6 +1,6 @@
 # MoyuFamily/ai-relay
 
-⭐ 131 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MoyuFamily/ai-relay) · [官网](https://airelay.izmw.me) · 组织维护 · 中文 README
+⭐ 131 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MoyuFamily/ai-relay) · [官网](https://airelay.izmw.me) · 组织维护 · 中文 README
 
 **开源 AI API 网关：多厂商聚合、密钥轮换与故障转移**
 

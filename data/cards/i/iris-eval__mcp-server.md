@@ -1,6 +1,6 @@
 # iris-eval/mcp-server
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/iris-eval/mcp-server) · [官网](https://iris-eval.com) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iris-eval/mcp-server) · [官网](https://iris-eval.com) · 组织维护
 
 **给 agent 输出打质量/安全/成本分的本地评估 MCP 服务器**
 

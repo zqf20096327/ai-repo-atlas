@@ -1,6 +1,6 @@
 # basicmi/AI-Chip
 
-⭐ 1,708 · Python · 推送 2026-11-17 · [GitHub](https://github.com/basicmi/AI-Chip) · [官网](https://basicmi.github.io/AI-Chip/) · 个人维护 · 中文 README
+⭐ 1,708 · Python · 推送 2026-11-23 · [GitHub](https://github.com/basicmi/AI-Chip) · [官网](https://basicmi.github.io/AI-Chip/) · 个人维护 · 中文 README
 
 **面向 AI/ML 从业者的 AI 芯片与 IP 厂商编目清单**
 

@@ -1,6 +1,6 @@
 # gonicolas12/My_AI
 
-⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gonicolas12/My_AI) · [官网](https://github.com/gonicolas12/My_AI/releases/latest) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gonicolas12/My_AI) · [官网](https://github.com/gonicolas12/My_AI/releases/latest) · 个人维护
 
 **本地离线桌面 AI 助手：聊天、9 个 agent 与文档/图像/语音生成**
 

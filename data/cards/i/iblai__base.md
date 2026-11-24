@@ -1,6 +1,6 @@
 # iblai/base
 
-⭐ 221 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
+⭐ 220 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
 
 **在 ibl.ai 平台上快速搭建 AI 应用的开发者工具包**
 

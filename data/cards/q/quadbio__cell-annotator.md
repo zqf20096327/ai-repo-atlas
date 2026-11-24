@@ -1,6 +1,6 @@
 # quadbio/cell-annotator
 
-⭐ 30 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/quadbio/cell-annotator) · [官网](https://cell-annotator.readthedocs.io) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/quadbio/cell-annotator) · [官网](https://cell-annotator.readthedocs.io) · 个人维护
 
 **用 LLM 基于标记基因自动注释单细胞数据细胞类型**
 

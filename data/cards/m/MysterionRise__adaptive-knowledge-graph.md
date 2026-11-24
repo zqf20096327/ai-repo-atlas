@@ -1,6 +1,6 @@
 # MysterionRise/adaptive-knowledge-graph
 
-⭐ 24 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MysterionRise/adaptive-knowledge-graph) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MysterionRise/adaptive-knowledge-graph) · 个人维护
 
 **本地优先的知识图谱 AI 导师：面向开放教材的带引用问答与自适应测验**
 

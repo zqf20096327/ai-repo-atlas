@@ -1,6 +1,6 @@
 # punit2911/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant
 
-⭐ 60 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/punit2911/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant) · 个人维护
+⭐ 71 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/punit2911/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant) · 个人维护
 
 **面向医疗 PDF 文档的 RAG 问答机器人（LLaMA-2+Pinecone）**
 

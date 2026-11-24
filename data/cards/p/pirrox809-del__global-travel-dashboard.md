@@ -1,6 +1,6 @@
 # pirrox809-del/global-travel-dashboard
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pirrox809-del/global-travel-dashboard) · [官网](https://global-travel-dashboard.vercel.app) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pirrox809-del/global-travel-dashboard) · [官网](https://global-travel-dashboard.vercel.app) · 个人维护
 
 **面向旅行者的 250 国数据仪表盘，附 AI 生成国家指南**
 

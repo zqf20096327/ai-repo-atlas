@@ -1,6 +1,6 @@
 # studeyang/technotes
 
-⭐ 41 · HTML · 推送 2026-11-12 · [GitHub](https://github.com/studeyang/technotes) · [官网](https://studeyang.cn/technotes/) · 个人维护 · 中文 README
+⭐ 41 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/studeyang/technotes) · [官网](https://studeyang.cn/technotes/) · 个人维护 · 中文 README
 
 **互联网技术学习笔记仓库：基础/进阶/架构/AI 等分类文档**
 

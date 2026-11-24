@@ -1,6 +1,6 @@
 # haris-musa/excel-mcp-server
 
-⭐ 4,322 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/haris-musa/excel-mcp-server) · [官网](https://excelmcpserver.com) · 个人维护
+⭐ 4,322 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/haris-musa/excel-mcp-server) · [官网](https://excelmcpserver.com) · 个人维护
 
 **让 Claude/Cursor 等 AI 客户端读写编辑 Excel 文件的 MCP 服务器**
 

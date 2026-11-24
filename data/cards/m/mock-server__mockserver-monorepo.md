@@ -1,6 +1,6 @@
 # mock-server/mockserver-monorepo
 
-⭐ 5,011 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mock-server/mockserver-monorepo) · [官网](https://www.mock-server.com) · 个人维护
+⭐ 5,012 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mock-server/mockserver-monorepo) · [官网](https://www.mock-server.com) · 个人维护
 
 **面向开发者的 HTTP(S) mock 服务器与代理，支持 mock AI API**
 

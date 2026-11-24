@@ -1,6 +1,6 @@
 # microsoft/power-platform-skills
 
-⭐ 1,169 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/power-platform-skills) · [官网](https://microsoft.github.io/power-platform-skills/) · 组织维护
+⭐ 1,173 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/power-platform-skills) · [官网](https://microsoft.github.io/power-platform-skills/) · 组织维护
 
 **微软官方插件市场：让 AI 助手构建 Power Platform 应用**
 

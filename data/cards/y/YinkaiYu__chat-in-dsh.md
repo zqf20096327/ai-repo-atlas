@@ -1,6 +1,6 @@
 # YinkaiYu/chat-in-dsh
 
-⭐ 42 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YinkaiYu/chat-in-dsh) · 个人维护 · 中文 README
+⭐ 44 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YinkaiYu/chat-in-dsh) · 个人维护 · 中文 README
 
 **在 DeepSeek Harness 里复刻 DeepSeek 网页版聊天的插件**
 

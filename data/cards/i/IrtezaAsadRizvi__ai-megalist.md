@@ -1,6 +1,6 @@
 # IrtezaAsadRizvi/ai-megalist
 
-⭐ 96 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/IrtezaAsadRizvi/ai-megalist) · 个人维护
+⭐ 98 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/IrtezaAsadRizvi/ai-megalist) · 个人维护
 
 **225+ AI 工具策展索引：按任务与角色组织，附选型建议**
 

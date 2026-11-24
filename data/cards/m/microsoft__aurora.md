@@ -1,6 +1,6 @@
 # microsoft/aurora
 
-⭐ 1,048 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/microsoft/aurora) · [官网](https://microsoft.github.io/aurora) · 组织维护
+⭐ 1,049 · Python · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/microsoft/aurora) · [官网](https://microsoft.github.io/aurora) · 组织维护
 
 **微软地球系统预报基础模型 Aurora 的官方实现**
 

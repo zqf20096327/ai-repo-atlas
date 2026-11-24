@@ -1,6 +1,6 @@
 # SYSTRAN/faster-whisper
 
-⭐ 26,949 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/SYSTRAN/faster-whisper) · 组织维护
+⭐ 26,965 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SYSTRAN/faster-whisper) · 组织维护
 
 **Whisper 的 CTranslate2 重实现，语音转文字推理库**
 

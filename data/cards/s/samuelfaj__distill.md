@@ -1,6 +1,6 @@
 # samuelfaj/distill
 
-⭐ 780 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/samuelfaj/distill) · [官网](https://www.samuelfaj.com/en/distill/) · 个人维护
+⭐ 781 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/samuelfaj/distill) · [官网](https://www.samuelfaj.com/en/distill/) · 个人维护
 
 **省 token 的编码 agent harness 与 TUI，面向订阅用户**
 

@@ -1,6 +1,6 @@
 # calico/baskerville
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/calico/baskerville) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/calico/baskerville) · 组织维护
 
 **从 DNA 序列预测基因调控活性的预训练深度学习模型库**
 

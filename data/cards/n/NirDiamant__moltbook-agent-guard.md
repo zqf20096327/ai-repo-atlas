@@ -1,6 +1,6 @@
 # NirDiamant/moltbook-agent-guard
 
-⭐ 66 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/NirDiamant/moltbook-agent-guard) · 个人维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-09-15 · [GitHub](https://github.com/NirDiamant/moltbook-agent-guard) · 个人维护
 
 **保护 Moltbook 平台 AI agent 的实时安全防护工具包**
 

@@ -1,6 +1,6 @@
 # architects-toolkit/SmartHopper
 
-⭐ 35 · C# · LGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/architects-toolkit/SmartHopper) · [官网](https://smarthopper.xyz) · 组织维护
+⭐ 35 · C# · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/architects-toolkit/SmartHopper) · [官网](https://smarthopper.xyz) · 组织维护
 
 **给 Grasshopper3D 设计师的 AI 组件与助手插件（100+ 工具，8 家模型商）**
 

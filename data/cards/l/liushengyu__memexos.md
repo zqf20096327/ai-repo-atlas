@@ -1,6 +1,6 @@
 # liushengyu/memexos
 
-⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/liushengyu/memexos) · 个人维护 · 中文 README
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/liushengyu/memexos) · 个人维护 · 中文 README
 
 **为个人与 AI agent 构建可持续维护的个人知识库（记忆系统）**
 

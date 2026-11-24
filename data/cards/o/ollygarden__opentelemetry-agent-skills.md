@@ -1,6 +1,6 @@
 # ollygarden/opentelemetry-agent-skills
 
-⭐ 126 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ollygarden/opentelemetry-agent-skills) · [官网](https://ollygarden.com/resources/agent-skills) · 组织维护
+⭐ 126 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ollygarden/opentelemetry-agent-skills) · [官网](https://ollygarden.com/resources/agent-skills) · 组织维护
 
 **给 AI 编码 agent 的厂商中立 OpenTelemetry 技能知识包**
 

@@ -1,6 +1,6 @@
 # stagewise-io/klex
 
-⭐ 41 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/stagewise-io/klex) · [官网](https://klex.bot) · 组织维护
+⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/stagewise-io/klex) · [官网](https://klex.bot) · 组织维护
 
 **可自托管、模型无关的自治数字同事 bot 框架**
 

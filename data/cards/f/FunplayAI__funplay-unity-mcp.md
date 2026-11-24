@@ -1,6 +1,6 @@
 # FunplayAI/funplay-unity-mcp
 
-⭐ 330 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/FunplayAI/funplay-unity-mcp) · 组织维护 · 中文 README
+⭐ 331 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FunplayAI/funplay-unity-mcp) · 组织维护 · 中文 README
 
 **让 AI 助手直接操作 Unity 编辑器的 MCP 服务器**
 

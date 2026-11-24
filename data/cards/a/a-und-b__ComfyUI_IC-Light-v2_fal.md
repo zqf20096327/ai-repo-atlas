@@ -1,6 +1,6 @@
 # a-und-b/ComfyUI_IC-Light-v2_fal
 
-⭐ 44 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/a-und-b/ComfyUI_IC-Light-v2_fal) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/a-und-b/ComfyUI_IC-Light-v2_fal) · 个人维护
 
 **ComfyUI 节点：经 fal.ai API 调用 IC-Light V2 做图像重打光换背景**
 

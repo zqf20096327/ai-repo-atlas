@@ -1,6 +1,6 @@
 # ShadowESC95/ELI_v2.0
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ShadowESC95/ELI_v2.0) · [官网](https://geteli.tech) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ShadowESC95/ELI_v2.0) · [官网](https://geteli.tech) · 个人维护
 
 **完全本地运行的 AI 桌面助手：语音/视觉/记忆，离线默认**
 

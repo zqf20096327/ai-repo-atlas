@@ -1,6 +1,6 @@
 # Elflare/elbot
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Elflare/elbot) · [官网](https://elfreese.github.io/elbot-landing/) · 个人维护 · 中文 README
+⭐ 13 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Elflare/elbot) · [官网](https://elfreese.github.io/elbot-landing/) · 个人维护 · 中文 README
 
 **轻量 Go 语言 Agent/Chatbot 框架**
 

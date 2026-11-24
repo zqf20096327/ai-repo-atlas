@@ -1,6 +1,6 @@
 # aplavin/julia-mcp
 
-⭐ 96 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/aplavin/julia-mcp) · 个人维护
+⭐ 97 · Python · MIT · 推送 2026-08-22 · [GitHub](https://github.com/aplavin/julia-mcp) · 个人维护
 
 **MCP server：为 AI 助手提供持久会话的 Julia 代码执行**
 

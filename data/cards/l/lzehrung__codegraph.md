@@ -1,6 +1,6 @@
 # lzehrung/codegraph
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lzehrung/codegraph) · [官网](https://github.com/lzehrung/codegraph#readme) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lzehrung/codegraph) · [官网](https://github.com/lzehrung/codegraph#readme) · 个人维护
 
 **为编码 agent 提供代码库符号与依赖地图的本地工具**
 

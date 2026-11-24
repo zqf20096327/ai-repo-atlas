@@ -1,6 +1,6 @@
 # spring-ai-community/spring-ai-agentcore
 
-⭐ 72 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/spring-ai-community/spring-ai-agentcore) · 组织维护
+⭐ 72 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/spring-ai-community/spring-ai-agentcore) · 组织维护
 
 **将 Amazon Bedrock AgentCore 能力接入 Spring AI 的集成库**
 

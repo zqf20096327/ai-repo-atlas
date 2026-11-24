@@ -1,6 +1,6 @@
 # WenjieDu/PyPOTS
 
-⭐ 2,097 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/WenjieDu/PyPOTS) · [官网](https://pypots.com) · 个人维护
+⭐ 2,097 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/WenjieDu/PyPOTS) · [官网](https://pypots.com) · 个人维护
 
 **面向不完整时间序列的 Python 机器学习工具箱**
 

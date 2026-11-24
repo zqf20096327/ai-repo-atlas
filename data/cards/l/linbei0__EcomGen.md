@@ -1,6 +1,6 @@
 # linbei0/EcomGen
 
-⭐ 257 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/linbei0/EcomGen) · 个人维护 · 中文 README
+⭐ 259 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/linbei0/EcomGen) · 个人维护 · 中文 README
 
 **面向个人卖家的本地自托管电商 AI 套图生成工作台**
 

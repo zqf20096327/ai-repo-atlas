@@ -1,6 +1,6 @@
 # fancyyan/xiaohongshu-content-collector
 
-⭐ 34 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/fancyyan/xiaohongshu-content-collector) · 个人维护 · 中文 README
+⭐ 35 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/fancyyan/xiaohongshu-content-collector) · 个人维护 · 中文 README
 
 **小红书笔记被动采集与多模态 AI 分析的 Chrome 扩展 + MCP 工具箱**
 

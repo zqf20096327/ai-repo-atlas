@@ -1,6 +1,6 @@
 # yicheng47/runner
 
-⭐ 548 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yicheng47/runner) · [官网](https://runnersh.dev/) · 个人维护 · 中文 README
+⭐ 551 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yicheng47/runner) · [官网](https://runnersh.dev/) · 个人维护 · 中文 README
 
 **让多个终端 CLI 编码 agent 在一个任务中协作的桌面应用**
 

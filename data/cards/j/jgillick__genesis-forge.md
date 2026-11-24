@@ -1,6 +1,6 @@
 # jgillick/genesis-forge
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jgillick/genesis-forge) · [官网](https://genesisforge.io) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jgillick/genesis-forge) · [官网](https://genesisforge.io) · 个人维护
 
 **机器人强化学习训练框架，基于 Genesis 物理仿真**
 

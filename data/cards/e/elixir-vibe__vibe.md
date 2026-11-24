@@ -1,6 +1,6 @@
 # elixir-vibe/vibe
 
-⭐ 115 · Elixir · MIT · 推送 2026-06-11 · [GitHub](https://github.com/elixir-vibe/vibe) · [官网](https://hexdocs.pm/vibe) · 组织维护
+⭐ 116 · Elixir · MIT · 推送 2026-06-11 · [GitHub](https://github.com/elixir-vibe/vibe) · [官网](https://hexdocs.pm/vibe) · 组织维护
 
 **面向 Elixir/OTP 项目的 BEAM 原生编码 agent（终端+Web）**
 

@@ -1,10 +1,10 @@
 # yvgude/lean-ctx
 
-⭐ 3,957 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/yvgude/lean-ctx) · [官网](https://leanctx.com) · 组织维护
+⭐ 3,961 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/yvgude/lean-ctx) · [官网](https://leanctx.com) · 组织维护
 
-**给 AI 编码工具做上下文选择的本地网关**
+**AI 工具的上下文网关：按任务选上下文、控访问、留证据**
 
-运行在 AI 工具与所读信息之间的开源引擎：以 CLI、MCP、hooks 与代理路径方式本地运行，提供 16 种文件读取模式、密度预算压缩、PathJail 路径约束、内容过滤、会话记忆与知识图谱，并记录可检视的上下文操作证据。宿主应用保留对模型调用与代理循环的控制。另有 SDK 形态与按许可授权的企业部署选项，安装矩阵区分一等路径与兼容参考。
+定位在 AI 工具与其读取信息之间的本地网关：对文件读取和 shell 输出做选择（16 种读模式、85+ shell 压缩模式、tree-sitter AST 结构视图）、按配置施加路径权限与内容过滤等控制、跨会话保存任务/事实/决策记录，并导出可核查的审计证据。开源 OSS 部分通过 CLI、MCP、hooks 与代理路径本地运行，另提供 SDK；企业范围的控制与部署按许可提供。README 明确性能节省声明为立场而非实测结果。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 16 种读取模式与 density 压缩（Tree-sitter AST 覆盖 27 种语言）
-- PathJail 路径权限、内容过滤器与上下文预算等配置化控制
-- 会话记忆、知识图谱与属性图支持跨会话连续性
-- cockpit/inspect/ctx_proof 提供本地用量账本与审计导出
+- 16 种文件读模式与 density 预算压缩，紧凑视图保留可回溯源引用
+- PathJail 路径约束、内容过滤器与上下文预算等已配置控制
+- Session memory、知识图谱与多边代码图支撑跨会话连续性
+- lean-ctx cockpit/savings/shadow 提供本地用量台账与模拟基线对比
 
 ## 适用场景
 
-- 为 Claude Code/Cursor 等编码工具收窄每次读取的上下文
-- 在组织内对 AI 工具的文件访问与内容过滤做统一控制
-- 本地留存任务记录并跨会话检索代码与知识
-- 对 AI 工具的上下文消耗与成本做本地测量与留证
+- 为 Claude Code/Cursor 等编码工具压缩上下文、降低 token 消耗
+- 给团队或组织统一施加文件访问与内容过滤策略
+- 需要审计追踪与用量证据的 AI 工作流治理
+- 跨会话保留任务记录与代码知识并复用
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L16: LeanCTX sits between AI tools and the information they read. It selects
-> L21: The open-source **LeanCTX | OSS** runs locally through CLI, MCP, hooks and proxy paths.
-> L128: - **Host-owned model choice:** the host chooses the model and performs any model
+> L21: LeanCTX sits between AI tools and the information they read. It selects
+> L26: The open-source **LeanCTX | OSS** runs locally through CLI, MCP, hooks and proxy paths.
+> L133: - **Host-owned model choice:** the host chooses the model and performs any model
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a94300beaefd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0539531de08d` · [字段定义](../../DATASET.md)*

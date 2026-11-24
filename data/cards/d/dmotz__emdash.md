@@ -1,6 +1,6 @@
 # dmotz/emdash
 
-⭐ 181 · Elm · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/dmotz/emdash) · [官网](https://emdash.oxism.com) · 个人维护
+⭐ 182 · Elm · GPL-3.0 · 推送 2026-07-10 · [GitHub](https://github.com/dmotz/emdash) · [官网](https://emdash.oxism.com) · 个人维护
 
 **用设备端 AI 整理读书摘录与笔记的工具**
 

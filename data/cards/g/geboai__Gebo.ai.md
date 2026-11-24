@@ -1,6 +1,6 @@
 # geboai/Gebo.ai
 
-⭐ 10 · Java · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/geboai/Gebo.ai) · [官网](https://gebo.ai/) · 组织维护
+⭐ 10 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/geboai/Gebo.ai) · [官网](https://gebo.ai/) · 组织维护
 
 **企业自托管的厂商中立 AI/RAG 平台，接入企业系统供文档问答**
 

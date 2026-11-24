@@ -1,6 +1,6 @@
 # zapplyjobs/New-Grad-Data-Science-Jobs-2027
 
-⭐ 93 · HTML · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027) · [官网](https://zapplyjobs.github.io/New-Grad-Data-Science-Jobs-2027/) · 组织维护
+⭐ 94 · HTML · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/zapplyjobs/New-Grad-Data-Science-Jobs-2027) · [官网](https://zapplyjobs.github.io/New-Grad-Data-Science-Jobs-2027/) · 组织维护
 
 **面向应届生的 2027 届美国数据科学/ML 岗位聚合清单**
 

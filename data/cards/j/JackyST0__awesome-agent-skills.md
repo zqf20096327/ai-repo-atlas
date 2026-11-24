@@ -1,6 +1,6 @@
 # JackyST0/awesome-agent-skills
 
-⭐ 670 · JavaScript · CC0-1.0 · 推送 2026-11-16 · [GitHub](https://github.com/JackyST0/awesome-agent-skills) · [官网](https://jackyst0.github.io/awesome-agent-skills/) · 个人维护
+⭐ 670 · JavaScript · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/JackyST0/awesome-agent-skills) · [官网](https://jackyst0.github.io/awesome-agent-skills/) · 个人维护
 
 **面向 AI 编程工具的 Agent Skills 精选清单**
 

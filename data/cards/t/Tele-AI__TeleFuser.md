@@ -1,6 +1,6 @@
 # Tele-AI/TeleFuser
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-09-26 · [GitHub](https://github.com/Tele-AI/TeleFuser) · [官网](https://tele-ai.github.io/TeleFuser/) · 组织维护 · 中文 README
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Tele-AI/TeleFuser) · [官网](https://tele-ai.github.io/TeleFuser/) · 组织维护 · 中文 README
 
 **世界模型与多模态生成的实时流式推理服务框架**
 

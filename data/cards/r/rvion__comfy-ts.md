@@ -1,6 +1,6 @@
 # rvion/comfy-ts
 
-⭐ 25 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/rvion/comfy-ts) · 个人维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rvion/comfy-ts) · 个人维护
 
 **给 TypeScript 开发者的 ComfyUI 类型安全 SDK 与 CLI 工具包**
 

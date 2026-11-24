@@ -1,6 +1,6 @@
 # djolex999/vir
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/djolex999/vir) · [官网](https://virwiki.dev) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/djolex999/vir) · [官网](https://virwiki.dev) · 个人维护
 
 **从 Claude Code/Codex 会话记录蒸馏个人 LLM 知识库的 CLI**
 

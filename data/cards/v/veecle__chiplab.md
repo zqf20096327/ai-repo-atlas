@@ -1,6 +1,6 @@
 # veecle/chiplab
 
-⭐ 19 · Nix · MIT · 推送 2026-11-20 · [GitHub](https://github.com/veecle/chiplab) · [官网](https://veecle.ai/) · 组织维护
+⭐ 19 · Nix · MIT · 推送 2026-11-23 · [GitHub](https://github.com/veecle/chiplab) · [官网](https://veecle.ai/) · 组织维护
 
 **让 AI 编码 agent 在虚拟芯片上运行与验证固件的托管 MCP 服务**
 

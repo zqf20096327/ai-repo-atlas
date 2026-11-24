@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/General-Reasoner
 
-⭐ 233 · Python · 推送 2025-11-27 · [GitHub](https://github.com/TIGER-AI-Lab/General-Reasoner) · [官网](https://tiger-ai-lab.github.io/General-Reasoner) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向多领域 LLM 推理的 RL 训练框架与模型检查点**
 

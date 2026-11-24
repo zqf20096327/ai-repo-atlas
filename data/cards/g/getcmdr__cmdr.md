@@ -1,6 +1,6 @@
 # getcmdr/cmdr
 
-⭐ 139 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/getcmdr/cmdr) · [官网](https://getcmdr.com) · 个人维护
+⭐ 140 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/getcmdr/cmdr) · [官网](https://getcmdr.com) · 个人维护
 
 **macOS 键盘驱动双栏文件管理器，AI 功能可选**
 

@@ -1,6 +1,6 @@
 # objeck/objeck-lang
 
-⭐ 166 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/objeck/objeck-lang) · [官网](https://objeck.org) · 个人维护
+⭐ 166 · C++ · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/objeck/objeck-lang) · [官网](https://objeck.org) · 个人维护
 
 **带 JIT 虚拟机的面向对象语言，内置 ML/NLP/CV/LLM 标准库**
 

@@ -1,6 +1,6 @@
 # NexTools-Solutions/nextool
 
-⭐ 26 · PHP · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/NexTools-Solutions/nextool) · [官网](https://linkedin.com/in/richard-ti/) · 组织维护
+⭐ 26 · PHP · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/NexTools-Solutions/nextool) · [官网](https://linkedin.com/in/richard-ti/) · 组织维护
 
 **GLPI 10-12 模块化插件中心：按需启用运维与 AI 功能**
 

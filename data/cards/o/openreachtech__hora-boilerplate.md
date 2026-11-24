@@ -1,6 +1,6 @@
 # openreachtech/hora-boilerplate
 
-⭐ 62 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openreachtech/hora-boilerplate) · [官网](https://openreach.tech/#hora) · 组织维护
+⭐ 62 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openreachtech/hora-boilerplate) · [官网](https://openreach.tech/#hora) · 组织维护
 
 **给开发者的 Claude Code 规格驱动 Web 应用模板**
 

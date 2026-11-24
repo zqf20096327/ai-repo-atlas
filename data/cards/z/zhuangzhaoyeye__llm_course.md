@@ -1,6 +1,6 @@
 # zhuangzhaoyeye/llm_course
 
-⭐ 70 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zhuangzhaoyeye/llm_course) · [官网](https://zhuangzhaoyeye.github.io/llm-course/) · 个人维护 · 中文 README
+⭐ 71 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zhuangzhaoyeye/llm_course) · [官网](https://zhuangzhaoyeye.github.io/llm-course/) · 个人维护 · 中文 README
 
 **写给传统算法工程师的大模型课程：每课用具体数字算一遍机制**
 

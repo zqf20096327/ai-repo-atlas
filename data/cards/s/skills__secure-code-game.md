@@ -1,6 +1,6 @@
 # skills/secure-code-game
 
-⭐ 2,861 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/skills/secure-code-game) · [官网](https://gh.io/scg) · 组织维护
+⭐ 2,862 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/skills/secure-code-game) · [官网](https://gh.io/scg) · 组织维护
 
 **浏览器内开玩的安全编码教学游戏，面向开发者与学生**
 

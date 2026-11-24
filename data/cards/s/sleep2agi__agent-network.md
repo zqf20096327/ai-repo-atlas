@@ -1,6 +1,6 @@
 # sleep2agi/agent-network
 
-⭐ 120 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sleep2agi/agent-network) · [官网](https://anet.sh) · 组织维护 · 中文 README
+⭐ 125 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/sleep2agi/agent-network) · [官网](https://anet.sh) · 组织维护 · 中文 README
 
 **把多台机器上的编码 Agent 连成网络统一指挥的自托管工具**
 

@@ -1,6 +1,6 @@
 # systempromptio/systemprompt-core
 
-⭐ 10 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/systempromptio/systemprompt-core) · [官网](https://systemprompt.io) · 组织维护
+⭐ 10 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/systempromptio/systemprompt-core) · [官网](https://systemprompt.io) · 组织维护
 
 **给企业 agent 系统提供身份、模型网关与审计的控制面 Rust 库**
 

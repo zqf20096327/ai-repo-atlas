@@ -1,6 +1,6 @@
 # capsulerun/runtime
 
-⭐ 304 · Rust · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/capsulerun/runtime) · 组织维护
+⭐ 303 · Rust · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/capsulerun/runtime) · 组织维护
 
 **WebAssembly 沙箱运行时：安全执行不可信代码任务**
 

@@ -1,6 +1,6 @@
 # PSPDFKit/ai-assistant-demo
 
-⭐ 69 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/PSPDFKit/ai-assistant-demo) · 组织维护
+⭐ 69 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/PSPDFKit/ai-assistant-demo) · [官网](https://www.nutrient.io/sdk/ai-assistant/) · 组织维护
 
 **用自然语言操作 PDF 的 AI 助手演示（Nutrient Web SDK）**
 

@@ -1,6 +1,6 @@
 # aallan/vera
 
-⭐ 424 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aallan/vera) · [官网](https://veralang.dev/) · 个人维护
+⭐ 424 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aallan/vera) · [官网](https://veralang.dev/) · 个人维护
 
 **面向 LLM 编程设计的验证型编程语言（编译到 WebAssembly）**
 

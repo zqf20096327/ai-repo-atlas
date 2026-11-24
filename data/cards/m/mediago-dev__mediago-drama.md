@@ -1,6 +1,6 @@
 # mediago-dev/mediago-drama
 
-⭐ 110 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mediago-dev/mediago-drama) · [官网](https://mediago.torchstellar.com/) · 组织维护 · 中文 README
+⭐ 111 · Go · Apache-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/mediago-dev/mediago-drama) · [官网](https://mediago.torchstellar.com/) · 组织维护 · 中文 README
 
 **面向漫剧创作的本地 Agent 工作台：小说改短剧全流程**
 

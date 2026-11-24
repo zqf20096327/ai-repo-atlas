@@ -1,6 +1,6 @@
 # ailia-ai/ailia-sdk
 
-⭐ 41 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/ailia-ai/ailia-sdk) · 组织维护
+⭐ 41 · HTML · 推送 2026-11-24 · [GitHub](https://github.com/ailia-ai/ailia-sdk) · 组织维护
 
 **跨平台 ONNX 推理引擎 SDK，含模型库与多语言绑定**
 

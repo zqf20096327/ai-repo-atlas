@@ -1,6 +1,6 @@
 # innermost47/ai-dj
 
-⭐ 266 · C++ · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/innermost47/ai-dj) · 个人维护
+⭐ 268 · C++ · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/innermost47/ai-dj) · 个人维护
 
 **现场演出用 AI 音乐循环生成插件（VST3/AU/独立版）**
 

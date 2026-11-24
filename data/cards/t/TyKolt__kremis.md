@@ -1,6 +1,6 @@
 # TyKolt/kremis
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/TyKolt/kremis) · [官网](https://kremis.mintlify.app) · 个人维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/TyKolt/kremis) · [官网](https://kremis.mintlify.app) · 个人维护
 
 **Rust 确定性知识图谱引擎与 MCP 服务器，供 AI 检索可溯源记忆**
 

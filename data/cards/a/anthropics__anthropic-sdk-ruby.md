@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-ruby
 
-⭐ 379 · Ruby · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/anthropic-sdk-ruby) · 组织维护
+⭐ 378 · Ruby · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-ruby) · 组织维护
 
 **Ruby 应用接入 Claude API 的官方 SDK**
 

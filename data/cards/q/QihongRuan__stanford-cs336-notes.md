@@ -1,6 +1,6 @@
 # QihongRuan/stanford-cs336-notes
 
-⭐ 81 · HTML · 推送 2026-07-12 · [GitHub](https://github.com/QihongRuan/stanford-cs336-notes) · 个人维护
+⭐ 82 · HTML · 推送 2026-07-12 · [GitHub](https://github.com/QihongRuan/stanford-cs336-notes) · 个人维护
 
 **斯坦福 CS336 课程的图解学习笔记站（17 讲）**
 

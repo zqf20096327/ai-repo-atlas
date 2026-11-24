@@ -1,6 +1,6 @@
 # rabestro/paperless-genie
 
-⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/rabestro/paperless-genie) · [官网](https://jc.id.lv/paperless-genie/) · 个人维护
+⭐ 10 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/rabestro/paperless-genie) · [官网](https://jc.id.lv/paperless-genie/) · 个人维护
 
 **通过 Telegram 聊天管理 Paperless-ngx 文档库的 AI 机器人**
 

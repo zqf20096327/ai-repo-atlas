@@ -1,6 +1,6 @@
 # Jumbomuffin777/Frontier-UI
 
-⭐ 74 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jumbomuffin777/Frontier-UI) · [官网](https://openwebui.com/posts/35572bd7-6dc8-42dc-9e54-bebfb9e978cb) · 个人维护
+⭐ 75 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jumbomuffin777/Frontier-UI) · [官网](https://openwebui.com/posts/35572bd7-6dc8-42dc-9e54-bebfb9e978cb) · 个人维护
 
 **Open WebUI 的生成式 UI 工具：把模型输出的 JSON 渲染为富交互卡片**
 

@@ -1,6 +1,6 @@
 # LienJack/learn-agent
 
-⭐ 28 · Mermaid · MIT · 推送 2026-07-11 · [GitHub](https://github.com/LienJack/learn-agent) · [官网](https://blog.lienjack.com) · 个人维护 · 中文 README
+⭐ 28 · Mermaid · MIT · 推送 2026-11-24 · [GitHub](https://github.com/LienJack/learn-agent) · [官网](https://blog.lienjack.com) · 个人维护 · 中文 README
 
 **工程师向技术博客知识库：系统学习 Agent、Claude Code 源码与后端基础**
 

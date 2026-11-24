@@ -1,6 +1,6 @@
 # github/squad
 
-⭐ 3,428 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/github/squad) · [官网](https://github.github.io/squad/) · 组织维护
+⭐ 3,433 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/github/squad) · [官网](https://github.github.io/squad/) · 组织维护
 
 **人主导的 AI 编码 agent 团队 CLI：为项目组建多专家智能体**
 

@@ -1,6 +1,6 @@
 # c80361619/zcode-toolkit
 
-⭐ 21 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/c80361619/zcode-toolkit) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/c80361619/zcode-toolkit) · 个人维护 · 中文 README
 
 **ZCode 桌面客户端增强插件：TPS 状态栏、思考档位、提示词润色等**
 

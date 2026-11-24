@@ -1,6 +1,6 @@
 # cumc-dbmi/cehrbert
 
-⭐ 50 · Python · MIT · 推送 2025-12-09 · [GitHub](https://github.com/cumc-dbmi/cehrbert) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cumc-dbmi/cehrbert) · 组织维护
 
 **面向结构化 EHR 数据的时间感知 BERT 预训练与预测框架**
 

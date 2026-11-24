@@ -1,6 +1,6 @@
 # liruifengv/amon-agent
 
-⭐ 182 · TypeScript · AGPL-3.0 · 推送 2026-04-25 · [GitHub](https://github.com/liruifengv/amon-agent) · 个人维护 · 中文 README
+⭐ 183 · TypeScript · AGPL-3.0 · 推送 2026-04-25 · [GitHub](https://github.com/liruifengv/amon-agent) · 个人维护 · 中文 README
 
 **运行在桌面上的 AI 协作助手，帮你写代码执行命令**
 

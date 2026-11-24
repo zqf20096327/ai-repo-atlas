@@ -1,6 +1,6 @@
 # huiliyi37/Tianshu-harness
 
-⭐ 1,365 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/huiliyi37/Tianshu-harness) · [官网](https://tianshuharness.com/) · 个人维护 · 中文 README
+⭐ 1,368 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/huiliyi37/Tianshu-harness) · [官网](https://tianshuharness.com/) · 个人维护 · 中文 README
 
 **开发者的终端编程 agent 运行时：目标不漂移、交付有验证闭环**
 

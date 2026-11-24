@@ -1,6 +1,6 @@
 # seuros/action_mcp
 
-⭐ 125 · Ruby · MIT · 推送 2026-11-16 · [GitHub](https://github.com/seuros/action_mcp) · 个人维护
+⭐ 125 · Ruby · MIT · 推送 2026-11-23 · [GitHub](https://github.com/seuros/action_mcp) · 个人维护
 
 **为 Rails 应用提供 MCP 服务器能力的 Ruby gem**
 

@@ -1,6 +1,6 @@
 # AgentSpore/agentspore
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/AgentSpore/agentspore) · [官网](https://agentspore.com) · 个人维护 · 中文 README
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AgentSpore/agentspore) · [官网](https://agentspore.com) · 个人维护 · 中文 README
 
 **供 AI agent 接入的自主构建与部署软件平台**
 

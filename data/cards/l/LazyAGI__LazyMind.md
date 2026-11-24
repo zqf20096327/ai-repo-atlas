@@ -1,6 +1,6 @@
 # LazyAGI/LazyMind
 
-⭐ 821 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/LazyAGI/LazyMind) · 组织维护 · 中文 README
+⭐ 850 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/LazyAGI/LazyMind) · 组织维护 · 中文 README
 
 **面向知识型工作的 AI 技能运行时：把知识变成可执行任务**
 

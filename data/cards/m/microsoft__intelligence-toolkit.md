@@ -1,6 +1,6 @@
 # microsoft/intelligence-toolkit
 
-⭐ 112 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/intelligence-toolkit) · 组织维护
+⭐ 113 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/intelligence-toolkit) · 组织维护
 
 **供领域专家从案例/实体/文本数据生成 AI 情报报告的交互式工作流套件**
 

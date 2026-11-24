@@ -1,6 +1,6 @@
 # Multi-Agent-LLMs/mallm
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/Multi-Agent-LLMs/mallm) · [官网](https://mallm.gipplab.org) · 组织维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/Multi-Agent-LLMs/mallm) · [官网](https://mallm.gipplab.org) · 组织维护
 
 **多智能体 LLM 辩论实验框架：组合人格、讨论范式与决策协议跑实验**
 

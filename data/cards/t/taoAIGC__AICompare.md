@@ -1,6 +1,6 @@
 # taoAIGC/AICompare
 
-⭐ 130 · JavaScript · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/taoAIGC/AICompare) · 个人维护 · 中文 README
+⭐ 131 · JavaScript · GPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/taoAIGC/AICompare) · 个人维护 · 中文 README
 
 **一键在多标签内打开多个 AI 站点并排对比回答的浏览器扩展**
 

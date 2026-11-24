@@ -1,6 +1,6 @@
 # xai-org/plugin-marketplace
 
-⭐ 344 · Python · 推送 2026-11-22 · [GitHub](https://github.com/xai-org/plugin-marketplace) · 组织维护
+⭐ 345 · Python · 推送 2026-11-23 · [GitHub](https://github.com/xai-org/plugin-marketplace) · 组织维护
 
 **Grok Build 官方插件市场目录：插件索引与分发仓库**
 

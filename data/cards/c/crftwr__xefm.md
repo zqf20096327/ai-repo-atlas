@@ -1,6 +1,6 @@
 # crftwr/xefm
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/crftwr/xefm) · [官网](https://crftwr.github.io/xefm/) · 个人维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/crftwr/xefm) · [官网](https://crftwr.github.io/xefm/) · 个人维护
 
 **键盘驱动的双栏文件管理器，桌面端与终端端皆可运行**
 

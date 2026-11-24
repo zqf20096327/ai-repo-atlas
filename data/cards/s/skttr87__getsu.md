@@ -1,6 +1,6 @@
 # skttr87/getsu
 
-⭐ 27 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/skttr87/getsu) · [官网](https://skttr87.github.io/getsu/) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/skttr87/getsu) · [官网](https://skttr87.github.io/getsu/) · 个人维护
 
 **Windows 实时 AI 降噪工具：CPU 上过滤麦克风噪声**
 

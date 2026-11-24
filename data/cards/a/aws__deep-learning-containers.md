@@ -1,6 +1,6 @@
 # aws/deep-learning-containers
 
-⭐ 1,211 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/aws/deep-learning-containers) · [官网](https://aws.github.io/deep-learning-containers/) · 组织维护
+⭐ 1,212 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/aws/deep-learning-containers) · [官网](https://aws.github.io/deep-learning-containers/) · 组织维护
 
 **在 AWS 上运行 AI/ML 工作负载的预构建 Docker 镜像集**
 

@@ -1,6 +1,6 @@
 # dartdavros/chatballs
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/dartdavros/chatballs) · [官网](https://chatballs.ru) · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dartdavros/chatballs) · [官网](https://chatballs.ru) · 个人维护
 
 **自托管 AI 客服平台：在多渠道自动应答客户，难题转人工**
 

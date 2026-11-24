@@ -1,6 +1,6 @@
 # merill/msgraph
 
-⭐ 123 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/merill/msgraph) · [官网](https://graph.pm) · 个人维护
+⭐ 123 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/merill/msgraph) · [官网](https://graph.pm) · 个人维护
 
 **给 AI agent 的 Microsoft Graph API 知识技能包，含本地索引与直连调用**
 

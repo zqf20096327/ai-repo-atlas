@@ -1,6 +1,6 @@
 # eraneos/snowflake-mlops
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-05-20 · [GitHub](https://github.com/eraneos/snowflake-mlops) · [官网](https://eraneos.github.io/snowflake-mlops/) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/eraneos/snowflake-mlops) · [官网](https://eraneos.github.io/snowflake-mlops/) · 组织维护
 
 **面向工程团队的 Snowflake 端到端 MLOps 参考代码库**
 

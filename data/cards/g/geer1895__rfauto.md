@@ -1,6 +1,6 @@
 # geer1895/rfauto
 
-⭐ 49 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/geer1895/rfauto) · 个人维护 · 中文 README
+⭐ 51 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/geer1895/rfauto) · 个人维护 · 中文 README
 
 **RF/微波设计自动化框架，AI agent 经 MCP 驱动全部流程**
 

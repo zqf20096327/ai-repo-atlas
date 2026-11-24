@@ -1,6 +1,6 @@
 # AI4Science-WestlakeU/RealPDEBench
 
-⭐ 140 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/AI4Science-WestlakeU/RealPDEBench) · [官网](https://realpdebench.github.io/) · 组织维护 · 中文 README
+⭐ 141 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/AI4Science-WestlakeU/RealPDEBench) · [官网](https://realpdebench.github.io/) · 组织维护 · 中文 README
 
 **配对真实/仿真数据的复杂物理系统科学 ML 基准（5 场景，700+ 轨迹）**
 

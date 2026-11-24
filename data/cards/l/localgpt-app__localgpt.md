@@ -1,6 +1,6 @@
 # localgpt-app/localgpt
 
-⭐ 1,133 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/localgpt-app/localgpt) · [官网](https://localgpt.app/) · 组织维护
+⭐ 1,133 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/localgpt-app/localgpt) · [官网](https://localgpt.app/) · 组织维护
 
 **把文档/歌曲/剧本变成可漫游 3D 世界并供编码代理编辑的桌面应用**
 

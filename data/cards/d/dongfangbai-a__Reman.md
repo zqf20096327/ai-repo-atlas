@@ -1,6 +1,6 @@
 # dongfangbai-a/Reman
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dongfangbai-a/Reman) · [官网](https://github.com/dongfangbai-a/Reman#readme) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dongfangbai-a/Reman) · [官网](https://github.com/dongfangbai-a/Reman#readme) · 个人维护 · 中文 README
 
 **浏览器网页中运行与观察多个 AI agent 协作的运行时**
 

@@ -1,6 +1,6 @@
 # iliachry/sovereign-kb
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/iliachry/sovereign-kb) · [官网](https://iliachry.gr) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iliachry/sovereign-kb) · [官网](https://iliachry.gr) · 个人维护
 
 **为 AI 编码 agent 提供本地 Markdown 记忆与质量审计的 CLI 工具**
 

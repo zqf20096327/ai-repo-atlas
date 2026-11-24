@@ -1,6 +1,6 @@
 # JuneYaooo/rea-toon
 
-⭐ 303 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/JuneYaooo/rea-toon) · 个人维护 · 中文 README
+⭐ 311 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/JuneYaooo/rea-toon) · 个人维护 · 中文 README
 
 **用 AI 拆解短剧的 CLI 工具：为何火、剧本与逐镜拍法**
 

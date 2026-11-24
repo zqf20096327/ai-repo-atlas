@@ -1,6 +1,6 @@
 # stuinfla/Repo-Explainer
 
-⭐ 68 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/stuinfla/Repo-Explainer) · [官网](https://repo-explainer-six.vercel.app) · 个人维护
+⭐ 68 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/stuinfla/Repo-Explainer) · [官网](https://repo-explainer-six.vercel.app) · 个人维护
 
 **把任意 GitHub 仓库自动生成可视化讲解页的工具**
 

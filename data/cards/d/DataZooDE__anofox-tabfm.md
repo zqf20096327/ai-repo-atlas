@@ -1,6 +1,6 @@
 # DataZooDE/anofox-tabfm
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DataZooDE/anofox-tabfm) · 组织维护
+⭐ 11 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DataZooDE/anofox-tabfm) · 组织维护
 
 **在 DuckDB 中用 SQL 调用表格基础模型做零样本分类与回归**
 

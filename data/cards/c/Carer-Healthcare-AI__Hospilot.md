@@ -1,6 +1,6 @@
 # Carer-Healthcare-AI/Hospilot
 
-⭐ 18 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Carer-Healthcare-AI/Hospilot) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Carer-Healthcare-AI/Hospilot) · 组织维护
 
 **医院运营的多智能体 AI 操作层，读 HIS 数据并协调执行**
 

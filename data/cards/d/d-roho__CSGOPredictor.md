@@ -1,6 +1,6 @@
 # d-roho/CSGOPredictor
 
-⭐ 16 · Python · 推送 2026-05-05 · [GitHub](https://github.com/d-roho/CSGOPredictor) · 个人维护
+⭐ 17 · Python · 推送 2026-05-05 · [GitHub](https://github.com/d-roho/CSGOPredictor) · 个人维护
 
 **为 CS:GO 观赛生成实时回合胜负概率预测的 Python 程序**
 

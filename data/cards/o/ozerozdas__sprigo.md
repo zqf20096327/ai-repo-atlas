@@ -1,6 +1,6 @@
 # ozerozdas/sprigo
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ozerozdas/sprigo) · [官网](https://mehmetozer.dev/sprigo) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ozerozdas/sprigo) · [官网](https://mehmetozer.dev/sprigo) · 个人维护
 
 **本地运行的桌面语言学习应用，AI 生成课程与对话练习**
 

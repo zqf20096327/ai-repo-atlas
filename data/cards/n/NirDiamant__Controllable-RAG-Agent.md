@@ -1,6 +1,6 @@
 # NirDiamant/Controllable-RAG-Agent
 
-⭐ 1,634 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/NirDiamant/Controllable-RAG-Agent) · 个人维护
+⭐ 1,635 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/NirDiamant/Controllable-RAG-Agent) · 个人维护
 
 **图控 RAG 代理：对自有数据回答复杂多跳问题**
 

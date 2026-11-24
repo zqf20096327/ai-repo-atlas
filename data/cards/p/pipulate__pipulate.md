@@ -1,6 +1,6 @@
 # pipulate/pipulate
 
-⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/pipulate/pipulate) · [官网](https://pipulate.com/) · 个人维护
+⭐ 14 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pipulate/pipulate) · [官网](https://pipulate.com/) · 个人维护
 
 **本地优先的 AI 工作流框架：Nix 可复现环境中的分步 AI 工作流**
 

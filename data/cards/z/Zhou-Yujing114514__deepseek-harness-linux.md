@@ -1,6 +1,6 @@
 # Zhou-Yujing114514/deepseek-harness-linux
 
-⭐ 206 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) · [官网](https://github.com/Zhou-Yujing114514/deepseek-harness-linux/releases) · 个人维护 · 中文 README
+⭐ 207 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) · [官网](https://github.com/Zhou-Yujing114514/deepseek-harness-linux/releases) · 个人维护 · 中文 README
 
 **DeepSeek Harness 桌面端的社区 Linux 打包（AppImage/.deb/.tar.gz）**
 

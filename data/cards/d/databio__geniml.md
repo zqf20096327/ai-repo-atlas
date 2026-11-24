@@ -1,6 +1,6 @@
 # databio/geniml
 
-⭐ 22 · Python · BSD-2-Clause · 推送 2026-11-22 · [GitHub](https://github.com/databio/geniml) · [官网](https://docs.bedbase.org/geniml/) · 组织维护
+⭐ 22 · Python · BSD-2-Clause · 推送 2026-11-23 · [GitHub](https://github.com/databio/geniml) · [官网](https://docs.bedbase.org/geniml/) · 组织维护
 
 **基因组区间数据（BED 文件）机器学习建模的 Python 包**
 

@@ -1,6 +1,6 @@
 # euskadi31/go-tokenizer
 
-⭐ 10 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/euskadi31/go-tokenizer) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/euskadi31/go-tokenizer) · 个人维护
 
 **Go 语言文本分词库，供开发者在 NLP 流程中切分文本**
 

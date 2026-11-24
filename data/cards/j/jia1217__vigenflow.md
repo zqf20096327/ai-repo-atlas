@@ -1,6 +1,6 @@
 # jia1217/vigenflow
 
-⭐ 29 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jia1217/vigenflow) · 个人维护
+⭐ 30 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jia1217/vigenflow) · 个人维护
 
 **在 AMD Ryzen AI NPU 上本地运行扩散模型生图的工具**
 

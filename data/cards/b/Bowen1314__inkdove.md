@@ -1,6 +1,6 @@
 # Bowen1314/inkdove
 
-⭐ 25 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Bowen1314/inkdove) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Bowen1314/inkdove) · 个人维护 · 中文 README
 
 **给外贸团队的 WhatsApp/LINE/Telegram 工作台，AI 依知识库起草回复**
 

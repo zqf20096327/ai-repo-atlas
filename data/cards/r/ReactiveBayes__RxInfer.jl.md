@@ -1,6 +1,6 @@
 # ReactiveBayes/RxInfer.jl
 
-⭐ 424 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ReactiveBayes/RxInfer.jl) · [官网](https://rxinfer.com/) · 组织维护
+⭐ 424 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ReactiveBayes/RxInfer.jl) · [官网](https://rxinfer.com/) · 组织维护
 
 **Julia 贝叶斯推断包：因子图上的反应式消息传递推断**
 

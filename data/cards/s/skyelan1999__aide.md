@@ -1,6 +1,6 @@
 # skyelan1999/aide
 
-⭐ 237 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/skyelan1999/aide) · 个人维护 · 中文 README
+⭐ 254 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/skyelan1999/aide) · 个人维护 · 中文 README
 
 **自托管 AI 工程工作台：自带模型在本地/SSH 项目中执行编码与工作流**
 

@@ -1,6 +1,6 @@
 # kasemjeff/aipass-desktop
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/kasemjeff/aipass-desktop) · [官网](https://kasemjeff.github.io/aipass-desktop/) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kasemjeff/aipass-desktop) · [官网](https://kasemjeff.github.io/aipass-desktop/) · 个人维护
 
 **面向 de.aipass.net 用户的本地优先 AI 编码代理桌面端与 harness**
 

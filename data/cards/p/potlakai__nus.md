@@ -1,6 +1,6 @@
 # potlakai/nus
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/potlakai/nus) · [官网](https://pdaime.github.io/nus/) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/potlakai/nus) · [官网](https://pdaime.github.io/nus/) · 个人维护
 
 **给大学生的 AI 学期管家：读教学大纲安排整学期**
 

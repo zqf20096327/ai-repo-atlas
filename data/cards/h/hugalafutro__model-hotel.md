@@ -1,6 +1,6 @@
 # hugalafutro/model-hotel
 
-⭐ 58 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hugalafutro/model-hotel) · 个人维护
+⭐ 58 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hugalafutro/model-hotel) · 个人维护
 
 **多供应商 LLM 网关：统一 OpenAI 兼容端点、自动故障转移**
 

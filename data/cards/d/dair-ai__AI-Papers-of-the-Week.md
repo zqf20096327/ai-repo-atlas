@@ -1,10 +1,10 @@
 # dair-ai/AI-Papers-of-the-Week
 
-⭐ 13,362 · 推送 2026-11-16 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
+⭐ 13,371 · 推送 2026-11-23 · [GitHub](https://github.com/dair-ai/AI-Papers-of-the-Week) · 组织维护
 
-**每周精选 AI 论文的清单仓库，附邮件订阅**
+**面向研究者/开发者的每周精选 AI 论文清单**
 
-DAIR.AI 维护的论文聚合仓库，按周归档 2023 年至今的 AI 顶会/研究论文清单，每周一期以链接列表形式发布。仓库本身不包含工具或代码，主要功能是浏览历史各期内容，并引导读者通过 newsletter 邮件订阅、Twitter 与 Discord 获取每周更新。读者可直接在 GitHub 查看往期归档，或订阅后每周在邮箱收到精选论文列表。
+由 DAIR.AI 维护的 AI 论文周报索引仓库：按周整理并突出展示每週的 AI/机器学习论文，覆盖 2023 年至今各期列表，读者可通过订阅 newsletter 将每周论文列表发送到邮箱，仓库内按年份（2023-2026）组织各期链接。提供 Twitter 与 Discord 渠道供关注与讨论。仓库本身不含模型或代码，属于论文集合与知识策展类资源。
 
 ## 筛选速览
 
@@ -26,25 +26,25 @@ DAIR.AI 维护的论文聚合仓库，按周归档 2023 年至今的 AI 顶会/�
 
 ## 能力要点
 
-- 按周归档 2023 年至今的 AI 论文精选清单
-- 支持邮件 newsletter 订阅每周推送
+- 按周整理的 AI 论文精选列表，按年份组织（2023 至今）
+- 支持 newsletter 订阅，每周论文列表发送至邮箱
 - 提供 Twitter 与 Discord 社区渠道
 
 ## 适用场景
 
-- 每周跟踪 AI/ML 领域新发表的论文
-- 检索某个时间段发布过的相关论文
-- 通过邮件订阅获取每周论文摘要
+- 每周跟踪 AI/机器学习领域的论文动态
+- 订阅 newsletter 获取论文周报推送
+- 回顾查找某一周发布的相关论文
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L1: # AI Papers of the Week
 > L3: Subscribe to our newsletter to get a weekly list of top AI papers in your inbox.
 > L5: At DAIR.AI we ❤️ reading AI papers so we've created this repo to highlight the top AI papers of every week.
-> L7: Here is the weekly series:
 
 ## 星数曲线
 
@@ -60,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `dd0f086f6897` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4ae7a36c294d` · [字段定义](../../DATASET.md)*

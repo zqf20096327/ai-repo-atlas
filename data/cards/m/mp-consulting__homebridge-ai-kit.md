@@ -1,6 +1,6 @@
 # mp-consulting/homebridge-ai-kit
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/mp-consulting/homebridge-ai-kit) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mp-consulting/homebridge-ai-kit) · 组织维护
 
 **让 AI 助手通过 MCP 控制与管理 Homebridge 智能家居的工具包**
 

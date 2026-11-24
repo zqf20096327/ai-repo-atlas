@@ -1,6 +1,6 @@
 # didilili/ai-agents-from-zero
 
-⭐ 6,100 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/didilili/ai-agents-from-zero) · [官网](https://didilili.github.io/ai-agents-from-zero/) · 个人维护 · 中文 README
+⭐ 6,113 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/didilili/ai-agents-from-zero) · [官网](https://didilili.github.io/ai-agents-from-zero/) · 个人维护 · 中文 README
 
 **AI Agent 开发的系统化中文教程仓库：从零学到企业级落地**
 

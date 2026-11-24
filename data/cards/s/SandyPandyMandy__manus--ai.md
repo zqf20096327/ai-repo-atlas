@@ -1,6 +1,6 @@
 # SandyPandyMandy/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SandyPandyMandy/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SandyPandyMandy/manus--ai) · 个人维护
 
 **面向个人用户的沙箱自主 AI Agent：代跑代码与操作浏览器**
 

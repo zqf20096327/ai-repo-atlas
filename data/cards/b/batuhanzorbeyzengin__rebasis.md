@@ -1,6 +1,6 @@
 # batuhanzorbeyzengin/rebasis
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/batuhanzorbeyzengin/rebasis) · [官网](https://batuhanzorbeyzengin.github.io/rebasis/) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/batuhanzorbeyzengin/rebasis) · [官网](https://batuhanzorbeyzengin.github.io/rebasis/) · 个人维护
 
 **嵌入模型升级评估与迁移工具：测量是否值得换、免重建索引桥接**
 

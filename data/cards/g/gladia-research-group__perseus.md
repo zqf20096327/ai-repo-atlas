@@ -1,6 +1,6 @@
 # gladia-research-group/perseus
 
-⭐ 28 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/gladia-research-group/perseus) · [官网](https://arxiv.org/pdf/2611.04488) · 组织维护
+⭐ 29 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/gladia-research-group/perseus) · [官网](https://arxiv.org/pdf/2611.04488) · 组织维护
 
 **GPU 上全同态加密的 transformer 推理框架**
 

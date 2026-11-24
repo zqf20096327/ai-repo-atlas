@@ -1,6 +1,6 @@
 # marketing-factory/ai-filemetadata
 
-⭐ 14 · PHP · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/marketing-factory/ai-filemetadata) · [官网](https://www.marketing-factory.de) · 组织维护
+⭐ 14 · PHP · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/marketing-factory/ai-filemetadata) · [官网](https://www.marketing-factory.de) · 组织维护
 
 **TYPO3 扩展：用 OpenAI 自动为图片生成替代文本**
 

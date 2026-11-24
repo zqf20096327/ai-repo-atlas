@@ -1,6 +1,6 @@
 # wimo-dev/turno
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wimo-dev/turno) · [官网](https://turno.wimo.dev) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wimo-dev/turno) · [官网](https://turno.wimo.dev) · 组织维护
 
 **给编码 agent 用户的 CLI：多账号切换且保留会话、MCP 登录与浏览器**
 

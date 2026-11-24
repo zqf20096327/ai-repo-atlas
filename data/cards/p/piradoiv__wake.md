@@ -1,6 +1,6 @@
 # piradoiv/wake
 
-⭐ 4 · Xojo · MIT · 推送 2026-11-18 · [GitHub](https://github.com/piradoiv/wake) · [官网](https://github.com/piradoiv/wake/releases) · 个人维护
+⭐ 5 · Xojo · MIT · 推送 2026-11-18 · [GitHub](https://github.com/piradoiv/wake) · [官网](https://github.com/piradoiv/wake/releases) · 个人维护
 
 **读取 Claude Code 本地会话记录的 macOS 用量分析应用**
 

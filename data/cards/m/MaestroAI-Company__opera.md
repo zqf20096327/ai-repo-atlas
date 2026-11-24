@@ -1,6 +1,6 @@
 # MaestroAI-Company/opera
 
-⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/MaestroAI-Company/opera) · [官网](https://maestroai.company/opera/) · 组织维护
+⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/MaestroAI-Company/opera) · [官网](https://maestroai.company/opera/) · 组织维护
 
 **隐私优先的开源 AI 助手，支持手机与桌面多端本地运行**
 

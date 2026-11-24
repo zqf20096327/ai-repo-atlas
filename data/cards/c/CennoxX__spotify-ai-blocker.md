@@ -1,6 +1,6 @@
 # CennoxX/spotify-ai-blocker
 
-⭐ 154 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CennoxX/spotify-ai-blocker) · 个人维护
+⭐ 155 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CennoxX/spotify-ai-blocker) · 个人维护
 
 **浏览器用户脚本：自动屏蔽 Spotify 上的 AI 生成音乐艺人**
 

@@ -1,6 +1,6 @@
 # leapmux/leapmux
 
-⭐ 120 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/leapmux/leapmux) · [官网](https://leapmux.dev) · 组织维护
+⭐ 121 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/leapmux/leapmux) · [官网](https://leapmux.dev) · 组织维护
 
 **在单一工作区内并行运行多个 AI 编程 Agent 的多路复用器**
 

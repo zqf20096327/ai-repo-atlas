@@ -1,6 +1,6 @@
 # nadeemlab/DeepLIIF
 
-⭐ 266 · Python · NOASSERTION · 推送 2026-08-31 · [GitHub](https://github.com/nadeemlab/DeepLIIF) · [官网](https://deepliif.org) · 组织维护
+⭐ 266 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/nadeemlab/DeepLIIF) · [官网](https://deepliif.org) · 组织维护
 
 **将 IHC 病理图像转为 mpIF 并做细胞分割与定量评分**
 

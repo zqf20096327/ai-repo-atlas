@@ -1,6 +1,6 @@
 # awdr74100/figwright
 
-⭐ 1,497 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/awdr74100/figwright)
+⭐ 1,511 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/awdr74100/figwright)
 
 **双向 Figma MCP 服务器：设计转代码、代码回写画布**
 

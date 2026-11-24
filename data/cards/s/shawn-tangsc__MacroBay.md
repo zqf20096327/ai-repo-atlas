@@ -1,6 +1,6 @@
 # shawn-tangsc/MacroBay
 
-⭐ 118 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/shawn-tangsc/MacroBay) · 个人维护 · 中文 README
+⭐ 126 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/shawn-tangsc/MacroBay) · 个人维护 · 中文 README
 
 **带 AI 分析师的加密货币市场情报桌面工作台**
 

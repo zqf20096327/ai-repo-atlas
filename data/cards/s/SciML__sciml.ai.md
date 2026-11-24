@@ -1,6 +1,6 @@
 # SciML/sciml.ai
 
-⭐ 76 · CSS · MIT · 推送 2026-11-21 · [GitHub](https://github.com/SciML/sciml.ai) · [官网](https://sciml.ai/) · 组织维护
+⭐ 76 · CSS · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SciML/sciml.ai) · [官网](https://sciml.ai/) · 组织维护
 
 **SciML 科学机器学习组织的官网，展示生态内各软件包与动态**
 

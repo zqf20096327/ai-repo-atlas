@@ -1,6 +1,6 @@
 # GetStream/agent-skills
 
-⭐ 21 · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/GetStream/agent-skills) · 组织维护
+⭐ 21 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/GetStream/agent-skills) · 组织维护
 
 **让 AI 编码代理构建、查询、管理 Stream 产品的技能包**
 

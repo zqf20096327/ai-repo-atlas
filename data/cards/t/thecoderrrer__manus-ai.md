@@ -1,6 +1,6 @@
 # thecoderrrer/manus-ai
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/thecoderrrer/manus-ai) · 个人维护
+⭐ 148 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/thecoderrrer/manus-ai) · 个人维护
 
 **面向个人用户的自主 AI 代理：代为执行代码与浏览器操作**
 

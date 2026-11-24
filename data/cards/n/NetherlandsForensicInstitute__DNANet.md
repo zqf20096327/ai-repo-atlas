@@ -1,6 +1,6 @@
 # NetherlandsForensicInstitute/DNANet
 
-⭐ 13 · Python · EUPL-1.2 · 推送 2026-11-10 · [GitHub](https://github.com/NetherlandsForensicInstitute/DNANet) · [官网](https://dnanet.readthedocs.io/en/latest/)
+⭐ 14 · Python · EUPL-1.2 · 推送 2026-11-10 · [GitHub](https://github.com/NetherlandsForensicInstitute/DNANet) · [官网](https://dnanet.readthedocs.io/en/latest/)
 
 **法医 DNA 电泳图谱深度学习框架：解析 .hid 并等位基因分型**
 

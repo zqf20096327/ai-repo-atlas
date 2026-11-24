@@ -1,6 +1,6 @@
 # nguyentatkiem/ai-video-studio
 
-⭐ 64 · HTML · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/nguyentatkiem/ai-video-studio) · [官网](https://nguyentatkiem.com.vn/aiplusntk/) · 个人维护
+⭐ 65 · HTML · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/nguyentatkiem/ai-video-studio) · [官网](https://nguyentatkiem.com.vn/aiplusntk/) · 个人维护
 
 **本地 AI 视频剪辑软件（macOS/Windows），面向短视频创作者**
 

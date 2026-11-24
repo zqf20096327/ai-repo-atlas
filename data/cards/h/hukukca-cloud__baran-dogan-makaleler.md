@@ -1,6 +1,6 @@
 # hukukca-cloud/baran-dogan-makaleler
 
-⭐ 24 · Python · 推送 2026-11-01 · [GitHub](https://github.com/hukukca-cloud/baran-dogan-makaleler) · 个人维护
+⭐ 25 · Python · 推送 2026-11-01 · [GitHub](https://github.com/hukukca-cloud/baran-dogan-makaleler) · 个人维护
 
 **土耳其律师法律文章的 AI 友好分类档案，供 Claude/ChatGPT 使用**
 

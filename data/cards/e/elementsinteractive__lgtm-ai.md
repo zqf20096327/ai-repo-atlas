@@ -1,6 +1,6 @@
 # elementsinteractive/lgtm-ai
 
-⭐ 26 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/elementsinteractive/lgtm-ai) · [官网](https://www.elements.nl) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/elementsinteractive/lgtm-ai) · [官网](https://www.elements.nl) · 组织维护
 
 **用 LLM 生成代码审查与审查指南的 CLI 工具**
 

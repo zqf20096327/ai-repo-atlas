@@ -1,6 +1,6 @@
 # lacymorrow/paperclip-plugin-agent-usage
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lacymorrow/paperclip-plugin-agent-usage) · [官网](https://www.npmjs.com/package/paperclip-plugin-agent-usage) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lacymorrow/paperclip-plugin-agent-usage) · [官网](https://www.npmjs.com/package/paperclip-plugin-agent-usage) · 个人维护
 
 **Paperclip 插件：追踪 Claude 用量配额，供 agent 自查余量**
 

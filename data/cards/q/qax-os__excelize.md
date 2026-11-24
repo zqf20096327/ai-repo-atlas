@@ -1,6 +1,6 @@
 # qax-os/excelize
 
-⭐ 21,143 · Go · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/qax-os/excelize) · [官网](https://xuri.me/excelize) · 组织维护
+⭐ 21,147 · Go · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/qax-os/excelize) · [官网](https://xuri.me/excelize) · 组织维护
 
 **给 Go 开发者的 Excel 读写库：操作 XLSX 等电子表格文件**
 

@@ -1,6 +1,6 @@
 # anthropics/claude-for-legal
 
-⭐ 10,069 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/anthropics/claude-for-legal) · 组织维护
+⭐ 10,077 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/anthropics/claude-for-legal) · 组织维护
 
 **面向法律工作流的 Claude 插件套件：agents、技能与连接器**
 

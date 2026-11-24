@@ -1,6 +1,6 @@
 # WangRongsheng/awesome-LLM-resources
 
-⭐ 9,099 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/WangRongsheng/awesome-LLM-resources) · 个人维护 · 中文 README
+⭐ 9,103 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/WangRongsheng/awesome-LLM-resources) · 个人维护 · 中文 README
 
 **大语言模型学习与开发资源的聚合清单，面向 LLM 从业者**
 

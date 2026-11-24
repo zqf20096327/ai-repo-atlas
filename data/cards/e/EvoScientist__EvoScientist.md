@@ -1,6 +1,6 @@
 # EvoScientist/EvoScientist
 
-⭐ 5,061 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/EvoScientist/EvoScientist) · [官网](https://EvoScientist.ai/) · 组织维护 · 中文 README
+⭐ 5,076 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/EvoScientist/EvoScientist) · [官网](https://EvoScientist.ai/) · 组织维护 · 中文 README
 
 **自进化多智能体 AI 科研系统，自动化完整研究流程**
 

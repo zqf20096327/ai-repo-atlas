@@ -1,6 +1,6 @@
 # dbcls/togomcp
 
-⭐ 22 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dbcls/togomcp) · [官网](http://togomcp.rdfportal.org/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dbcls/togomcp) · [官网](http://togomcp.rdfportal.org/) · 组织维护
 
 **让 AI 助手用自然语言查询生命科学知识图谱的 MCP 服务器**
 

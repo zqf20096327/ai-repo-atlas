@@ -1,6 +1,6 @@
 # kubeflow/blog
 
-⭐ 32 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/kubeflow/blog) · [官网](https://blog.kubeflow.org) · 组织维护
+⭐ 32 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kubeflow/blog) · [官网](https://blog.kubeflow.org) · 组织维护
 
 **Kubeflow 官方博客：基于 fastpages 的社区博客仓库**
 

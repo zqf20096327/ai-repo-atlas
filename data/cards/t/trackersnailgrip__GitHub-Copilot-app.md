@@ -1,6 +1,6 @@
 # trackersnailgrip/GitHub-Copilot-app
 
-⭐ 380 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/trackersnailgrip/GitHub-Copilot-app) · 组织维护
+⭐ 377 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/trackersnailgrip/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 GitHub Copilot 桌面端：查找、运行与管理编码 agent**
 

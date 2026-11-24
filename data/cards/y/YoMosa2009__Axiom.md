@@ -1,6 +1,6 @@
 # YoMosa2009/Axiom
 
-⭐ 28 · C# · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/YoMosa2009/Axiom) · [官网](https://axiominference.work) · 个人维护
+⭐ 28 · C# · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/YoMosa2009/Axiom) · [官网](https://axiominference.work) · 个人维护
 
 **Windows 本地优先 AI 助手与多智能体工作台**
 

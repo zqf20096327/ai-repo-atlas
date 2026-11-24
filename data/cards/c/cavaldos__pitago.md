@@ -1,6 +1,6 @@
 # cavaldos/pitago
 
-⭐ 34 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cavaldos/pitago) · 个人维护
+⭐ 35 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cavaldos/pitago) · 个人维护
 
 **pi 编码 agent 的终端 TUI 前端：聊天、会话与工具管理**
 

@@ -1,6 +1,6 @@
 # julianmb/halofpx
 
-⭐ 96 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/julianmb/halofpx) · [官网](https://huggingface.co/julianmb/Qwen-3.8-27B-ROCmFP4-FAST-GGUF) · 个人维护
+⭐ 97 · Python · NOASSERTION · 推送 2026-09-24 · [GitHub](https://github.com/julianmb/halofpx) · [官网](https://huggingface.co/julianmb/Qwen-3.8-27B-ROCmFP4-FAST-GGUF) · 个人维护
 
 **面向 AMD Strix Halo/Radeon GPU 的本地模型服务器与模型库**
 

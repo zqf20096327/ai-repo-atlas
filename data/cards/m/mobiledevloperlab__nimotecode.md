@@ -1,6 +1,6 @@
 # mobiledevloperlab/nimotecode
 
-⭐ 17 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/mobiledevloperlab/nimotecode) · [官网](https://nimotecode.com/) · 组织维护 · 中文 README
+⭐ 18 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/mobiledevloperlab/nimotecode) · [官网](https://nimotecode.com/) · 组织维护 · 中文 README
 
 **Android/iOS 移动 IDE：编辑器、SSH、Git 与 AI 编码代理**
 

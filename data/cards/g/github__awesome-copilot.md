@@ -1,6 +1,6 @@
 # github/awesome-copilot
 
-⭐ 41,447 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/github/awesome-copilot) · [官网](https://awesome-copilot.github.com/) · 中文 README
+⭐ 41,487 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/github/awesome-copilot) · [官网](https://awesome-copilot.github.com/) · 中文 README
 
 **GitHub Copilot 社区贡献的 agents/指令/技能配置合集**
 

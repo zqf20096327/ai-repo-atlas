@@ -1,6 +1,6 @@
 # tykimos/agent-native-agent
 
-⭐ 150 · HTML · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/tykimos/agent-native-agent) · [官网](https://github.com/tykimos/ana-starter) · 个人维护 · 中文 README
+⭐ 151 · HTML · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/tykimos/agent-native-agent) · [官网](https://github.com/tykimos/ana-starter) · 个人维护 · 中文 README
 
 **自托管看板应用：以编码 agent 为运行时，边用边改**
 

@@ -1,6 +1,6 @@
 # scylladb/vector-search-examples
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/scylladb/vector-search-examples) · [官网](https://vector-search.scylladb.com) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/scylladb/vector-search-examples) · [官网](https://vector-search.scylladb.com) · 组织维护
 
 **ScyllaDB 向量搜索示例应用集：演示向量检索与 RAG 搭建**
 

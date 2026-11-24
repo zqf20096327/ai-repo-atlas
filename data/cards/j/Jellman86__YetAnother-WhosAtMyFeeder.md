@@ -1,6 +1,6 @@
 # Jellman86/YetAnother-WhosAtMyFeeder
 
-⭐ 64 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Jellman86/YetAnother-WhosAtMyFeeder) · 个人维护
+⭐ 64 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Jellman86/YetAnother-WhosAtMyFeeder) · 个人维护
 
 **给家庭观鸟者：用本地模型识别 Frigate 摄像头中的鸟类**
 

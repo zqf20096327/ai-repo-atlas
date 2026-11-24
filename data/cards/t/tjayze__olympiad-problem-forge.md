@@ -1,6 +1,6 @@
 # tjayze/olympiad-problem-forge
 
-⭐ 57 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/tjayze/olympiad-problem-forge) · 个人维护
+⭐ 57 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/tjayze/olympiad-problem-forge) · 个人维护
 
 **跨平台桌面应用：按模板生成奥赛级数学题并管理题库**
 

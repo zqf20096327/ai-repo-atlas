@@ -1,6 +1,6 @@
 # mlr-org/mlr3proba
 
-⭐ 151 · R · LGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/mlr-org/mlr3proba) · [官网](https://mlr3proba.mlr-org.com/) · 组织维护
+⭐ 151 · R · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mlr-org/mlr3proba) · [官网](https://mlr3proba.mlr-org.com/) · 组织维护
 
 **面向 mlr3 的概率学习 R 包：生存分析、密度估计与概率回归**
 

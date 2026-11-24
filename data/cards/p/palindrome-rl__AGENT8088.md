@@ -1,6 +1,6 @@
 # palindrome-rl/AGENT8088
 
-⭐ 16 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/palindrome-rl/AGENT8088) · [官网](https://palindromerl.com) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/palindrome-rl/AGENT8088) · [官网](https://palindromerl.com) · 组织维护
 
 **面向小模型可靠任务完成的开源 agent 运行框架**
 

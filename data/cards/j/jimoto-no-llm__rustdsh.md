@@ -1,6 +1,6 @@
 # jimoto-no-llm/rustdsh
 
-⭐ 108 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jimoto-no-llm/rustdsh) · [官网](https://jimoto-no-llm.github.io/rustdsh/) · 个人维护 · 中文 README
+⭐ 108 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jimoto-no-llm/rustdsh) · [官网](https://jimoto-no-llm.github.io/rustdsh/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Rust 启动器/微型编排器，加速本地 LLM agent 运行**
 

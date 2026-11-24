@@ -1,6 +1,6 @@
 # AlexeyPerov/Unity-Open-MCP
 
-⭐ 20 · C# · MIT · 推送 2026-10-29 · [GitHub](https://github.com/AlexeyPerov/Unity-Open-MCP) · 个人维护 · 中文 README
+⭐ 20 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AlexeyPerov/Unity-Open-MCP) · 个人维护 · 中文 README
 
 **让 AI agent 通过 MCP 控制与测试 Unity 项目的工具集**
 

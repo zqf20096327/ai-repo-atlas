@@ -1,6 +1,6 @@
 # fadii-99/job-apply-skill
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/fadii-99/job-apply-skill) · [官网](https://github.com/fadii-99/job-apply-skill#quick-start) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/fadii-99/job-apply-skill) · [官网](https://github.com/fadii-99/job-apply-skill#quick-start) · 个人维护
 
 **求职者的 Claude Code 技能：自动申请 LinkedIn 职位并生成定制 ATS 简历**
 

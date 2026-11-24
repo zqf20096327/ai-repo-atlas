@@ -1,6 +1,6 @@
 # MechaCritter/Python-Visual-Similarity
 
-⭐ 21 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/MechaCritter/Python-Visual-Similarity) · [官网](https://mechacritter.github.io/Python-Visual-Similarity/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MechaCritter/Python-Visual-Similarity) · [官网](https://mechacritter.github.io/Python-Visual-Similarity/) · 个人维护
 
 **面向图像检索与聚类的图像相似度计算库（传统+深度方法）**
 

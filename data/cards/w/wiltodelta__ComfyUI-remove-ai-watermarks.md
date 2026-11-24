@@ -1,6 +1,6 @@
 # wiltodelta/ComfyUI-remove-ai-watermarks
 
-⭐ 35 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wiltodelta/ComfyUI-remove-ai-watermarks) · 个人维护
+⭐ 35 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wiltodelta/ComfyUI-remove-ai-watermarks) · 个人维护
 
 **ComfyUI 自定义节点集：检测并移除图像中的可见/不可见 AI 水印**
 

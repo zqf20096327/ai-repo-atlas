@@ -1,6 +1,6 @@
 # salikhussain71-code/PAKGOV-RAG-project
 
-⭐ 134 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/salikhussain71-code/PAKGOV-RAG-project) · 个人维护
+⭐ 136 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/salikhussain71-code/PAKGOV-RAG-project) · 个人维护
 
 **巴基斯坦宪法乌尔都语-英语双语 RAG 问答研究项目**
 

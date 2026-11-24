@@ -1,6 +1,6 @@
 # molly554/whiteboard-ai-tutor
 
-⭐ 548 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/molly554/whiteboard-ai-tutor) · [官网](https://molly554.github.io/whiteboard-ai-tutor/) · 个人维护 · 中文 README
+⭐ 556 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/molly554/whiteboard-ai-tutor) · [官网](https://molly554.github.io/whiteboard-ai-tutor/) · 个人维护 · 中文 README
 
 **白板 AI 导师参考实现与六大模型教学能力基准**
 

@@ -1,6 +1,6 @@
 # cxc1344/BotHive
 
-⭐ 3 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cxc1344/BotHive) · [官网](https://github.com/cxc1344/BotHive/releases/download/v0.6.1/BotHive-v0.6.1.apk) · 个人维护 · 中文 README
+⭐ 3 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cxc1344/BotHive) · [官网](https://github.com/cxc1344/BotHive/releases/download/v0.6.1/BotHive-v0.6.1.apk) · 个人维护 · 中文 README
 
 **安卓多 Bot 协作应用：用自有 API Key 自建 AI 员工团队**
 

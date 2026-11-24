@@ -1,6 +1,6 @@
 # evilbruce666/1c-odata-mcp
 
-⭐ 55 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/evilbruce666/1c-odata-mcp) · [官网](https://www.npmjs.com/package/1c-odata-mcp) · 个人维护
+⭐ 56 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/evilbruce666/1c-odata-mcp) · [官网](https://www.npmjs.com/package/1c-odata-mcp) · 个人维护
 
 **把 1С:Предприятие 数据接入任意 MCP 客户端的 OData 连接器**
 

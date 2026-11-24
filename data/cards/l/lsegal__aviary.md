@@ -1,6 +1,6 @@
 # lsegal/aviary
 
-⭐ 12 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lsegal/aviary) · [官网](https://aviary.bot) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lsegal/aviary) · [官网](https://aviary.bot) · 个人维护
 
 **将 AI 模型接入聊天平台并执行定时任务的助手平台**
 

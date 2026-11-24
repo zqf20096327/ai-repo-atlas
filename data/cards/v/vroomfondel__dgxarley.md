@@ -1,6 +1,6 @@
 # vroomfondel/dgxarley
 
-⭐ 13 · Python · LGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/vroomfondel/dgxarley) · 个人维护
+⭐ 13 · Python · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/vroomfondel/dgxarley) · 个人维护
 
 **用 Ansible 部署 4 台 DGX Spark K3s 集群跑分布式 LLM 推理**
 

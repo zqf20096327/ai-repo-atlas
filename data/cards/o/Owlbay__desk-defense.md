@@ -1,6 +1,6 @@
 # Owlbay/desk-defense
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Owlbay/desk-defense) · [官网](https://jjjj.games) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Owlbay/desk-defense) · [官网](https://jjjj.games) · 个人维护 · 中文 README
 
 **用文具摆迷宫的塔防游戏，支持大模型代玩或对战**
 

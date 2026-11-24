@@ -1,6 +1,6 @@
 # paziresh24/Griffin
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/paziresh24/Griffin) · [官网](https://griffin.paziresh24.com/) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/paziresh24/Griffin) · [官网](https://griffin.paziresh24.com/) · 组织维护
 
 **自托管 AI agent 团队平台：定义 agent、工具权限与委托**
 

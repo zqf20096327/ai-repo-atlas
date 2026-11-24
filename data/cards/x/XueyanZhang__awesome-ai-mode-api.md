@@ -1,6 +1,6 @@
 # XueyanZhang/awesome-ai-mode-api
 
-⭐ 30 · MIT · 推送 2026-11-21 · [GitHub](https://github.com/XueyanZhang/awesome-ai-mode-api) · 个人维护 · 中文 README
+⭐ 30 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/XueyanZhang/awesome-ai-mode-api) · 个人维护 · 中文 README
 
 **AI 模型 API 提供商与平台清单，含开源项目条目**
 

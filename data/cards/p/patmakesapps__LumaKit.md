@@ -1,6 +1,6 @@
 # patmakesapps/LumaKit
 
-⭐ 21 · Python · MIT · 推送 2026-09-15 · [GitHub](https://github.com/patmakesapps/LumaKit) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/patmakesapps/LumaKit) · 个人维护
 
 **自托管自主任务 Agent，可驱动机器人执行长时任务**
 

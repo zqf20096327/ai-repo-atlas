@@ -1,6 +1,6 @@
 # AbdulSamad94/clipsmith
 
-⭐ 25 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AbdulSamad94/clipsmith) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AbdulSamad94/clipsmith) · 个人维护
 
 **本地离线把长 YouTube 视频剪成带字幕竖屏 Shorts 的开源工具**
 

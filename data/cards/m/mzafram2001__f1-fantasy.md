@@ -1,6 +1,6 @@
 # mzafram2001/f1-fantasy
 
-⭐ 16 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mzafram2001/f1-fantasy) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mzafram2001/f1-fantasy) · 个人维护
 
 **自动化更新的 F1 Fantasy 历史数据集（JSON 格式）**
 

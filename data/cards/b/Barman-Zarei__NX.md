@@ -1,6 +1,6 @@
 # Barman-Zarei/NX
 
-⭐ 4 · Python · 推送 2026-11-14 · [GitHub](https://github.com/Barman-Zarei/NX) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 Ubuntu 的实验性 Linux 发行版，规划集成 Brok AI 层**
 

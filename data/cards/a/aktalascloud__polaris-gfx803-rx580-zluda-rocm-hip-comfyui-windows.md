@@ -1,6 +1,6 @@
 # aktalascloud/polaris-gfx803-rx580-zluda-rocm-hip-comfyui-windows
 
-⭐ 4 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/aktalascloud/polaris-gfx803-rx580-zluda-rocm-hip-comfyui-windows) · 个人维护
+⭐ 4 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/aktalascloud/polaris-gfx803-rx580-zluda-rocm-hip-comfyui-windows) · 个人维护
 
 **为 AMD RX 580 (gfx803) Windows 环境安装固定版本 AI 运行栈的工具**
 

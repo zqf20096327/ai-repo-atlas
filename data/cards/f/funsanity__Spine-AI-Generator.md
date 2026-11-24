@@ -1,6 +1,6 @@
 # funsanity/Spine-AI-Generator
 
-⭐ 49 · JavaScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/funsanity/Spine-AI-Generator) · 个人维护 · 中文 README
+⭐ 51 · JavaScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/funsanity/Spine-AI-Generator) · 个人维护 · 中文 README
 
 **把 2D 立绘自动拆件、建骨架并导出 Spine 资源的本地工具**
 

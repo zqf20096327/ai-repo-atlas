@@ -1,6 +1,6 @@
 # L-Forster/open-jet
 
-⭐ 147 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/L-Forster/open-jet) · [官网](https://www.openjet.dev/) · 个人维护
+⭐ 147 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/L-Forster/open-jet) · [官网](https://www.openjet.dev/) · 个人维护
 
 **本地模型离线编程 agent 与自带 CUDA 推理引擎**
 

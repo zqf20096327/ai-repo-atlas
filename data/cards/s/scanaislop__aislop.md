@@ -1,6 +1,6 @@
 # scanaislop/aislop
 
-⭐ 772 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/scanaislop/aislop) · [官网](https://scanaislop.com) · 组织维护
+⭐ 772 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/scanaislop/aislop) · [官网](https://scanaislop.com) · 组织维护
 
 **AI 辅助开发代码质量扫描器：确定性规则检出 slop 模式**
 

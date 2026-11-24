@@ -1,6 +1,6 @@
 # dongzhang84/trend-monitor
 
-⭐ 11 · Python · 推送 2026-11-21 · [GitHub](https://github.com/dongzhang84/trend-monitor) · 个人维护
+⭐ 11 · Python · 推送 2026-11-22 · [GitHub](https://github.com/dongzhang84/trend-monitor) · 个人维护
 
 **聚合 6 个来源的每日/每周 AI 技术趋势监控工具**
 

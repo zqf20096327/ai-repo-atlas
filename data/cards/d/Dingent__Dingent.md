@@ -1,6 +1,6 @@
 # Dingent/Dingent
 
-⭐ 52 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Dingent/Dingent) · [官网](https://ngdc.cncb.ac.cn/dingent/) · 组织维护
+⭐ 52 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Dingent/Dingent) · [官网](https://ngdc.cncb.ac.cn/dingent/) · 组织维护
 
 **跨平台 LLM Agent 框架：后端+前端+协作的一体化部署**
 

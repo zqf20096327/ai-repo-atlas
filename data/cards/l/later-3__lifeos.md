@@ -1,6 +1,6 @@
 # later-3/lifeos
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/later-3/lifeos) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/later-3/lifeos) · 个人维护 · 中文 README
 
 **个人多 Agent 协作工作台：任务化协作与本地留存**
 

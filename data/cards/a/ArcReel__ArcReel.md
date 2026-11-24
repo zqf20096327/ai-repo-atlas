@@ -1,6 +1,6 @@
 # ArcReel/ArcReel
 
-⭐ 6,711 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ArcReel/ArcReel) · [官网](https://arc-reel.com) · 组织维护 · 中文 README
+⭐ 6,729 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ArcReel/ArcReel) · [官网](https://arc-reel.com) · 组织维护 · 中文 README
 
 **给创作者把小说剧本转为短视频的自部署 AI 工作台**
 

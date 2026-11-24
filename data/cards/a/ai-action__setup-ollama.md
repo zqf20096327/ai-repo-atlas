@@ -1,6 +1,6 @@
 # ai-action/setup-ollama
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ai-action/setup-ollama) · [官网](https://github.com/marketplace/actions/setup-ollama) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai-action/setup-ollama) · [官网](https://github.com/marketplace/actions/setup-ollama) · 组织维护
 
 **在 GitHub Actions 中安装 Ollama CLI 的 Action**
 

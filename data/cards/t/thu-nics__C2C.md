@@ -1,6 +1,6 @@
 # thu-nics/C2C
 
-⭐ 783 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/thu-nics/C2C) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/c2c/) · 组织维护 · 中文 README
+⭐ 784 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/thu-nics/C2C) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/c2c/) · 组织维护 · 中文 README
 
 **让 LLM 间通过 KV-Cache 直接通信的研究代码库**
 

@@ -1,6 +1,6 @@
 # kesha-antonov/react-native-chat
 
-⭐ 95 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kesha-antonov/react-native-chat) · [官网](https://kesha-antonov.com/react-native-chat) · 个人维护
+⭐ 96 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kesha-antonov/react-native-chat) · [官网](https://kesha-antonov.com/react-native-chat) · 个人维护
 
 **React Native 与 Web 的聊天 UI 组件库，含流式 AI 消息渲染**
 

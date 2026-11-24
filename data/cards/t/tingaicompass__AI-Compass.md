@@ -1,6 +1,6 @@
 # tingaicompass/AI-Compass
 
-⭐ 1,000 · Python · 推送 2026-11-20 · [GitHub](https://github.com/tingaicompass/AI-Compass) · [官网](https://blog.csdn.net/sinat_39620217?spm=1011.2124.3001.5343) · 个人维护 · 中文 README
+⭐ 1,001 · Python · 推送 2026-11-20 · [GitHub](https://github.com/tingaicompass/AI-Compass) · [官网](https://blog.csdn.net/sinat_39620217?spm=1011.2124.3001.5343) · 个人维护 · 中文 README
 
 **面向 AI 学习者的系统化资源导航与每周精选知识库**
 

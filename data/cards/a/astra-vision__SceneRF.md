@@ -1,6 +1,6 @@
 # astra-vision/SceneRF
 
-⭐ 381 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/astra-vision/SceneRF) · [官网](https://astra-vision.github.io/SceneRF/)
+⭐ 380 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/astra-vision/SceneRF) · [官网](https://astra-vision.github.io/SceneRF/)
 
 **自监督单目 3D 场景重建的官方 PyTorch 实现**
 

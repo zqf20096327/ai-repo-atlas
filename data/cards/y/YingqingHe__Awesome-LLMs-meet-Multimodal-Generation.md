@@ -1,6 +1,6 @@
 # YingqingHe/Awesome-LLMs-meet-Multimodal-Generation
 
-⭐ 550 · HTML · 推送 2026-11-10 · [GitHub](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) · 个人维护
+⭐ 551 · HTML · 推送 2026-11-10 · [GitHub](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation) · 个人维护
 
 **LLM 多模态生成论文清单：图像/视频/3D/音频方向**
 

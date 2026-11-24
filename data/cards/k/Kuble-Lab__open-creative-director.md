@@ -1,6 +1,6 @@
 # Kuble-Lab/open-creative-director
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Kuble-Lab/open-creative-director) · 组织维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Kuble-Lab/open-creative-director) · 组织维护
 
 **本地优先的聊天式 AI 创意制作工具：规划并生成图像、视频、语音与动图**
 

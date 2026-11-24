@@ -1,6 +1,6 @@
 # dev-aly3n/aipager
 
-⭐ 21 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dev-aly3n/aipager) · [官网](https://aipager.run) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dev-aly3n/aipager) · [官网](https://aipager.run) · 个人维护
 
 **通过 Telegram 远程操控本机 Claude Code 会话的工具**
 

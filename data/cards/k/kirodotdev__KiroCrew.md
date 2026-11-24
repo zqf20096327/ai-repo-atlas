@@ -1,10 +1,10 @@
 # kirodotdev/KiroCrew
 
-⭐ 5,038 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kirodotdev/KiroCrew) · [官网](https://kiro.dev/crew/) · 组织维护
+⭐ 5,059 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/kirodotdev/KiroCrew) · [官网](https://kiro.dev/crew/) · 组织维护
 
-**给开发者的持久化 AI 代理工作区，跨会话自学习持续运行**
+**跨会话持久运行、可自我改进的开发工作 Agent 工作区**
 
-开源的开发工作区，可本地或远程运行在用户自己的硬件上，包含桌面应用、Web 仪表盘、CLI 和 Slack/Discord 连接多种入口。核心是一个 Gateway，管理持久会话、记忆、定时任务、审批与应用；任务失败与纠正会沉淀为持久教训，重复模式可合成可复用技能。支持无人值守的定时作业、子代理并行委托、MCP 工具扩展、OS 沙箱与工具审批等安全控制。默认代理后端为 kiro-cli，需单独安装登录；提供安装包、一行脚本、Docker 镜像与源码构建四种安装方式。
+开源开发工作区，可本地或远程部署在自有硬件上，通过 Gateway 将会话、记忆、日程、审批等状态与工作界面分离：桌面应用、Web 仪表盘、CLI 及 Slack/Discord 均可接入同一工作流。支持多步任务无人值守执行（规划、校验、重试、断点恢复）、定时任务、子 Agent 并行委派、从纠错中沉淀持久化 lessons 与可复用 skills。默认 Agent 后端依赖单独安装并登录的 kiro-cli。提供桌面安装包、一键脚本、Docker 镜像与源码构建四种安装途径，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 持久会话与记忆，跨 Gateway 重启与跨会话保留
-- 纠正与失败转为持久教训，重复模式合成可复用技能
-- 定时/无人值守任务与检查点续跑，子代理并行委托
-- 可接入 MCP 服务器与 markdown 技能，仪表盘可视化执行过程
+- 会话、记忆、日程、断点跨 Gateway 重启持久化
+- 纠错与失败沉淀为可编辑 lessons，重复模式合成为 skills
+- 无人值守长任务：规划、校验、重试与断点恢复
+- 工具审批、OS 沙箱、敏感路径检查等纵深安全控制
 
 ## 适用场景
 
-- 让多步开发任务（如迁移计划）无人值守执行并在检查点验证
-- 把每天的例行工作配置为定时代理作业
-- 在 Slack/Discord 中继续与同一个工作区协作
-- 让代理积累项目教训与技能，越用越贴合个人工作流
+- 把多步迁移/重构任务交给 Agent 无人值守跑完并按测试结果中断
+- 定时在 Slack/Discord 收到工作摘要等周期性任务
+- 让 Agent 从历史纠错中学习，在后续会话中保持团队偏好与项目上下文
+- 并行派发子 Agent 研究多个方案并汇总权衡
 
 ## 场景标签
 
-`编码 Agent` `Agent 记忆` · 领域:Agent 开发
+`工作流自动化` `编码 Agent` `Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9:  Kiro Crew is an open source development workspace that runs locally or remotely on
-> L127: Most agent sessions end when the chat closes. Kiro Crew runs continuously on
-> L176:     G["Gateway<br/>access · sessions · memory · schedules · approvals · apps"]
+> L39: always-on servers, or a build from source. The default agent runs on
+> L175:     S["Desktop app · Web dashboard · CLI · Messaging channels"]
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `6c7e9fc21223` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `6ae023744c08` · [字段定义](../../DATASET.md)*

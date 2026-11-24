@@ -1,6 +1,6 @@
 # aerele/jarvis
 
-⭐ 111 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/aerele/jarvis) · [官网](jarvis.aerele.in) · 组织维护
+⭐ 111 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/aerele/jarvis) · [官网](jarvis.aerele.in) · 组织维护
 
 **嵌入 ERPNext 的 AI 队友：用自然语言问询与审核业务**
 

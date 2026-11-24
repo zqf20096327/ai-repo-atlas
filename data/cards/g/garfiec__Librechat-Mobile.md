@@ -1,6 +1,6 @@
 # garfiec/Librechat-Mobile
 
-⭐ 165 · Kotlin · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/garfiec/Librechat-Mobile) · 个人维护
+⭐ 166 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/garfiec/Librechat-Mobile) · 个人维护
 
 **LibreChat 的第三方原生移动客户端（Android/iOS）**
 

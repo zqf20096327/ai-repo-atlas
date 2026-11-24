@@ -1,6 +1,6 @@
 # clawsouls/soulspec
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/clawsouls/soulspec) · [官网](https://soulspec.org) · 组织维护
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-09-02 · [GitHub](https://github.com/clawsouls/soulspec) · [官网](https://soulspec.org) · 组织维护
 
 **AI agent 人格的开放标准：SOUL.md 单文件持久身份**
 

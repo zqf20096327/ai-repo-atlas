@@ -1,6 +1,6 @@
 # zephel01/Abyss
 
-⭐ 43 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zephel01/Abyss) · [官网](https://huggingface.co/zephel01) · 个人维护
+⭐ 44 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zephel01/Abyss) · [官网](https://huggingface.co/zephel01) · 个人维护
 
 **单张消费级 GPU 上运行超大 MoE 模型的推理引擎**
 

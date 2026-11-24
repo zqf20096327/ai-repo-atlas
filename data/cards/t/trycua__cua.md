@@ -1,6 +1,6 @@
 # trycua/cua
 
-⭐ 32,782 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/trycua/cua) · [官网](https://cua.ai) · 组织维护
+⭐ 32,833 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/trycua/cua) · [官网](https://cua.ai) · 组织维护
 
 **为 computer-use agent 提供桌面自动化驱动、沙箱与评测基准**
 

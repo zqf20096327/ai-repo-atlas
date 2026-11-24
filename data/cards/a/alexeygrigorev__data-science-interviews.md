@@ -1,6 +1,6 @@
 # alexeygrigorev/data-science-interviews
 
-⭐ 10,247 · HTML · CC-BY-4.0 · 推送 2026-11-13 · [GitHub](https://github.com/alexeygrigorev/data-science-interviews) · [官网](https://alexeygrigorev.com/data-science-interviews/) · 个人维护
+⭐ 10,250 · HTML · CC-BY-4.0 · 推送 2026-11-13 · [GitHub](https://github.com/alexeygrigorev/data-science-interviews) · [官网](https://alexeygrigorev.com/data-science-interviews/) · 个人维护
 
 **数据科学面试问答社区合集：分类问题与社区答案**
 

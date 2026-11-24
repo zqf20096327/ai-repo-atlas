@@ -1,6 +1,6 @@
 # weir36/deep-research-langgraph
 
-⭐ 67 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/weir36/deep-research-langgraph) · 个人维护 · 中文 README
+⭐ 68 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/weir36/deep-research-langgraph) · 个人维护 · 中文 README
 
 **LangGraph 多 Agent 深度研究助手：可中断恢复、并行执行、引用治理**
 

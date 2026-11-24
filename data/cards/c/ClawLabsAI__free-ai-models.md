@@ -1,6 +1,6 @@
 # ClawLabsAI/free-ai-models
 
-⭐ 285 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ClawLabsAI/free-ai-models) · [官网](https://www.zerolimitai.com/developers?utm_source=github&utm_medium=repo_about) · 组织维护
+⭐ 288 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ClawLabsAI/free-ai-models) · [官网](https://www.zerolimitai.com/developers?utm_source=github&utm_medium=repo_about) · 组织维护
 
 **每日更新的免费 LLM API 模型清单，附开放质量评分与数据政策**
 

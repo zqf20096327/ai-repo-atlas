@@ -1,6 +1,6 @@
 # samhoon000/Oribi
 
-⭐ 21 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/samhoon000/Oribi) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/samhoon000/Oribi) · 个人维护
 
 **为 LLM 等下游工具生成 DataFrame 结构化画像的 Python 库**
 

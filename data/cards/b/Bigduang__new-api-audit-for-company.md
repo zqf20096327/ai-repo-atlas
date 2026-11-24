@@ -1,6 +1,6 @@
 # Bigduang/new-api-audit-for-company
 
-⭐ 14 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Bigduang/new-api-audit-for-company) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Bigduang/new-api-audit-for-company) · 个人维护 · 中文 README
 
 **New-API 的 token 用量与工作用途事后审计服务，供企业内部中转站使用**
 

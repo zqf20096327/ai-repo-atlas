@@ -1,6 +1,6 @@
 # apm-studio/apm-studio
 
-⭐ 438 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/apm-studio/apm-studio) · [官网](https://discord.gg/amEHpsqwZP) · 组织维护
+⭐ 439 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/apm-studio/apm-studio) · [官网](https://discord.gg/amEHpsqwZP) · 组织维护
 
 **本地 GUI：导入、管理与同步 APM agent 包到各编码助手**
 

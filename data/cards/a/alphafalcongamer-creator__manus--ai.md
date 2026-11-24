@@ -1,6 +1,6 @@
 # alphafalcongamer-creator/manus--ai
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/alphafalcongamer-creator/manus--ai) · 个人维护
+⭐ 193 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/alphafalcongamer-creator/manus--ai) · 个人维护
 
 **自主 AI 代理：代替用户执行代码与控制浏览器完成任务**
 

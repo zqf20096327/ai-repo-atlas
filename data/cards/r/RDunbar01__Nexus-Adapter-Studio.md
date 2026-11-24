@@ -1,6 +1,6 @@
 # RDunbar01/Nexus-Adapter-Studio
 
-⭐ 3 · HTML · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/RDunbar01/Nexus-Adapter-Studio) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向本地模型用户：浏览器内训练/评估 GGUF 适配器**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

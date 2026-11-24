@@ -1,6 +1,6 @@
 # AMQStudio/MonoAgens
 
-⭐ 3 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/AMQStudio/MonoAgens) · 组织维护
+⭐ 3 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/AMQStudio/MonoAgens) · 组织维护
 
 **面向开发者的持久化身份记忆 agent 运行时框架**
 

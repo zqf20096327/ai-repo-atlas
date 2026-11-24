@@ -1,6 +1,6 @@
 # crit-labs/crit-hub
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/crit-labs/crit-hub) · [官网](https://crit-hub.dev) · 组织维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/crit-labs/crit-hub) · [官网](https://crit-hub.dev) · 组织维护
 
 **按 GPU 与模型组织的定制推理引擎注册表，供查找现成引擎**
 

@@ -1,6 +1,6 @@
 # chengyuuci/Course-OCR-manage-tools
 
-⭐ 3 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/chengyuuci/Course-OCR-manage-tools) · 个人维护 · 中文 README
+⭐ 3 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chengyuuci/Course-OCR-manage-tools) · 个人维护 · 中文 README
 
 **帮学生从 PDF/Excel 课表识别课程并导出日历 ICS 的桌面工具**
 

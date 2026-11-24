@@ -1,6 +1,6 @@
 # demml/opsml
 
-⭐ 42 · Rust · NOASSERTION · 推送 2026-05-16 · [GitHub](https://github.com/demml/opsml) · [官网](https://docs.demml.io/opsml) · 组织维护
+⭐ 43 · Rust · NOASSERTION · 推送 2026-05-16 · [GitHub](https://github.com/demml/opsml) · [官网](https://docs.demml.io/opsml) · 组织维护
 
 **面向传统 ML 与 agentic 系统的 AI 生命周期治理平台**
 

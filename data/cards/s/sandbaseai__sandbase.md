@@ -1,6 +1,6 @@
 # sandbaseai/sandbase
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sandbaseai/sandbase) · [官网](https://www.sandbase.ai) · 组织维护 · 中文 README
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/sandbaseai/sandbase) · [官网](https://www.sandbase.ai) · 组织维护 · 中文 README
 
 **一个 API key 接入 2,000+ 模型与数据 API 的 agent 构建平台**
 

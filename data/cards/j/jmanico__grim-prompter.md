@@ -1,6 +1,6 @@
 # jmanico/grim-prompter
 
-⭐ 658 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/jmanico/grim-prompter) · 个人维护
+⭐ 667 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/jmanico/grim-prompter) · 个人维护
 
 **为 AI 编码 agent 提供威胁建模提示词库**
 

@@ -1,6 +1,6 @@
 # networking-incubator/coraza-kubernetes-operator
 
-⭐ 23 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/networking-incubator/coraza-kubernetes-operator) · 组织维护
+⭐ 23 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/networking-incubator/coraza-kubernetes-operator) · 组织维护
 
 **Kubernetes 网关的 WAF 管理算子：声明式部署 Coraza 防火墙**
 

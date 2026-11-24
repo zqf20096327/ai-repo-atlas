@@ -1,6 +1,6 @@
 # adeerkhan/vitruvius
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/adeerkhan/vitruvius) · [官网](https://adeerkhan.github.io/vitruvius/) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adeerkhan/vitruvius) · [官网](https://adeerkhan.github.io/vitruvius/) · 个人维护
 
 **面向工程师的工程研究 agent：检索-验证-溯源一条龙**
 

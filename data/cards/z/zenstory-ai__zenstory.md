@@ -1,6 +1,6 @@
 # zenstory-ai/zenstory
 
-⭐ 105 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/zenstory-ai/zenstory) · [官网](https://zenstory.ai/zh/workbench) · 组织维护 · 中文 README
+⭐ 105 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/zenstory-ai/zenstory) · [官网](https://zenstory.ai/zh/workbench) · 组织维护 · 中文 README
 
 **AI Agent 驱动的浏览器小说写作工作台**
 

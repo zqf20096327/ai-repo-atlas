@@ -1,6 +1,6 @@
 # 1113800942/comfy-h3md-director
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/1113800942/comfy-h3md-director) · [官网](https://registry.comfy.org/nodes/comfyui-h3md-director) · 个人维护 · 中文 README
+⭐ 35 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/1113800942/comfy-h3md-director) · [官网](https://registry.comfy.org/nodes/comfyui-h3md-director) · 个人维护 · 中文 README
 
 **ComfyUI 节点集：用 MiniMax H3 一次生成 2 分钟以上多镜头长视频**
 

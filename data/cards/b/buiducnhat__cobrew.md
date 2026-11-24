@@ -1,6 +1,6 @@
 # buiducnhat/cobrew
 
-⭐ 48 · HTML · 推送 2026-07-06 · [GitHub](https://github.com/buiducnhat/cobrew) · [官网](https://github.com/buiducnhat/cobrew) · 个人维护 · 中文 README
+⭐ 49 · HTML · 推送 2026-07-06 · [GitHub](https://github.com/buiducnhat/cobrew) · [官网](https://github.com/buiducnhat/cobrew) · 个人维护 · 中文 README
 
 **面向编码 agent 的标准化工作流技能包，含 10 个技能**
 

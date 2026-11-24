@@ -1,6 +1,6 @@
 # kindlingai/gr8
 
-⭐ 87 · Cuda · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kindlingai/gr8) · 组织维护
+⭐ 87 · Cuda · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kindlingai/gr8) · 组织维护
 
 **面向 DGX Spark 的 CUDA 推理引擎，服务 GLM/DeepSeek 模型**
 

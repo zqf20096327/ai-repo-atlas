@@ -1,6 +1,6 @@
 # 1bit-MONSTER/engine
 
-⭐ 10 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/1bit-MONSTER/engine) · [官网](https://1bit.gg/) · 个人维护
+⭐ 10 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/1bit-MONSTER/engine) · [官网](https://1bit.gg/) · 个人维护
 
 **AMD Strix Halo 上的本地 LLM 推理引擎：单二进制跑 GPU 与 NPU**
 

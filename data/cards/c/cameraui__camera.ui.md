@@ -1,6 +1,6 @@
 # cameraui/camera.ui
 
-⭐ 1,153 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/cameraui/camera.ui) · [官网](https://cameraui.com) · 个人维护
+⭐ 1,153 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cameraui/camera.ui) · [官网](https://cameraui.com) · 个人维护
 
 **本地优先的摄像头与 NVR 平台：自有硬件统一管理所有 IP 摄像头**
 

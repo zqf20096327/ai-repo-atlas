@@ -1,6 +1,6 @@
 # youssef-jad/GYO-AGENTS
 
-⭐ 47 · TypeScript · 推送 2026-11-09 · [GitHub](https://github.com/youssef-jad/GYO-AGENTS) · [官网](https://github.com/youssef-jad/GYO-AGENTS#readme) · 个人维护
+⭐ 49 · TypeScript · 推送 2026-11-09 · [GitHub](https://github.com/youssef-jad/GYO-AGENTS) · [官网](https://github.com/youssef-jad/GYO-AGENTS#readme) · 个人维护
 
 **MCP 服务器+提示词：为 AI 编码代理生成 AGENTS.md 与共享持久记忆**
 

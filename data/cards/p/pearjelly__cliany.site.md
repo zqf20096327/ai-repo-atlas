@@ -1,6 +1,6 @@
 # pearjelly/cliany.site
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pearjelly/cliany.site) · [官网](https://www.cliany.site) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pearjelly/cliany.site) · [官网](https://www.cliany.site) · 个人维护 · 中文 README
 
 **把重复浏览器操作录制成可复用 CLI 命令的自动化框架**
 

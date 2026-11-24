@@ -1,6 +1,6 @@
 # gobifrost/bifrost
 
-⭐ 74 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gobifrost/bifrost) · [官网](https://gobifrost.com) · 个人维护
+⭐ 74 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/gobifrost/bifrost) · [官网](https://gobifrost.com) · 个人维护
 
 **面向 MSP 集成服务的开源自托管自动化平台**
 

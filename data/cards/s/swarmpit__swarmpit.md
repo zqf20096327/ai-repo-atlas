@@ -1,6 +1,6 @@
 # swarmpit/swarmpit
 
-⭐ 3,510 · Clojure · EPL-1.0 · 推送 2026-10-13 · [GitHub](https://github.com/swarmpit/swarmpit) · [官网](https://swarmpit.io) · 组织维护
+⭐ 3,511 · Clojure · EPL-1.0 · 推送 2026-10-13 · [GitHub](https://github.com/swarmpit/swarmpit) · [官网](https://swarmpit.io) · 组织维护
 
 **自托管的 Docker Swarm 管理控制台，附带 MCP 服务器供 LLM 客户端调用**
 

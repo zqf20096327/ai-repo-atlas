@@ -1,6 +1,6 @@
 # thesysdev/opendashboards
 
-⭐ 447 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/thesysdev/opendashboards) · [官网](https://opendashboards.com) · 组织维护
+⭐ 472 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/thesysdev/opendashboards) · [官网](https://opendashboards.com) · 组织维护
 
 **用自然语言提问生成实时数据看板的开源工具**
 

@@ -1,6 +1,6 @@
 # docling-project/docling-java
 
-⭐ 144 · Java · MIT · 推送 2026-11-18 · [GitHub](https://github.com/docling-project/docling-java) · [官网](https://docling-project.github.io/docling-java/) · 组织维护
+⭐ 144 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/docling-project/docling-java) · [官网](https://docling-project.github.io/docling-java/) · 组织维护
 
 **Docling 文档转换能力的 Java API 与客户端库**
 

@@ -1,6 +1,6 @@
 # Banan1cee/whale_girl
 
-⭐ 913 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Banan1cee/whale_girl) · [官网](https://github.com/Banan1cee/whale_gril) · 个人维护 · 中文 README
+⭐ 953 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Banan1cee/whale_girl) · [官网](https://github.com/Banan1cee/whale_gril) · 个人维护 · 中文 README
 
 **让 DeepSeek 等模型用你的微信账号群聊陪聊的 Windows 桌面应用**
 

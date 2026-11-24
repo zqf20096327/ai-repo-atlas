@@ -1,6 +1,6 @@
 # atharv01h/Stickman-Studio
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/atharv01h/Stickman-Studio) · [官网](https://stickmanstudio.netlify.app/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/atharv01h/Stickman-Studio) · [官网](https://stickmanstudio.netlify.app/) · 个人维护
 
 **面向内容创作者的本地离线 AI 火柴人短视频生成器**
 

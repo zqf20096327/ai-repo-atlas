@@ -1,6 +1,6 @@
 # hehehai/VoxtMini
 
-⭐ 920 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hehehai/VoxtMini) · [官网](https://actnow.dev/voxtmini) · 组织维护 · 中文 README
+⭐ 923 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hehehai/VoxtMini) · [官网](https://actnow.dev/voxtmini) · 组织维护 · 中文 README
 
 **macOS 本地模型语音输入工具：任意应用内转写、翻译与改写**
 

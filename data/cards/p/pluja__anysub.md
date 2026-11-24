@@ -1,6 +1,6 @@
 # pluja/anysub
 
-⭐ 3,106 · TypeScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/pluja/anysub) · 个人维护
+⭐ 3,107 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pluja/anysub) · 个人维护
 
 **自托管的音视频转字幕 Web 应用，本地运行 Whisper 转录**
 

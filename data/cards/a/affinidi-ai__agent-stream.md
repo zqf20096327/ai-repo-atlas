@@ -1,6 +1,6 @@
 # affinidi-ai/agent-stream
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/affinidi-ai/agent-stream) · 组织维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/affinidi-ai/agent-stream) · 组织维护
 
 **面向 Agent 多厂商 LLM 流量的 Rust 治理网关**
 

@@ -1,6 +1,6 @@
 # myths-labs/muse
 
-⭐ 40 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/myths-labs/muse) · [官网](https://github.com/myths-labs/muse) · 组织维护 · 中文 README
+⭐ 39 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/myths-labs/muse) · [官网](https://github.com/myths-labs/muse) · 组织维护 · 中文 README
 
 **面向 AI 结对编程的 Markdown 治理系统：角色、记忆与技能管理**
 

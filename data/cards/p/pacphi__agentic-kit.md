@@ -1,6 +1,6 @@
 # pacphi/agentic-kit
 
-⭐ 60 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/pacphi/agentic-kit) · 个人维护
+⭐ 60 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pacphi/agentic-kit) · 个人维护
 
 **一条命令安装、修复并验证 ruflo/agentic-qe 的多主机 agent 工具箱**
 

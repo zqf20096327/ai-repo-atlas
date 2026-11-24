@@ -1,6 +1,6 @@
 # bad-antics/nullsec
 
-⭐ 78 · Shell · 推送 2026-04-16 · [GitHub](https://github.com/bad-antics/nullsec) · [官网](https://nullsec.us) · 组织维护
+⭐ 77 · Shell · 推送 2026-04-16 · [GitHub](https://github.com/bad-antics/nullsec) · [官网](https://nullsec.us) · 组织维护
 
 **含 AI 助手的渗透测试/红队框架（ParrotSec 定制发行版）**
 

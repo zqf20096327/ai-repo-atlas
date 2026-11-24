@@ -1,6 +1,6 @@
 # DEEPX-AI/dx-runtime
 
-⭐ 25 · Shell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/DEEPX-AI/dx-runtime) · [官网](https://developer.deepx.ai/tech-docs/) · 组织维护
+⭐ 25 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/DEEPX-AI/dx-runtime) · [官网](https://developer.deepx.ai/tech-docs/) · 组织维护
 
 **DEEPX NPU 运行时与 Linux 驱动：在 DX-M1 加速器上运行 .dxnn 模型**
 

@@ -1,6 +1,6 @@
 # googleworkspace/cli
 
-⭐ 32,449 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/googleworkspace/cli) · [官网](https://developers.google.com/workspace) · 组织维护
+⭐ 32,456 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/googleworkspace/cli) · [官网](https://developers.google.com/workspace) · 组织维护
 
 **面向人类与 AI agent 的 Google Workspace 统一命令行工具**
 

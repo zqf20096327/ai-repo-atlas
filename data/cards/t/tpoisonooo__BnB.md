@@ -1,6 +1,6 @@
 # tpoisonooo/BnB
 
-⭐ 27 · JavaScript · 推送 2026-10-16 · [GitHub](https://github.com/tpoisonooo/BnB) · [官网](https://h3aajdlti6teq.kimi.site/) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · 推送 2026-10-16 · [GitHub](https://github.com/tpoisonooo/BnB) · [官网](https://h3aajdlti6teq.kimi.site/) · 个人维护 · 中文 README
 
 **复刻盛大泡泡堂的多人网页对战游戏，Bot 补位**
 

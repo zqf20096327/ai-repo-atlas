@@ -1,6 +1,6 @@
 # openai/openai-ruby
 
-⭐ 478 · Ruby · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/openai/openai-ruby) · 组织维护
+⭐ 478 · Ruby · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-ruby) · 组织维护
 
 **OpenAI API 官方 Ruby SDK，供 Ruby 应用接入**
 

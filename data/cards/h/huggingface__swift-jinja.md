@@ -1,6 +1,6 @@
 # huggingface/swift-jinja
 
-⭐ 138 · Swift · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/swift-jinja) · 组织维护
+⭐ 138 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/swift-jinja) · 组织维护
 
 **Swift 实现的 Jinja 模板引擎，用于渲染 LLM 聊天模板**
 

@@ -1,6 +1,6 @@
 # wanghao-SunSky/cs329z-chinese
 
-⭐ 663 · HTML · 推送 2026-11-06 · [GitHub](https://github.com/wanghao-SunSky/cs329z-chinese) · [官网](https://cs329z-course-review-20261029.wanghao162263.chatgpt.site) · 个人维护 · 中文 README
+⭐ 664 · HTML · 推送 2026-11-06 · [GitHub](https://github.com/wanghao-SunSky/cs329z-chinese) · [官网](https://cs329z-course-review-20261029.wanghao162263.chatgpt.site) · 个人维护 · 中文 README
 
 **面向 Python 开发者的斯坦福 CS329Z Agent 课程中文自学教程**
 

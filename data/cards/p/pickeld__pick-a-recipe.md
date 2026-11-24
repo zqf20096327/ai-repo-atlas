@@ -1,6 +1,6 @@
 # pickeld/pick-a-recipe
 
-⭐ 57 · Python · 推送 2026-11-19 · [GitHub](https://github.com/pickeld/pick-a-recipe) · 个人维护
+⭐ 57 · Python · 推送 2026-11-23 · [GitHub](https://github.com/pickeld/pick-a-recipe) · 个人维护
 
 **从 TikTok/YouTube/Instagram 视频提取食谱并导入自托管菜谱管理器**
 

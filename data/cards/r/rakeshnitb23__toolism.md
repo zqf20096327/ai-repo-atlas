@@ -1,6 +1,6 @@
 # rakeshnitb23/toolism
 
-⭐ 60 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rakeshnitb23/toolism) · [官网](https://pypi.org/project/toolism/) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rakeshnitb23/toolism) · [官网](https://pypi.org/project/toolism/) · 个人维护
 
 **测量并安全削减 LLM 工具/MCP schema 的 token 成本**
 

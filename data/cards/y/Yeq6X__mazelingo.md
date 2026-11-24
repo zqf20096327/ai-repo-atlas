@@ -1,6 +1,6 @@
 # Yeq6X/mazelingo
 
-⭐ 28 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Yeq6X/mazelingo) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Yeq6X/mazelingo) · 个人维护
 
 **给语言学习者：网页句子级双语混合显示的 Chrome 扩展**
 

@@ -1,6 +1,6 @@
 # prometeucorp/prometeu
 
-⭐ 67 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/prometeucorp/prometeu) · [官网](https://prometeu.co) · 组织维护
+⭐ 67 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/prometeucorp/prometeu) · [官网](https://prometeu.co) · 组织维护
 
 **并行运行多个编码 agent 的桌面应用，配 git worktree 隔离与 diff 审查**
 

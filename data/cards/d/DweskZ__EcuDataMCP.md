@@ -1,6 +1,6 @@
 # DweskZ/EcuDataMCP
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DweskZ/EcuDataMCP) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DweskZ/EcuDataMCP) · 个人维护
 
 **让 AI 助手检索分析厄瓜多尔政府开放数据的 MCP 服务器**
 

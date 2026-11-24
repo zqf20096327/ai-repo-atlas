@@ -1,6 +1,6 @@
 # epam/ai-dial-admin-frontend
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/epam/ai-dial-admin-frontend) · [官网](https://dialx.ai) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epam/ai-dial-admin-frontend) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL 平台的管理面板 Web 前端**
 

@@ -1,6 +1,6 @@
 # nMaroulis/sibyl
 
-⭐ 79 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nMaroulis/sibyl) · [官网](https://nmaroulis.github.io/sibyl/) · 个人维护
+⭐ 79 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nMaroulis/sibyl) · [官网](https://nmaroulis.github.io/sibyl/) · 个人维护
 
 **本地部署的加密货币交易看板：AI 助手+策略回测+价格预测**
 

@@ -1,6 +1,6 @@
 # wappy-x/Vade
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wappy-x/Vade) · [官网](https://vade.lol) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/wappy-x/Vade) · [官网](https://vade.lol) · 组织维护
 
 **为 NVIDIA DGX Spark 提供确定性本地 LLM 推理的 Rust 引擎**
 

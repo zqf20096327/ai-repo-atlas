@@ -1,6 +1,6 @@
 # aleksa-codes/astro-portfolio
 
-⭐ 29 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aleksa-codes/astro-portfolio) · [官网](https://aleksa.codes) · 个人维护
+⭐ 29 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aleksa-codes/astro-portfolio) · [官网](https://aleksa.codes) · 个人维护
 
 **带 AI 聊天助手与博客的个人作品集网站模板**
 

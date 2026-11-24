@@ -1,6 +1,6 @@
 # EricTechPro/super-board
 
-⭐ 728 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/EricTechPro/super-board) · [官网](https://erictechpro.github.io/super-board/) · 个人维护
+⭐ 735 · HTML · MIT · 推送 2026-10-29 · [GitHub](https://github.com/EricTechPro/super-board) · [官网](https://erictechpro.github.io/super-board/) · 个人维护
 
 **给 Claude Code 加看板：任务卡片自动走构建→QA→评审循环**
 

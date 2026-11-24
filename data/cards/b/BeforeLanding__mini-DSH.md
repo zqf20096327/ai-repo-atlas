@@ -1,6 +1,6 @@
 # BeforeLanding/mini-DSH
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/BeforeLanding/mini-DSH) · 组织维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BeforeLanding/mini-DSH) · [官网](https://github.com/BeforeLanding/mini-DSH/releases) · 组织维护 · 中文 README
 
 **本地代码仓库的 CLI 编程 Agent，支持恢复与预算控制**
 

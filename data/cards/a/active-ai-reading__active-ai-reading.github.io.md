@@ -1,6 +1,6 @@
 # active-ai-reading/active-ai-reading.github.io
 
-⭐ 3 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/active-ai-reading/active-ai-reading.github.io) · [官网](https://active-ai-reading.github.io) · 组织维护
+⭐ 3 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/active-ai-reading/active-ai-reading.github.io) · [官网](https://active-ai-reading.github.io) · 组织维护
 
 **师生共读 AI 论文并改写/复现的 Jekyll 课程博客**
 

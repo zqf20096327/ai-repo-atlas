@@ -1,6 +1,6 @@
 # brianh014/inkandthread
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/brianh014/inkandthread) · 个人维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/brianh014/inkandthread) · 个人维护
 
 **单玩家 AI 视觉小说游戏：边玩边生成剧情与插画**
 

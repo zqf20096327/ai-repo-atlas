@@ -1,6 +1,6 @@
 # djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection
 
-⭐ 19 · 推送 2026-11-12 · [GitHub](https://github.com/djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection) · 个人维护
+⭐ 19 · Python · 推送 2026-11-23 · [GitHub](https://github.com/djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection) · 个人维护
 
 **工业机器视觉与异常检测的深度学习论文清单**
 

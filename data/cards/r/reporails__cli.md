@@ -1,6 +1,6 @@
 # reporails/cli
 
-⭐ 128 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/reporails/cli) · [官网](https://reporails.com/) · 组织维护
+⭐ 129 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/reporails/cli) · [官网](https://reporails.com/) · 组织维护
 
 **给开发者的 AI 编码代理指令质量诊断 CLI**
 

@@ -1,6 +1,6 @@
 # SAP-samples/sap-rpt-1-oss
 
-⭐ 196 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/SAP-samples/sap-rpt-1-oss) · 组织维护
+⭐ 197 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/SAP-samples/sap-rpt-1-oss) · 组织维护
 
 **表格上下文学习模型 sap-rpt-1-oss 的推理实现**
 

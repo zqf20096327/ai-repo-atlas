@@ -1,6 +1,6 @@
 # umouyoumou-del/DeepInfer-SM86
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/umouyoumou-del/DeepInfer-SM86) · 个人维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/umouyoumou-del/DeepInfer-SM86) · 个人维护 · 中文 README
 
 **在 SM86 GPU 上以 CUDA kernel 本地运行 Qwen2.5/DeepSeek 的推理后端与 API 网关**
 

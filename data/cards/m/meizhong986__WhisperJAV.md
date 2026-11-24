@@ -1,6 +1,6 @@
 # meizhong986/WhisperJAV
 
-⭐ 2,499 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/meizhong986/WhisperJAV) · [官网](https://github.com/meizhong986/WhisperJAV/releases/latest) · 个人维护 · 中文 README
+⭐ 2,502 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/meizhong986/WhisperJAV) · [官网](https://github.com/meizhong986/WhisperJAV/releases/latest) · 个人维护 · 中文 README
 
 **本地运行的日语成人视频字幕生成工具，抗噪声与幻觉**
 

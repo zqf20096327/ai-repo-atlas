@@ -1,6 +1,6 @@
 # VyomKulshrestha/Heliox-OS
 
-⭐ 71 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/VyomKulshrestha/Heliox-OS) · [官网](https://www.helioxos.dev) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VyomKulshrestha/Heliox-OS) · [官网](https://www.helioxos.dev) · 个人维护
 
 **本地优先的桌面 AI 代理：用语音/文本/手势/眼动控制并自动化电脑操作**
 

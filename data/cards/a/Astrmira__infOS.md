@@ -1,6 +1,6 @@
 # Astrmira/infOS
 
-⭐ 168 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Astrmira/infOS) · [官网](https://wiki.perofamily.top/) · 组织维护 · 中文 README
+⭐ 168 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Astrmira/infOS) · [官网](https://wiki.perofamily.top/) · 组织维护 · 中文 README
 
 **带长记忆引擎与桌面客户端的 AI 伙伴运行时**
 

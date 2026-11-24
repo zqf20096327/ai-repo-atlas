@@ -1,6 +1,6 @@
 # wxmb01/Claude-Detection
 
-⭐ 20 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/wxmb01/Claude-Detection) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/wxmb01/Claude-Detection) · 个人维护 · 中文 README
 
 **检测 Claude API 中转是否掺水的取证工具与 Claude Code Skill**
 

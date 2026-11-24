@@ -1,6 +1,6 @@
 # shuolucs/Awesome-Out-Of-Distribution-Detection
 
-⭐ 174 · 推送 2026-01-02 · [GitHub](https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection) · [官网](https://arxiv.org/abs/2409.11884) · 组织维护
+⭐ 175 · 推送 2026-01-02 · [GitHub](https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection) · [官网](https://arxiv.org/abs/2409.11884) · 组织维护
 
 **OOD 检测论文策展清单：配套 ACM CSUR 2025 综述**
 

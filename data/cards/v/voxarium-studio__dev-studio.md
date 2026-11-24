@@ -1,6 +1,6 @@
 # voxarium-studio/dev-studio
 
-⭐ 4 · Python · 推送 2026-11-21 · [GitHub](https://github.com/voxarium-studio/dev-studio) · [官网](https://voxarium.studio/studio/) · 组织维护 · 中文 README
+⭐ 4 · Python · 推送 2026-11-23 · [GitHub](https://github.com/voxarium-studio/dev-studio) · [官网](https://voxarium.studio/studio/) · 组织维护 · 中文 README
 
 **面向游戏开发的 AI Agent 工作区管理工具**
 

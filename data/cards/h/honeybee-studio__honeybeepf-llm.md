@@ -1,6 +1,6 @@
 # honeybee-studio/honeybeepf-llm
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/honeybee-studio/honeybeepf-llm) · 组织维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/honeybee-studio/honeybeepf-llm) · 组织维护
 
 **K8s 集群的 eBPF LLM 观测代理：无侵入统计用量与成本**
 

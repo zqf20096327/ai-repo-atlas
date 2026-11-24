@@ -1,6 +1,6 @@
 # Jadouminou/final-phase-lite
 
-⭐ 44 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Jadouminou/final-phase-lite) · 个人维护
+⭐ 46 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Jadouminou/final-phase-lite) · 个人维护
 
 **给 Claude Code/OpenCode 视频编辑的实时预览与圈选修改窗口**
 

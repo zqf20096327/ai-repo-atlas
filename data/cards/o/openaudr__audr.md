@@ -1,6 +1,6 @@
 # openaudr/audr
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openaudr/audr) · [官网](https://openaudr.dev/) · 组织维护
+⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openaudr/audr) · [官网](https://openaudr.dev/) · 组织维护
 
 **记录与核算 Agent 运行成本的开放 JSON 标准（AUDR）**
 

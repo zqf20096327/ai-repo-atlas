@@ -1,6 +1,6 @@
 # Parad0x-Labs/vool
 
-⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Parad0x-Labs/vool) · [官网](https://vool.dev) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Parad0x-Labs/vool) · [官网](https://vool.dev) · 组织维护
 
 **本地优先的个人 agent 运行时：本地模型执行任务并留存记忆**
 

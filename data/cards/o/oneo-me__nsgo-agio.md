@@ -1,6 +1,6 @@
 # oneo-me/nsgo-agio
 
-⭐ 11 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/oneo-me/nsgo-agio) · [官网](https://oneo-me.github.io/nsgo-agio/) · 组织维护 · 中文 README
+⭐ 11 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oneo-me/nsgo-agio) · [官网](https://oneo-me.github.io/nsgo-agio/) · 组织维护 · 中文 README
 
 **NSGo 应用的 agent 核心：在手机与桌面运行并展示编码 agent**
 

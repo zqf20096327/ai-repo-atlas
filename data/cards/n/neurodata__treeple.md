@@ -1,6 +1,6 @@
 # neurodata/treeple
 
-⭐ 87 · Jupyter Notebook · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/neurodata/treeple) · [官网](https://treeple.ai) · 组织维护
+⭐ 87 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/neurodata/treeple) · [官网](https://treeple.ai) · 组织维护
 
 **scikit-learn 兼容的扩展决策树/森林 Python 库**
 

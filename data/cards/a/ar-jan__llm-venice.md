@@ -1,6 +1,6 @@
 # ar-jan/llm-venice
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ar-jan/llm-venice) · 个人维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ar-jan/llm-venice) · 个人维护
 
 **接入 Venice AI API 的 LLM 命令行插件：文本/图像/TTS 生成**
 

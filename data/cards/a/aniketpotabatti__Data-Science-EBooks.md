@@ -1,6 +1,6 @@
 # aniketpotabatti/Data-Science-EBooks
 
-⭐ 1,011 · 推送 2026-10-09 · [GitHub](https://github.com/aniketpotabatti/Data-Science-EBooks) · [官网](https://github.com/aniketpotabatti/Data-Science-EBooks) · 个人维护
+⭐ 1,012 · 推送 2026-10-09 · [GitHub](https://github.com/aniketpotabatti/Data-Science-EBooks) · [官网](https://github.com/aniketpotabatti/Data-Science-EBooks) · 个人维护
 
 **数据科学与机器学习电子书资源合集**
 

@@ -1,6 +1,6 @@
 # d9d-project/d9d
 
-⭐ 45 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/d9d-project/d9d) · [官网](https://d9d-project.github.io/d9d/) · 组织维护
+⭐ 45 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/d9d-project/d9d) · [官网](https://d9d-project.github.io/d9d/) · 组织维护
 
 **可组合的 PyTorch 分布式训练框架，单卡到多机集群**
 

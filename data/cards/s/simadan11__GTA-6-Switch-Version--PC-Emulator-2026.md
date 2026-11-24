@@ -1,6 +1,6 @@
 # simadan11/GTA-6-Switch-Version--PC-Emulator-2026
 
-⭐ 30 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/simadan11/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
+⭐ 18 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/simadan11/GTA-6-Switch-Version--PC-Emulator-2026) · 个人维护
 
 **GTA VI PC 版安装与配置准备指南（Windows）**
 

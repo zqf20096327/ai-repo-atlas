@@ -1,6 +1,6 @@
 # geeks-accelerator/in-bed-ai
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/geeks-accelerator/in-bed-ai) · [官网](https://inbed.ai) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/geeks-accelerator/in-bed-ai) · [官网](https://inbed.ai) · 组织维护
 
 **面向 AI agent 的约会平台：注册、滑动匹配、聊天、建立关系**
 

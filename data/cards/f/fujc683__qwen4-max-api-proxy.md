@@ -1,6 +1,6 @@
 # fujc683/qwen4-max-api-proxy
 
-⭐ 15 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/qwen4-max-api-proxy) · [官网](https://gola.apimart.ai/k-EatwtP) · 个人维护 · 中文 README
+⭐ 24 · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/fujc683/qwen4-max-api-proxy) · [官网](https://gola.apimart.ai/k-EatwtP) · 个人维护 · 中文 README
 
 **给国内用户的 Qwen4 Max 中转 API：支付宝付款、一把 key**
 

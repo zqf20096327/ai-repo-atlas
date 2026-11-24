@@ -1,6 +1,6 @@
 # Tencent/LoopForge
 
-⭐ 5,644 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Tencent/LoopForge) · [官网](https://loopforge.cn) · 组织维护 · 中文 README
+⭐ 5,874 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Tencent/LoopForge) · [官网](https://loopforge.cn) · 组织维护 · 中文 README
 
 **自托管工作台：团队用编码代理走可复用 SOP 交付代码**
 

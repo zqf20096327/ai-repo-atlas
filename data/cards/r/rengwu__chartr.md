@@ -1,6 +1,6 @@
 # rengwu/chartr
 
-⭐ 354 · Rust · GPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/rengwu/chartr) · [官网](https://chartr.dev) · 个人维护
+⭐ 355 · Rust · GPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/rengwu/chartr) · [官网](https://chartr.dev) · 个人维护
 
 **终端优先的 agentic 工作区：把项目、终端、CLI agent 与插件组织在一处**
 

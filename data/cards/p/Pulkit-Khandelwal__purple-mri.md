@@ -1,6 +1,6 @@
 # Pulkit-Khandelwal/purple-mri
 
-⭐ 26 · Python · 推送 2026-11-08 · [GitHub](https://github.com/Pulkit-Khandelwal/purple-mri) · [官网](https://purple-mri.readthedocs.io) · 组织维护
+⭐ 26 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Pulkit-Khandelwal/purple-mri) · [官网](https://purple-mri.readthedocs.io) · 组织维护
 
 **离体人脑 MRI 分割、皮层重建与解剖分区的科研工具链**
 

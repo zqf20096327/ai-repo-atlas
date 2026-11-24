@@ -1,6 +1,6 @@
 # WestFox-AwA/dsh-wish-specializer
 
-⭐ 150 · JavaScript · BSD-3-Clause · 推送 2026-11-07 · [GitHub](https://github.com/WestFox-AwA/dsh-wish-specializer) · 个人维护 · 中文 README
+⭐ 151 · JavaScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/WestFox-AwA/dsh-wish-specializer) · 个人维护 · 中文 README
 
 **DSH 插件：发送前为你的愿望补全方向性要求**
 

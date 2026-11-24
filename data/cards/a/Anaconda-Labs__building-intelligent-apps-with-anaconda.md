@@ -1,6 +1,6 @@
 # Anaconda-Labs/building-intelligent-apps-with-anaconda
 
-⭐ 227 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda) · [官网](https://www.anaconda.com/docs/getting-started) · 组织维护
+⭐ 227 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Anaconda-Labs/building-intelligent-apps-with-anaconda) · [官网](https://www.anaconda.com/docs/getting-started) · 组织维护
 
 **用 Anaconda 生态构建 AI 原生应用的 10 模块实践课程**
 

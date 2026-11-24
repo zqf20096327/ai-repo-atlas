@@ -1,6 +1,6 @@
 # ruvnet/midstream
 
-⭐ 151 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/ruvnet/midstream) · [官网](https://ruv.io) · 个人维护
+⭐ 151 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ruvnet/midstream) · [官网](https://ruv.io) · 个人维护
 
 **Rust 实时分析 LLM 流式输出的工作区：边流式边匹配/评分/干预**
 

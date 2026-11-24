@@ -1,6 +1,6 @@
 # sw-aka/Short-Video-Creator
 
-⭐ 193 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/sw-aka/Short-Video-Creator) · 个人维护
+⭐ 194 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/sw-aka/Short-Video-Creator) · 个人维护
 
 **本地生成带 AI 字幕与背景视频的短视频剪辑工具**
 

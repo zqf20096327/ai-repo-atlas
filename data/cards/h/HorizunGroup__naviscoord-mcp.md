@@ -1,6 +1,6 @@
 # HorizunGroup/naviscoord-mcp
 
-⭐ 21 · C# · MIT · 推送 2026-11-07 · [GitHub](https://github.com/HorizunGroup/naviscoord-mcp) · [官网](https://horizunhub.com/ia/) · 组织维护
+⭐ 22 · C# · MIT · 推送 2026-11-07 · [GitHub](https://github.com/HorizunGroup/naviscoord-mcp) · [官网](https://horizunhub.com/ia/) · 组织维护
 
 **连接 Navisworks 与 AI 客户端的 MCP 服务器：BIM 碰撞分析与协调计划**
 

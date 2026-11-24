@@ -1,6 +1,6 @@
 # ultralytics/llm
 
-⭐ 124 · JavaScript · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/ultralytics/llm) · [官网](https://chatjs-ultralytics.vercel.app/examples/web/demo) · 组织维护
+⭐ 125 · JavaScript · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/ultralytics/llm) · [官网](https://chatjs-ultralytics.vercel.app/examples/web/demo) · 组织维护
 
 **面向 Web 应用的零依赖 JavaScript AI 聊天挂件**
 

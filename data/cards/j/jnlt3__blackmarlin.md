@@ -1,6 +1,6 @@
 # jnlt3/blackmarlin
 
-⭐ 105 · Rust · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/jnlt3/blackmarlin) · 个人维护
+⭐ 105 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/jnlt3/blackmarlin) · 个人维护
 
 **Rust 编写的 UCI 国际象棋引擎，NNUE 评估与 alpha-beta 搜索**
 

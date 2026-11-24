@@ -1,6 +1,6 @@
 # Tairitsua/Monica
 
-⭐ 18 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Tairitsua/Monica) · [官网](https://monica.dpdns.org/) · 个人维护 · 中文 README
+⭐ 18 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Tairitsua/Monica) · [官网](https://monica.dpdns.org/) · 个人维护 · 中文 README
 
 **面向 agent 驱动开发的模块化 .NET 后端基础设施框架**
 

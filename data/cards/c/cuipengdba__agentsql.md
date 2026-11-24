@@ -1,6 +1,6 @@
 # cuipengdba/agentsql
 
-⭐ 22 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/cuipengdba/agentsql) · [官网](https://agentsql.cn) · 个人维护 · 中文 README
+⭐ 23 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/cuipengdba/agentsql) · [官网](https://agentsql.cn) · 个人维护 · 中文 README
 
 **面向 AI Agent 的数据库安全网关与生产级 MCP Server**
 

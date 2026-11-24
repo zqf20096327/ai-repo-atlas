@@ -1,6 +1,6 @@
 # anasfik/openai
 
-⭐ 664 · Dart · MIT · 推送 2026-10-25 · [GitHub](https://github.com/anasfik/openai) · [官网](https://pub.dev/packages/dart_openai) · 个人维护
+⭐ 664 · Dart · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anasfik/openai) · [官网](https://pub.dev/packages/dart_openai) · 个人维护
 
 **Dart/Flutter 的非官方 OpenAI SDK，覆盖全 API 并兼容多家提供商**
 

@@ -1,6 +1,6 @@
 # sandraschi/qcad-mcp
 
-⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sandraschi/qcad-mcp) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sandraschi/qcad-mcp) · 个人维护
 
 **让 AI 助手操作 QCAD Pro 的 MCP 服务器与 Web 应用**
 

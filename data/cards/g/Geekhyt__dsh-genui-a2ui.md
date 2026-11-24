@@ -1,6 +1,6 @@
 # Geekhyt/dsh-genui-a2ui
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Geekhyt/dsh-genui-a2ui) · [官网](https://www.npmjs.com/package/dsh-genui-a2ui) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Geekhyt/dsh-genui-a2ui) · [官网](https://www.npmjs.com/package/dsh-genui-a2ui) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 提供 AI 生成交互式界面回复的插件**
 

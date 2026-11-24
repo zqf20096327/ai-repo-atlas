@@ -1,6 +1,6 @@
 # amosproj/amos2026ws01-legacy-migrator
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/amosproj/amos2026ws01-legacy-migrator) · 组织维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/amosproj/amos2026ws01-legacy-migrator) · 组织维护
 
 **面向软件团队的遗留系统迁移知识库原型，自然语言查询**
 

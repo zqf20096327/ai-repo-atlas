@@ -1,6 +1,6 @@
 # williambdean/latent-calendar
 
-⭐ 21 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/williambdean/latent-calendar) · [官网](https://williambdean.github.io/latent-calendar/) · 个人维护
+⭐ 21 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/williambdean/latent-calendar) · [官网](https://williambdean.github.io/latent-calendar/) · 个人维护
 
 **Python 库：分析与建模周历分布数据（潜在成分混合模型）**
 

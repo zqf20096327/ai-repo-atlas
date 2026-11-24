@@ -1,6 +1,6 @@
 # echoVic/orca-agent
 
-⭐ 520 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/echoVic/orca-agent) · [官网](https://orcaagent.dev/) · 个人维护 · 中文 README
+⭐ 520 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/echoVic/orca-agent) · [官网](https://orcaagent.dev/) · 个人维护 · 中文 README
 
 **DeepSeek 原生的终端编码 agent，读码改文件跑命令直至任务完成**
 

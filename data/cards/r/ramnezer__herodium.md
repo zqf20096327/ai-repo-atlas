@@ -1,6 +1,6 @@
 # ramnezer/herodium
 
-⭐ 36 · Python · MIT · 推送 2026-08-26 · [GitHub](https://github.com/ramnezer/herodium) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ramnezer/herodium) · 个人维护
 
 **开发者向 Linux 防御工具种子框架：整合多层防护组件**
 

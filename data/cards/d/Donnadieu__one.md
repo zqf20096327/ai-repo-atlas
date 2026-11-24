@@ -1,6 +1,6 @@
 # Donnadieu/one
 
-⭐ 4 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Donnadieu/one) · [官网](https://donnadieu.github.io/one) · 个人维护
+⭐ 4 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Donnadieu/one) · [官网](https://donnadieu.github.io/one) · 个人维护
 
 **给非技术用户的 Mac 本地个人 AI 助手，一键安装语音引导**
 

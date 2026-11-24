@@ -1,6 +1,6 @@
 # boldaxolotl/booley
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/boldaxolotl/booley) · 个人维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/boldaxolotl/booley) · 个人维护
 
 **让 Claude Code/Codex 在沙箱中执行 RTL 设计任务的开源 IDE**
 

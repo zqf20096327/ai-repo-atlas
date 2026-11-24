@@ -1,6 +1,6 @@
 # orq-ai/orqkit
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/orq-ai/orqkit) · [官网](https://orq.ai/) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/orq-ai/orqkit) · [官网](https://orq.ai/) · 组织维护
 
 **为开发者提供运行 AI 评估流水线的工具集**
 

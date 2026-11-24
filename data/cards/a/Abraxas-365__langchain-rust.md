@@ -1,6 +1,6 @@
 # Abraxas-365/langchain-rust
 
-⭐ 1,364 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 组织维护
+⭐ 1,365 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 组织维护
 
 **为 Rust 开发者提供的 LangChain 框架实现**
 

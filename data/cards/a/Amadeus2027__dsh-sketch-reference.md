@@ -1,6 +1,6 @@
 # Amadeus2027/dsh-sketch-reference
 
-⭐ 4 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/Amadeus2027/dsh-sketch-reference) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 DSH 加 Excalidraw 画板，让 Agent 读草图并续做实现**
 
@@ -11,7 +11,7 @@ DSH（DeepSeek Harness）的 Web 插件：在 DSH 会话内嵌入 Excalidraw 画
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

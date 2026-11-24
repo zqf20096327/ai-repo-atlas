@@ -1,6 +1,6 @@
 # AI-Robotic-Labs/http-privacy
 
-⭐ 11 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AI-Robotic-Labs/http-privacy) · [官网](https://docs.rs/privacy_http_sdk/) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AI-Robotic-Labs/http-privacy) · [官网](https://docs.rs/privacy_http_sdk/) · 个人维护
 
 **以 HTTP 方式调用多家 AI API 并注重隐私的库**
 

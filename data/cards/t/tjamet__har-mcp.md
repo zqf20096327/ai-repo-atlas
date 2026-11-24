@@ -1,6 +1,6 @@
 # tjamet/har-mcp
 
-⭐ 28 · Go · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tjamet/har-mcp) · 个人维护
+⭐ 28 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tjamet/har-mcp) · 个人维护
 
 **供 AI 助手解析分析 HAR 网络抓包文件的 MCP 服务器**
 

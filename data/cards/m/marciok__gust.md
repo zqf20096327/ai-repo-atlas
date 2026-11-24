@@ -1,6 +1,6 @@
 # marciok/gust
 
-⭐ 392 · Elixir · MIT · 推送 2026-11-17 · [GitHub](https://github.com/marciok/gust) · 个人维护
+⭐ 393 · Elixir · MIT · 推送 2026-11-23 · [GitHub](https://github.com/marciok/gust) · 个人维护
 
 **Erlang VM 上的任务编排引擎：DAG 调度与 Web 监控**
 

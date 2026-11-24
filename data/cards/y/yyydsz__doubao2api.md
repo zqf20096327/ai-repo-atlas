@@ -1,6 +1,6 @@
 # yyydsz/doubao2api
 
-⭐ 13 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yyydsz/doubao2api) · 个人维护 · 中文 README
+⭐ 14 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yyydsz/doubao2api) · 个人维护 · 中文 README
 
 **把豆包工作模式包装成 OpenAI 兼容接口的网关与号池管理面板**
 

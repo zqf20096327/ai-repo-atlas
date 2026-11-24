@@ -1,6 +1,6 @@
 # kubeai-project/kubeai
 
-⭐ 1,295 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kubeai-project/kubeai) · [官网](https://www.kubeai.org) · 组织维护
+⭐ 1,295 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kubeai-project/kubeai) · [官网](https://www.kubeai.org) · 组织维护
 
 **Kubernetes 上的 AI 推理 Operator：运行/扩缩 LLM 等模型**
 

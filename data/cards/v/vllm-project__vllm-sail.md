@@ -1,6 +1,6 @@
 # vllm-project/vllm-sail
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vllm-project/vllm-sail) · 组织维护 · 中文 README
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/vllm-sail) · 组织维护 · 中文 README
 
 **让 vLLM 在 T-Head 真武 AI 芯片上运行推理与服务的硬件插件**
 

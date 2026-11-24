@@ -1,6 +1,6 @@
 # zeikar/charivo
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zeikar/charivo) · [官网](https://charivo.vercel.app) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zeikar/charivo) · [官网](https://charivo.vercel.app) · 个人维护
 
 **构建 Live2D AI 虚拟角色的模块化 TypeScript 框架**
 

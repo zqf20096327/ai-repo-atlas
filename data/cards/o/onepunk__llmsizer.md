@@ -1,6 +1,6 @@
 # onepunk/llmsizer
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/onepunk/llmsizer) · [官网](https://llmsizer.com) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/onepunk/llmsizer) · [官网](https://llmsizer.com) · 个人维护
 
 **浏览器端检测 GPU 并估算哪些 LLM 能装进你的显存**
 

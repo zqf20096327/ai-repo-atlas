@@ -1,6 +1,6 @@
 # R3nder-Codes/r3nder_mayhem
 
-⭐ 24 · Shell · GPL-3.0 · 推送 2026-03-07 · [GitHub](https://github.com/R3nder-Codes/r3nder_mayhem) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **HackRF PortaPack 的自制 RF 应用合集（信标欺骗、检测、干扰等）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

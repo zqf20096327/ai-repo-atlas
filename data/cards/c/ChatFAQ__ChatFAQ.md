@@ -1,6 +1,6 @@
 # ChatFAQ/ChatFAQ
 
-⭐ 154 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ChatFAQ/ChatFAQ) · [官网](https://www.chatfaq.io/) · 组织维护
+⭐ 154 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ChatFAQ/ChatFAQ) · [官网](https://www.chatfaq.io/) · 组织维护
 
 **构建 RAG/Agent/FSM 对话方案的开源平台与框架**
 

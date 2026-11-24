@@ -1,6 +1,6 @@
 # The-AI-Disclosures-Project/Open-Memory-Protocol
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/The-AI-Disclosures-Project/Open-Memory-Protocol) · [官网](https://openmemoryprotocol.org) · 组织维护
+⭐ 48 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/The-AI-Disclosures-Project/Open-Memory-Protocol) · [官网](https://openmemoryprotocol.org) · 组织维护
 
 **多方共治的智能体记忆开放协议倡议：让记忆跨系统迁移共享**
 

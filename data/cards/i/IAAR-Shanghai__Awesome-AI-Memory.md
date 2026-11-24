@@ -1,6 +1,6 @@
 # IAAR-Shanghai/Awesome-AI-Memory
 
-⭐ 1,319 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) · 组织维护 · 中文 README
+⭐ 1,320 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/IAAR-Shanghai/Awesome-AI-Memory) · 组织维护 · 中文 README
 
 **面向研究者与工程师的 LLM/Agent 记忆研究知识库**
 

@@ -1,6 +1,6 @@
 # danieljustus/symaira-eraseme
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/danieljustus/symaira-eraseme) · [官网](https://symaira.com) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/danieljustus/symaira-eraseme) · [官网](https://symaira.com) · 个人维护
 
 **行使 GDPR/CCPA 删除权、向数据中介发起数据删除请求的本地 CLI 工具**
 

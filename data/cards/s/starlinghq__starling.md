@@ -1,6 +1,6 @@
 # starlinghq/starling
 
-⭐ 234 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/starlinghq/starling) · [官网](https://starling.rocks) · 组织维护
+⭐ 232 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/starlinghq/starling) · [官网](https://starling.rocks) · 组织维护
 
 **面向 .NET 开发者的本地 AI 模型 NuGet 包：免 Python 免 API key**
 

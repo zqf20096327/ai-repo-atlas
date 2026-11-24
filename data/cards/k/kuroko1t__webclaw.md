@@ -1,6 +1,6 @@
 # kuroko1t/webclaw
 
-⭐ 22 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/kuroko1t/webclaw) · [官网](https://github.com/kuroko1t/webclaw) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-03-07 · [GitHub](https://github.com/kuroko1t/webclaw) · [官网](https://github.com/kuroko1t/webclaw) · 个人维护
 
 **运行在真实 Chrome 中的 WebMCP 浏览器 agent，供 MCP 客户端调用**
 

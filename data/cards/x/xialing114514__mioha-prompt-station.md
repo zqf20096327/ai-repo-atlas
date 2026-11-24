@@ -1,6 +1,6 @@
 # xialing114514/mioha-prompt-station
 
-⭐ 14 · 推送 2026-11-22 · [GitHub](https://github.com/xialing114514/mioha-prompt-station) · [官网](https://github.com/xialing114514/mioha-prompt-station/releases/latest) · 个人维护 · 中文 README
+⭐ 16 · 推送 2026-11-22 · [GitHub](https://github.com/xialing114514/mioha-prompt-station) · [官网](https://github.com/xialing114514/mioha-prompt-station/releases/latest) · 个人维护 · 中文 README
 
 **Windows 本地绘画提示词工作台：AI 选词、模型 LoRA 管理、多引擎生图**
 

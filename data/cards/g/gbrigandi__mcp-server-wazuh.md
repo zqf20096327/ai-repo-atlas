@@ -1,6 +1,6 @@
 # gbrigandi/mcp-server-wazuh
 
-⭐ 240 · Rust · MIT · 推送 2025-12-12 · [GitHub](https://github.com/gbrigandi/mcp-server-wazuh) · 个人维护
+⭐ 239 · Rust · MIT · 推送 2025-12-12 · [GitHub](https://github.com/gbrigandi/mcp-server-wazuh) · 个人维护
 
 **让 AI 助手用自然语言查询 Wazuh SIEM 安全数据的 MCP 服务器**
 

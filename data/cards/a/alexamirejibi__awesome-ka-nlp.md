@@ -1,6 +1,6 @@
 # alexamirejibi/awesome-ka-nlp
 
-⭐ 30 · 推送 2026-02-19 · [GitHub](https://github.com/alexamirejibi/awesome-ka-nlp) · 个人维护
+⭐ 29 · 推送 2026-02-19 · [GitHub](https://github.com/alexamirejibi/awesome-ka-nlp) · 个人维护
 
 **格鲁吉亚语 NLP 资源策展清单：数据集、模型、基准一站式索引**
 

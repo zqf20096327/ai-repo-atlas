@@ -1,6 +1,6 @@
 # dvdsosa/zotero-native-mcp
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/dvdsosa/zotero-native-mcp) · [官网](https://github.com/dvdsosa/zotero-native-mcp#readme) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/dvdsosa/zotero-native-mcp) · [官网](https://github.com/dvdsosa/zotero-native-mcp#readme) · 个人维护
 
 **离线读写 Zotero 10+ 文献库的 MCP 服务器**
 

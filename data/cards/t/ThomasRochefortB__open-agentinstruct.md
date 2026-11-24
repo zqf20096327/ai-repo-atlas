@@ -1,6 +1,6 @@
 # ThomasRochefortB/open-agentinstruct
 
-⭐ 29 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ThomasRochefortB/open-agentinstruct) · 个人维护
+⭐ 29 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThomasRochefortB/open-agentinstruct) · 个人维护
 
 **开源复刻 AgentInstruct 的合成数据生成工作流，供开发者生成微调数据**
 

@@ -1,10 +1,10 @@
 # rsxdalv/TTS-WebUI
 
-⭐ 3,318 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rsxdalv/TTS-WebUI) · [官网](http://TTSWebUI.com/) · 个人维护
+⭐ 3,317 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rsxdalv/TTS-WebUI) · [官网](http://TTSWebUI.com/) · 个人维护
 
-**聚合数十种 TTS/音频生成模型的本地 WebUI**
+**集成多款 TTS 与音乐生成模型的 WebUI，供用户生成语音和音频**
 
-基于 Gradio + React 的 Web 界面，集成 Bark、Tortoise、XTTSv2、CosyVoice、GPT-SoVITS、Kimi Audio、MusicGen、RVC、Demucs 等文本转语音、音频/音乐生成与音频转换模型；带星标模型作为扩展安装，扩展本质是 pip 安装的 Python 包。提供 Windows 安装器（Ignition/winget）、源码安装与 Docker 镜像，基础安装约 10.7 GB，每个模型另需 2-8 GB。内置 OpenAI 兼容 API 端点，可对接 Silly Tavern、OpenWebUI 等客户端。代码 MIT，但依赖与模型权重各有许可，部分依赖为非宽松许可。
+基于 Gradio 后端与 React 前端的统一 Web 界面，聚合 20 余个文本转语音模型（Bark、XTTSv2、CosyVoice、GPT-SoVITS、Piper 等）与音频/音乐生成模型（MusicGen、Stable Audio、ACE-Step 等）及音频工具（RVC、Demucs、Whisper）。多数模型以 pip 扩展形式按需安装，可从 WebUI 内部管理。提供 Windows 安装器（约 10.7 GB 起步）、Docker 镜像与手动安装路径；内置 OpenAI 兼容 TTS API，可接入 SillyTavern、OpenWebUI 等客户端。依赖项之间存在已知兼容性警告，作者声明属预期现象。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 内置 40+ 种 TTS/音频生成/转换模型，未默认安装的以扩展形式提供
-- 暴露 OpenAI 兼容 API 端点（/v1/audio/speech），可接入 Silly Tavern、OpenWebUI、oobabooga WebUI
-- 支持 Windows 安装器、winget、源码与 Docker 四种安装方式
-- 扩展系统基于 pip 包，支持内置扩展管理器与 JSON 外部扩展安装
+- 单界面集成 20+ TTS 模型与音乐/音频生成模型
+- 扩展以 pip 包形式安装，支持 WebUI 内一键安装与扩展目录
+- 内置 OpenAI 兼容 API（/v1/audio/speech），可对接 SillyTavern、OpenWebUI
+- 提供 winget 安装器、Docker 镜像（ghcr.io）与手动安装三条路径
 
 ## 适用场景
 
-- 本地运行多种 TTS 模型生成语音，不需要逐个部署各模型项目
-- 为 Silly Tavern / OpenWebUI 等对话前端提供本地 OpenAI 兼容 TTS API
-- 在一个界面里做语音转换（RVC）、人声分离（Demucs）与音乐生成（MusicGen）
+- 在一个界面里试用和对比多种开源 TTS 模型的语音效果
+- 用 MusicGen/Stable Audio 生成音乐和音频
+- 通过 OpenAI 兼容接口给 SillyTavern、OpenWebUI 配置本地 TTS
+- 用 RVC 做声音转换并用 Demucs 分离音轨
 
 ## 场景标签
 
-`语音合成` · 领域:内容生成
+`语音合成` `语音识别` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L37: ## Supported Models
-> L41: |Bark|MusicGen|RVC|
-> L204:  Default provider endpoint: `http://localhost:7778/v1/audio/speech`
+> L88: * Run start_tts_webui.bat or start_tts_webui.sh to start the server. It will ask you to select the GPU/Chip you are
+> L215: Using the instructions above, you can install an OpenAI compatible API, and use it with Silly Tavern or other Open
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 mid · 依据 README sha `0df7169d92bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `12d74500c3b1` · [字段定义](../../DATASET.md)*

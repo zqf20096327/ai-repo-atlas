@@ -1,6 +1,6 @@
 # southleft/figma-console-mcp
 
-⭐ 3,387 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/southleft/figma-console-mcp) · [官网](https://southleft.com) · 组织维护
+⭐ 3,398 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/southleft/figma-console-mcp) · [官网](https://southleft.com) · 组织维护
 
 **把设计系统暴露为 API 的 Figma MCP 服务器，供 AI 读取与写入 Figma**
 

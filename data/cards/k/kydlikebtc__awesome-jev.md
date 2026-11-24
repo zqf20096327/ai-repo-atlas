@@ -1,6 +1,6 @@
 # kydlikebtc/awesome-jev
 
-⭐ 603 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/kydlikebtc/awesome-jev) · [官网](https://kydlikebtc.github.io/awesome-jev/) · 个人维护 · 中文 README
+⭐ 603 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/kydlikebtc/awesome-jev) · [官网](https://kydlikebtc.github.io/awesome-jev/) · 个人维护 · 中文 README
 
 **Jev 决策模型的公共资源清单：按决策模式索引 1,218 条**
 

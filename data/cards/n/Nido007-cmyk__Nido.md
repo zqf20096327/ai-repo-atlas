@@ -1,6 +1,6 @@
 # Nido007-cmyk/Nido
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Nido007-cmyk/Nido) · [官网](https://github.com/Nido007-cmyk/Nido/releases) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nido007-cmyk/Nido) · [官网](https://github.com/Nido007-cmyk/Nido/releases) · 个人维护
 
 **100% 离线运行的 Android 隐私优先个人 AI 助手**
 

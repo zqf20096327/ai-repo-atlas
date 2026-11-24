@@ -1,6 +1,6 @@
 # HANPU5838/dsh-memory
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HANPU5838/dsh-memory) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HANPU5838/dsh-memory) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 提供本地长期记忆的插件**
 

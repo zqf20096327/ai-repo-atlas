@@ -1,6 +1,6 @@
 # cyberark/FuzzyAI
 
-⭐ 1,611 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/cyberark/FuzzyAI) · 组织维护
+⭐ 1,612 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-06 · [GitHub](https://github.com/cyberark/FuzzyAI) · 组织维护
 
 **面向 LLM API 的自动化越狱模糊测试工具**
 

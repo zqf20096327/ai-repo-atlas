@@ -1,6 +1,6 @@
 # peiyucn/dsh-launcher-panel
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/peiyucn/dsh-launcher-panel) · [官网](https://marketplace.visualstudio.com/items?itemName=peiyucn.dsh-launcher-panel) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/peiyucn/dsh-launcher-panel) · [官网](https://marketplace.visualstudio.com/items?itemName=peiyucn.dsh-launcher-panel) · 个人维护 · 中文 README
 
 **在 VS Code 内启动 DeepSeek Harness 并打开其 Web UI 的扩展**
 

@@ -1,6 +1,6 @@
 # mollendorff-ai/forge
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mollendorff-ai/forge) · [官网](https://forge.mollendorff.ai) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/mollendorff-ai/forge) · [官网](https://forge.mollendorff.ai) · 组织维护
 
 **面向 FP&A 与 AI agent 的纯文本财务建模引擎**
 

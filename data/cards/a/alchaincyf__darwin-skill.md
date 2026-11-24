@@ -1,6 +1,6 @@
 # alchaincyf/darwin-skill
 
-⭐ 7,030 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/alchaincyf/darwin-skill) · 个人维护 · 中文 README
+⭐ 7,038 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/alchaincyf/darwin-skill) · 个人维护 · 中文 README
 
 **面向 Claude Code 等 Agent 的 Skill 自动进化系统：评估→改进→实测→保留或回滚**
 

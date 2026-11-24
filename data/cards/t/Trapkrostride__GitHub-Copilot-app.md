@@ -1,6 +1,6 @@
 # Trapkrostride/GitHub-Copilot-app
 
-⭐ 370 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Trapkrostride/GitHub-Copilot-app) · 组织维护
+⭐ 367 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Trapkrostride/GitHub-Copilot-app) · 组织维护
 
 **管理 GitHub Copilot agent 软件工作的桌面应用**
 

@@ -1,10 +1,10 @@
 # openai/openai-python
 
-⭐ 32,215 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/openai/openai-python) · [官网](https://pypi.org/project/openai/) · 组织维护
+⭐ 32,223 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/openai/openai-python) · [官网](https://pypi.org/project/openai/) · 组织维护
 
-**OpenAI 官方 Python SDK：从 Python 访问 OpenAI REST API**
+**开发者接入 OpenAI REST API 的官方 Python SDK**
 
-OpenAI 官方维护的 Python 库，为 OpenAI REST API 提供访问通道，要求 Python 3.10+。由 OpenAPI 规范自动生成，包含全部请求参数与响应字段的类型定义，提供基于 HTTPX2 的同步与异步客户端。支持 Responses API 与 Chat Completions API 生成文本、视觉输入、SSE 流式响应、Realtime WebSocket 连接、自动分页、文件上传与 webhook 签名验证。另支持 API key 之外的工作负载身份认证（Kubernetes/Azure/GCP/X.509 mTLS）。通过 PyPI 安装。
+OpenAI 官方 Python 库，供 Python 3.10+ 应用访问 OpenAI REST API。由 OpenAPI 规范生成，提供全部请求参数与响应字段的类型定义，内置同步与异步（HTTPX2）客户端。覆盖文本生成（Responses API 与 Chat Completions API）、视觉输入、SSE 流式响应、Realtime WebSocket 语音会话、自动分页、文件上传、webhook 签名校验，以及 API key、Kubernetes/Azure/GCP workload identity 与 X.509 mTLS 等多种认证方式。通过 PyPI 安装，aiohttp 为可选传输。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@ OpenAI 官方维护的 Python 库，为 OpenAI REST API 提供访问通道，要
 
 ## 能力要点
 
-- 同步与异步双客户端，含全量请求/响应类型定义
-- 支持 SSE 流式响应与 Realtime WebSocket API
-- 支持 Kubernetes/Azure/GCP/X.509 工作负载身份认证
-- 内置 webhook 签名验证与分页迭代器
+- 从 OpenAPI 规范生成，全部请求/响应带类型定义（TypedDict/Pydantic）
+- 同步与异步客户端，支持 aiohttp 可选传输与 SSE 流式响应
+- 多种认证：API key、Kubernetes/Azure/GCP workload identity、X.509 mTLS
+- Realtime API（WebSocket 文本/音频）、自动分页与文件上传支持
 
 ## 适用场景
 
-- 在 Python 应用中调用 OpenAI 模型生成文本或处理图像
-- 构建低延迟多模态实时对话应用
-- 在云端托管环境中以短期令牌替代长期 API key 认证
+- 在 Python 应用中调用 OpenAI 模型生成文本或分析图像
+- 构建低延迟多模态实时对话应用（文本/音频输入输出）
+- 在云端自动化环境中用短期令牌替代长期 API key 访问 API
+- 处理 OpenAI webhook 事件并校验签名
 
 ## 场景标签
 
- · 领域:LLM 基础设施/SDK
+ · 领域:AI 开发工具/SDK
 
 ## 证据(README 行号)
 
 > L5: The OpenAI Python library provides convenient access to the OpenAI REST API from any Python 3.10+
-> L7: and offers both synchronous and asynchronous clients powered by HTTPX2.
-> L9: It is generated from our OpenAPI specification.
+> L26: The primary API for interacting with OpenAI models is the Responses API. You can generate text from the model with 
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `4dfd943b04c7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1c242ba31ac0` · [字段定义](../../DATASET.md)*

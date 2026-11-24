@@ -1,6 +1,6 @@
 # directionally-local/autopilot
 
-⭐ 220 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/directionally-local/autopilot) · [官网](https://directionallylocal.com/autopilot) · 组织维护
+⭐ 222 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/directionally-local/autopilot) · [官网](https://directionallylocal.com/autopilot) · 组织维护
 
 **开源终端编码 agent 与 SDK，自带密钥接入 25+ 供应商**
 

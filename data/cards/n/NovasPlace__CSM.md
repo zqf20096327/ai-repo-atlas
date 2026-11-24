@@ -1,6 +1,6 @@
 # NovasPlace/CSM
 
-⭐ 46 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/NovasPlace/CSM) · 组织维护
+⭐ 46 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NovasPlace/CSM) · 组织维护
 
 **AI 编码代理的跨会话记忆与连续性运行时（AgentBook 事件账本）**
 

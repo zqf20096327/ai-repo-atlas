@@ -1,6 +1,6 @@
 # CherryHQ/cherry-studio
 
-⭐ 53,752 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CherryHQ/cherry-studio) · [官网](https://cherryai.com) · 组织维护 · 中文 README
+⭐ 53,792 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/CherryHQ/cherry-studio) · [官网](https://cherryai.com) · 组织维护 · 中文 README
 
 **面向个人与团队的桌面 AI 工作台：聚合模型、Agent 与知识库**
 

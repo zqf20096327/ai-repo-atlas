@@ -1,6 +1,6 @@
 # CookSleep/LLM_API_Price_Comparator_Web
 
-⭐ 19 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CookSleep/LLM_API_Price_Comparator_Web) · [官网](https://cooksleep.github.io/LLM_API_Price_Comparator_Web/) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/CookSleep/LLM_API_Price_Comparator_Web) · [官网](https://cooksleep.github.io/LLM_API_Price_Comparator_Web/) · 个人维护 · 中文 README
 
 **比较各 LLM API 服务商调用同一模型价格的在线工具**
 

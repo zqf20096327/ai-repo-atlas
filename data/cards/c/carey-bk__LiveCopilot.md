@@ -1,6 +1,6 @@
 # carey-bk/LiveCopilot
 
-⭐ 87 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/carey-bk/LiveCopilot) · [官网](https://carey-bk.github.io/LiveCopilot/) · 个人维护 · 中文 README
+⭐ 87 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/carey-bk/LiveCopilot) · [官网](https://carey-bk.github.io/LiveCopilot/) · 个人维护 · 中文 README
 
 **macOS 原生实时转录与知识检索问答助手**
 

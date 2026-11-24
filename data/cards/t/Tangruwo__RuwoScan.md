@@ -1,6 +1,6 @@
 # Tangruwo/RuwoScan
 
-⭐ 40 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Tangruwo/RuwoScan) · 个人维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Tangruwo/RuwoScan) · 个人维护 · 中文 README
 
 **多智能体自动化 AI 漏洞扫描工具：自然语言驱动完整渗透测试**
 

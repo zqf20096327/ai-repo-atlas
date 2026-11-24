@@ -1,6 +1,6 @@
 # thesysdev/open-intelligent-ui
 
-⭐ 1,041 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/thesysdev/open-intelligent-ui) · [官网](https://www.openui.com/demo/intelligent-ui) · 组织维护
+⭐ 1,045 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/thesysdev/open-intelligent-ui) · [官网](https://www.openui.com/demo/intelligent-ui) · 组织维护
 
 **开源复刻 ChatGPT 智能界面：回答以交互式 UI 流式呈现**
 

@@ -1,6 +1,6 @@
 # vorlaxen-labs/agent-skills
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vorlaxen-labs/agent-skills) · [官网](https://www.npmjs.com/package/@vorlaxen-labs/agent-skills) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vorlaxen-labs/agent-skills) · [官网](https://www.npmjs.com/package/@vorlaxen-labs/agent-skills) · 组织维护
 
 **为 AI 编码工具安装 SKILL.md 技能并生成 AGENTS.md 的 CLI**
 

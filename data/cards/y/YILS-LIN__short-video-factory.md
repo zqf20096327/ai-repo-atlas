@@ -1,6 +1,6 @@
 # YILS-LIN/short-video-factory
 
-⭐ 6,250 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/YILS-LIN/short-video-factory) · [官网](https://short-video-factory.yils.blog) · 个人维护 · 中文 README
+⭐ 6,265 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/YILS-LIN/short-video-factory) · [官网](https://short-video-factory.yils.blog) · 个人维护 · 中文 README
 
 **给营销/内容创作者一键批量生成短视频的桌面工具**
 

@@ -1,6 +1,6 @@
 # karlmoriaty/AxurePR-return-rp
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/karlmoriaty/AxurePR-return-rp) · [官网](https://github.com/karlmoriaty/AxurePR-return-rp#quickstart) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/karlmoriaty/AxurePR-return-rp) · [官网](https://github.com/karlmoriaty/AxurePR-return-rp#quickstart) · 个人维护 · 中文 README
 
 **给 Axure 用户：截图/需求/RP源码生成可编辑 .rp 原型**
 

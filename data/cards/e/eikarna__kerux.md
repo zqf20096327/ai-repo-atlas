@@ -1,6 +1,6 @@
 # eikarna/kerux
 
-⭐ 70 · Rust · MIT · 推送 2026-08-31 · [GitHub](https://github.com/eikarna/kerux) · [官网](http://kerux.eikarna.dev/) · 个人维护
+⭐ 70 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eikarna/kerux) · [官网](http://kerux.eikarna.dev/) · 个人维护
 
 **自包含 Rust AI agent 运行时，用于 LLM 驱动的工具执行**
 

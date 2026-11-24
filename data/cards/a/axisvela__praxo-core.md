@@ -1,6 +1,6 @@
 # axisvela/praxo-core
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core) · [官网](https://axisvela.github.io/praxo-core/) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/axisvela/praxo-core) · [官网](https://axisvela.github.io/praxo-core/) · 组织维护 · 中文 README
 
 **可嵌入的 MIT 协议 Agent 框架：治理式 agent 循环与策略控制**
 

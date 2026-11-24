@@ -1,6 +1,6 @@
 # anowell/are-we-learning-yet
 
-⭐ 543 · Rust · CC-BY-4.0 · 推送 2026-11-21 · [GitHub](https://github.com/anowell/are-we-learning-yet) · [官网](http://arewelearningyet.com) · 个人维护
+⭐ 543 · Rust · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/anowell/are-we-learning-yet) · [官网](http://arewelearningyet.com) · 个人维护
 
 **Rust 机器学习生态的策展目录站点（arewelearningyet.com）**
 

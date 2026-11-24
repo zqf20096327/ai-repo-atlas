@@ -1,6 +1,6 @@
 # nntrainer/nntrainer
 
-⭐ 216 · C++ · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/nntrainer/nntrainer) · 组织维护
+⭐ 215 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nntrainer/nntrainer) · 组织维护
 
 **面向边缘设备的神经网络训练与 LLM 推理框架**
 

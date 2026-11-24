@@ -1,6 +1,6 @@
 # rigspark/rigspark
 
-⭐ 25 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rigspark/rigspark) · [官网](https://www.rigspark.ai/) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rigspark/rigspark) · [官网](https://www.rigspark.ai/) · 个人维护
 
 **本地运行开源模型的桌面应用：聊天/图像/视频/语音与硬件适配检查**
 

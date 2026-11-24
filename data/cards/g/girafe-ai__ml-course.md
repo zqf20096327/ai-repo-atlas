@@ -1,6 +1,6 @@
 # girafe-ai/ml-course
 
-⭐ 3,603 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/girafe-ai/ml-course) · 组织维护
+⭐ 3,605 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/girafe-ai/ml-course) · 组织维护
 
 **开源机器学习课程（含深度学习）的讲义与作业材料库**
 

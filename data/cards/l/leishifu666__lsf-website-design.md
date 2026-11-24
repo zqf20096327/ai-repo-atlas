@@ -1,6 +1,6 @@
 # leishifu666/lsf-website-design
 
-⭐ 79 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/leishifu666/lsf-website-design) · 个人维护 · 中文 README
+⭐ 81 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/leishifu666/lsf-website-design) · [官网](https://lsfweb.pantoria.cn/) · 个人维护 · 中文 README
 
 **给 AI 编程助手的网站设计 skill：参考研究、制作与评审**
 

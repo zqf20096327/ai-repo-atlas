@@ -1,6 +1,6 @@
 # supervaize/supervaizer
 
-⭐ 15 · Python · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/supervaize/supervaizer) · [官网](https://runwaize.com) · 组织维护
+⭐ 15 · Python · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/supervaize/supervaizer) · [官网](https://runwaize.com) · 组织维护
 
 **把 AI agent 接入 Supervaize Studio 的 Python 控制器 SDK（A2A/A2UI）**
 

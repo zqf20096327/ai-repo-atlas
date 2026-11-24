@@ -1,6 +1,6 @@
 # peers-labs/peers-touch
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/peers-labs/peers-touch) · [官网](https://peers-touch.vercel.app) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/peers-labs/peers-touch) · [官网](https://peers-touch.vercel.app) · 组织维护
 
 **去中心化 P2P 社交网络，含个人 AI 助手与自托管 Station**
 

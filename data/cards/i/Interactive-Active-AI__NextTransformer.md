@@ -1,6 +1,6 @@
 # Interactive-Active-AI/NextTransformer
 
-⭐ 492 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Interactive-Active-AI/NextTransformer) · [官网](https://interactive-active-ai.github.io/NextTransformer/) · 组织维护 · 中文 README
+⭐ 493 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Interactive-Active-AI/NextTransformer) · [官网](https://interactive-active-ai.github.io/NextTransformer/) · 组织维护 · 中文 README
 
 **面向下一代 Transformer 架构的统一训练基准与自动化研究平台**
 

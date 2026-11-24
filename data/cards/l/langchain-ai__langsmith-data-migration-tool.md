@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-data-migration-tool
 
-⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langchain-ai/langsmith-data-migration-tool) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langsmith-data-migration-tool) · 组织维护
 
 **LangSmith 实例间数据迁移 CLI：迁移用户/数据集/实验/提示词等**
 

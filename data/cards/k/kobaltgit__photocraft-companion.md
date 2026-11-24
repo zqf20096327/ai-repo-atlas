@@ -1,6 +1,6 @@
 # kobaltgit/photocraft-companion
 
-⭐ 51 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kobaltgit/photocraft-companion) · [官网](https://kobaltgit.github.io/photocraft-companion/) · 个人维护 · 中文 README
+⭐ 52 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kobaltgit/photocraft-companion) · [官网](https://kobaltgit.github.io/photocraft-companion/) · 个人维护 · 中文 README
 
 **为 PhotoCraft 图像编辑器提供本地 AI 神经工具与插件生态的桌面伴侣应用**
 

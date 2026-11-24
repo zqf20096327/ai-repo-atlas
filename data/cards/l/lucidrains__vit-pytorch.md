@@ -1,6 +1,6 @@
 # lucidrains/vit-pytorch
 
-⭐ 25,589 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/lucidrains/vit-pytorch) · 个人维护
+⭐ 25,593 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/lucidrains/vit-pytorch) · 个人维护
 
 **研究者的 PyTorch 版 Vision Transformer 实现合集**
 

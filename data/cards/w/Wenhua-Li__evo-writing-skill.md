@@ -1,6 +1,6 @@
 # Wenhua-Li/evo-writing-skill
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Wenhua-Li/evo-writing-skill) · [官网](https://wenhua-li.github.io/evo-writing-skill/) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Wenhua-Li/evo-writing-skill) · [官网](https://wenhua-li.github.io/evo-writing-skill/) · 个人维护 · 中文 README
 
 **进化计算论文写作的 Agent 技能：去除 AI 腔与防御性表述**
 

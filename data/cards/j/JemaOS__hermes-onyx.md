@@ -1,6 +1,6 @@
 # JemaOS/hermes-onyx
 
-⭐ 12 · Kotlin · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/JemaOS/hermes-onyx) · [官网](https://jemaos.github.io/hermes-onyx/) · 组织维护 · 中文 README
+⭐ 12 · Kotlin · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/JemaOS/hermes-onyx) · [官网](https://jemaos.github.io/hermes-onyx/) · 组织维护 · 中文 README
 
 **自托管 Hermes agent 的 Android 客户端：流式聊天、机器人房间与语音**
 

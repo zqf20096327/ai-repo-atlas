@@ -1,6 +1,6 @@
 # owlbarn/owl
 
-⭐ 1,359 · OCaml · MIT · 推送 2026-11-18 · [GitHub](https://github.com/owlbarn/owl) · 组织维护
+⭐ 1,360 · OCaml · MIT · 推送 2026-11-18 · [GitHub](https://github.com/owlbarn/owl) · 组织维护
 
 **OCaml 科学计算库：矩阵、自动微分与神经网络的数值框架**
 

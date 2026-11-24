@@ -1,6 +1,6 @@
 # 2boysfromtown/hyperframes-motion
 
-⭐ 10 · HTML · MIT · 推送 2026-10-24 · [GitHub](https://github.com/2boysfromtown/hyperframes-motion) · [官网](https://2bft.in) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用 HTML+GSAP 做 AE 风格动效与 9:16 视频模板的资源库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

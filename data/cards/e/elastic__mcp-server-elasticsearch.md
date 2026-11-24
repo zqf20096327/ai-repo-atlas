@@ -1,6 +1,6 @@
 # elastic/mcp-server-elasticsearch
 
-⭐ 735 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/elastic/mcp-server-elasticsearch) · [官网](https://www.elastic.co/elasticsearch) · 组织维护
+⭐ 736 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/elastic/mcp-server-elasticsearch) · [官网](https://www.elastic.co/elasticsearch) · 组织维护
 
 **连接 AI 代理与 Elasticsearch 数据的 MCP 服务器**
 

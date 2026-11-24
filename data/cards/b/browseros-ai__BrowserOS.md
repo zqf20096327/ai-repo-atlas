@@ -1,6 +1,6 @@
 # browseros-ai/BrowserOS
 
-⭐ 14,452 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
+⭐ 14,465 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/browseros-ai/BrowserOS) · [官网](https://BrowserOS.com) · 组织维护
 
 **开源 agentic 浏览器：让 AI agent 用真实登录态执行网页任务**
 

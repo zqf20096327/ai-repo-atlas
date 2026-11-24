@@ -1,6 +1,6 @@
 # terion-labs/asura
 
-⭐ 11 · C# · MIT · 推送 2026-11-19 · [GitHub](https://github.com/terion-labs/asura) · [官网](https://asura.sh/) · 组织维护
+⭐ 11 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/terion-labs/asura) · [官网](https://asura.sh/) · 组织维护
 
 **给开发者的桌面终端工作区：集成 AI agent、浏览器与开发工具面板**
 

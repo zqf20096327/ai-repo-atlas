@@ -1,6 +1,6 @@
 # noahclark556/paged-moe
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/noahclark556/paged-moe) · 个人维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/noahclark556/paged-moe) · [官网](https://pagedmoe.com) · 个人维护
 
 **Apple Silicon 上按需从 SSD 流式加载 MoE 专家的推理引擎**
 

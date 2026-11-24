@@ -1,6 +1,6 @@
 # abdelhalimyasser/machine-learning-models-2026-fcai-cu
 
-⭐ 3 · Jupyter Notebook · 推送 2026-11-22 · [GitHub](https://github.com/abdelhalimyasser/machine-learning-models-2026-fcai-cu) · 个人维护
+⭐ 3 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/abdelhalimyasser/machine-learning-models-2026-fcai-cu) · 个人维护
 
 **开罗资本大学机器学习课程三个分类/回归模型作业仓库**
 

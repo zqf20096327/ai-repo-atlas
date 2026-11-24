@@ -1,6 +1,6 @@
 # ant-research/awesome-mllm-guardrails
 
-⭐ 42 · Apache-2.0 · 推送 2026-10-07 · [GitHub](https://github.com/ant-research/awesome-mllm-guardrails) · 组织维护 · 中文 README
+⭐ 42 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ant-research/awesome-mllm-guardrails) · 组织维护 · 中文 README
 
 **LLM/MLLM 安全护栏资源策展清单：基准、护栏模型、攻击与数据集**
 

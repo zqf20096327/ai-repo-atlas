@@ -1,6 +1,6 @@
 # engasnm111/lnwdeck
 
-⭐ 13 · Rust · MIT · 推送 2026-09-17 · [GitHub](https://github.com/engasnm111/lnwdeck) · 个人维护
+⭐ 13 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/engasnm111/lnwdeck) · 个人维护
 
 **Windows 本地 AI 用量与配额追踪桌面应用**
 

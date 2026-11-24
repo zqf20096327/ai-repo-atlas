@@ -1,6 +1,6 @@
 # bioheater/Vitool
 
-⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/bioheater/Vitool) · 个人维护
+⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/bioheater/Vitool) · 个人维护
 
 **Windows 本地视频工具箱：下载、剪辑、打码、转录与总结**
 

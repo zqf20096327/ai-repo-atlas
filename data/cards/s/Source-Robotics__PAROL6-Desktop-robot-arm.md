@@ -1,6 +1,6 @@
 # Source-Robotics/PAROL6-Desktop-robot-arm
 
-⭐ 3,498 · HTML · CERN-OHL-S-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) · [官网](https://docs.source-robotics.com/PAROL-docs/) · 组织维护
+⭐ 3,503 · HTML · CERN-OHL-S-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Source-Robotics/PAROL6-Desktop-robot-arm) · [官网](https://docs.source-robotics.com/PAROL-docs/) · 组织维护
 
 **给机器人爱好者的开源 3D 打印 6 轴桌面机械臂硬件项目**
 

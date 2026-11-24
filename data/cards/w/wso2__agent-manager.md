@@ -1,6 +1,6 @@
 # wso2/agent-manager
 
-⭐ 120 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wso2/agent-manager) · [官网](https://wso2.github.io/agent-manager/) · 组织维护
+⭐ 120 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wso2/agent-manager) · [官网](https://wso2.github.io/agent-manager/) · 组织维护
 
 **企业级 AI agent 控制平面：大规模部署、治理与可观测**
 

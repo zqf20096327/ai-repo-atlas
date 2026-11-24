@@ -1,6 +1,6 @@
 # Friendship7/save-conversation-to-obsidian
 
-⭐ 11 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Friendship7/save-conversation-to-obsidian) · 个人维护
+⭐ 12 · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Friendship7/save-conversation-to-obsidian) · 个人维护
 
 **给 Obsidian 用户把 AI 对话存成结构化笔记的技能**
 

@@ -1,6 +1,6 @@
 # ymcui/Chinese-Mixtral
 
-⭐ 613 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-Mixtral) · [官网](https://arxiv.org/abs/2403.01851) · 个人维护 · 中文 README
+⭐ 612 · Python · Apache-2.0 · 推送 2026-04-19 · [GitHub](https://github.com/ymcui/Chinese-Mixtral) · [官网](https://arxiv.org/abs/2403.01851) · 个人维护 · 中文 README
 
 **中文增量训练的 Mixtral MoE 开源大模型及训练脚本**
 

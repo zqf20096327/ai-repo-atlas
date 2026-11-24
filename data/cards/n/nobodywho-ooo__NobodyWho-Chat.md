@@ -1,6 +1,6 @@
 # nobodywho-ooo/NobodyWho-Chat
 
-⭐ 11 · TypeScript · EUPL-1.2 · 推送 2026-11-22 · [GitHub](https://github.com/nobodywho-ooo/NobodyWho-Chat) · [官网](https://github.com/nobodywho-ooo/nobodywho) · 组织维护
+⭐ 11 · TypeScript · EUPL-1.2 · 推送 2026-11-23 · [GitHub](https://github.com/nobodywho-ooo/NobodyWho-Chat) · [官网](https://github.com/nobodywho-ooo/nobodywho) · 组织维护
 
 **手机上完全离线运行的本地 LLM 聊天助手**
 

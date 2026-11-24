@@ -1,6 +1,6 @@
 # guo-yichen/news-summary
 
-⭐ 15 · Python · 推送 2026-11-22 · [GitHub](https://github.com/guo-yichen/news-summary) · 个人维护 · 中文 README
+⭐ 15 · Python · 推送 2026-11-23 · [GitHub](https://github.com/guo-yichen/news-summary) · 个人维护 · 中文 README
 
 **用 Claude 聚合个人信息源生成每日 AI 简报并投递到 Notion 与邮箱**
 

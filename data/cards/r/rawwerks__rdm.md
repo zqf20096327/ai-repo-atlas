@@ -1,6 +1,6 @@
 # rawwerks/rdm
 
-⭐ 18 · Rust · MIT · 推送 2026-11-08 · [GitHub](https://github.com/rawwerks/rdm) · [官网](https://recursivedecisionmodels.com) · 组织维护
+⭐ 19 · Rust · MIT · 推送 2026-11-08 · [GitHub](https://github.com/rawwerks/rdm) · [官网](https://recursivedecisionmodels.com) · 组织维护
 
 **Rust 框架：把决策模型放进递归循环驱动工具与语言模型**
 

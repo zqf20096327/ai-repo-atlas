@@ -1,6 +1,6 @@
 # zachisit/july-backtester
 
-⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zachisit/july-backtester) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zachisit/july-backtester) · 个人维护
 
 **美股策略回测引擎：蒙特卡洛与前向分析压力测试**
 

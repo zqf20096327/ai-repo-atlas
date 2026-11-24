@@ -1,6 +1,6 @@
 # Haohao-end/openagent
 
-⭐ 757 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Haohao-end/openagent) · [官网](https://openllm.cloud) · 个人维护 · 中文 README
+⭐ 757 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Haohao-end/openagent) · [官网](https://openllm.cloud) · 个人维护 · 中文 README
 
 **给团队构建、编排、发布 AI 应用的全栈平台**
 

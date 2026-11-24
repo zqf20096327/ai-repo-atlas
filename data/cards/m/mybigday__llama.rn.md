@@ -1,6 +1,6 @@
 # mybigday/llama.rn
 
-⭐ 1,075 · C · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mybigday/llama.rn) · 组织维护
+⭐ 1,076 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mybigday/llama.rn) · 组织维护
 
 **React Native 开发者在移动端本地运行 llama.cpp 推理**
 

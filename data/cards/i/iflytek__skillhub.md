@@ -1,6 +1,6 @@
 # iflytek/skillhub
 
-⭐ 5,465 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/iflytek/skillhub) · [官网](https://skill.xfyun.cn) · 组织维护 · 中文 README
+⭐ 5,481 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/iflytek/skillhub) · [官网](https://skill.xfyun.cn) · 组织维护 · 中文 README
 
 **企业自托管的 agent 技能包注册中心：发布、检索与治理**
 

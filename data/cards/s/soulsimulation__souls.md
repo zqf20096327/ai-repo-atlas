@@ -1,6 +1,6 @@
 # soulsimulation/souls
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/soulsimulation/souls) · [官网](https://soul.game) · 组织维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/soulsimulation/souls) · [官网](https://soul.game) · 组织维护
 
 **让每个角色由主人自己的 AI agent 驱动的多人 3D 模拟世界**
 

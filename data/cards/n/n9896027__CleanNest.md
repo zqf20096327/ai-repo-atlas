@@ -1,6 +1,6 @@
 # n9896027/CleanNest
 
-⭐ 14 · Swift · MIT · 推送 2026-08-30 · [GitHub](https://github.com/n9896027/CleanNest) · 个人维护 · 中文 README
+⭐ 14 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/n9896027/CleanNest) · 个人维护 · 中文 README
 
 **隐私优先的 macOS 原生清理与系统监测工具，可选本机 AI 辅助**
 

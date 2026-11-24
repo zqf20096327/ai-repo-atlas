@@ -1,6 +1,6 @@
 # pepe-agent/pepe
 
-⭐ 74 · Elixir · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pepe-agent/pepe) · [官网](https://pepe-agent.com) · 个人维护
+⭐ 75 · Elixir · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pepe-agent/pepe) · [官网](https://pepe-agent.com) · 个人维护
 
 **Elixir/OTP 自托管 AI agent 运行时：定义 agent 并执行工具调用循环**
 

@@ -1,6 +1,6 @@
 # nialljmiller/SED_Tools
 
-⭐ 28 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nialljmiller/SED_Tools) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nialljmiller/SED_Tools) · 个人维护
 
 **天文学工具包：获取/标准化恒星光谱网格并合成测光数据**
 

@@ -1,6 +1,6 @@
 # yeongseon/azure-functions-langgraph-python
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yeongseon/azure-functions-langgraph-python) · [官网](https://yeongseon.dev/azure-functions-python/langgraph/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yeongseon/azure-functions-langgraph-python) · [官网](https://yeongseon.dev/azure-functions-python/langgraph/) · 个人维护
 
 **将已编译的 LangGraph 图部署为 Azure Functions HTTP 端点的适配器**
 

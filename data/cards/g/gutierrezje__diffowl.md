@@ -1,6 +1,6 @@
 # gutierrezje/diffowl
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/gutierrezje/diffowl) · [官网](https://gutierrezje.github.io/diffowl/) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gutierrezje/diffowl) · [官网](https://gutierrezje.github.io/diffowl/) · 个人维护
 
 **开发者终端里的本地 AI 代码评审 CLI：审查变更并跟踪发现**
 

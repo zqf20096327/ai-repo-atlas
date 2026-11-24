@@ -1,6 +1,6 @@
 # ihabkhaled/ClawAI
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ihabkhaled/ClawAI) · [官网](https://claw-ai.co) · 个人维护
+⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ihabkhaled/ClawAI) · [官网](https://claw-ai.co) · 个人维护
 
 **本地优先的多模型 AI 工作区：统一接入 22 个模型提供商**
 

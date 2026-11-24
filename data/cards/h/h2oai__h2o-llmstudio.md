@@ -1,6 +1,6 @@
 # h2oai/h2o-llmstudio
 
-⭐ 5,199 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/h2oai/h2o-llmstudio) · [官网](https://h2o.ai) · 组织维护
+⭐ 5,199 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/h2oai/h2o-llmstudio) · [官网](https://h2o.ai) · 组织维护
 
 **面向微调 LLM 的无代码 GUI 框架**
 

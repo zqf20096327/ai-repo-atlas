@@ -1,6 +1,6 @@
 # lfpoulain/ragator
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lfpoulain/ragator) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lfpoulain/ragator) · 个人维护
 
 **对 YouTube 频道问答并给出精确时间戳引用**
 

@@ -1,6 +1,6 @@
 # timoncool/LavaSR_portable_ru
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/timoncool/LavaSR_portable_ru) · [官网](https://github.com/timoncool/speech-studio) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/timoncool/LavaSR_portable_ru) · [官网](https://github.com/timoncool/speech-studio) · 个人维护
 
 **Windows 便携语音增强工具：LavaSR 超分辨率+降噪，一键安装离线运行**
 

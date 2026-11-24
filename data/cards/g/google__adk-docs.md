@@ -1,6 +1,6 @@
 # google/adk-docs
 
-⭐ 1,542 · Shell · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google/adk-docs) · [官网](https://adk.dev) · 组织维护
+⭐ 1,543 · Shell · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google/adk-docs) · [官网](https://adk.dev) · 组织维护
 
 **构建、评估与部署 AI agent 的代码优先多语言框架**
 

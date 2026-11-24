@@ -1,6 +1,6 @@
 # game-life04/weekly-tech-agent
 
-⭐ 3 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/game-life04/weekly-tech-agent) · 组织维护 · 中文 README
+⭐ 3 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/game-life04/weekly-tech-agent) · 组织维护 · 中文 README
 
 **每日自动收集 AI/开源动态并生成日报周报的 Agent**
 

@@ -1,6 +1,6 @@
 # InternLM/lmdeploy
 
-⭐ 8,154 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/InternLM/lmdeploy) · [官网](https://lmdeploy.readthedocs.io/en/latest) · 组织维护 · 中文 README
+⭐ 8,156 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/InternLM/lmdeploy) · [官网](https://lmdeploy.readthedocs.io/en/latest) · 组织维护 · 中文 README
 
 **LLM 压缩、部署与推理服务工具包**
 

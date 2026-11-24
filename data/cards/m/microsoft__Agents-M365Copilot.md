@@ -1,6 +1,6 @@
 # microsoft/Agents-M365Copilot
 
-⭐ 117 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/Agents-M365Copilot) · 组织维护
+⭐ 118 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agents-M365Copilot) · 组织维护
 
 **微软官方的 Microsoft 365 Copilot API 客户端库，供开发者构建 AI 应用**
 

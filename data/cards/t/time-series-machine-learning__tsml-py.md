@@ -1,6 +1,6 @@
 # time-series-machine-learning/tsml-py
 
-⭐ 11 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/time-series-machine-learning/tsml-py) · 个人维护
+⭐ 11 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/time-series-machine-learning/tsml-py) · 个人维护
 
 **时间序列机器学习算法的实验性 Python 工具箱**
 

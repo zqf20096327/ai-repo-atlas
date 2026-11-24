@@ -1,6 +1,6 @@
 # Developer-Y/cs-video-courses
 
-⭐ 84,909 · 推送 2026-11-20 · [GitHub](https://github.com/Developer-Y/cs-video-courses) · 个人维护
+⭐ 84,922 · 推送 2026-11-20 · [GitHub](https://github.com/Developer-Y/cs-video-courses) · 个人维护
 
 **计算机科学公开课视频清单：按学科整理大学课程链接**
 

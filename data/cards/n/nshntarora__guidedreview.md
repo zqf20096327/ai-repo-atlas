@@ -1,6 +1,6 @@
 # nshntarora/guidedreview
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nshntarora/guidedreview) · [官网](https://guidedreview.dev) · 个人维护
+⭐ 60 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nshntarora/guidedreview) · [官网](https://guidedreview.dev) · 个人维护
 
 **把 git diff / GitHub PR 变成有序 AI 代码走查的开发者工具**
 

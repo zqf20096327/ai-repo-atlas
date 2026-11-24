@@ -1,6 +1,6 @@
 # yueliu1999/Awesome-Jailbreak-on-LLMs
 
-⭐ 2,036 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) · 组织维护
+⭐ 2,041 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) · 组织维护
 
 **LLM 越狱攻击方法论文/代码/数据集汇总清单**
 

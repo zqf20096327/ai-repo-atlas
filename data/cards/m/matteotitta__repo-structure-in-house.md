@@ -1,6 +1,6 @@
 # matteotitta/repo-structure-in-house
 
-⭐ 73 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/matteotitta/repo-structure-in-house) · [官网](https://genesysgrowth.com) · 个人维护
+⭐ 74 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/matteotitta/repo-structure-in-house) · [官网](https://genesysgrowth.com) · 个人维护
 
 **给 Claude Code 提供公司营销上下文的仓库模板**
 

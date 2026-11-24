@@ -1,6 +1,6 @@
 # danger-dream/Parrot
 
-⭐ 24 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/danger-dream/Parrot) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/danger-dream/Parrot) · 个人维护 · 中文 README
 
 **多渠道 AI 协议代理网关，TG Bot 图形化管理上游账号**
 

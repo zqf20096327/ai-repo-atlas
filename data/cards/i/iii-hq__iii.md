@@ -1,6 +1,6 @@
 # iii-hq/iii
 
-⭐ 18,936 · Rust · 推送 2026-11-22 · [GitHub](https://github.com/iii-hq/iii) · [官网](https://iii.dev) · 组织维护 · 中文 README
+⭐ 18,938 · Rust · 推送 2026-11-24 · [GitHub](https://github.com/iii-hq/iii) · [官网](https://iii.dev) · 组织维护 · 中文 README
 
 **开发者用函数引擎：把服务、agent、API 组合为可调用系统**
 

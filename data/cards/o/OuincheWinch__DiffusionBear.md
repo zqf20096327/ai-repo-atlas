@@ -1,6 +1,6 @@
 # OuincheWinch/DiffusionBear
 
-⭐ 30 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/OuincheWinch/DiffusionBear) · [官网](https://www.diffusionbear.com/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/OuincheWinch/DiffusionBear) · [官网](https://www.diffusionbear.com/) · 个人维护
 
 **Apple Silicon Mac 本地 AI 图像生成工作室应用**
 

@@ -1,10 +1,10 @@
 # rust-ml/linfa
 
-⭐ 4,770 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/rust-ml/linfa) · 组织维护
+⭐ 4,770 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rust-ml/linfa) · 组织维护
 
-**Rust 机器学习工具包：经典 ML 算法与预处理库**
+**Rust 机器学习工具箱：提供经典 ML 算法与预处理**
 
-用 Rust 构建机器学习应用的工具包，定位类似 Python 的 scikit-learn。以子包形式提供约 20 类经典算法：监督学习（Naive Bayes、随机森林、SVM、线性/逻辑回归等）、无监督学习（K-Means、DBSCAN、t-SNE 等）、预处理（归一化、tf-idf、PCA 等）。线性代数默认用纯 Rust 实现，可通过 feature 切换 OpenBLAS/Netlib/Intel MKL 后端；支持 wasm32-unknown-unknown 浏览器 WASM。以 crates.io 上的 Cargo 包发布。
+linfa 是以 Rust 编写的机器学习框架，目标是为构建 ML 应用提供综合工具集，定位类似 Python 的 scikit-learn，聚焦常规预处理任务与经典机器学习算法。以子 crate 形式组织约 18 个算法包，涵盖朴素贝叶斯、聚类、集成方法、SVM、决策树、线性/逻辑回归、降维与预处理等，各包标注 Tested/Tested-Benchmarked 状态。支持 WASM 目标（wasm32-unknown-unknown），可选外部 BLAS/LAPACK 后端（OpenBLAS/Netlib/Intel MKL），默认使用纯 Rust 线性代数实现。
 
 ## 筛选速览
 
@@ -20,20 +20,19 @@
 
 ## 能力要点
 
-- 约 20 个子包覆盖监督/无监督学习与预处理算法
-- BLAS/LAPACK 后端可选（OpenBLAS/Netlib/Intel MKL），默认纯 Rust 实现
-- 支持浏览器 WASM（wasm-bindgen feature）
-- 部分算法支持 partial fit 增量更新（ftrl、logistic）
+- 约 18 个算法子包，覆盖监督/无监督学习与预处理
+- 支持 wasm32-unknown-unknown 的浏览器 WASM 编译
+- 可选 OpenBLAS/Netlib/Intel MKL 线性代数后端，默认纯 Rust 实现
 
 ## 适用场景
 
-- 在 Rust 项目中使用经典机器学习算法建模
-- 对无标签数据做聚类与降维分析
-- 文本特征化（count vectorization/tf-idf）与数据预处理
+- 在 Rust 项目中做分类、回归、聚类等经典机器学习任务
+- 数据预处理：归一化、whitening、tf-idf 向量化
+- 在浏览器 WASM 环境中运行机器学习推理
 
 ## 场景标签
 
- · 领域:机器学习/科学计算
+ · 领域:机器学习框架/科学计算
 
 ## 证据(README 行号)
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-20 · 置信度 high · 依据 README sha `775d27ab5939` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `158c6b6cdfe7` · [字段定义](../../DATASET.md)*

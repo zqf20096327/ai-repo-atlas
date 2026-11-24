@@ -1,6 +1,6 @@
 # jackson-cmd/risk-aware-trading-agents
 
-⭐ 424 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jackson-cmd/risk-aware-trading-agents) · [官网](https://jackson-cmd.github.io/risk-aware-trading-agents/) · 个人维护 · 中文 README
+⭐ 471 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jackson-cmd/risk-aware-trading-agents) · [官网](https://jackson-cmd.github.io/risk-aware-trading-agents/) · 个人维护 · 中文 README
 
 **美股 LLM 交易智能体基准与排行榜，附带可回测的交易智能体**
 

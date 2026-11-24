@@ -1,6 +1,6 @@
 # ethiack/ai4eh
 
-⭐ 306 · Python · MIT · 推送 2025-11-28 · [GitHub](https://github.com/ethiack/ai4eh) · [官网](https://ethiack.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向学习者的 AI 应用安全（道德黑客）研讨课与实践工具集**
 
@@ -11,7 +11,7 @@ Ethiack 维护的 AI for Ethical Hacking 研讨会仓库，提供教程指南、
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

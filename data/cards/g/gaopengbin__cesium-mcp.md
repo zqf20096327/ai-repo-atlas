@@ -1,6 +1,6 @@
 # gaopengbin/cesium-mcp
 
-⭐ 153 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gaopengbin/cesium-mcp) · [官网](https://gaopengbin.github.io/cesium-mcp/) · 个人维护 · 中文 README
+⭐ 153 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gaopengbin/cesium-mcp) · [官网](https://gaopengbin.github.io/cesium-mcp/) · 个人维护 · 中文 README
 
 **给 AI agent 的 CesiumJS 三维地球控制运行时（MCP/WebMCP/函数调用）**
 

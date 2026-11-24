@@ -1,6 +1,6 @@
 # coolbirdzik/CB-File-Hub
 
-⭐ 20 · Dart · 推送 2026-11-22 · [GitHub](https://github.com/coolbirdzik/CB-File-Hub) · 个人维护
+⭐ 20 · Dart · 推送 2026-11-23 · [GitHub](https://github.com/coolbirdzik/CB-File-Hub) · 个人维护
 
 **跨平台文件管理器，带 AI 助手做自然语言文件搜索**
 

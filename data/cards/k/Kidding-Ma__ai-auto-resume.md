@@ -1,6 +1,6 @@
 # Kidding-Ma/ai-auto-resume
 
-⭐ 24 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Kidding-Ma/ai-auto-resume) · 个人维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Kidding-Ma/ai-auto-resume) · 个人维护 · 中文 README
 
 **面向求职者，用 AI 一句话生成 LaTeX 简历 PDF**
 

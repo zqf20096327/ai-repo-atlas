@@ -1,6 +1,6 @@
 # leaderiop/SpecForge
 
-⭐ 42 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/leaderiop/SpecForge) · 组织维护
+⭐ 43 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/leaderiop/SpecForge) · 组织维护
 
 **把团队规则编译成确定性检查的规范工具，供 AI agent 使用**
 

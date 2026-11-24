@@ -1,6 +1,6 @@
 # venslabs/vens
 
-⭐ 24 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/venslabs/vens) · 组织维护
+⭐ 24 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/venslabs/vens) · 组织维护
 
 **用 LLM 按系统上下文对 CVE 做风险重评分的 CLI 工具**
 

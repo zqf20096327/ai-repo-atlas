@@ -1,6 +1,6 @@
 # logitcai/tinybrain
 
-⭐ 368 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/logitcai/tinybrain) · 个人维护 · 中文 README
+⭐ 438 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/logitcai/tinybrain) · 个人维护 · 中文 README
 
 **从零实现的中文小语言模型全流程项目：数据、分词器、训练到强化学习**
 

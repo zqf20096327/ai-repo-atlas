@@ -1,6 +1,6 @@
 # dapr/dapr-agents
 
-⭐ 777 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/dapr/dapr-agents) · [官网](https://docs.dapr.io/developing-applications/dapr-agents/) · 组织维护
+⭐ 776 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/dapr/dapr-agents) · [官网](https://docs.dapr.io/developing-applications/dapr-agents/) · 组织维护
 
 **面向开发者的 Dapr 持久化 AI agent 构建框架**
 

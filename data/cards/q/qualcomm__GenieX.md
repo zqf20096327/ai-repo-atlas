@@ -1,6 +1,6 @@
 # qualcomm/GenieX
 
-⭐ 8,543 · Go · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/qualcomm/GenieX) · [官网](https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex) · 组织维护
+⭐ 8,547 · Go · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/qualcomm/GenieX) · [官网](https://geniex.aihub.qualcomm.com/en/get-started/what-is-geniex) · 组织维护
 
 **高通设备上本地运行 LLM/VLM 的推理运行时**
 

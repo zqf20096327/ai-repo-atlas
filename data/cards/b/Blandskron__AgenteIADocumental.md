@@ -1,6 +1,6 @@
 # Blandskron/AgenteIADocumental
 
-⭐ 13 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Blandskron/AgenteIADocumental) · [官网](https://blandskron.github.io/AgenteIADocumental/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Blandskron/AgenteIADocumental) · [官网](https://blandskron.github.io/AgenteIADocumental/) · 组织维护
 
 **面向文档管理与问答的开源 RAG 平台**
 

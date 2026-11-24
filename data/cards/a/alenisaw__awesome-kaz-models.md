@@ -1,6 +1,6 @@
 # alenisaw/awesome-kaz-models
 
-⭐ 38 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alenisaw/awesome-kaz-models) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/alenisaw/awesome-kaz-models) · 个人维护
 
 **哈萨克语 AI 模型策展清单：收录已验证的公开模型**
 

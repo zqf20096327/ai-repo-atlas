@@ -1,6 +1,6 @@
 # zilet/cairn
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/zilet/cairn) · [官网](https://codespaces.new/zilet/cairn) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zilet/cairn) · [官网](https://codespaces.new/zilet/cairn) · 个人维护
 
 **自托管健康教练系统：整合训练/饮食/睡眠/体检数据给出每日建议**
 

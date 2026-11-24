@@ -1,6 +1,6 @@
 # spences10/mcp-turso-cloud
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/spences10/mcp-turso-cloud) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/spences10/mcp-turso-cloud) · 个人维护
 
 **让 LLM 通过 MCP 直接管理与查询 Turso 数据库的服务器**
 

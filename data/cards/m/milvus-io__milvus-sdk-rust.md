@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-rust
 
-⭐ 100 · Rust · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/milvus-io/milvus-sdk-rust) · 组织维护
+⭐ 100 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/milvus-io/milvus-sdk-rust) · 组织维护
 
 **给 Rust 开发者的 Milvus 向量数据库官方 SDK**
 

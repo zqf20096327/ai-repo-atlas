@@ -1,6 +1,6 @@
 # headroomlabs-ai/headroom
 
-⭐ 80,485 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/headroomlabs-ai/headroom) · [官网](https://docs.headroomlabs.ai/docs) · 组织维护
+⭐ 80,672 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/headroomlabs-ai/headroom) · [官网](https://docs.headroomlabs.ai/docs) · 组织维护
 
 **为 AI agent 压缩工具输出/日志/RAG 内容以减少输入 token 的层**
 

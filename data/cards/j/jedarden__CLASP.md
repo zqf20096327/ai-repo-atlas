@@ -1,6 +1,6 @@
 # jedarden/CLASP
 
-⭐ 28 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/jedarden/CLASP) · [官网](https://jedarden.com/projects/clasp/) · 个人维护
+⭐ 28 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jedarden/CLASP) · [官网](https://jedarden.com/projects/clasp/) · 个人维护
 
 **让 Claude Code 接入任意 LLM 提供商的 Go 代理**
 

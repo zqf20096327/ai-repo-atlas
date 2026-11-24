@@ -1,6 +1,6 @@
 # JAICHANGPARK/ASD-STE100
 
-⭐ 43 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/JAICHANGPARK/ASD-STE100) · [官网](https://github.com/JAICHANGPARK/ASD-STE100#readme) · 个人维护
+⭐ 47 · JavaScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/JAICHANGPARK/ASD-STE100) · [官网](https://github.com/JAICHANGPARK/ASD-STE100#readme) · 个人维护
 
 **给 Claude Code 用户的 ASD-STE100 受控英语插件、技能与 CLI**
 

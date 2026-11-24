@@ -1,6 +1,6 @@
 # risa-labs-inc/BossConsole
 
-⭐ 819 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/risa-labs-inc/BossConsole) · [官网](https://bossconsole.ai) · 组织维护
+⭐ 818 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/risa-labs-inc/BossConsole) · [官网](https://bossconsole.ai) · 组织维护
 
 **给企业与科研的常驻 AI agent 多平台操作台（JVM 桌面）**
 

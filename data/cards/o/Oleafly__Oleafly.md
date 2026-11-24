@@ -1,6 +1,6 @@
 # Oleafly/Oleafly
 
-⭐ 1,277 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Oleafly/Oleafly) · [官网](https://oleafly.com) · 组织维护 · 中文 README
+⭐ 1,284 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Oleafly/Oleafly) · [官网](https://oleafly.com) · 组织维护 · 中文 README
 
 **科研写作的开源 LaTeX/Typst 协作编辑器，内置 AI agent**
 

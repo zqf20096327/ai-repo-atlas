@@ -1,6 +1,6 @@
 # akandr/bc250
 
-⭐ 435 · Python · NOASSERTION · 推送 2026-09-13 · [GitHub](https://github.com/akandr/bc250) · 个人维护
+⭐ 437 · Python · NOASSERTION · 推送 2026-09-13 · [GitHub](https://github.com/akandr/bc250) · 个人维护
 
 **AMD BC-250（PS5 同源 APU）本地 LLM 家用服务器搭建指南**
 

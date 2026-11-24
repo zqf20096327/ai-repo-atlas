@@ -1,10 +1,10 @@
 # vllm-project/semantic-router
 
-⭐ 6,518 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vllm-project/semantic-router) · [官网](https://vllm-sr.ai) · 组织维护
+⭐ 6,522 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/semantic-router) · [官网](https://vllm-sr.ai) · 组织维护
 
-**为智能体提供多模型统一 API 的可编程语义路由决策层**
+**给 agent 多模型调用提供可编程路由决策层**
 
-vLLM 旗下的开源路由组件：为 agent harness 提供单一 API，按策略为每次调用选择或组合多个已配置的模型后端，覆盖本地、私有与云端计算，并支持按质量、延迟、成本设置优先级，以及将调用限制在批准的部署位置。agent 循环、工具与任务状态仍由用户侧 harness 承担，Router 只负责决策分发。提供 install.sh 脚本安装，pip/uv 与 agent 驱动安装见安装指南；附浏览器在线试用入口（System Duo）。
+vLLM Semantic Router 定位为模型与算力之上的可编程决策层：为 agent harness 提供统一 API，按用户策略为每次调用选择或组合多个模型，并在本地、私有与云等已配置后端之间路由；支持按质量、延迟、成本设置优先级，约束调用保持在批准的位置。项目随附 Decision/Vela 系列路由模型与白皮书、论文，通过安装脚本或 pip/uv 安装，并提供浏览器内在线试用（System Duo）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ vLLM 旗下的开源路由组件：为 agent harness 提供单一 API，按策�
 
 ## 能力要点
 
-- 单 API 接入多模型，按策略选择或组合模型
-- 支持本地/私有/云多后端与部署位置约束
-- 按质量、延迟、成本优先级配置路由
-- 提供 Decision/Vela 系列开源路由模型与浏览器在线试用
+- 单一 API 路由多个模型，支持选择与组合（mixture-of-models）
+- 按策略在本地、私有、云后端间路由并约束调用位置
+- 随附 Decision、Vela 系列开放路由模型
+- 提供幻觉检测（LettuceDetect v2）作为 vLLM endpoint
 
 ## 适用场景
 
-- 让 agent harness 在多个模型后端间按任务自动路由
-- 按成本与延迟优先级管理 LLM 调用
-- 将模型调用限制在企业批准的部署位置
+- agent 应用接入多个模型并按任务自动选择或组合
+- 按质量、延迟、成本优先级控制模型调用
+- 将推理调用限制在私有或合规的算力位置
 
 ## 场景标签
 
@@ -37,9 +37,8 @@ vLLM 旗下的开源路由组件：为 agent harness 提供单一 API，按策�
 
 ## 证据(README 行号)
 
-> L28: Give your agent harness one API for many models. vLLM Semantic Router selects or combines models for each call, gui
-> L30: Your harness keeps the agent loop, tools, and task state. The Router chooses among configured backends across local
-> L46: curl -fsSL https://vllm-sr.ai/install.sh | bash -s -- --channel stable
+> L29: Give your agent harness one API for many models. vLLM Semantic Router selects or combines models for each call, gui
+> L31: Your harness keeps the agent loop, tools, and task state. The Router chooses among configured backends across local
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `569af8120d8b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1aea47a48b54` · [字段定义](../../DATASET.md)*

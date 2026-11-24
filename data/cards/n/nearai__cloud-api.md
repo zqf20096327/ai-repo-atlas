@@ -1,6 +1,6 @@
 # nearai/cloud-api
 
-⭐ 17 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/nearai/cloud-api) · [官网](https://cloud.near.ai) · 组织维护
+⭐ 17 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/nearai/cloud-api) · [官网](https://cloud.near.ai) · 组织维护
 
 **Rust 实现的 AI 推理云 API：模型推理、会话与组织管理**
 

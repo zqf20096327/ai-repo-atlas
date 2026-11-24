@@ -1,10 +1,10 @@
 # aws-samples/generative-ai-use-cases
 
-⭐ 1,403 · TypeScript · MIT-0 · 推送 2026-11-22 · [GitHub](https://github.com/aws-samples/generative-ai-use-cases) · [官网](https://aws-samples.github.io/generative-ai-use-cases/en/) · 组织维护 · 中文 README
+⭐ 1,403 · TypeScript · MIT-0 · 推送 2026-11-23 · [GitHub](https://github.com/aws-samples/generative-ai-use-cases) · [官网](https://aws-samples.github.io/generative-ai-use-cases/en/) · 组织维护
 
-**企业安全落地生成式 AI 的 AWS 参考应用（GenU）**
+**面向企业的生成式 AI 业务用例参考应用（部署在 AWS）**
 
-AWS 官方示例仓库 GenU，通过 AWS CDK 部署到企业环境的应用实现。默认提供聊天、文本生成、摘要、会议纪要、翻译、图像/视频生成、语音对话等用例，支持 RAG 聊天（Knowledge Base/Kendra）、Agent 导入（Bedrock Agents/AgentCore/Flows）与 MCP 外部服务接入；Use Case Builder 用自然语言提示模板创建自定义用例并共享。部署依赖 CDK 执行环境，需在 cdk.json 配置模型区域与模型访问。
+aws-samples 维护的参考应用 GenU：以 AWS CDK 部署到 AWS 云端，面向企业员工提供聊天、文本生成、摘要、会议纪要、翻译、图像/视频生成、语音对话、RAG 聊天等一组业务用例。机制上以 Knowledge Bases for Amazon Bedrock 作为 RAG 信息源，支持 Agent Builder 无代码创建 agent、Use Case Builder 用自然语言模板生成自定义用例，并提供按用户的 token 用量与成本统计、SAML 认证与 VPC 内网部署选项。部署需 CDK 环境，费用按 AWS 按量计费。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ AWS 官方示例仓库 GenU，通过 AWS CDK 部署到企业环境的应用实�
 
 ## 能力要点
 
-- 内置聊天/摘要/翻译/会议纪要/图像视频生成等标准用例，可按选项隐藏
-- RAG 聊天支持 Knowledge Base 与 Kendra，含解析、分块、重排等高级特性
-- 支持导入 Bedrock Agents/AgentCore/Bedrock Flows，并可通过 MCP 接入外部服务
-- Use Case Builder 由提示模板自动生成用例界面，支持 JSON 导出共享
+- 一组内置生成式 AI 用例：聊天/摘要/翻译/会议纪要/图像视频生成/语音对话
+- RAG Chat 以 Knowledge Bases for Amazon Bedrock 为信息源，支持高级解析、查询分解与重排
+- Agent Builder 与 Use Case Builder 无代码创建并共享 agent/自定义用例
+- 按用户与用例的 token 用量、成本统计与 CloudWatch 监控，支持 SAML 与封闭网络模式
 
 ## 适用场景
 
-- 在企业内部安全地部署 LLM 聊天、翻译、摘要等日常用例
-- 基于公司积累的文档构建 RAG 问答系统
-- 把自建的 Bedrock Agent 在组织内统一分发使用
-- 用提示模板快速创建并共享业务自定义机器人
+- 在企业内安全地部署一套生成式 AI 工作台供员工使用
+- 基于公司内部文档搭建 RAG 问答系统
+- 无代码创建业务 agent 与自定义提示词用例并分发给同事
+- 统计各部门生成式 AI 的用量与成本
 
 ## 场景标签
 
-`聊天机器人` `RAG` `图像生成` `视频生成` · 领域:对话与助手
+`聊天机器人` `图像生成` `视频生成` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L5: Well-architected application implementation with business use cases for utilizing generative AI in business operatio
-> L25: GenU provides a variety of standard use cases leveraging generative AI. These use cases can serve as seeds for idea
-> L126: GenU deployment uses AWS Cloud Development Kit (CDK). If you cannot prepare a CDK execution environment, refer to 
+> L20: GenU provides a variety of standard use cases leveraging generative AI. These use cases can serve as seeds for idea
+> L75: GenU provides a RAG Chat use case.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d8de1dbb15b3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f22c66a72ece` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # pie-project/pie
 
-⭐ 245 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
+⭐ 245 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
 
 **可编程高性能模型推理引擎，用 WebAssembly inferlet 驱动推理**
 

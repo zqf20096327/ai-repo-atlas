@@ -1,6 +1,6 @@
 # GetStream/nextjs-ai-chat-app
 
-⭐ 11 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/GetStream/nextjs-ai-chat-app) · [官网](https://getstream.io/blog/ai-chat-nextjs/) · 组织维护
+⭐ 11 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/GetStream/nextjs-ai-chat-app) · [官网](https://getstream.io/blog/ai-chat-nextjs/) · 组织维护
 
 **演示在 Next.js 聊天应用中接入流式 AI 回复的示例工程**
 

@@ -1,6 +1,6 @@
 # harukikuri/spotnote
 
-⭐ 28 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/harukikuri/spotnote) · [官网](https://spotnote-weld.vercel.app) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/harukikuri/spotnote) · [官网](https://spotnote-weld.vercel.app) · 个人维护
 
 **让前端 UI 反馈直达编码 agent 的 Vite 插件**
 

@@ -1,6 +1,6 @@
 # ASEpochs/ai-digital-teacher
 
-⭐ 14 · Python · 推送 2026-11-22 · [GitHub](https://github.com/ASEpochs/ai-digital-teacher) · [官网](https://asepochs.github.io/ai-digital-teacher/) · 个人维护 · 中文 README
+⭐ 14 · Python · 推送 2026-11-23 · [GitHub](https://github.com/ASEpochs/ai-digital-teacher) · [官网](https://asepochs.github.io/ai-digital-teacher/) · 个人维护 · 中文 README
 
 **多模态课堂观察 Agent：摄像头识别学生行为并提醒、生成报告**
 

@@ -1,6 +1,6 @@
 # wearetheone777/dumate2api
 
-⭐ 45 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/wearetheone777/dumate2api) · [官网](https://github.com/wearetheone777/dumate2api#readme) · 个人维护 · 中文 README
+⭐ 48 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wearetheone777/dumate2api) · [官网](https://github.com/wearetheone777/dumate2api#readme) · 个人维护 · 中文 README
 
 **把四个国内上游转成三协议 OpenAI 兼容网关，供 CLI 编程客户端使用**
 

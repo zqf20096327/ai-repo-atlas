@@ -1,6 +1,6 @@
 # dlazy-ai/ecommerce-skills
 
-⭐ 87 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/dlazy-ai/ecommerce-skills) · 组织维护 · 中文 README
+⭐ 87 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dlazy-ai/ecommerce-skills) · 组织维护 · 中文 README
 
 **电商视觉生产的 Agent 技能库：26 个可组合 skill.md 生成商品图**
 

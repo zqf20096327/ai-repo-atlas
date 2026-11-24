@@ -1,6 +1,6 @@
 # kadaliao/open-super-agent
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kadaliao/open-super-agent) · [官网](https://kadaliao.github.io/open-super-agent/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kadaliao/open-super-agent) · [官网](https://kadaliao.github.io/open-super-agent/) · 个人维护 · 中文 README
 
 **自托管的常驻 AI 队友：能聊天派活并操作电脑**
 

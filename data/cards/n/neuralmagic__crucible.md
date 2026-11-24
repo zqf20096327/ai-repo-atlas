@@ -1,6 +1,6 @@
 # neuralmagic/crucible
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/neuralmagic/crucible) · [官网](https://neuralmagic.github.io/crucible/) · 组织维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/neuralmagic/crucible) · [官网](https://neuralmagic.github.io/crucible/) · 组织维护
 
 **以 Starlark 声明任务图运行 agent 工作流与自动优化的引擎**
 

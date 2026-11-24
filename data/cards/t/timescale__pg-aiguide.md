@@ -1,6 +1,6 @@
 # timescale/pg-aiguide
 
-⭐ 1,886 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/timescale/pg-aiguide) · 组织维护
+⭐ 1,887 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/timescale/pg-aiguide) · 组织维护
 
 **给 AI 编码工具提供 PostgreSQL 知识的 MCP 服务器与技能包**
 

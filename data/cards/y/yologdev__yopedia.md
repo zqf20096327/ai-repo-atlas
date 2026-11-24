@@ -1,6 +1,6 @@
 # yologdev/yopedia
 
-⭐ 76 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/yologdev/yopedia) · [官网](https://yologdev.github.io/yopedia/) · 个人维护
+⭐ 76 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/yologdev/yopedia) · [官网](https://yologdev.github.io/yopedia/) · 个人维护
 
 **人与 agent 共读共写的开源 wiki，由 agent 自主构建维护**
 

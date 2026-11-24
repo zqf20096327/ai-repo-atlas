@@ -1,6 +1,6 @@
 # stubbi/hermes-operator
 
-⭐ 44 · Go · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/stubbi/hermes-operator) · [官网](https://paperclip.inc/hermes-agent) · 组织维护
+⭐ 44 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/stubbi/hermes-operator) · [官网](https://paperclip.inc/hermes-agent) · 组织维护
 
 **在 Kubernetes 上部署管理 hermes-agent AI 代理的 Operator**
 

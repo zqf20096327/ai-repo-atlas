@@ -1,6 +1,6 @@
 # NVIDIA/NemoClaw
 
-⭐ 23,069 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/NemoClaw) · [官网](https://docs.nvidia.com/nemoclaw/latest/) · 组织维护
+⭐ 23,079 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/NemoClaw) · [官网](https://docs.nvidia.com/nemoclaw/latest/) · 组织维护
 
 **在 NVIDIA OpenShell 沙箱中更安全运行 AI agent 的参考栈**
 

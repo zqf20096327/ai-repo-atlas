@@ -1,6 +1,6 @@
 # XiaomingX/indie-hacker-tools-plus
 
-⭐ 1,943 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/XiaomingX/indie-hacker-tools-plus) · [官网](https://twitter.com/seclink) · 个人维护 · 中文 README
+⭐ 1,944 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/XiaomingX/indie-hacker-tools-plus) · [官网](https://twitter.com/seclink) · 个人维护 · 中文 README
 
 **面向独立开发者出海的精选工具与技术栈清单**
 

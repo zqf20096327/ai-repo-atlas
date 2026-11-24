@@ -1,6 +1,6 @@
 # AmazingAng/old-coder
 
-⭐ 761 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/AmazingAng/old-coder) · 个人维护 · 中文 README
+⭐ 766 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AmazingAng/old-coder) · 个人维护 · 中文 README
 
 **给编码 agent 的证据优先开发技能：让代码过测试关卡**
 

@@ -1,6 +1,6 @@
 # DeepLearningForPhysicsResearchBook/deep-learning-physics
 
-⭐ 79 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics) · [官网](http://www.deeplearningphysics.org/) · 组织维护
+⭐ 80 · Jupyter Notebook · NOASSERTION · 推送 2026-03-06 · [GitHub](https://github.com/DeepLearningForPhysicsResearchBook/deep-learning-physics) · [官网](http://www.deeplearningphysics.org/) · 组织维护
 
 **物理研究深度学习教材的配套习题仓库**
 

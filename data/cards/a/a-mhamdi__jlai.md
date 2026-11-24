@@ -1,6 +1,6 @@
 # a-mhamdi/jlai
 
-⭐ 11 · Julia · MIT · 推送 2026-11-16 · [GitHub](https://github.com/a-mhamdi/jlai) · [官网](https://a-mhamdi.github.io/jlai/) · 个人维护
+⭐ 11 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/a-mhamdi/jlai) · [官网](https://a-mhamdi.github.io/jlai/) · 个人维护
 
 **用 Julia 学习 AI 算法的课程材料库（讲义+实验+代码）**
 

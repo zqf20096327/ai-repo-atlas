@@ -1,6 +1,6 @@
 # basiclines/rampa-studio
 
-⭐ 16 · TypeScript · MIT · 推送 2026-03-20 · [GitHub](https://github.com/basiclines/rampa-studio) · [官网](https://rampa.design) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/basiclines/rampa-studio) · [官网](https://rampa.design) · 个人维护
 
 **面向 AI agent 与设计者的 OKLCH 色板生成工具箱**
 

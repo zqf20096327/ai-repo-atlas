@@ -1,6 +1,6 @@
 # demiralpdev/Caphlon-Model
 
-⭐ 20 · HTML · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/demiralpdev/Caphlon-Model) · [官网](https://caphlon.dev) · 个人维护
+⭐ 22 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/demiralpdev/Caphlon-Model) · [官网](https://caphlon.dev) · 个人维护
 
 **Qwen 3.8 27B 的 6.87 GiB GGUF 轻量版模型权重**
 

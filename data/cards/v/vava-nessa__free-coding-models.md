@@ -1,6 +1,6 @@
 # vava-nessa/free-coding-models
 
-⭐ 2,946 · HTML · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/vava-nessa/free-coding-models) · [官网](https://freecodingmodels.vercel.app) · 个人维护
+⭐ 2,946 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/vava-nessa/free-coding-models) · [官网](https://freecodingmodels.vercel.app) · 个人维护
 
 **帮开发者实时测速并挑选免费编码 LLM 的 CLI 工具**
 

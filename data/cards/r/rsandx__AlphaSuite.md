@@ -1,6 +1,6 @@
 # rsandx/AlphaSuite
 
-⭐ 249 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rsandx/AlphaSuite) · [官网](https://alphasuite.aitransformer.net) · 个人维护
+⭐ 250 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/rsandx/AlphaSuite) · [官网](https://alphasuite.aitransformer.net) · 个人维护
 
 **面向交易者的开源量化分析与策略回测平台**
 

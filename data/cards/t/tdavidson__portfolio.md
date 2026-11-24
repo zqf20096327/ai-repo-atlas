@@ -1,6 +1,6 @@
 # tdavidson/portfolio
 
-⭐ 76 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/tdavidson/portfolio) · [官网](https://hemrock.com/portfolio) · 个人维护
+⭐ 77 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tdavidson/portfolio) · [官网](https://hemrock.com/portfolio) · 个人维护
 
 **自托管的风险投资机构运营平台：投前到 LP 报告全流程，接入自有 AI**
 

@@ -1,6 +1,6 @@
 # AppsTRDesign/AI-IQ-300
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AppsTRDesign/AI-IQ-300) · [官网](https://wplugins.shop) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AppsTRDesign/AI-IQ-300) · [官网](https://wplugins.shop) · 个人维护
 
 **本地与云端 LLM 的自主开发与自动化命令中心**
 

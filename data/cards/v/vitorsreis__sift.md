@@ -1,6 +1,6 @@
 # vitorsreis/sift
 
-⭐ 15 · PHP · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vitorsreis/sift) · 个人维护
+⭐ 15 · PHP · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vitorsreis/sift) · 个人维护
 
 **面向 PHP 项目的 Composer 原生 agent 技能管理工具**
 

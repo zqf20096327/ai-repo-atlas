@@ -1,6 +1,6 @@
 # vllm-project/vllm
 
-⭐ 97,358 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vllm-project/vllm) · [官网](https://vllm.ai)
+⭐ 97,424 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/vllm-project/vllm) · [官网](https://vllm.ai)
 
 **面向开发者的 LLM 高吞吐推理与服务平台**
 

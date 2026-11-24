@@ -1,6 +1,6 @@
 # google/adk-python
 
-⭐ 22,313 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/google/adk-python) · [官网](https://google.github.io/adk-docs/) · 组织维护
+⭐ 22,330 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/google/adk-python) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
 **面向开发者的构建、评估与部署 AI Agent 的 Python 框架**
 

@@ -1,6 +1,6 @@
 # AkaraChen/aghub
 
-⭐ 274 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AkaraChen/aghub) · [官网](https://aghub.akr.moe) · 个人维护 · 中文 README
+⭐ 274 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AkaraChen/aghub) · [官网](https://aghub.akr.moe) · 个人维护 · 中文 README
 
 **AI 编程 agent 的统一配置管理桌面应用（22+ 种）**
 

@@ -1,6 +1,6 @@
 # kagan-sh/kagan-opencode
 
-⭐ 13 · TypeScript · MIT · 推送 2026-07-28 · [GitHub](https://github.com/kagan-sh/kagan-opencode) · [官网](http://kagan.sh) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kagan-sh/kagan-opencode) · [官网](http://kagan.sh) · 组织维护
 
 **OpenCode 插件：把 AI 编码代理工作变为看板上的受监督任务**
 

@@ -1,6 +1,6 @@
 # tzolov/playground-flight-booking
 
-⭐ 373 · Java · 推送 2026-02-14 · [GitHub](https://github.com/tzolov/playground-flight-booking) · [官网](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html) · 个人维护
+⭐ 374 · Java · 推送 2026-02-14 · [GitHub](https://github.com/tzolov/playground-flight-booking) · [官网](https://docs.spring.io/spring-ai/reference/1.0-SNAPSHOT/index.html) · 个人维护
 
 **基于 Spring AI 的航班预订专家系统演示（RAG+工具调用）**
 

@@ -1,6 +1,6 @@
 # flaser381/spotilyze
 
-⭐ 12 · TypeScript · AGPL-3.0 · 推送 2026-06-29 · [GitHub](https://github.com/flaser381/spotilyze) · 个人维护
+⭐ 13 · TypeScript · AGPL-3.0 · 推送 2026-06-29 · [GitHub](https://github.com/flaser381/spotilyze) · 个人维护
 
 **本地分析 Spotify 收听史的工具：听味变化与可选 AI 解读**
 

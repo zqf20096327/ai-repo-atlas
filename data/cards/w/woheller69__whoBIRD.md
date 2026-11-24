@@ -1,6 +1,6 @@
 # woheller69/whoBIRD
 
-⭐ 929 · Kotlin · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/woheller69/whoBIRD) · 个人维护
+⭐ 931 · Kotlin · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/woheller69/whoBIRD) · 个人维护
 
 **离线实时识别鸟鸣的 Android 应用（BirdNET 模型）**
 

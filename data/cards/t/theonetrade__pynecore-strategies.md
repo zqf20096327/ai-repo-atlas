@@ -1,6 +1,6 @@
 # theonetrade/pynecore-strategies
 
-⭐ 56 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/theonetrade/pynecore-strategies) · [官网](https://theonetrade.github.io) · 组织维护
+⭐ 57 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/theonetrade/pynecore-strategies) · [官网](https://theonetrade.github.io) · 组织维护
 
 **449 个 TradingView 策略的 Pine→Python 离线回测脚本集**
 

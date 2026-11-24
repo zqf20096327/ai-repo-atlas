@@ -1,6 +1,6 @@
 # Zijian-Ni/awesome-ai-agents-2026
 
-⭐ 250 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Zijian-Ni/awesome-ai-agents-2026) · 个人维护 · 中文 README
+⭐ 250 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Zijian-Ni/awesome-ai-agents-2026) · 个人维护 · 中文 README
 
 **2026 年 AI Agent 与模型生态策展清单（awesome list）**
 

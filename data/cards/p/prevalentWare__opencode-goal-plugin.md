@@ -1,6 +1,6 @@
 # prevalentWare/opencode-goal-plugin
 
-⭐ 533 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/prevalentWare/opencode-goal-plugin) · [官网](https://www.npmjs.com/package/@prevalentware/opencode-goal-plugin) · 组织维护 · 中文 README
+⭐ 533 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/prevalentWare/opencode-goal-plugin) · [官网](https://www.npmjs.com/package/@prevalentware/opencode-goal-plugin) · 组织维护 · 中文 README
 
 **为 OpenCode 增加 Codex 式长目标模式的 npm 插件**
 

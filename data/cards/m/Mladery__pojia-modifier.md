@@ -1,6 +1,6 @@
 # Mladery/pojia-modifier
 
-⭐ 73 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Mladery/pojia-modifier) · 个人维护 · 中文 README
+⭐ 75 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Mladery/pojia-modifier) · 个人维护 · 中文 README
 
 **批量替换 20 个 AI 客户端内置提示词为自定义人格的跨平台工具**
 

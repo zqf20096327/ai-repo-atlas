@@ -1,6 +1,6 @@
 # lefinehq/nakkash
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lefinehq/nakkash) · 组织维护
+⭐ 9 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/lefinehq/nakkash) · 组织维护
 
 **面向 agent 的可编程动态图形与视频渲染引擎**
 

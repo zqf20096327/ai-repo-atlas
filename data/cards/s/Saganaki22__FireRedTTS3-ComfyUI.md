@@ -1,6 +1,6 @@
 # Saganaki22/FireRedTTS3-ComfyUI
 
-⭐ 26 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Saganaki22/FireRedTTS3-ComfyUI) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-08-18 · [GitHub](https://github.com/Saganaki22/FireRedTTS3-ComfyUI) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：本地运行 FireRedTTS3 语音克隆、语音设计与编辑**
 

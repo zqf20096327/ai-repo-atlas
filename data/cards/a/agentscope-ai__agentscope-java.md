@@ -1,6 +1,6 @@
 # agentscope-ai/agentscope-java
 
-⭐ 6,449 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/agentscope-ai/agentscope-java) · [官网](https://java.agentscope.io/) · 组织维护 · 中文 README
+⭐ 6,461 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agentscope-ai/agentscope-java) · [官网](https://java.agentscope.io/) · 组织维护 · 中文 README
 
 **Java agent 框架：构建分布式、可长期运行的生产级 agent**
 

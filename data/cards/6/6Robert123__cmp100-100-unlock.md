@@ -1,6 +1,6 @@
 # 6Robert123/cmp100-100-unlock
 
-⭐ 15 · C · MIT · 推送 2026-11-04 · [GitHub](https://github.com/6Robert123/cmp100-100-unlock) · 个人维护
+⭐ 15 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/6Robert123/cmp100-100-unlock) · 个人维护
 
 **在 Linux 上将 CMP 100-100 挖矿卡显存从 6GB 解锁到 12GB 的脚本**
 

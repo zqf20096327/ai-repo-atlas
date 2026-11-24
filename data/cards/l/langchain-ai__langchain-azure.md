@@ -1,6 +1,6 @@
 # langchain-ai/langchain-azure
 
-⭐ 148 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/langchain-azure) · 组织维护
+⭐ 148 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/langchain-azure) · 组织维护
 
 **LangChain 的 Azure 集成包集合：接入微软 Foundry 模型与 Azure 服务**
 

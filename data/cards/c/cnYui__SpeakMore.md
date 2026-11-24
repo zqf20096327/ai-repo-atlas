@@ -1,6 +1,6 @@
 # cnYui/SpeakMore
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/cnYui/SpeakMore) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cnYui/SpeakMore) · 个人维护 · 中文 README
 
 **Windows/macOS 本地语音输入工具：快捷键说话转文字并自动粘贴**
 

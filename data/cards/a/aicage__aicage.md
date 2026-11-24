@@ -1,6 +1,6 @@
 # aicage/aicage
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aicage/aicage) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/aicage/aicage) · 组织维护
 
 **在 Docker 容器中运行 AI 编码代理并隔离其访问范围**
 

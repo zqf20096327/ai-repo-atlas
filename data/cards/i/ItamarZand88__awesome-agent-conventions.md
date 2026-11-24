@@ -1,6 +1,6 @@
 # ItamarZand88/awesome-agent-conventions
 
-⭐ 38 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/ItamarZand88/awesome-agent-conventions) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-07-23 · [GitHub](https://github.com/ItamarZand88/awesome-agent-conventions) · 个人维护
 
 **AI agent 约定文件策展清单：22 种约定、11 类**
 

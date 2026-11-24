@@ -1,6 +1,6 @@
 # getzipzi/zipzi-2d
 
-⭐ 20 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/getzipzi/zipzi-2d) · [官网](https://zipzi2d.com) · 个人维护 · 中文 README
+⭐ 25 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/getzipzi/zipzi-2d) · [官网](https://zipzi2d.com) · 个人维护 · 中文 README
 
 **与 AI Agent 协作的开源 2D 建模与动画工具**
 

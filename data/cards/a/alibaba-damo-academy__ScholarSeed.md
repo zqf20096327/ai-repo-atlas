@@ -1,6 +1,6 @@
 # alibaba-damo-academy/ScholarSeed
 
-⭐ 46 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/alibaba-damo-academy/ScholarSeed) · [官网](https://scholarseed.damo.alibaba.com/) · 组织维护 · 中文 README
+⭐ 48 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/alibaba-damo-academy/ScholarSeed) · [官网](https://scholarseed.damo.alibaba.com/) · 组织维护 · 中文 README
 
 **本地优先的 AI 原生科研工作台：文献检索、阅读、验证与写作**
 

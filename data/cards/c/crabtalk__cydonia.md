@@ -1,6 +1,6 @@
 # crabtalk/cydonia
 
-⭐ 207 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/crabtalk/cydonia) · [官网](https://cydonia.sh) · 组织维护
+⭐ 208 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/crabtalk/cydonia) · [官网](https://cydonia.sh) · 组织维护
 
 **管理 40+ 编码 agent 的本地优先桌面工作台**
 

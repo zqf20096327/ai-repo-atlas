@@ -1,6 +1,6 @@
 # whitecircle/halo
 
-⭐ 869 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/whitecircle/halo) · [官网](https://whitecircle.com/halo) · 组织维护
+⭐ 869 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/whitecircle/halo) · [官网](https://whitecircle.com/halo) · 组织维护
 
 **大模型与多模态模型训练框架：预训练/SFT/RL 一体**
 

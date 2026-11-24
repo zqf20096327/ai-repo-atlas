@@ -1,6 +1,6 @@
 # openeverest/openeverest
 
-⭐ 974 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/openeverest/openeverest) · [官网](https://openeverest.io/) · 组织维护
+⭐ 974 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/openeverest/openeverest) · [官网](https://openeverest.io/) · 组织维护
 
 **在 Kubernetes 上自动化部署管理数据库、存储与 LLM 的开源平台**
 

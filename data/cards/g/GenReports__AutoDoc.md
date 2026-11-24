@@ -1,6 +1,6 @@
 # GenReports/AutoDoc
 
-⭐ 10 · C# · MIT · 推送 2025-12-01 · [GitHub](https://github.com/GenReports/AutoDoc) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把 Git 提交历史转为 AI 日报 CSV 的桌面控制台工具**
 
@@ -11,7 +11,7 @@ AutoDoc 是一个多平台控制台工具，扫描 Git 仓库指定时段的提�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

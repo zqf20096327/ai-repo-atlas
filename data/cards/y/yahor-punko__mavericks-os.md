@@ -1,6 +1,6 @@
 # yahor-punko/mavericks-os
 
-⭐ 126 · JavaScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/yahor-punko/mavericks-os) · 个人维护
+⭐ 130 · JavaScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/yahor-punko/mavericks-os) · 个人维护
 
 **为 Claude Code 编排子代理的会话状态与任务管理框架**
 

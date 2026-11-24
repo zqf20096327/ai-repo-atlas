@@ -1,6 +1,6 @@
 # DEEPX-AI/dx-compiler
 
-⭐ 24 · Shell · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/DEEPX-AI/dx-compiler) · [官网](https://developer.deepx.ai/tech-docs/) · 组织维护
+⭐ 24 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/DEEPX-AI/dx-compiler) · [官网](https://developer.deepx.ai/tech-docs/) · 组织维护
 
 **DEEPX NPU 编译器：将 ONNX 模型转为 DX-M1 等 NPU 的 .dxnn 二进制**
 

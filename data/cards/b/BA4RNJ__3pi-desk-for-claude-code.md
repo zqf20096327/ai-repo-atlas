@@ -1,6 +1,6 @@
 # BA4RNJ/3pi-desk-for-claude-code
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BA4RNJ/3pi-desk-for-claude-code) · [官网](https://github.com/BA4RNJ/3pi-desk-for-claude-code#readme) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BA4RNJ/3pi-desk-for-claude-code) · [官网](https://github.com/BA4RNJ/3pi-desk-for-claude-code#readme) · 个人维护 · 中文 README
 
 **面向中文用户的 Claude Code 图形化桌面客户端**
 

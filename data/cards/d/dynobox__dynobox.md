@@ -1,6 +1,6 @@
 # dynobox/dynobox
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dynobox/dynobox) · [官网](https://dynobox.xyz) · 组织维护
+⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dynobox/dynobox) · [官网](https://dynobox.xyz) · 组织维护
 
 **跨 harness 的编码 agent 与技能测试运行器**
 

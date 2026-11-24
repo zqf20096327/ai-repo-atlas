@@ -1,6 +1,6 @@
 # Jweokk/ai-native-organization-book
 
-⭐ 27 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Jweokk/ai-native-organization-book) · 个人维护 · 中文 README
+⭐ 28 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Jweokk/ai-native-organization-book) · 个人维护 · 中文 README
 
 **免费开源书籍：AI 原生组织的定义、证据与落地方法**
 

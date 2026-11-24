@@ -1,6 +1,6 @@
 # heubme2020/datasinking
 
-⭐ 24 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/heubme2020/datasinking) · [官网](https://datasink.ing) · 组织维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/heubme2020/datasinking) · [官网](https://datasink.ing) · 组织维护 · 中文 README
 
 **为 LLM/RAG 提供多市场财报全文 Markdown 的 API 与 MCP 服务**
 

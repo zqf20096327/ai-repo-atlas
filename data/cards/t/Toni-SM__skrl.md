@@ -1,6 +1,6 @@
 # Toni-SM/skrl
 
-⭐ 1,103 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Toni-SM/skrl) · [官网](https://skrl.readthedocs.io/) · 组织维护
+⭐ 1,104 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Toni-SM/skrl) · [官网](https://skrl.readthedocs.io/) · 组织维护
 
 **模块化强化学习库，支持多种机器人仿真环境训练**
 

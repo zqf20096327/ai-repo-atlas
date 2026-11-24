@@ -1,6 +1,6 @@
 # Picovoice/speech-to-text-benchmark
 
-⭐ 700 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Picovoice/speech-to-text-benchmark) · [官网](https://picovoice.ai/) · 组织维护
+⭐ 699 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Picovoice/speech-to-text-benchmark) · [官网](https://picovoice.ai/) · 组织维护
 
 **对多个语音识别引擎进行基准测试的框架**
 

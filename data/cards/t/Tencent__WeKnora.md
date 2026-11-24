@@ -1,6 +1,6 @@
 # Tencent/WeKnora
 
-⭐ 38,000 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
+⭐ 38,087 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Tencent/WeKnora) · [官网](https://weknora.weixin.qq.com) · 组织维护 · 中文 README
 
 **企业知识库 RAG 平台：文档检索问答、推理 agent 与知识 Wiki**
 

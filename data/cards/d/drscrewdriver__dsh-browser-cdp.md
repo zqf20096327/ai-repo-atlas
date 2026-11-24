@@ -1,6 +1,6 @@
 # drscrewdriver/dsh-browser-cdp
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/drscrewdriver/dsh-browser-cdp) · [官网](https://www.npmjs.com/package/dsh-browser-cdp) · 个人维护 · 中文 README
+⭐ 41 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/drscrewdriver/dsh-browser-cdp) · [官网](https://www.npmjs.com/package/dsh-browser-cdp) · 个人维护 · 中文 README
 
 **让 Agent 通过 CDP 接入真实 Chrome 的 DSH 插件，附实时观察窗**
 

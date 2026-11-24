@@ -1,6 +1,6 @@
 # 23skdu/longbow
 
-⭐ 14 · Go · Unlicense · 推送 2026-11-22 · [GitHub](https://github.com/23skdu/longbow) · [官网](https://github.com/23skdu/longbow) · 个人维护
+⭐ 14 · Go · Unlicense · 推送 2026-11-23 · [GitHub](https://github.com/23skdu/longbow) · [官网](https://github.com/23skdu/longbow) · 个人维护
 
 **分布式向量引擎：为 Agent 记忆共享提供低延迟向量检索**
 

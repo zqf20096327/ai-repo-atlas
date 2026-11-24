@@ -1,6 +1,6 @@
 # Frontierz-AI/Rebost
 
-⭐ 51 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Frontierz-AI/Rebost) · [官网](https://rebost.ai/) · 组织维护
+⭐ 51 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Frontierz-AI/Rebost) · [官网](https://rebost.ai/) · 组织维护
 
 **Mac/Windows 本地 AI 桌面应用：私有文档问答带引用**
 

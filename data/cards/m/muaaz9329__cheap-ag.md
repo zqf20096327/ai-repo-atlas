@@ -1,6 +1,6 @@
 # muaaz9329/cheap-ag
 
-⭐ 342 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/muaaz9329/cheap-ag) · [官网](https://cheapag.com) · 个人维护
+⭐ 342 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/muaaz9329/cheap-ag) · [官网](https://cheapag.com) · 个人维护
 
 **Claude Code 插件：让廉价模型代写代码以减少 Opus 用量**
 

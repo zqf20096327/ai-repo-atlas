@@ -1,6 +1,6 @@
 # pental-io/report
 
-⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/pental-io/report) · [官网](https://pental.io/report) · 组织维护
+⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pental-io/report) · [官网](https://pental.io/report) · 组织维护
 
 **渗透测试团队自托管的漏洞报告编写与 PDF/Word 交付平台**
 

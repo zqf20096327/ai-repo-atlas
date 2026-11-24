@@ -1,6 +1,6 @@
 # mankidev/codixel
 
-⭐ 242 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/mankidev/codixel) · 个人维护
+⭐ 254 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/mankidev/codixel) · 个人维护
 
 **Claude Code 像素画技能包：教 AI 从参考图生成游戏精灵动画**
 

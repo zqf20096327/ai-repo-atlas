@@ -1,6 +1,6 @@
 # apache/cloudberry
 
-⭐ 1,448 · C · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/apache/cloudberry) · [官网](https://cloudberry.apache.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **源自 Greenplum 原班开发者的开源 MPP 分析型数据库**
 
@@ -11,7 +11,7 @@ Apache 孵化中的大规模并行处理（MPP）数据库，由 Greenplum Datab
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

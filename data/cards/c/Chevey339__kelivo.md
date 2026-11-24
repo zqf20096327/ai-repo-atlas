@@ -1,6 +1,6 @@
 # Chevey339/kelivo
 
-⭐ 4,737 · Dart · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Chevey339/kelivo) · [官网](https://kelivo.psycheas.top) · 个人维护 · 中文 README
+⭐ 4,747 · Dart · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Chevey339/kelivo) · [官网](https://kelivo.psycheas.top) · 个人维护 · 中文 README
 
 **移动与桌面通用的开源 LLM 聊天客户端**
 

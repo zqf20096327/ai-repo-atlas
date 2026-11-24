@@ -1,6 +1,6 @@
 # conahmorgan2304/sentient
 
-⭐ 43 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/conahmorgan2304/sentient) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/conahmorgan2304/sentient) · 个人维护
 
 **Home Assistant 的共享 AI 大脑：全屋记忆与统一语音规则**
 

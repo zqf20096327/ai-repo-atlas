@@ -1,6 +1,6 @@
 # BzGEO/GeoAI_compendium
 
-⭐ 20 · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/BzGEO/GeoAI_compendium) · 个人维护
+⭐ 20 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/BzGEO/GeoAI_compendium) · 个人维护
 
 **GeoAI/GeoML 参考资源汇编：聚焦土地覆盖监测的机器学习教程清单**
 

@@ -1,6 +1,6 @@
 # yuri5577/ComfyUI-Anima-NSFW-Panel
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/yuri5577/ComfyUI-Anima-NSFW-Panel) · 个人维护 · 中文 README
+⭐ 22 · Python · NOASSERTION · 推送 2026-10-14 · [GitHub](https://github.com/yuri5577/ComfyUI-Anima-NSFW-Panel) · 个人维护 · 中文 README
 
 **Anima 模型专用的 ComfyUI 中文提示词面板与剧情工作流节点包**
 

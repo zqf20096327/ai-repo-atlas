@@ -1,6 +1,6 @@
 # tancheng33/tingo
 
-⭐ 49 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/tancheng33/tingo) · [官网](https://tancheng33.github.io/tingo/) · 个人维护 · 中文 README
+⭐ 49 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tancheng33/tingo) · [官网](https://tancheng33.github.io/tingo/en.html) · 个人维护 · 中文 README
 
 **给 Mac 用户的本地 AI 会议纪要：录音转文字、分说话人、出纪要**
 

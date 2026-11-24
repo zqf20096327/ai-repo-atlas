@@ -1,6 +1,6 @@
 # inmve/agentic-coding-practices
 
-⭐ 354 · 推送 2026-11-20 · [GitHub](https://github.com/inmve/agentic-coding-practices) · [官网](https://inmve.github.io/agentic-coding-practices/) · 个人维护
+⭐ 355 · 推送 2026-11-22 · [GitHub](https://github.com/inmve/agentic-coding-practices) · [官网](https://inmve.github.io/agentic-coding-practices/) · 个人维护
 
 **AI 编程实践参考清单：为用 agent 开发软件者整理 127 条实践**
 

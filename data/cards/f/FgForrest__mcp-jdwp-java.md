@@ -1,6 +1,6 @@
 # FgForrest/mcp-jdwp-java
 
-⭐ 34 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FgForrest/mcp-jdwp-java) · 个人维护
+⭐ 34 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FgForrest/mcp-jdwp-java) · 个人维护
 
 **让 AI agent 通过 JDWP 远程调试运行中 Java 程序的 MCP 服务器**
 

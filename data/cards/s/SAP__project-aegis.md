@@ -1,6 +1,6 @@
 # SAP/project-aegis
 
-⭐ 8 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SAP/project-aegis) · 组织维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SAP/project-aegis) · 组织维护
 
 **为 AI 工作流提供可组合 guardrail 的 Python 库**
 

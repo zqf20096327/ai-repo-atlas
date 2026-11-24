@@ -1,6 +1,6 @@
 # sisinflab/elliot
 
-⭐ 298 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sisinflab/elliot) · 组织维护
+⭐ 298 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sisinflab/elliot) · 组织维护
 
 **面向科研的推荐系统实验评测框架：从数据到统计报告全流程**
 

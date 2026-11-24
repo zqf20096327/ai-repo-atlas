@@ -1,6 +1,6 @@
 # Video-Rebirth/ComfyUI-HyperFlow-Flash
 
-⭐ 119 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Video-Rebirth/ComfyUI-HyperFlow-Flash) · [官网](https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash) · 组织维护
+⭐ 121 · Python · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Video-Rebirth/ComfyUI-HyperFlow-Flash) · [官网](https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash) · 组织维护
 
 **在 ComfyUI 中加载运行 HyperFlow H3 Flash 视频模型的自定义节点**
 

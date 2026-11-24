@@ -1,6 +1,6 @@
 # milvus-io/milvus-sdk-java
 
-⭐ 500 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/milvus-io/milvus-sdk-java) · [官网](https://milvus.io) · 组织维护
+⭐ 500 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/milvus-io/milvus-sdk-java) · [官网](https://milvus.io) · 组织维护
 
 **Java 开发者连接与操作 Milvus 向量数据库的官方 SDK**
 

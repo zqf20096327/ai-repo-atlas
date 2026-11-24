@@ -1,6 +1,6 @@
 # hamzafer/cursor-commands
 
-⭐ 673 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hamzafer/cursor-commands) · [官网](https://cursor.com/changelog/1-6) · 个人维护
+⭐ 674 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hamzafer/cursor-commands) · [官网](https://cursor.com/changelog/1-6) · 个人维护
 
 **为 Cursor IDE 团队提供可复用、版本化的斜杠命令提示词集**
 

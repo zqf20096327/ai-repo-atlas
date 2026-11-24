@@ -1,6 +1,6 @@
 # zebbern/claude-code-guide
 
-⭐ 4,719 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zebbern/claude-code-guide) · 个人维护
+⭐ 4,719 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zebbern/claude-code-guide) · 个人维护
 
 **Claude Code 使用指南：从安装到高级工作流的命令与技巧手册**
 

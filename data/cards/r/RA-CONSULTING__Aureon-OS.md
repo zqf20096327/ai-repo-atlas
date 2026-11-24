@@ -1,6 +1,6 @@
 # RA-CONSULTING/Aureon-OS
 
-⭐ 38 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/RA-CONSULTING/Aureon-OS) · [官网](https://aureonzorzatechnologies.pl) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RA-CONSULTING/Aureon-OS) · [官网](https://aureonzorzatechnologies.pl) · 组织维护
 
 **本地优先的可审计 AI 操作层：多模型路由、自主运维与交易研究一体化**
 

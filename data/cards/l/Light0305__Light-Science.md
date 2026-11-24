@@ -1,6 +1,6 @@
 # Light0305/Light-Science
 
-⭐ 1,073 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Light0305/Light-Science) · [官网](https://lightchuan.xyz/) · 个人维护 · 中文 README
+⭐ 1,085 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Light0305/Light-Science) · [官网](https://lightchuan.xyz/) · 个人维护 · 中文 README
 
 **面向 AI agent 的科研工作流技能包（19 个技能）**
 

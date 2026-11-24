@@ -1,6 +1,6 @@
 # visoire/workcraft-ai
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/visoire/workcraft-ai) · [官网](https://github.com/visoire/workcraft-ai#readme) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/visoire/workcraft-ai) · [官网](https://github.com/visoire/workcraft-ai#readme) · 个人维护
 
 **本地优先的 AI 聊天与多 agent 桌面应用，可操作文件与 Craft 应用**
 

@@ -1,10 +1,10 @@
 # vinvcn/mattpocock-skills-zh-CN
 
-⭐ 6,027 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/vinvcn/mattpocock-skills-zh-CN) · [官网](https://skills.sh/vinvcn/mattpocock-skills-zh-CN) · 个人维护 · 中文 README
+⭐ 6,060 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vinvcn/mattpocock-skills-zh-CN) · [官网](https://skills.sh/vinvcn/mattpocock-skills-zh-CN) · 个人维护 · 中文 README
 
-**Matt Pocock 工程 skills 的简体中文本地化仓库，供 coding agents 安装使用**
+**Matt Pocock 工程技能的简体中文本地化技能集**
 
-对上游 mattpocock/skills 的第三方简体中文翻译仓库：采用 skill-guided content localization 策略，只译自然语言说明，保留目录名、命令、代码块、路径与标识符，以免破坏安装运行。同步翻译由 Codex 执行，人工审核后经 PR 纳入 main，定期跟进上游版本。分发上除 skills.sh/npm 与 Claude Code、Codex、GitHub Copilot、Gemini CLI 等官方 plugin 路线外，额外提供上游没有的 DeepSeek Harness（dsh）插件，安装后以 /zh-<name> 调用技能。技能内容覆盖需求对齐（grilling）、TDD、调试、架构改进、issue 拆解等工程流程。
+将 mattpocock/skills 的 agent 技能文档翻译为简体中文并定期同步上游，同步翻译由 Codex 执行、人工审核后经 PR 合入。翻译只处理自然语言说明，保留目录名、命令、代码块与工具标识以免破坏安装行为。除 skills.sh 复制文件的安装方式外，额外提供 Claude Code、Codex、GitHub Copilot 插件市场安装和 DeepSeek Harness（dsh）插件路线，后者安装后以 /zh-<name> 调用技能。技能按 User-invoked 与 Model-invoked 区分，覆盖工程与通用生产力场景。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- skill-guided content localization：只译说明文本，保留命令与标识符
-- 人工审核每次同步更新，定期跟进上游版本
-- 额外提供上游没有的 DeepSeek Harness（dsh）插件安装路线
-- 38 个技能覆盖 grilling、TDD、调试、架构审查、issue triage 等
+- 定期同步上游，翻译经人工审核后合入 main
+- 额外支持 DeepSeek Harness 插件安装，以 /zh-<name> 调用技能
+- 保留目录名、命令、代码块与工具标识的 skill-guided 本地化策略
+- 技能分 User-invoked（编排）与 Model-invoked（可复用纪律）两类
 
 ## 适用场景
 
-- 让中文母语开发者或中文优化模型以中文 prompt 使用这些工程技能
-- 在 coding agent 中建立需求对齐、TDD 与代码审查的工作流
-- 多 agent 环境（Claude Code/Codex/Copilot/Gemini CLI）统一安装同一套技能
+- 为中文母语开发者安装中文说明的 coding agent 技能
+- 让以中文语料优化的模型使用中文 prompt 减少歧义
+- 在 Claude Code/Codex/Copilot/Gemini CLI 中以插件方式使用工程工作流
 
 ## 场景标签
 
-`提示工程` `代码审查` `编码 Agent` · 领域:Agent 开发
+`提示工程` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f2eddd63f5bd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `11effd7aea59` · [字段定义](../../DATASET.md)*

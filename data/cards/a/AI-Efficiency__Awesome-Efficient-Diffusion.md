@@ -1,6 +1,6 @@
 # AI-Efficiency/Awesome-Efficient-Diffusion
 
-⭐ 212 · 推送 2026-11-16 · [GitHub](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) · 个人维护
+⭐ 213 · 推送 2026-11-16 · [GitHub](https://github.com/AI-Efficiency/Awesome-Efficient-Diffusion) · 个人维护
 
 **高效扩散/流匹配模型论文与代码的策展清单**
 

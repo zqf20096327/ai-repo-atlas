@@ -1,6 +1,6 @@
 # SamratDuttaOfficial/WaterSheep
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/SamratDuttaOfficial/WaterSheep) · [官网](https://samratduttaofficial.github.io/WaterSheep/) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SamratDuttaOfficial/WaterSheep) · [官网](https://samratduttaofficial.github.io/WaterSheep/) · 个人维护
 
 **文本决策模型：对任意文本输出带概率的校准判定**
 

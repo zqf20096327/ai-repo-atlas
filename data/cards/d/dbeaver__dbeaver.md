@@ -1,6 +1,6 @@
 # dbeaver/dbeaver
 
-⭐ 52,509 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dbeaver/dbeaver) · [官网](https://dbeaver.io) · 组织维护
+⭐ 52,514 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dbeaver/dbeaver) · [官网](https://dbeaver.io) · 组织维护
 
 **面向开发者/DBA 的通用数据库工具与 SQL 客户端**
 

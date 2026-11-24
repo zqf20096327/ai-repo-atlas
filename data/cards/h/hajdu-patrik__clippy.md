@@ -1,6 +1,6 @@
 # hajdu-patrik/clippy
 
-⭐ 60 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/hajdu-patrik/clippy) · [官网](https://hajdu-patrik.github.io/clippy/) · 个人维护
+⭐ 65 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/hajdu-patrik/clippy) · [官网](https://hajdu-patrik.github.io/clippy/) · 个人维护
 
 **本地 AI 剪辑工具：长视频/播客进，竖屏 9:16 带字幕短视频出**
 

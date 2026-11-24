@@ -1,6 +1,6 @@
 # mubai0122/baicodex
 
-⭐ 16 · Kotlin · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/mubai0122/baicodex) · [官网](https://agent.ai.baiccb.cn) · 个人维护 · 中文 README
+⭐ 17 · Kotlin · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mubai0122/baicodex) · [官网](https://agent.ai.baiccb.cn) · 个人维护 · 中文 README
 
 **设备端 Android AI Agent：直连模型执行文件、命令与屏幕操作**
 

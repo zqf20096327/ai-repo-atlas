@@ -1,6 +1,6 @@
 # nisalgunawardhana/GenAIStarter
 
-⭐ 20 · C# · 推送 2025-11-27 · [GitHub](https://github.com/nisalgunawardhana/GenAIStarter) · [官网](https://nisalgunawardhana.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **.NET 生成式 AI 示例合集：演示接入 GitHub Models 与 Azure AI Foundry**
 

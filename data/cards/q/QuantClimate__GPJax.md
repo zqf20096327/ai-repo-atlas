@@ -1,6 +1,6 @@
 # QuantClimate/GPJax
 
-⭐ 676 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/QuantClimate/GPJax) · [官网](https://gpjax.quantclimate.com) · 组织维护
+⭐ 676 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/QuantClimate/GPJax) · [官网](https://gpjax.quantclimate.com) · 组织维护
 
 **面向研究者的 JAX 高斯过程建模库**
 

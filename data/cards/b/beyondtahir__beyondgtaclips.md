@@ -1,6 +1,6 @@
 # beyondtahir/beyondgtaclips
 
-⭐ 133 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/beyondtahir/beyondgtaclips) · 个人维护
+⭐ 150 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/beyondtahir/beyondgtaclips) · 个人维护
 
 **让 Claude/ChatGPT 自动把 GTA 6 直播切成 9:16 短视频**
 

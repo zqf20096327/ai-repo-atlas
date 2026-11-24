@@ -1,10 +1,10 @@
 # dathere/qsv
 
-⭐ 3,843 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/dathere/qsv) · [官网](https://qsv.dathere.com) · 组织维护
+⭐ 3,848 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/dathere/qsv) · [官网](https://qsv.dathere.com) · 组织维护
 
-**面向数据工程者的神经符号 CSV 数据整备命令行工具集**
+**面向数据从业者的表格数据命令行处理工具箱**
 
-以 Rust 编写的 CLI 工具集，覆盖表格数据（CSV/TSV/JSONL/parquet/电子表格）的查询、切片、排序、统计、清洗、地理编码、格式转换、验证与文档化等环节，命令可组合，支持索引加速与多线程。AI 相关机制：describegpt 命令通过任意 OpenAI API 兼容的云端/本地 LLM 生成数据字典、描述与标签，或以 SQL RAG 方式回答 CSV 问题；pro 命令对接 qsv pro API。提供 CLI、MCP Server、Cowork Plugin 多种安装形态。
+Rust 编写的 CLI 工具箱，支持对 CSV/TSV/JSONL/parquet/电子表格等表格数据进行查询、切片、排序、统计、过滤、转换、校验、地理编码、格式转换、可视化与元数据生成（DCAT-US/DCAT-AP/Croissant）。命令可组合，部分命令借助索引与 Polars 引擎处理大文件。AI 相关能力以子命令形式存在：describegpt 可接任意 OpenAI API 兼容的本地或云 LLM 生成数据字典与 SQL RAG 问答，另有 MCP Server 与 Cowork Plugin 两种安装形态。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- describegpt 使用任意 OpenAI API 兼容 LLM 推断数据字典/描述/标签，并支持确定性 SQL RAG 问答
-- luau 内嵌脚本 DSL 支持构建含查找表的生产级数据管道
-- geocode 支持本地离线 Geonames/GeoLite2 数据库与多线程缓存
-- profile 支持 DCAT-US v3、DCAT-AP v3、Croissant 1.1 元数据模式做规模化 FAIR 化
+- 100+ 可组合子命令覆盖表格数据清洗、统计、校验、地理编码全流程
+- describegpt 支持任意 OpenAI API 兼容 LLM 做数据描述与 SQL RAG 问答
+- 支持 Luau 脚本与 Python 表达式作为数据处理 DSL
+- 提供 CLI、MCP Server、Cowork Plugin 三种安装形态
 
 ## 适用场景
 
-- 对大型 CSV 做统计、去重、清洗与格式转换
-- 用 LLM 自动为数据集生成数据字典与标签
-- 对地址数据做离线批量地理编码
-- 为开放数据门户生成 FAIR 元数据
+- 批量清洗、校验和转换大型 CSV 数据集
+- 用 LLM 自动生成数据字典和元数据做 FAIR 化
+- 离线地理编码和地址数据增强
+- 为 CKAN 数据平台处理与富化开放数据
 
 ## 场景标签
 
-`RAG` · 领域:知识与检索
+`RAG` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 low · 依据 README sha `7646b3f0c4c0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 low · 依据 README sha `615bdb95f01e` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # pytorch/gloo
 
-⭐ 1,469 · C++ · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/pytorch/gloo) · [官网](https://pytorch.org/docs/stable/distributed.html) · 组织维护
+⭐ 1,469 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/pytorch/gloo) · [官网](https://pytorch.org/docs/stable/distributed.html) · 组织维护
 
 **面向多机训练的集合通信库：提供 barrier/broadcast/allreduce 等原语**
 

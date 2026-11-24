@@ -1,6 +1,6 @@
 # mattabate/life-distributable
 
-⭐ 447 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mattabate/life-distributable) · [官网](https://lifedistributable.com/) · 个人维护
+⭐ 455 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mattabate/life-distributable) · [官网](https://lifedistributable.com/) · 个人维护
 
 **自托管的个人 AI agent 团队，在 Mac 上全天候为你服务**
 

@@ -1,6 +1,6 @@
 # Providex-AI/rootsign
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Providex-AI/rootsign) · [官网](https://getprovidex.com) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Providex-AI/rootsign) · [官网](https://getprovidex.com) · 组织维护
 
 **给生产环境 AI agent 的防篡改行为审计日志库**
 

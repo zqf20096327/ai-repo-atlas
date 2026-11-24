@@ -1,6 +1,6 @@
 # iammrduncan/fxbot
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/iammrduncan/fxbot) · [官网](https://fxbot.sh) · 个人维护
+⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/iammrduncan/fxbot) · [官网](https://fxbot.sh) · 个人维护
 
 **自托管的个人 AI 助手平台：任意模型、自有机器、手机访问**
 

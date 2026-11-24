@@ -1,6 +1,6 @@
 # YuanYeYouTao/Yuki
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/YuanYeYouTao/Yuki) · 个人维护 · 中文 README
+⭐ 28 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/YuanYeYouTao/Yuki) · 个人维护 · 中文 README
 
 **自托管多平台社会化 AI Agent：持久身份、长期记忆与自主执行**
 

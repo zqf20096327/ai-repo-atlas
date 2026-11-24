@@ -1,6 +1,6 @@
 # gufo-org/gufo
 
-⭐ 1,250 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gufo-org/gufo) · [官网](https://gufo.blog) · 组织维护
+⭐ 1,259 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/gufo-org/gufo) · [官网](https://gufo.blog) · 组织维护
 
 **面向 AMD Strix Halo 单机的开源推理引擎，提供 OpenAI 兼容 API**
 

@@ -1,6 +1,6 @@
 # conservationtechlab/animl-r
 
-⭐ 26 · R · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/conservationtechlab/animl-r) · 组织维护
+⭐ 26 · R · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/conservationtechlab/animl-r) · 组织维护
 
 **相机陷阱图像/视频动物自动识别的 R 机器学习包**
 

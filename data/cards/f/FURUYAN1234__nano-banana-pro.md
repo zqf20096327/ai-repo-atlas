@@ -1,6 +1,6 @@
 # FURUYAN1234/nano-banana-pro
 
-⭐ 22 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FURUYAN1234/nano-banana-pro) · [官网](https://furuyan1234.github.io/nano-banana-pro/) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FURUYAN1234/nano-banana-pro) · [官网](https://furuyan1234.github.io/nano-banana-pro/) · 个人维护 · 中文 README
 
 **调用 OpenAI/Gemini API 自动生成 4~8 格漫画的 Web 应用**
 

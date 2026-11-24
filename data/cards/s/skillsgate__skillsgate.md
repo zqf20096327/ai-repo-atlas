@@ -1,6 +1,6 @@
 # skillsgate/skillsgate
 
-⭐ 1,456 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/skillsgate/skillsgate) · [官网](https://skillsgate.ai/) · 组织维护
+⭐ 1,458 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/skillsgate/skillsgate) · [官网](https://skillsgate.ai/) · 组织维护
 
 **AI agent 技能的可视化管理桌面应用**
 

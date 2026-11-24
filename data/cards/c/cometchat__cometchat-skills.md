@@ -1,6 +1,6 @@
 # cometchat/cometchat-skills
 
-⭐ 180 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/cometchat/cometchat-skills) · [官网](https://www.cometchat.com) · 组织维护
+⭐ 181 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/cometchat/cometchat-skills) · [官网](https://www.cometchat.com) · 组织维护
 
 **让 AI 编程助手为应用接入 CometChat 聊天与音视频通话的技能包**
 

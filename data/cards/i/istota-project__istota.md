@@ -1,6 +1,6 @@
 # istota-project/istota
 
-⭐ 15 · Python · EUPL-1.2 · 推送 2026-11-22 · [GitHub](https://github.com/istota-project/istota) · [官网](https://istota.cynium.com) · 组织维护
+⭐ 13 · Python · EUPL-1.2 · 推送 2026-11-22 · [GitHub](https://github.com/istota-project/istota) · [官网](https://istota.cynium.com) · 组织维护
 
 **自托管个人操作系统：AI agent 加 Web UI 管理日常数据**
 

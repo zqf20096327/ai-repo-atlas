@@ -1,6 +1,6 @@
 # ThalesGroup/agilab
 
-⭐ 22 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/ThalesGroup/agilab) · [官网](https://thalesgroup.github.io/agilab) · 组织维护
+⭐ 22 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ThalesGroup/agilab) · [官网](https://thalesgroup.github.io/agilab) · 组织维护
 
 **面向 AI/ML 工程的可复现工作台：笔记本转可执行应用**
 

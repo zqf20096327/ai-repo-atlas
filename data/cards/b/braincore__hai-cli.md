@@ -1,6 +1,6 @@
 # braincore/hai-cli
 
-⭐ 14 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/braincore/hai-cli) · [官网](https://braincore.github.io/hai-cli/) · 个人维护
+⭐ 14 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/braincore/hai-cli) · [官网](https://braincore.github.io/hai-cli/) · 个人维护
 
 **面向黑客/开发者的 LLM 交互 REPL 命令行工具**
 

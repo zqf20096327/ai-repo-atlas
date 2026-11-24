@@ -1,6 +1,6 @@
 # adops-tool/awesome-lead-generation
 
-⭐ 12 · Python · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/adops-tool/awesome-lead-generation) · [官网](https://adops-tool.github.io/awesome-lead-generation/) · 个人维护
+⭐ 13 · Python · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/adops-tool/awesome-lead-generation) · [官网](https://adops-tool.github.io/awesome-lead-generation/) · 个人维护
 
 **面向销售增长的 AI 线索生成工具策展目录**
 

@@ -1,6 +1,6 @@
 # Sievehouse/gpu-lens
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Sievehouse/gpu-lens) · [官网](https://gpu-lens.onrender.com) · 组织维护
+⭐ 5 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sievehouse/gpu-lens) · [官网](https://gpu-lens.onrender.com) · 组织维护
 
 **K8s GPU 集群只读可靠性诊断控制台，输出确定性事件报告**
 

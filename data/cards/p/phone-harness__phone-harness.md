@@ -1,6 +1,6 @@
 # phone-harness/phone-harness
 
-⭐ 5,510 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/phone-harness/phone-harness) · [官网](phone-harness.com) · 组织维护
+⭐ 5,593 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/phone-harness/phone-harness) · [官网](phone-harness.com) · 组织维护
 
 **让编码 agent 操控真实 iPhone/Android 的 CLI 工具**
 

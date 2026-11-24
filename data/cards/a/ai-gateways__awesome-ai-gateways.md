@@ -1,6 +1,6 @@
 # ai-gateways/awesome-ai-gateways
 
-⭐ 47 · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/ai-gateways/awesome-ai-gateways) · 个人维护
+⭐ 48 · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/ai-gateways/awesome-ai-gateways) · 个人维护
 
 **AI 网关开源与商业产品策展清单（LLM/MCP/A2A）**
 

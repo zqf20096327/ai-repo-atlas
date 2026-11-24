@@ -1,6 +1,6 @@
 # killop/anything_about_game
 
-⭐ 4,213 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/killop/anything_about_game) · 个人维护 · 中文 README
+⭐ 4,214 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/killop/anything_about_game) · 个人维护 · 中文 README
 
 **游戏开发资源聚合清单：为游戏开发者汇集教程、博客与工具链接**
 

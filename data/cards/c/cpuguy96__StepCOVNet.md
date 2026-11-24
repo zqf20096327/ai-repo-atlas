@@ -1,6 +1,6 @@
 # cpuguy96/StepCOVNet
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/cpuguy96/StepCOVNet) · 个人维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cpuguy96/StepCOVNet) · 个人维护
 
 **用深度学习从音频自动生成 StepMania 谱面的工具**
 

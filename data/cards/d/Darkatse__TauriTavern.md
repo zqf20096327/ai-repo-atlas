@@ -1,6 +1,6 @@
 # Darkatse/TauriTavern
 
-⭐ 2,408 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Darkatse/TauriTavern) · [官网](https://tauritavern.github.io) · 组织维护 · 中文 README
+⭐ 2,418 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Darkatse/TauriTavern) · [官网](https://tauritavern.github.io) · 组织维护 · 中文 README
 
 **SillyTavern 的 Tauri/Rust 原生客户端，桌面与移动开箱即用**
 

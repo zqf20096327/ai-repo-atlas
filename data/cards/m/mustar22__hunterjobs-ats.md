@@ -1,6 +1,6 @@
 # mustar22/hunterjobs-ats
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mustar22/hunterjobs-ats) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mustar22/hunterjobs-ats) · 个人维护
 
 **求职者侧 ATS：本地三段 AI 管线筛选职位并起草联系策略**
 

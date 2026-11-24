@@ -1,6 +1,6 @@
 # Cznorth/winkterm
 
-⭐ 30 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Cznorth/winkterm) · [官网](https://cznorth.github.io/winkterm/) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Cznorth/winkterm) · [官网](https://cznorth.github.io/winkterm/) · 个人维护 · 中文 README
 
 **AI 直接在用户终端内键入命令的开源 AI 终端**
 

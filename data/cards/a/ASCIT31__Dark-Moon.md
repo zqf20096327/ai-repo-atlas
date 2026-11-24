@@ -1,6 +1,6 @@
 # ASCIT31/Dark-Moon
 
-⭐ 1,288 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ASCIT31/Dark-Moon) · [官网](https://dark-moon.org/) · 组织维护
+⭐ 1,294 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ASCIT31/Dark-Moon) · [官网](https://dark-moon.org/) · 组织维护
 
 **安全团队的自主 AI 渗透测试工具，本地 LLM 运行**
 

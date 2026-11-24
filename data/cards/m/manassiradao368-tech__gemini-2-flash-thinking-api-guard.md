@@ -1,6 +1,6 @@
 # manassiradao368-tech/gemini-2-flash-thinking-api-guard
 
-⭐ 71 · 推送 2026-11-05 · [GitHub](https://github.com/manassiradao368-tech/gemini-2-flash-thinking-api-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 93 · 推送 2026-11-05 · [GitHub](https://github.com/manassiradao368-tech/gemini-2-flash-thinking-api-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向开发者的 GCP 扣费避坑指南，推介 CoreGold 商用卡方案**
 

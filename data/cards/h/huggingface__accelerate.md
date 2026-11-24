@@ -1,6 +1,6 @@
 # huggingface/accelerate
 
-⭐ 9,953 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/accelerate) · [官网](https://huggingface.co/docs/accelerate) · 组织维护
+⭐ 9,954 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/accelerate) · [官网](https://huggingface.co/docs/accelerate) · 组织维护
 
 **为 PyTorch 开发者简化分布式与混合精度训练的库**
 

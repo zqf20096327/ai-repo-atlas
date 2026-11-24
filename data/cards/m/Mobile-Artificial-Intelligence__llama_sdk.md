@@ -1,6 +1,6 @@
 # Mobile-Artificial-Intelligence/llama_sdk
 
-⭐ 123 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/llama_sdk) · 组织维护
+⭐ 123 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Mobile-Artificial-Intelligence/llama_sdk) · 组织维护
 
 **llama.cpp 的 Dart 实现，供 Maid 移动端运行本地模型**
 

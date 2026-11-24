@@ -1,6 +1,6 @@
 # zincware/IPSuite
 
-⭐ 25 · Python · EPL-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/zincware/IPSuite) · [官网](https://ipsuite.readthedocs.io) · 组织维护
+⭐ 25 · Python · EPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/zincware/IPSuite) · [官网](https://ipsuite.readthedocs.io) · 组织维护
 
 **生成机器学习原子间势的工具套件，面向分子模拟**
 

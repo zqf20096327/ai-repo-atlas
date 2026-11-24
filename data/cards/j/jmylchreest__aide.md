@@ -1,6 +1,6 @@
 # jmylchreest/aide
 
-⭐ 19 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/jmylchreest/aide) · [官网](https://jmylchreest.github.io/aide/) · 个人维护
+⭐ 19 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jmylchreest/aide) · [官网](https://jmylchreest.github.io/aide/) · 个人维护
 
 **为 AI 编程助手提供持久记忆与多智能体编排的开发环境**
 

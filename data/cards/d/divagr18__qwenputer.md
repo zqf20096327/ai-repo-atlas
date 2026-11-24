@@ -1,6 +1,6 @@
 # divagr18/qwenputer
 
-⭐ 845 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/divagr18/qwenputer) · 个人维护
+⭐ 847 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/divagr18/qwenputer) · 个人维护
 
 **将 RISC-V CPU 编译进 Qwen 权重的实验性语言模型**
 

@@ -1,6 +1,6 @@
 # jianshuo/claude-skills
 
-⭐ 142 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jianshuo/claude-skills) · 个人维护 · 中文 README
+⭐ 142 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jianshuo/claude-skills) · 个人维护 · 中文 README
 
 **Claude Code 个人的 40+ 个 skill 集合：视频制作与公众号写作工作流**
 

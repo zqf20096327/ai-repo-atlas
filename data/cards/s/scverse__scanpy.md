@@ -1,10 +1,10 @@
 # scverse/scanpy
 
-⭐ 2,619 · Python · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/scverse/scanpy) · [官网](https://scanpy.scverse.org) · 组织维护
+⭐ 2,620 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/scverse/scanpy) · [官网](https://scanpy.scverse.org) · 组织维护
 
-**给生物信息研究者做单细胞基因表达数据分析的 Python 工具包**
+**单细胞转录组数据的 Python 分析工具包**
 
-Scanpy 是基于 Python 的单细胞基因表达数据分析工具包，与 anndata 联合构建，功能覆盖预处理、可视化、聚类、轨迹推断和差异表达检验。实现可高效处理超过一百万细胞的数据集；对超出内存的大数据集，许多函数兼容 dask 后端（标注为实验性）。项目属 scverse 生态，由 NumFOCUS 财政资助，通过 PyPI 与 Conda Forge 分发，提供文档、API 说明与学术论文引用信息。
+Scanpy 是与 anndata 联合构建的可扩展单细胞基因表达数据分析工具包，功能覆盖预处理、可视化、聚类、轨迹推断与差异表达检验。Python 实现可处理超过一百万细胞的数据集；对于超出内存的大数据集，多数函数兼容 dask 后端（标注为实验性）。项目属于 scverse 生态，受 NumFOCUS 财政资助，通过 PyPI 与 Conda Forge 分发，公共 API 有文档说明，内部 API 不保证稳定性。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Scanpy 是基于 Python 的单细胞基因表达数据分析工具包，与 annd
 
 ## 能力要点
 
-- 提供预处理、可视化、聚类、轨迹推断、差异表达检验功能
-- 可高效处理超过一百万细胞的数据集
-- 大数据集场景下多数函数兼容 dask（实验性）
-- 与 anndata 联合构建，属 scverse 项目
+- 预处理、可视化、聚类、轨迹推断、差异表达检验功能集
+- 基于 anndata 数据结构，可处理超百万细胞数据集
+- 大内存外数据集兼容 dask 后端（实验性）
+- 提供公开 API 文档与引用文献（Genome Biology 2018）
 
 ## 适用场景
 
-- 对单细胞 RNA 测序数据做预处理与聚类分析
-- 推断细胞轨迹并做差异表达检验
-- 处理超大规模单细胞数据集的可视化与降维
+- 对单细胞基因表达数据做预处理与聚类分析
+- 构建细胞轨迹推断与分化路径分析流程
+- 可视化单细胞数据并进行差异表达检验
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `89d4436c941a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0cf1e31e80ba` · [字段定义](../../DATASET.md)*

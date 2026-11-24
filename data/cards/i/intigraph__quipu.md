@@ -1,6 +1,6 @@
 # intigraph/quipu
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/intigraph/quipu) · [官网](https://intigraph.github.io/quipu/) · 组织维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/intigraph/quipu) · [官网](https://intigraph.github.io/quipu/) · 组织维护
 
 **面向 AI agent 的受治理双时态知识图谱存储**
 

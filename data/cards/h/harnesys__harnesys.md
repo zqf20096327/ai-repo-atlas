@@ -1,6 +1,6 @@
 # harnesys/harnesys
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/harnesys/harnesys) · [官网](https://harnesys.github.io/harnesys/) · 个人维护
+⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/harnesys/harnesys) · [官网](https://harnesys.github.io/harnesys/) · 个人维护
 
 **自托管的多 AI agent 团队控制台：集中监督每次运行**
 

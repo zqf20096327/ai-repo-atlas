@@ -1,6 +1,6 @@
 # ScalaConsultants/Aspect-Based-Sentiment-Analysis
 
-⭐ 585 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis) · 组织维护
+⭐ 584 · Python · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis) · 组织维护
 
 **基于 Transformer 的方面级情感分析 Python 包，附带预测解释**
 

@@ -1,6 +1,6 @@
 # elisymlabs/elisym
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/elisymlabs/elisym) · [官网](https://elisym.network) · 组织维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/elisymlabs/elisym) · [官网](https://elisym.network) · 组织维护
 
 **AI agent 间互相发现与支付的去中心化点对点基础设施**
 

@@ -1,6 +1,6 @@
 # ThomasMBury/deep-early-warnings-pnas
 
-⭐ 67 · Python · NOASSERTION · 推送 2025-11-28 · [GitHub](https://github.com/ThomasMBury/deep-early-warnings-pnas) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **复现 PNAS 2021 论文的深度学习临界预警信号代码**
 
@@ -11,7 +11,7 @@ PNAS 2021 论文《Deep learning for early warning signals of tipping points》�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

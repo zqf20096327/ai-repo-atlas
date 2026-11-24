@@ -1,6 +1,6 @@
 # Geoalert/mapflow-qgis
 
-⭐ 35 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Geoalert/mapflow-qgis) · [官网](https://docs.mapflow.ai/api/qgis_mapflow.html) · 组织维护
+⭐ 35 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Geoalert/mapflow-qgis) · [官网](https://docs.mapflow.ai/api/qgis_mapflow.html) · 组织维护
 
 **QGIS 插件：在 QGIS 内调用 Mapflow 从卫星影像提取地物**
 

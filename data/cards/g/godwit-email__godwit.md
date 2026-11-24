@@ -1,6 +1,6 @@
 # godwit-email/godwit
 
-⭐ 150 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/godwit-email/godwit) · [官网](https://godwit.email) · 组织维护 · 中文 README
+⭐ 153 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/godwit-email/godwit) · [官网](https://godwit.email) · 组织维护 · 中文 README
 
 **AI 辅助的开源桌面邮件客户端，本地脱敏后再交给模型**
 

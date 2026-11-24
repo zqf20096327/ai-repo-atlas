@@ -1,6 +1,6 @@
 # yogeshhk/FrugalAI
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yogeshhk/FrugalAI) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yogeshhk/FrugalAI) · 个人维护
 
 **在旧笔记本与树莓派上运行的低成本本地 AI 应用与配方集**
 

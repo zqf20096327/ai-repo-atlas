@@ -1,6 +1,6 @@
 # vercel/chatbot
 
-⭐ 21,066 · TypeScript · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/vercel/chatbot) · [官网](https://chatbot.ai-sdk.dev) · 组织维护
+⭐ 21,068 · TypeScript · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/vercel/chatbot) · [官网](https://chatbot.ai-sdk.dev) · 组织维护
 
 **面向开发者的 Next.js 开源 AI 聊天机器人模板**
 

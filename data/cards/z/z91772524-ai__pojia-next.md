@@ -1,6 +1,6 @@
 # z91772524-ai/pojia-next
 
-⭐ 1,206 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/z91772524-ai/pojia-next) · [官网](https://1pojia.cn/) · 个人维护 · 中文 README
+⭐ 1,214 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/z91772524-ai/pojia-next) · [官网](https://1pojia.cn/) · 个人维护 · 中文 README
 
 **为四个 AI 客户端一键替换内置系统提示词的 Windows 工具**
 

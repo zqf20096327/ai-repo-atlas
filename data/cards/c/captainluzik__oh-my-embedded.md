@@ -1,6 +1,6 @@
 # captainluzik/oh-my-embedded
 
-⭐ 41 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/captainluzik/oh-my-embedded) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/captainluzik/oh-my-embedded) · 个人维护
 
 **面向嵌入式工程师的 OpenCode 插件：专业 agent、技能与计算工具**
 

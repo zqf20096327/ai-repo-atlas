@@ -1,6 +1,6 @@
 # phenomenon0/eureka-engine
 
-⭐ 3 · C · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/phenomenon0/eureka-engine) · 个人维护
+⭐ 3 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/phenomenon0/eureka-engine) · 个人维护
 
 **本地多模态 AI 引擎：聊天/视觉/语音/转录，OpenAI 兼容 API，无云**
 

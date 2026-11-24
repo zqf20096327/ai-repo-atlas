@@ -1,6 +1,6 @@
 # carbon-design-system/Carbon-Monitor
 
-⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/carbon-design-system/Carbon-Monitor) · 组织维护
+⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/carbon-design-system/Carbon-Monitor) · 组织维护
 
 **面向 Carbon 设计系统的 AI PR 审查器与 IBM Cloud 定时 agent 运行框架**
 

@@ -1,6 +1,6 @@
 # rmorison/engineering-standards
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rmorison/engineering-standards) · [官网](https://rm.rmdashrf.net/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rmorison/engineering-standards) · [官网](https://rm.rmdashrf.net/) · 个人维护
 
 **面向 AI 辅助软件开发的轻量工程标准与实践集**
 

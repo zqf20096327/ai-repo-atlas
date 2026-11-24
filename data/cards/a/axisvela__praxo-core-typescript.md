@@ -1,6 +1,6 @@
 # axisvela/praxo-core-typescript
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-typescript) · [官网](https://axisvela.github.io/praxo-core/languages/typescript/) · 组织维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-typescript) · [官网](https://axisvela.github.io/praxo-core/languages/typescript/) · 组织维护
 
 **面向开发者的无依赖 TypeScript AI agent 框架**
 

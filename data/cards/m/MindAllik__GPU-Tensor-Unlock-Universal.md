@@ -1,6 +1,6 @@
 # MindAllik/GPU-Tensor-Unlock-Universal
 
-⭐ 34 · C · GPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/MindAllik/GPU-Tensor-Unlock-Universal) · 个人维护
+⭐ 35 · C · GPL-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/MindAllik/GPU-Tensor-Unlock-Universal) · 个人维护
 
 **消费级 RTX 显卡 Tensor Core FMLA32 限速解锁与基准测试工具**
 

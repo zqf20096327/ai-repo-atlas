@@ -1,6 +1,6 @@
 # ultralytics/sdk
 
-⭐ 19 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ultralytics/sdk) · [官网](https://platform.ultralytics.com/api/docs) · 组织维护 · 中文 README
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ultralytics/sdk) · [官网](https://platform.ultralytics.com/api/docs) · 组织维护 · 中文 README
 
 **Ultralytics 平台 API 的类型化官方 Python SDK**
 

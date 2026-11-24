@@ -1,6 +1,6 @@
 # MikkoParkkola/trvl
 
-⭐ 95 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/MikkoParkkola/trvl) · [官网](https://mikkoparkkola.github.io/trvl/) · 个人维护
+⭐ 95 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MikkoParkkola/trvl) · [官网](https://mikkoparkkola.github.io/trvl/) · 个人维护
 
 **给 AI 助手的旅行搜索 MCP 服务器：机票酒店火车一体的单一二进制**
 

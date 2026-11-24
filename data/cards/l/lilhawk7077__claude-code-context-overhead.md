@@ -1,6 +1,6 @@
 # lilhawk7077/claude-code-context-overhead
 
-⭐ 4 · 推送 2026-10-23 · [GitHub](https://github.com/lilhawk7077/claude-code-context-overhead) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **教程文章：拆解 Claude Code 每轮上下文占用并给出精简方法**
 

@@ -1,6 +1,6 @@
 # stefanoskarakasis/Product-Marketing-Skills
 
-⭐ 18 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/stefanoskarakasis/Product-Marketing-Skills) · [官网](https://stefanoskarakasis.substack.com/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/stefanoskarakasis/Product-Marketing-Skills) · [官网](https://stefanoskarakasis.substack.com/) · 个人维护
 
 **面向产品营销人员的 50 个 AI agent 技能合集（Claude Code）**
 

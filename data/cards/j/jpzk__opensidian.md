@@ -1,6 +1,6 @@
 # jpzk/opensidian
 
-⭐ 410 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/jpzk/opensidian) · [官网](https://www.opensidian.org) · 个人维护
+⭐ 412 · JavaScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/jpzk/opensidian) · [官网](https://www.opensidian.org) · 个人维护
 
 **Rust+Tauri 的跨平台 Markdown 笔记应用，兼容 Obsidian vault**
 

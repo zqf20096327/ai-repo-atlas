@@ -1,6 +1,6 @@
 # rakgoorak/SuperAi-RAKKYXD-releases
 
-⭐ 8 · HTML · 推送 2026-11-19 · [GitHub](https://github.com/rakgoorak/SuperAi-RAKKYXD-releases) · [官网](https://rakgoorak.github.io/SuperAi-RAKKYXD/) · 个人维护 · 中文 README
+⭐ 8 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/rakgoorak/SuperAi-RAKKYXD-releases) · [官网](https://rakgoorak.github.io/SuperAi-RAKKYXD/) · 个人维护 · 中文 README
 
 **SuperAi & RAKKYXD 桌面应用的安装包分发仓库**
 

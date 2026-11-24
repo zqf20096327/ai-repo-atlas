@@ -1,6 +1,6 @@
 # lobehub/lobe-mygo
 
-⭐ 263 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/lobehub/lobe-mygo) · [官网](https://mygo.lobehub.com) · 组织维护 · 中文 README
+⭐ 266 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/lobehub/lobe-mygo) · [官网](https://mygo.lobehub.com) · 组织维护 · 中文 README
 
 **Go 桌面应用的 Lobe UI 组件库，纯 Go GPU 绘制**
 

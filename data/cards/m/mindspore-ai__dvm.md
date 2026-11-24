@@ -1,6 +1,6 @@
 # mindspore-ai/dvm
 
-⭐ 107 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mindspore-ai/dvm) · 组织维护 · 中文 README
+⭐ 114 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mindspore-ai/dvm) · 组织维护 · 中文 README
 
 **微秒级实时 AI 算子编译与执行框架**
 

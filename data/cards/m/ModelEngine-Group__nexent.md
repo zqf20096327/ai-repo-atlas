@@ -1,6 +1,6 @@
 # ModelEngine-Group/nexent
 
-⭐ 6,241 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ModelEngine-Group/nexent) · [官网](http://modelengine-group.github.io/nexent/) · 组织维护 · 中文 README
+⭐ 6,248 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ModelEngine-Group/nexent) · [官网](http://modelengine-group.github.io/nexent/) · 组织维护 · 中文 README
 
 **零代码平台：用自然语言自动生成生产级 AI Agent**
 

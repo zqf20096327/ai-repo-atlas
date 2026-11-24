@@ -1,6 +1,6 @@
 # mooch443/trex
 
-⭐ 130 · C++ · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/mooch443/trex) · [官网](https://trex.run) · 个人维护
+⭐ 131 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mooch443/trex) · [官网](https://trex.run) · 个人维护
 
 **多动物追踪软件：计算机视觉追踪、无标记识别与姿态估计**
 

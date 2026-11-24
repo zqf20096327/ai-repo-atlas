@@ -1,6 +1,6 @@
 # OpenVulcan/vulcan-code
 
-⭐ 88 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/OpenVulcan/vulcan-code) · [官网](https://openvulcan.com) · 组织维护 · 中文 README
+⭐ 105 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/OpenVulcan/vulcan-code) · [官网](https://openvulcan.com) · 组织维护 · 中文 README
 
 **开源 AI 编程工作台：桌面 GUI 与终端 TUI 双客户端**
 

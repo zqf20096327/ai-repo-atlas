@@ -1,6 +1,6 @@
 # salmanashraf/mobile-ai-agents
 
-⭐ 38 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/salmanashraf/mobile-ai-agents) · [官网](https://www.npmjs.com/package/mobile-ai-agents) · 个人维护
+⭐ 38 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/salmanashraf/mobile-ai-agents) · [官网](https://salmanashraf.github.io/mobile-ai-agents/) · 个人维护
 
 **面向移动开发者的 AI 代理/技能/工作流工具集（19 代理、57 技能）**
 

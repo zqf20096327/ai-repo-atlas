@@ -1,6 +1,6 @@
 # huggingface/pybot
 
-⭐ 1,114 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/pybot) · 组织维护
+⭐ 1,146 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/pybot) · 组织维护
 
 **纯规则聊天机器人：无权重无训练，千余 agent 协作写成**
 

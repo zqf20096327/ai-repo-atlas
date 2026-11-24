@@ -1,6 +1,6 @@
 # xiaoche0907/Life-ai
 
-⭐ 3 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/xiaoche0907/Life-ai) · [官网](https://github.com/xiaoche0907/Life-ai/releases) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 Photoshop 的 AI 生图与修图桌面助手（Windows 测试版）**
 

@@ -1,6 +1,6 @@
 # yc-software/qm
 
-⭐ 15,761 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yc-software/qm) · [官网](https://labs.ycombinator.com/qm) · 组织维护
+⭐ 15,772 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yc-software/qm) · [官网](https://labs.ycombinator.com/qm) · 组织维护
 
 **团队多用户 agent 运行平台：Slack/Web 自托管部署**
 

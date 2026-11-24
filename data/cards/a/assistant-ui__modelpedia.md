@@ -1,6 +1,6 @@
 # assistant-ui/modelpedia
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/assistant-ui/modelpedia) · [官网](https://modelpedia.dev) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/assistant-ui/modelpedia) · [官网](https://modelpedia.dev) · 组织维护
 
 **跨厂商 AI 模型开放目录：规格、价格、能力查询**
 

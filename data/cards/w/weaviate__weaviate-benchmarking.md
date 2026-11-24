@@ -1,6 +1,6 @@
 # weaviate/weaviate-benchmarking
 
-⭐ 32 · Go · BSD-3-Clause · 推送 2026-11-03 · [GitHub](https://github.com/weaviate/weaviate-benchmarking) · 组织维护
+⭐ 32 · Go · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/weaviate/weaviate-benchmarking) · 组织维护
 
 **Weaviate 向量数据库的性能基准测试工具（Go 实现）**
 

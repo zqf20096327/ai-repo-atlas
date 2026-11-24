@@ -1,6 +1,6 @@
 # intuitem/ciso-assistant-community
 
-⭐ 4,659 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/intuitem/ciso-assistant-community) · [官网](https://intuitem.com) · 组织维护
+⭐ 4,671 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/intuitem/ciso-assistant-community) · [官网](https://intuitem.com) · 组织维护
 
 **面向安全与合规团队的一站式 GRC 管理平台**
 

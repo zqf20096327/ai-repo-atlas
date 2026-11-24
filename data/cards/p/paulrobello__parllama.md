@@ -1,6 +1,6 @@
 # paulrobello/parllama
 
-⭐ 497 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/paulrobello/parllama) · 个人维护
+⭐ 498 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/paulrobello/parllama) · 个人维护
 
 **终端 TUI：管理并使用 Ollama 及多家云端 LLM 聊天**
 

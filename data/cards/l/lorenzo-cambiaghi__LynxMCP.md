@@ -1,6 +1,6 @@
 # lorenzo-cambiaghi/LynxMCP
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/lorenzo-cambiaghi/LynxMCP) · [官网](https://github.com/lorenzo-cambiaghi/LynxMCP) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lorenzo-cambiaghi/LynxMCP) · [官网](https://github.com/lorenzo-cambiaghi/LynxMCP) · 个人维护
 
 **本地代码检索 MCP 服务器：回答 grep 解决不了的代码结构问题**
 

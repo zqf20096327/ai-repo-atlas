@@ -1,6 +1,6 @@
 # vinjivani777/awesome-free-ai
 
-⭐ 11 · 推送 2026-11-22 · [GitHub](https://github.com/vinjivani777/awesome-free-ai) · [官网](https://www.freeairepo.com) · 个人维护 · 中文 README
+⭐ 12 · 推送 2026-11-23 · [GitHub](https://github.com/vinjivani777/awesome-free-ai) · [官网](https://www.freeairepo.com) · 个人维护 · 中文 README
 
 **免费开源自托管 AI 工具策展清单：标注安装难度/商用许可/硬件**
 

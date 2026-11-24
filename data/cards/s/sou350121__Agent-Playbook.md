@@ -1,6 +1,6 @@
 # sou350121/Agent-Playbook
 
-⭐ 14 · PowerShell · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/sou350121/Agent-Playbook) · 个人维护 · 中文 README
+⭐ 14 · PowerShell · CC-BY-4.0 · 推送 2026-11-24 · [GitHub](https://github.com/sou350121/Agent-Playbook) · 个人维护 · 中文 README
 
 **AI Agent 工程情报库：每日过滤评级资讯并沉淀理论/速查/预测**
 

@@ -1,16 +1,16 @@
 # TNT-Likely/PanWatch
 
-⭐ 2,558 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TNT-Likely/PanWatch) · [官网](https://github.com/TNT-Likely/PanWatch#quick-start) · 个人维护 · 中文 README
+⭐ 2,564 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TNT-Likely/PanWatch) · [官网](https://github.com/TNT-Likely/PanWatch#quick-start) · 个人维护 · 中文 README
 
-**自托管的A股/港股/美股 AI 盯盘与持仓分析系统**
+**自托管 AI 股票盯盘应用，覆盖A股/港股/美股**
 
-自托管的股票监控 Web 应用（含 PWA 与移动端连接）：管理多券商账户持仓与盈亏、价格条件提醒、模拟交易、技术指标（MACD/RSI/KDJ/布林带）与 AI 评分机会列表。核心机制为 TradingAgents 九角色研究流程：分析师输出经多空辩论、风险审查后生成 PM 决策备忘录，并推送至 Telegram/企业微信/钉钉/飞书等渠道；支持盘前/盘中/收盘定时 agent 与交易所日历过滤。模型通过 OpenAI 兼容接口配置或本地 Ollama 接入；ETF 深度分析不含基金持仓、费率等结构化数据。
+自托管的股票监控 Web 应用：管理多券商账户持仓与盈亏、AND/OR 组合条件价格提醒、AI 评分机会列表、模拟交易，以及基于 TradingAgents 的深度分析——四个分析师角色进入多空辩论、风险审查与基金经理决策。定时 agent 在交易日运行盘前/盘中/收盘工作流，报告经 Telegram、企业微信、钉钉、飞书、Bark 或 webhook 通知。通过 Docker 部署，需在设置中接入 OpenAI 兼容模型服务或经 Ollama 使用本地模型；ETF 的持仓、费率等结构化数据尚未提供。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- TradingAgents 深度分析：四个分析师角色→多空辩论→风险审查→PM 决策，附完整推理链
-- 盘前/盘中/收盘定时 agent，自动过滤交易所节假日与休市时段
-- A股 T+1、港股 T+2、美股 T+1 的模拟交易结算模型
-- 通知渠道覆盖 Telegram、企业微信、钉钉、飞书、Bark 与 webhook
+- TradingAgents 多 agent 研究流程：多空辩论+风险审查+PM 决策备忘录
+- 多账户组合管理与模拟交易，内置 A股 T+1、港股 T+2 等结算规则
+- 盘前/盘中/收盘定时 agent 与市场日历过滤（节假日、半日市）
+- PWA 可安装到手机主屏，另有 Android 应用经 QR 连接服务器
 
 ## 适用场景
 
-- 让多角色 AI agent 对我的持仓做深度研究并推送决策备忘录
-- 按自定义条件在交易时段接收价格提醒
-- 用模拟交易验证信号策略并跟踪资金曲线
+- 自动盯盘并在异动时收到实时提醒
+- 让多 agent 研究流程分析我的持仓并输出决策备忘录
+- 用模拟交易验证信号策略而不投入真实资金
+- 通过钉钉/飞书/Telegram 接收每日收盘报告
 
 ## 场景标签
 
-`金融量化` · 领域:学习与行业
+`金融量化` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5:  Monitor A-shares, Hong Kong, and U.S. stocks, manage your portfolios, and research ideas with TradingAgents. Self-h
+> L1: PanWatch — Self-hosted AI stock monitoring
 > L23: > 🧠 **Start from a portfolio holding → let a nine-agent TradingAgents research team analyze it → follow the bull/be
-> L144: Select the brain icon beside a holding to start TradingAgents deep analysis. Four analyst roles feed a bull/bear d
+> L56: |**Portfolio**|Manage multiple brokerage accounts, track holdings and P&L, and set trading styles.|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `5fecc176ce9a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `999165927eea` · [字段定义](../../DATASET.md)*

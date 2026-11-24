@@ -1,6 +1,6 @@
 # AIPMAndy/andy-ip-skill
 
-⭐ 10 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AIPMAndy/andy-ip-skill) · 个人维护 · 中文 README
+⭐ 11 · Shell · MIT · 推送 2026-10-25 · [GitHub](https://github.com/AIPMAndy/andy-ip-skill) · 个人维护 · 中文 README
 
 **面向个人IP打造者的AI内容创作技能工具箱**
 

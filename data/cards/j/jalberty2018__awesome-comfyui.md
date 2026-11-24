@@ -1,6 +1,6 @@
 # jalberty2018/awesome-comfyui
 
-⭐ 56 · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/jalberty2018/awesome-comfyui) · 个人维护 · 中文 README
+⭐ 56 · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/jalberty2018/awesome-comfyui) · 个人维护 · 中文 README
 
 **每日更新的 ComfyUI 自定义节点清单（awesome list）**
 

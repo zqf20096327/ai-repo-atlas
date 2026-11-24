@@ -1,6 +1,6 @@
 # akustikrausch/amigent
 
-⭐ 20 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/akustikrausch/amigent) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/akustikrausch/amigent) · 个人维护
 
 **让 AI agent 远程操控真实 Amiga 电脑的 MCP 服务器与远程桌面**
 

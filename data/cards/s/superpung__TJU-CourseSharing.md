@@ -1,6 +1,6 @@
 # superpung/TJU-CourseSharing
 
-⭐ 1,050 · Tcl · CC-BY-SA-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/superpung/TJU-CourseSharing) · [官网](https://cs.tjuse.com) · 个人维护 · 中文 README
+⭐ 1,054 · Tcl · CC-BY-SA-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/superpung/TJU-CourseSharing) · [官网](https://cs.tjuse.com) · 个人维护 · 中文 README
 
 **天津大学课程资料共享仓库：选课攻略与历年试卷**
 

@@ -1,6 +1,6 @@
 # bensafifatima57-svg/perplexity-deep-research-applepay
 
-⭐ 66 · 推送 2026-11-06 · [GitHub](https://github.com/bensafifatima57-svg/perplexity-deep-research-applepay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 87 · 推送 2026-11-06 · [GitHub](https://github.com/bensafifatima57-svg/perplexity-deep-research-applepay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡以开通 Perplexity Pro 的支付指南**
 

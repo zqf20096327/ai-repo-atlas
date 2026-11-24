@@ -1,6 +1,6 @@
 # langchain-ai/quickjs-rs
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/langchain-ai/quickjs-rs) · 组织维护
+⭐ 15 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/quickjs-rs) · 组织维护
 
 **在 WebAssembly 沙箱中执行 JavaScript 的 Python 库**
 

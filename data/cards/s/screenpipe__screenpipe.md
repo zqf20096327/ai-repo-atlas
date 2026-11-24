@@ -1,6 +1,6 @@
 # screenpipe/screenpipe
 
-⭐ 22,506 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/screenpipe/screenpipe) · [官网](https://screenpipe.com) · 组织维护
+⭐ 22,518 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/screenpipe/screenpipe) · [官网](https://screenpipe.com) · 组织维护
 
 **本地连续录屏工具：发现重复工作流并交给 AI agent**
 

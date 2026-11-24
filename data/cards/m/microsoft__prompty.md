@@ -1,6 +1,6 @@
 # microsoft/prompty
 
-⭐ 1,288 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/microsoft/prompty) · [官网](https://prompty.ai) · 组织维护
+⭐ 1,288 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/prompty) · [官网](https://prompty.ai) · 组织维护
 
 **面向开发者的跨语言 LLM 提示词文件格式与运行时**
 

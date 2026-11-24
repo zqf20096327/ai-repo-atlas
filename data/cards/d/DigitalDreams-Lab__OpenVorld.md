@@ -1,6 +1,6 @@
 # DigitalDreams-Lab/OpenVorld
 
-⭐ 25 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DigitalDreams-Lab/OpenVorld) · [官网](https://openvorld.com) · 组织维护
+⭐ 29 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DigitalDreams-Lab/OpenVorld) · [官网](https://openvorld.com) · 组织维护
 
 **给 AI agent 团队一个像素风 RPG 世界看板的本地优先工作台**
 

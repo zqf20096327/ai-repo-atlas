@@ -1,6 +1,6 @@
 # jhkang-rsrch/rfantibody-gui
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2025-12-02 · [GitHub](https://github.com/jhkang-rsrch/rfantibody-gui) · [官网](https://uos-nlp.notion.site/) · 个人维护
+⭐ 10 · TypeScript · NOASSERTION · 推送 2025-12-02 · [GitHub](https://github.com/jhkang-rsrch/rfantibody-gui) · [官网](https://jhkang-rsrch.github.io/posts/rfantibody-gui/) · 个人维护
 
 **为结构生物学研究者提供 RFantibody 抗体设计与 AF3 预测的 Web 图形界面**
 

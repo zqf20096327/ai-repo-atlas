@@ -1,6 +1,6 @@
 # ThinkOffApp/CarWatch
 
-⭐ 306 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/ThinkOffApp/CarWatch) · [官网](https://carwatch.dev) · 个人维护
+⭐ 307 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/ThinkOffApp/CarWatch) · [官网](https://carwatch.dev) · 个人维护
 
 **让汽车成为聊天室 agent 的树莓派本地 AI 车载系统**
 

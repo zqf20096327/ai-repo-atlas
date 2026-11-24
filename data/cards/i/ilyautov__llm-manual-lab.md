@@ -1,6 +1,6 @@
 # ilyautov/llm-manual-lab
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/ilyautov/llm-manual-lab) · 个人维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ilyautov/llm-manual-lab) · 个人维护
 
 **俄语免费 LLM 理论教材，附 TypeScript 可复现实验室**
 

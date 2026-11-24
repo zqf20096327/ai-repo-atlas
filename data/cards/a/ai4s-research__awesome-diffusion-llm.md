@@ -1,6 +1,6 @@
 # ai4s-research/awesome-diffusion-llm
 
-⭐ 12 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ai4s-research/awesome-diffusion-llm) · 组织维护
+⭐ 12 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai4s-research/awesome-diffusion-llm) · 组织维护
 
 **扩散语言模型（dLLM）论文、模型与代码的策展清单**
 

@@ -1,6 +1,6 @@
 # corsairdev/corsair
 
-⭐ 15,623 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/corsairdev/corsair) · [官网](https://corsair.dev) · 组织维护
+⭐ 15,625 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/corsairdev/corsair) · [官网](https://corsair.dev) · 组织维护
 
 **为开发者提供统一的第三方应用集成平台，供 agent 与应用调用**
 

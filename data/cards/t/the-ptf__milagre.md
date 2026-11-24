@@ -1,6 +1,6 @@
 # the-ptf/milagre
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/the-ptf/milagre) · [官网](milagre.dev) · 组织维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/the-ptf/milagre) · [官网](milagre.dev) · 组织维护
 
 **桌面应用：在本机并行运行 Claude Code/Codex/Kiro 等 agent，手机远程审批**
 

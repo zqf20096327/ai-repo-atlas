@@ -1,6 +1,6 @@
 # NetSendo/NetSendo
 
-⭐ 19 · PHP · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/NetSendo/NetSendo) · [官网](https://netsendo.com) · 组织维护
+⭐ 19 · PHP · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/NetSendo/NetSendo) · [官网](https://netsendo.com) · 组织维护
 
 **自托管的邮件/短信营销自动化平台，含 CRM、网络研讨会与 AI 套件**
 

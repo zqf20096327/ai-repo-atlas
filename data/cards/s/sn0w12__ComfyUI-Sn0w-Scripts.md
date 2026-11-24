@@ -1,6 +1,6 @@
 # sn0w12/ComfyUI-Sn0w-Scripts
 
-⭐ 18 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sn0w12/ComfyUI-Sn0w-Scripts) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sn0w12/ComfyUI-Sn0w-Scripts) · 个人维护
 
 **给 ComfyUI 用户的 LoRA 管理与杂项自定义节点集合**
 

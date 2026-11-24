@@ -1,6 +1,6 @@
 # habit-hooks/habit-hooks
 
-⭐ 277 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/habit-hooks/habit-hooks) · [官网](http://habit-hooks.com/) · 组织维护
+⭐ 280 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/habit-hooks/habit-hooks) · [官网](http://habit-hooks.com/) · 组织维护
 
 **把 linter 违规改写为辅导指南、引导 AI 编程代理改进代码的工具**
 

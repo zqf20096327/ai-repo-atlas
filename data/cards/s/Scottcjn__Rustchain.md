@@ -1,6 +1,6 @@
 # Scottcjn/Rustchain
 
-⭐ 661 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Scottcjn/Rustchain) · [官网](https://rustchain.org) · 个人维护 · 中文 README
+⭐ 661 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Scottcjn/Rustchain) · [官网](https://rustchain.org) · 个人维护 · 中文 README
 
 **抗女巫攻击的 AI agent 网络：用硬件指纹验证真实机器身份**
 

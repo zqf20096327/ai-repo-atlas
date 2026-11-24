@@ -1,6 +1,6 @@
 # emcie-co/parlant
 
-⭐ 18,339 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/emcie-co/parlant) · [官网](https://www.parlant.io) · 组织维护 · 中文 README
+⭐ 18,339 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/emcie-co/parlant) · [官网](https://www.parlant.io) · 组织维护 · 中文 README
 
 **面向开发者的客户服务 AI agent 构建与运行平台**
 

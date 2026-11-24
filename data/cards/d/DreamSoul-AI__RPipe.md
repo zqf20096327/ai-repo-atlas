@@ -1,6 +1,6 @@
 # DreamSoul-AI/RPipe
 
-⭐ 25 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DreamSoul-AI/RPipe) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DreamSoul-AI/RPipe) · 个人维护 · 中文 README
 
 **研究实验代码架构与执行模板：YAML 声明实验并自动展开运行**
 

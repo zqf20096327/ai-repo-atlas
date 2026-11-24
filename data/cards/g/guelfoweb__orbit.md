@@ -1,6 +1,6 @@
 # guelfoweb/orbit
 
-⭐ 18 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/guelfoweb/orbit) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/guelfoweb/orbit) · 个人维护
 
 **CPU 本地 agentic AI 运行时：本地聊天、工具调用与静态产物分析**
 

@@ -1,6 +1,6 @@
 # Schwi-AI/DiffusionCreamPy
 
-⭐ 40 · CC-BY-4.0 · 推送 2026-05-13 · [GitHub](https://github.com/Schwi-AI/DiffusionCreamPy) · 个人维护
+⭐ 41 · CC-BY-4.0 · 推送 2026-05-13 · [GitHub](https://github.com/Schwi-AI/DiffusionCreamPy) · 个人维护
 
 **用 SDXL+ControlNet 去除 Hentai 马赛克/条形遮挡的 ComfyUI 工作流模板集**
 

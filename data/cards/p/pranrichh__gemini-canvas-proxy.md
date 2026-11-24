@@ -1,6 +1,6 @@
 # pranrichh/gemini-canvas-proxy
 
-⭐ 38 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/pranrichh/gemini-canvas-proxy) · [官网](https://github.com/pranrichh/gemini-canvas-proxy) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/pranrichh/gemini-canvas-proxy) · [官网](https://github.com/pranrichh/gemini-canvas-proxy) · 个人维护
 
 **把 Gemini Canvas 会话转为本地 OpenAI 兼容 API 端点**
 

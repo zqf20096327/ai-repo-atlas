@@ -1,6 +1,6 @@
 # aws-solutions/konductor
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aws-solutions/konductor) · [官网](https://aws-solutions.github.io/konductor/) · 组织维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aws-solutions/konductor) · [官网](https://aws-solutions.github.io/konductor/) · 组织维护
 
 **为开发者提供覆盖 SDLC 的多 AI agent 团队编排**
 

@@ -1,6 +1,6 @@
 # vulture-s/arkiv
 
-⭐ 81 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/vulture-s/arkiv) · [官网](https://vulture-s.github.io/arkiv/) · 个人维护 · 中文 README
+⭐ 81 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/vulture-s/arkiv) · [官网](https://vulture-s.github.io/arkiv/) · 个人维护 · 中文 README
 
 **给独立 DIT 与小团队的本地优先媒体资产管理器，AI 元数据与语义搜索**
 

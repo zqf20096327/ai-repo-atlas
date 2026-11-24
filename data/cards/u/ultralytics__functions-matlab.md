@@ -1,6 +1,6 @@
 # ultralytics/functions-matlab
 
-⭐ 83 · MATLAB · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ultralytics/functions-matlab) · [官网](https://ultralytics.com) · 组织维护
+⭐ 84 · MATLAB · AGPL-3.0 · 推送 2026-09-27 · [GitHub](https://github.com/ultralytics/functions-matlab) · [官网](https://ultralytics.com) · 组织维护
 
 **Ultralytics 生态共享的 MATLAB 工具函数库**
 

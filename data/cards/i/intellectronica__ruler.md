@@ -1,6 +1,6 @@
 # intellectronica/ruler
 
-⭐ 2,998 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/intellectronica/ruler) · 个人维护
+⭐ 2,999 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/intellectronica/ruler) · 个人维护
 
 **为多款 AI 编码助手集中管理并分发指令的 CLI 工具**
 

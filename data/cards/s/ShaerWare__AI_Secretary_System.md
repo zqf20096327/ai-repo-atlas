@@ -1,6 +1,6 @@
 # ShaerWare/AI_Secretary_System
 
-⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ShaerWare/AI_Secretary_System) · [官网](https://shaerware.github.io/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ShaerWare/AI_Secretary_System) · [官网](https://shaerware.github.io/) · 组织维护
 
 **自托管 AI 电话秘书/客服/销售系统，带语音克隆与本地 LLM**
 

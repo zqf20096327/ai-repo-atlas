@@ -1,6 +1,6 @@
 # hades217/awesome-ai
 
-⭐ 560 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hades217/awesome-ai) · [官网](https://jracademy.ai/) · 个人维护 · 中文 README
+⭐ 560 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hades217/awesome-ai) · [官网](https://jracademy.ai/) · 个人维护 · 中文 README
 
 **AI 资源策展清单：模型、工具、框架、课程等分类收录**
 

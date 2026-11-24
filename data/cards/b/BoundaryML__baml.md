@@ -1,6 +1,6 @@
 # BoundaryML/baml
 
-⭐ 9,532 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/BoundaryML/baml) · [官网](https://boundaryml.com/explore) · 组织维护
+⭐ 9,533 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/BoundaryML/baml) · [官网](https://boundaryml.com/explore) · 组织维护
 
 **面向 agent 开发的领域编程语言**
 

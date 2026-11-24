@@ -1,6 +1,6 @@
 # FogMoe/telegram-bot
 
-⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/FogMoe/telegram-bot) · [官网](https://t.me/FogMoeBot) · 个人维护 · 中文 README
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/FogMoe/telegram-bot) · [官网](https://t.me/FogMoeBot) · 个人维护 · 中文 README
 
 **面向 Telegram 群组的多功能机器人：AI 对话、积分、游戏与管理**
 

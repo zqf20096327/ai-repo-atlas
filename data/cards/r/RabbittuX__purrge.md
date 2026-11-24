@@ -1,6 +1,6 @@
 # RabbittuX/purrge
 
-⭐ 522 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/RabbittuX/purrge) · [官网](https://static.yellowrabbit.online/purrge/index.html) · 个人维护 · 中文 README
+⭐ 523 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/RabbittuX/purrge) · [官网](https://static.yellowrabbit.online/purrge/index.html) · 个人维护 · 中文 README
 
 **macOS/Windows 的 AI 辅助磁盘清理工具：低空间预警+AI 分析+用户确认**
 

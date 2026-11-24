@@ -1,6 +1,6 @@
 # eliteresearchlab/BanglaNLP-Hub
 
-⭐ 10 · Astro · MIT · 推送 2026-11-22 · [GitHub](https://github.com/eliteresearchlab/BanglaNLP-Hub) · [官网](https://eliteresearchlab.github.io/BanglaNLP-Hub/) · 组织维护
+⭐ 10 · Astro · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eliteresearchlab/BanglaNLP-Hub) · [官网](https://eliteresearchlab.github.io/BanglaNLP-Hub/) · 组织维护
 
 **面向孟加拉语 NLP 研究者的论文/数据集/模型/工具目录**
 

@@ -1,6 +1,6 @@
 # langfuse/langfuse-terraform-aws
 
-⭐ 65 · HCL · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langfuse/langfuse-terraform-aws) · 组织维护
+⭐ 65 · HCL · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langfuse/langfuse-terraform-aws) · 组织维护
 
 **在 AWS 上部署 Langfuse 的 Terraform 模块**
 

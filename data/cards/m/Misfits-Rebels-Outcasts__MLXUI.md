@@ -1,6 +1,6 @@
 # Misfits-Rebels-Outcasts/MLXUI
 
-⭐ 24 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Misfits-Rebels-Outcasts/MLXUI) · [官网](https://connectcode.net/mlxui_local_llm_ai_browser.html) · 组织维护
+⭐ 24 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Misfits-Rebels-Outcasts/MLXUI) · [官网](https://connectcode.net/mlxui_local_llm_ai_browser.html) · 组织维护
 
 **Apple Silicon 上的 MLX 本地模型浏览与运行界面**
 

@@ -1,6 +1,6 @@
 # EasonGuuu/Deskweek
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EasonGuuu/Deskweek) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EasonGuuu/Deskweek) · 个人维护 · 中文 README
 
 **Windows 桌面周历与待办小组件，可选 AI 提取待办**
 

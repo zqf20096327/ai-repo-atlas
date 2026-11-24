@@ -1,6 +1,6 @@
 # agentcommunity/agent-identity-discovery
 
-⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/agentcommunity/agent-identity-discovery) · [官网](https://aid.agentcommunity.org/) · 组织维护
+⭐ 48 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/agentcommunity/agent-identity-discovery) · [官网](https://aid.agentcommunity.org/) · 组织维护
 
 **基于 DNS TXT 记录的 agent 服务发现开放标准与多语言库**
 

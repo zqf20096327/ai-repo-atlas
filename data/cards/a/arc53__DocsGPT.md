@@ -1,6 +1,6 @@
 # arc53/DocsGPT
 
-⭐ 18,373 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
+⭐ 18,380 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
 
 **企业级私有化 AI 问答与 Agent 平台：文档接地回答**
 

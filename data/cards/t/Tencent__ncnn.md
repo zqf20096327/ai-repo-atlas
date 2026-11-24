@@ -1,6 +1,6 @@
 # Tencent/ncnn
 
-⭐ 24,087 · C++ · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Tencent/ncnn) · 组织维护 · 中文 README
+⭐ 24,095 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Tencent/ncnn) · 组织维护 · 中文 README
 
 **面向移动/嵌入式/桌面部署的神经网络推理框架**
 

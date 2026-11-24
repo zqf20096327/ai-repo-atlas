@@ -1,6 +1,6 @@
 # FareedKhan-dev/scalable-rag-pipeline
 
-⭐ 169 · Python · MIT · 推送 2025-12-27 · [GitHub](https://github.com/FareedKhan-dev/scalable-rag-pipeline) · [官网](https://medium.com/@fareedkhandev/1168dcd36260) · 个人维护
+⭐ 170 · Python · MIT · 推送 2025-12-27 · [GitHub](https://github.com/FareedKhan-dev/scalable-rag-pipeline) · [官网](https://medium.com/@fareedkhandev/1168dcd36260) · 个人维护
 
 **AWS EKS 上的生产级 Agentic RAG 平台：Terraform+Ray+混合检索**
 

@@ -1,6 +1,6 @@
 # quantcli/liftoff-export-cli
 
-⭐ 12 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/quantcli/liftoff-export-cli) · 组织维护
+⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/quantcli/liftoff-export-cli) · 组织维护
 
 **从 Liftoff 健身应用导出并分析训练数据的命令行工具**
 

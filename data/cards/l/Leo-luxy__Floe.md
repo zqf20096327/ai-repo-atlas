@@ -1,6 +1,6 @@
 # Leo-luxy/Floe
 
-⭐ 17 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Leo-luxy/Floe) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Leo-luxy/Floe) · 个人维护 · 中文 README
 
 **A股投资者本地量化选股与五维 AI 决策桌面工作台**
 

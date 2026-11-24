@@ -1,6 +1,6 @@
 # tidy-finance/website
 
-⭐ 121 · HTML · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/tidy-finance/website) · [官网](https://tidy-finance.org) · 组织维护
+⭐ 121 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/tidy-finance/website) · [官网](https://tidy-finance.org) · 组织维护
 
 **tidy-finance.org 网站源码：两本金融编程书籍与博客的站点仓库**
 

@@ -1,6 +1,6 @@
 # Desko77/ai-edt
 
-⭐ 31 · Java · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Desko77/ai-edt) · [官网](https://desko77.github.io/ai-edt/) · 个人维护
+⭐ 31 · Java · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Desko77/ai-edt) · [官网](https://desko77.github.io/ai-edt/) · 个人维护
 
 **1C:EDT 内运行的 MCP 服务器，让 AI 代理语义化访问 1C 项目**
 

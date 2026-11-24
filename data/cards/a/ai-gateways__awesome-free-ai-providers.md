@@ -1,6 +1,6 @@
 # ai-gateways/awesome-free-ai-providers
 
-⭐ 9 · CC0-1.0 · 推送 2026-11-03 · [GitHub](https://github.com/ai-gateways/awesome-free-ai-providers) · 个人维护
+⭐ 10 · CC0-1.0 · 推送 2026-11-03 · [GitHub](https://github.com/ai-gateways/awesome-free-ai-providers) · 个人维护
 
 **托管 AI 模型 API 免费额度清单：额度、限制与数据条款**
 

@@ -1,6 +1,6 @@
 # cslylla/actually-remote
 
-⭐ 14 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cslylla/actually-remote) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cslylla/actually-remote) · 个人维护
 
 **自托管全球远程职位监控机器人：AI 打分并每日推送匹配职位**
 

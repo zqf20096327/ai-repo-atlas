@@ -1,6 +1,6 @@
 # swombat/souls-house
 
-⭐ 48 · Ruby · MIT · 推送 2026-11-22 · [GitHub](https://github.com/swombat/souls-house) · [官网](https://souls.house) · 个人维护
+⭐ 48 · Ruby · MIT · 推送 2026-11-24 · [GitHub](https://github.com/swombat/souls-house) · [官网](https://souls.house) · 个人维护
 
 **自托管平台：让 AI 角色拥有持久记忆、日志与自有环境地“生活**
 

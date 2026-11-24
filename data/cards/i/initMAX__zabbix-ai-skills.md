@@ -1,6 +1,6 @@
 # initMAX/zabbix-ai-skills
 
-⭐ 33 · AGPL-3.0 · 推送 2026-03-31 · [GitHub](https://github.com/initMAX/zabbix-ai-skills) · [官网](https://www.initmax.com) · 组织维护
+⭐ 32 · AGPL-3.0 · 推送 2026-03-31 · [GitHub](https://github.com/initMAX/zabbix-ai-skills) · [官网](https://www.initmax.com) · 组织维护
 
 **Zabbix 运维 AI 技能集：通过 MCP 自动执行监控管理任务**
 

@@ -1,6 +1,6 @@
 # spring-petclinic/spring-petclinic-ai
 
-⭐ 39 · Java · Apache-2.0 · 推送 2026-09-13 · [GitHub](https://github.com/spring-petclinic/spring-petclinic-ai) · 组织维护
+⭐ 39 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/spring-petclinic/spring-petclinic-ai) · 组织维护
 
 **Spring PetClinic 示例应用的 AI 聊天助手分支**
 

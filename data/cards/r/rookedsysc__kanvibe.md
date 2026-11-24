@@ -1,6 +1,6 @@
 # rookedsysc/kanvibe
 
-⭐ 151 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/rookedsysc/kanvibe) · [官网](https://kanvibe.rookedsysc.com) · 个人维护 · 中文 README
+⭐ 151 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/rookedsysc/kanvibe) · [官网](https://kanvibe.rookedsysc.com) · 个人维护 · 中文 README
 
 **键盘优先的桌面看板工作台：集中管理 AI 编码 agent 任务与终端会话**
 

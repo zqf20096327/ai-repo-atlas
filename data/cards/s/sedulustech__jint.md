@@ -1,6 +1,6 @@
 # sedulustech/jint
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sedulustech/jint) · [官网](https://jint.sh) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sedulustech/jint) · [官网](https://jint.sh) · 组织维护
 
 **面向开发者的语义化代码 linter：用 AI 分类器执行自定义规则**
 

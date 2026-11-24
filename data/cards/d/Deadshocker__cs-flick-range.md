@@ -1,6 +1,6 @@
 # Deadshocker/cs-flick-range
 
-⭐ 57 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/Deadshocker/cs-flick-range) · 个人维护
+⭐ 57 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/Deadshocker/cs-flick-range) · 个人维护
 
 **浏览器端 FPS 瞄准训练工具，含自适应难度与练习遥测**
 

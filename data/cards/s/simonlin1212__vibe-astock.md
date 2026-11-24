@@ -1,6 +1,6 @@
 # simonlin1212/vibe-astock
 
-⭐ 1,105 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/simonlin1212/vibe-astock) · 个人维护 · 中文 README
+⭐ 1,115 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/simonlin1212/vibe-astock) · 个人维护 · 中文 README
 
 **A 股短线复盘与跟踪工作台：盯盘、情绪复盘与 AI 复盘**
 

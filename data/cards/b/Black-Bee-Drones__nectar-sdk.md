@@ -1,6 +1,6 @@
 # Black-Bee-Drones/nectar-sdk
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Black-Bee-Drones/nectar-sdk) · [官网](https://black-bee-drones.github.io/nectar-sdk/) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Black-Bee-Drones/nectar-sdk) · [官网](https://black-bee-drones.github.io/nectar-sdk/) · 组织维护
 
 **面向无人机自主系统的 ROS2 SDK：统一飞控、视觉与 AI 接口**
 

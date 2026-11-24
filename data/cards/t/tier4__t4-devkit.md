@@ -1,6 +1,6 @@
 # tier4/t4-devkit
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/tier4/t4-devkit) · [官网](https://tier4.github.io/t4-devkit/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tier4/t4-devkit) · [官网](https://tier4.github.io/t4-devkit/) · 组织维护
 
 **自动驾驶 T4 数据集的加载与操作工具包**
 

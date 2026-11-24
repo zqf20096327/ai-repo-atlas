@@ -1,6 +1,6 @@
 # voaneves/snake-on-pygame
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/voaneves/snake-on-pygame) · [官网](https://voaneves.github.io/snake-on-pygame/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/voaneves/snake-on-pygame) · [官网](https://voaneves.github.io/snake-on-pygame/) · 个人维护
 
 **可用人类或 DQN 智能体操控的 Pygame 贪吃蛇游戏**
 

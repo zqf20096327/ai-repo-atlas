@@ -1,6 +1,6 @@
 # nicremo/dsh-cli
 
-⭐ 48 · JavaScript · MIT · 推送 2026-10-09 · [GitHub](https://github.com/nicremo/dsh-cli) · [官网](https://deepseekharnesscli.nicremo.de) · 个人维护
+⭐ 48 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nicremo/dsh-cli) · [官网](https://deepseekharnesscli.nicremo.de) · 个人维护
 
 **让编码 agent 并行驱动 DeepSeek Harness 会话的 CLI**
 

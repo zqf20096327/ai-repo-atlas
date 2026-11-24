@@ -1,6 +1,6 @@
 # Strom-Capital/mcp-server-db2i
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Strom-Capital/mcp-server-db2i) · [官网](https://db2i-mcp.com/) · 组织维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Strom-Capital/mcp-server-db2i) · [官网](https://db2i-mcp.com/) · 组织维护
 
 **让 Claude/Cursor 等查询 IBM Db2 for i 的只读 MCP 服务器**
 

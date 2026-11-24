@@ -1,6 +1,6 @@
 # kawayiYokami/P-ai
 
-⭐ 109 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/kawayiYokami/P-ai) · [官网](https://github.com/kawayiYokami/P-ai) · 个人维护 · 中文 README
+⭐ 109 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/kawayiYokami/P-ai) · [官网](https://github.com/kawayiYokami/P-ai) · 个人维护 · 中文 README
 
 **开箱即用的桌面 AI 助理：长期任务、记忆与高并发工作区自动化**
 

@@ -1,6 +1,6 @@
 # AgentBull/open-ankole
 
-⭐ 224 · Elixir · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AgentBull/open-ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
+⭐ 229 · Elixir · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AgentBull/open-ankole) · [官网](https://ankole.agentbull.com/) · 组织维护 · 中文 README
 
 **自托管企业级 Agent Harness：在自有基础设施上运行跨 Slack/飞书等渠道的 AI Agent**
 

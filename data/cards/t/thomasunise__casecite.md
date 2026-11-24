@@ -1,6 +1,6 @@
 # thomasunise/casecite
 
-⭐ 355 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/thomasunise/casecite) · [官网](https://thomasunise.com/casecite) · 个人维护
+⭐ 356 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/thomasunise/casecite) · [官网](https://thomasunise.com/casecite) · 个人维护
 
 **自托管法律 RAG 研究与文档分析平台，面向律所**
 

@@ -1,6 +1,6 @@
 # rraahh133/Worse
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/rraahh133/Worse) · [官网](https://rraahh133.github.io/Worse/) · 个人维护
+⭐ 9 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rraahh133/Worse) · [官网](https://rraahh133.github.io/Worse/) · 个人维护
 
 **在单一桌面应用中并排运行多个 AI 编码 agent 并管理配额切换**
 

@@ -1,6 +1,6 @@
 # microsoft/working-with-ai
 
-⭐ 46 · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/working-with-ai) · [官网](https://arxiv.org/abs/2507.07935) · 组织维护
+⭐ 47 · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/microsoft/working-with-ai) · [官网](https://arxiv.org/abs/2507.07935) · 组织维护
 
 **NeurIPS 论文数据：生成式 AI 对各职业适用度的度量结果**
 

@@ -1,6 +1,6 @@
 # pilc80/claudegpt
 
-⭐ 33 · Rust · MIT · 推送 2026-08-01 · [GitHub](https://github.com/pilc80/claudegpt) · 个人维护
+⭐ 34 · Rust · MIT · 推送 2026-08-01 · [GitHub](https://github.com/pilc80/claudegpt) · 个人维护
 
 **让 Claude Code 通过 OAuth 使用 ChatGPT/Codex 订阅的代理**
 

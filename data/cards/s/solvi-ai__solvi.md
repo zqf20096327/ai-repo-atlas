@@ -1,6 +1,6 @@
 # solvi-ai/solvi
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/solvi-ai/solvi) · [官网](https://solvi-ai.github.io/solvi/) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/solvi-ai/solvi) · [官网](https://solvi-ai.github.io/solvi/) · 组织维护
 
 **面向开发者的可校验决策系统框架：模型提议、代码裁决**
 

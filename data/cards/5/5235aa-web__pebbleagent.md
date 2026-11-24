@@ -1,6 +1,6 @@
 # 5235aa-web/pebbleagent
 
-⭐ 123 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/5235aa-web/pebbleagent) · 个人维护 · 中文 README
+⭐ 124 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/5235aa-web/pebbleagent) · 个人维护 · 中文 README
 
 **带工具与 MCP 的轻量桌面 AI 编程代理**
 

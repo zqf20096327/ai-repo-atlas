@@ -1,6 +1,6 @@
 # redis/redis-vl-python
 
-⭐ 436 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/redis/redis-vl-python) · [官网](https://docs.redisvl.com) · 组织维护
+⭐ 436 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/redis/redis-vl-python) · [官网](https://docs.redisvl.com) · 组织维护
 
 **面向 AI 应用的 Redis Python 客户端与向量检索库**
 

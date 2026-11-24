@@ -1,6 +1,6 @@
 # Hejunlong27/SoloDrama
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Hejunlong27/SoloDrama) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给个人创作者的短剧批量生产流水线工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `gpu-8g` | |

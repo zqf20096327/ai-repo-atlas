@@ -1,6 +1,6 @@
 # Orchis-ai-LLC/Konnect-EDA
 
-⭐ 191 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Orchis-ai-LLC/Konnect-EDA) · [官网](https://konnect-eda.orchis.ai) · 组织维护
+⭐ 194 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Orchis-ai-LLC/Konnect-EDA) · [官网](https://konnect-eda.orchis.ai) · 组织维护
 
 **面向 KiCad 10 的 AI 辅助 PCB 设计 MCP 插件**
 

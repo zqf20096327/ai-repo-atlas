@@ -1,6 +1,6 @@
 # blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc
 
-⭐ 37 · 推送 2026-11-16 · [GitHub](https://github.com/blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 59 · 推送 2026-11-16 · [GitHub](https://github.com/blatterjils-sketch/virtual-card-usdt-scalable-alignment-eval-pipeline-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **用 CoreGold 虚拟卡为 AI 评估批跑提供预算限额与资金管理**
 

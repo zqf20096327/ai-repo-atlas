@@ -1,6 +1,6 @@
 # speculcom/ai-handbook
 
-⭐ 3 · HTML · 推送 2026-11-22 · [GitHub](https://github.com/speculcom/ai-handbook) · [官网](https://learn.specul.com) · 个人维护 · 中文 README
+⭐ 3 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/speculcom/ai-handbook) · [官网](https://learn.specul.com) · 个人维护 · 中文 README
 
 **学AI、AI工具、AI模型的中文手册内容源**
 

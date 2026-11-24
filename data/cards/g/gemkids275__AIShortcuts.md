@@ -1,6 +1,6 @@
 # gemkids275/AIShortcuts
 
-⭐ 14 · Swift · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/gemkids275/AIShortcuts) · [官网](https://aishortcuts.github.io/) · 个人维护
+⭐ 14 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/gemkids275/AIShortcuts) · [官网](https://aishortcuts.github.io/) · 个人维护
 
 **系统级 AI 写作助手：任意应用选中文字按热键就地润色/改写/摘要**
 

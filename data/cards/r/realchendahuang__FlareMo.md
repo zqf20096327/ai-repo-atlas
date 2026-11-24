@@ -1,6 +1,6 @@
 # realchendahuang/FlareMo
 
-⭐ 363 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/realchendahuang/FlareMo) · [官网](https://flaremo.app) · 个人维护 · 中文 README
+⭐ 364 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/realchendahuang/FlareMo) · [官网](https://flaremo.app) · 个人维护 · 中文 README
 
 **部署在 Cloudflare 边缘的笔记/任务/知识库应用，兼作 AI Agent 长期记忆**
 

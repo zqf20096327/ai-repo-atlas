@@ -1,6 +1,6 @@
 # EayonLee/SecPlexus
 
-⭐ 4 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/EayonLee/SecPlexus) · [官网](https://www.secplexus.com) · 个人维护 · 中文 README
+⭐ 4 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EayonLee/SecPlexus) · [官网](https://www.secplexus.com) · 个人维护 · 中文 README
 
 **面向 SOC 团队的开源 AI 安全运营平台**
 

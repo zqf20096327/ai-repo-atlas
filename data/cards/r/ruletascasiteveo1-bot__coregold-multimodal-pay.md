@@ -1,6 +1,6 @@
 # ruletascasiteveo1-bot/coregold-multimodal-pay
 
-⭐ 77 · 推送 2026-11-02 · [GitHub](https://github.com/ruletascasiteveo1-bot/coregold-multimodal-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 91 · 推送 2026-11-02 · [GitHub](https://github.com/ruletascasiteveo1-bot/coregold-multimodal-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向视频 AI 订阅付费的商业虚拟卡服务推广**
 

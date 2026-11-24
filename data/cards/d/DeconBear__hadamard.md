@@ -1,6 +1,6 @@
 # DeconBear/hadamard
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/DeconBear/hadamard) · [官网](https://deconbear.github.io/hadamard/) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DeconBear/hadamard) · [官网](https://deconbear.github.io/hadamard/) · 个人维护 · 中文 README
 
 **多智能体 TypeScript SDK/运行时：多会话协作与 CLI 桥接**
 

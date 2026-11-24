@@ -1,6 +1,6 @@
 # WikiTeq/mAItion
 
-⭐ 20 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/WikiTeq/mAItion) · [官网](https://maition.com) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/WikiTeq/mAItion) · [官网](https://maition.com) · 组织维护
 
 **面向企业的知识聚合 RAG 对话平台，多源连接器统一问答**
 

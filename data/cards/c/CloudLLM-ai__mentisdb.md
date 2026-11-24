@@ -1,6 +1,6 @@
 # CloudLLM-ai/mentisdb
 
-⭐ 92 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/CloudLLM-ai/mentisdb) · [官网](https://mentisdb.com) · 组织维护
+⭐ 92 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CloudLLM-ai/mentisdb) · [官网](https://mentisdb.com) · 组织维护
 
 **给 AI agent 的持久记忆引擎与版本化技能注册库**
 

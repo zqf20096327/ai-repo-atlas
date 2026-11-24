@@ -1,6 +1,6 @@
 # bigboxer23/meural-control
 
-⭐ 13 · Java · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/bigboxer23/meural-control) · 个人维护
+⭐ 13 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bigboxer23/meural-control) · 个人维护
 
 **向 Meural 数字画框推送官方不支持来源内容的 Java 服务**
 

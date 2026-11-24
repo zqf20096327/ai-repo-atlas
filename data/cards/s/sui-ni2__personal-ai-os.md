@@ -1,6 +1,6 @@
 # sui-ni2/personal-ai-os
 
-⭐ 58 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sui-ni2/personal-ai-os) · 个人维护 · 中文 README
+⭐ 58 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sui-ni2/personal-ai-os) · 个人维护 · 中文 README
 
 **本地优先的个人 AI 工作台：聊天、记忆、可审计工具与项目插件**
 

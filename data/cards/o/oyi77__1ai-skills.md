@@ -1,6 +1,6 @@
 # oyi77/1ai-skills
 
-⭐ 18 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oyi77/1ai-skills) · [官网](https://oyi77.github.io/1ai-skills) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oyi77/1ai-skills) · [官网](https://oyi77.github.io/1ai-skills) · 个人维护
 
 **面向 AI agent 的技能库：1188 个跨 19 类工作流技能**
 

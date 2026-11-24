@@ -1,6 +1,6 @@
 # marella/modelregistry
 
-⭐ 24 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/marella/modelregistry) · [官网](https://modelregistry.io) · 个人维护
+⭐ 24 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/marella/modelregistry) · [官网](https://modelregistry.io) · 个人维护
 
 **开源 AI 模型的去中心化分发注册目录**
 

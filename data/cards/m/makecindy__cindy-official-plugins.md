@@ -1,6 +1,6 @@
 # makecindy/cindy-official-plugins
 
-⭐ 32 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/makecindy/cindy-official-plugins) · 组织维护 · 中文 README
+⭐ 35 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/makecindy/cindy-official-plugins) · 组织维护 · 中文 README
 
 **Cindy AI 助手官方插件源码仓：插件源码、审查标准与市场上架**
 

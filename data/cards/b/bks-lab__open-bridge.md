@@ -1,6 +1,6 @@
 # bks-lab/open-bridge
 
-⭐ 14 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bks-lab/open-bridge) · [官网](https://bks-lab.github.io/open-bridge/) · 组织维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bks-lab/open-bridge) · [官网](https://bks-lab.github.io/open-bridge/) · 组织维护
 
 **给编码代理用的跨会话记忆与工作区：git 中的 markdown/YAML 上下文**
 

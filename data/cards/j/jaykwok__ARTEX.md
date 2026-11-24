@@ -1,6 +1,6 @@
 # jaykwok/ARTEX
 
-⭐ 134 · Go · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/jaykwok/ARTEX) · 个人维护 · 中文 README
+⭐ 138 · Go · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/jaykwok/ARTEX) · 个人维护 · 中文 README
 
 **LLM 多 agent 驱动的自主渗透测试系统（Go+Next.js）**
 

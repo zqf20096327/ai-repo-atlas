@@ -1,6 +1,6 @@
 # jaedync/crucible-strix-halo
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jaedync/crucible-strix-halo) · [官网](https://srv.jaedyn.me/strix-halo-engine-optimization/index.html) · 个人维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jaedync/crucible-strix-halo) · [官网](https://srv.jaedyn.me/strix-halo-engine-optimization/index.html) · 个人维护
 
 **在 AMD Strix Halo 上运行 Qwen3.8-Flash-Next EXL3 的 C++20 推理引擎**
 

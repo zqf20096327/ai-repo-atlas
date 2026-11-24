@@ -1,6 +1,6 @@
 # limecloud/lime
 
-⭐ 1,497 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/limecloud/lime) · [官网](https://limeai.run) · 组织维护 · 中文 README
+⭐ 1,499 · Rust · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/limecloud/lime) · [官网](https://limeai.run) · 组织维护 · 中文 README
 
 **面向开发者与创作者的桌面/CLI 全栈 AI agent**
 

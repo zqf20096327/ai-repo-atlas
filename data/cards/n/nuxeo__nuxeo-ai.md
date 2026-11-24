@@ -1,6 +1,6 @@
 # nuxeo/nuxeo-ai
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/nuxeo/nuxeo-ai) · 组织维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nuxeo/nuxeo-ai) · 组织维护
 
 **Nuxeo 平台的 AI 富化扩展：为文档内容接入 AI 服务**
 

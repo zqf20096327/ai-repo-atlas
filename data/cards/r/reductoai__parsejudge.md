@@ -1,6 +1,6 @@
 # reductoai/parsejudge
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/reductoai/parsejudge) · 组织维护
+⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/reductoai/parsejudge) · 组织维护
 
 **在自己的文档上对比各 PDF 解析/OCR API 的开源基准工具**
 

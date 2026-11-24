@@ -1,6 +1,6 @@
 # GramosoftAI/GcrawlAI
 
-⭐ 60 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/GramosoftAI/GcrawlAI) · [官网](https://gcrawlai.com) · 组织维护
+⭐ 60 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GramosoftAI/GcrawlAI) · [官网](https://gcrawlai.com) · 组织维护
 
 **面向 RAG/LLM 数据管线的分布式爬虫与抽取平台**
 

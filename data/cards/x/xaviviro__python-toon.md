@@ -1,6 +1,6 @@
 # xaviviro/python-toon
 
-⭐ 340 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/xaviviro/python-toon) · 个人维护
+⭐ 339 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/xaviviro/python-toon) · 个人维护
 
 **TOON 格式的 Python 编解码库，降低 LLM 传输 token 量**
 

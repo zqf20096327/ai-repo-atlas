@@ -1,6 +1,6 @@
 # xiaoyu-work/Yu-OS
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/xiaoyu-work/Yu-OS) · 个人维护
+⭐ 12 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/xiaoyu-work/Yu-OS) · 个人维护
 
 **面向开发者的 agent 原生操作系统：AI 作为系统层运行**
 

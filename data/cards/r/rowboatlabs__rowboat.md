@@ -1,6 +1,6 @@
 # rowboatlabs/rowboat
 
-⭐ 18,313 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
+⭐ 18,316 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/rowboatlabs/rowboat) · [官网](https://www.rowboatlabs.com) · 组织维护
 
 **让多个 agent 在群聊中协作的多智能体协作平台**
 

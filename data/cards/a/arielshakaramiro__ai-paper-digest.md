@@ -1,6 +1,6 @@
 # arielshakaramiro/ai-paper-digest
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/arielshakaramiro/ai-paper-digest) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/arielshakaramiro/ai-paper-digest) · 个人维护
 
 **自动抓取 arXiv 论文并每日生成双语 AI 研究摘要**
 

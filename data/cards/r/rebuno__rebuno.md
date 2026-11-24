@@ -1,6 +1,6 @@
 # rebuno/rebuno
 
-⭐ 10 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rebuno/rebuno) · [官网](https://rebuno.io) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rebuno/rebuno) · [官网](https://rebuno.io) · 个人维护
 
 **给生产级 AI agent 的持久化执行运行时与护栏**
 

@@ -1,6 +1,6 @@
 # rasbt/llm-architecture-gallery
 
-⭐ 1,610 · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/rasbt/llm-architecture-gallery) · [官网](https://sebastianraschka.com/llm-architecture-gallery/) · 个人维护
+⭐ 1,612 · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/rasbt/llm-architecture-gallery) · [官网](https://sebastianraschka.com/llm-architecture-gallery/) · 个人维护
 
 **LLM 架构图集的元数据公开快照库**
 

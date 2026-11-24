@@ -1,6 +1,6 @@
 # xuxufei12/awesome-ai-creative-skills
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/xuxufei12/awesome-ai-creative-skills) · 个人维护 · 中文 README
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/xuxufei12/awesome-ai-creative-skills) · 个人维护 · 中文 README
 
 **AI 创意生成技能与提示词的双语策展清单（2,109 条预览）**
 

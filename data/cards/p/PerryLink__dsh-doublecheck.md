@@ -1,6 +1,6 @@
 # PerryLink/dsh-doublecheck
 
-⭐ 61 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-doublecheck) · [官网](https://www.npmjs.com/package/dsh-doublecheck) · 个人维护 · 中文 README
+⭐ 62 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-doublecheck) · [官网](https://www.npmjs.com/package/dsh-doublecheck) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的交付质量门插件：拷问需求、测试实现、证明交付**
 

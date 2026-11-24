@@ -1,6 +1,6 @@
 # kwami-labs/kwami
 
-⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kwami-labs/kwami) · [官网](https://kwami.io) · 个人维护
+⭐ 50 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kwami-labs/kwami) · [官网](https://kwami.io) · 个人维护
 
 **浏览器 3D AI 伴侣库：WebGL 虚拟形象+语音+记忆+工具**
 

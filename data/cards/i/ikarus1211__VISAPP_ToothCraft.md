@@ -1,6 +1,6 @@
 # ikarus1211/VISAPP_ToothCraft
 
-⭐ 19 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/ikarus1211/VISAPP_ToothCraft) · 组织维护
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/ikarus1211/VISAPP_ToothCraft) · 组织维护
 
 **基于扩散模型的 3D 牙冠补全方法（科研代码）**
 

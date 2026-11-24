@@ -1,6 +1,6 @@
 # manishiitg/agentworks
 
-⭐ 16 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/manishiitg/agentworks) · [官网](https://agentworkshq.com/) · 个人维护
+⭐ 16 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/manishiitg/agentworks) · [官网](https://agentworkshq.com/) · 个人维护
 
 **目标驱动 AI agent 平台：给目标与指标，agent 持续运行直至达标**
 

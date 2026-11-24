@@ -1,6 +1,6 @@
 # aialvi/lets-learn-lms
 
-⭐ 18 · TypeScript · 推送 2026-11-01 · [GitHub](https://github.com/aialvi/lets-learn-lms) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向自学课程与组织培训的学习管理系统（LMS）**
 

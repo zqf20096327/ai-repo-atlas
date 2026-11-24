@@ -1,6 +1,6 @@
 # dailab/MAXi-XAI-lib
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/dailab/MAXi-XAI-lib) · 组织维护
+⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dailab/MAXi-XAI-lib) · 组织维护
 
 **面向开发者的模型无关机器学习预测解释生成库**
 

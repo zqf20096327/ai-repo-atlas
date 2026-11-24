@@ -1,6 +1,6 @@
 # JoeSangAI/Tako
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/JoeSangAI/Tako) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JoeSangAI/Tako) · 个人维护 · 中文 README
 
 **Mac 桌面智能体：黏在任意窗口上替你看和操作**
 

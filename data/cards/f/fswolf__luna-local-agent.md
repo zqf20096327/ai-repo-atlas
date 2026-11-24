@@ -1,6 +1,6 @@
 # fswolf/luna-local-agent
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/fswolf/luna-local-agent) · [官网](https://github.com/fswolf/luna-local-agent/wiki) · 个人维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/fswolf/luna-local-agent) · [官网](https://github.com/fswolf/luna-local-agent/wiki) · 个人维护
 
 **全本地私有 AI 语音伴侣：语音进出、记忆、工具与可视化推理**
 

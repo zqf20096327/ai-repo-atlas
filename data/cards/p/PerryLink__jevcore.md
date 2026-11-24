@@ -1,6 +1,6 @@
 # PerryLink/jevcore
 
-⭐ 110 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/jevcore) · [官网](https://www.npmjs.com/package/jevcore) · 个人维护 · 中文 README
+⭐ 111 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/PerryLink/jevcore) · [官网](https://www.npmjs.com/package/jevcore) · 个人维护 · 中文 README
 
 **给 agent 的类型化决策工具：Jev 是非/选择/评分判断与校准概率**
 

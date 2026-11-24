@@ -1,6 +1,6 @@
 # Carstin520/token-remain
 
-⭐ 70 · Swift · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Carstin520/token-remain) · [官网](https://tokenremain.com) · 个人维护 · 中文 README
+⭐ 70 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Carstin520/token-remain) · [官网](https://tokenremain.com) · 个人维护 · 中文 README
 
 **macOS 菜单栏应用：追踪 21+ 家 AI 编码工具的剩余额度与 Token 成本**
 

@@ -1,6 +1,6 @@
 # transparent-pegasus/herdrpowers
 
-⭐ 14 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/transparent-pegasus/herdrpowers) · 个人维护
+⭐ 14 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/transparent-pegasus/herdrpowers) · 个人维护
 
 **在 herdr 面板中运行 AI 编码代理的开发框架与技能包**
 

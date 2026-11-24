@@ -1,6 +1,6 @@
 # jasoncheng7115/jt-waf-mgr
 
-⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/jasoncheng7115/jt-waf-mgr) · [官网](https://jasoncheng7115.github.io/jt-waf-mgr/) · 组织维护 · 中文 README
+⭐ 15 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/jasoncheng7115/jt-waf-mgr) · [官网](https://jasoncheng7115.github.io/jt-waf-mgr/) · 组织维护 · 中文 README
 
 **给 nginx+ModSecurity WAF 的自托管管理器：审计、变更审批与 LLM 分诊**
 

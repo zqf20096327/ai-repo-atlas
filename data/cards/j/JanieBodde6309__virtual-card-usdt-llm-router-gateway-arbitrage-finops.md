@@ -1,6 +1,6 @@
 # JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops
 
-⭐ 59 · 推送 2026-11-13 · [GitHub](https://github.com/JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护
+⭐ 81 · 推送 2026-11-13 · [GitHub](https://github.com/JanieBodde6309/virtual-card-usdt-llm-router-gateway-arbitrage-finops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护
 
 **面向多路由 LLM 网关付费环节的虚拟卡架构指南（CoreGold 推广文档）**
 

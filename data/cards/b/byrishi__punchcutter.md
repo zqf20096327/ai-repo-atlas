@@ -1,6 +1,6 @@
 # byrishi/punchcutter
 
-⭐ 32 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/byrishi/punchcutter) · [官网](https://byrishi.github.io/punchcutter/) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/byrishi/punchcutter) · [官网](https://byrishi.github.io/punchcutter/) · 个人维护
 
 **在 Claude/ChatGPT/Codex 等 agent 内运行的字体铸造工具**
 

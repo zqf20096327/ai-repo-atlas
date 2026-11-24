@@ -1,10 +1,10 @@
 # nyldn/claude-octopus
 
-⭐ 4,485 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/nyldn/claude-octopus) · [官网](https://reddit.com/r/ClaudeOctopus/) · 个人维护
+⭐ 4,492 · Shell · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nyldn/claude-octopus) · [官网](https://reddit.com/r/ClaudeOctopus/) · 个人维护
 
-**Claude Code 多模型协同插件：并行多模型审查并标记分歧**
+**Claude Code 多模型协同插件：多模型交叉审查任务**
 
-以 Claude Code 插件形式安装的多模型编排工具，也支持作为 Codex 插件与 Cursor 的 MCP server 运行。接入最多 12 个外部模型提供方，对同一研究、设计或编码任务获取多个模型意见，用 75% 共识门标记发布前的分歧。包含 31 个角色化 persona、56 个命令、64 个技能；默认休眠，仅显式 /octo:* 调用。要求 Claude Code v2.1.14+，支持 Linux/macOS 原生，Windows 经 WSL 或 SSH。
+一个 Claude Code 插件（也可装到 Codex CLI、Cursor MCP、OpenCode、Factory Droid 等宿主），在同一任务上调用多个 AI 模型并汇总体、对齐分歧，提供 75% 共识门槛在交付前标记不一致。内置 31 个角色化 agent、56 个斜杠命令、64 个技能模块，默认休眠、需 /octo:* 显式调用；支持 12 个外部模型服务接入与跨会话记忆集成。要求 Claude Code v2.1.14+，MIT 许可，支持 Linux/macOS，Windows 需 WSL 或 SSH。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 接入 12 个外部提供方并内置 Claude Code 宿主，零外部提供方即可启动
-- 75% 共识门在发布前标记多模型分歧
-- 31 personas / 56 命令 / 64 技能，默认休眠需显式调用
-- 同时支持 Claude Code 插件、Codex 插件与 Cursor MCP server 三种接入形态
+- 12 个外部模型服务集成 + 内置 Claude 宿主，零外部依赖即可起步
+- 75% 共识门槛在交付前标记模型间分歧
+- 31 个角色 agent、56 个命令、64 个技能，默认休眠、显式调用
+- 支持 claude-mem/agentmemory/deja-vu 跨会话记忆与 Dark Factory 全流程自动化模式
 
 ## 适用场景
 
-- 发布前让多个模型交叉审查代码改动并暴露分歧
-- 以规格输入驱动从研究到交付的自动化流水线，人工只审产出
-- 在 Claude Code、Codex 或 Cursor 中复用同一套多模型工作流
+- 提交代码前用多模型交叉审查设计或实现
+- 让多个模型对同一研究任务给出意见并对比分歧
+- 在 Claude Code/Codex/Cursor 中统一接入多个模型服务工作流
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L3: Every AI model has blind spots. Claude Octopus supports twelve external provider integrations — Codex, Antigravity C
 > L17: 🐙 **Research, build, review, and ship — with twelve external providers checking the host's work.** Claude-native ha
+> L25: 🐙 **31 specialized personas** (role-specific AI agents like security-auditor, backend-architect), **56 commands** (
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `af0238700529` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8cd48a297675` · [字段定义](../../DATASET.md)*

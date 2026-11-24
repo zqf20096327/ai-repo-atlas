@@ -1,6 +1,6 @@
 # nahyeonkaty/textboost
 
-⭐ 57 · Jupyter Notebook · MIT · 推送 2026-05-18 · [GitHub](https://github.com/nahyeonkaty/textboost) · [官网](https://textboost.github.io) · 个人维护
+⭐ 58 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nahyeonkaty/textboost) · [官网](https://textboost.github.io) · 个人维护
 
 **单样本个性化文生图方法：仅微调文本编码器**
 

@@ -1,6 +1,6 @@
 # pinecone-io/terraform-provider-pinecone
 
-⭐ 32 · Go · MPL-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/pinecone-io/terraform-provider-pinecone) · 组织维护
+⭐ 32 · Go · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/pinecone-io/terraform-provider-pinecone) · 组织维护
 
 **Pinecone 官方 Terraform Provider：以 IaC 管理向量库资源**
 

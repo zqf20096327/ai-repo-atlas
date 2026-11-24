@@ -1,6 +1,6 @@
 # YanQuan-dozzy/Boss-Claw
 
-⭐ 91 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/YanQuan-dozzy/Boss-Claw) · [官网](https://github.com/YanQuan-dozzy/Boss-Claw/releases/latest) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/YanQuan-dozzy/Boss-Claw) · [官网](https://github.com/YanQuan-dozzy/Boss-Claw/releases/latest) · 个人维护 · 中文 README
 
 **本地 AI 求职助手：四平台岗位采集、AI 匹配排序与投递管理**
 

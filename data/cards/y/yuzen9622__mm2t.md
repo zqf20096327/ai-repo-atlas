@@ -1,6 +1,6 @@
 # yuzen9622/mm2t
 
-⭐ 22 · Swift · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/yuzen9622/mm2t) · [官网](https://mm2t.yuzen.dev/en) · 个人维护 · 中文 README
+⭐ 23 · Swift · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/yuzen9622/mm2t) · [官网](https://mm2t.yuzen.dev/en) · 个人维护 · 中文 README
 
 **macOS 菜单栏多方会议录制与说话人标注转录工具**
 

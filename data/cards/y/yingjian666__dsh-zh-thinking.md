@@ -1,6 +1,6 @@
 # yingjian666/dsh-zh-thinking
 
-⭐ 24 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yingjian666/dsh-zh-thinking) · 个人维护 · 中文 README
+⭐ 25 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/yingjian666/dsh-zh-thinking) · 个人维护 · 中文 README
 
 **DeepSeek Harness 宿主插件：强制 Agent 思维链全程使用简体中文**
 

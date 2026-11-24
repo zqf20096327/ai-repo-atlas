@@ -1,6 +1,6 @@
 # anthropics/skills
 
-⭐ 198,950 · Python · 推送 2026-11-16 · [GitHub](https://github.com/anthropics/skills) · 组织维护
+⭐ 199,501 · Python · 推送 2026-11-16 · [GitHub](https://github.com/anthropics/skills) · 组织维护
 
 **Anthropic 官方 Agent Skills 示例、规范与模板集合**
 

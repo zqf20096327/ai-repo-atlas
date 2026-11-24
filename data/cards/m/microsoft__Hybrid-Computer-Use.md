@@ -1,6 +1,6 @@
 # microsoft/Hybrid-Computer-Use
 
-⭐ 66 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Hybrid-Computer-Use) · [官网](https://microsoft.github.io/Hybrid-Computer-Use/) · 组织维护
+⭐ 70 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Hybrid-Computer-Use) · [官网](https://microsoft.github.io/Hybrid-Computer-Use/) · 组织维护
 
 **让通用编码 Agent 操作桌面电脑的 MCP 服务器（AX+GUI 双工具）**
 

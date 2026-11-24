@@ -1,6 +1,6 @@
 # alacritree/alacritree
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/alacritree/alacritree) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/alacritree/alacritree) · 个人维护
 
 **把 Git worktree 变成工作区的原生终端（Alacritty 分叉）**
 

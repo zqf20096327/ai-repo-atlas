@@ -1,6 +1,6 @@
 # abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide
 
-⭐ 13 · 推送 2026-11-19 · [GitHub](https://github.com/abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 36 · 推送 2026-11-19 · [GitHub](https://github.com/abbayankale-blip/coregold-usdt-vcc-paynow-deeplink-cross-border-checkout-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向跨境付款用户的 CoreGold USDT 虚拟卡开卡与绑卡教程**
 

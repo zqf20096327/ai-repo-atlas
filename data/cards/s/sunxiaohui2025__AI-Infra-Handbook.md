@@ -1,6 +1,6 @@
 # sunxiaohui2025/AI-Infra-Handbook
 
-⭐ 51 · MDX · 推送 2026-11-22 · [GitHub](https://github.com/sunxiaohui2025/AI-Infra-Handbook) · [官网](https://ai-infra-handbook.sunxiaohui2022.workers.dev/) · 个人维护 · 中文 README
+⭐ 55 · MDX · 推送 2026-11-22 · [GitHub](https://github.com/sunxiaohui2025/AI-Infra-Handbook) · [官网](https://ai-infra-handbook.sunxiaohui2022.workers.dev/) · 个人维护 · 中文 README
 
 **面向工程师的 LLM 推理基础设施交互式课程（153 讲）**
 

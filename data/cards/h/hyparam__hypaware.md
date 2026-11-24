@@ -1,6 +1,6 @@
 # hyparam/hypaware
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hyparam/hypaware) · [官网](https://hypaware.ai) · 组织维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hyparam/hypaware) · [官网](https://hypaware.ai) · 组织维护
 
 **AI 客户端会话录制与分析工具：把各 agent 历史变成可查询数据**
 

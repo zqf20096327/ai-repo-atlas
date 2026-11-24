@@ -1,6 +1,6 @@
 # NVIDIA/elements
 
-⭐ 120 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/elements) · [官网](https://nvidia.github.io/elements/) · 组织维护
+⭐ 120 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/elements) · [官网](https://nvidia.github.io/elements/) · 组织维护
 
 **面向 AI 工厂/机器人/自动驾驶的 NVIDIA 设计系统与 UI Agent 工具集**
 

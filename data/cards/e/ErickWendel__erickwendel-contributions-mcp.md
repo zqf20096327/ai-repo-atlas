@@ -1,6 +1,6 @@
 # ErickWendel/erickwendel-contributions-mcp
 
-⭐ 400 · TypeScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/ErickWendel/erickwendel-contributions-mcp) · [官网](https://www.npmjs.com/package/@erickwendel/contributions-mcp) · 个人维护
+⭐ 401 · TypeScript · MIT · 推送 2026-01-08 · [GitHub](https://github.com/ErickWendel/erickwendel-contributions-mcp) · [官网](https://www.npmjs.com/package/@erickwendel/contributions-mcp) · 个人维护
 
 **查询 Erick Wendel 内容产出的 MCP 服务器，供 AI 客户端调用**
 

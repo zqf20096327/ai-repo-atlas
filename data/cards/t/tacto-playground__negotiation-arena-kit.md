@@ -1,6 +1,6 @@
 # tacto-playground/negotiation-arena-kit
 
-⭐ 4 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/tacto-playground/negotiation-arena-kit) · [官网](https://arena.tacto.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为黑客松参赛者提供的 AI 采购谈判 agent 挑战工具包**
 
@@ -11,7 +11,7 @@ Tacto 在 Industrial Agents Hackathon 2026 举办谈判挑战赛的配套仓库�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

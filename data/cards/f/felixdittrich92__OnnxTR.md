@@ -1,6 +1,6 @@
 # felixdittrich92/OnnxTR
 
-⭐ 202 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/felixdittrich92/OnnxTR) · [官网](https://github.com/mindee/doctr) · 个人维护
+⭐ 203 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/felixdittrich92/OnnxTR) · [官网](https://github.com/mindee/doctr) · 个人维护
 
 **docTR 的 ONNX 推理封装库：无 PyTorch/TF 依赖的文档 OCR**
 

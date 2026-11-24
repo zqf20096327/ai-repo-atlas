@@ -1,6 +1,6 @@
 # docling-project/docling.rs
 
-⭐ 145 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/docling-project/docling.rs) · 组织维护
+⭐ 148 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/docling-project/docling.rs) · 组织维护
 
 **Rust 版 docling：把 PDF/Office/HTML/音视频文档转成 Markdown/JSON 供 RAG 使用**
 

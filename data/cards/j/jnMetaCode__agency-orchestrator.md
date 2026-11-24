@@ -1,10 +1,10 @@
 # jnMetaCode/agency-orchestrator
 
-⭐ 2,490 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/jnMetaCode/agency-orchestrator) · [官网](https://ao.aiolaola.com) · 个人维护 · 中文 README
+⭐ 2,493 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jnMetaCode/agency-orchestrator) · [官网](https://ao.aiolaola.com) · 个人维护 · 中文 README
 
-**一句话组建多 AI 角色协作团队，自动交付完整方案**
+**零代码多智能体编排工具：一句话组建 AI 专家团队出方案**
 
-一个多智能体编排 CLI 与图形工具：用户输入一句话或编写 YAML 工作流，引擎从 276 个中文/184 个英文角色库中匹配角色，构建 DAG 并行执行，步骤间通过变量传递输出，产物保存到 ao-output/ 并支持 --resume/--feedback 返工与 docx/pdf 等导出。提供 Web Studio（ao web）、Electron 桌面端与 Docker 部署三种形态。运行依赖外部 LLM：支持 20+ 家 API 与 10 种免 key 方式（复用已登录的编码 CLI 或本地 Ollama）。npm 安装，2 个依赖。
+npm 安装的 CLI 与网页/桌面 Studio，让多个 AI 角色按 DAG 自动分工协作。输入一句话自动拆解任务、从 276 个中文角色（184 英文角色）中匹配并生成工作流 YAML；支持 20+ 家模型接入（含 10 种免 key 方式，复用已登录编码 CLI 或本地 Ollama）、70 个内置模板、--resume 断点续跑与 --feedback 返工、验收标准自动核验、结果推送钉钉/飞书/企业微信，可经 --export 导出 docx/pdf/xlsx/pptx 等交付物。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 一句话自动拆解任务、从 276 个角色中组队并按 DAG 并行执行
-- 20+ 家 API 供应商与 10 种免 key 运行方式（复用已登录编码 CLI/本地 Ollama）
-- Web Studio 可视化画布编辑工作流，含 70 个内置模板
-- 结果推送钉钉/飞书/企业微信 webhook，支持分享报告页
+- 一句话自动组队：AI 从 276 个角色中匹配并生成 DAG 工作流 YAML
+- 20+ 家 API 接入，10 种免 key 方式（复用 Claude Code 等 9 个已登录 CLI + 本地 Ollama）
+- 网页 Studio 可视化画布拖拽编辑工作流，桌面客户端（Electron）三平台可用
+- 支持 --resume 断点恢复、--feedback 带意见返工、验收标准（acceptance）核验
 
 ## 适用场景
 
-- 一句话生成创业可行性分析、商业计划书等多视角方案
-- 用 YAML 定义多角色工作流并行执行内容生产任务
-- 方案到代码：PRD 喂给编码 agent 并对照不做清单查偏差
-- 免 API key 用已有 Claude/Copilot 订阅跑多智能体任务
+- 一句话生成创业可行性分析、商业计划书等多角色评审方案
+- 方案到代码流水线：PRD 喂给编码 Agent 并按「不做清单」核对偏差
+- 用内置模板跑 PR 代码审查、深度长文写作等固定流程
+- 配合 cron 让 AI 团队每天定点把结果推送到钉钉/飞书/企业微信
 
 ## 场景标签
 
-`多智能体` `工作流自动化` · 领域:Agent 开发
+`多智能体` `工作流自动化` `代码审查` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L83: **不用写代码，不用写配置，不用选角色。** 一句话 → AI 自动拆解任务 → 从 276 个角色中匹配 → 按 DAG 并行执行 → 输出完整方案。
-> L197: 1. 解析 YAML → 构建 **DAG**（有向无环图）
-> L212: > 统计口径（以源码为准）：**免 key** = 复用已登录订阅的 9 个编码 CLI（Claude Code / Antigravity / Copilot / Codex / OpenClaw / Hermes / Cod
+> L104: **Agency Orchestrator = 让多个 AI 专家各干各的，最后汇总。相当于一个人 vs 一个团队。**
+> L199: 1. 解析 YAML → 构建 **DAG**（有向无环图）
+> L214: > 统计口径（以源码为准）：**免 key** = 复用已登录订阅的 9 个编码 CLI（Claude Code / Antigravity / Copilot / Codex / OpenClaw / Hermes / Cod
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `16419e7b0f54` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d36379845352` · [字段定义](../../DATASET.md)*

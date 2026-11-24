@@ -1,6 +1,6 @@
 # ashlrai/phantom-secrets
 
-⭐ 20 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ashlrai/phantom-secrets) · [官网](https://phm.dev/secrets) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ashlrai/phantom-secrets) · [官网](https://phm.dev/secrets) · 个人维护
 
 **给开发者的密钥隔离代理：AI 编码代理用密钥但看不到真实值**
 

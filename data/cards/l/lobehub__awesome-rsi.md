@@ -1,6 +1,6 @@
 # lobehub/awesome-rsi
 
-⭐ 1,078 · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/lobehub/awesome-rsi) · 组织维护
+⭐ 1,091 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/lobehub/awesome-rsi) · 组织维护
 
 **递归自我改进（RSI）研究策展清单：论文与系统地图**
 

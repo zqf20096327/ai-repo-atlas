@@ -1,6 +1,6 @@
 # yinwenyuan28-afk/pi-memory-system
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/yinwenyuan28-afk/pi-memory-system) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yinwenyuan28-afk/pi-memory-system) · 个人维护 · 中文 README
 
 **为 Pi 编码代理提供持久记忆的扩展**
 

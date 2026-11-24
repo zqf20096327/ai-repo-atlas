@@ -1,6 +1,6 @@
 # sleepy-zone/ai-ref-library-cn
 
-⭐ 792 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/sleepy-zone/ai-ref-library-cn) · [官网](https://sleepyzone.online/ai-ref-library-cn/) · 个人维护 · 中文 README
+⭐ 794 · JavaScript · 推送 2026-11-20 · [GitHub](https://github.com/sleepy-zone/ai-ref-library-cn) · [官网](https://sleepyzone.online/ai-ref-library-cn/) · 个人维护 · 中文 README
 
 **面向中文 AI 绘图用户的三套作图参考素材检索站**
 

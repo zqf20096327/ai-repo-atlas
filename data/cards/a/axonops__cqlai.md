@@ -1,6 +1,6 @@
 # axonops/cqlai
 
-⭐ 18 · Go · Apache-2.0 · 推送 2026-10-16 · [GitHub](https://github.com/axonops/cqlai) · [官网](https://axonops.com) · 组织维护
+⭐ 18 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/axonops/cqlai) · [官网](https://axonops.com) · 组织维护
 
 **面向 Cassandra 的现代终端 CQL Shell，可选 AI 自然语言生成 CQL**
 

@@ -1,6 +1,6 @@
 # Ontos-AI/knowhere
 
-⭐ 4,092 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Ontos-AI/knowhere) · [官网](https://knowhereto.ai) · 组织维护 · 中文 README
+⭐ 4,108 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Ontos-AI/knowhere) · [官网](https://knowhereto.ai) · 组织维护 · 中文 README
 
 **给 AI Agent 和 RAG 提供结构化文档解析与检索的文档智能基础设施**
 

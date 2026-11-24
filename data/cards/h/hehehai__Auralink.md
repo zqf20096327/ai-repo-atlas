@@ -1,6 +1,6 @@
 # hehehai/Auralink
 
-⭐ 3 · Go · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/hehehai/Auralink) · [官网](https://actnow.dev/auralink) · 个人维护 · 中文 README
+⭐ 3 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hehehai/Auralink) · [官网](https://actnow.dev/auralink) · 个人维护 · 中文 README
 
 **macOS 全局语音输入工具：说话转文字到光标处**
 

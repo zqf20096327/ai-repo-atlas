@@ -1,6 +1,6 @@
 # PerryLink/dsh-fast
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-fast) · [官网](https://www.npmjs.com/package/dsh-fast) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-fast) · [官网](https://www.npmjs.com/package/dsh-fast) · 个人维护 · 中文 README
 
 **DeepSeek Harness 会话性能诊断插件：拆解延迟与缓存命中**
 

@@ -1,6 +1,6 @@
 # Namache/project-moah
 
-⭐ 4 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Namache/project-moah) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Namache/project-moah) · 个人维护
 
 **给 AI 编码 Agent 提供本地共享记忆与任务管理的桌面应用**
 

@@ -1,6 +1,6 @@
 # DevLoops-ai/unified-brain
 
-⭐ 37 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/DevLoops-ai/unified-brain) · [官网](https://www.devloops.ai) · 组织维护
+⭐ 37 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/DevLoops-ai/unified-brain) · [官网](https://www.devloops.ai) · 组织维护
 
 **面向编码 agent 的仓库持久记忆与证据检索层（SQLite+MCP）**
 

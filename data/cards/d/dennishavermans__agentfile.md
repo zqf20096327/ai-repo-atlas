@@ -1,6 +1,6 @@
 # dennishavermans/agentfile
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dennishavermans/agentfile) · [官网](https://www.npmjs.com/package/@agentfile/cli) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dennishavermans/agentfile) · [官网](https://www.npmjs.com/package/@agentfile/cli) · 个人维护
 
 **CLI 工具：检测仓库中 AI agent 配置的漂移与风险**
 

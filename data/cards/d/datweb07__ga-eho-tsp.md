@@ -1,6 +1,6 @@
 # datweb07/ga-eho-tsp
 
-⭐ 3 · Jupyter Notebook · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/datweb07/ga-eho-tsp) · 个人维护 · 中文 README
+⭐ 3 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/datweb07/ga-eho-tsp) · 个人维护 · 中文 README
 
 **用遗传算法与象群优化求解 TSP 的课程实验项目**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

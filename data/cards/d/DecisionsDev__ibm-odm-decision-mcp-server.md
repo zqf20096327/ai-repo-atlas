@@ -1,6 +1,6 @@
 # DecisionsDev/ibm-odm-decision-mcp-server
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/DecisionsDev/ibm-odm-decision-mcp-server) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DecisionsDev/ibm-odm-decision-mcp-server) · 组织维护
 
 **把 IBM ODM 决策服务接入 AI 助手的 MCP 服务器**
 

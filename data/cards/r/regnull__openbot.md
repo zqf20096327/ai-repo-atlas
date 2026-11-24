@@ -1,6 +1,6 @@
 # regnull/openbot
 
-⭐ 46 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/regnull/openbot) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/regnull/openbot) · 个人维护
 
 **自托管多 AI bot 团队运行平台：持久记忆、工具与相互协作**
 

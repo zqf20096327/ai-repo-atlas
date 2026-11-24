@@ -1,6 +1,6 @@
 # bernd/vibepit
 
-⭐ 23 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/bernd/vibepit) · [官网](https://vibepit.dev) · 个人维护
+⭐ 23 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bernd/vibepit) · [官网](https://vibepit.dev) · 个人维护
 
 **在隔离容器中运行 AI 编程代理并做网络过滤的 CLI 工具**
 

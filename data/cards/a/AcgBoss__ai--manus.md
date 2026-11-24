@@ -1,6 +1,6 @@
 # AcgBoss/ai--manus
 
-⭐ 197 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/AcgBoss/ai--manus) · 个人维护 · 中文 README
+⭐ 193 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/AcgBoss/ai--manus) · 个人维护 · 中文 README
 
 **自主 AI Agent：代替用户执行代码与控制浏览器完成任务**
 

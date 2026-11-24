@@ -1,6 +1,6 @@
 # xiaohui5206/let-ai-read-video
 
-⭐ 67 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/xiaohui5206/let-ai-read-video) · 个人维护 · 中文 README
+⭐ 69 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/xiaohui5206/let-ai-read-video) · 个人维护 · 中文 README
 
 **本地视频阅读工具：B站/本地视频转为带时间戳的文稿与关键帧**
 

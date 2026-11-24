@@ -1,6 +1,6 @@
 # scitix/sieval
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/scitix/sieval) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/scitix/sieval) · 组织维护
 
 **LLM 交付质量验证系统：评测训练到推理全流程**
 

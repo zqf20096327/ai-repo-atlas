@@ -1,6 +1,6 @@
 # HugoLopes45/lmsk
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/HugoLopes45/lmsk) · [官网](https://hugolopes45.github.io/lmsk/) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HugoLopes45/lmsk) · [官网](https://hugolopes45.github.io/lmsk/) · 个人维护
 
 **给 AI 编码代理发送内容前遮蔽密钥/密码/邮箱的本地代理**
 

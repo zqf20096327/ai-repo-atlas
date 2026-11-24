@@ -1,6 +1,6 @@
 # ErezShahaf/Lore
 
-⭐ 250 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/ErezShahaf/Lore) · 个人维护
+⭐ 251 · TypeScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/ErezShahaf/Lore) · 个人维护
 
 **本地优先的桌面速记与回忆应用：Ollama+LanceDB 私人第二记忆**
 

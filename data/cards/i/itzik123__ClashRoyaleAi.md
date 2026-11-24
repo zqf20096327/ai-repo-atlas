@@ -1,6 +1,6 @@
 # itzik123/ClashRoyaleAi
 
-⭐ 33 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/itzik123/ClashRoyaleAi) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/itzik123/ClashRoyaleAi) · 个人维护
 
 **皇室战争确定性对战模拟器与强化学习训练环境**
 

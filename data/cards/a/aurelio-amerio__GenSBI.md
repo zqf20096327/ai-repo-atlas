@@ -1,6 +1,6 @@
 # aurelio-amerio/GenSBI
 
-⭐ 21 · Python · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/aurelio-amerio/GenSBI) · [官网](https://gensbi.com) · 个人维护
+⭐ 21 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/aurelio-amerio/GenSBI) · [官网](https://gensbi.com) · 个人维护
 
 **JAX 的仿真推断生成式方法库：流匹配/扩散/归一化流做后验推断**
 

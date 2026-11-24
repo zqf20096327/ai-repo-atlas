@@ -1,6 +1,6 @@
 # wangyufengsky/qq-agents
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wangyufengsky/qq-agents) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wangyufengsky/qq-agents) · 个人维护 · 中文 README
 
 **自托管多角色 QQ AI 机器人管理台：每角色绑定独立 QQ 号**
 

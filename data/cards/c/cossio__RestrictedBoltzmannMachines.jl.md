@@ -1,6 +1,6 @@
 # cossio/RestrictedBoltzmannMachines.jl
 
-⭐ 24 · Julia · MIT · 推送 2026-11-18 · [GitHub](https://github.com/cossio/RestrictedBoltzmannMachines.jl) · 个人维护
+⭐ 24 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cossio/RestrictedBoltzmannMachines.jl) · 个人维护
 
 **Julia 语言受限玻尔兹曼机（RBM）训练与采样库**
 

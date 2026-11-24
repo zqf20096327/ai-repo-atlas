@@ -1,6 +1,6 @@
 # BryanBradfo/JAXlaxy
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/BryanBradfo/JAXlaxy) · [官网](https://jaxlaxy.bryanbradfo.me/) · 个人维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/BryanBradfo/JAXlaxy) · [官网](https://jaxlaxy.bryanbradfo.me/) · 个人维护
 
 **JAX 生态策展清单：按领域导航库与研究工具**
 

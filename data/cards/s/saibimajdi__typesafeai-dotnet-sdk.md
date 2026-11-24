@@ -1,6 +1,6 @@
 # saibimajdi/typesafeai-dotnet-sdk
 
-⭐ 12 · C# · MIT · 推送 2026-11-17 · [GitHub](https://github.com/saibimajdi/typesafeai-dotnet-sdk) · [官网](https://saibimajdi.github.io/typesafeai-dotnet-sdk/) · 个人维护
+⭐ 12 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/saibimajdi/typesafeai-dotnet-sdk) · [官网](https://saibimajdi.github.io/typesafeai-dotnet-sdk/) · 个人维护
 
 **TypeSafe AI System One API 的社区 .NET 客户端 SDK**
 

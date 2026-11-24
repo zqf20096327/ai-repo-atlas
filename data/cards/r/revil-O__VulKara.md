@@ -1,6 +1,6 @@
 # revil-O/VulKara
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/revil-O/VulKara) · [官网](https://www.vulkara.net) · 个人维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/revil-O/VulKara) · [官网](https://www.vulkara.net) · 个人维护
 
 **Apple 芯片 Mac 本地 AI 图像生成器：文生图/修复/训练全离线**
 

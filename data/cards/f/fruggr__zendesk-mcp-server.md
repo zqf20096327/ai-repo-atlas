@@ -1,6 +1,6 @@
 # fruggr/zendesk-mcp-server
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/fruggr/zendesk-mcp-server) · [官网](https://www.fruggr.io) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fruggr/zendesk-mcp-server) · [官网](https://www.fruggr.io) · 组织维护
 
 **把 Zendesk 接入 AI 助手的 MCP 服务器：工单与帮助中心全流程**
 

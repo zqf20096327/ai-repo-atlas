@@ -1,6 +1,6 @@
 # powerset-co/github-coding-agent-tracker
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/powerset-co/github-coding-agent-tracker) · [官网](https://research.powerset.co/) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/powerset-co/github-coding-agent-tracker) · [官网](https://research.powerset.co/) · 组织维护
 
 **追踪公开 GitHub 提交中 AI 编程 agent 占比的数据集**
 

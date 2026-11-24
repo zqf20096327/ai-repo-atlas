@@ -1,6 +1,6 @@
 # phaethix/inkstone
 
-⭐ 18 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/phaethix/inkstone) · [官网](https://phaethix.github.io/inkstone/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/phaethix/inkstone) · [官网](https://phaethix.github.io/inkstone/) · 个人维护
 
 **读本地小说生成连载漫画页的工具，免费 API、无需 GPU**
 

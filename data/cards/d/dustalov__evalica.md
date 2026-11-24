@@ -1,6 +1,6 @@
 # dustalov/evalica
 
-⭐ 67 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/dustalov/evalica) · [官网](https://evalica.readthedocs.io/latest/) · 个人维护
+⭐ 67 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/dustalov/evalica) · [官网](https://evalica.readthedocs.io/latest/) · 个人维护
 
 **成对比较评测工具包：Elo/Bradley-Terry 排名与可靠性计算**
 

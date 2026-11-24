@@ -1,6 +1,6 @@
 # stac-extensions/mlm
 
-⭐ 72 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/stac-extensions/mlm) · [官网](https://stac-extensions.github.io/mlm/) · 组织维护
+⭐ 72 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/stac-extensions/mlm) · [官网](https://stac-extensions.github.io/mlm/) · 组织维护
 
 **描述机器学习模型元数据的 STAC 扩展规范（遥感影像模型编目）**
 

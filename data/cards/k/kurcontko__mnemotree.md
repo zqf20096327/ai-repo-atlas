@@ -1,6 +1,6 @@
 # kurcontko/mnemotree
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kurcontko/mnemotree) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kurcontko/mnemotree) · [官网](https://pypi.org/project/mnemotree/) · 个人维护
 
 **为 LLM 代理提供本地 SQLite 记忆存储与检索模块**
 

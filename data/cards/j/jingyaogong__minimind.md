@@ -1,10 +1,10 @@
 # jingyaogong/minimind
 
-⭐ 68,584 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
+⭐ 69,466 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jingyaogong/minimind) · [官网](https://jingyaogong.github.io/minimind) · 个人维护 · 中文 README
 
-**从0训练64M小语言模型的全链路开源教程项目**
+**给LLM学习者：从0全流程训练64M小语言模型的可复现项目**
 
-从零实现并训练约64M参数的语言模型 MiniMind，代码以 PyTorch 原生编写、不依赖第三方高层抽象，覆盖分词器训练、预训练、SFT、LoRA、DPO/PPO/GRPO 等强化学习、Tool Use、模型蒸馏全流程，并开源对应数据集。主线结构对齐 Qwen3 生态，兼容 transformers/trl/peft 训练框架与 llama.cpp/vllm/ollama 推理引擎，提供 OpenAI 协议兼容服务端与 Streamlit WebUI。定位为 LLM 入门教程与可复现训练项目，面向想在个人 GPU 上理解并复现 LLM 训练全程的学习者与开发者。
+从0实现的小型语言模型训练项目，含 Dense 与 MoE 结构（主线对齐 Qwen3 生态），覆盖 Tokenizer 训练、预训练、SFT、LoRA、DPO、PPO/GRPO/CISPO 强化学习、Tool Use、Agentic RL、蒸馏等阶段，全部核心算法用 PyTorch 原生实现，不依赖第三方高层封装。作者实测单张 RTX 3090 上 SFT 一个 epoch 约 2 小时。已发布 26M–198M 多个权重，兼容 transformers/trl/peft 与 llama.cpp/vllm/ollama 等生态，并扩展视觉与多模态变体。以教程+代码仓库形式提供，需自备 GPU 或云算力。
 
 ## 筛选速览
 
@@ -27,21 +27,21 @@
 
 ## 能力要点
 
-- 从0原生实现 Pretrain/SFT/LoRA/DPO/PPO/GRPO/CISPO/蒸馏全流程
-- 开源完整训练数据集（预训练、SFT、RL、Agent RL），单张 3090 约2小时复现
-- 兼容 transformers、trl、peft 及 llama.cpp/vllm/ollama 等推理引擎
-- 提供 OpenAI API 兼容服务端与 Streamlit WebUI，支持思考链与 Tool Call
+- 覆盖 Pretrain/SFT/LoRA/DPO/PPO/GRPO/CISPO/蒸馏全流程训练代码
+- 核心算法 PyTorch 从 0 实现，不依赖第三方高层抽象
+- 兼容 transformers、trl、peft 与 llama.cpp、vllm、ollama 推理引擎
+- 提供兼容 OpenAI API 协议的服务端与 Streamlit 聊天 WebUI
 
 ## 适用场景
 
-- 在个人 GPU 上从零走通一个大模型的预训练到强化学习全流程
-- 学习 LLM 内部结构与训练算法的逐行实现
-- 将训练好的模型通过 OpenAI 兼容 API 或 ollama/vllm 部署对话服务
-- 基于自有数据集做垂直领域小模型训练
+- 从零跑通一个小语言模型的预训练、微调与强化学习全流程
+- 在个人 GPU 上低成本复现 LLM 训练以理解内部机制
+- 将训练好的模型接入 FastGPT、Open-WebUI 等第三方 Chat UI
+- 在 C-Eval、C-MMLU 等测评集上评测自训模型
 
 ## 场景标签
 
-`教程课程` `模型训练` `微调` `强化学习` · 领域:学习与行业
+`模型评测` `教程课程` `微调` `模型训练` · 领域:评测与运维
 
 ## 证据(README 行号)
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `341c1ce49adb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e8a3a888255c` · [字段定义](../../DATASET.md)*

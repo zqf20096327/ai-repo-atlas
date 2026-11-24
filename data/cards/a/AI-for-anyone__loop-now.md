@@ -1,6 +1,6 @@
 # AI-for-anyone/loop-now
 
-⭐ 22 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/AI-for-anyone/loop-now) · 组织维护 · 中文 README
+⭐ 22 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AI-for-anyone/loop-now) · 组织维护 · 中文 README
 
 **本地多 Agent 协作工作台，可插件扩展**
 

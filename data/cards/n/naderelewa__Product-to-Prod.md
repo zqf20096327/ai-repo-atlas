@@ -1,6 +1,6 @@
 # naderelewa/Product-to-Prod
 
-⭐ 47 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/naderelewa/Product-to-Prod) · [官网](https://naderelewa.com) · 个人维护
+⭐ 47 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/naderelewa/Product-to-Prod) · [官网](https://naderelewa.com) · 个人维护
 
 **面向 AI agent 的产品管理技能插件：从需求到发布产出证据标注文档**
 

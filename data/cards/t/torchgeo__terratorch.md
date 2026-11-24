@@ -1,6 +1,6 @@
 # torchgeo/terratorch
 
-⭐ 882 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
+⭐ 883 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
 
 **地理空间基础模型微调的 Python 工具包**
 

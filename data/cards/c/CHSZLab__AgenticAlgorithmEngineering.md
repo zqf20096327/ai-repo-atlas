@@ -1,6 +1,6 @@
 # CHSZLab/AgenticAlgorithmEngineering
 
-⭐ 37 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CHSZLab/AgenticAlgorithmEngineering) · [官网](https://chszlab.github.io/AgenticAlgorithmEngineering/) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CHSZLab/AgenticAlgorithmEngineering) · [官网](https://chszlab.github.io/AgenticAlgorithmEngineering/) · 组织维护
 
 **让自主 agent 按算法工程循环优化代码性能的方法论插件**
 

@@ -1,6 +1,6 @@
 # thomaschill/unclog
 
-⭐ 38 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/thomaschill/unclog) · [官网](https://pypi.org/project/unclog/) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-04-25 · [GitHub](https://github.com/thomaschill/unclog) · [官网](https://pypi.org/project/unclog/) · 个人维护
 
 **扫描并清理 Claude Code 上下文占用项的本地 CLI 审计工具**
 

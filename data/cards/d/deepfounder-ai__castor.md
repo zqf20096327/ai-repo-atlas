@@ -1,6 +1,6 @@
 # deepfounder-ai/castor
 
-⭐ 68 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/deepfounder-ai/castor) · [官网](https://qwe-qwe.deepfounder.ai/) · 组织维护
+⭐ 69 · Python · MIT · 推送 2026-08-01 · [GitHub](https://github.com/deepfounder-ai/castor) · [官网](https://qwe-qwe.deepfounder.ai/) · 组织维护
 
 **自托管商业流程 AI agent：客服/自动化/知识检索/定时报告**
 

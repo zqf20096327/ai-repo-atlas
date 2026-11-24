@@ -1,6 +1,6 @@
 # hexagon-codes/hexclaw
 
-⭐ 32 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hexagon-codes/hexclaw) · [官网](https://hexclaw.net) · 组织维护 · 中文 README
+⭐ 32 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hexagon-codes/hexclaw) · [官网](https://hexclaw.net) · 组织维护 · 中文 README
 
 **可自托管 Go AI Agent 服务：对话接工具、知识库与自动化**
 

@@ -1,6 +1,6 @@
 # adkit/ads-skills
 
-⭐ 42 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/adkit/ads-skills) · [官网](https://adkit.so) · 个人维护
+⭐ 44 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/adkit/ads-skills) · [官网](https://adkit.so) · 个人维护
 
 **教 AI agent 做广告投放的技能包：Meta/Google 策略框架**
 

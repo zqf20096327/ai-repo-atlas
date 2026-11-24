@@ -1,6 +1,6 @@
 # BrethofAI/awesome-linux-for-ai
 
-⭐ 10 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/BrethofAI/awesome-linux-for-ai) · [官网](https://brethof.ai/awesome/linux-for-ai/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BrethofAI/awesome-linux-for-ai) · [官网](https://brethof.ai/awesome/linux-for-ai/) · 个人维护
 
 **面向本地 AI 工作站的 Linux 发行版分级清单**
 

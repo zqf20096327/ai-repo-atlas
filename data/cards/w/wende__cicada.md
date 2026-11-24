@@ -1,6 +1,6 @@
 # wende/cicada
 
-⭐ 44 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/wende/cicada) · [官网](https://cicada-mcp.vercel.app/) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/wende/cicada) · [官网](https://cicada-mcp.vercel.app/) · 个人维护
 
 **面向 AI 编程助手的本地代码索引与 MCP 上下文压缩服务器**
 

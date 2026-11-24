@@ -1,6 +1,6 @@
 # KoutaChan/Epsilon
 
-⭐ 22 · Java · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/KoutaChan/Epsilon) · 个人维护
+⭐ 23 · Java · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/KoutaChan/Epsilon) · 个人维护
 
 **Java 编写的立直麻将 AI，支持学习、自我对局与牌谱解析**
 

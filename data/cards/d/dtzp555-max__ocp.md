@@ -1,6 +1,6 @@
 # dtzp555-max/ocp
 
-⭐ 143 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/dtzp555-max/ocp) · 个人维护
+⭐ 144 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/dtzp555-max/ocp) · 个人维护
 
 **把 Claude Pro/Max 订阅转成 OpenAI 兼容 API 的本地代理**
 

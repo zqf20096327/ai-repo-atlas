@@ -1,6 +1,6 @@
 # pilotspace/ADD
 
-⭐ 19 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/pilotspace/ADD) · [官网](https://www.npmjs.com/package/@pilotspace/add) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pilotspace/ADD) · [官网](https://www.npmjs.com/package/@pilotspace/add) · 组织维护
 
 **给 AI 编码代理的技能文件：让每次改动留下规则、假设与可复核证据**
 

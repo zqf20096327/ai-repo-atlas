@@ -1,6 +1,6 @@
 # shottocode/PatchSmith
 
-⭐ 9 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/shottocode/PatchSmith) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/shottocode/PatchSmith) · 个人维护
 
 **面向 Windows 玩家的游戏文本原生翻译工具**
 

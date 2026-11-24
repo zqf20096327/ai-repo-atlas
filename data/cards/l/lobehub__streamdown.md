@@ -1,6 +1,6 @@
 # lobehub/streamdown
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lobehub/streamdown) · [官网](https://streamdown.lobehub.com) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lobehub/streamdown) · [官网](https://streamdown.lobehub.com) · 组织维护
 
 **面向 LLM 流式输出的 React 无头 Markdown 渲染引擎**
 

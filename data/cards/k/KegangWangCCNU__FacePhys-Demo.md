@@ -1,6 +1,6 @@
 # KegangWangCCNU/FacePhys-Demo
 
-⭐ 65 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/KegangWangCCNU/FacePhys-Demo) · [官网](https://kegangwangccnu.github.io/FacePhys-Demo/) · 个人维护
+⭐ 65 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/KegangWangCCNU/FacePhys-Demo) · [官网](https://kegangwangccnu.github.io/FacePhys-Demo/) · 个人维护
 
 **网页端 rPPG 生理监测演示：摄像头面部视频测心率**
 

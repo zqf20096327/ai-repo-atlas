@@ -1,6 +1,6 @@
 # jolie-z/jobhunter-ai
 
-⭐ 29 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/jolie-z/jobhunter-ai) · 个人维护 · 中文 README
+⭐ 30 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/jolie-z/jobhunter-ai) · 个人维护 · 中文 README
 
 **AI 全链路求职自动化桌面应用：抓取→评估→改写→自动投递**
 

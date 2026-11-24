@@ -1,6 +1,6 @@
 # rohitg00/ai-engineering-from-scratch
 
-⭐ 79,847 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [官网](https://aiengineeringfromscratch.com) · 个人维护
+⭐ 79,952 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch) · [官网](https://aiengineeringfromscratch.com) · 个人维护
 
 **面向开发者的 AI Engineering 从零构建课程（542 课）**
 

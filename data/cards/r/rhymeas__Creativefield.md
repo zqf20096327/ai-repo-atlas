@@ -1,6 +1,6 @@
 # rhymeas/Creativefield
 
-⭐ 57 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/rhymeas/Creativefield) · [官网](https://www.creativefield.app) · 个人维护
+⭐ 60 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/rhymeas/Creativefield) · [官网](https://www.creativefield.app) · 个人维护
 
 **基于 ComfyUI 的本地图像/视频/3D 创作工作室**
 

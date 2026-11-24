@@ -1,6 +1,6 @@
 # kdcube/kdcube
 
-⭐ 27 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kdcube/kdcube) · [官网](https://kdcube.tech) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kdcube/kdcube) · [官网](https://kdcube.tech) · 组织维护
 
 **自托管 AI 应用服务器与 SDK：多用户托管运行 agent**
 

@@ -1,6 +1,6 @@
 # AetherCore-Dev/relay-radar
 
-⭐ 151 · JavaScript · 推送 2026-11-16 · [GitHub](https://github.com/AetherCore-Dev/relay-radar) · [官网](https://aethercore-dev.github.io/relay-radar/) · 组织维护 · 中文 README
+⭐ 152 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/AetherCore-Dev/relay-radar) · [官网](https://aethercore-dev.github.io/relay-radar/) · 组织维护 · 中文 README
 
 **AI 中转站质量检测工具：验模型真假、审计 Token 计费**
 

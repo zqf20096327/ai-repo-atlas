@@ -1,6 +1,6 @@
 # roboflow/inference
 
-⭐ 2,499 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/roboflow/inference) · [官网](https://inference.roboflow.com) · 组织维护
+⭐ 2,500 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/roboflow/inference) · [官网](https://inference.roboflow.com) · 组织维护
 
 **自托管计算机视觉推理服务器：让相机与边缘设备运行模型**
 

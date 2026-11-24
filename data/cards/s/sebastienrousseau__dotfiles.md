@@ -1,6 +1,6 @@
 # sebastienrousseau/dotfiles
 
-⭐ 83 · Shell · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sebastienrousseau/dotfiles) · [官网](https://doc.dotfiles.io/) · 个人维护
+⭐ 83 · Shell · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sebastienrousseau/dotfiles) · [官网](https://doc.dotfiles.io/) · 个人维护
 
 **面向开发者的跨平台声明式 dotfiles 工作站控制平面**
 

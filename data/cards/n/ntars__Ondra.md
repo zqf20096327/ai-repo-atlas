@@ -1,6 +1,6 @@
 # ntars/Ondra
 
-⭐ 12 · Dart · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ntars/Ondra) · [官网](https://ai.ntars.cn/) · 个人维护 · 中文 README
+⭐ 12 · Dart · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ntars/Ondra) · [官网](https://ai.ntars.cn/) · 个人维护 · 中文 README
 
 **本地数据、插件化架构的桌面 AI 陪伴体**
 

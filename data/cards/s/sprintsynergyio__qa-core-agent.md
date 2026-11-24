@@ -1,6 +1,6 @@
 # sprintsynergyio/qa-core-agent
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sprintsynergyio/qa-core-agent) · [官网](https://sprintsynergy.com) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sprintsynergyio/qa-core-agent) · [官网](https://sprintsynergy.com) · 组织维护
 
 **用 Claude 驱动真实浏览器探索并生成已验证通过的 Playwright 测试**
 

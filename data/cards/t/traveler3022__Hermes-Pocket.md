@@ -1,6 +1,6 @@
 # traveler3022/Hermes-Pocket
 
-⭐ 17 · Kotlin · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/traveler3022/Hermes-Pocket) · 个人维护
+⭐ 18 · Kotlin · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/traveler3022/Hermes-Pocket) · 个人维护
 
 **在 Android 上运行/连接 Hermes Agent 的全功能客户端**
 

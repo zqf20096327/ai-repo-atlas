@@ -1,6 +1,6 @@
 # AnOversizedMooseWithSocks/leCore
 
-⭐ 12 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/AnOversizedMooseWithSocks/leCore) · [官网](https://discoverleos.com/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AnOversizedMooseWithSocks/leCore) · [官网](https://discoverleos.com/) · 个人维护
 
 **纯 NumPy 的全息向量计算引擎：用超向量统一记忆、几何与物理**
 

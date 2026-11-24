@@ -1,6 +1,6 @@
 # nurettincoban/ai-prd-workflow
 
-⭐ 317 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nurettincoban/ai-prd-workflow) · [官网](https://nurettincoban.github.io/ai-prd-workflow/) · 个人维护 · 中文 README
+⭐ 319 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nurettincoban/ai-prd-workflow) · [官网](https://nurettincoban.github.io/ai-prd-workflow/) · 个人维护 · 中文 README
 
 **面向 AI 编码代理的 RFC 驱动开发工作流技能集**
 

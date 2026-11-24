@@ -1,6 +1,6 @@
 # mankidev/antialgorithm
 
-⭐ 688 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mankidev/antialgorithm) · 个人维护 · 中文 README
+⭐ 774 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mankidev/antialgorithm) · 个人维护 · 中文 README
 
 **面向创意工作的 Agent 技能：让模型脱离首个平均化选择**
 

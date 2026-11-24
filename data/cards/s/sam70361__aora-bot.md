@@ -1,6 +1,6 @@
 # sam70361/aora-bot
 
-⭐ 680 · TypeScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/sam70361/aora-bot) · [官网](https://aora-bot.vercel.app) · 个人维护 · 中文 README
+⭐ 681 · TypeScript · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/sam70361/aora-bot) · [官网](https://aora-bot.vercel.app) · 个人维护 · 中文 README
 
 **面向前端开发者的代码绘制网页卡通角色/头像引擎**
 

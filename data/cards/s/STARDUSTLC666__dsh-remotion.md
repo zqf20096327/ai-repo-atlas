@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-remotion
 
-⭐ 41 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/STARDUSTLC666/dsh-remotion) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 42 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/STARDUSTLC666/dsh-remotion) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Remotion 视频创作插件：React 工程导出 MP4**
 

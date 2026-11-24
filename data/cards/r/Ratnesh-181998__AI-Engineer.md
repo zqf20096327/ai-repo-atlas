@@ -1,6 +1,6 @@
 # Ratnesh-181998/AI-Engineer
 
-⭐ 188 · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/Ratnesh-181998/AI-Engineer) · [官网](https://www.youtube.com/@aiDotEngineer/videos) · 个人维护
+⭐ 189 · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/Ratnesh-181998/AI-Engineer) · [官网](https://www.youtube.com/@aiDotEngineer/videos) · 个人维护
 
 **AI 工程主题图文笔记合集：Agentic AI、GenAI、RAG 概念图解**
 

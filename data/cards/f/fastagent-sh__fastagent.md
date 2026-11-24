@@ -1,6 +1,6 @@
 # fastagent-sh/fastagent
 
-⭐ 67 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fastagent-sh/fastagent) · [官网](https://fastagent.sh) · 组织维护 · 中文 README
+⭐ 67 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fastagent-sh/fastagent) · [官网](https://fastagent.sh) · 组织维护 · 中文 README
 
 **把本地 agent 目录变成线上服务的 TypeScript 运行时**
 

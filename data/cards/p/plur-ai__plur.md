@@ -1,6 +1,6 @@
 # plur-ai/plur
 
-⭐ 318 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/plur-ai/plur) · [官网](https://plur.ai) · 组织维护
+⭐ 319 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/plur-ai/plur) · [官网](https://plur.ai) · 组织维护
 
 **面向 AI agent 的本地优先共享记忆层（MCP 记忆服务器）**
 

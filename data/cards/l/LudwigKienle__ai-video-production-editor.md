@@ -1,6 +1,6 @@
 # LudwigKienle/ai-video-production-editor
 
-⭐ 192 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/LudwigKienle/ai-video-production-editor) · [官网](https://github.com/LudwigKienle/ai-video-production-editor/releases/latest) · 个人维护
+⭐ 194 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/LudwigKienle/ai-video-production-editor) · [官网](https://github.com/LudwigKienle/ai-video-production-editor/releases/latest) · 个人维护
 
 **本地优先的开源 AI 视频制作桌面工作站，覆盖剧本到成片**
 

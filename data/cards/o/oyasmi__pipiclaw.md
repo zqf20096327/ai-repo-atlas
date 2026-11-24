@@ -1,6 +1,6 @@
 # oyasmi/pipiclaw
 
-⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/oyasmi/pipiclaw) · [官网](https://www.npmjs.com/package/@oyasmi/pipiclaw) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/oyasmi/pipiclaw) · [官网](https://www.npmjs.com/package/@oyasmi/pipiclaw) · 个人维护 · 中文 README
 
 **钉钉里的 AI coding 助手运行时：多智能体协作与长期任务**
 

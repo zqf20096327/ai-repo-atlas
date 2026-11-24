@@ -1,6 +1,6 @@
 # hBouanane/papers
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hBouanane/papers) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hBouanane/papers) · 个人维护
 
 **研究论文的 AI 阅读伴学工具：选文、带读、复习**
 

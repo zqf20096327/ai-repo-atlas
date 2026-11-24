@@ -1,6 +1,6 @@
 # SophieCecil7793/windsurf-cursor-pro-vcc-finops
 
-⭐ 62 · 推送 2026-11-11 · [GitHub](https://github.com/SophieCecil7793/windsurf-cursor-pro-vcc-finops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 81 · 推送 2026-11-11 · [GitHub](https://github.com/SophieCecil7793/windsurf-cursor-pro-vcc-finops) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡订阅 Windsurf/Cursor 的付费教程页面**
 

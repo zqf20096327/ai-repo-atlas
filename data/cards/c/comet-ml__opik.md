@@ -1,10 +1,10 @@
 # comet-ml/opik
 
-⭐ 23,487 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/comet-ml/opik) · [官网](https://www.comet.com/docs/opik/) · 组织维护 · 中文 README
+⭐ 23,492 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/comet-ml/opik) · [官网](https://www.comet.com/docs/opik/) · 组织维护 · 中文 README
 
-**面向 LLM 应用团队的观测、评估与 Agent 追踪平台**
+**开源 LLM 可观测性与评测平台：追踪、评估、监控 LLM 应用**
 
-由 Comet 开发的开源 LLM 可观测性与评估平台，Apache-2.0 授权，包含服务端后端与 Web 应用，可完整自托管。核心能力：多步 Agent 与工具调用的追踪树、基于数据集与实验的 LLM 评估（含 LLM-as-a-judge 指标如幻觉检测）、Prompt 管理与 Playground、生产仪表盘与在线评估规则、PyTest CI/CD 集成，自述设计规模为每日 4000 万条以上 trace。提供 Python/TypeScript SDK、REST API 与 OpenTelemetry 支持，另可通过 MCP 命令接入 Claude Code、Cursor 等编码代理。
+由 Comet 开发、Apache-2.0 许可的 LLM 可观测性与评测平台，覆盖从开发期 trace 到生产监控的完整链路。核心机制包括：通过 @track 装饰器或框架集成记录多步 agent 与 LLM 调用的 trace 树；用数据集与实验做自动化评测，含 LLM-as-a-judge 指标（幻觉检测、审核、RAG 评估）；提供 Prompt Playground、Agent Optimizer、Guardrails 与在线评测规则；支持 PyTest 集成进入 CI/CD。平台整体可自托管（含后端与 Web 界面），SDK 覆盖 Python/TypeScript，并支持 OpenTelemetry 协议接入。
 
 ## 筛选速览
 
@@ -13,7 +13,7 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- AI Agent 追踪：多步 trace 树覆盖 LLM 调用、工具执行与检索步骤
-- LLM 评估：数据集、实验与 LLM-as-a-judge 指标（幻觉检测、审核、RAG 评估）
-- Apache-2.0 完整平台可自托管，支持 Docker Compose 与 Kubernetes/Helm
-- MCP 命令接入 Claude Code、Cursor、VS Code Copilot 等编码代理
+- 多步 agent trace 树记录，含 LLM 调用、工具执行与检索步骤
+- LLM-as-a-judge 评测：幻觉检测、审核、RAG 评估指标
+- 全平台（含服务端）Apache-2.0 可自托管，支持 Docker/Kubernetes/Helm
+- 提供 MCP 服务器，可从 Claude Code、Cursor 等编码 agent 读取 trace 并运行评测
 
 ## 适用场景
 
-- 为生产环境的 Agent 工作流记录和分析多步调用链路
-- 用数据集和 LLM-as-a-judge 指标自动化评估 RAG 应用质量
-- 在内网自托管部署，让 trace 数据不出自有基础设施
-- 在 CI/CD 中对 LLM 流水线做每次提交的回归测试
+- 追踪与调试多步 agent 工作流与 RAG 系统的调用链
+- 上线前用数据集与 LLM-as-a-judge 自动评测应用质量
+- 在自有基础设施自托管监控生产环境的 trace 与 token 用量
+- 将 LLM 流水线测试集成到每次提交的 CI/CD 中
 
 ## 场景标签
 
@@ -47,7 +47,7 @@
 
 > L10:  Opik is the open-source LLM observability and evaluation platform for AI agent tracing, LLM evaluation, prompt man
 > L33: - **AI Agent Tracing & Observability**: Deep tracing of LLM calls, conversation logging, and agent activity, with f
-> L190: Opik provides a suite of client libraries and a REST API to interact with the Opik server. This includes SDKs for 
+> L34: - **LLM Evaluation**: Datasets, experiments, and LLM-as-a-judge metrics for hallucination detection, moderation, an
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-18 · 置信度 mid · 依据 README sha `a8bf7d11ec2e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `2cb6c779483e` · [字段定义](../../DATASET.md)*

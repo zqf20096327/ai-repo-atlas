@@ -1,6 +1,6 @@
 # omnigent-ai/omnigent
 
-⭐ 11,493 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/omnigent-ai/omnigent) · [官网](https://omnigent.ai) · 组织维护
+⭐ 11,510 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/omnigent-ai/omnigent) · [官网](https://omnigent.ai) · 组织维护
 
 **统一编排多个 AI 编码 agent 的开源元框架**
 

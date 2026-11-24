@@ -1,6 +1,6 @@
 # chainstacklabs/pumpfun-cli
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/chainstacklabs/pumpfun-cli) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/chainstacklabs/pumpfun-cli) · 组织维护
 
 **pump.fun 代币发行与交易的命令行工具**
 

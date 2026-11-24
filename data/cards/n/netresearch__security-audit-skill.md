@@ -1,6 +1,6 @@
 # netresearch/security-audit-skill
 
-⭐ 53 · Shell · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/netresearch/security-audit-skill) · 组织维护
+⭐ 53 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/netresearch/security-audit-skill) · 组织维护
 
 **给 AI agent 的 PHP/Web 安全审计技能包：OWASP/CWE 模式与 80+ 检查点**
 

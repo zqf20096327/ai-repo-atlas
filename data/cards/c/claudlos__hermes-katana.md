@@ -1,6 +1,6 @@
 # claudlos/hermes-katana
 
-⭐ 51 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/claudlos/hermes-katana) · [官网](https://claudlos.github.io/hermes-katana/) · 个人维护
+⭐ 51 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/claudlos/hermes-katana) · [官网](https://claudlos.github.io/hermes-katana/) · 个人维护
 
 **给 AI agent 开发者的纵深防御安全工具包：污点追踪、策略引擎与红队基准**
 

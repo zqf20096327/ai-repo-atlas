@@ -1,6 +1,6 @@
 # MouseWurX/Bob
 
-⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/MouseWurX/Bob) · [官网](https://github.com/MouseWurX/Bob/releases/latest) · 个人维护
+⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/MouseWurX/Bob) · [官网](https://github.com/MouseWurX/Bob/releases/latest) · 个人维护
 
 **本地运行的个性化 AI agent，内置模型裁剪实验室**
 

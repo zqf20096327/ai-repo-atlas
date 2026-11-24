@@ -1,6 +1,6 @@
 # dgahagan/homebox-mcp
 
-⭐ 19 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/dgahagan/homebox-mcp) · [官网](https://pypi.org/project/homebox-mcp/) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dgahagan/homebox-mcp) · [官网](https://pypi.org/project/homebox-mcp/) · 个人维护
 
 **让 Claude 等 MCP 客户端用自然语言管理 Homebox 家庭库存的服务器**
 

@@ -1,6 +1,6 @@
 # hounddogai/protomap
 
-⭐ 10 · Shell · 推送 2026-11-20 · [GitHub](https://github.com/hounddogai/protomap) · [官网](https://protomap.ai) · 组织维护
+⭐ 10 · Shell · 推送 2026-11-23 · [GitHub](https://github.com/hounddogai/protomap) · [官网](https://protomap.ai) · 组织维护
 
 **gRPC/Protobuf 架构图引擎，供团队与编码代理查询调用关系**
 

@@ -1,6 +1,6 @@
 # Pipelex/pipelex
 
-⭐ 952 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Pipelex/pipelex) · [官网](https://pipelex.com) · 组织维护
+⭐ 951 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Pipelex/pipelex) · [官网](https://pipelex.com) · 组织维护
 
 **用编码 agent 构建 AI 方法并以 MCP/Webapp/API 运行的运行时**
 

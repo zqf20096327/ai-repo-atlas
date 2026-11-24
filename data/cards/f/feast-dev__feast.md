@@ -1,6 +1,6 @@
 # feast-dev/feast
 
-⭐ 7,362 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/feast-dev/feast) · [官网](https://feast.dev) · 组织维护
+⭐ 7,364 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/feast-dev/feast) · [官网](https://feast.dev) · 组织维护
 
 **开源 ML 特征存储：统一管理训练与在线推理的特征数据**
 

@@ -1,6 +1,6 @@
 # FlaxXTT/Typeleast
 
-⭐ 123 · Swift · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/FlaxXTT/Typeleast) · [官网](https://typeleast.promptking.workers.dev) · 个人维护 · 中文 README
+⭐ 124 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/FlaxXTT/Typeleast) · [官网](https://typeleast.promptking.workers.dev) · 个人维护 · 中文 README
 
 **桌面语音听写工具：本机识别语音，AI 整理后写入光标处**
 

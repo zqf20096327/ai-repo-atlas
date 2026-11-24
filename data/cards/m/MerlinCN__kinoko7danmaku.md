@@ -1,6 +1,6 @@
 # MerlinCN/kinoko7danmaku
 
-⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/MerlinCN/kinoko7danmaku) · 个人维护 · 中文 README
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/MerlinCN/kinoko7danmaku) · 个人维护 · 中文 README
 
 **B 站直播弹幕 TTS 播报桌面工具：弹幕礼物实时转语音**
 

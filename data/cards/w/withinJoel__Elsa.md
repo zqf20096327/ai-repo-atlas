@@ -1,6 +1,6 @@
 # withinJoel/Elsa
 
-⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/withinJoel/Elsa) · [官网](https://elsaai.vercel.app) · 个人维护
+⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/withinJoel/Elsa) · [官网](https://elsaai.vercel.app) · 个人维护
 
 **终端里的网页浏览器，带 AI 检测与编程语言功能**
 

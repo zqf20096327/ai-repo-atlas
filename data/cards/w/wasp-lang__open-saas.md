@@ -1,6 +1,6 @@
 # wasp-lang/open-saas
 
-⭐ 16,400 · MDX · MIT · 推送 2026-11-11 · [GitHub](https://github.com/wasp-lang/open-saas) · [官网](https://opensaas.sh) · 组织维护
+⭐ 16,415 · MDX · MIT · 推送 2026-11-11 · [GitHub](https://github.com/wasp-lang/open-saas) · [官网](https://opensaas.sh) · 组织维护
 
 **免费开源 JS 技术栈 SaaS 启动模板，内置 AI 编码配套**
 

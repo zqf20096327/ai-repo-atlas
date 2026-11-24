@@ -1,6 +1,6 @@
 # jedbrnth-eng/no-cap
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/jedbrnth-eng/no-cap) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **核验 agent 回复与工具实际返回是否一致、标记不实声明的插件**
 
@@ -11,7 +11,7 @@ Hermes Agent 的插件：通过 post_tool_call 钩子记录每次工具调用的
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

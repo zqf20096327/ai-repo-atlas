@@ -1,6 +1,6 @@
 # win4r/AISuperDomain
 
-⭐ 1,997 · C# · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/win4r/AISuperDomain) · [官网](https://space.bilibili.com/3493277319825652) · 个人维护 · 中文 README
+⭐ 1,998 · C# · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/win4r/AISuperDomain) · [官网](https://space.bilibili.com/3493277319825652) · 个人维护 · 中文 README
 
 **一次提问同时获取多个 AI 回答的桌面聚合客户端**
 

@@ -1,6 +1,6 @@
 # Alex8791-cyber/cognithor
 
-⭐ 156 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Alex8791-cyber/cognithor) · [官网](https://cognithor.ai) · 个人维护
+⭐ 156 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Alex8791-cyber/cognithor) · [官网](https://cognithor.ai) · 个人维护
 
 **本地优先的自主 agent 操作系统：私有 AI 助手与自动化**
 

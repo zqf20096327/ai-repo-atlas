@@ -1,6 +1,6 @@
 # Stervakim/relaykite
 
-⭐ 3 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Stervakim/relaykite) · [官网](https://stervakim.github.io/relaykite/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 ChatGPT 通过私有 MCP 中继控制 Android 与 Windows 设备**
 
@@ -11,7 +11,7 @@ RelayKite 提供本地设备代理，使 ChatGPT 能在用户自有设备上执�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

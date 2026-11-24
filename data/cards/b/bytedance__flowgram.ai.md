@@ -1,6 +1,6 @@
 # bytedance/flowgram.ai
 
-⭐ 8,611 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bytedance/flowgram.ai) · [官网](https://flowgram.ai) · 组织维护 · 中文 README
+⭐ 8,617 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bytedance/flowgram.ai) · [官网](https://flowgram.ai) · 组织维护 · 中文 README
 
 **给开发者的可视化 AI 工作流开发框架与桌面端**
 

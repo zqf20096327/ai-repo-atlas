@@ -1,6 +1,6 @@
 # tangosdev/sm64ds-decomp
 
-⭐ 266 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tangosdev/sm64ds-decomp) · [官网](https://tangos.dev) · 组织维护
+⭐ 267 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tangosdev/sm64ds-decomp) · [官网](https://tangos.dev) · 组织维护
 
 **Super Mario 64 DS 的逐字节匹配反编译工程（C/C++ 源码与工具链）**
 

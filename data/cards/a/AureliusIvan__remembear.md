@@ -1,6 +1,6 @@
 # AureliusIvan/remembear
 
-⭐ 10 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/AureliusIvan/remembear) · [官网](https://remembear.ivann.my.id/) · 个人维护
+⭐ 10 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/AureliusIvan/remembear) · [官网](https://remembear.ivann.my.id/) · 个人维护
 
 **面向短期记忆需求者的备忘应用，AI 辅助记忆管理**
 

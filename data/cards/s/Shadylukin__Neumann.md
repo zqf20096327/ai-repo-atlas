@@ -1,6 +1,6 @@
 # Shadylukin/Neumann
 
-⭐ 75 · Rust · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/Shadylukin/Neumann) · [官网](https://scrunchee.ai) · 个人维护
+⭐ 76 · Rust · Apache-2.0 · 推送 2026-06-13 · [GitHub](https://github.com/Shadylukin/Neumann) · [官网](https://scrunchee.ai) · 个人维护
 
 **Rust 统一数据库：关系表、图与向量在同一存储层**
 

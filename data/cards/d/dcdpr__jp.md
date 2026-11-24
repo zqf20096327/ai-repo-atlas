@@ -1,6 +1,6 @@
 # dcdpr/jp
 
-⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dcdpr/jp) · 组织维护
+⭐ 16 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dcdpr/jp) · 组织维护
 
 **面向开发者的 LLM 无关结对编程命令行工具**
 

@@ -1,6 +1,6 @@
 # qwwiwi/agent-jobs
 
-⭐ 9 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/qwwiwi/agent-jobs) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/qwwiwi/agent-jobs) · 个人维护
 
 **让 Claude Code 主会话把长任务派发为受管控的后台 claude -p 作业**
 

@@ -1,6 +1,6 @@
 # TseringYuu/anyviz
 
-⭐ 62 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/TseringYuu/anyviz) · [官网](https://anyviz.aiware.store) · 个人维护 · 中文 README
+⭐ 62 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TseringYuu/anyviz) · [官网](https://anyviz.aiware.store) · 个人维护 · 中文 README
 
 **给 AI 编程工具的数据可视化规范与工作流库（34 种模板）**
 

@@ -1,6 +1,6 @@
 # ShenSeanChen/waku-agent
 
-⭐ 2,222 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ShenSeanChen/waku-agent) · [官网](waku.one) · 个人维护 · 中文 README
+⭐ 2,260 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ShenSeanChen/waku-agent) · [官网](waku.one) · 个人维护 · 中文 README
 
 **本地优先、可读源码的个人 AI 助手框架**
 

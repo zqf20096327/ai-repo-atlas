@@ -1,6 +1,6 @@
 # nullata/llamaMan
 
-⭐ 15 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/nullata/llamaMan) · [官网](https://nickscripts.com) · 个人维护 · 中文 README
+⭐ 16 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/nullata/llamaMan) · [官网](https://nickscripts.com) · 个人维护 · 中文 README
 
 **浏览器 UI 管理/集群化多个 llama.cpp server 实例并代理 API**
 

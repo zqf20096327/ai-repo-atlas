@@ -1,6 +1,6 @@
 # yyu0310/cc-to-antigravity-cli-bridge
 
-⭐ 28 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yyu0310/cc-to-antigravity-cli-bridge) · 个人维护 · 中文 README
+⭐ 29 · Shell · MIT · 推送 2026-10-24 · [GitHub](https://github.com/yyu0310/cc-to-antigravity-cli-bridge) · 个人维护 · 中文 README
 
 **从 Claude Code 驱动 Antigravity CLI 的桥接脚本与提示前缀**
 

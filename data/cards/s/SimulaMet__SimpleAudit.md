@@ -1,6 +1,6 @@
 # SimulaMet/SimpleAudit
 
-⭐ 32 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SimulaMet/SimpleAudit) · 组织维护
+⭐ 33 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SimulaMet/SimpleAudit) · 组织维护
 
 **本地优先的多语言 AI 安全审计与红队测试框架**
 

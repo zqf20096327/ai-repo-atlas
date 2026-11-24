@@ -1,6 +1,6 @@
 # manit6752025/AXIOM-AI
 
-⭐ 32 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/manit6752025/AXIOM-AI) · [官网](https://manit6752025.github.io/AXIOM-AI/) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/manit6752025/AXIOM-AI) · [官网](http://manit6752025.github.io/AXIOM-AI/) · 个人维护
 
 **本地优先的 AI 工作台：训练前检查模型、数据与硬件适配**
 

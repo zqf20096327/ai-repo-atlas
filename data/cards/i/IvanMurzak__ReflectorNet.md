@@ -1,6 +1,6 @@
 # IvanMurzak/ReflectorNet
 
-⭐ 17 · C# · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/IvanMurzak/ReflectorNet) · 个人维护
+⭐ 17 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/IvanMurzak/ReflectorNet) · 个人维护
 
 **.NET 反射工具库：面向 AI 场景的动态调用与类型保持序列化**
 

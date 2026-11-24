@@ -1,6 +1,6 @@
 # rtmandreyev/construct
 
-⭐ 169 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/rtmandreyev/construct) · [官网](https://rtmandreyev.github.io/construct/) · 个人维护
+⭐ 171 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/rtmandreyev/construct) · [官网](https://rtmandreyev.github.io/construct/) · 个人维护
 
 **让任意 AI agent 从自然语言生成全息 3D 模型及部件的技能与 MCP 工具**
 

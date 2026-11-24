@@ -1,6 +1,6 @@
 # Ludo-AI/ludo-cli
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Ludo-AI/ludo-cli) · [官网](https://ludo.ai/developers/cli) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Ludo-AI/ludo-cli) · [官网](https://ludo.ai/developers/cli) · 组织维护
 
 **给游戏开发者与编程代理的 AI 游戏资产生成 CLI**
 

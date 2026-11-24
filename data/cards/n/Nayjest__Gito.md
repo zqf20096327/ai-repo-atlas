@@ -1,6 +1,6 @@
 # Nayjest/Gito
 
-⭐ 476 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nayjest/Gito) · [官网](http://gito.bot/) · 个人维护
+⭐ 476 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nayjest/Gito) · [官网](http://gito.bot/) · 个人维护
 
 **开源 AI 代码审查工具：审查 GitHub PR 与本地改动**
 

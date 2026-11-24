@@ -1,6 +1,6 @@
 # AKzar1el/god-prompt
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AKzar1el/god-prompt) · [官网](https://tomiseregi.si/projects/god-prompt) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/AKzar1el/god-prompt) · [官网](https://tomiseregi.si/projects/god-prompt) · 个人维护
 
 **给 AI 编码助手的统一工程流程提示词与 Agent Skill**
 

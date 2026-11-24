@@ -1,6 +1,6 @@
 # Jasmine-Coder-Dev/error-notebook
 
-⭐ 5 · Rust · MIT · 推送 2026-10-12 · [GitHub](https://github.com/Jasmine-Coder-Dev/error-notebook) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给家长/学生的本地错题本：试卷切题+AI打标+组卷**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

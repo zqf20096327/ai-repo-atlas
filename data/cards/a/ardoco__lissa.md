@@ -1,6 +1,6 @@
 # ardoco/lissa
 
-⭐ 19 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ardoco/lissa) · [官网](https://ardoco.de/approaches/lissa/) · 组织维护
+⭐ 19 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ardoco/lissa) · [官网](https://ardoco.de/approaches/lissa/) · 组织维护
 
 **用 LLM+RAG 恢复软件制品间追踪链接的框架，面向科研与工程**
 

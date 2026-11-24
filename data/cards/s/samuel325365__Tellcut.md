@@ -1,6 +1,6 @@
 # samuel325365/Tellcut
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/samuel325365/Tellcut) · [官网](https://samuel325365.github.io/Tellcut/) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/samuel325365/Tellcut) · [官网](https://samuel325365.github.io/Tellcut/) · 个人维护 · 中文 README
 
 **对话式本地视频剪辑器：AI agent 看素材、写分镜并剪初稿**
 

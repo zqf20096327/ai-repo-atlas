@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Water_Potability_Check_ML
 
-⭐ 39 · Python · 推送 2026-11-18 · [GitHub](https://github.com/Hazrat-Ali9/Water_Potability_Check_ML) · [官网](https://huggingface.co/spaces/Hazrat-Ali9/Water_Potability_Check_ML) · 个人维护
+⭐ 40 · Python · 推送 2026-11-18 · [GitHub](https://github.com/Hazrat-Ali9/Water_Potability_Check_ML) · [官网](https://huggingface.co/spaces/Hazrat-Ali9/Water_Potability_Check_ML) · 个人维护
 
 **机器学习预测饮用水可饮用性的分类项目**
 

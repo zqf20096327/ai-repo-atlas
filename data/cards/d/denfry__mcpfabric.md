@@ -1,6 +1,6 @@
 # denfry/mcpfabric
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/denfry/mcpfabric) · [官网](https://modrinth.com/mod/mcpfabric) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/denfry/mcpfabric) · [官网](https://modrinth.com/mod/mcpfabric) · 个人维护
 
 **让 AI agent 通过 MCP 观察并操控 Minecraft 的模组+服务器**
 

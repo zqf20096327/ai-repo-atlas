@@ -1,6 +1,6 @@
 # ParadoxInfinite/oriel
 
-⭐ 13 · Go · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/ParadoxInfinite/oriel) · [官网](https://paradoxinfinite.github.io/oriel/) · 个人维护
+⭐ 14 · Go · Apache-2.0 · 推送 2026-09-07 · [GitHub](https://github.com/ParadoxInfinite/oriel) · [官网](https://paradoxinfinite.github.io/oriel/) · 个人维护
 
 **给开发者的本地 Docker/Colima 浏览器 GUI，兼作 MCP 服务器**
 

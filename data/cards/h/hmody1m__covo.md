@@ -1,6 +1,6 @@
 # hmody1m/covo
 
-⭐ 6 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hmody1m/covo) · 组织维护
+⭐ 7 · JavaScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/hmody1m/covo) · 组织维护
 
 **自托管自主 AI agent：执行任务、后台例程与审批式自动化**
 

@@ -1,6 +1,6 @@
 # VictoriaMetrics/mcp-victorialogs
 
-⭐ 112 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/VictoriaMetrics/mcp-victorialogs) · [官网](https://victoriametrics.com/) · 组织维护
+⭐ 112 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/VictoriaMetrics/mcp-victorialogs) · [官网](https://victoriametrics.com/) · 组织维护
 
 **VictoriaLogs 的 MCP 服务器：让 AI 客户端查询与分析日志**
 

@@ -1,6 +1,6 @@
 # topmindspace/dsh-super-kanban
 
-⭐ 134 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/topmindspace/dsh-super-kanban) · [官网](https://topmindspace.github.io/dsh-super-kanban/) · 组织维护 · 中文 README
+⭐ 137 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/topmindspace/dsh-super-kanban) · [官网](https://topmindspace.github.io/dsh-super-kanban/) · 组织维护 · 中文 README
 
 **DeepSeek Harness 的 AI 任务看板插件：从会话提炼任务与进度**
 

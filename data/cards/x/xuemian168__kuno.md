@@ -1,6 +1,6 @@
 # xuemian168/kuno
 
-⭐ 79 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/xuemian168/kuno) · [官网](https://qut.edu.kg/) · 个人维护 · 中文 README
+⭐ 79 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/xuemian168/kuno) · [官网](https://qut.edu.kg/) · 个人维护 · 中文 README
 
 **面向多语言场景的轻量博客 CMS，Go + Next.js，Docker 部署**
 

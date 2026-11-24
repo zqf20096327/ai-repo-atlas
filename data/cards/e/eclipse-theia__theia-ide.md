@@ -1,6 +1,6 @@
 # eclipse-theia/theia-ide
 
-⭐ 620 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/eclipse-theia/theia-ide) · [官网](https://theia-ide.org/) · 组织维护
+⭐ 619 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eclipse-theia/theia-ide) · [官网](https://theia-ide.org/) · 组织维护
 
 **面向云与桌面的开源 AI IDE，支持自带 LLM 密钥**
 

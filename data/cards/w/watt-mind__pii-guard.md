@@ -1,6 +1,6 @@
 # watt-mind/pii-guard
 
-⭐ 17 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/watt-mind/pii-guard) · [官网](https://guard.watt-mind.com) · 组织维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/watt-mind/pii-guard) · [官网](https://guard.watt-mind.com) · 组织维护
 
 **AI agent 隐私网关：将个人数据替换为可逆占位符后再发给 LLM**
 

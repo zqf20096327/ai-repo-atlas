@@ -1,6 +1,6 @@
 # Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources
 
-⭐ 580 · 推送 2026-11-07 · [GitHub](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources) · 个人维护
+⭐ 582 · 推送 2026-11-07 · [GitHub](https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources) · 个人维护
 
 **免费机器学习阅读资源清单：198 本书籍按 18 类组织**
 

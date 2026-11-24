@@ -1,6 +1,6 @@
 # V-Songbird/hush
 
-⭐ 54 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/V-Songbird/hush) · [官网](https://github.com/V-Songbird/foundry) · 个人维护
+⭐ 54 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/V-Songbird/hush) · [官网](https://github.com/V-Songbird/foundry) · 个人维护
 
 **Claude Code 插件：减少过程解说、缩短工具输出**
 

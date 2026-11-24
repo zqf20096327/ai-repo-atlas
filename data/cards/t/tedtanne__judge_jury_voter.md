@@ -1,6 +1,6 @@
 # tedtanne/judge_jury_voter
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tedtanne/judge_jury_voter) · [官网](https://tedtanner.org) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/tedtanne/judge_jury_voter) · [官网](https://tedtanner.org) · 个人维护
 
 **多智能体代码/文档评审面板：评审、合议、投票并用纳什议价定修改清单**
 

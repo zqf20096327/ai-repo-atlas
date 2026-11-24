@@ -1,6 +1,6 @@
 # Muvon/octolib
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Muvon/octolib) · [官网](https://octomind.run/product/octolib) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Muvon/octolib) · [官网](https://octomind.run/product/octolib) · 个人维护
 
 **统一接口接入 30+ AI 提供商的 Rust 库，内置成本追踪**
 

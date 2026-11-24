@@ -1,6 +1,6 @@
 # aria-ml/dataeval
 
-⭐ 22 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/aria-ml/dataeval) · [官网](https://dataeval.readthedocs.io) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aria-ml/dataeval) · [官网](https://dataeval.readthedocs.io) · 组织维护
 
 **计算机视觉数据质量与模型性能评估库：发现数据问题**
 

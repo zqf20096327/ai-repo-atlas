@@ -1,6 +1,6 @@
 # qufei1993/ai-agent-guide
 
-⭐ 26 · JavaScript · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/qufei1993/ai-agent-guide) · [官网](https://qufei1993.github.io/ai-agent-guide/) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/qufei1993/ai-agent-guide) · [官网](https://qufei1993.github.io/ai-agent-guide/) · 个人维护 · 中文 README
 
 **面向工程师的 LLM/Agent/RAG 开源交互式双语教程**
 

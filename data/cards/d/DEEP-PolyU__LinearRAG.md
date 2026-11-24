@@ -1,6 +1,6 @@
 # DEEP-PolyU/LinearRAG
 
-⭐ 572 · Python · GPL-3.0 · 推送 2026-07-05 · [GitHub](https://github.com/DEEP-PolyU/LinearRAG) · [官网](https://arxiv.org/pdf/2510.10114) · 组织维护
+⭐ 573 · Python · GPL-3.0 · 推送 2026-07-05 · [GitHub](https://github.com/DEEP-PolyU/LinearRAG) · [官网](https://arxiv.org/pdf/2510.10114) · 组织维护
 
 **免 LLM 建图的高效 GraphRAG 方法（ICLR 2026 论文代码）**
 

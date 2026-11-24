@@ -1,10 +1,10 @@
 # ongridio/ongrid
 
-⭐ 1,294 · Go · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/ongridio/ongrid) · [官网](https://ongrid.cloud) · 组织维护 · 中文 README
+⭐ 1,296 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ongridio/ongrid) · [官网](https://ongrid.cloud) · 组织维护 · 中文 README
 
-**从 Slack/Telegram 等聊天渠道诊断并处置基础设施故障的运维 AI Agent**
+**运维 AI Agent：从 IM 里定位故障根因并修复基础设施**
 
-以 Go 编写、自托管的运维 AI Agent 系统：通过 Coordinator + 专家子代理（SRE/网络/DB）结构响应运维提问与告警，执行根因分析（遍历拓扑、关联指标/日志/追踪、定位到源码行）、远程只读巡检（bash 沙箱 + 26+ 工具）、浏览器 SSH，并支持审批与写操作门控。内置 Prometheus + Loki + Tempo + Grafana 可观测栈，支持 MCP 服务器注册、知识库 RAG 索引与工作流编排，从 Slack、Telegram、Lark、钉钉、企业微信等 IM 双向交互。
+以 Go 编写的自托管运维 AI Agent 平台：接入 Prometheus、Loki、Tempo 等可观测性栈与 Kubernetes 集群，通过 Slack、Telegram、飞书、钉钉等 IM 通道交互；coordinator 调度 SRE/网络/DB 专家子代理，收到告警自动生成 RCA 报告并回写到聊天，具备拓扑爆炸半径分析、浏览器 SSH、26+ 只读巡检工具、审批写入门与知识库索引。模型可自选热切换。通过发布包 install.sh 一键安装，需 Ubuntu 22.04+/Debian 12+/RHEL 9 等服务器环境。
 
 ## 筛选速览
 
@@ -13,27 +13,28 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 告警触发自动调查：生成 RCA worker 并将原因写回聊天
-- 根因分析沿拓扑关联 m/l/t 并锚定到源码行
-- Bring your own model：Anthropic/OpenAI/GLM/DeepSeek/Gemini/Kimi 热切换
-- 零入站端口架构：edge 主动外拨，所有调用留审计
+- 告警触发自动调查：RCA worker 将根因回写到 IM 通道
+- Coordinator + 专家子代理架构（SRE/网络/DB）
+- 零入站端口设计：Edge 外拨连接，浏览器 SSH 全程审计
+- 自选模型热切换：Anthropic/OpenAI/GLM/DeepSeek/Gemini/Kimi
 
 ## 适用场景
 
-- 值班时在群里让 Agent 自动调查告警并给出根因报告
-- 给服务器上的 Agent 配置只读巡检工具与审批门控
-- 将 runbook、事故历史、代码仓库索引进知识库供人和 Agent 共同检索
+- 运维团队在 Slack/钉钉中接收告警后让 Agent 自动排查根因
+- 通过对话式聊天查看服务拓扑与爆炸半径
+- 将 runbook、事故历史索引成人机共享的知识库
+- 对生产变更设置审批门与策略边界
 
 ## 场景标签
 
-`RAG` `多智能体` · 领域:Agent 开发
+`多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `13490c66e678` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e96767892e43` · [字段定义](../../DATASET.md)*

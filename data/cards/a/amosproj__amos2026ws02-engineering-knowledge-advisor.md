@@ -1,6 +1,6 @@
 # amosproj/amos2026ws02-engineering-knowledge-advisor
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/amosproj/amos2026ws02-engineering-knowledge-advisor) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/amosproj/amos2026ws02-engineering-knowledge-advisor) · 组织维护
 
 **面向工程师的工程知识组织与 AI 检索原型**
 

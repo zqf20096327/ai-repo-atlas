@@ -1,6 +1,6 @@
 # HSGunes/gemini-baton-for-claude-code
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/HSGunes/gemini-baton-for-claude-code) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HSGunes/gemini-baton-for-claude-code) · 个人维护
 
 **Claude Code 插件：把编码任务委派给 Gemini 子代理执行，Claude 负责规划与验证**
 

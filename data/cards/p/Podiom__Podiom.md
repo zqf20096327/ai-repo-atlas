@@ -1,6 +1,6 @@
 # Podiom/Podiom
 
-⭐ 25 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Podiom/Podiom) · [官网](https://github.com/Podiom/Podiom/tree/master/docs) · 组织维护
+⭐ 25 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Podiom/Podiom) · [官网](https://github.com/Podiom/Podiom/tree/master/docs) · 组织维护
 
 **本地优先的 Claude Code/Codex 代理工作区管理工具**
 

@@ -1,6 +1,6 @@
 # icoretech/codex-pooler
 
-⭐ 244 · Elixir · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/icoretech/codex-pooler) · [官网](https://codex-pooler.com) · 组织维护 · 中文 README
+⭐ 244 · Elixir · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/icoretech/codex-pooler) · [官网](https://codex-pooler.com) · 组织维护 · 中文 README
 
 **自托管的 Codex 网关：用稳定的 Pool API key 管理多 Codex 账号**
 

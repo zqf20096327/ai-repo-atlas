@@ -1,6 +1,6 @@
 # Josia-doit/ComfyUI_JosiaNodes
 
-⭐ 50 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Josia-doit/ComfyUI_JosiaNodes) · 个人维护 · 中文 README
+⭐ 51 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Josia-doit/ComfyUI_JosiaNodes) · 个人维护 · 中文 README
 
 **ComfyUI 实用节点集：文本编码、多图加载、图像缩放等 18 个节点**
 

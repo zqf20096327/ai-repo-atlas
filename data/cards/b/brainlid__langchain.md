@@ -1,6 +1,6 @@
 # brainlid/langchain
 
-⭐ 1,216 · Elixir · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/brainlid/langchain) · [官网](https://hexdocs.pm/langchain/) · 个人维护
+⭐ 1,215 · Elixir · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/brainlid/langchain) · [官网](https://hexdocs.pm/langchain/) · 个人维护
 
 **Elixir 的 LangChain 式 LLM 应用开发框架，接入多家模型服务**
 

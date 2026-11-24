@@ -1,6 +1,6 @@
 # dsphper/lanhu-mcp
 
-⭐ 2,586 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dsphper/lanhu-mcp) · 个人维护 · 中文 README
+⭐ 2,589 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dsphper/lanhu-mcp) · 个人维护 · 中文 README
 
 **让 AI 编程工具读取蓝湖需求与设计稿的 MCP 服务器**
 

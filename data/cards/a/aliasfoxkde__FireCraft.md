@@ -1,6 +1,6 @@
 # aliasfoxkde/FireCraft
 
-⭐ 29 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/aliasfoxkde/FireCraft) · [官网](https://artcraft-webos.pages.dev/) · 个人维护
+⭐ 29 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aliasfoxkde/FireCraft) · [官网](https://artcraft-webos.pages.dev/) · 个人维护
 
 **Rust 编写的开源矢量+位图混合图形编辑器，复刻 Fireworks 工作流**
 

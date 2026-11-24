@@ -1,6 +1,6 @@
 # dreamference/ragon
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/dreamference/ragon) · 组织维护
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dreamference/ragon) · 组织维护
 
 **在 DGX Spark/GB10 机器上全本地运行 AI 编码代理与聊天桌面应用**
 

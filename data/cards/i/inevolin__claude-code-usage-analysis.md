@@ -1,6 +1,6 @@
 # inevolin/claude-code-usage-analysis
 
-⭐ 158 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/inevolin/claude-code-usage-analysis) · [官网](https://nevolin.be) · 个人维护
+⭐ 162 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/inevolin/claude-code-usage-analysis) · [官网](https://nevolin.be) · 个人维护
 
 **Claude Code token 用量的实证研究：缓存过期与压缩时机分析**
 

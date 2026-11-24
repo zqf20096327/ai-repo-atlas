@@ -1,10 +1,10 @@
 # datawhalechina/diy-llm
 
-⭐ 3,047 · Jupyter Notebook · 推送 2026-11-20 · [GitHub](https://github.com/datawhalechina/diy-llm) · [官网](https://datawhalechina.github.io/diy-llm/) · 组织维护 · 中文 README
+⭐ 3,058 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/datawhalechina/diy-llm) · [官网](https://datawhalechina.github.io/diy-llm/) · 组织维护 · 中文 README
 
-**中文学习者从零掌握 LLM 全栈构建的教程与代码作业**
+**中文学习者从零构建 LLM 的全栈教程与 6 项代码作业**
 
-基于 Stanford CS336 课程重组的中文开源教程，含 16 章正文与 6 个渐进式代码作业，覆盖分词器、Transformer 架构、MoE、GPU 编程、分布式训练、Scaling Laws、推理、数据工程、对齐（SFT/DPO/GRPO）与多模态。作业提供可运行实现，补充 CPU 调试与 MacBook MPS 适配；面向中文学习者补齐数学、PyTorch、GPU 前置知识，并加入 Qwen、DeepSeek 等国产模型案例与 C-EVAL 中文基准。提供在线阅读与 PDF 讲义，采用 CC BY-NC-SA 4.0 许可。
+基于 Stanford CS336 的社区中文学习项目，提供 16 章讲义与 6 个渐进式代码作业，覆盖分词器、Transformer、MoE、GPU 编程、分布式训练、Scaling Laws、推理、数据工程、SFT/RLHF/GRPO 对齐、评估与多模态。按中文学习者习惯重排知识体系，补齐前置知识，加入 Qwen、DeepSeek 等国产模型案例与 C-EVAL 评测，作业提供可运行实现并适配 CPU/Mac 调试。提供在线阅读、PDF 讲义与作业代码仓库，采用 CC BY-NC-SA 4.0 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 16 章正文 + 6 个配套代码作业，覆盖预训练到对齐全链路
-- 作业含手写 tokenizer、Triton 实现 FlashAttention-2、分布式训练、GRPO 对齐等可运行实现
-- 针对中文学习者重组知识体系，补齐前置知识与国产模型案例
-- 提供可离线阅读的 PDF 讲义与在线文档
+- 16 章中文讲义 + 6 个可运行代码作业，覆盖 LLM 全栈链路
+- 基于 Stanford CS336 2025/2026 版本，补充本土化案例与前置知识
+- 作业覆盖手写 tokenizer、Triton 实现 FlashAttention-2、分布式训练、GRPO 对齐与多维度评测
+- 提供在线文档、离线 PDF 讲义与云算力方案
 
 ## 适用场景
 
 - 系统学习大模型从预训练到对齐的完整工程流程
-- 跟着 6 个作业从零实现 tokenizer、模型训练与评估
-- 在 CPU/Mac 环境先调试再上云 GPU 完成训练作业
+- 跟随作业动手实现 tokenizer、模型架构、分布式训练与对齐训练
+- 在中文语境下阅读含 Qwen/DeepSeek 案例的 LLM 课程讲义
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+ · 领域:AI 教育/LLM 学习课程
 
 ## 证据(README 行号)
 
 > L17:  从分词器、数据与训练，到系统优化、推理、对齐、评估与多模态，把构建 LLM 的整条链路连成一套知识体系。
 > L27: 目前课程包含 **16 章正文 + 6 个配套作业**，由 3 位项目负责人统筹、多位社区贡献者参与，并持续接受勘误与修订（名单见下方「贡献者」）。
-> L94: |作业1：手搓大模型|实现 tokenizer、model architecture、optimizer，训练一个极简语言模型|✅|
+> L27: 目前课程包含 **16 章正文 + 6 个配套作业**，由 3 位项目负责人统筹、多位社区贡献者参与，并持续接受勘误与修订（名单见下方「贡献者」）。
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f93b774da2ba` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `fed5f78bb0ac` · [字段定义](../../DATASET.md)*

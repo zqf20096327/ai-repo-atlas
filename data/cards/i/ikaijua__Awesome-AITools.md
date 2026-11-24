@@ -1,6 +1,6 @@
 # ikaijua/Awesome-AITools
 
-⭐ 6,377 · Python · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/ikaijua/Awesome-AITools) · [官网](https://ikaijua.github.io/Awesome-AITools-Site/) · 个人维护 · 中文 README
+⭐ 6,379 · Python · CC-BY-4.0 · 推送 2026-11-22 · [GitHub](https://github.com/ikaijua/Awesome-AITools) · [官网](https://ikaijua.github.io/Awesome-AITools-Site/) · 个人维护 · 中文 README
 
 **收录各类 AI 工具的 awesome 清单，社区共同推荐维护**
 

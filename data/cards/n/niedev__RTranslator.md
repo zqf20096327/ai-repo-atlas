@@ -1,6 +1,6 @@
 # niedev/RTranslator
 
-⭐ 10,708 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/niedev/RTranslator) · 个人维护
+⭐ 10,712 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/niedev/RTranslator) · 个人维护
 
 **安卓离线实时翻译应用：本地运行语音识别与翻译模型**
 

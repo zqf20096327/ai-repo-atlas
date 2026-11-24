@@ -1,6 +1,6 @@
 # nlpodyssey/openai-agents-go
 
-⭐ 279 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/nlpodyssey/openai-agents-go) · 组织维护
+⭐ 279 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nlpodyssey/openai-agents-go) · 组织维护
 
 **给 Go 开发者的多 Agent 工作流框架（OpenAI Agents SDK 移植）**
 

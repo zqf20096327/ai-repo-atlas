@@ -1,6 +1,6 @@
 # elie222/botdirectory.ai
 
-⭐ 335 · Astro · MIT · 推送 2026-11-21 · [GitHub](https://github.com/elie222/botdirectory.ai) · [官网](https://botdirectory.ai) · 组织维护
+⭐ 336 · Astro · MIT · 推送 2026-11-21 · [GitHub](https://github.com/elie222/botdirectory.ai) · [官网](https://botdirectory.ai) · 组织维护
 
 **社区维护的 agent 机器人提示词目录网站**
 

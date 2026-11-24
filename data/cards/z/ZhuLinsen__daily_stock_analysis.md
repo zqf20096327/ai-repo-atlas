@@ -1,10 +1,10 @@
 # ZhuLinsen/daily_stock_analysis
 
-⭐ 73,708 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [官网](https://dsa.zhulinsen.tech) · 个人维护 · 中文 README
+⭐ 74,008 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ZhuLinsen/daily_stock_analysis) · [官网](https://dsa.zhulinsen.tech) · 个人维护 · 中文 README
 
-**LLM 驱动的多市场自选股每日分析与推送系统**
+**面向自选股投资者的多市场 LLM 每日分析推送系统**
 
-面向 A股/港股/美股/日股/韩股/台股的自选股智能分析系统：聚合行情、K 线、技术指标、新闻与公告，调用大模型生成含结论、评分、买卖点位与风险警报的决策报告，并通过企业微信/飞书/Telegram/Discord/Slack/邮件推送。支持 GitHub Actions 零成本定时运行、本地/Docker 部署、Web 工作台、Agent 策略问股，以及作为 Codex/Claude Code 插件调用已部署实例。默认内置 AkShare 等免费行情源，稳定性受上游影响。
+基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股分析系统：聚合行情、K 线、技术指标、新闻与公告数据，生成含结论、评分、买卖点位与风险警报的决策报告，并推送到企业微信/飞书/Telegram/Discord/Slack/邮箱。默认使用 AkShare、Baostock、YFinance 等免费行情源可零配置运行，可通过 GitHub Actions 在工作日定时执行而无需服务器；另提供 Web 工作台、Agent 策略问股，以及作为 Codex/Claude Code 插件的技能入口。README 声明仅供学习研究，不构成投资建议。
 
 ## 筛选速览
 
@@ -26,16 +26,16 @@
 
 ## 能力要点
 
-- 生成含核心结论、评分、买卖点位、风险警报的 AI 决策报告
-- GitHub Actions 定时运行，无需服务器
-- 15 种内置策略的多轮 Agent 问股，覆盖 Web/Bot/API
-- 提供 agent-agnostic 插件入口（Codex/Claude Code marketplace）
+- 多市场行情聚合，默认内置免费数据源可零配置运行
+- GitHub Actions 定时分析推送，无需服务器
+- Agent 策略问股支持 15 种内置策略与多轮追问
+- 提供 Codex / Claude Code 插件入口与只读 MCP 服务
 
 ## 适用场景
 
-- 每个工作日自动分析自选股并推送到企业微信/飞书
-- 在 Web 工作台手动分析个股并做多轮策略追问
-- 以 Claude Code/Codex 插件形式调用已部署的分析服务
+- 每个交易日自动分析自选股并推送决策仪表盘到工作群
+- 在 Web 工作台用自然语言按缠论、均线等策略追问个股
+- 用免费行情源零成本搭建个人股票分析定时任务
 
 ## 场景标签
 
@@ -45,7 +45,7 @@
 
 > L18: > 🤖 基于 AI 大模型的 A股/港股/美股/日股/韩股/台股自选股智能分析系统，每日自动分析并推送「决策仪表盘」到企业微信/飞书/Telegram/Discord/Slack/邮箱
 > L42: |AI 决策报告|核心结论、评分、趋势、买卖点位、风险警报、催化因素、操作检查清单|
-> L45: |Agent 策略问股|多轮追问，支持均线、缠论、波浪、趋势、热点、事件、成长、预期等 15 种内置策略，覆盖 Web/Bot/API|
+> L55: |AI 模型|Modelflare、x6.ai、AIHubMix、Gemini、OpenAI 兼容、DeepSeek、通义千问、Claude、Ollama 本地模型等|
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `371a2df2254d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `205cfb7d612d` · [字段定义](../../DATASET.md)*

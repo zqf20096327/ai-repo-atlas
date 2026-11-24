@@ -1,6 +1,6 @@
 # lidge-ai/ima2-gen
 
-⭐ 905 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lidge-ai/ima2-gen) · [官网](https://lidge-ai.github.io/ima2-gen/) · 组织维护 · 中文 README
+⭐ 905 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lidge-ai/ima2-gen) · [官网](https://lidge-ai.github.io/ima2-gen/) · 组织维护 · 中文 README
 
 **给个人与编程 agent 的本地图像/视频生成工作室与运行时**
 

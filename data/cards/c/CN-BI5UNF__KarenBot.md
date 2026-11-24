@@ -1,6 +1,6 @@
 # CN-BI5UNF/KarenBot
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/CN-BI5UNF/KarenBot) · 个人维护 · 中文 README
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/CN-BI5UNF/KarenBot) · 个人维护 · 中文 README
 
 **人格聊天智能体框架：WebUI + QQ 接入 + 多 LLM Provider**
 

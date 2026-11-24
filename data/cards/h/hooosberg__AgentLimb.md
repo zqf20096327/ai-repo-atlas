@@ -1,6 +1,6 @@
 # hooosberg/AgentLimb
 
-⭐ 83 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/hooosberg/AgentLimb) · [官网](https://hooosberg.com/apps/agentlimb/) · 个人维护 · 中文 README
+⭐ 86 · JavaScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/hooosberg/AgentLimb) · [官网](https://hooosberg.com/apps/agentlimb/) · 个人维护 · 中文 README
 
 **让任意 MCP AI agent 操控本机 Chrome 的浏览器控制扩展**
 

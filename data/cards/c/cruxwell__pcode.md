@@ -1,6 +1,6 @@
 # cruxwell/pcode
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cruxwell/pcode) · [官网](https://cruxwell.github.io/pcode/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **终端原生 AI 编码代理：后台任务、并行 worktree、可分叉会话**
 
@@ -11,7 +11,7 @@ pcode 是运行在终端中的编码代理，用户通过对话驱动其编辑�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

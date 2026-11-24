@@ -1,6 +1,6 @@
 # v0lka/c0wrk
 
-⭐ 39 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/v0lka/c0wrk) · 组织维护
+⭐ 40 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/v0lka/c0wrk) · 组织维护
 
 **桌面端研究与编码 AI agent：多步任务的计划-实现-审查闭环**
 

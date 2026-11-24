@@ -1,6 +1,6 @@
 # EVEngine/EVEngine
 
-⭐ 65 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/EVEngine/EVEngine) · [官网](https://evengine.github.io/) · 组织维护 · 中文 README
+⭐ 66 · C++ · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/EVEngine/EVEngine) · [官网](https://evengine.github.io/) · 组织维护 · 中文 README
 
 **轻量脚本驱动游戏引擎，支持 AI（MCP）辅助开发与热重载**
 

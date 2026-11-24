@@ -1,16 +1,16 @@
 # wiltodelta/remove-ai-watermarks
 
-⭐ 6,483 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wiltodelta/remove-ai-watermarks) · [官网](https://raiw.cc) · 个人维护 · 中文 README
+⭐ 6,490 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wiltodelta/remove-ai-watermarks) · [官网](https://raiw.cc) · 个人维护
 
-**清除图像/音视频 AI 水印与溯源元数据的 Python 库和 CLI**
+**为自有 AI 生成内容清除可见/隐形水印与来源元数据的工具**
 
-面向自生成内容的 AI 溯源标记处理工具，覆盖四类对象：可见 AI 标记（Gemini sparkle、Sora、Veo、Seedance、豆包、海螺、可灵等）、不可见像素水印（局部破坏或扩散重生成）、兼容的公开音频水印（AudioSeal/WavMark/Perth 等，带源解码与输出校验）、C2PA/EXIF/XMP/IPTC 等 AI 元数据。以 Python 库、CLI 与 agent skill 三种形式提供，功能按 extras 组合安装；不可见水印去除需 CUDA，文本水印重写可走本地 Transformers 或 Ollama。声明仅限自有内容 lawful 使用，并提示部分地区限制去除 AI 标签。
+面向自有生成内容的 AI 溯源标记处理工具，以 Python 库、CLI 和 agent skill 三种形态分发。功能覆盖识别溯源信号、移除已注册的可见水印（图像支持 Gemini sparkle 等，视频覆盖 23 种标记）、剥离 C2PA/EXIF/XMP/IPTC 元数据、处理兼容的公开音频水印；隐形水印移除依赖扩散重建，需 CUDA。文本水印支持本地 Transformers 重写器及可选 Ollama 后端。声明仅限自有内容合法使用，不针对第三方付费内容水印。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 图像、视频、音频、文本四类 AI 水印与 C2PA/EXIF/XMP 元数据清除
-- 从像素做 10 提供商来源分类的 opt-in 分类器（CPU 可运行，会弃权）
-- 按功能拆分的 PyPI extras 安装体系（visible/video/audio/text/source-classify 等）
-- agent skill 可装入 Claude Code、Codex、Cursor 等工具
+- 图像/视频/音频/文本四类媒体的 AI 水印与元数据处理
+- 视频识别 23 种可见 AI 标记并支持选择性 GOP 流拷贝
+- 元数据剥离（C2PA/EXIF/XMP/IPTC 及 TC260 AIGC 标签）无需 GPU
+- 同时提供 Python 库、CLI 与 agent skill 安装方式
 
 ## 适用场景
 
-- 清除自己生成的图片中的 Gemini 可见水印与元数据
-- 批量处理视频目录，去除可见标记并剥离 AIGC 元数据
-- 检查音频中是否存在兼容的公开水印并验证输出文件
+- 清理自己生成的图片上的 Gemini 可见水印
+- 批量去除视频中的 AI 元数据和厂商标记
+- 检测图像中残留的 AI 溯源信号
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L53: |Strip AI metadata|`metadata`|No|
-> L71: |Regenerate an image to disrupt invisible watermarks|`invisible`|Required (CUDA)|
-> L83: locally served Ollama model. Review generated prose for factual fidelity.
+> L3: Remove AI provenance marks from images, video, and audio you generated yourself:
+> L16: npx skills add wiltodelta/remove-ai-watermarks    # agent skill for Claude Code, Codex, Cursor, and other agents
+> L40: > This is a research project on AI provenance signals, for lawful use on content
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `f8ec60419234` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `70ab9ceeaa75` · [字段定义](../../DATASET.md)*

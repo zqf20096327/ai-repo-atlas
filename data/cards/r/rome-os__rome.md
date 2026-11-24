@@ -1,6 +1,6 @@
 # rome-os/rome
 
-⭐ 925 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rome-os/rome) · [官网](https://romeos.cc) · 组织维护
+⭐ 932 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rome-os/rome) · [官网](https://romeos.cc) · 组织维护
 
 **自托管的个人 AI agent 操作系统，让 agent 持久执行任务并自建应用**
 

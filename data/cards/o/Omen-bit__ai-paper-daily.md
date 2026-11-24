@@ -1,6 +1,6 @@
 # Omen-bit/ai-paper-daily
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Omen-bit/ai-paper-daily) · [官网](https://omen-bit.github.io/ai-paper-daily/) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Omen-bit/ai-paper-daily) · [官网](https://omen-bit.github.io/ai-paper-daily/) · 个人维护
 
 **每日精选并解读 AI 论文，支持语义搜索与项目找论文**
 

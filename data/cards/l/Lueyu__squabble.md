@@ -1,6 +1,6 @@
 # Lueyu/squabble
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Lueyu/squabble) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Lueyu/squabble) · 个人维护 · 中文 README
 
 **给个人投资者的开源投研工作台：AI 多代理辩论研究+模拟交易**
 

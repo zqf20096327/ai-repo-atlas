@@ -1,6 +1,6 @@
 # alexei-led/spotinfo
 
-⭐ 165 · Go · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/alexei-led/spotinfo) · 个人维护
+⭐ 165 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/alexei-led/spotinfo) · 个人维护
 
 **跨 AWS/GCP/Azure 的 Spot 实例比价 CLI，内嵌价格快照可离线**
 

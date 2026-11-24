@@ -1,6 +1,6 @@
 # mozilla/translations
 
-⭐ 381 · C++ · MPL-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mozilla/translations) · [官网](https://mozilla.github.io/translations/) · 组织维护
+⭐ 382 · C++ · MPL-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mozilla/translations) · [官网](https://mozilla.github.io/translations/) · 组织维护
 
 **Firefox 网页翻译模型的训练管线与推理引擎代码**
 

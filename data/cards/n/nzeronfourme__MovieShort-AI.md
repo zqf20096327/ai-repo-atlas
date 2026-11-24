@@ -1,6 +1,6 @@
 # nzeronfourme/MovieShort-AI
 
-⭐ 19 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/nzeronfourme/MovieShort-AI) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/nzeronfourme/MovieShort-AI) · 个人维护 · 中文 README
 
 **自动将整片电影剪成 YouTube Shorts 竖屏短视频的桌面工具**
 

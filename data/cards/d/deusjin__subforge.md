@@ -1,6 +1,6 @@
 # deusjin/subforge
 
-⭐ 103 · Rust · MIT · 推送 2026-09-02 · [GitHub](https://github.com/deusjin/subforge) · [官网](https://github.com/deusjin/subforge#readme) · 个人维护 · 中文 README
+⭐ 102 · Rust · MIT · 推送 2026-09-02 · [GitHub](https://github.com/deusjin/subforge) · [官网](https://github.com/deusjin/subforge#readme) · 个人维护 · 中文 README
 
 **Rust CLI：把视频字幕转写、翻译、质检与压制整合为可复现管线**
 

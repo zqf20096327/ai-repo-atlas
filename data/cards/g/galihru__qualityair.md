@@ -1,6 +1,6 @@
 # galihru/qualityair
 
-⭐ 12 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/galihru/qualityair) · [官网](https://galihru.github.io/qualityair/) · 个人维护
+⭐ 12 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/galihru/qualityair) · [官网](https://galihru.github.io/qualityair/) · 个人维护
 
 **ESP32+MQ-7 一氧化碳实时监测系统，数据推送 GitHub**
 

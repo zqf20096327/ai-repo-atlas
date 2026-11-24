@@ -1,6 +1,6 @@
 # AdaUchendu/AwesomeTDA4NLP
 
-⭐ 38 · Jupyter Notebook · MIT · 推送 2026-06-25 · [GitHub](https://github.com/AdaUchendu/AwesomeTDA4NLP) · 个人维护
+⭐ 39 · Jupyter Notebook · MIT · 推送 2026-06-25 · [GitHub](https://github.com/AdaUchendu/AwesomeTDA4NLP) · 个人维护
 
 **TDA 在 NLP 应用的论文综述清单（137 篇）**
 

@@ -1,6 +1,6 @@
 # nextlevelbuilder/goclaw
 
-⭐ 3,723 · Go · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/nextlevelbuilder/goclaw) · [官网](https://goclaw.sh) · 个人维护 · 中文 README
+⭐ 3,722 · Go · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/nextlevelbuilder/goclaw) · [官网](https://goclaw.sh) · 个人维护 · 中文 README
 
 **Go 编写的多租户多 Agent AI 网关平台**
 

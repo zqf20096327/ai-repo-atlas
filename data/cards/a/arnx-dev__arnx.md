@@ -1,6 +1,6 @@
 # arnx-dev/arnx
 
-⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/arnx-dev/arnx) · [官网](https://arnx.dev) · 组织维护
+⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/arnx-dev/arnx) · [官网](https://arnx.dev) · 组织维护
 
 **为编码 agent 的改动生成失败测试并给出可执行证据的工具**
 

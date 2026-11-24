@@ -1,6 +1,6 @@
 # SerendipityOneInc/ZooData-Skills
 
-⭐ 81 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/SerendipityOneInc/ZooData-Skills) · [官网](https://zoodata.ai/) · 组织维护 · 中文 README
+⭐ 81 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SerendipityOneInc/ZooData-Skills) · [官网](https://zoodata.ai/) · 组织维护 · 中文 README
 
 **面向 AI agent 的亚马逊电商数据技能集：10 个技能接入商业数据 API**
 

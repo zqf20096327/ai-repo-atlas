@@ -1,6 +1,6 @@
 # Stonewuu/agenteam
 
-⭐ 63 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Stonewuu/agenteam) · 个人维护 · 中文 README
+⭐ 63 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Stonewuu/agenteam) · 个人维护 · 中文 README
 
 **开源企业级多智能体协作平台，组建数字员工团队**
 

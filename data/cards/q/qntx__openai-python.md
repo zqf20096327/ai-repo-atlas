@@ -1,6 +1,6 @@
 # qntx/openai-python
 
-⭐ 262 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/qntx/openai-python) · [官网](https://pypi.org/project/x402-openai/) · 个人维护
+⭐ 262 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/qntx/openai-python) · [官网](https://pypi.org/project/x402-openai/) · 个人维护
 
 **带 x402 透明支付支持的 OpenAI Python 客户端替换库**
 

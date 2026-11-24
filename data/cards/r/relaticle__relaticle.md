@@ -1,6 +1,6 @@
 # relaticle/relaticle
 
-⭐ 1,920 · PHP · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/relaticle/relaticle) · [官网](https://relaticle.com) · 组织维护
+⭐ 1,922 · PHP · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/relaticle/relaticle) · [官网](https://relaticle.com) · 组织维护
 
 **面向无销售团队卖家的自托管 AI CRM**
 

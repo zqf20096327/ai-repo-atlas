@@ -1,6 +1,6 @@
 # openlayer-ai/jevals
 
-⭐ 122 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/openlayer-ai/jevals) · [官网](https://github.com/openlayer-ai/jevals) · 组织维护
+⭐ 122 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/openlayer-ai/jevals) · [官网](https://github.com/openlayer-ai/jevals) · 组织维护
 
 **面向 agent 轨迹的评测与护栏库，单请求低成本运行**
 

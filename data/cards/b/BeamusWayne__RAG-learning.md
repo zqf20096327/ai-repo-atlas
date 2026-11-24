@@ -1,6 +1,6 @@
 # BeamusWayne/RAG-learning
 
-⭐ 49 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/BeamusWayne/RAG-learning) · 个人维护 · 中文 README
+⭐ 50 · Python · MIT · 推送 2026-06-10 · [GitHub](https://github.com/BeamusWayne/RAG-learning) · 个人维护 · 中文 README
 
 **RAG 从入门到生产的学习与实践教程仓库**
 

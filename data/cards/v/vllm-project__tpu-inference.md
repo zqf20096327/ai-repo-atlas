@@ -1,6 +1,6 @@
 # vllm-project/tpu-inference
 
-⭐ 481 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vllm-project/tpu-inference) · [官网](https://docs.vllm.ai/projects/tpu) · 组织维护
+⭐ 481 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/tpu-inference) · [官网](https://docs.vllm.ai/projects/tpu) · 组织维护
 
 **在 Google TPU 上以 vLLM 服务 JAX/PyTorch 模型的统一后端**
 

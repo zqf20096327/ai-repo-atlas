@@ -1,6 +1,6 @@
 # louvain-ai/louvain-engine
 
-⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/louvain-ai/louvain-engine) · [官网](https://louvain.ai/engine) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/louvain-ai/louvain-engine) · [官网](https://louvain.ai/engine) · 组织维护
 
 **为企业 agent/RAG 提供带权限校验的混合检索引擎**
 

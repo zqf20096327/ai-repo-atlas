@@ -1,6 +1,6 @@
 # Dicklesworthstone/model_guided_research
 
-⭐ 120 · Python · NOASSERTION · 推送 2026-11-01 · [GitHub](https://github.com/Dicklesworthstone/model_guided_research) · 个人维护
+⭐ 120 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Dicklesworthstone/model_guided_research) · 个人维护
 
 **13 种 exotic 数学框架在深度学习中的系统性研究与双实现**
 

@@ -1,6 +1,6 @@
 # xiweicheng/ai-helper
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/xiweicheng/ai-helper) · [官网](https://xiweicheng.github.io/ai-helper/) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xiweicheng/ai-helper) · [官网](https://xiweicheng.github.io/ai-helper/) · 个人维护 · 中文 README
 
 **让 LLM 直接操作网页的开源浏览器插件：点击、填表、跑命令**
 

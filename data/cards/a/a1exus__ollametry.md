@@ -1,6 +1,6 @@
 # a1exus/ollametry
 
-⭐ 3 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/a1exus/ollametry) · 个人维护
+⭐ 3 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/a1exus/ollametry) · 个人维护
 
 **为 Ollama 提供 Prometheus/OTel 指标导出的透明代理**
 

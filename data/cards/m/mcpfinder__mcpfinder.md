@@ -1,6 +1,6 @@
 # mcpfinder/mcpfinder
 
-⭐ 16 · JavaScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/mcpfinder/mcpfinder) · [官网](https://mcpfinder.dev) · 组织维护
+⭐ 16 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mcpfinder/mcpfinder) · [官网](https://mcpfinder.dev) · 组织维护
 
 **帮 AI agent 发现、评估并安装其他 MCP server 的 MCP server**
 

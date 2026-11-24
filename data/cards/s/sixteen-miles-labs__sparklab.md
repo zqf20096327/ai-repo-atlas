@@ -1,6 +1,6 @@
 # sixteen-miles-labs/sparklab
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/sixteen-miles-labs/sparklab) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sixteen-miles-labs/sparklab) · 组织维护
 
 **在 NVIDIA DGX Spark 上本地私有运行前沿开源权重模型的推理产品**
 

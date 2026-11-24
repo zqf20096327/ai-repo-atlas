@@ -1,6 +1,6 @@
 # Comfy-Org/comfy-skills
 
-⭐ 265 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Comfy-Org/comfy-skills) · 组织维护
+⭐ 266 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Comfy-Org/comfy-skills) · 组织维护
 
 **让 AI 编码 agent 通过 Comfy Cloud 生成图像/视频/音频/3D 的插件与 MCP 服务器**
 

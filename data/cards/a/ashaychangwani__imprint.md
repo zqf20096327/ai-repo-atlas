@@ -1,6 +1,6 @@
 # ashaychangwani/imprint
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ashaychangwani/imprint) · [官网](https://github.com/ashaychangwani/imprint) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ashaychangwani/imprint) · [官网](https://github.com/ashaychangwani/imprint) · 个人维护
 
 **录制浏览器操作一次，编译成 AI agent 可调用的确定性 MCP 工具**
 

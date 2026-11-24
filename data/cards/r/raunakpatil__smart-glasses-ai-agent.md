@@ -1,6 +1,6 @@
 # raunakpatil/smart-glasses-ai-agent
 
-⭐ 11 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/raunakpatil/smart-glasses-ai-agent) · [官网](https://raunakpatil.com/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/raunakpatil/smart-glasses-ai-agent) · [官网](https://raunakpatil.com/) · 个人维护
 
 **Ray-Ban Meta 眼镜的开源语音 AI agent，控制电视与笔记本**
 

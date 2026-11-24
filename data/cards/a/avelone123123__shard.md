@@ -1,6 +1,6 @@
 # avelone123123/shard
 
-⭐ 7 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/avelone123123/shard) · [官网](https://avelone123123.github.io/shard/) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/avelone123123/shard) · [官网](https://avelone123123.github.io/shard/) · 个人维护
 
 **跨机器聚合显存/内存的分布式本地 LLM 推理引擎**
 

@@ -1,6 +1,6 @@
 # whshang/herdr-mcp
 
-⭐ 11 · Rust · 推送 2026-11-21 · [GitHub](https://github.com/whshang/herdr-mcp) · [官网](https://whshang.github.io/herdr-mcp/) · 个人维护 · 中文 README
+⭐ 11 · Rust · 推送 2026-11-23 · [GitHub](https://github.com/whshang/herdr-mcp) · [官网](https://whshang.github.io/herdr-mcp/) · 个人维护 · 中文 README
 
 **让网页 AI 通过 Connector 读写本地文件并调度 Coding Agent**
 

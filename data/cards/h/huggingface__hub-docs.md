@@ -1,6 +1,6 @@
 # huggingface/hub-docs
 
-⭐ 623 · Handlebars · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/huggingface/hub-docs) · [官网](http://hf.co/docs/hub) · 组织维护
+⭐ 623 · Handlebars · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/hub-docs) · [官网](http://hf.co/docs/hub) · 组织维护
 
 **Hugging Face Hub 官方文档仓库，供社区协作编写**
 

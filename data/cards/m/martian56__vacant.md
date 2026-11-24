@@ -1,6 +1,6 @@
 # martian56/vacant
 
-⭐ 12 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/martian56/vacant) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-06-19 · [GitHub](https://github.com/martian56/vacant) · 个人维护
 
 **自托管 AI 域名查找器：只显示可注册域名**
 

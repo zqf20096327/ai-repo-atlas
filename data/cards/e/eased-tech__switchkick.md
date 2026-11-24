@@ -1,6 +1,6 @@
 # eased-tech/switchkick
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/eased-tech/switchkick) · 组织维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/eased-tech/switchkick) · 组织维护
 
 **给 coding agents 用的本地代理：经 OpenRouter 逐轮路由模型**
 

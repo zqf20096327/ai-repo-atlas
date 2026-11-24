@@ -1,6 +1,6 @@
 # hamoyy/AiCast
 
-⭐ 60 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hamoyy/AiCast) · [官网](https://aicast.lvchen.fun) · 个人维护 · 中文 README
+⭐ 61 · Kotlin · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/hamoyy/AiCast) · [官网](https://aicast.lvchen.fun) · 个人维护 · 中文 README
 
 **把闲置安卓设备变成 AI agent 的局域网投送屏**
 

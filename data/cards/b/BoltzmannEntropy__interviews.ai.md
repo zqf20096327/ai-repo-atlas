@@ -1,6 +1,6 @@
 # BoltzmannEntropy/interviews.ai
 
-⭐ 4,900 · 推送 2026-11-21 · [GitHub](https://github.com/BoltzmannEntropy/interviews.ai) · [官网](https://interviews.ai) · 个人维护
+⭐ 4,899 · 推送 2026-11-21 · [GitHub](https://github.com/BoltzmannEntropy/interviews.ai) · [官网](https://interviews.ai) · 个人维护
 
 **为深度学习求职者与研究生提供带完整解答的面试题集**
 

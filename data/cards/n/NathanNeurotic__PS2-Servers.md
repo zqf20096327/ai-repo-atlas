@@ -1,6 +1,6 @@
 # NathanNeurotic/PS2-Servers
 
-⭐ 41 · Python · AFL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/NathanNeurotic/PS2-Servers) · [官网](https://nathanneurotic.github.io/PS2-Servers/) · 个人维护
+⭐ 41 · Python · AFL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/NathanNeurotic/PS2-Servers) · [官网](https://nathanneurotic.github.io/PS2-Servers/) · 个人维护
 
 **为 PS2 自制软件提供 SMB/HTTP/UDPBD/UDPFS 局域网游戏服务器**
 

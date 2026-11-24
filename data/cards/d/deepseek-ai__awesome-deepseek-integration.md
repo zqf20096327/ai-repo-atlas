@@ -1,6 +1,6 @@
 # deepseek-ai/awesome-deepseek-integration
 
-⭐ 40,000 · CC0-1.0 · 推送 2026-11-13 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-integration) · 组织维护 · 中文 README
+⭐ 40,007 · CC0-1.0 · 推送 2026-11-13 · [GitHub](https://github.com/deepseek-ai/awesome-deepseek-integration) · 组织维护 · 中文 README
 
 **将 DeepSeek API 接入常用软件的项目清单**
 

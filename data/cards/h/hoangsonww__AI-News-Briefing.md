@@ -1,6 +1,6 @@
 # hoangsonww/AI-News-Briefing
 
-⭐ 45 · Shell · MIT · 推送 2026-10-18 · [GitHub](https://github.com/hoangsonww/AI-News-Briefing) · [官网](https://hoangsonww.github.io/AI-News-Briefing/) · 个人维护
+⭐ 45 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hoangsonww/AI-News-Briefing) · [官网](https://hoangsonww.github.io/AI-News-Briefing/) · 个人维护
 
 **每日自动搜集 AI 新闻并生成简报投递到 Notion/Slack 的流水线**
 

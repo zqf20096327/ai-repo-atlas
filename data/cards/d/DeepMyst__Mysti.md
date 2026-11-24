@@ -1,6 +1,6 @@
 # DeepMyst/Mysti
 
-⭐ 1,159 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/DeepMyst/Mysti) · [官网](https://www.deepmyst.com) · 组织维护
+⭐ 1,160 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/DeepMyst/Mysti) · [官网](https://www.deepmyst.com) · 组织维护
 
 **VS Code 多编码 agent 协作扩展：多 agent 讨论、交接与综合**
 

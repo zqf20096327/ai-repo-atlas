@@ -1,6 +1,6 @@
 # lancedb/lancedb-c
 
-⭐ 15 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lancedb/lancedb-c) · 组织维护
+⭐ 15 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lancedb/lancedb-c) · 组织维护
 
 **LanceDB 的 C/C++ FFI 绑定，供 C 系应用使用向量数据库**
 

@@ -1,6 +1,6 @@
 # genieincodebottle/aiml-companion
 
-⭐ 76 · Jupyter Notebook · 推送 2026-11-16 · [GitHub](https://github.com/genieincodebottle/aiml-companion) · [官网](https://aimlcompanion.ai) · 个人维护
+⭐ 76 · Jupyter Notebook · 推送 2026-11-24 · [GitHub](https://github.com/genieincodebottle/aiml-companion) · [官网](https://aimlcompanion.ai) · 个人维护
 
 **AI/ML 交互式学习平台及 24 个端到端配套项目仓库**
 

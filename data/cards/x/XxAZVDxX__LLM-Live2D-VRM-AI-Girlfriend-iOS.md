@@ -1,6 +1,6 @@
 # XxAZVDxX/LLM-Live2D-VRM-AI-Girlfriend-iOS
 
-⭐ 10 · 推送 2026-11-15 · [GitHub](https://github.com/XxAZVDxX/LLM-Live2D-VRM-AI-Girlfriend-iOS) · [官网](https://youtu.be/waKwxTZiP9w) · 个人维护 · 中文 README
+⭐ 10 · C++ · 推送 2026-11-23 · [GitHub](https://github.com/XxAZVDxX/LLM-Live2D-VRM-AI-Girlfriend-iOS) · [官网](https://youtu.be/waKwxTZiP9w) · 个人维护 · 中文 README
 
 **iPhone 上的 Live2D/VRM AI 伴侣应用：对话、语音、桌面小组件**
 

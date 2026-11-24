@@ -1,6 +1,6 @@
 # YanNyeinHtet/EggLab
 
-⭐ 79 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YanNyeinHtet/EggLab) · [官网](https://github.com/YanNyeinHtet/EggLab/releases/latest) · 个人维护
+⭐ 83 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/YanNyeinHtet/EggLab) · [官网](https://github.com/YanNyeinHtet/EggLab/releases/latest) · 个人维护
 
 **Windows 本地 AI 图像生成编辑客户端：驱动 PhotoCraft 画布的设计代理**
 

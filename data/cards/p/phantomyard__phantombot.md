@@ -1,6 +1,6 @@
 # phantomyard/phantombot
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/phantomyard/phantombot) · [官网](https://phantombot.bot/) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/phantomyard/phantombot) · [官网](https://phantombot.bot/) · 组织维护
 
 **给终端/聊天/编辑器提供持久化本地 AI 人格的代理运行时**
 

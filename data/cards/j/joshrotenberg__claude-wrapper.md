@@ -1,6 +1,6 @@
 # joshrotenberg/claude-wrapper
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/joshrotenberg/claude-wrapper) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/joshrotenberg/claude-wrapper) · 个人维护
 
 **面向 Rust 开发者的 Claude Code CLI 类型安全封装库**
 

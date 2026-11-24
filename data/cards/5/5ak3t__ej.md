@@ -1,6 +1,6 @@
 # 5ak3t/ej
 
-⭐ 5 · Python · GPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/5ak3t/ej) · [官网](https://huggingface.co/5ak3t/ej) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给开发者的 11 MB CPU 小模型：文本分类决策并输出校准概率**
 
@@ -11,7 +11,7 @@ ej 是一个 CPU 推理的分类决策模型与配套 Python 包：输入自由�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | `cpu-ok` | |

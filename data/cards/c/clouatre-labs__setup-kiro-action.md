@@ -1,6 +1,6 @@
 # clouatre-labs/setup-kiro-action
 
-⭐ 17 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/clouatre-labs/setup-kiro-action) · [官网](https://github.com/clouatre-labs/setup-kiro-action) · 个人维护
+⭐ 17 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/clouatre-labs/setup-kiro-action) · [官网](https://github.com/clouatre-labs/setup-kiro-action) · 个人维护
 
 **在 CI/CD 中安装并缓存 Kiro CLI 的 GitHub Action**
 

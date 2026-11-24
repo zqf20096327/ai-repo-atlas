@@ -1,6 +1,6 @@
 # sileod/reasoning-core
 
-⭐ 54 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sileod/reasoning-core) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sileod/reasoning-core) · 个人维护
 
 **程序化生成可验证推理数据的 Python 库：面向预训练/后训练/评测/RL**
 

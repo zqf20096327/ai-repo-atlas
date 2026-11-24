@@ -1,6 +1,6 @@
 # trustgraph-ai/trustgraph
 
-⭐ 3,218 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/trustgraph-ai/trustgraph) · [官网](https://TrustGraph.ai) · 组织维护
+⭐ 3,256 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/trustgraph-ai/trustgraph) · [官网](https://TrustGraph.ai) · 组织维护
 
 **面向 AI agent 的开源本体运行时与知识治理平台**
 

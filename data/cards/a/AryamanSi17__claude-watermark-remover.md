@@ -1,6 +1,6 @@
 # AryamanSi17/claude-watermark-remover
 
-⭐ 10 · Python · MIT · 推送 2026-08-17 · [GitHub](https://github.com/AryamanSi17/claude-watermark-remover) · [官网](https://aryamansi17.github.io/claude-watermark-remover/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AryamanSi17/claude-watermark-remover) · [官网](https://aryamansi17.github.io/claude-watermark-remover/) · 个人维护
 
 **清除文本与文件中 AI 出处标记的 Python CLI 工具**
 

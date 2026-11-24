@@ -1,6 +1,6 @@
 # ilramdhan/start-from-here
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ilramdhan/start-from-here) · [官网](https://ilramdhan.github.io/start-from-here/) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ilramdhan/start-from-here) · [官网](https://ilramdhan.github.io/start-from-here/) · 个人维护
 
 **面向 AI 编码代理的访谈式项目蓝图生成技能**
 

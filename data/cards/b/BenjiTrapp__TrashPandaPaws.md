@@ -1,6 +1,6 @@
 # BenjiTrapp/TrashPandaPaws
 
-⭐ 20 · Python · 推送 2026-11-22 · [GitHub](https://github.com/BenjiTrapp/TrashPandaPaws) · [官网](https://benjitrapp.github.io/trashpandapaws-network-implant/) · 个人维护
+⭐ 20 · Python · 推送 2026-11-23 · [GitHub](https://github.com/BenjiTrapp/TrashPandaPaws) · [官网](https://benjitrapp.github.io/trashpandapaws-network-implant/) · 个人维护
 
 **红队硬件植入体：RPi4/CM4 内联网线窃听与 C2 回联设备**
 

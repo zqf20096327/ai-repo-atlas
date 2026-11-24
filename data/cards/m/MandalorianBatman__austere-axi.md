@@ -1,6 +1,6 @@
 # MandalorianBatman/austere-axi
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MandalorianBatman/austere-axi) · [官网](https://mandalorianbatman.github.io/austere-axi/) · 个人维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MandalorianBatman/austere-axi) · [官网](https://mandalorianbatman.github.io/austere-axi/) · 个人维护
 
 **让编码 agent 把评审内容做成可点击页面并逐条接收批注的本地工具**
 

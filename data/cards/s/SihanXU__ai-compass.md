@@ -1,6 +1,6 @@
 # SihanXU/ai-compass
 
-⭐ 6 · Astro · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/SihanXU/ai-compass) · [官网](https://sihanxu.me/ai-compass/) · 个人维护 · 中文 README
+⭐ 7 · Astro · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/SihanXU/ai-compass) · [官网](https://sihanxu.me/ai-compass/) · 个人维护 · 中文 README
 
 **AI 研究立场的政治罗盘：图谱、测试与百科**
 

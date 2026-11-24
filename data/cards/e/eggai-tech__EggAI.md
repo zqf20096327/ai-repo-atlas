@@ -1,6 +1,6 @@
 # eggai-tech/EggAI
 
-⭐ 58 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/eggai-tech/EggAI) · [官网](https://docs.egg-ai.com/) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eggai-tech/EggAI) · [官网](https://docs.egg-ai.com/) · 组织维护
 
 **面向企业的异步优先多智能体元框架与Python SDK**
 

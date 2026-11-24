@@ -1,6 +1,6 @@
 # brass-lang/brass
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/brass-lang/brass) · [官网](https://brass-lang.github.io/brass/) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/brass-lang/brass) · [官网](https://brass-lang.github.io/brass/) · 个人维护
 
 **为 AI 编写、人类审核而设计的编程语言及配套工具**
 

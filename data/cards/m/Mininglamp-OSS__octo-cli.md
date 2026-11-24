@@ -1,6 +1,6 @@
 # Mininglamp-OSS/octo-cli
 
-⭐ 924 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Mininglamp-OSS/octo-cli) · [官网](https://pkg.go.dev/github.com/Mininglamp-OSS/octo-cli) · 组织维护 · 中文 README
+⭐ 924 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Mininglamp-OSS/octo-cli) · [官网](https://pkg.go.dev/github.com/Mininglamp-OSS/octo-cli) · 组织维护 · 中文 README
 
 **供 AI Agent 通过 exec 调用的元数据驱动 REST CLI 客户端**
 

@@ -1,6 +1,6 @@
 # sseshachala/conductai
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sseshachala/conductai) · [官网](https://conductai.ai) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sseshachala/conductai) · [官网](https://conductai.ai) · 组织维护
 
 **AI agent 运行时治理平台：策略拦截每次模型/工具调用**
 

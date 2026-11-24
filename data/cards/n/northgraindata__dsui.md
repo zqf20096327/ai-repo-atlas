@@ -1,6 +1,6 @@
 # northgraindata/dsui
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/northgraindata/dsui) · [官网](https://dsui.northgraindata.com) · 组织维护
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/northgraindata/dsui) · [官网](https://dsui.northgraindata.com) · 组织维护
 
 **自托管的数据栈统一控制平面，内置跨服务 AI 助手**
 

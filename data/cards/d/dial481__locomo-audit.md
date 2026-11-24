@@ -1,6 +1,6 @@
 # dial481/locomo-audit
 
-⭐ 24 · Python · NOASSERTION · 推送 2026-04-02 · [GitHub](https://github.com/dial481/locomo-audit) · [官网](https://github.com/snap-research/locomo/) · 个人维护
+⭐ 24 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/dial481/locomo-audit) · [官网](https://github.com/snap-research/locomo/) · 个人维护
 
 **对 LoCoMo 长上下文基准与 EverMemOS 评测的独立审计报告**
 

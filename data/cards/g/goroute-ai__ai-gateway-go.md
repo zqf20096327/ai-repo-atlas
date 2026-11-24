@@ -1,6 +1,6 @@
 # goroute-ai/ai-gateway-go
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/goroute-ai/ai-gateway-go) · [官网](https://goroute-ai.github.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 AI 应用提供统一 API 接入多家模型服务商的 Go 网关**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

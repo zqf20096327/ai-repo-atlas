@@ -1,6 +1,6 @@
 # liyupi/yupi-skill
 
-⭐ 467 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/liyupi/yupi-skill) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
+⭐ 468 · MIT · 推送 2026-04-09 · [GitHub](https://github.com/liyupi/yupi-skill) · [官网](https://www.codefather.cn) · 个人维护 · 中文 README
 
 **把博主程序员鱼皮蒸馏成 AI 技能包，供编程求职咨询**
 

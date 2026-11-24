@@ -1,6 +1,6 @@
 # vultisig/vultisig-sdk
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vultisig/vultisig-sdk) · [官网](https://vultisig.com) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vultisig/vultisig-sdk) · [官网](https://vultisig.com) · 组织维护
 
 **面向 AI 代理与开发者的自托管 MPC 多链钱包 SDK/CLI**
 

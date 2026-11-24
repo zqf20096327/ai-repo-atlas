@@ -1,6 +1,6 @@
 # pardnchiu/Agenvoy
 
-⭐ 634 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/pardnchiu/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
+⭐ 642 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pardnchiu/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
 
 **本地常驻运行的 AI agent harness，自动构建工具并经 MCP 共享**
 

@@ -1,6 +1,6 @@
 # antgroup/hugescm
 
-⭐ 131 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/antgroup/hugescm) · 组织维护 · 中文 README
+⭐ 131 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/antgroup/hugescm) · 组织维护 · 中文 README
 
 **面向大型仓库与 AI 模型开发的云端版本控制系统**
 

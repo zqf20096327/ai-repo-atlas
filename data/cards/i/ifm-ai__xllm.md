@@ -1,6 +1,6 @@
 # ifm-ai/xllm
 
-⭐ 138 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ifm-ai/xllm) · [官网](https://ifm.ai/) · 组织维护
+⭐ 141 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ifm-ai/xllm) · [官网](https://ifm.ai/) · 组织维护
 
 **长上下文 LLM 预训练框架：分布式训练与数据处理一体化**
 

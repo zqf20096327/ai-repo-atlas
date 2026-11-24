@@ -1,6 +1,6 @@
 # feifeifeimoon/ColabDesk
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/feifeifeimoon/ColabDesk) · [官网](https://colabdesk.dev) · 个人维护
+⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/feifeifeimoon/ColabDesk) · [官网](https://colabdesk.dev) · 个人维护
 
 **连接 Google Colab 运行时的桌面 SSH 终端与文件管理客户端**
 

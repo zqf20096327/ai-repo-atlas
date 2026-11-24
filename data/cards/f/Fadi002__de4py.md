@@ -1,6 +1,6 @@
 # Fadi002/de4py
 
-⭐ 1,016 · Python · NOASSERTION · 推送 2026-08-25 · [GitHub](https://github.com/Fadi002/de4py) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向逆向工程师的 Python 反混淆工具箱（含 AI 反混淆引擎）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Ardha-Eco-System/synapse
 
-⭐ 80 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Ardha-Eco-System/synapse) · 组织维护
+⭐ 80 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Ardha-Eco-System/synapse) · 组织维护
 
 **AI agent 的自托管时序知识图谱记忆插件**
 

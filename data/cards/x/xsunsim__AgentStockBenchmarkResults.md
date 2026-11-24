@@ -1,6 +1,6 @@
 # xsunsim/AgentStockBenchmarkResults
 
-⭐ 17 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xsunsim/AgentStockBenchmarkResults) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xsunsim/AgentStockBenchmarkResults) · 个人维护 · 中文 README
 
 **AI agent 选股能力的每日实测排行榜：以未来收益为判据**
 

@@ -1,6 +1,6 @@
 # wink-wink-wink555/PsyChat
 
-⭐ 37 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/wink-wink-wink555/PsyChat) · 个人维护 · 中文 README
+⭐ 38 · Python · MIT · 推送 2026-03-17 · [GitHub](https://github.com/wink-wink-wink555/PsyChat) · 个人维护 · 中文 README
 
 **基于 Agentic RAG 的心理咨询对话助手，运用 REBT 方法**
 

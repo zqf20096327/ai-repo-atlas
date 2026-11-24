@@ -1,6 +1,6 @@
 # local-falcon/mcp
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/local-falcon/mcp) · [官网](https://www.localfalcon.com/features/mcp) · 组织维护
+⭐ 26 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/local-falcon/mcp) · [官网](https://www.localfalcon.com/features/mcp) · 组织维护
 
 **将 Local Falcon 本地 SEO 平台接入 MCP 客户端的服务器**
 

@@ -1,6 +1,6 @@
 # ruruamour/ai-relay-atlas
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ruruamour/ai-relay-atlas) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ruruamour/ai-relay-atlas) · 个人维护 · 中文 README
 
 **为选型者聚合 AI API 中转站与发卡店铺公开行情的名单地图**
 

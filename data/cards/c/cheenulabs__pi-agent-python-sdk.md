@@ -1,6 +1,6 @@
 # cheenulabs/pi-agent-python-sdk
 
-⭐ 21 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cheenulabs/pi-agent-python-sdk) · [官网](https://pypi.org/project/pi-agent-python-sdk/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cheenulabs/pi-agent-python-sdk) · [官网](https://pypi.org/project/pi-agent-python-sdk/) · 组织维护
 
 **把终端编码 agent Pi 封装为 Python API 的社区 SDK**
 

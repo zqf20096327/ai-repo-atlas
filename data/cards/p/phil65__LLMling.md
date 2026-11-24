@@ -1,6 +1,6 @@
 # phil65/LLMling
 
-⭐ 19 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/phil65/LLMling) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/phil65/LLMling) · 个人维护
 
 **YAML 声明式定义 MCP 服务器与 AI Agent 的 Python 框架**
 

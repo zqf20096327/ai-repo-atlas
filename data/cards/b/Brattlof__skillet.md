@@ -1,6 +1,6 @@
 # Brattlof/skillet
 
-⭐ 10 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Brattlof/skillet) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Brattlof/skillet) · 个人维护
 
 **为 Claude Code 等 AI 编码工具安装 MCP 服务器与技能的包管理器**
 

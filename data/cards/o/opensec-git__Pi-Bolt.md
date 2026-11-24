@@ -1,6 +1,6 @@
 # opensec-git/Pi-Bolt
 
-⭐ 860 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/opensec-git/Pi-Bolt) · [官网](https://pi-bolt.opensec.in) · 组织维护
+⭐ 863 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/opensec-git/Pi-Bolt) · [官网](https://pi-bolt.opensec.in) · 组织维护
 
 **把 Pi 编码 agent 编译为单个原生可执行文件，免 Node 运行**
 

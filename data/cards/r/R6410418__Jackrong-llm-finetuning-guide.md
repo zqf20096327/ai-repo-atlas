@@ -1,6 +1,6 @@
 # R6410418/Jackrong-llm-finetuning-guide
 
-⭐ 1,761 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/R6410418/Jackrong-llm-finetuning-guide) · [官网](https://r6410418.github.io/Jackrong-llm-finetuning-guide/) · 个人维护 · 中文 README
+⭐ 1,762 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/R6410418/Jackrong-llm-finetuning-guide) · [官网](https://r6410418.github.io/Jackrong-llm-finetuning-guide/) · 个人维护 · 中文 README
 
 **开源语言模型微调教程知识库：SFT/RL/蒸馏/本地部署**
 

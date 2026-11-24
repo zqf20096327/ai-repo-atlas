@@ -1,6 +1,6 @@
 # ex18a/pwnagotchi64
 
-⭐ 122 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ex18a/pwnagotchi64) · 个人维护
+⭐ 123 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ex18a/pwnagotchi64) · 个人维护
 
 **在树莓派上用强化学习自动调优 WiFi 审计工具 bettercap 的便携设备镜像**
 

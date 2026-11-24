@@ -1,6 +1,6 @@
 # sharknice/Sharky
 
-⭐ 46 · C# · 推送 2026-10-16 · [GitHub](https://github.com/sharknice/Sharky) · 个人维护
+⭐ 46 · C# · 推送 2026-11-22 · [GitHub](https://github.com/sharknice/Sharky) · 个人维护
 
 **C# 编写的星际争霸2 AI 机器人开发框架**
 

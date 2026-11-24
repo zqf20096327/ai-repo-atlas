@@ -1,6 +1,6 @@
 # event4u-app/agent-config
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/event4u-app/agent-config) · [官网](https://event4u.app) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/event4u-app/agent-config) · [官网](https://event4u.app) · 组织维护
 
 **面向 20 种宿主 AI 编码工具的技能/规则/命令治理配置层**
 

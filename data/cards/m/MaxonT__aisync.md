@@ -1,6 +1,6 @@
 # MaxonT/aisync
 
-⭐ 49 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MaxonT/aisync) · [官网](https://maxont.github.io/aisync/) · 个人维护 · 中文 README
+⭐ 50 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MaxonT/aisync) · [官网](https://maxont.github.io/aisync/) · 个人维护 · 中文 README
 
 **多 AI 编程 agent 的本地共享上下文、协调与可观测中心**
 

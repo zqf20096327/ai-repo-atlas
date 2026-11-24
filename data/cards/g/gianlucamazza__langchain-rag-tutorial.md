@@ -1,6 +1,6 @@
 # gianlucamazza/langchain-rag-tutorial
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/gianlucamazza/langchain-rag-tutorial) · 个人维护
+⭐ 17 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gianlucamazza/langchain-rag-tutorial) · 个人维护
 
 **LangChain RAG 动手教程：20 个 notebook 覆盖从基础到高级模式**
 

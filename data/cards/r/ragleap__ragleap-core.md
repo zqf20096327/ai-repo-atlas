@@ -1,6 +1,6 @@
 # ragleap/ragleap-core
 
-⭐ 24 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ragleap/ragleap-core) · [官网](https://ragleap.com) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ragleap/ragleap-core) · [官网](https://ragleap.com) · 组织维护
 
 **自托管的企业级 AI 员工系统：46 个岗位角色、审批制自主执行**
 

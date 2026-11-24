@@ -1,6 +1,6 @@
 # jammaru/sakutto
 
-⭐ 282 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jammaru/sakutto) · [官网](https://chrome.google.com/webstore/detail/mhlbjjijfkoghmcjndgdimhdlfkhadfl) · 个人维护
+⭐ 284 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jammaru/sakutto) · [官网](https://chrome.google.com/webstore/detail/mhlbjjijfkoghmcjndgdimhdlfkhadfl) · 个人维护
 
 **本地运行 PLaMo 模型的浏览器翻译扩展，页面/PDF/视频/输入文本**
 

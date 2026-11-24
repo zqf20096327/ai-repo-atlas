@@ -1,6 +1,6 @@
 # TencentCloud/TencentDB-Agent-Memory
 
-⭐ 31,100 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory) · [官网](https://tencentcloud.github.io/TencentDB-Agent-Memory/) · 组织维护 · 中文 README
+⭐ 31,122 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/TencentCloud/TencentDB-Agent-Memory) · [官网](https://tencentcloud.github.io/TencentDB-Agent-Memory/) · 组织维护 · 中文 README
 
 **为 AI Agent 团队提供可治理、可共享记忆资产的记忆中枢**
 

@@ -1,6 +1,6 @@
 # yuhxuiao/agy-acp-gateway
 
-⭐ 9 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yuhxuiao/agy-acp-gateway) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yuhxuiao/agy-acp-gateway) · 个人维护
 
 **为开发者把 Antigravity CLI 变成多协议 API 网关**
 

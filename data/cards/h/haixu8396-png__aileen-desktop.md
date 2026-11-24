@@ -1,6 +1,6 @@
 # haixu8396-png/aileen-desktop
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/haixu8396-png/aileen-desktop) · [官网](https://github.com/haixu8396-png/aileen-desktop/releases/latest) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/haixu8396-png/aileen-desktop) · [官网](https://github.com/haixu8396-png/aileen-desktop/releases/latest) · 个人维护 · 中文 README
 
 **Windows 桌面 AI 伙伴：Live2D 角色、多模型对话与电脑控制**
 

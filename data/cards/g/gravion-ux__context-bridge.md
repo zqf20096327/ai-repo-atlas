@@ -1,6 +1,6 @@
 # gravion-ux/context-bridge
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/gravion-ux/context-bridge) · 组织维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravion-ux/context-bridge) · 组织维护
 
 **为 AI 辅助编码会话生成含密钥脱敏的 Markdown 交接文档**
 

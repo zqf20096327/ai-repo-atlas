@@ -1,6 +1,6 @@
 # useLexora/Lexora
 
-⭐ 783 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/useLexora/Lexora) · [官网](https://uselexora.app/) · 组织维护 · 中文 README
+⭐ 788 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/useLexora/Lexora) · [官网](https://uselexora.app/) · 组织维护 · 中文 README
 
 **本地优先的桌面个人 AI Agent：围绕目标持续推进任务**
 

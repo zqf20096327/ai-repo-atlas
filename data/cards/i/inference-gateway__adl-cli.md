@@ -1,6 +1,6 @@
 # inference-gateway/adl-cli
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/inference-gateway/adl-cli) · [官网](https://github.com/inference-gateway) · 组织维护
+⭐ 15 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/inference-gateway/adl-cli) · [官网](https://github.com/inference-gateway) · 组织维护
 
 **从 YAML 定义生成 A2A 协议 Agent 服务端脚手架的 CLI**
 

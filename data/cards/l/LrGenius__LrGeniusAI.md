@@ -1,6 +1,6 @@
 # LrGenius/LrGeniusAI
 
-⭐ 64 · Rust · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/LrGenius/LrGeniusAI) · [官网](https://lrgenius.com) · 个人维护
+⭐ 64 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/LrGenius/LrGeniusAI) · [官网](https://lrgenius.com) · 个人维护
 
 **Lightroom Classic 的 AI 插件：打标、描述、语义搜索与照片管理**
 

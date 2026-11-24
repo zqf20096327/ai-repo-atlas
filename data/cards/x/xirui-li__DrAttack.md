@@ -1,6 +1,6 @@
 # xirui-li/DrAttack
 
-⭐ 75 · JavaScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/xirui-li/DrAttack) · [官网](https://xirui-li.github.io/DrAttack/) · 组织维护
+⭐ 76 · JavaScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/xirui-li/DrAttack) · [官网](https://xirui-li.github.io/DrAttack/) · 组织维护
 
 **论文官方实现：通过提示分解重构对 LLM 实施越狱攻击**
 

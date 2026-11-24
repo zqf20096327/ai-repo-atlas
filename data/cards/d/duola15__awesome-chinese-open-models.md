@@ -1,6 +1,6 @@
 # duola15/awesome-chinese-open-models
 
-⭐ 23 · 推送 2026-11-22 · [GitHub](https://github.com/duola15/awesome-chinese-open-models) · 组织维护 · 中文 README
+⭐ 23 · 推送 2026-11-24 · [GitHub](https://github.com/duola15/awesome-chinese-open-models) · 组织维护 · 中文 README
 
 **中文开源 AI 模型自动更新索引：基准、硬件匹配、部署与许可**
 

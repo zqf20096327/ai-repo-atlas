@@ -1,6 +1,6 @@
 # makethisbetter/makethisbetter-js
 
-⭐ 96 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/makethisbetter/makethisbetter-js) · [官网](https://makethisbetter.dev) · 组织维护
+⭐ 97 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/makethisbetter/makethisbetter-js) · [官网](https://makethisbetter.dev) · 组织维护
 
 **带标注截图与 AI 分诊的用户反馈挂件 SDK**
 

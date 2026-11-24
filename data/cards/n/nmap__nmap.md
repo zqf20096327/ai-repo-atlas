@@ -1,6 +1,6 @@
 # nmap/nmap
 
-⭐ 14,058 · C · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/nmap/nmap) · [官网](https://svn.nmap.org/) · 组织维护
+⭐ 14,074 · C · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/nmap/nmap) · [官网](https://svn.nmap.org/) · 组织维护
 
 **网络扫描与主机发现工具，供网络管理员使用**
 

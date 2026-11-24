@@ -1,6 +1,6 @@
 # langchain-ai/chat-langchain
 
-⭐ 6,479 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/chat-langchain) · [官网](https://chat.langchain.com) · 组织维护
+⭐ 6,478 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/chat-langchain) · [官网](https://chat.langchain.com) · 组织维护
 
 **回答 LangChain 文档问题的文档助手 Agent 参考实现**
 

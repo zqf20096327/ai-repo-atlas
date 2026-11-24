@@ -1,6 +1,6 @@
 # deezer/spleeter
 
-⭐ 28,539 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/deezer/spleeter) · [官网](https://research.deezer.com/projects/spleeter.html) · 组织维护
+⭐ 28,540 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/deezer/spleeter) · [官网](https://research.deezer.com/projects/spleeter.html) · 组织维护
 
 **给开发者的预训练音源分离库：分离人声/伴奏/鼓/贝斯**
 

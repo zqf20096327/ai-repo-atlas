@@ -1,6 +1,6 @@
 # apocas/restai
 
-⭐ 520 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/apocas/restai) · [官网](https://restai.cloud) · 个人维护
+⭐ 520 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/apocas/restai) · [官网](https://restai.cloud) · 个人维护
 
 **开源 AIaaS 平台：创建 AI 项目并通过 REST API 与 Web 界面使用**
 

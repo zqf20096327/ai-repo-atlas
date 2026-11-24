@@ -1,6 +1,6 @@
 # helios-base/librcsc
 
-⭐ 31 · C++ · LGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/helios-base/librcsc) · 组织维护
+⭐ 31 · C++ · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/helios-base/librcsc) · 组织维护
 
 **开发 RoboCup 足球仿真球队及工具的 C++ 基础库**
 

@@ -1,6 +1,6 @@
 # Human-Agent-Society/reef
 
-⭐ 7,643 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Human-Agent-Society/reef) · [官网](https://reefinfra.ai) · 组织维护 · 中文 README
+⭐ 7,636 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Human-Agent-Society/reef) · [官网](https://reefinfra.ai) · 组织维护 · 中文 README
 
 **自改进 Agent 的持续学习基础设施：推理、反馈、训练与版本发布**
 

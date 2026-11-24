@@ -1,6 +1,6 @@
 # unstablebuild/rune
 
-⭐ 1,834 · Go · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/unstablebuild/rune) · [官网](https://rune.build) · 组织维护
+⭐ 1,838 · Go · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/unstablebuild/rune) · [官网](https://rune.build) · 组织维护
 
 **面向开发者的 GPU 加速 IDE 与终端复用器，含内置 agent**
 

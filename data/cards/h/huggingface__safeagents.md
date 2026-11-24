@@ -1,6 +1,6 @@
 # huggingface/safeagents
 
-⭐ 414 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/safeagents) · 组织维护
+⭐ 419 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/safeagents) · 组织维护
 
 **本地代理：在编码 agent 执行前检查并拦截危险工具调用**
 

@@ -1,6 +1,6 @@
 # solsongli/deepread
 
-⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/solsongli/deepread) · [官网](https://github.com/Lsy-aia/deepread/releases/latest) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/solsongli/deepread) · [官网](https://github.com/Lsy-aia/deepread/releases/latest) · 个人维护 · 中文 README
 
 **Zotero AI 精读插件：逐段讲解、翻译、闪卡与对话**
 

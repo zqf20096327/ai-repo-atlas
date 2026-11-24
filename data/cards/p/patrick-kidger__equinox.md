@@ -1,6 +1,6 @@
 # patrick-kidger/equinox
 
-⭐ 3,001 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/patrick-kidger/equinox) · 个人维护
+⭐ 3,002 · Python · Apache-2.0 · 推送 2026-10-25 · [GitHub](https://github.com/patrick-kidger/equinox) · 个人维护
 
 **JAX 神经网络与科学计算库：PyTree 式模型定义**
 

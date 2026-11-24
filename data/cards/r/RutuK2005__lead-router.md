@@ -1,6 +1,6 @@
 # RutuK2005/lead-router
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RutuK2005/lead-router) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RutuK2005/lead-router) · 个人维护
 
 **线索分发前的清洗去重与 LLM 打分服务**
 

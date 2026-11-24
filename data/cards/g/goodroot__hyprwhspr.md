@@ -1,6 +1,6 @@
 # goodroot/hyprwhspr
 
-⭐ 1,288 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/goodroot/hyprwhspr) · [官网](https://hyprwhspr.com) · 个人维护
+⭐ 1,288 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/goodroot/hyprwhspr) · [官网](https://hyprwhspr.com) · 个人维护
 
 **Linux 全系统级语音听写工具：本地离线转写并自动粘贴**
 

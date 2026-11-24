@@ -1,6 +1,6 @@
 # TheBrainLab/Awesome-Spiking-Neural-Networks
 
-⭐ 860 · 推送 2026-11-05 · [GitHub](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) · 组织维护 · 中文 README
+⭐ 861 · 推送 2026-11-05 · [GitHub](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) · 组织维护 · 中文 README
 
 **SNN（脉冲神经网络）研究者用的论文与代码持续更新清单**
 

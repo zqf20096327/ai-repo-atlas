@@ -1,6 +1,6 @@
 # cnkang/nginx-markdown-for-agents
 
-⭐ 25 · Python · BSD-2-Clause · 推送 2026-11-22 · [GitHub](https://github.com/cnkang/nginx-markdown-for-agents) · 个人维护 · 中文 README
+⭐ 25 · Python · BSD-2-Clause · 推送 2026-11-24 · [GitHub](https://github.com/cnkang/nginx-markdown-for-agents) · 个人维护 · 中文 README
 
 **NGINX 模块：通过 Accept 协商向 AI agent 返回 Markdown**
 

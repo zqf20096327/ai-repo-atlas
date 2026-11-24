@@ -1,6 +1,6 @@
 # indiesoftby/defold-agent-config
 
-⭐ 109 · Python · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/indiesoftby/defold-agent-config) · 个人维护 · 中文 README
+⭐ 110 · Python · NOASSERTION · 推送 2026-04-23 · [GitHub](https://github.com/indiesoftby/defold-agent-config) · 个人维护 · 中文 README
 
 **Defold 引擎 AI 辅助游戏开发的 AGENTS.md 配置与技能集**
 

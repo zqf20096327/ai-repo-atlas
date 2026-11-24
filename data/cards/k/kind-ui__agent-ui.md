@@ -1,6 +1,6 @@
 # kind-ui/agent-ui
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kind-ui/agent-ui) · [官网](https://kindui.dev/docs/agent-ui/) · 组织维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kind-ui/agent-ui) · [官网](https://kindui.dev/docs/agent-ui/) · 组织维护
 
 **面向 React/Web Components 的 agent 界面组件库**
 

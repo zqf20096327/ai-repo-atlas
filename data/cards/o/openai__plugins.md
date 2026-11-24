@@ -1,6 +1,6 @@
 # openai/plugins
 
-⭐ 8,082 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/openai/plugins) · 组织维护
+⭐ 8,259 · JavaScript · 推送 2026-11-18 · [GitHub](https://github.com/openai/plugins) · 组织维护
 
 **Codex 插件示例的策展仓库，供插件开发者参考**
 

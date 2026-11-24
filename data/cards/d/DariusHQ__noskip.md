@@ -1,6 +1,6 @@
 # DariusHQ/noskip
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/DariusHQ/noskip) · [官网](https://www.npmjs.com/package/noskip) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **检测 AI 编程 agent 跳过/削弱测试作弊行为的 CLI**
 
@@ -11,7 +11,7 @@ noskip 是面向开发者的 AI agent 反作弊工具：当 Claude Code、Codex�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # jyjeanne/ditacraft
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jyjeanne/ditacraft) · [官网](https://marketplace.visualstudio.com/items?itemName=JeremyJeanne.ditacraft) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jyjeanne/ditacraft) · [官网](https://marketplace.visualstudio.com/items?itemName=JeremyJeanne.ditacraft) · 个人维护
 
 **VS Code 的 DITA 编辑发布扩展：可视化编辑、校验与 AI 辅助**
 

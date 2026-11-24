@@ -1,6 +1,6 @@
 # yabaninai/yabanin-core
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/yabaninai/yabanin-core) · [官网](https://yabanin.ai) · 组织维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/yabaninai/yabanin-core) · [官网](https://yabanin.ai) · 组织维护
 
 **自托管 AI 网关：统一接入、路由、管控与审计模型请求**
 

@@ -1,6 +1,6 @@
 # PerryLink/dsh-lsp-actions
 
-⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-lsp-actions) · [官网](https://www.npmjs.com/package/dsh-lsp-actions) · 个人维护 · 中文 README
+⭐ 43 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-lsp-actions) · [官网](https://www.npmjs.com/package/dsh-lsp-actions) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 补齐 LSP 操作面的插件：诊断/补全/重构等 8 类工具**
 

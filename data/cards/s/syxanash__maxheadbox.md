@@ -1,6 +1,6 @@
 # syxanash/maxheadbox
 
-⭐ 357 · JavaScript · GPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/syxanash/maxheadbox) · 个人维护
+⭐ 358 · JavaScript · GPL-3.0 · 推送 2026-08-03 · [GitHub](https://github.com/syxanash/maxheadbox) · 个人维护
 
 **树莓派上完全本地运行的语音激活 LLM Agent**
 

@@ -1,6 +1,6 @@
 # mhajder/glpi-mcp
 
-⭐ 4 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mhajder/glpi-mcp) · [官网](https://pypi.org/project/glpi-mcp-server/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mhajder/glpi-mcp) · [官网](https://pypi.org/project/glpi-mcp-server/) · 个人维护
 
 **让 AI agent 通过 MCP 操作 GLPI 工单、资产与知识库的服务器**
 

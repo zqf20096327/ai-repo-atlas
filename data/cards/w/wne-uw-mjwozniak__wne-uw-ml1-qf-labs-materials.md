@@ -1,6 +1,6 @@
 # wne-uw-mjwozniak/wne-uw-ml1-qf-labs-materials
 
-⭐ 14 · Jupyter Notebook · 推送 2026-11-11 · [GitHub](https://github.com/wne-uw-mjwozniak/wne-uw-ml1-qf-labs-materials) · 组织维护
+⭐ 15 · Jupyter Notebook · 推送 2026-11-11 · [GitHub](https://github.com/wne-uw-mjwozniak/wne-uw-ml1-qf-labs-materials) · 组织维护
 
 **华沙大学金融机器学习课程的实验 Notebook 教学材料**
 

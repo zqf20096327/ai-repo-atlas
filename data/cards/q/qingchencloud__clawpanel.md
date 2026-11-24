@@ -1,6 +1,6 @@
 # qingchencloud/clawpanel
 
-⭐ 2,937 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/qingchencloud/clawpanel) · [官网](https://claw.qt.cool) · 组织维护 · 中文 README
+⭐ 2,936 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/qingchencloud/clawpanel) · [官网](https://claw.qt.cool) · 组织维护 · 中文 README
 
 **管理多个 AI Agent 框架的桌面/Web 可视化面板，内置排障助手**
 

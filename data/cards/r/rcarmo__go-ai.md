@@ -1,6 +1,6 @@
 # rcarmo/go-ai
 
-⭐ 11 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/rcarmo/go-ai) · 个人维护
+⭐ 11 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rcarmo/go-ai) · 个人维护
 
 **Go 语言的统一推理 API 库：多模型提供商接入与流式调用**
 

@@ -1,6 +1,6 @@
 # MaxonT/TRACES.md
 
-⭐ 36 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/MaxonT/TRACES.md) · [官网](https://maxont.github.io/TRACES.md/) · 个人维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MaxonT/TRACES.md) · [官网](https://maxont.github.io/TRACES.md/) · 个人维护 · 中文 README
 
 **记录 AI agent 实际操作的开源追溯格式与 CLI**
 

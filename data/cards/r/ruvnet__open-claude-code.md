@@ -1,6 +1,6 @@
 # ruvnet/open-claude-code
 
-⭐ 575 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ruvnet/open-claude-code) · [官网](https://ruv.io) · 个人维护
+⭐ 576 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ruvnet/open-claude-code) · [官网](https://ruv.io) · 个人维护
 
 **开源重建的 Claude Code CLI：清洁室复刻的编码 agent 命令行**
 

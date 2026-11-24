@@ -1,6 +1,6 @@
 # davemessew/AgentFlux
 
-⭐ 310 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/davemessew/AgentFlux) · [官网](https://agentflux.cloud) · 个人维护
+⭐ 309 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/davemessew/AgentFlux) · [官网](https://agentflux.cloud) · 个人维护
 
 **自托管的可视化工作流与自主 agent 平台，本地运行**
 

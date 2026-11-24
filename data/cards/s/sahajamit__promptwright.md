@@ -1,6 +1,6 @@
 # sahajamit/promptwright
 
-⭐ 120 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/sahajamit/promptwright) · [官网](https://www.youtube.com/watch?v=2c7P4du6hDQ) · 个人维护
+⭐ 121 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/sahajamit/promptwright) · [官网](https://www.youtube.com/watch?v=2c7P4du6hDQ) · 个人维护
 
 **免登录 BYOK 的桌面 AI 测试代理：自然语言驱动浏览器并生成测试脚本**
 

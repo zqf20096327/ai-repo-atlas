@@ -1,6 +1,6 @@
 # RealAlexandreAI/json-repair
 
-⭐ 383 · Go · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/RealAlexandreAI/json-repair) · [官网](https://pkg.go.dev/github.com/RealAlexandreAI/json-repair) · 个人维护 · 中文 README
+⭐ 383 · Go · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RealAlexandreAI/json-repair) · [官网](https://pkg.go.dev/github.com/RealAlexandreAI/json-repair) · 个人维护 · 中文 README
 
 **修复 LLM 输出的畸形 JSON 的 Go 库与 CLI**
 

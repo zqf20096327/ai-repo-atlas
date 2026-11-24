@@ -1,6 +1,6 @@
 # kknee-dev/recruit-hub
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kknee-dev/recruit-hub) · [官网](https://xiaozhaobao.com.cn) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kknee-dev/recruit-hub) · [官网](https://xiaozhaobao.com.cn) · 个人维护 · 中文 README
 
 **给应届生与 AI 助手的中国校招信息聚合站（MCP 只读检索）**
 

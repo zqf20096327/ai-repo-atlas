@@ -1,6 +1,6 @@
 # AiratTop/ad-generator
 
-⭐ 24 · PHP · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/AiratTop/ad-generator) · [官网](https://random.airat.top) · 个人维护
+⭐ 24 · PHP · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AiratTop/ad-generator) · [官网](https://random.airat.top) · 个人维护
 
 **WordPress 文本随机化插件：用模板语法批量生成伪唯一广告文案**
 

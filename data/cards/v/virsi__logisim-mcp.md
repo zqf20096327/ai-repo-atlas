@@ -1,6 +1,6 @@
 # virsi/logisim-mcp
 
-⭐ 19 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/virsi/logisim-mcp) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-05-14 · [GitHub](https://github.com/virsi/logisim-mcp) · 个人维护
 
 **让 LLM 无 GUI 设计与验证 Logisim 数字电路的 MCP 服务器**
 

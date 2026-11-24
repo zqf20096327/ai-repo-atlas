@@ -1,6 +1,6 @@
 # netease-youdao/LobsterAI
 
-⭐ 6,210 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/netease-youdao/LobsterAI) · [官网](https://lobsterai.youdao.com) · 组织维护 · 中文 README
+⭐ 6,212 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/netease-youdao/LobsterAI) · [官网](https://lobsterai.youdao.com) · 组织维护 · 中文 README
 
 **开源桌面 AI agent：帮你完成数据分析、文档、幻灯片等实际工作**
 

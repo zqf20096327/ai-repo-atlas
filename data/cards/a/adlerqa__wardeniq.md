@@ -1,6 +1,6 @@
 # adlerqa/wardeniq
 
-⭐ 17 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/adlerqa/wardeniq) · [官网](https://adlerqa.in/products/wardeniq) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adlerqa/wardeniq) · [官网](https://adlerqa.in/products/wardeniq) · 组织维护
 
 **把需求文档转成测试用例并持续核验代码覆盖的 QA 平台**
 

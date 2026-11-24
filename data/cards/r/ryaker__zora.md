@@ -1,6 +1,6 @@
 # ryaker/zora
 
-⭐ 78 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ryaker/zora) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ryaker/zora) · 个人维护
 
 **本地长期运行的个人 AI agent，带策略引擎与记忆**
 

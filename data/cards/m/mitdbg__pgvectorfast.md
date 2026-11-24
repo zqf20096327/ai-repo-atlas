@@ -1,6 +1,6 @@
 # mitdbg/pgvectorfast
 
-⭐ 26 · C · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/mitdbg/pgvectorfast) · 组织维护
+⭐ 28 · C · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/mitdbg/pgvectorfast) · 组织维护
 
 **加速 pgvector 向量检索的 PostgreSQL 扩展（Calico 缓冲池）**
 

@@ -1,6 +1,6 @@
 # abualnassr/hermes-committee
 
-⭐ 5 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/abualnassr/hermes-committee) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/abualnassr/hermes-committee) · 个人维护
 
 **给 Hermes Agent 用的多模型委员会决策插件：盲评辩论出裁决**
 

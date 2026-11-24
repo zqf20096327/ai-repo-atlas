@@ -1,6 +1,6 @@
 # open-webui/open-webui
 
-⭐ 159,276 · Svelte · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
+⭐ 159,370 · Svelte · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
 
 **自托管 AI 聊天界面：连接 Ollama 与 OpenAI 兼容 API**
 

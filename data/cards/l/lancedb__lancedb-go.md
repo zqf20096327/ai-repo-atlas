@@ -1,6 +1,6 @@
 # lancedb/lancedb-go
 
-⭐ 62 · Go · Apache-2.0 · 推送 2026-05-09 · [GitHub](https://github.com/lancedb/lancedb-go) · 组织维护
+⭐ 62 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lancedb/lancedb-go) · 组织维护
 
 **LanceDB 的 Go SDK：预编译原生库三步接入向量数据库**
 

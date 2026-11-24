@@ -1,6 +1,6 @@
 # jgravelle/jdatamunch-mcp
 
-⭐ 83 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/jgravelle/jdatamunch-mcp) · 个人维护
+⭐ 83 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/jgravelle/jdatamunch-mcp) · 个人维护
 
 **面向编码代理的表格数据检索 MCP 服务器，省 token 查询 CSV/Excel**
 

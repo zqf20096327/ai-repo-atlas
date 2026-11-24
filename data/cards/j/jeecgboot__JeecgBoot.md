@@ -1,6 +1,6 @@
 # jeecgboot/JeecgBoot
 
-⭐ 48,582 · Java · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/jeecgboot/JeecgBoot) · [官网](https://jeecg.com) · 组织维护 · 中文 README
+⭐ 48,597 · Java · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/jeecgboot/JeecgBoot) · [官网](https://jeecg.com) · 组织维护 · 中文 README
 
 **面向企业开发者的 AI 低代码平台，一句话生成业务系统基座**
 

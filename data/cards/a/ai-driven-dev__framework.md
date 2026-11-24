@@ -1,6 +1,6 @@
 # ai-driven-dev/framework
 
-⭐ 572 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ai-driven-dev/framework) · [官网](https://www.ai-driven-dev.fr/) · 组织维护
+⭐ 575 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai-driven-dev/framework) · [官网](https://www.ai-driven-dev.fr/) · 组织维护
 
 **面向 AI 编码工具的 SDLC 框架：插件/技能/代理标准化开发流程**
 

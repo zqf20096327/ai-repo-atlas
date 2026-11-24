@@ -1,6 +1,6 @@
 # zylos-ai/zylos-core
 
-⭐ 1,162 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zylos-ai/zylos-core) · [官网](https://zylos.ai) · 组织维护 · 中文 README
+⭐ 1,164 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zylos-ai/zylos-core) · [官网](https://zylos.ai) · 组织维护 · 中文 README
 
 **开源 agent 基础设施：为个人/团队 AI 提供记忆、调度与多渠道**
 

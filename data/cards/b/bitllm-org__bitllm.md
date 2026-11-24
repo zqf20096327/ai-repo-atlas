@@ -1,6 +1,6 @@
 # bitllm-org/bitllm
 
-⭐ 27 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/bitllm-org/bitllm) · [官网](https://bitllm.org) · 组织维护 · 中文 README
+⭐ 28 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bitllm-org/bitllm) · [官网](https://bitllm.org) · 组织维护 · 中文 README
 
 **P2P 网络共享本地 LLM 推理的节点与网关二进制**
 

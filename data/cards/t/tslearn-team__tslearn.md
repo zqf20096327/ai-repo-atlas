@@ -1,6 +1,6 @@
 # tslearn-team/tslearn
 
-⭐ 3,194 · Python · BSD-2-Clause · 推送 2026-11-20 · [GitHub](https://github.com/tslearn-team/tslearn) · [官网](https://tslearn.readthedocs.io) · 组织维护
+⭐ 3,194 · Python · BSD-2-Clause · 推送 2026-11-23 · [GitHub](https://github.com/tslearn-team/tslearn) · [官网](https://tslearn.readthedocs.io) · 组织维护
 
 **Python 时间序列机器学习工具库，覆盖分类/聚类/回归**
 

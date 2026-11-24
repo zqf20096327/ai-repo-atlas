@@ -1,6 +1,6 @@
 # NVIDIA/SkillEvaluator
 
-⭐ 4,385 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NVIDIA/SkillEvaluator) · [官网](https://docs.nvidia.com/skills/skillevaluator/) · 组织维护
+⭐ 4,454 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/SkillEvaluator) · [官网](https://docs.nvidia.com/skills/skillevaluator/) · 组织维护
 
 **给 AI agent 技能与插件做质量/安全/效果评测的 CLI 框架**
 

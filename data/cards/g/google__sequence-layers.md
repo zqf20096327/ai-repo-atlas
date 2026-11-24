@@ -1,6 +1,6 @@
 # google/sequence-layers
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/google/sequence-layers) · 组织维护
+⭐ 69 · Python · Apache-2.0 · 推送 2026-06-26 · [GitHub](https://github.com/google/sequence-layers) · 组织维护
 
 **JAX/MLX/TF2 序列建模网络层库：支持逐层与逐步执行**
 

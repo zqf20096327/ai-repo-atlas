@@ -1,6 +1,6 @@
 # tilework-tech/nori-skillsets
 
-⭐ 170 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/tilework-tech/nori-skillsets) · [官网](https://www.npmjs.com/package/nori-skillsets) · 组织维护
+⭐ 171 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/tilework-tech/nori-skillsets) · [官网](https://www.npmjs.com/package/nori-skillsets) · 组织维护
 
 **面向编码 agent 的技能集安装与切换管理 CLI**
 

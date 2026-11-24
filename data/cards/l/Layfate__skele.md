@@ -1,6 +1,6 @@
 # Layfate/skele
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Layfate/skele) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Layfate/skele) · 个人维护
 
 **本地优先的笔记/任务/数据库工作区，可选 AI 助手**
 

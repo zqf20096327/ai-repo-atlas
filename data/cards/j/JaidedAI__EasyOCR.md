@@ -1,6 +1,6 @@
 # JaidedAI/EasyOCR
 
-⭐ 30,161 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/JaidedAI/EasyOCR) · [官网](https://www.jaided.ai) · 组织维护
+⭐ 30,163 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/JaidedAI/EasyOCR) · [官网](https://www.jaided.ai) · 组织维护
 
 **支持80+语言的即用型OCR识别库**
 

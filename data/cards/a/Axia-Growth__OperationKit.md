@@ -1,6 +1,6 @@
 # Axia-Growth/OperationKit
 
-⭐ 82 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Axia-Growth/OperationKit) · [官网](https://operationkit.com) · 组织维护
+⭐ 87 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Axia-Growth/OperationKit) · [官网](https://operationkit.com) · 组织维护
 
 **给企业/顾问的自托管 AI 落地基座：知识库+任务板+MCP 接入**
 

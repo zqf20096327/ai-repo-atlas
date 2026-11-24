@@ -1,6 +1,6 @@
 # Abrechen2/sublarr
 
-⭐ 50 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Abrechen2/sublarr) · [官网](https://sublarr.de) · 个人维护
+⭐ 51 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Abrechen2/sublarr) · [官网](https://sublarr.de) · 个人维护
 
 **自托管字幕管理与下载器，面向动画库，可选 LLM 翻译**
 

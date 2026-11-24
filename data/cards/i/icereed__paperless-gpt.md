@@ -1,6 +1,6 @@
 # icereed/paperless-gpt
 
-⭐ 2,846 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/icereed/paperless-gpt) · 个人维护
+⭐ 2,849 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/icereed/paperless-gpt) · 个人维护
 
 **给 paperless-ngx 用户的 AI 文档处理工具：LLM OCR 与自动标题标签生成**
 

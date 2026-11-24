@@ -1,6 +1,6 @@
 # ssmall256/mlx-audio-separator
 
-⭐ 26 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ssmall256/mlx-audio-separator) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/ssmall256/mlx-audio-separator) · 个人维护
 
 **Apple Silicon 上 MLX 原生的人声/伴奏分轨工具**
 

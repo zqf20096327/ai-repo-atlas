@@ -1,6 +1,6 @@
 # sfw/loom
 
-⭐ 79 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sfw/loom) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-10-07 · [GitHub](https://github.com/sfw/loom) · 个人维护
 
 **桌面/终端 LLM 执行 harness：分解任务并逐步验证驱动**
 

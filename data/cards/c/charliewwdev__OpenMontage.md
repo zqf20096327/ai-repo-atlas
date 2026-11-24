@@ -1,6 +1,6 @@
 # charliewwdev/OpenMontage
 
-⭐ 64 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/charliewwdev/OpenMontage) · [官网](https://openmontage.dtok.io) · 个人维护 · 中文 README
+⭐ 67 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/charliewwdev/OpenMontage) · [官网](https://openmontage.dtok.io) · 个人维护 · 中文 README
 
 **自托管的 AI 短剧/短视频制作工作台：一句话创意到成片**
 

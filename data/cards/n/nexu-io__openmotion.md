@@ -1,6 +1,6 @@
 # nexu-io/openmotion
 
-⭐ 15,246 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nexu-io/openmotion) · [官网](https://open-design.ai/motion/) · 组织维护 · 中文 README
+⭐ 15,713 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nexu-io/openmotion) · [官网](https://open-design.ai/motion/) · 组织维护 · 中文 README
 
 **开源的 agentic 视频工作室：把参考视频重做成带品牌素材的可编辑动效视频**
 

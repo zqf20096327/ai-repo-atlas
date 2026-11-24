@@ -1,6 +1,6 @@
 # kaifaty/GothicAI
 
-⭐ 16 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kaifaty/GothicAI) · [官网](https://kaifaty.github.io/GothicAI/) · 个人维护
+⭐ 17 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kaifaty/GothicAI) · [官网](https://kaifaty.github.io/GothicAI/) · 个人维护
 
 **给哥特2重制版加 AI 语音 NPC 对话的开源项目**
 

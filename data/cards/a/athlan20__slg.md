@@ -1,6 +1,6 @@
 # athlan20/slg
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/athlan20/slg) · [官网](https://slg.yuntianyou.cc) · 个人维护 · 中文 README
+⭐ 44 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/athlan20/slg) · [官网](https://slg.yuntianyou.cc) · 个人维护 · 中文 README
 
 **可让 AI Agent 代玩的网页三国策略游戏**
 

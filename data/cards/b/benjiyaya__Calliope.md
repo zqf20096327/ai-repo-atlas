@@ -1,6 +1,6 @@
 # benjiyaya/Calliope
 
-⭐ 312 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/benjiyaya/Calliope) · 个人维护
+⭐ 313 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/benjiyaya/Calliope) · 个人维护
 
 **本地化故事转视频工作室：从创意到成片驱动 ComfyUI 生成**
 

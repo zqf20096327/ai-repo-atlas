@@ -1,6 +1,6 @@
 # peiman/ckeletin-go
 
-⭐ 12 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/peiman/ckeletin-go) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/peiman/ckeletin-go) · 个人维护
 
 **AI-first Go CLI 脚手架框架：让 AI 编码代理产出结构正确的代码**
 

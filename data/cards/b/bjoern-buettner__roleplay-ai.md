@@ -1,6 +1,6 @@
 # bjoern-buettner/roleplay-ai
 
-⭐ 20 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bjoern-buettner/roleplay-ai) · [官网](https://wolfgang-ai.com) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bjoern-buettner/roleplay-ai) · [官网](https://wolfgang-ai.com) · 个人维护
 
 **桌面角色扮演游戏 AI 主持人助手，含自训练模型**
 

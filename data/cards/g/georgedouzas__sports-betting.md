@@ -1,6 +1,6 @@
 # georgedouzas/sports-betting
 
-⭐ 848 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/georgedouzas/sports-betting) · [官网](https://georgedouzas.github.io/sports-betting) · 个人维护
+⭐ 849 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/georgedouzas/sports-betting) · [官网](https://georgedouzas.github.io/sports-betting) · 个人维护
 
 **体育博彩建模工具库：构建、回测与执行投注策略**
 

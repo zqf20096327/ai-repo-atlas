@@ -1,6 +1,6 @@
 # eth0izzle/security-skills
 
-⭐ 57 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/eth0izzle/security-skills) · [官网](https://darkport.co.uk) · 个人维护
+⭐ 58 · Python · MIT · 推送 2026-04-27 · [GitHub](https://github.com/eth0izzle/security-skills) · [官网](https://darkport.co.uk) · 个人维护
 
 **面向 Claude Code 的安全运维技能插件合集（SOAR/SIEM）**
 

@@ -1,6 +1,6 @@
 # Fincept-Corporation/FinceptTerminal
 
-⭐ 34,066 · C++ · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) · [官网](https://fincept.in) · 组织维护
+⭐ 34,141 · C++ · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/Fincept-Corporation/FinceptTerminal) · [官网](https://fincept.in) · 组织维护
 
 **开源 C++ 金融终端：行情分析、投研、交易与 AI agent**
 

@@ -1,6 +1,6 @@
 # licyk/SDNote
 
-⭐ 70 · Python · GFDL-1.3 · 推送 2026-11-16 · [GitHub](https://github.com/licyk/SDNote) · [官网](https://sdnote.netlify.app) · 个人维护 · 中文 README
+⭐ 70 · Python · GFDL-1.3 · 推送 2026-11-23 · [GitHub](https://github.com/licyk/SDNote) · [官网](https://sdnote.netlify.app) · 个人维护 · 中文 README
 
 **AI 绘画（Stable Diffusion）中文使用文档与资源合集**
 

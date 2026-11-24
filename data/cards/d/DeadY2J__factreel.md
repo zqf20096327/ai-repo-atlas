@@ -1,6 +1,6 @@
 # DeadY2J/factreel
 
-⭐ 3 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/DeadY2J/factreel) · [官网](https://github.com/DeadY2J/factreel#readme) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DeadY2J/factreel) · [官网](https://github.com/DeadY2J/factreel#readme) · 个人维护
 
 **从已核实事实自动生成带字幕的无脸短视频**
 

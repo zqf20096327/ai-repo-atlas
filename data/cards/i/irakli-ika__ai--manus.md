@@ -1,6 +1,6 @@
 # irakli-ika/ai--manus
 
-⭐ 181 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/irakli-ika/ai--manus) · 个人维护
+⭐ 177 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/irakli-ika/ai--manus) · 个人维护
 
 **自主执行代码与浏览器操作的通用 AI Agent 系统**
 

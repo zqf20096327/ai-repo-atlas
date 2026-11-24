@@ -1,6 +1,6 @@
 # mistralai/client-ts
 
-⭐ 162 · TypeScript · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/mistralai/client-ts) · 组织维护
+⭐ 162 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mistralai/client-ts) · 组织维护
 
 **Mistral AI 平台的 TypeScript 客户端 SDK（v2）**
 

@@ -1,6 +1,6 @@
 # adinurlanova218-png/ai-payment-router-proxy
 
-⭐ 77 · 推送 2026-11-02 · [GitHub](https://github.com/adinurlanova218-png/ai-payment-router-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 94 · 推送 2026-11-02 · [GitHub](https://github.com/adinurlanova218-png/ai-payment-router-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向开发者的 AI API 支付扣费避坑指南文档**
 

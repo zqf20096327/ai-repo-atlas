@@ -1,6 +1,6 @@
 # dapr/python-sdk
 
-⭐ 273 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dapr/python-sdk) · [官网](https://docs.dapr.io/developing-applications/sdks/python/) · 组织维护
+⭐ 273 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dapr/python-sdk) · [官网](https://docs.dapr.io/developing-applications/sdks/python/) · 组织维护
 
 **Dapr 的 Python SDK：构建有状态 AI agent 与分布式应用的客户端库**
 

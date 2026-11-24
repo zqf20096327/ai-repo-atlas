@@ -1,6 +1,6 @@
 # futuregene/future-os
 
-⭐ 119 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/futuregene/future-os) · [官网](https://future-os.cn) · 组织维护 · 中文 README
+⭐ 119 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/futuregene/future-os) · [官网](https://future-os.cn) · 组织维护 · 中文 README
 
 **跨终端/桌面/移动/IM 的个人 AI 代理，Rust 单核多端**
 

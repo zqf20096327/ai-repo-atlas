@@ -1,6 +1,6 @@
 # Marker-Inc-Korea/AutoRAG
 
-⭐ 6,157 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Marker-Inc-Korea/AutoRAG) · 组织维护
+⭐ 6,258 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Marker-Inc-Korea/AutoRAG) · 组织维护
 
 **本地优先的个人图书馆员 Agent：检索并引用你电脑上的文件**
 

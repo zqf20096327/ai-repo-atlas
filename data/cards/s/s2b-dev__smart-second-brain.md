@@ -1,6 +1,6 @@
 # s2b-dev/smart-second-brain
 
-⭐ 1,353 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/s2b-dev/smart-second-brain) · [官网](https://smartsecondbrain.dev) · 组织维护
+⭐ 1,356 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/s2b-dev/smart-second-brain) · [官网](https://smartsecondbrain.dev) · 组织维护
 
 **让 Obsidian 笔记库更智能的插件：搜索、知识图谱与 AI 助手**
 

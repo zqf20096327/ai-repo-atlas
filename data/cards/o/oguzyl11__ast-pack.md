@@ -1,6 +1,6 @@
 # oguzyl11/ast-pack
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/oguzyl11/ast-pack) · 个人维护
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/oguzyl11/ast-pack) · 个人维护
 
 **把代码库折叠进 LLM token 预算的 CLI 与 MCP 服务器**
 

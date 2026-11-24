@@ -1,6 +1,6 @@
 # zeokin/Cuda-Compute-OSS
 
-⭐ 13 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/zeokin/Cuda-Compute-OSS) · [官网](https://zeokin.github.io/Cuda-Compute-Dashboard/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-08-15 · [GitHub](https://github.com/zeokin/Cuda-Compute-OSS) · [官网](https://zeokin.github.io/Cuda-Compute-Dashboard/) · 个人维护
 
 **面向消费级 NVIDIA GPU 的长上下文 attention 算子优化与基准评测项目**
 

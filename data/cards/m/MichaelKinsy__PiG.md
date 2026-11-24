@@ -1,6 +1,6 @@
 # MichaelKinsy/PiG
 
-⭐ 892 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MichaelKinsy/PiG) · [官网](https://pi-in-go.dev) · 个人维护
+⭐ 893 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MichaelKinsy/PiG) · [官网](https://pi-in-go.dev) · 个人维护
 
 **用 Go 重写的 Pi 终端编码 agent，单二进制免 Node.js**
 

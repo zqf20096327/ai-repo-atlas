@@ -1,6 +1,6 @@
 # ndom91/llama-dash
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ndom91/llama-dash) · [官网](https://llama-dash.dev) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ndom91/llama-dash) · [官网](https://llama-dash.dev) · 个人维护
 
 **本地 LLM 推理盒的运维网关：统一代理、观测与策略控制**
 

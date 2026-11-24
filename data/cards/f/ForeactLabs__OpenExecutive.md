@@ -1,6 +1,6 @@
 # ForeactLabs/OpenExecutive
 
-⭐ 5,833 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ForeactLabs/OpenExecutive) · [官网](https://openexecutive.ai) · 组织维护
+⭐ 5,834 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ForeactLabs/OpenExecutive) · [官网](https://openexecutive.ai) · 组织维护
 
 **开源 AI 虚拟高管团队：一个统一高管人设加多个专家 agent**
 

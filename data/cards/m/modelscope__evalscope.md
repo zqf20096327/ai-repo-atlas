@@ -1,6 +1,6 @@
 # modelscope/evalscope
 
-⭐ 3,718 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/modelscope/evalscope) · [官网](https://modelscope.github.io/evalscope/) · 组织维护 · 中文 README
+⭐ 3,727 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/evalscope) · [官网](https://modelscope.github.io/evalscope/) · 组织维护 · 中文 README
 
 **开发者用的 LLM/VLM/AIGC 评估与性能压测框架**
 

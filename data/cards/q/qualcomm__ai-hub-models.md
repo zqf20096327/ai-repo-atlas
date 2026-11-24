@@ -1,6 +1,6 @@
 # qualcomm/ai-hub-models
 
-⭐ 1,270 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/qualcomm/ai-hub-models) · [官网](https://aihub.qualcomm.com/models) · 组织维护
+⭐ 1,272 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/qualcomm/ai-hub-models) · [官网](https://aihub.qualcomm.com/models) · 组织维护
 
 **面向 Qualcomm 设备部署的优化 ML 模型集合**
 

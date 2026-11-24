@@ -1,6 +1,6 @@
 # opengeos/geoai-skills
 
-⭐ 39 · MIT · 推送 2026-10-12 · [GitHub](https://github.com/opengeos/geoai-skills) · 个人维护
+⭐ 39 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opengeos/geoai-skills) · 个人维护
 
 **给 Claude Code 加地理空间 AI 技能的插件：探查、下载、检测影像**
 

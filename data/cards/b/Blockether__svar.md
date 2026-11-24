@@ -1,6 +1,6 @@
 # Blockether/svar
 
-⭐ 21 · Clojure · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Blockether/svar) · 个人维护
+⭐ 21 · Clojure · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Blockether/svar) · 个人维护
 
 **Clojure 库：从任意文本 LLM 获得类型安全的结构化输出**
 

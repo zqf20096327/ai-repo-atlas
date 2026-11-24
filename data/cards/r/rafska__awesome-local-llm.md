@@ -1,6 +1,6 @@
 # rafska/awesome-local-llm
 
-⭐ 3,083 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rafska/awesome-local-llm) · 个人维护
+⭐ 3,087 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/rafska/awesome-local-llm) · 个人维护
 
 **本地运行 LLM 的平台/引擎/模型资源策展清单**
 

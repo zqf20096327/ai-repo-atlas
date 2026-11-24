@@ -1,6 +1,6 @@
 # megamen32/gptadmin_opensource
 
-⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/megamen32/gptadmin_opensource) · [官网](https://became.bezrabotnyi.com) · 个人维护
+⭐ 11 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/megamen32/gptadmin_opensource) · [官网](https://became.bezrabotnyi.com) · 个人维护
 
 **自托管 MCP hub：让多种 AI 助手统一控制服务器基础设施**
 

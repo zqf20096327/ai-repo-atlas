@@ -1,6 +1,6 @@
 # claude-dev-suite/claude-dev-suite
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/claude-dev-suite/claude-dev-suite) · 组织维护
+⭐ 50 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/claude-dev-suite/claude-dev-suite) · 组织维护
 
 **为 AI 编程助手生成项目配置的工具箱：agents、skills、MCP、规则**
 

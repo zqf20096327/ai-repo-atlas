@@ -1,6 +1,6 @@
 # spencermarx/open-code-review
 
-⭐ 395 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/spencermarx/open-code-review) · 个人维护
+⭐ 396 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/spencermarx/open-code-review) · 个人维护
 
 **面向 AI 辅助开发的多 agent 代码审查 CLI 与仪表盘**
 

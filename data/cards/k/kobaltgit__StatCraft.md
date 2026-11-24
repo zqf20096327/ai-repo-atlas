@@ -1,6 +1,6 @@
 # kobaltgit/StatCraft
 
-⭐ 63 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kobaltgit/StatCraft) · [官网](https://statcraft-mu.vercel.app/) · 个人维护
+⭐ 66 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kobaltgit/StatCraft) · [官网](https://statcraft-mu.vercel.app/) · 个人维护
 
 **纯 Safe Rust 编写的开源统计分析桌面软件，SPSS 风格并带 MCP 接口**
 

@@ -1,6 +1,6 @@
 # LibreChat-AI/LibreChat
 
-⭐ 47,419 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LibreChat-AI/LibreChat) · [官网](https://librechat.ai/) · 组织维护 · 中文 README
+⭐ 47,458 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/LibreChat-AI/LibreChat) · [官网](https://librechat.ai/) · 组织维护 · 中文 README
 
 **自托管多模型 AI 聊天平台，统一接入多家 AI 服务**
 

@@ -1,6 +1,6 @@
 # personamanagmentlayer/pcl
 
-⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/personamanagmentlayer/pcl) · [官网](https://pclang.org) · 组织维护
+⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/personamanagmentlayer/pcl) · [官网](https://pclang.org) · 组织维护
 
 **面向企业治理的 AI 人设与多智能体编排编程语言**
 

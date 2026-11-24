@@ -1,6 +1,6 @@
 # Capsize-Games/airunner
 
-⭐ 1,317 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Capsize-Games/airunner) · [官网](https://airunner.art) · 个人维护
+⭐ 1,317 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Capsize-Games/airunner) · [官网](https://airunner.art) · 个人维护
 
 **面向应用的离线推理引擎：美术、语音对话、LLM 聊天与自动化工作流**
 

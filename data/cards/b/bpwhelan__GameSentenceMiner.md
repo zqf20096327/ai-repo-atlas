@@ -1,6 +1,6 @@
 # bpwhelan/GameSentenceMiner
 
-⭐ 928 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/bpwhelan/GameSentenceMiner) · [官网](https://docs.gamesentenceminer.com) · 个人维护 · 中文 README
+⭐ 927 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/bpwhelan/GameSentenceMiner) · [官网](https://docs.gamesentenceminer.com) · 个人维护 · 中文 README
 
 **游戏沉浸式语言学习工具：自动截图录音 OCR 生成 Anki 卡片**
 

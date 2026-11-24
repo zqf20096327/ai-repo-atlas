@@ -1,6 +1,6 @@
 # HarinezumIgel/RAG-LCC
 
-⭐ 35 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HarinezumIgel/RAG-LCC) · [官网](https://harinezumigel.github.io/RAG-LCC/) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HarinezumIgel/RAG-LCC) · [官网](https://harinezumigel.github.io/RAG-LCC/) · 个人维护
 
 **本地实验性 RAG 实验场：调试检索质量与上下文组装**
 

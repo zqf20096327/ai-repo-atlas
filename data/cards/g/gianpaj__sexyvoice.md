@@ -1,6 +1,6 @@
 # gianpaj/sexyvoice
 
-⭐ 26 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/gianpaj/sexyvoice) · [官网](https://sexyvoice.ai) · 个人维护
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/gianpaj/sexyvoice) · [官网](https://sexyvoice.ai) · 个人维护
 
 **AI 语音生成与克隆 Web 平台：TTS、克隆与语音通话**
 

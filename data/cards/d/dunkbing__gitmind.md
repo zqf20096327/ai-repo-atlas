@@ -1,6 +1,6 @@
 # dunkbing/gitmind
 
-⭐ 3 · Go · 推送 2026-11-22 · [GitHub](https://github.com/dunkbing/gitmind) · [官网](https://gitmind.app) · 个人维护
+⭐ 3 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/dunkbing/gitmind) · [官网](https://gitmind.app) · 个人维护
 
 **为编码 agent 提供基于 git 的共享记忆的 MCP 服务器**
 

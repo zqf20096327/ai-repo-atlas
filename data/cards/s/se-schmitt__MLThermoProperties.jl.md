@@ -1,6 +1,6 @@
 # se-schmitt/MLThermoProperties.jl
 
-⭐ 11 · Julia · MIT · 推送 2026-11-03 · [GitHub](https://github.com/se-schmitt/MLThermoProperties.jl) · 个人维护
+⭐ 11 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/se-schmitt/MLThermoProperties.jl) · 个人维护
 
 **Julia 混合 ML 热力学性质预测模型库（集成 Clapeyron.jl）**
 

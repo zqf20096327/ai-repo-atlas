@@ -1,6 +1,6 @@
 # hyperbrowserai/HyperAgent
 
-⭐ 1,613 · TypeScript · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/hyperbrowserai/HyperAgent) · [官网](https://www.hyperbrowser.ai/) · 组织维护
+⭐ 1,614 · TypeScript · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/hyperbrowserai/HyperAgent) · [官网](https://www.hyperbrowser.ai/) · 组织维护
 
 **给开发者的 LLM 驱动浏览器自动化库（Playwright+AI）**
 

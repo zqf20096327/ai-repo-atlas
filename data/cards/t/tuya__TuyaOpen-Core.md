@@ -1,6 +1,6 @@
 # tuya/TuyaOpen-Core
 
-⭐ 5 · C · 推送 2026-11-20 · [GitHub](https://github.com/tuya/TuyaOpen-Core) · [官网](https://tuyaopen.ai) · 组织维护 · 中文 README
+⭐ 5 · C · 推送 2026-11-23 · [GitHub](https://github.com/tuya/TuyaOpen-Core) · [官网](https://tuyaopen.ai) · 组织维护 · 中文 README
 
 **给嵌入式设备项目接入涂鸦云 IoT/AI/P2P 能力的 C SDK**
 

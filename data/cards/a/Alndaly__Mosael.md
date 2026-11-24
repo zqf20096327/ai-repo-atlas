@@ -1,6 +1,6 @@
 # Alndaly/Mosael
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Alndaly/Mosael) · [官网](https://mosael.com) · 个人维护 · 中文 README
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Alndaly/Mosael) · [官网](https://mosael.com) · 个人维护 · 中文 README
 
 **本地优先的桌面 AI 视频创作软件：生成、剪辑、配音一站式**
 

@@ -1,6 +1,6 @@
 # Red-Weasel/machx-inference-engine
 
-⭐ 13 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Red-Weasel/machx-inference-engine) · 个人维护
+⭐ 13 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Red-Weasel/machx-inference-engine) · 个人维护
 
 **面向 Intel Arc GPU 的本地 LLM 推理引擎**
 

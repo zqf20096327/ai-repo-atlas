@@ -1,6 +1,6 @@
 # omarluq/cc-relay
 
-⭐ 103 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/omarluq/cc-relay) · [官网](https://cc-relay.ai) · 个人维护
+⭐ 103 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/omarluq/cc-relay) · [官网](https://cc-relay.ai) · 个人维护
 
 **Go 编写的 LLM API 网关：多密钥池化与跨供应商故障转移**
 

@@ -1,6 +1,6 @@
 # Yuanpeng-Li/runfleet
 
-⭐ 7 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Yuanpeng-Li/runfleet) · [官网](https://yuanpeng-li.github.io/runfleet/) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Yuanpeng-Li/runfleet) · [官网](https://yuanpeng-li.github.io/runfleet/) · 个人维护
 
 **一个终端监控 Slurm 作业与 GPU 机器的工具，基于 SSH**
 

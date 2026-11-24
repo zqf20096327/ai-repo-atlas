@@ -1,6 +1,6 @@
 # kaito-project/kaito
 
-⭐ 1,046 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/kaito-project/kaito) · [官网](https://kaito-project.github.io/kaito/docs/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 Kubernetes 集群中自动化 LLM 推理/微调/RAG 部署的 Operator**
 
@@ -11,7 +11,7 @@ KAITO 是一套 Kubernetes Operator，通过 CRD/controller 模式自动化管�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

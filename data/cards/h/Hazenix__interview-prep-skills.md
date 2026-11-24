@@ -1,6 +1,6 @@
 # Hazenix/interview-prep-skills
 
-⭐ 251 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Hazenix/interview-prep-skills) · 个人维护 · 中文 README
+⭐ 252 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Hazenix/interview-prep-skills) · 个人维护 · 中文 README
 
 **技术面试准备 Agent Skills 集合：简历提炼、出题与模拟面试**
 

@@ -1,6 +1,6 @@
 # mohamedsabith/setupscore
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/mohamedsabith/setupscore) · 个人维护
+⭐ 9 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mohamedsabith/setupscore) · 个人维护
 
 **为 Claude Code 配置文件做体检与基准评测的 CLI 工具**
 

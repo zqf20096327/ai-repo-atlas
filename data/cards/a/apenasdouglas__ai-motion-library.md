@@ -1,6 +1,6 @@
 # apenasdouglas/ai-motion-library
 
-⭐ 82 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/apenasdouglas/ai-motion-library) · [官网](https://apenasdouglas.github.io/ai-motion-library/) · 个人维护
+⭐ 84 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/apenasdouglas/ai-motion-library) · [官网](https://apenasdouglas.github.io/ai-motion-library/) · 个人维护
 
 **面向 Claude Code 的 24 种动画效果提示词库与技能包**
 

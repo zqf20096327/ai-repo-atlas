@@ -1,6 +1,6 @@
 # modelscope/easydistill
 
-⭐ 489 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/modelscope/easydistill) · 组织维护 · 中文 README
+⭐ 490 · Python · Apache-2.0 · 推送 2026-09-25 · [GitHub](https://github.com/modelscope/easydistill) · 组织维护 · 中文 README
 
 **面向 LLM 的配置驱动知识蒸馏工具包：把黑盒教师模型变成训练数据**
 

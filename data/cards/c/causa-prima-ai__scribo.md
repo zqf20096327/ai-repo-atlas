@@ -1,6 +1,6 @@
 # causa-prima-ai/scribo
 
-⭐ 18 · NOASSERTION · 推送 2026-06-03 · [GitHub](https://github.com/causa-prima-ai/scribo) · [官网](https://scribo.causaprima.ai) · 组织维护
+⭐ 18 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/causa-prima-ai/scribo) · [官网](https://scribo.causaprima.ai) · 组织维护
 
 **对话式生成 EN 16931 合规电子发票的免费工具**
 

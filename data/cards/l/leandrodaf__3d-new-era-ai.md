@@ -1,6 +1,6 @@
 # leandrodaf/3d-new-era-ai
 
-⭐ 220 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/leandrodaf/3d-new-era-ai) · [官网](https://3dneweraai.com) · 个人维护
+⭐ 251 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/leandrodaf/3d-new-era-ai) · [官网](https://3dneweraai.com) · 个人维护
 
 **带 MCP 服务器的开源住宅设计与平面图编辑器，让 AI 代你画图布置**
 

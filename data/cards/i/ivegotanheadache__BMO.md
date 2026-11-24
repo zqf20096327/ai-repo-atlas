@@ -1,6 +1,6 @@
 # ivegotanheadache/BMO
 
-⭐ 33 · Python · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/ivegotanheadache/BMO) · 个人维护
+⭐ 32 · Python · NOASSERTION · 推送 2026-02-26 · [GitHub](https://github.com/ivegotanheadache/BMO) · 个人维护
 
 **树莓派 5 上的本地 AI 陪伴机器人：可识别物体并对话**
 

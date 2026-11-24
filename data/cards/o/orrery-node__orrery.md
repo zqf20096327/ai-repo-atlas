@@ -1,6 +1,6 @@
 # orrery-node/orrery
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/orrery-node/orrery) · [官网](https://orrerynode.com) · 组织维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/orrery-node/orrery) · [官网](https://orrerynode.com) · 组织维护
 
 **P2P AI 推理路由器：直连节点用 Solana 按答案付款，零抽成**
 

@@ -1,6 +1,6 @@
 # nightgopher/easyagent
 
-⭐ 4 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nightgopher/easyagent) · 个人维护 · 中文 README
+⭐ 4 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nightgopher/easyagent) · 个人维护 · 中文 README
 
 **Go 编写的个人 AI 编程助手与 Agent 工作台，多端接入**
 

@@ -1,6 +1,6 @@
 # badhope/world-walker
 
-⭐ 21 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/badhope/world-walker) · [官网](https://badhope.github.io/world-walker/) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/badhope/world-walker) · [官网](https://badhope.github.io/world-walker/) · 个人维护 · 中文 README
 
 **给 AI Agent 调用的确定性文字互动游戏规则内核（MCP+CLI+只读面板）**
 

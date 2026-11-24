@@ -1,6 +1,6 @@
 # bisdom-cell/openclaw-model-bridge
 
-⭐ 11 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bisdom-cell/openclaw-model-bridge) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bisdom-cell/openclaw-model-bridge) · 个人维护 · 中文 README
 
 **把多家 LLM 一键接入 OpenClaw 的运行时控制面**
 

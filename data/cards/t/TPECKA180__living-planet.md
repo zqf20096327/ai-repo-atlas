@@ -1,6 +1,6 @@
 # TPECKA180/living-planet
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/TPECKA180/living-planet) · 个人维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/TPECKA180/living-planet) · 个人维护
 
 **本地大模型驱动的国家模拟策略游戏**
 

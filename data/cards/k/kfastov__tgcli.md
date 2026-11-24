@@ -1,6 +1,6 @@
 # kfastov/tgcli
 
-⭐ 45 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/kfastov/tgcli) · 个人维护
+⭐ 46 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/kfastov/tgcli) · 个人维护
 
 **Telegram 个人账号控制台客户端与归档器，带 MCP 服务器**
 

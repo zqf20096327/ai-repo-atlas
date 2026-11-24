@@ -1,6 +1,6 @@
 # AIPMAndy/soskill
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/AIPMAndy/soskill) · 个人维护 · 中文 README
+⭐ 13 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AIPMAndy/soskill) · 个人维护 · 中文 README
 
 **OpenClaw Skill 搜索与推荐工具：按查询匹配开源 Skill**
 

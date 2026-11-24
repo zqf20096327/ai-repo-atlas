@@ -1,6 +1,6 @@
 # fuxiaoai/tidings-rss
 
-⭐ 675 · Python · CC0-1.0 · 推送 2026-11-03 · [GitHub](https://github.com/fuxiaoai/tidings-rss) · [官网](https://tidings.info/) · 组织维护 · 中文 README
+⭐ 676 · Python · CC0-1.0 · 推送 2026-11-03 · [GitHub](https://github.com/fuxiaoai/tidings-rss) · [官网](https://tidings.info/) · 组织维护 · 中文 README
 
 **经持续验证的 AI/科研/新闻等 RSS 订阅 OPML 合集（718 源）**
 

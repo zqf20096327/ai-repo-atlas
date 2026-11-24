@@ -1,6 +1,6 @@
 # CipherNoct/douyin-cli
 
-⭐ 309 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/CipherNoct/douyin-cli) · 个人维护 · 中文 README
+⭐ 310 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/CipherNoct/douyin-cli) · 个人维护 · 中文 README
 
 **给抖音账号运营者的评论管理 CLI：抓评论并用 AI 生成回复**
 

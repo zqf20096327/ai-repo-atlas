@@ -1,6 +1,6 @@
 # sgl-project/sglang
 
-⭐ 38,937 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sgl-project/sglang) · [官网](https://sglang.io) · 组织维护
+⭐ 38,990 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/sgl-project/sglang) · [官网](https://sglang.io) · 组织维护
 
 **面向 LLM/多模态模型的推理服务框架**
 

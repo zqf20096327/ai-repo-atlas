@@ -1,6 +1,6 @@
 # ZeroLu/awesome-openclaw
 
-⭐ 77 · 推送 2026-03-10 · [GitHub](https://github.com/ZeroLu/awesome-openclaw) · 个人维护 · 中文 README
+⭐ 78 · 推送 2026-03-10 · [GitHub](https://github.com/ZeroLu/awesome-openclaw) · 个人维护 · 中文 README
 
 **OpenClaw 教程、技能与用例的策展清单**
 

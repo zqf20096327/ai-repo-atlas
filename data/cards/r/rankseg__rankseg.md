@@ -1,6 +1,6 @@
 # rankseg/rankseg
 
-⭐ 74 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/rankseg/rankseg) · [官网](https://rankseg.readthedocs.io/) · 组织维护 · 中文 README
+⭐ 74 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/rankseg/rankseg) · [官网](https://rankseg.readthedocs.io/) · 组织维护 · 中文 README
 
 **免重训的分割后处理库：以 Dice/IoU 为目标的解码替换 argmax**
 

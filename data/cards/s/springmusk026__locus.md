@@ -1,6 +1,6 @@
 # springmusk026/locus
 
-⭐ 11 · Kotlin · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/springmusk026/locus) · 个人维护
+⭐ 13 · Kotlin · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/springmusk026/locus) · 个人维护
 
 **本地优先的 Android AI Agent，自带模型与工具执行环境**
 

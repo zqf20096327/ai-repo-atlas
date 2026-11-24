@@ -1,6 +1,6 @@
 # hifly81/bikescout
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/hifly81/bikescout) · [官网](https://hifly81.github.io/bikescout/) · 个人维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hifly81/bikescout) · [官网](https://hifly81.github.io/bikescout/) · 个人维护
 
 **面向骑行者的 MCP 骑行路线规划与地形分析工具服务**
 

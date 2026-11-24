@@ -1,6 +1,6 @@
 # HaraldBregu/kucedr
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HaraldBregu/kucedr) · [官网](https://kucedr.com) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HaraldBregu/kucedr) · [官网](https://kucedr.com) · 个人维护
 
 **跨平台桌面个人 AI 助手：对话驱动文件、研究与媒体创作**
 

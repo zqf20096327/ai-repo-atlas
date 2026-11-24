@@ -1,10 +1,10 @@
 # tianma-if/edgeever
 
-⭐ 3,495 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/tianma-if/edgeever) · [官网](https://edgeever.org) · 个人维护 · 中文 README
+⭐ 3,524 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/tianma-if/edgeever) · [官网](https://edgeever.org) · 个人维护 · 中文 README
 
-**开源笔记与知识库应用：三栏工作流+AI Agent+多端同步**
+**开源自托管笔记与知识库工作区，支持多端同步与 AI 助手**
 
-开源笔记与知识库工作区，保留树视图·笔记列表·编辑器的三栏布局，支持富文本/Markdown 双模式编辑、无限层级目录、全文检索、多模态笔记（表格/思维导图/Mermaid 图/海报）与 20+ 平台网页剪藏。AI 侧提供侧边栏助手（BYOK 接入 OpenAI/Anthropic/Gemini 等）、内置 MCP 与 ACP 协议、音视频转写。可免费部署于 Cloudflare 免费额度，或用 Docker 自托管于 VPS/NAS；提供 macOS/Windows/Linux/iOS/Android 客户端与浏览器剪藏扩展。
+三栏布局（目录树·笔记列表·编辑器）的开源笔记与知识库应用，支持富文本/Markdown 双模式编辑、思维导图、Mermaid 图表、AI 生成信息卡与多维表格，提供浏览器剪藏插件与 20+ 平台结构化解析，支持 Evernote/Obsidian/Notion 等迁移导入，可发布为静态知识库站点。部署路径为 Cloudflare 免费额度（Serverless）或 Docker 自托管；AI 部分采用 BYOK，兼容 OpenAI/Anthropic/Gemini 及自定义端点，内置远程 MCP 与桌面 ACP 协议。提供 Web/macOS/Windows/Linux/iOS/Android 客户端。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- Cloudflare 免费额度零服务器部署，或 Docker 自托管
-- 三栏工作流+富文本/Markdown 双模式编辑+毫秒级全文检索
-- 原生 MCP 与 ACP 协议，可驱动本地 Agent（Codex/Claude Code 等）
-- Evernote/Obsidian/Notion/SiYuan/flomo/Joplin 一键迁移导入
+- Cloudflare 免费额度零服务器部署或 Docker 一键自托管
+- 内置远程 MCP 与桌面 ACP，可驱动 Codex/Claude Code 等本地 agent
+- AI BYOK 兼容 OpenAI、Anthropic、Gemini 及自定义端点
+- 20+ 平台深度剪藏解析与 Evernote/Obsidian/Notion 一键迁移
 
 ## 适用场景
 
-- 多设备即时同步的个人知识库
-- 网页内容剪藏与微信聊天记录归档到笔记
-- 通过对话生成思维导图/架构图/信息图
-- 把笔记本一键发布为静态知识库网站
+- 在 Cloudflare 免费额度上自托管多设备云同步笔记
+- 用浏览器插件从知乎/小红书/X 等平台剪藏文章到自建实例
+- 用 AI 助手对话生成思维导图、图表与信息卡
+- 从 Evernote/Obsidian/Joplin 迁移笔记并保留层级与附件
 
 ## 场景标签
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d7f3cf330899` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `32edbc4e6c71` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # Simon-He95/markstream-vue
 
-⭐ 3,058 · Vue · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Simon-He95/markstream-vue) · [官网](https://markstream.simonhe.me) · 个人维护 · 中文 README
+⭐ 3,058 · Vue · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Simon-He95/markstream-vue) · [官网](https://markstream.simonhe.me) · 个人维护 · 中文 README
 
-**为 AI 聊天应用提供的多框架流式 Markdown 渲染组件库**
+**为 AI 聊天应用提供流式 Markdown 渲染组件**
 
-面向 AI 聊天场景的流式 Markdown 渲染器家族，本仓库为 Vue 3 / Nuxt / VitePress 版本，同系列另有 React、SolidJS、Svelte、Angular、Octane、Vue 2 包。支持 LLM token 流与 SSE/WebSocket 输出下的不完整 Markdown 渲染，提供虚拟窗口与增量批处理两种渲染模式、渐进式 Mermaid 图、KaTeX 数学、流式代码块、SSR 导入、安全 HTML 策略（htmlPolicy="escape"）。通过 npm/pnpm 安装，可选 peer 依赖 stream-diffs、mermaid、katex。
+面向 Vue/React/SolidJS/Svelte/Angular 等多框架的流式 Markdown 渲染组件库，用于 AI 聊天场景中逐 token 到达的不完整 Markdown 文本渲染，支持 SSE/WebSocket 输入、流式代码块、Mermaid 渐进图表、KaTeX 公式、虚拟滚动长文档、SSR 与安全 HTML 策略。以 npm 包家族形式分发（markstream-vue/react/solid 等），本仓库为 Vue/Nuxt/VitePress 版本，提供各框架在线 playground。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 支持不完整 Markdown 的流式渲染，面向 SSE/WebSocket token 流
-- 虚拟窗口与增量批处理两种渲染模式，覆盖长文档与打字效果
-- 支持 Mermaid 渐进式图、KaTeX、流式代码块（可选 stream-diffs）
-- 提供 SSR 导入（Vite/Nuxt/VitePress）与移动端 WebView 渲染支持
+- 多框架组件包家族：Vue3/Vue2、React、Octane、SolidJS、Svelte、Angular
+- 两种渲染模式：虚拟窗口（长文档）与增量批处理（打字机效果）
+- Mermaid 渐进图表、KaTeX、stream-diffs 增强代码块（可选 peer 依赖）
+- SSR 导入、安全 HTML 策略（htmlPolicy=escape）与移动端 px 样式
 
 ## 适用场景
 
-- 在 Vue/Nuxt 应用中搭建 AI 聊天界面并渲染流式回复
-- 在文档站或 VitePress 主题中集成流式 Markdown 渲染
-- 渲染含代码 diff、数学公式、图表的长 AI 回复
-- 渲染不可信用户内容时启用 HTML 转义策略
+- 在 AI 聊天 UI 中渲染 LLM 流式返回的不完整 Markdown
+- 在 VitePress/文档站点中集成流式内容渲染
+- 渲染包含代码 diff、图表与公式的长 AI 回复
 
 ## 场景标签
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `621d2a235a4d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4b061fb3d17b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # amrzv/awesome-colab-notebooks
 
-⭐ 1,673 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/amrzv/awesome-colab-notebooks) · 个人维护
+⭐ 1,681 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/amrzv/awesome-colab-notebooks) · 个人维护
 
 **面向 ML 学习者的 Google Colab 笔记本清单，一键打开即跑**
 

@@ -1,6 +1,6 @@
 # figurehead-ai/AI-juggler
 
-⭐ 8 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/figurehead-ai/AI-juggler) · [官网](https://figurehead.ai/ai-juggler) · 个人维护
+⭐ 8 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/figurehead-ai/AI-juggler) · [官网](https://figurehead.ai/ai-juggler) · 个人维护
 
 **为 macOS 开发者集中管理多个 AI 编码工具会话与账号额度的桌面应用**
 

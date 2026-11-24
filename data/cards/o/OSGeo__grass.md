@@ -1,6 +1,6 @@
 # OSGeo/grass
 
-⭐ 1,192 · C · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/OSGeo/grass) · [官网](https://grass.osgeo.org) · 组织维护
+⭐ 1,194 · C · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/OSGeo/grass) · [官网](https://grass.osgeo.org) · 组织维护
 
 **开源地理空间处理引擎：栅格/矢量分析与GIS桌面及地理处理**
 

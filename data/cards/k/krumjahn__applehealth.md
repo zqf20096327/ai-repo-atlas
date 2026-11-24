@@ -1,6 +1,6 @@
 # krumjahn/applehealth
 
-⭐ 471 · Python · 推送 2026-11-11 · [GitHub](https://github.com/krumjahn/applehealth) · [官网](https://applehealthdata.com) · 个人维护
+⭐ 470 · Python · 推送 2026-11-11 · [GitHub](https://github.com/krumjahn/applehealth) · [官网](https://applehealthdata.com) · 个人维护
 
 **与 Apple Health 导出数据对话的终端 AI 分析器**
 

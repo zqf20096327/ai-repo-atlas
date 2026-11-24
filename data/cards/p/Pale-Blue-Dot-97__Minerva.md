@@ -1,6 +1,6 @@
 # Pale-Blue-Dot-97/Minerva
 
-⭐ 22 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Pale-Blue-Dot-97/Minerva) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Pale-Blue-Dot-97/Minerva) · 个人维护
 
 **辅助构建、训练与测试多光谱地理空间神经网络模型的 Python 包**
 

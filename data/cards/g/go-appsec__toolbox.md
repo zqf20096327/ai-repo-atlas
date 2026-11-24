@@ -1,6 +1,6 @@
 # go-appsec/toolbox
 
-⭐ 43 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/go-appsec/toolbox) · 组织维护
+⭐ 43 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/go-appsec/toolbox) · 组织维护
 
 **人机协作应用安全测试工具集：CLI 与 MCP 服务器加内置代理**
 

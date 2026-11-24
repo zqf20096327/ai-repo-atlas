@@ -1,6 +1,6 @@
 # pylint-dev/astroid
 
-⭐ 590 · Python · LGPL-2.1 · 推送 2026-11-21 · [GitHub](https://github.com/pylint-dev/astroid) · [官网](https://pylint.readthedocs.io/projects/astroid/en/latest/) · 组织维护
+⭐ 590 · Python · LGPL-2.1 · 推送 2026-11-23 · [GitHub](https://github.com/pylint-dev/astroid) · [官网](https://pylint.readthedocs.io/projects/astroid/en/latest/) · 组织维护
 
 **Python 源码通用 AST 表示库，pylint 的底层引擎**
 

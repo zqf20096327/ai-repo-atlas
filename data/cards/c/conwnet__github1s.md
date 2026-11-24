@@ -1,6 +1,6 @@
 # conwnet/github1s
 
-⭐ 23,307 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/conwnet/github1s) · [官网](https://github1s.com) · 组织维护
+⭐ 23,310 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/conwnet/github1s) · [官网](https://github1s.com) · 组织维护
 
 **浏览器中秒开 GitHub 仓库的 VS Code 代码阅读器**
 

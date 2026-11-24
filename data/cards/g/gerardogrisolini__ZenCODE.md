@@ -1,6 +1,6 @@
 # gerardogrisolini/ZenCODE
 
-⭐ 13 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/gerardogrisolini/ZenCODE) · [官网](https://github.com/gerardogrisolini/ZenCODE/blob/main/Docs/why-zen.md) · 个人维护
+⭐ 14 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/gerardogrisolini/ZenCODE) · [官网](https://github.com/gerardogrisolini/ZenCODE/blob/main/Docs/why-zen.md) · 个人维护
 
 **终端与 ACP 客户端的原生 Swift 编码 agent，单二进制运行**
 

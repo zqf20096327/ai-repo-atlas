@@ -1,6 +1,6 @@
 # condrdev/condr
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/condrdev/condr) · [官网](https://condr.dev) · 个人维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/condrdev/condr) · [官网](https://condr.dev) · 个人维护
 
 **统一窗口运行与管理多个 AI 编码 agent 的应用**
 

@@ -1,6 +1,6 @@
 # grobidOrg/grobid
 
-⭐ 5,239 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/grobidOrg/grobid) · [官网](https://grobid.readthedocs.io) · 组织维护
+⭐ 5,240 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/grobidOrg/grobid) · [官网](https://grobid.readthedocs.io) · 组织维护
 
 **从学术 PDF 抽取结构化文献信息的机器学习库**
 

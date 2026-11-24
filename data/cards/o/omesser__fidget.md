@@ -1,6 +1,6 @@
 # omesser/fidget
 
-⭐ 11 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/omesser/fidget) · [官网](https://omesser.github.io/fidget/) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/omesser/fidget) · [官网](https://omesser.github.io/fidget/) · 个人维护
 
 **桌面宠物应用：可挂接已有 AI harness 协助工作**
 

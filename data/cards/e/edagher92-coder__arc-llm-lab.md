@@ -1,6 +1,6 @@
 # edagher92-coder/arc-llm-lab
 
-⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/edagher92-coder/arc-llm-lab) · [官网](https://edagher92-coder.github.io/arc-llm-lab/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/edagher92-coder/arc-llm-lab) · [官网](https://edagher92-coder.github.io/arc-llm-lab/) · 个人维护
 
 **Intel Arc 显卡上跑 Qwen 27B 的调优与评测栈：基准、调参、可靠性评估**
 

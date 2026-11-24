@@ -1,6 +1,6 @@
 # silaorg/sila
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/silaorg/sila) · [官网](https://silain.com) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/silaorg/sila) · [官网](https://silain.com) · 组织维护
 
 **本地优先的可自拥有 AI 聊天助手桌面应用**
 

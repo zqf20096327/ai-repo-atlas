@@ -1,6 +1,6 @@
 # HankHuang0516/EClaw
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HankHuang0516/EClaw) · [官网](https://github.com/HankHuang0516/realbot/releases/latest) · 个人维护
+⭐ 13 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HankHuang0516/EClaw) · [官网](https://github.com/HankHuang0516/realbot/releases/latest) · 个人维护
 
 **AI agent 间 A2A 通信平台，含 Android 电子宠物壁纸**
 

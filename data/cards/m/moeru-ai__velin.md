@@ -1,6 +1,6 @@
 # moeru-ai/velin
 
-⭐ 79 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/moeru-ai/velin) · [官网](https://velin.dev) · 组织维护
+⭐ 79 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/moeru-ai/velin) · [官网](https://velin.dev) · 组织维护
 
 **用 Vue/React 组件开发与编排 LLM 提示词的库**
 

@@ -1,6 +1,6 @@
 # RedRayz/Kohya_lora_param_gui
 
-⭐ 179 · C# · MIT · 推送 2026-10-28 · [GitHub](https://github.com/RedRayz/Kohya_lora_param_gui) · 个人维护
+⭐ 179 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RedRayz/Kohya_lora_param_gui) · 个人维护
 
 **Windows 桌面 GUI：为 kohya sd-scripts 设定 LoRA 训练参数**
 

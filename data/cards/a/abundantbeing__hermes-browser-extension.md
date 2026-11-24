@@ -1,10 +1,10 @@
 # abundantbeing/hermes-browser-extension
 
-⭐ 1,871 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/abundantbeing/hermes-browser-extension) · 个人维护
+⭐ 1,879 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/abundantbeing/hermes-browser-extension) · 个人维护
 
-**为 Hermes Agent 提供浏览器侧栏客户端：接入本地/云/远程网关**
+**连接本地 Hermes Agent 的浏览器侧边栏扩展客户端**
 
-面向 Hermes Agent（Nous Research）用户的社区浏览器扩展，在 Chromium 侧栏或 Firefox 侧边栏中提供聊天与页面上下文接入。支持三种连接：本地网关、Hermes Cloud、自托管远程 API/dashboard；可复用 Hermes 已配置的模型、工具、会话、记忆与 MCP 服务器。Hermes Control 功能支持代理操作标签页（点击、输入、滚动），Chromium 上完整，Firefox 上受限（无 debugger API，仅可读取/打开/切换标签页）。页面上下文共享默认关闭，需逐连接显式批准。需 Node.js 20+ 从源码构建 Chromium 版本，Firefox 版经 Mozilla Add-ons 分发。
+为 Nous Research 的 Hermes Agent 提供的 Chromium/Firefox 浏览器扩展，以侧边栏形式接入本地网关、Hermes Cloud 或自托管远程网关。核心机制：读取当前网页上下文并发送给已配置的 Hermes 运行时，复用其模型、工具、技能、会话与 MCP 服务器；Hermes Control（可选择性授权 Hermes 操作标签页）在 Chromium 上完整、Firefox 上受限（无点击/键入）。含 Bot Mode 多 agent 群聊、文件附件、标签页截图、主题外观等。依赖已安装并配置 API_SERVER_KEY 的 Hermes Agent。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 三通道连接：本地网关、Hermes Cloud、自托管远程 API/dashboard
-- Hermes Control 代理操作标签页（点击/输入/导航），风险动作需审批
-- Bot Mode 多 Agent 群聊、实时会话跟进（Steer/Queue/Stop）
-- 页面上下文共享需逐连接显式批准，截图不自动采集
+- 支持本地网关、Hermes Cloud、自托管远程三种连接方式
+- Hermes Control 授权 agent 读取/操作标签页，Chromium 完整、Firefox 受限
+- Bot Mode 支持多 agent 群聊与 agent 配置编辑
+- 每次操作需用户审批，敏感页面与字段保持阻断
 
 ## 适用场景
 
-- 在浏览器侧栏直接与本地运行的 Hermes Agent 对话
-- 让 Hermes 代理操作当前标签页完成任务
-- 多 Agent 群聊中向多个配置好的 agent 同时提问
+- 在浏览器侧边栏直接与本地 Hermes agent 对话并传入当前页面上下文
+- 让 Hermes 在授权的标签页内点击、输入、导航完成任务
+- 多个 Hermes agent 在同一房间进行群聊讨论
 
 ## 场景标签
 
-`聊天机器人` `浏览器自动化` `多智能体` · 领域:Agent 开发
+`多智能体` `浏览器自动化` `聊天机器人` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L3: Browser-native side panel for Hermes Agent — connect active web context through a local gateway, Hermes Cloud, or a 
 > L31: Hermes Browser Extension is not a browser chatbot. It is a Chromium side panel or Firefox sidebar for the real Herm
-> L67: - Chrome, Edge, Brave, Comet, or another Chromium browser with Side Panel API support (Chrome 116+), or Firefox 142
-> L68: - Node.js 20+ to build the Chromium extension from source. `npm run build:firefox` is for local/dev Firefox builds 
+> L66: - Hermes Agent installed and working, with its API server key set (`API_SERVER_KEY`, 16 or more characters). Hermes
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e44e7163d634` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b0e769367193` · [字段定义](../../DATASET.md)*

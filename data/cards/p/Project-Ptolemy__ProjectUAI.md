@@ -1,6 +1,6 @@
 # Project-Ptolemy/ProjectUAI
 
-⭐ 40 · Lua · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Project-Ptolemy/ProjectUAI) · [官网](https://project-ptolemy.github.io/ProjectUAI/) · 组织维护
+⭐ 41 · Lua · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Project-Ptolemy/ProjectUAI) · [官网](https://project-ptolemy.github.io/ProjectUAI/) · 组织维护
 
 **在 Roblox 客户端内运行的通用 AI agent，Claude Code 式 agent 循环**
 

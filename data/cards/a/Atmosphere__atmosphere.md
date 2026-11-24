@@ -1,10 +1,10 @@
 # Atmosphere/atmosphere
 
-⭐ 3,837 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Atmosphere/atmosphere) · [官网](https://async-io.live) · 组织维护
+⭐ 3,837 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Atmosphere/atmosphere) · [官网](https://async-io.live) · 组织维护
 
-**JVM 上 AI Agent 的实时运行时框架：一套 @Agent 接多种运行时**
+**JVM 上的 AI Agent 实时运行框架：一个 @Agent 跨多种 AI 框架运行**
 
-面向 JVM 的实时事件驱动 Agent 框架，定位为运行时原语而非托管平台，宿主（Tomcat/Quarkus/Spring Boot 等）负责计算与调度。一个 @Agent 注解声明 agent，通过 AgentRuntime SPI 接 12 个运行时适配器（Spring AI、LangChain4j、Anthropic、Cohere、Google ADK 等），经 WebSocket/SSE/gRPC 流式输出，并暴露 MCP、A2A、AG-UI 端点。内置记忆、计划、虚拟文件系统、子 agent 委派的 harness，提供策略准入、HITL 审批、成本上限、PII 改写与 lineage 观测。安装走 brew/curl CLI 或 Maven/npm。
+面向 JVM 团队的实时事件驱动 Agent 框架（自述非托管平台）：以 @Agent 注解声明深度 Agent（默认含记忆、计划工具、虚拟文件系统、子 Agent 委派），通过 AgentRuntime SPI 提供内建 OpenAI 兼容适配器及 Spring AI、LangChain4j、Anthropic、Cohere 等 12 个适配器。令牌流经可过滤、门控与观察的广播器，支持 WebSocket、SSE、long-polling、gRPC（WebTransport/HTTP3 可选），对外暴露 MCP、A2A、AG-UI 及 Slack/Telegram 等通道，并含策略准入、HITL 审批、成本上限、PII 改写与血缘记录等治理能力。宿主容器由用户选择（Tomcat、Spring Boot、Quarkus 等），计算与调度不在框架范围内。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- AgentRuntime SPI 带 12 个可互换运行时适配器，能力由契约测试固定
-- WebSocket/SSE/long-polling/gRPC 统一广播管道，可选 WebTransport/HTTP-3
-- MCP、A2A、AG-UI 端点与 Slack/Telegram/Discord 等频道适配器
-- 治理机制：策略准入、持久化 HITL 审批、成本上限、PII 改写、admin kill switch
+- 一个 @Agent 类通过 12 个运行时适配器（含合同测试锁定能力矩阵）跨框架运行
+- WebSocket/SSE/long-polling/gRPC 默认实时传输，WebTransport/HTTP3 可选
+- 治理能力：策略准入、持久化 HITL 审批、成本上限、PII 改写、管理员终止开关
+- 对外暴露 MCP、A2A、AG-UI 协议及 Slack/Telegram/Discord/WhatsApp/Messenger 通道
 
 ## 适用场景
 
-- 在既有 JVM/Spring 技术栈里运行带治理与人工审批的 agent
-- 同一 agent 代码在多个 AI 框架适配器间切换而无需改端点
-- 把 agent 通过 MCP/A2A/AG-UI 暴露给多客户端与消息渠道
-- 需要重连、断点恢复与回放的长时 agent 会话
+- 在现有 Spring Boot/Quarkus 等 JVM 技术栈中接入有状态流式 Agent
+- 构建需要人工审批与治理的多通道（网页/Slack/Telegram 等）Agent 服务
+- 同一 Agent 代码在不同 AI 框架适配器之间切换运行
+- 需要会话恢复、重放与血缘审计的长时 Agent 运行
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L5:  The real-time engine for AI agents on the JVM. Tokens flow from the LLM runtime to the client through a broadcaster
-> L20: |Swap AI integrations|One `AgentRuntime` SPI with twelve runtime adapters and contract-tested capability flags|
-> L130: `atmosphere-ai` ships the `AgentRuntime` SPI plus the Built-in OpenAI-compatible adapter. Eleven additional adapte
+> L35: |Runtime dispatch|`atmosphere-ai` `AgentRuntime` SPI + 12 adapters with contract-tested capability flags|Model host
+> L123: |Runtime adapter|The Atmosphere integration that implements `AgentRuntime`|Built-in, Spring AI, LangChain4j, Googl
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c905ffed2920` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `44ace9cb460b` · [字段定义](../../DATASET.md)*

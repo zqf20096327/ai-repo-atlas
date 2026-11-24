@@ -1,6 +1,6 @@
 # joexk1/JoeBro
 
-⭐ 96 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/joexk1/JoeBro) · [官网](https://joebro.pages.dev) · 个人维护
+⭐ 98 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/joexk1/JoeBro) · [官网](https://joebro.pages.dev) · 个人维护
 
 **给个人用户的本地优先 macOS AI 工作区应用**
 

@@ -1,10 +1,10 @@
 # stenolabs/stenoai
 
-⭐ 1,394 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/stenolabs/stenoai) · [官网](https://stenoai.co/) · 组织维护
+⭐ 1,395 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/stenolabs/stenoai) · [官网](https://stenoai.co/) · 组织维护
 
-**面向机密会议的本地 AI 记事本与会议记录工具**
+**政府/国防场景的本地 AI 会议记事本，录音转写摘要**
 
-隐私优先的桌面端 AI 会议记事本，默认在本机完成录音转写、摘要与问答：实时转写用 Parakeet TDT v3（Apple Silicon/MLX），录音结束后 Whisper 支持最多 99 种语言；摘要与聊天经 Ollama 运行 Gemma、Qwen、gpt-oss 等本地模型。提供说话人分离、自动检测会议、系统音频采集、Markdown 导出与报告模板。云模型（OpenAI/Anthropic/Bedrock/自定义端点）与云转写为可选并需确认。Windows 处于 alpha，macOS 需 Apple Silicon 与 macOS 14.4+。
+面向机密会话的隐私优先 AI 记事本，默认在设备上用本地模型完成录音、实时转写、说话人分离与摘要问答，外部云提供商可选启用。功能涵盖自动检测会议启停、系统音频捕获、25 种语言实时转写（Apple Silicon 经 MLX）、MCP 服务器向 Claude/Cursor 等只读开放笔记、Linear/Notion 等待批准的后续动作、Markdown 导出与 Obsidian 同步。提供 macOS 安装包，Windows 处于 alpha，Linux 受支持。
 
 ## 筛选速览
 
@@ -16,31 +16,30 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 默认本地 AI：录音、转写、摘要、问答均在设备上处理
-- Parakeet 实时转写 25 种欧洲语言，Whisper 支持总计 99 种语言
-- /steno agent 技能让 Claude Code/Codex 读取本地笔记并跨会议问答
-- 可选云模型：OpenAI、Anthropic、AWS Bedrock 或自定义端点
+- 本地 AI 默认处理录音/转写/摘要，外部提供商可选
+- Parakeet TDT v3 实时转写 25 种语言（Apple Silicon/MLX），Whisper 支持 99 种语言
+- 内置 MCP 服务器与 steno 技能，向 Claude、Cursor 等只读开放会议笔记
+- 连接 Linear/Notion/Jira 并经用户批准后执行后续动作
 
 ## 适用场景
 
-- 政府与国防等场景下对机密会议做本地转写与摘要
-- 自动检测会议开始并录制、生成会议纪要
-- 通过提问检索和汇总跨多次会议的笔记与行动项
-- 从 Granola 迁移并同步既有会议笔记
+- 政府/国防等机密会议的离线录音与纪要生成
+- 会议中实时查看带说话人标注的转写文本
+- 让 AI agent 读取本地笔记回答跨会议问题、起草文档
 
 ## 场景标签
 
-`知识库管理` `语音识别` · 领域:知识与检索
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L15:  StenographAI is a privacy-first AI notepad for confidential conversations. Record, summarise, and query meetings w
 > L42: - **Privacy-first**: local AI processes your recordings, transcripts, and summaries on your device. External AI pro
-> L165: - `Parakeet TDT v3` (572 MB): Highest quality, supports live transcription, 25 European languages (English, Spanis
+> L64: - **Bring your own cloud model** — Optional OpenRouter, OpenAI, Anthropic, AWS Bedrock (Claude — including applicat
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e51242b2ee44` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2e0624562f78` · [字段定义](../../DATASET.md)*

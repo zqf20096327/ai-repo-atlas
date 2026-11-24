@@ -1,6 +1,6 @@
 # airiclenz/apogee
 
-⭐ 12 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/airiclenz/apogee) · [官网](https://airiclenz.com) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/airiclenz/apogee) · [官网](https://airiclenz.com) · 个人维护
 
 **面向本地 LLM 的终端 AI 编码 agent，Go 单二进制**
 

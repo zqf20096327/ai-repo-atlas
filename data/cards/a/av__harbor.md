@@ -1,6 +1,6 @@
 # av/harbor
 
-⭐ 3,281 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/av/harbor) · [官网](https://discord.gg/8nDRphrhSF) · 个人维护
+⭐ 3,282 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/av/harbor) · [官网](https://discord.gg/8nDRphrhSF) · 个人维护
 
 **一条命令拉起本地 LLM 全栈的 CLI 与配套应用**
 

@@ -1,6 +1,6 @@
 # l1ve709/NeuroPace-RDNA
 
-⭐ 15 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/l1ve709/NeuroPace-RDNA) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/l1ve709/NeuroPace-RDNA) · 个人维护
 
 **面向 AMD RDNA 显卡的预测性延迟管理工具，缓解游戏卡顿**
 

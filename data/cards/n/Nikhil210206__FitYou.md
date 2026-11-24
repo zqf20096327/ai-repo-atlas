@@ -1,6 +1,6 @@
 # Nikhil210206/FitYou
 
-⭐ 18 · HTML · 推送 2026-07-02 · [GitHub](https://github.com/Nikhil210206/FitYou) · [官网](https://fit-you-six.vercel.app/) · 个人维护
+⭐ 19 · HTML · 推送 2026-07-02 · [GitHub](https://github.com/Nikhil210206/FitYou) · [官网](https://fit-you-six.vercel.app/) · 个人维护
 
 **面向健身用户的 AI 个性化训练与饮食计划网站**
 

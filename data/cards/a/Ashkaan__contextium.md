@@ -1,6 +1,6 @@
 # Ashkaan/contextium
 
-⭐ 37 · TypeScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Ashkaan/contextium) · [官网](https://contextium.ai) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Ashkaan/contextium) · [官网](https://contextium.ai) · 个人维护
 
 **为 AI 编码工具提供持久化上下文与工作流的开源工作台框架**
 

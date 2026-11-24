@@ -1,6 +1,6 @@
 # patriciomartinns/pdf-toolbox
 
-⭐ 11 · Python · MIT · 推送 2025-11-27 · [GitHub](https://github.com/patriciomartinns/pdf-toolbox) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **将本地 PDF 通过 MCP 服务器或 CLI 暴露给 AI agent，含语义检索**
 
@@ -11,7 +11,7 @@ Python 工具：以 FastMCP/STDIO 服务器形式向 Cursor、VS Code、Claude �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

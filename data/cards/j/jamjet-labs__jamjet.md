@@ -1,6 +1,6 @@
 # jamjet-labs/jamjet
 
-⭐ 24 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jamjet-labs/jamjet) · [官网](https://jamjet.dev) · 组织维护
+⭐ 24 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/jamjet-labs/jamjet) · [官网](https://jamjet.dev) · 组织维护
 
 **AI agent 运行时安全层：拦截危险工具调用、审批、预算与审计**
 

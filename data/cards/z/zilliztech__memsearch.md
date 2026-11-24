@@ -1,6 +1,6 @@
 # zilliztech/memsearch
 
-⭐ 2,922 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zilliztech/memsearch) · [官网](https://zilliztech.github.io/memsearch/) · 组织维护
+⭐ 2,930 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/zilliztech/memsearch) · [官网](https://zilliztech.github.io/memsearch/) · 组织维护
 
 **为 AI 编码 agent 提供跨平台持久化记忆层**
 

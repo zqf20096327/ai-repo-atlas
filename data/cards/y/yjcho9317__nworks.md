@@ -1,6 +1,6 @@
 # yjcho9317/nworks
 
-⭐ 29 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/yjcho9317/nworks) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/yjcho9317/nworks) · 个人维护 · 中文 README
 
 **LINE WORKS 的 MCP 服务器与 CLI，供 AI 代理操作办公套件**
 

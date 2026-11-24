@@ -1,6 +1,6 @@
 # wufufu770/d2d
 
-⭐ 15 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wufufu770/d2d) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/wufufu770/d2d) · 个人维护 · 中文 README
 
 **授权渗透测试的三环并行多 agent 框架（dsh 插件）**
 

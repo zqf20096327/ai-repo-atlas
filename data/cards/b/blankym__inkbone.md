@@ -1,6 +1,6 @@
 # blankym/inkbone
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/blankym/inkbone) · [官网](https://blankym.github.io/inkbone/) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/blankym/inkbone) · [官网](https://blankym.github.io/inkbone/) · 个人维护 · 中文 README
 
 **中文长篇小说写作的 AI 配套质检与账本工具集**
 

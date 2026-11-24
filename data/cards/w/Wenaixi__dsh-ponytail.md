@@ -1,6 +1,6 @@
 # Wenaixi/dsh-ponytail
 
-⭐ 50 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Wenaixi/dsh-ponytail) · [官网](https://www.npmjs.com/package/@wenaixi/dsh-ponytail) · 个人维护 · 中文 README
+⭐ 51 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Wenaixi/dsh-ponytail) · [官网](https://www.npmjs.com/package/@wenaixi/dsh-ponytail) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：注入懒人 senior 模式与七阶梯提示词**
 

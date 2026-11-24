@@ -1,6 +1,6 @@
 # oreki-L/majsoul-ai-analysis-and-review-agent
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/oreki-L/majsoul-ai-analysis-and-review-agent) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oreki-L/majsoul-ai-analysis-and-review-agent) · 个人维护 · 中文 README
 
 **雀魂玩家浏览器扩展：用自配 LLM 讲解每手牌的取舍**
 

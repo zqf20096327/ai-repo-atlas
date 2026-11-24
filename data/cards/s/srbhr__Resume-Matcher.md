@@ -1,6 +1,6 @@
 # srbhr/Resume-Matcher
 
-⭐ 29,381 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/srbhr/Resume-Matcher) · [官网](https://resumematcher.fyi/) · 组织维护 · 中文 README
+⭐ 29,399 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/srbhr/Resume-Matcher) · [官网](https://resumematcher.fyi/) · 组织维护 · 中文 README
 
 **面向求职者的本地自托管 AI 简历定制与简历构建工具**
 

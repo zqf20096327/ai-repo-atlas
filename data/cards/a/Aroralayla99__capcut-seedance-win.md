@@ -1,6 +1,6 @@
 # Aroralayla99/capcut-seedance-win
 
-⭐ 339 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Aroralayla99/capcut-seedance-win) · [官网](https://aroralayla99.github.io/capcut-seedance-win/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 Windows 用户的 CapCut Seedance 文生视频安装与使用指南**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

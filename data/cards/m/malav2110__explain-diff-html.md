@@ -1,6 +1,6 @@
 # malav2110/explain-diff-html
 
-⭐ 20 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/malav2110/explain-diff-html) · [官网](https://malav2110.github.io/explain-diff-html/) · 个人维护
+⭐ 20 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/malav2110/explain-diff-html) · [官网](https://malav2110.github.io/explain-diff-html/) · 个人维护
 
 **把 PR/代码 diff 生成为讲解逻辑流程的单页 HTML 的 agent 技能**
 

@@ -1,6 +1,6 @@
 # microsoft/FrogNano
 
-⭐ 29 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/FrogNano) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/FrogNano) · 组织维护
 
 **4B 编码智能体的运行框架与评测工具，跑在 Kubernetes 沙箱**
 

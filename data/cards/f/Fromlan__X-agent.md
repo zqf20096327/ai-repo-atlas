@@ -1,6 +1,6 @@
 # Fromlan/X-agent
 
-⭐ 28 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Fromlan/X-agent) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Fromlan/X-agent) · 个人维护 · 中文 README
 
 **面向 Godot 4 开发者的桌面 AI 编程助手客户端**
 

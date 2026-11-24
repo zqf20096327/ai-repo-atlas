@@ -1,6 +1,6 @@
 # KlockTX/KlockUI
 
-⭐ 27 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/KlockTX/KlockUI) · [官网](https://github.com/KlockTX/KlockUI/releases/latest) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/KlockTX/KlockUI) · [官网](https://github.com/KlockTX/KlockUI/releases/latest) · 个人维护 · 中文 README
 
 **本地 AI 出图工作台：把 ComfyUI 封装成表单式界面**
 

@@ -1,6 +1,6 @@
 # raro42/mac-stats
 
-⭐ 19 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/raro42/mac-stats) · [官网](https://github.com/raro42/mac-stats/blob/main/docs/GETTING_STARTED.md) · 个人维护
+⭐ 19 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/raro42/mac-stats) · [官网](https://github.com/raro42/mac-stats/blob/main/docs/GETTING_STARTED.md) · 个人维护
 
 **Apple Silicon 菜单栏系统监视器，可选本地 AI agent**
 

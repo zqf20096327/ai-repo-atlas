@@ -1,6 +1,6 @@
 # Eternaldeath/AIProductHome
 
-⭐ 1,187 · 推送 2026-11-21 · [GitHub](https://github.com/Eternaldeath/AIProductHome) · [官网](https://eternaldeath.github.io/AIProductHome/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 产品一站式索引：收录、分类并标注各类 AI 工具**
 

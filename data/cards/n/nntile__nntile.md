@@ -1,6 +1,6 @@
 # nntile/nntile
 
-⭐ 57 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nntile/nntile) · 组织维护
+⭐ 57 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nntile/nntile) · 组织维护
 
 **训练大型神经网络的任务级并行框架（基于 StarPU）**
 

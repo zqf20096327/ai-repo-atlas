@@ -1,6 +1,6 @@
 # SonderSaid/ComfyUI-Sonder-Editor
 
-⭐ 55 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/SonderSaid/ComfyUI-Sonder-Editor) · 个人维护
+⭐ 55 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/SonderSaid/ComfyUI-Sonder-Editor) · 个人维护
 
 **ComfyUI 的时间线视频编辑器自定义节点，支持长视频迭代生成**
 

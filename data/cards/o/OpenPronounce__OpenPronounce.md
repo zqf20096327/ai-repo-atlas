@@ -1,6 +1,6 @@
 # OpenPronounce/OpenPronounce
 
-⭐ 243 · Python · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/OpenPronounce/OpenPronounce) · [官网](https://openpronounce.github.io) · 个人维护
+⭐ 245 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenPronounce/OpenPronounce) · [官网](https://openpronounce.github.io) · 个人维护
 
 **自托管发音评估工具：给录音打分并找出读错的单词**
 

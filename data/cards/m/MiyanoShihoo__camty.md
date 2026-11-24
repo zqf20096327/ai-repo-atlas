@@ -1,6 +1,6 @@
 # MiyanoShihoo/camty
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/MiyanoShihoo/camty) · 个人维护 · 中文 README
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/MiyanoShihoo/camty) · 个人维护 · 中文 README
 
 **给红队/安全测试者的全链渗透测试自动化工作台**
 

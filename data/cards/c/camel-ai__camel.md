@@ -1,6 +1,6 @@
 # camel-ai/camel
 
-⭐ 18,050 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/camel-ai/camel) · [官网](https://docs.camel-ai.org/)
+⭐ 18,053 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/camel-ai/camel) · [官网](https://docs.camel-ai.org/)
 
 **面向研究者的多智能体系统开源框架与数据生成工具**
 

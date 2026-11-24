@@ -1,6 +1,6 @@
 # Agent-Field/CodeAF
 
-⭐ 825 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Agent-Field/CodeAF) · [官网](agentfield.ai/codeaf) · 组织维护
+⭐ 835 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Agent-Field/CodeAF) · [官网](agentfield.ai/codeaf) · 组织维护
 
 **面向开源模型的编码 agent 工厂：单窗口管理多任务**
 

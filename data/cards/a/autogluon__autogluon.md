@@ -1,6 +1,6 @@
 # autogluon/autogluon
 
-⭐ 10,842 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/autogluon/autogluon) · [官网](https://auto.gluon.ai/) · 组织维护
+⭐ 10,843 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/autogluon/autogluon) · [官网](https://auto.gluon.ai/) · 组织维护
 
 **AutoML 库：表格/时序/多模态数据自动建模预测**
 

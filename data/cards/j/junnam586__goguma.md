@@ -1,6 +1,6 @@
 # junnam586/goguma
 
-⭐ 35 · Go · MIT · 推送 2026-08-29 · [GitHub](https://github.com/junnam586/goguma) · [官网](https://getgoguma.com) · 个人维护
+⭐ 34 · Go · MIT · 推送 2026-08-29 · [GitHub](https://github.com/junnam586/goguma) · [官网](https://getgoguma.com) · 个人维护
 
 **macOS/Linux 保醒工具：为定时任务与编码 agent 保持机器唤醒**
 

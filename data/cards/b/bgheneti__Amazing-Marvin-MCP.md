@@ -1,6 +1,6 @@
 # bgheneti/Amazing-Marvin-MCP
 
-⭐ 44 · Python · 推送 2026-06-11 · [GitHub](https://github.com/bgheneti/Amazing-Marvin-MCP) · 个人维护
+⭐ 45 · Python · 推送 2026-06-11 · [GitHub](https://github.com/bgheneti/Amazing-Marvin-MCP) · 个人维护
 
 **让 AI 助手读写 Amazing Marvin 任务数据的 MCP 服务器**
 

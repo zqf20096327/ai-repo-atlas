@@ -1,6 +1,6 @@
 # RicterZ/AL1S-WMS
 
-⭐ 37 · TypeScript · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/RicterZ/AL1S-WMS) · 个人维护 · 中文 README
+⭐ 39 · TypeScript · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/RicterZ/AL1S-WMS) · 个人维护 · 中文 README
 
 **家庭自托管库存管理系统，带 MCP 接口供 AI agent 协助**
 

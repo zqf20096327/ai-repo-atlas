@@ -1,6 +1,6 @@
 # doem97/cvsm
 
-⭐ 75 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/doem97/cvsm) · [官网](https://doem97.github.io/cvsm/) · 个人维护 · 中文 README
+⭐ 86 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/doem97/cvsm) · [官网](https://doem97.github.io/cvsm/) · 个人维护 · 中文 README
 
 **用编码代理做受控 ML 实验的状态机协议（复制文件即用）**
 

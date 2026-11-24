@@ -1,6 +1,6 @@
 # qingchencloud/cj2api
 
-⭐ 67 · TypeScript · MIT · 推送 2026-05-09 · [GitHub](https://github.com/qingchencloud/cj2api) · [官网](https://cj2api.qt.cool/) · 个人维护 · 中文 README
+⭐ 68 · TypeScript · MIT · 推送 2026-05-09 · [GitHub](https://github.com/qingchencloud/cj2api) · [官网](https://cj2api.qt.cool/) · 个人维护 · 中文 README
 
 **将 ChatJimmy 转为 OpenAI 兼容 API 的代理 Worker**
 

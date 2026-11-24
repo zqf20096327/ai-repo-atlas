@@ -1,6 +1,6 @@
 # GUYI-AI/gugu-supabase
 
-⭐ 10 · PLpgSQL · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/GUYI-AI/gugu-supabase) · [官网](https://gugu.nextmind.space) · 组织维护
+⭐ 10 · PLpgSQL · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/GUYI-AI/gugu-supabase) · [官网](https://gugu.nextmind.space) · 组织维护
 
 **为 Gugu 社区客户端提供自托管 Supabase 后端**
 

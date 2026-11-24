@@ -1,6 +1,6 @@
 # ttoss/soat
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ttoss/soat) · [官网](https://soat.ttoss.dev) · 个人维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ttoss/soat) · [官网](https://soat.ttoss.dev) · 个人维护
 
 **自托管 Node.js 服务器：为 AI agent 应用提供生产基础设施**
 

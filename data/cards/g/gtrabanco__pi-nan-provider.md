@@ -1,6 +1,6 @@
 # gtrabanco/pi-nan-provider
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/gtrabanco/pi-nan-provider) · [官网](https://cloud.nan.builders/r/7GK06FX8) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gtrabanco/pi-nan-provider) · [官网](https://cloud.nan.builders/r/7GK06FX8) · 个人维护
 
 **为 pi agent 接入 NaN 平台模型与媒体工具的提供者插件**
 

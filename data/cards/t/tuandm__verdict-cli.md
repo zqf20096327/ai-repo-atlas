@@ -1,6 +1,6 @@
 # tuandm/verdict-cli
 
-⭐ 21 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/tuandm/verdict-cli) · 个人维护
+⭐ 21 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tuandm/verdict-cli) · 个人维护
 
 **为 AI 编码 agent 提供省 token 的浏览器验证 CLI**
 

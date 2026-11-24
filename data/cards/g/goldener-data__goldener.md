@@ -1,6 +1,6 @@
 # goldener-data/goldener
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/goldener-data/goldener) · [官网](https://www.goldener.ai/) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/goldener-data/goldener) · [官网](https://www.goldener.ai/) · 组织维护
 
 **面向 AI 全生命周期的数据编排 Python 库**
 

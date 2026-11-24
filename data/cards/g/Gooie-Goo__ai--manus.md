@@ -1,6 +1,6 @@
 # Gooie-Goo/ai--manus
 
-⭐ 182 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Gooie-Goo/ai--manus) · 个人维护
+⭐ 178 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Gooie-Goo/ai--manus) · 个人维护
 
 **自主执行代码与控制浏览器的通用 AI Agent 助手**
 

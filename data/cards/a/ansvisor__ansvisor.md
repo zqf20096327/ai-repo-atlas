@@ -1,6 +1,6 @@
 # ansvisor/ansvisor
 
-⭐ 249 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ansvisor/ansvisor) · [官网](https://ansvisor.com) · 组织维护
+⭐ 250 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ansvisor/ansvisor) · [官网](https://ansvisor.com) · 组织维护
 
 **开源 AI 搜索可见性分析平台：帮品牌追踪与优化在 AI 搜索中的表现**
 

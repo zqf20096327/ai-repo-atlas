@@ -1,6 +1,6 @@
 # ooples/AiDotNet
 
-⭐ 71 · C# · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/ooples/AiDotNet) · [官网](https://ooples.github.io/AiDotNet/) · 个人维护
+⭐ 75 · C# · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/ooples/AiDotNet) · [官网](https://www.aidotnet.dev) · 个人维护
 
 **.NET 平台的全功能 AI/ML 算法库：分类/回归/视觉/音频/RL 等**
 

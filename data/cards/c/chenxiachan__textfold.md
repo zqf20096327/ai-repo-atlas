@@ -1,6 +1,6 @@
 # chenxiachan/textfold
 
-⭐ 1,318 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/chenxiachan/textfold) · [官网](https://chenxiachan.github.io/textfold/) · 个人维护 · 中文 README
+⭐ 1,328 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/chenxiachan/textfold) · [官网](https://chenxiachan.github.io/textfold/) · 个人维护 · 中文 README
 
 **本地运行的文献/网页五级折叠阅读器，逐级缩放原文**
 

@@ -1,6 +1,6 @@
 # keyshadougherty70-dev/coregold-reseller-api
 
-⭐ 88 · 推送 2026-10-31 · [GitHub](https://github.com/keyshadougherty70-dev/coregold-reseller-api) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 93 · 推送 2026-10-31 · [GitHub](https://github.com/keyshadougherty70-dev/coregold-reseller-api) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向号商与 API 中继站的批量虚拟发卡服务推广页**
 

@@ -1,6 +1,6 @@
 # zjunlp/SkillNet
 
-⭐ 1,458 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/zjunlp/SkillNet) · [官网](http://skillnet.openkg.cn/) · 组织维护 · 中文 README
+⭐ 1,466 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/zjunlp/SkillNet) · [官网](http://skillnet.openkg.cn/) · 组织维护 · 中文 README
 
 **面向 agent 开发者的 AI 技能发现、评估与路由基础设施**
 

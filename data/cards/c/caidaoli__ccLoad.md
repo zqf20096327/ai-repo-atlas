@@ -1,6 +1,6 @@
 # caidaoli/ccLoad
 
-⭐ 445 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/caidaoli/ccLoad) · [官网](https://ccload.xyz) · 个人维护 · 中文 README
+⭐ 446 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/caidaoli/ccLoad) · [官网](https://ccload.xyz) · 个人维护 · 中文 README
 
 **自托管 AI API 网关：聚合多来源账号与密钥，供 Claude Code/Codex 等客户端统一接入**
 

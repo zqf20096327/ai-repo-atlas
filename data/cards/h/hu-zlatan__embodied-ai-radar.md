@@ -1,6 +1,6 @@
 # hu-zlatan/embodied-ai-radar
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hu-zlatan/embodied-ai-radar) · [官网](https://embodied-ai-radar.com/) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hu-zlatan/embodied-ai-radar) · [官网](https://embodied-ai-radar.com/) · 个人维护 · 中文 README
 
 **给具身智能研究者提供每日更新的中英双语论文/代码/数据集导航**
 

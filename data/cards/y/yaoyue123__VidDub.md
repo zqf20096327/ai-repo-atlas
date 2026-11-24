@@ -1,6 +1,6 @@
 # yaoyue123/VidDub
 
-⭐ 20 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/yaoyue123/VidDub) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yaoyue123/VidDub) · 个人维护 · 中文 README
 
 **YouTube 视频自动中文配音并发布到国内平台的端到端管线**
 

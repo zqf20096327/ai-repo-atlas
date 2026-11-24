@@ -1,6 +1,6 @@
 # warc0s/opencode-permission-reviewer
 
-⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/warc0s/opencode-permission-reviewer) · 个人维护
+⭐ 26 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/warc0s/opencode-permission-reviewer) · 个人维护
 
 **OpenCode 权限请求的 AI 审查插件：自动放行/拒绝/上报**
 

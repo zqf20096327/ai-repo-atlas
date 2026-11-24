@@ -1,6 +1,6 @@
 # b44x/ai-polish-skills
 
-⭐ 60 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/b44x/ai-polish-skills) · [官网](https://polskieskille.pl) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/b44x/ai-polish-skills) · [官网](https://polskieskille.pl) · 个人维护
 
 **面向 AI agent 的波兰 API/公共服务技能注册目录（26 个技能）**
 

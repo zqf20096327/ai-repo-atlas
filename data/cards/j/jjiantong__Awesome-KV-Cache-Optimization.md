@@ -1,6 +1,6 @@
 # jjiantong/Awesome-KV-Cache-Optimization
 
-⭐ 427 · Python · 推送 2026-10-23 · [GitHub](https://github.com/jjiantong/Awesome-KV-Cache-Optimization) · [官网](https://jjiantong.github.io/Awesome-KV-Cache-Optimization/) · 组织维护 · 中文 README
+⭐ 428 · Python · 推送 2026-10-23 · [GitHub](https://github.com/jjiantong/Awesome-KV-Cache-Optimization) · [官网](https://jjiantong.github.io/Awesome-KV-Cache-Optimization/) · 组织维护 · 中文 README
 
 **LLM 服务中 KV 缓存优化论文综述清单**
 

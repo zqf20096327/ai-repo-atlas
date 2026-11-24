@@ -1,6 +1,6 @@
 # ranajahanzaib/industrial-visual-defect-detection
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/industrial-visual-defect-detection) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/industrial-visual-defect-detection) · 个人维护
 
 **面向工业 QA/QC 的无监督视觉缺陷检测工作台**
 

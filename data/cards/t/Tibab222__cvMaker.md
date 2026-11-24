@@ -1,6 +1,6 @@
 # Tibab222/cvMaker
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Tibab222/cvMaker) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Tibab222/cvMaker) · 个人维护
 
 **本地优先的开源简历与求职管理桌面平台，含语义匹配**
 

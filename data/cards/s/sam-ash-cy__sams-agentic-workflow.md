@@ -1,6 +1,6 @@
 # sam-ash-cy/sams-agentic-workflow
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/sam-ash-cy/sams-agentic-workflow) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/sam-ash-cy/sams-agentic-workflow) · 个人维护
 
 **给 Claude Code 加验证门与护栏的开发工作流插件**
 

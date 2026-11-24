@@ -1,6 +1,6 @@
 # viztor/dsh-opencode-patch
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/viztor/dsh-opencode-patch) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/viztor/dsh-opencode-patch) · 个人维护
 
 **DSH 插件：让 OpenCode Zen/Go 模型在 DeepSeek Harness 中正常工作**
 

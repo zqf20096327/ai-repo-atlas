@@ -1,6 +1,6 @@
 # pur4v/p2ptokens
 
-⭐ 28 · Rust · 推送 2026-07-15 · [GitHub](https://github.com/pur4v/p2ptokens) · 个人维护
+⭐ 29 · Rust · 推送 2026-07-15 · [GitHub](https://github.com/pur4v/p2ptokens) · 个人维护
 
 **P2P 去中心化 LLM 推理网络：节点互相共享算力与补全**
 

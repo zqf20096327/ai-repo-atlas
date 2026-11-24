@@ -1,6 +1,6 @@
 # chaibuilder/core
 
-⭐ 495 · TypeScript · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/chaibuilder/core) · [官网](https://chaibuilder.com) · 组织维护
+⭐ 495 · TypeScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/chaibuilder/core) · [官网](https://chaibuilder.com) · 组织维护
 
 **面向 Next.js 的开源可视化建站器，含 AI 辅助编辑**
 

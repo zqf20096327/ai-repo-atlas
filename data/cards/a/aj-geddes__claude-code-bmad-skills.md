@@ -1,6 +1,6 @@
 # aj-geddes/claude-code-bmad-skills
 
-⭐ 493 · Shell · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/aj-geddes/claude-code-bmad-skills) · 个人维护
+⭐ 495 · Shell · NOASSERTION · 推送 2026-06-20 · [GitHub](https://github.com/aj-geddes/claude-code-bmad-skills) · 个人维护
 
 **把 BMAD 敏捷方法接入 Claude Code 的规划编排插件**
 

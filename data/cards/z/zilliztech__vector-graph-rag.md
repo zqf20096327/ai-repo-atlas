@@ -1,6 +1,6 @@
 # zilliztech/vector-graph-rag
 
-⭐ 332 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/zilliztech/vector-graph-rag) · [官网](https://zilliztech.github.io/vector-graph-rag/) · 组织维护
+⭐ 334 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/zilliztech/vector-graph-rag) · [官网](https://zilliztech.github.io/vector-graph-rag/) · 组织维护
 
 **纯向量检索实现 Graph RAG 的多跳问答库**
 

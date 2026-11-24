@@ -1,6 +1,6 @@
 # project-lighter/lighter
 
-⭐ 72 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/project-lighter/lighter) · [官网](https://project-lighter.github.io/lighter) · 组织维护
+⭐ 73 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/project-lighter/lighter) · [官网](https://project-lighter.github.io/lighter) · 组织维护
 
 **用 YAML 配置驱动 PyTorch Lightning 深度学习实验的框架**
 

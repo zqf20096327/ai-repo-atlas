@@ -1,6 +1,6 @@
 # ItQianChen/dsh-github-flow
 
-⭐ 21 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ItQianChen/dsh-github-flow) · [官网](https://github.com/ItQianChen/dsh-github-flow/releases) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ItQianChen/dsh-github-flow) · [官网](https://github.com/ItQianChen/dsh-github-flow/releases) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness Agent 提供 GitHub 操作工具的插件**
 

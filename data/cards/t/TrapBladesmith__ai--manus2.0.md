@@ -1,6 +1,6 @@
 # TrapBladesmith/ai--manus2.0
 
-⭐ 365 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TrapBladesmith/ai--manus2.0) · 个人维护
+⭐ 362 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TrapBladesmith/ai--manus2.0) · 个人维护
 
 **面向日常任务的自主 AI 代理：自动执行代码与浏览器操作**
 

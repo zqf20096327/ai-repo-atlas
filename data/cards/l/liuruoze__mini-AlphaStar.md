@@ -1,6 +1,6 @@
 # liuruoze/mini-AlphaStar
 
-⭐ 371 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/liuruoze/mini-AlphaStar) · 个人维护 · 中文 README
+⭐ 371 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/liuruoze/mini-AlphaStar) · 个人维护 · 中文 README
 
 **AlphaStar 的小规模复现：单机训练 StarCraft II 智能体**
 

@@ -1,6 +1,6 @@
 # RyanCoreAI/spring-ai-crossborder-customer-service
 
-⭐ 31 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/RyanCoreAI/spring-ai-crossborder-customer-service) · [官网](https://yanxai.com/projects/) · 个人维护 · 中文 README
+⭐ 32 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/RyanCoreAI/spring-ai-crossborder-customer-service) · [官网](https://yanxai.com/projects/) · 个人维护 · 中文 README
 
 **跨境电商多语言客服 Agent 平台（Spring AI + Vue）**
 

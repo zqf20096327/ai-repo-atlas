@@ -1,6 +1,6 @@
 # complydoc/complydoc
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/complydoc/complydoc) · [官网](complydoc.io) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/complydoc/complydoc) · [官网](complydoc.io) · 组织维护
 
 **RAG 文档摄取的审计工具：比较 loader、追踪步骤与识别泄漏**
 

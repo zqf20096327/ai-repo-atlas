@@ -1,6 +1,6 @@
 # makushingu/harness-maxxing
 
-⭐ 286 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/makushingu/harness-maxxing) · [官网](https://harness-maxxing.com) · 个人维护
+⭐ 290 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/makushingu/harness-maxxing) · [官网](https://harness-maxxing.com) · 个人维护
 
 **自托管的 Claude Code 网页控制室：会话、记忆、定时任务与 Telegram**
 

@@ -1,6 +1,6 @@
 # ivan-magda/swift-claw
 
-⭐ 16 · Swift · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ivan-magda/swift-claw) · 个人维护
+⭐ 16 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ivan-magda/swift-claw) · 个人维护
 
 **单二进制 Swift 常驻个人 AI 助手，经 Telegram 交互**
 

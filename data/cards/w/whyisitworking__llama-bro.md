@@ -1,6 +1,6 @@
 # whyisitworking/llama-bro
 
-⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/whyisitworking/llama-bro) · 个人维护
+⭐ 10 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/whyisitworking/llama-bro) · 个人维护
 
 **Android 离线运行 GGUF 模型的 Kotlin SDK**
 

@@ -1,6 +1,6 @@
 # huggingface/doc-builder
 
-⭐ 146 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/huggingface/doc-builder) · 组织维护
+⭐ 146 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/doc-builder) · 组织维护
 
 **构建 Hugging Face 各仓库文档的工具包**
 

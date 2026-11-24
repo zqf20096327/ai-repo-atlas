@@ -1,6 +1,6 @@
 # Waykerzn/GitHub-Copilot-app
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Waykerzn/GitHub-Copilot-app) · 组织维护
+⭐ 40 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Waykerzn/GitHub-Copilot-app) · 组织维护
 
 **跨 GitHub 仓库管理 agent 开发工作的桌面应用**
 

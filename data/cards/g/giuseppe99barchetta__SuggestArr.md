@@ -1,6 +1,6 @@
 # giuseppe99barchetta/SuggestArr
 
-⭐ 1,396 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/giuseppe99barchetta/SuggestArr) · [官网](https://giuseppe99barchetta.github.io/SuggestArr/) · 个人维护
+⭐ 1,396 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/giuseppe99barchetta/SuggestArr) · [官网](https://giuseppe99barchetta.github.io/SuggestArr/) · 个人维护
 
 **根据观看历史自动向 Seer 提交影视推荐请求的工具**
 

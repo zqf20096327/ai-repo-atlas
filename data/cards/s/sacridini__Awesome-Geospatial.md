@@ -1,6 +1,6 @@
 # sacridini/Awesome-Geospatial
 
-⭐ 5,386 · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/sacridini/Awesome-Geospatial) · 个人维护
+⭐ 5,391 · CC0-1.0 · 推送 2026-11-18 · [GitHub](https://github.com/sacridini/Awesome-Geospatial) · 个人维护
 
 **面向 GIS 从业者的地理空间分析工具策展清单**
 

@@ -1,6 +1,6 @@
 # hugohe3/ppt-master
 
-⭐ 79,268 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hugohe3/ppt-master) · [官网](https://hugohe3.github.io/ppt-master-examples/) · 个人维护 · 中文 README
+⭐ 79,579 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/hugohe3/ppt-master) · [官网](https://hugohe3.github.io/ppt-master-examples/) · 个人维护 · 中文 README
 
 **用 AI 工具从文档或主题生成原生可编辑 PPTX 的工作流**
 

@@ -1,6 +1,6 @@
 # NetX-lab/NetOpsBench
 
-⭐ 36 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NetX-lab/NetOpsBench) · [官网](https://netx-lab.github.io/NetOpsBench/) · 组织维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NetX-lab/NetOpsBench) · [官网](https://netx-lab.github.io/NetOpsBench/) · 组织维护 · 中文 README
 
 **开放智能体网络故障排查基准测试平台**
 

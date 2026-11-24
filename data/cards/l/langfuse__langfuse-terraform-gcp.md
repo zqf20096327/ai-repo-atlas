@@ -1,6 +1,6 @@
 # langfuse/langfuse-terraform-gcp
 
-⭐ 33 · HCL · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langfuse/langfuse-terraform-gcp) · 组织维护
+⭐ 34 · HCL · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langfuse/langfuse-terraform-gcp) · 组织维护
 
 **在 GCP 上部署 Langfuse 的 Terraform 模块**
 

@@ -1,6 +1,6 @@
 # mrveiss/AutoBot-AI
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/mrveiss/AutoBot-AI) · [官网](https://mrveiss.github.io/AutoBot-AI/) · 个人维护
+⭐ 44 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/mrveiss/AutoBot-AI) · [官网](https://mrveiss.github.io/AutoBot-AI/) · 个人维护
 
 **自托管私有 AI 平台：聊天、RAG 知识库与 Agent 模块，数据留在自有硬件**
 

@@ -1,6 +1,6 @@
 # babyvibe/deplao-builder
 
-⭐ 275 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/babyvibe/deplao-builder) · [官网](https://deplaoapp.com/) · 个人维护
+⭐ 277 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/babyvibe/deplao-builder) · [官网](https://deplaoapp.com/) · 个人维护
 
 **Zalo/Facebook/Telegram 多账号桌面运营平台：集 CRM、营销、POS、ERP、工作流与 AI 助手**
 

@@ -1,6 +1,6 @@
 # ctala/ai-benchmarks-alternativos
 
-⭐ 15 · HTML · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ctala/ai-benchmarks-alternativos) · [官网](https://benchmarks.cristiantala.com) · 个人维护
+⭐ 15 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ctala/ai-benchmarks-alternativos) · [官网](https://benchmarks.cristiantala.com) · 个人维护
 
 **面向西语创业者/Agent 开发者的 LLM 西语基准测试与选型数据集**
 

@@ -1,6 +1,6 @@
 # frane/vibesurfer
 
-⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/frane/vibesurfer) · [官网](https://crates.io/crates/vibesurfer) · 个人维护
+⭐ 17 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/frane/vibesurfer) · [官网](https://crates.io/crates/vibesurfer) · 个人维护
 
 **给 LLM/agent 用的 Rust 浏览器守护进程，省 token 地读写网页**
 

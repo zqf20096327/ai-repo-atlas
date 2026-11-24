@@ -1,6 +1,6 @@
 # flare-collection/flare-redact
 
-⭐ 53 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/flare-collection/flare-redact) · [官网](https://flare-collection.github.io/flare-redact/) · 组织维护
+⭐ 53 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/flare-collection/flare-redact) · [官网](https://flare-collection.github.io/flare-redact/) · 组织维护
 
 **零依赖 TypeScript 密钥与 PII 脱敏库，覆盖日志与 LLM 提示词**
 

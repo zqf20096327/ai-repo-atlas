@@ -1,6 +1,6 @@
 # eragritchiegg15-beep/elevenlabs-voice-api-pay
 
-⭐ 71 · 推送 2026-11-03 · [GitHub](https://github.com/eragritchiegg15-beep/elevenlabs-voice-api-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 90 · 推送 2026-11-03 · [GitHub](https://github.com/eragritchiegg15-beep/elevenlabs-voice-api-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡为 ElevenLabs 等平台付费的营销文**
 

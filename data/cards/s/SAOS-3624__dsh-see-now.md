@@ -1,6 +1,6 @@
 # SAOS-3624/dsh-see-now
 
-⭐ 740 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/SAOS-3624/dsh-see-now) · 个人维护 · 中文 README
+⭐ 751 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SAOS-3624/dsh-see-now) · 个人维护 · 中文 README
 
 **DSH 实时视觉插件：按变化量筛帧拼图，让 AI 低成本看屏幕**
 

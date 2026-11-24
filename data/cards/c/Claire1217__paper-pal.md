@@ -1,6 +1,6 @@
 # Claire1217/paper-pal
 
-⭐ 28 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Claire1217/paper-pal) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Claire1217/paper-pal) · 个人维护 · 中文 README
 
 **本地 LaTeX 论文 AI 改写审阅工具：批注→词级 diff→接受才写入**
 

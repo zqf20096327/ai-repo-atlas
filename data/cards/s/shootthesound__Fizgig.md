@@ -1,6 +1,6 @@
 # shootthesound/Fizgig
 
-⭐ 799 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
+⭐ 802 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
 
 **面向消费级 GPU 的 LoRA 训练与微调工作台**
 

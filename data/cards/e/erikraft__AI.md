@@ -1,6 +1,6 @@
 # erikraft/AI
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/erikraft/AI) · [官网](https://ai.erikraft.com) · 个人维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/erikraft/AI) · [官网](https://ai.erikraft.com) · 个人维护
 
 **个人 AI 助手网站：文生图/视频/文本/语音克隆聚合中心**
 

@@ -1,6 +1,6 @@
 # Vela-Research/think-reason-learn
 
-⭐ 22 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Vela-Research/think-reason-learn) · [官网](https://thinkreasonlearn.com/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Vela-Research/think-reason-learn) · [官网](https://thinkreasonlearn.com/) · 组织维护
 
 **以 LLM 为推理函数重写经典 ML 算法的 Python 库**
 

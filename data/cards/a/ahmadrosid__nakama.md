@@ -1,6 +1,6 @@
 # ahmadrosid/nakama
 
-⭐ 837 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ahmadrosid/nakama) · [官网](https://ahmadrosid.github.io/nakama) · 个人维护
+⭐ 844 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ahmadrosid/nakama) · [官网](https://ahmadrosid.github.io/nakama) · 个人维护
 
 **团队共享 AI agent 的平台：集中托管代理、技能与自动化**
 
@@ -34,7 +34,7 @@ Nakama 是一个面向团队的 AI agent 平台，提供类 ChatGPT 的对话仪
 
 ## 场景标签
 
- · 领域:AI agent 平台/团队协作工具
+`聊天机器人` `AI 助手` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 

@@ -1,6 +1,6 @@
 # jatinyadav2036/ai--manus
 
-⭐ 149 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/jatinyadav2036/ai--manus) · 个人维护
+⭐ 147 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/jatinyadav2036/ai--manus) · 个人维护
 
 **自主 AI Agent 系统：在沙箱中运行代码并控制浏览器完成任务**
 

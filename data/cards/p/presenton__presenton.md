@@ -1,6 +1,6 @@
 # presenton/presenton
 
-⭐ 12,004 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/presenton/presenton) · [官网](https://presenton.ai) · 组织维护
+⭐ 12,037 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/presenton/presenton) · [官网](https://presenton.ai) · 组织维护
 
 **自托管 AI 演示文稿生成器与 API，产出可编辑 PPTX/PDF**
 

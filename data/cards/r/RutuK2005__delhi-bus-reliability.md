@@ -1,6 +1,6 @@
 # RutuK2005/delhi-bus-reliability
 
-⭐ 6 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RutuK2005/delhi-bus-reliability) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RutuK2005/delhi-bus-reliability) · 个人维护
 
 **德里公交线路串车检测与到站时间预测工具**
 

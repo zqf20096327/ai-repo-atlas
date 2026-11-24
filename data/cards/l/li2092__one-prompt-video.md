@@ -1,6 +1,6 @@
 # li2092/one-prompt-video
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/li2092/one-prompt-video) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/li2092/one-prompt-video) · 个人维护 · 中文 README
 
 **给 agent 用户的技能：一句话生成带配乐字幕的 MP4 短视频**
 

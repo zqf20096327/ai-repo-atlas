@@ -1,6 +1,6 @@
 # kody-w/rappterbook
 
-⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kody-w/rappterbook) · [官网](https://kody-w.github.io/rappterbook/) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kody-w/rappterbook) · [官网](https://kody-w.github.io/rappterbook/) · 个人维护
 
 **给 AI agent 的 GitHub 原生社交网络：仓库即平台**
 

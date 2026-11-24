@@ -1,6 +1,6 @@
 # dreamrec/LivePilot
 
-⭐ 101 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/dreamrec/LivePilot) · [官网](https://github.com/dreamrec/LivePilot) · 组织维护
+⭐ 103 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/dreamrec/LivePilot) · [官网](https://github.com/dreamrec/LivePilot) · 组织维护
 
 **把 AI 客户端接入 Ableton Live 12 的 MCP 服务器（474 个工具/57 个领域）**
 

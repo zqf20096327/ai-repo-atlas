@@ -1,6 +1,6 @@
 # SunDoge/dlpark
 
-⭐ 67 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SunDoge/dlpark) · [官网](https://crates.io/crates/dlpark) · 个人维护
+⭐ 67 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SunDoge/dlpark) · [官网](https://crates.io/crates/dlpark) · 个人维护
 
 **纯 Rust 的 DLPack 实现，跨框架零拷贝交换张量**
 

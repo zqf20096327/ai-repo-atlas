@@ -1,6 +1,6 @@
 # visitantexbox64-byte/cursor-pro-subscription-guide
 
-⭐ 74 · 推送 2026-11-03 · [GitHub](https://github.com/visitantexbox64-byte/cursor-pro-subscription-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 92 · 推送 2026-11-03 · [GitHub](https://github.com/visitantexbox64-byte/cursor-pro-subscription-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **教用户用 CoreGold 虚拟卡订阅 Cursor Pro/Business 的图文教程**
 

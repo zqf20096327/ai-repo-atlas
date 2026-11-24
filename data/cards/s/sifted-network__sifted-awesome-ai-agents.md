@@ -1,6 +1,6 @@
 # sifted-network/sifted-awesome-ai-agents
 
-⭐ 27 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/sifted-network/sifted-awesome-ai-agents) · [官网](https://sifted.network) · 组织维护
+⭐ 27 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/sifted-network/sifted-awesome-ai-agents) · [官网](https://sifted.network) · 组织维护
 
 **按 star 数自动更新的 GitHub AI agent 仓库榜单清单**
 

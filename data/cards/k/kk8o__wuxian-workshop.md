@@ -1,6 +1,6 @@
 # kk8o/wuxian-workshop
 
-⭐ 25 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kk8o/wuxian-workshop) · [官网](https://wuxianwow.com/workshop) · 个人维护 · 中文 README
+⭐ 26 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kk8o/wuxian-workshop) · [官网](https://wuxianwow.com/workshop) · 个人维护 · 中文 README
 
 **让 AI Agent 编写并调试魔兽世界插件的本地 MCP 工具**
 

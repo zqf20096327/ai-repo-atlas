@@ -1,6 +1,6 @@
 # microsoft/ai-agents-for-beginners
 
-⭐ 80,762 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/ai-agents-for-beginners) · [官网](https://aka.ms/ai-agents-beginners) · 组织维护
+⭐ 80,864 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/ai-agents-for-beginners) · [官网](https://aka.ms/ai-agents-beginners) · 组织维护
 
 **面向初学者的 AI Agent 构建18课教程课程**
 

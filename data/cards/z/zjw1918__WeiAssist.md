@@ -1,6 +1,6 @@
 # zjw1918/WeiAssist
 
-⭐ 12 · Kotlin · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/zjw1918/WeiAssist) · 个人维护 · 中文 README
+⭐ 13 · Kotlin · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/zjw1918/WeiAssist) · 个人维护 · 中文 README
 
 **在 Android 手机上替用户操作手机的开源 AI 代理应用**
 

@@ -1,6 +1,6 @@
 # teros-hq/teros
 
-⭐ 66 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/teros-hq/teros) · [官网](https://teros.ai) · 组织维护
+⭐ 67 · TypeScript · NOASSERTION · 推送 2026-11-13 · [GitHub](https://github.com/teros-hq/teros) · [官网](https://teros.ai) · 组织维护
 
 **开源自托管 AI agent 运行平台：构建、运行带工具能力的智能体**
 

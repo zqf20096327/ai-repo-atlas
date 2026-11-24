@@ -1,6 +1,6 @@
 # zhouyg1992/nectar
 
-⭐ 16 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zhouyg1992/nectar) · 个人维护 · 中文 README
+⭐ 16 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zhouyg1992/nectar) · 个人维护 · 中文 README
 
 **把飞书/钉钉/Telegram 消息路由给多个编码 agent 并管理会话与任务**
 

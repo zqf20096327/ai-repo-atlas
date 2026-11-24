@@ -1,6 +1,6 @@
 # xapi-labs/xapi-cli
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/xapi-labs/xapi-cli) · [官网](https://xapi.to) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xapi-labs/xapi-cli) · [官网](https://xapi.to) · 组织维护
 
 **面向 AI agent 的 xAPI 命令行客户端：发现并调用第三方 API**
 

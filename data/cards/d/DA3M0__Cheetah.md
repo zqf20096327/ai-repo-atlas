@@ -1,6 +1,6 @@
 # DA3M0/Cheetah
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/DA3M0/Cheetah) · 个人维护
+⭐ 53 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DA3M0/Cheetah) · 个人维护
 
 **本地 LLM 推理服务器：运行 Safetensors 模型并提供 OpenAI 兼容 API**
 

@@ -1,6 +1,6 @@
 # IAHispano/Applio
 
-⭐ 4,057 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/IAHispano/Applio) · [官网](https://applio.org) · 组织维护
+⭐ 4,066 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/IAHispano/Applio) · [官网](https://applio.org) · 组织维护
 
 **语音转换工具：基于 RVC 的高质量变声/克隆**
 

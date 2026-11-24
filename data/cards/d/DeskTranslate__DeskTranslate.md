@@ -1,6 +1,6 @@
 # DeskTranslate/DeskTranslate
 
-⭐ 191 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/DeskTranslate/DeskTranslate) · [官网](https://github.com/DeskTranslate/DeskTranslate#readme) · 组织维护
+⭐ 192 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/DeskTranslate/DeskTranslate) · [官网](https://github.com/DeskTranslate/DeskTranslate#readme) · 组织维护
 
 **Windows 屏幕取词翻译工具：划区 OCR 并本地/云端翻译**
 

@@ -1,6 +1,6 @@
 # genbing99/SFAMNet
 
-⭐ 23 · Python · 推送 2025-11-27 · [GitHub](https://github.com/genbing99/SFAMNet) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于场景流注意力机制的微表情识别与定位深度学习网络**
 

@@ -1,10 +1,10 @@
 # espnet/espnet
 
-⭐ 10,022 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/espnet/espnet) · [官网](https://espnet.github.io/espnet/) · 组织维护
+⭐ 10,022 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/espnet/espnet) · [官网](https://espnet.github.io/espnet/) · 组织维护
 
-**端到端语音处理工具包：识别/合成/翻译等任务的训练与推理**
+**面向开发者/科研的端到端语音处理工具包，覆盖识别/合成/翻译等任务**
 
-基于 PyTorch 的端到端语音处理工具包，覆盖语音识别、TTS、语音翻译、语音增强、说话人分离、歌声合成、语音语言模型等十余类任务。提供 Kaldi 风格的可复现 recipe（从数据准备到评测的 run.sh 流水线，200+ 语料），数百个预训练模型发布在 Hugging Face。可通过 pip 安装，CLI/Python/MCP 服务器三种调用方式，Docker 镜像支持推理。ESPnet1 已不再支持，需使用 ESPnet2 或 ESPnet3。
+基于 PyTorch 的端到端语音处理工具包，任务覆盖语音识别、TTS、语音翻译、语音增强、说话人分离、歌声合成、SSL、SpeechLM、神经音频编解码等，并为 200+ 语料提供 Kaldi 风格的可复现 recipe（数据准备到评分一条 run.sh）。提供 pip 安装的 CLI（transcribe/translate/synthesize/enhance 等）、Python API、MCP server 及 CPU/GPU Docker 镜像；数百个预训练模型发布在 Hugging Face。ESPnet1 已不再支持，需使用 ESPnet2/ESPnet3。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 覆盖 ASR/TTS/ST/SE/SPK/DIAR 等 10+ 语音任务
-- Kaldi 风格可复现 recipe，200+ 语料模板一条 run.sh 跑通
-- 数百个预训练模型托管于 Hugging Face
-- 提供 MCP 服务器供 Claude/Cursor 等 agent 调用语音任务
+- 10+ 语音任务的统一 recipe 与训练接口（200+ 语料）
+- CLI/Python/MCP server 三种调用方式，同一批模型
+- CPU 与 GPU Docker 镜像可直接运行推理
+- 数百个预训练模型发布于 Hugging Face，可打包为 Gradio Space
 
 ## 适用场景
 
-- 训练或复现语音识别/TTS 等模型的实验
-- 用预训练模型做转录、合成、增强推理
-- 为 agent 挂载语音任务的 MCP 工具
+- 用一条命令转录、翻译或增强音频文件
+- 训练语音识别/合成模型并复现论文级基线结果
+- 把语音任务作为工具接入 Claude/Cursor 等 agent
+- 将训练好的模型打包发布为 Hugging Face Space 演示
 
 ## 场景标签
 
@@ -38,7 +39,8 @@
 ## 证据(README 行号)
 
 > L20: ESPnet is an end-to-end speech processing toolkit built on PyTorch. It covers speech recognition, text-to-speech, s
-> L126: |🗣️|**ASR** — speech recognition|`asr1`, `asr2`|Hybrid CTC/attention, Transducer, streaming, Conformer / E-Branchf
+> L73: espnet transcribe audio.wav                # detects the language
+> L75: espnet synthesize "Hello from ESPnet" -o out.wav
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bffd03943504` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `08cb0ee57d5e` · [字段定义](../../DATASET.md)*

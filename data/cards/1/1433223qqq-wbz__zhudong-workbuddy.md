@@ -1,6 +1,6 @@
 # 1433223qqq-wbz/zhudong-workbuddy
 
-⭐ 21 · PowerShell · MIT · 推送 2026-11-11 · [GitHub](https://github.com/1433223qqq-wbz/zhudong-workbuddy) · 个人维护 · 中文 README
+⭐ 22 · PowerShell · MIT · 推送 2026-11-11 · [GitHub](https://github.com/1433223qqq-wbz/zhudong-workbuddy) · 个人维护 · 中文 README
 
 **给 WorkBuddy 客户端安装「诛冬」人格与提示词契约的脚本安装包**
 

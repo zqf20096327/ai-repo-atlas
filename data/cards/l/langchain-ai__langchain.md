@@ -1,6 +1,6 @@
 # langchain-ai/langchain
 
-⭐ 149,987 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/langchain) · [官网](https://docs.langchain.com/langchain/) · 组织维护
+⭐ 149,942 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/langchain) · [官网](https://docs.langchain.com/langchain/) · 组织维护
 
 **面向开发者的构建 agent 与 LLM 应用的框架**
 

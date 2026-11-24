@@ -1,6 +1,6 @@
 # upstash/context7
 
-⭐ 65,285 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/upstash/context7) · [官网](https://context7.com) · 组织维护 · 中文 README
+⭐ 65,351 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/upstash/context7) · [官网](https://context7.com) · 组织维护 · 中文 README
 
 **为 AI 编码代理提供最新版本库文档的 MCP 服务**
 

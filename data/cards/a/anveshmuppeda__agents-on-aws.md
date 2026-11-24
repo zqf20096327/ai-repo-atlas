@@ -1,6 +1,6 @@
 # anveshmuppeda/agents-on-aws
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/anveshmuppeda/agents-on-aws) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anveshmuppeda/agents-on-aws) · 个人维护
 
 **面向开发者的 AWS AgentCore AI 代理实操教程集（66 篇）**
 

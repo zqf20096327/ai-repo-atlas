@@ -1,6 +1,6 @@
 # sinfallas/comfy-ui-docker
 
-⭐ 12 · Shell · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sinfallas/comfy-ui-docker) · [官网](https://hub.docker.com/r/sinfallas/comfyui) · 个人维护
+⭐ 12 · Shell · GPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sinfallas/comfy-ui-docker) · [官网](https://hub.docker.com/r/sinfallas/comfyui) · 个人维护
 
 **ComfyUI 的非官方 Docker 镜像封装**
 

@@ -1,6 +1,6 @@
 # yy36295238/caravel-agent
 
-⭐ 35 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/yy36295238/caravel-agent) · [官网](https://www.caravelai.top/) · 个人维护 · 中文 README
+⭐ 35 · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/yy36295238/caravel-agent) · [官网](https://www.caravelai.top/) · 个人维护 · 中文 README
 
 **本地优先的多 AI 编码 Agent 并行派发与代码验收工作台**
 

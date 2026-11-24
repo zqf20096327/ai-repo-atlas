@@ -1,6 +1,6 @@
 # dvelm/SCAIL-2-Unlimited-Video-Low-VRAM
 
-⭐ 10 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/dvelm/SCAIL-2-Unlimited-Video-Low-VRAM) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-08-23 · [GitHub](https://github.com/dvelm/SCAIL-2-Unlimited-Video-Low-VRAM) · 个人维护
 
 **为低显存 GPU 提供单图驱动无限长视频生成的工作流**
 

@@ -1,6 +1,6 @@
 # IoTSec-AI/knowledge-driven-iot-fault-diagnosis
 
-⭐ 3 · HTML · 推送 2026-10-18 · [GitHub](https://github.com/IoTSec-AI/knowledge-driven-iot-fault-diagnosis) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 IoT 运维的知识驱动故障诊断助手**
 

@@ -1,6 +1,6 @@
 # OriginTrail/dkg
 
-⭐ 133 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/OriginTrail/dkg) · [官网](https://origintrail.io) · 组织维护
+⭐ 133 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OriginTrail/dkg) · [官网](https://origintrail.io) · 组织维护
 
 **面向多智能体的去中心化知识图谱共享记忆节点**
 

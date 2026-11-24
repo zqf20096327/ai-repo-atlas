@@ -1,6 +1,6 @@
 # Veloresearch/kinetic
 
-⭐ 270 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Veloresearch/kinetic) · [官网](https://veloresearch.com/research/kinetic) · 组织维护
+⭐ 275 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Veloresearch/kinetic) · [官网](https://veloresearch.com/research/kinetic) · 组织维护
 
 **本地运行 GGUF 模型的开源推理引擎，单一二进制跨 CPU/GPU**
 

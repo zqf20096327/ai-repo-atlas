@@ -1,6 +1,6 @@
 # klarlabs-studio/scout
 
-⭐ 14 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/klarlabs-studio/scout) · [官网](https://klarlabs-studio.github.io/scout/) · 组织维护
+⭐ 14 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/klarlabs-studio/scout) · [官网](https://klarlabs-studio.github.io/scout/) · 组织维护
 
 **单二进制浏览器自动化工具：CLI/MCP 服务器/聊天 UI/Go 库四合一**
 

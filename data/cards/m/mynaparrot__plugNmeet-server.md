@@ -1,6 +1,6 @@
 # mynaparrot/plugNmeet-server
 
-⭐ 581 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mynaparrot/plugNmeet-server) · [官网](https://www.plugnmeet.org) · 组织维护
+⭐ 581 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mynaparrot/plugNmeet-server) · [官网](https://www.plugnmeet.org) · 组织维护
 
 **自托管视频会议软件，附 AI 会议转录/翻译/摘要**
 

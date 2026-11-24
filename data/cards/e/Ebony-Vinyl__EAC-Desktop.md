@@ -1,6 +1,6 @@
 # Ebony-Vinyl/EAC-Desktop
 
-⭐ 3,755 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) · 组织维护 · 中文 README
+⭐ 3,795 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Ebony-Vinyl/EAC-Desktop) · 组织维护 · 中文 README
 
 **面向 Agent 用户的桌面工作台：整合对话、工具执行与 DSH 插件生态**
 

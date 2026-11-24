@@ -1,6 +1,6 @@
 # sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11
 
-⭐ 139 · Python · 推送 2026-04-25 · [GitHub](https://github.com/sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11) · [官网](https://sayedgamal99.github.io/Real-Time-Smoke-Fire-Detection-YOLO11/) · 个人维护
+⭐ 140 · Python · 推送 2026-04-25 · [GitHub](https://github.com/sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11) · [官网](https://sayedgamal99.github.io/Real-Time-Smoke-Fire-Detection-YOLO11/) · 个人维护
 
 **用 YOLO11 实时检测火焰与烟雾并经 Telegram 告警的系统**
 

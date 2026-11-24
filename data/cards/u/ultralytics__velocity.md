@@ -1,6 +1,6 @@
 # ultralytics/velocity
 
-⭐ 147 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/velocity) · [官网](https://www.ultralytics.com) · 组织维护
+⭐ 148 · Python · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/velocity) · [官网](https://www.ultralytics.com) · 组织维护
 
 **基于 ML 与运动恢复结构的车辆测速研究工具库**
 

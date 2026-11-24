@@ -1,6 +1,6 @@
 # msakarvadia/operator_aliasing
 
-⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/msakarvadia/operator_aliasing) · [官网](https://mansisak.com/operator_aliasing/) · 组织维护
+⭐ 10 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/msakarvadia/operator_aliasing) · [官网](https://mansisak.com/operator_aliasing/) · 组织维护
 
 **复现论文的实验代码：评估机器学习算子的多分辨率推理**
 

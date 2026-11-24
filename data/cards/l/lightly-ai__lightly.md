@@ -1,6 +1,6 @@
 # lightly-ai/lightly
 
-⭐ 3,833 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/lightly-ai/lightly) · [官网](https://docs.lightly.ai/self-supervised-learning/) · 组织维护
+⭐ 3,835 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/lightly-ai/lightly) · [官网](https://docs.lightly.ai/self-supervised-learning/) · 组织维护
 
 **图像自监督学习与潜在世界模型的 PyTorch 框架**
 

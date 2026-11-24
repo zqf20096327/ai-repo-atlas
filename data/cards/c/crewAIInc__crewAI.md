@@ -1,6 +1,6 @@
 # crewAIInc/crewAI
 
-⭐ 61,176 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/crewAIInc/crewAI) · [官网](https://crewai.com) · 组织维护
+⭐ 61,210 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/crewAIInc/crewAI) · [官网](https://crewai.com) · 组织维护
 
 **给开发者的多智能体编排框架，用 Crews/Flows 构建自动化**
 

@@ -1,6 +1,6 @@
 # cernodatainc/cernodata
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cernodatainc/cernodata) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cernodatainc/cernodata) · 组织维护
 
 **PDF 解析控制层：自动选方法、验证质量并回退**
 

@@ -1,6 +1,6 @@
 # spotify/pedalboard
 
-⭐ 6,501 · C++ · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/spotify/pedalboard) · [官网](https://spotify.github.io/pedalboard) · 组织维护
+⭐ 6,503 · C++ · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/spotify/pedalboard) · [官网](https://spotify.github.io/pedalboard) · 组织维护
 
 **Spotify 出品的 Python 音频效果与 I/O 处理库**
 

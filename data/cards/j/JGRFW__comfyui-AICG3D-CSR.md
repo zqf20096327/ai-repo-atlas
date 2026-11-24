@@ -1,6 +1,6 @@
 # JGRFW/comfyui-AICG3D-CSR
 
-⭐ 47 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/JGRFW/comfyui-AICG3D-CSR) · 个人维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/JGRFW/comfyui-AICG3D-CSR) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：MiniMax H3 人物/场景/产品替换的视频流水线**
 

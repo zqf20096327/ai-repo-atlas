@@ -1,6 +1,6 @@
 # icip-cas/PPTAgent
 
-⭐ 5,268 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/icip-cas/PPTAgent) · [官网](https://arxiv.org/abs/2501.03936) · 组织维护 · 中文 README
+⭐ 5,272 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/icip-cas/PPTAgent) · [官网](https://arxiv.org/abs/2501.03936) · 组织维护 · 中文 README
 
 **面向编码 Agent 的 PPT 生成技能：创建、修改并可视化审阅幻灯片**
 

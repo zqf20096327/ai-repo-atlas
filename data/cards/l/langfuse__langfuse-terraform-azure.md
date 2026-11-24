@@ -1,6 +1,6 @@
 # langfuse/langfuse-terraform-azure
 
-⭐ 38 · HCL · MIT · 推送 2026-11-21 · [GitHub](https://github.com/langfuse/langfuse-terraform-azure) · 组织维护
+⭐ 38 · HCL · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langfuse/langfuse-terraform-azure) · 组织维护
 
 **在 Azure 上部署 Langfuse 的 Terraform 模块**
 

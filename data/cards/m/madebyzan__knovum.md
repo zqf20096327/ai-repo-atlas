@@ -1,6 +1,6 @@
 # madebyzan/knovum
 
-⭐ 63 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/madebyzan/knovum) · [官网](https://madebyzan.github.io/knovum/) · 个人维护 · 中文 README
+⭐ 64 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/madebyzan/knovum) · [官网](https://madebyzan.github.io/knovum/) · 个人维护 · 中文 README
 
 **本地优先的 AI 知识工作台：无限画布+设备端 AI**
 

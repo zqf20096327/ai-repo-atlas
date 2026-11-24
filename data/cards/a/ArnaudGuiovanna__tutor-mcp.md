@@ -1,6 +1,6 @@
 # ArnaudGuiovanna/tutor-mcp
 
-⭐ 111 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ArnaudGuiovanna/tutor-mcp) · [官网](https://tutor-mcp.dev/) · 个人维护
+⭐ 111 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ArnaudGuiovanna/tutor-mcp) · [官网](https://tutor-mcp.dev/) · 个人维护
 
 **把任意 LLM 变成自适应导师的 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # hpoenixf/open-etf-agent
 
-⭐ 28 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hpoenixf/open-etf-agent) · [官网](https://hpoenixf.com/eff-agent-article/open-etf-agent) · 个人维护 · 中文 README
+⭐ 28 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hpoenixf/open-etf-agent) · [官网](https://hpoenixf.com/eff-agent-article/open-etf-agent) · 个人维护 · 中文 README
 
 **逐模块构建 ETF 投研 Agent 的教学工程：可运行代码与双语解析**
 

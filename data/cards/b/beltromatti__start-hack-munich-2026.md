@@ -1,6 +1,6 @@
 # beltromatti/start-hack-munich-2026
 
-⭐ 3 · Python · 推送 2026-11-22 · [GitHub](https://github.com/beltromatti/start-hack-munich-2026) · [官网](https://hackathon.noesisai.it) · 组织维护
+⭐ 4 · Python · 推送 2026-11-22 · [GitHub](https://github.com/beltromatti/start-hack-munich-2026) · [官网](https://hackathon.noesisai.it) · 组织维护
 
 **AI 货代应用：自动完成空运出口询价、报价与订舱跟踪**
 

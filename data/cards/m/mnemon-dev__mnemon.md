@@ -1,6 +1,6 @@
 # mnemon-dev/mnemon
 
-⭐ 733 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mnemon-dev/mnemon) · [官网](https://mnemon.dev) · 组织维护 · 中文 README
+⭐ 737 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mnemon-dev/mnemon) · [官网](https://mnemon.dev) · 组织维护 · 中文 README
 
 **给 AI agent 提供跨会话持久记忆的本地二进制工具**
 

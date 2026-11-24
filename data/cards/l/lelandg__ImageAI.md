@@ -1,6 +1,6 @@
 # lelandg/ImageAI
 
-⭐ 17 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lelandg/ImageAI) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lelandg/ImageAI) · 个人维护
 
 **多提供商 AI 图像/视频生成桌面应用与 CLI**
 

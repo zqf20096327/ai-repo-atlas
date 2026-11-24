@@ -1,6 +1,6 @@
 # Liu-Bot24/liusheng-subtitles
 
-⭐ 63 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Liu-Bot24/liusheng-subtitles) · [官网](https://blog.liu-qi.cn/tools) · 个人维护 · 中文 README
+⭐ 64 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Liu-Bot24/liusheng-subtitles) · [官网](https://blog.liu-qi.cn/tools) · 个人维护 · 中文 README
 
 **为网页视频生成与翻译字幕的 Chrome 扩展（ASR+LLM）**
 

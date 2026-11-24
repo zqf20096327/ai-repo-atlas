@@ -1,6 +1,6 @@
 # zayyid123/motion-track
 
-⭐ 10 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zayyid123/motion-track) · [官网](https://motion-track.repomaniac.com) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/zayyid123/motion-track) · [官网](https://motion-track.repomaniac.com) · 个人维护
 
 **浏览器端的等距贴纸动画工作室：可视化编辑与 GIF/MP4/MOV 导出**
 

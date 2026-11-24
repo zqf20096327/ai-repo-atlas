@@ -1,6 +1,6 @@
 # PathGao/MoonDigest
 
-⭐ 230 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/PathGao/MoonDigest) · [官网](https://chromewebstore.google.com/detail/bnjihpbocpimaipifanfkjjpfdbigggd) · 个人维护 · 中文 README
+⭐ 264 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/PathGao/MoonDigest) · [官网](https://chromewebstore.google.com/detail/bnjihpbocpimaipifanfkjjpfdbigggd) · 个人维护 · 中文 README
 
 **用 AI 读字幕、总结问答并分拣 B站/YouTube 收藏夹的 Chrome 扩展**
 

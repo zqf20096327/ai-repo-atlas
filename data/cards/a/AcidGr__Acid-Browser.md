@@ -1,6 +1,6 @@
 # AcidGr/Acid-Browser
 
-⭐ 17 · Java · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AcidGr/Acid-Browser) · 个人维护 · 中文 README
+⭐ 19 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AcidGr/Acid-Browser) · 个人维护 · 中文 README
 
 **超轻量 Android AI 浏览器：内置 Agent 循环、MCP 网关与广告拦截**
 

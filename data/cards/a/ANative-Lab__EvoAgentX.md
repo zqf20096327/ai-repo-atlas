@@ -1,6 +1,6 @@
 # ANative-Lab/EvoAgentX
 
-⭐ 3,445 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ANative-Lab/EvoAgentX) · [官网](https://anative-lab.github.io/EvoAgentX/) · 组织维护 · 中文 README
+⭐ 3,447 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/ANative-Lab/EvoAgentX) · [官网](https://anative-lab.github.io/EvoAgentX/) · 组织维护 · 中文 README
 
 **面向开发者与研究者的自演化多智能体工作流框架**
 

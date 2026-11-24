@@ -1,6 +1,6 @@
 # microsoft/powerbi-modeling-mcp
 
-⭐ 1,298 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/powerbi-modeling-mcp) · 组织维护
+⭐ 1,299 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/powerbi-modeling-mcp) · 组织维护
 
 **让 AI agent 操作 Power BI 语义模型的本地 MCP 服务器**
 

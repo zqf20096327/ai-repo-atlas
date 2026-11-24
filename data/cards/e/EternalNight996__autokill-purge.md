@@ -1,6 +1,6 @@
 # EternalNight996/autokill-purge
 
-⭐ 7 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/EternalNight996/autokill-purge) · [官网](https://www.npmjs.com/package/autokill-purge) · 个人维护 · 中文 README
+⭐ 9 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/EternalNight996/autokill-purge) · [官网](https://www.npmjs.com/package/autokill-purge) · 个人维护 · 中文 README
 
 **面向 DSH/MengBot/AutoKill 三宿主的补丁控制台**
 

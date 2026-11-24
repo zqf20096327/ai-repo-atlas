@@ -1,6 +1,6 @@
 # karanshukla/vinoSearch
 
-⭐ 5 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/karanshukla/vinoSearch) · [官网](https://vinosearch.vinopilot.ca/) · 个人维护
+⭐ 5 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/karanshukla/vinoSearch) · [官网](https://vinosearch.vinopilot.ca/) · 个人维护
 
 **Linux 本地文件语义搜索工具，用 Intel NPU 加速索引与查询**
 

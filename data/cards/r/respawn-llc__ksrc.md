@@ -1,6 +1,6 @@
 # respawn-llc/ksrc
 
-⭐ 93 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/respawn-llc/ksrc) · 组织维护
+⭐ 94 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/respawn-llc/ksrc) · 组织维护
 
 **让 AI 代理高效搜索阅读 Gradle 第三方依赖源码的 CLI**
 

@@ -1,6 +1,6 @@
 # lattice-writer/lattice
 
-⭐ 550 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lattice-writer/lattice) · [官网](https://lattice-writer.github.io/lattice/) · 组织维护 · 中文 README
+⭐ 557 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/lattice-writer/lattice) · [官网](https://lattice-writer.github.io/lattice/) · 组织维护 · 中文 README
 
 **macOS 本地优先 LaTeX 写作应用，集成 agent 编辑论文**
 

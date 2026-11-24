@@ -1,6 +1,6 @@
 # snchimata/tokenfold
 
-⭐ 414 · Rust · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/snchimata/tokenfold) · 个人维护
+⭐ 440 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/snchimata/tokenfold) · 个人维护
 
 **LLM 结构化 JSON 的确定性无损压缩工具与本地代理**
 

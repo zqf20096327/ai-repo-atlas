@@ -1,6 +1,6 @@
 # MetcalfSolutions/Satori
 
-⭐ 124 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/MetcalfSolutions/Satori) · [官网](https://metcalf.solutions/satori/) · 组织维护
+⭐ 124 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MetcalfSolutions/Satori) · [官网](https://metcalf.solutions/satori/) · 组织维护
 
 **跨 agent 的心理洞察对话技能：给开发者与普通用户的内省对话伙伴**
 

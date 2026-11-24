@@ -1,6 +1,6 @@
 # anjerodev/commitollama
 
-⭐ 99 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/anjerodev/commitollama) · [官网](https://marketplace.visualstudio.com/items?itemName=commitollama.commitollama) · 个人维护
+⭐ 99 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anjerodev/commitollama) · [官网](https://marketplace.visualstudio.com/items?itemName=commitollama.commitollama) · 个人维护
 
 **VS Code 扩展：用本地 Ollama 模型生成 Git 提交信息**
 

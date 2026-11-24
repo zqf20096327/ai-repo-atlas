@@ -1,6 +1,6 @@
 # nano-step/nano-brain
 
-⭐ 13 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nano-step/nano-brain) · 组织维护
+⭐ 13 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nano-step/nano-brain) · 组织维护
 
 **面向 AI 编码 agent 的持久记忆与代码智能 MCP 服务器**
 

@@ -1,6 +1,6 @@
 # zzzaib/ondago-editor
 
-⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zzzaib/ondago-editor) · [官网](www.zaan.tech) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zzzaib/ondago-editor) · [官网](www.zaan.tech) · 个人维护
 
 **离线 AI 视频剪辑桌面应用：录屏素材一键产出 YouTube 视频与 Reels**
 

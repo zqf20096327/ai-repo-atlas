@@ -1,6 +1,6 @@
 # pleco-rs/Pleco
 
-⭐ 432 · Rust · GPL-3.0 · 推送 2026-02-22 · [GitHub](https://github.com/pleco-rs/Pleco) · [官网](https://crates.io/crates/pleco) · 个人维护
+⭐ 433 · Rust · GPL-3.0 · 推送 2026-02-22 · [GitHub](https://github.com/pleco-rs/Pleco) · [官网](https://crates.io/crates/pleco) · 个人维护
 
 **Rust 重写的 Stockfish 国际象棋引擎与库**
 

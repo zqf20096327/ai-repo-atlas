@@ -1,6 +1,6 @@
 # FalkorDB/Auryn
 
-⭐ 397 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FalkorDB/Auryn) · [官网](https://falkordb.com/products/codegraph-auryn) · 组织维护
+⭐ 397 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FalkorDB/Auryn) · [官网](https://falkordb.com/products/codegraph-auryn) · 组织维护
 
 **把代码库转为可查询代码图，供编码 agent 经 MCP 遍历**
 

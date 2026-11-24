@@ -1,6 +1,6 @@
 # goldmar/openclaw-code-agent
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/goldmar/openclaw-code-agent) · [官网](https://www.npmjs.com/package/openclaw-code-agent) · 个人维护
+⭐ 50 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/goldmar/openclaw-code-agent) · [官网](https://www.npmjs.com/package/openclaw-code-agent) · 个人维护
 
 **OpenClaw 插件：把 Claude Code/Codex/OpenCode 变成聊天可控的编码 agent 会话**
 

@@ -1,6 +1,6 @@
 # open-mmlab/FoleyCrafter
 
-⭐ 665 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/open-mmlab/FoleyCrafter) · [官网](https://foleycrafter.github.io/) · 组织维护 · 中文 README
+⭐ 666 · Python · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/open-mmlab/FoleyCrafter) · [官网](https://foleycrafter.github.io/) · 组织维护 · 中文 README
 
 **为无声视频生成语义相关且同步音效的 video-to-audio 框架**
 

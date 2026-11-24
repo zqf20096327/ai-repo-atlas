@@ -1,6 +1,6 @@
 # kainotomo/ph-agent-hub
 
-⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kainotomo/ph-agent-hub) · [官网](https://kainotomo.com/ph-agent-hub) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kainotomo/ph-agent-hub) · [官网](https://kainotomo.com/ph-agent-hub) · 组织维护
 
 **给团队用的多租户 AI 平台：聊天界面+模型/租户管理后台**
 

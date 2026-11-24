@@ -1,6 +1,6 @@
 # TheWonderlandStudio/Idiot_Box
 
-⭐ 14 · JavaScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/TheWonderlandStudio/Idiot_Box) · [官网](https://thewonderlandstudio.github.io/Idiot_Box/) · 组织维护
+⭐ 14 · JavaScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/TheWonderlandStudio/Idiot_Box) · [官网](https://thewonderlandstudio.github.io/Idiot_Box/) · 组织维护
 
 **开源桌面 IDE：编辑、预览、终端与模拟器合一工作区**
 

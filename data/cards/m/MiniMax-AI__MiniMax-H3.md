@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-H3
 
-⭐ 12,140 · Python · 推送 2026-10-28 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) · 组织维护 · 中文 README
+⭐ 12,175 · Python · 推送 2026-10-28 · [GitHub](https://github.com/MiniMax-AI/MiniMax-H3) · 组织维护 · 中文 README
 
 **MiniMax 的全模态视频生成模型，文/图/音生成带音频视频**
 

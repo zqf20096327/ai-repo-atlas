@@ -1,6 +1,6 @@
 # pydantic/pydantic-ai
 
-⭐ 21,337 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pydantic/pydantic-ai) · [官网](https://pydantic.dev/pydantic-ai) · 组织维护
+⭐ 21,357 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pydantic/pydantic-ai) · [官网](https://pydantic.dev/pydantic-ai) · 组织维护
 
 **Python AI Agent SDK：类型安全地构建与运行多模型 Agent**
 

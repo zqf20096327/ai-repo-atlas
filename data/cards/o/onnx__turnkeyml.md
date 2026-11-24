@@ -1,6 +1,6 @@
 # onnx/turnkeyml
 
-⭐ 248 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/onnx/turnkeyml) · 组织维护
+⭐ 248 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/onnx/turnkeyml) · 组织维护
 
 **ONNX 工作流的无代码 CLI 工具链（导出/优化模型）**
 

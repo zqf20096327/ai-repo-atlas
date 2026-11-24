@@ -1,6 +1,6 @@
 # ainsel-project/ainsel
 
-⭐ 5 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/ainsel-project/ainsel) · [官网](https://ainsel-project.github.io/ainsel/) · 组织维护
+⭐ 5 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ainsel-project/ainsel) · [官网](https://ainsel-project.github.io/ainsel/) · 组织维护
 
 **Kubernetes-native AI agent 编排平台：事件触发 agent 响应**
 

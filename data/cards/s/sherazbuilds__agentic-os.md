@@ -1,6 +1,6 @@
 # sherazbuilds/agentic-os
 
-⭐ 39 · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/sherazbuilds/agentic-os) · [官网](https://agentiqueos.com) · 个人维护
+⭐ 40 · GPL-3.0 · 推送 2026-07-18 · [GitHub](https://github.com/sherazbuilds/agentic-os) · [官网](https://agentiqueos.com) · 个人维护
 
 **面向 AI agent 的专用操作系统项目（未发布，候补名单阶段）**
 

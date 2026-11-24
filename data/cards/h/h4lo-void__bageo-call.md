@@ -1,6 +1,6 @@
 # h4lo-void/bageo-call
 
-⭐ 36 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/h4lo-void/bageo-call) · 个人维护 · 中文 README
+⭐ 51 · Rust · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/h4lo-void/bageo-call) · 个人维护 · 中文 README
 
 **自托管的 AI 电话助理：用备用 root 安卓机接打你的号码**
 

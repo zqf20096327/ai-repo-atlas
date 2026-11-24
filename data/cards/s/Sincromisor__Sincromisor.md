@@ -1,6 +1,6 @@
 # Sincromisor/Sincromisor
 
-⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Sincromisor/Sincromisor) · 组织维护 · 中文 README
+⭐ 25 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sincromisor/Sincromisor) · 组织维护 · 中文 README
 
 **自托管 Web 服务基盘：浏览器中与 3D 角色语音对话/变声直播**
 

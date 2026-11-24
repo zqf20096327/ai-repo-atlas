@@ -1,6 +1,6 @@
 # neomjs/neo-agent-skills
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/neomjs/neo-agent-skills) · [官网](https://neomjs.com/) · 组织维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/neomjs/neo-agent-skills) · [官网](https://neomjs.com/) · 组织维护
 
 **Neo.mjs 组织的 agent 技能底座包：技能物化、守卫与 CI 检查**
 

@@ -1,6 +1,6 @@
 # MelanthaCode/english-reading-analysis
 
-⭐ 3 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/MelanthaCode/english-reading-analysis) · [官网](https://github.com/MelanthaCode/english-reading-analysis) · 个人维护 · 中文 README
+⭐ 3 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MelanthaCode/english-reading-analysis) · [官网](https://github.com/MelanthaCode/english-reading-analysis) · 个人维护 · 中文 README
 
 **给 AI Agent 用的技能：英语试卷/文章转中文可打印解析**
 

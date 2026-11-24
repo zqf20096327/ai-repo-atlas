@@ -1,6 +1,6 @@
 # thekannen/battlemap-mcp
 
-⭐ 12 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/thekannen/battlemap-mcp) · [官网](https://knownframe.com/battlemap-mcp/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/thekannen/battlemap-mcp) · [官网](https://knownframe.com/battlemap-mcp/) · 个人维护
 
 **本地 MCP 桥：让 AI 助手用已有素材构建 Dungeondraft 战役地图**
 

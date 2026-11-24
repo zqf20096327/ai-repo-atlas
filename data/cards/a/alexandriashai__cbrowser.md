@@ -1,6 +1,6 @@
 # alexandriashai/cbrowser
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/alexandriashai/cbrowser) · [官网](https://cbrowser.ai) · 组织维护
+⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/alexandriashai/cbrowser) · [官网](https://cbrowser.ai) · 组织维护
 
 **带认知模拟的浏览器自动化测试工具：预测用户在何处放弃**
 

@@ -1,6 +1,6 @@
 # martian56/lumnicode
 
-⭐ 46 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/martian56/lumnicode) · [官网](https://lumnicode.ufazien.com) · 个人维护
+⭐ 50 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/martian56/lumnicode) · [官网](https://lumnicode.ufazien.com) · 个人维护
 
 **BYOK 在线 AI 代码编辑器：自带 API key 的代码生成与辅助**
 

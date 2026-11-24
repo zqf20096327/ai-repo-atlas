@@ -1,6 +1,6 @@
 # oolong-tea-2026/arena-ai-leaderboards
 
-⭐ 43 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/oolong-tea-2026/arena-ai-leaderboards) · [官网](https://arena.ai/leaderboard) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oolong-tea-2026/arena-ai-leaderboards) · [官网](https://arena.ai/leaderboard) · 个人维护
 
 **Arena AI 各榜单的每日快照数据仓库，结构化 JSON 并带历史追踪**
 

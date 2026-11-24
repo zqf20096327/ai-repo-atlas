@@ -1,6 +1,6 @@
 # wici-ai/inferssd
 
-⭐ 1,289 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wici-ai/inferssd) · [官网](https://wici.ai/wici-infer) · 组织维护 · 中文 README
+⭐ 1,296 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wici-ai/inferssd) · [官网](https://wici.ai/wici-infer) · 组织维护 · 中文 README
 
 **本地 LLM 推理运行时：从 SSD 流式加载超出内存的 MoE 模型**
 

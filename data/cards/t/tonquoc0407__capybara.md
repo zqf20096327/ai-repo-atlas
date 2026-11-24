@@ -1,6 +1,6 @@
 # tonquoc0407/capybara
 
-⭐ 12 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tonquoc0407/capybara) · [官网](https://getcapybara.tonquoc1412.workers.dev/) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tonquoc0407/capybara) · [官网](https://getcapybara.tonquoc1412.workers.dev/) · 个人维护
 
 **终端里的 AI agent 追踪调试器：记录并定位 agent 出错环节**
 

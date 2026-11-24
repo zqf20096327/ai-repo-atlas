@@ -1,6 +1,6 @@
 # jaccen/Awesome-Gaussian-Skills
 
-⭐ 190 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jaccen/Awesome-Gaussian-Skills) · [官网](https://jaccen.github.io/Awesome-Gaussian-Skills/) · 个人维护 · 中文 README
+⭐ 191 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/jaccen/Awesome-Gaussian-Skills) · [官网](https://jaccen.github.io/Awesome-Gaussian-Skills/) · 个人维护 · 中文 README
 
 **3DGS 方法目录：976 篇 arXiv 验证论文 + 18 个 AI agent 技能 + MCP 服务器**
 

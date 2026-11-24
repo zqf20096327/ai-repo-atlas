@@ -1,6 +1,6 @@
 # ggml-org/llama-brand
 
-⭐ 11 · Svelte · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/ggml-org/llama-brand) · [官网](https://ggml-org-llama-brand-storybook.static.hf.space) · 组织维护
+⭐ 11 · Svelte · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ggml-org/llama-brand) · [官网](https://ggml-org-llama-brand-storybook.static.hf.space) · 组织维护
 
 **Llama 与 llama.cpp 的官方品牌素材库：logo、字体与配色**
 

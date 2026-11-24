@@ -1,6 +1,6 @@
 # yuezhiai/jonex
 
-⭐ 1,729 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/yuezhiai/jonex) · [官网](https://jonex.ai) · 组织维护 · 中文 README
+⭐ 1,743 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/yuezhiai/jonex) · [官网](https://jonex.ai) · 组织维护 · 中文 README
 
 **给企业 Agent 提供本体驱动的多模态知识服务引擎**
 

@@ -1,6 +1,6 @@
 # fragshq/frags
 
-⭐ 19 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/fragshq/frags) · 组织维护
+⭐ 20 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/fragshq/frags) · 组织维护
 
 **面向工程师的 Go AI Agent：执行复杂数据检索/转换/提取/聚合工作流**
 

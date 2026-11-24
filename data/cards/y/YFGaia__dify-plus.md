@@ -1,6 +1,6 @@
 # YFGaia/dify-plus
 
-⭐ 2,268 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/YFGaia/dify-plus) · 组织维护 · 中文 README
+⭐ 2,269 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/YFGaia/dify-plus) · 组织维护 · 中文 README
 
 **基于 Dify 的企业 AI 应用平台二次开发版，增加企业身份与额度管理**
 

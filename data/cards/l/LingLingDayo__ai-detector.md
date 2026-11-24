@@ -1,6 +1,6 @@
 # LingLingDayo/ai-detector
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/LingLingDayo/ai-detector) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LingLingDayo/ai-detector) · 个人维护 · 中文 README
 
 **给开发者的 LLM API 真实性鉴别桌面客户端**
 

@@ -1,6 +1,6 @@
 # duncankmckinnon/thirdeye
 
-⭐ 13 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/duncankmckinnon/thirdeye) · [官网](https://third3y3.com/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/duncankmckinnon/thirdeye) · [官网](https://third3y3.com/) · 个人维护
 
 **将本机编码 agent 会话追踪为持久历史并导出 Logfire**
 

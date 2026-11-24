@@ -1,6 +1,6 @@
 # kagan-sh/kagan
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kagan-sh/kagan) · [官网](https://kagan.sh) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kagan-sh/kagan) · [官网](https://kagan.sh) · 个人维护
 
 **运行 AI 编码 agent 的开源跨平台桌面应用**
 

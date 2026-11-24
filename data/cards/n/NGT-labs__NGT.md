@@ -1,6 +1,6 @@
 # NGT-labs/NGT
 
-⭐ 1,376 · C++ · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/NGT-labs/NGT) · 组织维护
+⭐ 1,376 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NGT-labs/NGT) · 组织维护
 
 **高维向量近似最近邻搜索的图+树索引库**
 

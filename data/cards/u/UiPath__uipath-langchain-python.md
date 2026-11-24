@@ -1,6 +1,6 @@
 # UiPath/uipath-langchain-python
 
-⭐ 74 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/UiPath/uipath-langchain-python) · [官网](https://uipath.github.io/uipath-python/langchain/quick_start/) · 组织维护
+⭐ 74 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/UiPath/uipath-langchain-python) · [官网](https://uipath.github.io/uipath-python/langchain/quick_start/) · 组织维护
 
 **将 LangGraph agent 构建部署到 UiPath 云平台的 Python SDK**
 

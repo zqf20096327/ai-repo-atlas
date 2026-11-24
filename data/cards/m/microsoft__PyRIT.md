@@ -1,6 +1,6 @@
 # microsoft/PyRIT
 
-⭐ 5,028 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/PyRIT) · [官网](https://microsoft.github.io/PyRIT/) · 组织维护
+⭐ 5,039 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/PyRIT) · [官网](https://microsoft.github.io/PyRIT/) · 组织维护
 
 **微软开源的生成式 AI 红队测试工具包**
 

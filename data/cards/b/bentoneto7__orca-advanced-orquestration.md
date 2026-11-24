@@ -1,6 +1,6 @@
 # bentoneto7/orca-advanced-orquestration
 
-⭐ 4 · JavaScript · 推送 2026-10-16 · [GitHub](https://github.com/bentoneto7/orca-advanced-orquestration) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **在 Orca 中并行编排六个 AI 编码 agent 的多智能体编排配置**
 

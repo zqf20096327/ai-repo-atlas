@@ -1,6 +1,6 @@
 # Fzkuji/OpenProgram
 
-⭐ 362 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Fzkuji/OpenProgram) · [官网](https://openprogram.io/) · 组织维护 · 中文 README
+⭐ 366 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Fzkuji/OpenProgram) · [官网](https://openprogram.io/) · 组织维护 · 中文 README
 
 **开源 agent 框架：以会自我修改的 Python 程序构建 agent**
 

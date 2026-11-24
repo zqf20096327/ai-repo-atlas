@@ -1,6 +1,6 @@
 # PerryLink/dsh-output-styles
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-output-styles) · [官网](https://www.npmjs.com/package/dsh-output-styles) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-output-styles) · [官网](https://www.npmjs.com/package/dsh-output-styles) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：运行时切换模型输出风格并会话级持久化**
 

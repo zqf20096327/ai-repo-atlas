@@ -1,6 +1,6 @@
 # skein-js/skein-js
 
-⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/skein-js/skein-js) · [官网](https://skein.js.org/) · 组织维护
+⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/skein-js/skein-js) · [官网](https://skein.js.org/) · 组织维护
 
 **自托管 LangGraph.js agent 的 TypeScript 运行时服务**
 

@@ -1,6 +1,6 @@
 # dominikamann/ha-machine-learning-based-pv-forecast
 
-⭐ 8 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dominikamann/ha-machine-learning-based-pv-forecast) · 个人维护
+⭐ 9 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/dominikamann/ha-machine-learning-based-pv-forecast) · 个人维护
 
 **从自有发电历史学习的 Home Assistant 光伏发电量预测集成**
 

@@ -1,6 +1,6 @@
 # any4ai/AnyCrawl
 
-⭐ 3,583 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/any4ai/AnyCrawl) · [官网](https://anycrawl.dev) · 组织维护
+⭐ 3,588 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/any4ai/AnyCrawl) · [官网](https://anycrawl.dev) · 组织维护
 
 **把网页转为 LLM 可用数据的 Node.js 爬虫工具包**
 

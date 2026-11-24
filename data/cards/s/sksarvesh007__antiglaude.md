@@ -1,6 +1,6 @@
 # sksarvesh007/antiglaude
 
-⭐ 179 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sksarvesh007/antiglaude) · [官网](https://github.com/sksarvesh007/antiglaude-bridge#readme) · 个人维护
+⭐ 183 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sksarvesh007/antiglaude) · [官网](https://github.com/sksarvesh007/antiglaude-bridge#readme) · 个人维护
 
 **本地协议网关：让 Claude Code 与 OpenAI 工具链调用 Google/Gemini 上游模型**
 

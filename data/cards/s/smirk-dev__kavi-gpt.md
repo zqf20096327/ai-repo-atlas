@@ -1,6 +1,6 @@
 # smirk-dev/kavi-gpt
 
-⭐ 4 · Python · MIT · 推送 2026-10-09 · [GitHub](https://github.com/smirk-dev/kavi-gpt) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用纯 NumPy 从零手写 GPT 的教学实现，供学习者研究**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

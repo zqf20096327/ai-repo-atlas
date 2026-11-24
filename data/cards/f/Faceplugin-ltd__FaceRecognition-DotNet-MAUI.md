@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-DotNet-MAUI
 
-⭐ 53 · C# · 推送 2026-11-13 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-DotNet-MAUI) · [官网](https://faceplugin.com/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **.NET MAUI 人脸识别 SDK 示例应用：端上注册、1:N 识别与活体检测**
 

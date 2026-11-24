@@ -1,6 +1,6 @@
 # SeldonIO/MLServer
 
-⭐ 903 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/SeldonIO/MLServer) · [官网](https://mlserver.readthedocs.io/en/latest/) · 组织维护
+⭐ 904 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SeldonIO/MLServer) · [官网](https://mlserver.readthedocs.io/en/latest/) · 组织维护
 
 **开源机器学习模型推理服务器：REST/gRPC 多框架多模型服务**
 

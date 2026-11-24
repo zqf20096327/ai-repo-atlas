@@ -1,6 +1,6 @@
 # AnonymousNomad/covert-coder
 
-⭐ 54 · TypeScript · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/AnonymousNomad/covert-coder) · 个人维护
+⭐ 54 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AnonymousNomad/covert-coder) · 个人维护
 
 **本地优先的治理型 AI 软件工程工作台：模型作为可替换执行者**
 

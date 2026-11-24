@@ -1,6 +1,6 @@
 # MSiccDev/ai-context-kit
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MSiccDev/ai-context-kit) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MSiccDev/ai-context-kit) · 个人维护
 
 **维护跨 LLM 提供商的 AI 协作上下文与技能框架**
 

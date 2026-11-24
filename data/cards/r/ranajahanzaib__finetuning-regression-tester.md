@@ -1,6 +1,6 @@
 # ranajahanzaib/finetuning-regression-tester
 
-⭐ 4 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ranajahanzaib/finetuning-regression-tester) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/finetuning-regression-tester) · 个人维护
 
 **微调前后对比评估工具：量化任务收益与行为回退**
 

@@ -1,6 +1,6 @@
 # NeoMei/SuperWagie
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/NeoMei/SuperWagie) · [官网](https://www.superwagie.com/) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NeoMei/SuperWagie) · [官网](https://www.superwagie.com/) · 个人维护 · 中文 README
 
 **面向办公与编程的本地 AI 工作台，支持文档与 PPT 生成**
 

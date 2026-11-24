@@ -1,6 +1,6 @@
 # nodecode-ai/nodecode
 
-⭐ 286 · Common Lisp · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nodecode-ai/nodecode) · [官网](https://nodecode.ai) · 组织维护
+⭐ 287 · Common Lisp · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nodecode-ai/nodecode) · [官网](https://nodecode.ai) · 组织维护
 
 **用 Common Lisp 自我改写的终端编码 agent**
 

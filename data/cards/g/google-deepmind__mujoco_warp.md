@@ -1,6 +1,6 @@
 # google-deepmind/mujoco_warp
 
-⭐ 1,649 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/google-deepmind/mujoco_warp) · 组织维护
+⭐ 1,653 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-deepmind/mujoco_warp) · 组织维护
 
 **面向机器人研究的 GPU 加速 MuJoCo 物理仿真器**
 

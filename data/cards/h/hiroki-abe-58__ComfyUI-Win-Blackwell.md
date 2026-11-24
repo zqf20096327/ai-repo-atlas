@@ -1,6 +1,6 @@
 # hiroki-abe-58/ComfyUI-Win-Blackwell
 
-⭐ 39 · PowerShell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hiroki-abe-58/ComfyUI-Win-Blackwell) · 个人维护 · 中文 README
+⭐ 40 · PowerShell · MIT · 推送 2026-10-22 · [GitHub](https://github.com/hiroki-abe-58/ComfyUI-Win-Blackwell) · 个人维护 · 中文 README
 
 **Windows 原生 ComfyUI 安装包：适配 RTX 50 系 Blackwell GPU**
 

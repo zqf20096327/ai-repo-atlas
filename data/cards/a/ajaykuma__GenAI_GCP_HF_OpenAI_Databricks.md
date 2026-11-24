@@ -1,6 +1,6 @@
 # ajaykuma/GenAI_GCP_HF_OpenAI_Databricks
 
-⭐ 17 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/ajaykuma/GenAI_GCP_HF_OpenAI_Databricks) · 个人维护
+⭐ 18 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/ajaykuma/GenAI_GCP_HF_OpenAI_Databricks) · 个人维护
 
 **个人 GenAI 学习笔记与代码示例仓库（GCP/Databricks/HF/OpenAI）**
 

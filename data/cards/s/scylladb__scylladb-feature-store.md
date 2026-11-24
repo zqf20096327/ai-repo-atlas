@@ -1,6 +1,6 @@
 # scylladb/scylladb-feature-store
 
-⭐ 21 · Jupyter Notebook · 推送 2026-11-16 · [GitHub](https://github.com/scylladb/scylladb-feature-store) · [官网](https://feature-store.scylladb.com/) · 组织维护
+⭐ 21 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/scylladb/scylladb-feature-store) · [官网](https://feature-store.scylladb.com/) · 组织维护
 
 **Feast + ScyllaDB 实时信贷评分示例应用（特征存储演示）**
 

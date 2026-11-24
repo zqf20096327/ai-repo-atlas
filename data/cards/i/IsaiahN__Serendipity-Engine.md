@@ -1,6 +1,6 @@
 # IsaiahN/Serendipity-Engine
 
-⭐ 16 · JavaScript · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/IsaiahN/Serendipity-Engine) · [官网](https://chromewebstore.google.com/detail/serendipity-storyweaver/bkpphanncdhpcbmalnpknoieglmopjib) · 个人维护
+⭐ 17 · JavaScript · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/IsaiahN/Serendipity-Engine) · [官网](https://chromewebstore.google.com/detail/serendipity-storyweaver/bkpphanncdhpcbmalnpknoieglmopjib) · 个人维护
 
 **面向作者的 AI 创意写作工作台：8 阶段构建完整叙事作品**
 

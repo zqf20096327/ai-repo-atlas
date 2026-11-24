@@ -1,10 +1,10 @@
 # yetone/magpie
 
-⭐ 40,014 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
+⭐ 40,485 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yetone/magpie) · [官网](https://usemagpie.ai) · 个人维护 · 中文 README
 
-**把各编码 agent 的模型与账号接入统一本地网关的菜单栏应用**
+**本地网关应用：给各 AI Agent 统一切换模型与账号**
 
-magpie 在本机 127.0.0.1:3425 运行一个本地网关，将 Claude Code、Codex、Gemini CLI 等 agent 的模型配置收敛到一个应用中：它改写各 agent 自身配置文件的模型项，提供 provider 预设与订阅账号登录，配额耗尽时在账号与路由组间切换。网关在 OpenAI Chat/Responses、Anthropic Messages 与 Gemini 协议间做翻译，含流式、工具调用与推理。另提供提示词中密钥的本地脱敏（默认关闭）、路由组（smart/order/rotate/usage/pace 五种模式）、插件系统（运行于 Bun）。支持 macOS/Windows/Linux/Docker/Termux，含菜单栏、TUI、Web UI 与 CLI 形态。
+一个运行在菜单栏/终端的本地网关应用，把多个 AI Agent（Claude Code、Codex、Gemini CLI 等）的模型配置收拢到一处：向任意 Agent 指派任意 provider 的模型，改写 Agent 自身配置文件；网关在 127.0.0.1:3425 互译 OpenAI/Anthropic/Gemini 协议（含流式、工具调用、推理内容）。支持订阅账号发现与多账号配额故障切换、路由组（smart/order/rotate/usage/pace）、本地隐私掩码（默认关闭）、npm 插件体系。面向同时使用多个 Agent、多个 provider 或多个账号的用户。
 
 ## 筛选速览
 
@@ -26,17 +26,17 @@ magpie 在本机 127.0.0.1:3425 运行一个本地网关，将 Claude Code、Cod
 
 ## 能力要点
 
-- 本地网关翻译 OpenAI/Anthropic/Gemini 协议，含流式、工具调用与推理
-- 路由组五种模式与多账号配额故障切换
-- 提示词中密钥/邮箱的本地脱敏与占位符还原（默认关闭）
-- 插件系统运行于 Bun，支持 npm 上的 OpenCode 插件
+- 本地网关互译 OpenAI/Anthropic/Gemini 协议，含流式、工具调用与推理
+- 配额用尽自动切换下一账号，路由组按 5 种策略分派请求
+- 本地掩码：密钥/密码/邮箱在请求发出前替换为占位符并在回复中还原
+- 支持约 80 个已列名 Agent，任何接受 base URL 的工具可直连网关
 
 ## 适用场景
 
-- 让 Claude Code 使用 DeepSeek/Kimi 等其他模型的 API key
-- 多个订阅账号间自动切换以在配额耗尽时继续工作
-- 在一个列表里为多个 agent 统一挑选与切换模型
-- 在请求离开本机前对提示词中的密钥做脱敏
+- 一个订阅配额用完时自动切到下一个账号，Agent 不报错
+- 给 Claude Code 换上 DeepSeek 或 Kimi 的模型
+- 多个 Agent 统一在一处管理和切换模型
+- 在本地掩码密钥后再发给模型厂商
 
 ## 场景标签
 
@@ -44,7 +44,7 @@ magpie 在本机 127.0.0.1:3425 运行一个本地网关，将 Claude Code、Cod
 
 ## 证据(README 行号)
 
-> L8: Switch any of them from the menu bar. One local gateway serves them all,
+> L28: Each agent keeps its model in its own file, in its own format, with its own keys and base URLs. A subscription you 
 > L78: The gateway at `127.0.0.1:3425` speaks OpenAI Chat, OpenAI Responses, Anthropic Messages and Gemini, and translates
 > L80:  How magpie fits together: your agents send requests to the magpie gateway at 127.0.0.1:3425, which routes them thr
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cdacab7d5adf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `db92ec4c34db` · [字段定义](../../DATASET.md)*

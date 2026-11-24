@@ -1,6 +1,6 @@
 # brave/pull-merge
 
-⭐ 24 · JavaScript · MPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/brave/pull-merge) · 组织维护
+⭐ 24 · JavaScript · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/brave/pull-merge) · 组织维护
 
 **为 GitHub pull request 添加 LLM 能力的 GitHub Action**
 

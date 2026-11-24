@@ -1,6 +1,6 @@
 # ddkeeper/easy-llm
 
-⭐ 38 · Jupyter Notebook · 推送 2026-11-05 · [GitHub](https://github.com/ddkeeper/easy-llm) · [官网](https://www.bilibili.com/video/BV1NV8t6AE4T/?vd_source=0034741cbe350a95fe85ffdab1bdc34a) · 个人维护 · 中文 README
+⭐ 39 · Jupyter Notebook · 推送 2026-11-05 · [GitHub](https://github.com/ddkeeper/easy-llm) · [官网](https://www.bilibili.com/video/BV1NV8t6AE4T/?vd_source=0034741cbe350a95fe85ffdab1bdc34a) · 个人维护 · 中文 README
 
 **斯坦福 CS 336 零基础手搓大模型教程配套代码**
 

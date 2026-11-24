@@ -1,6 +1,6 @@
 # badgids/pi-skill-orchestrator
 
-⭐ 21 · TypeScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/badgids/pi-skill-orchestrator) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-09-18 · [GitHub](https://github.com/badgids/pi-skill-orchestrator) · 个人维护
 
 **Pi 终端的 Agent 技能懒加载扩展：技能目录不占系统提示词**
 

@@ -1,6 +1,6 @@
 # MorvanZhou/agentup
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/MorvanZhou/agentup) · [官网](https://agentup.me) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MorvanZhou/agentup) · [官网](https://agentup.me) · 个人维护 · 中文 README
 
 **本地优先的桌面 IM：像加好友一样添加并协作使用 AI 助手**
 

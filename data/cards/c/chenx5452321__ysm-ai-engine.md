@@ -1,6 +1,6 @@
 # chenx5452321/ysm-ai-engine
 
-⭐ 23 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/chenx5452321/ysm-ai-engine) · 个人维护 · 中文 README
+⭐ 35 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/chenx5452321/ysm-ai-engine) · 个人维护 · 中文 README
 
 **为 AI Agent 提供的 Minecraft YSM 模型程序化建模与校验引擎**
 

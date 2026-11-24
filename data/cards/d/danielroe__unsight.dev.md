@@ -1,6 +1,6 @@
 # danielroe/unsight.dev
 
-⭐ 154 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/danielroe/unsight.dev) · [官网](https://unsight.dev) · 个人维护
+⭐ 154 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/danielroe/unsight.dev) · [官网](https://unsight.dev) · 个人维护
 
 **跨仓库检测重复 GitHub issue 与问题聚集区的 Web 应用**
 

@@ -1,6 +1,6 @@
 # ishandutta2007/Awesome-Image-Generation-AI
 
-⭐ 20 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ishandutta2007/Awesome-Image-Generation-AI) · 个人维护
+⭐ 21 · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ishandutta2007/Awesome-Image-Generation-AI) · 个人维护
 
 **AI 图像生成工具策展清单：收录 SaaS 平台与开源项目**
 

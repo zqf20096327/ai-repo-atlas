@@ -1,6 +1,6 @@
 # BobbyCats/agy-hyper
 
-⭐ 3 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/BobbyCats/agy-hyper) · 个人维护 · 中文 README
+⭐ 3 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BobbyCats/agy-hyper) · 个人维护 · 中文 README
 
 **为 Google Antigravity 用户诊断配额消耗并加速 MCP 调用的本地插件**
 

@@ -1,6 +1,6 @@
 # YoongiKim/AutoCrawler
 
-⭐ 1,700 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/YoongiKim/AutoCrawler) · 个人维护
+⭐ 1,701 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/YoongiKim/AutoCrawler) · 个人维护
 
 **Google/Naver 多进程图片爬虫，用于构建图像数据集**
 

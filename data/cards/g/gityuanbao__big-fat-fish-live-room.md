@@ -1,6 +1,6 @@
 # gityuanbao/big-fat-fish-live-room
 
-⭐ 16 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/gityuanbao/big-fat-fish-live-room) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/gityuanbao/big-fat-fish-live-room) · 个人维护 · 中文 README
 
 **Windows 本地虚拟直播工作室，驱动虚拟主播回应弹幕直播**
 

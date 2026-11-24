@@ -1,6 +1,6 @@
 # trymetis/metis
 
-⭐ 22 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/trymetis/metis) · [官网](https://www.trymetis.email) · 组织维护
+⭐ 23 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/trymetis/metis) · [官网](https://www.trymetis.email) · 组织维护
 
 **自托管邮件/日历/网盘聚合客户端，附 AI 助手与自动化工作流**
 

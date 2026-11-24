@@ -1,6 +1,6 @@
 # jerry-token/serialbot
 
-⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/jerry-token/serialbot) · 个人维护 · 中文 README
+⭐ 7 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/jerry-token/serialbot) · 个人维护 · 中文 README
 
 **嵌入式开发者的串口调试助手，内置 MCP 让 AI agent 操作串口**
 

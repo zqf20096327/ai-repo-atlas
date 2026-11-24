@@ -1,6 +1,6 @@
 # Nigh/show-me-the-story
 
-⭐ 651 · Go · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Nigh/show-me-the-story) · 个人维护 · 中文 README
+⭐ 649 · Go · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Nigh/show-me-the-story) · 个人维护 · 中文 README
 
 **自托管 AI 长篇小说写作工具：单可执行文件加 Web 界面**
 

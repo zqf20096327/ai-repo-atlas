@@ -1,10 +1,10 @@
 # modelscope/FunASR
 
-⭐ 21,100 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/modelscope/FunASR) · [官网](www.funasr.com) · 组织维护 · 中文 README
+⭐ 21,108 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/FunASR) · [官网](www.funasr.com) · 组织维护 · 中文 README
 
-**语音识别工具包：训练/推理/流式 ASR 与服务化部署**
+**面向工业与边缘部署的语音识别工具包，覆盖训练推理与流式服务**
 
-FunASR 是一个开源语音识别工具包，覆盖离线转录、流式 ASR、VAD、标点、说话人分离管线及情感/音频事件模型。用户通过 Python AutoModel、CLI（funasr 命令）、HTTP 服务（OpenAI 兼容 /v1/audio/transcriptions）或 GGUF 预编译二进制获得转录结果。工具包与检查点分离：Fun-ASR-Nano 覆盖中英日及方言，Fun-ASR-MLT-Nano 覆盖 31 种语言，SenseVoiceSmall 提供五语言加情感/事件标签。模型许可独立于工具包 MIT 许可，GPU 需自行匹配 PyTorch CUDA 轮子。
+FunASR 是一个语音识别工具包，将任务、checkpoint 与运行时解耦选择：提供离线/流式转写、VAD、标点、说话人聚类、情感与音频事件识别等 pipeline，Model Zoo 含 Paraformer、SenseVoiceSmall、Fun-ASR-Nano 及第三方模型。可通过 Python AutoModel、CLI、OpenAI 兼容 HTTP 服务、MCP Server 或 llama.cpp/GGUF 预编译二进制部署，支持 CPU、GPU 与 Vulkan/CUDA。模型许可与工具包 MIT 许可分离。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@ FunASR 是一个开源语音识别工具包，覆盖离线转录、流式 ASR、
 
 ## 能力要点
 
-- 提供离线、流式、边缘部署三类运行路径（Python/HTTP/GGUF 单文件二进制）
-- Model Zoo 含 ASR、VAD、标点、说话人嵌入、情感识别等多类检查点
-- OpenAI 兼容 API 服务与 MCP Server、Docker 流式服务镜像
-- llama.cpp/GGUF 路径内置 FSMN-VAD，运行时无需 Python
+- 任务/checkpoint/运行时解耦：转写、流式、VAD、标点、说话人 pipeline 可组合
+- OpenAI 兼容 API、MCP Server（Claude/Cursor）与 CLI 转写入口
+- llama.cpp/GGUF 单文件二进制支持 CPU/边缘设备，含 Vulkan 与 CUDA Windows 包
+- Model Zoo 覆盖中英日韩粤及 31 语言多语种 checkpoint
 
 ## 适用场景
 
-- 把中文语音批量转录为带标点和时间戳的文本
-- 搭建本地 OpenAI 兼容的语音识别 HTTP 服务
-- 在无 GPU 的边缘设备上用 GGUF 二进制跑 ASR
-- 为语音 agent 接入 MCP 或实时识别插件
+- 把中文/多语种录音批量转写成带时间戳与标点的文本
+- 部署本地流式实时 ASR 的 WebSocket 服务
+- 为 Claude/Cursor 等 agent 接入语音转写 MCP 服务
+- 在无 GPU、无 Python 的边缘设备上运行 SenseVoice 转写
 
 ## 场景标签
 
@@ -47,7 +47,7 @@ FunASR 是一个开源语音识别工具包，覆盖离线转录、流式 ASR、
 
 > L5:  Industrial speech recognition toolkit for offline, streaming, and edge deployment.
 > L112: FunASR is a toolkit: choose the task, checkpoint, and runtime separately.
-> L117: |File transcription with emotion/event tags|SenseVoiceSmall|Python `AutoModel`, CPU or GPU|Five-language checkpoin
+> L233: Run **SenseVoice / Paraformer / Fun-ASR-Nano** as a **single self-contained binary** on CPU and edge devices — thi
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `a1fb150b4235` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `47f70fe23649` · [字段定义](../../DATASET.md)*

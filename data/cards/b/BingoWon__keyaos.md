@@ -1,6 +1,6 @@
 # BingoWon/keyaos
 
-⭐ 40 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/BingoWon/keyaos) · [官网](https://keyaos.com) · 个人维护 · 中文 README
+⭐ 39 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/BingoWon/keyaos) · [官网](https://keyaos.com) · 个人维护 · 中文 README
 
 **运行在 Cloudflare Workers 上的多协议 AI API 网关，按成本路由**
 

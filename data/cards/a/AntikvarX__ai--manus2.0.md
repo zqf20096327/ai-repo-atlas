@@ -1,6 +1,6 @@
 # AntikvarX/ai--manus2.0
 
-⭐ 52 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AntikvarX/ai--manus2.0) · 个人维护
+⭐ 40 · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/AntikvarX/ai--manus2.0) · 个人维护
 
 **面向个人用户的自主 AI Agent，代用户执行代码与浏览器操作**
 

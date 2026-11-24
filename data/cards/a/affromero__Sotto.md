@@ -1,6 +1,6 @@
 # affromero/Sotto
 
-⭐ 38 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/affromero/Sotto) · 个人维护
+⭐ 38 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/affromero/Sotto) · 个人维护
 
 **自托管开源 AI 语言学习平台：围绕个人语境的 CEFR 课程**
 

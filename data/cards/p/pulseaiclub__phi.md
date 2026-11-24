@@ -1,6 +1,6 @@
 # pulseaiclub/phi
 
-⭐ 1,010 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pulseaiclub/phi) · [官网](https://pulseaiclub.github.io/) · 组织维护 · 中文 README
+⭐ 1,013 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pulseaiclub/phi) · [官网](https://pulseaiclub.github.io/) · 组织维护 · 中文 README
 
 **面向开发者的终端编码 Agent TUI（Go 单二进制，含 MCP 与子 Agent）**
 

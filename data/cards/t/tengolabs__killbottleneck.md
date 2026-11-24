@@ -1,6 +1,6 @@
 # tengolabs/killbottleneck
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/tengolabs/killbottleneck) · [官网](https://killbottleneck.com) · 组织维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tengolabs/killbottleneck) · [官网](https://killbottleneck.com) · 组织维护
 
 **可自托管的目标/流程地图工具，含 AI 助手、REST API 与 MCP 服务**
 

@@ -1,6 +1,6 @@
 # hemu996/smart-ppt-designer
 
-⭐ 22 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hemu996/smart-ppt-designer) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hemu996/smart-ppt-designer) · 个人维护 · 中文 README
 
 **把 PDF/DOCX 材料生成原生可编辑 PPT 的技能包**
 

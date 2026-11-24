@@ -1,6 +1,6 @@
 # microsoft/TypeAgent
 
-⭐ 755 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/TypeAgent) · 组织维护
+⭐ 756 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/TypeAgent) · 组织维护
 
 **微软的示例代码：用 LLM 构建统一自然语言个人 agent 架构**
 

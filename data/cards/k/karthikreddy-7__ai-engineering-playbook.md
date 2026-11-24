@@ -1,6 +1,6 @@
 # karthikreddy-7/ai-engineering-playbook
 
-⭐ 64 · MDX · MIT · 推送 2026-08-02 · [GitHub](https://github.com/karthikreddy-7/ai-engineering-playbook) · [官网](https://karthikreddy-7.github.io/ai-engineering-playbook/) · 个人维护
+⭐ 65 · MDX · MIT · 推送 2026-08-02 · [GitHub](https://github.com/karthikreddy-7/ai-engineering-playbook) · [官网](https://karthikreddy-7.github.io/ai-engineering-playbook/) · 个人维护
 
 **应用 AI 工程学习路径站点：RAG、向量检索、agents、MCP 等教程**
 

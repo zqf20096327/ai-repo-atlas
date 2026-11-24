@@ -1,6 +1,6 @@
 # ryuxdsgn/design-intelligence
 
-⭐ 177 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ryuxdsgn/design-intelligence) · [官网](https://ryux.design) · 组织维护
+⭐ 178 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ryuxdsgn/design-intelligence) · [官网](https://ryux.design) · 组织维护
 
 **给 AI 编码/设计 agent 的设计决策技能包**
 

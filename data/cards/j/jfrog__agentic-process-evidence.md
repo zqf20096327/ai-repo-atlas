@@ -1,6 +1,6 @@
 # jfrog/agentic-process-evidence
 
-⭐ 15 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jfrog/agentic-process-evidence) · 组织维护
+⭐ 15 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jfrog/agentic-process-evidence) · 组织维护
 
 **将 AI agent 会话证据绑定到 SDLC 实体的治理标准**
 

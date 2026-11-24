@@ -1,10 +1,10 @@
 # hiyouga/LlamaFactory
 
-⭐ 76,204 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 组织维护 · 中文 README
+⭐ 76,245 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hiyouga/LlamaFactory) · [官网](https://llamafactory.readthedocs.io) · 个人维护 · 中文 README
 
-**零代码微调 100+ 大语言与多模态模型的统一框架**
+**为开发者提供 100+ LLM/VLM 的统一微调训练框架**
 
-统一的 LLM/VLM 高效微调框架：支持 (多模态) 预训练、SFT、奖励建模及 PPO/DPO/KTO/ORPO 等训练方法，量化位宽覆盖 16-bit 全参到 2/8-bit QLoRA，集成 GaLore、DoRA、LongLoRA 等算法与 FlashAttention-2、Unsloth 等加速技巧。以 zero-code CLI 和 Web UI 形式提供微调入口，训练后可通过 vLLM/SGLang worker 提供 OpenAI 风格 API、Gradio UI 与 CLI 推理；用户主要为模型开发者与研究者。ACL 2024 论文发布。
+以零代码 CLI 与 Web UI 的形式对 100 余个大语言与多模态模型做统一微调：覆盖 (多模态) 预训练、SFT、奖励建模及 PPO/DPO/KTO/ORPO 等对齐训练方法，支持 16-bit 全量、freeze、LoRA 与多比特 QLoRA（AQLM/AWQ/GPTQ 等）。内置 LlamaBoard/TensorBoard/Wandb 等实验监控，推理侧提供 OpenAI 风格 API、Gradio UI 与 CLI，可挂接 vLLM/SGLang worker。README 给出 Python/torch/transformers 等版本要求、各训练方法的显存估算表，并提供 Colab/PAI-DSW/AMD GPU Cloud 等云端训练入口与 Docker 镜像；论文发表于 ACL 2024。
 
 ## 筛选速览
 
@@ -27,27 +27,27 @@
 
 ## 能力要点
 
-- 支持 100+ LLM/VLM 模型的统一微调（Day-0/Day-1 跟进前沿模型）
-- 覆盖预训练、SFT、奖励建模、PPO/DPO/KTO/ORPO 等训练方法
-- LoRA/QLoRA 至 2/3/4/5/6/8-bit，集成 GaLore、BAdam、DoRA、LongLoRA 等算法
-- 提供 zero-code CLI 与 Web UI，推理支持 vLLM/SGLang worker 的 OpenAI 风格 API
+- 100+ LLM/VLM 模型的统一微调支持（Day-0/Day-1 跟进新模型）
+- (Continuous) 预训练、SFT、奖励建模、PPO/DPO/KTO/ORPO 等 8 类训练方法
+- LoRA 与 2-8-bit QLoRA 量化微调（AQLM/AWQ/GPTQ/LLM.int8/HQQ/EETQ）
+- OpenAI 风格 API、Gradio UI、CLI 推理，支持 vLLM/SGLang worker
 
 ## 适用场景
 
-- 用 LoRA/QLoRA 在单卡上微调开源大模型
+- 对开源大模型做指令微调或偏好对齐训练
+- 在有限显存下用 QLoRA 微调 7B-70B 模型
 - 多模态模型（图像/视频/音频理解）的监督微调
-- PPO/DPO 等偏好对齐训练与奖励建模
-- 通过 Web UI 零代码完成微调流程
+- 训练后经 OpenAI 风格 API 或 vLLM 部署推理
 
 ## 场景标签
 
-`微调` `强化学习` `模型量化` `模型训练` · 领域:训练与推理
+`微调` `模型训练` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L36: ### Easily fine-tune 100+ large language models with zero-code CLI and Web UI
-> L69: - **Various models**: LLaMA, LLaVA, Mistral, Mixtral-MoE, Qwen3, Qwen3-VL, DeepSeek, Gemma, GLM, Phi, etc.
 > L70: - **Integrated methods**: (Continuous) pre-training, (multimodal) supervised fine-tuning, reward modeling, PPO, DPO
+> L76: - **Faster inference**: OpenAI-style API, Gradio UI and CLI with vLLM worker or SGLang worker.
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `29dc1998ac59` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4b28bc58dbef` · [字段定义](../../DATASET.md)*

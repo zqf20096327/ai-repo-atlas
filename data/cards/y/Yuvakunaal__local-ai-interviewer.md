@@ -1,6 +1,6 @@
 # Yuvakunaal/local-ai-interviewer
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Yuvakunaal/local-ai-interviewer) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Yuvakunaal/local-ai-interviewer) · 个人维护
 
 **在本机隐私运行、由本地 LLM 评分的求职模拟面试应用**
 

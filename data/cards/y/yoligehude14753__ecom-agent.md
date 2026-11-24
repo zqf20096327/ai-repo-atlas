@@ -1,6 +1,6 @@
 # yoligehude14753/ecom-agent
 
-⭐ 19 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/yoligehude14753/ecom-agent) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-03-26 · [GitHub](https://github.com/yoligehude14753/ecom-agent) · 个人维护
 
 **自托管亚马逊卖家 AI 自动化平台：选品、listing、评论、广告**
 

@@ -1,6 +1,6 @@
 # SakanaAI/doc-to-lora
 
-⭐ 846 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/SakanaAI/doc-to-lora) · [官网](https://arxiv.org/abs/2602.15902) · 组织维护
+⭐ 847 · Python · MIT · 推送 2026-06-15 · [GitHub](https://github.com/SakanaAI/doc-to-lora) · [官网](https://arxiv.org/abs/2602.15902) · 组织维护
 
 **从文档即时生成 LoRA 使 LLM 内化事实记忆的超网络参考实现**
 

@@ -1,6 +1,6 @@
 # topapothecarycanal/ai--manus2.0
 
-⭐ 376 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topapothecarycanal/ai--manus2.0) · 个人维护
+⭐ 373 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topapothecarycanal/ai--manus2.0) · 个人维护
 
 **面向个人日常任务的自主 AI Agent：可执行代码并控制浏览器**
 

@@ -1,6 +1,6 @@
 # LuD1161/agentjail
 
-⭐ 105 · Go · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/LuD1161/agentjail) · [官网](https://agentjail.io) · 个人维护
+⭐ 104 · Go · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/LuD1161/agentjail) · [官网](https://agentjail.io) · 个人维护
 
 **给开发者的编码 agent 策略防护与 OS 沙箱工具**
 

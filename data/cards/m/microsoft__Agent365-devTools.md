@@ -1,6 +1,6 @@
 # microsoft/Agent365-devTools
 
-⭐ 61 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/Agent365-devTools) · 组织维护
+⭐ 61 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agent365-devTools) · 组织维护
 
 **微软 Agent 365 应用的开发/部署/管理命令行工具**
 

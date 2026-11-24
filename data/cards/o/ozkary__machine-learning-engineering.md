@@ -1,6 +1,6 @@
 # ozkary/machine-learning-engineering
 
-⭐ 26 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/ozkary/machine-learning-engineering) · 个人维护
+⭐ 26 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ozkary/machine-learning-engineering) · 个人维护
 
 **机器学习工程学习资源库：教程、代码示例与选型指南**
 

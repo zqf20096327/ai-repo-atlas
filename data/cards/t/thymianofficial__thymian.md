@@ -1,6 +1,6 @@
 # thymianofficial/thymian
 
-⭐ 35 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/thymianofficial/thymian) · [官网](https://thymian.dev) · 组织维护
+⭐ 35 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/thymianofficial/thymian) · [官网](https://thymian.dev) · 组织维护
 
 **语言无关的 HTTP 一致性与 API 治理校验工具**
 

@@ -1,6 +1,6 @@
 # merakleee/micro-bot
 
-⭐ 4 · Python · 推送 2026-10-17 · [GitHub](https://github.com/merakleee/micro-bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **MicroClub 社团的文档 RAG 问答机器人**
 

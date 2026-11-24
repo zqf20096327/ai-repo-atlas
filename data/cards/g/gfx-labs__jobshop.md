@@ -1,6 +1,6 @@
 # gfx-labs/jobshop
 
-⭐ 4 · Go · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/gfx-labs/jobshop) · 组织维护
+⭐ 4 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/gfx-labs/jobshop) · 组织维护
 
 **自托管 AI coding agent 编排框架：工单驱动多 agent 工作流**
 

@@ -1,6 +1,6 @@
 # johunsang/semble_rs
 
-⭐ 219 · Rust · 推送 2026-06-01 · [GitHub](https://github.com/johunsang/semble_rs) · [官网](https://github.com/johunsang/semble_rs) · 个人维护
+⭐ 220 · Rust · 推送 2026-06-01 · [GitHub](https://github.com/johunsang/semble_rs) · [官网](https://github.com/johunsang/semble_rs) · 个人维护
 
 **给 AI 编码代理用的 Rust 代码搜索与 CI 输出压缩 CLI**
 

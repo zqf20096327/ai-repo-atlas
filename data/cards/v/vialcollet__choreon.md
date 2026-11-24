@@ -1,6 +1,6 @@
 # vialcollet/choreon
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/vialcollet/choreon) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vialcollet/choreon) · 个人维护
 
 **面向创作者的 AI 动效视频制作工作室：导演式产出动效影片**
 

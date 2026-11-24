@@ -1,6 +1,6 @@
 # CorsenAI/hermes-connector
 
-⭐ 30 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/CorsenAI/hermes-connector) · [官网](https://corsenai.github.io/hermes-connector/) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CorsenAI/hermes-connector) · [官网](https://corsenai.github.io/hermes-connector/) · 组织维护
 
 **把本地 Hermes Agent 会话接入用户选定 Chrome 标签页的浏览器扩展**
 

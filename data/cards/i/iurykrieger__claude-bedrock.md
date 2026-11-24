@@ -1,6 +1,6 @@
 # iurykrieger/claude-bedrock
 
-⭐ 111 · HTML · MIT · 推送 2026-05-05 · [GitHub](https://github.com/iurykrieger/claude-bedrock) · [官网](https://claude-bedrock.vercel.app) · 个人维护
+⭐ 112 · HTML · MIT · 推送 2026-05-05 · [GitHub](https://github.com/iurykrieger/claude-bedrock) · [官网](https://claude-bedrock.vercel.app) · 个人维护
 
 **把 Obsidian 仓库变成 AI 管理的 Second Brain 的 Claude Code 插件**
 

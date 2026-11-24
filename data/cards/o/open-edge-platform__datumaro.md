@@ -1,6 +1,6 @@
 # open-edge-platform/datumaro
 
-⭐ 701 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/open-edge-platform/datumaro) · [官网](https://open-edge-platform.github.io/datumaro) · 组织维护
+⭐ 701 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/open-edge-platform/datumaro) · [官网](https://open-edge-platform.github.io/datumaro) · 组织维护
 
 **构建、转换、分析计算机视觉数据集的 Python 库与 CLI**
 
