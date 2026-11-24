@@ -46,12 +46,12 @@ Electron 桌面应用（Tron 主题），读取本地 ~/.copilot/ 下的会话�
 ```mermaid
 xychart-beta
     title "BinaryMeadow/gridwatch 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-21 35 → 2026-11-23 35（+0）
+2026-10-22 35 → 2026-11-24 35（+0）
 
 
 ---

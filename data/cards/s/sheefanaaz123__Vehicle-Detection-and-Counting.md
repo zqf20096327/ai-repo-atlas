@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sheefanaaz123/Vehicle-Detection-and-Counting 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-21 15 → 2026-11-23 15（+0）
+2026-10-22 15 → 2026-11-24 15（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 924 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Mininglamp-OSS/octo-cli) · [官网](https://pkg.go.dev/github.com/Mininglamp-OSS/octo-cli) · 组织维护 · 中文 README
 
-**面向 AI Agent 机器人的元数据驱动 CLI：调用 Octo 生态后端服务**
+**供 AI Agent 通过 exec 调用的元数据驱动 REST CLI 客户端**
 
-单二进制 Go 编写的 REST 命令行客户端，供 AI Agent 机器人（OpenClaw、Claude Code 等 agent 运行时）通过 exec 调用。命令树在启动时由内嵌的 OpenAPI 3.x 规范自动注册，新增端点只需修改规范。每次调用输出结构化 JSON 信封，错误走 stderr 并带确定性分类，无交互式 I/O。覆盖文档、HTML 文档、网络硬盘、消息、群组、线程、机器人生命周期、事件轮询与 Loop 集群控制面等域，共数十个操作。认证仅支持机器人令牌，不含交互式用户登录。
+Octo 生态的命令行客户端，面向 AI Agent 运行时（OpenClaw、Claude Code 等）以 exec 方式调用。命令树由内嵌的 OpenAPI 3.x 规范在启动时自动注册，新增或修改端点只需编辑规范而非代码。每次调用在 stdout 输出含身份、数据、分页与限流元数据的结构化 JSON envelope，错误走 stderr 并使用固定错误分类，无交互式 I/O。覆盖文档、云盘、消息、群组、Loop 任务等域的操作，仅做传输、校验与格式化，业务逻辑在后端服务。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 命令树由内嵌 OpenAPI 3.x 规范自动注册，改端点只需改规范
-- 每次调用输出含身份、数据、分页与限流元数据的结构化 JSON 信封
-- bot-only 认证：支持 app_*/bf_*/uk_*/octo_loop_* 四类凭据前缀
-- skills/ 目录提供供 AI Agent 加载的机器可读使用文档
+- 元数据驱动：命令树由内嵌 OpenAPI 3.x 规范自动注册
+- 每次调用输出结构化 JSON envelope，错误分类确定
+- 仅 bot 认证（app_*/bf_*/uk_*/octo_loop_* 多种凭据类型），无交互登录
+- 单一 Go 二进制，npm/Go/安装脚本多渠道分发
 
 ## 适用场景
 
-- 在 agent 运行时中通过 exec 调用 Octo 生态后端的文档、消息、网盘等 API
-- 为 agent 机器人提供带确定性错误分类与退出码的 CLI 工具
-- 通过机器可读 skills 文档让 agent 学会使用该 CLI
+- 让 Agent 运行时通过 exec 调用完成文档、云盘、消息等操作
+- 以非交互 JSON 输出集成进自动化任务流程
+- 通过 Loop 域管理任务、成员、工作区与自动化
 
 ## 场景标签
 
- · 领域:开发者工具/AI Agent 基础设施
+ · 领域:开发者工具/Agent 基础设施
 
 ## 证据(README 行号)
 
-> L7: `octo-cli` is the command-line interface for the **Octo ecosystem** — a thin,
 > L8: single-binary REST client designed for **AI Agent Bots** to call via `exec`
-> L9: from agent runtimes (OpenClaw, Claude Code, and similar). Every invocation
+> L15: octo-cli is **metadata-driven**. The command tree is auto-registered at startup
+> L154: `octo-cli` is bot-only — there is no interactive user login. The token comes
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Mininglamp-OSS/octo-cli 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-24"]
     y-axis "stars" 919 --> 925
     line [920, 922, 923, 924, 924]
 ```
 
-2026-10-21 920 → 2026-11-23 924（+4）
+2026-10-22 920 → 2026-11-24 924（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `33b649bb2983` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `13936091a2c2` · [字段定义](../../DATASET.md)*

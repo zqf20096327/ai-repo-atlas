@@ -46,12 +46,12 @@ SlideCraft 是一个零安装 Node CLI，通过用户的 AI 助手（Claude Code
 ```mermaid
 xychart-beta
     title "eiler2005/slidecraft 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-11", "2026-11-23"]
+    x-axis ["2026-10-29", "2026-11-11", "2026-11-24"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-29 3 → 2026-11-23 4（+1）
+2026-10-29 3 → 2026-11-24 4（+1）
 
 
 ---

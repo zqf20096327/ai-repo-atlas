@@ -47,12 +47,12 @@ PyQt6 桌面客户端，通过微信官方 iLink Bot（ClawBot）协议扫码连
 ```mermaid
 xychart-beta
     title "mrliuzhiyu/Wechat-Claude-bot 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-21 26 → 2026-11-23 26（+0）
+2026-10-22 26 → 2026-11-24 26（+0）
 
 
 ---

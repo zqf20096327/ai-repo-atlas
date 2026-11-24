@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nobles92ts-ship-it/AI_GAME_QA_TestCase 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-23"]
+    x-axis ["2026-10-23", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-23 10（+0）
+2026-10-23 10 → 2026-11-24 10（+0）
 
 
 ---

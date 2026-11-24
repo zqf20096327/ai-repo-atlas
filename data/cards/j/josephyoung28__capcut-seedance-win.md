@@ -40,6 +40,18 @@
 > L19: CapCut Seedance is an AI video generation tool built for Windows that turns text prompts and still images into shor
 > L42: - **Text-to-Video Synthesis**: Describe a scene in plain language and generate a short clip that follows your promp
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "josephyoung28/capcut-seedance-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 337 --> 339
+    line [338, 338]
+```
+
+2026-11-23 338 → 2026-11-24 338（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3be3d0b59a52` · [字段定义](../../DATASET.md)*

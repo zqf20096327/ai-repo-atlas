@@ -46,12 +46,12 @@ README 本身是论文 QATNN-HFP-EN.pdf 的导读文件，介绍一项三值（-
 ```mermaid
 xychart-beta
     title "eDurphy/QATNN-HFP 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-23"]
+    x-axis ["2026-10-28", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-23 3（+0）
+2026-10-28 3 → 2026-11-24 3（+0）
 
 
 ---

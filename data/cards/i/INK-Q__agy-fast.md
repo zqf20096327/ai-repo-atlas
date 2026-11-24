@@ -42,6 +42,18 @@
 > L117: |**Local Stdio MCP Server**|`mcp_config.json` → `dist/mcp-server.mjs`|Persistent local process exposing 5 eagerly 
 > L5: **Latency, Token-Quota & Tool-Call Accelerator Plugin for Google Antigravity**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "INK-Q/agy-fast 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 490 --> 492
+    line [491, 491]
+```
+
+2026-11-23 491 → 2026-11-24 491（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `2eea9f3f0489` · [字段定义](../../DATASET.md)*

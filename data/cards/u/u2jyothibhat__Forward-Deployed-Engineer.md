@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "u2jyothibhat/Forward-Deployed-Engineer 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-23"]
+    title "u2jyothibhat/Forward-Deployed-Engineer 星数(近 3 点)"
+    x-axis ["2026-11-02", "2026-11-23", "2026-11-24"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-02 3 → 2026-11-23 4（+1）
+2026-11-02 3 → 2026-11-24 4（+1）
 
 
 ---

@@ -41,6 +41,18 @@ PRAXO-CORE 的 Python 实现，零运行时依赖的 AI agent 构建框架，提
 > L3: PRAXO-CORE is a dependency-free Python framework for building tool-using AI agents. It provides the agent runtime, n
 > L25: - Streaming, cancellation, and OpenAI-compatible, Anthropic, and Gemini adapters.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axisvela/praxo-core-python 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e0a931e88227` · [字段定义](../../DATASET.md)*

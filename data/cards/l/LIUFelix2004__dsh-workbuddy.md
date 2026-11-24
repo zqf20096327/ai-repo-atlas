@@ -45,13 +45,13 @@ DeepSeek Harness（DSH）插件，读取 WorkBuddy 账号凭据后在 llm-pi-ai 
 
 ```mermaid
 xychart-beta
-    title "LIUFelix2004/dsh-workbuddy 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    title "LIUFelix2004/dsh-workbuddy 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 0 --> 147
-    line [12, 66, 135]
+    line [12, 66, 135, 135]
 ```
 
-2026-11-21 12 → 2026-11-23 135（+123）
+2026-11-21 12 → 2026-11-24 135（+123）
 
 
 ---

@@ -45,12 +45,12 @@ Python 脚本加 Streamlit 界面的博客写作 agent：按关键词调用 Duck
 ```mermaid
 xychart-beta
     title "jordan-jakisa/blogger 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 83 --> 85
     line [84, 84]
 ```
 
-2026-10-21 84 → 2026-11-23 84（+0）
+2026-10-22 84 → 2026-11-24 84（+0）
 
 
 ---

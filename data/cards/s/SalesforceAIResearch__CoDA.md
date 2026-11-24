@@ -45,12 +45,12 @@ CoDA 是 Salesforce AI Research 开源的扩散（diffusion）语言模型仓库
 ```mermaid
 xychart-beta
     title "SalesforceAIResearch/CoDA 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-20 68 → 2026-11-23 68（+0）
+2026-10-21 68 → 2026-11-24 68（+0）
 
 
 ---

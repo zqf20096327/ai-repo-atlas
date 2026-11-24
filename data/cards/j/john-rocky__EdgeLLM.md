@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "john-rocky/EdgeLLM 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 35 --> 38
-    line [37, 36, 36]
+    title "john-rocky/EdgeLLM 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
 ```
 
-2026-10-21 37 → 2026-11-23 36（-1）
+2026-10-22 36 → 2026-11-24 36（+0）
 
 
 ---

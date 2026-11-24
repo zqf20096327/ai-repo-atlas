@@ -45,12 +45,12 @@ Electron 桌面应用，将对话、文件读写、agent 工具调用、操作�
 ```mermaid
 xychart-beta
     title "Endorpheen/Igorek-Harness 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-23"]
+    x-axis ["2026-11-19", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-23 3（+0）
+2026-11-19 3 → 2026-11-24 3（+0）
 
 
 ---

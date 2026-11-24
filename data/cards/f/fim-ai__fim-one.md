@@ -2,9 +2,9 @@
 
 ⭐ 1,589 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/fim-ai/fim-one) · [官网](https://one.fim.ai) · 组织维护 · 中文 README
 
-**面向全球化与国内系统互联的自托管一体化 Agent 平台**
+**面向全球化×中国企业的自托管 Agent 平台：一套核心接入所有系统**
 
-自托管的 Agent 平台，将企业既有系统（ERP、CRM、数据库、IM 等，含飞书/企微/钉钉/达梦/人大金仓等国内体系）接入同一个 agent 核心，提供 Standalone 助手、嵌入式 Copilot、中心化 Hub 三种交付模式。执行层含 LLM 动态 DAG 规划、并发执行、ReAct 循环、Hook 审批系统、内容护栏与评测中心，支持任意 OpenAI 兼容模型提供商。技术栈为 FastAPI + Next.js 14，Docker Compose 部署，多租户与 JWT 认证，另提供托管云版本（cloud.fim.ai，早期访问）。
+自托管的开源可获取的 Agent 平台，将企业既有系统（ERP、CRM、数据库、IM 等，覆盖全球 SaaS 与中国栈如飞书、WeCom、钉钉、达梦、人大金仓）接入统一 Agent 核心。提供 Standalone/Copilot/Hub 三种交付模式，支持 ReAct 与 LLM 生成的动态 DAG 规划、连接器自动注册为工具、RAG 管线、多租户、Hook 审批系统与评估中心。任何 OpenAI 兼容 LLM 均可接入；Docker 或本地源码运行，前端 Next.js，后端 FastAPI。
 
 ## 筛选速览
 
@@ -16,43 +16,44 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- LLM 运行时动态 DAG 规划与并发执行，最多 3 轮自动重规划
-- 连接 PostgreSQL/MySQL/Oracle 及达梦、KingbaseES、GBase、Highgo 等国内数据库
-- Hook 系统在 LLM 循环外执行确定性审批（飞书群审批卡片）与审计
-- 兼容任意 OpenAI 兼容提供商，含 OpenAI/DeepSeek/Anthropic/Ollama 配置表
+- 三种交付模式（Standalone/Copilot/Hub）共用一个 Agent 核心
+- 连接器覆盖中国栈数据库（DM、KingbaseES、Highgo）与 IM 平台
+- LLM 运行时动态 DAG 规划与 ReAct 双执行模式自动路由
+- Hook 系统在 LLM 循环外执行审批/审计/限流
 
 ## 适用场景
 
-- 把跨国企业的全球 SaaS 与国内系统接入同一 agent 核心统一编排
-- 在飞书等 IM 群内对敏感工具调用做人工审批的 agent 执行
-- 通过可视化工作流编辑器或 OpenAPI 导入构建 agent 工具
+- 为同时使用全球 SaaS 和中国栈的企业搭建统一 AI 助手
+- 将数据库和 API 通过连接器暴露为 Agent 工具
+- 对敏感工具调用做人工审批卡片的 IM 集成
+- 多租户自托管部署 Agent 平台并计费配额管理
 
 ## 场景标签
 
-`工作流自动化` `模型评测` `RAG` `Agent 框架` · 领域:Agent 开发
+`AI 助手` `RAG` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L22: Global enterprises run a sprawl of systems that don't talk to each other — ERP, CRM, OA, HR, finance, databases, IM
-> L104: - **Three delivery modes** — Standalone assistant, embedded Copilot, or central Hub; same agent core.
-> L162: FIM One works with **any OpenAI-compatible provider**:
+> L24: Global enterprises run a sprawl of systems that don't talk to each other — ERP, CRM, OA, HR, finance, databases, IM
+> L106: - **Three delivery modes** — Standalone assistant, embedded Copilot, or central Hub; same agent core.
+> L164: FIM One works with **any OpenAI-compatible provider**:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "fim-ai/fim-one 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-24"]
     y-axis "stars" 1584 --> 1590
     line [1585, 1586, 1587, 1586, 1588, 1589, 1589]
 ```
 
-2026-10-21 1,585 → 2026-11-23 1,589（+4）
+2026-10-22 1,585 → 2026-11-24 1,589（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `17715cc55eb0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a26884fb2b09` · [字段定义](../../DATASET.md)*

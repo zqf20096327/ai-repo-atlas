@@ -45,13 +45,13 @@ Python 编写的多智能体编排框架，仅 2 个运行时依赖（pydantic�
 
 ```mermaid
 xychart-beta
-    title "GustavoBaranda/chatflow-agent 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-23"]
-    y-axis "stars" 20 --> 26
-    line [21, 23, 24, 25, 25]
+    title "GustavoBaranda/chatflow-agent 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-24"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-21 21 → 2026-11-23 25（+4）
+2026-10-22 23 → 2026-11-24 25（+2）
 
 
 ---

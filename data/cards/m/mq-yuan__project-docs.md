@@ -41,6 +41,18 @@
 > L10: It ships as an agent skill (`SKILL.md`) and a `project-docs` CLI
 > L11: that checks a few structural rules, also as a Claude Code hook; the skill does the main work and
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mq-yuan/project-docs 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-23 15 → 2026-11-24 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `bd3261116415` · [字段定义](../../DATASET.md)*

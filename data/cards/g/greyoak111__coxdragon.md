@@ -46,12 +46,12 @@ coxdragon 将 OpenAI 官方发布的 codex-app-server 下载到 Android 应用�
 ```mermaid
 xychart-beta
     title "greyoak111/coxdragon 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    x-axis ["2026-11-22", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-23 3（+0）
+2026-11-22 3 → 2026-11-24 3（+0）
 
 
 ---

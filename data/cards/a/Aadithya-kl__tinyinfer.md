@@ -41,6 +41,18 @@
 > L14: Tinyinfer runs chat models such as TinyLlama-1.1B, Llama-2-7B and Vicuna on a laptop GPU. It is
 > L57: - **Cross-platform.** Windows (MSVC) and Linux (GCC), CUDA 12 and 13, GPUs from sm_75 (Turing) up.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aadithya-kl/tinyinfer 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `eeaa2d116442` · [字段定义](../../DATASET.md)*

@@ -44,12 +44,12 @@ Elixir/Phoenix 编写的 Web 应用与 RESTful API，用于管理和查询用户
 ```mermaid
 xychart-beta
     title "SentryPeer/SentryPeerHQ 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-21 24 → 2026-11-23 24（+0）
+2026-10-22 24 → 2026-11-24 24（+0）
 
 
 ---

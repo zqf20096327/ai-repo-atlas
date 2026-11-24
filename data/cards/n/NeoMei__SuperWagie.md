@@ -46,12 +46,12 @@ SuperWagie 是面向 macOS 和 Windows 的本地 AI 工作台，基于 OpenChamb
 ```mermaid
 xychart-beta
     title "NeoMei/SuperWagie 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-23"]
+    x-axis ["2026-11-15", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-23 3（+0）
+2026-11-15 3 → 2026-11-24 3（+0）
 
 
 ---

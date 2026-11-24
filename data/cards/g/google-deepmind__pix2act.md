@@ -45,12 +45,12 @@ NeurIPS 2023 论文 From Pixels to UI Actions 的官方代码库。基于 Pix2St
 ```mermaid
 xychart-beta
     title "google-deepmind/pix2act 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-21 62 → 2026-11-23 62（+0）
+2026-10-22 62 → 2026-11-24 62（+0）
 
 
 ---

@@ -2,15 +2,15 @@
 
 ⭐ 700 · Python · GPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/KarhouTam/FL-bench) · 个人维护 · 中文 README
 
-**联邦学习方法基准测试框架：统一复现 40+ 种 FL 算法**
+**联邦学习方法的科研基准测试框架**
 
-面向联邦学习研究者的 PyTorch 基准框架：收录 40 余种传统、个性化、域泛化与差分隐私 FL 方法，统一继承 FedAvgServer/FedAvgClient 工作流，通过 generate_data.py 按 Dirichlet 等策略划分数据集，main.py 加 yaml 配置或 CLI 运行实验。支持 Ray 并行训练、visdom/tensorboard 监控，内置 Torchvision 常用模型与 16 种图像/医疗数据集；可继承现有方法类实现自定义算法。
+基于 PyTorch 的联邦学习基准项目，收录并实现了约 60 篇论文中的 FL 方法，分为传统 FL、个性化 FL、领域泛化与差分隐私四类；提供数据划分生成脚本、命令行实验入口与 YAML 配置体系，支持 visdom/tensorboard 监控与通过 Ray 进行并行训练。所有方法类继承自 FedAvgServer/FedAvgClient，可按文档指引继承实现新方法。安装通过 pip 安装 requirements 完成。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- 收录 40+ 种 FL 方法（传统/个性化/域泛化/差分隐私），每条注明论文出处
-- Ray 并行模式训练（num_workers 可配置）
-- 支持 16 种数据集与多种划分策略生成联邦数据
-- 方法类继承式扩展：可从 FedAvg 或高级方法派生自定义算法
+- 收录约 60 种联邦学习方法实现，含传统、个性化、领域泛化与差分隐私四类
+- 通过 Ray 支持并行模式加速实验，也可手动创建 Ray 集群
+- 内置 Torchvision 常用模型族与 16 个数据集的多策略划分
+- CLI、YAML 配置与代码内默认值三级参数优先级体系
 
 ## 适用场景
 
-- 统一环境下对比多种联邦学习算法的实验表现
-- 复现论文中的 FL 方法并调整超参数
-- 快速实现和评测自定义联邦学习算法
-- 研究非 IID 数据划分下的模型表现
+- 为新的联邦学习算法跑标准对比实验
+- 在 Dir、合成划分等策略下生成非 IID 客户端数据
+- 复现论文中的个性化联邦学习基线
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: Benchmarking Federated Learning Methods.
-> L84: ALL classes of methods are inherited from `FedAvgServer` and `FedAvgClient`. If you wanna figure out the entire wor
-> L170: ## Parallel Training via `Ray` 🚀
+> L85: ALL classes of methods are inherited from `FedAvgServer` and `FedAvgClient`. If you wanna figure out the entire wor
+> L171: ## Parallel Training via `Ray` 🚀
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "KarhouTam/FL-bench 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-24"]
     y-axis "stars" 691 --> 701
     line [694, 692, 694, 696, 695, 696, 697, 699, 700, 700]
 ```
 
-2026-10-21 694 → 2026-11-23 700（+6）
+2026-10-22 694 → 2026-11-24 700（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a54ad545a80a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `b456a9b22d43` · [字段定义](../../DATASET.md)*

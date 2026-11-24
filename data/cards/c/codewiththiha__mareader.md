@@ -42,6 +42,18 @@
 > L22: |AI reading tools|Explain words in context, summarize, translate, simplify, and organize a library.|AI guide|
 > L24: |AI model setup|Choose providers and models by task, including hosted and OpenAI-compatible local services.|Model s
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "codewiththiha/mareader 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 41 --> 43
+    line [42, 42]
+```
+
+2026-11-23 42 → 2026-11-24 42（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cdc4248c0339` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ Windows 安装器，为 AMD Polaris / gfx803 部署固定版本的 ZLUDA、HIP/R
 ```mermaid
 xychart-beta
     title "aktalascloud/polaris-gfx803-rx580-zluda-rocm-hip-comfyui-windows 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-13", "2026-11-23"]
+    x-axis ["2026-11-11", "2026-11-13", "2026-11-24"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-11 3 → 2026-11-23 4（+1）
+2026-11-11 3 → 2026-11-24 4（+1）
 
 
 ---

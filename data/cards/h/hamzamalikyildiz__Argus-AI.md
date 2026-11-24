@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hamzamalikyildiz/Argus-AI 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-11-23"]
-    y-axis "stars" 2 --> 8
-    line [3, 6, 7, 7]
+    title "hamzamalikyildiz/Argus-AI 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-24"]
+    y-axis "stars" 5 --> 8
+    line [6, 7, 7]
 ```
 
-2026-10-21 3 → 2026-11-23 7（+4）
+2026-10-22 6 → 2026-11-24 7（+1）
 
 
 ---

@@ -45,13 +45,13 @@ JMLR 2023 论文的实验复现仓库，提供 RankDice 方法：对已训练分
 
 ```mermaid
 xychart-beta
-    title "statmlben/rankseg 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 30 --> 34
-    line [31, 33, 33]
+    title "statmlben/rankseg 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
 ```
 
-2026-10-21 31 → 2026-11-23 33（+2）
+2026-10-22 33 → 2026-11-24 33（+0）
 
 
 ---

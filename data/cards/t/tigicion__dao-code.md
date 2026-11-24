@@ -2,9 +2,9 @@
 
 ⭐ 788 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tigicion/dao-code) · [官网](https://www.npmjs.com/package/dao-code) · 个人维护 · 中文 README
 
-**面向 DeepSeek V4 的终端 AI 编程助手（命令 dao）**
+**面向 DeepSeek V4 的终端编程 Agent，主打低成本缓存**
 
-TypeScript 编写的终端编程 agent：读取/编写代码、运行命令、修复 bug，流式输出推理与工具调用，写入/执行操作经过审批门控。针对 DeepSeek V4（1M 上下文）设计，通过字节稳定前缀与复用缓存的 fork（反思层、跨会话记忆）利用 DeepSeek 前缀缓存降价；提供 24 个工具、Skills、MCP、Hooks、子代理、shadow-git 检查点与自主长任务模式。安装支持一键脚本、npm 与源码，需自备 DeepSeek API key。MIT 许可，中文优先。
+Dao Code（命令 dao）是运行在终端里的 TypeScript 编码助手：读取代码、修改代码、执行命令、修复 bug，输出经审批门控。围绕 DeepSeek V4（1M 上下文）设计，通过字节稳定的前缀与复用缓存的 fork 运行记忆和反思层以提升缓存命中率；提供跨会话自校验记忆、失败自审、自动压缩、shadow-git 检查点、子 Agent 等机制。MIT 协议，README 称对中国大陆网络环境可直接使用 DeepSeek API。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ TypeScript 编写的终端编程 agent：读取/编写代码、运行命令、�
 
 ## 能力要点
 
-- 字节稳定前缀 + 缓存复用 fork 运行反思与记忆，实测 7 任务合计 95.8% 缓存命中率
-- 跨会话记忆启动时对当前代码做确定性校验（过期丢弃、变更标记）
-- 24 工具、Skills/MCP/Hooks 扩展体系与 shadow-git 检查点（/restore /rewind）
-- --goal 自主长任务模式与自动压缩、卡死检测断路器
+- 字节稳定前缀 + 缓存复用 fork 的缓存工程，附 /cost 命中率统计
+- 跨会话记忆在每次启动时对照当前代码做确定性校验
+- Challenger/Refocuser 反思层、自动压缩、shadow-git 检查点与崩溃恢复
+- 提供 npm、安装脚本、Release 二进制与源码构建四种获取方式
 
 ## 适用场景
 
-- 在终端里让 AI 读改代码、跑测试并自修 bug
-- 长任务自主运行且不漂移（自动压缩 + 周期性目标重述）
-- 以低成本跑 SWE-bench 式真实仓库修复任务
+- 在终端内让 AI 读取/修改代码并执行命令完成开发任务
+- 长时间自主任务中控制成本并防止目标漂移
+- 在 DeepSeek API 可直接访问的环境下使用编码 Agent
 
 ## 场景标签
 
@@ -38,20 +38,21 @@ TypeScript 编写的终端编程 agent：读取/编写代码、运行命令、�
 ## 证据(README 行号)
 
 > L14: Dao Code (command `dao`) is a terminal-native AI coding assistant: it reads code, writes code, runs commands, and f
-> L10: > **A terminal coding agent built around cost, experience, and availability** — squeezing the most capability and t
+> L84: ## 📦 Install
+> L124:    dao --api-key sk-xxx --provider deepseek "tell me a joke"
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "tigicion/dao-code 星数(近 9 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-23"]
-    y-axis "stars" 785 --> 790
-    line [789, 788, 787, 788, 786, 787, 786, 787, 788]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 785 --> 789
+    line [788, 787, 788, 786, 787, 786, 787, 788, 788]
 ```
 
-2026-10-21 789 → 2026-11-23 788（-1）
+2026-10-22 788 → 2026-11-24 788（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `02bcec6f690f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `23b247a3724e` · [字段定义](../../DATASET.md)*

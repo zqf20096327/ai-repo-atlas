@@ -45,13 +45,13 @@ Apache-2.0 的本地优先桌面工作台，以 Rust 编写，分 Code mode 与 
 
 ```mermaid
 xychart-beta
-    title "brightwave-inc/tidebreak 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "brightwave-inc/tidebreak 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 31 --> 33
+    line [32, 32]
 ```
 
-2026-10-21 31 → 2026-11-23 32（+1）
+2026-10-22 32 → 2026-11-24 32（+0）
 
 
 ---

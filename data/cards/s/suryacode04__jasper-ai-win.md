@@ -40,6 +40,18 @@
 > L3:  A Windows reference and setup guide for the Jasper Ai content generation platform, brand voice controls, drafting w
 > L19: Jasper Ai is an AI content generation platform built for creating marketing copy, adapting a consistent brand voice
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "suryacode04/jasper-ai-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 335 --> 337
+    line [336, 336]
+```
+
+2026-11-23 336 → 2026-11-24 336（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `be6d6ca84999` · [字段定义](../../DATASET.md)*

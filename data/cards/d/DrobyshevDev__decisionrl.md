@@ -42,6 +42,18 @@
 > L26: control suites). `decisionrl` targets operational decisions: pricing, inventory,
 > L31: Underneath the applied layer is a dependency-light library of 32 algorithms with a single
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DrobyshevDev/decisionrl 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `c4a1bd7152d9` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ Rust 编写的 macOS 命令行工具 lkr，将 LLM API 密钥以 provider:label 
 ```mermaid
 xychart-beta
     title "yottayoshida/llm-key-ring 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-20 20 → 2026-11-23 20（+0）
+2026-10-21 20 → 2026-11-24 20（+0）
 
 
 ---

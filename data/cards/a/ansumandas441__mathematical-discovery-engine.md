@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ansumandas441/mathematical-discovery-engine 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-21 36 → 2026-11-23 36（+0）
+2026-10-22 36 → 2026-11-24 36（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L34: - **Answers every request.** Mail in any language, with a packing list in a PDF, a scan, a spreadsheet or a voice
 > L89: cp .env.example .env              # an OpenAI key; the 5U team key only for the live challenge
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "beltromatti/start-hack-munich-2026 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `db663e124d1e` · [字段定义](../../DATASET.md)*

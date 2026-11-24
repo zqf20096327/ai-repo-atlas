@@ -45,13 +45,13 @@ Discourse 论坛的 AI 聊天机器人插件：在帖子、私信、Chat 频道�
 
 ```mermaid
 xychart-beta
-    title "merefield/discourse-chatbot 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    title "merefield/discourse-chatbot 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-23", "2026-11-24"]
     y-axis "stars" 84 --> 88
-    line [85, 86, 87]
+    line [85, 86, 87, 87]
 ```
 
-2026-10-21 85 → 2026-11-23 87（+2）
+2026-10-22 85 → 2026-11-24 87（+2）
 
 
 ---

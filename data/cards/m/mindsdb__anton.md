@@ -2,9 +2,9 @@
 
 ⭐ 756 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mindsdb/anton) · [官网](https://mindsdb.github.io/anton/) · 组织维护
 
-**自我改进的通用任务 agent，替用户完成发邮件、报表、自动化等实际工作**
+**可交任务的自改进 AI agent，供终端用户与开发者使用**
 
-由 MindsHub 团队维护的开源 agentic harness，是 MindsHub Cowork 的默认 agent，也可在终端独立运行，支持任意模型（Anthropic/OpenAI BYOK、MindsHub 路由及 Together/Groq/Ollama/vLLM 等 OpenAI 兼容端点）。用户描述目标后由 agent 自行拆解步骤：连接 Gmail/日历/数据库，现场写代码并隔离执行，交付报表、仪表盘或集成。内置凭据保险库、多层记忆（会话/语义/长期）与 web_search/web_fetch 工具。提供 curl/PowerShell 一键安装脚本。
+Anton 是驱动 MindsHub Cowork 的开源 agentic harness，也可独立运行于终端。用户以自然语言描述目标（发邮件、整理收件箱、出报告、订机票），agent 自行规划并执行：现场抓取数据、编写并运行代码、生成仪表盘。关键机制包括凭据保险库（防止密钥暴露给 LLM）、隔离代码执行、多层记忆与持续学习（session/语义/长期知识，写入 .anton/memory/）。它自行编写集成代码接入 WhatsApp、Telegram 等渠道。MIT 许可，收集匿名使用事件，可通过环境变量关闭。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 描述目标即执行：现场写代码、隔离执行环境完成数据分析与集成构建
-- 多层记忆与持续学习（episodes/rules/lessons/topics 工作区结构）
-- 凭据保险库防止 secrets 暴露给 LLM
-- web_search/web_fetch 按提供商自动路由，兼容任意 OpenAI 兼容端点
+- 凭据保险库隔离 secrets，不暴露给 LLM
+- 多层记忆与持续学习（episodes/rules/lessons/topics 文件）
+- web_search/web_fetch 工具按 LLM provider 原生路由或回退到 Exa/Brave
+- 执行 scratchpad 动态充当所需工具，无需大量独立工具集
 
 ## 适用场景
 
-- 让 agent 清理邮箱、管理日历与 CRM 等重复性事务
-- 自动生成投研组合仪表盘与定时报表
+- 让 agent 整理收件箱并处理退订
+- 从多个数据库拉数并生成定期报告与仪表盘
 - 让 agent 自己编写并部署 WhatsApp/Telegram 集成
-- 连接数据库与 API 做数据管道原型与系统管理
+- 监控数据源变化并自动执行工作流
 
 ## 场景标签
 
-`AI 助手` `数据分析` · 领域:效率与自动化
+`工作流自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L14: Anton is the open-source agentic harness that powers **MindsHub Cowork** — a self-improving AI agent you can hand a
 > L16: Hand it real work: create and send reports, clear your inbox, manage your calendar and CRM, book flights, and more.
+> L90: - **Multi-layer memory & continuous learning** — session, semantic, and long-term knowledge. Anton remembers what i
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mindsdb/anton 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-20", "2026-11-24"]
     y-axis "stars" 755 --> 760
     line [757, 758, 759, 757, 756, 756]
 ```
 
-2026-10-21 757 → 2026-11-23 756（-1）
+2026-10-22 757 → 2026-11-24 756（-1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `a3a35cbe331e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4ae4c336985a` · [字段定义](../../DATASET.md)*

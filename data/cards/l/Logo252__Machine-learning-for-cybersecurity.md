@@ -41,12 +41,12 @@ README 仅三行可见内容：该项目对不同机器学习方法在多类计�
 ```mermaid
 xychart-beta
     title "Logo252/Machine-learning-for-cybersecurity 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-23 10（+0）
+2026-11-10 10 → 2026-11-24 10（+0）
 
 
 ---

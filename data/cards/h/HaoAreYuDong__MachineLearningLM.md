@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HaoAreYuDong/MachineLearningLM 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-20 60 → 2026-11-23 60（+0）
+2026-10-21 60 → 2026-11-24 60（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L30: 兼容 **字节跳动豆包工作（Doubao Work）**、**火山方舟（Volcengine Ark）**、**扣子（Coze）**、**腾讯 WorkBuddy / SkillHub**、**Claude Code**、**Cu
 > L41: 除了 **156 枚**挂载进智能体的深度 `SKILL.md` 专家系统与 **25 大 WorkBuddy 多智能体行业专家团**，本仓库在 `scripts/` 中内置了 **12 把纯标准库、零第三方依赖、离线毫秒级响应的
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Kosmoray/dayan-enterprise-ai-skills 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0d14330d3767` · [字段定义](../../DATASET.md)*

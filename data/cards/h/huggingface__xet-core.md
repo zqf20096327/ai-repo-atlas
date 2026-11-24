@@ -2,9 +2,9 @@
 
 ⭐ 637 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/xet-core) · 组织维护
 
-**为 huggingface_hub 提供 Xet 存储传输的 Rust/Python 客户端技术**
+**Hugging Face Hub 的 Xet 存储客户端，支撑 hf_hub 上传下载**
 
-实现 Xet 存储协议的客户端技术栈，使 huggingface_hub 能够以基于块的块级去重方式向 HF Hub 上传和下载模型/数据集文件，并提供本地磁盘缓存、与 Git LFS 的向后兼容。仓库产出多个 Rust crate（hf-xet/xet-client/xet-data 等）、PyPI 包 hf-xet（maturin/PyO3 绑定）及 Git LFS 兼容 CLI git-xet，另有 wasm 构建供浏览器端依赖。声明不供直接使用，而是经 huggingface_hub 调用；遥测为尽力而为、可通过环境变量关闭。
+xet-core 是被 huggingface_hub 使用的 Xet 存储客户端库，使 huggingface_hub 通过 Xet 存储进行 HF Hub 的文件上传与下载。机制包括基于块的去重（避免传输重复数据块）、本地磁盘缓存、与 Git LFS 的向后兼容，以及与 HF Hub Xet 后端（CAS）的并发网络通信。仓库产出 Rust crates、Python 绑定（PyPI 包 hf-xet）与 git-xet CLI 二进制；README 明确该库不供直接使用，应经由 huggingface_hub 使用。构建需 Rust 工具链（cargo），Python 包用 maturin 构建。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 基于 chunk 的去重，避免重复传输/存储共享块
-- Python 绑定 hf-xet（PyPI），由 huggingface_hub 调用
-- git-xet CLI 与 Git LFS 兼容
-- wasm32 目标 CI 强制可编译，供浏览器端依赖
+- 基于块的去重：避免重复传输与存储模型/数据集等二进制文件的共享数据块
+- Python 绑定供 huggingface_hub 调用（PyPI 包 hf-xet）
+- 与 Git LFS 向后兼容，并提供 git-xet 命令行工具
+- 基于块的本地磁盘缓存，与 huggingface_hub 现有缓存并存
 
 ## 适用场景
 
-- 通过 huggingface_hub 上传/下载 HF Hub 模型与数据集
-- 以 Git LFS 兼容方式使用 Xet 存储
-- 在浏览器端（如 hf-hub）依赖 hf-xet crate 做传输
+- 使用 huggingface_hub 上传/下载模型与数据集时走 Xet 存储后端
+- 需要查看或调试 hf-xet 上传下载行为时使用诊断脚本与环境变量
+- 基于 Xet 客户端 crates 做二次开发或浏览器端（wasm）集成
 
 ## 场景标签
 
- · 领域:AI 模型/数据集存储传输基础设施
+ · 领域:AI 生态基础设施/存储
 
 ## 证据(README 行号)
 
 > L9: xet-core enables huggingface_hub to utilize xet storage for uploading and downloading to HF Hub. Xet storage provide
+> L29: |`hf-xet`|High-level client library for uploading and downloading files with chunk-based deduplication|
 > L39: |`hf-xet`|Python bindings for the Xet storage system, used by huggingface_hub|
 
 ## 星数曲线
@@ -45,13 +46,13 @@
 ```mermaid
 xychart-beta
     title "huggingface/xet-core 星数(近 17 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-23"]
-    y-axis "stars" 611 --> 639
-    line [613, 614, 615, 618, 619, 620, 622, 623, 615, 625, 628, 629, 630, 632, 634, 635, 637]
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 612 --> 639
+    line [614, 615, 618, 619, 620, 622, 623, 615, 625, 628, 629, 630, 632, 634, 635, 637, 637]
 ```
 
-2026-10-21 613 → 2026-11-23 637（+24）
+2026-10-22 614 → 2026-11-24 637（+23）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9517980fcea7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `e371b6426737` · [字段定义](../../DATASET.md)*

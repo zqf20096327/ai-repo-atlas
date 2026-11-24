@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fortunto2/rust-code 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    title "fortunto2/rust-code 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 45 --> 47
+    line [46, 46]
 ```
 
-2026-10-21 45 → 2026-11-23 46（+1）
+2026-10-22 46 → 2026-11-24 46（+0）
 
 
 ---

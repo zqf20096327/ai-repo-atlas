@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "HEGOM61ita/OffGallery 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "HEGOM61ita/OffGallery 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
 ```
 
-2026-10-21 14 → 2026-11-23 15（+1）
+2026-10-22 15 → 2026-11-24 15（+0）
 
 
 ---

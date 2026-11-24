@@ -45,12 +45,12 @@ RoadLens 是一个基于 YOLO 目标检测模型的道路损伤检测 Web 应用
 ```mermaid
 xychart-beta
     title "Beingkarthik/Road-Damage-Detection-Severity-Assessment 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-23"]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-24"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-28 3 → 2026-11-23 4（+1）
+2026-10-28 3 → 2026-11-24 4（+1）
 
 
 ---

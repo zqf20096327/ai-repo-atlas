@@ -43,12 +43,12 @@ Packt Publishing 出版图书 Hands-On Python Natural Language Processing 的代
 ```mermaid
 xychart-beta
     title "PacktPublishing/Hands-On-Python-Natural-Language-Processing 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 91 --> 93
     line [92, 92]
 ```
 
-2026-10-21 92 → 2026-11-23 92（+0）
+2026-10-22 92 → 2026-11-24 92（+0）
 
 
 ---

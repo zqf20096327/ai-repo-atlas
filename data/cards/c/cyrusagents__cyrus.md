@@ -2,9 +2,9 @@
 
 ⭐ 911 · TypeScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/cyrusagents/cyrus) · [官网](https://atcyrus.com) · 组织维护
 
-**接入 Linear/GitHub/GitLab/Slack 的后台编码 agent 部署平台**
+**部署在自有机器上、由 Linear/Slack 事件驱动的 coding agent 后台运行平台**
 
-Cyrus 监听指派给它的 Linear/GitHub/GitLab/Slack 议题，为每个议题创建隔离的 Git worktree，运行 Claude Code/Codex/Cursor/Gemini/Opencode 会话处理议题，并将 agent 活动更新流式回传到 Linear/GitHub，支持下拉选择与审批等交互。采用 BYOK 模式（自带 token/订阅）。提供零成本全自托管社区版（npx skills 安装、AI 引导配置）与 Pro/Team 付费版（npm 全局安装 cyrus-ai 或云端托管）。
+Cyrus 监听分配给它的 Linear/GitHub/GitLab/Slack issue，为每个 issue 创建隔离的 Git worktree，在其中运行 Claude Code、Codex、Cursor、Gemini 或 Opencode 会话处理任务，并把 agent 活动流与下拉选择、审批等交互回传到对应平台。采用 BYOK 模式（用户自带 API key/订阅），支持社区全自托管、付费自托管与云托管三种部署方式，持久运行依赖 tmux/pm2/systemd。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Cyrus 监听指派给它的 Linear/GitHub/GitLab/Slack 议题，为每个议题�
 
 ## 能力要点
 
-- 监控 Linear/GitHub/GitLab/Slack 议题并自动创建隔离 Git worktree 处理
-- 支持 Claude Code/Codex/Cursor/Gemini/Opencode 五种编码 agent 作为运行 harness
-- 活动更新回流 Linear/GitHub，含下拉选择与审批交互
-- BYOK：使用用户自己的 API key 与订阅
+- 监听 Linear/GitHub/GitLab/Slack 指派 issue 并自动创建隔离 Git worktree
+- 支持 Claude Code、Codex、Cursor、Gemini、Opencode 多种 agent harness
+- BYOK：使用用户自带的 key 或订阅
+- AI 引导的自托管安装流程（/cyrus-setup skill）
 
 ## 适用场景
 
-- 团队把 Linear/GitHub 议题自动交给编码 agent 处理并提 PR
-- 在 Slack 中接收 agent 进度更新并做审批
-- 自有机器上自托管后台编码 agent
+- 让团队在 Linear 指派 issue 后由后台 agent 自动处理
+- 在 Slack 中通过 @mention 触发 coding agent 任务
+- 自托管方式在自己机器上运行 agent 并回传 PR/MR
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ Cyrus 监听指派给它的 Linear/GitHub/GitLab/Slack 议题，为每个议题�
 ## 证据(README 行号)
 
 > L9: Your (Claude Code|Codex|Cursor|Gemini|Opencode) powered (Linear|GitHub|GitLab|Slack) agent. Cyrus monitors (Linear|G
-> L17: Zero cost option — host everything yourself with your own Linear OAuth app, GitHub App, and Slack App. An AI-guided
+> L37: It is called 'self-hosted' because it uses a machine you control as the agent runtime. Networking layer and integra
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "cyrusagents/cyrus 星数(近 23 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 853 --> 916
-    line [858, 859, 863, 864, 867, 869, 876, 879, 881, 882, 867, 888, 893, 894, 895, 898, 902, 903, 905, 906, 908, 909, 911]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 854 --> 916
+    line [859, 863, 864, 867, 869, 876, 879, 881, 882, 867, 888, 893, 894, 895, 898, 902, 903, 905, 906, 908, 909, 911, 911]
 ```
 
-2026-10-21 858 → 2026-11-23 911（+53）
+2026-10-22 859 → 2026-11-24 911（+52）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1f6ff44804f1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `211ac43608e5` · [字段定义](../../DATASET.md)*

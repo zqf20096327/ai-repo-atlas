@@ -2,9 +2,9 @@
 
 ⭐ 976 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/rohitg00/kubectl-mcp-server) · [官网](https://hub.docker.com/mcp/server/kubectl-mcp-server/overview) · 个人维护
 
-**用自然语言管理 Kubernetes 的 MCP 服务器**
+**通过自然语言对话管理 Kubernetes 集群的 MCP 服务器**
 
-面向 DevOps 的 Kubernetes MCP 服务器：向 Claude、Cursor、Windsurf、Copilot 等 MCP 客户端暴露 253 个工具，覆盖 Pod/Deployment 诊断与操作、Helm 管理、RBAC 与安全审计、成本优化分析、交互式 UI 仪表盘，以及 Flux/Argo、Cert-Manager、Kyverno、Velero、KEDA、Cilium 等生态操作，支持多集群上下文切换与 OAuth 2.1 认证。通过 npx、pip、GitHub Release wheel 或 Docker 安装，前提需 kubectl 与集群访问；列入 CNCF Landscape。
+面向 DevOps/平台工程师的 MCP 服务器，使 AI 助手能通过自然语言操作 Kubernetes 集群：默认注册 core 与 helm 两个工具集共 26 个工具，启用全部工具集可达 209 个，另含 14 个工作流提示与资源模板。覆盖崩溃诊断、部署/扩缩、网络与 DNS 排障、RBAC 与 Secret 安全审计、成本优化、Helm 生命周期、多集群上下文切换等。以 npm/pypi 包与 Docker 镜像分发，提供 OAuth 2.1 鉴权、只读模式与 Secret 脱敏等企业特性。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 253 个 MCP 工具覆盖集群管理、Helm、GitOps、备份、策略等类别
-- 兼容 Claude Desktop/Cursor/Windsurf/Copilot 等 MCP 客户端，附配置示例
-- 提供 npx 零安装、pip、GitHub Release wheel 与 Docker 四种安装途径
-- 支持多集群上下文切换、RBAC 审计与成本优化分析
+- 默认 26 个工具、全工具集 209 个，按 toolsets 选择性注册以节省上下文
+- 覆盖崩溃诊断、安全审计、成本优化、Helm、GitOps、备份等 11 类工具集
+- 提供 OAuth 2.1 鉴权、只读模式、Secret 脱敏与 fail-close 网络绑定
+- 以 npx/npm/pip/uvx/GitHub Release/Docker 多种方式分发
 
 ## 适用场景
 
-- 在 AI 助手对话中排查崩溃 Pod 与网络连通问题
-- 用自然语言执行部署、扩缩容与 Helm 安装
-- 审计集群 RBAC 权限与安全配置
-- 分析资源浪费并获取成本优化建议
+- 用自然语言排查 Pod 崩溃与网络连通性问题
+- 在 AI 助手中执行安全审计（RBAC、Secret、Pod 安全）
+- 通过对话管理 Helm 发布与多集群上下文
+- 识别闲置资源并获得成本优化建议
 
 ## 场景标签
 
- · 领域:云原生/DevOps 工具
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L5:  Control your entire Kubernetes infrastructure through natural language conversations with AI.
-> L78: **253 powerful tools** | **8 workflow prompts** | **8 data resources** | **Works with all major AI assistants**
-> L340: ### 253 MCP Tools for Complete Kubernetes Management
+> L73: **26 default tools, 209 with every toolset** | **14 workflow prompts** | **8 resources + 6 resource templates** | *
+> L335: Every tool definition costs context on every request, and models pick tools less reliably as the list grows. The s
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "rohitg00/kubectl-mcp-server 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-24"]
     y-axis "stars" 963 --> 977
     line [964, 965, 966, 964, 969, 972, 974, 975, 976, 976]
 ```
 
-2026-10-21 964 → 2026-11-23 976（+12）
+2026-10-22 964 → 2026-11-24 976（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9dd665641e85` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2ad87979321f` · [字段定义](../../DATASET.md)*

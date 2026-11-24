@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "baianjo/Douyin-Smart-Feed-Assistant 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-11-23"]
-    y-axis "stars" 192 --> 196
-    line [195, 193, 194, 194]
+    title "baianjo/Douyin-Smart-Feed-Assistant 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-24"]
+    y-axis "stars" 192 --> 195
+    line [193, 194, 194]
 ```
 
-2026-10-21 195 → 2026-11-23 194（-1）
+2026-10-22 193 → 2026-11-24 194（+1）
 
 
 ---

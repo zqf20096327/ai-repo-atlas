@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "datascienceinterviews/datascienceinterviews.github.io 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "datascienceinterviews/datascienceinterviews.github.io 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 22 --> 25
-    line [23, 24]
+    line [23, 24, 24]
 ```
 
-2026-10-21 23 → 2026-11-23 24（+1）
+2026-10-22 23 → 2026-11-24 24（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "csinva/agentic-imodels 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "csinva/agentic-imodels 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 14 --> 17
-    line [16, 15]
+    line [16, 15, 15]
 ```
 
-2026-10-21 16 → 2026-11-23 15（-1）
+2026-10-22 16 → 2026-11-24 15（-1）
 
 
 ---

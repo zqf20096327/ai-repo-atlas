@@ -2,9 +2,9 @@
 
 ⭐ 1,159 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/ix-infrastructure/Ix) · [官网](https://www.ix-infra.com) · 组织维护
 
-**代码库结构图谱工具：解析仓库供人与 AI 客户端查询**
+**把代码库解析成持久图，供人与 AI agent 查询结构**
 
-Ix 用 tree-sitter 解析仓库，将符号、调用与导入关系持久化为本地图谱（ArangoDB + memory layer，经 Docker 运行），通过 ix CLI、MCP 服务器与 Compass 可视化器三个客户端读取。面向开发者与编码 agent，提供 explain/trace/impact 等查询命令替代全文检索，支持 27 种语言的符号提取。安装脚本自动检查并安装 Node.js 22+、Git、ripgrep 与 Docker，为 Apple Silicon macOS、Linux、Windows x86-64 提供预编译包，Intel Mac 需 Homebrew 源码构建。
+Ix 用 tree-sitter 解析仓库，把符号、调用、导入关系存为本地持久化图（ArangoDB 后端经 Docker 运行）。提供 CLI、MCP 服务器和 Compass 可视化三类客户端：ix map 建图，ix explain/trace/impact 查询单个符号或流程的有限范围答案，图跨会话存活。支持 27 种语言及配置格式解析；ix mcp install 可向 Claude Code、Codex、Cursor 等客户端注册。自述内部测量 token 用量降低 30–99.7%，声明非公开基准。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Ix 用 tree-sitter 解析仓库，将符号、调用与导入关系持久化为�
 
 ## 能力要点
 
-- tree-sitter 解析 27 种语言的符号/调用/导入并持久化为本地图谱
-- stdio MCP 服务器，可注册到 Claude Code、Codex、Cursor 等 7 种客户端
-- 查询命令返回有界的结构切片而非整文件，图谱跨会话保留
-- Docker 化本地后端（ArangoDB + memory layer），CLI 预编译三平台发布
+- tree-sitter 解析 27 种语言为持久化符号/调用/导入图
+- stdio MCP 服务器，附带向 7 种 AI 客户端的自动注册工具
+- 查询输出 --format llm 为 token 最小化格式
+- 图存于本地 Docker 后端，跨会话持久
 
 ## 适用场景
 
-- 为我的编码 agent 提供持久的代码结构上下文，减少 prompt 塞整文件
-- 接手陌生仓库时快速查询符号定义、调用链与修改影响面
-- 团队维护一份跨会话可复用的架构图谱与可视化视图
+- 让编码 agent 通过 MCP 查询代码结构而非整文件粘贴
+- 追踪某个符号或调用流的上下游影响
+- 可视化浏览仓库架构与结构问题
 
 ## 场景标签
 
-`Agent 记忆` `知识图谱` · 领域:Agent 开发
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L78: `ix map` parses your repository with tree-sitter, extracts symbols, calls and
-> L99: Ix ships a stdio MCP server, so any MCP-capable client can use the same graph tools.
-> L107: `install` knows **Claude Code, Codex, Cursor, VS Code, Gemini CLI, OpenClaw and
+> L6:  Ix parses your repository into a persistent system graph of symbols, calls, imports and relationships
+> L86: Ix ships a stdio MCP server, so any MCP-capable client can use the same graph tools.
+> L94: `install` knows **Claude Code, Codex, Cursor, VS Code, Gemini CLI, OpenClaw and
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ix-infrastructure/Ix 星数(近 19 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1089 --> 1165
-    line [1095, 1096, 1098, 1100, 1102, 1132, 1136, 1137, 1136, 1138, 1141, 1100, 1148, 1153, 1155, 1156, 1157, 1159, 1159]
+    title "ix-infrastructure/Ix 星数(近 18 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 1090 --> 1165
+    line [1096, 1098, 1100, 1102, 1132, 1136, 1137, 1136, 1138, 1141, 1100, 1148, 1153, 1155, 1156, 1157, 1159, 1159]
 ```
 
-2026-10-21 1,095 → 2026-11-23 1,159（+64）
+2026-10-22 1,096 → 2026-11-24 1,159（+63）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `6286a5ca0ee5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d370bae0e3e1` · [字段定义](../../DATASET.md)*

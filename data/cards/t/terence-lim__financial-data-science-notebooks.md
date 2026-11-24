@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "terence-lim/financial-data-science-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-21 77 → 2026-11-23 77（+0）
+2026-10-22 77 → 2026-11-24 77（+0）
 
 
 ---

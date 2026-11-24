@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "oreeke/twipsybot 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 17 --> 22
-    line [18, 21, 21]
+    title "oreeke/twipsybot 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
 ```
 
-2026-10-21 18 → 2026-11-23 21（+3）
+2026-10-22 21 → 2026-11-24 21（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 992 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/OpenBMB/VisRAG) · 组织维护 · 中文 README
 
-**免解析的视觉 RAG：VLM 直接嵌入文档图像做检索与生成**
+**研究团队的免解析视觉文档 RAG 框架与模型**
 
-面向多模态文档问答的研究框架：跳过文档解析，将文档页面作为图像用视觉语言模型（MiniCPM-V 2.0 基座）直接嵌入检索（VisRAG-Ret），再用 VLM 生成回答（VisRAG-Gen，可用任意 VLM 如 MiniCPM-V、GPT-4o）。2.0 版 EVisRAG 面向多图像问答，通过语言化观察检索图像收集逐图证据后推理，采用 RS-GRPO 两阶段训练（SFT + 强化学习）。提供训练脚本、评测基准（EM/Accuracy/F1）与 Colab 演示；模型与数据发布于 Hugging Face。限制：VisRAG-Ret 权重需遵循 MiniCPM 模型许可。
+VisRAG 提供基于 VLM 的免解析 RAG 流水线：文档不经文本解析、直接以图像形式由 VLM 嵌入检索，再增强 VLM 生成回答，避免解析环节的信息丢失。2.0 版 EVisRAG 加入证据引导的多图推理机制，使用 RS-GRPO 两阶段训练（SFT 基于 LLaMA-Factory，强化阶段基于 Easy-R1）并发布 3B/7B 权重。附训练脚本、评测脚本（EM/Accuracy/F1）、基准数据集与 Colab 演示；模型权重遵循 MiniCPM 许可，注册问卷后可商用。
 
 ## 筛选速览
 
@@ -20,39 +20,37 @@
 
 ## 能力要点
 
-- 文档以图像形式直接嵌入检索，不经过文本解析
-- EVisRAG 逐图收集证据后做多图像推理，基于 Qwen2.5-VL-7B/3B 训练
-- RS-GRPO 细粒度 token 级奖励联合优化视觉感知与推理
-- 362,110 Query-Document 训练对与多个评测基准公开于 Hugging Face
+- 文档免解析、以图像直接嵌入检索的 VisRAG 流水线（Ret 基于 MiniCPM-V，Gen 可接任意 VLM）
+- EVisRAG 证据引导多图推理，RS-GRPO 两阶段训练并发布 3B/7B 权重
+- 提供 36 万 Query-Document 训练对、多基准评测脚本与 Colab 演示
 
 ## 适用场景
 
-- 我对 PDF/图表/幻灯片等文档做问答，不想经历有损的文本解析
-- 我需要多图像场景下的证据引导推理问答
-- 我想复现论文中的视觉检索与生成评测结果
+- 对 PDF/图表类文档直接做视觉检索问答
+- 复现论文中的检索与生成评测结果
+- 基于自己的数据训练文档嵌入模型
 
 ## 场景标签
 
-`RAG` `文档问答` `多模态` `科研工具` · 领域:知识与检索
+`RAG` `模型评测` `文档问答` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L27: **EVisRAG (VisRAG 2.0)** is an evidence-guided Vision Retrieval-augmented Generation framework that equips VLMs for
 > L29: **VisRAG** is a novel vision-language model (VLM)-based RAG pipeline. In this pipeline, instead of first parsing th
-> L52: **VisRAG-Ret** is a document embedding model built on MiniCPM-V 2.0, a vision-language model that integrates SigLIP
+> L27: **EVisRAG (VisRAG 2.0)** is an evidence-guided Vision Retrieval-augmented Generation framework that equips VLMs for
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "OpenBMB/VisRAG 星数(近 13 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 982 --> 993
-    line [983, 986, 985, 986, 987, 988, 985, 989, 990, 991, 992, 991, 992]
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 984 --> 993
+    line [986, 985, 986, 987, 988, 985, 989, 990, 991, 992, 991, 992, 992]
 ```
 
-2026-10-21 983 → 2026-11-23 992（+9）
+2026-10-22 986 → 2026-11-24 992（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `ca983d829908` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `072e6fc0df02` · [字段定义](../../DATASET.md)*

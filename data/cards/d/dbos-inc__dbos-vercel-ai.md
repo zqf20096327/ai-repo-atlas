@@ -46,12 +46,12 @@ DBOS 推出的 npm 包，将 Vercel AI SDK 构建的 agent 接入 DBOS 持久化
 ```mermaid
 xychart-beta
     title "dbos-inc/dbos-vercel-ai 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-20 14 → 2026-11-23 14（+0）
+2026-10-21 14 → 2026-11-24 14（+0）
 
 
 ---

@@ -1,10 +1,10 @@
 # ochyai/vibe-local
 
-⭐ 804 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ochyai/vibe-local) · 个人维护 · 中文 README
+⭐ 804 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ochyai/vibe-local) · 个人维护
 
-**离线免费的本地 LLM 编程助手环境，面向教学场景**
+**离线免费的本地 LLM 编程环境（Ollama+OpenCode）**
 
-在 Mac 上一条命令搭建的本地 AI 编程环境：Ollama 运行本地模型，OpenCode TUI 提供交互界面，另有零依赖的 Python 编码引擎 vibe-coder.py（含本地 RAG、XML 工具调用回退）。按内存档位自动生成 num_ctx 合适的模型别名，v2.2 加入小型/大型模型自动分流路由。面向离线工作坊、无付费订阅的学生与初学者，属非营利研究与教育工具。README 明确提示本地模型精度低于云端 AI，默认逐次确认模式。
+面向离线工作坊、未订阅付费计划的学生与初学者的非营利教育工具：在 Mac 上一条命令安装后，通过 Ollama 本地模型加 OpenCode TUI 实现终端内与 AI 对话写代码，无需网络。v2 内置 vibe-router 自动在小型/大型模型间分配请求，按内存档位生成带 num_ctx 的模型别名；默认每次操作前请求用户确认，另含 `--vibe-coder` 纯 stdlib Python 引擎与本地 RAG。本地模型精度低于云端，README 明确提示命令执行风险。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 按 RAM 档位自动选择模型并生成 num_ctx 烧入的别名模型
-- vibe-auto 路由：闲走小型模型、编码走大型模型
-- 零依赖 Python 引擎 vibe-coder.py 支持本地 RAG（sqlite3 + Ollama 嵌入）
-- 默认逐次确认模式，附危险命令识别指引
+- 一条 curl 命令安装，离线运行，完全免费
+- vibe-router 按内容自动分配小型/大型模型（可 --no-router 关闭）
+- 内置 Python 引擎 vibe-coder.py 与 sqlite3+嵌入的本地 RAG
+- 默认 ask-before-every-action 确认模式，`-y` 才进入自动批准
 
 ## 适用场景
 
-- 离线教室/工作坊中让学员用 AI 代理练习编程
-- 无付费订阅时在本机练习代理式编码
-- 初学者用自然语言在终端完成操作并学习确认流程
+- 无网络环境的编程工作坊中让学习者用自然语言练习编程
+- 没有付费 AI 订阅的学生在本地练习 agent coding
+- 初学者通过对话学习终端操作
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
-> L45: MacにコマンドをコピペするだけでAIがコードを書いてくれる環境。
-> L46: ネットワーク不要・完全無料。Ollama + ローカルLLM + OpenCode TUI。
-> L336: - **ローカル RAG**（`--rag`）: `sqlite3` + Ollama 埋め込みだけで、コードベースの関連コンテキストを
+> L3: > **このリポは何か**：Ollamaで動くローカル言語モデルとターミナルで対話し、オフラインでコードを書ける学習環境。
+> L5: > **What this is**: Learners can write code offline by chatting in the terminal with a local language model running 
+> L26: **🇺🇸** Built for offline workshops where instructors support learners with AI agents, for students without paid pla
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ochyai/vibe-local 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-20", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-11-14", "2026-11-20", "2026-11-21", "2026-11-24"]
     y-axis "stars" 803 --> 806
     line [804, 805, 804, 804]
 ```
 
-2026-11-14 804 → 2026-11-23 804（+0）
+2026-11-14 804 → 2026-11-24 804（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `4a06eab5f74a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d55d35d6cd76` · [字段定义](../../DATASET.md)*

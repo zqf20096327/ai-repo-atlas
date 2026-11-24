@@ -40,6 +40,18 @@
 > L7: **Assistant** (`com.kangrio.byd.assistant`) is an Android utility and voice interaction bridge tailored for BYD vehi
 > L9: Launcher shortcuts directly to your preferred AI voice assistant (Google Assistant, ChatGPT, Perplexity, Claude, etc
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kangrio/Assistant 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `a7a1e65c85a7` · [字段定义](../../DATASET.md)*

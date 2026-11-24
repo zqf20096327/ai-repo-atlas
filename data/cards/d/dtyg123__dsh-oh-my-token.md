@@ -40,6 +40,18 @@ DeepSeek Harness 的插件，在工具结果写入日志前完成改写，使模
 > L7: `dsh-oh-my-token` 是 DeepSeek Harness 插件。它在工具结果**写入日志之前**完成改写，因此模型看到的字节与持久化记录完全一致；它从不改写工具参数、从不触碰磁盘上的会话文件、也不启动任何外部进程。
 > L35: dsh plugin --profile web add dsh-oh-my-token
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "dtyg123/dsh-oh-my-token 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-23 5 → 2026-11-24 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `58d6c72103e2` · [字段定义](../../DATASET.md)*

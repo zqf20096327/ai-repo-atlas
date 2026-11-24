@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/selfplay2perfect 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-11-23"]
-    y-axis "stars" 7 --> 11
-    line [8, 9, 10, 10]
+    title "lucidrains/selfplay2perfect 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-11-24"]
+    y-axis "stars" 8 --> 11
+    line [9, 10, 10]
 ```
 
-2026-10-21 8 → 2026-11-23 10（+2）
+2026-10-22 9 → 2026-11-24 10（+1）
 
 
 ---

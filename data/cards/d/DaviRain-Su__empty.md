@@ -44,13 +44,13 @@ SwiftUI 原生 EPUB/PDF 阅读器（macOS 深读工作台 + iOS/iPadOS 随身端
 
 ```mermaid
 xychart-beta
-    title "DaviRain-Su/empty 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "DaviRain-Su/empty 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
 ```
 
-2026-10-21 20 → 2026-11-23 21（+1）
+2026-10-22 21 → 2026-11-24 21（+0）
 
 
 ---

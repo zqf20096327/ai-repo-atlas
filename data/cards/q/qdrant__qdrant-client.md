@@ -4,7 +4,7 @@
 
 **Qdrant 向量搜索引擎的 Python 客户端库与 SDK**
 
-为 Qdrant 向量搜索引擎提供同步与异步的 Python 客户端，覆盖全部 API 方法的类型定义，支持 REST 与 gRPC 两种协议。提供本地模式（内存或持久化到磁盘），无需运行服务端即可在 CI/CD、Colab、Jupyter 中使用同一套代码。内置 Inference API：本地可经 FastEmbed（基于 ONNX Runtime，支持 CPU/GPU）生成嵌入并上传，或使用 Qdrant Cloud 的远程推理（付费计划）。以 pip 包形式安装。
+为 Qdrant 向量搜索引擎提供官方 Python SDK，覆盖全部 Qdrant API 的类型定义，支持同步与异步请求、REST 与 gRPC 两种协议。提供本地模式（:memory: 或持久化路径），无需运行服务器即可在开发、测试、CI/CD、Colab/Jupyter 中使用相同 API，规模扩大时切换到服务器或云模式。内置 Inference API，可经 FastEmbed 在本地生成嵌入，或使用 Qdrant Cloud 托管模型远程推理。通过 pip 安装。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 全部 Qdrant API 方法的类型提示，同步/异步双客户端
-- 本地模式：内存或磁盘持久化，无需服务端即可开发与测试
-- REST 与 gRPC 支持，gRPC 加速批量上传
-- 经 FastEmbed 本地生成嵌入（CPU/GPU）或 Qdrant Cloud 远程推理
+- 覆盖全部 Qdrant API 方法的类型定义与同步/异步客户端
+- 本地模式无需运行服务器，支持内存与磁盘持久化
+- REST 与 gRPC 双协议支持，gRPC 加速批量上传
+- Inference API 支持本地 FastEmbed 与 Qdrant Cloud 远程嵌入生成
 
 ## 适用场景
 
-- 在 Python 项目中连接并操作 Qdrant 向量数据库
-- 在笔记本或 CI 中用本地模式原型开发与测试向量检索
-- 本地生成嵌入并上传向量以简化 RAG 流程
+- 在 CI/CD 或 Jupyter 中不部署服务器即可测试向量检索代码
+- 为应用接入 Qdrant 向量搜索并管理集合与向量上传
+- 使用条件过滤查询相似向量
+- 通过 FastEmbed 或云端模型生成嵌入并直接入库
 
 ## 场景标签
 
-`向量数据库` · 领域:知识与检索
+`语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3:  Python Client library for the Qdrant vector search engine.
+> L13: Client library and SDK for the Qdrant vector search engine.
 > L15: Library contains type definitions for all Qdrant API and allows to make both Sync and Async requests.
 
 ## 星数曲线
@@ -45,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-client 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-24"]
     y-axis "stars" 1371 --> 1381
     line [1374, 1373, 1374, 1373, 1372, 1373, 1372, 1374, 1375, 1374, 1377, 1378, 1379, 1380, 1380]
 ```
 
-2026-10-21 1,374 → 2026-11-23 1,380（+6）
+2026-10-22 1,374 → 2026-11-24 1,380（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `91b6faaa8761` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `4952562eef1c` · [字段定义](../../DATASET.md)*

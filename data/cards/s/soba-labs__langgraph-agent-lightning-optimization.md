@@ -46,12 +46,12 @@ Soba Labs 维护的示例工程，演示用 Agent Lightning 框架与 APO（Auto
 ```mermaid
 xychart-beta
     title "soba-labs/langgraph-agent-lightning-optimization 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-23"]
+    x-axis ["2026-11-11", "2026-11-24"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-11-11 22 → 2026-11-23 22（+0）
+2026-11-11 22 → 2026-11-24 22（+0）
 
 
 ---

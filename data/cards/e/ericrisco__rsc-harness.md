@@ -2,9 +2,9 @@
 
 ⭐ 648 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/ericrisco/rsc-harness) · [官网](https://ericrisco.github.io/rsc-harness/) · 个人维护
 
-**为 AI 编码助手装配记忆/工具/技能/hook 的元 harness**
+**为 AI 编码助手配置项目级 harness：知识库、技能与规则**
 
-面向使用 Claude Code、Codex、Cursor 等 18 种编码助手的开发者的元 harness 安装器：通过 npx onboard 以问答方式生成经验证的装配计划（选择/推迟/排除记忆、工具、技能与 hook），写入项目内的 02-DOCS/ 知识库、01-TOOLS/ 工具目录与 .rsc/skills/ 共享技能目录（272 个可按需安装）。机制上含三通道分流（Answer/FTD/SDD 十阶段链）、进度式技能加载、Claude Code 中的 hook 守卫（限其他助手无 hook 强制）。所有内容留在项目内，多助手共享一套符号链接。
+通过 npx 引导式 CLI 为已有 AI 编码助手（Claude Code、Codex 等 19 个目标）生成项目级配置：读取项目证据后给出可审查的安装计划，写入 02-DOCS/ 项目知识 wiki、01-TOOLS/ 工具连接约定、从 273 个技能目录中按需选取的技能，以及工作规则与 provider 特定 hooks。三车道机制（只读回答/FTD/ASDD）由 agent 按任务声明；hooks 强制执行仅限 Claude Code，其他助手以技能与记忆形式承载。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- npx onboard 生成经用户确认的装配计划（SHA-256 plan id）后才写入
-- 18 种编码助手共享一份安装（.rsc/skills/ 符号链接，避免重复）
-- Answer/FTD/SDD 三通道由 agent 按请求复杂度自选
-- 技能库含 272 个技能，按项目证据逐个推荐安装
+- 安装前生成可审查计划（selected/deferred/excluded）并输出 SHA-256 计划 ID
+- 02-DOCS/ wiki 与 01-TOOLS/ 工具连接约定，支持 Obsidian vault 与 Open Knowledge Format
+- 273 个技能按 manifest.json 目录推荐，渐进加载，多助手共享符号链接
+- 三车道任务机制（Answer/FTD/ASDD）与 Claude Code hooks 守卫
 
 ## 适用场景
 
-- 为我的 AI 编码助手建立项目记忆，避免每次会话重复解释
-- 多成员、多助手协作同一仓库时共享知识与工作区隔离
-- 为 agent 接入业务工具并验证连接（含只读连接验证写入失败）
+- 让多个 AI 编码助手共享同一份项目知识与规则
+- 新会话不再重复交代技术栈与历史决策
+- 在团队协作中约束 agent 在 main 分支上的提交行为
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L13: Every time you open a project, your agent starts from zero. rsc is a meta-harness: it gives the
-> L14: assistant you already use (Claude Code, Codex, Cursor and 15 more) a memory, hands, a trade and
-> L100: - **Any assistant, or several at once.** 18 are supported, and they share one installation.
+> L42: rsc-harness makes that choice explicit. It reads evidence within your project root, asks about your goal
+> L68: |**Skills**|A selection from 273 available skills, loaded progressively when relevant.|
+> L91: You keep your editor, model and existing project. rsc supplies the harness around them. Provider
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ericrisco/rsc-harness 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "ericrisco/rsc-harness 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 186 --> 690
-    line [228, 238, 240, 261, 276, 305, 329, 365, 388, 401, 411, 422, 261, 557, 578, 586, 594, 605, 607, 611, 615, 624, 634, 637, 642, 643, 648]
+    line [228, 238, 240, 261, 276, 305, 329, 365, 388, 401, 411, 422, 261, 557, 578, 586, 594, 605, 607, 611, 615, 624, 634, 637, 642, 643, 648, 648]
 ```
 
-2026-10-20 228 → 2026-11-23 648（+420）
+2026-10-21 228 → 2026-11-24 648（+420）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `cd1854659f78` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `4a3ab023eb74` · [字段定义](../../DATASET.md)*

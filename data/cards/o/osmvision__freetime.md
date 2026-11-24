@@ -41,6 +41,18 @@ freetime 根据用户输入的可用时间、精力、同行者、是否外出�
 > L7: Tell it how much time you have, your energy, who's with you, whether you'll go outside and your
 > L8: budget. It ranks ideas from every source, explains why, and learns from your 👍 / 👎.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "osmvision/freetime 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 low · 依据 README sha `c862064e20d8` · [字段定义](../../DATASET.md)*

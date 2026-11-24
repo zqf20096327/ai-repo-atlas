@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maemreyo/omnivoice-server 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    title "maemreyo/omnivoice-server 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 92 --> 94
+    line [93, 93]
 ```
 
-2026-10-21 92 → 2026-11-23 93（+1）
+2026-10-22 93 → 2026-11-24 93（+0）
 
 
 ---

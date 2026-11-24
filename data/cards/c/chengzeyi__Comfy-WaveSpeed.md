@@ -41,6 +41,18 @@
 > L32: # Installation
 > L60: Inspired by TeaCache and other denoising caching algorithms, we introduce First Block Cache (FBCache) to use the re
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chengzeyi/Comfy-WaveSpeed 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 1235 --> 1237
+    line [1236, 1236]
+```
+
+2026-11-23 1,236 → 2026-11-24 1,236（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9df3c14fc0ef` · [字段定义](../../DATASET.md)*

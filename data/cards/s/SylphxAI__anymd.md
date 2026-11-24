@@ -2,9 +2,9 @@
 
 ⭐ 1,077 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/SylphxAI/anymd) · [官网](https://anymd.sylphx.com) · 组织维护
 
-**本地多格式文档转 Markdown 的 Rust MCP 服务器与 CLI**
+**给 AI agent 的本地文档转 Markdown 工具：Rust MCP 服务器与 CLI**
 
-Rust 编写的 MCP 服务器兼命令行工具，将 PDF、Word、PPT、Excel、EPUB、HTML/网页、图片（OCR）、音视频（元数据/字幕/转写）转换为面向 AI agent 的 Markdown，本地运行、无需 API key。PDF 解析基于字形位置重建阅读顺序与表格；OCR 可用本地 doc-VLM 模型或 tesseract，转写用 ffmpeg 与捆绑的 Qwen3-ASR（需显式选择下载）。提供 outline/read/search/inspect 四个 MCP 工具，token 预算与游标控制大文档上下文。安装途径含 npm、PyPI、brew、winget、Docker 及 cargo 编译，另有托管付费模式 anymd Pro。
+以 Rust 实现的 MCP 服务器与命令行工具，在本地将 PDF、Word、PowerPoint、Excel、EPUB、HTML/网页、图片（OCR）、音视频（元数据、字幕、转录）转换为 Markdown，无需 API key。提供 outline/read/search/inspect 四个 MCP 工具，支持 token 预算与游标分页；OCR 可用本地 doc-VLM 或 tesseract，转录用 ffmpeg 与内置 Qwen3-ASR（需显式 opt-in）。另有付费 Pro 功能：PDF 引文核验与视频帧引用。可通过 npx 一键接入主流 MCP 客户端。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Rust 编写的 MCP 服务器兼命令行工具，将 PDF、Word、PPT、Excel、
 
 ## 能力要点
 
-- 单一 read 工具覆盖全部格式，支持 URL 与目录，search 跨文件检索（无精确命中时回退 BM25）
-- PDF 按字形位置重建阅读顺序与表格，含无边框表格；页级并行处理
-- 本地运行，OCR 用本地 doc-VLM 或 tesseract，ASR 用捆绑 Qwen3-ASR，不上传数据
-- 一条 npx 命令接入 Claude Code、Codex、Cursor、VS Code 等 MCP 客户端
+- 多种文档格式统一转 Markdown，支持文件、URL 与整个目录
+- 四个 MCP 工具：outline/read/search/inspect，read 支持 max_tokens 分页与引用锚点
+- 本地运行不上传数据，OCR/ASR 均可本地完成
+- 提供 open benchmark（AgentDocBench）及与其他转换工具的同跑对比数据
 
 ## 适用场景
 
-- 让编程 agent 或 MCP 客户端直接读取 PDF/Office/网页等文档作答
-- 批量把本地文件转换为 Markdown 供知识库或 RAG 使用
-- 在多个文档目录中检索内容并附引用页码
+- 让 Claude Code/Cursor 等 MCP 客户端直接读取 PDF、Office 文档
+- 批量把论文、幻灯片、表格转成 agent 可用的 Markdown 语料
+- 在本地对文档目录做全文搜索并回传 BM25 排序的片段
 
 ## 场景标签
 
-`文档解析` `OCR` · 领域:知识与检索
+`文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
+> L1: anymd — any file → clean Markdown for AI agents
 > L5: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcri
-> L40: Add anymd to every MCP client on your machine (Claude Code, Codex, Cursor, VS Code, Claude Desktop, Windsurf, Gemin
-> L167: anymd exposes four tools.
+> L25: npx -y @sylphx/anymd setup                                    # add anymd to every MCP client on this machine
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "SylphxAI/anymd 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1042 --> 1080
-    line [1045, 1048, 1050, 1051, 1052, 1054, 1057, 1058, 1059, 1051, 1066, 1069, 1070, 1071, 1074, 1077]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 1046 --> 1079
+    line [1048, 1050, 1051, 1052, 1054, 1057, 1058, 1059, 1051, 1066, 1069, 1070, 1071, 1074, 1077, 1077]
 ```
 
-2026-10-21 1,045 → 2026-11-23 1,077（+32）
+2026-10-22 1,048 → 2026-11-24 1,077（+29）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9fe7ecbf52c4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3a8130b38ed9` · [字段定义](../../DATASET.md)*

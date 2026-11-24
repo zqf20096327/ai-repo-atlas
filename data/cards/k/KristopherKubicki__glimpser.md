@@ -44,13 +44,13 @@ Python 编写的实时监控应用，从 IP 摄像头、仪表盘和视频流等
 
 ```mermaid
 xychart-beta
-    title "KristopherKubicki/glimpser 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    title "KristopherKubicki/glimpser 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-20 34 → 2026-11-23 35（+1）
+2026-10-21 34 → 2026-11-24 35（+1）
 
 
 ---

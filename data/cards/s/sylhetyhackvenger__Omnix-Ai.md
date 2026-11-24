@@ -42,6 +42,18 @@
 > L22: **Omnix-Ai** is a *singular Python file* that turns any rooted-or-not Android phone running Termux into an autonomo
 > L33: |**Local-first LLM**|Runs on `huihui_ai/qwen2.5-coder-abliterate:1.5b` (configurable) via Ollama. No cloud calls.|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sylhetyhackvenger/Omnix-Ai 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `049298e7eb72` · [字段定义](../../DATASET.md)*

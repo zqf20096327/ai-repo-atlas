@@ -41,12 +41,12 @@ TensorFlow.js 特别兴趣小组（SIG）的社区仓库，用于承载 TFJS SIG
 ```mermaid
 xychart-beta
     title "tensorflow/sig-tfjs 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-21 17 → 2026-11-23 17（+0）
+2026-10-22 17 → 2026-11-24 17（+0）
 
 
 ---

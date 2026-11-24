@@ -2,15 +2,15 @@
 
 ⭐ 654 · Python · 推送 2026-11-20 · [GitHub](https://github.com/anthropics/life-sciences) · 组织维护
 
-**面向生命科学的 Claude Code 插件市场：MCP 服务器与技能集合**
+**面向生命科学研究者的 Claude Code 技能插件市场清单**
 
-由 Anthropic 维护的生命科学插件市场仓库，托管 marketplace.json，通过 Claude Code 的 /plugin 机制安装。收录 6 个远程 MCP 服务器（PubMed、BioRender、Synapse、Wiley Scholar Gateway、Consensus、Cortellis、AdisInsight）、1 个本地 MCP 服务器（10x Genomics Cloud），以及单细胞 RNA-seq 质控、Allotrope 数据转换、Nextflow 生信流程、scvi-tools、科研选题等技能。除 PubMed 外多数服务器需配置账号凭证，部分需付费订阅。
+Anthropic 维护的 Claude Code Marketplace 仓库，为生命科学研究提供领域技能（skills）：临床试验方案生成、科研选题方法论、临床试验结果概率预测、从头设计蛋白结合剂的独立复检与可开发性评估。技能以插件形式通过 /plugin marketplace add 命令安装。仓库已重新聚焦于技能，不再承载 MCP connector 插件，部分技能已移除，早期版本保留在 git 历史中。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 提供生命科学领域的远程/本地 MCP 服务器与技能插件
+- 提供 4 个生命科学技能：临床方案生成、科研选题、试验预测、蛋白结合剂验证
 - 通过 /plugin marketplace add 一条命令接入 Claude Code
-- 技能覆盖单细胞质控、nf-core 流程（rnaseq/sarek/atacseq）、scvi-tools 分析等
-- 按无认证/免费账号/付费订阅三档标注各插件凭证要求
+- 技能基于已发表方法论（如 Cell 2024 选题框架）
+- README 声明长期只托管 marketplace.json，不承载 MCP 服务器
 
 ## 适用场景
 
-- 在 Claude Code 中直接检索 PubMed 文献
-- 实验科学家无需生信训练即可本地运行 nf-core 大规模组学流程
-- 对单细胞 RNA-seq 数据执行标准化质量控制
-- 借助 Consensus/Cortellis 等服务做证据综合与药物监管情报查询
+- 为医疗器械或药物生成符合 FDA/NIH 要求的临床试验方案
+- 评估在研项目的风险与可行性，做科研战略规划
+- 估计已注册临床试验达成目标的概率并获取引用报告
+- 对从头设计的蛋白结合剂做独立复预测与开发性画像
 
 ## 场景标签
 
@@ -38,22 +38,21 @@
 
 ## 证据(README 行号)
 
-> L3: This marketplace provides MCP (Model Context Protocol) servers and skills for life sciences tools. Install these plu
-> L6: - **MCP Servers**: Connect to external services like PubMed, BioRender, Synapse, and more
-> L7: - **Skills**: Domain-specific workflows and analysis capabilities that extend Claude's expertise
+> L3: This marketplace provides skills for life sciences research. Skills are domain-specific workflows that extend Claude
+> L44: This repository has been refocused on skills, so it no longer carries MCP connector plugins. If you installed one, 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "anthropics/life-sciences 星数(近 19 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-23"]
+    title "anthropics/life-sciences 星数(近 20 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-24"]
     y-axis "stars" 620 --> 657
-    line [623, 625, 626, 625, 626, 629, 630, 633, 636, 625, 644, 646, 647, 648, 649, 651, 652, 653, 654]
+    line [623, 625, 626, 625, 626, 629, 630, 633, 636, 625, 644, 646, 647, 648, 649, 651, 652, 653, 654, 654]
 ```
 
-2026-10-21 623 → 2026-11-23 654（+31）
+2026-10-22 623 → 2026-11-24 654（+31）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `80e3c6229b54` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d70fff9b6537` · [字段定义](../../DATASET.md)*

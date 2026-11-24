@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "aflanameenv-oss/heartdisease-ml-prediction 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-23"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-24"]
     y-axis "stars" 2 --> 10
     line [3, 9, 9]
 ```
 
-2026-11-11 3 → 2026-11-23 9（+6）
+2026-11-11 3 → 2026-11-24 9（+6）
 
 
 ---

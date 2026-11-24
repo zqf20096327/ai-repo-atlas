@@ -45,12 +45,12 @@ ThunderAI 的配套 Thunderbird 扩展：在邮件文本进入 AI 提供商前�
 ```mermaid
 xychart-beta
     title "micz/ThunderAI-Privacy 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-23"]
+    x-axis ["2026-11-18", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-23 3（+0）
+2026-11-18 3 → 2026-11-24 3（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cn0xroot/AI-Code-Analyzer 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 24 --> 27
-    line [26, 25, 25]
+    title "cn0xroot/AI-Code-Analyzer 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
 ```
 
-2026-10-21 26 → 2026-11-23 25（-1）
+2026-10-22 25 → 2026-11-24 25（+0）
 
 
 ---

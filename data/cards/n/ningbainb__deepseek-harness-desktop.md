@@ -2,56 +2,57 @@
 
 ⭐ 952 · JavaScript · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/ningbainb/deepseek-harness-desktop) · [官网](https://ningbainb.github.io/deepseek-harness-desktop/) · 个人维护 · 中文 README
 
-**DeepSeek Harness 的开源三平台 AI 编程桌面客户端**
+**DeepSeek Harness 的桌面 GUI 客户端，打包零配置运行环境**
 
-社区维护的开源 AI 编程桌面应用：将公开的 DSH Runtime 与 Web UI 封装为 Windows/macOS/Linux 桌面宿主，提供 AI 对话与代码修改、任务看板与定时自动化、Git 图谱与 SCM、文件预览、SSH/SFTP 远程开发、手机远程控制、QQ Bot 接入、插件与 Skills 生态、多套主题皮肤与桌宠。Windows x64 为正式版（安装包内置 Node.js、Git、DSH），macOS arm64 与 Linux x64 为 Preview 且未签名。非 DeepSeek 官方客户端，BSD-3-Clause 许可。
+基于官方 DSH Runtime 的社区开源桌面工作台，用 Electron 封装 DeepSeek Harness Web Surface 并统一管理本地运行时：AI 对话与代码修改、文件浏览与 Git 操作、Skills 与插件市场、任务看板交给真实 DSH Agent Session 执行、SSH/手机远程接入，以及 15 套主题皮肤与桌宠。安装包内置 Node.js、Git、pnpm 与 DSH，无需手动准备组件；按 BSD-3-Clause 发布，Windows 为正式版，macOS/Linux 为未签名 Preview。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | BSD-3-Clause |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 任务看板可直接交给 DSH Agent Session 执行并记录 Task Run 与 Evidence
-- 支持 SSH/SFTP/端口转发/多主机集群与手机远程控制工作区
-- 统一扫描项目、用户与 Agents 来源的 Skills 并支持插件市场
-- Browser Use 与 Computer Use 操控默认关闭，操作需逐次审批
+- 零配置安装包内置 Node.js、Git、pnpm 与 DSH Runtime
+- 任务看板支持定时任务并记录 Task Run 与 Evidence
+- SSH/手机远程/Web Terminal/SFTP/端口转发/多主机集群
+- Browser Use 与 Computer Use 智能操控（默认关闭、逐次审批）
 
 ## 适用场景
 
-- 在桌面端一体完成 AI 编程、Git 与文件管理工作流
-- 通过手机或 QQ 远程连接本机 Harness 工作区
-- 用任务看板与定时任务做周期性开发维护自动化
+- 不想手动配 Node/Git，安装即用的 Harness 开发环境
+- 通过手机或 QQ Bot 远程控制本机 AI 编程会话
+- 用任务看板管理周期性开发与自动化任务
 
 ## 场景标签
 
-`编码 Agent` `AI 助手` · 领域:编码与开发
+ · 领域:AI 编程工具/桌面客户端
 
 ## 证据(README 行号)
 
-> L35: DeepSeek 官方尚未正式发布独立 Desktop 产品；本项目把公开的官方 **DSH Runtime、Web UI 与官方仓库中的 Desktop 能力边界** 融合为 Windows、macOS 与 Linux 桌面应用
-> L204: 桌面版直接运行 DeepSeek Harness Web Surface，并由桌面宿主管理本地 DSH Runtime。
+> L7: DeepSeek Harness Desktop 是基于官方 DSH 的社区开源桌面工作台，用于对话、项目、插件和任务自动化。
+> L236: 桌面版直接运行 DeepSeek Harness Web Surface，并由桌面宿主管理本地 DSH Runtime。
+> L26: 支持 Windows 10 / 11 x64、macOS 13+ Apple Silicon arm64 Preview 和 Linux x64 Preview。安装包包含 Node.js 与 DSH。Windows 内置 Git
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ningbainb/deepseek-harness-desktop 星数(近 24 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 834 --> 962
-    line [844, 852, 856, 857, 858, 863, 869, 874, 876, 883, 888, 891, 858, 918, 927, 929, 930, 932, 935, 936, 941, 949, 950, 952]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 842 --> 962
+    line [852, 856, 857, 858, 863, 869, 874, 876, 883, 888, 891, 858, 918, 927, 929, 930, 932, 935, 936, 941, 949, 950, 952, 952]
 ```
 
-2026-10-21 844 → 2026-11-23 952（+108）
+2026-10-22 852 → 2026-11-24 952（+100）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0a17fd5d43c3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `30d2cfd187b8` · [字段定义](../../DATASET.md)*

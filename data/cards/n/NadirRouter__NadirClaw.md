@@ -2,9 +2,9 @@
 
 ⭐ 666 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/NadirRouter/NadirClaw) · [官网](https://getnadir.com) · 组织维护
 
-**自托管 LLM 路由代理：按提示复杂度路由到不同价位模型并验证升级**
+**自托管 LLM 路由代理：把简单提示路由到低价模型以降低成本**
 
-本地运行的 OpenAI/Anthropic 兼容代理：约 10ms 的嵌入分类器将每个提示分派到简单/中等/复杂三档模型，先用便宜模型生成，再用规则启发式校验器（拒绝/截断/JSON 失败检查，阈值 τ=0.80）打分，不达标自动升级到更强模型。面向使用 Claude Code、Cursor、Codex 等工具并希望降低 API 成本的开发者。支持 Gemini/OpenAI/Anthropic/Ollama 及 LiteLLM 兼容后端，提供费用追踪、回退链、流式传输。许可证为 PolyForm Noncommercial（非商用免费，商业需另行授权），另有托管版 Nadir Pro。
+以 OpenAI/Anthropic 兼容代理形式运行的 LLM 路由器，面向使用 Claude Code、Cursor、Codex 等 OpenAI 兼容客户端的个人开发者与自托管用户。工作流为三步：约 10ms 嵌入分类器预测最小可用模型并先路由到低价模型；规则启发式验证器对回答评分（拒绝/截断/JSON 失败）；低于阈值 τ=0.80 时自动升级到更强模型。支持三级/N 级 YAML 配置、回退链、会话固定、上下文压缩与成本追踪（CLI），本地运行、API key 不出本机。PolyForm Noncommercial 许可，非商用免费。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 约 10ms 嵌入分类器做三层/N 层模型路由，YAML 配置热加载
-- 验证器门控级联：启发式校验未过阈值 τ=0.80 时自动升级模型
-- OpenAI 兼容 /v1/chat/completions 与 Anthropic 兼容 /v1/messages 双端点
-- 每请求成本对比、按模型/日期费用报表、CSV/JSONL 导出
+- Route-Verify-Escalate 级联：低价模型先行，评分不足自动升级
+- OpenAI 兼容（/v1/chat/completions）与 Anthropic 兼容（/v1/messages）双端点，drop-in 代理
+- 可插拔分类器（binary centroid / DistilBERT / Laya）与 N 级 YAML 热重载配置
+- 回退链、流式 SSE、上下文压缩与成本追踪（nadirclaw savings CLI）
 
 ## 适用场景
 
-- 让 Claude Code / Cursor / Codex 等工具自动走便宜模型、按需升级以降成本
-- 本地代理统一管理多家模型提供商的 API key
-- 追踪各模型与各时段的 API 花费并做预算告警
+- 让 Claude Code/Codex/Cursor 的请求自动分流到更便宜的模型以降低 API 开销
+- 自托管代理场景下让 API key 不离开本机
+- 为不同复杂度的提示配置多级模型路由与预算控制
 
 ## 场景标签
 
@@ -37,22 +37,21 @@
 
 ## 证据(README 行号)
 
-> L39: - **Drop-in proxy** — works with any OpenAI-compatible tool
+> L8:  NadirClaw routes every prompt to the cheapest model that can reliably answer, verifies the
 > L182: - **OpenAI-compatible API** — drop-in replacement for any tool that speaks the OpenAI chat completions API (`/v1/c
-> L52: 1. **Route** — a ~10ms embedding classifier predicts the *smallest* model likely to answer and sends the prompt the
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "NadirRouter/NadirClaw 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-23"]
+    title "NadirRouter/NadirClaw 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-24"]
     y-axis "stars" 659 --> 668
-    line [660, 661, 660, 661, 663, 665, 666, 667, 666, 666]
+    line [661, 660, 661, 663, 665, 666, 667, 666, 666]
 ```
 
-2026-10-21 660 → 2026-11-23 666（+6）
+2026-10-22 661 → 2026-11-24 666（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `e4741b6ecfc2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `394f20cff52c` · [字段定义](../../DATASET.md)*

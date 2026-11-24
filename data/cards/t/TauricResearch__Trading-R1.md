@@ -1,10 +1,10 @@
 # TauricResearch/Trading-R1
 
-⭐ 760 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/TauricResearch/Trading-R1) · [官网](https://tauric.ai) · 组织维护
+⭐ 760 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/TauricResearch/Trading-R1) · [官网](https://tauric.ai) · 组织维护 · 中文 README
 
-**面向金融研究的终端 Agent：用 LLM 回答研究问题并生成报告**
+**面向金融研究者的终端 AI 研究分析工具**
 
-命令行终端应用，用 LLM agent 做金融研究与数据分析：支持 auto/research/analytical 三种模式，agent 调用网络、数据与估值工具回答研究问题；回答可导出为 PDF/Markdown 报告，发送至 Telegram、email 或文件夹，支持定时任务（如每日晨报）与后台守护服务，Telegram 频道可双向问答。模型可选 Tauric、OpenAI、Anthropic、Gemini 或自建 vLLM 服务器，需相应 API key。仅供研究与教育用途，非投资建议，Apache-2.0 许可。
+一个终端形态的金融研究与分析工具：用户以自然语言提问（如某公司季度营收），由 agent 调用数据、估值与网络检索工具完成研究并生成报告。提供 auto/research/analytical 三种模式、命令面板、多模型选择（OpenAI/Anthropic/Gemini/Tauric/vLLM 后端）、PDF/Markdown 报告导出、Telegram 与邮件渠道发送、定时报告任务及 systemd/launchd 后台服务。声明仅限研究与教育用途，非投资建议。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- auto/research/analytical 三种模式，agent 自主决定工具使用
-- 报告导出 PDF/Markdown 并发送 Telegram、email、文件夹
-- 定时任务与 systemd/launchd 后台服务，Telegram 支持从手机提问
-- 支持 Tauric/OpenAI/Anthropic/Gemini/自建 vLLM 多种模型
+- 终端内自然语言金融研究问答，agent 自动调用数据与估值工具
+- auto/research/analytical 三种模式与命令面板
+- 报告导出 PDF/Markdown，可经 Telegram/email/folder 发送
+- 定时报告任务与 systemd/launchd 后台服务
 
 ## 适用场景
 
-- 在终端里向 AI 提问并获取股票研究问答
-- 设置每日定时晨报并发送到 Telegram 或邮箱
-- 用自建 vLLM 服务器离线运行金融研究 agent
+- 在终端里直接提问个股财务数据并获得研究报告
+- 设置每日定时任务自动生成关注标的晨报并发送到 Telegram/邮箱
+- 将研究结论导出为 PDF 报告存档或分享
 
 ## 场景标签
 
-`金融量化` `数据分析` · 领域:效率与自动化
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L22:  Trading-R1: The terminal for financial research and analysis
-> L70: trading-r1 "What's NVDA's last quarterly revenue?"  # and ask a first question
+> L23:  Trading-R1: The terminal for financial research and analysis
+> L71: trading-r1 "What's NVDA's last quarterly revenue?"  # and ask a first question
+> L85: |`auto`|Full toolkit; the agent decides|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "TauricResearch/Trading-R1 星数(近 14 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "TauricResearch/Trading-R1 星数(近 15 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 575 --> 776
-    line [591, 630, 650, 663, 680, 691, 702, 711, 718, 727, 738, 743, 751, 760]
+    line [591, 630, 650, 663, 680, 691, 702, 711, 718, 727, 738, 743, 751, 760, 760]
 ```
 
-2026-11-08 591 → 2026-11-23 760（+169）
+2026-11-08 591 → 2026-11-24 760（+169）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `f0c968dd27b3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9c976b7859a3` · [字段定义](../../DATASET.md)*

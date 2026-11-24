@@ -47,12 +47,12 @@ Red Ink 是运行于 Windows 版 Microsoft Office 的加载项（Word/Excel/Outl
 ```mermaid
 xychart-beta
     title "LawDigital/redink 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 101 --> 105
     line [102, 104, 104]
 ```
 
-2026-10-21 102 → 2026-11-23 104（+2）
+2026-10-22 102 → 2026-11-24 104（+2）
 
 
 ---

@@ -46,12 +46,12 @@ PersonalMemory 是本地优先、用户掌控的 AI 记忆系统：从授权的�
 ```mermaid
 xychart-beta
     title "JiaRan027/PersonalMemoryX 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-23"]
+    x-axis ["2026-11-11", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-23 3（+0）
+2026-11-11 3 → 2026-11-24 3（+0）
 
 
 ---

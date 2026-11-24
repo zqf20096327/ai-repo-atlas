@@ -1,10 +1,10 @@
 # truffle-ai/dexto
 
-⭐ 661 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/truffle-ai/dexto) · [官网](https://dexto.ai) · 组织维护 · 中文 README
+⭐ 661 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/truffle-ai/dexto) · [官网](https://dexto.ai) · 组织维护
 
-**开源 AI agent 编排框架：把 LLM 变成可运行的有状态 agent**
+**开发者用 YAML 编排 LLM agent 的 harness 与 CLI/SDK 工具包**
 
-TypeScript 编写的 agent harness，定位为 LLM 之上的编排层：通过 YAML 配置定义 agent，提供会话管理、工具编排、持久记忆、多模态与可观测性。内置可即用的 coding agent，支持 50+ LLM（OpenAI/Anthropic/Google/Groq/xAI 等）及本地 Ollama、GGUF（node-llama-cpp，自动 GPU 检测 Metal/CUDA/Vulkan）。集成 30+ MCP 工具，支持子 agent 生成、人机审批控制。运行形态覆盖 CLI、Web UI、REST/SSE 服务器与 MCP 服务器，并提供 npm SDK（@dexto/core）。收集匿名遥测数据。
+Dexto 定位为 agent harness/编排层，以 YAML 配置定义 agent（模型、MCP 服务器、存储、权限），提供会话持久化、记忆、子 agent 派生、human-in-the-loop 审批与 REST/SSE API。内置一个可直接使用的 coding agent，支持 CLI、headless、Discord/Telegram 等运行方式，并可嵌入 Discord/Telegram。通过 @dexto/core SDK 以 TypeScript 编程方式构建 agent。运行需 Node.js 20+ 与已配置的模型 API key 或云端账户/额度；许可证为 Elastic License 2.0，默认收集匿名遥测，可通过环境变量关闭。
 
 ## 筛选速览
 
@@ -20,41 +20,39 @@ TypeScript 编写的 agent harness，定位为 LLM 之上的编排层：通过 Y
 
 ## 能力要点
 
-- YAML 配置驱动定义 agent，免改代码切换模型与工具
-- 支持 50+ LLM，含本地 Ollama 与 GGUF（自动 GPU 检测）
-- 内置 coding agent 与 30+ MCP 工具集成，含 MCP Store
-- 可作为 MCP 服务器供 Claude Code、Cursor 调用
-- npm SDK @dexto/core 支持编程式构建 agent
+- YAML 配置定义 agent，模型/工具切换无需改代码
+- 接入 Model Context Protocol，内置 MCP 管理器（30+ 工具）
+- 持久会话/记忆、子 agent 派生、分级权限审批
+- 提供 CLI、headless 模式与 @dexto/core SDK 及 REST/SSE API
 
 ## 适用场景
 
-- 构建和运行自主编码、重构代码的 coding agent
-- 通过 MCP 协议把 agent 接入 Cursor、Claude Code 等编辑器
-- 搭建多 agent 协作系统（explore-agent、triage-agent 等）
-- 以本地模型运行 agent 处理隐私数据
+- 在终端运行编码 agent 进行代码构建与重构
+- 用自己的 YAML 配置搭建领域 agent 并嵌入应用
+- 通过 MCP 连接浏览器、文件系统、API 等工具
+- 本地运行模型以保留数据在本机
 
 ## 场景标签
 
-`Agent 框架` `编码 Agent` `多智能体` · 领域:Agent 开发
+`编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L23: Dexto is an **agent harness**—the orchestration layer that turns LLMs into reliable, stateful agents that can take 
-> L36: - **Configuration-driven**: Define agents in YAML. Swap models and tools without touching code.
-> L50: Dexto ships with a **production-ready coding agent** you can use immediately via the CLI or Web UI.
+> L47: Dexto is an **agent harness**—the orchestration layer that turns LLMs into reliable, stateful agents that can take 
+> L60: - **Configuration-driven**: Define agents in YAML. Swap models and tools without touching code.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "truffle-ai/dexto 星数(近 8 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23"]
-    y-axis "stars" 651 --> 662
-    line [652, 657, 659, 657, 659, 660, 661, 661]
+    title "truffle-ai/dexto 星数(近 7 点)"
+    x-axis ["2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-24"]
+    y-axis "stars" 656 --> 662
+    line [657, 659, 657, 659, 660, 661, 661]
 ```
 
-2026-10-21 652 → 2026-11-23 661（+9）
+2026-10-22 657 → 2026-11-24 661（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `42a82da1ff10` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c62d659784ad` · [字段定义](../../DATASET.md)*

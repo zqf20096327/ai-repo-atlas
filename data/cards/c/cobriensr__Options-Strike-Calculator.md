@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cobriensr/Options-Strike-Calculator 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-23"]
+    x-axis ["2026-10-29", "2026-11-24"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-29 22 → 2026-11-23 22（+0）
+2026-10-29 22 → 2026-11-24 22（+0）
 
 
 ---

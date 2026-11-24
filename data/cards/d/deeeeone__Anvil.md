@@ -42,6 +42,18 @@
 > L17: Anvil is a desktop app in the spirit of Claude Code and Codex, built natively for the Mac with SwiftUI. Its agent s
 > L133: **Settings → Provider → Add provider** offers ready-made presets for **Z.ai, OpenRouter, Groq, DeepSeek, Mistral, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deeeeone/Anvil 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
+```
+
+2026-11-23 39 → 2026-11-24 39（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `56d558379132` · [字段定义](../../DATASET.md)*

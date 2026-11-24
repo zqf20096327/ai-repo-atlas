@@ -45,12 +45,12 @@ Zobik 是基于 Blackboard 与 Pub/Sub 模式的事件驱动 Compound AI System�
 ```mermaid
 xychart-beta
     title "zobik-org/zobik 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-23 3（+0）
+2026-11-10 3 → 2026-11-24 3（+0）
 
 
 ---

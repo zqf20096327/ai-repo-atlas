@@ -2,9 +2,9 @@
 
 ⭐ 814 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/InternLM/Intern-Decision) · 组织维护 · 中文 README
 
-**多模态决策模型：把状态、图像与问题转为带概率的决策**
+**多模态决策模型：输入状态与图像，输出带概率的决策**
 
-Intern-Decision 将状态、可选图像与多类问题（choice/score/noul 是非题）作为输入，输出带概率的决策；通过微调 Qwen3.5 语言骨干（冻结视觉塔与投影层）实现。发布内容包括训练脚本、两个推理后端（Hugging Face 与 XTuner）、基准评分、温度校准与浏览器演示，并附带 96 例分布校准基准与七个精度测试套件。模型权重、训练数据与图像未包含。运行要求 Linux、Python 3.12 与 CUDA，HF 与 XTuner 需分置独立虚拟环境。
+基于 Qwen3.5 语言骨干微调、冻结视觉塔与投影器的多模态决策模型，将状态、可选图像与多个类型化问题（choice/score/yes-no）在一次前向中映射为带概率的决策。发布内容包括训练流程、HF/XTuner/LMDeploy 推理与部署路径、基准评测、温度校准、浏览器 demo，以及 96 例分布校准基准与七个准确率测试套件；训练数据、私有校准记录与模型权重不在仓库内。运行要求 Linux、Python 3.12 与 CUDA。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Intern-Decision 将状态、可选图像与多类问题（choice/score/noul 是�
 
 ## 能力要点
 
-- 支持 choice/score/noul 三种问题类型的概率化决策输出
-- 提供 HF 与 XTuner 两个推理后端，RTX 4090 上 4B 模型平均延迟 44.16 ms
-- 96 例分布校准基准（确定性生成器 + 离线评分器）与七套件精度评测
-- 支持在自备 JSONL 数据上微调 0.8B/2B/4B/9B Qwen3.5 变体
+- choice/score/yes-no 三类问题一次前向输出带校准概率的决策
+- 提供 HF、XTuner、LMDeploy 三套独立环境的运行与部署路径
+- 内置 96 例分布校准基准、确定性生成器与离线打分器
+- 发布各 checkpoint 专属温度预设，推理时限制到合法答案符号计算概率
 
 ## 适用场景
 
-- 为游戏（Mario/Doom）、浏览器操作等场景输出概率化决策
-- 在自备数据上微调决策模型并做温度校准
-- 复现精度、延迟与校准基准评测结果
+- 为游戏或浏览器 Agent 提供低延迟的决策打分接口
+- 评测并校准 LLM 在类型化决策任务上的概率输出质量
+- 基于自己的记录运行推理与离线打分复现评测
 
 ## 场景标签
 
@@ -37,22 +37,22 @@ Intern-Decision 将状态、可选图像与多类问题（choice/score/noul 是�
 
 ## 证据(README 行号)
 
-> L11: Intern-Decision turns a state, optional images, and multiple typed questions into
-> L12: decisions with probabilities. It fine-tunes the language backbone of Qwen3.5
-> L16: This release contains training, two inference backends, benchmark scoring,
+> L13: Intern-Decision turns a state, optional images, and multiple typed questions into
+> L14: decisions with probabilities. It fine-tunes the language backbone of Qwen3.5
+> L179: Use Linux, Python 3.12, and CUDA for the trained backends. Run commands from
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "InternLM/Intern-Decision 星数(近 23 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 766 --> 865
-    line [848, 857, 774, 775, 777, 779, 783, 787, 790, 792, 797, 799, 777, 800, 802, 803, 804, 806, 809, 810, 812, 813, 814]
+    line [857, 774, 775, 777, 779, 783, 787, 790, 792, 797, 799, 777, 800, 802, 803, 804, 806, 809, 810, 812, 813, 814, 814]
 ```
 
-2026-10-21 848 → 2026-11-23 814（-34）
+2026-10-22 857 → 2026-11-24 814（-43）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `43205683f244` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d94ab16bbbac` · [字段定义](../../DATASET.md)*

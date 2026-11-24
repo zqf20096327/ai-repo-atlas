@@ -40,6 +40,18 @@
 > L12: Owner Decisions is a skill for Claude Code, Codex, OpenCode, Cursor and other agents that read
 > L13: Agent Skills. It keeps a decision log of your own choices across all projects in a private base
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nyxandro/owner-decisions-skill 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8de36d120406` · [字段定义](../../DATASET.md)*

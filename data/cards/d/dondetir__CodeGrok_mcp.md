@@ -46,12 +46,12 @@ CodeGrok MCP 是一个 Model Context Protocol 服务器，供 Claude、Cursor、
 ```mermaid
 xychart-beta
     title "dondetir/CodeGrok_mcp 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-21 15 → 2026-11-23 15（+0）
+2026-10-22 15 → 2026-11-24 15（+0）
 
 
 ---

@@ -42,6 +42,18 @@ PRAXO-CORE 的 Dart 实现，是一个可嵌入进程内运行的 agent 框架�
 > L45: |OpenAI-compatible model|native|`OpenAiCompatibleModel` with sync and async transport paths; `generateStream` reass
 > L48: |MCP client|native|`McpClient`; stdio, plus `McpStreamableHttpTransport` for Streamable HTTP 2025-03-26|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axisvela/praxo-core-dart 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ebab7da59b89` · [字段定义](../../DATASET.md)*

@@ -41,6 +41,18 @@ JoeBro 的 iPhone 伴侣端，需与 Mac 上的 JoeBro（1.3+）配对使用，�
 > L119: The phone agent is JoeBro, on your phone, with a memory and a to-do list. All of it runs on your Mac. The phone is
 > L24: Claude Code, Codex and OpenCode sessions appear in your chat list while they are open in a terminal on any of your 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "joexk1/JoeBro-Mobile 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `5abca475750a` · [字段定义](../../DATASET.md)*

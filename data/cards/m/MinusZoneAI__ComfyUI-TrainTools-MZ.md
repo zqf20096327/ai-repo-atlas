@@ -45,12 +45,12 @@ ComfyUI 自定义节点集合，将 kohya-ss/sd-scripts 训练流程封装为节
 ```mermaid
 xychart-beta
     title "MinusZoneAI/ComfyUI-TrainTools-MZ 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-21 66 → 2026-11-23 66（+0）
+2026-10-22 66 → 2026-11-24 66（+0）
 
 
 ---

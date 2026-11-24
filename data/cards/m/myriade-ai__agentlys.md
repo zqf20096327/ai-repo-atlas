@@ -46,12 +46,12 @@ Agentlys 是一个异步原生的 Python AI agent 库，核心约 500 行代码�
 ```mermaid
 xychart-beta
     title "myriade-ai/agentlys 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-21 31 → 2026-11-23 31（+0）
+2026-10-22 31 → 2026-11-24 31（+0）
 
 
 ---

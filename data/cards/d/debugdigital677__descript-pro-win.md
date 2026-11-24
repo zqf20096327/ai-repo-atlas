@@ -41,6 +41,18 @@
 > L42: - **Text-Based Editing**: Edit your video or podcast by deleting and rearranging words in a transcript, and the cor
 > L101: The specific license details for Descript Pro are not provided here. Users should consult the license distributed 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "debugdigital677/descript-pro-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 348 --> 350
+    line [349, 349]
+```
+
+2026-11-23 349 → 2026-11-24 349（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `05c042fbb567` · [字段定义](../../DATASET.md)*

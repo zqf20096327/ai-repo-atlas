@@ -40,6 +40,18 @@ ParaAttention 是一个以 Python 包发布的推理加速库：通过上下文�
 > L11: Context parallel attention that accelerates DiT model inference with dynamic caching,
 > L20: - [x] An easy to use interface to speed up model inference with context parallel, dynamic caching and `torch.compil
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chengzeyi/ParaAttention 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 435 --> 437
+    line [436, 436]
+```
+
+2026-11-23 436 → 2026-11-24 436（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d7684f88ee43` · [字段定义](../../DATASET.md)*

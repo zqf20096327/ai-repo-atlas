@@ -45,12 +45,12 @@ Context Dev REST API 的官方命令行客户端，由 Stainless 生成。终端
 ```mermaid
 xychart-beta
     title "context-dot-dev/context-dev-cli 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-23"]
+    x-axis ["2026-11-20", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-23 10（+0）
+2026-11-20 10 → 2026-11-24 10（+0）
 
 
 ---

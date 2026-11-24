@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bluesky-social/diderot 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "bluesky-social/diderot 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 37 --> 48
-    line [38, 47]
+    line [38, 47, 47]
 ```
 
-2026-11-22 38 → 2026-11-23 47（+9）
+2026-11-22 38 → 2026-11-24 47（+9）
 
 
 ---

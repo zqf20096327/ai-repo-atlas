@@ -40,6 +40,18 @@
 > L6:  Production-Ready Multi-Agent AI Operating System for Android
 > L13: NexaDroid transforms Android into an autonomous, intelligent multi-agent environment where a central **Master Agent
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yashabcyber7/nexadroid 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 1317 --> 1319
+    line [1318, 1318]
+```
+
+2026-11-23 1,318 → 2026-11-24 1,318（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cced55ee9199` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tubeagentkit/youtube-transcript-hermes-plugin 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-23"]
+    title "tubeagentkit/youtube-transcript-hermes-plugin 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-23", "2026-11-24"]
     y-axis "stars" 8 --> 13
-    line [12, 10, 9]
+    line [12, 10, 9, 9]
 ```
 
-2026-11-08 12 → 2026-11-23 9（-3）
+2026-11-08 12 → 2026-11-24 9（-3）
 
 
 ---

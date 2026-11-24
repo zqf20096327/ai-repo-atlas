@@ -47,12 +47,12 @@ Home Organizer 是 Home Assistant 侧边栏的全屏应用，管理家庭物品�
 ```mermaid
 xychart-beta
     title "GuyAzria/home-organizer 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-21 49 → 2026-11-23 49（+0）
+2026-10-22 49 → 2026-11-24 49（+0）
 
 
 ---

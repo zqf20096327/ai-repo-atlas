@@ -2,9 +2,9 @@
 
 ⭐ 678 · Python · LGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/trailofbits/fickling) · 组织维护
 
-**Python pickle 反编译与静态分析工具，检测恶意模型文件**
+**给开发者的 Python pickle 反编译与静态安全分析工具**
 
-针对 Python pickle 序列化格式的反编译器、静态分析器与字节码重写器，以 Python 库和 CLI 两种形式提供。可将 pickle 文件反编译为可读 Python 代码、符号执行 Pickle 虚拟机以安全分析潜在恶意文件、支持 PyTorch 各版本模型文件格式的检查与 polyglot 文件的识别和构造。面向 ML 场景提供安全钩子：激活后对 pickle 模块全局挂钩，加载模型时按 ML 库导入白名单校验并阻断非白名单导入；另支持运行时安全检查（上下文管理器、单文件检查）与代码注入等高级用法。
+面向 Python pickle 序列化格式的反编译器、静态分析器与字节码重写器，可作为库或 CLI 使用。可检测、分析、逆向或构造恶意 pickle 文件；通过钩子 pickle 模块对导入做白名单校验，在加载 PyTorch 等模型时拦截非白名单导入并抛出 UnsafeFileError；还支持在不执行代码的情况下符号执行追踪 pickle 字节码，以及创建 PyTorch 多格式 polyglot 文件。要求 Python 3.11+，依赖极少。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 将 pickle 反编译为可读 Python 代码，PM 符号执行避免实际运行恶意代码
-- hook.activate_safe_ml_environment() 按 ML 库导入白名单阻断恶意模型加载
-- 支持 PyTorch v0.1.1–v1.3 及 TorchScript 等多种文件格式的识别、检查与 polyglot 构造
-- CLI 提供 --check-safety、--trace、--inject 等命令，非 Python 环境也可做安全检查
+- 将 pickle 字节码反编译为可读 Python 代码，采用符号执行避免执行恶意代码
+- 钩子 pickle 模块按 ML 库导入白名单拦截不安全加载
+- 支持识别、检查与构造 8 类 PyTorch 文件格式的 polyglot
+- 提供 always_check_safety / 上下文管理器 / 单文件检查等多种集成方式
 
 ## 适用场景
 
-- 加载 PyTorch 等模型文件前扫描其中的恶意 pickle 代码
-- 对来源不明的 pickle 文件做反编译与逆向分析
-- 在 ML 训练/推理代码库中接入运行时安全钩子阻断恶意文件加载
+- 在加载来源不明的 PyTorch/pickle 模型前检查是否含恶意代码
+- 在 ML 代码库运行时强制 pickle 反序列化安全检查
+- 逆向分析 pickle 文件的字节码与导入行为
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 ## 证据(README 行号)
 
 > L5: Fickling is a decompiler, static analyzer, and bytecode rewriter for Python
+> L7: You can use fickling to detect, analyze, reverse engineer, or even create
 > L40: Fickling can help securing AI/ML codebases by automatically scanning pickle files contained in
-> L44: Add the following lines as early as possible, **before importing `torch`, `numpy`, or any other
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "trailofbits/fickling 星数(近 12 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 672 --> 680
-    line [673, 674, 675, 676, 675, 676, 675, 676, 678, 679, 678, 678]
+    title "trailofbits/fickling 星数(近 11 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-24"]
+    y-axis "stars" 673 --> 680
+    line [674, 675, 676, 675, 676, 675, 676, 678, 679, 678, 678]
 ```
 
-2026-10-21 673 → 2026-11-23 678（+5）
+2026-10-22 674 → 2026-11-24 678（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a538f3863305` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8a1d690268d7` · [字段定义](../../DATASET.md)*

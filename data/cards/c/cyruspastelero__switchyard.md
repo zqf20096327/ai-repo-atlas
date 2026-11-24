@@ -41,6 +41,18 @@
 > L59: And it's **2 dependencies** (`better-sqlite3` + `ws`). No React. No build step. One command to start.
 > L89: This adds hooks to `~/.claude/settings.json` so Claude Code reports activity to Mission Control. You only need to d
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cyruspastelero/switchyard 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-23 11 → 2026-11-24 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `963b9d92581a` · [字段定义](../../DATASET.md)*

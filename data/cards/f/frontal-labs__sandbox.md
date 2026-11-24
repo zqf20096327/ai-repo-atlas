@@ -45,12 +45,12 @@ Frontal Sandbox 为 AI agent 提供即时的代码执行环境：会话默认运
 ```mermaid
 xychart-beta
     title "frontal-labs/sandbox 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-23"]
+    x-axis ["2026-11-18", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-23 3（+0）
+2026-11-18 3 → 2026-11-24 3（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ryang420/agent-keel 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 7 --> 10
-    line [8, 9, 9]
+    title "ryang420/agent-keel 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
 ```
 
-2026-10-21 8 → 2026-11-23 9（+1）
+2026-10-22 9 → 2026-11-24 9（+0）
 
 
 ---

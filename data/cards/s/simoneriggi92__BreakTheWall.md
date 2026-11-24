@@ -46,12 +46,12 @@ Electron 桌面应用（macOS/Windows），把文本（粘贴或 .txt/.md）解�
 ```mermaid
 xychart-beta
     title "simoneriggi92/BreakTheWall 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-31", "2026-11-22", "2026-11-24"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-31 3 → 2026-11-23 4（+1）
+2026-10-31 3 → 2026-11-24 4（+1）
 
 
 ---

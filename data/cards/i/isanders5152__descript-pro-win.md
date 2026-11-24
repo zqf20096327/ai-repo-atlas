@@ -41,6 +41,18 @@
 > L19: Descript Pro is an AI-powered video and podcast editor that lets you edit audio and video by editing text, much lik
 > L36: |**Dependencies**|DirectX 11 or later, updated graphics drivers, Windows Media Foundation codecs, and Visual C++ Re
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "isanders5152/descript-pro-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 329 --> 331
+    line [330, 330]
+```
+
+2026-11-23 330 → 2026-11-24 330（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `561831fc868d` · [字段定义](../../DATASET.md)*

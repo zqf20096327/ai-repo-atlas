@@ -43,13 +43,13 @@ Helvia 维护的 RAG 增强服务，面向已有 RAG 系统的开发者，通过
 
 ```mermaid
 xychart-beta
-    title "Helvia/rag-buddy 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 27 --> 30
-    line [29, 28, 28]
+    title "Helvia/rag-buddy 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
 ```
 
-2026-10-21 29 → 2026-11-23 28（-1）
+2026-10-22 28 → 2026-11-24 28（+0）
 
 
 ---

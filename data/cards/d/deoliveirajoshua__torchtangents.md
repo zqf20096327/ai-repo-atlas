@@ -46,12 +46,12 @@ Google JAX 库 Neural Tangents 的 PyTorch 移植：在标准 PyTorch 中构建�
 ```mermaid
 xychart-beta
     title "deoliveirajoshua/torchtangents 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-23"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-24"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-11-08 16 → 2026-11-23 17（+1）
+2026-11-08 16 → 2026-11-24 17（+1）
 
 
 ---

@@ -45,12 +45,12 @@ Pilot 是一个浏览器自动化 MCP 服务器，供 Claude Code、Cursor 等 M
 ```mermaid
 xychart-beta
     title "TacosyHorchata/Pilot 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-21 32 → 2026-11-23 32（+0）
+2026-10-22 32 → 2026-11-24 32（+0）
 
 
 ---

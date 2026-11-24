@@ -43,12 +43,12 @@ Emgu TF 是 Google TensorFlow 库的跨平台 .Net 封装，使 TensorFlow 函�
 ```mermaid
 xychart-beta
     title "emgucv/emgutf 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 220 --> 222
     line [221, 221]
 ```
 
-2026-10-21 221 → 2026-11-23 221（+0）
+2026-10-22 221 → 2026-11-24 221（+0）
 
 
 ---

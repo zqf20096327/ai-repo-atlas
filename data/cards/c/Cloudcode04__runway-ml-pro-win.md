@@ -40,6 +40,18 @@
 > L19: Runway ML Pro is an AI video generation platform that lets you turn written prompts into short video clips, animate
 > L23: In the broader generative video field, Runway ML Pro sits among the tools that made prompt-driven video accessible 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Cloudcode04/runway-ml-pro-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 339 --> 341
+    line [340, 340]
+```
+
+2026-11-23 340 → 2026-11-24 340（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `242340fef97b` · [字段定义](../../DATASET.md)*

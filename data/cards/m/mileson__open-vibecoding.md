@@ -46,13 +46,13 @@ Open VibeCoding 是一个接入现有编码 Agent（Codex、Claude Code、Cursor
 
 ```mermaid
 xychart-beta
-    title "mileson/open-vibecoding 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "mileson/open-vibecoding 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 40 --> 151
-    line [49, 135, 141, 142]
+    line [49, 135, 141, 142, 142]
 ```
 
-2026-11-20 49 → 2026-11-23 142（+93）
+2026-11-20 49 → 2026-11-24 142（+93）
 
 
 ---

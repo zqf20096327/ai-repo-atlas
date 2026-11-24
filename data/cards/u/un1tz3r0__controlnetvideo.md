@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "un1tz3r0/controlnetvideo 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 82 --> 85
-    line [84, 83, 83]
+    title "un1tz3r0/controlnetvideo 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 82 --> 84
+    line [83, 83]
 ```
 
-2026-10-21 84 → 2026-11-23 83（-1）
+2026-10-22 83 → 2026-11-24 83（+0）
 
 
 ---

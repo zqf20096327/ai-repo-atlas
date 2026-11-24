@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "holland202/principia-artificialis 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-24", "2026-11-23"]
+    title "holland202/principia-artificialis 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-23", "2026-11-24"]
     y-axis "stars" 16 --> 21
-    line [17, 19, 20]
+    line [17, 19, 20, 20]
 ```
 
-2026-10-21 17 → 2026-11-23 20（+3）
+2026-10-22 17 → 2026-11-24 20（+3）
 
 
 ---

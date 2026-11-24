@@ -41,6 +41,18 @@ CIGAR（Context Intelligence Graph Agentic Runtime）由 HOL 开发，是开源�
 > L95: |Agent integration|Use the CLI, embedded runtime, local daemon, MCP server, Claude Code adapter, or the Rust, Pytho
 > L139: CIGAR is model-agnostic. It is not a model, hosted agent service, autonomous scheduler, or
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hashgraph-online/hol-cigar 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `79625f2f8f12` · [字段定义](../../DATASET.md)*

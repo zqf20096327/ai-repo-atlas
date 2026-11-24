@@ -2,9 +2,9 @@
 
 ⭐ 674 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mario-andreschak/FLUJO) · [官网](https://try.flujo.com.co) · 个人维护
 
-**可视化构建并本地运行私有 AI agent 的开源工作台**
+**本地优先的可视化多 Agent 工作台：连接模型与工具并构建自动化**
 
-基于 Next.js+React 的本地优先 AI 工作台：保存模型与 MCP 应用连接后，以自然语言步骤（Easy）或可视化节点图（Expert）构建可复用 agent，支持分支、循环、子流与多模型多专家编排；提供 Talk 对话界面、可视化断点调试器、上下文窗口计量，以及按计划/Webhook/文件变化等触发的自动化。支持 OpenAI、Azure OpenAI、Anthropic、Gemini、X.ai、OpenRouter 及 Ollama 本地模型，可通过 OpenAI 兼容 API 与 MCP 端点被 Cline、Cursor 等外部客户端调用。Meetings、Personas、Waves 为实验性功能；不暴露 Ollama 兼容服务端点。
+FLUJO 是一个开源自托管的本地优先 AI 工作区：一次性保存模型与应用连接，以纯语言步骤或可视化流程图构建可复用 Agent，支持分支、循环、子流程与多 Agent 交接。提供 Talk 对话与可视化调试器（断点、单步执行、状态检查）、基于调度/Webhook/文件/工具/网页变化的自动化触发、MCP 协议的应用连接与工具检查器，并可通过 OpenAI 兼容 API 或 MCP transport 供外部客户端调用。工作区数据存储在本地。
 
 ## 筛选速览
 
@@ -16,21 +16,21 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Easy/Expert 双模式构建 agent，支持分支、循环、子流与多专家交接
-- 通过 MCP 连接文件、浏览器、API 等外部工具，含工具检查器与本地 MCP 代理
-- 可视化调试器（断点、单步、状态检查）与工具调用审批
-- 自动化触发：定时/Webhook/文件变化/工具轮询/网页变化/流程完成
-- 提供 OpenAI 兼容 API（/v1）与 MCP 端点供外部客户端复用 agent
+- 可视化 Agent 构建：Easy 纯语言步骤与 Expert 图形节点两种视图
+- MCP 原生连接：支持 MCP Registry、GitHub 仓库、远程 URL、本地命令接入与工具检查器
+- 自动化触发器：定时、Webhook、文件变更、工具轮询、网页变化、流程事件
+- 对外暴露 OpenAI 兼容 API 与 MCP 传输端点供其他客户端复用
 
 ## 适用场景
 
-- 不用写代码，把模型和工具连起来搭一个可复用的私有 agent
-- 让 agent 按日程或 Webhook 自动跑报告、监控网页变化
-- 在 Cline/Cursor 等工具里复用我在 FLUJO 里搭好的 agent
+- 把多个模型和 MCP 工具编排成带分支与循环的多步骤 Agent
+- 给定时任务或文件夹监听配置自动化工作流
+- 通过可视化调试器排查 Agent 的工具调用与执行路径
+- 把已有流程通过 API 或 MCP 暴露给 Cursor/Cline 等客户端调用
 
 ## 场景标签
 
@@ -39,21 +39,21 @@
 ## 证据(README 行号)
 
 > L14: FLUJO is an open-source, local-first AI workspace. Save your model and app connections once, build reusable agents 
-> L97: - **Expert visual mode:** connect Start, AI, connected-app, Static, Subflow and Finish nodes in a graph.
-> L212: FLUJO connects **to Ollama** as a model provider. It does not expose an Ollama-compatible server endpoint.
+> L58: - **Choose your provider:** OpenAI, Azure OpenAI, Anthropic, Google Gemini, X.ai, OpenRouter, supported subscriptio
+> L70: Give agents access to files, browsers, APIs and other services through the **Model Context Protocol**.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mario-andreschak/FLUJO 星数(近 11 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 662 --> 677
-    line [663, 665, 668, 669, 670, 665, 673, 675, 676, 675, 674]
+    x-axis ["2026-10-22", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 664 --> 677
+    line [665, 668, 669, 670, 665, 673, 675, 676, 675, 674, 674]
 ```
 
-2026-10-21 663 → 2026-11-23 674（+11）
+2026-10-22 665 → 2026-11-24 674（+9）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8095b55e9161` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `837363495b4c` · [字段定义](../../DATASET.md)*

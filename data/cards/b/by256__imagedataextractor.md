@@ -45,12 +45,12 @@ Python 库 imagedataextractor，面向电子显微镜纳米颗粒图像的量化
 ```mermaid
 xychart-beta
     title "by256/imagedataextractor 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-21 23 → 2026-11-23 23（+0）
+2026-10-22 23 → 2026-11-24 23（+0）
 
 
 ---

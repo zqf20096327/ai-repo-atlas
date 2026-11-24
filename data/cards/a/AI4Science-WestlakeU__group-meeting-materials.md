@@ -41,13 +41,13 @@ TalentLab（Tailin Wu 实验室，西湖大学）组会资料合集仓库，收�
 
 ```mermaid
 xychart-beta
-    title "AI4Science-WestlakeU/group-meeting-materials 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-11-19", "2026-11-20", "2026-11-23"]
+    title "AI4Science-WestlakeU/group-meeting-materials 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-24"]
     y-axis "stars" 17 --> 23
-    line [18, 19, 20, 22]
+    line [18, 19, 20, 22, 22]
 ```
 
-2026-10-21 18 → 2026-11-23 22（+4）
+2026-10-22 18 → 2026-11-24 22（+4）
 
 
 ---

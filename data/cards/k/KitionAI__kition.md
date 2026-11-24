@@ -2,9 +2,9 @@
 
 ⭐ 686 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/KitionAI/kition) · [官网](https://kition.ai) · 组织维护 · 中文 README
 
-**本地优先桌面工作区：文档/表格/白板/AI Agent/自动化**
+**AI agent 可共同编辑文件的桌面创作办公套件**
 
-基于 Tauri 2 (Rust) + React 的开源桌面应用（Apache 2.0，beta 阶段），把 Markdown 文档、结构化表格文件、无限画布白板、可用工具的 AI Agent、联网研究与可视化工作流整合在一个本地工作区。Agent 可读写活动文档与表格记录，其编辑以 diff 形式呈现供逐条接受/拒绝；表格提供 AI 字段（文本/结构化值/媒体生成、票据 OCR 提取）。支持触发-动作工作流、邮件连接与 MCP/代理等设置。GitHub Releases 提供 macOS/Windows 安装包与 Linux AppImage；Kition 运行时源码不包含在本仓库。
+Kition 是一个桌面工作区，每个文件由对应的 kit 编辑器打开：覆盖视频、动效、分层图像、幻灯片、表格、Word/PDF 文档、笔记、白板、CAD、3D 场景等 16 种文件类型，kit 引擎以 Rust 编译为 WebAssembly 在 Web Worker 中运行。AI agent 通过 Kit Harness Protocol 驱动同一引擎，用与用户相同的命令读写文件、预览结果并在草稿中工作，可被人工审核后才落盘。可通过 npm 安装的 CLI 将 kits 以 MCP 服务器形式接入 agent 客户端。当前版本 0.1.1 处于 beta，桌面安装包尚未发布，需从源码运行。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- AI Agent 可编辑文档与表格，改动以 diff 呈现供逐条接受/拒绝
-- AI 表格字段：文本/结构化值/媒体生成，票据图片 OCR 提取为记录
-- 可视化触发-动作工作流（模板、单步测试、运行历史）
-- Markdown 文档、结构化表格与无限白板同处一个工作区
+- 16 种文件类型各配一个开源 kit 编辑器（Rust→WebAssembly）
+- agent 经 kit 对象模型编辑文件、预览与运行检查，草稿冲突写入会被拒绝
+- kition CLI 以 MCP 服务器形式供 Claude Code/Codex/Cursor 等客户端使用
+- 本地运行时仅监听 loopback HTTP API
 
 ## 适用场景
 
-- 在一个本地应用里写文档、管数据、画流程图并让 AI 协助
-- 批量生成营销素材并把 AI 产出作为可审查的记录管理
-- 把重复工作编排为可测试的自动化工作流
+- 在桌面端一站式编辑视频、表格、文档、设计稿等多类文件
+- 让 agent 直接修改工作区里的文件并人工审核草稿
+- 通过表格的 AI 字段对每行批量提取、生成和摘要
 
 ## 场景标签
 
-`知识库管理` `工作流自动化` `AI 助手` · 领域:效率与自动化
+`知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L35: Kition brings Markdown documents, structured table files, an infinite
-> L36: Whiteboard, a tool-using AI agent, web research, and visual workflows into
-> L55: - **An Agent that can act.** Search the web, inspect documents and
-> L64: Instead of returning another suggestion to copy and paste, the Kition Agent can
+> L35: Kition is a desktop workspace where every file opens in a real editor, and an AI agent works on
+> L62: A kit is the editor for one kind of file. Its engine is written in Rust, compiled to WebAssembly
+> L111: Desktop builds of Kition 0.1.1 for macOS, Windows and Linux will be published on
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "KitionAI/kition 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 484 --> 704
-    line [518, 529, 502, 509, 518, 524, 533, 536, 541, 547, 551, 560, 568, 518, 612, 628, 631, 636, 645, 647, 651, 657, 666, 674, 675, 677, 681, 686]
+    line [529, 502, 509, 518, 524, 533, 536, 541, 547, 551, 560, 568, 518, 612, 628, 631, 636, 645, 647, 651, 657, 666, 674, 675, 677, 681, 686, 686]
 ```
 
-2026-10-21 518 → 2026-11-23 686（+168）
+2026-10-22 529 → 2026-11-24 686（+157）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `8d130675edfb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `cb78222d032d` · [字段定义](../../DATASET.md)*

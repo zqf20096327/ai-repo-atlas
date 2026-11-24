@@ -42,12 +42,12 @@ O'Reilly 图书 Natural Language Processing with Transformers 的配套网站仓
 ```mermaid
 xychart-beta
     title "nlp-with-transformers/website 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-21 29 → 2026-11-23 29（+0）
+2026-10-22 29 → 2026-11-24 29（+0）
 
 
 ---

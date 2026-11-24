@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gogoymh/git-ontology-agent 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "gogoymh/git-ontology-agent 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1 --> 25
-    line [3, 23]
+    line [3, 23, 23]
 ```
 
-2026-11-22 3 → 2026-11-23 23（+20）
+2026-11-22 3 → 2026-11-24 23（+20）
 
 
 ---

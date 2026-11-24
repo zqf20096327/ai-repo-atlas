@@ -45,12 +45,12 @@ Leabra（Local, Error-driven and Associative, Biologically Realistic Algorithm�
 ```mermaid
 xychart-beta
     title "emer/leabra 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 99 --> 103
     line [100, 102, 102]
 ```
 
-2026-10-21 100 → 2026-11-23 102（+2）
+2026-10-22 100 → 2026-11-24 102（+2）
 
 
 ---

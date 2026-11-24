@@ -44,13 +44,13 @@ Plexiglass 是一个用于检测和保护大语言模型（LLM）免受漏洞影
 
 ```mermaid
 xychart-beta
-    title "w4-advisory/plexiglass 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 155 --> 158
-    line [157, 156, 156]
+    title "w4-advisory/plexiglass 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 155 --> 157
+    line [156, 156]
 ```
 
-2026-10-21 157 → 2026-11-23 156（-1）
+2026-10-22 156 → 2026-11-24 156（+0）
 
 
 ---

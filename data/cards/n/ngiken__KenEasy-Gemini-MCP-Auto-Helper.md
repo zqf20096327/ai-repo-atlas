@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ngiken/KenEasy-Gemini-MCP-Auto-Helper 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "ngiken/KenEasy-Gemini-MCP-Auto-Helper 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-11-22 15 → 2026-11-23 16（+1）
+2026-11-22 15 → 2026-11-24 16（+1）
 
 
 ---

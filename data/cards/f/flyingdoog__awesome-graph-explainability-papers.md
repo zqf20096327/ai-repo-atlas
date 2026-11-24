@@ -2,9 +2,9 @@
 
 ⭐ 821 · 推送 2026-11-12 · [GitHub](https://github.com/flyingdoog/awesome-graph-explainability-papers) · 个人维护
 
-**GNN 可解释性论文清单：收录综述、平台与近年会议/期刊论文**
+**GNN 可解释性研究论文策展清单（987 篇）**
 
-论文策展清单：按综述、平台、发表年份三个板块收录图神经网络（GNN）可解释性研究论文，条目标注发表venue（TPAMI、ICLR、WWW、AAAI、KDD 等）并附论文链接；平台板块列出 PyTorch Geometric、DIG、GraphXAI 等相关库与基准及其文档和代码入口。条目更新至 2026 年，覆盖反事实解释、因果解释、图异常检测可解释性、水印与安全等方向。仅提供链接列表，不含代码或安装方式。
+收录图神经网络可解释性与可解释性相关论文的 Awesome 清单，共 987 篇，按综述、平台、年份等目录组织，条目标注发表venue并提供论文链接，部分条目附代码与文档链接。内容覆盖 GNN 解释方法、反事实解释、可信图学习、评测基准等方向。面向从事图机器学习与可解释 AI 研究的人员，欢迎社区提交 PR 补充条目。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@
 
 ## 能力要点
 
-- 按 Surveys / Platforms / 年份三板块组织论文条目
-- 平台板块附相关库与基准的文档及代码入口
-- 收录 2026 年 TPAMI/ICLR/WWW/AAAI 等 venue 论文并附链接
+- 收录 987 篇 GNN 可解释性相关论文
+- 按综述/平台/年份分类组织条目
+- 部分条目附代码仓库与文档链接
+- 接受社区 PR 更新
 
 ## 适用场景
 
-- 查找 GNN 可解释性方向的综述与最新论文
-- 寻找可解释性评测平台与基准（如 GraphXAI、BAGEL）
-- 按年份和发表 venue 跟踪该领域研究进展
+- 查找图神经网络可解释性方向的入门与综述文献
+- 调研某一年度 GNN 解释方法的会议论文
+- 寻找可解释性评测平台与基准代码
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L1: # awesome-graph-explainability-papers
-> L2: Papers about the explainability of GNNs
-> L4: ### Surveys
+> L3:  A curated list of papers on the explainability and interpretability of Graph Neural Networks (GNNs) .
+> L6:  987 papers
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "flyingdoog/awesome-graph-explainability-papers 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-15", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-26", "2026-11-06", "2026-11-15", "2026-11-20", "2026-11-24"]
     y-axis "stars" 817 --> 822
     line [819, 818, 819, 820, 821, 821]
 ```
 
-2026-10-21 819 → 2026-11-23 821（+2）
+2026-10-22 819 → 2026-11-24 821（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0e9da703eb2b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `dc103881e7fd` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ivanfioravanti/wine_variety_classification 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-21 129 → 2026-11-23 129（+0）
+2026-10-22 129 → 2026-11-24 129（+0）
 
 
 ---

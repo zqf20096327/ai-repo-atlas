@@ -47,12 +47,12 @@ ProtoMap 由 HoundDog.ai 开发，扫描仓库中的 .proto 文件与 Go/C#/Java
 ```mermaid
 xychart-beta
     title "hounddogai/protomap 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-23"]
+    x-axis ["2026-11-21", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-21 10 → 2026-11-23 10（+0）
+2026-11-21 10 → 2026-11-24 10（+0）
 
 
 ---

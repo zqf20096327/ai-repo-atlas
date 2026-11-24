@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kingjulio8238/humanoid-atlas 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "kingjulio8238/humanoid-atlas 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 90 --> 93
-    line [91, 92]
+    line [91, 92, 92]
 ```
 
-2026-10-21 91 → 2026-11-23 92（+1）
+2026-10-22 91 → 2026-11-24 92（+1）
 
 
 ---

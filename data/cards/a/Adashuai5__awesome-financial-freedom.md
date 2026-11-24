@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Adashuai5/awesome-financial-freedom 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-11-23"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    title "Adashuai5/awesome-financial-freedom 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-24"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 19]
 ```
 
-2026-10-21 17 → 2026-11-23 19（+2）
+2026-10-22 18 → 2026-11-24 19（+1）
 
 
 ---

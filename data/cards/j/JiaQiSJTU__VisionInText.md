@@ -45,12 +45,12 @@ ICLR2026 论文 ASCIIEval 的配套代码与数据仓库：以 ASCII 艺术为�
 ```mermaid
 xychart-beta
     title "JiaQiSJTU/VisionInText 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-20 16 → 2026-11-23 16（+0）
+2026-10-21 16 → 2026-11-24 16（+0）
 
 
 ---

@@ -45,13 +45,13 @@ IRONLOOP 是一套面向 AI 辅助开发的验证优先软件工程系统，以 
 
 ```mermaid
 xychart-beta
-    title "edouard-claude/ironloop 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 9 --> 12
-    line [11, 10, 10]
+    title "edouard-claude/ironloop 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
 ```
 
-2026-10-21 11 → 2026-11-23 10（-1）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

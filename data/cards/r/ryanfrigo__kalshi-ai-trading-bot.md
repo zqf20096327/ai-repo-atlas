@@ -2,34 +2,34 @@
 
 ⭐ 662 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/ryanfrigo/kalshi-ai-trading-bot) · [官网](https://kalshi-community.vercel.app) · 个人维护
 
-**面向 Kalshi 预测市场的 AI 交易策略工具包与胜率度量框架**
+**Kalshi 预测市场的 edge 测量工具包：验证是否真的跑赢盘口**
 
-Python 工具包，供开发者构建并运行 Kalshi 预测市场交易策略。核心组件包括：签名 Kalshi API 客户端、行情数据摄取、持仓跟踪、SQLite 遥测、Streamlit 仪表盘、可插拔 LLM 客户端（经 OpenRouter 接任意模型）、原子化 agent CLI（下单/平仓/结算/校准）、Claude 技能与 MCP 服务器。关键机制：cli edge 用 Kalshi 官方结算数据计算 Brier 分数、log-loss 与相对盘口的边际，仅统计前向结算交易且少于 10 笔时拒绝判定；Edge Policy 从已结算记录自动派生交易门控。限制：无回测语料库（cli backtest 说明原因），示例策略在某些市场亏损，需自备 API key，非开箱即用。
+面向 Kalshi 预测市场的 agent 原生工具包，核心不是让 LLM 选交易，而是基于结算数据测量交易者是否真正战胜市场盘口。提供签名的 Kalshi API 客户端、持仓跟踪、SQLite 遥测、Streamlit 仪表盘、可插拔 LLM 客户端（OpenRouter 上任意模型）、原子化 CLI 工具、Claude skill 和 MCP server。计算 Brier 分数、log-loss、edge-vs-book 等指标，采用 forward-only 防泄漏机制，样本不足时拒绝给出 edge 结论。从结算记录自动推导 Edge Policy 门控后续交易。MIT 许可，需 Python 3.12+，通过 git clone 安装。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Brier/log-loss/edge-vs-book 前向结算评分，样本不足时拒绝判定边际
-- Edge Policy 自已结算记录派生交易门控（封锁亏损类别、削减过高置信估计）
-- 原子化 CLI 工具集（trade/close/settle/edge/policy/improve），交易默认 dry-run 并经风险治理器
-- MCP 服务器暴露治理器门控工具，可从 Claude Desktop/Claude Code 驱动，key 不离开本机
+- Brier/log-loss/edge-vs-book 测量与 gated forward-only 结论判定
+- 结算→测量→重推导 Edge Policy 的自改进闭环
+- 原子 CLI 工具 + MCP server + Claude skill 的 agent 驱动接口
+- MCP server 默认只读，变更工具需显式 confirm
 
 ## 适用场景
 
-- 度量自己的 Kalshi 交易记录是否真有胜率边际
-- 构建带风险治理与结算校准的 agent 交易策略
-- 通过 MCP 客户端驱动交易工具链并留存决策日志
+- 测量自己在 Kalshi 上的真实胜率是否超过盘口隐含概率
+- 让 AI agent 通过 MCP 或 CLI 工具驱动交易流程
+- 从历史结算记录自动生成交易门控策略
 
 ## 场景标签
 
@@ -37,22 +37,21 @@ Python 工具包，供开发者构建并运行 Kalshi 预测市场交易策略�
 
 ## 证据(README 行号)
 
+> L12: An agent-native toolkit for Kalshi whose flagship isn't "an LLM that picks trades" — it's a rigorous, settlement-gr
 > L14: Under the hood: a signed Kalshi API client, market-data ingestion, position tracking, SQLite telemetry, a Streamlit
-> L120: The toolkit is built to be driven by an agent (Claude, or anything else) through small, composable tools — each do
-> L143: **MCP server** (`src/mcp_server.py`) — a first-mover Model Context Protocol server. No official Kalshi MCP exists;
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ryanfrigo/kalshi-ai-trading-bot 星数(近 19 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-23"]
-    y-axis "stars" 617 --> 666
-    line [621, 624, 626, 630, 632, 634, 636, 637, 639, 640, 641, 632, 650, 654, 656, 658, 659, 660, 662]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 621 --> 665
+    line [624, 626, 630, 632, 634, 636, 637, 639, 640, 641, 632, 650, 654, 656, 658, 659, 660, 662, 662]
 ```
 
-2026-10-21 621 → 2026-11-23 662（+41）
+2026-10-22 624 → 2026-11-24 662（+38）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ed3be0d89d63` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `3d12bb864a70` · [字段定义](../../DATASET.md)*

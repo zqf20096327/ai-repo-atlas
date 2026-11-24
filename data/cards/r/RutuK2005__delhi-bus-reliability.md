@@ -40,6 +40,18 @@
 > L14: flags bunching and long gaps, and trains a model to predict arrival times. There's also a
 > L54: The ETA model is a scikit-learn `HistGradientBoostingRegressor` that predicts the time from
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "RutuK2005/delhi-bus-reliability 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-23 6 → 2026-11-24 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `e43958dd134b` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ Devinterview.io 维护的概率面试问答集合，收录 45 道概率常见面
 ```mermaid
 xychart-beta
     title "Devinterview-io/probability-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-10", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-10", "2026-11-24"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-21 32 → 2026-11-23 33（+1）
+2026-10-22 32 → 2026-11-24 33（+1）
 
 
 ---

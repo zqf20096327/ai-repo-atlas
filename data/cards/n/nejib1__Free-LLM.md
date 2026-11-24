@@ -1,10 +1,10 @@
 # nejib1/Free-LLM
 
-⭐ 1,087 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nejib1/Free-LLM) · [官网](https://free-llm.com) · 个人维护
+⭐ 1,087 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/nejib1/Free-LLM) · [官网](https://free-llm.com) · 个人维护 · 中文 README
 
-**免费 LLM API 目录+路由器：把各家免费额度聚合到一个端点**
+**免费 LLM API 目录 + 聚合多免费源的路由器**
 
-由两部分组成：一是社区维护的免费 LLM API 目录（86 家 provider、450+ 免费模型），标注各家限额、是否需要信用卡/手机验证，提供 Python/JS/curl 示例与编码工具配置；二是 Free-LLM Router，本地运行的网关，把多个 provider 的免费计划聚合到一个 OpenAI/Anthropic 兼容地址，配额用尽或不可用时自动切换，密钥本机加密存储、无遥测。通过 npm 全局安装，提供 guest 模式与一条命令接入编码 agent。目录数据每日从 free-llm.com 同步。
+由社区维护的免费 LLM API 目录（free-llm.com 同步，每日更新），按永久免费额度与可续积分两类列出各厂商的限额、是否需信用卡及代表模型，并附各工具配置示例。另提供 Free-LLM Router：npm 安装后在本地运行，把多个免费 API 聚合到一个 OpenAI/Anthropic 兼容端点，某个源配额用尽时即时切换，密钥本地加密存储，支持 guest 模式与零依赖。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 聚合多家免费 API 为单一 OpenAI/Anthropic 兼容端点，故障时即时切换
-- 目录标注每家 provider 的限额、卡片/手机验证要求
-- 路由器 100% 本地运行，密钥加密存储、零依赖、无遥测
-- 一条命令为 Claude Code/Codex/Aider 等编码工具配置免费后端
+- 目录按限额、是否需卡/手机验证标注 94 个提供商
+- Router 将多个免费 API 聚合为一个 OpenAI/Anthropic 兼容端点
+- 配额用尽或源不可用时即时切换（failover）
+- 本地运行、密钥加密存储、无遥测
 
 ## 适用场景
 
-- 零成本跑 Claude Code、Cursor 等编码 agent
-- 把多个平台的小额免费额度当一个大额度用
-- 对比各 provider 的免费限额后选型接入
+- 为编码助手（Claude Code、Cursor 等）配置免费模型后端
+- 比较各免费 API 的限额与注册要求
+- 用路由器把多个小额免费额度叠加使用
 
 ## 场景标签
 
@@ -45,14 +45,14 @@
 
 ```mermaid
 xychart-beta
-    title "nejib1/Free-LLM 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "nejib1/Free-LLM 星数(近 6 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1056 --> 1089
-    line [1058, 1068, 1073, 1081, 1087]
+    line [1058, 1068, 1073, 1081, 1087, 1087]
 ```
 
-2026-11-19 1,058 → 2026-11-23 1,087（+29）
+2026-11-19 1,058 → 2026-11-24 1,087（+29）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `091a9ec11929` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b27bccb65278` · [字段定义](../../DATASET.md)*

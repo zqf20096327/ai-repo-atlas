@@ -2,9 +2,9 @@
 
 ⭐ 1,072 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/splx-ai/agentic-radar) · [官网](https://splx.ai) · 组织维护
 
-**LLM Agent 工作流安全扫描器：扫描代码生成安全报告**
+**面向开发者的 LLM agent 工作流安全扫描 CLI**
 
-面向开发者、研究者与安全从业者的 CLI 工具：扫描 agentic 系统代码，生成 HTML 安全报告，内容含工作流可视化图、工具清单、MCP 服务器检测与漏洞映射，并映射到 OWASP Top 10 LLM 与 OWASP Agentic AI 框架。支持 LangGraph、CrewAI、n8n、OpenAI Agents、Autogen 五种框架的静态扫描；高级功能需 OPENAI_API_KEY：提示词加固（重写系统提示词）、运行时对抗测试（提示注入、PII 泄露、有害/假新闻内容等）。静态分析部分本地运行，不上传代码。
+静态分析 agentic 系统源码，生成包含工作流可视化图、工具清单、MCP server 检测及工具与已知漏洞映射的 HTML 安全报告，并映射到 OWASP LLM Top 10 与 OWASP Agentic AI 威胁框架。扫描在本地运行，代码不上传；可选高级功能（提示词加固、运行时漏洞测试）需设置 OPENAI_API_KEY 或 AZURE_OPENAI_API_KEY。运行时测试注入工作流，用模拟对抗输入检测提示注入、PII 泄露等漏洞，支持 YAML 自定义测试，提供 GitHub Actions CI/CD 集成示例。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@
 
 ## 能力要点
 
-- 扫描代码生成 HTML 报告：工作流图、工具清单、MCP 服务器检测、漏洞映射
-- 漏洞映射到 OWASP Top 10 LLM 与 OWASP Agentic AI 框架
-- 运行时对抗测试：提示注入、PII 泄露、有害内容、假新闻生成（支持 YAML 自定义测试）
-- 提示词加固（--harden-prompts）自动改写系统提示词
+- 静态扫描生成含工作流图、工具识别、MCP 检测、漏洞映射的 HTML 报告
+- 支持 LangGraph/CrewAI/n8n/OpenAI Agents/Autogen 五种框架
+- 运行时注入对抗输入测试提示注入、PII 泄露、有害内容生成等漏洞，支持 YAML 自定义测试
+- 提示词自动加固与 OWASP 框架漏洞映射
 
 ## 适用场景
 
-- 为 CrewAI/LangGraph/OpenAI Agents 等 agent 项目做安全审计
-- 在 CI/CD 中自动扫描代码库并产出安全报告
-- 对 agent 工作流跑提示注入等对抗测试
+- 扫描 agent 项目源码生成安全评估报告
+- 在 CI/CD 流水线中每次推送自动运行安全扫描
+- 对 agent 工作流做提示注入与 PII 泄露的运行时测试
 
 ## 场景标签
 
-`网络安全` `代码审查` · 领域:编码与开发
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L81: The **Agentic Radar** is designed to analyze and assess agentic systems for security and operational insights. It h
-> L84: 1. **Workflow Visualization** - a graph of the agentic system's workflow✅
+> L156: agentic-radar scan [OPTIONS] FRAMEWORK:{langgraph|crewai|n8n|openai-agents|autogen}
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "splx-ai/agentic-radar 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "splx-ai/agentic-radar 星数(近 13 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
     y-axis "stars" 1057 --> 1074
-    line [1059, 1058, 1059, 1060, 1062, 1063, 1058, 1067, 1069, 1070, 1072, 1073, 1072, 1072]
+    line [1058, 1059, 1060, 1062, 1063, 1058, 1067, 1069, 1070, 1072, 1073, 1072, 1072]
 ```
 
-2026-10-21 1,059 → 2026-11-23 1,072（+13）
+2026-10-22 1,058 → 2026-11-24 1,072（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2d577b683543` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d0e1d3f95f72` · [字段定义](../../DATASET.md)*

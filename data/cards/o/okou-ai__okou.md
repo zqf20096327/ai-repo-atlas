@@ -2,15 +2,15 @@
 
 ⭐ 1,160 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/okou-ai/okou) · [官网](https://www.okou.ai) · 组织维护
 
-**团队工作流 AI agent 平台：接入现有工具代为完成工作**
+**团队 AI 工作者：接入现有工具并代为执行跨部门任务**
 
-开源的 agentic 工作流运行时：以聊天方式 @ 提及 Okou 分派任务，agent 自行规划步骤、选择工具执行，覆盖营销、销售、工程、运营场景。工作流可保存为团队资产并按权限复用、定时或触发执行。安全机制包括草稿不代发、按工具按 agent 的细粒度读写权限、每任务在独立 Firecracker microVM 中隔离执行、全程日志可审计。支持 Slack、GitHub、Gmail、Notion 等 3,000+ 连接器；模型提供商可选 Anthropic、OpenAI、DeepSeek、Google 等。README 提供自托管与贡献指引链接，未给出具体安装命令。
+Okou 是一个开源的团队 AI 代理产品：用户以 @mention 方式布置角色化任务，代理自行规划步骤并调用所需工具完成工作。关键机制包括：可复用工作流的运行-保存-交接-自动化四步沉淀、多任务并行聊天、每任务独立 Firecracker microVM 沙箱隔离、按工具/代理的细粒度权限，以及外发邮件和资金操作强制人工确认。支持 Slack 集成与自托管，模型提供方可按运行或按代理选择。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 以对话分派任务，agent 自行规划步骤并选择工具执行
-- 工作流保存为团队资产，支持按权限复用与定时/触发自动化
-- 每任务在 Firecracker microVM 中隔离执行，凭据不出沙箱
-- 3,000+ 工具连接器，模型提供商可按运行或按 agent 选择
+- 任务级沙箱隔离：每个任务在独立 Firecracker microVM 中运行，凭证不出沙箱
+- 外发动作人工把关：邮件草稿不自动发送，预算变动需审批
+- 工作流资产化：重复任务可保存为团队共享工作流并定时/触发运行
+- 30+ 预置任务配方，宣称 3,000+ 工具连接器
 
 ## 适用场景
 
-- 让团队用自然语言在 Slack/聊天中委派营销、销售、工程与运营任务
-- 将重复工作固化为可复用、可定时运行的团队工作流
-- 在草稿待审、权限隔离与可审计的约束下让 agent 操作企业工具
+- 让代理根据 CRM 数据起草投资人更新和营销外联内容
+- 把 Sentry 噪音归类并转为工程工单
+- 销售线索打分并起草跟进邮件
+- 为新人生成入职清单和会议纪要
 
 ## 场景标签
 
@@ -37,7 +38,7 @@
 
 ## 证据(README 行号)
 
-> L15:  Okou connects to the tools your team already uses and does the work — across marketing, sales, engineering, and op
+> L14:  Give it a job, not a prompt.
 > L70: - **Isolated execution** — every task runs in its own Firecracker microVM. Credentials never leave the sandbox.
 > L91: Model providers are yours to pick — Anthropic, OpenAI, DeepSeek, Google and others, selected per run or per agent.
 
@@ -46,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "okou-ai/okou 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1159 --> 1164
-    line [1160, 1161, 1162, 1161, 1162, 1163, 1161, 1162, 1161, 1160]
+    line [1161, 1162, 1161, 1162, 1163, 1161, 1162, 1161, 1160, 1160]
 ```
 
-2026-10-21 1,160 → 2026-11-23 1,160（+0）
+2026-10-22 1,161 → 2026-11-24 1,160（-1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b72084c26f64` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `5ea6a45b6449` · [字段定义](../../DATASET.md)*

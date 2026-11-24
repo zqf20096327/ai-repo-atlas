@@ -2,9 +2,9 @@
 
 ⭐ 643 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/QJHWC/PaperForge) · 个人维护 · 中文 README
 
-**以证据为中心的端到端 AI 论文写作与实验系统**
+**面向科研人员的 AI 端到端论文写作与实验工作流系统**
 
-面向科研人员的 Research OS：覆盖研究规划、文献研究、受控实验（Proposal→静态检查→小实验→正式实验，需审批）、论文写作与 LaTeX 发布。论文断言须通过 claim_id 关联证据，发布前有 Claim Gate 与多级门禁。计算后端支持 Local、Docker、SSH、Slurm、Kubernetes、Cloud SSH。当前正式写作路径固定使用 bailu Provider 与 bailu-turing 模型，配置中的 provider/model 不会注入写作 Agent；声明仅供学习研究、禁止商用。
+PaperForge v3 以证据为中心组织科研工作：研究规划、实验提案与审批、论文写作、LaTeX 编译、Claim Gate 发布门禁均在统一 CLI/浏览器前端工作流中完成。断言必须通过 claim_id 关联源码、文献与运行结果等证据，SQLite Scientific Memory 保存工作流与产物哈希。支持 writing-only、research、full 三种执行策略，Local/Docker/SSH/Slurm/Kubernetes 等计算后端。正式写作路径固定使用 bailu-turing 模型；LaTeX 与 Poppler 缺失时无法完成正式 PDF 发布。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- SQLite Scientific Memory 统一保存 Claim、Evidence、Run 与 Artifact
+- 论文公开断言须通过 Claim Gate 关联可验证证据
 - 六种计算后端（Local/Docker/SSH/Slurm/Kubernetes/Cloud SSH）统一接口
-- writing-only/research/full 三种强制执行策略与实验审批流程
-- Claim Gate + 最多三轮 LaTeX 编译渲染的发布流水线，支持 Generic/CVPR/IEEE/Elsevier 模板
+- 支持 Generic/CVPR/IEEE/Elsevier 四种模板及三轮编译渲染闭环
+- writing-only 策略在四层拒绝训练与实验命令
 
 ## 适用场景
 
-- 在已有实验结果基础上完成带证据溯源的论文写作与 LaTeX 发布
-- 通过 SSH/Slurm/Kubernetes 后端远程执行实验并追踪产物
-- 对论文公开断言做 Claim–Evidence 关联与发布门禁检查
+- 已有实验数据，只需完成论文写作与 LaTeX 编译
+- 从研究问题出发规划实验并经审批执行完整科研流程
+- 将实验提交到 Slurm 集群或 SSH 远程主机并同步产物
 
 ## 场景标签
 
@@ -37,21 +37,22 @@
 
 ## 证据(README 行号)
 
-> L12: PaperForge v3 是一个以证据为中心的科研工作系统，用于研究规划、受控实验、
-> L148: 当前 v3 正式写作路径固定使用 `bailu` Provider 和 `bailu-turing` 模型。
+> L8: PaperForge v3 是一个以证据为中心的科研工作系统，用于研究规划、受控实验、
+> L164: 当前 v3 正式写作路径固定使用 `bailu` Provider 和 `bailu-turing` 模型。
+> L298: |`writing-only`|证据阅读、引用、写作、LaTeX 编译、页面检查|已有实验结果，只完成论文|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "QJHWC/PaperForge 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-23"]
+    title "QJHWC/PaperForge 星数(近 14 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-24"]
     y-axis "stars" 636 --> 644
-    line [637, 638, 639, 638, 639, 638, 637, 638, 639, 641, 640, 641, 642, 643, 643]
+    line [638, 639, 638, 639, 638, 637, 638, 639, 641, 640, 641, 642, 643, 643]
 ```
 
-2026-10-21 637 → 2026-11-23 643（+6）
+2026-10-22 638 → 2026-11-24 643（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `870fc9ce0b20` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b64efd62396c` · [字段定义](../../DATASET.md)*

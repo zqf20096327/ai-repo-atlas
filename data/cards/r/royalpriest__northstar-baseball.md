@@ -41,6 +41,18 @@
 > L4: context-aware hitter diagnostics (Selection, Contact and Damage) and serves them through a FastAPI service
 > L17: - Scoring-probability models were trained only on information available before each plate appearance, on a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "royalpriest/northstar-baseball 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
+```
+
+2026-11-23 23 → 2026-11-24 23（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ce8d53cab767` · [字段定义](../../DATASET.md)*

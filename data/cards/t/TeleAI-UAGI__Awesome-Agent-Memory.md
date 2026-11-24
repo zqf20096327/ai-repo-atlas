@@ -2,9 +2,9 @@
 
 ⭐ 715 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/TeleAI-UAGI/Awesome-Agent-Memory) · 组织维护 · 中文 README
 
-**AI agent 记忆系统、基准与论文的策展清单**
+**LLM/多模态智能体记忆领域的系统、基准与论文策展清单**
 
-由 TeleAI Ubiquitous AGI 团队与 Bloo-Mind AI 维护的 agent 记忆领域 awesome 清单：收录开源产品、教程、综述、基准（纯文本/多模态/动态模拟）、按非参数与参数记忆分类的论文、记忆安全、认知神经科学论文及新闻与工作坊。开源条目以 GitHub star 数排序，少于 100 star 的项目归入折叠的 Emerging 区；带可复现代码的资源加粗；维护方关联条目以 † 标注，drop-in 替代品嵌套于原产品之下。
+由 Bloo-Mind AI 与 TeleAI 的 Ubiquitous AGI 团队维护的 awesome 类策展清单，收录面向 LLM 与多模态智能体的记忆系统、基准测试与研究论文，覆盖长期上下文、检索与推理。条目按类别组织为产品、教程、综述、基准（文本/多模态/动态模拟）、非参数与参数记忆论文、智能体演化、记忆安全等；开源资源加粗并按 GitHub star 数排序，低于 100 star 的项目归入折叠的 Emerging projects 区，失效或存争议项目移入 Archival 子区并附状态标签。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 按产品/基准/论文（非参数与参数记忆）/安全等类别组织条目
-- 开源条目按 GitHub star 排序，star<100 归入 Emerging 折叠区
-- 维护方关联条目以 † 标注并遵循同一排序与格式规则
-- 归档/有争议项目移入 Archival 区并附证据链接
+- 收录记忆系统、基准、论文并按 star 数排序，标注开源可复现资源
+- 基准部分区分文本、多模态与动态模拟环境三类
+- 含记忆安全与防御、持续学习、上下文工程等专题分类
+- 提供 API 兼容替代品的嵌套收录约定
 
 ## 适用场景
 
-- 为自建 agent 挑选合适的记忆层产品
-- 选择基准评测记忆系统
-- 跟踪 agent 记忆方向的论文与研究进展
+- 为正在构建的智能体挑选记忆层产品
+- 为记忆系统评测挑选合适的基准
+- 了解智能体记忆领域的研究脉络与分类
 
 ## 场景标签
 
-`Agent 记忆` `模型评测` `精选清单` · 领域:Agent 开发
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L1: 🧠 Awesome Agent Memory
 > L3:  A curated map of memory for AI agents — the systems, benchmarks, and research that give LLM and multimodal agents l
-> L28:  - This list is maintained by Bloo-Mind AI and the Ubiquitous AGI team at TeleAI. Entries affiliated with the maint
+> L23:  📋 How this list is curated
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "TeleAI-UAGI/Awesome-Agent-Memory 星数(近 17 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-23"]
-    y-axis "stars" 681 --> 718
-    line [684, 688, 691, 694, 695, 696, 699, 698, 699, 700, 694, 711, 712, 713, 714, 715, 715]
+    title "TeleAI-UAGI/Awesome-Agent-Memory 星数(近 16 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-24"]
+    y-axis "stars" 686 --> 717
+    line [688, 691, 694, 695, 696, 699, 698, 699, 700, 694, 711, 712, 713, 714, 715, 715]
 ```
 
-2026-10-21 684 → 2026-11-23 715（+31）
+2026-10-22 688 → 2026-11-24 715（+27）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5c2514ba2e6e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `25b6987493e4` · [字段定义](../../DATASET.md)*

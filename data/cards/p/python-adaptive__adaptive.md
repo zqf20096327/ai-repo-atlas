@@ -2,9 +2,9 @@
 
 ⭐ 1,232 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/python-adaptive/adaptive) · [官网](http://adaptive.readthedocs.io/) · 组织维护
 
-**数学函数的自适应并行采样/主动学习 Python 库**
+**数学函数的自适应并行采样 Python 库**
 
-用户提供目标函数与参数范围，库在参数空间中选择信息量最大的点进行评估，而非稠密网格全采样。实现 Learner1D/2D/ND、AverageLearner、IntegratorLearner 等学习器，损失函数可替换或自定义；通过 concurrent.futures、mpi4py、loky、ipyparallel、distributed 在多核或多机上并行执行，支持 Jupyter 实时绘图与 DataFrame 导出。适用于单次评估约 ≥50ms、参数维度较低的函数；高维时 LearnerND 效率下降。面向科学与数值计算场景，需 Python 3.11+。
+面向科研与计算场景的开源 Python 库：用户提供函数与参数边界，库按 loss 函数在参数空间选择"最有信息量"的采样点，替代稠密网格全量求值。内置 1D/2D/ND、积分、随机变量平均、随机过程等多种 learner 与元 learner，支持自定义 loss；默认用 loky 在本机多核并行，内置 concurrent.futures、mpi4py、loky、ipyparallel、distributed 执行器，可在集群运行。限制：单次求值约需 ≥50ms 才划算，高维下 LearnerND 变慢。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 7 种学习器与 2 种元学习器，覆盖 1D/2D/ND、随机变量与积分场景
-- 多执行器并行：concurrent.futures/mpi4py/loky/ipyparallel/distributed
-- 可选 Rust 三角剖分后端加速 LearnerND，无需改代码自动启用
-- Jupyter 实时绘图与 to_dataframe() 数据导出
+- 7 种 learner 与 BalancingLearner/DataSaver 元 learner，支持自定义 loss 函数
+- 内置 5 种并行执行器（含 mpi4py、ipyparallel、distributed），可跨机器采样
+- Jupyter 中 Runner 后台运行并实时绘图，数据可导出 pandas DataFrame
+- 可选 adaptive-triangulation 包用 Rust 后端加速 LearnerND 三角剖分
 
 ## 适用场景
 
-- 对计算昂贵的仿真函数做自适应采样，替代均匀网格
-- 在集群上并行评估函数并实时监控采样过程
-- 对 1D 函数做自适应数值积分
+- 对昂贵的数值计算做自适应采样，减少网格求值点数
+- 在计算集群上并行采样函数并实时监控收敛过程
+- 对随机变量或随机过程做自适应平均估计
+- 1D 函数的自适应积分求值
 
 ## 场景标签
 
- · 领域:科学计算/机器学习工具库
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L13: `adaptive` is an open-source Python library for adaptive parallel function evaluation.
-> L14: You supply a function and its bounds, and `adaptive` evaluates it at the "best" points in parameter space, instead 
-> L52: The core concept in `adaptive` is the *learner*.
+> L53: A learner samples a function at the points in its parameter space that tell it the most about the function.
+> L75: In addition to the learners, `adaptive` provides primitives for running the sampling across several cores and even 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "python-adaptive/adaptive 星数(近 9 点)"
-    x-axis ["2026-10-21", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-23"]
+    title "python-adaptive/adaptive 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1228 --> 1234
-    line [1229, 1230, 1231, 1230, 1232, 1233, 1232, 1231, 1232]
+    line [1229, 1230, 1231, 1230, 1232, 1233, 1232, 1231, 1232, 1232]
 ```
 
-2026-10-21 1,229 → 2026-11-23 1,232（+3）
+2026-10-22 1,229 → 2026-11-24 1,232（+3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `31f6fd5c0a93` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e1a63039642f` · [字段定义](../../DATASET.md)*

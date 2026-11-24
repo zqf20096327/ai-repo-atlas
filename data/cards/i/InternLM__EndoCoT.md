@@ -45,13 +45,13 @@ ECCV 2026 论文 EndoCoT 的官方实现：在扩散模型中引入内生的链�
 
 ```mermaid
 xychart-beta
-    title "InternLM/EndoCoT 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    title "InternLM/EndoCoT 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 50 --> 52
+    line [51, 51]
 ```
 
-2026-10-21 50 → 2026-11-23 51（+1）
+2026-10-22 51 → 2026-11-24 51（+0）
 
 
 ---

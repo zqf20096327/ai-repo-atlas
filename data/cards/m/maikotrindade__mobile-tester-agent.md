@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maikotrindade/mobile-tester-agent 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "maikotrindade/mobile-tester-agent 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 99 --> 104
-    line [100, 103]
+    line [100, 103, 103]
 ```
 
-2026-10-21 100 → 2026-11-23 103（+3）
+2026-10-22 100 → 2026-11-24 103（+3）
 
 
 ---

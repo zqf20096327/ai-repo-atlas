@@ -45,12 +45,12 @@ Routstr Improvement Protocols（RIPs）是模块化规范文档集合，定义�
 ```mermaid
 xychart-beta
     title "Routstr/protocol 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-21 42 → 2026-11-23 42（+0）
+2026-10-22 42 → 2026-11-24 42（+0）
 
 
 ---

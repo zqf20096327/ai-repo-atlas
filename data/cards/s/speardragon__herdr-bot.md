@@ -46,13 +46,13 @@ herdr-bot 将 herdr 会话中运行的 agent CLI（Claude Code、Codex、Grok、
 
 ```mermaid
 xychart-beta
-    title "speardragon/herdr-bot 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-12", "2026-11-23"]
+    title "speardragon/herdr-bot 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-24"]
     y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6]
+    line [3, 4, 5, 6, 6]
 ```
 
-2026-10-21 3 → 2026-11-23 6（+3）
+2026-10-22 3 → 2026-11-24 6（+3）
 
 
 ---

@@ -41,6 +41,18 @@ OpenNVR 的模型侧集成层：定义 AI Adapter Contract v1 线协议（六个
 > L22: OpenNVR is the offline-first NVR underneath; this repo is the layer that lets *any* AI model become one of its dete
 > L45: The repo is two things in one. The `opennvr_adapter_sdk/` directory is the small Apache-2.0 SDK published to PyPI —
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "open-nvr/ai-adapter 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `6820af1aed9f` · [字段定义](../../DATASET.md)*

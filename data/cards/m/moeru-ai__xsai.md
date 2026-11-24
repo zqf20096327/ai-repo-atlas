@@ -2,9 +2,9 @@
 
 ⭐ 667 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/moeru-ai/xsai) · [官网](https://xsai.js.org) · 组织维护
 
-**面向 Web 标准的极小型 TypeScript AI SDK**
+**给开发者的超小型 TypeScript AI SDK，按协议适配多家模型服务**
 
-xsAI 是一个按协议适配的 TypeScript AI SDK：不为每个服务商发单独包，而是为 OpenAI Responses、Chat Completions、Anthropic Messages 三种协议各提供一个适配器，工厂函数返回统一的 LanguageModel，generateText/streamText/工具调用对各协议行为一致。全部包为无副作用 ES 模块，基于 fetch/ReadableStream/AbortSignal 等 Web 标准，可在 Node.js、Deno、Bun、Cloudflare Workers 与浏览器运行。提供文本、语音、嵌入、图像生成等分包，可按需安装或整体安装。
+面向 JavaScript/TypeScript 开发者的 AI SDK，以协议而非厂商为单位提供适配器：OpenAI Responses、Chat Completions、Anthropic Messages 三种协议各一个包，同一套 generateText/streamText 与工具调用接口可切换任何讲同协议的服务或网关。各包为无副作用 ES module，可被 tree-shaking；全栈基于 fetch、ReadableStream 等 Web 标准，可在 Node.js、Deno、Bun、Cloudflare Workers 与浏览器运行；类型端到端覆盖，schema 遵循 Standard Schema。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ xsAI 是一个按协议适配的 TypeScript AI SDK：不为每个服务商发单
 
 ## 能力要点
 
-- 按协议而非服务商提供适配器，三种协议返回统一 LanguageModel
-- 全包为无副作用 ES 模块，摇树优化按需保留代码
-- 仅依赖 fetch/ReadableStream 等 Web 标准，多运行时可用
-- 分包覆盖文本、语音生成与转录、嵌入、图像生成、评分决策
+- 每个协议一个适配器，换服务不改代码
+- 仅依赖 fetch/ReadableStream 等 Web 标准，源码不导入 Node.js 模块
+- 子包拆分：文本、语音/转录、嵌入、图像生成、模型列表等按需安装
+- 端到端 TypeScript 类型，schema 兼容 Standard Schema
 
 ## 适用场景
 
-- 在前端或边缘运行时中以统一接口调用不同 LLM 服务
-- 构建需要摇树优化的小体积 AI 应用
-- 更换模型服务时保持业务代码不变
+- 在多个模型服务之间切换而不改调用代码
+- 在 Workers/Deno/Bun 等无 Node 环境运行 LLM 调用
+- 按需引入嵌入、转录或图像生成能力以减小打包体积
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+ · 领域:LLM 基础设施/SDK
 
 ## 证据(README 行号)
 
+> L5: **AI SDK, extra small.**
 > L41: - **A model belongs to a protocol, not to a provider.** One adapter covers every service that speaks the same proto
 > L47: xsAI does not ship a package for each provider. It ships an adapter for each protocol, and many services and gatewa
-> L75: xsAI runs on any runtime with `fetch` and web streams: Node.js, Deno, Bun, Cloudflare Workers, and browsers.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "moeru-ai/xsai 星数(近 9 点)"
-    x-axis ["2026-10-21", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-23"]
+    title "moeru-ai/xsai 星数(近 10 点)"
+    x-axis ["2026-10-22", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 663 --> 670
-    line [664, 665, 664, 667, 668, 669, 668, 666, 667]
+    line [664, 665, 664, 667, 668, 669, 668, 666, 667, 667]
 ```
 
-2026-10-21 664 → 2026-11-23 667（+3）
+2026-10-22 664 → 2026-11-24 667（+3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0ec3a1b38cac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `6590d4fa32d4` · [字段定义](../../DATASET.md)*

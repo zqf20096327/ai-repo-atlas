@@ -2,9 +2,9 @@
 
 ⭐ 694 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/open-net-worth-ai/open-net-worth) · [官网](https://opennetworth.ai) · 组织维护
 
-**自托管个人记账/预算/投资应用，AI Agent 通过工具直接操作账本**
+**自托管个人理财 AI agent：管理预算、投资并可下单交易**
 
-本地优先的个人财务应用：多币种账本、零基信封预算、投资持仓与退休规划，配一个名为 Lucius 的 AI agent，通过受权限控制的工具集（always_allow/needs_approval/blocked）直接读写账本，执行对账、交易分类、定时任务等操作；支持连接 MCP 服务器扩展工具，接入 SimpleFIN/Plaid 等银行券商连接器。AI 模型需自带 API key（Anthropic/OpenAI/OpenAI 兼容端点）或 Ollama 本地模型，首次运行无跳过选项。提供桌面安装包（macOS Apple Silicon/Windows/Linux x86_64）、服务器与 Docker 三种部署方式；不支持多用户/家庭账户与移动端。
+开源（AGPL-3.0）的个人理财 agent harness：多币种账本、零基信封预算、持仓与退休规划构成数据基底，AI 助手 Lucius 通过带权限分级（always_allow/needs_approval/blocked）的工具注册表直接读写账本、整理交易、生成报告，并可经 MCP 连接券商下单（默认需确认）。桌面应用自带 Python，支持 macOS(Apple Silicon)/Windows/Linux 安装包，或源码运行服务器；首次运行必须配置一个 AI 模型。无遥测，数据留在本机。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- AI agent 通过带权限级别的工具集直接操作账本，写操作前展示确认卡
-- 支持 MCP 服务器扩展工具与银行/券商同步连接器（SimpleFIN、Plaid、Interactive Brokers 等）
-- 本地优先：数据存于 ~/.open-net-worth/，无遥测，除自行配置的调用外不出机器
-- 桌面安装包/服务器/Docker 三种部署，自动备份与一键恢复
+- AI agent 经权限分级工具直接读写账本，写操作默认需确认卡片
+- 支持信封预算、多币种账本、持仓与退休概率规划
+- 可接入 MCP server 扩展工具（含券商下单、Telegram、邮件）
+- API key、Claude Code/Codex 登录或 Ollama 本地模型均可驱动
 
 ## 适用场景
 
-- 在自己机器上自托管记账、预算与投资追踪，不依赖云服务
-- 让 AI agent 代为分类交易、对账账户、生成日报周报
-- 从 YNAB 或 Lunch Money 迁移交易数据继续使用信封预算法
+- 自托管管理个人预算、账本与投资组合
+- 让 AI agent 按计划自动记账、对账并生成每日简报
+- 通过 MCP 连接券商在确认后执行交易
+- 从 YNAB 等托管理财应用迁移到本地数据
 
 ## 场景标签
 
- · 领域:个人理财/桌面与自托管应用
+`AI 助手` `金融量化` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L24: **An open-source agent harness for personal finance.** A real multi-currency ledger, budgets, and
-> L30: assistant (Lucius) is an agent operating them through a registry of real tools — the same guarded
-> L56: |**Lucius**|The AI agent on every screen. He works your real book through real tools: logs and sorts transactions, 
+> L28: **An open-source agent harness for personal finance.** A real multi-currency ledger, budgets, and
+> L29: investments — plus an AI that can actually read and change them, not just talk about them.
+> L98: |**Lucius**|The AI agent on every screen. He works your real book through real tools: logs and sorts transactions, 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "open-net-worth-ai/open-net-worth 星数(近 22 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 0 --> 762
-    line [7, 10, 12, 13, 14, 16, 17, 13, 241, 338, 380, 418, 438, 482, 508, 535, 563, 594, 584, 602, 660, 694]
+    line [10, 12, 13, 14, 16, 17, 13, 241, 338, 380, 418, 438, 482, 508, 535, 563, 594, 584, 602, 660, 694, 694]
 ```
 
-2026-10-21 7 → 2026-11-23 694（+687）
+2026-10-22 10 → 2026-11-24 694（+684）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `7fd2aefeeceb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `896ab5bdce2c` · [字段定义](../../DATASET.md)*

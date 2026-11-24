@@ -44,13 +44,13 @@ Microsoft.Agents.Hosting.CLI（msagent）将本地开发工作流与 Microsoft C
 
 ```mermaid
 xychart-beta
-    title "microsoft/AgentHosting.Cli 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    title "microsoft/AgentHosting.Cli 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 9 --> 16
-    line [10, 12, 14, 15]
+    line [10, 12, 14, 15, 15]
 ```
 
-2026-11-19 10 → 2026-11-23 15（+5）
+2026-11-19 10 → 2026-11-24 15（+5）
 
 
 ---

@@ -1,10 +1,10 @@
 # aws-samples/sample-mobile-ai-assistant
 
-⭐ 871 · TypeScript · MIT-0 · 推送 2026-11-12 · [GitHub](https://github.com/aws-samples/sample-mobile-ai-assistant) · 组织维护 · 中文 README
+⭐ 871 · TypeScript · MIT-0 · 推送 2026-11-12 · [GitHub](https://github.com/aws-samples/sample-mobile-ai-assistant) · 组织维护
 
-**AWS 出品的跨平台移动 AI 助手应用（聊天/生图/建应用）**
+**React Native 跨平台移动 AI 聊天与创作 App（Amazon Bedrock 驱动）**
 
-aws-samples 维护的 React Native 跨平台 AI 助手 App，运行于 Android、iOS 和 macOS。以 Amazon Bedrock 为主要模型来源，兼容 Ollama、DeepSeek、OpenAI 及 OpenAI Compatible 提供商。功能包括流式对话、AI 生图、一条提示词创建/编辑即时 Web 应用、网页搜索、多模态分析与语音对话（Nova Sonic）。后端可用 API Gateway + Lambda 一条命令部署。本地数据存储、不收集数据。
+aws-samples 提供的示例应用，用 React Native 构建，覆盖 Android、iOS、macOS。核心机制是通过 Amazon Bedrock 调用模型，并可配置 Ollama、DeepSeek、OpenAI 及 OpenAI 兼容端点作为模型来源；可选通过 API Gateway + Lambda 部署 App Server 以支持长时流式输出。功能包括流式对话、图像生成、一键生成 Web 应用、网页搜索、Nova Sonic 语音对话。数据仅存本地，API key 加密存储。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ aws-samples 维护的 React Native 跨平台 AI 助手 App，运行于 Android�
 
 ## 能力要点
 
-- 流式对话、AI 生图、即时 Web 应用创建与分享
-- 支持 Amazon Bedrock/Ollama/DeepSeek/OpenAI/OpenAI Compatible 多模型
-- Nova Sonic 语音对话与 Nova Canvas 虚拟试穿等图像功能
-- AWS 一条命令部署 App Server（API Gateway + Lambda）
+- 流式对话、图像生成、多模态输入（图片/视频/文档）
+- 一键生成、编辑与分享 Web 应用
+- Nova Canvas 虚拟试穿与去背景，Nova Sonic 语音对话（支持 Barge In 与回声消除）
+- API Gateway + Lambda 一键部署 App Server，支持 15 分钟流式输出
 
 ## 适用场景
 
-- 在手机上使用多模型 AI 助手进行聊天与生图
-- 用一条提示词生成并分享小型 Web 应用（2048、五子棋等）
-- 配合自建 Ollama 服务器进行本地模型对话
-- 通过 Nova Sonic 进行英语口语练习与讲故事
+- 在手机上用 Amazon Bedrock 模型进行多模态 AI 对话
+- 通过一句话生成并分享小型 Web 应用
+- 用 Nova Sonic 做口语练习与语音聊天
+- 连接本地 Ollama 服务在移动端使用本地模型
 
 ## 场景标签
 
-`AI 助手` `图像生成` `代码生成` `语音 Agent` · 领域:编码与开发
+`聊天机器人` `图像生成` `语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L10: AI Assistant is a fast and responsive cross-platform app developed with React Native and
-> L13: it delivers real-time streaming conversations, AI image generation, instant web app creation and voice conversation
+> L14: capabilities across Android, iOS, and macOS platforms.
 > L156: - Real-time streaming chat with AI
 
 ## 星数曲线
@@ -47,13 +47,13 @@ aws-samples 维护的 React Native 跨平台 AI 助手 App，运行于 Android�
 ```mermaid
 xychart-beta
     title "aws-samples/sample-mobile-ai-assistant 星数(近 12 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-24"]
     y-axis "stars" 860 --> 873
     line [861, 862, 863, 864, 863, 868, 869, 870, 871, 872, 871, 871]
 ```
 
-2026-10-21 861 → 2026-11-23 871（+10）
+2026-10-22 861 → 2026-11-24 871（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `be385a1055f7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b8f97222f502` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ PubNub 官方维护的 Model Context Protocol 服务器，把 20+ 语言的 SDK 
 ```mermaid
 xychart-beta
     title "pubnub/pubnub-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-20 33 → 2026-11-23 33（+0）
+2026-10-21 33 → 2026-11-24 33（+0）
 
 
 ---

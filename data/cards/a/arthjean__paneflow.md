@@ -42,6 +42,18 @@
 > L16: Paneflow runs locally: agents are ordinary CLI processes in ordinary terminals and connect to their own model provi
 > L18: Free and open source under GPL-3.0-or-later. Built with Rust and Zed's GPUI, using Ghostty's `libghostty-vt` termin
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "arthjean/paneflow 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 99 --> 101
+    line [100, 100]
+```
+
+2026-11-23 100 → 2026-11-24 100（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3ba3a336a77d` · [字段定义](../../DATASET.md)*

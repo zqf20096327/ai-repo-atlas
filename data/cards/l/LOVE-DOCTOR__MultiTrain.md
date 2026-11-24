@@ -45,12 +45,12 @@ MultiTrain 是面向机器学习从业者的 Python 模块，提供 MultiClassif
 ```mermaid
 xychart-beta
     title "LOVE-DOCTOR/MultiTrain 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-21 45 → 2026-11-23 45（+0）
+2026-10-22 45 → 2026-11-24 45（+0）
 
 
 ---

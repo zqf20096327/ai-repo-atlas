@@ -40,6 +40,18 @@
 > L12: **AI agent engineer interview prep for 2026**: 114 questions with senior answers and follow-ups, 5 worked system de
 > L19: Agent engineering interviews ask what happens when a model is allowed to act. Can you design tools a model uses cor
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "landedjobs/ai-agent-interview-questions 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `071155f4c6ac` · [字段定义](../../DATASET.md)*

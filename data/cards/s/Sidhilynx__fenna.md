@@ -45,13 +45,13 @@ Electron 桌面应用（v0.9），将多个常驻 bot 部署在用户本机：�
 
 ```mermaid
 xychart-beta
-    title "Sidhilynx/fenna 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-23"]
+    title "Sidhilynx/fenna 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-11-21 4 → 2026-11-23 5（+1）
+2026-11-21 4 → 2026-11-24 5（+1）
 
 
 ---

@@ -46,13 +46,13 @@ Electron 桌面应用，对本机文档（PDF/Office/Markdown/文本）提问，
 
 ```mermaid
 xychart-beta
-    title "yuan-phd/askfiles 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "yuan-phd/askfiles 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 12 --> 17
-    line [13, 16]
+    line [13, 16, 16]
 ```
 
-2026-11-22 13 → 2026-11-23 16（+3）
+2026-11-22 13 → 2026-11-24 16（+3）
 
 
 ---

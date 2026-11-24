@@ -41,6 +41,18 @@ VS Code 扩展，用于在聊天结束、换模型或换 agent 时把工作上�
 > L32: - **Local-first** — no telemetry, no model-provider calls, no automatic upload.
 > L124: - No AI provider is contacted. The extension never sends your code anywhere.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/context-bridge 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `a8227a4dd650` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ Python 命令行工具，读取 PPTX 幻灯片并调用 OpenAI 的 GPT-4o（默�
 ```mermaid
 xychart-beta
     title "haesleinhuepf/translate-pptx 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-20 21 → 2026-11-23 21（+0）
+2026-10-21 21 → 2026-11-24 21（+0）
 
 
 ---

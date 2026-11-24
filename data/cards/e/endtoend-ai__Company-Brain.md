@@ -47,12 +47,12 @@ CompanyBrain 是一个 local-first 知识工作区：上传公司文档后，通
 ```mermaid
 xychart-beta
     title "endtoend-ai/Company-Brain 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-23 3（+0）
+2026-11-10 3 → 2026-11-24 3（+0）
 
 
 ---

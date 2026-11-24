@@ -41,6 +41,18 @@
 > L40: |`MiniMax-H3-Tiny-17B-Pruned-Ref2VA`|17.1B|AdaLN rank 8 + 8 of 50 blocks removed, **no training**|50 steps|✅|
 > L98: The pipeline is the official diffusers MiniMax H3 workflow with the H3-Tiny transformer and step schedule
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fuyi25/MiniMax-H3-Tiny 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 35 --> 37
+    line [36, 36]
+```
+
+2026-11-23 36 → 2026-11-24 36（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `cf33f72d0374` · [字段定义](../../DATASET.md)*

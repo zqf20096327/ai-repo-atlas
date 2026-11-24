@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "patchorbit/domscribe 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 193 --> 196
-    line [194, 195, 195]
+    title "patchorbit/domscribe 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 194 --> 196
+    line [195, 195]
 ```
 
-2026-10-21 194 → 2026-11-23 195（+1）
+2026-10-22 195 → 2026-11-24 195（+0）
 
 
 ---

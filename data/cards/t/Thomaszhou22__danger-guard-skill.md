@@ -34,12 +34,24 @@
 
 ## 场景标签
 
- · 领域:AI agent 安全工具
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: AI agent safety shield. Intercepts dangerous commands before execution, requires password verification, and sends al
 > L51: |**OpenClaw**|`SKILL.md`|`~/.openclaw/skills/danger-guard/`|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Thomaszhou22/danger-guard-skill 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
 
 
 ---

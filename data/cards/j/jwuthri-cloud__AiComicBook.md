@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jwuthri-cloud/AiComicBook 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 11 --> 26
-    line [25, 22, 12, 12]
+    title "jwuthri-cloud/AiComicBook 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 11 --> 23
+    line [22, 12, 12]
 ```
 
-2026-10-21 25 → 2026-11-23 12（-13）
+2026-10-22 22 → 2026-11-24 12（-10）
 
 
 ---

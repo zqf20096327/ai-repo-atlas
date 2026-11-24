@@ -42,6 +42,18 @@
 > L13: ## Learning Roadmap
 > L26: ## Curriculum (19 Chapters · 10 Bilingual Ready)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qufei1993/ai-agent-guide 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
+```
+
+2026-11-23 26 → 2026-11-24 26（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `edc7463f1191` · [字段定义](../../DATASET.md)*

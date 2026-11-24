@@ -45,12 +45,12 @@ OpenLLMetry 的 Go 语言姊妹项目，由 Traceloop 团队维护。提供构�
 ```mermaid
 xychart-beta
     title "traceloop/go-openllmetry 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-20 47 → 2026-11-23 47（+0）
+2026-10-21 47 → 2026-11-24 47（+0）
 
 
 ---

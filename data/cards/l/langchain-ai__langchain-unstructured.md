@@ -41,13 +41,13 @@ langchain-ai 组织下的集成仓库，包含 1 个包 langchain-unstructured�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-unstructured 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-23"]
+    title "langchain-ai/langchain-unstructured 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-24"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 23, 24, 24]
+    line [24, 23, 24, 24]
 ```
 
-2026-10-21 23 → 2026-11-23 24（+1）
+2026-10-22 24 → 2026-11-24 24（+0）
 
 
 ---

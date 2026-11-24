@@ -2,57 +2,57 @@
 
 ⭐ 658 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/jmanico/grim-prompter) · 个人维护
 
-**面向 AI 编码代理的威胁建模技能库：36 架构、29 方法**
+**为 AI 编码 agent 提供威胁建模提示词库**
 
-供 Claude Code、Codex 等编码代理使用的威胁建模 skill 与提示集合：将仓库克隆到本地后，把 threat-model skill 链接进代理，代理按 runbook 只读检查代码、信任边界、威胁与既有控制项，输出带文件与行号引证的分析，产物写入 threat-model/ 目录（SYSTEM_UNDER_REVIEW.md、report.md、JSON 基线）。支持 quick/deep 六阶段流程、变更审查及 MCP 工具凭证边界检查；要求构建、测试、网络访问需用户明确授权。
+一套以 skill/提示词形式分发的威胁建模素材库：克隆后将 threat-model 技能链接进 Claude Code、Codex 等编码 agent，agent 按其 runbook 对目标仓库执行只读检查，生成带文件与行号引用的威胁模型，输出写入 threat-model/ 目录（SYSTEM_UNDER_REVIEW.md、report.md、JSON 产物）。提供 36 种架构工作流与 29 种方法提示，支持 quick/deep 六阶段流程、隐私审查（LINDDUN、GDPR/CCPA 档案）与基于基线的变更复审。MIT 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 36 种架构工作流与 29 种威胁分析方法（STRIDE/PASTA/LINDDUN/MITRE ATLAS 等）
-- 分析结果附文件与行号引证，可对照代码核查
-- deep 模式为六阶段流程，各阶段读取前一阶段产物，JSON 基线支持变更审查
-- runbook 限定只读检查，构建/测试/网络访问需明确授权
+- 36 种架构工作流与 29 种方法提示词
+- 输出带文件与行号引用的证据可核查威胁模型
+- 支持 LINDDUN 隐私方法与 GDPR/CCPA/CPRA 档案
+- 基于 JSON 基线的变更复审流程
 
 ## 适用场景
 
-- 让我的编码代理对项目做 STRIDE 或 PASTA 威胁分析
-- 审查分支变更对既有威胁模型的影响
-- 为 RAG、Agentic AI 等架构生成可追溯的威胁模型
+- 用 Claude Code 对自己的仓库跑一次威胁建模
+- 在安全审查中加入数据处理与隐私伤害分析
+- 对比 feature 分支相对主干的威胁模型变化
 
 ## 场景标签
 
-`网络安全` `代码审查` · 领域:编码与开发
+`提示工程` `网络安全` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L5:  Threat modeling for AI coding agents.
 > L8: **Threat model your project with Claude Code, Codex, or another coding agent.** Grim Prompter provides 36 architectu
-> L12: Clone once, then link the `threat-model` skill into your agent. Check for an existing installation before running t
-> L74: When asked to threat model this project, read `~/grim-prompter/runbook.md` and follow it.
+> L13: ## Install
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "jmanico/grim-prompter 星数(近 19 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "jmanico/grim-prompter 星数(近 20 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 0 --> 719
-    line [41, 138, 234, 298, 330, 395, 409, 416, 421, 425, 462, 499, 513, 532, 546, 584, 611, 630, 658]
+    line [41, 138, 234, 298, 330, 395, 409, 416, 421, 425, 462, 499, 513, 532, 546, 584, 611, 630, 658, 658]
 ```
 
-2026-10-29 41 → 2026-11-23 658（+617）
+2026-10-29 41 → 2026-11-24 658（+617）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-29 · 置信度 high · 依据 README sha `45e83ff789d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `34121faaa305` · [字段定义](../../DATASET.md)*

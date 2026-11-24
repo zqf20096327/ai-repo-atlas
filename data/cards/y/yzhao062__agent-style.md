@@ -2,15 +2,15 @@
 
 ⭐ 749 · Python · 推送 2026-11-14 · [GitHub](https://github.com/yzhao062/agent-style) · 个人维护
 
-**面向 AI 编程/写作 agent 的 21 条英文写作规则集，生成时加载**
+**给 AI 编码/写作 agent 用的 21 条英文技术写作规则集**
 
-一套格式化为 AI agent 系统提示/项目配置可读取的英文技术写作规则集：12 条提炼自 Strunk & White、Orwell、Pinker、Gopen & Swan 四部经典写作指南（逐条标注出处），9 条来自 2022-2026 年 LLM 输出的田野观察（含引用纪律 RULE-H），另含作者个人论文风格的 House Style 段。规则在生成时生效，非事后 linter；适用范围为 API 文档、设计文档、论文、README 等英文技术文体。通过 PyPI 与 npm 分发，可 drop-in 用于 Claude Code、Codex、Copilot、Cursor、Aider 等 agent。README 报告了 10 任务 × 2 生成的小型 sanity bench，机械违规数下降但明确标注无统计显著性，且两条 critical 规则未被测量。
+一套按生成时注入格式编排的英文写作规则包，供 Claude Code、Codex、Copilot、Cursor、Aider 等 AI agent 在 system prompt 或项目配置中读取。21 条规则分两组：RULE-01..12 源自 Strunk & White、Orwell、Pinker、Gopen & Swan 等写作经典，RULE-A..I 为作者从 2022-2026 年 LLM 输出中记录的 field-observed 模式；另含可替换的 House Style 章节。通过 PyPI 与 npm 分发，自带 agent-style review 命令做违规检测。作者自述 bench 仅覆盖 7 条机械规则，两条 critical 语义规则未被度量。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 21 条规则：12 条经典来源 + 9 条 LLM 特有失效模式，逐条给出出处
-- 生成时加载（system prompt/项目配置），非事后检查
-- 含可替换的个人 House Style 段，fork 后可换成自己的写作习惯
-- v0.3.0/v0.4.2 sanity bench 报告机械 AI-tell 违规下降，附局限说明
+- 21 条规则：12 条源自经典写作指南、9 条来自 LLM 输出观察，均标注出处
+- House Style 章节可替换为用户自己的写作习惯（fork 定制）
+- agent-style review --mechanical-only 提供规则违规检测
+- 兼容 AGENTS.md 规范的工具均可读取
 
 ## 适用场景
 
-- 让我的 Claude Code / Codex / Cursor 生成更少 LLM 腔的技术文档
-- 统一团队 agent 生成的 README、commit message 与设计文档风格
-- 约束 agent 输出的引用纪律，减少无据断言
+- 让 coding agent 生成的 README/commit message 符合技术写作惯例
+- 论文与基金申请草稿规避常见 LLM 写作模式
+- fork 后用自己 AI 时代前的写作数据定制个人风格包
 
 ## 场景标签
 
-`提示工程` `AI 写作` · 领域:Agent 开发
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L26: A curated set of English writing rules formatted for AI coding and writing agents to follow **at generation time**,
-> L114: - **AI coding and writing agents:** Claude Code, Codex, GitHub Copilot, Cursor, Aider, Anthropic Skills, Kiro, Rep
-> L92: agent-style v0.3.0 sanity bench with corrected v0.4.2 scoring across Claude Opus 4.7, OpenAI GPT-5.4 via Codex CLI,
+> L28: A curated set of English writing rules formatted for AI coding and writing agents to follow **at generation time**,
+> L116: - **AI coding and writing agents:** Claude Code, Codex, GitHub Copilot, Cursor, Aider, Anthropic Skills, Kiro, Rep
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "yzhao062/agent-style 星数(近 19 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
     y-axis "stars" 718 --> 751
     line [720, 724, 725, 726, 727, 728, 730, 732, 724, 736, 741, 742, 741, 743, 745, 746, 747, 749, 749]
 ```
 
-2026-10-20 720 → 2026-11-23 749（+29）
+2026-10-21 720 → 2026-11-24 749（+29）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `487ebdc6e644` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `cc3bc7c92e7c` · [字段定义](../../DATASET.md)*

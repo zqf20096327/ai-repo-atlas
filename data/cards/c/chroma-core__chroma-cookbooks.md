@@ -43,12 +43,12 @@ chroma-core 维护的示例代码库，提供基于 Chroma（向量数据库）�
 ```mermaid
 xychart-beta
     title "chroma-core/chroma-cookbooks 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-21 96 → 2026-11-23 96（+0）
+2026-10-22 96 → 2026-11-24 96（+0）
 
 
 ---

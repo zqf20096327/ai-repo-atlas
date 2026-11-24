@@ -47,12 +47,12 @@ pegainfer 项目的语音与图像推理服务端，以 Rust 编写，兼容 Ope
 ```mermaid
 xychart-beta
     title "pegainfer-project/kern-omni 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-23"]
+    x-axis ["2026-11-21", "2026-11-24"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-11-21 54 → 2026-11-23 54（+0）
+2026-11-21 54 → 2026-11-24 54（+0）
 
 
 ---

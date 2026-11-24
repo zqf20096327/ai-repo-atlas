@@ -46,12 +46,12 @@ boldsoftware/shelley 的 fork，为其编码 agent 增加终端 CLI（流式输�
 ```mermaid
 xychart-beta
     title "davidcjones79/shelley-cli 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-21 12 → 2026-11-23 12（+0）
+2026-10-22 12 → 2026-11-24 12（+0）
 
 
 ---

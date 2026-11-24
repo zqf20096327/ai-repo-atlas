@@ -2,9 +2,9 @@
 
 ⭐ 1,051 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Tencent-Hunyuan/UniRL) · [官网](https://unirl-project.github.io/unirl/) · 组织维护 · 中文 README
 
-**多模态模型统一强化学习训练框架**
+**统一多模态模型的强化学习后训练框架**
 
-腾讯混元团队的强化学习后训练框架：用一条 RL 循环（生成样本、打分、计算优势、更新策略、回传权重到 rollout 引擎）覆盖图像/视频扩散、LLM/VLM、统一 AR+diffusion 等多类模型。采用分层可组合架构，训练入口加载 Hydra 配置，坐标可插拔的 rollout 引擎、算法、模型包与奖励服务，分布式运行时含 Ray DevicePool、FSDP、LoRA/全量权重同步。内置自研算法 Flow-DPPO/DRPO/CPPO 与 GRPO 等参考算法，支持 SFT、异步训练与多轮工具使用的 Agentic RL 等八种训练模式；安装依赖需另见 INSTALL.md。
+UniRL 是面向多模态模型家族的 RL 后训练框架，执行『生成样本→打分→计算优势→更新策略→同步权重回 rollout worker』的训练循环。采用分层可组合架构：训练入口加载 Hydra 配置并创建对应域 trainer，RL trainer 协调可插拔的 rollout 引擎、算法、模型包、奖励服务与共享分布式运行时（Ray DevicePool、FSDP、Transfer Queue、LoRA/全量权重同步）。支持 Diffusion RL、AR RL、SFT、Agentic RL、异步 RL 等训练路径，覆盖图像/视频扩散、VLM、LLM、统一模型等 20 余个模型配方。面向需要做模型 RL 后训练的研究者与工程师。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 覆盖 20+ 模型的统一 RL 训练循环（扩散/AR/统一模型）
-- 自研算法 Flow-DPPO、DRPO、CPPO 附带教程与可运行示例
-- SGLang 与 vLLM(-Omni) 作为可插拔 rollout 引擎
-- 八种训练模式含 Agentic RL 与分离 rollout 的异步训练
+- 单一套路覆盖图像/视频扩散、AR、统一 AR+扩散等多模态模型家族的 RL 后训练
+- 自研算法 Flow-DPPO、DRPO、CPPO，并内置 GRPO、DiffusionNFT、DanceGRPO 等参考算法
+- 8 类训练入口（Diffusion RL / AR RL / SFT / Agentic / 异步 RL 等）基于 Hydra 配置
+- 基于 Ray、FSDP、Transfer Queue 的分布式运行时与 LoRA/全量权重同步
 
 ## 适用场景
 
-- 对图像或视频扩散模型做 RL 后训练
-- 训练 VLM/LLM 的多模态推理能力（GRPO 等）
-- 用自研信任域算法做实验对比
-- 搭建多轮工具使用场景的 Agentic RL 训练
+- 对扩散模型（图像/视频生成）做 RL 后训练
+- 对 LLM/VLM 跑 GRPO 类强化学习
+- 训练带多轮工具调用的 agentic 模型
+- 用 SFT 或异步 RL 流程训练自己的多模态模型
 
 ## 场景标签
 
-`强化学习` `微调` · 领域:训练与推理
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L25: UniRL applies one RL post-training loop — generate samples, score them, compute
+> L1: UniRL — A Reinforcement Learning Framework for Unified Multimodal Models
 > L31: UniRL is a layered, composable system. Each **training entrypoint** loads a
 > L33: coordinate generation, scoring, and updates across pluggable
 
@@ -46,14 +46,14 @@
 
 ```mermaid
 xychart-beta
-    title "Tencent-Hunyuan/UniRL 星数(近 21 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1017 --> 1055
-    line [1020, 1022, 1024, 1025, 1029, 1031, 1032, 1033, 1034, 1035, 1037, 1025, 1045, 1046, 1045, 1046, 1049, 1050, 1052, 1051, 1051]
+    title "Tencent-Hunyuan/UniRL 星数(近 20 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 1019 --> 1055
+    line [1022, 1024, 1025, 1029, 1031, 1032, 1033, 1034, 1035, 1037, 1025, 1045, 1046, 1045, 1046, 1049, 1050, 1052, 1051, 1051]
 ```
 
-2026-10-21 1,020 → 2026-11-23 1,051（+31）
+2026-10-22 1,022 → 2026-11-24 1,051（+29）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `878bf8e6243c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `cf66eabcc8aa` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ Kreasof AI 开源的库，用于在 AMD、Intel、Apple Silicon 等 GPU 上运�
 ```mermaid
 xychart-beta
     title "kreasof-ai/OpenFormer 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-21 30 → 2026-11-23 30（+0）
+2026-10-22 30 → 2026-11-24 30（+0）
 
 
 ---

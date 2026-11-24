@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Malitha123/awesome-video-self-supervised-learning 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 173 --> 177
-    line [174, 175, 176, 176]
+    title "Malitha123/awesome-video-self-supervised-learning 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 174 --> 177
+    line [175, 176, 176]
 ```
 
-2026-10-21 174 → 2026-11-23 176（+2）
+2026-10-22 175 → 2026-11-24 176（+1）
 
 
 ---

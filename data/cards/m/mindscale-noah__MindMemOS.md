@@ -2,9 +2,9 @@
 
 ⭐ 935 · Python · 推送 2026-11-12 · [GitHub](https://github.com/mindscale-noah/MindMemOS) · [官网](https://mindmemos.cn) · 组织维护 · 中文 README
 
-**AI agent 长期记忆操作系统：跨 agent 持久记忆与技能蒸馏**
+**为 AI agent 提供跨 agent 长期记忆存取的记忆操作系统层**
 
-面向 AI agent 的记忆操作层（Memory OS）：以服务形式持久化用户画像、偏好、项目事实、工具经验与技能候选，让 OpenClaw、Claude Code、OpenHands 等 agent 共享与迁移同一份长期记忆。机制上通过 schema 学习、离线 dreaming 整合与交互反馈实现记忆自演化，可把经验记忆蒸馏为技能候选并回写执行结果。提供官方云服务与本地自托管两种部署，经 HTTP API、Python SDK/CLI 或 agent 插件访问；本地部署用 uv 管理依赖，需配置 chat/embed/rerank 三类模型路由，依赖 Qdrant、Neo4j、Kafka 等 Docker 组件栈。
+面向 agent 的记忆服务：以 FastAPI 服务形式部署（云端或本地自托管），通过 HTTP API、Python SDK/CLI 或 agent 插件三种方式接入，提供 add/search 等记忆接口。记忆按 schema 学习、离线整合（dreaming）与反馈持续演化，经验记忆可蒸馏为 Skill 候选，技能执行结果又回流记忆系统。支持 OpenClaw、DeepSeek Harness 等插件实现交互前召回、交互后回写；多模态模式默认关闭，开启后图像存于 S3/MinIO 并用多模态嵌入索引。本地依赖 Qdrant、Neo4j、Kafka 等 Docker 栈。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 跨 agent 可移植记忆：用户画像、项目事实、技能候选作为可复用资产共享
-- 记忆自演化：schema 学习、离线 dreaming 整合、交互反馈优化
-- 经验记忆可蒸馏为技能候选，技能执行结果回流记忆系统
-- 云/本地同一协议，支持 HTTP API、Python SDK/CLI、OpenClaw 与 DeepSeek Harness 插件
+- 跨 agent 可移植记忆：OpenClaw、Hermes、Claude Code、OpenHands 可共享同一长期记忆
+- 自演化机制：schema 学习、dreaming 离线整合、交互反馈优化 add/search
+- 经验记忆蒸馏为 Skill 候选，技能执行结果回流驱动技能演化
+- 多模态记忆：图像存 S3/MinIO，SigLIP2 兼容嵌入索引，VLM 提取视觉事实（enhanced 模式）
 
 ## 适用场景
 
-- 让多个 agent 共享同一份用户与任务的长期记忆
-- 业务应用通过 SDK 或 HTTP API 存取用户偏好与项目事实
-- 从交互经验中自动积累并演化可复用技能
+- 给多个 agent 挂载同一份用户画像与项目事实记忆
+- 让 agent 在交互前自动召回相关记忆、交互后自动回写对话
+- 积累跨任务经验与领域知识并蒸馏为可复用技能
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 ## 证据(README 行号)
 
 > L35:  Accurately remember user and task context and reuse it across agents; evolve memory through ongoing interactions, 
-> L48: - **Portable across agents**: Persist user profiles, preferences, project facts, tool experience, and skill candida
-> L57: MindMemOS offers **two deployment modes** (official cloud service, local self-hosting) and **three access methods**
+> L49: - **Portable across agents**: Persist user profiles, preferences, project facts, tool experience, and skill candida
+> L53: - **Plugin integrations**: Connect MindMemOS to different agents and workflows through plugins that retrieve and in
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mindscale-noah/MindMemOS 星数(近 13 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-24"]
     y-axis "stars" 916 --> 936
     line [917, 918, 920, 921, 922, 923, 924, 921, 929, 931, 932, 935, 935]
 ```
 
-2026-10-21 917 → 2026-11-23 935（+18）
+2026-10-22 917 → 2026-11-24 935（+18）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c0f1cfb5b76f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1bb0e5fc06b2` · [字段定义](../../DATASET.md)*

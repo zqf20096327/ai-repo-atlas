@@ -2,9 +2,9 @@
 
 ⭐ 1,036 · Kotlin · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/jegly/Box) · [官网](https://jegly.xyz) · 个人维护
 
-**Android 端离线 AI 套件：本地聊天、图像生成与多种 AI 工具**
+**Android 全离线端侧 AI 套件，覆盖文本/图像/语音/视觉**
 
-Google AI Edge Gallery 的安全加固分支，面向 Android 用户的全离线客户端 AI 应用：内置 40+ 模型的本地聊天、Ask Image 视觉问答、Bonsai/FLUX.2 klein/Z-Image 端侧图像生成、图像超分/去噪/照片修复、人脸识别、语音模式与多语言 TTS、文档分析与 Q&A、RAG 与 MCP 服务器支持。推理引擎覆盖 llama.cpp、stable-diffusion.cpp、whisper.cpp、LiteRT，支持 GGUF 导入，GPU 与 Snapdragon/Tensor/MediaTek NPU 加速。提供 APK 下载与 Obtainium 安装，含应用内更新器；分 Main 与 Custom ROM 两个版本。
+Google AI Edge Gallery 的 fork，Android 端侧应用，功能完全离线运行：文本聊天、图像生成（Bonsai/FLUX.2 klein/Z-Image Turbo/iris-3b）、语音对话、文档分析与问答、视觉 AI、背景去除、去模糊去噪、照片矫正、音乐生成等。引擎基于 llama.cpp、stable-diffusion.cpp、whisper.cpp 与 LiteRT，支持 GGUF 导入，并调用 Snapdragon/Tensor/MediaTek NPU 与 GPU 加速。带生物识别锁与加密聊天记录。通过 APK 或 Obtainium 安装，区分原生 Android 与无 Google 服务的自定义 ROM 两个版本；移除 Firebase 与 Google 使用记录组件。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Google AI Edge Gallery 的安全加固分支，面向 Android 用户的全离线
 
 ## 能力要点
 
-- 40+ 模型本地聊天，支持 GGUF 导入与多引擎（llama.cpp/whisper.cpp/stable-diffusion.cpp/LiteRT）
-- 端侧图像生成（Bonsai Image 4B、FLUX.2 klein、Z-Image Turbo）与超分/去噪/修复
-- 语音模式、多语言 TTS、文档分析 Q&A、RAG 与 MCP 服务器支持
-- GPU 与 Snapdragon/Tensor/MediaTek NPU 加速；生物锁、SQLCipher 加密聊天记录等加固措施
+- 完全离线运行，内置 U²-Net 等模型，无 Google Play services 依赖
+- GGUF 模型导入与 llama.cpp 引擎支持
+- Snapdragon/Tensor/MediaTek NPU 与 Vulkan GPU 加速
+- 面向视障用户的 Box Assist 语音相机辅助
 
 ## 适用场景
 
-- 在 Android 手机上离线运行 LLM 聊天与视觉问答
-- 端侧生成与编辑图片（生成、超分、去blur、消除/inpainting）
-- 低视力用户使用 Box Assist 语音相机辅助
-- 隐私敏感场景下本地完成文档分析与转录
+- 在 GrapheneOS/LineageOS 等无 Google 服务手机上运行本地 AI
+- 端侧生成图像、去噪去模糊与照片矫正
+- 离线语音对话与文档问答
 
 ## 场景标签
 
-`聊天机器人` `图像生成` `文档问答` `图像视频处理` · 领域:对话与助手
+`图像生成` `文档问答` `语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L78: **Box is a security-hardened, feature rich fork of Google AI Edge Gallery — with on-device image generation (Bonsai
 > L83: Box began as a fork of Google AI Edge Gallery and is not affiliated with or endorsed by Google LLC. Google branding
+> L90: |v3.5.7|**🌍 New model: Hy-MT2-1.8B — translation**|Tencent's 1.8B translation model, for translating text between *
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "jegly/Box 星数(近 24 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 915 --> 1047
-    line [926, 932, 934, 939, 941, 942, 945, 947, 950, 953, 959, 961, 941, 996, 1000, 1004, 1008, 1011, 1015, 1023, 1024, 1031, 1036, 1036]
+    title "jegly/Box 星数(近 23 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 922 --> 1046
+    line [932, 934, 939, 941, 942, 945, 947, 950, 953, 959, 961, 941, 996, 1000, 1004, 1008, 1011, 1015, 1023, 1024, 1031, 1036, 1036]
 ```
 
-2026-10-21 926 → 2026-11-23 1,036（+110）
+2026-10-22 932 → 2026-11-24 1,036（+104）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8988e08c7e9e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3e8620c15ab9` · [字段定义](../../DATASET.md)*

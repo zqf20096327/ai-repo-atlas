@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Melatonin-Amos/DLC-Detector-with-Language-Customization 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "Melatonin-Amos/DLC-Detector-with-Language-Customization 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 13 --> 16
-    line [15, 14]
+    line [15, 14, 14]
 ```
 
-2026-10-21 15 → 2026-11-23 14（-1）
+2026-10-22 15 → 2026-11-24 14（-1）
 
 
 ---

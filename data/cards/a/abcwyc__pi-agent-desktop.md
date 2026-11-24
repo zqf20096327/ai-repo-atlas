@@ -2,15 +2,15 @@
 
 ⭐ 942 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/abcwyc/pi-agent-desktop) · [官网](https://pi.348580.xyz) · 个人维护 · 中文 README
 
-**把 pi 编程 agent 打包成开箱即用的跨平台桌面应用**
+**把 pi 编码 agent 封装成桌面应用的客户端**
 
-基于 Tauri 的本地 AI 编程 agent 桌面应用（macOS/Windows/Linux），将 pi 的 agent 能力打包为独立安装程序，内嵌 Next.js 服务器、Node.js 运行时与 Pi SDK，无需终端或单独环境。功能含会话浏览与分支/fork、实时查看思考/工具调用/成本/压缩状态、模型与 OAuth/API key 及技能插件管理、定时任务、Git worktree 切换、文件预览、内置更新检查与一键升级。默认读取 ~/.pi/agent/ 本地数据目录，密钥与会话留在本机。
+面向 macOS 与 Windows 的本地 AI agent 桌面应用，将 pi 的 agent 能力打包为独立安装程序，无需终端命令或环境配置。提供会话浏览与恢复、分支/分叉对话、模型与 API key 管理、Git worktree 切换、定时任务、文件/代码/PDF 预览及应用内自升级。读取既有 `~/.pi` 本地数据目录，会话与密钥保留在本机；应用未签名的 macOS 构建需手动放行 Gatekeeper。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 打包 Node.js 运行时与 Pi SDK，安装即用、无需终端命令
-- 会话分支/fork 与实时可见的思考、工具调用、成本、压缩状态
-- 定时任务（每小时/每日/每周/cron）默认只读工具并在休眠后补跑一次
-- 读取 pi CLI 本地数据目录 ~/.pi/agent/，与既有会话和认证互通
+- 按项目浏览并恢复历史 Pi 会话，支持分支与分叉对话
+- 内置模型、OAuth/API key、skills 与插件管理
+- 定时任务：按 cron/周期在新会话运行保存的 prompt
+- 打包 Node.js 运行时与 Pi SDK，无需单独安装 Node.js
 
 ## 适用场景
 
-- 不熟悉终端的开发者想在桌面图形界面里使用 pi 编程 agent
-- 浏览、恢复、分支管理过往编程会话与项目文件
-- 定时自动运行保存的提示词任务并接收成功/失败通知
+- 不想在终端里操作 pi CLI，用图形界面跑编码 agent
+- 跨项目管理和恢复历史 agent 会话
+- 让 agent 任务按计划定时自动执行
 
 ## 场景标签
 
@@ -38,21 +38,20 @@
 ## 证据(README 行号)
 
 > L5: `pi-agent-desktop` is a local AI agent desktop app for macOS and Windows. It packages the agent capabilities of pi i
-> L10: - Talk to the agent in real time inside a desktop window, with thinking, tool calls, context usage, cost, and compa
-> L47: Official releases support Apple Silicon Macs running macOS 11 or later, Windows 10/11 x64, and Linux x64 distributi
+> L12: - Manage models, OAuth/API keys, custom model configuration, skills, and plugins.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "abcwyc/pi-agent-desktop 星数(近 26 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 801 --> 954
-    line [813, 826, 832, 839, 846, 850, 858, 860, 861, 868, 871, 874, 877, 846, 905, 913, 915, 918, 923, 926, 932, 936, 941, 939, 940, 942]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 815 --> 953
+    line [826, 832, 839, 846, 850, 858, 860, 861, 868, 871, 874, 877, 846, 905, 913, 915, 918, 923, 926, 932, 936, 941, 939, 940, 942, 942]
 ```
 
-2026-10-21 813 → 2026-11-23 942（+129）
+2026-10-22 826 → 2026-11-24 942（+116）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `b51ab92f22a9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `6f221abbdb1c` · [字段定义](../../DATASET.md)*

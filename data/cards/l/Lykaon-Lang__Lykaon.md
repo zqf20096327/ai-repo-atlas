@@ -41,6 +41,18 @@
 > L68:  HTTP/JSON, tasks/channels, classical ML models.
 > L125: - M5 is in progress: data tables, SVG charts, classical ML models,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lykaon-Lang/Lykaon 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-23 6 → 2026-11-24 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `c81e76cc730a` · [字段定义](../../DATASET.md)*

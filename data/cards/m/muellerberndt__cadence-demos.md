@@ -45,13 +45,13 @@ muellerberndt 维护的 Cadence 库配套示例仓库，含 7 个演示：Rover 
 
 ```mermaid
 xychart-beta
-    title "muellerberndt/cadence-demos 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-10", "2026-11-16", "2026-11-23"]
+    title "muellerberndt/cadence-demos 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-10", "2026-11-16", "2026-11-24"]
     y-axis "stars" 17 --> 22
-    line [19, 18, 20, 21, 21]
+    line [18, 20, 21, 21]
 ```
 
-2026-10-21 19 → 2026-11-23 21（+2）
+2026-10-22 18 → 2026-11-24 21（+3）
 
 
 ---

@@ -45,13 +45,13 @@ Windows 下的模型下载工具，从 HuggingFace、魔搭 ModelScope、Civitai
 
 ```mermaid
 xychart-beta
-    title "dsAI-Q/locmodel-downloader 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
+    title "dsAI-Q/locmodel-downloader 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 2 --> 10
-    line [3, 5, 6, 7, 9]
+    line [3, 5, 6, 7, 9, 9]
 ```
 
-2026-11-16 3 → 2026-11-23 9（+6）
+2026-11-16 3 → 2026-11-24 9（+6）
 
 
 ---

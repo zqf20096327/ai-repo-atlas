@@ -46,12 +46,12 @@ TACL 2022 论文 Transformer Grammars 的官方实现，基于 JAX。模型将�
 ```mermaid
 xychart-beta
     title "google-deepmind/transformer_grammars 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 141 --> 143
     line [142, 142]
 ```
 
-2026-10-21 142 → 2026-11-23 142（+0）
+2026-10-22 142 → 2026-11-24 142（+0）
 
 
 ---

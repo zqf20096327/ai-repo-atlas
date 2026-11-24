@@ -45,13 +45,13 @@ scrapai 是构建在 Scrapy 之上的自托管爬虫编排层：用户以英文�
 
 ```mermaid
 xychart-beta
-    title "discourselab/scrapai-cli 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 115 --> 118
-    line [116, 117, 117]
+    title "discourselab/scrapai-cli 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 116 --> 118
+    line [117, 117]
 ```
 
-2026-10-21 116 → 2026-11-23 117（+1）
+2026-10-22 117 → 2026-11-24 117（+0）
 
 
 ---

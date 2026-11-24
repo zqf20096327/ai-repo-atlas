@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ali-faraz-py/Picassify 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 29 --> 32
-    line [31, 30, 30]
+    title "ali-faraz-py/Picassify 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
 ```
 
-2026-10-21 31 → 2026-11-23 30（-1）
+2026-10-22 30 → 2026-11-24 30（+0）
 
 
 ---

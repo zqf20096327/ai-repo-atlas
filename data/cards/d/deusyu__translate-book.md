@@ -41,6 +41,18 @@
 > L9:  translate-book — a whole book, translated in parallel: split into chunks, translated by 8 parallel sub-agents, veri
 > L37: - **Agent runtime** — Codex, Claude Code, or OpenClaw, installed and ready to run skills
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "deusyu/translate-book 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2455 --> 2457
+    line [2456, 2456]
+```
+
+2026-11-23 2,456 → 2026-11-24 2,456（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `56a3f6ad53bc` · [字段定义](../../DATASET.md)*

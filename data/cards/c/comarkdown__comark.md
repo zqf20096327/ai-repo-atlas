@@ -1,16 +1,16 @@
 # comarkdown/comark
 
-⭐ 1,109 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/comarkdown/comark) · [官网](https://comark.dev) · 个人维护
+⭐ 1,109 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/comarkdown/comark) · [官网](https://comark.dev) · 组织维护
 
-**面向 AI 流式输出的 Markdown 解析与多框架渲染库**
+**为开发者把 Markdown/LLM 输出解析并渲染到多框架的库**
 
-开源 Markdown 解析器与渲染器：支持 CommonMark 与 GFM，解析为紧凑可序列化文档，可在构建时、运行时或流式过程中执行；内置 auto-close 机制补全未终止语法，使 AI 输出在流式每一帧均可渲染。同一文档可渲染到 React、Vue、Svelte、Angular、HTML 与终端（ANSI），支持组件、属性语法与插件生态（Shiki、KaTeX、Mermaid、markdown-it 插件兼容）。以 npm 多包形式分发，核心包加各框架渲染器包。组件语法基于 MDC 五年生产使用。
+开源 Markdown 解析与渲染库：将 CommonMark/GFM 解析为可序列化的紧凑文档，支持构建时、运行时与流式三种解析时机；同一文档可渲染到 React、Vue、Svelte、Angular、HTML 与 ANSI 终端。内置流式自动闭合未完成语法（如未闭合的粗体、代码块、组件），提供组件、属性扩展语法与插件生态（Shiki、KaTeX、Mermaid 等），兼容 markdown-it 插件。基于 markdown-exit 构建，TypeScript 编写，以 npm 多包形式发布。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 流式渲染内置：auto-close 补全未终止语法（加粗、代码围栏、半开组件）
-- 单一解析器输出到 React/Vue/Svelte/Angular/HTML/ANSI 六种渲染目标
-- 解析与渲染解耦：服务端解析一次，客户端免重复解析渲染
-- 插件生态：Shiki 高亮、KaTeX 数学、Mermaid 图表，兼容 markdown-it 插件
+- 流式解析内置自动闭合，未终止语法在每帧均可正确渲染
+- 一次解析、多端渲染：HTML、ANSI、Vue、React、Svelte、Angular
+- 组件与属性语法（源自 MDC），插件生态含 Shiki/KaTeX/Mermaid/TOC
+- 解析与渲染解耦，服务端解析后客户端免重复解析
 
 ## 适用场景
 
-- LLM 聊天应用中流式渲染模型输出的 Markdown 与富组件
-- 同一份 Markdown 内容跨多个前端框架渲染，避免框架锁定
-- 终端（ANSI）场景下渲染 Markdown 内容
+- 在聊天界面中流式渲染 LLM 返回的 Markdown 消息
+- CMS 或数据库内容无需重建即可实时解析渲染
+- 同一份 Markdown 内容跨多个前端框架复用
 
 ## 场景标签
 
- · 领域:前端/LLM 应用基础设施
+ · 领域:前端工具/内容渲染
 
 ## 证据(README 行号)
 
-> L12: Comark is an open-source Markdown parser and renderer with components, attributes and plugins. It streams AI output
+> L12: Comark is an open-source Markdown parser and renderer with components, attributes, and plugins. It streams AI outpu
+> L25: - **Runtime parsing**: `parseMarkdown(markdown)` is a pure function returning a compact, serializable Markdown docu
 > L26: - **Streaming built in**: auto-close completes unterminated syntax (`**bold`, open code fences, half-open component
 
 ## 星数曲线
@@ -45,13 +46,13 @@
 ```mermaid
 xychart-beta
     title "comarkdown/comark 星数(近 22 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1061 --> 1113
-    line [1065, 1067, 1072, 1073, 1074, 1077, 1080, 1081, 1083, 1084, 1085, 1073, 1094, 1097, 1098, 1101, 1102, 1104, 1105, 1107, 1108, 1109]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 1063 --> 1113
+    line [1067, 1072, 1073, 1074, 1077, 1080, 1081, 1083, 1084, 1085, 1073, 1094, 1097, 1098, 1101, 1102, 1104, 1105, 1107, 1108, 1109, 1109]
 ```
 
-2026-10-21 1,065 → 2026-11-23 1,109（+44）
+2026-10-22 1,067 → 2026-11-24 1,109（+42）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b5c6e4d896eb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `f117b49cb742` · [字段定义](../../DATASET.md)*

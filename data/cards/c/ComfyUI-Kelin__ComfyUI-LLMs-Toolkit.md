@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ComfyUI-Kelin/ComfyUI-LLMs-Toolkit 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-14", "2026-11-23"]
-    y-axis "stars" 30 --> 35
-    line [31, 32, 33, 34, 34]
+    title "ComfyUI-Kelin/ComfyUI-LLMs-Toolkit 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-14", "2026-11-24"]
+    y-axis "stars" 31 --> 35
+    line [32, 33, 34, 34]
 ```
 
-2026-10-21 31 → 2026-11-23 34（+3）
+2026-10-22 32 → 2026-11-24 34（+2）
 
 
 ---

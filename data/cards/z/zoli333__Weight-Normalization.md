@@ -41,6 +41,18 @@
 > L6: https://arxiv.org/pdf/1602.07868.pdf
 > L8: Version: Pytorch 2.1.1+cu118
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zoli333/Weight-Normalization 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
+```
+
+2026-11-23 26 → 2026-11-24 26（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `dd056637fe1d` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MakeSomeFakeNews/lemon-ecom 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-20", "2026-11-23"]
+    title "MakeSomeFakeNews/lemon-ecom 星数(近 4 点)"
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-23", "2026-11-24"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-11-16 3 → 2026-11-23 5（+2）
+2026-11-16 3 → 2026-11-24 5（+2）
 
 
 ---

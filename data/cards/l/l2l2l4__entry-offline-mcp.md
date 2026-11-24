@@ -40,6 +40,18 @@
 > L5: **Claude Code, Codex** 같은 AI 에이전트가 내 PC에 설치된 **엔트리 오프라인**(Entry, playentry.org)을 직접 조작해서
 > L145: AI 에이전트(Claude Code · Codex 등) ⇄ (MCP, stdio) ⇄ entry-offline-mcp ⇄ (Chrome DevTools Protocol) ⇄ 엔트리 오프라인(Electron
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "l2l2l4/entry-offline-mcp 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `30ad342ee7c6` · [字段定义](../../DATASET.md)*

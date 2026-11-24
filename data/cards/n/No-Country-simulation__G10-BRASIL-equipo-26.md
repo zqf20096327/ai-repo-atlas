@@ -46,12 +46,12 @@ Hackathon ONE G10 的参赛项目：接收 PDF/Markdown/TXT 技术文档，通�
 ```mermaid
 xychart-beta
     title "No-Country-simulation/G10-BRASIL-equipo-26 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-24"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-10 5 → 2026-11-23 5（+0）
+2026-11-10 5 → 2026-11-24 5（+0）
 
 
 ---

@@ -41,6 +41,18 @@ DeepSeek Harness（DSH）的插件，解决 Clash/Surge/v2rayN 等代理软件�
 > L11: **开着 Clash、Surge、v2rayN 这类代理软件时，DeepSeek Harness 的 `web_fetch` 抓不了网页？装上这个插件就好了。**
 > L39: |DeepSeek Harness|桌面版 0.2.1、0.2.2（0.2.2-rc.1 已测）|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lightrivers/dsh-proxy-switch 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `8e18a9a79f69` · [字段定义](../../DATASET.md)*

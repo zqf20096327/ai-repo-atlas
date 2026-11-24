@@ -2,9 +2,9 @@
 
 ⭐ 1,152 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/codelibs/fess) · [官网](https://fess.codelibs.org) · 组织维护
 
-**自托管企业/站内搜索服务器：爬取多源文档并提供全文检索**
+**自托管企业搜索服务器：爬取多种数据源并提供全文/语义搜索**
 
-基于 OpenSearch 的企业搜索服务器，内置爬虫可采集网站、文件系统与数据库/云存储/CSV 等数据源，支持 Microsoft Office、PDF、压缩包等格式。通过浏览器管理界面配置，提供 REST API、角色权限过滤、LDAP/OIDC/SAML 等单点登录，界面与文本分析覆盖 20+ 语言，可经插件扩展。仓库描述提及 AI/RAG 与语义搜索能力。安装形式包括 ZIP/RPM/DEB 包与 Docker 镜像；除 Docker 镜像捆绑 OpenSearch 外，需自行部署 OpenSearch 后端，ZIP/RPM/DEB 需 Java 21 或更高版本运行时。
+基于 OpenSearch 构建的企业级搜索服务器，可运行在任何有 Java 运行时的平台，通过浏览器管理界面配置而无需 OpenSearch 知识。内置爬虫采集网站、文件系统、数据库、CSV 及云/SaaS 数据源（Confluence、SharePoint、S3、Salesforce 等 15+ 种），支持 Office/PDF/ZIP 等文档格式。提供全文搜索的分面、排序、建议，基于角色权限的结果过滤，LDAP/OIDC/SAML 单点登录，20+ 语言界面与文本分析，REST API 与插件扩展。提供 ZIP/DEB/RPM 包与 Docker 镜像。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@
 
 ## 能力要点
 
-- 爬虫支持网站、文件系统与数据库/云存储/SaaS 等数据源（Confluence、SharePoint、S3、Slack 等）
-- 全文检索含分面、排序与搜索建议，角色/权限过滤搜索结果
-- 支持 LDAP、OpenID Connect、SAML、SPNEGO、Microsoft Entra ID 单点登录
-- 20+ 语言的界面与文本分析，插件机制扩展数据源与主题
+- 内置爬虫覆盖 web、文件系统、数据库与 15+ 种云/SaaS 数据源
+- 基于角色的搜索结果权限过滤与 LDAP/OIDC/SAML/SPNEGO/Entra ID 单点登录
+- 20+ 语言的多语言界面与文本分析
+- 浏览器管理 UI、REST API 及 data store/ingest/script/theme 四类插件扩展
 
 ## 适用场景
 
-- 企业内部对网站、文件服务器和数据库内容做统一检索
-- 在自己网站中嵌入站内搜索（替代已停服的 Google Site Search）
-- 通过 REST API 将搜索能力集成到其他系统
+- 为企业内部文档和数据库搭建统一搜索入口
+- 在官网嵌入站点搜索（Fess Site Search）
+- 从 Google Site Search 等迁移自建搜索服务
+- 爬取 Confluence/SharePoint/S3 等企业数据源建立索引
 
 ## 场景标签
 
-`网页抓取` `语义搜索` · 领域:效率与自动化
+`语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L8: Fess is an enterprise search server that you can install and run on any platform with a Java runtime. It is built on
-> L10: A built-in crawler collects documents from web sites, file systems, and data stores such as databases and CSV files
+> L17: - Crawlers for web sites, file systems, and data stores (databases, cloud storage, and SaaS)
+> L20: - Role- and permission-based filtering of search results
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "codelibs/fess 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-24"]
     y-axis "stars" 1141 --> 1153
     line [1142, 1145, 1146, 1147, 1148, 1151, 1152, 1151, 1152, 1152]
 ```
 
-2026-10-21 1,142 → 2026-11-23 1,152（+10）
+2026-10-22 1,142 → 2026-11-24 1,152（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `4d98aa646ed4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `effea9ef09f3` · [字段定义](../../DATASET.md)*

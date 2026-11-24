@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 134 --> 140
-    line [135, 136, 138, 139, 139]
+    title "sayedgamal99/Real-Time-Smoke-Fire-Detection-YOLO11 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 135 --> 140
+    line [136, 138, 139, 139]
 ```
 
-2026-10-21 135 → 2026-11-23 139（+4）
+2026-10-22 136 → 2026-11-24 139（+3）
 
 
 ---

@@ -45,13 +45,13 @@ NeonClipping 将 YouTube/Twitch/Kick 长视频或本地 MP4 转为带字幕、�
 
 ```mermaid
 xychart-beta
-    title "iamajmeena/neonclipping 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "iamajmeena/neonclipping 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1679 --> 2115
-    line [1715, 2079]
+    line [1715, 2079, 2079]
 ```
 
-2026-11-22 1,715 → 2026-11-23 2,079（+364）
+2026-11-22 1,715 → 2026-11-24 2,079（+364）
 
 
 ---

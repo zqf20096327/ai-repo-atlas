@@ -45,12 +45,12 @@ FastAPI + 浏览器前端的全栈应用：上传 PDF/DOCX/TXT 简历后，本�
 ```mermaid
 xychart-beta
     title "Nikhil-creat/vitaforge-fullstack 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-21 4 → 2026-11-23 4（+0）
+2026-10-22 4 → 2026-11-24 4（+0）
 
 
 ---

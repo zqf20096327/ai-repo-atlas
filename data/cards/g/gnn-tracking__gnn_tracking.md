@@ -45,12 +45,12 @@ GNN Tracking 项目的主 Python 包：以图神经网络实现带电粒子径�
 ```mermaid
 xychart-beta
     title "gnn-tracking/gnn_tracking 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-21 53 → 2026-11-23 53（+0）
+2026-10-22 53 → 2026-11-24 53（+0）
 
 
 ---

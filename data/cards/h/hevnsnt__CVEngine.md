@@ -2,9 +2,9 @@
 
 ⭐ 748 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/hevnsnt/CVEngine) · 个人维护
 
-**自托管外部攻击面管理平台：资产发现、CVE 匹配与只读验证**
+**自托管外部攻击面评估平台：持续发现资产并以证据验证漏洞**
 
-基于 Django/PostgreSQL 的自托管攻击面评估系统（reNgine 2.x 的 fork）：用 bbot/nmap/naabu/nuclei 持续发现资产、指纹服务版本，与 cve.now 等利用情报源按产品版本匹配，用只读检查验证漏洞，并以 Shodan 风格搜索、时间线和告警运营。AI 为可选增强：自带 Anthropic/OpenAI/OpenRouter/Ollama/vLLM key 做 triage、定向扫描与模板草拟，无模型时发现、扫描、匹配与验证仍可运行。提供 REST API 与 MCP server 供 agent 接入，含赏金工作台。单命令 Linux 安装脚本，Docker Compose 部署，GPL-3.0。
+cvENGINE 是一个自托管的外部攻击面与漏洞评估平台：输入域名后持续发现子域名、地址与证书，生成可按 Shodan 风格语法搜索的主机清单，用开源扫描器评估每个主机，并全天候读取多个 CVE 情报源，将新 CVE 与受影响版本的主机匹配。AI 功能默认关闭，需自带密钥或本地模型：AI 可起草只读检测、做误报分诊与复核，但系统验证与硬证据可覆盖模型结论；无模型时发现、扫描、匹配与验证功能仍可用。提供 MCP 服务器与 REST API 供开发者的 agent 接入。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- bbot/nmap/naabu/nuclei 持续资产发现与全端口后台扫描
-- fire/smoke/ice 分级匹配 CISA KEV/ENISA/EPSS 等利用情报
-- 只读验证（nuclei 模板/nmap/banner/数据库检查）记录确切命令
-- 可选 BYO AI（Anthropic/OpenAI/OpenRouter/Ollama/vLLM）做 triage 与模板草拟，无模型仍可运行
+- 持续发现子域名/端口/证书，Shodan 风格可搜索清单
+- 每小时读取 CISA KEV、EPSS 等多个 CVE 情报源并匹配受影响主机
+- Sentinel 只读复检留存证据，硬证据设定模型不可越过下限
+- AI 分诊/复核默认关闭，支持云端或本地模型，主机名脱敏
 
 ## 适用场景
 
-- 持续盘点自有互联网暴露资产并跟踪变化
-- 判断今日被利用 CVE 是否命中我的环境并复现验证
-- 通过 REST API/MCP 让 agent 在权限体系内查询资产与发现
+- 把企业对外暴露的域名和资产纳入持续清点
+- 新 CVE 出现后自动判断哪些主机真的受影响
+- 用 AI 降低漏洞扫描的误报并留存验证证据
+- 通过 MCP 让开发 agent 查询与驱动攻击面数据
 
 ## 场景标签
 
@@ -37,22 +38,22 @@
 
 ## 证据(README 行号)
 
-> L38: **Bring your own AI.** Anthropic, OpenAI, OpenRouter, Ollama, or vLLM, with keys stored encrypted. Without a model,
-> L21: - **Verdicts, not noise.** AI triages your findings, read-only checks reproduce what they can, and fixed rules mean
-> L117: Create a token on **API tokens and MCP** and send `Authorization: Bearer <token>` to `/api/v1/`, or connect an MCP
+> L29: **Bring your own AI:** Anthropic, OpenAI or OpenRouter on your own key, or fully local with Ollama, LM Studio or vL
+> L46: cvENGINE is a self-hosted external attack surface and vulnerability assessment platform. Give it your domains and i
+> L107: |**AI (bring your own, off until you choose)**|Anthropic, OpenAI, OpenRouter, Ollama, LM Studio, vLLM|Finding tria
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "hevnsnt/CVEngine 星数(近 22 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "hevnsnt/CVEngine 星数(近 23 点)"
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 0 --> 820
-    line [19, 359, 412, 437, 465, 531, 545, 557, 691, 703, 710, 711, 715, 719, 738, 739, 742, 743, 744, 745, 747, 748]
+    line [19, 359, 412, 437, 465, 531, 545, 557, 691, 703, 710, 711, 715, 719, 738, 739, 742, 743, 744, 745, 747, 748, 748]
 ```
 
-2026-10-26 19 → 2026-11-23 748（+729）
+2026-10-26 19 → 2026-11-24 748（+729）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 high · 依据 README sha `4a98b93c0a7f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3aeb0283c891` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 650 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/apache/casbin-gateway) · [官网](https://gateway.casbin.org) · 组织维护 · 中文 README
 
-**本机 AI 编码 agent 的网关：监控、审计与统一接入 44 家模型厂商**
+**本机 AI 编码 agent 的统一网关：监控、鉴真 API、管权限**
 
-运行在本机的桌面/本地服务网关：把 Claude Code、Codex、Cursor、Gemini CLI 等 27 种 AI 编码 agent 指向统一端点，接入 44 家模型厂商或任意 OpenAI/Anthropic 兼容 base URL；用探针对上游 API 做真实性检验并给出 A–F 评级；基于 Casbin 策略对每个 agent 的工具、模型、供应商施加约 40 项权限开关；从 agent 自身的 transcript 读取用量与花费，记录完整请求；并支持安装、升级、回滚这些 agent。提供 Linux/macOS 与 Windows 一键脚本安装，数据存于本地 SQLite，无需数据库与额外运行时。
+面向在同一台机器上使用多个 AI 编码 agent 的用户：把 Claude Code、Codex、Cursor 等约 30 个 agent 指向统一端点，覆盖 44 个模型厂商预设，支持故障时切换厂商、按 agent 配置权限（约 40 个开关，经 Casbin 编译为策略并在转发时执行）、从 agent 自身 transcripts 读取用量与提示记录、对上游 API 真伪做 A–F 评级，并可安装/升级/回滚 agent。一条命令安装，数据存本地 SQLite，默认仅服务本机、localhost:17000 提供 Web 界面。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 27 种编码 agent 统一接入，44 家模型厂商预设，跨厂商故障转移与模型路由
-- 上游 API 真实性探针，按厂商独立评级 A–F
-- 基于 Casbin 策略的每 agent 约 40 项权限开关，逐请求强制执行
-- 从 agent 自身 transcript 读取用量/花费，记录完整提示词与工具 schema
+- 一个端点覆盖 44 个模型厂商预设，支持 OpenAI/Anthropic 兼容 base URL
+- 对每个上游 API 真伪直接探测并给出 A–F 评级
+- 约 40 个 per-agent 权限开关，编译为 Casbin 策略并在每次转发请求时执行
+- 从 agent 自身 transcripts 读取提示与花费，含未经代理的流量
 
 ## 适用场景
 
-- 查看本机所有 AI 编码 agent 的行为、花费与提示记录
-- 核验转售 API key 背后的模型是否货真价实
-- 一处更换 API key 或 base URL，所有 agent 生效
-- 集中安装、升级、回滚各编码 agent
+- 多个 AI 编码 agent 共用一套 API key 与厂商配置，集中切换
+- 核验中转/经销商提供的 API 是否真的是宣称的模型
+- 按 agent 限制可用工具、模型与厂商，并审计其提示与花费
+- 某个厂商额度用尽或故障时自动转移到下一个厂商
 
 ## 场景标签
 
@@ -38,22 +38,22 @@
 
 ## 证据(README 行号)
 
+> L96: - **Is that API key what it was sold as?** A reseller can serve a cheaper model, fake a cache hit, or quietly drop 
 > L98: - **One place for all of them.** Point Claude Code, Codex, Cursor, Gemini CLI and the rest at any of 44 model vendo
-> L141: |Read from the transcripts the agents write themselves, so it counts what never went through Gateway too|44 vendor
-> L198: - **Say what each agent may do** — around forty switches per agent, in groups, over its tools, models and provider
+> L199: - **Say what each agent may do** — around forty switches per agent, in groups, over its tools, models and provider
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "apache/casbin-gateway 星数(近 12 点)"
-    x-axis ["2026-10-21", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-24"]
     y-axis "stars" 642 --> 651
     line [643, 644, 643, 644, 645, 643, 648, 649, 650, 649, 650, 650]
 ```
 
-2026-10-21 643 → 2026-11-23 650（+7）
+2026-10-22 643 → 2026-11-24 650（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `441e69633387` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `ad02d3806161` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 751 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/agentic-box/memora) · 组织维护
 
-**给 AI agent 提供持久共享记忆的 MCP 记忆层服务**
+**给 AI agent 提供持久集体记忆的 MCP 记忆层**
 
-面向 AI agent 的 MCP 记忆服务器：以 SQLite（可选 S3/R2/Cloudflare D1 云同步）持久化存储事实，通过 LLM 分类实现吸收式写入（重复/更新/矛盾判定、去重合并）、更新取代旧知识的世系链、语义检索（TF-IDF/sentence-transformers/OpenAI 嵌入）、类型化边的知识图谱可视化，以及 markdown 文档片段树存储。一个进程可经 /mcp/<name> 路由服务多个存储库，提供 pip 本地 stdio 与容器 HTTP 服务两种安装路径，并给出 Claude Code 与 Codex CLI 的接入配置。容器路径依赖 Apple container CLI（需 Apple silicon + macOS 26）。
+以 MCP server 形式运行的 agent 记忆层：SQLite 本地存储，可选 S3/R2/D1 云同步，支持多数据库路由。核心机制包括 absorb 流程（LLM 对每条事实判定重复/更新/矛盾/相关/新增并跳过重复）、取代式谱系（更新不删除旧知识，检索默认沿链取最新版）、语义搜索（TF-IDF/sentence-transformers/OpenAI 嵌入）、typed 边的知识图谱与 Mermaid 可视化，并提供 RAG 聊天面板、事件通知与操作历史。通过 pip 安装或容器方式部署为 HTTP 服务，配置进 Claude Code/Codex CLI 使用。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- LLM 分类的 Absorb 写入：重复/更新/矛盾/关联判定与去重合并，支持 dry_run 预览
-- Supersession 世系链：更新取代而非删除，检索可按 active/latest/full_history 追溯
-- 多数据库路由：单进程经 /mcp/<name> 服务多个存储库
-- 44 个 MCP 工具可按 full/leader/agent 档位裁剪
+- absorb 流程由 LLM 分类事实（重复/更新/矛盾/相关/新增）并支持 dry_run 预览
+- 取代式谱系：更新保留旧版本链，检索默认跟随到当前版
+- 语义搜索支持 TF-IDF、sentence-transformers、OpenAI 嵌入与混合检索
+- 单进程多数据库路由，一个服务可按 /mcp/<name> 服务多个存储
 
 ## 适用场景
 
-- 让 Claude Code / Codex CLI 等 MCP 客户端跨会话保留和检索工作记忆
-- 多个 agent 通过事件通知与共享存储协同积累知识
-- 用知识图谱 UI 浏览和检索 agent 沉淀的记忆与文档
+- 为多个 agent 会话提供跨会话的持久记忆
+- 把文档存为可逐条语义检索的片段树
+- 通过图谱界面查看记忆间的关联与聚类
+- 多个 agent 之间通过事件通知协作
 
 ## 场景标签
 
@@ -38,20 +39,21 @@
 ## 证据(README 行号)
 
 > L6: An MCP memory layer for agents: structured storage, semantic retrieval, graph relations, and source-backed cross-ses
-> L142: The server runs automatically when configured in Claude Code. Manual invocation:
+> L83: Two paths. **pip** is a local stdio child the client spawns. A **container** is a detached HTTP service you start w
+> L165: The server runs automatically when configured in Claude Code. Manual invocation:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "agentic-box/memora 星数(近 13 点)"
-    x-axis ["2026-10-21", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-24"]
     y-axis "stars" 743 --> 752
     line [744, 745, 746, 745, 744, 747, 748, 749, 748, 749, 750, 751, 751]
 ```
 
-2026-10-21 744 → 2026-11-23 751（+7）
+2026-10-22 744 → 2026-11-24 751（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `228908e08b1a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `28b3f02475cc` · [字段定义](../../DATASET.md)*

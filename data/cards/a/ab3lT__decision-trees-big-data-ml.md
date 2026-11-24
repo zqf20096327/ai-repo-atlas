@@ -40,6 +40,18 @@ Big Data and Machine Learning 课程的决策树教学仓库，提供两个已�
 > L3: > **Course:** Big Data and Machine Learning
 > L6: > Hands-on, fully-executed Jupyter notebooks that teach **Decision Trees** for **classification** and **regression**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ab3lT/decision-trees-big-data-ml 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7406e64854f7` · [字段定义](../../DATASET.md)*

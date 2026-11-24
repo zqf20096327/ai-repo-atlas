@@ -45,13 +45,13 @@ ClawCode 是 Claude Code 的插件（非独立运行时），在会话生命周�
 
 ```mermaid
 xychart-beta
-    title "crisandrews/ClawCode 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
+    title "crisandrews/ClawCode 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 62 --> 65
-    line [64, 63, 64, 64]
+    line [63, 64, 64]
 ```
 
-2026-10-21 64 → 2026-11-23 64（+0）
+2026-10-22 63 → 2026-11-24 64（+1）
 
 
 ---

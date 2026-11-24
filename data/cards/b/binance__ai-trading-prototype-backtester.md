@@ -45,13 +45,13 @@ Binance 维护的开源回测工具，为配套实盘项目 ai-trading-prototype
 
 ```mermaid
 xychart-beta
-    title "binance/ai-trading-prototype-backtester 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "binance/ai-trading-prototype-backtester 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 64 --> 67
-    line [65, 66]
+    line [65, 66, 66]
 ```
 
-2026-10-21 65 → 2026-11-23 66（+1）
+2026-10-22 65 → 2026-11-24 66（+1）
 
 
 ---

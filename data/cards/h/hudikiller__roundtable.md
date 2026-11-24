@@ -41,6 +41,18 @@
 > L50: - **Isolation.** Each topic has its own workspace, Codex thread and sandbox.
 > L63: - **One intent model for everything.** Grants, stop, progress, accept/reject, machine choice, model choice, attachm
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hudikiller/roundtable 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `52f4de811e4d` · [字段定义](../../DATASET.md)*

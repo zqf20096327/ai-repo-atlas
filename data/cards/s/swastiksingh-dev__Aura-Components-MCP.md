@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "swastiksingh-dev/Aura-Components-MCP 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-22", "2026-11-23"]
+    title "swastiksingh-dev/Aura-Components-MCP 星数(近 4 点)"
+    x-axis ["2026-10-18", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 5 --> 14
-    line [6, 11, 13]
+    line [6, 11, 13, 13]
 ```
 
-2026-10-18 6 → 2026-11-23 13（+7）
+2026-10-18 6 → 2026-11-24 13（+7）
 
 
 ---

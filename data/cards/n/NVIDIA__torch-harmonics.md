@@ -2,15 +2,15 @@
 
 ⭐ 729 · Jupyter Notebook · BSD-3-Clause · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/torch-harmonics) · 组织维护
 
-**球面可微信号处理库：为 PyTorch 提供球谐变换等算子**
+**PyTorch 球面可微信号处理库，服务球面深度学习建模**
 
-NVIDIA 维护的 PyTorch 库，提供球面上可微信号算子：球谐变换（SHT）、向量球谐变换、离散-连续卷积（DISCO）与球面注意力机制，全部以 torch.nn.Module 形式提供以支持组合使用。SHT 用求积规则与 FFT 实现，可分布式到多 rank 做空间并行。支持等角、Legendre-Gauss、HEALPix 等多种网格描述符。最初为球面傅里叶神经算子（SFNO）实现，已被用于多个可微 PDE 求解器。CPU 版经 PyPI 安装，GPU 版需从 pypi.nvidia.com 安装对应 CUDA 版本的 wheel，或从源码编译。
+torch-harmonics 在 PyTorch 中实现球面上的可微信号处理，包括球谐变换（SHT）、矢量球谐变换和球面离散-连续（DISCO）卷积，并以 torch.nn.Module 形式提供以便组合；变换基于求积规则加 FFT，可在多 rank 上空间分布式执行。该包最初为支持球面傅里叶神经算子（SFNO）而实现，也已被用于构建可微 PDE 求解器。安装上提供含 CUDA 扩展的预编译 Linux wheel（按 CUDA 版本）、CPU-only wheel、源码编译与 Docker 容器四种途径；自定义 CUDA 扩展要求 GPU 架构 ≥ 7.0。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | BSD-3-Clause |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,38 +20,40 @@ NVIDIA 维护的 PyTorch 库，提供球面上可微信号算子：球谐变换�
 
 ## 能力要点
 
-- 可微的球谐变换/向量球谐变换实现，基于 PyTorch 原语
-- 球面离散-连续卷积（DISCO）与球面邻域注意力机制
-- 支持 5 种网格描述符（含 HEALPix），网格间可互映射
-- 分布式 SHT 支持多 rank 空间划分与模型并行
+- 提供可微的球谐变换与矢量球谐变换实现
+- 提供球面 DISCO 卷积与球面（邻域）注意力机制
+- 支持多种网格类型（Equiangular/Fejér-1/Legendre-Gauss/Lobatto/Trapezoidal/HEALPix）
+- 求积可分布到多 rank，实现空间分布式计算
 
 ## 适用场景
 
-- 构建球面数据上的神经算子或 PDE 求解器
-- 气候/地球科学球面网格数据的可微变换与卷积
-- 在 HEALPix 天文网格上做注意力与卷积运算
+- 为球面数据（如气象/气候再分析场）构建神经网络层
+- 实现球面上的可微 PDE 求解器
+- 开发 SFNO 等球面神经算子模型
+- 处理 HEALPix 等结构化与非结构化球面网格数据
 
 ## 场景标签
 
- · 领域:科学计算/可微球面信号处理
+ · 领域:科学计算/深度学习库
 
 ## 证据(README 行号)
 
 > L16: torch-harmonics implements differentiable signal processing on the sphere. This includes differentiable implementat
-> L20: torch-harmonics uses PyTorch primitives to implement these operations, making it fully differentiable. Moreover, th
+> L22: torch-harmonics has been used to implement a variety of differentiable PDE solvers which generated the animations b
+> L161: The main functionality of `torch_harmonics` is provided in the form of `torch.nn.Modules` for composability. A min
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "NVIDIA/torch-harmonics 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-24"]
     y-axis "stars" 718 --> 730
     line [719, 720, 721, 720, 727, 729, 729]
 ```
 
-2026-10-21 719 → 2026-11-23 729（+10）
+2026-10-22 719 → 2026-11-24 729（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `18258e050e57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2dd8038e11e3` · [字段定义](../../DATASET.md)*

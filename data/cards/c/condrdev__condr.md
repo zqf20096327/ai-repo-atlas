@@ -46,12 +46,12 @@ Condr 由 Server 与 Client 两部分组成：Server 后台托管终端进程与
 ```mermaid
 xychart-beta
     title "condrdev/condr 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-23"]
+    x-axis ["2026-11-11", "2026-11-24"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-11 13 → 2026-11-23 13（+0）
+2026-11-11 13 → 2026-11-24 13（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 1,079 · CC0-1.0 · 推送 2026-11-21 · [GitHub](https://github.com/WecoAI/awesome-autoresearch) · 组织维护
 
-**AutoResearch 用例策展清单：含优化轨迹与开源实现**
+**AutoResearch 应用案例与优化轨迹的开源实现策展清单**
 
-WecoAI 维护的 AutoResearch 用例聚合清单：AutoResearch 本身是一个由 Karpathy 发布的 program.md 提示词，指示编码 agent 对单文件做迭代优化（运行评估、按指标保留或回退改动）。清单收录 17 个社区用例（nanoGPT 训练优化、Shopify Liquid 模板引擎提速、CUDA 核优化、蛋白质折叠架构搜索等），每个条目附优化轨迹链接；另含 2 个评测基准与 12 个实现/分支（含 MLX、Windows RTX、分布式等移植）。
+由 Weco AI 维护的策展清单，收录 AutoResearch（源自 Karpathy 的 program.md 优化工作流：编码代理迭代编辑 train.py、按评估指标保留或回滚修改）的应用案例 19 项，每条附优化轨迹链接；另收录 3 个基准评测（ResearchClawBench、FML-bench、SciΠvot）和 16 个实现与分叉项目，涵盖 LLM 训练、GPU 内核、符号回归、量化 Alpha 等方向。README 本身不含安装与运行说明，License 为 CC0 1.0。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ WecoAI 维护的 AutoResearch 用例聚合清单：AutoResearch 本身是一个�
 
 ## 能力要点
 
-- 17 个用例条目，每条附实际优化轨迹链接
-- 收录 2 个评测基准（ResearchClawBench、FML-bench）
-- 12 个实现与分支：MLX/Windows RTX/分布式/多 agent 等移植
-- 核心机制为 keep/revert 循环：对单文件迭代优化并按评估指标取舍
+- 19 个带优化轨迹链接的应用案例
+- 收录 3 个 AI 研究代理基准评测
+- 16 个实现/分叉项目（MLX、Windows RTX、分布式等移植）
+- 由 Weco AI 维护，License 为 CC0 1.0
 
 ## 适用场景
 
-- 查找 AutoResearch 在训练优化、内核加速等任务上的实际效果与轨迹
-- 选择适合自己硬件与场景的 autoresearch 实现或分支
-- 了解该领域的评测基准与研究报告
+- 查找 AutoResearch 在不同领域（GPU 内核、蛋白折叠、量化等）的落地案例与优化轨迹
+- 为 AI 研究代理选择合适的基准评测
+- 对比社区各种 AutoResearch 实现与分叉方案
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ WecoAI 维护的 AutoResearch 用例聚合清单：AutoResearch 本身是一个�
 ## 证据(README 行号)
 
 > L3: A curated list of AutoResearch use cases **with optimization traces** and open source implementations. Every entry i
-> L7: AutoResearch is, at its core, a prompt. Karpathy released it as a single markdown file - `program.md`, that instruct
+> L42: ## Implementations & Forks
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "WecoAI/awesome-autoresearch 星数(近 11 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-23"]
+    title "WecoAI/awesome-autoresearch 星数(近 12 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1070 --> 1080
-    line [1071, 1073, 1075, 1074, 1075, 1076, 1073, 1078, 1077, 1078, 1079]
+    line [1071, 1073, 1075, 1074, 1075, 1076, 1073, 1078, 1077, 1078, 1079, 1079]
 ```
 
-2026-10-20 1,071 → 2026-11-23 1,079（+8）
+2026-10-21 1,071 → 2026-11-24 1,079（+8）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c9f4ecf1002c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3e299cc8a3e4` · [字段定义](../../DATASET.md)*

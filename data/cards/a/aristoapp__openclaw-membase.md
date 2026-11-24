@@ -45,12 +45,12 @@ OpenClaw 框架的记忆插件，接入 Membase 云服务（可指向自托管�
 ```mermaid
 xychart-beta
     title "aristoapp/openclaw-membase 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-21 39 → 2026-11-23 39（+0）
+2026-10-22 39 → 2026-11-24 39（+0）
 
 
 ---

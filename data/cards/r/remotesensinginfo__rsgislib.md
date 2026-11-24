@@ -45,12 +45,12 @@ RSGISLib 是一套处理遥感与 GIS 数据集的 Python 模块工具集合，�
 ```mermaid
 xychart-beta
     title "remotesensinginfo/rsgislib 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 176 --> 178
     line [177, 177]
 ```
 
-2026-10-21 177 → 2026-11-23 177（+0）
+2026-10-22 177 → 2026-11-24 177（+0）
 
 
 ---

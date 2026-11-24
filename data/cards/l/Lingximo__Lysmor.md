@@ -41,6 +41,18 @@ Lysmor 将 AI 伴侣系统拆成可复用模块：长期记忆库（文档+向�
 > L41: - Ollama（本地模型：视觉 `qwen3-vl:4b`、向量 `bge-m3`）
 > L44: - 一个 DeepSeek API Key（`platform.deepseek.com`）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lingximo/Lysmor 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-23 25 → 2026-11-24 25（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ca0860fe4c09` · [字段定义](../../DATASET.md)*

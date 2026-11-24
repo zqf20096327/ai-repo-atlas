@@ -2,9 +2,9 @@
 
 ⭐ 864 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hoophq/hoop) · [官网](https://hoop.dev) · 组织维护
 
-**代理数据库流量的开源 sidecar：为 AI agent 做数据脱敏与拦截危险 SQL**
+**AI Agent 运行时边车：脱敏数据并拦截破坏性命令**
 
-MIT 许可的单二进制 sidecar，部署在 agent 与数据库之间，agent 只需改连接端口。提供四项控制：内存中重写响应的敏感字段（不改请求）、有序 deny 规则的 Guardrails、本地规则先行加模型评分的 Session Analyzer、人工审批 Reviews。支持 PostgreSQL、SQL Server、HTTP 协议；另含控制平面与仍受支持的原有 gateway（RBAC、会话录制等）。控制平面部分功能（如 UI 配置、审批队列）标注未建成。
+以边车形式部署在 Agent 与数据库/资源之间：修改连接串端口即可接入，无需 SDK 或 prompt 改动。四大控制：响应内存中重写敏感字段的数据脱敏、按有序 deny list 拒绝破坏性语句并以 pgwire 错误回传原因、由 Agent 打分动作风险的 Session Analyzer（本地规则先于模型调用）、高风险操作升级人工一次性审批。单二进制单配置文件，支持 PostgreSQL、MSSQL、HTTP 三种协议；附带控制平面统一管理边车集群，仓库中另含仍受支持的人类基础设施访问网关。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ MIT 许可的单二进制 sidecar，部署在 agent 与数据库之间，agent �
 
 ## 能力要点
 
-- 数据脱敏在内存中重写响应，请求本身不被改动
-- Guardrails 以 pgwire 真实错误返回拒绝原因
-- Session Analyzer 本地规则先执行，避免无谓模型调用
-- 支持 PostgreSQL / SQL Server / HTTP 三种协议
+- 脱敏在内存中重写响应，请求本身不被改动
+- Guardrails deny list 拦截破坏性 SQL 并回传可配置原因
+- Session Analyzer 本地规则先行，被拒语句不消耗模型调用
+- Agent 无感知接入：仅改连接串端口
 
 ## 适用场景
 
-- 生产环境中约束 AI agent 对数据库的访问
-- 防止 agent 执行 DELETE 等破坏性语句
-- 对 agent 会话做风险评分并升级人工审批
+- 让 Agent 访问生产数据库时隐藏敏感字段
+- 阻止 Agent 执行 DELETE/DROP 等破坏性语句
+- 高风险 Agent 操作走人工审批队列
+- 统一管理多台边车的脱敏与拦截规则
 
 ## 场景标签
 
@@ -37,22 +38,21 @@ MIT 许可的单二进制 sidecar，部署在 agent 与数据库之间，agent �
 
 ## 证据(README 行号)
 
-> L13: **The query runs. The sensitive fields stay hidden.**
-> L71: ## The Four Controls
-> L89: Wire protocols outlive models, frameworks, and MCP. The sidecar works behind whatever interface your agent uses.
+> L1: Runtime control for agents
+> L77: **Session Analyzer.** An agent scores every action's intent and syntax for risk before it executes. Local rules run
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "hoophq/hoop 星数(近 19 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-24"]
     y-axis "stars" 828 --> 867
     line [831, 834, 836, 837, 838, 839, 840, 841, 836, 847, 853, 856, 857, 859, 861, 862, 863, 864, 864]
 ```
 
-2026-10-20 831 → 2026-11-23 864（+33）
+2026-10-21 831 → 2026-11-24 864（+33）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `6cc18751fa91` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `31fd6bb8380d` · [字段定义](../../DATASET.md)*

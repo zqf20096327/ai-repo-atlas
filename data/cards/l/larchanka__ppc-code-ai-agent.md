@@ -41,6 +41,18 @@
 > L36: - **Multi-Provider AI**: Connects to **Anthropic Claude**, **Google Gemini** (with a free tier requiring no credit 
 > L37: - **Agentic Tool Execution**: Autonomously inspects directories, reads files, writes code, and executes shell comma
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "larchanka/ppc-code-ai-agent 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `372058d7040d` · [字段定义](../../DATASET.md)*

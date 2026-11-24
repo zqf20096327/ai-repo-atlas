@@ -2,9 +2,9 @@
 
 ⭐ 746 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Han-1413141/dsh-cost-meter) · 个人维护 · 中文 README
 
-**DeepSeek Harness 的成本追踪插件：会话费用、token 用量与配额监控**
+**DeepSeek Harness 的成本与额度追踪插件**
 
-面向 DeepSeek Harness（DSH）web GUI 的会话成本追踪插件，提供中英双语 UI。功能包括：按会话/按日/按周期的成本统计与趋势、每模型成本卡片、官方与自定义供应商余额查询、预算与超额提醒、OpenCode Go 及多家厂商 Coding Plan 配额查询（Anthropic/Z.ai/MiniMax/Kimi/OpenRouter 等）、峰谷时段定价显示、170+ 模型 ID 价格目录与一键同步、SQLite/JSONL 会话存储的历史回填。声明最低宿主版本 DSH 0.2.0，需在宿主内以插件方式安装。
+以 DSH 插件形式安装的用量与成本面板：按会话、模型和调用记录费用与 token，聚合各订阅计划额度与账户余额，区分 API 计费与 Plan 等价成本，支持多服务商定价、峰谷时段提醒与日/月/累计预算。提供中英双语界面、深浅主题、统计导出与历史导入，含父/子 agent 成本归因。需 Node.js ≥20、DSH 0.2.0+ 与 pnpm，桌面端另有安装器。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 会话/日/周/月成本统计、模型与会话排名、预算与超额告警
-- 多家厂商 Coding Plan 配额查询（Anthropic/Z.ai/MiniMax/Kimi/OpenRouter 等 13 家）
-- 峰谷时段（UTC）定价显示与中国节假日全天谷价判定
-- 内置 170+ 模型 ID 价格目录自动匹配，安装后自动回填历史会话
+- 按会话、模型、调用维度追踪成本与 token，含子 agent 成本归因
+- 聚合 Codex/ChatGPT、Claude、GLM、Kimi 等多计划额度与自定义余额源
+- 同步 DeepSeek 官方价格与 OpenRouter 目录，峰谷定价分级与提醒
+- 中英双语 UI、预算管理与用量导出
 
 ## 适用场景
 
-- 我在用 DeepSeek Harness 时想实时看到每次对话花了多少钱
-- 我订阅了多家 Coding Plan，想在侧边栏统一查看剩余配额
-- 我想设置月度预算并在超额前收到峰谷切换提醒
+- 使用 DeepSeek Harness 时掌握每次会话的 token 与费用明细
+- 为多个模型订阅计划设置预算并在超支前收到提醒
+- 按日期、服务商、模型筛选导出用量做账目统计
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
-> L5: **Session cost tracking plugin for the DeepSeek Harness web GUI (bilingual UI)**
-> L29: **Minimum supported host: DSH 0.2.0.** The plugin declares the floor in `engines.dsh`, the host's admission gate fo
-> L25: Per-conversation cost · daily totals · OpenCode Go subscription quota display · budget with usage percentage · offi
+> L3:  Cost tracking and subscription quotas for DeepSeek Harness
+> L13: Track costs and tokens by conversation, model and call. View account balances, subscription quotas and budgets toge
+> L27: dsh plugin --profile web add dsh-cost-meter
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Han-1413141/dsh-cost-meter 星数(近 27 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "Han-1413141/dsh-cost-meter 星数(近 28 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 438 --> 774
-    line [466, 498, 507, 517, 533, 541, 555, 564, 576, 583, 588, 596, 517, 650, 669, 676, 679, 686, 695, 701, 707, 716, 720, 728, 737, 741, 746]
+    line [466, 498, 507, 517, 533, 541, 555, 564, 576, 583, 588, 596, 517, 650, 669, 676, 679, 686, 695, 701, 707, 716, 720, 728, 737, 741, 746, 746]
 ```
 
-2026-10-20 466 → 2026-11-23 746（+280）
+2026-10-21 466 → 2026-11-24 746（+280）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b63a25c9b522` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e6c503d28005` · [字段定义](../../DATASET.md)*

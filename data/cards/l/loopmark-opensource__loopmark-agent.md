@@ -42,6 +42,18 @@
 > L24: |**Posting**|Create social content, email campaigns, content calendars, and **automatically publish** to social pla
 > L117: All agents are **ReAct** agents built with LangGraph. Data is persisted as JSON in `data/`.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "loopmark-opensource/loopmark-agent 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b6a5af1c0de6` · [字段定义](../../DATASET.md)*

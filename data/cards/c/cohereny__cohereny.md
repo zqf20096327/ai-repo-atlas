@@ -46,12 +46,12 @@ Cohereny 将 system prompt、领域知识、示例、工具 schema 与路由规�
 ```mermaid
 xychart-beta
     title "cohereny/cohereny 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-23"]
+    x-axis ["2026-11-08", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-23 3（+0）
+2026-11-08 3 → 2026-11-24 3（+0）
 
 
 ---

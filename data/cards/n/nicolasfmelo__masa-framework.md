@@ -45,12 +45,12 @@ MASA（Modular Agentic Semantic Architecture）是一套架构规范框架，目
 ```mermaid
 xychart-beta
     title "nicolasfmelo/masa-framework 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-23"]
+    x-axis ["2026-10-29", "2026-11-24"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-29 11 → 2026-11-23 11（+0）
+2026-10-29 11 → 2026-11-24 11（+0）
 
 
 ---

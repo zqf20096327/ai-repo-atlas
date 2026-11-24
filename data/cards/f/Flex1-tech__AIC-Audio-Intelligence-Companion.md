@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Flex1-tech/AIC-Audio-Intelligence-Companion 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "Flex1-tech/AIC-Audio-Intelligence-Companion 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
 ```
 
-2026-10-21 12 → 2026-11-23 13（+1）
+2026-10-22 13 → 2026-11-24 13（+0）
 
 
 ---

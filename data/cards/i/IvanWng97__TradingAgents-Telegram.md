@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvanWng97/TradingAgents-Telegram 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 44 --> 48
-    line [45, 46, 47, 47]
+    title "IvanWng97/TradingAgents-Telegram 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 45 --> 48
+    line [46, 47, 47]
 ```
 
-2026-10-21 45 → 2026-11-23 47（+2）
+2026-10-22 46 → 2026-11-24 47（+1）
 
 
 ---

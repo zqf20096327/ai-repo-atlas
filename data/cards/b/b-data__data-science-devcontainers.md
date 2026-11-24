@@ -46,12 +46,12 @@ b-data GmbH 维护的 dev container 镜像集合，提供 linux/amd64 与 linux/
 ```mermaid
 xychart-beta
     title "b-data/data-science-devcontainers 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-21 41 → 2026-11-23 41（+0）
+2026-10-22 41 → 2026-11-24 41（+0）
 
 
 ---

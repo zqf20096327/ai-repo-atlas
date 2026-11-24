@@ -43,12 +43,12 @@ GetMaterial 是一个面向 NIST 学生群体的协作式笔记共享平台：�
 ```mermaid
 xychart-beta
     title "talaganaRajesh/getmaterial 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-21 11 → 2026-11-23 11（+0）
+2026-10-22 11 → 2026-11-24 11（+0）
 
 
 ---

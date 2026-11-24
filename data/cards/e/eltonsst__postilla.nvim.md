@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eltonsst/postilla.nvim 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "eltonsst/postilla.nvim 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 20 --> 23
-    line [21, 22]
+    line [21, 22, 22]
 ```
 
-2026-10-21 21 → 2026-11-23 22（+1）
+2026-10-22 21 → 2026-11-24 22（+1）
 
 
 ---

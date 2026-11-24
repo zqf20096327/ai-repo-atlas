@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "zenoyang-ai/nihaixia-knowledge-graph 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "zenoyang-ai/nihaixia-knowledge-graph 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 101 --> 104
-    line [102, 103]
+    line [102, 103, 103]
 ```
 
-2026-11-22 102 → 2026-11-23 103（+1）
+2026-11-22 102 → 2026-11-24 103（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SkeneTechnologies/skene-cookbook 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 53 --> 56
-    line [54, 55, 55]
+    title "SkeneTechnologies/skene-cookbook 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 54 --> 56
+    line [55, 55]
 ```
 
-2026-10-21 54 → 2026-11-23 55（+1）
+2026-10-22 55 → 2026-11-24 55（+0）
 
 
 ---

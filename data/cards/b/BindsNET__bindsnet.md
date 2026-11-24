@@ -2,9 +2,9 @@
 
 ⭐ 1,707 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/BindsNET/bindsnet) · 组织维护
 
-**基于 PyTorch 的脉冲神经网络（SNN）仿真库，面向 ML/RL 研究**
+**基于 PyTorch 的脉冲神经网络仿真库，面向 ML/RL 研究者**
 
-Python 仿真库，用 PyTorch Tensor 在 CPU/GPU 上模拟脉冲神经网络，将描述神经元动力学的常微分方程转为差分方程按毫秒级时间步求解。支持 STDP 等突触可塑性学习规则（与论文方程逐一验证）、无监督/监督/强化学习示例脚本，强化学习环境内置 Gymnasium 与 ale-py。由 Tufts 大学 BINDS 实验室与 Allen Discovery Center 用于 SNN、ML 与 RL 研究。提供 pip、poetry 可复现安装与 Docker 镜像，不附带第三方数据集（由加载器从上游获取）。
+BindsNET 是一个 Python 包，使用 PyTorch Tensor 在 CPU 或 GPU 上模拟脉冲神经网络（SNN），面向生物启发机器学习算法的开发。基于 STDP 等突触可塑性规则修改突触权重，支持无监督学习、监督学习与强化学习（含 Gymnasium 与 Atari ALE 环境）。提供 MNIST 复现、Breakout 强化学习等示例脚本，学习规则与对应论文公式对照验证，REPRODUCING.md 提供结果复现命令与版本快照。要求 Python >=3.11,<3.14，采用 AGPLv3 许可。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Python 仿真库，用 PyTorch Tensor 在 CPU/GPU 上模拟脉冲神经网络，
 
 ## 能力要点
 
-- 基于 PyTorch Tensor 的 CPU/GPU 脉冲神经网络仿真
-- STDP 等学习规则逐条对照源论文方程并附带测试
-- 内置无监督/监督/强化学习（Atari Breakout）示例脚本
-- 提供 poetry.lock 可复现安装与 Docker 镜像
+- 基于 PyTorch Tensor 在 CPU/GPU 上模拟 SNN
+- 使用 STDP 等学习规则，权重规则与论文公式对照验证
+- 集成 Gymnasium 与 Arcade Learning Environment 用于强化学习
+- 提供基准测试脚本对比 BRIAN2/PyNEST/ANNarchy 等模拟器
 
 ## 适用场景
 
-- 研究者实现和验证生物学启发的 SNN 学习算法
-- 将 SNN 用于分类、聚类等机器学习任务
-- 将 SNN 作为强化学习 agent 与 Gymnasium/Atari 环境交互
-- 复现 Diehl & Cook 2015 等已发表论文结果
+- 研究基于 STDP 的无监督脉冲神经网络学习
+- 将 SNN 作为强化学习智能体接入 Atari 环境
+- 复现已发表的 SNN 实验结果（按版本 DOI 引用）
+- 对 SNN 模拟器进行基准测试
 
 ## 场景标签
 
@@ -40,20 +40,20 @@ Python 仿真库，用 PyTorch Tensor 在 CPU/GPU 上模拟脉冲神经网络，
 
 > L1: A Python package used for simulating spiking neural networks (SNNs) on CPUs or GPUs using PyTorch `Tensor` functiona
 > L3: BindsNET is a spiking neural network simulation library geared towards the development of biologically inspired algo
-> L5: This package is used as part of ongoing research on applying SNNs, machine learning (ML) and reinforcement learning 
+> L134: We are interested in applying SNNs to ML and RL problems. We use STDP to modify weights of synapses connecting pai
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "BindsNET/bindsnet 星数(近 8 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-23"]
+    title "BindsNET/bindsnet 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1705 --> 1709
-    line [1706, 1707, 1706, 1707, 1708, 1707, 1706, 1707]
+    line [1706, 1707, 1706, 1707, 1708, 1707, 1706, 1707, 1707]
 ```
 
-2026-10-21 1,706 → 2026-11-23 1,707（+1）
+2026-10-22 1,706 → 2026-11-24 1,707（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fbd269b6928b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0bec1110d4a7` · [字段定义](../../DATASET.md)*

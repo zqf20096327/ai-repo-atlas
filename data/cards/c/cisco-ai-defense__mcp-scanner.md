@@ -2,9 +2,9 @@
 
 ⭐ 1,125 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/cisco-ai-defense/mcp-scanner) · [官网](https://blogs.cisco.com/ai/securing-the-ai-agent-supply-chain-with-ciscos-open-source-mcp-scanner) · 组织维护
 
-**扫描 MCP 服务器与工具安全风险的 Python 安全工具**
+**扫描 MCP 服务器与工具的安全隐患，供 MCP 使用者排查威胁**
 
-Cisco AI Defense 维护的 Python CLI/SDK/REST API 工具，用于扫描 MCP（Model Context Protocol）服务器、工具、提示、资源与服务器指令的安全风险。组合三种扫描引擎（YARA 规则、LLM 分析、Cisco AI Defense inspect API，可单独或联合使用），另提供 pip-audit 依赖漏洞扫描、VirusTotal 二进制恶意软件检测、Docker 沙箱内的 PyPI/npm 包行为分析，以及多语言行为代码扫描（10 种语言）。支持离线静态扫描用于 CI/CD。Cisco API key、LLM key、VirusTotal key 均为可选。
+Cisco AI Defense 开源的 Python 工具，通过三套引擎（YARA 规则、LLM 分析、Cisco AI Defense inspect API）扫描 MCP 服务器的工具、提示词、资源与服务器指令，检测恶意 MCP 工具；另支持 pip-audit 漏洞扫描、源码行为分析、VirusTotal 二进制查毒、Docker 沙箱内的 PyPI/npm 包行为扫描及离线静态 JSON 扫描。可作为 CLI 或 REST API 服务运行，三引擎可组合或独立使用，AI Defense API Key、LLM Key、VirusTotal Key 均为可选项。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Cisco AI Defense 维护的 Python CLI/SDK/REST API 工具，用于扫描 MCP（M
 
 ## 能力要点
 
-- 三引擎扫描：YARA、LLM 分析、Cisco AI Defense inspect API 可独立或联合运行
-- pip-audit 检测 Python 依赖已知漏洞（CVE/PYSEC/GHSA）
-- Docker 沙箱内下载并扫描 PyPI/npm 包，代码不执行
-- 支持本地 LLM 端点（Ollama/vLLM/LocalAI）与离线 JSON 静态扫描
+- 三引擎扫描：YARA 规则、LLM 分析、Cisco AI Defense inspect API，可组合或独立使用
+- 支持扫描 MCP 工具、提示词、资源、服务器指令及源码行为
+- Docker 沙箱内扫描 PyPI/npm 包，VirusTotal 哈希查毒
+- MCP 协议版本自动协商，兼容新旧服务器（HTTP/SSE 与 stdio）
 
 ## 适用场景
 
-- 接入 MCP 服务器前扫描工具是否存在投毒或提示注入
-- CI/CD 流水线中离线扫描预生成的 MCP 配置
-- 审计本机 MCP 客户端（Cursor/Windsurf/Claude/VS Code）配置的安全风险
+- 接入 MCP 服务器前扫描其工具是否存在安全隐患
+- 在 CI/CD 或隔离环境中离线扫描 MCP 配置 JSON
+- 审计本机 Windsurf/Cursor/Claude/VS Code 等客户端配置中的 MCP 服务器
+- 下载 PyPI/npm 包前在沙箱中做行为安全分析
 
 ## 场景标签
 
@@ -39,19 +40,20 @@ Cisco AI Defense 维护的 Python CLI/SDK/REST API 工具，用于扫描 MCP（M
 
 > L10: A Python tool for scanning MCP (Model Context Protocol) servers and tools for potential security findings. The MCP 
 > L14: The MCP Scanner provides a comprehensive solution for scanning MCP servers and tools for security findings. It leve
+> L22: - **Multiple Modes:** Run scanner as a stand-alone CLI tool or REST API server
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "cisco-ai-defense/mcp-scanner 星数(近 20 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1091 --> 1128
-    line [1094, 1096, 1097, 1098, 1099, 1100, 1103, 1104, 1106, 1096, 1112, 1116, 1117, 1118, 1119, 1120, 1122, 1123, 1124, 1125]
+    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 1094 --> 1127
+    line [1096, 1097, 1098, 1099, 1100, 1103, 1104, 1106, 1096, 1112, 1116, 1117, 1118, 1119, 1120, 1122, 1123, 1124, 1125, 1125]
 ```
 
-2026-10-21 1,094 → 2026-11-23 1,125（+31）
+2026-10-22 1,096 → 2026-11-24 1,125（+29）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b59c40e7b264` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2c15f5568dab` · [字段定义](../../DATASET.md)*

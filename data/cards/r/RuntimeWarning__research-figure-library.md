@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RuntimeWarning/research-figure-library 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
+    title "RuntimeWarning/research-figure-library 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 3 --> 6
-    line [4, 5, 4, 4]
+    line [5, 4, 4]
 ```
 
-2026-10-21 4 → 2026-11-23 4（+0）
+2026-10-22 5 → 2026-11-24 4（-1）
 
 
 ---

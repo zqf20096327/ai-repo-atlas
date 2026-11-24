@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rudy-114/wechat-article-reader 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-23"]
+    title "Rudy-114/wechat-article-reader 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-23", "2026-11-24"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-20 3 → 2026-11-23 4（+1）
+2026-11-20 3 → 2026-11-24 4（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L31: You load a **vision-language text encoder** with the core **CLIPLoader**
 > L48: video frames ──▶ shot detection (OpenCV, CPU) ──▶ per shot: sample N frames ──▶ native VLM ──▶ JSON record ──▶ VIDE
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "benjiyaya/ComfyUI-ReaVideoBreakdown 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-23 14 → 2026-11-24 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `075eb70875e4` · [字段定义](../../DATASET.md)*

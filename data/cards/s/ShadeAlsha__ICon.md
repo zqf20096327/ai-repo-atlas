@@ -46,12 +46,12 @@ ICLR 2025 论文 "I-Con: A Unifying Framework for Representation Learning" 的�
 ```mermaid
 xychart-beta
     title "ShadeAlsha/ICon 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-22", "2026-11-24"]
     y-axis "stars" 136 --> 140
     line [139, 138, 137, 137]
 ```
 
-2026-10-21 139 → 2026-11-23 137（-2）
+2026-10-22 139 → 2026-11-24 137（-2）
 
 
 ---

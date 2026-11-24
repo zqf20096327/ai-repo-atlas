@@ -45,13 +45,13 @@ Fish Audio 的官方 Hermes Agent 插件，由 Electric Sheep 维护，运行于
 
 ```mermaid
 xychart-beta
-    title "fishaudio/fish-audio-hermes 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "fishaudio/fish-audio-hermes 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 61 --> 66
-    line [63, 62, 64, 65]
+    line [63, 62, 64, 65, 65]
 ```
 
-2026-11-20 63 → 2026-11-23 65（+2）
+2026-11-20 63 → 2026-11-24 65（+2）
 
 
 ---

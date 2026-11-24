@@ -41,6 +41,18 @@ OsmO 是托管式 MCP 服务器（URL api.getosmo.app/mcp），让用户的 AI �
 > L65: There is nothing to install or run on your machine. Your AI app connects to OsmO's hosted MCP server.
 > L70: Every app uses the same server URL: **`https://api.getosmo.app/mcp`** (Streamable HTTP, OAuth).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "getosmo/osmo-ai-plugins 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-23 11 → 2026-11-24 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7db16fea2874` · [字段定义](../../DATASET.md)*

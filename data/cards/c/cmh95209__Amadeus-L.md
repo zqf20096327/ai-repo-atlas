@@ -41,6 +41,18 @@
 > L138:  - a local server on your own GPU (llama.cpp, vLLM, or any OpenAI-compatible server)
 > L179: **Yes it can.** The conversational LLM can run **on your own GPU**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "cmh95209/Amadeus-L 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 17 --> 19
+    line [18, 18]
+```
+
+2026-11-23 18 → 2026-11-24 18（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `41308d8b7c26` · [字段定义](../../DATASET.md)*

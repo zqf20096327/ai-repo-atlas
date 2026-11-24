@@ -45,13 +45,13 @@ Conformal Tights 是一个 Python 包，导出两个组件：scikit-learn 元估
 
 ```mermaid
 xychart-beta
-    title "superlinear-ai/conformal-tights 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 117 --> 120
-    line [118, 119, 119]
+    title "superlinear-ai/conformal-tights 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 118 --> 120
+    line [119, 119]
 ```
 
-2026-10-21 118 → 2026-11-23 119（+1）
+2026-10-22 119 → 2026-11-24 119（+0）
 
 
 ---

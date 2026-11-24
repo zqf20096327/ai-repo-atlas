@@ -41,6 +41,18 @@ MemoryTrust 读取 agent 的记忆存储文件，按规则目录检查其中无�
 > L21: MemoryTrust reads the store, applies a catalogue of rules, and produces a trust score
 > L26: Node.js 18 or newer. No runtime or dev dependencies — Node built-ins only.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/memorytrust 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a2097f766ec6` · [字段定义](../../DATASET.md)*

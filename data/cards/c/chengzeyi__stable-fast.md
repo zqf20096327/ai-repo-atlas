@@ -41,6 +41,18 @@
 > L65: - __Minimal__: `stable-fast` works as a plugin framework for `PyTorch`. It utilizes existing `PyTorch` functionalit
 > L71: You need to install PyTorch with CUDA support at first (versions from 1.12 to 2.1 are suggested).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chengzeyi/stable-fast 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 1304 --> 1306
+    line [1305, 1305]
+```
+
+2026-11-23 1,305 → 2026-11-24 1,305（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `53466d9dd95b` · [字段定义](../../DATASET.md)*

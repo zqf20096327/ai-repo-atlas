@@ -44,12 +44,12 @@ KalmanFormer 论文的 PyTorch 实现：以 Transformer 从数据中直接学习
 ```mermaid
 xychart-beta
     title "lucidrains/kalmanformer 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-21 47 → 2026-11-23 47（+0）
+2026-10-22 47 → 2026-11-24 47（+0）
 
 
 ---

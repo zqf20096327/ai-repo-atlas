@@ -40,6 +40,18 @@
 > L10: **NeuroScale Lab** is a reproducible research software platform testing whether
 > L61: The current verified empirical run covers all 18 released participants. It retained 4,442 of 8,665 labeled task eve
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SoheilGtex/neuroscale-lab 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-23 11 → 2026-11-24 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8492457ca779` · [字段定义](../../DATASET.md)*

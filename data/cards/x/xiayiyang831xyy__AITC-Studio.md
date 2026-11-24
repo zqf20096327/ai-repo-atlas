@@ -46,13 +46,13 @@ AITC 将需求文档到测试用例的流程组织为一条工程链路：需求
 
 ```mermaid
 xychart-beta
-    title "xiayiyang831xyy/AITC-Studio 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "xiayiyang831xyy/AITC-Studio 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
 ```
 
-2026-10-21 23 → 2026-11-23 24（+1）
+2026-10-22 24 → 2026-11-24 24（+0）
 
 
 ---

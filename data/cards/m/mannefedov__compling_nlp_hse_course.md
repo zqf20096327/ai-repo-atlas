@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mannefedov/compling_nlp_hse_course 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-16", "2026-11-23"]
-    y-axis "stars" 188 --> 192
-    line [189, 190, 191, 191]
+    title "mannefedov/compling_nlp_hse_course 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-16", "2026-11-24"]
+    y-axis "stars" 189 --> 192
+    line [190, 191, 191]
 ```
 
-2026-10-21 189 → 2026-11-23 191（+2）
+2026-10-22 190 → 2026-11-24 191（+1）
 
 
 ---

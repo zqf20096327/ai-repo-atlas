@@ -1,10 +1,10 @@
 # qf-studio/pilot
 
-⭐ 738 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/qf-studio/pilot) · [官网](https://docs.pilotcloud.dev) · 个人维护
+⭐ 738 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/qf-studio/pilot) · [官网](https://docs.pilotcloud.dev) · 组织维护
 
-**自动领取工单并完成代码的自主开发 agent**
+**读取工单并自动写代码、开 PR 的自主开发代理**
 
-从 GitHub/Linear/Jira/Asana 等工单源领取任务，由 Claude Code（或 OpenCode）作为执行后端规划实现、写代码、跑测试并开 PR，人审后合并。支持 Telegram 对话（聊天/研究/规划/任务四种模式）、TUI 仪表盘、CI 监控与自动合并、Haiku/Opus 模型路由、预算硬限制与 SQLite 持久化指标。CLI 以 Homebrew/Go/源码安装，另有 macOS/Windows/Linux 桌面应用。许可为 BSL 1.1。适合 bug 修复、小功能、重构等任务，不适用于大型架构变更。
+Pilot 是一个以 Go 编写的自主编码代理：从 GitHub、Linear、Jira、Asana 拉取带标签的工单，规划实现、生成代码、运行测试并提交 PR，由人工审查合并。执行底层依赖 Claude Code CLI，支持模型按任务复杂度路由（Haiku/Opus）、质量门禁、成本预算控制、执行回放与跨项目记忆。提供 brew/go/源码安装及 macOS/Windows/Linux 桌面安装包，配套 TUI 仪表盘、Telegram 机器人与 Slack/Email 日报。许可为 BSL 1.1。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 从 GitHub/Linear/Jira/Asana 工单源领取任务并产出 PR
-- Claude Code 与 OpenCode 双后端，Haiku/Opus 模型与努力程度自动路由
-- Telegram 四种交互模式（聊天/提问/研究/规划/任务）
-- 预算硬限制、质量门禁、执行回放与跨项目记忆
+- 从 GitHub/Linear/Jira/Asana 自动拾取工单并生成 PR
+- 模型路由：简单任务用 Haiku，复杂任务用 Opus，按复杂度映射思考深度
+- 支持 Claude Code 与 OpenCode 双后端，BYOK 接入 Anthropic/Bedrock/Vertex
+- 预算限额、成本告警与执行回放（HTML/JSON/MD 导出）
 
 ## 适用场景
 
-- 让 AI 自动处理积压的 bug 修复和小功能工单
-- 通过 Telegram 语音/文字下发开发任务并跟踪 PR
-- 团队以预算上限控制自动化开发的 API 成本
+- 积压工单自动化处理：bug 修复、小功能、重构、补测试
+- 夜间无人值守地自动开发并在早晨审查合并 PR
+- 通过 Telegram 与代理对话式规划、调研并派发任务
+- 多仓库团队共享跨项目代码模式记忆
 
 ## 场景标签
 
@@ -44,14 +45,14 @@
 
 ```mermaid
 xychart-beta
-    title "qf-studio/pilot 星数(近 11 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-23"]
+    title "qf-studio/pilot 星数(近 12 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 721 --> 741
-    line [722, 723, 725, 726, 723, 727, 728, 731, 739, 740, 738]
+    line [722, 723, 725, 726, 723, 727, 728, 731, 739, 740, 738, 738]
 ```
 
-2026-10-21 722 → 2026-11-23 738（+16）
+2026-10-22 722 → 2026-11-24 738（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7bfa16c6f23c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c9199ca765e0` · [字段定义](../../DATASET.md)*

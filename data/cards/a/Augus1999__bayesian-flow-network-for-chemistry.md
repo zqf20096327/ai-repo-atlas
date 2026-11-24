@@ -46,12 +46,12 @@ ChemBFN 的 PyTorch 实现仓库，以单一模型覆盖 SMILES/SELFIES 从头�
 ```mermaid
 xychart-beta
     title "Augus1999/bayesian-flow-network-for-chemistry 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-11", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-11", "2026-11-24"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-21 31 → 2026-11-23 32（+1）
+2026-10-22 31 → 2026-11-24 32（+1）
 
 
 ---

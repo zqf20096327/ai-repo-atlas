@@ -47,12 +47,12 @@ eLLMsha 是一个桌面优先的编码 agent 工作台（harness），把用户�
 ```mermaid
 xychart-beta
     title "ShiftHackZ/ellmsha 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-23"]
+    x-axis ["2026-10-26", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-26 3 → 2026-11-23 3（+0）
+2026-10-26 3 → 2026-11-24 3（+0）
 
 
 ---

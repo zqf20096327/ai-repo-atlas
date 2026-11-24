@@ -40,6 +40,18 @@ Google Antigravity 的非官方 Android 移植与移动兼容运行时，开发�
 > L8: An unofficial native Android port and mobile compatibility runtime for **Google Antigravity**, allowing developers t
 > L34: - **Native PRoot & Language Server Runtime**: Runs local language servers, gRPC-Web proxy streams, Python 3.12, Nod
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "monsterbag293-cloud/Antigravity-Android 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
+```
+
+2026-11-23 9 → 2026-11-24 9（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0ddf6ba24b3c` · [字段定义](../../DATASET.md)*

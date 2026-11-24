@@ -2,9 +2,9 @@
 
 ⭐ 1,208 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/mateaix/mateclaw) · [官网](https://claw.mate.vip) · 组织维护 · 中文 README
 
-**面向企业的自托管多 Agent 平台：数字员工、知识库与多渠道接入**
+**企业可部署的多用户个人 AI 代理平台（第二大脑）**
 
-基于 Spring Boot / AgentScope Java 的可插拔 Agent 运行时与多用户工作台：以“数字员工”承载 ReAct、Plan-and-Execute、持久化 Goals 与 Team Runs，支持原生与 DeepSeek Harness（SDK JSON-RPC 外部循环）两种执行引擎。模型层支持多供应商按序故障转移（DashScope/OpenAI/Anthropic/DeepSeek/Kimi/Ollama 等），知识经 LLM Wiki 消化为带引用的链接页面。提供 Web 控制台、Electron 桌面端、嵌入式网页聊天、8 种 IM 渠道与 Java 插件 SDK；含 Tool Guard 审批、RBAC 与审计。当前开发版本 3.0.0-SNAPSHOT，源码构建需 Java 21。
+基于 Spring Boot 与 AgentScope Java 构建的 self-hosted 多智能体平台：数字员工带角色/目标配置，支持原生 ReAct/Plan-and-Execute 运行时与外部 DSH 运行时双路径；内置 LLM Wiki 知识库（含引用溯源）、持久化记忆与 Dream 工作流、SKILL.md/MCP/ACP 三种扩展方式、审批门控与审计日志。提供 Web 控制台、Electron 桌面端（内置 JRE）、网页嵌入组件、8 个 IM 渠道接入与 Java 插件 SDK。主打多用户工作区与 IT 可管控部署。
 
 ## 筛选速览
 
@@ -16,42 +16,44 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 数字员工 + 原生/DSH 双 Agent 运行时，支持 Team Runs 与持久化 Goals 断点续跑
-- 模型供应商按优先级健康故障转移，坏供应商进入冷却窗口
-- LLM Wiki 将上传资料消化为带引用溯源的链接页面
-- 五种交付面：Web 控制台、Electron 桌面（内置 JRE 21）、网页聊天组件、8 种 IM 渠道、Java 插件 SDK
+- 模型供应商故障时按优先级链自动切换（DashScope/OpenAI/Anthropic/Ollama 等）
+- LLM Wiki 将文档消化为带 [[links]] 与可追溯引用的结构化页面
+- 持久化 Goals：任务检查点存储，实例重启后从断点续跑
+- 五种交付面：Web 控制台/桌面端/网页 Widget/IM 渠道/插件 SDK
 
 ## 适用场景
 
-- 在自有服务器部署多用户的 AI 员工并接入钉钉/飞书等 IM
-- 让数字员工执行可断点恢复的长时间任务
-- 将企业资料转化为带引用的可验证知识库
+- 在企业内部署多用户 AI 员工并通过钉钉/飞书等渠道使用
+- 上传文档构建带引用溯源的团队知识库
+- 运行跨多次重启的长时任务并保留检查点
+- 通过审批流与 RBAC 管控敏感工具调用
 
 ## 场景标签
 
-`多智能体` `知识库管理` `Agent 框架` · 领域:Agent 开发
+`多智能体` `工作流自动化` `文档问答` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9:  Your second brain
-> L33: > **And underneath, a real Agent Runtime.** An employee is no longer welded to one reasoning loop. Choose the nativ
+> L31: > Multi-user workspaces. Approval-gated sensitive actions. Full audit trail. Spring Boot Actuator health monitoring
+> L87: You hire coworkers, not chat boxes. Each one has a **Role**, a **Goal**, a **Backstory**, a runtime, a pixel-art av
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mateaix/mateclaw 星数(近 21 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1162 --> 1212
-    line [1166, 1168, 1170, 1172, 1173, 1174, 1175, 1176, 1170, 1187, 1190, 1192, 1194, 1196, 1199, 1200, 1203, 1204, 1206, 1207, 1208]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 1164 --> 1212
+    line [1168, 1170, 1172, 1173, 1174, 1175, 1176, 1170, 1187, 1190, 1192, 1194, 1196, 1199, 1200, 1203, 1204, 1206, 1207, 1208, 1208]
 ```
 
-2026-10-21 1,166 → 2026-11-23 1,208（+42）
+2026-10-22 1,168 → 2026-11-24 1,208（+40）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cb263096e507` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `78f7417d2630` · [字段定义](../../DATASET.md)*

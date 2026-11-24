@@ -45,12 +45,12 @@ dsh-model-context-catalog 是 DSH 的模型上下文配置插件：扫描 DSH �
 ```mermaid
 xychart-beta
     title "HOWILLMAKEIT/dsh-model-context-catalog 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
     y-axis "stars" 29 --> 35
     line [34, 30, 30]
 ```
 
-2026-10-20 34 → 2026-11-23 30（-4）
+2026-10-21 34 → 2026-11-24 30（-4）
 
 
 ---

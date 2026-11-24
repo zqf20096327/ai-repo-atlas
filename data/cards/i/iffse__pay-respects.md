@@ -2,9 +2,9 @@
 
 ⭐ 739 · Rust · AGPL-3.0 · 推送 2026-11-06 · [GitHub](https://github.com/iffse/pay-respects) · [官网](https://codeberg.org/iff/pay-respects) · 个人维护
 
-**按 F 键修正 shell 命令错误的 CLI 工具，AI 为可选补充**
+**给命令行用户的报错命令修复建议工具（thefuck 替代品）**
 
-用 Rust 编写的命令建议与 command-not-found 处理工具：按 F 键对输错或未知的命令给出修正建议，规则以 TOML 编写并解析为 Rust 代码，也可用原生 Rust 或自定义语言模块扩展。支持 Bash/Zsh/Fish/Nushell/PowerShell，可与 tmux、Zellij、zoxide 等集成，提供实验性 Ctrl+X 行内修正模式。AI 模块（request-ai）为可选安装，在无规则命中时由 AI 补充建议，内置公共 API key 且可通过环境变量禁用。核心二进制小于 1MB，提供包管理器安装、预编译二进制与 Cargo 源码安装途径。
+Rust 编写的 shell 命令纠错工具，声称替代 thefuck：命令失败后按 F 获取修复建议并执行。核心机制是 TOML 规则文件（无需改 Rust 即可编写修复规则），建议先经检查再呈现；支持 Bash/Zsh/Fish/Dash/Xonsh/Elvish/Nushell/PowerShell，提供 command-not-found 钩子、实验性内联修复模式（Ctrl-X Ctrl-X）。AI 建议为可选 opt-in 模块（request-ai），源码内置 API key 走作者代理服务，作者声明限速时可能停止。二进制 AGPL-3.0，核心二进制小于 1 MB。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 按 F 键给出命令修正建议，核心二进制小于 1MB
-- 规则以 TOML 编写解析为 Rust 代码，支持原生 Rust 与自定义模块
-- 支持 Bash/Zsh/Fish/Nushell/PowerShell 及任意 shell 的环境变量初始化
-- 可选 AI 模块在无规则时补充建议，内置公共 API key
+- TOML 规则编写修复方案，支持 Rust、解释脚本与模块扩展
+- 支持 8 种 shell，含 command-not-found 钩子与内联修复模式
+- 可选 AI 建议模块，内置免费代理 API key（可能限速停止）
+- 核心二进制小于 1 MB，基准初始化耗时亚毫秒级
 
 ## 适用场景
 
-- 输错命令后按 F 快速获得修正建议
-- 作为 command-not-found 处理器提示可安装的命令
-- 为常用错误编写 TOML 规则定制建议
+- 命令打错字时按一个键获得并执行修复建议
+- 处理 command-not-found 提示，直接给出正确命令
+- 在 Nushell/PowerShell 等多 shell 环境统一纠错体验
+- 通过编写 TOML 规则定制自己的修复逻辑
 
 ## 场景标签
 
- · 领域:命令行工具/开发效率
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L15: - 🤖 **AI Support**: AI module comes in aid when there is no rule for your
-> L227: AI suggestions should work out of the box with `request-ai` module installed.
+> L9: - 🤖 **Optional AI**: No rule? Let AI take a shot!
+> L233: - Writing rules (TOML, Rust, interpreted languages)
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "iffse/pay-respects 星数(近 19 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 726 --> 740
-    line [727, 729, 730, 729, 732, 733, 734, 735, 736, 735, 729, 735, 736, 737, 738, 739, 738, 739, 739]
+    title "iffse/pay-respects 星数(近 18 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 728 --> 740
+    line [729, 730, 729, 732, 733, 734, 735, 736, 735, 729, 735, 736, 737, 738, 739, 738, 739, 739]
 ```
 
-2026-10-21 727 → 2026-11-23 739（+12）
+2026-10-22 729 → 2026-11-24 739（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `38cab0890b45` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `da282cb81424` · [字段定义](../../DATASET.md)*

@@ -44,12 +44,12 @@ Polyaxon 官方配套的教程代码仓库，提供在 Polyaxon 集群内调度�
 ```mermaid
 xychart-beta
     title "polyaxon/polyaxon-examples 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-10-21 67 → 2026-11-23 67（+0）
+2026-10-22 67 → 2026-11-24 67（+0）
 
 
 ---

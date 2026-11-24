@@ -46,12 +46,12 @@ ApexPanda 是一个自托管的多 Agent 协作平台，面向个人开发者与
 ```mermaid
 xychart-beta
     title "ApexPanda-Ai/apexpanda-release 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-21 26 → 2026-11-23 26（+0）
+2026-10-22 26 → 2026-11-24 26（+0）
 
 
 ---

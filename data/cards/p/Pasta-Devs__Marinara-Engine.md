@@ -1,10 +1,10 @@
 # Pasta-Devs/Marinara-Engine
 
-⭐ 793 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Pasta-Devs/Marinara-Engine) · [官网](https://spicymarinara.github.io/) · 组织维护
+⭐ 793 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Pasta-Devs/Marinara-Engine) · [官网](https://spicymarinara.github.io/) · 个人维护
 
-**本地运行的 AI 聊天、角色扮演与游戏引擎**
+**本地运行的角色扮演聊天与游戏引擎，直接产出 AI 内容**
 
-本地优先的 AI 前端引擎，面向终端用户：提供 Conversation（Discord 式私信）、Roleplay（角色立绘与场景）、Game（AI 游戏主持人）三种模式；支持从 OpenAI、Anthropic、DeepSeek 等云服务到 Ollama、LM Studio、KoboldCpp 等本地端点接入，并内置一个本地小模型承担追踪、文枢检索等辅助任务。可选下载的 Agent 系统负责世界状态、配图、音乐、长期记忆等。提供 Docker、Windows 安装包、Android APK（Termux 引导）与 PWA 等多平台安装途径。README 声明为 Beta 软件，预期存在粗糙边缘与破坏性变更；本地安全默认环回免认证，局域网需 Basic Auth。
+一个本地优先的聊天、角色扮演与游戏引擎，支持三种模式：Discord 风格对话、带立绘与背景的沉浸式角色扮演、以及带 AI Game Master 的游戏模式。接入多家模型服务商与本地服务器，并内置一个无需 API key 的本地小模型处理辅助任务。通过可选的 Agent 系统扩展功能（追踪世界状态、绘图、音乐等），支持自定义 Agent、提示词工程、主题定制，可经 PWA 在移动端使用。当前为 Beta，可能存在破坏性变更。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 三种聊天模式（对话/角色扮演/游戏），角色可跨模式共享记忆
-- 支持十余家云服务商与任意 OpenAI 兼容端点，含 Ollama/LM Studio/KoboldCpp 本地服务
-- 可选下载的 Agent 目录：写作、世界状态追踪、配图、音乐、长期记忆等
-- 多平台安装：Docker/Podman、Windows 安装包、Android APK（Termux 引导）、iOS PWA
+- 三种聊天模式，角色记忆可跨模式共享
+- 可选 Agent 系统：追踪、绘图、音乐、记忆等，按需安装
+- 支持 OpenAI 兼容端点与 Ollama/LM Studio/KoboldCpp 等本地服务器
+- 内置本地小模型，无需 API key 即可运行辅助任务
 
 ## 适用场景
 
-- 在本地与 AI 角色进行沉浸式对话或角色扮演
-- 以 AI 游戏主持人身份进行带队伍、任务与战斗的游戏
-- 接入自有 API 或本地模型服务进行隐私优先的聊天
-- 通过下载 Agent 扩展配图、音乐、长期记忆等能力
+- 与 AI 角色进行角色扮演或对话
+- 用 AI Game Master 跑团推演任务与战斗
+- 从 SillyTavern 或多个角色卡站导入角色
+- 在手机上通过 PWA 继续对话与游戏
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 ## 证据(README 行号)
 
 > L5:  A local, AI-powered chat, roleplay, and game engine built around one idea: you install it, you run it, and it just 
-> L100: Three chat modes — **Conversation** (Discord-style DMs), **Roleplay** (immersive RPG with sprites and backgrounds)
 > L142: - **Chat models:** OpenAI, Anthropic, Google Gemini, Google Vertex AI, OpenRouter, NanoGPT, Mistral, Cohere, xAI /
 
 ## 星数曲线
@@ -47,13 +46,13 @@
 ```mermaid
 xychart-beta
     title "Pasta-Devs/Marinara-Engine 星数(近 25 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 714 --> 800
-    line [721, 729, 732, 735, 736, 737, 740, 743, 747, 749, 751, 753, 736, 765, 769, 771, 772, 775, 777, 779, 783, 788, 790, 792, 793]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 723 --> 799
+    line [729, 732, 735, 736, 737, 740, 743, 747, 749, 751, 753, 736, 765, 769, 771, 772, 775, 777, 779, 783, 788, 790, 792, 793, 793]
 ```
 
-2026-10-21 721 → 2026-11-23 793（+72）
+2026-10-22 729 → 2026-11-24 793（+64）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2dbad63dc1b6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0d719fb91344` · [字段定义](../../DATASET.md)*

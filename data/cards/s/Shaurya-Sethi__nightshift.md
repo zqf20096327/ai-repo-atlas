@@ -46,12 +46,12 @@ Rust 编写的命令行工具，围绕一个 GitHub 父 issue 的子 issue 依�
 ```mermaid
 xychart-beta
     title "Shaurya-Sethi/nightshift 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-20 14 → 2026-11-23 14（+0）
+2026-10-21 14 → 2026-11-24 14（+0）
 
 
 ---

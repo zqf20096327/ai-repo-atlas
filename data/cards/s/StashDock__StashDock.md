@@ -1,57 +1,58 @@
 # StashDock/StashDock
 
-⭐ 678 · HTML · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 组织维护 · 中文 README
+⭐ 678 · HTML · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/StashDock/StashDock) · [官网](https://stashdock.app) · 个人维护 · 中文 README
 
-**本地优先的个人上下文库：收集、组织并在 AI 对话中复用资料**
+**本地优先的个人上下文库：为 AI 对话收集复用引用**
 
-面向 AI 使用者的桌面端个人上下文库：通过 Chrome 扩展保存网页、导入书签或添加本地文件、笔记、提示词与规则，用标签组织并可编辑交给 AI 的上下文。提供 Windows/macOS 安装包与 ChatGPT 插件，插件在聊天侧边栏中把选中的参考资料加入对话；亦可通过拖拽或复制用于任意 AI 应用。内置 MCP 及技能，AI 可检索库中资料、保存新学到的规则到库中。数据存储在本机，不做自动跨设备同步；安装包未签名、Mac 应用未公证。
+StashDock 是运行在用户电脑上的可视化上下文库，把网页链接、本地文件、提示词/规则统一存储，通过卡片视图、快速搜索、收藏与标签管理，并支持复制或拖拽到任意 AI 对话中。提供 Windows/macOS 桌面应用、ChatGPT 侧边栏插件、DeepSeek Harness 插件与 Chrome 捕获扩展；通过 MCP 协议和 Skill 暴露引用检索、保存与标签整理工具。数据存储在本地设备，多设备间不自动同步，AGPL v3 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | AGPL-3.0 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Chrome 扩展保存网页、导入书签、添加本地文件与提示词规则
-- ChatGPT 插件在对话侧边栏中将选中参考资料加入聊天
-- MCP 与内置技能：AI 可检索、保存、整理库中上下文
-- 本地存储，安装 Desktop 与插件共享同一库
+- 本地存储引用（链接/文件/笔记），SQLite FTS5 全文检索
+- 通过 MCP 与 Skill 向 AI 暴露引用检索、保存与标签整理工具
+- 桌面端与 ChatGPT/DeepSeek Harness 插件共享同一本地库
+- Chrome 扩展捕获页面链接、可读内容与封面
 
 ## 适用场景
 
-- 把散落在浏览器标签和文件夹里的参考资料集中成可检索的库
-- 在 ChatGPT 对话中直接引用自己保存的资料
-- 让 AI 把对话中确定的写作规则保存为可复用条目
+- 把散落在书签、文件夹和历史对话里的素材集中复用到 AI 对话
+- 为项目维护可跨任务复用的参考资料库
+- 浏览时一键保存页面供后续 AI 会话使用
 
 ## 场景标签
 
-`知识库管理` `提示工程` · 领域:Agent 开发
+`提示工程` `知识库管理` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7:  An AI-native, local personal context library.
-> L44: Through MCP and its included skill, StashDock gives AI a useful role on both
+> L29: StashDock brings that context into one personal library on your computer.
+> L76: StashDock exposes library tools through the Model Context Protocol (MCP) and
+> L110: References are stored on the local device. Desktop and the AI plugins
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "StashDock/StashDock 星数(近 18 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "StashDock/StashDock 星数(近 19 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 0 --> 740
-    line [51, 59, 60, 68, 171, 195, 220, 252, 295, 332, 378, 455, 514, 560, 572, 584, 643, 678]
+    line [51, 59, 60, 68, 171, 195, 220, 252, 295, 332, 378, 455, 514, 560, 572, 584, 643, 678, 678]
 ```
 
-2026-10-30 51 → 2026-11-23 678（+627）
+2026-10-30 51 → 2026-11-24 678（+627）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `2fb7cca29117` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `68fde965906e` · [字段定义](../../DATASET.md)*

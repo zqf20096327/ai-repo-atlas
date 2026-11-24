@@ -45,13 +45,13 @@ Electron 桌面应用，管理 SSH、RDP、VNC 与 Web 会话，凭据存于本�
 
 ```mermaid
 xychart-beta
-    title "advenimus/conduit-desktop 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-11", "2026-11-23"]
-    y-axis "stars" 15 --> 22
-    line [16, 19, 20, 21, 21]
+    title "advenimus/conduit-desktop 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-11", "2026-11-24"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-21 16 → 2026-11-23 21（+5）
+2026-10-22 19 → 2026-11-24 21（+2）
 
 
 ---

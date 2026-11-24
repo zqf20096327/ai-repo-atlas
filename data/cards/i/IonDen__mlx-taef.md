@@ -46,12 +46,12 @@ TAESD 家族的纯 MLX 移植，覆盖 TAESD/TAESDXL/TAEF1/TAEF2/Z-Image/Qwen-Im
 ```mermaid
 xychart-beta
     title "IonDen/mlx-taef 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-21 13 → 2026-11-23 13（+0）
+2026-10-22 13 → 2026-11-24 13（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Neovim Lua 插件，作为 codecompanion.nvim 的扩展运行：自动或手动�
 ```mermaid
 xychart-beta
     title "ravitemer/codecompanion-history.nvim 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 193 --> 196
     line [194, 195, 195]
 ```
 
-2026-10-21 194 → 2026-11-23 195（+1）
+2026-10-22 194 → 2026-11-24 195（+1）
 
 
 ---

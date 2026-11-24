@@ -2,9 +2,9 @@
 
 ⭐ 1,137 · Go · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Agent-Field/SWE-AF) · [官网](https://agentfield.ai/) · 组织维护
 
-**面向生产级 PR 的自主软件工程 agent 舰队运行时**
+**基于 AgentField 的自主软件工程 agent 舰队，一键产出生产级 PR**
 
-构建在 AgentField 控制面上的自主工程团队运行时：一次 API 调用拉起产品经理、架构师、编码、评审、测试等角色 agent，对单个或多个仓库进行规划、编码、评审、合并与验证，最终产出 PR。采用三层嵌套控制循环（问题内重试、顾问改策、DAG 级重规划），支持按角色配置不同模型，运行时可选 claude_code / open_code / codex，接入 Anthropic、OpenRouter（含 DeepSeek 默认模型）、MiniMax、Infron 等提供方。部署方式包括 af install、Railway 一键部署、本地 venv 与 Docker。当前标注为 Public Beta。
+SWE-AF 运行于 AgentField 控制平面，通过一次 API 调用启动由产品经理、架构师、编码、审查、测试等角色组成的自主工程团队，对指定仓库做规划、拆解、并行编码、审查、合并与验收。支持单仓库与多仓库两种模式，角色可分配不同模型；内置三层自适应控制循环（重试、重规划）与断点续跑，依赖 git worktree 隔离并行分支。需 Python 3.12+ 与 AgentField CLI，支持 Railway 部署。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 一次 API 调用编排规划/编码/评审/测试/合并多角色 agent
-- 三层自适应控制循环：重试、换策略、DAG 级重规划
-- 单仓库与多仓库协同模式，按角色分配不同模型
-- 检查点执行支持 resume_build 崩溃恢复
+- 一次 API 调用编排规划/编码/审查/QA/合并/验收等多角色 agent
+- 单仓库与多仓库（primary/dependency 角色）两种构建模式
+- 三层自适应控制循环与 resume_build 断点续跑
+- 支持 AForge、Claude Code、OpenCode、Codex、Command Code 等运行时，可按角色配置模型
 
 ## 适用场景
 
-- 给一个目标让 agent 舰队在仓库上自主完成并提交 PR
-- 跨主仓库与依赖库的协同变更构建
-- 以多节点并行方式持续驱动大规模 agent 构建
+- 给一个 GitHub 仓库下达目标，自动拆解并完成多个 issue 到 PR
+- 跨主应用与依赖库/微服务的协同改动一次构建
+- 本地开发流程中接入 AgentField 控制平面持续运行构建任务
 
 ## 场景标签
 
-`编码 Agent` `多智能体` · 领域:Agent 开发
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L27: One API call spins up a full autonomous engineering team — product managers, architects, coders, reviewers, testers
-> L113: - **Multi-model, multi-provider** — assign different models per role (`coder: opus`, `qa: haiku`). Works with Clau
-> L150: **Claude, open-source, and Codex models supported**: Run builds with any runtime and tune models per role in one f
+> L109: Most agent frameworks wrap a single coder loop. SWE-AF is a coordinated engineering factory — planning, execution,
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Agent-Field/SWE-AF 星数(近 23 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "Agent-Field/SWE-AF 星数(近 24 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1024 --> 1147
-    line [1034, 1035, 1037, 1038, 1048, 1092, 1111, 1121, 1122, 1123, 1124, 1038, 1124, 1127, 1128, 1130, 1131, 1130, 1131, 1132, 1134, 1136, 1137]
+    line [1034, 1035, 1037, 1038, 1048, 1092, 1111, 1121, 1122, 1123, 1124, 1038, 1124, 1127, 1128, 1130, 1131, 1130, 1131, 1132, 1134, 1136, 1137, 1137]
 ```
 
-2026-10-20 1,034 → 2026-11-23 1,137（+103）
+2026-10-21 1,034 → 2026-11-24 1,137（+103）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d31ee31dcaaf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `40bd9192ca40` · [字段定义](../../DATASET.md)*

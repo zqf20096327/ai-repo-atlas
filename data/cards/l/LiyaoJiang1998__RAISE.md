@@ -40,6 +40,18 @@ CVPR 2026 论文 RAISE 的官方实现：将文生图生成建模为需求驱动
 > L8: Official implementation of **RAISE** (**R**equirement-**A**daptive **S**elf-**I**mproving **E**volution), a training
 > L16: RAISE builds a multi-node generation graph that refines prompts and validates outputs through requirement-driven mu
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LiyaoJiang1998/RAISE 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `733580ddf1f2` · [字段定义](../../DATASET.md)*

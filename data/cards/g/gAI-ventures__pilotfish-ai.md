@@ -45,13 +45,13 @@ pilotfish 是浏览器自动化 MCP 服务器与 SDK 集合：本地版在本机
 
 ```mermaid
 xychart-beta
-    title "gAI-ventures/pilotfish-ai 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-23"]
+    title "gAI-ventures/pilotfish-ai 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 4 --> 7
-    line [5, 6]
+    line [5, 6, 6]
 ```
 
-2026-11-21 5 → 2026-11-23 6（+1）
+2026-11-21 5 → 2026-11-24 6（+1）
 
 
 ---

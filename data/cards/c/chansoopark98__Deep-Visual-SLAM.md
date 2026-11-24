@@ -40,6 +40,18 @@
 > L14: `dvslam` is a **monocular visual odometry** (visual SLAM front end, no loop closure) system that recovers **metric
 > L18: sequence. It is written in PyTorch and evaluated on the TUM-VI indoor benchmark, for robotics and AR use cases.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chansoopark98/Deep-Visual-SLAM 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-11-23 16 → 2026-11-24 16（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2855b6aef4e2` · [字段定义](../../DATASET.md)*

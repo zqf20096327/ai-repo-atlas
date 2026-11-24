@@ -46,12 +46,12 @@ Python 包，通过 ctypes 接口封装 llama.cpp 的 C/C++ API（libllama），
 ```mermaid
 xychart-beta
     title "ddh0/easy-llama 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 105 --> 107
     line [106, 106]
 ```
 
-2026-10-21 106 → 2026-11-23 106（+0）
+2026-10-22 106 → 2026-11-24 106（+0）
 
 
 ---

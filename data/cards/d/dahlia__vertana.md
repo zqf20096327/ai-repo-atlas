@@ -45,12 +45,12 @@ TypeScript/JavaScript 翻译库，通过自主 agent 工作流在翻译前采集
 ```mermaid
 xychart-beta
     title "dahlia/vertana 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-20 33 → 2026-11-23 33（+0）
+2026-10-21 33 → 2026-11-24 33（+0）
 
 
 ---

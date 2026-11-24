@@ -46,12 +46,12 @@ Node.js CLI，用于在 AI 辅助开发环境中管理 agent 技能：在 ~/.ski
 ```mermaid
 xychart-beta
     title "ariasbruno/skillbase 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-23 10（+0）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

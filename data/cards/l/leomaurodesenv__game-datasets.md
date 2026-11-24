@@ -2,9 +2,9 @@
 
 ⭐ 1,146 · CC-BY-4.0 · 推送 2026-10-25 · [GitHub](https://github.com/leomaurodesenv/game-datasets) · 个人维护
 
-**游戏领域 AI 与数据挖掘的数据集/工具/资料策展清单**
+**游戏 AI 与数据挖掘的数据集/工具策展清单**
 
-面向游戏方向研究与开发的 awesome 类清单：汇集游戏相关 API（Steam、Riot、PokéAPI 等 20 余个）、AI 研究平台与竞赛（Malmo、StarCraft AI、Vindinium 等）、数据挖掘与 AI 书目，以及上百个游戏数据集（英雄联盟、Dota 2、宝可梦、Steam 评论等）。条目按 API、Artificial Intelligence、Books、Dataset 等分类组织，供用户构建游戏应用或数据集时查找素材。仓库以 CC-BY-4.0 许可，通过 issue 和 pull request 接受贡献。
+面向在数字游戏中开展人工智能与数据挖掘工作的使用者，按 API、AI 平台与竞赛环境、书籍、数据集等板块组织资源链接，覆盖 Dota 2、StarCraft、宝可梦、桌游、Steam 评论等多类游戏数据来源，以及 Malmo、microRTS、Robocode 等实验平台。仓库以清单形式持续更新，通过 issue 与 pull request 接收贡献，采用 CC-BY-4.0 许可，由 GitHub Actions 维护工作流。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 20+ 个游戏数据 API 条目（Steam/Riot/OpenDota 等）
-- AI 研究平台与游戏 AI 竞赛条目（Malmo、StarCraft AI 等）
-- 上百个游戏数据集覆盖 LoL、Dota 2、宝可梦、Steam 等
-- 含 8 本游戏分析与 AI 相关书目
+- 收录 30+ 游戏数据 API 入口
+- 整理 80+ 游戏数据集条目
+- 列出 Malmo、microRTS、Robocode 等 AI 实验/竞赛平台
+- 配套游戏 AI 与数据挖掘相关书籍文献
 
 ## 适用场景
 
-- 为游戏数据挖掘项目查找现成数据集
-- 寻找游戏 AI 研究平台与竞赛环境
-- 通过 API 获取游戏与玩家数据构建应用
+- 为游戏 AI 研究找现成对局/玩家数据集
+- 查找某款游戏的数据 API 接口
+- 为数据挖掘课程或项目挑选游戏数据来源
 
 ## 场景标签
 
@@ -39,19 +39,20 @@
 
 > L11: This repository guides work with **Artificial Intelligence** or **Data Mining** in digital games. Find datasets, to
 > L112: ## Dataset
+> L19: （目录 11 行略）
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "leomaurodesenv/game-datasets 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 1135 --> 1148
-    line [1136, 1137, 1138, 1139, 1141, 1142, 1138, 1144, 1145, 1146, 1147, 1145, 1146, 1146]
+    title "leomaurodesenv/game-datasets 星数(近 13 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-24"]
+    y-axis "stars" 1136 --> 1148
+    line [1137, 1138, 1139, 1141, 1142, 1138, 1144, 1145, 1146, 1147, 1145, 1146, 1146]
 ```
 
-2026-10-21 1,136 → 2026-11-23 1,146（+10）
+2026-10-22 1,137 → 2026-11-24 1,146（+9）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `df6c335021b0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `fc4074a44ffb` · [字段定义](../../DATASET.md)*

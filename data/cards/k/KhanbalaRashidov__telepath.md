@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KhanbalaRashidov/telepath 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-23"]
+    x-axis ["2026-10-29", "2026-11-24"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-29 5 → 2026-11-23 5（+0）
+2026-10-29 5 → 2026-11-24 5（+0）
 
 
 ---

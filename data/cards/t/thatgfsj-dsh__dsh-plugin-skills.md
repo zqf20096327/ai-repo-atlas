@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thatgfsj-dsh/dsh-plugin-skills 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-24"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-10 7 → 2026-11-23 7（+0）
+2026-11-10 7 → 2026-11-24 7（+0）
 
 
 ---

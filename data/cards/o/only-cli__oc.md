@@ -2,9 +2,9 @@
 
 ⭐ 695 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/only-cli/oc) · [官网](https://only-cli.com) · 组织维护
 
-**把网页变成紧凑 CLI 供 AI agent 低价浏览的命令行工具**
+**把任意网站压缩为供 AI agent 使用的紧凑 CLI**
 
-面向 AI agent（Claude Code、Codex、Antigravity 等）的命令行网页浏览工具：`oc open <url>` 抓取页面并返回带编号的紧凑视图而非原始 HTML 或截图，将典型页面从数万 token 压缩到数百 token；请求通过 impers 模拟 Chrome 身份以通过部分站点对简易抓取器的拦截，必要时降级到 Firefox 或原生 fetch。无需逐站适配、浏览器扩展或守护进程；`clis/` 内置数十个站点快捷命令（HN、GitHub、各语言文档等），可安装为 agent 技能或 Claude Code 插件。要求 Node 20+，与 OpenShift 的 `oc` 命令存在命名冲突。限定了渲染文本是数据而非指令的安全口径。
+一个 Node.js CLI 工具：`oc open <url>` 抓取网页并输出编号化紧凑视图而非原始 HTML，默认 token 预算 500，供 Claude Code、Codex 等编码 agent 浏览网页时节省 token。请求通过模拟浏览器身份（Chrome→Firefox→原生 fetch 降级链）绕过部分站点对简单抓取器的拦截。支持任意静态站点与 JSON API，另附带 40 余个站点的快捷命令（HN、Reddit、GitHub、各语言文档等）。提供 npm 全局安装、npx 免安装、agent skill 与 Claude Code 插件四种接入方式，需 Node 20+。与 OpenShift 的同名 `oc` 存在 PATH 冲突。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- `oc open` 将网页渲染为带编号动作的紧凑视图，默认 500 token 预算
-- 通过 impers 模拟 Chrome 身份请求，支持降级到 Firefox 或原生 fetch
-- `clis/` 提供数十个站点专属快捷命令（HN、GitHub、多语言文档、Docker Hub 等）
-- 可安装为 agent 技能、复制技能目录或作为 Claude Code 插件
+- 网页渲染为编号化紧凑视图，默认 --budget 500 token，支持 --json/--html 输出
+- 模拟浏览器身份请求（impers，Chrome→Firefox→原生 fetch 降级）
+- 40+ 站点快捷命令：`oc hn`、`oc gh`、`oc ddg` 等及各语言文档站搜索
+- 提供 Claude Code/Cursor/Codex/Copilot 的 skill 安装与 Claude Code 插件接入
 
 ## 适用场景
 
-- 让 Claude Code / Codex 等 agent 用数百 token 浏览网页而非抓取原始 HTML
-- 通过 `oc gh`、`oc npm` 等快捷命令快速查询仓库、依赖与文档信息
-- 在 agent 指令文件中加一行即可接入，无需浏览器扩展或守护进程
+- 让编码 agent 在少量 token 内浏览网页与文档
+- 以 CLI 方式查询 Hacker News、GitHub、JSON API 等站点
+- 为 agent 配置网页浏览 skill 而无需浏览器扩展
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 ## 证据(README 行号)
 
 > L7: Turns websites into a command line interface for AI agents. `oc open <url>` fetches a page and hands back a compact,
-> L40: Add one line to your agent's instructions file (CLAUDE.md, AGENTS.md, or equivalent):
-> L42: > When you need content from a web page, run `npx @only-cli/oc open <url>` instead of fetching raw HTML. Run `npx @
+> L23: npm install -g @only-cli/oc
+> L32: Install the web-browsing-cli skill for Claude Code, Cursor, Codex, Copilot, and other compatible agents:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "only-cli/oc 星数(近 20 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "only-cli/oc 星数(近 21 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 528 --> 724
-    line [546, 549, 544, 546, 547, 544, 551, 663, 683, 689, 693, 694, 698, 704, 707, 708, 689, 693, 694, 695]
+    line [546, 549, 544, 546, 547, 544, 551, 663, 683, 689, 693, 694, 698, 704, 707, 708, 689, 693, 694, 695, 695]
 ```
 
-2026-10-20 546 → 2026-11-23 695（+149）
+2026-10-21 546 → 2026-11-24 695（+149）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `e6ef47ba04d6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `73bdbace0c88` · [字段定义](../../DATASET.md)*

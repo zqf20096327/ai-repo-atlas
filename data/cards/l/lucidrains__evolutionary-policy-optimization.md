@@ -44,12 +44,12 @@ lucidrains 对 Wang 等（CMU 机器人研究所，2025）论文 Evolutionary Po
 ```mermaid
 xychart-beta
     title "lucidrains/evolutionary-policy-optimization 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-21 112 → 2026-11-23 112（+0）
+2026-10-22 112 → 2026-11-24 112（+0）
 
 
 ---

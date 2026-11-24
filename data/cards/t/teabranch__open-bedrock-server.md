@@ -46,12 +46,12 @@ Python 实现的 provider 无关 API 服务器：通过单一 /v1/chat/completio
 ```mermaid
 xychart-beta
     title "teabranch/open-bedrock-server 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-21 13 → 2026-11-23 13（+0）
+2026-10-22 13 → 2026-11-24 13（+0）
 
 
 ---

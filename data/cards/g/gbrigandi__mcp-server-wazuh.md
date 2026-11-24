@@ -45,13 +45,13 @@ Rust 编写的 MCP 服务器，把 Wazuh SIEM 的 API 响应转换为 MCP 格式
 
 ```mermaid
 xychart-beta
-    title "gbrigandi/mcp-server-wazuh 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-21", "2026-11-23"]
+    title "gbrigandi/mcp-server-wazuh 星数(近 4 点)"
+    x-axis ["2026-10-21", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 239 --> 242
-    line [240, 241, 240]
+    line [240, 241, 240, 240]
 ```
 
-2026-10-20 240 → 2026-11-23 240（+0）
+2026-10-21 240 → 2026-11-24 240（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 1,064 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/yurijmikhalevich/rclip) · 个人维护
 
-**终端本地图片语义搜索工具：用自然语言或示例图查图**
+**终端本地离线图片语义搜索工具：自然语言或示例图找照片**
 
-本地离线的命令行图片搜索工具：对目录内图片建立索引并生成嵌入，支持自然语言查询、以图搜图（本地路径或 URL）以及文本与图片的加权组合与相减查询。首次运行时抽取特征建索引，后续增量更新；提供交互式终端缩略图 UI（需 Kitty graphics）、终端内预览、--filepath-only 输出以便管道搭配其他 Unix 工具。使用 OpenCLIP 的 ViT-B/32 模型（基于 OpenAI CLIP 架构）在本地机器上生成嵌入。支持 Linux/macOS(Apple Silicon)/Windows；HEIC 在 Linux 上不可用，RAW 格式为实验性支持。
+命令行图片搜索工具，在本地对指定目录及其子目录建索引，支持自然语言文本查询、以图搜图及多查询加减与权重组合，输出相似度评分排序的文件路径。模型在本地运行，索引不离开本机，可经 SSH 在无头服务器使用，支持管道接 xargs/feh、`--json` 供脚本与 AI agent 调用，另有交互式终端 UI（需 Kitty 图形支持）。首次运行需建索引，耗时随图片数量与 CPU 而定。通过 snap/AppImage/brew/MSI/pip 分发。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 自然语言、以图搜图及文本图片组合加权/相减查询
-- 完全本地离线运行，图片不离开本机
-- OpenCLIP ViT-B/32 模型生成图文嵌入（CLIP 架构）
-- 增量索引：仅处理新增或变更的图片；交互式终端 UI 与 Kitty graphics 预览
+- 本地离线运行，基于 OpenCLIP ViT-B/32 嵌入文本与图像
+- 文本与图像查询可加减组合并加权（如 `./beach.jpg` + sunset - people）
+- `--json` 输出供脚本与 AI agents 调用，可经 SSH 使用
+- 交互式终端 UI 支持网格/详情浏览与复制下载
 
 ## 适用场景
 
-- 在不导入照片库的前提下，用一句话搜索本地文件夹里的图片
-- 上传或整理照片时用示例图找相似图片并批量复制
-- 在 SSH 远程机器（如 NAS）上对海量照片做终端搜索，输出文件路径管道到其他工具
+- 不导入相册库，直接在本地文件夹按内容语义搜图
+- 在外部硬盘或 NAS 上离线检索照片
+- 用脚本或 AI agent 通过 --json 批量取图片搜索结果
 
 ## 场景标签
 
@@ -37,21 +37,21 @@
 
 ## 证据(README 行号)
 
-> L9: Search any folder by what its images contain. Use natural language, an example image, or both – without tagging, upl
-> L230: **rclip** currently uses the OpenCLIP's ViT-B/32 AI model to generate embeddings for images and text. This enables
+> L5: Search any folder by what its images contain. Use natural language, an example image, or both – without tagging, upl
+> L243: **rclip** currently uses OpenCLIP's ViT-B/32 model, based on OpenAI's CLIP architecture, to embed images and text 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "yurijmikhalevich/rclip 星数(近 21 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1017 --> 1068
-    line [1021, 1022, 1023, 1024, 1025, 1027, 1028, 1030, 1033, 1024, 1041, 1043, 1042, 1043, 1045, 1052, 1056, 1058, 1060, 1062, 1064]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 1018 --> 1068
+    line [1022, 1023, 1024, 1025, 1027, 1028, 1030, 1033, 1024, 1041, 1043, 1042, 1043, 1045, 1052, 1056, 1058, 1060, 1062, 1064, 1064]
 ```
 
-2026-10-21 1,021 → 2026-11-23 1,064（+43）
+2026-10-22 1,022 → 2026-11-24 1,064（+42）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `58c0d2f6acb8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d272db223a07` · [字段定义](../../DATASET.md)*

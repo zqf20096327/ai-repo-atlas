@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "presubmit/ai-reviewer 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 186 --> 189
-    line [188, 187, 187]
+    title "presubmit/ai-reviewer 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 186 --> 188
+    line [187, 187]
 ```
 
-2026-10-21 188 → 2026-11-23 187（-1）
+2026-10-22 187 → 2026-11-24 187（+0）
 
 
 ---

@@ -44,12 +44,12 @@ ICML 2024 论文 Visual-Text Cross Alignment 的官方实现。方法将输入�
 ```mermaid
 xychart-beta
     title "JinhaoLee/WCA 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-21 19 → 2026-11-23 19（+0）
+2026-10-22 19 → 2026-11-24 19（+0）
 
 
 ---

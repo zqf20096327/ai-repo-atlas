@@ -2,9 +2,9 @@
 
 ⭐ 1,072 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dynamiq-ai/dynamiq) · [官网](https://getdynamiq.ai) · 组织维护
 
-**面向开发者的 Agent 与 LLM 应用编排框架**
+**面向开发者的 agentic AI 与 LLM 应用编排框架**
 
-Python 编排框架，用于构建 agentic AI 与 LLM 应用，覆盖 ReAct Agent、多 Agent 顺序/并行编排、图编排器、RAG 文档索引与检索、带记忆的聊天机器人等能力。通过节点与 Workflow 抽象组织流程，支持 OpenAI 连接、Pinecone 向量库、E2B/Daytona/AWS Bedrock AgentCore 代码沙箱等集成。要求 Python 3.10+，以 pip 安装或从源码用 uv 构建，Apache 2 许可，由 dynamiq-ai 组织维护。
+Dynamiq 是一个用于开发 AI 应用的 Python 编排框架，聚焦 RAG 与 LLM agent 的编排。安装基础包即包含 agents、workflows、各 LLM provider、内置工具与记忆、PDF/Word/PPT/Excel 读取；需更大 SDK 的集成以 extras 提供（vectorstores、sql、browser、sandboxes、evals 等）。支持 Workflow 并行/串行 agent 编排、图编排器、带记忆的聊天、检查点暂停恢复、MCP server 工具与代码沙箱，另提供 dynamiq CLI 与官方平台交互。需 Python 3.11–3.14，Apache 2 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Python 编排框架，用于构建 agentic AI 与 LLM 应用，覆盖 ReAct Agen
 
 ## 能力要点
 
-- ReAct Agent 与多 Agent 顺序/并行/图编排
-- RAG 文档索引与检索流程（Pinecone 向量库）
-- Memory 模块存储与检索对话历史
-- E2B/Daytona/AWS Bedrock AgentCore 代码解释器工具
+- 基础包内置 agents、workflows、全部 LLM provider、工具与记忆
+- 按 extras 组织重型集成：vectorstores/files/sql/browser/sandboxes/evals 等
+- 支持 ReAct agent、多 agent 并行/串行 Workflow、Graph Orchestrator
+- 提供 dynamiq CLI 部署工作流并管理知识库、数据集与评估
 
 ## 适用场景
 
-- 编排多 Agent 工作流处理复杂编码任务
-- 搭建带向量库的 RAG 索引与问答流程
-- 构建带对话记忆的聊天应用
+- 构建 RAG 文档索引与检索问答流水线
+- 编排多个协作 agent 完成复杂任务
+- 为 agent 挂载代码沙箱与 MCP 工具
 
 ## 场景标签
 
@@ -45,13 +45,13 @@ Python 编排框架，用于构建 agentic AI 与 LLM 应用，覆盖 ReAct Agen
 ```mermaid
 xychart-beta
     title "dynamiq-ai/dynamiq 星数(近 8 点)"
-    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-24"]
     y-axis "stars" 1070 --> 1075
     line [1071, 1072, 1071, 1073, 1074, 1073, 1072, 1072]
 ```
 
-2026-10-21 1,071 → 2026-11-23 1,072（+1）
+2026-10-22 1,071 → 2026-11-24 1,072（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `da0ddd05ebf9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `502d62110a0b` · [字段定义](../../DATASET.md)*

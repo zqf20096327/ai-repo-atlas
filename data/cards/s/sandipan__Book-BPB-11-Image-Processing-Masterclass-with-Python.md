@@ -44,12 +44,12 @@ BPB 出版图书《Image Processing Masterclass with Python》的代码仓库，
 ```mermaid
 xychart-beta
     title "sandipan/Book-BPB-11-Image-Processing-Masterclass-with-Python 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-24"]
     y-axis "stars" 27 --> 30
     line [28, 29, 28, 29, 29]
 ```
 
-2026-10-21 28 → 2026-11-23 29（+1）
+2026-10-22 28 → 2026-11-24 29（+1）
 
 
 ---

@@ -46,12 +46,12 @@ LITERA-AI 单体仓库，包含 Flutter 移动客户端、FastAPI 后端与独�
 ```mermaid
 xychart-beta
     title "MuhammadLutfiMuzakiiVY/Litera-AI-Android 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-21 16 → 2026-11-23 16（+0）
+2026-10-22 16 → 2026-11-24 16（+0）
 
 
 ---

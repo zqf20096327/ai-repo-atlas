@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mahmud-Mahi/Seren--Your-IELTS-Tutor 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-23"]
+    title "Mahmud-Mahi/Seren--Your-IELTS-Tutor 星数(近 4 点)"
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-23", "2026-11-24"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 10]
+    line [10, 11, 10, 10]
 ```
 
-2026-11-13 10 → 2026-11-23 10（+0）
+2026-11-13 10 → 2026-11-24 10（+0）
 
 
 ---

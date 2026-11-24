@@ -41,6 +41,18 @@
 > L19: 书桌防线是一款迷宫式塔防游戏。棋盘是一张 12×14 的书桌，铅笔、订书机、台灯、圆规这些文具就是塔；每座塔（包括墙）都会挡路，所以怎么摆塔，就是怎么修迷宫。
 > L48: - **模型来源**：Claude、OpenAI、Gemini、DeepSeek 等托管 API，OpenAI 兼容的中转服务，本机的 Ollama / LM Studio，或者不需要 Key 的离线演示。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Owlbay/desk-defense 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `68687472fe46` · [字段定义](../../DATASET.md)*

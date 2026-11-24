@@ -2,9 +2,9 @@
 
 ⭐ 889 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/sbi-dev/sbi) · [官网](https://sbi.readthedocs.io) · 组织维护
 
-**Python 仿真推断库：用贝叶斯方法估计仿真器参数后验分布**
+**面向科研与工程的贝叶斯参数推断库**
 
-面向研究者与从业者的 Python 仿真推断（SBI）包：给定仿真器与观测数据，基于机器学习估计参数的完整后验分布，量化不确定性与参数交互。实现 NPE/NLE/NRE/NVI/MNLE 等多类算法，分摊式方法可跨观测复用估计器，序列式方法优化仿真次数；提供低层与高层两种接口，并内置后验验证与可视化工具。需 Python 3.11+，GPU 非必需；Pyro/PyMC 采样器为可选安装。Apache-2.0 许可，NumFOCUS 附属项目。
+提供基于模拟的贝叶斯参数推断：输入模拟器参数与输出样本，估计后验分布并量化不确定性。实现 NPE/NLE/NRE/NVI/MNLE 等方法族，支持摊销式与序贯两种训练模式。提供高级接口（几行代码完成推断）与底层接口（可调节训练细节），附带后验校验与可视化诊断工具。可选集成 Pyro/PyMC MCMC 采样器。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 估计仿真器参数的完整后验分布并量化不确定性
-- 覆盖 NPE/NLE/NRE/NVI/MNLE 多类神经推断算法
-- 分摊式与序列式两类推断方法
-- 内置后验验证与绘图分析工具
+- 实现 NPE、NLE、NRE、NVI、MNLE 等多种推断算法
+- 支持摊销式（amortized）与序贯（sequential）两种模式
+- 内置后验校验与绘图诊断工具
+- 可选集成 Pyro/PyMC 采样器
 
 ## 适用场景
 
-- 为科学仿真模型做贝叶斯参数估计
-- 在多个观测上复用已训练的后验估计器
-- 分析和可视化推断得到的后验分布
+- 给定物理/生物模拟器，估计其参数的后验分布
+- 需要量化参数不确定性并检验后验质量的推断任务
+- 同一模拟器多次观测下复用训练好的后验估计器
 
 ## 场景标签
 
- · 领域:科学计算/统计推断
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L15: `sbi` is a Python package for simulation-based inference, designed to meet the needs of
 > L19: With `sbi`, you can perform parameter inference using Bayesian inference: Given a
-> L20: simulator that models a real-world process, SBI estimates the full posterior
+> L36: In addition, `sbi` supports a wide range of state-of-the-art inference algorithms (see
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "sbi-dev/sbi 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-24"]
     y-axis "stars" 875 --> 891
     line [876, 877, 879, 880, 882, 876, 884, 886, 887, 888, 889, 890, 889, 889]
 ```
 
-2026-10-21 876 → 2026-11-23 889（+13）
+2026-10-22 876 → 2026-11-24 889（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `48699251abce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a5978a395d82` · [字段定义](../../DATASET.md)*

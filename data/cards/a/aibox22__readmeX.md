@@ -2,9 +2,9 @@
 
 ⭐ 672 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/aibox22/readmeX) · 个人维护 · 中文 README
 
-**AI 驱动的 README 与项目 logo 自动生成 CLI 工具**
+**给 AI Agent 用的 README 写作技能：创建、审查、优化三条流水线**
 
-Python CLI 工具 readmex：分析项目代码后用 LLM 生成结构化 Markdown README，并附带生成项目结构文件、脚本描述 JSON、requirements.txt 和 logo.png；支持通过配置切换模型，可全程本地运行（使用用户自有模型）。需要配置 LLM 与文生图模型的 API key（环境变量或 ~/.readmex/config.json），Python 3.7+ 环境，pip 安装。识别 Web、编程语言、构建配置等数十种技术栈。
+以 Agent Skills 形式分发的 README 写作技能：对话中的 AI 读取 `skills/readmex` 后执行创建、审查、优化三条流水线，可分开使用；审查流水线对照仓库核对正文主张并输出记分卡（五项阻断全部通过、八项至少 14/16），优化流水线把需要保留的图渲染为静态 SVG。扫描与机械检查由仓库内的 Python 脚本完成，图表渲染用 Node.js 脚本，机械脚本只报告事实不打分。安装方式是把技能目录整目录复制到支持 Agent Skills 的工具（如 Cursor）的技能目录。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Python CLI 工具 readmex：分析项目代码后用 LLM 生成结构化 Markdow
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,38 +20,39 @@ Python CLI 工具 readmex：分析项目代码后用 LLM 生成结构化 Markdow
 
 ## 能力要点
 
-- 分析项目代码并生成 README.md、logo.png、requirements.txt 等产物
-- 需配置 LLM 与文生图两个 API key（环境变量或全局配置文件）
-- 声明可全程本地运行（使用自有模型）
-- 覆盖数十种编程语言与构建配置类型的识别
+- 创建/审查/优化三条流水线，可独立或组合使用
+- 审查对照仓库文件与行号核对正文主张，核对失败不发布对应图
+- 输出记分卡：五项阻断项加八项评分（至少 14/16）
+- 图表仅支持 architecture 或 workflow 两种类型，可渲染为静态 SVG
 
 ## 适用场景
 
-- 为缺少文档的开源项目快速生成 README
-- 自动生成项目 logo 与技术栈徽章
-- 在 CI/CD 中通过环境变量配置自动产出文档
+- 为还没有 README 的项目快速生成中文 README 初稿
+- 对已有 README 做记分卡式审查，找出与仓库不符的表述
+- 把 README 中的架构图、流程图转为可版本管理的静态 SVG
 
 ## 场景标签
 
-`AI 写作` `图像生成` · 领域:内容生成
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L7:  🚀 AI-Powered README Generator: Automatically creates beautiful READMEs and interactive wikis for any repository! Ca
-> L46: AI-Powered README Generator is an AI-powered tool that automatically generates comprehensive Markdown README files 
+> L3: 用创建、审查、优化三条流水线，把 README 写成能对照仓库核对的正文。对话里的 AI 读取 `skills/readmex` 后写作；扫描、机械检查和渲染由仓库里的脚本完成。
+> L9: 三条流水线可以分开用。快速创建只起稿；审查对照仓库核对主张；优化把需要保留的图做成静态 SVG。生图和 GIF 都要明确同意后才会做。
+> L34: 需要能加载 Agent Skills 的工具。技能目录是 `skills/readmex`，安装时整目录复制。Cursor 的用户技能目录是 `~/.cursor/skills`：
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "aibox22/readmeX 星数(近 16 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-24"]
     y-axis "stars" 635 --> 675
     line [638, 649, 651, 648, 652, 653, 655, 656, 657, 660, 659, 648, 664, 671, 672, 672]
 ```
 
-2026-10-20 638 → 2026-11-23 672（+34）
+2026-10-21 638 → 2026-11-24 672（+34）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `0457def0ec65` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `91ca8e1301fc` · [字段定义](../../DATASET.md)*

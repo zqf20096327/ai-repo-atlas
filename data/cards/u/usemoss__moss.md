@@ -2,9 +2,9 @@
 
 ⭐ 941 · Python · BSD-2-Clause · 推送 2026-11-19 · [GitHub](https://github.com/usemoss/moss) · [官网](https://moss.dev) · 组织维护
 
-**面向 AI agent 的嵌入式语义检索运行时，亚 10ms 混合搜索**
+**给实时 AI agent 用的亚 10ms 进程内语义检索运行时**
 
-Moss 是嵌入应用进程内的语义检索运行时，为对话式 AI agent 提供语义+关键词混合搜索、内置 embedding 模型、元数据过滤（$eq/$and/$in/$near），有 Python/TypeScript/Elixir/C SDK 及浏览器端 WebAssembly 构建。架构分三部分：Moss Cloud 负责摄取、embedding 与索引分发，运行时通过 HTTPS 拉取索引后在本地内存中服务查询。使用需在 moss.dev 注册获取 project_id/project_key（有免费层）。仓库主体为 BSD 2-Clause，同步发布的 SDK 采用 PolyForm Shield License。提供 LangChain、LlamaIndex、Pipecat 等约 20 项框架集成与 CLI。
+Moss 是面向对话式 AI agent 的语义搜索运行时：混合检索（语义+关键词）、内置嵌入模型、元数据过滤，SDK 嵌入应用进程内运行，查询不经网络跳转。索引托管在 Moss Cloud（需注册 project_id/project_key），运行时通过 HTTPS 拉取索引并在本地内存中响应查询。提供 Python/TypeScript/Elixir/C SDK 与浏览器端 WebAssembly 构建、CLI、数据库连接器及大量框架集成示例。SDK 部分采用 PolyForm Shield 许可，其余为 BSD 2-Clause。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Moss 是嵌入应用进程内的语义检索运行时，为对话式 AI agent �
 
 ## 能力要点
 
-- 混合检索（语义+关键词）与内置 embedding 模型，无需 OpenAI key
-- 浏览器端 WebAssembly SDK（@moss-dev/moss-web）可完全客户端运行
-- SQLite/MongoDB/MySQL/Supabase 数据库连接器直接摄取
-- 约 20 项框架集成（LangChain、LlamaIndex、Pipecat、LiveKit、n8n 等）与 CLI
+- 查询在进程内完成，亚 10ms 延迟（基准测试 P50 3.1ms）
+- 内置嵌入模型，无需外部 embedding 服务或 API key
+- WebAssembly 版本可在浏览器客户端离线运行检索
+- 与 LangChain/LlamaIndex/Pipecat/LiveKit/Vapi 等框架有集成示例
 
 ## 适用场景
 
-- 为语音 agent 或 copilot 提供低延迟检索层
-- 在浏览器或离线优先应用中做客户端语义搜索
-- 用 Ollama + Pipecat 组合搭建全本地运行的语音 agent
+- 为语音对话 agent 提供低延迟 RAG 检索
+- 在静态网站或浏览器扩展中做纯客户端语义搜索
+- 从 SQLite/MongoDB/MySQL/Supabase 直接摄取文档建索引
 
 ## 场景标签
 
@@ -38,21 +38,21 @@ Moss 是嵌入应用进程内的语义检索运行时，为对话式 AI agent �
 ## 证据(README 行号)
 
 > L12: Moss is a sub-10 ms semantic search runtime built for Conversational AI agents. Hybrid retrieval (semantic + Keywor
-> L14: No network hop on the hot path. No clusters to tune. Point the SDK at Moss Cloud, load your index, and query it in 
 > L176: - **Runtime** - embedded in your application. It pulls indexes over HTTPS, holds them in memory, and serves querie
+> L182: - **Server-side** - `moss` (Python) and `@moss-js/moss` (Node.js 20+) embed the runtime in your backend. Use this 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "usemoss/moss 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 783 --> 955
-    line [798, 797, 798, 797, 798, 800, 801, 800, 801, 798, 806, 805, 807, 889, 924, 941]
+    line [797, 798, 797, 798, 800, 801, 800, 801, 798, 806, 805, 807, 889, 924, 941, 941]
 ```
 
-2026-10-21 798 → 2026-11-23 941（+143）
+2026-10-22 797 → 2026-11-24 941（+144）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `b79931a4e5b6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `28743180c577` · [字段定义](../../DATASET.md)*

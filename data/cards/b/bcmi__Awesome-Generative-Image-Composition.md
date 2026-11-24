@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bcmi/Awesome-Generative-Image-Composition 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 153 --> 155
     line [154, 154]
 ```
 
-2026-10-21 154 → 2026-11-23 154（+0）
+2026-10-22 154 → 2026-11-24 154（+0）
 
 
 ---

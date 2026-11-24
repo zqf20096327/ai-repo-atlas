@@ -40,6 +40,18 @@ Cordon 是面向 LLM 应用的开源多层安全中间件，在提示词进入�
 > L17: **Cordon** is an open-source, multi-layered security firewall and middleware for Large Language Model (LLM) applica
 > L86: - **Multi-Signal Learned Fusion**: Stacking Random Forest meta-classifier fuses statistical ML, pattern heuristics,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "harshitrwt/Cordon 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `60b79d3fce9c` · [字段定义](../../DATASET.md)*

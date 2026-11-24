@@ -42,6 +42,18 @@
 > L41: - **Search built in** — BM25 full-text search, fuzzy trigram/Levenshtein search, and exact vector search in the sam
 > L170: - Vector search with `cosine`, `dot`, and `l2` metrics. Vectors are stored in
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "essmos/nonodb 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
+```
+
+2026-11-23 22 → 2026-11-24 22（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `de27fb0109e8` · [字段定义](../../DATASET.md)*

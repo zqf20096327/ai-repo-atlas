@@ -2,9 +2,9 @@
 
 ⭐ 937 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
 
-**以 .prompt 文件为源码、由 LLM 生成实现代码的开发系统**
+**以 Prompt 为源代码的开发方法与 CLI 工具链**
 
-Prompt-Driven Development 的 CLI 与 Web 工具：开发者以 .prompt 文件编写意图、约束、示例与测试，由 LLM 将其编译为 Python/TypeScript/Go 等实现代码；代码仍可审阅但不再是首要事实源。提供 pdd change/bug/fix/split/generate/test 等 agentic 命令（含 13-18 步固定工作流）实现 GitHub issue，依赖至少一个 agentic CLI 后端（Claude Code、Antigravity、Gemini CLI、Codex、OpenCode）；pdd setup 向导检测 CLI、扫描 API key 并按 LiteLLM 模型排名配置模型。需 Python 3.12+。
+PDD 提供 `pdd` 命令行与一组 agent 技能：用户编写 Prompt 与 Story 作为程序源，PDD 解释器在代码生成前运行检查与模拟，随后由 agent 从 Prompt 生成代码。工作流包含 pdd lint/test/simulate/approve 等命令，配合 GitHub issue 标签驱动 Autopilot 自动开 PR、审查与合并（off/observe/auto 三种模式）。需要 Node.js 22.16.0+、Git、GitHub CLI 及任一 agent CLI，支持 macOS 与 Linux。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@ Prompt-Driven Development 的 CLI 与 Web 工具：开发者以 .prompt 文件�
 
 ## 能力要点
 
-- .prompt 文件为源语言，传统语言为生成产物
-- agentic CLI 命令自动实现/修复 GitHub issue（固定步骤工作流）
-- 支持 Claude Code/Antigravity/Gemini CLI/Codex/OpenCode 多后端
-- pdd setup 向导检测凭证并按 LiteLLM 模型排名配置模型
+- Prompt 即源码：pdd 解释器在无代码阶段运行测试与模拟（CLI/HTTP API/浏览器界面）
+- Autopilot 按 GitHub issue 标签在后台运行 agent 并开 PR，支持 observe/auto 模式
+- 技能体系：pdd-feature/pdd-product/pdd-bug 等 6 类技能供 agent 调用
+- pdd autopilot doctor 做环境自检，不做 GitHub 写入与 AI 调用
 
 ## 适用场景
 
-- 用提示文件管理项目源码并生成多语言实现
-- 自动实现、修复 GitHub issue 并生成测试
-- 拆分过大的开发单元
+- 让 agent 按 issue 自动完成功能开发并提交 PR
+- 在写代码之前通过模拟验证程序行为与验收标准
+- 以 Story 验收测试驱动 prompt 迭代与 bug 修复
 
 ## 场景标签
 
-`提示工程` `编码 Agent` `代码生成` · 领域:Agent 开发
+`提示工程` `代码生成` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7: PDD (Prompt-Driven Development) is a prompt-native programming system. `.prompt`
-> L32: For CLI users, PDD also offers powerful **agentic commands** that implement GitHub issues automatically:
-> L189: 2. **One Agentic CLI** - Required to run the workflows (install at least one):
+> L5: In PDD, you write prompts and Stories. The prompts are the source of your program. The PDD interpreter runs the prom
+> L16: PDD is the `pdd` command and a set of skills for your agent. Your agent writes the prompts, the Stories, the tests 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "promptdriven/pdd 星数(近 17 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-23"]
-    y-axis "stars" 897 --> 940
-    line [900, 903, 906, 911, 913, 914, 916, 918, 923, 926, 913, 932, 934, 935, 936, 937, 937]
+    title "promptdriven/pdd 星数(近 16 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-24"]
+    y-axis "stars" 900 --> 940
+    line [903, 906, 911, 913, 914, 916, 918, 923, 926, 913, 932, 934, 935, 936, 937, 937]
 ```
 
-2026-10-21 900 → 2026-11-23 937（+37）
+2026-10-22 903 → 2026-11-24 937（+34）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `f6ce7fcd5298` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0208e38cec5c` · [字段定义](../../DATASET.md)*

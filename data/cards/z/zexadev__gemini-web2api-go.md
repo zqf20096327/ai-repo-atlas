@@ -2,9 +2,9 @@
 
 ⭐ 992 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zexadev/gemini-web2api-go) · 个人维护 · 中文 README
 
-**自托管代理：把 Gemini 网页端反代成 OpenAI 兼容 API**
+**把 Gemini 网页端反代成 OpenAI 兼容 API 的自托管 Go 服务**
 
-用 Go 编写的单二进制代理服务，逆向 gemini.google.com 网页协议，对外暴露 /v1/chat/completions 等 OpenAI 兼容接口，无需 Google API key。机制上用 utls 模拟 Chrome 146 TLS 指纹，提供 cookie 池自动续期、代理池轮转与按出口 IP 三档限流；支持匿名调用两档文本模型，挂 Google cookie 后解锁 Pro 模型、扩展思考、读图、生图/音乐/画布/生视频。内置中文管理面板，SQLite/MySQL/PostgreSQL 持久化，prompt 与回复内容不入库。同一进程还挂 MCP server 暴露 web_search 工具。限制：多轮上下文靠拼接 prompt，匿名约 13 万字节、挂 cookie 约 16 万字节后仍需客户端自行压缩；深度研究未实现。
+自托管代理服务：逆向 gemini.google.com 网页协议，对外提供 OpenAI 兼容接口、Gemini 原生接口和 MCP 工具，不需要 Google API key。关键机制包括 utls 模拟 Chrome 146 TLS 指纹、多账号 Cookie 池自动续期与轮转、代理池熔断调度、strict_model 降级返回 429。单 Go 二进制交付，支持 Docker 与源码构建，内置中文管理面板，持久化默认 SQLite，可选 MySQL/PostgreSQL；prompt 与回复内容不写库，只存元数据。需要 Google 账号 cookie 才能使用部分模型与图片/视频功能。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- 逆向 Gemini 网页协议输出 /v1/chat/completions 等 OpenAI 兼容接口，无需 API key
-- utls 模拟 Chrome 146 TLS 指纹 + cookie 池自动续期 + 代理池轮转 + 按出口 IP 限流
-- 支持生图（Nano Banana）、音乐（Lyria）、画布与异步视频生成（/v1/videos）
-- 内置中文管理面板，SQLite/MySQL/PG 存储，prompt 与回复内容永不入库
-- 同进程 MCP server 把 Gemini 联网搜索暴露为 web_search 工具
+- OpenAI 兼容 + Gemini 原生 + /v1/videos 视频生成三套接口同一端口提供
+- Cookie 池最久未用优先轮转、自动续期，代理池熔断与独立限流
+- strict_model 模式：静默降级不算成功，全池降级回 429
+- 内置中文管理面板，前端单 HTML 不走 CDN，支持离线部署
 
 ## 适用场景
 
-- 让 Cherry Studio / ChatBox / Cursor 等 OpenAI 兼容客户端直接调用 Gemini 网页端
-- 在 newapi / one-api 中添加 OpenAI 类型渠道接入此代理
-- 通过 Claude Desktop / Claude Code 等 MCP 客户端使用 Gemini 联网搜索工具
-- 自托管零 API key 的 LLM 网关并管理多账号 cookie 与代理池
+- 给 Cherry Studio / ChatBox / dify 等 OpenAI 兼容客户端接入 Gemini 网页端
+- 通过 newapi/one-api 建渠道聚合使用
+- 在 Claude Desktop / Claude Code 中以 MCP 工具调用联网搜索、生图、视频生成
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`模型网关` `视频生成` `图像生成` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: **Gemini web → OpenAI-compatible API.** A self-hosted proxy that turns the free gemini.google.com web app into `/v1/
-> L27:     ↓ 逆向 gemini.google.com 网页协议
+> L18: 把 Google Gemini 网页端反代成 OpenAI 兼容 API，同一端口还提供 Gemini 原生接口和 MCP 工具。**单二进制**，**零账号**（匿名可跑），**Chrome 146 真指纹**，**SQLite
+> L238: 除了 OpenAI 接口，同一个进程、同一个端口还挂了一个 **MCP server**，在 `/mcp` 上，
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "zexadev/gemini-web2api-go 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 622 --> 1025
-    line [655, 666, 673, 682, 687, 692, 704, 716, 723, 726, 734, 746, 750, 687, 813, 829, 836, 845, 854, 863, 874, 895, 907, 922, 941, 963, 981, 992]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 634 --> 1024
+    line [666, 673, 682, 687, 692, 704, 716, 723, 726, 734, 746, 750, 687, 813, 829, 836, 845, 854, 863, 874, 895, 907, 922, 941, 963, 981, 992, 992]
 ```
 
-2026-10-21 655 → 2026-11-23 992（+337）
+2026-10-22 666 → 2026-11-24 992（+326）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4be47e7d78f1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b9394a9772ef` · [字段定义](../../DATASET.md)*

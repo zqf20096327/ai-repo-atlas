@@ -2,9 +2,9 @@
 
 ⭐ 754 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/emarco177/langgraph-course) · [官网](https://www.udemy.com/course/langchain/) · 个人维护
 
-**LangGraph 实操课程仓库：分分支分提交学习 LLM agent 开发**
+**面向开发者的 LangGraph 实战课程配套代码仓库**
 
-Udemy 课程的配套代码仓库，按分支组织项目、按提交组织课程：agentic-rag（带评分与自适应路由的 RAG 管道）、ReAct agent、reflection/reflexion agent、多步图等 6 个分支项目。Agentic RAG 分支拆为 11 个提交课程，覆盖数据摄取、图状态、检索、文档评分、Tavily 网页搜索、生成、图连线、Self-RAG 与自适应路由。通过 git clone 获取，需配置 OPENAI_API_KEY，Tavily 与 LangSmith 追踪为可选。
+Udemy 课程的动手实践配套仓库，以分支为单位组织 6 个 LangGraph 项目（Agentic RAG、ReAct、Reflection、Reflexion 等），以提交为单位对应课程课时，可通过 checkout 分支与回溯提交逐课学习。包含分课时提交索引、.env 环境变量配置（OpenAI/Tavily/LangSmith key）、Discord 社区与课程配套模板仓库。需按课程学习使用，非独立软件。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@ Udemy 课程的配套代码仓库，按分支组织项目、按提交组织课�
 
 ## 能力要点
 
-- 每分支一个项目、每提交一课的代码组织方式
-- Agentic RAG 分支 11 节课：从摄取管道到自适应路由
-- 涵盖 ReAct、Reflection、Reflexion 三类 agent 模式
-- 提供 LangJobs 求职板与 Discord 社区入口
+- 每个分支一个项目、每个提交一节课的课程结构
+- 覆盖 Agentic RAG、ReAct、Reflection/Reflexion 等工作流实现
+- 提交索引表列出各课时对应的 commit hash，可逐课检出
 
 ## 适用场景
 
-- 跟随分支与提交逐步学习 LangGraph agent 开发
-- 参考 Agentic RAG 管道（评分、网页搜索、自适应路由）的实现
-- cherry-pick 或回退提交以实验各个课程步骤
+- 跟学 LangGraph 构建 agent 的实战课程
+- 参考 Agentic RAG 的检索打分与自适应路由实现
+- 逐提交对比学习 agent 代码的演进过程
 
 ## 场景标签
 
@@ -38,20 +37,20 @@ Udemy 课程的配套代码仓库，按分支组织项目、按提交组织课�
 ## 证据(README 行号)
 
 > L10: > **Build production-grade AI agents—fast.** This repository is the hands-on companion to my Udemy bestseller. Ever
-> L31: ## 📚 Lesson-By-Lesson: *Agentic RAG* Branch
+> L33: |#|Commit|Lesson Title|Key Skill|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "emarco177/langgraph-course 星数(近 17 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 737 --> 755
-    line [738, 740, 741, 743, 744, 745, 746, 748, 743, 746, 747, 748, 749, 751, 752, 753, 754]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 739 --> 755
+    line [740, 741, 743, 744, 745, 746, 748, 743, 746, 747, 748, 749, 751, 752, 753, 754, 754]
 ```
 
-2026-10-21 738 → 2026-11-23 754（+16）
+2026-10-22 740 → 2026-11-24 754（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e16f0eb3c423` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5dfe90de6bb3` · [字段定义](../../DATASET.md)*

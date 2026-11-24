@@ -41,6 +41,18 @@
 > L55: AGENTS.md            instructions every agent reads (CLAUDE.md imports it)
 > L58: src/jobhunt/         the jobhunt CLI: standard-library Python, no dependencies
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lincolixavier/job-hunt-agent 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-11-23 21 → 2026-11-24 21（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b7b35c85aa6f` · [字段定义](../../DATASET.md)*

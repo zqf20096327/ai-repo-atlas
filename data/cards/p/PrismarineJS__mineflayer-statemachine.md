@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "PrismarineJS/mineflayer-statemachine 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-23"]
-    y-axis "stars" 137 --> 141
-    line [138, 139, 140, 139, 139]
+    title "PrismarineJS/mineflayer-statemachine 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-24"]
+    y-axis "stars" 138 --> 141
+    line [139, 140, 139, 139]
 ```
 
-2026-10-21 138 → 2026-11-23 139（+1）
+2026-10-22 139 → 2026-11-24 139（+0）
 
 
 ---

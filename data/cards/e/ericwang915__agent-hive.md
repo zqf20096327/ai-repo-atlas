@@ -44,13 +44,13 @@ Agent Hive 是一款开源 macOS 应用，把 Claude Code、Codex、Gemini CLI�
 
 ```mermaid
 xychart-beta
-    title "ericwang915/agent-hive 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "ericwang915/agent-hive 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 3 --> 24
-    line [4, 14, 21, 23]
+    line [4, 14, 21, 23, 23]
 ```
 
-2026-11-20 4 → 2026-11-23 23（+19）
+2026-11-20 4 → 2026-11-24 23（+19）
 
 
 ---

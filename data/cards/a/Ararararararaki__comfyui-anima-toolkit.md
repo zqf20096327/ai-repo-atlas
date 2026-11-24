@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ararararararaki/comfyui-anima-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-23"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 42, 42]
+    title "Ararararararaki/comfyui-anima-toolkit 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-01", "2026-11-06", "2026-11-24"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 42, 42]
 ```
 
-2026-10-21 41 → 2026-11-23 42（+1）
+2026-10-22 42 → 2026-11-24 42（+0）
 
 
 ---

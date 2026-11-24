@@ -2,9 +2,9 @@
 
 ⭐ 726 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/sanidhyy/duolingo-clone) · [官网](https://lingo-clone.vercel.app) · 个人维护
 
-**Duolingo 风格的交互式语言学习 Web 平台**
+**开发者用的语言学习平台克隆项目（Next.js 全栈模板）**
 
-基于 Next.js/React/TypeScript 的语言学习 Web 应用，功能含课程挑战、进度追踪、Quests 任务与商店，使用 Clerk 做认证、Neon/PostgreSQL 存储数据、Drizzle ORM、Stripe 支付，部署目标为 Vercel。搭建需配置多个第三方服务的密钥（Clerk、数据库 URI、Stripe），通过 pnpm 安装依赖并运行数据库种子脚本后启动。README 仅在致谢中提及 Elevenlabs AI 作为资源，未描述内置 AI 功能。
+基于 React/Next.js/TypeScript 的语言学习 Web 应用，含挑战进度、任务（Quests）、商店等界面截图展示。数据层使用 Drizzle ORM 连接 Neon PostgreSQL，身份认证依赖 Clerk，支付集成 Stripe，提供管理后台（react-admin）。README 给出完整部署流程：配置 .env.local 密钥（Clerk/Neon/Stripe）、pnpm 安装依赖、执行种子脚本写入课程数据，支持 Vercel 部署。技术栈致谢中列出 Elevenlabs AI。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 课程挑战与进度追踪，含 Quests 与商店功能
-- Clerk 认证 + Neon/PostgreSQL + Drizzle ORM + Stripe 支付的完整技术栈
-- 提供 pnpm 安装与数据库种子脚本的一键搭建流程
-- 支持部署到 Vercel
+- Next.js + TypeScript + Tailwind CSS 全栈实现
+- Drizzle ORM + Neon PostgreSQL 数据持久化与种子脚本
+- Clerk 认证与 Stripe 支付/ webhook 集成
+- 提供 Vercel 部署路径与 react-admin 管理后台依赖
 
 ## 适用场景
 
-- 学习 Next.js 全栈开发的参考项目
-- 自建语言学习练习平台
-- 研究认证、支付、数据库集成的完整 Web 应用结构
+- 作为语言学习类 Web 应用的开发起点模板
+- 学习 Next.js + Drizzle + Clerk + Stripe 的全栈集成方式
+- 部署一个包含课程进度、商店、任务系统的学习平台
 
 ## 场景标签
 
- · 领域:教育/Web 应用
+ · 领域:教育/语言学习
 
 ## 证据(README 行号)
 
-> L1: # Lingo - Interactive platform for language learning.
+> L120: React JS Next JS Typescript Tailwind CSS Vercel Postgresql
 > L137: - Elevenlabs AI: https://elevenlabs.io/
+> L82: 11. Install Project Dependencies using `pnpm install`.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "sanidhyy/duolingo-clone 星数(近 23 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 680 --> 730
-    line [684, 685, 686, 687, 690, 691, 693, 694, 695, 686, 705, 707, 710, 712, 713, 714, 715, 716, 717, 721, 722, 724, 726]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 681 --> 730
+    line [685, 686, 687, 690, 691, 693, 694, 695, 686, 705, 707, 710, 712, 713, 714, 715, 716, 717, 721, 722, 724, 726, 726]
 ```
 
-2026-10-21 684 → 2026-11-23 726（+42）
+2026-10-22 685 → 2026-11-24 726（+41）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `abbbadffe369` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 low · 依据 README sha `ac23c63f136b` · [字段定义](../../DATASET.md)*

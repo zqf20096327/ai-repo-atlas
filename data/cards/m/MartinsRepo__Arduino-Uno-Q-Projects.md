@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MartinsRepo/Arduino-Uno-Q-Projects 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "MartinsRepo/Arduino-Uno-Q-Projects 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 39 --> 41
+    line [40, 40]
 ```
 
-2026-10-21 39 → 2026-11-23 40（+1）
+2026-10-22 40 → 2026-11-24 40（+0）
 
 
 ---

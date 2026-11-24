@@ -43,6 +43,18 @@
 > L50: This one line installs the project, runs all 91 tests and runs every audit. It works **fully offline: no API key, n
 > L103: |`providers/`|Connects to an AI model: the offline simulator or a real one|`LLMProvider` / `EmbeddingProvider` int
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "saberfazliahmadi/eu-trustworthy-llm-stack 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-23 5 → 2026-11-24 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `17ca8872b732` · [字段定义](../../DATASET.md)*

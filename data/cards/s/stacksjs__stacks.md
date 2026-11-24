@@ -2,9 +2,9 @@
 
 ⭐ 637 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/stacksjs/stacks) · [官网](https://stacksjs.com) · 组织维护
 
-**TypeScript 全栈应用与库的快速开发框架**
+**给全栈开发者的快速应用/库/云开发框架**
 
-面向 TypeScript 开发者的全栈开发框架，覆盖前端 UI（组件、路由、桌面打包）、后端（API、ORM、队列、缓存、多数据库）与云基础设施（Serverless、CDN、IaC）及 CI/CD 部署，通过 buddy CLI 统一操作，采用约定优于配置。AI 能力作为引擎之一提供：后端 agentic 工作流集成、云端用应用数据微调基础模型、LLM 友好作者化。前置依赖 Pantry 工具链（安装 Bun/Git/SQLite），要求 macOS/Linux/WSL，尚处 1.0 前活跃开发期。
+Stacks 是一个约定优于配置的全栈 TypeScript 开发框架，覆盖前端组件与路由、后端 serverless/传统 API、ORM 与数据库、云基础设施管理及 CI/CD 发布，通过统一的 Buddy CLI 驱动 dev/build/test/migrate 等日常流程。运行前提是通过 Pantry 工具链自动配置 Bun、Git、SQLite 等，目前要求 macOS、Linux 或 WSL 环境，Windows 原生支持在路线图中。框架内含 AI 相关引擎（agentic 工作流集成、用应用数据微调基础模型、LLM 友好创作），并提供供 Claude Code、Codex、Cursor 使用的 agent skills。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- 前端/后端/云/CI-CD 四类引擎覆盖全栈开发
-- buddy 单一 CLI 承担开发、构建、迁移、脚手架等日常操作
-- 后端 AI 引擎支持 agentic 工作流，云端支持用应用数据微调基础模型
-- LLM-Friendly Authoring：模型生成紧凑应用意图而非框架胶水代码
+- 单一 Buddy CLI 覆盖开发、构建、测试、迁移、部署流程
+- 前端/后端/云基础设施/CI-CD 多引擎一体框架
+- 支持 Web 与桌面应用（含系统托盘应用）
+- 提供供 Claude Code、Codex、Cursor 使用的 agent skills 与 LLM 友好创作模式
 
 ## 适用场景
 
-- 用 TypeScript 快速搭建全栈 Web 或桌面应用
-- 维护从本地开发到云基础设施部署的完整流程
-- 构建带 agentic AI 工作流的全栈应用
-- 开发并自动发布框架无关的组件与函数库
+- 用一套框架快速搭建 Web 与桌面全栈应用
+- 以约定优于配置方式创建和维护云基础设施
+- 构建框架无关的组件与函数库并自动发布
 
 ## 场景标签
 
- · 领域:Web/全栈开发框架
+ · 领域:开发框架/全栈开发工具
 
 ## 证据(README 行号)
 
 > L15: Stacks is a rapid development framework, where the goal is to _help you_ create & maintain frontends, backends, and
 > L128: - 🪄 **AI** _deep AI integrations to simplify building agentic workflow_
-> L176: - 🧠 **LLM-Friendly Authoring** _models generate compact application intent instead of repeating framework glue or 
+> L157: - 🤖 **AI** _fine-tune a foundational model using your application data_
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "stacksjs/stacks 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 633 --> 639
-    line [634, 636, 638, 637, 638, 637, 637]
+    title "stacksjs/stacks 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-21", "2026-11-24"]
+    y-axis "stars" 635 --> 639
+    line [636, 638, 637, 638, 637, 637]
 ```
 
-2026-10-21 634 → 2026-11-23 637（+3）
+2026-10-22 636 → 2026-11-24 637（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3e4c9a6d1d75` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7250d188763e` · [字段定义](../../DATASET.md)*

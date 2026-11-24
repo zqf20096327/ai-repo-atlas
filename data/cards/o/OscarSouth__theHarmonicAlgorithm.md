@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OscarSouth/theHarmonicAlgorithm 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 119 --> 122
-    line [120, 121, 121]
+    title "OscarSouth/theHarmonicAlgorithm 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 120 --> 122
+    line [121, 121]
 ```
 
-2026-10-21 120 → 2026-11-23 121（+1）
+2026-10-22 121 → 2026-11-24 121（+0）
 
 
 ---

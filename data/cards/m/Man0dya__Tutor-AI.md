@@ -44,13 +44,13 @@ FastAPI 后端 + React (Vite/TS/Chakra UI) 前端的全栈 AI 辅导应用：按
 
 ```mermaid
 xychart-beta
-    title "Man0dya/Tutor-AI 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 16 --> 19
-    line [18, 17, 17]
+    title "Man0dya/Tutor-AI 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
 ```
 
-2026-10-21 18 → 2026-11-23 17（-1）
+2026-10-22 17 → 2026-11-24 17（+0）
 
 
 ---

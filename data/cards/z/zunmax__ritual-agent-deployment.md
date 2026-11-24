@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zunmax/ritual-agent-deployment 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-10", "2026-11-23"]
-    y-axis "stars" 72 --> 76
-    line [75, 74, 73, 73]
+    title "zunmax/ritual-agent-deployment 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-10", "2026-11-24"]
+    y-axis "stars" 72 --> 75
+    line [74, 73, 73]
 ```
 
-2026-10-21 75 → 2026-11-23 73（-2）
+2026-10-22 74 → 2026-11-24 73（-1）
 
 
 ---

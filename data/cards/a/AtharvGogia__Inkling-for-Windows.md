@@ -47,12 +47,12 @@ Inkling 是 Windows 托盘应用：按 Ctrl+Alt+Space 在任意可输入位置�
 ```mermaid
 xychart-beta
     title "AtharvGogia/Inkling-for-Windows 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-23"]
+    x-axis ["2026-11-13", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-23 3（+0）
+2026-11-13 3 → 2026-11-24 3（+0）
 
 
 ---

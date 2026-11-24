@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "DonFungible/awesome-generative-ui 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-23"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 21, 22, 22]
+    title "DonFungible/awesome-generative-ui 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-24"]
+    y-axis "stars" 18 --> 23
+    line [19, 21, 22, 22]
 ```
 
-2026-10-21 18 → 2026-11-23 22（+4）
+2026-10-22 19 → 2026-11-24 22（+3）
 
 
 ---

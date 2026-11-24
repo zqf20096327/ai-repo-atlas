@@ -40,6 +40,18 @@
 > L3:  A Windows reference and setup guide for Descript Pro, transcription and screen recording capabilities, system profi
 > L19: Descript Pro is an AI-powered video and podcast editor that lets you edit audio and video by editing text, much lik
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Juanlabs1989/descript-pro-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 347 --> 349
+    line [348, 348]
+```
+
+2026-11-23 348 → 2026-11-24 348（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `d9901a731774` · [字段定义](../../DATASET.md)*

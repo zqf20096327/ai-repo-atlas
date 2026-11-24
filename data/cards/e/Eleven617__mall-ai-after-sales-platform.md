@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Eleven617/mall-ai-after-sales-platform 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 110 --> 117
-    line [116, 111, 111]
+    title "Eleven617/mall-ai-after-sales-platform 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 110 --> 112
+    line [111, 111]
 ```
 
-2026-10-21 116 → 2026-11-23 111（-5）
+2026-10-22 111 → 2026-11-24 111（+0）
 
 
 ---

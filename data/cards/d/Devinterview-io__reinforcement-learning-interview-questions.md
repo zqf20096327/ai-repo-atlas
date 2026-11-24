@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Devinterview-io/reinforcement-learning-interview-questions 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 66 --> 70
-    line [67, 68, 69, 69]
+    title "Devinterview-io/reinforcement-learning-interview-questions 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-21", "2026-11-24"]
+    y-axis "stars" 67 --> 70
+    line [68, 69, 69]
 ```
 
-2026-10-21 67 → 2026-11-23 69（+2）
+2026-10-22 68 → 2026-11-24 69（+1）
 
 
 ---

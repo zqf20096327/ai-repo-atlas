@@ -2,9 +2,9 @@
 
 ⭐ 799 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/shootthesound/Fizgig) · 个人维护
 
-**消费级 GPU 上训练图像/视频/音乐模型 LoRA 与微调的训练工作台**
+**面向消费级 GPU 的 LoRA 训练与微调工作台**
 
-面向图像、视频与音乐生成模型的 LoRA/LoKR 训练与全量微调工具：支持 Klein 9B、Flux 3 Image Klein、Krea 2、MiniMax H3、Qwen Image 2.1、MOSS-Image、Z-Image Turbo、SDXL、Anima 与 ACE-Step 1.5 XL 共 10 类模型，最低 8 GB 显存可训练。训练之外提供工作台：逐块修复 LoRA 不需重训、按 epoch 渲染对比、分块剖析与降秩提取。以自带窗口/浏览器 Web UI 形式运行，可连接局域网其他电脑 GPU 与 RunPod 租用算力；显存规划（精度、块交换）自动适配空闲显存。兼容加载 kohya、PEFT、OneTrainer、AI-Toolkit 与 LyCORIS 格式 LoRA，输出 .safetensors 可直接用于 ComfyUI。
+Fizgig 是一个 LoRA 与微调工作室：支持在消费级 GPU（最低 8 GB 显存）上对多款图像、视频与音乐基础模型进行 LoRA、LoKR 训练与全量微调，提供模型修复、epoch 目测挑选、热力图训练可视化、AI 打标（JoyCaption、WD EVA02）、Studio 渲染队列等功能。可在本地 Windows/Linux 安装，也支持一键部署到 RunPod 租赁硬件。支持 NVIDIA 与 AMD 显卡路径。
 
 ## 筛选速览
 
@@ -15,22 +15,22 @@
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 10 类图像/视频/音乐模型的 LoRA、LoKR、slider/edit LoRA 与全量微调，最低 8 GB 显存
-- 工作台四件套：Studio 逐块修复与混合、LoRA Royale epoch 对比、Profiler 分块剖析、Extract 降秩提取
-- Fizgig LoRA Isolation：多人训练入一个 LoRA 时互不串脸（50 个陌生人测试 0 串脸）
-- 自动显存规划（精度/块交换/预览自适应），支持局域网 Pods 与 RunPod 租用 GPU
+- 支持对十余款图像/视频/音乐模型训练 LoRA、LoKR 与全量微调
+- 消费级 GPU 最低 8 GB 显存即可训练，含显存不足自动恢复
+- 提供训练热力图、触发词注意力图与相似度评分（AdaFace）
+- 支持 NVIDIA 与 AMD 显卡，可部署到 RunPod
 
 ## 适用场景
 
-- 用自己的照片训练特定人物的 LoRA 并保持他人面部不变
-- 在不重训的前提下逐块调整、修复已下载的 LoRA
-- 按同一 seed 渲染各 epoch 对比，挑选最佳训练轮次
-- 在租用 GPU 或家中多台电脑上排队跑训练任务
+- 在自己的照片集上训练人物或风格 LoRA
+- 修复训练失败或效果不佳的 LoRA 而不重训
+- 本地显卡不足时在 RunPod 租赁 GPU 上训练
+- 为动漫/插画模型生成 booru 标签数据集
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 
 ## 证据(README 行号)
 
-> L39: A trainer and workbench for image, video and music models, in its own window on your computer, in your browser, or 
-> L47: Memory plans itself: precision, block swap and previews size to your free VRAM, and if a preview can't fit, trainin
+> L3:  Fine-tune base models on consumer GPUs — down to 8 GB. Fix broken LoRAs without retraining. Find the best epoch by 
+> L4:  A train · fine-tune · repair · explore workbench built end-to-end for Flux 2 Klein 9B , Flux 3 Image Klein , Fibo 2
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "shootthesound/Fizgig 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 541 --> 822
-    line [564, 585, 593, 599, 603, 610, 622, 629, 635, 642, 644, 651, 655, 603, 690, 714, 721, 730, 743, 748, 764, 771, 774, 776, 779, 785, 788, 799]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 564 --> 820
+    line [585, 593, 599, 603, 610, 622, 629, 635, 642, 644, 651, 655, 603, 690, 714, 721, 730, 743, 748, 764, 771, 774, 776, 779, 785, 788, 799, 799]
 ```
 
-2026-10-21 564 → 2026-11-23 799（+235）
+2026-10-22 585 → 2026-11-24 799（+214）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `bf1432537e31` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f70dd434015c` · [字段定义](../../DATASET.md)*

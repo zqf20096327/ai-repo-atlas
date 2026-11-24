@@ -2,9 +2,9 @@
 
 ⭐ 836 · Java · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ls1intum/Artemis) · [官网](https://docs.artemis.tum.de) · 组织维护
 
-**高校自托管互动学习与自动反馈平台（含可选 AI）**
+**面向高校的自托管交互式学习与自动反馈平台**
 
-面向大学与学校的开源教学平台：提供编程（内置版本控制与 CI、20 种语言模板）、测验、建模、文本、文件上传五类练习，自动评阅与个人反馈，在线考试（变体题目、查重、学生复核）、适应式学习路径与分析，以及沟通、讲座、LTI/Moodle 集成和 iOS/Android 客户端。AI 部分（Iris 虚拟辅导、Athena 反馈建议、Hyperion 题目编写）为可选、配置门控的外部 EduTelligence 服务。自托管，Angular+Spring Boot，Docker Compose 或 Ansible 部署，TUM 维护。
+开源教学平台（MIT，Spring Boot + Angular），供高校在大规模课程中提供编程、建模、测验、文本、文件上传等练习的自动与人工评估。编程提交经内置版本控制（LocalVC）与持续集成（LocalCI）自动构建、测试并生成基于测试用例的反馈；支持考试模式、查重、能力图谱与学习路径。AI 组件（Iris 虚拟导师、Athena 反馈建议、Hyperion 练习编写）均为可选并需配置开启。需 PostgreSQL，Docker Compose 可一键试用，生产部署推荐 Ansible。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 编程练习内置版本控制与 CI，可扩展构建容器内任意语言
-- 考试模式含每人变体题目、测试运行、JPlag 查重与学生复核
-- Iris/Athena/Hyperion 三项 AI 服务可选且配置门控，教师保留评阅责任
-- 一条 Docker 命令即可本地试用，含可工作的编程练习
+- 编程练习自动构建、测试并生成基于测试用例的反馈
+- 内置 LocalVC（Git 服务器）与 LocalCI（Docker 构建代理），无需外部 VCS/CI
+- 支持 20 种语言模板的编程练习与考试模式、查重（JPlag）
+- 可选 AI 服务：Iris 虚拟导师、Athena 反馈建议、Hyperion 练习编写
 
 ## 适用场景
 
-- 高校大规模编程课程自动评阅与个别反馈
-- 院系自行部署在线考试与适应性学习平台
-- 在教学中使用 LLM 虚拟辅导与反馈建议（可选）
+- 高校为大规模编程课程提供自动评分与个性化反馈
+- 组织带防作弊机制的在线考试
+- 接入现有 LMS（通过 LTI，如 Moodle）
+- 作为教育研究平台开展教学实验
 
 ## 场景标签
 
- · 领域:教育技术
+ · 领域:教育/教学平台
 
 ## 证据(README 行号)
 
-> L35: - **Responsible AI support.** Iris, Athena, and Hyperion are optional, configuration-gated
-> L106: Artemis integrates with the EduTelligence suite of
-> L107: AI services. **Iris** is an LLM-based virtual tutor that guides students with hints and leading
+> L34: - **Responsible AI support.** Iris, Athena, and Hyperion are optional, configuration-gated
+> L108: **Hyperion** is Artemis-native AI-assisted exercise authoring built on Spring AI. All of them are
+> L190: Artemis is decomposed into an application client (Angular) and an application server (Spring Boot).
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ls1intum/Artemis 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 817 --> 837
-    line [818, 820, 821, 822, 823, 824, 821, 828, 831, 832, 831, 832, 833, 834, 835, 836]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 819 --> 837
+    line [820, 821, 822, 823, 824, 821, 828, 831, 832, 831, 832, 833, 834, 835, 836, 836]
 ```
 
-2026-10-21 818 → 2026-11-23 836（+18）
+2026-10-22 820 → 2026-11-24 836（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5ca22d92a3b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9bf546f1567d` · [字段定义](../../DATASET.md)*

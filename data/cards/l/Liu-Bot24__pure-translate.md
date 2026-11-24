@@ -40,6 +40,18 @@ Chrome 与 Edge 的网页翻译扩展（Manifest V3），提供整页翻译、�
 > L15: Chrome 和 Edge 上简洁版的“沉浸式翻译”。不臃肿，只把心思花在你正在读的网页上。
 > L48: - **多种接口**：支持 OpenAI 兼容、Anthropic 兼容、DeepL 和 DeepLX。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Liu-Bot24/pure-translate 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-23 6 → 2026-11-24 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `000044a78de5` · [字段定义](../../DATASET.md)*

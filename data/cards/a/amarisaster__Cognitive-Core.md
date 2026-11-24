@@ -45,12 +45,12 @@ CogCor 是部署在 Cloudflare Workers + Supabase 上的 MCP 服务器，为 AI 
 ```mermaid
 xychart-beta
     title "amarisaster/Cognitive-Core 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-21 15 → 2026-11-23 15（+0）
+2026-10-22 15 → 2026-11-24 15（+0）
 
 
 ---

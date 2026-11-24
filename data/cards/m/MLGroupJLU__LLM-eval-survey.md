@@ -2,9 +2,9 @@
 
 ⭐ 1,615 · 推送 2026-11-18 · [GitHub](https://github.com/MLGroupJLU/LLM-eval-survey) · [官网](https://arxiv.org/abs/2307.03109) · 组织维护 · 中文 README
 
-**LLM 评测论文与资源的策展清单（综述配套）**
+**面向研究者的 LLM 评测论文集合**
 
-综述论文 A Survey on Evaluation of Large Language Models 的官方仓库：按 NLP、鲁棒性/伦理/可信、社科、自然科学与工程、医疗、Agent 应用等类别收录 LLM 评测相关论文条目，每条含作者与论文链接；另列出 PromptBench、LLM-eval 等相关项目。仓库声明更新比 arXiv 版本更及时，接受 pull request 与 issue 贡献。面向查找 LLM 评测文献的研究者与开发者。
+_survey on Evaluation of Large Language Models_ 论文的官方 GitHub 页面，按 survey 结构组织相关论文与资源清单："What to evaluate" 部分按自然语言处理（理解、推理、生成）、鲁棒性/伦理/可信性、社会科学、自然科学、医疗、Agent 等应用领域分类收录评测论文；"Where to evaluate" 部分收录基准相关资源。作者来自吉林大学、微软研究院等机构。仓库不接受实时更新 arXiv 论文，以仓库为最新更新来源，并接受 pull request 与 issue 贡献。
 
 ## 筛选速览
 
@@ -20,37 +20,40 @@
 
 ## 能力要点
 
-- 配套综述论文，按'评测什么/在哪评测'组织目录
-- 覆盖 NLU、推理、生成、多语言、事实性等十余个评测方向
-- 收录相关项目链接（PromptBench、LLM-eval）
+- survey 论文的官方配套资源页
+- 按评测对象（NLP/推理/生成/多语言/事实性）分类组织论文
+- 另有 "Where to evaluate" 部分收录评测基准资源
+- 持续更新并接受社区 PR/issue 贡献
 
 ## 适用场景
 
-- 查找 LLM 在特定任务上的评测论文
-- 了解 LLM 评测研究的分类体系
-- 跟踪综述的更新与补充文献
+- 查找某任务/领域的 LLM 评测相关论文
+- 了解 LLM 评测的研究分类框架
+- 调研评测基准（Where to evaluate）相关资源
 
 ## 场景标签
 
-`模型评测` `科研工具` `精选清单` · 领域:评测与运维
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L1: LLM evaluation
 > L2:  A collection of papers and resources related to evaluations on large language models.
 > L33: The papers are organized according to our survey: A Survey on Evaluation of Large Language Models.
+> L35: **NOTE:** As we cannot update the arXiv paper in real time, please refer to this repo for the latest updates and th
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "MLGroupJLU/LLM-eval-survey 星数(近 4 点)"
-    x-axis ["2026-10-20", "2026-11-15", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-15", "2026-11-21", "2026-11-24"]
     y-axis "stars" 1614 --> 1617
     line [1615, 1616, 1615, 1615]
 ```
 
-2026-10-20 1,615 → 2026-11-23 1,615（+0）
+2026-10-21 1,615 → 2026-11-24 1,615（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fac23305e71c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b39a0fe1c015` · [字段定义](../../DATASET.md)*

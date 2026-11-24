@@ -2,9 +2,9 @@
 
 ⭐ 833 · JavaScript · 推送 2026-11-21 · [GitHub](https://github.com/cporter202/agentic-ai-apis) · 个人维护
 
-**面向 AI agent 开发者的 API 策展清单（2,391 条，3 类）**
+**给 agent 开发者的 API 目录：聚合 3,077 条 Agents/模型/MCP 条目**
 
-围绕 agentic AI 基础设施组织的 API 聚合清单：从 Apify 目录每日同步，收录 2,391 个 API，分为 Agents（569，执行/编排/自主任务）、AI Models（1,360，推理/生成/抽取/分析）、MCP Servers（462，MCP 工具集成）三类，每类有独立目录 README。使用方式为浏览条目后跳转至 provider 页面获取定价与文档。GitHub Actions 每日自动同步上游数据，API 链接保留上游的 affiliate 跟踪参数。
+面向构建自主 agent、copilot 与 MCP 工作流的开发者，按 Agents（833）、AI Models（1,761）、MCP Servers（483）三个类别组织的 API 目录清单。用户按层浏览 API 名称与描述，点击跳转到服务商页面查看实现细节、定价与文档。仓库本身不含可运行软件，数据由 GitHub Actions 工作流每日从 Apify 目录同步生成，仅在数据变化时提交；README 声明保留上游链接中的联盟追踪参数。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 2,391 个 API 按三大类组织，条目经筛选而非全量收录
-- Agents / AI Models / MCP Servers 三类均有独立目录
-- GitHub Actions 每日同步 Apify 目录并仅在数据变化时提交
+- 按 Agents、AI Models、MCP Servers 三类组织，共 3,077 条 API 目录
+- GitHub Actions 每日同步 Apify 目录，数据变化时才提交
+- 条目链接指向服务商页面，可查实现、定价与文档
 
 ## 适用场景
 
-- 搭建自主 agent 前挑选编排与执行类 API
-- 查找 MCP 工具集成与 AI 模型服务 API
-- 快速构建候选 API 短名单以缩短调研时间
+- 为自主 agent 项目挑选编排与执行类 API 服务商
+- 查找可接入助手的 MCP Server 工具集成
+- 快速建立 AI Models 服务层的候选清单
 
 ## 场景标签
 
@@ -36,22 +36,22 @@
 
 ## 证据(README 行号)
 
-> L20: > The ultimate collection of APIs for building autonomous AI agents - **2,391 production-ready APIs** across **Agen
-> L22: This repository is designed to feel like a launchpad, not a junk drawer. It is tightly scoped around the API layers
+> L20: > The ultimate collection of APIs for building autonomous AI agents - **3,077 production-ready APIs** across **Agen
+> L49: 2. Open that category README and scan the API names and descriptions.
 > L121: - A GitHub Actions workflow now syncs the Apify catalog daily and commits only when upstream data actually changes
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "cporter202/agentic-ai-apis 星数(近 21 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    title "cporter202/agentic-ai-apis 星数(近 22 点)"
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 641 --> 850
-    line [658, 660, 663, 665, 667, 670, 697, 731, 753, 660, 780, 782, 783, 798, 813, 824, 827, 829, 830, 831, 833]
+    line [658, 660, 663, 665, 667, 670, 697, 731, 753, 660, 780, 782, 783, 798, 813, 824, 827, 829, 830, 831, 833, 833]
 ```
 
-2026-10-20 658 → 2026-11-23 833（+175）
+2026-10-21 658 → 2026-11-24 833（+175）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `84039611f0e0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `170d37e7eec9` · [字段定义](../../DATASET.md)*

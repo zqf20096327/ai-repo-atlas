@@ -44,13 +44,13 @@ AAanalysis 是基于序列的蛋白质预测 Python 框架，核心算法包括 
 
 ```mermaid
 xychart-beta
-    title "breimanntools/aaanalysis 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 87 --> 90
-    line [88, 89, 89]
+    title "breimanntools/aaanalysis 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 88 --> 90
+    line [89, 89]
 ```
 
-2026-10-21 88 → 2026-11-23 89（+1）
+2026-10-22 89 → 2026-11-24 89（+0）
 
 
 ---

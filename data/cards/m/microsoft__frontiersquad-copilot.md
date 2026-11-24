@@ -40,6 +40,18 @@
 > L3: A delivery framework for GitHub Copilot with agents that guide teams from **business intent** to **implementation**,
 > L32: The loop is the unit of delivery. The whole system is orchestrated by a conductor agent that guides developers and 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/frontiersquad-copilot 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 51 --> 53
+    line [52, 52]
+```
+
+2026-11-23 52 → 2026-11-24 52（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `287ddd045a43` · [字段定义](../../DATASET.md)*

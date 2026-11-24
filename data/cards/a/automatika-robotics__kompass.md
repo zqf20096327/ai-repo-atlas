@@ -46,12 +46,12 @@ Kompass 是 EMOS（Embodied Operating System）的导航层，面向真实环境
 ```mermaid
 xychart-beta
     title "automatika-robotics/kompass 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-21 38 → 2026-11-23 38（+0）
+2026-10-22 38 → 2026-11-24 38（+0）
 
 
 ---

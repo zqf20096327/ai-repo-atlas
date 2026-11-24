@@ -45,13 +45,13 @@ Hugging Face 维护的 AI 能效评测项目：通过 Docker 镜像（内置 opt
 
 ```mermaid
 xychart-beta
-    title "huggingface/AIEnergyScore 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    title "huggingface/AIEnergyScore 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 42 --> 45
+    line [43, 44, 44]
 ```
 
-2026-10-21 42 → 2026-11-23 44（+2）
+2026-10-22 43 → 2026-11-24 44（+1）
 
 
 ---

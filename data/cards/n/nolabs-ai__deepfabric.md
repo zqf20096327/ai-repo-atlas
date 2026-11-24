@@ -2,9 +2,9 @@
 
 ⭐ 896 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/nolabs-ai/deepfabric) · [官网](http://docs.deepfabric.dev) · 组织维护
 
-**为 LLM 与 agent 训练生成合成数据集并评测的流水线库**
+**面向模型微调的合成训练数据生成与评测管线**
 
-DeepFabric 为语言模型和 agent 评测生成合成训练数据：通过主题图算法引导样本生成以保证多样性与领域覆盖，结合约束解码、响应校验与在隔离 WebAssembly（Spin）环境中的真实工具执行（ReAct 循环），生成符合结构化 schema 的数据集。工具定义可从 MCP server schema 导入。生成的数据集可上传 Hugging Face 并导入 TRL、Unsloth、Axolotl 训练，训练后内置评测引擎在未见任务上计算工具选择准确率等指标。以 pip 库、CLI 与 YAML 配置三种方式使用，支持 OpenAI/Anthropic/Gemini/Ollama/OpenRouter 等提供商。
+以库、CLI 和 YAML 配置三种方式使用的合成数据工具链：通过主题图算法生成覆盖各子主题的训练样本，结合推理链与工具调用模式，工具可在 WebAssembly 沙箱（Spin 框架）中真实执行，输出带模式校验的 HuggingFace 数据集，可直接导入 TRL、Unsloth 等训练框架；训练后提供内置评测引擎，计算工具选择准确率、参数准确率、执行成功率等指标，支持 LoRA 适配器与 Ollama 后端评测。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ DeepFabric 为语言模型和 agent 评测生成合成训练数据：通过主�
 
 ## 能力要点
 
-- 主题图算法引导生成，保证子题覆盖与多样性
-- Spin/WebAssembly 沙箱中真实执行工具（ReAct 循环），非模拟输出
-- 数据集可直接上传 Hugging Face 并导入 TRL/Unsloth/Axolotl
-- 内置评测引擎：tool_selection_accuracy、execution_success_rate 等指标
+- 主题图生成算法引导样本覆盖子主题并避免冗余
+- 约束解码与响应校验，工具在隔离 WebAssembly 环境真实执行
+- 工具定义可从 MCP 服务器 schema 导入并自动 mock
+- 内置评测引擎输出 tool_selection_accuracy 等多项指标
 
 ## 适用场景
 
-- 为微调生成含工具调用轨迹的领域数据集
-- 训练后在未见任务上评测模型工具调用能力
-- 配合本地 Ollama 做私有数据生成与评测
+- 为智能体微调生成带工具调用轨迹的训练数据
+- 微调后在保留集上评测模型的工具调用能力
+- 将生成数据集上传 HuggingFace 并接入 TRL/Unsloth 训练流程
+- 本地 Ollama 后端下生成或评测以保护隐私
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `微调` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L32: **DeepFabric** generates synthetic training data for language models and agent evaluations. By combining reasoning 
-> L137: DeepFabric provides a comprehensive evaluation system to measure how well your fine-tuned models perform on tool-c
+> L40: Post-training, DeepFabric's built-in evaluation engine assesses model performance, whereby models prove their capab
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "nolabs-ai/deepfabric 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-21", "2026-11-24"]
     y-axis "stars" 890 --> 898
     line [891, 895, 897, 896, 897, 896, 896]
 ```
 
-2026-10-21 891 → 2026-11-23 896（+5）
+2026-10-22 891 → 2026-11-24 896（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `40a311d51984` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `158be6f43f4b` · [字段定义](../../DATASET.md)*

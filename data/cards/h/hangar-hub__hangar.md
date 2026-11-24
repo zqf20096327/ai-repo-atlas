@@ -41,6 +41,18 @@
 > L10: Hangar is a self-hosted model and dataset hub, compatible with the Hugging Face Hub API, git, Ollama and LM Studio.
 > L31: Hangar stores and serves files; it doesn't run models. To see how it compares with olah, JFrog Artifactory, Sonatyp
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hangar-hub/hangar 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `66265e4649b3` · [字段定义](../../DATASET.md)*

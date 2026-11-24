@@ -45,12 +45,12 @@ MarkdownFlow 在标准 Markdown 之上定义语法扩展：?[选项] 交互元�
 ```mermaid
 xychart-beta
     title "ai-shifu/markdown-flow 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 85 --> 87
     line [86, 86]
 ```
 
-2026-10-20 86 → 2026-11-23 86（+0）
+2026-10-21 86 → 2026-11-24 86（+0）
 
 
 ---

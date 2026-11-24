@@ -45,13 +45,13 @@ TypeScript SDK 与 CLI，用于构建自动加入、监听并参与 X/Twitter Sp
 
 ```mermaid
 xychart-beta
-    title "nirholas/xspace-AI 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 22 --> 26
-    line [23, 25, 25]
+    title "nirholas/xspace-AI 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
 ```
 
-2026-10-21 23 → 2026-11-23 25（+2）
+2026-10-22 25 → 2026-11-24 25（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L36: 传输走 MCP stdio（JSON-RPC），Super-Agent 把它当成一组可调用的工具。
 > L168: Worker 自己不是客户端，它由上层 Super-Agent 以 MCP 客户端身份拉起（stdio 子进程）。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xiaohuajia2005/arcgis-pro-mcp-demo 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `6a87934dfbdc` · [字段定义](../../DATASET.md)*

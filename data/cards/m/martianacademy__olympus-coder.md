@@ -42,6 +42,18 @@
 > L44: Install, authenticate, and rotate across **Claude Code**, **18 free-tier coding CLIs**, and **Local Ollama** right 
 > L104: - **Built-in `olympus` MCP server:** Lead agents can spawn parallel sub-sessions (`spawn_subsession`), steer or sw
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "martianacademy/olympus-coder 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-23 15 → 2026-11-24 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2eaa8981cffd` · [字段定义](../../DATASET.md)*

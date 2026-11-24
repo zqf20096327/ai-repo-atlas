@@ -2,9 +2,9 @@
 
 ⭐ 653 · Python · AGPL-3.0 · 推送 2026-11-05 · [GitHub](https://github.com/RizwanMunawar/yolov7-object-tracking) · [官网](https://rizwanai.com) · 个人维护
 
-**基于 YOLOv7 与 SORT 的目标检测与追踪脚本工具**
+**基于 YOLOv7 与 SORT 的目标检测与跟踪脚本工具**
 
-用 PyTorch、OpenCV 与 SORT 实现 YOLOv7 目标检测与多目标追踪的命令行工具：支持视频文件、摄像头、外接摄像头与 IP 摄像流作为输入，可按类别过滤检测、为每条轨迹分配颜色、保存轨迹中心点/ID/边界框坐标到 txt，并已加入 Ultralytics YOLOv8 权重支持（YOLOv9 及之后版本为计划中）。预训练权重可自动下载，输出保存在 runs/detect 目录。以源码仓库形式提供，含 Colab/Kaggle/SageMaker 运行入口。
+提供 detect.py 与 detect_and_track.py 脚本，用 YOLOv7 权重做目标检测，并经 SORT 算法为画面中的目标分配跟踪 ID；输入源支持视频文件、文件夹、本机/外接摄像头与 IP 摄像头流，输出带轨迹的可视化结果及轨迹质心、ID、边界框坐标的文本文件。支持 --classes 按类别过滤、彩色轨迹等参数，权重可自动下载。面向需要视频目标检测与跟踪的开发者与研究人员，通过 clone 仓库并 pip 安装依赖运行。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 支持视频/摄像头/IP 摄像流输入的检测与追踪
-- 已支持 Ultralytics YOLOv8 权重（--weights yolov8n.pt）
-- 可保存轨迹 ID、中心点与边界框坐标，按类别过滤检测
-- 预训练 yolov7 权重可自动下载
+- detect.py 检测与 detect_and_track.py 检测+SORT 跟踪两种模式
+- 支持视频文件、文件夹、webcam、外接摄像头与 IP 摄像头流输入
+- 可保存轨迹质心、ID、边界框坐标到 .txt（支持按对象 ID 保存）
+- 自动下载预训练 yolov7 权重，README 声明已加入 YOLOv8 权重支持
 
 ## 适用场景
 
-- 对监控或视频流做带 ID 的多目标追踪
-- 只检测或只追踪特定类别（如行人）
-- 导出轨迹坐标数据用于后续分析
+- 对已有视频跑检测并给目标分配跟踪 ID
+- 接摄像头或 IP 摄像头流做实时检测跟踪
+- 导出轨迹 ID 与边界框坐标做后续分析
+- 按类别（如 person）过滤跟踪结果
 
 ## 场景标签
 
@@ -38,21 +39,21 @@
 ## 证据(README 行号)
 
 > L1: ## YOLOv7 Object Tracking 🚀
-> L71:       python detect_and_track.py --weights yolov7.pt
-> L119: |`--device`|`str`|`''`|CUDA device (e.g., `0` or `0,1,2,3`) or `cpu`.|
+> L61:  - **Detection only**:
+> L69:  - **Object tracking**:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "RizwanMunawar/yolov7-object-tracking 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 652 --> 654
     line [653, 653]
 ```
 
-2026-10-21 653 → 2026-11-23 653（+0）
+2026-10-22 653 → 2026-11-24 653（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `1bca571cc03e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `bb9f61caed6e` · [字段定义](../../DATASET.md)*

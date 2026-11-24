@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SAILResearch/awesome-ai-leaderboard 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-19", "2026-11-23"]
-    y-axis "stars" 382 --> 386
-    line [385, 384, 383, 383]
+    title "SAILResearch/awesome-ai-leaderboard 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-19", "2026-11-24"]
+    y-axis "stars" 382 --> 385
+    line [384, 383, 383]
 ```
 
-2026-10-21 385 → 2026-11-23 383（-2）
+2026-10-22 384 → 2026-11-24 383（-1）
 
 
 ---

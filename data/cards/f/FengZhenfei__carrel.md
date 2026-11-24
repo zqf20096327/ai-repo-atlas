@@ -2,9 +2,9 @@
 
 ⭐ 808 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/FengZhenfei/carrel) · 个人维护 · 中文 README
 
-**面向 AI agent 的自托管知识库：文档解析、索引与检索**
+**自托管的 AI agent 知识库：文档解析、检索与知识图谱**
 
-自托管的知识库服务，自动化文档解析、索引与检索，可选构建知识图谱。Agent 通过其 API 检索来源段落、图片与关联事实后自行生成回答。技术栈：MinerU 与原生解析器做摄取，Qdrant 向量、OpenSearch 关键词、Neo4j 图查询，SQLite 记录文件与任务；模型可本地运行或接兼容托管端点。需 Python 3.12+、Docker 25+ 与 Compose v2，Windows 仅支持 WSL2。自带 Web 控制台与供 Claude Code、Codex 使用的搜索技能。
+自托管的知识库服务，自动完成文档解析、索引与检索，并可选构建知识图谱；agent 通过其搜索 API 获取来源片段、图片与图谱事实后自行生成回答。提供 Standard（Qdrant/OpenSearch/Neo4j）与 Light（内嵌 LanceDB/DuckDB）两种部署版，内置 Web 控制台管理知识库、模型端点与任务，附带可安装到 Claude Code、Codex 等 agent 的搜索 skill。部署依赖 Docker Compose，模型服务需自行配置端点。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 支持 PDF/Word/PPT/表格/图片/HTML/Markdown/源码解析
-- 向量、关键词、图与视觉搜索的混合检索，可选重排
-- 从文档抽取实体、关系与事实并保留来源、时间与冲突指示
-- 定时任务扫描文件变更并自动更新索引与知识图谱
+- 混合检索：向量、关键词、图谱与视觉搜索及重排融合
+- 从文档提取实体、关系与事实，保留来源、时间与冲突标记
+- Standard/Light 两种存储版（Qdrant+OpenSearch+Neo4j 或内嵌 LanceDB+DuckDB）
+- 内置 carrel-search skill 与带 token 鉴权的搜索 API
 
 ## 适用场景
 
-- 让 Claude Code / Codex 等 agent 检索我的产品文档与会议记录
-- 搭建带知识图谱的私有文档知识库供 agent 查询
-- 通过 Web 控制台管理多个知识库与模型端点
+- 让 agent 检索产品文档、合同、会议记录等持续变化的文件
+- 为本地文档构建带来源溯源的知识图谱
+- 自托管环境下搭建 RAG 检索服务供多个 agent 调用
 
 ## 场景标签
 
-`RAG` `文档解析` `知识图谱` · 领域:知识与检索
+`文档解析` `知识图谱` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L9: Carrel is a self-hosted knowledge base for AI agents. It automates document
-> L11: its API to retrieve source passages, images, and related facts, then generate
+> L10: parsing, indexing, and retrieval, with optional knowledge graphs. Agents use
+> L39: - **Agent access:** search through an API, fetch surrounding text or original
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "FengZhenfei/carrel 星数(近 19 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-23"]
-    y-axis "stars" 263 --> 857
-    line [312, 373, 462, 463, 643, 635, 636, 652, 676, 679, 463, 801, 803, 805, 804, 806, 807, 808, 808]
+    title "FengZhenfei/carrel 星数(近 18 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-24"]
+    y-axis "stars" 330 --> 851
+    line [373, 462, 463, 643, 635, 636, 652, 676, 679, 463, 801, 803, 805, 804, 806, 807, 808, 808]
 ```
 
-2026-10-21 312 → 2026-11-23 808（+496）
+2026-10-22 373 → 2026-11-24 808（+435）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `85e3a780411b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f36b7b6880fe` · [字段定义](../../DATASET.md)*

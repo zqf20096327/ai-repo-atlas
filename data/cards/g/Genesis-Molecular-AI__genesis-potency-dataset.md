@@ -44,13 +44,13 @@ GenesisPotency-2026 数据集：5,410,616 行来自 ChEMBL 37、BindingDB 与 Pu
 
 ```mermaid
 xychart-beta
-    title "Genesis-Molecular-AI/genesis-potency-dataset 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "Genesis-Molecular-AI/genesis-potency-dataset 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 10 --> 14
-    line [11, 13]
+    line [11, 13, 13]
 ```
 
-2026-11-22 11 → 2026-11-23 13（+2）
+2026-11-22 11 → 2026-11-24 13（+2）
 
 
 ---

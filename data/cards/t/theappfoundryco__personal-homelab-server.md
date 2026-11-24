@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "theappfoundryco/personal-homelab-server 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-23"]
+    title "theappfoundryco/personal-homelab-server 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-23", "2026-11-24"]
     y-axis "stars" 7 --> 11
-    line [8, 9, 10]
+    line [8, 9, 10, 10]
 ```
 
-2026-11-08 8 → 2026-11-23 10（+2）
+2026-11-08 8 → 2026-11-24 10（+2）
 
 
 ---

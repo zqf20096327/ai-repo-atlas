@@ -45,12 +45,12 @@ SUPERSTACK 是面向 Claude Code 的插件，用户用自然语言描述想构�
 ```mermaid
 xychart-beta
     title "edvardgrishin27/superstack-plugin 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-24"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-20 17 → 2026-11-23 18（+1）
+2026-10-21 17 → 2026-11-24 18（+1）
 
 
 ---

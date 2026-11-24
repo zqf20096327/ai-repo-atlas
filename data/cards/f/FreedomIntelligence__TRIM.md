@@ -45,12 +45,12 @@ COLING 2025 论文的官方代码实现：TRIM 在 CLIP 图像编码器处对图
 ```mermaid
 xychart-beta
     title "FreedomIntelligence/TRIM 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-20 23 → 2026-11-23 23（+0）
+2026-10-21 23 → 2026-11-24 23（+0）
 
 
 ---

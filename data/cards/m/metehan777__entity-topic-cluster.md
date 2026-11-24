@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "metehan777/entity-topic-cluster 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    title "metehan777/entity-topic-cluster 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 38 --> 40
+    line [39, 39]
 ```
 
-2026-10-21 38 → 2026-11-23 39（+1）
+2026-10-22 39 → 2026-11-24 39（+0）
 
 
 ---

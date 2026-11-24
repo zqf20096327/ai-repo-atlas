@@ -2,9 +2,9 @@
 
 ⭐ 682 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/PaulDuvall/ai-development-patterns) · [官网](https://paulduvall.github.io/ai-development-patterns/) · 个人维护
 
-**AI 辅助软件开发的模式目录：按成熟度与生命周期组织实践**
+**面向团队用 AI 辅助开发软件的模式目录**
 
-AI 辅助开发（Agentic Engineering）实践模式的知识库：将 Agent Readiness、Codified Rules、Spec-Driven Development、Bounded Autonomy 等模式按 Foundation/Development/Operations/Experimental 四类组织，附完整模式参考表（成熟度、依赖、描述）。提供 Harness Engineering、Loop Engineering、Lifecycle 三个分析视角（lens），把模式映射到前馈/反馈控制与开发生命周期九阶段。模式采纳状态由结构化证据机械化重算，CI 执行确定性校验。面向引入编码代理的开发团队。
+按实施成熟度与开发生命周期阶段组织的 AI 辅助开发模式集合，分为 Foundation、Development、Operations 及 Experimental 四类，覆盖团队就绪评估、编码规则固化、安全沙箱、CI/CD 与运维管理等模式。内容以 Harness Engineering、Loop Engineering、Lifecycle 三个视角组织，并提供模式依赖图与实现顺序说明。采用 MIT 许可，模式内容随领域发展更新，含反模式与可运行示例。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ AI 辅助开发（Agentic Engineering）实践模式的知识库：将 Agent Rea
 
 ## 能力要点
 
-- 模式按成熟度分级并给出依赖与实施顺序（学习进阶路线）
-- Harness Engineering 视角：Agent = Model + Harness，前馈/反馈 × 计算/推理四象限
-- Loop Engineering 视角：可执行完成判据、测试仲裁、验证范围决定自治上限
-- 采纳状态由 CI 确定性校验与本地 Codex 会话按需评估
+- 三阶段模式分类：Foundation/Development/Operations，附模式依赖与学习顺序图
+- Harness Engineering 视角：以 feedforward/feedback 与 computational/inferential 控制分类模式
+- Loop Engineering 视角：界定自治循环的边界、验证与仲裁原则
+- 采用 CI 做确定性 schema、溯源、链接与新鲜度检查
 
 ## 适用场景
 
-- 团队评估并规划 AI 辅助开发的模式采用路线
-- 查表选择某生命周期阶段（如规格与测试、部署）适用的模式
-- 理解如何为编码代理设计控制与验证机制
+- 团队评估引入 AI 辅助开发的就绪程度并选择首批模式
+- 为编码代理建立规则、沙箱与验证等控制机制
+- 按生命周期阶段规划 AI 辅助开发的流程与检查点
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+ · 领域:软件工程/开发方法
 
 ## 证据(README 行号)
 
 > L12: A comprehensive collection of patterns based on my experience for building software with AI assistance, organized b
-> L31: This repository provides a structured approach to AI-assisted development through three pattern categories:
-> L133: |Pattern|Maturity|Category|Type|Description|Dependencies|
+> L33: - **Foundation Patterns** - Essential patterns for team readiness and basic AI integration
+> L35: - **Operations Patterns** - CI/CD, security, and production management with AI
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "PaulDuvall/ai-development-patterns 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 666 --> 683
-    line [667, 669, 670, 671, 672, 670, 674, 675, 676, 677, 678, 679, 680, 681, 682]
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 668 --> 683
+    line [669, 670, 671, 672, 670, 674, 675, 676, 677, 678, 679, 680, 681, 682, 682]
 ```
 
-2026-10-21 667 → 2026-11-23 682（+15）
+2026-10-22 669 → 2026-11-24 682（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e903480fb868` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `87467926a5df` · [字段定义](../../DATASET.md)*

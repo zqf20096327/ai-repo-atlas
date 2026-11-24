@@ -45,13 +45,13 @@ ICML 2024 Oral 论文 'Robust CLIP' 的官方代码库：提出 FARE 方法对 C
 
 ```mermaid
 xychart-beta
-    title "chs20/RobustVLM 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 163 --> 166
-    line [164, 165, 165]
+    title "chs20/RobustVLM 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 164 --> 166
+    line [165, 165]
 ```
 
-2026-10-21 164 → 2026-11-23 165（+1）
+2026-10-22 165 → 2026-11-24 165（+0）
 
 
 ---

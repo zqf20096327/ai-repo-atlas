@@ -40,6 +40,18 @@
 > L9: and adds **image input** for Flash-Next, which upstream Hibana does not load. OpenAI- and Anthropic-compatible API o
 > L64: docker compose up -d --wait   # first run: ~15 min image build, 186 GB download, ~3 min kernel builds
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-23 6 → 2026-11-24 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0dac0e3473bc` · [字段定义](../../DATASET.md)*

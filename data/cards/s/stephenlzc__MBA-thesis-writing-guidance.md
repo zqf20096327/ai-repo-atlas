@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stephenlzc/MBA-thesis-writing-guidance 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-22", "2026-11-23"]
+    title "stephenlzc/MBA-thesis-writing-guidance 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-11-15 10 → 2026-11-23 12（+2）
+2026-11-15 10 → 2026-11-24 12（+2）
 
 
 ---

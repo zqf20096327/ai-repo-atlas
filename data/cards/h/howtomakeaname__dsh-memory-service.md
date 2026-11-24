@@ -42,6 +42,18 @@
 > L16: > dsh-memory-service 给 DSH 增加一层持久记忆：Markdown 文件是唯一真源，SQLite FTS5 只是可丢弃的检索索引，模型每轮只拿到和当前任务相关的那部分记忆。
 > L115: 插件向宿主注册 9 个工具：
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "howtomakeaname/dsh-memory-service 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5c67b668a84f` · [字段定义](../../DATASET.md)*

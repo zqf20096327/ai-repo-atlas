@@ -44,12 +44,12 @@ TOON（Token-Oriented Object Notation）序列化格式在 Crystal 语言的参�
 ```mermaid
 xychart-beta
     title "mamantoha/toon-crystal 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-23 10（+0）
+2026-10-21 10 → 2026-11-24 10（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 671 · Dart · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DenisovAV/flutter_edge_ai) · [官网](https://flutteredge.ai) · 组织维护
 
-**Flutter 端侧 AI 框架：多引擎运行 LLM、语音与 RAG**
+**Flutter 端侧 AI 插件集：本地运行 LLM/RAG/语音**
 
-面向 Flutter 开发者的端侧 AI 包族：核心包负责模型安装与引擎注册，各运行时与功能均为独立可选 pub 包。支持 5 类引擎（LiteRT-LM、MediaPipe、llama.cpp、ONNX Runtime、操作系统内置模型），覆盖文本、视觉、音频、函数调用、嵌入与端侧 RAG（SQLite/Qdrant 向量存储），另有语音、Agent 技能、Genkit 混合路由等包。无需服务器与云，跨 Android/iOS/Web/macOS/Windows/Linux 六平台。旧名 flutter_gemma* 仍在发布。
+面向 Flutter 开发者的端侧 AI 插件家族，覆盖 Android、iOS、Web、macOS、Windows 和 Linux。核心包负责模型安装、引擎注册、会话与聊天，其余功能按可选包拆分：LiteRT-LM、MediaPipe、llama.cpp、ONNX Runtime 等推理引擎，系统自带模型（Gemini Nano、Apple Foundation Models 等）接入，嵌入与 RAG（SQLite/Qdrant 向量库）、语音、Agent 技能与内存诊断。全部本地运行，无服务器、无云端。原 flutter_gemma 系列已改名。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 核心包 + 各运行时/功能独立可选包的模块化结构
-- 5 类引擎：LiteRT-LM、MediaPipe、llama.cpp、ONNX、OS 内置模型
-- 端侧 RAG：RagIndex、嵌入分词器与 SQLite/Qdrant 向量存储
-- Agent 技能（SKILL.md）与 MCP 工具、Genkit 端云混合路由
+- 多引擎接入：LiteRT-LM、MediaPipe、llama.cpp、ONNX Runtime 与 OS 内置模型
+- 端侧 RAG：嵌入分词器、RagIndex 与 sqlite-vec/Qdrant 向量库
+- 语音包提供 STT、TTS 与 VoiceSession 语音循环
+- Genkit 插件支持端侧与云端模型混合路由
 
 ## 适用场景
 
-- 在 Flutter 应用中离线运行 LLM 对话、视觉与语音功能
-- 构建端侧 RAG 检索问答应用
-- 通过 Genkit 混合路由在端侧与云端模型间切换
+- 在 Flutter 应用中离线运行本地大模型对话
+- 为移动端应用添加本地 RAG 知识检索
+- 在端侧实现语音交互与会话功能
 
 ## 场景标签
 
@@ -37,21 +37,21 @@
 
 ## 证据(README 行号)
 
+> L6: On-device AI for Flutter on Android, iOS, Web, macOS, Windows and Linux. Run any
 > L17: The core package is small: it installs models and hands them to engines. Every
-> L26: |`flutter_edge_ai`|Core: model installation, the engine registry, sessions and chat. Required by every package exce
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "DenisovAV/flutter_edge_ai 星数(近 18 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 638 --> 674
-    line [641, 642, 643, 644, 645, 647, 649, 645, 654, 657, 658, 660, 661, 662, 664, 667, 670, 671]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 640 --> 673
+    line [642, 643, 644, 645, 647, 649, 645, 654, 657, 658, 660, 661, 662, 664, 667, 670, 671, 671]
 ```
 
-2026-10-21 641 → 2026-11-23 671（+30）
+2026-10-22 642 → 2026-11-24 671（+29）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `325157e681ba` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `87ef6b37bb56` · [字段定义](../../DATASET.md)*

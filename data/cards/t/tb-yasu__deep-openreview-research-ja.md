@@ -45,12 +45,12 @@ OpenReview API と LLM（OpenAI）を組み合わせた論文サーベイ支援�
 ```mermaid
 xychart-beta
     title "tb-yasu/deep-openreview-research-ja 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-20 13 → 2026-11-23 13（+0）
+2026-10-21 13 → 2026-11-24 13（+0）
 
 
 ---

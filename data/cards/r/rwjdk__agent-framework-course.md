@@ -41,13 +41,13 @@
 
 ```mermaid
 xychart-beta
-    title "rwjdk/agent-framework-course 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "rwjdk/agent-framework-course 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 40 --> 43
-    line [41, 42]
+    line [41, 42, 42]
 ```
 
-2026-10-21 41 → 2026-11-23 42（+1）
+2026-10-22 41 → 2026-11-24 42（+1）
 
 
 ---

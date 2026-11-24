@@ -42,6 +42,18 @@
 > L89: |**MCP Agent Integration**|❌ None|⚠️ Requires Chrome tab, `1013 Server is busy` lock, `list_changed` tool-hiding bu
 > L67:  <code>Agent · 8 IDEs</code> : 1-click surgical config sync for Claude Code , Codex , Antigravity , Cursor , Gemini
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hexwander/colabhive 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `1bdeae4b35ed` · [字段定义](../../DATASET.md)*

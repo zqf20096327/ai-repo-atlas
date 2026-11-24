@@ -2,9 +2,9 @@
 
 ⭐ 882 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/torchgeo/terratorch) · [官网](https://torchgeo.github.io/terratorch/) · 组织维护
 
-**地理空间基础模型（GFM）微调框架，面向遥感/地球观测开发者**
+**地理空间基础模型微调的 Python 工具包**
 
-基于 PyTorch Lightning 与 TorchGeo 的 Python 领域库，提供图像分割、分类与像素级回归的微调训练器、骨干与解码器组合的模型工厂、即用数据集模块，以及通过 CLI/配置文件或 Jupyter 启动任务的接口。支持访问 Prithvi、TerraMind、SatMAE、Clay 等开源预训练 GFM 骨干及 GEO-Bench/TorchGeo 数据集。自身不托管模型，仅提供训练与推理框架；运行需 GDAL，可选支持 vLLM、PEFT、天气基础模型等扩展。
+基于 PyTorch Lightning 与 TorchGeo 构建的领域库，为地理空间基础模型（GFM）提供微调与推理框架。提供分割、分类、像素级回归的灵活训练器，backbone+decoder 组合的模型工厂，开箱即用的 datamodule，以及通过 CLI、配置文件或 Jupyter 启动任务。接入 Prithvi、TerraMind、SatMAE、Clay 等预训练骨干及 timm/SMP 生态。本体不托管模型，模型许可由用户自行核验。需要系统安装 GDAL。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 图像分割/分类/像素级回归的灵活微调训练器
-- 模型工厂组合 GFM 骨干（Prithvi、TerraMind、Clay 等）与 SMP/mmsegmentation 解码器
-- CLI + 配置文件或 Jupyter 启动微调任务
-- 可选扩展：vLLM、PEFT、天气基础模型（wxc）、RF-DETR 等
+- 图像分割、分类与像素级回归的微调训练器
+- 模型工厂组合 backbone 与 decoder，CLI/配置文件/Jupyter 启动任务
+- 接入 Prithvi、TerraMind、SatMAE、Clay 等开源 GFM 骨干与 GEO-Bench 数据集
+- pip/conda/pipx 多渠道安装，支持 vllm、PEFT 等可选扩展
 
 ## 适用场景
 
-- 微调开源地理空间基础模型完成遥感分割或分类任务
-- 复用 GEO-Bench / TorchGeo 数据集快速搭建训练流程
-- 通过参数高效微调（PEFT）在自有地理数据上适配预训练骨干
+- 用预训练地理空间基础模型微调卫星影像分割/分类任务
+- 无需自定义 Dataset 类即可接入自有地理空间数据
+- 在 CLI 或 notebook 中运行地理空间模型推理
 
 ## 场景标签
 
@@ -45,14 +45,14 @@
 
 ```mermaid
 xychart-beta
-    title "torchgeo/terratorch 星数(近 12 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-23"]
-    y-axis "stars" 873 --> 883
-    line [874, 875, 876, 877, 878, 877, 878, 879, 880, 881, 882, 882]
+    title "torchgeo/terratorch 星数(近 11 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-24"]
+    y-axis "stars" 874 --> 883
+    line [875, 876, 877, 878, 877, 878, 879, 880, 881, 882, 882]
 ```
 
-2026-10-21 874 → 2026-11-23 882（+8）
+2026-10-22 875 → 2026-11-24 882（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `41ed011de66f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8fc17a81b999` · [字段定义](../../DATASET.md)*

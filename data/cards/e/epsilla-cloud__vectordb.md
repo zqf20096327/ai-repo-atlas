@@ -44,13 +44,13 @@ Epsilla 是一个用 C++ 实现的开源向量数据库，核心采用并行图�
 
 ```mermaid
 xychart-beta
-    title "epsilla-cloud/vectordb 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 872 --> 875
-    line [873, 874, 874]
+    title "epsilla-cloud/vectordb 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 873 --> 875
+    line [874, 874]
 ```
 
-2026-10-21 873 → 2026-11-23 874（+1）
+2026-10-22 874 → 2026-11-24 874（+0）
 
 
 ---

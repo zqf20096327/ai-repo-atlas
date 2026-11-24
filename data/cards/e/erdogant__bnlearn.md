@@ -2,9 +2,9 @@
 
 ⭐ 648 · Jupyter Notebook · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/erdogant/bnlearn) · [官网](https://erdogant.github.io/bnlearn) · 个人维护
 
-**贝叶斯网络因果发现 Python 库：结构学习与推断**
+**贝叶斯网络因果发现 Python 库：结构/参数学习、推断与采样**
 
-Python 库 bnlearn，面向因果发现任务：从数据或专家知识学习贝叶斯网络的图结构（DAG），进行参数学习（估计条件概率分布）、因果推断（干预与反事实分布）、因果预测、基于贝叶斯采样的合成数据生成，并支持离散/连续/混合数据、数据离散化、网络比较与绘图。提供 uv、conda、pip、GitHub 源码多种安装方式，要求 Python 3.10+；另可将 bnlearn 技能安装到 Claude 等 agent harness。由个人维护者 Erdogan Taskesen 开发。
+bnlearn 是用于因果发现的 Python 包，通过从数据中学习贝叶斯网络的图结构、参数估计、贝叶斯推断与采样方法开展工作。它将常用流程封装为简洁 API：结构学习、参数学习、干预与反事实推断、合成数据生成、连续数据离散化，支持离散/连续/混合数据类型，并提供绘图、DAG 与邻接矩阵转换、模型保存加载等辅助函数。安装要求 Python 3.10 以上，提供 uv、pip、conda 与源码多种安装途径，附示例笔记本、Colab 与 API 文档。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ Python 库 bnlearn，面向因果发现任务：从数据或专家知识学习�
 
 ## 能力要点
 
-- 从数据或专家知识进行结构学习
-- 参数学习与干预/反事实分布的因果推断
-- 基于贝叶斯采样生成合成数据
-- 支持离散、连续与混合数据集
+- 结构学习、参数学习、推断、预测、采样的统一 API
+- 支持离散、连续和混合数据类型建模
+- DAG 与邻接矩阵/向量等多种格式转换函数
+- 提供与 LLM 因果发现方法的基准对比材料
 
 ## 适用场景
 
-- 从观测数据学习变量间的因果图结构
-- 在贝叶斯网络上做因果预测与干预分析
-- 生成保留因果关系的合成数据
+- 从观测数据学习贝叶斯网络结构并估计参数
+- 计算干预与反事实分布做因果推断
+- 用贝叶斯采样生成合成数据
+- 对连续数据集离散化后做贝叶斯网络建模
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+ · 领域:机器学习/因果推断
 
 ## 证据(README 行号)
 
-> L18: ``bnlearn`` is Python package for causal discovery by learning the graphical structure of Bayesian networks, parame
-> L26: |**Structure Learning**|Learn the model structure from data or with expert knowledge.|link|Podcast|
+> L19: ``bnlearn`` is Python package for causal discovery by learning the graphical structure of Bayesian networks, parame
+> L27: |**Structure Learning**|Learn the model structure from data or with expert knowledge.|link|Podcast|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "erdogant/bnlearn 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23"]
+    title "erdogant/bnlearn 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-24"]
     y-axis "stars" 644 --> 649
-    line [645, 646, 648, 647, 648]
+    line [645, 646, 648, 647, 648, 648]
 ```
 
-2026-10-21 645 → 2026-11-23 648（+3）
+2026-10-22 645 → 2026-11-24 648（+3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `874b2c33aa94` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `42cb53ffd661` · [字段定义](../../DATASET.md)*

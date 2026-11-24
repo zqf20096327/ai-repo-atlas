@@ -46,12 +46,12 @@ arbab 是一个 Claude Code 插件：把大型工程任务拆分为独立 lane�
 ```mermaid
 xychart-beta
     title "ozgursagiroglu/arbab 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-23"]
+    x-axis ["2026-11-02", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-23 3（+0）
+2026-11-02 3 → 2026-11-24 3（+0）
 
 
 ---

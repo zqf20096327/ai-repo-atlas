@@ -45,12 +45,12 @@ Microsoft Agent 365 SDK 在 Microsoft 365 Agents SDK 之上扩展企业级能力
 ```mermaid
 xychart-beta
     title "microsoft/Agent365-python 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-08", "2026-11-24"]
     y-axis "stars" 40 --> 44
     line [41, 43, 43]
 ```
 
-2026-10-20 41 → 2026-11-23 43（+2）
+2026-10-21 41 → 2026-11-24 43（+2）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 664 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/RekklesNA/ProxmoxMCP-Plus) · [官网](https://github.com/RekklesNA/ProxmoxMCP-Plus#readme) · 个人维护
 
-**让 LLM 与 AI agent 通过 MCP/OpenAPI 安全操控 Proxmox VE**
+**供 LLM 与 AI Agent 通过 MCP/OpenAPI 安全操作 Proxmox VE 的控制面**
 
-面向 Proxmox VE 虚拟化环境的安全控制平面：以 MCP（stdio/原生 HTTP）与 OpenAPI 两种入口向 Claude Desktop、Cursor、Open WebUI 等 MCP 客户端和 HTTP 自动化工具暴露同一组运维操作，覆盖 VM/LXC 生命周期、快照、备份、ISO、存储与集群检查、SSH 容器命令执行及异步任务跟踪（UPID 轮询、审计）。安全机制包括 Proxmox API token、bearer auth、命令策略、审批 token、TLS 校验、MCP 工具白/黑名单及可选 OAuth PKCE（OAuth 状态存于 PostgreSQL）。可通过 PyPI（uvx/pip）或 Docker Compose 部署，另提供 Code Mode 沙箱执行。
+面向运维者的服务器程序，运行在 AI 客户端与 Proxmox VE 之间，覆盖 VM 与 LXC 生命周期、快照回滚、备份恢复、ISO 下载清理、存储/集群检查、SSH 容器命令执行及异步长任务跟踪。提供 MCP（stdio/HTTP）与 OpenAPI 双入口；安全机制包括 Proxmox API token、bearer 认证、命令策略、审批 token、TLS 校验、工具 allowlist/denylist，以及可选的 OAuth（PKCE）浏览器同意流程，OAuth 状态持久化于 PostgreSQL。安装途径有 PyPI（uvx/pip）与 Docker。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- MCP 与 OpenAPI 双入口暴露同一运维操作面
-- 持久化 job_id + Proxmox UPID 跟踪异步任务与审计
-- 工具白/黑名单、审批 token、OAuth PKCE（PostgreSQL 状态）等安全机制
-- Code Mode 隔离沙箱内通过受控路径调用域工具
+- MCP 与 OpenAPI 双入口共享同一操作面
+- 长任务持久化：job_id、UPID 跟踪、轮询、重试、取消与审计历史
+- 审批 token、命令策略、TLS 校验与工具过滤等安全控制
+- 可选 OAuth 授权码流（PKCE），状态存于 PostgreSQL
 
 ## 适用场景
 
-- 在 Claude Desktop/Cursor 中用 agent 管理 homelab 的 VM、LXC 与快照备份
-- 通过 OpenAPI 接入 HTTP 仪表盘或 no-code 工作流做 Proxmox 自动化
-- 让 AI agent 在带审批与命令策略约束下执行容器 SSH 命令
+- 在 Claude Desktop 或 Cursor 中对话式管理 Proxmox VM 与 LXC
+- 将 Proxmox 运维接入 HTTP 自动化、仪表盘或无代码工作流
+- 对异步 Proxmox 任务做持久化跟踪与审计
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+ · 领域:基础设施运维/自动化
 
 ## 证据(README 行号)
 
-> L31: ProxmoxMCP-Plus sits between AI clients and Proxmox VE so operators do not have to stitch together raw API calls, o
+> L5:  Operate Proxmox VE from MCP clients, AI agents, and OpenAPI tooling through one security-conscious control plane fo
 > L35: - `MCP` for Claude Desktop, Cursor, VS Code, Open WebUI, Codex, and other MCP-capable agents
+> L53: |Dual access paths|Native MCP for agent workflows and OpenAPI for standard HTTP automation|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "RekklesNA/ProxmoxMCP-Plus 星数(近 23 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 595 --> 670
-    line [601, 608, 611, 613, 615, 618, 620, 624, 626, 628, 631, 634, 615, 645, 647, 648, 649, 650, 661, 662, 663, 664, 664]
+    title "RekklesNA/ProxmoxMCP-Plus 星数(近 22 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 603 --> 669
+    line [608, 611, 613, 615, 618, 620, 624, 626, 628, 631, 634, 615, 645, 647, 648, 649, 650, 661, 662, 663, 664, 664]
 ```
 
-2026-10-21 601 → 2026-11-23 664（+63）
+2026-10-22 608 → 2026-11-24 664（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1b49e41ed2fb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5e7d62531c18` · [字段定义](../../DATASET.md)*

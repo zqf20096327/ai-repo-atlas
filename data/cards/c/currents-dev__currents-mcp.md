@@ -46,12 +46,12 @@ Currents 官方的 MCP Server，把 Currents CI 测试平台的能力暴露给 C
 ```mermaid
 xychart-beta
     title "currents-dev/currents-mcp 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-22", "2026-11-24"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-21 21 → 2026-11-23 22（+1）
+2026-10-22 21 → 2026-11-24 22（+1）
 
 
 ---

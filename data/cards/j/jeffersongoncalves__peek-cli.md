@@ -41,6 +41,18 @@
 > L11: table/json/csv output. Built to pair with an LLM investigating a server —
 > L95: `--format=text|json|csv` (default `text`). `json` is the format to reach for
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "jeffersongoncalves/peek-cli 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-23 5 → 2026-11-24 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `704d5491f759` · [字段定义](../../DATASET.md)*

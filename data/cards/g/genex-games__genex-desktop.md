@@ -2,9 +2,9 @@
 
 ⭐ 906 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/genex-games/genex-desktop) · [官网](https://genex.games/desktop) · 组织维护
 
-**AI 游戏开发桌面应用：用 agent 搭建引擎、构建并试玩游戏**
+**AI 原生游戏开发的桌面应用：Agent 自动搭引擎、写游戏并试玩**
 
-Genex 是面向游戏开发者的桌面应用：用户通过对话让 agent 在 Unreal Engine、Unity、Godot、Roblox Studio 或浏览器中制作游戏，agent 负责引擎设置、构建与自动试玩。模型接入支持 Claude Code/ChatGPT 订阅或本地模型，可跨主 agent、工作者与审阅者混用多模型。内置 Blender 本地 3D 资产生成插件，并通过工具路由接入 Meshy、Tripo、ElevenLabs 等服务；支持插件开发与 Marketplace 分发。提供 macOS/Linux/Windows 安装包，README 自述处于早期阶段。
+Genex 是一款开源桌面应用，让用户在 Unreal Engine、Unity、Godot、Roblox Studio 或 Three.js 中借助 AI Agent 进行游戏开发：Agent 负责设置引擎、构建游戏并自主试玩。支持接入 Claude Code、Codex、Cursor、OpenRouter 等云端 AI，也可用 Ollama、LM Studio、llama.cpp 本地模型；支持多 Agent 混合不同模型。内置 Genex Tools 统一调用 Tripo、Meshy、ElevenLabs 等资产生成工具，支持插件系统与 Marketplace 分发。提供 macOS/Linux/Windows 安装包，MIT 许可，README 自述产品尚处早期。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@ Genex 是面向游戏开发者的桌面应用：用户通过对话让 agent 在 
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- agent 自动设置引擎、构建并试玩游戏（Unreal/Unity/Godot/Roblox/浏览器）
-- 支持 Claude Code/ChatGPT 订阅或本地模型，多 agent 混用不同模型
-- Blender 插件本地生成 3D 资产，工具路由接入 Meshy/Tripo/ElevenLabs
-- 插件体系与 Genex Marketplace 分发
+- 支持五大引擎：Unreal、Unity、Godot、Roblox、Three.js
+- 云端与本地模型均可接入：Claude Code、Codex、OpenRouter 或 Ollama、LM Studio、llama.cpp
+- 内置 Genex Tools：经一个 CLI/MCP server 路由到 Tripo、Meshy、ElevenLabs 等资产生成工具
+- 插件系统：本地加载或从 GitHub 安装，经 Marketplace 分发
 
 ## 适用场景
 
-- 用对话方式在主流游戏引擎中开发游戏
-- 让 agent 自动搭建引擎环境并试玩游戏
-- 本地生成 3D 资产或调用外部资产生成服务
+- 用 AI Agent 自动搭建游戏项目并自行试玩迭代
+- 在无云端 API 的环境下用本地模型做 AI 辅助游戏开发
+- 一句话生成服务器权威的多人与Web发布
 
 ## 场景标签
 
@@ -37,21 +37,22 @@ Genex 是面向游戏开发者的桌面应用：用户通过对话让 agent 在 
 
 ## 证据(README 行号)
 
-> L7:  Desktop app for game dev with AI: make games in Unreal Engine, Unity, Godot or the browser. The agent sets up the e
-> L34: → Build in Unreal Engine, Unity, Godot or Roblox Studio: the agent sets up the engine and play-tests the game\
+> L8:  Open-source desktop app for AI-native game dev. Agents set up the engine, build your game and play-test it by thems
+> L14:  Genex, a desktop app for game dev with AI: Unreal Engine, Unity, Godot, Roblox and Three.js, with built-in game de
+> L31: → Or local models: Ollama, LM Studio, llama.cpp\
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "genex-games/genex-desktop 星数(近 14 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "genex-games/genex-desktop 星数(近 15 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 802 --> 915
-    line [811, 832, 837, 842, 861, 872, 874, 876, 878, 890, 895, 900, 902, 906]
+    line [811, 832, 837, 842, 861, 872, 874, 876, 878, 890, 895, 900, 902, 906, 906]
 ```
 
-2026-11-08 811 → 2026-11-23 906（+95）
+2026-11-08 811 → 2026-11-24 906（+95）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `b068979acb06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7b105bc72546` · [字段定义](../../DATASET.md)*

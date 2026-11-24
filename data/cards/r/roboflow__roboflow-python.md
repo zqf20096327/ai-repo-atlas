@@ -2,9 +2,9 @@
 
 ⭐ 641 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/roboflow/roboflow-python) · [官网](https://docs.roboflow.com/python) · 组织维护
 
-**Roboflow 官方 Python 包：管理视觉数据集、模型训练与推理部署**
+**Roboflow 官方 Python SDK：管理视觉数据集与模型部署**
 
-面向 Roboflow 平台的官方 Python 客户端：认证后可创建与管理项目、上传图像/标注/数据集、在 Roboflow 上启动视觉模型训练、对托管或自托管（Roboflow Inference）模型运行推理。库结构沿用 Workspace/Project/Version 三层本体，支持数据集版本生成、多格式导出、外部模型部署与主动学习，另提供 CLI 与 EU 数据驻留区域选项。安装提供标准、desktop/heic 扩展及跳过 OpenCV 等重依赖的 roboflow-slim 轻量版（约 50MB）。
+Roboflow 平台的官方 Python 客户端包，围绕 Workspace/Project/Version 三层对象组织：创建与管理项目、上传图像与标注、生成带预处理和增强设置的数据集版本、在 Roboflow 云端训练视觉模型，以及对托管模型或经 Roboflow Inference 自托管的模型执行推理。支持 CLI 命令行操作、API key 或登录认证，并提供 EU 数据驻留区域登录（app.roboflow.eu）。另提供轻量包 roboflow-slim，跳过 OpenCV 等重依赖，适用于嵌入式设备与 CI 环境。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- Workspace/Project/Version 三层结构管理项目、数据集版本与训练
-- 支持对 Roboflow 托管或自托管 Inference 模型运行推理
-- CLI 覆盖搜索导出、认证等常用功能（roboflow search-export）
-- roboflow-slim 轻量安装从约 400MB 降至约 50MB，适合嵌入式/CI/无服务器环境
+- 数据集管理：上传图像与标注、生成带预处理/增强的版本并按任意模型格式导出
+- 云端训练与部署：在 Roboflow 上训练版本模型，或部署外部自有模型
+- 推理调用：支持托管模型与通过 Roboflow Inference 自托管的模型
+- CLI 命令行工具与搜索导出（如 roboflow search-export 输出 COCO 格式）
 
 ## 适用场景
 
-- 用 Python 脚本批量上传图像与标注并生成数据集版本
-- 在 Roboflow 平台启动训练并下载各模型格式的数据集
-- 对托管模型运行预测并集成到视觉应用中
+- 统一管理计算机视觉项目的数据集、版本与标注
+- 在云端训练视觉模型并部署推理服务
+- 跨工作区搜索图像并导出为训练数据集
+- 以主动学习方式将一个项目的预测结果上传到新项目
 
 ## 场景标签
 
-`模型训练` `目标检测` · 领域:感知与多模态
+ · 领域:计算机视觉/机器学习平台
 
 ## 证据(README 行号)
 
 > L17: Roboflow provides everything you need to build and deploy computer vision models. `roboflow-python` is the official
-> L23: 3. Start training vision models on Roboflow;
 > L24: 4. Run inference on models hosted on Roboflow, or Roboflow models self-hosted via Roboflow Inference, and more.
+> L146: The Roboflow Python library is structured using the same Workspace, Project, and Version ontology that you will se
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "roboflow/roboflow-python 星数(近 12 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-23"]
-    y-axis "stars" 633 --> 643
-    line [634, 635, 636, 637, 638, 636, 641, 642, 641, 642, 641, 641]
+    title "roboflow/roboflow-python 星数(近 11 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-24"]
+    y-axis "stars" 634 --> 643
+    line [635, 636, 637, 638, 636, 641, 642, 641, 642, 641, 641]
 ```
 
-2026-10-21 634 → 2026-11-23 641（+7）
+2026-10-22 635 → 2026-11-24 641（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `49f3412ce4f4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `54688983d369` · [字段定义](../../DATASET.md)*

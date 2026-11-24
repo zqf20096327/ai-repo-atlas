@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "daniel-eai/Prefill-Free-Multi-Agent-LLMs 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-18", "2026-11-21", "2026-11-23"]
+    title "daniel-eai/Prefill-Free-Multi-Agent-LLMs 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 6 --> 14
-    line [7, 11, 12, 13]
+    line [7, 11, 12, 13, 13]
 ```
 
-2026-10-18 7 → 2026-11-23 13（+6）
+2026-10-18 7 → 2026-11-24 13（+6）
 
 
 ---

@@ -40,6 +40,18 @@
 > L9: Flash-SoftDTW computes the soft dynamic time warping value of a batch of cost
 > L5: **Fast, memory-lean, exact soft-DTW for PyTorch — CUDA and CPU, dense and banded, forward and backward.**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "lifeiteng/Flash-SoftDTW 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-23 7 → 2026-11-24 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a48bf1d6e9aa` · [字段定义](../../DATASET.md)*

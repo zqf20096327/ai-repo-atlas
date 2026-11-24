@@ -42,6 +42,18 @@
 > L17: 在消费级显卡（如 8GB VRAM 的 RTX 4060 / 4070 Laptop）或免费云端容器（Tesla T4 16GB）上微调 50 亿参数的 MOSS-Image 单流 DiT 与 9B Qwen3.5 文本编码器，容
 > L45: |**标准入口**|notebooks/kaggle_moss_lora_training.ipynb 或桌面 GUI【☁️ 云端遥控】/ `.\scripts\push_to_kaggle.ps1`|`MOSS_LoRA_Tra
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "abysschaos/kaggle-moss-lora-pipeline 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-23 5 → 2026-11-24 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `3f15ebe4c322` · [字段定义](../../DATASET.md)*

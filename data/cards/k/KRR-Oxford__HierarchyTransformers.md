@@ -45,12 +45,12 @@ Hierarchy Transformer（HiT）是让基于 transformer 编码器的语言模型�
 ```mermaid
 xychart-beta
     title "KRR-Oxford/HierarchyTransformers 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-24", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-24"]
     y-axis "stars" 42 --> 45
     line [43, 44, 44]
 ```
 
-2026-10-21 43 → 2026-11-23 44（+1）
+2026-10-22 43 → 2026-11-24 44（+1）
 
 
 ---

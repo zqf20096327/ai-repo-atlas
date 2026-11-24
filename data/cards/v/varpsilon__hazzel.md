@@ -42,6 +42,18 @@
 > L23: Every agent claims transparency. Hazzel is ~10k lines of Python you can trace end to end — `agent/core.py` is the w
 > L107: ## Providers — bring your own key, no subscription
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "varpsilon/hazzel 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 30 --> 32
+    line [31, 31]
+```
+
+2026-11-23 31 → 2026-11-24 31（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `708cc2c19f6d` · [字段定义](../../DATASET.md)*

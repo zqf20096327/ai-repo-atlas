@@ -46,12 +46,12 @@ AntiCrow 是一个 Antigravity 扩展，充当 Discord 与 Antigravity AI 编辑
 ```mermaid
 xychart-beta
     title "lucianlamp/AntiCrow 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-21 22 → 2026-11-23 22（+0）
+2026-10-22 22 → 2026-11-24 22（+0）
 
 
 ---

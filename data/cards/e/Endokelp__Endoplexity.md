@@ -2,9 +2,9 @@
 
 ⭐ 775 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Endokelp/Endoplexity) · 个人维护
 
-**Chrome 侧边栏扩展：用已订阅的 Claude/Cursor CLI 驱动浏览器操作**
+**用已有 Claude/Cursor 订阅驱动自有 Chrome 的浏览器 agent**
 
-由 Chrome MV3 侧边栏扩展与本地 Node 桥接服务（127.0.0.1:8787）组成：面板持有 CDP 连接控制真实浏览器，桥接层经 MCP/HTTP 向本机 claude 或 cursor-agent CLI 暴露 14 个浏览器工具（点击、输入、导航、标签页等），不直连模型、无需 API key，复用用户已有订阅。页面以可访问性树快照传给模型，动作后回传页面增量；提交/删除/购买等不可逆动作经审批门拦截，提供 watch/normal/trust 三种自主模式。v0.0.1 早期阶段，Windows 优先，macOS/Linux 自动启动未实现；156 个单元测试，Apache-2.0 许可。
+由 Chrome 扩展、本地 bridge 与 CLI 组成的浏览器自动化工具：扩展侧边栏接收指令，本地 bridge 通过 origin 绑定的 WebSocket 提供 18 个浏览器工具，经 token 门控 MCP 交由用户已登录的 claude、cursor-agent 或 codex CLI 运行 agent 循环。页面以文本大纲而非截图提供给模型；不可逆操作需用户批准，且由另一家模型预读检查；完成的任务可存为 skill 离线重放。需 Node 24+、Chrome 114+，Apache-2.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 经 MCP 向本机 claude/cursor-agent CLI 暴露 14 个浏览器工具，无需 API key
-- 页面以可访问性树快照传递，动作返回页面并只回传变化行（token 3.8x 削减）
-- 桥接层强制安全策略：回环绑定、来源锁定、审批门、三种自主模式默认 fail closed
-- read_file 支持 PDF/DOCX/XLSX 等附件以文本进入模型上下文
+- 复用用户已有的 claude/cursor-agent/codex CLI 订阅，无需 API key
+- 页面内容以文本大纲提供给模型，不发送截图
+- 不可逆操作需批准，规则存于本地代码
+- 完成的任务可保存为 skill，重放时不调用模型
 
 ## 适用场景
 
-- 用自然语言让 AI 在我已登录的真实浏览器里填表、比价、跨标签页收集信息
-- 复用现有 Claude/Cursor 订阅执行浏览器任务，避免按次付费 API
-- 让 agent 读取页面附件并回答问题后填入表单
+- 让 agent 在自己日常使用的 Chrome 配置文件里执行网页任务
+- 以已有订阅计划运行浏览器自动化而不产生额外 API 费用
+- 把完成过的网页任务保存为可重放的 skill
 
 ## 场景标签
 
@@ -37,22 +37,21 @@
 
 ## 证据(README 行号)
 
-> L7: A Chrome side panel that reads and acts on the page you're actually looking at:
-> L44: whole project: a tool server and a UI. The agent loop is the CLI you already
-> L92: - **The `claude` CLI, the `cursor-agent` CLI, or both**, already logged in to
+> L91: The Chrome side panel talks to a local bridge over an origin-pinned WebSocket; the bridge serves 18 browser tools o
+> L122: You need Node 24+, Chrome 114+, and one of the `claude`, `cursor-agent` or
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Endokelp/Endoplexity 星数(近 20 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "Endokelp/Endoplexity 星数(近 21 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 110 --> 835
-    line [180, 173, 170, 491, 435, 170, 412, 323, 373, 415, 456, 499, 538, 609, 638, 666, 689, 766, 770, 775]
+    line [180, 173, 170, 491, 435, 170, 412, 323, 373, 415, 456, 499, 538, 609, 638, 666, 689, 766, 770, 775, 775]
 ```
 
-2026-10-21 180 → 2026-11-23 775（+595）
+2026-10-22 180 → 2026-11-24 775（+595）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `08e936f96c6a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4f22983110a0` · [字段定义](../../DATASET.md)*

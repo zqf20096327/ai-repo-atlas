@@ -43,12 +43,12 @@ ECNU 团队开发的自动化论文评审框架，含 Standardization、Evaluati
 ```mermaid
 xychart-beta
     title "ecnu-sea/SEA 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-20 91 → 2026-11-23 91（+0）
+2026-10-21 91 → 2026-11-24 91（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Cashfree 官方发布的 TypeScript 工具包，将支付网关订单/退款/支
 ```mermaid
 xychart-beta
     title "cashfree/agent-tools-js 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-21 17 → 2026-11-23 17（+0）
+2026-10-22 17 → 2026-11-24 17（+0）
 
 
 ---

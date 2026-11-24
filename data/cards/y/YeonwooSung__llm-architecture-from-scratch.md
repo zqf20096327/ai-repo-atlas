@@ -2,15 +2,15 @@
 
 ⭐ 749 · Python · BSD-3-Clause · 推送 2026-11-19 · [GitHub](https://github.com/YeonwooSung/llm-architecture-from-scratch) · 个人维护
 
-**用 PyTorch 从零复现主流 LLM 架构的教学实现合集**
+**为学习者用 PyTorch 从零实现现代 LLM 架构**
 
-以 PyTorch 从零实现现代 LLM 架构的代码集合，用于深入理解各模型结构。已实现 13 种架构（GPT-2 XL、Llama3 系列、Phi-4、DeepSeek v3、Gemma 3、xLSTM、Qwen3 等），并以表格记录各实现的参数规模、归一化方式、位置编码、注意力机制与是否含 MoE 等结构特征；部分为多模态（文本+图像）。另有 Kimi K2、GLM 4.5、GPT OSS 120B、Grok 2.5、Qwen3 Next 标注为实现中。README 未给出安装与运行命令。
+教学/研究性质的代码集合：以 PyTorch 逐个复现 20 余种现代 LLM 的架构，涵盖 GPT-2、Llama 系列、Gemma 3、DeepSeek v3、Qwen3、Kimi K2 等，并以表格记录各模型的规模、模态、归一化方式、位置编码、注意力机制与 MoE 配置，便于对照学习架构设计。README 未提供安装与使用命令，属代码阅读型项目。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | BSD-3-Clause |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 已实现 13 种 LLM 架构，覆盖 1.5B 至 671B 参数规模
-- 表格记录各架构的归一化、位置编码、注意力与 MoE 结构差异
-- 包含 DeepSeek v3、Llama 4、Qwen3-235B 等 MoE 架构实现
-- 覆盖多模态架构（Gemma 3、Mistral 3.1 Small）与 xLSTM
+- 用 PyTorch 从零复现 20+ 现代主流 LLM 架构
+- 表格对照各模型的归一化、位置编码、注意力与 MoE 配置
+- 覆盖 DeepSeek MLA、滑动窗口注意力、GQA 等机制
+- 含进行中的架构实现章节
 
 ## 适用场景
 
-- 对照源码学习 Llama/DeepSeek/Qwen 等模型的内部结构
-- 研究 MoE、GQA、滑动窗口注意力等机制的参考实现
-- 比较不同 LLM 架构在归一化与位置编码上的设计差异
+- 逐个学习现代 LLM 架构组件的实现细节
+- 对比不同模型在位置编码、注意力机制上的设计差异
+- 作为复现模型的参考代码
 
 ## 场景标签
 
@@ -37,21 +37,21 @@
 
 ## 证据(README 行号)
 
-> L3: Implementing LLM architectures from scratch for deep understanding of modern LLM architectures.
-> L7: |Model|Model Size|Modality|Normalization|Positional Encoding|Attention|Mixture of Experts|
+> L5: Implementing LLM architectures from scratch for deep understanding of modern LLM architectures.
+> L7: ## Implemented
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "YeonwooSung/llm-architecture-from-scratch 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 713 --> 1154
-    line [1055, 1117, 1115, 1118, 1105, 1106, 1107, 1108, 1105, 891, 856, 764, 751, 750, 749]
+    line [1117, 1115, 1118, 1105, 1106, 1107, 1108, 1105, 891, 856, 764, 751, 750, 749, 749]
 ```
 
-2026-10-21 1,055 → 2026-11-23 749（-306）
+2026-10-22 1,117 → 2026-11-24 749（-368）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `ab3810b9cf85` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `84c440e22cda` · [字段定义](../../DATASET.md)*

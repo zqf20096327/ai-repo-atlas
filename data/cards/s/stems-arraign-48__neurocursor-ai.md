@@ -45,13 +45,13 @@ C++ 编写的开源应用，将普通网络摄像头变为免手操作的指针�
 
 ```mermaid
 xychart-beta
-    title "stems-arraign-48/neurocursor-ai 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "stems-arraign-48/neurocursor-ai 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 38 --> 41
-    line [40, 39]
+    line [40, 39, 39]
 ```
 
-2026-10-21 40 → 2026-11-23 39（-1）
+2026-10-22 40 → 2026-11-24 39（-1）
 
 
 ---

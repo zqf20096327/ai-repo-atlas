@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "davepartner/email-automation-AI-Agent-skill 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-24"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-10 4 → 2026-11-23 5（+1）
+2026-11-10 4 → 2026-11-24 5（+1）
 
 
 ---

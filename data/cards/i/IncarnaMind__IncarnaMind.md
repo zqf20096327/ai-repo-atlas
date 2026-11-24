@@ -2,9 +2,9 @@
 
 ⭐ 860 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/IncarnaMind/IncarnaMind) · 个人维护 · 中文 README
 
-**本地优先的桌面 AI 写作与文档问答应用，引用逐句核验**
+**桌面应用：核对 AI 代理所写内容与你的本地文件并逐句标注出处**
 
-面向 macOS/Windows/Linux 的开源桌面应用（Apache-2.0）：在笔记（Mind）中写作并用 AI 就自己的文档（PDF、Word、PPT、Excel 等）提问；每个回答带页码引用并核验引文是否存在，草稿可逐句按文档判定 supported/unsupported/contradicted。模型可用 ChatGPT/Claude/Copilot 订阅登录或自有 API key，也可经 Ollama 用本地模型离线回答。支持会议转写、Zotero 导入、MCP Connectors 与 Skills。尚未发布安装包，需 Node.js 24+ 从源码运行；2026 年由 Python CLI 重写而来。
+面向 macOS、Windows 与 Linux 的开源桌面应用，为 AI 代理产出的文本提供核对层：代理（如 Claude Code）写入的每句内容逐句比对用户本地文件，标注是否被来源支持，并定位到原文页码；图表数字在本地重算并展示过程。内置文件库管理 PDF/Word/PPT/Excel，支持本地会议转写、Word 导出与脚注引用、检索 OpenAlex/arXiv/PubMed 及 Zotero 参考文献导入。模型可通过 ChatGPT 套餐、自有 API key 或经 Ollama 的本地模型接入，无需注册账号。当前为未签名的预发布测试构建，公开 alpha 计划于 2027 年初开启。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@
 
 ## 能力要点
 
-- 每条回答的引用逐条核验到 PDF 页面
-- 草稿逐句按自有文档判定支持/未支持/相矛盾
-- 支持 ChatGPT/Claude/Copilot 订阅登录或自有 key，Ollama 本地模型可离线
-- 读取本地文件不动原件，MCP Connectors 与 Skills 运行前需确认
+- 逐句核对代理写入内容与本地文件，标注支持状态并一键跳转原页
+- 整表数字由本地代码重算并展示计算过程
+- 可完全离线运行（经 Ollama 本地模型），文件不离开本机
+- 支持 MCP 服务器与 SKILL.md 技能接入
 
 ## 适用场景
 
-- 对大量 PDF/文献做问答与综述，核验每个引用的出处
-- 起草合同或报告时逐句检查是否有文档依据
-- 会议录音转写并作为可引用的文档保存
+- 核对 AI 代理撰写的备忘录或报告是否与原始文件一致
+- 在本地文件库上做带页码引用的问答
+- 会议实时转写并生成标注发言人出处的会议纪要
+- 编辑并导出保持原格式、可含修订记录的 Word 文件
 
 ## 场景标签
 
-`文档问答` `AI 写作` `科研工具` · 领域:内容生成
+`AI 助手` `文档问答` `科研工具` `语音识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L22: **IncarnaMind** is a free, open-source desktop app for macOS, Windows and Linux where you write with AI and ask que
-> L81: - **Is it an alternative to NotebookLM (now Gemini Notebook)?** Yes. IncarnaMind runs on your computer and reads yo
+> L5:  The artifact layer for any agent: what your AI writes, checked against your files.
+> L57: |**Check**|Check a Note, or a PDF, Word file, deck or workbook someone sent you, against your files, sentence by se
+> L64: Works fully offline with Ollama: nothing leaves your computer.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "IncarnaMind/IncarnaMind 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 836 --> 862
-    line [838, 841, 843, 845, 847, 848, 843, 856, 857, 858, 860, 859, 860, 860]
+    title "IncarnaMind/IncarnaMind 星数(近 13 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 840 --> 861
+    line [841, 843, 845, 847, 848, 843, 856, 857, 858, 860, 859, 860, 860]
 ```
 
-2026-10-21 838 → 2026-11-23 860（+22）
+2026-10-22 841 → 2026-11-24 860（+19）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4b49e20c579a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5ad8167e56e5` · [字段定义](../../DATASET.md)*

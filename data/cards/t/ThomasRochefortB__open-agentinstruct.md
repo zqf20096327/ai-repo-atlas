@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThomasRochefortB/open-agentinstruct 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-23"]
+    x-axis ["2026-11-02", "2026-11-24"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-11-02 29 → 2026-11-23 29（+0）
+2026-11-02 29 → 2026-11-24 29（+0）
 
 
 ---

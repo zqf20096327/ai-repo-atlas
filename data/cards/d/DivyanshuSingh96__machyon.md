@@ -41,6 +41,18 @@
 > L10: Machyon (MAK-ee-on: Mach + tach yon ) is a new kind of image downloader.
 > L85: **🧩 A library first.** Use it from sync or async code, with any input (CSV, TSV, TXT, JSON, JSONL, Parquet, DataFra
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DivyanshuSingh96/machyon 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-23 7 → 2026-11-24 7（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `da4e456a0f3c` · [字段定义](../../DATASET.md)*

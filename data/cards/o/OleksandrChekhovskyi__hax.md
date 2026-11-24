@@ -2,9 +2,9 @@
 
 ⭐ 1,006 · C · MIT · 推送 2026-11-13 · [GitHub](https://github.com/OleksandrChekhovskyi/hax) · [官网](https://usehax.dev) · 个人维护
 
-**C 编写的极简终端编码 agent，支持本地与云端模型**
+**给终端开发者的极简 C 语言编码 agent CLI**
 
-单一原生 C 二进制实现的终端编码 agent：提供流式 Markdown 输出、REPL 与单次 prompt 模式、会话恢复、transcript 查看（Ctrl+T）与可选 wire 协议 trace。接入 OpenAI/Anthropic/OpenRouter/DeepSeek/llama.cpp/Ollama 等多种 provider，对本地模型（llama.cpp/Ollama）提供自动发现，无需专属配置块。通过子进程而非插件组合，配套可选 Python CLI（hax-web 网页搜索、hax-mcp MCP 工具）。安装途径含 Homebrew、AUR、预编译二进制与源码编译（依赖 libcurl、jansson 等）。Windows 仅限 WSL。
+用 C 编写的终端原生编码 agent，单个二进制、依赖少、内存占用仅数 MB。支持流式 Markdown 输出、工具调用可视化、会话恢复（-c/--resume）、一次性模式（-p）与 stdin 管道输入；通过 /provider 选择模型与提供商，默认无需配置即可自动发现本地 llama.cpp 模型。可扩展 hax-web（网页抓取）与 hax-mcp（MCP 工具）两个 Python 伴生 CLI。刻意不提供插件运行时、IDE 面板与逐命令权限提示。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 单一 C 二进制，常驻内存仅数 MB，冷启动快
-- 本地模型一等公民：llama.cpp/Ollama 自动发现模型与运行时能力
-- 多 provider 接入：OpenAI(+兼容)/Anthropic(+兼容)/Codex/OpenRouter/DeepSeek/自定义端点
-- 可审查性：transcript 视图与 wire 协议 trace
+- 单一 C 二进制，即时启动、内存占用数 MB
+- 本地模型一等公民：自动发现 llama-server 运行的模型
+- 支持 OpenAI/Anthropic 兼容端点、OpenRouter、DeepSeek、Ollama 等多提供商
+- 交互转录视图（Ctrl+T）可查看发送与回复内容
 
 ## 适用场景
 
-- 在终端里用本地或云端模型做编码问答与任务执行
-- 资源受限或需打包进发行版的环境运行 agent
-- 审计 agent 实际发送给模型的内容
+- 在终端里用本地模型做代码问答与改动
+- 资源受限环境中运行编码 agent
+- 对发行版打包一个静态链接的编码 agent 工具
 
 ## 场景标签
 
@@ -37,21 +37,22 @@
 
 ## 证据(README 行号)
 
-> L12: - **Local models are first-class** — Start `llama-server -m [model].gguf`, then
+> L3: **A minimalist, terminal-native coding agent written in C.**
 > L20: - **Broad provider support** — OpenAI (+compatible), Anthropic (+compatible), Codex (via a ChatGPT
+> L27: Developers who live in the terminal, run local models, audit what their tools do, package
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "OleksandrChekhovskyi/hax 星数(近 25 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 920 --> 1013
-    line [927, 929, 932, 934, 936, 937, 938, 940, 950, 951, 952, 961, 965, 936, 978, 981, 984, 991, 996, 997, 1001, 1003, 1005, 1006, 1006]
+    title "OleksandrChekhovskyi/hax 星数(近 24 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 922 --> 1013
+    line [929, 932, 934, 936, 937, 938, 940, 950, 951, 952, 961, 965, 936, 978, 981, 984, 991, 996, 997, 1001, 1003, 1005, 1006, 1006]
 ```
 
-2026-10-21 927 → 2026-11-23 1,006（+79）
+2026-10-22 929 → 2026-11-24 1,006（+77）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `58af3832def7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `be13c7fb111a` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@ Milvus 官方 Rust SDK，3.x 版本线对应 Milvus 3.x 服务端，MSRV 为 Rus
 
 ```mermaid
 xychart-beta
-    title "milvus-io/milvus-sdk-rust 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "milvus-io/milvus-sdk-rust 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 98 --> 101
-    line [99, 100]
+    line [99, 100, 100]
 ```
 
-2026-10-21 99 → 2026-11-23 100（+1）
+2026-10-22 99 → 2026-11-24 100（+1）
 
 
 ---

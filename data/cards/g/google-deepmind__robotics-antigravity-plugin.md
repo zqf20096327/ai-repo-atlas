@@ -45,13 +45,13 @@ Google DeepMind 维护的 Google Antigravity 机器人技能插件：agent 可�
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/robotics-antigravity-plugin 星数(近 6 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "google-deepmind/robotics-antigravity-plugin 星数(近 7 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 0 --> 234
-    line [18, 65, 131, 170, 194, 215]
+    line [18, 65, 131, 170, 194, 215, 215]
 ```
 
-2026-11-18 18 → 2026-11-23 215（+197）
+2026-11-18 18 → 2026-11-24 215（+197）
 
 
 ---

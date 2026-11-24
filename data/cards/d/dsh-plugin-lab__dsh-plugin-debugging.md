@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dsh-plugin-lab/dsh-plugin-debugging 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-19", "2026-11-23"]
-    y-axis "stars" 5 --> 11
-    line [6, 7, 9, 10, 10]
+    title "dsh-plugin-lab/dsh-plugin-debugging 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-19", "2026-11-24"]
+    y-axis "stars" 6 --> 11
+    line [7, 9, 10, 10]
 ```
 
-2026-10-21 6 → 2026-11-23 10（+4）
+2026-10-22 7 → 2026-11-24 10（+3）
 
 
 ---

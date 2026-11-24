@@ -46,12 +46,12 @@ TypeScript 多智能体编排库，不绑定特定框架：通过 addAgent/addSw
 ```mermaid
 xychart-beta
     title "tripolskypetr/agent-swarm-kit 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-21 39 → 2026-11-23 39（+0）
+2026-10-22 39 → 2026-11-24 39（+0）
 
 
 ---

@@ -46,13 +46,13 @@ Python CLI 工具 localcaption，用 yt-dlp 下载 YouTube/Vimeo/Twitch 等 1000
 
 ```mermaid
 xychart-beta
-    title "jatinkrmalik/localcaption 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-12", "2026-11-23"]
-    y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 17]
+    title "jatinkrmalik/localcaption 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-12", "2026-11-24"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17, 17]
 ```
 
-2026-10-21 14 → 2026-11-23 17（+3）
+2026-10-22 15 → 2026-11-24 17（+2）
 
 
 ---

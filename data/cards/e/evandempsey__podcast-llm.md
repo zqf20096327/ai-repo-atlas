@@ -41,6 +41,18 @@
 > L17:  - Research mode: Automated research and content gathering using Tavily search
 > L21: - High-quality text-to-speech synthesis using Google Cloud or ElevenLabs
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "evandempsey/podcast-llm 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 152 --> 154
+    line [153, 153]
+```
+
+2026-11-23 153 → 2026-11-24 153（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b764e088cc27` · [字段定义](../../DATASET.md)*

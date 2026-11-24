@@ -1,10 +1,10 @@
 # berylliumsec/nebula
 
-⭐ 1,163 · Python · BSD-2-Clause · 推送 2026-11-22 · [GitHub](https://github.com/berylliumsec/nebula) · [官网](https://www.berylliumsec.com) · 组织维护
+⭐ 1,163 · Python · BSD-2-Clause · 推送 2026-11-22 · [GitHub](https://github.com/berylliumsec/nebula) · [官网](https://www.berylliumsec.com) · 个人维护
 
-**面向操作员的网络安全测试工作台，集成 AI 助手与 Kali 工具**
+**面向渗透测试人员的 AI 网络安全工作台**
 
-桌面端渗透测试 harness，把资产、浏览器会话、Kali 终端、笔记、发现与报告组织在同一 Project 中；内置浏览器流量拦截与 Repeater/Intruder 复测。可添加 SKILL.md 技能供助手调用，支持 Codex/Grok 作为 harness，或接入 Claude、OpenRouter、Ollama、vLLM。Butler 助手支持对话与 GPT-Live 语音（需 OpenAI API key，产生费用），并保留 SQLite 记忆与 Chroma 索引。通过 Docker/Podman 运行容器命令，可选 OpenVPN 出口；自动化动作受操作员的范围、审批与预算控制。Linux x86_64 提供签名 APT 仓库、DEB 与 AppImage 预览版。
+围绕操作者构建的网络安全 harness：将资产、浏览器会话、Kali 终端、代码、笔记、发现与报告组织在单个 Project 中，提供安全浏览器与请求拦截/重放、容器化 Kali 工具执行（Docker/Podman）、可选 OpenVPN 出口，以及操作者控制的自动化（scope、审批、预算）。Butler 助手支持文本与 GPT-Live 语音（需 OpenAI API key，走 WebRTC），可将任务委派给主 agent 与子 agent，支持 SKILL.md 技能扩展与持久记忆（SQLite + Chroma 索引）。Linux x86_64 预览版提供 APT/DEB/AppImage，也可从源码构建。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- 单一 Project 聚合资产、浏览器会话、Kali 容器、发现与报告
-- BYO 技能：SKILL.md 加入 Project 并在聊天中选用
-- 支持 Codex/Grok harness，可接 Claude/OpenRouter/Ollama/vLLM
-- 证据链：哈希存档、执行溯源、关联发现并导出报告
-- Butler 助手含 GPT-Live 语音（需 OpenAI API key）与跨项目持久记忆
+- Butler 助手支持语音（GPT-Live/WebRTC）并可委派任务给 agent 层级
+- 可接入 Codex、Grok、Claude 作为 harness，Claude/OpenRouter/Ollama/vLLM 作为 provider
+- 安全浏览器拦截/重放与容器化 Kali 工具执行
+- 哈希证据保存、执行溯源与报告导出
 
 ## 适用场景
 
-- 在授权范围内组织一次完整渗透测试项目，管理工具与会话
-- 让 AI 助手在范围、审批与预算约束下执行自动化测试动作
-- 通过对话或语音委托与监督子代理的工作
-- 保存哈希证据与执行溯源，导出合规报告
+- 在授权范围内集中管理渗透测试项目的资产与会话
+- 用 AI 助手启动并推进安全评估任务
+- 通过容器运行 Kali 工具并路由 VPN 出口流量
+- 保留执行证据并导出 engagement 报告
 
 ## 场景标签
 
-`网络安全` `AI 助手` `语音 Agent` · 领域:对话与助手
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L46: Use Codex or Grok as harnesses, or connect Claude, OpenRouter, Ollama, or vLLM. Docker or Podman powers Kali and co
-> L17: - **Bring your own skills.** Add `SKILL.md` skills to a Project and select them in chat for assistant work.
+> L3:  Cybersecurity harness built around the operator
+> L46: Use Codex, Grok or Claude as harnesses, or connect Claude, OpenRouter, Ollama, or vLLM as providers. Docker or Podm
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "berylliumsec/nebula 星数(近 22 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1123 --> 1166
-    line [1129, 1128, 1129, 1127, 1126, 1128, 1129, 1130, 1131, 1132, 1133, 1126, 1145, 1157, 1159, 1161, 1162, 1163, 1162, 1161, 1162, 1163]
+    line [1128, 1129, 1127, 1126, 1128, 1129, 1130, 1131, 1132, 1133, 1126, 1145, 1157, 1159, 1161, 1162, 1163, 1162, 1161, 1162, 1163, 1163]
 ```
 
-2026-10-21 1,129 → 2026-11-23 1,163（+34）
+2026-10-22 1,128 → 2026-11-24 1,163（+35）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7a5485a59867` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c783b8358f37` · [字段定义](../../DATASET.md)*

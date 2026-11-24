@@ -44,12 +44,12 @@ Devinterview.io 维护的机器学习/数据科学面试准备资料仓库，以
 ```mermaid
 xychart-beta
     title "Devinterview-io/k-means-clustering-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-21 22 → 2026-11-23 22（+0）
+2026-10-22 22 → 2026-11-24 22（+0）
 
 
 ---

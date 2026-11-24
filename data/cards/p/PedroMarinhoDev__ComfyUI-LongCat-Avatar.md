@@ -44,13 +44,13 @@ ComfyUI 自定义节点，接入美团 LongCat-Video-Avatar 1.6 模型：从起�
 
 ```mermaid
 xychart-beta
-    title "PedroMarinhoDev/ComfyUI-LongCat-Avatar 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "PedroMarinhoDev/ComfyUI-LongCat-Avatar 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 9 --> 23
-    line [10, 16, 18, 22]
+    line [10, 16, 18, 22, 22]
 ```
 
-2026-11-20 10 → 2026-11-23 22（+12）
+2026-11-20 10 → 2026-11-24 22（+12）
 
 
 ---

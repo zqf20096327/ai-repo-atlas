@@ -44,12 +44,12 @@ Sony 维护的 Slicing Adversarial Network（SAN）官方 PyTorch 代码库，�
 ```mermaid
 xychart-beta
     title "sony/san 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 97 --> 99
     line [98, 98]
 ```
 
-2026-10-21 98 → 2026-11-23 98（+0）
+2026-10-22 98 → 2026-11-24 98（+0）
 
 
 ---

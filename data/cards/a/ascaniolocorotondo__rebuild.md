@@ -40,6 +40,18 @@
 > L4:  Una skill per Claude che ricrea da zero le funzioni principali dei programmi a pagamento,
 > L32: 4. ti dà **un file che apri con doppio clic**: una web app in un solo file HTML, che funziona offline e salva i dat
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ascaniolocorotondo/rebuild 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c5ec0079bdad` · [字段定义](../../DATASET.md)*

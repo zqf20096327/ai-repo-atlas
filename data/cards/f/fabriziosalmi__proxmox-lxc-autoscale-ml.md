@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fabriziosalmi/proxmox-lxc-autoscale-ml 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36, 36]
+    title "fabriziosalmi/proxmox-lxc-autoscale-ml 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 34 --> 37
+    line [35, 36, 36]
 ```
 
-2026-10-21 34 → 2026-11-23 36（+2）
+2026-10-22 35 → 2026-11-24 36（+1）
 
 
 ---

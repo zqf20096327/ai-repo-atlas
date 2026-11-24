@@ -2,9 +2,9 @@
 
 ⭐ 671 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/greenfield-inc/Pane) · [官网](https://runpane.com/) · 组织维护
 
-**跨平台终端优先的 AI 编码 agent 管理器**
+**给开发者的多 CLI 编码 agent 并行管理终端工具**
 
-Pixel-art 风格的终端工作台，用于并行运行和管理多个 CLI 编码 agent（Claude Code、Codex、Cursor Agent、Aider、Goose 等），agent 无关、无需插件或 SDK。为每个会话自动创建/清理 git worktree，提供 Pane Chat 全局编排终端、Remote Pane 自托管远程管理（桌面/手机浏览器控制）、跨机 Workspaces 与任务 Handoff、@mention 终端上下文引用、按 pane 的 CPU/内存监控、agent 状态指示等。AGPL-3.0 许可，macOS/Windows/Linux 提供安装包，另支持 npx/pnpm/pipx 安装。
+以终端为核心的 AI 编码 agent 管理器：不替换既有 CLI agent，任何能在终端运行的工具（Claude Code、Codex、Cursor Agent、Aider、Goose 等）无需插件或 SDK 即可直接在 Pane 中运行。内置 git worktree 自动创建/清理/rebase、会话编排、审批通知、密钥管理、定时任务、机器健康监控等功能，支持本地或自托管 Remote Pane，从桌面或手机浏览器控制远程机器上的 agent。AGPL-3.0 许可，提供 Mac/Linux/Windows 安装包与 npm/pnpm/pipx 安装方式。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Pixel-art 风格的终端工作台，用于并行运行和管理多个 CLI 编�
 
 ## 能力要点
 
-- 任何 CLI agent 零集成即可运行，会话自动创建与清理 git worktree
-- Remote Pane 自托管远程管理，桌面或手机浏览器（runpane.com/app）控制远程机器上的 agent
-- Pane Workspaces 基于 Tailscale 的跨机文件/命令访问与任务 Handoff
-- Agent-Operable CLI：runpane agent-context/repos/panes 命令供 agent 调用，Claude Code/Codex/Cursor 同样作为 MCP 工具暴露
+- 零集成的 agent 管理：终端内可运行的 CLI agent 均可直接使用
+- git worktree 自动创建、清理与 rebase，隐去命令细节
+- 审批队列（notify MCP 工具）与跨机器密钥同步
+- 自托管 Remote Pane，桌面/手机浏览器均可控制
 
 ## 适用场景
 
-- 在同一窗口并行运行多个编码 agent 并跟踪各自状态与分支
-- 在手机上通过自托管 Remote Pane 监控家中的 agent 任务
-- 用 git worktree 隔离多个 agent 的并行改动并自动清理
-- 让 agent 通过 CLI/MCP 命令自行注册仓库、开 Pane 并跨机执行任务
+- 在同一界面并行运行多个编码 agent 并跟踪各自分支
+- 在手机上审批远程机器上等待确认的 agent 操作
+- 用定时任务按 cron 周期运行夜间巡检类 agent 任务
 
 ## 场景标签
 
- · 领域:开发者工具/agent 编排
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
+> L3:  Run any coding agent, on any OS, from desktop or phone.
 > L71: Pane manages AI coding agents without replacing them. If it runs in a terminal, it runs in Pane — instantly, with z
-> L94: |**Agent-Operable CLI**|Pane ships with `runpane agent-context`, `runpane repos add`, and `runpane panes create`, s
+> L92: |**Remote Pane**|Run panes, worktrees, terminals, files, git state, and approval prompts on a self-hosted remote ma
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "greenfield-inc/Pane 星数(近 26 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 552 --> 681
-    line [562, 569, 575, 580, 581, 582, 584, 586, 591, 595, 596, 580, 607, 614, 616, 620, 626, 628, 630, 657, 661, 662, 667, 669, 668, 671]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 559 --> 681
+    line [569, 575, 580, 581, 582, 584, 586, 591, 595, 596, 580, 607, 614, 616, 620, 626, 628, 630, 657, 661, 662, 667, 669, 668, 671, 671]
 ```
 
-2026-10-21 562 → 2026-11-23 671（+109）
+2026-10-22 569 → 2026-11-24 671（+102）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ae9ce1ba7c98` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `9a9d0af0518d` · [字段定义](../../DATASET.md)*

@@ -41,6 +41,18 @@
 > L11: **Model providers:** OpenRouter today; more carriers planned (see Roadmap).
 > L54: One entry point: `thinktank.py` + `tt/` package (stdlib only: `urllib` + `json` + `argparse`).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "stoneskin/muse-thinktank 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `6c4135b5e928` · [字段定义](../../DATASET.md)*

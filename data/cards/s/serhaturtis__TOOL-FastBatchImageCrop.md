@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "serhaturtis/TOOL-FastBatchImageCrop 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "serhaturtis/TOOL-FastBatchImageCrop 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
 ```
 
-2026-10-21 33 → 2026-11-23 34（+1）
+2026-10-22 34 → 2026-11-24 34（+0）
 
 
 ---

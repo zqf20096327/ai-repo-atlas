@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Elflare/nonebot-plugin-moellmchats 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-20 30 → 2026-11-23 30（+0）
+2026-10-21 30 → 2026-11-24 30（+0）
 
 
 ---

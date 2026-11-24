@@ -47,12 +47,12 @@ DeepMind 维护的 PushWorld 操作规划基准：提供人可编辑格式存储
 ```mermaid
 xychart-beta
     title "google-deepmind/pushworld 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 95 --> 97
     line [96, 96]
 ```
 
-2026-10-21 96 → 2026-11-23 96（+0）
+2026-10-22 96 → 2026-11-24 96（+0）
 
 
 ---

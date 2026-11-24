@@ -45,12 +45,12 @@ ICCV 2025 论文官方代码：基于 PanoHead 3D GAN，从 360 度视角对 3D 
 ```mermaid
 xychart-beta
     title "three-bee/3d_head_stylization 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-21 16 → 2026-11-23 16（+0）
+2026-10-22 16 → 2026-11-24 16（+0）
 
 
 ---

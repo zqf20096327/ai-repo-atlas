@@ -44,12 +44,12 @@ zhonger 的个人博客站点源码，基于 Jekyll 及 jekyll-theme-H2O-ac 主�
 ```mermaid
 xychart-beta
     title "zhonger/zhonger.github.io 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-23 10（+0）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

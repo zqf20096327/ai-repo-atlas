@@ -2,9 +2,9 @@
 
 ⭐ 715 · Typst · MIT · 推送 2026-11-21 · [GitHub](https://github.com/janosh/diagrams) · [官网](https://janosh.github.io/diagrams) · 个人维护
 
-**物理/化学/机器学习概念科学图表集合（Typst/LaTeX 源码）**
+**科研人员可搜索下载的物理/化学/机器学习概念图集**
 
-收录物理、化学与机器学习概念示意图的开放集合：134 幅提供 Typst 源码、72 幅提供 LaTeX 源码，按条目附创作者、参考文献与原始来源链接。配套网站 janosh.github.io/diagrams 支持搜索、排序、在 Overleaf 中打开以及下载 PDF/SVG/PNG 格式图片。社区可通过提交 PR 分享 TikZ/CeTZ 图表，需附带 .tex 或 .typ 文件、assets/ 目录下的元数据 .yml 文件并登记 citation.cff。
+收录 137 幅科学示意图的图库，覆盖物理、化学与机器学习概念，以 TikZ（LaTeX）与 CeTZ（Typst）两种源码格式提供，其中 137 幅有 Typst 版本、72 幅有 LaTeX 版本。配套网站 janosh.github.io/diagrams 支持搜索、排序、在 Overleaf 中打开及下载 PDF/SVG/PNG。接受社区以 PR 方式贡献新图，需提交 .tex 或 .typ 源文件与对应的元数据 .yml 文件。仓库含 DOI 及 citation.cff 引用信息。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 134 幅 Typst 源码与 72 幅 LaTeX 源码的科学示意图
-- 每条目附创作者、参考文献与原始来源元数据
+- 137 幅物理/化学/机器学习概念图，附 TikZ 与 CeTZ 源码
 - 配套网站支持搜索、排序、Overleaf 打开与 PDF/SVG/PNG 下载
-- 通过 PR 接受社区投稿（.tex/.typ + .yml 元数据）
+- 每幅图附创作者与原始出处元数据及引用链接
+- 通过 PR 提交 .tex/.typ 与 .yml 元数据即可贡献新图
 
 ## 适用场景
 
-- 论文或教学材料中复用物理/化学/ML 概念示意图源码
-- 在 Overleaf 中直接打开并修改图表
-- 学习 TikZ/CeTZ 科学图表的绘制写法
+- 为论文、讲义或幻灯片查找可复用的科学概念示意图
+- 下载 TikZ/Typst 源码并按需修改成自己的图示
+- 在 Overleaf 中直接打开 LaTeX 版图示进行编辑
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: 134 Scientific Diagrams
 > L3:  Illustrating concepts in physics, chemistry and machine learning.
 > L11: janosh.github.io/diagrams allows searching, sorting, opening in Overleaf and downloading figures (PDF/SVG/PNG) from
+> L13: Have a TikZ/CeTZ diagram you'd like to share? Submit a PR with a `.tex` or `.typ` and a corresponding metadata `.ym
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "janosh/diagrams 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-23"]
-    y-axis "stars" 703 --> 716
-    line [704, 705, 706, 707, 709, 710, 711, 705, 711, 712, 713, 714, 715, 715]
+    title "janosh/diagrams 星数(近 13 点)"
+    x-axis ["2026-10-22", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-24"]
+    y-axis "stars" 704 --> 716
+    line [705, 706, 707, 709, 710, 711, 705, 711, 712, 713, 714, 715, 715]
 ```
 
-2026-10-21 704 → 2026-11-23 715（+11）
+2026-10-22 705 → 2026-11-24 715（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `86de4fe8e0ec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c0a4e5ba2aeb` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 799 · C++ · LGPL-2.1 · 推送 2026-11-21 · [GitHub](https://github.com/nnstreamer/nnstreamer) · [官网](https://nnstreamer.ai) · 组织维护
 
-**把神经网络模型接入 GStreamer 流水线的插件集，面向嵌入式/边缘设备**
+**帮助开发者以 GStreamer 插件形式接入神经网络模型**
 
-NNStreamer 是一组 GStreamer 插件，使 GStreamer 开发者能在媒体流中直接使用神经网络模型作为过滤器，也使神经网络开发者便于构建和管理媒体流管道。支持多模型组合、多模态来源接入，提供与 TensorFlow、Caffe2、PyTorch、TensorFlow-lite、TVM 等框架的连接，以及 TensorRT、Edge-TPU、SNPE、ARMNN 等多种 AI 加速硬件子插件。发布渠道覆盖 Tizen、Ubuntu（PPA）、Android、Yocto、macOS（Brew Tap）。README 注明项目起步阶段、部分组件仍在设计期。
+NNStreamer 是一组 GStreamer 插件，让 GStreamer 开发者可将神经网络模型作为媒体过滤器接入流管线，也供神经网络开发者管理和构建带模型过滤器的流管线。支持在同一管线中组合多个模型与多路数据源。提供 Tizen、Ubuntu、Android、Yocto、macOS 的官方发布渠道，提供 C/C#/Java API，并通过子插件对接多种推理后端与硬件加速器。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ NNStreamer 是一组 GStreamer 插件，使 GStreamer 开发者能在媒体流�
 
 ## 能力要点
 
-- 将 NN 模型作为 GStreamer 媒体过滤器在流管道中使用
-- 单一管道中组合多个模型、接入多模态来源
-- 支持 TensorRT、Edge-TPU、SNPE、QNN、ARMNN 等多种加速硬件子插件
-- 覆盖 Tizen/Ubuntu/Android/Yocto/macOS 多平台官方发布渠道
+- 以 GStreamer 插件形式将神经网络模型用作媒体过滤器
+- 支持单管线组合多个模型与多模态多路流
+- 通过子插件对接 TensorRT、OpenVINO、Edge-TPU、SNPE、QNN 等加速后端
+- 覆盖 Tizen/Ubuntu/Android/Yocto/macOS 平台发布与 C/C#/Java API
 
 ## 适用场景
 
-- 在音视频媒体流中做姿态估计、图像分类、目标检测
-- 边缘设备上构建多模型、多模态的 AI 流水线
-- GStreamer 应用中接入 TensorFlow/PyTorch 等框架模型
+- 在媒体流管线中嵌入图像分类、目标检测、姿态估计模型
+- 在边缘设备上构建流式 AI 推理管线
+- 统一管理包含多个神经网络模型的流处理应用
 
 ## 场景标签
 
@@ -38,21 +38,21 @@ NNStreamer 是一组 GStreamer 插件，使 GStreamer 开发者能在媒体流�
 ## 证据(README 行号)
 
 > L14: NNStreamer is a set of Gstreamer plugins that allow
-> L15: Gstreamer developers to adopt neural network models easily and efficiently and
 > L47: - Provide neural network framework connectivities (e.g., tensorflow, caffe) for gstreamer streams.
+> L126: Although a framework may accelerate transparently as Tensorflow-GPU does, nnstreamer provides various hardware acc
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "nnstreamer/nnstreamer 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-11-22", "2026-11-23"]
+    title "nnstreamer/nnstreamer 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-22", "2026-11-24"]
     y-axis "stars" 798 --> 802
-    line [800, 801, 800, 799, 799]
+    line [801, 800, 799, 799]
 ```
 
-2026-10-21 800 → 2026-11-23 799（-1）
+2026-10-22 801 → 2026-11-24 799（-2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a5a23bb58190` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `bafee3cae021` · [字段定义](../../DATASET.md)*

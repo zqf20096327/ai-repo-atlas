@@ -45,13 +45,13 @@ Crow 是一个自托管的模块化 agentic 框架与 MCP 平台，基于 Model 
 
 ```mermaid
 xychart-beta
-    title "maestro-press/grajo 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-23"]
+    title "maestro-press/grajo 星数(近 3 点)"
+    x-axis ["2026-11-20", "2026-11-23", "2026-11-24"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 28]
 ```
 
-2026-11-20 27 → 2026-11-23 28（+1）
+2026-11-20 27 → 2026-11-24 28（+1）
 
 
 ---

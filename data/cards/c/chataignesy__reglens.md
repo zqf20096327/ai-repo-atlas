@@ -41,6 +41,18 @@
 > L59: 1. **Ingestion from official sources:** the law via the EU Publications Office API (consolidated
 > L163: Answers are generated with your **Claude subscription** (the `claude` CLI must be installed and
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chataignesy/reglens 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `635cb05e38bd` · [字段定义](../../DATASET.md)*

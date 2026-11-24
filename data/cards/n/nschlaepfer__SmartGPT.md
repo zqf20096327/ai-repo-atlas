@@ -45,12 +45,12 @@ SmartGPT 是构建 AI agent 的 TypeScript 框架，采用推理模型与上下�
 ```mermaid
 xychart-beta
     title "nschlaepfer/SmartGPT 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 67 --> 69
     line [68, 68]
 ```
 
-2026-10-21 68 → 2026-11-23 68（+0）
+2026-10-22 68 → 2026-11-24 68（+0）
 
 
 ---

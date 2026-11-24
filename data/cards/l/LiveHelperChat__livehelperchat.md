@@ -1,10 +1,10 @@
 # LiveHelperChat/livehelperchat
 
-⭐ 2,258 · PHP · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/LiveHelperChat/livehelperchat) · [官网](http://livehelperchat.com) · 组织维护
+⭐ 2,258 · PHP · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/LiveHelperChat/livehelperchat) · [官网](http://livehelperchat.com) · 个人维护
 
-**面向网站的在线客服聊天系统，支持 AI 机器人与多渠道接入**
+**给网站提供开源在线客服系统的应用**
 
-开源 PHP 客服聊天应用：在网站上部署在线客服，支持多坐席、部门分配、访客追踪、主动邀请、FAQ、语音视频屏幕共享（Agora/Jitsi）等功能。可接入 Telegram、WhatsApp、Facebook Messenger 等渠道，机器人框架支持对接第三方 AI（ChatGPT、Ollama、Gemini、Rasa、Dialogflow），并提供 MCP 配置、DeepPavlov 情感分析与辱骂检测。提供移动/桌面客户端、Docker 与 Node.js 部署方式，官方称生产环境可日均处理万级会话。安装方式为 git clone 后 composer 依赖（PHP ≥8.2）或下载 release 包。
+开源自托管Live Support应用，为网站提供访客聊天、客服工位与消息分发能力。支持多客服同时处理会话、部门与队列管理、会话存档与统计、主动邀请、地理与访问轨迹追踪，并提供Web与移动端、Windows/Linux/Mac桌面客户端。机器人层可接入第三方AI服务（ChatGPT、Ollama、Rasa、Dialogflow、Gemini等），另支持Telegram、WhatsApp、Messenger等渠道及语音视频与屏幕共享（Agora/Jitsi）。安装需PHP 8.2以上并通过composer或release包部署。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 机器人框架可对接任意第三方 AI（ChatGPT/Ollama/Gemini/Rasa/Dialogflow）
-- 多渠道接入：Telegram、WhatsApp、Viber、Discord 等
-- 语音/视频/屏幕共享（Agora 付费与 Jitsi 免费）
-- 移动端、桌面端（Electron）与 Docker/Node.js 部署支持
+- Bot支持接入任意第三方AI（ChatGPT/Ollama/Rasa/Dialogflow/Gemini集成文档）
+- 多渠道接入：Telegram、Viber、Discord、WhatsApp（Twilio/open-wa）、Messenger
+- 基于Agora（付费）与Jitsi（免费）的语音、视频与屏幕共享
+- 桌面（Electron）与移动端（Flutter）客户端，Windows/Linux/Mac原生应用
 
 ## 适用场景
 
-- 在网站上部署多坐席在线客服系统
-- 通过 AI 机器人自动应答访客咨询
-- 聚合 Telegram/WhatsApp 等消息渠道统一处理
-- 高负载环境下的客服会话处理与统计
+- 给公司网站嵌入在线客服窗口，客服团队多坐席接待
+- 用机器人接入AI自动回复访客常见问题
+- 统一管理Telegram、WhatsApp等渠道的客户消息
 
 ## 场景标签
 
@@ -40,20 +39,19 @@
 
 > L3: It's an open-source powered application that brings simplicity and usability into one place. With Live Helper Chat, 
 > L54:  * Bot with the possibility to integrate any third-party AI
-> L139:  * Bot with the possibility to integrate any third-party AI
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "LiveHelperChat/livehelperchat 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-24"]
     y-axis "stars" 2246 --> 2259
     line [2249, 2248, 2247, 2249, 2250, 2248, 2255, 2256, 2257, 2258, 2257, 2258, 2257, 2258, 2258]
 ```
 
-2026-10-21 2,249 → 2026-11-23 2,258（+9）
+2026-10-22 2,249 → 2026-11-24 2,258（+9）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `70f639f3915e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `e64d04bdcc9d` · [字段定义](../../DATASET.md)*

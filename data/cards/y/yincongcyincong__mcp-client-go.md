@@ -46,12 +46,12 @@ Golang 编写的 Model Context Protocol (MCP) 客户端库：开发者以统一 
 ```mermaid
 xychart-beta
     title "yincongcyincong/mcp-client-go 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-23"]
+    x-axis ["2026-11-12", "2026-11-24"]
     y-axis "stars" 149 --> 151
     line [150, 150]
 ```
 
-2026-11-12 150 → 2026-11-23 150（+0）
+2026-11-12 150 → 2026-11-24 150（+0）
 
 
 ---

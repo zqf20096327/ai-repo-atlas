@@ -2,9 +2,9 @@
 
 ⭐ 652 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/openai/tunnel-client) · 组织维护
 
-**OpenAI Secure MCP Tunnel 客户端：把本地/私有 MCP 服务接入 ChatGPT**
+**客户自运行的隧道客户端，将私有 MCP 服务器安全接入 ChatGPT/Codex**
 
-由 OpenAI 维护的命令行工具与 Go SDK，作为客户侧运行时，将部署在笔记本、VM、Kubernetes 或私有网络中的 MCP 服务器通过 OpenAI 托管的 /v1/mcp/{tunnel_id} 隧道端点连接到 ChatGPT、Codex、Responses API 与 AgentKit，使 MCP 服务器无需暴露公网即可被调用。提供 /healthz、/readyz、/metrics 与 /ui 运维端点，支持 Homebrew 安装、Docker/K8s/VM 部署文档及 Go SDK 进程内嵌入；需运行时 API key 与隧道 ID，stdio 模式下每个隧道 ID 仅支持一个活跃实例。
+OpenAI 官方提供的 Go CLI 与 SDK，是 Secure MCP Tunnel 的客户侧组件：在私有或本地 MCP 服务器旁运行，通过 OpenAI 托管的 /v1/mcp/{tunnel_id} 端点，使 ChatGPT、Codex、Responses API 与 AgentKit 能访问该服务器，而无需暴露公网入站端点。提供 /healthz、/readyz、/metrics、/ui 运维端点、区域控制面选择、mTLS、请求 ID 转发、可选 W3C trace 转发、嵌入式演示 MCP stub，以及内存 transport 的 Go SDK 嵌入方式。macOS 经 Homebrew 安装并支持 brew services 开机自启。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 通过 OpenAI 托管隧道端点连接私有/本地 MCP 服务器，无需开放入站防火墙规则
-- 同时提供 CLI 守护进程与可进程内嵌入的 Go SDK（配合 MCP SDK 内存传输）
-- 内置 /healthz、/readyz、/metrics、/ui 运维端点与 embedded demo 工具
-- 支持 W3C trace 上下文转发、请求 ID 转发与 OpenAPI 协议契约（docs/protocol.md、docs/openapi.json）
+- CLI 与 Go SDK 双形态，SDK 支持在 Go 进程内以内存 transport 嵌入 MCP 服务器
+- 提供 /healthz、/readyz、/metrics、/ui 运维端点与 doctor/health 诊断命令
+- 内嵌演示 MCP stub（server_info/echo/uppercase）可在无独立服务器时验证
+- brew services 支持登录自启、配置文件托管与 shell 补全
 
 ## 适用场景
 
-- 把本机或内网的 MCP 服务器接入 ChatGPT / Codex 连接器
-- 安全策略不允许开放入站端口时让 OpenAI 托管产品访问内部 MCP 工具
-- 在 Go 进程内嵌入 MCP 服务器并通过隧道供远端调用
+- 让 ChatGPT/Codex 访问笔记本、VM 或 Kubernetes 集群上的内部 MCP 服务器
+- 安全部门不允许开放入站防火墙规则时的 MCP 接入方案
+- 以 SDK 将 MCP 服务器与隧道客户端嵌入同一 Go 进程
+- 将私有 MCP 服务器作为企业内受监管的守护进程运行
 
 ## 场景标签
 
- · 领域:LLM 基础设施/MCP 连接
+ · 领域:AI 基础设施/MCP 连接
 
 ## 证据(README 行号)
 
 > L3: `tunnel-client` is the customer-run agent behind Secure MCP Tunnel. It connects
+> L5: the Responses API, and AgentKit through an OpenAI-hosted MCP tunnel endpoint,
 > L8: This CLI and its Go SDK run beside your private MCP server.
-> L9: Applications call the OpenAI-hosted `/v1/mcp/{tunnel_id}` endpoint through their
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "openai/tunnel-client 星数(近 27 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 574 --> 659
-    line [581, 586, 589, 592, 597, 598, 600, 601, 603, 607, 609, 612, 597, 624, 628, 629, 633, 636, 637, 639, 644, 646, 647, 648, 650, 651, 652]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 580 --> 658
+    line [586, 589, 592, 597, 598, 600, 601, 603, 607, 609, 612, 597, 624, 628, 629, 633, 636, 637, 639, 644, 646, 647, 648, 650, 651, 652, 652]
 ```
 
-2026-10-21 581 → 2026-11-23 652（+71）
+2026-10-22 586 → 2026-11-24 652（+66）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d04f223fd7da` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `79979b31e122` · [字段定义](../../DATASET.md)*

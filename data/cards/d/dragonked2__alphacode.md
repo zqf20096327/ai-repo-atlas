@@ -2,9 +2,9 @@
 
 ⭐ 658 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dragonked2/alphacode) · [官网](https://alphacli.github.io/) · 个人维护
 
-**Rust 编写的终端 AI 编码 agent，含浏览器与桌面自动化**
+**开发者终端里的 Rust AI 编码 Agent，无需 API key 即可启动**
 
-开源 MIT 许可、用 Rust 实现的终端 AI 编码代理：理解代码库、规划任务、编辑文件、执行命令与测试、搜索网页、通过原生消息驱动真实 Firefox 会话、经平台无障碍 API 操作桌面应用，并运行测试核验自身工作。模型无关：内置免 API key 的免费 AI 通道，可接入 Claude、GPT、Gemini、Copilot、Bedrock、Azure、OpenRouter 及 Ollama/LM Studio 等本地模型。提供 Swarm 多 agent 并行模式、持久会话、项目记忆与 MCP/Skills 扩展。跨 Windows/macOS/Linux 提供安装脚本。
+用 Rust 编写的终端 AI 编码代理：理解代码库、编辑文件、运行命令与测试、驱动真实 Firefox 会话、控制桌面应用，并以「理解-计划-执行-观察-验证」循环产出变更报告。内置免费模型无需 API key 即可开始，也可接入 Claude、GPT、Gemini、DeepSeek、Ollama 等 50 余个 OpenAI 兼容端点。提供 40+ 工具、Swarm 多代理并行模式、会话可恢复机制；通过权限提示与 diff 审查控制风险。以单二进制分发，提供安装脚本与 doctor 环境检查。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 内置免费 AI 通道，无需 API key 即可开始
-- Firefox 浏览器自动化（扩展 + 原生消息桥）与桌面无障碍 API 自动化
-- Swarm 模式并行协调多个 agent；持久会话跨终端重启恢复
-- 支持 Claude/GPT/Gemini/Bedrock/Azure/OpenRouter 及 OpenAI 兼容端点（含 Ollama、LM Studio）
+- 内置免费 AI，无需 API key 与注册即可开始
+- 40+ agent 工具，覆盖文件、shell、网页、Firefox 与桌面 UI 自动化
+- Swarm 模式将大目标拆分给并行 agent
+- 会话持久化，可在重启、崩溃、SSH 断连后恢复
 
 ## 适用场景
 
-- 在终端用自然语言让 agent 探索代码库、修 bug、跑测试
-- 驱动真实 Firefox 会话做网页 QA、表单验证与截图
-- 并行多 agent 分析项目的架构、安全与性能
-- 用本地 Ollama/LM Studio 模型做编码代理后端
+- 让 Agent 自动修复失败测试并重跑验证
+- 对新代码库做结构讲解与入口分析
+- 通过 Firefox 自动化测试 Web 应用的表单
+- Swarm 并行做架构、安全、测试多视角审查
 
 ## 场景标签
 
-`编码 Agent` `浏览器自动化` `GUI 自动化` `多智能体` · 领域:Agent 开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L60: **AlphaCode is an open-source AI coding agent written in Rust that runs in your terminal.** Instead of only suggest
-> L189: |**AI coding agent**|Understands natural-language tasks, plans multi-step work, edits code, and checks results|
+> L7: **Built in Rust. Understands your codebase, edits files, runs commands and tests, drives a real Firefox session, con
+> L110: **AlphaCode is a free, open-source AI coding agent written in Rust that runs in your terminal.** Instead of only s
+> L114: It is an open-source alternative to terminal coding agents such as Claude Code, Codex CLI, Aider, and OpenCode, wi
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "dragonked2/alphacode 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 314 --> 689
-    line [345, 397, 412, 421, 444, 459, 478, 479, 491, 504, 513, 521, 526, 444, 571, 582, 587, 600, 610, 618, 623, 626, 628, 629, 631, 635, 640, 658]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 371 --> 684
+    line [397, 412, 421, 444, 459, 478, 479, 491, 504, 513, 521, 526, 444, 571, 582, 587, 600, 610, 618, 623, 626, 628, 629, 631, 635, 640, 658, 658]
 ```
 
-2026-10-21 345 → 2026-11-23 658（+313）
+2026-10-22 397 → 2026-11-24 658（+261）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `618da5ac97dc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1c272a5c2367` · [字段定义](../../DATASET.md)*

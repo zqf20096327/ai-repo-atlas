@@ -46,12 +46,12 @@ OpenCode V2 插件：在 OpenCode 服务器内开启 HTTP 监听，把请求转�
 ```mermaid
 xychart-beta
     title "jjjermiah/opencode-plugboard 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-24"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-23 4（+0）
+2026-11-10 4 → 2026-11-24 4（+0）
 
 
 ---

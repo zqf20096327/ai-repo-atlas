@@ -41,6 +41,18 @@
 > L42: - **Text-to-Speech Generation**: Convert written scripts into natural speech with adjustable stability, clarity, an
 > L55: 1. **Installation**: Download the installation package from the official source for Elevenlabs Pro. Run the install
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Morriswawan05/elevenlabs-pro-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 346 --> 348
+    line [347, 347]
+```
+
+2026-11-23 347 → 2026-11-24 347（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `b376cbec8a43` · [字段定义](../../DATASET.md)*

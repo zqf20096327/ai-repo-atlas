@@ -40,6 +40,18 @@
 > L19: - **Real integration.** It starts the other CLI as a real process (`codex exec` or
 > L44: |a skill that teaches Claude to delegate to Codex|`~/.claude/skills/claude-codex-tunnel/`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AstroKhattab/claude-codex-tunnel 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `de99647ebe4e` · [字段定义](../../DATASET.md)*

@@ -44,12 +44,12 @@ MacPaw Research 开发的 macOS 应用原型：检测当前前台应用，通过
 ```mermaid
 xychart-beta
     title "MacPaw/project-echo 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-21 23 → 2026-11-23 23（+0）
+2026-10-22 23 → 2026-11-24 23（+0）
 
 
 ---

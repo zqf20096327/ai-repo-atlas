@@ -44,13 +44,13 @@ Swift/SwiftUI 编写的 macOS 菜单栏应用，以 WKWebView 打开各 AI 服�
 
 ```mermaid
 xychart-beta
-    title "bunnysayzz/AppleAI 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-11", "2026-11-23"]
+    title "bunnysayzz/AppleAI 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-11", "2026-11-24"]
     y-axis "stars" 142 --> 145
-    line [144, 143, 144, 144]
+    line [143, 144, 144]
 ```
 
-2026-10-21 144 → 2026-11-23 144（+0）
+2026-10-22 143 → 2026-11-24 144（+1）
 
 
 ---

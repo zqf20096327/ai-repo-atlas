@@ -41,6 +41,18 @@ NVIDIA Auto Ontology 的 Rust 重写版：先只读摄取数据库结构（表�
 > L5: This is a Rust-native rebuild of NVIDIA Auto Ontology. It reads a database's structure, has an LLM compile it into a
 > L38: 2. **Compile** (`aoq compile`). For every table without a term, the LLM receives the table's structure plus up to t
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TinDang97/rust-auto-ontology 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `f62c847a909c` · [字段定义](../../DATASET.md)*

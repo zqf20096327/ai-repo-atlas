@@ -1,10 +1,10 @@
 # matrixorigin/memoria
 
-⭐ 631 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/matrixorigin/memoria) · [官网](https://thememoria.ai/) · 组织维护 · 中文 README
+⭐ 631 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/matrixorigin/memoria) · [官网](https://thememoria.ai/) · 组织维护
 
-**AI Agent 持久记忆层：带 Git 式版本控制的记忆存储与检索**
+**AI Agent 记忆的持久化版本管理层：快照/分支/回滚**
 
-为 AI agent 提供跨会话持久记忆层，基于 MatrixOne 的 Copy-on-Write 引擎实现快照、分支、合并与回滚等版本控制操作。提供向量+全文混合语义检索、矛盾检测与低置信记忆隔离、完整审计链，记忆分为 semantic/profile/procedural/working/episodic 五类。兼容 Kiro、Cursor、Claude Code、Codex、Gemini CLI 等 MCP 兼容 agent，有云端托管与 Docker 自托管两种模式，自托管需先配置 embedding（维度写入 schema 后锁定）。它是 MatrixOrigin Astra 的核心记忆组件。
+面向 AI Agent 的持久化记忆层，为每次记忆变更提供 Git 级版本控制：快照、零拷贝分支、合并与时间点回滚，底层由 MatrixOne 的 Copy-on-Write 引擎支撑。提供 MCP 服务器与 REST API 两类接入方式，记忆工具覆盖存取、语义检索、纠错、治理（矛盾检测与低置信隔离）等；支持本地嵌入模型使数据不出机器。可通过 Memoria Cloud（托管）、Docker 自托管或 OpenClaw 插件三种路径使用；自托管模式下嵌入维度在首次启动后锁定。
 
 ## 筛选速览
 
@@ -16,43 +16,43 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 零拷贝快照、分支、合并与时间点回滚的记忆版本控制
-- 向量+全文混合语义检索
-- 矛盾自动检测、低置信记忆隔离与完整审计链
-- 支持任意 MCP 兼容 agent（Kiro/Cursor/Claude Code/Codex/Gemini CLI 等）
+- Git 级记忆版本控制：快照、分支、合并、回滚
+- MCP 服务器与 REST API 双接入，兼容任意 MCP agent
+- 自动矛盾检测与低置信记忆隔离，含完整审计链
+- 本地嵌入模型选项，数据不出本机
 
 ## 适用场景
 
-- 让编码 agent 跨会话记住项目决策与偏好
-- 对记忆变更做分支实验、验证后合并或回滚
-- 自托管部署以完全掌控 agent 记忆数据
+- 让 agent 跨会话记住偏好、决策与项目事实
+- 在分支上隔离试验新记忆策略，验证后合并
+- 对记忆变更加审计与回滚，保障数据可追溯
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `语义搜索` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L24: Memoria is a **persistent memory layer** for AI agents with Git-level version control.
-> L27: > **A core memory component of MatrixOrigin's Astra.**
 > L67:  Works with any MCP-compatible agent
+> L29: > Astra runs the agent. Memoria helps it remember across sessions. MatrixOne powers the data storage and search.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "matrixorigin/memoria 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-23"]
+    title "matrixorigin/memoria 星数(近 15 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-24"]
     y-axis "stars" 613 --> 632
-    line [614, 615, 616, 617, 619, 620, 621, 615, 624, 626, 627, 629, 630, 631]
+    line [614, 615, 616, 617, 619, 620, 621, 615, 624, 626, 627, 629, 630, 631, 631]
 ```
 
-2026-10-21 614 → 2026-11-23 631（+17）
+2026-10-22 614 → 2026-11-24 631（+17）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cf772978b15d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ecf36ca6ba8b` · [字段定义](../../DATASET.md)*

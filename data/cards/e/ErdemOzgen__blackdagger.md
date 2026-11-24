@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ErdemOzgen/blackdagger 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "ErdemOzgen/blackdagger 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 118 --> 121
-    line [119, 120]
+    line [119, 120, 120]
 ```
 
-2026-10-21 119 → 2026-11-23 120（+1）
+2026-10-22 119 → 2026-11-24 120（+1）
 
 
 ---

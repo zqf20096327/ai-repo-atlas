@@ -44,13 +44,13 @@ Python 库 deepsig，提供面向深度神经网络的统计显著性检验：�
 
 ```mermaid
 xychart-beta
-    title "Kaleidophon/deep-significance 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    title "Kaleidophon/deep-significance 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-23", "2026-11-24"]
     y-axis "stars" 341 --> 345
-    line [342, 343, 344]
+    line [342, 343, 344, 344]
 ```
 
-2026-10-21 342 → 2026-11-23 344（+2）
+2026-10-22 342 → 2026-11-24 344（+2）
 
 
 ---

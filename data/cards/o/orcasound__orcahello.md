@@ -46,12 +46,12 @@ Orcasound 维护的水听器网络实时推断系统：从 Puget Sound 水听器
 ```mermaid
 xychart-beta
     title "orcasound/orcahello 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-21 62 → 2026-11-23 62（+0）
+2026-10-22 62 → 2026-11-24 62（+0）
 
 
 ---

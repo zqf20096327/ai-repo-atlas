@@ -2,9 +2,9 @@
 
 ⭐ 1,025 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/alumnium-hq/alumnium) · [官网](https://alumnium.ai) · 组织维护
 
-**AI 原生的端到端测试库与 MCP，用于简化应用测试**
+**给开发者用的 AI 端到端测试库与 MCP 服务器**
 
-面向测试工程师与 AI agent 使用者的端到端测试库，同时以 MCP 服务器形式提供。它在既有测试自动化生态（Appium、Maestro、Playwright、Selenium）之上构建，提供与被测应用交互和验证断言的机制，需要 OPENAI_API_KEY 等 LLM 配置。以 Java（Gradle）、Python（pip）、TypeScript（npm）三种语言的库形式分发，另提供 curl 安装脚本接入 Claude 等 agent 的 MCP 通道。
+Alumnium 是面向端到端测试的 AI-native 库，同时提供 MCP 服务器形态。它构建在既有测试自动化生态之上，与 Appium、Maestro、Playwright、Selenium 配合工作，简化与应用的交互并提供断言验证机制。提供 Java、Python、TypeScript 三种语言的 SDK，可通过安装脚本注册为 agent 的 MCP 工具，配置后由 Claude Code 等 agent 驱动执行测试。README 未给出定价或许可证细节。
 
 ## 筛选速览
 
@@ -20,19 +20,19 @@
 
 ## 能力要点
 
-- 兼容 Appium / Maestro / Playwright / Selenium 四种测试自动化框架
-- 同时以库（Java/Python/TypeScript）与 MCP 服务器两种形式提供
-- 提供 curl 安装脚本并支持 claude mcp add 接入 agent
+- 同时提供库（Java/Python/TypeScript）与 MCP 服务器两种使用形态
+- 配合 Appium、Maestro、Playwright、Selenium 工作
+- 可通过 curl 安装脚本注册到 Claude Code 等 MCP 客户端
 
 ## 适用场景
 
-- 在现有 Selenium/Playwright 测试中引入 AI 驱动的交互与断言
-- 让 Claude Code 等 agent 通过 MCP 直接执行端到端测试
-- 跨 Java/Python/TypeScript 技术栈统一编写 AI 测试脚本
+- 在现有 Selenium/Playwright 测试项目中接入 AI 驱动的交互与断言
+- 把端到端测试能力作为 MCP 工具挂到 Claude Code 上
+- 用 Java/Python/TypeScript 编写 AI 辅助的端到端测试
 
 ## 场景标签
 
-`浏览器自动化` `GUI 自动化` · 领域:效率与自动化
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -43,14 +43,14 @@
 
 ```mermaid
 xychart-beta
-    title "alumnium-hq/alumnium 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1015 --> 1026
-    line [1016, 1017, 1018, 1019, 1018, 1017, 1018, 1019, 1018, 1022, 1023, 1024, 1025, 1025]
+    title "alumnium-hq/alumnium 星数(近 13 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 1016 --> 1026
+    line [1017, 1018, 1019, 1018, 1017, 1018, 1019, 1018, 1022, 1023, 1024, 1025, 1025]
 ```
 
-2026-10-21 1,016 → 2026-11-23 1,025（+9）
+2026-10-22 1,017 → 2026-11-24 1,025（+8）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8ad69640088f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d708db053d37` · [字段定义](../../DATASET.md)*

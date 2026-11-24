@@ -45,13 +45,13 @@ MathRSI 提供一套 Markdown 形式的 skills 与领域验证器，供 Claude C
 
 ```mermaid
 xychart-beta
-    title "lisresearchgroup/math-rsi 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    title "lisresearchgroup/math-rsi 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 39 --> 66
-    line [41, 58, 63, 64]
+    line [41, 58, 63, 64, 64]
 ```
 
-2026-11-19 41 → 2026-11-23 64（+23）
+2026-11-19 41 → 2026-11-24 64（+23）
 
 
 ---

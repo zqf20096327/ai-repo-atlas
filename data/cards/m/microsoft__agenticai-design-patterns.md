@@ -2,9 +2,9 @@
 
 ⭐ 697 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/microsoft/agenticai-design-patterns) · 组织维护
 
-**面向 Azure/Microsoft Foundry 的 Agentic AI 设计模式与参考架构清单**
+**面向企业开发者的 Azure 上的 Agentic AI 设计模式目录**
 
-微软维护的仓库，收录从实地项目中归纳的领域无关 Agentic AI 资产：设计模式、参考架构、方案加速器与交付 playbook，覆盖六大生产化支柱（治理与 CoE、Landing Zone、Agent Ops、安全与可观测性、方案优化、架构模式）。资产经策展人审核后合并，遵循统一目录结构并携带机器可读的 manifest.yaml，目录与支柱表由 python scripts/assets.py catalog 从 manifest 生成。资产多为 preview/experimental 成熟度，主要面向微软技术栈（Microsoft Foundry、Entra、API Management、M365 Copilot）。
+由 Microsoft 维护的开源目录，将真实实现抽象为与领域无关的 agentic AI 设计模式、参考架构与解决方案加速器，按 M365 集成、安全治理、基础设施、Agent 运行时、AI 网关、编排工作流六类组织。每条资产附权衡说明与不适用场景、可运行样例及离线自测、机器可读的 manifest.yaml，合并前经维护者逐一审核。面向在 Azure 与 Microsoft Foundry 上构建生产级 agent 系统的团队。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 按六大生产化支柱组织的资产目录（治理/Landing Zone/Agent Ops/安全/优化/架构）
-- 每个资产携带机器可读的 manifest.yaml，目录由脚本自动生成
-- 覆盖 MCP 网关、OAuth 前门、代码沙箱、确定性验证等具体模式
-- 资产分 design-pattern/reference-architecture/solution-accelerator/playbook 四类并标注成熟度
+- 六类组织的设计模式/参考架构/加速器目录，条目标注 maturity
+- 每条资产带可运行样例与离线自测（simulator/self-test）
+- 机器可读 manifest.yaml 支持检索工具发现
+- 说明权衡与不适用场景，合并前人工审核
 
 ## 适用场景
 
-- 把 Agentic AI 项目从试点推进到生产时查找对应支柱的模式与架构
-- 企业构建安全的 agent 平台（工具治理、身份传播、多租户 MCP 网关）
-- 选型 Foundry prompt agents 与 hosted agents 时使用决策矩阵
-- 了解微软生态下 agent 生产化的参考做法
+- 在 Azure/Foundry 上规划企业级 agent 架构时查参考模式
+- 设计 MCP 网关的多租户权限与配额方案
+- 决策 prompt agent 还是 hosted agent 的选型
+- 为 agent 代码执行设计沙箱与生命周期
 
 ## 场景标签
 
@@ -38,21 +38,22 @@
 
 ## 证据(README 行号)
 
-> L3: Field-proven design patterns, reference architectures, solution accelerators and delivery playbooks for taking agent
-> L5: Every asset is generalized from repeated field work into a domain-agnostic pattern, reviewed by a curator before mer
+> L3: An open catalog of agentic AI design patterns, reference architectures and solution accelerators for building produc
+> L5: Each asset is generalized from real implementations into a domain-agnostic pattern, explains its trade-offs and when
+> L7: ## Catalog
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "microsoft/agenticai-design-patterns 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-24"]
     y-axis "stars" 689 --> 698
     line [690, 691, 692, 691, 692, 691, 694, 695, 697, 697]
 ```
 
-2026-10-20 690 → 2026-11-23 697（+7）
+2026-10-21 690 → 2026-11-24 697（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b8ed74085b3a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `78e0426c1cc8` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ agsshub 是一个 agent 间消息系统：hub 为单个 Go 守护进程（agsshu
 ```mermaid
 xychart-beta
     title "cycanics/agsshub 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-23"]
+    x-axis ["2026-11-15", "2026-11-24"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-15 4 → 2026-11-23 4（+0）
+2026-11-15 4 → 2026-11-24 4（+0）
 
 
 ---

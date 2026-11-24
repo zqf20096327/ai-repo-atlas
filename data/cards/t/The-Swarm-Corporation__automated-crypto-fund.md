@@ -42,12 +42,12 @@ README 仅含标题与社区链接（Discord/YouTube/LinkedIn/X），描述其�
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/automated-crypto-fund 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-13", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-13", "2026-11-24"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-21 19 → 2026-11-23 20（+1）
+2026-10-22 19 → 2026-11-24 20（+1）
 
 
 ---

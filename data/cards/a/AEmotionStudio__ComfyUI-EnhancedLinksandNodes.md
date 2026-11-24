@@ -44,13 +44,13 @@ ComfyUI 的自定义节点扩展，为工作流编辑器提供视觉动画：9 �
 
 ```mermaid
 xychart-beta
-    title "AEmotionStudio/ComfyUI-EnhancedLinksandNodes 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-23"]
-    y-axis "stars" 82 --> 87
-    line [83, 84, 85, 86, 86]
+    title "AEmotionStudio/ComfyUI-EnhancedLinksandNodes 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-24"]
+    y-axis "stars" 83 --> 87
+    line [84, 85, 86, 86]
 ```
 
-2026-10-21 83 → 2026-11-23 86（+3）
+2026-10-22 84 → 2026-11-24 86（+2）
 
 
 ---

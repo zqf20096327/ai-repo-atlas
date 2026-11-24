@@ -45,12 +45,12 @@ MICCAI 2023 Early Accept 论文 InverseSR 的 PyTorch 官方实现：利用预�
 ```mermaid
 xychart-beta
     title "BioMedAI-UCSC/InverseSR 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-21 77 → 2026-11-23 77（+0）
+2026-10-22 77 → 2026-11-24 77（+0）
 
 
 ---

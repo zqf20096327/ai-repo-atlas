@@ -40,6 +40,18 @@
 > L14: A robust statistics library for regression analysis in Rust, validated against R and scikit-learn (VALIDATION).
 > L16: This library provides sklearn-style regression estimators with full statistical inference support including standar
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sipemu/anofox-regression 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7bbfe1698a60` · [字段定义](../../DATASET.md)*

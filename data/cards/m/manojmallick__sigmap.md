@@ -2,9 +2,9 @@
 
 ⭐ 652 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/manojmallick/sigmap) · [官网](https://sigmap.io/) · 个人维护
 
-**给 AI 编码代理的代码库签名地图与回答落地校验工具**
+**为 AI 编码会话生成确定性代码签名图与核查工具**
 
-面向 AI 编码代理与 CI 的确定性代码上下文层：用 AST 与锚定正则对仓库生成字节稳定的签名地图（支持 38 种语言），通过 TF-IDF 排序输出相关文件、签名与行号锚点；sigmap verify 将 AI 回答中的文件/导入/符号逐一对照实际索引，标记编造内容，可作 CI 门禁（--json 退出码 1）。无 LLM 调用、无嵌入、零依赖、完全离线；以 npx/npm、独立二进制与 MCP server（22 个工具）形式提供，适配 Claude Code、Copilot、Cursor、Ollama 等多种代理与编辑器。Tier-3 格式（Ruby、C/C++ 等）无行号锚点，为已声明限制。
+SigMap 对代码库构建确定性、可审计的签名与证据图，不调用 LLM、无嵌入、输出字节级稳定，供 AI agent、CI 和评审者在操作前核验文件与符号是否真实存在。提供 ask（TF-IDF 文件排序）、verify（核查 AI 回答中虚构的文件/导入/符号）、evidence（机器可读证据包）等命令，并内置 22 个工具的 MCP server 与适配多种助手上下文文件的 adapter。npm 分发，支持独立二进制，零依赖、可离线运行。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 确定性签名地图：同仓库输入产出字节相同输出，可 diff/缓存/CI 门禁
-- sigmap verify 标记 AI 回答中编造的文件/导入/符号/npm 脚本，支持 JSON 报告与 HTML 报告
-- MCP server 提供 22 个按需工具（query_context、get_method_impact、verify_suggestion 等）
-- 零依赖、无 LLM 调用、无嵌入、完全离线运行
+- 确定性输出：同一仓库每次生成字节级一致的地图，可 diff 与 CI 门禁
+- sigmap verify 离线核查 AI 回答中虚构的文件、导入与符号
+- MCP server 提供 22 个按需工具（query_context、verify_suggestion 等）
+- 支持 38 种语言的签名提取，提供 VS Code/JetBrains/Neovim 扩展
 
 ## 适用场景
 
-- 让 Claude Code/Copilot 等编码代理获取可信的仓库签名上下文
-- CI 中校验 AI 生成的回答或计划是否锚定到真实文件与符号
-- 审计 PR diff 的范围漂移与影响面
-- 用本地 LLM（Ollama 等）配合使用且不产生 API 费用
+- 让 AI 编码 agent 使用可审计的代码上下文而非复制粘贴
+- 在 CI 中将 verify 作为门禁，拦截 AI 编造的文件与符号
+- 用本地模型配合 SigMap 做无 API 成本的代码任务
+- 审查 PR 时核查改动范围与缺失测试
 
 ## 场景标签
 
@@ -39,21 +39,21 @@
 ## 证据(README 行号)
 
 > L35: SigMap builds a **deterministic, auditable signature-and-evidence map** of your codebase — no LLM calls, no embeddi
-> L209: SigMap doesn't compete with your agent's live search — it's what the live loop **calls for grounding**: grep finds
-> L238: SigMap treats coding agents as **consumers, not competitors**: it hands them a deterministic, auditable map the ag
+> L39: **Model-agnostic.** Works with:
+> L43: - **Any editor:** VS Code, Cursor, Windsurf, Neovim, JetBrains
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "manojmallick/sigmap 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23"]
+    title "manojmallick/sigmap 星数(近 15 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-24"]
     y-axis "stars" 643 --> 653
-    line [647, 646, 645, 644, 645, 646, 644, 646, 648, 647, 648, 647, 648, 650, 652, 652]
+    line [646, 645, 644, 645, 646, 644, 646, 648, 647, 648, 647, 648, 650, 652, 652]
 ```
 
-2026-10-21 647 → 2026-11-23 652（+5）
+2026-10-22 646 → 2026-11-24 652（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `448bc3c7368f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `d7b1a4a82858` · [字段定义](../../DATASET.md)*

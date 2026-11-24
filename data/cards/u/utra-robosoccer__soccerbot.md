@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "utra-robosoccer/soccerbot 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "utra-robosoccer/soccerbot 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 162 --> 165
-    line [164, 163]
+    line [164, 163, 163]
 ```
 
-2026-10-21 164 → 2026-11-23 163（-1）
+2026-10-22 164 → 2026-11-24 163（-1）
 
 
 ---

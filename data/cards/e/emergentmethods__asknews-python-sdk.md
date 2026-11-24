@@ -45,12 +45,12 @@ AskNews API 的官方 Python SDK，支持 Python 3.10–3.14，通过 pip 安装
 ```mermaid
 xychart-beta
     title "emergentmethods/asknews-python-sdk 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-23"]
+    x-axis ["2026-11-18", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-18 10 → 2026-11-23 10（+0）
+2026-11-18 10 → 2026-11-24 10（+0）
 
 
 ---

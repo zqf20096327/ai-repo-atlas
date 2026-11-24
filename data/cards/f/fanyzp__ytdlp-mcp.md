@@ -40,6 +40,18 @@
 > L10:  An MCP server that lets AI agents inspect, download, and convert video and audio using yt-dlp and FFmpeg through n
 > L24: Requires `yt-dlp`, `ffmpeg`, Node 18. Or copy PROMPT.md into any AI agent and let it install for you.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fanyzp/ytdlp-mcp 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a6e3f6a1c234` · [字段定义](../../DATASET.md)*

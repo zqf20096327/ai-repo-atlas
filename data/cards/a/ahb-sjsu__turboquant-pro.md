@@ -44,13 +44,13 @@ PyPI 发布的 Python 压缩工具包，核心主张是按下游消费者实际�
 
 ```mermaid
 xychart-beta
-    title "ahb-sjsu/turboquant-pro 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "ahb-sjsu/turboquant-pro 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 26 --> 29
-    line [27, 28]
+    line [27, 28, 28]
 ```
 
-2026-10-21 27 → 2026-11-23 28（+1）
+2026-10-22 27 → 2026-11-24 28（+1）
 
 
 ---

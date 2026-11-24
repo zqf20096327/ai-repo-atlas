@@ -1,10 +1,10 @@
 # kennss/SiliconScope
 
-⭐ 1,031 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kennss/SiliconScope) · [官网](https://siliconscope.calidalab.ai/) · 个人维护 · 中文 README
+⭐ 1,031 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kennss/SiliconScope) · [官网](https://siliconscope.calidalab.ai/) · 个人维护
 
-**Apple Silicon 系统监视器：显示 ANE/显存带宽等 AI 加速器指标**
+**无需 sudo 的 Apple Silicon 系统监视器，可观测 ANE/内存带宽等 AI 负载信号**
 
-原生 SwiftUI 的 macOS 系统监视器，提供仪表盘与菜单栏套件，sudoless 读取 CPU/GPU/ANE（神经引擎）/Media Engine/内存带宽/传感器/电池等指标，并含逐进程 Inspector（含每进程神经引擎内存）、指标录制回放（.ssrec）、本地 LLM 瓶颈分类器（带宽/算力/温度/内存压力）与按模型的 tok/s、tokens/Wh 基准测试。4.0 加入 Fleet：通过加密配对连接监控远程 Mac、Linux GPU 盒与云服务器，显示其 GPU、容器与 Ollama 模型。要求 macOS 14+ Apple Silicon，经 Homebrew cask 或 DMG 安装。
+基于原生 SwiftUI 的 macOS 系统监视器，提供仪表盘与菜单栏套件两种形态，无需 sudo 即可读取 CPU/GPU/内存/网络/磁盘/传感器/电池等指标。针对本地 AI 场景提供 ANE（Neural Engine）活动、Media Engine 与内存带宽追踪、AI 负载瓶颈分类器，以及按模型测量 tokens/sec 与 tokens/Wh 的基准功能。4.0 版支持通过加密 agent 将远程 Mac、Linux GPU 主机或云实例接入同一仪表盘。提供进程级检查器与指标录制回放。要求 macOS 14+ 且为 Apple Silicon 芯片。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- ANE/Media Engine/内存带宽追踪（Activity Monitor 不显示的信号）
-- 逐进程 Inspector：CPU P/E 分离、IPC、功耗、神经引擎内存
-- Record & Replay：录制全部指标到 .ssrec 并可回放拖动
-- 本地 LLM 瓶颈分类器与 tok/s·tokens/Wh 模型基准测试
+- ANE（Neural Engine）活动、功耗与内存占用追踪，含进程级 Neural-Engine 内存
+- AI Workload 瓶颈分类器（bandwidth-bound/compute-bound/thermal-throttled/memory-pressured）
+- Record & Replay：全部指标录制成 .ssrec 文件并回放
+- Fleet 远程机器接入：mDNS 自动发现，TLS 加密与证书固定
 
 ## 适用场景
 
-- 查看本地 LLM/Core ML 工作负载对 Apple Silicon 加速器的占用与瓶颈
-- 替代 iStat Menus 做日常菜单栏系统监控
-- 在同一仪表盘监控远程 Mac mini、Linux GPU 盒与云服务器的 GPU 和容器
+- 观察本地运行 LLM 时 Apple Silicon 各引擎的占用与瓶颈
+- 菜单栏实时查看 CPU/GPU/内存/温度/电池指标
+- 在多台 Mac/Linux GPU 机器上集中监控硬件状态
+- 录制并回放一段时间内的系统指标排查尖峰
 
 ## 场景标签
 
- · 领域:系统工具/性能监控
+ · 领域:系统监控/开发者工具
 
 ## 证据(README 行号)
 
@@ -46,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "kennss/SiliconScope 星数(近 21 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 997 --> 1034
-    line [1000, 1001, 1003, 1004, 1003, 1002, 1003, 1004, 1006, 1008, 1009, 1011, 1012, 1003, 1018, 1021, 1022, 1023, 1024, 1026, 1031]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 998 --> 1034
+    line [1001, 1003, 1004, 1003, 1002, 1003, 1004, 1006, 1008, 1009, 1011, 1012, 1003, 1018, 1021, 1022, 1023, 1024, 1026, 1031, 1031]
 ```
 
-2026-10-21 1,000 → 2026-11-23 1,031（+31）
+2026-10-22 1,001 → 2026-11-24 1,031（+30）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `46fb62162e5b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a4ee4f6f140c` · [字段定义](../../DATASET.md)*

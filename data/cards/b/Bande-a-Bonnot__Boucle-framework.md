@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bande-a-Bonnot/Boucle-framework 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 124 --> 127
-    line [125, 126, 126]
+    title "Bande-a-Bonnot/Boucle-framework 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 125 --> 127
+    line [126, 126]
 ```
 
-2026-10-21 125 → 2026-11-23 126（+1）
+2026-10-22 126 → 2026-11-24 126（+0）
 
 
 ---

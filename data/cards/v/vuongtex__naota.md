@@ -41,6 +41,18 @@ NAOTA 是由个人开发者 Hoàng Ngọc Vương 开发的 AI 助理，运行�
 > L7: Trợ lý AI chạy trên máy bạn hoặc VPS riêng, đổi được bộ não (Claude, ChatGPT, Grok, Gemini...) mà không mất công cụ 
 > L15: NAOTA không phải chatbot. Nó là một **AI làm việc thay bạn**: đọc, ghi file, gọi các kết nối (bán hàng, quảng cáo, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vuongtex/naota 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `227884ef4ca3` · [字段定义](../../DATASET.md)*

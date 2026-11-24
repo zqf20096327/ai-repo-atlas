@@ -45,13 +45,13 @@ TypeScript 编写的求职自动化 agent：以 Google Gemini 为决策核心，
 
 ```mermaid
 xychart-beta
-    title "LuisMIguelFurlanettoSousa/auto-apply-bot 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-23"]
+    title "LuisMIguelFurlanettoSousa/auto-apply-bot 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-24"]
     y-axis "stars" 42 --> 47
-    line [44, 43, 44, 45, 44, 46, 46]
+    line [43, 44, 45, 44, 46, 46]
 ```
 
-2026-10-21 44 → 2026-11-23 46（+2）
+2026-10-22 43 → 2026-11-24 46（+3）
 
 
 ---

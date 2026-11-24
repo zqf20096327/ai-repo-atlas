@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "UPC-ViRVIG/pymotion 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    title "UPC-ViRVIG/pymotion 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 67 --> 69
+    line [68, 68]
 ```
 
-2026-10-21 67 → 2026-11-23 68（+1）
+2026-10-22 68 → 2026-11-24 68（+0）
 
 
 ---

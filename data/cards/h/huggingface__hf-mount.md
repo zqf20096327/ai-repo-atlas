@@ -2,9 +2,9 @@
 
 ⭐ 828 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/hf-mount) · 组织维护
 
-**把 Hugging Face 仓库与 Bucket 挂载为本地文件系统的工具**
+**把 Hugging Face 仓库挂载为本地文件系统，按需读取不下载**
 
-由 Hugging Face 维护的 Rust 命令行工具：通过 NFS 或 FUSE 后端把 Hub 上的模型/数据集仓库（只读）和 Bucket（可读写，S3 式对象存储）挂载为本地目录，文件按需惰性拉取，只传输代码实际读取的字节，无需预先下载整个仓库。NFS 后端无系统依赖、无需 root；FUSE 后端需 fuse3 或 macFUSE。提供 Homebrew 安装、GitHub Releases 预编译二进制与 cargo 源码构建。README 明确列出适用与不适用场景（不支持多写者、跨节点锁，元数据最长 10 秒延迟）。
+用 Rust 编写的 CLI 工具，通过 NFS 或 FUSE 后端将 Hugging Face Buckets 与 Hub 模型/数据集仓库挂载为本地目录，文件在首次读取时按需从网络拉取。支持公共仓库只读挂载与带 token 的私有仓库读写，Bucket 提供 --advanced-writes 随机写与异步 flush。NFS 后端无需 root 与系统依赖；FUSE 需 fuse3 或 macFUSE。提供 brew 安装、GitHub Releases 二进制与源码构建。限制：首读有网络往返、元数据可滞后最长 10 秒、多挂载并发写不检测冲突。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- NFS 与 FUSE 双后端，文件惰性拉取、按需读取
-- 仓库只读挂载、Bucket 读写挂载（含 staging 异步写入与 overlay 模式）
-- chunk/file 两种本地磁盘缓存层，默认约 10GB 上限
-- Homebrew、预编译二进制（Linux x86_64/aarch64、macOS Apple Silicon）与源码构建三种安装途径
+- NFS/FUSE 双后端，NFS 无需 root 与系统依赖
+- 按需懒加载，仅读取实际触碰的字节
+- Bucket 支持 SSE live-follow 与轮询两种远程变更感知方式
+- 提供 chunk/file 两种磁盘缓存模式（默认约 10 GB）
 
 ## 适用场景
 
-- 磁盘空间有限时直接加载模型和数据集而不完整下载
-- 用 ls/cat/find/grep 浏览仓库内容而无需 clone
-- 训练、推理、评测等读密集型 ML 工作负载
-- Agent 通过本地文件系统直接访问 Hub 数据
+- 训练或推理时直接加载模型文件而不下载整个仓库
+- 用 ls/cat/grep 浏览仓库内容而无需 clone
+- 磁盘空间受限的环境里读取大型数据集
+- 将训练 checkpoint、日志写入 Hub Bucket 存储
 
 ## 场景标签
 
- · 领域:ML 基础设施/存储
+ · 领域:机器学习基础设施/存储
 
 ## 证据(README 行号)
 
+> L5: Mount Hugging Face Buckets and repos as local filesystems. No download, no copy, no waiting.
 > L25: hf-mount exposes Hugging Face Buckets and Hub repos as a local filesystem via FUSE or NFS. Files are fetched lazily
-> L81: - Read-heavy ML workloads (training, inference, evaluation)
+> L97: - Read-heavy ML workloads (training, inference, evaluation)
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "huggingface/hf-mount 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-23"]
-    y-axis "stars" 815 --> 829
-    line [816, 818, 817, 818, 819, 820, 821, 817, 824, 826, 825, 826, 827, 828]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 816 --> 829
+    line [818, 817, 818, 819, 820, 821, 817, 824, 826, 825, 826, 827, 828, 828]
 ```
 
-2026-10-21 816 → 2026-11-23 828（+12）
+2026-10-22 818 → 2026-11-24 828（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `48732dc23650` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d2e89e7eef29` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ Revisiting Adaptive Convolutions for Video Frame Interpolation (WACV 2021) 的�
 ```mermaid
 xychart-beta
     title "sniklaus/revisiting-sepconv 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-23"]
+    x-axis ["2026-11-16", "2026-11-24"]
     y-axis "stars" 92 --> 94
     line [93, 93]
 ```
 
-2026-11-16 93 → 2026-11-23 93（+0）
+2026-11-16 93 → 2026-11-24 93（+0）
 
 
 ---

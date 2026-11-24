@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chase1225/anythingllm-verona-document-chat 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    title "chase1225/anythingllm-verona-document-chat 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 143 --> 150
-    line [144, 149, 146]
+    line [144, 149, 146, 146]
 ```
 
-2026-11-21 144 → 2026-11-23 146（+2）
+2026-11-21 144 → 2026-11-24 146（+2）
 
 
 ---

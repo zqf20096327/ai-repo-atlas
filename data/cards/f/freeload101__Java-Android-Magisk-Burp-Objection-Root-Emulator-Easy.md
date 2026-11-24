@@ -46,12 +46,12 @@ JAMBOREE 是一个开源 PowerShell 脚本驱动的便携安装器：在无本�
 ```mermaid
 xychart-beta
     title "freeload101/Java-Android-Magisk-Burp-Objection-Root-Emulator-Easy 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 281 --> 283
     line [282, 282]
 ```
 
-2026-10-21 282 → 2026-11-23 282（+0）
+2026-10-22 282 → 2026-11-24 282（+0）
 
 
 ---

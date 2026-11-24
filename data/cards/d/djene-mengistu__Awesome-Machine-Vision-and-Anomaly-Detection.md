@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-23"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 17, 18, 19, 19]
+    title "djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-24"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19, 19]
 ```
 
-2026-10-21 16 → 2026-11-23 19（+3）
+2026-10-22 17 → 2026-11-24 19（+2）
 
 
 ---

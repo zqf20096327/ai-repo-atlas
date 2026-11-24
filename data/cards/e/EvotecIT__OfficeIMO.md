@@ -2,9 +2,9 @@
 
 ⭐ 722 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/EvotecIT/OfficeIMO) · [官网](https://officeimo.com/) · 组织维护
 
-**.NET 无 COM 办公文档库：读写转换 Office/PDF/邮件等格式**
+**.NET 无 COM 的 Office/PDF 等文档创建、转换与读取库**
 
-面向 .NET 开发者的文档处理库族：创建、读取、编辑、转换与导出 Word/Excel/PowerPoint/Visio/OpenXML、PDF、邮件（EML/MSG/PST 等）、OneNote、iWork、Markdown/RTF/LaTeX 等格式，可在服务、桌面应用、构建代理与容器中运行而无需安装 Microsoft Office 或 LibreOffice。多数格式为第一方实现，Word/Excel/PowerPoint 使用 Open XML SDK，HTML 用 AngleSharp。另提供 OfficeIMO Studio 桌面应用（Windows/Linux）与 CLI，CLI 可经 MCP 服务于 AI agent；文档 AI 能力为可选包。
+面向 .NET 开发者的文档处理库集合：无需安装 Microsoft Office 或 COM 组件，即可创建、读取、编辑、转换 Word、Excel、PowerPoint、PDF、Markdown 等 20 多种格式。所有格式遵循统一 API 形状（Create/Load/Save/Add*），转换结果用 ConversionReport 报告丢失内容；按格式拆分为独立 NuGet 包，并提供主题系统、批量转换断点续跑、OCR、证书签名、打印等功能。附带 PowerShell 模块 PSWriteOffice、CLI 工具 OfficeIMO.Tool（经 MCP 向 AI agent 提供转换/提取/搜索）、桌面应用 OfficeIMO Studio。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 覆盖 Office/PDF/邮件/OneNote/iWork/RTF/EPUB 等多格式的读写、编辑、转换与导出
-- 无 COM、无需 Microsoft Office/LibreOffice 即可运行于服务与容器
-- CLI 可将转换与提取工作流经 MCP 提供给 AI agent，插件支持 Claude Code/Codex 等
-- 提供桌面应用 OfficeIMO Studio（Windows/Linux 安装包）
+- 无 COM、不依赖 Microsoft Office 的文档创建/读取/编辑/转换
+- 统一 API 形状覆盖 20+ 格式，支持格式间互转并报告转换丢失
+- OfficeIMO.Tool 通过 MCP 向 AI agent 提供转换、提取与搜索能力
+- OfficeDocumentReader 支持任意格式的读取、搜索与分块，用于索引和 AI 摄取
 
 ## 适用场景
 
-- 在服务端自动化生成与转换 Office 文档而不装 Office
-- 处理 PDF 的读取、标注、转换与签名
-- 让 Claude Code/Cursor 等 agent 通过 MCP 读取与转换本地文档
+- 在服务端/容器/构建代理中批量生成和转换 Office 与 PDF 文档
+- 为 RAG 索引流水线读取、搜索和分块各类文档
+- 为 AI agent 提供 MCP 文档工具
+- 扫描件 OCR 与文档证书签名
 
 ## 场景标签
 
-`文档解析` · 领域:知识与检索
+ · 领域:办公文档处理/文档自动化
 
 ## 证据(README 行号)
 
-> L13: OfficeIMO is a family of COM-free .NET libraries for creating, reading, editing, converting, and exporting Office a
-> L48: |Optional document AI|OfficeIMO.AI and IntelligenceX adapter|Read-only questions, summaries, field extraction and p
-> L81: Claude Code, Codex, VS Code with GitHub Copilot, Cursor and other MCP clients use OfficeIMO to inspect, search, fet
+> L7: OfficeIMO creates, edits, reads and converts Word, Excel, PowerPoint, PDF, Markdown and two dozen other document for
+> L39: |Read for search or AI|`OfficeDocumentReader` from `OfficeIMO.Reader.All`|
+> L116: - OfficeIMO.Tool: the `officeimo` command line, from `dotnet tool install --global OfficeIMO.Tool`. It also serves
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "EvotecIT/OfficeIMO 星数(近 27 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 565 --> 736
-    line [579, 625, 631, 632, 633, 636, 640, 643, 644, 645, 647, 648, 633, 666, 683, 686, 689, 691, 696, 706, 713, 714, 718, 719, 721, 722, 722]
+    title "EvotecIT/OfficeIMO 星数(近 26 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 616 --> 731
+    line [625, 631, 632, 633, 636, 640, 643, 644, 645, 647, 648, 633, 666, 683, 686, 689, 691, 696, 706, 713, 714, 718, 719, 721, 722, 722]
 ```
 
-2026-10-21 579 → 2026-11-23 722（+143）
+2026-10-22 625 → 2026-11-24 722（+97）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f12c5b6963b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c52793b74f5e` · [字段定义](../../DATASET.md)*

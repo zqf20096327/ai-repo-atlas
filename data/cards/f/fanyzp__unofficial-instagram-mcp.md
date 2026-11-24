@@ -41,6 +41,18 @@
 > L9: An unofficial Model Context Protocol (MCP) server for Instagram Web. It gives an AI agent a set of focused tools for
 > L15: One command installs everything into your agent: it registers the MCP server and installs the Agent Skill. Pick you
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fanyzp/unofficial-instagram-mcp 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `3a57e9e80a48` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@ langchain-ai 维护的官方集成包，提供 langchain-snowflake 一个 Python
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langchain-snowflake 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-23"]
+    title "langchain-ai/langchain-snowflake 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-24"]
     y-axis "stars" 44 --> 47
-    line [45, 46, 45, 46, 45, 45]
+    line [46, 45, 46, 45, 45]
 ```
 
-2026-10-21 45 → 2026-11-23 45（+0）
+2026-10-22 46 → 2026-11-24 45（-1）
 
 
 ---

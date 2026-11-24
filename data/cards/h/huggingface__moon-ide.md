@@ -44,13 +44,13 @@ Hugging Face moon 团队自研的桌面 IDE：Tauri 2（Rust 后端 + Web UI）+
 
 ```mermaid
 xychart-beta
-    title "huggingface/moon-ide 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "huggingface/moon-ide 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
 ```
 
-2026-10-21 10 → 2026-11-23 11（+1）
+2026-10-22 11 → 2026-11-24 11（+0）
 
 
 ---

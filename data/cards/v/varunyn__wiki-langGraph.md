@@ -44,12 +44,12 @@ Python 3.12+ 的 LangGraph 流水线：递归读取 data/raw/ 下的 .md 文件�
 ```mermaid
 xychart-beta
     title "varunyn/wiki-langGraph 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-21 15 → 2026-11-23 15（+0）
+2026-10-22 15 → 2026-11-24 15（+0）
 
 
 ---

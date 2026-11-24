@@ -40,6 +40,18 @@
 > L13: Apps send requests to LiteLLM for model routing, then llm-d selects a vLLM replica. Hugging Face supplies model wei
 > L3: ### Everything you need to own your inference. Deploy with one command.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "BerriAI/inference-stack 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-23 19 → 2026-11-24 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `bbf288e8ab4d` · [字段定义](../../DATASET.md)*

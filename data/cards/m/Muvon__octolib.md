@@ -46,13 +46,13 @@ Octolib 是一个 Rust 库，通过 `provider:model` 字符串（如 `openai:gpt
 
 ```mermaid
 xychart-beta
-    title "Muvon/octolib 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-23"]
+    title "Muvon/octolib 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-23", "2026-11-24"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-23 11（+1）
+2026-11-08 10 → 2026-11-24 11（+1）
 
 
 ---

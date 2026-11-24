@@ -41,6 +41,18 @@
 > L24: - **AI is optional:** one switch in Settings turns Nexo off entirely; the launcher, terminal and connections keep w
 > L3: An Android launcher that doubles as an operations console and a home for autonomous agents. Quorvi keeps the everyda
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "paulneja/Quorvi-Launcher 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c73a2804fb7f` · [字段定义](../../DATASET.md)*

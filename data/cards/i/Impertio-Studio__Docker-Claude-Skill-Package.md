@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Impertio-Studio/Docker-Claude-Skill-Package 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "Impertio-Studio/Docker-Claude-Skill-Package 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-21 10 → 2026-11-23 11（+1）
+2026-10-22 10 → 2026-11-24 11（+1）
 
 
 ---

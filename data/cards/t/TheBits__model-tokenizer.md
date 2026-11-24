@@ -41,6 +41,18 @@
 > L12: and split text by the tokens of a real **llama.cpp** or **vLLM** model, using
 > L53: LangChain's character/recursive splitters accept a custom length function, so
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TheBits/model-tokenizer 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `73e9c490d92d` · [字段定义](../../DATASET.md)*

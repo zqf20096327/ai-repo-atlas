@@ -45,13 +45,13 @@ b-data GmbH 维护的 JupyterLab Julia Docker 镜像系列，覆盖 linux/amd64 
 
 ```mermaid
 xychart-beta
-    title "b-data/jupyterlab-julia-docker-stack 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 11 --> 16
-    line [12, 14, 15, 15]
+    title "b-data/jupyterlab-julia-docker-stack 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 13 --> 16
+    line [14, 15, 15]
 ```
 
-2026-10-21 12 → 2026-11-23 15（+3）
+2026-10-22 14 → 2026-11-24 15（+1）
 
 
 ---

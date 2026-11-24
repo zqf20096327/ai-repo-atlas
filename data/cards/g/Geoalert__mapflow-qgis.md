@@ -46,12 +46,12 @@ Geoalert 官方的 QGIS 插件，作为 Mapflow AI 服务的客户端：用户�
 ```mermaid
 xychart-beta
     title "Geoalert/mapflow-qgis 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-21 35 → 2026-11-23 35（+0）
+2026-10-22 35 → 2026-11-24 35（+0）
 
 
 ---

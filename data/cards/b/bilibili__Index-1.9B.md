@@ -2,9 +2,9 @@
 
 ⭐ 1,036 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/bilibili/Index-1.9B) · 组织维护 · 中文 README
 
-**B 站开源的 1.9B 轻量多语言对话与角色扮演模型系列**
+**哔哩哔哩开源的 1.9B 轻量多语言对话模型系列**
 
-bilibili 开源的 Index 系列 1.9B 参数（非嵌入）小语言模型，含 base/pure/chat/character/32K 五个变体：chat 版经 SFT+DPO 对齐支持对话与多语言翻译，character 版基于 RAG 实现少样本角色扮演定制，32K 版支持 3.5 万字长文阅读、翻译与摘要。预训练语料 2.8T 以中英为主。仓库提供 Transformers 加载、Gradio Web Demo、终端 Demo、OpenAI 兼容 API Demo 与 int4 量化脚本；权重学术研究开放并支持免费商用（需遵守 INDEX_MODEL_LICENSE）。
+Index 系列模型的轻量版本，包含 base、pure、chat、character（引入 RAG 实现少样本角色扮演定制）与 32K 长上下文共五个变体；base 在 2.8T 中英文语料上预训练，chat 基于 SFT 与 DPO 对齐。仓库提供 transformers 加载代码、Gradio 网页演示、终端演示、OpenAI 风格的 Flask API 服务、int4 量化脚本与微调教程；权重在 Hugging Face 与 ModelScope 发布，代码遵循 Apache-2.0，权重采用独立的 INDEX_MODEL_LICENSE（学术研究完全开放、支持免费商用）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ bilibili 开源的 Index 系列 1.9B 参数（非嵌入）小语言模型，含 
 
 ## 能力要点
 
-- 1.9B 参数含 5 个变体，chat 版支持多语言对话与翻译
-- 32K 长上下文版可一次读取 3.5 万字以上文档并做翻译摘要
-- RAG 支持的少样本角色扮演定制（内置角色“三三”）
-- 已适配 llama.cpp 与 Ollama，并提供 GGUF 版本
+- 五个变体：base/pure/chat/character/32K 长上下文
+- character 版在 SFT+DPO 之上引入 RAG 实现少样本角色扮演定制
+- 提供 Web/Terminal/OpenAI 风格 API 三种演示与 int4 量化、微调教程
+- 模型权重学术研究完全开放并支持免费商用
 
 ## 适用场景
 
-- 本地部署轻量中文对话或翻译模型
-- 低参数量下做长文档翻译与摘要
-- 基于语料定制角色扮演对话角色
-- 在 Ollama/llama.cpp 环境中运行该模型
+- 部署轻量中文为主的对话模型
+- 用 RAG 语料创建自定义角色进行角色扮演对话
+- 长文档（35,000 字以上）的读取、翻译与中文摘要
+- 基于微调教程定制专属模型
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`聊天机器人` `微调` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L20: - Index-1.9B base: Base model with 1.9 billion non-embedding parameters, pre-trained on 2.8T mainly Chinese and Eng
-> L22: - Index-1.9B chat: A dialogue model aligned with SFT and DPO based on the index-1.9B base. We found that due to the
+> L19: The Index-1.9B series is a lightweight version of the Index series models, including the following models:
+> L23: - Index-1.9B character: Introduces RAG on top of SFT and DPO to achieve fewshots role-playing customization.
 > L24: - Index-1.9B-32K: Index-1.9B-32K is a language model with only 1.9B parameters, but it supports a 32K context lengt
 
 ## 星数曲线
@@ -47,13 +47,13 @@ bilibili 开源的 Index 系列 1.9B 参数（非嵌入）小语言模型，含 
 ```mermaid
 xychart-beta
     title "bilibili/Index-1.9B 星数(近 8 点)"
-    x-axis ["2026-10-20", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-24"]
     y-axis "stars" 1035 --> 1039
     line [1036, 1037, 1036, 1037, 1038, 1037, 1036, 1036]
 ```
 
-2026-10-20 1,036 → 2026-11-23 1,036（+0）
+2026-10-21 1,036 → 2026-11-24 1,036（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e3b5e6d30676` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d6a732ec5da3` · [字段定义](../../DATASET.md)*

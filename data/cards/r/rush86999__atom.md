@@ -2,15 +2,15 @@
 
 ⭐ 912 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/rush86999/atom) · 个人维护
 
-**给企业的自托管治理型 AI agent 团队平台，自动执行业务流程**
+**自托管、带治理机制的业务 AI Agent 平台**
 
-面向企业团队的自托管开源 AI agent 平台：销售、客服、财务、工程等专业 agent 以自然语言接受委派，端到端执行例行工作。关键机制包括 4 级成熟度模型（STUDENT→AUTONOMOUS，需验证通过次数方可晋升）、默认开启的后置条件预言机核验（区分自报与外部验证）、沙箱隔离与完整审计。支持 BYOK 或本地模型（Ollama/OpenAI 兼容服务器），16+ LLM 提供商成本感知路由，46+ 业务集成（Salesforce、Slack、QuickBooks 等）。AGPL v3，通过 git clone + make 从源码运行，另提供 Docker 与 DigitalOcean 一键部署入口。限制：LLM 功能需自备 API key 或本地推理服务。
+开源且自托管的 AI Agent 平台，面向企业：用户向 Agent 教授业务规则、字段映射与上下文，由人工审核输出，并提供权限、策略检查、审批检查点与审计记录等治理机制。运行模式为单租户本地工作区，支持 BYOK 模型与本地 OpenAI 兼容端点，示例无需模型即可运行。覆盖报价、发票、工作簿编辑等演示工作流，长期通用自主能力仍为开发目标。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 4 级 agent 成熟度模型，晋升需经结果验证（非自报）
-- 默认开启的后置条件预言机核验 mutating action，区分自报/外部验证置信度
-- 沙箱层（文件系统范围、工具白名单、资源上限、kill-run）与完整审计
-- 16+ LLM 提供商成本感知路由，支持 Ollama/vLLM/llama.cpp 等本地推理
+- 教学机制：保存业务规则与修正，新工作自动采用已接受的教训
+- 治理执行路径：人工审批检查点、来源可追溯、审批不可绕过
+- 可等待/可恢复的持久化任务，支持跨重启续作
+- BYOK 模型与本地 OpenAI 兼容端点配置
 
 ## 适用场景
 
-- 让 agent 团队自动处理线索研究、发票对账、工单分流等例行业务
-- 在自有基础设施上部署带审批门与审计的 agent 工作流
-- 通过对话让 agent 构建/修改工作流，无需拖拽配置
+- 根据价目表生成报价文档并审核溯源
+- 发票与采购/收货记录核对
+- 多 Agent 协作处理需要审批的业务流程
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+`多智能体` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L20: Atom is an open-source, self-hosted **AI agent workforce** — a team of specialty agents (sales, support, finance, e
-> L22: **Agents that earn trust, not assume it.** Atom's agents don't just respond to commands — they operate autonomously
-> L67: |*"When a lead comes in HubSpot, research the company, score it, create an Asana task for the rep, and ping Slack"*
+> L41: - **Bring your own model.** Configure a supported provider or local
+> L89: actions and authority. Atom brings AI governance into the execution path through
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "rush86999/atom 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-24"]
     y-axis "stars" 904 --> 916
     line [905, 907, 908, 909, 910, 909, 911, 915, 914, 915, 914, 913, 912, 912]
 ```
 
-2026-10-21 905 → 2026-11-23 912（+7）
+2026-10-22 905 → 2026-11-24 912（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `00fb57150d72` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e4c1434de260` · [字段定义](../../DATASET.md)*

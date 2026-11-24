@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "faithlumumba/2025-tencent-advertising-algorithm-competition-finalist 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-21 27 → 2026-11-23 27（+0）
+2026-10-22 27 → 2026-11-24 27（+0）
 
 
 ---

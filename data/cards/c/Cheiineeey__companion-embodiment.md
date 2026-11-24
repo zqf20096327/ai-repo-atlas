@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cheiineeey/companion-embodiment 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-14", "2026-11-19", "2026-11-23"]
-    y-axis "stars" 41 --> 46
-    line [42, 43, 44, 45, 45]
+    title "Cheiineeey/companion-embodiment 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-14", "2026-11-19", "2026-11-24"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 45, 45]
 ```
 
-2026-10-21 42 → 2026-11-23 45（+3）
+2026-10-22 43 → 2026-11-24 45（+2）
 
 
 ---

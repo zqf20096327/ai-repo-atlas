@@ -40,6 +40,18 @@
 > L3: **An open-source Claude Code skill that finds LinkedIn jobs that fit you and applies to them automatically, from you
 > L5: It reads your real project code to build a resume backed by evidence (no made-up skills), writes an ATS-friendly PDF
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fadii-99/job-apply-skill 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `f7bae5968b75` · [字段定义](../../DATASET.md)*

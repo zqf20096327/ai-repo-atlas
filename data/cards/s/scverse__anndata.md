@@ -2,9 +2,9 @@
 
 ⭐ 786 · Python · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/scverse/anndata) · [官网](http://anndata.scverse.org) · 组织维护
 
-**处理带标注数据矩阵的 Python 包，面向单细胞组学分析**
+**单细胞组学带注释数据矩阵的 Python 存储与操作包**
 
-anndata 是一个 Python 包，在内存和磁盘上处理带标注的数据矩阵，定位介于 pandas 与 xarray 之间，提供稀疏数据支持、惰性操作等计算效率特性。最初为 Scanpy 构建，是 scverse 单细胞组学生态的组成部分，由 NumFOCUS 财务赞助。配套的独立数据加载包 annbatch 提供 minibatch 加载，覆盖从线性模型到基础模型、从小型内存矩阵到 TB 级磁盘数据集的场景。有 JOSS 2024 论文可引用。
+Python 包，用于在内存和磁盘上处理带注释的数据矩阵，定位介于 pandas 与 xarray 之间，提供稀疏数据支持、惰性操作等计算特性；配套数据加载包 annbatch 提供从内存小矩阵到 TB 级磁盘数据集的小批量加载。原为 Scanpy 而构建，属 scverse 项目，由 NumFOCUS 财政赞助。通过 pip 或 conda 安装，公共 API 有文档，内部 API 不保证稳定。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ anndata 是一个 Python 包，在内存和磁盘上处理带标注的数据矩�
 
 ## 能力要点
 
-- 内存与磁盘上的带标注数据矩阵处理，支持稀疏数据与惰性操作
-- 配套 annbatch 包提供面向基础模型的 minibatch 数据加载
-- 为 Scanpy 构建，属于 scverse 项目生态
+- 内存与磁盘上的带注释数据矩阵处理
+- 稀疏数据支持与惰性操作
+- 配套 annbatch 数据加载包，支持小批量加载至 TB 级数据集
+- 为 Scanpy 生态构建，scverse 项目成员
 
 ## 适用场景
 
-- 单细胞组学分析中存放与读取带标注的表达矩阵
-- 为机器学习/基础模型管线提供磁盘数据加载
-- 在 pandas 与 xarray 之间需求的标注矩阵结构
+- 存储与操作带注释的单细胞转录组数据矩阵
+- 为线性模型到基础模型的应用批量加载数据
+- 在 scverse 生态中配合 Scanpy 做单细胞分析
 
 ## 场景标签
 
- · 领域:生物信息学/数据基础设施
+ · 领域:生物信息学/数据科学基础设施
 
 ## 证据(README 行号)
 
 > L18: anndata is a Python package for handling annotated data matrices in memory and on disk, positioned between pandas a
-> L19: A separate data loader package, annbatch, offers minibatch data loading functionality for applications ranging from
 > L25: - See Scanpy's documentation for usage related to single cell data. anndata was initially built for Scanpy.
+> L27: anndata is part of the scverse® project (website, governance) and is fiscally sponsored by NumFOCUS.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "scverse/anndata 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-24"]
     y-axis "stars" 779 --> 787
     line [780, 781, 782, 783, 784, 781, 784, 785, 786, 786]
 ```
 
-2026-10-21 780 → 2026-11-23 786（+6）
+2026-10-22 780 → 2026-11-24 786（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `35897a54e53d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ceac8f73b6b7` · [字段定义](../../DATASET.md)*

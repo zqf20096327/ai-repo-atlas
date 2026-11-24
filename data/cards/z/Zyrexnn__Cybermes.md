@@ -2,15 +2,15 @@
 
 ⭐ 1,059 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Zyrexnn/Cybermes) · 个人维护
 
-**授权攻防与漏洞赏金自动化框架，含 MCP 服务器与自主 CLI**
+**面向授权渗透测试的 AI Agent 安全评估框架**
 
-面向授权的漏洞赏金、侦察与漏洞研究的攻防安全助手与自动化框架，提供两条工作流：一是内置 Hermes 自主 Agent 的独立 CLI，可自主编排 subfinder/httpx/katana/ffuf 等侦察工具，经 Go 编写的 smart_pipe 过滤流式输出以控制 token，再以非破坏性 PoC 脚本验证假设并生成 Markdown/HTML/PDF 报告；二是原生 Go 实现的 MCP 服务器（cybermes-mcp），向 Claude Desktop、Cursor、Windsurf 等 AI 客户端以 JSON-RPC 2.0 暴露 10+ 安全工具与 200+ 攻防 playbook，并附 200+ 条 PayloadsAllTheThings/HackTricks 离线知识库。支持 Windows/Linux/macOS/Docker 安装，附带环境体检工具 doctor.py。
+面向授权漏洞赏金与红队场景的自动化攻击性安全框架，提供两种运行模式：内置 Hermes Agent 的 CLI 自主执行（侦察、知识检索、PoC 验证、报告生成），以及通过 MCP 服务向外部 AI 客户端暴露 10+ Go 原生安全工具与 200+ 攻击 playbook。包含 smart_pipe 流过滤降低上下文占用、本地离线知识库查询、非破坏性 PoC 验证门槛，输出 Markdown/HTML/PDF 报告。安装支持 npm、源码脚本与 Docker，运行需 Go 1.22+ 与 Python 3.11+。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 原生 Go MCP 服务器向 AI 客户端暴露 10+ 安全工具与上下文提供器
-- 内置 Hermes 自主 Agent 的 CLI 工作流：侦察编排→smart_pipe 流过滤→PoC 验证→报告生成
-- 200+ 攻防 playbook 离线知识库（含 PayloadsAllTheThings、HackTricks 数据集）
-- subfinder/httpx/katana/ffuf/nuclei/sqlmap 集成侦察流水线
+- Hermes Agent CLI 自主执行侦察、假设验证与报告编译
+- MCP 服务（cybermes-mcp）向 13+ AI 客户端暴露安全工具
+- smart_pipe 流过滤仅向 LLM 上下文推送高信号输出
+- 200+ 离线 playbook 知识库亚 50ms 查询与 PoC 验证门槛
 
 ## 适用场景
 
-- 授权漏洞赏金项目中自动化侦察与漏洞验证
-- 在 Claude Desktop/Cursor 等 AI 编辑器中通过 MCP 调用安全扫描工具
-- 红队/渗透测试交付物（SUMMARY.md/HTML/PDF 报告）的自动生成
+- 对授权目标执行自动化侦察与漏洞验证
+- 在 Cursor/Claude 等 AI 编辑器中调用安全工具链
+- 批量生成含证据的结构化渗透测试报告
+- Windows 环境下替代 Kali 工具链做安全评估
 
 ## 场景标签
 
@@ -37,21 +38,22 @@
 
 ## 证据(README 行号)
 
-> L26: Cybermes can be used directly through your AI assistant via **Model Context Protocol (MCP)** or executed as a **sta
-> L154: In the MCP workflow, **Cybermes operates as a native JSON-RPC 2.0 server (`cybermes-mcp`)** providing specialized 
+> L19:  Cybermes is an offensive security assistant and automation framework designed for authorized bug bounty hunting, r
+> L158: 1. **Autonomous Hermes CLI Workflow**: Fully autonomous terminal/headless execution where the local Hermes engine 
+> L186: In the MCP workflow, **Cybermes operates as a native JSON-RPC 2.0 server (`cybermes-mcp`)** providing specialized 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Zyrexnn/Cybermes 星数(近 27 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 938 --> 1070
-    line [949, 952, 953, 960, 965, 973, 977, 978, 982, 985, 987, 986, 965, 1008, 1013, 1019, 1023, 1024, 1026, 1027, 1034, 1039, 1043, 1044, 1049, 1057, 1059]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 942 --> 1069
+    line [952, 953, 960, 965, 973, 977, 978, 982, 985, 987, 986, 965, 1008, 1013, 1019, 1023, 1024, 1026, 1027, 1034, 1039, 1043, 1044, 1049, 1057, 1059, 1059]
 ```
 
-2026-10-21 949 → 2026-11-23 1,059（+110）
+2026-10-22 952 → 2026-11-24 1,059（+107）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b260e87a12d0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `de2abf865b7f` · [字段定义](../../DATASET.md)*

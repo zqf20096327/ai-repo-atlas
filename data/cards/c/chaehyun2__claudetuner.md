@@ -46,12 +46,12 @@ Chrome 扩展加 Web 仪表盘：读取 claude.ai、ChatGPT、Gemini 账号的�
 ```mermaid
 xychart-beta
     title "chaehyun2/claudetuner 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-20 35 → 2026-11-23 35（+0）
+2026-10-21 35 → 2026-11-24 35（+0）
 
 
 ---

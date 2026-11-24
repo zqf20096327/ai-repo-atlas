@@ -45,12 +45,12 @@ Eden 团队开发的 Stable Diffusion 训练器：单个训练脚本与 loss 模
 ```mermaid
 xychart-beta
     title "edenartlab/sd-lora-trainer 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-23"]
+    x-axis ["2026-11-11", "2026-11-24"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-11-11 70 → 2026-11-23 70（+0）
+2026-11-11 70 → 2026-11-24 70（+0）
 
 
 ---

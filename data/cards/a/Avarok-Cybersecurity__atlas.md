@@ -2,9 +2,9 @@
 
 ⭐ 737 · Rust · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Avarok-Cybersecurity/atlas) · [官网](https://atlasinference.io) · 组织维护
 
-**纯 Rust 编写的 LLM 推理引擎，面向 DGX Spark 等硬件**
+**纯 Rust 编写的本地 LLM 推理引擎，提供 OpenAI 兼容服务**
 
-由 Atlas Cybernetics 用 Rust 与 CUDA 编写的开源 LLM 推理引擎，以约 75 MB 单二进制提供 OpenAI/Anthropic/Responses 兼容服务端，无需 Python 或 PyTorch。特性含按硬件×模型×量化手调的 CUDA 内核、NVFP4/FP8 量化、推测解码（MTP 与 DFlash）、radix-tree 前缀缓存与跨节点专家并行。已在 NVIDIA DGX Spark（GB10）验证，同一 CUDA 源码经 SCALE 编译支持 AMD Strix Halo，Apple Silicon 处于早期 bring-up。安装提供 install.sh 脚本、cargo 与 Docker 镜像（Docker Hub avarok/atlas-gb10）。模型以 Qwen、Gemma、Mistral、MiniMax、Nemotron 等家族为主。
+Atlas 以纯 Rust 和 CUDA 实现 LLM 推理，从单个约 75 MB 二进制文件提供 OpenAI、Anthropic 与 Responses API 服务，不含 Python/PyTorch、无运行时编译。机制上按（硬件×模型×量化）目标提供手写 CUDA 内核，支持 NVFP4/FP8 量化、MTP 投机解码、radix-tree 前缀缓存与跨节点专家并行。当前在 NVIDIA DGX Spark（GB10）上验证，AMD Strix Halo 通过 SCALE 重编译同一 CUDA 源码支持；发布镜像需通过吞吐基线 serve gate。AGPL-3.0 许可。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 单一 ~75 MB 二进制运行 OpenAI/Anthropic/Responses API，无 Python/PyTorch 依赖
-- 按 (硬件×模型×量化) 手调 CUDA 内核，支持 NVFP4 与 FP8 量化
-- 推测解码（MTP draft heads 与 DFlash block diffusion）与 radix-tree 前缀缓存
-- 同一 CUDA 源码覆盖 NVIDIA GB10 与 AMD Strix Halo（经 SCALE），多节点 EP=2/EP=4 专家并行
+- 单二进制提供 OpenAI/Anthropic/Responses API，无 Python 运行时
+- NVFP4/FP8 量化与 MTP 投机解码
+- 按硬件×模型×量化目标的手写 CUDA 内核，无通用回退
+- 支持 Qwen、Gemma、Mistral、Nemotron 等 15 个模型条目
 
 ## 适用场景
 
-- 在 DGX Spark 等 120 GB 级硬件上本地部署 35B-122B 参数模型服务
-- 为 opencode / Claude Code / Cline 等编码代理提供推理后端
-- 用 OpenAI SDK 或 curl 直接接入自托管 LLM 服务
+- 在 DGX Spark 或 Strix Halo 上本地部署推理服务
+- 给 opencode/Cline 等编码工具提供本地模型端点
+- 用 Open WebUI 或 OpenAI SDK 接入本地模型
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L20: **Atlas** is an open-source **LLM inference engine** written in pure **Rust and CUDA**. It serves an **OpenAI-compa
 > L118: Atlas speaks the OpenAI, Anthropic, and Responses APIs on the same port. `curl`, the OpenAI SDK, Open WebUI, openc
+> L132: ## 🖥️ Supported Hardware
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Avarok-Cybersecurity/atlas 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23"]
-    y-axis "stars" 708 --> 739
-    line [710, 712, 713, 712, 713, 711, 712, 713, 714, 716, 717, 724, 733, 737, 737]
+    title "Avarok-Cybersecurity/atlas 星数(近 14 点)"
+    x-axis ["2026-10-22", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-24"]
+    y-axis "stars" 709 --> 739
+    line [712, 713, 712, 713, 711, 712, 713, 714, 716, 717, 724, 733, 737, 737]
 ```
 
-2026-10-21 710 → 2026-11-23 737（+27）
+2026-10-22 712 → 2026-11-24 737（+25）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3d2402a0adb6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `258a0f0cf17e` · [字段定义](../../DATASET.md)*

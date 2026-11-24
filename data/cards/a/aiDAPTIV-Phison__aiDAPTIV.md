@@ -45,13 +45,13 @@ Phison Pascari 的 aiDAPTIV 存储加速平台：以高性能 NVMe SSD（aiDAPTI
 
 ```mermaid
 xychart-beta
-    title "aiDAPTIV-Phison/aiDAPTIV 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-13", "2026-11-18", "2026-11-23"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 22, 23, 23]
+    title "aiDAPTIV-Phison/aiDAPTIV 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-13", "2026-11-18", "2026-11-24"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23, 23]
 ```
 
-2026-10-21 20 → 2026-11-23 23（+3）
+2026-10-22 21 → 2026-11-24 23（+2）
 
 
 ---

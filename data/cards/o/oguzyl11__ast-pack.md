@@ -40,6 +40,18 @@ Rust 编写的 CLI 与 MCP 服务器：将仓库按 token 预算打包为分层�
 > L5: `ast-pack` is a Rust CLI and MCP server. It packs a repository into a hard token budget. Anything it leaves out keep
 > L40: `setup` registers the MCP server with Cursor, Claude Code, Codex, and Gemini CLI. It copies each file it edits asid
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "oguzyl11/ast-pack 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-23 6 → 2026-11-24 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `effed4646de6` · [字段定义](../../DATASET.md)*

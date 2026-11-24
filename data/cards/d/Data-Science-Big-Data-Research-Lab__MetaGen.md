@@ -46,13 +46,13 @@ Python 框架，提供元启发式算法开发基类（含运行循环、精英�
 
 ```mermaid
 xychart-beta
-    title "Data-Science-Big-Data-Research-Lab/MetaGen 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "Data-Science-Big-Data-Research-Lab/MetaGen 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
 ```
 
-2026-10-21 32 → 2026-11-23 33（+1）
+2026-10-22 33 → 2026-11-24 33（+0）
 
 
 ---

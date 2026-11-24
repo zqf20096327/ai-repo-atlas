@@ -44,12 +44,12 @@ Doctor Mix 与 Martinic 合作开发的概念验证（proof-of-concept）合成�
 ```mermaid
 xychart-beta
     title "martinic/DrMixAISynth 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-21 54 → 2026-11-23 54（+0）
+2026-10-22 54 → 2026-11-24 54（+0）
 
 
 ---

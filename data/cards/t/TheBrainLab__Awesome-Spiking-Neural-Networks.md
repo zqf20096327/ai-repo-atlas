@@ -2,9 +2,9 @@
 
 ⭐ 860 · 推送 2026-11-05 · [GitHub](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) · 组织维护 · 中文 README
 
-**脉冲神经网络论文与代码聚合清单**
+**SNN（脉冲神经网络）研究者用的论文与代码持续更新清单**
 
-收集脉冲神经网络（SNN）相关的顶会顶刊及 CNS 论文与代码的聚合清单，条目按年份与会议（AAAI、ICLR、ICML、NeurIPS、CVPR、Nature/Science/Cell 等）组织，附 News 更新日志记录各批次收录情况，自述持续更新中，支持通过 pull request 补充条目。面向 SNN 与类脑计算方向的研究者，用于追踪该领域的论文产出。
+脉冲神经网络方向的论文策展清单：按年份与会议/期刊（Nature、Science、AAAI、ICLR、ICML、NeurIPS 等）组织条目，每条附论文链接，部分附代码链接；通过 pull request 接受社区补充收录，README 中的 News 区逐条记录历次更新及收录论文数量，声明持续更新中。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按年份与会议组织的 SNN 论文条目（含 paper 链接）
-- News 日志记录每次收录的会议与论文数量
-- 开放 pull request 补充遗漏论文
+- 按会议/期刊与年份组织的 SNN 论文列表，附论文链接
+- 部分条目附带开源代码链接
+- 通过 pull request 接受社区补充论文
+- News 区记录历次更新（含 AAAI 2026、ICLR 2026、ICML 2026、NeurIPS 2025 等批次）
 
 ## 适用场景
 
-- 追踪各顶会脉冲神经网络方向的最新论文
-- 查找 SNN 训练、转换、应用类论文线索
-- 了解 2024-2026 年 SNN 研究的收录概况
+- 查找脉冲神经网络方向的顶会与 CNS 期刊论文
+- 寻找带开源代码的 SNN 研究工作
+- 跟踪 SNN 领域最新论文动态
 
 ## 场景标签
 
@@ -36,21 +37,22 @@
 
 ## 证据(README 行号)
 
-> L1: # Awesome Spiking Neural NetworksAwesome
 > L3: Collect some spiking neural network papers & codes. (**Actively keep updating**)
+> L49: ## Papers
+> L53: **Nature, Science**
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "TheBrainLab/Awesome-Spiking-Neural-Networks 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-23"]
+    title "TheBrainLab/Awesome-Spiking-Neural-Networks 星数(近 11 点)"
+    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-23", "2026-11-24"]
     y-axis "stars" 847 --> 861
-    line [848, 849, 850, 851, 848, 854, 855, 858, 859, 860]
+    line [848, 849, 850, 851, 848, 854, 855, 858, 859, 860, 860]
 ```
 
-2026-10-21 848 → 2026-11-23 860（+12）
+2026-10-22 848 → 2026-11-24 860（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `24b30c1c25d4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8a5702ad902f` · [字段定义](../../DATASET.md)*

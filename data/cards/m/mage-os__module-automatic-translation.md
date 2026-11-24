@@ -45,12 +45,12 @@ MageOS 的 Magento 2 扩展，通过 AI 翻译引擎自动翻译产品、分类�
 ```mermaid
 xychart-beta
     title "mage-os/module-automatic-translation 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-21 33 → 2026-11-23 33（+0）
+2026-10-22 33 → 2026-11-24 33（+0）
 
 
 ---

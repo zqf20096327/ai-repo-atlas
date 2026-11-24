@@ -46,12 +46,12 @@ UAI 2026 Oral 论文的官方复现代码仓库，实现 Semantic Structural Ent
 ```mermaid
 xychart-beta
     title "SELGroup/SeSE 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-20 24 → 2026-11-23 24（+0）
+2026-10-21 24 → 2026-11-24 24（+0）
 
 
 ---

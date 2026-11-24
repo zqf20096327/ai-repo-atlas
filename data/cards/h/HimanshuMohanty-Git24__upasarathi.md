@@ -41,6 +41,18 @@
 > L30: |📖 **A living library**|The 13 Principal Upanishads, complete: **1,693 passages + 13 śānti mantras**, each in Devan
 > L31: |⚖️ **An alignment test bench**|Every prompt is answered **three ways by the same model**: a plain baseline, a stro
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HimanshuMohanty-Git24/upasarathi 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-23 6 → 2026-11-24 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `208ec463e3fe` · [字段定义](../../DATASET.md)*

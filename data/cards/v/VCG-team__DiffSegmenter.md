@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "VCG-team/DiffSegmenter 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    title "VCG-team/DiffSegmenter 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 58 --> 60
+    line [59, 59]
 ```
 
-2026-10-21 58 → 2026-11-23 59（+1）
+2026-10-22 59 → 2026-11-24 59（+0）
 
 
 ---

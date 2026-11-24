@@ -41,6 +41,18 @@
 > L26: Baking lyrics is an automatic generator of lyrics based on a natural language model that is trained using the large
 > L104: _This is Baking-Lyrics current model_
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "arukavina/baking-lyrics 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-23 14 → 2026-11-24 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `ebffad792198` · [字段定义](../../DATASET.md)*

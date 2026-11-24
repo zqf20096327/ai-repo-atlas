@@ -41,6 +41,18 @@
 > L38: OpenGPT is an open-source chat assistant built with LangGraph. It has a FastAPI backend and a React frontend. It wo
 > L33:  📄 Chat with documents Upload files and ask questions with FAISS-backed RAG
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GenAIwithMS/OpenGPT 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `14ba3150c89b` · [字段定义](../../DATASET.md)*

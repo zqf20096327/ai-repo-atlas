@@ -2,9 +2,9 @@
 
 ⭐ 989 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/huggingface/AnyLanguageModel) · 组织维护
 
-**Apple Foundation Models 的 Swift API 兼容替代库，可接入自选模型后端**
+**Swift 开发者接入多语言模型后端的 API 兼容层**
 
-Swift 包形式的框架层封装：保持 Apple Foundation Models API 兼容，开发者仅改 import 即可切换到其他语言模型后端，包括 Apple Private Cloud Compute、Core ML、MLX、llama.cpp（GGUF）、Ollama、Anthropic、Gemini、OpenAI 等。支持引导生成（@Generable 强类型输出）、图像输入（按 provider 而异）、工具调用与动态指令；通过 Swift Package traits 按需启用重型依赖以缩小产物体积。要求 Swift 6.3+，运行于 iOS 17+/macOS 14+/visionOS/Linux，Xcode 项目需经 shim 包启用 traits。
+Swift 包，替换 Apple Foundation Models 框架的 import 即可接入自定义语言模型提供方。支持 Apple 端上模型、Core ML、MLX、llama.cpp、Ollama 及 Anthropic/Gemini/OpenAI 等云端 API，通过 Swift traits 按需启用后端以减小二进制体积。保留 Tool 调用、@Generable 引导生成等框架 API 形态，并扩展图像输入等能力。面向 Swift/iOS 等平台开发者，需 Swift 6.3+ 与 Xcode 26.4+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Swift 包形式的框架层封装：保持 Apple Foundation Models API 兼容，
 
 ## 能力要点
 
-- 与 Apple Foundation Models API 兼容，改 import 即可替换后端
-- 支持 11 种 provider（端侧 Core ML/MLX/llama.cpp 与 OpenAI/Anthropic/Gemini 云端 API）
-- 引导生成、图像输入、工具调用、动态指令等能力
-- Package traits 按需启用后端依赖，减小二进制体积
+- 改一行 import 即替换 Foundation Models 的 API 兼容层
+- 支持 10 类模型提供方：Apple、Core ML、MLX、llama.cpp、Ollama 及主要云端 API
+- Swift traits 按需启用后端，默认无额外依赖
+- 支持 @Generable 引导生成与图像输入（扩展能力）
 
 ## 适用场景
 
-- 在现有 Foundation Models 代码中切换为自定义或云端模型 provider
-- iOS/macOS 应用接入本地 MLX 或 llama.cpp 模型
-- 同一套 API 同时面向端侧与云端多 provider 部署
+- 为 iOS/macOS 应用切换或自定义语言模型后端
+- 在 Apple 平台上用本地 GGUF/MLX 模型替代云端调用
+- 以统一 API 同时对接多家云端模型服务
 
 ## 场景标签
 
@@ -46,13 +46,13 @@ Swift 包形式的框架层封装：保持 Apple Foundation Models API 兼容，
 ```mermaid
 xychart-beta
     title "huggingface/AnyLanguageModel 星数(近 18 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 950 --> 993
-    line [953, 959, 961, 962, 963, 965, 966, 970, 971, 961, 983, 986, 984, 985, 986, 987, 990, 989]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 956 --> 993
+    line [959, 961, 962, 963, 965, 966, 970, 971, 961, 983, 986, 984, 985, 986, 987, 990, 989, 989]
 ```
 
-2026-10-21 953 → 2026-11-23 989（+36）
+2026-10-22 959 → 2026-11-24 989（+30）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `15d85c7ddaa5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `68a8008a01c2` · [字段定义](../../DATASET.md)*

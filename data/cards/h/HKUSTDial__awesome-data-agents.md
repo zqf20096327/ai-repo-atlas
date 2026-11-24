@@ -2,9 +2,9 @@
 
 ⭐ 805 · Python · 推送 2026-11-08 · [GitHub](https://github.com/HKUSTDial/awesome-data-agents) · [官网](https://arxiv.org/abs/2510.23587) · 组织维护
 
-**数据智能体（Data Agents）综述配套论文清单，按自主性分级编目**
+**数据智能体论文清单：配套综述的分类论文集**
 
-HKUSTDial 团队论文《A Survey of Data Agents: Emerging Paradigm or Overstated Hype?》的配套仓库：持续更新的 Data Agents 论文与资源清单。参照 SAE J3016 提出六级自主性分类（L0 手工至 L5 完全自主），论文按自主性级别与数据管理（配置调优、查询优化、系统诊断）、数据准备（清洗、集成、发现）、数据分析（TableQA、NL2SQL、NL2VIS、非结构化分析、报告生成）等任务组织，并附 SIGMOD 2026 教程幻灯片与 KDD Cup 2026 信息。仅提供论文条目，不含可安装代码。
+配套 arXiv 综述《A Survey of Data Agents: Emerging Paradigm or Overstated Hype?》持续更新的论文清单。借鉴 SAE J3016 自动驾驶分级提出数据智能体 L0-L5 六级自治分类，论文按自治级别组织，再按数据管理、数据准备、数据分析三类任务细分（配置调优、查询优化、数据清洗、NL2SQL、NL2VIS 等），并附 L1 级对比表、相关综述与教程资源。曾在 SIGMOD 2026 举办三小时教程，并关联 KDD Cup 2026 数据智能体赛道。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ HKUSTDial 团队论文《A Survey of Data Agents: Emerging Paradigm or Overstate
 
 ## 能力要点
 
-- 六级自主性分类框架（L0–L5）组织数据智能体研究
-- 按数据管理/准备/分析三大任务域细分论文条目
-- 附 SIGMOD 2026 三小时教程幻灯片与综述论文
-- 跟踪 L2→L3 过渡等演进趋势与调查类文献
+- L0-L5 六级自治度分类框架（对标 SAE J3016）
+- 论文按自治级别×任务类别双重组织
+- 包含 L1 级数据智能体能力对比表
+- 配套 SIGMOD 2026 教程幻灯片与 KDD Cup 2026 赛道
 
 ## 适用场景
 
-- 查找数据智能体方向的论文与调研入口
-- 按自主性级别定位数据库调优、数据清洗、NL2SQL 等子领域研究
-- 跟踪 Data Agents 领域教程与竞赛动态
+- 查找数据智能体某个子方向（如 NL2SQL、配置调优）的代表论文
+- 了解数据智能体领域的研究分级与现状
+- 撰写综述或开题时检索相关文献
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L12: > Curated papers and resources on **Data Agents**. Companion repo and paper list for our survey on data agents - *A
-> L39: The rapid advancement of large language models (LLMs) has spurred the emergence of data agents — autonomous systems
+> L67: We index papers **by autonomy level**, then **by data-related tasks** across Data Management, Data Preparation, and
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "HKUSTDial/awesome-data-agents 星数(近 17 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23"]
+    title "HKUSTDial/awesome-data-agents 星数(近 18 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 780 --> 807
-    line [782, 785, 786, 787, 789, 790, 791, 793, 794, 797, 787, 800, 801, 802, 803, 804, 805]
+    line [782, 785, 786, 787, 789, 790, 791, 793, 794, 797, 787, 800, 801, 802, 803, 804, 805, 805]
 ```
 
-2026-10-20 782 → 2026-11-23 805（+23）
+2026-10-21 782 → 2026-11-24 805（+23）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3be716ec08bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1aad7fe16ad8` · [字段定义](../../DATASET.md)*

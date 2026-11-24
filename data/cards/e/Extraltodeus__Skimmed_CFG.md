@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Extraltodeus/Skimmed_CFG 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "Extraltodeus/Skimmed_CFG 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 233 --> 236
-    line [234, 235]
+    line [234, 235, 235]
 ```
 
-2026-10-21 234 → 2026-11-23 235（+1）
+2026-10-22 234 → 2026-11-24 235（+1）
 
 
 ---

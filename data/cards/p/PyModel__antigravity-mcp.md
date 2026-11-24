@@ -40,6 +40,18 @@
 > L18: **Connect your coding agent to Antigravity models for research, code review, and implementation.** Use Pi, OpenCode
 > L22: **Package:** `@pymodel/antigravity-mcp@1.0.0`. Install from npm or use the source build. Existing users should read
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PyModel/antigravity-mcp 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-23 15 → 2026-11-24 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `46a47dc72d3a` · [字段定义](../../DATASET.md)*

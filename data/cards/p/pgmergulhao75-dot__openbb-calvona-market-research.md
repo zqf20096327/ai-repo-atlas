@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pgmergulhao75-dot/openbb-calvona-market-research 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "pgmergulhao75-dot/openbb-calvona-market-research 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 38 --> 160
-    line [48, 124, 150, 147]
+    line [48, 124, 150, 147, 147]
 ```
 
-2026-11-20 48 → 2026-11-23 147（+99）
+2026-11-20 48 → 2026-11-24 147（+99）
 
 
 ---

@@ -40,6 +40,18 @@
 > L3: An OpenCode plugin that gives your agent access to Firecrawl web search, Google News, Wikipedia, Bluesky, standard.s
 > L9: Ten search tools that work without an API key or an account. OpenCode 1 has no web search at all unless you use its 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "whaaaley/opencode-search 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-23 20 → 2026-11-24 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c1fb89834d25` · [字段定义](../../DATASET.md)*

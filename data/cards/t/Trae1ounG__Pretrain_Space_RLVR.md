@@ -45,12 +45,12 @@ NeurIPS 2026 Pre-to-Post 投稿论文《From P(y|x) to P(y)》的官方实现：
 ```mermaid
 xychart-beta
     title "Trae1ounG/Pretrain_Space_RLVR 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-20 20 → 2026-11-23 20（+0）
+2026-10-21 20 → 2026-11-24 20（+0）
 
 
 ---

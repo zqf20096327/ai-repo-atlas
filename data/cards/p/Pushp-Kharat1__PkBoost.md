@@ -46,12 +46,12 @@ PKBoost（Performance-Based Knowledge Booster）是从零用 Rust 实现的梯�
 ```mermaid
 xychart-beta
     title "Pushp-Kharat1/PkBoost 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 72 --> 74
     line [73, 73]
 ```
 
-2026-10-21 73 → 2026-11-23 73（+0）
+2026-10-22 73 → 2026-11-24 73（+0）
 
 
 ---

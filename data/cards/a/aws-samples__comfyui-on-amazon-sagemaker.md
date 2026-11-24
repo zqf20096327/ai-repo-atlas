@@ -46,12 +46,12 @@ AWS 官方示例项目，演示通过 SageMaker 推理端点托管 ComfyUI，用
 ```mermaid
 xychart-beta
     title "aws-samples/comfyui-on-amazon-sagemaker 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-23"]
+    x-axis ["2026-11-19", "2026-11-24"]
     y-axis "stars" 66 --> 68
     line [67, 67]
 ```
 
-2026-11-19 67 → 2026-11-23 67（+0）
+2026-11-19 67 → 2026-11-24 67（+0）
 
 
 ---

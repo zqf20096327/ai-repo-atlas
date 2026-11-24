@@ -2,15 +2,15 @@
 
 ⭐ 1,067 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/MayDay-wpf/snow-cli) · 个人维护 · 中文 README
 
-**终端 AI 编程智能体 CLI，兼容多家 LLM 提供商**
+**终端里的 AI 编程智能体 CLI，兼容多家模型接口**
 
-运行在终端的 npm 全局安装式 AI 编程智能体（snow-ai），描述为同时兼容 OpenAI、Gemini、Claude 等模型。功能覆盖命令面板、子 Agent、敏感命令保护、Hooks、MCP 服务配置、异步任务、漏洞挖掘模式、LSP 集成、SSE 服务模式、团队多 Agent 协作与隐私过滤等，并兼容 Claude Code Skills 与中继站配置。需 Node.js >= 18.x，提供 VSCode 扩展与 JetBrains 插件源码，另有桌面客户端 Snow App（独立仓库）。文档中英双语。
+以 Node.js/npm 包形式发布的终端编程智能体：通过命令 `snow` 启动对话式编程会话，兼容 OpenAI、Gemini、Claude 与 Deepseek 等模型接口，支持第三方中转配置。功能覆盖子智能体、MCP 服务管理、LSP 集成、Skills 命令、异步后台任务、无头模式与 SSE 服务模式、多智能体团队协作、漏洞挖掘模式、钩子与主题自定义，并提供 VSCode 扩展与 JetBrains 插件。要求 Node.js >= 18.x，运行后在 `~/.snow/` 创建用户配置目录。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 终端内 agentic coding，npm 全局安装后以 snow 命令启动
-- 兼容 OpenAI、Gemini、Claude 等多家 LLM 与第三方中继配置
-- 支持 MCP、LSP、Hooks、异步任务、团队多 Agent 协作、SSE 服务模式
-- 兼容 Claude Code Skills，提供 VSCode 扩展与 JetBrains 插件源码
+- 同时兼容 OpenAI、Gemini、Claude、Deepseek 等模型接口与第三方中转
+- 支持子智能体、MCP、LSP、Skills、hooks 等扩展机制
+- 提供无头模式、SSE 服务模式与异步任务管理
+- 附带 VSCode 扩展与 JetBrains 插件
 
 ## 适用场景
 
-- 在终端里通过 AI 智能体完成编程任务
-- 配置多家模型提供商或中继站按需切换
-- 用 Headless/SSE 模式集成到脚本和第三方工具
+- 在终端通过对话方式完成编码任务
+- 配置第三方中转接入自选模型服务
+- 用多智能体团队模式并行执行编程任务
 
 ## 场景标签
 
@@ -39,20 +39,20 @@
 
 > L18: _Agentic coding in your terminal_
 > L65: Install Snow CLI globally via npm:
-> L68: npm install -g snow-ai
+> L168: ├── api/                    # LLM API adapters
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "MayDay-wpf/snow-cli 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "MayDay-wpf/snow-cli 星数(近 13 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
     y-axis "stars" 1062 --> 1070
-    line [1068, 1069, 1067, 1068, 1069, 1067, 1068, 1063, 1065, 1066, 1067, 1066, 1067, 1067]
+    line [1069, 1067, 1068, 1069, 1067, 1068, 1063, 1065, 1066, 1067, 1066, 1067, 1067]
 ```
 
-2026-10-21 1,068 → 2026-11-23 1,067（-1）
+2026-10-22 1,069 → 2026-11-24 1,067（-2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3f9fb77400d5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `24206c21a2af` · [字段定义](../../DATASET.md)*

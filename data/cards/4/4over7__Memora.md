@@ -46,12 +46,12 @@ macOS（Apple Silicon）桌面应用，后台捕获 Claude Code、Codex CLI、Op
 ```mermaid
 xychart-beta
     title "4over7/Memora 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-20 13 → 2026-11-23 13（+0）
+2026-10-21 13 → 2026-11-24 13（+0）
 
 
 ---

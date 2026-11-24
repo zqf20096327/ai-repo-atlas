@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "imprvhub/mcp-claude-spotify 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-16", "2026-11-23"]
-    y-axis "stars" 51 --> 55
-    line [52, 53, 54, 54]
+    title "imprvhub/mcp-claude-spotify 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-16", "2026-11-24"]
+    y-axis "stars" 52 --> 55
+    line [53, 54, 54]
 ```
 
-2026-10-21 52 → 2026-11-23 54（+2）
+2026-10-22 53 → 2026-11-24 54（+1）
 
 
 ---

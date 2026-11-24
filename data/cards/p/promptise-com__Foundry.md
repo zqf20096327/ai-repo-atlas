@@ -2,9 +2,9 @@
 
 ⭐ 896 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/promptise-com/Foundry) · [官网](https://www.promptise.com/) · 组织维护
 
-**构建、运行与治理 AI agent 的全栈 Python 框架**
+**为开发者提供构建与运行 agent 系统的一体化 Python 框架**
 
-Python 框架 Promptise Foundry，面向需要 agent 系统可问责的开发团队，覆盖三层：Agent（推理、记忆、RAG、guardrails）、Interface（MCP 服务端/客户端，MCPcast 可将 OpenAPI 规范生成 MCP 服务）、Harness（无人值守运行、预算、身份、审计与恢复）。通过统一模型字符串接入 OpenAI/Anthropic/Bedrock/Ollama 等多种模型，支持多租户隔离、服务端强制人工审批、防篡改审计链，安全模型与向量库可本地运行以支持离线部署。
+Promptise 是一个 Python agent 框架，按 Agent（推理）、Interface（通过 MCP 访问工具与数据）、Harness（运行时，含预算、触发器、审计与恢复）三层组织。@tool 装饰器将 Python 函数转为工具，可接入 MCP server；MCPcast 从 OpenAPI/Swagger 文档生成 MCP server 项目；内置多租户隔离、人工审批门、agent 身份认证与审计链，支持本地运行安全模型与嵌入以实现离线部署。通过 pip 安装，Python 3.10-3.13，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@ Python 框架 Promptise Foundry，面向需要 agent 系统可问责的开发团
 
 ## 能力要点
 
-- Agent/Interface/Harness 三层结构：推理、工具接入与运行治理一体化
-- MCPcast 从 OpenAPI/Swagger 规范生成可安装的 MCP 服务项目，写入操作服务端审批门控
-- 多租户数据隔离与服务端强制人工审批、防篡改审计链
-- 支持 OpenAI/Anthropic/Azure/Bedrock/Ollama 等多模型，安全模型与向量库可离线运行
+- 模型以单一字符串指定（openai:/anthropic:/ollama: 等），同一字符串贯穿 build_agent、文件与 CLI
+- MCPcast 从 OpenAPI/Swagger 生成可安装的 MCP server 项目并附带测试与 Dockerfile
+- 多租户数据隔离、服务端强制人工审批、防篡改审计链为框架内置能力
+- promptise run 支持 devtools 追踪、TUI、HTTP API 与生产模式
 
 ## 适用场景
 
-- 在本地起步构建 agent，后续扩展为无人值守运行的多 agent 集群
-- 将现有 REST API 转成带审批门控的 MCP 工具供 agent 调用
-- 在合规或离线环境中部署带身份认证与审计的 agent 系统
+- 从单个 agent 起步并扩展为无人值守运行的 agent 集群
+- 将已有 OpenAPI 接口转为供 agent 调用的 MCP 工具集
+- 在受监管或离线环境中本地运行整套 agent 栈
+- 构建需要租户隔离与审批留痕的企业 agent 平台
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L18: **The framework for agentic intelligence.**
 > L20: Promptise gives you everything an agentic system needs, in one place and working together from the first line: agen
-> L30: |**Harness** · *it operates*|Keeps your agents running around the clock, within budget, and accountable for everyth
-> L162: Run agents unattended, on budget, recoverable.
+> L63: `promptise.toml` is to an agent project what `package.json` is to a Node project: it names the `main` file, the scr
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "promptise-com/Foundry 星数(近 13 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-23"]
+    title "promptise-com/Foundry 星数(近 12 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-24"]
     y-axis "stars" 871 --> 899
-    line [874, 873, 892, 893, 892, 893, 894, 893, 892, 894, 897, 896, 896]
+    line [873, 892, 893, 892, 893, 894, 893, 892, 894, 897, 896, 896]
 ```
 
-2026-10-21 874 → 2026-11-23 896（+22）
+2026-10-22 873 → 2026-11-24 896（+23）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `ad8cc62aa701` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `50f80220003d` · [字段定义](../../DATASET.md)*

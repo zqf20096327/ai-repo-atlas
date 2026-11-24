@@ -44,13 +44,13 @@ BarunLM-35M 是一个 35,072,768 参数的基座语言模型，在 5.7B token �
 
 ```mermaid
 xychart-beta
-    title "harrrshall/barunlm-35m 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 73 --> 77
-    line [74, 76, 76]
+    title "harrrshall/barunlm-35m 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 75 --> 77
+    line [76, 76]
 ```
 
-2026-10-21 74 → 2026-11-23 76（+2）
+2026-10-22 76 → 2026-11-24 76（+0）
 
 
 ---

@@ -46,12 +46,12 @@ Flutter 开发的跨平台（Windows/Linux/Android）应用，核心为接入云
 ```mermaid
 xychart-beta
     title "Sanotsu/SuChat-Lite 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-21 31 → 2026-11-23 31（+0）
+2026-10-22 31 → 2026-11-24 31（+0）
 
 
 ---

@@ -46,12 +46,12 @@ DeepMind 维护的 agentic ecology 项目：为 agentic 开发平台（如 Googl
 ```mermaid
 xychart-beta
     title "google-deepmind/agentic_ecology 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-13", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-13", "2026-11-24"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-21 12 → 2026-11-23 13（+1）
+2026-10-22 12 → 2026-11-24 13（+1）
 
 
 ---

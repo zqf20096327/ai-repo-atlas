@@ -2,15 +2,15 @@
 
 ⭐ 1,055 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/optimum-quanto) · 组织维护
 
-**PyTorch 模型量化库：将 float 模型转为低比特量化模型**
+**为 PyTorch/Hugging Face 模型提供量化后端的 Python 库**
 
-Optimum 的 PyTorch 量化后端，面向需要压缩模型体积与显存占用的开发者。支持 int2/int4/int8/float8 权重与 int8/float8 激活量化，全部功能可在 eager 模式使用，量化模型可放置于任意设备（含 CUDA 与 MPS）；提供从量化、校准、量化感知训练到冻结、序列化（pickle/safetensors）与重载的完整工作流，自动插入量化模块（Linear/Conv2d/LayerNorm）。项目处于维护模式，仅接受小修复与文档改进。
+Optimum 的 PyTorch 量化后端：支持 int2/int4/int8/float8 权重与 int8/float8 激活，自动插入量化/反量化 stub 与量化模块，提供从 float 模型到动态/静态量化模型的流程，含校准与量化感知训练步骤。为 transformers 因果语言模型与 diffusers 管线提供 helper 类，序列化兼容 weight_only 与 safetensors。所有功能可在 eager 模式下使用，量化模型可放置于任意设备。项目处于维护模式，仅接受小修复与文档类 PR。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ Optimum 的 PyTorch 量化后端，面向需要压缩模型体积与显存占用
 
 ## 能力要点
 
-- 支持 int2/int4/int8/float8 权重与 int8/float8 激活量化
-- eager 模式全功能可用，兼容不可 trace 的模型
-- 提供 HuggingFace/diffusers 模型的一键量化保存与重载辅助类
-- CUDA 上加速矩阵乘法（int8-int8、fp16-int4、bf16-int8 等）
+- 支持 int2/int4/int8 与 float8 权重、int8/float8 激活
+- 为 LLM 与 diffusers 管线提供 quantize/save/reload helper 类
+- 支持校准与量化感知训练（QAT）工作流
+- 序列化兼容 pytorch weight_only 与 safetensors
 
 ## 适用场景
 
-- 压缩 LLM/扩散模型的权重与显存占用
-- 对 PyTorch 模型做训练后量化或量化感知训练
-- 将量化后的 HuggingFace 模型序列化为 safetensors 并重载
+- 将 Hugging Face LLM 量化为 int4/int8 以降低显存占用
+- 量化 diffusers 管线中的 transformer 子模型
+- 对 vanilla PyTorch 模型执行校准与量化感知训练
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ Optimum 的 PyTorch 量化后端，面向需要压缩模型体积与显存占用
 ## 证据(README 行号)
 
 > L5: 🤗 Optimum Quanto is a pytorch quantization backend for optimum.
-> L14: - provides a seamless workflow from a float model to a dynamic to a static quantized model,
+> L3: > This project is currently in maintenance mode. We accept pull requests only for minor bug fixes, documentation imp
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "huggingface/optimum-quanto 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-24"]
     y-axis "stars" 1052 --> 1057
     line [1053, 1054, 1055, 1056, 1053, 1056, 1055, 1056, 1055, 1055]
 ```
 
-2026-10-21 1,053 → 2026-11-23 1,055（+2）
+2026-10-22 1,053 → 2026-11-24 1,055（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4da677a2dec6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `238eedeea5f2` · [字段定义](../../DATASET.md)*

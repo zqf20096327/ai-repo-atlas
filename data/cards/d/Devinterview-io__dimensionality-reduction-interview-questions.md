@@ -44,12 +44,12 @@ Devinterview.io 维护的面试准备知识库：收录 50 道降维主题的机
 ```mermaid
 xychart-beta
     title "Devinterview-io/dimensionality-reduction-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-21 14 → 2026-11-23 14（+0）
+2026-10-22 14 → 2026-11-24 14（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Diffusion-Model-Leiden/awesome-diffusion-models-for-tabular-data 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 98 --> 101
-    line [99, 100, 100]
+    title "Diffusion-Model-Leiden/awesome-diffusion-models-for-tabular-data 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 99 --> 101
+    line [100, 100]
 ```
 
-2026-10-21 99 → 2026-11-23 100（+1）
+2026-10-22 100 → 2026-11-24 100（+0）
 
 
 ---

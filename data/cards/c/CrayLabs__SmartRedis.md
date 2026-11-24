@@ -45,13 +45,13 @@ SmartRedis 是一组支持 RedisAI 能力的 Redis 客户端库，提供 Python�
 
 ```mermaid
 xychart-beta
-    title "CrayLabs/SmartRedis 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "CrayLabs/SmartRedis 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 57 --> 60
-    line [58, 59]
+    line [58, 59, 59]
 ```
 
-2026-10-21 58 → 2026-11-23 59（+1）
+2026-10-22 58 → 2026-11-24 59（+1）
 
 
 ---

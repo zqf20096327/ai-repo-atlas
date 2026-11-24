@@ -45,12 +45,12 @@ AWS 提供的示例工程：基于 Kaggle Customer Churn Prediction 2020 数据�
 ```mermaid
 xychart-beta
     title "aws-samples/churn-prediction-with-text-and-interpretability 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-23"]
+    x-axis ["2026-11-20", "2026-11-24"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-20 11 → 2026-11-23 11（+0）
+2026-11-20 11 → 2026-11-24 11（+0）
 
 
 ---

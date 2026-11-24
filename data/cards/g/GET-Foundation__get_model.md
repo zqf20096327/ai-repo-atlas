@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GET-Foundation/get_model 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "GET-Foundation/get_model 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 113 --> 116
-    line [114, 115]
+    line [114, 115, 115]
 ```
 
-2026-10-21 114 → 2026-11-23 115（+1）
+2026-10-22 114 → 2026-11-24 115（+1）
 
 
 ---

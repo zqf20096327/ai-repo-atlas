@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cotletdev/partiful-api-mcp-server 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-23"]
+    title "cotletdev/partiful-api-mcp-server 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-23", "2026-11-24"]
     y-axis "stars" 6 --> 9
-    line [7, 8]
+    line [7, 8, 8]
 ```
 
-2026-11-08 7 → 2026-11-23 8（+1）
+2026-11-08 7 → 2026-11-24 8（+1）
 
 
 ---

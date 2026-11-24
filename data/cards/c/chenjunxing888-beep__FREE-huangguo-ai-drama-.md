@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenjunxing888-beep/FREE-huangguo-ai-drama- 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-23"]
+    title "chenjunxing888-beep/FREE-huangguo-ai-drama- 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 5 --> 8
-    line [6, 7]
+    line [6, 7, 7]
 ```
 
-2026-11-21 6 → 2026-11-23 7（+1）
+2026-11-21 6 → 2026-11-24 7（+1）
 
 
 ---

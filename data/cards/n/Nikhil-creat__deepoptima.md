@@ -46,12 +46,12 @@ DeepOptima Studio 是面向表格数据的 AutoML 平台：用户注册后上传
 ```mermaid
 xychart-beta
     title "Nikhil-creat/deepoptima 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-23"]
+    x-axis ["2026-10-25", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-23 3（+0）
+2026-10-25 3 → 2026-11-24 3（+0）
 
 
 ---

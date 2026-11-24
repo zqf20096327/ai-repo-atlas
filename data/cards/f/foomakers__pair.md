@@ -41,6 +41,18 @@
 > L43: - **Agent Skills** — 41 idempotent workflows following the agentskills.io open standard
 > L36: Set `workflowProfiles` in `pair.config.json` to choose each stage's engine and model. `run.defaults` and `run.agent
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "foomakers/pair 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `add544ae8dca` · [字段定义](../../DATASET.md)*

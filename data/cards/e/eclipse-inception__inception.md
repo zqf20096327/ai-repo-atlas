@@ -2,9 +2,9 @@
 
 ⭐ 733 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/eclipse-inception/inception) · [官网](https://eclipse-inception.github.io) · 组织维护
 
-**面向标注者的多层文本语义标注平台，带知识库与机器建议**
+**语义文本标注平台：知识库实体链接+机器辅助建议**
 
-INCEpTION 是一个多层文本语义标注平台：支持在自定义本体上标注实体、关系、共指、句法、框架等层级，可加载 RDF/OWL/OBO/SKOS/Turtle 或查询远程 SPARQL 端点，内置 Wikidata、SNOMED CT、Gene Ontology 等知识库配置。推荐器随标注过程训练，主动学习挑选模型最不确定的用例询问标注者，未接受的建议不落库。支持多人标注一致性度量与金标准整理，提供 REST API 与外部推荐器接口，可导入纯文本/PDF/HTML/TEI，导出 UIMA CAS XMI/JSON 或 CoNLL-U。
+INCEpTION 是一个语义标注平台，用于按自定义标注体系构建多层文本标注语料，并将其挂接到自有本体。支持加载 RDF/OWL/OBO/SKOS/Turtle 或查询远程 SPARQL 端点，预置 Wikidata、SNOMED CT、Gene Ontology 等知识库配置；实体、关系、共指、句法等可在同一文本上叠加多层标注。推荐器随标注进度在已有数据上训练生成建议，主动学习挑选最不确定的样例询问，采纳后才存储；支持多标注者金标准校对、一致性度量，以及通过 REST API、webhooks 和外部推荐器模型集成。提供单机安装包与服务器部署两种形态。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ INCEpTION 是一个多层文本语义标注平台：支持在自定义本体上�
 
 ## 能力要点
 
-- 推荐器随标注过程训练，主动学习选择不确定用例
-- 支持 RDF/OWL/OBO/SKOS/Turtle 本体与远程 SPARQL 查询
-- 多层标注（实体/关系/共指/句法/框架）在浏览器内定义
-- REST API、webhook 与外部推荐器接口
+- 多层标注：实体、关系、共指、句法、frames 在同一文本叠加，浏览器内定义
+- 推荐器随标注训练生成建议，主动学习挑选低置信样例，采纳才入库
+- 支持 RDF/OWL/OBO/SKOS/Turtle 本体与远程 SPARQL 查询，预置 Wikidata/SNOMED CT 等配置
+- 提供 REST API、webhooks 与外部推荐器模型接入
 
 ## 适用场景
 
-- 按自定义本体构建标注语料库
-- 多人协作标注并计算一致性、整理金标准
-- 接入自有模型为标注过程提供建议
+- 为 NLP 项目构建带自定义体系的标注语料
+- 结合 Wikidata 或领域本体做实体链接标注
+- 组织多人标注并校对成金标准数据集
+- 以服务器形式为机构内团队部署标注环境
 
 ## 场景标签
 
@@ -37,22 +38,22 @@ INCEpTION 是一个多层文本语义标注平台：支持在自定义本体上�
 
 ## 证据(README 行号)
 
-> L5:  Multi-layer text annotation with knowledge-base entity linking and machine-assisted suggestions.
 > L28: - **Get suggestions that improve while you work.** Recommenders train on what you have annotated so
-> L89: INCEpTION is provided as open source under the Apache License v2.0.
+> L33: - **Runs where you need it to run.** A desktop installer for one person, or a server deployment for
+> L5:  Multi-layer text annotation with knowledge-base entity linking and machine-assisted suggestions.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "eclipse-inception/inception 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-24"]
     y-axis "stars" 727 --> 735
     line [728, 729, 730, 731, 732, 734, 733, 733]
 ```
 
-2026-10-30 728 → 2026-11-23 733（+5）
+2026-10-30 728 → 2026-11-24 733（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `54ed73a0c852` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4f1598dc3306` · [字段定义](../../DATASET.md)*

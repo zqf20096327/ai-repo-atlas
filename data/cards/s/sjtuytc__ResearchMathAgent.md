@@ -45,13 +45,13 @@ COLM 2026 Workshop 论文 RMA 的官方代码发布：以 Initializer/Proposer/V
 
 ```mermaid
 xychart-beta
-    title "sjtuytc/ResearchMathAgent 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-23"]
-    y-axis "stars" 33 --> 38
-    line [34, 35, 36, 37, 37]
+    title "sjtuytc/ResearchMathAgent 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-24"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 37, 37]
 ```
 
-2026-10-21 34 → 2026-11-23 37（+3）
+2026-10-22 35 → 2026-11-24 37（+2）
 
 
 ---

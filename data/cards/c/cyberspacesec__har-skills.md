@@ -46,13 +46,13 @@ AI 优先设计的 HAR（HTTP Archive）分析工具：以 CLAUDE.md 技能文�
 
 ```mermaid
 xychart-beta
-    title "cyberspacesec/har-skills 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 38 --> 42
-    line [39, 41, 41]
+    title "cyberspacesec/har-skills 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
 ```
 
-2026-10-21 39 → 2026-11-23 41（+2）
+2026-10-22 41 → 2026-11-24 41（+0）
 
 
 ---

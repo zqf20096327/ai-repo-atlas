@@ -2,15 +2,15 @@
 
 ⭐ 664 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/mahmoodlab/TRIDENT) · [官网](https://trident-docs.readthedocs.io) · 组织维护
 
-**病理全切片图像大规模处理工具包：分割、切块与特征提取**
+**病理全切片图像大规模处理的端到端工具包**
 
-由哈佛医学院 Mahmood Lab 开发的全切片图像（WSI）处理工具包，面向病理学计算研究人员。提供端到端流水线：组织分割→patch 坐标生成→patch/slide 特征提取，一条命令（--task all）或分阶段运行。支持 33 个 patch 编码器（UNI、CONCH、Virchow、GigaPath 等）与多个 slide 编码器（Titan、PRISM、CHIEF 等），支持多 GPU 分片、断点续跑、WSI 缓存流水线，并输出运行报告。安装依赖 Python 3.10/3.11 环境，通过 git clone 加 pip install -e 安装，可选装多种扩展配置；部分模型需 HuggingFace 门控访问或手动配置。
+面向数字病理学研究者与开发者的全切片图像（WSI）处理工具包：一条命令串联组织分割→patch 坐标提取→patch/切片特征嵌入三个阶段，也可分步运行。内置 34 种 patch 编码器与多种切片编码器（UNI、CONCH、Virchow、GigaPath 等），支持 OpenSlide、CuCIM、OME-Zarr、Zeiss CZI、Philips iSyntax 等多种读取后端。提供多 GPU 分片、按切片断点续跑、本地 WSI 缓存管线及每次运行的摘要报告。部分模型需手动配置路径或 HuggingFace 门控审批，多数编码器许可为非商业用途。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 端到端流水线：分割→patch 坐标→patch/slide 嵌入，单命令或分阶段运行
-- 33 个 patch 编码器与多个 slide 编码器（Titan、GigaPath、PRISM、CHIEF 等）
-- 多 GPU 分片、按 slide 跟踪的断点续跑与锁文件保护
-- 支持 OpenSlide、CuCIM、OME-Zarr、Zeiss CZI 等多种 WSI 读取格式
+- 端到端管线：分割→patch 坐标→嵌入，支持 --task all 一步运行
+- 34 种 patch 编码器与多种切片编码器可选
+- 支持多 GPU 分片与按切片断点续跑（.lock 文件保护）
+- 提供 Claude Code Agent Skill，可由 AI 编码代理驱动全流程
 
 ## 适用场景
 
-- 对病理全切片批量提取病理基础模型特征用于下游建模
-- 分阶段执行组织分割与 patch 采样并可视化质控
-- 将各类格式全切片转换为金字塔 TIFF
+- 批量提取病理全切片的 patch/切片特征嵌入
+- 对大量 WSI 做组织区域分割与质量控制（输出 GeoJSON 供 QuPath 查看）
+- 将异构格式切片转换为金字塔 TIFF
+- 在慢速/网络存储环境下用本地缓存加速批处理
 
 ## 场景标签
 
-`图像视频处理` `科研工具` · 领域:学习与行业
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L6: Trident is a toolkit for large-scale whole-slide image processing.
 > L14: - **End-to-end pipeline**: tissue segmentation → patch coordinates → patch / slide embeddings, in one command (`--t
-> L15: - **33 patch encoders**: UNI, CONCHv1.5, Virchow, Prov-GigaPath, H-Optimus-0, etc.
+> L15: - **34 patch encoders**: UNI, CONCHv1.5, Virchow, Prov-GigaPath, H-Optimus-0, etc.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mahmoodlab/TRIDENT 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-24"]
     y-axis "stars" 645 --> 665
     line [646, 648, 647, 649, 651, 648, 653, 656, 657, 658, 659, 660, 663, 664, 664]
 ```
 
-2026-10-21 646 → 2026-11-23 664（+18）
+2026-10-22 646 → 2026-11-24 664（+18）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `95a46c3a3675` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8c885ef12605` · [字段定义](../../DATASET.md)*

@@ -40,6 +40,18 @@ PRAXO-CORE 的 PowerShell 实现：以共享 C# 运行时为底座的包装层�
 > L3: PRAXO-CORE is an embeddable, MIT-licensed agent framework. This package is its PowerShell Core: a shared-runtime wra
 > L22: - OpenAI-compatible model: inherited
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axisvela/praxo-core-powershell 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e098195b0134` · [字段定义](../../DATASET.md)*

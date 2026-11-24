@@ -44,13 +44,13 @@ Sidehand 以 MCP server 和 CLI 形式提供，使 Claude、Codex、Cursor 等 M
 
 ```mermaid
 xychart-beta
-    title "Blue-B/sidehand 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
+    title "Blue-B/sidehand 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 4 --> 10
-    line [5, 6, 8, 9]
+    line [5, 6, 8, 9, 9]
 ```
 
-2026-11-19 5 → 2026-11-23 9（+4）
+2026-11-19 5 → 2026-11-24 9（+4）
 
 
 ---

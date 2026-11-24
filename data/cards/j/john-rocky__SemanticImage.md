@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "john-rocky/SemanticImage 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 164 --> 167
-    line [166, 165, 165]
+    title "john-rocky/SemanticImage 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 164 --> 166
+    line [165, 165]
 ```
 
-2026-10-21 166 → 2026-11-23 165（-1）
+2026-10-22 165 → 2026-11-24 165（+0）
 
 
 ---

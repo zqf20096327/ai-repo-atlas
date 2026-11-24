@@ -2,9 +2,9 @@
 
 ⭐ 822 · Swift · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ganeshmshetty/openclip) · [官网](https://getopenclip.app) · 个人维护
 
-**macOS 选中文本动作弹窗工具，可运行脚本与 AI 动作**
+**macOS 选中文本弹窗工具，支持脚本与 AI 动作**
 
-面向 macOS 用户的文本操作弹出工具：在任意应用中选中文本后弹出上下文动作条，支持大小写转换、搜索、数学表达式求值、触发快捷指令与自定义脚本，扩展可用 JavaScript、Shell、AppleScript 或 URL scheme 编写。AI 动作为可选功能，可调用本地 Ollama 模型、Apple Intelligence 或 OpenAI/Anthropic API key。零遥测，本地执行。需 macOS 14+ 与辅助功能权限，通过 Homebrew cask 或 dmg 安装，也可用 XcodeGen 从源码构建。
+面向 macOS 用户的文本动作弹窗：在任意应用中选中文本后弹出上下文操作栏，可转换大小写、搜索、复制/剪切、计算数学表达式、运行 shell 脚本、触发 Shortcuts，或调用 AI 模型处理文本。扩展以 `~/.openclip/extensions/` 文件夹形式编写，支持 JavaScript、Shell、AppleScript 与 URL scheme，并提供内置 Extension Store 安装社区扩展。AI 动作为可选功能，走本地 Ollama、Apple Intelligence 或自备的 OpenAI/Anthropic key。安装方式为 Homebrew cask、.dmg 下载或从源码构建（需 Xcode 16+ 与 XcodeGen），采用 AGPL-3.0 许可，声明零遥测。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 选中文本即弹出的上下文动作条（转换/搜索/数学/自定义脚本）
-- 扩展支持 JavaScript、Shell、AppleScript、URL scheme
-- 可选 AI 动作：本地 Ollama、Apple Intelligence、OpenAI/Anthropic key
-- 零遥测、100% 本地执行
+- 选中文本弹出上下文操作栏，支持脚本/数学/快捷指令
+- 扩展支持 JavaScript、Shell、AppleScript、URL scheme，带 Extension Store
+- 可选 AI 动作：本地 Ollama、Apple Intelligence、OpenAI/Anthropic
+- Swift 6 编写，声明零遥测、100% 本地执行
 
 ## 适用场景
 
-- 在任意应用中选中文本快速执行转换或搜索动作
-- 用自定义扩展把常用文本处理流程做成一键动作
-- 通过本地或云端模型对选中文本运行 AI 动作
+- 选中文本后一键执行自定义脚本或文本变换
+- 用本地 Ollama 模型对选中文本做 AI 处理
+- 通过快捷键模糊搜索并触发整套动作目录
 
 ## 场景标签
 
- · 领域:macOS 桌面效率工具
+ · 领域:开发者工具/效率工具
 
 ## 证据(README 行号)
 
+> L3:  The open-source text action popup for macOS.
 > L16: Select text in any app, and OpenClip pops up with contextual actions — transform text, run shell scripts, trigger s
-> L32: - **Contextual bar** — Appears instantly near your selection with relevant actions (case transform, search, copy/cu
-> L36: - **Optional AI actions** — Run text through local Ollama models, Apple Intelligence, or OpenAI/Anthropic keys.
+> L36: - **Optional AI actions**: Run text through local Ollama models, Apple Intelligence, or OpenAI/Anthropic keys.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ganeshmshetty/openclip 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 679 --> 835
-    line [692, 696, 702, 705, 707, 709, 712, 717, 722, 725, 728, 732, 734, 707, 743, 755, 759, 761, 762, 765, 771, 799, 803, 808, 815, 818, 821, 822]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 684 --> 834
+    line [696, 702, 705, 707, 709, 712, 717, 722, 725, 728, 732, 734, 707, 743, 755, 759, 761, 762, 765, 771, 799, 803, 808, 815, 818, 821, 822, 822]
 ```
 
-2026-10-21 692 → 2026-11-23 822（+130）
+2026-10-22 696 → 2026-11-24 822（+126）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `dd9cca0f2657` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1a08029757ca` · [字段定义](../../DATASET.md)*

@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "bansalkanav/GenAI-AgenticAI-From-Zero-to-Production 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 115 --> 119
-    line [116, 117, 118, 117, 118, 118]
+    title "bansalkanav/GenAI-AgenticAI-From-Zero-to-Production 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 116 --> 119
+    line [117, 118, 117, 118, 118]
 ```
 
-2026-10-21 116 → 2026-11-23 118（+2）
+2026-10-22 117 → 2026-11-24 118（+1）
 
 
 ---

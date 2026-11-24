@@ -46,12 +46,12 @@ BWAV 是一个 Manifest V3 Chrome 扩展，通过驱动用户自己已登录的 
 ```mermaid
 xychart-beta
     title "DuckB1t/bulk-whatsapp-number-checker 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-23"]
+    x-axis ["2026-11-11", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-23 3（+0）
+2026-11-11 3 → 2026-11-24 3（+0）
 
 
 ---

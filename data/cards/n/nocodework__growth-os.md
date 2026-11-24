@@ -46,12 +46,12 @@ NoCodeWork 出的增长操作系统：将业务 URL 的定位（USP/UVP/ICP）�
 ```mermaid
 xychart-beta
     title "nocodework/growth-os 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-23"]
+    x-axis ["2026-11-16", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-23 10（+0）
+2026-11-16 10 → 2026-11-24 10（+0）
 
 
 ---

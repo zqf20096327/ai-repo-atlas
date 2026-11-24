@@ -41,6 +41,18 @@ GateRook 是一款桌面应用，在 AI 应用（Claude Desktop、Codex、Cursor
 > L5: Let AI investigate incidents, query databases, search logs, and work with your services while you control what it ca
 > L7: **Works with Claude Desktop · Codex · Cursor · Antigravity · VS Code**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gaterook/gaterook 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-23 6 → 2026-11-24 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `35406f5e92c1` · [字段定义](../../DATASET.md)*

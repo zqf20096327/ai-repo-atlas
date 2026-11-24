@@ -41,6 +41,18 @@
 > L17: - **One step**: about 45 ms for a 1024 px image with the default model. Most of the time goes to the VAE decode.
 > L121: resolution. Steppe is a generative model itself: a window transformer on the full resolution latent grid generates
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tensorforger/ComfyUI-Steppe 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
+```
+
+2026-11-23 9 → 2026-11-24 9（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e96ae70cd1ae` · [字段定义](../../DATASET.md)*

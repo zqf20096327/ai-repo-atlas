@@ -44,13 +44,13 @@ Electron + 原生 JS 前端搭配本地 FastAPI Python sidecar 的桌面应用�
 
 ```mermaid
 xychart-beta
-    title "Bullobis/kevrai-omni 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-11-14", "2026-11-23"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18, 18]
+    title "Bullobis/kevrai-omni 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-14", "2026-11-24"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-21 15 → 2026-11-23 18（+3）
+2026-10-22 16 → 2026-11-24 18（+2）
 
 
 ---

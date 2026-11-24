@@ -41,6 +41,18 @@
 > L13: Nullion connects the model you choose to your browser, files, and enabled tools.
 > L184: The runtime uses LangGraph, LangChain-compatible adapters, and Deep Agents.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "shumanhi/nullion 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 16 --> 18
+    line [17, 17]
+```
+
+2026-11-23 17 → 2026-11-24 17（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `0c99edbd0bf2` · [字段定义](../../DATASET.md)*

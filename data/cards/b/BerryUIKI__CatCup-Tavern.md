@@ -45,13 +45,13 @@ local-first 的 AI 角色扮演客户端，提供 Windows 安装包、浏览器�
 
 ```mermaid
 xychart-beta
-    title "BerryUIKI/CatCup-Tavern 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "BerryUIKI/CatCup-Tavern 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 6 --> 13
-    line [7, 12]
+    line [7, 12, 12]
 ```
 
-2026-11-22 7 → 2026-11-23 12（+5）
+2026-11-22 7 → 2026-11-24 12（+5）
 
 
 ---

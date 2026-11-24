@@ -2,9 +2,9 @@
 
 ⭐ 1,370 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/grinev/opencode-telegram-bot) · 个人维护
 
-**通过 Telegram 远程运行和监控本地 OpenCode 编码任务的客户端**
+**OpenCode 的 Telegram 移动客户端：手机远程运行监控 AI 编码任务**
 
-运行在用户本机的 Telegram Bot，作为 OpenCode CLI 的移动客户端：从手机发送编码任务提示、接收代码结果文件、管理会话、切换模型与 Agent 模式（Plan/Build）、查看上下文用量与文件变更的实时置顶状态。支持语音转文字提示、文件附件、定时任务、消息队列、会话回滚与分叉、git worktree 切换、交互式文件浏览。安全机制为严格用户 ID 白名单，不开放端口，仅与本地 OpenCode 服务器和 Telegram Bot API 通信。需 Node.js 22.14+ 与本地 OpenCode，通过 npx 或 npm 全局安装运行，也支持 Docker（OpenCode 留在宿主机）。
+运行在本地机器上的 Telegram 机器人，作为 OpenCode CLI 的客户端：通过 Telegram 发送编码任务、实时查看会话状态、切换模型、管理会话与项目、切换 git worktree、回复代理提问并批准权限。支持 OpenCode V1/V2，语音消息经 Whisper 兼容 API 转写为提示词，支持定时任务、消息队列与文件附件/回传。仅连接本地 OpenCode 服务器与 Telegram Bot API，无开放端口，通过用户 ID 白名单限制访问。以 npm 包分发，支持 Docker 部署，UI 支持 13 种语言。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 远程发送提示并接收带代码文件的结果，会话管理与实时状态跟踪
-- 模型切换、Agent 模式切换、自定义命令与技能目录内联运行
-- 语音消息经 Whisper 兼容 API 转写后作为提示发送
-- 严格用户 ID 白名单，无开放端口与暴露 API
+- 支持 OpenCode V1/V2，从手机发送任务并实时监控会话、子代理进度与上下文用量
+- 语音消息经 Whisper 兼容 API 转写为提示词
+- 会话管理：新建/继续/搜索、消息回退（Revert）与分叉（Fork）、定时任务
+- 严格用户 ID 白名单与无开放端口的安全设计，支持 Docker 与 systemd 部署
 
 ## 适用场景
 
-- 离开电脑时用手机继续监控和操作 OpenCode 编码任务
-- 定时或周期性让编码代理执行例行代码维护
-- 在手机上回答代理提问并批准权限请求
+- 离开电脑时用手机远程下发并监控 AI 编码任务
+- 通过 Telegram 管理多个 OpenCode 项目、会话与 worktree
+- 用定时任务在指定时间或周期性运行编码提示词
+- 以语音消息形式向编码代理下达指令
 
 ## 场景标签
 
@@ -37,21 +38,22 @@
 
 ## 证据(README 行号)
 
-> L10: OpenCode Telegram Bot is a secure Telegram client for OpenCode CLI that runs on your local machine.
-> L27: - **Remote coding** — send prompts to OpenCode from anywhere, receive complete results with code sent as files
+> L11: OpenCode Telegram Bot is a secure Telegram client for OpenCode CLI that runs on your local machine.
+> L13: Run AI coding tasks, monitor progress, switch models, and manage sessions from your phone.
+> L30: - **OpenCode V2 support** — works with the new OpenCode V2 as well as the classic V1; for setup details, see Old an
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "grinev/opencode-telegram-bot 星数(近 27 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 1257 --> 1381
-    line [1267, 1271, 1275, 1279, 1282, 1284, 1290, 1291, 1294, 1296, 1306, 1319, 1325, 1282, 1345, 1349, 1351, 1353, 1355, 1356, 1359, 1363, 1365, 1368, 1370, 1371, 1370]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 1261 --> 1381
+    line [1271, 1275, 1279, 1282, 1284, 1290, 1291, 1294, 1296, 1306, 1319, 1325, 1282, 1345, 1349, 1351, 1353, 1355, 1356, 1359, 1363, 1365, 1368, 1370, 1371, 1370, 1370]
 ```
 
-2026-10-21 1,267 → 2026-11-23 1,370（+103）
+2026-10-22 1,271 → 2026-11-24 1,370（+99）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7d61e1f0de02` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7184f4908993` · [字段定义](../../DATASET.md)*

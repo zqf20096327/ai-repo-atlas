@@ -4,7 +4,7 @@
 
 **让 AI agent 通过 MCP 访问 Azure DevOps 的服务器**
 
-微软维护的 MCP 服务器，通过 Model Context Protocol 让 AI agent 操作 Azure DevOps：列出项目、构建、仓库、工作项、测试计划、迭代、wiki，并支持创建和更新 wiki 页面。提供托管远程服务器（推荐，无需安装）与本地 stdio 服务器两种形态；本地服务器通过 npm 包 @azure-devops/mcp 运行，需 Node.js 20+，支持按域（core/work/pipelines 等）加载工具组。README 声明远程服务器未来将取代本地服务器，建议现有用户规划迁移。
+微软发布的 Azure DevOps MCP 服务器，通过 Model Context Protocol 将 Azure DevOps 的项目、工作项、代码仓库、构建流水线、测试计划、Wiki 等能力暴露给 AI agent。提供托管远程服务器（推荐）与本地 stdio 服务器两种运行方式；本地版按 core/work/pipelines 等 9 个领域加载工具以控制工具数量，需 Node.js 20 以上，经 npm 安装并在 VS Code 等客户端中配置。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@
 
 ## 能力要点
 
-- 提供远程托管与本地 stdio 两种 MCP 服务器形态
-- 覆盖工作项、仓库、管道、测试计划、wiki 等 Azure DevOps 操作
-- 本地服务器支持按域（9 个域）加载工具组以适配工具数量限制
-- 兼容 VS Code、Visual Studio 2022、Claude Code、Cursor 等多种 MCP 客户端
+- 通过 MCP 为 AI agent 提供 Azure DevOps REST API 的工具层
+- 提供托管远程服务器与本地 stdio 两种运行方式
+- 本地版支持 9 个领域（domains）按需加载工具组
+- 支持 npm 安装与 nightly 构建版本（@next）
 
 ## 适用场景
 
-- 在 VS Code 中用 Copilot Agent 模式查询和管理 Azure DevOps 工作项
-- 让 AI agent 读写项目 wiki 页面
-- 通过 stdio 本地连接在受限环境中接入 Azure DevOps
+- 在 VS Code Copilot Agent 模式下用自然语言查询项目、工作项与构建
+- 让 agent 读取和更新 Wiki 页面
+- 管理迭代与测试计划等工作项流程
+- 仅在需要本地 stdio 连接时运行本地服务器
 
 ## 场景标签
 
- · 领域:开发运维/DevOps 工具集成
+ · 领域:开发者工具/DevOps
 
 ## 证据(README 行号)
 
 > L8: This project gives AI agents access to Azure DevOps through the Model Context Protocol (MCP). Use the hosted remote 
 > L31: Each tool handles a focused Azure DevOps task. The server provides a thin layer over the REST APIs, while the AI ag
+> L37: The remote server will eventually replace the local server. The local server remains supported, but new development
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "microsoft/azure-devops-mcp 星数(近 20 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    title "microsoft/azure-devops-mcp 星数(近 21 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 2056 --> 2097
-    line [2059, 2060, 2062, 2065, 2067, 2068, 2070, 2072, 2075, 2074, 2067, 2083, 2085, 2087, 2086, 2087, 2089, 2091, 2092, 2094]
+    line [2059, 2060, 2062, 2065, 2067, 2068, 2070, 2072, 2075, 2074, 2067, 2083, 2085, 2087, 2086, 2087, 2089, 2091, 2092, 2094, 2094]
 ```
 
-2026-10-20 2,059 → 2026-11-23 2,094（+35）
+2026-10-21 2,059 → 2026-11-24 2,094（+35）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9659381ba16b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0702c5182ef4` · [字段定义](../../DATASET.md)*

@@ -40,6 +40,18 @@
 > L20: **Dev MCP Suite** is a suite of four local, zero-telemetry MCP (Model Context Protocol) servers built for solo deve
 > L54: |🛰️ **`armada`** *(opsional)*|**Fleet Ops Control Plane**: Watch heartbeats and enqueue policy-gated jobs on many h
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MaximaLabs/dev-mcp-suite 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 95 --> 97
+    line [96, 96]
+```
+
+2026-11-23 96 → 2026-11-24 96（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `350f2eda57bc` · [字段定义](../../DATASET.md)*

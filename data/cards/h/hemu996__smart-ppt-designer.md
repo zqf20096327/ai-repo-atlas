@@ -41,6 +41,18 @@
 > L7: **一句话：你给 PDF / DOCX / 旧 PPT / 参考图，它产出一份评委愿意看完、每个字都能在 PowerPoint 里直接改的演示稿——不做图片拼贴、不套固定模板、封面自动用 AI 书法烫金。**
 > L125: - **Python 3.9+**：脚本主语言
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hemu996/smart-ppt-designer 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
+```
+
+2026-11-23 22 → 2026-11-24 22（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `bedd8859634e` · [字段定义](../../DATASET.md)*

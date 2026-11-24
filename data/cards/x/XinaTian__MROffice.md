@@ -42,6 +42,18 @@
 > L49: AI apps open, read, edit and export documents in the real MR Office editor through its MCP server: connect the host
 > L57: The six editors in this repository can be built into your own product under the AGPL-3.0: if people use a modified 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "XinaTian/MROffice 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2069 --> 2071
+    line [2070, 2070]
+```
+
+2026-11-23 2,070 → 2026-11-24 2,070（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `05d87789ce8a` · [字段定义](../../DATASET.md)*

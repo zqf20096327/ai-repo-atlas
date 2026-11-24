@@ -46,12 +46,12 @@ Clearforge 将本地文本与对话数据集经过校验、去重、tokenization
 ```mermaid
 xychart-beta
     title "Sidiora-Labs/llm-training-clearforge 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-21 5 → 2026-11-23 5（+0）
+2026-10-22 5 → 2026-11-24 5（+0）
 
 
 ---

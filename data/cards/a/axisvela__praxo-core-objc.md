@@ -41,6 +41,18 @@ PRAXO-CORE 的 Objective-C 实现源码镜像仓库（源标签 objc/v0.7.0）�
 > L3: Objective-C is a native Core implementation with source tag `objc/v0.7.0`. It passes all eleven shared vector groups
 > L22: - OpenAI-compatible model: native
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axisvela/praxo-core-objc 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9d4f386b2362` · [字段定义](../../DATASET.md)*

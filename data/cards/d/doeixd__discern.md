@@ -46,12 +46,12 @@ TypeScript 库，构建在 Effect v4 的 Decision/DecisionModel 之上，提供�
 ```mermaid
 xychart-beta
     title "doeixd/discern 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-21 17 → 2026-11-23 17（+0）
+2026-10-22 17 → 2026-11-24 17（+0）
 
 
 ---

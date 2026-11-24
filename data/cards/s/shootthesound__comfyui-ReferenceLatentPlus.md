@@ -44,13 +44,13 @@ ComfyUI 内置 ReferenceLatent 节点的替代节点，面向使用参考图做�
 
 ```mermaid
 xychart-beta
-    title "shootthesound/comfyui-ReferenceLatentPlus 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-23"]
+    title "shootthesound/comfyui-ReferenceLatentPlus 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-24"]
     y-axis "stars" 34 --> 38
-    line [35, 36, 35, 36, 37, 37]
+    line [36, 35, 36, 37, 37]
 ```
 
-2026-10-21 35 → 2026-11-23 37（+2）
+2026-10-22 36 → 2026-11-24 37（+1）
 
 
 ---

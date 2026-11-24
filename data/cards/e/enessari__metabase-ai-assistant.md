@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "enessari/metabase-ai-assistant 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 46 --> 50
-    line [49, 48, 47, 47]
+    title "enessari/metabase-ai-assistant 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 46 --> 49
+    line [48, 47, 47]
 ```
 
-2026-10-21 49 → 2026-11-23 47（-2）
+2026-10-22 48 → 2026-11-24 47（-1）
 
 
 ---

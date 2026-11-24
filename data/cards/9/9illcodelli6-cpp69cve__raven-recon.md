@@ -45,13 +45,13 @@ RAVEN Recon 是一个安全测试工作台：按程序划分工作区并强制�
 
 ```mermaid
 xychart-beta
-    title "9illcodelli6-cpp69cve/raven-recon 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    title "9illcodelli6-cpp69cve/raven-recon 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 3 --> 7
-    line [4, 5, 6]
+    line [4, 5, 6, 6]
 ```
 
-2026-11-21 4 → 2026-11-23 6（+2）
+2026-11-21 4 → 2026-11-24 6（+2）
 
 
 ---

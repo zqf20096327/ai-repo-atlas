@@ -41,6 +41,18 @@
 > L9: runtime. It talks to the model through a **command adapter**: a command template you supply,
 > L21: time. That is what this kit provides.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/local-slm-eval-kit 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `044626025945` · [字段定义](../../DATASET.md)*

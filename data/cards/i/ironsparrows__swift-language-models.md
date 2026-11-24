@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ironsparrows/swift-language-models 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-23"]
+    x-axis ["2026-11-08", "2026-11-24"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-08 24 → 2026-11-23 24（+0）
+2026-11-08 24 → 2026-11-24 24（+0）
 
 
 ---

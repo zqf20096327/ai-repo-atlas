@@ -1,10 +1,10 @@
 # XHToken/Spark-X2.6
 
-⭐ 932 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/XHToken/Spark-X2.6) · [官网](https://xhtoken.ai/) · 组织维护 · 中文 README
+⭐ 932 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/XHToken/Spark-X2.6) · [官网](https://xhtoken.ai/) · 组织维护
 
-**4B 参数开源 LLM 系列，面向端侧 agent 与编码任务**
+**端侧部署的开源 LLM 系列（4B/1.7B），面向开发者**
 
-Spark-X2.6-4B 是 SparkLLM Team 发布的 4B 参数通用语言模型，架构与 Spark-X2.5-4B 相同，通过改进的后训练提升编码、agent 工作流、长上下文与多语言能力。提供三档可配置思考预算（none/low/high）以平衡推理质量与延迟。模型在 Hugging Face、ModelScope、Ollama 等平台发布，README 给出 Transformers、SGLang、vLLM、MLX、llama.cpp、Ollama、LM Studio、Unsloth 等多种推理方式，支持 NVIDIA GPU 与 Ascend NPU，Apache 2.0 许可，推荐 Llama-Factory 微调。
+Spark-X26 是面向端侧（on-device）部署的开源语言模型系列，含 4B 与 1.7B 两个规格，架构延续 Spark-X2.5，通过后训练提升编码、agent 工具调用、长上下文与多语言能力。README 提供 Hugging Face/ModelScope/Ollama 下载渠道，并给出 Transformers、SGLang、vLLM、MLX、llama.cpp、LM Studio 等多种本地推理部署方式，支持 NVIDIA GPU 与华为 Ascend NPU，模型采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ Spark-X2.6-4B 是 SparkLLM Team 发布的 4B 参数通用语言模型，架构�
 
 ## 能力要点
 
-- 4B 参数端侧模型，架构沿用 Spark-X2.5-4B，经改进后训练获得能力提升
-- 三档思考预算（none/low/high）可动态平衡推理与延迟
-- 覆盖 Transformers/SGLang/vLLM/MLX/llama.cpp/Ollama/LM Studio 等多种推理途径
-- 支持 NVIDIA GPU 与华为昇腾 NPU 部署
+- 提供 4B 与 1.7B 两个规格的端侧模型
+- 三档思考预算（none/low/high）可配置
+- 支持 Transformers/SGLang/vLLM/MLX/llama.cpp/Ollama/LM Studio 多种运行方式
+- 支持 NVIDIA GPU 与 Ascend NPU 部署
 
 ## 适用场景
 
-- 在本地或端侧设备上运行支持工具调用与多步规划的 agent
-- 搭建本地 OpenAI 兼容推理服务（SGLang/vLLM/llama.cpp）
-- 资源受限环境下的编码与长上下文任务
+- 在本地设备上运行 LLM 做 agent 工具调用与编码任务
+- 在 NVIDIA GPU 或 Ascend NPU 服务器上部署 OpenAI 兼容 API
+- 用 MLX 或 llama.cpp 在 Apple Silicon/本地环境做推理
 
 ## 场景标签
 
- · 领域:AI 模型/自然语言处理
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L15: A little over a month has passed since Spark-X2.5. In the rapidly evolving world of AI agents, that is enough time 
-> L17: Spark-X2.6-4B retains exactly the same architecture as Spark-X2.5-4B, achieving its capability gains through improv
+> L1: Spark-X2.6-4B & 1.7B: Advancing the Frontier of On-Device Agents for Real-World Tasks
+> L19: Building on the Spark-X2.5, we introduce **Spark-X2.6-4B&1.7B**, the latest generation of our compact, general-purp
+> L31: ## Model Downloads
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "XHToken/Spark-X2.6 星数(近 24 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "XHToken/Spark-X2.6 星数(近 25 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 815 --> 942
-    line [825, 833, 841, 842, 845, 854, 859, 864, 872, 873, 877, 842, 900, 903, 904, 907, 910, 913, 916, 919, 921, 925, 928, 932]
+    line [825, 833, 841, 842, 845, 854, 859, 864, 872, 873, 877, 842, 900, 903, 904, 907, 910, 913, 916, 919, 921, 925, 928, 932, 932]
 ```
 
-2026-10-22 825 → 2026-11-23 932（+107）
+2026-10-22 825 → 2026-11-24 932（+107）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `b5684203c473` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `3f68ffd2447c` · [字段定义](../../DATASET.md)*

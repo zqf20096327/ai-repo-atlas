@@ -45,12 +45,12 @@ Floid 是一个基于 Next.js 15 与 Supabase 构建的线程式提示词分享�
 ```mermaid
 xychart-beta
     title "divyanshudhruv/floid 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-21 15 → 2026-11-23 15（+0）
+2026-10-22 15 → 2026-11-24 15（+0）
 
 
 ---

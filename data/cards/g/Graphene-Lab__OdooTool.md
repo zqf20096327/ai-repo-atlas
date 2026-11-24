@@ -46,12 +46,12 @@ OdooTool 是运行在 AgentBridge 宿主内的插件，将 agent 的决策转换
 ```mermaid
 xychart-beta
     title "Graphene-Lab/OdooTool 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-23"]
+    x-axis ["2026-11-19", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-23 3（+0）
+2026-11-19 3 → 2026-11-24 3（+0）
 
 
 ---

@@ -45,12 +45,12 @@ OpenClaw 的 Bitrix24 渠道插件与配套技能：在 Bitrix24 门户自动注
 ```mermaid
 xychart-beta
     title "rsvbitrix/openclaw-bitrix24 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-21 12 → 2026-11-23 12（+0）
+2026-10-22 12 → 2026-11-24 12（+0）
 
 
 ---

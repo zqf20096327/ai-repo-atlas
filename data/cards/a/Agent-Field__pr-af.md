@@ -2,9 +2,9 @@
 
 ⭐ 668 · Go · 推送 2026-11-13 · [GitHub](https://github.com/Agent-Field/pr-af) · [官网](https://www.agentfield.ai) · 组织维护
 
-**面向 CI/CD 的开源 Agentic 代码审查工具，基于 AgentField**
+**基于 AgentField 的开源 PR 代码审查 agent，供 CI 使用**
 
-PR-AF 是构建在 AgentField 控制平面上的开源 agentic 代码审查节点：将每个 PR 转为任务专属审查计划，动态派生多个专职审查 agent，对发现做代码证据落地与可证伪校验后，以行内评论形式发布到 GitHub。通过 OpenRouter 路由模型，可用低成本模型跑常规 PR、更强模型跑高风险 PR；单次审查典型耗时 35-50 分钟，含成本与时长上限配置。提供 af install、Railway 一键部署、Docker Compose 本地运行与 GitHub Actions 集成四种方式。
+PR-AF 是构建在 AgentField 控制平面之上的 agentic 代码审查节点：将每个 Pull Request 编译为任务化审查计划，生成专门的临时 reviewer agent，按 7 阶段自适应流水线执行，含证据溯源（拉取调用方代码片段验证发现）、跨文件复合风险合成、可证伪性门控等机制，最终在 GitHub 上发布带 file/line/evidence 的评论。面向需要 CI/CD 深度审查门禁的团队，通过 af CLI、curl、Railway、Docker Compose 或 GitHub Actions 触发，单次审查约 35-50 分钟。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ PR-AF 是构建在 AgentField 控制平面上的开源 agentic 代码审查节�
 
 ## 能力要点
 
-- 动态编译审查维度并派生临时专职 reviewer agent 的多阶段流水线
-- 发现须通过证据落地（Evidence Grounding）与可证伪门（Falsifiability Gates）才输出
-- 经 OpenRouter 按需选择模型，支持成本/时长上限等环境变量配置
-- 提供 af install、Railway 部署、Docker Compose 与 GitHub Actions 集成
+- 7 阶段自适应流水线：按 PR 拓扑动态生成审查维度与临时 reviewer agent
+- 证据溯源与可证伪性门控：发现需通过代码级验证才发布为评论
+- 模型可分级：常规 PR 用低成本模型，重要 PR 换 GLM-5.2 或 Opus 级模型
+- 支持 CLI/curl/CI/Railway/GitHub Actions 多种触发方式
 
 ## 适用场景
 
-- 在 CI/CD 中对 PR 做深度架构级审查门禁
-- 以行内评论形式在 GitHub PR 上发布带证据的发现
-- 按风险级别切换不同成本的模型执行审查
+- 作为 GitHub Actions 的 PR 审查门禁，打标签即自动触发
+- 自托管代码审查 API，供 CI 或其他 agent 调用
+- 在合并前做跨文件的复合风险与架构级审查
 
 ## 场景标签
 
@@ -37,22 +37,22 @@ PR-AF 是构建在 AgentField 控制平面上的开源 agentic 代码审查节�
 
 ## 证据(README 行号)
 
-> L17: PR-AF is the **#1 open-source code reviewer on Martian Code-Review-Bench**. It is built
-> L19: review plan, spawn focused reviewer agents, ground findings in code evidence, challenge
-> L129: af run pr-af
+> L18: for deep code review, not shallow diff summaries: turn each PR into a task-specific
+> L40: |**Self-hosted API**|Run locally with Docker; trigger reviews by CLI, curl, CI, or other agents.|
+> L78: When a PR arrives, the system dynamically compiles review dimensions — evaluating the diff through semantic, mechan
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Agent-Field/pr-af 星数(近 13 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-20", "2026-11-23"]
-    y-axis "stars" 654 --> 669
-    line [655, 657, 656, 657, 659, 662, 656, 663, 664, 665, 666, 668, 668]
+    title "Agent-Field/pr-af 星数(近 12 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-20", "2026-11-24"]
+    y-axis "stars" 655 --> 669
+    line [657, 656, 657, 659, 662, 656, 663, 664, 665, 666, 668, 668]
 ```
 
-2026-10-21 655 → 2026-11-23 668（+13）
+2026-10-22 657 → 2026-11-24 668（+11）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b7e6b2dd23af` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `bf57aa6891de` · [字段定义](../../DATASET.md)*

@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "danielarum740-lab/coregold-usdt-vcc-apple-wallet-face-id-pay-guide 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-24"]
     y-axis "stars" 6 --> 22
     line [7, 21, 21]
 ```
 
-2026-11-20 7 → 2026-11-23 21（+14）
+2026-11-20 7 → 2026-11-24 21（+14）
 
 
 ---

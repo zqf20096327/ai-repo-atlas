@@ -41,6 +41,18 @@
 > L18: - **Sorts the library.** A local vision model (default `qwen3-vl:8b` on
 > L25:  files, same picture. They are matched by a 256-bit perceptual hash of the
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ixiondt/photosweep 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `ab33ed97b8df` · [字段定义](../../DATASET.md)*

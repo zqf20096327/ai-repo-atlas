@@ -2,9 +2,9 @@
 
 ⭐ 663 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
 
-**AI DIAL 核心组件：为多种 LLM 与应用提供统一 API 的 HTTP 代理**
+**为开发者统一代理各类聊天补全与嵌入模型的 API 网关**
 
-用 Java 21 基于 Eclipse Vert.x 编写的 HTTP 代理服务，向不同的 chat completion 与 embedding 模型、助手及应用暴露统一 API。提供自动生成的 OpenAPI 3.0 规范描述全部 REST 端点；通过 Gradle 构建运行，需配置 GitHub 凭据访问 JClouds 包；支持以 Helm chart 部署到 Kubernetes。配置分为静态与动态两类，覆盖出站代理、身份提供方（JWKS）、分析日志、OpenTelemetry 追踪、MCP 客户端等；标记 x-preview 的端点为实验性且不保证向后兼容。
+AI DIAL 的核心组件：HTTP 代理服务，向上游暴露统一 API 以访问不同聊天补全与嵌入模型、助手和应用。以 Java 25 编写，构建于 Eclipse Vert.x 之上，自动生成 OpenAPI 3.0 规范描述全部 REST 端点。支持 Gradle 源码构建运行、IDE 运行和 Kubernetes 上的 Helm 部署；提供静态（启动时）与动态两类配置，覆盖插件加载、HTTP 服务器实例数、代理、API key 校验、分析与 OTel 追踪等设置。构建需提供 GitHub 凭据以访问 JClouds 包。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 统一 API 代理多种 chat completion / embedding 模型、助手与应用
-- 从源码自动生成的 OpenAPI 3.0 规范（docs/open_api_core.yaml）
-- 支持 Kubernetes Helm 部署（umbrella dial chart 或单独 dial-core chart）
-- 静态/动态双层配置，覆盖身份提供方、出站代理、OTel 追踪、MCP 客户端等
+- 统一 API 代理聊天补全、嵌入模型、助手与应用
+- 源码自动生成 OpenAPI 3.0 规范，实验端点以 x-preview 标注
+- 静态/动态配置体系与插件目录加载机制
+- OTel GenAI 语义约定追踪与请求头/claims 采集
 
 ## 适用场景
 
-- 在企业内统一接入多家模型供应商的 API
-- 为 DIAL 生态提供核心网关组件
-- 在 Kubernetes 集群上部署模型代理并配置身份认证
+- 在企业内部为多个模型与应用提供统一访问入口
+- 在 Kubernetes 上以 Helm 部署 DIAL 组件栈
+- 为模型调用配置代理、鉴权与追踪策略
 
 ## 场景标签
 
@@ -38,20 +38,21 @@
 ## 证据(README 行号)
 
 > L16: > HTTP Proxy provides unified API to different chat completion and embedding models and applications.
-> L17: > Written in Java 21 and built on top of Eclipse Vert.x.
+> L17: > Written in Java 25 and built on top of Eclipse Vert.x.
+> L64: Build the project with Gradle and Java 25:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "epam/ai-dial-core 星数(近 6 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-24"]
     y-axis "stars" 660 --> 664
     line [663, 661, 662, 661, 663, 663]
 ```
 
-2026-10-20 663 → 2026-11-23 663（+0）
+2026-10-21 663 → 2026-11-24 663（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d0e45c06697e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `605518507a63` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,071 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google/adk-web) · [官网](https://google.github.io/adk-docs/) · 组织维护
 
-**Google ADK 内置的开发者 Web UI，用于 agent 开发调试**
+**ADK 内置的 agent 开发调试 Web UI**
 
-Google Agent Development Kit (ADK) 自带的前端开发者界面，供开发者在浏览器中开发与调试 AI agent，包含事件查看、Tracing、Artifacts、Evaluations 评测与 Agent builder/assistant 等视图。属于 ADK 框架的组成部分，需配合 google-adk（Python/Java）后端运行：前端用 npm install 与 npm run serve 启动 Angular 开发服务器，后端用 adk web 命令启动，开发服务器将 API 请求代理至后端。注意该项目处于 Pre-GA 阶段，按 Pre-GA 条款提供且支持有限。
+Google Agent Development Kit 的内置开发者界面，以 Angular 前端形式随 ADK 提供，用于 agent 的开发与调试。界面功能覆盖事件查看、Tracing 追踪、Artifacts 与 Evaluations 评估等模块。前端通过 dev server 将 API 调用代理到后端，前后端端口可分离配置（ADK_BACKEND/--port），支持连接远程后端。需 Node.js/npm/Angular CLI 环境及 Python 或 Java 版 google-adk 配合运行。当前为 Pre-GA 阶段功能。
 
 ## 筛选速览
 
@@ -20,19 +20,19 @@ Google Agent Development Kit (ADK) 自带的前端开发者界面，供开发者
 
 ## 能力要点
 
-- 提供事件、Tracing、Artifacts、评测等调试视图
-- 支持自定义前后端端口与远程后端（ADK_BACKEND 环境变量）
-- Angular 前端 + adk web 后端，API 经开发服务器同源代理
+- 与 ADK 集成的内置开发调试 UI
+- 提供事件、Tracing、Artifacts、Evaluations 等界面模块
+- dev server 代理 API 调用，前后端端口可分离并支持远程后端
 
 ## 适用场景
 
-- 在浏览器中调试基于 ADK 构建的 agent
-- 查看 agent 运行事件、追踪与评测结果
-- 通过 Agent builder 界面搭建 agent
+- 本地开发 ADK agent 时进行交互调试
+- 通过 tracing 查看 agent 执行链路
+- 对 agent 运行做事件与评估检查
 
 ## 场景标签
 
-`LLM 可观测性` `模型评测` · 领域:评测与运维
+`LLM 可观测性` · 领域:评测与运维
 
 ## 证据(README 行号)
 
@@ -45,13 +45,13 @@ Google Agent Development Kit (ADK) 自带的前端开发者界面，供开发者
 ```mermaid
 xychart-beta
     title "google/adk-web 星数(近 16 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-24"]
     y-axis "stars" 1054 --> 1072
     line [1055, 1058, 1059, 1060, 1058, 1059, 1058, 1059, 1060, 1059, 1064, 1066, 1068, 1070, 1071, 1071]
 ```
 
-2026-10-20 1,055 → 2026-11-23 1,071（+16）
+2026-10-21 1,055 → 2026-11-24 1,071（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d6353979872e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `762178e5d92f` · [字段定义](../../DATASET.md)*

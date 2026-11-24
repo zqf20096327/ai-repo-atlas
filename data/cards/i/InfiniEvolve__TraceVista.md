@@ -41,6 +41,18 @@ TraceVista 将 agent 会话日志（如 Claude Code、Codex、Pi 的 session log
 > L114: Works with **Claude Code, Codex, and Pi** session logs, **InferenceBench** traces, and **SWE-rebench OpenHands** t
 > L159: Connect Claude, OpenAI, Gemini, DeepSeek, Kimi, GLM, Qwen, MiniMax, OpenRouter, or your own compatible endpoint. L
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "InfiniEvolve/TraceVista 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 95 --> 97
+    line [96, 96]
+```
+
+2026-11-23 96 → 2026-11-24 96（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b63e2d5a233a` · [字段定义](../../DATASET.md)*

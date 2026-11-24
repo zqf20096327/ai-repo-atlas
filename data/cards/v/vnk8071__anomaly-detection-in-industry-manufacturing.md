@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vnk8071/anomaly-detection-in-industry-manufacturing 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 109 --> 113
-    line [110, 111, 112, 112]
+    title "vnk8071/anomaly-detection-in-industry-manufacturing 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 110 --> 113
+    line [111, 112, 112]
 ```
 
-2026-10-21 110 → 2026-11-23 112（+2）
+2026-10-22 111 → 2026-11-24 112（+1）
 
 
 ---

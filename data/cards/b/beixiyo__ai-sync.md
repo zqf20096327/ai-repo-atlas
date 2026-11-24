@@ -40,6 +40,18 @@
 > L15: 自动化将 Claude 配置迁移到不同 AI IDE 工具的脚本
 > L44: npm i -g @jl-org/ai-sync
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "beixiyo/ai-sync 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e6d6e52e53c1` · [字段定义](../../DATASET.md)*

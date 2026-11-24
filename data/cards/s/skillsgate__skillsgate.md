@@ -2,9 +2,9 @@
 
 ⭐ 1,456 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/skillsgate/skillsgate) · [官网](https://skillsgate.ai/) · 组织维护
 
-**可视化 AI agent 技能管理器：浏览/安装/管理 20+ agent 的技能**
+**AI agent 技能的可视化管理桌面应用**
 
-面向使用 AI agent 的用户的桌面应用（Electron），集成 skills.sh 公共技能目录，可在单一界面浏览、搜索、一键安装技能到任意 agent 组合，并支持按 agent 分别管理、内置 CodeMirror 编辑器、SSH 远程同步、私有技能与本地 SQLite 存储。兼容 Claude Code、Cursor、GitHub Copilot 等 25 个 agent。提供 macOS/Windows/Linux 安装包；早期终端 UI（npm 包）已弃用，改用桌面应用。
+跨平台桌面应用，用于浏览、安装和管理 AI agent 的技能文件：集成 skills.sh 公共技能目录供搜索与发现，可按 agent 单独或批量安装/卸载技能，内置 CodeMirror 编辑器查看与修改技能源文件，支持经 SSH 连接远程机器同步技能，数据存于本地 SQLite，无需账号。支持 20+ 个 agent（Claude Code、Cursor、Windsurf、GitHub Copilot 等），提供 macOS/Windows/Linux 安装包；早期 npm 终端 UI 版本已弃用。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 支持 25 个 agent 的技能安装与管理
-- 集成 skills.sh 公共技能目录的浏览与搜索
-- 内置编辑器、SSH 远程同步、私有技能与收藏功能
-- 本地优先：设置存于本地 SQLite，无需账号
+- 集成 skills.sh 公共技能目录，应用内浏览与搜索
+- 对 20+ 个 agent 按目标单独或批量安装/移除技能
+- 内置 CodeMirror 编辑器，修改即时写盘
+- SSH 连接远程机器浏览与同步技能
 
 ## 适用场景
 
-- 我想不用手动复制 markdown 就能给多个 agent 装技能
-- 统一管理不同 agent 上已安装的技能
-- 团队内共享私有技能并在远程机器间同步
+- 在多个 agent 之间统一安装和管理技能，替代手动复制 markdown 文件
+- 为团队维护共享的私有技能库
+- 通过 SSH 管理多台机器上的 agent 技能
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+ · 领域:AI 工具/开发效率
 
 ## 证据(README 行号)
 
 > L7:  Visual skill manager for AI agents.
 > L20: SkillsGate lets you browse, install, and manage AI agent skills from a single interface. It works with 20+ agents a
-> L36: Claude Code, Cursor, Windsurf, GitHub Copilot, Cline, Continue, Codex CLI, Droid CLI, OB-1, Amp, Goose, Junie, Kilo
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "skillsgate/skillsgate 星数(近 19 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 1393 --> 1461
-    line [1398, 1401, 1404, 1406, 1413, 1418, 1421, 1423, 1404, 1431, 1433, 1434, 1435, 1439, 1441, 1442, 1444, 1448, 1456]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 1396 --> 1461
+    line [1401, 1404, 1406, 1413, 1418, 1421, 1423, 1404, 1431, 1433, 1434, 1435, 1439, 1441, 1442, 1444, 1448, 1456, 1456]
 ```
 
-2026-10-21 1,398 → 2026-11-23 1,456（+58）
+2026-10-22 1,401 → 2026-11-24 1,456（+55）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `a53f3b8da5c9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `cb23f1fa2265` · [字段定义](../../DATASET.md)*

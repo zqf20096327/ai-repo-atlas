@@ -2,9 +2,9 @@
 
 ⭐ 705 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/interfere-inc/landmines) · [官网](https://www.npmjs.com/package/@interfere/landmines) · 组织维护
 
-**约束 AI 生成代码诚实性的 Oxlint 规则集**
+**面向 AI 生成代码的 Oxlint 规则集：约束测试真实性与代码规范**
 
-面向 Oxlint 的 lint 插件包，针对编码 agent 为通过 CI 而采取的取巧行为提供静态检查规则：禁止测试中的模块 mock、固定 sleep、轮询竞态、重试掩盖 flake、抬高超时；另含风格（禁散文注释）、结构（测试同置、测试文件命名、显式导出）与类型（禁显式返回类型）四类插件。每条规则失败时给出替代做法提示，部分规则支持按文件精确计数的 allowlist 以便渐进采用。要求 Oxlint 1.81+ 与 Node 22.18+，通过 bun/npm 安装后在 .oxlintrc.json 中扩展推荐配置使用。
+一组 Oxlint 插件规则，针对 coding agent 产出代码中的常见做法：测试中替换被测依赖（mock/stub）、固定 sleep 等待竞态、失败重试与提高超时掩盖 flake、无信息注释、测试文件位置与命名随意、包导出无入口约束等。每条规则失败时给出替代做法的提示，使修复在同一反馈闭环内完成。支持按文件精确计数的 allowlist 逐量收紧，需 Oxlint 1.81+ 与 Node 22.18+，MIT 许可。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- testing 规则禁止 mock/stub、固定 sleep、竞态轮询、重试与超时掩盖
-- 规则支持按文件精确计数的 allowlist，且违规少于配额时报错以便收紧
-- 四个插件分组：testing/style/structure/types
-- 每条 lint 报错附带应采取的替代做法说明
+- 4 个插件：testing/style/structure/types 共 10 条规则
+- no-flake-masking 禁止测试重试与提高超时，allowlist 支持只减不增的收紧模式
+- strict-msw 要求 MSW 未处理请求报错，防止未 mock 请求到达真实网络
+- 规则失败消息直接告知 agent 或人应如何修复
 
 ## 适用场景
 
-- 在 CI 中拦截编码 agent 用 mock 或 sleep 糊弄测试的代码
-- 渐进治理存量代码库中的 flaky 测试
-- 约束 AI 生成代码的注释、测试组织与导出规范
+- 让 coding agent 写出的测试使用真实实现而非 mock 一切
+- 治理已有代码库中的 flaky 测试并逐量收紧
+- 约束测试文件命名、位置与包的公开入口
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+ · 领域:开发者工具/代码质量
 
 ## 证据(README 行号)
 
 > L3: Oxlint rules that keep AI-written code honest.
 > L5: Coding agents are fast, and they optimise for green checks. Left alone, they
+> L10: `landmines` makes the honest path the only one that lints. Each rule fails
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "interfere-inc/landmines 星数(近 9 点)"
-    x-axis ["2026-10-30", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "interfere-inc/landmines 星数(近 10 点)"
+    x-axis ["2026-10-30", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 0 --> 775
-    line [4, 5, 6, 45, 569, 680, 696, 698, 705]
+    line [4, 5, 6, 45, 569, 680, 696, 698, 705, 705]
 ```
 
-2026-10-30 4 → 2026-11-23 705（+701）
+2026-10-30 4 → 2026-11-24 705（+701）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `dc668dea8d3b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4fb39d218216` · [字段定义](../../DATASET.md)*

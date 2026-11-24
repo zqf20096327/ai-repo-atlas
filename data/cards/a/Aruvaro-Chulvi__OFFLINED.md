@@ -42,6 +42,18 @@
 > L51: - **🤖 Michael Encartha, your local AI** — chat, study agents and answers that cite the Wikipedia articles they come
 > L93: Offlined's own source code is not public, but **the sister projects are open to everyone**. You don't need to be a 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aruvaro-Chulvi/OFFLINED 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 53 --> 55
+    line [54, 54]
+```
+
+2026-11-23 54 → 2026-11-24 54（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `35c708ce8094` · [字段定义](../../DATASET.md)*

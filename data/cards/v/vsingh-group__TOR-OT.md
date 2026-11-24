@@ -41,6 +41,18 @@ NeurIPS 2026 论文的官方实现：将离散最优传输建模为序列生成�
 > L35: * **Output.** The plan is generated one row at a time, and each row is conditioned on the rows before it.
 > L90: |`torot/configs/torot_1d.yaml`|`ivanjaenm/torot-1d`|`ivanjaenm/torot_data_5M`|8 GPUs, 203,000 steps|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "vsingh-group/TOR-OT 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2a41fc5a3588` · [字段定义](../../DATASET.md)*

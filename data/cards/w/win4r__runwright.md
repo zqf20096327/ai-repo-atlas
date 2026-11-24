@@ -42,6 +42,18 @@
 > L10: interface (Anthropic Messages, any OpenAI-compatible Chat Completions server, or a deterministic offline
 > L178: - **One store, one journal per run.** Agents, revisions, runs, commands, pendings, usage, learning items, triggers
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "win4r/runwright 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-23 6 → 2026-11-24 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a4890c4f992b` · [字段定义](../../DATASET.md)*

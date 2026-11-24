@@ -2,9 +2,9 @@
 
 ⭐ 898 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/microsoft/typeagent-py) · 组织维护
 
-**微软的结构化 RAG 原型库：数据摄取、索引与查询**
+**面向开发者的结构化 RAG Python 库：摄入、索引、查询**
 
-微软开源的实验性 Python 库，目标是将 TypeScript 版 TypeAgent KnowPro 及相关包转译为 Python，探索结构化 RAG 的共享 MVP 形态。定位为示例代码与进行中项目，README 未给出完整 API 细节，文档位于 docs 目录。通过 pip 安装。注意事项：该库会把输入发送给第三方托管的 LLM，README 明确警告不要用于索引机密信息。另有 PyBay '25 演讲幻灯片与视频资料。
+微软 TypeAgent KnowPro 从 TypeScript 到 Python 的进行中翻译，以实验性原型和示例代码形式提供，目标是形成结构化 RAG MVP 的共同理解。通过 pip 安装，要求 Python 3.13+，文档位于 docs 目录，并附 PyBay '25 的幻灯片与视频。README 明确警告：该库会把输入发送到第三方托管的 LLM，不应索引导机密信息。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- TypeAgent KnowPro 的 TypeScript 到 Python 转译
-- 覆盖结构化 RAG 的摄取、索引、查询环节
-- pip 一键安装，附带 docs 目录文档
+- TypeAgent KnowPro 的 Pythonic 翻译（进行中）
+- pip install typeagent 快速安装，要求 Python 3.13+
+- 库会将输入发送到第三方托管的 LLM（README 明确警告）
+- 提供 PyBay '25 幻灯片（PPT/PDF）与视频
 
 ## 适用场景
 
-- 搭建结构化 RAG 原型进行实验
-- 了解结构化 RAG MVP 的设计思路
-- 参考 Pythonic 的 agent 知识处理实现
+- 探索结构化 RAG 的 MVP 设计与实现方式
+- 以 Python 使用 TypeAgent KnowPro 的相关功能
+- 试点阶段处理非机密数据的索引与查询实验
 
 ## 场景标签
 
@@ -38,19 +39,20 @@
 
 > L5: Working toward a shared understanding of the MVP for structured RAG.
 > L9: This is an in-progress project aiming at a Pythonic translation of
+> L15: This library will send its input to an LLM hosted by a third party.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "microsoft/typeagent-py 星数(近 9 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-26", "2026-10-30", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-24"]
     y-axis "stars" 891 --> 899
     line [892, 894, 893, 894, 895, 894, 896, 898, 898]
 ```
 
-2026-10-20 892 → 2026-11-23 898（+6）
+2026-10-21 892 → 2026-11-24 898（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `f788077498a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `622adf49b16f` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ Go 编写的反向代理，通过 OpenCode 同款 OAuth 设备流认证 GitHub C
 ```mermaid
 xychart-beta
     title "privapps/github-copilot-svcs 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-21 61 → 2026-11-23 61（+0）
+2026-10-22 61 → 2026-11-24 61（+0）
 
 
 ---

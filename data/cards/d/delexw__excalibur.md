@@ -45,12 +45,12 @@ Excalibur CLI 是协调多个已安装的 agent CLI（通过 agents.json 配置�
 ```mermaid
 xychart-beta
     title "delexw/excalibur 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-21 13 → 2026-11-23 13（+0）
+2026-10-22 13 → 2026-11-24 13（+0）
 
 
 ---

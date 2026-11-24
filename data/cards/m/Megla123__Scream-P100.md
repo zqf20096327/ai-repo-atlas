@@ -45,13 +45,13 @@ Strata split engine (strata-split-2) 到 NVIDIA Tesla P100 (Pascal, sm_60) 的�
 
 ```mermaid
 xychart-beta
-    title "Megla123/Scream-P100 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "Megla123/Scream-P100 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 7 --> 15
-    line [8, 9, 12, 14]
+    line [8, 9, 12, 14, 14]
 ```
 
-2026-11-20 8 → 2026-11-23 14（+6）
+2026-11-20 8 → 2026-11-24 14（+6）
 
 
 ---

@@ -47,12 +47,12 @@ SYNAPSE 将本地聊天、模型控制、硬件监控与 OpenAI 兼容 API 集�
 ```mermaid
 xychart-beta
     title "appatalks/Synapse 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-23"]
+    x-axis ["2026-11-20", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-23 3（+0）
+2026-11-20 3 → 2026-11-24 3（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Apache NetBeans 的 AI 插件，接入 Google Gemini（基于 gemini-java-client
 ```mermaid
 xychart-beta
     title "anahata-os/anahata-netbeans-ai 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-20 40 → 2026-11-23 40（+0）
+2026-10-21 40 → 2026-11-24 40（+0）
 
 
 ---

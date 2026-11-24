@@ -46,12 +46,12 @@ Splunk 平台的自定义可视化应用，基于 ThreeJS/WebGL 以力导向图�
 ```mermaid
 xychart-beta
     title "splunk/splunk-3D-graph-network-topology-viz 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-21 28 → 2026-11-23 28（+0）
+2026-10-22 28 → 2026-11-24 28（+0）
 
 
 ---

@@ -46,12 +46,12 @@ DarkSuitAI 是一个以 Go 编写的 agent 框架，作为单一依赖编译为�
 ```mermaid
 xychart-beta
     title "darksuit-ai/darksuitai 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-23 10（+0）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

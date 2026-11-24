@@ -46,12 +46,12 @@ AWS Labs 出品的 GenAI 聊天机器人演示应用：用 Amazon Bedrock Agent 
 ```mermaid
 xychart-beta
     title "awslabs/genai-bedrock-agent-chatbot 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 131 --> 133
     line [132, 132]
 ```
 
-2026-10-21 132 → 2026-11-23 132（+0）
+2026-10-22 132 → 2026-11-24 132（+0）
 
 
 ---

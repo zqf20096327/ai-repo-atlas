@@ -46,12 +46,12 @@ Python 包，用零样本 NER 模型（GLiNER 架构的 NuNerZero）识别并匿
 ```mermaid
 xychart-beta
     title "deepanwadhwa/zink 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-21 112 → 2026-11-23 112（+0）
+2026-10-22 112 → 2026-11-24 112（+0）
 
 
 ---

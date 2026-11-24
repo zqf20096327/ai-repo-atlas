@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "liulangjietou/kb-rag 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-23"]
+    title "liulangjietou/kb-rag 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-23", "2026-11-24"]
     y-axis "stars" 24 --> 27
-    line [25, 26]
+    line [25, 26, 26]
 ```
 
-2026-11-16 25 → 2026-11-23 26（+1）
+2026-11-16 25 → 2026-11-24 26（+1）
 
 
 ---

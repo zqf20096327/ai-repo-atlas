@@ -41,6 +41,18 @@
 > L15: **Zero runtime dependencies.** Node built-ins only. Node >= 18.
 > L107: The offline planner is the default and the one used by the test suite. Point
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/gravion-harness 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a29c590e96db` · [字段定义](../../DATASET.md)*

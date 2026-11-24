@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "parsa-alikhani/stock-price-prediction-lstm-gru 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-11-16", "2026-11-21", "2026-11-24"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-16 3 → 2026-11-23 4（+1）
+2026-11-16 3 → 2026-11-24 4（+1）
 
 
 ---

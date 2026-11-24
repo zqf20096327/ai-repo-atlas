@@ -42,6 +42,18 @@
 > L18: - **One assistant, everywhere.** Borg runs as a background daemon with a desktop app, a terminal UI and a browser U
 > L21: - **Any model.** Use Anthropic, OpenAI, Gemini, OpenRouter, Bedrock, Azure, Vertex AI, DeepSeek, Groq, xAI, your Cl
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "adelphidata/borg 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d1da8da36114` · [字段定义](../../DATASET.md)*

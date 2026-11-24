@@ -2,9 +2,9 @@
 
 ⭐ 939 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/AndersonBY/vector-vein) · [官网](https://vectorvein.ai) · 个人维护 · 中文 README
 
-**无代码 AI 工作流桌面软件：拖拽节点搭建自动化流程**
+**本地桌面端 AI 工作流工具：可视化编排节点任务并供 Agent 调用**
 
-VectorVein 是基于 pywebview 的无代码 AI 工作流软件，用户通过拖拽节点在画布上搭建输入、处理、输出的自动化流程（翻译、总结生成思维导图、客服投诉自动分类等），结合大语言模型与个人知识库。支持 OpenAI 兼容 API 端点，可接入 Ollama/vLLM/LM-Studio 等本地服务，配置自定义 embedding 后端与 OpenAI 兼容语音识别。提供本地 FastAPI 服务供程序化调用工作流、CLI 工具，以及快捷键语音对话。桌面版从 Release 下载，需安装 webview2 运行时。
+面向日常办公的本地桌面应用，将 Task Agent 与可视化工作流整合在一个工作区内：Agent 可在项目文件夹边界内搜索、读取、写入文件并执行多步任务；可视化工作流以节点图编排固定步骤，支持多 sheet Excel 读取、JSON Schema 校验、导出 xlsx/docx/png。内置分层知识库（本地 Qdrant 向量索引+全文检索），支持 Skills、MCP 服务器接入，并可将工作流挂载为 Agent 可调用工具；提供可视化定时调度、本地 HTTP API 触发与 CLI 无头运行。许可证仅限非商业研究用途。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@ VectorVein 是基于 pywebview 的无代码 AI 工作流软件，用户通过拖
 
 ## 能力要点
 
-- 拖拽节点编辑工作流，含官方模板与在线教程
-- 支持 OpenAI 兼容端点，可接 Ollama/vLLM/LM-Studio 本地服务
-- 本地 FastAPI 服务（端口 8787）程序化执行与监控工作流
-- 支持多表工作簿输入、XLSX/DOCX 结构化输出与 JSON Schema 校验
+- Task Agent 工作台：多文件夹项目内文件搜索、读写与多步执行
+- 可视化工作流编辑器，支持 Excel/docx/png 导出与 JSON Schema 校验
+- 分层知识库：内置本地 Qdrant 向量索引+全文检索，无需外部数据库
+- Skills（SKILL.md）、MCP 服务器接入与工作流挂载为 Agent 工具
 
 ## 适用场景
 
-- 不懂编程的用户搭建文档翻译、文章总结等 AI 自动化流程
-- 把英文 Word 文档总结成中文思维导图
-- 按自定义关键词自动分类客服投诉并导出 Excel
-- 通过本地 API 将工作流集成到其他程序中
+- 让 Agent 读取本地项目资料并按知识库规则生成分析报告
+- 把固定的数据处理步骤编排为可视化工作流做批量处理
+- 配置定时任务做周期性巡检、汇总或流水线运行
 
 ## 场景标签
 
-`工作流自动化` `RAG` · 领域:效率与自动化
+`工作流自动化` `AI 助手` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L13: VectorVein is a no-code AI workflow software inspired by LangChain and langflow, designed to combine the powerful c
-> L25: After downloading VectorVein from Release, the program will create a "data" folder in the installation directory to
-> L34: Most workflows and agents in the software involve the use of AI large language models, so you should at least provi
+> L7: **A local desktop application for Task Agents and visual workflows.**
+> L9: Everyday work rarely lives in a single file. You often need to read across local project folders, cross-check rules 
+> L70: 2. **Configure a Model**: Open **Settings** in the top-right corner, add a cloud API endpoint (OpenAI, Anthropic, D
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "AndersonBY/vector-vein 星数(近 9 点)"
-    x-axis ["2026-10-21", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-24"]
     y-axis "stars" 938 --> 943
     line [940, 941, 940, 941, 942, 941, 940, 939, 939]
 ```
 
-2026-10-21 940 → 2026-11-23 939（-1）
+2026-10-22 940 → 2026-11-24 939（-1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `a75ae5cc84d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3d86ba382318` · [字段定义](../../DATASET.md)*

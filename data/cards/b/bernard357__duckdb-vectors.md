@@ -47,12 +47,12 @@ duckdb-vectors 是一个 Python 包，为 agent 系统提供小规模语义检�
 ```mermaid
 xychart-beta
     title "bernard357/duckdb-vectors 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-23"]
+    x-axis ["2026-10-29", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-29 3 → 2026-11-23 3（+0）
+2026-10-29 3 → 2026-11-24 3（+0）
 
 
 ---

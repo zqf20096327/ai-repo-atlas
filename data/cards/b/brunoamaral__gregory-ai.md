@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "brunoamaral/gregory-ai 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 56 --> 59
-    line [57, 58, 58]
+    title "brunoamaral/gregory-ai 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 57 --> 59
+    line [58, 58]
 ```
 
-2026-10-21 57 → 2026-11-23 58（+1）
+2026-10-22 58 → 2026-11-24 58（+0）
 
 
 ---

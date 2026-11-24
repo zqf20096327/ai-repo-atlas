@@ -42,6 +42,18 @@
 > L172: `kern-serve` is kern's own server: continuous batching, an OpenAI-compatible
 > L174: pipeline stages across trays. kern also runs as the model inside vLLM or
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pegainfer-project/kern 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 223 --> 225
+    line [224, 224]
+```
+
+2026-11-23 224 → 2026-11-24 224（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `024e25ab1c5b` · [字段定义](../../DATASET.md)*

@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "AIStoryBuilders/AIStoryBuilders 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
+    title "AIStoryBuilders/AIStoryBuilders 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 71 --> 74
-    line [73, 72, 73, 73]
+    line [72, 73, 73]
 ```
 
-2026-10-21 73 → 2026-11-23 73（+0）
+2026-10-22 72 → 2026-11-24 73（+1）
 
 
 ---

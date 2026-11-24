@@ -45,12 +45,12 @@ Trustabl Forge 的 MCP 服务器：读取仓库的依赖清单（package.json、
 ```mermaid
 xychart-beta
     title "trustabl/agent-reliability-skills 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-23"]
+    x-axis ["2026-11-21", "2026-11-24"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-11-21 62 → 2026-11-23 62（+0）
+2026-11-21 62 → 2026-11-24 62（+0）
 
 
 ---

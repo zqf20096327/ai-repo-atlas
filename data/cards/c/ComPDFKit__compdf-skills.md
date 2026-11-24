@@ -45,13 +45,13 @@ ComPDFKit 公司发布的 AI 代理技能（Skills）集合：以 SKILL.md 目�
 
 ```mermaid
 xychart-beta
-    title "ComPDFKit/compdf-skills 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    title "ComPDFKit/compdf-skills 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-23", "2026-11-24"]
     y-axis "stars" 108 --> 112
-    line [109, 110, 111]
+    line [109, 110, 111, 111]
 ```
 
-2026-10-21 109 → 2026-11-23 111（+2）
+2026-10-22 109 → 2026-11-24 111（+2）
 
 
 ---

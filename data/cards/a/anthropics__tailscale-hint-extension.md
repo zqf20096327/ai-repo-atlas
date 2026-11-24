@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "anthropics/tailscale-hint-extension 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-15", "2026-11-23"]
-    y-axis "stars" 20 --> 25
-    line [21, 22, 23, 24, 24]
+    title "anthropics/tailscale-hint-extension 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-15", "2026-11-24"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24, 24]
 ```
 
-2026-10-21 21 → 2026-11-23 24（+3）
+2026-10-22 22 → 2026-11-24 24（+2）
 
 
 ---

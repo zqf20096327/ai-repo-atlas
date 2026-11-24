@@ -45,12 +45,12 @@ Go 编写的 3MB 单二进制 Unix 管道工具：从 stdin 读取 JSON，弹出
 ```mermaid
 xychart-beta
     title "study8677/Agent_View_Controller-AVC 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-21 69 → 2026-11-23 69（+0）
+2026-10-22 69 → 2026-11-24 69（+0）
 
 
 ---

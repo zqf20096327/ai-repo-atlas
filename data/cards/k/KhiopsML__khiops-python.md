@@ -45,12 +45,12 @@ Orange Innovation 的 Khiops 团队开发的 Python 库，封装 Khiops AutoML �
 ```mermaid
 xychart-beta
     title "KhiopsML/khiops-python 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-21 19 → 2026-11-23 19（+0）
+2026-10-22 19 → 2026-11-24 19（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "airborne-commando/civitai-mirror-list 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
+    title "airborne-commando/civitai-mirror-list 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 56 --> 59
-    line [58, 57, 58, 58]
+    line [57, 58, 58]
 ```
 
-2026-10-21 58 → 2026-11-23 58（+0）
+2026-10-22 57 → 2026-11-24 58（+1）
 
 
 ---

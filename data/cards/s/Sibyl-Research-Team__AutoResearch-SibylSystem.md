@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sibyl-Research-Team/AutoResearch-SibylSystem 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-18", "2026-11-23"]
-    y-axis "stars" 286 --> 291
-    line [287, 288, 289, 290, 290]
+    title "Sibyl-Research-Team/AutoResearch-SibylSystem 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-18", "2026-11-24"]
+    y-axis "stars" 287 --> 291
+    line [288, 289, 290, 290]
 ```
 
-2026-10-21 287 → 2026-11-23 290（+3）
+2026-10-22 288 → 2026-11-24 290（+2）
 
 
 ---

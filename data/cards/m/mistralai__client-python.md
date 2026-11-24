@@ -2,9 +2,9 @@
 
 ⭐ 778 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/mistralai/client-python) · 组织维护
 
-**Mistral AI 平台的官方 Python SDK，供开发者调用其 API**
+**Mistral AI 平台的官方 Python SDK 客户端**
 
-由 Mistral AI 维护的官方 Python 客户端库，封装 La Plateforme 的 Chat Completions、Embeddings、Agents、音频（语音/转录/声音）、Batch 任务、Connectors、Conversations、Libraries 与 Observability 数据集等接口，提供同步与异步两种调用方式。支持以 API key 或服务账号 token 鉴权，并含接入 Azure AI 与 Google Cloud（Vertex AI）部署的专用客户端，GCP 认证需额外安装 mistralai[gcp]。可用 uv、pip 或 poetry 安装，agents 与 voice-agents 功能需相应 extras，最低 Python 3.10。
+面向 Mistral AI 平台（La Plateforme）的 Python 客户端库，封装 Chat Completion、Embeddings、Agents、Audio（语音/转录/会话）、Batch、Conversations、Connectors、Managed Index 等资源的 API 调用。支持 uv/pip/poetry 安装，agents 与 voice-agents 功能需安装额外依赖包；同时提供 Azure AI 与 Google Cloud Vertex 部署路径的专用客户端类。凭据支持环境变量、每请求 Authorization header、可调用对象及服务账户 token 文件（支持轮换）。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 覆盖 Chat/Embeddings/Agents/音频转录与合成/Batch/Connectors 等完整 API 面
-- 同步与异步双模式调用
-- Azure AI 与 Google Cloud 部署的专用客户端（MistralAzure / MistralGCP）
-- 多层级凭据解析：请求头显式 key > api_key 参数 > 服务账号 token 文件 > 环境变量
+- 覆盖 Chat/Embeddings/Agents/Audio/Batch/Conversations 等资源的完整 API 封装
+- 支持同步与异步请求两种调用方式
+- 提供 Azure AI（MistralAzure）与 Google Cloud Vertex（MistralGCP）专用客户端
+- 服务账户 token 文件每次请求重新读取，支持凭据轮换
 
 ## 适用场景
 
-- 在 Python 项目中集成 Mistral 的对话与向量嵌入能力
-- 通过 SDK 管理与调用 Mistral 平台上的 Agent 与语音会话
-- 访问部署在 Azure AI 或 Vertex AI 上的 Mistral 模型
-- 批量任务与文档库（Libraries）的自动化处理
+- 在 Python 应用中调用 Mistral 的对话与嵌入 API
+- 在 Azure 或 GCP 上通过 SDK 访问已部署的 Mistral 模型
+- 构建语音 agent 会话与转录、语音合成应用
 
 ## 场景标签
 
- · 领域:LLM 基础设施/API 客户端
+ · 领域:LLM 基础设施/SDK
 
 ## 证据(README 行号)
 
-> L35: Mistral AI API: Our Chat Completion and Embeddings APIs specification. Create your account on La Plateforme to get 
-> L130: from mistralai.client import Mistral
+> L1: # Mistral Python Client
+> L31: Mistral AI API: Our Chat Completion and Embeddings APIs specification. Create your account on La Plateforme to get 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "mistralai/client-python 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 771 --> 779
-    line [774, 775, 774, 775, 772, 773, 774, 773, 774, 775, 776, 777, 778, 777, 778]
+    line [775, 774, 775, 772, 773, 774, 773, 774, 775, 776, 777, 778, 777, 778, 778]
 ```
 
-2026-10-21 774 → 2026-11-23 778（+4）
+2026-10-22 775 → 2026-11-24 778（+3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d0e245ab1bbb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2d60f8acf3cb` · [字段定义](../../DATASET.md)*

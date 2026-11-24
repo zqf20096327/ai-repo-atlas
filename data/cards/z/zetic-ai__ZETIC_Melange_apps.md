@@ -44,13 +44,13 @@ ZETIC 维护的端侧 AI 应用源码集合：提供 20 余个在 Android/iOS �
 
 ```mermaid
 xychart-beta
-    title "zetic-ai/ZETIC_Melange_apps 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 68 --> 71
-    line [70, 69, 69]
+    title "zetic-ai/ZETIC_Melange_apps 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 68 --> 70
+    line [69, 69]
 ```
 
-2026-10-21 70 → 2026-11-23 69（-1）
+2026-10-22 69 → 2026-11-24 69（+0）
 
 
 ---

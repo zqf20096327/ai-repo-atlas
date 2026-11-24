@@ -45,12 +45,12 @@ WildEye Conservation 开发的 Web 应用，用 AI 分类配合人工标注处�
 ```mermaid
 xychart-beta
     title "WildEyeConservation/TrapTagger 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-21 45 → 2026-11-23 45（+0）
+2026-10-22 45 → 2026-11-24 45（+0）
 
 
 ---

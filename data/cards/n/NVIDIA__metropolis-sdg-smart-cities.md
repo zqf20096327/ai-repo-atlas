@@ -46,12 +46,12 @@ NVIDIA Metropolis 的合成数据生成（SDG）recipe：在 CARLA 中仿真交�
 ```mermaid
 xychart-beta
     title "NVIDIA/metropolis-sdg-smart-cities 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-20 17 → 2026-11-23 17（+0）
+2026-10-21 17 → 2026-11-24 17（+0）
 
 
 ---

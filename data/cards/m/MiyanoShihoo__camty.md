@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiyanoShihoo/camty 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "MiyanoShihoo/camty 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 3 --> 7
-    line [4, 6]
+    line [4, 6, 6]
 ```
 
-2026-11-22 4 → 2026-11-23 6（+2）
+2026-11-22 4 → 2026-11-24 6（+2）
 
 
 ---

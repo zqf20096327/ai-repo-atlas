@@ -46,13 +46,13 @@ Kavero 将产品数据（粘贴、从 MCP 服务器导入或由 AI 生成）转�
 
 ```mermaid
 xychart-beta
-    title "UpstandPlatform/kavero 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-23"]
+    title "UpstandPlatform/kavero 星数(近 4 点)"
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-23", "2026-11-24"]
     y-axis "stars" 2 --> 10
-    line [3, 4, 9]
+    line [3, 4, 9, 9]
 ```
 
-2026-11-11 3 → 2026-11-23 9（+6）
+2026-11-11 3 → 2026-11-24 9（+6）
 
 
 ---

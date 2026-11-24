@@ -2,9 +2,9 @@
 
 ⭐ 976 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/luongnv89/asm) · [官网](https://luongnv.com/asm) · 个人维护
 
-**AI 编码代理的技能管理 CLI：跨 21 种工具安装/审计技能**
+**AI 编码 agent 的通用技能管理 CLI**
 
-面向 AI 代理与自动化的脚本化命令行工具 agent-skill-manager（asm）：在 Claude Code、Codex、Cursor 等 21 种代理工具间统一安装、搜索、审计与组织技能。每条命令支持 --json 与 --yes 非交互输出；提供 token 层面的驻留成本统计、重复/语义重叠审计、按需读取技能体的 asm get 引用层，以及安装前安全扫描（shell 执行、网络访问、凭据暴露）。目录含 6,905 个技能（85 个仓库），MIT 许可、无遥测。需 Node.js 22+，另提供可选 TUI。
+asm 是面向 AI agent 与自动化流程的脚本化 CLI，用于跨 Claude Code、Codex、Cursor 等 21 个 provider 安装、搜索、审计与整理 agent 技能。提供结构化 --json 输出与 --yes 非交互模式，安装前做 frontmatter 校验与安全扫描，并统计每个技能常驻上下文的 token 成本，支持常驻分层降级（disable/library/get）与免安装的一次性读取。MIT 许可，无账号与遥测，要求 Node.js 22+ 与 git。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 跨 21 个 provider 统一列出/安装/审计技能，全命令支持 --json/--json/--yes 非交互输出
-- asm stats --tokens 报告驻留 vs 触发 token 成本，asm audit residency 排序可降级技能
-- asm get 输出技能体到 stdout 且零驻留，可作为按需投递基础设施
-- 安装前安全扫描（shell exec/网络/凭据暴露），报告而非阻断
+- 跨 21 个 provider 的技能清单与重复/语义重叠审计
+- --json/--yes/--machine 面向 agent 与 CI 的非交互输出
+- 安装前安全扫描：shell 执行、网络访问、凭据暴露
+- asm get 免安装读取 SKILL.md，零常驻上下文
 
 ## 适用场景
 
-- 代理或 CI 脚本中非交互地安装与盘点技能
-- 审计已装技能的重复、语义重叠与上下文驻留成本
-- 不安装即可单次读取技能内容供任务使用
+- 统一管理散落在多个编码 agent 目录里的技能
+- 让 CI 或 agent 脚本以 JSON 方式调用技能安装与审计
+- 控制技能占用的常驻 prompt token 成本
+- 临时读取技能内容而不安装
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+ · 领域:AI 编码工具生态/开发工具链
 
 ## 证据(README 行号)
 
 > L10: # CLI to install and manage agent skills
 > L12: **agent-skill-manager** (`asm`) is a scriptable CLI built for AI agents and automation — install, search, audit, an
-> L33: |**Providers**|21 providers (Agents, Claude Code, Pi, OpenCode, Codex, …)|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "luongnv89/asm 星数(近 18 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
     y-axis "stars" 954 --> 978
     line [956, 959, 960, 959, 961, 962, 959, 966, 971, 972, 974, 975, 974, 973, 974, 975, 976, 976]
 ```
 
-2026-10-21 956 → 2026-11-23 976（+20）
+2026-10-22 956 → 2026-11-24 976（+20）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `70a591161a9e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `acf03f17d405` · [字段定义](../../DATASET.md)*

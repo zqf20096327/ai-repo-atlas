@@ -46,12 +46,12 @@ wrok Code（原 CrabCode）是运行在终端与桌面的 AI 工作台，提供 
 ```mermaid
 xychart-beta
     title "acosmi/wrokcode 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    x-axis ["2026-11-22", "2026-11-24"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-22 4 → 2026-11-23 4（+0）
+2026-11-22 4 → 2026-11-24 4（+0）
 
 
 ---

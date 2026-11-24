@@ -42,6 +42,18 @@ Kobana 七个产品 API 的统一命令行客户端，单个二进制覆盖银�
 > L39: Operações bancárias unificadas: uma única API conectada a mais de 40 bancos para
 > L148: Agente de IA que executa rotinas financeiras (as Tasks) a partir do
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "universokobana/kobana-cli 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-11-23 16 → 2026-11-24 16（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b5a27271c2b8` · [字段定义](../../DATASET.md)*

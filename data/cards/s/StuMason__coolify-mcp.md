@@ -2,9 +2,9 @@
 
 ⭐ 628 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/StuMason/coolify-mcp) · [官网](https://coolify-mcp.stumason.dev) · 个人维护
 
-**MCP server：通过 AI 客户端用自然语言管理 Coolify 自托管 PaaS**
+**让 AI 客户端用自然语言管理自托管 PaaS Coolify 的 MCP 服务器**
 
-TypeScript 实现的 MCP 服务器，通过 46 个工具让 Claude、Cursor 等 MCP 客户端以自然语言对 Coolify v4 自托管 PaaS 进行部署、诊断、启停、创建/销毁应用与数据库（8 引擎）、批量操作与文档检索。破坏性操作前需人工确认并标明影响范围，秘密默认掩码，日志输出按不可信数据包裹。支持 stdio 与 HTTP 两种传输、多实例 fleet 模式、OAuth 2.1 远程模式及 doctor 配置诊断命令。以 npx、Claude Desktop 一键扩展包或容器方式安装。
+面向 Claude Desktop、Claude Code、Cursor 等 MCP 客户端的服务器，通过 46 个工具以自然语言执行 Coolify 自托管 PaaS 的部署、诊断与运维：读取容器日志、部署回滚、管理应用/数据库/项目/环境变量/备份，破坏性操作前向用户确认，密钥默认掩码。支持 Claude Desktop 一键安装包、npx 本地运行或部署为 Coolify 内容器（HTTP/OAuth 2.1）。需运行中的 Coolify v4.0–4.3 实例及 API token；内置 doctor 自检命令，支持多实例 fleet 模式。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@ TypeScript 实现的 MCP 服务器，通过 46 个工具让 Claude、Cursor 等 
 
 ## 能力要点
 
-- 46 个工具覆盖部署、诊断、配置与批量操作，工具列表约 8,900 tokens
-- 破坏性操作人工确认并标明影响范围，HTTP 模式下防护失败即关闭
-- doctor 一条命令检查配置、连通性、令牌与 Coolify 版本
-- 支持多 Coolify 实例（fleet 模式）与 OAuth 2.1 远程 HTTP 模式
+- 46 个工具覆盖部署、诊断、日志、配置与批量操作
+- 破坏性操作先经用户确认，密钥在 API 边界掩码
+- doctor 命令一键验证配置、连通性与 token 权限
+- 三种运行方式：Claude Desktop 一键包 / npx / Coolify 内容器
 
 ## 适用场景
 
-- 通过对话让 Claude/Cursor 诊断和部署 Coolify 上的应用
-- 一次连接管理多个客户的 Coolify 实例
-- 对生产环境做带人工确认门禁的破坏性操作
+- 用自然语言诊断应用故障并读取容器日志
+- 通过 Claude 或 Cursor 部署和回滚 Coolify 应用
+- 托管多个 Coolify 实例时统一接入管理
+- 以只读或需人工确认的方式安全对接生产环境
 
 ## 场景标签
 
- · 领域:开发运维/基础设施管理
+ · 领域:DevOps/基础设施运维
 
 ## 证据(README 行号)
 
 > L11: Manage Coolify from Claude, Cursor, or any MCP client: 46 tools for deploying, debugging, and operating your self-h
-> L24: claude mcp add coolify \
+> L15: ## Install
+> L17: You need a running Coolify v4 instance and an API token (Coolify → Keys & Tokens → API tokens). Pick one of three w
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "StuMason/coolify-mcp 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-23"]
+    title "StuMason/coolify-mcp 星数(近 15 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-24"]
     y-axis "stars" 614 --> 629
-    line [615, 616, 615, 616, 617, 618, 617, 615, 620, 622, 625, 624, 625, 626, 628, 628]
+    line [616, 615, 616, 617, 618, 617, 615, 620, 622, 625, 624, 625, 626, 628, 628]
 ```
 
-2026-10-21 615 → 2026-11-23 628（+13）
+2026-10-22 616 → 2026-11-24 628（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `b9da0e9a4b56` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `bce8719b97a1` · [字段定义](../../DATASET.md)*

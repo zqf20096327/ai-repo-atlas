@@ -2,9 +2,9 @@
 
 ⭐ 754 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/X-GenGroup/Flow-Factory) · 组织维护 · 中文 README
 
-**扩散与 Flow-Matching 模型的统一微调框架：SFT/DPO/在线 RL**
+**扩散与流匹配模型的统一微调/在线 RL 训练框架**
 
-面向扩散与 Flow-Matching 生成模型的训练框架，覆盖文生图、图生图、文生视频及音视频生成等任务的多种模型（FLUX 系列、Qwen-Image、SD3.5、Wan2.x、LTX-2、MiniMax H3 等）。提供 SFT、离线/在线 DPO、GRPO 等 14 种算法，模型与算法在接口层解耦，附 ready-to-run 配方。统一 V2 JSONL 数据格式，支持 LoRA 配方、prompt 增强步骤、注意力后端加速、DeepSpeed 与多节点训练。需 Python 3.10+/PyTorch 2.10+，视频任务需 FFmpeg 共享库；FLUX.3 与 Qwen-Image 2.1 需安装 pinned Diffusers 子模块。
+提供统一配置界面对扩散与流匹配模型做离线微调与在线强化学习训练：19 个模型适配器覆盖文生图、图像编辑、文/图生视频及音视频联合生成，注册 16 种训练算法（SFT、DPO、GRPO、蒸馏等），支持全量权重或 LoRA、DDP/DeepSpeed ZeRO-2/FSDP2 后端及 TP/SP/CP 并行布局。通过 ff-train 命令启动训练，ff-prompt-enhance 可用模型的提示改写器预处理数据集。要求 Python 3.11+ 与 PyTorch 2.10+，训练依赖 GPU。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 14 种训练算法（SFT/DPO/GRPO/DMD2 等），模型与算法解耦
-- 支持 30+ 个扩散/Flow-Matching 模型（图像、视频、音视频）
-- ff-prompt-enhance 独立步骤：训练前用模型自带 rewriter 重写数据集 prompt
-- 统一 V2 JSONL 数据格式与 CUDA Docker 训练镜像、多节点启动
+- 19 个模型适配器与 16 种训练算法在统一接口下解耦
+- 支持 FSDP2 与 TP/SP/CP 组合并行布局，提供 4/8-GPU 快速配置
+- 异步奖励/优化重叠、EMA 状态与固定拓扑断点续训
+- 支持 wandb/swanlab/tensorboard 在线记录训练样本与指标曲线
 
 ## 适用场景
 
-- 对 FLUX/Qwen-Image 等生成模型做 GRPO + LoRA 强化学习微调
-- 用自有演示或偏好数据做 SFT / 离线 DPO 训练
-- 训练前批量重写数据集 prompt 以提升数据质量
-- 多节点 GPU 集群上训练大尺寸视频生成模型
+- 用 GRPO + LoRA 微调 FLUX、Qwen-Image 等文生图模型
+- 以 SFT/离线 DPO 在演示与偏好数据上微调视频生成模型
+- 配置多卡 FSDP2/TP/CP 布局进行大模型并行训练
 
 ## 场景标签
 
-`微调` `强化学习` · 领域:训练与推理
+`微调` `强化学习` `图像生成` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L5:  Unified Online RL and Offline Fine-Tuning for Diffusion and Flow-Matching Models
-> L122: Models and algorithms are decoupled at the framework interface. Ready-to-run recipes are indexed in
+> L9: Train image, editing, video and joint audio-video models through one configuration interface.
+> L16: |Algorithm|16 registered trainers, including SFT, DPO, GRPO/Guard, DPPO, NFT and multi-role distillation|Algorithm 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "X-GenGroup/Flow-Factory 星数(近 19 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 727 --> 756
-    line [729, 733, 734, 735, 737, 739, 740, 742, 734, 747, 749, 750, 751, 752, 753, 752, 753, 754, 754]
+    title "X-GenGroup/Flow-Factory 星数(近 18 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-24"]
+    y-axis "stars" 731 --> 756
+    line [733, 734, 735, 737, 739, 740, 742, 734, 747, 749, 750, 751, 752, 753, 752, 753, 754, 754]
 ```
 
-2026-10-21 729 → 2026-11-23 754（+25）
+2026-10-22 733 → 2026-11-24 754（+21）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `033da2047959` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7e10aa2275e8` · [字段定义](../../DATASET.md)*

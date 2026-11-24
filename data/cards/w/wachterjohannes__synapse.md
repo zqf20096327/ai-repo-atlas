@@ -41,6 +41,18 @@ Synapse 将一个 markdown 笔记目录做成第二大脑：capture 类 agent �
 > L9: - **Capture.** Hand a piece of text to an agent. A rough thought lands in `notes/inbox/`. A clear piece of knowledge
 > L10: - **Ask.** A second agent answers from the notes with RAG and names the file it used. A question the notes cannot a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wachterjohannes/synapse 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `eea9627bff5b` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 676 · Python · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/fatiando/verde) · [官网](https://www.fatiando.org/verde) · 组织维护
 
-**地球科学空间数据处理与网格化插值的 Python 库**
+**面向地球科学的空间数据处理与网格化 Python 库**
 
-Fatiando a Terra 项目下的 Python 库，用于处理地形、点云、测深、地球物理测量等空间数据，并在 2D 表面上进行网格化插值。插值方法受机器学习启发，接口设计与 scikit-learn 类似；另提供趋势去除、分块/窗口操作、交叉验证等配套分析方法。支持标量与矢量数据网格化（如风速、GPS 速度），兼容笛卡尔与地理坐标，并与 numpy/pandas/scikit-learn/xarray 集成。项目自称稳定版本。
+Verde 是 Fatiando a Terra 项目下的 Python 库，用于处理地形、点云、测深、地球物理调查等空间数据，并在二维表面上插值（网格化）。其核心插值方法借鉴机器学习思路，接口仿照 scikit-learn，另提供趋势去除、分块/窗口运算、交叉验证等配套分析。支持标量与矢量数据网格化、笛卡尔与地理坐标系，并与 numpy/pandas/scikit-learn/xarray 集成。项目状态声明为稳定可用，但 main 分支正朝 v2.0 演进，含大量破坏性变更。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ Fatiando a Terra 项目下的 Python 库，用于处理地形、点云、测深�
 
 ## 能力要点
 
-- 机器学习风格接口的空间数据网格化插值
-- 支持标量与矢量数据（风速、GPS 速度等）
+- 仿 scikit-learn 接口的插值/网格化实现
+- 支持标量与矢量数据（如风速、GPS 速度场）网格化
 - 支持笛卡尔与地理坐标
-- 提供趋势去除、分块/窗口操作、交叉验证
+- 提供趋势去除、分块均值、交叉验证等配套处理
 
 ## 适用场景
 
-- 对地形、测深等地学测量数据进行网格化插值
-- 对重力、磁力等地球物理调查数据做处理与成图前准备
-- 去除空间数据趋势并做交叉验证
+- 将地形/测深点数据插值为规则网格
+- 对地球物理调查数据做去趋势与分块预处理
+- 用交叉验证评估网格化结果
 
 ## 场景标签
 
- · 领域:地球科学/空间数据处理
+ · 领域:地球科学/科学计算
 
 ## 证据(README 行号)
 
-> L22: **Verde** is a Python library for processing spatial data (topography, point
-> L26: Our core interpolation methods are inspired by machine-learning.
+> L26: **Verde** is a Python library for processing spatial data (topography, point
+> L30: Our core interpolation methods are inspired by machine-learning.
+> L31: As such, Verde implements an interface that is similar to the popular
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "fatiando/verde 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-20", "2026-11-24"]
     y-axis "stars" 674 --> 678
     line [675, 677, 676, 676]
 ```
 
-2026-10-21 675 → 2026-11-23 676（+1）
+2026-10-22 675 → 2026-11-24 676（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ff731e95f5a5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8a4ce7461c61` · [字段定义](../../DATASET.md)*

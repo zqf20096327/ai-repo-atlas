@@ -41,6 +41,18 @@
 > L19: Copy Ai Pro is an AI copywriting assistant for Windows that helps you generate marketing copy, blog drafts, product
 > L36: |**Dependencies**|.NET Framework 4.8 or later, Microsoft Visual C++ Redistributable, and a stable internet connecti
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GuzmanJacqueline93/copy-ai-pro-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 338 --> 340
+    line [339, 339]
+```
+
+2026-11-23 339 → 2026-11-24 339（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `2c40ae8fdc9f` · [字段定义](../../DATASET.md)*

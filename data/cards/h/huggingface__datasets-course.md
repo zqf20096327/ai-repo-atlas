@@ -45,12 +45,12 @@ Hugging Face 维护的实践课程，教授使用 🤗 Datasets 库与 Argilla �
 ```mermaid
 xychart-beta
     title "huggingface/datasets-course 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-21 14 → 2026-11-23 15（+1）
+2026-10-22 14 → 2026-11-24 15（+1）
 
 
 ---

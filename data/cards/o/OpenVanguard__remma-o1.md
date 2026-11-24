@@ -44,13 +44,13 @@ OpenVanguard 发起的开源小语言模型项目，参数量 1177.79M，用 PyT
 
 ```mermaid
 xychart-beta
-    title "OpenVanguard/remma-o1 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    title "OpenVanguard/remma-o1 星数(近 3 点)"
+    x-axis ["2026-10-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 33 --> 36
-    line [34, 35]
+    line [34, 35, 35]
 ```
 
-2026-10-20 34 → 2026-11-23 35（+1）
+2026-10-21 34 → 2026-11-24 35（+1）
 
 
 ---

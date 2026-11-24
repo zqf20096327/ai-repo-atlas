@@ -46,12 +46,12 @@ DeepSeek Harness 插件：在每条回复末尾展示最多 5 条可点击的建
 ```mermaid
 xychart-beta
     title "taxueseek/dsh-suggestion-chips 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    x-axis ["2026-11-22", "2026-11-24"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-22 6 → 2026-11-23 6（+0）
+2026-11-22 6 → 2026-11-24 6（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SouLCodes-main/RawNET-MNIST 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 2 --> 5
-    line [4, 3, 3]
+    title "SouLCodes-main/RawNET-MNIST 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
 ```
 
-2026-10-21 4 → 2026-11-23 3（-1）
+2026-10-22 3 → 2026-11-24 3（+0）
 
 
 ---

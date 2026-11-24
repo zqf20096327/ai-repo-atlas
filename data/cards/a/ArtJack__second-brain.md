@@ -42,6 +42,18 @@
 > L20: - **Citations are mandatory.** The system prompt forces the model to answer *only* from
 > L57: - [x] Wrap as an **MCP server** so Claude Desktop / Claude Code can query your brain directly (docs)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ArtJack/second-brain 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-23 11 → 2026-11-24 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `7f8a4a99461f` · [字段定义](../../DATASET.md)*

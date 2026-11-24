@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "RistoAle97/centered-kernel-alignment 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 81 --> 87
-    line [82, 83, 85, 86, 86]
+    title "RistoAle97/centered-kernel-alignment 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-21", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 82 --> 87
+    line [83, 85, 86, 86]
 ```
 
-2026-10-21 82 → 2026-11-23 86（+4）
+2026-10-22 83 → 2026-11-24 86（+3）
 
 
 ---

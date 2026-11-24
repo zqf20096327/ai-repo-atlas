@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    title "Pixelailabs/ComfyUI-H3-FaceFix-PixelAILabs 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1 --> 80
-    line [7, 34, 74]
+    line [7, 34, 74, 74]
 ```
 
-2026-11-21 7 → 2026-11-23 74（+67）
+2026-11-21 7 → 2026-11-24 74（+67）
 
 
 ---

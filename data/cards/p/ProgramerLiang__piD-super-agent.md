@@ -40,6 +40,18 @@ PI-Desktop 的编排插件（id corripo.superagent-orchestrator），注册 Sess
 > L10: PI-Desktop 插件 · id `corripo.superagent-orchestrator` · 版本 `0.2.0` · MIT（见 LICENSE）· 需要 PI-Desktop `>= 0.14.7`（含 Ses
 > L28: |一个 `SessionTask` 工具|12 个 action：`spawnIn` / `spawn` / `send` / `supervise` / `status` / `workers` / `wait` / `resu
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ProgramerLiang/piD-super-agent 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c249904db9a1` · [字段定义](../../DATASET.md)*

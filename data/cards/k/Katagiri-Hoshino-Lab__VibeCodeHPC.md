@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Katagiri-Hoshino-Lab/VibeCodeHPC 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "Katagiri-Hoshino-Lab/VibeCodeHPC 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
 ```
 
-2026-10-21 42 → 2026-11-23 43（+1）
+2026-10-22 43 → 2026-11-24 43（+0）
 
 
 ---

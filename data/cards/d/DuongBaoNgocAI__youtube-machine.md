@@ -42,6 +42,18 @@
 > L33: |7b|Giọng đọc AI (ElevenLabs), phụ đề SRT đã sửa chữ, mốc chương|`yt-07b-voice-srt`|
 > L68: - Claude Code, hoặc app Claude cho máy tính (tab Code). Gemini CLI, Google Antigravity và Codex đọc được bộ skill, 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DuongBaoNgocAI/youtube-machine 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `51cb8ca0168c` · [字段定义](../../DATASET.md)*

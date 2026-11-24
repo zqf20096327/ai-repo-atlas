@@ -46,12 +46,12 @@ NVIDIA Research 的研究代码（SIGGRAPH 2024）：基于 2D 生成扩散模�
 ```mermaid
 xychart-beta
     title "nv-tlabs/DiffusionTexturePainting 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 125 --> 127
     line [126, 126]
 ```
 
-2026-10-21 126 → 2026-11-23 126（+0）
+2026-10-22 126 → 2026-11-24 126（+0）
 
 
 ---

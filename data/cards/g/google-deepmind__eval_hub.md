@@ -40,13 +40,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/eval_hub 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "google-deepmind/eval_hub 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
 ```
 
-2026-10-21 28 → 2026-11-23 29（+1）
+2026-10-22 29 → 2026-11-24 29（+0）
 
 
 ---

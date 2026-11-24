@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qualcomm/efficient-transformers 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-16", "2026-11-23"]
-    y-axis "stars" 100 --> 104
-    line [101, 102, 103, 103]
+    title "qualcomm/efficient-transformers 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-16", "2026-11-24"]
+    y-axis "stars" 101 --> 104
+    line [102, 103, 103]
 ```
 
-2026-10-21 101 → 2026-11-23 103（+2）
+2026-10-22 102 → 2026-11-24 103（+1）
 
 
 ---

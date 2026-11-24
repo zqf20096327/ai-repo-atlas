@@ -2,9 +2,9 @@
 
 ⭐ 790 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/NousResearch/hermes-official-plugins) · [官网](https://hermes-agent.nousresearch.com/docs/plugins) · 组织维护
 
-**Hermes Agent 官方插件集：Home Assistant、Spotify、Claude 订阅接入等**
+**为 Hermes Agent 提供官方插件目录：接入 Home Assistant、Spotify 等服务**
 
-Nous Research 维护的 Hermes Agent 第一方插件仓库，覆盖 Home Assistant 控制、Spotify 播放控制、基于 Claude Code CLI 的订阅制模型提供方、Langfuse 追踪、MCP 服务器、沙箱/容器终端后端、3D 建模、逆向工程等十余个插件。插件经 Hermes 插件目录（plugin catalog）按审阅过的 commit 钉定安装，随自身节奏发版。多数插件原属 Hermes core 或独立仓库，更新后自动迁移，除 MCP Serve 外用户无需额外操作。个别插件标注 experimental。
+Nous Research 维护的 Hermes Agent 官方插件合集，经 Hermes 插件目录以固定 commit 分发。核心包含智能体循环、记忆、技能、网关、模型路由与工具运行时；产品/厂商相关功能以插件形式按需安装，涵盖 Home Assistant 设备控制、Spotify 播放、Claude 订阅作为模型后端、Langfuse 追踪、逆向工程、3D 生成、沙箱终端后端、Agent 迁移导入与 MCP 服务输出等。各插件标注所需依赖与账户要求。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@ Nous Research 维护的 Hermes Agent 第一方插件仓库，覆盖 Home Assista
 
 ## 能力要点
 
-- 十余个官方插件：Home Assistant 网关、Spotify 七工具、Claude 订阅 DirectSDK 模型提供方
-- 经插件目录安装，条目钉定到已审阅 commit，更新需通过新 pin 审阅
-- 含终端沙箱后端（Bubblewrap/Apptainer）与将 Hermes 作为 MCP 服务器的能力
-- Agent Importers 一条命令迁移 OpenClaw/Claude Code/Codex/Cursor 配置
+- 一个仓库收录全部官方插件，通过 hermes plugins install 一行安装
+- Claude Subscription DirectSDK 插件可经 Claude Code CLI 用 Pro/Max 订阅驱动模型调用
+- 提供 OpenClaw/Claude Code/Codex/Cursor 等外部 Agent 配置的一键导入
+- 含 Bubblewrap/Singularity 沙箱终端后端与 MCP Serve 服务输出
 
 ## 适用场景
 
-- 为 Hermes Agent 按需安装 Home Assistant、Spotify 等集成
-- 用 Claude Pro/Max 订阅而非 API key 驱动 Hermes 模型调用
-- 把 Hermes 的会话与工具暴露给 Claude Code/Cursor 等 MCP 客户端
+- 让 Hermes Agent 控制 Home Assistant 设备并接收通知
+- 用 Claude 订阅而非 API key 为 Agent 提供模型
+- 把现有 Cursor/Claude Code 等 Agent 配置迁移到 Hermes
+- 通过 MCP 让 Claude Code/Cursor 调用 Hermes 的消息与会话能力
 
 ## 场景标签
 
- · 领域:AI Agent 基础设施/插件
+`模型网关` `LLM 可观测性` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5:  The official plugins for Hermes Agent, built and maintained by Nous Research.
-> L34: The **Hermes plugin catalog** is the reviewed index of everything you can install: model providers, memory provider
 > L24: The Hermes core keeps the parts every user needs: the agent loop, memory, skills, the gateway, model routing and th
+> L34: The **Hermes plugin catalog** is the reviewed index of everything you can install: model providers, memory provider
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "NousResearch/hermes-official-plugins 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 279 --> 836
-    line [325, 354, 376, 390, 461, 489, 510, 518, 522, 535, 550, 556, 563, 461, 630, 650, 657, 668, 686, 718, 736, 751, 763, 768, 775, 779, 786, 790]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 311 --> 833
+    line [354, 376, 390, 461, 489, 510, 518, 522, 535, 550, 556, 563, 461, 630, 650, 657, 668, 686, 718, 736, 751, 763, 768, 775, 779, 786, 790, 790]
 ```
 
-2026-10-21 325 → 2026-11-23 790（+465）
+2026-10-22 354 → 2026-11-24 790（+436）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `baafb87ce888` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4e63df135085` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ EVE（Equilibrium Verification Environment）是面向并发与多智能体系�
 ```mermaid
 xychart-beta
     title "eve-mas/eve-parity 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-21 21 → 2026-11-23 21（+0）
+2026-10-22 21 → 2026-11-24 21（+0）
 
 
 ---

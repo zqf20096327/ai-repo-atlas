@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "47thtechcorner/RayCodes_Ternary-Bonsai-2 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-11-23"]
-    y-axis "stars" 3 --> 9
-    line [4, 6, 7, 8, 8]
+    title "47thtechcorner/RayCodes_Ternary-Bonsai-2 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-24"]
+    y-axis "stars" 5 --> 9
+    line [6, 7, 8, 8]
 ```
 
-2026-10-21 4 → 2026-11-23 8（+4）
+2026-10-22 6 → 2026-11-24 8（+2）
 
 
 ---

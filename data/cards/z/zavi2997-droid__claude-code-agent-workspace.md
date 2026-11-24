@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zavi2997-droid/claude-code-agent-workspace 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    title "zavi2997-droid/claude-code-agent-workspace 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 99 --> 154
-    line [103, 150, 147]
+    line [103, 150, 147, 147]
 ```
 
-2026-11-21 103 → 2026-11-23 147（+44）
+2026-11-21 103 → 2026-11-24 147（+44）
 
 
 ---

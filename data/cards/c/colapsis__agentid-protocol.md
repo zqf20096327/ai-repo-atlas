@@ -45,12 +45,12 @@ agentid.live 平台的官方示例仓库：通过单个 MCP 服务器为 AI agen
 ```mermaid
 xychart-beta
     title "colapsis/agentid-protocol 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-21 14 → 2026-11-23 14（+0）
+2026-10-22 14 → 2026-11-24 14（+0）
 
 
 ---

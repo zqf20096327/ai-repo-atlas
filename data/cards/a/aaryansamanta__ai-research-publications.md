@@ -2,9 +2,9 @@
 
 ⭐ 664 · HTML · 推送 2026-11-20 · [GitHub](https://github.com/aaryansamanta/ai-research-publications) · [官网](https://aaryansamanta.github.io/) · 个人维护
 
-**高中生 AI/计算生物研究作品集：2 篇已发表论文+3 个在研项目**
+**高中生的计算研究作品集：14个项目+论文集展示**
 
-个人研究作品集仓库，收录作者作为第一作者的 2 篇同行评审论文（IEEE AIAM 2025 量子启发 GA+GNN 融合分类、IJHSR 2026 秀丽隐杆线虫线粒体遗传学）及 3 个在研项目：斯坦福医学院盆底超声运动学分析、UCLA COSMOS 野火资源调度强化学习代理、生物教学图像误导性研究。每个项目目录含代码、论文、图表与引用文件，部分代码以 MIT 发布，临床数据不授权。
+一名11年级学生的计算研究作品集，收录14个项目：2篇同行评审论文（IEEE AIAM、IJHSR）与涵盖量子启发式机器学习、计算生物学、生物医学成像、野火强化学习、科学教育的研究项目。每个条目提供在线演示与源码链接，并附研究归属说明：区分团队与个人贡献、标注未完成的实验计划、声明动画为装饰性内容而非实验数据。
 
 ## 筛选速览
 
@@ -16,43 +16,42 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 2 篇已发表论文：量子启发 GA×GNN（IEEE AIAM 2025）与 C. elegans 线粒体比较基因组学（IJHSR）
-- InfernoTactics 野火 RL 代理：CNN+MLP actor-critic，含 Cesium 3D 演示与 FastAPI 后端
-- 各项目目录附带 CITATION.cff/.bib 与独立深度 README
-- 部分项目代码 MIT 许可，临床数据不授权
+- 14 个项目按演示优先顺序编排，每项含 demo 与源码入口
+- 包含 QIHGA–GNN 可执行源码、测试与论文手稿
+- 归属说明区分 implemented/preliminary/planned 状态
 
 ## 适用场景
 
-- 查阅高中生跨学科 AI 研究成果与论文原文
-- 复现 QIHGA-GNN 分类实现与 SHAP 分析
-- 引用其中论文（提供 BibTeX 与 DOI）
+- 浏览量子启发式特征搜索与图神经网络结合的演示
+- 查看 C. elegans 群体基因组学与表达建模研究
+- 了解面向教育公平的 AI 学习平台项目
 
 ## 场景标签
 
- · 领域:科研/机器学习与计算生物学
+ · 领域:科研作品集/学术展示
 
 ## 证据(README 行号)
 
-> L17: Lead author of two peer-reviewed publications (IEEE · IJHSR) as a high-school sophomore, plus three
-> L41: |1|**Quantum-Inspired Hybrid GA + GNN Ensemble**|IEEE 7th Intl. Conf. on AI & Advanced Manufacturing (AIAM) 2025|Qu
-> L44: |4|**InfernoTactics — Wildfire RL Agent**|UCLA COSMOS 2026, Cluster 1|Actor-critic reinforcement learning (CNN + ML
+> L1: Animated scientific research portfolio — computational biology, AI systems, and social impact
+> L6: *An 11th-grade student's collection of computational research, interactive scientific prototypes, and educational te
+> L16: **14 projects · One directory · One click to a demo, one click to code.** Ordered for an admissions reviewer: compe
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "aaryansamanta/ai-research-publications 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-24"]
     y-axis "stars" 662 --> 668
     line [667, 665, 663, 664, 664]
 ```
 
-2026-10-21 667 → 2026-11-23 664（-3）
+2026-10-22 667 → 2026-11-24 664（-3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d01f5d68b4ed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e34cd2e2e05d` · [字段定义](../../DATASET.md)*

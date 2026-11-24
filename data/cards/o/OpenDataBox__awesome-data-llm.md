@@ -2,9 +2,9 @@
 
 ⭐ 837 · 推送 2026-10-25 · [GitHub](https://github.com/OpenDataBox/awesome-data-llm) · [官网](https://arxiv.org/pdf/2505.18458) · 组织维护 · 中文 README
 
-**LLM × DATA 综述论文的论文与项目收录清单**
+**面向 LLM 研究者的数据集与数据处理论文集清单**
 
-survey 论文 "A Survey of LLM × DATA" 的官方仓库，按论文结构收录相关论文、数据集与工具：提出 IaaS 高质量数据集四维概念与 LLM/Agent-as-Data-Analyst 五维演化轨迹，系统梳理 LLM 增强的数据准备范式。条目按 LLM 训练阶段（预训练/持续预训练/SFT/RL/RAG/评测/Agent）与数据处理环节（采集、清洗、去重等）分类组织，面向 LLM 数据方向的研究者与开发者提供文献检索入口。
+"LLM × DATA" 综述论文的官方仓库，收录与 LLM 相关的数据中心方法论文与项目。内容按数据集、LLM 各阶段数据（预训练、SFT、RLHF、RAG、评测、Agent）、数据获取、爬取工具等目录组织，每条附论文或数据集链接。中英双语 README，提供综述幻灯片与引用条目。自身不含代码与安装内容，仅作为文献与数据资源索引。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@ survey 论文 "A Survey of LLM × DATA" 的官方仓库，按论文结构收录�
 
 ## 能力要点
 
-- 覆盖数据集、论文与工具三类条目
-- 按 LLM 训练阶段与数据处理环节双维度分类
-- 提出 IaaS 数据质量四维概念（Inclusiveness/Abundance/Articulation/Sanitization）
-- 提供中文版 README 与公开幻灯片
+- 收录 CommonCrawl、RedPajama、CCI 3.0 等预训练与微调数据集条目
+- 按 LLM 生命周期阶段（预训练/SFT/RL/RAG/评测/Agent）组织论文
+- 含数据获取来源与爬取工具（Beautiful Soup/Selenium/Playwright）清单
+- 提供中英双语版本与综述幻灯片
 
 ## 适用场景
 
-- 查找 LLM 预训练/微数据集与相关论文
-- 了解 LLM 数据准备领域的方法分类与研究路线图
-- 为数据工程选题检索已有工具与数据集
+- 为 LLM 预训练或微调寻找公开数据集
+- 调研数据中心方法的相关论文
+- 搭建数据采集与处理流程时参考工具选型
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: > A collection of papers and projects related to LLMs and corresponding data-centric methods. arXiv
-> L81: ## 0 Data Characteristics across LLM Stages
-> L163: ## 1 Data Processing for LLM
+> L41: ## Table of Contents
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "OpenDataBox/awesome-data-llm 星数(近 7 点)"
-    x-axis ["2026-10-20", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-23"]
+    title "OpenDataBox/awesome-data-llm 星数(近 8 点)"
+    x-axis ["2026-10-21", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-24"]
     y-axis "stars" 832 --> 838
-    line [833, 835, 833, 834, 835, 836, 837]
+    line [833, 835, 833, 834, 835, 836, 837, 837]
 ```
 
-2026-10-20 833 → 2026-11-23 837（+4）
+2026-10-21 833 → 2026-11-24 837（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `31df570f300b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ee203bebb63d` · [字段定义](../../DATASET.md)*

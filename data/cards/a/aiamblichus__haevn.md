@@ -46,12 +46,12 @@ Chrome Manifest V3 扩展，将 ChatGPT、Claude、Gemini、Poe、DeepSeek、Qwe
 ```mermaid
 xychart-beta
     title "aiamblichus/haevn 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-21 17 → 2026-11-23 17（+0）
+2026-10-22 17 → 2026-11-24 17（+0）
 
 
 ---

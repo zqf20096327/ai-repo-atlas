@@ -2,9 +2,9 @@
 
 ⭐ 780 · Jupyter Notebook · MIT · 推送 2026-11-08 · [GitHub](https://github.com/markovka17/dla) · 组织维护
 
-**HSE 音频深度学习课程讲义与研讨会材料库**
+**HSE 语音方向深度学习课程的教学材料仓库**
 
-莫斯科高等经济大学（HSE）CS 系开设的 Deep Learning for Audio 课程仓库，按周组织讲义与研讨会材料，内容涵盖数字信号处理、自动语音识别（CTC、Whisper、RNN-T）、关键词检测、说话人验证等主题。提供作业与项目模板、YouTube 俄语授课录像（部分周有英语录像），并保留 2020-2025 年历史版本。2026 秋季为当前版本，多数周次内容与作业标注 TBA。
+HSE 计算机系秋季课程《Deep Learning for Audio》的讲义与研讨课材料仓库，按周组织于 week* 目录。内容覆盖数字信号处理（傅里叶变换、梅尔频谱、MFCC）、语音识别三讲（CTC、DeepSpeech2、Conformer、Whisper、wav2vec 2.0、HuBERT 等）、源分离与去噪（Demucs、DCCRN 等），并提供 YouTube 录课（俄语为主，部分周有英语版）、项目模板与 2020-2025 历年版本链接。课程进行至 week06，后续周与作业标注 TBA。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按周组织的音频深度学习课程材料（DSP、ASR 等）
-- 涵盖 CTC、Whisper、RNN-T 等语音识别技术主题
-- 提供课程项目模板与历年版本（2020-2025）
-- YouTube 俄语授课录像，部分周次有英语录像
+- 按周组织的讲义与研讨课材料（week* 目录）
+- 覆盖 DSP、ASR（CTC/Whisper/wav2vec 2.0/HuBERT）、源分离等主题
+- 提供项目模板与 YouTube 录课（俄语为主，部分英语）
+- 保留 2020-2025 历年课程版本链接
 
 ## 适用场景
 
-- 按周自学音频深度学习课程内容
-- 查找语音识别相关讲义与实践材料
-- 参考课程项目模板布置作业或项目
+- 系统学习音频深度学习与语音识别基础知识
+- 配合课程周目录查找讲义与研讨材料
+- 参考其项目模板搭建语音相关作业工程
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
-> L5: - Lecture and seminar materials for each week are in `./week*` folders, see `README.md` for materials and instructio
+> L3: # Deep Learning for Audio (DLA)
 > L7: - The current version of the course is conducted in **autumn 2026** at the CS Faculty of HSE.
-> L26:  - Lecture: Metrics, Datasets, Connectionist Temporal Classification (CTC), DeepSpeech2, Conformer, Beam Search, La
+> L11: # Syllabus
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "markovka17/dla 星数(近 12 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-24"]
     y-axis "stars" 771 --> 781
     line [772, 773, 774, 775, 776, 777, 774, 777, 778, 779, 780, 780]
 ```
 
-2026-10-21 772 → 2026-11-23 780（+8）
+2026-10-22 772 → 2026-11-24 780（+8）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5aed6b08c51b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1b60c6660ff4` · [字段定义](../../DATASET.md)*

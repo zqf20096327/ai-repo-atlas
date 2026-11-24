@@ -46,12 +46,12 @@ DeepSeek Harness 的任务派发与工作台插件：主会话提交自包含任
 ```mermaid
 xychart-beta
     title "wychmod/dsh-mini-superagent 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-23"]
+    x-axis ["2026-11-21", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-23 3（+0）
+2026-11-21 3 → 2026-11-24 3（+0）
 
 
 ---

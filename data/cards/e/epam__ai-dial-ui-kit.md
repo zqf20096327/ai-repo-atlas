@@ -46,12 +46,12 @@ EPAM 发布的生产级 React 组件库（TypeScript 编写，Apache 2.0），�
 ```mermaid
 xychart-beta
     title "epam/ai-dial-ui-kit 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-20 10 → 2026-11-23 10（+0）
+2026-10-21 10 → 2026-11-24 10（+0）
 
 
 ---

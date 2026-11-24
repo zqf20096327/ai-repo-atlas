@@ -2,15 +2,15 @@
 
 ⭐ 928 · JavaScript · 推送 2026-11-22 · [GitHub](https://github.com/open-webui/docs) · [官网](https://docs.openwebui.com) · 组织维护
 
-**Open WebUI 官方文档站：部署、插件、API 与 RAG 使用指南**
+**Open WebUI 的文档站点源码与构建流程**
 
-基于 Docusaurus 构建的 Open WebUI 官方文档仓库，覆盖安装与配置指南（Docker、本地、手动方式）、插件与扩展文档、API 参考与 pipeline 用法、文件上传与 RAG 集成说明，以及开发者贡献指南。面向 Open WebUI 的用户与贡献者，文档站发布于 docs.openwebui.com。本仓库为文档源码，非 Open WebUI 软件本体。
+docs.openwebui.com 的文档仓库，使用 Docusaurus 构建。README 仅描述贡献者工作流：安装 .node-version 指定的 Node.js 版本，通过 npm ci 与 npm start 本地运行站点，编辑 docs/ 目录下的页面，npm run build 校验生产构建后提交 pull request，并指向 contributing guide。README 未包含 Open WebUI 产品本身的功能、安装或使用说明，仅面向参与文档编写的人员。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,37 +20,36 @@
 
 ## 能力要点
 
-- Docker、本地、手动三种安装路径的指南
-- 插件/扩展与 pipeline 用法文档
-- 文件上传与 RAG 集成说明
+- Docusaurus 构建的文档站点源码
+- npm ci + npm start 本地运行文档
+- npm run build 校验生产构建
 
 ## 适用场景
 
-- 查阅 Open WebUI 的安装与配置方法
-- 了解插件、pipeline 与 RAG 功能的用法
-- 参与文档贡献
+- 为 Open WebUI 文档贡献或修改页面
+- 本地预览文档站点效果
 
 ## 场景标签
 
- · 领域:LLM 基础设施/文档
+ · 领域:文档/开发者工具
 
 ## 证据(README 行号)
 
-> L3: Welcome to the official documentation for **Open WebUI** — a self-hosted, privacy-focused, and extensible AI interfa
-> L7: - 🔧 Installation & setup guides (Docker, local, manual)
+> L3: Source for docs.openwebui.com, built with Docusaurus.
+> L5: Use the Node.js version in .node-version, then run:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "open-webui/docs 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    title "open-webui/docs 星数(近 17 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 895 --> 931
-    line [898, 899, 902, 904, 910, 913, 902, 917, 918, 919, 921, 923, 924, 925, 926, 928]
+    line [898, 899, 902, 904, 910, 913, 902, 917, 918, 919, 921, 923, 924, 925, 926, 928, 928]
 ```
 
-2026-10-21 898 → 2026-11-23 928（+30）
+2026-10-22 898 → 2026-11-24 928（+30）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `6b68c8f19444` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c4b532e789a5` · [字段定义](../../DATASET.md)*

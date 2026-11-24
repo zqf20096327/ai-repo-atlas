@@ -45,13 +45,13 @@ Chromium Manifest V3 浏览器扩展（Chrome/Edge），把当前 AI 网站会�
 
 ```mermaid
 xychart-beta
-    title "Zhaimiaoyizhi/TurnMap 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 38 --> 43
-    line [39, 40, 41, 42, 42]
+    title "Zhaimiaoyizhi/TurnMap 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 42, 42]
 ```
 
-2026-10-21 39 → 2026-11-23 42（+3）
+2026-10-22 40 → 2026-11-24 42（+2）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 814 · Jupyter Notebook · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/datawhalechina/llm-algo-leetcode) · [官网](https://datawhalechina.github.io/llm-algo-leetcode/) · 组织维护 · 中文 README
 
-**面向学习者的 LLM 算法与系统 Notebook 教程（PyTorch→Triton→CUDA）**
+**以 Notebook 为载体的大模型算法与系统教程**
 
-Datawhale 维护的以 Notebook 为载体的大模型算法与系统教程：从 Part 02 的 PyTorch 算法实践出发，按需回补 Python/PyTorch 与硬件数学基础（Part 00/01），延伸到 Triton 算子开发（Part 03）与 CUDA C++ 及系统优化（Part 04），并以综合项目收口。内容按模型架构与训练、后训练、推理优化、性能优化、算子优化五条主路线及基础、横向、领域专题组织，每节含可运行代码、题目区、答案区与验证。第四、五部分及多条专题路线标注为建设中。文字内容 CC BY 4.0、代码 Apache-2.0 分别授权。
+Datawhale 维护的可运行 Notebook 教程，覆盖模型架构与训练、后训练优化、推理优化、性能优化与算子优化五条主线，按 PyTorch → Triton → CUDA 路径从模型实现下探到 GPU kernel 与系统调优。每节含题目区、答案区与基础验证，并通过 benchmark、profiling 与真实 GPU/inference backend 实验对比吞吐、延迟与显存。Part 00-03 已完成，Part 04-05 建设中；本地 CPU 练习提供 git clone 与环境配置脚本入口。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ Datawhale 维护的以 Notebook 为载体的大模型算法与系统教程：从
 
 ## 能力要点
 
-- PyTorch → Triton → CUDA 逐层下探的学习路线，覆盖训练、推理、量化、并行与算子优化
-- Notebook-first：每节含可运行代码、题目、答案与基础验证
-- 通过 benchmark、profiling、真实 GPU 与 inference backend 实验比较吞吐、延迟、显存与成本
-- Part 00–04 合计 100+ 节课程，配五条主路线与跨 Part 专题导航
+- 五条主学习路线加基础、横向、领域专题导航
+- Notebook-first：可运行代码、题目区、答案区与基础验证
+- 从 PyTorch 到 Triton、CUDA 的算子与系统优化贯通
+- 配套 Colab 徽章与 VitePress 文档站点
 
 ## 适用场景
 
-- 系统学习 Transformer 训练、微调、推理与模型压缩的实现
-- 从 PyTorch 进阶到 Triton 算子与 CUDA kernel 开发
-- 通过 benchmark 与 profiling 实验建立性能优化判断
-- 按专题（量化压缩、通信并行、部署异构等）跳读补齐特定知识
+- 用 PyTorch Notebook 系统学习 Transformer 训练、微调与推理
+- 学习 Triton/CUDA 算子开发与 GPU 性能优化
+- 通过 benchmark 与 profiling 实验建立推理部署的工程判断
 
 ## 场景标签
 
@@ -38,21 +37,22 @@ Datawhale 维护的以 Notebook 为载体的大模型算法与系统教程：从
 
 ## 证据(README 行号)
 
-> L27: 这是一个以 Notebook 为载体的大模型算法与系统教程。教程从 Part 02 的 PyTorch 算法实践出发，按需回补 Part 00 / Part 01 的基础，并进一步延伸到 Part 03 的 Triton 算子开发
 > L3:  Runnable notebooks for LLM algorithms and systems.
+> L27: 这是一个以 Notebook 为载体的大模型算法与系统教程。教程从 Part 02 的 PyTorch 算法实践出发，按需回补 Part 00 / Part 01 的基础，并进一步延伸到 Part 03 的 Triton 算子开发
+> L33: 1. **Notebook-first**：每节围绕可运行代码、题目区、答案区和基础验证展开，适合边学边改。
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "datawhalechina/llm-algo-leetcode 星数(近 8 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "datawhalechina/llm-algo-leetcode 星数(近 9 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 781 --> 817
-    line [784, 797, 803, 805, 808, 811, 812, 814]
+    line [784, 797, 803, 805, 808, 811, 812, 814, 814]
 ```
 
-2026-11-15 784 → 2026-11-23 814（+30）
+2026-11-15 784 → 2026-11-24 814（+30）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `7ce680aaef27` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `50d1c69ffe23` · [字段定义](../../DATASET.md)*

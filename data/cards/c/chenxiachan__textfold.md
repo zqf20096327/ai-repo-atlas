@@ -2,9 +2,9 @@
 
 ⭐ 1,318 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/chenxiachan/textfold) · [官网](https://chenxiachan.github.io/textfold/) · 个人维护 · 中文 README
 
-**把论文、网页、文件与 AI 回复折叠为五级详略的本地阅读器**
+**本地运行的文献/网页五级折叠阅读器，逐级缩放原文**
 
-本地运行的文档阅读工具：读取 arXiv、PubMed Central、Wikipedia、GitHub README、PDF、Word、EPUB 等来源，用用户已连接的模型将每个段落折叠为五级详略（原文、摘句、要点、结论、主题图），可逐级缩放并在原文旁对照阅读。支持 Zotero 库接入、逐句多语言翻译、选中段落向 AI 提问并附段落级引用、标注笔记随缩放保留。另以 Claude Code 与 Pi 插件形式折叠 agent 回复，提供 CLI（get/export）与开放折叠格式供脚本与 agent 按层级读取文档。模型接入依赖外部（本地已有客户端或 API key），桌面版打包内置 Python。
+桌面/本地 Web 应用，把论文、网页、文件和 AI 回复折叠成五个细节层级（全文→逐段要点→段落主旨→章节主线→主题地图），每个层级可缩放回作者原文。读取 arXiv、PubMed Central、bioRxiv 等链接和 PDF/Word/EPUB 等文件，支持逐句翻译、高亮笔记、提问与思维导图。文本保存在本机；折叠与提问由用户已有的模型或 API key 驱动，无需注册账号。提供 macOS/Windows 安装包、pip 包与浏览器扩展（Chrome/Edge/Brave）。
 
 ## 筛选速览
 
@@ -20,41 +20,40 @@
 
 ## 能力要点
 
-- 五级详略折叠（Full/Brief/Key/Takeaway/Topic），逐级缩放并保留原文对照
-- 读取 arXiv/PubMed Central/网页/PDF/Office/EPUB 等多种来源，可接入 Zotero 库
-- 选中段落向 AI 提问，答案结构化并逐点引用所依据的段落
-- CLI python3 -m textfold get 按层级供 agent/脚本读取，附开放折叠格式
-- Claude Code 与 Pi 插件将 agent 回复按五级折叠，无第二模型、无摘要
+- 五级折叠：每段在作者原句与 AI 概述之间逐级缩放，可回溯原文
+- 支持 arXiv/PMC/bioRxiv/medRxiv/维基/GitHub 链接与 PDF/Word/EPUB/CSV 等文件
+- 可接入 Claude Code、ChatGPT 订阅、OpenRouter 或多家 API key，含 Ollama 本地模型
+- Zotero 文献库读取、Obsidian 笔记桥接、浏览器一键抓取当前页面
 
 ## 适用场景
 
-- 快速浏览长论文：从主题总览逐级下钻到原文段落
-- 管理并阅读 Zotero 文献库中的条目
-- 让 agent 或脚本按详略层级读取长文档以节省上下文
-- 在 Claude Code 中折叠过长的回复，按键切换详略
+- 分层阅读长论文，从主题地图逐级展开到原文
+- 折叠 Claude Code/Pi 等 agent 的长回复，逐层查看要点
+- 逐句翻译外文文献并保留公式排版
+- 配合 Zotero 与 Obsidian 管理本地文献阅读流
 
 ## 场景标签
 
-`知识库管理` `科研工具` `文档问答` · 领域:知识与检索
+`科研工具` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
+> L5:  Fold it, instead of summarizing it. AI decides what each level leaves out. Every paragraph opens back to the author
 > L32: |**3**|**Key**|its point and the reason for it|AI, resting on the Brief sentences|
-> L54: - **Ask AI about exactly what you read.** Select a passage, or ask about the whole text. The answer comes structure
-> L152: python3 -m textfold get https://arxiv.org/abs/2512.23916        # the map: every section's topic
+> L106: Open `http://localhost:3017`. The first time, connect a model; then paste a link or drop a file, and pick a langua
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "chenxiachan/textfold 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 287 --> 1411
-    line [380, 405, 430, 467, 516, 668, 732, 770, 787, 796, 819, 838, 857, 516, 959, 984, 1004, 1025, 1037, 1046, 1070, 1199, 1239, 1266, 1280, 1300, 1310, 1318]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 314 --> 1409
+    line [405, 430, 467, 516, 668, 732, 770, 787, 796, 819, 838, 857, 516, 959, 984, 1004, 1025, 1037, 1046, 1070, 1199, 1239, 1266, 1280, 1300, 1310, 1318, 1318]
 ```
 
-2026-10-21 380 → 2026-11-23 1,318（+938）
+2026-10-22 405 → 2026-11-24 1,318（+913）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6db4819033df` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `72ff5af4f753` · [字段定义](../../DATASET.md)*

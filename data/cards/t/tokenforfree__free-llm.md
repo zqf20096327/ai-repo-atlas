@@ -40,6 +40,18 @@
 > L1: # ⚡ free-llm · 免费API · 免费Token · 2026 最新AI大模型免费公益站合集与实测指南
 > L238: 本项目旨在整理高可用大模型免费 API、免费 Token 资源与公益站指引。内容持续高频实测更新，欢迎 Star 关注！
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tokenforfree/free-llm 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b83acf0e9477` · [字段定义](../../DATASET.md)*

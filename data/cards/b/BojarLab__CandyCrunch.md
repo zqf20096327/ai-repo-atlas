@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "BojarLab/CandyCrunch 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "BojarLab/CandyCrunch 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 36 --> 38
+    line [37, 37]
 ```
 
-2026-10-21 36 → 2026-11-23 37（+1）
+2026-10-22 37 → 2026-11-24 37（+0）
 
 
 ---

@@ -47,12 +47,12 @@ Windows 桌面聊天应用（Tauri 2 + React + Rust），让用户连接 Groq、
 ```mermaid
 xychart-beta
     title "AkshitIreddy/cupcake-chat 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 126 --> 128
     line [127, 127]
 ```
 
-2026-10-20 127 → 2026-11-23 127（+0）
+2026-10-21 127 → 2026-11-24 127（+0）
 
 
 ---

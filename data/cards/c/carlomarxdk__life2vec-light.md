@@ -45,12 +45,12 @@ life2vec 论文（Using Sequences of Life-events to Predict Human Lives）模型
 ```mermaid
 xychart-beta
     title "carlomarxdk/life2vec-light 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-11-12", "2026-11-14", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-12", "2026-11-14", "2026-11-24"]
     y-axis "stars" 56 --> 60
     line [57, 58, 59, 59]
 ```
 
-2026-10-21 57 → 2026-11-23 59（+2）
+2026-10-22 57 → 2026-11-24 59（+2）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jango-blockchained/advanced-homeassistant-mcp 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
     y-axis "stars" 56 --> 59
     line [57, 58, 58]
 ```
 
-2026-10-20 57 → 2026-11-23 58（+1）
+2026-10-21 57 → 2026-11-24 58（+1）
 
 
 ---

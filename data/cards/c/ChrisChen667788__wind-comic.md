@@ -2,9 +2,9 @@
 
 ⭐ 722 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ChrisChen667788/wind-comic) · [官网](https://github.com/ChrisChen667788/wind-comic) · 个人维护 · 中文 README
 
-**一句话文本生成完整短剧的多 Agent AI 工作室**
+**一句话生成完整短剧（剧本·分镜·配音·mp4）的多 Agent 工作室**
 
-面向短剧创作者的多 Agent 流水线应用：输入一句话，经 Writer、Director、Character Designer、Storyboard Artist 等 8 个角色协作，产出剧本、角色设定、分镜、配音、时间线与最终 mp4。支持可复用角色、长篇小说自动分集、导演级控片台（演员/镜头调度、构图草图）、实时多人协作时间线与逐帧检查+分段重拍。LLM 网关在 DeepSeek→MiniMax 间自动回退，12+ 媒体引擎（Midjourney/Seedance/Kling/Veo/Vidu/fal/ComfyUI 等）经统一路由接入，双驱动存储（SQLite⇄PostgreSQL）。以 Next.js 16 / Node 20+ 项目形式提供。
+基于 Next.js 的多 Agent AI 创作流水线：输入一句话，经 Writer、Director、Storyboard 等 8 个角色 Agent 依次产出剧本、角色设定、分镜、配音、BGM、口型同步与最终 mp4。LLM 网关支持自带密钥并在多个模型间回退；12+ 媒体引擎经统一路由接入，生成时多引擎竞速取首个合格片段；视频打分低于 70 自动重生成（Vision-Audit 循环）。提供导演控片台、逐帧检查与片段重拍、实时多人时间线协作，数据持久化于 SQLite/PostgreSQL 双驱动。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@
 
 ## 能力要点
 
-- 8 角色多 Agent 流水线：剧本→分镜→视频→剪辑产出完整短剧 mp4
-- 导演级控片台：演员/镜头调度生成 prompt 指令与布局草图，镜头语言由几何推导
-- Vision-Audit 重试循环与多引擎竞速（Seedance/Kling/Veo/Vidu 先到先用）
-- 逐帧检查与分段重拍：只重生成指定秒数，其余帧视觉无损重编码
+- 8 角色 Agent 流水线，阶段产物独立持久化并可单独重跑
+- LLM 网关多模型回退，12+ 媒体引擎统一路由与多引擎竞速
+- 导演控片台：几何推导景别/机位，生成前做构图确定性审计
+- 逐帧检查→片段重拍闭环，只重生成损坏区段并保留版本回滚
 
 ## 适用场景
 
-- 把一句话创意变成带配音和 BGM 的完整短剧
-- 将长篇小说自动分集并保持角色一致性
-- 团队在实时协作时间线上共同剪辑成片
+- 把一句话创意直接产出成带配音与 BGM 的成片短剧
+- 长篇小说自动分集改编为系列短剧
+- 团队通过实时时间线协作剪辑与重拍个别镜头
+- 指定演员站位与摄像机位后按精确调度指令生成画面
 
 ## 场景标签
 
-`多智能体` `视频生成` `图像生成` · 领域:Agent 开发
+`多智能体` `视频生成` `AI 写作` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5:  One sentence in. A finished short-form drama out — script, cast, storyboards, voiceover, timeline, mp4.
-> L33: It works because it doesn't try to be one giant model. It's an **honest multi-agent pipeline** where each role (Wri
+> L40: It works because it doesn't try to be one giant model. It's an **honest multi-agent pipeline** where each role (Wri
+> L55:  **System architecture** — five layers, top to bottom. The **Director** threads control across the seven pipeline a
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ChrisChen667788/wind-comic 星数(近 17 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    title "ChrisChen667788/wind-comic 星数(近 16 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
     y-axis "stars" 700 --> 724
-    line [711, 716, 702, 703, 704, 707, 703, 706, 712, 713, 714, 718, 719, 720, 721, 722, 722]
+    line [716, 702, 703, 704, 707, 703, 706, 712, 713, 714, 718, 719, 720, 721, 722, 722]
 ```
 
-2026-10-21 711 → 2026-11-23 722（+11）
+2026-10-22 716 → 2026-11-24 722（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 low · 依据 README sha `62baf023ba29` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c6d4f4135c91` · [字段定义](../../DATASET.md)*

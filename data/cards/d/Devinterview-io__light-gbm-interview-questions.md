@@ -44,12 +44,12 @@ Devinterview.io 机器学习/数据科学面试题库中的 LightGBM 专题，�
 ```mermaid
 xychart-beta
     title "Devinterview-io/light-gbm-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-23 10（+0）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

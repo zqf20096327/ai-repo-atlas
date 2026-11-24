@@ -46,12 +46,12 @@ Unique Domains 维护的 .ai 一词域名公开数据集仓库：发布 1,000 �
 ```mermaid
 xychart-beta
     title "UniqueDomains/ai-oneword-domains 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-21 17 → 2026-11-23 17（+0）
+2026-10-22 17 → 2026-11-24 17（+0）
 
 
 ---

@@ -41,6 +41,18 @@
 > L18: ~/.justfit/bin/justfit serve
 > L59: - `return_token_ids` (vLLM/SGLang-compatible token-in/token-out), crash-request
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "YuhuaBillChen/justfit-llm 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-23 12 → 2026-11-24 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `d8b7d5982c4f` · [字段定义](../../DATASET.md)*

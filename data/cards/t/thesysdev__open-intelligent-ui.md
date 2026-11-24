@@ -2,9 +2,9 @@
 
 ⭐ 1,041 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/thesysdev/open-intelligent-ui) · [官网](https://www.openui.com/demo/intelligent-ui) · 组织维护
 
-**开源复刻 ChatGPT Intelligent UI 的生成式界面示例应用**
+**开源复刻 ChatGPT 智能界面：回答以交互式 UI 流式呈现**
 
-基于 OpenUI 标准与 Next.js 的示例应用：模型流式输出 OpenUI Lang，前端用组件原语库（布局、输入、图表、MapLibre 地图、SVG 绘图、沙箱 HTML 等）自排版渲染，配合 59 个 @functions 在页面内计算状态，产出地图、行程、仪表盘等可交互答案而非纯文本。默认经 OpenUI Cloud（Thesys Gateway）生成并校正输出，也可切换任意 OpenAI 兼容 API 或本地 Ollama（无 API key）。面向希望在自家应用中构建同类界面的开发者，含 /gallery 十六个示例程序与基准预览页。
+基于 OpenUI（生成式 UI 开放标准）构建的 Next.js 演示应用，复现 ChatGPT Intelligent UI：模型流式输出 OpenUI Lang 程序，由组件原语（布局、文本、输入、图表、地图、SVG 绘图、HTML 沙盒）渲染为交互式答案，含 59 个 @functions 支持答案内计算与状态绑定。默认经 OpenUI Cloud 网关，也可接任意 OpenAI 兼容 API 或通过 Ollama 跑本地模型。需 Node 24；本地模型建议 32 GB 内存。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 模型流式生成 OpenUI Lang，由约 40 种组件原语自排版渲染为交互式 UI
-- 59 个 @functions 让答案在页面内基于 $variables 实时计算
-- 支持 OpenUI Cloud、任意 OpenAI 兼容 API 与本地 Ollama 三种模型路径
-- SearchImage 经 Wikipedia/Wikimedia Commons 取图，OSRM 提供街道路线
+- 模型流式生成 OpenUI Lang，前端以组件原语渲染交互式答案
+- 59 个 @functions 与 $variable 状态绑定，答案内可计算与交互
+- 支持 OpenUI Cloud、任意 OpenAI 兼容 API 和 Ollama 本地模型三条路径
+- /gallery 提供 16 个示例的手写程序用于开发调试
 
 ## 适用场景
 
-- 在我的应用里复现 ChatGPT 式的交互式回答体验
-- 学习 Generative UI 的组件库、提示词与状态绑定实现
-- 用本地 Ollama 模型无 API key 运行生成式界面 demo
+- 在自己的应用中构建以交互 UI 呈现的 AI 对话界面
+- 本地模型离线运行生成式 UI 演示
+- 研究 OpenUI Lang 程序与组件库的组织方式
 
 ## 场景标签
 
- · 领域:LLM 应用/生成式 UI
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L3: **An open-source implementation of the "Intelligent UI" experience introduced in ChatGPT, built on OpenUI.**
+> L7: In ChatGPT's Intelligent UI, a request such as "plan a day in San Francisco" returns an interactive answer (a map, p
 > L21: The model streams OpenUI Lang 1.0, and the app renders it with a library of primitives the model arranges itself: n
-> L106: - **Generation.** `/api/chat` calls OpenUI Gateway's Responses API with `generateSystemPrompt({ cloud: true })`, s
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "thesysdev/open-intelligent-ui 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 584 --> 1082
-    line [625, 746, 770, 791, 807, 822, 846, 853, 867, 874, 884, 893, 898, 807, 959, 970, 977, 986, 991, 996, 1001, 1006, 1014, 1020, 1027, 1036, 1038, 1041]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 717 --> 1070
+    line [746, 770, 791, 807, 822, 846, 853, 867, 874, 884, 893, 898, 807, 959, 970, 977, 986, 991, 996, 1001, 1006, 1014, 1020, 1027, 1036, 1038, 1041, 1041]
 ```
 
-2026-10-21 625 → 2026-11-23 1,041（+416）
+2026-10-22 746 → 2026-11-24 1,041（+295）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e6973df6153f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3c196c80ca7a` · [字段定义](../../DATASET.md)*

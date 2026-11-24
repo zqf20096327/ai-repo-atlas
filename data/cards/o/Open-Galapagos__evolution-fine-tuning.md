@@ -45,12 +45,12 @@ NeurIPS 2026 论文『Evolution Fine-Tuning (EFT)』的官方代码、数据集�
 ```mermaid
 xychart-beta
     title "Open-Galapagos/evolution-fine-tuning 星数(近 3 点)"
-    x-axis ["2026-10-20", "2026-11-13", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-13", "2026-11-24"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-20 30 → 2026-11-23 31（+1）
+2026-10-21 30 → 2026-11-24 31（+1）
 
 
 ---

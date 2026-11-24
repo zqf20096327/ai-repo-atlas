@@ -41,6 +41,18 @@
 > L8: ChatLM-mini-Chinese为中文对话小模型，模型参数只有0.2B（算共享权重约210M），可以在最低4GB显存的机器进行预训练（`batch_size=1`，`fp16`或者` bf16`），`float16`加载、推理
 > L13: - 预训练：整合为端到端的`Text-to-Text`预训练，非`mask`掩码预测预训练。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "charent/ChatLM-mini-Chinese 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 1737 --> 1739
+    line [1738, 1738]
+```
+
+2026-11-23 1,738 → 2026-11-24 1,738（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a237c9481cc7` · [字段定义](../../DATASET.md)*

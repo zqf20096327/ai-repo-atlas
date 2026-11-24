@@ -44,12 +44,12 @@ Azure Cosmos DB 官方维护的资源画廊网站（Docusaurus 构建，发布�
 ```mermaid
 xychart-beta
     title "AzureCosmosDB/gallery 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-21 14 → 2026-11-23 14（+0）
+2026-10-22 14 → 2026-11-24 14（+0）
 
 
 ---

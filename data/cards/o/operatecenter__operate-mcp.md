@@ -44,13 +44,13 @@ Operate.Center 官方 MCP 服务器，通过单个配置片段为 Claude Desktop
 
 ```mermaid
 xychart-beta
-    title "operatecenter/operate-mcp 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-23"]
+    title "operatecenter/operate-mcp 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-23", "2026-11-24"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-11-08 4 → 2026-11-23 5（+1）
+2026-11-08 4 → 2026-11-24 5（+1）
 
 
 ---

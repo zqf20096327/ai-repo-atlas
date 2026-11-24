@@ -41,6 +41,18 @@
 > L9: - 支持flash attention 2 加速
 > L138: ## 6.2 检索式生成（RAG）
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "charent/Phi2-mini-Chinese 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 588 --> 590
+    line [589, 589]
+```
+
+2026-11-23 589 → 2026-11-24 589（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `fdcbb91af15f` · [字段定义](../../DATASET.md)*

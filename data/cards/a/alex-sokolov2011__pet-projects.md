@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "alex-sokolov2011/pet-projects 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 107 --> 110
-    line [108, 109, 109]
+    title "alex-sokolov2011/pet-projects 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 108 --> 110
+    line [109, 109]
 ```
 
-2026-10-21 108 → 2026-11-23 109（+1）
+2026-10-22 109 → 2026-11-24 109（+0）
 
 
 ---

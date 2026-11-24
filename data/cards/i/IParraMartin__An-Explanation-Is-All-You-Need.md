@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "IParraMartin/An-Explanation-Is-All-You-Need 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-21 43 → 2026-11-23 43（+0）
+2026-10-22 43 → 2026-11-24 43（+0）
 
 
 ---

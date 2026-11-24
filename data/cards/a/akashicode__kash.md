@@ -46,12 +46,12 @@ Kash 是用 Go 编写的命令行工具：用 `kash build` 将 PDF、Markdown、
 ```mermaid
 xychart-beta
     title "akashicode/kash 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-21 16 → 2026-11-23 16（+0）
+2026-10-22 16 → 2026-11-24 16（+0）
 
 
 ---

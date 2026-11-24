@@ -2,9 +2,9 @@
 
 ⭐ 790 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bayesflow-org/bayesflow) · [官网](https://bayesflow.org/) · 组织维护
 
-**基于深度学习的摊销贝叶斯推断 Python 库，面向科研用户**
+**面向科研人员的基于仿真的深度学习贝叶斯推断库**
 
-BayesFlow 是用于仿真推断（simulation-based inference）的 Python 库：通过神经网络训练摊销化的后验、似然、比率或点估计器，支持集成与组合估计，处理滤波、平滑与层级模型；内置从扩散模型到一致性模型的生成式模型集合与诊断工具，兼容复杂仿真器与参数化模型，并提供 PyMC 集成。经 Keras3 支持 PyTorch/TensorFlow/JAX 三后端（需自装其一，缺后端无法运行）。2.0 为完全重写版本。
+BayesFlow 是用于仿真推断（SBI）的 Python 库：用户从任意仿真器生成数据，用深度神经网络训练后验、似然、比率或点估计器，实现摊销化的贝叶斯工作流，并配套诊断工具与 PyMC 集成。库本身不绑定具体框架，依赖 Keras 3 多后端（PyTorch/TensorFlow/JAX），需自行安装其中之一方可运行；支持 Python 3.12/3.13，从 PyPI、uv 或源码安装，并提供教程笔记本、视频与论文资源。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ BayesFlow 是用于仿真推断（simulation-based inference）的 Python 库：
 
 ## 能力要点
 
-- 训练摊销化的神经后验/似然/比率/点估计器，支持集成与组合
-- 经 Keras3 支持 JAX/PyTorch/TensorFlow 多后端
-- 生成式模型集合（含扩散与一致性模型）及诊断工具套件
-- PyMC 集成与 15 个教程 notebook、教程论文
+- 摊销化贝叶斯工作流的高层 API（BasicWorkflow 等）
+- 多后端支持：通过 Keras 3 使用 PyTorch、TensorFlow 或 JAX
+- 内置扩散模型到一致性模型的生成模型集合
+- 训练后验/似然/比率/点估计器并组合、集成
 
 ## 适用场景
 
-- 用复杂仿真器做摊销贝叶斯推断与参数估计
-- 流行病（SIR）等科学模型的端到端贝叶斯工作流
-- 贝叶斯模型比较与自适应实验设计
+- 从仿真器数据中训练神经后验估计器做参数推断
+- 传染病 SIR 等模型的端到端贝叶斯工作流
+- 层级贝叶斯模型与贝叶斯实验设计
+- 学习合成似然并接入 PyMC/MCMC 流程
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`科研工具` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L9: BayesFlow is a Python library for efficient Bayesian inference with deep learning.
+> L9: BayesFlow is a Python library for simulation-based inference (SBI) with deep learning.
 > L20: BayesFlow is a flexible framework for Bayesian inference with deep learning—from idea to results in just a few line
 
 ## 星数曲线
@@ -45,13 +46,13 @@ BayesFlow 是用于仿真推断（simulation-based inference）的 Python 库：
 ```mermaid
 xychart-beta
     title "bayesflow-org/bayesflow 星数(近 11 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-24"]
     y-axis "stars" 780 --> 791
     line [781, 782, 783, 782, 784, 785, 786, 787, 788, 790, 790]
 ```
 
-2026-10-21 781 → 2026-11-23 790（+9）
+2026-10-22 781 → 2026-11-24 790（+9）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `262b5aebd546` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4168ac3e2f90` · [字段定义](../../DATASET.md)*

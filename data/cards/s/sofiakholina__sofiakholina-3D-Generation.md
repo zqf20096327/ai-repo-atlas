@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sofiakholina/sofiakholina-3D-Generation 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    title "sofiakholina/sofiakholina-3D-Generation 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 4 --> 15
-    line [5, 10, 14]
+    line [5, 10, 14, 14]
 ```
 
-2026-11-21 5 → 2026-11-23 14（+9）
+2026-11-21 5 → 2026-11-24 14（+9）
 
 
 ---

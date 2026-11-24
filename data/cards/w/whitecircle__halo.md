@@ -2,9 +2,9 @@
 
 ⭐ 869 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/whitecircle/halo) · [官网](https://whitecircle.com/halo) · 组织维护
 
-**训练 LLM 与多模态模型的开源框架**
+**大模型与多模态模型训练框架：预训练/SFT/RL 一体**
 
-White Circle 开发的训练框架，覆盖预训练、SFT、偏好优化与全异步多轮 RL；同一套代码支持单 GPU 到多节点，提供 EP/CP/TP/ETP 并行、FSDP2、BF16 训练与分布式 rollout。直接训练 Hugging Face 模型，检查点保持 from_pretrained 兼容；RL rollout 通过 Ray actor 对接 vLLM/SGLang 服务器并以 NCCL 推送权重。以 Blackwell/Hopper 两套 Docker 镜像分发，无需宿主 Python 环境；集成 DeepEP、FlashAttention 4、Liger 等优化。
+White Circle 开发的开源训练框架，覆盖预训练、SFT、偏好优化与全异步多轮 RL。同一代码库可在单 GPU 或多节点运行，支持 EP/CP/TP/ETP/PP/FSDP2 等并行方式。直接训练 Hugging Face 模型，checkpoint 保持标准 SafeTensors 格式。RL 侧通过 Ray actor 对接 vLLM 或 SGLang 推理服务器进行异步多轮 rollout。提供 Blackwell 与 Hopper 两类 Docker 镜像，无需宿主 Python 环境，内置面向编码 agent 的技能与文档。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@ White Circle 开发的训练框架，覆盖预训练、SFT、偏好优化与全�
 
 ## 能力要点
 
-- 支持预训练/SFT/偏好优化/多轮异步 RL 的统一并行与检查点栈
-- EP/CP/TP/ETP 并行直接加在 Hugging Face 模型上，检查点保持 from_pretrained 兼容
-- 异步 RL 通过 Ray + vLLM/SGLang rollout 服务器，权重经 NCCL 推送
-- QLoRA 示例可在 24GB 消费级 GPU 上运行（Qwen3-4B 峰值 7.9 GiB）
+- 支持预训练、SFT、偏好优化、蒸馏与全异步多轮 RL
+- EP/CP/TP/ETP/PP 多轴并行，可单独或组合配置
+- 直接训练 Hugging Face 模型，checkpoint 兼容 from_pretrained
+- 训练镜像内置 Claude Code/Codex 可发现的 agent 技能
 
 ## 适用场景
 
-- 在多 GPU/多节点集群上做 LLM 或 VLM 的预训练与后训练
-- 对 MoE 模型做 EP/CP 组合并行训练
-- 用 vLLM 或 SGLang rollout 服务器跑异步 GRPO 等多轮 RL
-- 在单张消费级 GPU 上做 QLoRA 微调
+- 在多节点集群上微调大型 MoE 模型
+- 运行带环境交互的异步 GRPO 强化学习训练
+- 单 GPU 上做 LoRA 微调
+- 用编码 agent 辅助配置和调试分布式训练任务
 
 ## 场景标签
 
-`模型训练` `微调` `强化学习` · 领域:训练与推理
+`模型训练` `微调` `强化学习` `多模态` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L12: Halo is an open-source framework built by White Circle for training large language and multimodal models. It suppor
-> L35: - **RL is asynchronous, with a clean Transformers ↔ vLLM/SGLang split.** Multi-turn environment rollouts run as Ray
+> L13: Halo is an open-source framework built by White Circle for training large language and multimodal models. It suppor
+> L40: - **RL is asynchronous, with a clean Transformers ↔ vLLM/SGLang split.** Multi-turn environment rollouts run as Ray
+> L76: Halo ships as separate Docker images for Blackwell and Hopper, with PyTorch, Flash Attention, and
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "whitecircle/halo 星数(近 20 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 823 --> 873
-    line [827, 833, 834, 833, 834, 835, 838, 839, 834, 851, 855, 857, 860, 861, 862, 863, 864, 867, 868, 869]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 830 --> 872
+    line [833, 834, 833, 834, 835, 838, 839, 834, 851, 855, 857, 860, 861, 862, 863, 864, 867, 868, 869, 869]
 ```
 
-2026-10-21 827 → 2026-11-23 869（+42）
+2026-10-22 833 → 2026-11-24 869（+36）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `14508e1911cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2677dda374d7` · [字段定义](../../DATASET.md)*

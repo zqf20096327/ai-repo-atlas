@@ -46,12 +46,12 @@ Kandle 是一个 JavaScript 原生的机器学习框架，采用 Eager Mode（�
 ```mermaid
 xychart-beta
     title "final-kk/kandle 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-23 10（+0）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

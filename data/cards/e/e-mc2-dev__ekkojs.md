@@ -46,12 +46,12 @@ EkkoJS 是一个 ESM 优先的 JavaScript/TypeScript 运行时，由 Rust 宿主
 ```mermaid
 xychart-beta
     title "e-mc2-dev/ekkojs 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-23 10（+0）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

@@ -45,12 +45,12 @@ RFA-Toolbox 是一个 Python 库，通过感受野分析（RFA）在无需训练
 ```mermaid
 xychart-beta
     title "MLRichter/receptive_field_analysis_toolbox 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 117 --> 119
     line [118, 118]
 ```
 
-2026-10-21 118 → 2026-11-23 118（+0）
+2026-10-22 118 → 2026-11-24 118（+0）
 
 
 ---

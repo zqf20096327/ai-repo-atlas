@@ -2,9 +2,9 @@
 
 ⭐ 992 · 推送 2026-11-17 · [GitHub](https://github.com/xing61/zzz-api) · [官网](https://platform.zhizengzeng.com/#/login?aff=github) · 组织维护 · 中文 README
 
-**智增增：多模型 LLM API 中转代理服务（OpenAI 兼容）**
+**面向企业和开发者的大模型 API 接口服务（代理网关）**
 
-智增增提供的商业 API 接口服务：以兼容 OpenAI 接口格式的代理形式，向企业与开发者提供 GPT、Claude、Gemini、文心一言、讯飞星火、ChatGLM、DeepSeek 等多家模型访问，无需自购官方账号或美元银行卡，支持微信充值与对公付款。能力覆盖 batch、assistant、fine-tune、Embedding、DALL-E-3、Whisper 语音识别、TTS、function call 与流式输出。使用时将 base_url 指向其域名并以管理后台获取的 API Key 认证；仓库本身不含代码，仅文档与示例。
+智增增（zzz-api.top）为企业与开发者提供多种大模型 API 的接口代理：兼容 OpenAI 接口格式，替换 base_url 与 API key 即可调用，覆盖 chat、batch、assistant、Fine-tuning、Embedding、TTS、Whisper 语音识别、DALL-E-3 文生图、函数调用与 stream 模式；同时提供 Anthropic claude、Google gemini、xAI grok 的官方接口形式，以及百度文心一言、阿里、讯飞星火、ChatGLM、DeepSeek 等模型。充值走微信与对公付款，管理后台提供 Secret Key、调用记录与余额查询。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 兼容 OpenAI 接口格式，替换 base_url 即可调用
-- 支持 batch / assistant / fine-tune / Embedding / Whisper / TTS / DALL-E-3
-- 同时支持 Claude、Gemini、xAI grok 官方接口形式
-- 提供 LangChain 与原生 HTTP 请求的接入示例
+- 兼容 OpenAI 接口格式，替换 base_url 即可平替调用
+- 支持 Claude、Gemini、xAI grok 官方接口形式
+- 覆盖 batch、assistant、fine-tune、Embedding、Whisper、TTS、DALL-E-3 等接口
+- 管理后台提供独立 Secret Key、调用记录与余额查询
 
 ## 适用场景
 
-- 国内支付方式调用 OpenAI 等海外模型 API
-- 让依赖 OpenAI SDK 的现有应用切换到中转服务
-- 通过统一接口访问多家大模型
+- 国内开发者无美元银行卡时调用 OpenAI/Claude/Gemini 等模型
+- Langchain、向量库、AutoGPT 等应用通过 Embedding 接口接入
+- 用自有数据对 GPT 模型做 fine-tune 微调
+- 企业通过对公付款采购大模型 API 服务
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`微调` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: 支持OpenAI, Anthropic、Gemini等多种接口格式访问大模型
+> L4: 智增增API(zzz-api.top) - 为企业和开发者提供优质稳定的各类大模型的API接口。
 > L20:  * 兼容OpenAI接口格式，可以做到平替。
-> L50: 2、设置base_url为：`https://api.zhizengzeng.com/v1/`, 替换官方的域名: `https://api.openai.com/v1/`
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "xing61/zzz-api 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-11-14", "2026-11-19", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-14", "2026-11-19", "2026-11-24"]
     y-axis "stars" 989 --> 993
     line [990, 991, 992, 992]
 ```
 
-2026-10-21 990 → 2026-11-23 992（+2）
+2026-10-22 990 → 2026-11-24 992（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d149afe7e288` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `81c7466c5082` · [字段定义](../../DATASET.md)*

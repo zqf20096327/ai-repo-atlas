@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Abdulsinsn/Scaler-2-Music-Theory-Engine 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-21 70 → 2026-11-23 70（+0）
+2026-10-22 70 → 2026-11-24 70（+0）
 
 
 ---

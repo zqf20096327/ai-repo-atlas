@@ -41,6 +41,18 @@
 > L24: **OMP Studio** 是 oh-my-pi（`omp`）AI Coding Agent 的跨平台桌面 GUI 与可视化工作台（支持 Windows、macOS 与 Linux）。它基于 Electron 与 React，将
 > L133: Anthropic、OpenAI、OpenRouter、本地 LM Studio 等供应商在同一页管理开关、端点和 <code>modelProviderOrder</code>；在角色页为 <code>@default</co
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "the-snowpear/omp-studio 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 220 --> 222
+    line [221, 221]
+```
+
+2026-11-23 221 → 2026-11-24 221（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a369cef9391d` · [字段定义](../../DATASET.md)*

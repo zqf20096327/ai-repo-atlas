@@ -2,9 +2,9 @@
 
 ⭐ 797 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/aeonfun/aeon) · [官网](https://www.aeon.fun/) · 组织维护
 
-**在 GitHub Actions 上无人值守运行的多 harness 自主 agent 框架**
+**在 GitHub Actions 无人值守运行的自主 agent 框架**
 
-面向开发者的自主 agent 框架：以单个 SKILL.md 文件（frontmatter+提示词）定义技能，通过统一 run-harness 契约驱动九种 agent CLI（Claude Code、Grok、Codex、Pi、Vibe、Kimi、fx、Cursor、Hermes），在用户自己的 GitHub Actions 上按 cron 定时无人值守运行，可提交 PR、部署应用到 Vercel、私下披露漏洞、生成新技能。内含自我修复循环（运行评分 1-5、检测并修复损坏技能）与实例分裂成舰队的机制；默认带只读保护、不可逆操作失败关闭等护栏。配置集中在一个 aeon.yml。支持浏览器端 Aeon Connect 一键创建或终端 ./aeon init 初始化（需 Node.js 20+ 与 GitHub CLI）。
+Aeon 是一个 agent 框架，将 SKILL.md 格式的技能（共 93 个、6 个技能包）调度到 GitHub Actions 上按 cron 无人值守运行，覆盖提交代码 PR、部署应用到 Vercel、漏洞扫描与私下披露、自我撰写与修复技能（heartbeat→skill-health→skill-repair→self-improve 循环）等。同一技能文件通过 run-harness 契约可在 9 个 agent CLI 上运行。运行发生在用户自己的仓库与 Actions 上，密钥存于仓库加密 secrets。安装需 Node.js 20+ 与 GitHub CLI，或通过浏览器版 Aeon Connect 免安装使用。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- 86 个技能、6 个技能包，技能以单个 SKILL.md 文件定义
-- 一套 run-harness 契约驱动九种 agent CLI（Claude Code/Grok/Codex/Kimi/Cursor 等）
-- 运行评分与 skill-repair/self-improve 自我修复循环
-- spawn-instance 可分裂为多个专项实例，密钥隔离、计费独立
+- 93 个 SKILL.md 技能分 6 个技能包，按 cron 调度无人值守运行
+- run-harness 契约使同一技能在 9 个 agent CLI 上互换运行
+- 自愈循环：运行评分 1-5，检测并修复失效技能
+- spawn-instance 可派生专业化实例组成 fleet
 
 ## 适用场景
 
-- 定时让 agent 无人值守向仓库提交 PR、部署原型应用
-- 自动扫描并私下披露开源仓库漏洞
-- 从一句话生成新技能并纳入日程
-- 从 ChatGPT/Claude/Cursor 对话中通过 MCP 连接器操控自己的 agent 实例
+- 让 agent 定时向我的仓库提交功能 PR
+- 定期做漏洞扫描并私下披露
+- 安排每日信息聚合与研究任务自动运行
 
 ## 场景标签
 
-`Agent 框架` `编码 Agent` `网络安全` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L91:  Nine engines, one socket - a SKILL.md flows through run-harness into any of nine agent CLIs: Claude, Grok, Codex, 
-> L42: git clone https://github.com/aeonfun/aeon && cd aeon
+> L1: AEON - the most autonomous agent framework. 93 skills across 9 harnesses (Claude Code, Grok, Codex, Pi, Vibe, Kimi, 
+> L93:  Nine engines, one socket - a SKILL.md flows through run-harness into any of nine agent CLIs: Claude, Grok, Codex, 
 > L29:  Quick start in four steps: Sign in, Connect, Pick, Run. 1 Sign in - log in with GitHub at www.aeon.fun/connect and
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "aeonfun/aeon 星数(近 21 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 777 --> 798
-    line [778, 780, 782, 783, 782, 783, 784, 785, 787, 782, 789, 792, 791, 792, 793, 794, 793, 795, 796, 797, 797]
+    title "aeonfun/aeon 星数(近 20 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 779 --> 798
+    line [780, 782, 783, 782, 783, 784, 785, 787, 782, 789, 792, 791, 792, 793, 794, 793, 795, 796, 797, 797]
 ```
 
-2026-10-21 778 → 2026-11-23 797（+19）
+2026-10-22 780 → 2026-11-24 797（+17）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `845a2d81a55c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2b87d849973b` · [字段定义](../../DATASET.md)*

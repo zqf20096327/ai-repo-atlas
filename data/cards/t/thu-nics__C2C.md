@@ -2,34 +2,34 @@
 
 ⭐ 783 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/thu-nics/C2C) · [官网](https://fuvty.github.io/thinking_yard_project_page/projects/c2c/) · 组织维护 · 中文 README
 
-**让多个 LLM 通过 KV-Cache 直接语义通信的框架**
+**让 LLM 间通过 KV-Cache 直接通信的研究代码库**
 
-清华大学 thu-nics 团队发布的 ICLR'26 论文官方实现：通过投影器（projector）在模型间变换与融合 KV-Cache，绕过文本生成实现模型间通信；论文报告相对单模型准确率提升 8.5–10.5%、较文本通信提升 3.0–5.0%、延迟加速 2.0 倍。面向多模型协作场景，提供 Python 包（Rosetta）、HuggingFace 预训练 Fuser 权重、训练/评测脚本与 Gradio demo。仅训练 projector 参数，源/目标模型冻结；支持不同维度、层数、分词器的任意模型对。多 sharer 融合功能声明为初步阶段仍在开发。
+论文 Cache-to-Cache 的官方实现（Python 包 Rosetta）：通过投影与融合两个模型的 KV-Cache 实现直接语义通信，绕过文本生成环节，论文报告相较单模型与文本通信的精度与延迟数据。提供预训练 Fuser 权重加载、交互式 chat 示例、RosettaModel 通用包装器、Fuser 训练脚本与统一评测脚本，支持任意模型对的训练与自定义 projector/dataset/benchmark 扩展。面向 LLM 通信方向的研究者，安装依赖 conda 环境与 pip。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- KV-Cache 投影与融合实现模型间直接通信，无需文本生成
-- 仅更新 projector 参数，源与目标模型均冻结
-- 支持不同隐藏维度/层数/分词器的任意模型对
-- 提供预训练 Fuser 权重、训练/评测配置与交互式 chat 示例
+- 通过投影/融合 KV-Cache 实现 LLM 间直接语义通信
+- 提供 7 组预训练 projector 权重（Qwen3/Qwen2.5/Llama-3.2 组合）
+- RosettaModel 包装器可应用于任意 LLM（自动处理维度/层数/头数/分词器差异）
+- 训练时仅更新 projector 参数，源/目标模型冻结
 
 ## 适用场景
 
-- 让两个 LLM 直接交换 KV-Cache 以融合语义提升回答准确率
-- 训练自定义模型对的 C2C projector
-- 对比 cache 通信与文本通信的准确率与延迟
+- 复现 ICLR'26 论文的 KV-Cache 融合实验
+- 在自己的两个 LLM 之间训练缓存级通信 projector
+- 运行多模型协作的交互式对话示例
 
 ## 场景标签
 
@@ -38,20 +38,21 @@
 ## 证据(README 行号)
 
 > L11: Cache-to-Cache (C2C) enables Large Language Models to communicate directly through their KV-Caches, bypassing text 
-> L156: Add a new projector architecture in `rosetta/model/projector.py`. The projector transforms source model's KV-Cache
+> L96: You can apply C2C to your own LLMs with a few lines of code. We provide a universal `RosettaModel` wrapper.
+> L140: - `rosetta/`: The main package for Cache-to-Cache.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "thu-nics/C2C 星数(近 21 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
     y-axis "stars" 727 --> 788
     line [734, 732, 736, 747, 756, 761, 762, 764, 765, 732, 771, 772, 774, 776, 778, 779, 780, 781, 782, 783, 783]
 ```
 
-2026-10-20 734 → 2026-11-23 783（+49）
+2026-10-21 734 → 2026-11-24 783（+49）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a0ec3b1a945d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f7a7f8f3c072` · [字段定义](../../DATASET.md)*

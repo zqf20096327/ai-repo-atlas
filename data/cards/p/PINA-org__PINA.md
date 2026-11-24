@@ -2,15 +2,15 @@
 
 ⭐ 802 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PINA-org/PINA) · [官网](https://pina-org.github.io/PINA/) · 组织维护
 
-**科学机器学习 Python 库：用 PINN 与神经算子求解微分方程**
+**面向科研人员的科学机器学习 Python 库：解微分方程与物理建模**
 
-PINA 是基于 PyTorch、PyTorch Lightning 与 PyTorch Geometric 的开源 Python 库，面向科学机器学习（SciML）问题：物理信息神经网络（PINN）、神经算子、KAN、数据驱动建模与微分方程求解。采用 Problem/Model/Solver/Trainer 四步流水线，条件与求解器解耦，支持多设备训练与时间序列/图结构条件。v0.3.2 起附带面向 opencode、Claude Code、Cursor 的 AI agent 技能，引导用户完成从问题定义到训练的全流程。以 PyPI 包与源码两种方式安装，附教程与 JOSS 论文。
+PINA 是一个开源 Python 库，用于简化科学机器学习（SciML）方案的开发，覆盖物理信息神经网络（PINNs）、神经算子、数据驱动建模等。基于 PyTorch、PyTorch Lightning 与 PyTorch Geometric 构建，提供四步流水线：Problem API 定义问题、Model API 设计模型、Solver API 选择求解器、Trainer API 训练。支持多设备训练与可组合的 mixin 架构，v0.3.2 加入引导用户的 AI agent 技能。开发受 SISSA MathLab 等科研机构资助。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,39 +20,39 @@ PINA 是基于 PyTorch、PyTorch Lightning 与 PyTorch Geometric 的开源 Pytho
 
 ## 能力要点
 
-- PINN、神经算子、KAN 与数据驱动建模统一框架
-- Problem/Model/Solver/Trainer 四步流水线，条件与求解器解耦
-- 自回归求解器与多模型求解器、时间序列与图时间序列条件
-- v0.3.2 内置 AI agent 技能（opencode/Claude Code/Cursor）引导工作流
+- PINNs、神经算子与数据驱动建模的统一框架
+- 四步流水线：Problem/Model/Solver/Trainer API
+- 原生多设备训练与可组合 mixin 架构
+- 内置 AI agent 技能（opencode/Claude Code/Cursor）引导完整工作流
 
 ## 适用场景
 
-- 用 PINN 求解 ODE/PDE 微分方程问题
-- 在物理约束下做数据驱动建模与时间序列预测
-- 借助 agent 技能以自然语言对话走完建模流程
+- 求解 PDE/ODE 微分方程问题
+- 做物理信息神经网络与神经算子实验
+- 时间序列与图结构数据的自回归预测建模
 
 ## 场景标签
 
- · 领域:科学计算/机器学习
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L18:  PINA is an open-source Python library designed to simplify and accelerate the development of
-> L19:  Scientific Machine Learning (SciML) solutions, including PINNs, Neural Operators,
-> L57: PINA provides an intuitive framework for defining, experimenting with, and solving complex problems using Neural Ne
+> L113: Solving a differential problem in PINA follows a clean four-step pipeline:
+> L179: This repository includes AI agent skills (guides for opencode, Claude Code, Cursor)
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "PINA-org/PINA 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 797 --> 804
-    line [798, 799, 800, 801, 800, 801, 802, 803, 802, 802]
+    title "PINA-org/PINA 星数(近 9 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-24"]
+    y-axis "stars" 798 --> 804
+    line [799, 800, 801, 800, 801, 802, 803, 802, 802]
 ```
 
-2026-10-21 798 → 2026-11-23 802（+4）
+2026-10-22 799 → 2026-11-24 802（+3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `66bd3b2c82a0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `30def2b3fa1f` · [字段定义](../../DATASET.md)*

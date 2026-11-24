@@ -2,9 +2,9 @@
 
 ⭐ 927 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/laolaoshiren/claude-code-skills-zh) · [官网](https://claude-skills.bt199.com/) · 个人维护 · 中文 README
 
-**中文开发者的 Claude Code Skills/Agents/Plugins 精选清单与原创技能库**
+**中文开发者的 Claude Code Skills 精选与原创技能库**
 
-面向中文开发者的 Claude Code Skills 聚合仓库：按热门、开发效率、内容创作、学术科研、AI Agent、中文专属等场景分类收录 438+ 第三方技能项目，并提供可复制即装的原创技能包（zh-code-reviewer、zh-readme、api-tester、refactor-advisor、perf-profiler）。安装方式为 git clone 后复制 skills 目录到 ~/.claude/skills/。条目覆盖 Claude Code、Codex、Gemini CLI、Cursor 等多种 Agent 工具的兼容生态，并附官网与维护手册，声明持续更新。
+面向中文开发者的 Claude Code Skills / Agents / Plugins 精选仓库，收录 445+ 第三方技能并按平台运营、开发效率、内容创作、学术科研、AI Agent、金融/商业、中文专属等场景分类；另含 21 个自研原创中文技能（如 zh-code-reviewer、api-tester）。每条描述以中文说明适用场景与安装方式，并通过 Claude Code 插件市场命令或 git clone 复制到 ~/.claude/skills 安装。MIT 许可，持续更新。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 精选 438+ 第三方技能，按 8 个场景分类组织
-- 5 个原创技能包（代码审查/中文 README/API 测试/重构/性能分析）
-- git clone + cp 到 ~/.claude/skills/ 的复制即装流程
-- 配套官网与分类筛选入口
+- 445+ 第三方技能按场景分类，附中文说明
+- 21 个自研原创中文技能，插件市场一条命令安装
+- 国内平台（公众号/小红书/飞书/企业微信/B站/抖音）技能独立分类
+- 兼容 Claude Code 之外还标注 Cursor / Codex / Gemini CLI 等工具适配
 
 ## 适用场景
 
-- 给 Claude Code 补齐代码审查、API 测试、性能分析等专业能力
-- 按场景查找中文可读、复制即装的现成技能
-- 了解 Claude Code / Codex / Cursor 等工具的技能生态
+- 为 Claude Code 快速补齐代码审查、README、API 测试等能力
+- 找中文可读、复制即装的 Agent 技能
+- 查找公众号、小红书、飞书等国内平台运营技能
 
 ## 场景标签
 
-`精选清单` `提示工程` · 领域:Agent 开发
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: > 🚀 最实用的 Claude Code Skills / Agents / Plugins 合集 | 精选 438+ | 按场景分类 | 复制即装 | 持续更新
-> L51: ## 📖 什么是 Claude Code Skills？
-> L61: git clone https://github.com/laolaoshiren/claude-code-skills-zh.git
+> L35: **claude-code-skills-zh（Claude Code Skills 中文精选集）** 是面向中文开发者的 Claude Code Skills / Agents / Plugins 精选仓库：**445+** 个
+> L61: |分类|一句话说明|常见场景|
+> L98: ## 📖 什么是 Claude Code Skills？
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "laolaoshiren/claude-code-skills-zh 星数(近 21 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "laolaoshiren/claude-code-skills-zh 星数(近 20 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
     y-axis "stars" 889 --> 930
-    line [894, 893, 892, 893, 894, 897, 900, 899, 893, 907, 906, 907, 908, 909, 910, 913, 916, 920, 924, 927, 927]
+    line [893, 892, 893, 894, 897, 900, 899, 893, 907, 906, 907, 908, 909, 910, 913, 916, 920, 924, 927, 927]
 ```
 
-2026-10-21 894 → 2026-11-23 927（+33）
+2026-10-22 893 → 2026-11-24 927（+34）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `05ed9901caf1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `1302a9890f0a` · [字段定义](../../DATASET.md)*

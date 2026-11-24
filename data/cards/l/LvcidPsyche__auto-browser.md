@@ -2,9 +2,9 @@
 
 ⭐ 929 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LvcidPsyche/auto-browser) · [官网](https://github.com/LvcidPsyche/auto-browser) · 个人维护
 
-**MCP 原生浏览器控制平面：让 AI agent 带人工接管地操作真实浏览器**
+**给 MCP 客户端与 LLM Agent 提供带人工接管的真实浏览器控制层**
 
-面向 MCP 客户端、LLM agent 与操作者的自托管浏览器控制层：提供共享 Playwright 浏览器会话（截图、DOM 摘要、OCR、标签与网络检查），配合 noVNC 人工接管、命名认证配置复用登录、审批门禁、审计事件、PII 清洗与 Ed25519 签名的 Witness 回执链。通过 MCP over HTTP、stdio 桥或 REST API 接入，Docker Compose 一键部署，默认端口绑定 127.0.0.1。明确不支持 CAPTCHA 破解与未授权抓取。附 Agent 技能归纳收敛测试装置与合规预设模板。
+MCP 原生的浏览器控制平面：向 MCP 客户端、LLM Agent 与运维人员共享一个 Playwright 浏览器，提供人工接管（noVNC）、可复用登录态（auth profiles）、审批门、审计事件、PII 清洗与 Ed25519 签名的 Witness 证据链。通过 HTTP MCP 端点、stdio 桥或 REST API 暴露 7/20/全量可配置的工具档位，Docker Compose 本地部署，并内置 Stage 0 技能归纳收敛 harness。明确声明不做 CAPTCHA 破解与未授权抓取。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- Playwright 会话 + noVNC 人工接管共享同一活会话
-- 命名认证配置实现登录一次、后续会话复用
-- 审批门禁、操作者身份、PII 清洗与 Ed25519 签名 Witness 回执链
-- MCP over HTTP / stdio 桥 / REST API 三种接入方式，Docker Compose 部署
+- MCP over HTTP、stdio 桥（uvx auto-browser-mcp）与 REST 三种接入方式
+- noVNC 人工接管与登录一次、复用会话的 auth profiles
+- 审批门、操作员身份、PII 清洗与 Ed25519 签名 Witness 收据链
+- MCP_TOOL_PROFILE 可配置 7 工具精简档 / 20 工具精选档 / 全量档
 
 ## 适用场景
 
-- 给 MCP agent 提供带人工接管的真实浏览器环境
-- 登录一次后让 agent 复用已认证会话处理内部系统
-- 需要审批与审计留痕的浏览器自动化工作流
+- 让 Claude Code / Cursor 等 MCP 客户端操作真实浏览器完成网页任务
+- 需要人工介入恢复的脆弱网站流程与运维辅助 QA
+- 登录一次后在后续自动化会话中复用账号状态
+- 内部后台与管理系统中的 Agent 浏览器工作流
 
 ## 场景标签
 
@@ -39,19 +40,20 @@
 
 > L20: Auto Browser is an MCP-native browser control plane for authorized workflows. It gives MCP clients, LLM agents, and
 > L32: - **MCP-native from day one.** The browser surface is already packaged as an MCP server instead of bolted on after 
+> L35: - **Local-first by default.** Run the full stack on your own box with Docker Compose, or use Codespaces for a quick
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "LvcidPsyche/auto-browser 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 908 --> 932
-    line [910, 913, 914, 916, 914, 913, 915, 916, 924, 926, 927, 929, 930, 929]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 912 --> 931
+    line [913, 914, 916, 914, 913, 915, 916, 924, 926, 927, 929, 930, 929, 929]
 ```
 
-2026-10-21 910 → 2026-11-23 929（+19）
+2026-10-22 913 → 2026-11-24 929（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `983a44404a49` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9b8361f96878` · [字段定义](../../DATASET.md)*

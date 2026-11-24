@@ -46,12 +46,12 @@ Rust 编写的单二进制技能管理器，面向使用 Claude Code、Cursor、
 ```mermaid
 xychart-beta
     title "AI-Eden/eden-skills 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-21 28 → 2026-11-23 28（+0）
+2026-10-22 28 → 2026-11-24 28（+0）
 
 
 ---

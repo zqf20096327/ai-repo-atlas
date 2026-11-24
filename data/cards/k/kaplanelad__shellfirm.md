@@ -2,9 +2,9 @@
 
 ⭐ 954 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/kaplanelad/shellfirm) · [官网](https://shellfirm.vercel.app/) · 个人维护
 
-**终端危险命令拦截工具，同时守护 AI 编码代理与人类**
+**为终端命令与 AI coding agent 拦截危险 shell 命令的安全防护**
 
-以 Rust 编写的 shell 安全防护工具：通过 shell hook 在命令执行前拦截危险命令，内置 100+ 规则模式覆盖文件系统、git、Kubernetes、Terraform、Docker、云平台、数据库等 9 类生态，支持 Zsh/Bash/Fish 等 8 种 shell。提供分级严重度、安全替代命令建议、SSH/root/受保护分支等上下文感知升级、团队级 .shellfirm.yaml 策略与 JSON 审计日志。另内置 MCP server，可通过 shellfirm connect claude-code 一键接入 Claude Code 等 AI 代理，供其调用风险检查与分析工具。提供 npm、Homebrew、Cargo 及二进制安装。
+以 Rust 编写的 shell 命令安全防护工具：内置 512 项检查（23 组，覆盖 git、Kubernetes、Docker、云平台等），在危险命令执行前弹出确认挑战，拒绝名单直接阻断；按上下文（SSH、root、受保护分支、生产集群）升级挑战强度。为 8 种 shell 提供 hook，并可通过 `shellfirm connect` 为 Claude Code、Cursor、Codex CLI 等 9 个 AI agent 安装执行前 hook 与 MCP server；提供 JSONL 审计日志、过去 agent 会话的只读回放、爆炸半径分析与团队/组织级策略。通过 npm、Homebrew、Cargo 或预编译二进制安装。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 100+ 危险命令模式，覆盖 9 类生态（文件系统/git/K8s/Terraform/Docker/云平台等）
-- 支持 8 种 shell，含 SSH/root/受保护分支的上下文感知升级
-- MCP server 向 Claude Code、Cursor 等代理暴露 check_command 等 4 个工具
-- 团队级 .shellfirm.yaml 策略（仅增强不削弱）与 JSON-lines 审计日志
+- 512 项内置检查覆盖 23 类工具，全部默认开启
+- 为 8 种 shell 与 9 个 AI coding agent 安装执行前拦截 hook
+- 按上下文（SSH/root/受保护分支/生产集群）升级确认挑战强度
+- JSONL 审计日志与 agent 会话只读回放（不执行、不写入）
 
 ## 适用场景
 
-- 防止自己或 AI 代理误执行 rm -rf、force push 等危险命令
-- 给 Claude Code 等 AI 编码工具加上命令执行前的安全检查
-- 团队通过项目策略统一终端安全规则并留存审计记录
+- 防止人类误执行 git push --force、rm -rf 等破坏性命令
+- 给 Claude Code、Cursor 等 AI agent 的 shell 操作加安全护栏
+- 用团队共享的 .shellfirm.yaml 统一仓库级命令策略
+- 上线前回放历史 agent 会话，看哪些命令本会被拦截
 
 ## 场景标签
 
@@ -38,21 +39,21 @@
 ## 证据(README 行号)
 
 > L5: Humans make mistakes. AI agents make them faster. shellfirm intercepts dangerous shell commands before the damage is
-> L23: - **100+ patterns** across 9 ecosystems (filesystem, git, Kubernetes, Terraform, Docker, AWS, GCP/Azure, Heroku, da
-> L31: - **MCP server** — expose shellfirm as an AI tool for Claude Code, Cursor, and other agents
+> L37: - **MCP server and agent hooks** — blocking hooks for Claude Code, Cursor, Codex CLI, Gemini CLI, Qwen Code, Copilo
+> L44: One command sets up both automatic safety (hooks) and on-demand analysis (MCP):
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "kaplanelad/shellfirm 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 947 --> 958
-    line [948, 949, 950, 951, 949, 954, 956, 957, 956, 955, 954, 953, 954, 954]
+    title "kaplanelad/shellfirm 星数(近 13 点)"
+    x-axis ["2026-10-22", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 948 --> 958
+    line [949, 950, 951, 949, 954, 956, 957, 956, 955, 954, 953, 954, 954]
 ```
 
-2026-10-21 948 → 2026-11-23 954（+6）
+2026-10-22 949 → 2026-11-24 954（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d8dc328ea2e1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3119bb70a479` · [字段定义](../../DATASET.md)*

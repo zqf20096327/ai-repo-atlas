@@ -40,6 +40,18 @@
 > L5: `agent-mcts` is an open-source (MIT) test-time search harness that wraps a coding agent CLI with Monte Carlo Tree Se
 > L40: - **Bring your own agent.** A thin adapter layer speaks to each agent's headless mode (`claude -p`; `codex exec` un
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "natsu0529/agent-mcts 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-23 14 → 2026-11-24 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `066b109f58df` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ RaDUO（Radio Dataset Utility and Organizer）并行录制多个广播电台，�
 ```mermaid
 xychart-beta
     title "osscv/RaDUO 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-23 10（+0）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

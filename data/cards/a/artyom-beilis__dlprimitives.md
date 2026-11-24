@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "artyom-beilis/dlprimitives 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 211 --> 214
-    line [212, 213, 213]
+    title "artyom-beilis/dlprimitives 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 212 --> 214
+    line [213, 213]
 ```
 
-2026-10-21 212 → 2026-11-23 213（+1）
+2026-10-22 213 → 2026-11-24 213（+0）
 
 
 ---

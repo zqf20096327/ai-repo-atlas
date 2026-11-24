@@ -45,13 +45,13 @@ Decoding AI 与 Modal、Opik、Kitaru 合作的开源课程，共 8 篇文章与
 
 ```mermaid
 xychart-beta
-    title "itsdecodingai/building-a-coding-agent-from-scratch-course 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    title "itsdecodingai/building-a-coding-agent-from-scratch-course 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 1225 --> 1239
-    line [1226, 1227, 1238]
+    line [1226, 1227, 1238, 1238]
 ```
 
-2026-11-21 1,226 → 2026-11-23 1,238（+12）
+2026-11-21 1,226 → 2026-11-24 1,238（+12）
 
 
 ---

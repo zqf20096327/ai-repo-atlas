@@ -44,13 +44,13 @@ PyTorch 实现 Flow Matching for Generative Modeling 论文的方法：支持 Co
 
 ```mermaid
 xychart-beta
-    title "keishihara/flow-matching 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 127 --> 132
-    line [128, 129, 130, 129, 131, 131]
+    title "keishihara/flow-matching 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 128 --> 132
+    line [129, 130, 129, 131, 131]
 ```
 
-2026-10-21 128 → 2026-11-23 131（+3）
+2026-10-22 129 → 2026-11-24 131（+2）
 
 
 ---

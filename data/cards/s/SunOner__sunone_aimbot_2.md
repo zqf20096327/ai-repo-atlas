@@ -2,9 +2,9 @@
 
 ⭐ 743 · C++ · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/SunOner/sunone_aimbot_2) · 个人维护
 
-**面向 FPS/TPS 游戏的 AI 自瞄工具（C++，YOLO 模型）**
+**面向 FPS/TPS 游戏的 AI 检测瞄准辅助程序**
 
-C++ 编写的屏幕目标检测自瞄程序：读取用户提供的 .onnx 模型，实时检测游戏画面目标并通过鼠标硬件设备（KMBOX/MAKCU）或鼠标移动执行瞄准。提供两种预编译 Windows 版本：DirectML 版支持任意现代 GPU，CUDA+TensorRT 版限 NVIDIA GTX 1660 及以上并需 CUDA 13.1。运行 ai.exe 即可使用，无需编译；也可按 docs/build.md 从源码构建。设置通过 HOME 键覆盖层调整。
+基于 YOLO 检测模型的 C++ 瞄准辅助工具，实时读取游戏画面检测目标，右键触发瞄准；设置与模型选择通过 HOME 键呼出的 overlay 完成。提供预编译 exe（CUDA+NVIDIA 与 DirectML 全 GPU 两个版本），无需编译即可运行；也支持从源码构建。CUDA 版要求 NVIDIA 驱动与 CUDA 13.1，首次启动需导出模型（最长约 5 分钟），用户需自行放置 .onnx 模型。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ C++ 编写的屏幕目标检测自瞄程序：读取用户提供的 .onnx 模型
 
 ## 能力要点
 
-- 预编译 .exe 版本：DirectML（全 GPU）与 CUDA+TensorRT（NVIDIA 专属）
-- 读取用户放置的 .onnx 模型，首启自动导出
-- 通过覆盖层（HOME 键）进行全部设置
-- 支持 KMBOX/MAKCU 等鼠标硬件设备
+- 提供 CUDA 与 DirectML 双版本预编译 exe，直接下载运行
+- DirectML 版支持 NVIDIA/AMD/Intel 含集成显卡的任意 GPU
+- 支持放置 .onnx 模型并在 overlay 中选择
+- 通过 KMBOX/MAKCU 等硬件链接的参考实现
 
 ## 适用场景
 
-- 在不编译代码的情况下运行 AI 自瞄（下载即用）
-- 在 AMD/Intel/集成显卡设备上使用 DirectML 版本
-- 在 NVIDIA 显卡上使用 CUDA+TensorRT 版本以获得更高性能
+- 在无 CUDA 环境的 AMD/Intel 显卡电脑上运行检测
+- 使用预编译包免编译快速上手
+- 从源码构建 TensorRT 版本以配合 NVIDIA GPU
 
 ## 场景标签
 
@@ -37,21 +37,22 @@ C++ 编写的屏幕目标检测自瞄程序：读取用户提供的 .onnx 模型
 
 ## 证据(README 行号)
 
-> L55: 5. Place your `.onnx` model in the `models` folder and select it in the overlay (HOME key).
+> L14: **You do NOT need to compile anything if you just want to use the aimbot!**
 > L61: * **Right Mouse Button:** Aim at the detected target
+> L55: 5. Place your `.onnx` model in the `models` folder and select it in the overlay (HOME key).
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "SunOner/sunone_aimbot_2 星数(近 20 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 710 --> 746
-    line [713, 716, 717, 718, 719, 722, 723, 724, 725, 726, 718, 731, 735, 737, 738, 739, 740, 741, 743, 743]
+    title "SunOner/sunone_aimbot_2 星数(近 19 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-24"]
+    y-axis "stars" 714 --> 745
+    line [716, 717, 718, 719, 722, 723, 724, 725, 726, 718, 731, 735, 737, 738, 739, 740, 741, 743, 743]
 ```
 
-2026-10-21 713 → 2026-11-23 743（+30）
+2026-10-22 716 → 2026-11-24 743（+27）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `91e924aa0af4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5d63b56a3efc` · [字段定义](../../DATASET.md)*

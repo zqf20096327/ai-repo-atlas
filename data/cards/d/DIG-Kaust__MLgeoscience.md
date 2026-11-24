@@ -43,12 +43,12 @@ KAUST ErSE 222《Machine Learning in Geoscience》课程的教学材料仓库，
 ```mermaid
 xychart-beta
     title "DIG-Kaust/MLgeoscience 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-21 100 → 2026-11-23 100（+0）
+2026-10-22 100 → 2026-11-24 100（+0）
 
 
 ---

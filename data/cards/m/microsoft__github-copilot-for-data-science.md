@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/github-copilot-for-data-science 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 275 --> 277
     line [276, 276]
 ```
 
-2026-10-20 276 → 2026-11-23 276（+0）
+2026-10-21 276 → 2026-11-24 276（+0）
 
 
 ---

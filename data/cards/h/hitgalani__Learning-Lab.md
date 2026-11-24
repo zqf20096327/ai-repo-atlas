@@ -40,6 +40,18 @@
 > L5: This folder contains all the educational resources I collect and use to improve my knowledge and skills.
 > L15: - **Artificial Intelligence:** AI, Machine Learning, Deep Learning, Data Science, and related topics.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hitgalani/Learning-Lab 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e1c7a30f9d01` · [字段定义](../../DATASET.md)*

@@ -40,6 +40,18 @@
 > L7: 让 Claude 等 AI 助手只读查询 SAP S/4HANA 的 MCP 服务，RFC/BAPI、私有云 OData、公有云 API 都能接
 > L47: |**自己写脚本调 RFC 或 OData**|每个新问题都要写代码、处理认证和分页，脚本里还常常带着密码|三个服务共 412 个现成的只读 Tool，认证和分页都处理好了，凭证只放在本机 `.env`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "w1ccc/sap-data-mcp 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-11-23 24 → 2026-11-24 24（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4de33d6a1a9a` · [字段定义](../../DATASET.md)*

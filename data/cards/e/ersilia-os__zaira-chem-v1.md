@@ -44,13 +44,13 @@ Ersilia 系列工具中面向生物医学问题的自动化机器学习库，本
 
 ```mermaid
 xychart-beta
-    title "ersilia-os/zaira-chem-v1 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "ersilia-os/zaira-chem-v1 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 46 --> 48
+    line [47, 47]
 ```
 
-2026-10-21 46 → 2026-11-23 47（+1）
+2026-10-22 47 → 2026-11-24 47（+0）
 
 
 ---

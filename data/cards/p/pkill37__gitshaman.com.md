@@ -46,12 +46,12 @@ GitShaman 是一个 static-first 的 Next.js 源码浏览器，结合 VS Code �
 ```mermaid
 xychart-beta
     title "pkill37/gitshaman.com 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-10", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-10", "2026-11-24"]
     y-axis "stars" 76 --> 79
     line [77, 78, 78]
 ```
 
-2026-10-21 77 → 2026-11-23 78（+1）
+2026-10-22 77 → 2026-11-24 78（+1）
 
 
 ---

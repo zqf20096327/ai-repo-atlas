@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "marketzy/codex-cli-repo-workbench 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23"]
+    title "marketzy/codex-cli-repo-workbench 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 97 --> 152
-    line [101, 148, 145]
+    line [101, 148, 145, 145]
 ```
 
-2026-11-21 101 → 2026-11-23 145（+44）
+2026-11-21 101 → 2026-11-24 145（+44）
 
 
 ---

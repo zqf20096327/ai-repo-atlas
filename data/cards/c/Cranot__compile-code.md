@@ -46,12 +46,12 @@ roam-code 引擎之上的薄 CLI：在编码 agent 首个 token 之前，用确�
 ```mermaid
 xychart-beta
     title "Cranot/compile-code 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-20 29 → 2026-11-23 29（+0）
+2026-10-21 29 → 2026-11-24 29（+0）
 
 
 ---

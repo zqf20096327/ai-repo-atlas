@@ -2,58 +2,58 @@
 
 ⭐ 634 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/pardnchiu/Agenvoy) · [官网](https://agenvoy.com/) · 个人维护 · 中文 README
 
-**自托管 24/7 本地个人 AI 代理：把对话变成电脑上完成的工作**
+**本地常驻运行的 AI agent harness，自动构建工具并经 MCP 共享**
 
-用 Go 编写的单二进制自托管 AI Agent Harness，由台湾开发者 Pardn Chiu 维护。它将模型、上下文、工具、调度、记忆与执行编排为一个工作流：缺少工具时自动构建并保存、一句话创建定时任务、本地文件 RAG 检索、子代理协作、摘要式长期记忆。同时作为 MCP server 向 Claude Code、Codex 等代理共享沙箱工具。本地守护进程外连 Telegram/Discord，无需开放入站端口。macOS/Linux 一行脚本安装，Windows 需经 WSL 运行。
+以单个 Go 二进制运行的本地 daemon，把一句话请求拆解为步骤并调用工具交付结果：无现成工具时先调用无密钥公共 API，否则自动编写脚本工具并在沙箱中测试后复用。内置 MCP server/client、按任务路由的多模型调度、三层记忆、cron 调度器、37 个内置工具与 Web 仪表盘（含实时语音）。数据存于本地 SQLite，凭据放 OS keychain，命令在 sandbox-exec/bwrap 沙箱中运行。亦可将工具暴露给 Claude Code、Codex 等 agent。当前处于 review-and-cleanup 阶段。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 缺少工具时自动创建、测试并保存为可复用工具
-- 同时作为 MCP server 向 Claude Code、Codex 等代理共享沙箱工具库
-- 本地守护进程外连 Telegram/Discord，无需暴露入站端口
-- Web 仪表盘内置在二进制中，浏览器管理会话、工具、调度与记忆
+- 无工具可用时自动编写、沙箱测试并注册新工具
+- 作为 MCP server 向 Claude Code/Codex/OpenCode 等共享沙箱工具库
+- 11 家模型提供商统一接口，订阅 OAuth（Copilot/Codex/xAI）或本地 Ollama/LM Studio 接入
+- 单句创建 cron 调度，结果可推送 Telegram/Discord
 
 ## 适用场景
 
-- 让 AI 在自己的电脑上完成检索、文件整理和多步任务并交付结果
-- 把周期性工作（如每日股价报告）变成一句话创建的定时自动化
-- 让 Claude Code、Codex 等已在用的代理共享同一套沙箱工具
-- 在外通过 Telegram/Discord 私密访问本地代理
+- 在本地机器 24/7 运行定时任务并推送结果到聊天软件
+- 让多个 AI agent 共享同一套已验证的脚本工具
+- 对本地文件提问并检索（RAG）
+- 通过 Telegram/Discord 在外部访问家中运行的 agent
 
 ## 场景标签
 
-`AI 助手` `Agent 记忆` `多智能体` `工作流自动化` · 领域:Agent 开发
+`AI 助手` `RAG` `多智能体` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5:  Agenvoy is an open-source, self-hosted 24/7 personal AI agent that runs on your own computer — your memory, schedul
-> L19: Agenvoy is a Taiwan-developed AI Agent Harness by Pardn Chiu, built to turn conversation into completed work on you
-> L25: - **Turns conversation into deliverable work** — Research live data, organize files, and complete multi-step tasks 
+> L59: Agenvoy is a Taiwan-developed AI Agent Harness by Pardn Chiu, built to turn conversation into completed work on you
+> L183: |MCP server & client|Shares every sandboxed tool with Claude Code, Codex and any MCP client; calls external MCP se
+> L184: |Multi-model dispatch|Eleven providers behind one interface plus any OpenAI-compatible endpoint; each task is rout
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "pardnchiu/Agenvoy 星数(近 24 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
+    title "pardnchiu/Agenvoy 星数(近 25 点)"
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 477 --> 901
-    line [512, 522, 557, 594, 642, 701, 762, 809, 866, 512, 570, 580, 586, 594, 599, 603, 604, 608, 615, 618, 621, 624, 628, 634]
+    line [512, 522, 557, 594, 642, 701, 762, 809, 866, 512, 570, 580, 586, 594, 599, 603, 604, 608, 615, 618, 621, 624, 628, 634, 634]
 ```
 
-2026-10-25 512 → 2026-11-23 634（+122）
+2026-10-25 512 → 2026-11-24 634（+122）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `e7622388dc03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3bd7a8b03b58` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gquthier/autonomous-shortform-facecam-editing 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-23"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 13, 15, 16, 16]
+    title "gquthier/autonomous-shortform-facecam-editing 星数(近 5 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-24"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 15, 16, 16]
 ```
 
-2026-10-21 11 → 2026-11-23 16（+5）
+2026-10-22 12 → 2026-11-24 16（+4）
 
 
 ---

@@ -44,13 +44,13 @@ Rust 编写的命令行工具：读取当前 git 仓库的 staged diff，调用�
 
 ```mermaid
 xychart-beta
-    title "olorikendrick/gmsg 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "olorikendrick/gmsg 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
 ```
 
-2026-10-21 13 → 2026-11-23 14（+1）
+2026-10-22 14 → 2026-11-24 14（+0）
 
 
 ---

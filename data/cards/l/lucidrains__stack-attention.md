@@ -44,12 +44,12 @@ lucidrains 维护的研究跟进型 PyTorch 库，实现 DuSell 等人在 ETH Zu
 ```mermaid
 xychart-beta
     title "lucidrains/stack-attention 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-21 12 → 2026-11-23 12（+0）
+2026-10-22 12 → 2026-11-24 12（+0）
 
 
 ---

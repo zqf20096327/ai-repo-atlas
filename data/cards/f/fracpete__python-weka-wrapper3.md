@@ -44,12 +44,12 @@ Python 3 封装库，经由 jpype 桥接在 Python 中调用 Java 机器学习�
 ```mermaid
 xychart-beta
     title "fracpete/python-weka-wrapper3 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-21 148 → 2026-11-23 148（+0）
+2026-10-22 148 → 2026-11-24 148（+0）
 
 
 ---

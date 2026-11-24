@@ -40,6 +40,18 @@
 > L3: **子 agent 会话模型切换** —— 给 DeepSeek Harness 子会话输入框补上「模型 + 思考强度」选择器。
 > L10: - 可切换模型与思考强度；运行中的子 agent 在后续请求生效。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "star-kz/dsh-subagent-model-switcher 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `114f21184091` · [字段定义](../../DATASET.md)*

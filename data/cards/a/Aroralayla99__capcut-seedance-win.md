@@ -41,6 +41,18 @@
 > L42: - **Text-to-Video Synthesis**: Describe a scene in plain language and generate a short clip that follows your promp
 > L29: |**Supported Windows Versions**|Windows 10, Windows 11|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aroralayla99/capcut-seedance-win 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 338 --> 340
+    line [339, 339]
+```
+
+2026-11-23 339 → 2026-11-24 339（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `a9f12a8a246f` · [字段定义](../../DATASET.md)*

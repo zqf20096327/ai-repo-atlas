@@ -1,10 +1,10 @@
 # Anyesh/wardrowbe
 
-⭐ 863 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Anyesh/wardrowbe) · [官网](https://wardrowbe.com) · 个人维护 · 中文 README
+⭐ 863 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Anyesh/wardrowbe) · [官网](https://wardrowbe.com) · 个人维护
 
-**自托管 AI 衣柜管理应用：拍照建档并推荐每日穿搭**
+**自托管衣橱管理应用：AI 自动标注衣物并推荐穿搭**
 
-面向个人与家庭的自托管衣柜管理应用：上传衣物照片后由视觉模型自动提取颜色、款式等标签，文本模型按天气、场合与偏好生成每日穿搭建议，并支持穿着记录、洗涤追踪、配色分析与经 ntfy/Mattermost/邮件推送的定时通知。技术栈为 Next.js 前端加 FastAPI 后端，依赖 PostgreSQL 与 Redis，通过 Docker Compose 或 Kubernetes 部署，兼容任意 OpenAI 兼容 API（含本地 Ollama/LocalAI），也支持在关闭内部 AI 后由外部 agent 提供标签与建议。提供 App Store 客户端，Google Play 标注即将上线。
+Next.js + FastAPI 构建的自托管衣橱管理应用：上传衣物照片后由视觉模型提取颜色、款式等信息自动打标，并根据天气、场合与个人偏好生成每日穿搭建议。支持家庭成员多衣橱、穿着历史与评分、洗衣追踪、穿着统计；通过 ntfy/Mattermost/email 发送定时通知；支持 8 种语言、OIDC 登录。AI 后端兼容任意 OpenAI-compatible API，也可完全关闭内部 AI 改用外部 agent。提供 Docker Compose 生产部署与 Kubernetes 清单，并有 iOS/Android 客户端上架应用商店。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 视觉模型自动从衣物照片提取颜色、图案与款式标签
-- 按天气、场合与偏好生成穿搭建议并定时推送（ntfy/Mattermost/邮件）
-- 兼容任意 OpenAI 兼容 API，支持 Ollama 本地离线运行
-- 多成员家庭衣柜、穿着历史与分析、8 种界面语言
-- 可设置 AI_INTERNAL_ENABLED=false 关闭内部 AI，改由外部 agent 提供能力
+- 照片上传后 AI 自动提取衣物颜色、图案、款式
+- 按天气与场合生成穿搭建议并推送每日通知（ntfy/Mattermost/email）
+- 支持 OpenAI、Ollama、LocalAI 等任意 OpenAI-compatible API
+- 可整体或按能力关闭内部 AI，外部 agent 可接管打标与建议
 
 ## 适用场景
 
-- 把自己的衣物拍照建档并获得每日穿搭建议
-- 为家庭成员分别管理衣柜并跟踪穿着与洗涤
-- 在自有硬件上自托管，数据不出本地
+- 自托管管理全家人的衣物照片与穿搭记录
+- 每天根据天气自动收到穿搭建议推送
+- 离线/本地运行 AI 完成衣物打标与推荐
 
 ## 场景标签
 
- · 领域:生活/自托管应用
+ · 领域:生活/个人管理工具
 
 ## 证据(README 行号)
 
-> L31: Self-hosted wardrobe management with AI-powered outfit recommendations. Take photos of your clothes, let AI tag the
-> L42: - **Works with any AI** - OpenAI, Ollama, LocalAI, or any OpenAI-compatible API
+> L33: Self-hosted wardrobe management with AI-powered outfit recommendations. Take photos of your clothes, let AI tag the
+> L44: - **Works with any AI** - OpenAI, Ollama, LocalAI, or any OpenAI-compatible API
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Anyesh/wardrowbe 星数(近 27 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 780 --> 870
-    line [787, 792, 793, 795, 798, 803, 806, 810, 811, 814, 816, 817, 798, 826, 831, 832, 834, 835, 837, 843, 847, 851, 852, 855, 856, 859, 863]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 785 --> 870
+    line [792, 793, 795, 798, 803, 806, 810, 811, 814, 816, 817, 798, 826, 831, 832, 834, 835, 837, 843, 847, 851, 852, 855, 856, 859, 863, 863]
 ```
 
-2026-10-21 787 → 2026-11-23 863（+76）
+2026-10-22 792 → 2026-11-24 863（+71）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `18df47008b0e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `18f4e9802dad` · [字段定义](../../DATASET.md)*

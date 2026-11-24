@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "justlovemaki/PrismFlowAgent 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-18", "2026-11-23"]
-    y-axis "stars" 95 --> 99
-    line [96, 97, 98, 98]
+    title "justlovemaki/PrismFlowAgent 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-18", "2026-11-24"]
+    y-axis "stars" 96 --> 99
+    line [97, 98, 98]
 ```
 
-2026-10-21 96 → 2026-11-23 98（+2）
+2026-10-22 97 → 2026-11-24 98（+1）
 
 
 ---

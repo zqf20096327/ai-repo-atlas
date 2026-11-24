@@ -44,12 +44,12 @@ IEEE GRSL 2024 论文 PUNNet 的官方实现：将 patch-shuffle 下采样与带
 ```mermaid
 xychart-beta
     title "DegangWang97/IEEE_GRSL_PUNNet 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-23"]
+    x-axis ["2026-11-16", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-23 10（+0）
+2026-11-16 10 → 2026-11-24 10（+0）
 
 
 ---

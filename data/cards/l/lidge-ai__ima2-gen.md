@@ -1,10 +1,10 @@
 # lidge-ai/ima2-gen
 
-⭐ 905 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lidge-ai/ima2-gen) · [官网](https://lidge-ai.github.io/ima2-gen/) · 组织维护
+⭐ 905 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lidge-ai/ima2-gen) · [官网](https://lidge-ai.github.io/ima2-gen/) · 组织维护 · 中文 README
 
-**本地优先的图像/视频生成工作室，供人与编码 agent 使用**
+**给个人与编程 agent 的本地图像/视频生成工作室与运行时**
 
-ima2-gen 是运行在本机的视觉生成运行时与工作室：本地起小型服务器，生成结果存于 ~/.ima2/generated，通过浏览器、Mac 应用、CLI 或编码 agent 使用。支持 OpenAI OAuth/API、Grok OAuth/API、Gemini API、Antigravity CLI、AtlasCloud、MiniMax、NovelAI 及已注册的 ComfyUI 工作流，Runway 与 Higgsfield 为 MCP 集成。提供节点图分支、Canvas 抠图、视频生成、栅格转矢量、提示词库等功能，并附带三份供 agent 加载的 Markdown 技能文档。
+在用户本机运行一个小型服务器与工作室界面，通过浏览器、Mac 应用、CLI 或编程 agent 调用多种图像/视频生成通道。每次生成保存提示词、耗时与参数到本地目录，支持节点图分支派生、Canvas 擦除抠图与矢量描摹、Grok 视频与分镜模式、本地画廊检索，并为 agent 附带三个 Markdown 技能文件。生成依赖用户自行连接的各家服务商账号或 API key，视频生成需 Grok OAuth。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@ ima2-gen 是运行在本机的视觉生成运行时与工作室：本地起小�
 
 ## 能力要点
 
-- 本地服务器 + 浏览器/Mac 应用/CLI 多入口，产出存本地
-- 十多条 provider 通道（OAuth 与 API key 双路）
-- 节点图分支与 Canvas 模式（抠图、alpha 导出）
-- 三份面向编码 agent 的技能文档（Core/Frontend/UI-UX）
+- 本地保存每次生成结果的提示词、耗时与参数，可复现
+- 节点图分支：每个分支记录父节点，不覆盖原结果
+- Canvas Mode 支持擦除、抠图、带 alpha 导出与栅格转矢量
+- 内置 CLI 与三个供编程 agent 加载的 Markdown 技能
 
 ## 适用场景
 
-- 在本机统一调用 GPT/Grok/Gemini 等多个模型生成图与视频
-- 用节点图把一张图分支成多方向变体
-- 让编码 agent 通过 CLI 与技能文档执行前端资产生产流程
-- 生成视频并用分镜模式保持角色与场景一致
+- 在本机批量生成与分支迭代图像和视频
+- 让编程 agent 通过 CLI 和技能文件调用图像/视频生成
+- 需要透明背景或矢量导出的素材制作流程
+- 多服务商账号集中在一个本地界面管理生成任务
 
 ## 场景标签
 
-`图像生成` `视频生成` · 领域:内容生成
+`图像生成` `视频生成` `图像视频处理` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L47: `ima2-gen` is a local-first visual generation runtime and studio for people and coding agents, with reproducible im
-> L3:  Generate, branch and clean up images and video on your own machine.
-> L162: ima2-gen ships three Markdown skills that coding agents load for structured image, video, frontend-asset and desig
+> L164: ima2-gen ships three Markdown skills that coding agents load for structured image, video, frontend-asset and desig
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "lidge-ai/ima2-gen 星数(近 25 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 873 --> 909
-    line [876, 879, 881, 884, 885, 886, 887, 888, 889, 890, 885, 897, 899, 900, 899, 900, 901, 900, 901, 903, 905, 904, 905, 906, 905]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 877 --> 908
+    line [879, 881, 884, 885, 886, 887, 888, 889, 890, 885, 897, 899, 900, 899, 900, 901, 900, 901, 903, 905, 904, 905, 906, 905, 905]
 ```
 
-2026-10-21 876 → 2026-11-23 905（+29）
+2026-10-22 879 → 2026-11-24 905（+26）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `52d6d77f02e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a0cf180dced4` · [字段定义](../../DATASET.md)*

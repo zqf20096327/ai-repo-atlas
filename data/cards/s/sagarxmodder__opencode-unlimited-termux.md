@@ -41,6 +41,18 @@
 > L93: - when the wall hits anyway, a background watcher (zen-guard) re-registers WARP in ~10 seconds and you land on a **
 > L57: - 14 providers, 49 models, 44 of them free (OpenRouter, Groq, Gemini,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sagarxmodder/opencode-unlimited-termux 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `96c9aea5a9c8` · [字段定义](../../DATASET.md)*

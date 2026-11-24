@@ -41,6 +41,18 @@
 > L48: **2. Loop.** Execute → verify → fix, against a stack of gates ordered cheap-to-expensive: format, lint, types, test
 > L116: **Any coding agent** that speaks the open Agent Skills standard — Claude Code, Codex CLI, OpenCode, and the ~40 ru
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "momomuchu/make-no-mistakes 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `9fdbe0b70f8d` · [字段定义](../../DATASET.md)*

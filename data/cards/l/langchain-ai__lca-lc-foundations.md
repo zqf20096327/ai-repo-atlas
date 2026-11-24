@@ -2,9 +2,9 @@
 
 ⭐ 737 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/lca-lc-foundations) · 组织维护
 
-**LangChain 入门课程的配套代码仓库（三模块）**
+**LangChain Academy 官方入门课程配套 notebook 库**
 
-LangChain Academy《Introduction to LangChain》课程的配套代码库：以 Jupyter notebook 形式提供三个教学模块——创建 Agent（模型/工具/短期记忆/多模态）、进阶 Agent（MCP/上下文与状态/多 Agent 系统）、面向生产的 Agent（中间件/长对话管理/HITL/动态 Agent），每个模块含实战项目。安装方式为 git clone 后用 uv 或 pip 建虚拟环境装依赖，需配置 OpenAI API key（课程主要用 gpt-5-nano），可选 Anthropic、Google 与 LangSmith。限制：要求 Python >=3.12, <3.14，需自行准备模型 API key。
+LangChain Academy《Introduction to LangChain》课程的配套代码仓库，包含三个模块共多个 Jupyter notebook 课程：创建 Agent（模型、工具、短期记忆、多模态消息）、高级 Agent（MCP、状态管理、多 Agent 系统）、生产级 Agent（中间件、长对话管理、人工介入）。README 提供完整的环境搭建流程：git clone 源码、配置 .env 中的模型 API key、用 uv 或 pip 建虚拟环境安装依赖，并附环境验证脚本与常见配置问题的排查说明。可选集成 LangSmith 做评测与追踪。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ LangChain Academy《Introduction to LangChain》课程的配套代码库：以 J
 
 ## 能力要点
 
-- 三个教学模块：创建 Agent / 进阶 Agent / 生产就绪 Agent
-- 含 MCP、多 Agent 系统、HITL 等课程内容与实战项目
-- 提供 uv 与 pip 两种环境搭建方式及 env_utils.py 环境校验脚本
-- 可选用 langgraph dev 运行 Studio（可选功能）
+- 三个模块课程：创建 Agent、高级 Agent、生产级 Agent
+- 提供 uv 与 pip 两种依赖安装路径及环境验证脚本
+- 可选启用 LangSmith 追踪与评测
+- 涵盖 MCP、多 Agent、Human-in-the-loop 等主题
 
 ## 适用场景
 
-- 跟随 LangChain Academy 课程动手学习 LangChain
-- 学习构建带工具调用与记忆的 Agent
-- 了解 MCP 与多 Agent 系统的课程示例
+- 跟学 LangChain 官方入门课程并运行配套 notebook
+- 学习如何用 create_agent 构建工具调用 Agent
+- 练习 MCP、多 Agent 系统与生产化部署流程
 
 ## 场景标签
 
@@ -38,7 +38,6 @@ LangChain Academy《Introduction to LangChain》课程的配套代码库：以 J
 ## 证据(README 行号)
 
 > L5: Welcome to LangChain Academy's **Introduction to LangChain** course!
-> L7: This repository is the companion to the course located HERE.
 > L115: This repository contains three Modules that serve as introductions to many of LangChain's most-used features.
 
 ## 星数曲线
@@ -46,13 +45,13 @@ LangChain Academy《Introduction to LangChain》课程的配套代码库：以 J
 ```mermaid
 xychart-beta
     title "langchain-ai/lca-lc-foundations 星数(近 25 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 679 --> 742
-    line [684, 686, 687, 688, 691, 692, 696, 698, 700, 702, 706, 688, 717, 716, 717, 718, 721, 722, 726, 728, 730, 733, 734, 735, 737]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 681 --> 742
+    line [686, 687, 688, 691, 692, 696, 698, 700, 702, 706, 688, 717, 716, 717, 718, 721, 722, 726, 728, 730, 733, 734, 735, 737, 737]
 ```
 
-2026-10-21 684 → 2026-11-23 737（+53）
+2026-10-22 686 → 2026-11-24 737（+51）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `43b87af13bc2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a3c60de27bcd` · [字段定义](../../DATASET.md)*

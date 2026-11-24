@@ -46,12 +46,12 @@ LobeHub 维护的 OpenAI/ChatGPT 插件聚合仓库：从社区筛选插件清�
 ```mermaid
 xychart-beta
     title "lobehub/lobe-openai-plugins 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-21 24 → 2026-11-23 24（+0）
+2026-10-22 24 → 2026-11-24 24（+0）
 
 
 ---

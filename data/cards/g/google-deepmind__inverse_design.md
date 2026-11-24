@@ -44,12 +44,12 @@ NeurIPS 2022 论文的官方代码与参数：提供 JAX 实现的 Encode-Proces
 ```mermaid
 xychart-beta
     title "google-deepmind/inverse_design 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-21 29 → 2026-11-23 29（+0）
+2026-10-22 29 → 2026-11-24 29（+0）
 
 
 ---

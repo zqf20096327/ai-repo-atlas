@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-23"]
+    x-axis ["2026-11-21", "2026-11-24"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-21 12 → 2026-11-23 12（+0）
+2026-11-21 12 → 2026-11-24 12（+0）
 
 
 ---

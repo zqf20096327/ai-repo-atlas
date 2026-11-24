@@ -47,12 +47,12 @@ relaycheck 是一个 Node.js CLI，通过行为指纹统计检验 LLM API 中转
 ```mermaid
 xychart-beta
     title "YanYunCY/relaycheck 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-23"]
+    x-axis ["2026-11-08", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-23 3（+0）
+2026-11-08 3 → 2026-11-24 3（+0）
 
 
 ---

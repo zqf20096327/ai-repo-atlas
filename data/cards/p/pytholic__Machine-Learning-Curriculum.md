@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "pytholic/Machine-Learning-Curriculum 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "pytholic/Machine-Learning-Curriculum 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 70 --> 73
-    line [72, 71]
+    line [72, 71, 71]
 ```
 
-2026-10-21 72 → 2026-11-23 71（-1）
+2026-10-22 72 → 2026-11-24 71（-1）
 
 
 ---

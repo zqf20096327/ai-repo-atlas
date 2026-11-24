@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huggingface/Google-Cloud-Containers 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 186 --> 190
-    line [187, 189, 188, 188]
+    title "huggingface/Google-Cloud-Containers 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 187 --> 190
+    line [189, 188, 188]
 ```
 
-2026-10-21 187 → 2026-11-23 188（+1）
+2026-10-22 189 → 2026-11-24 188（-1）
 
 
 ---

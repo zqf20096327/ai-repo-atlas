@@ -41,6 +41,18 @@
 > L6: LLM systems: few-shot examples, preference pairs, and user profile records.
 > L18: Preference Data Doctor reads a dataset directory, reports every defect it finds with a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/preference-data-doctor 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b27386ef7b42` · [字段定义](../../DATASET.md)*

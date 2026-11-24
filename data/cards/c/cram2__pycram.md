@@ -44,13 +44,13 @@ PyCRAM（Cognitive Robot Abstract Machine）是面向机器人的高层任务规
 
 ```mermaid
 xychart-beta
-    title "cram2/pycram 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    title "cram2/pycram 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-23", "2026-11-24"]
     y-axis "stars" 49 --> 53
-    line [50, 51, 52]
+    line [50, 51, 52, 52]
 ```
 
-2026-10-21 50 → 2026-11-23 52（+2）
+2026-10-22 50 → 2026-11-24 52（+2）
 
 
 ---

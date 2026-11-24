@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "eresende/pitlane-mcp 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "eresende/pitlane-mcp 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 74 --> 77
-    line [76, 75]
+    line [76, 75, 75]
 ```
 
-2026-10-21 76 → 2026-11-23 75（-1）
+2026-10-22 76 → 2026-11-24 75（-1）
 
 
 ---

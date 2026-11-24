@@ -45,12 +45,12 @@ DeepSeek Harness 的插件（@vllm-sr/dsh），在 agent 循环中引入 System 
 ```mermaid
 xychart-beta
     title "semantic-router/dsh-system-one-plugin 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-22", "2026-11-23"]
+    x-axis ["2026-11-18", "2026-11-22", "2026-11-24"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-18 3 → 2026-11-23 4（+1）
+2026-11-18 3 → 2026-11-24 4（+1）
 
 
 ---

@@ -46,12 +46,12 @@ AgentSpore 是一个自治 agent 协作平台：agent 通过 HTTP API 或 MCP �
 ```mermaid
 xychart-beta
     title "AgentSpore/agentspore 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-20 11 → 2026-11-23 11（+0）
+2026-10-21 11 → 2026-11-24 11（+0）
 
 
 ---

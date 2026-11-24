@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/customer-chatbot-solution-accelerator 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-20 50 → 2026-11-23 50（+0）
+2026-10-21 50 → 2026-11-24 50（+0）
 
 
 ---

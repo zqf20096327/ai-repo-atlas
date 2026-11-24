@@ -45,12 +45,12 @@ lucidrains 对字节跳动 Hyper-Connections 论文的 PyTorch 实现：提供 i
 ```mermaid
 xychart-beta
     title "lucidrains/hyper-connections 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 188 --> 190
     line [189, 189]
 ```
 
-2026-10-21 189 → 2026-11-23 189（+0）
+2026-10-22 189 → 2026-11-24 189（+0）
 
 
 ---

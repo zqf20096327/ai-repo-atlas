@@ -41,13 +41,13 @@ GRAFX 是一个基于 PyTorch 的音频处理图（Audio Processing Graphs）开
 
 ```mermaid
 xychart-beta
-    title "sh-lee97/grafx 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "sh-lee97/grafx 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 140 --> 143
-    line [141, 142]
+    line [141, 142, 142]
 ```
 
-2026-10-21 141 → 2026-11-23 142（+1）
+2026-10-22 141 → 2026-11-24 142（+1）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 920 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/agent-sh/computer-use-linux) · 组织维护
 
-**给 AI agent 的 Linux 桌面控制 MCP 服务器与 CLI**
+**让 AI agent 通过 MCP/CLI 控制本地 Linux 桌面的工具**
 
-Rust 编写的 MCP server + CLI，让 AI agent 通过 AT-SPI 语义无障碍树、截图、组合器感知的窗口定位与 Wayland/X11 输入合成，对 GNOME、KDE、Hyprland、niri、COSMIC、i3 及 X11 桌面执行点击、拖拽、输入、语义操作等控制。所有变更类工具可在同一次调用返回后置截图与更新后的树；doctor 输出 JSON 就绪报告。从 codex-desktop-linux 抽出为独立上游。经 npm、cargo、源码脚本安装。
+Rust 编写的 MCP 服务器与 CLI，发布于 crates.io 与 npm，为 AI agent 提供结构化的 Linux 桌面控制能力：语义 AT-SPI 无障碍树、截图、按合成器感知的窗口定位，以及 Wayland/X11 输入合成，支持 GNOME、KDE、Hyprland、niri、COSMIC、i3、Sway、labwc 等。提供 doctor 就绪检查与 setup 命令，预编译 x86_64/aarch64 二进制要求 glibc ≥2.28，旧系统需从源码构建。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Rust 编写的 MCP server + CLI，让 AI agent 通过 AT-SPI 语义无障碍树�
 
 ## 能力要点
 
-- AT-SPI 语义选择器（role/name/text/states）优先，像素坐标兜底
-- 单次往返返回后置截图与更新的无障碍树
-- 多组合器窗口定位后端（GNOME Shell/KWin/Hyprland/niri/i3/X11）
-- computer-use-linux doctor 输出结构化就绪报告
+- 以 MCP 服务器与 CLI 形式提供桌面观察与输入能力（截图、点击、拖动、滚动、键入、语义动作）
+- 窗口定位按合成器选择后端（GNOME 扩展、KWin DBus、hyprctl、niri IPC、i3 IPC、wlr-foreign-toplevel 等）
+- snapshot_id 机制防止点击落到过期树中的元素
+- doctor 输出结构化 JSON 就绪报告，含阻塞项与建议步骤
 
 ## 适用场景
 
-- 让 Claude Code / Codex 等 agent 直接操作本地 Linux 桌面
-- 按窗口或终端进程精确定位输入目标（如跑 pytest 的终端）
-- 通过 stdio MCP 客户端接入自动化桌面流程
+- 让 Claude Code/Codex 等agent 在 Linux 桌面上执行点击、输入与窗口操作
+- 在无头或自动化流程中通过语义选择器驱动 GUI 应用
+- 为隔离桌面环境搭建 agent 工作区（配合 agent-workspace-linux）
 
 ## 场景标签
 
@@ -37,21 +37,21 @@ Rust 编写的 MCP server + CLI，让 AI agent 通过 AT-SPI 语义无障碍树�
 
 ## 证据(README 行号)
 
-> L11: `computer-use-linux` gives AI agents real, structured control of a local Linux desktop: semantic AT-SPI accessibili
-> L43: `computer-use-linux` is a Rust MCP server and CLI for Linux desktop control. It ships three binaries — the main `co
+> L2:  Native Linux desktop control for AI agents over MCP, Pi native tools, and CLI.
+> L47: `computer-use-linux` is a Rust MCP server and CLI for Linux desktop control. It ships three binaries: the main `com
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "agent-sh/computer-use-linux 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 693 --> 940
-    line [713, 724, 727, 733, 734, 739, 743, 748, 757, 767, 772, 780, 784, 734, 830, 844, 849, 863, 871, 881, 889, 895, 899, 903, 907, 912, 916, 920]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 705 --> 939
+    line [724, 727, 733, 734, 739, 743, 748, 757, 767, 772, 780, 784, 734, 830, 844, 849, 863, 871, 881, 889, 895, 899, 903, 907, 912, 916, 920, 920]
 ```
 
-2026-10-21 713 → 2026-11-23 920（+207）
+2026-10-22 724 → 2026-11-24 920（+196）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5ab88aff56f8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `75d3f9aa8eff` · [字段定义](../../DATASET.md)*

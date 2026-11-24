@@ -45,13 +45,13 @@ Glance Engine 是面向视觉决策模型的服务引擎：读取一张图像后
 
 ```mermaid
 xychart-beta
-    title "Vision-Decision/Glance-Engine 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    title "Vision-Decision/Glance-Engine 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 19 --> 29
-    line [20, 28]
+    line [20, 28, 28]
 ```
 
-2026-11-22 20 → 2026-11-23 28（+8）
+2026-11-22 20 → 2026-11-24 28（+8）
 
 
 ---

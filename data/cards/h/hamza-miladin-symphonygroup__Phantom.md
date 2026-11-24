@@ -46,12 +46,12 @@ Phantom 接收源代码并生成带解说的逐步动画解释：tree-sitter 解
 ```mermaid
 xychart-beta
     title "hamza-miladin-symphonygroup/Phantom 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-23 10（+0）
+2026-10-22 10 → 2026-11-24 10（+0）
 
 
 ---

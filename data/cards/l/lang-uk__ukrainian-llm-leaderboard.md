@@ -44,12 +44,12 @@ lang-uk 维护的 Gradio 应用，展示各语言模型在乌克兰语基准上�
 ```mermaid
 xychart-beta
     title "lang-uk/ukrainian-llm-leaderboard 星数(近 2 点)"
-    x-axis ["2026-10-20", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-11-24"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-20 12 → 2026-11-23 12（+0）
+2026-10-21 12 → 2026-11-24 12（+0）
 
 
 ---

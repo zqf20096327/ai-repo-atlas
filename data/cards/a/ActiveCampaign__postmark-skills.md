@@ -46,12 +46,12 @@ ActiveCampaign 官方维护的 Postmark 邮件平台 Agent Skills 集合，包�
 ```mermaid
 xychart-beta
     title "ActiveCampaign/postmark-skills 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-19", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-19", "2026-11-24"]
     y-axis "stars" 45 --> 48
     line [46, 47, 47]
 ```
 
-2026-10-21 46 → 2026-11-23 47（+1）
+2026-10-22 46 → 2026-11-24 47（+1）
 
 
 ---

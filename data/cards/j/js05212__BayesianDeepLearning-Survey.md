@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "js05212/BayesianDeepLearning-Survey 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    title "js05212/BayesianDeepLearning-Survey 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 521 --> 524
-    line [523, 522]
+    line [523, 522, 522]
 ```
 
-2026-10-21 523 → 2026-11-23 522（-1）
+2026-10-22 523 → 2026-11-24 522（-1）
 
 
 ---

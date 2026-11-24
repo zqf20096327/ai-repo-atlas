@@ -2,9 +2,9 @@
 
 ⭐ 678 · Go · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/hybridgroup/yzma) · [官网](https://yzma.ai) · 组织维护
 
-**Go 库：在 Go 应用中直接集成 llama.cpp 做本地推理**
+**Go 开发者本地推理库：直接集成 llama.cpp 并支持硬件加速**
 
-Go 语言库，通过 purego/ffi 在无需 CGo 与 C 编译器的情况下直接调用 llama.cpp 库，让 Go 程序在同一进程内运行本地 LLM/VLM 推理，支持 CUDA、Metal、OpenVINO、Vulkan 等硬件加速，覆盖 Linux/macOS/Windows，并可用 TinyGo 编译到 WebAssembly 在浏览器内运行（含 WebGPU 后端）。命令行工具负责下载 llama.cpp 预编译库与 GGUF 模型并做 SHA-256 校验，README 给出与各版本 llama.cpp 的兼容对照表。
+面向 Go 开发者的推理集成库，通过 purego/ffi 直接调用 llama.cpp 库，无需 CGo 与外部模型服务器，在同进程内完成文本生成、VLM 多模态推理与 embeddings。支持 Linux/macOS/Windows 及 TinyGo+WebAssembly 浏览器运行（CPU 或 WebGPU）。自带 CLI 工具按平台下载预编译 llama.cpp 库并做 SHA-256 校验，自动检测 CUDA/ROCm，提供版本兼容表。需自行获取 GGUF 模型文件，且 llama.cpp 破坏性变更需升级 yzma。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Go 语言库，通过 purego/ffi 在无需 CGo 与 C 编译器的情况下直接
 
 ## 能力要点
 
-- 基于 purego/ffi 直接调用 llama.cpp，无需 CGo 与 C 编译器
-- 同进程函数调用推理，无需外部模型服务器
-- 支持 TinyGo + WebAssembly 在浏览器内运行（WebGPU/多线程/单线程三种构建）
-- CLI 下载预编译库与 GGUF 模型，附 SHA-256 校验
+- 无需 CGo，通过 purego/ffi 同进程调用 llama.cpp，无外部服务器
+- 支持 CUDA、Metal、OpenVINO、Vulkan 等硬件加速，自动检测 CUDA/ROCm
+- TinyGo+WebAssembly 浏览器运行，模型不出本机
+- CLI 下载预编译库与 GGUF 模型并做 SHA-256 校验
 
 ## 适用场景
 
-- 在 Go 程序中嵌入本地 LLM/VLM 推理而不依赖外部服务
-- 用 TinyGo 把语言模型编译进浏览器端应用，模型不离本机
-- 在树莓派、Jetson Orin 等设备上运行 GGUF 模型
+- 在 Go 应用中直接嵌入本地 LLM/VLM 推理
+- 在浏览器中运行完全不联网的文本/图像模型
+- 跨平台交叉编译带推理能力的 Go 程序
 
 ## 场景标签
 
@@ -39,20 +39,20 @@ Go 语言库，通过 purego/ffi 在无需 CGo 与 C 编译器的情况下直接
 
 > L7: `yzma` lets you write Go applications that directly integrate `llama.cpp` for fully local inference using hardware a
 > L12: - `yzma` uses the `purego` and `ffi` packages so CGo is not needed.
-> L181: `yzma` is fast because it calls `llama.cpp` in the same process. No external servers needed!
+> L214: The idea is to make it easier for Go developers to use language models as part of "normal" applications without ha
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "hybridgroup/yzma 星数(近 14 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-23"]
+    title "hybridgroup/yzma 星数(近 15 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-24"]
     y-axis "stars" 653 --> 680
-    line [655, 657, 658, 660, 661, 663, 664, 658, 672, 674, 675, 676, 677, 678]
+    line [655, 657, 658, 660, 661, 663, 664, 658, 672, 674, 675, 676, 677, 678, 678]
 ```
 
-2026-10-20 655 → 2026-11-23 678（+23）
+2026-10-21 655 → 2026-11-24 678（+23）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `41915c21fd38` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `505a2a67f68f` · [字段定义](../../DATASET.md)*

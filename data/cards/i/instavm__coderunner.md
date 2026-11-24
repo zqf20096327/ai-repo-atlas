@@ -2,9 +2,9 @@
 
 ⭐ 903 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/instavm/coderunner) · [官网](https://instavm.io) · 组织维护
 
-**给 AI agent 用的本地隔离沙箱：在容器中安全执行代码**
+**给 AI agent 的本地沙箱：隔离执行其代码与操作**
 
-基于 Apple container 的 macOS 本地沙箱，为 Claude Code、Claude Desktop、OpenCode、OpenAI Agents、Gemini-CLI、Kiro 等 AI agent 提供隔离的代码执行环境：沙箱容器内含持久化 Jupyter 内核，通过 MCP Server（端口 8222）与模型通信，支持最多 5 个并发命名会话、Web 抓取（Playwright）及可扩展的 Skills 系统（PDF 处理、图像裁剪等）。容器具备 VM 级隔离，可停止/恢复并可禁用出站网络。限定 Apple Silicon Mac（M1-M4）与 Python 3.10+。
+基于 Apple container 的本地沙箱工具，将 AI agent 生成的代码放入 VM 级隔离容器中执行，可配置 CPU/内存限制、/workspace 主机目录挂载（默认只读）与 outbound 网络开关。通过内置 MCP server（端口 8222）向 Claude Code、Claude Desktop、OpenCode、OpenAI Agents、Gemini CLI、Kiro 等客户端暴露 execute_python_code、命名会话隔离内核、Playwright 抓取及技能系统（PDF/图像处理，可自定义 SKILL.md）。要求 Mac + Apple Silicon + Python 3.10+，提供 InstaVM 云端托管方案。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- Apple container 实现的 VM 级隔离沙箱，支持停止/恢复并保留状态
-- 通过 MCP Server 向各类 AI agent 提供代码执行、会话管理、网页抓取工具
-- 内置 Skills 系统，支持用户自定义技能（SKILL.md + 脚本）
-- 可设置 host-only 网络禁用出站访问
+- VM 级隔离容器，支持 CPU/内存限制与只读/读写挂载控制
+- 内置 MCP server，兼容 Claude Code/Desktop、OpenCode、Gemini CLI、Kiro 等客户端
+- 命名会话隔离的持久 Jupyter 内核，最多 5 个并发会话
+- 可扩展技能系统（SKILL.md + scripts），含 PDF 表单替换等内置技能
 
 ## 适用场景
 
-- 让 Claude Code 或其他 agent 在隔离环境中执行代码，避免数据丢失与外泄
-- 多 agent 并发运行，各自使用隔离的 Python 内核会话
-- 在断网沙箱中运行不可信的 AI 生成代码
+- 让 AI agent 写的代码在隔离沙箱中执行，不直接碰主机
+- 处理不可信输入的代码或多个互不共享状态的 agent 并行运行
+- 限制 agent 的网络与文件访问范围
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+ · 领域:开发工具/agent 基础设施
 
 ## 证据(README 行号)
 
 > L6: CodeRunner helps you sandbox your AI agents and its actions inside a sandbox.
-> L288: - **MCP Server:** Handles communication between AI models and the sandbox
-> L287: - **Sandbox Container:** Isolated execution environment with Jupyter kernel
+> L101: MCP server will be available at: `http://coderunner.local:8222/mcp`
+> L331: - **Sandbox Container:** Isolated execution environment with Jupyter kernel
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "instavm/coderunner 星数(近 10 点)"
-    x-axis ["2026-10-20", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-23"]
+    title "instavm/coderunner 星数(近 11 点)"
+    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-23", "2026-11-24"]
     y-axis "stars" 894 --> 905
-    line [895, 896, 897, 898, 896, 901, 902, 903, 904, 903]
+    line [895, 896, 897, 898, 896, 901, 902, 903, 904, 903, 903]
 ```
 
-2026-10-20 895 → 2026-11-23 903（+8）
+2026-10-21 895 → 2026-11-24 903（+8）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3512be18f7c5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `a46bd61c5ea9` · [字段定义](../../DATASET.md)*

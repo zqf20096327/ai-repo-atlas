@@ -45,12 +45,12 @@ PINNs-MPF 是随论文（Elfetni & Darvishi Kamachali, EABE 176 (2025) 106200）
 ```mermaid
 xychart-beta
     title "SFETNI/PINNs_MPF--a-Physics-Informed-Neural-Network-for-Multi-Phase-Field-problems 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-24"]
     y-axis "stars" 23 --> 26
     line [24, 25, 24, 25, 25]
 ```
 
-2026-10-21 24 → 2026-11-23 25（+1）
+2026-10-22 24 → 2026-11-24 25（+1）
 
 
 ---

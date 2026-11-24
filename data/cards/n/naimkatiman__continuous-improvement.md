@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "naimkatiman/continuous-improvement 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-23"]
+    title "naimkatiman/continuous-improvement 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-23", "2026-11-24"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-19 10 → 2026-11-23 11（+1）
+2026-11-19 10 → 2026-11-24 11（+1）
 
 
 ---

@@ -46,12 +46,12 @@ OpenCode v1 形式的 magpie 供应商插件，接入 AMD Radeon Cloud（develop
 ```mermaid
 xychart-beta
     title "aqiu817/magpie-amd-cloud 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-24"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-10 3 → 2026-11-23 4（+1）
+2026-11-10 3 → 2026-11-24 4（+1）
 
 
 ---

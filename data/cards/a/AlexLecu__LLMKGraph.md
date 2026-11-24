@@ -46,12 +46,12 @@ IEEE Access 2025 论文的官方实现：用 LLM（GPT-3.5/GPT-4o-mini/Mistral/D
 ```mermaid
 xychart-beta
     title "AlexLecu/LLMKGraph 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-21 37 → 2026-11-23 37（+0）
+2026-10-22 37 → 2026-11-24 37（+0）
 
 
 ---

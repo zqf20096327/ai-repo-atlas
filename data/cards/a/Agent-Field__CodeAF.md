@@ -2,9 +2,9 @@
 
 ⭐ 825 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Agent-Field/CodeAF) · [官网](agentfield.ai/codeaf) · 组织维护
 
-**面向开源模型的终端编码代理“工厂”，统一编排多项目任务**
+**面向开源模型的编码 agent 工厂：单窗口管理多任务**
 
-CodeAF 是用 Go 编写的单二进制编码 harness（coding harness），面向 DeepSeek、Qwen、GLM、Kimi、MiniMax、Ollama 等开放模型及 OpenAI 兼容端点。核心机制：一个窗口管理本机所有项目与对话；一句话可拆分为多个任务，各自在独立分支的仓库副本上运行，通过检查的任务自动合并；内置 senior-dev/sec/review 三个专职 subharness；按任务类型为 worker/planner/checker 席位自动选模（Pareto Crewing），带花费上限；支持 headless 模式（codeaf do 输出 JSON）与远程 devbox 连接。安装为 curl 脚本或源码构建，自称 early preview。
+Go 编写的单二进制编码 harness，为 DeepSeek、Qwen、GLM、Kimi 等开源模型设计，将对话拆解为任务树，每个任务在独立的仓库副本与分支上运行，通过 planner/checker 角色分工调度多模型并自动合并通过检查的改动。内置 senior-dev、sec、review 等子 harness，支持定时自动化与无界面的 headless 模式（CI/cron/脚本）。首启需连接 OpenRouter 或填入 API key，Ollama 无需密钥。README 自述处于 early preview 阶段。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ CodeAF 是用 Go 编写的单二进制编码 harness（coding harness），面�
 
 ## 能力要点
 
-- 单窗口管理本机全部项目、对话与任务树，各自独立的审批规则与花费上限
-- 一句话拆分为多任务，各自分支运行，通过检查自动合并，绝不直接落 main
-- 内置 senior-dev / sec / review 三个 subharness，无需额外安装
-- Pareto Crewing 按任务类型为 worker/planner/checker 自动选模，支持花费上限与按日限额
+- 单窗口管理多项目、多任务、多会话，任务在独立分支的仓库副本中运行
+- 一任务三座席的模型分工：worker/planner/checker，按元数据评分自动选型
+- 内置 senior-dev/sec/review 子 harness，支持自定义可复用 harness
+- headless 模式：codeaf do/exe/run 供 CI、cron 与脚本调用
 
 ## 适用场景
 
-- 在终端里并行托管多个项目的编码任务并统一审批
-- 自动拆分并执行 bug 修复、代码评审、安全审计等重复工作
-- 接入 DeepSeek/Ollama 等开放模型控制每任务成本
-- CI/脚本中用 headless 模式跑计划型编码任务
+- 同时推进多个项目的编码任务，从一处查看进度与花费
+- 用本地开源模型跑自动化代码修改、安全审计与 PR 评审
+- 在 CI 或脚本中以 JSON 输出运行无人值守的编码任务
 
 ## 场景标签
 
-`编码 Agent` `代码审查` `多智能体` · 领域:Agent 开发
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L20: CodeAF is a coding harness built for open models, to get the most out of every
-> L177: Providers built in: OpenRouter, DeepSeek, GLM, Kimi, MiniMax, Qwen, Codex through a
+> L148: codeaf is built to run many agents at once, not one. A single native Go binary
+> L165: One session, many models. The model you talk to is one seat. Every task you hand
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Agent-Field/CodeAF 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 442 --> 859
-    line [476, 486, 514, 527, 537, 546, 550, 554, 565, 585, 597, 604, 613, 537, 651, 687, 695, 711, 724, 741, 745, 764, 783, 795, 804, 813, 819, 825]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 453 --> 858
+    line [486, 514, 527, 537, 546, 550, 554, 565, 585, 597, 604, 613, 537, 651, 687, 695, 711, 724, 741, 745, 764, 783, 795, 804, 813, 819, 825, 825]
 ```
 
-2026-10-21 476 → 2026-11-23 825（+349）
+2026-10-22 486 → 2026-11-24 825（+339）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fbb3f3583e06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `43bfc6ea65b5` · [字段定义](../../DATASET.md)*

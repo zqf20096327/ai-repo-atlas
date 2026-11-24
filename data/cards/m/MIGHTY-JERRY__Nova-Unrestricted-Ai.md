@@ -40,6 +40,18 @@
 > L5: NOVA is a lightweight, high-aesthetic, and unrestricted AI chat interface devloped by Jashan with use of openrouter 
 > L33: * **Unrestricted Mode:** Get direct answers without safety warnings or moralizing filters.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MIGHTY-JERRY/Nova-Unrestricted-Ai 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `8ef5b0552efb` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Caesarsage/DevOps-Cloud-Projects 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-25", "2026-11-23"]
-    y-axis "stars" 73 --> 79
-    line [74, 76, 77, 78, 78]
+    title "Caesarsage/DevOps-Cloud-Projects 星数(近 4 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-11-24"]
+    y-axis "stars" 75 --> 79
+    line [76, 77, 78, 78]
 ```
 
-2026-10-21 74 → 2026-11-23 78（+4）
+2026-10-22 76 → 2026-11-24 78（+2）
 
 
 ---

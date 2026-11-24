@@ -45,12 +45,12 @@ Conch 是基于 Claude 工具调用的云端编码 agent，通过 WebSocket 接�
 ```mermaid
 xychart-beta
     title "Crustocean/conch 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-21 34 → 2026-11-23 34（+0）
+2026-10-22 34 → 2026-11-24 34（+0）
 
 
 ---

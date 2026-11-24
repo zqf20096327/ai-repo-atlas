@@ -2,9 +2,9 @@
 
 ⭐ 1,113 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/Agents) · [官网](https://aka.ms/agentsdkdocs) · 组织维护
 
-**微软官方构建多渠道企业 agent 的全栈 SDK 入口仓**
+**微软多渠道 agent 构建接入 SDK：面向企业开发者**
 
-Microsoft 365 Agents SDK 用于创建可部署到 Microsoft 365 Copilot、Teams、Web/自定义应用等渠道的 agent，提供带状态、存储与活动/事件管理的 agent 容器和渠道管理能力。SDK 对所选 AI 服务保持中立，开发者可组合任意模型或服务实现 agentic 模式。本仓库为总入口，C#/.NET、JavaScript、Python 源码分别在各自语言仓库；仓库还提供 AI 编程助手插件（agent-plugins），并列举 Semantic Kernel、Azure AI Foundry、Copilot Studio 等相关平台。
+Microsoft 365 Agents SDK 用于创建可部署到 Microsoft 365 Copilot、Teams、Web 与自定义应用等渠道的 agent，提供状态、存储、活动与事件管理所需的脚手架和渠道管理能力。AI 服务由开发者自选，SDK 不绑定特定技术栈。源码按 C#/.NET、JavaScript、Python 分别放在对应语言仓库，本仓库为入口与示例集合；另提供 GitHub Copilot CLI 与 Claude Code 可用的 agent-plugins 技能插件，通过 /plugin 命令安装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Microsoft 365 Agents SDK 用于创建可部署到 Microsoft 365 Copilot、Teams�
 
 ## 能力要点
 
-- agent 容器含状态、存储、活动与事件管理，可跨渠道部署
-- 对 AI 服务与模型选择保持中立，不绑定特定技术栈
-- C#/.NET、JavaScript、Python 三语言分仓提供源码
-- 提供 GitHub Copilot CLI / Claude Code 的 SDK 知识插件
+- 一次构建可部署到 Microsoft 365 Copilot、Teams、Web 等多个渠道
+- AI 服务与技术栈无关，开发者自选模型或服务
+- 提供 C#/.NET、JavaScript、Python 三种语言客户端仓库
+- 提供 agents-sdk-common 等插件为 AI 编码助手注入 SDK 知识
 
 ## 适用场景
 
-- 构建部署到 Teams 或 M365 Copilot 的企业 agent
-- 用自选 AI 服务组合实现 agentic 模式
-- 将 Copilot Studio 构建的 agent 集成进自定义应用
+- 为企业构建接入 Teams 与 M365 Copilot 的多渠道 agent
+- 在不绑定 AI 服务商的前提下实现 agentic 模式
+- 通过 Copilot Studio 与自建 agent 组成多 agent 协作
 
 ## 场景标签
 
@@ -38,21 +38,21 @@ Microsoft 365 Agents SDK 用于创建可部署到 Microsoft 365 Copilot、Teams�
 ## 证据(README 行号)
 
 > L3: With the Microsoft 365 Agents SDK, you can create agents deployable to channels of your choice, such as Microsoft 36
-> L5: Developers need the flexibility to integrate agents from any provider or technology stack into their enterprise syst
-> L81: The Microsoft 365 Agents SDK brings together core components to allow for developers to create, manage and utilize 
+> L10: - Implement agentic patterns without being restricted to a specific technology stack. The Agents SDK is agnostic re
+> L85: The Microsoft 365 Agents SDK brings together core components to allow for developers to create, manage and utilize 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "microsoft/Agents 星数(近 19 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-24"]
     y-axis "stars" 1086 --> 1116
     line [1088, 1089, 1090, 1092, 1093, 1095, 1096, 1097, 1098, 1092, 1104, 1106, 1108, 1109, 1110, 1112, 1114, 1113, 1113]
 ```
 
-2026-10-20 1,088 → 2026-11-23 1,113（+25）
+2026-10-21 1,088 → 2026-11-24 1,113（+25）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c7268760038e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9f84c6e6fb98` · [字段定义](../../DATASET.md)*

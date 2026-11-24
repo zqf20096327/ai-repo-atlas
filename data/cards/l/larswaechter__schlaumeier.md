@@ -46,12 +46,12 @@ Python 编写的机器人，通过 ADB 截取 Android 手机屏幕，用 OpenCV+
 ```mermaid
 xychart-beta
     title "larswaechter/schlaumeier 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-23"]
+    x-axis ["2026-11-22", "2026-11-24"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-22 10 → 2026-11-23 10（+0）
+2026-11-22 10 → 2026-11-24 10（+0）
 
 
 ---

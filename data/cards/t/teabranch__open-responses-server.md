@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "teabranch/open-responses-server 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 183 --> 186
-    line [185, 184, 184]
+    title "teabranch/open-responses-server 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 183 --> 185
+    line [184, 184]
 ```
 
-2026-10-21 185 → 2026-11-23 184（-1）
+2026-10-22 184 → 2026-11-24 184（+0）
 
 
 ---

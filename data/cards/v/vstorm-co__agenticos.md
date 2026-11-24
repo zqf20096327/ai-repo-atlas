@@ -2,9 +2,9 @@
 
 ⭐ 720 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/vstorm-co/agenticos) · [官网](https://vstorm-co.github.io/vstormos-landing/) · 组织维护
 
-**自托管的企业 AI agent 层：构建、运行并治理 AI 队友**
+**企业自托管 AI agent 平台：构建、共享并治理公司内部 AI 队友**
 
-Apache-2.0 开源、自托管的 agent 平台，由 Vstorm 维护：团队在浏览器中配置 agent（指令、模型、工具），发布到 Web 聊天、Slack、Mattermost、Telegram、网站挂件或 API；内置真实浏览器、RAG、技能系统与 4,700+ MCP 服务器画廊。管理员控制角色权限、预算、人工审批，每次运行有审计记录。底层为 Pydantic AI、FastAPI、PostgreSQL+pgvector、Next.js，Docker Compose 部署，支持 28 个模型提供方（含 Ollama/vLLM 本地模型与 ChatGPT 订阅）。限制：需自行运维基础设施，最低 4 vCPU / 8 GB RAM。
+基于 Pydantic AI 的自托管 agent 平台（Apache-2.0），供公司团队在自有服务器与模型上构建、运行和管理 agent。功能含共享聊天、RAG、技能、内置浏览器、4,700+ MCP 服务器接入、预算控制、审批与审计日志；支持将 agent 发布到 Slack、Teams、Discord、Telegram、网站挂件或 API。技术栈为 FastAPI、PostgreSQL（pgvector）与 Next.js，通过 Docker Compose 部署，支持 28 家模型供应商及本地模型。管理机制包括按 agent 的使用权限、花费上限与需人工审批的操作。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ Apache-2.0 开源、自托管的 agent 平台，由 Vstorm 维护：团队在浏
 
 ## 能力要点
 
-- 浏览器内构建 agent 并发布到 8 种应答渠道（Slack/Telegram/API 等）
-- 4,700+ MCP 服务器画廊与 29 项内置能力，按 agent 授权工具调用
-- 预算、审批、角色与审计记录的治理层
-- 支持 28 个模型提供方，含 Ollama/vLLM 本地模型与 ChatGPT/Claude 订阅
+- 浏览器内构建并发布 agent，支持 Slack/Teams/Discord/Telegram/网站挂件/API 等渠道
+- 4,700+ MCP 服务器接入，可按 agent 配置可用工具
+- 预算、审批与审计日志的治理机制
+- 兼容 28 家模型供应商，含 Ollama 与 vLLM 本地模型
 
 ## 适用场景
 
-- 企业内部部署自有 AI agent 层，替代厂商云端的按席助手
-- 团队把重复的文档处理、报告生成、合同检查等工作交给 agent
-- IT/安全团队对 AI agent 施加数据主权、预算与审批管控
+- 给公司搭一套自有的内部 AI agent 层，数据留在自己服务器
+- 让团队和 agent 在同一个共享聊天里协作处理文档与工具任务
+- IT/安全团队对 agent 使用做预算、审批与审计管理
+- 把研究类长任务交给 agent 后台执行，结果回写对话
 
 ## 场景标签
 
-`Agent 框架` `RAG` `浏览器自动化` · 领域:Agent 开发
+`AI 助手` `浏览器自动化` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L118: **AgenticOS is an open-source (Apache-2.0), self-hosted layer for building, sharing and governing AI agents across
-> L122: It runs on your own infrastructure with Docker Compose and works with 28 model providers, including your ChatGPT s
+> L172: **AgenticOS is an open-source (Apache-2.0), self-hosted layer for building, sharing and governing AI agents across
+> L176: It runs on your own infrastructure with Docker Compose and works with 28 model providers, including your ChatGPT s
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "vstorm-co/agenticos 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 48 --> 781
-    line [109, 112, 114, 116, 118, 120, 121, 126, 127, 133, 135, 138, 144, 118, 241, 250, 256, 261, 267, 270, 318, 364, 406, 424, 429, 438, 642, 720]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 52 --> 780
+    line [112, 114, 116, 118, 120, 121, 126, 127, 133, 135, 138, 144, 118, 241, 250, 256, 261, 267, 270, 318, 364, 406, 424, 429, 438, 642, 720, 720]
 ```
 
-2026-10-21 109 → 2026-11-23 720（+611）
+2026-10-22 112 → 2026-11-24 720（+608）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `3c58710134fa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `2a1e5f221882` · [字段定义](../../DATASET.md)*

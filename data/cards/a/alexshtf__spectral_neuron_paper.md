@@ -45,12 +45,12 @@ arXiv 论文 Spectral Neuron 的配套实验仓库：实现 x↦λₖ(A₀+x₁A
 ```mermaid
 xychart-beta
     title "alexshtf/spectral_neuron_paper 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-21 23 → 2026-11-23 23（+0）
+2026-10-22 23 → 2026-11-24 23（+0）
 
 
 ---

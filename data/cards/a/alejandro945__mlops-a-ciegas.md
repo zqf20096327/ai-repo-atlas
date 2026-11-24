@@ -40,6 +40,18 @@
 > L5: How to take a model from the cloud to devices you cannot see, and keep it governed. The case is a rural pumping stat
 > L11: |`poc-devopsdays/`|The full demo: the model, the IoT Greengrass component, five simulated pumps in Docker, the demo
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alejandro945/mlops-a-ciegas 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-23 5 → 2026-11-24 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `866c973ff606` · [字段定义](../../DATASET.md)*

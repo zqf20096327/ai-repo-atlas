@@ -44,13 +44,13 @@ ICLR 2023 论文（Notable-top-5%）的官方代码实现：通过取不确定�
 
 ```mermaid
 xychart-beta
-    title "ishida-lab/irreducible 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "ishida-lab/irreducible 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
 ```
 
-2026-10-21 24 → 2026-11-23 25（+1）
+2026-10-22 25 → 2026-11-24 25（+0）
 
 
 ---

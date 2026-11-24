@@ -46,12 +46,12 @@ OpenMetadata 官方多语言 SDK（Python/TypeScript/Java/CLI/n8n 节点），�
 ```mermaid
 xychart-beta
     title "open-metadata/ai-sdk 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-15", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-15", "2026-11-24"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-21 15 → 2026-11-23 16（+1）
+2026-10-22 15 → 2026-11-24 16（+1）
 
 
 ---

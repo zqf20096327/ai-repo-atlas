@@ -2,15 +2,15 @@
 
 ⭐ 955 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/jazzyalex/agent-sessions) · [官网](https://jazzyalex.github.io/agent-sessions/?campaign=github&ref=about-sidebar) · 个人维护
 
-**本地优先的 macOS 应用：搜索与恢复 16 种 AI 编码代理的会话历史**
+**macOS 本地浏览/搜索/恢复 AI 编码 agent 会话历史的工具**
 
-macOS 桌面应用，读取并索引 Codex、Claude Code、Cursor、Copilot CLI、OpenCode 等 16 种 AI 编码代理的本地会话记录，提供跨来源的提示/响应/工具调用/文件路径搜索，可复制或经 Terminal/iTerm2/Warp 恢复受支持的 CLI 会话，并以 Session Info 展示模型、token、定价等元数据。Quota Meter 按会话追踪 Codex 与 Claude 的 5 小时/周配额消耗，以官方 API 费率估算费用。索引与解析全部本地完成，无遥测，会话文件只读不重写。
+本地优先的 macOS 应用，聚合 16 个 AI 编码 agent（Codex、Claude Code、Cursor、Copilot CLI、OpenCode、Cline 等）的本地会话历史：跨来源搜索提示、回复、工具调用与错误，读取会话转录与图片输出，对支持的 CLI 会话生成恢复命令并在 Terminal.app/iTerm2/Warp/Ghostty/Macterm 中打开。内置 Quota Meter 按会话追踪 Codex 与 Claude 的 5 小时/周额度消耗及 token/成本速率。索引与数据全部留在本地，无遥测。通过 Homebrew cask 分发。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,39 +20,39 @@ macOS 桌面应用，读取并索引 Codex、Claude Code、Cursor、Copilot CLI�
 
 ## 能力要点
 
-- 搜索 16 种编码代理的本地会话历史（提示、响应、工具调用、错误、文件路径）
-- 按会话追踪 Codex/Claude 配额消耗，含 5 小时/周窗口与 API 等效费用估算
-- Session Info 展示各来源的模型、token、活动与定价元数据，不支持的字段明确标注不可用
-- 本地索引、只读解析、无遥测，仅更新检查与公开价格表走网络
+- 16 个本地 agent 会话来源的统一浏览与搜索
+- 受支持的 CLI 会话可在多种终端中恢复
+- Quota Meter 按会话追踪 Codex/Claude/OpenCode 额度与成本
+- 本地索引，不上传会话历史，无遥测
 
 ## 适用场景
 
-- 跨多个编码代理工具找回过去的会话与上下文
-- 查看哪个 Codex 或 Claude 会话在消耗配额
-- 复制恢复命令或直接在终端中重新打开 CLI 会话
+- 找回之前某次 AI 编码会话的提示词与工具调用记录
+- 查看哪个会话在消耗 Codex/Claude 配额
+- 在终端里接着上次的 agent 会话继续工作
 
 ## 场景标签
 
- · 领域:开发者工具/AI 代理会话管理
+ · 领域:开发者工具/AI 编码辅助
 
 ## 证据(README 行号)
 
 > L7: Search local conversations from Codex, Claude Code, Cursor, and **13 other coding agents** in one Mac app. Read the 
-> L27: - **Find past work.** Search prompts, responses, tool calls, command output, errors, file paths, and supported imag
-> L147: - Transcript discovery, parsing, indexing, search, and navigation happen locally.
+> L9: Open source. Your session history stays on your Mac. No telemetry.
+> L122: The current source registry contains 16 active agent formats plus legacy Droid sessions. Agent Sessions 5.6 adds S
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "jazzyalex/agent-sessions 星数(近 23 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
+    title "jazzyalex/agent-sessions 星数(近 24 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-24"]
     y-axis "stars" 902 --> 959
-    line [906, 909, 911, 916, 917, 919, 921, 925, 926, 929, 930, 911, 941, 944, 946, 945, 946, 948, 949, 951, 952, 954, 955]
+    line [906, 909, 911, 916, 917, 919, 921, 925, 926, 929, 930, 911, 941, 944, 946, 945, 946, 948, 949, 951, 952, 954, 955, 955]
 ```
 
-2026-10-21 906 → 2026-11-23 955（+49）
+2026-10-22 906 → 2026-11-24 955（+49）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `72c260b99e37` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b4d7982a2bfe` · [字段定义](../../DATASET.md)*

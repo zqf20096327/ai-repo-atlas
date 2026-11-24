@@ -2,9 +2,9 @@
 
 ⭐ 898 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Deodat-Lawson/LaunchStack) · 个人维护
 
-**TypeScript AI 应用引擎：文档摄取、OCR、RAG 与知识图的积木式框架**
+**AI 应用引擎+自托管文档问答参考应用：摄取、RAG、知识图谱**
 
-以端口化 bricks 组织的 TypeScript 引擎，覆盖摄取、OCR、转录、结构化输出、混合检索、重排序、Neo4j 知识图谱同步与后台任务，并通过 Next.js 参考应用（web + worker）演示组装方式。架构分三层：引擎、13 个产品 pipelines、宿主应用，依赖边界由 CI lint 强制。包尚未发布到 npm，当前只能克隆仓库运行；需要 Node ≥ 20、pnpm、带 pgvector 的 Postgres 及配置好的 chat/embedding API（Gemini 或 Azure OpenAI）。提供 Docker Compose 与自托管路径，首个注册用户即成为 workspace owner。
+TypeScript 编写的 AI 原生应用引擎，以端口化砖块（persistence、llm、orchestration、conversion、indexing、retrieval 等）加 pipelines 组合层构成，并附带一个 Next.js 参考应用：上传文档、OCR、分块嵌入、混合检索与带权限引用的聊天，背景摄取由事务性 outbox + 独立 worker 处理。自托管只需 Docker 两条命令；本地开发需 Node ≥20、pnpm 与带 pgvector 的 Postgres。核心包尚未发布到 npm，需直接运行本仓库。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- bricks/pipelines/host 三层架构，lint 强制依赖边界
-- 文档摄取走事务性 outbox，由独立 worker 消费
-- 13 个产品 verticals（提案、法务模板、趋势搜索等）组合引擎 bricks
-- Docker Compose 提供 lite（~400MB RAM）与含 Docling OCR（~1.2GB RAM）两种栈
+- 文档摄取、OCR、分块、嵌入、混合检索与重排序的完整管线
+- 实体提取与 Neo4j 知识图谱同步
+- 13 个产品 verticals 通过 @launchstack/pipelines 组合砖块
+- Docker 两条命令自托管，自动 HTTPS 与 backup/restore 运维命令
 
 ## 适用场景
 
-- 我需要一个可自托带的文档问答/知识库应用的完整参考实现
-- 我在构建 AI-native TypeScript 应用，需要摄取、RAG、知识图谱等引擎积木
-- 我想用 Docker 一键跑起含 OCR 与转录的私有文档处理栈
+- 团队自托管一个可检索、可对话的文档知识库
+- 基于引擎砖块搭建自己的 AI 原生应用
+- 用 pipelines 里的提案、营销、趋势搜索等垂直流程
 
 ## 场景标签
 
-`RAG` `知识图谱` `文档解析` `文档问答` · 领域:知识与检索
+`文档问答` `RAG` `知识图谱` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: **A TypeScript engine for AI-native applications.** Ingestion, OCR, RAG, knowledge graph, LLM abstractions, and back
-> L121: |`packages/`|The bricks: persistence, model calls, orchestration, conversion, indexing, retrieval, shared tools an
-> L131: |`@launchstack/engine`|unpublished|`createEngine(CoreConfig)`: database, storage and graph handles; registration o
+> L13: The publishable bricks in `packages/` and the compositions package `@launchstack/pipelines` are **not yet on npm**.
+> L156: |`@launchstack/llm`|unpublished|Structured output, guardrails, chat configuration, model providers and embeddings.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Deodat-Lawson/LaunchStack 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-24"]
     y-axis "stars" 893 --> 899
     line [894, 896, 897, 898, 898]
 ```
 
-2026-10-21 894 → 2026-11-23 898（+4）
+2026-10-22 894 → 2026-11-24 898（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `5b77da0614da` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `0a1c791cf0f2` · [字段定义](../../DATASET.md)*

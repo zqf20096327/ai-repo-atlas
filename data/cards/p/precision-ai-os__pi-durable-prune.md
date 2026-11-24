@@ -40,6 +40,18 @@
 > L3: Context pruning for pi-durable agents.
 > L5: > A library for apps built on pi-durable, used from your own code. It is not a Pi coding-agent extension: `pi instal
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "precision-ai-os/pi-durable-prune 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `c3418f478327` · [字段定义](../../DATASET.md)*

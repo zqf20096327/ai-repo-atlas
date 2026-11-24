@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "struklabs/harness-studio 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-08", "2026-11-23"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    title "struklabs/harness-studio 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 13]
 ```
 
-2026-10-21 11 → 2026-11-23 13（+2）
+2026-10-22 12 → 2026-11-24 13（+1）
 
 
 ---

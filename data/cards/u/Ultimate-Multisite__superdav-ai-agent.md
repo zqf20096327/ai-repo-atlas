@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Ultimate-Multisite/superdav-ai-agent 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-23"]
+    x-axis ["2026-11-20", "2026-11-24"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-11-20 31 → 2026-11-23 31（+0）
+2026-11-20 31 → 2026-11-24 31（+0）
 
 
 ---

@@ -47,12 +47,12 @@ AI Tidepool 是围绕 AI LiveStream Series 的社区策展仓库：将每场直�
 ```mermaid
 xychart-beta
     title "ventas319/microsoft-ai-livestream-slidevault 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-21 56 → 2026-11-23 56（+0）
+2026-10-22 56 → 2026-11-24 56（+0）
 
 
 ---

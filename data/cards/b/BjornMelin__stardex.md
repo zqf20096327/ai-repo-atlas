@@ -45,12 +45,12 @@ Next.js 前端 + FastAPI 后端的单仓双服务应用：从 GitHub REST API �
 ```mermaid
 xychart-beta
     title "BjornMelin/stardex 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-21 18 → 2026-11-23 18（+0）
+2026-10-22 18 → 2026-11-24 18（+0）
 
 
 ---

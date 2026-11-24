@@ -2,9 +2,9 @@
 
 ⭐ 807 · Python · NOASSERTION · 推送 2026-10-30 · [GitHub](https://github.com/Tencent-Hunyuan/OmniWeaving) · [官网](https://omniweaving.github.io/) · 组织维护 · 中文 README
 
-**腾讯混元统一视频生成模型：文/图/视频输入生成视频**
+**腾讯混元开源的统一视频生成模型：多图/视频自由组合与推理生成**
 
-由腾讯混元 HunyuanVideo 团队与浙江大学等合作发布的统一视频生成模型，基于 HunyuanVideo-1.5 骨干，采用 MLLM+MMDiT+VAE 架构。支持文生视频、首帧/关键帧生视频、参考图生成、视频编辑、多图组合生成与推理增强生成（--think 激活 MLLM 思考模式先生成增强提示词）等八类任务。另发布评测基准 IntelligentVBench。提供推理代码、模型权重（HuggingFace 下载）、训练数据构造与训练示例代码；依赖 Flash Attention 等库，默认配置 8 GPU 推理，支持 offloading 缓解显存压力。
+基于 HunyuanVideo-1.5 骨干的统一视频生成模型，采用 MLLM+MMDiT+VAE 架构，支持文本、多图、视频交错输入的时间绑定与用户意图推理。提供 8 类任务：文生视频、首帧/关键帧生视频、指令视频编辑、参考主体组合生成及推理增强生成（--think 激活 MLLM 思考模式）。已开源推理代码、模型权重（HuggingFace）、训练数据构建与训练示例代码，另发布 IntelligentVBench 基准。默认推理配置使用 8 卡 GPU，提供 CPU offloading 等省显存选项。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 八类统一视频生成任务（t2v/i2v/插值/参考图/编辑/tiv2v 等）
-- --think 激活 MLLM 思考模式，先推理用户意图再生成视频
-- MLLM+MMDiT+VAE 架构与多层隐状态 DeepStacking 机制
-- 开源推理代码、模型权重与训练数据构造代码，并发布 IntelligentVBench 评测基准
+- 8 类统一视频生成任务（T2V/I2V/插帧/编辑/参考组合等）
+- --think 推理模式：MLLM 先推理用户意图再生成视频
+- MLLM 中间层 hidden states DeepStacking 注入多粒度语义条件
+- 推理代码、权重、训练数据构建与训练代码均已开源
 
 ## 适用场景
 
-- 用文本或图片组合生成视频内容
-- 对现有视频做指令式编辑与风格化
-- 以多张参考图做主体组合的视频生成
-- 评估统一视频生成模型的智能水平（IntelligentVBench）
+- 多参考图组合生成多主体视频
+- 按文字指令对已有视频做编辑与风格化
+- 需要先理解模糊意图再生成的视频创作
 
 ## 场景标签
 
-`视频生成` `模型评测` · 领域:评测与运维
+`视频生成` `多模态` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L48: We propose OmniWeaving **OmniWeaving**, an omni-level video generation model featuring powerful multimodal composit
-> L27: * 📌 OmniWeaving is developed by the **HunyuanVideo** team and is built upon the latest **HunyuanVideo-1.5** as the 
+> L49: We propose OmniWeaving **OmniWeaving**, an omni-level video generation model featuring powerful multimodal composit
+> L76:  Text-to-Video (T2V)
+> L111:  Reasoning-Augmented Video Generation
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Tencent-Hunyuan/OmniWeaving 星数(近 8 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-16", "2026-11-20", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-16", "2026-11-20", "2026-11-24"]
     y-axis "stars" 806 --> 810
     line [808, 807, 808, 809, 807, 808, 807, 807]
 ```
 
-2026-10-21 808 → 2026-11-23 807（-1）
+2026-10-22 808 → 2026-11-24 807（-1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6ee839ce6a5a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d2394be8e84b` · [字段定义](../../DATASET.md)*

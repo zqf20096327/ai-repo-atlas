@@ -41,13 +41,13 @@ README 仅含一行标题，无功能描述、安装步骤或使用说明。根�
 
 ```mermaid
 xychart-beta
-    title "HasanurRahmanKabir/Lung-Cancer-Detection 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 10 --> 19
-    line [18, 11, 11]
+    title "HasanurRahmanKabir/Lung-Cancer-Detection 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
 ```
 
-2026-10-21 18 → 2026-11-23 11（-7）
+2026-10-22 11 → 2026-11-24 11（+0）
 
 
 ---

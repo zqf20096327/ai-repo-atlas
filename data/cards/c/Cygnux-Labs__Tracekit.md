@@ -2,9 +2,9 @@
 
 ⭐ 841 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Cygnux-Labs/Tracekit) · [官网](https://cygnuxlabs.com/tracekit) · 组织维护
 
-**AI agent 的防篡改追踪与策略门控库：记录并核验 agent 每步行为**
+**给 AI agent 工具调用做防篡改记录与策略门控的审计工具**
 
-面向 AI agent 的可观测与安全库：在工具调用执行前做允许/拒绝/人工保留的判定，将每次调用与决策签名进哈希链，生成单个 .tkb 文件可在离线核验。采用类似 Certificate Transparency 的追加式日志与独立见证人共签机制。提供 Python 与 TypeScript SDK，集成 25 种 agent 框架（Claude Code、OpenAI Agents SDK、LangChain/LangGraph、MCP 等，部分实验性）。核心稳定、其余组件为实验性；dev 模式对与 agent 同用户运行的场景不提供防护，日志之外的路径行为不被记录。MIT 许可。
+Tracekit 嵌入 agent 的工具调用路径：在每次调用运行前做允许/拒绝/人工审批的判定，并将调用、判定与结果签名写入 agent 无法触及的签名进程持有的哈希链日志；每次运行可导出为 .tkb 文件供任何人在浏览器中离线验证。项目参照 Certificate Transparency 设计，由独立 witness 联签，提供 Python/TypeScript/Go 验证器，MIT 许可，可部署在自有机器上。支持 Claude Code、LangChain、LangGraph、MCP 等 42 个 agent 与框架的接入。
 
 ## 筛选速览
 
@@ -16,43 +16,44 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 每次工具调用前判定 allow/deny/hold，参数绑定的一次性审批
-- 签名哈希链 + 见证人共签的防篡改运行记录，可离线核验
-- 跨检查：对照 LLM 网关/会话记录核验 agent 上报的调用，标记差异
-- tracekit why 通过重放定位引发动作的输入来源
+- 运行前对每次工具调用做 allow/deny/人工审批判定，审批绑定精确参数
+- 签名事件写入 agent 不可达的哈希链日志，篡改处验证即报 FAILED
+- 导出 .tkb 文件，可在浏览器离线验证
+- 提供 Python 与 TypeScript SDK，npm/pip 均可安装
 
 ## 适用场景
 
-- 审计 coding agent 的操作记录，检测日志被事后篡改
-- 在生产中拦截危险工具调用并要求人工审批
-- 满足 EU AI Act / ISO 42001 / NIST AI RMF 等框架下的 agent 行为合规留痕
+- 上线 agent 前给危险调用（删除、转账、force-push）加人工审批关卡
+- 向企业客户交付可自行离线核验的运行记录
+- 安全团队需要一个跨框架的统一策略控制点
+- 审计人员核验 agent 行为记录并映射合规框架
 
 ## 场景标签
 
-`LLM 可观测性` `网络安全` · 领域:评测与运维
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L5: **Tracekit checks every tool call your agent makes before it runs, signs each call and decision into a hash chain,
-> L72: `tracekit.instrument()` starts a dev signer (or reuses the running one) and gates and records every tool and model 
-> L153: |**Execution control**|Each call is checked before it runs. A denied call is blocked; a held call runs only after 
+> L40: |**Stop**|Checks every tool call *before it runs*: allow, deny, or hold it for a person. An approval covers exactly
+> L41: |**Record**|Signs every call, decision and result into a hash chain held by a signer the agent can't reach. A lost 
+> L130: `tracekit.instrument()` starts a dev signer (or reuses the running one) and gates and records every tool and model
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Cygnux-Labs/Tracekit 星数(近 25 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 67 --> 911
-    line [137, 146, 149, 150, 173, 250, 259, 353, 355, 357, 358, 359, 150, 603, 605, 646, 687, 726, 727, 728, 772, 734, 760, 799, 841]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 77 --> 910
+    line [146, 149, 150, 173, 250, 259, 353, 355, 357, 358, 359, 150, 603, 605, 646, 687, 726, 727, 728, 772, 734, 760, 799, 841, 841]
 ```
 
-2026-10-21 137 → 2026-11-23 841（+704）
+2026-10-22 146 → 2026-11-24 841（+695）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `2096bd6bd5a9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `ba162cc08250` · [字段定义](../../DATASET.md)*

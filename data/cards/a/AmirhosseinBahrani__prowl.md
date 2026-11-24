@@ -46,12 +46,12 @@ PRowl 以每分钟轮询 GitHub，找出请求你审查的 PR，在本地检出�
 ```mermaid
 xychart-beta
     title "AmirhosseinBahrani/prowl 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-23"]
+    x-axis ["2026-11-10", "2026-11-24"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-23 3（+0）
+2026-11-10 3 → 2026-11-24 3（+0）
 
 
 ---

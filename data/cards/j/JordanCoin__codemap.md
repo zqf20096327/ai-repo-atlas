@@ -2,9 +2,9 @@
 
 ⭐ 717 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/JordanCoin/codemap) · 个人维护
 
-**给编码 agent 提供仓库结构与依赖图谱的 CLI/MCP 上下文工具**
+**为编码 agent 提供代码库结构上下文的 CLI 工具**
 
-Go 编写的单个静态二进制 CLI，为 Claude Code、Codex 等编码代理提供仓库结构图、依赖解析与影响面（blast radius）分析：通过各生态自身规则（go.mod、cargo metadata、package.json exports 等）解析 import，标注每个依赖回答的覆盖率状态（complete/partial/unavailable）。以 hooks、stdio MCP 服务器（19 个工具）与 CLI 三种方式接入代理。安装支持 Homebrew、scoop、go install 与源码构建；--deps 功能依赖 ast-grep，发布 tarball 不含该可执行文件，需单独安装或用 codemap-full 产物。
+codemap 是面向 coding agent 的代码库结构信息工具：解析各生态的真实导入规则生成依赖图，提供结构总览（orientation）、反向依赖查询（importers）与修改影响范围（blast radius），每个依赖答案附带 complete/partial/unavailable 覆盖状态以区分
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Go 编写的单个静态二进制 CLI，为 Claude Code、Codex 等编码代理�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,38 +20,39 @@ Go 编写的单个静态二进制 CLI，为 Claude Code、Codex 等编码代理�
 
 ## 能力要点
 
-- 按各语言生态真实规则解析依赖，支持 21 种 ast-grep 语言规则
-- 每个依赖回答携带覆盖率状态，区分'无导入'与'无法判断'
-- stdio MCP 服务器提供 19 个工具，5 个核心工具带 OutputSchema 返回结构化内容
-- 可分析远程 GitHub/GitLab 仓库，shallow-clone 到临时目录
+- 通过各生态真实导入规则（go.mod、package.json exports、tsconfig paths）解析依赖，非字符串匹配
+- MCP 服务器模式提供 19 个 stdio 工具，hooks 在会话开始与编辑前后自动注入上下文
+- 每个依赖答案报告覆盖状态，partial 图不会伪装成 complete
+- brew/scoop 单静态二进制分发
 
 ## 适用场景
 
-- 让编码代理在会话开始即获得仓库结构与热点文件信息
-- 修改文件前查询谁依赖它，评估影响面
-- 在大型多语言仓库中用自然语言查找实现某功能的代码位置
+- 让 agent 在会话开始快速了解陌生代码库结构
+- 修改文件前查询哪些文件依赖它
+- 在 CI 中生成依赖分析
 
 ## 场景标签
 
- · 领域:开发者工具/代码分析
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L17: cd your-repo && codemap setup                      # hooks + MCP for Claude Code and Codex
-> L109: `codemap setup` configures Claude Code and Codex by default:
+> L3: > **codemap — structural ground truth for coding agents.**
+> L90: ## Agent integration
+> L93: - **MCP**: `codemap mcp` serves 19 tools over stdio. docs/MCP.md
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "JordanCoin/codemap 星数(近 16 点)"
-    x-axis ["2026-10-20", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-23"]
+    x-axis ["2026-10-21", "2026-10-24", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-24"]
     y-axis "stars" 700 --> 718
     line [701, 702, 703, 704, 705, 706, 709, 702, 710, 711, 712, 714, 715, 716, 717, 717]
 ```
 
-2026-10-20 701 → 2026-11-23 717（+16）
+2026-10-21 701 → 2026-11-24 717（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `433940b78408` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1f8ef393bdf9` · [字段定义](../../DATASET.md)*

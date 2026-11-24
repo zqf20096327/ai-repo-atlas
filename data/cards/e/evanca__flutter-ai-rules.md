@@ -2,9 +2,9 @@
 
 ⭐ 674 · Shell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/evanca/flutter-ai-rules) · 个人维护
 
-**36 个源自官方文档的 Flutter/Dart AI 编码技能集，供编码 agent 自主加载**
+**Flutter/Dart 开发者的 AI 编程代理技能集（36 条）**
 
-面向使用 Claude Code、Codex、Cursor、Antigravity、Windsurf 等 AI 编码代理的 Flutter 开发者的技能（SKILL.md）与规则文件合集：36 个技能全部派生自 Flutter、Dart、Firebase 及各包的官方文档，覆盖基础实践、状态管理（Bloc/Riverpod/Provider）、测试、Firebase 全家桶与上架相关主题。agent 读取技能描述后按任务自动加载对应指引；安装途径包括 npx Skills CLI（需 Node 22.20+）、各 agent 的插件市场、git clone 手动拷贝；另提供遗留 rules/ 与 combined/ 静态文件（GitHub Copilot 不支持 SKILL.md，走此路径）。内容按计划从上游文档重新抓取以跟踪官方指南变化；不同技能可能因来源不同而互相矛盾。
+面向使用 Claude Code、Codex、Cursor 等 AI 编程代理的 Flutter 开发者，提供 36 个以 SKILL.md 文件夹形式组织的技能，内容全部取自 Flutter、Dart、Firebase 及各包的官方文档，按基础、状态管理、测试、Firebase、发布等类别划分，代理按任务描述自动加载对应技能。安装方式包括 Skills CLI（需 Node 22.20+）、各代理的插件市场、手动复制到技能目录；另保留旧式 rules 与 combined 规则文件供不支持技能的代理（如 GitHub Copilot）使用。内容按上游文档定期重新抓取更新。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 36 个技能仅源自官方文档，无个人偏好或自创约定
-- SKILL.md 按任务上下文自动加载，无需手动粘贴规则
-- 支持 Skills CLI、Claude Code/Codex/Cursor/Antigravity 插件市场、手动拷贝等多种安装途径
-- 内容按计划从上游官方文档重新抓取更新
+- 36 个技能覆盖 Flutter/Dart 基础、状态管理、测试、Firebase 与发布
+- 内容全部来源官方文档并附 ATTRIBUTION 归属，定期从上游文档重新抓取
+- 支持 Skills CLI、Claude Code/Codex/Cursor/Antigravity 插件市场与手动复制多种安装方式
+- 为不支持 SKILL.md 的代理（GitHub Copilot）提供 rules 与 combined 规则文件替代方案
 
 ## 适用场景
 
-- 让 Claude Code/Codex/Cursor 等编码 agent 在写 Flutter 代码时自动获得官方最佳实践
-- 处理 Firebase Auth、Firestore、FCM 等集成任务时获得对应指引
-- 在不支持 SKILL.md 的工具（如 GitHub Copilot）中用静态规则文件获得同样指引
+- 让 Claude Code/Cursor 等代理写 Flutter 代码时自动加载官方最佳实践
+- 写 Bloc/Riverpod 状态管理或 Firebase 集成时获取对应技能指引
+- 在不支持技能机制的代理中通过规则文件获得相同指导
 
 ## 场景标签
 
@@ -39,20 +39,19 @@
 
 > L5: **36 Flutter and Dart skills your coding agent loads by itself, sourced only from official documentation.**
 > L7: A skill is a folder with a `SKILL.md` file. Your agent reads the description, decides a task matches, and pulls in t
-> L9: A comprehensive, (almost) non-opinionated collection: everything here is derived from official Flutter, Dart, Fireba
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "evanca/flutter-ai-rules 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
     y-axis "stars" 652 --> 676
     line [654, 655, 658, 660, 662, 663, 665, 668, 660, 669, 670, 671, 672, 673, 674, 674]
 ```
 
-2026-10-21 654 → 2026-11-23 674（+20）
+2026-10-22 654 → 2026-11-24 674（+20）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `862def51fece` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7876bd7e2ea2` · [字段定义](../../DATASET.md)*

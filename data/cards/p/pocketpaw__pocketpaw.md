@@ -2,9 +2,9 @@
 
 ⭐ 935 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pocketpaw/pocketpaw) · [官网](http://pocketpaw.xyz/) · 组织维护
 
-**自托管个人 AI agent，多渠道对话+桌面应用，本地运行**
+**自托管个人 AI agent：桌面应用+多渠道对话+7 层安全**
 
-运行在用户自己机器上的个人 AI agent：Python 后端加 Tauri 2.0 + SvelteKit 原生桌面客户端与 Web 仪表盘，通过 Discord、Slack、WhatsApp、Telegram 等 9+ 渠道对话。支持 6 种 agent 后端（默认 Claude Agent SDK），可接 Anthropic、OpenAI、Google API key 或用 Ollama 做本地推理。内含 50+ 工具（浏览器、搜索、语音等）与 7 层安全机制（Guardian AI 审查每次工具调用、注入扫描、审计日志）。项目声明处于 Beta，版本间可能有破坏性变更。
+本机运行的开源 AI agent，通过 Web 仪表盘与原生桌面应用（Tauri 2.0 + SvelteKit）交付，可经 Discord、Slack、WhatsApp、Telegram、Signal 等 9+ 渠道对话。采用事件驱动消息总线，6 种 Agent 后端（Claude Agent SDK、OpenAI Agents、Google ADK、Codex CLI、OpenCode、Copilot SDK）实现同一 AgentBackend 协议可互换；内置 50+ 工具（浏览器、图像生成、语音、OCR）、长期记忆（Mem0）与 7 层安全栈（Guardian AI 审查每次工具调用、注入扫描、计划模式、审计日志）。安装需 Python 3.11+，处于 Beta 阶段，版本间可能有破坏性变更。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 9+ 对话渠道与 6 种可切换的 agent 后端（同一 AgentBackend 协议）
-- Guardian AI 二级 LLM 审查每次工具调用，附注入扫描与审计日志
-- 支持 Ollama 完全离线运行，API key 静态加密存储
-- 提供 Windows/macOS/Linux 桌面安装包与 pipx/uv/Docker 安装方式
+- 6 种可互换的 Agent 后端，统一 AgentBackend 协议
+- 7 层安全栈：Guardian AI 审查工具调用、注入扫描、计划模式、审计日志
+- 9+ 消息渠道（Discord/Slack/WhatsApp/Telegram/Signal/Matrix 等）
+- 支持 Ollama 实现完全本地离线运行
 
 ## 适用场景
 
-- 在自己机器上运行个人 AI 助手，通过 Discord/Telegram 等聊天工具交互
-- 定时任务与日程提醒（如每周日提醒垃圾分类）
-- 通过 Ollama 做完全离线的本地 AI 操作
+- 在本地部署一个可通过 Telegram/Discord 随时对话的个人助手
+- 给 agent 配置定时提醒与 Gmail/Calendar/Drive 集成
+- 需要工具调用安全审计与人工审批的自托管 agent
 
 ## 场景标签
 
@@ -39,20 +39,20 @@
 
 > L17:  Self-hosted AI agent with a native desktop app and web dashboard. Talks to you over Discord , Slack , WhatsApp , T
 > L210: |🧠 **6 Agent Backends**|Claude Agent SDK, OpenAI Agents, Google ADK, Codex CLI, OpenCode, Copilot SDK|
-> L211: |🛠️ **50+ Tools**|Browser, web search, image gen, voice/TTS/STT, OCR, research, delegation, skills|
+> L238: |**Claude Agent SDK** (Default)|`claude_agent_sdk`|Anthropic, Ollama|Yes|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "pocketpaw/pocketpaw 星数(近 19 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23"]
-    y-axis "stars" 888 --> 939
-    line [892, 893, 894, 895, 894, 908, 909, 911, 894, 917, 919, 925, 927, 928, 929, 930, 934, 935, 935]
+    title "pocketpaw/pocketpaw 星数(近 18 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-24"]
+    y-axis "stars" 889 --> 939
+    line [893, 894, 895, 894, 908, 909, 911, 894, 917, 919, 925, 927, 928, 929, 930, 934, 935, 935]
 ```
 
-2026-10-21 892 → 2026-11-23 935（+43）
+2026-10-22 893 → 2026-11-24 935（+42）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6d2e7fcdb82e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7d360019f49a` · [字段定义](../../DATASET.md)*

@@ -44,12 +44,12 @@ Talk Python 训练营课程项目仓库：面向处理音频/视频内容的开�
 ```mermaid
 xychart-beta
     title "talkpython/audio-ai-with-assemblyai-course 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-21 53 → 2026-11-23 53（+0）
+2026-10-22 53 → 2026-11-24 53（+0）
 
 
 ---

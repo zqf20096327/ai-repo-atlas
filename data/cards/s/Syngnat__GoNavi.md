@@ -1,10 +1,10 @@
 # Syngnat/GoNavi
 
-⭐ 2,106 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Syngnat/GoNavi) · [官网](https://gonavi.org) · 个人维护 · 中文 README
+⭐ 2,106 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Syngnat/GoNavi) · [官网](https://gonavi.org) · 组织维护 · 中文 README
 
-**轻量跨平台多数据源数据库客户端，内置 AI 助手与 MCP 接入**
+**开发者用的多数据源数据库客户端，内置 AI 助手与 MCP 接入**
 
-基于 Wails (Go) + React 构建的桌面优先数据库客户端，安装包约 20–26MB。支持 SQL 关系库、缓存、向量库、消息队列、搜索与时序库等大量数据源（内置 12 种，Driver Manager 可选扩展 40 余种，含国产数据库）。AI 功能包括 schema 上下文感知的多模型助手（OpenAI/Gemini/Claude/自定义 OpenAI 兼容 API）生成与解释 SQL，以及通过 MCP 一键连接 Claude Code、Codex 等编码 agent，密钥保留在本地主机。另含 SQL 审计中心、执行历史、Docker/K8s 打包与实验性 Web Server 模式。
+基于 Go + Wails + React 构建的跨平台桌面数据库客户端，安装包约 20–26MB，运行时使用系统 WebView 而非 Electron。内置支持 MySQL、PostgreSQL、Redis、Kafka、Milvus 等 12 类数据源，另可通过可选驱动代理接入 MongoDB、ClickHouse、达梦、OceanBase 等数十种。提供 SQL 编辑、虚拟化数据表格、批量编辑、导出、审计中心、SSH 隧道等功能；AI 部分支持 OpenAI/Gemini/Claude 及自定义 OpenAI 兼容 API，可附加表结构上下文生成 SQL，并可通过 MCP 连接多个编码 Agent，密钥保留在本机不外发。
 
 ## 筛选速览
 
@@ -16,42 +16,43 @@
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 约 20–26MB 安装包，Go + 系统 WebView（非 Electron）
-- AI 助手附加实时表结构上下文，斜杠命令生成/解释/优化 SQL
-- MCP 一键连接 Claude Code / Codex / OpenCode 等编码 agent，密钥不出本机
-- 内置 12 种数据源 + 40 余种可选驱动，含 Redis/Kafka/Milvus/国产数据库
+- 内置 12 类数据源 + 数十种可选驱动代理（含国产数据库）
+- AI 助手可附加实时表结构生成/解释/优化 SQL
+- MCP 一键连接 Claude Code / Codex 等编码 Agent，密钥不出本机
+- 桌面 + Web Server 双模式，Docker/K8s/Helm/Podman 打包
 
 ## 适用场景
 
-- 用一个客户端管理 MySQL、Redis、Kafka、Milvus 等多种数据源
-- 让 AI 结合表结构生成和审查 SQL
-- 通过 MCP 把数据库结构化上下文交给编码 agent 而不泄露密码
+- 用一个客户端管理关系库、缓存、向量库、消息队列等多类数据源
+- 让 AI 基于真实表结构生成并审查 SQL
+- 把数据库结构化上下文交给编码 Agent 而不泄露密码
+- 在信创环境接入达梦、人大金仓等国产数据库
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+ · 领域:开发者工具/数据库
 
 ## 证据(README 行号)
 
 > L56: |AI / Agents|Bolt-on or absent|**First-class MCP + multi-provider AI** (draft SQL; GUI still owns schema / edits / 
-> L137: - **MCP**: after detecting a locally installed CLI, one-click connect Claude Code / Codex / OpenCode / ZCode / Dee
+> L133: ### 🤖 AI that knows your schema
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Syngnat/GoNavi 星数(近 23 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23"]
-    y-axis "stars" 2073 --> 2110
-    line [2076, 2079, 2080, 2083, 2084, 2083, 2086, 2088, 2087, 2086, 2087, 2084, 2087, 2089, 2091, 2093, 2095, 2100, 2103, 2104, 2107, 2106, 2106]
+    title "Syngnat/GoNavi 星数(近 22 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
+    y-axis "stars" 2077 --> 2109
+    line [2079, 2080, 2083, 2084, 2083, 2086, 2088, 2087, 2086, 2087, 2084, 2087, 2089, 2091, 2093, 2095, 2100, 2103, 2104, 2107, 2106, 2106]
 ```
 
-2026-10-21 2,076 → 2026-11-23 2,106（+30）
+2026-10-22 2,079 → 2026-11-24 2,106（+27）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8bb4b67d777e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ab7fe3ba9fd5` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 869 · Cuda · 推送 2026-11-22 · [GitHub](https://github.com/brucefan1983/GPUMD) · [官网](https://gpumd.org/dev) · 组织维护
 
-**面向材料模拟的 GPU 分子动力学软件包，含 NEP 机器学习势训练**
+**GPU 上运行的通用分子动力学模拟科研软件包**
 
-在 GPU 上实现的通用高性能分子动力学软件包，提供 gpumd（经验势与 NEP 模型的模拟及静态计算）和 nep（NEP 模型训练与预测）两个可执行程序。应用覆盖热输运、热力学与力学性质、晶格动力学、冲击压缩、路径积分分子动力学与粗粒化模拟。NEP 通过神经进化方法训练，已发布模型与数据存于 nep-data 仓库。构建需 CUDA-capable NVIDIA GPU 与 CUDA toolkit（CMake 构建支持 AMD ROCm/HIP），从源码编译；NEP_CPU 另以独立项目提供 CPU 上的 NEP 计算引擎并含 LAMMPS 接口。使用需引用相应论文。
+基于 CUDA 实现的通用分子动力学（MD）软件，含两个主程序：gpumd 执行经验势或 NEP（神经演化势）模型的分子动力学与静态计算，nep 负责 NEP 模型的训练与预测。应用覆盖热输运、热力学与力学性质、晶格动力学、冲击压缩、路径积分 MD 与粗粒化模拟。需自行从源码编译，要求 CUDA capable NVIDIA GPU、匹配的驱动、CUDA 工具链与主机编译器；另支持 CMake 构建与 ROCm/HIP 路线的 AMD GPU。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- gpumd 与 nep 双可执行程序：模拟与 NEP 模型训练/预测
-- 支持经验势与神经进化势（NEP），覆盖热输运、冲击压缩、PIMD 等
-- 源码编译支持 NVIDIA CUDA 与 AMD ROCm/HIP，含多 GPU 执行说明
-- NEP_CPU 独立项目提供 CPU 推理与 LAMMPS 接口
+- gpumd/nep 双程序：分子动力学模拟与 NEP 机器学习势训练预测
+- 支持经验势与神经演化势（NEP）模型
+- 官方提供 Colab 教程与 nep-data 已发布模型/数据集仓库
+- 支持多 GPU 执行与 AMD GPU（ROCm/HIP，经 CMake）
 
 ## 适用场景
 
-- 运行大规模机器学习势分子动力学模拟
-- 从数据集训练 NEP 势并预测材料性质
-- 计算热导率等热输运与力学性质
+- 计算材料的热输运与热导率等性质
+- 用 train.xyz 数据集训练 NEP 机器学习势并用于模拟
+- 冲击压缩、路径积分分子动力学等 MD 方法研究
 
 ## 场景标签
 
- · 领域:计算材料学/科学计算
+ · 领域:计算物理/材料模拟
 
 ## 证据(README 行号)
 
 > L7: GPUMD is a high-performance, general-purpose molecular dynamics package implemented on GPUs. It supports empirical i
-> L15: |`gpumd`|Molecular dynamics simulations and static calculations with empirical or NEP models.|`run.in`, `model.xyz`
+> L16: |`nep`|Training and prediction with NEP models.|`nep.in` and datasets such as `train.xyz`.|
+> L24: For the NVIDIA/CUDA build, you need a CUDA-capable NVIDIA GPU, a compatible NVIDIA driver and CUDA toolkit, a suppo
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "brucefan1983/GPUMD 星数(近 13 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23"]
-    y-axis "stars" 854 --> 870
-    line [855, 856, 858, 859, 861, 862, 858, 863, 864, 865, 867, 868, 869]
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-24"]
+    y-axis "stars" 855 --> 870
+    line [856, 858, 859, 861, 862, 858, 863, 864, 865, 867, 868, 869, 869]
 ```
 
-2026-10-21 855 → 2026-11-23 869（+14）
+2026-10-22 856 → 2026-11-24 869（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `555315ccb509` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `576c07afad47` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,159 · TypeScript · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/DeepMyst/Mysti) · [官网](https://www.deepmyst.com) · 组织维护
 
-**VS Code 多智能体编码工作区：让 Claude Code、Codex 等协作**
+**VS Code 多编码 agent 协作扩展：多 agent 讨论、交接与综合**
 
-VS Code 扩展，把多个编码 agent（Claude Code、OpenAI Codex 等 CLI agent、本地模型服务与 API 端点，共 16 个 provider 适配器）聚合到同一对话界面：用 @标签 指派任务、并行征求独立意见、用 then 做跨 agent 依赖交接，Brainstorm 模式让两个 agent 按 Debate/Red Team 等策略讨论并综合结论。还提供 Composio/Smithery 工具连接、Proactive 上下文收集、检查点与审批控制。2.0 处于 BETA 预发布阶段。面向使用多种编码 agent 的开发者。
+一个 Apache-2.0 的 VS Code 扩展（Beta 2，要求 VS Code 1.86+），把 Claude Code、OpenAI Codex 等 16 个 provider 适配器接入同一对话流：可在一条消息中 @ 多个 agent 获取独立回答、让第二个 agent 以第一个的完成结果为上下文做审查、通过 Quick/Debate/Red Team/Delphi 等策略运行 Brainstorm 决策讨论。提供文件/诊断/Git 上下文注入、Canvas 可视化、检查点恢复与审批控制；模型订阅与 API 费用需用户自备。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ VS Code 扩展，把多个编码 agent（Claude Code、OpenAI Codex 等 CLI agen
 
 ## 能力要点
 
-- 16 个 provider 适配器接入编码 CLI、本地模型服务与 API 端点
-- @标签 并行/依赖式多 agent 任务指派与跨 agent 交接
-- Brainstorm 提供 Debate/Red Team/Perspectives/Delphi 等讨论与综合策略
-- 通过 DeepMyst 的 Composio/Smithery 目录连接外部工具与 MCP 服务器
+- 一条消息可 @ 多个 agent 并行获取独立回答
+- agent 间显式交接：实现后由另一 agent 以结果为上下文审查
+- Brainstorm 提供 Quick/Debate/Red Team/Perspectives/Delphi 五种讨论策略
+- 16 个 provider 适配器，含 Ollama/LocalAI 本地模型路径
 
 ## 适用场景
 
-- 让 Claude Code 与 Codex 对同一问题给出可对比的独立意见
-- 按顺序把一个 agent 的产出交给另一个 agent 审查
-- 在 VS Code 内统一管理多个编码 agent 的上下文、权限与进度
+- 让两个编码 agent 独立给出方案再综合取舍
+- 实现完成后交给另一个 agent 做边界情况审查
+- 在 VS Code 内用本地模型（Ollama）参与编码对话
 
 ## 场景标签
 
@@ -37,22 +37,22 @@ VS Code 扩展，把多个编码 agent（Claude Code、OpenAI Codex 等 CLI agen
 
 ## 证据(README 行号)
 
-> L10: **An open-source coding workspace that brings your agents together inside VS Code.**
-> L12: Ask Claude Code and Codex for independent opinions. Give a specialist a specific task. Hand completed work to anoth
-> L140: |Local / API endpoints|Ollama, LocalAI, OpenRouter, MiniMax|
+> L18: ### Your coding agents. One shared workflow.
+> L42: - **Keep your preferred tools.** Choose among 16 provider adapters, or use the Mysti coordinator. Each provider kee
+> L170: Mysti includes **16 provider adapters plus the Mysti coordinator**. Start with the tools you already use, then con
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "DeepMyst/Mysti 星数(近 13 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-23"]
+    title "DeepMyst/Mysti 星数(近 12 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-24"]
     y-axis "stars" 1143 --> 1160
-    line [1144, 1145, 1144, 1150, 1151, 1152, 1154, 1144, 1155, 1156, 1158, 1159, 1159]
+    line [1145, 1144, 1150, 1151, 1152, 1154, 1144, 1155, 1156, 1158, 1159, 1159]
 ```
 
-2026-10-21 1,144 → 2026-11-23 1,159（+15）
+2026-10-22 1,145 → 2026-11-24 1,159（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4ba3ce87aefb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `77f4658e7e9f` · [字段定义](../../DATASET.md)*

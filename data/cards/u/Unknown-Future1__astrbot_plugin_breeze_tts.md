@@ -41,6 +41,18 @@
 > L13: 不需要在 AstrBot 里配置任何 TTS 服务提供商。只要装好插件、部署 Breeze 模型、把本地 Breeze 服务跑起来、克隆完音色，填上音色 ID 就能用。
 > L154: 插件启用后，AI 就拥有 `clone_tts` 工具，会在「用户想听声音」时主动调用：
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Unknown-Future1/astrbot_plugin_breeze_tts 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-23 4 → 2026-11-24 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `4bd1fce328dd` · [字段定义](../../DATASET.md)*

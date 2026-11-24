@@ -45,12 +45,12 @@ dev-swarm 是一个 Python 包（pip install dev-swarm），提供名为 DevSwar
 ```mermaid
 xychart-beta
     title "kyegomez/dev-swarm 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-21 20 → 2026-11-23 20（+0）
+2026-10-22 20 → 2026-11-24 20（+0）
 
 
 ---

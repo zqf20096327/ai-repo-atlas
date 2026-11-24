@@ -2,9 +2,9 @@
 
 ⭐ 658 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/NVIDIA/cosmos-framework) · [官网](https://nvidia.github.io/cosmos-framework/) · 组织维护
 
-**NVIDIA 世界模型的训练与推理服务框架（Cosmos3）**
+**NVIDIA Cosmos 世界模型的训练与推理部署框架**
 
-单一 cosmos_framework Python 包内提供端到端能力：分布式训练（FSDP/TP/CP/PP，DCP 检查点，JSONL/WebDataset/LeRobot 数据适配）、推理（Diffusers/Transformers/vLLM 后端，离线批生成与 Ray+Gradio 在线服务）、策略服务部署及后训练与 RL（DPO/GRPO/PPO/OPD/DiffusionNFT/SFT），面向 Cosmos3 模型家族并扩展支持 Qwen、GR00T、π0.5 等模型。安装需 uv 指定 CUDA 变体依赖组及系统依赖，示例配方在 8×H100 80GB 上测试。
+NVIDIA Cosmos 项目家族中的训练与服务框架，以单一 Python 包 cosmos_framework/ 组织：训练侧提供 FSDP/TP/CP/PP 分布式训练器、DCP 检查点与 JSONL/WebDataset/LeRobot 数据集适配器；推理侧支持 Diffusers/Transformers/vLLM 后端的离线批量生成与在线服务（Ray + Gradio）；另含策略服务（server-client 管线）与后训练/强化学习运行时（DPO/GRPO/PPO/OPD/SFT 等算法）。以 uv 安装，依赖 CUDA 环境，示例配方为 8×H100 配置。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 分布式 FSDP/TP/CP/PP 训练器与 DCP 检查点（safetensors 导入导出）
-- Diffusers/Transformers/vLLM 推理后端，支持离线批生成与 Ray+Gradio 在线服务
-- 后训练与 RL 算法运行时（DPO/GRPO/PPO/OPD/DiffusionNFT）及策略服务
-- 附带面向编码 agent 的 SKILL.md 技能集
+- 训练与推理统一于单一 cosmos_framework/ Python 包
+- Diffusers/Transformers/vLLM 三种推理后端，支持离线批量与在线服务
+- 后训练/RL 运行时覆盖 DPO、GRPO、PPO、蒸馏等算法
+- 内置面向编码 agent 的 AgentSkills（SKILL.md）与 AGENTS.md 仓库地图
 
 ## 适用场景
 
-- 在自己的数据上微调或蒸馏 Cosmos3 世界模型
-- 多 GPU/多节点训练与在线推理服务部署世界模型
-- 对 Qwen 等兼容模型做 SFT 与偏好优化、强化学习
+- 在多 GPU 集群上对 Cosmos3 系列世界模型做微调与后训练
+- 将训练好的 Cosmos3 检查点部署为推理服务或策略服务器
+- 为机器人具身策略做强化学习优化
 
 ## 场景标签
 
-`微调` `推理引擎` `强化学习` `模型训练` · 领域:训练与推理
+ · 领域:AI 基础设施/模型训练与推理框架
 
 ## 证据(README 行号)
 
+> L6:  Part of the NVIDIA Cosmos project family — the training and serving framework repository.
 > L10: **Cosmos-Framework** is an end-to-end framework for training and serving world models, including the **Cosmos3** mo
-> L12: - **Training** — distributed FSDP / TP / CP / PP trainer, native DCP checkpoints with HuggingFace `safetensors` imp
 > L13: - **Inference** — Diffusers / Transformers / vLLM backends with offline batch generation and online serving (Ray + 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/cosmos-framework 星数(近 22 点)"
-    x-axis ["2026-10-20", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23"]
+    title "NVIDIA/cosmos-framework 星数(近 23 点)"
+    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-24"]
     y-axis "stars" 557 --> 667
-    line [566, 568, 573, 575, 577, 579, 583, 586, 588, 589, 590, 577, 622, 632, 637, 640, 642, 644, 645, 649, 656, 658]
+    line [566, 568, 573, 575, 577, 579, 583, 586, 588, 589, 590, 577, 622, 632, 637, 640, 642, 644, 645, 649, 656, 658, 658]
 ```
 
-2026-10-20 566 → 2026-11-23 658（+92）
+2026-10-21 566 → 2026-11-24 658（+92）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cf3531402eac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0623696b0963` · [字段定义](../../DATASET.md)*

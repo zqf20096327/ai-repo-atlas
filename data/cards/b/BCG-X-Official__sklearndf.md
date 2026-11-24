@@ -45,12 +45,12 @@ sklearndf 是 BCG（BCG GAMMA）维护的开源 Python 库，封装 scikit-learn
 ```mermaid
 xychart-beta
     title "BCG-X-Official/sklearndf 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
     y-axis "stars" 61 --> 64
     line [62, 63, 63]
 ```
 
-2026-10-21 62 → 2026-11-23 63（+1）
+2026-10-22 62 → 2026-11-24 63（+1）
 
 
 ---

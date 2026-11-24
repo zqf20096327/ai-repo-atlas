@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Teabie666/vilausity-claude-code-gui-shell 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-23"]
+    x-axis ["2026-10-25", "2026-11-24"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-25 4 → 2026-11-23 4（+0）
+2026-10-25 4 → 2026-11-24 4（+0）
 
 
 ---

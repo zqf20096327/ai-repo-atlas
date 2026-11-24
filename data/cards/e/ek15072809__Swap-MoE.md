@@ -41,6 +41,18 @@
 > L35: RAM, on the fly, during inference. Three optional companion mechanisms —
 > L215: Swap-MoE is distributed as a single patch file, `llama.cpp-expert-streaming.patch`,
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ek15072809/Swap-MoE 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-23 10 → 2026-11-24 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `e1604ad86f15` · [字段定义](../../DATASET.md)*

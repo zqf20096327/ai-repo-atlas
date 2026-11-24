@@ -43,13 +43,13 @@ langchain-ai 维护的示例仓库，演示如何以 Python monorepo 结构组�
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/python-langraph-monorepo-example 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-23"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "langchain-ai/python-langraph-monorepo-example 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-24"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
 ```
 
-2026-10-21 11 → 2026-11-23 12（+1）
+2026-10-22 12 → 2026-11-24 12（+0）
 
 
 ---

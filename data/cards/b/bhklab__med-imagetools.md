@@ -44,12 +44,12 @@ Python 包 med-imagetools，面向医学影像深度学习预处理：爬取数�
 ```mermaid
 xychart-beta
     title "bhklab/med-imagetools 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-23"]
+    x-axis ["2026-10-22", "2026-11-24"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-21 61 → 2026-11-23 61（+0）
+2026-10-22 61 → 2026-11-24 61（+0）
 
 
 ---

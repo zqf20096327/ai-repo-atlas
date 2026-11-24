@@ -41,6 +41,18 @@
 > L38: |**Desktop app**|Electron (Windows)|Chat + audit desk: tiered acceptance, agent workflows, live tool traces, artifa
 > L40: |**Agent runtime**|Built into the desktop app|DAG workflows **and** a restricted-script DSL, adversarial verificati
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ccai40359-wq/finalcheck 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-23 3 → 2026-11-24 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `7e9ca7c5a4d3` · [字段定义](../../DATASET.md)*

@@ -42,6 +42,18 @@
 > L43: - **🦀 Rust v3.10 原生内核加速**：将 UI 控件树极限剪枝（`-74%~-97%`，耗时仅 `17–45 µs`）、System-0 BM25+同义词语义路由（`51 µs` · 0 Token）、SSE 流式增
 > L176:  支持。沿用并完善了 Mika 的非默认拨号器 Telecom Companion 架构，**保留你的系统原生拨号器**，支持豆包 Seeduplex 3.0 与 OpenAI Realtime（BYOK）、3×4 DTMF 语
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chongyangzhang92-hub/Sol-Next 星数(近 2 点)"
+    x-axis ["2026-11-23", "2026-11-24"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-23 14 → 2026-11-24 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `4f8b4396109d` · [字段定义](../../DATASET.md)*
