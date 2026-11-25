@@ -46,12 +46,12 @@ Swift 编写的原生 macOS 应用，在菜单栏和桌面小组件中显示 Cla
 ```mermaid
 xychart-beta
     title "saeedkolivand/claude-usage-mac 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-21 15 → 2026-11-24 15（+0）
+2026-10-23 15 → 2026-11-25 15（+0）
 
 
 ---

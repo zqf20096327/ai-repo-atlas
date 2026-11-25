@@ -45,12 +45,12 @@ OpenClaw 的企业微信（WeCom）通道插件：提供 HTTP 回调服务器接
 ```mermaid
 xychart-beta
     title "CreatorAris/openclaw-wecom-plugin 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

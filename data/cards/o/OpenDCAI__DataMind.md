@@ -2,9 +2,9 @@
 
 ⭐ 456 · Python · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/OpenDCAI/DataMind) · [官网](https://opendcai.github.io/DataMind-Doc) · 组织维护 · 中文 README
 
-**为 Codex 提供共享工作区数据层的插件：存储、工具执行与证据回执**
+**为 Codex agent 提供共享工作区数据层的插件**
 
-作为 Codex 的数据层插件运行：Codex 负责推理、摄取与检索，DataMind 负责存储数据、执行数据工具并返回证据与写入回执。提供 KB 语义检索、SQL 只读查询、类型化图存储（NetworkX+JSON 本地后端）、版本化 Skills 与 Memory 五种能力面，通过 Codex 插件、官方 Codex SDK、CLI、HTTP API 与浏览器 UI 共用同一数据层。2.0 已移除旧 StoreAgent/RetrieveAgent 与 Claude SDK 后端。本地协调器支持 SQLite/NetworkX/Chroma/LanceDB，不承诺分布式协调。
+DataMind 定位为 Codex 主 agent 的共享数据层：存储数据、执行工具、返回证据与写入回执，而推理、摄取与检索由 Codex 完成。提供五个功能面：KB 语义检索、SQL 精确查询、图谱（NetworkX+JSON 本地后端）、版本化 Skills、Memory。插件、官方 Codex SDK 集成、CLI、HTTP API 与浏览器 UI 共享同一数据层；工作区通过不可变修订、源检查点与 compare-and-swap 发布保证一致读。2.0 已移除内置 StoreAgent/RetrieveAgent 与 Claude SDK 适配器。Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- KB/SQL/Graph/Skills/Memory 五个数据能力面，统一 operation_id 下的快照一致性读取
-- 写入带证据与回执，发布为不可变修订，可检查或回滚
-- 独立 MCP 传输随 wheel 安装（python -m datamind.mcp）
-- Codex 插件、SDK、CLI、HTTP API 与 UI 共享同一数据层
+- KB/SQL/Graph/Skills/Memory 五个数据面，统一数据层
+- 工作区不可变修订与源版本校验（SHA-256），支持历史回滚
+- 插件、Codex SDK、CLI、HTTP API、UI 五种接入面共享数据层
+- 写入回执与 operation_id 一致读机制
 
 ## 适用场景
 
-- 为本地 Codex 配置带审计回执的工作区数据层
-- 企业侧通过官方 Codex SDK 集成问答与授权写入
-- 对 KB/SQL/图数据做带版本快照的检索与回滚
+- 让本地 Codex agent 摄取文件夹并基于工作区数据回答问题
+- 企业通过官方 Codex SDK 集成数据层到自有应用
+- 通过 CLI 或 HTTP API 对工作区做只读问答与授权写入
 
 ## 场景标签
 
@@ -38,20 +38,21 @@
 ## 证据(README 行号)
 
 > L3: **The shared workspace data layer for Codex.** Codex reasons, ingests and retrieves;
-> L18: the same data layer. Codex is the main agent for ingestion and retrieval.
+> L4: DataMind stores data, executes tools, and returns evidence and write receipts.
+> L17: The plugin, official Codex SDK integration, CLI, HTTP API and browser UI share
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "OpenDCAI/DataMind 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-25"]
     y-axis "stars" 453 --> 457
     line [455, 456, 455, 454, 455, 456, 456]
 ```
 
-2026-10-22 455 → 2026-11-24 456（+1）
+2026-10-23 455 → 2026-11-25 456（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cdbc6130ee29` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2284d65bb302` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 510 · 推送 2026-11-04 · [GitHub](https://github.com/antonbabenko/terraform-aws-devops) · [官网](https://github.com/sponsors/antonbabenko) · 个人维护
 
-**个人 Terraform/AWS/DevOps 及 AI 项目导航链接页**
+**面向 DevOps 工程师的 Terraform/AWS 项目链接目录**
 
-作者（AWS Community Hero）的链接聚合仓库：以 README 形式罗列其媒体项目（weekly.tf 通讯、YouTube 直播）、大型项目（compliance.tf 合规模块、terraform-aws-modules、terraform-best-practices 电子书、serverless.tf、deliberation AI 二次意见工具）、工具类仓库与已弃置项目。本体不含代码，仅提供各项目的简介与跳转入口，供 Terraform/AWS 用户发现其作品并选择赞助渠道。
+作者 antonbabenko 的个人项目链接集合，索引其 Terraform、AWS、DevOps 相关项目：媒体项目（YouTube 直播、weekly.tf 通讯）、大型项目（compliance.tf 合规模块、terraform-aws-modules、serverless.tf、terraform-best-practices 电子书）、AI 相关工具（deliberation、modules.tf、terraform-skill）及实用工具。仓库本身不提供安装与运行方式，仅以链接导航组织内容。
 
 ## 筛选速览
 
@@ -20,16 +20,14 @@
 
 ## 能力要点
 
-- 聚合 60+ 下载量超 20 亿的 terraform-aws-modules 社区模块入口
-- 列出 compliance.tf：内置 SOC 2/PCI DSS/HIPAA 等 35+ 框架的 Terraform 模块
-- 列出 deliberation：让 AI 编码代理向 OpenRouter 300+ 模型征求二次意见
-- README 标注部分项目为弃置/暂停维护状态
+- 收录 60+ 模块、电子书、通讯等多个 Terraform 项目入口
+- 包含 deliberation 多模型专家评审与 modules.tf PR 审查工具链接
+- terraform-best-practices 电子书提供 20+ 语言翻译
 
 ## 适用场景
 
-- 查找作者的 Terraform 模块、工具与最佳实践资源
-- 了解 Terraform 合规、serverless 相关项目入口
-- 赞助或联系作者支持其开源与媒体项目
+- 查找 Terraform/AWS 相关开源项目与学习资源入口
+- 了解该作者的 Terraform 工具与媒体项目全貌
 
 ## 场景标签
 
@@ -38,20 +36,21 @@
 ## 证据(README 行号)
 
 > L1: # Various links to most of my Terraform, AWS, and DevOps projects
-> L49: ## Big projects
+> L50: ## Big projects
+> L98: ### deliberation - A second opinion from other AI models
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "antonbabenko/terraform-aws-devops 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-20", "2026-11-25"]
     y-axis "stars" 506 --> 512
     line [507, 508, 509, 510, 511, 510, 510]
 ```
 
-2026-10-21 507 → 2026-11-24 510（+3）
+2026-10-23 507 → 2026-11-25 510（+3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1fe779ce9f27` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b7ce22f84fda` · [字段定义](../../DATASET.md)*

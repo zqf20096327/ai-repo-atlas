@@ -45,13 +45,13 @@ OpenAI 发布的一组提示词形式的安全策略，初始覆盖 6 个政策�
 
 ```mermaid
 xychart-beta
-    title "openai/teen-safety-policy-pack 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 28]
+    title "openai/teen-safety-policy-pack 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
 ```
 
-2026-10-22 27 → 2026-11-24 28（+1）
+2026-10-23 28 → 2026-11-25 28（+0）
 
 
 ---

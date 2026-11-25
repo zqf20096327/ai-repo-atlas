@@ -1,10 +1,10 @@
 # sosoj92/jarvis-assistant-vocal
 
-⭐ 573 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/sosoj92/jarvis-assistant-vocal) · 个人维护 · 中文 README
+⭐ 573 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/sosoj92/jarvis-assistant-vocal) · 个人维护
 
-**法语本地语音助手：语音唤起、LLM 推理、控制家庭与 PC**
+**本地运行的法语语音助手，接 Claude/Ollama 控制家居、OBS、日程**
 
-Python 编写的个人语音助手，运行在用户自己的 Windows 11 机器上：openWakeWord 唤醒、faster-whisper 本地转录、LLM 推理并语音回复。提供三种模式（hybride/qualité/100% 本地 Ollama），LLM 与语音引擎可分别配置，已集成 OpenAI 与 Claude/Anthropic，Gemini/DeepSeek 连接器在路线图中未实现。功能覆盖 Philips Hue 灯控、OBS 控制、PC 应用与音量、Google 日历、Gmail、Playwright 浏览器自动预订、Twilio 电话、MCP 服务器、长时记忆与多房间音频卫星节点。本地推理需求约为 6 Go 显存。
+以 Python 编写的本地法语语音助手：说出唤醒词后用 LLM 推理并调用可扩展工具集，包含语音唤醒（openWakeWord）、本地转写（faster-whisper）、语音合成，以及 Philips Hue、OBS、Google 日历、Gmail、Discord、浏览器（Playwright）、Twilio 电话等集成。提供三种模式：hybride（云+本地）、qualité（云最强模型）、local（Ollama 离线）。支持委派给本地运行于 Docker 的 Hermes 协商式 agent 做深度思考，自身保留密钥与执行权。目标用户是希望在自有机器上运行语音助手的个人；README 标明为按原样分享的个人项目，面向 Windows 11，多数集成未配置时可自动停用。
 
 ## 筛选速览
 
@@ -16,43 +16,44 @@ Python 编写的个人语音助手，运行在用户自己的 Windows 11 机器�
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- openWakeWord 唤醒 + faster-whisper 本地转录 + 语音回复
-- 三种模式：hybride / qualité / 100% 本地（Ollama + 本地语音）
-- MCP 服务器将家庭/PC 工具暴露给 Claude Desktop、Hermes 等客户端
-- 工具分级安全（N1/N2/N3）、LLM 预算跟踪与到顶自动切回本地
+- 三种模式切换：hybride / qualité / 100% 本地离线（Ollama + 本地语音）
+- 语音链路本地：openWakeWord 唤醒、faster-whisper 转写、Piper/Kokoro 合成
+- Hermes 本地协商式 agent 委派思考，凭证不进入其环境
+- 内置 MCP 服务器，向 Claude Desktop 等客户端暴露工具
 
 ## 适用场景
 
-- 在家里用语音控制 Hue 灯光、OBS 直播和 PC 应用
-- 完全离线运行语音助手（Ollama + Whisper + Piper）
-- 通过 Siri 快捷指令或网络音频卫星节点远程发指令
-- 让 Jarvis 处理日常事务（日程、邮件摘要、餐厅预订、电话）
+- 语音控制 Philips Hue 灯光与家庭场景
+- 语音操作 OBS 直播、录屏与场景切换
+- 离线环境下运行不依赖云 API 的语音助手
+- 让语音助手代订餐厅或管理浏览器标签页
 
 ## 场景标签
 
-`语音 Agent` `浏览器自动化` `工作流自动化` · 领域:效率与自动化
+`语音 Agent` `浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L10: Un assistant vocal en français qui tourne **sur ta machine**. Dis *« Hey Jarvis »*,
 > L52: - 🎙️ **Tout à la voix** — mot d'activation (openWakeWord), transcription locale (Whisper), réponses parlées
+> L71: - 🔌 **Serveur MCP** — expose les outils domotique/PC à tout client MCP (Claude Desktop, Hermes…)
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "sosoj92/jarvis-assistant-vocal 星数(近 27 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 479 --> 580
-    line [487, 488, 493, 501, 509, 514, 521, 527, 533, 536, 539, 544, 501, 548, 549, 552, 553, 556, 559, 561, 562, 565, 568, 569, 570, 572, 572]
+    title "sosoj92/jarvis-assistant-vocal 星数(近 26 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 480 --> 581
+    line [488, 493, 501, 509, 514, 521, 527, 533, 536, 539, 544, 501, 548, 549, 552, 553, 556, 559, 561, 562, 565, 568, 569, 570, 572, 573]
 ```
 
-2026-10-22 487 → 2026-11-24 572（+85）
+2026-10-23 488 → 2026-11-25 573（+85）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7daee906ae96` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `63ff6b39766e` · [字段定义](../../DATASET.md)*

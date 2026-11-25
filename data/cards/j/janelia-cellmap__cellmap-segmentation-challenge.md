@@ -45,12 +45,12 @@ Python 包，为参加 CellMap（Janelia）电镜图像分割挑战提供全流�
 ```mermaid
 xychart-beta
     title "janelia-cellmap/cellmap-segmentation-challenge 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-22 43 → 2026-11-24 43（+0）
+2026-10-23 43 → 2026-11-25 43（+0）
 
 
 ---

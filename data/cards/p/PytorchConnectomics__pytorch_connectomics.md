@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PytorchConnectomics/pytorch_connectomics 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 201 --> 203
     line [202, 202]
 ```
 
-2026-10-22 202 → 2026-11-24 202（+0）
+2026-10-23 202 → 2026-11-25 202（+0）
 
 
 ---

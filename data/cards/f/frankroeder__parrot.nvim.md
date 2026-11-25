@@ -2,9 +2,9 @@
 
 ⭐ 792 · Lua · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/frankroeder/parrot.nvim) · 个人维护
 
-**面向 Neovim 的 LLM 文本生成插件：补全、改写与聊天**
+**在 Neovim 中接入多种 LLM API 的文本生成与会话插件**
 
-Neovim 插件，将 LLM API 集成到文本编辑工作流中，功能为按需的代码补全/改写/追加（PrtRewrite、PrtAppend、PrtPrepend 等）以及以原生 Neovim Markdown buffer 承载的聊天会话，会话以 .md 文件持久化。提供统一 provider 系统，支持任何 OpenAI 兼容 API（OpenAI/Anthropic/Gemini/xAI/ollama 本地服务等），另经 Agent Client Protocol (ACP) 接入 Grok Build CLI 等代理后端。不提供自动 ghost-text 补全与后台隐藏请求，用户对发送内容保有控制。需 Neovim 0.11+，基于 gp.nvim 的早期 fork。
+以 Neovim 插件形式将多个 LLM API 集成进编辑器工作流，功能限定于文本生成：按需补全与改写（PrtRewrite/Append/Prepend）、原生 buffer 内的聊天会话、以 markdown 文件持久化对话。采用统一的 provider 系统，任何 OpenAI 兼容端点均可配置；凭据支持环境变量、Bash 命令与密码管理器 CLI。不做自主 agent 循环，也不做后台隐藏请求，可通过 ACP 协议接入 Grok Build 等 agentic 后端。要求 Neovim 0.11+，支持 lazy.nvim、Packer 与 git clone 三种安装方式。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@ Neovim 插件，将 LLM API 集成到文本编辑工作流中，功能为按需�
 
 ## 能力要点
 
-- 统一 provider 系统支持任意 OpenAI 兼容 API 与本地 ollama 服务
-- PrtRewrite/PrtAppend/PrtPrepend 等命令对选区做内联生成
-- 聊天以原生 Markdown buffer 进行并以 .md 文件持久化
-- 经 Agent Client Protocol 接入 Grok Build CLI 等代理后端
+- 统一 provider 系统，支持任意 OpenAI 兼容 API 及自定义端点
+- 聊天会话以 markdown 文件持久化，可用 fzf 模糊搜索
+- 聊天模型与命令模型相互独立的可切换模型选择
+- 凭据支持环境变量、Bash 命令与密码管理器 CLI
 
 ## 适用场景
 
-- 在 Neovim 内按需触发 LLM 改写、追加或注释选中代码
-- 在编辑器内的 Markdown buffer 中与 LLM 进行持久化会话
-- 通过统一配置在多家 API provider 与本地模型间切换
+- 在 Neovim 中对选中代码进行改写、追加或生成注释
+- 在编辑器内以 markdown buffer 形式进行 LLM 聊天会话
+- 通过 ollama 在本地离线环境中使用 LLM
+- 将 Grok Build CLI 订阅与工具会话接入 Neovim 工作流
 
 ## 场景标签
 
-`代码生成` `聊天机器人` · 领域:编码与开发
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
@@ -46,13 +47,13 @@ Neovim 插件，将 LLM API 集成到文本编辑工作流中，功能为按需�
 ```mermaid
 xychart-beta
     title "frankroeder/parrot.nvim 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
     y-axis "stars" 791 --> 794
     line [792, 793, 792, 792]
 ```
 
-2026-10-22 792 → 2026-11-24 792（+0）
+2026-10-23 792 → 2026-11-25 792（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e2f08f00e808` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f187ff63fdf8` · [字段定义](../../DATASET.md)*

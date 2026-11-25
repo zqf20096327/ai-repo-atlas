@@ -44,13 +44,13 @@ After Effects 原生抠像效果插件，面向影视合成工作者：内置色
 
 ```mermaid
 xychart-beta
-    title "iamjoshuadavies/corridorkey-ae 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22, 22]
+    title "iamjoshuadavies/corridorkey-ae 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 22, 22]
 ```
 
-2026-10-22 19 → 2026-11-24 22（+3）
+2026-10-23 20 → 2026-11-25 22（+2）
 
 
 ---

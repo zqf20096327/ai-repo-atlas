@@ -45,12 +45,12 @@ Chrome 与 Edge 的网页翻译扩展（Manifest V3），提供整页翻译、�
 ```mermaid
 xychart-beta
     title "Liu-Bot24/pure-translate 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 5 --> 10
+    line [6, 9]
 ```
 
-2026-11-23 6 → 2026-11-24 6（+0）
+2026-11-23 6 → 2026-11-25 9（+3）
 
 
 ---

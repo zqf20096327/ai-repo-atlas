@@ -44,13 +44,13 @@ ACL 2026 论文官方实现。DiningBench 是一个评测视觉语言模型的�
 
 ```mermaid
 xychart-beta
-    title "meituan/DiningBench 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    title "meituan/DiningBench 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
 ```
 
-2026-10-21 10 → 2026-11-24 11（+1）
+2026-10-23 11 → 2026-11-25 11（+0）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anupamchoudhari/enterprise-ai-evals 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-24"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-21", "2026-11-25"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-21 4 → 2026-11-24 4（+0）
+2026-11-21 4 → 2026-11-25 5（+1）
 
 
 ---

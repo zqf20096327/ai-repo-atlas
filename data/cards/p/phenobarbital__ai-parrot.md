@@ -47,12 +47,12 @@ AI-Parrot 是一个 async-first、vendor-agnostic 的 Python 框架，用于构�
 ```mermaid
 xychart-beta
     title "phenobarbital/ai-parrot 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-16", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
     y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    line [33, 34, 33]
 ```
 
-2026-10-22 33 → 2026-11-24 34（+1）
+2026-10-23 33 → 2026-11-25 33（+0）
 
 
 ---

@@ -47,12 +47,12 @@ Context.dev 的官方 Cursor 插件，通过 MCP 服务器以 OAuth 连接生产
 ```mermaid
 xychart-beta
     title "context-dot-dev/cursor-plugin 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-22 10 → 2026-11-24 11（+1）
+2026-10-23 10 → 2026-11-25 11（+1）
 
 
 ---

@@ -45,13 +45,13 @@ EMNLP 论文 "Recent advances in large language model benchmarks against data co
 
 ```mermaid
 xychart-beta
-    title "SeekingDream/Static-to-Dynamic-LLMEval 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 491 --> 494
-    line [493, 492, 492]
+    title "SeekingDream/Static-to-Dynamic-LLMEval 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 491 --> 493
+    line [492, 492]
 ```
 
-2026-10-21 493 → 2026-11-24 492（-1）
+2026-10-23 492 → 2026-11-25 492（+0）
 
 
 ---

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/SharePoint-Embedded-Samples 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-22", "2026-11-25"]
     y-axis "stars" 107 --> 109
     line [108, 108]
 ```
 
-2026-10-21 108 → 2026-11-24 108（+0）
+2026-10-22 108 → 2026-11-25 108（+0）
 
 
 ---

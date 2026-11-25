@@ -46,12 +46,12 @@ OpenVide 是 monorepo，包含 React Native 移动应用、浏览器/眼镜 webv
 ```mermaid
 xychart-beta
     title "open-vide/openvide 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-22 34 → 2026-11-24 34（+0）
+2026-10-23 34 → 2026-11-25 34（+0）
 
 
 ---

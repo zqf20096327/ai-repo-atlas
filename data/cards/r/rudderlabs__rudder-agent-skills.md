@@ -45,12 +45,12 @@ RudderStack 官方维护的 Claude Code 插件市场与 Agent Skills 集合，�
 ```mermaid
 xychart-beta
     title "rudderlabs/rudder-agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-21 19 → 2026-11-24 19（+0）
+2026-10-23 19 → 2026-11-25 19（+0）
 
 
 ---

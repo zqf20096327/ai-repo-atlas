@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JOINCLASS/ai-ceo-framework 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-24"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-11-18", "2026-11-25"]
+    y-axis "stars" 60 --> 63
+    line [61, 62]
 ```
 
-2026-11-18 61 → 2026-11-24 61（+0）
+2026-11-18 61 → 2026-11-25 62（+1）
 
 
 ---

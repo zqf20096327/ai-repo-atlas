@@ -2,9 +2,9 @@
 
 ⭐ 542 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/hsahovic/poke-env) · [官网](https://poke-env.readthedocs.io/) · 个人维护
 
-**给开发者的 Pokemon Showdown 对战机器人 Python 接口库**
+**构建 Pokémon Showdown 对战 bot 的 Python 接口库**
 
-poke-env 是一个 Python 库，用于在 Pokemon Showdown 平台上构建脚本化 agent、自博弈实验与强化学习工作流。用户通过继承 Player 类并覆写 choose_move 来编写对战机器人，内置 RandomPlayer 可用于本地验证；需连接 Pokemon Showdown 服务器，本地训练时建议自行克隆并运行 smogon/pokemon-showdown 服务器（可加 --no-security 关闭限流）。提供 pip 安装、Read the Docs 文档与示例，源自 Ecole Polytechnique 一门人工智能课程的团队项目，MIT 许可。
+面向 Pokémon Showdown 平台的 Python 库，用于构建脚本化 bot、self-play 实验和强化学习工作流。要求 Python >= 3.10 并连接一个 Pokémon Showdown 服务器，官方推荐自建本地服务器并使用 --no-security 关闭限流。内置 RandomPlayer 等玩家类，用户可继承 Player 并覆写 choose_move 编写自己的 bot。文档与示例托管在 Read the Docs，多个基于它的对战 bot 项目（RL、LLM、MCTS 类）已被收录为案例。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ poke-env 是一个 Python 库，用于在 Pokemon Showdown 平台上构建脚本
 
 ## 能力要点
 
-- 通过继承 Player 并覆写 choose_move 构建自定义对战机器人
-- 支持脚本化 agent、自博弈实验与强化学习工作流
-- 内置 RandomPlayer 用于本地对战验证
-- 需配合 Pokemon Showdown 服务器使用，README 提供本地服务器搭建步骤
+- 提供 Player 类接口，子类化并覆写 choose_move 即可编写 bot
+- 内置 RandomPlayer，可与本地服务器直接对局验证环境
+- 支持 self-play 实验与强化学习工作流
+- 数据文件来自 Pokémon Showdown 的 js 数据文件
 
 ## 适用场景
 
-- 用强化学习训练 Pokemon 对战机器人
-- 在本地 Showdown 服务器上跑自博弈实验
-- 让脚本化 agent 与真人玩家对战测试
+- 训练 Pokémon 对战的强化学习 agent
+- 搭建 LLM 对战 bot 并在 Showdown 天梯上评测
+- 用模拟对战做队伍构建与策略研究
 
 ## 场景标签
 
@@ -39,19 +39,20 @@ poke-env 是一个 Python 库，用于在 Pokemon Showdown 平台上构建脚本
 
 > L9: `poke-env` is a Python library for building scripted agents, self-play
 > L10: experiments, and reinforcement learning workflows on
+> L49: To build your own bot, subclass `Player` and override `choose_move`. The
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "hsahovic/poke-env 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
     y-axis "stars" 531 --> 543
-    line [532, 533, 535, 536, 538, 532, 541, 542, 541, 541]
+    line [532, 533, 535, 536, 538, 532, 541, 542, 541, 542]
 ```
 
-2026-10-22 532 → 2026-11-24 541（+9）
+2026-10-23 532 → 2026-11-25 542（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `46ec8d02253d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `796a4f626d27` · [字段定义](../../DATASET.md)*

@@ -39,13 +39,13 @@ LangSmith 文档的旧仓库，现处于弃用状态：README 仅含一条警告
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/langsmith-docs 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 173 --> 176
-    line [175, 174, 174]
+    title "langchain-ai/langsmith-docs 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 172 --> 175
+    line [174, 173]
 ```
 
-2026-10-22 175 → 2026-11-24 174（-1）
+2026-10-23 174 → 2026-11-25 173（-1）
 
 
 ---

@@ -45,13 +45,13 @@ NVIDIA 维护的独立插件，实现 ORT Plugin EP ABI，通过 TensorRT for RT
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/TensorRT-RTX-EP-ABI 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-24"]
-    y-axis "stars" 32 --> 35
-    line [34, 33, 33]
+    title "NVIDIA/TensorRT-RTX-EP-ABI 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-25"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
 ```
 
-2026-10-21 34 → 2026-11-24 33（-1）
+2026-10-22 33 → 2026-11-25 33（+0）
 
 
 ---

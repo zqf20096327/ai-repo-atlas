@@ -2,9 +2,9 @@
 
 ⭐ 533 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/prevalentWare/opencode-goal-plugin) · [官网](https://www.npmjs.com/package/@prevalentware/opencode-goal-plugin) · 组织维护 · 中文 README
 
-**为 OpenCode 增加 Codex 式长目标模式的 npm 插件**
+**给 OpenCode 编码代理加持久化目标模式的插件**
 
-OpenCode 插件，以 npm 包形式提供，向 AI 编程代理会话注入 /goal、/pause_goal、/resume_goal 斜杠命令与一组 goal 管理 agent 工具（set_goal/update_goal 等 12 个），维护每会话持久化的目标状态、历史、检查点与预算。目标关闭需提供完成证据或具体阻塞说明；支持会话空闲时自动续跑、无进展暂停、预算上限与 Plan-mode 安全限制；目标状态在会话压缩时保留。兼容 OpenCode 1 与 OpenCode 2（opencode2），两者配置格式不同。面向使用 OpenCode 的开发者，通过 opencode plugin 命令全局或项目级安装。
+为 OpenCode AI 编码代理提供 Codex 风格的长时运行目标模式：通过 /goal、/pause_goal、/resume_goal 斜杠命令与 12 个 agent 工具管理持久化目标状态，要求 complete 状态附验证证据、unstatus 附具体阻塞原因，支持 session.idle 自动续跑、token/时长预算、检查点、历史记录、无进展暂停与 Plan 模式安全限制，目标状态在会话压缩时保留。面向使用 OpenCode TUI/桌面/Web 的开发者，以 npm 插件分发。重要限制：OpenCode 2.2.1+ 已内置 /goal，官方建议多数用户改用内置命令，插件保留给 OpenCode 1 及需要预算、历史、检查点等配置的工作流。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ OpenCode 插件，以 npm 包形式提供，向 AI 编程代理会话注入 /goa
 
 ## 能力要点
 
-- /goal 等斜杠命令与 12 个 goal 管理 agent 工具
-- 目标关闭需完成证据或具体阻塞说明
-- 持久化每会话目标状态，含历史、检查点、token/时长预算
-- 空闲自动续跑、无进展暂停与 Plan-mode 安全限制
+- /goal 等斜杠命令与 12 个目标管理 agent 工具
+- 目标完成需验证证据，阻塞需具体原因，支持 awaiting_user 暂停
+- 自动续跑含 token/时长预算、无进展暂停与失败上限等安全机制
+- 目标状态跨会话压缩保留，支持 zh-CN 等本地化配置
 
 ## 适用场景
 
-- 让 OpenCode 代理在长重构、迁移、评审或修测试会话中保持单一目标
-- 跨 TUI/桌面/Web 界面跟踪同一个显式目标
-- 要求代理提交完成证据后才能关闭目标
+- 让 OpenCode 代理在长时重构、迁移、审查或修测试会话中保持专注
+- 在 TUI、桌面与 Web 多端跟踪同一明确目标
+- 需要代理完成任务时必须给出验证证据
+- OpenCode 1 环境或需要目标预算/历史/检查点的工作流
 
 ## 场景标签
 
@@ -37,21 +38,22 @@ OpenCode 插件，以 npm 包形式提供，向 AI 编程代理会话注入 /goa
 
 ## 证据(README 行号)
 
-> L7: OpenCode Goal Plugin adds Codex-style long-running goal mode to OpenCode. It gives AI coding agents a `/goal` slash 
-> L19: - `/goal <objective>`, `/pause_goal`, and `/resume_goal` as OpenCode commands for TUI, desktop, web, and remote int
+> L23: OpenCode Goal Plugin adds Codex-style long-running goal mode to OpenCode. It gives AI coding agents a `/goal` slash
+> L37: - `/goal <objective>`, `/pause_goal`, and `/resume_goal` as OpenCode commands for TUI, desktop, web, and remote int
+> L39: - Agent tools: `get_goal`, `get_goal_history`, `list_all_goals`, `create_goal`, `set_goal`, `update_goal_objective`
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "prevalentWare/opencode-goal-plugin 星数(近 21 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 499 --> 536
-    line [502, 507, 508, 511, 513, 514, 517, 519, 524, 525, 526, 527, 511, 527, 530, 531, 530, 531, 532, 533, 533]
+    title "prevalentWare/opencode-goal-plugin 星数(近 20 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 505 --> 535
+    line [507, 508, 511, 513, 514, 517, 519, 524, 525, 526, 527, 511, 527, 530, 531, 530, 531, 532, 533, 533]
 ```
 
-2026-10-22 502 → 2026-11-24 533（+31）
+2026-10-23 507 → 2026-11-25 533（+26）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `36d9bd17d5d7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2186089ff107` · [字段定义](../../DATASET.md)*

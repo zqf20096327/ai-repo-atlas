@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "martianacademy/olympus-coder 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-11-23 15 → 2026-11-24 15（+0）
+2026-11-23 15 → 2026-11-25 16（+1）
 
 
 ---

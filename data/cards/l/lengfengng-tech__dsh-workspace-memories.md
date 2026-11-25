@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的插件，为每个工作区提供独立记忆目录�
 ```mermaid
 xychart-beta
     title "lengfengng-tech/dsh-workspace-memories 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-24"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-24 4（+1）
+2026-11-08 3 → 2026-11-25 4（+1）
 
 
 ---

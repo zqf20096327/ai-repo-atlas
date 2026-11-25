@@ -2,9 +2,9 @@
 
 ⭐ 618 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Enderfga/claw-orchestrator) · [官网](https://github.com/Enderfga/claw-orchestrator#readme) · 个人维护
 
-**多引擎编码代理运行时：统一运行并验证 Claude/Codex 等代理的产出**
+**为开发者统一调度多个编码 agent CLI 并独立验收结果的运行时**
 
-以 Node CLI 形式提供的 headless 运行时，把 Claude Code、Codex、Antigravity、Grok Build、OpenCode 及自定义 CLI 包装在统一接口后面，维持持久会话。核心机制是验收契约：用户声明检查（命令、HTTP 探测、截图、文件断言），由运行时自行执行并读取退出码，运行结果判定为 verified/refuted/unverified，代理无法通过编辑测试自证通过。另提供 fan-out、多代理 council、会话跨引擎交接、检查点化的持久工作流、逐轮费用账本与 maxBudgetUsd 支出上限，以及 MCP 服务器、ACP agent、OpenAI 兼容端点与 TypeScript SDK。要求 Node 22+ 且至少安装并登录一个引擎 CLI。
+以 Node 运行时形式将 Claude Code、Codex、Antigravity、Grok Build、OpenCode 及任意 ACP agent 作为持久会话收拢到一套 API/CLI 之后。核心机制是验收合同：检查命令由运行时而非 agent 执行，运行结果判为 verified/refuted/unverified，证据落盘。支持跨引擎 fan-out、council 投票、会话交接、崩溃恢复检查点、按轮次记录模型/token/成本的账本与 maxBudgetUsd 花费上限。提供 CLI、MCP server、ACP agent、OpenAI 兼容端点与 TypeScript SDK。
 
 ## 筛选速览
 
@@ -20,41 +20,40 @@
 
 ## 能力要点
 
-- 统一接口运行 5 种编码代理引擎与自定义 CLI，支持 fan-out 与多代理 council 投票
-- 验收契约由运行时执行，结果为 verified/refuted/unverified，代理无法编辑测试自证
-- 检查点化持久工作流：重启后在节点边界恢复，支持重试/超时/取消/引导
-- 逐轮 JSONL 费用账本与 maxBudgetUsd 支出上限，跨引擎生效
-- 提供 MCP 服务器、ACP agent、OpenAI 兼容代理端点与 78 工具面
+- 运行时自身执行验收合同检查，agent 无法改写判定
+- 多引擎统一 CLI 标志，fanout 并行与 session_handoff 跨引擎交接
+- 检查点化持久运行，崩溃后可恢复
+- 跨引擎账本记录每轮模型、token、成本并强制预算上限
 
 ## 适用场景
 
-- 让多个厂商的编码代理执行同一任务并汇总对比回答
-- 用自己声明的检查命令核验代理声称的“测试全部通过”
-- 任务中途把卡住的会话从 Claude 交接到 Codex 继续执行
-- 给跨引擎的代理运行设置预算上限并事后查询花费
+- 让编码 agent 修复测试并用独立检查验证结果
+- 同一任务分发给多个引擎并行比较
+- 无人值守长目标运行并控制花费
+- 在编辑器中通过 MCP/ACP 调用统一 agent 入口
 
 ## 场景标签
 
-`编码 Agent` `多智能体` `Agent 框架` · 领域:Agent 开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L22: Coding agents grade their own work: "All tests pass ✓". Claw Orchestrator runs them as persistent sessions behind o
-> L36: |Use more than one vendor|Persistent sessions for Claude Code, Codex, Antigravity, Grok Build, OpenCode and custom 
-> L40: |Call it from your own tools|An MCP server (`clawo-mcp`), an ACP agent (`clawo acp`) for Zed, JetBrains and other A
+> L16: **Claw Orchestrator** runs Claude Code, Codex, Antigravity, Grok Build, OpenCode and any
+> L57: - 🔌 **Fits your tools**: a CLI, an MCP server, an ACP agent for editors, an OpenAI-compatible endpoint, a TypeScrip
+> L152: |**Multi-engine runtime**|One interface and one set of CLI flags over the engines above, any ACP agent, and custom
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Enderfga/claw-orchestrator 星数(近 20 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 593 --> 620
-    line [595, 597, 599, 598, 600, 601, 602, 604, 599, 603, 604, 603, 606, 607, 611, 614, 616, 617, 618, 618]
+    title "Enderfga/claw-orchestrator 星数(近 19 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 595 --> 620
+    line [597, 599, 598, 600, 601, 602, 604, 599, 603, 604, 603, 606, 607, 611, 614, 616, 617, 618, 618]
 ```
 
-2026-10-22 595 → 2026-11-24 618（+23）
+2026-10-23 597 → 2026-11-25 618（+21）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `14f2d93384ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `37def77f27ca` · [字段定义](../../DATASET.md)*

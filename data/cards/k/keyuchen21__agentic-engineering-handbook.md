@@ -2,9 +2,9 @@
 
 ⭐ 599 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/keyuchen21/agentic-engineering-handbook) · 个人维护
 
-**Agentic 工程学习路线图：218 条精选资源的结构化手册**
+**面向 Agent 工程师的结构化学习路线图：整合 231 份资源**
 
-面向想掌握生产级 AI agent 系统的开发者的学习路线图仓库，将散落在 OpenAI/Anthropic/Google 博客、SDK 文档与论文中的知识整合为 218 条精选资源。内容按 Phase 0–7 组织：从零实现 agent 循环（含可运行的 v0–v4 Python 实验代码）、agent 基础心智模型、MCP 与工具生态、上下文/记忆/技能，到评测与生产实践，每个阶段附 Read First/Then Read 阅读清单与 Build Exercise 构建练习。MIT 许可，纯文档加少量示例代码。
+将散落在 OpenAI 博客、Anthropic 工程文章、SDK 文档、cookbook 与研究论文中的 Agent 工程知识，整合为带阶段划分的学习路线图，收录 231 条策展资源。按 Phase 0-7 组织，从零实现 Agent 循环（含 5 个 Python 代码文件）、Agent 基础、MCP 工具生态，到评测与生产实践，每阶段附 Read First/Then Read 阅读清单与 Build Exercise 练习，并按不同起点的学习者给出路径建议。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 218 条精选资源按 Phase 0–7 结构化组织
-- Phase 0 提供从 Bash agent 到子代理机制的 v0–v4 可运行实验代码
-- 每阶段附阅读清单（标注厂商来源）与 Build Exercise 构建练习
-- 覆盖 MCP、上下文工程、评测与生产实践等主题
+- 收录 231 条策展资源，按阶段组织为结构化路线图
+- Phase 0 提供从零实现 Agent 循环的代码实验（v0-v4 五个版本，含子代理与技能机制）
+- 每阶段附阅读清单与 Build Exercise 练习
+- 按学习者起点（新手/已有 LLM 应用经验/项目实践/查参考）给出路径建议
 
 ## 适用场景
 
-- 按阶段系统学习 agent 工程从入门到生产部署
-- 已有 LLM 应用经验者补充 agent 循环、工具调用与评测知识
-- 查找 OpenAI/Anthropic/Google 官方 agent 文档与最佳实践的索引
+- 系统学习 Agent、工具调用、MCP 与评测的工程师
+- 已有 LLM 应用经验者补齐生产工程知识
+- 按 Build Exercise 练习构建 Agent 项目
 
 ## 场景标签
 
-`教程课程` `精选清单` · 领域:学习与行业
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L12: The AI industry has entered the **Agentic Era**. Building production-grade AI systems now requires mastering agents
-> L14: This repository consolidates **218 curated resources** into one structured learning roadmap.
-> L40: ## Learning Roadmap
+> L14: This repository consolidates **231 curated resources** into one structured learning roadmap.
+> L22: - **New to agents:** follow the Learning Roadmap through the core Phases 0–6, then continue to Phase 7 for advanced
+> L46: ## Learning Roadmap
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "keyuchen21/agentic-engineering-handbook 星数(近 21 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 551 --> 599
-    line [555, 561, 562, 564, 565, 567, 568, 569, 572, 562, 581, 585, 586, 587, 588, 589, 592, 593, 594, 595, 595]
+    title "keyuchen21/agentic-engineering-handbook 星数(近 20 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 558 --> 602
+    line [561, 562, 564, 565, 567, 568, 569, 572, 562, 581, 585, 586, 587, 588, 589, 592, 593, 594, 595, 599]
 ```
 
-2026-10-21 555 → 2026-11-24 595（+40）
+2026-10-23 561 → 2026-11-25 599（+38）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f98a19f50eac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b9873782ad78` · [字段定义](../../DATASET.md)*

@@ -47,12 +47,12 @@ GDG DevFest Warsaw 2026 的 45 分钟动手 workshop 教程：参与者从模板
 ```mermaid
 xychart-beta
     title "burnjohn/ai-code-reviewer-workshop 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-22 5 → 2026-11-24 6（+1）
+2026-11-22 5 → 2026-11-25 7（+2）
 
 
 ---

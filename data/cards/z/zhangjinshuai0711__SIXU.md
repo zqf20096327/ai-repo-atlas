@@ -45,12 +45,12 @@ SIXU 是面向支持自定义 MCP 工具的聊天客户端（如 ChatGPT Instant
 ```mermaid
 xychart-beta
     title "zhangjinshuai0711/SIXU 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-24 3（+0）
+2026-11-10 3 → 2026-11-25 3（+0）
 
 
 ---

@@ -46,12 +46,12 @@ spec-first 的 protoc-gen-mcp 插件，读取带 MCP 注解的 .proto 文件，�
 ```mermaid
 xychart-beta
     title "the-protobuf-project/mcp 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-24"]
+    x-axis ["2026-11-19", "2026-11-25"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-19 12 → 2026-11-24 12（+0）
+2026-11-19 12 → 2026-11-25 12（+0）
 
 
 ---

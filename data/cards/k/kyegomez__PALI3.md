@@ -44,12 +44,12 @@ kyegomez 对论文 PaLI-3 (5B) 的 PyTorch 实现：SigLIP 对比预训练 ViT �
 ```mermaid
 xychart-beta
     title "kyegomez/PALI3 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 145 --> 147
     line [146, 146]
 ```
 
-2026-10-22 146 → 2026-11-24 146（+0）
+2026-10-23 146 → 2026-11-25 146（+0）
 
 
 ---

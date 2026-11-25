@@ -2,9 +2,9 @@
 
 ⭐ 611 · Elixir · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agentjido/req_llm) · [官网](https://jido.run/ecosystem/req_llm) · 组织维护
 
-**Elixir 统一 LLM 客户端库：跨 21 家提供商标准化调用**
+**Elixir 开发者跨厂商统一调用 LLM API 的库**
 
-基于 Req 与 Finch 的可组合 Elixir 库，为 LLM API 调用提供统一接口：高层函数（generate_text/stream_text/generate_object 等）将请求与响应在各提供商间标准化，由提供商回调层翻译模型元数据、选项与响应体。模型注册表经 llm_db 来自 LLMDB，收录 21 个已实现提供商集成的 1,205 个模型，覆盖文本、嵌入、图像生成、语音、转录、rerank 与 OCR 元数据。另提供结构化输出、流式传输（Finch）、用量与成本追踪、分层密钥管理与可选的模型路由 behaviour。面向在 Elixir 应用中接入多家 LLM API 的开发者，以 Hex 包安装。
+基于 Req 和 Finch 的 Elixir 库，用于调用 LLM API，统一各 provider 的请求与响应格式。提供受 Vercel AI SDK 启发的高层函数（generate_text、stream_text、generate_object 等），覆盖文本、嵌入、图像、语音、转录、rerank、OCR 等操作；模型元数据来自 LLMDB，接入路径分为专用 provider 模块与共享目录网关两种。通过 Hex.pm 分发，可用 Igniter 安装；两个 provider（Amazon Bedrock、Google Vertex）需可选认证依赖。README 记录了 1.9.0–1.28.0 存在 WebSocket TLS 证书未校验的安全漏洞（GHSA-6vww-5m28-f26v）。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 21 个已实现提供商集成 / 1,205 个模型（LLMDB 目录）
-- generate_text/stream_text/generate_object 等统一 API，Req 负责请求响应、Finch 负责流式
-- 结构化输出（JSON schema / function calling 三种模式）与嵌入生成
-- 分层密钥管理：请求覆盖 → 应用配置 → 环境变量 → .env 文件
+- 统一接口覆盖 30+ 托管 API 与 Ollama/LM Studio/vLLM 本地运行时
+- 文本、嵌入、图像、语音、转录、rerank、OCR 操作元数据
+- 结构化输出生成与 OpenAI 原生 JSON schema 三种模式
+- 应用可定义 Model Router behaviour 做模型路由
 
 ## 适用场景
 
-- 在 Elixir 应用中用统一接口调用多家 LLM 提供商
-- 为文本模型添加结构化 JSON 输出约束
-- 追踪 LLM 调用的用量与美元成本
-- 通过 Ollama / LM Studio 调用本地模型
+- 在 Elixir 应用中以同一 API 调用多家 LLM provider
+- 通过 Ollama/vLLM 等本地运行时生成文本
+- 生成结构化 JSON 输出与批量嵌入
 
 ## 场景标签
 
@@ -40,20 +39,20 @@
 
 > L13: A Req- and Finch-backed package to call LLM APIs that standardizes requests and responses across providers.
 > L21: - **High-level API** – Vercel AI SDK-inspired functions (`generate_text/3`, `stream_text/3`, `generate_object/4` an
-> L22: - **Provider transports** – Req powers request/response calls; Finch powers streaming. Provider callbacks translate
+> L22: - **Provider transports** – Req powers request/response calls; Finch powers streaming. Dedicated provider modules o
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "agentjido/req_llm 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 599 --> 612
-    line [600, 601, 602, 604, 606, 607, 608, 610, 611, 611]
+    title "agentjido/req_llm 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 600 --> 612
+    line [601, 602, 604, 606, 607, 608, 610, 611, 611]
 ```
 
-2026-10-22 600 → 2026-11-24 611（+11）
+2026-10-23 601 → 2026-11-25 611（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6494b53650ed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b9ad152558e0` · [字段定义](../../DATASET.md)*

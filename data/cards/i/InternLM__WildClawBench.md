@@ -1,10 +1,10 @@
 # InternLM/WildClawBench
 
-⭐ 535 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/InternLM/WildClawBench) · [官网](https://internlm.github.io/WildClawBench/) · 组织维护 · 中文 README
+⭐ 535 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/InternLM/WildClawBench) · [官网](https://internlm.github.io/WildClawBench/) · 组织维护
 
-**AI agent 端到端实战基准：60 个真实任务 + 四种 harness 对比评测**
+**评测 AI agent 真实环境端到端任务完成能力的基准**
 
-InternLM 维护的 agent 评测基准：将 agent 放入真实运行的 OpenClaw 环境执行 60 个手工设计的任务，覆盖多步工具编排、多模态、长程规划、代码与安全 6 大类，中英双语。同一任务套件可在 OpenClaw、Claude Code、Codex CLI、Hermes Agent 四种 harness 下运行，用以区分模型能力与脚手架影响；每任务在独立 Docker 容器中运行，评分脚本在执行后注入以防数据泄露。评测代码在本仓库，数据以三个 Hugging Face 数据集发布，另有 Harbor 格式版本与轨迹数据集。
+面向生产级 agent harness 的野外评测基准：在真实 OpenClaw 助手环境中执行 60 个原创任务，覆盖多模态、长时程、编码、检索与安全对齐 6 类，任务以中英文双语提供。每任务在独立 Docker 容器中隔离运行，评分脚本在 agent 结束后注入以防数据泄漏；提供统一 harness 下 34 个模型的榜单与同一模型跨 4 种 harness 的对照评测，配套 Roller 工具收集与评分轨迹。评测代码在本仓库，基准数据以三个 Hugging Face 数据集分发。
 
 ## 筛选速览
 
@@ -12,24 +12,24 @@ InternLM 维护的 agent 评测基准：将 agent 放入真实运行的 OpenClaw
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 60 个手工设计的端到端任务，6 大类别，中英双语
-- 同一任务套件在四种 agent harness（OpenClaw/Claude Code/Codex CLI/Hermes Agent）下对比评测
-- 每任务独立 Docker 容器运行，评分脚本执行后注入，跨机器可复现
-- 发布模型榜与 harness 对比双榜单，含时间与成本统计
+- 60 个原创任务、6 大类别，运行于真实 OpenClaw 环境而非 mock
+- 四种 agent harness（OpenClaw/Claude Code/Codex CLI/Hermes Agent）执行同一任务集
+- 每任务独立 Docker 容器隔离，评分脚本事后注入，分数跨机器可复现
+- 三个 Hugging Face 数据集：任务数据、Harbor 格式包、720 条已评分轨迹
 
 ## 适用场景
 
-- 评测自研 agent 或模型在真实工具环境中的端到端能力
-- 对比不同 agent harness 脚手架对同一模型表现的影响
-- 获取前沿模型的长程 agent 轨迹数据用于分析或训练
+- 评估我的 agent 模型在端到端真实任务上的表现
+- 对比同一模型在不同 agent scaffold 下的得分差异
+- 挖掘已发布的长时程 agent 轨迹用于分析与训练
 
 ## 场景标签
 
@@ -37,22 +37,22 @@ InternLM 维护的 agent 评测基准：将 agent 放入真实运行的 OpenClaw
 
 ## 证据(README 行号)
 
-> L20: **WildClawBench** is an agent benchmark that tests what actually matters: can an AI agent do real work, end-to-end,
-> L42: - **Four agent harnesses, one task suite.** OpenClaw, Claude Code, Codex CLI, and Hermes Agent all execute the same
-> L47: The evaluation code lives in this repository; the benchmark data ships as three Hugging Face datasets — pick the on
+> L21: **WildClawBench** is an agent benchmark that tests what actually matters: can an AI agent do real work, end-to-end,
+> L43: - **Four agent harnesses, one task suite.** OpenClaw, Claude Code, Codex CLI, and Hermes Agent all execute the same
+> L44: - **Reproducible & isolated.** Each task runs in its own Docker container. Same image, same data, same grading code
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "InternLM/WildClawBench 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
     y-axis "stars" 530 --> 536
     line [533, 531, 532, 534, 535, 531, 534, 535, 535]
 ```
 
-2026-10-22 533 → 2026-11-24 535（+2）
+2026-10-23 533 → 2026-11-25 535（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `f6497f7e773a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `056add6f9570` · [字段定义](../../DATASET.md)*

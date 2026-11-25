@@ -46,12 +46,12 @@ Afterglow 的 Windows 桌面客户端，为本地托管的 AI 陪伴应用提供
 ```mermaid
 xychart-beta
     title "kldhsh123/Afterglow-Desktop 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-24"]
+    x-axis ["2026-10-25", "2026-11-25"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-10-25 7 → 2026-11-24 7（+0）
+2026-10-25 7 → 2026-11-25 7（+0）
 
 
 ---

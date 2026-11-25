@@ -2,15 +2,15 @@
 
 ⭐ 542 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ZaxbyHub/opencode-swarm) · 组织维护
 
-**OpenCode 的多 agent 群体编码插件：架构师主导、门禁式流水线**
+**OpenCode 的多智能体编码插件：架构师主导的分角色协作与质量门禁**
 
-面向使用 OpenCode 的开发者的插件，将单一 AI 编码会话转变为架构师（architect）协调的专职 agent 团队：编码、评审、测试、安全检查等角色分工，通过门禁流水线在 reviewer 与 test engineer 批准后才交付代码。机制包括独立自动评审引擎、shell 写入静态检测、跨进程 scope 强制、13 种语言配置与 tree-sitter 解析校验、Epic 并行波次模式（可选）、外部技能治理管线；状态存于 .swarm/ 可恢复。安装需 Bun ≥1.3.13 或 Node.js ≥22.13，部分高级功能（外部技能、技能优化器、PR Monitor）默认关闭需配置开启。
+OpenCode Swarm 是 OpenCode 的插件，将单个 AI 编码会话组织为由架构者协调的多个专职 agent（coder、reviewer、test_engineer、critic、sme、docs 等），采用 gated pipeline：代码需经 reviewer 与 test engineer 批准才能交付。提供 Epic 并行波次模式（每任务隔离 worktree）、可恢复会话状态（.swarm/ 目录）、shell 写操作静态检测、范围管控与 SAST/secrets 扫描等防护机制，支持 GitHub 与 GitLab，13 种语言 profile。需 Bun ≥1.3.13 或 Node.js ≥22.13。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- architect 主导的专职 agent 团队与门禁式 QA 流水线
-- shell 命令写入静态检测与跨进程 scope 强制（TTL、symlink 防护）
-- 13 种语言配置与 tree-sitter 20 种语法解析校验
-- Epic Mode 并行波次执行，每个 coder 在隔离 worktree 中工作
+- 架构者自动协调 19+ 个专职 agent，禁止并行越权改码（scope 证明不相交方可并行，各自独立 worktree）
+- gated pipeline：代码需 reviewer + test engineer 批准，含 completion-verify 与 drift verifier 门禁
+- shell 写操作静态检测（POSIX AST 解析 + PowerShell/cmd 正则）与破坏性命令拦截
+- 支持 GitHub 与 GitLab 一等公民，PR 订阅与 CI 状态后台轮询
 
 ## 适用场景
 
-- 让 AI 编码会话自动走评审+测试门禁再交付
-- 在多 agent 并行编码中防止文件范围冲突与越权写入
-- 通过 GitHub Action 从 issue 标签触发实现流水线并产出证据 PR
+- 用多角色 agent 流水线完成从计划到实现、评审、测试的编码任务
+- 需要 gate 审批与证据 PR 的受控 AI 编码流程
+- 在 GitHub/GitLab 上以 issue 标签触发自动化实现管道
 
 ## 场景标签
 
@@ -39,19 +39,20 @@
 
 > L13: OpenCode Swarm is a plugin for OpenCode that turns a single AI coding session into an **architect-led team of speci
 > L25: Most AI coding tools let one model write code and ask that same model whether the code is good. That misses too muc
+> L44: - 🌐 **13 full language profiles** (TypeScript, JavaScript, Python, Go, Rust, Java, Kotlin, C/C++, C#, Ruby, Swift, 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ZaxbyHub/opencode-swarm 星数(近 26 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 504 --> 543
-    line [507, 511, 510, 511, 510, 511, 513, 514, 515, 516, 517, 511, 518, 522, 523, 526, 527, 529, 531, 533, 536, 537, 540, 539, 540, 540]
+    title "ZaxbyHub/opencode-swarm 星数(近 25 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 507 --> 545
+    line [511, 510, 511, 510, 511, 513, 514, 515, 516, 517, 511, 518, 522, 523, 526, 527, 529, 531, 533, 536, 537, 540, 539, 540, 542]
 ```
 
-2026-10-21 507 → 2026-11-24 540（+33）
+2026-10-23 511 → 2026-11-25 542（+31）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1b3616e89643` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `702afe4c7c8c` · [字段定义](../../DATASET.md)*

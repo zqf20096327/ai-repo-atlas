@@ -46,12 +46,12 @@ PaccMann 的 PyTorch 实现，用于药物相互作用预测，包含抗癌药�
 ```mermaid
 xychart-beta
     title "PaccMann/paccmann_predictor 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-22 53 → 2026-11-24 53（+0）
+2026-10-23 53 → 2026-11-25 53（+0）
 
 
 ---

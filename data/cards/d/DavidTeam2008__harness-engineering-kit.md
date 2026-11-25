@@ -47,12 +47,12 @@ Harness Engineering 项目管理工具（治理层），按 Instructions / State
 ```mermaid
 xychart-beta
     title "DavidTeam2008/harness-engineering-kit 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-18", "2026-11-24"]
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-25"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-15 3 → 2026-11-24 4（+1）
+2026-11-15 3 → 2026-11-25 4（+1）
 
 
 ---

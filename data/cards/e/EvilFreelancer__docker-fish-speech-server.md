@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "EvilFreelancer/docker-fish-speech-server 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-24"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-11-18", "2026-11-25"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-11-18 33 → 2026-11-24 33（+0）
+2026-11-18 33 → 2026-11-25 34（+1）
 
 
 ---

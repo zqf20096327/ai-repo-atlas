@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "virajmavani/semi-auto-image-annotation-tool 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 595 --> 597
     line [596, 596]
 ```
 
-2026-10-22 596 → 2026-11-24 596（+0）
+2026-10-23 596 → 2026-11-25 596（+0）
 
 
 ---

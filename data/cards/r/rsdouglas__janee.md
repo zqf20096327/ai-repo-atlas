@@ -45,13 +45,13 @@ Janee 是一个 MCP 服务器，用于为 AI agent 管理 API 密钥：密钥加
 
 ```mermaid
 xychart-beta
-    title "rsdouglas/janee 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 29 --> 32
-    line [31, 30, 30]
+    title "rsdouglas/janee 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
 ```
 
-2026-10-21 31 → 2026-11-24 30（-1）
+2026-10-23 30 → 2026-11-25 30（+0）
 
 
 ---

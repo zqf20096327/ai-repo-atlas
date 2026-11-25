@@ -46,12 +46,12 @@ Nexus 是一个本地桌面 IDE（Electron），用于运行 Claude Code、Codex
 ```mermaid
 xychart-beta
     title "Dayifour/nexus 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-16", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
     y-axis "stars" 7 --> 10
     line [8, 9, 9]
 ```
 
-2026-10-22 8 → 2026-11-24 9（+1）
+2026-10-23 8 → 2026-11-25 9（+1）
 
 
 ---

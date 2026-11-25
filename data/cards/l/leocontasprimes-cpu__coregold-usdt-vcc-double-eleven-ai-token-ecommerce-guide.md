@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "leocontasprimes-cpu/coregold-usdt-vcc-double-eleven-ai-token-ecommerce-guide 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-24"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-11-21", "2026-11-25"]
+    y-axis "stars" 13 --> 40
+    line [15, 38]
 ```
 
-2026-11-21 15 → 2026-11-24 15（+0）
+2026-11-21 15 → 2026-11-25 38（+23）
 
 
 ---

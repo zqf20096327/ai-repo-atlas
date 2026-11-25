@@ -2,9 +2,9 @@
 
 ⭐ 570 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/MemTensor/MemT-1.0) · 组织维护 · 中文 README
 
-**持久原生记忆基础模型：让 LLM 具备固定大小的演化记忆**
+**记忆原生基础模型系列：以持久记忆承载长程历史对话**
 
-MemT-1.0 是记忆基础模型系列，含 Nano（基于 Qwen3.6-35B-A3B，激活 3B）与 Flash（基于 DeepSeek-V4-Flash，激活 17B）两个规模。模型通过局部记忆块与可训练的超记忆块在推理时保留历史信息而无需回看原始上下文，持久状态大小恒定，128K 历史长度下相比全上下文 KV cache 约减少 66 倍存储。提供 SGLang 服务端部署与 memt_sglang Python 客户端，支持记忆快照保存/恢复与经验引导的 agent 编程；仓库软件采用 PolyForm Noncommercial 许可，不许可商用。
+MemTensor 团队发布的记忆基础模型系列，含 Nano/Flash/Pro 三个型号，分别基于 Qwen、DeepSeek、NVIDIA Nemotron 骨干。通过动态本地记忆与可训练超记忆块，在推理时不访问原始上下文即可留存历史信息，记忆状态大小恒定，官方称在 128K 历史长度下较全上下文 KV cache 约节省 66 倍存储。以 SGLang 服务端与 Python 客户端形式部署，示例用两张 GPU 启动 Nano。仓库代码采用 PolyForm Noncommercial 许可，商业使用需另行联系作者。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ MemT-1.0 是记忆基础模型系列，含 Nano（基于 Qwen3.6-35B-A3B，激�
 
 ## 能力要点
 
-- 固定大小持久记忆状态，128K 历史下存储约减少 66 倍（对比全上下文 KV cache）
-- Nano/Flash 双规模：激活参数 3B / 17B，可训练记忆参数 451M / 3.61B
-- SGLang 服务端 + memt_sglang 客户端，支持记忆快照保存与恢复
-- 经验引导的 agent 编程框架：经验存入原生记忆经记忆注意力读取
+- 动态本地记忆 + 可训练超记忆的双组件架构，配 Mixture-of-Storage 扩展容量
+- 持久记忆状态大小恒定，128K 历史下较全上下文 KV cache 约省 66 倍存储
+- 支持会话记忆快照保存与恢复（save_state/restore）
+- 面向长程编码任务的经验引导 agent 框架
 
 ## 适用场景
 
-- 长历史多轮对话中保留记忆且不回看原始上下文
-- 长时程编程任务中复用过程性经验提升表现
-- 研究参数化记忆方法与记忆缩放规律
+- 需要跨会话保留长期记忆的对话应用
+- 长历史上下文下控制推理存储开销
+- 复用历史过程经验的长程编码 agent 任务
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`Agent 框架` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L12: **MemT-1.0 is a new generation of memory foundation models that makes persistent, dynamically evolving memory an in
-> L28: |MemT-1.0-Nano|Qwen3.6-35B-A3B|36B|3B|451M|10M|
-> L29: |MemT-1.0-Flash|DeepSeek-V4-Flash|288B|17B|3.61B|336M|
+> L15: **MemT-1.0 is a new generation of memory foundation models that makes persistent, dynamically evolving memory an in
+> L61: The examples below serve MemT-1.0-Nano with SGLang and use the `memt_sglang` Python client for conversations with n
+> L69: uv pip install '.[server]'
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "MemTensor/MemT-1.0 星数(近 24 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 225 --> 574
-    line [254, 333, 370, 387, 398, 416, 431, 455, 469, 480, 481, 485, 387, 528, 531, 533, 536, 537, 539, 541, 542, 543, 545, 545]
+    title "MemTensor/MemT-1.0 星数(近 23 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 310 --> 593
+    line [333, 370, 387, 398, 416, 431, 455, 469, 480, 481, 485, 387, 528, 531, 533, 536, 537, 539, 541, 542, 543, 545, 570]
 ```
 
-2026-10-22 254 → 2026-11-24 545（+291）
+2026-10-23 333 → 2026-11-25 570（+237）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0e0ffcbf322b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4d9929fc3320` · [字段定义](../../DATASET.md)*

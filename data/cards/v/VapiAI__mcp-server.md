@@ -46,12 +46,12 @@ Vapi 官方的 MCP 服务器，使 Claude Code、Claude Desktop 等 MCP 客户�
 ```mermaid
 xychart-beta
     title "VapiAI/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-22 58 → 2026-11-24 58（+0）
+2026-10-23 58 → 2026-11-25 58（+0）
 
 
 ---

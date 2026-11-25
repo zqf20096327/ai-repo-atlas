@@ -2,9 +2,9 @@
 
 ⭐ 613 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/thousandbrainsproject/tbp.monty) · [官网](https://thousandbrainsproject.readme.io) · 组织维护
 
-**基于千脑理论的感知运动学习框架，供研究者实验**
+**面向研究者的感觉运动学习框架 Monty（千脑理论实现）**
 
-Thousand Brains Project 开源的感知运动学习系统实现，遵循新皮层千脑理论原理，以发现 cortical columns 功能单元的 Vernon Mountcastle 命名为 Monty。项目最初在 Numenta 启动，现由独立非营利组织维护，部分由盖茨基金会资助。系统定期在一组感知运动基准任务上评估，实验配置存放于 src/tbp/monty/conf/experiment/ 目录，功能变更后自动重跑并更新结果。README 声明为早期 beta 版本，处于活跃开发中，非生产就绪代码。MIT 许可。
+Thousand Brains Project 的首个感觉运动学习系统实现，以 Python 包形式发布，基于新皮质皮层柱原理构建。项目提供完整文档与 API 文档，维护一组感觉运动任务基准实验：每次功能性代码变更后重跑实验并更新结果，实验配置位于 src/tbp/monty/conf/experiment/。README 声明当前为早期 beta 版本，功能可用但处于活跃开发中，预期频繁变更，非生产就绪代码。采用 MIT 许可证。
 
 ## 筛选速览
 
@@ -20,24 +20,23 @@ Thousand Brains Project 开源的感知运动学习系统实现，遵循新皮�
 
 ## 能力要点
 
-- 千脑理论感知运动学习系统的首个实现
-- 定期在基准实验上评估并更新结果
-- 实验配置以代码形式存放于仓库
-- 配套白皮书（arXiv:2412.18354）与论文可引用
+- 基于千脑理论的感觉运动学习系统首个实现
+- 内置感觉运动任务基准实验，随代码变更持续重跑并报告结果
+- 提供完整文档与 API 文档
+- MIT 许可证开源
 
 ## 适用场景
 
-- 研究感知运动学习与千脑理论的代码实现
-- 复现或扩展感知运动基准实验
-- 基于皮层柱模型开展学习与推理研究
+- 搭建和运行感觉运动学习基准实验
+- 研究基于皮层柱原理的学习与推理机制
+- 复现并追踪千脑系统的性能评测结果
 
 ## 场景标签
 
-`科研工具` `模型评测` · 领域:评测与运维
+`模型评测` `科研工具` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L3: *An open-source, sensorimotor learning system following the principles of the neocortex.*
 > L8: This repository contains the first implementation of a **sensorimotor learning system** from the **Thousand Brains P
 > L21: We regularly evaluate this system against a set of sensorimotor tasks, and report results in **benchmark experiment
 
@@ -45,14 +44,14 @@ Thousand Brains Project 开源的感知运动学习系统实现，遵循新皮�
 
 ```mermaid
 xychart-beta
-    title "thousandbrainsproject/tbp.monty 星数(近 14 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 600 --> 614
-    line [601, 602, 603, 604, 605, 602, 606, 607, 608, 610, 611, 612, 613, 613]
+    title "thousandbrainsproject/tbp.monty 星数(近 13 点)"
+    x-axis ["2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 601 --> 614
+    line [602, 603, 604, 605, 602, 606, 607, 608, 610, 611, 612, 613, 613]
 ```
 
-2026-10-22 601 → 2026-11-24 613（+12）
+2026-10-23 602 → 2026-11-25 613（+11）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d5d9c3604240` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `bdb06facb463` · [字段定义](../../DATASET.md)*

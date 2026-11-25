@@ -4,7 +4,7 @@
 
 **面向分布式 GPU 应用的 GPU 驱动通信栈**
 
-微软维护的 C++/CUDA 通信库，提供多层通信抽象：GPU kernel 内可调用的 device 函数接口（put/get/signal/flush/wait）、1-sided 0-copy 同步与异步原语、PortChannel 与 MemoryChannel 两类通道，以及对 NVLink/xGMI/InfiniBand 的统一抽象。面向做分布式训练与 LLM 推理（张量并行）性能优化的开发者，附 Python 绑定。README 给出与 NCCL 2.19.3 的 AllReduce 吞吐对比，ARK、FlashInfer、SGLang、TVM 等项目在使用。需从源码构建，依赖 CUDA/ROCm 环境。
+MSCCL++ 提供跨 GPU 的底层通信抽象库，支持 CUDA、C 和 Python 接口，面向分布式 AI 应用中的集合通信与点对点数据传输。核心机制包括：多层轻量抽象（可在 GPU kernel 内实现 AllReduce 等逻辑）、单边零拷贝的同步/异步原语（put/get/signal/flush/wait）、对 NVLink/xGMI 与 InfiniBand 的统一接口，以及 PortChannel/MemoryChannel 两类通道与可自定义的主机侧代理。README 未给出安装命令，需配合 CUDA/ROCm 构建运行。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- GPU kernel 内直接调用的 put/get/signal/flush/wait 通信原语
-- 1-sided 0-copy 通信，无需远端发出接收指令
-- NVLink/xGMI/InfiniBand 跨节点统一抽象
-- 提供 Python 绑定与可自定义 host 侧通信 proxy
+- 多层轻量抽象：在 GPU kernel 内实现集合通信逻辑，Python 侧构建后传入 CUDA kernel
+- 单边零拷贝同步/异步原语：put/get/signal/flush/wait，无需中间缓冲区
+- 统一抽象覆盖本地/远程 GPU 与 NVLink/xGMI/InfiniBand 链路
+- 提供 Python 绑定与可自定义的主机侧通信代理
 
 ## 适用场景
 
-- 优化 LLM 推理中张量并行的 AllReduce 通信
-- 在 CUDA kernel 内实现自定义集合通信算法
-- 重叠通信与计算、实现低延迟跨 GPU 数据传输
+- LLM 张量并行推理中的 AllReduce 通信优化
+- 为分布式 GPU 应用实现自定义集合通信算法
+- 在 GPU kernel 中实现通信与计算重叠
+- 异构互连（NVLink/InfiniBand）环境下的 GPU 间数据传输
 
 ## 场景标签
 
-`推理引擎` `模型训练` · 领域:训练与推理
+ · 领域:AI 基础设施/分布式通信
 
 ## 证据(README 行号)
 
 > L17: A GPU-driven communication stack for scalable AI applications.
 > L27: MSCCL++ redefines inter-GPU communication interfaces, thereby delivering a highly efficient and customizable commun
-> L45: The key motivation behind these results is scaling of inference for LLM models using tensor parallelism. LLM reques
+> L35: * **Light-weight and multi-layer abstractions.** MSCCL++ provides communication abstractions at lowest level close 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "microsoft/mscclpp 星数(近 13 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-24"]
-    y-axis "stars" 562 --> 577
-    line [563, 564, 565, 566, 567, 568, 569, 565, 570, 572, 575, 576, 576]
+    title "microsoft/mscclpp 星数(近 12 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-25"]
+    y-axis "stars" 563 --> 577
+    line [564, 565, 566, 567, 568, 569, 565, 570, 572, 575, 576, 576]
 ```
 
-2026-10-21 563 → 2026-11-24 576（+13）
+2026-10-22 564 → 2026-11-25 576（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0031d07982f8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b670e7d76920` · [字段定义](../../DATASET.md)*

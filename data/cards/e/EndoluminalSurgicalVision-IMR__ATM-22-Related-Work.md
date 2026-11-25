@@ -45,12 +45,12 @@ MICCAI 2022 Multi-site, Multi-domain Airway Tree Modeling (ATM'22) 挑战赛的�
 ```mermaid
 xychart-beta
     title "EndoluminalSurgicalVision-IMR/ATM-22-Related-Work 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
     y-axis "stars" 173 --> 176
-    line [174, 175, 175]
+    line [174, 175, 174]
 ```
 
-2026-10-22 174 → 2026-11-24 175（+1）
+2026-10-23 174 → 2026-11-25 174（+0）
 
 
 ---

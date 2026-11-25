@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucidrains/anymal-belief-state-encoder-decoder-pytorch 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 87 --> 90
-    line [88, 89, 89]
+    title "lucidrains/anymal-belief-state-encoder-decoder-pytorch 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 88 --> 90
+    line [89, 89]
 ```
 
-2026-10-22 88 → 2026-11-24 89（+1）
+2026-10-23 89 → 2026-11-25 89（+0）
 
 
 ---

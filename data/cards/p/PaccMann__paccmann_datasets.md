@@ -44,12 +44,12 @@ pytoda 是 PaccMann 项目下的 Python 包，为基于 PyTorch 的深度学习�
 ```mermaid
 xychart-beta
     title "PaccMann/paccmann_datasets 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-22 29 → 2026-11-24 29（+0）
+2026-10-23 29 → 2026-11-25 29（+0）
 
 
 ---

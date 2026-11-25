@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/eureka-ml-insights 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 185 --> 188
-    line [186, 187, 187]
+    title "microsoft/eureka-ml-insights 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 186 --> 188
+    line [187, 187]
 ```
 
-2026-10-22 186 → 2026-11-24 187（+1）
+2026-10-23 187 → 2026-11-25 187（+0）
 
 
 ---

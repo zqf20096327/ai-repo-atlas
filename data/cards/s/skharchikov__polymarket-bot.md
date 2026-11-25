@@ -45,13 +45,13 @@ Rust Cargo workspace 中的两个独立交易机器人：trading-bot 通过 XGBo
 
 ```mermaid
 xychart-beta
-    title "skharchikov/polymarket-bot 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-24"]
-    y-axis "stars" 36 --> 42
-    line [37, 38, 39, 40, 41, 41]
+    title "skharchikov/polymarket-bot 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-25"]
+    y-axis "stars" 37 --> 42
+    line [38, 39, 40, 41, 41]
 ```
 
-2026-10-22 37 → 2026-11-24 41（+4）
+2026-10-23 38 → 2026-11-25 41（+3）
 
 
 ---

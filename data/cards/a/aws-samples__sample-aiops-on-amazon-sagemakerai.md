@@ -45,12 +45,12 @@ aws-samples 维护的示例仓库，围绕 Amazon SageMakerAI 展开 GenAIOps/ML
 ```mermaid
 xychart-beta
     title "aws-samples/sample-aiops-on-amazon-sagemakerai 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-22 14 → 2026-11-24 14（+0）
+2026-10-23 14 → 2026-11-25 14（+0）
 
 
 ---

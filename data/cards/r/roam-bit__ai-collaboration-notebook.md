@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "roam-bit/ai-collaboration-notebook 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 126 --> 129
-    line [128, 127, 127]
+    title "roam-bit/ai-collaboration-notebook 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 126 --> 128
+    line [127, 127]
 ```
 
-2026-10-21 128 → 2026-11-24 127（-1）
+2026-10-23 127 → 2026-11-25 127（+0）
 
 
 ---

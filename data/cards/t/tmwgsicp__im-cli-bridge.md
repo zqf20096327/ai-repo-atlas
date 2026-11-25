@@ -45,13 +45,13 @@ Node.js 桥接器：连接微信、Telegram、Discord、飞书、Slack、企业�
 
 ```mermaid
 xychart-beta
-    title "tmwgsicp/im-cli-bridge 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    title "tmwgsicp/im-cli-bridge 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 22 --> 24
+    line [23, 23]
 ```
 
-2026-10-22 22 → 2026-11-24 23（+1）
+2026-10-23 23 → 2026-11-25 23（+0）
 
 
 ---

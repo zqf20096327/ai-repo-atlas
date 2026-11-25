@@ -45,12 +45,12 @@ CodeSentinel 是一个多智能体代码审查系统：将粘贴的代码或 Git
 ```mermaid
 xychart-beta
     title "prisha-singla-dev/multi-agent-code-review 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

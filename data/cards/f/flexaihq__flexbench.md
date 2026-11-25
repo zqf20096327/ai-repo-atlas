@@ -45,12 +45,12 @@ FlexBench 是一个文本语言模型基准测试框架，通过 Docker Compose 
 ```mermaid
 xychart-beta
     title "flexaihq/flexbench 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-21 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

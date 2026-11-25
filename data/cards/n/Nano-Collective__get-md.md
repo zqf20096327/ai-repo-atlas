@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nano-Collective/get-md 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 94 --> 97
-    line [95, 96, 96]
+    title "Nano-Collective/get-md 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 95 --> 97
+    line [96, 96]
 ```
 
-2026-10-21 95 → 2026-11-24 96（+1）
+2026-10-23 96 → 2026-11-25 96（+0）
 
 
 ---

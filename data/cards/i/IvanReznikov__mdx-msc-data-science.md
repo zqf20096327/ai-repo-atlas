@@ -41,13 +41,13 @@ Middlesex University Dubai 数据科学硕士课程（建模、回归与机器�
 
 ```mermaid
 xychart-beta
-    title "IvanReznikov/mdx-msc-data-science 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 83 --> 86
-    line [84, 85, 85]
+    title "IvanReznikov/mdx-msc-data-science 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 84 --> 86
+    line [85, 85]
 ```
 
-2026-10-22 84 → 2026-11-24 85（+1）
+2026-10-23 85 → 2026-11-25 85（+0）
 
 
 ---

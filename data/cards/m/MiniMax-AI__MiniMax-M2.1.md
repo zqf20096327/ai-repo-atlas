@@ -1,10 +1,10 @@
 # MiniMax-AI/MiniMax-M2.1
 
-⭐ 544 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.1) · [官网](https://www.minimax.io) · 组织维护 · 中文 README
+⭐ 544 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.1) · [官网](https://www.minimax.io) · 组织维护
 
-**面向开发与 agent 场景的开源大语言模型权重（M2.1）**
+**面向开发与 Agent 场景的开源大模型权重发布**
 
-MiniMax 公司发布的开源大语言模型 MiniMax-M2.1 的官方仓库，发布模型权重并面向编码、工具调用、指令遵循与长程规划等 agent 能力优化。README 提供三条使用途径：MiniMax 开放平台 API、基于该模型的产品 MiniMax Agent、以及 Hugging Face 上的开源权重本地部署。本地部署推荐 SGLang、vLLM、Transformers，另列 MLX-LM 与 KTransformers；给出推荐推理参数与默认系统提示。内容大量为基准测试结果（SWE-bench、VIBE、Toolathlon 等）与评测方法说明。许可为 Modified-MIT。
+MiniMax 发布的 MiniMax-M2.1 开源模型：权重托管在 Hugging Face，可通过 SGLang、vLLM、Transformers、MLX-LM、KTransformers 等推理框架本地部署，也可通过官方开放平台 API 调用。定位为编码、工具调用、指令遵循与长程规划任务生成模型；README 给出 SWE-bench、VIBE 等多组基准评测数字、推荐推理参数（temperature=1.0, top_p=0.95, top_k=40）与工具调用指南链接。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ MiniMax 公司发布的开源大语言模型 MiniMax-M2.1 的官方仓库，发�
 
 ## 能力要点
 
-- 模型权重开源，支持本地部署
-- 面向编码、工具调用、长程规划的 agent 能力优化
-- 推荐 SGLang/vLLM/Transformers 三种推理框架并附部署指南
-- 给出推荐推理参数与工具调用指南
+- 权重开源，支持本地部署与官方 API 两种获取方式
+- 推荐 SGLang/vLLM/Transformers/MLX-LM/KTransformers 作为推理框架
+- 给出推荐推理参数与默认系统提示词
+- 提供工具调用指南与多组编码/Agent 基准评测数据
 
 ## 适用场景
 
-- 通过 API 或本地部署将模型用于编码 agent 应用
-- 在多种推理框架上自行部署 MiniMax-M2.1
-- 对比基准结果评估模型在软件工程任务上的表现
+- 本地部署用于代码生成与多语言软件工程任务
+- 搭建需要多步工具调用的自动化 Agent 应用
+- 通过 API 集成到办公自动化工作流中
 
 ## 场景标签
 
- · 领域:大语言模型/开发与 agent
+`代码生成` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L42: Today, we are handing **MiniMax-M2.1** over to the open-source community. This release is more than just a paramete
-> L52: - The MiniMax-M2.1 model weights are now open-source, allowing for local deployment and use: https://huggingface.co
+> L44: M2.1 was built to shatter the stereotype that high-performance agents must remain behind closed doors. We have opti
+> L122: Download the model from HuggingFace repository: https://huggingface.co/MiniMaxAI/MiniMax-M2.1
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-M2.1 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-25"]
     y-axis "stars" 541 --> 546
     line [543, 544, 545, 543, 544, 542, 543, 544, 544]
 ```
 
-2026-10-22 543 → 2026-11-24 544（+1）
+2026-10-23 543 → 2026-11-25 544（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `72fbaef34796` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a592613cc4d1` · [字段定义](../../DATASET.md)*

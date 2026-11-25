@@ -1,10 +1,10 @@
 # ooples/token-optimizer-mcp
 
-⭐ 594 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ooples/token-optimizer-mcp) · [官网](https://www.npmjs.com/package/@ooples/token-optimizer-mcp) · 组织维护
+⭐ 594 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ooples/token-optimizer-mcp) · [官网](https://www.npmjs.com/package/@ooples/token-optimizer-mcp) · 个人维护
 
-**为 AI 编程代理压缩上下文并核算 token 账单的 MCP 服务器**
+**为 AI 编码代理减少 token 消耗的 hooks/代理/MCP 服务器**
 
-面向 16 种 CLI 编程客户端的 MCP 服务器：通过块压缩引擎与代理模式压缩请求载荷，按 provider 的缓存计价规则（缓存前缀 0.1x、重写 1.25x）优化 token 费用而非字节量；提供本地账本记录各 agent 的净节省与图谱开销，附可在两个独立测试框架上复现的基准表格（与 HeadRoom 的实现对比，含逐行数字与复现命令）。要求 Node.js 22+，遥测默认关闭，MIT 许可。README 大量篇幅为基准数据与计价方法的详细记录。
+由 hooks、代理和 MCP 服务器三部分组成的本地工具：在 Claude Code 等客户端的内置工具前拦截超大 Read/Grep 调用并改路到缓存化替代，在客户端与提供商之间压缩请求体并保持缓存前缀稳定，提供 smart_read/smart_grep/smart_edit 等工具，并以每项目知识图谱记录会话发现。README 给出 SWE-bench Verified 对照基准（默认模式 0.71× 成本、任务解决数不变）及与多个同类产品的对比数据，包含失败案例。支持 16 个客户端，MIT 许可，需 Node.js 22.18+。
 
 ## 筛选速览
 
@@ -15,44 +15,44 @@
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 按 provider 缓存计价规则优化 token 账单而非字节数
-- 基准结果可由 committed fixture 与脚本重新推导核验
-- 支持 16 种 CLI 客户端，本地账本按 agent 归因净节省
-- 块引擎与代理两种模式：标记可用既有 Read 工具还原，无需注入额外检索工具
+- hooks/proxy/MCP 服务器三种机制：拦截大读取、压缩请求体、提供 smart_read 等工具
+- 每项目知识图谱在会话间保留发现与决策，携带一条发现约 150 tokens
+- 四种模式 assist/enforce/advise/off，可用 TOKEN_OPTIMIZER_MODE 设置
+- 支持 16 个客户端，本地运行，遥测默认关闭
 
 ## 适用场景
 
-- 降低 Claude Code 等 CLI 编程代理的 token 费用
-- 在多 agent 环境中统一审计各客户端的压缩节省
-- 对比不同压缩策略在缓存前缀计价下的实际成本
+- 降低 Claude Code/Codex 等编码代理的 token 开销
+- 让订阅配额在单位 quota 内完成更多工作
+- 在会话间保留代理项目的已有发现避免重复推导
 
 ## 场景标签
 
- · 领域:LLM 基础设施/MCP
+`编码 Agent` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5:  Token Optimizer MCP
-> L16:  16 clients
-> L23:  One local ledger for optimizer tools, live-graph substitutions, every agent, and the graph's own cost.
+> L8:  Hooks, a proxy, and an MCP server for Claude Code, Codex, Copilot, Gemini and 12 more clients.
+> L193: 1. **Hooks** sit in front of the client's built-in tools. In `enforce` mode a large
+> L198: 3. **The MCP server** provides `smart_read`, `smart_grep`, `smart_edit`,
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ooples/token-optimizer-mcp 星数(近 20 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 552 --> 594
-    line [555, 558, 561, 560, 563, 562, 563, 564, 560, 576, 577, 578, 579, 582, 586, 587, 588, 590, 591, 591]
+    title "ooples/token-optimizer-mcp 星数(近 19 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 555 --> 597
+    line [558, 561, 560, 563, 562, 563, 564, 560, 576, 577, 578, 579, 582, 586, 587, 588, 590, 591, 594]
 ```
 
-2026-10-22 555 → 2026-11-24 591（+36）
+2026-10-23 558 → 2026-11-25 594（+36）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d96098087393` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4ddf79ab36b3` · [字段定义](../../DATASET.md)*

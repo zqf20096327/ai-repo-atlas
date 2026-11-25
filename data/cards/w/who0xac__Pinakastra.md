@@ -46,12 +46,12 @@ Go 编写的渗透测试框架，整合 subfinder、httpx、dnsx、Katana、GAU�
 ```mermaid
 xychart-beta
     title "who0xac/Pinakastra 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
-    y-axis "stars" 62 --> 64
-    line [63, 63]
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 61 --> 64
+    line [63, 62]
 ```
 
-2026-10-22 63 → 2026-11-24 63（+0）
+2026-10-23 63 → 2026-11-25 62（-1）
 
 
 ---

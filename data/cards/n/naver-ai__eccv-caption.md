@@ -46,12 +46,12 @@ NAVER AI Lab 发布的 Extended COCO Validation (ECCV) Caption 数据集及配�
 ```mermaid
 xychart-beta
     title "naver-ai/eccv-caption 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
     y-axis "stars" 55 --> 58
     line [56, 57, 57]
 ```
 
-2026-10-22 56 → 2026-11-24 57（+1）
+2026-10-23 56 → 2026-11-25 57（+1）
 
 
 ---

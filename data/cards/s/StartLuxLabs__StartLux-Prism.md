@@ -2,9 +2,9 @@
 
 ⭐ 560 · Python · 推送 2026-10-27 · [GitHub](https://github.com/StartLuxLabs/StartLux-Prism) · [官网](https://huggingface.co/startlux-models) · 组织维护
 
-**StartLux-Decision 决策模型的 GPU 推理服务器：直接运行 GGUF 文件**
+**面向 StartLux-Decision 模型的 NVIDIA GPU 确定性推理服务引擎**
 
-面向 StartLux-Decision v1 与 v1.1 AutoThink（4B/9B/27B）的专用推理引擎：直接读取官方发布的 GGUF 文件（Q8_0 以 int8/W8A8、Q4_K_M 以 W4A8 运行，无需转换），通过 /v1/systemone API 提供选项概率、none_probability、思考链与图像输入。支持 Ampere 至 Blackwell 的 NVIDIA GPU，提供数据并行与张量并行（2 或 4 卡），int8 GEMM 在 int32 中精确求和以实现跨 GPU 与批次的位级可复现输出。CUDA 内核在首次启动时编译。限制：仅支持该系列模型；服务器自身无鉴权；模型权重为 CC BY-NC 4.0 非商用许可。
+StartLux-Prism 是一个推理服务引擎，直接加载 StartLux-Decision v1/v1.1（4B/9B/27B）已发布的 GGUF 文件（Q8_0 按 int8 W8A8、Q4_K_M 按 W4A8 运行），经 /v1/systemone 端点输出每个选项的校准概率，支持单题/多题一次前向、AutoThink 思考模式、none_probability 及每请求最多 8 张图片。首次启动编译对应 GPU 的 CUDA 内核并测量 int8 激活范围存入缓存。要求 Linux、Python 3.12、CUDA 12/13 驱动与 g++。README 自述其服务器自身不带鉴权。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 直接运行发布的 GGUF 文件（Q8_0→int8、Q4_K_M→W4A8），无转换步骤
-- int8 结果跨 GPU 数量与批次位级一致
-- 数据并行与张量并行（--tp 2/4），4-bit 下 27B 可跑在单张 32GB RTX 5090
-- 单请求最多 8 张图像与 AutoThink 思考链 GPU 解码
+- 读取已发布 GGUF 文件直接服务，无需转换步骤
+- int8 GEMM 在 int32 中精确求和，README 声称任意批量/GPU 数下逐位一致
+- 支持数据并行与张量并行（--tp 2/4）
+- AutoThink 思考在 GPU 上解码，支持 gate 阈值与 think_budget 配置
 
 ## 适用场景
 
-- 在自有 NVIDIA GPU 上低延迟部署 StartLux-Decision 决策模型
-- 对工单分类、意图判定等结构化问题批量取概率输出
-- 多卡扩展决策服务的吞吐或降低延迟
+- 为客服工单等结构化决策问题提供分类概率服务
+- 对同一证据批量发送多个问题并在一次前向中获取答案
+- 在 H200/RTX 5090/A800 等显卡上部署 StartLux-Decision 模型服务
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `模型量化` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L3: **Fast, exact inference for StartLux-Decision models on NVIDIA
 > L91: python -m startlux_prism.server --gguf $G --model-dir $M --port 8092    # ready when it prints "Ready"
-> L211: The 27B on one H200 per server, against the official engine (Startlux-decide-inference on vLLM 0.31) on the same
+> L187: Endpoints: `POST /v1/systemone` (also `/v1/decisions`), `GET /v1/models`, `GET /health` and `GET /stats`.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "StartLuxLabs/StartLux-Prism 星数(近 21 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-24"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-25"]
     y-axis "stars" 5 --> 610
     line [55, 62, 70, 89, 117, 138, 153, 185, 203, 219, 62, 369, 411, 437, 459, 488, 510, 530, 553, 560, 560]
 ```
 
-2026-10-24 55 → 2026-11-24 560（+505）
+2026-10-24 55 → 2026-11-25 560（+505）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `ff74c31a4ed5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7b632114d56d` · [字段定义](../../DATASET.md)*

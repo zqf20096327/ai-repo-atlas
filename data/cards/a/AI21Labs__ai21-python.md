@@ -44,12 +44,12 @@ AI21 Labs 官方维护的 Python SDK，通过 AI21Client/AsyncAI21Client 调用 
 ```mermaid
 xychart-beta
     title "AI21Labs/ai21-python 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-22 70 → 2026-11-24 70（+0）
+2026-10-23 70 → 2026-11-25 70（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Toyota Research Institute 开发的数据集治理策略（DGP），用 Protobuf
 ```mermaid
 xychart-beta
     title "TRI-ML/dgp 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 109 --> 111
     line [110, 110]
 ```
 
-2026-10-22 110 → 2026-11-24 110（+0）
+2026-10-23 110 → 2026-11-25 110（+0）
 
 
 ---

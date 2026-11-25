@@ -2,9 +2,9 @@
 
 ⭐ 1,014 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/x-tweet-fetcher) · [官网](https://github.com/ythx-101/openclaw-qa) · 个人维护 · 中文 README
 
-**给 AI agent 用的 X/Twitter 内容抓取工具，免登录免 API key**
+**免登录免 API 给 AI agent 抓取推特内容的 CLI/库**
 
-面向 AI agent 的 X/Twitter 数据获取工具（Python/CLI）：支持抓取单条推文、回复、用户时间线、搜索、列表与 X 文章，无需登录或 API key。核心机制是三后端智能路由——FxTwitter（零依赖，单推）、Nitter（直接 HTTP，时间线/搜索）、浏览器驱动（Camofox 或 Playwright，覆盖列表与文章），后端间自动回退。所有后端归一化为统一的 Tweet/Reply/Profile/Article schema，错误以机器可读的 error_code 返回。可选 --ledger 将结果去重归档进 SQLite 并支持离线查询。需 Python 3.10+；时间线/搜索依赖自建或可用的 Nitter 实例。
+x-tweet-fetcher（xtf）是面向 AI agent 与开发者的 Python CLI 和库，抓取 X/Twitter 的推文、回复、时间线、搜索、Lists 与 X Articles，无需登录或 API key。机制：三个后端路由——FxTwitter（单条推文，零依赖）、Nitter（时间线/搜索，需自建实例）、浏览器驱动（Camofox/Playwright，X Articles），自动回退并输出统一 JSON，错误带机器可读 error_code。可用 --ledger 存入 SQLite 推文库去重并离线查询。仅只读，不在 PyPI，需从源码安装。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 三后端智能路由（FxTwitter/Nitter/浏览器）自动回退
-- 统一 JSON schema（Tweet/Reply/Profile/Article）
-- 机器可读错误码（rate_limited/all_backends_failed 等），便于 agent 分支处理
-- --ledger SQLite 去重归档与离线查询，兼容 OpenClaw tweets 表
+- FxTwitter/Nitter/浏览器三后端自动回退，输出统一 JSON schema
+- 错误携带机器可读 error_code，供 agent 按码分支处理
+- --ledger 将抓取结果去重存档 SQLite 并支持离线查询
+- 仓库附带 SKILL.md，供命令行类 agent 直接调用
 
 ## 适用场景
 
-- 让 AI agent 在对话中直接读取推文、时间线或 X 文章
-- 用 cron 增量监控提及（mentions）并归档到本地推文库
-- 无 X API 付费订阅的情况下做时间线/搜索数据采集
+- 让 agent 按需读取推文、时间线或 List，无需处理 X 凭据
+- 用统一 JSON 格式把推特内容喂给下游 prompt
+- 搭建小型本地推特存档库并离线检索
+- 以 cron 增量监控 mentions（退出码友好）
 
 ## 场景标签
 
@@ -37,22 +38,22 @@
 
 ## 证据(README 行号)
 
-> L24: **x-tweet-fetcher** solves this with **smart backend routing**: FxTwitter for single tweets (zero deps), Nitter for
-> L167: - **OpenClaw** — AI agent framework this tool grew up in
-> L3: **Fetch X/Twitter tweets, replies, timelines, lists, and articles — no login, no API keys.**
+> L13: **x-tweet-fetcher (`xtf`) is a Python CLI and library that lets AI agents and developers fetch X/Twitter tweets, re
+> L17: 免登录、免 API key 抓取 X（推特）的推文、回复、时间线、搜索、Lists 和长文（X Articles）。适合给 AI agent（OpenClaw、Claude Code 等能跑命令行的 agent）当“读推特”的工具
+> L82: **Errors are machine-readable.** Every failure carries `error` (human message) plus `error_code` — one of `invalid_
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ythx-101/x-tweet-fetcher 星数(近 16 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 987 --> 1015
-    line [989, 991, 992, 993, 994, 996, 998, 992, 1001, 1003, 1004, 1006, 1010, 1012, 1013, 1013]
+    title "ythx-101/x-tweet-fetcher 星数(近 15 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 989 --> 1016
+    line [991, 992, 993, 994, 996, 998, 992, 1001, 1003, 1004, 1006, 1010, 1012, 1013, 1014]
 ```
 
-2026-10-22 989 → 2026-11-24 1,013（+24）
+2026-10-23 991 → 2026-11-25 1,014（+23）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `acaefddf9a92` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `ee1e212608d0` · [字段定义](../../DATASET.md)*

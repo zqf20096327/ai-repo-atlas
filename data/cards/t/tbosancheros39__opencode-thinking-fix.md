@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tbosancheros39/opencode-thinking-fix 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    title "tbosancheros39/opencode-thinking-fix 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15, 15]
 ```
 
-2026-10-21 12 → 2026-11-24 15（+3）
+2026-10-23 13 → 2026-11-25 15（+2）
 
 
 ---

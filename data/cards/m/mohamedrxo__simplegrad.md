@@ -43,12 +43,12 @@ SimpleGrade 是受 PyTorch 和 Tinygrad 启发的轻量级 Python 库，基于 N
 ```mermaid
 xychart-beta
     title "mohamedrxo/simplegrad 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-22 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

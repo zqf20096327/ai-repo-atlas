@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/frontiersquad-copilot 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-11-23 52 → 2026-11-24 52（+0）
+2026-11-23 52 → 2026-11-25 53（+1）
 
 
 ---

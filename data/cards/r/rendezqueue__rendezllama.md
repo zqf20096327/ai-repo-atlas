@@ -45,12 +45,12 @@ Rendezllama 是一个运行于 llama.cpp 之上的文本界面命令行工具，
 ```mermaid
 xychart-beta
     title "rendezqueue/rendezllama 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-22 12 → 2026-11-24 12（+0）
+2026-10-23 12 → 2026-11-25 12（+0）
 
 
 ---

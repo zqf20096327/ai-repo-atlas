@@ -45,12 +45,12 @@ TrUE-Net 是用于脑部 MR 图像白质高信号（WMH）分割的 PyTorch 深�
 ```mermaid
 xychart-beta
     title "v-sundaresan/truenet 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-22 21 → 2026-11-24 21（+0）
+2026-10-23 21 → 2026-11-25 21（+0）
 
 
 ---

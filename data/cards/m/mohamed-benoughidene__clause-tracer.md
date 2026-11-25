@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mohamed-benoughidene/clause-tracer 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-24"]
+    x-axis ["2026-11-08", "2026-11-25"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-11-08 12 → 2026-11-24 12（+0）
+2026-11-08 12 → 2026-11-25 12（+0）
 
 
 ---

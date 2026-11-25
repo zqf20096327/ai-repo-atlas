@@ -46,12 +46,12 @@ VPOD 汇编了来自 120+ 篇文献的 1714 条视蛋白基因型及对应最大
 ```mermaid
 xychart-beta
     title "VisualPhysiologyDB/visual-physiology-opsin-db 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

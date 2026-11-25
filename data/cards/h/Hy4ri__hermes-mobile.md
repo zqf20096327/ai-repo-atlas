@@ -2,9 +2,9 @@
 
 ⭐ 491 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Hy4ri/hermes-mobile) · [官网](https://hy4ri.github.io/hermes-mobile/) · 个人维护
 
-**在 Android 手机上控制 Hermes AI agent 的原生客户端**
+**Hermes Agent 的 Android 原生客户端：手机端对话与管理**
 
-原生 Android 应用（Kotlin/Jetpack Compose），通过 REST API 与 WebSocket 连接自托管的 Hermes dashboard，实现手机端与 agent 对话（本地 Room 存储历史、通知内联回复）、管理 cron 任务、技能、插件、模型与供应商选择、流式查看日志、Kanban 任务与用量分析等。需先在可访问的主机上运行 Hermes dashboard，支持 Token、Basic auth 与 mTLS 客户端证书认证，提供可选应用锁。经 F-Droid、Obtainium 或 GitHub Release APK 分发，minSdk 26。README 大量篇幅描述 APK 校验、provenance 验证与隐私边界细节。
+面向 Hermes Agent 用户的原生 Android 客户端，基于 Kotlin 与 Jetpack Compose 构建。通过 REST API 与 WebSocket 网关连接运行在主机上的 Hermes dashboard，可在手机上与 agent 聊天、管理 cron 任务、技能、插件、模型/提供商选择、查看实时日志、Kanban 任务板、会话历史与用量分析。聊天历史本地存储于 Room，通知支持内联回复。需先在可达主机上运行 dashboard 才能使用，提供 F-Droid、Obtainium 与 GitHub Release APK 三种安装途径。
 
 ## 筛选速览
 
@@ -15,43 +15,44 @@
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 通过 REST + WebSocket 连接自托管 Hermes dashboard，手机端对话与管理 agent
-- 管理 cron 任务、技能、插件、模型/供应商选择与实时日志
-- 支持 Token、Basic auth 与 mTLS 客户端证书三种认证，可选应用锁
-- 发布包含 SHA256SUMS 与 GitHub build provenance 校验
+- 经 REST API 与 WebSocket 网关连接 Hermes dashboard
+- 聊天历史本地存储（Room），通知支持内联回复
+- 管理技能、插件、模型选择、cron 任务与实时日志
+- 七种主题预设及 Material You 动态配色
 
 ## 适用场景
 
-- 在手机上随时与自托管的 Hermes agent 对话
-- 远程管理 agent 的定时任务、技能与模型配置
-- 查看 agent 运行日志与用量分析
+- 在手机上随时与自己的 Hermes Agent 对话
+- 远程管理 agent 的 cron 任务、技能与模型配置
+- 查看 agent 运行日志、MCP 服务器与连接状态
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L23: **Hermes Mobile** is a native Android app for controlling your Hermes Agent from your phone. Chat with your agent, 
-> L25: It connects to the Hermes dashboard (REST API and WebSocket gateway), so you need a running dashboard that your pho
+> L2:  Native Android companion app for your Hermes AI agent.
+> L23: Hermes Mobile is a native Android app for your Hermes Agent. Chat with your agent and manage cron jobs, skills, mod
+> L25: The app connects to the Hermes dashboard over its REST API and WebSocket gateway, so the dashboard must run on a ho
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Hy4ri/hermes-mobile 星数(近 28 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 299 --> 504
-    line [316, 321, 323, 329, 338, 342, 347, 348, 352, 357, 366, 375, 329, 423, 435, 445, 451, 455, 456, 463, 469, 472, 476, 482, 481, 482, 487, 487]
+    title "Hy4ri/hermes-mobile 星数(近 27 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 304 --> 508
+    line [321, 323, 329, 338, 342, 347, 348, 352, 357, 366, 375, 329, 423, 435, 445, 451, 455, 456, 463, 469, 472, 476, 482, 481, 482, 487, 491]
 ```
 
-2026-10-22 316 → 2026-11-24 487（+171）
+2026-10-23 321 → 2026-11-25 491（+170）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `732d7e37ba55` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ad7503c18761` · [字段定义](../../DATASET.md)*

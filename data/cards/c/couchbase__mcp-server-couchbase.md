@@ -45,12 +45,12 @@ Couchbase 官方维护的 Model Context Protocol 服务器，把 Claude Desktop�
 ```mermaid
 xychart-beta
     title "couchbase/mcp-server-couchbase 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-21 34 → 2026-11-24 34（+0）
+2026-10-23 34 → 2026-11-25 34（+0）
 
 
 ---

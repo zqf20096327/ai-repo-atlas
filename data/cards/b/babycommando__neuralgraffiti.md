@@ -46,12 +46,12 @@ Neural Graffiti 是一个实验性 PyTorch 层，将液态神经网络思想与�
 ```mermaid
 xychart-beta
     title "babycommando/neuralgraffiti 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 273 --> 275
     line [274, 274]
 ```
 
-2026-10-22 274 → 2026-11-24 274（+0）
+2026-10-23 274 → 2026-11-25 274（+0）
 
 
 ---

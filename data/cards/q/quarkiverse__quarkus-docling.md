@@ -43,12 +43,12 @@ Quarkiverse 维护的 Quarkus 扩展，封装 Docling Java 项目，通过 REST 
 ```mermaid
 xychart-beta
     title "quarkiverse/quarkus-docling 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-22 22 → 2026-11-24 22（+0）
+2026-10-23 22 → 2026-11-25 22（+0）
 
 
 ---

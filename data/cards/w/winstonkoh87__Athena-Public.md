@@ -2,9 +2,9 @@
 
 ⭐ 652 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/winstonkoh87/Athena-Public) · [官网](https://winstonkoh87.com/athena/) · 个人维护
 
-**本地优先的 AI agent 记忆/决策/治理框架，跨 IDE 便携**
+**为 IDE 中的 AI agent 提供本地持久记忆与治理层**
 
-面向开发者的 AI agent 状态管理层：把持久记忆、问题框架与量化决策引擎放在用户本地，以 Markdown 与 JSONL 文件存储，可 git 版本化并挂载到 Claude Code、Cursor、Gemini CLI 等多种 IDE。核心组件包括两个 MCP 服务器（混合 RAG 检索与 DuckDB SQL 分析）、VOI 停止规则与 R1–R13 承诺门的框架账本、EEV/Kelly/Ruin 等决策评估器（输出 SHA-256 回执），以及拦截破坏性命令与密钥外泄的治理钩子。README 用状态表区分 code-enforced 与 agent-discretion 机制，个性化效果仅有 N=1 证据。
+Athena 是一个运行于 Claude Code、Antigravity、Cursor、Gemini CLI、VS Code 等 IDE AI 面板的本地优先工具：将 agent 的记忆、问题框架与决策层以 Markdown/JSONL/SQLite 形式存储在用户磁盘并可 git 版本化。提供 /start、/end 生命周期命令恢复会话上下文，SDK 内含两个 MCP 服务器、混合 RAG 检索（BM25 FTS5+pgvector+RRF 融合+ONNX 重排）、量化决策引擎与 PreToolUse 治理钩子。提供 PyPI 安装及免代码三文件方案供纯网页聊天使用；README 以 Epistemic Status 表标注各机制实现程度，部分能力为 partial。
 
 ## 筛选速览
 
@@ -13,46 +13,46 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 记忆以 Markdown/JSONL 本地存储，可跨模型与 IDE 迁移
-- 两个 MCP 服务器：混合 RAG（BM25+pgvector+cross-encoder）与 DuckDB 本地 SQL
-- 量化决策引擎输出 SHA-256 回执（EEV、Kelly、Ruin、MCDA 等）
-- 治理钩子拦截 14/16 破坏性命令与密钥外泄
+- 本地 Markdown/JSONL 记忆跨 Claude Code/Antigravity/Cursor/VS Code 便携
+- 5 通道 RRF 混合检索与 ONNX mini-batch 重排（local/auto/always 路由）
+- MCDA 决策筛选、1/3 Kelly、蒙特卡洛与 SHA-256 决策收据
+- fail-closed PreToolUse 钩子拦截破坏性命令、secrets 与污染记忆写入
 
 ## 适用场景
 
-- 在多个 IDE/模型间保留 AI agent 的持久记忆与个性化状态
-- 为高风险决策加量化评估与可审计回执
-- 对 agent 运行做权限门控与破坏性命令拦截
+- 在 IDE 的 AI 编码助手中跨会话延续项目记忆与不变量
+- 对高风险决策做量化筛选与红蓝对抗推演
+- 将 agent 状态留在本地磁盘并可在不同模型间切换
 
 ## 场景标签
 
-`Agent 记忆` `数据分析` · 领域:Agent 开发
+`RAG` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: **A local-first memory, decision engine, and governance harness for AI agents — portable across IDEs.**
-> L58: Athena is not just a prompt pack — it ships executable Python engines and two Model Context Protocol (MCP) servers 
-> L62: |**Hybrid RAG & Context Gate**|`mcp_server.py` (`smart_search`, `context_gate`)|Document-level RRF fusion across BM
+> L3: **Local-first memory, decision engine, and governance harness for AI agents — portable across any IDE.**
+> L34: Athena moves the **memory, problem-framing, and decision layer to your machine**: plain Markdown and JSONL ledgers 
+> L74: ├── src/athena/          # Core runtime (Memory, Intelligence/GTO, Governance, Lifecycle, Tools)
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "winstonkoh87/Athena-Public 星数(近 13 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 616 --> 652
-    line [619, 620, 621, 620, 619, 620, 622, 624, 627, 630, 648, 649, 649]
+    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 616 --> 655
+    line [619, 620, 621, 620, 619, 620, 622, 624, 627, 630, 648, 649, 652]
 ```
 
-2026-10-22 619 → 2026-11-24 649（+30）
+2026-10-23 619 → 2026-11-25 652（+33）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ccd828504718` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2824f478c42e` · [字段定义](../../DATASET.md)*

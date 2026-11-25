@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/finetuning-regression-tester 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-24"]
+    x-axis ["2026-11-11", "2026-11-25"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-11 4 → 2026-11-24 4（+0）
+2026-11-11 4 → 2026-11-25 4（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 536 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rssh-org/rssh) · [官网](https://rssh.ofcoder.com/) · 组织维护 · 中文 README
 
-**跨平台 SSH 客户端：AI 读取终端并提议命令，覆盖桌面/移动/IDE**
+**多平台 SSH 客户端：AI 读终端提议命令、块式输出、动态发现容器**
 
-基于 Rust/Tauri 的多平台 SSH/Telnet/串口客户端，提供 macOS、Windows、Linux、Android、iOS 版本及 JetBrains 插件与 CLI，共享同一数据目录。核心机制包括：AI 读取终端输入输出并提议命令（用户批准后执行）、彩色命令块本地渲染、通过本地 CLI 上下文动态发现 Docker/K8S 容器与 Pod、密钥存于系统钥匙串且配置加密同步到用户自有 GitHub 仓库或 WebDAV。另支持 SFTP、端口转发、会话录制（asciicast v2）、多会话广播等。
+基于 Rust/Tauri 的跨平台 SSH 客户端，覆盖 macOS/Windows/Linux/Android/iOS/HarmonyOS 及 JetBrains 插件，共享同一数据存储。核心功能包括 SSH/Telnet/串口连接、SFTP、端口转发、会话录制、颜色标记命令块（本地渲染）、Docker/K8s 容器动态发现。AI 部分通过读取终端输入输出提议命令，用户批准后执行，服务器端无需安装任何组件；并经 MCP 让本地 agent（如 Codex、Claude Code）复用已连接的终端会话。密钥存于系统 keychain，连接配置加密同步至用户自有 GitHub 仓库。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- AI 读取终端输入输出并提议命令，执行前需用户批准
-- 通过本地 CLI 上下文动态发现 Docker/K8S 容器与 Pod 并打开 exec 终端
-- SSH/Telnet/串口/SFTP/端口转发/会话录制（asciicast v2）多协议支持
-- 密钥存 OS 钥匙串、ChaCha20-Poly1305 加密同步到自有 GitHub 仓库或 WebDAV
+- AI 读取终端输入/输出并提议命令，执行前需用户批准
+- MCP 接口使 Codex/Claude Code 等本地 agent 可使用已连接的 RSSH 终端
+- Docker/K8s 容器与 Pod 动态发现，打开临时 exec 终端
+- 桌面、移动、JetBrains、CLI 共享数据存储，密钥留在本地 OS keychain
 
 ## 适用场景
 
-- 在本地开发/测试环境直接连到动态变化的容器与 Pod，而非记静态 IP
-- 让 AI 读取终端现场并给出命令建议，人工批准后执行
-- 在桌面、手机与 JetBrains IDE 间共享主机、密钥与配置
+- 运维终端里让 AI 读取报错并提议排查命令
+- 在手机/平板上通过虚拟键栏管理服务器连接
+- 本地开发环境动态发现并进入 Docker 容器终端
+- 在 JetBrains IDE 内嵌完整 SSH 客户端窗口
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+ · 领域:开发运维工具/终端
 
 ## 证据(README 行号)
 
-> L19:  RSSH — ask a question, the AI proposes commands, you approve before they run
-> L28: Not another chat box. Nothing to install on your servers — it works like a human operator, reading the terminal's i
-> L49: - **SSH** -- password, private key, SSH agent/Pageant, keyboard-interactive, jump host (ProxyJump)
+> L5: **A genuinely different SSH client — built to fix the pain points everyone else ignored.**
+> L9: > RSSH goes further: commands become navigable blocks, containers are discovered live, and the AI reads the terminal
+> L27: ### 🤖 AI triage
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "rssh-org/rssh 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 508 --> 534
-    line [522, 523, 518, 520, 519, 518, 510, 512, 519, 518, 523, 528, 529, 532, 532]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 508 --> 538
+    line [522, 523, 518, 520, 519, 518, 510, 512, 519, 518, 523, 528, 529, 532, 536]
 ```
 
-2026-10-22 522 → 2026-11-24 532（+10）
+2026-10-23 522 → 2026-11-25 536（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `74ce5985c760` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a3e32fedb4e8` · [字段定义](../../DATASET.md)*

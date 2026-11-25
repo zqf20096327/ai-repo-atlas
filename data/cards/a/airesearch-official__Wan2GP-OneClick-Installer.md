@@ -45,12 +45,12 @@ Windows 平台的 .bat 安装脚本，用于自动化 Wan2GP AI 平台的完整�
 ```mermaid
 xychart-beta
     title "airesearch-official/Wan2GP-OneClick-Installer 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 21 --> 24
     line [23, 22, 22]
 ```
 
-2026-10-22 23 → 2026-11-24 22（-1）
+2026-10-23 23 → 2026-11-25 22（-1）
 
 
 ---

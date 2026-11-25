@@ -2,9 +2,9 @@
 
 ⭐ 872 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/miuuyy/Octopus-SI-OS) · 个人维护
 
-**面向 agent 持久工作的自演进操作系统（研究预览）**
+**给长期自主运行 agent 的自演化操作系统（研究预览）**
 
-基于操作系统原则的 agent 执行架构：目标、权限、运行、工具、上下文与外部事件以持久记录而非模型内状态存在；小型 Rust 内核生成授权、裁决 artifact 跨界移动并写入 append-only 账本。macOS 客户端提供 Home、Projects、Agents、Tasks 界面，支持文本与语音交互；首个移植的 provider 为 Codex CLI，也可配置 API-key、OpenAI 兼容、Claude CLI、Gemini 或 Vertex。含终端客户端与两个独立示例工具。声明为研究预览，非 AGI 或自主自我改进的证明。
+一个基于操作系统原理构建的 agent 持久化工作平台：目标、权限、运行、工具、上下文以持久记录形式存在，Rust 内核负责授权生成、工件移动与追加式账本记录。用户通过 macOS 客户端或终端客户端以文本/语音对话，创建 Projects、Agents、Tasks 并授予文件、浏览器、桌面应用等工具权限。默认模型为 Gemini 4 Neon（经 Antigravity），初始登录依赖 ChatGPT 账号。项目自述为研究预览，面向长时程开放自主任务，非标准基准或日常编码用途。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- Rust 内核以 grant 与 append-only ledger 在模型外执行权限与记录
-- agent 可在策略内创建目标、新增工具、组织 worker，变更跨任务持久
-- worker 为两个 JSON 文件的非程序描述，可按需扩展运行
-- 提供 macOS 桌面客户端与共享状态的终端客户端
+- Rust 内核 + append-only movement ledger 记录边界跨越（含拒绝）
+- 自演化机制：agent 可创建/修订目标、新增接口与工具并跨任务持久化
+- macOS 客户端支持语音通话、Projects/Agents/Tasks 管理与终端客户端共享状态
+- 运行时 provider-agnostic，接口以 JSON 文件夹方式声明式接入
 
 ## 适用场景
 
-- 让 agent 在权限受控的沙箱环境中执行长时任务
-- 以文件与 JSON 文件夹方式扩展 provider、通道、工具
-- 在 macOS 上以文本或语音与多项目 agent 系统交互
+- 让 agent 在数小时到数天的长时程任务中自主组织目标与触发器
+- 以显式授权和沙箱方式管理 agent 对文件/浏览器/桌面应用的访问
+- 为 agent 自行编写驱动和接口并注册进系统做实验
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`Agent 框架` `GUI 自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L16: Octopus is an operating system for persistent agent work. Goals, permissions,
-> L24: applications, and connected services. Codex CLI is the first provider ported
-> L135: The kernel never pushes anything and never decodes a payload. Each interface is a live process reading its own mov
+> L41: > Octopus gives you nothing that a plain agent loop like Codex CLI does not
+> L47: > Active experiments focus there while the runtime stays provider-agnostic, with
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "miuuyy/Octopus-SI-OS 星数(近 26 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 0 --> 908
-    line [13, 15, 16, 316, 537, 581, 603, 613, 623, 626, 629, 16, 734, 755, 757, 760, 761, 765, 771, 773, 775, 776, 779, 777, 827, 827]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 0 --> 957
+    line [13, 15, 16, 316, 537, 581, 603, 613, 623, 626, 629, 16, 734, 755, 757, 760, 761, 765, 771, 773, 775, 776, 779, 777, 827, 872]
 ```
 
-2026-10-22 13 → 2026-11-24 827（+814）
+2026-10-23 13 → 2026-11-25 872（+859）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ef7cec998965` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `215f5530d377` · [字段定义](../../DATASET.md)*

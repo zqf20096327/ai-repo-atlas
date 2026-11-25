@@ -46,12 +46,12 @@ CAREamics 团队为复现 MicroSplit 论文（Nature Methods，荧光显微数�
 ```mermaid
 xychart-beta
     title "CAREamics/MicroSplit-reproducibility 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

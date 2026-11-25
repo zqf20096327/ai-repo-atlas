@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "uscensusbureau/us-census-bureau-data-api-mcp 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 102 --> 108
-    line [103, 105, 106, 107, 107]
+    title "uscensusbureau/us-census-bureau-data-api-mcp 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107, 107]
 ```
 
-2026-10-22 103 → 2026-11-24 107（+4）
+2026-10-23 105 → 2026-11-25 107（+2）
 
 
 ---

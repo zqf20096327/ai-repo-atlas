@@ -2,9 +2,9 @@
 
 ⭐ 523 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tony1223/better-agent-terminal) · 个人维护 · 中文 README
 
-**多工作区终端聚合器，内置 Claude Code/Codex agent 面板**
+**给开发者的多工作区终端聚合器，内置 Claude Code/Codex agent 面板**
 
-基于 Tauri（Rust host + React 渲染）的桌面终端聚合应用：按项目目录组织多工作区，每个工作区可挂多个持久终端（xterm.js），并内置文件浏览器、git 提交/PR 查看器、代码片段管理器（SQLite）、Procfile worker 面板与远程访问。AI 部分通过 Claude Code SDK 直接在应用内运行 agent，支持权限分级、会话恢复/fork、token 与费用统计、多账号切换、缓存成本提示；另可选用 Codex app-server 作为备选 agent 后端，以及可选的 cx tree-sitter 语义代码导航。提供桌面安装包与 iOS/Android 移动端（v3.1.3+）。终端功能不依赖 agent，agent 为内置面板。
+基于 Tauri 的桌面终端聚合应用：在单窗口内按项目文件夹组织多个工作区与多个持久终端（xterm.js，支持 Unicode/CJK），并提供文件浏览器、Git 提交历史与 diff 查看、PR/Issue 面板、代码片段管理、Markdown 预览和 Procfile 多进程面板。AI 部分内置 Claude Code（SDK 运行，含权限模式、会话恢复/分叉、上下文自动压缩、费用与限流状态栏）与可选的 Codex Agent 后端，支持 git worktree 隔离运行 agent。3.0 起移除 Electron，改用 Rust/Tauri 宿主加 React 渲染层。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 多工作区终端聚合，每工作区绑定目录并支持独立环境变量
-- 内置 Claude Code SDK agent 面板：权限分级、会话恢复/fork、子 agent 跟踪
-- 状态栏 15 项指标：token、费用、5h/7d 限额用量、缓存效率等
-- 可选 Codex agent 后端与 cx tree-sitter 语义代码导航
+- 内置 Claude Code（SDK 方式），支持权限模式、会话恢复/分叉与自动压缩
+- Codex Agent 可选后端，支持多模型切换与沙箱/审批策略
+- agent 可在隔离 git worktree 中运行，避免改动主工作树
+- 状态栏显示 token、费用、缓存与 5h/7d API 限流用量
 
 ## 适用场景
 
-- 在单窗口同时管理多个项目的终端与 AI agent
-- 以权限分级与 worktree 隔离方式运行 Claude Code 做代码任务
-- 跟踪 agent 的 token 用量、费用与 API 限额
+- 在一个窗口里管理多个项目的终端、文件与 Git
+- 在终端应用内直接运行 Claude Code 处理编码任务
+- 用隔离 worktree 让 agent 安全地执行改动
+- 监控 agent 会话的 token 消耗与 API 限流额度
 
 ## 场景标签
 
- · 领域:开发者工具/终端
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
+> L10: **A Tauri-powered terminal aggregator with multi-workspace support and built-in AI agent integration**
 > L12: Manage multiple project terminals in one window, with built-in Claude Code and Codex agent panels, file browser, gi
-> L48: - **Multi-Workspace** — Organize terminals by project folders; each workspace binds to a directory
-> L60: - **Agent presets** — Pre-configured terminal roles: Claude Code, Claude Code (worktree), Codex Agent, or plain ter
+> L72: - **Built-in Claude Code** via SDK — Runs the agent directly inside the app; no separate terminal needed
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "tony1223/better-agent-terminal 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-25"]
     y-axis "stars" 518 --> 524
     line [519, 521, 522, 523, 523]
 ```
 
-2026-10-22 519 → 2026-11-24 523（+4）
+2026-10-23 519 → 2026-11-25 523（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `2b5126f505c7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `a980671aec90` · [字段定义](../../DATASET.md)*

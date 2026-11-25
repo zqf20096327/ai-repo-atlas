@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ankushthakur2007/miyami_websearch_tool 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 47 --> 51
-    line [48, 50, 50]
+    title "ankushthakur2007/miyami_websearch_tool 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 49 --> 51
+    line [50, 50]
 ```
 
-2026-10-21 48 → 2026-11-24 50（+2）
+2026-10-23 50 → 2026-11-25 50（+0）
 
 
 ---

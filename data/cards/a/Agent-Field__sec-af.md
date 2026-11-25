@@ -45,13 +45,13 @@ SEC-AF 是构建在 AgentField 编排框架上的 AI-native 静态代码安全�
 
 ```mermaid
 xychart-beta
-    title "Agent-Field/sec-af 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 199 --> 202
-    line [201, 200, 200]
+    title "Agent-Field/sec-af 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 199 --> 201
+    line [200, 200]
 ```
 
-2026-10-21 201 → 2026-11-24 200（-1）
+2026-10-23 200 → 2026-11-25 200（+0）
 
 
 ---

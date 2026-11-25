@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/dsl-copilot 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-24"]
-    y-axis "stars" 90 --> 93
-    line [91, 92, 92]
+    title "microsoft/dsl-copilot 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-25"]
+    y-axis "stars" 91 --> 93
+    line [92, 92]
 ```
 
-2026-10-21 91 → 2026-11-24 92（+1）
+2026-10-22 92 → 2026-11-25 92（+0）
 
 
 ---

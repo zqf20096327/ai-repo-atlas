@@ -45,12 +45,12 @@ eWaSR 的官方 PyTorch 实现：WaSR 的嵌入式计算变体，基于轻量 tr
 ```mermaid
 xychart-beta
     title "tersekmatija/eWaSR 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-22 39 → 2026-11-24 39（+0）
+2026-10-23 39 → 2026-11-25 39（+0）
 
 
 ---

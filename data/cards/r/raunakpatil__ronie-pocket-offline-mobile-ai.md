@@ -46,12 +46,12 @@ Android 应用，将 Gemma 4 等本地大模型与 SD-Turbo 图像生成模型�
 ```mermaid
 xychart-beta
     title "raunakpatil/ronie-pocket-offline-mobile-ai 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-24"]
+    x-axis ["2026-11-13", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-24 3（+0）
+2026-11-13 3 → 2026-11-25 3（+0）
 
 
 ---

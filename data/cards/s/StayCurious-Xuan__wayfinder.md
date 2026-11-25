@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StayCurious-Xuan/wayfinder 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 90 --> 100
-    line [99, 91, 92, 92]
+    title "StayCurious-Xuan/wayfinder 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 90 --> 93
+    line [91, 92, 92]
 ```
 
-2026-10-22 99 → 2026-11-24 92（-7）
+2026-10-23 91 → 2026-11-25 92（+1）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ALLENYEUNG365/AI-GO-Community-English-Learning 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 46 --> 51
-    line [50, 47, 47]
+    title "ALLENYEUNG365/AI-GO-Community-English-Learning 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 46 --> 48
+    line [47, 47]
 ```
 
-2026-10-22 50 → 2026-11-24 47（-3）
+2026-10-23 47 → 2026-11-25 47（+0）
 
 
 ---

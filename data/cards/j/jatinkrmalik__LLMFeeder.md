@@ -2,9 +2,9 @@
 
 ⭐ 489 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jatinkrmalik/LLMFeeder) · [官网](https://llmfeeder.fyi) · 个人维护
 
-**一键把网页转成 Markdown 供 LLM 使用的浏览器扩展**
+**一键把网页转为 Markdown 供 LLM 使用**
 
-Chrome/Firefox 浏览器扩展，用 Readability 抽取网页主内容、Turndown 转为 Markdown，一键复制到剪贴板或下载 .md 文件，供粘贴给 LLM 作为上下文。支持多标签批量转换（合并/ZIP）、聊天页面懒加载自动滚动、实时 token 计数（GPT-4/Claude tokenizer）、链接/图片/元数据格式可配置。纯客户端运行，无后端、无遥测，权限最小化。可从应用商店、发行包 zip 或源码构建安装。
+浏览器扩展（Chrome/Firefox），将网页内容提取并转换为干净的 Markdown，复制到剪贴板或下载为 .md 文件，用于粘贴给 LLM 作为上下文。基于 Readability 提取主内容、Turndown 做 HTML→Markdown 转换，全部在浏览器本地处理、无后端与遥测。支持多标签批量转换、懒加载自动滚动、token 计数、快捷键与右键菜单；可从商店安装、直接下载 zip 或源码构建。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Chrome/Firefox 浏览器扩展，用 Readability 抽取网页主内容、Turndow
 
 ## 能力要点
 
-- Readability+Turndown 抽取主内容并转为 Markdown，一键复制/下载
-- 多标签批量转换：合并单文件或打包 ZIP
-- 实时 token 计数与可配置上下文上限（4K-32K）
-- 纯客户端处理，零后端依赖、零遥测
+- 一键转换网页为 Markdown 并复制/下载
+- Readability 主内容提取 + Turndown HTML→Markdown
+- 多标签批量转换（合并或 ZIP）、实时 token 计数（4K–32K 上下文限制）
+- 完全客户端处理，无后端、无遥测
 
 ## 适用场景
 
-- 把网页文章快速转成 Markdown 粘贴给 ChatGPT/Claude 等模型作上下文
-- 批量转换多个标签页内容并打包下载
-- 导出 AI 聊天页面的长对话内容
+- 把长网页文章作为上下文粘贴给 ChatGPT/Claude 等工具
+- 批量抓取多个标签页内容转 Markdown 存档
+- 剥离链接 URL 以减少 token 消耗
 
 ## 场景标签
 
-`网页抓取` `文档解析` · 领域:效率与自动化
+`文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L11: A browser extension that converts web page content to clean Markdown format and copies it to clipboard with a singl
 > L46: LLMFeeder operates as a fully client-side extension with zero backend dependencies. All content processing occurs l
-> L75: - **LLM-Optimized Output**: Clean, structured Markdown perfect for AI consumption
+> L80: ## Installation
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "jatinkrmalik/LLMFeeder 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 478 --> 490
-    line [479, 482, 484, 485, 486, 487, 488, 489, 488, 488]
+    title "jatinkrmalik/LLMFeeder 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 481 --> 490
+    line [482, 484, 485, 486, 487, 488, 489, 488, 489]
 ```
 
-2026-10-22 479 → 2026-11-24 488（+9）
+2026-10-23 482 → 2026-11-25 489（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `da3afe8e3f61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `cad95840eb4f` · [字段定义](../../DATASET.md)*

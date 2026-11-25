@@ -46,12 +46,12 @@ PRAXO-CORE 的原生 Rust 实现，以 crate 形式发布于 crates.io，进程�
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-rust 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-19", "2026-11-23", "2026-11-25"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-19 3 → 2026-11-24 4（+1）
+2026-11-19 3 → 2026-11-25 4（+1）
 
 
 ---

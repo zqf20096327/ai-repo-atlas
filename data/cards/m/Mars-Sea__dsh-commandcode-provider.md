@@ -2,9 +2,9 @@
 
 ⭐ 491 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Mars-Sea/dsh-commandcode-provider) · [官网](https://www.npmjs.com/package/@mars-sea/dsh-commandcode-provider) · 个人维护 · 中文 README
 
-**为 DeepSeek Harness 接入 Command Code 模型的 dsh 插件**
+**为 dsh 提供 Command Code 模型接入的插件**
 
-DeepSeek Harness (dsh) 的非官方 LLM provider 插件，将 Command Code 模型接入 dsh：注册 commandcode provider 路由与实时模型目录，提供专属设置页、多账号额度轮换、计划感知的模型过滤、推理力度选择、图像输入，并通过 Command Code API 支撑 dsh 的 web_search 工具；附带服务状态展示、模型用量/成本分析与会话成本估算。通过 dsh plugin add 安装，支持 web 与 dsh-TUI 两种 profile，需自备 Command Code 账号与 API key。仅支持 dsh 0.2.0-rc.2 / 0.2.1-rc.2 两个引擎版本。
+非官方的 DeepSeek Harness（dsh）LLM provider 插件，接入 Command Code 模型服务。通过一条 dsh plugin 命令安装，提供实时模型目录、按套餐分层标注（tier/折扣/峰谷时段/图像支持/上下文窗口）、多账户轮换与专用模型路由、浏览器授权登录、用量面板 /commandcode、会话成本估算、reasoning effort 档位与图像输入、基于 Command Code 端点的 web_search、可选 ZDR 路由。需 Node.js ≥24.9，需自备 Command Code 账户与 API key。
 
 ## 筛选速览
 
@@ -13,45 +13,45 @@ DeepSeek Harness (dsh) 的非官方 LLM provider 插件，将 Command Code 模�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 注册 commandcode provider 路由与实时模型目录
-- 多账号自动轮换（单账号额度用尽切换下一账号）
-- web_search 由 Command Code /alpha/web-search 支撑，与聊天共用同一 key
-- 模型用量/成本分析与会话成本估算（标注为估算非账单）
+- 实时模型目录，含套餐层级、折扣/FREE、峰谷、图像与上下文窗口标注
+- 多账户轮换：额度耗尽自动切换，可固定偏好账户或指定专用模型
+- 浏览器授权登录与本地凭据存储，支持 COMMANDCODE_API_KEY 等多种密钥来源
+- web 与 dsh-TUI 双 profile 安装，各 profile 独立管理插件列表
 
 ## 适用场景
 
-- 在 dsh 中使用 Command Code 订阅内的模型
-- 在终端 UI (dsh-TUI) 中配置并切换 Command Code 模型
-- 查看账号计划、配额窗口与用量成本估算
+- 在 dsh 中通过 Command Code 账户使用其模型目录
+- 多个 Command Code 订阅额度用尽时自动切换账户
+- 在终端 UI 中选择模型并查看每账户用量报表
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+ · 领域:LLM 基础设施/模型接入
 
 ## 证据(README 行号)
 
 > L13: Unofficial DeepSeek Harness LLM provider plugin for **Command Code**, ported from pi-commandcode-provider (MIT).
-> L19: - **Plugin bundle** — install into any dsh profile with `dsh plugin add`; registers a `commandcode` provider route 
+> L31: - **Plugin bundle** — one `dsh plugin add` installs a `commandcode` provider route with the live model catalog.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Mars-Sea/dsh-commandcode-provider 星数(近 23 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 406 --> 497
-    line [413, 427, 429, 433, 435, 439, 441, 443, 445, 447, 433, 465, 473, 474, 477, 482, 483, 486, 487, 488, 489, 490, 490]
+    title "Mars-Sea/dsh-commandcode-provider 星数(近 22 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 421 --> 497
+    line [427, 429, 433, 435, 439, 441, 443, 445, 447, 433, 465, 473, 474, 477, 482, 483, 486, 487, 488, 489, 490, 491]
 ```
 
-2026-10-21 413 → 2026-11-24 490（+77）
+2026-10-23 427 → 2026-11-25 491（+64）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6ba26531cd4f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4c966d17fc1f` · [字段定义](../../DATASET.md)*

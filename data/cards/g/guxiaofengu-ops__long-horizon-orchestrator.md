@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guxiaofengu-ops/long-horizon-orchestrator 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-11", "2026-11-24"]
+    x-axis ["2026-10-28", "2026-11-11", "2026-11-25"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-28 3 → 2026-11-24 4（+1）
+2026-10-28 3 → 2026-11-25 4（+1）
 
 
 ---

@@ -46,12 +46,12 @@ Go 编写的 eval 框架，属于 MIST 栈的组成部分。用户以 SuiteRegis
 ```mermaid
 xychart-beta
     title "greynewell/matchspec 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-22 23 → 2026-11-24 23（+0）
+2026-10-23 23 → 2026-11-25 23（+0）
 
 
 ---

@@ -44,12 +44,12 @@ ACB 是叠加在未修改的 llama.cpp server 之上的轻量控制层：每次�
 ```mermaid
 xychart-beta
     title "SaiDheeraj-19/Adaptive-Cognitive-Budgeting-GPU-Free-LLMs 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-18", "2026-11-21", "2026-11-25"]
     y-axis "stars" 8 --> 11
     line [9, 10, 10]
 ```
 
-2026-10-18 9 → 2026-11-24 10（+1）
+2026-10-18 9 → 2026-11-25 10（+1）
 
 
 ---

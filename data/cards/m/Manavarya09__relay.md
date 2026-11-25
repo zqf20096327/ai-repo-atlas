@@ -45,13 +45,13 @@ Rust 编写的 CLI 工具，读取 Claude Code 的 .jsonl 会话转录文件，�
 
 ```mermaid
 xychart-beta
-    title "Manavarya09/relay 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 41]
+    title "Manavarya09/relay 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
 ```
 
-2026-10-21 40 → 2026-11-24 41（+1）
+2026-10-23 41 → 2026-11-25 41（+0）
 
 
 ---

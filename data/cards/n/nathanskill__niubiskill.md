@@ -45,12 +45,12 @@ NIUBI Skill 是一个用于 Claude Code 的 agent 技能（SKILL 格式），由
 ```mermaid
 xychart-beta
     title "nathanskill/niubiskill 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-22 43 → 2026-11-24 43（+0）
+2026-10-23 43 → 2026-11-25 43（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AI-Efficiency/Awesome-Efficient-Diffusion 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 209 --> 213
-    line [210, 211, 212, 212]
+    title "AI-Efficiency/Awesome-Efficient-Diffusion 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 210 --> 214
+    line [211, 212, 213]
 ```
 
-2026-10-22 210 → 2026-11-24 212（+2）
+2026-10-23 211 → 2026-11-25 213（+2）
 
 
 ---

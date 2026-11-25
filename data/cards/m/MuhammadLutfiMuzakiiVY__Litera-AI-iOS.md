@@ -47,12 +47,12 @@ LITERA-AI 单体仓库，包含 Flutter 移动客户端、FastAPI 异步后端�
 ```mermaid
 xychart-beta
     title "MuhammadLutfiMuzakiiVY/Litera-AI-iOS 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-22 16 → 2026-11-24 16（+0）
+2026-10-23 16 → 2026-11-25 16（+0）
 
 
 ---

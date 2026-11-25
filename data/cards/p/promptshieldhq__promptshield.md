@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "promptshieldhq/promptshield 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 18 --> 21
+    line [20, 19]
 ```
 
-2026-10-21 20 → 2026-11-24 20（+0）
+2026-10-23 20 → 2026-11-25 19（-1）
 
 
 ---

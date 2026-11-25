@@ -44,13 +44,13 @@ TypeScript 编写的命令行工具，对 SKILL.md 格式的 AI agent 技能进�
 
 ```mermaid
 xychart-beta
-    title "joeynyc/skillscore 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    title "joeynyc/skillscore 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 17 --> 19
+    line [18, 18]
 ```
 
-2026-10-22 17 → 2026-11-24 18（+1）
+2026-10-23 18 → 2026-11-25 18（+0）
 
 
 ---

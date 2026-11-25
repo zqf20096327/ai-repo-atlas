@@ -2,9 +2,9 @@
 
 ⭐ 518 · HTML · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/mxyhi/ok-skills) · 个人维护 · 中文 README
 
-**面向 Codex/Claude Code 等编码 agent 的技能与 AGENTS.md 剧本策展库**
+**为 AI 编码 agent 提供的 33 个技能与 AGENTS.md 模板集合**
 
-策展型 AI 编码 agent 技能仓库：收录 32 个 SKILL.md 格式的可复用技能与 CLAUDE.md/AGENTS.md 剧本，供 Codex、Claude Code、Cursor、OpenClaw、Autohand Code、Trae 等 SKILL.md 兼容工具使用。技能覆盖文档查询、浏览器自动化、规划工作流、前端设计、PDF/Office 排版等场景，部分技能标注上游来源（vendored）。安装方式为 git clone 到 ~/.agents/skills 或 ~/.autohand/skills 目录；部分技能依赖 gh CLI、Chrome/CDP 环境或外部 CLI/MCP 工具。
+以 git clone 方式安装到 ~/.agents/skills 的技能集合仓库，收录 33 个顶层技能目录与一份 CLAUDE_AGENTS.md 播种文件，适配 Codex、Claude Code、Cursor、OpenClaw 等 SKILL.md 兼容工具。技能按研究与文档、规划与提示、自动化与 QA、前端设计、工具与写作分类，多数技能从上游仓库 vendored 并跟踪上游迁移说明。运行前提包括 gh 认证、Chrome/CDP 环境等，逐个 SKILL.md 说明。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@
 
 ## 能力要点
 
-- 收录 32 个按用例分类的可复用 SKILL.md 技能
-- 提供 CLAUDE_AGENTS.md 剧本可合并进 CLAUDE.md/AGENTS.md
-- 技能索引标注 vendored 技能的上游来源 URL
-- 附上游迁移说明跟踪技能版本变化
+- 33 个可复用技能目录，clone 后即符合 AGENTS.md 布局
+- CLAUDE_AGENTS.md 提供 Claude Code/Codex 全局指令播种文件
+- 技能按研究与文档、规划、自动化 QA、前端设计等用例分类
+- vendored 技能带上游基线与迁移说明（版本化更新记录）
 
 ## 适用场景
 
-- 为我的编码 agent 添加文档查询、浏览器自动化、规划等技能
-- 跨项目复用 CLAUDE.md/AGENTS.md 工作流配置
-- 查找适用于 Codex/Claude Code/Cursor 的 SKILL.md 示例
+- 给 Codex/Claude Code 等编码 agent 添加文档查询、浏览器自动化等现成技能
+- 跨项目复用 CLAUDE.md/AGENTS.md 工作流指令
+- 查找 SKILL.md 实际示例作为编写参考
 
 ## 场景标签
 
-`提示工程` `精选清单` · 领域:Agent 开发
+`提示工程` `浏览器自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: Curated AI coding agent skills and `CLAUDE.md` / `AGENTS.md` playbooks for Codex, Claude Code, Cursor, OpenClaw, Aut
-> L9: This repo currently bundles **32 reusable skills**, all maintained as top-level skill directories in this repo. Clon
+> L9: This repo currently bundles **33 reusable skills**, all maintained as top-level skill directories in this repo. Clon
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "mxyhi/ok-skills 星数(近 13 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 500 --> 518
-    line [501, 504, 505, 506, 507, 509, 505, 511, 513, 514, 516, 517, 517]
+    title "mxyhi/ok-skills 星数(近 12 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 503 --> 519
+    line [504, 505, 506, 507, 509, 505, 511, 513, 514, 516, 517, 518]
 ```
 
-2026-10-22 501 → 2026-11-24 517（+16）
+2026-10-23 504 → 2026-11-25 518（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7e89636d8162` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fe692f506d05` · [字段定义](../../DATASET.md)*

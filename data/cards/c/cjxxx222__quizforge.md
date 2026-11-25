@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cjxxx222/quizforge 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 0 --> 54
-    line [50, 4, 4]
+    title "cjxxx222/quizforge 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
 ```
 
-2026-10-22 50 → 2026-11-24 4（-46）
+2026-10-23 4 → 2026-11-25 4（+0）
 
 
 ---

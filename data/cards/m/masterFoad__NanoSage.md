@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "masterFoad/NanoSage 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 264 --> 267
-    line [266, 265, 265]
+    title "masterFoad/NanoSage 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 264 --> 266
+    line [265, 265]
 ```
 
-2026-10-22 266 → 2026-11-24 265（-1）
+2026-10-23 265 → 2026-11-25 265（+0）
 
 
 ---

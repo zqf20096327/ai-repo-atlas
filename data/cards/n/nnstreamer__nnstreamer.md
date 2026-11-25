@@ -45,13 +45,13 @@ NNStreamer 是一组 GStreamer 插件，让 GStreamer 开发者可将神经网�
 
 ```mermaid
 xychart-beta
-    title "nnstreamer/nnstreamer 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 798 --> 802
-    line [801, 800, 799, 799]
+    title "nnstreamer/nnstreamer 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 798 --> 801
+    line [800, 799, 799]
 ```
 
-2026-10-22 801 → 2026-11-24 799（-2）
+2026-10-23 800 → 2026-11-25 799（-1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "CompleteTech-LLC-AI-Research/beyond-the-token-bottleneck 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 39 --> 43
-    line [40, 41, 42, 42]
+    title "CompleteTech-LLC-AI-Research/beyond-the-token-bottleneck 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 40 --> 43
+    line [41, 42, 42]
 ```
 
-2026-10-21 40 → 2026-11-24 42（+2）
+2026-10-23 41 → 2026-11-25 42（+1）
 
 
 ---

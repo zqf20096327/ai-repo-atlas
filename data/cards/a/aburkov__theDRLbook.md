@@ -41,12 +41,12 @@ Andriy Burkov 所著 The Hundred-Page Deep Reinforcement Learning Book 的官方
 ```mermaid
 xychart-beta
     title "aburkov/theDRLbook 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-24"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-15", "2026-11-25"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-15 10 → 2026-11-24 10（+0）
+2026-11-15 10 → 2026-11-25 11（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anneheartrecord/florilegium 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 31 --> 36
-    line [32, 35, 35]
+    title "anneheartrecord/florilegium 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 34 --> 36
+    line [35, 35]
 ```
 
-2026-10-22 32 → 2026-11-24 35（+3）
+2026-10-23 35 → 2026-11-25 35（+0）
 
 
 ---

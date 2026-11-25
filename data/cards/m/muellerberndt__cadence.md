@@ -2,9 +2,9 @@
 
 ⭐ 644 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/muellerberndt/cadence) · [官网](https://cadence.floatingpragma.ai/) · 组织维护
 
-**持续在线学习的类脑 Python 库，边运行边学习**
+**在线持续学习的类脑神经网络 Python 库**
 
-Cadence 是一个 Python 库，提供在持续运行中学习的均衡网络（equilibrium network）：神经元互相驱动直至活动稳定，动作从稳定状态读取，突触通过自由与受扰两相位之差做局部更新，无反向传播、无训练/使用切换。System 1 组合感知、记忆与动作；可选 System 2 增加观察者区域做递归反馈。需 Python 3.11+ 与 NumPy，可选 Numba/SciPy、MLX 或 PyTorch 加速。作者声明为 alpha 研究软件，世界预测与修复机制仍在开发中。
+Cadence 是一个 Python 库，提供以平衡传播（equilibrium contrast）方式在线学习的循环网络：连接在运行过程中局部更新，无反向传播、无训练/使用切换；带工作轨迹、历史、回忆与联想四类记忆，支持奖励学习、teacher 标签、保存/恢复、区域嫁接与私有 imagination 推演，可选 observer 递归区域（System 2）。定位为 alpha 研究软件，需 Python 3.11+ 与 NumPy，默认 NumPy float64 CPU 运行，可选 Numba/MLX/PyTorch 加速。面向机器学习研究者与具身/机器人方向开发者。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Cadence 是一个 Python 库，提供在持续运行中学习的均衡网络（e
 
 ## 能力要点
 
-- 局部可塑性的持续在线学习，无反向传播与训练/推理切换
-- 工作痕迹、历史、回忆与联想四种记忆机制
-- 可保存/恢复的大脑、移植训练区域、想象不改动在线状态
-- 提供浏览器实时演示（机械臂、Atari、Connect Four 等）
+- 无反向传播的局部可塑性学习（自由/受扰相位对比）
+- 持续状态与四类记忆（工作轨迹、历史、回忆、联想）
+- 支持 grow/graft 组合脑区与保存后续跑
+- 可选 MLX（Apple GPU）与 PyTorch（NVIDIA GPU）后端
 
 ## 适用场景
 
-- 研究持续/在线学习与均衡传播机制
-- 为机器人或游戏环境构建边运行边学习的控制器
-- 从奖励流中训练动作策略并与前馈网络对比
+- 研究在线/持续学习与平衡传播机制
+- 机器人或游戏环境中的边行动边学习实验
+- 复现并与反向传播网络做同任务对比
 
 ## 场景标签
 
-`强化学习` `模型训练` · 领域:训练与推理
+`模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L12: Cadence is a Python library for brains that learn while they live. Animal and human brains learn
 > L34: The brain settles: its neurons drive each other until their activity comes to rest, the action
-> L184: |Settling brain (`Genome`, `develop`, `NeuralGraph`, `Learner`)|A continuous Hopfield or energy-based recurrent ne
+> L161: ## For machine-learning readers
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "muellerberndt/cadence 星数(近 20 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 433 --> 663
-    line [452, 453, 454, 455, 457, 456, 457, 458, 453, 572, 617, 624, 625, 630, 636, 637, 642, 643, 644, 644]
+    title "muellerberndt/cadence 星数(近 19 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 434 --> 663
+    line [453, 454, 455, 457, 456, 457, 458, 453, 572, 617, 624, 625, 630, 636, 637, 642, 643, 644, 644]
 ```
 
-2026-10-22 452 → 2026-11-24 644（+192）
+2026-10-23 453 → 2026-11-25 644（+191）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `791e658421e6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7b535844cf0b` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ Julia 包，用于训练与采样受限玻尔兹曼机（RBM）这类概率生�
 ```mermaid
 xychart-beta
     title "cossio/RestrictedBoltzmannMachines.jl 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-22 24 → 2026-11-24 24（+0）
+2026-10-23 24 → 2026-11-25 24（+0）
 
 
 ---

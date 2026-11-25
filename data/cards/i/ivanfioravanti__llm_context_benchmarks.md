@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ivanfioravanti/llm_context_benchmarks 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 103 --> 108
-    line [104, 105, 106, 107, 107]
+    title "ivanfioravanti/llm_context_benchmarks 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 104 --> 108
+    line [105, 106, 107, 107]
 ```
 
-2026-10-22 104 → 2026-11-24 107（+3）
+2026-10-23 105 → 2026-11-25 107（+2）
 
 
 ---

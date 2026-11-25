@@ -2,9 +2,9 @@
 
 ⭐ 469 · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agentclientprotocol/registry) · [官网](https://agentclientprotocol.com/registry) · 组织维护
 
-**实现 ACP 协议的 AI agent 官方注册表清单**
+**实现 ACP 协议的 agent 注册表，供客户端发现可用 agent**
 
-Agent Client Protocol (ACP) 的 agent 注册表仓库，维护一份经过 CI 验证、支持用户认证并返回有效 authMethods 的精选 agent 列表。通过 CDN 以 JSON 索引分发（通用索引及 JetBrains 专用/preview/Air 变体），每小时 cron 自动检查 npm、PyPI、GitHub releases 更新 agent 版本并提交到 main。贡献新 agent 需遵循 CONTRIBUTING.md，格式规范见 FORMAT.md。Apache 2.0 许可。
+维护一份实现 Agent Client Protocol (ACP) 的 agent 清单，收录支持用户认证的 agent，并通过 CI 验证其在 ACP 握手中返回有效 authMethods。提供公共 JSON 索引端点供拉取，为 JetBrains IDE 提供专用索引及可选预览通道（含稳定版兜底逻辑）。版本通过每小时运行的 cron 任务自动检查 npm、PyPI、GitHub releases 的发布并提交更新。收录新 agent 需按 CONTRIBUTING.md 流程操作。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ Agent Client Protocol (ACP) 的 agent 注册表仓库，维护一份经过 CI �
 
 ## 能力要点
 
-- CI 验证 agent 在 ACP 握手中返回有效 authMethods
-- 通过 CDN 分发 registry.json 及 JetBrains 专用/preview/Air 索引
-- 每小时 cron 自动从 npm/PyPI/GitHub releases 更新版本
+- 收录支持用户认证并通过 CI 验证 authMethods 的 ACP agent
+- 提供 registry.json 公共索引端点供客户端拉取
+- JetBrains 专用索引与预览通道（含 stable 版兜底）
+- cron 任务每小时自动更新 agent 版本（npm/PyPI/GitHub releases）
 
 ## 适用场景
 
-- IDE 或客户端按索引发现和接入支持 ACP 的 agent
-- 查找经过认证验证、支持用户认证的 agent 列表
-- 为自己的 agent 提交收录到 ACP 官方注册表
+- 为支持 ACP 的客户端查找可接入的 agent
+- JetBrains IDE 中配置可用的 ACP agent 索引
+- 开发者按流程提交自己实现的 ACP agent
 
 ## 场景标签
 
@@ -36,21 +37,22 @@ Agent Client Protocol (ACP) 的 agent 注册表仓库，维护一份经过 CI �
 
 ## 证据(README 行号)
 
-> L5: Registry of agents implementing the Agent Client Protocol, ACP.
-> L10: > All agents are verified via CI to ensure they return valid `authMethods` in the ACP handshake.
+> L7: Registry of agents implementing the Agent Client Protocol, ACP.
+> L9: > **Authentication Required**: This registry maintains a curated list of **agents that support user authentication**
+> L35: ## Registry Format
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "agentclientprotocol/registry 星数(近 23 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 422 --> 472
-    line [426, 429, 431, 433, 436, 437, 439, 441, 443, 444, 445, 433, 450, 453, 454, 455, 458, 459, 463, 464, 467, 468, 468]
+    title "agentclientprotocol/registry 星数(近 22 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 425 --> 473
+    line [429, 431, 433, 436, 437, 439, 441, 443, 444, 445, 433, 450, 453, 454, 455, 458, 459, 463, 464, 467, 468, 469]
 ```
 
-2026-10-22 426 → 2026-11-24 468（+42）
+2026-10-23 429 → 2026-11-25 469（+40）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3074c0937f59` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `36a2477b26b4` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GoBeromsu/obsidian-metadata-auto-classifier 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-24"]
+    x-axis ["2026-11-08", "2026-11-25"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-11-08 59 → 2026-11-24 59（+0）
+2026-11-08 59 → 2026-11-25 59（+0）
 
 
 ---

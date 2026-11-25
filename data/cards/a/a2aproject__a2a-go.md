@@ -2,9 +2,9 @@
 
 ⭐ 513 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/a2aproject/a2a-go) · [官网](https://a2a-protocol.org/) · 组织维护
 
-**A2A 协议的 Go SDK：构建与调用 agent 服务端和客户端**
+**供 Go 开发者构建 A2A 协议 Agent 服务的 SDK**
 
-由 a2aproject 维护的 Go 库，用于将 agentic 应用按 Agent2Agent (A2A) v1.0 协议规范暴露为 A2A 服务端，并提供消费端客户端 SDK。支持 gRPC、REST、JSON-RPC 三种传输绑定，提供传输无关的请求处理器抽象与 AgentCard 解析机制，并开放扩展点：可自带传输实现、认证中间件、消息与数据库后端。需 Go 1.25.0 及以上，配套命令行工具 a2a-cli 位于独立仓库，示例见 a2a-samples 仓库。
+a2aproject 维护的 Go 语言 SDK，用于以 A2A（Agent2Agent）协议运行 agentic 应用。提供客户端（a2aclient）与服务端（a2asrv）两组高层 API，支持 gRPC、REST、JSON-RPC 三种传输绑定，并开放自定义 transport、认证中间件、消息与数据库后端的扩展点。要求 Go 1.26.0 或更新版本，通过 go get 安装，文档位于 pkg.go.dev；配套 CLI 工具 a2a-cli 与示例仓库 a2a-samples 独立分发。采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,24 +20,24 @@
 
 ## 能力要点
 
-- 遵循 A2A v1.0 协议规范，提供 a2asrv 服务端与 a2aclient 客户端双 SDK
-- gRPC/REST/JSON-RPC 多传输绑定
-- 可插拔扩展点：自定义传输、认证中间件、消息与数据库后端
-- 配套 a2a-cli 命令行工具（独立仓库）用于发消息、查看任务、解析 AgentCard
+- 客户端与服务端两组 SDK API（a2aclient / a2asrv）
+- 支持 gRPC、REST、JSON-RPC 三种协议传输绑定
+- 开放 transport、认证、消息与数据库后端扩展点
+- 配套独立 CLI 工具 a2a-cli（消息发送、任务查看、AgentCard 解析）
 
 ## 适用场景
 
-- 用 Go 把自己的 agent 封装为符合 A2A 协议的服务端
-- 编写客户端调用其他 A2A agent 并交换消息
-- 为多 agent 系统实现 A2A 协议的传输层与认证扩展
+- 把已有的 agentic 应用按 A2A 协议暴露为服务端
+- 用 Go 客户端解析 AgentCard 并向 A2A Agent 发送消息
+- 通过自定义 transport 与认证中间件接入既有基础设施
 
 ## 场景标签
 
-`多智能体` · 领域:Agent 开发
+ · 领域:AI 基础设施/多智能体协议
 
 ## 证据(README 行号)
 
-> L10:  A Go library for running agentic applications as A2A Servers, following the Agent2Agent (A2A) Protocol.
+> L10:  A Go library for running agentic applications as A2A Servers, following the Agent2Agent&nbsp;(A2A)&nbsp;Protocol.
 > L15: - **Client & Server SDKs:** High-level APIs for both serving agentic functionality (`a2asrv`) and consuming it (`a2
 
 ## 星数曲线
@@ -45,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "a2aproject/a2a-go 星数(近 14 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-24"]
-    y-axis "stars" 487 --> 514
-    line [489, 490, 491, 495, 496, 497, 490, 501, 504, 507, 508, 509, 512, 512]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-25"]
+    y-axis "stars" 487 --> 515
+    line [489, 490, 491, 495, 496, 497, 490, 501, 504, 507, 508, 509, 512, 513]
 ```
 
-2026-10-22 489 → 2026-11-24 512（+23）
+2026-10-23 489 → 2026-11-25 513（+24）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cfd728239f13` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0f0867098f9b` · [字段定义](../../DATASET.md)*

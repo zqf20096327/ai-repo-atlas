@@ -2,9 +2,9 @@
 
 ⭐ 455 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mattabate/life-distributable) · [官网](https://lifedistributable.com/) · 个人维护
 
-**自托管的个人 AI agent 团队，在 Mac 上全天候为你服务**
+**自托管的个人 AI agent 团队：替你规划日程、理财与日常事务**
 
-构建在 Claude Code 之上的自托管 AI agent 集群：每个 agent 是一个有角色分工的长运行 Claude Code 会话（如参谋长、CTO），通过任务传递协作，维护自身代码并可按需修改前后端。Mac 作为 hub，经 Tailscale 私有网络连接 iPhone、桌面与网页应用，数据留在本机。花钱、发消息、删除等危险动作需用户批准码确认。安装方式是在 Claude Code 中粘贴一句话由 agent 引导完成，需 Claude 订阅（$20-200/月）与常开的 Mac，约 2 小时，iPhone/桌面应用另需 Apple 开发者会员（$99/年）。
+基于 Claude Code 构建的自托管 agent 团队，在常开的 Mac/Linux 机器上运行，通过 Tailscale 私有网络连接 iPhone、桌面与 Web 应用。每个 agent 是带角色（如 chief of staff、CTO）的长会话，互相传递任务并维护日历；界面采用卡片而非聊天流，花钱、删除、发消息等操作需用户凭 decider code 审批。安装方式为向 Claude Code 粘贴一条提示词，由 agent 按 SETUP.md 完成约 2 小时的部署；用户需 Claude 订阅，iPhone/桌面应用另需 Apple 开发者会员。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 多角色 agent 集群，agent 间通过任务传递协作
-- Mac hub + Tailscale 私有网络，数据不暴露公网
-- 花钱/删除/联系他人等动作需用户批准码确认
-- agent 维护自身代码，可按一句话修改 UI 或加数据源
+- 多角色 agent 团队互相传递任务并维护共享日历
+- 审批门控：花钱/删除/联系他人等操作需 decider code 批准
+- 仅经 Tailscale 私网访问，无开放端口，备份先加密再上传
+- agent 可自行修改前后端代码，应用按用户要求自我改造
 
 ## 适用场景
 
-- 规划每周日程并跟进个人目标
-- 记账与执行投资计划
-- 维护健康与日常事务，练习乐器
-- 经营个人受众或推进副业项目
+- 规划每周日程并跟踪待办
+- 记录开销并执行投资计划
+- 用手机随时审批 agent 的操作卡片
+- 管理健康、跑腿与副业项目进度
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 
 ## 证据(README 行号)
 
+> L5: **A self-hosted swarm of AI agents, with apps on iPhone, Mac and web.**
 > L7: *life* is a self-hosted team of AI agents built on [Claude Code][claude-code].
 > L83: - **Roles.** Each agent is a long-running Claude Code session with a role, like chief of staff or CTO. They pass ta
 
@@ -46,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "mattabate/life-distributable 星数(近 14 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 365 --> 454
-    line [372, 380, 385, 393, 401, 409, 416, 423, 429, 435, 441, 445, 447, 447]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 364 --> 463
+    line [372, 380, 385, 393, 401, 409, 416, 423, 429, 435, 441, 445, 447, 455]
 ```
 
-2026-11-10 372 → 2026-11-24 447（+75）
+2026-11-10 372 → 2026-11-25 455（+83）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `e286ce9ca484` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `24f1a33f195d` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@ tailtest 是以 MIT 许可开源的 Claude Code 插件，作为 AI 编码过程�
 
 ```mermaid
 xychart-beta
-    title "avansaber/tailtest 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "avansaber/tailtest 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
 ```
 
-2026-10-22 11 → 2026-11-24 12（+1）
+2026-10-23 12 → 2026-11-25 12（+0）
 
 
 ---

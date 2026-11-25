@@ -4,7 +4,7 @@
 
 **把 Android 手机变成 OpenAI 兼容的本地 LLM 推理服务器**
 
-面向 Android 用户的本地 LLM 服务器应用：基于 Google LiteRT-LM 运行时在手机 GPU/CPU 上运行模型，通过 Ktor 提供 OpenAI 兼容 HTTP API（含 Anthropic Messages API、音频转录等端点）。支持从 HuggingFace 一键下载或导入 .litertlm 模型，提供内置基准测试、请求日志、Prometheus 指标与 Home Assistant REST API 集成。限制：仅 arm64-v8a、Android 12+、6GB 内存起步，单模型单请求，不支持 GGUF。APK 安装，开源 Apache 2.0。
+基于 Google LiteRT-LM 运行时的 Android 应用，在手机 GPU/CPU 上运行 LLM，并通过本地网络提供 OpenAI 与 Anthropic 兼容的 HTTP API。支持从 Hugging Face/ModelScope 下载模型或导入本地 .litertlm 文件，内置基准测试、请求日志、Prometheus 指标与 Home Assistant REST 控制接口。限制：仅 arm64-v8a、单模型单请求排队、不支持 GGUF、无 logprobs 与语法约束等运行时特性。面向需要在本地设备上运行推理服务的用户。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 在手机上运行 LLM 并以 OpenAI 兼容 HTTP API 对局域网提供服务
-- 支持 OpenAI Chat/Completions/Responses 与 Anthropic Messages 端点
-- 内置基准测试、活动日志与 Prometheus 指标监控
-- 可从 HuggingFace 一键下载或本地导入 .litertlm 模型
+- 提供 OpenAI Chat/Completions/Responses 与 Anthropic Messages 兼容端点
+- 通过 LiteRT-LM 在手机 GPU/CPU 上运行 .litertlm 模型
+- 支持多模态（视觉/音频）、思考链与实验性工具调用
+- 内置 Prometheus 指标、Grafana 对接与 Home Assistant 远程控制
 
 ## 适用场景
 
-- 用闲置旧手机搭建常驻低功耗的本地 LLM 服务器
-- 让 Open WebUI、Home Assistant 等 OpenAI 兼容客户端接入手机上的本地模型
-- 在设备上对比测试多个模型选择适配硬件的一款
+- 把闲置 Android 手机作为局域网内的本地 LLM 服务器
+- 为 Home Assistant 提供本地语音与对话后端
+- 在无外网/无 API key 环境下运行本地推理
+- 在移动设备上对比测试不同模型的推理表现
 
 ## 场景标签
 
-`推理引擎` `模型评测` · 领域:评测与运维
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -45,14 +46,14 @@
 
 ```mermaid
 xychart-beta
-    title "NightMean/OlliteRT 星数(近 22 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 567 --> 654
-    line [574, 575, 577, 579, 582, 589, 594, 595, 596, 598, 577, 621, 628, 630, 631, 633, 635, 638, 639, 645, 647, 647]
+    title "NightMean/OlliteRT 星数(近 21 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 568 --> 656
+    line [575, 577, 579, 582, 589, 594, 595, 596, 598, 577, 621, 628, 630, 631, 633, 635, 638, 639, 645, 647, 649]
 ```
 
-2026-10-22 574 → 2026-11-24 647（+73）
+2026-10-23 575 → 2026-11-25 649（+74）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6ee58c08703f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `98cedc7f8fa5` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@ TypeScript 库，编排两个互补角色（如领域专家与知识提取者）
 
 ```mermaid
 xychart-beta
-    title "przeprogramowani/agent-forum 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    title "przeprogramowani/agent-forum 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
 ```
 
-2026-10-22 19 → 2026-11-24 20（+1）
+2026-10-23 20 → 2026-11-25 20（+0）
 
 
 ---

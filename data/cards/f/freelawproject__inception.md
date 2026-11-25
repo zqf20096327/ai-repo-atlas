@@ -45,13 +45,13 @@ FreeLaw Project 维护的 FastAPI 微服务，基于 SentenceTransformers 模型
 
 ```mermaid
 xychart-beta
-    title "freelawproject/inception 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 61 --> 66
-    line [62, 64, 65, 64, 65, 65]
+    title "freelawproject/inception 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 63 --> 66
+    line [64, 65, 64, 65, 65]
 ```
 
-2026-10-22 62 → 2026-11-24 65（+3）
+2026-10-23 64 → 2026-11-25 65（+1）
 
 
 ---

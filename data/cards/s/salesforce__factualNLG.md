@@ -46,12 +46,12 @@ arXiv 论文《LLMs as Factual Reasoners》的官方代码仓库，发布 SummEd
 ```mermaid
 xychart-beta
     title "salesforce/factualNLG 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-21 60 → 2026-11-24 60（+0）
+2026-10-23 60 → 2026-11-25 60（+0）
 
 
 ---

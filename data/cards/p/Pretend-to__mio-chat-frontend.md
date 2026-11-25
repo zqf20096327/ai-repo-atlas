@@ -47,12 +47,12 @@ MioChat 的前端部分，与 mio-chat-backend 配合组成完整的 Agent 交�
 ```mermaid
 xychart-beta
     title "Pretend-to/mio-chat-frontend 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-21 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

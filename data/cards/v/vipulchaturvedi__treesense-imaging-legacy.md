@@ -46,12 +46,12 @@ Smart India Hackathon 2023 的大学原型项目，面向林业伐移地块评�
 ```mermaid
 xychart-beta
     title "vipulchaturvedi/treesense-imaging-legacy 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
     y-axis "stars" 40 --> 43
     line [42, 41, 41]
 ```
 
-2026-10-22 42 → 2026-11-24 41（-1）
+2026-10-23 42 → 2026-11-25 41（-1）
 
 
 ---

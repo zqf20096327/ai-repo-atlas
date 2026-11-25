@@ -2,9 +2,9 @@
 
 ⭐ 1,365 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Abraxas-365/langchain-rust) · 组织维护
 
-**为 Rust 开发者提供的 LangChain 框架实现**
+**LangChain 的 Rust 实现，供 Rust 开发者编写 LLM 应用**
 
-LangChain 的 Rust 语言实现，以 crates.io 库形式分发。功能覆盖 LLM/嵌入模型接入、多种向量存储、链式编排（对话、SQL、Map-reduce、路由、Constitutional 等）、输出解析器、持久化记忆、带工具的 Agent 与多种文档加载器（PDF、HTML、CSV、Git commits、Notion 等）。安装通过 cargo add 完成，serde_json 为必需依赖，各向量存储以后端 feature flag 形式可选启用；sqlite-vss/sqlite-vec 需额外下载扩展库。
+LangChain 的 Rust 语言实现库：提供 LLM 调用（含响应缓存、prompt 缓存与 thinking 支持）、Embeddings、多种向量存储、Chain 编排（SQL/检索问答/路由/宪法链等）、输出解析器、持久化记忆、带工具的 Agent 及流式事件与 tracing。文档加载器覆盖 PDF、HTML、CSV、Git 提交、源码等格式。以 crate 形式分发，通过 cargo add 安装，向量存储等能力按 feature flag 启用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ LangChain 的 Rust 语言实现，以 crates.io 库形式分发。功能覆盖 L
 
 ## 能力要点
 
-- 支持 14 种向量存储（MongoDB Atlas、Postgres、Qdrant、Milvus 等）
-- 多种 Chain 编排：SQL、API、Router、Constitutional、Map-reduce 检索问答
-- Agent 支持工具调用、ReAct 回退、流式事件与取消、tracing span
-- 文档加载器覆盖 PDF/HTML/CSV/Git commits/Notion/AssemblyAI 转录
+- 支持 OpenAI/Azure/Ollama/Claude/DeepSeek 等多 LLM 接入及响应缓存
+- 11 种向量存储后端（MongoDB Atlas/Pinecone/Qdrant/Redis 等）按 feature 启用
+- Chain 覆盖 SQL、检索问答、路由、map-reduce、Constitutional 等
+- Agent 支持流式事件、取消与 tracing spans
 
 ## 适用场景
 
-- 用 Rust 构建 LLM 对话与检索问答应用
-- 在 Rust 项目中为 Agent 接入多种模型与工具
-- 为 Rust 应用添加文档摄取与向量检索能力
+- 用 Rust 编写基于 LLM 的对话/问答应用
+- 在 Rust 项目中构建带工具调用的 Agent
+- 对文档（PDF/HTML/CSV）做向量检索问答
 
 ## 场景标签
 
@@ -38,20 +38,21 @@ LangChain 的 Rust 语言实现，以 crates.io 库形式分发。功能覆盖 L
 ## 证据(README 行号)
 
 > L13: This is the Rust language implementation of LangChain.
-> L17: - LLMs
+> L52: - Chain
+> L174: ## Installation
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Abraxas-365/langchain-rust 星数(近 16 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
+    title "Abraxas-365/langchain-rust 星数(近 15 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 1348 --> 1366
-    line [1350, 1349, 1351, 1352, 1353, 1355, 1356, 1357, 1358, 1349, 1362, 1363, 1364, 1365, 1364, 1364]
+    line [1349, 1351, 1352, 1353, 1355, 1356, 1357, 1358, 1349, 1362, 1363, 1364, 1365, 1364, 1365]
 ```
 
-2026-10-22 1,350 → 2026-11-24 1,364（+14）
+2026-10-23 1,349 → 2026-11-25 1,365（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `b9c3f88fe998` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c009c10da926` · [字段定义](../../DATASET.md)*

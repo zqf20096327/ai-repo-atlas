@@ -47,12 +47,12 @@ three.ws Memory 引擎的官方 npm 客户端：agent 通过 remember()/recall()
 ```mermaid
 xychart-beta
     title "nirholas/agent-memory 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-10-22 6 → 2026-11-24 6（+0）
+2026-10-23 6 → 2026-11-25 6（+0）
 
 
 ---

@@ -43,13 +43,13 @@ RunPod 官方提供的 serverless endpoint worker 集合，覆盖 Stable Diffusi
 
 ```mermaid
 xychart-beta
-    title "runpod/serverless-workers 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 61 --> 64
-    line [62, 63, 63]
+    title "runpod/serverless-workers 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 62 --> 64
+    line [63, 63]
 ```
 
-2026-10-22 62 → 2026-11-24 63（+1）
+2026-10-23 63 → 2026-11-25 63（+0）
 
 
 ---

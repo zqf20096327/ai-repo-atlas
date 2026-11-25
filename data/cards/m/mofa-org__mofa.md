@@ -46,12 +46,12 @@ MoFA（Modular Framework for Agents）以 Rust 微内核为核心，通过 UniFF
 ```mermaid
 xychart-beta
     title "mofa-org/mofa 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
     y-axis "stars" 298 --> 301
     line [299, 300, 300]
 ```
 
-2026-11-22 299 → 2026-11-24 300（+1）
+2026-11-22 299 → 2026-11-25 300（+1）
 
 
 ---

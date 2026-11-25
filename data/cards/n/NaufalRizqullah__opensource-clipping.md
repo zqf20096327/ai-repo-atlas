@@ -1,10 +1,10 @@
 # NaufalRizqullah/opensource-clipping
 
-⭐ 525 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NaufalRizqullah/opensource-clipping) · [官网](https://naufalrizqullah.github.io/opensource-clipping/) · 个人维护 · 中文 README
+⭐ 525 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/NaufalRizqullah/opensource-clipping) · [官网](https://naufalrizqullah.github.io/opensource-clipping/) · 个人维护
 
-**把长视频/播客自动转为短视频高光片段的 AI 剪辑流水线**
+**把长视频/播客自动剪成短视频的开源 AI 工具**
 
-以 Python CLI 与 Colab/Kaggle notebook 形式提供的自动剪辑流水线：下载 YouTube/TikTok/Instagram 视频，用 Faster-Whisper 做词级转录，Google Gemini 选取高光片段并生成元数据，MediaPipe BlazeFace 做人脸跟踪自动构图，生成卡拉OK字幕、动态文字、B-roll、水印、缩略图，并可选自动上传 YouTube/Facebook。播客场景支持 Pyannote 说话人分离、分屏与镜头切换。必需 Python 3.10+、FFmpeg 与 Gemini API Key；CUDA GPU 为推荐项，可用 CPU 回退；另提供 GitHub Pages 网页 Studio 远程控制 Kaggle/Colab 后端。
+开源的 AI 自动剪辑流水线，提供 CLI、Web Studio（GitHub Pages 前端 + Kaggle/Colab FastAPI 后端）与 Colab/Kaggle notebook 三种使用方式。功能包括 Faster-Whisper 词级转写、Gemini/NVIDIA NIM/vLLM 分析选段与生成元数据、MediaPipe 人脸追踪自动取景、卡拉OK字幕、B-roll、配音、自动缩略图，以及 YouTube/Facebook 定时上传。依赖 Python 3.10+、FFmpeg，推荐 CUDA GPU，无 GPU 可用 Colab。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Faster-Whisper 词级转录 + Gemini 高光片段选取与元数据生成
-- MediaPipe/YOLO 人脸跟踪自动构图与卡拉OK/动态字幕
-- Pyannote 说话人分离驱动的播客分屏与镜头切换
-- 可选自动上传 YouTube 与 Facebook Reels，含定时发布
+- Faster-Whisper (large-v3) 词级转写与 Pyannote 说话人分离分屏
+- AI 内容策展支持 Gemini、NVIDIA NIM 或自托管 vLLM 三种提供方
+- 人脸追踪自动取景、卡拉OK字幕、B-roll、AI 配音等剪辑功能
+- Web Studio 通过 ngrok 隧道连接 Kaggle/Colab 后端进行 GUI 操作
 
 ## 适用场景
 
-- 把长视频或播客批量剪成多条竖屏短视频
-- 为播客自动生成分屏或跟随说话人的画面
-- 生成带字幕、B-roll 与封面图的可发布短视频
+- 把长视频和播客批量剪成适合 Reels/Shorts 的短视频
+- 无本地 GPU 时用 Colab/Kaggle 运行完整剪辑流水线
+- 生成带卡拉OK字幕与钩子预告的营销短片并定时发布到 YouTube/Facebook
 
 ## 场景标签
 
@@ -37,21 +37,22 @@
 
 ## 证据(README 行号)
 
+> L7:  Ultimate AI Auto-Clipper & Teaser Generator
 > L22: |**AI Transcriber**|Word-level transcription using **Faster-Whisper** (large-v3)|
-> L23: |**AI Content Curator**|**Google Gemini** analyzes context, picks the most viral moments, and generates metadata|
+> L23: |**AI Content Curator**|**Google Gemini**, **NVIDIA NIM**, or self-hosted **vLLM** analyzes context, selects highli
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "NaufalRizqullah/opensource-clipping 星数(近 28 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 145 --> 549
-    line [178, 179, 183, 185, 187, 196, 197, 199, 201, 202, 204, 207, 185, 219, 233, 240, 247, 257, 265, 285, 299, 309, 370, 450, 479, 499, 516, 516]
+    title "NaufalRizqullah/opensource-clipping 星数(近 27 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 145 --> 559
+    line [179, 183, 185, 187, 196, 197, 199, 201, 202, 204, 207, 185, 219, 233, 240, 247, 257, 265, 285, 299, 309, 370, 450, 479, 499, 516, 525]
 ```
 
-2026-10-22 178 → 2026-11-24 516（+338）
+2026-10-23 179 → 2026-11-25 525（+346）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `0677f30340a6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d39a857c4712` · [字段定义](../../DATASET.md)*

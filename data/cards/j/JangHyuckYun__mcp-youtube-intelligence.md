@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "JangHyuckYun/mcp-youtube-intelligence 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-10-29", "2026-11-24"]
+    title "JangHyuckYun/mcp-youtube-intelligence 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-11-25"]
     y-axis "stars" 51 --> 54
-    line [52, 53, 52, 53, 53]
+    line [53, 52, 53, 53]
 ```
 
-2026-10-21 52 → 2026-11-24 53（+1）
+2026-10-23 53 → 2026-11-25 53（+0）
 
 
 ---

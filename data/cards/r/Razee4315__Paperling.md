@@ -2,9 +2,9 @@
 
 ⭐ 604 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Razee4315/Paperling) · [官网](https://razee4315.github.io/Paperling/) · 个人维护
 
-**免配置的 Markdown 阅读编辑器，内置可选 AI 改稿助手**
+**免配置的 Markdown 阅读编辑器，带可选用 AI 编辑**
 
-基于 Tauri/React/TypeScript 的跨平台 Markdown 编辑器，主打打开即用：实时渲染预览（KaTeX 数学、mhchem 化学、Mermaid 图表、GFM）、分屏双向滚动同步、多光标、可视化表格编辑、wikilink 与反向链接等。AI 为可选功能：侧边 AI 面板支持对话问答与 Agent 模式，以行内 diff 形式提出编辑建议，逐条或整体接受/拒绝；接入任意 OpenAI 兼容端点（OpenAI、Gemini、Ollama、llama.cpp 等），API key 存于系统钥匙串。无 vault 与插件体系，构建未签名需手动放行。
+基于 Tauri/React/TypeScript 的桌面 Markdown 应用，打开任意 .md 即读即编：分屏实时预览（KaTeX 数学、mhchem 化学、Mermaid 图表、GFM）、文件浏览器、命令面板、文件历史与崩溃恢复。AI 为可选项：侧栏问答与 Agent 模式以行内 diff 提议编辑，用户逐项接受或拒绝；自带模型接入任意 OpenAI 兼容端点，API key 存于系统钥匙串。提供 Windows/macOS/Linux/Android 安装包，构建未签名，macOS 需手动放行。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- Agent 模式以行内 diff 提出编辑建议，逐条接受/拒绝
-- 接入任意 OpenAI 兼容端点（含 Ollama、llama.cpp），key 存于 OS 钥匙串
-- 实时渲染数学（KaTeX）、化学（mhchem）、Mermaid 图表
-- 选中文本就地改写/续写/翻译（Alt+J / ⌘J）
+- 分屏实时预览：KaTeX 数学、mhchem 化学、Mermaid 图表
+- Agent 模式以行内 diff 提议编辑，接受或拒绝后才写入
+- OpenAI 兼容端点自由接入（OpenAI/Gemini/Ollama/llama.cpp）
+- 文件历史（30 天）与崩溃恢复、外部变更检测
 
 ## 适用场景
 
-- 日常打开和编辑 .md 文档、笔记与项目 README
-- 写技术文档时实时预览公式、化学反应式与流程图
-- 让 AI 建议改稿并逐条审核后写入
+- 快速打开并阅读 .md 文件而非在记事本中看源码
+- 写带数学、化学、图表的笔记且边写边渲染
+- 用自然语言让 AI 提议改写并逐条审阅接受
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:开发工具/笔记与编辑器
 
 ## 证据(README 行号)
 
 > L6:  A no-setup Markdown reader and editor. Open any <code>.md</code> file and read it beautifully, edit with live previ
-> L32: I wanted something you just open and write in: it renders Markdown beautifully while keeping the raw text one keyst
-> L95: - **Agent mode** — describe a change in plain language and the AI proposes edits. They appear as an **inline diff i
+> L99: - **Agent mode** — describe a change in plain language and the AI proposes edits. They appear as an **inline diff i
+> L101: - **Bring your own model** — works with any OpenAI-compatible endpoint: OpenAI, Google Gemini (OpenAI-compat), Oll
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Razee4315/Paperling 星数(近 18 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 582 --> 606
-    line [584, 586, 587, 588, 590, 591, 590, 587, 594, 596, 598, 599, 600, 601, 602, 603, 604, 604]
+    title "Razee4315/Paperling 星数(近 17 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 585 --> 605
+    line [586, 587, 588, 590, 591, 590, 587, 594, 596, 598, 599, 600, 601, 602, 603, 604, 604]
 ```
 
-2026-10-22 584 → 2026-11-24 604（+20）
+2026-10-23 586 → 2026-11-25 604（+18）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3b912b6f2885` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8a8f6d725c3c` · [字段定义](../../DATASET.md)*

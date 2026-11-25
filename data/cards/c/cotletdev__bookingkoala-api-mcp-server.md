@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cotletdev/bookingkoala-api-mcp-server 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-24"]
+    x-axis ["2026-11-08", "2026-11-25"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-08 6 → 2026-11-24 6（+0）
+2026-11-08 6 → 2026-11-25 6（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Nebius AI Cloud 官方 Go SDK，基于 gRPC 封装 nebius.com 全部 API，供�
 ```mermaid
 xychart-beta
     title "nebius/gosdk 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-22 16 → 2026-11-24 17（+1）
+2026-10-23 16 → 2026-11-25 17（+1）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 808 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/Repo2RLEnv) · [官网](https://huggingface.github.io/Repo2RLEnv/) · 组织维护
 
-**把任意代码仓库转成可验证 RL 环境的生成工具**
+**把任意代码仓库转成可验证 RL 环境，供 coding agent 训练评估**
 
-由 Hugging Face 维护的 CLI 工具：从已合并 PR、提交历史、安全公告、终端录制等既有材料生成 Harbor 格式的可验证强化学习任务，供编码 agent 训练、评测与在 Hub 上分享。提供 23 种生成器、21 个已发布数据集共 1,930 个任务；每任务含指令、起始容器、私有验证器与参考答案。原生流水线需本地 Docker 与 Python 3.12+，Tasksmith 需 Modal 或 Daytona 账号。
+Repo2RLEnv 从已合并的 PR、commit 历史、安全公告、库函数、终端录像等素材自动生成 Harbor 格式的 RL 任务环境，每个任务含指令、起始容器、私有验证器与参考解。提供 24 个生成器与 CLI，生成的任务可用任意 Harbor agent 运行评估，并可通过 push/pull 命令与 Hugging Face Hub 上的 21 个已发布数据集（1,930 个任务）互通。首条流水线仅需 Python 3.12+ 与 GitHub CLI，无需 Docker 与 LLM key；运行任务需 Docker，PR-diff 评分需 ANTHROPIC_API_KEY 作为 correctness judge。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 23 种生成器覆盖仓库修复、实现重建、补丁相似度、终端任务等类别
-- 任务为 Harbor 标准格式，可用任意 Harbor agent 运行
-- 21 个已发布数据集、1,930 个任务托管在 Hugging Face Hub
-- 一条命令发布自己的数据集（repo2rlenv push）
+- 24 个生成器从 PR/commit/CVE/终端录像等素材产出 Harbor 任务
+- 任务含指令、私有验证器与参考解，验证器写入 reward
+- repo2rlenv push/pull 与 Hugging Face Hub 数据集互通
+- Tasksmith 用 agent 自动调查仓库、设计指令并自修复直至验证通过
 
 ## 适用场景
 
-- 为编码 agent 的强化学习训练批量构造带验证器的任务
-- 用任意 agent 在标准任务集上做评测
-- 把仓库的 PR 历史转化为可复用的训练数据集并发布到 Hub
+- 为 coding agent 的 RL 训练批量生成带验证器的任务环境
+- 用统一 Harbor 格式评估不同 agent 在真实仓库任务上的表现
+- 把团队仓库的历史 PR 转成可复用的训练/评测集
+- 在 Hugging Face Hub 上发布和获取 RL 任务数据集
 
 ## 场景标签
 
-`强化学习` `模型评测` · 领域:评测与运维
+`模型评测` `强化学习` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L20:  Repo2RLEnv turns any repository into verifiable RL environments
-> L27: **Repo2RLEnv builds them from material that already exists:** merged pull requests,
 > L30: Harbor task you can train on, evaluate with
+> L48: pip install 'repo2rlenv[harbor]'
+> L166: pip install repo2rlenv                               # native pipelines and the CLI
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "huggingface/Repo2RLEnv 星数(近 22 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 726 --> 813
-    line [733, 737, 739, 742, 743, 753, 755, 757, 758, 759, 762, 739, 779, 782, 786, 788, 790, 796, 798, 804, 806, 806]
+    title "huggingface/Repo2RLEnv 星数(近 21 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 730 --> 815
+    line [737, 739, 742, 743, 753, 755, 757, 758, 759, 762, 739, 779, 782, 786, 788, 790, 796, 798, 804, 806, 808]
 ```
 
-2026-10-22 733 → 2026-11-24 806（+73）
+2026-10-23 737 → 2026-11-25 808（+71）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a57a1f468c03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2f4b23eb9ee8` · [字段定义](../../DATASET.md)*

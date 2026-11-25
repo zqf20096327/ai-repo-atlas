@@ -2,15 +2,15 @@
 
 ⭐ 467 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nebius/soperator) · 组织维护
 
-**在 Kubernetes 上运行 Slurm 集群的开源 operator，面向 AI 训练与 HPC**
+**面向平台团队的 Kubernetes 上运行 Slurm 集群 operator**
 
-Nebius 维护的 Kubernetes operator：将单个 SlurmCluster 自定义资源转为可用的 Slurm 集群，包含控制器、登录/工作节点、CUDA/NCCL 栈、共享根文件系统（jail）、健康检查与记账。面向需要提供 Slurm 而无需逐节点手工运维的平台团队，也适用于从裸机迁移到 Kubernetes 化 Slurm 的团队。特性包括临时节点自动伸缩、InfiniBand 拓扑感知、故障节点自动排水与替换。限制：节点镜像固定 Ubuntu 24.04，存在单分区、GPU-only 或 CPU-only 集群约束；另有 Nebius 托管与 Soperator Pro 商业服务路径。
+Soperator 是一个 Kubernetes operator，将 `SlurmCluster` 自定义资源转换为可用的 Slurm 集群，包含控制器、登录节点、worker、共享存储（jail 根文件系统）、CUDA/NCCL 栈、健康检查与计账组件。面向需要以声明式方式提供 Slurm 的平台团队，以及从裸金属迁移到 Kubernetes 的团队。通过被动/主动健康检查自动排空和替换故障节点，支持临时 worker 与 InfiniBand 感知调度。要求 Kubernetes ≥1.35、Helm ≥3.14、CUDA >13.0，提供 Self-deploy、Nebius 托管服务与 Soperator Pro 等部署路径，存在单分区及 GPU-only/CPU-only 集群约束。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@ Nebius 维护的 Kubernetes operator：将单个 SlurmCluster 自定义资源转
 
 ## 能力要点
 
-- 单个 SlurmCluster 资源声明式部署与维护 Slurm 集群
-- 共享根文件系统（jail）使节点软件配置保持一致
-- 被动/主动健康检查与故障节点自动排水替换
-- 镜像预装 NVIDIA 驱动、CUDA、NCCL 训练栈
+- 单个 `SlurmCluster` 资源声明式管理控制器、登录、worker、存储与计账
+- 被动/主动健康检查检测 GPU、网络、存储问题并自动排空替换故障节点
+- jail 共享根文件系统使集群节点软件与配置保持一致
+- 支持 AWS/GCP/Azure/Nebius/OCI、裸金属与气隙环境部署
 
 ## 适用场景
 
-- 平台团队在自有 Kubernetes 上交付 Slurm AI 训练集群
-- 从裸机 Slurm 迁移到 Kubernetes 化部署
-- 跨云或本地环境运行 GPU 训练并自动恢复故障节点
+- 在自有 Kubernetes 上为 AI 训练提供 Slurm 集群
+- 从裸金属 Slurm 迁移到 Kubernetes 管理
+- 通过健康检查减少长任务因 GPU 故障中断
+- 用临时 worker 按需伸缩 GPU 容量
 
 ## 场景标签
 
@@ -45,14 +46,14 @@ Nebius 维护的 Kubernetes operator：将单个 SlurmCluster 自定义资源转
 
 ```mermaid
 xychart-beta
-    title "nebius/soperator 星数(近 13 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 450 --> 468
-    line [451, 453, 454, 455, 456, 453, 455, 456, 462, 464, 466, 467, 467]
+    title "nebius/soperator 星数(近 12 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 452 --> 468
+    line [453, 454, 455, 456, 453, 455, 456, 462, 464, 466, 467, 467]
 ```
 
-2026-10-22 451 → 2026-11-24 467（+16）
+2026-10-23 453 → 2026-11-25 467（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `efa640e7d647` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `83c3c9a37fa6` · [字段定义](../../DATASET.md)*

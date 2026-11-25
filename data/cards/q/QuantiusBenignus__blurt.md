@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QuantiusBenignus/blurt 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 109 --> 112
-    line [110, 111, 111]
+    title "QuantiusBenignus/blurt 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 110 --> 112
+    line [111, 111]
 ```
 
-2026-10-22 110 → 2026-11-24 111（+1）
+2026-10-23 111 → 2026-11-25 111（+0）
 
 
 ---

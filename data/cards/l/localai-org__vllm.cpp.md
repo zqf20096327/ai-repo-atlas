@@ -2,9 +2,9 @@
 
 ⭐ 489 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/localai-org/vllm.cpp) · 组织维护
 
-**C++20 实现的 vLLM 式本地推理引擎，无 Python 依赖**
+**C++ 版 vLLM 风格 LLM 推理引擎，无 Python 依赖**
 
-由 LocalAI 团队维护的社区项目（非 vLLM 官方），从零用 C++20 实现的推理引擎：吸收 vLLM 的 continuous batching、分页 KV、前缀缓存、投机解码，SGLang 的 RadixAttention 与缓存感知调度，以及 llama.cpp 的 GGUF/扁平 C ABI 部署方式。支持 CUDA/CPU/Metal/Vulkan 后端，提供 OpenAI 兼容的服务端与 66 MiB 二进制发布。项目自称处于重度开发期，CLI 与服务行为可能随提交变化，多项架构速度指标标注为待测。
+由 LocalAI 团队维护的从零实现的 C++20 通用 LLM 推理引擎，独立于 vLLM 官方项目。提供连续批处理、分页 KV 缓存、前缀缓存、投机解码等 vLLM 特性，并引入 RadixAttention、缓存感知调度等 SGLang 思路，支持 GGUF 与 Safetensors 权重、量化块上直接计算，通过 C ABI 库以 dlopen 方式嵌入，附 HTTP 服务器端点（补全、音频、视频、多模态输入）与 Prometheus 指标。提供 CPU/CUDA/Metal/Vulkan/MLX 后端与 GitHub Releases 预编译产物。项目处于活跃开发期，README 声明 CLI 与服务器行为可能随提交变化，多数架构的完整性与速度验证仍有缺口。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- C++20 单库实现 continuous batching、分页 KV、RadixAttention、投机解码
-- 支持 CUDA/CPU/Metal/Vulkan 多后端，GGUF 与 Safetensors 加载
-- v0.0.2 提供 CPU/CUDA/Vulkan/Metal/MLX 八个预编译服务端归档
-- 版本化 C ABI（include/vllm.h）供嵌入使用
+- C++20 实现，推理时无 Python 与 PyTorch，二进制 66 MiB
+- C ABI（include/vllm.h）版本化，供应用嵌入
+- 支持 GGUF/Safetensors、连续批处理、分页 KV、三种投机解码
+- CPU/CUDA/Metal/Vulkan/MLX 多后端与结构化输出（GBNF）
 
 ## 适用场景
 
-- 在自有硬件上以小体积二进制部署 LLM 推理服务
-- 需要 vLLM 式吞吐特性但不想安装 Python 环境的场景
-- 通过 dlopen 或 C ABI 将推理引擎嵌入应用
+- 在无 GPU 机器上用 CPU 服务 LLM
+- 以库形式将推理引擎嵌入 C/C++ 应用
+- 需要 vLLM 风格连续批处理但部署环境装不下 Python 栈的场景
 
 ## 场景标签
 
@@ -37,23 +37,22 @@
 
 ## 证据(README 行号)
 
-> L4:  Continuous batching, paged KV, CUDA / CPU / Metal / Vulkan. No Python anywhere.
-> L104: vllm.cpp is a from-scratch C++20 inference engine chasing three things at once: be the
-> L109: vLLM's serving core (continuous batching, block-paged KV,
-> L145:  offload, Prometheus metrics, and the SGLang knobs, all in a library you can `dlopen`. Multimodal
+> L107: vllm.cpp is a from-scratch C++20 inference engine chasing three things at once: be the
+> L112: vLLM's serving core (continuous batching, block-paged KV,
+> L115: llama.cpp's deployment story (one library behind a flat C
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "localai-org/vllm.cpp 星数(近 22 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 449 --> 492
-    line [452, 454, 455, 456, 458, 461, 466, 471, 472, 474, 475, 456, 479, 482, 484, 485, 486, 487, 488, 487, 489, 489]
+    title "localai-org/vllm.cpp 星数(近 21 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 451 --> 492
+    line [454, 455, 456, 458, 461, 466, 471, 472, 474, 475, 456, 479, 482, 484, 485, 486, 487, 488, 487, 489, 489]
 ```
 
-2026-10-21 452 → 2026-11-24 489（+37）
+2026-10-23 454 → 2026-11-25 489（+35）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3e9b0ae204c4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0bd191f7dbc4` · [字段定义](../../DATASET.md)*

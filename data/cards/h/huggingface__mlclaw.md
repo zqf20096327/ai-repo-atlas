@@ -45,13 +45,13 @@ Hugging Face 官方仓库，把 OpenClaw agent 以受保护的 Docker Space 形�
 
 ```mermaid
 xychart-beta
-    title "huggingface/mlclaw 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 12, 12]
+    title "huggingface/mlclaw 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 11 --> 14
+    line [12, 13, 12, 12]
 ```
 
-2026-10-22 11 → 2026-11-24 12（+1）
+2026-10-23 12 → 2026-11-25 12（+0）
 
 
 ---

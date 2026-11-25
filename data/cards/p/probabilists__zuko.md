@@ -2,9 +2,9 @@
 
 ⭐ 473 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/probabilists/zuko) · [官网](https://zuko.readthedocs.io) · 组织维护
 
-**PyTorch 生态的 normalizing flows 概率建模库**
+**给概率推断研究者的 PyTorch 归一化流库**
 
-Zuko 是基于 PyTorch 实现 normalizing flows 的 Python 包，核心机制是 LazyDistribution 与 LazyTransform：通过延迟创建分布/变换，使条件分布可表达，同时保留 nn.Module 的可训练参数与 GPU 迁移能力。提供 12 种流模型（NICE、RealNVP、MAF、NSF、CNF 等）用于密度估计、采样与生成式建模。面向使用 PyTorch 做概率推断的研究者与开发者，文档托管于 readthedocs。
+Zuko 是在 PyTorch 中实现归一化流的 Python 包，尽量复用 PyTorch 已有的分布与变换类。它定义 LazyDistribution 与 LazyTransform 两个概念，使分布创建延迟、可表达条件分布/变换，并保留模块的可训练参数与 GPU 迁移能力。内置 17 种流实现（NICE、RealNVP、MAF、Neural Spline Flows、CNF 等），提供 zuko.flows 模块与自定义 Flow 构建方式，文档与教程位于 zuko.readthedocs.io。安装经由 PyPI 或 GitHub 仓库源码。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@ Zuko 是基于 PyTorch 实现 normalizing flows 的 Python 包，核心机制是
 
 ## 能力要点
 
-- LazyDistribution/LazyTransform 设计支持条件分布
-- 实现 12 种 normalizing flows 变体（GMM 至 BPF）
-- 模块化设计保留 .to('cuda') 与 .parameters() 能力
-- 提供自定义 Flow 对象构建方式
+- 定义 LazyDistribution/LazyTransform，支持条件分布 p(x|c) 的求值与采样
+- 内置 17 种归一化流实现（NICE、RealNVP、MAF、NSF、CNF 等）
+- 尽量复用 PyTorch 原生 Distribution/Transform 类，易于理解与扩展
+- 提供 PyPI 安装与文档教程
 
 ## 适用场景
 
-- 在 PyTorch 中做密度估计与条件分布建模
-- 构建并训练 normalizing flows 生成模型
-- 实验对比多种流模型结构
+- 概率推断中的条件密度估计
+- 用 PyTorch 训练归一化流生成模型
+- 按需采样与评估条件分布
 
 ## 场景标签
 
- · 领域:机器学习/概率生成模型
+ · 领域:机器学习/生成模型
 
 ## 证据(README 行号)
 
+> L3: # Zuko - Normalizing flows in PyTorch
 > L5: Zuko is a Python package that implements normalizing flows in PyTorch. It relies as much as possible on distribution
-> L7: To solve these problems, `zuko` defines two concepts: the `LazyDistribution` and `LazyTransform`, which are any modu
-> L31: Normalizing flows are provided in the `zuko.flows` module. To build one, supply the number of sample and context fe
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "probabilists/zuko 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-25"]
     y-axis "stars" 465 --> 474
     line [466, 467, 468, 467, 470, 471, 472, 473, 473]
 ```
 
-2026-10-22 466 → 2026-11-24 473（+7）
+2026-10-23 466 → 2026-11-25 473（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ef75603731f6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3c03e0abfea3` · [字段定义](../../DATASET.md)*

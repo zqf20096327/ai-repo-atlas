@@ -45,12 +45,12 @@ ICLR 2026 论文 The Curious Case of In-Training Compression of State Space Mode
 ```mermaid
 xychart-beta
     title "camail-official/compressm 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 33 --> 36
     line [34, 35, 35]
 ```
 
-2026-10-22 34 → 2026-11-24 35（+1）
+2026-10-23 34 → 2026-11-25 35（+1）
 
 
 ---

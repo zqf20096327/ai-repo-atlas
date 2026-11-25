@@ -45,12 +45,12 @@ ElectroBun 桌面应用，为使用 OpenAI Codex CLI 的用户提供 agents 的�
 ```mermaid
 xychart-beta
     title "MrLesk/codex-agents-composer 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-22 29 → 2026-11-24 29（+0）
+2026-10-23 29 → 2026-11-25 29（+0）
 
 
 ---

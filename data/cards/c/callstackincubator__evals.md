@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "callstackincubator/evals 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 112]
+    title "callstackincubator/evals 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 111 --> 113
+    line [112, 112]
 ```
 
-2026-10-22 111 → 2026-11-24 112（+1）
+2026-10-23 112 → 2026-11-25 112（+0）
 
 
 ---

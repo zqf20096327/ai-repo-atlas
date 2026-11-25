@@ -2,9 +2,9 @@
 
 ⭐ 604 · Common Lisp · ISC · 推送 2026-11-24 · [GitHub](https://github.com/lambda-symbolics/autolith) · [官网](https://autolith.rocks) · 组织维护
 
-**可自我修改的 Common Lisp 终端 AI 代理**
+**可自修改的 Common Lisp 终端 AI agent**
 
-运行在活动 Common Lisp 镜像内的终端代理：可观察、自省并修改自身代码与活动状态，以适应用户偏好或任务需要；通过创建镜像世代支持回滚，故障时可重载恢复镜像并诊断修复。遵循 XDG 标准，提供文档（Guide/Architecture/Skills/MCP/RLM）。支持 Linux/macOS/各 BSD/Windows 平台，提供独立二进制发布、curl 安装脚本、Nix 包与源码构建；通过 autolith auth 命令以 web 流程或 API key 认证十余家模型提供方。
+运行在活体 Common Lisp 镜像中的通用 agent，用户在 REPL 中直接获得模型输出并与之协作。关键机制包括：带检查点与恢复的活体自修改、持久记忆与符号推理以减少不必要的 LLM 调用、用递归语言模型（RLM）处理超上下文窗口的大规模数据、通过 World of Channels 协调多 agent，以及经工具/技能/MCP 扩展。限制：类 Unix 与 Windows 平台运行，面向长程任务，无需 Lisp 知识。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 在活动 Lisp 镜像内自省与自我修改，支持世代回滚与恢复镜像
-- 支持 Linux/macOS/FreeBSD/NetBSD/OpenBSD/Windows 多平台
-- 独立二进制、curl 安装脚本、Nix 包多种分发方式
-- 内置命令认证多家模型提供方（chatgpt/copilot/gemini/anthropic 等）
+- 活体自修改自身代码与运行状态，带检查点恢复
+- 持久记忆与符号推理减少不必要的 LLM 调用
+- RLM 处理大规模数据而不撑爆上下文窗口
+- 多 agent 通过 World of Channels 协调，支持不同模型与角色
 
 ## 适用场景
 
-- 在终端中通过对话驱动 AI 代理完成任务
-- 需要代理适应个人偏好或定制自身行为的场景
-- 在 Lisp 环境中结合 MCP 与技能进行开发工作
+- 在终端中用自然语言与 agent 协作完成编码等长程任务
+- 让多个不同模型的 agent 在频道中协同分工
+- 处理超出上下文窗口规模的大量信息
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L13: Autolith, or AL, is a terminal agent inside a live Common Lisp image. It can
-> L14: observe, self-modify, discover, introspect its own code, its live state and what
+> L1: #+SUBTITLE: The self-modifying Common Lisp neurosymbolic agent
+> L13: Autolith (or AL), is an agent plopped into a live [[https://en.wikipedia.org/wiki/Common_Lisp][Common Lisp]] image:
+> L25: - *Extensibility:* Extend its capabilities through tools, skills, [[https://modelcontextprotocol.io/][MCP]] servers
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "lambda-symbolics/autolith 星数(近 24 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 485 --> 609
-    line [495, 496, 497, 500, 508, 511, 518, 521, 520, 500, 540, 551, 552, 558, 559, 560, 562, 564, 566, 578, 589, 597, 599, 599]
+    title "lambda-symbolics/autolith 星数(近 23 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 486 --> 614
+    line [496, 497, 500, 508, 511, 518, 521, 520, 500, 540, 551, 552, 558, 559, 560, 562, 564, 566, 578, 589, 597, 599, 604]
 ```
 
-2026-10-21 495 → 2026-11-24 599（+104）
+2026-10-23 496 → 2026-11-25 604（+108）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c8bf363765b0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `65869d796b0c` · [字段定义](../../DATASET.md)*

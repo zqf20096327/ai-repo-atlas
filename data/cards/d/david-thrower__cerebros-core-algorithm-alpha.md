@@ -45,12 +45,12 @@ Cerebros 是一个开源的神经架构搜索/AutoML 包，以多维 Dense 层�
 ```mermaid
 xychart-beta
     title "david-thrower/cerebros-core-algorithm-alpha 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-22 28 → 2026-11-24 28（+0）
+2026-10-23 28 → 2026-11-25 28（+0）
 
 
 ---

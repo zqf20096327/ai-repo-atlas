@@ -44,13 +44,13 @@ UNCODE（曾名 PC-Sampler）是针对 LLaDA、Dream 等掩码扩散语言模型
 
 ```mermaid
 xychart-beta
-    title "NEUIR/Uncode 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    title "NEUIR/Uncode 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 45 --> 47
+    line [46, 46]
 ```
 
-2026-10-21 45 → 2026-11-24 46（+1）
+2026-10-23 46 → 2026-11-25 46（+0）
 
 
 ---

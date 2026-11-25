@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Elemento24/Journey-With-Artificial-Intelligence 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-22 100 → 2026-11-24 100（+0）
+2026-10-23 100 → 2026-11-25 100（+0）
 
 
 ---

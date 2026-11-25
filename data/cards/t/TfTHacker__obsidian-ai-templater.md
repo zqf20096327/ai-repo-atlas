@@ -44,12 +44,12 @@ Obsidian 插件，扩展 Templater 使模板内可调用大语言模型：通过
 ```mermaid
 xychart-beta
     title "TfTHacker/obsidian-ai-templater 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-22 83 → 2026-11-24 83（+0）
+2026-10-23 83 → 2026-11-25 83（+0）
 
 
 ---

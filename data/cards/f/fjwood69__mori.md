@@ -45,13 +45,13 @@ Mori 是一个自托管、agent 中立的 MCP server，为 Claude Code、Codex�
 
 ```mermaid
 xychart-beta
-    title "fjwood69/mori 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "fjwood69/mori 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 31 --> 33
+    line [32, 32]
 ```
 
-2026-10-21 31 → 2026-11-24 32（+1）
+2026-10-23 32 → 2026-11-25 32（+0）
 
 
 ---

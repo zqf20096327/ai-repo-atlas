@@ -44,12 +44,12 @@ The Battle of the Water Futures 竞赛的 GitHub 门户：竞赛在 2026 年 5 �
 ```mermaid
 xychart-beta
     title "WaterFutures/water-futures-battle 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-22 17 → 2026-11-24 17（+0）
+2026-10-23 17 → 2026-11-25 17（+0）
 
 
 ---

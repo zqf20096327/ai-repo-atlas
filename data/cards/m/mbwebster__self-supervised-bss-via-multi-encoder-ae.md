@@ -45,12 +45,12 @@ Neurocomputing 论文官方仓库，提出基于多编码器单解码器自编�
 ```mermaid
 xychart-beta
     title "mbwebster/self-supervised-bss-via-multi-encoder-ae 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-22 19 → 2026-11-24 19（+0）
+2026-10-23 19 → 2026-11-25 19（+0）
 
 
 ---

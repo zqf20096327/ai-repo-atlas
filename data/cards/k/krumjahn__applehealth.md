@@ -2,17 +2,17 @@
 
 ⭐ 470 · Python · 推送 2026-11-11 · [GitHub](https://github.com/krumjahn/applehealth) · [官网](https://applehealthdata.com) · 个人维护
 
-**与 Apple Health 导出数据对话的终端 AI 分析器**
+**面向开发者的 Apple Health 本地导出分析工具，含可选 AI 问答**
 
-Python CLI 工具（3.9+），读取 Apple Health 的 export.xml，转换为 CSV/JSON 并提供聊天式问答界面：用户用自然语言查询步数、心率、睡眠、锻炼等指标，工具生成查询感知的本地摘要供 LLM 回答，并可自动生成图表。支持 50+ 模型（GPT-4o、Claude、Gemini、DeepSeek-R1 等），也可经 Ollama、Jan、LM Studio、llama.cpp、GPT4All 或任意 OpenAI 兼容端点完全本地运行。内含多来源数据调和与单位归一化策略，另发布 OpenClaw 技能。面向开发者、生物黑客与研究人员。
+本地运行的 Apple Health 导出数据处理工具集：convert 命令将 XML/ZIP 导出流式转换为 CSV/JSON 并保留嵌套锻炼详情；dashboard 命令生成单文件离线 HTML 月度报告，含步数、睡眠、静息心率、HRV、锻炼图表与覆盖率统计。转换与仪表盘全程无网络请求、无需 API key。AI 问答为可选路径：设置向导配置模型后以聊天 REPL 形式构建查询感知的本地摘要。目标用户为开发者、biohacker 与研究者。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | — |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,17 +20,16 @@ Python CLI 工具（3.9+），读取 Apple Health 的 export.xml，转换为 CSV
 
 ## 能力要点
 
-- export.xml → CSV/JSON 导出，保留 Record/Workout/ActivitySummary 元数据
-- 聊天 REPL + 斜杠命令（/steps、/sleep、/workouts 等）查询与自动图表
-- 多来源重叠数据调和与优先级设置，单位统一归一化
-- 支持 Ollama 等 5 种本地运行时及任意 OpenAI 兼容端点的 100% 私有模式
+- XML/ZIP 流式转换，百万行级峰值内存约 26 MiB
+- 单文件离线 HTML 仪表盘，4 种模板可切换
+- 可选 AI 聊天 REPL，支持 GPT-4o、Claude、Gemini、DeepSeek-R1、Ollama 本地模型等 50+
+- 转换与仪表盘生成无网络请求与遥测
 
 ## 适用场景
 
-- 在终端里用自然语言查询自己多年的 Apple Health 数据
-- 本地 LLM 离线分析健康数据，数据不出本机
-- 整合 Oura/Whoop/三星戒指经 Apple Health 同步的数据
-- 让 AI Agent（OpenClaw 等）生成每日健康简报
+- 把 iPhone 健康导出转成可用的 CSV/JSON 做自己的分析
+- 离线生成月度健康报告与趋势图表
+- 用本地模型私密地问健康数据问题
 
 ## 场景标签
 
@@ -38,22 +37,22 @@ Python CLI 工具（3.9+），读取 Apple Health 的 export.xml，转换为 CSV
 
 ## 证据(README 行号)
 
-> L3: **A terminal AI assistant for your Apple Health data. Chat with 8 years of personal health metrics using any LLM — l
-> L39: A purpose-built CLI that turns your Apple Health `export.xml` into a conversational AI session. Think of it as havi
-> L45: - 🧠 **50+ AI Models**: GPT-4o, Claude, Gemini, DeepSeek-R1, Grok, Mistral, Llama, and any Ollama local model.
+> L3: **Turn your Apple Health export into a private dashboard, usable CSV/JSON, or an optional AI conversation. Your dash
+> L67: **Privacy:** dashboard generation makes no network requests. The HTML contains your health summaries and source nam
+> L163: A local Apple Health data toolkit: convert an XML/ZIP export into usable files, then explore trends with charts or
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "krumjahn/applehealth 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-25"]
     y-axis "stars" 464 --> 472
-    line [465, 466, 467, 466, 467, 469, 470, 471, 471]
+    line [465, 466, 467, 466, 467, 469, 470, 471, 470]
 ```
 
-2026-10-22 465 → 2026-11-24 471（+6）
+2026-10-23 465 → 2026-11-25 470（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `27d1b900df4d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `45cbad986673` · [字段定义](../../DATASET.md)*

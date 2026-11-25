@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alesha-pro/inference-optimization-playbook 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 36 --> 80
-    line [39, 77, 77]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 35 --> 88
+    line [39, 77, 84]
 ```
 
-2026-11-22 39 → 2026-11-24 77（+38）
+2026-11-22 39 → 2026-11-25 84（+45）
 
 
 ---

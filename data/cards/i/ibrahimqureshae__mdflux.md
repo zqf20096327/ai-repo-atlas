@@ -2,9 +2,9 @@
 
 ⭐ 590 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ibrahimqureshae/mdflux) · [官网](https://ibrahimqureshae.github.io/mdflux/) · 个人维护
 
-**本地优先的桌面文档转 Markdown 工具，含 OCR 与批量转换**
+**本地桌面工具：把文档批量转成供 LLM 使用的 Markdown**
 
-基于 Microsoft MarkItDown 转换引擎的跨平台桌面应用（Windows/Linux x64），将 PDF、Office、EPUB、图像、音频等格式转换为结构化 Markdown，内置 OCR 恢复扫描 PDF 文字，支持整目录批量转换。完全本地运行，无需云端或账号；清理模式可选关闭、规则式或 AI（本地或 API，含 DeepSeek/OpenAI/Groq）。提供 Lite/Full 两种版本，Full 版内置运行时可离线使用。首次启动需联网配置私有 Python 环境。面向 AI/RAG 构建者、研究者与注重隐私的用户。
+基于 Microsoft MarkItDown 构建的桌面应用，将 PDF、Office、EPUB、HTML、音频等格式转换为结构化 Markdown；对扫描版 PDF 提供内置 OCR，支持整目录批量转换与进度取消。提供 Off/规则/AI 三种可选清理模式（AI 可走本地或 DeepSeek/OpenAI/Groq 等 API），Changes 页逐行显示清理增删。以便携安装包分发（Windows/Linux x64），分 Lite 与 Full 两个版本，首次启动联网配置私有 Python 环境后可完全离线运行。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 内置 OCR 恢复扫描/纯图像 PDF 的文字
-- 整目录批量转换，含进度、取消与逐文件诊断
-- 完全本地运行，文档不出本机
-- 支持 PDF/DOCX/PPTX/XLSX/EPUB/HTML/图像/音频等格式
+- 内置 OCR 读取扫描/纯图像 PDF，本地恢复文本
+- 批量转换整个文件夹，带进度、取消与逐文件诊断
+- 清理模式可选 Off、规则或 AI（本地或 API），Changes 页显示增删内容
+- Lite/Full 双版本分发，Full 捆绑运行时可离线使用
 
 ## 适用场景
 
-- 把扫描 PDF 批量转成可搜索的 Markdown 存档
-- 为 RAG 管线准备干净、省 token 的源文档
-- 在不上传敏感文件的前提下转换合同与报告
+- 为 RAG 管道准备干净的结构化源文档
+- 批量把论文、报告和扫描存档转成可检索的 Markdown
+- 敏感文件不出本机的离线文档转换
+- 从二进制办公文档导出可 diff、可版本管理的文本
 
 ## 场景标签
 
@@ -38,21 +39,21 @@
 ## 证据(README 行号)
 
 > L67: MDFlux is what I wanted instead. Drop in a file or a folder and get back clean, structured Markdown, with OCR for t
-> L111: |🧹 **Optional cleanup**|Off, rule-based, or an AI pass (local or API). The **Changes** tab shows what cleanup adde
-> L128: - **AI cleanup:** pick DeepSeek, OpenAI, Groq, or another provider in Diagnostics, then Test the key.
+> L149: 2. Pick a cleanup mode      →   Off, rule-based, or AI (local or API)
+> L179: MDFlux is built on Microsoft's MarkItDown, which is a genuinely great conversion library. What MDFlux adds is ever
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ibrahimqureshae/mdflux 星数(近 17 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25"]
     y-axis "stars" 566 --> 592
     line [568, 569, 570, 573, 572, 575, 577, 578, 580, 570, 584, 586, 587, 588, 589, 590, 590]
 ```
 
-2026-10-22 568 → 2026-11-24 590（+22）
+2026-10-23 568 → 2026-11-25 590（+22）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `e53f05bca339` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `686f035e4dc9` · [字段定义](../../DATASET.md)*

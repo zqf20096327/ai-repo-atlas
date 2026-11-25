@@ -46,12 +46,12 @@ MyCapsul 是一个安装于 Claude Desktop（Cowork 模式）的插件：Agent �
 ```mermaid
 xychart-beta
     title "mcatoms-xyz/mycapsul 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-24"]
+    x-axis ["2026-11-14", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-14 10 → 2026-11-24 10（+0）
+2026-11-14 10 → 2026-11-25 10（+0）
 
 
 ---

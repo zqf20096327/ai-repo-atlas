@@ -46,12 +46,12 @@ blader/humanizer 的 fork，作为 Claude Code/Cowork 的 skill 安装：检测�
 ```mermaid
 xychart-beta
     title "pielas-activy/humanizer-pl 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-11-15", "2026-11-24"]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-15", "2026-11-25"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-26 10 → 2026-11-24 12（+2）
+2026-10-26 10 → 2026-11-25 12（+2）
 
 
 ---

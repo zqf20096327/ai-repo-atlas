@@ -45,12 +45,12 @@ NeurIPS'24 LanGame workshop 论文的官方仓库，主题为 OpenAI o1 模型�
 ```mermaid
 xychart-beta
     title "VITA-Group/o1-planning 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-21 42 → 2026-11-24 42（+0）
+2026-10-23 42 → 2026-11-25 42（+0）
 
 
 ---

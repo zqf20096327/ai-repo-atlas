@@ -45,12 +45,12 @@ CompenNet++ 的 PyTorch 官方实现：一个端到端的全投影仪补偿系�
 ```mermaid
 xychart-beta
     title "BingyaoHuang/CompenNet-plusplus 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-22 28 → 2026-11-24 28（+0）
+2026-10-23 28 → 2026-11-25 28（+0）
 
 
 ---

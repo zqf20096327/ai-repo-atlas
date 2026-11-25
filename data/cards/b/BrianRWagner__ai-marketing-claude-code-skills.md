@@ -2,9 +2,9 @@
 
 ⭐ 461 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/BrianRWagner/ai-marketing-claude-code-skills) · [官网](https://www.brianrwagner.com/) · 个人维护
 
-**面向 Claude Code 的营销技能包：定位/内容/外联等 19 个免费技能**
+**营销类 Agent 技能包：让 Claude Code 等执行 20 个营销框架**
 
-由个人维护者打包的营销方法论技能集：以 SKILL.md 格式将定位、LinkedIn 内容、冷外联、案例研究、社媒变体生成等 19 个免费技能分发给 AI 编码 agent 加载执行，全部支持 quick|standard|deep 三档执行模式。提供安装脚本，自动检测并安装到 Claude Code、OpenClaw、Cursor、Windsurf 等平台对应目录；每个技能提供 Claude Code 完整版与 OpenClaw 精简版双文件。另有 7 个付费技能在 Gumroad 发售。
+将 20 个营销技能以 SKILL.md 格式打包，覆盖定位、内容、竞品分析、转化与运营五类；每个技能提供框架、提问清单与输出格式，支持 quick/standard/deep 三种执行模式。主要面向 Claude Code 原生使用，并通过脚本与格式转换支持 Cursor、Windsurf、Codex、Copilot 等平台，所有技能为纯 markdown 指令。MIT 许可，作者自述有 15 年以上营销系统经验。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@
 
 ## 能力要点
 
-- 19 个免费技能覆盖定位、内容、研究、转化、生产力五类营销场景
-- quick|standard|deep 三档执行模式，无需额外提示
-- 安装脚本自动检测 Claude Code/OpenClaw/Cursor/Windsurf 并路由对应格式文件
-- ChatGPT/Claude.ai 可通过手动粘贴 SKILL.md 使用
+- 20 个技能按 Strategy/Content/Research/Conversion/Operations 五类组织
+- 全部技能支持 quick|standard|deep 三种执行模式
+- install.sh 自动检测 Claude Code/Cursor/Windsurf，支持 dry-run
+- SKILL.md 纯 markdown 格式，可粘贴到任意助手
 
 ## 适用场景
 
-- 让 Claude Code 在对话中自动套用营销框架完成定位或内容任务
-- 把营销专业知识作为技能分发给团队的 AI agent
-- 审计品牌在 ChatGPT/Perplexity 等 AI 搜索中的可见性
+- 让编码 agent 按框架做品牌定位与竞品分析
+- 生成与改写符合个人语气的社交媒体内容
+- 为 ChatGPT 等搜索场景做品牌可发现性审计
 
 ## 场景标签
 
-`AI 写作` `提示工程` · 领域:Agent 开发
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L17: Agent Skills are an open standard for packaging expertise as instructions that AI agents can follow.
-> L23: Think of it like giving Claude Code a playbook written by an expert. Instead of prompting from scratch every time, 
+> L5: Not guides. Not courses. *Skills* — packaged expertise your AI coding agent loads and follows.
+> L21: Agent Skills are an open standard for packaging expertise as instructions that AI agents can follow.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "BrianRWagner/ai-marketing-claude-code-skills 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25"]
     y-axis "stars" 444 --> 462
     line [445, 447, 448, 449, 450, 445, 452, 455, 454, 456, 457, 458, 460, 461, 461]
 ```
 
-2026-10-22 445 → 2026-11-24 461（+16）
+2026-10-23 445 → 2026-11-25 461（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fae13ffbc899` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `314709683895` · [字段定义](../../DATASET.md)*

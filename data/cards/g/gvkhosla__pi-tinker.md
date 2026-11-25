@@ -45,12 +45,12 @@ Pi 编辑器的扩展包（pi-package），封装 Tinker 与 Tinker Cookbook 的
 ```mermaid
 xychart-beta
     title "gvkhosla/pi-tinker 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-21 25 → 2026-11-24 25（+0）
+2026-10-23 25 → 2026-11-25 25（+0）
 
 
 ---

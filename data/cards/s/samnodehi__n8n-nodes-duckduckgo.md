@@ -46,12 +46,12 @@ TypeScript 编写的 n8n 社区节点，通过 DuckDuckGo 公共搜索端点提�
 ```mermaid
 xychart-beta
     title "samnodehi/n8n-nodes-duckduckgo 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-22 19 → 2026-11-24 19（+0）
+2026-10-23 19 → 2026-11-25 19（+0）
 
 
 ---

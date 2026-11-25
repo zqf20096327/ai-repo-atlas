@@ -45,12 +45,12 @@ superloglabs 维护的 agent 技能集合，包含主技能 superlog-onboard 与
 ```mermaid
 xychart-beta
     title "superloglabs/skills 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-22 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

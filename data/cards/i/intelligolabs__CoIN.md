@@ -45,12 +45,12 @@ ICCV 2025 论文 'Collaborative Instance Object Navigation' 的官方代码库�
 ```mermaid
 xychart-beta
     title "intelligolabs/CoIN 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-21 33 → 2026-11-24 33（+0）
+2026-10-23 33 → 2026-11-25 33（+0）
 
 
 ---

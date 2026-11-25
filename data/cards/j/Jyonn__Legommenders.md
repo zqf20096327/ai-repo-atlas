@@ -46,12 +46,12 @@ TheWebConf'25 论文 Legommenders 的官方配套库，采用模块化分层架�
 ```mermaid
 xychart-beta
     title "Jyonn/Legommenders 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-24"]
+    x-axis ["2026-11-22", "2026-11-25"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-11-22 34 → 2026-11-24 34（+0）
+2026-11-22 34 → 2026-11-25 34（+0）
 
 
 ---

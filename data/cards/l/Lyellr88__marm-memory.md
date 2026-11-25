@@ -2,9 +2,9 @@
 
 ⭐ 437 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Lyellr88/marm-memory) · [官网](https://lyellr88.github.io/marm-memory) · 个人维护
 
-**本地优先的 AI agent 记忆层与 MCP 服务器：跨会话持久记忆**
+**本地优先的 AI Agent 记忆层与 MCP 服务器，跨会话保存上下文**
 
-面向 AI 编程 agent 的本地记忆服务器，以 MCP 协议（HTTP/STDIO）接入 Claude Code、Codex、Cursor、VS Code 等 14 类客户端。三层能力：Core Memory 存储/检索会话与笔记，Code Graph 通过仓库索引提供符号查找与影响分析，Concept Graph 从记忆中抽取实体关系并回链代码。数据存于本地 SQLite（WAL 模式），检索采用 FTS 预过滤+语义/BM25/时间混合重排，默认整合关闭。附 Web Console 与 CLI，支持 Docker 与多 agent swarm 配置。
+以 SQLite 为存储的本地记忆服务器，通过 MCP 协议为多种编码 Agent 提供跨会话共享记忆。包含三组共 16 个工具：核心记忆（会话/笔记/摘要）、代码图（仓库索引与符号追踪）与概念图（实体关系抽取）。支持 HTTP 与 STDIO 两种传输，提供 swarm/swarm-max/trusted 多 Agent 共享配置，附带无需 Node.js 的本地 Web 控制台。检索采用 FTS 预过滤加语义/BM25/时间混合重排。维护者声明目前处于短暂暂停开发状态。
 
 ## 筛选速览
 
@@ -13,45 +13,46 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 8+6+2 共 16 个 MCP 工具，HTTP/STDIO 双传输
-- SQLite 本地存储，FTS 预过滤+混合重排召回，基准数据公开
-- 仓库索引生成 Code Graph，支持符号查找、调用追踪与影响分析
-- 内置 Web Console（无需 Node.js）与 swarm/swarm-max/trusted 运行配置
+- 16 个 MCP 工具：核心记忆、代码图与概念图，HTTP/STDIO 双传输
+- 检索用 FTS 关键词预过滤加语义+BM25+时间混合重排
+- 多 Agent 共享记忆配置（swarm/swarm-max/trusted profile）
+- 内置本地 Web 控制台，无需 Node.js
 
 ## 适用场景
 
-- 让编程 agent 跨会话、跨客户端保留项目决策与研究上下文
-- 多个 agent 共享同一份本地记忆协同工作
-- 通过概念图谱回溯某决策相关的人物、错误与代码位置
+- 让 Claude Code、Codex 等 Agent 跨会话保留项目决策与历史
+- 多个 Agent 共享同一份本地记忆协同工作
+- 为 Agent 提供仓库索引后的代码结构查询
 
 ## 场景标签
 
-`Agent 记忆` `多智能体` `知识图谱` · 领域:Agent 开发
+`Agent 记忆` `知识图谱` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L20: marm-memory MCP server
-> L58: |**Solo developer / researcher**|`marm-memory start`|`"agent" mcp add --transport http marm-memory http://localhost
+> L73: marm-memory gives your agents a private, shared memory for the context that normally gets lost between chats: decis
+> L81: All 16 tools work over HTTP and STDIO. Your agents share the same local memory across sessions instead of starting 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Lyellr88/marm-memory 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25"]
     y-axis "stars" 421 --> 439
     line [422, 424, 426, 427, 422, 434, 437, 438, 437, 437]
 ```
 
-2026-10-22 422 → 2026-11-24 437（+15）
+2026-10-23 422 → 2026-11-25 437（+15）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `a73ef56e76b7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b0b060ca8537` · [字段定义](../../DATASET.md)*

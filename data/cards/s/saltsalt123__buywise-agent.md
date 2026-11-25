@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "saltsalt123/buywise-agent 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 116 --> 121
-    line [120, 117, 117]
+    title "saltsalt123/buywise-agent 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 116 --> 118
+    line [117, 117]
 ```
 
-2026-10-22 120 → 2026-11-24 117（-3）
+2026-10-23 117 → 2026-11-25 117（+0）
 
 
 ---

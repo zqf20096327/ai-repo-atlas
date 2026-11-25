@@ -46,12 +46,12 @@ noracu 是一个本地运行的 MCP 服务器，向 Claude Desktop、Claude Code
 ```mermaid
 xychart-beta
     title "sgInnora/noracu 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-24"]
+    x-axis ["2026-11-08", "2026-11-25"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-24 4（+0）
+2026-11-08 4 → 2026-11-25 4（+0）
 
 
 ---

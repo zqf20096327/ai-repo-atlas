@@ -2,9 +2,9 @@
 
 ⭐ 829 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/hyperflare-inference) · 组织维护
 
-**面向 NVIDIA SM120/SM121 GPU 的本地推理服务器，服务长对话与编码 agent**
+**面向 NVIDIA SM120/121 GPU 的本地推理服务器**
 
-Hyperflare 是运行于 NVIDIA SM120/SM121 GPU（如 DGX Spark 工作站）的本地推理服务器，面向长对话、编码 agent 与重复工具调用场景。机制上分两阶段：Ignition 用 PyTorch/Transformers/FlashInfer 加载模型、编译前向并捕获 CUDA 图，生成运行时核心；Helios 用 Rust 运行时在不依赖 Python 的情况下提供服务。明确声明为研究原型，且不替代 vLLM 等生产推理引擎。模型覆盖范围有限，按选定模型与本地负载取舍。项目代码采用 Apache 2.0 许可。
+Hyperflare 是面向 NVIDIA SM120/SM121 GPU（如 DGX Spark 等工作站与紧凑系统）的本地推理服务器，面向长对话、编码 agent 与反复工具调用场景。构建阶段使用 PyTorch、Transformers 与 FlashInfer/b12x 加载模型、调优内核、编译前向并捕获 CUDA 图，再由 Rust 运行时 Helios 在无 Python 环境下提供服务；对话状态（含循环状态与 KV 缓存）被显式统一管理。官方模型配方位于独立仓库 local-inference-lab/hyperflare-recipes。项目自述为研究原型，代码采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Hyperflare 是运行于 NVIDIA SM120/SM121 GPU（如 DGX Spark 工作站）的�
 
 ## 能力要点
 
-- PyTorch 生态构建编译，Rust 运行时 Helios 无 Python 服务
-- 将对话状态（含循环状态与 KV 缓存）作为整体管理，支持复用/分支/恢复
-- 面向 SM120/SM121 GPU 与 DGX Spark 等紧凑系统优化内存与带宽
-- 官方声明为研究原型，非生产推理引擎替代品
+- 构建期用 PyTorch 生态编译并捕获 CUDA 图，服务期由 Rust 运行时（Helios）无 Python 提供服务
+- 显式管理对话状态（循环状态与 KV 缓存），支持复用、分支与恢复
+- 模型实现复用 PyTorch 生态，专注 SM120/SM121 硬件与选定模型
+- 提供 CLI runner 与配置指南，支持 Windows 原生开发与预构建模型核服务
 
 ## 适用场景
 
-- 在 DGX Spark 等 NVIDIA 工作站上本地运行选定模型服务编码 agent
-- 需要长对话与频繁工具调用下保持生成响应的本地部署
-- 研究 CUDA 图编译与 Rust 推理服务架构
+- 在 DGX Spark 等 SM120/121 设备上本地部署大模型推理服务
+- 为编码 agent 与反复工具调用提供长对话推理后端
+- 在本地系统中延长内存与带宽可支撑的会话规模
 
 ## 场景标签
 
@@ -39,19 +39,20 @@ Hyperflare 是运行于 NVIDIA SM120/SM121 GPU（如 DGX Spark 工作站）的�
 
 > L5: Hyperflare is a local inference server for NVIDIA SM120/SM121 GPUs, built for
 > L18:  Helios, the Rust runtime, serves that core without Python. Compilation and
+> L37: vLLM covers a much broader range of models,
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "NVIDIA/hyperflare-inference 星数(近 10 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 798 --> 829
-    line [801, 800, 803, 807, 812, 815, 821, 823, 827, 827]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 798 --> 831
+    line [801, 800, 803, 807, 812, 815, 821, 823, 827, 829]
 ```
 
-2026-11-11 801 → 2026-11-24 827（+26）
+2026-11-11 801 → 2026-11-25 829（+28）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `4413a4983636` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `65820cf69216` · [字段定义](../../DATASET.md)*

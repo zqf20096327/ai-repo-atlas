@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dev-luigi/neural-network-digits 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-11", "2026-11-24"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    title "dev-luigi/neural-network-digits 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    y-axis "stars" 41 --> 44
+    line [42, 43, 43]
 ```
 
-2026-10-22 41 → 2026-11-24 43（+2）
+2026-10-23 42 → 2026-11-25 43（+1）
 
 
 ---

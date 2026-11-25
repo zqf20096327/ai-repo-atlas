@@ -2,9 +2,9 @@
 
 ⭐ 834 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/helixml/helix) · [官网](https://helix.ml) · 组织维护
 
-**私有部署的编码 Agent 舰队平台：每 Agent 独立 GPU 桌面**
+**私有部署的多 agent 编队平台：spec 驱动并行编码**
 
-Helix 是面向团队的自托管 AI 编码 Agent 编排平台：将 Claude Code、Codex、Gemini CLI、Qwen Code 等 Agent harness 以并行舰队方式运行在自有基础设施上，每个 Agent 获得独立 GPU 加速沙箱桌面（浏览器、终端、GUI 应用），通过规格驱动的看板管理 Backlog 到 PR 的任务流。附带完整私有 GenAI 栈：RAG、MCP 工具、追踪观测、多租户 OIDC、计量计费。支持 Docker 安装器与 Kubernetes Helm 部署；许可证类似 Docker Desktop，大企业商用需购买许可。
+Helix 是一个可私有部署（含完全离线）的编码 agent 编队平台：用户以 spec 任务描述目标，planning agent 读仓库生成规格书并接受人工审批，实现 agent 在各自隔离的 GPU 加速桌面沙箱中编码并提交 PR，任务通过 Kanban 板协作流转。支持 Claude Code、Codex、Gemini CLI 等多种 agent harness 与自托管 vLLM 等模型后端，附带 RAG、MCP、可观测性、多租户 SSO 与计费模块。许可对个人/教育/小企业免费，大型商用需购买许可。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Helix 是面向团队的自托管 AI 编码 Agent 编排平台：将 Claude Code
 
 ## 能力要点
 
-- 每个 Agent 独立 GPU 加速沙箱桌面，任务并行运行
-- 规格任务看板：规划→审核→实施→PR 全流程
-- 支持多 Agent harness 与自托管 OpenAI 兼容端点（含 vLLM），可中途切换
-- 内置 RAG、追踪观测、多租户与计费计量
+- 每个 agent 独立 GPU 加速桌面沙箱，可实时观看与中途接管
+- spec 任务流程：规划→审批→实现→PR→合并的 Kanban 流转
+- 可挂接任意 OpenAI 兼容端点（含 vLLM），支持离线部署
+- 附带 RAG、MCP 兼容、tracing、多租户 SSO 与计费模块
 
 ## 适用场景
 
-- 团队在自有服务器上并行运行多个编码 Agent 并审阅 PR
-- 按规格描述驱动 Agent 完成代码变更
-- 私有化、可气隙隔离的全栈 GenAI 部署
+- 团队并行派发多个编码任务并通过 PR 统一评审
+- 在自己的 GPU/Kubernetes 上离线运行 agent 编队
+- 按任务切换 agent harness 与模型以控制成本
 
 ## 场景标签
 
-`编码 Agent` `多智能体` `RAG` · 领域:Agent 开发
+`编码 Agent` `多智能体` `RAG` `LLM 可观测性` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L16: Helix runs those agents as a **fleet** — many in parallel, each in its own isolated sandbox with a full desktop (br
-> L18: It runs with the agent harnesses you already use (Claude Code, Codex, Gemini CLI, Qwen Code, or any ACP-compatible 
-> L73: Helix is a full private GenAI stack, so the pieces you'd expect are here too:
+> L69: - **Self-hosted models** — attach any OpenAI-compatible endpoint as an external provider. This includes **vLLM**: p
+> L107: ### Install on Kubernetes
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "helixml/helix 星数(近 13 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
     y-axis "stars" 821 --> 835
     line [822, 823, 824, 825, 823, 829, 831, 832, 833, 834, 833, 834, 834]
 ```
 
-2026-10-22 822 → 2026-11-24 834（+12）
+2026-10-23 822 → 2026-11-25 834（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f46f5a086f7e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d5585ec3a15b` · [字段定义](../../DATASET.md)*

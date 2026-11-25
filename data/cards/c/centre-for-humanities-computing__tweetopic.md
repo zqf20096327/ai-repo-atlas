@@ -45,12 +45,12 @@ Python 实现的 Dirichlet 多项式混合（DMM，即 GSDMM）主题建模库�
 ```mermaid
 xychart-beta
     title "centre-for-humanities-computing/tweetopic 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-22 37 → 2026-11-24 37（+0）
+2026-10-23 37 → 2026-11-25 37（+0）
 
 
 ---

@@ -45,12 +45,12 @@ ICASSP 2022 论文 Neural HMMs are all you need (for high-quality attention-free
 ```mermaid
 xychart-beta
     title "shivammehta25/Neural-HMM 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 163 --> 165
     line [164, 164]
 ```
 
-2026-10-22 164 → 2026-11-24 164（+0）
+2026-10-23 164 → 2026-11-25 164（+0）
 
 
 ---

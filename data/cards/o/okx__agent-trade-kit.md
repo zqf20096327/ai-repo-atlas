@@ -2,15 +2,15 @@
 
 ⭐ 518 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/okx/agent-trade-kit) · 组织维护 · 中文 README
 
-**让 AI 代理经 MCP 直接交易 OKX 的工具包（MCP server + CLI）**
+**给 AI agent 接入 OKX 交易所的 MCP server 与 CLI 工具包**
 
-OKX 官方维护的交易工具包，含两个独立包：okx-trade-mcp（MCP server，供 Claude Desktop、Cursor 及任何 MCP 兼容客户端调用）与 okx-trade-cli（终端操作 OKX 的命令行工具）。共 170 个工具、11 个模块，覆盖行情（含 70+ 技术指标）、现货/永续/交割/期权下单、算法订单、账户、理财、网格与 DCA 机器人、事件合约、新闻与聪明钱分析。以本地 stdio 进程运行，API key 仅存本机；提供 --read-only、模块过滤与限流等安全控制，并附带 6 个 Agent Skills 技能文件。
+包含两个独立包：okx-trade-mcp（面向 Claude、Cursor 等 MCP 兼容客户端的 MCP server）与 okx-trade-cli（终端操作 OKX 的 CLI）。以本地 stdio 进程运行，API key 仅存本机，无需服务器或数据库。提供 170 个工具，覆盖 11 个模块：行情数据（70+ 技术指标）、现货/永续/交割/期权下单、算法单（OCO、追踪止损）、账户管理、赚币、网格/DCA/智能组合交易机器人、事件合约、新闻与聪明钱信号。支持 --read-only、按模块过滤与内置限速等安全控制，并附带预构建的 agent skill 文件。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@ OKX 官方维护的交易工具包，含两个独立包：okx-trade-mcp（MCP se
 
 ## 能力要点
 
-- 170 个工具覆盖 11 个模块的完整交易生命周期
-- 本地 stdio 进程运行，API key 不离开本机
-- --read-only、按模块过滤与内置限流等安全控制
-- 附带 6 个可即用的 Agent Skills 技能文件
+- 170 个工具覆盖 11 模块：行情、现货/合约/期权、算法单、账户、赚币、交易机器人
+- 本地 stdio 进程运行，API key 不离开本机，无需服务器或数据库
+- 安全控制：--read-only 只读模式、按模块过滤、内置限速器
+- skills/ 目录附带 6 个预构建 agent skill 文件
 
 ## 适用场景
 
-- 在 Claude/Cursor 等 AI 客户端中直接执行 OKX 交易与查询
-- 通过终端 CLI 操作 OKX 现货、合约与交易机器人
-- 让 AI 代理读取行情、技术指标与聪明钱信号做分析
+- 在 Claude Desktop 或 Cursor 中用自然语言直接下单和管理 OKX 账户
+- 用 CLI 在终端查询行情、余额并执行现货/合约交易
+- 为自建 AI agent 框架接入 OKX 交易技能文件
+- 只读模式下查询市场数据与技术指标（无需鉴权）
 
 ## 场景标签
 
@@ -37,21 +38,22 @@ OKX 官方维护的交易工具包，含两个独立包：okx-trade-mcp（MCP se
 
 ## 证据(README 行号)
 
-> L22: OKX Agent Trade Kit connects AI assistants directly to your OKX account via the Model Context Protocol. Instead of 
+> L13: OKX Agent Trade Kit — an AI-powered trading toolkit with two standalone packages:
+> L18: |`okx-trade-cli`|CLI for operating OKX from terminal|
 > L33: |**Zero infrastructure**|Local stdio process, no server or database required|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "okx/agent-trade-kit 星数(近 20 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-24"]
-    y-axis "stars" 480 --> 516
-    line [483, 484, 486, 489, 492, 491, 492, 491, 493, 495, 497, 486, 504, 507, 508, 509, 510, 511, 513, 513]
+    title "okx/agent-trade-kit 星数(近 19 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-25"]
+    y-axis "stars" 481 --> 521
+    line [484, 486, 489, 492, 491, 492, 491, 493, 495, 497, 486, 504, 507, 508, 509, 510, 511, 513, 518]
 ```
 
-2026-10-22 483 → 2026-11-24 513（+30）
+2026-10-23 484 → 2026-11-25 518（+34）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4d9334db0d0a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fa58efd4a33e` · [字段定义](../../DATASET.md)*

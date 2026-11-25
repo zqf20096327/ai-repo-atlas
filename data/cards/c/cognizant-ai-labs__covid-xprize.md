@@ -45,12 +45,12 @@ Cognizant 维护的 XPRIZE Pandemic Response Challenge 官方起步仓库：提�
 ```mermaid
 xychart-beta
     title "cognizant-ai-labs/covid-xprize 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-22 38 → 2026-11-24 38（+0）
+2026-10-23 38 → 2026-11-25 38（+0）
 
 
 ---

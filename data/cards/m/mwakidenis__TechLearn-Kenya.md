@@ -45,12 +45,12 @@ React/TypeScript/Vite 前端 + Supabase/PostgreSQL 后端的学习管理系统�
 ```mermaid
 xychart-beta
     title "mwakidenis/TechLearn-Kenya 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-22 15 → 2026-11-24 16（+1）
+2026-10-23 15 → 2026-11-25 16（+1）
 
 
 ---

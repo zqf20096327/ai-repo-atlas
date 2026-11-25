@@ -42,12 +42,12 @@ README 可见内容仅一行标题，无法验证具体功能细节。仓库描�
 ```mermaid
 xychart-beta
     title "Bosnian-frangipanni945/locally-uncensored 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-24"]
+    x-axis ["2026-11-22", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-22 10 → 2026-11-24 10（+0）
+2026-11-22 10 → 2026-11-25 10（+0）
 
 
 ---

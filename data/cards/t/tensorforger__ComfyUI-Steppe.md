@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tensorforger/ComfyUI-Steppe 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 8 --> 10
-    line [9, 9]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 8 --> 20
+    line [9, 19]
 ```
 
-2026-11-23 9 → 2026-11-24 9（+0）
+2026-11-23 9 → 2026-11-25 19（+10）
 
 
 ---

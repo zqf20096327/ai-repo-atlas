@@ -46,12 +46,12 @@ Calgacus 协议（Norelli & Bronstein, 2025）的 MLX Python 实现：给定秘�
 ```mermaid
 xychart-beta
     title "hodgesmr/calgacus-mlx 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-21 47 → 2026-11-24 47（+0）
+2026-10-23 47 → 2026-11-25 47（+0）
 
 
 ---

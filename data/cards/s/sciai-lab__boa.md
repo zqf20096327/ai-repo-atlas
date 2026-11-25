@@ -45,12 +45,12 @@ ICLR 论文 A Function-Centric Graph Neural Network Approach For Predicting Elec
 ```mermaid
 xychart-beta
     title "sciai-lab/boa 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-22 10 → 2026-11-24 11（+1）
+2026-10-23 10 → 2026-11-25 11（+1）
 
 
 ---

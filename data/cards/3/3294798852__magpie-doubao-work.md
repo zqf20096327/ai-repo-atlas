@@ -45,12 +45,12 @@ magpie-doubao-work 是 Magpie 的供应商插件，提供 doubaowork 供应商�
 ```mermaid
 xychart-beta
     title "3294798852/magpie-doubao-work 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-24"]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-25"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-13 3 → 2026-11-24 4（+1）
+2026-11-13 3 → 2026-11-25 4（+1）
 
 
 ---

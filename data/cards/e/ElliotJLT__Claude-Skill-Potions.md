@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ElliotJLT/Claude-Skill-Potions 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 60 --> 63
-    line [61, 62, 62]
+    title "ElliotJLT/Claude-Skill-Potions 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
 ```
 
-2026-10-22 61 → 2026-11-24 62（+1）
+2026-10-23 62 → 2026-11-25 62（+0）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iArunava/Neural-Style-Transfer-with-OpenCV 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-24"]
+    x-axis ["2026-11-15", "2026-11-25"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-11-15 25 → 2026-11-24 25（+0）
+2026-11-15 25 → 2026-11-25 25（+0）
 
 
 ---

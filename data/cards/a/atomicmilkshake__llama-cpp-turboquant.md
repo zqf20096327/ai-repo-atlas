@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "atomicmilkshake/llama-cpp-turboquant 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-12", "2026-11-18", "2026-11-24"]
-    y-axis "stars" 55 --> 60
-    line [56, 57, 58, 59, 59]
+    title "atomicmilkshake/llama-cpp-turboquant 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-12", "2026-11-18", "2026-11-25"]
+    y-axis "stars" 56 --> 60
+    line [57, 58, 59, 59]
 ```
 
-2026-10-21 56 → 2026-11-24 59（+3）
+2026-10-23 57 → 2026-11-25 59（+2）
 
 
 ---

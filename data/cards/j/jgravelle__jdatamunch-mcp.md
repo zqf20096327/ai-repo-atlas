@@ -46,12 +46,12 @@ jDataMunch 是一个 stdio MCP 服务器，供 Claude Code、Cursor 等 MCP 客�
 ```mermaid
 xychart-beta
     title "jgravelle/jdatamunch-mcp 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 81 --> 84
     line [82, 83, 83]
 ```
 
-2026-10-21 82 → 2026-11-24 83（+1）
+2026-10-23 82 → 2026-11-25 83（+1）
 
 
 ---

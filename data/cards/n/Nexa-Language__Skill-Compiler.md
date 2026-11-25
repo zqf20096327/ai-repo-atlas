@@ -46,12 +46,12 @@ SkCC 是用 Rust 实现的 LLM Agent 技能编译框架：通过 Syntax Parser �
 ```mermaid
 xychart-beta
     title "Nexa-Language/Skill-Compiler 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-16", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-22 24 → 2026-11-24 25（+1）
+2026-10-23 24 → 2026-11-25 25（+1）
 
 
 ---

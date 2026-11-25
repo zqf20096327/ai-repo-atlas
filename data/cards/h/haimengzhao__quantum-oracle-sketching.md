@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haimengzhao/quantum-oracle-sketching 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 114 --> 117
-    line [115, 116, 116]
+    title "haimengzhao/quantum-oracle-sketching 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 115 --> 117
+    line [116, 116]
 ```
 
-2026-10-22 115 → 2026-11-24 116（+1）
+2026-10-23 116 → 2026-11-25 116（+0）
 
 
 ---

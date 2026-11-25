@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "realMoana/awesome-time-series-explanation-papers 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-21 41 → 2026-11-24 41（+0）
+2026-10-23 41 → 2026-11-25 41（+0）
 
 
 ---

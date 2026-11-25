@@ -1,10 +1,10 @@
 # agent-sh/agnix
 
-⭐ 494 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agent-sh/agnix) · 个人维护
+⭐ 494 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agent-sh/agnix) · 组织维护
 
-**AI 编程助手配置文件的 linter 与 LSP，校验并自动修复**
+**为 AI 编码助手配置文件提供校验与修复的 linter/LSP**
 
-面向使用 AI 编程助手的开发者的配置校验工具：以 702 条规则校验 CLAUDE.md、AGENTS.md、SKILL.md、hooks、MCP 配置等 agent 文件，覆盖 Claude Code、Codex CLI、Cursor、GitHub Copilot、Kiro 等 12 类工具的配置格式，支持 --fix 安全自动修复。以 Rust workspace 实现，提供 CLI、LSP、MCP server 与 WASM 绑定，附 VS Code/JetBrains/Neovim/Zed 编辑器插件与 GitHub Action。npx 或 npm 全局安装即可运行。
+agnix 是针对 AI 编码助手配置的静态校验工具：对 CLAUDE.md、AGENTS.md、SKILL.md、hooks、MCP 等配置文件执行 763 条规则校验，并支持自动修复。支持 Claude Code、Codex CLI、Cursor、Copilot 等多工具的不同配置格式，提供 npm 安装、预编译二进制，以及 VS Code/JetBrains/Neovim/Zed 编辑器扩展与 GitHub Action。以 Rust 实现，含 CLI、LSP、MCP server 与 WASM 绑定。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 702 条规则校验 12 类 AI 编程工具的配置文件（CLAUDE.md/SKILL.md/hooks/MCP 等）
-- 提供 --fix 与 --fix-safe 自动修复模式
-- 提供 CLI、LSP、MCP server、WASM 绑定四种形态
-- VS Code/JetBrains/Neovim/Zed 编辑器插件与 GitHub Action
+- 763 条规则校验 CLAUDE.md、AGENTS.md、SKILL.md、hooks、MCP 等配置文件
+- 支持 14 种工具的配置格式校验，含分级维护优先级
+- 提供 CLI 自动修复、LSP、MCP server 与 WASM 浏览器集成
+- VS Code、JetBrains、Neovim、Zed 编辑器扩展与 GitHub Action
 
 ## 适用场景
 
-- 在提交前发现 AI 助手配置文件的语法错误，避免技能静默失效
-- 多工具混用（Cursor + Claude Code + Copilot）时校验配置兼容性
-- CI 中用 GitHub Action 持续校验 agent 配置
+- 在提交前校验 AI 助手配置文件，避免工具静默忽略配置
+- 在多工具（Cursor + Claude Code + Copilot）混用时统一校验各格式
+- 通过 GitHub Action 在 CI 中校验仓库内 agent 配置
+- 为编辑器接入 LSP 实时诊断 agent 配置
 
 ## 场景标签
 
- · 领域:开发工具/Agent 配置校验
+ · 领域:开发者工具/代码质量
 
 ## 证据(README 行号)
 
-> L14:  Catch broken agent configs before your AI tools silently ignore them. 702 rules across Claude Code, Codex CLI, Ope
-> L36: agnix validates all of it - 702 rules sourced from official specs, academic research, and real-world breakage patte
-> L97: |Tool|Rules|Count|Config Files|
+> L18:  Catch broken agent configs before your AI tools silently ignore them. 763 rules across Claude Code, Codex CLI, Ope
+> L140: - `agnix-lsp` - language server binary
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "agent-sh/agnix 星数(近 20 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 453 --> 497
-    line [456, 457, 458, 461, 462, 464, 457, 473, 477, 478, 479, 483, 484, 485, 487, 490, 491, 493, 494, 494]
+    title "agent-sh/agnix 星数(近 19 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 454 --> 497
+    line [457, 458, 461, 462, 464, 457, 473, 477, 478, 479, 483, 484, 485, 487, 490, 491, 493, 494, 494]
 ```
 
-2026-10-22 456 → 2026-11-24 494（+38）
+2026-10-23 457 → 2026-11-25 494（+37）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2bf1984ec234` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `03ebade27720` · [字段定义](../../DATASET.md)*

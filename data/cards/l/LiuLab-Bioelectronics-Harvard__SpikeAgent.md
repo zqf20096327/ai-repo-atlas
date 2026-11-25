@@ -44,12 +44,12 @@ SpikeAgent 是面向神经科学研究的 LLM 驱动 agent，用于自动化和�
 ```mermaid
 xychart-beta
     title "LiuLab-Bioelectronics-Harvard/SpikeAgent 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-22 62 → 2026-11-24 62（+0）
+2026-10-23 62 → 2026-11-25 62（+0）
 
 
 ---

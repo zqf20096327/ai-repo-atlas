@@ -2,9 +2,9 @@
 
 ⭐ 4,454 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/SkillEvaluator) · [官网](https://docs.nvidia.com/skills/skillevaluator/) · 组织维护
 
-**给 AI agent 技能与插件做质量/安全/效果评测的 CLI 框架**
+**评估 AI agent 技能与插件质量的 CLI 与 CI 框架**
 
-NVIDIA 出品的评测框架，按三层流水线检查 agent 技能：Tier 1 静态验证（500+ 规则，覆盖质量、schema、PII、许可、安全扫描，接入 SkillSpector/Gitleaks/Bandit/Semgrep/pip-audit）与 harness 兼容性检查；Tier 2 用嵌入与聊天做语义去重/重叠检测；Tier 3 在 Docker 沙箱中用 Harbor 运行真实 agent，对比有/无技能的任务结果以度量技能增益。Tier 1 无需 API key；全层需 NVIDIA Build 密钥。提供 GitHub/GitLab 可复用 CI 模板。
+NVIDIA 出品的命令行工具与可复用 CI 模板集合，用于检查遵循 Agent Skills 规范的技能文件夹：Tier 1 静态验证（质量评分、模式/版本/PII/许可证/脚本检查、SkillSpector/Gitleaks/Bandit 等安全扫描、harness 兼容性检查）、Tier 2 语义重叠去重、Tier 3 沙箱内实测技能对 agent 行为的影响。静态检查无需 LLM key，全量运行需 NVIDIA Build key 与 Docker。通过 pip 或 uv 安装，支持 GitHub/GitLab CI 集成。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ NVIDIA 出品的评测框架，按三层流水线检查 agent 技能：Tier 1 �
 
 ## 能力要点
 
-- 三层流水线：静态验证、语义去重、live agent 效果评测（skill lift）
-- 500+ 静态规则与检测模式，Tier 1 无需 API key/GPU/Docker
-- Harness Check 判定技能能否被 claude-code、codex 等 agent 加载
-- GitHub/GitLab 可复用 CI 模板与 skillevaluator ci init 一键接入
+- 500+ 静态规则的三层评估：验证、去重、live agent 实测
+- harness 兼容性检查判断 Claude Code/Codex 等能否加载技能
+- CI 模板自动生成质量与安全门禁（GitHub/GitLab）
+- 静态检查无需 LLM key、GPU 或 Docker
 
 ## 适用场景
 
-- 合并技能 PR 前用 CI 质量门禁拦截质量与安全问题
-- 检测多个技能文件之间的重复或重叠指引
-- 上线前用真实 agent 运行验证技能是否带来任务提升
+- 技能合并前在 CI 中拦截质量与安全问题
+- 检测技能在 agent 间是否存在重复或语义重叠
+- 评估某技能对 agent 任务结果的增益
 
 ## 场景标签
 
-`模型评测` `代码审查` · 领域:编码与开发
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L17: SkillEvaluator checks AI agent skills and plugins, and measures a skill's effect
-> L26: Agent Skills specification. SkillEvaluator is part of
-> L207: |Tier 1: Validation|Is the skill safe, well-formed and harness-compatible?|`skillevaluator tier1 ./my-skill --no-l
+> L109: `skillevaluator validate` includes Harness Check in Tier 1 alongside **quality,
+> L210: |Tier 3: Live Agent Evaluation|Does the skill help the agent?|`skillevaluator tier3 ./my-skill`|Provider access, a
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/SkillEvaluator 星数(近 28 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 197 --> 4765
-    line [577, 587, 590, 593, 595, 597, 600, 606, 609, 612, 616, 617, 618, 595, 657, 683, 830, 1110, 1222, 1549, 2662, 3323, 3679, 4110, 4260, 4324, 4385, 4385]
+    title "NVIDIA/SkillEvaluator 星数(近 27 点)"
+    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 201 --> 4840
+    line [587, 590, 593, 595, 597, 600, 606, 609, 612, 616, 617, 618, 595, 657, 683, 830, 1110, 1222, 1549, 2662, 3323, 3679, 4110, 4260, 4324, 4385, 4454]
 ```
 
-2026-10-21 577 → 2026-11-24 4,385（+3,808）
+2026-10-22 587 → 2026-11-25 4,454（+3,867）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `3b30fe7a4ace` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b7b6349e9ab1` · [字段定义](../../DATASET.md)*

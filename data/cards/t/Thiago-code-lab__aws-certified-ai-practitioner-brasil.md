@@ -2,9 +2,9 @@
 
 ⭐ 464 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil) · [官网](https://www.cloudstudy.com.br/) · 个人维护
 
-**PT-BR 的 AWS AI Practitioner (AIF-C01) 认证备考知识库**
+**备考 AWS AI Practitioner (AIF-C01) 的葡语开源学习资源库**
 
-面向巴西葡语使用者的 AWS AI Practitioner (AIF-C01) 认证开源学习资料库：将 IA/ML 基础、生成式 AI、Amazon Bedrock、SageMaker、负责任 AI 与安全合规等内容组织为 18 个渐进式学习模块，附模拟题、术语表、cheatsheets、flashcards 与引导实验。内容以 Markdown 阅读为主，无代码安装；仓库关联 CloudStudy 平台候补名单、Udemy 课程与 WhatsApp 群组。
+该仓库以模块化目录组织 AWS AI Practitioner (AIF-C01) 考试的阅读材料：18 个模块覆盖 AI/ML 基础、生成式 AI 与 LLM、Amazon Bedrock 与 SageMaker 等服务、负责任 AI 与安全治理、数据与提示工程、案例与模拟题，并附闪卡、速查表与词汇表。面向备考 AIF-C01 的葡语初学者，MIT 许可，另有 CloudStudy App 与 Udemy 课程引流，仓库本身为纯文本学习内容，不含可运行的软件。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 18 个模块覆盖 AIF-C01 考纲（基础→Bedrock/SageMaker→治理→模拟题）
-- PT-BR 葡语内容、MIT 许可开源
-- 附模拟题、术语表、cheatsheets、flashcards 与引导实验
+- 18 个模块按学习路线组织 AIF-C01 考试范围
+- 含模拟题、闪卡、速查表与词汇表等复习资源
+- MIT 许可、PT-BR 内容的开源学习资料
 
 ## 适用场景
 
-- 我想系统备考 AWS AI Practitioner (AIF-C01) 认证
-- 用葡语资料理解 AWS 上 Bedrock/SageMaker 等 AI 服务概念
-- 考前用模拟题和 flashcards 快速复习
+- 备考 AWS AI Practitioner (AIF-C01) 认证
+- 按模块循序渐进学习 AWS 上的 AI/ML 基础
+- 用闪卡与模拟题做考前复习
 
 ## 场景标签
 
@@ -36,21 +36,22 @@
 
 ## 证据(README 行号)
 
-> L59: Este repositório organiza os fundamentos de IA e IA generativa na AWS em módulos objetivos, com foco em leitura pro
-> L61: |Bloco|O que você encontra|
+> L55:  Base open source em PT-BR para fundamentos de IA na AWS com navegação premium e trilha de evolução.
+> L68: Este repositório organiza os fundamentos de IA e IA generativa na AWS em módulos objetivos, com foco em leitura pro
+> L85: ## Módulos
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Thiago-code-lab/aws-certified-ai-practitioner-brasil 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 461 --> 465
     line [464, 463, 464, 463, 464, 462, 463, 464, 464]
 ```
 
-2026-10-22 464 → 2026-11-24 464（+0）
+2026-10-23 464 → 2026-11-25 464（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4fa420390001` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b9e0677e8e31` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ AWS build-on-aws 的示例工程：通过 AWS CDK 一条命令部署 Amazon Bedr
 ```mermaid
 xychart-beta
     title "build-on-aws/bedrock-agent-appointment-manager-dynamodb 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-21 12 → 2026-11-24 12（+0）
+2026-10-23 12 → 2026-11-25 12（+0）
 
 
 ---

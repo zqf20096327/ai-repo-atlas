@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thiswillbeyourgithub/AnnA_Anki_neuronal_Appendix 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 71 --> 73
     line [72, 72]
 ```
 
-2026-10-22 72 → 2026-11-24 72（+0）
+2026-10-23 72 → 2026-11-25 72（+0）
 
 
 ---

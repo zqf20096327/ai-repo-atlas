@@ -46,12 +46,12 @@ LASSI 用大语言模型在 CUDA 与 OpenMP GPU offload 两种编程模型之间
 ```mermaid
 xychart-beta
     title "SPEAR-UIC/LASSI 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-24"]
+    x-axis ["2026-11-16", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-16 13 → 2026-11-24 13（+0）
+2026-11-16 13 → 2026-11-25 13（+0）
 
 
 ---

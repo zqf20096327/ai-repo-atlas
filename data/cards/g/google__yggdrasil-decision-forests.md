@@ -44,13 +44,13 @@ YDF（Yggdrasil Decision Forests）是 Google 开发的决策森林机器学习�
 
 ```mermaid
 xychart-beta
-    title "google/yggdrasil-decision-forests 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 675 --> 681
-    line [676, 677, 678, 680, 680]
+    title "google/yggdrasil-decision-forests 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 676 --> 682
+    line [677, 678, 680, 681]
 ```
 
-2026-10-22 676 → 2026-11-24 680（+4）
+2026-10-23 677 → 2026-11-25 681（+4）
 
 
 ---

@@ -46,12 +46,12 @@ OpenNVR 的模型侧集成层：定义 AI Adapter Contract v1 线协议（六个
 ```mermaid
 xychart-beta
     title "open-nvr/ai-adapter 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-23 10 → 2026-11-24 10（+0）
+2026-11-23 10 → 2026-11-25 10（+0）
 
 
 ---

@@ -46,12 +46,12 @@ FSE 2025 论文 AlphaTrans 的 artifact 仓库：神经符号组合式方法将 
 ```mermaid
 xychart-beta
     title "Intelligent-CAT-Lab/AlphaTrans 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-22 38 → 2026-11-24 38（+0）
+2026-10-23 38 → 2026-11-25 38（+0）
 
 
 ---

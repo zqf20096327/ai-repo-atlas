@@ -45,12 +45,12 @@ Clojure(Script) 库，将 bash/POSIX shell 源码解析为结构化 AST，按 al
 ```mermaid
 xychart-beta
     title "replikativ/muschel 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-21 21 → 2026-11-24 22（+1）
+2026-10-23 21 → 2026-11-25 22（+1）
 
 
 ---

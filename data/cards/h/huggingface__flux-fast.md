@@ -44,13 +44,13 @@ Hugging Face 维护的 Flux.1（Schnell/Dev/Kontext Dev）推理加速配方仓�
 
 ```mermaid
 xychart-beta
-    title "huggingface/flux-fast 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 172 --> 175
-    line [173, 174, 174]
+    title "huggingface/flux-fast 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 173 --> 175
+    line [174, 174]
 ```
 
-2026-10-22 173 → 2026-11-24 174（+1）
+2026-10-23 174 → 2026-11-25 174（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 557 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PetoiCamp/OpenCatEsp32-Quadruped-Robot) · [官网](https://www.petoi.com) · 组织维护
 
-**ESP32 四足机器宠物的开源框架，面向教育、研究与DIY**
+**面向 STEM 教育与机器狗研究的 ESP32 四足机器人开源框架**
 
-Petoi 维护的 OpenCat 四足机器人框架在 ESP32/BiBoard 上的代码库：BiBoard 控制板支持最多 12 舵机、双核 240 MHz、内置 Wi-Fi/蓝牙，兼容 Arduino IDE。用于 Bittle X（机器狗）与 Nybble Q（机器猫）硬件，旧 NyBoard 已停产。README 记录社区在视觉应用、树莓派机器人、ROS/SLAM、NVIDIA Isaac 仿真与强化学习、sim2real 等方向的使用，并覆盖 K-12 到大学实验室的 AI 机器人教育场景。另宣布 2026 年 9 月在 Kickstarter 上线 4 舵机新四足 Quaddle，其源码暂未公开。
+Petoi 开发的四足机器人宠物固件框架，运行于 ESP32 开发板 BiBoard，支持最多 12 路舵机的多自由度腿式机器人；官方硬件包括 Bittle X 机器狗与 Nybble Q 机器猫套件，均带语音控制。支持 Arduino IDE 烧录与图形化积木编程，可用于步态研究、强化学习与 sim2real 实验、ROS/树莓派扩展、K-12 到大学实验室的机器人教学。旧 NyBoard（ATmega328P）版本已停售，新机型 Quaddle 源码尚未公开。
 
 ## 筛选速览
 
@@ -16,21 +16,20 @@ Petoi 维护的 OpenCat 四足机器人框架在 ESP32/BiBoard 上的代码库�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- BiBoard（ESP32 双核 240 MHz）支持最多 12 舵机的 12 自由度构型
-- 提供 Arduino IDE（ESP32 Dev Module）完整烧录配置表
-- 同一平台支持步态研究、强化学习与 sim2real 实验
-- 旧 NyBoard（ATmega328P）机型已停产，BiBoard 为当前平台
+- 运行于 ESP32 双核 240MHz BiBoard，支持最多 12 舵机 12-DOF 配置
+- 内置 Wi-Fi 与蓝牙，可无线控制与数据流传输
+- 兼容 Arduino IDE 工作流，软硬件均开源可 fork
+- 平台被 14 篇学术论文引用，支持步态/强化学习/sim2real 研究
 
 ## 适用场景
 
-- 在 Bittle X / Nybble Q 上做步态与强化学习研究
-- K-12 到大学的机器人与 AI 教学
-- 结合树莓派/ROS 做视觉、SLAM 等扩展项目
-- DIY 改装与 3D 打印外壳定制
+- 搭建开源四足机器人做步态与强化学习研究
+- 在 K-12 到大学课程中开展实体 AI 机器人教学
+- 配合树莓派与 ROS 做视觉、SLAM 等扩展项目
 
 ## 场景标签
 
@@ -40,20 +39,20 @@ Petoi 维护的 OpenCat 四足机器人框架在 ESP32/BiBoard 上的代码库�
 
 > L5: OpenCatESP32 runs the OpenCat quadruped robotics framework on BiBoard — an ESP32-based development board designed fo
 > L22: - Same open platform this repo already supports for gait research, reinforcement learning (RL), and sim2real work —
-> L63: If you're building an open source robot dog for research, running ROS, deploying a vision model, or just want room 
+> L92: OpenCat shows up in **AI robotics education** across K-12 programs, community colleges, university labs, and maker 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "PetoiCamp/OpenCatEsp32-Quadruped-Robot 星数(近 23 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 497 --> 562
-    line [502, 505, 508, 509, 512, 515, 517, 521, 523, 525, 526, 509, 544, 547, 549, 550, 551, 552, 553, 552, 555, 557, 557]
+    title "PetoiCamp/OpenCatEsp32-Quadruped-Robot 星数(近 22 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 500 --> 562
+    line [505, 508, 509, 512, 515, 517, 521, 523, 525, 526, 509, 544, 547, 549, 550, 551, 552, 553, 552, 555, 557, 557]
 ```
 
-2026-10-22 502 → 2026-11-24 557（+55）
+2026-10-23 505 → 2026-11-25 557（+52）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `390df26f69fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9a9376eaa90d` · [字段定义](../../DATASET.md)*

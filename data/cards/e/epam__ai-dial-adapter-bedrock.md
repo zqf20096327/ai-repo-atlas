@@ -45,12 +45,12 @@ AI DIAL 生态的适配器组件：在独立容器中运行，把 AWS Bedrock �
 ```mermaid
 xychart-beta
     title "epam/ai-dial-adapter-bedrock 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-21 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

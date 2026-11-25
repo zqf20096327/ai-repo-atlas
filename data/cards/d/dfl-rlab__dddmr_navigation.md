@@ -2,9 +2,9 @@
 
 ⭐ 608 · C++ · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/dfl-rlab/dddmr_navigation) · 组织维护
 
-**面向移动机器人的 3D 导航栈：建图/定位/感知/规划/控制**
+**面向移动机器人与四足机器人的完整 3D 导航栈**
 
-DDDMR Navigation 提供移动机器人与四足机器人（含 Unitree Go2 仿真）在三维环境中自主导航的完整软件栈：基于 LiDAR 的建图与地图精修、MCL 三维定位、三维感知（点云标记/清除）、全局与局部路径规划及 move_base 执行。设计目标是处理 Nav2 难以覆盖的多层楼面建图定位、坡道导航与立体结构规划等场景。各模块以独立 ROS 包形式提供并附文档；针对 16 线 LiDAR、Intel NUC/Jetson Orin Nano 等低成本硬件做过测试，并含多 LiDAR 安装角度的 CI/CD 测试套件。
+dddmr_navigation 提供 3D 建图、定位、感知、路径规划、控制器与导航栈的端到端方案，面向多层建筑、坡道、楼梯等 3D 环境，支持轮式与足式机器人。README 展示四足机器人在 Gazebo 与 RViz 中跨楼层与楼梯自主导航，感知层使用 YOLO + TensorRT 做楼梯分割实时推理。README 自述目标是处理多层建图定位、立体结构 3D 路径规划与 3D 点云地图中的动态感知标记。提供引用条目（@software 引用格式），可见部分未给出安装命令。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ DDDMR Navigation 提供移动机器人与四足机器人（含 Unitree Go2 仿�
 
 ## 能力要点
 
-- 多层楼面建图与定位、坡道避障等三维导航能力
-- 建图/定位/感知/全局规划/局部规划/move_base 分包提供并各有文档
-- 多 LiDAR 安装角度（俯仰/横滚/偏航）的自动化 CI/CD 测试套件
-- 在 16 线 LiDAR、Intel NUC/Jetson Orin Nano、消费级 IMU 等低成本硬件上测试
+- 覆盖 mapping/localization/perception/path planning/controller/navigation stack 的完整导航栈
+- YOLO + TensorRT 实时楼梯分割（README 展示）
+- 多层楼层建图与定位、坡道与楼梯通行
+- Gazebo 与 RViz 仿真演示
 
 ## 适用场景
 
-- 让机器人在有坡道或多层结构的工厂/建筑环境中自主导航
-- 为 Unitree Go2 等四足机器人做仿真导航测试
-- 从 2D 导航栈迁移到 3D 导航的移动平台开发
+- 让四足机器人在多层建筑中跨楼层与楼梯自主导航
+- 为轮式/足式机器人搭建 3D 建图定位与路径规划栈
+- 在 Gazebo/RViz 中复现楼梯导航演示
 
 ## 场景标签
 
@@ -37,21 +37,21 @@ DDDMR Navigation 提供移动机器人与四足机器人（含 Unitree Go2 仿�
 
 ## 证据(README 行号)
 
-> L36: DDDMR navigation (3D Mobile Robot Navigation) is a navigation stack allows users to map, localize and autonomously 
-> L28: > DDDMR Navigation Stack is designed to solve the issues that Nav2 not able to handle: such as multi-layer floor ma
+> L7:  Quadruped robot navigating across multiple floors and stairs in Gazebo & RViz with real-time YOLO + TensorRT stair 
+> L9: **`dddmr_navigation`** (3D Mobile Robot Navigation) is a complete, end-to-end 3D navigation stack engineered to conq
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "dfl-rlab/dddmr_navigation 星数(近 19 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 581 --> 610
     line [583, 584, 585, 586, 589, 591, 592, 584, 596, 599, 600, 601, 602, 603, 604, 605, 607, 608, 608]
 ```
 
-2026-10-22 583 → 2026-11-24 608（+25）
+2026-10-23 583 → 2026-11-25 608（+25）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `8d47aa0fb500` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `1652f350898c` · [字段定义](../../DATASET.md)*

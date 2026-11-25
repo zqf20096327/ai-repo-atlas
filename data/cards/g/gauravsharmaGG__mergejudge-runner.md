@@ -47,12 +47,12 @@ MIT 许可的自托管 GitHub Action 与 CLI（mergejudge-runner），将 pull r
 ```mermaid
 xychart-beta
     title "gauravsharmaGG/mergejudge-runner 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 29 --> 47
-    line [46, 35, 31, 30, 30]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 28 --> 57
+    line [46, 35, 31, 30, 55]
 ```
 
-2026-11-08 46 → 2026-11-24 30（-16）
+2026-11-08 46 → 2026-11-25 55（+9）
 
 
 ---

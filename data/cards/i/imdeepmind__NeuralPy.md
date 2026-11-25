@@ -46,12 +46,12 @@ NeuralPy 是一个纯 Python 编写的深度学习库，在 PyTorch 之上提供
 ```mermaid
 xychart-beta
     title "imdeepmind/NeuralPy 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-22 78 → 2026-11-24 78（+0）
+2026-10-23 78 → 2026-11-25 78（+0）
 
 
 ---

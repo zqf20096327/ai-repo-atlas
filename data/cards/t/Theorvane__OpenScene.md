@@ -46,12 +46,12 @@ Electron 桌面视频编辑器（另有共享同一编辑核心的 React Native 
 ```mermaid
 xychart-beta
     title "Theorvane/OpenScene 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-25"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-24 11（+0）
+2026-11-10 11 → 2026-11-25 11（+0）
 
 
 ---

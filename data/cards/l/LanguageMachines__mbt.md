@@ -43,12 +43,12 @@ MBT 是一个基于记忆的标注器生成器与标注器，由 Radboud Univers
 ```mermaid
 xychart-beta
     title "LanguageMachines/mbt 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

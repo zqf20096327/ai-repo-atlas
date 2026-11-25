@@ -2,9 +2,9 @@
 
 ⭐ 531 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/worldbench/awesome-vla-for-ad) · [官网](https://worldbench.github.io/vla4ad) · 组织维护
 
-**自动驾驶 VLA 模型综述论文配套方法清单**
+**自动驾驶 VLA/VA 模型综述论文配套的文献清单**
 
-配套 arXiv 综述论文《Vision-Language-Action Models for Autonomous Driving: Past, Present, and Future》的 awesome 清单：收录 VA 与 VLA 模型，按 Action-Only、Perception-Action、Image-Based World Models 等类别分表组织，条目含模型名、论文、发表 venue、网站与 GitHub 链接，按时间排序。综述将方法分为端到端 VLA 与双系统 VLA 两种范式，并另附 3D/4D 世界模型综述引用、项目主页与 HuggingFace Leaderboard。面向自动驾驶与具身智能研究者。
+面向自动驾驶领域的综述型清单，梳理 Vision-Action 与 Vision-Language-Action 模型的演进，将方法组织为端到端 VLA 与双系统 VLA 两大范式，并按 Action-Only、Perception-Action、图像世界模型等类别按时间顺序列出各模型及对应论文、会议、网站与 GitHub 链接。配套提供 arXiv 论文、项目页与 HuggingFace 排行榜。面向自动驾驶研究人员，供文献调研与论文引用。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@
 
 ## 能力要点
 
-- 按 Action-Only / Perception-Action / 世界模型等类别分表收录模型条目
-- 条目含模型名、论文、venue、Website 与 GitHub 链接，按时间排序
-- 综述提出 End-to-End VLA 与 Dual-System VLA 两种范式划分
-- 配套 arXiv 论文、项目主页与 HuggingFace Leaderboard
+- 综述配套 awesome 清单，按两大 VLA 范式组织
+- 按时间顺序收录 Action-Only / Perception-Action / 世界模型等类别条目
+- 提供论文、项目页与 HuggingFace 排行榜入口
 
 ## 适用场景
 
-- 查找端到端/VLA 自动驾驶方法的论文与开源代码
-- 跟踪世界模型与闭环驾驶方向的最新进展
-- 按时间线了解 VA 到 VLA 模型的演化
+- 调研自动驾驶端到端与 VLA 模型的相关文献
+- 查找某个自动驾驶模型的论文与代码链接
+- 引用该综述作为研究背景材料
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L6: # :sunglasses: Awesome VLA for Autonomous Driving
 > L10: This survey reviews **vision-action (VA)** models and **vision-language-action (VLA)** models for autonomous drivin
-> L26:     journal = {arXiv preprint arXiv:2512.16760},
+> L47: |Model|Paper|Venue|Website|GitHub|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "worldbench/awesome-vla-for-ad 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 506 --> 532
-    line [508, 514, 515, 517, 518, 520, 521, 522, 517, 524, 527, 530, 529, 530, 530]
+    title "worldbench/awesome-vla-for-ad 星数(近 14 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 513 --> 532
+    line [514, 515, 517, 518, 520, 521, 522, 517, 524, 527, 530, 529, 530, 531]
 ```
 
-2026-10-21 508 → 2026-11-24 530（+22）
+2026-10-23 514 → 2026-11-25 531（+17）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3764251c174e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `353be4c43243` · [字段定义](../../DATASET.md)*

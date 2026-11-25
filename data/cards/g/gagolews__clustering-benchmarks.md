@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gagolews/clustering-benchmarks 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-24"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-23 44 → 2026-11-24 44（+0）
+2026-10-23 44 → 2026-11-25 45（+1）
 
 
 ---

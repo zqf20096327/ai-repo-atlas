@@ -43,12 +43,12 @@ aws-samples 组织下的书籍配套代码仓库，收录《AWS生成AIアプリ
 ```mermaid
 xychart-beta
     title "aws-samples/sample-practical-generative-ai-on-aws-book 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-22 20 → 2026-11-24 20（+0）
+2026-10-23 20 → 2026-11-25 20（+0）
 
 
 ---

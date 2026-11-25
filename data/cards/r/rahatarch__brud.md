@@ -45,12 +45,12 @@ Brud OS 是一个以 npm 包 @brud/os 分发的 TypeScript 嵌入式运行时，
 ```mermaid
 xychart-beta
     title "rahatarch/brud 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-25"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-11-10 44 → 2026-11-24 44（+0）
+2026-11-10 44 → 2026-11-25 44（+0）
 
 
 ---

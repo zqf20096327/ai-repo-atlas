@@ -46,12 +46,12 @@ Hermes Agent 的 Web UI 监控面板：读取 ~/.hermes/ 数据目录与 hermes 
 ```mermaid
 xychart-beta
     title "joeynyc/hermes-hudui 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-23", "2026-11-25"]
     y-axis "stars" 1862 --> 1864
     line [1863, 1863]
 ```
 
-2026-11-23 1,863 → 2026-11-24 1,863（+0）
+2026-11-23 1,863 → 2026-11-25 1,863（+0）
 
 
 ---

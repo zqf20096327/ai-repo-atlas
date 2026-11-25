@@ -44,12 +44,12 @@ CloudCV 组织的 Google Summer of Code 项目创意集合：以 Jekyll + Bootst
 ```mermaid
 xychart-beta
     title "Cloud-CV/GSoC-Ideas 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
     y-axis "stars" 129 --> 132
     line [131, 130, 130]
 ```
 
-2026-10-22 131 → 2026-11-24 130（-1）
+2026-10-23 131 → 2026-11-25 130（-1）
 
 
 ---

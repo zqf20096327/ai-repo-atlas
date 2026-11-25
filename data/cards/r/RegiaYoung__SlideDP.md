@@ -44,13 +44,13 @@ SlideDP 是面向主机驻留模型状态的 LLM 全参数微调的同步数据�
 
 ```mermaid
 xychart-beta
-    title "RegiaYoung/SlideDP 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 19 --> 22
-    line [21, 20, 20]
+    title "RegiaYoung/SlideDP 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
 ```
 
-2026-10-21 21 → 2026-11-24 20（-1）
+2026-10-23 20 → 2026-11-25 20（+0）
 
 
 ---

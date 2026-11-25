@@ -45,12 +45,12 @@ TMLR 论文官方代码库。提出 TextBoost 单样本个性化方法：只选�
 ```mermaid
 xychart-beta
     title "nahyeonkaty/textboost 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-22 57 → 2026-11-24 57（+0）
+2026-10-23 57 → 2026-11-25 58（+1）
 
 
 ---

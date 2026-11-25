@@ -2,9 +2,9 @@
 
 ⭐ 488 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mobile-next/mobilewright) · [官网](https://mobilewright.dev) · 组织维护
 
-**iOS/Android 真机与模拟器自动化测试框架，单一 API 跨平台**
+**移动 App 自动化测试框架：iOS/Android 统一 Playwright 风格 API**
 
-TypeScript 编写的移动应用测试与自动化框架，架构参考 Playwright：提供 screen/getByRole/expect 等 Playwright 风格 API，统一驱动 iOS 与 Android 的真机、模拟器和模拟器实例，底层基于 mobilecli 的 WebSocket JSON-RPC 协议。支持自动等待、可链式定位器、轮询断言、WebView 混合应用桥接为 Playwright 兼容 Page。面向移动开发与测试人员；另声明支持 AI agent 通过读取无障碍树直接操控设备，无需视觉模型，可配合 Claude、Cursor 等 agent 使用。需 Node.js >= 22.12 与已启动的设备环境。
+基于 mobilecli 构建的移动设备自动化与端到端测试框架，通过统一 API 驱动 iOS/Android 真机、模拟器与仿真器。核心机制包括自动发现已启动设备、每步操作前等待元素可见/可用/位置稳定的 auto-waiting、可链式定位器与轮询断言；以无障碍树而非截图作为元素来源，面向 AI agent 场景暴露确定性语义接口。npm 安装，需 Node.js ≥22.12 及 Xcode/Android SDK/ADB 等环境，提供 mobilewright doctor 自检。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ TypeScript 编写的移动应用测试与自动化框架，架构参考 Playwrig
 
 ## 能力要点
 
-- Playwright 风格 API（getByRole/expect/自动等待/可链式定位器）
-- iOS/Android 真机、模拟器统一接口，零配置自动发现设备
-- WebView 混合应用桥接为 Playwright 兼容 Page
-- 暴露无障碍树供 AI agent 直接读取与操作，无需视觉模型
+- iOS/Android 真机、模拟器、仿真器的统一 API
+- 以无障碍树驱动的 AI agent 支持，无需视觉模型
+- Playwright 风格定位器与 auto-waiting 断言
+- WebView 混合应用的 Playwright 兼容 Page 桥接
 
 ## 适用场景
 
-- 用一套代码同时测试 iOS 和 Android 应用
-- 在真机与模拟器上运行端到端自动化测试
-- 让 AI agent 通过无障碍树直接操控手机执行任务
-- 远程连接设备机房进行测试（mobilecli/Mobile Next Cloud）
+- 为 iOS/Android App 编写端到端 UI 测试
+- 让 Claude/Cursor 等编码 agent 直接操控真机
+- 同一套测试脚本覆盖双平台设备实验室
 
 ## 场景标签
 
@@ -45,14 +44,14 @@ TypeScript 编写的移动应用测试与自动化框架，架构参考 Playwrig
 
 ```mermaid
 xychart-beta
-    title "mobile-next/mobilewright 星数(近 21 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 440 --> 489
-    line [444, 449, 452, 454, 456, 457, 459, 460, 452, 470, 469, 470, 471, 474, 478, 479, 480, 483, 484, 485, 485]
+    title "mobile-next/mobilewright 星数(近 20 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 446 --> 491
+    line [449, 452, 454, 456, 457, 459, 460, 452, 470, 469, 470, 471, 474, 478, 479, 480, 483, 484, 485, 488]
 ```
 
-2026-10-22 444 → 2026-11-24 485（+41）
+2026-10-23 449 → 2026-11-25 488（+39）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `87edd9b3893d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6ebf47db23cc` · [字段定义](../../DATASET.md)*

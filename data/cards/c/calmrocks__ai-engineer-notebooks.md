@@ -2,9 +2,9 @@
 
 ⭐ 758 · Jupyter Notebook · MIT · 推送 2026-11-07 · [GitHub](https://github.com/calmrocks/ai-engineer-notebooks) · [官网](https://www.calm.rocks/resources/career-development/transition-fde-ai-engineer/) · 个人维护
 
-**面向 AI Engineer/FDE 的动手 Colab 笔记本教程集**
+**面向 AI 工程师的免框架 Colab 实战教程笔记本集**
 
-一套无框架的可运行 Colab 笔记本，覆盖应用 LLM 技能栈：模型 API、结构化输出、工具调用、RAG、评测、Agent（从零写循环、工具设计、护栏、MCP、Skills）、LoRA 微调、提示注入安全、LLMOps 与推理服务性能。全程用原生 API 而非框架，默认跑在免费 Groq API 上；LoRA 微调与自托管服务等 Groq 无法托管的主题以概念讲解为主并附 Colab-GPU 可选附录（在真实 T4 上验证过）。面向转型 AI Engineer/FDE 的后端或全栈工程师，含三个端到端案例与一个简历级毕业项目。
+一组可在 Colab 直接运行的 Jupyter 笔记本，按学习顺序覆盖模型 API、结构化输出、工具调用、RAG、评测、Agent（含 MCP 与 Skills）、LoRA 微调、提示注入安全、LLMOps 与推理服务设计，共 12 个章节加 4 个案例研究与毕业项目。全程使用原始 API 而非框架编写代码，默认运行在免费 Groq API 上，OpenAI 兼容格式可迁移；GPU 相关主题（LoRA、自托管服务）以概念讲解为主并附可选 Colab GPU 附录。面向转型 AI 工程师/FDE 的后端或全栈工程师，每个笔记本自带依赖安装、Colab secrets 读密钥并以练习收尾。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 无框架设计：用原生 API 从零实现 agent 循环、RAG 与评测
-- 全流程在免费 Groq API 上运行，无需信用卡
-- LoRA 微调与自托管服务主题附 Colab-GPU 可选附录（T4 验证）
-- 三个端到端案例（生产调试、pipeline vs agent 成本对比、红队鲁棒性基准）
+- 免框架教学：agent loop、RAG、评测均用原始 API 编写
+- 全程基于免费 Groq API，OpenAI 兼容格式可迁移
+- 以评测为主线（golden sets、LLM as judge、回归评测）
+- 4 个端到端案例研究与 1 个求职毕业项目
 
 ## 适用场景
 
-- 后端/全栈工程师系统学习 AI Engineer / FDE 技能栈
-- 在 Colab 上免费动手实践 RAG、评测与 Agent 开发
-- 为简历准备一个含服务组件与评测报告的部署项目
+- 系统学习应用层 LLM 工程技能（RAG、Agent、评测）
+- 准备 AI Engineer / FDE 岗位面试
+- 免费 API 环境下动手练写 agent loop 与 RAG
+- 为简历构建带评测报告的部署项目
 
 ## 场景标签
 
-`教程课程` `RAG` `模型评测` `微调` · 领域:评测与运维
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L11: Runnable Colab notebooks for the **AI Engineer / Forward Deployed Engineer (FDE)**
 > L17: - **Framework-free, on purpose.** You write the agent loop, RAG, and evals from
-> L24: - **Free to run, end to end.** Everything runs on the **free
+> L49: Work top to bottom. Each notebook is self-contained (installs its own
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "calmrocks/ai-engineer-notebooks 星数(近 25 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 702 --> 762
-    line [707, 708, 709, 711, 712, 714, 716, 718, 720, 721, 709, 741, 743, 745, 746, 747, 748, 749, 750, 751, 754, 755, 756, 757, 757]
+    title "calmrocks/ai-engineer-notebooks 星数(近 24 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 703 --> 763
+    line [708, 709, 711, 712, 714, 716, 718, 720, 721, 709, 741, 743, 745, 746, 747, 748, 749, 750, 751, 754, 755, 756, 757, 758]
 ```
 
-2026-10-22 707 → 2026-11-24 757（+50）
+2026-10-23 708 → 2026-11-25 758（+50）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e07efc7ae068` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9418ccde8391` · [字段定义](../../DATASET.md)*

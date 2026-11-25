@@ -45,12 +45,12 @@ Exasol 官方维护的 Model Context Protocol 服务器，为 MCP 客户端（�
 ```mermaid
 xychart-beta
     title "exasol/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-22 18 → 2026-11-24 18（+0）
+2026-10-23 18 → 2026-11-25 18（+0）
 
 
 ---

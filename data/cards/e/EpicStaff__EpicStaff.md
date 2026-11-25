@@ -2,9 +2,9 @@
 
 ⭐ 513 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/EpicStaff/EpicStaff) · [官网](https://www.epicstaff.com/) · 组织维护
 
-**面向运营团队的自托管 AI Agent 编排平台（Django 后端+可视化编辑器）**
+**给运营团队自托管构建 AI Agent 流程的可视化编排平台**
 
-EpicStaff 是一个源码可用的自托管 AI Agent 编排平台：基于节点的可视化编辑器运行在 Django 后端之上，工程师通过 MCP 和 Python 接入内部系统，运营团队在可视化界面中构建、编辑和审计流程。功能包括自定义 Python 节点、内置向量存储的 RAG（支持 GraphRAG）、双层持久记忆（PostgreSQL+pgvector/Redis）、Webhook 触发、沙盒执行与按 Agent 权限。安装通过 git clone 加 docker compose 完成，需 Docker Desktop 与 Git；发布镜像经 cosign 签名并附 SBOM。
+Source-available 的自托管平台，用于构建 AI agent 流程：拖拽式可视化编辑器运行在 Django 后端之上，节点可注入自定义 Python 逻辑，通过 MCP 和 Python 连接内部系统。内置基于 Redis/PostgreSQL 的跨流程持久化 agent 记忆与用户/组织变量状态管理。平台提供 session ledger、沙箱执行、按 agent 的权限控制与审计追踪，使运营团队能查看、编辑和复核 agent 决策。安装方式为 git clone 加 docker compose 从源码构建。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ EpicStaff 是一个源码可用的自托管 AI Agent 编排平台：基于节点
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,39 +20,39 @@ EpicStaff 是一个源码可用的自托管 AI Agent 编排平台：基于节点
 
 ## 能力要点
 
-- 节点式可视化流程编辑器，节点可注入自定义 Python 代码
-- RAG 支持内置向量存储与 GraphRAG 索引策略
-- 双层持久记忆：短期窗口 + 跨会话长期记忆（PostgreSQL pgvector/Redis）
-- 通过 MCP 与 Python 接入内部系统；发布镜像 cosign 签名并附 SBOM
+- 拖拽式可视化编辑器，节点内可注入自定义 Python 逻辑
+- 基于 Redis/PostgreSQL 的跨会话持久化 agent 记忆
+- 通过 MCP 与 Python 连接内部系统
+- 发布镜像经 Sigstore cosign 无钥签名并附带 SPDX SBOM
 
 ## 适用场景
 
-- 运营团队在自有基础设施上构建和审计 AI Agent 工作流
-- 工程师用 Python/MCP 集成内部系统，交给业务侧可视化维护流程
-- 通过 Webhook 从外部系统触发 Agent 流程执行
+- 让运营团队无需工程介入即可查看和修改 agent 流程
+- 自托管部署中为 agent 执行提供权限控制与审计追踪
+- 以低代码方式构建多 agent 编排流程
 
 ## 场景标签
 
-`多智能体` `工作流自动化` `RAG` · 领域:Agent 开发
+`多智能体` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L18:  EpicStaff is a platform for building AI agent flows that operations teams own.
 > L20: The deployment model is self-hosted and source-available. Engineers connect EpicStaff to your internal systems thro
-> L126: EpicStaff is built for engineers shipping multi-agent systems to production. A node-based visual editor sits over 
+> L43: * **Django Multi-Agent Backend:** Powered by Django for robust, low-latency, and production-ready Pythonic agent or
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "EpicStaff/EpicStaff 星数(近 12 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
     y-axis "stars" 343 --> 532
-    line [359, 358, 359, 358, 360, 517, 516, 517, 515, 516, 515, 515]
+    line [359, 358, 359, 358, 360, 517, 516, 517, 515, 516, 515, 513]
 ```
 
-2026-10-22 359 → 2026-11-24 515（+156）
+2026-10-23 359 → 2026-11-25 513（+154）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4f54f25245f9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `c3ceb7a59187` · [字段定义](../../DATASET.md)*

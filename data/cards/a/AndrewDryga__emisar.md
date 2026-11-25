@@ -1,10 +1,10 @@
 # AndrewDryga/emisar
 
-⭐ 480 · Elixir · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AndrewDryga/emisar) · [官网](https://emisar.dev/) · 组织维护
+⭐ 480 · Elixir · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AndrewDryga/emisar) · [官网](https://emisar.dev/) · 个人维护
 
-**让 AI agent 经策略约束以声明式动作操作基础设施的 MCP 平台**
+**给 AI agent 提供受策略约束的基础设施操作通道**
 
-emisar 向 MCP 客户端的 AI agent 提供声明式基础设施动作目录而非 shell：动作由 pack 定义（可执行文件、参数 schema、风险、超时、脱敏等），控制平面按 runner 范围、风险策略、条件审批决定放行/等人/拒绝，主机端 outbound-only runner 在执行前二次校验并写哈希链审计日志。面向运维与安全团队，需 emisar 账号与 Linux 主机（systemd、sudo），由 Elixir/Phoenix 控制平面与 Go runner/桥组成；明确声明自身不是沙箱、不替代 SSH 与最小权限管理。
+emisar 让 AI agent 通过 CLI 或 MCP 访问基础设施：操作者声明可用的动作包（定义可执行文件、参数 schema、风险等级、超时、输出脱敏等），策略决定自动执行、需审批或拒绝。每台主机上的 runner 以出站 TLS WebSocket 连接控制面，执行前校验动作与参数，输出脱敏后留存，审计日志含拒绝与待审请求，runner 本地写哈希链 JSONL 日志。控制面为 Elixir/Phoenix，runner 为 Go，另提供 stdio MCP 桥接。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@ emisar 向 MCP 客户端的 AI agent 提供声明式基础设施动作目录而�
 
 ## 能力要点
 
-- 声明式动作目录 + 策略与人工审批，runner 在主机端二次校验
-- 内容寻址的 pack 信任与输出脱敏，含哈希链审计日志
-- 单 MCP 接口下扩展动作包，无需为客户端增配 MCP server
-- 可选桥签名 dispatch（Ed25519/ECDSA P-256）限制控制平面
+- 动作包声明式定义执行边界，模型只能选择而非构造命令行
+- runner 出站连接、校验包哈希、按声明限制执行并脱敏输出
+- 控制面策略评估含条件审批与常设授权，审计覆盖拒绝与待审请求
+- 可选 bridge 签名（Ed25519/ECDSA P-256）防止控制面扩大许可调用
 
 ## 适用场景
 
-- 让 AI agent 在生产主机上执行受策略约束的运维动作
-- 为 MCP 客户端（Claude/Cursor 等）接入统一的受控基础设施操作面
-- 保留拒绝与待审批请求的完整审计轨迹以满足合规需求
+- 让 AI agent 在生产主机上执行运维动作而不授予完整 shell
+- 为 agent 操作设置自动执行/审批/拒绝的策略边界
+- 集中管理多主机的 agent 可用动作目录
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L5: emisar gives MCP-capable agents a catalog of declared infrastructure actions
-> L127: portal/   Elixir/Phoenix control plane, operator console, website, and MCP API
-> L129: mcp/      Go stdio-to-HTTP MCP bridge
+> L5: emisar gives AI agents remote access to infrastructure through CLI or MCP.
+> L118: |Connect Claude, ChatGPT, Cursor, Codex, or another MCP client|Connect a CLI agent|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "AndrewDryga/emisar 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
+    title "AndrewDryga/emisar 星数(近 10 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 315 --> 496
-    line [339, 331, 330, 392, 375, 376, 430, 474, 480, 481, 481]
+    line [331, 330, 392, 375, 376, 430, 474, 480, 481, 480]
 ```
 
-2026-10-22 339 → 2026-11-24 481（+142）
+2026-10-23 331 → 2026-11-25 480（+149）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cd9af1d37e55` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9d6db9bda365` · [字段定义](../../DATASET.md)*

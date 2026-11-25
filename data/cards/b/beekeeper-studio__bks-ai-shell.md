@@ -43,12 +43,12 @@ Beekeeper Studio 5.3+ 的插件，提供对话式界面，让用户向 AI 提问
 ```mermaid
 xychart-beta
     title "beekeeper-studio/bks-ai-shell 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-22 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

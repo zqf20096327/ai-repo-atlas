@@ -2,9 +2,9 @@
 
 ⭐ 577 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/wquguru/shisei) · [官网](https://shisei.indaloop.app) · 个人维护 · 中文 README
 
-**CC0 人偶姿势参考图库：280 姿势×5 角度，供 AI 绘图工具使用**
+**CC0 姿势参考图库：供 AI 绘图工具使用的线稿人偶素材**
 
-自制的姿势参考图像库：280 个姿势分四个系列，每个姿势以无脸人偶线稿从正面、四分之三、侧面、俯视、仰视五个视角绘制，可上传至图像模型作为姿势或构图参考；多角度同姿势可保持人物一致性。名称与分类提供日/中/英/韩四语。每个视角经过 QC 审核，未生成或未通过的视角留空。含 89 张 AI 生成的照片级渲染。图像与自有数据以 CC0 公有领域发布，仓库内含三层尺寸约 63 MB，全尺寸原图在 Releases 提供 zip；另带零依赖静态图库站点（web/），用 Python 脚本构建。部分系列含暗示性成人姿势，图库默认模糊显示。
+自制的 CC0 人偶姿势参考库：280 个姿势分四个系列、每个 5 个相机角度，以线稿呈现，多数视角另附 clay、depth、normal 贴图（ControlNet 用）。含 89 张照片渲染。每张视图经 QC 审查，不合格视图被移除并记录原因。目录数据以 JSON/CSV 提供，日中英韩四语命名；仓库内置零依赖静态画廊，用 Python 脚本构建并本地预览。成人暗示系列默认模糊处理。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 280 姿势×5 视角的无脸人偶线稿，CC0 公有领域许可
-- 四语（日/中/英/韩）姿势名称与分类目录（catalog.json/csv）
-- 逐视角 QC 审核记录，失败原因存于 data/qc.json
-- 零依赖静态图库站点，支持深链、过滤、四语 UI 与暗色主题
+- 280 姿势 × 5 角度，共 1301 张线稿与照片，另有 944 张 clay/depth/normal 贴图
+- 每张视图经 QC 审查，失败原因记录于 data/qc.json
+- w300/w600/w900/full 四级尺寸，Releases 页提供分系列 zip 下载
+- 四语命名目录（catalog.json/csv）与零依赖静态画廊
 
 ## 适用场景
 
-- 为 Midjourney/ComfyUI 等 AI 绘图工具提供姿势与构图参考图
-- 用同一姿势的多角度视图保持生成人物的视角一致性
-- 人物绘画练习的免费线稿参考素材
+- 给图像生成工具上传姿势参考保持角色一致性
+- ControlNet 使用 depth/normal 贴图控制构图
+- 绘画参考与人体姿态练习素材
 
 ## 场景标签
 
- · 领域:AI 图像生成/艺术参考素材
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L5: **A free (CC0) mannequin pose reference library: 280 poses in four series × 5 camera angles, drawn as clean line art
-> L26: Shisei is a self-made pose reference library. Every pose is a faceless mannequin drawn from five angles — front,
-> L58: Upload a view as the pose or composition reference in your image tool. Using several angles of the same pose keeps
+> L27: Shisei is a self-made pose reference library. Every pose is a faceless mannequin drawn from five angles — front,
+> L55: - `data/catalog.json` / `catalog.csv`: series, rating, category and name in four languages, an English pose
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "wquguru/shisei 星数(近 19 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 0 --> 627
-    line [25, 148, 184, 216, 470, 478, 489, 502, 508, 519, 531, 537, 542, 547, 553, 560, 566, 573, 573]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 0 --> 632
+    line [25, 148, 184, 216, 470, 478, 489, 502, 508, 519, 531, 537, 542, 547, 553, 560, 566, 573, 577]
 ```
 
-2026-10-30 25 → 2026-11-24 573（+548）
+2026-10-30 25 → 2026-11-25 577（+552）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `9cb59e8e6a48` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `34b05d96a176` · [字段定义](../../DATASET.md)*

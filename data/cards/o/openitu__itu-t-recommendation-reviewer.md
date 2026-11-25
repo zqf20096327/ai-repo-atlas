@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openitu/itu-t-recommendation-reviewer 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 24 --> 28
-    line [25, 27, 27]
+    title "openitu/itu-t-recommendation-reviewer 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 26 --> 28
+    line [27, 27]
 ```
 
-2026-10-21 25 → 2026-11-24 27（+2）
+2026-10-23 27 → 2026-11-25 27（+0）
 
 
 ---

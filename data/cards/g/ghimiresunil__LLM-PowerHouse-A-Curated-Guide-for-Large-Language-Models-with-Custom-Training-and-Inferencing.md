@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25"]
     y-axis "stars" 733 --> 737
     line [734, 735, 736, 735, 734, 734]
 ```
 
-2026-10-22 734 → 2026-11-24 734（+0）
+2026-10-23 734 → 2026-11-25 734（+0）
 
 
 ---

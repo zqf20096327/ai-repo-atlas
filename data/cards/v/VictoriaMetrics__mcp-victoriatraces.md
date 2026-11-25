@@ -45,12 +45,12 @@ VictoriaMetrics 官方维护的 Model Context Protocol（MCP）服务器实现�
 ```mermaid
 xychart-beta
     title "VictoriaMetrics/mcp-victoriatraces 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-24"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-25"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20]
 ```
 
-2026-10-22 18 → 2026-11-24 19（+1）
+2026-10-23 18 → 2026-11-25 20（+2）
 
 
 ---

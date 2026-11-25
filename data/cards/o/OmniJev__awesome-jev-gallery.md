@@ -1,10 +1,10 @@
 # OmniJev/awesome-jev-gallery
 
-⭐ 495 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/OmniJev/awesome-jev-gallery) · [官网](https://omnijev.github.io/awesome-jev-gallery/) · 组织维护
+⭐ 495 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/OmniJev/awesome-jev-gallery) · [官网](https://omnijev.github.io/awesome-jev-gallery/) · 个人维护
 
-**Jev/System One 模型的论文、开源模型与评测策展清单**
+**Jev/System One 模型的论文、开源实现与评测清单**
 
-围绕 TypeSafe 的 System One 模型与 Jev 的生态聚合清单：收录发布文章与文档、开源复现模型（0.8B 到 35B 的 RLCD 微调、决策头、并行解码实现）、以 Jev 契约构建的软件（路由器、代理、机器人控制、交易系统）、基准与排行榜及评论。条目多为第三方独立项目，标注许可证与作者自报的评测数字，接受 PR 贡献。条目按官方发布、开源、Built with Jev 等板块组织。
+围绕 TypeSafe 发布的 System One 模型与 Jev 接口的聚合清单：收录官方发布资料、开源权重与代码实现（OneJev、Flide、各规模 RLCD 决策模型）、基准与排行榜，以及基于 Jev 构建的路由、agent、游戏与集成项目。条目以表格形式列出，每条附代码、模型权重或网站链接，并记录作者自报的性能与评测数据。面向关注决策模型与校准概率的研究者与开发者，通过 GitHub PR 接受新增条目。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖论文、开源模型、基准与排行榜四类条目
-- 收录数十个 Jev 形状的开源复现模型（含 Apache-2.0 与非商业许可标注）
-- 含 Built with Jev 板块：代理、机器人控制、交易系统等集成项目
-- 接受 PR 贡献并持续更新（新增 14 个项目、benchmark 板块）
+- 收录开源决策模型实现，覆盖 0.6B 至 27B 多种规模
+- 包含官方 System One Adapter 与第三方兼容接口（/v1/systemone）
+- 设有 Benchmark & Leaderboard 板块与论文专列 Awesome JEV Papers
+- 条目标注许可证、推理时延与作者自报评测指标
 
 ## 适用场景
 
-- 查找 Jev/System One 形状的开源复现模型与权重
-- 对比各复现项目在 JevBench 等基准上的自报成绩
-- 了解 System One 生态的论文、工具与集成项目全貌
+- 查找 Jev 兼容的开源决策模型与权重
+- 调研 System One 架构的论文与训练方法
+- 对比各实现的自报评测结果与推理速度
 
 ## 场景标签
 
@@ -37,21 +37,22 @@
 
 ## 证据(README 行号)
 
-> L5: > Papers, open models and evaluations behind System One models and Jev.
+> L3: # Awesome JEV Awesome
 > L40: ## 🧪 Open Source
+> L97: ## 🔧 Built with Jev
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "OmniJev/awesome-jev-gallery 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-24"]
-    y-axis "stars" 470 --> 511
-    line [508, 473, 475, 476, 478, 479, 483, 475, 484, 488, 489, 490, 492, 494, 494]
+    title "OmniJev/awesome-jev-gallery 星数(近 14 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-25"]
+    y-axis "stars" 471 --> 497
+    line [473, 475, 476, 478, 479, 483, 475, 484, 488, 489, 490, 492, 494, 495]
 ```
 
-2026-10-22 508 → 2026-11-24 494（-14）
+2026-10-23 473 → 2026-11-25 495（+22）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ef0af52f326e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `536169de692a` · [字段定义](../../DATASET.md)*

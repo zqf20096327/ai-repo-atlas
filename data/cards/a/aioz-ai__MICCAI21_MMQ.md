@@ -45,12 +45,12 @@ MICCAI 2021 论文 Multiple Meta-model Quantifying for Medical Visual Question A
 ```mermaid
 xychart-beta
     title "aioz-ai/MICCAI21_MMQ 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-22 38 → 2026-11-24 38（+0）
+2026-10-23 38 → 2026-11-25 38（+0）
 
 
 ---

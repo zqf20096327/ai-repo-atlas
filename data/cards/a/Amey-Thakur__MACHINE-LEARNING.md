@@ -44,12 +44,12 @@ Amey Thakur 维护的 University of Mumbai 计算机工程第六学期机器学�
 ```mermaid
 xychart-beta
     title "Amey-Thakur/MACHINE-LEARNING 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-13", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-22 15 → 2026-11-24 16（+1）
+2026-10-23 15 → 2026-11-25 16（+1）
 
 
 ---

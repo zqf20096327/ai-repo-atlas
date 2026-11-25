@@ -46,12 +46,12 @@ Compound 是一个本地运行的 CLI 工具，通过 `compound init` 向 Claude
 ```mermaid
 xychart-beta
     title "umutkeltek/compound 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-20", "2026-11-25"]
     y-axis "stars" 3 --> 7
     line [4, 6, 6]
 ```
 
-2026-11-10 4 → 2026-11-24 6（+2）
+2026-11-10 4 → 2026-11-25 6（+2）
 
 
 ---

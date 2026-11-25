@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "RabbitBoss/Awesome-Realistic-Semi-Supervised-Learning 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 124 --> 127
-    line [126, 125, 125]
+    title "RabbitBoss/Awesome-Realistic-Semi-Supervised-Learning 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 124 --> 126
+    line [125, 125]
 ```
 
-2026-10-22 126 → 2026-11-24 125（-1）
+2026-10-23 125 → 2026-11-25 125（+0）
 
 
 ---

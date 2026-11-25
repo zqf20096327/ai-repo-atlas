@@ -45,12 +45,12 @@ BrowserAttach 是一个 stdio MCP server，通过本地配对的浏览器扩展�
 ```mermaid
 xychart-beta
     title "EvannZhongg/BrowserAttach 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-23 4 → 2026-11-24 4（+0）
+2026-10-23 4 → 2026-11-25 4（+0）
 
 
 ---

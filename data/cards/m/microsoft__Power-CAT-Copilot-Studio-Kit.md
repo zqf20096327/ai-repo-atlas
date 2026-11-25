@@ -2,9 +2,9 @@
 
 ⭐ 486 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Power-CAT-Copilot-Studio-Kit) · [官网](https://microsoft.github.io/Power-CAT-Copilot-Studio-Kit/) · 组织维护
 
-**扩展 Microsoft Copilot Studio 的 agent 开发/测试/治理工具包**
+**为 Copilot Studio 制作者提供代理开发、治理与测试的工具集**
 
-面向在 Power Platform 上构建自定义 agent 的制作者与管理员：提供批量测试（响应匹配、多轮、生成式答案，支持用户自定义评分标准）、Compliance Hub 合规治理与 SLA 案例、Agent Insights Hub 分析面板（聚合 Application Insights 遥测与对话转录）、Agent Debugger 决策诊断、变更跟踪、Agent Library 模板库、Prompt Advisor、Conversation KPI 等。经 Microsoft Marketplace 或 GitHub 部署，需要 Power Platform 许可与 AI Builder 额度；测试自动化中终端用户认证仅支持 Entra ID V2 与 SSO。
+围绕 Microsoft Copilot Studio 的托管解决方案集合，包含批量测试（响应/附件/话题匹配、多轮、生成式答案）、模型评估对比、合规中心、遥测分析仪表盘、代理调试器、变更跟踪、模板与组件库、提示词顾问、聊天界面定制及 KPI 汇总等模块。面向企业中的 maker 与管理员，通过 Setup Wizard 配置连接引用和环境变量后部署，依赖 Power Platform 许可与 AI Builder 额度；测试自动化的最终用户认证仅支持 Entra Id V2 with SSO。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 批量测试自定义 agent，含延迟、响应与聚合结果，支持用户自定义 rubrics
-- Compliance Hub 按风险阈值自动生成合规案例并跟踪 SLA 审查流程
-- Agent Insights Hub 聚合 Application Insights 遥测与对话转录，支持 365 天历史同步与 Excel 导出
-- Agent Debugger 按步骤检查 agent 决策（计时、token 用量、知识源、参数）
+- 批量测试自定义代理并输出延迟、响应与聚合结果
+- Model Assessment 对比新旧模型并给出回归状态
+- Compliance Hub 按风险阈值自动创建合规案件并跟踪 SLA
+- Agent Insights Hub 聚合 Application Insights 与对话记录遥测
 
 ## 适用场景
 
-- 批量测试 Copilot Studio 自定义 agent 并分析测试结果
-- 组织内对 agent 配置做规模化治理与合规审查
-- 监控 agent 性能、对话指标与额度消耗
-- 通过 Power Platform Pipelines 在部署前自动验证 agent
+- 在企业内集中治理和审计组织内所有 Copilot Studio 代理
+- 部署前对代理做批量回归测试作为质量门禁
+- 切换底层 AI 模型前评估代理行为是否退化
+- 统一仪表盘监控代理性能、错误与额度消耗
 
 ## 场景标签
 
@@ -39,20 +39,20 @@
 ## 证据(README 行号)
 
 > L3: The **Copilot Agent Kit** is a comprehensive set of capabilities designed to augment Microsoft Copilot Studio. The k
-> L9: Copilot Agent Kit allows makers to configure agents, tests and test sets, and use them to batch test their custom ag
+> L122: There is a Setup Wizard in the Kit which allows easy editing of connection references and environment variables as
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "microsoft/Power-CAT-Copilot-Studio-Kit 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 468 --> 487
-    line [469, 470, 471, 472, 474, 473, 471, 478, 480, 482, 483, 484, 485, 486, 486]
+    title "microsoft/Power-CAT-Copilot-Studio-Kit 星数(近 14 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 469 --> 487
+    line [470, 471, 472, 474, 473, 471, 478, 480, 482, 483, 484, 485, 486, 486]
 ```
 
-2026-10-21 469 → 2026-11-24 486（+17）
+2026-10-22 470 → 2026-11-25 486（+16）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b605b4e53427` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b14cc66ca060` · [字段定义](../../DATASET.md)*

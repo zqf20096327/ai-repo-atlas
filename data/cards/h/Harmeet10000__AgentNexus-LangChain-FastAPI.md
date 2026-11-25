@@ -46,12 +46,12 @@ Agent Saul 是基于 FastAPI、LangGraph、LangChain 与 Google Gemini 构建的
 ```mermaid
 xychart-beta
     title "Harmeet10000/AgentNexus-LangChain-FastAPI 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
     y-axis "stars" 50 --> 53
     line [52, 51, 51]
 ```
 
-2026-10-22 52 → 2026-11-24 51（-1）
+2026-10-23 52 → 2026-11-25 51（-1）
 
 
 ---

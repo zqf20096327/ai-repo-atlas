@@ -44,12 +44,12 @@ SMU 计算机 CS 5/7320 人工智能课程配套仓库，由 Michael Hahsler 维
 ```mermaid
 xychart-beta
     title "mhahsler/Introduction_to_Artificial_Intelligence 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 104 --> 107
     line [105, 106, 106]
 ```
 
-2026-10-22 105 → 2026-11-24 106（+1）
+2026-10-23 105 → 2026-11-25 106（+1）
 
 
 ---

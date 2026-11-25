@@ -45,12 +45,12 @@ EJClaw v2 不再是独立应用，而是 EYEJOKER agent 栈在 upstream NanoClaw
 ```mermaid
 xychart-beta
     title "phj1081/EJClaw 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-22 45 → 2026-11-24 45（+0）
+2026-10-23 45 → 2026-11-25 45（+0）
 
 
 ---

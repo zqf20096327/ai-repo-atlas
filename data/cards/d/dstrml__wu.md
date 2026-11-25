@@ -1,10 +1,10 @@
 # dstrml/wu
 
-⭐ 819 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/dstrml/wu) · [官网](https://wu.dstrml.org) · 个人维护
+⭐ 819 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/dstrml/wu) · [官网](https://wu.dstrml.org) · 个人维护 · 中文 README
 
-**Rust 编写的原生代码编辑器，内置 coding agent 工作区**
+**内置编码 agent 的 Rust 原生代码编辑器**
 
-Wu 是用 Rust 编写的原生代码编辑器，是 Zed 的 fork 但已大幅分化。不使用 Electron 或 webview，内存占用据其基准测试低于 VS Code 和 Zed。内置 Claude Code、Codex、OpenCode 三种 coding agent 支持，无账号登录与遥测。以 GPL-3.0-or-later 许可（部分组件 Apache-2.0），提供 macOS/Linux 安装脚本、Windows 安装包及多平台手动下载，也可按 Zed 方式从源码构建。
+用 Rust 编写的原生代码编辑器与 agent 工作区，是 Zed 的 fork。无 Electron/webview，GPU 渲染，README 声明内存占用低于 VS Code 与 Zed。内置对 Claude Code、Codex、OpenCode、Antigravity 四个编码 agent 的支持，无账号与遥测。通过安装脚本或安装包部署，覆盖 macOS（Intel/Apple Silicon）、Windows、Linux（x86-64/AArch64）。许可为 GPL-3.0-or-later，部分组件为 Apache-2.0。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Wu 是用 Rust 编写的原生代码编辑器，是 Zed 的 fork 但已大幅分
 
 ## 能力要点
 
-- 原生实现，无 Electron 或 webview
-- 内置 Claude Code、Codex、OpenCode 支持
-- 无账号要求、无遥测
-- Zed 的 fork，共享其许可证体系
+- 内置支持 Claude Code、Codex、OpenCode、Antigravity 四个编码 agent
+- 无 Electron/webview，GPU 渲染的 Rust 原生实现
+- 无账号与遥测，README 声明不发送使用数据
+- 提供 macOS/Windows/Linux 五种平台的安装包
 
 ## 适用场景
 
-- 在轻量原生编辑器中进行日常代码编辑
-- 在编辑器内直接使用 Claude Code 等 coding agent
-- 需要无登录、无遥测环境的编辑工作
+- 在本地编辑器内直接调用编码 agent 完成编码任务
+- 在无网络遥测环境下使用带 agent 的代码编辑器
+- 需要原生（非 Electron）编辑器的开发者工作流
 
 ## 场景标签
 
@@ -37,21 +37,21 @@ Wu 是用 Rust 编写的原生代码编辑器，是 Zed 的 fork 但已大幅分
 
 ## 证据(README 行号)
 
-> L3:  The fast, native code editor and agent workspace.
-> L13: - 👾 **Coding agents included.** Built-in support for Claude Code, Codex, and OpenCode.
+> L9: Wu is a fast, native code editor written in Rust, with a clean, modern design and coding agents built in. The name c
+> L15: - 👾 **Coding agents included.** Built-in support for Claude Code, Codex, OpenCode, and Antigravity.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "dstrml/wu 星数(近 25 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 135 --> 880
-    line [197, 200, 202, 203, 204, 207, 209, 212, 213, 202, 556, 627, 649, 675, 735, 754, 766, 772, 781, 795, 801, 807, 811, 818, 818]
+    title "dstrml/wu 星数(近 24 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 139 --> 880
+    line [200, 202, 203, 204, 207, 209, 212, 213, 202, 556, 627, 649, 675, 735, 754, 766, 772, 781, 795, 801, 807, 811, 818, 819]
 ```
 
-2026-10-22 197 → 2026-11-24 818（+621）
+2026-10-23 200 → 2026-11-25 819（+619）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `baadf37d0b66` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `19cb12f5180e` · [字段定义](../../DATASET.md)*

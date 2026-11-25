@@ -43,12 +43,12 @@ Qdrant 官方维护的 Apache Spark 连接器，以 Spark 数据源（JAR 包）
 ```mermaid
 xychart-beta
     title "qdrant/qdrant-spark 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-22 50 → 2026-11-24 50（+0）
+2026-10-23 50 → 2026-11-25 50（+0）
 
 
 ---

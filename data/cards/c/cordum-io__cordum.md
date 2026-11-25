@@ -2,9 +2,9 @@
 
 ⭐ 508 · Go · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/cordum-io/cordum) · 组织维护
 
-**AI agent 治理控制平面：在风险操作前强制策略与人工审批**
+**AI agent 动作管控平面：风险工具调用前执行策略与人工审批**
 
-面向自主 AI agent 的治理与安全控制平面：在 agent 执行前评估声明式策略、由 safety kernel 拦截风险操作、执行中提供实时可见性与步骤级审批及超时/熔断、事后聚合审计证据。以 Docker Compose 一键部署的全栈（网关、调度器、safety kernel、工作流引擎、dashboard、NATS、TLS Redis）形式提供，另含 Cordum Edge——通过命令钩子管控 Claude Code 本地工具调用的合规防火墙，支持审批溯源（resolved-only）与脱敏证据导出。也提供 Helm/Kubernetes 部署与 cosign 镜像签名验证。限制：需 Docker 与 Go 1.26.3+；Edge 的 wrapper 为开发者/演示路径，企业级强制需托管配置。
+以 Source-Available 形式提供的 agent 控制平面：在 agent 动作派发边界处做策略判定，支持 ALLOW/DENY/REQUIRE_APPROVAL/THROTTLE/ALLOW_WITH_CONSTRAINTS 五种裁决，动作规范化后以 SHA-256 哈希绑定审批，审批需租户、approval_ref 与 action_hash 匹配。组件含 API 网关、调度器、Safety Kernel、工作流引擎、上下文引擎、仪表盘与 MCP 服务，用 YAML 声明策略，默认未匹配请求为 deny。Cordum Edge 以 hook 方式对 Claude Code 工具调用做元数据导出的策略评估。部署路径含源码脚本、docker compose、手动 go run 与 Helm。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 声明式策略在 agent 执行前评估，safety kernel 拦截风险操作并要求人工审批
-- Cordum Edge 为 Claude Code 提供命令钩子合规防火墙：拒绝风险操作、编辑需审批、导出脱敏证据
-- 审批溯源为 resolved-only：破坏性重试须匹配已解决的审批审计事件
-- Docker Compose / Helm / 手动 go run 三种部署路径，镜像经 cosign keyless 签名
+- 五种显式裁决，未知裁决一律转为 DENY
+- SHA-256 哈希绑定审批，拒绝自批、过期与已消费的审批
+- 声明式 YAML 策略按租户、topic、能力、风险标签、actor 匹配
+- Cordum Edge 通过 cordumctl edge claude 对 Claude Code 工具调用做 hook 策略检查
 
 ## 适用场景
 
-- 企业在生产部署自主 agent 前拦截危险工具调用与 shell 命令
-- 为 Claude Code 等本地 agent 会话添加审批门与审计证据
-- 集中管理 agent 集群的策略、审批与审计轨迹
+- 在 agent 执行 shell 命令或生产变更前强制策略与人工审批
+- 对敏感 agent 动作保留可审计的审批证据
+- 为编码类 agent（Claude Code）接入本地派发前策略检查
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L261: Cordum is an **Agent Control Plane** that provides a deterministic governance layer for probabilistic AI minds. It
-> L283: - **BEFORE (Governance)**: Define declarative policies that evaluate job requests *before* an agent executes. Trig
+> L8:  The Source-Available Agent Control Plane for policy checks, approvals, and audit of the agent actions it mediates.
+> L261: Cordum puts a policy decision at that dispatch boundary:
+> L279: - **Cordum Edge.** A local hook evaluates coding-agent tool calls (Claude Code
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "cordum-io/cordum 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25"]
     y-axis "stars" 506 --> 512
     line [511, 510, 509, 510, 511, 510, 509, 510, 507, 508, 508]
 ```
 
-2026-10-22 511 → 2026-11-24 508（-3）
+2026-10-23 511 → 2026-11-25 508（-3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `c86fae7318b3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `f09eac9b4a40` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ Friends Of REDAXO 维护的 REDAXO CMS 插件，为媒体管理器（Media Manag
 ```mermaid
 xychart-beta
     title "FriendsOfREDAXO/insert_text 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-24"]
+    x-axis ["2026-11-08", "2026-11-25"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-11-08 22 → 2026-11-24 22（+0）
+2026-11-08 22 → 2026-11-25 22（+0）
 
 
 ---

@@ -45,13 +45,13 @@ OpenMicro 将 DualSense、GameSir 等游戏手柄接入 Claude Code 与 Codex CL
 
 ```mermaid
 xychart-beta
-    title "stephenleo/OpenMicro 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 132 --> 136
-    line [133, 134, 135, 135]
+    title "stephenleo/OpenMicro 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 133 --> 136
+    line [134, 135, 135]
 ```
 
-2026-10-22 133 → 2026-11-24 135（+2）
+2026-10-23 134 → 2026-11-25 135（+1）
 
 
 ---

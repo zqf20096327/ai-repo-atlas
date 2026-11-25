@@ -45,12 +45,12 @@ Strands Agents 官方的扩展开发模板 monorepo，提供 Python 与 TypeScri
 ```mermaid
 xychart-beta
     title "strands-agents/extension-template 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-22", "2026-11-24"]
+    x-axis ["2026-10-26", "2026-11-22", "2026-11-25"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-26 10 → 2026-11-24 11（+1）
+2026-10-26 10 → 2026-11-25 11（+1）
 
 
 ---

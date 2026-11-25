@@ -46,12 +46,12 @@ DuckDB 社区扩展 open_prompt：提供 open_prompt() SQL 函数，向兼容 /v
 ```mermaid
 xychart-beta
     title "Query-farm/openprompt 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-22 62 → 2026-11-24 62（+0）
+2026-10-23 62 → 2026-11-25 62（+0）
 
 
 ---

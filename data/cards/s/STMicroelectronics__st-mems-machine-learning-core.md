@@ -44,12 +44,12 @@ STMicroelectronics 维护的仓库，为 MEMS 传感器内置的机器学习核�
 ```mermaid
 xychart-beta
     title "STMicroelectronics/st-mems-machine-learning-core 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-18", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-18", "2026-11-20", "2026-11-25"]
     y-axis "stars" 29 --> 33
     line [30, 31, 32, 32]
 ```
 
-2026-10-22 30 → 2026-11-24 32（+2）
+2026-10-23 30 → 2026-11-25 32（+2）
 
 
 ---

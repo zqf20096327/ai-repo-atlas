@@ -2,15 +2,15 @@
 
 ⭐ 450 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Lakonik/ComfyUI-piFlow) · [官网](https://github.com/Lakonik/LakonLab) · 个人维护
 
-**ComfyUI 自定义节点集：实现 AsymFlow 与 pi-Flow 图像生成模型**
+**为 ComfyUI 提供 pi-H3/AsymFlow/pi-Flow 生成模型节点**
 
-为 ComfyUI 提供自定义节点集合，实现 AsymFlow 与 pi-Flow 两个模型系列：前者在像素空间生成写实图像，后者支持少步数快速生成。要求 ComfyUI 0.23.0 及以上版本，并需先卸载非官方的同名扩展以避免兼容问题。安装途径包括通过 ComfyUI Manager 安装缺失节点，或手动 git clone 到 custom_nodes 目录。仓库以 Apache-2.0 许可，模型本身遵循各自许可。
+ComfyUI 的自定义节点集合，实现 pi-H3、AsymFlow、pi-Flow 三个模型家族：pi-H3 面向 MiniMax H3 的 2–4 步快速生成且无需 VAE 解码器，AsymFlow 在像素空间生成真实感图像，pi-Flow 提供少步数快速生成，各模型均附带工作流。需 ComfyUI 0.45.0 及以上版本，安装前要求卸载非官方的同类扩展，通过 git clone 到 custom_nodes 目录安装。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- AsymFlow：像素空间生成写实图像
-- pi-Flow：少步数快速生成
-- 支持 ComfyUI Manager 一键补装缺失节点
-- 提供示例工作流（Workflows）
+- 实现 pi-H3、AsymFlow、pi-Flow 三个模型家族的 ComfyUI 节点
+- pi-H3 支持 2–4 步生成且无需 VAE 解码器
+- 每个模型家族附带动手工作流
 
 ## 适用场景
 
-- 在 ComfyUI 中运行 AsymFlow / pi-Flow 模型生成图像
-- 用少步数采样快速出图
-- 通过工作流文件直接加载并补装所需节点
+- 在 ComfyUI 中用 pi-H3 少步快速生成图像
+- 用 AsymFlow 在像素空间生成真实感图像
+- 用 pi-Flow 进行少步数快速生成
 
 ## 场景标签
 
@@ -38,20 +37,20 @@
 ## 证据(README 行号)
 
 > L3: **ComfyUI-piFlow** is a collection of custom nodes for ComfyUI that implement the following model families:
-> L18: **This extension requires ComfyUI version 0.23.0 or higher**. Older ComfyUI releases are no longer supported.
+> L24: **This extension requires ComfyUI version 0.45.0 or higher**. Older ComfyUI releases are no longer supported.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Lakonik/ComfyUI-piFlow 星数(近 12 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 175 --> 358
-    line [190, 191, 192, 190, 191, 192, 193, 196, 197, 204, 343, 343]
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 164 --> 476
+    line [190, 191, 192, 190, 191, 192, 193, 196, 197, 204, 343, 450]
 ```
 
-2026-10-22 190 → 2026-11-24 343（+153）
+2026-10-23 190 → 2026-11-25 450（+260）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ced86270330d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e63bae52fc9b` · [字段定义](../../DATASET.md)*

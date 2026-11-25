@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "erfnzdeh/MCI-LLM-Security-Hackathon 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 98 --> 102
-    line [99, 101, 100, 100]
+    title "erfnzdeh/MCI-LLM-Security-Hackathon 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 99 --> 102
+    line [101, 100, 100]
 ```
 
-2026-10-21 99 → 2026-11-24 100（+1）
+2026-10-23 101 → 2026-11-25 100（-1）
 
 
 ---

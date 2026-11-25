@@ -44,13 +44,13 @@ Go 编写的本地优先守护进程：在 PTY 中启动 Claude Code、Codex、O
 
 ```mermaid
 xychart-beta
-    title "smallnest/agentty 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6, 6]
+    title "smallnest/agentty 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 4 --> 7
+    line [5, 6, 6]
 ```
 
-2026-10-22 4 → 2026-11-24 6（+2）
+2026-10-23 5 → 2026-11-25 6（+1）
 
 
 ---

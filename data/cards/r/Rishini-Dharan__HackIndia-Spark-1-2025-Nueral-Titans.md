@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Rishini-Dharan/HackIndia-Spark-1-2025-Nueral-Titans 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-24"]
+    x-axis ["2026-11-22", "2026-11-25"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-11-22 66 → 2026-11-24 66（+0）
+2026-11-22 66 → 2026-11-25 66（+0）
 
 
 ---

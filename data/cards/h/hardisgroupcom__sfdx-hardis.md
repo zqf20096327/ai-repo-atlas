@@ -2,9 +2,9 @@
 
 ⭐ 440 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hardisgroupcom/sfdx-hardis) · [官网](https://sfdx-hardis.cloudity.com) · 组织维护
 
-**Salesforce DevOps 工具套件：CI/CD 流水线、元数据备份监控与 AI 文档生成**
+**面向 Salesforce 管理员/开发者的 CLI 与 CI/CD 工具箱**
 
-由 Cloudity 维护的 Salesforce CLI 插件与 VS Code 扩展套件，面向 Salesforce 管理员与开发者。提供 DevOps 流水线（支持 GitHub/GitLab/Azure/Bitbucket）、元数据每日备份与 Grafana 监控、批量生产力命令、免费实操课程与徽章。AI 相关功能包括 AI 生成的组织文档、与 Agentforce 等 AI 提供商的原生集成，以及基于 Docker with-agents 镜像的 AI 编码代理自动修复（预装 Claude Code、Codex、Gemini CLI、GitHub Copilot）。三种安装方式：VS Code 扩展、CLI 插件、Docker 镜像。
+Cloudity 出品的 Salesforce CLI 插件与 VS Code 扩展套件，在原生 Salesforce CLI 之上编排命令并提供交互式向导；支持定义完整 CI/CD 流水线、定时元数据备份与 org 监控（配 Grafana）、AI 生成项目文档，以及借助预装编码 agent CLI 的 Docker 镜像做 AI 自动修复。提供三种安装方式：VS Code 扩展、Salesforce CLI 插件、CI/CD Docker 镜像；依赖 Node.js、Git 与 Salesforce CLI，兼容主流 Git 平台与多种 AI 提供商（含 Agentforce）。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- Salesforce CI/CD 流水线编排与 Pull Request 集成
-- 元数据每日备份与基于 Grafana 的组织监控
-- AI 生成项目文档与 AI 提供商原生集成（含 Agentforce）
-- with-agents Docker 镜像预装 4 种编码代理 CLI 用于自动修复
+- 三种安装途径：VS Code 扩展、sf plugins 插件、CI/CD Docker 镜像
+- with-agents 镜像预装 Claude Code、Codex、Gemini CLI、GitHub Copilot 用于 AI 自动修复
+- CI/CD 流水线、每日元数据备份与 org 监控（Grafana 集成）
+- AI 生成项目文档与免费 DevOps 课程
 
 ## 适用场景
 
-- 为 Salesforce 项目搭建完整的 CI/CD 流水线
-- 定时备份元数据并监控组织状态
-- 自动生成项目文档
-- 用 AI 编码代理自动修复部署问题
+- 为 Salesforce 项目搭建完整的 CI/CD 部署流水线
+- 定时备份 org 元数据并监控配置漂移
+- 用 AI 生成并维护项目文档
+- 在 CI 中用编码 agent 自动修复部署错误
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L18: Sfdx-hardis is a **CLI and visual productivity tools suite for Salesforce**, by **Cloudity** & friends, natively co
-> L24: - Deliver your projects with **State of the art Salesforce DevOps**
 > L32: - Generate your **Project Documentation** with AI
+> L218: These images include Claude Code, OpenAI Codex, Gemini CLI, and GitHub Copilot pre-installed and are required for 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "hardisgroupcom/sfdx-hardis 星数(近 18 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 410 --> 442
-    line [412, 414, 416, 418, 420, 421, 425, 427, 416, 431, 435, 436, 437, 438, 440, 439, 440, 440]
+    title "hardisgroupcom/sfdx-hardis 星数(近 17 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 412 --> 442
+    line [414, 416, 418, 420, 421, 425, 427, 416, 431, 435, 436, 437, 438, 440, 439, 440, 440]
 ```
 
-2026-10-22 412 → 2026-11-24 440（+28）
+2026-10-23 414 → 2026-11-25 440（+26）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3b8e70f2d312` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `bbb3099aa54b` · [字段定义](../../DATASET.md)*

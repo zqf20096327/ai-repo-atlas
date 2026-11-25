@@ -46,12 +46,12 @@ NVIDIA 官方仓库，提供在 Orin/Xavier SoC 的 DLA 硬件加速核心上运
 ```mermaid
 xychart-beta
     title "NVIDIA/Deep-Learning-Accelerator-SW 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-11", "2026-11-24"]
+    x-axis ["2026-10-22", "2026-11-11", "2026-11-25"]
     y-axis "stars" 238 --> 242
     line [239, 241, 241]
 ```
 
-2026-10-21 239 → 2026-11-24 241（+2）
+2026-10-22 239 → 2026-11-25 241（+2）
 
 
 ---

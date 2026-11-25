@@ -46,12 +46,12 @@ SourceWizard 是帮助开发者查找、安装和配置软件包与开发工具�
 ```mermaid
 xychart-beta
     title "sourcewizard-ai/sourcewizard 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-22 28 → 2026-11-24 28（+0）
+2026-10-23 28 → 2026-11-25 28（+0）
 
 
 ---

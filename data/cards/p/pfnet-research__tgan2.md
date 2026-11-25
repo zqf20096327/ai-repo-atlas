@@ -45,12 +45,12 @@ TGANv2 的官方实现仓库，对应论文《Train Sparsely, Generate Densely: 
 ```mermaid
 xychart-beta
     title "pfnet-research/tgan2 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-22 82 → 2026-11-24 82（+0）
+2026-10-23 82 → 2026-11-25 82（+0）
 
 
 ---

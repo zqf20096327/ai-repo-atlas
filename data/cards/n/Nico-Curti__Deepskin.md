@@ -46,12 +46,12 @@ International Journal of Molecular Science 所载 deepskin 算法的官方 Pytho
 ```mermaid
 xychart-beta
     title "Nico-Curti/Deepskin 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-22 29 → 2026-11-24 29（+0）
+2026-10-23 29 → 2026-11-25 29（+0）
 
 
 ---

@@ -45,12 +45,12 @@ medical-jev-4b 是基于 Qwen3.5-4B 的 LoRA 微调模型，面向医学教学�
 ```mermaid
 xychart-beta
     title "JuneYaooo/medical-jev-train 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 11 --> 27
+    line [12, 26]
 ```
 
-2026-11-23 12 → 2026-11-24 12（+0）
+2026-11-23 12 → 2026-11-25 26（+14）
 
 
 ---

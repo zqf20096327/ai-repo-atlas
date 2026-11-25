@@ -2,9 +2,9 @@
 
 ⭐ 610 · TypeScript · 推送 2026-11-10 · [GitHub](https://github.com/NextAdminHQ/nextjs-admin-dashboard) · [官网](https://nextadmin.co) · 组织维护
 
-**为 AI 代码代理提供规则与上下文的 Next.js 管理后台模板**
+**为开发者提供带 AI agent 协作规范的 Next.js 后台仪表盘模板**
 
-免费开源的 Next.js 16 + Tailwind CSS 管理后台模板，包含 200+ UI 组件、预置页面（登录/注册/设置/日历等）、多套仪表盘、深浅色模式与 Figma 设计源，页面连接 mock REST API，集成 TailGrids UI、Recharts、Leaflet、TanStack Table、Zod、FullCalendar。v2.0 加入 AI 规则与上下文文件（AGENTS.md、Agent Skills、Custom Prompts），供 Claude Code、Cursor、Codex 等代理读取项目结构后按既有模式开发；另有付费 Pro 版本提供更多组件与 Figma 文件。
+基于 Next.js 16 与 Tailwind CSS 的开源后台管理模板，内置 200+ UI 组件、多种仪表盘（分析/电商/CRM/营销）、登录注册等预置页面与 mock REST API，集成 Recharts、TanStack Table、Leaflet、Zod 等。v2.0 加入 AGENTS.md 规范、Agent Skills 与 Custom Prompts，使 Claude Code、Cursor 等 agent 在已有代码结构上开发并保持模式一致。免费版组件之外另有 Pro 付费版本提供完整组件集与 Figma 文件。
 
 ## 筛选速览
 
@@ -16,43 +16,42 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 200+ UI 组件与多套预置仪表盘页面，连接 mock REST API
-- AGENTS.md 与 Agent Skills 供 AI 代理读取项目模式，跨会话保持一致结构
-- api-integration skill 可通过单一提示将 mock 数据替换为真实接口
-- 内置深浅色模式与 Figma 设计源
+- 200+ UI 组件与多种仪表盘预置页面，接 mock REST API
+- AGENTS.md 与 Agent Skills 让 AI agent 按既有代码结构开发
+- api-integration 技能可将 mock 数据替换为真实接口
+- 支持深浅色模式并提供 Figma 设计源文件
 
 ## 适用场景
 
-- 快速搭建管理后台项目起点
-- 配合 Claude Code/Cursor 等 AI 代理开发，保持目录与样式模式一致
-- 替换 mock API 接入自有后端接口
+- 快速搭建分析、电商、CRM 等后台仪表盘
+- 在多轮 AI agent 会话中保持代码风格与结构一致
+- 用一条提示把 mock 数据替换为真实后端接口
 
 ## 场景标签
 
- · 领域:Web 前端/管理后台模板
+ · 领域:Web 开发/后台管理模板
 
 ## 证据(README 行号)
 
-> L2: **NextAdmin** is a free, open-source Next.js admin dashboard with essential UI components, blocks, pages, and multip
-> L29: - **200+ UI components** covering tables, forms, charts, cards, modals, and dashboard elements
-> L63: Open the project in Claude Code, Cursor, Codex, Copilot, or Zed. Your agent reads `AGENTS.md` and the skill files, 
+> L3: **NextAdmin** is a free, open-source Next.js admin dashboard with essential UI components, blocks, pages, and multip
+> L87: The free version covers most of what you need to get a dashboard running. If you want the full set of components, e
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "NextAdminHQ/nextjs-admin-dashboard 星数(近 16 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
     y-axis "stars" 591 --> 611
     line [592, 593, 596, 597, 602, 603, 593, 606, 607, 609, 610, 609, 608, 609, 610, 610]
 ```
 
-2026-10-22 592 → 2026-11-24 610（+18）
+2026-10-23 592 → 2026-11-25 610（+18）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2551b395336a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9b9ad546dd55` · [字段定义](../../DATASET.md)*

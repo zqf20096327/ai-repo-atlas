@@ -2,15 +2,15 @@
 
 ⭐ 573 · Go · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI-NV-plugin) · 组织维护
 
-**将 AudioMuse-AI 相似歌曲分析接入 Navidrome 的插件**
+**Navidrome 插件：将 AudioMuse-AI 声波相似度接入前端即时混音**
 
-Navidrome 音乐服务器插件：把 AudioMuse-AI 核心容器提供的声音分析能力映射到 Navidrome 前端，实现 Instant Mix（歌曲相似）、Radio（艺人相似）与 Artist Info 三类功能，兼容 Substreamer、Tempus、Symfonium、Feishin、Wavio 等第三方客户端。插件为 .ndp 包，放入 Navidrome 数据插件目录并配置 API URL 即可使用；Instant Mix 引擎可在 Similar Song、Lyrics by Song（SemGrove）、Hyperbolic Similarity 三种间切换，后两种依赖 AudioMuse-AI 中预建的索引。可用 Go/TinyGo 从源码构建。
+该仓库是 Navidrome 的插件（audiomuseai.ndp），把 AudioMuse-AI 核心服务的声学分析能力接入 Navidrome 前端，提供 Instant Mix 歌曲相似、Radio 艺人相似与相似艺人信息三类功能，通过 getSimilarSongs2/getSimilarSongs 与 getArtistInfo API 供客户端调用。安装需部署 Navidrome 相关 ENV 变量并将插件文件放入 plugins 目录，依赖单独运行的 AudioMuse-AI 核心容器；自编译需 Go 与 TinyGo。已列明测试过的多个 Web 与移动前端。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,38 +20,39 @@ Navidrome 音乐服务器插件：把 AudioMuse-AI 核心容器提供的声音�
 
 ## 能力要点
 
-- 在 Navidrome 前端提供 Instant Mix / Radio / Artist Info 三类功能
-- Instant Mix 支持三种引擎：Similar Song、Lyrics by Song（SemGrove）、Hyperbolic Similarity
-- 兼容 Substreamer、Tempus、Symfonium、Feishin、Wavio 等多个前端客户端
-- 提供 API Token 与多音乐服务器（Server Name）配置
+- 提供 Instant Mix 歌曲相似与 Radio 艺人相似功能
+- 支持多种相似引擎选择：Similar Song、Lyrics by Song、Hyperbolic、DCLAP、Song Alchemy
+- 兼容多个第三方前端客户端（Substreamer、Tempus、Symfonium、Feishin、Wavio）
+- 提供 make build/package 编译流程，输出 .wasm 与 .ndp
 
 ## 适用场景
 
-- 在 Navidrome 网页端对任意曲目生成相似歌曲即时混播
-- 通过 Subsonic 兼容移动客户端使用相似歌曲/电台功能
-- 在自建音乐库中按歌词语义或双曲投影查找相似曲目
+- 在 Navidrome 前端对某首歌一键生成即时混音队列
+- 让移动客户端通过 Subsonic API 获取相似歌曲与相似艺人
+- 为多前端环境统一接入 AudioMuse-AI 的相似度服务
 
 ## 场景标签
 
-`推荐系统` `语义搜索` · 领域:知识与检索
+`推荐系统` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L10: **AudioMuse-AI-NV-Plugin** the a Navidrome plugin that integrates core AudioMuse-AI features into the Navidrome fro
-> L35:  > * AudioMuse-AI: the core application, it run Flask and Worker containers to actually run all the feature;
+> L13: - Instant Mix - Song similarity
+> L63: - Restart Navidrome, go to UI -> Plugins, enable **AudioMuse-AI**, set **AudioMuse-AI API URL** and other configura
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "NeptuneHub/AudioMuse-AI-NV-plugin 星数(近 21 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 526 --> 576
-    line [530, 534, 535, 537, 540, 544, 545, 547, 549, 550, 537, 555, 558, 560, 564, 566, 567, 569, 571, 572, 572]
+    title "NeptuneHub/AudioMuse-AI-NV-plugin 星数(近 20 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 531 --> 576
+    line [534, 535, 537, 540, 544, 545, 547, 549, 550, 537, 555, 558, 560, 564, 566, 567, 569, 571, 572, 573]
 ```
 
-2026-10-21 530 → 2026-11-24 572（+42）
+2026-10-23 534 → 2026-11-25 573（+39）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `efd74a1966c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `6934587fa53a` · [字段定义](../../DATASET.md)*

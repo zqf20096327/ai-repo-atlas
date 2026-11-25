@@ -44,12 +44,12 @@ UMC Utrecht 数字健康团队开发的工具：读取患者电子病历中的�
 ```mermaid
 xychart-beta
     title "UMCU-Digital-Health/discharge-documentation-generator 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-22 28 → 2026-11-24 29（+1）
+2026-10-23 28 → 2026-11-25 29（+1）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 584 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/xbsheng/atguigu-note) · [官网](https://xbsheng.github.io/atguigu-note/) · 个人维护 · 中文 README
 
-**尚硅谷 Python/LangChain/LangGraph/AI Coding 课程配套课件与代码整理**
+**面向学习者的 AI 课程配套课件与代码笔记站**
 
-个人维护的课程笔记仓库：整理尚硅谷 Python 零基础、LangChain 1.2（Agent/RAG 实战）、LangGraph（智能体部署）与 Vibe Coding（Claude Code/Skills/Codex）四门课程的课件 Markdown 与配套代码，用 VitePress 构建在线站点（GitHub Pages 部署），直接复用各课程下的课件文件，支持浏览器内在线阅读 Notebook。课程版权归尚硅谷所有，仓库仅供学习交流。
+尚硅谷系列 AI 课程的配套资料整理仓库，覆盖 Python 入门到进阶、LangChain 1.2 入门与 Agent/RAG 实战、LangGraph 智能体部署、Vibe Coding（Claude Code/Skills/Codex）以及企业级 Agent 应用与 Skills 开发等五门课程。以 VitePress 构建在线文档站点，站点直接复用各课程目录下的课件 Markdown，并提供 B 站视频链接与 Notebook 在线跟练入口。仓库声明仅供学习交流使用。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 覆盖 Python/LangChain/LangGraph/AI Coding 四门课程课件与代码
-- VitePress 在线站点，GitHub Pages 部署
-- LangChain/LangGraph 配套 Notebook 支持浏览器在线阅读
+- 五门 AI 课程（Python/LangChain/LangGraph/AI Coding/Agent Skills）的课件与代码整理
+- VitePress 在线站点，直接复用课程目录下的课件 Markdown
+- 提供 B 站课程视频链接与浏览器内 Notebook 跟练页面
 
 ## 适用场景
 
-- 学习尚硅谷 LangChain/LangGraph 课程时对照课件复习
-- 在浏览器中直接跟练配套 Notebook
-- 查找 Vibe Coding（Claude Code/Codex）实战项目代码
+- 按分 P 观看 B 站课程后对照课件复习笔记
+- 在浏览器中打开配套 Notebook 跟练 LangChain/LangGraph 内容
+- 按技术篇到实战篇顺序练习企业级 Agent 应用开发
 
 ## 场景标签
 
@@ -36,22 +36,21 @@
 
 ## 证据(README 行号)
 
-> L8: 尚硅谷 Python / LangChain / LangGraph / AI Coding 课程配套课件与代码整理
-> L26: |LangChain|LangChain 1.2 入门到 Agent / RAG 实战|BV1rv7A6oEeP|README|
-> L27: |LangGraph|LangGraph 入门到智能体部署实战|BV1z3NY66EY1|README|
+> L8: Python / LangChain / LangGraph / AI Coding / Agent Skills 课程配套课件与代码整理
+> L21: ## 课程目录
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "xbsheng/atguigu-note 星数(近 28 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 476 --> 590
-    line [485, 493, 496, 498, 499, 503, 506, 515, 527, 529, 530, 533, 498, 555, 560, 562, 564, 562, 563, 564, 567, 570, 574, 575, 577, 579, 581, 581]
+    title "xbsheng/atguigu-note 星数(近 27 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 484 --> 593
+    line [493, 496, 498, 499, 503, 506, 515, 527, 529, 530, 533, 498, 555, 560, 562, 564, 562, 563, 564, 567, 570, 574, 575, 577, 579, 581, 584]
 ```
 
-2026-10-22 485 → 2026-11-24 581（+96）
+2026-10-23 493 → 2026-11-25 584（+91）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b4b6b9867110` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d2bc46d4f85f` · [字段定义](../../DATASET.md)*

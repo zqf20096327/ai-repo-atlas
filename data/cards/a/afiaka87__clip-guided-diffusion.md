@@ -2,9 +2,9 @@
 
 ⭐ 457 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/afiaka87/clip-guided-diffusion) · 个人维护
 
-**用 CLIP 引导 diffusion 从文本生成图像的 CLI 工具/Python 库**
+**CLI/Python 模块：用扩散模型+CLIP 从文本生成图像**
 
-基于 OpenAI CLIP 与 guided diffusion 的文生图工具，以 CLI 命令 cgd 和 Python 模块两种形式提供。支持多提示词加权（正/负权重）、图生图混合（init_image + skip_timesteps）、64-512 像素方形及实验性非方形尺寸、ddim 采样与时间步重排，输出中间帧、GIF 或 MP4。提供三项加速开关（降低 CLIP 引导频率、渐进 cutout、缓存 cutout 坐标）。CPU 可运行但耗时明显，GPU 自动选择设备；部分测试需要 GPU。作者声明重心已转向 pyglide，本仓库 bug 响应可能较慢。
+源自 @crowsonkb 的文本生成图像工具，以 CLI（cgd 命令）和 Python 模块两种形式提供。经典管线为 ImageNet 扩散模型加 CLIP 引导，可选 sd-turbo 等现代 backbone；支持多提示词加权、图像提示、图像序列滑动动画（GIF/MP4 导出）、以现有图像为起点的生成，同参数可在同机逐字节复现。动画导出需 FFmpeg；CPU 可运行但耗时更长，GPU 默认走 CUDA。作者声明精力转向 pyglide，bug 修复可能变慢。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 文本到图像生成，多提示词支持正负权重
-- 图生图：init_image 混合与 VGG 感知损失
-- 三项性能优化开关（reduce-clip / progressive-cutout / cached-cutouts）
-- 输出中间帧、GIF、MP4，可接入 wandb 日志
+- 文本/图像提示生成图像，支持多提示词加权与负权重
+- 图像序列（|> 语法）滑移动画，导出 GIF/MP4（H.264）
+- --init-image 从现有图像出发，支持 LPIPS 感知损失保持构图
+- 同 seed 与参数在同机同库版本下逐字节复现
 
 ## 适用场景
 
-- 输入文字描述生成图像作品
-- 以现有图像为起点做扩散再创作
-- 生成过程录制为 GIF 或 MP4
+- 从文本提示生成 64-512 像素图像
+- 制作多张图像之间滑动的循环动画
+- 以一张已有图为底图重绘出新构图
 
 ## 场景标签
 
@@ -37,21 +37,22 @@
 
 ## 证据(README 行号)
 
-> L22: `uv run cgd -txt "Alien friend by Odilon Redo"`
-> L190: from cgd import clip_guided_diffusion
+> L24: `uv run cgd -gif -freq 3 -size 256 -clip ViT-B/32+PE-Core-B-16 -n 90 -gl 0.99 -cutn 4 "A monarch butterfly on a pur
+> L28: That is the classic pipeline: an ImageNet model steered by CLIP, with no extra dependencies to download. It conditi
+> L63: - The prompt, in quotes
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "afiaka87/clip-guided-diffusion 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
     y-axis "stars" 456 --> 460
     line [459, 458, 459, 457, 457]
 ```
 
-2026-10-22 459 → 2026-11-24 457（-2）
+2026-10-23 459 → 2026-11-25 457（-2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `952fb1bb576d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `00db62d95498` · [字段定义](../../DATASET.md)*

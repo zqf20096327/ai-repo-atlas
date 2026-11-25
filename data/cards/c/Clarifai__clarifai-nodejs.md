@@ -45,12 +45,12 @@ Clarifai 官方维护的 Node.js 客户端库，供开发者以代码调用 Clar
 ```mermaid
 xychart-beta
     title "Clarifai/clarifai-nodejs 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-22 25 → 2026-11-24 25（+0）
+2026-10-23 25 → 2026-11-25 25（+0）
 
 
 ---

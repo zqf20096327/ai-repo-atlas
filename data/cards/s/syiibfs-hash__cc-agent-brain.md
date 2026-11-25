@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "syiibfs-hash/cc-agent-brain 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 82 --> 95
-    line [94, 83, 83]
+    title "syiibfs-hash/cc-agent-brain 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 82 --> 84
+    line [83, 83]
 ```
 
-2026-10-22 94 → 2026-11-24 83（-11）
+2026-10-23 83 → 2026-11-25 83（+0）
 
 
 ---

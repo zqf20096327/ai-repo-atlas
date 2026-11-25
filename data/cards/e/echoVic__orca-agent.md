@@ -1,10 +1,10 @@
 # echoVic/orca-agent
 
-⭐ 520 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/echoVic/orca-agent) · [官网](https://orcaagent.dev/) · 个人维护 · 中文 README
+⭐ 520 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/echoVic/orca-agent) · [官网](https://orcaagent.dev/) · 组织维护
 
-**DeepSeek 原生的终端编码 agent，读码改文件跑命令直至任务完成**
+**面向 DeepSeek 的终端编程 Agent：读码改文件跑命令**
 
-用 Rust 编写、本地运行的终端编码代理：接收任务后读取/搜索/编辑代码、运行 shell 命令、按指定命令验证结果，持续工作直到任务完成。直接使用 DeepSeek 推理与工具调用语义（SSE 流式、前缀缓存友好提示、自动上下文管理），默认模型 deepseek-flash，支持 1M token 上下文。提供 TUI 交互界面与 orca exec 无头模式，含四级审批模式（suggest/auto-edit/full-auto/plan）、沙箱、子代理、工作流、MCP 服务器管理与 ACP/JSONL 稳定契约。通过 npm 或安装脚本分发，macOS/Linux/Windows ARM64 与 x64 预编译。
+Rust 编写的终端编码代理，接入 DeepSeek 推理与工具调用语义（SSE 流式、前缀缓存友好、自动上下文管理）。用户给出任务后，它读取代码、编辑文件、运行 shell 命令并验证结果，直至任务完成或请求人工介入。提供交互式 TUI 与无头 `orca exec` 两种使用方式，配合 suggest/auto-edit/full-auto/plan 四级审批模式与按目录信任机制；支持 MCP 服务器、子代理、JavaScript 工作流、会话恢复/分叉与检查点回退。通过 npm 或原生安装脚本分发，支持 macOS/Linux/Windows。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 直接使用 DeepSeek 推理与工具调用语义（SSE 流式、自动上下文管理、重试）
-- 四级审批模式与按文件夹信任、OS 沙箱隔离
-- 同步/异步子代理、工作流与持久化续跑（continuation id / checkpoint）
-- MCP 服务器管理及 JSONL / ACP / app-server 稳定接口供编辑器与 CI 使用
+- 直接使用 DeepSeek 推理与工具调用语义，SSE 流式输出
+- 四级执行模式（suggest/auto-edit/full-auto/plan）与按目录信任
+- MCP 服务器管理与文件式子代理、JavaScript 工作流
+- 基于内容寻址检查点的 /rewind 回退与任务后台运行
 
 ## 适用场景
 
-- 在终端用自然语言下达编码任务，让代理读码改文件并验证结果
-- CI/脚本中以 orca exec 无头运行并按预算限制（turns/费用/时长）
-- 通过 MCP 工具与 Pilion 浏览器集成扩展代理能力
+- 在终端用自然语言委托编码任务并自动验证结果
+- 脚本与 CI 中以无头模式运行编码代理
+- 通过 MCP 接入自定义工具与资源
+- macOS 上让代理操作 GUI 应用完成界面验证
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L10: A DeepSeek-native coding agent for your terminal.
-> L12: Give Orca a task and it reads code, edits files, runs commands, verifies the
-> L153: - Uses DeepSeek's reasoning and tool-use semantics directly, with SSE streaming,
+> L10: Orca Agent is a DeepSeek-native coding agent for your terminal.
+> L177: - Uses DeepSeek's reasoning and tool-use semantics directly, with SSE streaming,
+> L192: - Gates risky actions with `suggest`, sandboxed `auto-edit`, full-access
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "echoVic/orca-agent 星数(近 14 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-24"]
+    title "echoVic/orca-agent 星数(近 13 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-25"]
     y-axis "stars" 506 --> 521
-    line [510, 507, 508, 509, 510, 512, 513, 509, 513, 516, 518, 519, 520, 520]
+    line [507, 508, 509, 510, 512, 513, 509, 513, 516, 518, 519, 520, 520]
 ```
 
-2026-10-21 510 → 2026-11-24 520（+10）
+2026-10-23 507 → 2026-11-25 520（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b8a86324ef22` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2d5a2c567e53` · [字段定义](../../DATASET.md)*

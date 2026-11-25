@@ -45,12 +45,12 @@ NeurIPS 2024 论文 Beyond Single Stationary Policies 的官方实现，提出 C
 ```mermaid
 xychart-beta
     title "AlexWanghaoming/CBPR 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-22 16 → 2026-11-24 16（+0）
+2026-10-23 16 → 2026-11-25 16（+0）
 
 
 ---

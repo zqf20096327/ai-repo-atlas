@@ -1,10 +1,10 @@
 # llmmanorg/llmman
 
-⭐ 600 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/llmmanorg/llmman) · [官网](https://llmmanorg.github.io/) · 组织维护
+⭐ 600 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/llmmanorg/llmman) · [官网](https://llmmanorg.github.io/) · 个人维护
 
-**本地/托管模型上运行各类 AI agent 的 CLI 与推理服务**
+**以 OCI 镜像分发模型并一键驱动各类 coding agent 的工具**
 
-命令行工具加守护进程：`launch` 一条命令为 Claude Code、Codex、OpenCode 等 agent 启动本地推理服务并注入环境变量；`serve` 在 127.0.0.1:17434 提供 Ollama/OpenAI/Anthropic 兼容 API。模型以 OCI 镜像形式存储于任意 OCI 注册表（Docker Hub/GHCR/Hugging Face 等），磁盘格式为未修改的 GGUF/safetensors，由上游 llama.cpp、vllm、sglang、mlx-lm 提供推理。支持注册表间一步转移、cosign 签名验证、多机硬件聚合。安装支持 curl 脚本、Homebrew、Scoop、Cargo 与 Docker。
+llmman 将模型打包为标准 OCI 制品存放在任意容器镜像仓库（Docker Hub、GHCR、quay、自建），提供 launch/run/serve/pull/transfer/verify 等命令：启动本地推理服务后运行 Claude Code、Codex、OpenCode 等 agent，或直接对话、生成图像/视频/音频。serve 暴露 Ollama、OpenAI、Anthropic 三种兼容 API，底层调用上游 llama.cpp、vllm、sglang、mlx-lm。面向需要本地或私有化模型供给的开发者与受合规约束的环境；源码构建需 Go 1.27.3+ 与 Rust。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 模型打包为标准 OCI 制品，可存于任意 OCI 注册表并 cosign 签名验证
-- 一个端点兼容 Ollama/OpenAI/Anthropic API，现有客户端无需改动
-- 一条命令将 Claude Code/Codex/OpenCode 等 agent 指向本地或托管模型
-- 多个 llmman serve 守护进程可聚合为单一端点共享硬件
+- 模型以标准 OCI 制品存储，支持任意兼容镜像仓库直拉直推
+- 一条命令启动本地推理并驱动 Claude Code/Codex/OpenCode 等 agent
+- serve 提供 Ollama/OpenAI/Anthropic 兼容端点，现有客户端无需改动
+- 多机 serve 守护进程聚合为单一端点，按模型加载情况调度请求
 
 ## 适用场景
 
-- 在本地模型上运行 Claude Code 等 agent CLI
-- 用现有容器注册表基础设施分发、镜像和签名模型
-- 多台机器组成一个推理端点，按需调度模型加载
-- 通过 transfer 将 Hugging Face 模型直接转入私有注册表（离线/合规场景）
+- 在本地 GPU 上用自有模型运行 coding agent
+- 把模型从 Hugging Face 直迁到自建镜像仓库（含离线/内网场景）
+- 为团队提供统一的本地模型推理端点，复用现有 OpenAI/Ollama 客户端
+- 用 cosign 签名与 pull 时信任策略控制模型供应链
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`编码 Agent` `推理引擎` · 领域:编码与开发
 
 ## 证据(README 行号)
 
+> L5:  Run any agent on any model.
 > L14: That starts a local inference server, fetches the tested `llama.cpp` release for
-> L105: llmman serve                          # an Ollama/OpenAI/Anthropic-compatible endpoint
-> L288: Point an integration at a model in one step. `llmman launch` starts `serve`
+> L262: One endpoint on `127.0.0.1:17434` that speaks Ollama, OpenAI and Anthropic:
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "llmmanorg/llmman 星数(近 20 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 560 --> 602
-    line [563, 565, 569, 571, 572, 573, 575, 577, 569, 584, 588, 589, 590, 591, 592, 595, 597, 598, 599, 599]
+    title "llmmanorg/llmman 星数(近 19 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 562 --> 603
+    line [565, 569, 571, 572, 573, 575, 577, 569, 584, 588, 589, 590, 591, 592, 595, 597, 598, 599, 600]
 ```
 
-2026-10-21 563 → 2026-11-24 599（+36）
+2026-10-23 565 → 2026-11-25 600（+35）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `57cf7d5bfa18` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b47e0544ab63` · [字段定义](../../DATASET.md)*

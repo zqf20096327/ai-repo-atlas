@@ -45,12 +45,12 @@ FastAPI webhook 服务：接收 Meta 广告线索、网站表单或任意扁平 
 ```mermaid
 xychart-beta
     title "RutuK2005/lead-router 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-23 3 → 2026-11-24 3（+0）
+2026-11-23 3 → 2026-11-25 4（+1）
 
 
 ---

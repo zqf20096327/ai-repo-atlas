@@ -45,12 +45,12 @@ skwdro 是一个 Python 包，提供大量估计器的 WDRO（Wasserstein 分布
 ```mermaid
 xychart-beta
     title "iutzeler/skwdro 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-22 25 → 2026-11-24 25（+0）
+2026-10-23 25 → 2026-11-25 25（+0）
 
 
 ---

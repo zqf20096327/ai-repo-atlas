@@ -46,12 +46,12 @@ Go 编写的高性能后端，提供 REST API 与 WebSocket 流式接口，用�
 ```mermaid
 xychart-beta
     title "turboline-ai/turbostream 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-22 18 → 2026-11-24 18（+0）
+2026-10-23 18 → 2026-11-25 18（+0）
 
 
 ---

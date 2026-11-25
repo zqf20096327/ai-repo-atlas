@@ -46,12 +46,12 @@ Unreal Engine 插件，基于 PuerTS 脚本桥接，让开发者用原生 React�
 ```mermaid
 xychart-beta
     title "Caleb196x/ReactorUMG 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-22 42 → 2026-11-24 42（+0）
+2026-10-23 42 → 2026-11-25 43（+1）
 
 
 ---

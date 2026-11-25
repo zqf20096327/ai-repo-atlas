@@ -46,12 +46,12 @@ Microsoft 维护的 Dragon Copilot 产品家族扩展开发资源库：包含 Ph
 ```mermaid
 xychart-beta
     title "microsoft/dragon-copilot-extension-samples 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-22", "2026-11-25"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-21 18 → 2026-11-24 18（+0）
+2026-10-22 18 → 2026-11-25 18（+0）
 
 
 ---

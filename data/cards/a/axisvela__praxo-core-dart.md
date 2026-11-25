@@ -47,12 +47,12 @@ PRAXO-CORE 的 Dart 实现，是一个可嵌入进程内运行的 agent 框架�
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-dart 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-23", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-24 3（+0）
+2026-11-23 3 → 2026-11-25 3（+0）
 
 
 ---

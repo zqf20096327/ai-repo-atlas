@@ -2,9 +2,9 @@
 
 ⭐ 453 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ekzhang/resin) · 个人维护
 
-**构建 LLM 推理引擎的积木式库：Rust 调度器+自写 kernel**
+**为开发者提供构建 LLM 推理引擎的组件库**
 
-实验性库，自身不是推理引擎：提供 Rust 编写的 headless Engine（批调度、KV/SWA/循环状态统一缓存池、投机解码、TP/EP/CP/DP 并行、Prometheus 指标）与可选 HTTP 服务，用户为特定模型和硬件编写前向 kernel。模型 runner 是独立包（CUDA 优化版与 Torch 参考版），配套基准 CLI、Modal 部署脚本、服务器正确性检查脚本与 agent 技能。README 明确声明非生产级软件，建议需要现成引擎者改用 SGLang 或 vLLM。安装需 Python 3.11+ 与 Rust，pip 从 GitHub 构建本地 Rust 扩展。
+以 Rust 编写的批调度器、KV 缓存池与指标服务器为核心，用户自行编写模型前向 kernel 组成完整推理引擎，流程为 token ID 经 Rust Engine 生成冻结 BatchPlan 后交由 Python Runner 执行。提供可选 HTTP 服务（兼容 OpenAI/Anthropic 接口）、Prometheus 指标、投机解码、TP/EP/CP/DP 并行与 CUDA graph。README 明确声明非生产级软件，定位为研究推理系统、新模型与新硬件的实验基础。安装需 Python 3.11+ 与 Rust。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Rust 批调度引擎：slab 统一缓存池、投机解码（MTP/DSpark）、零开销 overlap 调度
-- 模型特定的前向 kernel 由用户编写，TP/EP/CP/DP Attention 并行
-- 原生 HTTP 服务支持 OpenAI Chat/Responses、Anthropic Messages 协议
-- 单一自定义 runner 只需实现一个方法（numpy token 进出）
+- headless Rust Engine：批调度器、统一 slab 缓存池与指标服务器
+- 支持 TP/EP/CP/DP Attention 并行与 prefill/decode CUDA graphs
+- 内置 HTTP 服务器暴露 OpenAI/Anthropic 兼容端点与演示页面
+- 提供 MLX runner，可在 Apple Silicon 上运行模型
 
 ## 适用场景
 
-- 为新模型或新硬件从零构建定制推理引擎
-- 研究 LLM 推理系统调度与 KV 缓存机制
-- 在 Modal 上部署基准测试各模型的 prefill/decode 表现
+- 为自定义模型从零搭建独立推理引擎
+- 在本地 GPU 或 Modal 云端做模型 benchmark 与服务检查
+- 在 Apple Silicon 上以 MLX 后端本地运行小模型
 
 ## 场景标签
 
@@ -39,20 +39,20 @@
 
 > L3: Resin is not an inference engine. It's a library of _building blocks_ for LLM
 > L6: At its core is the headless `Engine`: a fast Rust scheduler, KV cache, and
-> L7: metrics server. You then write the forward pass as **model-specific kernels,
+> L20: > inference engine, please use SGLang or vLLM. Read on if you want to hack on
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ekzhang/resin 星数(近 20 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 164 --> 477
-    line [190, 254, 267, 272, 284, 346, 359, 419, 423, 426, 427, 429, 430, 434, 437, 440, 441, 442, 451, 451]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 164 --> 479
+    line [190, 254, 267, 272, 284, 346, 359, 419, 423, 426, 427, 429, 430, 434, 437, 440, 441, 442, 451, 453]
 ```
 
-2026-10-26 190 → 2026-11-24 451（+261）
+2026-10-26 190 → 2026-11-25 453（+263）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 high · 依据 README sha `ab013aa67771` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7a6531a97764` · [字段定义](../../DATASET.md)*

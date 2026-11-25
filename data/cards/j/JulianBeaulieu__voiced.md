@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JulianBeaulieu/voiced 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 4 --> 10
-    line [5, 8, 9, 9]
+    title "JulianBeaulieu/voiced 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 7 --> 10
+    line [8, 9, 9]
 ```
 
-2026-10-22 5 → 2026-11-24 9（+4）
+2026-10-23 8 → 2026-11-25 9（+1）
 
 
 ---

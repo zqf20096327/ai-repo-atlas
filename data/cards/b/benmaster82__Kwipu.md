@@ -2,9 +2,9 @@
 
 ⭐ 616 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/benmaster82/Kwipu) · [官网](https://benmaster82.github.io/Kwipu/) · 个人维护 · 中文 README
 
-**对 Markdown 笔记做本地 Graph RAG 问答的工具，兼容 Obsidian**
+**本地 Graph RAG 引擎：对 Markdown 笔记提问并附引用**
 
-把 .md/.txt/.pdf/.docx 文档构建为属性图索引，从 wikilink 与 YAML frontmatter 提取结构关系、用 LLM 提取语义关系，检索结合向量相似度、BM25 与时间元数据，回答附来源引文。面向使用 Obsidian 库或普通笔记文件夹的用户，提供终端界面、3D Web 界面与 MCP server 三种访问方式，并监听文件夹变化增量更新。需注意：默认 LLM 为 gpt-oss:20b-cloud（云端），完全本地需自选本地 Ollama 模型；安装需 Git/Python 3.12+/Ollama，Web 界面另需 Node.js。
+将文档文件夹（含 Obsidian 库）构建为属性图 RAG 索引：从 wikilink 与 YAML frontmatter 提取结构关系，用 LLM 提取语义关系，检索融合向量相似、BM25 与时间元数据，回答附来源引用。提供终端、3D Web 界面与 MCP Server 三种使用途径，文件夹变动可被监视并增量更新。运行依赖 Python 3.12+ 与 Ollama；默认 LLM 为云端 gpt-oss:20b-cloud，会外发文档块与问题，需自行选择本地模型（如 qwen2.5:7b）实现全本地运行。支持英、意、法、德、西、葡六语言模式。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 从 wikilink 与 YAML frontmatter 提取实体-关系三元组建属性图
-- 向量+BM25+时间元数据的混合检索，回答附引用
-- 终端、Web API、MCP server 三种接口共享同一索引
-- 监听文档变化并安全更新持久化存储
+- 从 wikilink/YAML frontmatter 提取结构关系，LLM 提取语义关系并保留来源块引用
+- 混合检索：向量相似 + BM25 + 时间元数据 + 可选同义词检索
+- 终端、3D Web 界面与 MCP Server 暴露同一知识图谱
+- 文件夹监视与持久化存储的安全增量更新
 
 ## 适用场景
 
-- 在 Obsidian 笔记库上直接提问并得到带引用的回答
-- 在浏览器 3D 图谱中探索实体、文档与关系
-- 通过 MCP 客户端（如 Claude 类工具）查询自己的笔记
-- 重建会议记录中的决策与项目时间线
+- 在终端或浏览器里用自己的 Obsidian 笔记问答并溯源
+- 跨会议/评审笔记重建项目时间线与决策
+- 跨人、角色与文档比较并给出引用来源
+- 通过 MCP 客户端接入自己的知识库
 
 ## 场景标签
 
-`RAG` `知识图谱` `文档问答` · 领域:知识与检索
+`知识图谱` `RAG` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L14: Kwipu turns a folder of documents into a property-graph RAG index that you can explore and query from an interactiv
-> L31: - Builds a property graph from `.md`, `.txt`, `.pdf`, and `.docx` documents.
-> L34: - Grounds answers in source chunks and returns citations.
+> L15: Kwipu turns a folder of documents into a property-graph RAG index that you can explore and query from an interactiv
+> L34: - Combines vector similarity, BM25, temporal metadata, and optional synonym retrieval.
+> L35: - Grounds answers in source chunks and returns citations.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "benmaster82/Kwipu 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 609 --> 616
-    line [610, 611, 610, 612, 610, 611, 612, 613, 614, 615, 615]
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 609 --> 617
+    line [610, 611, 610, 612, 610, 611, 612, 613, 614, 615, 616]
 ```
 
-2026-10-22 610 → 2026-11-24 615（+5）
+2026-10-23 610 → 2026-11-25 616（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `f7360c85dca7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ab2c433b056e` · [字段定义](../../DATASET.md)*

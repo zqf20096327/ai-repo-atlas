@@ -44,12 +44,12 @@ R 语言的模型规格桥接库：提供 create_keras_sequential_spec() 与 cre
 ```mermaid
 xychart-beta
     title "davidrsch/kerasnip 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-22 12 → 2026-11-24 12（+0）
+2026-10-23 12 → 2026-11-25 12（+0）
 
 
 ---

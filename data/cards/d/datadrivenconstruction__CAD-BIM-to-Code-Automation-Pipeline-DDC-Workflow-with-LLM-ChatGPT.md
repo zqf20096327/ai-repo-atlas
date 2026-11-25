@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datadrivenconstruction/CAD-BIM-to-Code-Automation-Pipeline-DDC-Workflow-with-LLM-ChatGPT 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
     y-axis "stars" 47 --> 54
     line [48, 49, 48, 53, 53]
 ```
 
-2026-10-22 48 → 2026-11-24 53（+5）
+2026-10-23 48 → 2026-11-25 53（+5）
 
 
 ---

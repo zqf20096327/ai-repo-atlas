@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TalyxTerminal/TalyxTerminal 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 3 --> 7
+    line [4, 6]
 ```
 
-2026-11-23 4 → 2026-11-24 4（+0）
+2026-11-23 4 → 2026-11-25 6（+2）
 
 
 ---

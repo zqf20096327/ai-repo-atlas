@@ -44,12 +44,12 @@ Chrome/Firefox/Edge 浏览器扩展，在 GitHub 仓库页面上添加跳转 Cod
 ```mermaid
 xychart-beta
     title "yamadashy/github-code-wiki-button 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-22 14 → 2026-11-24 14（+0）
+2026-10-23 14 → 2026-11-25 14（+0）
 
 
 ---

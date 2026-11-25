@@ -44,13 +44,13 @@ NeurIPS'26 论文 SkillOrchestra 的官方代码库。框架不端到端学习�
 
 ```mermaid
 xychart-beta
-    title "jiayuww/SkillOrchestra 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 77 --> 81
-    line [78, 80, 80]
+    title "jiayuww/SkillOrchestra 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 79 --> 81
+    line [80, 80]
 ```
 
-2026-10-22 78 → 2026-11-24 80（+2）
+2026-10-23 80 → 2026-11-25 80（+0）
 
 
 ---

@@ -46,12 +46,12 @@ LSPosed/Xposed 模块，注入微信聊天页读取最近消息，调用 OpenAI 
 ```mermaid
 xychart-beta
     title "shibry88-netizen/TalkTact 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-22 16 → 2026-11-24 16（+0）
+2026-10-23 16 → 2026-11-25 16（+0）
 
 
 ---

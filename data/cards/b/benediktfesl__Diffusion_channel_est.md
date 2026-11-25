@@ -45,12 +45,12 @@ IEEE Wireless Communications Letters 2024 论文 'Diffusion-Based Generative Pri
 ```mermaid
 xychart-beta
     title "benediktfesl/Diffusion_channel_est 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
     y-axis "stars" 87 --> 90
     line [88, 89, 88, 89, 89]
 ```
 
-2026-10-22 88 → 2026-11-24 89（+1）
+2026-10-23 88 → 2026-11-25 89（+1）
 
 
 ---

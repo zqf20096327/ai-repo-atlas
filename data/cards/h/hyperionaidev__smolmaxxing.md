@@ -1,10 +1,10 @@
 # hyperionaidev/smolmaxxing
 
-⭐ 1,123 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hyperionaidev/smolmaxxing) · [官网](https://hyperion-ai.com/products/smolmaxxing) · 组织维护
+⭐ 1,123 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hyperionaidev/smolmaxxing) · [官网](https://hyperion-ai.com/products/smolmaxxing) · 个人维护
 
-**在电视盒/旧手机/Kindle 等小设备上运行大语言模型的 llama.cpp 补丁集**
+**给极小硬件（电视盒/旧手机/Kindle）跑大 LLM 的 llama.cpp 补丁与实测**
 
-smolmaxxing 通过给 llama.cpp 打补丁，在电视盒、旧手机、iPad、Kindle 等闲置小设备上运行尽可能大的语言模型。关键机制包括：针对 Cortex-A55、Apple A7 等芯片的 1-bit/2-bit/ternary 查找表内核，裁剪低频词表输出行以省 RAM，MoE 专家按需从闪存分页与预取，以及稠密模型的闪存流式读取。README 给出 6 台实测设备的量化结果（260K 到 80B 参数），提供各设备安装文档、模型重建工具、聊天界面与完整实验记录。限制：TV 盒与 iPad 模型文件需要补丁版 llama.cpp 方能加载。
+对 llama.cpp 打补丁的项目：为 Cortex-A55、Apple A7 等 CPU 定制 1-bit/2-bit/三元权重内核，砍掉低频词表行降内存，用专家按需换页（MoE）与稠密模型 flash 流式读取，使 1 GB RAM 设备跑 8B/16B、3 GB 余量手机跑 35B/80B 模型。已在 8 台真实设备上测速并附吞吐数据，提供 Hugging Face 模型文件、各设备 setup 文档、离线聊天 App 与基准结果。模型文件需配套补丁版 llama.cpp 加载。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ smolmaxxing 通过给 llama.cpp 打补丁，在电视盒、旧手机、iPad、Ki
 
 ## 能力要点
 
-- 针对 Cortex-A55 与 Apple A7 的 1-bit 查找表内核与 2-bit/ternary 重排格式
-- MoE 专家从闪存分页与预取，8B/16B 模型跑在约 1 GB RAM 设备上
-- 低频词表裁剪与 headless 模式降低内存占用
-- 6 台实测设备数据、171 次实验记录与全部补丁开源
+- 1-bit 查表内核只需基础 NEON，无 dotprod 的 A7/A76 也有对应构建
+- MoE 专家换页与稠密模型 flash 流式读取，模型可大于 RAM
+- 8 台设备实测吞吐数据与 171 次实验的完整记录（EXPERIMENT.md）
+- 提供 SmolChat 离线聊天 App，开机自启模型服务
 
 ## 适用场景
 
-- 在电视盒或旧安卓手机上本地运行聊天/编码助手
-- 为无 dotprod 或 32 位 ARM 设备搭建可用的 LLM 推理
-- 贡献小设备实测数据加入社区结果表
+- 在电视盒、旧手机、单板机上离线运行本地 LLM
+- 为低内存 ARM 设备复现或提交实测吞吐数据
+- 查找小内存设备可运行的量化模型文件与重建方法
 
 ## 场景标签
 
-`推理引擎` `模型量化` · 领域:训练与推理
+`推理引擎` `模型量化` `聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L37: All of it is a patch on llama.cpp. The main ideas:
-> L8: **Run the biggest language model you can on the smallest hardware you own.**
+> L80: All of it is a patch on llama.cpp. The main ideas:
+> L91: The quickest start is a ready-made model file from Hugging Face. The TV box and iPad files need the patched llama.c
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "hyperionaidev/smolmaxxing 星数(近 11 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 579 --> 1155
-    line [627, 688, 740, 875, 963, 996, 1026, 1059, 1087, 1107, 1107]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 578 --> 1172
+    line [627, 688, 740, 875, 963, 996, 1026, 1059, 1087, 1107, 1123]
 ```
 
-2026-11-13 627 → 2026-11-24 1,107（+480）
+2026-11-13 627 → 2026-11-25 1,123（+496）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4f89dcb74531` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `1f453c328af4` · [字段定义](../../DATASET.md)*

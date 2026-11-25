@@ -45,12 +45,12 @@ NeoHaskell 是聚焦 newcomer 友好与生产效率的 Haskell 方言，本仓�
 ```mermaid
 xychart-beta
     title "neohaskell/NeoHaskell 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 347 --> 349
     line [348, 348]
 ```
 
-2026-10-22 348 → 2026-11-24 348（+0）
+2026-10-23 348 → 2026-11-25 348（+0）
 
 
 ---

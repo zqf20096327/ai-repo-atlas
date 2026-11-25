@@ -44,12 +44,12 @@ Light Origins Labs 论文《Light Loco Parkour: Versatile Perceptive Whole-Body 
 ```mermaid
 xychart-beta
     title "lucidrains/light-loco-parkour 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-24"]
-    y-axis "stars" 71 --> 78
-    line [72, 73, 74, 76, 77, 77]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-25"]
+    y-axis "stars" 71 --> 79
+    line [72, 73, 74, 76, 77, 78]
 ```
 
-2026-10-22 72 → 2026-11-24 77（+5）
+2026-10-23 72 → 2026-11-25 78（+6）
 
 
 ---

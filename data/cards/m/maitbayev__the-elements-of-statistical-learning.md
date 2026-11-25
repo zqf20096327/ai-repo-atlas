@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "maitbayev/the-elements-of-statistical-learning 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-10", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 430 --> 434
-    line [431, 432, 433, 432, 432]
+    title "maitbayev/the-elements-of-statistical-learning 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 431 --> 434
+    line [432, 433, 432, 432]
 ```
 
-2026-10-22 431 → 2026-11-24 432（+1）
+2026-10-23 432 → 2026-11-25 432（+0）
 
 
 ---

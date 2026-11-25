@@ -46,12 +46,12 @@ CloudMind 是部署在用户自己 Cloudflare 账号里的 AI 记忆层：采集
 ```mermaid
 xychart-beta
     title "evepupil/CloudMind 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-22 18 → 2026-11-24 18（+0）
+2026-10-23 18 → 2026-11-25 18（+0）
 
 
 ---

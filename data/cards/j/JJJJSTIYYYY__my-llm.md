@@ -46,12 +46,12 @@ my-llm-py 是 Python 异步 LLM 协议适配库，支持 OpenAI Chat、OpenAI Re
 ```mermaid
 xychart-beta
     title "JJJJSTIYYYY/my-llm 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-24"]
+    x-axis ["2026-11-19", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-24 3（+0）
+2026-11-19 3 → 2026-11-25 3（+0）
 
 
 ---

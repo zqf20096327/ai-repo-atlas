@@ -45,12 +45,12 @@ AWS 官方示例工程，构建基于检索增强生成（RAG）的问答应用�
 ```mermaid
 xychart-beta
     title "aws-samples/rag-with-amazon-bedrock-and-documentdb 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hongjian01/ClimWorkflow 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 91 --> 103
-    line [102, 92, 92]
+    title "Hongjian01/ClimWorkflow 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 91 --> 93
+    line [92, 92]
 ```
 
-2026-10-22 102 → 2026-11-24 92（-10）
+2026-10-23 92 → 2026-11-25 92（+0）
 
 
 ---

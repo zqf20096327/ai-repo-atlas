@@ -47,12 +47,12 @@ PyTorch 时序预测框架，用 Neural ODE（可选 Transformer/TCN/Ensemble）
 ```mermaid
 xychart-beta
     title "yotambraun/APDTFlow 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-22 44 → 2026-11-24 44（+0）
+2026-10-23 44 → 2026-11-25 44（+0）
 
 
 ---

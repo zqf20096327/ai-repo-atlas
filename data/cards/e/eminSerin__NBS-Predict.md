@@ -45,12 +45,12 @@ NBS-Predict 是 Network-based Statistic 的预测式扩展，以交叉验证结�
 ```mermaid
 xychart-beta
     title "eminSerin/NBS-Predict 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-22 40 → 2026-11-24 40（+0）
+2026-10-23 40 → 2026-11-25 40（+0）
 
 
 ---

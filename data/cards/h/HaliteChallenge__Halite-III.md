@@ -45,12 +45,12 @@ Halite III 是 Two Sigma 开发并托管的 AI 编程竞赛环境：参赛者编
 ```mermaid
 xychart-beta
     title "HaliteChallenge/Halite-III 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 202 --> 204
     line [203, 203]
 ```
 
-2026-10-22 203 → 2026-11-24 203（+0）
+2026-10-23 203 → 2026-11-25 203（+0）
 
 
 ---

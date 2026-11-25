@@ -46,12 +46,12 @@ PRAXO-CORE 的 Python 实现，零运行时依赖的 AI agent 构建框架，提
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-python 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-23", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-24 3（+0）
+2026-11-23 3 → 2026-11-25 3（+0）
 
 
 ---

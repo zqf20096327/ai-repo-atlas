@@ -46,12 +46,12 @@ Provider-independent 的 TypeScript 分类库：通过应用显式注入的 Deci
 ```mermaid
 xychart-beta
     title "zoomplus/zorya-classifier 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-22 4 → 2026-11-24 4（+0）
+2026-10-23 4 → 2026-11-25 4（+0）
 
 
 ---

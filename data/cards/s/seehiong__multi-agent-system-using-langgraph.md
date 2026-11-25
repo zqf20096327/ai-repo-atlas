@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seehiong/multi-agent-system-using-langgraph 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-22 42 → 2026-11-24 42（+0）
+2026-10-23 42 → 2026-11-25 42（+0）
 
 
 ---

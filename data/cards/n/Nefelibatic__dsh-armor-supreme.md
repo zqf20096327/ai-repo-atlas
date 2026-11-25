@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nefelibatic/dsh-armor-supreme 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 5 --> 11
+    line [6, 10]
 ```
 
-2026-11-23 6 → 2026-11-24 6（+0）
+2026-11-23 6 → 2026-11-25 10（+4）
 
 
 ---

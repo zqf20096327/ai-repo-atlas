@@ -2,9 +2,9 @@
 
 ⭐ 514 · Rust · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/leeguooooo/iphone-use) · [官网](https://iphone-use.leeguoo.com/en/) · 个人维护 · 中文 README
 
-**让 AI agent 操作真实 iPhone 的 MCP 工具：读屏、点击、输入、滑动**
+**让 AI agent 通过 MCP 操作真实 iPhone 的 macOS 工具**
 
-运行在 macOS 上的自托管守护进程，通过自有 XCTest runner 驱动真实 iPhone（iOS 15+）：以无障碍树文本形式读屏，执行点击、输入（最长 2 万字符）、滑动等操作，适用无 API 的任意 App。以 MCP server 接入 Claude Code、Codex、Cursor 等客户端，另有 HTTP API 与浏览器/iOS App 人工远程控制。支持 USB/Wi-Fi 连接、可回放的 flow（无模型无 Token 重放）、iOS Simulator 开发模式；动作报告应用状态并可拒绝不安全操作。Rust 编写，安装脚本一键部署，需 Xcode 与开发者模式。
+运行于 macOS 的守护进程，通过自有 XCTest runner 以无障碍树文本形式读取 iPhone 屏幕，并执行点击、输入、滑动等操作，支持 USB 或 Wi-Fi 连接，iOS 15 及以上设备无需越狱。对外提供 MCP server、HTTP API 与网页/iOS 远程控制三种接口，一次任务可录制成可回放 flow（无模型、无 token 消耗）。安装需 Mac（macOS 15+、登录 Apple ID 的 Xcode）与开启开发者模式的 iPhone；许可为 PolyForm Shield 1.0.0，另有付费配置与赞助服务。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 以无障碍树文本读屏并驱动任意 App，无需目标 App 提供 API
-- MCP server / HTTP API / 网页与 iOS App 三种控制形式
-- 任务可保存为 flow，无模型零 Token 重放
-- 安全限制：登录环节交还用户、可屏蔽指定 App、限制单任务动作数、无遥测
+- 自有 XCTest runner，读屏约 0.1 s，以文本（无障碍树）而非像素读取屏幕
+- 任务可录制成可回放 flow，重放时无需模型与 token
+- 支持 USB/Wi-Fi、远程控制（浏览器/iOS 应用、H.264 串流、QR 配对）、Tailscale/Cloudflare 隧道
+- 安全机制：密码/Face ID 交由用户完成、应用黑名单、单任务动作上限
 
 ## 适用场景
 
-- 让 Claude Code 或 Codex 在真机上完成无 API App 的操作任务
-- 在真实 iPhone 上运行 App 登录测试并定位失败步骤
-- 通过浏览器远程操控自己的 iPhone 处理银行、聊天等应用
+- 让 Claude Code/Codex 等 agent 代我操作健康、微信、银行等无 API 的应用
+- iOS 应用开发者/测试员在真机上跑登录测试、读日志与崩溃报告、安装 ipa
+- 远程通过浏览器或另一台 iPhone 操控家里的手机
+- 开发期用 iOS Simulator 代替真机调试 agent 流程
 
 ## 场景标签
 
@@ -37,22 +38,22 @@
 
 ## 证据(README 行号)
 
-> L72:  Claude Code / Codex / any MCP client ──MCP──┐
-> L75:                           iphone-use daemon on your Mac ──USB or Wi-Fi──▶ XCTest runner on the iPhone
-> L141: - an **MCP server** for Claude Code, Codex, Claude Desktop, Cursor and other MCP clients;
+> L15:  MCP server
+> L154: - an **MCP server** for Claude Code, Codex, Claude Desktop, Cursor and other MCP clients;
+> L155: - an **HTTP API** for agents and scripts (`/agent/*`);
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "leeguooooo/iphone-use 星数(近 27 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 304 --> 533
-    line [323, 333, 337, 345, 357, 369, 384, 392, 400, 409, 417, 420, 345, 475, 489, 490, 494, 496, 498, 499, 502, 505, 508, 511, 513, 514, 514]
+    title "leeguooooo/iphone-use 星数(近 26 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 315 --> 532
+    line [333, 337, 345, 357, 369, 384, 392, 400, 409, 417, 420, 345, 475, 489, 490, 494, 496, 498, 499, 502, 505, 508, 511, 513, 514, 514]
 ```
 
-2026-10-22 323 → 2026-11-24 514（+191）
+2026-10-23 333 → 2026-11-25 514（+181）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6c75bf01816f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f6289be00780` · [字段定义](../../DATASET.md)*

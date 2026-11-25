@@ -2,9 +2,9 @@
 
 ⭐ 603 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/funes) · 组织维护
 
-**AI 编码代理的持久会话记忆：跨代理索引并可发布到 Hub**
+**给 AI 编码 agent 建可检索持久记忆库，跨工具召回历史会话**
 
-Rust 编写的 CLI 工具，将 Claude Code、Codex、pi、Hermes 等编码代理的会话转录解析为统一 turns 格式，分块后写入本地 Lance 数据集并用固定的本地嵌入模型向量化；检索融合向量与 BM25 并多次重排，为代理提供 recall/get 工具和逐轮索引钩子。记忆可作为 Hugging Face 数据集发布与共享，推送前有凭据脱敏与密钥拦截门。用户可通过 funes ask 借用代理基于记忆作答。支持 curl 安装脚本下载预编译二进制，源码构建需 Rust 工具链与 protoc。
+Rust 编写的命令行工具：将 Claude Code、Codex、pi、Hermes 等编码 agent 的历史会话索引为本地 Lance 数据集，解析为统一 turns 格式后分块、嵌入；召回时融合向量与 BM25 检索并用交叉编码器重排。记忆可作为数据集发布到 Hugging Face Hub，供其他机器或团队成员远程召回；发布前有凭证脱敏门控。内置本地嵌入与重排模型，无自有生成模型；提供预编译二进制安装，也可从源码构建（需 Rust 与 protoc）。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Rust 编写的 CLI 工具，将 Claude Code、Codex、pi、Hermes 等编码代�
 
 ## 能力要点
 
-- 跨 Claude Code/Codex/pi/Hermes 统一索引，检索命中显示来源代理
-- 记忆以 Hugging Face 数据集形式发布与共享（默认私有）
-- 向量+BM25 融合检索与重排，嵌入/重排用固定本地模型
-- 发布前自动脱敏凭据并有常驻密钥拦截门
+- 跨多个 agent 的单一记忆，召回命中标注来源 agent
+- 向量+BM25 融合检索并用本地重排模型精排
+- 记忆发布为 Hugging Face Hub 数据集，支持 `funes ask` 借用 agent 生成有出处的回答
+- 发布门控自动脱敏凭证，数据集默认私有
 
 ## 适用场景
 
-- 让编码代理在任务中自动回忆过往决策与理由
-- 切换编码代理工具时保留完整历史记忆
-- 将团队/项目的会话记忆发布为数据集供他人或他机检索
+- 让编码 agent 在任务中自动召回此前的决策与结论
+- 在 Claude Code 与 Codex 之间切换而保留完整工作历史
+- 把个人 agent 会话发布给团队或公开供他人查询
 
 ## 场景标签
 
-`Agent 记忆` `语义搜索` · 领域:Agent 开发
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: **Durable memory for your AI coding agents.** `funes` indexes your past sessions across Claude
-> L14: - **Your agent recalls your past work.** The model spontaneously uses `funes` to recall prior decisions, rationale,
 > L150: is parsed into a generic turn/block shape, chunked, written to a local Lance dataset, and embedded
+> L151: with a pinned local model; recall fuses vector + BM25 search, and reranks the pool with a cross-encoder.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "huggingface/funes 星数(近 20 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 572 --> 604
-    line [574, 577, 579, 580, 581, 585, 577, 589, 592, 591, 592, 593, 594, 595, 597, 598, 600, 601, 602, 602]
+    title "huggingface/funes 星数(近 19 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 575 --> 605
+    line [577, 579, 580, 581, 585, 577, 589, 592, 591, 592, 593, 594, 595, 597, 598, 600, 601, 602, 603]
 ```
 
-2026-10-22 574 → 2026-11-24 602（+28）
+2026-10-23 577 → 2026-11-25 603（+26）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e88a1d135b4a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7679b61e0107` · [字段定义](../../DATASET.md)*

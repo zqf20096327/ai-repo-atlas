@@ -1,58 +1,57 @@
 # Dodaios/Dodaios
 
-⭐ 455 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Dodaios/Dodaios) · [官网](https://dodaios.ai) · 个人维护 · 中文 README
+⭐ 455 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Dodaios/Dodaios) · [官网](https://dodaios.ai) · 组织维护
 
-**本地开源桌面 Agent OS：语音/聊天调度编码 Agent 与应用**
+**统一编排多个编程 Agent 的本地桌面工作台**
 
-面向桌面用户的开源 agent 操作系统（原 Personal Jarvis），运行于 Windows/macOS/Linux 或无屏服务器。主 Agent 按语音或聊天指令规划并分派任务，Agentic IDE 可在多终端窗格并行运行 Claude Code、Codex 等 9 种编码 Agent，支持 Git worktree、PR/CI 面板、定时例程、本地记忆 wiki、计算机使用（点击/输入/读取屏幕）、40+ 插件与 MCP。语音含唤醒词、对话、听写与电话，可离线。每步操作经四级风险检查（safe/monitor/ask/block）需批准。需一个 API key、订阅或本地模型，无需 GPU。一行脚本安装或 pip 安装，Apache 2.0。
+桌面应用形式的元编排器：用户与一个助手对话，由它向 Claude Code、Codex 等编程 CLI/IDE/本地 Agent 分发、监控并同步工程任务。支持语音交互（助手名即唤醒词）、MCP，本地运行、使用用户自己的计划与 API key。安装器自建 Python 环境并提供启动器；首次启动需命名助手、连接一个模型；编程工作需另装至少一个编程 Agent 并登录。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Agentic IDE 并行运行 9 种编码 Agent（各自分支/worktree，呼号指挥）
-- 四级风险检查与操作记录，密钥存于系统凭证库
-- 语音唤醒、对话、听写、电话，语音识别与语音可全离线
-- 本地记忆 wiki 供 Agent 读写引用；40+ 插件与 MCP 集成
+- 单一聊天界面编排多个编程 Agent（Claude Code、Codex 等）
+- 自动分发、监控并同步跨 Agent 的复杂工程任务
+- 语音交互，助手名即唤醒词
+- 本地运行，使用用户自有的计划与密钥，MIT 许可
 
 ## 适用场景
 
-- 用一句话让多个编码 Agent 并行完成编码、审查到合并 PR 的流程
-- 语音唤醒本机助手，操作桌面、浏览器与应用
-- 为不同任务创建专属 Agent 并按定时例程自动执行
+- 同时使用多个编程 CLI 时统一调度任务
+- 通过语音与一个助手对话驱动多个编程 Agent
+- 在本地以自有 API key 管理编码助手工作流
 
 ## 场景标签
 
-`编码 Agent` `语音 Agent` `AI 助手` `GUI 自动化` · 领域:效率与自动化
+ · 领域:开发工具/Agent 编排
 
 ## 证据(README 行号)
 
-> L8:  Dodaios is an open-source agent OS for your desktop.
-> L9:  It is the layer between you and your AI agents: it runs them, remembers for them, connects their tools and keeps yo
-> L53: 1. **Plan with the lead agent.** Say what you want, by voice or in chat. The lead agent asks what it needs and hand
+> L9:  The meta-agent that sits above all your coding agents. Talk to one orchestrator in a single chat while Dodaios auto
+> L52: The installer sets up its own Python environment, adds a launcher and opens
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Dodaios/Dodaios 星数(近 28 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 224 --> 473
-    line [244, 247, 249, 250, 252, 256, 272, 293, 301, 305, 307, 313, 250, 345, 360, 361, 365, 371, 377, 386, 389, 404, 421, 437, 445, 449, 453, 453]
+    title "Dodaios/Dodaios 星数(近 27 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 227 --> 475
+    line [247, 249, 250, 252, 256, 272, 293, 301, 305, 307, 313, 250, 345, 360, 361, 365, 371, 377, 386, 389, 404, 421, 437, 445, 449, 453, 455]
 ```
 
-2026-10-22 244 → 2026-11-24 453（+209）
+2026-10-23 247 → 2026-11-25 455（+208）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1d5ebb1c1e4f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9110b1f9aa9a` · [字段定义](../../DATASET.md)*

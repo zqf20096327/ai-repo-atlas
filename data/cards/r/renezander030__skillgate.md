@@ -47,12 +47,12 @@ skillgate 是运行在模型之外的确定性评估器：以 .skillgate/done.ya
 ```mermaid
 xychart-beta
     title "renezander030/skillgate 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-24 10（+0）
+2026-11-10 10 → 2026-11-25 10（+0）
 
 
 ---

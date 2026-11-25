@@ -42,12 +42,12 @@ lucidrains 维护的关于价值网络（value networks）新研究的探索性�
 ```mermaid
 xychart-beta
     title "lucidrains/value-network 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-22 16 → 2026-11-24 16（+0）
+2026-10-23 16 → 2026-11-25 16（+0）
 
 
 ---

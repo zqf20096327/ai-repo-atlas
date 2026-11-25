@@ -46,12 +46,12 @@ cc-model-router 是一个 CLI 与 Claude Code 原生插件：对每个任务进�
 ```mermaid
 xychart-beta
     title "misterkante/cc-model-router 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-24"]
+    x-axis ["2026-10-30", "2026-11-25"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-30 5 → 2026-11-24 5（+0）
+2026-10-30 5 → 2026-11-25 5（+0）
 
 
 ---

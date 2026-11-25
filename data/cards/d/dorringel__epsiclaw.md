@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dorringel/epsiclaw 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    title "dorringel/epsiclaw 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 50 --> 52
+    line [51, 51]
 ```
 
-2026-10-22 50 → 2026-11-24 51（+1）
+2026-10-23 51 → 2026-11-25 51（+0）
 
 
 ---

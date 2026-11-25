@@ -1,10 +1,10 @@
 # FuJacob/cotabby
 
-⭐ 1,127 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/FuJacob/cotabby) · [官网](https://cotabby.app) · 个人维护
+⭐ 1,127 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/FuJacob/cotabby) · [官网](https://cotabby.app) · 组织维护
 
-**macOS 全局本地 AI 自动补全工具，任意文本框内联建议**
+**macOS 全系统任意输入框的本地 AI 自动补全工具**
 
-面向 Mac 用户的本地优先 AI 补全应用：在几乎所有 macOS 文本框中显示灰色内联建议，Tab 逐词接受。提供三种引擎：Apple Intelligence（需 macOS 26）、通过 llama.cpp 进程内运行 GGUF 基座模型的开源引擎（内置 tabby-2 系列 0.8–5.0 GB 模型，可自带 GGUF）、以及可选的 OpenAI 兼容端点（可接本地 Ollama 或自建服务器）。无遥测与账号，默认不落盘记录输入；需 macOS 14+，通过 Homebrew cask 或 DMG 安装，需授予辅助功能等权限。目前标注 beta，由两名学生维护。
+面向 macOS 用户的系统级 AI 补全工具：在几乎所有文本输入框中即时给出灰色 ghost-text 建议，按 Tab 逐词接受，另提供 Emoji 补全、内联宏（数学/单位/汇率/日期）、一键纠错与快捷键自定义。三引擎可选：Apple Intelligence（需 macOS 26+ 支持机型）、内置开源引擎（经 llama.cpp 在进程内运行 GGUF 基座模型，支持自带模型）、以及可自配的 OpenAI 兼容端点。无账号与遥测；AGPL v3 许可，由两名学生维护，处于 beta 阶段。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- Apple Intelligence / 本地 GGUF（llama.cpp 进程内）/ OpenAI 兼容端点三种引擎可选
-- 内置 tabby-2 系列 GGUF 模型（0.8–5.0 GB）并可自带任意 GGUF 模型
-- 除补全外提供 emoji 补全、斜杠内联宏（换算/日期/随机值）、一键纠错
-- 无账号、无遥测、无崩溃上报，密码等安全字段中阻断生成
+- 系统级 ghost-text 补全，Tab 逐词接受，快捷键可重绑定
+- 内置引擎经 llama.cpp 进程内运行 GGUF 基座模型，支持放入任意 .gguf 自带模型
+- 提供四档内置模型（0.8GB–5GB）从菜单栏直接下载
+- Emoji 补全、内联宏、一键纠错；无遥测无账号
 
 ## 适用场景
 
-- 在 Mac 上任何应用里获得逐词 AI 补全而不联网上传输入
-- 用本地 Ollama 或自建端点作为补全后端
-- 为低内存旧款 Mac 选择小模型离线补全
+- 在任意 macOS 应用中打字时获得本地自动补全建议
+- 注重隐私、希望文本不出本机的写作者
+- 通过自配 OpenAI 兼容端点（含本地 Ollama）使用自有模型
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+`代码生成` `AI 写作` `推理引擎` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L31: Cotabby adds AI autocomplete to almost any text field on your Mac. As you type, a gray suggestion appears inline ne
-> L58: - Apple Intelligence and Open Source generation run on-device.
-> L72: - **OpenAI-compatible** — a completion or chat endpoint you configure, including local Ollama,
+> L88: Under the hood, the Open Source engine runs local GGUF *base* models in-process through llama.cpp (via CotabbyInfer
+> L103: **Compatibility:** macOS 14.0 or later. The Apple Intelligence engine needs macOS 26 or later on a supported Mac; 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "FuJacob/cotabby 星数(近 23 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 1083 --> 1131
-    line [1087, 1090, 1091, 1094, 1095, 1096, 1097, 1099, 1094, 1105, 1112, 1111, 1112, 1113, 1114, 1113, 1115, 1118, 1123, 1125, 1126, 1127, 1127]
+    title "FuJacob/cotabby 星数(近 22 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 1087 --> 1130
+    line [1090, 1091, 1094, 1095, 1096, 1097, 1099, 1094, 1105, 1112, 1111, 1112, 1113, 1114, 1113, 1115, 1118, 1123, 1125, 1126, 1127, 1127]
 ```
 
-2026-10-22 1,087 → 2026-11-24 1,127（+40）
+2026-10-23 1,090 → 2026-11-25 1,127（+37）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `117516d3df66` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3e93b26ed96e` · [字段定义](../../DATASET.md)*

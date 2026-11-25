@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/fabric-task-flows 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-22", "2026-11-25"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-21 50 → 2026-11-24 50（+0）
+2026-10-22 50 → 2026-11-25 51（+1）
 
 
 ---

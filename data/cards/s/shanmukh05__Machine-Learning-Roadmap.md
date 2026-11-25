@@ -2,9 +2,9 @@
 
 ⭐ 533 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/shanmukh05/Machine-Learning-Roadmap) · [官网](https://shanmukh05.github.io/Machine-Learning-Roadmap/) · 个人维护
 
-**机器学习入门与进阶的学习资源路线图清单**
+**机器学习入门者的课程/书籍/工具学习路线图**
 
-由个人维护的机器学习学习资源清单：按先修数学（线性代数/概率统计/微积分）、编程基础、机器学习、深度学习、常用框架与库（NumPy/Pandas/OpenCV/PyTorch/TensorFlow 等）分节组织，每节附课程、书籍与教程链接；后段汇集竞赛平台（Kaggle 等）、研究资源（Papers with Code/arXiv）、YouTube 频道、数据集、大学课程、可视化工具与社区入口。纯阅读型清单，无代码、无安装与运行流程。
+由一位在 KLA Corporation 任职的 AI 工程师维护的学习资源策展清单，按先修基础（数学、Python、数据结构）、机器学习、深度学习、框架与库、竞赛与研究入门等路径组织条目，每类下列出具体课程、书籍、官方文档与教程链接，并附带 YouTube 频道、博客、数据集、大学课程、Newsletter 与可视化工具等扩展资源。内容为纯资源索引，不含可运行的代码或安装流程，作者声明欢迎反馈与建议。
 
 ## 筛选速览
 
@@ -20,37 +20,38 @@
 
 ## 能力要点
 
-- 覆盖先修数学、编程、ML/DL、框架库的分层学习路径
-- 汇集 Kaggle 等竞赛平台与研究资源（Papers with Code/arXiv）
-- 收录 CS231n/CS224n 等大学课程与 LLM 可视化工具
+- 按先修要求到进阶路径分层的资源组织结构
+- 覆盖课程、书籍、官方文档、竞赛、论文与数据集等资源类型
+- 附 PyTorch/TensorFlow/scikit-learn 等库的定位说明与官方教程指引
 
 ## 适用场景
 
-- 按路线图从零开始学习机器学习
-- 查找某个框架或库的入门课程与文档
-- 寻找 ML 竞赛、数据集与研究论文入口
+- 从零规划机器学习的学习顺序
+- 为 CV/NLP/表格数据方向挑选课程与书籍
+- 查找大学公开课、数据集与竞赛平台入口
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`教程课程` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: Machine Learning Roadmap
 > L2:  A curated collection of resources to start and advance your career in Machine Learning.
+> L15: ## Introduction
+> L67: ## Machine Learning
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "shanmukh05/Machine-Learning-Roadmap 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-25"]
     y-axis "stars" 528 --> 535
     line [529, 531, 532, 529, 534, 533, 533]
 ```
 
-2026-10-22 529 → 2026-11-24 533（+4）
+2026-10-23 529 → 2026-11-25 533（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `47f27cbc3d8a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `aa63bc4715e1` · [字段定义](../../DATASET.md)*

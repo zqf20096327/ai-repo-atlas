@@ -2,9 +2,9 @@
 
 ⭐ 513 · TypeScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Wing900/ManimCat) · [官网](https://manimcat.5051001.xyz/) · 个人维护 · 中文 README
 
-**面向教学场景的 AI 数学动画/图表生成 Web 应用**
+**面向数学教学者的自然语言生成 Manim 动画与静态图像工具**
 
-基于 manim-video-generator 大幅重构的 AI 辅助数学可视化创作系统：用自然语言生成、修改、重渲染数学动画（ManimGX）与静态图表（matplotlib），提供直接生成的 Workflow 模式与基于 Agent 会话的 Studio 模式，内置两阶段生成（场景设计→代码生成）与渲染失败后自动反馈重试。后端为 Express+Bull+Redis，通过 OpenAI 兼容 API 接入模型，支持 Docker 与 Hugging Face Spaces 部署；Manim Studio 路径作者自述仍处早期阶段，由独立爱好者维护。
+以 Web 工作区形式提供数学可视化创作系统，包含 Workflow 与 Agent 双模式：前者自然语言直出视频/图像，后者提供 Studio 内逐场景对话与工具调用（开发中）。动画走自研 ManimGX 引擎并用 Typst 排版（无需外部 TeX），静态图走 Plot Studio/matplotlib。采用两阶段生成（概念设计→代码生成），支持规划卡编辑、自动格式修复与重渲染。本地渲染要求 Python 3.13+ 与 Linux bubblewrap 沙箱，无沙箱则服务拒绝启动。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 自然语言生成/修改/重渲染 Manim 动画与 matplotlib 静态图
-- 两阶段 AI 生成：概念设计器产出场景设计，再由代码生成器写 Manim 代码
-- 渲染失败自动将错误回传模型重新生成并重渲染
-- Agent 模式提供 builder/designer/reviewer 角色与 SSE 实时会话更新
+- 自然语言生成可编辑视频与静态图像，支持规划卡与两阶段生成
+- ManimGX 动画引擎内置 Typst 排版，支持中文文本与数学混排，无需外部 TeX
+- matplotlib 驱动的 Plot Studio 静态图形迭代编辑
+- 强制 bubblewrap 渲染沙箱，无网络、无宿主权限
 
 ## 适用场景
 
-- 教师用一句话生成数学概念讲解动画
-- 制作解题步骤的可视化演示视频
-- 生成静态数学图表与教学插图并迭代编辑
+- 为课堂讲解快速生成几何证明或概念动画
+- 将例题拆解过程做成教学可视化素材
+- 迭代编辑静态数学图表与教学图示
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+`代码生成` `视频生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L37: It is designed for classroom explanation, worked-example breakdowns, and visual reasoning tasks. You can use natura
-> L35: Built on top of manim-video-generator, ManimCat is now a much broader AI-assisted creation system for math teaching
+> L28: It is designed for classroom explanation, worked-example breakdowns, and visual reasoning tasks. You can use natura
+> L188: Workflow mode is the current main path: describe what you want in natural language and get a playable video or a u
+> L32: - `Workflow Mode` is for direct generation and rendering when you want fast outputs
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Wing900/ManimCat 星数(近 19 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 473 --> 514
-    line [476, 477, 478, 481, 484, 486, 489, 492, 494, 477, 497, 499, 500, 502, 503, 504, 506, 511, 511]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 473 --> 516
+    line [476, 477, 478, 481, 484, 486, 489, 492, 494, 477, 497, 499, 500, 502, 503, 504, 506, 511, 513]
 ```
 
-2026-10-22 476 → 2026-11-24 511（+35）
+2026-10-23 476 → 2026-11-25 513（+37）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `edd8c25c9e08` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `1252b8b702c7` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lifeiteng/Flash-SoftDTW 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 6 --> 10
+    line [7, 9]
 ```
 
-2026-11-23 7 → 2026-11-24 7（+0）
+2026-11-23 7 → 2026-11-25 9（+2）
 
 
 ---

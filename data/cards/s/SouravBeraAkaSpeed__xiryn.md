@@ -2,9 +2,9 @@
 
 ⭐ 441 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/SouravBeraAkaSpeed/xiryn) · [官网](https://xiryn.com) · 个人维护
 
-**本地运行的开源个人 agent：每个 agent 有独立 Docker Linux 桌面**
+**本地运行的开源个人 Agent：Docker 沙盒桌面 + Telegram 远程控制**
 
-用户在自己电脑上运行的个人 agent 系统：每个 agent 获得独立的沙箱化 Linux 桌面（Docker 容器，含 shell、文件与 Chromium），在后台完成任务并可随时由用户接管。支持 11 个模型提供方含本地 Ollama，BYOK 按量付费，无订阅。数据存于本地 SQLite 文件，登录与支付信息存于 AES-256-GCM 加密保险库，密钥由操作系统保管，agent 不见明文，每次支付需用户批准。通过 Telegram 远程控制，支持例行任务、长期记忆、多 agent 组队与 Firecrawl 网络检索。一键脚本安装 Git/Node.js/Docker 并启动。
+用户在自己电脑上运行的开源个人 Agent 平台：每个 Agent 获得独立的 Docker Linux 沙盒桌面（shell、持久 home、Chromium），可后台执行构建调试、网络研究、写作、表单填写等任务；支持 16 个预置 Agent 与小队协作、定时任务、长期记忆、费用统计与月度预算，敏感凭据存于 AES-256-GCM 加密保险库。通过一条安装脚本完成部署，支持 Telegram 远程控制与实时桌面接管。需约 4GB 磁盘与至少一个模型 API key，或用 Ollama 本地模型免钥运行。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 每 agent 独立 Docker Linux 桌面，可实时观看并随时接管
-- 11 个模型提供方含本地 Ollama（--local 一键免费本地运行）
-- AES-256-GCM 加密保险库存储登录/卡片，agent 不可见明文，支付需逐次批准
-- Telegram 远程控制，含移动端实时桌面链接
+- 每个 Agent 独立 Docker 沙盒桌面，与用户系统隔离
+- 支持 11 家模型提供商及 OpenAI 兼容端点，按 Agent 选模型
+- 加密保险库存凭据，支付需逐步审批，Agent 不接触明文卡号
+- Telegram 二维码配对远程控制，无公网 URL/端口转发
 
 ## 适用场景
 
-- 让 agent 在后台克隆仓库、修 bug、跑测试并给出 diff
-- 自动化网页操作：查资料、填表、比价、准备订单，遇到登录/支付/CAPTCHA 时交还给我
-- 组建多 agent 小队分工处理研究、写作与工程任务
-- 通过 Telegram 从手机查看 agent 进度并批准操作
+- 让 Agent 在后台替我做代码调试和网络调研
+- 通过 Telegram 用手机遥控家里的 Agent 干活
+- 不用云托管服务、把对话和凭据留在本地磁盘
+- 让多个 Agent 组队分工处理任务
 
 ## 场景标签
 
-`GUI 自动化` `浏览器自动化` `多智能体` · 领域:Agent 开发
+`AI 助手` `多智能体` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L5:  The open-source personal agent. It does everything Muse, Grok Bot and Dots do — on your own computer.
 > L29: **Xiryn is the same idea as an open-source personal agent you run yourself.** Clone it, add your API keys, and you 
 > L63: **🧠 Any model, your keys.** OpenAI, Anthropic, Google, xAI, Groq, Mistral, DeepSeek, OpenRouter, Ollama, LM Studio,
-> L71: ||**Xiryn**|Hosted agents Muse · Grok Bot · Dots|Local computer-use agents e.g. OpenClaw|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "SouravBeraAkaSpeed/xiryn 星数(近 22 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-24"]
-    y-axis "stars" 175 --> 464
-    line [199, 287, 305, 309, 339, 361, 373, 375, 380, 383, 389, 390, 309, 429, 432, 433, 435, 434, 437, 439, 440, 440]
+    title "SouravBeraAkaSpeed/xiryn 星数(近 21 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
+    y-axis "stars" 272 --> 456
+    line [287, 305, 309, 339, 361, 373, 375, 380, 383, 389, 390, 309, 429, 432, 433, 435, 434, 437, 439, 440, 441]
 ```
 
-2026-10-22 199 → 2026-11-24 440（+241）
+2026-10-23 287 → 2026-11-25 441（+154）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `77cb73123493` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3beb6f38672d` · [字段定义](../../DATASET.md)*

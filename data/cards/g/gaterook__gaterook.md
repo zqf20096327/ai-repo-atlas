@@ -46,12 +46,12 @@ GateRook 是一款桌面应用，在 AI 应用（Claude Desktop、Codex、Cursor
 ```mermaid
 xychart-beta
     title "gaterook/gaterook 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
 ```
 
-2026-11-23 6 → 2026-11-24 6（+0）
+2026-11-23 6 → 2026-11-25 7（+1）
 
 
 ---

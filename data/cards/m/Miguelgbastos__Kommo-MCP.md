@@ -45,13 +45,13 @@ TypeScript 编写的 MCP (Model Context Protocol) 服务器，通过 23 个 tool
 
 ```mermaid
 xychart-beta
-    title "Miguelgbastos/Kommo-MCP 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 15, 16, 16]
+    title "Miguelgbastos/Kommo-MCP 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 15, 16, 16]
 ```
 
-2026-10-22 14 → 2026-11-24 16（+2）
+2026-10-23 15 → 2026-11-25 16（+1）
 
 
 ---

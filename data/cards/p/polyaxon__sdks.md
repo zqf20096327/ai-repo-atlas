@@ -43,12 +43,12 @@ Polyaxon 官方的语言 SDK 仓库，提供 Python、GoLang、TypeScript、Node
 ```mermaid
 xychart-beta
     title "polyaxon/sdks 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-22 15 → 2026-11-24 15（+0）
+2026-10-23 15 → 2026-11-25 15（+0）
 
 
 ---

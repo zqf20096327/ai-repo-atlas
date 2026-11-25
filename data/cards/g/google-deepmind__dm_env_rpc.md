@@ -46,12 +46,12 @@ DeepMind 维护的 Python 包，提供基于 gRPC 双向流 RPC 的智能体-环
 ```mermaid
 xychart-beta
     title "google-deepmind/dm_env_rpc 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 113 --> 115
     line [114, 114]
 ```
 
-2026-10-22 114 → 2026-11-24 114（+0）
+2026-10-23 114 → 2026-11-25 114（+0）
 
 
 ---

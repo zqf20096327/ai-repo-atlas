@@ -44,13 +44,13 @@ Arm 教育团队维护的实践社区（Community of Practice），收录来自 
 
 ```mermaid
 xychart-beta
-    title "arm-education/Arm-Developer-Labs 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 43 --> 47
-    line [44, 45, 46, 45, 45]
+    title "arm-education/Arm-Developer-Labs 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 44 --> 47
+    line [45, 46, 45, 45]
 ```
 
-2026-10-22 44 → 2026-11-24 45（+1）
+2026-10-23 45 → 2026-11-25 45（+0）
 
 
 ---

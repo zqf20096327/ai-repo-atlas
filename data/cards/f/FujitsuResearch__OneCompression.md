@@ -2,9 +2,9 @@
 
 ⭐ 446 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/FujitsuResearch/OneCompression) · [官网](https://fujitsuresearch.github.io/OneCompression/) · 组织维护
 
-**面向 LLM 的自动量化压缩 Python 工具包**
+**面向开发者的 LLM 后训练量化压缩工具包**
 
-Fujitsu 研究团队开发的 LLM 压缩 Python 包：一条命令检测 GPU VRAM、自动分配各层位宽、量化、评估并保存。提供 QEP（量化误差传播）、LPCD、AutoBit 混合精度、MDBF 亚 1 比特分解、块级/全局 PTQ、MoE 路由微调、LoRA 后处理、SpinQuant 旋转预处理等量化方法，并支持导出 GGUF（供 llama.cpp/Ollama）、OpenVINO、通过 vLLM 插件部署。已验证 Llama、Qwen3、Gemma、GPT-OSS 等架构；macOS 上支持 MPS 但 vLLM 部署需 Linux+NVIDIA GPU。
+Fujitsu 发布的 Python 包，将 LLM 压缩流程封装为单条命令：自动检测 GPU 显存、按层选择位宽、以误差传播方式量化、评估并保存。包含 QEP/LPCD/DBF/MDBF/JointQ 等多种 PTQ 量化方法，支持块级蒸馏、LoRA SFT 后处理、旋转预处理与 MoE 路由微调，可导出 GGUF 与 OpenVINO 格式。提供 vLLM 服务插件与 HPC Web 仪表盘。macOS 支持 GPTQ 量化与 MPS 推理，vLLM 服务仅限 Linux+NVIDIA GPU。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@ Fujitsu 研究团队开发的 LLM 压缩 Python 包：一条命令检测 GPU VRA
 
 ## 能力要点
 
-- 一条命令自动完成 VRAM 检测、逐层位宽分配、量化与评估（AutoBit/QEP）
-- MDBF 亚 1 比特二值分解量化与 GemLite 加速 1 比特推理
-- GGUF 导出（llama.cpp/Ollama）、OpenVINO 导出与 Hugging Face Hub 推送
-- vLLM 插件（DBF、Mixed-GPTQ）部署量化后模型
+- 一条命令完成显存检测→位宽选择→量化→评估→保存
+- 内置 vLLM 插件，可服务 DBF 与 Mixed-GPTQ 量化模型
+- GGUF v3 无依赖导出，配合 llama.cpp/Ollama 使用
+- 支持 ILP 混合精度位宽分配，按可用 VRAM 自动定目标位宽
 
 ## 适用场景
 
-- 显存受限环境下把 LLM 压缩到可运行位宽
-- 为 vLLM/llama.cpp/Ollama 产出量化模型
-- 量化后用 LoRA 与蒸馏恢复精度
+- 在显存预算内自动压缩模型并以 vLLM 本地部署
+- 导出 GGUF 供 llama.cpp/Ollama 离线推理
+- 对量化后模型做 LoRA 微调以恢复精度
+- HPC 环境通过浏览器仪表盘批量发起量化任务
 
 ## 场景标签
 
-`模型量化` · 领域:训练与推理
+`模型量化` `微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L3: Fujitsu One Compression (OneComp) is a Python package for LLM compression.
-> L13: **That's all you need.** OneComp detects your GPU VRAM, picks the best bit-width per layer, quantizes with error pr
+> L36: - **vLLM Plugin Integration**: Serve OneComp-quantized models with vLLM via built-in plugins for DBF and Mixed-GPTQ
+> L34: - **Quantization Error Propagation (QEP)**: A post-training quantization method that corrects quantization errors b
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "FujitsuResearch/OneCompression 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-24"]
-    y-axis "stars" 435 --> 447
-    line [436, 443, 444, 445, 443, 445, 446, 445, 446, 446]
+    title "FujitsuResearch/OneCompression 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-25"]
+    y-axis "stars" 442 --> 447
+    line [443, 444, 445, 443, 445, 446, 445, 446, 446]
 ```
 
-2026-10-21 436 → 2026-11-24 446（+10）
+2026-10-23 443 → 2026-11-25 446（+3）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c3148a120085` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6805402984d4` · [字段定义](../../DATASET.md)*

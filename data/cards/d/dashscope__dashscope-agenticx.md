@@ -46,12 +46,12 @@ AgenticX 1.0 是用于构建和运行领域专家的 Python Agent Runtime：在�
 ```mermaid
 xychart-beta
     title "dashscope/dashscope-agenticx 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-24"]
+    x-axis ["2026-11-18", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-24 3（+0）
+2026-11-18 3 → 2026-11-25 3（+0）
 
 
 ---

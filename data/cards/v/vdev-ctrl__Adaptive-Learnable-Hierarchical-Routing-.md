@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing- 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-24"]
-    y-axis "stars" 39 --> 45
-    line [40, 41, 42, 41, 43, 44, 44]
+    title "vdev-ctrl/Adaptive-Learnable-Hierarchical-Routing- 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 41, 43, 44, 44]
 ```
 
-2026-10-22 40 → 2026-11-24 44（+4）
+2026-10-23 41 → 2026-11-25 44（+3）
 
 
 ---

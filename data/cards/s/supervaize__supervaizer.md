@@ -45,12 +45,12 @@ Python 控制器 SDK，实现 A2A 协议的发现、Agent Card、JSON-RPC 控制
 ```mermaid
 xychart-beta
     title "supervaize/supervaizer 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-22 15 → 2026-11-24 15（+0）
+2026-10-23 15 → 2026-11-25 15（+0）
 
 
 ---

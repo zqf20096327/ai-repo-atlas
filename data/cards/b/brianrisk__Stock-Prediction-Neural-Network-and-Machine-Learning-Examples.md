@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "brianrisk/Stock-Prediction-Neural-Network-and-Machine-Learning-Examples 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-25"]
     y-axis "stars" 272 --> 275
     line [274, 273, 274, 274]
 ```
 
-2026-10-22 274 → 2026-11-24 274（+0）
+2026-10-23 274 → 2026-11-25 274（+0）
 
 
 ---

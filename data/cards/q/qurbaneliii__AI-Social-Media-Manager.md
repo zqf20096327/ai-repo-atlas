@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qurbaneliii/AI-Social-Media-Manager 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-24"]
+    x-axis ["2026-11-13", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-24 10（+0）
+2026-11-13 10 → 2026-11-25 10（+0）
 
 
 ---

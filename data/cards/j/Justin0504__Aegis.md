@@ -2,9 +2,9 @@
 
 ⭐ 524 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/Justin0504/Aegis) · [官网](https://aegistraces.com) · 个人维护
 
-**AI agent 的预执行防火墙：拦截、审计并管控每个工具调用**
+**为 AI agent 提供执行前策略拦截与审计的安全网关**
 
-部署在 agent 与其工具之间的网关层：每次工具调用先经 5 级流水线（分类、异常检测、JSON-Schema 策略评估、租户 DSL 规则、最严信号裁决），输出放行/人工审批/阻断，并写入防篡改审计日志（RFC 6962 Merkle 树 + 离线包含证明）。提供 Compliance Cockpit 六视图仪表盘、agent 注册身份、预算护栏、LLM 出口代理、SIEM 下沉与合规证据包。Python/TS/Go SDK 一行接入，支持 Docker Compose、Render/Railway/DO 一键部署及 macOS/Linux 桌面构建（Windows 未发布）。
+AEGIS 是一个 agent 运行时策略执行层：以网关加 SDK 形式部署在 agent 与其工具之间，对每次工具调用在执行前分类、检查策略、拦截违规，并写入防篡改审计日志；支持人工审批、kill switch，声称一行代码接入且无需修改 agent 本体。附带 Compliance Cockpit 仪表盘，提供活动时间线、审批证据、违规清单、Security 360 覆盖等七个视图。桌面安装包覆盖 macOS 与 Linux（Windows 标注 coming soon），也可经云平台一键部署或 docker compose 本地运行。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 预执行阻断：工具调用在执行前经 5 级流水线分类与策略裁决
-- RFC 6962 透明日志，审计事件可离线验证
-- agent 身份注册、工具范围声明、预算护栏与人工审批流
-- 10 战术 × 40 技术的 Agent 威胁本体（AAT-T*）与覆盖图
+- 执行前拦截：分类每次工具调用、强制策略、阻断违规并写防篡改审计日志
+- 人工审批（human-in-the-loop）与 Ed25519 签名的 decision receipt 验证
+- MCP 工具钉扎与 LLM egress 代理（OpenAI/Anthropic 通道）
+- 声明 10 战术 × 40 技术的 agent 威胁本体与 Detector 插件契约
 
 ## 适用场景
 
-- 阻止 agent 执行危险 SQL、shell 命令或数据外泄
-- 合规团队按 SOC 2 / ISO 27001 / EU AI Act 取证审计 agent 行为
-- 对高风险操作引入 human-in-the-loop 审批
+- 阻止 agent 执行 SQL 注入、数据外传等危险工具调用
+- 高风险操作（如删除类命令）挂起等待人工批准
+- 对接 Splunk/Datadog 等 SIEM 汇集 agent 审计事件
+- 审计团队核查 agent 读取过的上下文与调用证据
 
 ## 场景标签
 
-`网络安全` `LLM 可观测性` · 领域:评测与运维
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L58: > AEGIS is the missing layer: a **pre-execution firewall** that sits between your agent and its tools, classifies e
-> L213: call goes to the AEGIS Gateway before it goes to the tool. The gateway
-> L215: pauses for human review, or blocks it. Every allowed call lands in a
+> L148: |**Gateway API**|localhost:8080|Policy engine — classifies, checks, blocks|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Justin0504/Aegis 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-16", "2026-11-24"]
-    y-axis "stars" 521 --> 545
-    line [543, 523, 524, 525, 526, 523, 524, 524]
+    title "Justin0504/Aegis 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-16", "2026-11-25"]
+    y-axis "stars" 522 --> 527
+    line [523, 524, 525, 526, 523, 524, 524]
 ```
 
-2026-10-22 543 → 2026-11-24 524（-19）
+2026-10-23 523 → 2026-11-25 524（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `88cec36a5e3d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `1c8b4e41d20a` · [字段定义](../../DATASET.md)*

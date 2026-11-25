@@ -1,10 +1,10 @@
 # kydlikebtc/awesome-jev
 
-⭐ 603 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/kydlikebtc/awesome-jev) · [官网](https://kydlikebtc.github.io/awesome-jev/) · 个人维护 · 中文 README
+⭐ 603 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/kydlikebtc/awesome-jev) · [官网](https://kydlikebtc.github.io/awesome-jev/) · 个人维护
 
-**Jev 决策模型的公共资源清单：按决策模式索引 1,218 条**
+**基于 Jev 决策模型的产品发布榜与公开示例目录**
 
-第三方维护的 TypeSafe AI Jev 决策模型资源编目：收录 1,218 个公共资源，含 1,215 条带日期的链接记录与 1,079 条调用点引用记录，按工具选择、上下文压缩、安全门控、分类等 18 种决策模式组织，并提供机器可读的 JSON schema。每条记录标注来源引用与作者自述的测量结论（含不利结果与未采纳案例）。仓库声明不隶属于 TypeSafe AI、未独立测试运行时与性能，Jev 无公开权重不可本地运行。提供双语（EN/中文）浏览站点。
+本仓库是一个发布板叠加目录的结构：发布板部分收录构建于 Jev（TypeSafe AI 决策模型）之上的产品，由作者每周提交、社区在 Discussions 投票并产生排名；目录部分（Jev Decision Atlas）按所解决的决策类型组织公开示例，每条记录引用来源、call-site 引文记录与备注，区分人工阅读与模型阅读。仓库同时记录 Jev 的输入输出原语（Choice/Score/Noul）、上下文限制与兼容性说明。声明非 Jev 产品或 SDK，与 TypeSafe AI 无关联，排名不代表推荐。运行时与性能未经独立测试。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 1,218 条资源按 18 种决策模式索引，全部 18 类均有条目
-- 每行记录来源引用、调用点证据与作者自述测量方向（favourable/mixed/unfavourable）
-- 专设负面结果区：收录测量后未采纳或移除的案例
-- 1,215 条带日期的链接检查记录与 1,079 条调用点引用记录
+- 每周发布流程：周四截止提交、下周一至周日投票、次周一公布排名
+- 按决策模式组织的公开示例索引，附来源引用与 call-site 引文记录
+- 区分人工阅读与模型阅读 call-site 的证据标记
+- 提供 JSON 数据、MCP 服务器工具（launch_board/top_launches）与自托管发布板方式
 
 ## 适用场景
 
-- 为 agent 的工具选择、上下文压缩、安全门控等决策环节查找 Jev 用法参考
-- 在采纳 Jev 前查阅他人测量的不利结果与已知局限
-- 按机器可读 JSON schema 批量读取资源记录
+- 查找基于 Jev 决策模型构建的公开项目示例
+- 把自己基于 Jev 开发的产品提交到每周发布板
+- 按决策类型浏览 Jev 的调用场景与调用点证据
 
 ## 场景标签
 
@@ -37,22 +37,22 @@
 
 ## 证据(README 行号)
 
-> L33: - **Jev** is a decision model from TypeSafe AI. It does not write text — you hand it state plus typed questions and
-> L34: - **This repo** indexes public examples of using it, organised by the *decision* being made. The resource you read 
-> L38: > Not the product, not an SDK, not affiliated with TypeSafe AI, and not a recommendation. Inclusion is a source rec
+> L170: - **This repo** is a launch board over a catalogue. The board above: products built on Jev, launched by their make
+> L3:  awesome-jev — Jev Launches: 1,329 products built on Jev by 1,158 makers, with 1,445 call-site citation records. Cou
+> L174: > Not the product, not an SDK, not affiliated with TypeSafe AI, and not a recommendation. Inclusion is a source re
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "kydlikebtc/awesome-jev 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
     y-axis "stars" 592 --> 604
     line [593, 594, 593, 594, 595, 596, 593, 599, 602, 603, 603]
 ```
 
-2026-10-22 593 → 2026-11-24 603（+10）
+2026-10-23 593 → 2026-11-25 603（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e1f9acd89dc4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `85f69e9cede4` · [字段定义](../../DATASET.md)*

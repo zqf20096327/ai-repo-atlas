@@ -2,35 +2,35 @@
 
 ⭐ 547 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/BaseModelAI/cleora) · [官网](https://cleora.ai) · 组织维护
 
-**图嵌入引擎：单次矩阵乘法为异构图生成确定性实体嵌入**
+**在 CPU 上秒级生成图/超图实体嵌入向量的开源模型库**
 
-Cleora（pycleora）是用 Rust 实现、CPU 运行的图嵌入库：通过迭代 Markov 传播加每轮白化，以稀疏矩阵乘法一次覆盖所有随机游走，无需负采样与 GPU，输出确定性嵌入。除自有算法外统一封装 ProNE、NetMF、DeepWalk、Node2Vec、HOPE 等 9 种算法，支持异构超图、有向/加权图、多尺度与监督微调等模式，并附带社区检测、MLP 分类、采样、调参、压缩、可视化等内置模块，提供 Python API 与 CLI。由 Synerise 团队创建，曾获 SIGIR/WSDM/Twitter RecSys/KDD Cup 竞赛名次，Zomato 案例用于推荐系统。
+由 Synerise 团队开发的通用实体嵌入模型：通过迭代邻域平均（无采样、无训练、无 GPU）将图或超图转化为每节点一个向量，支持异构关系数据、加权边、二部图与归纳式新增节点（无需重训）。以 Python 包 pycleora 发布，含 embed/embed_inductive/scale_by_popularity 等 API 与 pycleora 命令行，NumPy 为唯一必需依赖；附一键复现的 26 图基准脚本与 9 种基线方法对比结果。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | `cpu-ok` | |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单次矩阵乘法计算所有随机游走，无负采样、确定性输出
-- 统一 API 封装 9 种图嵌入算法（Cleora/ProNE/NetMF/DeepWalk/Node2Vec 等），单参数切换
-- 原生支持异构超图、二部图、有向/加权图与归纳式新节点嵌入
-- 附带 18 个内置模块：社区检测、MLP 分类、图采样、超参调优、嵌入压缩、可视化等
+- 单步邻域平均生成嵌入，确定性输出（同输入逐位一致）
+- 支持超图、加权边、二部数据与 embed_inductive 归纳式新增节点
+- 提供 pycleora CLI（embed/info/similar）与 Python API
+- 基准可用 benchmarks/replicate.sh 一条命令复现
 
 ## 适用场景
 
-- 为推荐系统、客户相似查找生成用户-商品图嵌入
-- 对知识图谱、交易图做实体嵌入用于欺诈检测与实体对齐
-- 在无 GPU 环境下对大规模图（百万级节点）快速产出可复现嵌入
-- 在同一框架内对比多种图嵌入算法的精度、内存与耗时
+- 为购物篮/会话数据中的商品生成相似度检索向量
+- 为节点分类和链接排序提供图特征
+- 推荐系统中生成候选召回向量（如 people you may know）
+- 图数据新增节点后无需重训即可获得向量
 
 ## 场景标签
 
@@ -38,22 +38,22 @@ Cleora（pycleora）是用 Rust 实现、CPU 运行的图嵌入库：通过迭�
 
 ## 证据(README 行号)
 
-> L5: Cleora computes all possible random walks in a single matrix multiplication .
-> L101: |**Cleora**|Spectral / Random Walk|Iterative Markov propagation with per-iteration whitening — all random walks in
-> L245: 4. **Single Matrix Multiplication = All Walks** — One sparse matrix multiplication captures *every possible random
+> L5:  Graph embeddings in seconds, on a CPU.
+> L37: Cleora turns a graph or hypergraph into one vector per node by repeating a single step:
+> L80: pip install pycleora
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "BaseModelAI/cleora 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 544 --> 549
     line [547, 545, 546, 547, 548, 547, 547]
 ```
 
-2026-10-22 547 → 2026-11-24 547（+0）
+2026-10-23 547 → 2026-11-25 547（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `939bba0c4b28` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3bc8f441e980` · [字段定义](../../DATASET.md)*

@@ -1,1 +1,81 @@
-{"fn": "konanguyen/ARTEX", "sha": "f84d60a01f2f", "source": "readme", "identity": {"one_liner": "自主 AI 渗透测试系统：为安全人员自动执行测试任务", "review": "Go 后端 + Next.js 前端的自主渗透测试系统：以任务为单位运行 agent 探索资产图并执行工具调用，产出 findings、执行轨迹与流量记录，支持人工拦截审批与 human-in-the-loop 对话，可从 ScopeSentry 同步资产数据。探索环节需接入 LLM（配置 ANTHROPIC/OPENAI API key 或在 UI 中填写）。运行需 PostgreSQL，提供脚本安装、Docker Compose、二进制与源码构建五种安装/更新路径，支持页面内一键升级与回滚。", "highlights": ["多 agent 任务执行：可配置 worker 并发数（默认 3），带执行轨迹与探索图展示", "拦截审批与 human-in-the-loop 对话机制", "从 ScopeSentry 一键同步资产并合并到资产图", "支持远程 MCP（Streamable HTTP/SSE）与工具结果防注入边界"], "use_cases": ["对授权目标运行自主渗透测试任务并审阅 findings", "资产测绘后让 agent 在资产图上探索测试", "漏洞修复后手动发起复测（Retest）验证"]}, "filters": {"ai_role": "ai-native", "license_risk": "viral", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": "https://artex-demo.mhtsec.com", "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["渗透测试", "网络安全", "AI Agent", "红队工具"], "domain": "网络安全/渗透测试", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "team", "zh_origin": true, "zh_origin_signals": ["简体中文 README 版本", "Dockerfile 默认 China-friendly 依赖镜像", "镜像名 mianhuatang11/作者名含拼音"]}, "trust": {"confidence": "high", "evidence": ["L3: Autonomous AI Penetration Testing System (Go backend + Next.js frontend)", "L58: > Requires **PostgreSQL**; exploration requires an **LLM** (`ANTHROPIC_API_KEY` or `OPENAI_API_KEY`, or configure it in "], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-24", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "konanguyen/ARTEX",
+ "sha": "f84d60a01f2f",
+ "source": "readme",
+ "identity": {
+  "one_liner": "自主 AI 渗透测试系统：为安全人员自动执行测试任务",
+  "review": "Go 后端 + Next.js 前端的自主渗透测试系统：以任务为单位运行 agent 探索资产图并执行工具调用，产出 findings、执行轨迹与流量记录，支持人工拦截审批与 human-in-the-loop 对话，可从 ScopeSentry 同步资产数据。探索环节需接入 LLM（配置 ANTHROPIC/OPENAI API key 或在 UI 中填写）。运行需 PostgreSQL，提供脚本安装、Docker Compose、二进制与源码构建五种安装/更新路径，支持页面内一键升级与回滚。",
+  "highlights": [
+   "多 agent 任务执行：可配置 worker 并发数（默认 3），带执行轨迹与探索图展示",
+   "拦截审批与 human-in-the-loop 对话机制",
+   "从 ScopeSentry 一键同步资产并合并到资产图",
+   "支持远程 MCP（Streamable HTTP/SSE）与工具结果防注入边界"
+  ],
+  "use_cases": [
+   "对授权目标运行自主渗透测试任务并审阅 findings",
+   "资产测绘后让 agent 在资产图上探索测试",
+   "漏洞修复后手动发起复测（Retest）验证"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-native",
+  "license_risk": "viral",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": "https://artex-demo.mhtsec.com",
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "渗透测试",
+   "网络安全",
+   "AI Agent",
+   "红队工具"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "cybersecurity",
+   "multi-agent"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "team",
+  "zh_origin": true,
+  "zh_origin_signals": [
+   "简体中文 README 版本",
+   "Dockerfile 默认 China-friendly 依赖镜像",
+   "镜像名 mianhuatang11/作者名含拼音"
+  ]
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L3: Autonomous AI Penetration Testing System (Go backend + Next.js frontend)",
+   "L58: > Requires **PostgreSQL**; exploration requires an **LLM** (`ANTHROPIC_API_KEY` or `OPENAI_API_KEY`, or configure it in "
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

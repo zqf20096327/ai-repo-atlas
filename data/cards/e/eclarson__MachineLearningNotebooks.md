@@ -44,12 +44,12 @@ SMU 课程 CS5324/CS7324《Neural Networks I》的教学仓库，前身课程名
 ```mermaid
 xychart-beta
     title "eclarson/MachineLearningNotebooks 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 171 --> 173
     line [172, 172]
 ```
 
-2026-10-22 172 → 2026-11-24 172（+0）
+2026-10-23 172 → 2026-11-25 172（+0）
 
 
 ---

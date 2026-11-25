@@ -46,12 +46,12 @@ Agent Landing Zone 的 Web 客户端，基于 Chainlit 构建：流式显示代�
 ```mermaid
 xychart-beta
     title "Azure/agent-app-ui 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

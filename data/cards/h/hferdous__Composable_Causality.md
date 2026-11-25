@@ -47,12 +47,12 @@ DTCD（Datasets and Toolkit for Causal Discovery）配套仓库：生成带真�
 ```mermaid
 xychart-beta
     title "hferdous/Composable_Causality 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-24"]
+    x-axis ["2026-11-11", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-24 3（+0）
+2026-11-11 3 → 2026-11-25 3（+0）
 
 
 ---

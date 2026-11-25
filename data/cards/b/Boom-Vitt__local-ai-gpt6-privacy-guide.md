@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Boom-Vitt/local-ai-gpt6-privacy-guide 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 9 --> 12
-    line [11, 10, 10]
+    title "Boom-Vitt/local-ai-gpt6-privacy-guide 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
 ```
 
-2026-10-22 11 → 2026-11-24 10（-1）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

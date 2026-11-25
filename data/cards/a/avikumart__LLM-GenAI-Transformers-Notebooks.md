@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "avikumart/LLM-GenAI-Transformers-Notebooks 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 137 --> 139
     line [138, 138]
 ```
 
-2026-10-22 138 → 2026-11-24 138（+0）
+2026-10-23 138 → 2026-11-25 138（+0）
 
 
 ---

@@ -45,12 +45,12 @@ vibecheck 是一个用 npm 安装的命令行 agent 评测框架：以 YAML DSL 
 ```mermaid
 xychart-beta
     title "hev/vibecheck 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-21 22 → 2026-11-24 22（+0）
+2026-10-23 22 → 2026-11-25 22（+0）
 
 
 ---

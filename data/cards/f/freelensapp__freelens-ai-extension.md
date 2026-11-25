@@ -45,12 +45,12 @@ Freelens（Kubernetes 桌面客户端）的 AI 扩展：以聊天形式用自然
 ```mermaid
 xychart-beta
     title "freelensapp/freelens-ai-extension 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-22 37 → 2026-11-24 37（+0）
+2026-10-23 37 → 2026-11-25 37（+0）
 
 
 ---

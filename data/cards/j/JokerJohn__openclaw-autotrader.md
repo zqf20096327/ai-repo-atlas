@@ -45,12 +45,12 @@ JokerJohn 维护的公开实盘挑战记录仓库：一只 OpenClaw 🦞 交易�
 ```mermaid
 xychart-beta
     title "JokerJohn/openclaw-autotrader 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-22 47 → 2026-11-24 47（+0）
+2026-10-23 47 → 2026-11-25 47（+0）
 
 
 ---

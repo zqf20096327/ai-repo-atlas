@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "platinum-hill/cobolt 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 227 --> 230
-    line [229, 228, 228]
+    title "platinum-hill/cobolt 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 227 --> 229
+    line [228, 228]
 ```
 
-2026-10-21 229 → 2026-11-24 228（-1）
+2026-10-23 228 → 2026-11-25 228（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "JuliaReinforcementLearning/ReinforcementLearning.jl 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 651 --> 656
-    line [652, 653, 654, 653, 654, 655, 655]
+    title "JuliaReinforcementLearning/ReinforcementLearning.jl 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 652 --> 656
+    line [653, 654, 653, 654, 655, 655]
 ```
 
-2026-10-22 652 → 2026-11-24 655（+3）
+2026-10-23 653 → 2026-11-25 655（+2）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 583 · C# · BSD-2-Clause · 推送 2026-11-11 · [GitHub](https://github.com/hhblaze/DBreeze) · 个人维护
 
-**面向 .NET 的嵌入式多范式 NoSQL 数据库，含向量与全文检索**
+**面向 .NET 开发者的嵌入式多范式 NoSQL 数据库**
 
-用 C# 编写的嵌入式事务型 ACID 数据库，以键值存储为核心，同时提供对象数据库层、全文/部分文本搜索、多参数搜索，以及基于 HNSW 图与 TurboQuant 压缩的向量数据库层与相似性检索/聚类。支持 .NET Framework 3.5>、.NET Core、.NET Standard、Xamarin（Android/iOS）、UWP 等平台，可运行于 Linux/Windows/OS X，适合服务器、桌面、移动与物联网场景。自 2012 年 6 月用于作者生产环境，通过 NuGet 分发，可经 Raft.NET 实现高可用与冗余。单进程嵌入，不依赖外部服务。
+以 C# 编写的嵌入式数据库系统，提供 Key-Value 存储、对象层、全文检索、多参数检索及基于 HNSW 的向量相似检索与聚类。运行于 .NET Framework/.NET Core/.NET Standard/Xamarin/UWP/Unity 等平台，支持 Windows/Linux/OS X 及 Android/iOS。采用 ACID 事务、多线程与 Liana-Trie 索引；通过 NuGet 分发 DLL，自 2012 年起在维护者自有生产环境使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Liana-Trie 索引，键无需碎片整理，插入/更新速度不随时间衰减
-- 基于 HNSW 图与 TurboQuant 压缩的向量层/相似性检索/聚类
-- 集成全文搜索、多参数搜索与对象数据库层
-- 经 Raft.NET 提供高可用、冗余与容错
+- 嵌入式 Key-Value 存储，无需外部依赖库
+- 集成向量数据库层、相似检索与聚类（HNSW + TurboQuant）
+- ACID 事务、增量备份、Raft 高可用
+- 支持 .NET 全系列平台与移动端（Xamarin/Unity）
 
 ## 适用场景
 
-- 在 .NET 应用中嵌入一个无外部依赖的键值/对象数据库
-- 为检索应用存储向量并做相似性搜索与聚类
-- 需要 ACID 事务、增量备份与范围遍历的本地数据存储
+- 为 .NET 应用嵌入键值/对象数据存储
+- 在应用内实现全文与向量相似检索
+- 物联网与移动端的本地数据管理
 
 ## 场景标签
 
@@ -45,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "hhblaze/DBreeze 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-25", "2026-11-10", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 580 --> 583
-    line [581, 582, 581, 582, 582]
+    x-axis ["2026-10-22", "2026-10-25", "2026-11-10", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 580 --> 584
+    line [581, 582, 581, 582, 583]
 ```
 
-2026-10-21 581 → 2026-11-24 582（+1）
+2026-10-22 581 → 2026-11-25 583（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `0117336bfa62` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `195f986644a9` · [字段定义](../../DATASET.md)*

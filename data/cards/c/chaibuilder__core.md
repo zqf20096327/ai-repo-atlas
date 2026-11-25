@@ -2,9 +2,9 @@
 
 ⭐ 495 · TypeScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/chaibuilder/core) · [官网](https://chaibuilder.com) · 组织维护
 
-**面向 Next.js 的开源可视化建站器，含 AI 辅助编辑**
+**给 Next.js 开发者的开源可视化建站工具，含 AI 辅助编辑**
 
-基于块编辑器的 Next.js 可视化网站构建工具：提供拖拽画布（Tailwind 样式、媒体、SEO）、自定义 React 块注册、服务端数据提供者、RSC 渲染与 App Router 支持。AI 功能（AI assist、ask-ai 编辑）构建在 Vercel AI SDK 之上，模型请求经可插拔 provider 路由，内置 OpenRouter、OpenAI 兼容端点、Cloudflare Workers AI 适配器，未配置时走 Vercel AI Gateway。要求 Next.js ≥ 15.3、React ≥ 19、Tailwind CSS 4，支持 npm 包或 git subtree 两种接入方式，数据库适配 LibSQL/D1/better-sqlite3，附带 schema（非迁移）由宿主应用管理。
+面向 Next.js ≥15.3 / React 19 / Tailwind 4 的可视化页面构建器，以 npm 包或 git subtree 方式集成到既有项目。提供拖拽块编辑器、自定义 React 块注册（带类型化 props schema）、请求级服务端配置、RSC 渲染与草稿预览、数据绑定管道及 UI 扩展机制。AI 功能基于 Vercel AI SDK，通过可插拔 provider 插件接入各模型服务，默认走 Vercel AI Gateway；数据库支持 LibSQL、D1、better-sqlite3 适配器，schema 由宿主应用自行管理迁移。
 
 ## 筛选速览
 
@@ -13,27 +13,27 @@
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | BSD-3-Clause |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 块编辑器画布：Tailwind 样式、媒体、SEO 与 AI assist
-- AI provider 可插拔：OpenRouter/OpenAI 兼容端点/Cloudflare Workers AI 插件，默认 Vercel AI Gateway
-- 非可执行的安全数据绑定管道（currency/trim/gt 等内置 pipe，输出转义）
-- 自定义 React 块注册与 RSC 渲染（RenderChaiBlocks/ChaiPageCSS/JSON-LD）
+- 块级拖拽可视化编辑器，支持注册自定义 React 块
+- AI 功能基于 Vercel AI SDK，provider 以插件形式可插拔
+- 支持 LibSQL / Cloudflare D1 / better-sqlite3 数据库适配器
+- 提供数据绑定管道与条件可见性布尔管道机制
 
 ## 适用场景
 
-- 在 Next.js 项目中搭建可视化页面编辑器供内容团队使用
-- 注册自有 React 业务块并配置服务端数据提供者
-- 通过 OpenAI 兼容端点接入本地 Ollama/vLLM 作为建站 AI 后端
+- 在 Next.js 项目中嵌入可视化页面编辑能力
+- 让非技术团队通过拖拽编辑营销页面
+- 通过 OpenAI 兼容端点或 Ollama 为编辑器接入 AI 辅助
 
 ## 场景标签
 
- · 领域:Web 开发/低代码建站
+ · 领域:网站构建/低代码工具
 
 ## 证据(README 行号)
 
@@ -46,13 +46,13 @@
 ```mermaid
 xychart-beta
     title "chaibuilder/core 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 486 --> 497
     line [487, 488, 487, 489, 490, 491, 493, 495, 496, 495, 495]
 ```
 
-2026-10-22 487 → 2026-11-24 495（+8）
+2026-10-23 487 → 2026-11-25 495（+8）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c99b279f0092` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d04288bc815c` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ C++ 实现的本地元搜索服务：聚合 DuckDuckGo HTML、Brave Search HTML�
 ```mermaid
 xychart-beta
     title "drmikecrypto/WebSearchFree 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-24"]
+    x-axis ["2026-10-20", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-19 10 → 2026-11-24 10（+0）
+2026-10-20 10 → 2026-11-25 10（+0）
 
 
 ---

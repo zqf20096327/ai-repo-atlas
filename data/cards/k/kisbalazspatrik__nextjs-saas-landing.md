@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "kisbalazspatrik/nextjs-saas-landing 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 36 --> 39
-    line [37, 38, 38]
+    title "kisbalazspatrik/nextjs-saas-landing 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 37 --> 39
+    line [38, 38]
 ```
 
-2026-10-22 37 → 2026-11-24 38（+1）
+2026-10-23 38 → 2026-11-25 38（+0）
 
 
 ---

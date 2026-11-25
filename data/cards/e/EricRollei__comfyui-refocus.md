@@ -45,13 +45,13 @@ ComfyUI 自定义节点集，封装 Genfocus 生成式重对焦管线：DeblurNe
 
 ```mermaid
 xychart-beta
-    title "EricRollei/comfyui-refocus 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 22, 22]
+    title "EricRollei/comfyui-refocus 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 22, 23]
 ```
 
-2026-10-22 21 → 2026-11-24 22（+1）
+2026-10-23 22 → 2026-11-25 23（+1）
 
 
 ---

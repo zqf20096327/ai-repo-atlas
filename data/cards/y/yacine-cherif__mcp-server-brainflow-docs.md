@@ -44,13 +44,13 @@ BrainFlow 商业服务的 MCP 服务器设置文档：通过在邮件中抄送 B
 
 ```mermaid
 xychart-beta
-    title "yacine-cherif/mcp-server-brainflow-docs 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 15 --> 25
-    line [24, 21, 17, 16, 16]
+    title "yacine-cherif/mcp-server-brainflow-docs 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 15 --> 22
+    line [21, 17, 16, 16]
 ```
 
-2026-10-22 24 → 2026-11-24 16（-8）
+2026-10-23 21 → 2026-11-25 16（-5）
 
 
 ---

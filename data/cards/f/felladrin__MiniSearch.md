@@ -2,9 +2,9 @@
 
 ⭐ 611 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/felladrin/MiniSearch) · [官网](https://felladrin-minisearch.hf.space) · 个人维护
 
-**浏览器内运行 AI 的私有自托管搜索引擎，回答带引用**
+**浏览器内运行的私有 AI 搜索引擎，自托管带引用回答**
 
-自托管的元搜索引擎加 AI 助手：Web 结果由内置 SearXNG 聚合、本地交叉编码器重排，AI 模型可在浏览器标签页内以 WebGPU/CPU 运行（135M-4B 参数的精选模型），也可接入 OpenAI 兼容后端（Ollama、LM Studio、vLLM、llama.cpp server 等）、AI Horde 或由服务器代理自有 API key。回答带引用、支持追问与朗读；历史与缓存仅存于浏览器。整体以单个 Docker 容器交付。
+自托管搜索引擎加 AI 助手：服务器端通过捆绑的 SearXNG 聚合文本与图片搜索结果，用小型 cross-encoder 模型本地重排，浏览器缓存结果；AI 助手读取排序靠前的结果生成带引用的回答，支持追问与对话记忆。AI 模型可完全在浏览器内通过 WebGPU/CPU 运行，无需 API key；也可接入 OpenAI 兼容后端或 AI Horde。整个系统打包为单个 Docker 容器，搜索历史与分析数据留在浏览器本地。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- 模型可直接在浏览器内运行（WebGPU/CPU，135M-4B 参数），无需 API key
-- SearXNG 元搜索聚合 + 本地交叉编码器重排
-- AI 回答带来源引用，支持追问、展示推理过程与朗读
-- 可接入 OpenAI 兼容 API、AI Horde，服务器可代理 key 不暴露
+- AI 模型在浏览器内 WebGPU/CPU 运行，无需 API key，查询不经第三方
+- SearXNG 聚合结果经本地 cross-encoder 重排，回答附可验证引用
+- 支持 OpenAI 兼容 API 后端与服务器代理 API key 不外泄
+- 本地模糊搜索历史、会话恢复与使用统计热力图
 
 ## 适用场景
 
-- 自托管一个不外传查询记录的私人 AI 搜索
-- 把它设为浏览器默认搜索引擎或从 Raycast 触发
-- 让 AI 基于带引用的搜索结果回答可验证的问题
+- 搭建不泄露查询记录的私有 AI 搜索入口
+- 设为浏览器默认搜索引擎或从 Raycast 触发搜索
+- 自托管带引用来源的问答搜索服务
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`AI 助手` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L17: MiniSearch is a self-hosted search engine with an AI assistant.
-> L19: The AI can run entirely inside your browser tab, on GPU or CPU, so a working setup needs no API key, no separate in
-> L27: - **Answers you can verify.** Responses cite the sources they draw from, support follow-up questions with conversat
+> L91: Your query goes to the app server, which asks the bundled SearXNG instance to aggregate results from multiple searc
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "felladrin/MiniSearch 星数(近 12 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
     y-axis "stars" 600 --> 612
     line [601, 602, 603, 605, 606, 605, 602, 608, 609, 610, 611, 611]
 ```
 
-2026-10-22 601 → 2026-11-24 611（+10）
+2026-10-23 601 → 2026-11-25 611（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `742869219541` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `77f8549632dc` · [字段定义](../../DATASET.md)*

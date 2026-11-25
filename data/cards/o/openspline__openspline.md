@@ -2,9 +2,9 @@
 
 ⭐ 437 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/openspline/openspline) · [官网](https://www.openspline.dev/) · 组织维护
 
-**给语音 AI 代理生成实时口型同步数字人视频的工具**
+**给语音 AI agent 加实时数字人视频的开发库**
 
-将静态肖像与生成的音频流合成为口型同步的数字人视频，供已有语音 AI 代理接入展示。提供 Python 与 Node SDK、内置 Viewer/React/Web 组件，通过连接器对接 OpenAI Realtime、LiveKit、Gemini Realtime、ElevenLabs Agents 等既有代理框架。可使用 Openspline Cloud 托管，或在自有 NVIDIA GPU 上自托管（Linux/WSL2 安装脚本，多 GPU worker 配置）。限制：AMD 与 Apple GPU 暂不支持，长时运行与多云厂商验证未完成。
+OpenSpline 将一张人像与生成的音频合成为口型同步的实时视频，供语音 AI agent 使用。以 Python SDK、Node SDK 与自托管 GPU 服务形式提供，也提供 Cloud 托管；通过连接器接入 OpenAI Realtime、Gemini Live、ElevenLabs Agents、LiveKit 等现有 agent 会话，保留原有的提示词、工具与转写处理。自托管需 NVIDIA GPU（不支持 AMD/Apple GPU），Linux/WSL2 通过安装脚本部署，内置 viewer 与 React/Web 组件用于展示。
 
 ## 筛选速览
 
@@ -16,42 +16,42 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 肖像+音频流生成口型同步视频，5 行代码接入
-- OpenAI Realtime / LiveKit / Gemini Realtime / ElevenLabs 现成连接器
-- Cloud 托管或自有 NVIDIA GPU 自托管，支持多 GPU worker
-- 内置 Viewer、React 组件与 Web 组件用于展示
+- 5 行代码将人像+音频转为口型同步的实时视频
+- 提供 OpenAI Realtime、Gemini Live、ElevenLabs、LiveKit、Pipecat 等连接器
+- Cloud 托管与自托管 GPU 两种运行方式，支持多 GPU worker 配置
+- Python 与 Node 双 SDK，内置 viewer、React 与 web 组件
 
 ## 适用场景
 
-- 为我的语音 AI 客服/代理加上会说话的数字人脸
-- 在自有 GPU 上本地运行数字人视频生成
-- 在 LiveKit 等实时通话场景中嵌入数字人形象
+- 给现有语音 agent 加上可视化数字人形象
+- 本地 GPU 上自托管实时 avatar 生成服务
+- 在 LiveKit 会话中向前端推送同步音视频
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+`语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L8: **Add a live face to any voice AI agent in five lines.** Turn a portrait and generated audio into synchronized video
-> L104: Install `pip install openai==2.54.0`. Wrap your existing OpenAI Realtime connection; tools and transcripts still r
+> L100: These snippets plug into an existing async agent. Openspline owns output playback; disable your previous speaker o
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "openspline/openspline 星数(近 27 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 255 --> 450
-    line [271, 292, 294, 304, 321, 326, 327, 330, 331, 332, 333, 304, 379, 390, 399, 409, 417, 419, 420, 423, 424, 425, 426, 429, 432, 434, 434]
+    title "openspline/openspline 星数(近 26 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 278 --> 451
+    line [292, 294, 304, 321, 326, 327, 330, 331, 332, 333, 304, 379, 390, 399, 409, 417, 419, 420, 423, 424, 425, 426, 429, 432, 434, 437]
 ```
 
-2026-10-22 271 → 2026-11-24 434（+163）
+2026-10-23 292 → 2026-11-25 437（+145）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b6e6939d53ba` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0c4d4e838456` · [字段定义](../../DATASET.md)*

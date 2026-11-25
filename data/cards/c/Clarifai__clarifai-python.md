@@ -47,12 +47,12 @@ Clarifai 官方 Python 客户端，通过 PAT 鉴权调用 Clarifai 平台 API�
 ```mermaid
 xychart-beta
     title "Clarifai/clarifai-python 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-22 46 → 2026-11-24 46（+0）
+2026-10-23 46 → 2026-11-25 46（+0）
 
 
 ---

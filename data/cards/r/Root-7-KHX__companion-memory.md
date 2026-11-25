@@ -45,12 +45,12 @@ DeepSeek Harness 的插件，为角色扮演/伴侣型对话提供按对话隔�
 ```mermaid
 xychart-beta
     title "Root-7-KHX/companion-memory 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-24 3（+0）
+2026-11-10 3 → 2026-11-25 3（+0）
 
 
 ---

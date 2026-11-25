@@ -45,13 +45,13 @@ YuJunZhiXue/qwen2API 的 fork，唯一改动是为管理 WebUI 增加英语与�
 
 ```mermaid
 xychart-beta
-    title "satriyaa67/qwen2api-MultiLANG 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-20", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 47 --> 53
-    line [51, 52, 49, 48, 48]
+    title "satriyaa67/qwen2api-MultiLANG 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-20", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 46 --> 53
+    line [52, 49, 48, 47]
 ```
 
-2026-10-22 51 → 2026-11-24 48（-3）
+2026-10-23 52 → 2026-11-25 47（-5）
 
 
 ---

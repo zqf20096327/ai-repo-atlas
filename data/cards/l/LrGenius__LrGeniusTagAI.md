@@ -45,12 +45,12 @@ Lightroom Classic 插件，在 Library 网格或导出流程中批量调用视�
 ```mermaid
 xychart-beta
     title "LrGenius/LrGeniusTagAI 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-24"]
+    x-axis ["2026-11-20", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-24 10（+0）
+2026-11-20 10 → 2026-11-25 10（+0）
 
 
 ---

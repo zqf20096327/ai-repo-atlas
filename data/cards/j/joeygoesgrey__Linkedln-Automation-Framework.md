@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "joeygoesgrey/Linkedln-Automation-Framework 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 25 --> 29
-    line [26, 27, 28, 27, 27]
+    title "joeygoesgrey/Linkedln-Automation-Framework 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 26 --> 29
+    line [27, 28, 27, 27]
 ```
 
-2026-10-22 26 → 2026-11-24 27（+1）
+2026-10-23 27 → 2026-11-25 27（+0）
 
 
 ---

@@ -45,13 +45,13 @@ EMNLP 2026 论文《When Should Models Change Their Minds? Contextual Belief Man
 
 ```mermaid
 xychart-beta
-    title "zjunlp/CBM 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 11, 12, 12]
+    title "zjunlp/CBM 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 11, 12, 12]
 ```
 
-2026-10-22 10 → 2026-11-24 12（+2）
+2026-10-23 11 → 2026-11-25 12（+1）
 
 
 ---

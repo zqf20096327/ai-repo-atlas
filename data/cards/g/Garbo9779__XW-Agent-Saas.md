@@ -44,13 +44,13 @@ CrewOS+Saas 是关于企业 Agent 产品形态的公开实验仓库，探索 AI 
 
 ```mermaid
 xychart-beta
-    title "Garbo9779/XW-Agent-Saas 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 100 --> 104
-    line [103, 101, 101]
+    title "Garbo9779/XW-Agent-Saas 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 100 --> 102
+    line [101, 101]
 ```
 
-2026-10-22 103 → 2026-11-24 101（-2）
+2026-10-23 101 → 2026-11-25 101（+0）
 
 
 ---

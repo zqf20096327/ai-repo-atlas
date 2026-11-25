@@ -45,12 +45,12 @@ Python 数据流水线框架：将每个任务封装为 pipeline stage，按生�
 ```mermaid
 xychart-beta
     title "giacbrd/SmartPipeline 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-24"]
+    x-axis ["2026-11-13", "2026-11-25"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-11-13 28 → 2026-11-24 28（+0）
+2026-11-13 28 → 2026-11-25 28（+0）
 
 
 ---

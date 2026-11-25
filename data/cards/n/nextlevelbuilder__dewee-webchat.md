@@ -46,12 +46,12 @@ Web component 形式的嵌入聊天挂件：站点添加一个 <dewee-chat> 标�
 ```mermaid
 xychart-beta
     title "nextlevelbuilder/dewee-webchat 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-10-22 7 → 2026-11-24 7（+0）
+2026-10-23 7 → 2026-11-25 7（+0）
 
 
 ---

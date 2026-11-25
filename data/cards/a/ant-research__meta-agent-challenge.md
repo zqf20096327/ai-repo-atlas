@@ -45,12 +45,12 @@ Meta-Agent Challenge（MAC）是一个基准：让元代理（如 Claude Code、
 ```mermaid
 xychart-beta
     title "ant-research/meta-agent-challenge 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-21 24 → 2026-11-24 25（+1）
+2026-10-23 24 → 2026-11-25 25（+1）
 
 
 ---

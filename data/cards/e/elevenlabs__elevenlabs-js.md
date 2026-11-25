@@ -2,9 +2,9 @@
 
 ⭐ 456 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/elevenlabs/elevenlabs-js) · [官网](https://elevenlabs.io) · 组织维护
 
-**ElevenLabs 官方 Node.js SDK：接入其文本转语音与语音 Agent API**
+**面向 Node.js 开发者的 ElevenLabs API 官方 SDK**
 
-ElevenLabs 官方 TypeScript/Node SDK，封装其 HTTP API：文本转语音（流式生成）、语音列表查询，以及 Speech Engine——通过 WebSocket 连接让开发者在自有服务器接入自选 LLM 构建语音 Agent，ElevenLabs 负责语音侧，自动校验请求签名。内置指数退避自动重试（默认 2 次）、可配置超时（默认 60 秒），支持 Node.js 15+/Vercel/Cloudflare Workers/Deno/Bun 运行时。播放音频需系统安装 MPV 与 ffmpeg。
+ElevenLabs 官方 Node.js SDK，封装其语音 API：支持 TTS 模型（Eleven v4、v4 Turbo、Multilingual v2、Flash v2.5）调用、语音列表读取、音频流式传输，以及语音转文本与音乐模型入口。提供 Speech Engine 服务器搭建（可挂载到既有 HTTP 服务器或独立运行）、Workflow/Tool/Agent 的代码化定义与校验、自动重试与超时配置。音频播放需 MPV 与 ffmpeg。浏览器与 React 场景需另用 @elevenlabs/client 与 @elevenlabs/react。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@ ElevenLabs 官方 TypeScript/Node SDK，封装其 HTTP API：文本转语音（�
 
 ## 能力要点
 
-- 文本转语音含实时流式输出，覆盖 Multilingual/Flash/Turbo v2.5 等模型
-- Speech Engine：WebSocket 连接接入自选 LLM 构建语音 Agent，支持附加到现有 HTTP 服务器或独立运行
-- 自动重试（指数退避）与可配置超时
-- 支持 Node.js 15+/Vercel/Cloudflare Workers/Deno v1.25+/Bun 1.0+ 运行时
+- 封装 ElevenLabs 语音合成、语音列表、流式音频等 API
+- Speech Engine 支持 WebSocket 会话与鉴权（含 disableAuth 选项）
+- Workflow/Tool/Agent 链式代码化定义，build() 提供图校验
+- 内置指数退避自动重试（默认 2 次）与 60 秒超时配置
 
 ## 适用场景
 
-- 在 Node 应用中集成 ElevenLabs 的文本转语音能力
-- 为已有聊天 Agent 添加语音交互（Speech Engine）
-- 通过 API 查询与管理可用语音
+- 在 Node 应用中接入 ElevenLabs 做文本转语音
+- 为自己的 LLM 对话服务添加语音能力
+- 以代码方式管理语音 Agent 的工具与工作流并纳入 git
 
 ## 场景标签
 
-`语音合成` `语音 Agent` · 领域:对话与助手
+`语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L12: The official Node SDK for ElevenLabs. ElevenLabs brings the most compelling, rich and lifelike voices to creators a
-> L88: Speech Engine lets you build voice-powered AI agents with a custom LLM or add voice to your existing chat agent. Th
+> L93: Speech Engine lets you build voice-powered AI agents with a custom LLM or add voice to your existing chat agent. Th
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "elevenlabs/elevenlabs-js 星数(近 16 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
     y-axis "stars" 445 --> 457
     line [446, 447, 446, 447, 448, 449, 446, 450, 451, 452, 453, 454, 456, 455, 456, 456]
 ```
 
-2026-10-22 446 → 2026-11-24 456（+10）
+2026-10-23 446 → 2026-11-25 456（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9a098c863d38` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `36e3dce5f949` · [字段定义](../../DATASET.md)*

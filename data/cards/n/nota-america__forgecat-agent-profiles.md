@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nota-america/forgecat-agent-profiles 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 91 --> 94
-    line [92, 93, 93]
+    title "nota-america/forgecat-agent-profiles 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 92 --> 94
+    line [93, 93]
 ```
 
-2026-10-22 92 → 2026-11-24 93（+1）
+2026-10-23 93 → 2026-11-25 93（+0）
 
 
 ---

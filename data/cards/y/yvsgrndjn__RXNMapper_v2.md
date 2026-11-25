@@ -44,13 +44,13 @@ RXNMapper v2 基于 ALBERT 模型，通过掩码语言建模从无监督的反�
 
 ```mermaid
 xychart-beta
-    title "yvsgrndjn/RXNMapper_v2 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-18", "2026-11-24"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 23, 23]
+    title "yvsgrndjn/RXNMapper_v2 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
+    y-axis "stars" 20 --> 24
+    line [21, 23, 23]
 ```
 
-2026-10-22 20 → 2026-11-24 23（+3）
+2026-10-23 21 → 2026-11-25 23（+2）
 
 
 ---

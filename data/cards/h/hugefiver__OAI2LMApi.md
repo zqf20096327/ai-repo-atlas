@@ -45,12 +45,12 @@ VSCode 扩展：将任意 OpenAI 兼容 API 端点桥接到 VSCode 的 Language 
 ```mermaid
 xychart-beta
     title "hugefiver/OAI2LMApi 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-22 12 → 2026-11-24 13（+1）
+2026-10-23 12 → 2026-11-25 13（+1）
 
 
 ---

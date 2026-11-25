@@ -44,12 +44,12 @@ CHI 2025 论文《Exploring Empty Spaces》的配套代码。Amplio 可视化输
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-interactive-data-augmentation 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-22 33 → 2026-11-24 33（+0）
+2026-10-23 33 → 2026-11-25 33（+0）
 
 
 ---

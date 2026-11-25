@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Davidlequnchen/VLM-CADFeatureRecognition 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-16", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 81 --> 86
-    line [82, 83, 84, 85, 85]
+    title "Davidlequnchen/VLM-CADFeatureRecognition 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-16", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 82 --> 86
+    line [83, 84, 85, 85]
 ```
 
-2026-10-21 82 → 2026-11-24 85（+3）
+2026-10-23 83 → 2026-11-25 85（+2）
 
 
 ---

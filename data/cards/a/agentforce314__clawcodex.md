@@ -2,9 +2,9 @@
 
 ⭐ 928 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/agentforce314/clawcodex) · [官网](https://clawcodex.app) · 个人维护
 
-**Claude Code 的 Python 重写版：终端 AI 编程代理**
+**Claude Code 的 Python 重建版：面向开发者的终端编码 Agent**
 
-用 Python 重写的 CLI AI 编程代理，移植自 Claude Code 的 TypeScript 参考实现。提供多代理团队（常驻 teammate、共享任务板、会话级 supervisor 管理所有子代理）、/eco token 压缩（实测 Bash 输出 token 减少 80%）、DeepSeek 前缀缓存适配、--nano 极简模式（约 2K token 固定载荷）。附 Web UI 与 Desktop 应用，共享同一安装、配置与会话存储。通过 DeepSeek 等供应商 API 运行，需配置 API key；Windows 需 Git for Windows。
+以 Python 3.10+ 重写的终端编码 Agent，从 TypeScript 参考实现移植，通过 CLI/Web UI/桌面端读取、编辑代码并运行测试。关键机制包括：多 Agent 团队（TeamCreate 命名队友、共享任务板、会话级 supervisor）、/eco 令牌压缩（声称减少 Bash 输出令牌）、DeepSeek 前缀缓存配合、--nano 最小模式（约 2K 令牌固定载荷）。安装需配置 provider 与 API key；Windows 需 Git for Windows。附 Terminal-Bench 2.1 自测结果与可复现的 Harbor 适配器。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多代理团队：TeamCreate 建队、常驻 teammate 互发消息、依赖感知任务板、单一 supervisor 管理全部子代理
-- /eco token 压缩：27 个真实命令输出实测 92,989→17,767 tokens（-80%）
-- DeepSeek 前缀缓存适配：请求前缀保持字节级稳定，跨轮覆盖 system+tools+history
-- --nano 模式：约 2K token 固定载荷，Terminal-Bench 2.1 与 pi harness 同分（k=1）
+- 多 Agent 团队：持久化队友、共享任务板与会话级 supervisor
+- /eco 令牌压缩管道，有损输出 tee 到磁盘可恢复
+- DeepSeek 前缀缓存配合，保持请求前缀字节稳定
+- --nano 最小 harness（6 工具、约 2K 令牌载荷）与 Web UI 三栏界面
 
 ## 适用场景
 
-- 在终端里让 AI 代理完成编程任务，按 token 成本选择供应商
-- 组织多个持久 AI teammate 协作处理任务板工作
-- 在浏览器或桌面应用中继续 CLI 里开始的会话
+- 在终端里让 Agent 读写代码、跑测试并汇报结果
+- 长会话编码时压缩令牌与利用缓存降低成本
+- 用命名队友拆分任务并在共享任务板上协作
 
 ## 场景标签
 
@@ -38,21 +38,20 @@
 ## 证据(README 行号)
 
 > L5: **A production-oriented Python rebuild of Claude Code — real architecture, reliable CLI agent**
-> L97: clawcodex login   # interactive provider + API key setup → ~/.clawcodex/config.json
-> L98: clawcodex         # start it in any project — Full Access by default, /permissions to change
+> L100: clawcodex         # start it in any project — Full Access by default, /permissions to change
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "agentforce314/clawcodex 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
     y-axis "stars" 920 --> 929
     line [921, 922, 924, 921, 926, 927, 928, 928]
 ```
 
-2026-10-22 921 → 2026-11-24 928（+7）
+2026-10-23 921 → 2026-11-25 928（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `fb600bc22dd9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `628358049a4a` · [字段定义](../../DATASET.md)*

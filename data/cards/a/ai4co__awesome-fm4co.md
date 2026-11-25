@@ -2,9 +2,9 @@
 
 ⭐ 599 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/ai4co/awesome-fm4co) · 组织维护
 
-**组合优化领域基础模型/LLM 研究论文清单（awesome list）**
+**组合优化的基础模型/LLM 研究论文集合清单**
 
-ai4co 维护的研究论文策展清单，收录用现有 LLM 做组合优化（生成/改进解、超启发式算法、问题建模、可解释性、基准评测）以及构建面向组合优化的领域基础模型两类论文。条目以表格组织，含日期、论文链接、代码链接、覆盖问题（TSP/VRP/MILP/JSSP 等）与发表会议，时间跨度 2023.07 至 2025.07，面向组合优化与运筹方向的研究者检索相关工作。
+FM4CO 是一个持续收录组合优化方向基础模型研究的论文清单，分两条主线组织：利用现有大语言模型（生成/改进解、算法、超启发式、自动建模、可解释性分析）与构建面向组合优化的领域基础模型。以表格形式按日期排列论文，标注问题类型（TSP、VRP、MILP、JSSP 等）、发表会议与研究方向（Solution/Algorithm/Formulation/Benchmark/Interpretability/Dataset）。面向运筹优化与机器学习研究者，内容为文献索引，不含安装或运行说明。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ai4co 维护的研究论文策展清单，收录用现有 LLM 做组合优化（
 
 ## 能力要点
 
-- 按 LLM 用于优化与领域基础模型两条主线组织
-- 表格含日期、论文/代码链接、问题类型与发表会议
-- 覆盖 TSP/VRP/MILP/SAT/JSSP 等组合优化问题
-- 条目按 Solution/Algorithm/Formulation/Benchmark 等类型标注
+- 两大板块：LLM 用于组合优化 / 组合优化领域基础模型
+- 论文按日期列表并标注问题类型与发表会议（NeurIPS、ICLR、ICML、KDD 等）
+- 覆盖解生成、算法/超启发式设计、自动建模、基准评测、可解释性等方向
+- 收录配套代码、数据集与项目页链接
 
 ## 适用场景
 
-- 查找 LLM 用于组合优化的研究论文
-- 按问题类型（如 VRP、MILP）检索相关方法
-- 了解该方向 2023-2025 的论文与基准评测进展
+- 查找组合优化与大模型结合的相关论文
+- 调研自动启发式设计或优化建模的 LLM 方法
+- 了解该领域的基准与数据集资源
 
 ## 场景标签
 
@@ -38,20 +38,20 @@ ai4co 维护的研究论文策展清单，收录用现有 LLM 做组合优化（
 ## 证据(README 行号)
 
 > L3: FM4CO contains interesting research papers (1) using **Existing Large Language Models for Combinatorial Optimization
-> L9: |Date|Paper|Link|Problem|Venue|Remark*|
+> L7: Most research utilizes existing FMs from language and vision domains to generate/improve solutions\* or algorithms\*
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ai4co/awesome-fm4co 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-25"]
     y-axis "stars" 592 --> 600
     line [593, 595, 596, 597, 595, 597, 598, 599, 599]
 ```
 
-2026-10-22 593 → 2026-11-24 599（+6）
+2026-10-23 593 → 2026-11-25 599（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8ca4778d33b2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `45288f2c17b3` · [字段定义](../../DATASET.md)*

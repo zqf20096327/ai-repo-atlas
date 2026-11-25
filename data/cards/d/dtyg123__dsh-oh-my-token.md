@@ -45,12 +45,12 @@ DeepSeek Harness 的插件，在工具结果写入日志前完成改写，使模
 ```mermaid
 xychart-beta
     title "dtyg123/dsh-oh-my-token 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 4 --> 8
+    line [5, 7]
 ```
 
-2026-11-23 5 → 2026-11-24 5（+0）
+2026-11-23 5 → 2026-11-25 7（+2）
 
 
 ---

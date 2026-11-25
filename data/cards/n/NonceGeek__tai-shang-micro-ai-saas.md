@@ -46,12 +46,12 @@ Tai Shang AI SaaS 是一个 AI Agent 任务与注册平台：用户以简单 pro
 ```mermaid
 xychart-beta
     title "NonceGeek/tai-shang-micro-ai-saas 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-22 12 → 2026-11-24 12（+0）
+2026-10-23 12 → 2026-11-25 12（+0）
 
 
 ---

@@ -44,12 +44,12 @@ SAP 官方 samples 仓库，收录 SAP BTP Industry Use Cases 系列活动中演
 ```mermaid
 xychart-beta
     title "SAP-samples/btp-industry-use-cases 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-22 25 → 2026-11-24 25（+0）
+2026-10-23 25 → 2026-11-25 25（+0）
 
 
 ---

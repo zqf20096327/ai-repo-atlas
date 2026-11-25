@@ -45,12 +45,12 @@ LibertAI 维护的 agents 工具库，提供 x402 与 agentkit-plugin 两个包�
 ```mermaid
 xychart-beta
     title "Libertai/libertai-agents 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-22 31 → 2026-11-24 31（+0）
+2026-10-23 31 → 2026-11-25 31（+0）
 
 
 ---

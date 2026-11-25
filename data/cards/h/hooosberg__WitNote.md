@@ -2,9 +2,9 @@
 
 ⭐ 571 · TypeScript · 推送 2026-11-15 · [GitHub](https://github.com/hooosberg/WitNote) · [官网](https://hooosberg.com/apps/witnote/) · 个人维护 · 中文 README
 
-**本地优先的 Markdown 双栏编辑器，带离线/云端 AI 写作辅助**
+**本地优先的 Markdown 双栏编辑器，内置轻量 AI 写作助手**
 
-Electron 构建的开源跨平台 Markdown 笔记编辑器，主打双栏编辑（左写右实时渲染，支持 GFM 与 LaTeX）、文件库式工作区（无数据库、无专有格式锁定）与 100% 本地存储。AI 作为辅助功能存在：可连接本地 Ollama 或云端 API（DeepSeek、OpenAI 等），充当离线百科、翻译与写作助手，支持一键清除上下文。macOS/iOS 端已转向 Swift/SwiftUI 原生架构并上架 Mac App Store；开源版面向 Windows/Linux 提供 x86_64 与 ARM64 安装包及 AppImage/deb，也可从源码构建。
+基于 Electron 的跨平台 Markdown 工作区（开源版覆盖 Windows/Linux/macOS），主打无数据库、纯文件的双栏编辑：左侧书写、右侧实时渲染，支持 GFM、LaTeX 数学公式与代码高亮，文件夹可直接作为 vault 打开。AI 部分定位为轻量伴侣——离线百科、翻译与写作辅助，可连接本地 Ollama 或 DeepSeek/OpenAI 等云 API，带一键清空上下文。Apple 平台另提供 Swift/SwiftUI 原生版上架 App Store，开源版为 MIT 许可，数据 100% 存本地。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Electron 构建的开源跨平台 Markdown 笔记编辑器，主打双栏编辑�
 
 ## 能力要点
 
-- 双栏 Markdown 编辑，实时渲染 GFM 与 LaTeX 数学公式
-- AI 辅助：连接 Ollama 本地模型或 DeepSeek/OpenAI 等云端 API
-- 文件即存储的 Vault 工作区，100% 本地保存，不上传笔记与密钥
-- Windows/Linux 提供 x86_64 与 ARM64 的 exe/AppImage/deb 官方包
+- 纯双栏 Markdown 编辑，GFM 与 LaTeX 数学渲染
+- 文件夹即工作区，无数据库、无专有格式锁定
+- 可接 Ollama 本地模型或 DeepSeek/OpenAI 等云 API
+- v2.0.1 起官方安装包同时支持 x86_64 与 ARM64
 
 ## 适用场景
 
-- 需要一个无数据库、纯文件方式的本地 Markdown 笔记本
-- 写作时随手调用本地或云端 AI 做翻译与润色
-- 在不联网环境下管理并渲染带公式的技术笔记
+- 本地管理个人 Markdown 笔记与文档 vault
+- 离线环境下借助本地模型进行翻译与写作辅助
+- 需要 ARM64（如骁龙/ Surface）设备的原生安装包
 
 ## 场景标签
 
@@ -37,22 +37,21 @@ Electron 构建的开源跨平台 Markdown 笔记编辑器，主打双栏编辑�
 
 ## 证据(README 行号)
 
-> L3:  WitNote
 > L43: - 🤖 **Lightweight AI Companion**: AI is not a complicated, intrusive agent here—it functions simply as an offline e
-> L72: - 🤖 **Clean AI Integration** — Connect effortlessly with **Ollama** (local powerful models) or **Cloud API** (DeepS
+> L78: - 🤖 **Clean AI Integration** — Connect effortlessly with **Ollama** (local powerful models) or **Cloud API** (DeepS
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "hooosberg/WitNote 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-22", "2026-11-25"]
     y-axis "stars" 566 --> 572
-    line [569, 568, 567, 568, 567, 569, 570, 571, 570, 570]
+    line [569, 568, 567, 568, 567, 569, 570, 571, 570, 571]
 ```
 
-2026-10-22 569 → 2026-11-24 570（+1）
+2026-10-23 569 → 2026-11-25 571（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c16873bf4872` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `44839f72ee22` · [字段定义](../../DATASET.md)*

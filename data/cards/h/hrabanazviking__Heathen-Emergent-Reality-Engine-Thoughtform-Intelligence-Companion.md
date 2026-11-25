@@ -46,12 +46,12 @@ H.E.R.E.T.I.C. 定位为 AI agent 的"身体"：一个本地运行时宿主，�
 ```mermaid
 xychart-beta
     title "hrabanazviking/Heathen-Emergent-Reality-Engine-Thoughtform-Intelligence-Companion 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-11-06", "2026-11-15", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-15", "2026-11-25"]
     y-axis "stars" 9 --> 13
     line [11, 10, 11, 12, 12]
 ```
 
-2026-10-22 11 → 2026-11-24 12（+1）
+2026-10-23 11 → 2026-11-25 12（+1）
 
 
 ---

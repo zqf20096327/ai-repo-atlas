@@ -45,12 +45,12 @@ Pipelex 官方 Cookbook：收录用 MTHDS 语言编写、可在 Pipelex 托管 A
 ```mermaid
 xychart-beta
     title "Pipelex/pipelex-cookbook 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-21 40 → 2026-11-24 40（+0）
+2026-10-23 40 → 2026-11-25 40（+0）
 
 
 ---

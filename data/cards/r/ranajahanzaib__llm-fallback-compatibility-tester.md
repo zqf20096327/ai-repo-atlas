@@ -46,12 +46,12 @@ Rust 编写的 CI 合同测试工具：以 YAML/JSON 声明 provider 候选、�
 ```mermaid
 xychart-beta
     title "ranajahanzaib/llm-fallback-compatibility-tester 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-24"]
+    x-axis ["2026-11-13", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-24 3（+0）
+2026-11-13 3 → 2026-11-25 3（+0）
 
 
 ---

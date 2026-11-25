@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "smilemin07/korean-rnd-regs-mcp 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 11 --> 15
-    line [12, 14, 14]
+    title "smilemin07/korean-rnd-regs-mcp 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
 ```
 
-2026-10-22 12 → 2026-11-24 14（+2）
+2026-10-23 14 → 2026-11-25 14（+0）
 
 
 ---

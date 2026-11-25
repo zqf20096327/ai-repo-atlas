@@ -45,13 +45,13 @@ AI Career Curriculum 生态下的免费开源课程仓库，面向资深 AI 基�
 
 ```mermaid
 xychart-beta
-    title "ai-infra-curriculum/ai-infra-performance-learning 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-24"]
+    title "ai-infra-curriculum/ai-infra-performance-learning 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-25"]
     y-axis "stars" 78 --> 83
-    line [79, 80, 79, 80, 81, 82, 82]
+    line [80, 79, 80, 81, 82, 82]
 ```
 
-2026-10-22 79 → 2026-11-24 82（+3）
+2026-10-23 80 → 2026-11-25 82（+2）
 
 
 ---

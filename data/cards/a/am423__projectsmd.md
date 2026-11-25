@@ -45,12 +45,12 @@ Rust 编写的单二进制 CLI，通过一个 project.md 文件（YAML frontmatt
 ```mermaid
 xychart-beta
     title "am423/projectsmd 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-21 26 → 2026-11-24 26（+0）
+2026-10-23 26 → 2026-11-25 26（+0）
 
 
 ---

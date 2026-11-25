@@ -2,15 +2,15 @@
 
 ⭐ 466 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/realmyang/MLView) · [官网](https://github.com/realmyang/MLView#readme) · 个人维护
 
-**让编码助手生成源码链接的 ML 工作流交互图的 VS Code 工具**
+**编程助手生成 ML 工作流交互图并在 VS Code 中查看的工具**
 
-由三部分组成：面向 GitHub Copilot、Codex 和 Claude Code 的技能（skill）、统一的 WorkflowDocument 1.0 工件格式、以及 VS Code 查看器。用户在助手技能选择器中调用 mlview 提问，助手读取源码与配置，解释 ML 工作流并产出 *.mlview.json 图；查看器以交互图展示步骤、连接与发现（findings），每个声明附带带行号的源码引用，可点击跳转编辑器，支持逐条审查走查、修订对比、阶段总览与从代码反向定位到图。本地辅助程序仅校验引用与结构，不执行被分析程序；无需单独的模型 API key，模型由所选助手提供。README 自称实验性实现，语义解释的正确性未经人工审校确认。构建需 Python 3.10+ 与 Node 20.18.1+，从源码打包 VSIX 安装。
+MLView 由三部分组成：面向 GitHub Copilot、Codex 和 Claude Code 的 agent 技能、一个 `.mlview.json` 文档格式、以及一个 VS Code 查看器扩展。编程助手读取代码与配置后写出包含步骤、连接、发现的图表，并附引用文件的原文引句；技能自带的辅助脚本检查文档结构、引用路径与引句一致性并记录文件哈希。查看与导航操作不调用模型。发布版以 `.vsix` 扩展与技能 ZIP 形式提供，也可从源码构建（需 Python 3.10+ 与 Node 20.18.1+）。README 声明格式与查看器在版本间仍可能变动。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 为 Copilot / Codex / Claude Code 提供通用技能，产出统一 WorkflowDocument 1.0 格式图
-- 图中每个步骤/连接/发现附带行号级源码引用，可打开到编辑器旁
-- 逐条声明审查走查（Review），优先从推断与未观察项开始
-- 修订按 id 对比新增/删除/变更项，源文件改动会标记受影响引用
+- skill + 文档格式 + VS Code 查看器三件套架构
+- 辅助脚本检查结构、引用路径、引句并记录文件哈希
+- 查看、过滤、导航图表不调用模型
+- Claude Code 另提供插件打包形式
 
 ## 适用场景
 
-- 让 VS Code 里的编码助手解释训练工作流并生成可探索的图
-- 逐条核验图中声明是否与所引源码行对应
-- 向助手迭代提问以细化图的某个节点或发现
+- 让编程助手解读训练/蒸馏脚本并生成分步工作流图
+- 点击图表步骤跳转到被引用的源码行核对 AI 结论
+- 在 VS Code 中浏览示例 ML 项目的可交互说明图
 
 ## 场景标签
 
- · 领域:开发者工具/机器学习可视化
+ · 领域:开发者工具/可视化
 
 ## 证据(README 行号)
 
-> L6: **Use the LLM in your existing VS Code assistant to understand an ML workflow,
-> L8: for GitHub Copilot, Codex, and Claude Code, a common artifact format, and a
-> L12: MLView requires no separate model API key. The selected assistant supplies the
+> L7: answer as an interactive diagram linked to the source.** MLView is a skill for
+> L8: GitHub Copilot, Codex and Claude Code, a document format, and a VS Code
+> L28: - MLView needs no model API key of its own. Your assistant supplies the model,
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "realmyang/MLView 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-24"]
+    title "realmyang/MLView 星数(近 14 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
     y-axis "stars" 281 --> 486
-    line [308, 298, 319, 335, 354, 377, 393, 414, 430, 456, 469, 335, 465, 466, 466]
+    line [298, 319, 335, 354, 377, 393, 414, 430, 456, 469, 335, 465, 466, 466]
 ```
 
-2026-10-22 308 → 2026-11-24 466（+158）
+2026-10-23 298 → 2026-11-25 466（+168）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `920f17a48912` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `639a0b748937` · [字段定义](../../DATASET.md)*

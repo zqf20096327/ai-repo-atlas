@@ -2,9 +2,9 @@
 
 ⭐ 459 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/marketing-team-eve-template) · [官网](https://vercel.com/templates/eve/eve-marketing-team) · 组织维护
 
-**基于 eve 的营销 Agent 团队模板，产出博客/社媒/邮件内容**
+**基于 eve 框架的营销 agent 团队模板，经 Slack/终端交付**
 
-vercel-labs 提供的营销 Agent 团队模板：一个 lead 负责理解任务、撰写简报并分派给 product-marketer、content-marketer、social-media-coordinator、seo、email 五个专家，产出落在用户既有工具中——Notion 长文、Typefully 社媒草稿、Resend 邮件活动。共享状态为单一 brand context 文档；发送邮件、定时发布等不可逆操作需用户在 Slack 或终端审批。通过 Vercel 一键部署，经 Slack 或 TUI 交互，模型经 Vercel AI Gateway 访问。
+Vercel Labs 发布的模板仓库：在 eve agent 框架之上搭建一个营销 agent 团队（1 个 lead + 5 个专员，覆盖定位、长文、社媒、SEO、邮件）。用户通过 Slack 或终端与 lead 对话，专员产出落在 Notion、Typefully、Resend 等既有工具中。机制上：brief 自包含、委派仅一层、所有不可逆操作（发送/删除/发布）须经 Slack 或终端审批；认证走 Vercel Connect 与 OIDC。部署依赖 Vercel 平台与 Notion/Resend/Slack 账号。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@ vercel-labs 提供的营销 Agent 团队模板：一个 lead 负责理解任务�
 
 ## 能力要点
 
-- 一 lead + 五专家的委派结构，brief 自包含、委派仅一层
-- 产出直接交付到 Notion / Typefully / Resend 等既有工具
-- 不可逆操作（发送/定时发布/删除）设人工审批门
-- 支持 remote agents，专家可独立部署与发布
+- 1 个 lead + 5 个专员的角色分工与共享品牌上下文文档
+- 不可逆操作审批门：发送邮件、定时发布、页面编辑均需确认
+- 通过 Notion/Typefully/Resend 的 MCP 连接交付实际产出
+- 提供离线 evals（mock 模型）与在线 evals 测试套件
 
 ## 适用场景
 
-- 让 Agent 团队起草产品发布的社媒帖与公告文案
-- 自动化长文内容写作并落到 Notion
-- 策划并在审批后发送 Resend 邮件活动
-- 对落地页做 SEO 审计
+- 让 agent 团队起草产品发布公告并进入 Typefully 队列待审
+- 为新页面做 SEO 审计并获得 JSON-LD 建议内容
+- 把 newsletter 从撰写到 Resend 发送走完双专员流程
+- 在 eve 框架上定制自己的多专员 agent 团队
 
 ## 场景标签
 
-`AI 写作` `多智能体` · 领域:Agent 开发
+`多智能体` `AI 写作` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L8: Run a team of marketing agents built on eve. You bring work to a team lead: a launch to plan, posts to write, or a p
-> L10: You talk to it in Slack or a terminal. It delivers real work in the tools you already use: blog drafts in Notion, s
+> L6: Run a team of marketing agents built on eve, the open-source agent framework. You bring work to a team lead: a launc
+> L8: You talk to it in Slack or a terminal. It delivers real work in the tools you already use: blog drafts in Notion, so
+> L80: |Agent framework|eve|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "vercel-labs/marketing-team-eve-template 星数(近 14 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-22", "2026-11-24"]
+    title "vercel-labs/marketing-team-eve-template 星数(近 13 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-22", "2026-11-25"]
     y-axis "stars" 452 --> 460
-    line [455, 453, 455, 456, 457, 458, 459, 455, 454, 455, 456, 457, 459, 459]
+    line [453, 455, 456, 457, 458, 459, 455, 454, 455, 456, 457, 459, 459]
 ```
 
-2026-10-22 455 → 2026-11-24 459（+4）
+2026-10-23 453 → 2026-11-25 459（+6）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `6b3b232d0445` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `59e9ed77f72d` · [字段定义](../../DATASET.md)*

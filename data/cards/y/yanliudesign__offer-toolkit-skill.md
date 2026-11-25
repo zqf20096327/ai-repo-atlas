@@ -2,15 +2,15 @@
 
 ⭐ 579 · HTML · MIT · 推送 2026-10-27 · [GitHub](https://github.com/yanliudesign/offer-toolkit-skill) · 个人维护 · 中文 README
 
-**求职全流程 Claude 技能包：找工作、JD 分析、简历、面试、比薪、谈薪六件套**
+**面向求职者的 Claude 技能包：六个求职工具加顶层路由**
 
-面向求职者的 agent 技能合集，含一个顶层路由 SKILL.md 与六个独立子技能：搜索公开职位并生成去重可检索的 HTML 职位列表、解读 JD 产出申请策略报告、12 套可打印简历模板打磨简历、STAR/CAR 故事库应对行为面试、多 offer 四年总包对比、以及薪酬谈判剧本。通过复制文件夹到 ~/.claude/skills/ 等技能目录安装，兼容 Claude Code、Codex、VS Code 等支持 SKILL.md 的客户端。声明不代用户投递申请，生成文件保存在本地，中英双语。
+将六个求职工具打包为一个 agent skill pack，覆盖职位发现、JD 解码、简历制作、行为面试准备、offer 对比与薪资谈判六个阶段。每个子技能自带 SKILL.md 可独立安装使用，顶层路由器按意图分发到对应工作流。输出为本地 HTML 报告、简历或故事库，用户需具备支持 SKILL.md 格式的 AI 客户端。内置四条共享规则：内容不编造、只问影响答案的问题、先结构后渲染、不代用户提交申请或发消息。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 六个子技能覆盖求职发现到谈判全流程，各自独立可用
-- 12 套可打印简历模板，支持 PDF 与浏览器编辑
-- STAR/CAR 故事库构建，预测目标公司 20 个行为面试题
-- 生成 HTML 报告（JD 策略/offer 决策/谈判手册），文件保存在本地
+- 六阶段求职工具打包：搜索、JD 解码、简历（12 个打印就绪模板）、行为面试、offer 对比、薪资谈判
+- 顶层 SKILL.md 路由器按触发短语分发到六个子技能，子技能可单独安装
+- 行为面试技能以 STAR/CAR 结构挖掘真实经历，中英双语保存故事库
+- 生成文件保留在本地（HTML 报告/简历/故事库）
 
 ## 适用场景
 
-- 让 AI 客户端帮我分析 JD 值不值得投、差距在哪
-- 快速打磨简历并套用可打印模板
-- 整理自己的面试故事库，准备行为面试
-- 对比多个 offer 并生成谈判话术
+- 解码职位描述并生成是否值得投递的评估报告
+- 按 12 个模板定制与美化简历并导出 PDF
+- 挖据个人经历建立可复用的行为面试故事库
+- 对比多个 offer 的四年 TC、成长与风险并获得建议
 
 ## 场景标签
 
- · 领域:求职/职业工具
+ · 领域:职业发展/求职工具
 
 ## 证据(README 行号)
 
-> L19: Six job-hunting tools bundled as an agent skill pack. Use the whole thing, or just the piece you need — each sub-fo
-> L76: Drop the whole `offer-toolkit-skill/` folder into your skills directory (e.g. `~/.claude/skills/` or VS Code's prom
-> L128: Yes, when the client supports `SKILL.md`-style agent skills or workspace instructions. Installation directories an
+> L23: Six job-hunting tools bundled as an agent skill pack. Use the whole thing, or just the piece you need — each sub-fo
+> L82: Copy the whole `offer-toolkit-skill/` folder into your client's supported skills directory, preserving the top-leve
+> L40:  job&#8209;hunt&#8209;skill Give it a resume, target direction, seed JD, or existing job links. It searches public 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "yanliudesign/offer-toolkit-skill 星数(近 22 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-24"]
+    title "yanliudesign/offer-toolkit-skill 星数(近 21 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
     y-axis "stars" 534 --> 583
-    line [539, 540, 538, 539, 540, 542, 545, 546, 547, 549, 551, 539, 564, 570, 572, 574, 575, 576, 577, 578, 579, 579]
+    line [540, 538, 539, 540, 542, 545, 546, 547, 549, 551, 539, 564, 570, 572, 574, 575, 576, 577, 578, 579, 579]
 ```
 
-2026-10-22 539 → 2026-11-24 579（+40）
+2026-10-23 540 → 2026-11-25 579（+39）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6a88c355fe88` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d37f3416ab80` · [字段定义](../../DATASET.md)*

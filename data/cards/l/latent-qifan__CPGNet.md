@@ -44,12 +44,12 @@ CPGNet 是论文 'Conditional Polarization Guidance for Camouflaged Object Detec
 ```mermaid
 xychart-beta
     title "latent-qifan/CPGNet 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-22 11 → 2026-11-24 11（+0）
+2026-10-23 11 → 2026-11-25 11（+0）
 
 
 ---

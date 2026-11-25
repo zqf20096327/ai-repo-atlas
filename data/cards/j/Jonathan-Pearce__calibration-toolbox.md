@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jonathan-Pearce/calibration-toolbox 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 75 --> 78
-    line [77, 76, 76]
+    title "Jonathan-Pearce/calibration-toolbox 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 75 --> 77
+    line [76, 76]
 ```
 
-2026-10-22 77 → 2026-11-24 76（-1）
+2026-10-23 76 → 2026-11-25 76（+0）
 
 
 ---

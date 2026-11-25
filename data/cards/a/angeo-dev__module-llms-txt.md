@@ -46,13 +46,13 @@ Magento 2 / Adobe Commerce 扩展，为店铺目录生成符合 llmstxt.org v2 �
 
 ```mermaid
 xychart-beta
-    title "angeo-dev/module-llms-txt 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-12", "2026-11-24"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    title "angeo-dev/module-llms-txt 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-21 16 → 2026-11-24 18（+2）
+2026-10-23 17 → 2026-11-25 18（+1）
 
 
 ---

@@ -43,13 +43,13 @@ TPAMI 2026 综述论文 'Lifelong Learning of LLM based Agents: A Roadmap' 的�
 
 ```mermaid
 xychart-beta
-    title "qianlima-lab/awesome-lifelong-llm-agent 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 337 --> 341
-    line [338, 339, 340, 339, 340, 339, 339]
+    title "qianlima-lab/awesome-lifelong-llm-agent 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 338 --> 341
+    line [339, 340, 339, 340, 339, 339]
 ```
 
-2026-10-21 338 → 2026-11-24 339（+1）
+2026-10-23 339 → 2026-11-25 339（+0）
 
 
 ---

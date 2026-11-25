@@ -45,12 +45,12 @@ KGP Talkie 维护的 Udemy 课程目录仓库，覆盖 LLM 与 Agent 开发（Ag
 ```mermaid
 xychart-beta
     title "laxmimerit/Agentic-RAG-with-LangGraph-and-Ollama 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 46 --> 49
     line [48, 47, 47]
 ```
 
-2026-10-22 48 → 2026-11-24 47（-1）
+2026-10-23 48 → 2026-11-25 47（-1）
 
 
 ---

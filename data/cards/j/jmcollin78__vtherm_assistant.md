@@ -46,12 +46,12 @@ Home Assistant 应用，通过 HA 的 MCP 服务器动态发现 VTherm 温控器
 ```mermaid
 xychart-beta
     title "jmcollin78/vtherm_assistant 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-25"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-10 6 → 2026-11-24 6（+0）
+2026-11-10 6 → 2026-11-25 6（+0）
 
 
 ---

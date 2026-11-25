@@ -45,13 +45,13 @@ Cogitator 是运行在自有基础设施上的 TypeScript LLM Agent 运行时，
 
 ```mermaid
 xychart-beta
-    title "cogitator-ai/Cogitator-AI 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 40 --> 44
-    line [41, 43, 43]
+    title "cogitator-ai/Cogitator-AI 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
 ```
 
-2026-10-22 41 → 2026-11-24 43（+2）
+2026-10-23 43 → 2026-11-25 43（+0）
 
 
 ---

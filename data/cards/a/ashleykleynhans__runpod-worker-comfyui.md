@@ -46,12 +46,12 @@ RunPod Serverless worker 源码，通过 ComfyUI API 执行 Stable Diffusion 推
 ```mermaid
 xychart-beta
     title "ashleykleynhans/runpod-worker-comfyui 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 22 --> 25
     line [24, 23, 23]
 ```
 
-2026-10-22 24 → 2026-11-24 23（-1）
+2026-10-23 24 → 2026-11-25 23（-1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huchukato/stemify-audio-splitter 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-12", "2026-11-24"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 20, 21, 21]
+    title "huchukato/stemify-audio-splitter 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-25"]
+    y-axis "stars" 19 --> 23
+    line [21, 20, 21, 22]
 ```
 
-2026-10-22 20 → 2026-11-24 21（+1）
+2026-10-23 21 → 2026-11-25 22（+1）
 
 
 ---

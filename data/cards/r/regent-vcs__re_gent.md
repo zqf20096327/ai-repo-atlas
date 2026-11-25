@@ -2,9 +2,9 @@
 
 ⭐ 809 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/regent-vcs/re_gent) · 组织维护
 
-**给 AI 编程 agent 用户的版本控制工具：审计与溯源 agent 操作**
+**给 AI 编码代理做版本控制：记录每步操作并溯源到提示词**
 
-用 Go 编写的命令行工具，为 AI 编程 agent（Claude Code、OpenAI Codex CLI、OpenCode）提供版本控制与审计：每个工具调用轮次生成内容寻址的 Step 快照，存于 .regent/ 目录（BLAKE3 哈希对象、SQLite 查询索引、按会话分支的 DAG）。提供 rgt log/blame/show 等命令，可将任意代码行归因到具体 prompt，追踪多并发会话。通过 Homebrew、go install、源码编译或二进制发布安装，另有 VSCode 扩展提供行内 blame 注解。声明与 git 互补而非替代。
+以 CLI（rgt）形式运行的 AI 代理活动版本控制系统：代理每次工具调用自动生成内容寻址的 Step 快照（含变更、原因与请求者），按会话组成 DAG 存储，无需手动提交。提供 log/blame/show/sessions 等命令，可将任意代码行溯源到产生它的提示词，并保留 /compact 与 /clear 之后的对话记录。通过 hook 在 rgt init 时自动接入 Claude Code、Codex CLI 与 OpenCode；README 明确其定位是补充而非替代 git。安装支持 Homebrew、go install、源码构建与预编译二进制。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- rgt blame 将代码行归因到具体 prompt
-- 内容寻址存储（BLAKE3）+ SQLite 索引，亚 10ms 查询
-- 按会话分支的 DAG，支持并发会话追踪
-- Claude Code / Codex CLI / OpenCode 钩子自动配置
+- 每次代理工具调用自动生成内容寻址 Step（BLAKE3），按会话组成 DAG
+- rgt blame 可将代码行溯源到产生它的提示词
+- SQLite 索引与 /compact、/clear 后仍保留的对话追踪
+- VSCode 扩展提供行内 blame 注释与会话时间线
 
 ## 适用场景
 
-- 排查 AI agent 改动导致的回归问题
-- 查看某行代码由哪个 prompt 生成
-- 同时运行多个 agent 会话时追踪各自改动
+- 追踪代理重构后代码回归的原因与来源
+- 审计代理会话中每一步文件变更的上下文
+- 同时管理多个并发代理会话的变更记录
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L9:  Version Control for AI Agents
 > L11:  Track what your agent did, which prompt wrote each line, and inspect any step.
-> L164: ## Supported Tools
+> L168: |**Claude Code**|Fully supported|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "regent-vcs/re_gent 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-25"]
     y-axis "stars" 800 --> 810
     line [801, 802, 803, 804, 803, 802, 806, 807, 808, 809, 809]
 ```
 
-2026-10-22 801 → 2026-11-24 809（+8）
+2026-10-23 801 → 2026-11-25 809（+8）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `355b00403060` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4c1676e21538` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 938 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/promptdriven/pdd) · [官网](https://promptdriven.ai) · 组织维护
 
-**以 Prompt 为源代码的开发方法与 CLI 工具链**
+**给开发者用提示词驱动开发的 CLI 与编码代理技能**
 
-PDD 提供 `pdd` 命令行与一组 agent 技能：用户编写 Prompt 与 Story 作为程序源，PDD 解释器在代码生成前运行检查与模拟，随后由 agent 从 Prompt 生成代码。工作流包含 pdd lint/test/simulate/approve 等命令，配合 GitHub issue 标签驱动 Autopilot 自动开 PR、审查与合并（off/observe/auto 三种模式）。需要 Node.js 22.16.0+、Git、GitHub CLI 及任一 agent CLI，支持 macOS 与 Linux。
+PDD 提供 `pdd` 命令行与一个 `/pdd` 技能，把提示词文件作为源、代码作为生成产物：开发者先编写 prompt 与 Story，用 `pdd lint` 做零 AI 调用的离线结构检查、`pdd test` 在 PDD 解释器上运行场景测试、`pdd sim` 在写代码前通过浏览器/CLI/HTTP 模拟试用行为，再经 `pdd approve` 人工批准后由编码代理（Codex、Claude Code、Gemini CLI 等）实现代码并用 `pdd prove` 验证。需要 Node.js 22.16+、Git 与 GitHub CLI，仅在 macOS 与 Linux 上测试过。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@ PDD 提供 `pdd` 命令行与一组 agent 技能：用户编写 Prompt 与 Story
 
 ## 能力要点
 
-- Prompt 即源码：pdd 解释器在无代码阶段运行测试与模拟（CLI/HTTP API/浏览器界面）
-- Autopilot 按 GitHub issue 标签在后台运行 agent 并开 PR，支持 observe/auto 模式
-- 技能体系：pdd-feature/pdd-product/pdd-bug 等 6 类技能供 agent 调用
-- pdd autopilot doctor 做环境自检，不做 GitHub 写入与 AI 调用
+- 提示词文件作为源，代码由编码代理从批准的 prompt 生成
+- 写代码前可用 PDD Simulator 以 CLI/HTTP/浏览器方式试运行提示词行为
+- pdd lint 离线运行，0 AI 调用、0 网络调用
+- 审批流含人工批准门槛，Autopilot 可委托普通检查但严格审批仍需人工
 
 ## 适用场景
 
-- 让 agent 按 issue 自动完成功能开发并提交 PR
-- 在写代码之前通过模拟验证程序行为与验收标准
-- 以 Story 验收测试驱动 prompt 迭代与 bug 修复
+- 新功能开发前先定义 Story 验收标准并试用行为
+- 以失败优先的测试复现缺陷并修复根因
+- 多人协作中要求 prompt 变更经人工批准后才生成代码
 
 ## 场景标签
 
-`提示工程` `代码生成` `编码 Agent` · 领域:Agent 开发
+`提示工程` `代码生成` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: In PDD, you write prompts and Stories. The prompts are the source of your program. The PDD interpreter runs the prom
-> L16: PDD is the `pdd` command and a set of skills for your agent. Your agent writes the prompts, the Stories, the tests 
+> L5: In PDD, you write prompts and Stories first. Prompts are the source of truth for your owned modules; Stories describ
+> L16: PDD is the `pdd` command and one `/pdd` skill (`$pdd` in Codex, `/pdd` in Claude Code) with on-demand references fo
+> L20: You need Node.js 22.16.0 or newer (22.20.0+ for Autopilot), Git, and the GitHub CLI signed in with `gh auth login`.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "promptdriven/pdd 星数(近 16 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-24"]
-    y-axis "stars" 900 --> 940
-    line [903, 906, 911, 913, 914, 916, 918, 923, 926, 913, 932, 934, 935, 936, 937, 937]
+    title "promptdriven/pdd 星数(近 15 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-25"]
+    y-axis "stars" 903 --> 941
+    line [906, 911, 913, 914, 916, 918, 923, 926, 913, 932, 934, 935, 936, 937, 938]
 ```
 
-2026-10-22 903 → 2026-11-24 937（+34）
+2026-10-23 906 → 2026-11-25 938（+32）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0208e38cec5c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `fa7a00ead7a4` · [字段定义](../../DATASET.md)*

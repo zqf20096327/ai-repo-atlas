@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheAstrelo/Claude-Pipeline 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    title "TheAstrelo/Claude-Pipeline 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 46 --> 48
+    line [47, 47]
 ```
 
-2026-10-21 46 → 2026-11-24 47（+1）
+2026-10-23 47 → 2026-11-25 47（+0）
 
 
 ---

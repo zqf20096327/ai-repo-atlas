@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vinsmoke2110/CoreML-Live-Vision-Showcase 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-22 56 → 2026-11-24 56（+0）
+2026-10-23 56 → 2026-11-25 56（+0）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-24"]
-    y-axis "stars" 298 --> 300
-    line [299, 299]
+    x-axis ["2026-11-10", "2026-11-25"]
+    y-axis "stars" 298 --> 301
+    line [299, 300]
 ```
 
-2026-11-10 299 → 2026-11-24 299（+0）
+2026-11-10 299 → 2026-11-25 300（+1）
 
 
 ---

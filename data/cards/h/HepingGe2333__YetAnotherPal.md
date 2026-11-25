@@ -46,12 +46,12 @@ Yap 是一个 Android（Kotlin/Compose）+ iOS（SwiftUI）双端共享数据模
 ```mermaid
 xychart-beta
     title "HepingGe2333/YetAnotherPal 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-24"]
+    x-axis ["2026-11-18", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-24 3（+0）
+2026-11-18 3 → 2026-11-25 3（+0）
 
 
 ---

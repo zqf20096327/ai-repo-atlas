@@ -45,12 +45,12 @@ Rubix ML 官方示例项目：用多层感知机（Multilayer Perceptron）在 I
 ```mermaid
 xychart-beta
     title "RubixML/Sentiment 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 118 --> 120
     line [119, 119]
 ```
 
-2026-10-22 119 → 2026-11-24 119（+0）
+2026-10-23 119 → 2026-11-25 119（+0）
 
 
 ---

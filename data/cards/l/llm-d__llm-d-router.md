@@ -2,9 +2,9 @@
 
 ⭐ 478 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/llm-d/llm-d-router) · [官网](https://llm-d.ai/docs/architecture/core/router) · 组织维护
 
-**Kubernetes 上的 LLM 推理流量智能路由网关**
+**Kubernetes 上 LLM 推理请求的路由与调度入口**
 
-面向 Kubernetes 环境的推理请求入口：由 Endpoint Picker（EPP）路由引擎与 Envoy 等代理组成，通过 ext-proc 协议注入实时信号，依据 KV-cache 局部性、当前负载与优先级做请求放置决策。提供 InferenceObjective 与 InferenceModelRewrite 两种请求管理 API，支持优先级调度、模型名改写（A/B 测试、灰度发布）及 P/D 分离推理的 Disaggregation Sidecar。支持 Standalone 与 Gateway 两种部署模式，经 Helm chart 安装。
+llm-d Router（原名 Inference Scheduler）是面向 LLM 推理流量的路由组件：基于 Endpoint Picker（EPP）结合 KV-cache 局部性、当前负载与优先级做请求放置决策，支持前缀缓存感知路由、请求优先级与流控。部署上分 Standalone 模式（自管 Envoy，sidecar 或独立 service 拓扑）和 Gateway 模式（经由 Kubernetes Gateway API 与 L7 负载均衡器集成）；另含 Disaggregation Sidecar 编排 P/D、E/P/D 多阶段推理。README 未给出直接安装命令，部署经由 Helm chart。
 
 ## 筛选速览
 
@@ -20,39 +20,38 @@
 
 ## 能力要点
 
-- EPP 经 ext-proc 协议与 Envoy 集成，按 KV-cache 局部性与负载做放置决策
-- InferenceObjective 配置调度目标，InferenceModelRewrite 支持 A/B 测试与灰度发布
-- Disaggregation Sidecar 编排 P/D 与 E/P/D 多阶段推理生命周期
-- Standalone 与 Gateway 两种部署模式，均通过 Helm chart 安装
+- EPP 基于 KV-cache 局部性、负载与优先级做端点选择决策
+- 通过 ext-proc 协议与 Envoy 等 L7 代理集成注入实时信号
+- 两种部署模式：Standalone（自管 Envoy）与 Gateway 模式
+- Disaggregation Sidecar 编排 P/D、E/P/D 分阶段推理与 KV-cache 传输
 
 ## 适用场景
 
-- 在 Kubernetes 集群中做 LLM 负载与前缀缓存感知的推理流量路由
-- 为推理服务配置请求优先级与性能目标
-- 通过模型名改写实现推理服务的 A/B 测试与灰度发布
+- 在 Kubernetes 上为多副本 LLM 推理服务做负载与前缀缓存感知路由
+- 模型 A/B 测试与金丝雀发布时按模型名改写管理流量
+- Prefill/Decode 分离部署时协调各阶段 worker 的 KV-cache 传输
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`模型网关` `推理引擎` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L15: The **llm-d Router** is the intelligent entry point for inference traffic, delivering LLM load and prefix-cache awa
 > L25: - **Endpoint Picker (EPP)**: The intelligent routing engine that serves as the "brain" of the router. It evaluates 
-> L33: The llm-d Router supports two primary deployment modes as specified in the [Kubernetes Gateway API Inference Extens
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "llm-d/llm-d-router 星数(近 19 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 424 --> 481
-    line [428, 430, 431, 432, 433, 435, 437, 439, 440, 431, 465, 467, 468, 469, 471, 473, 475, 477, 477]
+    title "llm-d/llm-d-router 星数(近 18 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 426 --> 482
+    line [430, 431, 432, 433, 435, 437, 439, 440, 431, 465, 467, 468, 469, 471, 473, 475, 477, 478]
 ```
 
-2026-10-22 428 → 2026-11-24 477（+49）
+2026-10-23 430 → 2026-11-25 478（+48）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f6eaad6ca139` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3c6c307a3c64` · [字段定义](../../DATASET.md)*

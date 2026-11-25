@@ -46,12 +46,12 @@ Swarms API 的 Python SDK：从 Python 3.9+ 应用访问 Swarms REST API，提�
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/swarms-client 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-22 10 → 2026-11-24 10（+0）
+2026-10-23 10 → 2026-11-25 10（+0）
 
 
 ---

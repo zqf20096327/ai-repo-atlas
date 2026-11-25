@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 10 --> 13
-    line [12, 11, 11]
+    title "mzarnecki/course_llm_agent_apps_with_langchain_and_langgraph 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
 ```
 
-2026-10-22 12 → 2026-11-24 11（-1）
+2026-10-23 11 → 2026-11-25 11（+0）
 
 
 ---

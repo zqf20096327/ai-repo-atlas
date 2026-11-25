@@ -46,13 +46,13 @@ gMAS 是一个开源 Python 框架，用图（RoleGraph）建模多智能体 LLM
 
 ```mermaid
 xychart-beta
-    title "frontier-ai-next/gMAS 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    title "frontier-ai-next/gMAS 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
 ```
 
-2026-10-21 28 → 2026-11-24 29（+1）
+2026-10-23 29 → 2026-11-25 29（+0）
 
 
 ---

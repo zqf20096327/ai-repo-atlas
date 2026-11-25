@@ -45,12 +45,12 @@ Superbase 是运行在本地的 Model Context Protocol 服务器，通过 Roblox
 ```mermaid
 xychart-beta
     title "fiangg20/superbase 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-22 4 → 2026-11-24 4（+0）
+2026-10-23 4 → 2026-11-25 4（+0）
 
 
 ---

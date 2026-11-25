@@ -46,12 +46,12 @@ Macaw 是基于 Liquid AI LFM2.5-2.6B 微调的 2.7B 模型及配套 macOS 应�
 ```mermaid
 xychart-beta
     title "Badtheorylabs/Macaw 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-21 34 → 2026-11-24 34（+0）
+2026-10-23 34 → 2026-11-25 34（+0）
 
 
 ---

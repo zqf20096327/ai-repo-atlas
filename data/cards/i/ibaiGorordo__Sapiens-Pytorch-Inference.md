@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ibaiGorordo/Sapiens-Pytorch-Inference 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 152 --> 154
     line [153, 153]
 ```
 
-2026-10-22 153 → 2026-11-24 153（+0）
+2026-10-23 153 → 2026-11-25 153（+0）
 
 
 ---

@@ -46,12 +46,12 @@ AdaSwarm 是基于同名 IEEE 论文的 PyTorch 损失函数库：在损失层�
 ```mermaid
 xychart-beta
     title "AdaSwarm/AdaSwarm 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-22 18 → 2026-11-24 18（+0）
+2026-10-23 18 → 2026-11-25 18（+0）
 
 
 ---

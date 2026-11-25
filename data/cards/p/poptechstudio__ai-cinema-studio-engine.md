@@ -45,13 +45,13 @@ PopTech Studio 维护的自托管电影级 AI 视频生产管线：以 N8N 编�
 
 ```mermaid
 xychart-beta
-    title "poptechstudio/ai-cinema-studio-engine 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-24"]
-    y-axis "stars" 15 --> 19
-    line [16, 17, 18, 18]
+    title "poptechstudio/ai-cinema-studio-engine 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
+    y-axis "stars" 16 --> 19
+    line [17, 18, 18]
 ```
 
-2026-10-22 16 → 2026-11-24 18（+2）
+2026-10-23 17 → 2026-11-25 18（+1）
 
 
 ---

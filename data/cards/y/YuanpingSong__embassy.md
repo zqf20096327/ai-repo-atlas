@@ -45,12 +45,12 @@ Embassy 是一个运行在 macOS 上的消息代理（broker）：让在运行�
 ```mermaid
 xychart-beta
     title "YuanpingSong/embassy 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-22 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

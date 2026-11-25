@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bojrodev/Resolver-Stable-Diffusion-Client-for-android 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-24"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 16, 16]
+    title "bojrodev/Resolver-Stable-Diffusion-Client-for-android 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-25"]
+    y-axis "stars" 15 --> 18
+    line [16, 17, 16, 16]
 ```
 
-2026-10-22 15 → 2026-11-24 16（+1）
+2026-10-23 16 → 2026-11-25 16（+0）
 
 
 ---

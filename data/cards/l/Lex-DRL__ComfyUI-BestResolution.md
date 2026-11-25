@@ -45,12 +45,12 @@ ComfyUI 的自定义节点包（UX/QoL），用于半自动计算最优采样分
 ```mermaid
 xychart-beta
     title "Lex-DRL/ComfyUI-BestResolution 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-24"]
+    x-axis ["2026-11-08", "2026-11-25"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-08 16 → 2026-11-24 16（+0）
+2026-11-08 16 → 2026-11-25 16（+0）
 
 
 ---

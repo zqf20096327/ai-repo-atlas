@@ -46,12 +46,12 @@ Go 编写的自托管 AI Agent 工作区：将 Agent 的终端与文件系统操
 ```mermaid
 xychart-beta
     title "DevelopersGlobal/ironclavebot 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-22 5 → 2026-11-24 5（+0）
+2026-10-23 5 → 2026-11-25 5（+0）
 
 
 ---

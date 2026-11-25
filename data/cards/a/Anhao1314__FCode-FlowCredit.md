@@ -46,12 +46,12 @@ FCode 是一个本地优先、可恢复、可审计的单 Agent Runtime：模型
 ```mermaid
 xychart-beta
     title "Anhao1314/FCode-FlowCredit 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-24"]
+    x-axis ["2026-11-02", "2026-11-25"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-02 7 → 2026-11-24 7（+0）
+2026-11-02 7 → 2026-11-25 7（+0）
 
 
 ---

@@ -1,10 +1,10 @@
 # Muvon/octocode
 
-⭐ 530 · Rust · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Muvon/octocode) · [官网](https://octomind.run/product/octocode) · 个人维护
+⭐ 530 · Rust · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Muvon/octocode) · [官网](https://octomind.run/product/octocode) · 组织维护
 
-**给 AI agent 的代码库结构化检索工具：MCP 服务器+知识图谱+语义搜索**
+**面向 AI 编码助手的本地代码语义检索与依赖图 MCP 服务器**
 
-用 Rust 编写的单一二进制工具，将项目转为可导航的知识图谱，供 Claude、Cursor、Windsurf 等 MCP 客户端的 AI 助手检索和理解代码库。核心机制：tree-sitter AST 解析构建文件/符号及其 imports、calls、extends、implements 关系的实时图谱，无需索引即可用；可选索引模式叠加语义文件匹配与 LLM 描述；混合检索（语义向量+BM25+重排序）；内置 MCP 服务器暴露 semantic_search、graphrag 等工具，LSP 工具需指定语言服务器启用。支持 17 种语言的 AST 解析。默认本地 fastembed 嵌入，无需 API key；云嵌入与 LLM 提供商为可选项。提供可复现检索基准（127 条代码查询）。
+以单个 Rust 二进制发布的 CLI 与 MCP 服务器，用于探索代码库：Tree-sitter 抽取符号与关系构建实时图，索引侧用本地 FastEmbed 嵌入加 BM25 做混合检索与重排，提供语义搜索、结构搜索、签名查看与 GraphRAG 工具。通过 stdio 接入 Claude Code、Codex、Cursor 等客户端，也可终端直接使用；支持 16 类语言的索引，默认本地运行无需 API key，远程 provider 为可选项。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- tree-sitter AST 构建实时符号/文件关系图谱，无需索引即可导航
-- 内置 MCP 服务器暴露 semantic_search/graphrag/structural_search 等工具
-- 混合检索：语义相似度 + BM25 全文 + 重排序
-- 支持 17 种语言的 AST 解析，LSP 工具可选启用
+- 混合向量+关键词检索，可配置重排，默认本地模型无需 API key
+- Tree-sitter 实时符号/依赖图，无需索引即可进行结构搜索与签名查看
+- 内置 MCP 服务器，提供 semantic_search/structural_search/graphrag/lsp 等工具
+- 与 OctoFS 配合时行 ID 可直接作为编辑目标，编辑前校验内容哈希
 
 ## 适用场景
 
-- 让 Claude/Cursor 等 AI 编程助手理解并导航我的代码库结构
-- 用自然语言或 AST 模式在代码中做语义/结构化搜索
-- 跨文件追踪导入、调用与依赖关系
+- 让 Claude Code/Cursor 等客户端理解并检索我的代码库
+- 按意图而非关键词查找代码与文档
+- 追踪符号间的导入、调用、继承与实现关系
+- 本地离线环境下做代码索引与搜索，不上传源码
 
 ## 场景标签
 
@@ -37,22 +38,22 @@
 
 ## 证据(README 行号)
 
-> L25: **The Solution:** Octocode's MCP server gives AI agents:
-> L184: Octocode includes a **built-in MCP server** that exposes your codebase as tools to AI assistants. This is the prim
-> L66: 5. **MCP Server** — exposes `semantic_search`, `view_signatures`, `graphrag`, and `structural_search` to any MCP-co
+> L20: Octocode is a Rust CLI and MCP server for exploring codebases. It combines semantic search, structural search, and 
+> L83: ## MCP integration
+> L131: |Tool|Use it for|Requires an index|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "Muvon/octocode 星数(近 12 点)"
-    x-axis ["2026-10-22", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 512 --> 530
-    line [513, 515, 518, 513, 522, 523, 524, 525, 526, 528, 529, 529]
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 512 --> 531
+    line [513, 515, 518, 513, 522, 523, 524, 525, 526, 528, 529, 530]
 ```
 
-2026-10-22 513 → 2026-11-24 529（+16）
+2026-10-23 513 → 2026-11-25 530（+17）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2dad73cfc9b0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `27a75e4dc17d` · [字段定义](../../DATASET.md)*

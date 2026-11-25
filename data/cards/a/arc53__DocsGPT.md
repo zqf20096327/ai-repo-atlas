@@ -2,9 +2,9 @@
 
 ⭐ 18,380 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/arc53/DocsGPT) · [官网](https://app.docsgpt.cloud/) · 组织维护
 
-**企业级私有化 AI 问答与 Agent 平台：文档接地回答**
+**基于自有文档构建私有 AI agent 与企业搜索的自托管平台**
 
-自托管的 AI 平台，将文档、网站和接入的应用转化为带出处的 AI 代理：内置代理构建器、可视化工作流、深度研究模式、多源知识同步（Google Drive、SharePoint、Confluence、GitHub、S3 等）与 GraphRAG。每个回答附引用来源，支持 OpenAI 兼容 API、聊天挂件、MCP 服务器、Discord/Slack/Telegram 机器人等交付形式。全部组件运行在用户自己的环境内，MIT 许可，提供单命令安装脚本与 docsgpt CLI 管理栈。
+DocsGPT 将文档、网站和连接的应用转化为带引用来源的 AI agent：支持可视化工作流编排、知识库同步（Google Drive、SharePoint、Confluence、GitHub、S3 等）与 GraphRAG，提供 web 搜索、REST API、MCP 服务器、沙箱代码等工具，并内置 PII/提示注入防护栏。可在自有环境完全自托管，支持云或本地模型，包含 SSO、团队与配额等团队功能。安装器依赖 Docker，也支持 pip、Kubernetes 与离线部署。
 
 ## 筛选速览
 
@@ -27,40 +27,39 @@
 
 ## 能力要点
 
-- 代理与可视化工作流：提示词、知识、工具与模型可组合编排
-- 知识源同步与 GraphRAG，回答附文档引用
-- 多模型接入：OpenAI、Anthropic、Groq、Ollama、vLLM 等 OpenAI 兼容服务器
-- 团队功能：OIDC/SCIM 单点登录、角色权限、用量配额与 OpenTelemetry 观测
+- agent 与深度研究模式：多步生成带来源引用的回答
+- 可视化工作流构建器：拖拽式串联 agent、条件与沙箱代码
+- 多模型接入：OpenAI、Anthropic、Google、Groq 或经 Ollama/vLLM 用本地模型
+- MIT 许可，自托管含 SSO（OIDC/SCIM）、角色权限与用量配额
 
 ## 适用场景
 
-- 在企业内网自托管文档问答助手
-- 为产品支持页面嵌入带出处的聊天挂件
-- 把内部知识库通过 MCP 服务器暴露给 Claude、Cursor 等客户端
-- 搭建定时运行或 webhook 触发的自动化代理
+- 把产品手册和内部文档变成可引用来源的问答助手
+- 在自有环境搭建企业知识搜索与 agent 工作流
+- 通过网页组件或 OpenAI 兼容 API 把 agent 集成到产品中
 
 ## 场景标签
 
-`文档问答` `RAG` `知识图谱` `工作流自动化` · 领域:效率与自动化
+`RAG` `文档问答` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L44: DocsGPT turns your documents, sites and connected apps into AI agents that answer with sources. Build agents and
-> L63: - 🔎 **Answers with sources:** every answer cites the documents it came from.
+> L60: - 🤖 **Agents and deep research:** agents with their own prompt, knowledge, tools and model, plus a research mode fo
 > L65: - 🧠 **Any model:** OpenAI, Anthropic, Google, Groq, OpenRouter, or local models through Ollama, vLLM and other Open
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "arc53/DocsGPT 星数(近 20 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 18327 --> 18380
-    line [18331, 18333, 18334, 18333, 18334, 18335, 18340, 18344, 18349, 18352, 18333, 18365, 18369, 18373, 18375, 18373, 18376, 18374, 18373, 18373]
+    title "arc53/DocsGPT 星数(近 19 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 18329 --> 18384
+    line [18333, 18334, 18333, 18334, 18335, 18340, 18344, 18349, 18352, 18333, 18365, 18369, 18373, 18375, 18373, 18376, 18374, 18373, 18380]
 ```
 
-2026-10-22 18,331 → 2026-11-24 18,373（+42）
+2026-10-23 18,333 → 2026-11-25 18,380（+47）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `ef46aec0e0a7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `aec0c85dc9a2` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gunnarguy/OpenIntelligence 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-11", "2026-11-24"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 30, 30]
+    title "Gunnarguy/OpenIntelligence 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    y-axis "stars" 28 --> 31
+    line [29, 30, 30]
 ```
 
-2026-10-22 28 → 2026-11-24 30（+2）
+2026-10-23 29 → 2026-11-25 30（+1）
 
 
 ---

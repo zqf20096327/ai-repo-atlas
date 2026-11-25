@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yczhou001/Awesome-Diffusion-LLM 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 168 --> 171
-    line [169, 170, 170]
+    title "yczhou001/Awesome-Diffusion-LLM 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 169 --> 171
+    line [170, 170]
 ```
 
-2026-10-21 169 → 2026-11-24 170（+1）
+2026-10-23 170 → 2026-11-25 170（+0）
 
 
 ---

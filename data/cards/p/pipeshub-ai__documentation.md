@@ -43,12 +43,12 @@ docs.pipeshub.com 文档站的源码仓库，基于 Mintlify 构建：页面为 
 ```mermaid
 xychart-beta
     title "pipeshub-ai/documentation 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-24"]
+    x-axis ["2026-11-14", "2026-11-25"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-11-14 20 → 2026-11-24 20（+0）
+2026-11-14 20 → 2026-11-25 20（+0）
 
 
 ---

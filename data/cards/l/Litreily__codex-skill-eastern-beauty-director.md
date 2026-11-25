@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Litreily/codex-skill-eastern-beauty-director 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-11-06", "2026-11-24"]
-    y-axis "stars" 32 --> 36
-    line [33, 34, 35, 34, 34]
+    title "Litreily/codex-skill-eastern-beauty-director 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-25"]
+    y-axis "stars" 33 --> 36
+    line [34, 35, 34, 34]
 ```
 
-2026-10-22 33 → 2026-11-24 34（+1）
+2026-10-23 34 → 2026-11-25 34（+0）
 
 
 ---

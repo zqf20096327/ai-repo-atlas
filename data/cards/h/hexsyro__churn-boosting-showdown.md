@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hexsyro/churn-boosting-showdown 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-24"]
+    x-axis ["2026-11-15", "2026-11-25"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-11-15 30 → 2026-11-24 30（+0）
+2026-11-15 30 → 2026-11-25 30（+0）
 
 
 ---

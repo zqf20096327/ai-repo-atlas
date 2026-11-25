@@ -1,10 +1,10 @@
 # im4codes/imcodes
 
-⭐ 965 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/im4codes/imcodes) · [官网](https://im.codes) · 个人维护 · 中文 README
+⭐ 965 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/im4codes/imcodes) · [官网](https://im.codes) · 个人维护
 
-**面向编码代理的即时通讯层：共享记忆、监督执行与跨代理审计**
+**给 AI coding agent 提供共享记忆、受监督执行与跨 agent 审计的消息层**
 
-IM.codes 是围绕终端编码代理的消息、记忆与审查层：将受管机器注册为受限 Controlled Nodes，让授权代理执行范围化命令、文件传输与类型化 Computer Use，支持浏览器远程桌面。跨 Claude Code、Codex、Gemini CLI、Cursor 等提供共享上下文与记忆层、daemon 管理的 stdio MCP 工具面（记忆读写、代理间消息、cron 调度）、逐轮监督执行（off/supervised/supervised_audit 三模式）与 OpenSpec Auto Deliver 端到端交付流水线。原始与处理后记忆保持本地，处理后摘要可选择性云同步。作者声明为个人项目，无 SLA 与稳定性保证；企业共享记忆仍在开发中。
+IM.codes 将支持的机器注册为受限的 Controlled Nodes，让授权 agent 执行带范围限制的命令、文件传输与 Computer Use 操作，并提供浏览器远程桌面供人接管。它为 Claude Code、Codex、Gemini CLI、Copilot、Cursor、Qwen 等编码 agent 提供统一记忆层（本地存储、可选云同步、pgvector 多语言召回）、托管的 stdio MCP 工具面（记忆检索/写入、agent 消息、cron 调度）、逐轮受监督执行与自动审计返工循环，以及 OpenSpec 变更的端到端交付流水线。README 声明为个人开源项目，无 SLA 与稳定性保证。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@ IM.codes 是围绕终端编码代理的消息、记忆与审查层：将受管�
 
 ## 能力要点
 
-- 跨提供方的共享代理上下文与记忆层（本地存储、可选云同步、多语言向量召回）
-- 受管 MCP 工具面：记忆检索/写入、代理间消息、cron 调度，运行时绑定身份与安全门控
-- 逐轮监督执行：空闲边界分类 complete/continue/ask_human，fail-closed 自动化
-- OpenSpec Auto Deliver：提案审查、实现循环、模块化评分与 rework 门禁
+- 跨 provider 的共享 Agent 记忆：最终输出物化、多语言嵌入召回、自动注入会话
+- 托管的 stdio MCP 服务器：memory/Send/Cron 工具绑定运行时会话身份
+- 受监督执行：逐轮完成度分类与 supervised_audit 审计返工循环
+- OpenSpec Auto Deliver：审计评分与 PASS/REWORK/BLOCKED 门控
 
 ## 适用场景
 
-- 离开工位后从手机/网页继续查看和操控终端里的编码代理会话
-- 在多个 AI 提供方的代理间共享项目记忆与上下文
-- 让监督代理自动驱动多轮实现并进行跨模型审计
-- 把多台电脑注册为节点，由代理远程执行命令与文件操作
+- 离开工位后从手机/网页继续查看和推进 agent 编码会话
+- 让多个 agent 复用已完成工作的记忆与项目上下文
+- 为 OpenSpec 变更配置带审计与返工门控的自动交付流程
+- 团队内共享 workspace 级记忆并审计跨模型工作
 
 ## 场景标签
 
-`编码 Agent` `Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `编码 Agent` `GUI 自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L13: Alongside machine control, IM.codes gives coding agents one shared memory layer and one managed MCP tool surface ac
 > L52: It is not another AI IDE or a generic remote terminal. It is the messaging, memory, and review layer around termina
-> L83: IM.codes exposes a daemon-managed stdio MCP server to supported SDK-backed providers. Agents get one runtime-scoped
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "im4codes/imcodes 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 960 --> 972
-    line [971, 965, 964, 965, 961, 962, 963, 964, 965, 965]
+    title "im4codes/imcodes 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 960 --> 966
+    line [965, 964, 965, 961, 962, 963, 964, 965, 965]
 ```
 
-2026-10-22 971 → 2026-11-24 965（-6）
+2026-10-23 965 → 2026-11-25 965（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d6eab7485c5e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4b43953adb26` · [字段定义](../../DATASET.md)*

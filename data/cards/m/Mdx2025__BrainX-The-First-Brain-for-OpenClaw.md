@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mdx2025/BrainX-The-First-Brain-for-OpenClaw 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    title "Mdx2025/BrainX-The-First-Brain-for-OpenClaw 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 31 --> 33
+    line [32, 32]
 ```
 
-2026-10-22 31 → 2026-11-24 32（+1）
+2026-10-23 32 → 2026-11-25 32（+0）
 
 
 ---

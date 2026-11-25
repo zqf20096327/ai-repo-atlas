@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Pavloffm/chatbot-langgraph 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-24"]
+    x-axis ["2026-11-22", "2026-11-25"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-22 5 → 2026-11-24 5（+0）
+2026-11-22 5 → 2026-11-25 5（+0）
 
 
 ---

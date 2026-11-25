@@ -45,12 +45,12 @@ Piskel 像素画编辑器的 MCP（Model Context Protocol）服务器，供 AI �
 ```mermaid
 xychart-beta
     title "yafeiaa/piskel-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-22 19 → 2026-11-24 19（+0）
+2026-10-23 19 → 2026-11-25 19（+0）
 
 
 ---

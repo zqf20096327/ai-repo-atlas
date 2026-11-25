@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "takiAA/twitter-scraper-mcp 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 25 --> 29
-    line [28, 26, 27, 27]
+    title "takiAA/twitter-scraper-mcp 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 25 --> 28
+    line [26, 27, 27]
 ```
 
-2026-10-22 28 → 2026-11-24 27（-1）
+2026-10-23 26 → 2026-11-25 27（+1）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 558 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/42-evey/hermes-plugins) · [官网](https://evey.cc) · 个人维护
 
-**hermes-agent 的 23 个自定义插件：自主决策/遥测/成本控制**
+**为 Hermes Agent 提供目标管理、代理桥接、成本控制等插件与技能集**
 
-面向 hermes-agent 自主代理的 23 个插件集，覆盖五个方向：自主决策（自主引擎、3 模型辩论、多模型路由与 4 级回退）、可观测性（JSON 遥测、统一状态、MQTT 事件流、Langfuse 预算控制）、质量与安全（自我纠错、幻觉检测、提示注入筛查、沙箱执行）、学习与记忆（经验学习、记忆重要度衰减与夜间整合、委托缓存）、通信集成（与 Claude Code 双向桥、目标管理、Telegram UX、自动研究管线）。通过 git clone 拷贝到 ~/.hermes/plugins/ 安装，MIT 许可。
+面向 Hermes Agent 的插件与技能集合，按自治决策、质量安全、记忆学习、可观测性、集成五类组织，约 20 余个插件与 6 个工作流技能。插件经 `hermes plugins doctor --ci` 与 `plugins validate` 校验（基于 Hermes v0.22.5）。插件通过 `ctx.llm` 调用模型，使用用户已配置的任意 provider（含本地模型）。安装以单文件夹为单位，默认禁用需手动开启；外部服务通过环境变量提供地址与密钥。MIT 许可。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- evey-autonomy 提供自主决策/规划/反思工具，evey-council 用 3 模型辩论提取共识
-- evey-delegate-model 按任务类型自动路由模型，含 3 次重试与 4 模型回退链
-- evey-cost-guard 经 Langfuse 做每日/单任务预算控制（80% 告警、100% 警报）
-- evey-bridge 以文件收件箱/发件箱 + MCP server 与 Claude Code 双向通信
+- 目标管理、多角色问答、任务委派与结果评分等自治类插件
+- 幻觉标记、提示注入邮件筛查、PII 脱敏沙箱等安全类插件
+- 经 Langfuse 提供成本预算与分解（evey-cost-guard）
+- 插件按 provider 无关方式经 ctx.llm 调用，支持本地模型
 
 ## 适用场景
 
-- 为 hermes-agent 增加自主运行所需的决策与目标管理能力
-- 追踪 agent 的工具调用、委托与成本开销
-- 给 agent 加装幻觉检测、提示注入筛查与沙箱执行等安全层
-- 让 agent 维护可衰减与夜间整合的长期记忆
+- 为 Hermes Agent 补充目标队列、规划与反思能力
+- 对委派任务的输出做幻觉与错误校验
+- 监控 agent 的成本、事件与运行状态
+- 把 Hermes agent 与 Claude Code 会话或 Telegram 网关打通
 
 ## 场景标签
 
-`Agent 记忆` `LLM 可观测性` · 领域:Agent 开发
+`Agent 框架` `LLM 可观测性` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: 23 custom plugins for hermes-agent — built for autonomous operation, observability, cost control, and self-improveme
-> L21: |**evey-autonomy**|Core autonomy engine: autonomous_decide, autonomous_plan, autonomous_reflect tools. The brain of
-> L68: These plugins are part of Evey's autonomous AI agent stack:
+> L5: Plugins and skills for Hermes Agent. Checked on
+> L50: Plugins that need a model call it through `ctx.llm`, so they run on whatever provider and model
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "42-evey/hermes-plugins 星数(近 19 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 529 --> 561
-    line [531, 532, 534, 536, 538, 539, 542, 534, 543, 546, 549, 550, 553, 554, 556, 558, 559, 558, 558]
+    title "42-evey/hermes-plugins 星数(近 18 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 530 --> 561
+    line [532, 534, 536, 538, 539, 542, 534, 543, 546, 549, 550, 553, 554, 556, 558, 559, 558, 558]
 ```
 
-2026-10-22 531 → 2026-11-24 558（+27）
+2026-10-23 532 → 2026-11-25 558（+26）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b2c2cbcceba6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b3ec85a66e44` · [字段定义](../../DATASET.md)*

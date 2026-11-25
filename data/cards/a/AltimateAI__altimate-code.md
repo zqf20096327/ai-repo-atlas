@@ -2,9 +2,9 @@
 
 ⭐ 822 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AltimateAI/altimate-code) · [官网](https://altimate.sh) · 组织维护
 
-**面向数据团队的开源 agentic 数据工程 harness（SQL/dbt/数仓）**
+**面向数据团队的 agentic 数据工程 CLI 工具层**
 
-基于 OpenCode 分叉重构的数据工程工具层：提供 100+ 确定性工具，覆盖 SQL 反模式检测（19 规则）、列级血缘、dbt 集成（manifest 解析、测试生成）、跨方言 SQL 转译、跨 12 数仓数据比对、FinOps 成本分析与 PII 检测。支持 12 种云数仓连接，可在终端独立运行，也可嵌入 Claude Code、Codex 或 CI 流水线。模型无关，自带 Altimate Base 免费默认 LLM 或接入自带 provider。通过 npm 安装或下载自包含二进制；Alpine musl 与 Windows ARM64 暂不支持独立二进制。
+为 dbt、SQL 与云数仓场景提供的开源数据工程 harness：内置 100+ 确定性工具，覆盖 SQL 反模式检测、列级血缘解析、跨方言翻译与校验、FinOps 成本分析、PII 检测、dbt 测试生成与模型脚手架。以 CLI/TUI 运行，可独立使用，也可作为工具层挂载到 Claude Code 或 Codex 之下，或嵌入 CI 与编排 DAG。模型无关，支持多家 LLM 提供商及本地运行；通过 npm 或独立二进制安装。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 19 条 SQL 反模式规则与列级血缘（确定性解析，非 LLM 模式匹配）
-- 跨 12 数仓行级数据比对（5 种算法）与跨方言 SQL 转译
-- dbt 原生集成：manifest 解析、单元测试生成、模型脚手架
-- FinOps 成本分析与 15 类 PII 检测（30+ 正则）
+- 100+ 确定性工具：SQL 解析、列级血缘、PII 扫描、FinOps 分析
+- 支持 13 类数据仓库的 schema 索引、查询执行与元数据内省
+- 提供 Builder/Analyst/Plan 三种权限分级的 Agent 模式
+- 19 个内置 skills，可作为 Claude Code/Codex 插件运行
 
 ## 适用场景
 
-- 在终端让 AI agent 安全地开发 dbt 模型与分析 SQL
-- 为 Claude Code/Codex 挂载数据工程工具层
-- 审计数仓成本、检测 PII 并生成 SQL 审查报告
+- 对 dbt 项目做自动化 PR/MR 审查与单元测试生成
+- 迁移前跨 Snowflake/BigQuery/Databricks 等方言翻译并校验数据一致性
+- 分析数仓成本与闲置资源，审计 PII 列
+- 为 AI 编码代理补充数据栈感知的工具层
 
 ## 场景标签
 
-`编码 Agent` `数据分析` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L5: The intelligence layer for data engineering AI — 100+ deterministic tools for SQL analysis,
 > L8: Run standalone in your terminal, embed underneath Claude Code or Codex, or integrate
-> L106: **Works seamlessly with Claude Code and Codex.** Use `/configure-claude` or `/configure-codex` to set up integrati
+> L122: **Works seamlessly with Claude Code and Codex.** Use `/configure-claude` or `/configure-codex` to set up integrati
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "AltimateAI/altimate-code 星数(近 13 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 811 --> 823
-    line [812, 813, 814, 815, 817, 813, 816, 818, 819, 820, 821, 822, 822]
+    title "AltimateAI/altimate-code 星数(近 12 点)"
+    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 812 --> 823
+    line [813, 814, 815, 817, 813, 816, 818, 819, 820, 821, 822, 822]
 ```
 
-2026-10-22 812 → 2026-11-24 822（+10）
+2026-10-23 813 → 2026-11-25 822（+9）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `995aef97eb5c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `03f792b691ae` · [字段定义](../../DATASET.md)*

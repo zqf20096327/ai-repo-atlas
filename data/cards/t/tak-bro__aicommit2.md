@@ -2,9 +2,9 @@
 
 ⭐ 529 · TypeScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/tak-bro/aicommit2) · [官网](https://www.npmjs.com/package/aicommit2) · 个人维护
 
-**CLI 工具：用多种 AI 生成 Git/YADM/Jujutsu 提交信息**
+**用多家 AI 为 Git/Jujutsu 生成 commit 消息的 CLI**
 
-面向使用 Git、YADM、Jujutsu 的开发者的命令行工具：运行 git diff 读取暂存变更，发送到已配置的 AI 提供商，生成交互式可挑选的提交信息，并可直接完成提交。支持 OpenAI、Anthropic、Gemini、Ollama、Groq 等十余种提供商及任意 OpenAI 兼容 API，可同时向多个 AI 请求并选择结果。附加功能包括提交前结构化代码审查、重写已有提交信息、Git hook 集成与 diff 压缩以减少 token 用量。限制：diff 过大时 AI 无法正常工作；Homebrew 安装不含 Copilot SDK 支持。
+命令行工具：读取 git diff（暂存变更），发送给用户配置的 AI 服务，返回生成的 commit 消息供用户选择后提交。支持 Git、YADM、Jujutsu 三种版本控制系统并自动检测仓库类型；可同时向多个 AI 发请求并挑选结果，支持 prepare-commit-msg hook、已有提交消息重写、提交前 AI 代码审查、自定义 prompt 模板与 diff 压缩（声称减少 30-60% token）。需至少配置一个 provider；Homebrew 安装不含 Copilot SDK 支持；diff 过大时可能报错，需减小提交单元。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@
 
 ## 能力要点
 
-- 支持 Git、YADM、Jujutsu 三种版本控制系统并自动检测
-- 集成十余家 AI 提供商及任意 OpenAI 兼容 API
-- 可同时向多个 AI 发起请求并挑选提交信息
-- 提供结构化代码审查、提交重写、自定义提示词与 diff 压缩
+- 同时请求多个 AI 并从结果中挑选 commit 消息
+- 支持 Git/YADM/Jujutsu 仓库自动检测与 prepare-commit-msg hook
+- OpenAI API 兼容：可接入任何实现该规范的服务
+- 提交前 AI 代码审查（含严重级别）与 rewrite 子命令
 
 ## 适用场景
 
-- 在提交前自动生成符合 conventional/gitmoji 格式的提交信息
-- 同时请求多个模型并挑选最合适的提交信息
-- 在 dotfiles（YADM）或 Jujutsu 仓库中生成提交信息
+- 每次 git add 后自动生成规范的 commit 消息
+- 在 dotfiles 管理工具 YADM 中生成提交说明
+- 用 Jujutsu 工作流时自动生成提交描述
+- 提交前让 AI 先做一次结构化代码审查
 
 ## 场景标签
 
-`代码生成` `代码审查` · 领域:编码与开发
+`代码审查` `代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L26: _aicommit2_ automatically generates commit messages using AI. It supports Git, YADM (Yet Another Dotfiles Manager),
+> L31: - **Multi-AI Support**: Integrates with OpenAI, Anthropic Claude, Google Gemini, Mistral AI, Cohere, Groq, Ollama a
 > L184: This CLI tool runs `git diff` to grab all your latest code changes, sends them to configured AI, then returns the 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "tak-bro/aicommit2 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-24"]
+    title "tak-bro/aicommit2 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 528 --> 534
-    line [532, 533, 532, 531, 532, 533, 532, 531, 529, 529]
+    line [533, 532, 531, 532, 533, 532, 531, 529, 529]
 ```
 
-2026-10-22 532 → 2026-11-24 529（-3）
+2026-10-23 533 → 2026-11-25 529（-4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `213d5bc99898` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `82aeb0c1ae9e` · [字段定义](../../DATASET.md)*

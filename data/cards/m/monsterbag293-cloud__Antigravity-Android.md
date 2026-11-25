@@ -45,12 +45,12 @@ Google Antigravity 的非官方 Android 移植与移动兼容运行时，开发�
 ```mermaid
 xychart-beta
     title "monsterbag293-cloud/Antigravity-Android 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 8 --> 10
-    line [9, 9]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 8 --> 11
+    line [9, 10]
 ```
 
-2026-11-23 9 → 2026-11-24 9（+0）
+2026-11-23 9 → 2026-11-25 10（+1）
 
 
 ---

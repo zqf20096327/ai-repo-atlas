@@ -1,10 +1,10 @@
 # 0xMassi/webclaw
 
-⭐ 2,443 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护
+⭐ 2,443 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/0xMassi/webclaw) · [官网](https://webclaw.io) · 个人维护 · 中文 README
 
-**面向 AI agent 与 RAG 的本地网页内容提取工具（CLI/MCP/REST）**
+**为 LLM 与 RAG 管线提取网页内容的本地工具（CLI/MCP/API）**
 
-Rust 编写的本地网页提取工具：将 URL 转为 markdown、JSON 或 LLM 优化的文本，支持抓取单页、爬取站点、CSS/XPath 选择器取值、表格转 JSON、按文本查找元素、按问题筛选段落、生成检索用分块与编号引用。提供 CLI、MCP server、REST API 与 SDK，可通过 npx 安装器接入 MCP 兼容客户端，也可自托管服务器；托管版 API 为 webclaw.io。无 API key，Windows 原生 ZIP 安装需 Visual C++ 运行库。
+Rust 实现的本地网页内容提取工具：将 URL 转为干净的 markdown、JSON 或 LLM 优化文本，支持抓取单页、爬取多页、按 CSS/XPath 选择器提取字段、表格转 JSON、按文本查找元素与相似元素扩展、按问题筛选段落、按 token 分块输出供检索索引用，以及链接编号引用。提供 CLI、MCP server、REST API、SDK（Cargo/Python）与可自托管服务器；官方托管版为 webclaw.io，本仓库为开源部分。无需 API key 即可本地运行。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ Rust 编写的本地网页提取工具：将 URL 转为 markdown、JSON 或 LLM 
 
 ## 能力要点
 
-- CLI、MCP server、REST API、Python 包多种使用方式
-- CSS/XPath 选择器、--tables、--find-text/--similar 等结构化提取
-- --chunk 生成带 heading_path 与 token 估算的 RAG 分块
-- JavaScript 渲染页面后提取，无需 API key
+- CLI、MCP server、REST API、SDK（Cargo/Python）多种接入方式
+- 支持 --chunk 分块、--query 问题筛选、--citations 引用编号等 LLM 适配输出
+- 支持 CSS/XPath 选择器、--field 结构化字段、--tables 表格转 JSON、--similar 相似元素扩展
+- 含 JS 渲染、爬取（--crawl）与本地运行，无需 API key
 
 ## 适用场景
 
-- 为 AI agent 提供干净的网页上下文而非原始 HTML
-- 把文档站爬取并分块后建检索索引
-- 从列表页批量抽取结构化字段为 JSON
-- 通过 MCP 在 Claude Code/Cursor 等客户端中调用网页提取
+- 为 RAG 管线生成带 heading_path 的检索分块
+- 给 AI agent 提供 MCP 方式的网页抓取与结构化提取
+- 把文档站批量爬取并转为 markdown/LLM 优化文本
+- 从列表页用选择器批量抽取字段生成 JSON 记录
 
 ## 场景标签
 
-`网页抓取` `文档解析` · 领域:效率与自动化
+`网页抓取` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L9:  Turn websites into clean markdown, JSON, and LLM-ready context.
 > L10:  CLI, MCP server, REST API, and SDKs for AI agents and RAG pipelines.
 > L31: webclaw.io is the hosted web extraction API for webclaw. This repo contains the open-source CLI, MCP server, extrac
 
@@ -45,14 +46,14 @@ Rust 编写的本地网页提取工具：将 URL 转为 markdown、JSON 或 LLM 
 
 ```mermaid
 xychart-beta
-    title "0xMassi/webclaw 星数(近 25 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 2377 --> 2458
-    line [2383, 2387, 2386, 2388, 2390, 2396, 2405, 2408, 2412, 2414, 2420, 2388, 2436, 2439, 2440, 2442, 2443, 2446, 2450, 2452, 2441, 2440, 2442, 2443, 2443]
+    title "0xMassi/webclaw 星数(近 24 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 2380 --> 2458
+    line [2387, 2386, 2388, 2390, 2396, 2405, 2408, 2412, 2414, 2420, 2388, 2436, 2439, 2440, 2442, 2443, 2446, 2450, 2452, 2441, 2440, 2442, 2443, 2443]
 ```
 
-2026-10-21 2,383 → 2026-11-24 2,443（+60）
+2026-10-23 2,387 → 2026-11-25 2,443（+56）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `929ab3294e8f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `94b7e58824fa` · [字段定义](../../DATASET.md)*

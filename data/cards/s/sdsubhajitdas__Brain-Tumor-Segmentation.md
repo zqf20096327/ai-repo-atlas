@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sdsubhajitdas/Brain-Tumor-Segmentation 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-15", "2026-11-24"]
-    y-axis "stars" 294 --> 299
-    line [295, 296, 297, 298, 298]
+    title "sdsubhajitdas/Brain-Tumor-Segmentation 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-25"]
+    y-axis "stars" 295 --> 299
+    line [296, 297, 298, 298]
 ```
 
-2026-10-22 295 → 2026-11-24 298（+3）
+2026-10-23 296 → 2026-11-25 298（+2）
 
 
 ---

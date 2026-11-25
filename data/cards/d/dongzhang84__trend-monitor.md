@@ -46,12 +46,12 @@ Python 编写的趋势监控工具：每日从 Product Hunt、Toolify.ai、There
 ```mermaid
 xychart-beta
     title "dongzhang84/trend-monitor 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-22 10 → 2026-11-24 11（+1）
+2026-10-23 10 → 2026-11-25 11（+1）
 
 
 ---

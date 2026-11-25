@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "functionaljs/functional-js 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 223 --> 226
-    line [224, 225, 225]
+    title "functionaljs/functional-js 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 224 --> 226
+    line [225, 225]
 ```
 
-2026-10-21 224 → 2026-11-24 225（+1）
+2026-10-23 225 → 2026-11-25 225（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 458 · TypeScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/EvolvingAgentsLabs/evolving-agents) · [官网](https://evolvingagentslabs.github.io/#director) · 组织维护
 
-**把团队规则编译为链式声明的指挥型 agent，接入 Claude Code/本地模型**
+**给用 Claude Code 的团队管理代理记忆的指挥代理插件**
 
-以 Claude Code 插件形式（另有本地 harness）提供的“director”agent：将 CLAUDE.md、AGENTS.md 与 Claude Code 记忆编译为原子化、相互链接的 When/Do/Because 声明，规划时逐条引用所依据的规则；任务完成后通过 lint、探针、守卫与人工确认的门控流程，把经验教训保存为可回滚的版本化补丁（agentvcs）。支持将任务委托给前沿模型、Ollama/llama.cpp 本地模型或任意命令行通道；机密规则以代码而非提示词方式在 lanes.py 中强制执行。需要 Python 3.10+ 与 Claude Code，仅依赖标准库；编译约 60 个文件的成本约为 5 美元。README 依据 14 个场景的测量给出 0.929 对 0.589 的规则遵循率（Sonnet 条件下），并注明 Opus 条件下差距消失、仅余成本差异。对 Anthropic Managed Agents 与 Google Antigravity 的支持为规划中。
+以 Claude Code 插件形式运行的『指挥』代理：将团队的 CLAUDE.md、AGENTS.md 与记忆编译为相互链接的规则，代理规划前检索并引用适用的规则；任务可委派给 Claude Code 或本地模型，机密任务仅路由到用户认可的本地机器；纠正后草拟课程（lesson），经 Diff/Accept/Reject 门控保留为可比较、可撤销的版本化变更。内存以纯 Markdown 存于本机。限制：仅在 Claude Code 内运行，成本与安装细节见 packages/director/。
 
 ## 筛选速览
 
@@ -13,46 +13,46 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 将 CLAUDE.md/记忆编译为链式、可引用的规则声明
-- 门控式经验学习：lint+探针+守卫+人工确认，输出版本化补丁
-- 多通道委托：Claude Code 会话、claude -p、Ollama/llama.cpp 本地模型、任意命令
-- 机密性规则以代码形式在 lanes.py 中强制执行而非提示词
+- CLAUDE.md/AGENTS.md/记忆编译为链接规则，计划逐步引用所遵循的规则
+- 机密任务仅路由到已认可的本地机器，规则在代码中强制执行
+- 纠正→草拟课程→Diff/Accept/Reject 门控→版本化可撤销变更
+- README 附带多项基准测量，含否定性结果（如 2025 EAT 工具的教训）
 
 ## 适用场景
 
-- 我有 CLAUDE.md/AGENTS.md，希望 agent 规划时逐条遵循规则
-- 把部分任务改到本地模型执行并让 agent 记住这一偏好
-- 团队积累的经验教训以可审计、可回滚的补丁形式沉淀
+- 让编码代理始终遵循团队自己的约定与决策
+- 机密文件只在本地机器处理，规划交给云端模型
+- 把每次人工纠正沉淀为可审计、可撤销的规则
 
 ## 场景标签
 
-`Agent 记忆` `编码 Agent` · 领域:Agent 开发
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L10: > statements; plans by walking it; delegates each step to a frontier model, a local model or another harness; and
-> L11: > learns from every task through a gated, versioned patch. It ships as a **Claude Code plugin** today and is built
-> L112: |local|Ollama / llama.cpp; lora-kernel's specialists|**built** — gemma4:12b plans from recipes at 0.806 vs 0.854, 
+> L9: > cleared. When you correct it, it drafts a lesson that you accept or reject. It runs inside **Claude Code** today.
+> L55: /plugin install director --marketplace EvolvingAgentsLabs/evolving-agents
+> L83: |`packages/director/`|**Active — the project.** The director and its Claude Code plugin|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "EvolvingAgentsLabs/evolving-agents 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 455 --> 459
-    line [456, 457, 458, 458]
+    title "EvolvingAgentsLabs/evolving-agents 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 456 --> 459
+    line [457, 458, 458]
 ```
 
-2026-10-22 456 → 2026-11-24 458（+2）
+2026-10-23 457 → 2026-11-25 458（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `8849d727967c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `32924bdacfd8` · [字段定义](../../DATASET.md)*

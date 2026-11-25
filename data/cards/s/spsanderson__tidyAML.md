@@ -46,12 +46,12 @@ tidyAML 是构建在 tidymodels 生态之上的 R 包，面向使用 tidyverse �
 ```mermaid
 xychart-beta
     title "spsanderson/tidyAML 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-22 69 → 2026-11-24 69（+0）
+2026-10-23 69 → 2026-11-25 69（+0）
 
 
 ---

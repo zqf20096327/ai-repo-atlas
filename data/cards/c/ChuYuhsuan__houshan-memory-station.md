@@ -46,12 +46,12 @@ Electron 单页应用的 Windows 桌面端，分学生端与教师端：学生�
 ```mermaid
 xychart-beta
     title "ChuYuhsuan/houshan-memory-station 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-24"]
+    x-axis ["2026-11-02", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-24 3（+0）
+2026-11-02 3 → 2026-11-25 3（+0）
 
 
 ---

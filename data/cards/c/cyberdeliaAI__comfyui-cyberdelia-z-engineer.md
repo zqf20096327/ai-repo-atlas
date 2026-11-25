@@ -45,12 +45,12 @@ Cyberdelia AI Lab 开发的 ComfyUI 自定义节点包，通过 LM Studio、Olla
 ```mermaid
 xychart-beta
     title "cyberdeliaAI/comfyui-cyberdelia-z-engineer 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 15 --> 18
     line [17, 16, 16]
 ```
 
-2026-10-22 17 → 2026-11-24 16（-1）
+2026-10-23 17 → 2026-11-25 16（-1）
 
 
 ---

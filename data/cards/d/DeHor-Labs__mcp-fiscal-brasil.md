@@ -2,9 +2,9 @@
 
 ⭐ 437 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/DeHor-Labs/mcp-fiscal-brasil) · [官网](https://fiscal.dehor.dev) · 组织维护
 
-**面向巴西财税数据的 MCP 服务器：44 个工具免密查询**
+**把 AI 助手接入巴西财税数据查询的 MCP 服务器（44 个工具）**
 
-将 AI 助手、ERP、CRM 连接到巴西财税体系的 MCP 服务器：提供 CNPJ/CPF 查询、NF-e 解析与 XMLDSig 签名验证、DANFE PDF 生成、SPED/eSocial 离线分析、Simples Nacional 与 2026 税改（IBS/CBS）支持，共 44 个工具。默认无需注册与 API key，数据来自 BrasilAPI、ReceitaWS 等；SEFAZ 实时操作需本地 A1 证书（opt-in），另有 cpfcnpj.com.br 付费源可选。同时提供 CLI 与 REST API 接口。
+面向巴西财税场景的 MCP 服务器，通过自然语言查询 CNPJ、NF-e、NFS-e、SPED、eSocial、Simples Nacional 与 2026 税改（IBS/CBS）等内容。提供 44 个工具，含 6 个高层 agent 工具（供应商尽调评分、批量筛查、税制对比等）与离线解析/校验工具（XML 解析、XSD 校验、DANFE 生成、离线 NCM/CFOP/CNAE 表）。默认无需注册与 API key；部分 SEFAZ 工具需本地 A1 证书，cpfcnpj.com.br 为可选付费源。除 MCP 外还提供 CLI、REST API 与 Node.js 包装器。
 
 ## 筛选速览
 
@@ -13,47 +13,47 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 44 个工具：CNPJ/NF-e/SPED/eSocial/税改 2026 等财税垂直场景
-- 默认零注册零 API key，部分工具纯离线（NCM/CFOP/CNAE 内置表）
-- 6 个高层 agent 工具如供应商风险评分、税制比较、SPED 摘要
-- 除 MCP 服务器外提供 CLI（mcp-fiscal）与 REST API
+- 44 个财税工具，含供应商风险评分、批量 CNPJ 筛查等 6 个 agent 工具
+- 零注册零 API key：离线 XML 解析、密钥校验、DANFE PDF 生成与离线参考表
+- 支持 Claude Desktop 一键接入，另有 CLI、REST API 与 Node.js 包装器
+- SEFAZ mTLS 工具支持本地 A1 证书，证书与密码不出本地
 
 ## 适用场景
 
-- 让 Claude 等 AI 助手用自然语言查询企业财税信息
-- 对供应商做风险评分与合规尽调
-- 解析和验证 NF-e XML、生成 DANFE PDF
-- 分析 SPED/eSocial 文件并比较税制
+- 通过 AI 助手用自然语言查询 CNPJ、Simples Nacional 状态
+- 对 NF-e XML 做解析、校验签名并生成 DANFE
+- 对供应商做批量合规筛查与风险评分
+- 把 SPED 文件转成执行摘要与不一致清单
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+ · 领域:财税/企业服务/API集成
 
 ## 证据(README 行号)
 
-> L3:  O único servidor MCP com suporte nativo a NF-e, NFS-e, SPED, eSocial, Simples Nacional e Reforma Tributária 2026 (I
 > L64: `mcp-fiscal-brasil` conecta assistentes de IA, ERPs, CRMs e automações internas ao universo fiscal brasileiro: **CN
-> L66: Ele não tenta ser um catálogo genérico de dados públicos. A proposta é ser uma vertical de produto: transformar con
+> L113: **MCP Fiscal Brasil** resolve isso em uma linha: instale o servidor, conecte ao seu assistente de IA, e comece a f
+> L95: - **Múltiplas interfaces**: além do servidor MCP, agora CLI (`mcp-fiscal`), REST API (`mcp-fiscal-api`) com Web UI 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "DeHor-Labs/mcp-fiscal-brasil 星数(近 25 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 315 --> 447
-    line [326, 328, 331, 335, 336, 366, 385, 396, 401, 405, 406, 411, 335, 422, 423, 424, 428, 429, 430, 431, 433, 434, 435, 436, 436]
+    title "DeHor-Labs/mcp-fiscal-brasil 星数(近 24 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 318 --> 447
+    line [328, 331, 335, 336, 366, 385, 396, 401, 405, 406, 411, 335, 422, 423, 424, 428, 429, 430, 431, 433, 434, 435, 436, 437]
 ```
 
-2026-10-22 326 → 2026-11-24 436（+110）
+2026-10-23 328 → 2026-11-25 437（+109）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `4719b0554d90` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `04060744455a` · [字段定义](../../DATASET.md)*

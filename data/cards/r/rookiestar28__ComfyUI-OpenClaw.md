@@ -2,9 +2,9 @@
 
 ⭐ 559 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/rookiestar28/ComfyUI-OpenClaw) · 个人维护 · 中文 README
 
-**ComfyUI 的安全优先编排层：加固自动化 API 与远程管理控制台**
+**ComfyUI 的安全优先编排层：自动化 API 与多平台机器人接入**
 
-以 ComfyUI 自定义节点包为主要交付物的编排层：提供 LLM 辅助节点（planner/refiner/vision/批处理变体）、内置扩展面板、独立远程管理控制台（/openclaw/admin）、带 webhook/触发器/定时/审批/预设的 HTTP API，并支持 Discord、Telegram、WhatsApp、LINE、微信、KakaoTalk、Slack、飞书/Lark 共 8 个消息平台接入。采用控制面分离与 fail-closed 安全默认，含 SSRF 校验、多租户隔离与 CI 对抗性验证门。通过 ComfyUI-Manager 或 git clone 安装，Python 3.13 为已验证基线。
+作为 ComfyUI 自定义节点包与内嵌运维平台，提供 LLM 辅助节点（planner/refiner/vision/batch）、管理面板、远程管理控制台、webhook/定时/审批等自动化 HTTP API，并接入 Discord、Telegram、WhatsApp、LINE、微信、KakaoTalk、Slack、飞书/Lark 八个消息平台。安全设计为核心卖点：fail-closed 部署、信任边界划分、密钥服务端存储、SSRF 校验、多租户隔离等。通过 ComfyUI-Manager 或 git clone 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- LLM 辅助节点（planner/refiner/vision/batch 变体）
-- 支持 8 个消息平台的 connector（Discord/Telegram/WhatsApp/LINE/微信/KakaoTalk/Slack/飞书）
-- 安全默认的 HTTP 自动化 API：webhook、触发器、定时、审批、预设
-- 控制面分离架构与独立远程管理控制台（/openclaw/admin）
+- 8 个消息平台连接器（Discord/Telegram/WhatsApp/LINE/微信/KakaoTalk/Slack/飞书）
+- LLM 辅助节点与自动化 API（webhook、触发器、定时任务、审批、预设）
+- fail-closed 安全模型：信任边界、密钥服务端加密存储、SSRF 校验、多租户隔离
+- 内置运维 UI 与独立远程管理控制台（/openclaw/admin）
 
 ## 适用场景
 
-- 把 ComfyUI 变成可靠的自动化目标并设定管理边界
-- 通过手机或远程浏览器操作 ComfyUI 运行与审批
-- 从聊天平台触发并接收生成任务结果
+- 把 ComfyUI 图像生成流程接入群机器人并支持定时投递结果
+- 需要审批门控与 Webhook 触发的生产级 AIGC 自动化部署
+- 通过浏览器在移动端远程管理 ComfyUI 运行任务
 
 ## 场景标签
 
@@ -45,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "rookiestar28/ComfyUI-OpenClaw 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-25"]
     y-axis "stars" 557 --> 561
-    line [559, 558, 559, 558, 559, 560, 560]
+    line [559, 558, 559, 558, 559, 560, 559]
 ```
 
-2026-10-22 559 → 2026-11-24 560（+1）
+2026-10-23 559 → 2026-11-25 559（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e4d86eab1253` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `7d9a9f129fd7` · [字段定义](../../DATASET.md)*

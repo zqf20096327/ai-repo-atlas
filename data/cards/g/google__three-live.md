@@ -2,9 +2,9 @@
 
 ⭐ 495 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/google/three-live) · [官网](https://google.github.io/three-live/) · 组织维护
 
-**把 Three.js 代码 JIT 编译为原生 3D/XR 渲染的开发工具**
+**面向 AI 开发者的 Three.js 原生跨平台 3D 编译渲染运行时**
 
-设备端 JIT 编译器与运行时：在沙箱化 Rust VM 中编译标准 Three.js 代码，渲染为 Android 的 Google Filament / Jetpack XR SceneCore、iOS/visionOS 的 Apple RealityKit（可导出 .usdz/.glb）、WebGL2/WebXR，以及 CLI 的无头 PNG 渲染。面向写 Three.js 的开发者和 AI 编码代理：提供 MCP 服务器、图像生成场景、语音改场景、AI 纹理生成与本地参照解析。通过 JitPack/SwiftPM/Cargo/npm 分发，官方声明非 Google 正式支持产品。
+Three-Live 提供设备端 JIT 编译器与运行时，将 Three.js 代码编译为 Android（Google Filament 与 Jetpack XR SceneCore）、iOS/visionOS（Apple RealityKit）与 WebGL2/WebXR 的原生渲染。核心机制包括沙箱化 Rust VM 编译、无 GPU 的 headless 4 图校验渲染、MCP stdio server 供 AI agent 调用验证/转换/仿真，以及图片生成 Three.js 场景的闭环校验与自动修复。通过 LLM 编辑场景时先在沙箱编译并一次自动修复后才热替换。安装途径覆盖 JitPack/SwiftPM/Cargo/npm。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 沙箱 Rust VM 设备端编译标准 Three.js（THREE.Mesh/CSG/KHR_interactivity）
-- 一套代码渲染到 Filament/RealityKit/WebGL2/WebXR 四类目标
-- three-live-cli 提供 MCP 服务器（渲染/转换/图像生成场景/agent gym 等工具）
-- 任意 Chat Completions 兼容后端均可驱动场景编辑（Ollama/vLLM/OpenRouter 等）
+- Three.js 代码经沙箱 Rust VM 设备端编译，原生渲染于 Filament/RealityKit/WebXR
+- MCP server 提供 validate/render/convert/from_image/gym 等 10 个工具供 agent 调用
+- 支持从照片/草图/图纸生成场景，含 IoU 对比、质量门与一次自动修复
+- 语音选物与本地引用解析（颜色/方位/序数/数量）在设备端完成，无模型调用
 
 ## 适用场景
 
-- 把 AI 生成的 Three.js 场景部署为移动端原生 XR 应用
-- AI 编码代理通过 MCP 无头渲染并验证 3D 场景
-- 网页中用语音或对话实时修改 Three.js 场景
-- 从照片/草图/蓝图生成程序化 3D 场景
+- AI coding agent 生成并校验 Three.js 3D 场景后导出 glb/usdz
+- 在 Android/iOS/visionOS 上原生渲染统一的 Three.js 场景
+- 用户通过语音或对话修改 3D 场景中的物体
+- 从参考图或 RoomPlan 扫描构建带真实尺度的 AR 场景
 
 ## 场景标签
 
- · 领域:图形/空间计算基础设施
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L5: **AI-First Native 3D, CAD & Spatial Computing:** On-device JIT compiler turning live, AI-generated **Three.js** into
-> L23: LLMs and developers excel at writing concise **Three.js** code—not hundreds of
-> L26: `KHR_interactivity`) on-device in a sandboxed Rust VM and renders natively in
+> L63: `three-live-cli mcp` as a zero-dependency **Model Context Protocol (MCP)** stdio
+> L100: Add `three-live-ai.min.js` (`< 35 KB gz`; built into the full bundles) to let
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "google/three-live 星数(近 14 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 187 --> 504
-    line [213, 322, 338, 374, 390, 403, 422, 432, 446, 462, 466, 475, 478, 478]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 185 --> 523
+    line [213, 322, 338, 374, 390, 403, 422, 432, 446, 462, 466, 475, 478, 495]
 ```
 
-2026-11-08 213 → 2026-11-24 478（+265）
+2026-11-08 213 → 2026-11-25 495（+282）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `860189a24c61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5c3e3ff42570` · [字段定义](../../DATASET.md)*

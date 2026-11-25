@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "YuhuaBillChen/justfit-llm 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 11 --> 15
+    line [12, 14]
 ```
 
-2026-11-23 12 → 2026-11-24 12（+0）
+2026-11-23 12 → 2026-11-25 14（+2）
 
 
 ---

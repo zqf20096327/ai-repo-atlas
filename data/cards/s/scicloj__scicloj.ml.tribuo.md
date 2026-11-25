@@ -44,12 +44,12 @@ Clojure 库，将 Java 机器学习库 Tribuo 接入 scicloj.ml / metamorph 框�
 ```mermaid
 xychart-beta
     title "scicloj/scicloj.ml.tribuo 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-22 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

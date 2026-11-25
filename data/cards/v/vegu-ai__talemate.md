@@ -1,10 +1,10 @@
 # vegu-ai/talemate
 
-⭐ 440 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/vegu-ai/talemate) · 组织维护
+⭐ 440 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/vegu-ai/talemate) · 个人维护
 
-**AI 角色扮演应用：叙事、世界状态追踪的多 agent 互动小说**
+**面向玩家的 AI 角色扮演应用，跟踪世界与游戏状态**
 
-面向终端用户的 AI 角色扮演应用：由多个 agent 分别负责对话、叙事、总结、导演、编辑、世界状态管理、角色/场景创建、语音合成与图像生成，支持为每个 agent 单独选择 API。具备长期记忆、时间流逝追踪、叙事世界状态管理以保持角色与世界设定一致，另含 NPC 管理工具、节点编辑器与 Jinja2 提示词模板。接入 OpenAI、Anthropic、mistral.ai、Cohere、Groq、Gemini、OpenRouter 等云 API，及 KoboldCpp、text-generation-webui、LMStudio、Ollama 等自托管后端。
+Talemate 是一个 AI 角色扮演客户端，以叙述、一致的世界与游戏状态跟踪为重点。核心机制包括：为对话、叙述、总结、场景指导、世界状态跟踪等分配独立 agent，每个 agent 可配置不同客户端与模型；维护长期记忆、分层历史摘要与时间流逝跟踪；角色仅知晓其经历过的内容，并提供 Learn/Never Learn 规则。还提供图像生成、带多后端的语音合成、Jinja2 提示词模板覆盖、节点编辑器与场景版本回溯。安装说明在文档站点提供，README 未含具体命令。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@
 
 ## 能力要点
 
-- 多 agent 分工：对话/叙事/总结/导演/编辑/世界状态/角色创建/TTS/图像生成
-- 长期记忆、时间流逝与叙事世界状态管理
-- 每个 agent 可单独选择 API 提供方
-- 节点编辑器构建复杂场景与可复用模块
+- 多 agent 架构：对话、叙述、世界状态跟踪等各有独立模型配置
+- 长期记忆与分层历史摘要，角色仅知其经历片段
+- 图像生成、语音合成与节点编辑器等内置功能
+- 支持多种云端与自托管模型 API 及 OpenAI 兼容接口
 
 ## 适用场景
 
-- 与 AI 进行长篇角色扮演互动并保持世界设定一致
-- 创建和管理 NPC、角色与剧情场景
-- 使用本地部署的模型后端进行角色扮演
+- 与 AI 进行长篇角色扮演并保持世界观一致
+- 跟踪角色与世界的状态变量以维持剧情连贯
+- 为角色生成肖像和场景插图、配置角色语音
 
 ## 场景标签
 
-`多智能体` `图像生成` `语音合成` `聊天机器人` · 领域:Agent 开发
+`图像生成` `语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L3: Roleplay with AI with a focus on strong narration and consistent world and game state tracking.
-> L11: - Multiple agents for dialogue, narration, summarization, direction, editing, world state management, character/sce
+> L3: Roleplay with AI, with a focus on narration and consistent world and game state tracking.
+> L11: - Agents for dialogue, narration, summarization, scene direction, editing, world state tracking, character and scen
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "vegu-ai/talemate 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 422 --> 441
-    line [423, 426, 427, 428, 429, 430, 431, 427, 433, 435, 436, 438, 439, 440, 440]
+    title "vegu-ai/talemate 星数(近 14 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 425 --> 441
+    line [426, 427, 428, 429, 430, 431, 427, 433, 435, 436, 438, 439, 440, 440]
 ```
 
-2026-10-22 423 → 2026-11-24 440（+17）
+2026-10-23 426 → 2026-11-25 440（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ce6dd3c5b7df` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e97adf200130` · [字段定义](../../DATASET.md)*

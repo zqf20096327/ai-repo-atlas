@@ -44,13 +44,13 @@ QONNX 定义 IntQuant、FloatQuant、BipolarQuant、Trunc 等自定义算子，�
 
 ```mermaid
 xychart-beta
-    title "fastmachinelearning/qonnx 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-11", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 193 --> 198
-    line [194, 195, 196, 197, 197]
+    title "fastmachinelearning/qonnx 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-11", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 194 --> 198
+    line [195, 196, 197, 197]
 ```
 
-2026-10-22 194 → 2026-11-24 197（+3）
+2026-10-23 195 → 2026-11-25 197（+2）
 
 
 ---

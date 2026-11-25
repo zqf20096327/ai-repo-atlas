@@ -43,12 +43,12 @@ Oleksii Trekhleb 的个人网站 trekhleb.dev 的源码，基于 Gatsby 构建�
 ```mermaid
 xychart-beta
     title "trekhleb/trekhleb.github.io 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 240 --> 242
     line [241, 241]
 ```
 
-2026-10-22 241 → 2026-11-24 241（+0）
+2026-10-23 241 → 2026-11-25 241（+0）
 
 
 ---

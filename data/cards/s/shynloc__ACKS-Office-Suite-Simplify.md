@@ -45,12 +45,12 @@ ACKS Studio 出品的 Python 库（安装名 acks-office），按主题生成 Wo
 ```mermaid
 xychart-beta
     title "shynloc/ACKS-Office-Suite-Simplify 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-22 11 → 2026-11-24 12（+1）
+2026-10-23 11 → 2026-11-25 12（+1）
 
 
 ---

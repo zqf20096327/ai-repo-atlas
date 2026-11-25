@@ -2,9 +2,9 @@
 
 ⭐ 1,059 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/agents-flex/agents-flex) · [官网](https://agentsflex.com) · 组织维护 · 中文 README
 
-**面向 Java 开发者的轻量级 AI Agent 开发框架**
+**Java 生态轻量级 AI 应用与 Agent 开发框架**
 
-Java 生态的 AI 应用开发框架，将 LLM 调用、Tool Calling、RAG、Embedding、向量存储、MCP、Skills、Text2SQL、Sub-agent、Web 搜索、LLM Wiki 等能力组织为可按需组合的 Maven 模块，核心模块兼容 Java 8+，可运行于纯 Java 或 Spring Boot。提供统一模型抽象（ChatModel/EmbeddingModel 等）、同步与流式一致 API、持久化 Agent 运行时（快照恢复、审批）、模型路由/重试/熔断与 OpenTelemetry 观测。支持 OpenAI 兼容 API、Qwen、Ollama、DeepSeek 等多种模型接入，版本 2.3.0，通过 Maven 依赖安装。
+面向 Java 开发者的 LLM 应用开发框架，将 Chat/Embedding/Image/Audio/OCR 模型调用、Tool Calling、RAG、向量库、MCP、Skills、Text2SQL、LLM Wiki、Sub-agent 等能力拆分为 30 余个 Maven 模块，可按需组合；核心兼容 Java 8+，提供 Spring Boot starter 自动配置，并内置模型路由、重试、负载均衡、熔断与 OpenTelemetry 可观测性等面向生产环境的机制。适用于构建智能客服、企业知识库、自然语言数据分析与需要同时接入多家模型服务的 Java 服务。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@ Java 生态的 AI 应用开发框架，将 LLM 调用、Tool Calling、RAG、Emb
 
 ## 能力要点
 
-- 统一模型抽象（ChatModel/EmbeddingModel/ImageModel/RerankModel）与一致的同步/流式 API
-- 持久化 Agent 运行时：快照恢复、工具审批、事件流
-- 完整 RAG 构件：文档解析、切分、Embedding、10 种向量存储、Rerank
-- MCP 客户端（stdio/http-sse/http-stream）将外部 MCP 工具转为 Tool 实例
+- Java 8+ 原生兼容，30+ Maven 模块按需组合，提供 Spring Boot starter
+- 统一 ChatModel/EmbeddingModel/ImageModel/RerankModel 抽象，同步与流式一致 API
+- 持久化 Agent 运行时：快照恢复、工具审批、中间件与事件流
+- 完整 RAG 构件：解析、切分、Embedding、9+ 种向量库与 Rerank
 
 ## 适用场景
 
-- 在 Java/Spring Boot 服务中构建智能客服或企业知识库
-- 用自然语言做数据分析（Text2SQL，含只读检查）
-- 编排带工具调用、审批与子代理的 Agent 工作流
-- 同一服务接入多家模型供应商并做路由与熔断
+- 在 Java/Spring Boot 服务中接入多家模型提供商
+- 搭建企业知识库与 RAG 问答系统
+- 构建带工具调用与审批的 Agent 工作流
+- 自然语言转 SQL 的数据分析场景
 
 ## 场景标签
 
-`RAG` `Agent 框架` · 领域:Agent 开发
+`RAG` `数据分析` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: Agents-Flex is a lightweight AI application development framework for the Java ecosystem. It organizes LLM calls, To
-> L9: It is suitable for building intelligent customer service, enterprise knowledge bases, natural-language data analysis
+> L17: - **Durable Agent runtime**: Provides snapshot recovery, tool approval, version-safe persistence, middleware, and e
+> L32: |`agents-flex-chat`|Chat model integrations: OpenAI-compatible APIs, Qwen, Ollama, DeepSeek, LiteLLM, llmman|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "agents-flex/agents-flex 星数(近 18 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 1033 --> 1059
-    line [1035, 1036, 1037, 1039, 1041, 1042, 1043, 1044, 1046, 1037, 1053, 1054, 1055, 1056, 1057, 1056, 1057, 1057]
+    title "agents-flex/agents-flex 星数(近 17 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 1034 --> 1061
+    line [1036, 1037, 1039, 1041, 1042, 1043, 1044, 1046, 1037, 1053, 1054, 1055, 1056, 1057, 1056, 1057, 1059]
 ```
 
-2026-10-22 1,035 → 2026-11-24 1,057（+22）
+2026-10-23 1,036 → 2026-11-25 1,059（+23）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `55035908f948` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `88a5d10b524c` · [字段定义](../../DATASET.md)*

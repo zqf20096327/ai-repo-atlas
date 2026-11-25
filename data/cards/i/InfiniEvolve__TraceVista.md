@@ -46,12 +46,12 @@ TraceVista 将 agent 会话日志（如 Claude Code、Codex、Pi 的 session log
 ```mermaid
 xychart-beta
     title "InfiniEvolve/TraceVista 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 95 --> 97
-    line [96, 96]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 95 --> 101
+    line [96, 100]
 ```
 
-2026-11-23 96 → 2026-11-24 96（+0）
+2026-11-23 96 → 2026-11-25 100（+4）
 
 
 ---

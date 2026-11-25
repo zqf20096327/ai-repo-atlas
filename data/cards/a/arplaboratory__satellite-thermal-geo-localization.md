@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arplaboratory/satellite-thermal-geo-localization 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-16", "2026-11-24"]
+    title "arplaboratory/satellite-thermal-geo-localization 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-16", "2026-11-25"]
     y-axis "stars" 102 --> 105
-    line [103, 104, 103, 104, 104]
+    line [104, 103, 104, 104]
 ```
 
-2026-10-22 103 → 2026-11-24 104（+1）
+2026-10-23 104 → 2026-11-25 104（+0）
 
 
 ---

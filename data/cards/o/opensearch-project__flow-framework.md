@@ -45,12 +45,12 @@ OpenSearch Flow Framework 是一个 OpenSearch 插件，面向在 OpenSearch 上
 ```mermaid
 xychart-beta
     title "opensearch-project/flow-framework 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
     y-axis "stars" 61 --> 64
     line [62, 63, 63]
 ```
 
-2026-10-22 62 → 2026-11-24 63（+1）
+2026-10-23 62 → 2026-11-25 63（+1）
 
 
 ---

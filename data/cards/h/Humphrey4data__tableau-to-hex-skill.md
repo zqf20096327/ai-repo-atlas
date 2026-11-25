@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Humphrey4data/tableau-to-hex-skill 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-22 91 → 2026-11-24 91（+0）
+2026-10-23 91 → 2026-11-25 91（+0）
 
 
 ---

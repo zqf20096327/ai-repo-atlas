@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "valenovo/ai-agent-skills 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 63 --> 66
-    line [65, 64, 64]
+    title "valenovo/ai-agent-skills 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 63 --> 65
+    line [64, 64]
 ```
 
-2026-10-22 65 → 2026-11-24 64（-1）
+2026-10-23 64 → 2026-11-25 64（+0）
 
 
 ---

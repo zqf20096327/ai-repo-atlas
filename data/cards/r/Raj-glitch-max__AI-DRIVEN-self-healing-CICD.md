@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Raj-glitch-max/AI-DRIVEN-self-healing-CICD 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-21 39 → 2026-11-24 39（+0）
+2026-10-23 39 → 2026-11-25 39（+0）
 
 
 ---

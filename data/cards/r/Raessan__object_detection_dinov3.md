@@ -45,12 +45,12 @@ Meta DINOv3 骨干之上的轻量目标检测头实现：LightFPN 三级特征�
 ```mermaid
 xychart-beta
     title "Raessan/object_detection_dinov3 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-22 17 → 2026-11-24 17（+0）
+2026-10-23 17 → 2026-11-25 17（+0）
 
 
 ---

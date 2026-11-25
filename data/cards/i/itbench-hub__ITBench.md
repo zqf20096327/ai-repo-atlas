@@ -2,9 +2,9 @@
 
 ⭐ 524 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/itbench-hub/ITBench) · 组织维护
 
-**评测 AI agent 在 IT 自动化任务表现的基准框架**
+**给研究者和开发者在真实 IT 任务上评测 AI agent 的基准框架**
 
-IBM Research 维护的开源基准框架，评测 AI agent 在 SRE（可靠性）、CISO（合规与安全）、FinOps（成本优化）三类 IT 自动化任务上的表现。基于 Kubernetes 部署场景环境，提供一键部署工具、6 个 SRE 场景与 21 种机制、4 类 CISO 场景、1 个 FinOps 场景，以及两个基于 CrewAI 构建的开源基线 agent（支持 watsonx/Azure/vLLM 配置），并托管 leaderboard 供提交评估。ICML 2025 论文已发表。
+IBM Research 开源的 IT 自动化基准框架，覆盖 SRE（可用性）、CISO（合规与安全）、FinOps（成本效率）三类任务。通过基于 Kubernetes 的场景环境复现真实 IT 事件（6 个 SRE 场景/21 种机制、4 类 CISO 场景、1 个 FinOps 场景），提供 mise 与 ITBench CLI 的一键部署工具、两个基于 CrewAI 的基线 agent（SRE/CISO），以及托管式 leaderboard 用于提交 agent 输出并评估。研究者可在自托管环境运行，也可申请托管场景环境。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ IBM Research 维护的开源基准框架，评测 AI agent 在 SRE（可靠性�
 
 ## 能力要点
 
-- 覆盖 SRE/CISO/FinOps 三类 IT 自动化任务的场景库
-- Kubernetes 场景环境与一键部署工具
-- 两个基于 CrewAI 的开源基线 agent（SRE 与 CISO）
-- 托管 leaderboard 用于 agent 评估与对比
+- 覆盖 SRE/CISO/FinOps 三类 IT 自动化任务的场景集（含 21 种故障机制）
+- Kubernetes 环境中一键部署场景的 ITBench CLI 工具链
+- 基于 CrewAI 的两个开源基线 agent，支持 watsonx/Azure/vLLM 可配置 LLM
+- 托管 leaderboard 跟踪 agent 性能对比
 
 ## 适用场景
 
-- 在真实 Kubernetes 故障场景中评测我的 agent
-- 研究 IT 自动化 agent 的失败模式与能力边界
-- 在 leaderboard 上提交 agent 输出与其他方案对比
+- 在复现的 Kubernetes 故障场景中评测我的 SRE agent
+- 将 agent 输出提交到 ITBench leaderboard 参与排名
+- 在合规与安全任务上测试企业自动化 agent
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `网络安全` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L22: ITBench measures the performance of AI agents across a wide variety of **complex and real-world inspired IT automat
-> L41: ITBench enables researchers and developers to replicate real-world incidents in Kubernetes environments and develop
+> L44: 1. **Push-button deployment tooling** for environment setup using mise and the ITBench CLI *(open-source)*
 > L58: The ITBench Leaderboard tracks agent performance across SRE, FinOps, and CISO scenarios. We provide fully managed s
 
 ## 星数曲线
@@ -46,13 +46,13 @@ IBM Research 维护的开源基准框架，评测 AI agent 在 SRE（可靠性�
 ```mermaid
 xychart-beta
     title "itbench-hub/ITBench 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-23", "2026-11-25"]
     y-axis "stars" 512 --> 525
     line [513, 514, 515, 514, 519, 520, 521, 522, 524, 524]
 ```
 
-2026-10-22 513 → 2026-11-24 524（+11）
+2026-10-23 513 → 2026-11-25 524（+11）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5b5b74524f1f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5378635a3f06` · [字段定义](../../DATASET.md)*

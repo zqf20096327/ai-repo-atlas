@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "z-liu-xiugou/research-workbench-assistant 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 185 --> 206
-    line [205, 186, 186]
+    title "z-liu-xiugou/research-workbench-assistant 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 185 --> 187
+    line [186, 186]
 ```
 
-2026-10-22 205 → 2026-11-24 186（-19）
+2026-10-23 186 → 2026-11-25 186（+0）
 
 
 ---

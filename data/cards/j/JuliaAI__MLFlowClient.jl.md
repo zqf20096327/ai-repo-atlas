@@ -45,12 +45,12 @@ MLflow REST API 的 Julia 客户端库，面向使用 Julia 做机器学习的�
 ```mermaid
 xychart-beta
     title "JuliaAI/MLFlowClient.jl 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 58 --> 60
     line [59, 59]
 ```
 
-2026-10-22 59 → 2026-11-24 59（+0）
+2026-10-23 59 → 2026-11-25 59（+0）
 
 
 ---

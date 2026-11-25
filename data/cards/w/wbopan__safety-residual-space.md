@@ -46,12 +46,12 @@ ICML 2025 论文 The Hidden Dimensions of LLM Alignment 的源码、数据集与
 ```mermaid
 xychart-beta
     title "wbopan/safety-residual-space 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-21 23 → 2026-11-24 23（+0）
+2026-10-23 23 → 2026-11-25 23（+0）
 
 
 ---

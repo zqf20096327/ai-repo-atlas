@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "siddharthsky/AI-Video-Summarizer 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 97 --> 100
-    line [98, 99, 99]
+    title "siddharthsky/AI-Video-Summarizer 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 98 --> 100
+    line [99, 99]
 ```
 
-2026-10-21 98 → 2026-11-24 99（+1）
+2026-10-23 99 → 2026-11-25 99（+0）
 
 
 ---

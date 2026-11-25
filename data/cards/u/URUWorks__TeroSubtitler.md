@@ -2,9 +2,9 @@
 
 ⭐ 472 · Pascal · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/URUWorks/TeroSubtitler) · [官网](https://uruworks.net) · 组织维护
 
-**跨平台开源字幕编辑软件，含自动转录与翻译**
+**跨平台免费字幕编辑软件：编辑、翻译、转写与配音**
 
-面向字幕制作与校对用户的开源跨平台字幕编辑器（MPL 2.0），支持 SMPTE 与 Media 两种时码模式、多种字幕格式、波形时间线、音频视频预览、Blu-ray SUP 导入导出、翻译记忆与质量校验等。集成了 mpv 播放引擎、FFmpeg、yt-dlp、whisper.cpp/Faster-Whisper（自动转录）、Google Translate（自动翻译）、ElevenLabs TTS（视频配音）与 Tesseract OCR。源码通过 Lazarus IDE 编译，依赖多个内部与外部 Lazarus 包。项目前身是 URUWorks 的 Subtitle Workshop，原仓库已由 Tero Subtitler 取代。
+URUWorks 维护的开源字幕编辑软件，覆盖 Windows/macOS/Linux，支持 45+ 字幕格式（SubRip、WebVTT、ASS、EBU STL、Netflix TTML、DCinema 等）。核心功能包括 SMPTE/Media 双模式编辑、翻译记忆与术语库、时间线波形显示与镜头切换检测、自动/手动转写、自动翻译、文本转语音与视频配音、批量转换、Blu-ray SUP 导入导出。播放依赖 mpv 引擎，音视频处理依赖 FFmpeg。需通过 Lazarus IDE 从源码编译。前身项目 Subtitle Workshop 已停止维护并由其接替。
 
 ## 筛选速览
 
@@ -20,40 +20,39 @@
 
 ## 能力要点
 
-- SMPTE/Media 双模式的全功能字幕编辑与多级撤销、自动备份
-- whisper.cpp/Faster-Whisper 驱动的音频自动转录为字幕
-- 自动翻译（Google Translate）与视频配音（ElevenLabs TTS）
-- Blu-ray SUP 导入导出、波形时间线、拼写检查与行业校验配置
+- 支持 45+ 字幕格式读写与批量转换
+- 内置 whisper.cpp/Faster-Whisper 音频转写为字幕
+- 时间线波形显示与内置镜头切换检测（帧级精确切割）
+- 翻译记忆、术语库与自动翻译工作流
 
 ## 适用场景
 
-- 制作与校对各类格式的字幕文件
-- 把音频/视频自动转录生成字幕再人工修正
-- 将字幕翻译到其他语言并利用翻译记忆保持一致
-- 导入 Blu-ray SUP 图形字幕进行编辑或转换
+- 为影视内容制作和校验符合行业规范的字幕
+- 将音视频自动转写为字幕再人工精修
+- 字幕的多语言翻译与视频配音
 
 ## 场景标签
 
-`语音识别` `语音合成` `OCR` · 领域:内容生成
+`语音识别` `语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L20: - Source and Transcription modes
-> L24: - Tools for manipulation (frame/video rate conversion), formatting (fonts and alignment), quality control (spell ch
-> L44: ### whisper.cpp / Faster-Whisper
+> L12: Tero Subtitler is an open source, cross-platform, and free subtitle editing software for Windows, macOS and Linux.
+> L54: ### whisper.cpp / Faster-Whisper
+> L27: - Source, Translator and Transcription modes
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "URUWorks/TeroSubtitler 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
     y-axis "stars" 469 --> 473
     line [472, 471, 470, 472, 470, 471, 472, 471, 472, 472]
 ```
 
-2026-10-22 472 → 2026-11-24 472（+0）
+2026-10-23 472 → 2026-11-25 472（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0abf98f18cc3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `915fc2e44d34` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ryannli/immersive-reading 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    title "ryannli/immersive-reading 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 47 --> 50
+    line [48, 49, 49]
 ```
 
-2026-10-22 47 → 2026-11-24 49（+2）
+2026-10-23 48 → 2026-11-25 49（+1）
 
 
 ---

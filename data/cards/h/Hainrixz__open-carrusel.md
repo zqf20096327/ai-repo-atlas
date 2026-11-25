@@ -2,9 +2,9 @@
 
 ⭐ 532 · TypeScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/open-carrusel) · 个人维护
 
-**通过与 Claude 对话生成 Instagram 轮播图并导出 PNG 的本地应用**
+**与 Claude 对话生成 Instagram 轮播图并导出 PNG 的本地 Web 应用**
 
-基于 Next.js 16/React 19 的本地优先 Web 应用，面向 Instagram 内容创作者：在浏览器编辑器中与 Claude 对话生成 HTML/CSS 幻灯片，经 Puppeteer 无头 Chromium 按三种 Instagram 精确像素尺寸截图并打包导出 PNG。AI 部分由 Claude CLI 子进程驱动（复用用户 Claude Code 认证，消息经 SSE 流回浏览器），无 Claude Code 时编辑器与导出仍可静态使用。数据存本地 JSON 文件，支持品牌配置、模板、参考图与逐页版本历史。可通过 Claude Code /start 一条命令启动，或 npm run setup 手动运行。
+基于 Next.js 的本地单用户 Web 应用：通过聊天让 Claude CLI 子进程生成 HTML/CSS 幻灯片，经 Puppeteer 截图导出为三种 Instagram 尺寸的 PNG 并打包下载。编辑器提供聊天面板、实时预览、拖拽排序、品牌配置、模板与参考图功能，数据以 JSON 文件存于本地目录。无 AI 聊天时（未装 Claude Code）编辑器与静态幻灯片导出仍可用；导出依赖 Chromium 依赖库。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 对话生成 HTML/CSS 幻灯片，Puppeteer 按 1:1/4:5/9:16 精确像素导出 PNG
-- AI 部分为 Claude CLI 子进程，复用用户已有 Claude Code 认证，SSE 流式返回
-- 本地优先：数据存本地 JSON，无云、无账户、无数据库
-- 品牌配置/模板/参考图注入 Claude 系统提示，逐页撤销与拖拽排序
+- 对话生成幻灯片：Claude CLI 子进程写 HTML/CSS，SSE 流式返回
+- 三种 Instagram 尺寸（1:1/4:5/9:16）Puppeteer 截图导出并打包
+- 品牌配置（颜色/字体/logo/风格关键词）注入系统提示
+- 本地 JSON 文件存储，无云端、无账号、无数据库
 
 ## 适用场景
 
-- 不想用 Canva/Figma 手工排版，直接对话生成 Instagram 轮播图
-- 按品牌色与字体批量产出多页内容并一键导出标准尺寸图
-- 本地保存所有轮播、模板与上传素材，不依赖云端服务
+- 为 Instagram 快速生成整组轮播图幻灯片
+- 按品牌配色与字体保持社媒视觉一致
+- 离线本地管理轮播项目与导出文件
 
 ## 场景标签
 
-`图像生成` · 领域:内容生成
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L27: **Open Carrusel takes a different bet.** You chat with Claude — the same model many designers already trust — and i
 > L92: The in-app agent is the **Claude CLI** spawned as a subprocess from `/api/chat` with `--allowedTools Bash WebFetch`
+> L150: - **Local-first, single-user.** The whole app is a localhost web app talking to local files. No cloud, no auth, no
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Hainrixz/open-carrusel 星数(近 18 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 487 --> 532
-    line [490, 492, 494, 496, 498, 501, 504, 492, 513, 516, 519, 522, 524, 526, 527, 528, 529, 529]
+    title "Hainrixz/open-carrusel 星数(近 17 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 488 --> 536
+    line [492, 494, 496, 498, 501, 504, 492, 513, 516, 519, 522, 524, 526, 527, 528, 529, 532]
 ```
 
-2026-10-22 490 → 2026-11-24 529（+39）
+2026-10-23 492 → 2026-11-25 532（+40）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8079e6c20bb7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8ba7ddb60fa7` · [字段定义](../../DATASET.md)*

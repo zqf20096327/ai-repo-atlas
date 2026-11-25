@@ -45,12 +45,12 @@ ATM（Agent Task Markdown）定义一种 Markdown 运行手册格式与配套 Go
 ```mermaid
 xychart-beta
     title "chinaykc/atm 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-22 12 → 2026-11-24 12（+0）
+2026-10-23 12 → 2026-11-25 12（+0）
 
 
 ---

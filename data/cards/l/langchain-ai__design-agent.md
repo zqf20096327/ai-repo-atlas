@@ -1,10 +1,10 @@
 # langchain-ai/design-agent
 
-⭐ 704 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/design-agent) · 组织维护
+⭐ 704 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/langchain-ai/design-agent) · 组织维护 · 中文 README
 
-**团队可部署的品牌设计 agent：对话产出图像/幻灯片/视频**
+**面向团队的品牌设计 agent：对话中产出成品设计文件**
 
-LangChain 开源的 Content Studio 设计 agent，基于 Deep Agents 构建，通过 Slack 对话接收需求并返回符合品牌的成品文件（图片、幻灯片、图表、动画视频）。机制上：每个线程一个 LangSmith Linux 沙箱（含 Chrome、FFmpeg、HyperFrames、D2），35 个技能按需加载路由工作流，品牌以 token 形式作为代码约束渲染，每次渲染做代码化检查，支持异步子代理与团队/个人双层记忆。部署需 LangSmith 账户（Managed Deep Agents 公测）与模型密钥；本地 demo 需 Docker。
+LangChain 开源的 Content Studio 设计 agent，基于 Deep Agents 构建，通过 Slack 线程接收简报与附件，产出符合品牌规范的图片、幻灯片、图表、图示与动态影像。每个线程获得独立 LangSmith Linux 沙箱（含 Chrome、FFmpeg、HyperFrames、D2），产出物均为代码（幻灯片为 HTML、影片为动画时间线）；35 个技能按需路由加载，品牌包与设计 wiki 提供规范，渲染后自查颜色/字体/对比度，支持团队与个人双层记忆及任务后学习笔记。部署依赖 LangSmith 账户（Managed Deep Agents 公测）与模型密钥。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@ LangChain 开源的 Content Studio 设计 agent，基于 Deep Agents 构建，�
 
 ## 能力要点
 
-- 35 个技能按需加载，router skill 选择工作流
-- 品牌以代码化 token 约束，渲染时自动检查颜色/字体/对比度
-- 异步子代理并行分工，团队与个人双层记忆
-- 本地 demo 以 scripted model 运行，无需 API key
+- Slack 线程内交付成品：改尺寸广告、发布会影片、图表、字幕等
+- 每线程独立沙箱，产出物为代码，修改即编辑重渲染
+- 35 个技能按需加载，品牌包约束布局与视觉 token
+- 渲染后机器可查项代码校验，并支持异步子代理分工
 
 ## 适用场景
 
-- 在 Slack 里让 agent 生成各平台尺寸的品牌宣传图
-- 从 CSV 生成周报图表与演示文稿
-- 让 agent 制作带配音配乐的产品发布短片
-- 为网络研讨会片段生成字幕
+- 在 Slack 中像找设计师一样要一张多平台尺寸的发布卡片
+- 从 CSV 生成团队周报图表
+- 制作带音乐与音效的产品宣传影片
+- 为网络研讨会视频生成字幕
 
 ## 场景标签
 
-`图像生成` `视频生成` `AI 助手` `数据分析` · 领域:效率与自动化
+`图像生成` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L17: **Content Studio is the design agent LangChain runs, now open source.** Add your brand and deploy it
 > L35: Content Studio is a Deep Agents agent deployed on
-> L39: delivers.
+> L19: get finished, on-brand files back, from a resized ad to a launch film.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "langchain-ai/design-agent 星数(近 23 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 0 --> 736
-    line [3, 6, 42, 266, 459, 508, 528, 542, 597, 606, 610, 611, 615, 616, 619, 628, 631, 633, 640, 661, 665, 670, 670]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 0 --> 774
+    line [3, 6, 42, 266, 459, 508, 528, 542, 597, 606, 610, 611, 615, 616, 619, 628, 631, 633, 640, 661, 665, 670, 704]
 ```
 
-2026-10-26 3 → 2026-11-24 670（+667）
+2026-10-26 3 → 2026-11-25 704（+701）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `96462b099567` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5c3e99cd87c7` · [字段定义](../../DATASET.md)*

@@ -45,12 +45,12 @@ AWS 官方 Guidance 项目：提供 CDK 部署脚本与示例代码，在 AWS �
 ```mermaid
 xychart-beta
     title "aws-solutions-library-samples/guidance-for-asynchronous-inference-with-stable-diffusion-on-aws 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-22 37 → 2026-11-24 37（+0）
+2026-10-23 37 → 2026-11-25 37（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 482 · 推送 2026-11-21 · [GitHub](https://github.com/jennyzzt/awesome-open-ended) · 个人维护
 
-**开放式学习（open-ended）AI 研究论文与资源策展清单**
+**面向研究者的开放式学习 AI 论文与项目资源清单**
 
-由个人维护的 awesome 类策展清单，收录开放式学习/开放式进化方向的学术论文与资源，主题为 AI 如何持续发明并解决越来越复杂的新任务。条目按发表年份排序，覆盖 2008–2023 年约 40 篇论文，涉及 POET、无监督环境设计、MiniHack、MineDojo、Voyager、Promptbreeder、STOP 等工作，每条含论文链接，多数附代码库或网站链接。README 给出贡献格式说明，接受 pull request；无安装或运行内容，纯阅读型资源。
+策展型资源清单：收录开放式学习方向的论文条目，每条按发表时间排序，包含标题、作者、会议/年份及论文、代码、网站链接；主题覆盖环境生成、强化学习、具身智能体、演化计算等。README 定义开放式算法为持续发明并解决日益复杂任务的研究方向。清单接受社区通过 pull request 贡献新条目，并提供统一的条目格式模板。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 收录 2008–2023 年开放式学习/开放式进化领域论文
-- 每条含 Paper 链接，多数附 Code/Website/Demo 链接
-- 条目按发表时间排序，覆盖环境设计、涌现课程、自我改进等方向
+- 按发表时间排序收录开放式学习方向论文
+- 每条目附带论文、代码、网站链接
+- 提供社区贡献格式模板，接受 pull request
 
 ## 适用场景
 
-- 查阅开放式学习领域的论文脉络与代表性工作
-- 按论文条目找到对应的开源代码库复现实验
-- 通过 pull request 补充该方向的新论文资源
+- 查找开放式强化学习方向的入门论文
+- 检索环境生成与智能体研究的开源代码实现
+- 按时间线了解该方向论文脉络
 
 ## 场景标签
 
@@ -37,20 +37,20 @@
 ## 证据(README 行号)
 
 > L2: A curated list of open-ended learning AI resources. The aim of open-ended algorithms is to keep on inventing new and
-> L7: We warmly welcome contributions! If you know of a paper, project, or resource related to open-endedness that isn’t l
+> L14: ## Papers
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "jennyzzt/awesome-open-ended 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 476 --> 483
-    line [477, 478, 479, 478, 479, 480, 481, 482, 482]
+    title "jennyzzt/awesome-open-ended 星数(近 8 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 477 --> 483
+    line [478, 479, 478, 479, 480, 481, 482, 482]
 ```
 
-2026-10-22 477 → 2026-11-24 482（+5）
+2026-10-23 478 → 2026-11-25 482（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `86e0b1267295` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `02e630326051` · [字段定义](../../DATASET.md)*

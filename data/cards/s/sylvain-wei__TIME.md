@@ -44,13 +44,13 @@ NeurIPS 2025 (Spotlight) Datasets & Benchmarks 论文的配套基准：TIME 含 
 
 ```mermaid
 xychart-beta
-    title "sylvain-wei/TIME 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 31 --> 34
-    line [32, 33, 33]
+    title "sylvain-wei/TIME 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
 ```
 
-2026-10-22 32 → 2026-11-24 33（+1）
+2026-10-23 33 → 2026-11-25 33（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "reacher-z/vidground 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 57 --> 66
-    line [65, 58, 58]
+    title "reacher-z/vidground 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 57 --> 59
+    line [58, 58]
 ```
 
-2026-10-22 65 → 2026-11-24 58（-7）
+2026-10-23 58 → 2026-11-25 58（+0）
 
 
 ---

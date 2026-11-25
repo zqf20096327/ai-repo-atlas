@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "bensafifatima57-svg/coregold-usdt-vcc-okx-binance-fiat-crypto-guide 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 9 --> 27
-    line [10, 26, 26]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 7 --> 49
+    line [10, 26, 46]
 ```
 
-2026-11-20 10 → 2026-11-24 26（+16）
+2026-11-20 10 → 2026-11-25 46（+36）
 
 
 ---

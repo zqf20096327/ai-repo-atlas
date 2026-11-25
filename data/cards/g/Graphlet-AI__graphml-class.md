@@ -46,12 +46,12 @@ Graphlet AI 出品的全栈图机器学习课程（v1.1.2），由 Russell Jurne
 ```mermaid
 xychart-beta
     title "Graphlet-AI/graphml-class 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-22 79 → 2026-11-24 79（+0）
+2026-10-23 79 → 2026-11-25 79（+0）
 
 
 ---

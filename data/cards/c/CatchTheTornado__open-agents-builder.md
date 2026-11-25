@@ -47,12 +47,12 @@ Open Agents Builder 是一个用于构建业务 AI Agent 的开发平台：可�
 ```mermaid
 xychart-beta
     title "CatchTheTornado/open-agents-builder 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-19", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
     y-axis "stars" 179 --> 182
     line [181, 180, 180]
 ```
 
-2026-10-22 181 → 2026-11-24 180（-1）
+2026-10-23 181 → 2026-11-25 180（-1）
 
 
 ---

@@ -2,34 +2,34 @@
 
 ⭐ 658 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/run-llama/ParseBench) · [官网](https://arxiv.org/abs/2604.08538) · 组织维护
 
-**面向 AI Agent 的文档解析基准：评测 PDF 转结构化输出的可靠性**
+**评测文档解析工具能否为 AI Agent 产出可用结构化输出的基准**
 
-由 LlamaIndex（run-llama）发布的文档解析评测基准：约 2,000 页来自保险、金融、政府真实企业文档的人工标注数据，按表格、图表、内容忠实度、语义格式、视觉溯源五个能力维度组织。以 Python 包（PyPI）提供，通过 CLI 调用被评测的解析工具（180+ pipeline，含 LlamaParse、OpenAI、Anthropic、Google、Docling 等）运行推理并评分，默认全部确定性规则化评测，不使用 LLM-as-a-judge，输出 HTML 报告、排行榜与 CSV/JSON 导出。数据集托管于 HuggingFace，运行时自动下载，仅需被评测工具的 API key。
+ParseBench 是一个文档解析基准：用人工核验的企业文档（保险、金融、政府）页面，评测各解析工具将 PDF 转为结构化输出后是否保留 Agent 决策所需的结构与含义。覆盖文本、格式、表格、图表、版面、表单六个维度，采用严重度感知评分（每页取内容恢复分与严重度上限的较低值），检测 140+ 类错误。提供 parse-bench CLI，运行 pipeline 下载 HuggingFace 数据集、产出分数与排行榜；支持自建 parser 输出接入评分，收录 180+ 个 pipeline。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 约 2,078 页人工验证页、1211 份文档、169,011 条规则，分五个能力维度
-- 180+ 可评测 pipeline，覆盖 21 个论文基线
-- 默认确定性规则化评测，不使用 LLM-as-a-judge
-- 生成 HTML 明细报告、跨工具排行榜与 CSV/Markdown/JSON 导出
+- ParseBench 2 含 4,317 个页面级测试用例、六维度严重度感知评分
+- 检测 140+ 类错误类型，指标按 330 个受控场景校准
+- 支持将自己的 parser 输出按结果布局接入评分
+- 提供 180+ 个 pipeline 与可排序筛选的在线排行榜
 
 ## 适用场景
 
-- 对比选型 PDF 解析工具在表格/图表等维度的表现
-- 为自己的解析工具跑基准并加入排行榜
-- 审计受监管流程中解析结果的视觉溯源能力
+- 在接入 Agent 工作流前评测各文档解析器的结构保真度
+- 为自己的 PDF 解析器获取六维度分数与错误定位
+- 按每页成本与分数筛选商业或开源解析方案
 
 ## 场景标签
 
@@ -37,22 +37,21 @@
 
 ## 证据(README 行号)
 
-> L11: **ParseBench** is a benchmark for evaluating how well document parsing tools convert PDFs into structured output th
-> L118: The `run` command runs inference (calls the parsing tool), evaluates the results against ground truth, and generat
-> L176: By default ParseBench does **not** use LLM-as-a-judge — all evaluation is deterministic and rule-based, and API ke
+> L15: **ParseBench** is a benchmark for evaluating how well document parsing tools convert PDFs into structured output th
+> L17: The original benchmark (ParseBench v1) covers ~2,000 human-verified pages from real enterprise documents (insurance
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "run-llama/ParseBench 星数(近 21 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 600 --> 656
-    line [604, 608, 612, 613, 616, 618, 620, 613, 626, 629, 631, 635, 638, 640, 642, 643, 646, 648, 650, 652, 652]
+    title "run-llama/ParseBench 星数(近 20 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 603 --> 663
+    line [608, 612, 613, 616, 618, 620, 613, 626, 629, 631, 635, 638, 640, 642, 643, 646, 648, 650, 652, 658]
 ```
 
-2026-10-22 604 → 2026-11-24 652（+48）
+2026-10-23 608 → 2026-11-25 658（+50）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cf022f11f8ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7ebf5186d9c9` · [字段定义](../../DATASET.md)*

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Event-AHU/Medical_Image_Analysis 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 242 --> 245
-    line [244, 243, 243]
+    title "Event-AHU/Medical_Image_Analysis 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 242 --> 244
+    line [243, 243]
 ```
 
-2026-10-21 244 → 2026-11-24 243（-1）
+2026-10-23 243 → 2026-11-25 243（+0）
 
 
 ---

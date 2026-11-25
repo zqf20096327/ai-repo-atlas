@@ -2,9 +2,9 @@
 
 ⭐ 612 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/DocAILab/XRAG) · [官网](https://docailab.github.io/XRAG/) · 组织维护 · 中文 README
 
-**RAG 核心组件基准评测框架（ICDE 2026 论文）**
+**面向研究者的 RAG 核心模块基准评测框架**
 
-面向先进检索增强生成（RAG）系统的评测框架：拆解各核心模块，评估检索质量、响应忠实度与答案正确性；支持 LLM 评测、深度评测与传统指标（F1、MRR、NDCG 等），内置 LlamaIndex 与 DeepEval 度量。提供模块化可插拔架构，覆盖 BM25/向量/树结构等多种检索方法，并通过顺序、条件、迭代等五类编排器实现 Agentic RAG（self-rag、adaptive-rag）。pip 安装，提供 CLI、WebUI 与 API 后端服务，可从文档文件夹生成 QA 对。
+XRAG 是一个基准评测框架，用于评估高级 RAG 系统的基础组件，通过拆解各核心模块分析不同配置对整体性能的影响。内置 LlamaIndex、DeepEval 及自定义指标，覆盖检索质量、响应忠实度、答案正确性等多维评测；支持向量/BM25/混合/树状检索与五种 orchestrator 实现 agentic RAG。提供 xrag-cli 命令行、WebUI 与 API 后端服务，可从文档文件夹自动生成 QA 对。要求 Python 3.11+，LLM 通过 API key 配置。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 多维度评测：传统指标（F1/EM/MRR/NDCG）+ LLM 指标（忠实度/相关性）+ 深度评测（幻觉/偏见）
-- 五类编排器（sequential/conditional/iterative/parallel/hybrid）实现 Agentic RAG
-- 模块化可插拔检索器/嵌入/LLM，支持 OpenAI 与 Qwen、LLaMA 等本地模型
-- 提供 CLI、WebUI、API 后端服务与 QA 对自动生成
+- 多维评测指标：传统指标（F1/EM/MRR/NDCG）、LLM 评估与深度评估（幻觉/偏见）
+- 五种 orchestrator 组织 RAG 工作流，实现 self-rag、adaptive-rag 等 agentic 方法
+- xrag-cli 提供 run/webui/api/generate 等子命令，支持配置覆盖
+- 可从文档文件夹自动生成 QA 对用于评测
 
 ## 适用场景
 
-- 评测 RAG 系统中不同检索与生成组件配置的性能
-- 对比 BM25、向量、树结构等检索方法的效果
-- 把 RAG 评测作为后端服务通过 HTTP API 调用
+- 对自建 RAG 系统的不同检索与生成组件配置做基准评测
+- 为 RAG 数据集构建索引并交互式测试查询效果
+- 从自有文档批量生成 QA 对作为评测数据
+- 以 API 服务形式将 RAG 评测能力接入后端流程
 
 ## 场景标签
 
-`模型评测` `RAG` · 领域:评测与运维
+`RAG` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L59: XRAG is a benchmarking framework designed to evaluate the foundational components of advanced Retrieval-Augmented G
-> L64:  - Multiple evaluation dimensions: LLM-based evaluation, Deep evaluation, and traditional metrics
+> L61: XRAG is a benchmarking framework designed to evaluate the foundational components of advanced Retrieval-Augmented G
+> L66:  - Multiple evaluation dimensions: LLM-based evaluation, Deep evaluation, and traditional metrics
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "DocAILab/XRAG 星数(近 18 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 525 --> 846
-    line [820, 551, 558, 560, 568, 575, 581, 589, 597, 601, 605, 611, 560, 611, 612, 613, 612, 612]
+    title "DocAILab/XRAG 星数(近 17 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 545 --> 619
+    line [551, 558, 560, 568, 575, 581, 589, 597, 601, 605, 611, 560, 611, 612, 613, 612, 612]
 ```
 
-2026-10-22 820 → 2026-11-24 612（-208）
+2026-10-23 551 → 2026-11-25 612（+61）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `14f13be19284` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `621777572a65` · [字段定义](../../DATASET.md)*

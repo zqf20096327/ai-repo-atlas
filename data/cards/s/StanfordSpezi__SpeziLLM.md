@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StanfordSpezi/SpeziLLM 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 289 --> 292
-    line [291, 290, 290]
+    title "StanfordSpezi/SpeziLLM 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 289 --> 291
+    line [290, 290]
 ```
 
-2026-10-21 291 → 2026-11-24 290（-1）
+2026-10-23 290 → 2026-11-25 290（+0）
 
 
 ---

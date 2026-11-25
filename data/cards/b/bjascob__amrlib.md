@@ -45,12 +45,12 @@ amrlib 提供 Abstract Meaning Representation（AMR）处理的 Python 模块：
 ```mermaid
 xychart-beta
     title "bjascob/amrlib 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 266 --> 268
     line [267, 267]
 ```
 
-2026-10-22 267 → 2026-11-24 267（+0）
+2026-10-23 267 → 2026-11-25 267（+0）
 
 
 ---

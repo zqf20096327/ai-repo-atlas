@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "huichengh/smartpark-ai-prototype 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 94 --> 102
-    line [101, 95, 95]
+    title "huichengh/smartpark-ai-prototype 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 94 --> 96
+    line [95, 95]
 ```
 
-2026-10-22 101 → 2026-11-24 95（-6）
+2026-10-23 95 → 2026-11-25 95（+0）
 
 
 ---

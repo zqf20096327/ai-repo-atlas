@@ -2,9 +2,9 @@
 
 ⭐ 500 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/milvus-io/milvus-sdk-java) · [官网](https://milvus.io) · 组织维护
 
-**Java 开发者连接与操作 Milvus 向量数据库的官方 SDK**
+**Java 开发者连接 Milvus 向量数据库的官方 SDK**
 
-Milvus 官方维护的 Java 客户端 SDK，供 Java 应用通过 Maven/Gradle 引入后连接 Milvus 向量数据库并执行操作。README 提供 Milvus 版本与 SDK 版本的兼容对照表（2.0 至 3.0.x），并说明自 v2.5.2 起拆分为 milvus-sdk-java 与 milvus-sdk-java-bulkwriter 两个包，BulkWriter 依赖较多可按需引入。前置要求为 Java 8+ 与 Maven 或 Gradle，日志依赖 SLF4J。仓库附 examples 目录与贡献指南。
+Milvus 向量数据库的 Java SDK，通过 Maven Central 发布，提供 milvus-sdk-java 主包与自 v2.5.2 拆分的 milvus-sdk-java-bulkwriter 批量写入包。README 给出 Maven/Gradle/Kotlin 三种依赖引入方式，附 SDK 与 Milvus 各版本的兼容对照表（2.0 至 3.0.x），并针对 Java 17+ 的 Spring Boot 应用提供自动配置 MilvusClientV2 的 starter 包。要求 Java 8 以上，examples 目录含示例代码。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Milvus 官方维护的 Java 客户端 SDK，供 Java 应用通过 Maven/Gradle �
 
 ## 能力要点
 
-- 提供 Milvus 与 Java SDK 版本兼容对照表（2.0–3.0.x）
-- 支持 Maven、Gradle/Groovy、Gradle/Kotlin 三种引入方式
-- v2.5.2 起拆分 bulkwriter 独立包，按需引入
-- 附示例代码目录与开发贡献文档
+- Maven Central 发布，支持 Maven/Gradle/Groovy/Kotlin 引入
+- 提供 SDK 与 Milvus 2.0–3.0.x 的版本兼容对照表
+- v2.5.2 起拆分出独立的 bulkwriter 包以减少依赖
+- 提供 Spring Boot starter 自动配置 MilvusClientV2
 
 ## 适用场景
 
-- 在 Java 项目中连接并操作 Milvus 向量数据库
-- 为向量检索应用引入 Milvus 客户端依赖
-- 需要 BulkWriter 工具时按需引入独立包
+- 在 Java 项目中读写 Milvus 向量数据库
+- 批量导入数据到 Milvus（BulkWriter 包）
+- Spring Boot 应用中通过配置项接入 Milvus 客户端
 
 ## 场景标签
 
@@ -37,21 +37,21 @@ Milvus 官方维护的 Java 客户端 SDK，供 Java 应用通过 Maven/Gradle �
 
 ## 证据(README 行号)
 
-> L5: Java SDK for Milvus. To contribute to this project, please read our contribution guidelines first.
-> L30: You can use **Apache Maven** or **Gradle** add Milvus SDK to your project.
+> L1: # Milvus Java SDK
+> L79: For Spring Boot applications (Java 17+), the `milvus-sdk-java-spring-boot-starter` package auto-configures a `Milvu
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "milvus-io/milvus-sdk-java 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
     y-axis "stars" 498 --> 502
     line [499, 500, 499, 500, 501, 500, 500]
 ```
 
-2026-10-22 499 → 2026-11-24 500（+1）
+2026-10-23 499 → 2026-11-25 500（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `229a8693c722` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9984d027ab11` · [字段定义](../../DATASET.md)*

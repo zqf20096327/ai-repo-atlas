@@ -45,12 +45,12 @@ coindex 读取本机及可选 SSH 机器上的 Codex 会话记录，通过调用
 ```mermaid
 xychart-beta
     title "Junming-Liang/coindex 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-24"]
+    x-axis ["2026-10-28", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-24 3（+0）
+2026-10-28 3 → 2026-11-25 3（+0）
 
 
 ---

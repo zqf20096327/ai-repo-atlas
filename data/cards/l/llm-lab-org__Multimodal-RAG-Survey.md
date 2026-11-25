@@ -2,9 +2,9 @@
 
 ⭐ 545 · 推送 2026-11-19 · [GitHub](https://github.com/llm-lab-org/Multimodal-RAG-Survey) · [官网](https://arxiv.org/abs/2502.08826) · 组织维护
 
-**多模态 RAG 综述配套论文仓库：收录并分类相关论文与数据集**
+**多模态 RAG 论文与数据集策展清单，服务研究人员**
 
-论文 Ask in Any Modality（ACL 2025 Findings）的配套资源仓库，收集并按主题分类多模态检索增强生成（RAG）相关论文，覆盖检索、融合、增强、生成等方向的进展分类与应用领域分类，并持续更新新论文。README 汇总常用数据集：图像-文本、视频-文本、音频-文本、医疗、时尚、QA 等类别，逐条给出规模统计、模态与链接。面向从事多模态 RAG 研究的研究者，可通过 PR 贡献论文条目，附海报与幻灯片。
+配套综述论文《Ask in Any Modality》的论文收集仓库：将多模态检索增强生成（MM-RAG）相关论文按分类学组织，覆盖检索、融合、增强、生成等方法的进展与应用领域，并整理图文、视频、音频、医疗、时尚、QA 等模态的常用数据集与基准（含规模、模态、链接）。仓库随论文持续更新（记录新增论文、海报与幻灯片），面向从事该方向后续研究的研究人员，欢迎通过 PR 贡献新条目。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 配合 ACL 2025 Findings 综述论文的多模态 RAG 论文分类仓库，持续更新
-- 按最新进展与应用领域两套分类体系组织论文
-- 汇总图像-文本、视频-文本、音频-文本、医疗、时尚、QA 等类别常用数据集及规模统计
-- 提供论文海报与幻灯片，开放 PR 贡献
+- 按分类学组织多模态 RAG 论文，覆盖方法与应用领域
+- 整理 6 大类数据集与基准：图文/视频/音频/医疗/时尚/QA，附规模与链接
+- 持续更新：2025-2026 记录多次新增论文与 100+ 新基准数据集
 
 ## 适用场景
 
-- 做多模态 RAG 课题调研时查找分类论文清单
-- 为实验选择合适的图像/视频/音频/医疗等领域数据集
-- 跟随综述了解该领域的开放挑战与方向
+- 调研多模态 RAG 的方法分类与开放挑战
+- 为检索增强的视觉/视频/音频任务挑选评测数据集
+- 跟进 MM-RAG 领域新发表的论文与基准
 
 ## 场景标签
 
@@ -38,20 +37,20 @@
 ## 证据(README 行号)
 
 > L5: This repository is designed to collect and categorize papers related to Multimodal Retrieval-Augmented Generation (R
-> L39: |**Name**|**Statistics and Description**|**Modalities**|**Link**|
+> L34: This survey offers a structured and comprehensive analysis of Multimodal RAG systems, covering datasets, benchmarks
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "llm-lab-org/Multimodal-RAG-Survey 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-24"]
+    title "llm-lab-org/Multimodal-RAG-Survey 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
     y-axis "stars" 544 --> 548
-    line [546, 547, 546, 547, 545, 546, 546]
+    line [547, 546, 547, 545, 546, 545]
 ```
 
-2026-10-22 546 → 2026-11-24 546（+0）
+2026-10-23 547 → 2026-11-25 545（-2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ff9faf0b1d03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1f0b0a7418d0` · [字段定义](../../DATASET.md)*

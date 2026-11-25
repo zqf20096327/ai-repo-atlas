@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Mattbusel/tokio-prompt-orchestrator 星数(近 5 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-14", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 58 --> 63
-    line [59, 60, 61, 62, 62]
+    title "Mattbusel/tokio-prompt-orchestrator 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-14", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 62, 62]
 ```
 
-2026-10-21 59 → 2026-11-24 62（+3）
+2026-10-23 60 → 2026-11-25 62（+2）
 
 
 ---

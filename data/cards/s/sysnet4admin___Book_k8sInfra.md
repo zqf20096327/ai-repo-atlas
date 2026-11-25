@@ -2,9 +2,9 @@
 
 ⭐ 502 · Shell · 推送 2026-11-23 · [GitHub](https://github.com/sysnet4admin/_Book_k8sInfra) · [官网](https://product.kyobobook.co.kr/detail/S000221973541) · 组织维护
 
-**韩国 Kubernetes/Docker 图书的配套实验代码仓库**
+**Kubernetes/Docker 教材书的配套实练代码仓库**
 
-韩国 Gilbut 出版社《요즘 개발자를 위한 쿠버네티스/도커》一书的官方配套仓库，提供各章实验代码：第 2 章用 Vagrant/VirtualBox 搭建测试虚拟机，第 3-6 章覆盖 Kubernetes 集群、Docker 与 Harbor 镜像构建、Jenkins CI/CD、Prometheus/Grafana 监控栈，第 7 章涉及 Operator、OpenTelemetry、Argo CD/Rollouts、Cilium 及小型 LLM 实验。附勘误表、参考文档、OVA 镜像（标注准备中）与教学视频链接。
+韩国出版的《为现代开发者的 Kubernetes/Docker》一书的配套实练代码。提供按章节组织的 Vagrantfile、配置脚本与 YAML 清单，指导读者用 Vagrant 虚拟机自建 Kubernetes 集群，依次实练 Docker 与 Harbor、Jenkins CI/CD、Prometheus/Grafana 监控套件；第 7 章涵盖 Operator 模式、OpenTelemetry、Argo CD/Rollouts 与小型 LLM。另提供 OVA 镜像（OneDrive 下载）替代 Vagrant 构建环境，附带勘误表与配套视频链接。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按章节组织的 Kubernetes/Docker 实验代码与 Vagrantfile
-- 提供 GitOps、Argo Rollouts 蓝绿部署等进阶实验
-- 为 Vagrant 安装困难用户提供 OVA 镜像方案（标注准备中）
-- 提供勘误表、参考文档与终端工具配置视频
+- 按章节组织的实练代码：集群搭建、镜像构建、CI/CD、监控套件
+- 提供 OVA 镜像（arm64/x86）直接导入 VirtualBox 跳过 Vagrant 构建环境
+- 第 7 章包含 Argo CD/Rollouts、Cilium 网络策略与小型 LLM 实练
+- rerepo-book-k8sinfra 命令一键还原实练文件
 
 ## 适用场景
 
-- 跟随该书章节搭建 Kubernetes 学习环境
-- 复现 GitOps 与 CI/CD 流水线实验
-- 查询书中内容的勘误与补充说明
+- 跟随书籍章节从零搭建并实练 Kubernetes 集群
+- 用 GitOps（Argo）与 Jenkins 实练持续集成部署流程
+- 快速用 OVA 镜像获得现成的多节点实验环境
 
 ## 场景标签
 
@@ -45,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "sysnet4admin/_Book_k8sInfra 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-24"]
+    x-axis ["2026-11-21", "2026-11-25"]
     y-axis "stars" 501 --> 503
     line [502, 502]
 ```
 
-2026-11-21 502 → 2026-11-24 502（+0）
+2026-11-21 502 → 2026-11-25 502（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-21 · 置信度 high · 依据 README sha `63e8b4a897a6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9cb7c5564508` · [字段定义](../../DATASET.md)*

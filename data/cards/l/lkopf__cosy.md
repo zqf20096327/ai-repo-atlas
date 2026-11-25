@@ -45,12 +45,12 @@ NeurIPS 2024 论文 CoSy: Evaluating Textual Explanations of Neurons 的官方�
 ```mermaid
 xychart-beta
     title "lkopf/cosy 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-22 21 → 2026-11-24 21（+0）
+2026-10-23 21 → 2026-11-25 21（+0）
 
 
 ---

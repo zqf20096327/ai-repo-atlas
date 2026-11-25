@@ -2,9 +2,9 @@
 
 ⭐ 503 · TypeScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/cablate/mcp-google-map) · [官网](https://www.npmjs.com/package/@cablate/mcp-google-map) · 个人维护 · 中文 README
 
-**面向 AI agent 的 Google Maps 工具集：18 个只读工具+3 个技能**
+**为 AI agent 提供 Google Maps 位置查询与行程规划的 MCP 工具集**
 
-将 Google Maps Platform 封装为 18 个只读 agent 工具（地点搜索、路线、地理编码、天气、空气质量、本地 SEO 排名追踪等）与 3 个 Agent Skills，供 AI agent 通过 MCP（stdio/Streamable HTTP）、Codex/Claude Code 插件或独立 CLI 调用。工具支持按需注册白名单、HTTP 模式下的每会话 API key 隔离与 DNS 重绑定防护。运行需 Node.js 18+ 与启用了计费的 Google Cloud API key，实时调用可能产生费用；MIT 许可，可自托管。
+将 Google Maps Platform 封装为 18 个只读 agent 工具与三个 Agent Skills，覆盖地点搜索、地理编码、路线、天气、空气质量与本地 SEO 排名追踪。支持多种接入方式：Codex 插件、Claude Code 插件（无需 MCP 配置）、独立 CLI（无状态命令返回 JSON）、MCP stdio 与 Streamable HTTP。HTTP 模式支持按会话隔离 API key 与 DNS rebinding 防护；可用环境变量按白名单裁剪工具列表。运行需 Node.js 22+ 与计费启用的 Google Cloud API key，调用可能产生费用。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 18 个只读工具覆盖地点、路线、天气、空气质量与本地 SEO 网格排名
-- 3 个按需加载的 Agent Skills：地图研究、行程规划、本地 SEO
-- 同一能力可通过 MCP（stdio/HTTP）、插件或无状态 CLI 使用
-- HTTP 模式支持每会话 API key 隔离与 DNS 重绑定防护
+- 18 个只读工具：搜索、地理编码、路线矩阵、多停靠点优化（最多 25 站）、静态地图
+- 三种 Skills 按需加载：地图研究、行程规划、本地 SEO
+- MCP 与独立 CLI 双形态，同一套工具
+- HTTP 部署支持按会话 key 隔离与 DNS rebinding 防护
 
 ## 适用场景
 
-- 让 Claude Code/Codex agent 查找真实地点并规划地理上可行的行程
-- 脚本或自动化中批量地理编码与路线计算
-- 通过网格排名与 SoLV 指标审计本地搜索可见性
+- 让 AI agent 查询真实地点、营业时间并核对出行时间
+- 生成经地理核验的多日行程与沿途停靠规划
+- 以网格排名指标审计商户本地搜索可见性
+- 批量地理编码富化地址数据
 
 ## 场景标签
 
- · 领域:地理信息服务/AI agent 工具
+ · 领域:AI agent 工具/位置服务
 
 ## 证据(README 行号)
 
 > L5: `@cablate/mcp-google-map` turns Google Maps Platform into 18 read-only agent tools and three focused Skills. An agen
-> L7: You choose the integration model: Codex or Claude Code Plugin when you want Skills without MCP setup, stdio for desk
-> L50: |**MCP stdio**|Claude Desktop, Cursor, VS Code, and other local MCP clients|The client starts a local MCP process|
+> L23: - **Use the same capabilities with or without MCP.** The standalone `exec` CLI works with Agent Skills and automati
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "cablate/mcp-google-map 星数(近 17 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 474 --> 505
-    line [476, 478, 479, 483, 484, 485, 487, 479, 489, 493, 496, 497, 498, 499, 502, 503, 503]
+    title "cablate/mcp-google-map 星数(近 16 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 476 --> 505
+    line [478, 479, 483, 484, 485, 487, 479, 489, 493, 496, 497, 498, 499, 502, 503, 503]
 ```
 
-2026-10-22 476 → 2026-11-24 503（+27）
+2026-10-23 478 → 2026-11-25 503（+25）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9fe42b905835` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1d37fa062437` · [字段定义](../../DATASET.md)*

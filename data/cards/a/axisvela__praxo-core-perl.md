@@ -45,12 +45,12 @@ PRAXO-CORE 的 Perl 实现，一个可嵌入的 MIT 许可 agent 框架：提供
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-perl 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-23", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-24 3（+0）
+2026-11-23 3 → 2026-11-25 3（+0）
 
 
 ---

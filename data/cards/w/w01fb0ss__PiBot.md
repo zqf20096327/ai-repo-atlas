@@ -2,9 +2,9 @@
 
 ⭐ 506 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/w01fb0ss/PiBot) · [官网](https://pibot.space) · 个人维护 · 中文 README
 
-**桌面本地优先的多 Bot 协作 AI 代理应用**
+**桌面端本地优先的多 Bot 协作 AI agent 团队应用**
 
-基于 Electron 的桌面应用，运行于 pi agent 内核之上：用户创建带名称、角色、模型、技能与权限的多个 Bot，可单聊或群聊，群内由协调者规划并把步骤分派给成员；Bot 在指定工作目录内执行命令、编辑文件、浏览网页，每个高风险步骤需用户审批，并经沙箱运行、写入审计日志。支持定时/触发式例程、MCP 服务器与知识库连接。聊天、文件、内存与密钥保留本地。提供 macOS/Windows/Linux 安装包及 Android 应用，支持从源码构建。
+桌面应用：可创建多个具名 Bot（含角色、模型、技能、权限、记忆），支持单聊与群聊，群内有协调者分派任务；Bot 在指定工作目录中规划、执行命令、编辑文件、浏览网页，所有风险操作经审批策略引擎并写入审计日志，命令在沙箱中运行。数据本地保存，仅所选模型提供方可见提示词。提供安装包下载，亦可 Node+pnpm 从源码构建，另含 Android 应用。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 多 Bot 群聊协作：协调者规划、分派步骤并汇总结果，执行前需用户确认
-- 统一策略引擎审批所有工具调用，命令在沙箱中运行并记录审计日志
-- 本地优先：聊天、文件、内存与密钥保留在本机，无遥测
-- 支持本地模型（Ollama）、OpenRouter、自有 API key 与订阅登录
+- 多 Bot 单聊/群聊协作，协调者规划并分发任务，执行前需用户确认
+- 统一审批策略引擎与沙箱命令执行，附带审计日志
+- 支持本地模型（Ollama）、OpenRouter、自有 API key 及订阅登录
+- 定时、文件夹触发与连接触发的例程任务；可接 MCP 服务器与知识库
 
 ## 适用场景
 
-- 让多个分工不同的 Bot 在群聊中协作完成开发、调研或写作任务
-- 在本地文件夹内让 Bot 自动执行命令和编辑文件，同时逐项审批
-- 配置定时或文件夹触发的自动化例程
+- 在本机让多个 Bot 分工协作完成开发、写作等任务
+- 需要每步操作人工审批的可控 agent 自动化
+- 使用本地模型保持聊天与文件不出本机
+- 通过手机 App 或自托管中继扩展多设备使用
 
 ## 场景标签
 
-`多智能体` `AI 助手` · 领域:Agent 开发
+`多智能体` `AI 助手` `编码 Agent` `GUI 自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: **An open-source, local-first AI agent team for your desktop.** Named AI Bots work on your own
-> L20: Pi Bot is a desktop app in which a team of named Bots works on your own computer. You chat with a
-> L41: - **Models.** Local models through Ollama, OpenRouter, your own API keys, and supported
+> L21: Pi Bot is a desktop app in which a team of named Bots works on your own computer. You chat with a
+> L42: - **Models.** Local models through Ollama, OpenRouter, your own API keys, and supported
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "w01fb0ss/PiBot 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 127 --> 383
-    line [148, 362, 362]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 113 --> 541
+    line [148, 362, 506]
 ```
 
-2026-11-22 148 → 2026-11-24 362（+214）
+2026-11-22 148 → 2026-11-25 506（+358）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `757e82c46f31` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `abd5a2e51de0` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Theepankumargandhi/Multi-Agent-Orchestration 星数(近 6 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 20 --> 24
-    line [21, 22, 23, 22, 23, 23]
+    title "Theepankumargandhi/Multi-Agent-Orchestration 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 21 --> 24
+    line [22, 23, 22, 23, 23]
 ```
 
-2026-10-21 21 → 2026-11-24 23（+2）
+2026-10-23 22 → 2026-11-25 23（+1）
 
 
 ---

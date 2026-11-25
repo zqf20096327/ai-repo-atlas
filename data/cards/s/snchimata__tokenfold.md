@@ -2,9 +2,9 @@
 
 ⭐ 440 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/snchimata/tokenfold) · 个人维护
 
-**LLM 结构化 JSON 的确定性无损压缩工具与本地代理**
+**为 LLM 开发者提供本地可逆上下文压缩，节省 token 预算**
 
-面向开发者与 AI 团队的 token 压缩工具：对结构化 JSON（工具定义、API 响应、RAG 数据）做无模型的列式折叠与最小化，无损模式可精确解码还原，压缩前经内存内往返验证；异构数组提供可选且可恢复的有损剪枝。提供 Python/npm/Rust 库、独立 CLI、stdio MCP 服务器，以及监听 127.0.0.1:8787 的 OpenAI 兼容本地代理，转发前压缩 chat 请求体，任意自定义 base URL 的客户端可直接接入。README 明确说明精确解码仅证明数据还原，不保证下游任务效果不变，需自行验证。
+Tokenfold 是一个 provider 中立的上下文压缩工具：核心（Rust 实现）对文本、JSON、分组上下文与 provider 请求做无损结构压缩，在本地完成、不调用第三方服务，并输出可校验的 receipt。可选的 Tokenfold Select 组件（149.6M 参数评分模型）提供查询感知的相关性排序，需显式配置并单独获取模型文件。提供 Python/TypeScript SDK、CLI、MCP 服务器与 OpenAI 兼容本地代理等多种入口。默认路径离线、无需模型或 GPU。
 
 ## 筛选速览
 
@@ -15,44 +15,44 @@
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 无损压缩达 45.6-67.6%（三组 fixture，o200k_base 计数），可选剪枝可达 90%+
-- 无模型、确定性 Core 路径，无 GPU 依赖
-- OpenAI 兼容 drop-in 本地代理，转发前压缩，凭证透传
-- MCP 服务器提供 compress/inspect/retrieve/stats 四个工具，tokenfold init 支持 Claude Code
+- 无损结构压缩：两个 fixture 上 45.6-63.9% token 节省，JSON 值可精确恢复
+- 多种入口：Python/TypeScript SDK、CLI、MCP 服务器、OpenAI 兼容本地代理
+- 可选 Select 评分模型（149.6M 参数）做查询感知相关性排序，需显式同意加载
+- MCP 集成提供 compress/inspect/retrieve/stats 工具及 Git/构建/测试日志预置过滤器
 
 ## 适用场景
 
-- 降低工具调用 agent 循环与 RAG 数据的 token 开销和延迟
-- 让现有 OpenAI 兼容客户端经本地代理获得压缩，无需改代码
-- 在编码 agent 中压缩 Git/diff/构建/测试日志，避免耗尽上下文
+- 编码 Agent 处理大体积 shell 输出时压缩内容避免耗尽上下文窗口
+- 在本地代理层压缩发往 OpenAI 兼容上游的请求以降低 token 消耗
+- 将 JSON schema 与日志在本地可逆压缩后再交给模型
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发工具
+ · 领域:LLM 基础设施/上下文管理
 
 ## 证据(README 行号)
 
-> L136: ### Drop-in proxy for OpenAI-compatible clients
-> L234: ### Coding agents and MCP integration
-> L39: > **Built for:** Developers and AI teams cutting latency and API costs on structured JSON, tool definitions, and RA
+> L9:  Python-first SDK. TypeScript alongside it. Rust at the core.
+> L10:  One <code>fit()</code> workflow for text, JSON, grouped context, and provider requests.
+> L160: Coding agents can exhaust context limits on large shell outputs. Tokenfold runs as a
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "snchimata/tokenfold 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 69 --> 445
-    line [102, 101, 100, 101, 132, 159, 191, 229, 260, 290, 319, 349, 378, 395, 414, 414]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 66 --> 474
+    line [102, 101, 100, 101, 132, 159, 191, 229, 260, 290, 319, 349, 378, 395, 414, 440]
 ```
 
-2026-10-21 102 → 2026-11-24 414（+312）
+2026-10-23 102 → 2026-11-25 440（+338）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `64bbabd8a19e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bea16192eed8` · [字段定义](../../DATASET.md)*

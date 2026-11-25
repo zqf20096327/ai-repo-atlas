@@ -45,12 +45,12 @@ InstaDeep 对 Google DeepMind Podracer 论文提出的 Sebulba 分布式 RL 架�
 ```mermaid
 xychart-beta
     title "instadeepai/sebulba 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-22 62 → 2026-11-24 62（+0）
+2026-10-23 62 → 2026-11-25 62（+0）
 
 
 ---

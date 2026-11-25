@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "dengxianghua888-ops/preference-lab 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 49 --> 56
-    line [55, 50, 50]
+    title "dengxianghua888-ops/preference-lab 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 49 --> 51
+    line [50, 50]
 ```
 
-2026-10-21 55 → 2026-11-24 50（-5）
+2026-10-23 50 → 2026-11-25 50（+0）
 
 
 ---

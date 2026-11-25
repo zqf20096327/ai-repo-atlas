@@ -2,9 +2,9 @@
 
 ⭐ 606 · 推送 2026-11-13 · [GitHub](https://github.com/wildminder/awesome-ltx2) · 个人维护
 
-**LTX-2 视频生成模型的策展清单：模型/编码器/工具/LoRA 汇总**
+**LTX-2 视频生成模型、编码器、工作流与 LoRA 的策展清单**
 
-面向 LTX-2 视频生成套件用户的策展清单：收录官方与第三方 checkpoint（含 bf16/fp8/int8/nvfp4/GGUF 等量化格式，附下载链接与体积）、文本编码器（Gemma 系列）、LoRA 集合及配套工具应用（LTX 桌面版、WanGP 模型包、ComfyUI 训练节点包等），面向 ComfyUI 与 diffusers 使用场景组织，条目多托管于 Hugging Face。
+面向 ComfyUI 用户的 LTX-2 视频生成资源聚合清单：收录官方与社区权重的 checkpoint（bf16/fp8/int8/nvfp4/GGUF 等量化格式，附文件大小与下载链接）、文本编码器、VAE、LoRA、桌面工具与 ComfyUI 节点包，并含 LTX-2 视频水印标记（PixelSeal/AudioSeal）的权重说明与加载参数。条目以分类目录组织，指向 HuggingFace/GitHub 下载源。本仓库本身不训练、不推理，仅做资源编目与下载指引。
 
 ## 筛选速览
 
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 收录 LTX-2/2.3/2.5 各版本 dev/distilled checkpoint 及多种量化格式（fp8/int8/nvfp4/GGUF 等）
-- 汇总社区量化作者（Drbaph、unsloth 等）与官方 Lightricks 权重的下载链接
-- 包含 LTX2.3 桌面版、WanGP 低显存模型包（约 984 GB）、Int4 LoRA 训练节点包等工具条目
-- 覆盖 IC-LoRA、ID-LoRA、控制类 LoRA 及文本编码器与 VAE 等组件
+- 汇总 LTX-2/2.3/2.5 各版本、多精度量化 checkpoint 的下载清单
+- 收录低显存桌面工具与节点包（最低 6–24 GB VRAM 的使用说明）
+- 包含 PixelSeal/AudioSeal 隐形水印权重的配置与启用方法
+- 附带 WanGP 用的约 984 GB 预打包完整模型包说明
 
 ## 适用场景
 
-- 查找 LTX-2 各版本与量化格式的可下载权重
-- 为 ComfyUI 或 WanGP 配置 LTX-2 运行环境挑选模型与 LoRA
-- 了解 LTX-2 生态中的社区工具与量化变体
+- 为 ComfyUI 搭建 LTX-2 视频生成环境时下载对应量化权重
+- 按自己的显存大小挑选合适的模型版本与工具
+- 查找 LTX-2 相关 LoRA 与文本编码器资源
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
+> L1: # Awesome LTX-2
 > L3: A curated list of models, text encoders, and tools for the LTX-2 video generation suite.
-> L68: LTX-2 models are available in various formats including full weights, transformers-only, and GGUF quantizations for
+> L82: ## ▓ Models
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "wildminder/awesome-ltx2 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 599 --> 606
-    line [601, 600, 601, 603, 602, 600, 604, 602, 603, 602, 601, 603, 604, 605, 605]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 599 --> 607
+    line [601, 600, 601, 603, 602, 600, 604, 602, 603, 602, 601, 603, 604, 605, 606]
 ```
 
-2026-10-22 601 → 2026-11-24 605（+4）
+2026-10-23 601 → 2026-11-25 606（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8d07e5c20e0c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d2a4a71ccfcc` · [字段定义](../../DATASET.md)*

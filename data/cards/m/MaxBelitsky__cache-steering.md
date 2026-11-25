@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MaxBelitsky/cache-steering 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 51 --> 54
-    line [52, 53, 53]
+    title "MaxBelitsky/cache-steering 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 52 --> 54
+    line [53, 53]
 ```
 
-2026-10-21 52 → 2026-11-24 53（+1）
+2026-10-23 53 → 2026-11-25 53（+0）
 
 
 ---

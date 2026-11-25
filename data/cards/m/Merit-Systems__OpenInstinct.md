@@ -2,9 +2,9 @@
 
 ⭐ 497 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Merit-Systems/OpenInstinct) · [官网](https://openinstinct.sh) · 组织维护
 
-**自托管的 iMessage 个人助理：代用户浏览网页办理事务**
+**自托管的 iMessage 个人助理：代订票、代购物、管密码**
 
-部署到用户自己 Vercel 账号的开源个人助理，通过 iMessage 对话接收指令，用云端浏览器（Kernel）代用户执行登录、订票、购物等事务。可接入任意模型（经 Vercel AI Gateway），内置加密密码库（Better Auth 与 vault 加密密钥存私有 Blob），浏览器自动填充使密码不进入模型上下文。可选接入 Google Workspace（Gmail/日历/联系人）与 Stripe Link 钱包（每笔支出需用户批准）。支持每分钟级定时任务，要求 Vercel Pro 计划。
+部署到用户自己 Vercel 账户的 iMessage 个人助理：通过云端浏览器以用户身份完成订电影票、下单买菜等事务。密码、信用卡等机密入库前加密，浏览器自动填充使密码不进入模型上下文；数据库持久化每用户记忆与 workstream（目标/决策/待办，限 100 条/工作区）。依赖 Vercel Pro（分钟级 cron）、Kernel 云浏览器、Neon Postgres、Linq iMessage 连接器与 AI Gateway；可选 Google Workspace（Gmail/日历/联系人）与 Stripe Link 钱包（当前购买功能暂禁用）。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@
 
 ## 能力要点
 
-- 通过 iMessage 对话驱动的浏览器自动化 agent，可走到结账完成订票/购物
-- 密码库密钥独立生成并加密存储，自动填充密码不进入模型上下文
-- 可选 Google Workspace 接入与 Stripe Link 钱包支付（每笔需用户批准）
-- 每用户持久记忆与 workstreams 记录（每作用域上限 100 条，容量满时询问淘汰）
+- 浏览器代操作：示例演示走完 Fandango 购票结账并回报座位与总价
+- 密码保管库加密入库，自动填充避免密码进入模型上下文
+- workstream 记忆：跨会话回忆目标、决策与未完成步骤，容量淘汰需用户确认
+- 支持任意模型（经 Vercel AI Gateway），一键部署到自己的 Vercel 账户
 
 ## 适用场景
 
-- 通过 iMessage 让助理代订电影票或处理日常事务
-- 自托管控制自己的密码、信用卡与对话上下文
-- 让助理代查 Gmail、日历并代为发起购买（需我批准）
+- 通过 iMessage 让助理代订电影票并确认座位场次
+- 把跑腿类网络事务（下单购物、预约）交给代办 agent
+- 自托管个人助理并掌控自己的密码与支付授权
 
 ## 场景标签
 
-`浏览器自动化` `AI 助手` · 领域:效率与自动化
+`AI 助手` `浏览器自动化` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: **A personal iMessage assistant that can use a browser like you.**
+> L5: It can do your chores, book movie tickets, or handle your groceries.
 > L8: It's open source, self-hostable, and can use any model.
-> L22: on your behalf. OpenInstinct runs in your own Vercel account. Saved vault secrets
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Merit-Systems/OpenInstinct 星数(近 19 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 465 --> 498
-    line [467, 471, 473, 472, 473, 476, 478, 479, 478, 480, 472, 487, 489, 491, 493, 494, 495, 496, 496]
+    title "Merit-Systems/OpenInstinct 星数(近 18 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 469 --> 499
+    line [471, 473, 472, 473, 476, 478, 479, 478, 480, 472, 487, 489, 491, 493, 494, 495, 496, 497]
 ```
 
-2026-10-22 467 → 2026-11-24 496（+29）
+2026-10-23 471 → 2026-11-25 497（+26）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `c8933da3e3d1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `28845c918a1f` · [字段定义](../../DATASET.md)*

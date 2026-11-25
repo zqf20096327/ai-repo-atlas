@@ -1,10 +1,10 @@
 # opengeos/GeoAgent
 
-⭐ 548 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opengeos/GeoAgent) · [官网](https://geoagent.gishub.org) · 个人维护
+⭐ 548 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opengeos/GeoAgent) · [官网](https://geoagent.gishub.org) · 组织维护
 
-**给地理空间库与 QGIS 提供共享 AI agent 层，统一接入 LLM**
+**为地理空间 Python 库与 QGIS 提供统一 LLM agent 接入层**
 
-基于 Strands Agents 构建的 Python 框架，为 leafmap、anymap、geoai、geemap、STAC、NASA Earthdata 等地理空间包及 QGIS 插件提供统一的 agent 接入层：将包函数注册为带元数据的结构化工具，绑定到地图部件或 QGIS 会话，支持 OpenAI、Anthropic、Gemini、Bedrock、OpenRouter、LiteLLM、vLLM 与本地 Ollama 等多种模型来源，并提供执行前确认钩子与 Solara 浏览器 UI、MapLibre WebSocket 后端及 QGIS 停靠聊天插件。核心仅安装 strands-agents 与 pydantic，地理空间栈与各 provider 客户端均为可选 extras；QGIS 本体需系统安装。
+基于 Strands Agents 构建的共享 agent 层，让 leafmap、anymap、geoai、geemap、STAC、NASA Earthdata 等地理空间包通过统一接口向大语言模型暴露工具，各库无需自建 agent 栈。核心机制包括：@geo_tool 装饰器将 Python 函数转为带元数据的工具、GeoToolRegistry 管理工具元数据与安全标记、for_leafmap/for_qgis/for_stac 等工厂将 agent 绑定到地图或 QGIS 会话；在删除图层、保存文件等不可逆操作前触发确认钩子。核心包仅含 agent 框架依赖，地理空间栈与 provider 客户端均为可选 extras；QGIS 本体需由桌面应用或系统包管理器另行安装。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- @geo_tool 装饰器与工具注册表，将 Python 函数转为带安全标记的结构化工具
-- 支持 OpenAI/Anthropic/Gemini/Bedrock/OpenRouter/LiteLLM/vLLM/Ollama 等多种 provider
-- 删除图层、保存文件等操作前的确认钩子（默认拒绝，可开启自动批准）
-- 提供 QGIS 插件、Solara UI 与浏览器 MapLibre WebSocket 多种交互界面
+- 统一接口为多个地理空间库暴露 LLM 工具，基于 Strands Agents
+- 支持 OpenAI、Anthropic、Gemini、Bedrock、OpenRouter、LiteLLM、vLLM、本地 Ollama 等多种 provider
+- @geo_tool 装饰器与 GeoToolRegistry 提供结构化工具元数据与安全标记
+- 破坏性或昂贵操作前的确认钩子，Solara UI 默认拒绝需确认的工具
 
 ## 适用场景
 
-- 在 QGIS 中用自然语言检查图层、加载数据与执行处理流程
-- 为 leafmap/anymap 地图绑定对话式 agent 操作地图
-- 地理空间库维护者复用该层而无需自建 agent 框架
-- 通过 OpenRouter 使用 DeepSeek、Qwen 等模型做地理分析
+- 在 Jupyter 中用自然语言操作 leafmap 地图与图层
+- 在 QGIS 内通过聊天面板执行地理空间分析与可视化
+- 搜索并加载 STAC 目录与 NASA OPERA 数据
+- 为自研地理空间包接入现成的 agent 工具层
 
 ## 场景标签
 
@@ -47,13 +47,13 @@
 ```mermaid
 xychart-beta
     title "opengeos/GeoAgent 星数(近 16 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 511 --> 547
-    line [514, 515, 516, 518, 522, 523, 524, 515, 534, 538, 540, 541, 542, 543, 544, 544]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 511 --> 551
+    line [514, 515, 516, 518, 522, 523, 524, 515, 534, 538, 540, 541, 542, 543, 544, 548]
 ```
 
-2026-10-22 514 → 2026-11-24 544（+30）
+2026-10-23 514 → 2026-11-25 548（+34）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ad9017a1e648` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d1e897861a27` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jarry126/fastapi-langgraph-agent-zh 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-16", "2026-11-24"]
+    title "jarry126/fastapi-langgraph-agent-zh 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 16, 16]
+    line [17, 16, 16]
 ```
 
-2026-10-22 16 → 2026-11-24 16（+0）
+2026-10-23 17 → 2026-11-25 16（-1）
 
 
 ---

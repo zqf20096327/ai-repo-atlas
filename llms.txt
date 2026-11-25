@@ -8,7 +8,7 @@ Docs:
 - [CHANGELOG.md](CHANGELOG.md): 数据与格式的变更历史。
 
 Data:
-- [data/catalog/](data/catalog/): 机器主表,48313 行,一仓一行 JSON,fn 字典序;分片 part00..part07(每片 ~15MB,GitHub 单文件上限内),[MANIFEST.json](data/catalog/MANIFEST.json) 载片名/行数/sha256。读全表:`cat data/catalog/part*.jsonl`。
+- [data/catalog/](data/catalog/): 机器主表,48341 行,一仓一行 JSON,fn 字典序;分片 part00..part07(每片 ~15MB,GitHub 单文件上限内),[MANIFEST.json](data/catalog/MANIFEST.json) 载片名/行数/sha256。读全表:`cat data/catalog/part*.jsonl`。
 - [data/schema/card.schema.json](data/schema/card.schema.json): 主表 JSON Schema。
 - [data/vocab.json](data/vocab.json): 场景标签受控词表 v1.0(47 标签/10 组,含定义与别名;查询解析与打标共用)。
 - [data/cards/](data/cards): 人读 markdown 卡片,一仓一文件,路径 `data/cards/{owner首字母}/{owner}__{repo}.md`。

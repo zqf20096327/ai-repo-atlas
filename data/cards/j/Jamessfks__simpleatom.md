@@ -46,12 +46,12 @@ SimpleAtom 是 MACE（Message Passing Atomic Cluster Expansion）机器学习原
 ```mermaid
 xychart-beta
     title "Jamessfks/simpleatom 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-22 17 → 2026-11-24 17（+0）
+2026-10-23 17 → 2026-11-25 17（+0）
 
 
 ---

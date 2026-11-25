@@ -1,1 +1,79 @@
-{"fn": "NVIDIA/skills", "sha": "53590b5f8c76", "source": "readme", "identity": {"one_liner": "为编码 Agent 安装 NVIDIA 产品技能的官方目录", "review": "NVIDIA 官方维护的 Agent Skills 目录，收录可移植的指令集，教 AI 编码代理使用 NVIDIA 软件：Physical AI 与机器人工作流、仿真、CUDA-X 库、RAG 与 AI Blueprints 及平台工具。技能在各产品仓库维护，经自动同步管道每日镜像至此。通过 skills CLI（npx）安装，支持指定 Claude Code、Codex、Cursor、Kiro、Snowflake CoCo 等目标代理，提供 Skill Finder 技能检索、批量安装、更新与上游合并清理，需 CLI v1.5.16 及以上。", "highlights": ["覆盖 CUDA-X（cuDF/cuML/cuOpt/DALI 等）、BioNeMo、Cosmos Data Factory、DeepStream、DOCA 等产品线技能", "skills CLI 支持 --agent 定向安装到多个编码代理并可一次多目标", "提供 Skill Finder 技能用于目录内检索与安装", "自动同步管道每日镜像，npx skills update 支持更新与失效技能清理"], "use_cases": ["让 Claude Code/Codex 等代理按 NVIDIA 官方指引运行 cuOpt 求解、cuDF 加速等工作流", "为分子模拟或药物发现任务检索并安装 BioNeMo 相关技能", "在 Kubernetes 上部署 NVIDIA Dynamo 并排查互联问题"]}, "filters": {"ai_role": "ai-knowledge", "license_risk": "permissive", "deploy": "self-host", "model_dep": "locked-api", "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent技能", "CUDA", "开发者工具", "目录清单", "NVIDIA生态"], "domain": "开发者工具/Agent 技能目录", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": ["anthropic"]}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "low", "evidence": ["L13: Skills are portable instruction sets that teach AI agents how to use NVIDIA software optimally: Physical AI and robotics", "L17: Install NVIDIA skills with the default `skills` CLI flow. The NVIDIA Skill Finder skill will search this catalog and hel"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-24", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "NVIDIA/skills",
+ "sha": "53590b5f8c76",
+ "source": "readme",
+ "identity": {
+  "one_liner": "为编码 Agent 安装 NVIDIA 产品技能的官方目录",
+  "review": "NVIDIA 官方维护的 Agent Skills 目录，收录可移植的指令集，教 AI 编码代理使用 NVIDIA 软件：Physical AI 与机器人工作流、仿真、CUDA-X 库、RAG 与 AI Blueprints 及平台工具。技能在各产品仓库维护，经自动同步管道每日镜像至此。通过 skills CLI（npx）安装，支持指定 Claude Code、Codex、Cursor、Kiro、Snowflake CoCo 等目标代理，提供 Skill Finder 技能检索、批量安装、更新与上游合并清理，需 CLI v1.5.16 及以上。",
+  "highlights": [
+   "覆盖 CUDA-X（cuDF/cuML/cuOpt/DALI 等）、BioNeMo、Cosmos Data Factory、DeepStream、DOCA 等产品线技能",
+   "skills CLI 支持 --agent 定向安装到多个编码代理并可一次多目标",
+   "提供 Skill Finder 技能用于目录内检索与安装",
+   "自动同步管道每日镜像，npx skills update 支持更新与失效技能清理"
+  ],
+  "use_cases": [
+   "让 Claude Code/Codex 等代理按 NVIDIA 官方指引运行 cuOpt 求解、cuDF 加速等工作流",
+   "为分子模拟或药物发现任务检索并安装 BioNeMo 相关技能",
+   "在 Kubernetes 上部署 NVIDIA Dynamo 并排查互联问题"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-knowledge",
+  "license_risk": "permissive",
+  "deploy": "self-host",
+  "model_dep": "locked-api",
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent技能",
+   "CUDA",
+   "开发者工具",
+   "目录清单",
+   "NVIDIA生态"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [
+   "anthropic"
+  ],
+  "scenario_tags_v2": [
+   "prompt-engineering"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "low",
+  "evidence": [
+   "L13: Skills are portable instruction sets that teach AI agents how to use NVIDIA software optimally: Physical AI and robotics",
+   "L17: Install NVIDIA skills with the default `skills` CLI flow. The NVIDIA Skill Finder skill will search this catalog and hel"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-24",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

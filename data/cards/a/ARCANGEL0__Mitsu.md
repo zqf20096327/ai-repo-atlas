@@ -2,9 +2,9 @@
 
 ⭐ 542 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ARCANGEL0/Mitsu) · 个人维护
 
-**面向授权渗透测试的 AI 红队操作员，带 165+ MCP 工具**
+**授权渗透测试的 agentic 框架客户端，从侦察到后渗透**
 
-Mitsu 是一个以 chibi 角色呈现的红队助手 CLI/TUI 工具，用于授权渗透测试的完整流程：从侦察、攻击面测绘，到漏洞发现、利用与后渗透。其 MCP 服务器将模型连接到 165+ 个安全工具（17 类目录），模型在工具循环中根据证据选择下一步；会话持续维护 Intel（目标、端口、漏洞线索、发现等）。提供 Recon/Guided/AutoPwn 三种模式，安装缺工具、sudo 等操作需人工批准。支持 OpenAI、Anthropic、OpenRouter、Ollama、DeepSeek 等多种模型提供商。要求 Python 3.10+，pip 或脚本安装。
+Mitsu 是面向授权渗透测试工作流的 agentic 框架客户端：给定范围内目标与评估目标后，可执行侦察、主机与服务枚举、漏洞研究与验证并延续到后渗透。其 MCP 服务器将所选模型接入 165+ 个 Red Team Armory 工具（17 类）、外部 MCP 服务器与自定义命令封装；每个会话维护包含目标、服务、漏洞、证据的持久 Intel，可生成攻击面地图与评估报告。提供 Recon/Guided/AutoPwn 三种模式及审批机制，需 Python 3.10+，通过 pip 或 GitHub 源码安装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Mitsu 是一个以 chibi 角色呈现的红队助手 CLI/TUI 工具，用于授�
 
 ## 能力要点
 
-- 165+ 红队工具、17 类 Armory 目录经 MCP 服务器暴露给模型
-- Recon/Guided/AutoPwn 三种操作模式，安装与 sudo 需人工批准
-- 持久化会话 Intel：目标、服务、漏洞线索、发现与证据
-- 支持 8 家模型提供商及 OpenAI/Anthropic 兼容自定义端点
+- MCP 服务器接入 165+ 个红队工具（17 类）及外部 MCP 服务器
+- 会话级持久 Intel 记录目标、服务、漏洞、发现与证据
+- Recon/Guided/AutoPwn 三种模式，安装与 sudo 操作需人工审批
+- 支持从会话 Intel 生成攻击面地图与评估报告
 
 ## 适用场景
 
-- 授权渗透测试中让 AI 驱动侦察与漏洞验证流程
-- 用会话 Intel 维护目标资产与证据记录并生成报告
-- 通过对话按需调用 nmap、sqlmap 等 165+ 安全工具
+- 在授权范围内自动化执行从侦察到后渗透的渗透测试
+- 引导式模式下由操作者决定每一步测试方向
+- 整理会话证据生成评估报告与攻击面地图
 
 ## 场景标签
 
@@ -37,21 +37,21 @@ Mitsu 是一个以 chibi 角色呈现的红队助手 CLI/TUI 工具，用于授�
 
 ## 证据(README 行号)
 
-> L20: Mitsu is your chibi red-team companion for authorized penetration tests, built to help carry an engagement from the
-> L28: - **Model providers:** OpenAI, Anthropic, OpenRouter, Ollama, DeepSeek, Moonshot (Kimi), NVIDIA NIM, and Cloudflare
+> L20: Mitsu is an agentic framework client for authorized penetration-testing workflows. Given an in-scope target and obj
+> L26: - **Model providers:** OpenAI, Anthropic, OpenRouter, Ollama local and cloud, DeepSeek, Groq, Mistral AI, Together 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ARCANGEL0/Mitsu 星数(近 10 点)"
-    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-24"]
-    y-axis "stars" 534 --> 542
-    line [535, 536, 537, 535, 537, 538, 539, 540, 541, 541]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-25"]
+    y-axis "stars" 534 --> 543
+    line [535, 536, 537, 535, 537, 538, 539, 540, 541, 542]
 ```
 
-2026-10-24 535 → 2026-11-24 541（+6）
+2026-10-24 535 → 2026-11-25 542（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e81d4e246572` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5c1e714bc081` · [字段定义](../../DATASET.md)*

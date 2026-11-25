@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/ValueLens-for-Microsoft-Copilot 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-22", "2026-11-25"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-21 23 → 2026-11-24 23（+0）
+2026-10-22 23 → 2026-11-25 23（+0）
 
 
 ---

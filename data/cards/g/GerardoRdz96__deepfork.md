@@ -45,13 +45,13 @@ DeepFork 是一个读取 skills 的 agent 技能，用于逆向解析开源仓�
 
 ```mermaid
 xychart-beta
-    title "GerardoRdz96/deepfork 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-10", "2026-11-24"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "GerardoRdz96/deepfork 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-21 10 → 2026-11-24 12（+2）
+2026-10-23 11 → 2026-11-25 12（+1）
 
 
 ---

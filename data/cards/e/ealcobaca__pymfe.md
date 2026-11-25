@@ -46,12 +46,12 @@ pymfe 是一个 Python 元特征提取库，按 General、Statistical、Informat
 ```mermaid
 xychart-beta
     title "ealcobaca/pymfe 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-24"]
+    x-axis ["2026-11-22", "2026-11-25"]
     y-axis "stars" 146 --> 148
     line [147, 147]
 ```
 
-2026-11-22 147 → 2026-11-24 147（+0）
+2026-11-22 147 → 2026-11-25 147（+0）
 
 
 ---

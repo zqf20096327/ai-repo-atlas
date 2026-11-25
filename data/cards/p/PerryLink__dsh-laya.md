@@ -46,12 +46,12 @@ DeepSeek Harness 的社区插件（0.1.9），把 Laya 有类型决策模型（n
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-laya 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-07"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-10-18", "2026-11-25"]
+    y-axis "stars" 6 --> 11
+    line [7, 10]
 ```
 
-2026-10-18 7 → 2026-11-07 7（+0）
+2026-10-18 7 → 2026-11-25 10（+3）
 
 
 ---

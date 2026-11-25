@@ -45,12 +45,12 @@ CLI 形式的开发者问答 chatbot agent，基于 LangChain（可选 LangGraph
 ```mermaid
 xychart-beta
     title "AstrionDev/dev-copilot 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-22 14 → 2026-11-24 14（+0）
+2026-10-23 14 → 2026-11-25 14（+0）
 
 
 ---

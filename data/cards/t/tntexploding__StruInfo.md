@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tntexploding/StruInfo 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 90 --> 104
-    line [103, 91, 91]
+    title "tntexploding/StruInfo 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 90 --> 92
+    line [91, 91]
 ```
 
-2026-10-22 103 → 2026-11-24 91（-12）
+2026-10-23 91 → 2026-11-25 91（+0）
 
 
 ---

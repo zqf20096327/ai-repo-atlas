@@ -45,12 +45,12 @@ ZenGuard 提供面向 AI Agent 运行时的信任层 SDK，通过检测器在运
 ```mermaid
 xychart-beta
     title "ZenGuard-AI/fast-llm-security-guardrails 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-13", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
     y-axis "stars" 153 --> 156
     line [155, 154, 154]
 ```
 
-2026-10-22 155 → 2026-11-24 154（-1）
+2026-10-23 155 → 2026-11-25 154（-1）
 
 
 ---

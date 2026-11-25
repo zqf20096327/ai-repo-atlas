@@ -46,12 +46,12 @@ Cidadão.AI 的 FastAPI 后端：以 20 个具巴西文化身份命名的 AI 智
 ```mermaid
 xychart-beta
     title "anderson-ntlabs/cidadao.ai-backend 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-22 35 → 2026-11-24 35（+0）
+2026-10-23 35 → 2026-11-25 35（+0）
 
 
 ---

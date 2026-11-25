@@ -47,12 +47,12 @@ NativeLab 提供桌面 PyQt6 GUI 与终端 CLI 两种形态，在本机运行大
 ```mermaid
 xychart-beta
     title "7ZoneSystems/NativeLab 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-22 11 → 2026-11-24 11（+0）
+2026-10-23 11 → 2026-11-25 11（+0）
 
 
 ---

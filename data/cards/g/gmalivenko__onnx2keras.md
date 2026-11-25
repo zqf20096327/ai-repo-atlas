@@ -45,12 +45,12 @@ Python 库，读取 ONNX 模型图并转换为 Keras（TF.Keras 3）模型，支
 ```mermaid
 xychart-beta
     title "gmalivenko/onnx2keras 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 205 --> 207
     line [206, 206]
 ```
 
-2026-10-22 206 → 2026-11-24 206（+0）
+2026-10-23 206 → 2026-11-25 206（+0）
 
 
 ---

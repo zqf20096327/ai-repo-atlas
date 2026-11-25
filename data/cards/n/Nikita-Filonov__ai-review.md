@@ -2,9 +2,9 @@
 
 ⭐ 613 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Nikita-Filonov/ai-review) · [官网](https://boosty.to/ai_review) · 个人维护
 
-**在 CI/CD 中自动生成 AI 代码评审评论的开发者工具**
+**在 CI/CD 中为 PR/MR 自动生成 AI 代码评审的工具**
 
-面向开发团队的 CLI 工具，在 GitHub Actions、GitLab CI 等流水线中运行，针对 Pull/Merge Request 生成行内评论、跨文件分析、总结评审及对既有评论线程的 AI 回复。支持选择 OpenAI、Claude、Gemini、Ollama、Bedrock、OpenRouter、Azure OpenAI 作为 LLM 后端，可在配置中切换。提供 Agent 模式（ReAct 式迭代、用 shell 命令探索仓库后给出评审），通过 YAML/JSON/ENV 配置；完全客户端运行，数据仅发往所配置的 LLM 端点。
+面向开发团队的 AI 代码评审工具，以 Python 包与 Docker 镜像发布，在 CI/CD 流水线中运行并向 GitHub、GitLab、Bitbucket、Azure DevOps、Gitea 的合并请求发布行内评论、总结评审与回复。支持 OpenAI、Claude、Gemini、Ollama、Bedrock、OpenRouter、Azure OpenAI 七个 LLM 提供方可切换；提供 Agent 模式（ReAct 循环，模型可用 shell 命令探索仓库）；配置支持 YAML/JSON/ENV；声明完全客户端运行，不代理或存储源代码，可配置本地 Ollama 实现离线评审。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 五种评审模式：inline/context/summary 及两种回复模式，通过 CLI 子命令运行
-- Agent 模式：模型先以 ls/cat/rg/git 增量探索仓库再产出评审
-- 开箱支持 GitHub/GitLab/Bitbucket Cloud/Bitbucket Server/Azure DevOps/Gitea 六种 VCS
-- 可配置 Ollama 本地运行时实现离线评审，数据不出基础设施
+- 五种评审模式：inline、summary、context、inline-reply、summary-reply
+- Agent 模式：模型用 ls/cat/rg/git 迭代探索仓库后再评审
+- 七种 LLM 提供方可选，Ollama 支持本地离线评审
+- 内置 GitHub Actions 与 GitLab CI/CD 集成模板
 
 ## 适用场景
 
-- 在 CI 流水线中对 PR/MR 自动生成行内与总结评审
-- 让 AI 在既有评审讨论线程中补充回复
-- 使用本地 Ollama 在内网环境离线执行代码评审
-- 按团队编码规范自定义 inline/context/summary 提示词模板
+- 在 GitHub/GitLab 的 PR/MR 上自动发布 AI 行内与总结评审
+- 让模型先探索代码库再做跨文件问题分析
+- 用自托管 Ollama 在内网环境离线运行代码评审
+- 按团队编码规范自定义评审提示词与文件过滤策略
 
 ## 场景标签
 
@@ -39,20 +39,21 @@
 ## 证据(README 行号)
 
 > L42: **AI Review** is a developer tool that brings **AI-powered code review** directly into your workflow. It helps team
+> L47: - **Multiple LLM providers** — choose between **OpenAI**, **Claude**, **Gemini**, **Ollama**, **Bedrock**,
 > L59: AI Review runs automatically in your CI/CD pipeline and posts both **inline comments**, **summary reviews**, and no
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "Nikita-Filonov/ai-review 星数(近 16 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-24"]
-    y-axis "stars" 595 --> 613
-    line [599, 598, 597, 596, 598, 599, 600, 597, 603, 605, 607, 608, 609, 610, 612, 612]
+    title "Nikita-Filonov/ai-review 星数(近 15 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-25"]
+    y-axis "stars" 595 --> 614
+    line [598, 597, 596, 598, 599, 600, 597, 603, 605, 607, 608, 609, 610, 612, 613]
 ```
 
-2026-10-22 599 → 2026-11-24 612（+13）
+2026-10-23 598 → 2026-11-25 613（+15）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `11c01a3694b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `577e3ba2cb97` · [字段定义](../../DATASET.md)*

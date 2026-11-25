@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "prestonlogan/Qwen3.8-Flash-Next-Single-DGX-Spark-Ultrafast 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 5 --> 10
+    line [6, 9]
 ```
 
-2026-11-23 6 → 2026-11-24 6（+0）
+2026-11-23 6 → 2026-11-25 9（+3）
 
 
 ---

@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Open-course-ai/open-course-cli 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-24"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-11-19", "2026-11-25"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-11-19 17 → 2026-11-24 17（+0）
+2026-11-19 17 → 2026-11-25 18（+1）
 
 
 ---

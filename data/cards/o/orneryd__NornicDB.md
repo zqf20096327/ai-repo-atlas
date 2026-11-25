@@ -2,9 +2,9 @@
 
 ⭐ 936 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/orneryd/NornicDB) · 个人维护
 
-**兼容 Neo4j 协议的图+向量数据库，供开发者运行图检索与 AI 记忆**
+**兼容 Neo4j/Qdrant 的图+向量混合数据库，开发者可无缝替换**
 
-用 Go 编写的图数据库，在同一存储中提供 Cypher 查询、图遍历、向量搜索与基于 MVCC 的历史读取，支持 Bolt 与 HTTP 接口，可嵌入 Go 应用。与 Neo4j Bolt/Cypher 及 qdrant gRPC 协议兼容，宣称可无缝切换；提供托管 embedding、重排序+LLM、GPU 加速等面向 AI 场景的功能，包含 MCP server 相关能力。通过 Homebrew、Docker 镜像（CPU/CUDA/Vulkan）、macOS .pkg 安装包或源码构建部署。
+NornicDB 是一个将图查询、向量检索与历史读取结合的图数据库，使用 Cypher 查询语言与 Bolt/HTTP 接口，支持 Neo4j Bolt/Cypher 与 qdrant gRPC 协议迁移，可嵌入 Go 应用。特性包括 MVCC 历史读取、子毫秒 HNSW 搜索、模式管理、托管嵌入、重排序+LLM、MCP server，支持 CPU/CUDA/Metal/Vulkan 多架构部署。通过 Homebrew、Docker、macOS 安装包或源码构建安装，MIT 许可。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@
 
 ## 能力要点
 
-- 同时提供图遍历、向量搜索与全文检索的混合查询
-- MVCC 历史读取与事务、持久化
-- 兼容 Neo4j Bolt/Cypher 与 qdrant gRPC 协议
-- 多架构支持：CPU/CUDA/Metal/Vulkan
+- 兼容 Neo4j Bolt/Cypher 与 qdrant gRPC 协议，可零改动切换
+- MVCC 历史读取与时间旅行查询
+- 子毫秒 HNSW 向量搜索、图遍历与写入
+- 支持 CPU、CUDA、Metal、Vulkan 多架构与 GPU 加速
 
 ## 适用场景
 
-- 为 RAG 应用提供图+向量混合检索存储
-- 从 Neo4j 或 qdrant 迁移而少改动代码
-- 作为 agent 的记忆存储后端
-- 需要历史状态查询的图数据建模
+- 从 Neo4j 或 Qdrant 迁移而不改动客户端代码
+- 为 AI Agent 提供图+向量混合检索的持久记忆
+- 需要历史状态读取与时间点查询的数据建模
+- 嵌入 Go 应用内运行的本地图数据库
 
 ## 场景标签
 
-`向量数据库` `知识图谱` · 领域:知识与检索
+`向量数据库` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L5:  Graph, vector, and historical truth in one database
-> L6:  Neo4j-compatible • Hybrid graph + vector retrieval • Historical reads via MVCC
 > L65: NornicDB is a graph database that combines Cypher queries, graph traversal, vector search, and historical reads. It
+> L69: - Query connected data using Cypher and compatible Bolt drivers.
+> L83: - Vector search, memory policies, and agent integration.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "orneryd/NornicDB 星数(近 16 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 913 --> 937
-    line [915, 917, 916, 918, 919, 920, 921, 916, 924, 928, 930, 931, 932, 933, 935, 935]
+    title "orneryd/NornicDB 星数(近 15 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 914 --> 938
+    line [917, 916, 918, 919, 920, 921, 916, 924, 928, 930, 931, 932, 933, 935, 936]
 ```
 
-2026-10-22 915 → 2026-11-24 935（+20）
+2026-10-23 917 → 2026-11-25 936（+19）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `46f7476db518` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `8e81f3864370` · [字段定义](../../DATASET.md)*

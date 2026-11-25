@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vickyvenu190-web/precision-arena-trainer 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-22 55 → 2026-11-24 55（+0）
+2026-10-23 55 → 2026-11-25 55（+0）
 
 
 ---

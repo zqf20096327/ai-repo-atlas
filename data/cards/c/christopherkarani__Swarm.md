@@ -2,9 +2,9 @@
 
 ⭐ 588 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/christopherkarani/Swarm) · [官网](https://christopherkarani.github.io/Swarm/) · 个人维护
 
-**Swift 原生 AI agent 运行时：类型安全工具与多 agent 工作流**
+**Swift 原生 AI agent 运行时：类型安全工具与端侧推理**
 
-面向 Swift 开发者的 agent 运行时库，用 Swift Package Manager 安装。提供编译期从 Swift 类型生成工具 schema 的 @Tool 宏、Workflow/Job 组合原语（串行、并行、路由、超时）、会话与多种记忆策略、guardrails、流式事件与 OpenTelemetry 追踪、MCP 桥接及检查点恢复。推理通过可插拔 InferenceProvider 接入 Apple Foundation Models（设备端）、Ollama、LM Studio、OpenAI 兼容 API 或自定义后端。支持 iOS/macOS 26.0+ 与 Ubuntu 22.04+，Apple 专属功能在 Linux 上不可用。
+面向 Swift 开发者的 agent 构建运行时，提供 @Tool 宏在编译期从 Swift 类型生成工具 schema、Workflow/Job 两种多 agent 组合方式、会话与多种记忆策略、输入输出护栏、流式事件、检查点恢复与 OpenTelemetry 追踪。推理层可插拔：支持 Apple Foundation Models 端侧推理、Ollama/LM Studio 本地模型与 OpenAI 兼容云 API。通过 Swift Package Manager 安装，要求 Swift 6.2+，支持 iOS/macOS/Linux；Foundation Models 等 Apple 专属能力在 Linux 上不可用。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- @Tool 宏在编译期从 Swift 类型生成工具 schema，Swift 6.2 严格并发检查
-- Workflow/Job 支持串行、并行、路由、重复与超时的多 agent 组合
-- 可插拔 InferenceProvider：Apple Foundation Models 设备端推理、Ollama、LM Studio、OpenAI 兼容 API
-- 记忆、guardrails、重试/熔断、流式、MCP、检查点恢复与 OpenTelemetry 追踪
+- @Tool 宏在编译期从 Swift 类型生成工具 schema
+- Apple Foundation Models 端侧推理与 OS 27 私有云计算通道
+- Workflow 串行/并行/路由组合与检查点恢复
+- 多种记忆策略（会话/滑窗/向量/摘要/混合）与护栏校验
 
 ## 适用场景
 
-- 在 iOS/macOS 应用中构建带设备端推理的 AI agent
-- 组装串行/并行/路由的多 agent 工作流并做检查点恢复
-- Swift 项目中接入 Ollama 或 OpenAI 兼容 API 构建本地/云端 agent
-- 为 agent 输入输出与工具参数加校验 guardrails
+- 在 iOS/macOS 应用中内置端侧推理的 AI agent
+- 用 Swift 构建多 agent 串行或并行工作流
+- 本地/私有化部署时通过 Ollama 接入本地模型
 
 ## 场景标签
 
@@ -39,21 +38,21 @@
 ## 证据(README 行号)
 
 > L5: Swarm is a Swift-native agent runtime for type-safe tools, on-device Apple
-> L6: Foundation Models, composable workflows, memory, guardrails, and streaming.
-> L105: Every agent uses a pluggable `InferenceProvider`. The agent loop stays the
+> L87: Add memory, guardrails, retries, fallbacks, streaming, tracing, MCP, and
+> L112: Every agent uses a pluggable `InferenceProvider`. The agent loop stays the
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "christopherkarani/Swarm 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
     y-axis "stars" 583 --> 589
     line [584, 585, 586, 587, 586, 588, 588]
 ```
 
-2026-10-22 584 → 2026-11-24 588（+4）
+2026-10-23 584 → 2026-11-25 588（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e00fdee9b85e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `21f090842cb8` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "WangPeterXF/session-harbor 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 85 --> 96
-    line [95, 86, 86]
+    title "WangPeterXF/session-harbor 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 85 --> 87
+    line [86, 86]
 ```
 
-2026-10-22 95 → 2026-11-24 86（-9）
+2026-10-23 86 → 2026-11-25 86（+0）
 
 
 ---

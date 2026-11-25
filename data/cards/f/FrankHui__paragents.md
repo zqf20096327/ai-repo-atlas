@@ -44,13 +44,13 @@ Paragents 是一个基于 asyncio 的多会话并行 agent 运行时，以 TUI �
 
 ```mermaid
 xychart-beta
-    title "FrankHui/paragents 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 232 --> 240
-    line [239, 236, 233, 233]
+    title "FrankHui/paragents 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 232 --> 237
+    line [236, 233, 233]
 ```
 
-2026-10-22 239 → 2026-11-24 233（-6）
+2026-10-23 236 → 2026-11-25 233（-3）
 
 
 ---

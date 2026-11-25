@@ -45,12 +45,12 @@ ICML 2025 论文 Spherical Diffusion Policy 的官方实现：一个基于球面
 ```mermaid
 xychart-beta
     title "amazon-science/Spherical_Diffusion_Policy 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-24"]
+    x-axis ["2026-11-20", "2026-11-25"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-11-20 46 → 2026-11-24 46（+0）
+2026-11-20 46 → 2026-11-25 46（+0）
 
 
 ---

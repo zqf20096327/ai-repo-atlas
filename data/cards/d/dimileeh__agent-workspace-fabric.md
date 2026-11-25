@@ -46,12 +46,12 @@ AI 编码 agent 的本地控制平面（alpha）：为 Codex、Claude Code、Cur
 ```mermaid
 xychart-beta
     title "dimileeh/agent-workspace-fabric 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-21 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

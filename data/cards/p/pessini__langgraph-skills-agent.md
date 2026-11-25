@@ -45,12 +45,12 @@ Medium 文章《Stop Stuffing Your System Prompt》的配套演示仓库：在 L
 ```mermaid
 xychart-beta
     title "pessini/langgraph-skills-agent 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-22 14 → 2026-11-24 14（+0）
+2026-10-23 14 → 2026-11-25 14（+0）
 
 
 ---

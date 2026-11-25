@@ -46,12 +46,12 @@ WorkBuddy Skill：将 AI 通过麦当劳中国 MCP Server 点餐的过程包装�
 ```mermaid
 xychart-beta
     title "alexliuxiaoting/mealpr 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-22 3 → 2026-11-24 3（+0）
+2026-10-23 3 → 2026-11-25 3（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 614 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/tomas-gajarsky/facetorch) · 个人维护
 
-**面向开发者与科研的人脸检测与分析 Python 库**
+**基于 PyTorch 的人脸检测与分析 Python 库**
 
-基于 PyTorch 的人脸检测与分析库，整理社区开源人脸模型并以 torch.export（.pt2）格式打包，集成进统一的人脸分析工具链，支持检测、3D 对齐、面部动作单元等预测器。通过 Hydra/OmegaConf 配置，输入支持本地路径、张量、NumPy、PIL 与字节，输出 AnalysisResult。提供 pip 安装、Docker 镜像与离线模式；当前分支准备 1.0.0rc4（Beta，尚未发布），Linux x86-64 为官方候选平台。
+facetorch 是一个用于人脸检测与分析的 Python 库，将社区开源人脸分析模型打包为 torch.export（.pt2）可移植模型并集成到统一工具链中。通过 Hydra/OmegaConf 进行可定制配置，支持 Docker 容器化与 conda-lock 依赖锁定以保证环境可复现；输入支持本地路径、张量、NumPy 数组、PIL 图像与字节流。RC5 要求 Python 3.11/3.12，Linux x86-64 为官方支持平台，Windows/macOS/ARM 为实验性。提供 pip、Docker/Compose 与 Python API 三种使用方式。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 社区人脸模型以 torch.export（.pt2）格式打包，推理无需模型源码
-- Hydra/OmegaConf 配置与 CPU/GPU profile 加载
-- 输入支持本地路径/张量/NumPy/PIL/字节，含确定性输入强制策略
-- FACETORCH_OFFLINE 环境变量禁止全部模型网络请求
+- 模型以 torch.export 序列化为 .pt2 格式，推理时无需模型源码
+- Hydra/OmegaConf 可定制配置与 Docker 容器化运行
+- 输入支持路径、张量、NumPy、PIL、bytes 的统一管道
+- URLReader 提供带超时、重定向与大小上限的显式远程读取配置
 
 ## 适用场景
 
-- 对图像执行人脸检测并绘制边界框与 3D 面部关键点
-- 按需选择预测器组合进行人脸分析
-- 在 CPU 或 CUDA 环境下以 Docker 容器运行分析脚本
+- 检测图像中人脸并生成边界框与 3D 关键点
+- 批量运行人脸验证、表情识别等分析模型
+- 用 Docker Compose 在 CPU/GPU 上运行人脸分析示例
 
 ## 场景标签
 
@@ -45,13 +45,13 @@
 ```mermaid
 xychart-beta
     title "tomas-gajarsky/facetorch 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
     y-axis "stars" 611 --> 616
     line [612, 613, 614, 612, 614, 615, 614, 614]
 ```
 
-2026-10-22 612 → 2026-11-24 614（+2）
+2026-10-23 612 → 2026-11-25 614（+2）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `777eba10ed3a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5bfc47ad1e56` · [字段定义](../../DATASET.md)*

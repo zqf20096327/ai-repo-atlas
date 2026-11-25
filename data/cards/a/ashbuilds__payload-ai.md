@@ -2,15 +2,15 @@
 
 ⭐ 565 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/ashbuilds/payload-ai) · 个人维护
 
-**为 Payload CMS 提供 AI 文本/图像/语音能力的插件**
+**Payload CMS 的 AI 内容生成插件：文本、图像与语音**
 
-Payload CMS（v3）的第三方插件，在文本与富文本字段上接入 AI 生成：撰写、校对（Beta）、翻译、改写（Beta），上传字段支持 OpenAI（DALL-E/GPT-Image-1）图像生成与 ElevenLabs/OpenAI 语音生成。支持自带模型与字段级提示词，凭证可经环境变量或插件配置注入。引用图片需实现服务端 storage resolver（4.0.0 破坏性变更），并拒绝大于 20 MiB 的文件；处于 Beta 阶段。以 npm 包安装，面向 Payload 开发者。
+面向 Payload CMS 的 TypeScript 插件，在 CMS 内提供 AI 辅助内容工作流：文本字段支持生成、校对、翻译、改写（部分为 Beta），上传字段支持语音合成（ElevenLabs、OpenAI）与图像生成（DALL-E、GPT-Image-1）。机制上支持自定义模型接入、字段级提示词、访问控制、i18n 与自定义 UI 组件。当前为 Beta 状态，测试于 Payload v3.88.0；4.0.0 起参考图像需显式配置存储 resolver，插件自身不抓取外部 URL。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
@@ -20,16 +20,17 @@ Payload CMS（v3）的第三方插件，在文本与富文本字段上接入 AI 
 
 ## 能力要点
 
-- 文本字段提供 Compose/Proofread/Translate/Rephrase 等 AI 操作
-- 上传字段支持 OpenAI 图像生成与 ElevenLabs/OpenAI 语音生成
-- 支持自带模型、字段级提示词与访问控制（多租户）
-- API 凭证支持环境变量或插件配置两种注入方式
+- 文本字段生成/校对/翻译/改写，字段级提示词自定义
+- 语音（ElevenLabs、OpenAI）与图像（DALL-E、GPT-Image-1）生成
+- BYOM 自定义模型接入与字段级访问控制
+- 参考图像需服务端 resolveReferenceImage resolver，内置 20 MiB 限制与 30 秒超时
 
 ## 适用场景
 
-- 在 Payload CMS 编辑器内直接生成、翻译或润色内容
-- 上传字段中生成配图或语音素材
-- 按字段与权限控制不同角色的 AI 功能使用
+- 在 Payload CMS 后台让编辑人员直接生成和润色文章内容
+- 为多语言站点批量翻译字段内容
+- 在 CMS 内直接生成配图与语音素材
+- 按角色限制谁能使用 AI 功能的多租户内容团队
 
 ## 场景标签
 
@@ -37,22 +38,21 @@ Payload CMS（v3）的第三方插件，在文本与富文本字段上接入 AI 
 
 ## 证据(README 行号)
 
-> L13: The Payload AI Plugin is your secret weapon for turbocharged content creation. It seamlessly integrates cutting-edg
-> L43: - 🎙️ **Voice Generation** - Powered by ElevenLabs & OpenAI
-> L48: - 🔌 **Bring Your Own Model** - Not limited to our defaults
+> L13: Payload AI adds AI-assisted content workflows to Payload CMS. Generate and edit text, create images and synthesize 
+> L55: - 🔌 **Bring Your Own Model** - Not limited to our defaults
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "ashbuilds/payload-ai 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-25"]
     y-axis "stars" 557 --> 566
-    line [558, 559, 560, 558, 562, 564, 565, 564, 564]
+    line [558, 559, 560, 558, 562, 564, 565, 564, 565]
 ```
 
-2026-10-22 558 → 2026-11-24 564（+6）
+2026-10-23 558 → 2026-11-25 565（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `26e3fc892a15` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `da10247b104a` · [字段定义](../../DATASET.md)*

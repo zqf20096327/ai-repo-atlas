@@ -45,12 +45,12 @@ ParaAttention 是一个以 Python 包发布的推理加速库：通过上下文�
 ```mermaid
 xychart-beta
     title "chengzeyi/ParaAttention 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-23", "2026-11-25"]
     y-axis "stars" 435 --> 437
     line [436, 436]
 ```
 
-2026-11-23 436 → 2026-11-24 436（+0）
+2026-11-23 436 → 2026-11-25 436（+0）
 
 
 ---

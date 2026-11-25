@@ -45,13 +45,13 @@ Lumen 是面向 SaaS 开发者的计费与授权（entitlements）平台：以�
 
 ```mermaid
 xychart-beta
-    title "pretzelai/lumen 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 28 --> 31
-    line [30, 29, 29]
+    title "pretzelai/lumen 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
 ```
 
-2026-10-22 30 → 2026-11-24 29（-1）
+2026-10-23 29 → 2026-11-25 29（+0）
 
 
 ---

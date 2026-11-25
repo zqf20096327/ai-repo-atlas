@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "malevrigns/atlas-agent-control-plane 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 98 --> 107
-    line [106, 104, 99, 99]
+    title "malevrigns/atlas-agent-control-plane 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 98 --> 105
+    line [104, 99, 99]
 ```
 
-2026-10-22 106 → 2026-11-24 99（-7）
+2026-10-23 104 → 2026-11-25 99（-5）
 
 
 ---

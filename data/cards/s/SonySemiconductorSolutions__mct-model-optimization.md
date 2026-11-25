@@ -2,9 +2,9 @@
 
 ⭐ 450 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/SonySemiconductorSolutions/mct-model-optimization) · [官网](https://sonysemiconductorsolutions.github.io/mct-model-optimization/) · 组织维护
 
-**神经网络模型量化压缩工具包：面向受限硬件部署优化模型**
+**面向边缘硬件的神经网络量化压缩工具库**
 
-索尼半导体解决方案维护的 Python 库，对预训练浮点模型（PyTorch/Keras）执行训练后量化（PTQ）、梯度式 GPTQ/EPTQ、量化感知训练（QAT）、混合精度搜索、结构化剪枝与数据无关量化（基于 BN 统计生成合成数据）。通过 TPC（Target Platform Capabilities）描述目标硬件约束进行硬件感知优化，支持 IMX500 Converter 配套测试。提供 TensorBoard 可视化与 XQuant 量化误差分析报告。用户需自备预训练浮点模型。
+Sony 半导体团队开源的模型压缩工具包，在算力与存储受限的硬件上优化神经网络以供边缘部署。提供 PTQ、GPTQ、QAT 三种量化流程，配合混合精度搜索、图优化、结构化剪枝、无数据量化（Data Generation）、网络编辑器与 TensorBoard 可视化/XQuant 调试报告等能力。通过 TPC（Target Platform Capabilities）描述目标硬件约束实现硬件感知量化。需用户提供 PyTorch/Keras 预训练浮点模型作为输入，支持将 32-bit 浮点模型量化为 8-bit（或更低）定点模型。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- PTQ/GPTQ(QAT) 三种量化流程，PyTorch 与 Keras 双 API
-- TPC 硬件感知优化，针对目标硬件约束量化
-- 数据无关量化：基于 BN 层统计生成合成图像
-- 结构化剪枝、混合精度搜索与 XQuant 误差分析
+- PTQ/GPTQ/QAT 三种量化流程，附 API 与教程笔记本
+- TPC 硬件感知优化，可描述目标硬件约束
+- 结构化剪枝与无数据量化（基于 BN 层统计生成合成图像）
+- XQuant 可解释量化报告与逐层错误排查工具
 
 ## 适用场景
 
-- 把浮点模型压到 8 位以下以部署到边缘硬件
-- 在缺少真实数据时用数据生成做训练后量化
-- 定位量化后精度损失来源并获得改进建议
+- 将训练好的模型量化后部署到边缘设备
+- 对量化后精度下降的模型做逐层错误定位与调优
+- 没有训练数据时基于模型统计做无数据量化
 
 ## 场景标签
 
@@ -38,21 +38,21 @@
 ## 证据(README 行号)
 
 > L13: Pip install the model compression toolkit package in a Python>=3.10 environment with PyTorch>=2.3 or Tensorflow>=2.
-> L35: For each flow, **Quantization core** utilizes various algorithms and hyper-parameters for optimal hardware-aware qu
+> L44: MCT offers a range of powerful features to optimize models for efficient edge deployment. These supported features 
 > L58: 🎯 **TPC (Target Platform Capabilities)**. Describes the target hardware’s constrains, for which the model optimizat
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "SonySemiconductorSolutions/mct-model-optimization 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 449 --> 453
-    line [452, 451, 450, 451, 450, 450]
+    title "SonySemiconductorSolutions/mct-model-optimization 星数(近 5 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 449 --> 452
+    line [451, 450, 451, 450, 450]
 ```
 
-2026-10-22 452 → 2026-11-24 450（-2）
+2026-10-23 451 → 2026-11-25 450（-1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9b8a37b8ab28` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `01b1ee5dac8c` · [字段定义](../../DATASET.md)*

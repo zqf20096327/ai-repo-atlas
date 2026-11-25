@@ -45,13 +45,13 @@ Obsidian 社区插件，在 Obsidian 内运行 lilbee 本地引擎：对整个 v
 
 ```mermaid
 xychart-beta
-    title "tobocop2/obsidian-lilbee 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-10", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    title "tobocop2/obsidian-lilbee 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13, 13]
 ```
 
-2026-10-22 10 → 2026-11-24 13（+3）
+2026-10-23 11 → 2026-11-25 13（+2）
 
 
 ---

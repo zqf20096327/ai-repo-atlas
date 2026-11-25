@@ -44,12 +44,12 @@ DeepMind 论文《Evaluating Frontier Models for Dangerous Capabilities》的评
 ```mermaid
 xychart-beta
     title "google-deepmind/dangerous-capability-evaluations 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 75 --> 78
     line [76, 77, 77]
 ```
 
-2026-10-22 76 → 2026-11-24 77（+1）
+2026-10-23 76 → 2026-11-25 77（+1）
 
 
 ---

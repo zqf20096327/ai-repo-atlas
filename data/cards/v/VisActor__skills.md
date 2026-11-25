@@ -2,15 +2,15 @@
 
 ⭐ 491 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/VisActor/skills) · [官网](https://www.visactor.com/skills) · 组织维护 · 中文 README
 
-**为宿主 Agent 提供数据故事、杂志图文与生平海报生成技能**
+**为支持 Skills 的 Agent 提供图表、数据故事与海报工具集**
 
-面向 Codex/Claude Code 等宿主 Agent 的技能集，用 npx skills add 安装 chart-storytelling、editorial-magazine、life-chronicle；每个技能含 SKILL.md、参考、模板与脚本，模型与工具执行由宿主提供，无需 VisActor CLI、MCP 服务或模型 key。可输出 HTML 数据故事、Web-PPT、杂志图文与生平海报；VChart/VTable 技能另行维护在对应仓库。
+VisActor Skills 为 Claude Code、Codex、WorkBuddy、豆包工作等支持 Skills 协议的 Agent 提供可安装的技能包，覆盖商务图表、图表叙事、交互式数据故事、杂志式图文、传记海报、业务/地图仪表盘与自助图表编辑等任务。每个 Skill 以 SKILL.md、参考文件与脚本组成的独立目录发布，可通过 npx skills add 命令行安装，或经 GitHub Releases 下载 ZIP 手动导入；各 Skill 有各自的 Python/Node/浏览器运行时要求。图表与表格技能维护在 VChart/VTable 各自仓库中单独安装。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 本仓库维护 chart-storytelling、editorial-magazine、life-chronicle 三个技能
-- 每个技能包含 SKILL.md、参考、模板与脚本，可独立安装
-- 无需 VisActor CLI、MCP server、模型 key 或托管 VisActor API；宿主 Agent 提供模型
-- 输出 HTML 故事/Web-PPT、HTML/PNG 杂志系列与带可编辑时间线的生平海报
+- 11 个独立可安装 Skill，覆盖图表、数据故事、海报与仪表盘任务
+- 支持 npx skills add 命令行安装与 ZIP 手动导入两种途径
+- 每个 Skill 自含 SKILL.md、模板资源与脚本，并有确定性回归测试
+- VChart/VTable 技能从各自库仓库直接安装
 
 ## 适用场景
 
-- 让我的 Agent 把 CSV 数据解释成可分享的 HTML 数据故事或 Web-PPT
-- 把文章和来源资料转成可编辑的 HTML/PNG 杂志图文系列
-- 用照片与事件资料生成带可编辑时间线的生平海报
+- 让 Agent 把 CSV 数据生成可分享的 HTML 数据故事或 Web-PPT
+- 把文章与素材转成杂志风格的 HTML/PNG 系列图文
+- 从有出处的事件与照片生成带时间线的传记海报
+- 搭建含指标、筛选和地图的业务仪表盘
 
 ## 场景标签
 
@@ -37,22 +38,22 @@
 
 ## 证据(README 行号)
 
-> L5: Agent skills for the VisActor visualization ecosystem. Create data stories, editorial image series and biography pos
-> L26: Each skill includes its instructions, local references, templates and scripts. No separate VisActor CLI, MCP server
-> L28: **Recommended: use the Skills directly in Codex or Claude Code.** Your agent provides model access and tool executi
+> L5: VisActor Skills provides chart, dashboard, data story and poster tools for Claude Code, Codex, WorkBuddy, Doubao Wor
+> L9: ## Skills
+> L34: Each Skill can be installed separately and includes its instructions, references and scripts. The agent provides mo
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "VisActor/skills 星数(近 16 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 470 --> 491
-    line [471, 472, 473, 472, 475, 477, 480, 483, 484, 487, 488, 489, 490, 489, 490, 490]
+    title "VisActor/skills 星数(近 15 点)"
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 471 --> 492
+    line [472, 473, 472, 475, 477, 480, 483, 484, 487, 488, 489, 490, 489, 490, 491]
 ```
 
-2026-10-21 471 → 2026-11-24 490（+19）
+2026-10-23 472 → 2026-11-25 491（+19）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b223143026b9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `16175a7b5d55` · [字段定义](../../DATASET.md)*

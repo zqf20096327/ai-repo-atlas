@@ -44,12 +44,12 @@ PowershAI 是一个 PowerShell 模块，让用户在 PowerShell 脚本与命令�
 ```mermaid
 xychart-beta
     title "rrg92/powershai 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-22 61 → 2026-11-24 61（+0）
+2026-10-23 61 → 2026-11-25 61（+0）
 
 
 ---

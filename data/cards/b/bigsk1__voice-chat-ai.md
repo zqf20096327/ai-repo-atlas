@@ -2,9 +2,9 @@
 
 ⭐ 471 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bigsk1/voice-chat-ai) · 个人维护
 
-**本地/云端皆可的语音对话 AI 应用，与多个 AI 角色用语音交流**
+**本地自托管的 AI 角色语音对话应用，支持多 LLM 与多 TTS**
 
-面向终端用户的语音对话应用：用户与预置 AI 角色（如爱因斯坦、电影 HER 的 OS）进行语音对话，可运行 Web UI 或 CLI。聊天模型支持 OpenAI、xAI、Anthropic、Ollama（可全本地运行）；语音合成支持 Spark-TTS（本地零样本克隆）、OpenAI TTS（含 gpt-4o-mini-tts 与 WebRTC 实时对话）、ElevenLabs、Kokoro、Typecast、Speechify、xAI 等。转写默认用 OpenAI，可选本地 Faster Whisper。另含情感分析与 15+ 种互动游戏/故事模式。安装途径为 pip + git clone 源码或 Docker，README 明确推荐原生安装（麦克风与音频体验），ffmpeg 为必需系统依赖。
+基于 FastAPI 的 Web 应用：用户通过麦克风与不同性格/声音的 AI 角色语音对话，聊天可接 OpenAI、xAI、Anthropic 或 Ollama，语音合成可接 Spark-TTS（本地零样本声音克隆）、OpenAI TTS、ElevenLabs、Kokoro、Typecast、Speechify、xAI TTS，转写默认 OpenAI、可选本地 Faster Whisper；另含情绪分析调整回复、15+ 互动游戏与故事模式、Web UI 与 CLI 两种用法。支持 Docker（含 CUDA 镜像），README 建议实时语音场景原生安装。
 
 ## 筛选速览
 
@@ -20,41 +20,40 @@
 
 ## 能力要点
 
-- 聊天模型支持 OpenAI/xAI/Anthropic/Ollama，可全本地运行
-- TTS 支持 Spark-TTS（本地零样本克隆）、OpenAI、ElevenLabs、Kokoro、Typecast、Speechify、xAI 等
-- OpenAI WebRTC Realtime API 实时可打断对话
-- 15+ 种互动游戏与故事模式，内置大量 AI 角色
-- 提供 Web UI 与 CLI 两种使用方式
+- 聊天与语音提供方可任意混搭（如 ElevenLabs 声音配 Ollama 模型）
+- Spark-TTS 本地零样本声音克隆，可用自定义 .wav 样本
+- OpenAI WebRTC Realtime API 实时对话，可随时打断
+- 15+ 互动游戏类型与沉浸式故事模式
 
 ## 适用场景
 
-- 与不同性格的 AI 角色进行语音对话或角色扮演
-- 用 Ollama + 本地 TTS 搭建完全离线的语音对话伙伴
-- 体验 OpenAI 实时语音对话（可打断、带情感）
-- 玩 AI 主持的文字解谜、密室逃脱等互动游戏
+- 本地部署与 AI 角色进行语音聊天
+- 玩由 AI 主持的密室/文字游戏与互动故事
+- 用本地模型（Ollama）+ 本地 TTS 实现离线语音对话
+- 用自定义声音样本做语音克隆角色
 
 ## 场景标签
 
-`语音 Agent` `聊天机器人` · 领域:对话与助手
+`语音 Agent` `语音合成` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L6: Voice Chat AI is a project that allows you to interact with different AI characters using speech. You can choose bet
-> L8: You can run all locally, you can use openai for chat and voice, you can mix between the two. You can use ElevenLabs 
 > L34: - **Supports OpenAI, xAI, Anthropic or Ollama language models**: Choose the model that best fits your needs.
+> L35: - **Provides text-to-speech synthesis using Spark-TTS or OpenAI TTS or ElevenLabs or Kokoro TTS or Typecast or Spee
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "bigsk1/voice-chat-ai 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
     y-axis "stars" 466 --> 472
     line [467, 468, 469, 467, 470, 471, 471]
 ```
 
-2026-10-22 467 → 2026-11-24 471（+4）
+2026-10-23 467 → 2026-11-25 471（+4）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `2f72905ceeed` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ee03277e44c3` · [字段定义](../../DATASET.md)*

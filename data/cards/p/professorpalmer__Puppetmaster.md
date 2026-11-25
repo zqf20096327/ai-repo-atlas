@@ -2,9 +2,9 @@
 
 ⭐ 482 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/professorpalmer/Puppetmaster) · 个人维护
 
-**为开发者编排既有 agent CLI 的持久状态作业控制平面**
+**给 agent 编排工程任务的控制平面：持久化作业、worker 与结果管理**
 
-Puppetmaster 是一个监督者与作业存储层：通过 Cursor、Claude Code、Codex、Hermes、Antigravity 等 agent CLI 或 provider API 运行多步工程任务。它启动独立 worker、按可用模型路由任务、将带类型的结果写入 SQLite 以供检查与恢复，提供租约、artifacts、流图（可恢复节点与 map 扇出）、成本路由与仪表盘。面向需要持久状态与可审查输出的开发者，用于仓库调查、审计、重构与实现。安装为 pipx/pip 安装 puppetmaster-ai 后运行 puppetmaster setup 注册 MCP 工具；自述为 daily-driver beta（v1.27.21），定位在 LangGraph/CrewAI 等构建库之上协调既有 agent CLI。
+以 Python 包与 CLI 形式提供的 agent 编排控制平面：将工程工作作为持久化作业运行，由 agent 提交任务后启动独立 subprocess worker，按路由策略分配到模型，将带类型的结果存入 SQLite；支持作业检查、恢复与事后读取结果（无需模型调用）。机制包括租约、artifacts、内存、确定性拼接摘要、并发会话与 worktree、预算限额、Dashboard 与 MCP 工具接口。文档含与 LangGraph、CrewAI 的对比章节及自述基准研究。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@ Puppetmaster 是一个监督者与作业存储层：通过 Cursor、Claude Code�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 以 SQLite 为作业存储，支持检查、恢复与租约 worker
-- 多平台适配器（cursor/claude-code/codex/hermes/antigravity/agentic 等）与 MCP pilot 模式
-- 成本路由与持久重试（SWE-bench Lite 单种子研究：实际花费降低 29%）
-- 流图、map 扇出、artifacts 证据字段与内容哈希、live 仪表盘
+- 持久化作业：SQLite 存储、可恢复、事后读取结果无需模型调用
+- worker 子进程 fan-out 与模型路由策略（model registry）
+- MCP 工具安装（puppetmaster setup）与内置 agentic 适配器仅需 provider API key
+- Dashboard 作业看板、CLI、移动端查看与预算限额
 
 ## 适用场景
 
-- 让 Cursor/Claude Code 等 agent 承担仓库审计、调查与重构等监督式工程任务
-- 跨多个 agent CLI 与 provider API 路由任务并控制成本
-- 作业中断后从 SQLite 持久状态恢复并复查 artifacts 证据
+- 把代码评审、实现等工程任务交给多个并行 agent worker 执行
+- 长时间运行的 agent 任务需要可恢复的持久化状态
+- 按成本路由模型并限制 agent 作业预算
+- 通过 MCP 让 Claude Code/Codex 类工具提交与监控作业
 
 ## 场景标签
 
@@ -37,22 +38,22 @@ Puppetmaster 是一个监督者与作业存储层：通过 Cursor、Claude Code�
 
 ## 证据(README 行号)
 
-> L8: Puppetmaster runs multi-step engineering work through the agent tools you already use: Cursor, Grok Bot, Claude Code
-> L97: Puppetmaster is a supervisor and job store for agent CLIs and provider adapters. Grok Bot, Cursor Agent, Pi, and OM
-> L117: Puppetmaster sits above libraries such as LangGraph and CrewAI: those libraries help you build an agent, while Pup
+> L8: Puppetmaster runs engineering work as durable jobs. It is universal for any harness or CLI, or a plain provider API.
+> L10: Your agent gives Puppetmaster a task. Puppetmaster starts independent workers, routes each task to a model, and sto
+> L18: puppetmaster setup               # installs MCP tools, rules, and hooks
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "professorpalmer/Puppetmaster 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-25", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 467 --> 482
-    line [468, 470, 471, 472, 475, 476, 477, 480, 481, 481]
+    title "professorpalmer/Puppetmaster 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 469 --> 483
+    line [470, 471, 472, 475, 476, 477, 480, 481, 482]
 ```
 
-2026-10-21 468 → 2026-11-24 481（+13）
+2026-10-23 470 → 2026-11-25 482（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4fff40c04ade` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `30e089d7e12a` · [字段定义](../../DATASET.md)*

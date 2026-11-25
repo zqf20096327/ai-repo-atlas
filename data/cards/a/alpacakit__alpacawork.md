@@ -45,12 +45,12 @@ alpacawork 是运行在个人 PC 上的 AI harness：调用已安装的 Claude C
 ```mermaid
 xychart-beta
     title "alpacakit/alpacawork 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 4 --> 9
-    line [5, 8, 8]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 4 --> 10
+    line [5, 8, 9]
 ```
 
-2026-11-20 5 → 2026-11-24 8（+3）
+2026-11-20 5 → 2026-11-25 9（+4）
 
 
 ---

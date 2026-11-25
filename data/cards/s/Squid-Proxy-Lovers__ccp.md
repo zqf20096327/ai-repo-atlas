@@ -46,12 +46,12 @@ Rust 实现的客户端-服务器协调协议：服务器以 session→shelf→b
 ```mermaid
 xychart-beta
     title "Squid-Proxy-Lovers/ccp 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-22 25 → 2026-11-24 25（+0）
+2026-10-23 25 → 2026-11-25 26（+1）
 
 
 ---

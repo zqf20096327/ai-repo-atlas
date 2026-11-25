@@ -2,57 +2,57 @@
 
 ⭐ 593 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SAOS-3624/dsh-video-storyboard) · [官网](https://github.com/SAOS-3624/dsh-video-storyboard) · 个人维护 · 中文 README
 
-**DeepSeek Harness 插件：把视频压成一张可寻址分镜故事板图供文本 agent 阅读**
+**给 DSH 插件生态的视频分镜工具：把视频压成宫格图+时间码清单供模型读取**
 
-面向 DeepSeek Harness（DSH）的插件，提供 video_storyboard 与 video_zoom 两个工具：将视频转成 9-16 格编号故事板单图（384 token），含时间戳、转录文本与音频包络，供纯文本模型按格引用与放大细读。机制包括 HSV 场景切变检测、密度驱动的格布局、拉普拉斯方差选帧、EBU R128 响度、OpenAI 兼容 ASR 分块对齐；支持 http(s) 链接（yt-dlp）、扫描缓存与 textOnly 分页。依赖 Node≥20 与 ffmpeg/ffprobe，ASR 走 OpenAI 兼容接口；v0.1 状态，社区项目非 DeepSeek 官方。
+DeepSeek Harness 的插件，提供 video_storyboard / video_zoom 等六个工具：按镜头切点把视频抽帧排成一张宫格图（一格=一个镜头，格子大小按切点密度分八档），配一份带起止时间与台词的文本清单，供多模态模型按时间定位内容。转写为可选：优先字幕轨，其次已有 SRT 文件，最后走本机 ASR 服务（默认 sherpa/paraformer）。不打包 ffmpeg/yt-dlp，需自行安装；不托管视频内容、不支持 DRM 绕过。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 5 分钟视频压成一张 384 token 的编号故事板图（对比逐帧 3,072-6,144 token）
-- HSV 场景切变检测（fixture 上 9/9 切点、0 误报，47 倍实时）
-- video_zoom 回到原流逐帧放大 1080p，扫描结果缓存（二次调用 3.6 s）
-- textOnly + cellRange 分页读取文本索引，CLI 批处理整片
+- 一帧=一个镜头的变密度宫格排布，8 档格子大小按切点密度计算
+- 宫格图+时间码台词清单打包为少量 token（默认一张约 222-233 token）
+- 六档 strategy 预设与 tierMap 精确覆盖，支持 dryRun 预估张数
+- 本地 ASR 后端可选 sherpa 或 funasr，支持 SRT/JSON 直喂跳过转写
 
 ## 适用场景
 
-- 让纯文本 LLM agent 以低 token 成本浏览与引用视频内容
-- 长片分两阶段阅读：概览图定位可疑片段后局部展开
-- 对 Bilibili 等链接直接生成带转录与音频包络的故事板
+- 让 agent 回答'第几分钟发生了什么'这类视频时间定位问题
+- 看长视频前先用一张宫格图概览镜头节奏再局部放大
+- 给无字幕轨的 PV/口播视频生成带台词的分镜清单
 
 ## 场景标签
 
-`多模态` · 领域:感知与多模态
+`语音识别` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L5: **A scene-aware storyboard for text-only agents.** Feed a video in, get one addressable grid out: numbered cells, a 
-> L9: > Community project. Not affiliated with DeepSeek.
-> L187: |`src/index.js` — registers `video_storyboard` + `video_zoom`|✅ implemented, **host contract verified**|
+> L37: 本插件走第三条：**把画面压成一张宫格图**（默认一张 ≈222 token，跟里面几帧无关），旁边配一份**按时间对齐的文本清单**（每格起止时间 + 这一格里的台词 + 切了几刀）。
+> L49: |`video_storyboard`|出宫格图 + 文本清单|主体功能|
+> L165: dsh plugin --profile web add dsh-video-storyboard       # 装插件，然后重启 DSH
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "SAOS-3624/dsh-video-storyboard 星数(近 21 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 0 --> 644
-    line [38, 98, 183, 271, 316, 349, 476, 509, 523, 530, 536, 541, 550, 561, 567, 574, 578, 583, 585, 589, 589]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 0 --> 648
+    line [38, 98, 183, 271, 316, 349, 476, 509, 523, 530, 536, 541, 550, 561, 567, 574, 578, 583, 585, 589, 593]
 ```
 
-2026-10-28 38 → 2026-11-24 589（+551）
+2026-10-28 38 → 2026-11-25 593（+555）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `ba881a6e66ac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e892eabb1745` · [字段定义](../../DATASET.md)*

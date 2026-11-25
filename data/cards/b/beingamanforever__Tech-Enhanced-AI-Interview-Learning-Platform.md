@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "beingamanforever/Tech-Enhanced-AI-Interview-Learning-Platform 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-22 48 → 2026-11-24 48（+0）
+2026-10-23 48 → 2026-11-25 48（+0）
 
 
 ---

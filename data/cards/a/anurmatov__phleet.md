@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "anurmatov/phleet 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 21]
+    title "anurmatov/phleet 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
 ```
 
-2026-10-21 20 → 2026-11-24 21（+1）
+2026-10-23 21 → 2026-11-25 21（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 793 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kitfunso/hippo-memory) · [官网](https://hippo-memory.com) · 个人维护
 
-**为编码 agent 提供跨工具共享的本地记忆存储**
+**给编码 agent 提供跨工具共享的本地记忆库**
 
-以 npm 包形式安装的记忆层：hippo init 在项目内创建 .hippo/ SQLite 存储（附可提交的 markdown 镜像），通过 Claude Code/Codex 等 hook 在会话结束时捕获用户纠正的规则与错误，下次会话前注入；支持关键词召回（默认零模型调用）、基于本地 Transformers.js 嵌入的语义召回、`hippo outcome --bad` 弱化错误记忆、supersede 替换与按时间衰减。同一存储可被多个 agent（Claude Code、Codex、Cursor、Gemini CLI、任意 MCP 客户端等）读取，并提供 MCP server（13 个工具）、本地 dashboard、git 历史学习与跨工具导入。
+面向使用多个编码 agent 的开发者：你教会一个 agent 的规则与教训被写入仓库内的 .hippo/ 存储（SQLite + 可提交的 markdown 镜像），其余 agent 读取同一存储，避免换工具重新积累。默认路径零 LLM 调用完成存储，recall 用关键词检索无需网络；hippo sleep 在配置 API key 时可选调用 Anthropic 或 OpenAI 兼容端点。零运行时依赖，Node.js 22.16+；hippo init 会装本地嵌入器（约 480 MB，可跳过）。npm 全局安装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多 agent 共享一个本地存储：Claude Code/Codex/Cursor/Gemini CLI/MCP 客户端均可接入
-- 默认路径存储记忆零 LLM 调用；嵌入用本地 Transformers.js（约 480 MB，可跳过）
-- 记忆衰减、pinned 固定、outcome 反馈弱化与 supersede 版本替换机制
-- markdown 镜像可 grep、commit 并在 PR 中评审
+- 多 agent 共享同一记忆存储：Claude Code、Codex、Cursor、Gemini CLI 及任何 MCP 客户端
+- 默认路径存储零模型调用，recall 为无模型无网络的关键词检索
+- SQLite + markdown 镜像，可读取、diff、提交到 git
+- 负面结果削弱记忆（outcome --bad）、supersede 替换旧事实、未用记忆随时间衰减
 
 ## 适用场景
 
-- 在多个编码 agent 间切换时不丢失教过的规则与教训
-- 把团队的 agent 记忆以 markdown 形式提交进仓库共同评审
-- 减少 Claude Code 会话中重复犯同类错误
+- 在 Claude Code 与 Cursor 之间切换时不重复教规则
+- 团队把 agent 记忆作为 markdown 提交并走代码评审
+- 离线/内网环境下为编码 agent 配置共享记忆
 
 ## 场景标签
 
@@ -39,20 +39,19 @@
 
 > L16: Works with:    Claude Code, Codex, Cursor, Pi, OpenClaw, OpenCode, any MCP client
 > L18: Storage:       SQLite with markdown mirrors you can read and commit
-> L134: |Any MCP client|`hippo mcp`, 13 tools|
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "kitfunso/hippo-memory 星数(近 15 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 781 --> 796
-    line [782, 784, 785, 786, 787, 788, 790, 784, 790, 792, 793, 794, 795, 794, 794]
+    title "kitfunso/hippo-memory 星数(近 14 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 783 --> 796
+    line [784, 785, 786, 787, 788, 790, 784, 790, 792, 793, 794, 795, 794, 793]
 ```
 
-2026-10-21 782 → 2026-11-24 794（+12）
+2026-10-23 784 → 2026-11-25 793（+9）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5604aaa1bcf7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `590e22c431c4` · [字段定义](../../DATASET.md)*

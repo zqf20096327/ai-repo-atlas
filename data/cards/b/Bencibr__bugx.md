@@ -47,12 +47,12 @@ BugX 是通过 MCP 接入 Claude Code、Codex、Cline、OpenCode、ZCode 等宿�
 ```mermaid
 xychart-beta
     title "Bencibr/bugx 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-24"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-25"]
+    y-axis "stars" 2 --> 7
+    line [3, 6]
 ```
 
-2026-11-22 3 → 2026-11-24 3（+0）
+2026-11-22 3 → 2026-11-25 6（+3）
 
 
 ---

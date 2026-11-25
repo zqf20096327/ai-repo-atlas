@@ -45,12 +45,12 @@ dlordinal 是基于 PyTorch 的 Python 库，汇集文献中的深度序数分�
 ```mermaid
 xychart-beta
     title "ayrna/dlordinal 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-22 74 → 2026-11-24 74（+0）
+2026-10-23 74 → 2026-11-25 75（+1）
 
 
 ---

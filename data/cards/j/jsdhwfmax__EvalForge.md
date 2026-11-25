@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "jsdhwfmax/EvalForge 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 193 --> 211
-    line [210, 194, 194]
+    title "jsdhwfmax/EvalForge 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 193 --> 195
+    line [194, 194]
 ```
 
-2026-10-22 210 → 2026-11-24 194（-16）
+2026-10-23 194 → 2026-11-25 194（+0）
 
 
 ---

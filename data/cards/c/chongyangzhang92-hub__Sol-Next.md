@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "chongyangzhang92-hub/Sol-Next 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 13 --> 21
+    line [14, 20]
 ```
 
-2026-11-23 14 → 2026-11-24 14（+0）
+2026-11-23 14 → 2026-11-25 20（+6）
 
 
 ---

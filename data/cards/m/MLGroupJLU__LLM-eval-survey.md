@@ -47,12 +47,12 @@ _survey on Evaluation of Large Language Models_ 论文的官方 GitHub 页面，
 ```mermaid
 xychart-beta
     title "MLGroupJLU/LLM-eval-survey 星数(近 4 点)"
-    x-axis ["2026-10-21", "2026-11-15", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-15", "2026-11-21", "2026-11-25"]
     y-axis "stars" 1614 --> 1617
     line [1615, 1616, 1615, 1615]
 ```
 
-2026-10-21 1,615 → 2026-11-24 1,615（+0）
+2026-10-23 1,615 → 2026-11-25 1,615（+0）
 
 
 ---

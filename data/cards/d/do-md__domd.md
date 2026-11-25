@@ -1,10 +1,10 @@
 # do-md/domd
 
-⭐ 593 · TypeScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/do-md/domd) · [官网](https://www.domd.app) · 个人维护 · 中文 README
+⭐ 593 · TypeScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/do-md/domd) · [官网](https://www.domd.app) · 组织维护 · 中文 README
 
-**30KB Markdown 原生 WYSIWYG 编辑器内核与编辑器产品，支持 AI 流式输出**
+**面向 AI 流式输出与大型文件的 Markdown 所见即所得编辑器**
 
-包含两部分：可独立嵌入的编辑器内核 @do-md/core-react（React 组件，不基于 ProseMirror/Slate/Lexical，仅依赖 React 与 Immer，Brotli 压缩后 30+KB）与 DOMD 编辑器产品（macOS 原生应用、本地优先 Web 编辑器、agent 可用的 domd-cli）。面向需要在应用中嵌入 Markdown 编辑、输入或 AI 流式渲染的开发者，以及需要编辑大文件 Markdown 的用户。关键机制：流式分块渲染（处理语法中途被切断的 AI 输出）、段落内无冲突合并（基于操作流与可选 Yjs CRDT 插件）、可扩展行内语法（变体可绑定 React 组件）、分块文件加载支撑 2 万行文档。限制：Windows 原生构建不支持；内核 GPL-3.0 含例外条款（小型实体/FOSS 例外），超出例外需商业许可。
+DOMD 提供一个 30+ KB 的 Markdown 原生所见即所得编辑内核（@do-md/core-react），并将内核封装为本地优先的编辑器产品：覆盖 macOS 原生应用（含 Quick Look 预览）、Web 编辑器和面向 agent 的 CLI。内核支持逐块摄入 AI 流式 Markdown 输出并实时渲染、段落内无冲突离线合并（可选 Yjs CRDT 适配器）、多编辑器实时同步与远程光标、可扩展行内语法并绑定 React 组件。运行时依赖仅 React 与 Immer；Windows 原生构建目前不支持。
 
 ## 筛选速览
 
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 流式摄取 AI 分块输出，未闭合代码块/半成品表格可即时渲染且不闪烁
-- 不基于通用富文本框架，自研 Markdown 原生引擎，仅 React 与 Immer 两个运行时依赖
-- 段落内 CRDT 无冲突离线合并与多编辑器实时同步（远程光标 presence）
-- 行内语法变体可绑定 React 组件，使 Markdown 片段成为交互 UI
+- 逐块摄入 AI 流式 Markdown，半开语法渲染中流保持正确
+- 段落内无冲突离线合并，提供可选 Yjs CRDT 插件
+- 行内语法为一等扩展点，可绑定 React 组件为活动 UI
+- domd-cli 支持打开窗口、流式写入文档与改写选区
 
 ## 适用场景
 
-- 在聊天/笔记/产品中嵌入边输入边渲染的 Markdown 输入框
-- 为 AI 应用提供能承接 token 流式输出的富文本渲染面
-- 本地编辑大型 Markdown 文档（最高 2 万行流畅流式）
-- 通过 domd-cli 让 agent 打开窗口、流入内容、改写选区
+- 为 AI 对话/生成界面提供渲染 Markdown 流的编辑区
+- 在低配置设备上打开并编辑 1 MB 级 Markdown 文档
+- 多设备离线编辑同一文档后合并且不丢改动
+- 让 agent 通过 CLI 将输出写入本地文档窗口
 
 ## 场景标签
 
- · 领域:编辑器/前端组件
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L8: Built for fast human editing, huge Markdown files, live synchronization, and streaming AI output.
-> L106: * **Agent-friendly CLI:** `domd-cli` can open windows, stream content into a document, and rewrite selections, mak
+> L85: AI models emit Markdown token by token, often splitting in the middle of syntax. The kernel ingests those streams c
+> L103: * **Large files:** a 5 KB note and a 1 MB document open at virtually the same perceptual speed, with full WYSIWYG 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "do-md/domd 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-25"]
     y-axis "stars" 585 --> 594
     line [588, 587, 586, 588, 589, 590, 591, 592, 593, 593]
 ```
 
-2026-10-22 588 → 2026-11-24 593（+5）
+2026-10-23 588 → 2026-11-25 593（+5）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b00d9eee2e96` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a4eebb866876` · [字段定义](../../DATASET.md)*

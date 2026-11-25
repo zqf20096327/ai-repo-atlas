@@ -2,15 +2,15 @@
 
 ⭐ 828 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/lucidrains/rotary-embedding-torch) · 个人维护
 
-**PyTorch 旋转位置编码（RoPE）独立实现库，供 Transformer 使用**
+**PyTorch 开发者为 transformer 添加旋转位置编码的库**
 
-将 RoFormer 论文提出的旋转位置编码实现为独立的 PyTorch 库，供研究者和开发者在自建 Transformer 中加入旋转式相对位置编码。提供推理时 KV cache 的 query 旋转偏移方法、n 维轴向旋转编码（适用于视频 Transformer）、XPos 长度外推、位置插值与 NTK-Aware 缩放等选项，并支持融合 Flash Attention 的 Triton 内核（不可用时回退到 PyTorch CPU/GPU 实现）。以 pip 包安装，使用方式为嵌入自有模型代码。
+一个独立的 PyTorch 库，用于为 transformer 添加旋转位置编码（RoPE，出自 RoFormer 论文），支持固定位置与可学习位置的旋转。提供逆向旋转、推理阶段 KV 缓存的查询位置偏移、n 维轴向旋转（如视频 transformer）、带衰减的 XPos 长度外推选项，以及按插值因子微调扩展上下文长度的机制。通过 pip 安装，并附 Triton 融合 Flash Attention 与旋转的一体化核函数（无 Triton 时回退到 PyTorch 参考实现）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- RoFormer 旋转位置编码的 PyTorch 独立实现
-- 推理 KV cache 场景的 rotate_queries_with_cached_keys 方法
-- XPos 长度外推、位置插值（interpolate_factor）等长度扩展选项
-- 融合 Flash Attention 与旋转的 Triton 内核，缺失 Triton 时回退 PyTorch 实现
+- 为 PyTorch tensor 任意轴添加旋转信息（固定或可学习位置）
+- 推理 KV 缓存场景的 rotate_queries_with_cached_keys 方法
+- 轴向旋转与 XPos 长度外推、interpolate_factor 位置插值
+- 融合 Flash Attention 的旋转注意力核，无 Triton 时回退参考实现
 
 ## 适用场景
 
-- 在自建 Transformer 模型中加入旋转相对位置编码
-- 视频等 n 维输入的轴向相对位置编码
-- 为预训练模型做上下文长度扩展的实验
+- 为自研 transformer 模型引入 RoPE 相对位置编码
+- 推理阶段处理 KV 缓存的查询位置偏移
+- 微调预训练模型以扩展上下文长度
+- 视频等 n 维数据的轴向相对位置编码
 
 ## 场景标签
 
@@ -38,20 +39,20 @@
 ## 证据(README 行号)
 
 > L5: A standalone library for adding rotary embeddings to transformers in Pytorch, following its success as relative posi
-> L88: You can also use a fused Flash Attention kernel that computes attention with rotary embeddings in one pass. It auto
+> L14: $ pip install rotary-embedding-torch
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "lucidrains/rotary-embedding-torch 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
     y-axis "stars" 826 --> 829
     line [827, 828, 828]
 ```
 
-2026-10-22 827 → 2026-11-24 828（+1）
+2026-10-23 827 → 2026-11-25 828（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `32940de4cdf2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `89f8d07b5a4e` · [字段定义](../../DATASET.md)*

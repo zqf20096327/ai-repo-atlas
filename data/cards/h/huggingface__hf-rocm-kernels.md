@@ -45,12 +45,12 @@ Hugging Face 维护的 ROCm 设备优化 ML 内核库，以 CUDA/C++ 源码编�
 ```mermaid
 xychart-beta
     title "huggingface/hf-rocm-kernels 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-22 24 → 2026-11-24 24（+0）
+2026-10-23 24 → 2026-11-25 24（+0）
 
 
 ---

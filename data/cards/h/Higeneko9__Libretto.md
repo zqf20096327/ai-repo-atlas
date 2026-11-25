@@ -41,6 +41,18 @@ Libretto 是面向 ComfyUI 用户的节点式提示词生成工具：把角色�
 > L11: **Libretto is not an image generation engine.** It composes prompts, sends them
 > L13: displays the results. ComfyUI performs the image generation using your installed
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Higeneko9/Libretto 星数(近 2 点)"
+    x-axis ["2026-11-18", "2026-11-25"]
+    y-axis "stars" 2 --> 12
+    line [3, 11]
+```
+
+2026-11-18 3 → 2026-11-25 11（+8）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `b3914587f0e7` · [字段定义](../../DATASET.md)*

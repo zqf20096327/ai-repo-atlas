@@ -45,13 +45,13 @@ Copilot Insights 是一个 VS Code 扩展，在侧边栏和状态栏本地展示
 
 ```mermaid
 xychart-beta
-    title "kasuken/vscode-copilot-insights 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-11", "2026-11-24"]
+    title "kasuken/vscode-copilot-insights 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
     y-axis "stars" 36 --> 39
-    line [37, 38, 37, 38, 38]
+    line [38, 37, 38, 38]
 ```
 
-2026-10-22 37 → 2026-11-24 38（+1）
+2026-10-23 38 → 2026-11-25 38（+0）
 
 
 ---

@@ -44,13 +44,13 @@ AWS Neuron 团队维护的示例代码仓库：Neuron SDK 用于在 AWS 自研�
 
 ```mermaid
 xychart-beta
-    title "aws-neuron/aws-neuron-samples 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 161 --> 164
-    line [162, 163, 163]
+    title "aws-neuron/aws-neuron-samples 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 162 --> 164
+    line [163, 163]
 ```
 
-2026-10-22 162 → 2026-11-24 163（+1）
+2026-10-23 163 → 2026-11-25 163（+0）
 
 
 ---

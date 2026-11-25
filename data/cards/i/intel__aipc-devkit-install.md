@@ -44,13 +44,13 @@ Intel 维护的 AI PC 应用安装器（v3.0），用于在研讨会、活动与
 
 ```mermaid
 xychart-beta
-    title "intel/aipc-devkit-install 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    title "intel/aipc-devkit-install 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
 ```
 
-2026-10-22 47 → 2026-11-24 48（+1）
+2026-10-23 48 → 2026-11-25 48（+0）
 
 
 ---

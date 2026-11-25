@@ -2,9 +2,9 @@
 
 ⭐ 441 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/phibrowser/phibrowser-mac) · [官网](https://phibrowser.com) · 组织维护
 
-**macOS 原生 AI 浏览器：人与 agent 同窗共用的 Chromium 客户端**
+**本地优先、AI 可选的 macOS 原生 Chromium 浏览器**
 
-Chromium 内核、AppKit+SwiftUI 的 macOS 原生浏览器，内置可在页面内操作的 AI agent：持久化本地记忆（文件可读可编辑）、定时任务、本地隐私防护与独立守护进程 Phi Sentinel，支持经 LM Studio/Ollama 在本机运行模型或接入 Phi Cloud，也可关闭 AI 作为普通浏览器使用。本仓库为 Apache 2.0 的 macOS 客户端源码，但 Chromium 引擎框架为闭源二进制、服务端不在开源范围内；自构建版本不接入 Phi 账号与云服务。
+基于自有 Chromium 构建的 macOS 原生浏览器（AppKit + SwiftUI），定位为日常浏览器，提供 Spaces、多配置、分屏、标签组、URL 规则、快捷键、画中画等功能。AI 部分可开可关：可使用自带 AI，也可经 LM Studio 或 Ollama 在本机运行自己的模型，记忆数据存于本地可读文件。源码以 Apache 2.0 发布，但浏览器引擎以二进制形式分发、AI 服务端不开源；自建版本不含 Phi 账号登录、云同步与更新器。
 
 ## 筛选速览
 
@@ -20,39 +20,39 @@ Chromium 内核、AppKit+SwiftUI 的 macOS 原生浏览器，内置可在页面�
 
 ## 能力要点
 
-- agent 与人共用同一窗口与会话，操作记录可见
-- 记忆以本地文件存储，可读、编辑、删除，官方不上传不训练
-- 支持 LM Studio/Ollama 本地模型运行，或关闭 AI 作为普通浏览器
-- Phi Sentinel 独立守护进程监管 AI 行为，记忆经 MCP 暴露并配 CLI
+- Chromium 引擎 + AppKit/SwiftUI 的 macOS 原生应用
+- AI 可选：支持经 LM Studio/Ollama 在本机运行模型，无需账号
+- 记忆数据存于本地可读、可编辑、可删除的文件
+- Apache 2.0 开源，支持从源码构建
 
 ## 适用场景
 
-- 重度浏览器使用者让 AI agent 在旁协同操作网页
-- 要求模型与数据全部留在本机的隐私敏感浏览
-- 把重复浏览工作流沉淀为 agent 可复用的技能
+- 在 Mac 上使用本地优先、数据不出设备的浏览器
+- 让 AI agent 驱动浏览器操作而不上传数据
+- 从源码自行构建并定制浏览器
 
 ## 场景标签
 
-`浏览器自动化` `AI 助手` · 领域:效率与自动化
+`浏览器自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L7: Phi is a Chromium-based browser built as a real native macOS app (AppKit + SwiftUI), with an AI agent that acts in t
-> L19: - **Your AI, your choice of where it runs.** Point Phi at models on your own Mac or your own hardware through LM St
-> L22: - **A real browser underneath.** A genuine Chromium engine with a native macOS client on top, AppKit and SwiftUI. A
+> L9: Phi Browser is a Chromium-based browser built as a real native macOS app (AppKit + SwiftUI). It is a clean everyday 
+> L20: - **Any AI is welcome.** Use ours. Run your own models on your own Mac with LM Studio or Ollama, no account needed.
+> L31: Not all of Phi Browser is here, and we would rather point at the line than let you discover it. The browser engine 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "phibrowser/phibrowser-mac 星数(近 27 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 224 --> 458
-    line [243, 245, 269, 289, 296, 314, 320, 323, 332, 334, 335, 336, 289, 380, 408, 413, 417, 418, 421, 424, 426, 430, 434, 436, 437, 439, 439]
+    title "phibrowser/phibrowser-mac 星数(近 26 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 226 --> 460
+    line [245, 269, 289, 296, 314, 320, 323, 332, 334, 335, 336, 289, 380, 408, 413, 417, 418, 421, 424, 426, 430, 434, 436, 437, 439, 441]
 ```
 
-2026-10-22 243 → 2026-11-24 439（+196）
+2026-10-23 245 → 2026-11-25 441（+196）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6187778cee61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `91f3281eddb0` · [字段定义](../../DATASET.md)*

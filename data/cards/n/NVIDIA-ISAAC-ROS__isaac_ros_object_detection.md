@@ -46,12 +46,12 @@ Isaac ROS Object Detection 提供 ROS 2 节点包，在输入图像上用 GPU �
 ```mermaid
 xychart-beta
     title "NVIDIA-ISAAC-ROS/isaac_ros_object_detection 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
     y-axis "stars" 204 --> 207
     line [205, 206, 206]
 ```
 
-2026-10-22 205 → 2026-11-24 206（+1）
+2026-10-23 205 → 2026-11-25 206（+1）
 
 
 ---

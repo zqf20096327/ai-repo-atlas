@@ -46,12 +46,12 @@ TypeScript 编写的 CLI 工具，连接 OpenCode TUI 的 web 服务器（端口
 ```mermaid
 xychart-beta
     title "DasDigitaleMomentum/opencode-agent-evaluator 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-21 14 → 2026-11-24 14（+0）
+2026-10-23 14 → 2026-11-25 14（+0）
 
 
 ---

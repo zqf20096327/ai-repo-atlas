@@ -45,12 +45,12 @@ APLR 是一个 Python 机器学习库，使用由 Mathias von Ottenbreit 开发�
 ```mermaid
 xychart-beta
     title "ottenbreit-data-science/aplr 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-11", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
     y-axis "stars" 26 --> 29
     line [27, 28, 28]
 ```
 
-2026-10-22 27 → 2026-11-24 28（+1）
+2026-10-23 27 → 2026-11-25 28（+1）
 
 
 ---

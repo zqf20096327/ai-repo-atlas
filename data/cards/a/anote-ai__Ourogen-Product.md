@@ -46,12 +46,12 @@ Anote 的 monorepo，包含多智能体 AI 系统的核心组件：Orchestrator 
 ```mermaid
 xychart-beta
     title "anote-ai/Ourogen-Product 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-24"]
+    x-axis ["2026-11-22", "2026-11-25"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-11-22 36 → 2026-11-24 36（+0）
+2026-11-22 36 → 2026-11-25 36（+0）
 
 
 ---

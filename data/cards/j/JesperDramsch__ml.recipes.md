@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JesperDramsch/ml.recipes 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 77 --> 80
-    line [78, 79, 79]
+    title "JesperDramsch/ml.recipes 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 78 --> 80
+    line [79, 79]
 ```
 
-2026-10-22 78 → 2026-11-24 79（+1）
+2026-10-23 79 → 2026-11-25 79（+0）
 
 
 ---

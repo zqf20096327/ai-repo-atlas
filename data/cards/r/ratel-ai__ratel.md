@@ -2,9 +2,9 @@
 
 ⭐ 566 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ratel-ai/ratel) · [官网](https://www.ratel.sh/) · 组织维护
 
-**AI agent 的上下文工程层：按轮次检索注入相关工具与技能，减少 token**
+**自托管 AI agent 追踪分析与评测平台，帮助开发者发现 agent 失败点**
 
-面向 AI agent 开发者的上下文工程库：将工具与技能建为索引目录，agent 通过 search_capabilities 按轮次检索，仅注入匹配能力而非全量加载，以缓解工具过载导致的精度下降并减少 token 开销；固定背景信息注册为 facts，仅在对话中不新鲜时重新注入。默认 BM25 检索，无需向量库；语义/混合排序可选，支持进程内模型或 OpenAI 兼容嵌入端点。核心为 Rust 引擎，提供 TypeScript（NAPI）与 Python SDK。
+自托管平台：agent 通过 OTLP/SDK 上报 traces、工具与技能目录，平台基于 Postgres 作业队列计算 agent 健康信号、工作流、自纠正、主题聚类、意图图与工具匹配质量等读数，并在发布前对真实会话跑评测。无模型 key 时不发起外呼，需模型的读数自行报告跳过。由单应用加一个 Postgres 组成，无独立 worker；提供 TypeScript 与 Python SDK，并经 MCP 端点供 agent 查询。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,38 +20,39 @@
 
 ## 能力要点
 
-- 工具/技能目录 + 渐进披露，按轮次检索注入匹配能力
-- 默认 BM25，无需向量数据库，检索快速且确定性
-- 语义与混合排序可选，支持进程内模型或 OpenAI 兼容嵌入端点
-- facts 机制管理固定背景信息，仅在上下文中不新鲜时重新注入
+- 读取 agent traces 并生成健康信号、意图图、工具匹配质量等读数
+- 一个应用加一个 Postgres 自托管，无独立 worker/scheduler
+- 无模型 key 时不发起任何外呼，需模型读数自行跳过
+- 提供 MCP 端点，附带 Claude Code/Cursor 等 MCP 客户端配置
 
 ## 适用场景
 
-- 工具数量过多的 agent 精简每轮上下文、控制 token 成本
-- 为 MCP 工具集添加按需检索层（ratel-local）
-- 让 skill 指令按需加载而非全量注入系统提示
+- 在自有基础设施上观测自建 agent 的行为与失败点
+- 在发布修复前对真实会话运行评测验证
+- 让 agent 经 MCP 查询自身的运行数据
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`LLM 可观测性` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L19: The context engineering layer for AI agents. Selects only the tools and skills relevant to each turn, recovering ac
-> L73: The indexes use BM25 by default, the same algorithm behind most search engines, applied to each tool's name, descri
+> L16: Ratel is a self-hosted platform for AI agents. Your agent sends it traces and its catalog of tools and skills. Rate
+> L18: It is for anyone building or running an agent who wants to see how it behaves and keep that data on their own machi
+> L21: - **Ingest and catalog APIs:** OTLP traces and logs, SDK events, catalog pull, skills and intent graph sync, authen
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "ratel-ai/ratel 星数(近 25 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 476 --> 575
-    line [484, 491, 520, 528, 531, 535, 538, 540, 541, 543, 544, 547, 528, 554, 555, 557, 559, 561, 562, 563, 564, 566, 567, 566, 566]
+    title "ratel-ai/ratel 星数(近 24 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 484 --> 574
+    line [491, 520, 528, 531, 535, 538, 540, 541, 543, 544, 547, 528, 554, 555, 557, 559, 561, 562, 563, 564, 566, 567, 566, 566]
 ```
 
-2026-10-22 484 → 2026-11-24 566（+82）
+2026-10-23 491 → 2026-11-25 566（+75）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `764d7f64b5fe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c3a3592854d4` · [字段定义](../../DATASET.md)*

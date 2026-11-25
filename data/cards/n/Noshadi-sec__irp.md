@@ -46,12 +46,12 @@ IRP 由一个 MCP 服务器与 CLI 组成，接入 Claude Code、Codex、Cursor 
 ```mermaid
 xychart-beta
     title "Noshadi-sec/irp 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-24"]
+    x-axis ["2026-10-25", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-24 3（+0）
+2026-10-25 3 → 2026-11-25 3（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 506 · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M3) · 组织维护 · 中文 README
 
-**开源多模态基础模型：1M 上下文、约428B参数**
+**428B 参数原生多模态大模型：1M 上下文文本/图像/视频处理**
 
-MiniMax-AI 发布的 MiniMax-M3 原生多模态模型，约 428B 总参数、约 23B 激活参数，支持 1M token 上下文。采用自首次训练起混合模态训练以融合文本、图像与视频语义；引入 MiniMax Sparse Attention（MSA）稀疏注意力算子提升长上下文效率，官方给出 1M 上下文下相对 M2 的 9× prefill 与 15× decode 加速数据。提供 enabled/adaptive/disabled 三种 thinking 推理模式，可通过 MiniMax Agent、API 或本地部署使用，推荐 SGLang、vLLM、Transformers、KTransformers、unsloth 等框架推理。
+MiniMax 发布的旗舰开源模型：约 428B 总参数、23B 激活参数的原生多模态模型，支持 1M token 上下文与文本、图像、视频混合模态。核心机制是 MiniMax Sparse Attention（MSA）稀疏注意力算子，官方称在 1M 上下文下相较 M2 获得 9× prefill 与 15× decode 加速。提供 thinking 参数的三种推理模式（enabled/adaptive/disabled）。使用方式为 MiniMax Code/API 或本地部署，官方推荐 SGLang、vLLM、Transformers、KTransformers、unsloth 五种推理框架，并给出温度与 top_p 推荐参数。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ MiniMax-AI 发布的 MiniMax-M3 原生多模态模型，约 428B 总参数、约
 
 ## 能力要点
 
-- 原生多模态训练（文本/图像/视频），1M token 上下文
-- MiniMax Sparse Attention（MSA）稀疏注意力，长上下文计算与显存开销降低
-- thinking 参数支持 enabled/adaptive/disabled 三种推理模式
-- 约 428B 参数、约 23B 激活参数
+- 原生多模态训练：覆盖文本、图像、视频的深层语义融合
+- MiniMax Sparse Attention 支撑 1M 上下文与长文本效率
+- thinking 参数三档推理模式（enabled/adaptive/disabled）
+- 官方提供 SGLang/vLLM/Transformers/KTransformers/unsloth 部署指引
 
 ## 适用场景
 
-- 通过 MiniMax API 或 Agent 直接调用多模态模型
-- 本地下载权重用 vLLM/SGLang 等框架部署服务
-- 长上下文的编码与 agent 协作任务
+- 需要处理超长文档与百万级上下文的推理任务
+- 多模态（文本/图像/视频）理解与生成场景
+- 编码与长程 agent 协作任务
+- 本地/自托管部署大模型推理服务
 
 ## 场景标签
 
@@ -38,20 +39,20 @@ MiniMax-AI 发布的 MiniMax-M3 原生多模态模型，约 428B 总参数、约
 ## 证据(README 行号)
 
 > L17: MiniMax-M3 is a native multimodal model with 1M context. It has ~428B parameters and ~23B activated parameters.
-> L20: - **Native Multimodality:** M3 undergoes mixed-modality training from the very first step, enabling deeper semantic
+> L21: - **Context Scaling via Sparse Attention:** M3 introduces MiniMax Sparse Attention (MSA) to improve long context ef
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "MiniMax-AI/MiniMax-M3 星数(近 12 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 492 --> 506
-    line [493, 494, 495, 497, 498, 495, 500, 502, 503, 504, 505, 505]
+    title "MiniMax-AI/MiniMax-M3 星数(近 11 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 493 --> 507
+    line [494, 495, 497, 498, 495, 500, 502, 503, 504, 505, 506]
 ```
 
-2026-10-22 493 → 2026-11-24 505（+12）
+2026-10-23 494 → 2026-11-25 506（+12）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `deaca73d60ab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `98604af1776d` · [字段定义](../../DATASET.md)*

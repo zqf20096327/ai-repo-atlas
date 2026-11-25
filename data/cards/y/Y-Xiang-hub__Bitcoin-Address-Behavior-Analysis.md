@@ -46,12 +46,12 @@ IEEE TIFS 论文 BABD 的配套源码：从 BTC.com 采集比特币账本数据�
 ```mermaid
 xychart-beta
     title "Y-Xiang-hub/Bitcoin-Address-Behavior-Analysis 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-22 31 → 2026-11-24 31（+0）
+2026-10-23 31 → 2026-11-25 31（+0）
 
 
 ---

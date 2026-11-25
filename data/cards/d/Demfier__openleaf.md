@@ -46,12 +46,12 @@ Manifest V3 浏览器扩展，嵌入 overleaf.com 编辑器：Citations 标签�
 ```mermaid
 xychart-beta
     title "Demfier/openleaf 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 128 --> 130
     line [129, 129]
 ```
 
-2026-10-21 129 → 2026-11-24 129（+0）
+2026-10-23 129 → 2026-11-25 129（+0）
 
 
 ---

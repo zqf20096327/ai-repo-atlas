@@ -46,12 +46,12 @@ layerpool 将一个模型按层拆分到多台设备（笔记本、台式机、�
 ```mermaid
 xychart-beta
     title "abdallah-swe/layerpool 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 2 --> 10
+    line [3, 9]
 ```
 
-2026-11-23 3 → 2026-11-24 3（+0）
+2026-11-23 3 → 2026-11-25 9（+6）
 
 
 ---

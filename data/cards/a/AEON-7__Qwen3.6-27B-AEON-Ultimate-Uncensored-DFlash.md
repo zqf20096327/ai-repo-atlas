@@ -2,9 +2,9 @@
 
 ⭐ 502 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash) · [官网](https://huggingface.co/AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-BF16) · 个人维护
 
-**面向开发者的 Qwen3.6-27B 去审查模型权重与 DGX Spark 专用推理容器**
+**Qwen3.6-27B 去审查量化模型及 DGX Spark 专用 vLLM 容器**
 
-对 Qwen/Qwen3.6-27B 做 abliteration 处理的去审查模型项目，提供 6 个 HuggingFace 变体（BF16/NVFP4/MTP/MTP-XS）。核心交付物是统一的 ghcr.io/aeon-7/aeon-vllm-ultimate 容器（vLLM 0.23.0 + sm_121a NVFP4 内核 + DFlash 投机解码，n=10/12），专门面向 DGX Spark/GB10（ARM64 + Blackwell），在 x86 或非 Blackwell GPU 上无法运行。提供 OpenAI 兼容端点、docker-compose、性能基准数据与 DDTree 研究轨道文档。README 顶部声明新部署建议改用 Qwen3.8，本卡片保留给既有部署与历史。
+对 Qwen/Qwen3.6-27B 做 abliteration 处理（README 自报 100 条拒绝全通过、KL 0.000492），提供 BF16/NVFP4/MTP/MTP-XS 六种 HuggingFace 权重变体，并附带 ghcr.io 上的统一 vLLM 容器，内置 z-lab DFlash 投机解码（n=10/12）、sm_121a NVFP4 内核、Qwen3 推理解析器与工具调用解析器。容器仅支持 DGX Spark/GB10（ARM64），x86 或非 Blackwell GPU 上不运行；其他硬件需自行用 vLLM 加载 HF 权重。附 docker-compose、基准结果 JSON 与 DDTree 研究文档。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 提供 6 个 HF 变体（BF16/NVFP4/MTP/MTP-XS）可移植权重
-- DFlash 投机解码容器（vLLM 0.23.0，sm_121a NVFP4 内核），给出分类别吞吐基准
-- 仅支持 DGX Spark/GB10（ARM64 + Blackwell sm_121a），其他硬件需自行用 vLLM 加载 HF 权重
-- 内置 vLLM PR #40898/#41703 补丁修复 SWA 起草与 prefix caching 问题
+- 6 种 HF 权重变体（BF16/NVFP4/MTP/MTP-XS）
+- 统一 vLLM 容器内置 DFlash 投机解码与 NVFP4 内核
+- OpenAI 兼容端点（localhost:8000/v1）与 docker-compose/gateway/benchmark profiles
+- 基准 JSON 文件与 DDTree 集成计划文档随仓库提供
 
 ## 适用场景
 
-- 在 DGX Spark 上本地部署长上下文推理服务（OpenAI 兼容端点）
-- 用 HF 可移植权重在其他 GPU 上自行构建 vLLM 推理
-- 查阅 DFlash 投机解码在 GB10 上的性能基准与调参记录
+- 在 DGX Spark 上本地部署去审查的 Qwen3.6-27B 推理服务
+- 在其他 Blackwell GPU 上用自建 vLLM 加载 NVFP4 权重
+- 复现或对比 DFlash 投机解码的吞吐数据
 
 ## 场景标签
 
@@ -39,20 +39,20 @@
 
 > L21: A **fully uncensored, capability-enhanced** abliteration of Qwen/Qwen3.6-27B, produced over **72 hours of continuou
 > L25: > ⚠️ **This container is DGX Spark / GB10 only — it is not portable.** `aeon-vllm-ultimate` is built for the Spark'
-> L30: # 1) Pull the unified AEON vLLM container (vLLM 0.23.0, sm_121a, DFlash)
+> L31: docker pull ghcr.io/aeon-7/aeon-vllm-ultimate:latest
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash 星数(近 18 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 478 --> 504
-    line [480, 483, 484, 485, 486, 488, 484, 492, 493, 494, 495, 496, 497, 498, 500, 501, 502, 502]
+    title "AEON-7/Qwen3.6-27B-AEON-Ultimate-Uncensored-DFlash 星数(近 17 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 482 --> 503
+    line [483, 484, 485, 486, 488, 484, 492, 493, 494, 495, 496, 497, 498, 500, 501, 502, 502]
 ```
 
-2026-10-21 480 → 2026-11-24 502（+22）
+2026-10-23 483 → 2026-11-25 502（+19）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b6b8c7abf613` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5bfe9c069ed2` · [字段定义](../../DATASET.md)*

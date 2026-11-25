@@ -47,12 +47,12 @@ devops-skills 是一组可复用的 DevOps 技能指令文件（SKILL.md），�
 ```mermaid
 xychart-beta
     title "abdullahkhawer/devops-skills 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-24"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-25"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-24 11（+1）
+2026-11-08 10 → 2026-11-25 11（+1）
 
 
 ---

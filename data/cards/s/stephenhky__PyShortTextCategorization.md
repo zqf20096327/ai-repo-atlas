@@ -2,9 +2,9 @@
 
 ⭐ 474 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/stephenhky/PyShortTextCategorization) · [官网](https://pypi.org/project/shorttext/) · 个人维护
 
-**Python 短文本分类与挖掘算法库，供研究开发者使用**
+**短文本分类与挖掘的 Python 机器学习库**
 
-名为 shorttext 的 Python 包，面向短文本的监督与无监督学习：因短文本词稀疏、信息量少，包内提供多种中间表示（gensim 的 LDA/LSI/随机投影等主题模型、自编码器、预训练词向量），再接 scikit-learn 监督分类、余弦距离分类、神经网络分类（ConvNet、C-LSTM）、最大熵分类，另含字符级 seq2seq、拼写纠错与短语差异度量（soft Jaccard、Word Mover's distance）。运行于 Python 3.11-3.13，pip 安装，附文档与教程。
+Python 包 shorttext 支持对短文本进行监督与非监督学习：因短文本词稀疏、信息不足，库提供主题模型（gensim 的 LDA/LSI/随机投影、自编码器）与词嵌入等中间表示，再接 scikit-learn 分类、余弦距离分类、神经网络（ConvNet、C-LSTM）、最大熵分类，并提供软 Jaccard、词移距离等短语差异度量、字符级 seq2seq 学习与拼写纠正。附示例数据（NIH RePORT 等）与文本预处理，支持预训练词嵌入，运行于 Python 3.11–3.13，通过 pip 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 主题模型与词嵌入的短文本中间表示
-- 多种分类器：scikit-learn 监督、余弦距离、ConvNet/C-LSTM 神经网络、最大熵
-- gensim 主题模型（LDA/LSI/Random Projections）与自编码器支持
-- 短语差异度量（soft Jaccard、Word Mover's distance）与拼写纠错
+- gensim 主题模型（LDA/LSI/随机投影）与自编码器表示
+- 神经网络分类（ConvNet、C-LSTM）与最大熵、余弦距离分类
+- 软 Jaccard（Damerau-Levenshtein）与词移距离（WMD）短语度量
+- 字符级 seq2seq 学习与拼写纠正，附示例数据
 
 ## 适用场景
 
-- 对短文本（如文献关键词）做分类与主题建模
-- 比较短文本相似度或差异度量
-- 在文本挖掘流程中做预处理与表示学习实验
+- 对标题、关键词等短文本做主题分类
+- 用词嵌入或主题模型为短文本构建中间表示
+- 计算短文本间的相似度与编辑距离度量
+- 对查询或标签做拼写纠正
 
 ## 场景标签
 
@@ -38,20 +39,21 @@
 ## 证据(README 行号)
 
 > L14: This package `shorttext` is a Python package that facilitates supervised and unsupervised
-> L30: - neural network classification (including ConvNet, and C-LSTM);
+> L19: of these representations, including topic modeling and word-embedding algorithms.
+> L21: The package `shorttext` runs on Python 3.11, 3.12, and 3.13.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "stephenhky/PyShortTextCategorization 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-10", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-20", "2026-11-25"]
     y-axis "stars" 472 --> 476
     line [473, 475, 474, 474]
 ```
 
-2026-10-22 473 → 2026-11-24 474（+1）
+2026-10-23 473 → 2026-11-25 474（+1）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1198a61cfac5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2275bc3a4fda` · [字段定义](../../DATASET.md)*

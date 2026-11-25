@@ -2,9 +2,9 @@
 
 ⭐ 970 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/tommy0103/obelisk) · [官网](https://obelisk.antinomie.org) · 个人维护 · 中文 README
 
-**把编码 Agent 历史会话索引成 SQLite，供 Agent 查询、人浏览**
+**把多个编程 agent 的历史会话索引成可查询数据库的工具**
 
-Obelisk 将本地多个编码 Agent（Claude Code、Codex、GitHub Copilot、DeepSeek Harness、Devin 等 12 个 Provider）的历史会话、消息、工具调用、子 Agent 等索引进统一的 SQLite 数据库，并监听各 Provider 目录保持增量更新。面向两类用户：Agent 通过 CLI 与技能文件用 JS 查询自身历史（search()/sql() 等查询面，FTS5 全文检索）；人通过 Electron 桌面应用浏览会话、管理 memory 文件、查看用量统计与周报卡片。需 Node.js 22.13+；桌面应用运行期间 CLI 只读。
+Obelisk 将本地多个编程 agent（Claude Code、Codex、GitHub Copilot 等 12 个 provider）的会话历史索引进一个 SQLite 数据库，通过监视各 provider 目录保持更新。面向两类使用者：agent 侧提供 CLI 与技能文件，让 agent 自己写 JS 查询检索会话历史；人类侧提供 Electron 桌面应用浏览会话、管理记忆文件、查看 token 统计与周报卡片。记忆层允许将检索结论登记为 markdown 文件供后续召回；索引首次构建约 5 秒/100 个会话，之后增量重建。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Obelisk 将本地多个编码 Agent（Claude Code、Codex、GitHub Copilot、Dee
 
 ## 能力要点
 
-- 索引 12 个编码 Agent Provider 的会话到统一 SQLite 架构
-- Agent 写 JS 查询检索自身历史：overview()/sessions()/search()/sql() 等
-- memory 层：Agent 提议经用户批准的 markdown 记忆文件，后续会话可召回
-- Electron 桌面应用提供会话浏览、热力图、token 图表与周报卡片
+- 12 个 provider 的会话统一索引进单个 SQLite 库，FTS5 全文检索
+- agent 写 JS 查询并本地执行，提供 overview/search/sql 等查询接口
+- Electron 桌面应用提供会话浏览、记忆管理、活动热力图与 recap 卡片
+- CLI 零运行时 npm 依赖，使用 Node 内置 SQLite
 
 ## 适用场景
 
-- 让编码 Agent 检索自己过去的会话与改动原因
-- 浏览和搜索所有 Agent 会话、工具调用与 token 用量
-- 把一周的 Agent 工作生成可分享的 recap 卡片
+- 让编程 agent 检索自己过往会话，回答改了哪些文件、为什么这么改
+- 汇总一周/一月工作产出，生成可分享的 recap 卡片
+- 跨多个 agent 工具统一浏览与搜索历史会话
+- 沉淀可复用的记忆文件供未来会话召回
 
 ## 场景标签
 
@@ -39,19 +40,20 @@ Obelisk 将本地多个编码 Agent（Claude Code、Codex、GitHub Copilot、Dee
 
 > L11: Obelisk indexes your local coding-agent history into one SQLite database and
 > L14: - **Agents** — the `obelisk` CLI plus an agent skill that teaches coding agents
+> L17: - **Humans** — an Electron desktop app to browse sessions, manage memories,
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "tommy0103/obelisk 星数(近 25 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 660 --> 998
-    line [688, 690, 692, 695, 696, 698, 700, 707, 750, 849, 695, 906, 916, 919, 921, 922, 928, 947, 950, 954, 955, 957, 967, 970, 970]
+    title "tommy0103/obelisk 星数(近 24 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    y-axis "stars" 662 --> 998
+    line [690, 692, 695, 696, 698, 700, 707, 750, 849, 695, 906, 916, 919, 921, 922, 928, 947, 950, 954, 955, 957, 967, 970, 970]
 ```
 
-2026-10-22 688 → 2026-11-24 970（+282）
+2026-10-23 690 → 2026-11-25 970（+280）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ab5023631bf1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `480912a7f8cf` · [字段定义](../../DATASET.md)*

@@ -46,12 +46,12 @@ Enterprise Scale AI Factory 是部署在 Azure 上的企业级 AI 落地区（la
 ```mermaid
 xychart-beta
     title "jostrm/azure-enterprise-scale-ml 星数(近 2 点)"
-    x-axis ["2026-10-21", "2026-11-24"]
+    x-axis ["2026-10-22", "2026-11-25"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-21 53 → 2026-11-24 53（+0）
+2026-10-22 53 → 2026-11-25 53（+0）
 
 
 ---

@@ -45,12 +45,12 @@ Carnegie Mellon University Heinz College 的项目制研究生课程（Fall 2026
 ```mermaid
 xychart-beta
     title "dssg/mlforpublicpolicylab 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 124 --> 126
     line [125, 125]
 ```
 
-2026-10-22 125 → 2026-11-24 125（+0）
+2026-10-23 125 → 2026-11-25 125（+0）
 
 
 ---

@@ -45,13 +45,13 @@ Chrome/Edge 侧栏扩展，内嵌基于 xterm.js 与真实 PTY（Windows ConPTY�
 
 ```mermaid
 xychart-beta
-    title "littlejoely/omeety-terminal 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-10", "2026-11-14", "2026-11-24"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    title "littlejoely/omeety-terminal 星数(近 4 点)"
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-14", "2026-11-25"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 21, 21]
 ```
 
-2026-10-22 18 → 2026-11-24 21（+3）
+2026-10-23 19 → 2026-11-25 21（+2）
 
 
 ---

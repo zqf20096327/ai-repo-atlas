@@ -45,12 +45,12 @@ AWS 维护的 Kubeflow 开源发行版仓库，核心内容是一套 Kubeflow ma
 ```mermaid
 xychart-beta
     title "awslabs/kubeflow-manifests 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 185 --> 187
     line [186, 186]
 ```
 
-2026-10-22 186 → 2026-11-24 186（+0）
+2026-10-23 186 → 2026-11-25 186（+0）
 
 
 ---

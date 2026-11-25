@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TirendazAcademy/Awesome-Data-Science-Resources 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 120 --> 122
     line [121, 121]
 ```
 
-2026-10-22 121 → 2026-11-24 121（+0）
+2026-10-23 121 → 2026-11-25 121（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 494 · Astro · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RiccardoBiosas/awesome-MLSecOps) · [官网](https://awesomemlsecops.com/) · 个人维护
 
-**面向安全工程师的 MLSecOps 开源工具与研究策展清单**
+**面向安全工程师与红队的 MLSecOps 开源工具与资源清单**
 
-由 The MLSecOps Hacker 通讯作者维护的策展目录，收录覆盖机器学习全生命周期的安全资源：模型与工件安全、对抗机器学习测试、具身智能与机器人安全、LLM 红队、AI Agent 安全、失控 Agent 治理、隐私保护机器学习、AI 供应链安全及模型评测监控等类别的工具、研究实现与 CTF 练习。面向安全工程师、ML 从业者与 AI 红队成员，用于发现相关开源工具与学习材料，不提供安装命令，条目维护状态需自行评估。
+按机器学习安全运营（MLSecOps）主题组织的策展式目录：收录模型与工件安全、对抗样本测试、具身 AI 安全、LLM 红队、AI Agent 安全、隐私计算、供应链安全、模型评估等类别的开源工具与论文代码，每条附一句话功能描述。维护者同时运营 The MLSecOps Hacker 新闻 newsletter，新文章首发于此。清单声明部分条目为概念验证，提示使用前自行评估维护状态、许可与部署适用性。
 
 ## 筛选速览
 
@@ -20,38 +20,38 @@
 
 ## 能力要点
 
-- 按模型安全、对抗测试、LLM 红队、Agent 安全、供应链等 10+ 类别组织条目
-- 收录具身智能/机器人 VLA 模型对抗攻击研究实现
-- 包含 OWASP Agentic Top 10 风险映射的工具与治理框架
-- 附对抗 ML CTF 与提示注入练习场等学习资源
+- 按 9+ 个类别组织：模型序列化攻击、对抗测试、LLM 红队、Agent 安全、供应链安全等
+- 覆盖 Rogue Agents/Agentic Misalignment 类工具，映射 OWASP Agentic Top 10
+- 包含具身 AI 与机器人 VLA 模型的对抗测试工具小节
+- 维护者配套发布 The MLSecOps Hacker newsletter（RSS/存档）
 
 ## 适用场景
 
-- 为 ML/AI 系统挑选安全测试与防护工具
-- AI 红队寻找 LLM 与 Agent 攻击测试框架
-- 了解对抗机器学习与 Agent 安全研究进展
+- 为 ML 系统选型安全测试与防护的开源工具
+- AI 红队寻找 prompt 注入与越狱测试工具
+- 为模型工件做 SBOM/签名与供应链防护选型
 
 ## 场景标签
 
-`网络安全` `精选清单` · 领域:学习与行业
+`精选清单` `网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L7: **MLSecOps (Machine Learning Security Operations)** is the practice of integrating security throughout the machine l
 > L9: This curated catalog helps security engineers, ML practitioners, developers, and AI red teams discover open-source M
+> L38: Open-source MLSecOps tools help practitioners test, monitor, and protect machine learning models, data, pipelines, 
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "RiccardoBiosas/awesome-MLSecOps 星数(近 14 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
     y-axis "stars" 479 --> 495
     line [480, 481, 482, 483, 484, 481, 490, 491, 492, 493, 494, 493, 494, 494]
 ```
 
-2026-10-22 480 → 2026-11-24 494（+14）
+2026-10-23 480 → 2026-11-25 494（+14）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `95111b7590b9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6f4b4874dd5c` · [字段定义](../../DATASET.md)*

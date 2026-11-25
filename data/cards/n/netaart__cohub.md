@@ -2,9 +2,9 @@
 
 ⭐ 593 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/netaart/cohub) · [官网](https://cohub.live) · 组织维护 · 中文 README
 
-**人与 agent 共同创作、游玩和构建的在线协作空间平台**
+**人与 agent 共同创作、分享的在线协作空间**
 
-Cohub 提供名为 Space 的项目空间：用户在其中结合提示词、文件与 agent 进行创作，产出游戏、应用、媒体、自动化等成品，支持保存与分享。Space 可通过 Web、iOS/Android 应用、CLI、Discord、微信等多个入口访问，并支持 fork 检查点或以 @space 引用其他 Space 作为上下文。产品由 Viscept Limited 以 Apache 2.0 开发，核心开发流程在公开 Space 中进行，提供 CLI 安装与自托管文档。
+Cohub 提供以 Space 为单位的协作环境，用户与 agent 在同一空间内处理想法、提示词、文件并共同产出游戏、应用、媒体、自动化等内容；支持 Fork checkpoint 到新 Space、用 `@space` 引用其他 Space 作为上下文。可通过 Web、移动端、CLI、Discord、微信访问，提供 self-host 方案与 agent skills 集成（Antigravity、Claude Code、Codex、Cursor 等）。其 agent 运行时基于 pi 构建，开发流程本身在公开 Space 中进行。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@ Cohub 提供名为 Space 的项目空间：用户在其中结合提示词、文�
 
 ## 能力要点
 
-- Space 中人与 agent 协同创建游戏、应用、媒体、自动化等成品
-- Web、移动端、CLI、Discord、微信多端访问同一 Space
-- 支持 fork 检查点与 @space 引用其他 Space 作为上下文
-- 可自托管，agent 运行时基于 pi 构建
+- 人与 agent 同处一个 Space 共同创建、保存与分享内容
+- checkpoint Fork 与 `@space` 引用提供上下文复用机制
+- 多端访问：Web、iOS/Android、CLI、Discord、微信
+- 提供 self-host 部署与 agent skills 安装方式
 
 ## 适用场景
 
-- 在同一个空间里和 agent 一起从想法迭代出可用的应用或游戏
-- 在手机、CLI 或微信等不同入口继续同一个项目空间
-- 团队或公司内部用 Space 组织 agent 参与的开发与创作流程
+- 与 agent 协作开发小型应用或游戏
+- 把已有 Space 作为上下文 Fork 出新项目
+- 通过 CLI 在终端接入 Cohub Space
+- 公司内部以 Space 承载 specs、评审与发布流程
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`编码 Agent` `AI 助手` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L12: **A living space where people and agents create, play, and build together.**
 > L15: - **Build together** — People and agents in one Space. Create together, save, and share.
+> L68: Cohub's agent runtime is built on pi — thank you for the foundation.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "netaart/cohub 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 569 --> 594
-    line [571, 574, 575, 579, 580, 581, 583, 574, 585, 587, 588, 589, 591, 592, 592]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 569 --> 595
+    line [571, 574, 575, 579, 580, 581, 583, 574, 585, 587, 588, 589, 591, 592, 593]
 ```
 
-2026-10-22 571 → 2026-11-24 592（+21）
+2026-10-23 571 → 2026-11-25 593（+22）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `724d607ea0b2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b3d3ca7084fc` · [字段定义](../../DATASET.md)*

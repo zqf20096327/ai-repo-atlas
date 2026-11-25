@@ -45,12 +45,12 @@ TypeScript 命令行工具，拉取 GitHub 仓库或扫描本地目录，将所�
 ```mermaid
 xychart-beta
     title "pedrokohler/github-repo-to-single-file 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-25"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-22 13 → 2026-11-24 13（+0）
+2026-10-23 13 → 2026-11-25 13（+0）
 
 
 ---

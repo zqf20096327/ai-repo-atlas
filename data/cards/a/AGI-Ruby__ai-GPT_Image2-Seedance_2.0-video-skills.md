@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "AGI-Ruby/ai-GPT_Image2-Seedance_2.0-video-skills 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "AGI-Ruby/ai-GPT_Image2-Seedance_2.0-video-skills 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 36 --> 38
+    line [37, 37]
 ```
 
-2026-10-22 36 → 2026-11-24 37（+1）
+2026-10-23 37 → 2026-11-25 37（+0）
 
 
 ---

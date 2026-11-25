@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "invertibleMatrix/filament 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-11-23", "2026-11-25"]
+    y-axis "stars" 16 --> 23
+    line [17, 22]
 ```
 
-2026-11-23 17 → 2026-11-24 17（+0）
+2026-11-23 17 → 2026-11-25 22（+5）
 
 
 ---

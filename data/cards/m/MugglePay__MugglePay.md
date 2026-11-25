@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MugglePay/MugglePay 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 239 --> 242
-    line [240, 241, 241]
+    title "MugglePay/MugglePay 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 240 --> 242
+    line [241, 241]
 ```
 
-2026-10-22 240 → 2026-11-24 241（+1）
+2026-10-23 241 → 2026-11-25 241（+0）
 
 
 ---

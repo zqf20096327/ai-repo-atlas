@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BigCatNotFat/PacificOceanAI 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-11-08", "2026-11-24"]
-    y-axis "stars" 140 --> 145
-    line [144, 143, 141, 141]
+    title "BigCatNotFat/PacificOceanAI 星数(近 3 点)"
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    y-axis "stars" 140 --> 144
+    line [143, 141, 141]
 ```
 
-2026-10-22 144 → 2026-11-24 141（-3）
+2026-10-23 143 → 2026-11-25 141（-2）
 
 
 ---

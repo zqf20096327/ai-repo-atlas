@@ -45,12 +45,12 @@ TypeScript 命令行框架，用于编排多智能体 LLM 流水线：每个 age
 ```mermaid
 xychart-beta
     title "JavierBaal/KairosFlow 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-25"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-10 24 → 2026-11-24 24（+0）
+2026-11-10 24 → 2026-11-25 24（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 516 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/a2aproject/a2a-java) · [官网](https://a2aproject.github.io/a2a-java/) · 组织维护
 
-**Java 开发者的 A2A 协议 SDK：实现 agent 间通信客户端与服务端**
+**Java 开发者将 agentic 应用接入 A2A 协议的官方 SDK**
 
-Agent2Agent (A2A) 协议的官方 Java SDK，多模块 Maven 库，提供客户端与服务端支持，覆盖 JSON-RPC、gRPC 与 REST 三种传输。开发者可将自己的 Java agentic 应用运行为 A2A 服务器，或与任意 A2A 兼容 agent 通信。要求 Java 17+，通过 Maven 依赖引入；社区提供 Quarkus 与 Jakarta EE 运行时集成，extras 目录含 OpenTelemetry、JPA 任务存储、Kafka 队列管理器等可选组件。
+A2A 协议的官方多模块 Maven 库，提供 client 与 server 支持，使 Java agentic 应用能作为 A2A 服务器运行，并通过 JSON-RPC、gRPC、REST 三种传输方式与其他 A2A 兼容 agent 通信。1.x 版本为活跃支持线，附带兼容模块可与 A2A v0.3 客户端和 agent 通信。需 Java 17+，通过 Maven 依赖引入，另有 OpenTelemetry、JPA 任务存储、Kafka 队列管理器、Vert.x 与 Android HTTP 客户端等可选扩展。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Agent2Agent (A2A) 协议的官方 Java SDK，多模块 Maven 库，提供客户�
 
 ## 能力要点
 
-- 客户端/服务端支持 JSON-RPC、gRPC、REST 三种传输
-- 多模块 Maven 库，Java 17+
-- Quarkus 参考实现与 Jakarta EE 社区集成
-- 可选组件：OpenTelemetry、JPA 任务存储、Kafka 复制队列、Vert.x/Android HTTP 客户端
+- 支持 JSON-RPC、gRPC、REST 三种 A2A 通信传输
+- client 与 server 双端支持的多模块 Maven 库
+- 提供与 A2A v0.3 协议版本通信的兼容模块
+- 可选扩展：OpenTelemetry、JPA 任务存储、Kafka 复制队列、Android 客户端
 
 ## 适用场景
 
-- 把 Java agentic 应用暴露为 A2A 服务器供其他 agent 调用
-- 编写 Java 客户端与任意 A2A 兼容 agent 通信
-- 在 Quarkus 或 Jakarta EE 运行时中集成 A2A 协议
+- 把 Java agentic 应用发布为 A2A 服务器供其他 agent 调用
+- 从 Java 应用与其他 A2A 兼容 agent 通信
+- 开发跨传输方式（gRPC/REST）的 agent 集成
 
 ## 场景标签
 
@@ -44,14 +44,14 @@ Agent2Agent (A2A) 协议的官方 Java SDK，多模块 Maven 库，提供客户�
 
 ```mermaid
 xychart-beta
-    title "a2aproject/a2a-java 星数(近 15 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-24"]
-    y-axis "stars" 504 --> 518
-    line [505, 506, 507, 508, 507, 508, 507, 513, 514, 515, 516, 517, 515, 516, 516]
+    title "a2aproject/a2a-java 星数(近 14 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-25"]
+    y-axis "stars" 505 --> 518
+    line [506, 507, 508, 507, 508, 507, 513, 514, 515, 516, 517, 515, 516, 516]
 ```
 
-2026-10-22 505 → 2026-11-24 516（+11）
+2026-10-23 506 → 2026-11-25 516（+10）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3559b5250d80` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `315c7a9f7a0e` · [字段定义](../../DATASET.md)*

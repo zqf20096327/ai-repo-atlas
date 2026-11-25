@@ -2,9 +2,9 @@
 
 ⭐ 871 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/daggerhashimoto/openclaw-nerve) · [官网](https://nerve.zone) · 个人维护
 
-**OpenClaw 的自托管 Web 驾驶舱：语音对话、看板与 agent 舰队控制**
+**OpenClaw 的自托管 Web 控制台：语音、看板与多 agent 管理**
 
-部署在 OpenClaw Gateway 之前的浏览器界面，将聊天线程之外的操作需求集中到一个控制平面：多 agent 管理（各带工作区、记忆、身份与技能）、推送对讲与唤醒词语音、本地 Whisper 转写与多 TTS 提供方、看板任务委派、cron 会话查看、文件浏览与在线编辑、token 用量与成本追踪。通过 install.sh 一键安装或 npm 源码构建，需要 Node.js 22+ 与一个 OpenClaw 网关，默认绑定 127.0.0.1，暴露网络时启用密码认证。
+为 OpenClaw 网关提供浏览器操作面的自托管 Web 界面，位于网关之前，通过 WS/SSE/REST 代理请求。支持在一个控制面运行多个 agent（各自的工作区、子 agent、记忆、身份与技能），提供流式聊天、本地 Whisper 语音转录与多 TTS、cron 调度、看板任务流、文件编辑器、token 用量与成本观测、内联图表与地图渲染。需 Node.js 22+、git 与 OpenClaw 网关，macOS/Linux 运行，默认仅绑定 127.0.0.1，联网需开启密码认证。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,39 +20,40 @@
 
 ## 能力要点
 
-- 多 agent 舰队控制平面：工作区、记忆、身份、技能逐 agent 管理与实时检查
-- 语音链路完整：推送对讲、唤醒词、本地 Whisper 转写、多 TTS 提供方、多语言停止短语
-- 操作层能力：cron 调度、会话树、看板工作流、审查循环、提案收件箱
-- 可观测性：token 用量、成本追踪、上下文压力表、agent 与事件日志
+- 多 agent 舰队控制面：工作区、记忆、身份与技能的切换与检查
+- 语音对话：push-to-talk、唤醒词、本地 Whisper 转录、四个 TTS 提供商
+- 运营层：cron 调度、kanban 任务板、评审流、提案收件箱、子 agent 会话树
+- 观测：token 用量、成本、上下文压力、Claude Code 与 Codex 计划限额
 
 ## 适用场景
 
-- 同时运营多个 OpenClaw agent，统一切换上下文与检查状态
-- 用看板给 agent 委派任务并审查产出
-- 长任务运行时追踪 token 花费与上下文压力
-- 在浏览器里实时浏览并编辑 agent 的工作区文件与记忆
+- 自托管 OpenClaw 后在浏览器里集中管理和操作多个 agent
+- 用看板给 agent 派任务并评审结果
+- 长时间任务运行中追踪 token 消耗与成本
+- 通过语音与 agent 对话或远程访问控制台
 
 ## 场景标签
 
-`多智能体` `LLM 可观测性` `语音 Agent` · 领域:Agent 开发
+`多智能体` `语音 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L125: Nerve sits in front of the gateway and gives you a richer operating surface in the browser.
-> L38: Run multiple agents from one place. Each agent can have its own workspace, subagents, memory, identity, soul, and s
+> L159: ## How it fits into OpenClaw
+> L164: Browser ─── Nerve (:3080) ─── OpenClaw Gateway (:18789)
+> L39: Run multiple agents from one place. Each agent can have its own workspace, subagents, memory, identity, soul, and s
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "daggerhashimoto/openclaw-nerve 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-25"]
     y-axis "stars" 870 --> 877
     line [871, 873, 874, 875, 876, 873, 874, 873, 872, 871, 871]
 ```
 
-2026-10-22 871 → 2026-11-24 871（+0）
+2026-10-23 871 → 2026-11-25 871（+0）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `969dc84cebbd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8e0f885d1bf0` · [字段定义](../../DATASET.md)*

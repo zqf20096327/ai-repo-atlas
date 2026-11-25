@@ -45,12 +45,12 @@ Devinterview.io 维护的推荐系统面试准备资料库：以问答形式覆�
 ```mermaid
 xychart-beta
     title "Devinterview-io/recommendation-systems-interview-questions 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-10", "2026-11-16", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-16", "2026-11-25"]
     y-axis "stars" 68 --> 72
     line [69, 70, 71, 71]
 ```
 
-2026-10-22 69 → 2026-11-24 71（+2）
+2026-10-23 69 → 2026-11-25 71（+2）
 
 
 ---

@@ -46,13 +46,13 @@ AnkiOps 将 Anki 牌组映射为 Markdown 文件，提供笔记、笔记类型�
 
 ```mermaid
 xychart-beta
-    title "visserle/AnkiOps 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-23", "2026-11-24"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    title "visserle/AnkiOps 星数(近 2 点)"
+    x-axis ["2026-10-23", "2026-11-25"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
 ```
 
-2026-10-21 23 → 2026-11-24 24（+1）
+2026-10-23 24 → 2026-11-25 24（+0）
 
 
 ---

@@ -2,9 +2,9 @@
 
 ⭐ 521 · C++ · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation) · [官网](https://developer.nvidia.com/isaac-ros-gems) · 组织维护
 
-**ROS 2 三包 3D 物体位姿估计，GPU 加速推理**
+**为机器人开发者提供 GPU 加速的 3D 物体位姿估计 ROS 2 包**
 
-Isaac ROS Pose Estimation 提供 isaac_ros_foundationpose、isaac_ros_dope、isaac_ros_centerpose 三个 ROS 2 包，用 GPU 加速 DNN 推理估计物体 6-DoF 位姿，输出可与深度数据融合用于导航或机械臂操作。foundationpose 基于 FoundationPose 模型，无需微调即可处理未见物体并支持跟踪；dope 需针对特定物体预训练模型；centerpose 可按类别检测。推理依赖 Isaac ROS DNN Inference 的 Triton/TensorRT 加速与 DNN Image Encoder 预处理。
+包含三个 ROS 2 包（isaac_ros_foundationpose、isaac_ros_dope、isaac_ros_centerpose），用 GPU 加速的 DNN 推理预测物体位姿，输出可融合深度信息用于导航或操作。三个包在是否需重训、TAO 支持、速度与成熟度上各有差异：FoundationPose 无需微调即可处理未见物体并支持跟踪；DOPE 需预训练模型；CenterPose 对已知类别做检测与 6-DoF 估计。推理依赖 Isaac ROS DNN Inference 的 Triton 或 TensorRT，性能表覆盖 Jetson/AGX Orin/x86+RTX 等平台。
 
 ## 筛选速览
 
@@ -20,38 +20,40 @@ Isaac ROS Pose Estimation 提供 isaac_ros_foundationpose、isaac_ros_dope、isa
 
 ## 能力要点
 
-- 三个包分别支持未见物体位姿估计（FoundationPose）、已知物体（DOPE）、类别级（CenterPose）
-- FoundationPose 跟踪模式在 Jetson Thor 平台超过 120 FPS
-- 推理依赖 Triton/TensorRT GPU 加速与 Isaac ROS DNN Image Encoder 预处理
-- README 列出 AGX Thor/Orin/DGX Spark/RTX 等多平台性能数据
+- 三个 ROS 2 位姿估计节点：FoundationPose、DOPE、CenterPose
+- FoundationPose 无需微调即可估计未见物体位姿并支持跟踪
+- 依赖 Triton/TensorRT 进行 GPU 加速 DNN 推理
+- 给出 Jetson/Orin/x86 多平台性能数据表
 
 ## 适用场景
 
-- 移动机器人导航中估计目标物体 3D 位姿与距离
-- 机械臂抓取前的物体位姿识别
-- 对未见新物体免训练直接做位姿估计与跟踪
+- 机器人抓取与操作前估计物体 3D 位姿
+- 为导航系统提供物体位置与距离感知
+- 在 Jetson 平台部署实时位姿估计
+- 参照教程训练自定义物体的 DOPE 模型
 
 ## 场景标签
 
- · 领域:机器人/计算机视觉
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L3: Deep learned, NVIDIA-accelerated 3D object pose estimation
+> L10: three ROS 2 packages to predict the pose of an object. Refer the following table to see the differences of them:
 > L18: Those packages use GPU acceleration for DNN inference to
+> L76: Packages in this repository rely on accelerated DNN model inference
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
-    title "NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation 星数(近 11 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-21", "2026-11-24"]
-    y-axis "stars" 510 --> 521
-    line [511, 514, 515, 516, 517, 515, 517, 518, 519, 520, 520]
+    title "NVIDIA-ISAAC-ROS/isaac_ros_pose_estimation 星数(近 10 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-21", "2026-11-25"]
+    y-axis "stars" 513 --> 522
+    line [514, 515, 516, 517, 515, 517, 518, 519, 520, 521]
 ```
 
-2026-10-22 511 → 2026-11-24 520（+9）
+2026-10-23 514 → 2026-11-25 521（+7）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `376266b859d7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5885c4588906` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 929 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/autowarefoundation/vision_pilot) · [官网](https://autoware.org/) · 组织维护
 
-**开源端到端 AI 的 L2 ADAS 驾驶辅助系统**
+**开源端到端 AI 的 L2 ADAS 驾驶辅助软件栈**
 
-Autoware Foundation 发布的开源 L2 级高级驾驶辅助系统（ADAS）软件栈，采用混合端到端 AI 架构：感知模型（AutoSpeed 目标检测）负责安全，端到端模型（AutoSteer 车道点检测、AutoDrive 车距/弯道估计）负责驾驶性能。支持 ACC、FCW、AEB、LKAS、LDW、ISA 与单车道自动巡航等功能，无需高精地图，单目前视摄像头（52-55 度 FOV、1-2MP）即可运行。提供源码构建、预编译 DEB 包与 Docker 三种运行方式，支持 ROS 2 接口与 CARLA 仿真闭环测试。Apache 2.0 许可，面向 OEM 与 Tier-1 量产集成及科研使用。
+由 Autoware Foundation 发布的开源 L2 ADAS 系统，采用混合端到端 AI 架构：感知模型（AutoSpeed 物体检测）负责安全、端到端模型（AutoSteer/AutoDrive）负责性能，三个模型权重随代码一并开源。支持 ACC/FCW/AEB/LKAS/LDW/ISA 与单车道免手扶高速 Autopilot，仅需一个 52-55° 视场角的前置单目摄像头，无需高精地图，实时以 mapless 模式跟随道路。面向 OEM 与 Tier-1 量产集成，可扩展至公交与卡车场景。提供源码编译、预构建 DEB 包与 Docker 三种运行方式，支持 ROS 2 与 CARLA 仿真闭环测试。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ Autoware Foundation 发布的开源 L2 级高级驾驶辅助系统（ADAS）软�
 
 ## 能力要点
 
-- 三个自研开源 AI 模型：AutoSpeed/AutoSteer/AutoDrive，含模型权重
-- 混合端到端架构：感知模型保安全 + 端到端模型保性能，免高精地图
-- 提供源码构建、预编译 DEB 包、Docker 三种部署方式，支持 ROS 2 与 CPU/GPU
-- 支持 CARLA 0.9.16 仿真闭环测试与自有相机标定接入
+- 混合端到端架构：感知模型与端到端模型并行处理
+- 三个开源模型（AutoSpeed/AutoSteer/AutoDrive）含权重，Apache 2.0 许可
+- 单目摄像头运行，无需 3D 高精地图
+- 支持 CARLA 0.9.16 仿真闭环测试与 ROS 2 接口
 
 ## 适用场景
 
-- OEM/Tier-1 在量产乘用车中集成 L2 ADAS 功能
-- 科研人员做端到端自动驾驶的闭环仿真评估
-- 商用车（客车/卡车）运输场景的辅助驾驶适配
-- 用样例数据回放做开环测试与可视化
+- 在乘用车上集成入门级 L2 驾驶辅助功能（ACC/LKAS/AEB 等）
+- 用 CARLA 仿真环境做闭环验证与评估
+- 用示例数据集做开环场景测试与可视化
+- 面向公交、卡车等运输物流场景做适配
 
 ## 场景标签
 
-`科研工具` `目标检测` · 领域:学习与行业
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L19: ## Free and fully open-source stack for L2 ADAS
-> L51: We utilize a **Hybrid End-to-End AI Architecture** as the core of Vision Pilot in which data is processed in parall
+> L52: perception AI models for safety, and End-to-End AI models for performance.
 > L56: 1. AutoSpeed - Closest in-path object detection
 > L63: **Vision Pilot does not require 3D high definition maps** and operates in a 'mapless' mode to follow the road in
 
@@ -48,13 +47,13 @@ Autoware Foundation 发布的开源 L2 级高级驾驶辅助系统（ADAS）软�
 ```mermaid
 xychart-beta
     title "autowarefoundation/vision_pilot 星数(近 13 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 915 --> 930
-    line [916, 917, 918, 919, 920, 921, 923, 917, 927, 928, 929, 928, 928]
+    line [916, 917, 918, 919, 920, 921, 923, 917, 927, 928, 929, 928, 929]
 ```
 
-2026-10-22 916 → 2026-11-24 928（+12）
+2026-10-23 916 → 2026-11-25 929（+13）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8aee3c1a02db` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ecee4eb8e14d` · [字段定义](../../DATASET.md)*

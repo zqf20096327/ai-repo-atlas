@@ -45,12 +45,12 @@ MonkeyGrab 是一个本地优先的多语言 RAG 系统：MinerU 解析 PDF 结�
 ```mermaid
 xychart-beta
     title "iDiagoValeta/localOllamaRAG 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
     y-axis "stars" 13 --> 17
     line [14, 16, 16]
 ```
 
-2026-10-22 14 → 2026-11-24 16（+2）
+2026-10-23 14 → 2026-11-25 16（+2）
 
 
 ---

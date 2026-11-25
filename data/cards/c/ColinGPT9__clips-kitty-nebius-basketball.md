@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ColinGPT9/clips-kitty-nebius-basketball 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-24"]
+    x-axis ["2026-11-23", "2026-11-25"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-24 3（+0）
+2026-11-23 3 → 2026-11-25 3（+0）
 
 
 ---

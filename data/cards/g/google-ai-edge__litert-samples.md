@@ -2,9 +2,9 @@
 
 ⭐ 500 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-ai-edge/litert-samples) · [官网](https://developers.google.com/edge/litert) · 组织维护
 
-**Google AI Edge 官方端侧 ML/GenAI 示例应用、模型转换配方与 agent 技能库**
+**LiteRT 端侧推理示例集：帮助开发者运行与转换端上模型**
 
-Google AI Edge 团队维护的 LiteRT 与 LiteRT-LM 中央开发者仓库：提供 Android/iOS/Flutter/Web/Linux/Raspberry Pi 等平台的示例应用（模型动物园、语音助手、语音机器人、Flutter 多模态助手）、模型转换与量化配方、真机云基准测试（DDP Colab）以及 9 个 SKILL.md 格式的 AI 编码 agent 技能。示例与 Hugging Face litert-community 的 400+ 预转换模型集成，无需手动转换。关键机制：CompiledModel API 提供 GPU/NPU 自动加速，LiteRT-LM 负责 LLM 推理编排；本体为示例代码集合而非可安装运行时。
+google-ai-edge 的开发者中心仓库，汇集 LiteRT（端侧推理运行时）与 LiteRT-LM（LLM 编排层）的示例应用、模型转换与量化流程、真机基准测试以及面向 AI 编码 agent 的 SKILL.md 技能。示例覆盖 Android/iOS/Flutter/Web/Linux/Raspberry Pi 等平台，模型权重从 Hugging Face litert-community 按需下载；入门路径按 Level 1–5 从浏览器演示递进到模型转换与云端真机基准。本仓库为示例集合，运行时本体在其他仓库。
 
 ## 筛选速览
 
@@ -20,40 +20,40 @@ Google AI Edge 团队维护的 LiteRT 与 LiteRT-LM 中央开发者仓库：提�
 
 ## 能力要点
 
-- 涵盖 Android/iOS/Flutter/Web/树莓派等多平台的示例应用集合
-- 模型转换、量化与验证的可复现配方（models/）
-- 9 个供 AI 编码 agent 使用的端到端 SKILL.md 技能手册（skills/）
-- 与 litert-community 400+ 预转换模型及 Google Cloud DDP 真机基准集成
+- 34 任务的 LiteRT Model Zoo 示例应用（21 视觉/8 音频/5 文本）
+- 客户端 WebGPU/WASM 浏览器演示（SAM 2.1、CLIPSeg、PP-OCRv5、Matcha-TTS 等）
+- 覆盖 MiniCPM5-2B、Qwen3、SAM 3 等的端到端转换/量化流程
+- 9 个面向 AI 编码 agent 的 SKILL.md 技能
 
 ## 适用场景
 
-- 把预转换模型直接集成进移动/桌面/Web 端侧 AI 应用
-- 将 PyTorch/HF checkpoint 转换、量化为 .tflite/.litertlm 端侧模型
-- 在真机（含 NPU/TPU）上运行基准测试对比性能
-- 让 AI 编码 agent 按 SKILL.md 手册自动化端侧模型开发流程
+- 把 litert-community 的预转换模型跑在手机或树莓派上
+- 参考流程把 PyTorch/HF 检查点转换为 .tflite/.litertlm
+- 在浏览器里零安装体验端侧推理演示
+- 用 litert CLI 下载并在本地或云端真机基准测试模型
 
 ## 场景标签
 
-`模型评测` `模型量化` · 领域:评测与运维
+`模型评测` `模型量化` `推理引擎` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L5:  **Official sample applications, end-to-end model conversion recipes, model benchmarks, and AI coding agent skills f
 > L21: Welcome to **`litert-samples`** — the central developer hub for
-> L25: Whether you want to **try a model in your browser in 30 seconds**, **drop a pre-converted model from Hugging Face `
+> L59: |**`google-ai-edge/litert-samples`** *(You are here)*|Reference apps (Android, iOS, Flutter, Web, Linux/Pi), conver
+> L99: 2. **Level 2 — 3-Minute CLI Quickstart**: Download, run, and benchmark any `litert-community` model in 3 commands.
 
 ## 星数曲线
 
 ```mermaid
 xychart-beta
     title "google-ai-edge/litert-samples 星数(近 10 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
     y-axis "stars" 490 --> 501
-    line [491, 492, 494, 495, 496, 498, 499, 500, 499, 499]
+    line [491, 492, 494, 495, 496, 498, 499, 500, 499, 500]
 ```
 
-2026-11-10 491 → 2026-11-24 499（+8）
+2026-11-10 491 → 2026-11-25 500（+9）
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `adbef6b19901` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `71f84e9c4188` · [字段定义](../../DATASET.md)*
