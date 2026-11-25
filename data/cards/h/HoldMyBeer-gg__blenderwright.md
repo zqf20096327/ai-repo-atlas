@@ -2,9 +2,9 @@
 
 ⭐ 205 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HoldMyBeer-gg/blenderwright) · [官网](https://blenderwright.holdmybeer.gg/) · 个人维护
 
-**Blender 的 MCP server：191 个工具让 AI 助手用自然语言做 3D 建模**
+**面向 AI 助手的 Blender MCP 服务器，自然语言驱动建模渲染**
 
-面向使用 Claude 等 MCP 客户端的开发者的 Blender 控制层：以标准 MCP server（stdio 传输）加 Blender 插件（TCP 后台服务）形式提供，暴露 191 个工具覆盖建模、网格编辑、材质、灯光、渲染、动画、雕刻等 28 个模块，并配 12 个专家 prompt 与视口截图自动评审反馈循环引导 LLM 产出专业结果。支持 uvx/pip 安装服务端、zip 安装插件；要求 Blender 4.2+，本地运行、零遥测。原始 Python 执行为可选项且默认关闭。
+作为 MCP 服务器连接 AI 客户端与 Blender：提供 279 个工具、覆盖建模、材质、灯光、动画、渲染、几何节点等领域，并内置 13 个专家提示词、视口截图视觉反馈回路与网格质量分析来引导 LLM 产出结果。安全机制上采用 HMAC-SHA256 签名本地 socket，原始 Python 执行默认关闭、需按会话开启。要求 Blender 5.2 LTS，无遥测、本地运行；不支持的旧版 Blender 无法安装。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 191 个工具覆盖 28 个 Blender 功能模块
-- 12 个专家 prompt 与视口截图自动评审反馈循环
-- 网格质量分析（非流形边、松散顶点、零面积面等）
-- 零依赖插件（仅 Python stdlib + bpy），本地 127.0.0.1 运行、零遥测
+- 279 个工具、32 个模块覆盖 Blender 主要领域
+- 13 个专家提示词与视觉反馈回路（OpenGL 截图 + 自动批判）
+- 签名 socket：HMAC-SHA256 每次启动换 token，命令签名防重放
+- 零依赖插件（仅 Python stdlib + bpy），零遥测
 
 ## 适用场景
 
-- 通过 Claude 等 AI 助手用自然语言在 Blender 中建模、布光和渲染
-- 让 LLM 自动检查并修复网格质量缺陷
-- 为任意 MCP 客户端接入 Blender 场景操作能力
+- 通过 Claude Code 等客户端用自然语言建 3D 模型并渲染动画
+- 让 AI 生成程序化材质与调整场景灯光
+- 用 AI 检查与修复网格拓扑质量
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: The most intuitive and efficient MCP Server for Blender. Control Blender entirely through AI assistants like Claude:
-> L120: blenderwright is a standard MCP server using stdio transport. Any MCP-compatible client can connect by running the
-> L129: The server communicates over stdin/stdout using the MCP protocol. It connects to Blender's addon over TCP on `127.
+> L7: The most intuitive and efficient MCP Server for Blender. Control Blender entirely through AI assistants like Claude:
+> L36: - **Signed socket**: the MCP server and Blender prove a shared per-start token to each other with HMAC-SHA256, then
+> L39: - **Built for Blender 5.2 LTS**: ships as a Blender Extension; developed and tested on Blender 5.2
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `26681cace48b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a23ed33ce430` · [字段定义](../../DATASET.md)*

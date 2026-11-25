@@ -2,44 +2,43 @@
 
 ⭐ 192 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/riteshbonthalakoti/HELPDESK.AI) · [官网](https://riteshbonthalakoti.tech/projects/helpdesk-ai) · 个人维护
 
-**多租户 AI 工单平台：自动分类工单、查重与建议修复**
+**给工程团队的开源 AI 工单平台：自动分级、去重与方案合成**
 
-基于 FastAPI 后端与 React 前端的全栈帮助台/工单系统，面向企业 IT 支持团队。AI 功能包括：DistilBERT 工单分类与优先级判定、NER 自动提取主机名/序列号/IP、sentence-transformers 语义查重防工单洪水、截图 OCR 提取错误码，以及 GitHub Models/Gemini 生成即时修复建议。架构上采用 4 层权限矩阵（Master Admin/Company Admin/Standard User/Public），基于 Supabase 实现多租户隔离，并分发 Android APK。限制：本地部署需自行配置 Supabase/Stripe 等环境变量；ServiceNow 同步与语音客服仍在路线图中。
+全栈工单平台（FastAPI 后端 + React 19 前端 + Expo 移动端），对新工单执行自动分类分级（DistilBERT v3 输出 P1–P4 严重度与工程领域）、截图/堆栈的 Tesseract OCR 与 NER 实体抽取、基于 Sentence Transformers 向量相似度的重复工单聚类，并可生成解决建议。支持本地模型运行（DistilBERT、all-MiniLM-L6-v2、Ollama）或接入云端 LLM 提供商。提供 Docker Compose 一键启动、云 Demo 与降级启动模式（模型权重缺失时用确定性规则兜底）。MIT 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 部署形态 | `self-host` | docker 或自建部署 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- DistilBERT 工单自动分类与影响评分
-- sentence-transformers 语义查重防止重复工单
-- 截图 OCR 提取错误码 + LLM 生成即时修复建议
-- Supabase 多租户隔离与 4 层权限矩阵
+- DistilBERT v3 毫秒级工单分级（P1–P4）与领域分类
+- Tesseract OCR + transformer NER 从截图/日志抽取主机名、IP、错误码
+- 384 维向量嵌入实时聚类重复工单，合并为主事件
+- 本地模型或云端 LLM 可选，PII 正则脱敏后再入索引
 
 ## 适用场景
 
-- 企业 IT 团队自动分诊和分类支持工单
-- 多名用户报告同一故障时自动关联去重
-- 员工提交工单时直接获得修复建议以减少工单量
+- IT 支持团队自动分级与路由工单
+- 故障期间合并重复上报、避免工单洪泛
+- 从错误截图自动抽取错误码与堆栈信息
 
 ## 场景标签
 
- · 领域:企业服务/IT 运维
+`OCR` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L58: > 1. **Eliminating the Triage Bottleneck**: By using context-aware AI (DistilBERT), it categorizes 100% of tickets 
-> L91:  Driven by DistilBERT v3 , our classifier understands technical context and user sentiment to assign accurate Impac
-> L97:  If two users report the same outage, our <code>sentence-transformers</code> semantically link them to prevent "Tic
+> L3:  The Open-Source AI Helpdesk for Modern Engineering Teams
+> L31:  DistilBERT v3 classifies incoming tickets into severity tiers (P1 to P4) and engineering domains in under 50 ms. U
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e331770a10d7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `36e831059a7c` · [字段定义](../../DATASET.md)*

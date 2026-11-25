@@ -2,9 +2,9 @@
 
 ⭐ 241 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/temporalio/skill-temporal-developer) · [官网](https://temporal.io) · 组织维护
 
-**面向编码代理的 Temporal 开发技能包（SKILL 知识资产）**
+**给编码 agent 用的 Temporal 开发技能包**
 
-由 Temporal 官方（temporalio）维护的开发技能包：为 Claude Code、Cursor、OpenAI Codex 等编码代理提供构建 Temporal 应用所需的领域知识与指引。可作为插件安装（三个专属插件仓库），也可通过 npx skills 或手动 git clone 到 ~/.claude/skills 等目录直接安装。内容覆盖 7 种已支持的 Temporal SDK 语言（Python/TypeScript/Go/Java/.NET/Rust/Ruby），PHP 尚在开发中（未完成）。
+Temporal 官方发布的开发技能（skill），供开发者在构建 Temporal 应用时供编码 agent 加载使用。以插件形式打包适配 Claude Code、Cursor、OpenAI Codex 等主流编码 agent，也可通过 npx skills 安装到多个 agent，或手动 git clone 到 Claude/Codex 的技能目录。覆盖 Temporal SDK 的 Python、TypeScript、Go、Java、.NET、Ruby、PHP 等语言，Rust 处于 Public Preview。通过 Community Slack 的 #topic-ai 频道收集反馈。
 
 ## 筛选速览
 
@@ -20,18 +20,19 @@
 
 ## 能力要点
 
-- 打包为 Claude Code / Cursor / Codex 三种编码代理插件
-- 支持 npx skills add 命令行安装与手动 git clone 安装
-- 覆盖 7 种 Temporal SDK 语言（Rust 处于 Public Preview，PHP 进行中）
+- 以插件形式适配 Claude Code、Cursor、OpenAI Codex 三类编码 agent
+- 支持 npx skills 一条命令安装到所有主流编码 agent
+- 覆盖 8 种 Temporal SDK 语言（Python/TypeScript/Go/Java/.NET/Rust/Ruby/PHP）
 
 ## 适用场景
 
-- 让编码代理在开发 Temporal 应用时获得官方领域知识
-- 为团队统一各编码代理的 Temporal 开发指引
+- 让编码 agent 在编写 Temporal 工作流代码时加载该技能
+- 在 Claude Code 或 Cursor 中以插件方式获取技能更新
+- 为团队统一配置 Temporal 开发的 agent 知识
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `704fd93fb30d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6c03176f93e3` · [字段定义](../../DATASET.md)*

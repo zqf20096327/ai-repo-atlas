@@ -2,9 +2,9 @@
 
 ⭐ 235 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/memoket/memoket-kite) · [官网](https://memoket.ai) · 组织维护
 
-**AI agent 的向量无关长期记忆引擎，带证据溯源**
+**给 AI agent 提供无向量的长期记忆引擎库**
 
-面向 AI agent 的长期记忆 Python 库：将对话抽取为带类型、日期与主题索引的结构化事实，把问题编译为可读、可缓存、可校验的符号查询计划（关键词/关联/条件过滤），返回答案时附上原始消息出处；记忆不存在时返回空并声明。运行时不使用 embeddings 与向量数据库，数据存于可移植的主题索引文件。依赖 OpenAI 兼容 LLM 端点（默认 gpt-4.1-mini）完成抽取与阅读。基准：LoCoMo 93.51%、LongMemEval-S 85.60%，平均每问阅读上下文约 1.6K tokens。Apache 2.0 许可，背后有商业产品 Memoket。
+以 Python 库形式提供的长期对话记忆引擎：将对话提炼为带类型、日期、主题索引且附原文出处的结构化事实，问题被编译为可读、可验证、可缓存的符号化检索计划，执行后返回带来源链接的答案；无结果时明确返回空。检索基于主题索引与条件过滤，全程不使用 embedding 与向量数据库，并支持时间感知（如“现在”按最新事件排序）。提供 MCP server 可选组件，可接入 Claude Code；基准结果声称可由脚本按复现契约在本地重建。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 对话→带来源链接的结构化事实，主题治理与时间感知检索
-- 问题编译为可读的符号查询计划，检索过程可审计
-- 无向量栈：不依赖 embeddings 与向量数据库，单一可移植文件存储
-- 记忆缺失时明确返回空而非近似匹配；提供基准复现契约与本地 manifest 校验
+- 对话→结构化事实：带类型、日期、主题索引并保留原文证据
+- 问题→符号化检索计划：可读、可验证、可缓存，无向量栈
+- 答案附来源链接（谁在何时说了什么），无结果时返回明确空
+- 可选 MCP server（memoket-kite[mcp]）接入 Claude Code
 
 ## 适用场景
 
-- 为对话式 agent 接入可解释、可溯源的长期记忆
-- 需要按时间处理'现在是谁/最新状态'类问题的记忆检索
-- 要求回答附带'谁说的、何时、原话'证据的场景
+- 为聊天机器人或 agent 添加可溯源的长期记忆
+- 需要时间敏感问答（如'现在谁负责某客户'）的记忆检索
+- 在 Claude Code 中通过 MCP 读取带出处的记忆事实
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L204: KITE by Memoket is a plain Python library: three calls take you from a raw conversation
-> L5: Open-source and vector-free, KITE achieves **🥇 93.51% on LoCoMo and 🥇 85.60% on LongMemEval-S**, with *gpt-4.1-mini*
-> L218: **The memory you just read about ships today.** KITE is the algorithm inside
+> L19: - **[2026-08-13]**: 🎉 First public release: **KITE v0.1.0** is open source under Apache-2.0 and on **PyPI** as `mem
+> L212: KITE by Memoket is a plain Python library: three calls take you from a raw conversation
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `314a20a8ad91` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `793c26224bf1` · [字段定义](../../DATASET.md)*

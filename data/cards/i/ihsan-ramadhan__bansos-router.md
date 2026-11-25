@@ -2,34 +2,34 @@
 
 ⭐ 248 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/ihsan-ramadhan/bansos-router) · [官网](https://ihsan-ramadhan.github.io/bansos-router/) · 个人维护
 
-**本地守护进程：免密钥免费编码模型路由到多种编码工具**
+**本地守护进程：为编程工具免密钥路由免费编码模型**
 
-以 npm 全局安装的本地守护进程（127.0.0.1:17070），将 OpenCode Zen、KiloCode、LLM7、OVHcloud 匿名层四个免密钥上游的模型，通过 OpenAI Chat Completions、Anthropic Messages、OpenAI Responses 三种协议提供给编码工具。支持 bansos setup 一键配置 Claude Code、Aider、Cline 等 14 种工具；提供 Web UI 仪表盘、模型健康检查、跨上游故障转移、429 冷却与 DLP 凭据脱敏。可用 Docker 运行，含可选 strict 安全模式。给使用编码 harness 的开发者使用。
+运行于 127.0.0.1:17070 的本地守护进程，对外提供 OpenAI Chat Completions、Anthropic Messages、OpenAI Responses 三种协议端点，将 OpenCode Zen、KiloCode、LLM7、OVHcloud 等免费模型档接入各类编码工具。内置故障转移：模型返回 401/403/429/5xx 时进入冷却期，并按推理模式、消息格式能力与上下文窗口（不低于原 90%）在最多两个其他上游模型上重试。附带仪表盘、延迟探测、用量统计与严格安全模式；通过 npm 全局安装，需 Node ≥ 22.5，也提供 Docker 镜像。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | GPL-3.0 |
+| 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 一个本地端点接入 4 个免密钥免费上游，说三种线协议
-- bansos setup 一键配置 14 种编码工具（Claude Code/Aider/Cline 等）
-- 跨上游自动故障转移与 429/401 模型冷却停放
-- DLP 在请求外发前将凭据替换为 [REDACTED]，strict 模式 fail-closed
+- 单端点同时支持 OpenAI Chat Completions、Anthropic Messages、OpenAI Responses 协议
+- 故障转移按推理模式、消息格式能力与上下文窗口匹配备选模型
+- 内置仪表盘展示模型目录、实时延迟与健康状态
+- 严格模式：SSRF 防护、Host 校验、凭据脱敏，非回环绑定需显式开关
 
 ## 适用场景
 
-- 让 Claude Code、Cline 等编码工具免账号免 API key 使用免费模型
-- 在一个本地端点统一管理多上游免费模型并自动切换
-- 通过 Web UI 查看模型目录、延迟、用量与活动日志
+- 为 claude-code、opencode、aider 等编码工具统一接入免费模型档
+- 免注册免 API key 地在本地试用多种免费编码模型
+- 通过故障转移与冷却机制应对免费档的限流与轮换
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L125: - One local daemon on `127.0.0.1:17070`, started with `bansos start`. It speaks three wire protocols: OpenAI Chat 
-> L126: - Keyless free upstreams only: OpenCode Zen, KiloCode gateway, LLM7, and OVHcloud AI Endpoints (anonymous tier).
-> L127: - `bansos setup <harness>` writes config for Claude Code, Aider, OpenCode, Codex, Hermes, Goose, OpenClaw, Antigra
+> L16: One daemon on `127.0.0.1:17070` that speaks OpenAI Chat Completions, Anthropic Messages and OpenAI Responses, so an
+> L18: Free tiers rate-limit and rotate. A model that answers `401`/`403`/`429`/`5xx` is parked for a cooldown, and the re
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `63dc50a7d920` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fa8753e4a56a` · [字段定义](../../DATASET.md)*

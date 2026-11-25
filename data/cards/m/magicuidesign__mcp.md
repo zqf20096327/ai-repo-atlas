@@ -2,9 +2,9 @@
 
 ⭐ 231 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/magicuidesign/mcp) · [官网](https://magicui.design) · 组织维护
 
-**Magic UI 官方 MCP 服务器：在 AI 编辑器中搜索并安装 UI 组件**
+**面向 AI 编辑器用户的 Magic UI 组件搜索与安装 MCP 服务器**
 
-Magic UI 的官方 Model Context Protocol 服务器，面向使用 AI 编辑器的开发者。配置后可在 Cursor、Windsurf、Claude、Cline、roo-cline 等客户端中通过自然语言请求浏览、检索和安装 Magic UI 注册表中的组件。提供三个 MCP 工具：listRegistryItems 按类别/关键词/分页列出条目，searchRegistryItems 跨名称、标题、描述与类型做关键词搜索，getRegistryItem 返回单个组件的详情、安装说明与示例。工具表面刻意保持精简并直接读取在线注册表，未将 widgets/media/devices 等宽泛语义概念建模为一等类别。
+Magic UI 的官方 Model Context Protocol 服务器，为开发者提供在 AI 编辑器内检索与安装 Magic UI 组件的通道。提供两个 MCP 工具：listRegistryItems 列出组件注册表条目（支持 kind、limit、offset 参数），getRegistryItem 返回单个组件详情及安装说明、源码与示例。服务器直接读取在线 Magic UI 注册表而非硬编码分类，通过 npx 安装命令写入 IDE 的 MCP 配置。
 
 ## 筛选速览
 
@@ -20,20 +20,18 @@ Magic UI 的官方 Model Context Protocol 服务器，面向使用 AI 编辑器�
 
 ## 能力要点
 
-- 官方 MCP 服务器，npx 一条命令为指定客户端写入配置
-- 支持 cursor/windsurf/claude/cline/roo-cline 五种客户端
-- 三个 MCP 工具：列表、关键词搜索、单条目详情（含安装说明）
-- 直接读取在线 Magic UI 注册表而非硬编码分类
+- 官方 MCP 服务器，直接读取在线 Magic UI 注册表
+- 两个 MCP 工具：组件列表检索与单组件详情查询
+- 支持 cursor/windsurf/claude/cline/roo-cline 五种客户端的一键配置
 
 ## 适用场景
 
-- 在 AI 编辑器里用自然语言查找 Magic UI 动画/背景组件
-- 让 AI 助手直接安装指定组件到项目
-- 按 kind/query/分页浏览 Magic UI 注册表
+- 在 AI 编辑器中用自然语言请求 Magic UI 组件并获取安装方式
+- 检索 Magic UI 注册表中的组件、源码与示例
 
 ## 场景标签
 
- · 领域:前端开发/UI 组件
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -54,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `09d6c623c6c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `dcbb2b9f1051` · [字段定义](../../DATASET.md)*

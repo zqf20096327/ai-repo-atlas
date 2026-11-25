@@ -2,9 +2,9 @@
 
 ⭐ 208 · TypeScript · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/jakobhoeg/browser-ai) · [官网](https://browser-ai.dev) · 个人维护
 
-**为 Vercel AI SDK 提供浏览器内 AI 模型接入的 TypeScript 库**
+**为 Vercel AI SDK 提供浏览器内 AI 模型接入的 provider 库**
 
-TypeScript 库集合，把浏览器端 AI 模型来源封装为 Vercel AI SDK 的 model provider：包括 Chrome/Edge 内置 AI（Prompt API）、WebLLM 与 Transformers.js，并提供向服务端模型的无缝回退机制。面向使用 Vercel AI SDK 构建客户端 AI 应用的 Web 开发者，以 npm 包（core/transformers-js/web-llm）分发，配套官方文档站、Chrome/Hugging Face 教程与 Next.js 示例应用。由个人开发者维护，属 Vercel OSS Program。
+TypeScript 库集合，为 Vercel AI SDK 提供浏览器内 AI 模型的 provider 接入，覆盖 Chrome/Edge 内置 AI、WebLLM、Transformers.js、wllama（llama.cpp）四条运行时路径，并提供回退到服务端模型的机制。面向在前端应用中集成客户端 AI 的 Web 开发者，通过 npm 分发多个包，README 附各包与 AI SDK v5/v6/v7 的版本兼容表及示例应用链接。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ TypeScript 库集合，把浏览器端 AI 模型来源封装为 Vercel AI SDK �
 
 ## 能力要点
 
-- 三种浏览器内模型来源：Chrome/Edge 内置 AI、WebLLM、Transformers.js
-- 兼容 AI SDK v5/v6/v7 多版本的三个 npm 包
-- 浏览器端模型不可用时无缝回退到服务端模型
+- 支持 Chrome/Edge 内置浏览器 AI 模型（@browser-ai/core）
+- 支持 WebLLM、Transformers.js、wllama（llama.cpp）三种浏览器内推理运行时
+- 可与 Vercel AI SDK v5/v6/v7 配合使用
+- 提供浏览器内模型到服务端模型的回退机制
 
 ## 适用场景
 
-- 在 Next.js 应用中直接调用浏览器内置或本地推理模型
-- 客户端 AI 功能在离线或低延迟场景下运行
-- 构建浏览器优先、服务端兜底的混合推理应用
+- 在 Next.js 等前端应用中直接调用浏览器内 LLM 推理
+- 浏览器不支持本地模型时回退到服务端模型
+- 用统一的 AI SDK 接口适配多家浏览器内推理后端
 
 ## 场景标签
 
@@ -36,8 +37,8 @@ TypeScript 库集合，把浏览器端 AI 模型来源封装为 Vercel AI SDK �
 
 ## 证据(README 行号)
 
-> L11: TypeScript libraries that provide access to in-browser AI model providers with seamless fallback to using server-si
-> L79: If you've ever built apps with local language models, you're likely familiar with the challenges: creating custom h
+> L1: # Browser AI model providers for Vercel AI SDK
+> L12: TypeScript libraries that provide access to in-browser AI model providers with seamless fallback to using server-si
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ef3d7d280887` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d3edaad6ecf5` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 212 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ChetanXpro/nodejs-whisper) · [官网](https://npmjs.com/nodejs-whisper) · 个人维护
 
-**Whisper 语音转文字的 Node.js 绑定库，CPU 运行**
+**Node.js 开发者的 Whisper 语音转录绑定库**
 
-对 OpenAI Whisper 模型（基于 whisper.cpp 实现）的 Node.js 绑定：在 CPU 上运行（含 Apple Silicon ARM），自动将音频转换为 16000Hz WAV，输出 txt/srt/vtt/json/wts/lrc 等格式字幕与转写文本，支持词级时间戳、按词切分与翻译为英语（可选），并提供 Silero VAD 静音检测以减少长录音处理量。安装时需系统具备 make 工具（Linux 用 build-essential，Windows 用 MinGW-w64/MSYS2），通过 npm 安装并用 npx 命令下载模型。面向需要在 Node.js 项目中集成语音转文字的开发者。
+whisper.cpp 的 Node.js 绑定，将音频自动转为 16 kHz WAV 后运行 OpenAI Whisper 模型做语音转录，输出 txt/srt/vtt/json/wts/lrc 格式，支持词级时间戳、源语言到英语的翻译、VAD 语音活动检测。提供 native 与 CLI 两种后端自动回退，带并发队列控制、请求取消、模型常驻与空闲释放机制。面向 Node.js 开发者，通过 npm 安装，无匹配预编译二进制时需 CMake 与 C++17 编译器本地构建。
 
 ## 筛选速览
 
@@ -15,21 +15,21 @@
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `high` | 编译与系统依赖俱全 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- CPU 优化的 Whisper 转写（含 Apple Silicon ARM）
-- 输出 txt/srt/vtt/json/wts/lrc 多种字幕与文本格式
-- 词级时间戳与按词切分（可选）、翻译为英语（可选）
-- Silero VAD 语音活动检测，自动跳过静音段
+- 自动转换音频为 16 kHz WAV，输出 6 种转录格式
+- 词级时间戳与可选按词切分、翻译到英语
+- native/CLI 双后端 auto 回退与并发队列（默认 1 并发/100 排队）
+- VAD 检测（Silero 模型 <1MB 可自动下载）减少静音段计算
 
 ## 适用场景
 
-- 在 Node.js 应用中为音频/视频生成字幕文件
-- 本地 CPU 环境批量转写录音为文本
-- 需要词级时间戳的转录场景
+- 在 Node.js 服务中批量转录音频为带时间戳字幕
+- 为长录音启用 VAD 跳过静音段降低计算量
+- Docker 容器中挂载目录缓存转录模型
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: Node.js bindings for OpenAI's Whisper model.
-> L9: - Automatically convert the audio to WAV format with a 16000 Hz frequency to support the whisper model.
+> L10: - Output transcripts to (.txt .srt .vtt .json .wts .lrc)
+> L82: By default, one transcription runs at a time and up to 100 requests can wait. Each waiting request starts when
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `8ef748585e9d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `eca466171838` · [字段定义](../../DATASET.md)*

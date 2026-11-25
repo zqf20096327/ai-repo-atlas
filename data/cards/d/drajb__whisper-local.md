@@ -2,9 +2,9 @@
 
 ⭐ 202 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/drajb/whisper-local) · [官网](https://gekro.com) · 个人维护
 
-**离线 AI 听写工具：按键说话，文字出现在光标处**
+**Windows/macOS 全离线语音听写工具：按键说话即出文字**
 
-面向 Windows/macOS 用户的本地语音听写应用：基于 faster-whisper（CTranslate2）在本地运行 Whisper 模型，按住全局热键说话，转写文本自动粘贴到任意应用的光标处。提供推送说话、内联标点口令、按应用分风格、词汇纠错、本地 Ollama 文本改写、翻译模式与 OpenAI 兼容本地转写 API（--serve）。默认无网络调用，GPU 加速可选 NVIDIA CUDA / AMD ROCm，CPU 即可用。Windows 提供独立 exe，也可 pipx 安装（Python 3.11+），MIT 许可，个人维护者发布。
+基于 faster-whisper（CTranslate2）的桌面听写应用：全局按键说话、自动粘贴到光标处，支持语音命令、内联标点口述、写作风格、片段（snippets）、逐词纠错词典、翻译模式与按应用规则。音频全程不离开本机，无账号与订阅；首次启动下载约 141 MB 模型后离线运行。Windows 提供独立 exe（含构建溯源证明），也可 pipx/pip 安装。AI 改写与清理功能依赖本地 Ollama，默认关闭。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- faster-whisper 本地转写，全程离线，无遥测
-- 全局热键 + 自动粘贴到任意应用光标处
-- 本地 Ollama 驱动的 AI 改写/清理（默认关闭）
-- --serve 暴露 OpenAI 兼容的 /v1/audio/transcriptions 本地 API
+- 全局 push-to-talk 热键，在任何应用的光标处输出转写文本
+- 基于 faster-whisper 的本地转写，支持 NVIDIA CUDA 与 AMD ROCm 加速
+- 本地 Ollama 实现文本改写与可选的转写清理（默认关闭）
+- 本地 OpenAI 兼容 API（localhost:7777 /v1/audio/transcriptions）
 
 ## 适用场景
 
-- 在任意应用里用语音打字，音频不出本机
-- 不想订阅 Wispr Flow/Dragon 的免费离线替代
-- 把本地转写 API 供给 Cursor 等工具调用
+- 在聊天、编辑器、终端等任意应用中语音输入文字
+- 离线或隔离网络环境下进行语音转写
+- 会议或视频中把系统声音转成文字（实验性，Windows）
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L32: Whisper Local is a **free, open-source, fully offline alternative to Wispr Flow, Dragon, and Otter** for power user
-> L6: No cloud. No subscription. No telemetry. Powered by OpenAI Whisper.
+> L92: - 🤖 **AI rephrase** — dedicated `Ctrl+Shift+Win` hotkey: select text, hold, speak your instruction, release — local
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `365bfe88f38d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2e8fb3ac09b9` · [字段定义](../../DATASET.md)*

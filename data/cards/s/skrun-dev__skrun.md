@@ -2,9 +2,9 @@
 
 ⭐ 211 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/skrun-dev/skrun) · [官网](https://github.com/skrun-dev/skrun) · 组织维护
 
-**将 Agent Skill 部署为 POST /run API 的多模型自托管运行时**
+**把 Agent Skill 部署为 POST /run API 的开源多模型运行时**
 
-开源 agent 运行时：把以 SKILL.md、AGENTS.md 或自定义格式声明的技能通过 skrun CLI 部署成 POST /run HTTP 端点，含 SSE 流式事件、异步 webhook 与有状态运行。内置 6 家模型厂商并支持任意 OpenAI 兼容端点（DeepSeek、Ollama、vLLM 等），用户自带 LLM key，可插拔 SQLite/Postgres 存储，自带运维面板（agents/runs/成本/token 统计）。面向 OSS 技能维护者、内部 AI 平台与外包团队，MIT 许可，Node 22+ 自托管，云端功能标注 coming soon，agent 目前仅 private。
+Skrun 是开源 agent 运行时：将 SKILL.md、AGENTS.md 或自定义格式声明的 skill 转为 POST /run HTTP 端点，内置 agent 循环，无需自建。支持 6 个内置模型提供方及任意 OpenAI 兼容端点并自动回退，支持 SSE 流式、异步 webhook、KV 状态、MCP 工具调用、版本固定与多租户配额。自托管需 Node 22.19+ 与 SQLite/Postgres，另提供托管云、npm CLI、TypeScript SDK 与运维仪表盘。目标用户是 skill 维护者、内部 AI 平台团队与代理交付机构。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- SKILL.md/AGENTS.md/自定义格式技能一键部署为 POST /run 端点
-- 6 家内置厂商 + 任意 OpenAI 兼容端点（Ollama/vLLM/DeepSeek 等），BYOK
-- 自带运维面板：运行记录、token/成本、Playground、API key 管理
-- 工具调用（本地脚本 + MCP）、多模态输入、文件 API、版本固定与 agent 验证
+- SKILL.md/AGENTS.md 兼容，skill 以 POST /run 端点交付
+- 6 个内置模型提供方 + OpenAI 兼容端点，自动回退与原生提示缓存
+- SSE 流式事件、异步 webhook、KV 跨运行状态
+- 运维仪表盘、多租户 GitHub OAuth 认证与按账户配额
 
 ## 适用场景
 
-- 我把写的 SKILL.md 技能直接部署成 API，回复 issue 一个 curl 命令
-- 团队把存量 LLM 脚本逐步包装为技能，统一面板看成本与失败
-- 按客户独立部署技能，模型切换只改配置
+- 把只有 Claude Code 能跑的 SKILL.md 开放为 API 供 CI/外部集成调用
+- 内部团队将零散 LLM 脚本收拢到统一仪表盘并按功能核算成本
+- 代理交付客户时复用同一 skill 格式，客户可自行换模型与自托管
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`Agent 框架` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5:  Deploy any Agent as an API via <code>POST /run</code>.
 > L40: **Skrun is the open agent runtime.** Turn your skill — declared as `SKILL.md`, `AGENTS.md`, or your own format — in
-> L152: |🤖 **Multi-model**|6 built-in providers (Anthropic, OpenAI, Google, Mistral, Groq, xAI) + any OpenAI-compatible en
+> L50: - ✅ MIT. Multi-model: Claude, GPT, Gemini, Mistral, Groq, Grok, Ollama.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `8562043f81d9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `77a2a76bd5f7` · [字段定义](../../DATASET.md)*

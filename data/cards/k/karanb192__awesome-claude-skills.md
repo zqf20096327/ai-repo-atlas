@@ -1,10 +1,10 @@
 # karanb192/awesome-claude-skills
 
-⭐ 606 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/karanb192/awesome-claude-skills) · 个人维护 · 中文 README
+⭐ 606 · MIT · 推送 2026-10-29 · [GitHub](https://github.com/karanb192/awesome-claude-skills) · 个人维护
 
-**社区维护的 Claude 技能（Skills）目录清单，按任务分类**
+**面向 Claude 用户的社区技能目录：按任务查找可用技能**
 
-面向 Claude Code、Claude.ai 和 API 用户的技能（agent skills）社区目录：条目按文档文件处理、测试、调试、协作流程、开发架构、安全性能等类别组织，每个技能名链接到其源仓库，安装指南需到来源处阅读。清单声明收录不代表安全审计，并提示用 Ctrl+F 检索。给希望在 Claude 环境中为 PDF 处理、TDD、git 工作流、安全审计等任务查找现成技能的开发者使用。
+一个社区维护的 Claude Skills 目录清单，收录 50 余条经整理的技能条目，服务对象是 Claude Code、Claude.ai 及 API 的使用者。条目按文档处理、测试与质量、调试、协作工作流、开发与架构等类别组织，每条给出用途一句话说明并链接到技能源仓库。README 提醒使用者阅读源仓库的安装指南，并声明收录不代表经过安全审计；检索方式为浏览器内查找。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按 6 大类组织 50+ 条技能条目，技能名链接到源仓库
-- 提供'任务→技能'的起步建议表（PDF 提取、TDD、调试等）
-- 声明收录不构成安全审计，安装指引在来源仓库
+- 50+ 条技能条目按任务场景分类组织
+- 覆盖文档处理、TDD、调试、git 工作流等开发环节
+- 每条条目链接到技能源仓库并附用途说明
+- README 声明收录不构成安全审计
 
 ## 适用场景
 
-- 为 Claude Code / Claude.ai 查找处理 PDF、Word、PPT 等文件的技能
-- 查找测试、调试、代码评审类工作流技能
-- 浏览安全审计与性能检查类技能条目
+- 想给 Claude Code 找一个 PDF 表格提取或调试类技能
+- 为团队整理可复用的 Claude 技能清单
+- 开发自己的 skill 前参考社区条目写法
 
 ## 场景标签
 
@@ -37,8 +38,7 @@
 ## 证据(README 行号)
 
 > L3: Find a skill for the task at hand. A community directory for
-> L4: Claude Code,
-> L20: ## Browse skills
+> L29: Skill names link to their source. Read the install guide there before enabling
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7cb11eb1b1d6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `affac2b9cc3a` · [字段定义](../../DATASET.md)*

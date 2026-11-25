@@ -2,9 +2,9 @@
 
 ⭐ 364 · 推送 2026-10-21 · [GitHub](https://github.com/louisfb01/ai-engineering-cheatsheets) · [官网](https://academy.towardsai.net/?ref=1f9b29) · 个人维护
 
-**AI 工程常见问题的决策参考速查表合集**
+**AI 工程师速查表集：按决策表查找常见问题的推荐做法**
 
-由 Louis-Francois Bouchard 维护的速查表（cheatsheet）合集，围绕常见 AI 工程问题提供决策就绪的参考：含 AI 工程手册（选型模型、提示策略、RAG 配置、记忆模式、评测方法等）、Agent 架构与运维指南（workflow/单 agent/多 agent 决策）与反套话 AI 写作指南。使用方式为打开速查表、在决策表中找到自身情况、按推荐执行。内容源自 Towards AI 课程，快照日期为 2026 年 8 月。
+由 Towards AI 课程衍生的三份速查表：AI Engineering Playbook 覆盖技术/模型/RAG/评测等选型决策表；Agent 架构与运维指南给出工作流、单 Agent、多 Agent 的取舍及运维机制；Anti-Slop 写作指南基于 6,750 份评审草稿总结 AI 写作特征与改写规则。使用方式为查表定位情境后按推荐执行；模型与工具偏好标注快照时间，需自行验证。内容与 Towards AI 付费课程及新书相关联。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 三份速查表覆盖技术选型、Agent 架构决策与 AI 写作
-- 以决策表形式给出按情况匹配的推荐
-- 内容源自 Towards AI 课程，含更深入的课程延伸
+- 三份速查表以决策表形式组织，按情境给出推荐做法
+- Agent 指南覆盖工作流/单 Agent/多 Agent 取舍及运维机制
+- Anti-Slop 指南基于 6,750 份评审草稿给出写作规则
+- 模型与工具偏好附快照时间（2026 年 8 月/10 月）
 
 ## 适用场景
 
-- 为 AI 工程问题快速查找决策推荐
-- 选择 RAG 配置、记忆模式或评测方法
-- 决定采用 workflow、单 agent 还是多 agent 架构
+- 选型 RAG/评测/记忆模式时查决策表找起点
+- 决定该用工作流还是单/多 Agent 架构
+- 改进 AI 生成文案，去除 AI 写作特征
 
 ## 场景标签
 
@@ -37,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5: Goal: give you decision-ready references for the most common AI engineering problems. Open a cheatsheet, find your s
-> L11: |Cheatsheet|What you get|
+> L11: ## Cheatsheets
+> L29: These cheatsheets come from the Towards AI courses. They cover the same frameworks in more depth, with full lessons
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d2a95d49d4c6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f3c33765a69c` · [字段定义](../../DATASET.md)*

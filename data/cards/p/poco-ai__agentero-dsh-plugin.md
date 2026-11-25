@@ -2,15 +2,15 @@
 
 ⭐ 253 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/poco-ai/agentero-dsh-plugin) · [官网](https://agentero.app) · 组织维护 · 中文 README
 
-**给 DeepSeek Harness 的科研文献库插件：论文搜索、引用与笔记**
+**给 DeepSeek Harness 用的本地科研文献库插件**
 
-Agentero 是本地优先的科研工作台，此插件将其文献库、PDF 阅读器与笔记能力接入 DeepSeek Harness（dsh）：Agent 可检索用户本地文献与笔记并在回答中引用，支持按 arXiv/DOI 导入论文、代写笔记、整理提纲，并在原页面上逐段全文翻译（使用 dsh 配置的 DeepSeek 模型）。数据保存在本地 Vault，与桌面版共用，插件不另建数据库。需要 dsh 0.2.x、Node.js 24.9+、Agentero CLI；扫描件需先在桌面端 OCR。
+Agentero 的 dsh 插件，把文献库、笔记和 PDF 阅读器带入 DeepSeek Harness 工作台：用户在中间聊天窗口与 Agent 讨论，右侧阅读论文，Agent 可搜索已有文献与笔记并引用真实本地论文作答、按 arXiv/DOI/链接导入新论文、代写整理笔记，还支持基于 dsh 配置的 DeepSeek 模型在原页面上逐段全文翻译并保留公式版面。数据存于本地 Vault（papers/notes/sqlite 目录结构），与 Agentero 桌面端共用；扫描件 OCR 需在桌面端完成。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,25 @@ Agentero 是本地优先的科研工作台，此插件将其文献库、PDF 阅�
 
 ## 能力要点
 
-- Agent 检索本地文献与笔记，回答引用真实论文出处
-- 按 arXiv、DOI 或链接导入论文，无需手动整理文件
-- PDF 划词高亮、批注、翻译并可加入对话
-- 全文翻译在原页面逐段替换，保留公式与版面
+- Agent 可检索本地文献与笔记，回答引用真实本地论文
+- 按 arXiv、DOI 或链接自动导入论文并整理
+- 基于 dsh 配置的 DeepSeek 模型逐段全文翻译，保留公式与版面
+- PDF 划词可复制、高亮、批注、翻译或加入对话
 
 ## 适用场景
 
-- 在同一个窗口里边读论文边让 Agent 查资料、翻笔记
-- 让 Agent 把讨论整理成带引用的阅读笔记或提纲
-- 通过对话批量导入并管理文献库
+- 边读论文边和 Agent 讨论并让引用自己文献库
+- 让 Agent 找出某方向近两年论文导入并整理提纲
+- 把讨论整理成带出处的阅读笔记
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`知识库管理` `科研工具` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: Agentero 是本地优先的科研工作台。这个插件把它的文献库、笔记和 PDF 阅读器带进 DeepSeek Harness（下称 dsh），让 Agent 和你坐在同一个窗口里做科研：你读论文、做判断，Agent 帮你查资料、翻笔
-> L22: ## 能做什么
+> L26: - **全文翻译**：用 dsh 配置的 DeepSeek 模型在原页面上逐段替换，保留公式和版面。
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `2efc185de810` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3f3fdea524ef` · [字段定义](../../DATASET.md)*

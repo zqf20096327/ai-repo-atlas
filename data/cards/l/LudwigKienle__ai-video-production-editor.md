@@ -2,9 +2,9 @@
 
 ⭐ 194 · TypeScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/LudwigKienle/ai-video-production-editor) · [官网](https://github.com/LudwigKienle/ai-video-production-editor/releases/latest) · 个人维护
 
-**本地优先的开源 AI 视频制作桌面工作站，覆盖剧本到成片**
+**面向电影人与 AI 艺术家的本地 AI 视频制作工作站**
 
-Electron + React 构建的桌面应用（GPL-3.0），把 AI 视频制作流程整合在一个项目文件夹内：剧本、导演处理、分镜、图像/视频生成、剪辑、调色与导出。用户自带 API key 接入 fal.ai、Replicate、Gemini、xAI、ElevenLabs、Runway 等云服务，也可通过 Ollama/LM Studio/ComfyUI 全本地离线运行。提供 3D 预览（Hunyuan3D/Trellis/Rodin）、Studio Agent 自动跑流程、插件从 GitHub 安装。云服务依赖外部 key，adapters 为维护中的集成点而非永久契约。
+基于 Electron + React 的桌面应用，覆盖剧本→导演处理→分镜→生成→剪辑→调色→导出的制作流程。接入 fal.ai、Replicate、Gemini、xAI、ElevenLabs、Runway 等云服务（BYOK），并支持通过 Ollama、LM Studio、ComfyUI、Draw Things 在本地运行开源模型。项目存储为本地文件夹，密钥保存在本机；GPL-3.0 核心，提供 macOS/Windows 安装包，开发者可通过 npm 从源码运行。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Electron + React 构建的桌面应用（GPL-3.0），把 AI 视频制作流程�
 
 ## 能力要点
 
-- 剧本→导演→分镜→拍摄→剪辑→调色→导出的单一流水线，Studio Agent 可代跑各阶段
-- 按镜头自动路由模型（图像、视频、3D、音频多家引擎）
-- 本地 AI 工作区：Ollama/LM Studio 跑文本，ComfyUI 跑开源权重图像视频模型，免 key 离线可用
-- DaVinci 风格后期页面、色彩轮导出 LUT、离线自动剪辑（静音/场景/填充词检测）
+- 一条制作流水线：剧本→导演→分镜→拍摄→审校→剪辑→调色→交付，含可代跑各阶段的 Studio Agent
+- 按镜头内容自动或手动路由到不同图像/视频模型（Auto 模式）
+- Local AI：本地 LLM 与 ComfyUI 开源图像/视频模型，一键下载、可离线
+- DaVinci 风格后期页面：调色轮、波形/直方图、离线自动剪辑（静音/场景/口癖词）
 
 ## 适用场景
 
-- 用 AI 生成图像与视频镜头并完成剪辑调色导出
-- 全本地离线跑剧本、分镜与生成流程，不使用云 API key
-- 用 3D 场景图和预演（previs）规划镜头运动后再生成视频
+- 用 AI 生成分镜与镜头素材并完成剪辑调色
+- 无需付费订阅、自带 API key 在本机跑完整制作流程
+- 把参考图转 3D blockout 生成运动参考再喂给视频生成
+- 通过 MCP 让 Claude Code/Codex 从外部读写剧本与分镜并触发生成
 
 ## 场景标签
 
-`视频生成` `图像生成` · 领域:内容生成
+`图像生成` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L3:  An open-source, local-first film studio for AI video: script → director → storyboard → filming → edit → color → exp
-> L21: grade and the export live in one project folder you own. Bring your own keys
-> L22: for fal.ai, Replicate, Gemini, xAI, ElevenLabs and Runway; route every shot to
+> L33: |**Best model per shot**|Pick a model, or choose **Auto** and let the studio route people to Nano Banana / GPT Imag
+> L83:  - Local LLMs (Ollama, LM Studio or any OpenAI-compatible server) answer the
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `178d38c98f8a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `89d712bbc772` · [字段定义](../../DATASET.md)*

@@ -1,16 +1,16 @@
 # fanbidog/okkmax-web
 
-⭐ 210 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/fanbidog/okkmax-web) · [官网](https://www.okkmax.com) · 个人维护 · 中文 README
+⭐ 210 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/fanbidog/okkmax-web) · [官网](https://www.okkmax.com) · 组织维护 · 中文 README
 
-**AI API 中转站测评与排行榜平台，检测纯度与可用性**
+**AI API 中转站测评与排行榜：选站前核验真伪与可用性**
 
-独立第三方 Web 平台（Next.js 16 全栈 + Prisma + PostgreSQL），对 Claude、GPT、Gemini 中转站做纯度检测（Claude 基于 Anthropic 思维签名三档判定）、分钟级可用性监测、价格与模型覆盖对比、模型智商榜及用户口碑社区。数据来自自动探针，判定方法公开。同时以 MCP（6 个只读工具）、Skills 和 llms.txt 向 AI Agent 开放只读查询。本仓库仅为展示层，完整测评还需检测后端与监测采集组件；采用非商业许可，可自部署（Node.js 20+、PostgreSQL）。
+独立第三方的 AI API 中转站测评与导航平台，覆盖站点排行、纯度检测、可用性监测、模型智商榜与口碑社区。机器轨道用被测站自己的账号定时探测，真伪验证基于 Anthropic 思维签名，检测报告页公开可访问；用户口碑轨道提供评分与优缺点标签。平台不收取影响排名的费用，不保存自测用的 API Key。仓库为 Next.js + Prisma + PostgreSQL 的网站与数据展示层，完整测评平台还需另接检测后端与可用性监测组件。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 基于 Anthropic 思维签名的 Claude 纯度三档判定，检测报告公开可访问
-- 90 分钟至 30 天多窗口在线率与延迟监测
-- MCP 服务提供 6 个只读工具，另有 Skills 与 llms.txt 接入
-- 自带 Key 自测：Key 用完即弃，不落库不留日志
+- 纯度检测：基于思维签名的真伪验证，三档判定并生成公开报告页
+- 可用性监测：分钟级探测，输出 90 分钟至 30 天在线率与延迟趋势
+- MCP 服务提供 6 个只读工具，另有 Skills 与 llms.txt 文本入口
+- 榜单分数来自自动探针，判定方法公开
 
 ## 适用场景
 
-- 买中转站前核实是否跑的真模型、比价与看在线率
-- 怀疑被降智偷换时做纯度检测
-- 让 Claude Code/Cursor 里的 Agent 直接查询中转站数据
-- 站主提交收录并跟踪自家站点档位变化
+- 选 Claude/GPT/Gemini 中转站前对比纯度、价格与在线率
+- 怀疑被降智时核实站点是否偷换模型
+- 让 Claude Code、Codex、Cursor 通过 MCP 直接查询测评数据
+- 自部署一套中转站测评展示平台
 
 ## 场景标签
 
@@ -38,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L51: |可用性监测|各站各分组持续探测，查看 90 分钟、24 小时、7 天、30 天的在线率与延迟趋势|可用性监测|
-> L111: - 地址：`https://www.okkmax.com/mcp`（Streamable HTTP，无需认证）
+> L14: 独立第三方的 AI API 中转站测评与导航平台。
+> L15: 榜单分数全部来自自动探针，判定方法公开可审计，不收取任何影响排名的费用。
+> L57: |Agent 接入|让 AI Agent 通过 MCP、Skills 和 llms.txt 直接查询测评数据|开发者与 AI Agent 接入|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `9b5edf9504a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `409990a1b21d` · [字段定义](../../DATASET.md)*

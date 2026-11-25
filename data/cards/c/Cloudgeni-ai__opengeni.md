@@ -2,9 +2,9 @@
 
 ⭐ 226 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Cloudgeni-ai/opengeni) · [官网](https://opengeni.ai/) · 组织维护
 
-**面向组织的可自托管 agentic 服务：持久会话与人工审批**
+**团队自托管的 agent 运行时：可审批、可审计地跑真实工作**
 
-自托管/托管双形态的 agent 运行服务：运行执行实际工作的 AI agent，会话可持续数小时或数天，每个事件落入 Postgres 形成可重放日志，危险工具调用前暂停等待人工审批，可在 Docker/Modal/云沙箱或自有机器（Connected Machine，仅外拨）上执行。提供 Web 控制台、Slack/语音/SDK/API 等多种接入面、React 嵌入组件、macOS/Windows/Linux 桌面端，以及 Helm chart 与 Azure/AWS/GCP Terraform 参考部署。本地开发需 Bun、Docker、rustup、C 编译器与 OpenAI 或 Azure OpenAI key。
+Opengeni 是一个自托管的多用户 agent 服务：每个团队/客户一个 workspace，agent 在 Slack、桌面端或 Web 中执行会议跟进、报告、PR 审查等任务，工具调用需人工审批，凭证存于加密 vault、模型不可见。会话基于 Postgres 与 Temporal 做持久化与精确重放，支持定时与事件触发、子 agent 分工、按 workspace 的预算控制。模型可自选（OpenAI/Azure/Anthropic/OpenRouter 或 OpenAI 兼容服务），部署提供 Helm chart 与 Terraform 参考配置，另有官方托管版。
 
 ## 筛选速览
 
@@ -13,33 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 事件全部落入 Postgres 的持久可重放会话与审计历史
-- 工具调用前的人工审批门控，答案后精确恢复执行（跨重启）
-- 托管沙箱或自有机器（Connected Machine，仅外拨连接）执行
-- React 嵌入组件与租户级代理路由，API key 留在服务端
+- 每个工具调用支持 Allow/Ask/Block 三级人工审批
+- 会话事件、审批与工具调用存入 Postgres 并可精确重放审计
+- API、Web、桌面端、Helm chart、Terraform 全部 Apache-2.0
+- 接入 OpenAI/Azure/Anthropic/OpenRouter 或任意 OpenAI 兼容服务，可强制仅 EU 推理
 
 ## 适用场景
 
-- 让 agent 长时间执行运维/基础设施任务并可审计回放
-- 在自己的产品里嵌入带审批的 agent 会话界面
-- 把 agent 会话跑在自己的笔记本、构建机或 GPU 机器上
+- 团队共享的 agent 工作台，敏感操作先经人工批准
+- 在自有 Kubernetes 与区域内部署，数据不出自有 Postgres
+- 把 agent 会话以 SDK 嵌入自家产品给每个客户使用
+- 定时或在 GitHub/Sentry/webhook 事件触发时自动跑任务
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L22: Opengeni is a production-ready agentic service: it runs AI agents that do real work, keeps a session going for hour
-> L24: Opengeni is not the agent; it is everything the agent needs around it. Give agents work from the web app and follow
-> L40: - **Managed or self-hosted.** Use app.opengeni.ai with nothing to run, or deploy the same API, web app, workers, He
+> L7:  The open-source agent harness your team runs on its own infrastructure.
+> L24: Opengeni is the harness around the agent, and you run all of it. One deployment on your own Kubernetes, in the regi
+> L43: - **Bring your own models.** OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter, or any OpenAI-compatible server, s
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b420212819a0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5001a188f3a8` · [字段定义](../../DATASET.md)*

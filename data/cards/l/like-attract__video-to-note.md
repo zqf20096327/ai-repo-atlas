@@ -2,9 +2,9 @@
 
 ⭐ 196 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/like-attract/video-to-note) · 个人维护 · 中文 README
 
-**本地优先的视频转 Markdown 笔记工具，支持 B站/抖音/本地视频**
+**本地优先服务：把 B站/抖音/本地视频转成带时间轴的 Markdown 笔记**
 
-VideoToNo 是把视频变成带时间轴 Markdown 笔记的本地服务：输入 B 站、抖音、YouTube 链接或本地文件，优先读取平台字幕（含登录后的 B 站 AI 字幕），无字幕时用 faster-whisper/paraformer 离线转写，再由用户选择的 LLM 生成笔记；也支持仅转录字幕（全程不调大模型、无需 API Key）。提供 Windows 便携版、源码运行、MCP 服务（8 个工具）与 Agent Skill 四种接入方式；媒体处理在本机完成，服务默认只监听 127.0.0.1。限制：非 Windows 平台 API Key 明文保存；重启后运行中任务标记失败。
+VideoToNo 提供「视频 → 结构化笔记」链路：输入 B 站、抖音、YouTube 或本地视频，优先读取平台字幕（含 B 站 AI 字幕），无字幕时用本机模型离线转写（paraformer 或 whisper 系），再由用户配置的大模型生成带时间轴的 Markdown 笔记；也可选「仅转录」模式，不调用大模型。接入方式包括 Windows 便携版桌面应用、内置 MCP 服务（WorkBuddy、Cherry Studio、Codex 等客户端）和 Agent Skill。API Key 与 B 站凭据在本机保存，Windows 上经 DPAPI 加密；服务默认只监听 127.0.0.1。主要面向 Windows + Python 3.11。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ VideoToNo 是把视频变成带时间轴 Markdown 笔记的本地服务：输入
 
 ## 能力要点
 
-- 平台字幕优先 + faster-whisper/paraformer 本地离线转写，保留真实时间轴
-- 仅转录模式全程不调大模型、无需 API Key
-- 内置 MCP 服务（summarize_video/transcribe_video 等 8 个工具）与 Agent Skill
-- B 站深度适配：AI 字幕、扫码登录、412 风控自动回退开放接口
+- 平台字幕优先、无字幕时本机离线转写（paraformer-zh / whisper）
+- MCP 工具集与 Agent Skill 两种 agent 接入，transcribe_video 不需 API Key
+- 长视频分块逐段生成笔记，支持多分 P 与 2GB 本地文件上传
+- 导出 Markdown、HTML、JSON、PNG、Word、SRT 等多格式
 
 ## 适用场景
 
-- 把 B 站/抖音课程视频整理成可回看的 Markdown 笔记
-- 只取带时间轴的字幕稿，自己或让 agent 整理内容
-- 通过 Cherry Studio、Codex 等 MCP 客户端一句话取转录或生成笔记
-- 让 Claude Code 等编码 agent 借助技能脚本直接生成视频笔记
+- 把 B 站长课视频转成带时间轴的复习笔记
+- 给本地 agent 提供视频转文字稿的原料出口
+- 无字幕视频离线转写并整理成文
 
 ## 场景标签
 
-`语音识别` `AI 写作` · 领域:内容生成
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L15: VideoToNo 把「视频 → 结构化笔记」这条链路做成了一个**本地优先**的服务：输入 B 站、抖音、YouTube 链接或本地视频，优先读取平台字幕、B 站 AI 字幕，无字幕时用本机模型离线转写（中文首选 parafor
-> L78: - 🧾 **真实时间轴**：保留字幕或 Whisper 分段的起止时间，不让模型凭空猜时间点。
+> L133: VideoToNo 内置 MCP（Model Context Protocol）服务，可以在 WorkBuddy、Cherry Studio、Codex 等 AI 客户端里直接输入视频链接取字幕稿或生成笔记。**使用前请先启动 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `200e02d73be5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `451543a56bb0` · [字段定义](../../DATASET.md)*

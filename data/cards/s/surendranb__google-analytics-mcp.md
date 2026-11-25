@@ -2,9 +2,9 @@
 
 ⭐ 243 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/surendranb/google-analytics-mcp) · [官网](https://ga4mcp.com) · 个人维护
 
-**让 AI agent 查询 Google Analytics 4 数据的 MCP 服务器**
+**把 GA4 网站分析数据接入 AI agent 的 MCP 服务器**
 
-面向 AI agent、agentic workflow 与 MCP 客户端的 Google Analytics 4 数据服务器：提供多维报告查询、实时报告、账户与属性列表、维度/指标 schema 发现等 8 个工具，聚合在服务端完成并内置默认安全设置。附带从 GitHub 动态加载的分析技能（流量诊断、渠道归因、电商分析、AI 引荐流量分析）。支持 Claude Desktop/Code、Cursor、VS Code、Windsurf 等客户端配置，提供一行安装脚本与 uvx 运行方式；收集匿名遥测，可经环境变量退出。
+面向 Google Analytics 4 的 MCP 服务器，为 AI agent 与 MCP 客户端提供网站流量、用户行为与效果数据的查询能力。提供 12 个工具：多维报表与服务器端聚合、属性列表、维度/指标 schema 发现与分类浏览、分析配方检索、故障排查指南、交互式修复配置与版本更新检查。内置流量诊断、渠道归因、电商转化、AI 引荐流量分析等动态技能。支持 Claude Code/Desktop、Cursor、VS Code 等客户端，默认开启脱敏遥测并可多途径退出。MIT 许可。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 8 个工具：多维 GA4 报告、实时报告、schema 发现、账户/属性列表
-- 从 GitHub 动态加载的分析技能与 playbook（流量诊断、渠道归因、电商漏斗等）
-- 一键安装脚本自动配置 Claude Desktop、Cursor、VS Code 等客户端
-- 服务端聚合与安全默认值，减少数据整理工作
+- get_ga4_data 多维报表，含服务端聚合、estimate_only 预估与大数据集保护开关
+- search_schema 按关键词排序维度/指标，前置 schema 发现减少取数试错
+- 内置分析配方与动态技能：流量骤降诊断、渠道归因、电商漏斗、AI 引荐流量隔离
+- setup_ga4_access 无重启交互式修复配置，get_troubleshooting_guide 覆盖 setup/IAM/schema
 
 ## 适用场景
 
-- 让 Claude/Cursor 等 MCP 客户端直接查询我的网站流量数据
-- 用自然语言分析 GA4 的用户行为与转化漏斗
-- 诊断流量骤降并按渠道做归因分析
+- 让 agent 直接查询网站流量与用户行为数据生成分析
+- 排查 GA4 配置、IAM/403 权限与 schema 相关错误
+- 追踪来自 ChatGPT、Claude 等的 AI 引荐流量
+- 电商收入与转化漏斗的自动归因分析
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 ## 证据(README 行号)
 
 > L5: > **Model Context Protocol (MCP) server for Google Analytics 4: real-time query exploration, schema discovery, metri
-> L55: ## 🛠️ Tools & Capabilities
+> L76: |`get_ga4_data`|`dimensions` (list), `metrics` (list), `date_range_start` (str), `date_range_end` (str), `dimension
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a7a77bfcf185` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d55553398a3e` · [字段定义](../../DATASET.md)*

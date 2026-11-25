@@ -2,9 +2,9 @@
 
 ⭐ 210 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/DingoOz/llm-visuals) · 个人维护
 
-**本地 LLM 推理服务的真彩色终端实时监控面板**
+**为本地运行的 LLM 推理服务器提供终端实时监控仪表盘**
 
-用 Rust/ratatui 编写的 TUI 仪表盘：自动发现本机运行的推理服务（llama.cpp llama-server、ollama、vLLM、SGLang 等），读取其计数器与 NVIDIA/AMD/Intel/Apple GPU 遥测，展示 tok/s、TTFT、GPU 负载与显存、上下文填充、投机解码接受率、分层 GPU 分布；配合服务端补丁可显示 MoE 专家路由。自动检测通过扫描 /proc、解析命令行与 GGUF 头实现。面向在本地跑模型的开发者和用户；Windows/macOS 支持为新近添加且未经完整实测，端点仅支持明文 HTTP。
+用 Rust 编写的终端 TUI 仪表盘：自动探测本机已在运行的推理服务器（llama.cpp、ollama、vLLM、SGLang 等），读取服务器计数器与 NVIDIA/AMD/Intel GPU 遥测，展示 tok/s、TTFT、GPU 负载与显存、上下文占用、投机解码接受率、各 GPU 上的层分布；打补丁后还可显示 MoE 模型的专家路由。提供 demo 模式无需服务器，Windows/macOS/Linux 提供 x86-64 与 ARM64 预编译二进制，日志可写入 SQLite。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- tok/s、TTFT、GPU 负载/显存、上下文填充、MTP 接受率等实时指标
-- 自动检测本机推理服务（/proc 扫描、命令行解析、GGUF 头读取）
-- 配合小补丁可显示 MoE 模型的逐 token 专家路由
-- 六平台预编译二进制（Linux/macOS/Windows × x86-64/ARM64）与演示模式
+- 自动探测本地推理服务器并解析 GGUF 架构、端口、上下文与张量切分
+- 读取 NVIDIA (nvidia-smi)、Intel (xpu-smi)、AMD、Apple silicon (macmon/powermetrics) GPU 遥测
+- 显示 MoE 专家路由（需对服务器打补丁）与投机解码接受率
+- 三个平台六种架构提供预编译二进制，带 --demo 合成模式
 
 ## 适用场景
 
-- 在终端实时观察本地 LLM 服务的吞吐与 GPU 占用
-- 排查多卡部署下各层/专家的分布情况
-- 无服务器时用 --demo 演示模式体验面板
+- 本地跑 llama.cpp/ollama 时实时观察推理吞吐与 TTFT
+- 监控 GPU 利用率、显存与上下文填充情况
+- 查看 MoE 模型每个 token 路由到哪些专家
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L3: **A live terminal dashboard for the LLM running on your machine.**
 > L5: It finds the inference servers you already have up (llama.cpp `llama-server`,
-> L7: GPU telemetry, and turns them into a truecolor picture of what the model is doing
+> L6: ollama, vLLM, SGLang, Strata, Maya, NInfer, TensorFold, …), reads their counters and NVIDIA, AMD or Intel
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `002cd1092f50` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `cd0eb000c489` · [字段定义](../../DATASET.md)*

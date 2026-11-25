@@ -2,9 +2,9 @@
 
 ⭐ 238 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/PNGTRID/AnvilWiki) · [官网](http://anvil.wiki/zh/landing/) · 个人维护 · 中文 README
 
-**面向零基础用户的开源游戏 wiki 站模板，带 AI 产页工作流**
+**不会编程者也能建游戏攻略 wiki 的静态站模板，AI 对话产页**
 
-基于 Astro + Cloudflare Pages 的静态游戏 SEO 内容站模板：fork 后按手册部署，围绕某款游戏建攻略站，通过 SEO 引流与 AdSense/Adsterra 广告变现，收入归站长。AI 部分：仓库内置 6 个内容技能，用 Claude Code/Codex/Cursor 等 agent 对话生成 MDX 页面，批量产页走 PR 门控管道（八道质量门禁）；另有 anvilwiki-ops 工具拉取 GSC/Cloudflare 数据并追踪 AI 搜索来路。配套双语零基础手册与多语言、Lighthouse 优化等建站特性。
+基于 Astro + Cloudflare Pages 的游戏内容站模板：fork 后按手册执行 5 条命令或走零命令 GitHub Actions 路径即可部署，面向想通过 SEO 流量与广告变现、但不会编程的个人。AI 部分包括随仓库分发的 6 个 agent 技能（挖词选品、产页、批量内页、兑换码更新等），对话生成后自动跑内容质检与构建；批量产页经 8 道质量门禁的 PR 管道人工审后合并；另带 anvilwiki-ops 工具追踪多站数据与 AI 引用来路。许可 MIT，托管零成本，唯一必要开销是域名。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 内置 6 个 agent 技能：对话生成 MDX 攻略页并自动构建自检
-- 批量产页走 PR 门控管道：AI 写、八道质量门禁验、人工审后合并
-- Astro 静态输出 + Cloudflare Pages 免费部署，Lighthouse 4×100
-- anvilwiki-ops（npx + MCP）拉取 GSC/Cloudflare 数据并追踪 ChatGPT/Perplexity 引用来路
+- 6 个 agent 技能随仓库分发，ZCode/Claude Code/Codex/Cursor 对话即产页
+- 批量产页走 PR 门控管道：AI 写、8 道质量门禁验、人工审核后合并
+- 中英双语学习手册（6 阶段 29 课）+ 开发手册（9 课），含可复制 AI 提示词
+- SEO 工程化：sitemap/JSON-LD/hreflang/llms.txt 自动生成，AdSense/Adsterra 广告位默认关闭
 
 ## 适用场景
 
-- 不会编程，想快速建一个游戏攻略站并通过广告变现
-- 用 AI 助手对话批量生成和维护 wiki 内容
-- 一人管理多个游戏内容站并做 SEO 运营
+- 为某款 Roblox/Steam 游戏搭建攻略、兑换码、强度榜 wiki 站
+- 不会编程的副业者从选品到广告变现全程照手册走完
+- 用 AI 助手批量从关键词清单生成内页草稿并审核合并
+- 用一套 anvilwiki-ops 工具同时管理多个游戏内容站
 
 ## 场景标签
 
-`工作流自动化` `AI 写作` · 领域:效率与自动化
+`AI 写作` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L71: AnvilWiki 是一个**游戏 SEO 内容站模板**——用来快速搭建围绕某款游戏(Roblox、Steam 新游等)的攻略内容站,通过 SEO 获取流量,通过广告变现。**广告收入 100% 归你**:无平台抽成、无收入分成
-> L73: 技术栈是 **Astro + Cloudflare Pages**:纯静态输出、零适配器、免费无限带宽、全球 CDN、零 JS 优先(首屏极快)。
-> L80: - 🤖 **AI 对话即产页**:内容技能随仓库分发(`.agent/skills/`),对 ZCode / Claude Code / Codex 说「根据这些笔记写篇攻略」,产出自动通过构建质检;批量产页走 **PR 门控管道
+> L72: AnvilWiki 是一个**游戏 SEO 内容站模板**——用来快速搭建围绕某款游戏(Roblox、Steam 新游等)的攻略内容站,通过 SEO 获取流量,通过广告变现。**广告收入 100% 归你**:无平台抽成、无收入分成
+> L81: - 🤖 **AI 对话即产页**:内容技能随仓库分发(`.agent/skills/`),对 ZCode / Claude Code / Codex 说「根据这些笔记写篇攻略」,产出自动通过构建质检;批量产页走 **PR 门控管道
+> L199: AnvilWiki is an **open-source game wiki site template**: build a content site around a game (Roblox, Steam new rel
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `32e577ef8e01` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b7960c03e94a` · [字段定义](../../DATASET.md)*

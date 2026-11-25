@@ -2,9 +2,9 @@
 
 ⭐ 261 · TypeScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/wellwelwel/lagune) · [官网](https://lagune.ai) · 个人维护
 
-**让 AI agent 对任意语言项目做安全加固与审计的命令工具集**
+**给 AI 编码 Agent 的安全技能包：边开发边加固、五步蓝队审计**
 
-运行于 Node.js 之上的安全工作流工具：通过 npx 安装后，在项目中以斜杠命令驱动 AI agent 执行五步 Blue Team 流程——设立安全章程（charter）、读取代码并映射风险（detect）、生成防御计划（plan）、逐项应用修复（harden）、验证修复（verify）；另有 /lagune 命令在开发过程中随时强化安全，以及从文章/漏洞利用学习新安全子技能的 specialize 命令。声明支持 78 种 agent、任意编程语言，无需 API key；提供本地私有 dashboard（实时刷新、浏览器内管理），要求系统装有 Node.js LTS 和至少一种受支持的 agent。
+以 Agent 插件/技能形式分发的安全工具集：安装后为 Claude Code、Codex 等编码 Agent 解锁一组斜杠命令，由 charter（安全规则）统一约束。提供两类流程：构建时随写随加固（/lagune），以及按序执行的四步蓝队审计（detect→plan→harden→verify），另有从文章/漏洞学习新安全专长的 /lagune-specialize 与生成防御性披露证明的 /lagune-prove。附 npx 启动的本地 Dashboard 查看发现、修复与判定。需 Node.js LTS，无需 API key。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 五步 Blue Team 流程命令：charter/detect/plan/harden/verify
-- 声明支持 78 种 agent 与任意编程语言，无需 API key
-- 本地私有 dashboard，可在浏览器内安装、更新与管理
-- specialize 命令可从文章或漏洞利用学习新的安全子技能
+- /lagune-charter 设定项目安全规则，约束其余所有技能
+- 五步蓝队审计流：detect→plan→harden→verify 依序执行
+- 支持 Claude Code、Codex 及 skills.sh/GitHub CLI 通用安装
+- npx lagune 启动本地 Dashboard，实时查看发现与修复，无需 node_modules
 
 ## 适用场景
 
-- 开发过程中让 AI agent 持续执行项目安全加固
-- 对已有代码库做风险映射并生成可执行的防御计划
-- 把检测到的发现转成可运行的负责任披露证明
+- 开发新功能时让 Agent 同步做安全加固
+- 对已有项目跑完整蓝队审计并逐项修复验证
+- 把安全文档/漏洞资料喂给 Agent 学成新专长
 
 ## 场景标签
 
-`网络安全` `代码审查` · 领域:编码与开发
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L7: **Lagune** helps your AI agent make a project more secure. You point it at your code, and the agent figures out what
-> L81: Once **Lagune** is set up in your project, your **AI** agent unlocks a set of slash commands:
-> L98: |#|Command|What it does for you|
+> L35: An AI agent running Lagune: a project charter, a secure user sign-up, and a Blue Team audit
+> L119: Once installed, your **AI** agent unlocks a set of commands, all governed by the **charter**: secure new work as y
+> L49: claude plugin install lagune --marketplace wellwelwel/lagune
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `c5614b2de59b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5041d3fb5b01` · [字段定义](../../DATASET.md)*

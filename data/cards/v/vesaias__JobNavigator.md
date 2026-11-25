@@ -2,15 +2,15 @@
 
 ⭐ 197 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vesaias/JobNavigator) · [官网](https://vesaias.github.io/JobNavigator-demo) · 个人维护
 
-**自托管求职自动化平台：抓取职位、AI 评分匹配、定制简历、追踪申请**
+**自托管多账号求职自动化平台：抓取职位、AI 评分并生成简历**
 
-面向个人或家庭（最多 5 个账户）的自托管求职管理系统：用 Playwright 与 12 个 ATS 处理器、JobSpy、Apify 等抓取招聘页与职位板；调用 LLM（Claude、OpenAI、OpenRouter、Ollama、LM Studio、Claude Code、Codex CLI、Antigravity CLI 或 OpenCode Go）对职位与简历做评分并生成定制简历、求职信；Chrome 扩展实现 LinkedIn 被动捕获与 ATS 表单自动填写；含 Gmail 回复分类、Telegram 告警、申请漏斗统计。通过 Docker Compose 部署，可从 GHCR 拉取预构建镜像或源码构建（linux/amd64 与 arm64）。限制：职位预览 iframe 部分站点会空白，需装扩展；部分爬虫默认关闭且用户自负平台条款。
+Docker 部署的自托管求职自动化系统，支持最多五个账号（各含独立职位、简历与设置）。工作流覆盖职位发现（Playwright + 13 种 ATS 处理器、JobSpy、Apify 等多个来源）、LLM 对简历打分与定制、求职信生成、ATS 表单自动填写、申请状态跟踪、Gmail 回复分类与 Telegram 通知。评分模型按功能可分别配置，支持订阅制 CLI 或 API key 接入，方案限额时自动故障转移。Chrome 扩展负责职位捕获与表单填写。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 多数据源职位抓取：Playwright + 12 个 ATS 处理器、JobSpy、Apify、LinkedIn collections 等
-- LLM 评分（Light 打分 / Full 报告）与简历、求职信定制，支持 9 种模型接入方式
-- Chrome 扩展：LinkedIn 被动捕获、任意页面保存职位、ATS 表单自动填写与自由问答题 AI 作答
-- 多账户（1+4）各自独立数据与可选 PIN，共享同一次抓取结果
+- Playwright + 13 种 ATS 处理器及 JobSpy/Apify 等多源职位抓取
+- LLM 逐职位评分，每个功能可独立配置模型，支持订阅制 CLI runner
+- 简历定制（8 种 PDF 模板与 docx 导出）与求职信生成
+- Chrome 扩展实现 ATS 表单自动填写与 LinkedIn 职位捕获
 
 ## 适用场景
 
-- 我汇总各招聘网站的职位并用 AI 按我的简历打分排序
-- 我想为每个职位生成定制简历和求职信并跟踪申请进度
-- 家庭多人共用一套自部署服务，各自管理求职流程
-- 通过 Telegram 接收新职位提醒和 Gmail 回复自动更新状态
+- 批量抓取职业页面并按我的简历自动打分筛选
+- 为每个职位定制简历和求职信后自动填写申请表
+- 家庭多人共用一套自托管实例分账号管理求职进度
 
 ## 场景标签
 
-`网页抓取` `浏览器自动化` `AI 写作` · 领域:效率与自动化
+`浏览器自动化` `工作流自动化` `网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L5: **Self-hosted, multi-account job-hunt automation.**
 > L7: Scrape career pages and aggregators, score jobs against your résumés with an LLM, tailor résumés and cover letters, 
 > L36: |**Scoring**|Claude, OpenAI, OpenRouter, Ollama, LM Studio, Claude Code, Codex CLI, Antigravity CLI or OpenCode Go;
+> L62: docker compose pull && docker compose up -d      # prebuilt images from GHCR
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5dcc290d5ea2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1cc41f306f46` · [字段定义](../../DATASET.md)*

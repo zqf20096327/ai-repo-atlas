@@ -2,9 +2,9 @@
 
 ⭐ 209 · Python · 推送 2026-11-09 · [GitHub](https://github.com/seanghay/awesome-khmer-language) · 个人维护
 
-**高棉语语言资源汇总清单：工具、数据集、论文与模型**
+**高棉语 NLP 资源清单：工具、数据集、论文与模型导航**
 
-面向高棉语（柬埔寨语言）研究与开发的资源策展清单，按 9 个板块组织：Unicode 规范、工具包（分词、拼写检查、OCR、G2P、强制对齐等）、数据集（语料、语音、ASR 数据）、研究论文（OCR、分词、ASR、机器翻译）、项目与模型（基于 Qwen3-ASR、XLM-RoBERTa、Whisper、wav2vec2 等微调的高棉语模型）、博客/幻灯片、通用工具、文本排版引擎与活跃研究者名录。由个人维护，通过 Pull Request 收录条目。
+面向高棉语（柬埔寨官方语言）处理的开源资源聚合清单，按规范、工具包、数据集、研究论文、项目/模型五类组织。覆盖分词、G2P、语音语料、OCR 数据、预训练模型（XLM-RoBERTa、ALBERT、wav2vec2 微调）等条目，多由柬埔寨本地开发者与研究团队维护，含作者本人的多个语音语料与分词工具仓库。清单由 KhmerScan 赞助，接受 Pull Request。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 9 个板块覆盖规范、工具、数据集、论文、模型与研究者
-- 收录高棉语专用模型（ASR/OCR/分词/XLM-RoBERTa/TTS）
-- 收录 khmer-ocr-benchmark-dataset 等基准数据集
+- 按规范/工具/数据集/论文/模型五类组织的资源索引
+- 含多个高棉语语音语料与 OCR 基准数据集
+- 收录分词、拼写检查、强制对齐、TTS 等任务工具
+- 包括 Qwen3-ASR 与 wav2vec2 微调的高棉语模型
 
 ## 适用场景
 
-- 寻找高棉语 NLP 的分词、OCR、ASR 工具与数据集
-- 调研高棉语相关研究论文与预训练模型
-- 联系高棉语语言技术领域的研究者
+- 查找高棉语分词或 G2P 工具
+- 寻找高棉语语音识别训练数据
+- 调研高棉语低资源 NLP 研究进展
 
 ## 场景标签
 
@@ -37,9 +38,8 @@
 ## 证据(README 行号)
 
 > L3: A large collection of Khmer language resources. Khmer is a language used by Cambodia.
-> L62: ### 3. Datasets
-> L88: ### 4. Research Papers
-> L120: ### 5. Projects/Models
+> L20: ### 2. Toolkit
+> L66: ### 3. Datasets
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `58cef2789967` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d6ab628ccc8d` · [字段定义](../../DATASET.md)*

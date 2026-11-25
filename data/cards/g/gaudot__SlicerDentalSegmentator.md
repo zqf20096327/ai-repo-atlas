@@ -1,10 +1,10 @@
 # gaudot/SlicerDentalSegmentator
 
-⭐ 203 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/gaudot/SlicerDentalSegmentator) · 组织维护
+⭐ 203 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/gaudot/SlicerDentalSegmentator) · 个人维护
 
-**3D Slicer 扩展：CT/CBCT 牙科体数据全自动分割**
+**牙科 CT/CBCT 全自动多类分割的 3D Slicer 扩展**
 
-面向 3D Slicer 平台的医学影像扩展，加载 CT 或 CBCT 牙科体数据后一键生成上颌骨与颅骨上部、下颌骨、上下牙列及下颌管的自动分割。底层模型 DentalSegmentator 基于 nnU-Net 框架，在 470 例牙颌面 CT/CBCT 上训练，并在 7 家机构 256 例数据上评估。首次运行时自动安装模型权重、PyTorch、nnUNet V2 等依赖；无 CUDA 设备处理耗时较长，Linux 上建议 32 GB 内存，macOS 暂无 GPU 加速。分割结果可在 Segment Editor 中编辑并导出，另提供 Zenodo 上的预训练模型供 nnU-Net 命令行使用。
+基于 nnU-Net 框架的 3D Slicer 扩展，从单个体积自动生成上颌骨与上颅骨、下颌骨、上下牙列、下颌管五类分割，覆盖颌面 CT 与 CBCT 扫描。训练数据为 470 例扫描，独立评估 256 例、来自 7 家机构。扩展通过 3D Slicer Extension Manager 安装，首次启动自动下载模型权重与 PyTorch/nnU-Net v2 依赖；结果可在 Segment Editor 中细化、平滑并导出，另提供独立于图形界面的 nnU-Net 命令行用法。macOS Apple Silicon 暂不支持 GPU 加速。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 基于 nnU-Net 的模型，470 例训练、256 例多机构测试评估
-- 生成 5 类分割：上颌骨与颅骨上部、下颌骨、上下牙列、下颌管
-- 通过 3D Slicer 扩展管理器安装，首次启动自动下载依赖与权重
-- 预训练模型发布于 Zenodo，可经 nnU-Net 命令行使用
+- 单次运行生成五类颌面解剖结构分割
+- 基于 nnU-Net v2，470 例 CT/CBCT 训练、7 机构 256 例独立评估
+- 通过 3D Slicer Extension Manager 一键安装，首启自动下载权重与依赖
+- 支持 CUDA GPU 加速推理与 CPU 回退，并提供命令行独立运行
 
 ## 适用场景
 
-- 牙科 CT/CBCT 影像中自动分割颌骨与牙齿结构
-- 口腔正畸或种植手术规划前的解剖结构提取
-- 在 3D Slicer 内对分割结果进一步编辑与导出
+- 对牙科 CBCT/CT 批量执行牙齿与下颌管自动分割
+- 在 3D Slicer 中细化并导出颌面三维模型用于研究分析
+- 配合正畸、牙移植等临床研究做牙科影像量化
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: 3D Slicer extension for fully-automatic segmentation of CT and CBCT dental volumes.
-> L14: DentalSegmentator is based on nnU-Net framework. It has been trained on 470 dento-maxillo-facial CT and CBCT scans,
-> L56: After the install, the volume will be transferred and sent to the nnUNet V2 library for processing.
+> L3: **Fully automatic AI-powered segmentation of Head and Dental CT and CBCT images in 3D Slicer.**
+> L5: DentalSegmentator is an open-source deep learning extension for **automatic multiclass segmentation of dento-maxillo
+> L95: Click `Apply` to launch the automatic segmentation.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f14efeb95fb7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `873a7328be40` · [字段定义](../../DATASET.md)*

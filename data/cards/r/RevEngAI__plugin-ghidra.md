@@ -2,9 +2,9 @@
 
 ⭐ 201 · Java · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RevEngAI/plugin-ghidra) · [官网](https://reveng.ai) · 组织维护
 
-**给逆向工程师的 Ghidra 插件：接入 RevEng.AI 做二进制相似度与 AI 反编译**
+**逆向工程师在 Ghidra 内调用 RevEng.AI 做二进制分析**
 
-RevEng.AI 官方开源的 Ghidra 扩展，通过 API 将当前打开的二进制上传至 RevEng.AI 平台分析，提供函数相似度匹配与重命名（单个或批量，最多返回 25 个候选）、AI 反编译及自然语言解释、Agent Chat 对话式重命名/改类型、与 Portal 双向同步等五个插件。需配置 RevEng.AI API key，支持 Ghidra 11.4+（Java 21），Releases 页提供预构建包，也可用 Gradle 自行构建。
+Ghidra 扩展插件，通过 RevEng.AI API 在 Ghidra 内上传当前打开的二进制进行分析，用于剥离符号二进制的逆向辅助。关键机制包括：二进制代码相似度匹配并以匹配结果重命名函数（单个或批量）、跟随光标的相似函数窗口、AI 反编译附自然语言解释、Agent Chat 让 agent 重命名与重定类型函数、与 Portal 双向同步函数名/签名/数据类型。安装需 Ghidra 11.4+，自定义 Ghidra 版本需自行用 Gradle 构建。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ RevEng.AI 官方开源的 Ghidra 扩展，通过 API 将当前打开的二进制
 
 ## 能力要点
 
-- 函数级与批量二进制相似度匹配并重命名（返回最多 25 个候选）
-- AI 反编译窗口附函数功能自然语言解释
-- Agent Chat 让 AI 重命名函数并修改类型
+- 二进制代码相似度匹配并重命名函数（单个/批量，最多返回 25 个候选）
+- AI 反编译并提供函数功能的自然语言解释
+- Agent Chat 可询问当前二进制并自动重命名与重定类型函数
 - 与 RevEng.AI Portal 双向同步名称、签名与数据类型
 
 ## 适用场景
 
-- 逆向 stripped 二进制时恢复函数名
-- 批量匹配并审阅候选名后统一重命名
-- 让 AI 生成反编译结果并解释函数用途
+- 逆向剥离符号的二进制时借助相似度匹配恢复函数名
+- 在 Ghidra 内获得函数的 AI 反编译与自然语言说明
+- 把 Portal 上的分析结果同步回本地并回传本地改名
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ RevEng.AI 官方开源的 Ghidra 扩展，通过 API 将当前打开的二进制
 
 ## 证据(README 行号)
 
-> L5: ### AI Assisted Binary Analysis
 > L11: The RevEng.AI Ghidra plugins allows you to interact with our API from within Ghidra.
 > L22: * AI Decompilation, with a natural language explanation of what the function does
+> L23: * Agent Chat: ask the RevEng.AI agent about the current binary and let it rename and re-type functions
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `427f4d29f6e9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `510a841a5166` · [字段定义](../../DATASET.md)*

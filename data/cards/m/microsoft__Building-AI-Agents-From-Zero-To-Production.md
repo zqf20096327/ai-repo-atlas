@@ -2,9 +2,9 @@
 
 ⭐ 201 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/Building-AI-Agents-From-Zero-To-Production) · 组织维护
 
-**微软官方 AI Agent 开发生命周期教学课程**
+**微软出品的 AI Agent 开发全周期教学课程**
 
-面向学习者的 AI Agent 开发教学课程仓库：覆盖 Agent 设计、开发、评测、部署、生产级托管 Agent、Toolbox 与多 Agent/A2A 协议等 7 课，每课附可在本地运行的代码示例。技术栈基于 Microsoft Agent Framework、Microsoft Foundry（部署 GPT-5 系列模型）、Azure OpenAI Service 与 Azure CLI，需 Python 3.12+，实操会创建真实 Azure 资源并可能产生费用。通过 GitHub Action 提供 50+ 种语言翻译，可用 sparse checkout 克隆以减小下载体积。
+由 Microsoft 团队维护的课程仓库，教授构建与部署 AI Agent 的基础知识，共 7 节递进式课程，涵盖 Agent 设计、开发、评估、部署、生产托管、工具箱治理及多 Agent/A2A 协议。每课附可本地运行的代码示例，基于 Microsoft Agent Framework（MAF）、Microsoft Foundry、Azure OpenAI Service、Azure CLI 与 Python 3.12+。提示用户注意 Azure 资源成本清理，提供 Discord 社区答疑与 50+ 语言翻译版本。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 7 课覆盖 Agent 设计/开发/评测/部署到生产的完整生命周期
-- 基于 Microsoft Agent Framework 与 Microsoft Foundry（GPT-5 系列）
+- 7 节递进式课程覆盖 AI Agent 全开发生命周期
 - 每课附可本地运行的代码示例
-- GitHub Action 自动维护 50+ 种语言翻译
+- 50+ 语言翻译版本，支持稀疏克隆以减小下载体积
+- 以『开发者入职』Agent 为统一贯穿用例
 
 ## 适用场景
 
-- 系统学习 AI Agent 从零到生产的开发流程
-- 跟随示例上手 Microsoft Agent Framework 与 Foundry
-- 了解 A2A 协议、MCP Toolbox 等多 Agent 生产实践
+- 系统学习从零到生产部署 AI Agent 的流程
+- 了解 Microsoft Agent Framework 与 Foundry 的实际用法
+- 学习多 Agent 编排与 A2A 协议实践
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L31: ## A course teaching you the fundamentals of the AI Agent Development Lifecycle
 > L43: This course has lessons covering the fundamentals of building and deploying AI Agents.
-> L88: |**Lesson**|**Description**|
+> L45: Each lesson builds on the previous one, so we recommend starting from the beginning and working your way through to
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `98e004aafa2f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1584d9fafbde` · [字段定义](../../DATASET.md)*

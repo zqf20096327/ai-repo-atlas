@@ -1,10 +1,10 @@
 # hanishrao/collective-ai-tools
 
-⭐ 262 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hanishrao/collective-ai-tools) · [官网](https://collectiveai.tools/) · 个人维护
+⭐ 262 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hanishrao/collective-ai-tools) · [官网](https://collectiveai.tools/) · 组织维护
 
-**社区维护的 AI 工具与资源策展清单，覆盖多品类**
+**为开发者与研究者策展的 AI 工具与资源清单**
 
-collectiveai.tools 的开源策展清单仓库，按类别（3D、农业、应用构建、艺术、音频语音、头像、浏览器、商业、聊天机器人等）收录 AI 工具与服务条目，每条附定价标签（#free/#freemium/#paid/#opensource），支持用话题标签在站内搜索过滤。面向开发者、研究者与爱好者，通过 Pull Request 接受社区贡献并要求遵循贡献指南。本体为纯清单，不提供软件安装或运行方式。
+collectiveai.tools 是一个开源社区维护的 AI 工具与资源聚合清单，收录跨 3D、农业、应用构建、艺术、音频、商业、聊天机器人等多个类别的工具条目，每条附简介与定价标签（#free/#freemium/#paid/#opensource），并支持在搜索中用标签过滤。社区通过 Pull Request 贡献条目，需遵循贡献指南。README 本身只含分类列表，不含安装或运行说明。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ collectiveai.tools 的开源策展清单仓库，按类别（3D、农业、应�
 
 ## 能力要点
 
-- 按数十个类别组织的 AI 工具条目（3D、农业、商业、聊天机器人等）
-- 四档定价标签体系（free/freemium/paid/opensource）供搜索过滤
-- 通过 Pull Request 开放社区贡献，标注 first-timers-friendly
+- 按 3D、农业、App Builder、艺术、音频等多个类别组织的策展条目
+- 条目带 #free/#freemium/#paid/#opensource 定价标签，可用标签过滤搜索
+- 社区协作维护，接受 Pull Request 并提供贡献指南
+- 页面提供搜索能力，一次查询覆盖工具、MCP 服务器、提示词等
 
 ## 适用场景
 
-- 按类别和定价查找 AI 工具与服务
-- 发现 3D 生成、语音转录、聊天机器人等各领域工具
-- 作为开源贡献者的首次提交（first contributions）练习对象
+- 按类别浏览各领域的 AI 工具选项
+- 按免费/开源等标签筛选符合预算的工具
+- 向社区提交新工具条目参与共建
 
 ## 场景标签
 
@@ -37,7 +38,7 @@ collectiveai.tools 的开源策展清单仓库，按类别（3D、农业、应�
 ## 证据(README 行号)
 
 > L3: > Explore a curated selection of AI tools and resources.
-> L21: Use these hashtags in search to filter out the tools
+> L4: We're thrilled to invite you to this our open-source community dedicated in creating a comprehensive collection of t
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0c8b2bf30db2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6958e53742ee` · [字段定义](../../DATASET.md)*

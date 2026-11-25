@@ -2,9 +2,9 @@
 
 ⭐ 199 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/milvus-io/milvus-sdk-node) · [官网](https://milvus-io.github.io/milvus-sdk-node/) · 组织维护
 
-**Milvus 向量数据库的官方 Node.js SDK**
+**Milvus 向量数据库的官方 Node.js SDK 客户端**
 
-由 Zilliz 维护的 Milvus 向量数据库官方 Node.js 客户端，提供 gRPC 与 HTTP 两种客户端。功能覆盖向量相似度搜索、混合搜索（Weighted/RRF 重排）、标量过滤查询、insert/upsert/delete 数据操作、集合/索引/分区/数据库/别名/资源组管理、用户与角色 RBAC、BulkWriter 离线导入与服务端批量导入、稀疏向量与 BM25 全文检索支持等。要求 Node.js v18+，SDK 版本与 Milvus 服务端版本有对应兼容矩阵；HTTP 客户端适配 Cloudflare Workers、Vercel Edge、AWS Lambda 等无法使用 gRPC 的环境。
+面向 Node.js 开发者连接 Milvus 向量数据库的官方 SDK，提供 gRPC 与 HTTP 两种客户端。API 覆盖向量相似检索、标量过滤查询、多向量混合检索（带 RRF 重排）、集合/索引/分区/数据库/用户 RBAC/别名/资源组管理、批量导入、flush 与 compaction、健康检查等系统操作。要求 Node.js v18+，按 Milvus 服务端版本提供对应 SDK 版本线（v2.4.9 至 3.0.x），npm/yarn 安装。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- gRPC 与 HTTP 双客户端，支持 Serverless 边缘环境接入
-- 向量搜索、混合搜索（多向量字段+重排）与标量过滤查询
-- 覆盖集合/索引/分区/数据库/RBAC/别名等完整管理操作
-- BulkWriter 离线生成导入文件与服务端批量导入
+- 提供 MilvusClient（gRPC）与 HttpClient（REST v2）两种客户端
+- 支持多向量 hybridSearch 与 RRF 重排、async iterator 分页检索
+- 覆盖集合/索引/分区/数据库/RBAC/别名/资源组全量管理 API
+- 支持 5 种向量类型（Float/Binary/Float16/BFloat16/Sparse）与 BM25 指标
 
 ## 适用场景
 
-- Node.js 应用中接入 Milvus 做向量相似度搜索
-- 在 Cloudflare Workers / Vercel Edge 等无 gRPC 环境通过 HTTP 客户端访问 Milvus
-- 以代码管理 Milvus 集合 schema、索引、分区与用户权限
-- 构建 BM25 全文检索与混合检索场景
+- 在 Node.js 服务端为应用接入 Milvus 向量检索
+- 为 RAG 系统读写向量与标量混合数据
+- 通过脚本管理 Milvus 集合、索引与用户权限
 
 ## 场景标签
 
@@ -40,6 +39,7 @@
 
 > L3: Official Node.js SDK for Milvus vector database. Provides gRPC and HTTP clients for vector similarity search, metada
 > L5: **Package**: `@zilliz/milvus2-sdk-node` | **Node.js**: v18+ | **License**: Apache-2.0
+> L118: #### search
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ec44de983fa8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2c356db2a218` · [字段定义](../../DATASET.md)*

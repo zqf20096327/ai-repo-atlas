@@ -1,10 +1,10 @@
 # rekal-dev/rekal-cli
 
-⭐ 206 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/rekal-dev/rekal-cli) · [官网](https://rekal.dev) · 组织维护
+⭐ 206 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/rekal-dev/rekal-cli) · [官网](https://rekal.dev) · 个人维护
 
-**给 AI 编码 agent 的 git 团队记忆 CLI：留存每次会话的决策推理**
+**给 AI 编码 agent 提供基于 Git 的跨会话记忆与上下文共享**
 
-命令行工具，在每次 git commit 时捕获 AI 编码会话的原始转录，存入仓库内 `.rekal/` 目录并本地后台索引与嵌入，供 Claude Code、Cursor、Copilot、Codex、Gemini、Kiro、OpenCode 等 agent 检索决策推理与已被否决的方案。团队共享通过既有 git push/fetch 在孤儿分支上传输，无服务器与账号；嵌入本地运行，转录入库前经密钥脱敏。单二进制约 170MB，内置推理引擎与嵌入模型，离线可用；支持 macOS Apple Silicon 与 Linux x86-64/arm64。
+面向 AI 编码 agent 的本地记忆工具：将 agent 会话与原生记忆笔记修订以 Git 提交形式捕获，本地建立嵌入索引，并通过 Git 分享团队项目上下文；agent 可检索团队与历史上下文并读取原始来源。以单个二进制发布，默认本地嵌入，无需托管记忆账户。支持 macOS ARM64 与 Linux AMD64/ARM64，Apache-2.0 许可，附 arXiv 论文与基准测试文档。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 每次 commit 自动捕获会话并通过 git push/fetch 团队共享
-- 单二进制内置嵌入模型与 DuckDB 类存储，离线本地检索，无外部服务
-- 入库前做密钥脱敏与家目录匿名化
-- 混合检索输出 INJECT/KNOWLEDGE/SILENCE 判定与种子摘要，~7.5K 上下文
+- 以 Git 提交捕获会话与记忆笔记修订，本地索引
+- 默认本地嵌入，单二进制，无需托管账户
+- 通过 Git 与团队共享项目上下文（rekal sync）
+- 兼容 Claude Code、Cursor、Copilot、Codex 等多种 agent
 
 ## 适用场景
 
-- 团队 agent 共享历史决策，避免重新提议已被否决的方案
-- 在提交历史中回溯某次变更背后的推理与备选方案
-- 让不同编码工具读取同一份团队记忆账本
+- 让 agent 跨会话找回之前的任务上下文与原始来源
+- 团队成员间共享 agent 工作记录与项目记忆
+- 整合 Claude Code 等多 agent 的本地会话历史检索
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `语义搜索` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: **Rekal is a command-line tool that captures your AI coding sessions at every git
-> L27: Every AI session settles decisions: why this approach, what got tried and thrown away. Then the session ends and th
+> L25: **Agents own the reasoning. Rekal makes the context durable, retrievable and shared.**
+> L29: Works with **Claude Code, Cursor, Copilot, Codex, Gemini, Kiro and OpenCode**.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f679fd3510b3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `402dfce5c0b9` · [字段定义](../../DATASET.md)*

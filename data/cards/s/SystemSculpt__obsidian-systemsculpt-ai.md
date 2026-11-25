@@ -2,9 +2,9 @@
 
 ⭐ 196 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SystemSculpt/obsidian-systemsculpt-ai) · [官网](https://systemsculpt.com/?utm_source=github&utm_medium=repo&utm_campaign=evergreen&utm_content=obsidian-plugin) · 组织维护
 
-**让 Claude Code/Codex 或托管 AI 处理 Obsidian 笔记的插件**
+**Obsidian 插件：用 Claude Code/Codex 或托管 AI 对话与编辑笔记库**
 
-Obsidian 插件，把用户自己安装的桌面版 Claude Code 或 Codex（以本机子进程方式启动，保留各自登录与权限体系）或 SystemSculpt 托管 AI 接入笔记库：聊天问答、附件、代理式创建/编辑笔记（Auto/Ask/Full access 审批模式）、Studio 工作流、音频与 YouTube 转写、相似笔记语义索引、图像视频生成。托管功能需 SystemSculpt 账户与积分，新账户可领 500 一次性积分，付费 $9/月或 $90/年。6.x 托管后端不再支持自有 API key、自定义端点与本地模型。插件无客户端遥测。
+安装在 Obsidian Community Plugins 的插件，提供与笔记库对话、代理搜索/创建/编辑笔记、音频与 YouTube 转写为 Markdown 笔记、语义相似笔记查找，以及 Studio 工作流。后端两条路径：桌面端调用本机已安装并登录的 Claude Code 或 Codex 子进程（走用户自身账户），或注册 SystemScupt 托管账户使用托管 AI，新账户含 500 一次性试用积分，付费计划 $9/月或 $90/年。托管功能需账户与积分，6.x 不再支持自带 API key、自定义端点与本地模型。
 
 ## 筛选速览
 
@@ -13,33 +13,32 @@ Obsidian 插件，把用户自己安装的桌面版 Claude Code 或 Codex（以�
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 桌面端以子进程接入用户自己的 Claude Code 与 Codex，无需 SystemSculpt 账户
-- Auto/Ask/Full access 审批模式控制笔记修改
-- 音频/YouTube 转写为 Markdown 或 SRT 并生成摘要与行动项
-- Similar Notes 语义索引查找含义相近笔记
+- 桌面端可调用本机 Claude Code/Codex 作为聊天与文本生成后端
+- 音频/YouTube 转写为 Markdown 或 SRT，并生成摘要与行动项
+- 便携语义索引实现相似笔记查找
+- Auto/Ask/Full access 等审批模式控制笔记编辑
 
 ## 适用场景
 
-- 和自己的笔记库对话，让代理搜索、创建和编辑笔记
+- 在 Obsidian 里用对话方式检索、创建和修改笔记
 - 把录音或 YouTube 视频转成带摘要的笔记
-- 在 Obsidian 内用本地 Claude Code/Codex 跑 Studio 工作流
+- 为当前笔记查找语义相近的其他笔记
 
 ## 场景标签
 
-`AI 助手` `知识库管理` `语音识别` `语义搜索` · 领域:对话与助手
+`知识库管理` `语义搜索` `语音识别` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L3: **Put Claude Code, Codex or hosted AI to work on your Obsidian notes.**
 > L5: - **Chat with your vault.** Ask about your notes, attach files and images, and let the agent search, create and edit
-> L29: SystemSculpt 6's managed backend no longer supports your own API keys, custom endpoints, or local models; updating 
+> L12: - **Your own Claude Code or Codex (desktop).** If it is installed and signed in, SystemSculpt can use it for chat. 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `254e09d05d88` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f58b29a8ce93` · [字段定义](../../DATASET.md)*

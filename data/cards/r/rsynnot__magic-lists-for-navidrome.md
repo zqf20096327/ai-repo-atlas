@@ -2,9 +2,9 @@
 
 ⭐ 247 · Python · 推送 2026-11-23 · [GitHub](https://github.com/rsynnot/magic-lists-for-navidrome) · 个人维护
 
-**自建 Navidrome 音乐库的 AI 歌单生成器**
+**为自托管 Navidrome 音乐库生成 AI 策展播放列表的工具**
 
-面向 Navidrome 自托管音乐服务用户的歌单工具：通过 Navidrome API 读取音乐库，生成「This Is Artist」「Genre Mix」「Re-Discover」等歌单类型，支持每日/每周/每月自动刷新与多音乐库。AI 为可选配置：不配置时回退为基于播放次数与元数据排序；配置后可接 Ollama 本地模型或 OpenRouter、Google AI、Groq 云服务。提供 Docker Compose、独立容器与 Python 源码三种运行方式，内置启动时系统检查页。作者声明项目处于早期阶段。
+面向 Navidrome 自托管用户的播放列表生成器：提供 This Is (Artist)、Genre Mix、Re-Discover Weekly 三类播放列表，支持日/周/月自动刷新与多音乐库配置，通过 Navidrome API 读写播放列表。AI 配置为可选项，支持 Ollama 本地模型、OpenRouter、Google AI、Groq 等云端通道；未配置 AI 时回退到基于播放次数与元数据排序的生成方式。安装方式为 Docker Compose、独立 Docker 容器或 Python 直接运行。
 
 ## 筛选速览
 
@@ -16,29 +16,30 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- This Is Artist / Genre Mix / Re-Discover 三类 AI 歌单生成
-- AI 可选：支持 Ollama 本地模型或 OpenRouter / Google AI / Groq，未配置时回退播放次数排序
-- 每日/每周/每月自动刷新与多 Navidrome 音乐库支持
-- Docker Compose / 独立容器 / Python 源码三种安装方式
+- 三类播放列表生成：This Is (Artist)、Genre Mix、Re-Discover Weekly
+- 可选多 AI 通道：Ollama 本地模型、OpenRouter、Google AI、Groq
+- 无 AI 配置时回退到播放次数与元数据排序生成
+- 启动时系统自检页面验证配置与 Navidrome 连接
 
 ## 适用场景
 
-- 给自己的 Navidrome 音乐库生成类似流媒体服务的智能歌单
-- 定期自动刷新歌单让收藏保持更新
-- 用本地 Ollama 模型离线生成歌单，不向云服务传数据
+- 为自托管音乐库生成类似流媒体服务的策展播放列表
+- 用本地 Ollama 模型离线生成播放列表
+- 让长期未播放的曲目定期轮换回推荐列表
 
 ## 场景标签
 
-`推荐系统` · 领域:学习与行业
+ · 领域:音乐/媒体工具
 
 ## 证据(README 行号)
 
-> L8: - 🎵 **This Is (Artist)** — Builds a definitive playlist for any artist in your library, combining hits, deep cuts, a
-> L162: - **AI Provider**: Checks if AI features are configured (OpenRouter, Groq, Google AI, or Ollama)
+> L3: **AI-assisted playlists for your own music library.**
+> L9: - 🎸 **Genre Mix** — Creates curated playlists from your complete genre collections, using AI to craft the perfect mi
+> L228: 1. **Fallback-only** (Free) - Uses play count and metadata sorting
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `263ad0852dea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `102aa98aafe0` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 271 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/qdrant/skills) · [官网](https://skills.qdrant.tech) · 组织维护
 
-**Qdrant 官方维护的向量数据库 agent 技能集：覆盖部署调优决策知识**
+**给编码 agent 用的 Qdrant 向量检索技能集**
 
-Qdrant 公司发布的编码 agent 技能（skills）合集：以解决方案架构师手册的形式组织，回答量化、分片、租户隔离、混合搜索、模型迁移、版本升级等问题的"何时/为何"决策，附 14 个技能条目（SDK、扩展、性能、监控、多云部署、边缘分片等）。推荐安装 Qdrant Advisor 元技能，实时从 skills.qdrant.tech 拉取最新指引；也可通过 npx skills、Claude Code 插件市场、Cursor Marketplace 或克隆仓库离线安装，并可与两个 MCP 服务器配合使用。技能内容仍在活跃开发中，版本间可能变动。
+Qdrant 官方维护的 agent 技能集，将量化、分片、租户隔离、混合检索、模型迁移、版本升级等 Qdrant 工程决策知识编码为技能，供 Claude Code、Cursor 等编码 agent 加载。定位为解决方案架构师手册：只回答“何时、为何”，不含教程。推荐通过 Qdrant Advisor 元技能实时从 skills.qdrant.tech 拉取最新指引；也支持 URL 直传、npx 全量安装或按 agent 目录手动复制。处于活跃开发中，内容与结构可能随版本变化。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ Qdrant 公司发布的编码 agent 技能（skills）合集：以解决方案架
 
 ## 能力要点
 
-- 14 个技能条目覆盖 SDK、扩展、性能、监控、多租户、部署、迁移等
-- Qdrant Advisor 元技能实时在线拉取最新指引，无需重装保持更新
-- 支持 Claude Code、Cursor、OpenCode、OpenAI Codex、Pi 等多种 agent 安装
-- 可与 mcp-code-snippets、mcp-server-qdrant 两个 MCP 服务器搭配
+- 14 个技能覆盖 SDK、扩容、容量规划、性能、检索质量、监控、多租户、部署与迁移
+- Qdrant Advisor 元技能每次会话实时拉取 skills.qdrant.tech 的最新指引
+- 支持 npx skills CLI、Claude Code 插件市场、Cursor 市场及手动复制多种安装方式
+- SDK 覆盖 Python、TypeScript、Rust、Go、.NET、Java
 
 ## 适用场景
 
-- 让编码 agent 在 Qdrant 项目中自行做出分片、量化、扩容等工程决策
-- 离线环境下为 agent 提供 Qdrant 部署与调优知识
-- 排查搜索质量差、延迟高、集群异常等 Qdrant 问题
+- 让编码 agent 在写 Qdrant 相关代码时获得扩容、量化等工程决策指引
+- 无需安装时直接在提示词中传 URL 让 agent 拉取对应技能
+- 离线环境下把完整技能集安装到本地 agent 目录
+- 切换 embedding 模型或升级 Qdrant 版本时咨询安全路径
 
 ## 场景标签
 
-`向量数据库` · 领域:知识与检索
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: Skills encode deep Qdrant knowledge so coding agents can make the engineering decisions that determine whether vecto
-> L74: |Skill|Useful for|
+> L14: They are structured as the handbook of a Solutions Architect working on Qdrant:
+> L76: |qdrant-clients-sdk|SDK setup, code examples, snippet search across Python, TypeScript, Rust, Go, .NET, Java|
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `51a192690d57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c9dc92aa35d3` · [字段定义](../../DATASET.md)*

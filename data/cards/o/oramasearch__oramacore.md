@@ -2,9 +2,9 @@
 
 ⭐ 267 · Rust · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/oramasearch/oramacore) · [官网](https://docs.orama.com/docs/cloud) · 组织维护
 
-**带全文检索、向量库与 LLM 接口的 AI 搜索运行时**
+**自建答案引擎与搜索的 AI 运行时：全文检索+向量库+LLM 接口**
 
-OramaCore 是面向项目、回答引擎、copilot 与搜索场景的 AI 运行时，内置全文搜索引擎、向量数据库、带 action planning 与 reasoning 的 LLM 接口，以及用于编写自定义 agent 的 JavaScript 运行时。通过 Docker Compose 部署，自动生成嵌入并存入内置向量库，支持向量/混合/全文检索及自有数据上的 Answer Sessions。官方推荐 NVIDIA GPU（生产环境最低 A100，最优四张 H100）。以 AGPLv3 许可发布。
+一个面向项目、答案引擎、copilot 与搜索场景的运行时服务，包含全文搜索引擎、向量数据库、带动作规划与推理的 LLM 接口，以及可编写自定义 agent 的 JavaScript 运行时。通过 docker-compose 部署，文档写入后自动生成嵌入并存入内置向量库，支持向量、混合、全文三种检索方式及 Answer Session 问答。提供 JavaScript SDK、健康检查端点，支持多语言分词（含中日韩）。License 为 AGPLv3。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@ OramaCore 是面向项目、回答引擎、copilot 与搜索场景的 AI 运行�
 
 ## 能力要点
 
-- 内置全文搜索引擎与向量数据库，自动生成嵌入
-- LLM 接口支持 action planning 与 reasoning
-- JavaScript 运行时编写运行自定义数据 agent
-- 支持向量、混合、全文检索及 Answer Sessions
+- 全文搜索引擎、向量数据库与 LLM 接口一体化运行时
+- 自动生成嵌入并存入内置向量数据库
+- 支持向量、混合、全文检索及 Answer Session
+- 提供多架构 Docker 镜像与健康检查端点
 
 ## 适用场景
 
-- 在自有数据上构建低配置的 RAG 与回答引擎
-- 搭建类似 Perplexity/SearchGPT 的私有数据问答
-- 用统一运行时同时获得向量与全文检索能力
+- 用自己的数据搭建类似答案引擎的问答服务
+- 为应用提供混合全文与向量检索能力
+- 在自有数据上编写运行自定义 agent
 
 ## 场景标签
 
-`RAG` `向量数据库` `语义搜索` · 领域:知识与检索
+`向量数据库` `RAG` `语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: **OramaCore** is the AI runtime you need for your projects, answer engines,
-> L6: It includes a fully-fledged full-text search engine, vector database, LLM
 > L7: interface with action planning and reasoning, a JavaScript runtime to write and
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `986ae87a081b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `46b12a3d7558` · [字段定义](../../DATASET.md)*

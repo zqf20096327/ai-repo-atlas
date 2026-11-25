@@ -1,10 +1,10 @@
 # yile2020/fastapi-react-admin
 
-⭐ 257 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yile2020/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 个人维护 · 中文 README
+⭐ 257 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yile2020/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 组织维护 · 中文 README
 
-**FastAPI+React 19 管理后台基座：RBAC/审批流/权限受限 AI 助手**
+**FastAPI+React 19 管理后台基座：内置权限、审批与受控 AI 助手**
 
-将登录、权限、组织架构、审批、文件、通知等系统开发重复部分固化为可复用基座。单仓 monorepo 包含 FastAPI+Celery 后端、React 19 Web 管理台、Electron 桌面模板与 Expo 移动模板。关键机制：模型列上的行级数据权限、React 19 `<Activity>` 保状态多标签、审批流设计器、权限绑定的 AI 助手（写入预览确认+审计+MCP 网关）、AK/SK 开放 API。需 Node ≥22.13、Python ≥3.11、uv 与 Docker，切换 SQL Server/MySQL 等见 CONTRIBUTING.md。
+以 monorepo 形式提供的管理后台基座，包含 FastAPI+Celery 后端、React 19 管理台、Electron 桌面模板与 Expo 移动模板。功能覆盖 RBAC 与行级数据权限、多标签页状态保持、类飞书审批流设计器、权限约束的 AI 助手（pydantic-ai，写入需确认并审计，工具经 MCP 网关暴露）、AK/SK 开放 API、S3 断点续传。依赖 Node ≥22.13、Python ≥3.11、uv 与 Docker，支持 PostgreSQL/SQL Server/MySQL 三种数据库切换。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 行级数据权限：同表按部门数据范围控制可见行
-- 权限受限 AI 助手：工具调用绑定用户权限与数据范围，写操作预览确认后执行并审计
-- 支持 PostgreSQL/SQL Server/MySQL 三库同代码切换
-- 1600+ 真实数据库与真实浏览器测试，CI 全量运行并公开 E2E 报告
+- 行级数据权限：同一张表按部门限定可见行
+- AI 助手权限与数据范围绑定登录用户，写操作先预览确认并留审计日志
+- 基于 React 19 <Activity> 的多标签页，切换不丢状态
+- 1,600+ 测试对真实数据库与浏览器运行，无 mock
 
 ## 适用场景
 
-- 为新业务系统搭建带权限与审批的管理后台底座
-- 重写多年运行的旧 Java+Vue 系统时复用基座
-- 需要桌面端（静默打印/本地硬件/自动更新）的管理系统
-- 需要通过开放 API 与 webhook 对外同步数据的企业系统
+- 新业务系统直接在权限、审批、文件等基座上写业务逻辑
+- 替换长期运行的 Java+Vue 老旧管理后台
+- 需要桌面端（静默打印/自动更新）与移动端审批的管理系统
 
 ## 场景标签
 
@@ -39,8 +38,8 @@
 ## 证据(README 行号)
 
 > L7: **A batteries-included admin foundation · FastAPI + React 19 + shadcn/ui**
-> L9: Row-level permissions · multi-tab that keeps state · approval workflow · an AI assistant that can't overreach · S3 s
-> L69: - **An AI assistant that can't overreach** — it can do exactly what the signed-in user can do; write actions are pr
+> L62: - **A backend inside the AI ecosystem** — Python + FastAPI, with the built-in AI assistant on pydantic-ai
+> L98: |**AI assistant**|full-page chat + side drawer · tool calls bound by permissions and data scopes · preview + confir
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 mid · 依据 README sha `dc5eb54c04c2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `8576dd8fb814` · [字段定义](../../DATASET.md)*

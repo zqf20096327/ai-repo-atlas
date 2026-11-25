@@ -2,9 +2,9 @@
 
 ⭐ 240 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DecapodLabs/decapod) · [官网](http://decapodlabs.ai) · 组织维护
 
-**治理 AI 编码 agent 工作的 Rust CLI 内核**
+**为编码 agent 提供仓库级治理内核与验证证据追踪**
 
-面向使用 Cursor、Claude Code、Codex 等编码 agent 的开发者：Decapod 作为仓库内治理层，把需求转化为带范围的计划，管理并行任务认领与隔离工作区，记录计划、决策与工作历史到 .decapod/ 目录，使不同 agent 可跨工具接续同一 PR。内置验证流水线默认本地运行，可配置远程 Buildkite preflight。每次调用即起即退，无后台服务；无法治理其工作流之外 agent 执行的命令。通过 cargo binstall 安装，MIT 许可。
+Decapod 是一个 Rust CLI 治理内核，为编码 agent 提供持久化状态、强制边界和提交绑定的验证证据。它将需求、决策、任务所有权和验证证据随仓库保存，跨 agent 与会话延续；agent 通过记录意图、认领任务、在隔离工作区执行、运行验证、输出可检验的 proof artifact。支持本地与云端后端，包含嵌入式工程 Constitution 参考层。安装通过 cargo binstall，每仓库执行一次 init。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 计划/决策/工作历史存于仓库，跨 agent 与跨工具续接同一 PR
-- 任务认领、重叠检查与隔离工作区支持 agent 并行
-- 内置验证流水线将结果与当前变更及必需检查绑定
-- 即起即退的 Rust CLI，无后台服务
+- 持久化治理状态存于仓库 .decapod/ 目录，跨 agent 与会话延续
+- 多 agent 并发认领任务与隔离工作区，冲突显式可见
+- 验证证据绑定变更，失败检查保持未完成状态可追溯
+- 本地优先、无守护进程，默认本地验证，可选 Buildkite 远程预检
 
 ## 适用场景
 
-- 在 Cursor 或 Claude Code 中开发时让计划与需求保持绑定
-- 多个编码 agent 并行处理不同任务并避免冲突
-- 中途更换 agent 工具后继续未完成的 PR
-- 在 PR 合并前确认所需验证已完成
+- 多个编码 agent 并行开发时明确任务所有权与边界
+- 跨会话/交接时保留未满足需求与验证状态
+- 要求变更完成须有可检验证据的团队协作流程
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L6:  Work in Cursor, Claude Code, Codex, Antigravity, Grok, or your preferred coding agent.
-> L43: Decapod is a Rust CLI that agents use throughout development. It reads the
+> L5:  Metacognition for AI agents.
+> L92: Decapod is a **Rust CLI**. Each invocation runs, returns its result, and exits. It is local-first and daemonless.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ef23478d49ff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6623debdc9c9` · [字段定义](../../DATASET.md)*

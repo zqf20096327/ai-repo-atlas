@@ -2,9 +2,9 @@
 
 ⭐ 203 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/epam/ai-dial-sdk) · [官网](https://dialx.ai) · 组织维护
 
-**AI DIAL 的 Python SDK：构建应用与模型适配器**
+**为 AI DIAL 平台构建应用与模型适配器的 Python SDK**
 
-EPAM AI DIAL 平台的 Python 框架，用于创建应用与模型适配器，产物兼容基于 Azure OpenAI API 设计的 AI DIAL API。以 Python 库（aidial-sdk）通过 pip 安装，每个 deployment 同时暴露 DIAL 路径与 Azure OpenAI v1 路径，提供 chat/completions、embeddings、rate、tokenize 等端点，支持流式 SSE 心跳、请求头代理与 Pydantic V1/V2 双版本切换等环境变量配置。开发环境要求 Python ≥3.11 与 Poetry ≥2.1.1，提供 make 脚本完成初始化、lint、测试与发布。
+EPAM 维护的 Python 框架，用于开发 AI DIAL 平台的应用与模型适配器；基于该框架实现的部署兼容 AI DIAL API（设计基于 Azure OpenAI API）。暴露 chat/completions、rate、tokenize、truncate_prompt、configuration、embeddings 等端点，支持流式响应心跳、请求头代理等环境变量配置，并提供将 Anthropic Messages 请求翻译为 Chat Completions 的转换器（需 translators 扩展与 Pydantic V2）。开发侧要求 Python ≥3.11 与 Poetry ≥2.1.1，通过 Makefile 完成初始化、lint、测试、构建与发布。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ EPAM AI DIAL 平台的 Python 框架，用于创建应用与模型适配器，�
 
 ## 能力要点
 
-- 创建兼容 AI DIAL API（基于 Azure OpenAI API 设计）的应用与模型适配器
-- 每个 deployment 同时暴露 /openai/deployments 与 /openai/v1 两种基路径
-- 提供 chat/completions、embeddings、tokenize、truncate_prompt 等端点
-- 环境变量支持 SSE 心跳插入、请求头代理与 Pydantic V1/V2 切换
+- 构建兼容 AI DIAL API 的应用与模型适配器
+- 支持 chat/completions、embeddings、tokenize 等多端点
+- 提供 Anthropic Messages 到 Chat Completions 的转换器
+- 支持流式响应心跳与请求头代理配置
 
 ## 适用场景
 
 - 为 AI DIAL 平台开发自定义 LLM 应用
-- 将自有模型封装为 AI DIAL 兼容的模型适配器
-- 构建兼容 Azure OpenAI v1 API 路径的服务
+- 将只支持 Chat Completions 的模型接入 Anthropic 原生客户端
+- 为平台接入自定义模型编写适配器
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bd1da4bc4cf3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9c3fa9797cfe` · [字段定义](../../DATASET.md)*

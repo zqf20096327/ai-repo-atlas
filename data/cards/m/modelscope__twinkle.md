@@ -2,9 +2,9 @@
 
 ⭐ 270 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/twinkle) · 组织维护 · 中文 README
 
-**面向开发者的轻量级 Client-Server 大模型训练框架**
+**轻量级客户端-服务器大模型训练框架，支持本地与 Ray 集群**
 
-Twinkle 是 ModelScope 开源社区维护的训练框架：将训练逻辑封装为标准化 API，本地可用 torchrun、也可在 Ray 集群或 HTTP 模式运行，后端支持 Transformers 与 Megatron，覆盖 FSDP/LoRA/DPO/GRPO/PPO/蒸馏等训练类型。接口为 Tinker API 的超集，可通过 Tinker 客户端或原生客户端访问，支持在共享基座部署上多租户并行训练多个 LoRA，并提供基于 ModelScope 的 serverless 训练服务端点。支持 Nvidia GPU、Ascend NPU、PPU 与部分 CPU 组件。
+由 ModelScope 社区维护的轻量训练框架，将训练逻辑封装为标准化 API，支持 torchrun、Ray、HTTP 三种运行模式和 Transformers/Megatron 双后端。采用客户端-服务器解耦架构，接口向后兼容 Tinker API，可通过 Tinker 客户端或原生客户端访问训练服务，并定位为 TaaS（Training-as-a-Service）后端。支持 LoRA、SFT、DPO、GRPO/PPO RL、GKD 蒸馏等训练类型，多租户共享同一基座模型部署。提供 pip、源码、docker 及一键客户端安装脚本；服务器端支持多租户自动集群管理与动态扩缩。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ Twinkle 是 ModelScope 开源社区维护的训练框架：将训练逻辑封装
 
 ## 能力要点
 
-- torchrun / Ray / HTTP 三种运行模式，Transformers 与 Megatron 双后端
-- 接口为 Tinker API 超集，兼容 Tinker 客户端访问
-- LoRA Pool 架构支持多租户在单一基座部署上并行训练
-- 提供 FSDP/DPO/GRPO/PPO/GKD 蒸馏等 18 类训练教程脚本
+- torchrun / Ray / HTTP 多运行模式，Transformers / Megatron 双后端
+- 兼容 Tinker API，支持通过 Tinker 客户端或原生客户端接入
+- 多租户训练：多个 LoRA 共享一个基座模型部署，租户间隔离
+- 支持 Qwen、DeepSeek、GLM、Gemma、InternLM 等模型系列
 
 ## 适用场景
 
-- 本地或集群上对 Qwen、DeepSeek 等模型做 SFT/LoRA/RL 训练
-- 通过 API 端点使用 ModelScope 上的 serverless 训练服务
-- 在同一基座部署上为多租户并行训练隔离的 LoRA
+- 用 Ray 集群对 Qwen/DeepSeek 等模型做 SFT、LoRA 或 DPO 微调
+- 搭建训练即服务（TaaS）后端，多租户并行训练
+- 通过 Tinker 客户端调用服务器less 训练服务
 
 ## 场景标签
 
-`微调` `模型训练` `强化学习` · 领域:训练与推理
+`微调` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ba0b3845510d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e093eaca1941` · [字段定义](../../DATASET.md)*

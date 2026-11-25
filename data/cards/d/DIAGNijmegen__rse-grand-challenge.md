@@ -2,9 +2,9 @@
 
 ⭐ 195 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DIAGNijmegen/rse-grand-challenge) · [官网](https://grand-challenge.org) · 组织维护
 
-**生物医学影像机器学习全流程开发平台**
+**生物医学影像机器学习方案协作开发平台**
 
-基于 Django/Django REST Framework 的生物医学影像机器学习平台，面向研究人员、数据科学家和临床医生，提供四类功能：影像数据档案管理、供专家标注数据的阅读研究、征集并评估机器学习方案的挑战赛，以及部署算法进行临床验证。用于协作开发稳健的机器学习解决方案，涉及数据标注、方案对比与真实数据验证等环节。部署方式详见其文档。
+grand-challenge.org 是一个面向生物医学影像机器学习方案的端到端开发平台，以 Django 网站框架形式提供。平台提供四类核心机制：Archives 管理医学影像数据，Reader Studies 支持专家对影像进行标注训练，Challenges 汇集与评估机器学习方案，Algorithms 将方案部署用于临床验证。面向研究人员、数据科学家与临床医生协作使用，强调标注数据获取、方案公平比较与真实世界数据验证。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- Archives：管理医学影像数据
-- Reader Studies：供专家训练与标注影像数据
-- Challenges：征集并评估机器学习解决方案
-- Algorithms：部署算法用于临床验证
+- Archives 管理医学影像数据
+- Reader Studies 支持专家标注影像数据
+- Challenges 汇集与评估机器学习方案
+- Algorithms 部署方案用于临床验证
 
 ## 适用场景
 
-- 组织医学影像机器学习挑战赛并做公平比较
-- 管理标注医学影像数据集
-- 部署算法进行真实世界临床数据验证
+- 组织医学影像标注与专家培训
+- 举办机器学习算法挑战赛并评估方案
+- 将医学影像算法部署到真实世界数据上做临床验证
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `科研工具` `MLOps` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L8: In the era of Deep Learning, developing robust machine learning solutions to problems in biomedical imaging requires
-> L10: * Archives: Manage medical imaging data.
-> L13: * Algorithms: Deploy machine learning solutions for clinical validation.
+> L10: - Archives: Manage medical imaging data.
+> L12: - Challenges: Gather and assess machine learning solutions.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `00a60a1abd19` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `15d61b6471b2` · [字段定义](../../DATASET.md)*

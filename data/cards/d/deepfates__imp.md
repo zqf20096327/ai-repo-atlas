@@ -2,9 +2,9 @@
 
 ⭐ 261 · Elixir · MIT · 推送 2026-11-01 · [GitHub](https://github.com/deepfates/imp) · [官网](https://hex.pm/packages/imp) · 个人维护
 
-**Elixir 版 DSPy：声明式可自优化的 LLM 程序框架**
+**Elixir 版 DSPy 移植：声明式可优化的 LLM 程序框架**
 
-DSPy 在 BEAM 上的移植：以签名声明模型调用的输入输出，提供 chain_of_thought、ReAct、agent 循环与检索等模块，以及 GEPA、MIPROv2、SIMBA、BootstrapFewShot 等优化器，用标注数据与度量自动改写指令和示例。agent 以 OTP 进程运行，可监督、可授权工具调用、可设截止时间；另支持 MCP 工具导入与 ACP 客户端对外提供 agent。模型接入经由 ReqLLM。需 Elixir 1.19+ 与 C/C++ 编译器，0.14 阶段自述 API 可能变动。
+Imp 将 DSPy 完整移植到 BEAM，供 Elixir 开发者构建语言模型程序。核心机制：用签名声明每个 LLM 步骤的输入输出，框架据此生成提示词并校验类型化返回；提供 chain_of_thought、react、agent 循环与检索；GEPA、MIPROv2、SIMBA、GRPO 等优化器基于标注样本对程序评分并重写指令，结果可存为 JSON 与 diff。运行层面复用 OTP：agent 是受监督的进程，可观察、停止并限制工具调用，支持 MCP 工具导入与 ACP 对接 Zed。需 Elixir 1.19+ 与 C/C++ 编译器，0.14 版为实验性、API 可能变动。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ DSPy 在 BEAM 上的移植：以签名声明模型调用的输入输出，提供
 
 ## 能力要点
 
-- 签名声明式模型调用，自动构建 prompt 并按类型校验返回
-- 多种优化器（GEPA/MIPROv2/SIMBA/BootstrapFewShot 等）自动改进程序
-- agent 以 OTP 受监督进程运行，支持工具调用授权与事件流观察
-- MCP 工具导入与 ACP 协议对外服务
+- 签名式声明 LLM 调用，自动生成提示词并做类型校验
+- GEPA/MIPROv2/SIMBA/GRPO 等优化器基于样本评分与改写程序
+- agent 以 OTP 监督进程运行，支持工具调用授权与截止时间
+- MCP 工具导入与 ACP 服务（对接 Zed 等 ACP 客户端）
 
 ## 适用场景
 
-- 在 Elixir 应用中构建可测量、可优化的 LLM 程序
-- 用标注数据自动改写 agent 指令与示例以提升表现
-- 运行长时 agent 并对其工具调用做授权与监督
+- 在 Elixir/OTP 应用中以类型化方式接入 LLM 调用
+- 用标注样本优化既有 LLM 程序的指令与示例
+- 将 LLM agent 作为受监督进程纳入 OTP 应用生命周期
+- 把 agent 程序通过 ACP 提供给 Zed 等编辑器客户端
 
 ## 场景标签
 
-`Agent 框架` `提示工程` · 领域:Agent 开发
+`提示工程` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L8: Imp is a full port of DSPy to the BEAM. You describe what
 > L11: signatures, modules, optimizers, agent loops and retrieval, running with the
-> L75: `Imp.call/2` runs a program in your process. `Imp.start_run/3` runs it as its
+> L121: Imp needs Elixir 1.19 or later and a C and C++ compiler, for the native code
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `fbf5954ae2fa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `97920424479d` · [字段定义](../../DATASET.md)*

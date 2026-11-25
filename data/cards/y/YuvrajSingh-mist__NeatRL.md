@@ -2,9 +2,9 @@
 
 ⭐ 241 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/YuvrajSingh-mist/NeatRL) · [官网](https://www.neatrl.com) · 个人维护
 
-**单文件 PyTorch 深度强化学习算法库，供研究与实验**
+**面向研究者/学习者的单文件 PyTorch 强化学习算法库**
 
-NeatRL 提供 DQN、Dueling DQN、REINFORCE、DDPG、A2C、TD3、SAC、PPO、PPO-RND 等算法的可读性实现，每个算法自包含于单个文件。基于 PyTorch 构建，兼容 Gymnasium 环境，支持 Atari 自动 CNN 架构、向量化并行环境、自动视频录制及 Weights & Biases 实验跟踪。提供 pip 安装、CLI 预置训练命令与可选环境 extras（Atari/Box2D/Classic/MuJoCo），面向强化学习研究与实验用途。
+以 PyTorch 实现的强化学习算法库，每个算法（DQN、PPO、SAC、TD3、DDPG、A2C、REINFORCE、RND、Q-learning 等 21 个 CLI 别名）集中在单个自包含文件中，可通过 Python API 训练或经 neatrl CLI 命令行训练。兼容 Gymnasium 环境，支持 Atari（自动 CNN 架构）、Box2D、MuJoCo、Classic Control，内置 Weights & Biases 实验跟踪、向量化并行环境与视频录制；-cnn 别名需安装对应环境 extra。Apache 2.0（代码）+ CC BY 4.0（文档/数据）双许可声明的是不同内容类别而非商业版。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ NeatRL 提供 DQN、Dueling DQN、REINFORCE、DDPG、A2C、TD3、SAC、PPO、PPO
 
 ## 能力要点
 
-- 每个算法完整实现于一个自包含文件
-- 9 种算法：DQN/Dueling DQN/REINFORCE/DDPG/A2C/TD3/SAC/PPO/PPO-RND
-- Gymnasium 兼容、Atari 自动 CNN、向量化并行环境
-- 内置 Weights & Biases 跟踪、视频录制与 CLI 预置训练命令
+- 每个算法单文件自包含实现，提供 21 个 CLI 训练别名
+- 兼容 Gymnasium，支持 Atari/Box2D/MuJoCo/Classic Control
+- 内置 Weights & Biases 实验跟踪与视频录制
+- 向量化环境并行训练，本地运行、默认不上传
 
 ## 适用场景
 
-- 研究者在干净的单文件实现上做 RL 算法实验
-- 学习 DQN/PPO/SAC 等经典深度 RL 算法的实现细节
-- 用 CLI 一条命令跑 CartPole、LunarLander 等预置训练示例
+- 学习与复现经典深度 RL 算法实现
+- 在 CartPole/LunarLander/Atari 等环境上做 RL 实验
+- 命令行快速训练并跟踪实验指标
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ NeatRL 提供 DQN、Dueling DQN、REINFORCE、DDPG、A2C、TD3、SAC、PPO、PPO
 ## 证据(README 行号)
 
 > L7: NeatRL provides readable implementations of popular RL algorithms with a focus on simplicity and ease of use. Built 
-> L103: - **DQN** (Deep Q-Network) - Classic value-based RL algorithm
+> L11: - **Single-file implementations**: Each algorithm lives entirely in one self-contained file -- no hunting across mo
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3b96e573c03a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8f4b3f35994f` · [字段定义](../../DATASET.md)*

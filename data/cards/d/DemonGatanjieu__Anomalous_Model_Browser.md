@@ -2,15 +2,15 @@
 
 ⭐ 228 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DemonGatanjieu/Anomalous_Model_Browser) · 个人维护 · 中文 README
 
-**ComfyUI 插件：模型浏览、图库回溯、工作流与提示词管理**
+**ComfyUI 本地资产伴侣：模型管理、修缺与 MCP AI 工作台**
 
-运行在 ComfyUI 内的模型浏览器与创作工作台：按文件哈希从 Civitai 获取模型真名、封面、触发词与底模；Model Check 检查打开的工作流缺失哪些模型，按指纹找回或从 Civitai/Hugging Face 下载；图库可按提示词/模型/LoRA 搜索并拖回图片恢复工作流；支持工作流配方、模型搭配、提示词词块编辑（中文自动译英文）、操作记录与撤销。配合 Anomalous_TTS 节点包可为 GPT-SoVITS 角色配音。插件自身不加载模型，通过 ComfyUI Manager 安装或克隆到 custom_nodes。
+以 ComfyUI 扩展形式安装（零自定义节点）的本地伴侣工具：按 SHA-256 哈希在 Civitai 匹配模型、识别 .safetensors/.gguf 头部判断模型类型与基础模型、拖拽归类模型文件、一键修复丢失/改名/移动的模型节点，并支持图库检索、画布存档、批量任务与提示词标签编辑。可选的 MCP AI 工作台允许 Claude、Cursor 等 MCP 应用在副本画布上操作工作流，每步可追溯、可撤销，并提供隐私模式将提示词与图像保留在本地。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 按文件哈希从 Civitai 匹配模型信息（名称/封面/触发词/底模）
-- Model Check 按指纹一键找回工作流缺失模型
-- 图库按提示词/模型/LoRA 搜索，拖图恢复工作流
-- 搭配卡片、提示词词块编辑、操作记录与撤销
+- 按 SHA-256 指纹在 Civitai 匹配模型并哈希校验下载，一键修复缺失模型
+- 读取 .safetensors/.gguf 文件头离线识别 25+ 架构，不执行 pickle 代码
+- MCP AI 工作台在副本画布运行、全操作日志与一键撤销，支持隐私模式
+- 零自定义节点、插件自身不加载模型、零显存占用
 
 ## 适用场景
 
-- 管理越来越多的 Checkpoint 和 LoRA，看封面挑模型
-- 打开别人的工作流缺模型时找回或下载
-- 把调好的模型搭配和提示词存成卡片反复使用
-- 回溯某张出图当时用的工作流
+- 把下载目录里命名混乱的模型自动归入 ComfyUI 正确文件夹
+- 打开他人分享的工作流时按指纹找回或重装缺失模型
+- 按提示词/模型哈希检索历史出图并还原工作流
+- 让 Claude/Cursor 等 MCP 应用在副本上代为调整 ComfyUI 工作流
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+ · 领域:AI 绘图工具链/资产管管
 
 ## 证据(README 行号)
 
-> L3: **A model browser and creative workspace for ComfyUI**
-> L19: > **Anomalous Model Browser** takes care of the chores around ComfyUI in one window: browse your models with their 
-> L59: 1. In **ComfyUI Manager**, search `Anomalous Model Browser`, install it and restart ComfyUI. Or clone it into `cust
+> L4: *A 100% local companion for ComfyUI's everyday chores — zero custom nodes, zero VRAM.*
+> L26: - **Zero custom nodes.** The canvas and nodes stay 100% standard ComfyUI (or node packs you already installed), so 
+> L57: Want a cloud LLM (Claude, Cursor, Antigravity, or other MCP apps) to help wire, organize, and explore ComfyUI route
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `8ae5bb05f541` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `edc990ca2e9b` · [字段定义](../../DATASET.md)*

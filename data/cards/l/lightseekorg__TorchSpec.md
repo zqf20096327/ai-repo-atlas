@@ -2,9 +2,9 @@
 
 ⭐ 268 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lightseekorg/TorchSpec) · [官网](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) · 组织维护
 
-**PyTorch 原生的投机解码草稿模型训练框架**
+**面向 LLM 团队的推测解码草稿模型分布式训练框架**
 
-面向 LLM 推理加速场景的 torch 原生训练框架：采用推理与训练分离的架构，推理引擎（vLLM/TensorRT-LLM/SGLang/HF Transformers 等）产出目标模型隐状态，经 Mooncake store 直接流式传输给分布式训练 worker（FSDP），用于训练 EAGLE3、DFlash、DSpark 等投机解码草稿模型。支持离线回放训练、断点恢复/续训、HF checkpoint 转换与词表剪枝。限制：TensorRT-LLM 后端目前仅支持单节点张量并行；TokenSpeed 后端需 Python 3.12。已被 vLLM 生态与多家生产推理平台采用。
+TorchSpec 是一个 torch 原生的推测解码草稿模型训练框架，采用推理与训练完全解耦的分离式架构：推理引擎组生成目标模型隐藏状态，经 Mooncake store 直接流式传输给分布式训练 worker，两侧可独立扩展。支持 EAGLE3、DFlash、DSpark 等草稿模型训练，提供多后端推理支持、离线回放训练、断点恢复、检查点格式转换与词表剪枝。安装需 Rust 工具链（源码构建）或使用预构建 wheel/Docker 镜像。被 vLLM、DigitalOcean、CoreWeave 等生产平台采用。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 推理与训练解耦，隐状态经 Mooncake store 流式传输免落盘
-- 支持 vLLM/TensorRT-LLM（一级）、SGLang/HF Transformers（社区）多种推理后端
-- 支持 EAGLE3/DFlash/DSpark 草稿模型训练、FSDP 转 HF、词表剪枝
-- 提供断点恢复、续训与 HF checkpoint 热启动转换工具
+- 推理与训练解耦：隐藏状态经 Mooncake store 流式传输，两侧独立扩展
+- 多推理后端：vLLM/TensorRT-LLM 一等支持，SGLang/Transformers 社区支持
+- EAGLE3/DFlash/DSpark 多种草稿模型训练模式与词表剪枝
+- FSDP 检查点转 HuggingFace 格式及 HF checkpoint 热启动工具
 
 ## 适用场景
 
-- 为线上大模型训练投机解码草稿模型以加速推理
-- 在多节点 GPU 集群上分离扩展推理与训练两侧
-- 从 Hugging Face checkpoint 转换并热启动草稿模型训练
+- 为大模型训练 EAGLE3 推测解码草稿模型以提升推理吞吐
+- 在单节点 4 卡环境快速试验草稿模型训练流程
+- 将 FSDP 训练检查点转换为 HuggingFace 格式部署
+- 从已有 DFlash 模型热启动 DSpark 训练
 
 ## 场景标签
 
-`微调` · 领域:训练与推理
+`模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L3: TorchSpec is a torch-native speculative decoding training framework. We introduce a disaggregated way of training sp
-> L49: - **Inference engines** generate target-model hidden states with inference engines.
-> L61: |vLLM|First-class|Available|
+> L48: TorchSpec is built around a disaggregated training pipeline:
+> L62: |vLLM|First-class|Available|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `4f88b907fd0a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1b6823020dbe` · [字段定义](../../DATASET.md)*

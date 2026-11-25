@@ -2,9 +2,9 @@
 
 ⭐ 223 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LeoAlecksey/opsdeck) · [官网](https://leoalecksey.github.io/opsdeck/) · 个人维护
 
-**DevOps 工程师一体化桌面驾驶舱：终端+AI+K8s+数据库+IDE**
+**单窗口 DevOps 工作台：终端+本地 AI+K8s+SSH+数据库+IDE**
 
-用 Rust + Tauri 2 构建的原生跨平台桌面应用（Linux/Windows/macOS），把 DevOps 日常工作聚合到一个窗口：Warp 风格终端（含命令块、错误时一键问 AI）、类 Lens 的 Kubernetes 视图（watch、日志、Helm/ArgoCD、只读模式）、PostgreSQL/MySQL/ClickHouse 等数据库客户端、带 git 的轻量 IDE、Grafana/ArgoCD/GitLab 内嵌标签页与告警收件箱、KeePass/Passbolt/SSH/MikroTik、Markdown 笔记与任务。AI 能力包括侧栏接入 Claude Code 等 CLI、可选 llama.cpp 本地模型（默认 Qwen2.5-Coder 1.5B，约 1.1GB 磁盘、1.5GB 内存）与内置知识库；本地 AI 为可选组件，不装不影响其他功能。
+基于 Rust + Tauri 2 的桌面应用，把 DevOps 工程师的日常工具集成到一个窗口：Warp 风格终端、Kubernetes 管理、SSH 主机、数据库客户端、带 git 的编辑器、Grafana/ArgoCD/GitLab 标签页、告警、笔记任务、KeePass/Passbolt 密码访问。AI 部分：内置 llama.cpp 本地模型（默认 Qwen2.5-Coder 1.5B，离线可用）、右侧 AI 面板运行 Claude Code/Codex 等 CLI 工具，以及带主机访问级别与命令黑名单的受限 AI agent。提供 Linux/Windows/macOS 安装包。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 命令块终端：每条命令带退出码，出错可一键发送 AI 分析
-- Kubernetes watch 表格、日志、Helm/ArgoCD 管理，生产上下文可后端强制只读
-- AI 侧栏运行 Claude Code/Codex/Gemini/Aider/OpenCode，Claude Code 可经 MCP WebSocket 作为 IDE 接入
-- 可选 llama.cpp 本地模型离线生成命令，内置 23 主题 250+ 命令知识库注入提示
+- 内置 llama.cpp 本地 AI，离线运行，Settings 内选择模型并按内存/GPU 提示可运行性
+- AI agent 逐主机访问级别控制（只读/变更需确认）并禁止解释器与不可逆命令
+- Kubernetes 管理：问题检测表、聚合 pod 日志、生产上下文只读模式
+- SSH 主机监控、双窗格文件传输、Yandex Cloud 与 MikroTik 集成
 
 ## 适用场景
 
-- 在一个窗口里完成终端、K8s 运维、数据库查询和 git 操作
-- 命令出错时直接让 AI 侧栏解释并给出修复命令
-- 离线环境下用本地小模型把自然语言转成终端命令
-- 统一接收 Grafana/Alertmanager 告警并做 AI 分析
+- 在一个窗口完成终端、SSH、K8s、数据库的日常运维操作
+- 离线环境下用本地模型把自然语言转成命令
+- 让 AI agent 在受限权限下排查服务器问题
+- 生产环境用只读模式查看集群与数据库
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L7: **Единая рабочая панель DevOps-инженера**: терминал с AI рядом и локальной моделью, Kubernetes, базы данных, встроен
-> L11: > *English:* runs on Linux (glibc 2.35+, e.g. Ubuntu 22.04+, Debian 12+, Fedora 36+), Windows 10/11 and macOS 10.13
-> L26: - **Локальный ИИ** `Ctrl+Shift+K`: опишите словами, что сделать, — получите команду с учётом ваших заметок и истори
+> L10: **A DevOps engineer's workspace in one window**: a terminal with an AI panel and a local model, an AI agent that in
+> L34: - Runs on llama.cpp, installed from Settings if you want it, works offline: the light Qwen2.5-Coder 1.5B (≈1.1 GB) 
+> L41: - **Access level per host**: stay away / read only / change with permission / change freely. On a read-only host a 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `e4c94f945067` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `9e0215fbd14a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 205 · Java · MIT · 推送 2026-10-25 · [GitHub](https://github.com/SpringSunYY/LZ-litchi) · [官网](https://www.litchi.work) · 个人维护 · 中文 README
 
-**基于芋道二次开发的企业级低代码平台，含 AI 模块与以图搜图**
+**基于 JDK21+SpringBoot3+Vue3 的企业级快速开发平台**
 
-基于 JDK 21、Spring Boot 3.4.5、Vue 3 与 VbenAdmin 的前后端分离企业级开发平台，基于芋道框架二次开发。内置 RBAC 权限、SaaS 多租户、Flowable 工作流（SIMPLE 仿钉钉/BPMN 设计器）、代码生成、在线国际化、系统监控等，业务模块含 ERP、CRM 与 AI 大模型模块；以图搜图集成 dino/siglip/clip 模型与 Milvus 向量库（可删除）。国际化数据由 AI 生成 Key/翻译脚本维护。采用 MIT 协议，需 JDK21、MySQL、Redis 环境从源码启动，另提供前端独立仓库与演示地址。
+以芋道为基座二次开发的前后端分离开发平台，后端 Spring Boot 多模块、前端 Vben Admin，内置用户/角色/租户管理、Flowable 工作流、代码生成、在线国际化、系统监控等模块，业务模块含 ERP、CRM 与 AI 大模型模块；AI 部分包括集成 dino/siglip/clip 模型与 Milvus 向量数据库的以图搜图功能（可删除），以及生成国际化 Key 时使用 AI。默认初始化 SQL 不含国际化数据，需运行 Python 脚本生成或联系作者获取；MySQL 初始化脚本已提供，其他数据库需自行适配。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- SaaS 多租户 + 租户套餐权限体系
-- Flowable 工作流，SIMPLE 拖拽设计器与 BPMN 设计器
-- 代码生成器一键生成 Java/Vue/SQL/接口文档
-- AI 大模型模块 + dino/siglip/clip 与 Milvus 实现以图搜图
+- RBAC 权限、SaaS 多租户、Flowable 工作流与代码生成一体化内置
+- 集成 dino/siglip/clip 三模型与 Milvus 向量数据库实现以图搜图（可移除）
+- 支持 MySQL/Oracle/PostgreSQL/达梦/TiDB 等多种数据库（初始化 SQL 仅提供 MySQL）
+- 内置 ERP、CRM、AI 大模型等按需业务模块
 
 ## 适用场景
 
-- 快速搭建带权限与多租户的管理后台
-- 搭建含审批流的 OA/ERP/CRM 企业系统
-- 为业务系统集成 AI 大模型与以图搜图能力
+- 快速搭建管理后台、ERP、CRM、OA 等企业级系统
+- 需要多租户 SaaS 权限隔离的业务系统
+- 需要以图搜图能力的图片管理系统
+- 需要多语言国际化在线配置的全球化业务
 
 ## 场景标签
 
-`代码生成` `语义搜索` · 领域:编码与开发
+`工作流自动化` `代码生成` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L63: * 以图搜图，集成dino、siglip、clip三大模型与milvus向量数据库实现以图搜图，不需要可以删除，参考教程视频第11集
 > L110: * 业务系统（按需）：ERP 系统、CRM 系统、AI 大模型
-> L206: |`litchi-module-ai`|AI 大模型的 Module 模块|
+> L298: > 环境：JDK21、MySQL8.0、Redis，必须要有的哦，没有可以找找资料下载就行了
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3cc3f7b79b1d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `58904b0a03f0` · [字段定义](../../DATASET.md)*

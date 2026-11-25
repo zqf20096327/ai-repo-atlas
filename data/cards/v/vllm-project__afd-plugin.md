@@ -1,10 +1,10 @@
 # vllm-project/afd-plugin
 
-⭐ 254 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/afd-plugin) · 组织维护 · 中文 README
+⭐ 254 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/afd-plugin) · 组织维护
 
-**vLLM 注意力-FFN 分离部署插件（GPU 与昇腾 NPU）**
+**vLLM 的注意力-FFN 分离插件，面向 GPU/NPU 部署**
 
-vLLM 官方生态的外部插件，实现 Attention-FFN Disaggregation（AFD）：提供插件自有的 worker 类、model runner、模型包装器、连接器、配置校验与兼容垫片，通过 vllm.general_plugins 入口点与 --additional-config 生效，不修改 vLLM 源码。面向在 CUDA GPU 与昇腾 NPU 上分离部署 DeepSeek、Qwen3 MoE 系列模型的推理工程师。目标运行时锁定 vLLM v0.30.0；README 自述仍处实验阶段，需更多大规模硬件测试。安装依赖 uv 与 Python 3.10-3.13。
+afd-plugin 是 vLLM 官方组织下的外部插件，为 Attention-FFN 分离（AFD）架构提供 plugin-owned 的 worker 类、model runner、模型包装器、connector、配置校验、兼容 shim 与硬件门控集成测试，支持 GPU 与昇腾 NPU 部署。通过 vLLM 通用插件入口扩展，不修改 vLLM 源码树。项目自述仍处于实验阶段，需在更多硬件后端做大规模测试；模型与 connector 的适用范围见支持矩阵。
 
 ## 筛选速览
 
@@ -12,24 +12,24 @@ vLLM 官方生态的外部插件，实现 Attention-FFN Disaggregation（AFD）�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 通过 vLLM 插件入口点注入 AFD 行为，不修改 vLLM 源码
-- 支持 CUDA GPU 与昇腾 NPU（三种连接器：NCCL P2P / CAMP2P / CAMAsync）
-- 支持 DeepSeekV2/V3/V3.2 与 Qwen3/Qwen3.5/3.6 MoE 家族
-- Eager 与 FULL_DECODE_ONLY 图执行，Native DBO 限两个 ubatch
+- 通过 vLLM 通用插件入口扩展，不修改 vLLM 源码
+- 支持 GPU 与 Ascend NPU 两种硬件后端
+- 提供 connector 机制分离 Attention 与 FFN 服务
+- 提供支持矩阵与已知精度/停机限制说明
 
 ## 适用场景
 
-- 在 vLLM 0.30.0 上以分离的 Attention/FFN 角色部署 DeepSeek MoE 模型
-- 在昇腾 910C/Atlas A3 上运行 AFD 推理部署
-- 对照 recipe 与 E2E 测试复现已记录的 GPU/NPU 验证场景
+- 在 GPU 集群上部署注意力与 FFN 分离的 vLLM 推理
+- 在昇腾 NPU 环境下运行 AFD 部署
+- 为 vLLM 开发新的 AFD connector 与后端适配
 
 ## 场景标签
 
@@ -38,8 +38,7 @@ vLLM 官方生态的外部插件，实现 Attention-FFN Disaggregation（AFD）�
 ## 证据(README 行号)
 
 > L7: **afd-plugin** is a vLLM
-> L19: source tree. AFD behavior is installed through the `vllm.general_plugins` entry
-> L31: - vLLM plugin registration, AFD configuration, and runtime validation.
+> L17: The plugin extends vLLM through its general-plugin entry point without
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `8b9b6e7cf808` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b5d708616ff8` · [字段定义](../../DATASET.md)*

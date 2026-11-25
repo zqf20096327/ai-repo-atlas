@@ -2,44 +2,44 @@
 
 ⭐ 224 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/OnePunchMonk/AgentQuant) · 个人维护
 
-**自进化量化策略研究 harness：带失败记忆的 agent 搜索回测框架**
+**量化研究 agent 的可复现实验评估框架：追踪失败并验证改进**
 
-面向量化研究者的策略搜索 agent 框架：以 ReAct 循环（分析→假设→回测→反思→存储→改进）迭代提出并检验交易策略，跨会话 SQLite 记忆保存已测策略与失败经验，walk-forward 留出集单独评估泛化风险。核心循环离线可用（确定性合成数据、网格/随机回退路径，无需 API key），接入 ANTHROPIC/TAVILY key 后启用 LLM 引导提案与网络检索。部分能力（GA/DE 优化器、multi-agent 集成、grid 自适应）标注为实验性或未接线，运行时对未实现配置显式抛错而非静默忽略。可导出执行轨迹至 harnesskit 做离线重放评估，并集成 Peek 做时间序列泄漏审计。
+AgentQuant 为研究型 agent 提供一个实验循环测试框架：提出实验、回测评估、检视结果、据此选择下一步，全程记录成功与失败尝试，支持在同一预算下对比不同搜索策略并回放其决策过程。以量化策略作为首个测试场景，核心问题是验证 agent 是否真的学会更好地选择实验。默认演示不需 API key，使用合成价格数据；LLM 引导提案与 Web 研究需另装 [llm] 扩展。作者声明自主自我改进仍属研究目标，尚未验证。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `library` | 以包/库形式分发 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- ReAct 循环驱动的策略搜索，跨会话 SQLite 记忆保留实验与失败经验
-- 零 key 本地 demo：确定性合成数据，JSON 报告与净值曲线产物
-- 三级证据分层（fixture/实测历史/未验证遗留），CI 重跑校验 checked-in 结果一致性
-- harnesskit 轨迹导出重放 + Peek 泄漏审计作为基准解读前置条件
+- 有界实验：共享回测评估器与成本模型，显式搜索预算
+- 带溯源的记忆：试验、笔记与时序图证据保留来源与日期截止
+- 同一 episode 上对比搜索策略，可导出 trace、episode 包与研究备忘
+- 离线 prompt 变异臂不调用 LLM，演示可无 key 运行
 
 ## 适用场景
 
-- 离线验证策略搜索回路的安装与接线是否正确
-- 研究者以留出集 Sharpe 差距跟踪策略过拟合风险
-- 跨多次实验积累策略记忆并复盘哪些假设失败
-- 导出 agent 轨迹到统一评估层做 harness 回归对比
+- 研究 research-agent 的行为是否随证据积累而改进
+- 对比不同的记忆与提案策略在同一预算下的表现
+- 基于可检视的实验循环做二次开发
 
 ## 场景标签
 
-`金融量化` `Agent 框架` `Agent 记忆` · 领域:Agent 开发
+`模型评测` `金融量化` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L105: - ✅ **Runs a real ReAct loop** — analyze → hypothesize → backtest → reflect → store → improve
-> L106: - ✅ **Remembers across runs** — Cross-session SQLite memory lets the agent learn what worked
+> L5: AgentQuant runs a research loop: propose an experiment, test it, inspect the result, and use that evidence to choose
+> L14: - **Tools around one research loop.** Memory retrieval, hypothesis evidence, and candidate suggestions help the age
+> L16: Use it to study research-agent behavior, test memory and proposal policies, or build on an inspectable experiment l
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b8f72f76c305` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e6e588292887` · [字段定义](../../DATASET.md)*

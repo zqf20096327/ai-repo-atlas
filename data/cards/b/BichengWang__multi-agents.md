@@ -2,9 +2,9 @@
 
 ⭐ 201 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BichengWang/multi-agents) · [官网](https://bichengwang.github.io/multi-agents/) · 个人维护
 
-**编排编码 agent 团队并测量其效果的运行器与基准**
+**在隔离 git worktree 中运行编码 agent 团队并用基准对比单人成本**
 
-在用户仓库中以多种拓扑运行编码 agent 团队的工具：单人、coder⇄reviewer 循环、并行竞争加裁判、planner 拆分子任务并行求解后合并补丁。worker 可以是 Claude Code、Codex CLI 或经 OpenAI Agents SDK 接入任意模型的内置 agent，每个 worker 运行在独立的 git worktree 中，默认沙箱权限隔离。每次运行记录 token、成本与耗时，产出单个补丁；支持 --check 测试验证、GitHub issue 转草稿 PR、--max-cost 预算。附带基于 SWE-bench-Live 的对比基准（Modal 或 Docker 后端），多项功能标注为冒烟测试或离线测试状态。
+Python CLI 工具，在用户的仓库任务上运行多个编码 agent：支持 solo、coder⇄reviewer 循环、多 worker 加 judge、planner 拆分子任务四种拓扑，worker 使用 Claude Code、Codex CLI 或经 OpenAI Agents SDK 接入任意模型的内置 agent，每个 worker 运行在独立 git worktree，产出补丁与逐次调用的 token/费用/时长记录。自带基准测试：以训练截止后的 GitHub issue 任务做团队 vs 单 agent 的配对比较，输出解决率、McNemar 检验与成本。目标用户是需要在真实仓库上评估多 agent 编码收益与开销的开发者。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- solo/review/best/plan 四种团队拓扑，每个 worker 独立 git worktree
-- 逐次记录 token、成本、秒数的明细账单，未定价运行不计入预算
-- --issue 转任务、--pr 开草稿拉取请求、--check 测试驱动验证
-- 基于训练截止后任务的 paired 基准（McNemar 检验、95% 置信区间）
+- 四种团队拓扑：solo、review 循环、best-of-N 加 judge、plan 拆分与重规划
+- 每个 worker 运行在独立 git worktree，默认不动用户工作区
+- 记录每次调用的 token、费用与时长，支持 --max-cost 预算停止
+- 基准在训练截止后的新任务上做团队 vs 单 agent 的配对成本与胜率比较
 
 ## 适用场景
 
-- 把一个任务交给 coder+reviewer 或多 agent 团队并拿回一个补丁
-- 从 GitHub issue 直接生成草稿 PR
-- 测量多 agent 团队相对单人 agent 的解决率与成本差异
+- 在我的仓库上让多个编码 agent 并行解 bug 并择优合并补丁
+- 度量多 agent 团队相对单个 agent 在同类任务上的解决率与成本差异
+- 从 GitHub issue 自动产出草稿 PR 并带测试检查
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: Run a team of coding agents on a task in your repository: a single agent, a coder ⇄ reviewer
-> L11: The benchmark then answers the question most agent orchestrators skip: **did the team beat a
-> L34: Requirements: Python 3.10+, uv, git, and at least one logged-in
+> L18: multi-agents architecture: entry points feed a team runner (solo, review, best, plan topologies; Claude Code, Codex
+> L23: Run a team of coding agents on a task in your repository: a single agent, a coder ⇄ reviewer
+> L155: The benchmark runs team specs against solo agents on GitHub issues opened after the models'
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `f2d2b48a27cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2e547a7ddb5f` · [字段定义](../../DATASET.md)*

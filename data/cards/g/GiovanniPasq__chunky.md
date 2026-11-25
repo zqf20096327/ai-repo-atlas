@@ -2,9 +2,9 @@
 
 ⭐ 235 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/GiovanniPasq/chunky) · 个人维护
 
-**面向 RAG 的本地文档处理工作台：PDF 转 Markdown、清洗、分块与元数据增强**
+**本地开源的 RAG 文档准备可视化工作台**
 
-本地运行的开源工作区，覆盖 RAG 前置流程：六种 PDF 转 Markdown 引擎（PyMuPDF/Docling/MarkItDown/LiteParse/VLM/Cloud API）、确定性清理加 LLM 修正的 Markdown 增强、LangChain/Chonkie/Docling 三家分块策略可视化对比、以及基于 LLM 的 chunk 元数据生成（标题/摘要/关键词/可回答问题）。转换器与分块器通过注册表插件化扩展。支持本地源码启动与 Docker 部署；VLM 转换默认对接本地 Ollama，无 GPU 时 Docling 与 Ollama 速度显著下降。
+Chunky 是一个本地运行的文档审阅工作台：在文档进入向量库之前，检查 PDF 到 Markdown 的转换结果、清理转换噪声、在真实文档上对比多种分块策略并审阅生成的 chunks。支持 PyMuPDF、Docling、MarkItDown、LiteParse、VLM 与 Cloud API 六种转换器，集成 LangChain、Chonkie、Docling 三类分块库，可用本地或远程 LLM 做 Markdown 修正与 chunk 增强（标题、摘要、关键词、检索问题），并提供批处理、导出与插件式后端扩展。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 六种 PDF 转 Markdown 转换引擎可在 UI 中切换
-- LangChain/Chonkie/Docling 分块策略在真实文档上对比
-- 两级 LLM 增强：Markdown 清洗修正与 chunk 元数据生成（标题/摘要/关键词/问题）
-- 注册表机制下新增转换器或分块策略无需改前端
+- 六种 PDF 转 Markdown 引擎可在 UI 中切换对比
+- 三种分块库、十余种策略的可配置对比与版本保存
+- chunk 增强：生成标题、摘要、关键词与检索问题
+- 通过 capabilities API 动态发现转换器与分块器的插件式扩展
 
 ## 适用场景
 
-- 把 PDF 转成干净 Markdown 再入向量库
-- 在索引前检查并修复分块质量
-- 为不同文档选合适的分块策略
-- 批量为 chunk 生成标题、摘要与检索问题
+- 在索引前检查 PDF 转换出的表格与版式是否损坏
+- 在同一份文档上对比不同分块策略的切分效果
+- 为 chunks 批量生成上下文标题、摘要与检索问题
+- 编写自定义转换器或分块器接入工作台
 
 ## 场景标签
 
-`文档解析` `RAG` · 领域:知识与检索
+`RAG` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L11: Chunky is a local, open-source workspace for preparing documents for Retrieval-Augmented Generation (RAG). It combi
-> L26: |✂️ **Chunking strategy comparison**|Test LangChain, Chonkie, and Docling splitters with configurable size and over
+> L7:  A local, open-source workspace to inspect PDF conversion, refine Markdown, compare chunking strategies, and review 
+> L23: Broken tables, scrambled layouts, noisy Markdown, and poor chunk boundaries can undermine retrieval. Chunky makes t
+> L38: |✂️ **Chunking strategy comparison**|Test LangChain, Chonkie, and Docling splitters with configurable size and over
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ec47c11fc12e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9c8cda401ded` · [字段定义](../../DATASET.md)*

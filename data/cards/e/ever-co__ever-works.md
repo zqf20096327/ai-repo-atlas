@@ -2,9 +2,9 @@
 
 ⭐ 202 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/ever-co/ever-works) · [官网](https://ever.works) · 组织维护
 
-**自主运营整站业务的 agentic runtime：从创意到建站发布**
+**让 AI agents 自主研究、生成并部署整站/业务的开源运行时**
 
-开源 agentic runtime 平台：给定一个想法后，AI agent 自主完成研究、内容生成、完整站点/仓库代码生成、多目标部署与按计划的持续改进；代码与内容均以 Git 管理。多模型接入由自带密钥，经 OpenRouter 等网关支持 OpenAI/Anthropic/Google/Groq/Mistral/Ollama 等，并提供插件系统扩展搜索、提取、部署与流水线。Turborepo/pnpm monorepo，含 Web UI、REST API、CLI、Admin、MCP server 与文档站；Docker Compose 快速启动，生产建议 Kubernetes+PostgreSQL+Redis。AGPL-3.0 许可，由 Ever Co. LTD 维护。
+开源的 agentic runtime 平台：输入一个想法后，由可配置的多步骤 agent 流水线完成自主调研、长文内容生成、完整站点/仓库代码生成，并部署到用户选择的目标；代码与内容均存于 Git，支持按计划持续更新。采用 Turborepo monorepo，包含 API、Web UI、CLI、MCP server 等多个应用；AI 能力通过插件系统接入多家模型提供商，经 OpenRouter 等网关调用，自带内容管理、订阅计费、监控等模块。AGPL-3.0 许可，可用 Docker Compose 或源码自托管，另有处于 pre-release 的 SaaS 版。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- idea-to-site 自动化：单一 prompt 产出研究、内容、代码并部署
-- 多提供商 AI 接入（OpenAI/Anthropic/Google/Groq/Mistral/Ollama）经 OpenRouter 等网关
-- 一等公民插件系统：AI 提供商、搜索、提取、Git、部署、流水线等均可扩展
-- MCP server、Headless REST API 与 CLI 三种自动化入口
+- Idea-to-site：单条 prompt 驱动调研、写作、编码、部署的 15 步标准流水线
+- 多提供商 AI 插件（OpenAI/Anthropic/Google/Groq/Mistral/Ollama），默认经 OpenRouter 网关
+- 代码与内容统一存于 Git，每次变更即提交，支持社区 PR 回流
+- 同时提供 Web UI、REST API、CLI、MCP server 多种操作面
 
 ## 适用场景
 
-- 输入一个点子让 AI agent 自动研究并生成、部署完整网站
-- 持续按计划更新和维护 AI 生成的站点内容
-- 通过 MCP/API/CLI 将平台能力接入 agent 或 IDE 自动化流程
+- 用一个 prompt 快速生成内容型站点（如目录站）并持续自动更新
+- 自托管平台让 agents 7x24 维护自己的内容与代码资产
+- 通过 MCP server 把平台能力暴露给 IDE 与其他 AI agents
+- 以无头 API 程序化批量生成与部署站点
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` · 领域:Agent 开发
+`代码生成` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L11: [Ever® Works™][uri_everworks] - **The Workshop for AI** - an open-source, extensible, **agentic runtime** that auto
-> L30: - **Idea-to-site automation** — turn a single prompt into a researched, written, coded, and deployed result
+> L16: - ✍️ **AI content generation** — long-form, structured, ready-to-publish content
+> L34: - **Multi-provider AI** — bring your own models and keys (OpenAI, Anthropic, Google, Groq, Mistral, Ollama, and mor
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `de90febaf847` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 low · 依据 README sha `490efd3b4070` · [字段定义](../../DATASET.md)*

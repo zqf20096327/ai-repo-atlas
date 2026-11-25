@@ -2,9 +2,9 @@
 
 ⭐ 196 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/zidniryi/unbagrnd) · [官网](https://zidniryi.space/unbagrnd/) · 个人维护
 
-**跨平台本地 AI 抠图工具：设备端去除图片背景**
+**开源本地 AI 抠图应用：离线去除图片背景，附自托管 API**
 
-面向 macOS/Windows/Linux/Android 的开源抠图应用：基于 ONNX Runtime 在本地运行 IS-Net 等多种背景去除模型，模型首次使用时下载并缓存，此后完全离线，无云端 API、账号与遥测。功能覆盖单图与文件夹批量处理、画笔手动修补、边缘收缩/平滑/羽化、导出 alpha 蒙版、PNG/WebP/SVG 输出。另附带自托管 REST API，复用同一推理核心，支持 API key 管理与批量接口，通过 Docker Compose 部署。macOS 版仅支持 Apple Silicon，构建未做代码签名需手动清除隔离属性。
+跨平台桌面与 Android 应用，通过 ONNX Runtime 在本地运行 IS-Net 分割模型去除图片背景，首次使用一次性下载模型（默认约 43–170 MB）后完全离线。支持单张与批量处理、笔刷手动修整、边缘收缩/羽化、背景填充与阴影、裁剪与尺寸预设（电商方图、证件照、社交媒体）、导出 PNG/WebP/SVG 及 alpha 蒙版。另提供自托管 REST API（Docker 部署，含 API key 管理与速率限制）。MIT 许可，无账号与遥测。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 设备端 ONNX Runtime 推理，模型一次下载后完全离线
-- 可选多种抠图模型（默认约 43 MB 起），权衡速度与精度
-- 批量处理含统一背景/投影、命名模板、失败重试与 ZIP 导出
-- 自托管 REST API 复用同一推理核心，含 API key 管理与批量端点
+- 本地 ONNX 运行 IS-Net 模型，安装后完全离线推理
+- 批量处理：统一背景/阴影/命名模板、失败重试、ZIP 导出
+- 笔刷与边缘修整、alpha 蒙版导出、尺寸与证件照预设
+- 自托管 REST API，Docker 一键部署，含 key 管理与限流
 
 ## 适用场景
 
-- 本地离线给照片去背景，不上传图片
-- 批量处理整个文件夹并导出带透明通道的结果
-- 自建服务通过 REST API 为应用提供抠图能力
+- 批量给商品图/证件照换底色并按预设尺寸导出
+- 无网络或注重隐私环境下本地处理截图与人像抠图
+- 自托管 API 批量给应用接入背景去除能力
+- 导出 alpha 蒙版供设计工具做图层蒙版
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L14: A small desktop app that uses AI to remove the background from images —
-> L18: - **On-device AI.** Background removal runs through a real neural network
-> L78: unbagrnd runs IS-Net "general use"
+> L90: unbagrnd runs IS-Net "general use"
+> L92: Segmentation"*, ECCV 2022) as an ONNX model, via the `ort`
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `ce7df1bdb3b1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `40910357341d` · [字段定义](../../DATASET.md)*

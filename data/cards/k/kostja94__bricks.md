@@ -2,9 +2,9 @@
 
 ⭐ 193 · JavaScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/kostja94/bricks) · [官网](https://alignify.co/products/bricks) · 个人维护
 
-**给编码 agent 的界面组件契约层：让生成组件贴合现有设计系统**
+**为编码 agent 提供组件契约层：生成贴合项目的设计系统组件**
 
-面向 coding agent 的组件构建技能包：以 SKILL.md 与 references 形式为每个组件概念（Footer、FAQ、Agent Workspace 等）提供语义职责、上下文变体、交互状态、技术边界与验证要求的契约。agent 接到组件任务后先读取页面、tokens、依赖与响应式约定，识别组件概念与所有权边界，再复用项目原语实现并在真实页面中验证。附带机器可读目录 catalog/components.json 与 npm 测试校验。明确不提供固定 React/Vue/CSS 组件包，也不替代项目规范。
+Bricks 是一组供编码 agent（Claude Code、Codex、Cursor 等）使用的 skill 契约集，用于在既有产品代码库与设计系统中构建和维护界面组件。包含四个入口 skill：component-builder 在页面真实上下文中构建组件，component-inventory 生成组件系统文档，component-auditor 分析语义重复与漂移，component-cleanup 清除未使用组件。其机制为：先读取路由、design tokens、依赖与测试，加载匹配的组件参考与质量门禁，再复用项目原语实现并验证。不提供固定 React/Vue/CSS 组件包，不定义统一设计系统。通过 npx skills add 安装，MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 每个组件概念维护一份契约：职责、上下文、变体、状态、验证要求
-- component-builder 先检查页面/tokens/依赖再实现，复用项目原语
-- 机器可读组件目录 catalog/components.json，组件 ID 保持稳定
-- 覆盖导航、内容、转化、布局与 Agent 界面五组组件
+- 四个治理入口：构建、盘点、审计、清理，可独立使用
+- 构建前读取页面上下文、design tokens、依赖与响应式约定
+- catalog/components.json 提供机器可读的组件清单与稳定 ID
+- 不绑定特定框架或视觉风格，目标项目决定实现
 
 ## 适用场景
 
-- 让编码 agent 在既有设计系统内构建贴合产品的组件
-- 避免生成的 Footer/FAQ 出现虚构路由或可访问性缺失
-- 为 agent 工具链提供稳定的组件 ID 与质量门
+- 让 agent 为现有站点构建符合项目约定的新组件
+- 盘点并生成项目的组件系统文档
+- 审计语义重复组件并执行整合迁移
+- 清理已确认未使用的组件与遗留生成 UI
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L7: Bricks gives coding agents implementation-aware contracts for building interface components that belong in an existi
-> L63: The `component-builder` does not begin with a preferred library or visual treatment.
+> L1: # Bricks: Component Layer for AI Agents
+> L7: Bricks gives coding agents implementation-aware contracts for building and maintaining interface components that bel
+> L31: |Skill|Outcome|
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c37504ac891b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `98cca48e5082` · [字段定义](../../DATASET.md)*

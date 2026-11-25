@@ -2,9 +2,9 @@
 
 ⭐ 239 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/martinopiaggi/summarize) · [官网](https://summarize.martino.im) · 个人维护
 
-**多来源视频转 Markdown 摘要工具（YouTube/TikTok 等 11+ 来源）**
+**为个人用户把多平台视频转成 Markdown 摘要**
 
-将讲座、短视频、网盘录像等视频转为 Markdown 产出：问答、事实核查、教程、Mermaid 图、文章等。支持 YouTube、Instagram、TikTok、X、Reddit、Facebook、Google Drive、Dropbox 与本地文件共 11+ 来源；自带 API key，兼容任意 OpenAI 兼容 LLM、Perplexity 模型与 LiteLLM。提供 CLI、Streamlit、HTTP API、Docker 与 Raycast 等使用方式；含转录缓存、可选 Cobalt 边车与视觉模式。需 Python 3.10+ 与 ffmpeg。
+从 YouTube、TikTok、Instagram、X、Reddit、本地文件等 11+ 来源获取视频，转写并生成 Markdown 摘要（问答、事实核查、Mermaid 图、教程、文章等格式）。提供 CLI、Streamlit Web 界面、HTTP API、Telegram bot、Docker 与 Raycast 多种使用方式，带转写缓存与可选的 vision 模式。需 Python 3.10+、ffmpeg 与 OpenAI 兼容 API key；另提供 TranscriptFetch/Cobalt 侧车应对被封锁来源的转写回退。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 11+ 视频来源的本地优先摘要，输出多种 Markdown 格式
-- 兼容任意 OpenAI 兼容 LLM、Perplexity、LiteLLM
-- CLI / Streamlit / HTTP API / Docker / Raycast 多种交付形式
-- 转录缓存、可选 Cobalt 边车、可选视觉模式
+- 11+ 视频来源（YouTube/X/Instagram/TikTok/本地文件等）本地化摘要
+- 兼容任意 OpenAI-compatible LLM、Perplexity、LiteLLM
+- CLI/Streamlit/HTTP API/Telegram bot/Docker/Raycast 多入口
+- 转写缓存与可选 TranscriptFetch、Cobalt 侧车
 
 ## 适用场景
 
-- 把 YouTube 讲座或 TikTok 视频整理成 Markdown 笔记
-- 处理网盘或本地录像并生成问答与教程
-- 自托管部署，用自有 API key 总结视频
+- 把长讲座视频转成结构化 Markdown 笔记
+- 通过 Telegram bot 发链接直接取回摘要
+- 为 YouTube 下载受限地区的视频获取转写
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7: > Turn any video — a lecture, TikTok, or Drive recording — into distilled markdown: Q&A, fact-checks, tutorials, Mer
 > L9: - **11+ sources**: Local-first summarization for YouTube, Instagram, TikTok, X, Reddit, Facebook, Drive, Dropbox, lo
 > L10: - **Bring your own API keys**: Works with any OpenAI-compatible LLM, Perplexity models, LiteLLM
+> L25: Requires Python 3.10+, **ffmpeg** on `PATH`, and an OpenAI-compatible API key in `.env`.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ef28a7063e78` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0927078deec0` · [字段定义](../../DATASET.md)*

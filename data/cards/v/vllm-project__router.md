@@ -1,10 +1,10 @@
 # vllm-project/router
 
-⭐ 530 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/router) · 组织维护 · 中文 README
+⭐ 530 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/router) · 组织维护
 
-**面向 vLLM 大规模部署的请求路由与负载均衡系统**
+**为 vLLM 大规模部署提供请求路由与负载均衡的系统**
 
-vLLM 项目下的高性能请求转发系统：在多个 vLLM worker 之间做负载均衡（cache-aware、一致性哈希、随机、轮询等算法），支持 Prefill/Decode 分离部署的专用路由（NIXL/NCCL/Mooncake connector）、Kubernetes 服务发现与健康监控、熔断器与重试、Prometheus 指标、可选 WASM OnRequest 中间件以及面向 agent 负载的 RequestPool 准入与 Global Queue。以 Python 包（PyPI）、Rust 二进制（cargo build）或 python 启动器三种方式运行，面向大规模推理部署的运维与开发人员。
+面向 vLLM 大规模部署的请求转发系统，提供多种负载均衡算法（缓存感知、two-choice、一致性哈希、随机、轮询）、prefill/decode 分离路由、基于 Kubernetes 的服务发现与健康监控，以及熔断、重试、Prometheus 指标等运维功能。以 Rust 二进制为核心，附带 Python 包启动器；支持通过 grpc:// URL 路由到 vLLM Rust 推理 worker，可选 WASM 中间件插件。安装需 Rust/Cargo 与 Python/pip。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ vLLM 项目下的高性能请求转发系统：在多个 vLLM worker 之间做�
 
 ## 能力要点
 
-- 多种负载均衡算法（cache-aware、一致性哈希、power of two 等）
-- Prefill/Decode 分离路由，支持 NIXL/NCCL/Mooncake 连接器
-- Kubernetes 服务发现、熔断器、重试与 Prometheus 指标
-- 可通过 grpc:// 路由到 vLLM Rust Inference worker，支持可选 WASM 中间件
+- 多种负载均衡算法：cache-aware、一致性哈希、two-choice、随机、轮询
+- 支持 prefill/decode 分离部署路由（NIXL/NCCL/Mooncake 连接器）
+- Kubernetes 原生服务发现与 worker 健康监控
+- 熔断器、指数退避重试、Prometheus 指标端点
 
 ## 适用场景
 
-- 大规模 vLLM 推理集群的多副本请求分发与负载均衡
-- Prefill/Decode 分离部署场景下的阶段化路由
-- Kubernetes 环境中自动发现 worker 并做健康监控与熔断
+- 为多副本 vLLM 集群做请求分发与会话亲和
+- prefill 与 decode 分离部署下的专用路由
+- 在 Kubernetes 中自动发现并管理推理 worker
+- 为 agent 工作负载配置请求调度与全局队列
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L5: A high-performance and light-weight request forwarding system for vLLM large scale deployments, providing advanced l
-> L10: - **Load Balancing**: Multiple algorithms (cache-aware, power of two, consistent hashing, random, round robin)
-> L12: - **Prefill-Decode Disaggregation**: Specialized routing for separated processing phases
+> L9: - **Core Architecture**: Request routing framework and async processing patterns
+> L13: - **Service Discovery**: Kubernetes-native worker management and health monitoring
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e128ab6a10b9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `51e3307407c8` · [字段定义](../../DATASET.md)*

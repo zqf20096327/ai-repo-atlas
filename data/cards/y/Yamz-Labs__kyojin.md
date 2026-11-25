@@ -2,9 +2,9 @@
 
 ⭐ 246 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Yamz-Labs/kyojin) · [官网](https://yamzlabs.com) · 组织维护
 
-**面向 AMD Strix Halo（ROCm）的 128GB 单机大模型推理引擎**
+**让单台桌面机运行百 GB 级开源大模型的推理引擎**
 
-Yamz 团队开发的推理引擎，基于 ExLlamaV3，针对 AMD Strix Halo（gfx1151/ROCm）优化，在单台 Ryzen AI Max+ 395 128GB 迷你主机上运行 100 GB 级 EXL3 量化 MoE 模型（Qwen/GLM/MiMo），支持投机解码与最长 500K token 上下文。服务器以 OpenAI API 对外提供服务。附带实验性的 DeepSeek-V4.1-Flash（763B）SSD 分层加载方案：权重超过内存时将部分专家保留在 RAM、其余从 NVMe 读取。安装需先装 ROCm torch 并构建，通过 git clone 获取源码、Hugging Face 下载模型包。另提供可选的 uncensored 模式（加载时挂接、不改权重）。
+基于 ExLlamaV3 的开源推理引擎，为百 GB 级开源模型（GLM-5.3、Qwen3.8、DeepSeek V4.1 等）提供本地推理服务，覆盖 AMD Strix Halo、NVIDIA RTX 与 Apple Mac 三类硬件路径，每个服务器对外提供 OpenAI 兼容 API 与 tool calling。README 给出各硬件的克隆安装、权重下载与启动命令，附带按上下文长度的实测速度数据与已知限制（如 Strix Halo 需 Linux + ROCm 7.0+、128 GB 内存；NVIDIA 需 sm_80+）。面向想在本地桌面硬件上运行超大开源模型的开发者。
 
 ## 筛选速览
 
@@ -13,24 +13,23 @@ Yamz 团队开发的推理引擎，基于 ExLlamaV3，针对 AMD Strix Halo（gf
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 在单台 Ryzen AI Max+ 395 128GB 机器上运行 100 GB 级 MoE 模型
-- 投机解码：Qwen3.8-Flash-Next 达 47.5-73.2 tokens/s
-- 最长 500K token 上下文（含 needle 测试召回验证）
-- DeepSeek-V4.1-Flash（763B）实验性 RAM+NVMe SSD 专家分层加载
-- 服务器提供 OpenAI API 兼容接口（端口 8000）
+- 基于 ExLlamaV3，服务器提供 OpenAI 兼容 API 与 OpenAI tool-calling API
+- 支持 AMD Strix Halo / NVIDIA RTX / Apple Mac 三条硬件路径
+- 默认开启推测解码；支持最长 983K tokens 上下文（Mac Studio）
+- Qwen3.8-27B 支持图像输入；可选的 uncensored 预设（默认关闭）
 
 ## 适用场景
 
-- 在 Strix Halo 128GB 迷你主机上本地部署运行百 GB 级 MoE 模型
-- 本地跑长上下文（至 500K）文档问答与召回
-- 在单机上体验超大规模（763B）模型的运行演示
+- 在 Strix Halo 128 GB 桌面机上本地运行 100 GB 级模型
+- 通过 OpenAI 兼容 API 把本地大模型接入既有应用与 agent 客户端
+- 用 tools/bench.sh 自测各上下文长度的推理速度并分享结果
 
 ## 场景标签
 
@@ -38,9 +37,9 @@ Yamz 团队开发的推理引擎，基于 ExLlamaV3，针对 AMD Strix Halo（gf
 
 ## 证据(README 行号)
 
-> L16:  Tokens per second on one Ryzen AI Max+ 395 with 128 GB. Prefill at the context shown in each cell, speculative dec
-> L51: Install ROCm torch and build once (doc/install.md), then:
-> L59: The server speaks the OpenAI API on port 8000. GLM and MiMo commands: doc/models.md.
+> L3:  Run 100 GB-class AI models on one desktop machine. Open source. OpenAI API. Built on ExLlamaV3.
+> L78: Every server speaks the OpenAI API. More commands: doc/models.md.
+> L166: - Strix Halo needs Linux (Ubuntu/Debian tested), a gfx1151 machine with 128 GB and ROCm 7.0 or newer; ROCm 6.4 has
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ef03bf13e7e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7c69d9aa9f39` · [字段定义](../../DATASET.md)*

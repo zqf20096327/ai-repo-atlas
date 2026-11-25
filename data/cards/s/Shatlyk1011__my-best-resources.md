@@ -2,9 +2,9 @@
 
 ⭐ 226 · 推送 2026-11-03 · [GitHub](https://github.com/Shatlyk1011/my-best-resources) · 个人维护
 
-**面向前端开发者与设计师的资源清单（设计/组件/图库/AI 工具）**
+**面向前端开发者与设计师的策划资源清单（设计/组件/素材/工具）**
 
-个人维护的观点式（Opinionated）资源目录：按设计灵感、技能、开源组件库、图库图标、视频编辑、AI 工具、其他工具等类别收录站点与库，每个条目附简介与技术栈标签（如 Tailwind/React/GSAP）。含少量 AI 相关技能（Claude skill、Procedural Film）与 AI 工具（Ideogram、Magic Patterns 等）。无安装与运行方式，README 另附 YouTube 视频演示，声明将持续更新。
+一个观点式（opinionated）的网络开发与设计资源聚合清单，按设计灵感、AI 技能（Claude/agent 技能）、开源 UI 组件库、图库与图标、视频编辑模板、AI 工具及其它实用服务分节组织，每条以表格形式给出名称与简介。维护者声明未来会持续更新，并配有一段展示资源实际效果的 YouTube 视频。README 未提供安装步骤，定位为链接参考目录。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 按 7 个类别组织资源条目，附简介与技术栈标签
-- 收录 Shad CN、Aceternity UI 等开源组件库
-- 含 AI 工具与 Claude 技能条目
-- 配套 YouTube 视频演示各资源实际效果
+- 按 7 个主题分节的资源表格（灵感/技能/组件/图库/视频/AI 工具等）
+- 收录 Claude 类 agent 技能与 AI 编码工具相关条目
+- 覆盖 React/Tailwind/GSAP/Motion 等技术栈的开源组件库条目
 
 ## 适用场景
 
-- 寻找网页设计灵感与参考站点
-- 查找可定制的开源 React/Tailwind 组件库
-- 了解前端开发常用的图片、图标与压缩工具
+- 为网页项目寻找设计灵感与参考站点
+- 挑选可安装的开源 UI 组件库
+- 查找图库、图标与图片压缩等素材工具
 
 ## 场景标签
 
@@ -38,7 +37,6 @@
 ## 证据(README 行号)
 
 > L1: # The Best Resources for Web Developers and Designers (Opinionated)
-> L3: A list of awesome resources to make a developer's life easier.
 > L6: ### List of Resources
 
 ## 星数曲线
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `17b24fe65f2d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fd254f15eff1` · [字段定义](../../DATASET.md)*

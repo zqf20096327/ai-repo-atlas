@@ -2,15 +2,15 @@
 
 ⭐ 227 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-industry-research) · [官网](https://www.npmjs.com/package/dsh-industry-research) · 个人维护 · 中文 README
 
-**给 DeepSeek Harness 用户的行业/公司研究插件：带溯源的可审计研究报告**
+**面向 DeepSeek Harness 的行业/公司研究领域包，产出可核查报告**
 
-面向 DeepSeek Harness（dsh）的领域插件包，提供四个工具：industry_map 构建并校验产业链图（含 SVG 渲染与缺口声明）、industry_track 经 ctx.web 做公开来源政策/新闻跟踪（SHA-256 快照、去重、来源黑白名单）、company_scan 从工作区文件生成带逐行引用的公司卡片、industry_report 按确定性交付契约产出可审计报告。每个数值须携带来源引用，未溯源值触发失败；工件写入 versions.jsonl 版本账本并校验哈希。附两个方法论技能。声明仅做研究支持、不构成投资建议，不使用付费/登录墙来源。安装经 dsh plugin 或 1024 store 渠道，需 Node 22+，ESM only。
+以 DeepSeek Harness 插件形式分发，注入四个工作区工具与两个方法论技能：先建产业链结构图，再经 ctx.web 跟踪公开源政策要闻，扫描公司数据文件出速览卡，最后组装报告。每个带值指标必须带 sourceRef，缺口为显式槽位；产物落盘写入 versions.jsonl 并做 SHA-256 校验，报告走封存引擎或内置降级路径并标注 claims unverified。只读公开源、不接交易、不解析 PDF、本地计算不调用模型。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 产业链图/时间线/公司卡片/报告四工具，数值必须携带来源引用否则失败
-- 公开来源快照带 SHA-256 溯源哈希，工件写入版本账本并做哈希校验
-- 确定性交付契约与 bull/bear 多视角综合，无引擎时诚实标注 builtin-fallback
-- 两个方法论技能与类型化 Cordis 事件
+- 四个工具（industry_map/track/scan/report）组成可回放的研究流水线
+- 证据登记簿逐份 SHA-256 溯源，versions.jsonl 读取时校验哈希
+- 交付契约校验不过即响亮失败，缺 ctx.web/researchReport 时如实降级
+- 含来源主机白/黑名单与离线模式配置
 
 ## 适用场景
 
-- 让 agent 按可溯源流程做行业产业链研究与报告
-- 跟踪某行业的公开政策与新闻并留存带哈希快照的时间线
-- 从本地工作区文件生成每个数字可溯源到文件与行号的公司卡片
+- 为行业研究建立带来源与日期的产业链结构图
+- 跟踪某行业的公开政策与要闻并留快照哈希
+- 从工作区文本数据生成带来源的公司速览卡
+- 组装每个数字可回溯的证据链式研究报告
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L7: **Industry and company research domain pack for DeepSeek Harness.**
-> L58: - DeepSeek Harness `dsh-v0.2.1-alpha.1` (published npm line, verified 2026-09-25; peers `>=0.1.2-rc.1 <0.2.0 || >=0
-> L67: - **`industry_map`** — build or update an industry chain map (`chain.json`): upstream/midstream/downstream nodes, e
+> L9: 面向 DeepSeek Harness 的行业/公司研究领域包：四个工作区工具 + 两个方法论技能，只读公开源，只做研究支持。
+> L40: `dsh-industry-research` 把行业研究拆成一条可回放的流水线：先建产业链结构图，再跟踪公开源政策与要闻，然后扫描公司出速览卡，最后组装成可核查报告。每个带值的指标必须带 `sourceRef`，每个缺口是显式槽
+> L90: - **`industry_report`** —— 汇总结构图、时间线与公司卡产出可核查报告。产出前跑确定性交付契约校验（区块、状态/价格断言、占位符残留；不通过即响亮失败，绝不交付半成品）。时间线条目按 `evidenceCa
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d9522f5bf5d6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a9fef7e0c9b4` · [字段定义](../../DATASET.md)*

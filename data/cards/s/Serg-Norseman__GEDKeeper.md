@@ -2,9 +2,9 @@
 
 ⭐ 216 · C# · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Serg-Norseman/GEDKeeper) · [官网](https://gedkeeper.net/) · 个人维护
 
-**跨平台个人家谱数据库管理程序，支持 GEDCOM 标准与插件**
+**个人家谱数据库管理软件，支持 GEDCOM 与多平台**
 
-GEDKeeper 是用于管理个人家谱数据库的桌面程序：完整支持 GEDCOM 5.5.1 标准，人数与世代数无限制，可生成谱系、构建多种世系树并打印/保存图像，支持多媒体材料添加，地理数据可经 Google 地图与 OpenStreetMap 输出。功能可通过插件与 Lua 脚本扩展，其中 MCP Server 插件提供与 LLM 客户端的 MCP 与 RAG 集成。提供三个实现：GEDKeeper2（.NET Framework 4.8，Windows 旧版）、GEDKeeper3（.NET 8 跨平台，当前活跃维护）、GEDKeeperX（Android 移动版，已暂停支持）。
+用于管理个人家谱数据库的桌面/移动程序，完整支持 GEDCOM 5.5.1 标准。功能包括谱系生成、多种树形图的打印与导出、导航/过滤/搜索、多媒体附件，以及通过 Google 地图与 OpenStreetMap 输出地理数据。人数与世代数无限制。通过插件与 Lua 脚本扩展功能；GEDKeeper3 提供 MCP Server 插件，可与 LLM 客户端经 MCP 和 RAG 集成。提供三个实现：Windows 专用的 GK2、跨平台 GK3、移动端 GKX。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ GEDKeeper 是用于管理个人家谱数据库的桌面程序：完整支持 GED
 
 ## 能力要点
 
-- 完整支持 GEDCOM 5.5.1 标准，人数与世代数无限制
-- 多种世系树构建、打印与图像保存，地图展示地理数据
-- 插件与 Lua 脚本扩展机制，含 MCP Server 插件接入 LLM 客户端
-- GEDKeeper3 跨平台实现（Linux/macOS/Windows 10/11）
+- 完整支持 GEDCOM 5.5.1 标准
+- 插件与 Lua 脚本扩展机制
+- GEDKeeper3 提供 MCP Server 插件，可经 MCP/RAG 与 LLM 客户端集成
+- 三个实现覆盖 Windows、Linux、macOS、Android、iOS
 
 ## 适用场景
 
-- 建立并维护个人家谱数据库
-- 生成谱系与世系树图表用于打印或分享
-- 通过插件和 Lua 脚本扩展家谱分析功能
+- 整理和保存个人家族史数据
+- 生成并打印家谱树形图
+- 在家谱记录中关联照片等多媒体与地理位置
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ GEDKeeper 是用于管理个人家谱数据库的桌面程序：完整支持 GED
 ## 证据(README 行号)
 
 > L11: The **GEDKeeper** program is for working with personal genealogical databases.
-> L48: The current implementation is actively supported on a cross-platform framework.
+> L49: Integration with LLM clients via the MCP and RAG is available MCP Server plugin.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `eadfcffc0ef7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `75db325efd95` · [字段定义](../../DATASET.md)*

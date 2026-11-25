@@ -2,15 +2,15 @@
 
 ⭐ 224 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/MAIF/eurybia) · [官网](https://maif.github.io/eurybia/) · 组织维护
 
-**监测机器学习模型数据漂移并生成 HTML 报告的 Python 库**
+**为数据科学团队检测模型数据漂移并生成校验报告**
 
-面向数据科学家与数据分析师的模型监测库：通过训练一个二分类模型（datadrift classifier）区分基线数据集与生产数据集，以 AUC 指标量化数据漂移程度，并通过可解释性定位引发漂移的关键特征。三步流程：声明 SmartDrift 对象、compile、generate_report 输出 HTML 报告，覆盖特征重要性、分布对比、AUC 演化与模型性能演化等内容。可用于部署前数据校验，支持配合 Airflow 等调度器周期性监测。基于 Shapash、Panel、Plotly、Catboost 构建，支持 Python 3.9–3.12。概念漂移与 API 模式尚在路线图中。
+Python 库，检测数据漂移与模型漂移，并在模型上线前校验生产数据与训练数据的一致性。核心机制是用二分类 datadrift classifier 区分基线与生产数据集，以 AUC 衡量漂移程度，并生成包含特征重要性、分布对比、性能演化的 HTML 报告。面向数据科学家与数据分析师，服务模型监控、审计与 AI 治理；可用 Airflow 等调度器做周期监控。要求 Python 3.11–3.14 与 Shapash 2.10+；Roadmap 显示 Concept Drift 与 API 模式尚未完成。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 以二分类模型 AUC 量化数据漂移程度
-- 生成含特征重要性、分布对比、性能演化的 HTML 报告
-- 支持部署前数据校验与周期性调度监测（如 Airflow）
-- 基于 Shapash 提供漂移分类器的可解释性
+- 基于 datadrift classifier 的 AUC 指标量化数据漂移
+- 生成动态 HTML 报告，展示特征重要性与分布对比
+- 支持部署前数据校验与模型性能演化跟踪
+- 可配合 Airflow 等调度器做周期性漂移监控
 
 ## 适用场景
 
-- 模型上线前校验生产数据与训练数据的一致性
-- 定期监测生产环境中的数据漂移与模型性能衰减
-- 与业务方共享 HTML 报告讨论模型监测结果
+- 模型上线前校验生产数据与训练数据分布一致性
+- 用调度器定期监控生产环境的数据漂移
+- 生成报告供数据分析师与非数据用户讨论审计
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L35: **Eurybia** is a Python library which aims to help in :
-> L39: Eurybia addresses challenges of **industrialisation** and **maintainability** of machine learning models over time.
-> L141: To use Eurybia to monitor drift over time, you can use a scheduler to make computations automatically and periodic
+> L39: **Eurybia** is a Python library which aims to help in :
+> L40:  - **Detecting data drift and model drift**
+> L138: **Eurybia** works mainly with a binary classification model (named datadrift classifier) that tries to predict whe
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `167a953b98a4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `26224ac215f2` · [字段定义](../../DATASET.md)*

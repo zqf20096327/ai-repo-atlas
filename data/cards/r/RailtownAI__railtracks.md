@@ -2,9 +2,9 @@
 
 ⭐ 234 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RailtownAI/railtracks) · [官网](https://docs.railtracks.org/) · 组织维护
 
-**Python agent 框架：用纯 Python 组装自己的 agent 与 harness**
+**纯 Python 智能体框架：开发者自组装智能体工具调用回路**
 
-面向开发者的 Python agent 框架，将 agent harness 拆为五个可自选组装的部分：工具调用循环（agent_node/Flow）、工具面（function_node、ToolManifest、MCP 接入）、上下文管理、权限与预算控制（MaxCalls/Timeout/Retry/人审验证器），以及可回放的运行记录与本地可视化。附编码、研究、运维三类 harness 示例。无 YAML/DSL，与 asyncio 模式一致；支持 OpenAI、Anthropic、Google、Azure 等多家模型提供商，另提供 decision_node 做分类/路由决策，以及为 Claude Code 等 AI 编码助手生成配置的插件。
+Railtracks 是一个 Python agent 框架，用于构建智能体与 harness。所有组件为普通 Python 对象：工具调用回路、函数工具面、子智能体与 MCP 服务器接入、上下文管理、权限与预算控制、可回放运行记录，通过标准 Python 控制流表达执行顺序与分支循环，无 YAML/DSL。内置本地可视化器观察运行与评估，支持 decision_node 分类路由，兼容标准调试器与 IDE 补全。面向开发者，通过 pip 安装，经统一接口接入多家模型提供商。
 
 ## 筛选速览
 
@@ -13,33 +13,32 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 纯 Python 组装 agent harness，无 YAML/DSL/黑盒运行时
-- 内置权限与预算控制（MaxCalls、Timeout、Retry、人审验证器）与可回放运行记录
-- 本地运行的可视化工具，实时查看 agent 运行与评测，无需注册
-- decision_node 单次调用返回校准概率用于分类/路由/评级
+- Loop/Tool surface/Context/Controls/Record 五部件按需组装
+- 任何 Python 函数自动转换为工具，支持 MCP 协议接入
+- 本地运行的可视化器实时检查智能体运行与评估
+- decision_node 单次调用返回校准概率，用于分类/路由/评分
 
 ## 适用场景
 
-- 构建编码/研究/运维类 agent harness 并保留全部控制权
-- 为高风险工具加人工审批与审计轨迹
-- 实时查看与回放 agent 运行过程做调试
+- 构建带人工审批与审计记录的高风险工具操作智能体
+- 搭建代码编辑类 harness，文件写入前停下等待批准
+- 为检索研究型智能体配置记忆与结构化输出报告
 
 ## 场景标签
 
-`Agent 框架` `LLM 可观测性` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L26: Railtracks is a Python **agent framework** for building your own **agents and/or harness**. Every piece is an ordin
-> L38: Everything around the model call. The model brings judgment. The harness brings the loop that keeps calling it, the
-> L145: Works with **OpenAI**, **Anthropic**, **Google**, **Azure**, and more. See the full provider list.
+> L138: Railtracks integrates with major model providers through a unified interface:
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `655955fdc0a5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ebddc2ae493a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 245 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
 
-**可编程高性能模型推理引擎，用 WebAssembly inferlet 驱动推理**
+**模型推理服务引擎：以可编程 inferlet 方式驱动模型**
 
-面向开发者的推理引擎：以运行在模型旁的 WebAssembly 程序（inferlet）驱动前向传播，可用 Python、JavaScript 或 Rust 编写解码、采样、KV 缓存等逻辑，并将 epilogue 编译为 GPU kernel。模型以 Poem 语言编写，覆盖语言、视觉、图像与视频；整个系统编译为约 60 MB 单一二进制，无 Python/PyTorch 运行时，支持 CUDA、ROCm、Metal、Vulkan、XLA(TPU) 与 WebGPU。提供 pie serve 服务与 OpenAI/Anthropic/Gemini 兼容 API，可从 Hugging Face 导入模型。
+Pie 是一个模型服务系统，运行 WebAssembly 程序 inferlet，紧邻模型执行，每个 inferlet 驱动前向传播、持有状态，并把自定义 epilogue 编译为 GPU kernel，解码、采样、缓存与 agent 循环可用 Python/JavaScript/Rust 编写。模型以 Poem 语言编写，覆盖语言、视觉、图像、视频。整体发布为单个约 60 MB 二进制，不含 Python/PyTorch 运行时，支持 CUDA、ROCm、Metal、Vulkan、XLA、WebGPU 后端，并可兼容 OpenAI/Anthropic/Gemini API。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- inferlet 以 Python/JS/Rust 编写解码、采样、KV 淘汰等逻辑
-- 单一约 60 MB 二进制，无 Python/PyTorch 运行时
-- 支持 CUDA/ROCm/Metal/Vulkan/XLA(TPU)/WebGPU 多后端
-- pie serve 提供 OpenAI/Anthropic/Gemini 兼容 API
+- inferlet 以 WebAssembly 形式紧邻模型运行，解码/采样/缓存按应用编写
+- 单二进制约 60 MB，无 Python 或 PyTorch 运行时
+- 兼容 OpenAI、Anthropic、Gemini API 于同一端口
+- WorkingSet 状态句柄可 fork 与跨程序传递
 
 ## 适用场景
 
-- 为应用定制解码与采样策略并部署高性能推理服务
-- 用现有 OpenAI 兼容客户端接入本地模型服务
-- 在浏览器中通过 WebGPU 运行推理（Playground/嵌入式 server）
+- 部署本地推理服务并用 OpenAI 兼容客户端调用
+- 为应用编写自定义解码、采样与 agent 循环逻辑
+- 在浏览器 Playground 中运行推理
 
 ## 场景标签
 
-`推理引擎` `多模态` · 领域:感知与多模态
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L7: Pie runs WebAssembly programs—*inferlets*—directly next to the
-> L14: PyTorch runtime, running on CUDA, ROCm, Metal, Vulkan, XLA (TPUs), and WebGPU.
+> L12: Models are programs too, written in Poem across language, vision,
 > L68: `pie serve` also speaks the
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `67b5ec99cbce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5b5341ebf8e5` · [字段定义](../../DATASET.md)*

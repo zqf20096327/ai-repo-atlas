@@ -2,45 +2,43 @@
 
 ⭐ 258 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/AI-secure/AgentPoison) · [官网](https://billchan226.github.io/AgentPoison) · 组织维护
 
-**对 LLM Agent 做记忆/知识库后门投毒攻击的红队研究实现**
+**LLM Agent 记忆/知识库后门投毒攻击的官方研究实现**
 
-NeurIPS 2024 论文 AgentPoison 的官方 PyTorch 实现：面向科研人员，通过对 RAG 记忆/知识库注入带优化触发器的对抗文本，对 LLM Agent 实施红队攻击。核心机制是对触发器 token 做梯度优化，支持 7 种 RAG 嵌入器（BERT/DPR/ANCE/BGE/REALM/ORQA 及自定义），攻击目标覆盖 Agent-Driver、ReAct-StrategyQA、EHRAgent 三类 agent，输出 ASR-r/ASR-a/ASR-t 与良性准确率指标。通过 conda 环境从源码安装，需自行下载嵌入器检查点与数据集。
+NeurIPS 2024 论文 AgentPoison 的官方 PyTorch 实现：通过对 RAG 检索记忆/知识库注入优化后的触发片段，对三类 agent（ad/qa/ehr）进行红队评估。提供触发优化、束搜索变体、本地 agent 评测脚本与复现脚本；支持多种 RAG 嵌入器（DPR/BGE/ANCE 等）与本地/ API 目标模型，允许 CPU 或 cuda:0 执行。MIT 许可，conda 环境安装。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 触发器 token 梯度优化，支持 ppl 过滤与目标梯度引导
-- 支持 7 种 RAG 嵌入器（BERT/DPR/ANCE/BGE/REALM/ORQA/自定义）
-- 覆盖 Agent-Driver、ReAct-StrategyQA、EHRAgent 三类攻击场景
-- 可分别用 GPT-3.5 或本地 LLaMA-3 作为 planner 骨干
+- 针对 RAG 记忆/知识库后门的触发优化算法（ap/cpa）
+- 支持 BERT/DPR/ANCE/BGE/REALM/ORQA 等嵌入器及自定义嵌入器
+- 束搜索模式保留多个触发候选并记录验证与 GPU 开销
+- 提供不下载预训练模型的流水线验证脚本
 
 ## 适用场景
 
-- 红队评测 LLM Agent 的 RAG 检索投毒脆弱性
-- 复现论文中的攻击成功率与良性效用实验
-- 研究对抗触发器对自主 agent 各组件的影响
+- 研究 LLM Agent RAG 记忆投毒的攻击效果
+- 在 StrategyQA/EHR 场景复现论文的触发优化实验
+- 对 agent 记忆检索机制做红队安全测试
 
 ## 场景标签
 
-`模型评测` `RAG` `科研工具` `网络安全` · 领域:评测与运维
+`Agent 记忆` `RAG` `模型评测` `网络安全` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L1: ## AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Poisoning
 > L10: This repository provides the official PyTorch implementation of the following paper:
-> L11: > **AgentPoison: Red-teaming LLM Agents via Memory or Knowledge Base Backdoor Poisoning**
-> L57: |`--agent`|`ad`|Specify the type of agent to red-team, [`ad`, `qa`, `ehr`].|
+> L49: After setting up the configuration for the embedders, you can run trigger optimization for all three agents using t
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `76b636e39cea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `55eecfd4f76d` · [字段定义](../../DATASET.md)*

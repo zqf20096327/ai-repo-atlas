@@ -2,9 +2,9 @@
 
 ⭐ 249 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/humanbound/humanbound) · [官网](https://docs.humanbound.ai/) · 组织维护
 
-**AI agent 的对抗性测试引擎、SDK 与 CLI，可本地运行**
+**AI agent 的对抗性安全测试引擎、SDK 与 CLI**
 
-面向 AI agent 的红队测试工具：以多轮对话驱动真实端点，探测工具滥用与权限边界，并按用户声明的安全策略（scope.yaml）评分；测试发现的失败可经 hb guardrails 转换为防火墙规则，部署到 humanbound-firewall。以 pip 包提供 CLI 与 Python SDK（共享同一实现），可用 OpenAI/Anthropic/Gemini/Ollama 作为引擎 provider，支持 Ollama 完全离线运行；也可对接 Humanbound Platform 或在 Docker 中运行故意脆弱的 arena agent 练习。Apache-2.0 许可，CLI 默认发送匿名遥测，可关闭。
+面向 AI agent 的开源安全测试工具：通过多轮对话对真实端点发起 prompt injection、jailbreak、工具滥用等攻击，由 AI judge 依据安全策略逐条评分，产出 0–100 分与 A–F 等级的安全分、失败会话清单及映射到 OWASP LLM/Agentic AI Top 10 的 findings；findings 可导出为 humanbound-firewall 的防火墙规则。提供 CLI、Python SDK、GitHub Action 与 MCP server，可本地运行或连接 Humanbound Platform 使用托管攻击模型。仅可测试自有或获授权的 agent。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 多轮对话对抗测试真实 agent 端点，按 scope.yaml 安全策略评分
-- hb guardrails 将测试发现转换为可部署的防火墙规则
-- 支持 OpenAI/Anthropic/Gemini/Ollama 引擎，可经 Ollama 完全离线运行
-- CLI 与 SDK 共享同一实现，含 MCP server 入口
+- 多轮对话式攻击（prompt injection、jailbreak、工具滥用、数据泄露）并由 AI judge 逐轮评分
+- 0–100 安全分与 A–F 等级，findings 映射 OWASP LLM/Agentic AI Top 10
+- findings 可导出为防火墙策略并加载到 humanbound-firewall
+- 支持 CLI、Python SDK、GitHub Action 与 MCP server 四种使用方式
 
 ## 适用场景
 
-- 上线前对 agent 做越狱与工具滥用攻击测试
-- 把测试发现的失败项转换为防火墙规则加固 agent
-- 离线环境下用 Ollama 引擎做对抗测试
+- 上线前对自有 agent 做红队测试
+- 在每个 pull request 中检测 prompt/工具/模型变更引入的安全问题
+- 将失败 findings 转为防火墙规则在运行时拦截同类攻击
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5:  Open-source adversarial testing engine, SDK, and CLI for AI agents.
-> L31: Most testing tools test prompts. Humanbound tests **agents**: it drives
-> L34: fail, `hb guardrails` converts the findings into deployable firewall rules —
+> L24: Humanbound tests **the agent, not just the prompt**: it holds multi-turn conversations with
+> L37: - **Fits your workflow** — CLI, Python SDK, GitHub Action and an MCP server for coding agents
+> L48: - **In production** — monitor the agent continuously and catch regressions (Platform)
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d2fe8df3c821` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `60a8ce741ac8` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 238 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/faisalthaheem/open-lpr) · 个人维护
 
-**开源车牌识别系统：Django+Next.js 网页应用，CPU 本地推理**
+**对图片做车牌检测与文字识别的开源 Web 应用**
 
-Django 后端加 Next.js SPA 前端的网页应用，上传图片后检测并识别车牌：YOLOX-tiny 检测器与 PP-OCRv5 CTC 识别器默认以 ONNX Runtime 在进程内 CPU 推理，无需 GPU 与外部 API；可经 PIPELINE_BACKEND=llm 切换到 Qwen3-VL 等任意 OpenAI 兼容端点（含 LlamaCpp 容器配置）。提供拖拽上传、边界框可视化、处理历史检索、REST API、Prometheus 延迟指标与 Grafana 看板，以 Docker Compose profile 方式部署，也可 Python 3.10+ 手动安装。README 提示生产环境应使用 tagged release 而非 mainline 分支。
+Django 后端加 Next.js SPA 前端的车牌识别应用：默认在进程内以 ONNX Runtime 运行 YOLOX-tiny 检测器与 PP-OCRv5 CTC 识别器，CPU 推理、无外部 API；通过环境变量可切换到 Qwen3-VL 等 OpenAI 兼容端点的视觉语言模型后端。提供网页拖拽上传、边界框可视化、处理历史检索、REST API、Prometheus 延迟指标与 Docker Compose 部署；模型工件约 37MB，首次启动自动下载并校验，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ Django 后端加 Next.js SPA 前端的网页应用，上传图片后检测并识
 
 ## 能力要点
 
-- YOLOX-tiny + PP-OCRv5 ONNX 模型进程内 CPU 推理，~60ms/图，无需 GPU 与外部 API
-- PIPELINE_BACKEND=llm 一键切换 Qwen3-VL / OpenAI 兼容端点或 LlamaCpp 容器后端
-- 拖拽上传、边界框可视化、处理历史搜索与 REST API
-- Per-stage 与端到端延迟导出为 Prometheus 指标（0.5s 预算）
+- 进程内 YOLOX-tiny 检测 + PP-OCRv5 识别，CPU 推理约 60ms/图，无需 GPU 与外部 API
+- PIPELINE_BACKEND=llm 可切换 Qwen3-VL 等 OpenAI 兼容端点，单变量回滚
+- Docker Compose profile 化部署，含 Prometheus/Grafana 延迟监控
+- 提供 REST API 与网页端拖拽上传、边界框可视化
 
 ## 适用场景
 
-- 上传图片检测并读出车牌文字与坐标
-- 通过 REST API 做程序化车牌识别
-- 在无 GPU 服务器上以 Docker 部署本地车牌识别服务
+- 搭建自有车牌识别服务，离线处理上传图片
+- 通过 REST API 程序化调用车牌检测与 OCR
+- 在 CPU 环境下部署无需 GPU 的识别管线
 
 ## 场景标签
 
-`目标检测` `OCR` · 领域:感知与多模态
+`OCR` `目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `550768265b80` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b0b698316fe7` · [字段定义](../../DATASET.md)*

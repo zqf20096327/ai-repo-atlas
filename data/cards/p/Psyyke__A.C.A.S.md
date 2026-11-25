@@ -2,9 +2,9 @@
 
 ⭐ 193 · JavaScript · GPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/Psyyke/A.C.A.S) · [官网](https://psyyke.github.io) · 个人维护
 
-**浏览器国际象棋辅助系统：多引擎实时给出走子建议**
+**给棋类玩家提供实时走法建议的浏览器棋类助手**
 
-以用户脚本（userscript）形式安装的开源国际象棋辅助工具，支持 Chess.com、Lichess.org、Pychess.org 等站点。内置多个 WebAssembly 引擎（Stockfish、Fairy Stockfish、ZeroFish、Maia 等），也支持经本地服务器接入外部引擎；通过跨窗口通信在独立标签页运行引擎并将走子建议、箭头、对手预测等渲染到对局页面。引擎在独立标签页运行，与对局页面隔离。README 声明仍处于开发阶段、变体模式可能有 bug，并警告使用可能违反平台规则导致封禁。
+以用户脚本形式运行的开放源代码国际象棋助手，无需下载安装，支持 chess.com、lichess.org、Pychess.org 等棋类网站。引擎在与棋局页面隔离的独立浏览器标签页中运行，通过跨窗口通信向页面脚本传输走法数据并渲染在棋盘上。内置多个 WebAssembly 引擎，支持修改 UCI 参数、多引擎配置、变体棋类、30+ 种语言界面，并声明可能违反平台规则导致封禁。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 内置多个 WebAssembly 引擎（Stockfish/Fairy Stockfish/ZeroFish/Maia 等）
-- 支持外部引擎（经可安装的 localhost 服务器）
-- 跨窗口通信隔离运行引擎，避免对局页面干扰
-- 支持 Chess.com、Lichess 等主流站点及 Chess960 等变体
+- 内置多个 WebAssembly 引擎（Stockfish/Fairy Stockfish/Lozza/ZeroFish）
+- 引擎运行在独立标签页，与棋局页面跨窗口通信
+- 支持 UCI 选项调整（ELO、depth、multiPV、skill）
+- 覆盖变体棋类（chess960、Fairy Stockfish 变体）与 30+ 语言
 
 ## 适用场景
 
-- 在对弈网站获得实时的走子建议与对手预测
-- 作为学习工具分析盘面安全区与争夺格
-- 调整 UCI 参数（ELO、深度、multiPV）控制建议强度
+- 在支持的在线棋站上获取实时走法建议
+- 作为实时学习工具复盘自己的走法
+- 在变体棋类（如 chess960）中使用引擎辅助
 
 ## 场景标签
 
- · 领域:游戏辅助/棋类工具
+ · 领域:游戏/棋类工具
 
 ## 证据(README 行号)
 
 > L8: A.C.A.S (Advanced Chess Assistance System) is an open-source chess assistant (**not a chess cheat**), designed to he
 > L18: * Many built in WebAssembly engines (faster than JS)
+> L82:  The engine runs in a completely separate tab from the chess game, keeping it fully isolated from the game page. Th
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3acca76f02c9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b189b8d850ec` · [字段定义](../../DATASET.md)*

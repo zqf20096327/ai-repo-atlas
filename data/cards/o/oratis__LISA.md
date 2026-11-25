@@ -1,10 +1,10 @@
 # oratis/LISA
 
-⭐ 228 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oratis/LISA) · [官网](https://meetlisa.ai) · 组织维护 · 中文 README
+⭐ 228 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oratis/LISA) · [官网](https://meetlisa.ai) · 组织维护
 
-**开源 AI 个人助手：规划、写作与个人知识管理，可本地或云端运行**
+**开源 AI 个人助手：规划、写作与个人知识管理**
 
-面向个人用户的 AI 助手，覆盖日程规划、写作起草、个人知识库（链接收藏、文章与视频转录摄入、订阅摘要）以及编码 agent（Claude Code、Codex、OpenCode、Aider）的观察与调度。提供 Mac 应用、CLI/自托管 Web 与 LISA Cloud 三种运行方式，Cloud 与 Mac 为隔离实例。机制上以文件持久化身份与记忆（SOUL/DESIRES/HEARTBEAT），Warden 提供可选的审批与审计；托管任务默认关闭。支持 Anthropic、OpenAI、Gemini 及本地模型（Ollama/LM Studio）。
+面向个人用户的 AI 助手，提供日程规划、写作草稿、个人知识库（链接保存、文章/视频转录摄入、wiki 检索）与编码 agent 协调等能力。运行入口包括 Mac 应用（dmg 安装包）、CLI/自托管 Web（需 Node 22.19+ 与模型密钥）、LISA Cloud 托管聊天与 iOS 应用。支持文件化持久身份与记忆、22 个只读本地数据源连接器、Warden 审批机制与目标/例程等自主任务功能。Cloud 与本地为独立实例，数据不自动同步。
 
 ## 筛选速览
 
@@ -13,33 +13,34 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 文件持久化的身份、记忆与反思机制（SOUL/DESIRES/HEARTBEAT/REVE）
-- Warden 确定性动作审批、授权范围与审计记录（Web 聊天需显式开启）
-- 观察与调度 Claude Code、Codex、OpenCode、Aider 编码 agent 会话
-- Mac 应用、CLI/自托管 Web 与 LISA Cloud 三种运行入口
+- 四种运行入口：Mac 应用、CLI/自托管 Web、Cloud、iOS
+- 文件化持久身份/记忆机制（SOUL/DESIRES/HEARTBEAT/RÊVE）
+- 22 个只读本地连接器（文档、任务、日历、邮件、设计工具）
+- Control/Fleet 跨 Mac 协调 Claude Code、Codex、OpenCode、Aider 会话
 
 ## 适用场景
 
-- 日常规划、写作起草并沉淀个人知识库
-- 在 Mac 上统一观察和调度多个编码 agent
-- 自托管部署并自选模型（含本地 Ollama/LM Studio）
-- 通过 Telegram/Discord/Slack/飞书等渠道连接本地工作流
+- 在 Mac 上用自有模型密钥运行个人 AI 助手
+- 保存链接与文章构建可检索的个人知识库
+- 在多台 Mac 间启动并审查编码 agent 任务
+- 通过 Discord/飞书等渠道接入助手对话
 
 ## 场景标签
 
-`AI 助手` `知识库管理` `AI 写作` · 领域:对话与助手
+`编码 Agent` `AI 助手` `知识库管理` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L12: **An open-source AI Personal Assistant for planning, writing and personal knowledge.** Plan a day, draft a message,
-> L52: - **Start with everyday work.** Planning, writing and idea starters open editable drafts. Chat supports streaming r
+> L14: **An open-source AI Personal Assistant for planning, writing and personal knowledge.** Plan a day, draft a message,
+> L54: Anthropic, OpenAI, Gemini, OpenAI-compatible services and local models are supported. See providers for keys, model
+> L61: - **Coordinate coding agents across Macs.** Control observes supported Claude Code, Codex, OpenCode and Aider sessi
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4d0c9f60e8c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9f2f010e8bd8` · [字段定义](../../DATASET.md)*

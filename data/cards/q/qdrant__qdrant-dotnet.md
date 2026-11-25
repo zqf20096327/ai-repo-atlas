@@ -2,9 +2,9 @@
 
 ⭐ 232 · C# · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/qdrant/qdrant-dotnet) · 组织维护
 
-**Qdrant 向量数据库的官方 .NET SDK**
+**面向 .NET 开发者的 Qdrant 向量数据库客户端 SDK**
 
-由 Qdrant 组织维护的 .NET 客户端库，以 NuGet 包 Qdrant.Client 分发，通过底层 gRPC 客户端连接 Qdrant 服务（默认 localhost:6334）。高层 API 覆盖集合创建、向量插入、相似度检索与带过滤条件的检索；支持 TLS 证书指纹校验与 API key 认证，自动附加 qdrant-dotnet 版本号的 User-Agent。对 .NET Framework 有 gRPC over HTTP/2 的限制说明，需配置 TLS 与 WinHttpHandler。
+Qdrant 官方的 .NET 客户端库，以 NuGet 包 Qdrant.Client 发布，通过 dotnet CLI 安装。高层客户端内部使用 gRPC 与 Qdrant 服务端通信，默认连接 localhost:6334，支持 TLS、证书指纹校验与 API key 认证配置；提供集合创建、向量插入、相似向量检索与条件过滤查询等接口，并通过 User-Agent 标识客户端版本。使用示例见 Qdrant 文档；.NET Framework 下 gRPC over HTTP/2 支持受限，需启用 TLS 并配置 WinHttpHandler。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 高层 QdrantClient 封装 gRPC 通道，支持 TLS 与 API key 认证
-- 覆盖集合创建、向量插入、相似度检索与过滤检索
-- 自动在请求中附加 qdrant-dotnet/<version> User-Agent
-- 针对 .NET Framework 的 WinHttpHandler 配置说明
+- 以 NuGet 包 Qdrant.Client 发布，dotnet add package 安装
+- 基于 gRPC 的高层客户端，支持 TLS 与 API key 认证
+- 提供集合创建、向量插入、相似检索与条件过滤接口
+- 请求中自动添加 qdrant-dotnet/<version> User-Agent 标识
 
 ## 适用场景
 
-- 在 .NET 项目中连接并操作 Qdrant 向量数据库
-- 为 .NET 应用添加向量相似度检索能力
-- 需要 TLS 与 API key 认证的安全连接场景
+- 在 .NET 应用中读写 Qdrant 向量集合
+- 构建基于向量相似度检索的应用
+- 需要 TLS 与 API key 连接 Qdrant 服务的场景
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L1: # Qdrant .NET SDK
-> L9: dotnet add package Qdrant.Client
 > L28: Internally, the high level client uses a low level gRPC client to interact with Qdrant.
+> L6: ## 📥 Installation
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `db909571a2a5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fe098bf7ac62` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 194 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ARPAHLS/skillware) · [官网](http://skillware.site) · 组织维护
 
-**给 AI agent 安装模块化技能包的 Python 框架与注册表**
+**为 AI agent 安装模块化技能的 Python 框架与注册表**
 
-Skillware 是一个开源 Python 框架与技能注册表，把 agent 能力打包为自包含的 Skill 束（含 Contract 安全边界与类型化 I/O、可执行 Python 的 Effect、系统指令 Directive、离线测试 Assurance、标准化工具 Interface），由 SkillLoader 加载并适配到 Gemini、Claude、OpenAI、Ollama 等 OpenAI 兼容宿主。内置 12 个类别共约 27 个捆绑技能，经 pip 安装，每技能有独立 pip extra；要求 Python 3.10+。作者自述与 MCP、Agent Skills（SKILL.md）在模型无关、代码优先、运行时聚焦上有差异。
+Skillware 将 agent 能力打包为自包含 Skill（代码、契约、宿主指令、离线测试），加载后适配到 Gemini/Claude/OpenAI/Ollama 等 OpenAI 兼容宿主的工具格式，应用自身运行 agent 循环。通过 SkillContext 的渐进式披露在运行时按需挂载技能说明，并内置凭据隔离、AST 审计等安全机制。以 Python 库形式发布到 PyPI，附 CLI、文档与各分类技能的 pip extras。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Skillware 是一个开源 Python 框架与技能注册表，把 agent 能力打�
 
 ## 能力要点
 
-- Skill 束五要素：Contract/Effect/Directive/Assurance/Interface
-- SkillLoader 将技能适配为 Gemini/Claude/OpenAI/Ollama 工具格式
-- 内置 12 类捆绑技能（数据工程、合规、DeFi、办公等），每技能有 pip extra
-- 提供 CLI（skillware list/paths/config）与技能链（SkillContext chains）
+- Skill 含契约/Effect 代码/指令/保障测试/接口五部分，版本化软件模块形式
+- 适配 Gemini、Claude、OpenAI、Ollama 及 OpenAI 兼容宿主
+- JIT 渐进式披露按需挂载技能说明以减少提示词冗余
+- CLI 提供 list/paths/config/doctor 等命令，技能按分类以 pip extras 安装
 
 ## 适用场景
 
-- 为我的 Gemini/Claude/Ollama agent 附加 Gmail 等可执行技能
-- 以标准化工具 schema 方式管理 agent 能力而非反复写提示词
-- 在多个 LLM 宿主间复用同一套技能包
+- 为自建 agent 应用接入可复用的领域技能包
+- 在多个模型宿主间复用同一套工具能力定义
+- 需要确定性、可审计工具执行的企业工作流
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ Skillware 是一个开源 Python 框架与技能注册表，把 agent 能力打�
 
 ## 证据(README 行号)
 
-> L23: **Skillware** is an open-source framework and registry for modular, actionable Agent capabilities. It installs know
-> L29: Every new agent stack tends to reinvent tool schemas, system prompts, and safety rules. **Skillware** packages each
-> L53: Install the registry once. Skillware loads a bundle, adapts it to your host's tool format, and your app runs the ag
+> L24: **Skillware** is an open-source framework and registry for modular, actionable Agent capabilities. It installs know
+> L30: Every new agent stack tends to reinvent tool schemas, system prompts, and safety rules. **Skillware** packages each
+> L50:     Registry[Registry] -->|Load| Loader[Loader]
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0dd08af48895` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ba1fbff60b2e` · [字段定义](../../DATASET.md)*

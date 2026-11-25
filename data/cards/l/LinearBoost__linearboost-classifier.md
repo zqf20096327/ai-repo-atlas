@@ -1,10 +1,10 @@
 # LinearBoost/linearboost-classifier
 
-⭐ 230 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LinearBoost/linearboost-classifier) · 组织维护
+⭐ 230 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LinearBoost/linearboost-classifier) · 个人维护
 
-**基于线性分类器 SEFR 的 boosting 分类算法库**
+**基于 SEFR 线性分类器的快速 boosting 分类 Python 库**
 
-Python 实现的机器学习分类算法包：LinearBoost 在线性分类器 SEFR 之上做 AdaBoost（SAMME/SAMME.R）或梯度提升，支持线性/多项式/RBF/Sigmoid 核及 RFF、Nyström 核近似，提供类权重、子采样、shrinkage、早停与 F1 导向的不平衡数据加权机制；v0.2.0 新增 SEFRBoostClassifier/Regressor（树节点内嵌 SEFR 线性分裂的梯度提升）。两个类遵循 Scikit-learn 估计器规范，可入 pipeline 与网格搜索。供需要在 sklearn 工作流中使用快速分类器的开发者使用。
+提供 LinearBoostClassifier 与 SEFRBoost 分类/回归估计器：以线性分类器 SEFR 为基学习器，按 AdaBoost（SAMME/SAMME.R）或梯度提升方式顺序训练，支持 rbf/poly/sigmoid 核及 RFF/Nyström 核近似以降低大样本内存开销。提供类别加权、自定义损失、子采样、shrinkage 与早停，接口遵循 scikit-learn 估计器约定，可用于 pipeline 与网格搜索。以 PyPI 包发布，含 Jupyter 演示 notebook 与 readthedocs 文档；类别变量、回归（LinearBoostRegressor）与多输出暂不支持。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Python 实现的机器学习分类算法包：LinearBoost 在线性分类器 SEF
 
 ## 能力要点
 
-- LinearBoostClassifier 支持 AdaBoost 与梯度提升两种模式
-- 四种核及 RFF/Nyström 近似（线性时间复杂度）
-- SEFRBoost：树节点用 SEFR 超平面分裂的斜切 GBDT 变体
-- 完全遵循 Scikit-learn 估计器规范，可用于 pipeline 与网格搜索
+- 以 SEFR 线性分类器为基学习器的 AdaBoost/梯度提升实现
+- 支持 RFF 与 Nyström 核近似，实现线性时间复杂度
+- 遵循 scikit-learn 估计器 API，可接入 pipeline 与网格搜索
+- 内置类别加权、F1 优先加权与早停机制
 
 ## 适用场景
 
-- 在 sklearn 工作流中训练 boosting 分类器
-- 低内存占用场景下处理大规模数据的非线性分类
-- 不平衡数据集上做以 F1 为导向的分类
+- 对表格数据做快速分类建模
+- 在不平衡数据集上以 F1 为导向训练分类器
+- 大样本场景下用核近似替代完整核矩阵训练非线性分类器
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ Python 实现的机器学习分类算法包：LinearBoost 在线性分类器 SEF
 
 ## 证据(README 行号)
 
-> L20: - Train `LinearBoostClassifier`
-> L48: from linearboost import SEFRBoostClassifier, SEFRBoostRegressor
+> L27: LinearBoost is a boosting classifier built on the linear classifier SEFR: it trains SEFR classifiers in sequence wi
+> L178: - Both SEFR and LinearBoostClassifier classes are refactored to fully adhere to Scikit-learn's conventions and API
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `15e05bf47b14` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a459834d9d29` · [字段定义](../../DATASET.md)*

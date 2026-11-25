@@ -2,9 +2,9 @@
 
 ⭐ 204 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nikolai-vysotskyi/trace-mcp) · [官网](https://trace-mcp.com) · 个人维护
 
-**为 AI 编码 agent 提供代码库依赖图索引的 MCP 服务器**
+**给 AI 编码代理的代码索引 MCP 服务器，减少上下文 token 消耗**
 
-trace-mcp 对代码库一次性构建跨语言、框架感知的依赖图，通过 MCP 协议向编码 agent 提供预计算的结构查询（变更影响、请求流、测试覆盖、决策记录等 182 个工具），声称评审单个 PR 的输入 token 从 13,595 降至 3,291（60 个合并 PR 中位数）。同一引擎可索引 Obsidian/Logseq/Markdown 笔记库为图。代码留在本地。提供 npm 安装的 CLI/MCP 服务器与可选 Electron 桌面应用（macOS .dmg、Windows .exe），桌面端含 GPU 图可视化与一键接入多种 MCP 客户端。
+MCP 服务器形态的代码智能工具：对代码库一次性构建跨语言依赖图并增量更新，通过 MCP 暴露 182 个工具供 Claude Code、Cursor 等代理查询，替代反复读文件的上下文消耗。支持 81 种语言、91 个框架集成，提供变更影响分析、决策记录检索、跨会话记忆与 Markdown 知识库（Obsidian/Logseq）同图索引；另附可选 Electron 桌面应用，含 GPU 图谱浏览器与 MCP 客户端一键接入。代码保持在本地运行，MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ trace-mcp 对代码库一次性构建跨语言、框架感知的依赖图，通�
 
 ## 能力要点
 
-- 跨语言依赖图 + 88 个框架集成、81 种语言、182 个工具
-- 通过 MCP 服务预计算结构，减少 agent 重复读文件（自称 72.7% token 减少）
-- 同一引擎索引 Markdown 知识库（wikilink/标签/嵌入转为图边）
-- 可选 Electron 桌面应用：GPU 图浏览器 + 一键接入 MCP 客户端
+- 构建框架感知的跨语言依赖图，经 MCP 提供 182 个工具
+- 官方基准：60 个 PR 中位输入 token 从 13,595 降至 3,291
+- 决策知识图谱与代码符号关联，支持跨会话恢复上下文
+- 可选 Electron 桌面应用，GPU 图谱浏览器与多客户端一键接线
 
 ## 适用场景
 
-- 让 Claude Code/Cursor 等 agent 用一次工具调用回答变更影响分析
-- 大型代码库中降低编码 agent 的 token 消耗与延迟
-- 把代码依赖与 Obsidian 笔记知识库放进同一图做关联查询
+- 让编码代理审查 PR 时减少重复读文件和 token 开销
+- 查询修改某个模型/符号会影响哪些文件与服务
+- 把 Obsidian/Logseq 笔记与代码放进同一个图谱查询
+- 在桌面端可视化浏览大型代码库的依赖结构
 
 ## 场景标签
 
-`知识图谱` · 领域:知识与检索
+`编码 Agent` `知识图谱` `知识库管理` · 领域:编码与开发
 
 ## 证据(README 行号)
 
+> L17: npm install -g trace-mcp   # MCP server, no app
 > L81: trace-mcp builds a **cross-language dependency graph** from your source code and exposes it through the Model Conte
-> L115: The app talks to the same `trace-mcp` daemon (`http://127.0.0.1:3741`) that MCP clients use, so anything you index
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `5ab7c1c4f76f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d9fae508287f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 204 · Go · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/liaisonio/liaison) · [官网](https://liaison.cloud) · 组织维护 · 中文 README
 
-**自托管访问网关：安全接入私有应用、本地 LLM 与 AI agent**
+**自托管私有应用与本地 LLM/Agent 的安全访问网关**
 
-自托管的私有服务访问平台：通过仅出站连接器接入内网设备，在浏览器中提供终端、远程桌面、数据库与缓存等工作区（SSH/RDP/VNC/MySQL/MongoDB 等）。LLM 层面支持 OpenAI 兼容、Anthropic Messages 与 Ollama 上游协议，可共享本地模型并按模型、Token 配额管理 API key；支持在浏览器中使用 Codex 与 Claude Code agent 会话，内置可配置 8 种模型预设的 Agent 辅助终端与数据库查询。以 Docker bundle（Docker 20.10+）在 Linux 服务器部署，AGPLv3 许可，由 liaisonio 维护。
+运行在自有 Linux 服务器上的自托管控制平面，通过仅出站连接器访问内网服务，无需在被访问设备上开放入站端口。功能覆盖本地 LLM 的认证 API 共享（带 key 作用域、Token 配额、用量追踪）、浏览器内使用 Codex 与 Claude Code（可恢复会话、权限提示）、code-server 浏览器 IDE、Web SSH/RDP/VNC、多数据库浏览器工作区，以及可检查终端输出、起草命令、按权限查询数据库并需审批的内置 Agent。采用 AGPLv3 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 仅出站连接器接入私有设备，无需开放入站端口
-- 本地 LLM 共享：API key 作用域、Token 配额与用量跟踪，支持 OpenAI 兼容/Anthropic/Ollama 上游
-- 浏览器中使用 Codex 与 Claude Code，会话可恢复、带权限提示
-- 浏览器工作区覆盖 SSH、RDP、VNC、多种 SQL/NoSQL 数据库与 S3 浏览
+- 仅出站连接器接入私有设备，无需开入站端口
+- 本地 LLM 经认证 API 共享，支持 key 作用域、Token 配额与用量追踪
+- 浏览器内使用 Codex 与 Claude Code，会话可恢复并带权限提示
+- 支持 SSH/SFTP、RDP/VNC、多协议数据库等浏览器工作区
 
 ## 适用场景
 
-- 在自有服务器上集中管理对内网应用与本地模型的访问
-- 通过浏览器终端和远程桌面操作私有设备，全程审计
-- 给团队分发受限的 LLM API key 并跟踪用量
+- 在浏览器安全访问内网的 SSH、远程桌面与数据库
+- 把本地模型以受控 API 分享给团队并管理配额
+- 远程使用 Codex/Claude Code 操作自己的设备
+- 不暴露内网的前提下继续使用内部 AI 助手
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`模型网关` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: > **Self-hosted access to private apps, LLMs, and AI agents.**
 > L25: - 🤖 **Local LLM access** — Share local models through authenticated APIs and a browser Playground.
-> L64:  LLM upstream protocols OpenAI-compatible &nbsp;&nbsp; Anthropic Messages&nbsp;&nbsp; Ollama
+> L26: - 🔑 **Controlled API sharing** — Scope keys to models, set Token quotas, revoke access, and track usage.
+> L65:  LLM upstream protocols OpenAI-compatible &nbsp;&nbsp; Anthropic Messages&nbsp;&nbsp; Ollama
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f3df75ed89a1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `db757ec21258` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 196 · Shell · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/modelsphere/modelsphere) · [官网](https://modelsphere.tech) · 组织维护 · 中文 README
 
-**面向生产环境的 LLM 推理平台，Kubernetes 上部署与调度多后端模型服务**
+**生产级 LLM 推理基础设施，多加速器统一部署与服务**
 
-基于 Kubernetes 的开源 LLM 推理基础设施：通过 helm/helmfile 安装整套栈，以 OpenResty 路由层暴露 OpenAI 兼容接口，支持 SGLang 与 vLLM 等推理引擎及 NVIDIA GPU、华为昇腾等多种加速器。组件包括会话亲和与缓存感知路由、基于 KV-cache 压力等 LLM 信号的自动扩缩容、按 TTFT 等指标动态限流、in-flight 请求跨 Pod 恢复，以及带 GUI 控制台的社区门户。Workload 驱动的 AutoTune 处于预览版。
+开源 LLM 推理平台，以 Kubernetes 为主的部署形态，通过 Helm chart 安装整套组件：会话亲和路由（llm-openresty）、前缀缓存感知路由（CART）、基于 KV 缓存压力与队列深度的自动扩缩（llm-operator）、SLO 驱动的副本决策、hang-watcher 自愈、请求级日志与 Prometheus 指标，以及带登录与角色管理的 console 门户。支持 Prefill/Decode 分离与统一 KV 缓存池，覆盖 NVIDIA GPU、华为昇腾等多类加速器，另提供无 Kubernetes 的 Docker 部署路径与离线安装文档。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- NVIDIA/华为昇腾等异构加速器与 SGLang、vLLM 引擎的统一服务栈
-- 基于 KV-cache 压力与队列深度的推理副本自动扩缩容
-- 按 TTFT/输出速度等服务质量指标动态限流
-- serving pod 故障时 in-flight 请求迁移续生成
+- Prefill/Decode 分离架构与统一 L3 KV 缓存池
+- 基于 TTFT/输出速度的质量感知动态限流
+- Pod 故障时中断点续传的 In-Flight Generation Recovery
+- 覆盖 NVIDIA GPU、华为昇腾、Iluvatar CoreX 等异构加速器
 
 ## 适用场景
 
-- 在 Kubernetes 集群上以生产配置部署 LLM 推理服务
-- 多模型多副本场景下做路由、限流与自动扩缩容
-- 新模型发布后快速获得性能调优过的部署配置
+- 在 Kubernetes 集群上部署和管理多模型 LLM 服务
+- 多团队共享 GPU 集群时按优先级调度推理资源
+- 昇腾等国产加速器上的离线环境模型部署
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L13: ModelSphere is an open-source LLM inference platform designed to make production-grade model serving simple, effici
 > L23: - **Broad Heterogeneous Accelerator Support.** Provides a unified serving stack across NVIDIA GPUs, Huawei Ascend, 
+> L98: |llm-operator|Autoscales inference workloads on LLM-specific signals (KV-cache pressure, queue depth)|llm-operator|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `689c556399fe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a6a0a044245d` · [字段定义](../../DATASET.md)*

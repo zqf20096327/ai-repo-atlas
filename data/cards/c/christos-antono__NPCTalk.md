@@ -2,9 +2,9 @@
 
 ⭐ 233 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/christos-antono/NPCTalk) · [官网](https://patch.gg) · 个人维护
 
-**让 AI 编程 agent 为任意游戏接入可对话 NPC 的技能与语音服务工具包**
+**让游戏 NPC 用克隆语音实时对话的 agent 工具包**
 
-面向 AI 编程 agent（Claude Code、Codex、Cursor、Gemini CLI、Copilot、OpenCode）的技能包与工具集，用于在单机游戏中搭建可用麦克风对话、以克隆语音实时回话并执行指令的 NPC。含 8 个 Agent Skills 格式技能、npctalk CLI、可自托管的 Fish Audio Drama 3 / S2 Pro 语音服务器（部署于 Modal 或 fal），以及完整的 GTA V 示例 mod（19 个角色、4 个游戏钩子）。依赖外部付费服务（fal、Modal、Cerebras、TypeSafe），需 Git、Python 3.10+、uv、ffmpeg；GTA V 示例需 Windows 与 .NET SDK 8+。规则上仅限单机或自建服务器，不绕过反作弊，且仅使用有版权许可的录音。MIT 许可。
+面向 AI 编码 agent 的工具包：提供 8 个 Agent Skills 格式的技能、npctalk CLI、部署在 Modal/fal 上的 Fish Audio Drama 3/S2 Pro 自托管语音服务器，以及 fal MCP 服务器；agent 按固定循环在游戏中接入四个钩子，实现玩家说话→语音识别→角色内生成台词→克隆语音播报→NPC 执行动作。附完整 GTA V 示例模组（19 个角色）与字段笔记；付费依赖 fal、Modal、Cerebras 等，GTA V 示例需 Windows、.NET SDK 8+。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 8 个 Agent Skills 覆盖语音服务器、语音克隆参考、对话人设、动作、语音输入与相似度评测
-- npctalk CLI 提供 health/say/voice make/upload/check 命令
-- Fish Audio Drama 3 与 S2 Pro 的自托管语音服务器（Modal/fal，含 LoRA 微调）
-- 完整 GTA V 示例：开放麦克风、任意 NPC、19 个角色与 4 个游戏钩子
+- 8 个 Agent Skills 格式技能覆盖语音服务器、台词生成、动作、语音评测等环节
+- npctalk CLI 提供 health/say/voice make/upload/check 等命令
+- 自托管语音服务器：Fish Audio Drama 3/S2 Pro 部署于 Modal，支持 keep-warm 与 LoRA 微调
+- 语音相似度评测技能：对留出真实片段测 speaker similarity 与词错率
 
 ## 适用场景
 
-- 用 AI 编程 agent 在 GTA V 中实现对着麦克风与任意 NPC 语音对话
-- 将可对话 NPC 的四个钩子移植到 Unity、Unreal、Bethesda、Minecraft 等其他游戏
-- 克隆有声线权限的录音并用相似度指标验证效果
+- 让 GTA V 里任何 NPC 用角色克隆语音与玩家对话
+- 为自己拥有的 Unity/Unreal/Minecraft 游戏接入 NPC 语音对话
+- 用 agent 从有权利的录音制作克隆语音并量化其相似度
 
 ## 场景标签
 
-`语音合成` `语音 Agent` · 领域:对话与助手
+`语音 Agent` `语音合成` `模型评测` `微调` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L7:  Skills, a self-hosted voice server and tools that let an AI coding agent wire it up: the player speaks, the NPC
-> L27: |Agent|Install|
+> L25: Pick your agent. Each gets the same skills (Agent Skills format), the fal MCP server and the `npctalk` CLI.
+> L82:  The repo: AI coding agents install it through plugin manifests, AGENTS.md and the fal MCP. Inside: 8 skills (how a
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7813d7492b27` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `390a583e6fb9` · [字段定义](../../DATASET.md)*

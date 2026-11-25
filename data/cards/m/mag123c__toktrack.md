@@ -2,9 +2,9 @@
 
 ⭐ 196 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mag123c/toktrack) · [官网](https://www.npmjs.com/package/toktrack) · 个人维护
 
-**多款 AI 编程 CLI 的 token 用量与费用追踪工具**
+**追踪多种 AI 编码 CLI 的 token 用量与成本的工具**
 
-Rust 编写的 CLI/TUI 工具，读取 Claude Code、GitHub Copilot CLI、Codex CLI、Gemini CLI、Qwen Code、OpenCode、PI Agent、Antigravity、Grok CLI 等 9 种 AI 编程 CLI 的本地会话文件，汇总 token 与费用到统一仪表盘（5 个标签页）。关键机制是持久化缓存：各来源的历史日期摘要写入 ~/.toktrack 缓存且不可变，即使 CLI 自身（如 Claude Code 默认 30 天）删除原始会话文件，成本历史仍保留；无自带价格的来源按 LiteLLM 价格表估算并以 ~ 标注。支持 npx、Homebrew、cargo 及预编译二进制安装，可经 SSH/rsync 同步远程 Codex 会话。
+用 Rust 编写的 CLI/TUI 工具，读取 Claude Code、Codex CLI、Gemini CLI 等 9 种 AI 编码 CLI 的本地会话文件，聚合展示 token 与成本数据。通过持久化缓存保存每日用量摘要，原始会话文件被 CLI 按保留策略（如 Claude Code 默认 30 天）删除后历史仍可查询；提供 daily/weekly/monthly/stats/report/audit/remote 等命令与 JSON 输出，支持 SSH 远程 Codex 日志同步、shell 提示符集成与自定义定价。安装提供 npx、Homebrew、cargo 与预编译二进制四种途径。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Rust 编写的 CLI/TUI 工具，读取 Claude Code、GitHub Copilot CLI、Codex 
 
 ## 能力要点
 
-- 9 种 AI 编程 CLI 的统一用量/费用仪表盘（TUI + CLI 命令）
-- 持久化缓存保留被 CLI 删除的历史数据，含 audit 视图核对 live/cache-only/missing
-- simd-json + rayon 并行解析，冷启动 ~1.0s、缓存查询 ~0.04s
-- 支持远程 Codex 会话经 SSH/rsync 同步解析
+- 支持 9 种 AI 编码 CLI 的统一用量仪表盘（TUI 5 个标签页）
+- 持久化缓存保留成本历史，缓存查询约 0.04 秒
+- toktrack audit 逐源逐日标记 live/cache-only/missing 数据状态
+- 成本无记录的来源按 LiteLLM 列表价估算并带 ~ 标记，支持离线定价快照
 
 ## 适用场景
 
-- 查看我在各 AI 编程 CLI 上每天/每月的 token 花费
-- Claude Code 删除旧会话后仍保留完整成本历史
-- 在终端提示符中实时显示当日 AI 支出
-- 生成可分享的用量报告（文本/SVG）
+- 查看我在多个 AI 编码 CLI 上的总 token 花费
+- 防止 Claude Code 30 天清理后丢失历史成本数据
+- 按项目拆分统计各仓库的 AI 用量
+- 在 shell 提示符里显示当天 AI 支出
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+ · 领域:开发者工具/用量与成本监控
 
 ## 证据(README 行号)
 
+> L11: **The token & cost tracker that never loses your history.** Most tools re-read your CLI's session files on every ru
 > L13: Track usage across **all your AI coding CLIs** — Claude Code, GitHub Copilot CLI, Codex CLI, Gemini CLI, Qwen Code,
-> L29: - **TUI Dashboard** — 5 tabs (Overview, Stats, Models, Projects, Audit) with daily/weekly/monthly views
+> L171: |CLI|Status|Data Location|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c54a68608e58` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `be7db3ac8274` · [字段定义](../../DATASET.md)*

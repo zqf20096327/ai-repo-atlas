@@ -2,9 +2,9 @@
 
 ⭐ 240 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/developeryj1992/ai-trend-studio) · 个人维护 · 中文 README
 
-**本地优先的 AI 趋势雷达与直播内容结构化摘要工具**
+**本地优先的 AI 热点雷达与直播内容结构化笔记工具**
 
-运行在本机的 Python 应用：采集抖音、B 站、微博、知乎的公开热点与直播房间元数据，按 AI 关键词过滤，将视频描述、字幕、评论或笔记蒸馏为要点，支持多发言人直播记录与结构化简报（结论/行动/风险）。默认内置中文抽取式摘要器，离线无需 API key，可选配置任意 OpenAI 兼容端点生成更高质量摘要。仅用 Python 标准库，无运行时依赖，数据存于本地 JSON 文件；明确不做验证码破解或受保护内容下载。
+面向关注 AI 动态的个人用户：从抖音、B 站、微博、知乎等公开接口采集热点信号，按关键词过滤，将视频简介、字幕（SRT/VTT）、评论、笔记等文本蒸馏为要点；支持直播中按发言人记录会话并生成含结论、行动项与风险的结构化简报。内置无 API key 的中文抽取式摘要器，可选配置任意 OpenAI 兼容 /chat/completions 端点获得模型摘要。仅依赖 Python 3.10+ 标准库，数据存于本地单个 JSON 文件。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 抖音/B站/微博/知乎公开热点采集与 AI 关键词过滤
-- 内置离线中文抽取式摘要器，无需 API key
-- 多发言人直播记录与结构化简报（结论/行动/风险）
-- 纯标准库实现，无 Python 运行时依赖，数据存本地 JSON
+- 内置无 API key 的中文抽取式摘要器，离线可用
+- 配置任意 OpenAI 兼容 /chat/completions 端点生成模型摘要
+- 直播会话按发言人记录，支持语音/字幕/评论/洞察事件类型
+- 零 Python 依赖，数据存本地 data/db.json，API key 不进导出
 
 ## 适用场景
 
-- 追踪各平台上受关注的 AI 产品、模型与用例
-- 把视频或直播内容整理成要点和结构化简报再分享给团队
-- 在不上传原始资料到云端的前提下维护私人研究笔记
+- 追踪 AI 产品、模型与用例的热度变化
+- 把视频蒸馏成要点后再分享给团队
+- 将课程、 webinar 或多人直播记录为结构化笔记
+- 不把每个来源上传云服务的情况下保留私人研究日志
 
 ## 场景标签
 
-`知识库管理` `网页抓取` `AI 写作` · 领域:效率与自动化
+`知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L10: AI Trend Studio collects public hot-topic signals, distills video and note content, and turns live sessions into st
-> L33: - **Offline-first:** A built-in Chinese extractive summarizer runs without an API key.
+> L33: - **Structured summaries:** Core conclusion, key points, action items, risks, keywords, and stats.
+> L36: - **Model-agnostic:** Configure any OpenAI-compatible `/chat/completions` endpoint.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `b3f8874fdae7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b9fd6e274eed` · [字段定义](../../DATASET.md)*

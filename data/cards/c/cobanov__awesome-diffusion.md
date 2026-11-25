@@ -2,9 +2,9 @@
 
 ⭐ 220 · MIT · 推送 2026-11-14 · [GitHub](https://github.com/cobanov/awesome-diffusion) · 个人维护
 
-**扩散模型资源策展清单：notebook、工具、教程与论文链接**
+**扩散模型学习资源清单：为图像生成者汇编教程与工具**
 
-awesome-list 形式的扩散模型资源聚合：按 Colab Notebooks、Diffusion Models、Prompt Engineering、Tools、Benchmarks、Tutorials、Papers、Discord 频道等分类收录条目，覆盖 Disco Diffusion、Stable Diffusion、latent-diffusion 等模型仓库，以及 GFPGAN、diffusers、chaiNNer 等工具。多数条目仅给链接和一句话描述，部分标注 description will be defined 未补充说明。仓库本身不含代码，不提供安装运行方式。
+一份扩散模型方向的 awesome 清单，按 Colab Notebook、扩散模型、Prompt 工程、工具、基准、教程、论文、Discord 频道等分类汇编外部资源链接，覆盖 Disco Diffusion、Stable Diffusion 等模型与图像修复、插帧、放大类工具。条目多为待补充描述的聚合列表，面向希望上手或查找扩散模型资源的读者，仓库本身不包含代码或安装方式。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@ awesome-list 形式的扩散模型资源聚合：按 Colab Notebooks、Diffusion
 
 ## 能力要点
 
-- 按 8 个分类组织的扩散模型资源链接
-- 收录 Colab notebook、模型仓库、工具与提示词工程资源
-- 含 ImageBench 等文生图基准条目
+- 按 Notebook/模型/工具/教程/论文等分类组织的扩散模型资源汇编
+- 收录 GFPGAN、Real-ESRGAN、diffusers 等图像生成与修复工具条目
+- 含 VRAM 需求指南与 text-to-image 模型排行榜等教程与基准链接
 
 ## 适用场景
 
-- 查找扩散模型的入门 notebook 与教程
-- 了解图像生成相关的工具与提示词资源
-- 寻找扩散模型社区（Discord）入口
+- 查找扩散模型的 Colab Notebook 快速上手
+- 检索图像生成、修复、放大相关工具
+- 了解 text-to-image 模型的基准与社区资源
 
 ## 场景标签
 
@@ -36,8 +36,8 @@ awesome-list 形式的扩散模型资源聚合：按 Colab Notebooks、Diffusion
 
 ## 证据(README 行号)
 
-> L1: # Awesome Diffusion Awesome
 > L3: A curated list of awesome Diffusion notebooks, tools, software, tutorials and resources.
+> L7: ## Colab Notebooks
 
 ## 星数曲线
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a6b8add42b33` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `08e50117976c` · [字段定义](../../DATASET.md)*

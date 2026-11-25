@@ -2,9 +2,9 @@
 
 ⭐ 248 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/onnx/turnkeyml) · 组织维护
 
-**ONNX 工作流的无代码 CLI 工具链（导出/优化模型）**
+**面向 ONNX 工作流的 no-code CLI 工具链**
 
-ONNX 生态工具集项目：turnkey 提供面向通用 ONNX 工作流（如 CNN 与 Transformer 的导出、优化）的无代码 CLI，通过 `turnkey -h` 列出支持的命令。项目曾包含面向 LLM 的 Lemonade SDK，该部分已迁移至独立仓库 lemonade-sdk/lemonade（新 PyPI 包名 lemonade-sdk），README 要求用户尽快迁移。turnkey 仍在维护，由 ONNX Model Zoo SIG 赞助、AMD 人员维护，Apache 2.0 许可。
+TurnkeyML 提供无代码 CLI `turnkey`，用于发现 PyTorch 模型、导出为 ONNX，并以可配置序列运行工具链。源码方式安装，要求 Python 3.11，测试覆盖 Windows 与 Linux；支持插件扩展自定义工具与设备，可选模型与 Slurm 依赖。项目由 ONNX Model Zoo SIG 赞助，Lemonade SDK 已拆分至独立仓库需单独安装。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ ONNX 生态工具集项目：turnkey 提供面向通用 ONNX 工作流（如 CNN
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,24 +20,26 @@ ONNX 生态工具集项目：turnkey 提供面向通用 ONNX 工作流（如 CNN
 
 ## 能力要点
 
-- 无代码 CLI 覆盖通用 ONNX 工作流（导出/优化 CNN 与 Transformer）
-- 曾提供 LLM 全栈 SDK Lemonade，已迁移为独立项目 lemonade-sdk
-- 由 ONNX Model Zoo SIG 赞助，Apache 2.0 许可
+- no-code CLI 发现 PyTorch 模型并导出 ONNX
+- 以可配置序列运行工具链中的工具
+- 插件机制扩展自定义工具与设备
+- 支持 Slurm 可选依赖
 
 ## 适用场景
 
-- 不写代码即可执行 ONNX 模型的导出与优化流程
-- 作为 ONNX 生态工具的统一命令行入口
-- LLM 场景需迁移至 lemonade-sdk 新包继续使用
+- 将 PyTorch 模型批量导出为 ONNX 格式
+- 为 ONNX 模型组织可配置的工具执行序列
+- 通过插件接入自定义工具与设备
 
 ## 场景标签
 
- · 领域:模型工具链/ONNX 生态
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L8: We are on a mission to make it easy to use the most important tools in the ONNX ecosystem. TurnkeyML accomplishes th
-> L29: While Lemonade focuses on LLMs, Turnkey is a no-code CLI designed for general ONNX workflows, such as exporting and
+> L7: TurnkeyML provides a no-code CLI for ONNX workflows. Use `turnkey` to discover
+> L8: PyTorch models, export them to ONNX, and run tools in configurable sequences.
+> L46: - Plugins: extend Turnkey with custom tools and devices.
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `f517465d9547` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `017bca8a0af4` · [字段定义](../../DATASET.md)*

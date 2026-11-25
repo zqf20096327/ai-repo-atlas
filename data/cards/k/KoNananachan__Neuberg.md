@@ -1,10 +1,10 @@
 # KoNananachan/Neuberg
 
-⭐ 232 · TypeScript · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/KoNananachan/Neuberg) · [官网](https://neuberg.ai) · 个人维护 · 中文 README
+⭐ 232 · TypeScript · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/KoNananachan/Neuberg) · [官网](https://neuberg.ai) · 个人维护
 
-**开源网页版金融终端：516 个面板、实时数据与多资产交易**
+**开源自托管金融终端：516 个数据面板+AI 新闻分析+多资产交易**
 
-面向个人交易者的 Web 端金融终端，提供 516 个可拖拽面板，数据来自 Yahoo Finance、CoinGecko、Polymarket、Hyperliquid，覆盖股票、固收、外汇、大宗商品、宏观与衍生品等类别。内置交易功能：Alpaca 美股、Hyperliquid 49 个加密永续、Polymarket 预测市场。AI 部分为新闻情感分析、新闻聚类与冲突地图，通过 OpenAI 兼容 API 接入 Gemini/GPT 或本地模型。技术栈 React 19 + Express 5，用 git clone 与 npm 安装运行，采用 Business Source License 1.1 许可（非 OSI 开源许可）。
+以 Web 形式运行的开源金融终端，宣称覆盖 Bloomberg Terminal 的功能范围：提供 516 个可拖拽布局的市场数据面板（股票、固收、外汇、商品、宏观、衍生品、另类数据），数据取自 Yahoo Finance、CoinGecko 等。内置交易接口：Alpaca 美股（实盘/模拟）、Hyperliquid 加密永续合约、Polymarket 预测市场。AI 部分对新闻文章做情感、地点与冲突检测，并将相关文章聚类成故事；AI 后端接受 OpenAI 兼容 API（Gemini、GPT 或本地模型）。前端 React 19，后端 Express 5 + Prisma(SQLite)，支持 Docker 部署。采用 Business Source License 1.1 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 516 个按需加载的拖拽数据面板（Yahoo Finance 实时数据）
-- 美股（Alpaca）、加密永续（Hyperliquid）、预测市场（Polymarket）内置交易
-- AI 新闻情感分析、新闻聚类与实时冲突地图
-- 6 种界面语言，Docker / Google Cloud Run 部署
+- 516 个拖拽式市场数据面板，按需加载减少 API 调用
+- 一个界面内交易美股（Alpaca）、加密永续（Hyperliquid）、预测市场（Polymarket）
+- AI 新闻情感分析与冲突地图，支持 Gemini/GPT/本地模型的 OpenAI 兼容 API
+- WebSocket 实时数据与 6 语言界面
 
 ## 适用场景
 
-- 在浏览器中搭建自定义的多资产行情与交易工作台
-- 在同一界面完成美股、加密永续与预测市场交易
-- 追踪新闻情感与地缘冲突事件对市场的影响
+- 在浏览器里替代付费金融终端查看多资产实时行情
+- 从同一界面执行美股、加密永续与预测市场交易
+- 用 AI 自动分析财经新闻的情感与冲突事件
 
 ## 场景标签
 
@@ -37,7 +37,7 @@
 
 ## 证据(README 行号)
 
-> L20: We aim to cover **every Bloomberg function** in a single, customizable dashboard: equities, fixed income, derivativ
+> L18: Neuberg is building the **all-in-one financial terminal** that Bloomberg charges $24,000/year for — but open-source
 > L83: - **AI News Analysis** — Every article analyzed for sentiment, location, and conflict detection
 > L96: |**AI**|OpenAI-compatible API (Gemini, GPT, or local models)|
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `05b889f5c0d6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `509d1655b1d9` · [字段定义](../../DATASET.md)*

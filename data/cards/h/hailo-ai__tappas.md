@@ -2,9 +2,9 @@
 
 ⭐ 205 · C++ · LGPL-2.1 · 推送 2026-10-26 · [GitHub](https://github.com/hailo-ai/tappas) · [官网](http://hailo.ai/) · 组织维护
 
-**面向 Hailo 边缘设备的视频 AI 流水线框架与预训练应用示例**
+**面向 Hailo 设备的视频 AI 管线构建基础设施**
 
-Hailo 官方的基础设施项目：基于 GStreamer 构建 AI 视频处理流水线，提供流水线元素、预训练 AI 任务（如单流目标检测示例）与 C++ 后处理元素开发指南。面向使用 Hailo-8/Hailo-10H 硬件加速器的开发者，用于评估、参考代码与演示。需要 Hailo 设备与 HailoRT PCIe 驱动，支持 SW Suite、手动、Yocto 与树莓派 5 等安装方式；v5.0.0 起多数示例应用已迁至独立仓库，hailopython 元素已标记弃用。
+Hailo TAPPAS 是 Hailo 的应用构建基础设施，提供管线元素与预训练 AI 任务实现，基于 GStreamer 构建视频处理管线。面向使用 Hailo-8/Hailo-10H 设备的开发者，用于缩短开发与部署周期、简化与 Hailo 运行时软件栈的集成，并作为应用微调的起点。需配备 Hailo 设备与 HailoRT PCIe 驱动，至少 6GB 磁盘空间；支持 Ubuntu x86/aarch64、Yocto 与 Raspberry Pi 5 安装；示例应用大多已迁移到 hailo-apps-infra 仓库。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Hailo 官方的基础设施项目：基于 GStreamer 构建 AI 视频处理流�
 
 ## 能力要点
 
-- 基于 GStreamer 的 AI 视频流水线元素与框架
-- 内置单流目标检测示例应用（HEF 模型经 model_zoo 下载）
-- 提供 C++ 自定义后处理元素编写与性能调试/交叉编译文档
-- 支持 Hailo-8 与 Hailo-10H 设备，兼容指定版本 HailoRT
+- 基于 GStreamer 的管线元素与预训练 AI 任务基础设施
+- 提供单流目标检测示例管线及 C++ 后处理元素编写指南
+- 支持 SW Suite、手动、Yocto、Raspberry Pi 5 多种安装途径
+- 附带调试、性能剖析与交叉编译文档
 
 ## 适用场景
 
-- 在 Hailo 硬件上快速搭建视频目标检测流水线
-- 以示例代码为起点开发并微调自己的边缘 AI 应用
-- 在树莓派 5 或 Yocto 嵌入式平台上集成 Hailo 推理
+- 在 Hailo-8/Hailo-10H 设备上搭建视频分析管线
+- 评估 Hailo 设备的系统集成场景与参考实现
+- 以示例代码为起点定制边缘视频 AI 应用
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Hailo 官方的基础设施项目：基于 GStreamer 构建 AI 视频处理流�
 ## 证据(README 行号)
 
 > L32: TAPPAS is Hailo's infrastructure for building applications, implementing pipeline elements and
-> L33: pre-trained AI tasks.
-> L37: Demonstrating Hailo's system integration scenario of specific use cases on predefined systems
+> L97: TAPPAS includes a `single-stream object detection pipeline <apps/detection/README.rst>`_ built on top of GStreamer.
+> L49: * Hailo-8 or Hailo-10H device
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3baac981e615` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5d2716a5d0a7` · [字段定义](../../DATASET.md)*

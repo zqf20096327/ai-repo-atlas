@@ -2,9 +2,9 @@
 
 ⭐ 193 · JavaScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/chelinho139/wow-ai) · 个人维护
 
-**在魔兽世界内聊天驱动本地编程 Agent 的插件**
+**在魔兽世界游戏内与本地编码 Agent 对话的插件+桥接器**
 
-由游戏内插件、Node.js 桥接进程与屏幕像素通道组成：插件把消息画成屏幕角落的色块条，桥接进程每秒四次截屏解码后，以 headless CLI 方式运行各聊天会话选定的编程 Agent（Claude Code、Codex、Grok Build、Antigravity、Hermes），回复经约 200 个预置槽位插件文件回传游戏内显示。面向边玩边写代码的用户，支持多聊天并行、实时进度、世界地图路线绘制、宏生成等；要求 Node.js 22.2+ 与至少一个已登录的 Agent CLI，窗口须为窗口化/无边框模式。
+由 WoW 插件与 Node.js 桥接器组成的工具：在游戏内聊天窗口与 Claude Code、Codex、Grok Build、Antigravity、Hermes 等本地编码 Agent CLI 通信。插件因沙箱无网络，通过屏幕角落彩色方块被桥接器每秒截图四次解码传出，回复经 200 个预置槽位插件从磁盘载入传回。支持多聊天并行会话、进度显示、世界地图画路线、宏生成与 Allow & retry 授权。面向想边玩 WoW 边管理编码任务的开发者。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 驱动 5 种编程 Agent CLI，每个聊天可选不同 Agent 与工作目录
-- 屏幕色块编码 + 槽位插件文件实现沙箱内双向通信
-- Agent 可在世界地图绘制编号路线并在游戏内生成宏
-- 支持 Windows、Linux(Wine/X11) 与 macOS 原生客户端
+- 通过屏幕捕获方块与槽位插件文件实现游戏内外双向通信，仅用官方插件 API
+- 驱动 Claude Code/Codex/Grok/Antigravity/Hermes 五个本地 Agent CLI，可按聊天切换
+- Agent 可读取角色信息、在世界地图绘制编号路线并向导行走
+- 支持 Windows、Linux(Wine/X11) 与 macOS 原生客户端三种运行环境
 
 ## 适用场景
 
-- 玩游戏的同时给编程 Agent 派发任务，完成时游戏内提醒
-- 在游戏内查看 Agent 正在编辑的文件与执行的命令
-- 让 Agent 基于角色、任务日志等游戏上下文回答问题
+- 在魔兽世界中向编码 Agent 发任务，打怪时等回复被游戏内提醒
+- 多个聊天并行管理不同项目文件夹的 Agent 会话
+- 让 Agent 读取角色等级/专业/任务日志并生成游戏宏或地图路线
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L5: Chat with your local coding agents from inside **World of Warcraft: Forever**: Claude Code, OpenAI Codex, xAI's Grok
-> L30: |**Claude Code** (`claude`)|`claude -p --output-format stream-json`, resumed with `--resume`|`permissionMode` + `al
 > L22: WoW addons are sandboxed: no network, no file reads at runtime. Two doors remain. **Out:** the addon draws your mes
+> L29: The bridge drives whichever of these you have installed; each chat can use a different one.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `6796be8d1373` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `04defa060eb3` · [字段定义](../../DATASET.md)*

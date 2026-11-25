@@ -2,9 +2,9 @@
 
 ⭐ 235 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yusong652/itasca-mcp) · [官网](https://pypi.org/project/itasca-mcp/) · 个人维护 · 中文 README
 
-**让 AI agent 通过对话操作 ITASCA 岩土模拟软件的 MCP 服务器**
+**通过 MCP 将 AI agent 接入 ITASCA 岩土仿真软件的工具**
 
-通过 Model Context Protocol 将 AI agent（Claude Code、Codex CLI、Gemini CLI 等 MCP 客户端）接入 ITASCA 系列岩土力学模拟引擎（PFC、FLAC、3DEC、MPoint、MassFlow）。提供 5 个文档工具（浏览/检索各引擎命令、Python API 与参考文档，无需 bridge）与 5 个执行工具（REPL、任务提交、进度监控、中断、历史，需在引擎内启动 bridge）。支持多引擎多版本文档语料、模拟运行中并行执行代码、感知 GUI 内的用户操作。要求已安装 ITASCA 引擎（推荐 9.0+，兼容 7.0 等）与 uv。
+itasca-mcp 是一个 MCP server，把 PFC、FLAC、3DEC、MPoint、MassFlow 等 ITASCA 岩土力学仿真引擎接入 AI agent：提供 2 个文档工具（按路径浏览与关键词检索命令/Python API/FISH 文档，无需 bridge）和 5 个执行工具（交互 REPL、任务提交、进度监控、中断、历史，需在引擎 Python 中安装并启动 bridge）。要求用户已安装 ITASCA 引擎（推荐 Subscription 9.0+，亦支持 PFC 6.0/7.0、FLAC 7.0、3DEC 7.0）与一个 MCP 客户端。支持多引擎多版本文档语料、任务生命周期管理与 GUI 人机协同。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 10 个 MCP 工具：5 个文档浏览/检索 + 5 个执行与任务管理
-- 多引擎多版本文档语料（PFC 6.0/7.0/9.0、FLAC 7.0/9.0、3DEC 7.0/9.0）
-- 模拟运行中可并行执行 REPL 代码查看中间结果
-- bridge 感知引擎 GUI 内用户的命令、绘图与数据文件操作
+- 7 个 MCP 工具：2 个文档检索 + 5 个仿真执行
+- 多引擎多版本文档语料（PFC 6.0/7.0/9.0，FLAC 7.0/9.0，3DEC 7.0/9.0）
+- 运行中任务的 REPL 实时查看与任务生命周期管理
+- 提供 bootstrap 指南供 agent 自主完成配置
 
 ## 适用场景
 
-- 用自然语言在 FLAC3D/3DEC 中建模并运行模拟
-- 让 agent 查阅引擎文档后编写正确的模拟命令
-- 长时间模拟运行中通过对话检查进度与中间结果
+- 用自然语言让 agent 运行双轴压缩试验并绘制应力应变曲线
+- 在 FLAC3D/3DEC 中建模边坡或隧道开挖并查询安全系数
+- 仿真运行中不停机查看非平衡力等中间结果
 
 ## 场景标签
 
- · 领域:岩土力学模拟/AI agent 工具
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L16: **itasca-mcp** connects AI agents to ITASCA's geomechanics simulation software — PFC, FLAC, 3DEC, MPoint, and MassF
-> L26: **5 execution tools** — interactive REPL, task submission, progress monitoring, interruption, and history. Requires
+> L22: ## Tools (7)
+> L44: - **An AI agent** — Claude Code, Codex CLI, Gemini CLI, or any MCP-capable client
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d782be60a05f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `71e6c6ef0142` · [字段定义](../../DATASET.md)*

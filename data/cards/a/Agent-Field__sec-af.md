@@ -2,9 +2,9 @@
 
 ⭐ 200 · Go · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/Agent-Field/sec-af) · [官网](https://agentfield.ai/) · 组织维护
 
-**面向开发者的 AI 代码安全审计工具：证明漏洞可利用性**
+**给开发者用的 AI 代码安全审计器，输出可利用性判定与证据链**
 
-SEC-AF 是构建在 AgentField 编排框架上的 AI-native 静态代码安全审计服务（SAST），输入仓库 URL，输出带判定结论（confirmed/likely/inconclusive/not_exploitable）、完整污点追踪与证据位置的安全发现。核心机制是 RECON→HUNT→DEDUP→PROVE→REMEDIATION 五阶段流水线，约 200-300 个分工的 LLM agent 组成 reasoner DAG，PROVE 阶段用 4 个对抗性子代理尝试反驳每个发现，DVGA 基准上报称 94% 噪声削减。限制：不覆盖 GraphQL 协议层/运行时（DAST）攻击；单次审计需约 78 分钟与 LLM API 费用。通过 af CLI 或 HTTP API 调用。
+基于 AgentField 构建的 SAST 审计工具，对给定仓库执行 RECON→HUNT→DEDUP→PROVE→REMEDIATION 流水线，约 200-300 个聚焦 agent 组成 reasoner DAG。每个发现附带 confirmed/likely/inconclusive/not_exploitable 判定、完整污点追踪与代码位置，经 4-agent 对抗验证链过滤误报（DVGA 基准：106 条原始发现收敛为 28 条确认）。通过 af CLI（≥0.1.87）或 HTTP API 单调用触发，按 LLM 调用计费。当前仅支持静态分析，GraphQL 协议层攻击检测在路线图中。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ SEC-AF 是构建在 AgentField 编排框架上的 AI-native 静态代码安全�
 
 ## 能力要点
 
-- 每个发现附判定结论、污点追踪与可执行证据
-- HUNT/PROVE 对抗验证：4 个子代理（追踪/净化分析/利用假设/裁决）
-- RECON→HUNT→DEDUP→PROVE→REMEDIATION 流水线，约 200-300 个 agent 调用
-- AI gate 按技术栈动态路由狩猎策略与 CWE 扩展
+- 每个发现附带可利用性判定、污点追踪与代码位置
+- HUNT/PROVE 对抗式 agent 架构，4-agent 验证链
+- AI 门控动态路由：按检测到的技术栈选择 hunt 策略与 CWE 目标
+- AgentField 控制面提供完整 DAG 可观测性
 
 ## 适用场景
 
-- 对代码仓库做带可利用性证明的 SAST 审计
-- 降低扫描误报：通过对抗验证过滤不可利用的发现
-- 为确认/很可能的漏洞获取修复建议
+- 审计仓库中 SQL 注入、命令注入、认证绕过等漏洞并获取可利用性证据
+- 对安全扫描结果做去重与对抗验证，降低误报噪音
+- 为已确认漏洞生成修复建议
+- 评估依赖漏洞是否存在可利用调用路径
 
 ## 场景标签
 
-`网络安全` `代码审查` · 领域:编码与开发
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L18: Other tools flag patterns. SEC-AF **proves exploitability**: every finding ships with a verdict, a data flow trace,
 > L49: Every finding includes a **verdict** (`confirmed` / `likely` / `inconclusive` / `not_exploitable`), a **proof objec
-> L119: The 9 missed scenarios are primarily **GraphQL protocol-level attacks**: batch queries, deep recursion, alias abus
+> L91: Most AI security tools ask a single model "is this vulnerable?" and accept the answer. SEC-AF structurally separate
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `9d059bfe1cdd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `12a602a92101` · [字段定义](../../DATASET.md)*

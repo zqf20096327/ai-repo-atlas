@@ -2,9 +2,9 @@
 
 ⭐ 235 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ScaleFree-Tech/yishape-math) · 组织维护 · 中文 README
 
-**Java 科学计算与机器学习库，提供类 NumPy/SciPy 的数值功能**
+**Java 数学计算库：为开发者提供 NumPy 风格运算与 ML**
 
-面向 JVM 的数学计算库，以十个门面类（Linalg/Stats/ML/AD/Signals 等）通过流式 API 提供向量矩阵运算、DataFrame 与 CSV 读写、统计与假设检验、机器学习（回归/分类/聚类/降维）、反向/前向/混合模式自动微分、优化与线性规划、多准则决策、距离度量学习、信号处理、时间序列、可视化（SVG/JavaFX/ECharts 后端）与向量索引。支持 Java Vector API 的 SIMD、经 FFM 调用 Rust 原生库（可选 HPC 扩展）与 GPU 着色器加速。要求 Java 25 与 Maven 3.6+，可经 GitHub Packages、源码构建或预编译 JAR 安装；源自 UESTC 距离度量学习博士研究并用于该校课程教学。
+基于 Java 的数学计算库，API 设计仿照 Python NumPy/SciPy，提供向量与矩阵运算、DataFrame、统计推断、数据可视化、机器学习算法、优化与线性规划、自动微分、多准则决策、距离度量学习、信号处理、时间序列与向量索引共十个门面类入口。性能方面提供基于 Java Vector API 的 SIMD 支持及 Rust 原生后端加速层。库来源于博士期间度量学习优化代码，曾用于电子科技大学课程实验教学，并作为 YiShape 向量数据库与深度学习项目的底层计算引擎。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 反向/前向/混合模式自动微分，支持 Hessian、Neural ODE、稀疏与复数求导
-- 14+ 种经典距离度量学习算法及自研 DDML 算法（INFORMS Journal on Computing 2024）
-- SIMD 与 Rust 原生后端可选加速，HPC 与纯 Java 模式共享同一 API
-- 三种绘图后端（内置 SVG、可选 JavaFX/ECharts）与 hnsw/LSH/KD-Tree 向量索引
+- 十个门面类（Linalg/ML/AD/Stats 等）覆盖科学计算与 ML 主要功能
+- 支持反向/前向/混合模式自动微分及 Neural ODE
+- SIMD 与 Rust 原生后端双路径加速，API 不变可切换
+- 内置 SVG 绘图后端，可选 JavaFX/ECharts 扩展
 
 ## 适用场景
 
-- 在 Java 项目中完成统计、优化、时间序列等数值计算
-- 教学场景下的统计分析与机器学习建模实践
-- 构建需要自动微分与距离度量学习的算法原型
+- 在 Java 项目中做矩阵运算与统计分析而不引入 Python
+- 为分类、聚类、降维等任务调用内置机器学习算法
+- 求解线性规划与多目标优化问题
+- 构建时间序列预测与信号分析流程
 
 ## 场景标签
 
- · 领域:科学计算/数学库
+ · 领域:科学计算/机器学习基础库
 
 ## 证据(README 行号)
 
 > L11: **YiShape-Math** is a Java-based mathematical computing library that provides core functionalities including vector
-> L63: - **Reverse-mode AD**: `AD.vector()` creates variables, `loss.backward()` auto-propagates gradients, 40+ ops (advan
-> L81: - **Proprietary DDML Algorithm**: Regularized diagonal distance metric learning published in INFORMS Journal on Com
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `82f6ef24c7e3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3e3a63d79e8a` · [字段定义](../../DATASET.md)*

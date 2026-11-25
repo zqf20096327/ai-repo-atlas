@@ -2,15 +2,15 @@
 
 ⭐ 205 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Zzz1phyrf/ComfyUI-H3-LongVideo) · 个人维护 · 中文 README
 
-**ComfyUI 长音频分段生成插件：驱动 MiniMax H3 制作唱歌/口播数字人长视频**
+**ComfyUI 长音频分段生成长视频的插件（MV 与口播）**
 
-面向 ComfyUI 的自定义节点插件，围绕 MiniMax H3 Ref2VA 模型组织长视频工作流：导入音频后自动分析分段、安排镜头（唱歌模式含运镜规划，口播模式为固定构图提示词），提供分段审核面板逐段上传参考图（每段最多 6 张）、编辑导演简报与提示词，确认后顺序生成各段视频并配回原音频合成为完整 MP4。提示词扩写通过 OpenAI 兼容 Chat Completions 接口调用外部模型服务，本地音频分析按需下载语音识别与人声分离模型。需在 ComfyUI 环境中安装，依赖 ffmpeg/ffprobe。
+面向 MiniMax H3 工作流的 ComfyUI 自定义节点插件，提供 MV Generator 与 Talking Avatar 两个控制节点：上传完整音频后进行分段审核、生成、单段重做、预览与合并，支持本地运行或 RunningHub 云端执行两种模式。仓库附带 MV 与口播两份完整示例工作流，Key 保存在本地用户目录，错误日志汇总分段、节点与堆栈信息并脱敏。安装需放入 custom_nodes 并依赖 ffmpeg/ffprobe 与工作流所需节点。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 音频自动分析分段与逐段导演简报编辑
-- 每段最多 6 张参考图，支持项目默认图与本段自定义图独立管理
-- 顺序生成支持暂停、继续、失败重试与局部重做
-- 提示词扩写使用 OpenAI 兼容 API，支持多图 vision 模式与流式 SSE
+- 两个控制节点覆盖 MV 与口播两类长视频工作流
+- 分段审核、单段重做与旧结果保留的任务管理机制
+- 本地与 RunningHub 双执行模式，RH API Key 本地保存
+- 附带两份完整示例工作流与统一错误日志下载
 
 ## 适用场景
 
-- 用 MiniMax H3 制作整首歌曲的唱歌数字人视频
-- 制作长篇口播数字人视频并自动拼接成片
-- 逐段调整参考图与提示词后局部重做视频片段
+- 用歌曲音频分段生成 MV，逐段编辑分镜与提示词
+- 基于人物参考图与口播音频生成长视频数字人
+- 使用 RunningHub 云端算力执行分段生成任务
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L3: 用于 MiniMax H3 的长音频分段生成插件，支持唱歌数字人与口播数字人。导入音频后，插件自动分析分段、安排镜头，提供试听和编辑界面；确认后依次生成各段视频，并配回原音频合成为完整成片。
-> L19: 1. 将本仓库克隆或解压至 `ComfyUI/custom_nodes/ComfyUI-H3-LongVideo`。
-> L23: 5. 在工作流中选择已安装的 MiniMax H3 Ref2VA、LoRA、VAE 和 CLIP 权重，并在插件的“API 设置与模型选择”中配置分镜提示词生成器使用的服务。
+> L3: MiniMax H3 长音频分段生成插件，包含两个独立控制节点：**MiniMax H3 · MV Generator** 和 **MiniMax H3 · Talking Avatar**。两者均支持本地 / RunningHub
+> L22: 示例模型名是参考，必须选择自己环境已有的权重。MV 使用 SelfLift-Avatar、ComfyUI-KJNodes 和 ComfyUI-YCNodes-MiniMax-H3 等画布节点；口播使用 ComfyUI 原生 H3 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `fa2538a5f231` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c66609c1d653` · [字段定义](../../DATASET.md)*

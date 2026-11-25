@@ -2,9 +2,9 @@
 
 ⭐ 219 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Cassette-Editor/oh-my-cassette) · [官网](https://cassette-editor.github.io/oh-my-cassette/) · 组织维护 · 中文 README
 
-**让 Claude Code/Codex 等编码 agent 对话式剪辑视频的 MCP 桥接插件**
+**把 Claude Code 等编程代理接入 Cassette 云端视频剪辑服务的 MCP 桥**
 
-发布在 PyPI 上的本地 stdio MCP server（uvx 运行），把 Claude Code、Codex、OpenCode、Hermes 等编码 agent 连接到 Cassette MCP 云端剪辑服务：编辑工具（项目、剪辑轮次、撤销、导出）由服务侧提供并随服务更新；桥接层负责本机媒体准备——用 ffmpeg 转码视频、分片并行上传（仅限工作区内媒体文件），导出文件下载到 cassette-exports/。需受邀 Cassette 账号、uv 0.5+、ffmpeg；云端项目闲置三天后连同媒体被删除。
+一个以 stdio 运行的本地 MCP 服务器，把 Claude Code、Codex、OpenCode、Hermes 等编程代理连接到 Cassette 编辑代理：本仓库只做桥接，剪辑工具清单、撤销、导出等由远端 Cassette MCP 服务动态下发，插件无需随服务更新发版。本地部分负责把工作区内的视频/音频/图像用 ffmpeg 转码、分块并发上传，导出文件下载到 cassette-exports/；支持云端项目（闲置三天删除）与由 Cassette for Mac 托管的项目两种保留策略。需受邀请的 Cassette 账号，凭 uvx 从 PyPI 运行。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 本地 stdio MCP 桥接，工具列表随 Cassette 服务更新而变化
-- 本机 ffmpeg 转码、四路并行分片上传与断点续传
-- 受限等待与 preparing 后台续作，长任务不超时宿主
-- 附 check 命令按 contract v1 校验兼容的 MCP 服务
+- 本地 stdio MCP 桥，工具清单由远端服务动态下发
+- ffmpeg 本地转码后分块并发上传，断点续传
+- 支持 Claude Code/Codex/OpenCode/Hermes 及任意 MCP 主机
+- 可用自有 OpenAI key 支付剪辑代理调用
 
 ## 适用场景
 
-- 在 Claude Code/Codex 会话里用自然语言导入素材并生成短视频
-- 对 AI 生成的剪辑提出修改意见并导出 MP4
-- 为自建或第三方 Cassette MCP 服务做契约兼容性检查
+- 在 Claude Code 会话里导入多段影片并让代理剪出预告片
+- 用对话方式修改镜头、配乐节奏并导出成片
+- 把本地素材上传到云端项目或 Mac 托管项目进行剪辑
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5:  Edit video by talking to the Cassette agent from Claude Code, Codex, OpenCode or Hermes.
-> L6:  A small MCP bridge on PyPI. The editing tools come from the Cassette MCP service, so they stay current without a pl
-> L78: Oh My Cassette connects your coding agent to the Cassette editing agent. It is a local stdio MCP server
+> L80: Oh My Cassette connects your coding agent to the Cassette editing agent. It is a local stdio MCP server
+> L84: Claude Code / Codex / OpenCode / Hermes  ──stdio──▶  oh-my-cassette  ──HTTP──▶  Cassette MCP service  ──▶  Cassette
+> L116: - uv 0.5 or newer. `uvx oh-my-cassette==0.7.5` resolves Python 3.11 or newer by itself.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `9b6f193d2633` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4f3de5ceb18d` · [字段定义](../../DATASET.md)*

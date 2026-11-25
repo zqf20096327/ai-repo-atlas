@@ -2,9 +2,9 @@
 
 ⭐ 352 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/yihong1120/Construction-Hazard-Detection) · [官网](https://visionnaire-cda17.web.app/) · 个人维护 · 中文 README
 
-**工地摄像头实时安全隐患检测系统（未戴安全帽/接近机械等）**
+**基于 YOLO 的工地危险行为实时检测与告警系统**
 
-面向建筑工地实时摄像头的 AI 安全监控系统：基于 YOLO 检测 11 类目标，识别未戴安全帽/反光背心的工人、工人距机械车辆过近、进入锥筒划定管控区、机械贴近电线杆等隐患；用 HDBSCAN 聚类安全锥坐标生成受控区域，并以后处理规则提升判定准确性。运行时以 main.py、YOLO worker 进程、MediaMTX 流媒体、PostgreSQL 记录、Redis 协调及一组 FastAPI 服务组成，支持 FCM/LINE/Telegram 等多渠道通知，提供 HLS/WebRTC 播放、Flutter 前端源（另仓）与训练/评估/数据增强工具。要求 Python 3.14，需 Docker Compose 启动基础设施，GPU 推理可选 CUDA/TensorRT。
+面向建筑工地实时摄像头的 AI 安全监控系统：YOLO worker 进程检测未戴安全帽/反光背心、靠近机械或车辆、进入锥桶围控区域等违规，HDBSCAN 由锥桶坐标生成受控区，Rust/PyO3 后处理做质心跟踪与距离校验，视频经 MediaMTX 分发，事件写入 PostgreSQL 并经 FCM/LINE/Telegram/微信等通道通知。运行时由 FastAPI 服务、Redis 协调、uv 管理依赖，支持 Docker 部署，另含训练、评估、数据增广工具与可选 MCP server。
 
 ## 筛选速览
 
@@ -14,22 +14,23 @@
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- YOLO 检测 11 类目标，覆盖未戴安全帽/背心、接近机械、误入管控区等规则
-- HDBSCAN 聚类安全锥坐标生成受监控区域
-- 多 YOLO worker 经共享内存共享 GPU 推理，MediaMTX 提供 HLS/WebRTC 播放
-- 支持 FCM/LINE/Messenger/Telegram/微信等 8 种语言与多渠道通知，含 MCP server 可选组件
+- YOLO 检测未戴安全帽/背心、靠近机械、进入锥桶围控区等 5 类危险
+- HDBSCAN 聚类锥桶坐标生成受控区域；Rust 后处理可选后端（auto/python/rust）
+- 可选 Rust TensorRT INT8 推理后端与 32 路摄像头 IPC 测试
+- 通知支持 FCM、LINE、Messenger、Telegram、微信与 HTTP 广播，标签支持 8 种语言
 
 ## 适用场景
 
-- 工地安全员通过实时摄像头监控工人防护装备穿戴情况
-- 对工人靠近机械车辆或误入危险区域自动告警并推送通知
-- 留存违规记录与截图供安全管理复盘
+- 工地摄像头实时识别未佩戴安全帽或反光背心的工人
+- 监控工人是否进入锥桶围控的危险区域
+- 违规事件自动截图存证并推送多平台通知
+- 自建数据集训练与导出 INT8 TensorRT 模型
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L47: AI-assisted construction-site safety monitoring for live cameras. The current
-> L55: - Workers without hard hats.
-> L58: - Workers inside cone-derived controlled areas.
+> L51: AI-assisted construction-site safety monitoring for live cameras. The current
+> L59: - Workers without hard hats.
+> L150: 5. Local YOLO workers share GPU inference across cameras through shared memory.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c9c6c58a5894` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `443520a0bb5c` · [字段定义](../../DATASET.md)*

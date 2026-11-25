@@ -2,9 +2,9 @@
 
 ⭐ 438 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/CatCatUncle/openworkbuddy) · [官网](https://openworkbuddy.work) · 个人维护 · 中文 README
 
-**本机优先的开源 AI 办公助理：一句话生成 PPT/Word/Excel/网页文件**
+**本机优先的 AI 办公工作台，把需求变成可编辑办公文件**
 
-本地优先的 AI 办公工作台，面向常做周报、PPT、表格、文档的个人及需自托管部署的团队。用户输入一句任务，agent 自行规划、调用工具并产出可打开的 PPTX/DOCX/XLSX/HTML 文件。模型可切换：设置页提供 OpenAI/Anthropic/OpenRouter/DeepSeek/通义/智谱/Kimi/火山方舟/Ollama 预设（BYOK），本机安装的 Claude Code / Codex CLI 可作为执行引擎。提供 macOS/Windows 安装包、源码运行与 Docker 多人部署；支持 MCP 接入、Markdown 技能扩展、定时任务与 IM 推送。许可证为 PolyForm Noncommercial 加商业授权（个人非商用/学校公益免费，公司及个人商用须购买）。
+本机优先、源码可查看的 AI 办公应用：用户输入任务与资料，应用通过 Agent 运行时规划、调用工具并验收，交付可打开编辑的 PPTX/DOCX/XLSX/HTML 文件。模型可自选（API Key 或本机 CLI 如 Claude Code/Codex），能力以 skills/<名字>/skill.md 的 Markdown 文件扩展，支持 MCP 连接器、定时任务、IM 推送、多任务并行与命令审批、权限档位等安全机制。提供 macOS/Windows 安装包、Docker 与多租户服务器部署；许可为 PolyForm Noncommercial，公司及商用须购商业授权。
 
 ## 筛选速览
 
@@ -20,28 +20,27 @@
 
 ## 能力要点
 
-- 任务产出真实 PPTX/DOCX/XLSX/HTML 文件，成果面板可验收
-- 模型可切换：DeepSeek/通义/智谱/Kimi/OpenRouter/Ollama 等预设（BYOK）
-- 本机 Claude Code / Codex CLI 可作为执行引擎
-- 技能以 Markdown 文件形式扩展（skills/<名字>/skill.md），存盘即生效
-- 提供 Docker 多租户私有化部署与 CLI（与桌面版共享配置与会话）
+- 生成可打开编辑的 PPTX/DOCX/XLSX/HTML 文件，成果面板与磁盘可核对
+- 模型可切换：DeepSeek/通义/智谱/Kimi/OpenRouter/Ollama，本机 Claude Code/Codex 可作引擎
+- 技能即 Markdown 文件，存盘即生效；支持 MCP 连接器扩展
+- 命令审批、文件黑名单、URL 白名单、审计日志与四档权限、系统沙箱
 
 ## 适用场景
 
-- 一句话生成项目汇报 PPT、周报、Word/Excel 文档
-- 自托管部署给团队做多人 AI 办公工作台
-- 配置定时任务抓取信息并推送到飞书/企微/钉钉
-- 想读懂 agent 执行过程的开发者阅读模型路由、工具调用与 Trace 实现
+- 一句话生成周报 PPT、复盘报告、Excel 表格等办公文件
+- 定时抓取新闻生成晨报并推送到飞书等 IM
+- 团队私有化部署，多租户管理席位与模型权限
+- 做 AI 短剧、图片视频创作与旅游攻略网页
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`AI 助手` `工作流自动化` `AI 写作` `图像生成` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3:  本机优先的 AI 办公工作台，把你的资料和要求变成可打开、可修改的文件。
-> L71: |帮我出一份 Q3 复盘 PPT，数据用这个 Excel|读表 → 算 → 一个能直接放的 `.pptx`|
-> L77:  一句话进去，OpenWorkBuddy 自己规划、动手、验收，出来的是 PPTX / DOCX / XLSX / HTML 文件
+> L3:  本机优先、源码可查看的 AI 办公工作台，把你的资料和要求变成可打开、可修改的文件。
+> L84:  一句话进去，OpenWorkBuddy 自己规划、动手、验收，出来的是 PPTX / DOCX / XLSX / HTML 文件
+> L97: DeepSeek / 通义 / 智谱 / Kimi / OpenRouter / Ollama 界面点一下就切；本机装了 Claude Code / Codex 的，一键拿它当发动机，不用另买 token。配置与成果文件留在本机，
 
 ## 星数曲线
 
@@ -57,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `dc1e602915c7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `aac17facb3d7` · [字段定义](../../DATASET.md)*

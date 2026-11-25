@@ -2,9 +2,9 @@
 
 ⭐ 223 · Python · NOASSERTION · 推送 2026-11-08 · [GitHub](https://github.com/Hkshoonya/nvidia-broadcast-linux) · [官网](https://nvbroadcast.com) · 个人维护
 
-**Linux/macOS 的开源 AI 摄像头与麦克风特效应用**
+**Linux/macOS 上的开源虚拟摄像头与麦克风 AI 效果工具**
 
-面向 Linux/macOS 用户的非官方 NVIDIA Broadcast 替代：提供 AI 背景虚化/替换/绿幕、人脸跟踪自动构图、视线校正、视频增强、麦克风降噪与语音特效，以及基于本地 Whisper 的会议转录与摘要。视觉模型支持 RVM/IS-Net/BiRefNet，含 9 种从 CUDA 到 CPU 的处理模式；虚拟摄像头兼容 Chrome/Zoom/Discord/OBS。Linux 源码安装器构建独立运行时，GPU 模式仅限 Linux 且要求 NVIDIA GPU；macOS 需 Apple Silicon 与 Homebrew 栈，虚拟摄像头依赖 OBS 注册。
+非官方的开源 NVIDIA Broadcast 替代实现，面向 Linux 与 macOS 用户。提供 AI 背景模糊/替换、自动构图、人声降噪、麦克风测试等虚拟摄像头与音频效果，并支持 NVENC 硬编码录制 MP4、本地 Whisper 会议转录与本地会议摘要。提供 9 种处理模式（CUDA GPU 推理到纯 CPU 回退），依赖 RVM/IS-Net/BiRefNet 模型（自动下载），通过 install.sh 脚本安装，需要 NVIDIA GTX 1060+ GPU 或使用 CPU 模式。
 
 ## 筛选速览
 
@@ -14,32 +14,33 @@
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `gpu-8g` | |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- AI 背景虚化/替换/绿幕与人脸跟踪自动构图（RVM/IS-Net/BiRefNet 三模型可选）
-- 麦克风/扬声器降噪、语音特效与本地 Whisper 会议转录与 AI 摘要
-- 9 种处理模式，从融合 CUDA 内核到纯 CPU 回退
-- 虚拟摄像头输出兼容 Chrome、Firefox、Zoom、Discord、OBS
+- AI 背景模糊/替换/绿幕、自动构图、眼神接触校正与面部补光
+- 麦克风/扬声器降噪与 6 种语音预设
+- 本地 Whisper 会议转录与本地会议摘要
+- 9 种处理模式覆盖 CUDA GPU 到纯 CPU 回退
 
 ## 适用场景
 
-- 在 Linux/macOS 上为视频会议做背景虚化、替换与降噪
-- 直播时使用绿幕、自动构图与视频增强
-- 录制会议并生成本地转录文本与行动项摘要
+- Linux 上为 Zoom/Discord/OBS 等提供背景虚化与虚拟摄像头
+- 视频会议中去除键盘与风扇噪声
+- 本地录制会议并生成转录与行动项摘要
+- 无 CUDA 的旧硬件上以 CPU 模式运行视频效果
 
 ## 场景标签
 
-`语音识别` `图像视频处理` `人脸识别` · 领域:感知与多模态
+`语音识别` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L14:  Open-source, unofficial NVIDIA Broadcast alternative for Linux and macOS. AI-powered virtual camera and audio tool
-> L42: - **Background Blur** — AI-powered, person stays crystal sharp
 > L65: - **AI Meeting Transcription** — Local Whisper speech-to-text (GPU-accelerated)
+> L155: |**GPU**|NVIDIA GTX 1060|RTX 3060 or newer|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `fa9fb74df428` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `395d1618b286` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 245 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/neopen/story-shot-agent) · [官网](https://shot.helpenx.com/) · 个人维护 · 中文 README
 
-**剧本转分镜智能体：任意剧本拆分为视频模型提示词**
+**面向影视/小说创作者的剧本转分镜提示词生成智能体**
 
-基于 LangChain+LangGraph 多智能体协作的剧本分镜系统，面向 AI 视频创作者与开发者：解析电影、短剧、动漫、小说等任意格式剧本，智能分段并生成 Sora/Veo/Runway/可灵可用的中英双语镜头级提示词与负面词、音频提示词。通过三级记忆、RAG 与 Chroma 向量检索维持角色/场景/剧情跨片段一致。提供 Python SDK、MCP、REST API、A2A 等集成方式，支持 OpenAI/Qwen/DeepSeek/Ollama 等 LLM。需外部 LLM API，当前针对中文剧本优化。
+基于 LangChain + LangGraph 多智能体协作的剧本转分镜系统：解析任意格式剧本（电影、短剧、动漫、小说），按镜头粒度切分并规划时长，生成 Sora/Veo/Runway/可灵等文生视频模型可用的中英双语提示词、负面词与音频提示词。通过三视图、RAG 知识库、三级记忆、Chroma 向量检索与快照机制维持角色/场景/剧情跨片段一致。默认不调用生图/生视频 API，仅产出声明式指令，支持 REST/SDK/MCP/A2A 回填下游资产。中文剧本深度优化，需外部 LLM API。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 任意格式剧本拆分为镜头级 text-to-video 提示词
-- 三级记忆+RAG+Chroma 向量检索维持跨片段一致性
-- 多模型可插拔：OpenAI/Qwen/DeepSeek/Ollama
-- 提供 Python SDK、MCP、REST API、A2A、LangGraph 节点多种接入方式
+- 剧本→镜头级切分→text-to-video 提示词的端到端转换
+- 三级记忆 + Chroma 向量检索 + RAG 保障角色/剧情跨片段一致
+- 提供 Python SDK、REST API、MCP、A2A、LangGraph 节点五种集成方式
+- 每个分镜片段可双向追溯至原剧本位置
 
 ## 适用场景
 
-- 把小说或电影剧本自动转为 Sora/Veo 可用的分镜提示词
-- 在 AI 视频生产流水线中作为分镜 Agent 节点接入（MCP/A2A/REST）
-- 长剧本分段生成并保持角色与场景一致性
+- 把长剧本转成 Sora/Veo 可直接使用的分镜提示词
+- 短剧/动漫制作中保持角色形象跨镜头一致
+- 作为中间节点接入 A2A 多智能体创作流水线
+- 通过 MCP 在支持 MCP 的 IDE/Agent 框架中调用分镜能力
 
 ## 场景标签
 
-`提示工程` `视频生成` · 领域:Agent 开发
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L12:  基于 LangChain + LangGraph 多智能体协作的剧本转分镜系统，确保叙事连续性与镜头级提示词生成。
-> L33: > 🚀 **一键转换**：支持任意格式剧本（电影、短剧、动漫、小说等） → 镜头级描述 → **Sora / Veo / Runway / 可灵 Ready Prompt**
-> L35: > 🔌 **多端生态支持**：开箱即用 **Python SDK、MCP 服务、Function Calling、REST API 及 LangGraph 节点**
+> L11:  基于 LangChain + LangGraph 多智能体协作的剧本转分镜系统，确保叙事连续性与镜头级提示词生成。
+> L32: - 🚀 **一键转换**：支持任意格式剧本（电影、短剧、动漫、小说等） → 镜头级描述 → **Sora / Veo / Runway / 可灵 等Prompt**
+> L55: |多协议集成|提供 Python SDK、REST API、LangGraph 节点、A2A 协作协议与 MCP 标准接口|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ff5113a39e62` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ff348edb3aa6` · [字段定义](../../DATASET.md)*

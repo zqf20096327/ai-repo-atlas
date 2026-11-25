@@ -2,9 +2,9 @@
 
 ⭐ 215 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/RobThePCGuy/Claude-Patent-Creator) · [官网](https://github.com/RobThePCGuy/Claude-Patent-Creator) · 个人维护
 
-**面向 Claude Code 的美国专利起草与检索系统（MCP 服务器+插件）**
+**给专利申请人用的 AI 专利起草与检索系统（Claude Code 插件+桌面应用）**
 
-以 MCP 服务器（20+ 工具）与 Claude Code 插件两种形态运行的专利创建与分析系统。功能包括：对 MPEP/35 USC/37 CFR 的混合 RAG 检索（FAISS 向量+BM25 词法+交叉编码器重排）、经 BigQuery/SerpApi/USPTO API 检索 1 亿+专利做现有技术搜索、35 USC 112 条款合规检查、Graphviz 生成专利附图，以及从描述到可审阅草稿的引导式工作流。安装向导自动下载约 500MB 官方 PDF 并构建索引，检测 NVIDIA GPU/Apple Silicon/CPU 并切换对应 PyTorch。明确声明不代为提交、不提供法律意见。
+面向非律师、非程序员的发明者，把专利流程封装为 MCP 服务器与 Claude Code 插件：用自然语言查询 MPEP/USC/CFR 规则并附引用，做现有技术检索（SerpApi/Google Patents、EPO OPS、BigQuery、USPTO ODP 等可选通道），按审查员视角做 35 USC 112 合规性与形式检查，生成专利风格附图（Graphviz），并通过引导式工作流从想法产出可交付律师审阅的申请草稿。另有免费的 Mac/Windows 桌面应用免终端运行整套系统，需 Claude 付费套餐或含 Codex 的 ChatGPT 套餐。工具明确声明不代为提交申请、不提供法律意见。
 
 ## 筛选速览
 
@@ -14,32 +14,33 @@
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
-| 硬件要求 | `cpu-ok` | |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- MPEP/USC/CFR 混合 RAG 检索（FAISS+BM25+交叉编码器重排）
-- BigQuery/SerpApi/USPTO API 多通道检索 1 亿+专利做现有技术搜索
-- 35 USC 112(a)/(b) 合规检查与整包一致性检查
-- Graphviz 生成专利风格框图与流程图
+- 混合 RAG 检索 MPEP/USC/CFR 规则并返回带出处的原文摘录
+- 多通道现有技术检索：SerpApi(Google Patents)、EPO OPS、BigQuery、USPTO ODP
+- 35 USC 112 合规检查并报告未运行的检查项
+- 提供 Mac/Windows 桌面应用 Patent Creator Studio 免终端使用
 
 ## 适用场景
 
-- 提交前检索 1 亿+现有专利判断想法是否新颖
-- 让 AI 按审查员口径检查权利要求书与说明书草稿
-- 从想法描述生成可交专利代理人审阅的完整申请草稿包
+- 起草专利前检索现有技术判断新颖性
+- 让 AI 按审查员视角检查权利要求措辞与格式问题
+- 根据发明描述生成专利附图和流程图
+- 查询专利规则条文并获取引用出处
 
 ## 场景标签
 
-`RAG` `AI 写作` `科研工具` · 领域:内容生成
+`RAG` `文档问答` `科研工具` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L9: **An AI-powered patent creation and analysis system for Claude Code.**
-> L101: **MCP Server** is the engine. It exposes 20+ tools that any MCP-compatible client (Claude Code, Claude Desktop, et
-> L105: Under the hood, patent regulation search uses a hybrid approach: FAISS vector search finds semantically similar co
+> L17: - **Ask patent-rule questions in plain English.** "Do my claims have to be numbered?" "How long can the abstract be
+> L21: - **Go from "here is my idea" to a reviewable draft application.** A guided workflow takes your description (or eve
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `dfd43974f13e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `8d070074988b` · [字段定义](../../DATASET.md)*

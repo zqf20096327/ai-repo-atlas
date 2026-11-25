@@ -1,10 +1,10 @@
 # kbterm/kubeterm
 
-⭐ 233 · 推送 2026-11-20 · [GitHub](https://github.com/kbterm/kubeterm) · [官网](https://www.kubeterm.com) · 组织维护 · 中文 README
+⭐ 233 · 推送 2026-11-20 · [GitHub](https://github.com/kbterm/kubeterm) · [官网](https://www.kubeterm.com) · 组织维护
 
-**Kubernetes 图形化管理工具，内置 AI 助手辅助排障**
+**桌面与移动端 Kubernetes 图形管理工具，内置运维 AI 助手**
 
-跨桌面与移动端的 Kubernetes 集群图形化管理应用：读取本地 kubeconfig 零配置接入集群，支持资源查看与增删改、弹性伸缩、节点 cordon/drain、临时容器调试、日志查看、文件传输、端口转发、Helm 管理与 Prometheus 指标集成。内置 AI Agent 可基于当前集群上下文协助排障，变更操作需用户批准；应用本身非开源，仓库承载 issue、发布与文档。
+Kubeterm 是本地运行的 Kubernetes 集群图形管理应用，无需向集群内安装组件。功能覆盖 kubeconfig 自动加载与云账号导入（GCP/Azure/AWS 凭证）、OIDC 认证、资源查看与增删改、临时容器调试、日志查看、文件传输、端口转发、Helm 发布管理、Argo CD/Flux 监控及 Prometheus 历史指标。内置 AI Agent 结合当前集群上下文辅助排障与运维，变更类操作需用户批准。提供 iOS/Android 及 macOS/Windows/Linux 安装包；应用本体不开源，仓库仅承载 issue、发布与文档。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 本地运行，无需在集群内安装任何组件
-- 内置 AI Agent 基于集群上下文排障，变更操作需显式批准
-- 支持 GCP/Azure 账号登录导入集群、多种云凭证与 OIDC 认证
-- 覆盖调试、文件传输、端口转发、Helm 管理与 Prometheus 指标
+- 内置 AI 助手，携带集群/资源上下文辅助排障，变更操作需显式批准
+- 零配置读取 kubeconfig，支持 GCP/Azure 云账号登录导入集群
+- Helm 发布管理、Argo CD/Flux CD 监控与 Prometheus 集成
+- 桌面与移动端跨平台，数据本地存储、无遥测
 
 ## 适用场景
 
-- 在图形界面中查看和操作 Kubernetes 集群资源
-- 排查 Pod/节点问题，查看日志与历史指标
-- 通过 AI 助手基于集群上下文定位故障并经批准执行变更
+- 在桌面或手机上查看和管理 Kubernetes 集群资源
+- 用 AI 助手排查集群问题并执行运维操作
+- 管理 Helm 发布和 GitOps（Argo CD/Flux）应用状态
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L9: Kubeterm is a graphical management tool for Kubernetes clusters.
 > L24: - **AI Agent:**
-> L73: Kubeterm includes a built-in AI Agent for Kubernetes operations and troubleshooting.
+> L102: The Kubeterm application is not open source.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f1eac9029cc8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9ca9397f8d3a` · [字段定义](../../DATASET.md)*

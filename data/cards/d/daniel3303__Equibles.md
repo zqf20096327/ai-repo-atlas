@@ -2,9 +2,9 @@
 
 ⭐ 248 · C# · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/daniel3303/Equibles) · [官网](https://equibles.com) · 个人维护
 
-**自托管金融数据 MCP 服务器：让 AI agent 直接查询 SEC/FRED 等数据**
+**自托管金融数据 MCP 服务器，供 AI agent 查询 SEC/市场数据**
 
-面向 AI agent（而非人类）的自托管金融数据服务器：抓取并存储 SEC 文件与 XBRL 财务、13F 持仓、内部人与国会议员交易、FINRA/SEC 空头数据、FRED 经济指标、CFTC/CBOE 持仓、政府合同与每日股价，以 64+ 个 MCP 工具暴露，供 Claude、ChatGPT、Cursor 等 agent 直接查询，覆盖美国及主要欧洲交易所股票。通过 Docker Compose 部署，含 ParadeDB、Web 门户、MCP 服务与抓取 worker；FINRA 与 FRED 需免费 API key（缺失时对应抓取器跳过）。可选开启向量嵌入，支持 Ollama 或 OpenAI 兼容端点。Equibles Cloud 为托管付费层，额外提供财报电话会转录、实时报价等工具。
+通过 Model Context Protocol 向 AI agent 提供金融数据：抓取并存储 SEC 文件与 XBRL 财务报表、13F 持仓、内部人与国会议员交易、做空数据、FRED 经济指标、CFTC/CBOE 持仓、欧洲上市证券及日线行情，共 72 个自托管 MCP 工具，配套 Web 门户与后台抓取 worker，以 Docker Compose 部署。官方托管的 Equibles Cloud 在同一协议上追加电话会转录、实时报价、期权链、LLM 抽取 KPI 等工具，免费档每天 100 次请求。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 64+ 个 MCP 工具覆盖 SEC 文件、13F、内幕交易、国会议员交易、FRED 等 14 类数据域
-- Docker Compose 一键部署：ParadeDB 数据库 + Web 门户 + MCP 服务 + 抓取 worker
-- 覆盖美国上市及欧洲主要交易所（Euronext、Xetra、LSE 等）股票，支持 MIC:TICKER 格式
-- 可选向量嵌入，支持 Ollama 与 OpenAI 兼容端点（vLLM/TEI）
+- 72 个自托管 MCP 工具，覆盖 SEC 文件、13F、内部人/国会交易、做空、FRED 等数据源
+- Docker Compose 一键启动 db/web/mcp/worker 四个服务
+- 支持美国上市及欧洲主要交易所（Euronext、Xetra、伦敦等）证券，按 ISIN 与 MIC:TICKER 检索
+- 可选启用向量嵌入生成；FINRA/FRED 需免费 API key，缺省时跳过不影响其他抓取器
 
 ## 适用场景
 
-- 让 Claude/Cursor 等 AI 助手直接查询美股与欧股的财报和持仓数据
-- 自建免费金融数据栈，替代付费终端的数据获取
-- 对内部人交易、国会议员交易、空头数据做自动化分析
+- 让 Claude/Cursor 等 agent 直接查询 SEC 文件与持仓数据
+- 自托管一套本地金融数据管道并长期回填历史数据
+- 用 MCP 工具对财报、内部人交易做定量研究
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L12: **Equibles is a self-hosted, open-source financial data MCP server** — an open-source alternative to a Bloomberg Te
-> L22: Everything marked **Self-hosted** is scraped, stored, and served by this repo — **70 MCP tools**, no account, no ke
+> L22: Everything marked **Self-hosted** is scraped, stored, and served by this repo — **72 MCP tools**, no account, no ke
+> L96: |**mcp**|8081|MCP server for AI assistants|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `694cfd7fbd2a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c868cff1d777` · [字段定义](../../DATASET.md)*

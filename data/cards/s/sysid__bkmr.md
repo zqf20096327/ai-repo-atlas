@@ -2,9 +2,9 @@
 
 ⭐ 269 · Rust · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/sysid/bkmr) · 个人维护
 
-**本地优先的 CLI 知识管理工具：存储书签/片段/记忆并按语义检索**
+**本地优先的知识管理 CLI：存书签/片段并供 AI 代理读写记忆**
 
-Rust 编写的命令行知识管理工具，存储 URL、代码片段、shell 命令、Markdown、环境变量等多种内容类型，并提供基于内容类型的动作分发（浏览器打开、剪贴板复制、交互执行等）。支持全文检索、基于本地嵌入的语义检索（fastembed，离线无需 API key）与 RRF 融合的混合检索。面向开发者与 AI agent：JSON 输出、非交互模式、`_mem_` 系统标签与 hsearch 构成 agent 长期记忆的读写接口；另内置 LSP 服务器将片段注入编辑器补全。通过 cargo 安装，数据全部本地存储。
+基于 Rust 与 SQLite 的命令行知识管理工具，统一存储 URL、代码片段、Shell 命令、Markdown、环境变量与本地文件，按内容类型分发动作（打开/复制/执行/渲染）。提供全文检索与混合检索（FTS + 本地 ONNX 语义向量、RRF 融合，离线无 API key）。面向开发者与 AI 代理：JSON 输出、非交互模式，`_mem_` 系统标签与 bkmr-memory 技能构成代理长期记忆的读写接口；内置 LSP 服务器与 Neovim/IntelliJ 插件。支持备份/恢复与历史回滚。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Rust 编写的命令行知识管理工具，存储 URL、代码片段、shell �
 
 ## 能力要点
 
-- 多内容类型存储与基于类型的动作分发（URL/片段/脚本/Markdown/env）
-- 全文 + 语义 + RRF 混合检索，本地嵌入离线运行
-- `_mem_` 系统标签与 JSON 输出构成 AI agent 记忆读写接口
-- 内置 LSP 服务器与 Neovim/IntelliJ 编辑器插件集成
+- 混合检索：FTS + 本地语义嵌入（离线，无需 API key），带相似度与命中类型标注
+- 面向 AI 代理的长期记忆接口：`_mem_` 标签与可安装的 bkmr-memory 技能
+- 多种内容类型的上下文感知动作分发（URL/片段/脚本/Markdown/环境变量）
+- JSON 输出与备份恢复机制；内置 LSP 服务器及编辑器插件
 
 ## 适用场景
 
-- 在终端统一管理书签、代码片段和 shell 命令并快速调用
-- 为 AI agent 提供持久化长期记忆存储
-- 在编辑器内补全和复用已存的代码片段
+- 在本地离线管理书签、代码片段与文档并按语义检索
+- 为 Claude 等 AI 代理提供可持久化的项目长期记忆
+- 在编辑器内通过 LSP 补全直接调用代码片段
+- 脚本流水线中以 JSON 非交互方式批量读写条目
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Rust 编写的命令行知识管理工具，存储 URL、代码片段、shell �
 
 ## 证据(README 行号)
 
-> L14: **Organize**, **find**, and **apply** various content types:
+> L10: # Beyond Bookmarks and Snippets: Knowledge Management for Humans and Agents
 > L26: - **Agent-friendly**: JSON output, non-interactive mode, and `_mem_` system tag for AI agent memory
-> L34: ## Agent Memory and Skill
+> L118: |`hsearch`|Hybrid search: FTS + semantic with RRF fusion; `--mode exact`: keywords only; `--mode semantic`: meanin
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `938941f713ab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6f2d6d72cd19` · [字段定义](../../DATASET.md)*

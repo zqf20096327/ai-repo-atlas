@@ -2,9 +2,9 @@
 
 ⭐ 228 · HTML · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/alibaba/qz-browser-agent) · [官网](https://alibaba.github.io/qz-browser-agent/) · 组织维护 · 中文 README
 
-**本地优先的开源 Chrome 浏览器 agent：自动执行网页任务与数据提取**
+**本地优先的 Chrome 浏览器 AI 代理：自动化、研究与数据提取**
 
-以 Chrome 扩展形式运行的浏览器 agent：用户用一句话描述任务，它在已登录的真实 Chrome 中跨站点执行浏览流程，交付带来源的表格、文件或报告。自带模型（BYOK），支持 DeepSeek、OpenAI、Claude、OpenRouter 等预设供应商及兼容的本地模型服务器。任务数据存储在本地，无 qz 服务器。支持并行任务与子任务，可将成功任务保存为可复用 Skill；编码类 agent（如 Claude Code、Codex）可通过 CLI 和 MCP 将网页任务委托给它。许可为 Apache-2.0。
+以 Chrome 扩展形式运行的浏览器代理，在用户已登录的真实浏览器中执行任务：一句话描述任务后跨站点操作、提取数据并输出带来源的表格、文件或报告。支持并行任务与子任务拆分，可将跑通的任务保存为可复用 Skill；模型由用户自带 API key 接入，数据留在本地。另提供 CLI 与 MCP 通道，供 Claude Code、Codex 等编码代理驱动浏览器或委托整个网页任务。支持 Chrome 与 Edge，Firefox 需临时加载。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 在用户已登录的真实 Chrome 中执行浏览任务，数据本地存储
-- BYOK 接入 DeepSeek/OpenAI/Claude/OpenRouter 等供应商及本地模型
-- 并行任务与子任务拆分，任务可保存为一句复用的 Skill
-- 提供 CLI 与 MCP 通道，供 Claude Code/Codex 等 agent 委托任务
+- Chrome 扩展 + 侧边栏，可直接介入或停止任务
+- 并行任务与子任务拆分，聚合多来源数据为对比表
+- 一句话将任务保存为可复用 Skill
+- CLI 与 MCP 通道供外部编码代理调用
 
 ## 适用场景
 
-- 一句话让 agent 跨多个网站收集资料并生成带来源的对比表格
-- 把重复的网页流程保存成 Skill，下次一句话复用
-- 让编程 agent 通过 CLI/MCP 把网页浏览任务交给 qz 执行
+- 在已登录的浏览器里跨站点收集并整理数据表格
+- 让编码代理把网页浏览类子任务委托给 qz
+- 把常用的网页研究流程存成 Skill 反复调用
+- 对比多个网站上的信息并生成带来源的报告
 
 ## 场景标签
 
-`浏览器自动化` `网页抓取` · 领域:效率与自动化
+`浏览器自动化` `网页抓取` `编码 Agent` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L10: qz is an open-source browser agent that runs in your own browser as a Chrome extension. Describe a task in one sent
-> L5:  Open-source, local-first browser agent
-> L137: qz runs entirely in your browser. Sessions, Skills, and collected data stay on your machine, and the CLI/MCP bridg
+> L141: qz runs entirely in your browser. Sessions, Skills, and collected data stay on your machine, and the CLI/MCP bridg
+> L161: Use a provider with a supported protocol and tool calling, including a compatible local server.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `7ec535f5c390` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `55a18984a3c4` · [字段定义](../../DATASET.md)*

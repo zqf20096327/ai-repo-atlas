@@ -1,10 +1,10 @@
 # idwts/Crayotter
 
-⭐ 257 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/idwts/Crayotter) · [官网](https://idwts.github.io/Crayotter/) · 组织维护 · 中文 README
+⭐ 257 · Python · NOASSERTION · 推送 2026-10-31 · [GitHub](https://github.com/idwts/Crayotter) · [官网](https://idwts.github.io/Crayotter/) · 个人维护 · 中文 README
 
-**多模态 AI 剪辑智能体：一句话文字需求端到端产出成品视频**
+**文字需求到成片的端到端 AI 视频剪辑智能体**
 
-基于多模态大模型的视频剪辑 agent 系统：接收一行自然语言需求后，经三阶段工作流（素材准备→剪辑研究→ReAct 剪辑执行）自动完成搜索下载、多模态素材分析、剪辑蓝图生成、切条、TTS 旁白、字幕烧录与导出。支持 Bilibili/抖音/小红书/快手/YouTube 等多源素材导入，配 Web 工作台与轨迹可视化。默认接入 OpenAI 兼容 API（dashscope/qwen-plus），需自行配置 API key；源码运行需 Python 3.10+ 与 ffmpeg，Windows 提供免安装独立发行包。
+多模态智能体驱动的视频剪辑系统：输入一条自然语言需求，自动完成素材搜索与下载（Bilibili、抖音、小红书、快手、YouTube 等多源，经 yt-dlp）、素材多模态分析、剪辑蓝图推理、ReAct 工具执行，产出带旁白 TTS、字幕、混音的成品视频。三阶段工作流全程留日志并支持可视化 trace 与断点续跑。桌面版提供 Windows 与 Apple Silicon 安装包，也可源码运行；模型 API key 需用户自备，采用 PolyForm Noncommercial 非商业许可。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 三阶段可回放工作流：规划、纯推理剪辑研究、工具化执行
-- 资源感知 DAG 调度：搜索/下载/分析/LLM/FFmpeg/TTS 有界并发，支持断点续跑
-- 多源素材导入（Bilibili/抖音/小红书/快手/YouTube/generic URL）
-- 内置分段 TTS、响度归一、背景闪避与字幕烧录
+- 一条自然语言请求驱动素材采集到导出的全流程
+- 三阶段可追溯工作流：规划→纯推理剪辑研究→工具执行
+- 资源感知 DAG 调度与中断任务恢复
+- 内置分段 TTS、响度归一、字幕烧录与背景闪避
 
 ## 适用场景
 
-- 用一句话需求自动生成完整剪辑视频
-- 本地素材优先的自动化剪辑与配旁白字幕
-- 通过 Web 工作台管理任务并回放工具调用轨迹做调试
+- 输入一句话描述，让 agent 自动生成带旁白字幕的成片
+- 从 B 站、抖音、YouTube 等平台采集素材二次剪辑
+- 回放可视化 trace 检查剪辑 agent 的工具调用过程
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+`视频生成` `多模态` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L28: Crayotter is a multimodal, agent-driven video editing system that turns a single text request into a complete edite
-> L57: - **Multimodal material understanding** — Each source video is analyzed by a multimodal model to inform narrative a
+> L57: - **One request to one video** — A single natural-language prompt drives the whole pipeline from sourcing to export
+> L133: 1. **Set up models:** open Settings and enter your API key, endpoint, and models. Provider charges apply; Crayotte
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `857504bf9fae` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `84f34ff3bfdf` · [字段定义](../../DATASET.md)*

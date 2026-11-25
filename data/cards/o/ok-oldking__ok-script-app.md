@@ -2,9 +2,9 @@
 
 ⭐ 229 · Python · 推送 2026-11-03 · [GitHub](https://github.com/ok-oldking/ok-script-app) · 个人维护 · 中文 README
 
-**基于 ok-script 的 Python 游戏自动化应用起步模板**
+**基于 ok-script 的 Windows/模拟器游戏自动化项目模板**
 
-基于 ok-script 的 Python 项目模板，面向为 Windows 原生游戏、Android 模拟器和浏览器游戏开发带 GUI 的自动化应用的开发者。仓库提供任务示例、OCR、模板匹配、配置控件、测试、i18n、EXE 打包与更新发布配置，定位是起步工程和功能演示，不是具体游戏的成品脚本。支持 Qt 与 Web 两种依赖 profile，文档以 MkDocs 源文件形式提供并可通过 GitHub Pages 发布。
+一个 Python 自动化起步工程模板，用于为 Windows 原生游戏、Android 模拟器和浏览器游戏创建带 GUI 的自动化应用。仓库提供任务示例、OCR、模板匹配、配置控件、测试、i18n、EXE 打包和更新发布配置，文档整理为 MkDocs 网站源文件并可通过 GitHub Pages 发布。README 明确说明它是起步工程和功能演示，不是某个具体游戏的自动化成品；依赖锁定在 ok-script 3.0.0b3，ok-script 3 已移除 Web 界面。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 覆盖 Windows 原生游戏、Android 模拟器、浏览器游戏三类运行目标
-- 内置 OCR 与模板匹配能力及任务示例
-- 提供配置控件、测试、i18n、EXE 打包与更新发布配置
-- Qt / Web 双依赖 profile，文档以 MkDocs 组织
+- 基于 ok-script 生成带 GUI 的自动化应用模板
+- 内置 OCR 与模板匹配能力
+- 提供 EXE 打包与更新发布配置
+- MkDocs 文档网站源文件，可发布到 GitHub Pages
 
 ## 适用场景
 
-- 为游戏自动化脚本搭建带 GUI 的工程起点
-- 复用 OCR 与模板匹配做游戏画面识别
-- 打包并发布自己的自动化 EXE 应用
+- 作为新自动化脚本的起步工程模板
+- 为 Windows 原生游戏或模拟器游戏制作带界面的自动化工具
+- 学习 ok-script 的任务开发与打包流程
 
 ## 场景标签
 
-`GUI 自动化` `OCR` · 领域:效率与自动化
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `73ae93d17f09` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `32f1632cd2bd` · [字段定义](../../DATASET.md)*

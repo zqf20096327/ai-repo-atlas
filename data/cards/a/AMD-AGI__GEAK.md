@@ -2,9 +2,9 @@
 
 ⭐ 214 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/AMD-AGI/GEAK) · 组织维护
 
-**面向 AMD GPU 的自动内核优化 agent，提升 vLLM/sglang 推理吞吐**
+**AMD GPU 内核自动优化 agent：自动寻找瓶颈并生成调优内核**
 
-由 Claude Code 驱动的多 agent 自动优化系统，用于 AMD GPU（Instinct MI/CDNA、RDNA3.5、Radeon AI PRO R9700）内核优化。提供两条工作流：kernel_workflow 优化单个内核（Triton/HIP/CK/FlyDSL），e2e_workflow 提升整个 LLM 在 sglang/vLLM 上的服务吞吐，按 Amdahl 分诊热点内核并以温服务器 A/B 门控接受改动。控制流为确定性 JS，LLM agent 仅做判断；也可运行于 codex CLI。需先自建内核工具链（PyTorch/Triton 等）与 ROCm 6+ 环境。
+GEAK 是运行在 Claude Code 之上的多 agent 优化系统，面向 AMD Instinct MI 与 RDNA 系列 GPU：用户提供单个内核或运行中的 sglang/vLLM 推理服务，agent 自动完成性能剖析、热点内核定位、跨 Triton/HIP/FlyDSL/TileLang 等路径生成与调优候选、以及在真实系统上验证加速。工作流控制流为确定性 JS 编排，LLM 仅承担判断类任务；自带可跨运行积累的知识库。要求 ROCm 6+、profiler 与预置好的内核工具链，GEAK 本身不安装内核工具链。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- kernel_workflow：Director→TechLead→专家工程师的多轮预算控制单内核优化
-- e2e_workflow：Amdahl 分诊 + 交错 A/B 门控提升整模型服务吞吐
-- 确定性 JS 工作流编排，LLM agent 仅承担分析/策略判断
-- 支持 Claude Code 与 codex CLI 两种 agent 后端
+- 两个工作流：e2e_workflow 优化整模型 sglang/vLLM 吞吐，kernel_workflow 优化单个 GPU 内核
+- 确定性 JS 工作流编排控制流，LLM agent 仅负责分析、策略与优化判断
+- 每次运行生成 final_report.md 及各阶段产物，改动以可回退 overlay 方式应用
+- 另支持在 OpenAI codex CLI 上以相同 JS 工作流运行
 
 ## 适用场景
 
-- 优化 AMD GPU 上单个 Triton/HIP 内核的延迟
-- 提升 sglang/vLLM 部署的整模型推理吞吐
-- 对大量内核批量派发 agent 并隔离 GPU 资源
+- 为 AMD GPU 上的 LLM 推理服务自动提升端到端吞吐
+- 批量优化一组 Triton/HIP 内核并自动验证加速
+- 在 MI300X 等 Instinct 卡上替代数周的人工内核调优流程
 
 ## 场景标签
 
-`多智能体` `编码 Agent` · 领域:Agent 开发
+`多智能体` `编码 Agent` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: GEAK is an autonomous optimization agent that makes AMD GPUs run faster, automatically. Built as a
-> L9: improves its strategies over time. Point it at a single kernel or a live model-serving stack such as vLLM or
-> L22: |e2e_workflow|Whole-model serving|End-to-end sglang / vLLM throughput of a full LLM|
+> L19: other gfx1100 board is refused. It is driven by
+> L182: Control flow — the budget loop, fan-out, verification, and stop conditions — is **deterministic JS** in
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `5ea32adcc03c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `82f6968e50a3` · [字段定义](../../DATASET.md)*

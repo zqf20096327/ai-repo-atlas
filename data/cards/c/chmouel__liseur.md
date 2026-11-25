@@ -2,9 +2,9 @@
 
 ⭐ 216 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/chmouel/liseur) · [官网](https://f-droid.org/en/packages/com.chmouel.liseur/) · 个人维护
 
-**Android 开源 EPUB 阅读器，支持远程书库与 AI 阅读伴侣**
+**Android 开源 EPUB 阅读器，支持书库同步与本地阅读伴随**
 
-用 Jetpack Com 编写的 Android EPUB 阅读器，基于 Readium 引擎渲染，支持四种阅读主题、自动滚动、高亮笔记、字典查询、Android 翻译器或自选服务器逐句翻译、设备语音或自建语音服务朗读。可作为 calibre-web、Komga、BookOrbit、liseur-sync 或任意 OPDS 目录的客户端，统一书架管理与跨设备进度同步（精确到句子），内置 Project Gutenberg 免费书浏览。AI 阅读伴侣可回答角色与情节问题、生成角色档案与章节回顾；离线时在设备上构建人物/地点/群组的可搜索索引，联网答案由用户配置的服务器提供。无广告、无账号、自身代码无跟踪分析。
+面向 Android 的开源 EPUB 阅读器，同时作为 calibre-web、Komga、BookOrbit、liseur-sync 及任意 OPDS 目录的客户端，支持跨设备阅读位置同步到句子级。基于 Readium 引擎渲染，提供高亮、笔记、书签、词典、翻译与朗读；内置词汇本，以间隔重复复习并导出 Anki。阅读伴随功能在手机本地建立人物/地点/_groups 索引，问答与章节摘要需用户自行配置服务器。F-Droid/GitHub 构建无广告无跟踪，桌面版已弃置。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- Readium 引擎渲染 EPUB，四种主题与逐书排版调节
-- 阅读伴侣：基于前文的问答、角色档案与章节回顾，索引本地构建、答案来自配置的服务器
-- 统一书架接入 calibre-web/Komga/BookOrbit/liseur-sync/OPDS，进度同步到句子级
-- 朗读支持设备语音或自建语音服务器；翻译支持 Android 翻译器或自选服务器
+- 支持 calibre-web、Komga、BookOrbit、liseur-sync 及任意 OPDS 目录的统一书架
+- 阅读位置跨设备同步，精确到句子（后三者）
+- 本地索引人物/地点/群体，无需服务器；问答与摘要通过自配服务器
+- 词汇本间隔重复复习，可导出 Anki 兼容 CSV
 
 ## 适用场景
 
-- 在手机上阅读本地或自建书库的 EPUB 图书并跨设备同步进度
-- 长篇小说中查询角色关系、回顾此前情节
-- 接入自托管的 calibre-web 或 liseur-sync 作为个人电子书方案
+- 在手机上阅读 EPUB 并同步多设备的阅读进度
+- 连接自托管书库服务器管理下载藏书
+- 阅读外文书时积累词汇并按间隔重复复习
+- 阅读长篇时查询角色与情节并查看章节回顾
 
 ## 场景标签
 
-`文档问答` · 领域:知识与检索
+ · 领域:阅读/电子书工具
 
 ## 证据(README 行号)
 
 > L13: An open-source ebook reader for Android, and a client for calibre-web, Komga, BookOrbit, liseur-sync and any OPDS c
-> L52: The reading companion answers questions about characters and events using
-> L62: The library is one shelf whatever the source: local folders, calibre-web,
+> L91: The reading companion answers questions about characters and events using
+> L94: without a server, the companion builds a searchable index of people, places
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `22f4a08578c1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `85a1c3d2aa6c` · [字段定义](../../DATASET.md)*

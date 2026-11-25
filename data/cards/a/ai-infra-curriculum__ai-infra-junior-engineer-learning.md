@@ -2,9 +2,9 @@
 
 ⭐ 265 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai-infra-curriculum/ai-infra-junior-engineer-learning) · 组织维护
 
-**初级 AI 基础设施工程师的系统化课程仓库（440 小时）**
+**面向 0-2 年经验者的 AI/ML 基础设施工程师入门课程**
 
-面向 0-2 年经验入门者的 AI/ML 基础设施课程：10 个学习模块（约 150 小时）覆盖 Python、Linux、Git、ML 基础、Docker、Kubernetes、API、数据库、监控与云平台；5 个实操项目（约 290 小时）从模型 API 部署到生产级 ML 系统毕业设计，技术栈含 Flask/FastAPI、MLflow、DVC、Airflow、Prometheus/Grafana、Terraform 等。每个项目配 100 分制评分量规（70 分及格），供自学者、讲师与学习小组使用；总时长 440 小时，前置要求为基本 Python 与命令行。由 VeriSwarm.ai 维护，属免费开源 AI Career Curriculum 生态。
+一套免费开源的初级 AI 基础设施工程师学习课程：440 小时（10 个模块 + 5 个实战项目），覆盖 Python、Linux、Git、Docker、Kubernetes、MLflow、DVC、Airflow、Prometheus/Grafana 及 AWS/GCP/Azure 云部署与 CI/CD。提供评分量表（70 分及格）、自学/教学/学习小组三种使用路径，以及进阶课程路线图与配套题解仓库。前提为基本 Python 与命令行技能，MIT 许可，由 VeriSwarm.ai 维护。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 10 模块 + 5 实操项目，总时长 440 小时（11 周全职/22 周兼职）
-- 每项目配 100 分制评分量规与自评清单（70 分及格）
-- 技术栈覆盖 Docker/Kubernetes/MLflow/DVC/Airflow/Prometheus/Terraform
-- 提供初级到 Principal 的职业进阶路径与跨轨道对照文档
+- 440 小时课程：10 个模块（约 150 小时）+ 5 个项目（约 290 小时）
+- 每个项目附 100 分评分量表、自评清单与同伴评审指南
+- 项目覆盖模型 API 部署、Kubernetes 交付、ML 管道、监控告警与生产级 capstone
+- 提供面向教师的一学期课程结构（16 周）与学习路径建议
 
 ## 适用场景
 
-- 零基础转行入门 ML 基础设施/MLOps 工程
-- 讲师直接用作一学期课程教材（16 周、每周 10 小时）
-- 学习小组按模块推进并互相评审项目代码
+- 作为初学者自学进入 ML 基础设施/MLOps 岗位
+- 教师拿来做一学期的 ML 基础设施课程材料
+- 学习小组按模块组织讨论与结对编程
+- 构建可展示的项目作品集求职
 
 ## 场景标签
 
@@ -38,7 +39,8 @@
 ## 证据(README 行号)
 
 > L11: Welcome to the **Junior AI Infrastructure Engineer Learning Repository**! This comprehensive curriculum is designed
-> L56: **Total Duration:** 440 hours (11 weeks full-time, 22 weeks part-time)
+> L60: ### Learning Modules (10 modules, ~150 hours)
+> L75: ### Hands-On Projects (5 projects, ~290 hours)
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5b3d6feb6f10` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `cb88dd424b7a` · [字段定义](../../DATASET.md)*

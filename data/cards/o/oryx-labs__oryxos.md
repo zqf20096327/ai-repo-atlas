@@ -1,10 +1,10 @@
 # oryx-labs/oryxos
 
-⭐ 215 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/oryx-labs/oryxos) · [官网](https://oryx-labs.github.io/oryxos/) · 组织维护
+⭐ 215 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/oryx-labs/oryxos) · [官网](https://oryx-labs.github.io/oryxos/) · 组织维护 · 中文 README
 
-**面向企业的自托管分布式 AI Agent 操作系统**
+**企业级自托管 Agent OS：统一构建、运行并治理 AI Agent 应用**
 
-用 Java 实现的自托管 Agent OS：以单个二进制/fat JAR 进程提供 REST API、Web 管理台、调度器与沙箱。Agent 以一个 Markdown 目录（AGENT.md）定义即可上线，内置自研 ReAct 循环、24 个内置工具、MCP 连接器、长期记忆、知识库混合检索、通知与 cron 调度。LLM 提供商存于 SQLite 注册表可运行时增删，支持本地推理；工具调用经白名单管控，所有调用写入审计表。需 Java 21 + Maven 构建，Windows 需在 WSL2 运行，另提供多架构 Docker 镜像。
+面向企业的开源自托管 Agent Harness OS：为 AI 应用提供共享运行时，覆盖 Agent 与任务生命周期（会话、记忆、状态、制品、证据）、模型路由与成本优化、知识库与上下文组装、Tools/MCP/企业系统集成。核心机制是治理嵌入执行路径：身份、授权、策略、审批、沙箱、审计、成本归属随任务执行。Java 构建（mvn），默认内置 mock Provider，无需 LLM API key 即可启动，管理界面位于 localhost:8080。
 
 ## 筛选速览
 
@@ -12,35 +12,35 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 部署形态 | `None` |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- AGENT.md 目录定义 Agent，一句话可由 LLM 生成草稿
-- 自实现 ReAct 循环，无外部框架依赖
-- SQLite 动态 Provider 注册表，多提供商路由、支持本地推理
-- 工具调用白名单管控与全量审计持久化
-- 单二进制进程含 REST API、Vue 3 管理台、调度器与沙箱
+- Agent 与任务运行时：一致的生命周期、受控环境、持久化工作
+- 治理嵌入执行路径：授权、策略、审批、沙箱、审计、成本归属
+- 模型按质量/延迟/成本/数据边界路由
+- MCP 原生，Tools、Skills、渠道与自定义扩展
 
 ## 适用场景
 
-- 在企业自有基础设施上运行和管理多个 AI Agent
-- 以自然语言一句话定义并部署新 Agent
-- 通过 REST API 将 Agent 能力接入业务系统
+- 构建研发自动化、知识支持、工单协作、运维诊断等领域 AI 应用
+- 企业统一治理与审计所有 Agent 动作
+- 按任务需求路由模型并做成本归因
+- 自托管部署企业内部 AI 应用平台
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`Agent 框架` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L10: **OryxOS is the self-hosted Agent OS for the enterprise.** Describe a task in one sentence of natural language — Or
-> L33: **The bottleneck for reliable agents in production is not the model — it's the harness around it.** And an enterpri
-> L40: |Provides|Text generation|Loop, tools + execution, context, memory, sandbox, audit, delivery|Lifecycle, channels, r
+> L12: **OryxOS is an open-source, self-hosted Agent Harness OS for enterprise AI applications.** It lets enterprises run 
+> L20: Its core principle is simple: applications can freely compose capabilities, but they cannot bypass governance. Ever
+> L41: |**Governance Runtime**|Identity, authorization, policy, approval, sandbox boundaries, and audit are part of the ac
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `758af2134a53` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `56171c9e528c` · [字段定义](../../DATASET.md)*

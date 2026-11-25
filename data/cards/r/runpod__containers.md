@@ -2,9 +2,9 @@
 
 ⭐ 241 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/runpod/containers) · [官网](https://hub.docker.com/u/runpod) · 组织维护
 
-**Runpod 官方模板容器镜像的 Dockerfile 集合**
+**为 Runpod 官方模板构建容器镜像的 Dockerfile 集**
 
-由 Runpod 维护的仓库，收录其官方模板所用容器镜像的 Dockerfile，构建产物发布于 Docker Hub。镜像需包含 nginx、openssh-server、jupyterlab 三项依赖以支持平台代理端口、SSH 与 JupyterLab 访问（sandbox 类镜像除外）。构建基于 Docker Buildx 与 bake 文件，bake.sh 脚本合并共享版本定义与各模板专属配置；CUDA、Ubuntu、PyTorch 的版本兼容性集中于 versions.hcl 管理。面向在 Runpod 平台使用或自定义官方模板的用户。
+存放 Runpod 官方模板所用容器镜像的 Dockerfile，构建后的镜像发布在 Docker Hub。每个容器文件夹附 README 说明端口代理等服务启动信息；所有镜像默认要求 nginx（端口代理）、openssh-server（SSH 访问）、jupyterlab（JupyterLab 访问）三项依赖，沙箱镜像与 k3s 节点镜像为例外。构建通过 Docker Buildx 与 bake 文件管理，由 bake.sh 脚本组合共享版本定义与模板专属 bake 文件。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 提供 Runpod 官方模板的 Dockerfile，镜像发布于 Docker Hub
-- 统一依赖要求：nginx/openssh-server/jupyterlab（sandbox 镜像除外）
-- bake.sh 脚本集中管理 CUDA/Ubuntu/PyTorch 版本兼容性
+- 提供 Runpod 官方模板容器镜像的 Dockerfile，镜像发布于 Docker Hub
+- 统一依赖规范：nginx 端口代理、openssh-server、jupyterlab
+- bake.sh 脚本结合共享版本定义与模板 bake 文件管理构建
+- CUDA、Ubuntu、PyTorch 版本兼容性集中在 versions.hcl 维护
 
 ## 适用场景
 
-- 查看 Runpod 官方模板镜像的构建方式
-- 基于官方 Dockerfile 定制自己的容器镜像
-- 了解 Runpod 平台容器的依赖要求
+- 为 Runpod 平台定制或重建官方模板容器镜像
+- 按集中定义的 CUDA/Ubuntu/PyTorch 版本矩阵构建镜像
+- 参考镜像内依赖规范编写符合平台要求的容器
 
 ## 场景标签
 
@@ -37,7 +38,7 @@
 ## 证据(README 行号)
 
 > L3: This repository contains the Dockerfiles for the Runpod containers used for our official templates. Built containers
-> L42: Version compatibility and build targets for CUDA, Ubuntu, and PyTorch are centralized in `official-templates/shared
+> L11: The following dependencies are required for all images for Runpod platform functionality.
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `638b932e95c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `988156b5161c` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 204 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/prapaa-ai/agav) · [官网](https://agav.dev) · 组织维护
 
-**终端 AI 编程代理：在 CLI 中读写代码、跑测试、验证修改**
+**终端内运行的自主编码 agent：检查代码、改文件、跑测试**
 
-Apache 2.0 的终端自治编程代理，以自包含二进制安装（curl/PowerShell/cmd 脚本），无需 Node.js。可在仓库内检索代码、编辑文件、运行测试并验证修改；支持 7 个模型提供方（Anthropic、OpenAI、OpenRouter、NVIDIA NIM、Gemini、Vertex AI、Ollama），可用 /model 会话中切换模型。提供非交互 agav run 模式（JSON Schema 输出）用于 CI、跨会话记忆、技能与子代理、LSP 仓库感知编辑与沙箱化命令。README 标注为实验性 Beta，预期存在破坏性变更。
+以单一自包含二进制分发的终端原生编码 agent：读取仓库结构、编辑文件、运行测试并验证改动，支持交互模式与面向脚本/CI 的非交互模式（agav run，可选 JSON Schema 输出）。机制上围绕'每次模型调用'做成本控制：上下文缓存复用、中断无效修复循环、限制重试与预算、子 agent 隔离探索；提供会话恢复/分支、跨会话记忆、技能与子 agent 市场、/undo 与 LSP 查询。Apache 2.0，本地优先，工具按动作授权，macOS/Linux 可沙箱运行。
 
 ## 筛选速览
 
@@ -15,21 +15,22 @@ Apache 2.0 的终端自治编程代理，以自包含二进制安装（curl/Powe
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 7 个提供方，会话中 /model 切换，支持 Ollama 本地运行
-- 非交互 agav run 模式含每工具权限与 JSON Schema 输出，可入 CI
-- 会话可恢复/分支/搜索/导出，跨会话项目级记忆
-- LSP 查询、测试运行、/undo 与计划 UI 的仓库感知编辑
+- 单命令自包含安装，无需 Node.js
+- 多 provider 接入：OpenAI/OpenRouter/NVIDIA NIM/Gemini/Vertex AI/Ollama，可中途切换模型
+- 非交互 agav run 支持 CI 与 JSON Schema 输出、按工具权限控制
+- 会话可恢复/分支/导出，跨项目记忆与子 agent 委派
 
 ## 适用场景
 
-- 在终端里让代理审阅、编辑并验证仓库代码
-- CI 脚本中非交互执行代码任务
-- 用本地 Ollama 模型跑编程代理
+- 在终端里让 agent 完成跨文件改动并自动跑测试验证
+- 在 CI 中以非交互模式执行受限的仓库任务
+- 用 Ollama 本地模型运行编码 agent
+- 通过后台任务保持长时命令与定时任务运行
 
 ## 场景标签
 
@@ -38,8 +39,7 @@ Apache 2.0 的终端自治编程代理，以自包含二进制安装（curl/Powe
 ## 证据(README 行号)
 
 > L3: **Terminal-native autonomous agent for real repositories and projects**
-> L76: **You choose the brain.** 7 providers — Anthropic, OpenAI, OpenRouter, NVIDIA NIM, Gemini, Vertex AI, Ollama. Switc
-> L57: agav run "review the code in src/"
+> L96: * **Non-interactive mode** — `agav run` and `agav --print` with per-tool permissions and optional JSON Schema outpu
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `98838fd33b52` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `643cca8552a8` · [字段定义](../../DATASET.md)*

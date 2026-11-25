@@ -2,15 +2,15 @@
 
 ⭐ 271 · C · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/codespecs/daikon) · [官网](http://plse.cs.washington.edu/daikon/) · 组织维护
 
-**从程序运行轨迹中动态检测可能不变量的工具**
+**从程序运行轨迹中动态检测可能不变式的工具**
 
-Daikon 是一个不变量检测器：通过分析程序执行（如变量取值轨迹）动态推断可能的程序不变量，支持 Java、C、C#、Eiffel、Perl 等多种语言的前端。本体为软件工程分析工具，主题标签含 machine-learning。本 README 仅 14 行的发布说明，指向 doc/index.html 获取安装与使用文档；从源码仓库克隆需另阅 README.source。版本 5.9.1，由华盛顿大学 PLSE 组维护，提供网站下载的发行包。
+Daikon 是华盛顿大学发布的动态不变式检测器（5.9.1 版，2026 年 9 月发布），通过分析程序运行轨迹生成变量间可能成立的规格说明（不变式）。支持 Java、C、C#、Eiffel、Perl 等语言。从官网下载的分发包开箱即用，详细安装与使用说明位于 doc 子目录及项目主页；从源码仓库克隆则需要查阅 README.source。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,14 +20,14 @@ Daikon 是一个不变量检测器：通过分析程序执行（如变量取值�
 
 ## 能力要点
 
-- 从程序执行数据中动态检测可能的不变量
-- 支持 Java/C/C#/Eiffel/Perl 等多语言
-- 由华盛顿大学 PLSE 组维护，版本 5.9.1
+- 动态分析程序运行轨迹以生成可能不变式
+- 支持 Java、C、C#、Eiffel、Perl 等多种语言
+- 官网分发包开箱即用，文档随包提供
 
 ## 适用场景
 
-- 推断程序不变量以辅助规格生成与测试
-- 分析程序执行轨迹理解代码行为
+- 为代码推断规格说明以辅助理解程序行为
+- 为测试或验证生成候选不变式断言
 
 ## 场景标签
 
@@ -36,7 +36,7 @@ Daikon 是一个不变量检测器：通过分析程序执行（如变量取值�
 ## 证据(README 行号)
 
 > L1: This is the distribution of the Daikon invariant detector,
-> L2: Daikon version 5.9.1, released September 1, 2026.
+> L10:  https://plse.cs.washington.edu/daikon/
 
 ## 星数曲线
 
@@ -52,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `3ffcc07c3dff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `3fe541fd276f` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # anira-project/anira
 
-⭐ 249 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/anira-project/anira) · [官网](https://anira-project.github.io/anira/) · 组织维护
+⭐ 249 · C++ · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/anira-project/anira) · [官网](https://anira-project.github.io/anira/) · 个人维护
 
-**面向实时音频应用的神经网络推理集成 C++ 库**
+**为实时音频应用提供实时安全的神经网络推理库**
 
-C++ 库，用于在实时音频应用（如 JUCE/VST3、CLAP 插件）中集成神经网络推理，保证确定性的实时安全执行。支持多种推理后端：LibTorch、ONNX Runtime、LiteRT、TensorFlow Lite（legacy C API，与 LiteRT 互斥）与 ExecuTorch；通过静态线程池管理避免过度订阅并降低延迟，内置基准测试工具。跨 macOS/Linux/Windows/Android/iOS 平台，并可经 WebAssembly 在浏览器中运行（仅 ONNX Runtime 后端）。提供 CMake 子模块、预编译二进制、源码构建三种集成方式及 npm 包（@anira-project/anira）。限制：静态构建下 ExecuTorch 与 LiteRT/TFLite 不能同时使用；WASM 仅支持 ONNX Runtime。
+C++ 库，用于在音频应用中集成神经网络推理并保证实时安全：线程池按进程共享管理推理线程、支持推理预算（budget）测量与固定、预热机制，内置基准测试工具评估实时性能。通过 JSON 模型文件与契约文件配置模型与运行方式。支持 ONNX Runtime、LibTorch、LiteRT、TensorFlow Lite、ExecuTorch 五种推理引擎及自定义引擎注册，支持有状态与无状态模型，覆盖 macOS/Linux/Windows/Android/iOS 与 WebAssembly。提供 CMake 集成（子模块/预编译二进制/源码构建）与 npm Web 包。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ C++ 库，用于在实时音频应用（如 JUCE/VST3、CLAP 插件）中集成�
 
 ## 能力要点
 
-- 实时安全执行：确定性运行时，适配实时音频场景
-- 多后端支持：LibTorch、ONNX Runtime、LiteRT/TFLite、ExecuTorch
-- 静态线程池管理与内置实时性能基准测试
-- 跨平台（含 Android/iOS/WASM），提供 C++ 库与 npm Web 包
+- 实时安全执行与确定性运行时设计
+- 五种推理引擎支持及自定义引擎注册
+- 内置基准测试工具评估神经网络实时性能
+- JSON 模型文件与契约文件驱动配置，支持推理预算与预热
 
 ## 适用场景
 
-- 在 JUCE/VST3 或 CLAP 音频插件中嵌入实时安全的神经网络推理
-- 对比不同神经网络模型、后端与音频配置的实时性能
-- 在浏览器中通过 WebAssembly 运行音频神经网络推理
+- 在 JUCE/VST3/CLAP 音频插件中集成实时神经网络推理
+- 对神经网络模型在音频场景下的实时性能做基准测试
+- 在浏览器（WebAssembly）中运行音频模型推理
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ C++ 库，用于在实时音频应用（如 JUCE/VST3、CLAP 插件）中集成�
 ## 证据(README 行号)
 
 > L11: **Anira** is a high-performance library designed to enable easy real-time safe integration of neural network infere
-> L35: - **Comprehensive Inference Engine Support**: Integrates common inference engines, LibTorch, ONNXRuntime, LiteRT, T
+> L19: - **Real-time Safe Execution**: Ensures deterministic runtimes suitable for real-time audio applications
+> L177: Anira is available as the `@anira-project/anira` package for web applications: anira compiled
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `44192987b308` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `67ef36f0f988` · [字段定义](../../DATASET.md)*

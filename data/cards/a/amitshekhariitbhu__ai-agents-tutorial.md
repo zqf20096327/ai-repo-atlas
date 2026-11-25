@@ -2,9 +2,9 @@
 
 ⭐ 231 · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/amitshekhariitbhu/ai-agents-tutorial) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**AI Agent 从零到多智能体的分步教程合集**
+**从零学习 AI Agent 的教程合集：函数调用到多智能体与评测**
 
-由 Outcome School 创始人 Amit Shekhar 维护的 AI Agent 学习教程目录，以博客与视频链接形式按主题组织：涵盖 Function Calling、Agent Loop、ReAct/Reflection/Plan-and-Execute Agent、Agent 记忆、Context Engineering、Agentic RAG、GraphRAG、多智能体系统、SubAgents、MCP、编排与智能体通信、Computer-Use 与 Browser Agent 等主题，每篇列出涵盖要点并指向正文。README 声明系列会随新博客与视频持续扩充；仓库本身不含代码或安装物。
+由 Outcome School 创始人 Amit Shekhar 撰写并维护的 AI Agent 系列教程，以博客和视频形式逐步讲解：LLM/RAG/MCP 基础、函数调用、Agent Loop、ReAct/Reflection/Plan-and-Execute 等典型 Agent 模式、Agent 记忆、Context Engineering、Agentic RAG、GraphRAG、多智能体系统与编排、Agent 通信协议、Computer-Use 与 Browser Agent 等。README 声明系列将持续更新，每篇均给出主题大纲并附外部博客链接。仓库本身不含可运行的安装流程。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按主题分步组织：从 Function Calling 到多智能体与编排
-- 覆盖 ReAct、Reflection、Plan-and-Execute、Agentic RAG、GraphRAG 等 Agent 模式讲解
-- 每篇教程以要点清单列出内容范围
-- 系列随作者博客与视频持续更新
+- 覆盖函数调用、Agent Loop、ReAct/Reflection/Plan-and-Execute 等 Agent 模式的分篇讲解
+- 包含 Agentic RAG、GraphRAG、Context Engineering、Agent 记忆等专题
+- 多智能体系统、编排模式与 Agent 通信协议专题
+- Computer-Use 与 Browser Agent 的工作机制讲解
 
 ## 适用场景
 
-- 系统学习 AI Agent 的概念与工作原理
-- 了解 Agent Loop、MCP、多智能体编排等专题
-- 作为构建 Agent 应用前的知识入门材料
+- 从零系统学习 AI Agent 的原理与模式
+- 在开发多智能体系统前查阅编排与通信方式
+- 理解 Agentic RAG 与标准 RAG 的差异
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L5: **Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestr
 > L7: Prepared and maintained by the **Founder** of Outcome School: Amit Shekhar
+> L28: In this blog, we will learn about the AI Agent - what it is, how it is different from a plain LLM, its five core pa
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ce92966c349d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3a719813c643` · [字段定义](../../DATASET.md)*

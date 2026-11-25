@@ -2,16 +2,16 @@
 
 ⭐ 198 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Changan-Su/Forsion) · [官网](https://forsion.net) · 个人维护 · 中文 README
 
-**本地优先的 AI 第二大脑桌面应用：笔记+Agent 团队协作**
+**本地优先的第二大脑工作台，AI 代理与你的文件同桌协作**
 
-面向个人用户的本地优先 AI 工作台：以本地 Markdown 文件为基础提供 Notion 风格块编辑器，支持 wikilinks、数据库、白板、PDF 标注；Agent 具备可查看编辑的长期记忆，可组建成持久 TEAM 并行工作；Muse 按心跳、日程与规则主动跟进任务并送回 Inbox。模型可选 Forsion 托管、自有 API、OpenAI 兼容端点、本地 Ollama 或订阅登录；可通过 ACP 接入 Claude Code、Codex 引擎。桌面端提供 macOS/Windows/Linux 安装包，另有 Web 与 Android 云端访问端。
+基于本地 Markdown 文件的个人知识管理桌面应用：Notion 风格块编辑器、数据库、白板、PDF 批注和日历均落在本地磁盘。内置 Tangu 等 AI 代理，在授权范围内读取并修改你的文件（每轮列出改动文件、可撤销），Muse 代理按日程与规则主动准备内容并通过微信/Telegram/QQ 通知。支持多代理协作、记忆面板、20 多个官方插件商店，代理可沙箱内生成并试用新插件。提供桌面安装包、Web 版、Android APK，本地模型可通过 Ollama 接入。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | Apache-2.0 |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 本地 Markdown 文件的 Notion 风格块编辑器（wikilinks/数据库/白板/PDF 标注）
-- 可查看、编辑、遗忘的 Agent 长期记忆机制
-- 持久 TEAM 并行协作与 Team Desk 进展视图，Muse 主动跟进任务到 Inbox
-- 插件系统：技能、MCP 外部工具、Computer Use、扩展商店
+- 块编辑器直接操作本地 .md 文件，支持 wikilinks、反链与图谱
+- Tangu 代理读写本地文件并输出可交互卡片，每轮改动可逐文件撤销
+- Muse 主动代理按规则监听日程，产出普通笔记与日历条目
+- AGENT.md/HUMAN.md 双向文件约定与可见的记忆面板
 
 ## 适用场景
 
-- 在本地文件上组织研究项目并与多个 Agent 协作推进
-- 让 Agent 记住偏好与项目背景并在后续对话中使用
-- 给持续工作安排定时跟进，结果回到 Inbox 处理
-- 通过 WeChat/Telegram/QQ 渠道在其他平台访问 Agent
+- 把笔记、PDF 和项目文件放在一个工作台统一管理
+- 在聊天中让 AI 读取项目文件并生成可复用的计算卡片
+- 让代理按日程规则主动准备材料并推送通知
+- 在商店安装或让 AI 生成插件扩展功能
 
 ## 场景标签
 
-`知识库管理` `多智能体` `AI 助手` · 领域:Agent 开发
+`知识库管理` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L16: Forsion is a **local-first AI second brain**. Organize your own Markdown files in a Notion-style block editor, thin
-> L132: - **Choose your models.** Use Forsion-hosted models, your own API connection, OpenAI-compatible endpoints, local O
+> L11: **Forsion is a local-first second-brain workbench.** Your notes, files and projects sit on one desk on your own com
+> L47: - **Any model.** Forsion-hosted models, your own API keys, OpenAI-compatible endpoints, local Ollama, or a supporte
+> L107: Download the latest release from GitHub Releases, or open the web app in a browser.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `49137cfe4ae8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `cf19ebde3b7c` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 241 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/movieclaw/MovieClaw) · [官网](https://movieclaw.io) · 组织维护 · 中文 README
 
-**一体化家庭媒体服务器，内置 AI 代理替代 *arr 全家桶**
+**家庭媒体服务器：一个容器整合订阅下载与播放，内置 AI agent**
 
-单容器部署的个人媒体服务器，功能覆盖播放（Web/手机/TV/Mac 原生应用，支持 4K HDR、杜比视界）、订阅自动追更下载、索引器、字幕（含 AI 翻译与 PGS 转 SRT）、刮削（TMDB/豆瓣双源）与家庭成员权限，替代 Sonarr/Radarr/Prowlarr/Bazarr/Jellyseerr/Jellyfin 多服务组合。内置通用 AI 代理（自然语言管理媒体库、制作/翻译字幕、设置升级规则），LLM 为可选接入（任意 OpenAI 兼容端点或自建 vLLM），不接 LLM 其余功能仍可用。另用小模型 NER（约 3ms/CPU）解析发布名，并通过 MCP 与 mclaw CLI 让 ChatGPT/Claude/Cursor 等外部代理调用全部功能。个人与家庭使用免费。
+以单容器部署的个人媒体服务器，功能覆盖播放与海报墙、订阅与自动下载、索引器、字幕（含 PGS 转 SRT 与 AI 翻译）、元数据刮削（TMDB 与豆瓣双源）与家庭成员管理。内置自主 AI agent，可经微信/Telegram/Discord/飞书对话操作，也可通过 MCP 或 mclaw CLI 接入外部 agent；agent 需在设置中接入任意 OpenAI 兼容端点，跳过则其余功能仍可用。发布名解析使用蒸馏的小型 NER 模型，在 CPU 上约 3ms 解析一条。提供在线 demo（只读、每日重置）。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 单容器替代播放/订阅/索引/字幕/请求管理等多服务栈
-- 自然语言 AI 代理：选片、制作翻译字幕、设置质量升级规则等
-- MCP 与 mclaw CLI 暴露全部 API，可接 ChatGPT/Claude/Cursor
-- 蒸馏小模型在 CPU 上约 3ms 解析发布名，含中文简写（国语中字）
+- 单容器替代 Jellyfin/Sonarr/Radarr/Prowlarr/Bazarr/Jellyseerr 等多服务组合
+- 内置 AI agent，支持微信/Telegram/Discord/飞书对话操作，工具调用过程可见
+- 所有功能经 mclaw CLI 与 MCP 暴露，可接入 ChatGPT、Claude、Cursor 等
+- 发布名解析用蒸馏 NER 模型，CPU 上约 3ms，歧义项进入待确认队列
 
 ## 适用场景
 
-- 一台 NAS 上自建家庭影院并自动追更下载剧集
-- 让 AI 代理用一句话完成订阅、升级、整理媒体库
-- 用 Infuse 等第三方播放器继续观看并同步进度
+- 家庭 NAS 上统一管理影片订阅、下载、刮削与播放
+- 通过微信对话让 agent 找片、订片、补字幕
+- 接入 Infuse/VidHub 等第三方播放器并同步进度
 
 ## 场景标签
 
- · 领域:家庭媒体/自托管服务
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
+> L3:  One server replaces your entire media stack.
 > L87: MovieClaw puts an autonomous, general-purpose AI agent inside your media server.
-> L101: The agent needs an LLM connected under **Settings → Model Providers** (any OpenAI-compatible
 > L102: endpoint). Skip it and everything else still works. Teach it "skills" in plain Markdown:
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `f42ebbe02568` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `24ae38b7e2d2` · [字段定义](../../DATASET.md)*

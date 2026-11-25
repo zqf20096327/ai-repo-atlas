@@ -2,9 +2,9 @@
 
 ⭐ 262 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/Sheltercosmo/jev4pg) · [官网](https://jev4pg.com) · 个人维护 · 中文 README
 
-**面向 PostgreSQL 的自然语言转 SQL 与语义算子工具**
+**为 PostgreSQL 提供自然语言转 SQL 与语义算子的扩展**
 
-提供两种形态：Python 应用（v0.7.0，含 Web 工作区、CSV 导入、NL2SQL、查询历史、后台任务）与 Rust 编写的 PostgreSQL 原生扩展（0.2.0 预览，jev_native.* 函数在库内执行语义分析）。核心是 41 个 JEV 算子，支持语义过滤、抽取、排序、匹配与验证，通过可解释嵌入（命名问题与答案概率）表示数据；带证据缓存、受控重试与可审查回退。支持英语与简体中文查询，可连接既有 PostgreSQL 17 数据库就地读取。原生版本首次构建需编译 Rust，语义调用依赖 JEV 提供商 key。
+为 PostgreSQL 14–17 提供 41 个 JEV 语义算子（过滤、抽取、排序、匹配、验证），支持英文与简体中文自然语言查询。提供三种部署形态：Python 应用（工作区、HTTP API、语义 SQL）、Linux 上的原生 Rust 扩展（CREATE EXTENSION jev_native）及组合部署。机制包括证据缓存与复用、独立判断并行调度、可解释的概率嵌入（以命名问题与答案概率表达相似度）、VALUE/UNKNOWN/NOT_EVALUATED 决策状态区分与可复核回退。Apache 2.0 许可，Release 0.8.0。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 41 个 JEV 语义算子（过滤/抽取/排序/匹配/验证），SEMANTIC 等 SQL 语法
-- 可解释嵌入：以命名问题与答案概率表示相似性
-- Rust 原生 PostgreSQL 扩展支持并行执行与输入去重
-- 证据缓存、可审查回退与自发展语义层，不确定性显式保留
+- 41 个 JEV 语义算子覆盖过滤、抽取、排序、匹配与验证
+- 证据缓存与跨连接复用，阈值变更时无需重新推理
+- 原生 Rust 扩展支持并行阶段计划与上下文去重
+- 概率嵌入以命名问题表达相似度，可逐项检查
 
 ## 适用场景
 
-- 在既有 PostgreSQL 数据上用自然语言做分析查询
-- 对工单、文档等文本字段做语义过滤与统计（如 SEMANTIC WHERE 子句）
-- 通过 psql 或 SQL 客户端直接调用 jev_native.scan 做语义分析
-- 导入 CSV/TSV 数据集并复用审校过的语义定义
+- 在现有 PostgreSQL 数据上构建语义搜索
+- 用自然语言查询工单/评论等文本数据集
+- 为团队构建可复用、可版本化的语义特征层
+- 需要保留不确定判断并路由人工复核的分析流程
 
 ## 场景标签
 
@@ -38,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L23: jev4pg is a carefully designed JEV harness, brings semantic intelligence to PostgreSQL with a comprehensive toolkit
-> L80: WHERE SEMANTIC(body, 'The ticket describes an unresolved billing problem.')
+> L25: jev4pg brings semantic intelligence to PostgreSQL 14–17 with **41 JEV operators** for filtering, extraction, rankin
+> L102: |**Python application**|Natural-language queries, the web workspace, HTTP APIs, all 41 operators, reviewed feature
+> L103: |**Native Rust extension**|Synchronous semantic SQL, parallel stage plans, repeated-context reuse and explainable 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c49256dbf5c1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `38fe2e273d1f` · [字段定义](../../DATASET.md)*

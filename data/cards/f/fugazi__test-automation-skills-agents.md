@@ -2,9 +2,9 @@
 
 ⭐ 271 · Java · MIT · 推送 2026-11-17 · [GitHub](https://github.com/fugazi/test-automation-skills-agents) · 个人维护
 
-**面向 QA 自动化工程师的工具无关 AI agents/技能/规范库**
+**面向 QA 自动化工程师的 AI agent/技能/指令知识库**
 
-一套可复制嵌入真实测试项目的文档型知识库，包含 7 个专职 QA agent 定义（编排、Playwright 规划/生成/修复、API/Selenium/重构专家）、编码规范 instructions 与 10 个可复用技能（含 SKILL.md 与参考/脚本/模板资源），覆盖 UI/API/E2E 测试、WCAG 2.2 AA 无障碍、flaky 测试排查与 ISTQB 测试计划。设计上工具无关：内容可接入 GitHub Copilot、Claude、Cursor、Windsurf 等 AI 助手；仓库本身无构建/测试系统，仅有零依赖的结构 lint 在 CI 中运行。
+工具无关（tool-agnostic）的 QA 自动化知识库，内容为 Markdown 格式的 agents、instructions、skills 三类资产：agents 定义角色与边界（7 个专用 QA agent），instructions 是跨领域规则（定位器策略、等待规范、WCAG 2.2 AA、ISTQB 测试计划等），skills 为可复用工作流与模板（10 个技能，覆盖 Playwright、Selenium、API 测试等）。README 明确声明这是文档/知识库，无构建或测试系统，仅有无依赖的结构化 linter 校验。集成方式包括复制到 .github/*、git submodule、Claude Code 插件市场订阅及 skills.sh 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 7 个专职 agent + 10 个可复用技能（SKILL.md 格式）
-- 工具无关设计，支持 Copilot/Claude/Cursor/Windsurf 等接入
-- 覆盖 Playwright/Selenium 模式、WCAG 2.2 AA 无障碍、ISTQB 测试计划
-- 技能支持渐进式三级加载（描述→正文→资源）
+- 7 个专用 QA agent 与 10 个可复用技能
+- 三类资产：agents/persona、instructions 规则、skills 工作流+脚本模板
+- 四种集成方式：.github/* 复制、git submodule、Claude Code 插件市场、skills.sh
 
 ## 适用场景
 
-- 把 QA 自动化 agent 和规范复制进测试项目，让 AI 助手协助写测试
-- 团队跨 Copilot/Claude/Cursor 工具统一测试编码规范
-- 让 AI agent 排查和修复 CI 中不稳定的 flaky 测试
+- 把 Playwright/Selenium 测试规范嵌入团队的 AI 编码助手
+- 用 AI agent 排查并修复 flaky 测试
+- 生成符合 ISTQB 对齐的测试计划与无障碍测试
 
 ## 场景标签
 
@@ -39,7 +38,6 @@
 
 > L5: A practical library of **agents**, **instructions**, and **skills** designed specifically for QA Automation Engineer
 > L19: > Important: This repository is a **documentation/knowledge base** — no build or test system. The only validation i
-> L38: This repo is a **catalog**. Choose the integration style for your tool.
 
 ## 星数曲线
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3ff1e57012ef` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `70c2bfb55fcf` · [字段定义](../../DATASET.md)*

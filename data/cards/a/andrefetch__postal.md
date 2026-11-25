@@ -2,9 +2,9 @@
 
 ⭐ 224 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/andrefetch/postal) · [官网](https://postalcli.vercel.app) · 个人维护
 
-**终端 AI 编程 agent：通过 OpenRouter 调任意模型读写代码**
+**终端中的开源异步 AI 编码 agent，读写并审查代码**
 
-基于 Python 的开源终端 AI 编程 agent，经 OpenRouter 连接 Claude、OpenAI、DeepSeek 等模型，内置文件读写、bash 执行、规划、网络搜索、MCP 连接与五个专职子代理，运行在全屏 TUI 中并流式输出。提供六级审批策略、危险命令拒绝与工作目录外操作确认；上下文满时压缩历史续跑，会话每轮落盘可 checkpoint 回滚。作者声明其亦作为可拆解学习的教学性代码库，欢迎改造扩展。
+Postal 是运行于终端的开源 AI 编码 agent：读取并编辑代码、执行命令、规划变更，并将任务委派给专用子 agent。模型通过 OpenRouter 接入，用户可切换模型并配置哪些操作需要人工批准。以 TUI 形式在项目目录中运行，支持会话恢复、跨目录工作、slash 命令、检查点与 MCP 工具。安装要求 Python 3.11+ 与 Node.js 22+，采用 GPL v3.0 许可。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- OpenRouter 单点接入多模型（Claude/OpenAI/DeepSeek/Kimi 等）
-- 六级审批策略与危险命令模式拒绝
-- 上下文修剪与历史压缩以维持长会话
-- 会话 checkpoint 与 /rewind 回滚（仅回滚对话不改文件）
-- 五个专职子代理与 MCP 外部工具连接
+- 读取/编辑代码、运行命令并委派任务给子 agent
+- 通过 OpenRouter 使用任意模型，可切换模型
+- 可配置操作批准策略、会话与检查点
+- 支持 MCP 与工具扩展
 
 ## 适用场景
 
-- 在终端用自然语言让 AI 探索、修改、评审代码库
-- 按可控风险级别自动化执行重构、测试修复等任务
-- 学习 AI coding agent 的 harness 架构并自行改造扩展
+- 在终端里让 agent 探索代码库并修复失败的测试
+- 规划并审查代码变更
+- 异步委派子 agent 处理编码任务
 
 ## 场景标签
 
@@ -38,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L3:  An open-source AI coding agent that lives in your terminal.
-> L8: Postal connects to LLMs through OpenRouter, reads and edits your code with a built-in tool set, runs shell commands,
+> L3:  An open-source alternative AI coding agent that lives in your terminal.
+> L8: Postal reads and edits your code, runs commands, and delegates tasks to specialized sub-agents. Choose your model th
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `14693c5db92f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3011a54c7a1c` · [字段定义](../../DATASET.md)*

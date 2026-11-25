@@ -2,15 +2,15 @@
 
 ⭐ 202 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/harumiWeb/exstruct) · [官网](https://harumiweb.github.io/exstruct/) · 个人维护
 
-**Excel 转 JSON 的结构化提取与补丁式编辑工具，服务 LLM/RAG 流水线**
+**为 LLM/RAG 流水线与 AI agent 提供读取和编辑 Excel 的 Python 工具**
 
-Python 库 + CLI + MCP 服务器三形态：将 Excel 工作簿读取为结构化 JSON（单元格、形状、图表、SmartArt、表格候选、合并区域、打印区、公式映射等），并提供基于 patch 契约的工作簿编辑（dry-run、校验、openpyxl/COM 后端）。多级输出模式适配环境：Windows COM 富提取、Linux/macOS 直接 OOXML 解析或 LibreOffice 运行时兜底。输出省略后端元数据以减少 token 用用，面向 LLM/RAG 预处理与 AI agent 的受控读写。
+ExStruct 将 Excel 工作簿读取为结构化 JSON，输出单元格、形状、图表、SmartArt、表格候选、合并区域、打印区域与公式映射，支持 JSON/YAML/TOON 输出与四种输出模式。它提供提取 API、基于 patch 的编辑 CLI，以及 stdio 方式的 MCP 服务器供宿主托管的 agent 集成，编辑流程遵循 validate→dry-run→inspect→apply 工作流。Windows COM 环境提取功能较完整；非 COM 的 Linux/macOS 下通过 OOXML 解析与可选 LibreOffice 运行时尽力提取。需要 Python 3.11.5 以上。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | BSD-3-Clause |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ Python 库 + CLI + MCP 服务器三形态：将 Excel 工作簿读取为结构�
 
 ## 能力要点
 
-- Excel→结构化 JSON：单元格/形状/图表/SmartArt/表格候选/合并区域/打印区/公式映射
-- MCP 服务器提供 9 个工具（提取、读写单元格、patch、校验等），支持路径限制与审批式执行
-- 跨平台输出模式：COM 富提取 / 直接 OOXML / LibreOffice 兜底
-- 附带 agent Skill（exstruct-cli）引导安全的 validate→dry-run→apply 编辑流程
+- Excel→结构化 JSON：单元格、形状、图表、SmartArt、表格候选、公式映射
+- 三种提取后端：Windows Excel COM、直接 OOXML 解析、可选 LibreOffice 运行时
+- JSON-first 编辑 CLI（patch/make/validate）与 dry-run 工作流
+- MCP 服务器提供 9 个工具，含宿主管理的路径限制与审批执行
 
 ## 适用场景
 
-- 把含图表与形状的 Excel 转成 JSON 供 LLM/RAG 流水线使用
-- 通过 MCP 让 AI agent 受控读写 Excel 工作簿
-- 用 CLI 做 dry-run 可审的工作簿补丁编辑
+- 为 LLM/RAG 流水线预处理 Excel 文档
+- 让 AI agent 通过 MCP 服务器读写工作簿
+- 以结构化 JSON 分析含表格与图表的报表
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Python 库 + CLI + MCP 服务器三形态：将 Excel 工作簿读取为结构�
 ## 证据(README 行号)
 
 > L27: ExStruct reads Excel workbooks into structured data and applies patch-based
-> L30: options tuned for LLM/RAG preprocessing, reviewable edit flows, and local
-> L141: MCP is the integration / compatibility layer around the same editing core. Use
+> L29: JSON-first editing CLI, and an MCP server for host-managed integrations, with
+> L43: - **Excel -> structured JSON**: outputs cells, shapes, charts, SmartArt, table candidates, merged-cell ranges, prin
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `006e717ae26e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8bc115fc0da0` · [字段定义](../../DATASET.md)*

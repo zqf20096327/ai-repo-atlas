@@ -2,9 +2,9 @@
 
 ⭐ 220 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
 
-**在 ibl.ai 平台上快速搭建 AI 应用的开发者工具包**
+**面向开发者的 ibl.ai 平台 AI 应用脚手架工具包**
 
-ibl.ai 官方提供的脚手架工具包：通过 npx 安装一组 Claude Code / Codex / Cursor 等编码代理可用的 skills，由代理生成基于 Next.js + TypeScript + Tailwind 的应用，内置 SSO 登录、agent 聊天、用户画像、通知、分析等页面，配套 @iblai/iblai-js SDK 与托管后端（iblai.app）。另提供 8 个安全审计类 skills、MCP 文档服务器，支持 Tauri 打包桌面与移动端。运行依赖托管环境，本地/自托管平台代码需另行联系获取许可。
+面向 vibe coding 场景的开发者工具包：通过 npx skills 命令向 Claude Code、OpenAI Codex、Cursor、Copilot 等 agent 安装一组技能，用 @iblai/iblai-js SDK 生成带 SSO 登录、AI agent 聊天、用户/组织管理、通知与分析的 Next.js 应用，支持 Tauri 打包为 macOS/Windows/iOS/Android 应用。运行依赖托管在 iblai.app 的后端环境；本地或自托管完整平台代码需另行联系获取许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ibl.ai 官方提供的脚手架工具包：通过 npx 安装一组 Claude Code /
 
 ## 能力要点
 
-- 30+ 个编码代理 skills：连接组织、认证、agent 聊天、工作流编辑器、RBAC 等按需添加
-- 支持 Claude Code、OpenAI Codex、Cursor、Copilot 等多种编码代理
-- @iblai/mcp MCP 服务器提供组件/Hook/API 文档查询与页面模板生成
-- Tauri 构建桌面（macOS/Windows/Linux）与移动端（iOS/Android）应用
+- npx skills add 一条命令为多种编码 agent 安装技能
+- 约 30 个技能覆盖登录、agent 聊天、工作流、分析、RBAC 等界面与功能
+- 提供 SDK 文档 MCP 服务器与组件/ hook 查询接口
+- 支持 Tauri 桌面与移动端构建，含本地 LLM（Ollama/Foundry）集成契约
 
 ## 适用场景
 
-- 用编码代理从零生成带登录和 AI 聊天的 Next.js 应用
-- 为已有项目逐步添加 agent 管理界面与分析仪表盘
-- 将 AI 应用打包为桌面或移动端分发
+- 在 ibl.ai 平台上快速搭一个带 agent 聊天与计费分析的 SaaS 应用
+- 用已有的 Claude Code/Cursor 工作流生成完整前后端工程
+- 构建可分发的 Tauri 桌面端并接入设备端本地模型
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ ibl.ai 官方提供的脚手架工具包：通过 npx 安装一组 Claude Code /
 
 > L5: Ship AI-powered apps fast — and run the platform behind them. Backend included.
 > L27: **1. Install the skills** in the agent you already use.
-> L48: - `/iblai-vibe-connect` -- connects the project to an ibl.ai organization via a one-click browser flow, writing the
+> L58: - `/iblai-vibe-local-llm` -- defines the contract for adding on-device LLM inference (Ollama / Foundry) to a Tauri 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 high · 依据 README sha `615c72c4e119` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5ed5f2237bac` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 212 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yoloshii/ClawMem) · 个人维护
 
-**给 AI 编码 agent 的本地持久记忆层：检索增强 + hooks + MCP**
+**给 AI 编码 Agent 提供本地持久记忆层：检索、钩子与 MCP 服务器**
 
-面向 Claude Code、OpenClaw、Hermes 及任意 MCP 兼容客户端的本地记忆系统：将 markdown 笔记、项目文档和会话记录转为 SQLite 知识库，通过 BM25 + 向量检索 + 倒数排名融合 + 重排的混合检索浮现上下文，用本地 GGUF 观察模型从会话提取决策/偏好，支持跨运行时共享同一 vault、矛盾检测、因果图遍历与生命周期管理。TypeScript on Bun，MIT 许可，无需 API key 与云服务。Windows 原生不推荐，需用 WSL2。
+运行在设备本地的 Agent 记忆层，将 markdown 笔记、项目文档与对话导出转为可检索的持久记忆。混合检索架构组合 BM25、向量搜索、倒数排序融合、查询扩展与 cross-encoder 重排，叠加时间衰减、置信度与共激活强化的复合评分，并做语义/时间/因果多图遍历与自演化记忆笔记。通过 Claude Code hooks、MCP 服务器、OpenClaw 插件或 Hermes MemoryProvider 接入，各路径写入同一本地 SQLite vault，无需 API key 与云服务。TypeScript on Bun，MIT 许可。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 混合检索：BM25 + 向量 + RRF + 查询扩展 + cross-encoder 重排
-- 本地 GGUF 观察模型从会话提取决策/偏好/里程碑，无需云服务
-- Claude Code hooks / MCP server / OpenClaw 插件 / Hermes MemoryProvider 四种接入方式共享同一 SQLite vault
-- 矛盾检测、跨实体合并防护与提示注入防护
+- 混合检索：BM25 + 向量 + 倒数排序融合 + cross-encoder 重排
+- Claude Code hooks / MCP 服务器 / OpenClaw / Hermes 四种接入方式，共享同一本地 vault
+- 从会话记录提取决策、偏好与里程碑，支持导入 ChatGPT/Claude.ai/Slack 对话导出
+- 完全本地运行，无 API key、无云依赖
 
 ## 适用场景
 
-- 让 Claude Code 等 AI 编码 agent 记住我跨会话的决策与偏好
-- 把 markdown 笔记与研究资料变成 agent 可检索的持久记忆
-- 多个 agent 运行时共享同一项目的记忆库
+- 让编码 Agent 跨会话记住项目决策与偏好
+- 把散落的笔记和对话记录变成可检索的 Agent 记忆
+- 多个 Agent 工具（Claude Code/OpenClaw/Hermes）共享同一份项目记忆
+- 离线/私有环境下构建 Agent 记忆系统
 
 ## 场景标签
 
-`Agent 记忆` `知识库管理` · 领域:Agent 开发
+`Agent 记忆` `编码 Agent` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bd4158eece7a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a0d2561d0d7c` · [字段定义](../../DATASET.md)*

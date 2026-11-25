@@ -4,7 +4,7 @@
 
 **面向 SRE/DevOps 的 AI 命令行运维助手**
 
-用 Go 编写的命令行/TUI 助手，供 SRE、DevOps 与平台工程师用自然语言描述运维任务，由主 agent 按编排将任务拆解并委派给 Kubernetes、Git、GitHub、AWS、Helm、gcloud、Jira 等各领域的专用工具 agent 执行。依赖 Anthropic Claude 模型，需设置 ANTHROPIC_API_KEY；CLI 工具非强制安装，装了则扩展能力。README 声明处于早期开发阶段，建议先在非生产环境使用。提供 go install、Homebrew 与直接下载二进制三种安装方式。
+面向 SRE、DevOps 与平台工程师的命令行 AI 助手：用户以自然语言描述任务，Opsy 解析指令、制定计划并执行。采用 tools-as-agents 架构，每个工具（Kubernetes、Git、AWS 等）作为专门 agent，由主 agent 编排分解任务并委派。通过 Anthropic Claude 模型提供智能辅助，配合系统已安装的标准 CLI 工具工作，仅调用已安装的工具以适配环境。当前处于早期开发阶段，建议在非生产环境使用。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- tools-as-agents 架构：主 agent 编排各领域专用工具 agent
-- 自然语言描述任务，自动生成计划并执行
-- 按环境自适应，仅使用已安装的 CLI 工具
-- YAML 配置文件与环境变量双通道配置，支持主题与提示词扩展
+- tools-as-agents 架构：每个工具作为领域专门 AI agent，主 agent 编排委派
+- 自然语言描述任务，自动制定计划并执行
+- 集成 Git、GitHub CLI、kubectl、AWS CLI、Helm、gcloud、Jira CLI 等标准工具
+- 通过 assets/prompts 与 assets/tools/ YAML 定义可扩展工具与提示词
 
 ## 适用场景
 
-- 用自然语言排查 Kubernetes 故障并自动建 Jira 任务
-- 批量执行仓库管理、部署备份等日常运维操作
-- 在终端里让 AI 代为操作 kubectl/Git/AWS 等命令行工具
+- 分析失败 Pod 的原因并自动创建 Jira 工单
+- 将部署清单提取并推送到备份仓库
+- 以自然语言在 GitHub 组织中创建私有仓库
+- Kubernetes/Git/AWS 日常运维流程自动化
 
 ## 场景标签
 
-`工作流自动化` `AI 助手` · 领域:效率与自动化
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L6: Opsy is an intelligent command-line assistant designed for Site Reliability Engineers (SREs), DevOps professionals, 
 > L8: Opsy uses a "tools-as-agents" architecture where each tool functions as a specialized AI agent with expertise in its
+> L27: Opsy uses Anthropic's Claude AI models to provide intelligent assistance. You'll need an Anthropic API key:
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `40189b0416e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a6209479aeab` · [字段定义](../../DATASET.md)*

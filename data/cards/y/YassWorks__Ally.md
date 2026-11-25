@@ -2,9 +2,9 @@
 
 ⭐ 239 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/YassWorks/Ally) · [官网](https://hub.docker.com/r/yassw0rks/ally) · 个人维护
 
-**终端里的本地私有 agentic 助手，读写文件、执行命令、RAG 与项目生成**
+**终端里的本地优先、多服务商 AI 代理 CLI**
 
-面向终端用户的 AI CLI 助手：默认基于 Ollama 构建全本地 agentic 系统，也支持 OpenAI、Anthropic、Google GenAI、Groq、Cerebras、OpenRouter、GitHub Models 等推理提供方。默认聊天界面提供文件读写、联网访问、命令执行等工具（执行前需许可），支持文件嵌入知识库的 RAG 会话（Hugging Face/Ollama/NLP Cloud/OpenAI 嵌入），以及由 Brainstormer Agent 与 Codegen Agent 组成的编码项目生成工作流（自述为早期阶段）。提供 Docker 镜像与本地源码安装两种方式。
+命令行 AI 代理，提供聊天、文件读写、执行 shell 命令、网页搜索与本地文档问答等能力；每个工具调用需用户批准（可放宽）。支持通过 Ollama 完全本地运行，或接入 OpenAI、Anthropic、Google Gemini、Groq、Cerebras、OpenRouter，且每个 agent 可配置不同服务商。内置基于 Chroma 的本地 RAG，可嵌入文本/Markdown/PDF/DOCX 文件并引用来源；会话按 ID 保存可恢复，支持 Docker 运行与管道输入脚本化使用。
 
 ## 筛选速览
 
@@ -12,33 +12,35 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 默认 Ollama 本地运行，支持 7+ 外部推理提供方切换
-- Agent 工具可读写文件、访问互联网、执行命令（许可确认机制）
-- RAG：文件嵌入知识库，会话内不使用外部数据作答
-- Brainstormer+Codegen 双 Agent 编码项目生成工作流（Preview）
+- 文件、shell、Python、git、代码搜索与网页工具，调用需批准
+- 本地 RAG：嵌入文件夹到 Chroma 并带文件引用回答
+- 每个 agent 可在单一配置文件中指定 provider 与模型，聊天中 /model 切换
+- 会话本地持久化，支持按 ID 恢复；支持管道输入脚本调用
 
 ## 适用场景
 
-- 在终端用自然语言完成日常任务与复杂项目
-- 把本地文件嵌入知识库做私密问答
-- 隐私敏感场景下本地运行 agentic 工作流
+- 在终端里让 AI 读写文件并执行命令完成开发任务
+- 对本地文档/PDF 建知识库做带引用的问答
+- 通过 Ollama 完全离线使用代理，保护隐私
+- 用 --allow-all-tools 与管道把代理接入脚本流程
 
 ## 场景标签
 
-`AI 助手` `文档问答` `编码 Agent` · 领域:编码与开发
+`编码 Agent` `文档问答` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L12: **Ally** is an AI-powered CLI tool designed to assist with anything from everyday tasks to complex projects efficie
-> L14: Ally was built a fully local agentic system using **Ollama**, but it also works seamlessly with:
+> L9: **A private, provider-agnostic AI agent for your terminal.**
+> L11: Ally is a command line agent that chats with you, reads and edits your files, runs commands, searches the web and a
+> L16: - **Local RAG.** Embed folders of text, Markdown, PDF and DOCX files into a local Chroma database and chat with the
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ce5cd1c56eb6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bb3defaa8e9f` · [字段定义](../../DATASET.md)*

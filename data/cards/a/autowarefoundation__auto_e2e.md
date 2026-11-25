@@ -2,9 +2,9 @@
 
 ⭐ 233 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/autowarefoundation/auto_e2e) · [官网](https://autoware.org) · 组织维护
 
-**开源端到端自动驾驶模型：从环视相机直接生成车辆轨迹**
+**面向自动驾驶的开源端到端摄像头轨迹规划模型**
 
-Autoware 基金会维护的相机优先端到端驾驶模型：将六个环视相机图像提升为鸟瞰图网格，由 GRU 规划器结合自车运动历史生成未来 6.4 秒的加速度与曲率轨迹，模型共 79.9M 参数、10 Hz 运行。当前发布的 Reactive 模型可直接使用，1 Hz 的 World Action 与 Reasoning 模型仍在开发中。提供 Hugging Face 检查点（nuPlan 与 KITScenes 训练）、KITScenes 验证集开环基准（ADE/FDE）与回放仪表盘；源码安装需 Python 3.12 与 PyTorch，支持 CPU 或 CUDA 构建。
+Autoware 基金会开发的相机优先端到端驾驶模型：从 6 个环视相机直接生成 6.4 秒车辆轨迹，79.9M 参数、10 Hz 推理，无需 HD 地图。由 Reactive（10 Hz 规划）、World Action 与 Reasoning（1 Hz，开发中）三个模型组成。代码 Apache-2.0，检查点因训练数据许可为 CC BY-NC-SA/NC 4.0 仅限非商业使用。提供 Hugging Face 权重、DataModelConsole 回放面板、基准对比与 AWS EC2 测试指南。
 
 ## 筛选速览
 
@@ -16,29 +16,30 @@ Autoware 基金会维护的相机优先端到端驾驶模型：将六个环视�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 六环视相机→鸟瞰图→GRU 规划器输出 6.4 秒轨迹（79.9M 参数，10 Hz）
-- Hugging Face 提供检查点，支持零 shots 迁移到新城市与微调
-- 在 KITScenes 验证集上与 7 个开源驾驶模型做开环 ADE/FDE 基准对比
-- 只读 DataModelConsole 仪表盘回放相机场景与预测轨迹
+- 6 相机输入、10 Hz、6.4 秒轨迹的端到端规划（79.9M 参数）
+- 提供 Hugging Face 上的 nuplan/kitscenes 两套检查点
+- DataModelConsole 只读面板回放相机、真值与预测轨迹
+- 与 8 个开放权重模型的 ADE/FDE 开环基准对比
 
 ## 适用场景
 
-- 在 nuPlan/KITScenes 等数据集上做端到端轨迹预测研究与微调
-- 为 Robotaxi 或 L2++ ADAS 原型提供相机端轨迹规划模型
-- 复现并对比多个开源端到端驾驶模型的基准结果
+- 作为 Robotaxi 规划模型与 LiDAR/雷达安全层融合使用
+- 仅用相机运行 L2++ 免 hand ADAS 场景
+- 在新城市数据上做零样本推理或自有数据微调
+- 复现端到端驾驶模型的开环基准评测
 
 ## 场景标签
 
- · 领域:自动驾驶/机器人
+`模型评测` `微调` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L9:  An open-source, camera-first End-to-End driving model for highways, arterial roads and city streets.
-> L21:  79.9 M parameters, 6 cameras, 6.4 s horizon, 10 Hz
+> L19: AutoE2E plans the vehicle's trajectory directly from surround cameras. Fuse its output with LiDAR and radar safety 
 > L27: AutoE2E is three cooperating models. The **Reactive model** runs at 10 Hz and drives: it lifts six surround cameras
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `9305e179a724` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4e0c1c6f3c7a` · [字段定义](../../DATASET.md)*

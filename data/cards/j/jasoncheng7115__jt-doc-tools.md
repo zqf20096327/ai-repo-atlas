@@ -2,9 +2,9 @@
 
 ⭐ 251 · HTML · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
 
-**自架开源的 PDF/Office 文件处理平台，含 52 种工具与可选 LLM 增强**
+**自架開源 PDF/Office 文件處理平台，54 個工具整合**
 
-可自托管、单机或内网多人使用的文件处理平台，整合 52 个工具：填单用印、浮水印、页面编辑、格式转换（需 OxOffice/LibreOffice 引擎）、OCR（EasyOCR 默认、Tesseract 备援，可选外部 GPU 识别服务器）、去识别化、电子发票与统一编号处理、公文撰拟等。企业功能含本机/LDAP/AD 认证、SSO（OIDC+SAML）、RBAC、稽核记录、SIEM 转送、REST API 与 MCP。LLM 为可选增强（默认关闭），接 OpenAI-compatible 后端后 14 个工具增加翻译、摘要、OCR 校正等选项。安装占磁盘 12GB 起安装（含 PyTorch/EasyOCR）。
+自架式文件處理平台，整合 54 個工具：填單用印、浮水印、合併/拆分、轉檔、OCR、去識別化、差異比對、逐句翻譯、電子發票處理、公文撰擬等。企業功能含 LDAP/AD 認證、SSO（OIDC/SAML）、RBAC、稽核記錄、SIEM 轉送、REST API 與 MCP。部分工具標示需 OxOffice/LibreOffice 引擎；LLM 用於公文撰擬、摘要、OCR 校正等選項。透過 curl 安裝腳本或 Windows 安裝程式部署，Linux/macOS/Windows 可單機或內網架站。
 
 ## 筛选速览
 
@@ -13,24 +13,23 @@
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 52 个文档工具：OCR、格式转换、去识别化、骑缝章、公文撰拟、电子发票处理等
-- 企业功能：LDAP/AD 多域认证、SSO（OIDC+SAML）、RBAC、稽核记录、SIEM 转送、REST API、MCP
-- LLM 可选增强：接 OpenAI-compatible 后端（Ollama/vLLM 等）后 14 个工具增加 text/vision 选项，默认关闭
-- Linux/macOS 一行脚本安装，Windows 提供安装程序，支持 x86_64/arm64
+- 54 個 PDF/Office 工具整合於單一自架平台
+- 企業功能：LDAP/AD 認證、SSO、RBAC、稽核記錄、SIEM 轉送
+- OCR 雙引擎（EasyOCR 預設/Tesseract），支援外部 GPU 識別伺服器部署
+- 用印申請核准流程與 MCP 介面（供 Claude Code 等呼叫工具）
 
 ## 适用场景
 
-- 企业内网自建文档处理站，供多人处理 PDF 与 Office 文件
-- 扫描件 OCR 转可搜索 PDF，可接外部 GPU 识别服务器加速
-- 文件去识别化与送件前检核，处理敏感资料
-- 台湾地区电子发票、统一编号查询与公文撰拟等本地化事务
+- 企業內部自架文件處理平台，資料不上雲
+- 公文/標案文件的合併、用印、轉檔與送件前檢核
+- 掃描文件 OCR 與發票、名片、乘車證明批次整理報帳
 
 ## 场景标签
 
@@ -38,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L28: > 整合式 PDF / Office 文件處理平台，52 個工具整合解決：**填單用印**、**浮水印**、**多頁合併 / 拆分 / 旋轉 / 整理**、**轉檔**、**掃描拼合**、**去識別化**、**字數統計**、**註
-> L207: ## LLM AI 加值（選用，預設關閉）
-> L209: 接 OpenAI-compatible 後端（本機 Ollama、LiteLLM 等 LLM 閘道、vLLM、LM Studio、DGX Spark）後，**14 個工具**自動多出聰明選項：
+> L28: > 整合式 PDF / Office 文件處理平台，54 個工具整合解決：**填單用印**、**浮水印**、**多頁合併 / 拆分 / 旋轉 / 整理**、**轉檔**、**掃描拼合**、**去識別化**、**字數統計**、**註
+> L30: > 企業功能：**本機 / LDAP / AD 多領域認證**、**SSO 單一登入**(OIDC + SAML，可接 M365 / Google / Keycloak)、**RBAC 角色權限**、**稽核記錄**、**SIEM
+> L123: - **名片辨識**（Beta）— 名片照片或掃描檔一次匯入（手機可以連拍），一張照片放好幾張名片也能自動切卡（可拖四角修正），辨識姓名 / 公司 / 職稱 / 電話 / 分機 / Email / 統編 / 地址（繁中＋英文，也
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `8f5134f1bd0a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e3b4858a41d3` · [字段定义](../../DATASET.md)*

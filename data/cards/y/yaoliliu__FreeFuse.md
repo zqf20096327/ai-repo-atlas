@@ -2,9 +2,9 @@
 
 ⭐ 251 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/yaoliliu/FreeFuse) · [官网](https://future-item.github.io/FreeFuse/) · 组织维护
 
-**免训练多主体 LoRA 融合文生图框架：测试时自适应 token 级路由**
+**多主体 LoRA 免训练融合推理库：多角色一图生成**
 
-论文研究代码（TMLR26 投稿）：在流匹配文生图模型的推理阶段融合多个主体 LoRA，实现多主体组合生成。核心机制 FreeFuseAttn 利用流匹配模型自身的语义对齐，在去噪早期时间步将主体特定 token 动态匹配到对应空间区域，无需额外训练、模型修改、外部分割器或用户定义遮罩，用户只需提供主体激活词。支持 Flux.dev、SDXL、Z-Image-turbo、FLUX.2-klein、Krea2 等模型，可经 ComfyUI 节点或 diffusers 源码运行，配合 ControlNet/IPAdapter/Redux 使用，支持量化以降低显存占用。
+TMLR 论文 FreeFuse 的官方实现，通过推理阶段的自适应 Token 级路由（FreeFuseAttn）将多个主体 LoRA 融合到同一张图，无需重训练 LoRA、无需模型修改或用户绘制遮罩，只需提供主体激活词即可接入标准工作流。支持 Flux.dev、SDXL、Z-Image-turbo、FLUX.2-klein、Krea2 等模型的 diffusers 与 ComfyUI 两条运行路径，并可叠加 ControlNet/IPAdapter/Redux；显存不足时可开启量化降低占用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 免训练推理阶段多主体 LoRA 融合，无需遮罩或外部分割器
-- FreeFuseAttn 自适应 token 级路由机制
-- 支持 ComfyUI 与 diffusers 双工作流
-- 兼容 ControlNet、IPAdapter、Redux 及多种底模（Flux/SDXL/Z-Image/FLUX.2-klein/Krea2）
+- 训练时无需额外训练或用户定义 mask，仅需主体激活词
+- FreeFuseAttn 在去噪早期动态匹配主体 token 与空间区域
+- 支持 diffusers 与 ComfyUI 双路径及 ControlNet/IPAdapter/Redux 叠加
+- 支持量化选项以降低 VRAM 占用
 
 ## 适用场景
 
-- 文生图时将多个主体 LoRA 融合到同一画面
-- 在 ComfyUI 工作流中做多主体组合生成
-- 搭配 ControlNet/IPAdapter 控制构图与参考图像
+- 用多个角色 LoRA 生成单张多主体图像
+- 在 ComfyUI 工作流中免训练融合多个主体 LoRA
+- 显存有限时开量化运行 Flux 多主体生成
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L24: This paper proposes **FreeFuse**, a training-free framework for multi-subject text-to-image generation through auto
-> L44:  Overview of FreeFuse architecture. FreeFuseAttn dynamically routes subject-specific LoRAs to their corresponding s
+> L26: This paper proposes **FreeFuse**, a training-free framework for multi-subject text-to-image generation through auto
+> L48: ## 🚀 Quick Start
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `28f36d386549` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f70cf102ba79` · [字段定义](../../DATASET.md)*

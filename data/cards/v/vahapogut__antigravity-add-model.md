@@ -1,10 +1,10 @@
 # vahapogut/antigravity-add-model
 
-⭐ 217 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/vahapogut/antigravity-add-model) · [官网](https://ipeclabs.com) · 个人维护 · 中文 README
+⭐ 217 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/vahapogut/antigravity-add-model) · [官网](https://ipeclabs.com) · 个人维护
 
-**为 Google Antigravity IDE/桌面端接入自定义 LLM 提供商的补丁与网关**
+**为 Antigravity 添加自定义/本地模型接入的代理补丁**
 
-面向 Google Antigravity 桌面应用与 VS Code 版 Antigravity IDE 的 Node.js 补丁项目：通过拦截内部 Cloud Code API，使用户可在设置中添加 OpenAI、Anthropic、Gemini、OpenRouter 及 Ollama/vLLM 等本地服务，并在聊天选择器中切换模型。安装需 git clone 源码并以 npm 构建后运行 deploy 脚本打补丁，保留版本备份与回滚；另提供可选网关（请求历史、fallback、浏览器面板）。已声明在 Windows IDE 2.5.5 上验证过部分流程。
+对 Google Antigravity 桌面应用与 IDE 的补丁工具：拦截内部 Cloud Code API，使其可在设置中添加 OpenAI、Anthropic、Gemini、OpenRouter 等托管 API 以及 Ollama、LM Studio、vLLM 等本地服务，通过聊天选择器切换模型。可选网关提供请求路由、回退链、历史记录与浏览器仪表盘；安装器保留版本备份并支持回滚。需 Node.js 22.13+ 从源码构建，Windows 部分语言服务器需可选二进制补丁。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 通过代理补丁为 Antigravity 添加外部 API 与本地模型支持
-- 支持 OpenAI/Anthropic/Gemini/OpenRouter 等托管 API 与 Ollama/LM Studio/vLLM/llama.cpp 等本地服务
-- 可选网关提供请求历史、fallback 链、成本估算与浏览器面板
+- 拦截 Antigravity 内部 Cloud Code API，接入自定义模型提供方
+- 支持本地服务（Ollama/LM Studio/llama.cpp/vLLM 等）与托管 API 预设目录
+- 可选网关：请求路由、回退链、会话历史与浏览器仪表盘
 - 安装器保留版本备份并支持失败回滚
 
 ## 适用场景
 
-- 在 Antigravity IDE 中使用自有 API 或本地模型替代内置模型
-- 为多个提供商与 fallback 链做集中路由管理
-- 通过网关远程连接并查看请求历史
+- 在 Antigravity 中使用自己的 API key 接入 OpenAI/Claude/Gemini
+- 把本地 Ollama/vLLM 模型接入 Antigravity 聊天
+- 多 Google 账号池管理配额与回退
+- 通过网关仪表盘查看请求历史与费用估算
 
 ## 场景标签
 
@@ -39,7 +40,7 @@
 
 > L20: Add external API providers and local models alongside Antigravity's built-in models. Configure them in Settings, sw
 > L41: |**Connect your providers**|OpenAI, Anthropic, Gemini, OpenRouter, Cloudflare Workers AI, and other compatible APIs
-> L53: The installer preserves the installed application's runtime and adds validated hooks. It keeps version-specific bac
+> L91: ## Installation
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `7e2698af4e42` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2515c71d0857` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 222 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/directionally-local/autopilot) · [官网](https://directionallylocal.com/autopilot) · 组织维护
 
-**开源终端编码 agent 与 SDK，自带密钥接入 25+ 供应商**
+**终端编码 Agent 与 SDK：BYOK 接入 25+ 模型提供方**
 
-终端中的编码 agent，以 bring-your-own-key 方式把每次模型调用直接发到用户选择的供应商（OpenRouter、OpenAI、Anthropic、DeepSeek、Ollama/LM Studio 本地模型或任意 OpenAI 兼容端点），不做代理或加价。功能含 plan/edit/auto 三档权限模式、沙箱子代理、LSP+MCP、SQLite 跨会话记忆、网页/GitHub/无头浏览器研究、逐轮计费显示与 headless SDK（createAgentSession / JSONL-over-stdio）。面向在自己硬件上运行编码 agent 的开发者，npm/Homebrew/npx 安装，需 Node.js 22.23.4+。
+TypeScript 编写的开源终端编码 Agent，同时提供 headless SDK（createAgentSession API 与 JSONL-over-stdio RPC）。模型接入采用 BYOK：首次运行选择提供方并保存 key，推荐 OpenRouter 为默认，也可通过 dl 在本地 NVIDIA GPU（≥24GB）上部署 vLLM 模型。功能含 Plan/Edit/Auto 模式、沙箱化子代理、LSP+MCP 扩展、SQLite+embeddings 跨会话记忆、破坏性操作护栏与 /undo、长时无人值守运行。经 curl 脚本（dl 安装器）、npm、Homebrew 或 npx 运行。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 25+ 供应商接入，支持 OpenRouter、Anthropic、OpenAI、Bedrock、Vertex、Ollama/LM Studio 本地模型及任意 OpenAI 兼容端点
-- plan/edit/auto 三档权限模式，含凭据文件读取与内网地址访问的注入防护
-- 沙箱子代理与无人值守长任务（检查点恢复、运行时/token/成本/动作预算）
-- headless SDK：createAgentSession API 与 JSONL-over-stdio RPC 模式
+- BYOK 直连 25+ 提供方，OpenRouter 单 key 访问其全部模型目录并按轮显示实际计费成本
+- plan/edit/auto 三模式与只读白名单；凭据文件读取、内网地址访问均需确认
+- 子代理委派、LSP+MCP 扩展、SQLite+embeddings 跨会话记忆
+- 破坏性 git/文件操作前保存恢复点并支持 /undo，附 /audit 风险报告
 
 ## 适用场景
 
-- 在终端里用自己供应商的 key 让 agent 读写代码、跑命令、做研究
-- 本地 Ollama/LM Studio 模型驱动编码 agent
-- 通过 SDK 把 autopilot 的 agent 会话嵌入自己的程序或 CI 长任务
+- 在终端里用自有 API key 运行编码 Agent 改代码
+- 通过 vLLM 在自己 GPU 上跑私有模型并接入 Agent
+- 用 headless SDK 与 JSONL RPC 在其上构建程序化 Agent
+- 长时无人值守任务配合检查点与预算控制
 
 ## 场景标签
 
-`编码 Agent` `模型网关` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L13:  A terminal coding agent that runs on your own provider key.
-> L20: autopilot sends every model call to **the provider you choose** using **your own key** — bring-your-own-key, nothin
-> L52: - **Headless SDK** — Programmatic `createAgentSession` API and JSONL-over-stdio RPC mode for building on top of aut
+> L14:  The open-source coding agent inside dl. It doesn't ask permission.
+> L31: On the free tier, model calls go through Directionally Local's free tier service to its model host; it keeps usage 
+> L65: - **Headless SDK** — Programmatic `createAgentSession` API and JSONL-over-stdio RPC mode for building on top of aut
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `7211a6e82dae` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f7aa57575fa0` · [字段定义](../../DATASET.md)*

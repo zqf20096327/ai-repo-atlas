@@ -1,10 +1,10 @@
 # midspiral/LemmaScript
 
-⭐ 198 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/midspiral/LemmaScript) · [官网](https://lemmascript.org) · 组织维护
+⭐ 198 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/midspiral/LemmaScript) · [官网](https://lemmascript.org) · 个人维护
 
-**带规范注解的 TypeScript 形式化验证工具链**
+**为 TypeScript 程序生成 Dafny/Lean 可验证代码的验证工具链**
 
-在普通 TypeScript 中以 //@ 注解写入规范，由工具链生成可验证代码并转交 Dafny 或 Lean 4（Velvet 2）证明器检验。README 列出十余个从同一注解源验证的内外部案例：新开发应用（React/Next.js 域模型）与存量库（casbin、hono、xyflow、balanced-match 等）的就地验证，覆盖不变式保持、守恒定理、完备性等性质。当前为 Tech Preview，语义与易用性仍在演进。面向 TypeScript 开发者与形式化验证使用者。
+面向 TypeScript 开发者的程序验证工具链：开发者在普通 TypeScript 代码中以 `//@ ` 注解书写前置/后置条件、不变式等规约，工具链据此生成 Dafny 或 Lean 4（Velvet 2）形式的可验证代码，并经 `lsc gen/check` 生成与核验。Dafny 后端采用 .dfy.gen（可再生）与 .dfy（含人工/LLM 补充证明）双文件结构，要求差异仅为新增。附带 claimcheck 自然语言契约核对、guard 运行时前置条件检查，以及可复用的 GitHub Actions CI 工作流。npm 提供 Tech Preview 安装包。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 从同一注解 TypeScript 源生成 Dafny 与 Lean 4 可验证代码
-- 支持存量库的就地验证（casbin、hono、xyflow、balanced-match 等案例）
-- 案例覆盖不变式保持、守恒定理、可靠性与完备性证明
-- 验证条件可全部机械检验（案例报告 0 errors、0 sorry）
+- TypeScript 注解（requires/ensures/invariant/decreases）生成 Dafny 或 Lean 4 可验证代码
+- lsc check 可按 LemmaScript-files.txt 批量核验，本地与 CI 验证同一文件集
+- 提供可复用 GitHub Actions 工作流，检测生成文件过期并阻断构建
+- claimcheck 核对自然语言契约、guard 生成运行时前置条件检查模块
 
 ## 适用场景
 
-- 为 TypeScript 业务域模型附加机器检验的不变式与守恒证明
-- 对存量 npm 依赖库的核心函数做就地形式化验证
-- 在同一份源码上同时产出 Dafny 与 Lean 4 证明
+- 为 TypeScript 库或应用补充形式化规约并做验证
+- 在 CI 中自动验证提交的生成证明未过期
+- 用 guard 在应用边界做运行时前置条件检查
 
 ## 场景标签
 
- · 领域:软件工程/形式化验证
+`代码生成` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: A verification toolchain for TypeScript. Write ordinary TypeScript with `//@ ` specification annotations. The toolch
-> L7: This is a **Tech Preview**: the core idea is there, but support, semantics, and ergonomics are still evolving.
+> L9: This is a **Tech Preview**: the core idea is there, but support, semantics, and ergonomics are still evolving.
+> L64: The Dafny backend generates two files per TS source: `foo.dfy.gen` (always regeneratable) and `foo.dfy` (source of 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 low · 依据 README sha `74b0bb7dd2fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `0ad57f070ade` · [字段定义](../../DATASET.md)*

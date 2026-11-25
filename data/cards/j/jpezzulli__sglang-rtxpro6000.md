@@ -2,9 +2,9 @@
 
 ⭐ 206 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jpezzulli/sglang-rtxpro6000) · [官网](https://msoexpert.com) · 个人维护
 
-**面向 RTX PRO 6000 Blackwell 的 SGLang 派生推理运行时**
+**RTX PRO 6000 上运行 Qwen3.8 长上下文对话的 SGLang 推理运行时**
 
-Penny Royal 是从 SGLang 派生、针对单/双卡 NVIDIA RTX PRO 6000 Blackwell (SM120) 调优的 LLM 推理运行时，提供两个模型档：Qwen3.8 Flash-Next（NVFP4 专家+FP8 稠密层，FR-Spec 与自适应 MTP）与 Qwen3.8-27B FP8（DFlash2 投机解码）。核心机制为 GPU 显存/HiCache 内存/NIXL NVMe 三层会话缓存，支持 524K 上下文，可在服务器重启后恢复会话状态。安装分预构建容器与原生编译两条路径，需等待内核编译与 CUDA 图捕获。面向在自有硬件上运行长会话与编码 agent 的用户。
+由 SGLang 派生的推理运行时，针对 NVIDIA RTX PRO 6000 Blackwell（SM120）单卡或双卡调优，提供两个模型配置档：Qwen3.8 Flash-Next（NVFP4）与 Qwen3.8-27B（FP8），两者均支持 524,288 token 上下文、工具调用、推理模式与图像输入。核心机制是三层会话缓存（GPU 显存、HiCache 系统内存、NIXL NVMe 磁盘），使长会话可从缓存历史恢复。推理加速采用 FR-Spec 与 NEXTN MTP/DFlash2 投机解码，KV 池按内存剖析自动定容。安装路径为预构建容器或源码原生构建。
 
 ## 筛选速览
 
@@ -12,31 +12,32 @@ Penny Royal 是从 SGLang 派生、针对单/双卡 NVIDIA RTX PRO 6000 Blackwel
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 524,288 token 上下文，TP1/TP2 两档硬件配置
-- GPU/HiCache/NIXL 三层会话缓存，重启后可恢复缓存历史
-- Flash-Next：FR-Spec + 自适应 MTP（C=1 时四/八 token 草稿切换）
-- 27B：FP8 权重 + DFlash2 投机解码
+- GPU/HiCache 内存/NIXL NVMe 三层会话缓存，支持服务重启后恢复对话状态
+- 两个模型配置档：Qwen3.8 Flash-Next（NVFP4）与 Qwen3.8-27B（FP8），均支持 524K 上下文
+- FR-Spec + NEXTN MTP/DFlash2 投机解码，draft 宽度按并发数固定路由
+- KV 池按剖析内存自动定容，保留 MAX_TOTAL_TOKENS 显式设置
 
 ## 适用场景
 
-- 在单张 RTX PRO 6000 上本地运行长上下文编码 agent
-- 跨会话复用数十万 token 的对话前缀缓存
-- 搭建工具调用密集型工作流的自托管推理服务
+- 在本地单卡 RTX PRO 6000 上跑长对话和编程 agent 工作流
+- 跑工具调用密集的会话并从缓存恢复历史上下文
+- 需要 524K token 长上下文的本地推理部署
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`推理引擎` `聊天机器人` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
+> L5: Run long conversations, coding agents, and tool-heavy workflows on your own
 > L6: hardware. Penny Royal is an SGLang-derived runtime tuned for **NVIDIA RTX PRO
 > L9: **Persistent conversation caching is at the heart of Penny.** HiCache and NIXL
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4a8d1b4ff686` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `21d98b2864ec` · [字段定义](../../DATASET.md)*

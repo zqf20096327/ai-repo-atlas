@@ -2,9 +2,9 @@
 
 ⭐ 414 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kukemc/bili-cli) · 个人维护 · 中文 README
 
-**给 AI Agent 用的哔哩哔哩命令行工具，JSON 输出全套账号操作**
+**给 AI Agent 用的 B 站运营 CLI：扫码登录到投稿全流程**
 
-面向 AI Agent 的 B 站 CLI（pip 包名 bili-agent）：提供 80+ 条命令与 17 个 MCP 工具，覆盖扫码登录、浏览推荐/热搜、看视频（字幕、AI 总结、抽帧、本地 Qwen3-ASR 语音转写）、评论/私信/动态/投稿/合集/弹幕、创作数据统计等，全部输出统一 JSON（含错误码与下一步提示）。通过 bili skills install 可自动装进 Claude Code、Codex、Cursor 等 18 个 Agent，也可作为 MCP 服务接入 Claude Desktop、Cherry Studio。内置本地限流、审计日志、投币每日上限、私信白名单、投稿默认勾选 AI 生成声明等安全护栏；声明为非官方项目，不提供绕过风控功能。需 Python 3.10+，ffmpeg 为可选依赖。
+为可执行命令的 AI Agent 设计的哔哩哔哩命令行工具，覆盖扫码登录、看视频（含 B 站 AI 总结、字幕、抽帧总览图）、评论、真正的 @、私信、动态、投稿与改稿、合集管理、创作数据分析等 80+ 条命令。每条命令返回统一 JSON（含错误码与下一步提示），带本地限流、审计日志、投币每日上限、--dry-run、私信白名单、风控即停与防提示注入等默认护栏。可通过 bili skills install 装进 18 个 Agent，或以 17 个 MCP 工具接入不能执行命令的客户端。包名因 PyPI 占用为 bili-agent。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 80+ 条命令 + 17 个 MCP 工具，统一 JSON 输出（含错误码与 hint）
-- 一键安装进 18 个 Agent（Claude Code、Codex、Cursor、DeepSeek Harness 等）
-- 本地 Qwen3-ASR 语音转写（GPU/CPU 自适应），无字幕视频自动转写
-- 默认开启安全护栏：限流、审计日志、投币每日上限、私信白名单、--dry-run
+- 80+ 条命令，统一 JSON 输出、错误码与下一步提示
+- bili skills install 自动装进 18 个 Agent，另有 17 个 MCP 工具
+- 默认安全护栏：限流、审计日志、投币上限、--dry-run、风控即停
+- 无字幕视频可本地部署 Qwen3-ASR 语音转写（GPU/CPU）或接云端
 
 ## 适用场景
 
-- 让 AI Agent 代替自己回复评论、私信和粉丝互动
-- 让 Agent 自动投稿视频、发动态并跟踪审核状态与创作数据
-- 通过 CLI 或 MCP 让 Agent 浏览和总结 B 站视频内容
+- 让 Agent 查看并回复 B 站消息、私信，与粉丝互动
+- 用 Agent 完成视频投稿、定时发布、改稿与合集管理
+- 查询稿件完播率、互动率与账号数据做运营复盘
+- 让 Agent 看懂视频内容并汇报给主人
 
 ## 场景标签
 
-`语音识别` `网页抓取` · 领域:效率与自动化
+`语音识别` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L1: bili-cli：一句话，让你的 AI Agent 学会运营你的 B 站账号
 > L37: 把 bili-cli 交给 Claude Code、Codex、Cursor、Gemini CLI、OpenClaw、DeepSeek Harness 或任何能执行命令的 Agent，它就变成一个**真正会玩 B 站的 Agent
-> L102: - `bili skills install`：自动检测并装进 **Claude Code、Codex、Cursor、Gemini CLI、GitHub Copilot、Windsurf、OpenCode、OpenClaw、Qw
+> L106: - `bili skills install`：自动检测并装进 **Claude Code、Codex、Cursor、Gemini CLI、GitHub Copilot、Windsurf、OpenCode、OpenClaw、Qw
+> L148: ## 🤖 为 Agent 而生的设计
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `9eef26ac6a6e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `69aebd0ad25f` · [字段定义](../../DATASET.md)*

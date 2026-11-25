@@ -2,44 +2,44 @@
 
 ⭐ 234 · Perl · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/SyntheticAutonomicMind/CLIO) · 个人维护
 
-**终端 AI 编程代理：多模型接入、带工具与沙箱的 agent 框架**
+**终端内运行的 AI 编码 agent，支持 24 家模型提供方**
 
-基于 Perl 5.32+（仅核心模块，无 CPAN/pip/npm 依赖）的终端编程代理与可扩展 agent 框架：读取代码库、提出计划、经批准后实施、运行测试并提交 git。提供 9 个默认工具（文件操作、git、shell、长期记忆、web 等），支持 20 个 AI 提供商含 llama.cpp/LM Studio 本地模型与任意 OpenAI 兼容端点。含密钥脱敏、路径授权、--sandbox 沙箱与 Docker 容器隔离（clio-container）。支持多 agent 并行、SSH 机群部署与 tmux/Screen/Zellij 集成。
+CLIO 是用 Perl 编写的终端原生 AI 开发 agent 与可扩展 agent 框架：给定任务后它会调查代码库、提出计划、经批准后实现、运行测试并提交。它向模型暴露 9 个默认工具（文件操作、git、shell、记忆、网页等），支持跨会话记忆、多 agent 协调（Unix socket 消息总线）、SSH 集群部署，并内置秘密脱敏、路径授权、Unicode 注入过滤、沙箱与 Docker 容器隔离等安全层。要求 Perl 5.32+ 与标准 Unix 工具，全部 Perl 模块为核心模块，无外部依赖。代码 GPL-3.0，文档 CC-BY-NC-SA-4.0。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 20 个 AI 提供商接入，含 llama.cpp/LM Studio 本地模型与 OpenAI 兼容端点
-- 仅依赖核心 Perl 与标准 Unix 工具，无 CPAN/pip/npm 外部依赖
-- 六层安全机制：密钥脱敏、风险分级命令审批、路径授权、Unicode 注入过滤、沙箱与 Docker 容器隔离
-- 跨会话长期记忆、多 agent Unix socket 协作与 SSH 机群并行部署
+- 支持 24 个 AI 提供方，含 GitHub Copilot、OpenAI、Anthropic、Gemini、DeepSeek、OpenRouter 及 llama.cpp/LM Studio 本地模型，可指向任意 OpenAI 兼容端点
+- 9 个默认工具加条件加载工具，MCP 与插件工具动态加载
+- 任务中可任意按键中断，下次会话从中断处恢复；跨会话长期记忆存储发现与代码模式
+- 六层安全模型：秘密脱敏、命令风险分级、路径授权、Unicode 注入过滤、沙箱、容器隔离
 
 ## 适用场景
 
-- 在终端让 AI 端到端完成找 bug、修复、写回归测试并提交
-- 用本地 llama.cpp/LM Studio 模型做私密编程辅助
-- 同一仓库内多 agent 并行工作并管理文件与 git 锁
+- 在终端中端到端完成修 bug、补测试、提交的编码任务
+- 本地模型后端下让 AI 编码流程不出本机
+- 多个 agent 在同一仓库并行工作而互不冲突
+- SSH 部署到多台机器并行执行任务并回收结果
 
 ## 场景标签
 
-`编码 Agent` `多智能体` · 领域:Agent 开发
+`编码 Agent` `Agent 框架` `Agent 记忆` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: **A terminal-native AI development agent and extensible agent harness. The model does the reasoning - CLIO provides 
-> L9: Give CLIO a task and it works through it end to end - investigates your codebase, proposes a plan, implements after 
 > L11: CLIO is a Perl-based agent harness that works anywhere Perl runs. No CPAN, no pip, no npm - just core Perl and stan
+> L3: **A terminal-native AI development agent and extensible agent harness. The model does the reasoning - CLIO provides 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `59b4b84fa5d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `65ac456ea02f` · [字段定义](../../DATASET.md)*

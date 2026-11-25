@@ -2,9 +2,9 @@
 
 ⭐ 268 · C++ · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Conceptual-Machines/magda-core) · [官网](https://magda.land/) · 组织维护 · 中文 README
 
-**内置 AI 聊天助手的开源 DAW（数字音频工作站）**
+**从底层集成 AI 的开源数字音频工作站（DAW）**
 
-基于 C++23、JUCE 与 Tracktion Engine 的免费开源 DAW，采用混合音轨（音频+MIDI 同轨）、Arrangement/Session/Mix 三视图、每设备 16 LFO+16 宏控的调制系统、可嵌套 rack 与钢琴卷帘等常规 DAW 功能。AI 部分为应用内聊天：自然语言命令生成并执行自定义 DSL，用户自带 API Key（BYOAK），依赖 juce-llm 客户端模块与内嵌 llama.cpp 本地推理。处于 v0 早期，需自行编译。
+MAGDA 是一个基于 C++23 与 JUCE 构建的免费开源 DAW，使用原生音频引擎。功能包括音频/MIDI 混合轨道、Arrangement/Session/Mix 三视图、16 LFO 调制系统、可嵌套 Rack、钢琴卷帘、鼓机网格与调音台。AI 部分为内嵌聊天面板：自然语言命令生成并在应用内执行自定义 DSL（BYOAK 自带 API Key），并可通过 llama.cpp 子模块嵌入本地推理（可编译关闭）。提供 make 构建流程与 GitHub Actions CI。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 自然语言命令生成并执行自定义 DSL（BYOAK 自带 API Key）
-- 混合音轨：每轨同时承载音频与 MIDI clip
-- 每设备/rack 16 LFO 与 16 宏控的调制系统
-- 内嵌 llama.cpp 本地 LLM 推理
+- AI 聊天以自然语言生成并执行自定义 DSL（BYOAK）
+- 可选嵌入 llama.cpp 本地 LLM 推理（CMake 开关可关闭）
+- 混合轨道、16 LFO+16 宏旋钮调制系统与可嵌套 Rack
+-  GPL v3 许可，跨平台构建（Linux/macOS/Windows）
 
 ## 适用场景
 
-- 音乐制作与编曲，使用混合音轨与三视图工作流
-- 通过聊天用自然语言操作 DAW 功能
-- 本地运行 LLM 进行离线 AI 命令处理
+- 用自然语言指令在 DAW 内生成和执行音频操作
+- 进行音频与 MIDI 混合的多轨编曲与混音
+- 本地离线运行嵌入 LLM 的音乐制作环境
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+ · 领域:音频/音乐制作软件
 
 ## 证据(README 行号)
 
-> L14: MAGDA is a free, open-source DAW with AI integrated from the ground up. Built on C++23, JUCE, and Tracktion Engine.
-> L21: - **AI chat**: natural language commands that generate and execute a custom DSL directly in the app (BYOAK, Bring Y
+> L12: MAGDA is a free, open-source DAW with AI integrated from the ground up. Built on C++23, JUCE, and MAGDA’s native au
+> L19: - **AI chat**: natural language commands that generate and execute a custom DSL directly in the app (BYOAK, Bring Y
+> L129: - llama.cpp - Embedded local LLM inference
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b9c3b8aefa30` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7129d65104db` · [字段定义](../../DATASET.md)*

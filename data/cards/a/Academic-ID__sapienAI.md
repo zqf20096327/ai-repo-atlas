@@ -2,9 +2,9 @@
 
 ⭐ 209 · Shell · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/Academic-ID/sapienAI) · [官网](https://academicid.io/) · 组织维护
 
-**自托管的学术聊天机器人与科研写作工作台**
+**面向科研人员的自托管 AI 研究工作区与学术聊天应用**
 
-面向学术研究者的自托管 AI 工作台：将 OpenAI、Anthropic、Google 的云端模型与本地 Ollama 模型统一到一个界面中，支持实时语音对话、语义搜索、Zotero 集成与学术论文接地问答。提供 Markdown/Typst/LaTeX 编辑器的研究空间，AI 可读取、总结上传文档并生成文献综述（导出 Word/Excel）。所有数据本地存储。通过 Docker Compose 部署，需至少配置一个 API 提供商密钥；项目处于 beta 阶段，文档中注明可能遇到 bug。
+自托管的学术聊天机器人与研究工作区，将 OpenAI、Anthropic、Google 及本地 Ollama 模型统一到一个安全界面。功能包括实时语音聊天、100% 本地数据存储、学术论文集成、语义搜索与专用研究空间；研究空间内置支持 Markdown、Typst 和 LaTeX 的编辑器，可上传文档由 AI 读取、摘要与问答，并基于上传文献自动生成与导出 Word/Excel 格式的文献综述。安装需 Docker 与 Docker Compose，至少配置一个 AI 提供商的 API key；当前处于 beta 阶段。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 统一接入 OpenAI/Anthropic/Google 云端模型与本地 Ollama 模型
+- 统一聊天界面：切换 OpenAI、Anthropic、Google 与本地 Ollama 模型
+- 实时语音聊天与 100% 本地数据存储
 - 支持 Markdown/Typst/LaTeX 的集成编辑器与研究空间
-- 基于学术论文接地的问答与语义搜索（含 Zotero 集成）
-- AI 生成文献综述并导出 Word/Excel 格式
+- 可连接 Zotero 文献库的语义搜索
 
 ## 适用场景
 
-- 在一个自托管界面中与多家模型进行学术对话
-- 撰写论文时获得 AI 辅助编辑与文献问答
-- 对上传文档和个人知识库做语义搜索
+- 在一个界面与多家 AI 模型对话完成学术写作
+- 上传论文与笔记让 AI 摘要和答疑
+- 基于自建文献库自动生成文献综述
+- 在本地部署中保持消息与文件私有
 
 ## 场景标签
 
-`聊天机器人` `科研工具` `语义搜索` `AI 写作` · 领域:对话与助手
+`聊天机器人` `科研工具` `语义搜索` `文档问答` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L18: SapienAI is a self-hosted academic chatbot and research workspace. It unifies
-> L20: models** into a single, secure interface. Features include realtime audio chat,
-> L39: - **🧠 Multi-Provider Support:** Seamlessly switch between the top models from
+> L23: SapienAI is a self-hosted academic chatbot and research workspace. It unifies
+> L26: 100% local data storage, academic paper integration, semantic search, and
+> L62:  assistance as you need. Full support for **Markdown**, **Typst** and
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4cc1ed9ab213` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `776e9271ce9c` · [字段定义](../../DATASET.md)*

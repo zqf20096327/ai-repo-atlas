@@ -2,9 +2,9 @@
 
 ⭐ 248 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/RandyChen1985/nanzi-ai-agent-platform) · 个人维护 · 中文 README
 
-**面向企业的多智能体编排与 ChatBI 平台，数据直连+RAG**
+**企业级多智能体编排与 ChatBI 数据分析平台**
 
-个人开源（MIT）的企业级 AI 智能体编排与执行平台：基于 AgentScope + FastAPI 的 6 阶段异步流水线，提供智能委派多 Agent 协作、Local/Docker/K8s/E2B/SSH 五种沙箱执行策略、ChatBI Text-to-SQL 与自愈、RAG 知识库、Redis 长期记忆、双向 MCP 生态（含 OAuth2 对外 MCP 服务）、定时任务多通道推送与 RBAC 权限审计。支持多模型提供商接入（OpenAI/DeepSeek/Kimi/智谱/Ollama 等）。部署需配置数据库与 Redis，主库为 MySQL，可选 PostgreSQL，通过 Docker 构建脚本导出镜像部署。
+基于 AgentScope 与 FastAPI 的智能体平台，提供多 Agent 委派与协同、RAGFlow 知识库、ChatBI Text-to-SQL 自愈分析、五大策略安全沙箱（Local/Docker/K8s/E2B/SSH）、Redis 长期记忆、持久化浏览器自动化、嵌入式 Chat SDK、定时任务与多通道推送、RBAC 权限与 Token 审计。部署依赖 MySQL/PostgreSQL 与 Redis，推荐 Docker 构建镜像运行，另有微信实战连载与 FAQ 文档。面向企业内部搭建智能体应用与数据问答场景。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- Local/Docker/K8s/E2B/SSH 五种沙箱执行策略，含空闲回收与生命周期管理
-- ChatBI：元数据注入+Schema 门禁+SQL 自愈与 sql_plan 结构化计划
-- 双向 MCP：出站自动透传用户身份，平台自身作为 MCP 服务端供 Cursor/Claude Desktop 调用
-- 四维 Token 占比观测与两阶段上下文溢出压缩
+- 多 Agent 智能委派与专家直选，AgentScope ReAct 执行引擎
+- ChatBI：Text-to-SQL 闭环、SQL 自愈与 Schema 漂移治理
+- 五策略安全沙箱（Local/Docker/K8s/E2B/SSH）与持久化浏览器接管面板
+- 内置多提供商模型预设、RBAC、SSO 与 Token 消耗审计
 
 ## 适用场景
 
-- 企业搭建带 RBAC 与审计的内部智能体问答/分析平台
-- 自然语言直查业务数仓并生成证据化业务简报
-- 通过嵌入式 Chat SDK 将智能体能力集成到现有业务系统
-- 外部 MCP 客户端调用平台纳管的智能体与会话
+- 企业内搭建多专家协作的智能体助手并嵌入业务系统
+- 业务人员用自然语言直查 Oracle/ClickHouse/MySQL 数仓生成报表
+- 建设知识库并让对话自动检索注入引用
+- 定时巡检数据报表并通过企微/钉钉/飞书推送告警
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `数据分析` `RAG` · 领域:Agent 开发
+`Agent 框架` `多智能体` `数据分析` `聊天机器人` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L10: > **企业级 AI 智能体编排与执行平台**
-> L25: **NanZi 智能体平台** 是专为企业级复杂场景打造的 AI 智能中枢。
+> L29: * 💬 **深度交互式对话 (Dialogue & Co-Agent)**：极速流式响应，支持 **智能委派（默认进入 Main）** 与 **专家模式 / @提及直选**、多专家协同。内置 **工具预检** 促发模型主动调用工具
+> L132: * **多提供商模型管理**：内置 OpenAI, Azure, DeepSeek, Kimi, 智谱 AI, 硅基流动, 阿里云百炼, 火山引擎 (Ark/豆包), Ollama 等模型预设与 Endpoint 智能版本号规范
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `4c45e0d8584c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `91af2d3db5b2` · [字段定义](../../DATASET.md)*

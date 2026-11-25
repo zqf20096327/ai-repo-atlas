@@ -2,9 +2,9 @@
 
 ⭐ 230 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dimetron/pi-go) · [官网](https://pi-go.sh) · 个人维护
 
-**面向开发者的终端 AI 编程 agent（Go 实现）**
+**终端里的 AI 编码代理：接入多模型为开发者执行代码任务**
 
-基于 Google ADK Go 的终端编程 agent：以 Bubble Tea v2 TUI 交互，接入 Anthropic/OpenAI/Gemini/Mistral/xAI/Azure/OpenRouter/Ollama 等多家 LLM 提供商，运行受 os.Root 限制在项目目录内的沙箱工具（读写、shell、grep、git 等）。内置进程式子 agent 系统（explore/plan/reviewer 等 6 类）、Go/TS/Python/Rust/Java 的 LSP 集成、JSONL 会话持久化与分支、SQLite 存储的 4 层上下文记忆，支持 MCP、hooks、skills 及 Claude Code 兼容插件市场安装。要求 Go 1.27+ 与至少一个 LLM API key 或运行中的 Ollama 实例。
+基于 Google ADK Go 构建的终端编码代理，以 TUI/CLI 形式运行。提供沙箱化工具（读写、编辑、shell、grep、git）、LSP 集成（Go/TS/Python/Rust/Java）、进程级子代理系统、JSONL 会话持久化与分支压缩，以及 LLM 生成的 conventional commit。接入 Anthropic、OpenAI、Gemini、Mistral、xAI、Azure、OpenRouter、Ollama 等提供商，通过模型名前缀路由并经环境变量配置 API key；另提供 JSON 输出模式与 Unix socket JSON-RPC 服务端供 IDE 集成。
 
 ## 筛选速览
 
@@ -20,18 +20,17 @@
 
 ## 能力要点
 
-- 多提供商 LLM 接入（Anthropic/OpenAI/Gemini/Mistral/xAI/Azure/OpenRouter/Ollama 等）
-- os.Root 沙箱限制工具仅操作项目目录
-- 进程式子 agent 系统（explore/plan/designer/reviewer/task/quick_task）
-- Memory Palace：SQLite 存储的 4 层上下文记忆与 all-MiniLM-L6-v2 语义嵌入
-- pi verify 基于 Sigstore 证明的发布校验，附带 SBOM
+- 多提供商模型接入，模型名前缀自动路由 API key 与 Base URL
+- 沙箱工具经 os.Root 限制在项目目录内运行
+- 进程式子代理系统（explore/plan/reviewer 等类型）与 LSP 集成
+- release 提供 Sigstore 证明与 SBOM，可用 pi verify 校验二进制来源
 
 ## 适用场景
 
-- 在终端里让 AI 读取/编辑代码并执行命令完成编程任务
-- 通过子 agent 与 Plan-Driven Development 流程拆解开发任务
-- 在 IDE/编辑器中经 Unix socket JSON-RPC 集成使用
-- 用 Ollama 本地模型离线运行编程 agent
+- 在终端里让 AI 代理读写代码、跑 shell 命令、生成提交
+- 本地无网络依赖时通过 Ollama 守护进程运行模型
+- 通过 JSON 模式或 RPC 服务端把代理接入编辑器/IDE
+- 用 Plan-Driven Development 会话做规格驱动的开发流程
 
 ## 场景标签
 
@@ -41,6 +40,7 @@
 
 > L12: A terminal-based coding agent built on Google ADK Go. It connects to multiple LLM providers, runs
 > L19: - **Multi-provider LLM** — Claude (Anthropic), GPT/O-series (OpenAI), Gemini (Google), Mistral, Grok (xAI), Azure O
+> L211: - At least one LLM provider API key or a running Ollama instance
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `37324bbc7474` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `389712aec086` · [字段定义](../../DATASET.md)*

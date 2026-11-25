@@ -2,15 +2,15 @@
 
 ⭐ 238 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SikamikanikoBG/homelab-monitor) · [官网](https://sikamikanikobg.github.io/homelab-monitor/) · 个人维护
 
-**自托管家庭实验室监控面板：GPU/容器/成本/AI 模型一页掌握**
+**自托管 homelab 监控面板，内置可问答的 AI agent 与 MCP 服务**
 
-单容器部署的自托管监控面板，通过 SSH 采集多台 Linux/Windows 主机的 GPU（NVIDIA via nvidia-smi、AMD via amdgpu）、Docker 容器、systemd、磁盘与能耗成本数据，存入 SQLite。面向运行本地 AI 的家庭实验室用户：可识别 30+ 模型服务器（Ollama、vLLM、llama.cpp 等）、对本地 ollama 模型做上下文基准测试（tokens/sec、VRAM 拟合），并内置只读 MCP 服务器（19 个工具）供 AI agent 查询。无代理、无云依赖。
+单容器自托管的 homelab 监控面板：经 SSH 汇聚多台主机的 GPU、容器、systemd、磁盘、能耗与成本数据，提供 Overview/GPU/Costs 等标签页与 Discord/ntfy/Telegram 告警。内置 AI agent 复用 MCP 工具读取面板数据回答提问，操作须按每台机器的策略审批后执行；另提供只读 MCP server 供外部 agent 接入。AI 功能默认关闭，需在 Overview 中启用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 多机 SSH 采集，远端无需安装任何东西
-- 内置只读 MCP 服务器（19 个工具），Claude 等 MCP 客户端一行接入
-- Benchmark Lab 对本地 ollama 模型扫描上下文阶梯，记录 tokens/sec 与 VRAM 拟合
-- 能耗按机器/组件/进程/容器/模型折算为电费，支持峰谷电价
+- 内置 AI agent，以文本和表格回答关于实验室的问题，操作需审批
+- 提供只读 MCP server，供 AI agents 探索面板数据
+- GPU 监控支持 NVIDIA 降频原因解码与 AMD/Intel 显卡（无需 ROCm）
+- 按进程/容器/模型计量能耗成本，支持日夜电价
 
 ## 适用场景
 
-- 监控多台主机的 GPU 占用、温度与哪个模型占着显存
-- 查看每个容器/模型/训练任务花了多少电费
-- 测试本地模型在自家显卡上能跑多大上下文
-- 让 AI agent 通过 MCP 查询整个实验室状态
+- 一页查看所有主机与 GPU 的状态、占用与故障
+- 用自然语言询问实验室状况并审批维护操作
+- 按机器和进程核算电费成本
+- 设置定时巡检例程（磁盘、GPU 健康、容器健康）
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+ · 领域:运维/基础设施监控
 
 ## 证据(README 行号)
 
-> L99: The hub stitches `nvidia-smi` (plus AMD GPUs via the in-kernel `amdgpu` sysfs interface, and AMD/Intel on Windows h
-> L109: HomeLab Monitor isn't just a dashboard for *you* anymore; it's context for your AI agent too. A **read-only MCP se
+> L12: **Ask your homelab.** One self-hosted page for every box and GPU you run — and an AI agent that reads all of it, an
+> L36: **It answers from what the dashboard actually measures.** Ask from the **Ask your lab** card on the Overview, the f
+> L43: **Your models, your rules.** It finds the model servers already on your network — Ollama, vLLM, llama.cpp, LM Studi
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4efaf9e5cd03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `21ccbe530ae0` · [字段定义](../../DATASET.md)*

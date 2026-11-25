@@ -2,9 +2,9 @@
 
 ⭐ 249 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/facebookresearch/swe-sweep) · [官网](https://swesweep.com) · 组织维护
 
-**评测 LM agent 在大型代码库中自主发现并修复 bug 的基准**
+**评测 LM agent 在真实仓库中发现并修复 bug 能力的基准**
 
-Facebook Research 发布的软件工程 agent 基准：给定真实仓库，agent 需在不知道 bug 类型与位置的前提下自主发现并修复尽可能多的 bug，之后在独立验证环境中评测。本仓库代码是围绕 Harbor 框架的薄封装，因 Harbor 0.23 尚不支持分离的验证环境与 collect hooks，项目固定了 Harbor 源码仓库的兼容修订版本，待 0.24 发布。提供 sweep 命令行进行单任务评测、成绩汇总与微平均最终分数计算；CI 测试覆盖 Python 3.12/3.13。
+SWE-sweep 是 Meta 研究团队发布的基准，考察语言模型 agent 在不给任何 bug 类型或位置提示的前提下，能在真实大型代码库中发现并修复多少 bug。本仓库是 harbor 框架之上的轻量封装：固定一个兼容版 Harbor 修订版，提供 uv/pip 安装、sweep infra doctor 环境自检、单任务评测命令与独立的 verifier 环境评分流程，最终按各任务解决 bug 数的微平均计算总分。评分公式、评测伪代码与引用信息均在 README 中给出。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Facebook Research 发布的软件工程 agent 基准：给定真实仓库，agen
 
 ## 能力要点
 
-- agent 无提示自主发现并修复真实仓库中的 bug
-- 基于 Harbor 框架，在独立验证环境中评测结果
-- 微平均最终分数（解决 bug 总数/bug 总数）计算
-- 提供 sweep eval / sweep info 命令行工具
+- 给定真实仓库，agent 无提示自主发现并修复 bug
+- 基于 harbor 框架，使用独立 verifier 环境验证提交补丁
+- 总分按各任务 bug 解决数的微平均（加权平均）计算
+- 提供 sweep eval/info 命令与任务级评测结果汇总
 
 ## 适用场景
 
-- 评测 SWE agent 在大型代码库的自主找 bug 能力
-- 用 diff 提交快速验证单任务修复结果
-- 汇总多次评测结果并计算基准总分
+- 评测我的 agent 在真实代码库中找修 bug 的能力
+- 复现论文基准结果并按任务查看得分明细
+- 为仓库维护者提供统一的基准提交与评分格式
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ Facebook Research 发布的软件工程 agent 基准：给定真实仓库，agen
 
 ## 证据(README 行号)
 
-> L3:  How many bugs can LMs find & fix in large codebases?
 > L5: Given a real repository, an agent must discover & repair as many bugs as they can.
+> L22: > * **Final score**: We build a micro-average of the bugs resolved (equivalent to a weighted average of the
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b1a88f84a6d8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b95d292802cf` · [字段定义](../../DATASET.md)*

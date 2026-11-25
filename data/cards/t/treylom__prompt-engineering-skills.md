@@ -2,9 +2,9 @@
 
 ⭐ 193 · JavaScript · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/treylom/prompt-engineering-skills) · 个人维护
 
-**跨平台（Claude Code/GPTs/Gems）通用提示工程技能合集**
+**面向 Claude Code/ChatGPT/Gemini 用户的提示词工程技能资料集**
 
-面向 Claude Code、ChatGPT GPTs 与 Gemini Gems 使用者的提示工程技能仓库：以单一权원統合本为核心，附领域分册（GPT-6/Claude Opus 5.5/Gemini 3.1 模型策略、图像与视频、研究与事实核查、幻灯片、专家领域 Priming、Context Engineering）及 Skills 2.0 分割模块。技能遵循 Agent Skills 开放标准，提供 git clone 安装命令、PowerShell 版本、GPTs/Gems 的 Knowledge 上传导出脚本与按场景选择指南。
+供 Claude Code、ChatGPT GPTs、Gemini Gems 使用的提示词工程技能仓库，覆盖模型特定策略（GPT、Claude、Gemini/Veo）、图像与视频提示词、研究与事实核查、幻灯片、专家领域前置以及 Context Engineering 原则。组织形式为单一整合文档加分区指南，遵循 Agent Skills 开放标准，提供 Claude Code 插件安装、git clone 脚本安装及 GPTs/Gems 的知识文件导出脚本。GPTs 受 Knowledge 文件 10 个上限约束，需选择上传。
 
 ## 筛选速览
 
@@ -13,33 +13,32 @@
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单一权원統合本 + 领域分册 + Skills 2.0 分割模块的组织结构
-- 覆盖 GPT-6 Sol / Claude Opus 5.5 / Gemini 3.1 等模型特定提示策略
-- export-knowledge.sh 生成 GPTs/Gems 上传用 Knowledge 捆绑文件
-- Claude Code / Codex CLI 双平台插件安装命令
+- 整合本 + 分区指南 + Skills 2.0 分割模块三种资产形态，按环境选择安装
+- 遵循 Agent Skills 开放标准，同一仓库供 Claude Code 与 Codex CLI 使用
+- 提供 export-knowledge.sh 脚本生成符合文件名引用契约的上传包
+- 覆盖 GPT/Claude/Gemini/Veo/图像等多模型分区提示词策略
 
 ## 适用场景
 
-- 为 Claude Code 安装提示工程技能与命令
-- 为自建 GPT 或 Gem 上传提示工程知识库
-- 按场景查找图像、研究、幻灯片等领域的提示策略
+- 为 Claude Code 安装提示词工程参考技能
+- 向 GPTs/Gems 上传知识文件搭建提示词生成器
+- 按模型版本查找对应的提示词策略指南
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`提示工程` `编码 Agent` `教程课程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: Claude Code, ChatGPT GPTs, Gemini Gems에서 함께 쓰는 프롬프트 엔지니어링 스킬 저장소입니다. 모델별 전략, 이미지/동영상, 리서치/팩트체크, 슬라이드, 전문가 도메인 프라이밍, 
-> L27: |영역|통합본 위치|분할본 파일|
-> L109: This repository ships both a canonical merged skill (`skills/prompt-engineering-guide/references/full.md`) and per
+> L5: > **운영 구조**: 단일 권원 통합본(`skills/prompt-engineering-guide/references/full.md`) + 영역별 분할 가이드(`skills/*.md`) + Skills 2.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `041cac34011c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f86973f2eb3e` · [字段定义](../../DATASET.md)*

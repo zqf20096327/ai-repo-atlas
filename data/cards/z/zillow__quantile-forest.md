@@ -2,9 +2,9 @@
 
 ⭐ 256 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/zillow/quantile-forest) · [官网](https://zillow.github.io/quantile-forest/) · 组织维护
 
-**兼容 scikit-learn 的分位数回归森林 Python 库**
+**给数据科学家的分位数回归森林库：预测区间与不确定性估计**
 
-提供分位数回归森林（QRF）的 Python 实现：基于树的非参数集成方法，用于估计条件分位数，适用于高维数据与不确定性估计。Cython 优化的估计器扩展 scikit-learn 的森林回归器，可在预测时估计任意分位数而无需重训练，并提供袋外估计、分位数秩计算与邻近度计数方法；可作为 scikit-learn 森林回归器的替代品直接使用。通过 PyPI 与 conda-forge 安装，面向使用 scikit-learn 工作流的开发与科研用户。
+提供与 scikit-learn 兼容的分位数回归森林 Python 实现，基于 Cython 优化并扩展 scikit-learn 森林估计器。支持预测时估计任意分位数而无需重新训练，提供袋外估计、分位数秩计算与邻近计数方法，支持样本权重、多目标、单调约束与缺失值，可作为 scikit-learn 森林回归器的直接替换。通过 pip 或 conda-forge 安装，附带文档与示例。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 估计条件分位数，支持预测时任意分位数且无需重训练
-- 提供袋外估计、分位数秩、邻近度计数方法
-- 兼容并可替代 scikit-learn 森林回归器
-- Cython 优化的实现
+- 预测时估计任意条件分位数，无需重新训练
+- Cython 优化的实现，兼容并可替换 scikit-learn 森林回归器
+- 支持袋外估计、分位数秩、邻近计数
+- 支持样本权重、多目标、单调约束与缺失值
 
 ## 适用场景
 
-- 为回归模型生成预测区间
-- 高维数据的不确定性估计
-- 在 scikit-learn 流水线中直接替换森林回归器做分位数预测
+- 对房价等数据拟合模型并输出预测区间
+- 在高维数据上做条件分位数估计
+- 为回归任务提供不确定性量化
 
 ## 场景标签
 
- · 领域:机器学习/统计建模
+ · 领域:机器学习/统计回归
 
 ## 证据(README 行号)
 
-> L12: Quantile regression forests (QRF) are a non-parametric, tree-based ensemble method for estimating conditional quant
-> L38: y_pred = qrf.predict(X, quantiles=[0.025, 0.5, 0.975])
+> L11: **quantile-forest** offers a Python implementation of quantile regression forests compatible with scikit-learn.
+> L13: Quantile regression forests (QRF) are a non-parametric, tree-based ensemble method for estimating conditional quant
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `aa9407241edf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7b854d46762d` · [字段定义](../../DATASET.md)*

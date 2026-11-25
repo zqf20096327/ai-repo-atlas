@@ -2,9 +2,9 @@
 
 ⭐ 207 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Zhou-Yujing114514/deepseek-harness-linux) · [官网](https://github.com/Zhou-Yujing114514/deepseek-harness-linux/releases) · 个人维护 · 中文 README
 
-**DeepSeek Harness 桌面端的社区 Linux 打包（AppImage/.deb/.tar.gz）**
+**为 DeepSeek Harness 桌面端提供 Linux 打包分发**
 
-deepseek-ai/deepseek-harness 的下游 fork，专注为该桌面端补齐 Linux 打包层：在原生 CI 上产出 x64 与 arm64 的 AppImage、.deb、.tar.gz 三种安装包，AppImage 经 electron-updater 走 HTTPS 通道自动更新。agent 内核、插件体系与前端全部跟随上游，未做魔改。面向 Linux 桌面用户，数据可留本机、支持本地自托管 dsh web。已知限制：构建未签名、Office 文档转换在 Linux 暂缺、上游处于 developer preview 需持续 rebase。
+deepseek-ai/deepseek-harness 官方桌面端（MIT，仅发 macOS/Windows）的下游 fork，专注 Linux 移植层：通过原生 CI 为 x64/arm64 构建 AppImage、.deb、.tar.gz 三种安装包，仅 AppImage 经 electron-updater 支持 sha512 校验的自动更新。不修改上游 agent 内核与插件体系，Linux 下 Office 文档转换暂缺、构建未签名。模型能力来自 DeepSeek 官方 API，不内置离线模型。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ deepseek-ai/deepseek-harness 的下游 fork，专注为该桌面端补齐 Linux 
 
 ## 能力要点
 
-- x64/arm64 双架构三种安装包（AppImage 自动更新含 SHA256 校验）
-- agent 内核与插件体系跟随上游，Linux 下保留官方桌面功能
+- 三种安装包（AppImage/.deb/.tar.gz）覆盖 x64 与 arm64
+- AppImage 经 electron-updater 自动更新并做 sha512 校验
 - 可自托管运行 dsh web，数据留在本机
+- 改动限于 Linux 移植层，agent 内核跟随上游
 
 ## 适用场景
 
-- 在 Ubuntu/Debian/ARM 设备上安装并运行 DeepSeek 桌面客户端
-- 通过 AppImage 通道自动更新桌面端
-- 内网或隐私敏感环境本地自托管 DeepSeek Harness
+- 在 Ubuntu/Debian/树莓派 5 上安装 DeepSeek 桌面客户端
+- 内网或隐私敏感场景自托管运行 dsh web
+- ARM 服务器上的 Linux 环境使用 DeepSeek 桌面端
 
 ## 场景标签
 
@@ -36,9 +37,8 @@ deepseek-ai/deepseek-harness 的下游 fork，专注为该桌面端补齐 Linux 
 
 ## 证据(README 行号)
 
-> L3: > 给官方 DeepSeek Harness 桌面端补上**社区 Linux 桌面端打包** —— 开源（MIT）DeepSeek 桌面客户端，开箱即用的 AppImage / `.deb` / `.tar.gz`，覆盖 x64 与
-> L19: - 🧩 **功能完整**：agent 内核、插件体系、联网、前端全部跟随上游，Linux 下与官方体验一致（仅 Office 文档转换暂缺）。
-> L20: - 🏠 **可自托管**：本地运行 `dsh web` 或安装桌面端，数据留在本机，适合隐私敏感与内网场景。
+> L5: **一句话定位**：在 Linux 上「能下载、能装、能更新」的 DeepSeek 桌面端（DeepSeek desktop for Linux）。完整保留官方 agent / 插件 / 联网能力，既可本地自托管运行 `dsh we
+> L130: > 说明：本项目是**桌面客户端**，模型能力由 DeepSeek 官方 API 提供，**不内置离线模型**，也不等同于"在本地跑模型"。如需接入自托管或第三方模型，请在客户端内自行配置对应的 API 端点与密钥。
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `477812f5b629` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b6dc2f6374cf` · [字段定义](../../DATASET.md)*

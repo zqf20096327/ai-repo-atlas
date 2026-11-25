@@ -4,13 +4,13 @@
 
 **自托管的 Git 仓库 AI 工作流自动化平台**
 
-部署在自己基础设施内的服务，接入 Gitea/GitHub/GitLab/Bitbucket 与多种 AI 提供商（Anthropic、OpenAI、Gemini、Ollama、llama.cpp），把 PR 审查、单测/E2E 测试生成、issue 精炼与分派路由、issue 转 PR、README 同步、i18n 补齐等工程事务转为由 Git 事件触发的自动化工作流。bot 以评论形式在 Git 平台内响应，支持本地模型满足代码不出内网的合规要求，提供 Prometheus 指标与签名 Webhook。以 Docker 镜像（amd64/arm64）或 Docker Compose 部署。
+部署在团队自有基础设施中的 Git 机器人平台，接入 Gitea/GitHub/GitLab/Bitbucket/Azure DevOps，在 PR 打开、issue 分配、@bot 提及等 Git 事件触发时执行工作流：PR 审查评论、单元测试生成、Playwright E2E 测试与预览环境、issue 结构化改写与分派路由、README/i18n 同步、issue 直接转为 PR。AI 提供方可组合 OpenAI/Anthropic/Gemini 或本地 Ollama、llama.cpp；内置 H2 数据库可 Docker 单命令启动，支持 Prometheus 指标与 HMAC 签名 Webhook。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- PR 审查、issue 路由/精炼、issue→PR 编码代理、单测与 Playwright E2E 生成等工作流
-- 任意 AI 提供商搭配任意 Git 平台，支持 Ollama/llama.cpp 本地模型
-- README 同步与 i18n 多语言文件补齐工作流
-- Prometheus 指标端点与 HMAC 签名的出站 Webhook
+- PR 审查、单元测试与 Playwright E2E + 预览环境部署等 12+ 种事件触发工作流
+- AI 提供方与 Git 平台自由组合，支持 OpenAI-compatible API 与本地模型
+- 可全自托管，代码、提示词与模型留在私有网络内
+- 内置 Prometheus 指标端点与签名出站 Webhook
 
 ## 适用场景
 
-- 团队希望自动审查每个 PR 并生成回归测试
-- 使用 Gitea 等自托管 Git 平台但缺少 AI 工具链
-- 合规要求源码不外发，需要本地模型驱动的工程自动化
+- Gitea 等自托管 Git 平台补齐 AI 审查与测试自动化能力
+- 合规/隐私要求下用本地模型跑 AI 代码审查
+- 把 issue 自动转成实现 PR 或结构化工作项
+- 自动保持 README 与翻译文件随代码变更同步
 
 ## 场景标签
 
-`代码审查` `工作流自动化` `编码 Agent` `代码生成` · 领域:效率与自动化
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L11: > **The self-hosted AI workflow automation platform for Git repositories.**
 > L116: ## 🔌 Mix any AI provider with any Git platform
-> L125: Unlike most AI coding tools, AI-Git-Bot is not tied to a specific Git platform or AI provider.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `03b88b3b840c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2882707c6a63` · [字段定义](../../DATASET.md)*

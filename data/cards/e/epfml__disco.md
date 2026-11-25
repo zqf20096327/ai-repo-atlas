@@ -2,9 +2,9 @@
 
 ⭐ 193 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epfml/disco) · [官网](https://discolab.ai) · 组织维护
 
-**浏览器端联邦/去中心化协作训练平台，无需代码与安装**
+**非技术用户在浏览器中协作训练模型且不共享私有数据**
 
-DISCO 是运行于浏览器的分布式协作机器学习平台，面向非技术用户：多个数据持有者在不共享原始数据的前提下共同训练深度学习模型。采用“公共模型-私有数据”模式，仅交换安全聚合后的模型更新，支持联邦式（中心服务器）与去中心化（用户间 P2P，无中心协调）两种训练方案。基于 TF.js 在浏览器内运行任意深度学习任务，提供 Titanic、MNIST、CIFAR-10、GPT2 等示例任务，并可在自定义训练页面上传初始模型、无代码创建训练任务。开发者以 JavaScript/TypeScript 参与开发。
+DISCO 是一个免安装的浏览器平台（提供网页与移动端），基于联邦学习与去中心化学习，让多个数据所有者在不共享原始数据的前提下共同训练机器学习模型：模型公开、数据私有，通信的是模型更新而非数据，更新经安全聚合得到训练后的模型。平台通过 TF.js 在浏览器内运行深度学习任务，去中心化模式经由 WebRTC 点对点通信。用户可在 DISCOllaboratives 页面使用内置示例任务（GPT2、Titanic、MNIST、CIFAR-10），也可在无代码的自定义训练页上传初始模型并选择联邦或去中心化训练方案。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ DISCO 是运行于浏览器的分布式协作机器学习平台，面向非技�
 
 ## 能力要点
 
-- 浏览器内运行深度学习任务（基于 TF.js），无需安装
-- 支持联邦式与去中心化（P2P、无中心协调）两种训练方案
-- 仅交换模型更新而非数据，隐私保护设计
-- 无代码创建自定义协作训练任务
+- public model – private data 方案：仅通信模型更新，更新安全聚合
+- 浏览器内经 TF.js 运行深度学习任务，免安装
+- 去中心化模式基于 WebRTC 点对点通信，无中央协调
+- 无代码自定义训练：上传初始模型并选择联邦/去中心化方案
 
 ## 适用场景
 
-- 我想和他人一起在不共享私有数据的情况下联合训练模型
-- 作为非技术用户在浏览器中参与机器学习训练
-- 在移动设备上参与分布式学习实验
+- 跨私有数据集共同训练模型而不外传数据
+- 非专业用户参与协作式机器学习训练
+- 在浏览器中直接体验 MNIST、CIFAR-10 等示例协作任务
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ DISCO 是运行于浏览器的分布式协作机器学习平台，面向非技�
 ## 证据(README 行号)
 
 > L7: DISCO leverages federated :star2: and decentralized :sparkles: learning to allow several data owners to collaborativ
+> L22: - DISCO has a _public model – private data_ approach
 > L31: - DISCO runs arbitrary deep learning tasks and model architectures in your browser, via TF.js
-> L55: - The example DISCOllaboratives are based on popular ML tasks such as GPT2, Titanic, MNIST or CIFAR-10
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4b9a24cdaefc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `42a2a8470b86` · [字段定义](../../DATASET.md)*

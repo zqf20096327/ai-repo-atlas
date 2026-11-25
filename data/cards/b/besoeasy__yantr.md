@@ -2,9 +2,9 @@
 
 ⭐ 215 · Vue · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/besoeasy/yantr) · [官网](https://yantr.org) · 个人维护
 
-**基于 rootless Podman 的自托管 homelab 应用商店**
+**一条命令在自有 Linux 上以 rootless Podman 自托管应用目录中的应用**
 
-以单个 rootless 容器形式运行在已有 Linux 机器上的自托管应用商店：通过精选目录一键部署 Podman Compose 栈（含 AI、媒体、下载、安全等类别），目录含 Open WebUI、Perplexica 等应用。面向不想为 Umbrel 类平台专机的 homelab 用户。关键机制：基于 rootless Podman 的无守护进程架构、systemd Quadlet 集成、Docker socket 自动转换（兼容 Portainer 等应用）、REST API 脚本化操作。限制：仅支持 Linux + Podman + systemd（不支持 Alpine），需以普通用户运行，许可证为 PolyForm Noncommercial（非商用）。
+以单个 rootless 容器形式运行的 Linux 自托管应用管理器，内置含 Jellyfin、Nextcloud、Ollama、Pi-hole、n8n 等 170+ 应用的目录。安装脚本自动配置 rootless Podman 与 systemd Quadlet，支持 Fedora/Debian/Ubuntu/Arch/openSUSE 的包管理器探测；应用栈以用户空间运行，日志走 journalctl，开机自启动，卸载同为一条命令。限制：需 systemd（Alpine 除外），采用 PolyForm Noncommercial 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 精选应用目录一键部署为 Podman Compose 栈
-- 自动将 /var/run/docker.sock 请求路由到 rootless Podman socket
-- systemd Quadlet 集成，开机自启并以 systemctl --user 管理
-- 全部操作暴露为 REST API JSON 端点
+- rootless/daemonless：以普通用户运行，安装器拒绝 sudo
+- 170+ 应用的自托管目录，一条命令安装/更新/卸载
+- 原生 systemd Quadlet 与 journalctl --user 集成
+- GHCR 多架构镜像（amd64/arm64），cosign 签名
 
 ## 适用场景
 
-- 在笔记本/树莓派/旧 PC 上不重装系统地自助部署自托管应用
-- 以 rootless 隔离方式运行 Nextcloud、Vaultwarden、AI 应用等服务
-- 通过浏览器管理各部署的环境变量与数据卷
+- 在家庭服务器/旧 PC/树莓派上自托管媒体、网盘等应用
+- 不想给 Docker root 权限的家用环境部署容器应用
+- 以普通用户身份管理多个自托管服务并开机自启
 
 ## 场景标签
 
- · 领域:自托管/家庭服务器运维
+ · 领域:自托管/容器应用管理
 
 ## 证据(README 行号)
 
-> L5: **A self-hosted app store that runs alongside your OS — not instead of it.**
-> L23: **Yantr is an app, not an OS.** It runs as a single rootless container on the machine you already have — laptop, Ra
-> L130: |🤖 AI & Agents|Open WebUI, Perplexica, Agent Zero, Kokoro|
+> L11: Jellyfin · Nextcloud · Ollama · Pi-hole · n8n · **+170 more**
+> L35: **Yantr is an app, not an OS.** It runs as a single rootless container on the machine you already have — laptop, Ra
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `3ea47c244a92` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 low · 依据 README sha `ca727b8144c2` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 231 · Typst · 推送 2026-11-01 · [GitHub](https://github.com/ArtemXTech/claude-code-obsidian-starter) · [官网](https://artemxtech.substack.com) · 个人维护
 
-**Claude Code 配合 Obsidian 使用的预配置 vault 起步套件**
+**Claude Code + Obsidian 预配置启动模板：项目管理与日常例程**
 
-面向 Obsidian 用户与 Claude Code 使用者的免费起步套件：提供克隆即用的 vault，内含预配置的 CLAUDE.md 构建命令（/setup-memory）与四类技能（query 查找项目/客户/任务、tasknotes 创建管理任务、review 晨晚间与每周例程、client 客户跟进与邮件）。使用流程为 git clone 后在 Obsidian 中打开并在目录内运行 claude 命令。附带 PDF 完整设置指南，并推广作者 11 月开课的付费实验营。
+一个免费入门套件，提供预配置的 Obsidian 库（vault），与 Claude Code 配合使用。内置 4 个技能：query（查找项目、客户、任务）、tasknotes（创建与管理任务）、review（早/晚/周例程）、client（客户跟进与邮件）。通过 git clone 获取后在 Obsidian 中打开、运行 claude 命令即可使用，并提供含截图的 PDF 安装指南。面向使用 Obsidian 管理个人工作流的 Claude Code 用户。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 预配置 vault，克隆后在 Obsidian 打开即可使用
-- 四个技能：query / tasknotes / review / client
-- /setup-memory 命令生成 CLAUDE.md
-- 提供带截图的 PDF 设置指南
+- 预配置 Obsidian vault，含 CLAUDE.md 记忆设置（/setup-memory）
+- 4 个内置技能：query/tasknotes/review/client
+- 提供含截图的 PDF 安装指南
 
 ## 适用场景
 
-- 用 Claude Code 在 Obsidian 中管理项目、任务与客户
-- 建立晨晚间与每周例程的个人知识工作流
-- 作为 Claude Code × Obsidian 组合的入门模板
+- 在 Obsidian 中用 Claude Code 管理项目与任务
+- 记录与跟进客户往来
+- 建立早晚与每周回顾的日常例程
 
 ## 场景标签
 
-`工作流自动化` `知识库管理` · 领域:效率与自动化
+`知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L1: Claude Code + Obsidian Starter Kit
 > L11: 3. Run: `cd claude-code-obsidian-starter && claude`
+> L19: |Skill|Does|
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `9ca8cc11ae3f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `6f979db2ae4f` · [字段定义](../../DATASET.md)*

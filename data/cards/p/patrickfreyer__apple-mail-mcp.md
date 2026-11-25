@@ -2,9 +2,9 @@
 
 ⭐ 264 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/patrickfreyer/apple-mail-mcp) · 个人维护
 
-**让 AI 助手通过自然语言操作 Apple Mail 的 MCP 服务器**
+**让 AI 助手通过 MCP 读写、搜索、整理 Apple Mail**
 
-面向 macOS 的 MCP 服务器，通过 AppleScript/自动化权限连接本地 Mail.app，向 Claude 等兼容 MCP 的客户端暴露 22 个工具：收件箱概览与统一搜索、邮箱整理（移动/标记/删除，带批量限额与 dry-run）、撰写与回复（纯文本/HTML、草稿管理）、附件保存、Smart Inbox（待回复/需回复分析）与统计分析、导出。提供 `--read-only` 模式禁发邮件，并有针对提示注入攻击的文件写入/附件路径拒绝清单与可选目录白名单。附赠 Claude Code 的邮件管理技能插件。
+基于 FastMCP 的 macOS MCP server，通过 AppleScript 操作 Mail.app，提供 28 个工具：邮件读取与跨账户搜索、邮箱整理（移动/标记/删除并带 dry-run）、撰写/回复/转发/草稿、附件处理，以及待回复识别、高频发件人分析、统计导出。支持 --read-only 只读模式、批量操作默认上限、写入与附件路径的拒绝清单与可选白名单；本机运行、不自行发起网络请求。安装方式覆盖 Claude Code 插件、uvx/pip、MCPB 与源码。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 22 个邮件工具：搜索、整理、撰写、附件、分析、导出
-- --read-only 模式阻止发送邮件
-- 针对提示注入的写入/附件路径拒绝清单与目录白名单
-- 批量操作默认保守限额（移动 1 封、标记 10 封、删除 5 封）
+- 28 个 MCP 工具覆盖读取、搜索、整理、撰写、附件、统计与导出
+- 只读模式与批量操作默认上限（如 move_email 默认 1 封）
+- 写入/附件路径拒绝清单（shell 启动文件、SSH/GPG/AWS 凭据等）与可选目录白名单
+- 附带 Claude Code 邮件管理技能（Inbox Zero、日常分诊等工作流）
 
 ## 适用场景
 
-- 让 Claude 等客户端直接搜索、整理和回复我的邮件
-- 用 AI 做收件箱分诊与统计分析
-- 生成富 HTML 邮件草稿并在 Mail 中编辑
+- 用自然语言让 Claude 搜索、总结和回复 Apple Mail 邮件
+- 批量整理收件箱：按条件移动、归档、标记邮件
+- 统计近 30 天邮件量与高频发件人并导出为 TXT/HTML
+- 只读接入让助手分析邮件而不允许发送
 
 ## 场景标签
 
- · 领域:邮件自动化/工具
+ · 领域:效率工具/邮件自动化
 
 ## 证据(README 行号)
 
-> L17: Two commands — gets you the MCP server, `/email-management` slash command, and the Email Management Expert skill:
-> L227: - Claude Desktop or any MCP-compatible client
+> L1: # Apple Mail MCP Server
+> L78: ## Tools (28)
+> L231: - Claude Desktop or any MCP-compatible client
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `294d07b6d98d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e0d4ab2dafe3` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # InferMatrixLab/vllm-rlt
 
-⭐ 231 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/InferMatrixLab/vllm-rlt) · 组织维护
+⭐ 231 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/InferMatrixLab/vllm-rlt) · 组织维护 · 中文 README
 
-**循环 Transformer 语言模型的独立推理与服务引擎**
+**面向循环语言模型的循环级调度推理与服务引擎**
 
-面向循环/递归型语言模型（Ouro、Nanbeige4.2、Huginn 等 checkpoint）的推理与服务引擎，采用 vLLM 式引擎组织并实现论文中的 Continuous Depth Batching 思想，可独立运行、不要求安装 vLLM。核心机制：循环级连续批处理（不同循环深度的请求共享批次）、深度感知分页 KV 缓存、CUDA Graphs、自投机解码、单机 prefill/decode 分离。提供 Python API、CLI 与流式 OpenAI 兼容接口。v0.1.0 为实验版本，异步执行与自投机存在已知未解决问题；性能数据为诊断性测量，非生产资格认证。
+一个独立的循环语言模型推理与服务引擎：调度器按单个循环级别分配请求，不同深度的请求可共享批次而非等待整批完成。采用 Stage/Loop 架构，提供波前分块预填充（WCPB）、实验性 token 级自推测解码、深度感知分页 KV 缓存，以及 Python API、CLI 和 OpenAI 兼容的 completions 流式端点。当前为研究/评估里程碑，默认同步执行，高级模式为可选且受模型约束。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 循环级连续批处理：不同循环深度请求可共享批次并中途进出
-- 深度感知分页 KV 缓存、可选前缀缓存与优先级调度
-- CUDA Graphs、异步自投机与单机 prefill/decode 分离（NIXL KV 传输）
-- 提供 Python API、CLI 与流式 OpenAI 兼容 completions 端点
+- 循环级连续批处理：不同深度请求共享批次
+- WCPB 分块预填充与实验性 token 级解码流水线
+- 深度感知分页 KV 缓存（LAST_EXITED/SHARED 布局）
+- Python API、CLI 与 OpenAI 兼容 completions 流式端点
 
 ## 适用场景
 
-- 部署 Ouro/Nanbeige/Huginn 等循环语言模型做推理服务
-- 用 OpenAI 兼容接口对接现有客户端做流式生成
-- 研究循环模型的自适应早退与投机解码的推理行为
+- 运行 Ouro、Huginn 等循环语言模型的推理
+- 在共享批次中混排不同循环深度的请求
+- 研究深度自适应推理与提前退出策略
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L26: **vllm-rlt** is a standalone inference and serving engine for recurrent language
-> L39: The project follows a vLLM-style engine organization and implements runtime
+> L27: **vllm-rlt** is a standalone inference and serving engine for **recurrent
+> L30: to finish. Its engine organization is inspired by vLLM, but it runs independently
+> L71: - **Offline and online use:** Python API, CLI, and a streaming
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `9daac76a347a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `dd52855385dc` · [字段定义](../../DATASET.md)*

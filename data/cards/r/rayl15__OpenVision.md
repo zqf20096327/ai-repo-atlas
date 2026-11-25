@@ -2,9 +2,9 @@
 
 ⭐ 213 · Swift · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rayl15/OpenVision) · 个人维护
 
-**把 Meta Ray-Ban 智能眼镜接入多种 AI 后端的 iOS 应用**
+**开源 iOS 应用：把 Meta Ray-Ban 眼镜接入云端或本地 AI 助手**
 
-开源 iOS 应用（MIT，Swift 5，iOS 18+），将 Meta Ray-Ban 智能眼镜连接到七种 AI 后端：本地 MLX 模型（Qwen 2.5、Gemma、SmolVLM2 等）、Apple Intelligence、OpenClaw、Gemini Live、OpenAI、Grok、Hermes，可云端或完全端侧运行。功能包括实时语音+视觉直播模式、端侧人脸识别（Apple Vision）、端侧离线语音（Kokoro-82M）、代理式网络搜索（Tavily/DuckDuckGo）、语音计时器/提醒/日历等生产力工具。需 macOS Xcode 15+、实体 iOS 18+ 设备与 Meta 开发者账号，从源码克隆配置后用 xcodegen/Xcode 构建。
+连接 Meta Ray-Ban 智能眼镜与 AI 助手的开源 iOS 应用，提供七个可选后端：本地 MLX 模型（Qwen/Gemma/SmolVLM2）、Apple Intelligence、OpenAI、Grok、Gemini Live、OpenClaw 与自建 Hermes 服务器。支持实时语音+视频问答、离线语音合成（Kokoro）、本机人脸识别、会议转写与摘要、网页搜索和语音控制计时器/提醒等工具。蓝牙功能需实体设备与 macOS Xcode 构建。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 七种 AI 后端可选，含完全端侧的 MLX 本地模型路线（离线、零 API 费用）
-- SmolVLM2 支持端侧视觉：拍照问答与完全离线的实时视频模式
-- 端侧人脸识别与端侧 Kokoro-82M 离线语音
-- Wake word（Ok Vision）语音控制、多轮对话记忆与语音工具调用
+- 七个 AI 后端可选，本地 MLX 路径零 API 成本、可离线运行
+- SmolVLM2 支持完全本机的实时视频问答与拍照识别
+- Apple Vision 本机人脸识别，照片不离开手机
+- 会议记录本机转写（含印地语/Hinglish），由所选后端生成摘要
 
 ## 适用场景
 
-- 戴 Meta Ray-Ban 眼镜问'我在看什么'并获得实时回答或翻译
-- 离线/隐私场景下用端侧模型做视觉问答与人脸识别
-- 通过语音免手操作计时器、提醒、日历、笔记等手机功能
-- 在 OpenAI/Gemini/Grok/OpenClaw 等后端间切换使用
+- 戴 Ray-Ban 眼镜时语音问询所见内容并翻译菜单/路牌
+- 无网络环境下用本地模型做语音助手和拍照识物
+- 开会时用手机本机转写并生成带行动项的会议纪要
+- 通过语音操作提醒、日历、番茄钟等效率工具
 
 ## 场景标签
 
-`AI 助手` `语音 Agent` `人脸识别` · 领域:对话与助手
+`语音 Agent` `AI 助手` `人脸识别` `语音识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L5:  The open-source iOS app connecting Meta Ray-Ban smart glasses to AI assistants — cloud or fully on-device.
-> L42: ### Seven AI Backends — Cloud or Fully On-Device
-> L43: - **Local (MLX)**: A **choice of on-device models** via Apple MLX — Qwen 2.5 (0.5B/3B), Gemma 2 2B, Gemma 4 E2B, Sm
+> L44: - **Local (MLX)**: A **choice of on-device models** via Apple MLX — Qwen 2.5 (0.5B/3B), Gemma 2 2B, Gemma 4 E2B, Sm
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `a9eb11220136` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `70d1fcc1f452` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 201 · PHP · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-php) · 组织维护
 
-**官方 PHP SDK：在 PHP 应用中访问 Claude API**
+**PHP 开发者接入 Claude API 的官方 SDK**
 
-Anthropic 官方维护的 PHP 客户端库，通过 Composer 安装，需自备 PSR-18 HTTP 客户端（如 Guzzle）。提供 SSE 流式响应与 MessageAccumulator 折叠、PHP 类定义结构化输出 Schema 并解析为类型化对象、列表自动分页迭代器、默认 2 次指数退避重试、文件上传参数、未文档化参数/端点访问与中间件管道（拦截日志/加头/缓存等）。内建 OpenTelemetry 追踪（可配置内容模式与传播开关）。要求 PHP 8.1+，主版本 0，API 可能变动。
+由 Anthropic 维护的 PHP SDK，为 PHP 应用提供访问 Claude API 的能力。通过 Composer 安装，要求 PHP 8.1.0+，并依赖 PSR-18 HTTP 客户端（未安装时可添加 Guzzle）。文档位于 platform.claude.com，采用 Apache 2.0 许可，早期版本及此前合并的第三方贡献保留 MIT 许可。
 
 ## 筛选速览
 
@@ -16,30 +16,28 @@ Anthropic 官方维护的 PHP 客户端库，通过 Composer 安装，需自备 
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- SSE 流式响应与 MessageAccumulator 流中折叠
-- PHP 类定义结构化输出 Schema，响应解析为类型化对象
-- 列表方法自动分页迭代器与默认重试（指数退避）
-- 中间件管道与内建 OpenTelemetry span 上报
+- PHP 应用访问 Claude API 的官方 SDK
+- Composer 安装（anthropic-ai/sdk ^1.13.0）
+- 依赖 PSR-18 HTTP 客户端，可选搭配 Guzzle
+- Apache 2.0 许可，早期版本保留 MIT 许可
 
 ## 适用场景
 
-- 在 PHP 应用中调用 Claude Messages API
-- 以类型化 PHP 类约束模型结构化输出
-- 对 API 调用链路做日志拦截与追踪埋点
+- 在 PHP 项目中调用 Claude 模型 API
+- 为 PHP 后端应用接入 Anthropic 模型服务
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+ · 领域:LLM 基础设施/SDK
 
 ## 证据(README 行号)
 
-> L5: The Claude SDK for PHP provides access to the Claude API from PHP applications.
-> L14: composer require "anthropic-ai/sdk:^0.61.0"
-> L237: PHP 8.1.0+
+> L5: The Anthropic SDK for PHP provides access to the Claude API from PHP applications.
+> L14: composer require "anthropic-ai/sdk:^1.13.0"
 
 ## 星数曲线
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `19342d11a91f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7dfc76ed2cbf` · [字段定义](../../DATASET.md)*

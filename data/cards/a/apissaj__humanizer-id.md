@@ -2,9 +2,9 @@
 
 ⭐ 251 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/apissaj/humanizer-id) · 个人维护
 
-**供 AI 代理使用的印尼语学术写作编辑规则库与审计 CLI**
+**面向 AI 代理的印尼语学术文本编辑规则集与审计 CLI**
 
-面向 AI agent 的印尼语学术/专业文稿编辑指南：以 SKILL.md 主文档加五个按需加载的子规则包组织 599 条规范性规则，清除机翻腔、堆叠名词化、轻动词与 LLM 特有输出模式；规则均溯源至官方文档并标注页码。另附零依赖（纯标准库）的确定性审计 CLI，输出带优先级编号的发现清单；声明科学诚信约束（零数据编造、非 AI 检测器规避工具）。提供 pip 包、npx 技能安装器与网页端自定义指令三种接入方式，并内置 16 所印尼高校的论文格式预设。
+以 SKILL.md 形式提供给 AI 代理读取的印尼语学术/专业文本编辑规则书：主规则加载后按需加载 14 个子规则集，共 790 条带出处的规范性条目，用于清理翻译腔、名词化堆叠、轻动词、AI 常见文本模式等。规则源自印尼官方语言教材与词典并标注页码，含 Delivery Gate 报告机制；另附无外部依赖的确定性审计 CLI 与 JSON 数据集。声明不用于绕过 AI 检测。安装方式包括 PyPI 包、skills.sh、代理安装器与手动复制。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 599 条规则全部溯源官方文档并标注页码
-- SKILL.md 主文档 + 5 个按需加载子规则包的技能架构
-- 纯 Python 标准库的确定性审计 CLI（HIGH/MEDIUM/LOW 优先级）
-- 16 所印尼高校 + 2 份期刊的格式预设与 137 条跨领域术语对照
+- 790 条规则均标注官方文档出处与页码，按需分层加载节省上下文
+- 确定性审计 CLI（纯 Python 标准库），输出带 HIGH/MEDIUM/LOW 优先级的编号发现清单
+- 支持 During/After 两种工作模式与 Patch-Only 省 token 输出模式
+- 内置 18 个高校论文格式 preset 与开放 JSON 数据集
 
 ## 适用场景
 
-- 让 Claude Code 等 coding agent 按规范编辑我的印尼语论文
-- 投稿 SINTA/Scopus 期刊前审计文稿中的 AI 腔与不合规范表达
-- 按所在高校的论文格式预设（如 UI/ITB/UGM）整理稿件
-- 无 coding agent 时将 PROMPT.md 用于 ChatGPT/Claude 网页端
+- 让我写印尼语论文初稿后按学校 preset 清理 AI 痕迹
+- 对已有印尼语文本做编号审计并选择性执行修改
+- 把规则集安装进 Claude Code 等 AI 编码代理持续使用
 
 ## 场景标签
 
-`AI 写作` `提示工程` · 领域:Agent 开发
+`提示工程` `AI 写作` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L5: **Panduan penyuntingan bahasa Indonesia akademik & profesional untuk agen AI**
 > L17: **Humanizer ID** adalah buku aturan yang dibaca agen AI setiap sesi penyuntingan naskah Indonesia. Ia membersihkan 
-> L48: |**`SKILL.md`** (induk)|Aturan integritas ilmiah, pengecualian dokumen, 4 mode eksekusi, eliminasi penyakit AI leks
-> L56: Arsip provenance sesi bedah tersimpan di references/log-integrasi-kaidah.md (bukan aturan operasional). Setiap entr
+> L42: ## Arsitektur Skill
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `0c942d12afc5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ec336a872679` · [字段定义](../../DATASET.md)*

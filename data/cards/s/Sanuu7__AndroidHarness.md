@@ -1,10 +1,10 @@
 # Sanuu7/AndroidHarness
 
-⭐ 240 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Sanuu7/AndroidHarness) · [官网](https://androidharness.pages.dev/) · 个人维护 · 中文 README
+⭐ 240 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Sanuu7/AndroidHarness) · [官网](https://androidharness.pages.dev/) · 个人维护
 
-**安卓手机上的 AI 编程 Agent 原生应用，免 Root 免 PC**
+**在 Android 手机上运行的 AI 编码 agent 与聊天助手应用**
 
-用 Kotlin 与 Jetpack Compose 编写的 Android 原生应用，在手机上直接操作真实代码项目：读写文件、通过 Shizuku/Termux/root/玩具箱运行 bash、git、python、node 命令、推送到 GitHub、控制浏览器，过程以对话流呈现并带工具调用卡片。另有独立 Chat 区处理问答与研究，使用只读网页/GitHub 工具并支持内联引用。内置免注册 keyless 模型，也可用云 API key 或本地 GGUF 模型离线运行。要求 Android 8.0+，Android 11+ 需授予所有文件访问权限。通过 Google Play、GitHub Releases 或源码构建安装。
+Kotlin + Jetpack Compose 编写的原生 Android 应用，分 Code（项目内编码 agent：文件读写、shell、git、测试、浏览器控制、subagent）与 Chat（日常问答与调研）两部分。模型来源包括内置免密 provider、本地 GGUF 离线模型与云端 API。shell 通过 Shizuku/Wireless ADB/root/Termux 工具链分层获取，敏感操作需审批，变更以 diff 呈现可撤销。支持 21 种界面语言，可从 Google Play/GitHub Releases 安装或源码构建。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 手机上读写文件并运行 bash/git/python/node 的真实 Linux 工具链（Shizuku/直连 root/Termux/玩具箱四路）
-- 内置 keyless provider 免注册可用，本地 GGUF 模型支持完全离线
-- Chat 与 Code 共享一套可审阅记忆，Chat 可通过 Continue in Code 卡片交接项目工作
-- 前台服务、恢复卡片与持久消息队列保证长任务跨中断存活；Telegram 远程控制
+- 手机端编码 agent：文件编辑、shell、git、测试、浏览器与 subagent，工具调用以卡片展示
+- 分层 shell 访问：Shizuku、Wireless ADB、可选 root、Termux Linux 工具链与 toybox 回退
+- 内置免密 provider 与本地 GGUF 离线模型，云端 API key 可选
+- 插件/skill/MCP 支持，npm、GitHub、Claude marketplace 等来源安装
 
 ## 适用场景
 
-- 不带电脑时在安卓手机上完成代码项目的修改、测试与 Git 提交
-- 用 Chat 区做带来源引用的日常问答与调研
-- 通过 Telegram 远程继续对话、审批工具并回答 Agent 提问
+- 没有电脑时在手机上继续修改和提交代码项目
+- 离线场景用本地模型跑聊天与编码任务
+- 通过 SSH/FTP 在手机上管理远程工作区并推送 GitHub
 
 ## 场景标签
 
-`编码 Agent` `聊天机器人` · 领域:编码与开发
+`编码 Agent` `AI 助手` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L16: AndroidHarness is a native Android app, written in Kotlin with Jetpack Compose, that works on real code projects di
-> L14: **An AI coding agent and conversation partner that lives on your Android phone.**
+> L5: **An AI coding agent and chat assistant that runs on your Android phone.**
+> L21: AndroidHarness is a native Android app, written in Kotlin with Jetpack Compose, for working on real code projects f
+> L25: - **Code** is the agent. It works inside a project folder with files, shell, git, tests and browser tools.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `0f623aa88b43` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b4e707d90678` · [字段定义](../../DATASET.md)*

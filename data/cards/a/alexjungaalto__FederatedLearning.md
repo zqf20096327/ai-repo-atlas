@@ -2,9 +2,9 @@
 
 ⭐ 212 · Jupyter Notebook · 推送 2026-11-12 · [GitHub](https://github.com/alexjungaalto/FederatedLearning) · [官网](https://github.com/alexjungaalto/FederatedLearning) · 组织维护
 
-**阿尔托大学联邦学习硕士课程的开源教学资料库**
+**Aalto 大学联邦学习硕士课程的开源课件库**
 
-阿尔托大学硕士课程 CS-E4740《Federated Learning》的课程材料仓库：包含基于 Springer 教科书的讲义幻灯片、Jupyter Notebook 与 Python 演示、作业练习及真实数据集（含芬兰气象研究所数据），内容覆盖分布式优化建模、非 IID 数据、安全聚合与差分隐私等主题。芬兰高校学生可通过 Sisu 选课，其他学习者可作为开放教育内容自由跟随。仓库内不同部分采用不同许可（CC BY 4.0 / MIT / 学生作者保留版权）。
+Aalto 大学 CS-E4740《Federated Learning》硕士课程的资料工作台，内容按分布式优化问题建模、FL 算法设计、non-IID 数据、安全聚合等主题组织，配套 Springer 教材。仓库提供讲义幻灯片、Jupyter Notebook 与 Python 演示、作业习题、真实数据集及补充阅读（差分隐私、鲁棒性、个性化）。校外学习者可按开放教育内容自由跟学，通过邮件列表获取更新。各部分材料采用不同许可条款（CC BY 4.0 / MIT）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 讲义已出版为 Springer 教科书（2026，ISBN 978-981-95-1009-2）
-- 提供 Jupyter Notebook、Python 演示与作业练习
-- 附带真实数据集（芬兰气象研究所天气数据等）
-- 面向外部学习者的开放获取模式
+- 讲义幻灯片、Jupyter Notebook 与 Python 演示配套 Springer 教材
+- 提供真实数据集用于动手项目（数据来自芬兰气象研究所）
+- 开放教育内容，校外学习者可自由跟学
+- 课程材料按 CC BY 4.0 与 MIT 等不同条款分别授权
 
 ## 适用场景
 
-- 系统学习联邦学习理论与算法的公开课程材料
-- 获取联邦学习的 Notebook 演示与动手数据集
-- 作为讲义/作业模板用于自组织教学或自学
+- 自学联邦学习的分布式优化与算法设计
+- 用课程数据集完成 FL 动手项目
+- 查阅差分隐私、安全聚合等专题的补充阅读
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bb39270f485f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `75f0fee179d9` · [字段定义](../../DATASET.md)*

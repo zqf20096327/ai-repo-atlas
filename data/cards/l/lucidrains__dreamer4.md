@@ -2,9 +2,9 @@
 
 ⭐ 221 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lucidrains/dreamer4) · 个人维护
 
-**Dreamer 4 世界模型与视频 tokenizer 的 PyTorch 实现，供强化学习研究者使用**
+**面向研究者的 Dreamer 系列世界模型 PyTorch 实现**
 
-对 Danijar Hafner 等人 Dreamer 系列最新工作（Training Agents Inside of Scalable World Models）的开源实现：提供视频 tokenizer 与 dynamics 世界模型两类可训练组件，支持连续/离散动作条件训练，附带 CLI 训练命令、Python 加载 checkpoint 接口，以及 HalfCheetah-v4 连续控制、Toy Snake、Moving MNIST 三个示例，可通过 dreamer4 serve-world-model 在浏览器中交互查看世界模型。以 pip 包形式提供，面向模型式强化学习方向的研究者与开发者。
+Danijar Hafner Dreamer 系列工作最新迭代的 PyTorch 实现，提供 VideoTokenizer 与 DynamicsWorldModel 两个核心组件，可从视频数据训练视频分词器与动作条件化的动力学世界模型，并支持加载 checkpoint 生成。提供 pip 安装、CLI 训练命令（train-video-tokenizer / train-dynamics / serve-world-model）与浏览器交互界面，附 HalfCheetah 连续控制想象强化学习、Toy Snake、Moving MNIST 三个训练示例。面向研究者的 Discord 协作频道，README 以致谢贡献者与大量引用文献为主。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 提供 VideoTokenizer 与 DynamicsWorldModel 两个核心可训练组件
-- 支持连续/离散动作条件（condition_on_actions）的世界模型训练
-- CLI 训练命令与浏览器可视化 serve-world-model
-- 附带 HalfCheetah-v4、Toy Snake、Moving MNIST 训练示例脚本
+- 提供 VideoTokenizer 与 DynamicsWorldModel 两个核心组件及 checkpoint 加载
+- CLI 训练视频分词器与动作条件化动力学模型（连续/离散动作 .action.npy）
+- serve-world-model 可在浏览器中与训练好的世界模型交互
+- 附 HalfCheetah-v4 想象强化学习与 Moving MNIST 训练脚本
 
 ## 适用场景
 
-- 在自有视频数据上训练动作条件的世界模型
-- 复现 Dreamer 4 系列的 tokenizer 与 dynamics 训练流程
-- 在 HalfCheetah 连续控制任务上做基于想象力的 RL 实验
+- 从视频数据训练动作条件化的世界模型
+- 在想象空间中对连续控制任务（HalfCheetah）做强化学习
+- 复现并研究 Dreamer 系列世界模型方法
 
 ## 场景标签
 
-`强化学习` `模型训练` · 领域:训练与推理
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L5: Implementation of Danijar's latest iteration for his Dreamer line of work
-> L34: import torch
+> L35: from dreamer4 import VideoTokenizer, DynamicsWorldModel
+> L90: For those interested in continuous control from raw observation states, there now exists a working example of `Half
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7856bd03d9bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `31aa1f5248ba` · [字段定义](../../DATASET.md)*

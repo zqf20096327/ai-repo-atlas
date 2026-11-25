@@ -2,9 +2,9 @@
 
 ⭐ 266 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/runtypelabs/persona) · [官网](https://persona-chat.dev) · 组织维护
 
-**零框架依赖的网站 AI 聊天组件（TypeScript 小组件库）**
+**网页端可嵌入 AI 聊天组件库：零框架依赖、WebMCP 原生**
 
-用 TypeScript 编写、以原生 JS 渲染的可插拔 AI 聊天挂件，供开发者在任意网站或产品中嵌入 AI 助手界面。支持 SSE 流式响应、多模态内容、语音输入输出、工具调用可视化、审批门控、artifact 渲染、WebMCP 页面工具与插件系统。后端无关：可对接任意 SSE 能力的后端，仓库提供 Vercel Eve、Cloudflare Agents、OpenAI Agents、LangGraph.js、AI SDK 等适配器示例，也可用 clientToken 免后端接入托管 Runtype。提供浮动/停靠/全屏三种布局，npm 安装或 script 标签引入，开发环境要求 Node.js 24 与 pnpm。
+Persona 是一个 TypeScript 编写的 AI 聊天挂件，用 Vanilla JS 渲染、无框架依赖，可作为 drop-in UI 嵌入任意网站，也能叠在 React/Vue 等现有前端之上。功能覆盖 SSE 流式响应、clientToken 直连、WebMCP 页面工具、本地客户端工具、语音输入输出、多模态内容、工具调用可视化、审批门、artifact 渲染与插件系统。后端无关，任何 SSE 流式后端均可接入；提供 Floating/Docked/Fullscreen 三种布局，npm 包与 script 标签两种安装方式。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 流式聊天、多模态内容（图片/文档）、语音输入输出
-- 工具调用可视化、审批门控、artifact 渲染与 WebMCP 页面工具
-- 插件系统与主题化，支持 npm 引入或无构建的 script 标签安装
-- 后端无关：多种 SDK 适配器示例，或 clientToken 免后端接入
+- 零框架依赖的 Vanilla JS 聊天挂件，支持 script 标签免构建嵌入
+- 支持 SSE 流式、WebMCP/页面工具、审批门与工具调用可视化
+- 语音输入输出（Web Speech API 或 WebSocket 语音服务，含打断与 VAD）
+- 后端无关：SSE 协议适配器覆盖多个 agent SDK，Host Matrix 示例可无 API key 运行
 
 ## 适用场景
 
-- 在我的网站/产品里快速嵌入一个 AI 助手聊天窗口
-- 为已有 React/Vue 项目叠加一个 AI 前端界面
-- 构建支持工具调用与 artifact 展示的 copilot 面板
-- 添加带语音输入输出的对话式助手
+- 在现有网站里快速加一个可定制的 AI 助手对话入口
+- 为支持/文档/销售场景配置悬浮、停靠或全屏的 copilot
+- 接入自有 agent 后端并可视化工具调用与审批流程
+- 给页面添加语音对话与多模态文件上传能力
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
+> L7: A themeable, pluggable AI chat widget for websites: built in TypeScript with zero framework dependencies. It renders
 > L9: Persona gives you a drop-in UI for your AI assistant that works on basically any site or product on the web. It ship
-> L63: Persona is designed to be backend-agnostic. You can plug it into any streaming agent or model SDK using the Persona
-> L74: - **OpenAI Agents**: Official OpenAI Agents SDK integration.
+> L64: Persona is designed to be backend-agnostic. You can plug it into any streaming agent or model SDK using the Persona
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ac97f2ff79ba` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ea5a9023b8ea` · [字段定义](../../DATASET.md)*

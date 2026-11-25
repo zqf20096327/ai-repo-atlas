@@ -2,9 +2,9 @@
 
 ⭐ 216 · 推送 2026-10-30 · [GitHub](https://github.com/Xiaohao-Liu/Awesome-Multi-Token-Prediction) · 个人维护
 
-**多Token预测（MTP）方向的论文与资源策展清单**
+**面向研究者的多 Token 预测（MTP）论文与资源清单**
 
-收集 Multi-Token Prediction（MTP）及相关技术的论文、工具与资源，覆盖 LLM、语音语言模型等方向。按年份（2026/2025/更早）与主题（推测解码+MTP）组织成表格，条目含标题、机构、发表会议、论文链接与代码链接；会议信息仅在官方渠道确认后标注，未发表工作标记为 arXiv 预印本或技术报告。面向 LLM 训练与推理加速方向的研究者，接受社区 PR 贡献。
+一个关于多 Token 预测（MTP）的策展清单，收录 LLM、语音-语言模型等方向的相关论文、工具与资源，按年份分为 2026、2025 近期论文、早期奠基工作以及推测解码（Speculative Decoding）+MTP 专区，每条条目标注机构、发表载体、论文与代码链接。收录规则声明仅在会议官方程序或论文元数据确认时才标注 venue，未发表作品标注为 arXiv 预印本。通过 PR 与 issue 接受社区补充。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 按年份分节的论文表格（2026/2025/早期工作）
-- 条目含机构、会议、论文与代码链接
-- 单设 Speculative Decoding + MTP 主题章节
-- 贡献需遵循统一格式与链接规范
+- 按 2026/2025/早期工作/推测解码四个板块组织论文条目
+- 每条论文标注机构、venue、论文与代码链接
+- 声明 venue 信息仅在官方程序或元数据确认后才标注
 
 ## 适用场景
 
-- 查找 MTP 与推测解码方向的论文及代码实现
-- 跟踪各机构在多Token预测方向的发表情况
-- 了解 MTP 从早期工作到最新进展的技术脉络
+- 调研 MTP 与推测解码方向的研究进展
+- 为 LLM 推理加速研究查找相关论文与开源实现
+- 追踪语音-语言模型中的多 Token 预测应用
 
 ## 场景标签
 
@@ -38,7 +37,7 @@
 ## 证据(README 行号)
 
 > L3: > *A curated list of papers, tools, and resources on Multi-Token Prediction (MTP) and related techniques in Large La
-> L5: Multi-Token Prediction (MTP) is an emerging paradigm that enhances the efficiency and capability of language and mul
+> L9: ## 🔬 Recent Papers (2026)
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f3d82cba5f04` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c3934c8cd851` · [字段定义](../../DATASET.md)*

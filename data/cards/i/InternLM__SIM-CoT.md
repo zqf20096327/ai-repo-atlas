@@ -2,34 +2,34 @@
 
 ⭐ 219 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/InternLM/SIM-CoT) · [官网](https://arxiv.org/pdf/2509.20317) · 组织维护 · 中文 README
 
-**隐式思维链训练框架：用步级监督稳定潜在推理**
+**ICLR 2026 隐式思维链训练方法的官方实现**
 
-面向 LLM 隐式推理的训练框架：训练时附加轻量辅助解码器，将每个隐式潜在 token 对齐到对应推理步骤，施加步级监督，缓解隐式 token 数量扩大时的潜在不稳定（语义同质化、算子信息丢失、训练崩溃）；推理时移除辅助解码器，不增加推理开销，且每个潜在 token 可解码为可读推理步骤。基于 Coconut 与 CODI 代码库构建，提供 GPT-2 与 LLaMA（1B/3B/8B）的训练与评测流程，ICLR 2026 论文官方实现。
+论文 SIM-CoT 的官方代码仓库：在 Coconut、CODI 等隐式推理方法上增加步级监督——训练时用辅助解码器从每个隐变量恢复对应推理步，推理时移除解码器以保持推理紧凑，也可重新接入解码器检查隐变量。仓库包含 Coconut 与 CODI 两套训练/评估代码、预处理脚本与 YAML 配置，实验覆盖 GPT-2 与 LLaMA 系列在 GSM8k-Aug 及 OOD 数据集上的复现。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 辅助解码器实现隐式潜在 token 的步级监督
-- 推理时移除辅助解码器，不增加推理开销
-- 基于 Coconut 与 CODI 代码库构建，提供两套训练/评测流程
-- 支持 GPT-2 与 LLaMA（1B/3B/8B）
+- 训练时辅助解码器提供逐步推理监督，推理时移除
+- 提供 Coconut 与 CODI 两套实现及独立依赖集
+- 附 GSM8k-Aug 预处理脚本与训练/评估 YAML 配置
+- 论文中 GSM8k-Aug 上 Coconut+SIM-CoT 提升 8.2-9.0 pp
 
 ## 适用场景
 
-- 训练具有隐式推理能力的 LLM 并降低推理 token 开销
-- 研究隐式思维链中潜在空间语义结构
-- 复现或对比 Coconut/CODI 等隐式 CoT 方法
+- 复现论文中隐式推理基线与 SIM-CoT 对比实验
+- 在 GSM8k 类数学推理任务上训练隐式思维链模型
+- 研究隐变量推理中的训练不稳定问题
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L10: 🌈 **SIM-CoT (Supervised Implicit Chain-of-Thought)** is a training framework for implicit reasoning that makes late
-> L14: SIM-CoT addresses this by introducing **step-level supervision for implicit latents**. During training, we attach a
+> L17: SIM-CoT adds **step-level supervision** to implicit reasoning methods such as
+> L95: paths before launching; the repository contains training code and configurations,
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `2170efc6461a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `436cb4ebbfe0` · [字段定义](../../DATASET.md)*

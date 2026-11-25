@@ -2,9 +2,9 @@
 
 ⭐ 269 · Jupyter Notebook · MIT · 推送 2026-11-14 · [GitHub](https://github.com/imedslab/solt) · [官网](https://imedslab.github.io/solt/) · 组织维护
 
-**面向深度学习的数据增强库，支持图像、掩码与关键点**
+**深度学习数据增强库：流式变换图像/掩码/关键点/边界框**
 
-Python 数据增强库 SOLT：以流式（Stream）方式组合旋转、裁剪、翻转等变换，同时处理图像、分割掩码、标签与关键点（支持多对象一次变换），后端使用 OpenCV，提供 PyTorch 张量集成与序列化 API。面向计算机视觉/医学影像研究者的训练数据预处理，示例含脑部与膝关节 MRI 增强。pip 安装，README 含与 albumentations、torchvision、augmentor 的吞吐量基准。
+SOLT 是一个面向深度学习的流式数据增强库，统一的变换流可同时处理图像、分割掩码、距离场、关键点、边界框与标签，支持单次对多种数据项同步变换。后端基于 OpenCV，输出可直接转为 PyTorch 张量，提供序列化 API 与可扩展的变换组件。作者为奥卢大学医学院研究人员，README 给出与 albumentations、torchvision、augmentor 在同一基准下的吞吐数据，并附引用 BibTeX。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Python 数据增强库 SOLT：以流式（Stream）方式组合旋转、裁剪�
 
 ## 能力要点
 
-- 图像/掩码/标签/关键点在同一变换流中联合增强
-- OpenCV 后端与 PyTorch 张量集成
-- 变换序列的序列化 API
-- 提供与其他增强库的吞吐量基准数据
+- 一次变换同步处理图像/掩码/距离图/关键点/边界框/标签
+- 后端使用 OpenCV，输出与 PyTorch 集成
+- 提供 Stream 流式组合变换与序列化 API
+- README 附与 albumentations/torchvision/augmentor 的基准数据
 
 ## 适用场景
 
-- 训练分割模型前对影像与掩码做同步增强
-- 关键点检测任务中图像与关键点联合变换
-- 通过序列化 API 保存与复现增强配置
+- 为图像分类/分割/关键点检测任务生成训练增强数据
+- 医学影像（MRI）配合掩码做多类别增强
+- 在 PyTorch 训练管线中直接得到张量形式的增强结果
 
 ## 场景标签
 
- · 领域:计算机视觉/数据增强
+ · 领域:深度学习/数据预处理
 
 ## 证据(README 行号)
 
-> L9: A data augmentation library for Deep Learning that supports images, segmentation masks, labels, and keypoints.
-> L16: - Fast and PyTorch-integrated
+> L9: A data augmentation library for Deep Learning that supports images, segmentation masks, distance maps
+> L17: - Fast and PyTorch-integrated
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `95b1a9797e9b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `10f56c6e4457` · [字段定义](../../DATASET.md)*

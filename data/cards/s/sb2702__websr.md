@@ -2,9 +2,9 @@
 
 ⭐ 196 · Jupyter Notebook · MIT · 推送 2026-11-15 · [GitHub](https://github.com/sb2702/websr) · [官网](https://websr.dev) · 个人维护
 
-**浏览器内实时 AI 超分辨率 JS 库，用 WebGPU 放大视频/图像**
+**给 Web 开发者在浏览器里实时超分视频与图像的 JS 库**
 
-面向 Web 开发者的 JavaScript/SDK 库，通过手写 WebGPU compute shader 在浏览器中实时运行神经网络超分辨率，将视频帧/图像放大后绘制到 canvas。提供 3 种网络规模（Small/Medium/Large）与动画、实景、3D 三类预训练权重，支持 OffscreenCanvas worker 线程处理、运行时动态切换网络、手动渲染控制，并附带 TensorFlow 自定义训练管线与权重导出工具。README 自述项目尚在开发中，API 可能在版本间变化，不建议在生产环境使用。
+面向网页端的开源 JavaScript 库/SDK，基于 WebGPU compute shader 对视频帧与图像执行实时超分辨率放大，支持多档网络规模（XS 到 L）及 Real-ESRGAN x4v3 与由其蒸馏的 UNet。针对大图自动分块以适应显存预算，支持 f16 计算、运行时切换网络、OffscreenCanvas worker 线程处理；无 WebGPU 时可回退到同 API 的 WebGL2 后端。权重经 jsDelivr CDN 或 Hugging Face 镜像加载。README 声明项目处于开发早期，API 可能变动，不建议用于生产。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- WebGPU compute shader 实现的 CNN 实时视频超分辨率
-- 三种网络规模与动画/实景/3D 内容预训练权重
-- OffscreenCanvas worker 线程处理与运行时网络切换
-- 附带自定义训练管线（Jupyter notebooks）与权重导出工具
+- 基于 WebGPU compute shader 的实时视频/图像超分，含 WebGL2 回退后端
+- 多种网络规模（XS–L）与 Anime4K、Real-ESRGAN x4v3 权重，覆盖动画/真实/3D 内容
+- 自动分块适配 GPU 显存限制，支持 f16 计算与 OffscreenCanvas worker 处理
+- 内置 TFLite 内容检测（动画/真人内容分类）与自定义训练流程
 
 ## 适用场景
 
-- 在 Web 视频应用中实时提升低分辨率视频画质
-- WebRTC 场景下带宽受限时以低码率传输、本地放大补画质
-- 针对特定内容（如医疗影像、特定美术风格）训练定制超分模型
+- 在网页播放器中对视频做实时超分以改善低码率画质
+- 对用户上传的图片在浏览器本地放大而无需服务器
+- WebRTC 场景下在浏览器端提升视频清晰度
+- 为动漫/真人内容自动选择匹配的超分网络
 
 ## 场景标签
 
@@ -39,7 +40,6 @@
 
 > L3: A free and open-source Javascript library / SDK for running practical, real-time AI Upscaling of videos and images o
 > L14: - ✅ Real-time AI upscaling using WebGPU compute shaders
-> L114: WebSR uses hand-written WebGPU shaders to implement Convolutional Neural Networks (like this one from Anime4K).
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `00a4729efbdb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6037b9c82065` · [字段定义](../../DATASET.md)*

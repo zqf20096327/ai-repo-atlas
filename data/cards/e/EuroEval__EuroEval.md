@@ -2,9 +2,9 @@
 
 ⭐ 206 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EuroEval/EuroEval) · [官网](https://euroeval.com) · 个人维护
 
-**欧洲语言模型评测基准框架（前身为 ScandEval）**
+**欧洲语言模型评测基准框架与排行榜**
 
-面向欧洲语言的语言模型评测基准，前身为 ScandEval，维护者为 Alexandra 的 Dan Saattrup Smart。README 本身较简略：声明用途与更名历史，指向外部文档获取安装与使用说明；提供数据集生成脚本，可用 uv 运行 src/scripts/dataset_creation 下的脚本复现评测数据集；设有志愿者 GPU worker 社区评测机制，并接受 Google、OpenAI 等机构赞助的 API 额度用于模型评测；附有论文引用格式。
+欧洲语言模型基准评测框架（前身为 ScandEval）：对模型在多语言 NLP 任务数据集上进行评测，并维护公开排行榜。数据集由 src/scripts/dataset_creation 下的脚本生成，可用 uv 运行对应脚本复现。社区可贡献 bug 修复、新功能与新数据集，也可作为志愿者运行社区评测 GPU worker。框架有两篇配套论文可引用；评估部分模型依赖 Google/OpenAI/Azure 赞助的 API 额度。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 欧洲语言模型评测基准，前身为 ScandEval
-- 提供可复现的评测数据集生成脚本（uv run）
-- 社区志愿者 GPU worker 运行评测任务
-- 有配套论文（encoder vs decoder 多语言 NLU 分析）可引用
+- 欧洲语言模型评测基准与排行榜（原 ScandEval）
+- 评测数据集由脚本生成，可通过 uv 运行脚本复现
+- 社区贡献机制：新增数据集指南与志愿者 GPU 评测 worker
+- 提供 BibTeX 引用信息与配套论文
 
 ## 适用场景
 
-- 评测欧洲语言场景下的 LLM 与编码器模型表现
-- 通过脚本复现或新增评测数据集
-- 以志愿者 GPU worker 参与社区评测
+- 评估语言模型在欧洲多语言 NLP 任务上的表现
+- 复现评测数据集
+- 向基准贡献新数据集或参与社区评测 worker 运营
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L7: ### The robust European language model benchmark
-> L31: All datasets used in this project are generated using the scripts located in the
+> L323: - **Volunteer GPU workers**: See the volunteer worker guide
+> L25: ## Installation and usage
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `a7314090ce71` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6dc83b4704e8` · [字段定义](../../DATASET.md)*

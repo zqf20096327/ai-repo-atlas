@@ -2,9 +2,9 @@
 
 ⭐ 259 · HTML · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/SnowLeopard-Elysia/SnowLeopard-Vision) · [官网](https://snowleopard-elysia.github.io/SnowLeopard-Vision/) · 个人维护 · 中文 README
 
-**本地 AI 图片与视频增强工具：超分与补帧**
+**本地运行的图片视频超分补帧与音频处理工具**
 
-面向 Windows 用户（安装版/免安装版）的本地 AI 图像视频增强桌面工具，功能包括图片超分、视频超分、视频补帧及超分并补帧，支持队列任务、独立输出目录、字幕保留（含 MKV 样式字幕）与 NVIDIA GPU 占用显示。底层调用 FFmpeg、Real-ESRGAN、RIFE/rife-ncnn-vulkan、ncnn、Vulkan 等第三方能力。本仓库仅维护官网、说明与版本发布，不含源代码，功能免费使用，禁止未经许可收费销售或移除署名。
+本地 AI 图片、视频增强与音频工具，功能包括图片超分、视频超分、视频补帧、超分并补帧、音频格式转换和视频音频替换。V2.5 新增 Intel QSV 硬件编码，支持断点续跑、任务失败重试、固定帧率与转场保护补帧。Windows 平台提供安装版与免安装版，通过官网及夸克/迅雷/百度网盘和 GitHub Release 分发；仓库本身只维护官网与发布，不含应用源代码。应用调用 FFmpeg、Real-ESRGAN、RIFE/rife-ncnn-vulkan、ncnn、Vulkan 等第三方组件。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 图片超分、视频超分、视频补帧、超分并补帧四类增强功能
-- 队列任务管理，每个任务可独立指定输出目录
-- 字幕保留：兼容文本字幕转 MP4，MKV 输出可保留样式字幕与字体附件
-- 调用 Real-ESRGAN、RIFE/rife-ncnn-vulkan、ncnn、Vulkan 等第三方能力
+- 图片/视频超分与视频补帧（Real-ESRGAN、RIFE 4.x）
+- Intel QSV 硬件编码与断点续跑、失败重试
+- 音频格式转换与视频音频替换
+- 安装版与免安装版两种 Windows 分发形式
 
 ## 适用场景
 
-- 给老照片或低分辨率图片做超分辨率增强
-- 提升视频清晰度或补帧提高流畅度
-- 批量处理队列任务并分别指定保存位置
+- 批量给图片和视频做本地超分放大
+- 给低帧率视频补帧提升流畅度
+- 转换音频格式或替换视频音轨
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L10: SnowLeopard Vision 是一款本地 AI 图片与视频增强工具，支持图片超分、视频超分、视频补帧、超分并补帧。
-> L43: 应用调用或依赖 FFmpeg、Real-ESRGAN、RIFE / rife-ncnn-vulkan、ncnn 和 Vulkan 等第三方能力，相关组件的版权与许可证归各自作者和项目所有。
+> L10: SnowLeopard Vision 是一款本地 AI 图片、视频增强与音频工具，支持图片超分、视频超分、视频补帧、超分并补帧，以及音频格式转换和视频音频替换。
+> L42: 应用调用或依赖 FFmpeg、Real-ESRGAN、RIFE / rife-ncnn-vulkan、ncnn 和 Vulkan 等第三方能力，相关组件的版权与许可证归各自作者和项目所有。
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `be67b14387c4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `68ff1709a0b5` · [字段定义](../../DATASET.md)*

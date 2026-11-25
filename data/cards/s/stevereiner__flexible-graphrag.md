@@ -2,9 +2,9 @@
 
 ⭐ 204 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/stevereiner/flexible-graphrag) · [官网](https://stevereiner.github.io/flexible-graphrag/) · 个人维护
 
-**开源 AI 上下文平台：多数据源接入与 GraphRAG/RAG/混合检索/AI 问答**
+**开源 GraphRAG/RAG 平台：文档接入知识图谱并支持混合检索与 AI 问答**
 
-面向需要企业内容问答与知识图谱检索的开发者和企业：Python 后端（FastAPI）配 React/Vue/Angular 前端与 MCP 服务器。核心机制为可配置的摄取管线（Docling/LlamaParse/LiteParse 解析，LlamaIndex 默认、LangChain 可按阶段替换），支持 14 种数据源（10 种增量自动同步，含 Alfresco、Nuxeo、SharePoint 等）、15 种属性图库、4 种 RDF 三元组库、10 种向量库与多种 LLM 提供商；另可选 Langflow 可视化流与 CocoIndex 管线。限制：数据源读取仅 LlamaIndex，部分图库仅单一框架支持。
+Python 后端（FastAPI REST 服务）+ React/Vue/Angular 前端 + MCP 服务器的 AI 上下文平台：通过 Docling/LlamaParse/LiteParse 解析文档，自动构建知识图谱，支持 RDF 本体，向 15 个属性图数据库、4 个 RDF 库、10 个向量库和 OpenSearch/Elasticsearch 写入，提供全文+向量+图+RDF 混合检索与 AI chat。LlamaIndex 为默认框架，LangChain 可按阶段选用；另支持 Langflow 可视化流与 CocoIndex 管线。14 种数据源（含 Alfresco/Nuxeo/SharePoint/Box/S3 等），其中 10 种支持增量自动同步，带权限感知检索。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 15 种属性图库 + 4 种 RDF 三元组库 + 10 种向量库 + 3 种搜索引擎的混合检索
-- 14 种数据源、其中 10 种支持增量自动同步（Alfresco/Nuxeo/SharePoint/Box 等）
-- LlamaIndex 与 LangChain 双框架按管线阶段独立配置
-- 提供 REST API、MCP 服务器与 React/Vue/Angular 三套前端，及权限感知搜索
+- 3 条摄取管线（默认/CocoIndex/Langflow）共用同一数据源、目标库、UI 与 REST/MCP API
+- 15 属性图 + 4 RDF + 10 向量 + 3 搜索库，各管线阶段可独立配置框架
+- 14 种数据源，10 种支持增量自动同步（含 MS Graph delta 查询）
+- Tauri/Rust 桌面应用支持本地文件/文件夹摄取与自动同步
 
 ## 适用场景
 
-- 把企业内容仓库（Alfresco/Nuxeo/SharePoint）接入 GraphRAG 与 AI 问答
-- 构建基于本体和知识图谱的混合检索（向量+全文+图+SPARQL）应用
-- 需要数据源变更自动同步的知识库问答系统
+- 把企业文档库（SharePoint/Alfresco/Box 等）摄取为知识图谱并做问答
+- 按权限只从用户可读的文档中检索和回答
+- 需要同时写入多种向量/图/搜索数据库的一次性摄取
+- 本地文件夹自动同步构建个人知识库
 
 ## 场景标签
 
-`RAG` `文档问答` `知识图谱` · 领域:知识与检索
+`RAG` `知识图谱` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L29: **Flexible GraphRAG** is an open source AI context platform supporting a document processing pipeline (Docling, Lla
-> L63: - **Hybrid Search**: Configurable hybrid search combining vector search, full-text search, property-graph GraphRAG,
-> L70: - **LLM providers (KG extraction & chat)**: Ollama, OpenAI, Azure OpenAI, Google Gemini, Anthropic Claude, Google V
+> L30: **Flexible GraphRAG** is an open source AI context platform supporting a document processing pipeline (Docling, Lla
+> L34: **New 11/10/26 — v0.10.0 release:** a **Graph tab** in the React, Vue and Angular UIs showing the entities and rela
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `1530a5bbddbe` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b4d6d269afbf` · [字段定义](../../DATASET.md)*

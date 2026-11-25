@@ -2,9 +2,9 @@
 
 ⭐ 238 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/sammargolis/OpenScribe) · [官网](https://openscribe.org) · 个人维护
 
-**开源 AI 医疗病历助手：录音问诊并自动生成结构化病历**
+**给临床医生的录音转结构化病历开源工具**
 
-面向临床医生的开源 AI 病历记录工具：录制患者接诊音频，经 Whisper 转写后由 LLM（默认 Anthropic Claude）生成结构化病历草稿，支持 Default/SOAP/自定义 markdown 模板。默认混合 Web 模式为本地 Whisper 转写 + 云端 Claude 生成；另有完全本地桌面路径（Whisper + Ollama 本地模型）。数据本地优先存储（AES-GCM 加密 localStorage），无遥测。README 明确声明尚未满足 HIPAA 合规，需用户自行完成合规清单；所有 AI 病历为需人工审核的草稿。
+开源 AI 医疗记录工具，录制问诊音频后经 Whisper 转录、由 LLM 生成结构化临床笔记草稿，支持 Default/SOAP/自定义 Markdown 模板。默认为混合模式（本地 Whisper 转录 + Anthropic Claude 生成笔记），另有完全本地桌面路径（Whisper + Ollama）与云 API 回退路径。数据以 AES-GCM 加密存储在浏览器本地，无遥测。当前尚未达到 HIPAA 合规，AI 笔记均为需人工审核的草稿。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 录音→Whisper 转写→LLM 生成结构化病历（Default/SOAP/自定义模板）
-- 三种运行模式：混合 Web（默认）、完全本地桌面（Whisper+Ollama）、云端回退
-- 本地优先存储：AES-GCM 加密 localStorage，无遥测/云同步
-- 桌面端提供 macOS/Windows/Linux 安装包，含首运行设置向导
+- 三种运行模式：混合 Web（默认）、全本地桌面、云 API 回退
+- 本地 Whisper 转录支持多语言与界面内语言选择
+- 笔记模板支持 Default/SOAP/自定义 Markdown 结构
+- AES-GCM 加密本地存储，零遥测与云同步
 
 ## 适用场景
 
-- 医生接诊时录音并自动生成病历草稿
-- 在本地运行完整转写与生成流程以保护患者隐私
-- 按科室自定义病历模板结构
+- 门诊问诊后自动生成结构化病历草稿
+- 在网络受限环境用全本地路径（Whisper+Ollama）生成笔记
+- 按科室定制自定义笔记模板并填充转录内容
 
 ## 场景标签
 
-`语音识别` `AI 写作` · 领域:内容生成
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L21: OpenScribe is a free, MIT-licensed, open-source AI medical scribe that helps clinicians record patient encounters, 
+> L156: ### Mixed Web (default)
 > L318: - **Transcription (default web path)**: local Whisper server (`whisper.cpp` via `pywhispercpp`, model `tiny.en`)
-> L322: - **Note Core**: Structured clinical note generation and validation
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `102043fa5311` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fe13e1938ea8` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 221 · 推送 2026-11-07 · [GitHub](https://github.com/JackYFL/awesome-VLLMs) · 组织维护
 
-**视觉大语言模型（VLLM）应用方向的论文清单仓库**
+**视觉大语言模型（VLLM）应用论文清单，供研究者查阅**
 
-配合综述论文《Visual Large Language Models for Generalized and Specialized Applications》（arXiv:2501.02765）维护的论文聚合清单：从应用视角（视觉转文本、指代理解等）收录 VLM/MLLM 相关论文与综述，条目含标题、发表 venue、日期、代码与项目链接，按类别组织，附更新日志（News）。面向 VLLM 研究者，接受社区 PR 与 BibTeX 引用，无软件安装与运行内容。
+以应用导向组织的视觉大语言模型文献汇总仓库，配套同名综述论文（arXiv:2501.02765）。条目按 Vision-to-text、MLLM surveys、复杂推理、视频理解、自动驾驶、医疗等类别以表格形式列出论文名称、发表场地、日期及代码/项目链接，并附目录索引。仓库以 PR 接受社区贡献，按日期在 News 区追加新条目，自 2024 年 12 月起持续更新。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 按应用视角组织的 VLM/MLLM 论文与综述清单
-- 条目含 venue、日期、代码与项目链接
-- 由 2025 年 arXiv 综述论文（2501.02765）派生并持续更新
+- 按应用方向分类的 VLLM/MLLM 论文表格，含 Venue、日期与代码链接
+- 配套 arXiv 综述论文并提供 BibTeX 引用条目
+- News 区按日期记录每次新增条目
+- 接受社区 PR 贡献条目
 
 ## 适用场景
 
-- 查找视觉大语言模型各应用方向的论文
-- 追踪 VLM 综述与新兴类别（复杂推理等）的更新
-- 作为 VLLM 研究的文献参考入口
+- 为视觉语言模型方向的文献调研查找论文与代码入口
+- 跟踪 VLLM 复杂推理、视频理解等细分方向的最新论文
+- 撰写相关综述时作为参考条目来源
 
 ## 场景标签
 
-`科研工具` `精选清单` · 领域:学习与行业
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L9: In this repository, we provide a comprehensive summary of the current literature from an application-oriented perspe
-> L18:   journal={arXiv preprint arXiv:2501.02765},
+> L13: **If you think our paper is helpful for your research, you can cite through this bib tex entry!**
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5651e45809a4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d975c348e14c` · [字段定义](../../DATASET.md)*

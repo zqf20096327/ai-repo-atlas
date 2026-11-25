@@ -2,9 +2,9 @@
 
 ⭐ 213 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/DPIRD-DMA/OmniCloudMask) · 组织维护
 
-**卫星影像云与云影分割的 Python 库（深度学习）**
+**对遥感影像做云与云影分割的 Python 库**
 
-面向遥感影像的云与云影分割库：基于传感器无关的深度学习模型，对含红、绿、近红外波段、10-50 米分辨率（新版可至 5 米）的影像生成分割掩膜，已在 Sentinel-2、Landsat 8、PlanetScope 与 Maxar 影像上验证。提供 pip 安装，API 覆盖数组预测、load 函数预测与批量 chips 推理（如 predict_from_batch 支持 (N,3,512,512) 输入按 batch 处理），附多个卫星数据示例笔记本与 Colab 入口。MIT 许可。
+基于 PyTorch 深度学习的卫星影像云与云影分割库，输入只需含红、绿、NIR 波段、分辨率 10-50 m（新模型版本可至 5 m）的影像，输出分割掩膜。已在 Sentinel-2、Landsat 8、PlanetScope 和 Maxar 影像上验证。提供 predict_from_array、predict_from_batch、predict_from_load_func 等 Python API，可通过 pip/uv/conda/源码安装，附带多平台示例 Notebook 与 Colab 入口。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 传感器无关的深度学习云/云影分割，仅需红绿近红外三波段
-- 10-50 米分辨率影像适用（新版模型可至 5 米）
-- predict_from_array / predict_from_load_func / predict_from_batch 三种推理接口
-- Sentinel-2、Landsat 8、PlanetScope、Maxar 等多种卫星数据的示例笔记本
+- 仅需红、绿、NIR 三波段即可推理，传感器无关
+- 支持数组、批处理与直接加载 Sentinel-2 场景三种预测接口
+- 提供 Sentinel-2、PlanetScope、Maxar、HLS 等示例 Notebook
+- 提供 Colab 在线运行入口
 
 ## 适用场景
 
-- 对 Sentinel-2/Landsat 等卫星场景批量生成云与云影掩膜
-- 遥感分析流程中预处理去云
-- 对同尺寸影像 chips 数据集做批量云检测
+- 批量处理 Sentinel-2 场景生成云与云影掩膜
+- 对 PlanetScope、Maxar 等高分辨率影像做云检测
+- 在图像切片数据集上按批次推理分割结果
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L9: State-of-the-art cloud and cloud shadow segmentation for high to moderate resolution satellite imagery.
 > L11: Works with any imagery containing Red, Green, and NIR bands at 10-50 m resolution (and down to 5 m with recent mode
-> L71: Sensor agnostic Deep Learning with OmniCloudMask
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `55697b30792d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `996a1fb7e45e` · [字段定义](../../DATASET.md)*

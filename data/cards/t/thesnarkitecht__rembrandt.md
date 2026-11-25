@@ -2,9 +2,9 @@
 
 ⭐ 214 · C++ · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/thesnarkitecht/rembrandt) · 个人维护
 
-**免费开源 RAW 照片编辑器与图库，含端侧 AI 功能，可自托管**
+**免费跨平台照片编辑器：本地 AI 修图，免账号免订阅**
 
-面向摄影师的桌面端 RAW 显影与照片管理应用，支持 macOS/Windows/Linux，并可自托管在浏览器中使用。核心功能包括 1,000+ 相机 RAW 显影（GPU 处理）、非破坏性 XMP 编辑、HDR/全景/焦点堆栈合并、批处理与 Lightroom 目录及预设导入。AI 部分在设备本地运行：主体/深度/人物蒙版、降噪、超分辨率、生成式消除与扩展、CLIP 智能搜索、语音/文字指令调整。声明不做图层像素编辑，也不是 prompt 生成图像的工具。GPL-3.0 许可，免费无账号。
+面向 macOS、Windows 和 Linux 的照片编辑与图库管理应用，覆盖 RAW 显影、蒙版、HDR、合并、批量处理、图库与导入导出。AI 功能包括自然语言/语音编辑指令（设备端 36 MB 语言模型 Needle 3）、AI 蒙版、生成式移除与扩展、超分辨率、AI 降噪与 CLIP 智能搜索，均可完全关闭且不上传照片。支持自托管为浏览器可访问的服务器；编辑以 XMP 边车保存，原图不被修改。README 注明编辑引擎仍在变化，同一编辑跨版本可能呈现差异。
 
 ## 筛选速览
 
@@ -16,30 +16,31 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 1,000+ 相机 RAW 的 GPU 显影与非破坏性 XMP 编辑
-- 端侧 AI：主体/深度/人物蒙版、降噪、超分辨率、生成式消除/扩展
-- CLIP 本地智能搜索（155 MB 模型，照片不上传）
-- 支持导入 Lightroom 目录与 .xmp/.lrtemplate 预设
+- 自然语言与语音下达编辑指令，Needle 3 模型在设备端运行，AI 可完全关闭
+- AI 蒙版、生成式移除/扩展、超分辨率、AI 降噪均在设备端运行，不上传
+- RAW 支持 1,000+ 相机机型，GPU 显影，编辑存为 XMP 边车
+- 支持自托管服务，通过浏览器从任意设备编辑本机照片库
 
 ## 适用场景
 
-- 替代订阅制工具进行 RAW 显影与照片库管理
-- 在照片上使用 AI 蒙版、降噪、超分辨率等本地处理
-- 在自有电脑上自托管，通过浏览器远程编辑照片
+- 在本地用 RAW 工作流编辑和整理照片，无需账号订阅
+- 用自然语言或语音让编辑器自动调整影调与色彩
+- 在家庭服务器上自托管，用浏览器从多设备访问照片库
+- 从 Lightroom/Google Photos 等迁移照片与编辑记录
 
 ## 场景标签
 
-`图像视频处理` `语义搜索` · 领域:知识与检索
+`图像视频处理` `图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L145: |**What it is**|A RAW developer and photo library, in the same family as Lightroom Classic: develop, adjust, mask,
-> L146: |**What it isn't**|A layer-based pixel editor like Photoshop or GIMP (no layers, text or painting), or a generativ
-> L147: |**The AI**|Selects people, faces, subjects, objects and depth for masks, removes blemishes, denoises, refocuses, 
+> L5:  A free photo editor for macOS, Windows and Linux.
+> L80:  device; exact requests like “shadows +25” never need it, and with AI off the words still work.
+> L112:  turn AI off altogether: its tools disappear and no model is downloaded or run.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b19f3dd32d8d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `273a6ae7abd0` · [字段定义](../../DATASET.md)*

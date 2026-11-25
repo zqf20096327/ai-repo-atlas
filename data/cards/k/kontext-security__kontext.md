@@ -4,7 +4,7 @@
 
 **为 AI agent 提供本地策略拦截与授权审计的安全运行时**
 
-Kontext 在 AI agent（Claude Code、Claude Cowork、Codex）与工具调用之间插入本地策略层：观察模式下记录策略决策，强制模式在同步 pre-action hook 处拒绝匹配的危险动作，并把决策与结果写入授权账本，保留 agent、会话、策略与脱敏证据。通过 brew 安装、kontext setup 一键部署 hooks 与本地 daemon，无需包装命令即可继续正常使用 agent。自服务安装目前仅支持 macOS；策略评估出错或 daemon 不可用时不阻断调用。提供组织级策略分发、证据导出与审计留存，自述不提供内核级隔离。
+以 Go 编写的本地安全层：在 AI agent 与其调用的工具之间插入策略评估，在支持的前置钩子处对动作做观察或阻断决策，并将 agent、会话、动作、策略决定与结果写入本地授权账本。采用先观察后强制（observe/enforce）的分阶段上线模式，托管部署提供组织级策略分发、身份控制与脱敏记录导出。决策路径保持在本地，无法取回决定时不阻断工具调用。当前支持 Claude Code、Claude Cowork、Codex、Cursor、Antigravity，覆盖范围因 agent 而异。
 
 ## 筛选速览
 
@@ -12,24 +12,24 @@ Kontext 在 AI agent（Claude Code、Claude Cowork、Codex）与工具调用之�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 本地策略评估，observe/enforce 两阶段推进
-- pre-tool-use 同步 hook 拦截危险动作（命令、敏感文件、凭据访问等）
-- 授权账本记录 agent、会话、策略决策与脱敏证据
-- 支持 Claude Code、Claude Cowork、Codex，brew 安装无 wrapper
+- 在前置同步钩子处评估策略并可在动作执行前阻断
+- 授权账本记录 agent、会话、动作、策略决定与结果
+- observe/enforce 两模式分阶段上线
+- 不使用包装命令，安装后按原方式继续使用 agent
 
 ## 适用场景
 
-- 上线前观察 agent 工具调用与策略命中情况
-- 阻断 agent 执行破坏性命令或访问生产系统与凭据
-- 合规审计与事件调查时回溯决策证据
+- 在团队中限制 agent 执行破坏性命令或访问敏感文件
+- 调查 agent 安全事件时回溯每次动作的授权证据
+- 满足合规审计对生产系统操作留痕的要求
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Kontext 在 AI agent（Claude Code、Claude Cowork、Codex）与工具调用之�
 ## 证据(README 行号)
 
 > L20: **Kontext puts local policy between AI agents and the tools they call.** It
-> L21: observes supported actions, evaluates policy before consequential actions run,
+> L45: Kontext currently supports **Claude Code, Claude Cowork, Codex, Cursor, and
+> L181: Enforcement is intentionally limited to event surfaces where the agent waits
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2dab4e060d8c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `dadd172b76f2` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 250 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/DeepTrackAI/DeepTrack2) · [官网](https://deeptrackai.github.io/DeepTrack2/) · 组织维护
 
-**数字显微镜深度学习库：模拟成像并训练模型追踪/检测粒子**
+**面向显微成像的深度学习图像管线 Python 库**
 
-面向数字显微成像的模块化 Python 库，用流水线生成、处理和分析图像数据：模拟光学系统（像差、噪声、明场/荧光/全息/TEM 等模态）合成带标注的训练图像，用于训练 CNN、U-Net 等网络完成粒子追踪、细胞计数与检测；内置 LodeSTAR 单样本自监督检测与 MAGIK 图神经网络轨迹链接。基于 PyTorch，2.0 起不再支持 TensorFlow（需回退 1.7）。提供 pip 安装、40+ 教程 notebook 与 Colab 示例。
+DeepTrack2 是一个模块化 Python 库，用于生成、处理和分析面向机器学习与数字显微的图像数据管线。核心机制包括光学散射体与成像模拟、数据增强、CNN/U-Net 训练与粒子追踪检测（含 LodeSTAR 自监督检测、MAGIK 图神经网络追踪）。要求 Python 3.10 以上，通过 pip 安装并自动装依赖；2.0 版起不支持 TensorFlow，需 TensorFlow 须改用 1.7 版。附入门、进阶、开发者教程与文档站。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 流水线模拟显微镜成像（像差/噪声/多种成像模态）并生成训练数据
-- 粒子追踪、细胞计数、无监督目标检测（LodeSTAR）等示例
-- MAGIK 图神经网络实现细胞轨迹链接与运动特征分析
-- 提供 40+ 教程 notebook 与 Colab 在线运行
+- 光学成像模拟管线：散射体、光学系统、全息、像差、噪声、增强
+- 内置 LodeSTAR 自监督单发检测与 MAGIK 图神经网络粒子追踪
+- PyTorch 梯度拟合与可微优化管线
+- 覆盖 GUV、细菌、细胞核、TEM 等多类显微图像模拟教程
 
 ## 适用场景
 
-- 模拟显微图像生成合成训练数据，缓解实验标注数据不足
-- 训练 CNN/U-Net 做粒子追踪、细胞计数与检测
-- 无标注条件下用 LodeSTAR 做单样本目标检测
+- 在显微视频中用 CNN/U-Net 追踪单颗粒子与多粒子
+- 用模拟图像训练模型完成细胞计数与组织分割
+- 对光学器件做像差表征并联合优化相位掩膜
+- 为实验成像生成带标注的训练数据
 
 ## 场景标签
 
-`图像视频处理` `目标检测` `教程课程` · 领域:学习与行业
+`图像视频处理` `目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L27: DeepTrack2 is a modular Python library for generating, manipulating, and analyzing image data pipelines for machine
 > L64: - DTGS121 **Tracking a Point Particle with a CNN**
-> L151:  <a href="https://doi.org/10.1364/OPTICA.6.000506" alt="DeepTrack article">
+> L86:  Single-shot unsupervised object detection using LodeSTAR.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `14ad2cc136cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c34c6e127196` · [字段定义](../../DATASET.md)*

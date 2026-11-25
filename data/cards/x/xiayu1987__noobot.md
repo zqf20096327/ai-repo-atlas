@@ -2,9 +2,9 @@
 
 ⭐ 195 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/xiayu1987/noobot) · 个人维护 · 中文 README
 
-**自托管 AI agent 工作台：多模型路由、工具调用与 3D 角色动画**
+**自托管 AI agent 工作台：工具调用、多模型路由与 3D 角色动画生成**
 
-基于 Node.js、Vue 3 与 Electron 的开源 Web/桌面 AI agent 应用，可自托管部署。提供多用户隔离工作区、持久会话、文件/脚本执行/浏览器自动化等可扩展工具、OpenAI 兼容接口的多模型族路由、MCP 与连接器、多 agent 任务委派与语义工作流；另支持导入 3D 角色用自然语言生成与迭代动画（Three.js 渲染）。安装含 Windows/macOS 桌面包与 start.sh 一键部署，沙箱模式依赖 Docker 执行命令，libreoffice/ffmpeg 为可选系统依赖。
+基于 Node.js、Vue 3 与 Electron 的开源 Web/桌面 AI agent 应用，提供多用户隔离工作区、持久会话、可扩展工具（文件操作、脚本执行、浏览器自动化、LibreOffice、FFmpeg）、MCP 连接器、多 agent 编排与 OpenAI 兼容的多模型路由。特色功能是通过自然语言导入 3D 角色并生成、预览与迭代角色动画（Three.js 渲染，无需动画代码），动画以会话作品保存。提供 Windows 安装包、macOS 包与 Linux/macOS 服务器自托管脚本，执行隔离支持 Docker 沙箱或主机直跑两种模式。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- OpenAI 兼容多模型路由、工具调用与 MCP 连接器
-- 多 agent 编排：任务委派、语义工作流、规划/审查机制
-- 自然语言创建并迭代 3D 单/多角色动画，无需动画代码
-- start.sh 一键 PM2 + Caddy 部署，桌面端提供 Windows/macOS 安装包
+- 多 agent 编排：任务委派、语义工作流与工作流插件
+- OpenAI 兼容 provider 接口与模型族路由、工具调用、流式输出
+- 自然语言生成 3D 角色动画（Three.js 渲染，GLB 导入）
+- 命令行 noobot 支持会话恢复与 json/stream-json 输出
 
 ## 适用场景
 
-- 自托管一个多用户隔离的 AI agent 工作区
-- 在对话中编排多 agent 工作流并调用文件、浏览器等工具
-- 用自然语言驱动 3D 角色生成和修改动画
+- 自托管部署一个多用户 AI agent 工作台
+- 用一句话生成并迭代 3D 角色动画
+- 通过 MCP 与连接器让 agent 操作数据库、终端、邮件
 
 ## 场景标签
 
-`多智能体` · 领域:Agent 开发
+`模型网关` `多智能体` `浏览器自动化` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L18: Noobot is an open-source Web and desktop AI agent application built with Node.js, Vue 3, and Electron. It provides 
-> L5: **Cheap Money-Saving Self-hosted AI agent workspace for tool calling, multi-model routing, MCP, and multi-agent work
-> L59: - **Model interoperability:** OpenAI-compatible provider interfaces, provider/model-family routing, tool calling, s
+> L62: - **AI character animation:** import 3D characters and use natural language to create, preview, and refine solo or 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `50826b55e0eb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e46c774ff6bd` · [字段定义](../../DATASET.md)*

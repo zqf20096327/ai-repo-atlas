@@ -2,9 +2,9 @@
 
 ⭐ 199 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/illegalstudio/lazyagent) · [官网](https://lazyagent.dev/) · 组织维护
 
-**单一终端监控 9 种编码 agent 的 TUI/桌面应用/HTTP API 工具**
+**从单一终端监控多个编码 agent 会话的 TUI/桌面应用**
 
-Go 编写的编码 agent 监控工具：以终端 UI、macOS/Linux 桌面应用和 HTTP API 三种界面观察 Claude Code、Cursor、Codex、Grok CLI、Kimi 等 9 种 agent 的会话状态，不替换用户工作流仅旁观。附会话维护命令：prune 清理旧聊天文件、compact 压缩会话文件（截断工具输出/图片后仍可续跑）、search 本地索引搜索、limits 显示各家费率/账单用量。支持出站 webhook 在会话状态变化时推送签名 JSON。另有付费 iOS 客户端，核心与 API 开源（MIT）。
+以 TUI、macOS/Linux 桌面应用和 HTTP API 三种形式提供，集中查看 Claude Code、Cursor、Codex、Grok CLI 等九种编码 agent 的会话状态，不接管工作流、无需服务器与账号。附带会话维护命令：prune 清理过期会话文件、compact 压缩会话中的工具输出与图片、search 增量索引检索转录、limits 查看 Claude Code/Codex/Grok/Kimi/Cursor 的速率与用量摘要，并支持会话状态变化时的签名 webhook 推送。iOS 客户端为付费 App Store 应用，核心与 API 开源（MIT）。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ Go 编写的编码 agent 监控工具：以终端 UI、macOS/Linux 桌面应用�
 
 ## 能力要点
 
-- TUI + macOS/Linux 桌面应用（DEB/RPM/Arch/AppImage）+ HTTP API 三种界面
-- 监控 9 种编码 agent（Claude Code、Cursor、Codex、Grok CLI、Kimi、pi 等）
-- prune/compact/search/limits 会话维护与费率用量命令，compact 后会话仍可续跑
-- 会话状态变化的签名 webhook 推送（Slack/CI 端点）
+- 统一监控 9 种编码 agent 的本地与 Cursor 云端会话
+- prune/compact/search/limits 等会话清理、检索与用量命令
+- 会话状态转换时发送签名 webhook 到 Slack/CI 等端点
+- TUI、桌面应用、HTTP API 三种接口，MIT 开源
 
 ## 适用场景
 
-- 同时运行多个编码 agent 时在一个面板里查看全部会话
-- 清理和压缩长期积累的 agent 会话文件、搜索历史记录
-- 追踪 Claude Code/Codex 等的 rate-limit 与账单用量
-- 会话空闲或等待输入时通过 webhook 通知 Slack 或 CI
+- 在多个项目目录下并行运行不同编码 agent 时集中查看会话状态
+- 定期清理和压缩历史 agent 会话文件以释放磁盘空间
+- 查询 Claude Code、Codex 等工具的速率限制与用量节奏
+- 基于 HTTP API 自建监控面板或客户端
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+ · 领域:开发者工具/agent 监控
 
 ## 证据(README 行号)
 
+> L14:  9 agents supported &middot; TUI + desktop app + HTTP API &middot; No server, no lock-in &middot; MIT
 > L16:  A terminal UI, a macOS/Linux desktop app, and an HTTP API for monitoring all your coding agents from a single plac
 > L17:  Watch sessions from Claude Code, Cursor, Codex, Grok CLI, Kilo, Kimi Code CLI, Amp, pi, and OpenCode — lazyagent d
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `41176587f3b8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1c030b19581a` · [字段定义](../../DATASET.md)*

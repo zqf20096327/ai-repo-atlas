@@ -2,9 +2,9 @@
 
 ⭐ 250 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Zijian-Ni/awesome-ai-agents-2026) · 个人维护 · 中文 README
 
-**2026 年 AI Agent 与模型生态策展清单（awesome list）**
+**面向构建 AI Agent 开发者的 2026 年资源策展清单**
 
-面向 AI Agent 从业者与选型者的策展清单：按 30 个类别收录模型、agent 框架、协议（MCP/A2A）、编码 agent、安全、评测、中文生态等条目，含基础模型 245+、框架 55+、编码 agent 55+ 等。条目带成熟度状态标签（New/Archived/Stale/Unverified/Experimental 等），并提供场景指南（58 条）、技术栈配方（8 条）与 Anti-Picks（17 条）。清单本身不含可运行代码，目录条目为收录对象的信息。
+按类别组织 AI 模型、Agent 框架、协议、工具与学习资源的策展清单，覆盖 26 个类别（基础模型、多模态、MCP/A2A 协议、框架、编码 Agent、安全、RAG、中文生态等），累计收录 800+ 条目。为每个条目提供状态标签体系（New/Stale/Archived/Unverified/Hot/China-first 等），并附场景指南、技术栈配方、反选清单与对比表，帮助读者按场景选型。条目含发布时间、定价与 API 可用性等事实信息。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 30 个类别组织条目，含基础模型、协议、框架、安全、评测与中文生态
-- 条目带成熟度状态标签（New/Archived/Stale/Unverified/Experimental 等）
-- 附场景指南 58 条、Stack Recipes 8 条、Anti-Picks 17 条
+- 26 个类别组织的 Agent 生态条目（含 265+ 基础模型、60+ 框架）
+- 条目状态标签体系：New/Stale/Hot/Unverified/China-first 等 11 种
+- 场景指南（58 个场景映射）、Stack Recipes 与 Anti-Picks 反选清单
+- 含中文 AI 生态专节，支持中/日双语
 
 ## 适用场景
 
-- 按类别查找 2026 年的 agent 框架、工具与模型信息
-- 通过场景指南与对比表选择工具组合
-- 了解中文生态与值得关注的新增项目
+- 按场景查找合适的 Agent 框架或工具
+- 了解 2026 年 Agent 协议与生态项目的活跃状态
+- 评估某项目是否仍在维护或已被归档
 
 ## 场景标签
 
@@ -37,7 +38,8 @@
 ## 证据(README 行号)
 
 > L14: **A curated list of AI models, agent frameworks, tools, protocols, and resources for 2026 — the year agents went ma
-> L52: |Category|Description|Count|
+> L54: |🧠 Foundation Models|Latest LLMs from OpenAI, Anthropic, Google, Meta, and 22+ providers|265+|
+> L78: |🇨🇳 Chinese AI Ecosystem|Major projects from China-based teams|25+|
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f0a8457e901b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c7c76b1e568c` · [字段定义](../../DATASET.md)*

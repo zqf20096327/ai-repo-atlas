@@ -2,9 +2,9 @@
 
 ⭐ 302 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/T-Crypt/berth) · [官网](https://t-crypt.github.io/berth/) · 个人维护
 
-**单卡 GPU 租约调度器：让本地推理引擎排队轮流用卡、避免 OOM 互撞**
+**单机 GPU 租约管理器：让多个 GPU 程序排队轮流用显存**
 
-Go 单二进制工具，在多类 GPU 程序之间做租约仲裁：聊天模型、ComfyUI、语音引擎、游戏、创意软件等通过 berth run 或网关申请占卡，berthd 按优先级排队，等持有者完成当前任务后卸载（可先移入 RAM），确认显存释放后再授予下一个。支持 Docker/Podman 内引擎、游戏自动让卡、Hugging Face/CivitAI 模型拉取与校验、Prometheus 指标与 web UI。自述 alpha（v0.3.4），Linux+NVIDIA 支持较完整，AMD 与 Windows 为实验性。
+用 Go 编写的本地 GPU 资源管理器（守护进程 berthd），通过租约机制协调聊天模型、图像管线、语音引擎、游戏等进程对 GPU 显存的使用：按优先级排队、等持有者完成当前任务后卸载、等驱动确认显存释放再授予下一个，避免多进程同时加载导致 OOM。提供 OpenAI 兼容网关按需启动引擎、RAM 驻留与 cuda-checkpoint 快速切换、按卡预订时段、模型下载校验、遥测与 web UI。当前为 alpha（v0.6.1），Linux 为主、Windows 实验性支持。
 
 ## 筛选速览
 
@@ -13,33 +13,34 @@ Go 单二进制工具，在多类 GPU 程序之间做租约仲裁：聊天模型
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 按 hold/foreground/interactive/batch 优先级排队，等待者得到排队原因而非 OOM
-- ComfyUI/vLLM/SGLang 支持移入 RAM 的 park 协议，加快切换
-- berth gateway 提供单一 OpenAI 兼容端口并代理 ComfyUI 工作流
-- 识别未持租约的 VRAM 占用进程（stowaway）并报告 PID 与内存
+- 租约+四级优先级（hold/foreground/interactive/batch）的 GPU 排队与交接机制
+- OpenAI 兼容网关：一个端口按需启动/卸载引擎并流式返回
+- RAM 驻留与 cuda-checkpoint 加速引擎切换，支持 Docker/Podman 容器引擎
+- 自动发现 llama.cpp/Ollama/vLLM/ComfyUI 等引擎，报告无租约占用显存的进程
 
 ## 适用场景
 
-- 单张 GPU 上同时跑本地聊天模型、ComfyUI 和游戏，互不 OOM 崩溃
-- 游戏启动时自动让 AI 引擎让出显卡
-- 盘点本机所有模型文件并从 Hugging Face/CivitAI 下载校验
+- 单机上让 LLM 引擎、ComfyUI、游戏共用一张卡而互不挤爆显存
+- 给 AI agent 提供统一网关按需启动对应模型引擎
+- 为训练/微调任务整卡独占并阻止自动抢占
+- 查看显存占用、队列等待原因与每张卡的遥测数据
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L16: Berth decides who gets your GPU. Chat models, image pipelines, voice engines, games and GPU apps
-> L30: Every engine asks berthd for the card: through `berth run`, the gateway, ComfyUI's API or a game
-> L99: - **`berth gateway`**: one OpenAI-compatible port. Name a model and Berth starts its engine,
+> L13: Berth makes the programs on your PC take turns with the GPU's memory, so they stop crashing each
+> L126: - **`berth gateway`**: one OpenAI-compatible port. Name a model and Berth starts its engine,
+> L160: - **Finds your engines.** Berth reads llama.cpp, llama-swap, Ollama, vLLM, SGLang, ComfyUI,
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `451ec7f40eeb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `58d2807252a6` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 225 · Jupyter Notebook · 推送 2026-10-23 · [GitHub](https://github.com/GeminiLight/awesome-ai-llm4education) · [官网](https://tianfu.wang/awesome-ai-llm4education/) · 组织维护
 
-**AI/LLM 教育应用论文策展清单（334 篇，2001–2026）**
+**教育领域 AI 与 LLM 论文策展清单**
 
-由研究者维护的 AI 与 LLM 教育应用论文聚合清单：从 51 个会议、期刊与预印本来源收录 334 篇论文（2001–2026 年，其中 LLM 相关 196 篇），按综述与实证分析、教学生命周期（辅导系统、材料准备、学习者建模、评估等三级任务）、应用领域（计算机、数学、语言学习、医学教育等）及数据集基准工具四大部分组织。目录数据存于 papers.csv，含统计生成脚本，提供在线网页版。
+收集来自顶级会议、期刊及领域会议的教育方向 AI 与 LLM 论文，按任务分类组织，分为综述与分析、教学与学习生命周期、应用领域、数据集与基准四大板块，其中生命周期部分进一步细分辅导、材料准备、学习者建模、评估等具体任务。收录 334 篇论文，时间跨度 2001–2026，其中 LLM 相关 196 篇，用 sparkles 标记。统计图表由 scripts/generate_statistics.py 从 data/papers.csv 生成，并提供在线网页版本。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 收录 334 篇论文，覆盖 2001–2026 年、51 个来源
-- LLM 相关论文 196 篇（占 58.7%）
-- 按教学生命周期三级任务分类（辅导/材料准备/学习者建模/评估等）
-- 提供 papers.csv 数据与 generate_statistics.py 统计脚本
+- 收录 334 篇论文，覆盖 51 个会议与预印本来源
+- 按四大板块和三级任务层级组织目录
+- 以 sparkles 标记 LLM 相关论文（196 篇）
+- 统计图表由 data/papers.csv 与脚本自动生成
 
 ## 适用场景
 
-- 查找 AI/LLM 教育应用方向的代表论文
-- 按任务类别（如知识追踪、自动评分、辅导系统）检索文献
-- 了解 AI 教育研究在各类会议期刊的分布趋势
+- 查找教育 AI/LLM 方向的综述与实证论文
+- 了解智能辅导、自动评分等教育任务的研究分布
+- 查阅相关数据集、基准与工具包论文
 
 ## 场景标签
 
-`科研工具` `精选清单` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3:  A curated list of papers related to artificial intelligence (AI) and large language model (LLM) for education
-> L8: We collect papers related to **artificial intelligence (AI) and large language model (LLM) for education** from top 
+> L10: The catalog is organized into **Surveys, Analyses & Perspectives**, **Teaching & Learning Lifecycle**, **Applicatio
 > L46: - **Catalog coverage:** 334 papers spanning **2001–2026**.
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d71be8e3f546` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f9349c2f7441` · [字段定义](../../DATASET.md)*

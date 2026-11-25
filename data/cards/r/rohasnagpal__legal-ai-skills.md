@@ -1,46 +1,45 @@
 # rohasnagpal/legal-ai-skills
 
-⭐ 216 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/rohasnagpal/legal-ai-skills) · 个人维护 · 中文 README
+⭐ 216 · JavaScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/rohasnagpal/legal-ai-skills) · 个人维护
 
-**面向 Claude Code/Codex 的律所 AI 技能包：17 名律师+226 项法律技能**
+**为律师/当事人在 Claude Code 搭建 AI 律所团队的技能包**
 
-以插件形式安装到 Claude Code 或 Codex 的法律 AI 技能包：提供 1 个 Managing Partner、17 名专科律师角色、3 名辖区顾问（印度/美国/英国）、226 项可复用法律技能与 20 个流程（并购尽调、离婚诉讼、合同谈判等），并内置 14 个官方法律研究源连接器（CourtListener、SEC EDGAR 等）、本地制裁名单筛查与本地截止日期/利息计算器。使用费用为 0 美元加用户的 ChatGPT 或 Claude 订阅；不保证输出准确完整，需人工法律复核。
+以 Claude Code/Codex 插件形式安装的法律技能集：模拟 1 名管理合伙人、4 名辖区法律顾问（印度/美/英/新加坡）、17 名专长律师的分工流程，内置 244 项法律技能、20 条工作流、14 个官方法律研究来源连接器，以及本地离线的期限/利息计算器与美英联合国制裁名单筛查工具。安装通过 plugin marketplace 命令完成，Node.js 18+ 仅为捆绑工具所需，法律技能本身可不依赖；输出需合格法律专业人士复核。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 17 名专科律师+3 名辖区顾问（印度/美国/英国）+226 项法律技能+20 个流程
-- 14 个官方法律研究源连接器（法院记录、法规、公司注册、制裁名单）
-- 制裁名单筛查与截止日期/利息计算器均在本地机器运行
-- 支持 'Should I Sue' 争议可行性评估模式，只读取用户打开的文件夹
+- 多角色分工：管理合伙人分派专长律师并由辖区顾问核验当地法律
+- 244 项法律技能与 20 条工作流（尽调、诉讼准备、合同审查等）
+- 对接 CourtListener、GovInfo、legislation.gov.uk、SEC EDGAR 等官方来源
+- 制裁名单与法律计算器在本地机器运行，名单数据不上传
 
 ## 适用场景
 
-- 律师/法务用 AI 律师团队处理合同审查、尽调、诉讼准备等事务
--  startups 与企业起草创始人协议、NDA、评估隐私法适用
-- 通过 'Should I Sue' 模式评估是否值得起诉、仲裁或调解
-- 本地筛查美英 UN 制裁名单与计算法律期限
+- 把合同、邮件、截图放入文件夹，让 AI 律师团队评估是否起诉
+- 按 RERA、离婚、M&A 尽调等 20 条工作流推进具体法律事务
+- 本地筛查客户/对手方是否命中美英联合国制裁名单
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L3: To install **Legal AI Skills by Rohas Nagpal**, open **Claude Code** or the **Codex** app or CLI on your computer an
-> L77: - **Claude Code:** run `claude plugin marketplace add rohasnagpal/legal-ai-skills`, then `claude plugin install leg
-> L180: **Where does it run?** Inside Codex or Claude. In Claude Code each lawyer runs as its own subagent. In Codex, lawy
+> L14: - **1 Managing Partner:** Receives matters, assigns specialist lawyers, coordinates work and reviews final outputs.
+> L20: - **244 Legal Skills:** Reusable capabilities such as contract review, legal research, due diligence, evidence anal
+> L109: - **Claude Code:** run `claude plugin marketplace add rohasnagpal/legal-ai-skills`, then `claude plugin install le
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `09f7a86d55c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a1179e9bfbc0` · [字段定义](../../DATASET.md)*

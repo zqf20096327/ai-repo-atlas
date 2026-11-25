@@ -2,9 +2,9 @@
 
 ⭐ 204 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/OtoDock/oto-dock) · [官网](https://otodock.io) · 组织维护
 
-**企业自托管的 AI agent 协作平台**
+**企业自托管的 AI agent 运行平台：让团队的 agent 在聊天、定时、电话与自有机器上工作**
 
-面向团队的自托管 agent 平台：在自有服务器上以沙箱方式运行基于 Claude Code、Codex 或本地模型的 agent，提供 Web 仪表盘、定时任务、webhook 触发、电话接入（Twilio/Asterisk）与配对本地机器执行。agent 由 persona、memory、workspace、knowledge、skills、tools 六部分构成，支持多租户、四种共享模式与部门委派；可构建并部署内外部应用。通过安装脚本部署，需 Docker 与至少 4GB 内存的服务器，许可证为 FSL-1.1-ALv2。
+自托管的多租户 agent 平台：一台服务器集中管理 agent、成员、文件与密钥，把 Claude Code 与 Codex 会话调度到沙箱化的 compute machine 或配对的远程/个人电脑上运行。agent 支持定时任务、webhook 触发、电话呼入呼出、部门化委派与会议讨论，可构建并部署内部或对外应用。安全方面默认按 agent 不可信设计：内核沙箱、网络隔离、密钥占位符替换、SSO 与按用户成本预算。通过安装脚本以 Docker Compose 部署，含 Android/iOS 客户端。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 沙箱化运行 Claude Code、Codex 或本地模型（Ollama/OpenAI 兼容服务）的 agent
-- 定时/webhook 触发任务、电话接入与配对本地机器远程执行
-- agent 可构建并部署面向团队或公众的应用
-- 内核级沙箱、网络隔离、SSO/2FA 与按用户成本预算
+- 多租户四模式共享 agent（个人/工作区组合），每 agent 四级角色权限
+- 定时、webhook、电话（Twilio/Asterisk/FreePBX）多入口触达 agent
+- agent 会话可跨配对机器迁移并续接上下文，默认沙箱隔离
+- 支持 Claude Code/Codex 订阅、API key 与 Ollama 等本地模型引擎
 
 ## 适用场景
 
-- 在公司自有服务器上集中运行和管理团队 AI agent
-- 让 agent 按计划或在事件触发时自动完成工作并汇报
-- 通过电话或配对的本地电脑与 agent 协作
+- 企业内部把 agent 组织成部门并委派协作
+- 给客服或预约类业务配一个可接电话的 agent
+- 在自有服务器上托管团队 agent 并按人核算成本
+- 让 agent 定时巡检并生成报告与通知
 
 ## 场景标签
 
-`多智能体` · 领域:Agent 开发
+`多智能体` `编码 Agent` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5:  The self-hosted platform for your company's AI agents.
-> L109: ## Claude Code or Codex on your subscription, or local models.
-> L114: through Ollama or any OpenAI-compatible server. You pick the engine per
+> L54: and your keys. It runs every Claude Code and Codex session on one of your
+> L133: Local models on your own hardware work as well, through Ollama or any
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0577bd9eda06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1af98cea194d` · [字段定义](../../DATASET.md)*

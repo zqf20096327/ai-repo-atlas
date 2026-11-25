@@ -2,43 +2,44 @@
 
 ⭐ 269 · Python · BSD-2-Clause · 推送 2026-10-30 · [GitHub](https://github.com/plantnet/PlantNet-300K) · [官网](https://doi.org/10.5281/zenodo.5645731) · 组织维护
 
-**植物图像数据集与基准代码：30 万张图、1081 物种**
+**植物图像长尾分类数据集及训练代码：面向植物识别研究者**
 
-Pl@ntNet-300K 论文（NeurIPS Datasets and Benchmarks 2021）配套仓库，提供论文基准实验代码及数据集入口：306,146 张植物图像覆盖 1081 个物种，划分为 train/val/test（243,916/31,118/31,112），具有高类别歧义与长尾分布（80% 物种仅占 11% 图像）。数据集本体托管于 Zenodo（需用 1.1 版元数据），仓库另提供元数据 JSON、论文超参数位置、预训练模型加载方式（load_model），及基于 PyTorch 的训练命令（main.py）。
+Pl@ntNet-300K-v2 数据集仓库，含 306,087 张图像、1,000 个植物物种，保留长尾类分布与高视觉模糊特性，附 CSV 元数据（物种名、IUCN 状态、逐图许可与署名信息）。仓库提供基于 DINOv3 的 ConvNeXt/ViT 骨干 PyTorch 微调与推理代码，支持 6 种架构配置，提供微调模型权重下载及嵌入/logits 提取接口；DINOv3 初始权重为 Hugging Face 许可门控，需先认证。原 v1 基准代码保留于 legacy_v1/。面向细粒度视觉识别研究者。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | BSD-2-Clause |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 306,146 张植物图像、1081 物种，长尾分布（80% 物种仅占 11% 图像）
-- 提供 train/val/test 划分与三类元数据 JSON 映射文件
-- 预训练模型（如 resnet18）可通过 utils.py 的 load_model 加载
-- 给出复现基准的 main.py 训练命令与超参数出处
+- 306,087 张图像、1,000 物种，长尾分布与高标签模糊数据集
+- 6 种 DINOv3 微调架构（ConvNeXt-T/S/B 与 ViT-S/S+/B）
+- 提供微调模型权重下载与嵌入/logits 提取接口
+- 支持 Weights & Biases 运行日志
 
 ## 适用场景
 
-- 在长尾分布的植物图像数据上训练与评测分类模型
-- 复现 NeurIPS 2021 论文的基准实验
-- 加载预训练权重并迁移到其他植物分类数据集
+- 研究长尾分布下的植物图像分类
+- 在标签模糊的细粒度数据集上训练与评测模型
+- 提取植物图像嵌入用于下游任务
 
 ## 场景标签
 
-`模型训练` `模型评测` · 领域:评测与运维
+`模型评测` `微调` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L3: This repository contains the code used to produce the benchmark in the paper ***"Pl@ntNet-300K: a plant image datase
-> L24: Pl@ntNet-300K is a plant dataset containing 306,146 plant images covering 1081 species (the classes).
+> L3: This repository contains training and inference code for **Pl@ntNet-300K-v2**.
+> L11: Pl@ntNet-300K-v2 contains **306,087 images from 1,000 plant species**. It retains
+> L54: python main.py \
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9cbd719c3033` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a006081a5bef` · [字段定义](../../DATASET.md)*

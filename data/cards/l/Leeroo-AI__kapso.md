@@ -2,9 +2,9 @@
 
 ⭐ 231 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Leeroo-AI/kapso) · [官网](https://docs.leeroo.com/docs) · 组织维护
 
-**面向 AI/数据系统优化的长时运行 agent 框架**
+**面向 ML 开发者的自主实验引擎：跑实验、部署最优解、沉淀经验**
 
-Leeroo 开源的 Python 框架（PyPI 包 leeroo-kapso）：用户给出目标后，一组长时运行 agent 运行 campaign——用树搜索设计候选方案、由编码 agent 实现、度量与目标的差距并持续迭代，结果可部署到本地、Docker 或 Modal。四大支柱为 evolve/learn/research/deploy：从已完成 campaign 挖掘带证据的知识卡，把外部仓库与论文导入 Weaviate+Neo4j 知识图谱。推理经编码 agent CLI（Claude Code、Codex）执行，无直接 API 回退；需 Node.js 18+ 与两个 CLI 登录。支持 MLE-Bench、ALE-Bench、RelBench 基准。
+以领域 harness 和经验库为起点，给定目标与成功标准后自动运行实验树：提出假设、在分支上实现并验证、将最优解部署到目标栈；每次运行的结果以带 credence 分数和适用边界的 lesson 形式存入基于 git 的经验库，并通过 A/B 重建衡量改动收益。推理经由 Claude Code/Codex 等 coding-agent CLI 完成（无直接 API 回退），支持 budget 上限、经验库索引（Weaviate/Neo4j，可选）与多目标部署（Docker/Modal/BentoCloud/LangGraph）。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@ Leeroo 开源的 Python 框架（PyPI 包 leeroo-kapso）：用户给出目标�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- evolve/learn/research/deploy 四动词 API 组成核心循环
-- 经验挖掘为证据计价知识卡，外部知识入 Weaviate+Neo4j 知识图谱
-- 推理经 Claude Code/Codex CLI 执行，模型可在单一配置文件中指定
-- kapso doctor 预检依赖与模型可用性
+- 实验树搜索：假设生成、分支实现、指纹化 evaluator 验证
+- 经验库 lesson 带 credence 分数与适用边界，learn() 对每次改动做 A/B 验证
+- 部署支持 Docker、Modal、BentoCloud、LangGraph Platform，含健康检查与可用性证明
+- 模型无关与 coding-agent 无关，模型配置集中在单一 config 文件
 
 ## 适用场景
 
-- 自动迭代优化 CUDA/PyTorch 代码与 ML 建模流程
-- 让 agent 团队端到端交付可部署的预测模型
-- 把历史实验与外部资料沉淀为知识库供后续 campaign 复用
+- 自动跑通 Kaggle 类 ML 竞赛并产出可提交方案
+- 对关系数据做预测建模并部署最优模型
+- 为特定领域编写 harness 积累可复用实验经验
 
 ## 场景标签
 
-`Agent 框架` `编码 Agent` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L50: Kapso is a team of long-running agents that optimize AI and Data systems. State an objective and it runs a campaign
-> L54: Kapso is an open-source Python framework by Leeroo, published on PyPI as `leeroo-kapso`.
-> L60: |**Evolve**|`.evolve()`|Run iterative experiments to build software for a goal. Uses tree search, coding agents, an
+> L50: Kapso is an open-source engine that runs experiments, deploys the best solution, and learns from every run. It star
+> L56: Over time the domain harness carries a bank of lessons: the experimented best practices of that environment. Kapso 
+> L87: **1. Prerequisites.** Kapso runs its inference through coding-agent CLIs
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `a78dde5d7453` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d4035c962e3a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 306 · Jupyter Notebook · MIT · 推送 2026-11-11 · [GitHub](https://github.com/microsoft/model-mondays) · [官网](https://microsoft.github.io/model-mondays/) · 组织维护
 
-**微软周更直播系列：生成式 AI 模型选型与技术聚光内容**
+**面向开发者的生成式 AI 模型选型周播直播与 Discord 答疑系列**
 
-Model Mondays 是 Microsoft Foundry 生态下的系列直播与 AMA 活动页：每周直播涵盖模型新闻、5 分钟速览与 15 分钟模型聚光环节，另有 Foundry Fridays 专家 AMA 与面向初学者的自学课程。仓库收录 4 季节目表（主题含模型路由、微调、Agent 构建、MCP、本地 AI 等）及 YouTube 回放链接，帮助开发者了解模型能力与选型。内容以日程与链接为主，不提供可安装的软件。
+微软主办的每周直播系列，包含 5 分钟模型新闻汇总与 15 分钟模型专题（Spotlight），并配套 Discord Office Hours 答疑；另含 Foundry Friday 专家 AMA 与面向初学者的自学课程。内容围绕模型能力、选型、微调与构建 AI Agent 的模式展开，各季节目以 Microsoft Foundry、GitHub Models 及 Cohere、Claude、Mistral、NVIDIA 等模型家族为主题，提供 YouTube 回放。第四季第 12 集因日程冲突取消。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Model Mondays 是 Microsoft Foundry 生态下的系列直播与 AMA 活动页：
 
 ## 能力要点
 
-- 周更直播 + 5 分钟模型速览 + 15 分钟聚光环节
-- Foundry Fridays 专家 AMA（独立编号，如 AMA #049）
+- 每周直播：5 分钟模型汇总 + 15 分钟专题讲解
+- 配套 Discord Office Hours 与 Foundry Friday AMA
 - 面向初学者的自学课程（Models for Beginners）
-- 4 季节目表覆盖模型路由、微调、Agent、MCP、本地 AI 等主题
+- 四季节目回放存放于 YouTube 播放列表
 
 ## 适用场景
 
-- 跟踪生成式 AI 模型动态与选型方法
-- 参加专家 AMA 解答 Agent 优化问题
-- 按主题索引查找往期直播回放
+- 了解不同模型家族的能力与适用场景
+- 为构建 AI Agent 学习模型选型与微调方法
+- 回看往季 AMA 与专题讲座补齐知识
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Model Mondays 是 Microsoft Foundry 生态下的系列直播与 AMA 活动页：
 ## 证据(README 行号)
 
 > L13: Model Mondays is a practical livestream series for building model expertise one week at a time. Explore model capab
-> L15: - **Model Mondays:** livestreams featuring model news, technical spotlights, and demos.
+> L17: - **Models for Beginners:** self-guided curriculum.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7e11c5e3f4d3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `47673616ff08` · [字段定义](../../DATASET.md)*

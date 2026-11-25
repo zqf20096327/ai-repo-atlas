@@ -2,9 +2,9 @@
 
 ⭐ 273 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/InftyAI/Awesome-LLMOps) · [官网](https://awesome-llmops.inftyai.com) · 组织维护
 
-**LLMOps 工具精选清单：按推理/路由/网关等分类收录**
+**LLMOps 工具策展清单：按推理、网关、微调等类别组织**
 
-由 InftyAI 维护的 LLMOps 工具策展清单，按目录组织为推理（推理引擎、推理平台、中间件、LLM 路由、AI 网关、结构化输出、模拟器、基准测试）与编排（应用框架等）等大类，收录 vLLM、Ollama、LiteLLM、Kong 等条目，每条附 Stars/贡献者/最近提交等元数据。面向为 LLM 应用选型与搭建基础设施的开发者与团队，通过提交 issue 增补新项目。本身为清单仓库，不提供可运行组件。
+以 awesome-list 形式维护的 LLMOps 工具目录，按目录树分类收录项目条目：推理引擎（llama.cpp、vLLM、Ollama 等）、推理平台（Kubernetes 算子与 serverless 服务）、中间件（KV Cache 相关）、LLM 路由与 AI 网关等。每条目附一句话描述及 Stars/Contributors/LastCommit 元信息，通过 issue 接受社区新增项目提交。README 本身不提供安装与运行说明，仅作链接聚合与分类导览。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 按推理引擎/平台/中间件/路由/网关等目录分层组织
-- 覆盖推理、KV Cache 中间件、LLM 路由与基准测试工具
-- 条目附 Stars、贡献者、最近提交等元数据
-- 通过 issue 开放增补新项目
+- 按推理引擎、推理平台、中间件、LLM 路由、AI 网关等类别组织条目
+- 每个条目附描述与 Stars/Contributors/LastCommit 元信息
+- 通过 opening an issue 接受社区新增项目
 
 ## 适用场景
 
-- 为 LLM 推理与服务选型查找候选工具
-- 了解 LLMOps 工具生态的类别覆盖
-- 对比 LLM 网关与路由类项目
+- 为自建 LLM 服务查找推理引擎或部署平台
+- 选型 LLM 网关与模型路由工具时浏览候选清单
+- 了解 LLMOps 各环节的开源项目分布
 
 ## 场景标签
 
@@ -37,8 +36,9 @@
 
 ## 证据(README 行号)
 
-> L1: # Awesome-LLMOps Awesome
 > L3: 🎉 An awesome &amp; curated list of best LLMOps tools.
+> L9: ## Inference
+> L65: ### LLM Router
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `670c52234c38` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `763c71c67cf6` · [字段定义](../../DATASET.md)*

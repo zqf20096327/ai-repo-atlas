@@ -2,9 +2,9 @@
 
 ⭐ 222 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yuhp/opencode-models-discovery) · 个人维护
 
-**OpenCode 插件：从 OpenAI 兼容端点动态发现并注入模型配置**
+**OpenCode 插件：从 OpenAI 兼容提供商自动发现并注入模型**
 
-面向 OpenCode（v2 稳定、v1 兼容）的通用模型发现插件：读取任意 OpenAI 兼容 provider 的 /v1/models 端点，将发现的模型自动合并进 OpenCode 配置；支持 provider 级开关、端点覆盖、regex/字段过滤，可选从 models.dev、vLLM、LM Studio 等 8 种元数据格式补充上下文限制与能力元数据。凭据经 OpenCode 原生 /connect 流程解析，不落盘到配置或日志。提供 TUI 命令、agent 工具、XDG/host 存储两级缓存（默认关闭，TTL 24 小时）。
+面向 OpenCode 用户的插件：查询提供商的模型列表端点（默认 /v1/models），应用可选过滤后把发现的模型自动注入 OpenCode 配置。支持 OpenCode v2 的 plugins/providers 集成与 /connect 凭据管理，保留 v1 适配器。可选的元数据丰富功能按多种格式（aiproxy、litellm、ollama、vllm 等）读取模型限制、推理、工具等字段；缓存默认关闭。要求已安装支持插件的 OpenCode 及至少一个 OpenAI 兼容提供商。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 从任意 OpenAI 兼容 provider 端点动态发现模型并注入 OpenCode 配置
-- regex id 过滤与 raw 字段 equals/match 过滤，excludeBy 优先
-- 8 种元数据格式（models.dev/vllm/lmstudio/openrouter 等）可选补充能力元数据
-- 凭据经 /connect 原生解析，不写入配置、缓存或日志
+- 从 /v1/models 或自定义端点动态发现模型并注入 OpenCode
+- 提供商级启用开关、端点覆盖、超时与模型过滤
+- 可选元数据丰富：限制、reasoning、tools、attachments、结构化输出等字段
+- v2 提供 /models-discovery-refresh、/models-discovery-console 命令与 agent 工具
 
 ## 适用场景
 
-- 本地或网关后端模型较多时免去手工逐个配置模型
-- 对 provider 暴露的模型按 id 或字段做筛选后接入
-- 为仅返回最小 /models 响应的服务补充上下文与能力元数据
+- 让 OpenCode 自动发现本地 Ollama/vLLM/LM Studio 提供的模型
+- 多个 OpenAI 兼容提供商统一接入 OpenCode 时免去手动登记模型
+- 通过过滤规则只暴露特定模型子集给 OpenCode
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L10: > A universal OpenCode plugin for dynamic model discovery across any OpenAI-compatible provider.
-> L17: - Discovers models dynamically from provider model endpoints
-> L18: - Injects discovered models into OpenCode provider config automatically
+> L10: > Discover models from OpenAI-compatible providers and add them to OpenCode automatically.
+> L12: This plugin queries a provider's model endpoint, applies optional filters, and injects the discovered models into O
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `60844fc0a5dd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f865ecb46395` · [字段定义](../../DATASET.md)*

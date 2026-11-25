@@ -1,10 +1,10 @@
 # stubbi/openclaw-operator
 
-⭐ 401 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stubbi/openclaw-operator) · [官网](https://paperclip.inc/openclaw) · 组织维护 · 中文 README
+⭐ 401 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/stubbi/openclaw-operator) · [官网](https://paperclip.inc/openclaw) · 组织维护
 
-**在 Kubernetes 上自托管 OpenClaw AI agent 的运维 operator**
+**在 Kubernetes 上部署与管理 OpenClaw AI agent 实例的 operator**
 
-以 Go 编写的 Kubernetes Operator，通过单一 OpenClawInstance 自定义资源将 OpenClaw AI agent 实例部署为包含 StatefulSet、RBAC、NetworkPolicy、PVC、Ingress 等的完整托管栈，供希望在自有基础设施运行 OpenClaw 而非使用 Paperclip Inc 托管服务的团队使用。机制涵盖默认加固安全配置（非 root、只读根文件系统、默认拒绝网络策略）、agent 经 K8s API 自配置并按白名单校验、S3 备份恢复、OCI 版本自动更新与回滚、Prometheus 指标。限制：需 Kubernetes 1.28+ 与 Helm 3，部分能力（磁盘感知就绪探针、自配置）为可选开启。
+用 Go 编写的 Kubernetes operator，通过单个 OpenClawInstance CRD 声明式创建 OpenClaw agent 实例，调和为 StatefulSet、Service、RBAC、NetworkPolicy、PVC、PDB、Ingress 等 9+ 个资源。提供 non-root 与只读文件系统等默认加固、Prometheus 指标、agent 通过 K8s API 自装技能/改配置的 allowlist 校验机制、S3 备份、HPA 自动伸缩与 OCI registry 自动更新回滚。面向在自有基础设施上自托管 OpenClaw 的团队，前置要求 Kubernetes 1.28+ 与 Helm 3。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 单一 OpenClawInstance CR 声明式生成 9+ Kubernetes 资源栈
-- agent 可经 K8s API 自装技能/改配置，逐请求按白名单校验
-- 默认安全加固：非 root UID 1000、只读根文件系统、seccomp、默认拒绝 NetworkPolicy
-- S3 快照备份恢复与 OCI registry 轮询的自动更新/回滚
+- 单个 CRD 声明整套 K8s 资源栈（StatefulSet/RBAC/NetworkPolicy 等 9+）
+- agent 通过 OpenClawSelfConfig CR 自装技能与改配置，operator 按 allowlist 策略校验
+- S3 备份/恢复、HPA 自动伸缩、OCI registry 轮询更新与失败自动回滚
+- 可选 sidecar：Chromium 浏览器自动化、Ollama 本地 LLM、Tailscale
 
 ## 适用场景
 
-- 在自有 Kubernetes 集群上以生产配置运行 OpenClaw agent
-- 多团队按命名空间划分托管多个 agent 实例
-- 对 agent 实例做自动备份、版本追踪与自愈运维
+- 在自己的 Kubernetes 集群中自托管 OpenClaw agent 实例
+- 给多团队提供命名空间隔离的 agent 部署（watchNamespaces 限定 RBAC）
+- 需要对 agent 工作区做定时 S3 备份与磁盘水位就绪检查的运维场景
 
 ## 场景标签
 
- · 领域:云原生/AI agent 基础设施
+ · 领域:云原生/AI agent 运维基础设施
 
 ## 证据(README 行号)
 
 > L11: **Self-host OpenClaw AI agents on Kubernetes with production-grade security, observability, and lifecycle managemen
+> L17: Deploying AI agents to Kubernetes involves more than a Deployment and a Service. You need network isolation, secret
 > L26: The operator reconciles this into a fully managed stack of 9+ Kubernetes resources: secured, monitored, and self-he
-> L59: |**Flexible**|Provider-agnostic config|Use any AI provider (Anthropic, OpenAI, or others) via environment variables
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `57e9096e4496` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `ed2c19152226` · [字段定义](../../DATASET.md)*

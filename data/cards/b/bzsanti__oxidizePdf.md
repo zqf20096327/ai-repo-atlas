@@ -2,15 +2,15 @@
 
 ⭐ 195 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/bzsanti/oxidizePdf) · [官网](https://bzsanti.github.io/oxidizePdf/) · 个人维护
 
-**纯 Rust PDF 库：解析/生成/加密/签名，并输出面向 RAG 的结构化分块**
+**为 AI/RAG 管道提供结构感知 PDF 分块的纯 Rust 库**
 
-单一 Rust crate 覆盖 PDF 生成、解析、合并拆分、加密（RC4/AES-128/AES-256 R5 读写、R6 读）、数字签名检测与 PKCS#7 验证、PDF/A 8 级合规校验、JBIG2 解码、发票抽取与 CJK 支持，无 C 依赖。面向 AI/RAG 场景提供结构感知分块 rag_chunks：每块含页码、边界框、元素类型、标题上下文与 token 估计，支持确定性 no-ML 上下文前缀与 Markdown/JSON 导出。不做页面栅格化，PAdES 与证书收件人加密不在范围内。
+纯 Rust 实现的 PDF 工具箱：生成、解析、修改、提取与验证 PDF，无需 C 绑定。在常规 PDF 功能之外，rag_chunks 接口把文档切分为带页码、边界框、元素类型、标题上下文与 token 估算的元数据分块，供向量库摄取；Contextual Retrieval 采用无 ML 的确定性前缀方案，不调用 LLM 或 GPU。还提供 PDF/A 校验、数字签名检测与 PKCS#7 验证、加密读写、发票提取（ES/EN/DE/IT）等。限制：不做页面栅格化，证书式收件人加密不支持。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 结构感知分块含页码/边界框/元素类型/标题上下文/token 估计
-- 确定性 no-ML Contextual Retrieval 前缀，可复现 chunk_id
-- PDF/A 8 级合规校验与 PKCS#7 签名验证，纯 Rust 无 C 依赖
-- 99.3% 解析成功率（9,000+ 真实 PDF 语料）与 7,993 个测试
+- rag_chunks 输出带页码、边界框、元素类型、标题上下文的分块
+- 无 ML 的 Contextual Retrieval 前缀方案，输出可复现
+- 纯 Rust 实现，无 C 依赖与原生加密库
+- 支持 JSON/Markdown 导出、6 种提取剖面与 133 个示例
 
 ## 适用场景
 
-- 构建 RAG 摄取管线，把 PDF 转为带元数据分块送入向量库
-- 批量解析/生成 PDF，含加密与数字签名校验
-- 按元素类型（表格/标题/段落）精细控制抽取粒度
+- 为 RAG 摄取管道生成结构化 PDF 分块并写入向量库
+- 需要页码引用与空间定位做溯源引用的文档问答
+- 在 Rust 服务中一站式处理 PDF 生成、解析与签名校验
+- 从西/英/德/意发票 PDF 提取数据
 
 ## 场景标签
 
-`文档解析` `RAG` · 领域:知识与检索
+`RAG` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L28: Structure-aware RAG remains a first-class workflow:
-> L31: let chunks = PdfDocument::open("paper.pdf")?.rag_chunks()?;
-> L159: - Structure-aware chunking with `RagChunk` metadata (pages, bboxes, types, headings)
+> L13: **A comprehensive PDF toolkit written in pure Rust.** Generate, parse, modify,
+> L23: |Build an AI/RAG ingestion pipeline|`rag_chunks`|
+> L30: Structure-aware RAG remains a first-class workflow:
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9ddd54db7da7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `716916226615` · [字段定义](../../DATASET.md)*

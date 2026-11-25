@@ -2,15 +2,15 @@
 
 ⭐ 193 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/fsdatalab/quail) · [官网](https://fsdatalab.github.io/quail) · 组织维护
 
-**面向开发者的 AI-SQL 执行引擎，SQL 中嵌入自然语言指令**
+**面向数据分析的 SQL AI 函数推理引擎**
 
-由 CMU Full Stack Data Lab 开发的开源执行引擎（QUery-Aware Inference Layer）：在 SQL 查询中用自然语言写指令（如 AI.IF、AI.SCORE、AI.CLASSIFY、AI.EXTRACT），由语言模型对每行求值，支持过滤、连接、分类与抽取；兼容 Snowflake AI_FILTER 与 BigQuery AI.IF 两种方言及 Python builder API。以 pip 包 quail-engine 提供，另可安装 server 扩展在 GPU 机器上运行查询并断线续跑。要求 Python 3.12 与 CUDA GPU，支持 1/2/4/8 GPU，README 列出 Qwen3 等模型在 H100 等设备上的组合。
+Quail 是 Apache DataFusion 的扩展，在 SQL 中运行 AI 函数：将行文本发送给模型并返回模型答案（如 AI.IF 过滤、AI.CLASSIFY 标注、AI.EXTRACT 抽取）。解析、计划与执行由 DataFusion 完成，模型侧支持 Qwen3 系列等，可指定 GPU 运行，也提供 Quail Server 在远程 GPU 上执行查询并支持客户端断开后继续运行。提供 Python 包与 Rust crate 两种接入方式。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- SQL 内嵌自然语言指令由 LLM 逐行求值（AI.IF/AI.SCORE/AI.CLASSIFY/AI.EXTRACT）
-- 兼容 Snowflake AI_FILTER 与 BigQuery AI.IF 方言，另提供 Python builder API
-- Quail Server 在 GPU 机器上运行查询，支持断线重连（submit/get_run）
-- 支持 1/2/4/8 GPU 并行，列出 Qwen3 等多模型在 H100/RTX PRO 6000 上的组合
+- 在 SQL 中提供 AI.IF/AI.SCORE/AI.CLASSIFY/AI.EXTRACT 等 7 个 AI 函数
+- 基于 Apache DataFusion，可从 Python（uv/pip 包）或 Rust crate 接入
+- Quail Server 支持远程 GPU 执行，客户端断开后查询继续运行
+- 同一文档只读取一次即可服务多个 AI 函数调用
 
 ## 适用场景
 
-- 在 SQL 工作流中直接做评论筛选、分类、打分等 LLM 判断
-- 把查询卸载到 GPU 服务器异步执行并断线续跑
-- 用熟悉的 BigQuery/Snowflake AI-SQL 方言迁移查询到本地推理
+- 用 SQL 过滤和标注大规模文本数据（如评论分类）
+- 对非结构化文本做字段抽取
+- 在自有 GPU 或远程 GPU 机器上运行带模型推理的查询
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+`数据分析` `推理引擎` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3: Quail (QUery-Aware Inference Layer) is an open-source execution engine
-> L7: With AI-SQL, you write instructions in natural language inside your SQL
-> L63: You can use filters and joins evaluated by a language model,
+> L13: Quail runs SQL with AI functions. An AI function, such as
+> L14: `AI.IF`, sends a row's text to a model and returns the model's answer.
+> L16: we use DataFusion to parse, plan, and run the rest of the SQL.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `d6956c2d77ef` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4e90571d9faf` · [字段定义](../../DATASET.md)*

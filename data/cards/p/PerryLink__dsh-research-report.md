@@ -2,9 +2,9 @@
 
 ⭐ 221 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-research-report) · [官网](https://www.npmjs.com/package/dsh-research-report) · 个人维护 · 中文 README
 
-**DeepSeek Harness 插件：生成逐条声明可验证的密封研究报告**
+**给 DeepSeek Harness 提供可离线复核的封存研究报告插件**
 
-面向 DeepSeek Harness 的研究报告引擎插件：以内容寻址的证据账本（SHA-256 对象存储 + JSONL 日志）登记不可变证据快照，将报告中每条声明与证据绑定并做字节级核验，产出带 manifest 哈希密封的版本化报告（report.md + manifest.json + verification.jsonl + disconfirmation.jsonl）。判定分 verified/unverified/insufficient/disproven/contradicted 五级，不依赖语义或嵌入。另带独立验证 CLI（dsh-research-verify，支持 JSON/SARIF 输出）与零网络零模型的复算回环。规划与综合仍归模型或上游插件，不做检索编排。
+DeepSeek Harness 的社区插件（与官方无关）：给模型一个主题与来源后，将每条结论绑定到内容寻址的不可变证据快照，对数字与引文做字节级字面核对，封存为版本化报告目录（report.md + manifest.json + 审计日志），封印为 manifest 的 SHA-256。附独立二进制 dsh-research-verify 可离线重算封印与逐 claim 复核，无需挂载插件。核查零网络零模型调用；不做语义理解，转述性结论会如实判 unverified，检索与规划刻意留给 ctx.web 与模型本身。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 声明↔证据绑定与逐字面字节级核验（五级判定，无嵌入）
-- manifest 哈希密封的版本化报告，任何人可复算
-- 证伪账本与按内容哈希记忆的负面知识（同一文本对同一证据强制回 disproven）
-- 独立验证 CLI dsh-research-verify 支持 JSON/SARIF 2.1.0 输出
+- 内容寻址证据账本：快照按 SHA-256 存储，读取时重算哈希，篡改/删除可被发现
+- claim↔证据绑定与字节级核查，输出 verified/unverified/insufficient/disproven/contradicted 五种结论
+- 版本化封存报告目录，封印哈希可由独立 CLI dsh-research-verify 离线重算
+- 证伪账本与负知识机制：被证伪的 claim 复报时强制置回 disproven
 
 ## 适用场景
 
-- 让 AI agent 产出的研究报告附每条声明的核验判定与可见标记
-- 事后离线复算密封报告哈希，检测证据篡改或缺失
-- 跨 sibling 插件经冻结服务面 ctx.researchReport.assemble 复用报告组装
+- 让 AI 产出研究报告后，审稿人在自己机器上离线复核每条结论
+- 审计报告中哪些结论未核实、证据不足或已被证伪
+- 防止报告交付前证据被篡改或结论与证据漂移
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7: **A verifiable research-report engine for DeepSeek Harness.**
-> L44: ## What is dsh-research-report?
-> L82: dsh plugin --profile web add github:PerryLink/dsh-research-report
+> L9: 面向 DeepSeek Harness 的可核查研究报告引擎：claim 绑定不可变证据快照，数字与引文按字节核对，结果封存为版本化报告目录，封印就是、`manifest.json` 的 SHA-256。
+> L40: 给模型一个主题和一组来源，`dsh-research-report` 把每条结论（claim）绑定到不可变的证据快照、逐字节核对数字与引文，再把结果封存成一份可独立复核的版本化报告。报告目录里有 `report.md`、`mani
+> L110: - **不做深研循环**——检索编排刻意复用官方底座：搜索/抓取走 `ctx.web`，长任务走 `ctx.jobs`。规划与综合交给模型（或上游插件）。
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ab2daa400340` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `dfed33ca8d87` · [字段定义](../../DATASET.md)*

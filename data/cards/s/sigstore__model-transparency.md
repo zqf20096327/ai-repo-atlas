@@ -2,9 +2,9 @@
 
 ⭐ 250 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sigstore/model-transparency) · 组织维护
 
-**给 ML 从业者的模型签名与校验工具，保障模型供应链完整性**
+**为 ML 模型提供签名与验证的供应链安全库**
 
-Sigstore 维护的 ML 供应链安全项目：对模型文件生成哈希清单，通过 Sigstore（默认）、公钥/证书或 PKCS #11 设备生成 DSSE 签名，验证时重算文件哈希与签名比对，判定模型是否在训练后被篡改。以 pip 包 model-signing 提供 CLI 与 Python API，API 分为 hashing/signing/verifying 三组件供 ML 框架、流水线与模型 Hub 集成。支持 OIDC 身份（Google/GitHub/Microsoft）、CI 工作负载身份自动签名、透明日志包含性证明，以及可选的 OpenTelemetry 追踪。
+Sigstore 旗下的模型签名项目，为 ML 供应链提供可验证的完整性声明：对模型文件生成签名（sigstore bundle / DSSE / in-toto 格式），验证时校验签名有效性并重算文件哈希比对。支持 Sigstore OIDC 身份签名、公钥/证书签名、PKCS #11 硬件设备、RFC 3161 时间戳及私有 Sigstore 实例（自定义 Rekor/Fulcio）。提供 CLI 与 Python API（hashing/signing/verifying 三组件），可选 OpenTelemetry 观测与日志级别配置。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Sigstore 维护的 ML 供应链安全项目：对模型文件生成哈希清单�
 
 ## 能力要点
 
-- 对模型逐文件哈希生成 manifest 并签名（Sigstore/密钥/证书/PKCS #11）
-- 验证时重算哈希与已签名 manifest 比对，检测篡改
-- 支持 GitHub Actions/GitLab CI/GCP/Buildkite 工作负载身份自动签名
-- 提供 hashing/signing/verifying 三层 Python API 供 ML 框架与 Hub 集成
+- CLI 支持 sign/verify/digest 子命令，默认 Sigstore 签名，兼容公钥与证书方式
+- 支持 PKCS #11 硬件签名设备（RFC 7512 URI）与 RFC 3161 时间戳
+- 签名事件记录至 Sigstore 透明日志，可做包含性证明与日志监控
+- 提供 Python API（hashing/signing/verifying）供 ML 框架、流水线、模型库集成
 
 ## 适用场景
 
-- 发布模型前签名，让下载方可验证来源与完整性
-- 下载模型时校验签名，确认未被篡改
-- 在 CI 流水线中用工作负载身份自动签名模型
+- 模型发布方对训练好的模型签名以证明未被篡改
+- 模型下载方核验签名来源身份与文件完整性
+- 通过 GitHub Actions/GitLab CI 等工作负载身份自动化签名
+- 为 ML 流水线或模型托管平台集成签名验证 API
 
 ## 场景标签
 
@@ -37,8 +38,9 @@ Sigstore 维护的 ML 供应链安全项目：对模型文件生成哈希清单�
 
 ## 证据(README 行号)
 
+> L11: Building on the work with [Open Source Security Foundation][openssf], we are
 > L21: This project demonstrates how to protect the integrity of a model by signing it.
-> L290: We offer an API which can be used in integrations with ML frameworks, ML
+> L316: We offer an API which can be used in integrations with ML frameworks, ML
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `374be2b85806` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d857cea2dca3` · [字段定义](../../DATASET.md)*

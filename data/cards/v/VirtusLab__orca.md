@@ -2,9 +2,9 @@
 
 ⭐ 202 · Scala · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/VirtusLab/orca) · [官网](https://orca.virtuslab.com) · 组织维护
 
-**用 Scala 脚本定义确定性 AI 编码工作流的开源工具**
+**用 Scala 脚本编排 AI 编码 agent 的开发工作流工具**
 
-面向单人开发者工作流的 AI 驱动软件开发编排工具：以 Scala 脚本（scala-cli 运行，无需其他依赖）定义软件开发流程，由 AI agent 执行编码，脚本处理格式化、提交、创建 PR 等确定性步骤。内置 plan-implement-review 等流程，各阶段提交后可从断点恢复。需配置 Claude、Codex、OpenCode、Pi 或 Gemini 之一及 gh、git。提供 orca CLI 与可供 agent 调用的 skill，需在沙箱环境运行。
+面向单人开发工作流的工具：用 Scala 编写可复现的软件开发流程脚本，由 AI agent 执行编码，普通脚本处理格式化、提交、开 PR 等机械步骤；内置计划-实现-审查循环等流程，支持中断后从上次提交续跑。提供 orca CLI 与可安装到 Claude Code、Pi、OpenCode、Codex 等的 skill，可交互或无头运行；需已配置并登录 agent 后端及 gh、git。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Scala 脚本定义开发工作流，scala-cli 单命令运行，自动引导依赖
-- 流程可恢复：中断后从最后一次提交继续
-- 内置 plan-implement-review 循环等流程，可交互或无头运行
-- 提供或可作为 skill 被 Claude Code、Pi、OpenCode 等 agent 调用
+- 以 Scala 脚本定义开发工作流，agent 执行编码、脚本处理提交/PR
+- 内置计划-实现-审查循环等流程，可交互或无头运行
+- 流程可中断续跑：每阶段完成即提交，重跑从上次提交继续
+- 以 skill 形式安装进 Claude Code / Pi / OpenCode / Codex，供编码 agent 委托调用
 
 ## 适用场景
 
-- 我希望 AI 生成的代码总是被另一个 agent 审查，并把该要求写成代码
-- 让编码 agent 把规划、实现、审查、开 PR 的流程自动化跑完
-- 用普通脚本承担提交、格式化等非编码步骤以节省 token
+- 让 agent 写的代码强制经过另一个 agent 审查后再合入
+- 把格式化、提交、开 PR 等步骤从 agent 中剥离为脚本执行
+- 单开发者的 AI 辅助开发流程编排与任务分解
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 ## 证据(README 行号)
 
 > L5: Orca allows you to programmatically define software development workflows where
+> L11: Orca comes with an `orca` cli and a skill, which can be used interactively by
 > L27: Orca assumes that it has configured, logged-in access to Claude, Codex,
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6d3837ac2171` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a372868677de` · [字段定义](../../DATASET.md)*

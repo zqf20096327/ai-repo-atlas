@@ -1,10 +1,10 @@
 # EvoMap/awesome-agent-evolution
 
-⭐ 243 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/EvoMap/awesome-agent-evolution) · 组织维护
+⭐ 243 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/EvoMap/awesome-agent-evolution) · 组织维护 · 中文 README
 
-**AI Agent 自我进化、记忆系统与多智能体架构的策展清单**
+**AI Agent 自进化与记忆系统项目的策展清单**
 
-由 EvoMap（evomap.ai）维护的 awesome 类策展清单，收录 AI agent 自我进化/自我改进、记忆系统（向量/图/情景记忆等）、Agent 间协议（A2A/MCP）、agent 开发平台四类项目。条目附作者、星数与一句话描述，并以 mermaid 图呈现分类法。清单本身不含代码，不提供安装运行方式，仅作资源导航使用，面向构建 agent 系统的开发者与研究者。
+由 EvoMap 维护的 awesome 类型清单，收录 AI Agent 自进化、记忆系统、多智能体协议与开发平台四类开源项目，每条目含一句描述、维护者与 star 数，并用 mermaid 分类图组织目录。覆盖 Agent Evolution and Self-Improvement、Memory Systems、Agent-to-Agent Protocols、Agent Development Platforms 等章节。README 未提供本清单自身的安装或运行方式，仅为链接式目录；部分条目附基准数字（如 LOCOMO）与许可证说明。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按自我进化、记忆系统、A2A 协议、开发平台四类组织条目
-- 每条含作者、星数与一句话能力描述
-- 以 mermaid 图呈现分类体系
+- mermaid 分类图组织 Single-Agent Optimization / Infrastructure 等类别
+- 收录记忆系统条目并附 LOCOMO 等基准数字
+- 覆盖 A2A 与 MCP 协议相关项目
+- 每条目标注维护者与 star 数
 
 ## 适用场景
 
-- 查找 agent 记忆系统或自我进化框架的开源项目
-- 了解 agent 间协议（A2A/MCP）生态的代表性实现
-- 为 agent 开发选型对比平台与框架
+- 查找 agent 自进化/自我改进方向的开源项目
+- 调研 agent 记忆系统的实现与基准
+- 了解 agent 间通信协议（A2A/MCP）生态
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 
 > L1: # Awesome Agent Evolution Awesome
 > L3: > AI Agent self-evolution, memory systems, autonomous self-improvement, and the infrastructure that powers them.
-> L7: ## Taxonomy
+> L16: ## Agent Evolution and Self-Improvement
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `037029071255` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `95b4eb158b7b` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 307 · Shell · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Meet-Miyani/compose-skill) · [官网](https://compose.avinya.dev) · 个人维护
 
-**给 AI 编码 agent 的 Jetpack Compose 代码风格技能包（7 个技能）**
+**给 AI 编码代理的 Jetpack Compose 技能包，统一代码风格**
 
-面向 Claude Code、Codex、Cursor、Copilot、Gemini CLI 等 AI 编码 agent 的技能包：提供 7 个技能，为 Jetpack Compose 与 Compose Multiplatform 开发规定统一的代码风格——MVI、Koin、Navigation 3、Ktor、Room 等。核心机制是约 1.3k token 的入口决策树，按任务类型与影响区域按需加载参考文件（全套约 127k token）；另含 11 个 shell 守护脚本用于 CI 漂移检查。通过 npx skills、gh skill 及 Claude Code/Codex 插件市场四种渠道安装。README 报告了 90+36 次 agentic 运行的盲评测试结果，并披露了测试局限（每单元单次生成、6 个任务）。
+面向 AI 编码代理的 7 个技能集合，覆盖 MVI 架构、Koin DI、Navigation 3、Ktor、Room 等 Compose/Compose Multiplatform 主题。机制上采用约 1.3k token 的入口决策树做渐进加载（全量约 127k token），仅加载当前任务所需参考文件；附带 11 个 shell guard 脚本与 90 个 fixture 测试在 CI 中检查风格漂移。提供 npx skills、gh skill、Claude Code 插件、Codex 插件四种安装通道，支持项目级或全局安装。作者以盲评 agentic runs 报告各模型的评分提升数据。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 7 个技能覆盖架构、特性、UI、数据、项目、平台六个领域
-- 约 1.3k token 入口决策树按需加载参考文件
-- 11 个 shell 守护脚本加 90 个 fixture 测试用于 CI 漂移检查
-- 四种安装渠道：npx skills / gh skill / Claude Code 插件 / Codex 插件
+- 7 个技能 + 约 1.3k token 入口决策树的渐进式加载
+- 11 个 shell guard 脚本与 90 个 fixture 测试用于 CI 中检查代码漂移
+- 提供 npx skills / gh skill / Claude Code 插件 / Codex 插件四种安装通道
+- README 附带多模型盲评 agentic runs 的结果与预注册规则
 
 ## 适用场景
 
-- 让我的 AI 编码 agent 按 MVI + Koin + Navigation 3 风格写 Compose 代码
-- 团队在仓库内共享统一的 Compose 代码规范给 agent 使用
-- 在 CI 中用守护脚本检查 agent 生成代码的风格漂移
+- 让编码代理按统一的 MVI + Koin 风格写 Compose 代码
+- 团队在仓库中共享一致的 Compose 编码规范给代理使用
+- 在 CI 中用 guard 脚本捕获代理产出的风格漂移
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`编码 Agent` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: **A Compose skill for AI coding agents: seven agent skills that make Claude Code, Codex, Cursor, Copilot and Gemini
-> L16: **Works with** Claude Code · Codex · Cursor · OpenCode · Copilot · Gemini CLI · Antigravity
-> L84: Install all seven skills. `compose` is the entry point, and it hands each task to the other six. Step-by-step pages
+> L53: - **Progressive loading:** a ~1.3k-token entry tree picks the task path and the exact reference files. The full kit
+> L63: |**`compose`**|The entry decision tree (~1.3k tokens): task kind → affected area → exact reference files|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ad711ae243d7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `05be0f7b488c` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # QVerisAI/qveris-agent-toolkit
 
-⭐ 263 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/QVerisAI/qveris-agent-toolkit) · [官网](https://qveris.ai/) · 组织维护 · 中文 README
+⭐ 263 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/QVerisAI/qveris-agent-toolkit) · [官网](https://qveris.ai/) · 组织维护
 
-**让 AI agent 接入专业数据与工具的开源客户端工具集**
+**让 AI 助手发现并调用专业数据服务的 MCP/CLI/SDK 工具包**
 
-QVeris 是面向 AI 助手与 agent 的专业数据/工具访问平台的开源客户端工具集（monorepo）：提供 CLI、MCP server、Python SDK、TypeScript SDK、REST API 文档与 agent skills，让 agent 通过 Discover（免费自然语言找服务）→ Inspect → Call 工作流调用金融、搜索、天气、地图、文档、区块链、医疗等类别服务，并用 usage audit 与 credits ledger 审计用量和计费。CLI 经 npm 或 curl 脚本安装，需 API key，采用按量计费（免费层含 1,000 试用 credits）；MCP 为托管服务端。
+QVeris 是面向 AI 的专业数据与工具访问平台，本开源工具包提供 CLI、MCP server、Python/TypeScript SDK、技能文件与 REST API 文档，帮助 Agent 按自然语言发现服务、审查参数与计费规则、调用服务并通过 usage audit 与 credits ledger 审计用量。Discover 免费按需发现，无需预载服务目录；Call 按结构化计费规则收费，提供 1,000 次试用 credit 与按量付费方案。安装不修改 shell 配置，调用为远程 API 请求。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ QVeris 是面向 AI 助手与 agent 的专业数据/工具访问平台的开源�
 
 ## 能力要点
 
-- CLI / MCP server / Python SDK / TypeScript SDK / REST API 多种接入方式
-- Discover→Inspect→Call 服务发现与调用工作流，Discover 免费
-- usage audit 与 credits ledger 审计请求与扣费记录
-- 兼容 OpenClaw / Claude Code / Cursor / OpenCode / Trae / Gemini CLI
+- Discover（免费自然语言找服务）→ Call（调用并返回结构与预结算计费）主路径，Inspect/Probe 为条件性校验
+- 以 CLI、MCP server、Python SDK、TypeScript SDK、REST API 多种方式接入
+- usage audit 与 credits ledger 提供请求与扣费审计
+- 适配 OpenClaw / Claude Code / Cursor / OpenCode / Trae / Gemini CLI 等客户端
 
 ## 适用场景
 
-- 让我的 coding agent 能按需发现并调用专业数据服务
-- 在 Cursor / Claude Code 中通过 MCP 接入 QVeris 服务目录
-- 审计 agent 的服务调用量与 credit 扣费明细
+- Agent 内置工具不足时动态发现并调用专业数据服务（金融、搜索、天气、地图等）
+- 通过 qveris usage / ledger 审计调用产生的费用与信用余额
+- 在 Cursor / Claude Code 等客户端中配置 MCP 或技能接入服务目录
 
 ## 场景标签
 
- · 领域:AI agent 基础设施/数据服务接入
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5:  Bring professional data to the AI you already use.
-> L61: > → **QVeris CLI** — `npm install -g @qverisai/cli` or `curl -fsSL https://qveris.ai/cli/install | bash`
-> L264: |MCP Server|`packages/mcp`|@qverisai/mcp|
+> L6:  QVeris is a professional data and tool access platform for AI. This open-source toolkit provides the CLI, MCP serve
+> L78: - `Discover` — find candidate services with natural language (free)
+> L200: |Method|Use case|Docs|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `fe1379bb643f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `dab5d3bcea80` · [字段定义](../../DATASET.md)*

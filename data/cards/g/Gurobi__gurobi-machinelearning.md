@@ -2,9 +2,9 @@
 
 ⭐ 258 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Gurobi/gurobi-machinelearning) · [官网](https://gurobi-machinelearning.readthedocs.io/) · 组织维护
 
-**将训练好的 ML 预测模型嵌入 Gurobi 优化模型的 Python 包**
+**把训练好的回归模型嵌入 Gurobi 优化模型的 Python 包**
 
-由 Gurobi 官方维护的开源 Python 包，把已训练的回归预测器（scikit-learn 各类对象为主）以约束形式嵌入 gurobipy 优化模型中求解，使优化问题可以内生地使用 ML 预测结果。对 Keras、PyTorch、XGBoost 提供有限支持，且 Keras/PyTorch 仅限 ReLU 激活的神经网络。依赖 gurobipy 商业求解器（随附测试用受限免费许可，学术用户可申请完整许可），通过 pip 安装。
+开源 Python 包，将已训练的回归预测器转化为 gurobipy 模型中的表达式，交由 Gurobi 求解器求解。支持多种 scikit-learn 对象以及 XGBoost、LightGBM、ONNX，对 Keras 与 PyTorch 仅有限支持（仅限 ReLU 激活的神经网络）。依赖 Python ≥3.11、numpy、gurobipy、scipy；gurobipy 为商业软件，pip 安装附带仅限小规模模型的免费测试许可，学术用户可申请免费完整许可。文档托管在 readthedocs。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 支持多种 scikit-learn 回归对象直接嵌入 gurobipy 模型
-- 对 Keras、PyTorch、XGBoost 提供有限支持（神经网络限 ReLU 激活）
-- pip 安装并自动安装 numpy/scipy/gurobipy 依赖
+- 将 sklearn/XGBoost/LightGBM/ONNX 训练模型表述为 Gurobi 优化模型
+- 支持 Keras 与 PyTorch 的 ReLU 神经网络（有限支持）
+- pip 安装并自动装齐 numpy/scipy/gurobipy 依赖
+- 学术机构人员可申请免费完整许可
 
 ## 适用场景
 
-- 把已训练的 ML 预测器作为约束嵌入优化模型求解
-- 构建含机器学习预测组件的决策优化问题
-- 学术研究者在 Gurobi 学术许可下做预测+优化联合建模
+- 在运筹优化模型中引入训练好的回归预测器
+- 将梯度提升树模型的预测作为优化约束
+- 在 Gurobi 求解流程中使用 ONNX 格式模型
 
 ## 场景标签
 
- · 领域:数学优化/机器学习工程
+ · 领域:数学优化/机器学习集成
 
 ## 证据(README 行号)
 
 > L13: Gurobi Machine Learning is an open-source python package to formulate trained regression models in a `gurobipy` mod
-> L15: The package currently supports various scikit-learn objects. It has limited support for Keras, PyTorch and XGBoost.
+> L15: The package currently supports various scikit-learn objects. It also supports XGBoost, LightGBM, ONNX, and has limi
+> L30: - `gurobipy` >= 11.0.0
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9669a9951954` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7a278afb2596` · [字段定义](../../DATASET.md)*

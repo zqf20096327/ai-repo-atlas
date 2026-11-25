@@ -2,9 +2,9 @@
 
 ⭐ 250 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/ayushh0110/ScreenMind) · [官网](https://screenmind.space/) · 个人维护
 
-**本地屏幕记忆应用：截图分析+语义搜索+对话问答**
+**本地屏幕记忆工具：截图分析、可搜索历史与对话**
 
-面向个人用户的屏幕活动记录与检索工具：基于内容变化检测捕获屏幕截图，用 Gemma 4 多模态模型（E2B/E4B/12B，经 llama.cpp 推理）分析应用、活动类别、场景与布局，构建语义（MiniLM）+FTS5 混合索引，支持对话式 RAG 问答、语音备忘与会议转录、每日摘要与分析面板。全部本地运行，无遥测；提供敏感信息自动脱敏、AES 加密、PIN 锁定与保留期删除。pip 安装，支持 Windows/macOS/Linux，需 Python 3.10+，GPU 推荐 4GB+ VRAM（可纯 CPU）。
+持续捕获屏幕内容，用本地运行的 Gemma 4 多模态模型生成结构化分析（应用识别、活动分类、场景描述、布局区域），构建可语义与关键词混合检索的屏幕历史，并支持 RAG 对话、语音备忘与会议转写。模型经 llama.cpp 生态的 llama-server 运行，全部推理在本机完成，截图以 AES 加密存储并提供敏感信息自动脱敏、无痕模式与自动保留期删除。首次启动时自动下载 AI 依赖包与 llama-server，通过内置 Model Hub 下载 GGUF 模型。提供 MCP Server 将屏幕历史暴露给 Claude Desktop、Cursor、VS Code。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- Gemma 4 单模型承担视觉+音频+推理，E2B 默认（~4GB VRAM）
-- 语义嵌入+FTS5 混合搜索与对话式 RAG（支持追问与视觉回退）
-- 语音备忘与会议转录（检测 Zoom/Teams/Webex/Slack/Discord，默认关闭）
-- 隐私机制：本地处理、PII 正则脱敏、AES 加密、数据保留期自动删除
+- 单模型（Gemma 4 E2B/E4B/12B）覆盖视觉分析、音频转写与推理
+- 内容变化触发的智能捕获，带 pHash 缓存与重负载应用自动暂停
+- 语义（MiniLM）+ FTS5 关键词混合搜索与对话式 RAG
+- MCP Server 可对接 Claude Desktop、Cursor、VS Code
 
 ## 适用场景
 
-- 回溯查找'刚才在屏幕上看到过什么'的内容
-- 询问屏幕历史中的具体信息（如某条聊天消息）
-- 本地记录并总结会议，无需云端服务
+- 回顾一天中看过或用过的屏幕内容
+- 直接询问屏幕历史中的具体信息（如某条消息内容）
+- 录制并转写会议，生成结构化摘要
+- 通过 MCP 让编辑器/助手读取屏幕历史
 
 ## 场景标签
 
-`语义搜索` `语音识别` `聊天机器人` · 领域:对话与助手
+`RAG` `语音识别` `知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: **Captures your screen → Analyzes with Gemma 4 → Builds a searchable AI memory**
-> L37: - **🔬 Gemma 4 Vision Analysis** — Every screenshot analyzed: app detection, activity categorization, mood, scene de
 > L39: - **💬 Chat with Memory** — Conversational RAG with follow-up support. Ask "what did Alex say on Discord?" → get the
+> L195: - Auto-detect your GPU and download `llama-server` if not found (CUDA/CPU auto-selected)
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7c4c67828fbb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8841a900593b` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 192 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/pab1it0/awesome-a2a) · [官网](https://github.com/pab1it0/awesome-a2a) · 个人维护
 
-**A2A 协议服务器与客户端的策展清单**
+**A2A 协议服务器、客户端与教程的策展清单**
 
-收录并组织 Agent2Agent（A2A，Google 提出的开源 agent 互操作协议）兼容服务器实现的 curated list，面向构建互操作 AI agent 系统的开发者。条目按位置服务、商业工具、图像生成、金融服务、搜索与数据提取、通信服务等类别组织，并用徽标标注官方实现、编程语言、云端/本地、操作系统等属性；另收录可对接 A2A 服务器的客户端（Claude、Gemini 等）与入门教程。本仓库为清单本身，不提供可安装的软件。
+收录并组织符合 Agent2Agent (A2A) 协议的开源服务器实现，按官方示例、位置服务、商业工具、图像生成、金融服务、搜索与数据提取等类别编排；条目以图标标注官方实现状态、编程语言、本地/云部署与支持的操作系统。A2A 是 Google 发起的开放协议，用于不同 AI agent 通过标准接口发现能力、提交任务、监控进度与获取结果。清单面向希望构建可互操作 AI agent 系统的开发者，另含客户端列表与入门教程链接。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按 10+ 个类别组织 A2A 兼容服务器条目
-- 徽标体系标注官方实现、语言、云端/本地与操作系统
-- 收录 A2A 客户端（Claude、Gemini 等）与入门教程
+- 按 13 个服务类别组织 A2A 服务器实现清单
+- 图标标注语言/部署方式（本地/云）/操作系统
+- 区分官方实现与社区实现（🎖️ 标记）
+- 附 A2A 客户端列表与入门教程链接
 
 ## 适用场景
 
-- 为我的 agent 系统查找可用的 A2A 服务器实现
-- 了解 A2A 协议生态中各语言与部署形态的覆盖情况
-- 入门学习 A2A 协议与服务器开发
+- 为 agent 系统查找符合 A2A 协议的现成服务器实现
+- 了解 Google A2A 协议的官方示例与用法
+- 按类别（金融/位置/图像等）寻找可互操作的 agent 服务
 
 ## 场景标签
 
@@ -37,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5: A curated list of awesome Agent2Agent (A2A) protocol servers. This repository collects and organizes A2A-compliant s
-> L11: A2A (Agent2Agent) is an open protocol created by Google that enables different AI agents to communicate and collabo
+> L52: ## Server Implementations
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `5438f8534a45` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `ac91fbcdc792` · [字段定义](../../DATASET.md)*

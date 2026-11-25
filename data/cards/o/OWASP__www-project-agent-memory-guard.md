@@ -2,9 +2,9 @@
 
 ⭐ 211 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/OWASP/www-project-agent-memory-guard) · [官网](https://owasp.org/projects/agent-memory-guard) · 组织维护
 
-**OWASP 项目：拦截 AI agent 记忆投毒的运行时防御中间件**
+**为 AI agent 记忆存储提供运行时防投毒防护的安全中间件**
 
-位于 agent 与其记忆存储之间的检查层：对每次读写经检测器流水线（提示注入、密钥/PII 泄露、保护键篡改、大小异常、自我强化循环）与 YAML 声明式策略处理，动作包括 allow/redact/quarantine/block，并输出结构化 SecurityEvent 供 SIEM 关联。无 API key、本地运行。提供 LangChain、OpenAI Agents、AutoGen、CrewAI、mem0 集成及配套基准 amg-bench。映射 NIST AI RMF 与 EU AI Act；strict 预设在自测基准中得 D 级（缺持久化检测器）。
+面向 AI agent 的记忆投毒运行时防御库（OWASP ASI06 参考实现）：在 agent 与其记忆存储之间筛查每次读写，内置提示注入、敏感数据泄漏、受保护键篡改、尺寸异常与自我强化循环检测器，配合 YAML 声明式策略输出 allow/redact/quarantine/block 动作；每次决策产生结构化 SecurityEvent 支持取证回滚。无需 API key、本地运行，附带 55 例基准与 amg-bench 评分工具，支持 SIEM 关联与 OpenTelemetry 导出。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 读写路径上的检测器流水线（提示注入/密钥泄露/保护键篡改等）+ YAML 策略（allow/redact/quarantine/block）
-- SHA-256 完整性基线与快照回滚、retire_if 谓词式退役
-- 四类来源标注（external_tool/user_input/agent_authored/system）与 OpenTelemetry 导出
-- 附带框架中立的记忆安全基准 AMSB，可对 mem0/Letta/Zep 等评分
+- 内置提示注入、PII 泄漏、受保护键篡改、尺寸异常、自我强化循环检测器
+- YAML 声明式策略映射到 allow/redact/quarantine/block 动作
+- 提供 LangChain GuardedChatMessageHistory 中间件及 OpenAI Agents/AutoGen/mem0/CrewAI 适配
+- amg-bench 基准工具可对任意记忆系统按三方法适配器评分
 
 ## 适用场景
 
-- 在 LangChain/AutoGen/CrewAI 等 agent 的记忆读写中拦截投毒载荷
-- 对现有记忆系统做投毒生命周期韧性评分
-- 满足 NIST AI RMF / EU AI Act 相关合规控制映射
+- 为跨会话记忆的 agent 拦截记忆投毒攻击
+- 给 LangChain agent 加一层输入输出与工具输出防护
+- 按 NIST AI RMF / EU AI Act 要求落实记忆安全控制
 
 ## 场景标签
 
-`Agent 记忆` `网络安全` `模型评测` · 领域:Agent 开发
+`Agent 记忆` `网络安全` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L83: Agent Memory Guard sits between the agent and its memory store, screening every operation through a pipeline of det
+> L149: - **Drop-in middleware** — ships with `GuardedChatMessageHistory` for LangChain; framework-agnostic `MemoryStore` 
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3f3972d07e65` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1185ed4761be` · [字段定义](../../DATASET.md)*

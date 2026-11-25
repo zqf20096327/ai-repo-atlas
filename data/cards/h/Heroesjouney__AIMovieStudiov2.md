@@ -2,9 +2,9 @@
 
 ⭐ 208 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Heroesjouney/AIMovieStudiov2) · 个人维护
 
-**面向电影制作者的模型无关 AI 电影制作工作台**
+**面向独立创作者的模型无关 AI 电影制作工作台**
 
-浏览器端 AI 电影制作工作站：在 3D 舞台上摆放虚拟相机取景，生成 AI 分镜图并转为视频，添加对白与音频后导出时间线 XML 供 Premiere/DaVinci 等剪辑。通过 "Driver System" 适配器在本地 ComfyUI 与云 API（Fal/Replicate）间切换，支持多参考图保持角色与场景连续性、LoRA 管理、Fountain/FDX 剧本导入，以及实验性的 3D 相机预演与长镜头模式。面向不要求开发背景的创作者，但本地部署需 Python 3.10+、Node.js 18+、ComfyUI 与 CUDA GPU（也可纯云端）。项目自述处于活跃开发期，功能可能变动。
+浏览器端的 AI 电影制作工作站：在 3D 空间中布置虚拟相机取景、用 AI 生成分镜帧并转为视频、加入对白与音频，最终导出时间线 XML（可导入 Premiere/DaVinci）。本地数据存储，无云端依赖。通过适配器模式接入本地 ComfyUI 或 Fal/Replicate 云 API，可在不改动 UI 的情况下切换生成引擎；支持 LoRA、自定义工作流上传与多参考图一致性控制。项目标注为进行中，部分管线为实验性，版本间可能出现破坏性变更。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- Driver System 在本地 ComfyUI 与云 API（Fal/Replicate）间切换而 UI 不变
-- 3D 分镜：虚拟相机取景、180° 轴线警告、实验性 3D 相机预演渲染 MP4
-- 多参考图生成保持角色/场景连续性，UI 内管理 LoRA 与自定义 ComfyUI 工作流
-- Fountain/FDX 剧本导入并自动推断时段、情绪与光照
+- 3D 分镜：虚拟相机取景、FOV 锥、180° 轴线违规警告
+- Driver 系统在本地 ComfyUI 与 Fal/Replicate 云 API 间切换
+- 多参考图注入的连续性系统（角色/场景一致性锁定）
+- 剧本导入（Fountain/.fdx）与时间线 XML 导出
 
 ## 适用场景
 
-- 独立创作者在 3D 舞台规划镜头并生成 AI 分镜与视频
-- 用本地 ComfyUI 或云 API 生成保持角色一致性的连续画面
-- 将分镜组装为时间线并导出 XML 到 Premiere/DaVinci 剪辑
+- 独立创作者在开拍前生成分镜与概念样片
+- 为提案搭建可与制片方案并列的视觉 pitch 包
+- 用剧本文件批量拆解场景并生成分镜板
+- 在 LED 虚拟制片流程前做 3D 相机预演
 
 ## 场景标签
 
@@ -39,7 +40,6 @@
 
 > L37: AI Movie Studio 2 is a browser-based, **model-agnostic** AI filmmaking workstation. You design scenes, place camera
 > L64: - **🔌 Works with Any AI Model** - The "Driver System" lets you swap between local ComfyUI and cloud providers (Fal,
-> L69: - **🎞️ Timeline & Export** - Assemble shots into a timeline, add audio, and export to XML for editing in Premiere, 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7e883ef4fcd1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `63e6afca70e5` · [字段定义](../../DATASET.md)*

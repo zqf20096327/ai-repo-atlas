@@ -2,9 +2,9 @@
 
 ⭐ 237 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/AIpRoBuilder/FlowX) · [官网](https://www.flow-x.work) · 组织维护
 
-**让 AI agent 用自然语言生成并运行工作流的 MCP 服务器与 Python SDK**
+**让 coding agent 构建、审计并运行 AI 工作流的 MCP server 与 SDK**
 
-FlowX 是一个开源 Generative Workflow 层：MCP 服务器、Python SDK 与 A2A 适配器共享同一核心，让 AI agent 将自然语言意图转换为 workflow.json 图结构、节点 Python 代码与可运行的 FastAPI 后端，并在同一对话中检查、运行、修改该工作流，产物持久化在 workspace/workflows 下可复用。主要交互路径为本地 stdio MCP，A2A 端点目前为非流式构建。需要 Python 3.10+，通过 LLM provider/model/API key 环境变量配置生成所用模型。
+FlowX 通过 MCP、Python SDK 或 A2A 三种接口让外部 coding agent 构建工作流：每个构建步骤返回包含契约、规则与工件的 packet，由宿主 agent 编写代码；FlowX 负责审计、运行 pytest、发布版本化节点并渲染 FastAPI 后端运行。自身不调用模型、无需模型 API key。节点可输出 prompt/图像/视频卡片，提供媒体处理工具链（Pillow/FFmpeg/可选 Blender）。生成代码与测试不在沙箱中运行，provider 调用可能计费。安装方式为 git clone 后 pip/Poetry/uv 安装。
 
 ## 筛选速览
 
@@ -15,21 +15,21 @@ FlowX 是一个开源 Generative Workflow 层：MCP 服务器、Python SDK 与 A
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 意图 → 工作流图 → 节点代码 → FastAPI 后端的生成流水线
-- 对话式细化：后续修改只重建受影响节点，未变节点复用
-- MCP（stdio/FastMCP）、Python SDK、A2A（message/send 等 JSON-RPC）三种接入方式
-- 工作流产物落盘持久化，可列出节点、按 step id 定向修改
+- 本地 stdio MCP server、Python SDK、非流式 A2A 三种接口
+- 契约驱动的节点级审计与 pytest 测试，未通过节点不予发布
+- 支持整工作流或单节点的演进（evolve），复用未变更节点
+- 生成节点可返回 prompt/图像/视频卡片
 
 ## 适用场景
 
-- 在 MCP 客户端对话中让 agent 构建并运行工单分类、分派、草拟回复等流程
-- 通过 Python SDK 在自有应用后端嵌入工作流生成与执行能力
-- 让另一个 agent 通过 A2A 端点委托 FlowX 生成工作流
+- 用自然语言描述意图，让 agent 生成可编辑、可复用的工作流
+- 为生成的智能体工作流渲染 FastAPI 后端并本地运行
+- 修改单个节点时复用其余未变更的节点
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ FlowX 是一个开源 Generative Workflow 层：MCP 服务器、Python SDK 与 A
 
 ## 证据(README 行号)
 
-> L19: FlowX is an **MCP server and Python SDK that lets AI agents build workflows**. Describe a process in plain language
-> L62: |**FlowX: Generative Workflow**|Turn intent into workflow artifacts; expose tools to inspect, execute, and refine t
-> L239: The Generative Workflow layer has one shared core and three agent-facing interfaces: `flowx_core` plans, generates
+> L27: FlowX lets AI agents **build, run, and evolve workflows** through MCP, a Python SDK, or A2A. FlowX does not call a 
+> L37: - **[2026.11.22]** 🧭 **Agent-driven builds; no LLM inside FlowX.** FlowX is now two things: a **workflow builder** 
+> L63: - 🔌 **Choose an interface:** local stdio MCP, Python SDK, or non-streaming A2A (a build is an `input-required` task
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `70652fc8741f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e7ca7cdfb343` · [字段定义](../../DATASET.md)*

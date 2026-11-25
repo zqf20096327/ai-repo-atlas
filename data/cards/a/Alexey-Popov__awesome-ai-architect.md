@@ -2,9 +2,9 @@
 
 ⭐ 244 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Alexey-Popov/awesome-ai-architect) · 个人维护
 
-**面向 AI 架构师的英文学习资源与面试准备清单**
+**面向解决方案架构师的 AI 系统设计学习资源清单**
 
-一个 awesome-list 仓库，为希望成为 AI 方案架构师的读者策展学习材料：主题覆盖 RAG、向量存储、推理基础设施、评测与可观测、安全与红队、多云与模型路由等 AI 架构核心议题，并包含软件工程 AI 技能、认证、职业发展与面试准备板块。每个主题页面遵循统一结构（TL;DR、Quickstart、Key Concepts、Common Pitfalls 等），使用 Mermaid 图与来源标注。仓库以 Markdown 指南形式提供，无安装步骤，MIT 许可。
+一个 awesome 类型的知识清单，按核心主题、AI 系统设计、软件工程技能、学习资源、职业发展与面试准备等板块组织条目，覆盖 RAG/agent 架构模式、向量存储、推理基础设施、可观测性、安全护栏、多租户、成本经济、架构决策记录等内容。每个条目页面采用统一结构（TL;DR、Quickstart、关键概念、真实案例、常见陷阱等），条目附来源出处。定位读者是希望掌握 AI 工程与解决方案架构结合的架构师与顾问。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 覆盖 RAG、代理、推理基础设施、安全与红队等 AI 架构主题
-- 每个主题页面有统一结构：TL;DR、Quickstart、常见陷阱等
-- 包含认证、职业指南与 GenAI 系统设计面试准备内容
+- 按核心主题/系统设计/工程技能/职业/面试五大板块组织条目
+- 每个条目页面遵循 TL;DR→Quickstart→关键概念→真实案例的统一结构
+- 包含模型路由、多 LLM 策略、KV Cache 成本、Agent 协议等 AI 架构专题
+- 以 Mermaid 图表展示架构
 
 ## 适用场景
 
-- 系统性学习 AI 工程与方案架构知识
-- 准备 AI/方案架构师面试与认证
-- 按目录查找 RAG、模型路由、多云等特定主题的入门指引
+- 学习如何将 RAG、agent、推理服务设计进可扩展的系统架构
+- 准备 GenAI 系统设计面试与架构师认证
+- 为 AI 平台规划多租户、限流、缓存与成本核算方案
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L78: This repository curates learning resources, certifications, career tips, and interview prep materials to help you g
-> L86: - **Curated resources** from official docs, reputable sources, and "awesome" lists
+> L108: This repository curates learning resources, certifications, career tips, and interview prep materials to help you 
+> L116: - **Curated resources** from official docs, reputable sources, and "awesome" lists
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5773d2d0808e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1968f5f82aba` · [字段定义](../../DATASET.md)*

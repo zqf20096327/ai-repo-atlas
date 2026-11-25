@@ -2,9 +2,9 @@
 
 ⭐ 199 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kstevica/captain-claw) · [官网](https://captain-claw.com) · 个人维护
 
-**自托管多 AI agent 编排框架：多模式协同与完整编码流水线**
+**自托管多智能体平台：编排专家团队并交付工作成果**
 
-Python 实现的自托管 agent 编排框架，提供七种编排模式（Agent Forge、Agent Council、Basna、Vatra、Code、Flight Deck、Bat）、每个 agent 51 个内置工具、6 层共享记忆与 31 个预置专家角色。Code 模式为计划→构建→三独立评审→修复循环的编码流水线，每阶段 git 提交并导出可审计 Markdown 记录。支持接入 OpenAI、Anthropic、Gemini、DeepSeek、Ollama、OpenRouter 或纯本地运行；0.8.0 加入团队多用户、邮箱/眼镜/M5Stack 硬件语音客户端等界面。MIT 许可，作者声明独立开发（L70）。
+Python 编写的自托管多智能体指挥平台（MIT 许可）：提供 7 种编排模式、132 个预置角色模板、6 层共享记忆、83 个内置工具、Code 编码流水线（计划→构建→独立审查）、Flows 确定性工作流、任务看板与审批机制，支持经 BotPort 跨设备（VPS/笔记本/树莓派）互借 agent，带团队 kiosk、定时任务（First Mate）、匿名化与数据房间，可接入 WhatsApp/Telegram/M5Stack 语音设备。可用任何主流 LLM，或经 Ollama 100% 本地运行。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Python 实现的自托管 agent 编排框架，提供七种编排模式（Agent 
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,26 @@ Python 实现的自托管 agent 编排框架，提供七种编排模式（Agent 
 
 ## 能力要点
 
-- 七种编排模式与 31 个预置专家角色
-- Code 编码流水线：计划→批准→构建→三并行独立评审→封顶修复循环
-- 模型无关：可接多家商业 API 或用 Ollama 100% 本地运行
-- M5Stack StickS3/StopWatch 按键说话语音客户端与团队多用户 Flight Deck
+- 7 种编排模式与 132 个预置 agent 角色模板
+- 编码流水线：计划→批准→构建→三个独立审查者→修复
+- 6 层跨会话共享记忆与匿名化隐私门
+- 支持 WebSocket/HTTP/签名 webhook/MCP 双向接入
 
 ## 适用场景
 
-- 组建并监控多专家 agent 团队完成研究或工程任务
-- 用带独立评审的编码流水线在本地仓库上开发软件
-- 团队共享 agent 与密钥，在收件箱、眼镜、手持设备上使用
+- 自托管搭建专家 agent 团队协作完成研究或运维任务
+- 用编码流水线在自己仓库里以多审查流程交付代码
+- 团队 kiosk 中按计划限制共享使用 agent
+- 以 Ollama 本地模型运行保证数据不出本机
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `编码 Agent` `代码审查` · 领域:Agent 开发
+`Agent 记忆` `多智能体` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L19: A **self-hosted framework for orchestrating fleets of specialist AI agents** — from **ensemble reasoning** (seven o
-> L31: Describe what you want built. A router sizes the job; big work runs **plan → your approval → build → three independ
+> L13: > Most AI tools give you one agent in a chat box. Captain **Flight Deck** is a multi-agent command center: spawn sp
+> L35: - **🔓 Yours, end to end.** Self-hosted, MIT, bring your own keys or run 100% local with Ollama. No lock-in.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `4d9a1e7cd1e1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b5e7ebaa2779` · [字段定义](../../DATASET.md)*

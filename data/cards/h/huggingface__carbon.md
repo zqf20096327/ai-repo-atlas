@@ -1,10 +1,10 @@
 # huggingface/carbon
 
-⭐ 261 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/huggingface/carbon) · 组织维护
+⭐ 261 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/huggingface/carbon) · 组织维护 · 中文 README
 
-**Hugging Face 的 DNA 基因组基础模型及评测/微调代码库**
+**Hugging Face 的基因组基础模型及训练评测工具库**
 
-Carbon 是 Hugging Face 与中关村学院、那不勒斯大学等合作发布的基因组基础模型家族（500M/3B/8B），在 1T DNA token（约 6T 碱基对）上训练，采用 BPE+6-mer 混合分词器并以 <dna> 标签切换。仓库提供模型推理示例、七个零样本 DNA 评测（变异效应预测、序列恢复、扰动任务、Genome-NIAH 长上下文检索，支持 Carbon/GENERator/Evo2 三家后端对比）以及分类微调、FNS 微调与持续预训练脚本。许可 Apache 2.0。
+Hugging Face 发布的基因组基础模型集合，包含 Carbon-500M/3B/8B 与 Carbon-X 等模型。每个模型发布放在独立目录中，自带依赖、训练配方与评测脚本；carbon/ 目录提供零样本 DNA 评测、微调配方与嵌入分析，carbon-x/ 目录提供 midtraining、SFT 与 RL 配方及 DNA 理解评测。使用 uv 同步依赖，在对应目录内运行命令。技术报告发布于 bioRxiv，采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,24 @@ Carbon 是 Hugging Face 与中关村学院、那不勒斯大学等合作发布�
 
 ## 能力要点
 
-- 500M/3B/8B 三个因果语言模型，训练于 1T DNA token
-- 七个零样本 DNA 评测，单一后端标志跨 Carbon/GENERator/Evo2 运行
-- 基于 transformers 的推理与零样本变异打分（读取全序列 log-likelihood）
-- 微调配方：分类、FNS 因子化核苷酸监督、持续预训练
+- 提供 Carbon-500M/3B/8B 与 Carbon-X 多个基因组基础模型
+- 每个模型目录自带依赖、训练配方与评测脚本
+- 覆盖零样本 DNA 评测、SFT/RL 训练与嵌入分析
+- 技术报告发布于 bioRxiv
 
 ## 适用场景
 
-- 我对 DNA 序列做零样本变异效应预测
-- 我用统一评测套件比较基因组基础模型
-- 我在下游任务上微调 Carbon 模型或对新物种持续预训练
+- 对 DNA 序列做零样本评测与嵌入分析
+- 按提供的配方对基因组模型进行微调或 SFT/RL 训练
 
 ## 场景标签
 
-`模型评测` `微调` `科研工具` · 领域:评测与运维
+`模型评测` `微调` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L3: Genomic foundation models from Hugging Face. Carbon is a family of causal
-> L4: language models trained on **1T tokens of DNA / 6T DNA base pairs** from the
-> L92: This repo ships a **suite of seven zero-shot DNA evaluations** with
+> L3: Genomic foundation models from Hugging Face.
+> L10: |`carbon/`|Carbon-500M, Carbon-3B, Carbon-8B|Zero-shot DNA evals, finetuning recipes, embedding analysis|
 
 ## 星数曲线
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3449af717a2e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `823093372bd3` · [字段定义](../../DATASET.md)*

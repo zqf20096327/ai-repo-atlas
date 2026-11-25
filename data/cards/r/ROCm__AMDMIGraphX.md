@@ -2,9 +2,9 @@
 
 ⭐ 341 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ROCm/AMDMIGraphX) · [官网](https://rocm.docs.amd.com/projects/AMDMIGraphX/en/latest/) · 组织维护
 
-**AMD GPU 机器学习模型推理加速的图优化引擎**
+**AMD GPU 上的机器学习模型推理图优化引擎**
 
-AMD MIGraphX 是 AMD 的图推理引擎，用于加速机器学习模型推理，运行于 ROCm 平台之上。它读取 ONNX 模型文件，在 AMD GPU 上做图优化并执行推理，提供 C/C++ API 与 Python 绑定，支持模型序列化为 JSON 与二进制格式，并通过 SQLite3 记录内核调优信息。安装前必须先装 ROCm；提供 apt 二进制安装、rbuild/CMake 源码编译及 Docker 开发环境三种途径。构建依赖包括 MIOpen、rocBLAS、HIP、Protobuf 等。
+AMD MIGraphX 是 ROCm 生态中的图推理引擎，用于加速机器学习模型推理。README 覆盖安装与构建：可通过 Linux 发行版包管理器、pip 或 tarball 安装二进制包，也可用 rbuild、CMake 或 Docker 从源码构建。构建依赖 ROCm、MIOpen、rocBLAS、HIP 等 GPU 运行组件，以及 Protobuf、pybind11 等库；支持 Python 模块与 C/C++ API 调用（CMake find_package）。安装前提是先安装 ROCm。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ AMD MIGraphX 是 AMD 的图推理引擎，用于加速机器学习模型推理�
 
 ## 能力要点
 
-- 读取 ONNX 模型并在 AMD GPU 上加速推理
-- 提供 C/C++ API 与 Python 模块（pybind11 绑定）
-- 模型可序列化为 JSON/MessagePack 格式
-- 支持 rbuild、CMake、Docker 三种源码构建方式
+- 提供二进制安装（发行版包管理器/pip/tarball）与源码构建（rbuild/CMake/Docker）
+- 支持 Python 模块与 C/C++ API（CMake find_package 集成）
+- 提供多个 Dockerfile（TheRock 默认与 legacy/Ubuntu 24.04/22.04 变体）
+- 模型序列化支持 JSON 与 MessagePack 格式
 
 ## 适用场景
 
-- 在 AMD GPU 上部署和加速 ONNX 模型推理
-- 在 CMake 项目中通过 C++ API 调用 MIGraphX 推理
-- 用 Docker 搭建 ROCm 开发环境编译运行
+- 在 AMD GPU 上加速深度学习模型推理部署
+- 将推理引擎以 C++ 库集成进自有应用
+- 在 Docker 容器中搭建 ROCm 开发环境
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ AMD MIGraphX 是 AMD 的图推理引擎，用于加速机器学习模型推理�
 ## 证据(README 行号)
 
 > L3: AMD MIGraphX is AMD's graph inference engine, which accelerates machine learning model inference.
-> L9: > You must install ROCm before
+> L39: * MIOpen for running on the GPU
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `2ac21f8331d9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `606042e58967` · [字段定义](../../DATASET.md)*

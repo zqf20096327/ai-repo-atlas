@@ -2,9 +2,9 @@
 
 ⭐ 204 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DaoCloud/DaoCloud-docs) · [官网](https://docs.daocloud.io) · 组织维护 · 中文 README
 
-**DaoCloud 的云原生与 Kubernetes 产品文档中心（中英双语）**
+**DaoCloud 云原生与 AI 服务官方文档站仓库**
 
-由 DaoCloud 公司维护的产品文档仓库，使用 MkDocs 构建，全部页面以 Markdown 编写，通过 GitOps 控制工作流与版本，提供中文与英文双语站点。README 主要面向文档贡献者：说明 Fork/PR 贡献流程、Docker 与 Git 两种本地预览方式（make serve-docker / uv sync + make serve）、文件命名规范与写作规范。产品线通过 CNCF 及 CNCF AI Conformance 认证，覆盖 Kubernetes 1.7–1.36 多个版本，旧版本由 KLTS 继续维护。
+DaoCloud 的文档仓库，内容覆盖其 Kubernetes 与 AI 服务的使用文档，站点基于 MkDocs 构建，页面均为 Markdown。工作流采用 GitOps：贡献者通过 Fork、本地编辑、PR 修改与翻译页面，可经 Docker（make serve-docker）或 uv 依赖方式在本地预览中英文站点。仓库另含文件命名规范、写作规范及样式指南。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- MkDocs + Markdown + GitOps 的双语文档站
-- 通过 CNCF 与 CNCF AI Conformance 认证，覆盖 K8s 1.7–1.36
-- Docker 与本地 Git 两种文档预览/构建方式
-- 明确的文件命名规范与写作规范供贡献者遵循
+- 中英双语文档站点，基于 MkDocs 与 GitOps 工作流
+- Docker 或 uv 两种本地预览方式（make serve zh/en）
+- 覆盖多个 CNCF 一致性认证的 Kubernetes 版本文档
+- 包含命名规范与写作风格指南等贡献规范
 
 ## 适用场景
 
-- 查阅 DaoCloud 云原生与 AI 产品的使用文档
-- 通过 PR 参与文档的修改与翻译
-- 本地构建预览文档站点进行校对
+- 为 DaoCloud 文档提交修改或翻译的 PR
+- 在本地预览文档站点改动
+- 查阅 DaoCloud 支持的 Kubernetes 版本信息
 
 ## 场景标签
 
- · 领域:云原生/文档
+ · 领域:云原生/开发者文档
 
 ## 证据(README 行号)
 
-> L41: > This website is created with MkDocs. All pages are written in markdown. We use GitOps to control workflow and ver
 > L8: DaoCloud is a certified Kubernetes and AI service provider.
+> L42: > This website is created with MkDocs. All pages are written in markdown. We use GitOps to control workflow and ver
+> L70: 3. Preview Chinese docs: `make serve zh`
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `3559ecaee2b7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b377471cdfab` · [字段定义](../../DATASET.md)*

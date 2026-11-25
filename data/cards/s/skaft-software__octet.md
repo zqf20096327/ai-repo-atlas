@@ -1,10 +1,10 @@
 # skaft-software/octet
 
-⭐ 245 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/skaft-software/octet) · [官网](https://octet.skaft.org) · 组织维护
+⭐ 245 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/skaft-software/octet) · [官网](https://octet.skaft.org) · 个人维护
 
-**Rust 编写的终端编码 agent，支持多模态输入与任意语言扩展**
+**终端里的 Rust 原生编码 agent，支持任意语言扩展**
 
-原生 Rust 单进程的终端编码代理：读代码、编辑文件、跑测试、管理会话，核心无需 Node/Python 运行时。可接入云端或本地模型，会话可恢复；扩展以独立子进程形式通过 JSON-RPC 2.0 通信，提供 Python/TypeScript/Rust/C++/C 的 SDK 与若干第一方集成（MCP、子代理、computer-use、web-search）。支持音频输入与桌面操控（视模型路由而定），并附带实验性的 Pi 扩展兼容适配层。项目自述为 hobby project，Windows 为 preview。
+单进程 Rust 终端编码工具：读取代码、编辑文件、运行测试、管理会话，核心不依赖 Node/Python/Bun。工具以 JSON-RPC 2.0 子进程形式扩展，可用 Python/TypeScript/Rust/C++ 或无 SDK 实现；支持音频输入与 computer-use 类操作。云模型或本地模型均可接入，会话可恢复。Pi 扩展经由可选实验性适配器 octet-pi-compat 运行，需 Node 22.19+，兼容性按扩展逐个记录。面向在终端工作的开发者。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 单进程 Rust 核心：会话、权限、终端 UI、资源限制一体，无需 Node/Python
-- 扩展为独立进程，经 JSON-RPC 2.0 用任意语言编写
-- 原生音频输入与 computer-use 能力（依赖模型路由）
-- 签名发布、校验和与可复现的基准证据包
+- 单原生 Rust 进程承载 agent 循环、会话、权限与终端 UI
+- 扩展为 JSON-RPC 2.0 子进程，任意语言可写，附 Python/TypeScript/Rust/C++/Perl 示例
+- 原生音频输入，模型可在同一上下文处理 WAV 并调用工具
+- CI 签名发布，附校验和与 Sigstore bundle
 
 ## 适用场景
 
-- 在终端里让 agent 读代码、改文件、跑测试
-- 用任意语言编写 JSON-RPC 扩展来扩展 agent 能力
-- 在音频与桌面操控同一会话中与模型交互
+- 在终端里让 agent 读取代码、编辑文件并跑测试
+- 用任意语言编写自己的 agent 工具扩展
+- 通过适配器运行已有 Pi 扩展并反馈兼容结果
 
 ## 场景标签
 
-`编码 Agent` `多模态` · 领域:编码与开发
+`编码 Agent` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L17: octet reads code, edits files, runs tests and manages sessions from your terminal. One native
-> L21: It runs cloud or local models, keeps resumable sessions, and takes tools as subprocess
-> L23: and **drive your computer** in the same conversation, which is why it exists.
+> L5:  A fast, native coding agent for your terminal.
+> L23: octet reads code, edits files, runs tests and manages sessions from your terminal. One native
+> L27: It runs cloud or local models, keeps resumable sessions, and takes tools as subprocess
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `fb454029cb7a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `34d9fbbf013a` · [字段定义](../../DATASET.md)*

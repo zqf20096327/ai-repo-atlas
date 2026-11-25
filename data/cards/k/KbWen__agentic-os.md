@@ -2,9 +2,9 @@
 
 ⭐ 242 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KbWen/agentic-os) · [官网](https://www.kbwen.com/tags/agentic-os/) · 个人维护 · 中文 README
 
-**AI 编码 agent 的治理框架：用 git hook 与 CI 核验证据**
+**给 AI 编码代理加门禁与证据校验的治理框架**
 
-面向 Claude Code、Codex、Cursor、Copilot、Antigravity 等 Markdown 读取的 AI 编码 agent 的治理层：五步门控工作流（plan/build/review/test/ship）要求每个阶段留有证据。核心组件包括 scan_credentials.py 凭据扫描（可设为 pre-commit hook）、validate.sh 读取工作日志校验阶段与证据缺失、record_test_run.py 记录测试运行指纹，以及按任务类型自动附加的 14 个专家清单。新装默认不运行任何强制机制，需手动启用 hook 与 CI 任务；校验器只查记录缺失，不查伪造记录。通过 git clone 加部署脚本安装。
+面向 AI 编码代理的治理层：通过 plan/build/review/test/ship 五步门禁工作流约束 Claude Code、Codex、Cursor、Copilot、Antigravity 等 Markdown 代理，经 AGENTS.md/CLAUDE.md 等入口文件接入。机制包括独立凭证扫描脚本（可作 pre-commit hook）、读取任务工作日志并校验阶段与证据的本地验证器、按风险分级的多条工作流路径（tiny-fix 到 architecture-change）、跨会话的状态文件与交接记录、14 个按任务类型自动附加的技能清单。安装后默认不启用任何强制项，需按安装器输出手动开启 hook 与 CI。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- scan_credentials.py 凭据扫描可接入 pre-commit hook 与 CI
-- validate.sh 解析任务工作日志，缺失阶段或证据即失败
-- 按任务分类（tiny-fix 到 architecture-change）的五档门控流程
-- 14 个按任务类型自动附加的专家清单与跨会话工作日志
+- 凭证扫描、CI 测试与 validate.sh 工作日志校验三层机器强制手段
+- 按风险分级的五类任务工作流路径（tiny-fix/quick-win/feature/hotfix/architecture-change）
+- 14 个按任务类型自动附加的技能清单（TDD、鉴权安全、迁移检查等）
+- 跨会话状态文件与单分支单写者锁，支持多代理协作
 
 ## 适用场景
 
-- 防止 AI 编码 agent 未测试就声称完成并提交代码
-- 拦截泄漏的密钥进入 git 历史
-- 多 agent 协作仓库中保持决策与证据的可交接记录
+- 防止 AI 编码代理把泄漏密钥提交进 git 历史
+- 要求代理在提供 review/test 证据后才允许 ship
+- 多个 AI 会话共同修改同一仓库时避免工作日志冲突
 
 ## 场景标签
 
- · 领域:开发工具/AI 治理
+`Agent 框架` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L6:  A governance-first layer for AI coding agents — guardrails and a gated workflow for Claude Code, Codex, Cursor, Cop
-> L19:  It checks the evidence behind what your AI coding agent claims — secrets and tests in your git hooks and CI, phase
-> L68: Agentic OS is the enforcement layer. A rules file or a skill pack tells your agent how to behave; this is the part 
+> L64: The second row is the part a rules file can't reach: `validate.sh` parses each task's work log and fails if a requi
+> L144: |**Claude Code**|Native|`CLAUDE.md` entrypoint + Claude platform guide|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6781cba8a8f1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `15b5c9ff9964` · [字段定义](../../DATASET.md)*

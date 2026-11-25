@@ -2,9 +2,9 @@
 
 ⭐ 408 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/inclusionAI/AReno) · 组织维护 · 中文 README
 
-**单节点本地 LLM 强化学习后训练工具包**
+**单节点 LLM RL 后训练工具包：训练、服务、agentic RL 一体**
 
-面向研究人员与开发者的本地 LLM 后训练工具包，支持 RL、SFT/DPO 风格训练、推理服务与 Agentic RL。自包含全栈设计，无需外部训练或推理后端，在单节点上完成从基座 checkpoint 到训练、服务模型的全流程。提供 Trainer SDK 与 CLI（areno train/serve/check/agent），支持 CUDA、昇腾 NPU（CANN/torch_npu）与 Apple Silicon MLX 后端，内置原生 LoRA/QLoRA、多模态、OpenAI 兼容代理与服务端点，可注册自定义算法与硬件后端。最初由蚂蚁集团 ASystem 团队开发，现由社区维护。
+由蚂蚁集团 ASystem 团队发起、社区维护的本地 LLM 后训练工具包，覆盖 RL（GRPO/GSPO）、SFT/DPO、服务与 agentic RL。采用自包含全栈设计，无外部训练或推理后端，通过 --algo 或 Python Trainer 类切换算法；提供 CLI、SDK、Dashboard 与本地运维 agent。支持 CUDA、Ascend NPU、Apple Silicon MLX 三种后端，Linux x86_64/aarch64 或 macOS arm64，Windows 经 WSL2 走 CUDA 路径。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 单节点自包含 train/serve 全栈，无需集群与外部后端
-- CUDA / 昇腾 NPU / Apple Silicon MLX 三种硬件后端
-- Agentic RL：agent 经本地 OpenAI 兼容代理返回显式轨迹并转为可训练样本
-- 原生 LoRA / QLoRA（NF4、双量化、分页优化器），保存标准 PEFT 产物
+- RL/SFT/DPO 算法经 --algo 标志切换，单节点运行无需集群
+- CUDA、Ascend NPU、Apple Silicon MLX 三后端支持
+- Agentic RL：agent 函数经本地 OpenAI 兼容代理返回轨迹用于训练
+- 原生 LoRA/QLoRA，保存标准 PEFT 产物
 
 ## 适用场景
 
-- 在单机上对 Qwen 等模型做 GRPO/GSPO/SFT 后训练
-- 训练后直接以 OpenAI 兼容端点提供服务（含 LoRA 适配器）
-- 运行 Agentic RL 实验（井字棋、SWE-bench 风格编码任务、DuelGrid）
-- 用 areno agent 自然语言生成适配当前机器的训练命令
+- 在单节点上从基座 checkpoint 训练到可服务模型
+- 对 agent 任务做多轮 RL 后训练
+- 在 Apple Silicon 本地跑小模型 RL 实验
 
 ## 场景标签
 
-`强化学习` `微调` `推理引擎` · 领域:训练与推理
+`强化学习` `微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L16: AReno is a local LLM post-training toolkit for RL, SFT/DPO-style training, serving, and agentic RL. It was original
-> L20: AReno's mission is to make LLM RL **accessible** for a broad community of researchers and developers — so you can g
+> L29: - 🪶 **Lightweight**: one self-contained train/serve stack with CUDA, Ascend NPU, and Apple Silicon MLX backends.
+> L43: AReno supports Linux (x86_64 or aarch64) with an NVIDIA GPU and CUDA-enabled
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `884c0bd5bd50` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `820da6c3c18a` · [字段定义](../../DATASET.md)*

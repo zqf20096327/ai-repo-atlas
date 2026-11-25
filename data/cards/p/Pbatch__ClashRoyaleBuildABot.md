@@ -1,10 +1,10 @@
 # Pbatch/ClashRoyaleBuildABot
 
-⭐ 392 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Pbatch/ClashRoyaleBuildABot) · 组织维护
+⭐ 392 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Pbatch/ClashRoyaleBuildABot) · 个人维护
 
-**用计算机视觉生成游戏状态、创建 Clash Royale 游戏机器人**
+**为开发自动玩 Clash Royale 机器人提供状态生成与平台**
 
-面向教育与研究的 Clash Royale 游戏机器人开发平台：通过模拟器（如 BlueStacks）运行游戏，用视觉技术（主题含 YOLOv10、computer-vision）生成游戏状态信息，供机器人决策使用。安装流程分三步：配置模拟器、安装 uv/Python/Git、按指南安装机器人本体；提供 GUI。README 声明仅供教育与研究用途，明确禁止与 Supercell 的 Clash Royale 游戏联用，否则可能违反服务条款。项目处于活跃开发中。
+面向游戏自动化教学与研究的开源平台：通过模拟器运行 Clash Royale，用计算机视觉（YOLO 模型检测）读取游戏画面状态，据此驱动机器人执行出牌等操作。安装流程为配置安卓模拟器、用 uv 安装 Python 环境、再按指南配置机器人本体；更新需手动 git pull 后 uv sync，配置保存在 config.yaml。README 明确仅供教育与研究用途，禁止用于实际 Supercell 游戏。功能列表尚在完善中，正在推进 HP 检测、单位计数、跟踪算法等方向。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 基于视觉的游戏状态生成器，主题含 YOLOv10/computer-vision
-- 提供 GUI 界面
-- 三步安装流程（模拟器、uv/Python/Git、机器人本体）
-- 计划功能含宝箱开启、卡组切换、跟踪算法等
+- 基于计算机视觉/YOLO 的游戏状态检测生成器
+- 通过 ADB 与模拟器（BlueStacks）控制游戏操作
+- 提供 GUI 与配置文件（config.yaml）管理设置
+- 通过 git pull + uv sync 手动更新
 
 ## 适用场景
 
-- 教育场景下学习游戏机器人开发
-- 研究基于视觉的游戏状态识别与决策
-- 参考其目标检测与跟踪实现方式
+- 学习计算机视觉与游戏自动化的实现方式
+- 在模拟器环境中开展游戏 AI 研究实验
+- 为教育目的搭建并调试自己的游戏机器人
 
 ## 场景标签
 
-`目标检测` `GUI 自动化` · 领域:效率与自动化
+ · 领域:游戏自动化/计算机视觉
 
 ## 证据(README 行号)
 
 > L8: Welcome to Clash Royale Build-A-Bot! This project provides an advanced state generator that accurately returns detai
-> L22: 1. **Install and Configure the Emulator:** Follow our Emulator Setup Guide.
-> L48: This open-source bot is intended solely for **educational and research purposes**. It is not affiliated with, autho
+> L36: Our bot is equipped with a variety of functionalities designed for educational and research purposes. We will be up
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `46b2e24813e0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `5abfca6dba0c` · [字段定义](../../DATASET.md)*

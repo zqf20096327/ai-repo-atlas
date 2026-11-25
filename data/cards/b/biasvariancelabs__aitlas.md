@@ -2,9 +2,9 @@
 
 ⭐ 232 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/biasvariancelabs/aitlas) · [官网](https://aitlas.readthedocs.io/) · 组织维护
 
-**面向遥感卫星影像分析的机器学习工具箱，含AI就绪数据集仓库**
+**面向地球观测专家的卫星影像 AI 分析工具箱**
 
-AiTLAS（Artificial Intelligence Toolbox for Earth Observation）提供用于卫星影像探索性与预测性分析的机器学习方法集合，覆盖土地利用/覆盖分类、作物类型预测、语义分割、变化检测与目标检测等任务，并附 AI 就绪的 EO 数据集仓库。面向 EO 专家与 AI 专家双向设计：前者可使用新 AI 方法，后者可获标准化 EO 数据以做基准测试。支持 16 个遥感基础模型及适配器，需 Python 3.12，通过 PyPI 或源码安装，以配置文件驱动训练运行。
+AiTLAS（Artificial Intelligence Toolbox for Earth Observation）提供用于卫星影像探索性与预测性分析的机器学习方法库，并附带 AI-ready 的地球观测数据集仓库。支持土地利用/覆盖分类、作物类型预测、语义分割、变化检测与目标检测等任务；2.0 版接入 16 个遥感基础模型并内置数据-模型适配器，含 AMP 训练、检查点恢复等训练机制。Apache-2.0 许可，要求 Python 3.12，可从 PyPI 安装，配套 Jupyter 示例、论文引用格式与基准测试生态（aitlas-arena、语义数据目录）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ AiTLAS（Artificial Intelligence Toolbox for Earth Observation）提供用于卫
 
 ## 能力要点
 
-- 支持 16 个遥感基础模型（Prithvi、TerraMind、SatMAE 等）及数据-模型适配器
-- 覆盖分类、语义分割、变化检测、目标检测多类任务架构
-- CompositeModel 动态组装 backbone/neck/decoder/head
-- 含 22 个数据集、500+ 模型的 Benchmark Arena 与语义数据目录生态
+- 支持 16 个遥感基础模型（AnySat、Prithvi、SatMAE、TerraMind 等）及输入模态对照表
+- 覆盖变化检测、目标检测、分割等多类模型架构（DETR、SegFormer、ChangeFormer 等）
+- 提供 Jupyter notebook 示例与基准仓库 aitlas-arena（500+ 模型、22 个数据集）
+- 附带 EO 数据集语义数据目录与配套数据集类
 
 ## 适用场景
 
-- 对卫星影像做土地覆盖分类或作物类型预测
-- 在遥感任务上适配和微调基础模型
-- 用标准化 EO 数据集对深度学习方法做基准测试
-- 做遥感变化检测（如洪水、考古遗址分割）
+- 对卫星影像做土地利用与覆盖分类
+- 做作物类型预测与地物语义分割
+- 用基础模型做遥感影像特征提取与变化检测
+- 为 EO 任务寻找与下载 AI-ready 数据集
 
 ## 场景标签
 
-`目标检测` `微调` `模型评测` · 领域:评测与运维
+`目标检测` `模型评测` `科研工具` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L5: The AiTLAS toolbox (Artificial Intelligence Toolbox for Earth Observation) includes state-of-the-art machine learnin
-> L38: - **Change detection**: Added BIT, CGNet, ChangeFormer V6, ChangeMamba, ChangeVIT, CSSM, HRNet SiamConc, SiamCRNN, 
+> L12: - Added comprehensive support for the following **foundation models**: AnySat, CACo, Copernicus-FM, CROMA, DOFA, Ga
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7b9ccb75848f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a06c6669ca70` · [字段定义](../../DATASET.md)*

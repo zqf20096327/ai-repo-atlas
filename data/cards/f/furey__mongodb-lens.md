@@ -2,9 +2,9 @@
 
 ⭐ 207 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/furey/mongodb-lens) · [官网](https://www.npmjs.com/package/mongodb-lens) · 个人维护
 
-**面向 MongoDB 数据库的全功能 MCP 本地服务器**
+**让 LLM 通过自然语言操作 MongoDB 的 MCP 服务器**
 
-本地运行的 Model Context Protocol (MCP) 服务器，向 LLM 客户端（如 Claude Desktop、Cursor）提供 MongoDB 数据库的完整访问能力：40 个工具覆盖查询、聚合、索引、用户管理、GridFS、事务、变更监听等；12 个资源暴露索引/模式/性能/副本集等元数据；13 个提示模板辅助聚合构建、查询优化、SQL 转换与安全审计。破坏性操作需两步确认，支持多连接别名、自动重连与配置文件，兼容新旧 MongoDB 版本。安装途径含 NPX、Docker Hub 与源码运行。
+一个本地运行的 Model Context Protocol 服务器，将 MongoDB 数据库暴露给 LLM 客户端：提供 40 余个工具（查询、聚合、建索引、GridFS、事务、地理/全文检索、破坏性操作两步确认）、12 类资源（schema、统计、副本集状态等）与 14 个提示模板（查询优化、备份策略、SQL 转 MongoDB 等）。支持多连接别名、schema 推断、查询防护与缓存管理。通过 NPX、Docker Hub、源码三种方式安装，兼容 MongoDB 4.0 及以上，旧版本需降级驱动。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 40 个工具 + 12 个资源 + 13 个提示模板覆盖 MongoDB 管理与查询
-- 破坏性操作的两步确认系统与查询安全限制
-- 支持多命名连接别名与自动重连（指数退避）
-- 兼容 MongoDB 4.0 以下旧版本（需替换 3.x 驱动从源码运行）
+- 40+ 工具覆盖查询、聚合、索引、事务、GridFS 等操作
+- 破坏性操作两步确认系统与可配置查询防护
+- 14 个提示模板：查询优化、备份策略、SQL 转 MongoDB 等
+- NPX / Docker Hub / 源码三种安装方式
 
 ## 适用场景
 
-- 在 Claude Desktop 或 Cursor 中用自然语言查询和优化 MongoDB 数据库
-- 让 LLM 辅助设计聚合管道、索引与数据模型
-- 通过 AI 客户端执行数据库健康检查与安全审计
+- 通过 Claude Desktop 等客户端用自然语言查询 MongoDB 数据
+- 让 LLM 协助分析慢查询并给出索引建议
+- 用 SQL 语句转换为 MongoDB 聚合管道
+- 远程巡检数据库健康状态与 sharding 配置
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `489c69027e61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `68357b913e2c` · [字段定义](../../DATASET.md)*

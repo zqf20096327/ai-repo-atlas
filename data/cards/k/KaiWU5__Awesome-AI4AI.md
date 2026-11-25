@@ -1,10 +1,10 @@
 # KaiWU5/Awesome-AI4AI
 
-⭐ 227 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KaiWU5/Awesome-AI4AI) · [官网](https://kaiwu5.github.io/Awesome-AI4AI/) · 个人维护
+⭐ 227 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KaiWU5/Awesome-AI4AI) · [官网](https://kaiwu5.github.io/Awesome-AI4AI/) · 组织维护
 
-**AI4AI 论文周更策展清单：AI 改进 AI 的研究地图与排名**
+**AI4AI 研究论文策展清单：1885 篇论文+排名+每周新闻**
 
-围绕“AI 改进 AI（AI4AI）”主题的 awesome 类策展仓库，配套一篇 223 篇论文的 AI4AI Survey（23 位作者、7 家机构）。每周一更新：按发布者权威度、讨论量、可验证结果等标准挑选 Top 10 新闻；引用数据取自 Semantic Scholar 与 OpenAlex，GitHub 星数为快照，提供按月均引用与分年度的论文排名，主题覆盖长程 agent、benchmark、harness 设计与递归自我改进。声明排名仅为发现辅助、非质量评分。面向 AI 研究者与 agent 开发者，无安装运行流程，仅浏览阅读。
+围绕 AI 改进 AI（AI4AI）主题的论文目录，按 Benchmark、Harness Design、Model Design 组织，收录 1885 篇论文（836 基准、1217 harness 研究、437 模型研究），并附一份 223 篇论文的综述。每周更新：基于 Semantic Scholar 与 OpenAlex 的引用数、GitHub 星数的排名快照，以及注明来源的每周要闻。声明排名仅为发现辅助而非质量评分，并披露未能刷新的记录数。
 
 ## 筛选速览
 
@@ -20,26 +20,24 @@
 
 ## 能力要点
 
-- 每周一更新的 Top 10 新闻挑选，仅引一手来源
-- 月均引用与分年度引用排名（Semantic Scholar/OpenAlex 数据）
-- 配套 AI4AI Survey 论文（223 篇、长程 agent 到递归自我改进）
-- 提供项目站点、博客、DOI 与 RSIHub Harness 链接
+- 1885 篇论文按基准/harness/模型三类组织，附 223 篇综述
+- 引用数与 GitHub 星数排名，标注快照日期与核验状态
+- 每周要闻仅引用原始来源，性能声明归属发布方
 
 ## 适用场景
 
-- 跟踪 AI 自我改进与长程 agent 领域的每周论文动态
-- 按引用排名查找该领域高关注度论文与代码仓库
-- 作为 agent benchmark 与 harness 研究的入门地图
+- 跟踪自动化 AI 研究与自我改进方向的论文进展
+- 为综述或调研查找相关基准与 harness 研究文献
+- 每周浏览该领域的要闻与高被引论文
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L9:  AI4AI Survey: From Long-Horizon Agents to Recursive Self-Improvement
-> L12:  Top AI-for-AI papers, releases, and blogs — curated every week. Stay tuned 🔥
-> L27:  Top papers and releases, selected every week and verified against primary sources.
+> L3:  🚀 Awesome AI4AI
+> L14:  Living catalog: 1885 papers · 836 benchmarks · 1217 harness studies · 437 model studies Collections overlap. The o
 
 ## 星数曲线
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `8e6be7f3024e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `10d561bc7ad8` · [字段定义](../../DATASET.md)*

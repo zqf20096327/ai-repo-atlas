@@ -2,9 +2,9 @@
 
 ⭐ 230 · TypeScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aartiq/servicenow-mcp) · [官网](https://nowaikit.com) · 组织维护
 
-**把 Claude/ChatGPT/Cursor 等 AI 客户端接入 ServiceNow 的 MCP 服务器**
+**把 Claude/ChatGPT 等 AI 接入 ServiceNow 实例的 MCP 服务器**
 
-ServiceNow MCP 服务器，向 Claude、ChatGPT、Gemini、Cursor、Copilot 等 AI 客户端提供 500+ 工具，覆盖 ITSM、ITOM、CMDB、HRSD、CSM、Flow Designer、脚本与门户，用自然语言读取、构建、查询和自动化 ServiceNow 实例。默认只读，写入/脚本/CMDB 变更为可选开启的标志。通过 npm 全局安装并用 npx 向导写入各 AI 客户端的 MCP 配置；需 Node.js 20+；支持多实例与 OAuth，另有无需安装的 NowAIKit Cloud。源码以 Elastic License 2.0 提供。
+提供 MCP 服务器，将 Claude、ChatGPT、Gemini、Cursor、Copilot 等 AI 客户端连接到 ServiceNow 实例，覆盖 ITSM、ITOM、CMDB、HRSD、CSM、Flow Designer 等领域的 500+ 工具。支持 stdio/SSE/HTTP 多种传输与 OAuth 多实例，默认只读，写入与脚本操作需显式开启。通过 npm 全局安装，提供配置向导自动写入各客户端 MCP 配置，另有本地 Web 控制台与 NowAIKit Cloud 托管形态。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ServiceNow MCP 服务器，向 Claude、ChatGPT、Gemini、Cursor、Copilot 等 
 
 ## 能力要点
 
-- 500+ 工具覆盖 ITSM/ITOM/CMDB/HRSD/CSM 等领域
-- 默认只读，写操作与脚本变更按 opt-in 标志开启
-- npx 向导自动检测 AI 客户端并写入 MCP 配置
-- 影响分析（表/字段/脚本依赖查找）与本地同步功能
+- 500+ ServiceNow 工具，覆盖 ITSM/ITOM/CMDB/HRSD/CSM 等
+- 配置向导自动检测 AI 客户端并写入 MCP 配置
+- 默认只读，写入与 CMDB 变更为 opt-in 开关
+- 多传输（stdio/SSE/HTTP）、OAuth 与多实例支持
 
 ## 适用场景
 
-- 让 Claude/Cursor 等客户端直接查询和操作 ServiceNow 实例
-- 用自然语言创建业务规则、跑 ATF 测试套件
-- 改动表或脚本前先查看依赖项做影响分析
+- 用自然语言查询和管理 ServiceNow 工单、变更与 CMDB
+- 在 Claude Desktop 或 Cursor 中直接操作 ServiceNow 表单与审批
+- 为 IT 运维团队搭建 AI 到 ServiceNow 的自动化通道
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ ServiceNow MCP 服务器，向 Claude、ChatGPT、Gemini、Cursor、Copilot 等 
 ## 证据(README 行号)
 
 > L10: **Connect Claude, ChatGPT, Gemini, Cursor, Copilot, or any AI, to ServiceNow.**
-> L12: 500+ tools across ITSM, ITOM, CMDB, HRSD, CSM, Flow Designer, scripting & portal. Read, build, query and automate a
+> L18: > Requires **Node.js 20+**.
+> L22: npm install -g nowaikit
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3c1c8fbbe07a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `daed6a89492c` · [字段定义](../../DATASET.md)*

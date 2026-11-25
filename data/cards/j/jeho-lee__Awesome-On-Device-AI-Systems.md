@@ -2,9 +2,9 @@
 
 ⭐ 195 · 推送 2026-11-14 · [GitHub](https://github.com/jeho-lee/Awesome-On-Device-AI-Systems) · 个人维护
 
-**端侧 AI 系统策展清单：推理引擎与顶会研究论文汇编**
+**面向移动/边缘设备的端侧 AI 系统资源清单**
 
-面向移动与边缘设备的 on-device AI 系统资源清单：一部分收录可实际部署的推理引擎与 SDK，按通用 ML、LLM/GenAI 专用、厂商专用（NPU/DSP）组织，涵盖 LiteRT、ExecuTorch、ONNX Runtime、MNN、NCNN、llama.cpp、MLC LLM、MLX LM 等；另一部分按主题汇编系统方向研究论文（OSDI/SOSP/MobiSys/ASPLOS 等），覆盖 LLM 移动推理、量化、注意力加速、多 DNN 调度、端侧训练与性能分析工具。仓库本身为编目内容，不提供可运行的软件。
+一份关于端侧（on-device）高效 AI 系统的策展清单，内容分两大板块：推理引擎（通用 ML 运行时、LLM 专用引擎、NPU/DSP 厂商 SDK）与研究论文（按移动 SoC 推理、量化/稀疏化、注意力加速、端侧训练、性能剖析等主题分组）。定位是连接系统研究与实际部署，聚焦在资源受限硬件上优化 LLM/VLM、ViT 等模型。清单由个人维护，部分收录的论文实际面向云端推理加速，作者注明是因可能泛化到端侧场景而收录。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 收录跨平台与厂商专用（Qualcomm/Apple/MediaTek/NVIDIA/Intel）端侧推理引擎
-- 按 8 个主题组织系统方向顶会论文（OSDI/SOSP/MobiSys/ASPLOS 等）
-- 覆盖 LLM 推理、量化稀疏、多 DNN 调度、端侧训练、profiler 等方向
+- 收录推理引擎清单：LiteRT、ExecuTorch、ONNX Runtime、MNN、NCNN 等
+- 按厂商整理 NPU/DSP 专属 SDK：Qualcomm QNN、Core ML、TensorRT、OpenVINO、NeuroPilot
+- 研究论文按主题分组：LLM 移动推理、注意力加速、量化/稀疏、端侧训练、剖析工具
 
 ## 适用场景
 
-- 为移动/边缘项目挑选端侧推理框架或厂商 SDK
-- 按主题检索 on-device AI 系统方向的研究论文
-- 了解端侧推理加速的研究脉络与开源工程对应关系
+- 为端侧部署选型推理引擎或厂商 SDK
+- 查找移动/边缘设备上 LLM 推理与训练相关的系统研究论文
+- 了解注意力加速与量化技术在资源受限设备上的研究进展
 
 ## 场景标签
 
@@ -37,7 +37,7 @@
 ## 证据(README 行号)
 
 > L3: A curated list of **efficient on-device AI systems**, including practical inference engines, benchmarks, and state-o
-> L45: ## 📝 Research Papers
+> L14: - 📝 Research Papers
 
 ## 星数曲线
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `268db133a251` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7ebd796199e6` · [字段定义](../../DATASET.md)*

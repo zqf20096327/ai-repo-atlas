@@ -1,10 +1,10 @@
 # btsouth/toolport
 
-⭐ 246 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/btsouth/toolport) · [官网](https://toolport.app) · 个人维护
+⭐ 246 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/btsouth/toolport) · [官网](https://toolport.app) · 组织维护
 
-**本地优先的 MCP 网关：一次配置 MCP 服务器供各 AI 客户端共用**
+**MCP 本地网关桌面应用：一次配置服务器，供所有 AI 客户端使用**
 
-面向使用 Claude、Cursor、Codex、VS Code 等 AI 客户端的开发者的本地 MCP 网关：添加并认证 MCP 服务器一次，即可在多个客户端间共享，通过访问集控制各客户端可触达的服务器。凭据存于操作系统密钥链而非客户端配置中；支持禁用工具、对破坏性调用要求审批、统一查看活动记录；提供按需工具搜索以减少上下文开销。提供 Windows/macOS/Linux 桌面安装包，另有 Teams 版本与无头网关 Docker 部署方式。
+免费桌面应用与本地 MCP 网关：在本机扫描已安装的 AI 客户端并导入其服务器配置，为各客户端提供单一 Toolport 入口，支持访问集控制各客户端可达的服务器。密钥存入操作系统钥匙串，对工具定义做固定与变更标记，默认 Ask 级别拦截破坏性调用，Strict 级别隔离被改动的工具并阻断检测到的注入。对全量加载工具定义的客户端提供按需工具搜索以减少输入 token。支持 Windows/macOS/Linux 安装包、Arch pacman 仓库、Docker 无头网关，以及 Teams 团队同步（Pro/托管或自托管）。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 一次配置 MCP 服务器，跨 Claude/Cursor/Codex/VS Code 等客户端共享
-- 凭据存于 OS 密钥链，访问集按客户端控制服务器可达范围
-- 按需工具搜索减少客户端每次请求加载全部工具定义的开销
-- 支持禁用工具、破坏性调用审批与集中活动审查
+- 一次配置 MCP 服务器，40+ 客户端（Claude Code、Codex、Cursor、VS Code 等）共用
+- API 密钥移入 OS 钥匙串，工具定义固定、变更标记与隔离
+- 访问集控制各客户端可达服务器；按需工具搜索减少输入 token
+- Pro 同步多机配置；Teams 支持托管与自托管的策略共享
 
 ## 适用场景
 
-- 多个 AI 客户端共用同一套 MCP 服务器配置与凭据
-- 控制各客户端可访问哪些 MCP 服务器和工具
-- 减少上下文占用：代理按需搜索工具而非全量加载
-- 团队共享服务器配置与策略，成员各自保管凭据
+- 统一管理多个 AI 客户端的 MCP 服务器配置
+- 把 API 密钥从明文配置迁移到系统钥匙串
+- 监控并审批工具的破坏性调用与定义变更
+- 团队共享服务器配置与策略，各成员保留自有凭据
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+ · 领域:AI 基础设施/MCP 工具链
 
 ## 证据(README 行号)
 
-> L11: Toolport is a local gateway for MCP, the protocol that gives AI apps access to
-> L13: them across Claude, Cursor, Codex, VS Code, and other clients.
+> L11: Toolport is a free desktop app and local gateway for MCP, the protocol that gives
+> L12: AI apps tools like GitHub, Linear and databases. Add a server once and Claude Code,
+> L65: - Headless gateway and Docker
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1bf94a50c08f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `57dea12d44ea` · [字段定义](../../DATASET.md)*

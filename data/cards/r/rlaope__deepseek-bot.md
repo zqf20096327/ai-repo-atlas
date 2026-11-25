@@ -2,9 +2,9 @@
 
 ⭐ 232 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rlaope/deepseek-bot) · 个人维护
 
-**自托管个人 AI 队友：常驻 Slack/Discord/Telegram 与终端**
+**跨会话记忆的终端与 Slack/Discord/Telegram DeepSeek Agent**
 
-基于 DeepSeek Harness 构建的常驻个人 agent，以 bot 形式接入 Slack、Discord、Telegram 并提供终端 TUI。它会记忆跨重启的会话线程、读取链接与图片、生成 docx/xlsx/pptx 并上传、执行破坏性操作前请求批准；命令运行在仅可写自身工作区的沙箱中。人设与笔记以 Markdown 文件维护。macOS 上以 launchd 服务运行（Windows 仅部分功能可用）。通过 curl 安装脚本安装，需 Node.js 22+ 与 DeepSeek API key。
+DeepSeek Harness 的插件：提供一个常驻 Agent，跨对话保存记忆（USER.md/MEMORY.md/会话索引），可在全屏终端（dsh）以及 Slack、Discord、Telegram 中被 @ 提问。命令在 macOS Seatbelt 沙箱中运行，删除/覆盖类操作需对话内 Allow/Deny 确认；默认使用 DeepSeek 官方 API，也可选 OpenGateway 等 OpenAI 兼容端点。依赖 Node.js 22+ 与 DeepSeek Harness 应用；Windows 仅支持手动运行终端，安装器、服务与沙箱未移植。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- Slack/Discord/Telegram 网关接入，同一 agent 另有终端 TUI
-- 线程记忆跨重启持久，人设与笔记为可编辑的 Markdown 文件
-- 破坏性操作需人工批准，命令运行于受限沙箱
-- 生成 docx/xlsx/pptx 并上传，读取链接与图片
+- dsh 全屏终端界面：流式回答、工具调用 diff 展示，可写 docx/xlsx/pptx、读链接与图片、使用 MCP 工具
+- 持久化记忆：会话跨重启留存，带 recall 索引，每轮注入 persona 与用户/工作记录
+- 对话内审批机制：破坏性命令等待 Allow/Deny
+- Seatbelt 沙箱限制写入范围，提示注入文本在模型看到前被标记
 
 ## 适用场景
 
-- 在团队已有的 Slack/Discord/Telegram 频道里直接 @ 它提问
-- 让它代写报告文档并回传到会话
-- 设置定时监视与提醒（watch/reminder）
+- 在终端里拥有一个记得上下文的持续 AI 助手
+- 在 Slack/Discord/Telegram 群聊中 @ 机器人获取回答
+- 让 Agent 在沙箱中执行文件读写等命令并逐条确认危险操作
 
 ## 场景标签
 
-`AI 助手` `聊天机器人` · 领域:对话与助手
+`AI 助手` `聊天机器人` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5:  An always-on AI teammate for Slack, Discord and Telegram, built on DeepSeek Harness.
-> L68: **It lives where your team already talks.** Mention it in a Slack channel, a Discord server or a
+> L12: **deepseek-bot** is a plugin for DeepSeek Harness.
+> L13: One always-on agent that remembers across conversations, in your terminal, Slack, Discord and Telegram.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `fe64d761e848` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d2917757c83b` · [字段定义](../../DATASET.md)*

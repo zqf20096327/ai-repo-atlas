@@ -2,9 +2,9 @@
 
 ⭐ 199 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sweetrb/apple-notes-mcp) · 个人维护
 
-**让 AI 助手读写管理 macOS Apple Notes 的 MCP 服务器**
+**macOS 上的 Apple Notes MCP 服务器，供 AI 助手读写管理笔记**
 
-本地运行的 Model Context Protocol 服务器，通过 stdio 与 Claude Code/Claude Desktop、Codex、Hermes、Antigravity、Gemini Spark 等 MCP 客户端通信，再用 AppleScript、打包签名的 Apple Shortcuts 和只读数据库访问操作 Mac 上的 Apple Notes：支持读写、搜索、文件夹/账户管理、原生标签、清单、表格、置顶、附件，并可导出 Markdown/HTML/JSON、读取音频转写与绘图、段落锚点链接及全库查询语言。需 macOS + Node.js 20+，数据库类操作需完全磁盘访问权限；不提供 HTTP/SSE/WebSocket 端点。
+在 macOS 本地运行的 Model Context Protocol 服务器，通过 AppleScript、Apple Shortcuts 与只读数据库访问，让 Claude Code、Claude Desktop、Codex 等 MCP 客户端读取、搜索、创建、编辑、整理并导出 Apple Notes 笔记。功能覆盖文件夹与账户管理、原生标签、清单、表格、置顶、附件，支持以 Markdown/HTML/JSON 导出，提供本地 Web 模板编辑器与查询语言。需 macOS、Node.js 20+、自动化与完全磁盘访问权限，部分功能依赖 macOS 版本与 iCloud 账户。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 通过 AppleScript / Apple Shortcuts / 只读数据库三种途径访问 Apple Notes
-- 导出 Markdown（可本地网页编辑模板）/HTML（绘图转 SVG）/JSON，读取音频转写
-- 段落锚点在编辑后仍可解析，附全库查询语言
-- 仅本地 stdio 传输，无远程 HTTP/SSE/OAuth 端点
+- 支持 Claude Code、Claude Desktop、Codex、Hermes、Antigravity 等多种客户端注册方式
+- 管理标签、清单、表格、置顶、链接与附件，支持 Markdown/HTML/JSON 导出
+- 本地通过 AppleScript 与签名的 Apple Shortcuts 操作 Notes，语音转录在设备端运行
+- 提供 npm 包分发，v2.15.1 含可选权限 broker
 
 ## 适用场景
 
-- 让 Claude 或 Codex 帮我保存对话纪要、查找和整理笔记
-- 把 Apple Notes 笔记导出为 Markdown 归档
-- 用 AI 助手按文件夹、标签组织和移动笔记
+- 让 AI 助手把对话内容保存为 Apple Notes 笔记
+- 用自然语言搜索和整理 Mac 上的笔记库
+- 将笔记批量导出为 Markdown 或 HTML
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L3: A Model Context Protocol (MCP) server that lets Claude (Claude Code and Claude Desktop), Codex, and other MCP client
-> L30: The AI assistant communicates with this server, which then uses AppleScript to interact with the Notes app on your 
 > L34: Apple Notes MCP runs on the Mac that holds your Notes library. Your assistant starts a local MCP server over **stdi
+> L46: - A client that can launch a local stdio MCP server on this Mac. The configurations below cover Claude Code, Claude
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f13cc24f5310` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `591d3525b27e` · [字段定义](../../DATASET.md)*

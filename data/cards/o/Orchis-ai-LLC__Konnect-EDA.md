@@ -2,15 +2,15 @@
 
 ⭐ 194 · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/Orchis-ai-LLC/Konnect-EDA) · [官网](https://konnect-eda.orchis.ai) · 组织维护
 
-**面向 KiCad 10 的 AI 辅助 PCB 设计 MCP 插件**
+**让 Claude/Codex 通过 MCP 直接设计 KiCad PCB 的闭源插件**
 
-Orchis.ai LLC 开发的闭源商业 KiCad 10 原生插件，以单个 Rust 二进制形式提供 MCP 服务器，使 Claude、Codex 等 AI 助手能够直接绘制原理图、布局布线 PCB、执行 ERC/DRC 检查、导出生产文件、搜索 JLCPCB 元件库并使用参考电路模板。含 228 个工具、21 个工具集，原理图编辑直接改写 S 表达式文件，PCB 编辑走 KiCad IPC API。测试期免费，1.0 后个人/学生/爱好者免费，商业用途需付费许可。
+以单个 Rust 二进制分发的 KiCad 10 原生插件，通过 MCP 提供 228 个工具、21 个按需工具集：AI 可放置并连线原理图元件、经 KiCad IPC API 实时布局布线、运行 ERC/DRC 与设计审查、检索 JLCPCB 元件库、套用参考电路模板并导出 Gerber/BOM 等生产文件。传输支持 stdio 与 HTTP，本地运行、无遥测；KiCad 10 为必需依赖，Windows 测试最充分，个人使用免费、企业需商业许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
@@ -20,26 +20,27 @@ Orchis.ai LLC 开发的闭源商业 KiCad 10 原生插件，以单个 Rust 二�
 
 ## 能力要点
 
-- 228 个工具、21 个按需工具集，覆盖原理图/PCB/检查/导出
-- 通过 MCP (JSON-RPC over stdio 或 HTTP) 接入 Claude、Codex 等 AI 客户端
-- KiCad 10 IPC API 实时 PCB 编辑，带撤销/重做集成
-- 内置 Claude/Codex 的 KiCad 技能与 agent 指引，附自动刷新原理图查看器
+- 228 个工具覆盖原理图、布局布线、ERC/DRC 与制造导出全流程
+- 通过 KiCad 官方 IPC API 与 kicad-cli 工作，产出普通 KiCad 工程
+- 本地运行，无遥测、无更新检查
+- 捆绑面向 Claude 与 Codex 的 skills/agents，经 konnect init 安装
 
 ## 适用场景
 
-- 让 Claude/Codex 直接在我的 KiCad 项目里放元件、布线
-- 自动跑 ERC/DRC 和电源、去耦等设计审查
-- 按 JLCPCB 元件快照选型并导出 Gerber/BOM 等生产文件
+- 让 AI 助手在 KiCad 中完成原理图绘制与 PCB 布局布线
+- 对现有设计自动执行 ERC/DRC 与设计审查
+- 从 USB-C、 buck 等参考电路模板快速起步
+- 检索 JLCPCB 元件并导出生产文件
 
 ## 场景标签
 
- · 领域:电子设计自动化（EDA）
+ · 领域:EDA/电子设计自动化
 
 ## 证据(README 行号)
 
 > L13: **Your AI designs the board. KiCad stays in charge.** Konnect-EDA is a native KiCad
 > L15: design schematics and PCBs through the Model Context Protocol
-> L14: plugin — a single Rust binary — that lets Claude, Codex and other AI assistants
+> L18: **228 tools across 21 on-demand toolsets.** Schematic capture, PCB layout and
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `9082d0a2ae0e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `165bcfd6cbd0` · [字段定义](../../DATASET.md)*

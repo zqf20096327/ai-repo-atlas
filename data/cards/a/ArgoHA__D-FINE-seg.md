@@ -1,10 +1,10 @@
 # ArgoHA/D-FINE-seg
 
-⭐ 247 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ArgoHA/D-FINE-seg) · [官网](https://dfine-seg.argoai.space) · 个人维护
+⭐ 247 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ArgoHA/D-FINE-seg) · [官网](https://dfine-seg.argoai.space) · 组织维护
 
-**实时目标检测与实例/语义分割训练推理框架，面向开发者**
+**面向视觉开发者的实时检测/分割/关键点统一训练部署框架**
 
-基于 D-FINE 检测核心（非 fork，分割部分从零实现）的端到端视觉框架：一个代码库通过 task 配置项支持目标检测、实例分割与语义分割三种任务，提供 N-X 五种模型规模。工作流覆盖数据准备（YOLO/COCO JSON/PNG mask 格式，支持 RGB+热成像等多通道输入）、训练（DDP、EMA、AMP、Muon 优化器、蒸馏）、导出（ONNX/TensorRT/OpenVINO/CoreML，含 INT8 量化）与多后端推理。预训练权重从 Hugging Face 自动下载，pip 安装即可两行代码预测。限制：基于 Cityscapes 权重微调的模型继承非商业条款。
+一个实时视觉任务的 PyTorch 框架，通过一个配置项（task: detect | segment | sem_seg | kpts）覆盖目标检测、实例分割、语义分割与关键点估计，提供 N 到 X 五种模型规模。工作流覆盖数据准备（YOLO 与 COCO JSON 标注、PNG 语义掩码、4 通道 .npy 多模态输入）、训练（DDP、EMA、AMP、蒸馏）与导出（ONNX、TensorRT、OpenVINO、CoreML）。提供 C++ 动态库 libdfine.so 用于嵌入式部署，预训练权重首次使用时从 Hugging Face 自动下载。安装方式为 pip 或源码。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 一个代码库、一个配置项切换检测/实例分割/语义分割三种任务
-- 导出至 ONNX、TensorRT、OpenVINO、CoreML 并支持 INT8 量化
-- 支持 RGB+thermal/depth/NIR 四通道输入训练
-- 预训练权重首次使用时从 Hugging Face 自动下载
+- 一个配置项在检测/实例分割/语义分割/关键点四类任务间切换，五种模型规模
+- 提供 ONNX、TensorRT、OpenVINO、CoreML 导出及多后端基准推理
+- C++ 核心 libdfine.so：TensorRT 加融合 CUDA 前/后处理，面向机器人与 Jetson 板
+- 支持 RGB+热成像/深度/NIR 的 4 通道输入训练与 SAM3 自动标注
 
 ## 适用场景
 
-- 在自有数据集上训练检测或分割模型并部署到边缘设备
-- 用 COCO/Cityscapes 预训练权重直接做推理或微调
-- 导出多后端模型并跑基准测试选择部署方案
+- 训练自己的检测、分割或姿态估计模型并导出到边缘设备
+- 在机器人/Jetson 上用 C++ 库跑低延迟多任务视觉推理
+- 用热成像或深度通道数据训练多模态检测模型
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+`目标检测` `模型训练` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L20: D-FINE-seg is a framework for real-time **object detection**, **instance segmentation**, and **semantic segmentatio
-> L22: - End-to-end workflow - dataset prep -> training (DDP, EMA, AMP, mosaic) -> export (ONNX, TensorRT, OpenVINO, CoreM
-> L23: - Accuracy - Cityscapes semantic segmentation at native 1024x2048: D-FINE-seg-X reaches 84.84 mIoU at 14.6 ms end-t
+> L21: D-FINE-seg is a framework for real-time **object detection**, **keypoint estimation**, **instance** and **semantic 
+> L53: pip install dfine-seg           # inference + training
+> L43: - **C++ core** - `libdfine.so` for all four tasks: TensorRT plus fused CUDA pre/postprocessing, no dependencies bey
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ff613c80581b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2c13d15d01da` · [字段定义](../../DATASET.md)*

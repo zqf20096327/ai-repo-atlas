@@ -2,9 +2,9 @@
 
 ⭐ 228 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MONZikWasTaken/Framegen) · [官网](https://chromewebstore.google.com/detail/framegen-frame-interpolat/hpdpcjakhclhljfdkpjolonjlopbdhfk) · 个人维护
 
-**浏览器内实时神经视频插帧的 Chrome 扩展**
+**给浏览器视频做实时神经网络插帧的扩展**
 
-Chrome 扩展，将 24-30 fps 的 <video> 实时插帧至 60-240 fps（2×-6×），支持 YouTube 等多数视频站点，DRM 保护视频（Netflix 等）不可用。核心为 2.9 MB 的 RIFE 族蒸馏学生模型，运行在手写 WGSL 的原生 WebGPU compute shader 上，无 ML 框架，全流程 GPU 驻留，720p 每帧约 2 ms（RTX 4060 Ti）。提供自动模式按 GPU 余量选倍率、动漫模式、SR 2× 超分、对比滑块与本地配置档案。无服务器无遥测；推理运行时另以 npm 包 framegen（MIT）提供。要求 Chrome 121+ 与 GPU。
+浏览器扩展，将网页上任意 <video> 元素（24–30fps）实时插帧到 60–240fps。生成管线运行在用户 GPU 上：2.0 版起采用 FlyHigh 引擎，FlyHighFG 网络（0.78M 参数）的 WGSL 内核编译为 WebAssembly，由引擎 Pacer 决定每个显示 tick 输出内容，单帧生成约 1ms。提供 Auto/动漫模式、精确输出速率网格、对比滑块、2x 神经放大、静态像素保护与多语言界面。不支持 DRM 视频站点；无服务器、无遥测。Chrome/Edge 121+ 或 Firefox 142+ 可用。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Chrome 扩展，将 24-30 fps 的 <video> 实时插帧至 60-240 fps（2×-6×�
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@ Chrome 扩展，将 24-30 fps 的 <video> 实时插帧至 60-240 fps（2×-6×�
 
 ## 能力要点
 
-- 手写 WGSL 运行时跑 2.9 MB RIFE 族蒸馏模型，无 ML 框架，全流程 GPU 驻留
-- 任意 <video> 2×-6× 实时插帧，自动模式按 GPU 余量选倍率
-- 动漫模式识别'一拍二'动画并对真实运动插帧
-- 推理运行时以 npm 包 framegen（MIT）供二次开发，权重随包分发
+- 2x–6x 实时插帧任意 <video>，FlyHighFG 网络 0.78M 参数运行于 WebGPU/WebAssembly
+- Auto 模式按 GPU 与显示器自适应输出倍率并在卡顿前回退
+- 动漫模式支持二/三律绘制检测与 cadence 平滑
+- 本地运行：无服务器、无遥测、无数据外发
 
 ## 适用场景
 
-- 在浏览器把 24-30 fps 影视/动漫视频提升到高刷新率显示器的帧率
-- 用对比滑块直观查看插帧前后差异
-- 在自己的网页项目中引入 npm 版运行时做实时插帧
+- 在 YouTube 等网站观看低帧率电影、动画、体育视频时补帧
+- 为动漫内容做逐格运动平滑（动漫模式+cadence smoothing）
+- 高刷新率显示器用户按屏幕刷新率对齐输出帧率
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Chrome 扩展，将 24-30 fps 的 <video> 实时插帧至 60-240 fps（2×-6×�
 
 ## 证据(README 行号)
 
-> L6: video into 60-240 fps in real time - with a neural network running entirely on
-> L184: A distilled RIFE-family student (2.9 MB) runs on a hand-written WGSL runtime -
+> L5: **Smooth video in your browser.** An extension that turns 24 to 30 fps video into 60 to 240 fps in real time, with a
+> L32: Since 2.0 the generation runs on the FlyHigh engine: the FlyHighFG
+> L47: Requirements: **Chrome or Edge 121+** (Windows, macOS with Apple Silicon, Linux) or **Firefox 142+ on Windows**, an
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `354bab13cfb3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `405c0acb959c` · [字段定义](../../DATASET.md)*

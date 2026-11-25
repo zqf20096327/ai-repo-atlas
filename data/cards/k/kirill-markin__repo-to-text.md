@@ -2,9 +2,9 @@
 
 ⭐ 209 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kirill-markin/repo-to-text) · [官网](https://pypi.org/project/repo-to-text/) · 个人维护
 
-**把仓库目录树与文件内容转成单个文本文件，便于分享给 LLM**
+**把代码仓库转成单个文本文件，便于与 LLM 讨论代码**
 
-Python 命令行工具，在仓库目录下运行后生成带时间戳的文本文件：包含目录树与各文件内容，使用 XML 标签组织结构，并复制到剪贴板便于分享给 LLM 讨论代码。支持通过 gitignore 规则与通配符配置忽略项、按最大字数拆分输出、输出到 stdout 或指定目录，另提供 Docker Compose 运行方式与开发安装路径。
+一个 Python 命令行工具，将目录结构与文件内容转换为单一文本文件：包含目录树和以 XML 标签组织的文件内容，结果自动复制到剪贴板。支持通过 YAML 配置文件按 gitignore 规则自定义忽略项（含通配符与排除规则）、按最大词数拆分输出文件、stdout 重定向、指定输出目录，以及 Docker Compose 方式运行。面向需要把代码库内容交给 LLM 进行开发与调试的开发者，依赖 Python 与 git。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Python 命令行工具，在仓库目录下运行后生成带时间戳的文本�
 
 ## 能力要点
 
-- 生成含目录树与文件内容的单文件，用 XML 标签组织结构
-- 输出自动复制到剪贴板
-- 通过 YAML 设置文件支持 gitignore 规则、通配符忽略与按字数拆分
-- 提供 Docker Compose 容器运行方式
+- repo-to-text/flatten 命令一键生成含目录树与文件内容的文本，并复制到剪贴板
+- YAML 设置文件支持 gitignore 规则、通配符与分段忽略配置
+- 支持按最大词数拆分为多个输出文件
+- 提供 Docker Compose 运行方式与 --stdout 管道输出
 
 ## 适用场景
 
-- 把整个代码仓库打包成文本交给 LLM 做开发或调试讨论
-- 通过管道将仓库文本输出给其他命令处理
-- 按规则排除敏感或无关文件后生成精简版仓库文本
+- 把整个代码库打包成文本发给 LLM 进行开发与调试
+- 自定义忽略规则后生成项目文档文本
+- 通过管道将仓库文本输出传递给其他命令
 
 ## 场景标签
 
- · 领域:开发者工具/LLM 辅助
+ · 领域:开发者工具/LLM 辅助开发
 
 ## 证据(README 行号)
 
 > L3: `repo-to-text` converts a directory's structure and contents into a single text file. Run it from the terminal to ge
-> L15: The generated text file will include the directory structure and contents of each file, using XML tags for better s
+> L46: This will create a file named `repo-to-text_YYYY-MM-DD-HH-MM-SS-UTC.txt` in the current directory with the text rep
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a6aa50c64d02` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `08b5457b58db` · [字段定义](../../DATASET.md)*

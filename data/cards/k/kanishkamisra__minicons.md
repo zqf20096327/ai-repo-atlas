@@ -2,15 +2,15 @@
 
 ⭐ 202 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kanishkamisra/minicons) · [官网](https://kanishka.website/minicons) · 个人维护
 
-**给科研者的 Transformer 语言模型行为与表征分析工具库**
+**给NLP研究者提供Transformer语言模型行为与表征分析**
 
-基于 Hugging Face transformers 的 Python 包装库，面向语言模型的行为与表征分析：支持从上下文中抽取词表征（含 encoder 与 seq2seq 模型）、句子可接受度打分（surprisal/log-prob，含多种归约方式）、条件序列与逐 token 打分、Kauf & Ivanova 的改进 MLM 打分（within_word_l2r 等 PLL 度量），并新增视觉-语言模型（如 BLIP-2）打分。以 pip 包发布，附 arXiv 论文（2203.13112）与教程。
+基于 Hugging Face transformers 库的 Python 封装，用于对 Transformer 语言模型做行为与表征分析。主要能力包括：提取上下文词嵌入（支持编码器与 seq2seq 模型）、计算句子的序列得分（surprisal、log-probability 等多种归约方式）、条件序列打分与逐 token 得分，以及视觉-语言模型打分。附教程与论文引用条目（arXiv:2203.13112）。需要 Python 3.11.5 以上版本。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 上下文词表征抽取，支持 BERT 类与 T5 类模型
-- 序列 surprisal/log-prob 打分，支持 MLM/增量 LM/seq2seq 三类模型
-- Kauf & Ivanova 改进版 MLM 逐 token 打分（多种 PLL 度量）
-- 新增 VLMScorer 对 BLIP-2 等视觉-语言模型打分
+- 提取上下文词嵌入，支持 BERT 类编码器与 T5 类 seq2seq 模型
+- 序列打分支持 surprisal、log-probability 及按 token 数归约等多种归约方式
+- 实现 Kauf & Ivanova 的改进 MLM 打分（within_word_l2r 等 PLL 指标）
+- 新增视觉-语言模型打分（示例使用 blip2-opt-2.7b）
 
 ## 适用场景
 
-- 心理学/语言学实验中计算句子的模型 surprisal
-- 分析词在不同上下文中的内部表征
-- 对图文组合做视觉-语言模型合理性打分
+- 计算句子在不同语言模型下的可接受度（surprisal）
+- 为语言学/心理语言学实验提取词与句子的模型表征
+- 对模型生成输出做逐 token 打分与排名
+- 对比图文配对在不同 VLM 下的打分
 
 ## 场景标签
 
@@ -39,6 +40,7 @@
 
 > L1: # minicons: Enabling Flexible Behavioral and Representational Analyses of Transformer Language Models
 > L5: This repo is a wrapper around the `transformers` library from Hugging Face :hugs:
+> L43: 2. Compute sentence acceptability measures (surprisals) using Language Models:
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f3cf4843ab40` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9b8f9777b44c` · [字段定义](../../DATASET.md)*

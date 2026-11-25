@@ -2,16 +2,16 @@
 
 ⭐ 212 · Jupyter Notebook · MIT · 推送 2026-11-08 · [GitHub](https://github.com/chamanthmvs/Phishing-Website-Detection) · [官网](https://chamanthmvs.github.io/Phishing-Website-Detection/) · 个人维护
 
-**用随机森林对 URL 做钓鱼网站分类的 Streamlit 应用**
+**机器学习 URL 分类服务：识别钓鱼网站链接**
 
-面向实验与教育用途的机器学习项目：提取 URL 长度、重定向、IP 地址、子域名数量、短链服务、HTTPS token、DNS 与域名注册信息等特征，输入已训练的随机森林分类器，在 Streamlit 界面中输出 Legitimate 或 Phishing 判定并展示所用特征值。仓库包含应用代码、特征提取逻辑、已保存模型、训练 notebook 与原始 URL 数据集，可本地以 venv + requirements.txt 安装并用 streamlit run 启动。README 明确声明其预测不应视为网站安全性的保证。
+基于 URL 词法特征的钓鱼网站检测项目，由两个解耦服务组成：FastAPI 后端负责从 URL 字符串计算 20 个词法特征（不访问目标网站）并承载三个训练模型（Random Forest、Histogram Gradient Boosting、Logistic Regression），最优者作为 API 默认；Next.js 前端仅通过 JSON API 请求预测。训练完全离线可复现。定位为学习与安全研究用途的启发式工具，预测结果非安全保证。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | MIT |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 基于 URL 特征的随机森林二分类（Legitimate/Phishing）
-- 提取 URL 长度、重定向、IP、子域名、短链、DNS/注册信息等信号
-- Streamlit 界面展示预测结果与所提取的特征值
-- 包含可复现的训练 notebook 与原始数据集
+- 20 个纯词法 URL 特征，扫描时不请求目标网站
+- 三个模型对比训练，最优者作为 API 默认服务
+- 前后端解耦，前端无模型无 Python 依赖
 
 ## 适用场景
 
-- 输入 URL 快速查看钓鱼分类判定与依据特征
-- 学习 URL 特征提取与随机森林分类的完整流程
-- 复现模型训练并开展自己的实验
+- 批量筛查 URL 是否疑似钓鱼链接
+- 作为机器学习分类项目的学习参考
+- 安全研究中复现离线可复现的训练流程
 
 ## 场景标签
 
-`网络安全` `教程课程` · 领域:学习与行业
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: Phishing Website Detection is a machine learning project that classifies URLs as legitimate or potentially phishing.
-> L27: These features are passed to a trained Random Forest classifier. The application then displays the resulting classi
+> L3: Phishing Website Detection classifies URLs as **legitimate** or **potentially
+> L49: Three models are trained and compared on a held-out 25% test set (2,553 URLs;
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `fccc03b684ac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1b62d7910cf5` · [字段定义](../../DATASET.md)*

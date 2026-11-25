@@ -2,9 +2,9 @@
 
 ⭐ 243 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/he-yufeng/FindJobs-Agent) · 个人维护 · 中文 README
 
-**求职者用的全栈求职助手：爬岗位、LLM 分析、简历匹配与 AI 模拟面试**
+**求职者的 LLM 工具包：爬职位、析技能、改简历、AI 模拟面试**
 
-面向求职者的全栈求职工具：爬取腾讯、字节、网易、Amazon 等公司公开招聘 API 的职位，用 LLM 抽取学历/专业要求、给技能标签打分并归类职位族；解析 PDF/Word 简历并计算与职位的匹配百分比；任一职位描述可驱动的多轮 AI 模拟面试并给实时反馈。后端为 Python（Flask API + SQLite），前端 React。提供无需 API key 的离线 Demo 模式（确定性 stub LLM + 54 条样例职位），任务源可通过 JobSource 接口插件式扩展（含 freehire.me、Remotive 免 key 数据源）。
+全栈求职助手：爬取科技公司职位，LLM 提取学历/专业要求、为技能打分并归类职位体系；解析 PDF/Word 简历并计算职位匹配度；从任意职位描述生成多轮 AI 模拟面试并给出实时反馈。提供 React 前端、Flask 风格 API 服务与 SQLite 持久化，数据存 jobs.db。设置 FINDJOBS_DEMO=1 可离线跑通全流程，用确定性 stub LLM 替代付费 API key。爬虫依赖公开招聘 API；2023 年代的多个 Selenium 适配器已因验证失败从注册表移除。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 爬取→LLM 分析→技能差距→模拟面试的完整闭环
-- 简历解析与职位匹配百分比计算
-- 多轮 AI 模拟面试，含实时反馈与追踪看板
-- FINDJOBS_DEMO=1 离线演示模式，stub LLM 不联网
-- JobSource 接口支持插件式接入自定义职位源
+- 爬取腾讯/字节/网易/Amazon 等职位公开 API，支持增量爬取与去重账本
+- LLM 提取学历专业要求、技能评分（1–5）与职位分类
+- PDF/Word 简历解析与职位-简历匹配百分比计算
+- Demo 模式离线运行全流程，无需 API key
 
 ## 适用场景
 
-- 爬取目标公司职位并自动结构化技能要求
-- 上传简历查看与各职位的匹配度和技能差距
-- 针对具体职位描述进行模拟面试练习
-- 在申请看板上追踪各职位投递状态
+- 批量抓取并结构化科技公司职位信息
+- 上传简历查看与职位的技能差距和匹配度
+- 针对某个职位 JD 进行多轮 AI 模拟面试并获取反馈报告
 
 ## 场景标签
 
-`网页抓取` `文档解析` `AI 助手` · 领域:效率与自动化
+`网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L12: A full-stack job search assistant that crawls postings from major tech companies, analyzes them with LLMs, parses y
+> L40: - **Job crawler** — pulls postings from Tencent, NetEase, ByteDance, Amazon and more, via API or Selenium, with aut
 > L43: - **AI mock interview** — generates questions from any job description and runs a multi-turn interview with real-ti
 
 ## 星数曲线
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `30852ad85881` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `34619097bda3` · [字段定义](../../DATASET.md)*

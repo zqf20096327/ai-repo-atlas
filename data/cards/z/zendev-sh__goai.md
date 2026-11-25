@@ -1,10 +1,10 @@
 # zendev-sh/goai
 
-⭐ 241 · Go · MIT · 推送 2026-11-08 · [GitHub](https://github.com/zendev-sh/goai) · [官网](https://goai.sh/) · 组织维护
+⭐ 241 · Go · MIT · 推送 2026-11-08 · [GitHub](https://github.com/zendev-sh/goai) · [官网](https://goai.sh/) · 个人维护
 
-**Go 语言 AI 应用开发 SDK，统一接口接入 25+ 模型提供商**
+**Go 开发者的统一 AI SDK：一套 API 接入 25+ 提供商**
 
-用 Go 构建 AI 应用的 SDK，受 Vercel AI SDK 启发，以泛型、接口与函数式选项做惯用化适配。提供 8 个核心函数（GenerateText/StreamText/GenerateObject/Embed/GenerateImage/GenerateVideo 等）接入 25+ 提供商，含 MCP 客户端（stdio/HTTP/SSE，OAuth 2.1+PKCE）、自动工具循环、结构化输出（由 Go 类型反射生成 JSON Schema）、流式输出、内置 Langfuse/OpenTelemetry 观测与 10 个生命周期钩子。核心仅依赖 golang.org/x/oauth2 与 coder/websocket，要求 Go 1.25+。README 附与 Vercel AI SDK 的基准对比数据。
+面向 Go 开发者的 AI 应用 SDK，受 Vercel AI SDK 启发。提供 8 个核心函数（文本/对象生成、流式、嵌入、图像、视频生成）、自动工具循环、从 Go 类型反射生成 JSON Schema 的结构化输出、MCP 客户端（stdio/HTTP/SSE 及 OAuth+PKCE）、Langfuse 与 OpenTelemetry 集成、10 个生命周期钩子与重试机制。核心仅依赖 golang.org/x/oauth2 与 coder/websocket。安装需 Go 1.25+，通过 go get 获取。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 8 个核心函数覆盖文本/对象生成、流式、嵌入、图像与视频生成
-- 25+ 提供商统一 API，含 Ollama/vLLM/llama.cpp 本地运行时
-- MCP 客户端支持 stdio/HTTP/SSE 及 OAuth 2.1+PKCE 远程服务器
-- GenerateObject[T] 由 Go 类型反射自动生成 JSON Schema
-- 内置 Langfuse/OpenTelemetry 观测与 10 个生命周期钩子
+- 25+ 提供商统一 API，含 OpenAI/Anthropic/Google/Bedrock/Ollama/vLLM 等
+- GenerateObject[T] 经反射从 Go 类型自动生成 JSON Schema
+- MCP 客户端支持 stdio/HTTP/SSE 与 OAuth 2.1+PKCE 远程服务器
+- 8 个核心函数覆盖文本、流式、嵌入、图像与视频生成
 
 ## 适用场景
 
-- 在 Go 服务中统一调用多家 LLM 提供商并做流式/结构化输出
-- 构建带工具循环与 MCP 工具的 AI agent
-- 为 LLM 调用链接入 tracing 与工具执行权限控制
+- 在 Go 后端中接入多家 LLM 提供商并统一调用接口
+- 用类型化工具定义构建带自动工具循环的 Agent
+- 为生成链路接入 Langfuse/OpenTelemetry 追踪
 
 ## 场景标签
 
-`模型网关` `Agent 框架` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L6:  Go SDK for building AI applications. One SDK, 25+ providers, MCP support.
-> L38: - **25+ providers**: OpenAI, Anthropic, Google, Bedrock, Azure, Vertex, Mistral, xAI, Groq, Cohere, DeepSeek, MiniM
-> L71: go get github.com/zendev-sh/goai@latest
+> L37: - **8 core functions**: `GenerateText`, `StreamText`, `GenerateObject[T]`, `StreamObject[T]`, `Embed`, `EmbedMany`,
+> L49: - **MCP client**: Connect to any MCP server (stdio, HTTP, SSE), auto-convert tools for use with GoAI
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `efe7c2eda95f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `22bdd630d7f2` · [字段定义](../../DATASET.md)*

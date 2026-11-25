@@ -2,9 +2,9 @@
 
 ⭐ 317 · 推送 2026-11-02 · [GitHub](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) · [官网](https://kwanwaipang.github.io/Transformer_SLAM/) · 个人维护 · 中文 README
 
-**Transformer-based SLAM 论文清单：覆盖位姿估计、深度估计与重建**
+**面向 SLAM 研究者的 Transformer 类论文策展清单**
 
-由个人维护的 awesome 类论文综述仓库，按表格形式编目采用 Transformer 的 SLAM 相关工作，分为完整 SLAM（位姿与深度）与位姿跟踪两大类，条目含年份、发表会议、论文标题、代码仓库链接与中文摘要笔记，主题覆盖光流、立体重建匹配、深度估计、3D 重建、回环与视觉里程计等。面向 SLAM/三维视觉方向的研究者检索文献，通过 PR/issue 接受补充，无安装或运行内容。
+收录运用 Transformer 解决 SLAM 相关任务的论文资源清单，按全量 SLAM（位姿与深度）、位姿跟踪等主题分表组织，每条含年份、发表 venue、论文标题、代码仓库链接与中文注记，覆盖光流、特征匹配、立体匹配、深度估计、三维重建、位姿估计、视觉/视觉惯性里程计等方向。欢迎以 pull request 或 issue 方式补充遗漏论文。清单本身不包含安装或运行步骤，仅为文献导航。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 两大类表格编目：完整 SLAM 与位姿跟踪/状态估计
-- 每条含年份、venue、代码仓库链接与中文方法摘要
-- 覆盖 2023–2026 年会议与 arXiv 论文（CVPR/ECCV/RAL/TRO 等）
-- 通过 PR/issue 接受社区补充
+- 按 Transformer-based SLAM 与 Pose Tracking 等主题分表组织论文条目
+- 每条论文标注年份、venue、仓库链接与注记
+- 接受 PR 与 issue 补充收录
 
 ## 适用场景
 
-- 查找基于 Transformer 的 SLAM 与视觉里程计论文
-- 顺论文条目找到对应开源代码仓库
-- 了解前馈几何模型（VGGT/MASt3R 系）在 SLAM 中的用法脉络
+- 调研 Transformer 在 SLAM 中的最新论文进展
+- 查找某篇 SLAM 论文的开源代码仓库
+- 跟踪前馈 3D 重建（如 VGGT 系）在 SLAM 中的应用
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L1: Awesome Transformer-based SLAM
 > L3: This repository contains a curated list of resources addressing SLAM-related tasks employing Transformer, including 
-> L17: ## Transformer-based SLAM
+> L21: |Year|Venue|Paper Title|Repository|Note|
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7bbb8e0e7a4d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `213592fa1d48` · [字段定义](../../DATASET.md)*

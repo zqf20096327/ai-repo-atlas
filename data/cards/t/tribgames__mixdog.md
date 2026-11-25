@@ -1,10 +1,10 @@
 # tribgames/mixdog
 
-⭐ 259 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tribgames/mixdog) · [官网](https://mixdog.ai/) · 组织维护
+⭐ 259 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tribgames/mixdog) · [官网](https://mixdog.ai/) · 个人维护
 
-**开源桌面编码 agent：主模型规划、廉价模型并行执行搜索与审校**
+**开源桌面编码 Agent，主模型规划、低成本模型执行搜索/编辑/审查**
 
-基于 Electron 的桌面编码代理：强模型担任 lead，廉价模型并行执行搜索、编辑与代码审校，并内置自动推理力度调节（本地 CPU 上约 150MB 模型在 0.1s 内判定每步所需 effort）。支持 Claude/ChatGPT/Grok/Muse Code 订阅 OAuth、各家 API key 或内置本地模型（Windows x64 + NVIDIA GPU），自带编辑器、终端、Git/GitHub、代码图与语言服务器。提供三平台安装包与 npm 全局安装两种方式；README 附 Terminal-Bench 对比数据。
+基于 Electron 的桌面编码 Agent：支持按角色混合模型（主模型规划，较廉价模型并行执行搜索、编辑、审查），内置自动推理努力分配（本地 150 MB CPU 模型判定）、Bot 与群房间、编辑器/终端/Git 工作区、浏览器与桌面控制等功能。提供 Windows/macOS/Linux 安装包与无头模式 `mixdogd exec`。需登录 ChatGPT/Claude/Grok 等账号或填入 API key 才能使用云端模型；本地模型下载仅限 Windows x64 + NVIDIA GPU。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- lead 模型 + 多廉价模型按角色并行分工（Solo 到 Swarm）
-- 自动推理力度判定，由本地 CPU 上约 150MB 模型执行，默认开启
-- 内置 Local Provider 在应用内下载运行本地模型
-- Goals/定时任务/webhook 自主运行，手机端加密续接
+- 按角色混合模型：主模型规划，廉价模型并行搜索/编辑/审查，可设回退模型
+- 自动推理努力分配：本地 CPU 运行的 150 MB 模型约 0.1 秒判定
+- Bot 与房间机制：自定义模型、工具、权限的多 Bot 协作
+- Goals、定时任务与 Webhook 持续运行，可从手机端加密续接
 
 ## 适用场景
 
-- 让 AI agent 在桌面工作区内自主完成编码任务
-- 用现有 Claude/ChatGPT/Grok 订阅驱动编码 agent
-- 通过 mixdog exec 在终端做无头单模型自动化任务
+- 用已有 Claude/ChatGPT/Grok 订阅在桌面端运行编码 Agent
+- 让多个模型分工协作完成代码搜索、编辑与审查
+- 通过无头命令在终端中执行单次修复任务
+- 配置定时目标让 Agent 持续处理任务并从手机跟进
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L36: - Mix models by role and scale from **Solo to Swarm** — a strong model leads
-> L37:  while cheaper ones search, edit, and review in parallel.
+> L9:  The open-source coding agent that uses 63% fewer tokens.
+> L34: - 63% fewer tokens than Codex CLI on the same model, at the
+> L41: - Mix models by role and scale from **Solo to Swarm** — a strong model leads
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `49ee0f597a23` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d53ca5cb2383` · [字段定义](../../DATASET.md)*

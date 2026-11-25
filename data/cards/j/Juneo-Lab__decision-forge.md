@@ -2,9 +2,9 @@
 
 ⭐ 352 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Juneo-Lab/decision-forge) · [官网](https://juneo-lab.github.io/decision-forge/) · 组织维护 · 中文 README
 
-**把组织政策文档编译为可验证的决策训练数据**
+**把组织政策编译成可验证决策训练数据的 Python 管线**
 
-面向需要训练符合自身规则的 AI agent 的组织与开发者：读取手册、SOP、工单等工作流文档，经模型端点起草规则（带来源引文）并经业务评审，随后全程离线生成场景、用确定性策略解释器回放标注、按家族隔离去重，导出四种训练格式。每个标签可追溯到规则与原文出处。文档编译与模型辅助合成需显式选择模型端点，评审后路径无需 API key。项目处于 v0.3.2 alpha。
+Decision Forge 读取手册、SOP、审批规则等组织文档，编译为带来源引证与哈希的规则规范，经业务评审后在本地离线生成四类决策面（分配工作/共享信息/执行/评估结果）的场景与标签；标签由确定性策略解释器重算，支持家族隔离防泄漏切分、去重与配额报告，并导出四种训练格式。评审后的规范可无需模型凭据本地构建；文档编译与模型辅助合成需显式指定的模型端点。需 Python 3.11+ 与 uv。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 文档→规则→场景→已验证标签→训练导出的离线数据管线
-- 确定性策略解释器回放计算标签，来源引文经原文校验
-- 家族级数据集切分隔离与切分锁文件
-- 支持多种文档格式（PDF/DOCX/XLSX/PPTX/HTML/OCR 等）
+- 确定性策略解释器重算每个标签，标签可溯源到规则与原文引证
+- 离线数据路径：评审后规则→场景→标签→导出，无需 API key 或模型下载
+- 家族隔离切分与 split 锁，跨版本保持训练/留出划分
+- 支持 Text/Markdown/JSON/YAML/PDF/DOCX/XLSX/PPTX/HTML/CSV/TSV 及本地 OCR 摄入
 
 ## 适用场景
 
-- 把组织手册与审批规则转成可审计的微调数据
-- 为决策模型构建带来源溯源的监督数据
-- 不同组织各自编译策略并对比决策差异
+- 把公司内部审批规则变成可审计的决策模型训练集
+- 为 agent 权限决策（退款、文件共享、任务分配）构造带出处的监督数据
+- 训练前检查数据集分布缺口与跨切分重复
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L63: **Decision Forge turns that judgment into data.** It compiles an organization's own documents into
 > L89: The data pipeline evaluates scenarios against the approved rules and exports decision examples with
-> L103: |**Trains real models**|Laplace-1 is trained entirely on Decision Forge data and is best or tied for best on 7 of 
+> L96: > Document compilation and model-assisted synthesis use an explicitly selected model endpoint.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `4d57ce946b7d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `c121d67229fc` · [字段定义](../../DATASET.md)*

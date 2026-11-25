@@ -2,9 +2,9 @@
 
 ⭐ 203 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ahtx/kindi) · [官网](https://amirhusain.com/software/kindi/) · 个人维护
 
-**面向老旧/低价 NVIDIA 卡的自研 LLM 推理引擎，带 OpenAI 兼容服务**
+**在低成本 GPU 和 CPU 上本地运行大语言模型的推理引擎**
 
-Kindi 是 Prism ML Ternary-Bonsai-2 系列三值权重模型（2B/4B/9B/27B）的自定义推理引擎，支持 NVIDIA Kepler 到 Ampere 架构显卡（如 1GB Quadro K420、双 K1200 张量并行、GTX 1080、RTX 3080）及 CPU（AVX2）引擎。提供 OpenAI 兼容服务器（chat/completions、tools、流式、thinking），默认输出与 llama.cpp 逐 token 一致，README 给出各卡速度对比。通过一条 curl 安装脚本、Docker 镜像或原生 CUDA 10.2 + Python 环境安装。限制：仅支持 Bonsai 系列模型，Kepler 需 470 系列驱动。
+Kindi 是一个面向低成本 GPU 的自研语言模型推理引擎，支持 NVIDIA Kepler（Quadro K420）到 RTX 50 系列、CMP 170HX、AMD Radeon 780M/840M/8060S 及 x86-64 AVX2 CPU。运行 Ternary Bonsai、AH-Nanbeige4.3、Nemotron Lightning、DeepSeek-V4.1-Flash、Qwen3.8-Flash-Next 等模型，提供 OpenAI 兼容服务器（带 prompt 缓存、工具调用、思考模式、投机解码）。以一键安装脚本或 Docker 镜像（ghcr.io）分发，AGPL-3.0 许可并另行提供商业许可。README 给出与 llama.cpp 在相同卡片和模型文件上的逐 token 对比测量。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Kindi 是 Prism ML Ternary-Bonsai-2 系列三值权重模型（2B/4B/9B/27B）�
 
 ## 能力要点
 
-- 在 1GB Quadro K420 上运行 2B 模型，README 记录 20-23 tokens/s
-- 双 Quadro K1200 张量并行合成一张 8GB 卡运行 27B 模型
-- OpenAI 兼容服务器，支持 tools、流式、thinking（reasoning_content）
-- 默认输出与 llama.cpp 逐 token 一致（verify 命令校验）
+- OpenAI 兼容服务器，带 prompt 缓存、工具调用、思考模式与投机解码
+- 支持 1 GB 显存的 Kepler 老卡到 RTX 50 系列，另有 AMD RDNA3/RDNA3.5 与 CPU 引擎
+- 提供 token 级对齐 llama.cpp 输出的 verify 校验命令
+- Windows 安装器自动配置 WSL2 并含托盘监视器
 
 ## 适用场景
 
-- 用手里老旧的 Kepler/Maxwell/Pascal 显卡本地跑 LLM
-- 为聊天客户端和编码 agent 提供本地 OpenAI 兼容推理端点
-- 低成本多卡（双 K1200）张量并行运行 27B 模型
+- 在没有新驱动的老款 Quadro/GeForce 显卡上本地跑大模型
+- 用 OpenAI 兼容接口把本地模型接入 Open WebUI、LM Studio、Jan 等客户端
+- 在 8 GB 显存的单卡上运行 125B MoE 模型
+- 在没有 GPU 的 x86-64 机器上用 CPU 引擎运行小模型
 
 ## 场景标签
 
@@ -37,8 +38,9 @@ Kindi 是 Prism ML Ternary-Bonsai-2 系列三值权重模型（2B/4B/9B/27B）�
 
 ## 证据(README 行号)
 
-> L9: Kindi is a custom inference engine for Prism ML's **Ternary-Bonsai-2** language models (2B, 4B, 9B and 27B
-> L12: the GeForce RTX 3080, a CPU engine and a one-command installer. It has an **OpenAI-compatible server** for chat
+> L9: Kindi is a custom inference engine for language models on low-cost GPUs. It runs Prism ML's ternary
+> L12: supports AMD Radeon 780M, 840M and 8060S graphics, and x86-64 CPUs. The OpenAI-compatible server has a prompt
+> L96: 3. Connect a chat client. Kindi uses the OpenAI API at `http://localhost:8093/v1`. In Open WebUI, LM Studio, Jan or
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `24d3252928e2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `29d57bba765c` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 224 · Python · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/sfortis/openai_tts) · 个人维护
 
-**Home Assistant 文字转语音集成，接入多家 OpenAI 兼容语音服务**
+**Home Assistant 的多供应商 TTS 集成：支持云端与自托管语音合成**
 
-面向 Home Assistant 用户的 TTS 集成：通过 OpenAI speech API 调用 OpenAI、Mistral、Groq、Lemonfox、OpenRouter 或自托管后端（Kokoro-FastAPI、Chatterbox、LocalAI 等），以预设自动填充端点、模型与语音列表。功能包括多语音配置、六种音频格式、流式播放、响度归一化、每档案增益、播报前提示音，以及按实体/设备/区域/楼层定位的播报，播报后恢复音量与音乐。README 声明 OpenAI 三个 TTS 模型将于 2027 年 1 月停用，届时 OpenAI 档案需迁移到其他提供商。
+面向 Home Assistant 用户的文本转语音集成，通过 OpenAI speech API 规范接入多个服务：内置 OpenAI、OpenAI Realtime、Mistral、Groq、Lemonfox、OpenRouter、Kokoro-FastAPI、Chatterbox 及 Custom 共 9 类预设，自动填充端点、模型与声音列表。支持每个条目配置多个 TTS agent，音频格式覆盖 mp3/opus/aac/flac/wav/pcm，提供流式播放、句级流式、逐 profile 增益与响度校正，公告播放时可压低并恢复音乐音量。通过 HACS 分发，要求 Home Assistant 2026.9.1 及以上（3.10 起）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 8 类提供商预设自动填充端点、模型与语音
-- 流式播放、逐句流式、响度归一化与 -12~+12 dB 增益
-- 播报按实体/设备/区域/楼层/标签定位并恢复音量与音乐
-- 5 种内置提示音并支持自定义 mp3 提示音
+- 9 类供应商预设，自动填充端点、模型与声音列表
+- Custom 预设可接入任何实现 OpenAI speech API 的自托管服务（如 LocalAI、pocket-tts）
+- 流式播放与句级流式，音频随到达随播放
+- 公告时自动暂停/压低音乐并在结束后恢复音量
 
 ## 适用场景
 
-- 让 Home Assistant 用云端或自托管服务朗读文本
-- 语音助手（Assist pipeline）的语音输出
-- 在家中多个音箱播报通知并自动恢复音乐
+- 让 Home Assistant 语音助手用自托管的 Kokoro 或 Chatterbox 朗读回复
+- 在 Sonos 或 Music Assistant 音箱上播放带背景音乐压低效果的公告
+- 通过自动化调用 openai_tts.say 向指定区域或楼层播报通知
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L3: **Text-to-speech for Home Assistant from OpenAI, Mistral, Groq, Lemonfox, Kokoro, Chatterbox or any server that impl
 > L14: OpenAI TTS is a text-to-speech integration for Home Assistant that works with any service implementing the OpenAI s
-> L119: - Announcements on any media player, targeted by entity, device, area, floor or label.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1cbe69300a33` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4f2074f92e40` · [字段定义](../../DATASET.md)*

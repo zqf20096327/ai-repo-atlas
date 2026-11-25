@@ -2,9 +2,9 @@
 
 ⭐ 271 · Go · MIT · 推送 2026-11-17 · [GitHub](https://github.com/cocoonstack/cocoon) · [官网](https://cocoonstack.github.io/cocoon/) · 组织维护
 
-**轻量 MicroVM 引擎：为开发者提供 Docker 式虚拟机管理**
+**面向开发者的轻量 MicroVM 引擎，支持 AI 沙箱等场景**
 
-基于 Cloud Hypervisor（默认）与 Firecracker 双后端的轻量 MicroVM 管理引擎，提供 Docker 风格 CLI（create/run/clone/exec 等）。核心机制包括：OCI 镜像与云镜像作为 VM 镜像来源、运行中 VM 的快照与克隆（内存写时复制、页缓存共享）、基于 TC redirect 的 CNI 网络、Windows 11 客户机支持、内存气球与巨页、每 VM 一个 hypervisor 进程的无守护架构。以 Linux 二进制（amd64/arm64）发布，适用于 AI 沙箱、云桌面与临时开发环境。
+基于 Cloud Hypervisor（默认）与 Firecracker 双后端的 MicroVM 引擎，提供类 Docker 的 CLI（create/run/clone/exec 等）。功能包括 OCI 镜像与云镜像拉取、运行中 VM 的快照与 reflink 克隆、跨节点热迁移、CNI 网络（TC redirect）、内存 balloon、hugepages、Windows 11 客户机支持。以 Linux 二进制发布，也可通过 make 从源码构建。描述中目标用途为 AI 沙箱、云桌面与临时环境。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 双 hypervisor 后端：Cloud Hypervisor（默认）与 Firecracker（~125ms 启动，每 VM 开销 <5 MiB）
-- OCI 镜像/云镜像拉取作为 VM 镜像，内容寻址 EROFS blob 缓存
-- 运行中 VM 快照与克隆：内存写时复制、共享页缓存、原子休眠恢复、跨主机导入导出
-- CNI 网络（TC redirect、多 NIC、NIC 热调整）与 vhost-user-fs / VFIO 热插拔
+- 双 hypervisor 后端：Cloud Hypervisor（默认）与 Firecracker（--fc）
+- 运行中 VM 快照与克隆，克隆默认写时复制恢复内存
+- OCI 与云镜像支持，内容寻址 EROFS blob 缓存
+- CNI 网络经 TC redirect 接线，支持多 NIC 与热调整
 
 ## 适用场景
 
-- 为 AI agent 任务创建隔离的一次性沙箱环境
-- 快速克隆运行中的 VM 做并行实验或部署
-- 搭建云桌面或标准化开发环境
+- 为运行不可信代码或 AI agent 搭建隔离沙箱
+- 快速克隆开发环境生成多个一次性 VM
+- 在本地管理轻量云桌面或临时虚拟机
 
 ## 场景标签
 
- · 领域:虚拟化/云原生基础设施
+ · 领域:云计算/虚拟化基础设施
 
 ## 证据(README 行号)
 
 > L3: Lightweight MicroVM engine with dual hypervisor backends: Cloud Hypervisor (default) and Firecracker.
 > L10: - **Docker-like CLI** — `create`, `run`, `start`, `stop`, `list`, `inspect`, `console`, `exec`, `rm`, `clone`, `sta
-> L11: - **Snapshot & clone** — capture a running VM (memory, disks, config) and clone it into new VMs with fresh network 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `f3ebd0250277` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `06391d963596` · [字段定义](../../DATASET.md)*

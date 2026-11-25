@@ -2,9 +2,9 @@
 
 ⭐ 192 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mahmoudrabie/agentic-ai) · 个人维护
 
-**Agentic AI 研究资源策展清单（300+ 条，24 领域）**
+**面向研究者与开发者的 Agentic AI 论文/基准/框架策展清单**
 
-由个人维护的 Agentic AI 资源聚合仓库，收录 300+ 篇论文、基准、框架与真实系统条目，按 24 个领域组织：Research（65 条）、Framework（64 条）、Security（54 条）、Reasoning、Testing、Healthcare、Software Engineering 等，覆盖从认知基础到行业应用。提供 5 条建议浏览路径（核心认知/工程框架/行业/硬件/生态伦理），并规定策展标准：主链接指向论文、代码库、基准或项目页，社交帖子仅作次级链接，资源须放入最相关领域并去重。通过 PR 接受贡献。
+以 awesome-list 形式收录 300+ 条 Agentic AI 资源，涵盖论文、基准、框架与真实系统，组织为 24 个领域（框架 69、研究 67、安全 60、测试 27 等），并按机构统计论文归属分布（Stanford 27、UIUC 26 等）。为构建者与研究者提供导航路径，按研究、工程、行业应用等维度建议浏览顺序。MIT 许可，接受 PR 贡献。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 300+ 条资源覆盖 24 个领域，含论文、基准、框架与真实系统
-- Research/Framework/Security 为条目数最多的三个领域（65/64/54 条）
-- 明确的策展标准：主链接指向论文或代码库，避免重复
-- 提供面向不同关注点（认知、工程、行业、硬件、伦理）的建议浏览路径
+- 300+ 条资源覆盖 24 个领域
+- 按机构/公司统计论文归属分布
+- 提供按研究方向的分类浏览路径
+- MIT 许可，接受社区 PR 贡献
 
 ## 适用场景
 
-- 查找构建 agent 所需的框架与编排模式资料
-- 调研 agent 的评测、测试与基准资源
-- 按领域（医疗、安全、机器人等）查找应用案例与安全治理研究
+- 查找构建 agent 的框架与编排模式资源
+- 检索安全、红队与评测基准论文
+- 了解各机构在 Agentic AI 领域的研究分布
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L10: **300+ curated agentic AI papers, benchmarks, frameworks, and real-world systems across 24 domains.**
-> L37: |Domain|Researches|Focus|
+> L39: |⚙️ Framework|69|Agent runtimes, memory, tools, orchestration|
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `969ffa26cff7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `30c65eddeb54` · [字段定义](../../DATASET.md)*

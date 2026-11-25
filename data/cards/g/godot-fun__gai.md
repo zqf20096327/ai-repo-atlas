@@ -1,45 +1,46 @@
 # godot-fun/gai
 
-⭐ 240 · GDScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/godot-fun/gai) · 个人维护 · 中文 README
+⭐ 240 · GDScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/godot-fun/gai) · 个人维护
 
-**面向 Godot 游戏开发的桌面 AI 编程 agent 与技能工作流框架**
+**用 Godot 游戏引擎构建的桌面 AI 编码 Agent**
 
-基于 Godot 4.6 构建的一体化 AI 工作区：包含桌面编程 agent（读写/编辑文件、bash、网络搜索等内置工具，模型循环调用直至停止，支持多会话、检查点与回退），以及将仓库技能暴露为节点的可视化工作流编辑器，可组合音频、图像、视频等类型安全端口的批处理流水线。通过 OpenAI 兼容 API 接入模型；技能由 .agents/skills 指令与 .ai 脚本两部分组成，可被桌面 agent、命令行或其他编程 agent（OpenCode/Cursor/Claude 等）复用。附带可复用的 Godot 框架 zfoo 与 godot-cpp GDExtension 支持。
+整个应用是一个 Godot 场景：以 Agent 循环方式读取代码库、规划、编辑、运行命令与测试、展示 diff 并可用 git 回滚。每轮对话是一个检查点，可恢复单个文件或回滚工作区；后台 Agent 在压缩期间维护 .memory/ 目录的 Markdown 记忆；内置文件树、标签页、Markdown 预览等编辑器功能，支持 Alt+Z 语音听写与改写。本地部署将 Godot、Python、Node.js 与 GGUF 模型放入 .dependency/，聊天可指向 127.0.0.1 不出机器；支持 MCP 接入任意服务器工具，附 36 个资产技能与可复用的 zfoo GDScript 框架。仅支持 Windows 10/11 且需 Git。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 桌面编程 agent 内置 read/write/edit/bash/web_search 等 10 类工具与模型循环
-- 可视化工作流编辑器：技能即节点，类型安全端口与文件夹批处理
-- 技能可被桌面 agent、CLI 及 OpenCode/Cursor/Claude 等其他编程 agent 复用
-- 提供覆盖 TTS/零样本语音克隆、图像处理、4K 放大等能力的技能目录
+- Agent 循环：读码、规划、编辑、运行测试、diff 与 git 回滚
+- 本地部署：GGUF 模型经 llama.cpp 运行，聊天指向 127.0.0.1
+- MCP 网关接入任意服务器工具与 36 个资产技能
+- 每轮对话为检查点，支持文件级恢复与工作区回滚
 
 ## 适用场景
 
-- 在 Godot 桌面界面里让 agent 检查项目、改文件、跑命令和测试
-- 用可视化节点搭建可复用的音频/图像/视频资产处理流水线
-- 把技能包接入其他编程 agent（如 Claude、Cursor）复用
+- 让 Agent 端到端完成探索、编辑、验证、审查的编码任务
+- 在本地离线运行图像理解与文本聊天模型
+- 通过 MCP 把自有服务器工具接入同一对话记录
+- 在自己的 Godot 4.6 项目中复用 zfoo 框架模块
 
 ## 场景标签
 
-`编码 Agent` `工作流自动化` `图像视频处理` `语音合成` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L5: GAI brings together a coding agent, reusable skills, command-line tools, and a lightweight Godot framework in one re
-> L15: - Run a model loop that calls tools, feeds their results back to the model, and repeats until it stops asking for t
-> L107: The root `AGENTS.md` defines shared project conventions. Skills can also be reused with other coding agents that s
+> L5:  An AI coding agent built in Godot.
+> L14: > **The loop** — read the code, look things up, change it, run the tests, show the diff, and revert with `git` when
+> L17: > **Local deployment** — the engine, runtimes, and GGUF models land in `.dependency/`; point chat at `127.0.0.1` an
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0272e4940b02` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `14be98fd909a` · [字段定义](../../DATASET.md)*

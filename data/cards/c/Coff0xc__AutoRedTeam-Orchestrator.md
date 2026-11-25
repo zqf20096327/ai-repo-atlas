@@ -1,18 +1,18 @@
 # Coff0xc/AutoRedTeam-Orchestrator
 
-⭐ 273 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) · 个人维护 · 中文 README
+⭐ 273 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Coff0xc/AutoRedTeam-Orchestrator) · 个人维护
 
-**面向授权测试与 AI/MCP 攻击面自审的 MCP-native 安全自动化工作台**
+**本地 MCP/AI 攻击面审计工具：读自身代码并输出带行号证据的发现**
 
-单一代码库提供安全能力（侦察、漏洞检测、CVE 情报、编排、受限的后渗透/C2），通过 MCP Server、Python SDK 与 Typer CLI 三个入口暴露，供 AI 编辑器/Agent 经 MCP 调用受控安全能力。产品线之一是对自身仓库做 AI/MCP 攻击面的纯静态审计（只读 AST→SARIF，接入 GitHub Code Scanning），无需网络与授权。采用四级能力档案（safe/scan/active-lab/full）fail-closed 注册，高风险能力默认 dry-run，仅限一次性隔离靶场。自声明 Beta/Research Preview。
+面向授权测试的 Python 工具，默认回路是本地 MCP/AI 攻击面审计：解析自身 Python 代码、AI 客户端配置与指令文件，输出带文件与行号的发现，可导出 SARIF 并做 CI diff。另一回路是授权渗透流程 plan→recon→detect→verify→export，通过 YAML 会话文件让人与模型共享步骤，发现需经外部核验（vuln_verifier/oob_callback 等）才确认。核心机制是四级权限 allowlist（safe/scan/active-lab/full，153 条目）、模型只读工具卡片、HITL 门与 API key 认证；pip/容器安装不含实验性引擎。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- MCP Server + Python SDK + Typer CLI 三入口共享同一 core/ 引擎
-- AI/MCP 攻击面静态自审：handler、.mcp.json 配置、skill 文件 → SARIF
-- 四级能力档案 fail-closed 注册，默认最窄 safe 档案，高风险能力默认 dry-run
-- 可作为 GitHub Action 在 PR 上运行 self-audit
+- 四级权限 allowlist（safe 30/scan 96/active-lab 117/full 153 条目）控制模型可用工具
+- 发现需经 vuln_verifier、oob_callback 或 manual_review 外部核验才确认，输出 scorecard
+- 模型不读代码内注释，只读启动时生成的短卡片（名称/级别/风险/效果/限制）
+- 文件读取器解析 Python 但不导入、不调用工具；CLI/MCP/Python 三种入口
 
 ## 适用场景
 
-- 通过 Claude Code/Cursor 等 MCP 客户端调用受控安全能力
-- 对自己仓库的 MCP handler 与 skill 文件做静态攻击面审计并接入 Code Scanning
-- 授权靶场中跑侦察、漏洞检测与一键渗透编排流水线
+- 扫描自己项目的 MCP/AI 攻击面并导出 SARIF 做基线对比
+- 在授权测试中让模型与操作者共享同一 engage 会话文件协作
+- 在 CI 中用 --dry-run --ci 对发现循环做门禁
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L20: AutoRedTeam-Orchestrator 在单一代码库中提供可组合的安全能力，并通过三个入口暴露：**MCP Server**、**Python SDK** 与 **Typer CLI**。产品主线是 **AI 辅助的安全
-> L29: |AI/MCP 攻击面静态自审|Preview|只读 AST → SARIF；覆盖 FastMCP 与 low-level SDK|
-> L71: MCP Server 把安全能力暴露为 MCP 工具，供 AI 编辑器或 Agent 调用。它是 local-first 的：无云端、无遥测，仅限受信本地 stdio。
+> L3: Two loops, one allowlist. The default is a local MCP/AI attack-surface audit: you point it at your own code, your AI
+> L5: The other loop is an authorized engagement. You write one target file. Humans and models share the same steps: plan,
+> L7: The model can decide. This program keeps the permission, the evidence, and the record.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `500cc1d254fc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1bd22e145a0f` · [字段定义](../../DATASET.md)*

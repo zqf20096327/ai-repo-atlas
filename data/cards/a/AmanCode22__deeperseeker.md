@@ -2,9 +2,9 @@
 
 ⭐ 231 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AmanCode22/deeperseeker) · 个人维护
 
-**把 DeepSeek 网页账号封装为 OpenAI/Anthropic 兼容 API 的反向代理**
+**自托管的 DeepSeek 网页会话反向代理，将其转换为 OpenAI/Anthropic 兼容的 API 端点**
 
-基于 FastAPI 的反向代理服务器：用户用自己的 chat.deepseek.com 网页账号 Token 接入，服务端将请求转为 DeepSeek 网页会话，对外暴露 OpenAI（/v1/chat/completions、/v1/responses）与 Anthropic（/v1/messages）兼容端点，支持流式输出、工具调用、视觉与文件上传。机制包括多 Token 池轮换、SHA-256 会话签名恢复、约 393K 上下文触发的摘要滚动续接、限流自动恢复；Playwright/Chromium 已弃用仅作备份。README 明示自动化使用违反 DeepSeek 服务条款，账号可能被封禁。提供 uv/venv 本地运行与 Docker/Podman 部署，附 Dashboard。
+基于 FastAPI 的反向代理，通过 Playwright (patchright) 与 DeepSeek Web 界面进行交互，持有用户的 Web 会话 Token，并提供兼容 OpenAI 和 Anthropic 格式的 API 端点（包括流式传输、工具调用、文件和视觉能力）。由于它逆向工程了 DeepSeek 的 Web 接口而非使用官方 API，自动化访问违反了 DeepSeek 的服务条款，且存在账号被封禁的风险。支持 Docker 镜像、Compose 或本地 Python 运行。需要配置管理员密码进行安全防护。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- OpenAI 与 Anthropic 双兼容 API 端点，支持 Claude Desktop 自动发现
-- 多 Token 池轮换与限流后自动换 Token 续接上下文
-- 长上下文摘要滚动策略（观测记忆上限约 393K，首条消息可接受约 1M）
-- 工具调用解析（DSML XML/tool_call/JSON 多格式）与 SSE 流式 think-tag 重组
+- 将 DeepSeek Web 会话转换为 OpenAI 及 Anthropic 兼容的 API 端点
+- 支持流式响应、工具调用、文件处理及视觉能力
+- 包含用于 Token 池与使用统计的仪表盘
+- 基于 Patchright (隐身 Playwright) 与 Chromium 运行
 
 ## 适用场景
 
-- 把已有的 DeepSeek 网页账号接入 OpenAI/Anthropic 客户端工具链
-- 在 Claude Desktop 中通过兼容端点使用 DeepSeek 网页会话
-- 个人用途下用统一 API 格式调用 DeepSeek 的工具调用与视觉能力
+- 通过兼容 OpenAI 格式的客户端调用个人 DeepSeek 账号能力
+- 在本地工具链中通过 API 调用 DeepSeek 服务
+- 将 DeepSeek Web 端能力集成到自定义 Agent 工作流中
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L4: DeepSeek website reverse-proxy server with FastAPI, supporting OpenAI & Anthropic API standards.
-> L96: - **OpenAI Base**: `http://localhost:4000/v1`
-> L103: - **Anthropic Base**: `http://localhost:4000`
+> L8: A self-hosted reverse proxy that turns a DeepSeek web session into an **OpenAI- and Anthropic-compatible API** — Fas
+> L16: DeeperSeeker runs on your machine, holds one or more of your own DeepSeek web
+> L18: `/v1/responses`, `/v1/messages`) that talk to the DeepSeek web backend for
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `dae45fab2779` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ef0ebb95fcea` · [字段定义](../../DATASET.md)*

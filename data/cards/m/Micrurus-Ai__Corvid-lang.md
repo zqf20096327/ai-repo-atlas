@@ -2,9 +2,9 @@
 
 ⭐ 258 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Micrurus-Ai/Corvid-lang) · 组织维护
 
-**面向 AI 原生软件的通用编程语言，编译期检查 AI 行为**
+**面向 AI 原生软件的编程语言：把 AI 边界交给编译器检查**
 
-Corvid 是一门通用编程语言，将 agent、tool、prompt、approve、模型路由、预算、置信度等 AI 构造纳入语言与编译器：缺少审批边界、组合成本超限或 Grounded 返回缺溯源链时程序拒绝编译。提供 curl 安装脚本与 cargo 源码安装，安装器可自动装 VS Code/Cursor/Windsurf 扩展；另有签名 cdylib 构建、claim/ABI 校验、replay 与收据、基于 skill.toml 的技能权限审计等机制。面向编写 CLI、服务器、数据管道与 AI agent 的开发者。README 各机制均标注 spec、tour、测试与非目标边界。
+Corvid 是一门通用编程语言，将 agent、tool、prompt、approve、预算、置信度、模型路由、streaming、replay、verification 等作为语言构造暴露给编译器。删除 approve 行、组合成本超上限、Grounded<T> 缺少检索溯源都会导致编译失败；另提供 DSSE 签名的 cdylib 构建与 ABI 验证命令、trace 断言式 eval、可回放执行记录，以及按权限标签安装并持续重校验的技能系统。目标用户是编写 CLI、服务器、数据管道与 AI agent 的开发者。通过安装脚本分发，支持 cargo 从源码安装，安装器附带编辑器扩展。
 
 ## 筛选速览
 
@@ -13,34 +13,33 @@ Corvid 是一门通用编程语言，将 agent、tool、prompt、approve、模�
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 审批门、成本预算、Grounded<T> 溯源等编译期契约
-- agent/tool/prompt/effect 等为编译器可理解的关键字
-- 签名 cdylib 构建与独立 ABI 描述符校验、DSSE 收据
-- 技能 skill.toml 声明权限上限，安装时计算审计并拒绝不实标签
+- approve/成本/溯源/置信度等约束在编译期检查
+- Grounded<T> 溯源传播与严格引用契约
+- @budget 静态预算与 trace 断言式 eval
+- 签名 cdylib 构建产物与 ABI 验证工具链
 
 ## 适用场景
 
-- 编写需审批边界与成本上限的 AI agent 工作流
-- 构建带溯源与引用契约的检索问答程序
-- 需要可重放执行与签名收据的可审计 AI 服务
-- 以权限标签方式审计 agent 技能的能力边界
+- 为调用模型的 CLI、服务器和数据管道提供编译期安全约束
+- 对不可逆操作（如退款）强制审批边界
+- 限制 AI 工作流的成本上限并保留可回放审计记录
+- 安装技能时按声明的能力上限做自动审计
 
 ## 场景标签
 
- · 领域:编程语言/AI 工程基础设施
+ · 领域:编程语言/AI 基础设施
 
 ## 证据(README 行号)
 
 > L3: Corvid is a general-purpose programming language built for AI-native software.
 > L5: Python, TypeScript, Rust, Go, and JavaScript can call models through libraries. Corvid makes the AI parts visible to
-> L7: The goal is not to be a RAG DSL. The goal is a real language for CLIs, servers, data pipelines, automation, embedded
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b9c43946b601` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `87a905aefeb3` · [字段定义](../../DATASET.md)*

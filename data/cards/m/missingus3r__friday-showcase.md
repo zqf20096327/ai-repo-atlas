@@ -1,10 +1,10 @@
 # missingus3r/friday-showcase
 
-⭐ 195 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/missingus3r/friday-showcase) · [官网](https://missingus3r.github.io/friday-showcase/) · 组织维护
+⭐ 195 · HTML · 推送 2026-10-28 · [GitHub](https://github.com/missingus3r/friday-showcase) · [官网](https://missingus3r.github.io/friday-showcase/) · 个人维护
 
-**基于 Claude Code 的 24/7 个人 AI 助手系统展示与搭建方案**
+**基于 Claude Code 的 24/7 Telegram 个人 AI 助手**
 
-运行于个人 Windows/Linux/macOS 机器的常驻个人 AI 助手：以 Claude Code CLI（Anthropic Max Plan，$100/月）为运行时，通过 Telegram 交互，借助 MCP 插件与 cron 调度实现定时简报、自主监控、邮件、Git、语音（ElevenLabs）、网络研究等能力。附带 Flask+SQLite 记忆服务器（含 RAG、实体追踪、D3.js 图可视化）与自进化子系统（技能习得、夜间反思、偏好学习、自我改进提案）。本仓库提供 SETUP.md 让 Claude Code 自动生成各用户的代码实例，无需微调或编排框架。
+以 Anthropic Claude Code CLI 为核心运行时、通过 Telegram 交互的个人助理系统：执行定时任务、管理文件与项目、维护跨会话持久记忆，并具备自我演化机制——技能习得、每日反思、偏好学习、世界建模与改进提案（须经用户批准）。记忆层为 Flask + SQLite 单文件服务，嵌入以 BLOB 存储于同一 SQLite，无外部向量库。运行于标准 Windows/Linux/macOS 机器，依赖 Claude Code Max 订阅（$100/月），仓库本身不含可直接克隆的成品代码，由 SETUP.md 驱动 Claude Code 生成实现。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 仅依赖 Claude Code CLI + Telegram，无自定义 AI 后端与编排框架
-- Flask+SQLite 单文件记忆层：对话日志、3072 维向量 RAG、混合检索（FTS5+语义 RRF）
-- 自进化子系统：技能习得、夜间反思、偏好学习、世界建模、需批准的自我改进提案
-- 可选本地视觉检测：YOLOv8n + OpenCV 在设备上识别人员并发 Telegram 告警
+- 以 Claude Code CLI 为唯一运行时，无编排框架与微调模型
+- 五个自我演化子系统：技能习得、每日反思、偏好学习、世界模型、改进提案
+- Flask + SQLite 单文件记忆服务，支持混合检索与 D3.js 可视化
+- 可选 YOLOv8n 本地摄像头人物检测，数据不出本机
 
 ## 适用场景
 
-- 搭建全天候 Telegram 个人助手处理简报、邮件、Git 与研究任务
-- 长期跟踪个人偏好与记忆并主动发起提醒
-- 把安全摄像头接成本地人员检测告警
+- 通过 Telegram 随时与个人助理对话、布置任务与接收主动消息
+- 让助手定时推送天气、汇率、AI 新闻等简报
+- 积累个人偏好与记忆，跨会话保持上下文
+- 本地监控安防摄像头并在检测到人时告警
 
 ## 场景标签
 
-`AI 助手` `Agent 记忆` `目标检测` · 领域:Agent 开发
+`AI 助手` `目标检测` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L5: An always-on personal AI system using only Claude Code CLI ($100/month) and Telegram — no custom AI, no cloud VMs, n
 > L11: A self-evolving AI assistant that runs 24/7 on a standard Windows, Linux, or macOS machine. It talks over Telegram,
-> L15: Claude Code sits at the center, reaching external services through MCP (Model Context Protocol) plugins and shell t
+> L75: - **Voice messages** — transcribes audio in (ElevenLabs Scribe STT), replies with synthesized speech (ElevenLabs TT
+> L82: - **Skill acquisition** — extracts reusable patterns from solved tasks, stored with trigger patterns
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f2ac3df0bd79` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e6b787c9826f` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 230 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Sudharsanselvaraj/Token-Print) · [官网](https://tokenprint.in/) · 个人维护
 
-**Transformer 架构与推理过程的 3D 可视化调试器**
+**开发者的 Transformer 3D 可视化调试器：实时检查注意力与推理过程**
 
-加载真实模型（默认 Qwen2.5-0.5B-Instruct）运行真实前向传播，在 3D 界面中检视注意力、RoPE、KV cache 与残差流；提供断点、观察表达式、激活消融前后对比、logit lens、trace 录制回放与分支等调试功能。支持 Python 后端、量化 GGUF、浏览器 WebGPU+ONNX 运行 GPT-2 三种方式。面向研究与学习 transformer 内部机制的用户；限制：llama.cpp 路径下无逐层激活、浏览器推理仅覆盖 GPT-2 桌面端贪婪解码。
+开源 3D 可视化调试工具：加载真实模型执行前向传播，实时呈现注意力、RoPE、KV cache 与残差流，支持断点、激活消融、logit lens、trace 录制回放等调试功能。提供三种运行方式：PyTorch 后端（CUDA/MPS/CPU）、llama.cpp 的量化 GGUF 推理、浏览器内 GPT-2 WebGPU 推理。数据标记 REAL/DERIVED/CONCEPTUAL/SIMULATION 并有 CI 校验与独立验证脚本。支持 Qwen、Llama、Gemma、Mistral、DeepSeek、Phi 等模型家族，可托管于 Hugging Face Spaces + ZeroGPU。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 真实数值可视化，CI 禁止假数据进入应用，数值带 REAL/DERIVED/CONCEPTUAL/SIMULATION 标签
-- 断点、激活消融 diff、logit lens、induction-head 实验与 trace 录制回放分支
-- 三种运行方式：Python 后端 / 量化 GGUF / 浏览器 WebGPU+ONNX 运行 GPT-2
-- 支持 Qwen2.5 实时运行，Llama、Gemma、Mistral、DeepSeek、Phi 等以 GGUF 加载
+- 断点、消融、activation patching、logit lens、induction-head 实验室等调试机制
+- GGUF 文件在客户端解析，数据不上传
+- 每个数值可追溯到 named_parameters() 或真实前向传播，并有 CI 校验与验证脚本
+- 三种运行模式：PyTorch 后端 / llama.cpp 量化 GGUF / 浏览器 WebGPU
 
 ## 适用场景
 
-- 学习与教学 transformer 内部机制（注意力、RoPE、KV cache）
-- 调试与消融实验：观察激活变化对输出的影响
-- 离线回放录制 trace 演示模型推理过程
+- 调试和理解模型内部注意力与激活行为
+- 向学生逐步演示 tokenizer 到 softmax 的推理流程
+- 检查量化 GGUF 权重的逐 token 概率与 KV cache 开销
+- 在无 GPU 环境下回放录制的推理 trace
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+ · 领域:开发工具/模型可视化调试
 
 ## 证据(README 行号)
 
-> L5:  TokenPrint is a 3D visual debugger for transformers. Load a real model, run a real forward pass,
-> L60: - **A debugger, not just a viewer.** Breakpoints, watch expressions, activation ablation with before/after diff, lo
+> L4:  An open-source 3D visual debugger for transformers: run a real forward pass and inspect attention, RoPE, the KV cac
+> L35: Architecture diagrams show you a transformer. TokenPrint runs one and lets you look inside. Load a real model, run 
+> L38: - **A debugger, not a viewer.** Breakpoints, watch expressions, activation ablation with before/after diff, logit l
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a00e85d36644` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `1d4f264754ab` · [字段定义](../../DATASET.md)*

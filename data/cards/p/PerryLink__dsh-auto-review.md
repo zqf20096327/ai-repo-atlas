@@ -2,9 +2,9 @@
 
 ⭐ 255 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-auto-review) · [官网](https://www.npmjs.com/package/dsh-auto-review) · 个人维护 · 中文 README
 
-**DeepSeek Harness 审批链插件：第二模型自动评审 allow/deny**
+**为 DeepSeek Harness 提供第二模型自动审批裁决的插件**
 
-面向 DeepSeek Harness 的审批环节插件：当 agent 动作越过沙箱边界时，由一个只读评审子代理（工具白名单 read/glob/grep）读取工作区证据与已流式的工具调用参数，返回结构化裁决 { decision, reason, riskLevel }。默认失败即关闭（fallbackPolicy 默认 rejected）；deny 理由会注入被拒工具结果反馈给调用模型；全部裁决可由会话日志重建（approval/asked → autoReview/verdict → approval/decided）。提供按工具策略（ai/human/never）、正则风险规则、熔断器与一次性 /auto-review approve 覆盖等配置项，通过 dsh plugin 命令安装。
+面向 DeepSeek Harness 的社区审批插件：当工具调用越过沙箱边界（ai 策略）时，只读审查子代理读取脱敏后的工具参数、工作区证据与风险规则，返回结构化 {decision, reason, riskLevel} 裁决；审查失败走 fallbackPolicy（默认 rejected，失败关闭），拒绝理由经 callId 注入工具结果，全部决策可由会话日志重建。附带 dsh-eval 代理评估引擎与独立 stdio MCP 服务器（确定性规则+缓存，无模型）。面向使用 DeepSeek Harness 的开发者。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 只读评审子代理返回结构化 allow/deny 裁决并附理由
-- 默认 fail-closed：评审崩溃/超时/模式不匹配走 rejected 回退
-- deny 理由注入被拒工具结果，回传给调用模型
-- 会话日志全量可审计（approval/asked → autoReview/verdict → approval/decided）
+- 只读审查子代理返回结构化 allow/deny 裁决，默认失败关闭
+- 拒绝理由注入被拒工具结果，附 /auto-review approve 一次性覆盖与拒绝熔断器
+- 可选 Phocinae 本地非生成式后端（默认 0.45 置信度，91 条命令基准 0/58 破坏性放行）
+- 附带 dsh-eval YAML 评估引擎与独立 MCP 服务器
 
 ## 适用场景
 
-- 让第二模型代替人工审批 agent 的 bash/write 等越界动作
-- 为高风险动作配置正则风险规则与熔断策略
-- 从会话日志审计每条自动审批裁决的依据
+- 为 DeepSeek Harness 代理的无人在环工具调用自动审批
+- 需要每次 AI 裁决可从会话日志审计回放的团队
+- 用 dsh-eval 对代理行为做 CI 回归门禁
+- 通过 MCP 在外部客户端消费确定性风险规则裁决
 
 ## 场景标签
 
- · 领域:开发者工具/Agent 安全
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L6: **Second-model AI approval for DeepSeek Harness — a read-only reviewer subagent decides allow/deny on the approval c
-> L66: `dsh-auto-review` puts a second model on the `approval/request` answerer chain:
-> L69: 2. **Read-only reviewer subagent** — a one-shot fork with a `read`/`glob`/`grep` tool allow-list returns a structur
+> L9: 面向 DeepSeek Harness 的第二模型 AI 审批插件：当动作越过沙箱边界，一个只读审查子代理读取证据并返回带理由的裁决，默认失败关闭。
+> L92: `dsh-auto-review` 在 `approval/request` answerer 链上加入第二模型：
+> L164: |`dsh-eval`|CLI|YAML 驱动的代理评估引擎（`bin/dsh-eval.mjs`）|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `36a451915e8f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `aae6e19d8dce` · [字段定义](../../DATASET.md)*

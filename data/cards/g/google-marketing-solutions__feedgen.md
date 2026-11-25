@@ -2,9 +2,9 @@
 
 ⭐ 269 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-marketing-solutions/feedgen) · 组织维护
 
-**用 Vertex AI LLM 优化 Google Shopping 商品流的工具**
+**给电商商家用生成式 AI 优化 Shopping 商品标题与描述**
 
-基于 Google Apps Script、以 Google Sheets 侧边栏形式运行的开源工具，面向使用 Google Merchant Center 的商家和广告主：调用 Vertex AI 的 Gemini/PaLM 基础模型，以零样本或少样本提示生成更优商品标题、更完整描述并补齐缺失属性，随后由模型自评打分供人工批量审批，结果可作为 Merchant Center 补充流导入。支持读取商品落地页文本与图片理解（限视觉模型），默认优先使用输入流已有属性值以降低幻觉。README 声明适用于最多约 3 万条商品，更大规模建议用 Product Studio API 或 BigQuery。开始方式为复制 Sheets 模板并按工作表指引初始化。
+基于 Google Apps Script、运行在 Google Sheets 侧边栏的开源工具，通过 GCP Vertex AI 的基础 LLM 改写商品标题、生成描述并补全缺失属性，支持 zero-shot 与 few-shot（用自有 feed 中 3-10 条样本定制输出）。提供生成内容的评分校验、人工逐条/批量审批、错误自动重生成，并可将结果作为补充 feed 接回 Merchant Center。支持读取商品落地页内容辅助生成；规模上限约 3 万条商品。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- LLM 生成/优化商品标题、描述并补齐缺失属性
-- 少样本提示与 Vertex AI 模型微调路径（Gemini/PaLM 系列）
-- 生成内容带模型自评分数，支持 Sheets 内批量审批
-- 可读取商品落地页内容与图片信息辅助生成
+- 在 Google Sheets 侧边栏内完成配置、生成与审批全流程
+- few-shot 用自有 feed 样本定制模型输出，可结合微调
+- 生成内容评分与批量审批（Approve Filtered）机制
+- 读取商品落地页 HTML/JSON 内容辅助生成标题与描述
 
 ## 适用场景
 
-- 我想批量修复 Merchant Center 商品流的质量问题
-- 用 LLM 为商品生成更完整的标题和描述
-- 审批后再导入 Merchant Center 作为补充流
+- 批量修复 Merchant Center 里的商品标题/描述质量问题
+- 补全商品 feed 中缺失的属性
+- 用自有优质商品样本引导模型生成风格一致的内容
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:电商/营销工具
 
 ## 证据(README 行号)
 
-> L47: **FeedGen** is an open-source tool that uses Google Cloud's state-of-the-art
-> L53: The tool relies on GCP's Vertex AI API to provide both zero-shot and few-shot
+> L48: **FeedGen** is an open-source tool that uses Google Cloud's state-of-the-art
+> L89: FeedGen is an Apps Script based application that runs as an HTML sidebar (see
+> L54: The tool relies on GCP's Vertex AI API to provide both zero-shot and few-shot
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `ce6ba4d69e7b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `823f4371f999` · [字段定义](../../DATASET.md)*

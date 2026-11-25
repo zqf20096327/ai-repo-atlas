@@ -2,9 +2,9 @@
 
 ⭐ 249 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/zihao-ai/Awesome-Backdoor-Research) · 个人维护
 
-**后门攻击与防御研究论文策展清单（887 篇，12 类）**
+**AI 后门攻击与防御研究论文资源清单（896 篇）**
 
-汇编 AI 后门攻击与防御研究资源的 awesome list：收录 887 篇论文，按 AI Agents、NLP 与语言模型、多模态、生成模型、具身智能、计算机视觉、图学习、语音、强化学习、联邦学习、基础理论、综述共 12 个类别与 39 个子类组织，各表按时间倒序列出年份/会议、论文、类型（Attack/Defense/Analysis/Survey/Benchmark/Dataset 等）与代码链接。面向安全研究人员快速检索相关文献，另含教程课程、研讨会与工具箱栏目。
+面向 AI 安全研究者的论文聚合清单：收录 896 篇后门攻击与防御相关论文，按 12 个研究领域、39 个子类别组织，覆盖视觉、语言模型、AI Agent、生成模型、具身智能、图学习、联邦学习等方向；每篇标注年份、发表venue、类型（Attack/Defense/Analysis/Application/Survey/Benchmark/Dataset）及代码链接；另含教程、课程、workshop 与工具箱资源入口，建议从 22 篇综述入手浏览。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 887 篇论文按 12 类 39 子类组织
-- 每条标注论文类型（Attack/Defense/Analysis/Benchmark 等）与代码链接
-- 覆盖从视觉、语言模型到 AI Agents、具身智能的跨领域后门研究
-- 含教程课程、研讨会与工具箱栏目
+- 896 篇论文、12 类别、39 子类别的结构化目录
+- 每篇标注论文类型与代码实现链接
+- 覆盖 LLM Agent 技能/记忆后门等新攻击面
+- 附带教程、课程、workshop 与工具箱栏目
 
 ## 适用场景
 
-- 查找某一子领域的后门攻击/防御论文及对应代码
-- 通过综述条目了解后门研究全景
-- 追踪 LLM Agent 与具身智能的后门安全进展
+- 查找后门攻击/防御方向的研究切入点与综述
+- 为新方法寻找同领域 baseline 论文与开源实现
+- 调研 AI Agent 与 LLM 供应链中的后门威胁
 
 ## 场景标签
 
-`精选清单` `网络安全` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L15: **887 Papers · 12 Categories · 39 Subcategories**
-> L77: **Paper types:** `Attack` · `Defense` · `Analysis` · `Application` · `Survey` · `Benchmark` · `Dataset`
+> L1: Awesome Backdoor Research — backdoor attacks, defenses, and research resources across AI
+> L15: **896 Papers · 12 Categories · 39 Subcategories**
+> L17: Start with surveys for an overview, or browse a research area and its subcategories. Each table lists papers from n
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e981bcf46b03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e59f109d9e32` · [字段定义](../../DATASET.md)*

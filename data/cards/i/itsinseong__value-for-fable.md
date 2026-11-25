@@ -1,10 +1,10 @@
 # itsinseong/value-for-fable
 
-⭐ 240 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/itsinseong/value-for-fable) · 个人维护
+⭐ 240 · Python · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/itsinseong/value-for-fable) · 个人维护 · 中文 README
 
-**Claude Code 插件：给 Sonnet 注入结构化行为规范的 output-style 配置**
+**为 Claude Code 注入运营结构、以 Sonnet 单价接近 Opus 品质的插件**
 
-面向 Claude Code 用户的插件，包含技能（会话模式，口令触发）、子代理（Sonnet 草稿+可 Opus 覆写的 2-pass 审查，4 项固定审查标准）、output style（全时段被动模式）与 drift 提醒 shell 脚本（在 transcript > 400KB 且激活时注入）。核心是 8 分区行为规则（沟通、推理、工具规范、验证、代码、写作、语气、token 经济），v2 移除 v1 的压缩强制；推荐 v2。通过 Claude Code 插件市场或手动文件拷贝安装；作者声明效果限于诊断/建议风格的回答质量，而非实际编程任务指标，深推理任务推荐 Opus 路由。
+一个 Claude Code 插件，包含会话技能（VFF 触发词）、2-pass 审查子代理、Output Style 常驻模式与防漂移 hook 四类组件。核心机制是把从 Fable 5 观察到的运营模式（结论先行、线索优先、先测量、验证后完成）重构成 8 段 output-style 注入给 Sonnet，作者明确声明这不是蒸馏或复制上层模型，而是引出 Sonnet 自身能力，因此不突破模型推理上限；对纯推理瓶颈任务仍建议路由到 Opus。附带 bench/ 目录的可复现评测框架。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 8 分区行为结构注入 Sonnet（v2 推荐，v1 保留）
-- 技能（会话模式）+ 子代理（2-pass 审查）+ output style（持久模式）+ 漂移提醒 hook
-- Claude Code 插件市场单命令安装
-- bench/ 公开重测数据与 Opus 路由指引
+- 8 段运营结构 output-style：结论先行、线索优先假设、先测量、验证后完成
+- 会话技能触发/解除（VFF、韩文触发词）与 2-pass 审查子代理（4 项固定审查标准）
+- hook 按条件注入提醒（transcript 超 400KB 且 VFF 激活），其余情况注入成本为 0
+- bench/ 提供可复现的盲测评测框架与原始数据
 
 ## 适用场景
 
-- 用 Sonnet 价格获得更结构化的诊断/建议类回答
-- 长会话中维持注入行为结构不漂移
-- 在高难度任务前获得 Opus 路由提示
+- 在 Claude Code 中以 Sonnet 单价运行诊断/咨询类任务
+- 需要结构化技术诊断回答的开发者工作流
+- 对 Claude 模型的回答做盲测对比评测
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`提示工程` `模型评测` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L70: VFF가 품질을 끌어올리는 방식은 모델을 바꾸는 게 아니라 **행동 패턴을 바꾸는 것**이다. Fable 5에서 관찰되는 운영 패턴 — 단서 우선 가설, 측정 먼저, 결론 첫 문장, 검증 후 완료 선언 — 
-> L79: │   ├── plugin.json             # 플러그인 매니페스트 (name·메타데이터)
+> L3:  Claude Code plugin
+> L12:  Claude Code 플러그인, <code>/model sonnet</code>과 함께 사용. 수치는 2026-06 측정(Sonnet 4.6, Opus 4.8 기준)
+> L29: VFF가 품질을 끌어올리는 방식은 모델을 바꾸는 게 아니라 **행동 패턴을 바꾸는 것**이다. Fable 5에서 관찰되는 운영 패턴(단서 우선 가설, 측정 먼저, 결론 첫 문장, 검증 후 완료 선언)을 **
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c668d192d728` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b162e975ebb6` · [字段定义](../../DATASET.md)*

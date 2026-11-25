@@ -2,9 +2,9 @@
 
 ⭐ 199 · Dart · MIT · 推送 2026-11-08 · [GitHub](https://github.com/PythonnotJava/RemindAI) · [官网](https://www.robot-shadow.cn/extend/remindai/) · 个人维护 · 中文 README
 
-**桌面 AI 助手：让大模型直接操作文件、执行代码、管理记忆**
+**桌面 AI 工作台：接模型、装技能、连 MCP、建持久记忆**
 
-基于 Flutter 的开源桌面 AI 助手，核心理念是为大模型提供工具外壳（ToolShell）：内置沙盒文件系统、Python/Shell/JS 执行器、Qdrant+SQLite 向量记忆、MCP 协议接入（stdio/SSE/Streamable HTTP）与四层技能系统（L1 元技能/L2 全局/L3 临时，L4 规划中）。支持 OpenAI/Anthropic/Gemini 三家适配，含多 Agent 协作、内置 HTTP API 服务器与像素宠物 Agent。Windows 提供预编译安装包，Linux/macOS 需 Flutter SDK 从源码构建。
+基于 Flutter 构建的开源桌面 AI 助手应用，功能覆盖工具执行、技能安装、MCP 服务器连接与持久记忆构建，支持接入多个模型并在同一界面使用。Windows 平台提供预编译安装包，Linux/macOS 需从源码构建（需 Flutter SDK >= 3.12.1）。README 附优化参考论文链接，并声明项目现由自身和其他 Agent 维护、不再发布新的编译版本。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- ToolShell 内置沙盒文件系统与 Python/Shell/JS 执行器
-- 四层技能系统，SKILL.md + tools.json 格式，ZIP 批量导入
-- Qdrant + SQLite 双写向量记忆与软失效过滤
-- 内置 HTTP API 服务器，对外暴露 OpenAI 聚合 / Claude Agent / Claude 代理三种端点
+- 在一个桌面界面接入多个模型
+- 支持安装技能与执行工具
+- 支持连接 MCP 服务器与构建持久记忆
+- Windows 提供预编译安装包
 
 ## 适用场景
 
-- 让 AI 在本地直接读写文件、执行代码完成实际任务
-- 通过 MCP 协议接入外部工具并统一管理技能
-- 搭建带持久记忆的桌面个人 AI 工作台
+- 在同一桌面应用中切换使用多个模型
+- 通过技能与 MCP 服务器扩展助手能力
+- 为个人工作流构建带持久记忆的 AI 助手
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L21: RemindAI 是一个**开源桌面 AI 助手**，核心理念是为大模型提供一层完整的**工具外壳 (ToolShell)**，让 AI 不仅能聊天，还能直接操作文件、执行代码、调用外部工具、管理记忆、自主规划任务——成为真正能「
-> L71: |AI 对话核心 (LLM + tool calling)|✅|AgentLoop 流式循环 + 事件驱动 UI|
-> L102: |🎨 多模型|OpenAI/Anthropic/Gemini 原生适配 + 流式推理链 + 多模态|
+> L3:  开源桌面 AI 助手，不再只是对话
+> L10:  Flutter
+> L11:  MCP
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `afa7f29288e9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b8636e687467` · [字段定义](../../DATASET.md)*

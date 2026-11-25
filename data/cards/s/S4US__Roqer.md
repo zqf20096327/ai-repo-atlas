@@ -1,10 +1,10 @@
 # S4US/Roqer
 
-⭐ 219 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/S4US/Roqer) · 组织维护
+⭐ 219 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/S4US/Roqer) · 个人维护
 
-**Roblox Studio 开源 AI agent：按自然语言指令搭建、编写脚本并试玩**
+**Roblox Studio 的 AI 代理：按指令搭建、写脚本并测试**
 
-面向 Roblox 开发者的开源 AI agent 桌面应用（Electron）。用户用自然语言下达需求，agent 在自己的 place 中读取与编辑实例、属性和脚本，编写 Luau 脚本，生成 R15 角色动画，可选集成 Blender 建模并上传；可运行单人/多客户端试玩、读服务器与客户端输出、截图并做性能分析。模型由用户自带：ChatGPT（Codex app）、Claude（Claude Code）、Gemini（Antigravity CLI）或任意 OpenAI/Anthropic 兼容端点（含本地模型）。本地运行，无账号/服务器；需 Windows + Roblox Studio + Node.js 20+，从源码构建运行。Studio 工具也可作为独立 MCP 服务器供其他 AI 客户端使用。AGPL-3.0-or-later。
+面向 Roblox Studio 创作者的桌面端 AI 代理：读取并编辑场景实例、属性与脚本，运行单人/多客户端 playtest、读取输出、截图并分析性能；可选 Blender 建模集成与图像生成（贴图/UI 图标）；支持 Rojo 项目同步到 git。模型接入方式为复用用户已有的 ChatGPT（Codex）、Claude（Claude Code）、Gemini CLI 或任意 OpenAI/Anthropic 兼容端点，本地运行、无需 Roqer 账号。需 Windows（或 Linux+Vinegar）与 Node.js 20，从源码构建。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- 自然语言驱动：在 Roblox Studio 中搭建、写脚本、生成动画并自动试玩
-- 支持任意 OpenAI/Anthropic 兼容端点，含本地模型；对话直连用户所选模型商
-- Studio 工具打包为独立 MCP 服务器，可被 Claude Code/Codex/Cursor 等客户端复用
-- 可选 Blender 建模集成与 Rojo 项目同步（脚本改动进 git diff）
+- 在用户自己的 Roblox 场景中读写实例、属性、脚本并自动 playtest
+- 可选 Blender 集成建模、预览渲染并上传到场景
+- 支持 ChatGPT/Claude/Gemini 订阅及任意 OpenAI/Anthropic 兼容端点（含本地模型）
+- Studio 工具可作为独立 MCP 服务器供 Claude Code/Codex/Cursor 等客户端调用
 
 ## 适用场景
 
-- 让 AI 在我的 Roblox place 里实现武器、特效等玩法并自动试玩验证
-- 用自己的 ChatGPT/Claude 订阅驱动 Studio 内的构建工作流
-- 在 Claude Code/Cursor 等已有 AI 客户端中直接操作 Roblox Studio 工具
+- 用自然语言让代理在 Roblox 场景里搭建地图、模型并编写 Luau 脚本
+- 生成粒子贴图、UI 图标与角色动画并自动测试
+- 将 Studio 工具接入自己的 MCP 客户端工作流
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `图像生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L5:  An open-source AI agent for Roblox Studio.
-> L6:  Tell it what you want, and it builds, scripts, and playtests it in your place,
 > L28: - **Your own model.** ChatGPT through the Codex app, Claude through Claude Code, Gemini through the Antigravity CLI
-> L32: - **Tests its own work.** Runs solo and multi-client playtests, reads server and client output, takes screenshots, 
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5f0918d7ee42` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `502609a8ada7` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 257 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/NVIDIA/NeMo-Relay) · [官网](https://docs.nvidia.com/nemo/relay) · 组织维护
 
-**多语言 agent 运行时库：管理工具与 LLM 调用的作用域、生命周期与中间件**
+**给 agent 模型/工具调用加观测、管控与中间件的运行时库**
 
-NVIDIA 维护的 agent 运行时与库，为编码 agent、应用、框架集成与可观测性后端提供共享运行时：管理运行/轮次/工具/LLM 调用的作用域与父子血缘，在调用边界应用统一的生命周期与中间件规则（拦截、改写、路由、重试），通过插件启用可观测性与导出器，输出 ATOF 原始事件、ATIF 轨迹与 OpenTelemetry 数据。提供 CLI 包装 Codex/Claude Code 等编码 agent，Python/Node.js/Rust 绑定完整支持，Go 与 FFI 为实验性。
+NVIDIA 开源的 agent 运行时库，将 agent 的模型调用与工具调用包进统一的运行时契约，提供作用域管理、生命周期事件与中间件。通过 CLI 附加到已支持的编码 agent，或通过 Python/Node.js/Rust SDK 嵌入自有代码；中间件可在调用执行前拦截、净化、脱敏或改写。输出统一事件流，可导出为 ATOF、ATIF、OpenTelemetry 或 OpenInference 格式。以插件机制启用可观测性、PII 脱敏、模型计价与自适应调优。目前为 beta 软件，API 与行为可能随版本变化。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ NVIDIA 维护的 agent 运行时与库，为编码 agent、应用、框架集成
 
 ## 能力要点
 
-- 作用域/血缘/清理边界管理，覆盖运行、轮次、工具、LLM 调用与子 agent
-- LLM 与工具调用的托管中间件（block/改写/路由/重试/替换）
-- 同一运行时流导出 ATOF、ATIF 与 OpenTelemetry 轨迹/日志/指标
-- CLI 透明包装 Claude Code、Codex 等 agent harness，无需改动现有技术栈
+- 在调用执行前施加中间件策略（阻断/净化/脱敏/改写）
+- 统一事件流导出 ATOF/ATIF/OpenTelemetry/OpenInference
+- Python、Node.js、Rust SDK 及 CLI，插件经 plugins.toml 启用
+- 模型计价估算每次调用成本，自适应插件调整缓存与请求提示
 
 ## 适用场景
 
-- 本地录制 Codex 或 Claude Code 的 agent 运行轨迹并排查问题
-- 为 LangChain/LangGraph/Deep Agents 应用注入统一的调用边界与可观测性
-- 打包可复用的中间件、护栏或导出器插件
+- 观测本地编码 agent 的模型与工具调用轨迹
+- 在企业 agent 中对工具调用执行安全与合规策略
+- 评估 agent harness 改动对行为的影响
+- 估算并调优 agent 运行的成本与延迟
 
 ## 场景标签
 
-`Agent 框架` `LLM 可观测性` · 领域:Agent 开发
+`LLM 可观测性` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L14: NVIDIA NeMo Relay provides visibility into and control over agent runs without
-> L219: Relay connects agent systems. A production application can
-> L239: Relay does not replace frameworks, model provider, application logic,
+> L14: NVIDIA NeMo Relay is a library that wraps your agents' model and
+> L22: - **Enforce policy at the call.** Middleware and guardrails can block,
+> L71: runtime contract for scopes, policy, plugins, and lifecycle events, instead of
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d7dd326b688a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `31dceead7175` · [字段定义](../../DATASET.md)*

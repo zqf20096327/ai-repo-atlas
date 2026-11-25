@@ -2,9 +2,9 @@
 
 ⭐ 212 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/deepset-ai/haystack-core-integrations) · [官网](https://haystack.deepset.ai) · 组织维护
 
-**deepset 维护的 Haystack 框架扩展集成包集合**
+**为 Haystack 框架扩展组件与文档存储的集成包集合**
 
-deepset 官方维护的 Haystack 生态扩展仓库，收录上百个自包含的集成包，类型覆盖 Generator、Embedder、Document Store、Converter、Ranker、Tracer、Evaluator、Web Search 等，对接 Anthropic、Cohere、Ollama、OpenRouter、Amazon Bedrock 等模型服务以及 Chroma、Qdrant、Pinecone 等向量存储。各集成包单独发布到 PyPI，仓库内含安装、用法与支持详情的各自 README。开发使用 hatch 管理隔离 Python 环境并运行测试。部分集成已标记 Archived，由替代包接续。
+由 deepset 维护的仓库，收录扩展 Haystack 能力的集成包，类型涵盖 Generator、Embedder、Document Store、Converter、Ranker、Tracer、Tool、Web Search 等；每个集成为独立自包含的包，附带各自的 README 说明安装、用法与支持方式。仓库提供基于 hatch 的开发环境：进入对应集成目录后用 hatch 运行测试套件，由 hatch 建立隔离的 Python 环境；并给出各包在 PyPI 的版本、测试状态与覆盖率清单。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ deepset 官方维护的 Haystack 生态扩展仓库，收录上百个自包含�
 
 ## 能力要点
 
-- 上百个自包含集成包，覆盖 Generator/Embedder/Document Store/Converter/Tracer 等类型
-- 各集成包均发布为独立 PyPI 包
-- 使用 hatch 搭建隔离 Python 环境并运行各集成的测试套件
-- 清单标注每个集成的状态与测试覆盖率徽章
+- 收录数十个集成包，覆盖文档存储、模型生成器、嵌入器、转换器等类型
+- 每个集成为自包含包，独立维护并各有专属 README
+- 提供 hatch 驱动的隔离 Python 环境与测试套件运行方式
+- 清单标注各包的 PyPI 版本、测试状态与单元/组合覆盖率
 
 ## 适用场景
 
-- 为 Haystack 管道接入特定模型服务或向量数据库
-- 查找 Haystack 支持的集成组件及其维护状态
-- 在本仓库基础上开发新的 Haystack 集成
+- 为 Haystack 管道接入特定文档存储（如 Chroma、Elasticsearch、Pinecone）
+- 为 Haystack 接入不同模型服务商的生成与嵌入组件
+- 参与集成包开发并运行其测试套件
 
 ## 场景标签
 
- · 领域:LLM 基础设施/框架扩展
+`RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L3: This repository contains integrations to extend the capabilities of Haystack. The code in this repo is maintained by
-> L26: |Package|Type|PyPi Package|Status|Coverage (unit tests)|Coverage (combined)|
+> L28: |agent-pack-haystack|Agents|PyPI - Version|Test / agent_pack|Coverage badge|Coverage badge|
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `cbd92ce7a343` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `97f8169f6d3d` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # crabtalk/cydonia
 
-⭐ 208 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/crabtalk/cydonia) · [官网](https://cydonia.sh) · 组织维护
+⭐ 208 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/crabtalk/cydonia) · [官网](https://cydonia.sh) · 个人维护
 
-**管理 40+ 编码 agent 的本地优先桌面工作台**
+**本地优先的 Agent 控制面板：让多个 ACP agent 共享工作区**
 
-基于 GPUI 的桌面应用，面向运行编码 agent 的开发者：把目录作为项目打开，接入任何支持 ACP 协议的 agent（Claude Code、Codex、OpenCode、Pi 等 40+），将产出以文章、看板、表格等持久工件形式存于磁盘而非聊天记录。agent 可从 ACP 注册表安装或通过 settings.toml 手动配置；外部 MCP agent 可通过 project_entries/project_read_entry 读取条目。数据存储于本机目录，项目 store 自带 .gitignore。通过 cargo install 安装，MIT 许可。
+基于 Rust 与 GPUI 构建的桌面工作区应用，用户在自己的磁盘上与 ACP 协议的 agent（如 Claude Code、Codex、OpenCode、Pi 等）协作；项目以 articles 与 boards 组织 agent 会话与产出，agent 目录可从 ACP registry 安装或使用自定义 agent。配置与缓存位于 ~/.config/cydonia，项目数据写入 <project>/.cydonia 并自带 .gitignore，与项目源码隔离。提供 shell 安装脚本、Windows PowerShell 安装脚本及 cargo install 源码安装方式。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 通过 ACP 协议接入 Claude Code、Codex、OpenCode、Pi 等 40+ agent
-- 产出以文章、看板、表格等持久工件形式落盘，非聊天日志
-- 支持外部 MCP agent 通过 project_entries/project_read_entry 读取条目
-- 数据存放于本机 ~/.config 与项目 .cydonia 目录，本地优先
+- 支持任意 ACP 协议 agent 共存于同一本地工作区
+- 以 articles 与 boards 组织 agent 的会话与产出
+- 从 ACP registry 安装 agent 或使用自定义 agent
+- 本地优先：数据保存在用户磁盘，项目数据与源码隔离
 
 ## 适用场景
 
-- 在一个桌面工作台里统一管理多个编码 agent 会话
-- 把 agent 的产出整理为文章和看板等可持久保存的工件
-- 让 MCP agent 读取项目内的条目与表格数据
+- 在桌面环境中同时管理多个编码 agent
+- 集中查看与组织 agent 产生的会话和内容
+- 按项目隔离 agent 的数据与配置
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+ · 领域:开发者工具/AI agent 基础设施
 
 ## 证据(README 行号)
 
-> L7: A desktop workspace for the coding agents you run. Open a directory as a
-> L8: project, put any agent that speaks ACP to work
-> L40: Install one from the ACP registry in **Settings › Agents**, or write it into
+> L7: A workspace you share with your agents, on your own disk. Any
+> L8: ACP agent works in it beside you.
+> L34: - Installing agents: from the ACP
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4173e1f79659` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `dd15024b9d49` · [字段定义](../../DATASET.md)*

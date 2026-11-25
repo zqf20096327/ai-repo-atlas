@@ -2,9 +2,9 @@
 
 ⭐ 219 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/primaprashant/awesome-voice-typing) · [官网](https://www.agenticcodingweekly.com/p/5-best-open-source-speech-to-text-tools-in-2026) · 个人维护
 
-**开源语音输入/听写工具策展清单（桌面、移动、CLI）**
+**开源语音输入/语音转文字工具策展清单（桌面/移动/CLI）**
 
-策展类 awesome 清单，收录各平台开源语音转文字与听写工具：覆盖 Linux/macOS/Windows/Android/iOS 与 CLI，条目按平台、运行模式（本地/混合/云端）、识别引擎（Whisper 系列、Parakeet、SenseVoice、Vosk 等）与功能摘要以表格组织，并附 30 天 Star 增长趋势、Hacker News 讨论索引及相关 ASR 引擎说明。范围限定为带听写工作流的开源应用/键盘/CLI，不含闭源产品、会议机器人与独立语音 API。面向寻找语音输入工具的用户与选型者。
+覆盖 Linux、macOS、Windows、Android、iOS 的开源语音转文字与听写工具清单，按目录表组织 50 余个条目，标注平台、运行模式（Local/Hybrid/Cloud）与所用 ASR 引擎。提供 30 天增长趋势表、Hacker News 讨论索引与推荐速查；附相关语音识别引擎/模型章节（Whisper、whisper.cpp、Parakeet、Vosk 等）。范围限定于带听写工作流的开源应用、键盘与 CLI 工具，排除闭源产品、会议机器人与独立语音 API。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按平台/模式/引擎/摘要四维组织约 40+ 条听写工具条目
-- 区分 Local/Hybrid/Cloud 三种运行模式
-- 附 30 天 Star 趋势表与 Hacker News 讨论索引
-- 列出 Whisper/whisper.cpp/Faster Whisper/WhisperKit/Parakeet/Vosk 等引擎说明
+- 50+ 开源语音输入工具条目，标注平台、Local/Hybrid/Cloud 模式与引擎
+- 30 天 Star 增长趋势表与 Hacker News 讨论索引
+- 相关引擎章节收录 Whisper、whisper.cpp、Faster Whisper、WhisperKit、Parakeet、Vosk、Apple Speech
+- 范围声明：仅收录开源、带听写工作流的工具
 
 ## 适用场景
 
-- 按平台和离线需求挑选开源语音听写工具
-- 了解各工具支持的识别引擎与云/本地模式
-- 查看近期社区热度的工具趋势与讨论
+- 为自己的操作系统挑选本地离线的语音听写工具
+- 了解语音输入工具所依赖的 ASR 引擎与模型生态
+- 按本地/云模式偏好筛选可用的听写方案
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L7: A curated list of open-source speech-to-text tools for voice typing and dictation across desktop, mobile, and CLI.
-> L117: This list focuses on open-source apps, keyboards, and CLI tools for voice typing and dictation across desktop, mob
+> L49: `Mode`: `Local` means on-device speech recognition. `Hybrid` means the tool supports both local and cloud or BYO-cl
+> L106: Speech recognition engines, models, and APIs that power the tools listed above.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0e233674f06b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d05269e82f8c` · [字段定义](../../DATASET.md)*

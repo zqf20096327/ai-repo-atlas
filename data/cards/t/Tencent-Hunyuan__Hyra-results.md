@@ -1,10 +1,10 @@
 # Tencent-Hunyuan/Hyra-results
 
-⭐ 261 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Tencent-Hunyuan/Hyra-results) · [官网](https://hy.tencent.com/research/hyra) · 组织维护 · 中文 README
+⭐ 261 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/Tencent-Hunyuan/Hyra-results) · [官网](https://hy.tencent.com/research/hyra) · 组织维护
 
-**Hyra 研究 Agent 的成果仓库：科学/工程问题的解与复现脚本**
+**腾讯混元 Hyra 研究智能体的成果工件集：科学/数学问题解法与模型**
 
-腾讯混元 Hyra（Hunyuan Research Agent）发布文章的配套成果仓库：收录该 agent 在科学、数学、工程与创意设计等开放问题上产出的最终解工件与自包含复现脚本。内容含 AI4Science 系列论文（Beurling–Ahlfors 变换系数、部分 Hadamard 矩阵计数、三维 Blaschke–Lebesgue 下界等）、AI4AI 自动研究跑分对比表，以及 AI4Fun 创意演示（黑白棋 bot、编曲、Blender 程序化建模）。仓库仅作成果发布，不含本产品安装命令；结果截至 2026-07-10 起分批更新。Apache-2.0 许可。
+该仓库是 Hyra（Hunyuan Research Agent）的配套成果库，收集其在科学、数学、工程与创意设计等开放问题上产出的具体解法：包含数学猜想的论文与 Lean 4 形式化、SAT 证明与可复算证书，以及带权重和代码的模型（PDE 基础模型 HyPDE、单细胞嵌入模型 HyCell、分子力场 HyFF、蛋白质模型 HyInv/HyPLM-Flash）。各文件夹存放最终解工件及自包含的复现脚本，并附与已发表先前结果的对照表。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- AI4Science 16 项任务结果与此前最优公开结果的对比表
-- 每项结果附论文目录与自包含复现脚本
-- AI4Fun 创意演示：AlphaZero 风格黑白棋 bot、五声部编曲、Blender 程序化建模
-- 明确标注结果时效与公开排行榜的 warm-start 后续可能性
+- 收集 Hyra 在科学、数学、工程、创意设计问题上的解法工件及复现脚本
+- 发布多个带权重与代码的模型：HyPDE（323M）、HyCell（16.1M）、HyFF 力场系列、HyInv/HyPLM-Flash
+- 数学成果附 Lean 4 形式化、drat-trim 校验的 SAT 证明与可复算证书
+- 提供与已发表先前最优结果的逐项指标对照表
 
 ## 适用场景
 
-- 查阅 Hyra agent 在数学与科学开放问题上的产出与对比数据
-- 获取各结果的论文与复现脚本
-- 跟踪 AI for Science 自动研究的基准表现
+- 查看 AI 研究智能体在各学科开放问题上的产出成果
+- 下载并复现 PDE、单细胞、分子模拟等 AI4Science 模型权重
+- 查阅数学猜想结果的论文、形式化证明与证书
 
 ## 场景标签
 
-`科研工具` `模型评测` · 领域:评测与运维
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: Companion artifacts for **Hyra**: **H**un**y**uan **R**esearch **A**gent.
 > L5: This repository collects concrete solutions that Hyra produced across a range of
 > L7: released alongside the Hyra launch post. Each folder holds the final solution
+> L79: - **2026-08-19**: 🧾 **Three new results, each with a Lean 4 formalization of its
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `afdd20a9cd64` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5de1e068ad49` · [字段定义](../../DATASET.md)*

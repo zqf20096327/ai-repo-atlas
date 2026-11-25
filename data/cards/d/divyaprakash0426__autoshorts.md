@@ -2,9 +2,9 @@
 
 ⭐ 210 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/divyaprakash0426/autoshorts) · 个人维护
 
-**把长视频自动切分为竖版短视频的 AI 剪辑工具**
+**把长视频自动剪成竖屏短片段的 AI 工具**
 
-面向内容创作者的视频处理工具：从长篇游戏录像等素材中，用 AI 场景分析（Gemini/OpenAI vision 或本地启发式）选取精彩片段，生成带样式字幕的竖版短片，支持 Whisper 转录、AI 生成字幕与可选的本地 Qwen3-TTS 多语言配音。渲染依赖 NVIDIA GPU：CUDA 解码/分析与 NVENC 编码，配音建议 6GB+ VRAM 与 16GB 内存。提供 Streamlit 仪表盘与 CLI 两种运行方式，通过 git clone 加 make install 安装，也提供 Docker 设置。云端分析会上传视频内容并可能产生 API 费用，local 模式用启发式选择但渲染仍需 NVIDIA 硬件。
+面向游戏录像等多类长视频的自动化剪辑工具：AI 分析选出精彩时刻后，执行裁剪、字幕、配音与竖屏渲染。支持 15 种内容预设，分析可选 Gemini/OpenAI 视觉模型或本地启发式；转录用 Whisper，配音用本地 Qwen3-TTS；渲染走 CUDA/NVENC，无 CUDA 时回退 libx264。提供 Streamlit 仪表盘与 CLI，支持 Docker。要求 NVIDIA GPU、CUDA 工具链与 NVENC 版 FFmpeg。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 15 种内容预设，游戏/电竞用动作启发式加 AI 排序，其他类型用 AI 优先选择
-- Gemini/OpenAI vision/本地启发式三种分析模式可选
-- Whisper 转录、AI 字幕、本地 Qwen3-TTS 多语言配音
-- CUDA 解码与 NVENC 编码的 GPU 渲染，可配置输出比例
+- 15 种内容预设的时刻选取，支持 Gemini/OpenAI 或本地启发式分析
+- Whisper 转录与本地 Qwen3-TTS 多语言配音
+- CUDA 解码与 NVENC 编码的 GPU 渲染，含 CPU 回退
+- Streamlit 仪表盘管理视频队列与生成片段
 
 ## 适用场景
 
-- 把游戏直播录像自动剪成多条竖版短视频
-- 播客、访谈等长内容批量生成带字幕的短片
-- 为短视频添加多语言 AI 配音旁白
+- 把游戏录像自动剪成竖屏短片
+- 为播客和访谈生成分发用的短视频片段
+- 给生成的片段加 AI 字幕与旁白配音
 
 ## 场景标签
 
-`图像视频处理` `语音合成` · 领域:内容生成
+`语音合成` `语音识别` `图像视频处理` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L3: Turn long-form videos into short clips with AI-assisted moment selection,
-> L19: - **Content-aware clipping:** 15 presets with their own moment categories, analysis
 > L22: - **Flexible analysis:** Gemini, including full-video deep analysis; OpenAI vision;
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e2301fb7f60c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `53685bccd225` · [字段定义](../../DATASET.md)*

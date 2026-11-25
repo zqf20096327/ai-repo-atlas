@@ -2,9 +2,9 @@
 
 ⭐ 417 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/martian56/redcell) · 个人维护
 
-**LLM 多智能体端到端执行渗透测试并生成报告的平台**
+**授权安全测试者的多 Agent 自动渗透测试平台**
 
-面向授权安全测试的 AI 红队平台：编排 LLM 智能体在 Kali 容器内通过 docker exec 运行 nmap、nuclei、Metasploit 等真实工具，支持代理浏览器、反向 Shell 交互终端、网络跳板（chisel SOCKS 隧道）与代码审计会话；操作员通过 React 控制台以聊天驱动运行并审核发现，最终导出 PDF/JSON/SARIF 报告。模型经 LiteLLM 接入 OpenAI、Anthropic、DeepSeek、本地 Ollama 等。技术栈为 FastAPI + React + Postgres + Redis，提供 docker compose 与自托管部署脚本；README 明确限定仅用于教育研究与合法授权测试。
+以 LLM Agent 团队执行端到端渗透测试并生成报告的平台：编排器经 LangGraph plan/act 循环分配目标给执行器 Agent，在 Kali 容器内运行 nmap、nuclei、Metasploit 等工具并记录发现；提供操作员控制台，含聊天驱动、实时 Agent 图、Agent 浏览器与反向 shell 终端。模型经 LiteLLM 可插拔，支持 OpenAI/Anthropic/Ollama 等。支持会话检查点、PDF/JSON/SARIF 报告导出。仅限教育、研究与合法授权测试。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- LangGraph plan/act 多智能体引擎，编排器向执行器分发目标
-- Kali 容器内运行 nmap/nuclei/Metasploit 等真实工具，支持本地与远程 SSH 执行
-- 代理浏览器、反向 Shell 终端与 chisel 反向 SOCKS 隧道网络跳板
-- 导出 PDF/JSON/SARIF 报告，运行过程断点续跑
+- LangGraph plan/act 多 Agent 引擎，编排器委派执行器在 Kali 容器内运行真实工具
+- 模型经 LiteLLM 可插拔，支持 OpenAI/Anthropic/DeepSeek/Ollama 等
+- Agent 捕获反向 shell 并提供交互终端，支持经 shell 的网络跳板
+- 报告导出 PDF/JSON/SARIF，由模型生成并按优先级整理
 
 ## 适用场景
 
-- 在授权范围内让 AI 智能体执行完整渗透测试并产出报告
-- 安全研究人员对靶场（DVWA、Juice Shop 等）做红队演练
-- 对公开 git 仓库或本地代码做源码安全审计
+- 对自己拥有或获书面授权的系统运行自动化渗透测试
+- 对 DVWA/Juice Shop 等本地漏洞靶场进行练习
+- 对公开 git 仓库或本地目录做源码安全审查
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3:  AI agents that run a penetration test end to end and write the report.
-> L20: REDCELL runs a team of LLM agents through a pentest. An orchestrator plans the engagement and hands objectives to e
+> L26: REDCELL runs a team of LLM agents through a pentest. An orchestrator plans the engagement and hands objectives to e
+> L28: Models are pluggable through LiteLLM, so you can point it at OpenAI, Anthropic, Google, GLM, DeepSeek, Kimi, a loca
+> L32: - **Multi-agent engine.** A LangGraph plan/act loop. The orchestrator delegates objectives to executor agents that 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6f491ec9c2cf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `051c3f8937b2` · [字段定义](../../DATASET.md)*

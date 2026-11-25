@@ -1,10 +1,10 @@
 # bitget-wallet-ai-lab/bitget-wallet-skill
 
-⭐ 260 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) · [官网](https://web3.bitget.com) · 组织维护
+⭐ 260 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/bitget-wallet-ai-lab/bitget-wallet-skill) · [官网](https://web3.bitget.com) · 组织维护 · 中文 README
 
-**面向 AI agent 的 Bitget Wallet 链上操作技能包：查询、换币与跨链**
+**给 AI agent 接入 Bitget Wallet 链上查询与兑换的技能包**
 
-封装 Bitget Wallet 生产 API 的 Python 技能源码包，供 OpenClaw、Dify、LangChain 等 agent 框架作为工具调用，实现代币发现与安全审计、行情与持仓查询、Swap 报价下单、跨链一步兑换、Gasless 转账（EIP-7702，Gas 从 USDT/USDC 扣除）及 x402 支付。默认人机协同：agent 只生成交易数据，签名需用户确认。Solana 签名为纯 Python 实现，无需额外安装包；EVM 签名依赖 eth-account。支持 9 条链的兑换与 32+ 条链的行情数据。
+封装 Bitget Wallet API 的 AI agent 技能：提供代币发现、安全审计、K 线、持币与聪明钱分析等市场工具，以及同链/跨链兑换、无 gas 转账（EIP-7702）与 x402 支付。资金操作采用 human-in-the-loop：agent 仅生成待签交易数据，签名需用户钱包密钥。零外部依赖，Python 3.9+ 加 requests/eth-account 即可运行，Solana 签名纯 Python 实现。支持 7 条 EVM 链加 Solana，可作为 Dify/LangChain 工具节点或 MCP Server。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 自然语言驱动的链上数据查询与 Swap 操作工具集（含蜜罐检测、聪明钱分析等 20+ 能力）
-- EIP-7702 Gasless：零原生代币余额即可换币/转账，Gas 从稳定币扣除
-- 单笔订单完成跨链兑换，无需手动桥接
-- x402 支付：以 USDC 支付按请求计费的 API 访问
+- Order Mode 实现无 gas（EIP-7702）与一步跨链兑换
+- 35+ 原子工具覆盖代币发现、安全审计、K 线、聪明钱分析
+- human-in-the-loop 设计：agent 只生成交易数据，签名需用户确认
+- 可作为 Dify Code 节点、LangChain 工具或 MCP Server 接入
 
 ## 适用场景
 
-- 让 Telegram/Discord 机器人回答币价、持仓与安全审计问题
-- 构建半自动交易 agent：报价→确认→签名执行
-- 监控榜单与交易量并自动推送预警
-- 作为 Dify/LangChain 工具节点或 MCP Server 接入企业 agent 平台
+- 查一个 meme 币是否安全并获取价格报价
+- 跨链查询与管理多链投资组合总值
+- 在 Dify 工作流中接入链上行情与兑换工具
+- 自动扫描新池并过滤蜜罐后推送提醒
 
 ## 场景标签
 
- · 领域:Web3/DeFi 工具
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: An AI Agent skill that wraps the Bitget Wallet API, enabling natural-language-driven on-chain data queries and swap 
-> L158: AI Agent (OpenClaw / Dify / Custom)
-> L219: - `bitget-wallet-agent-api.py` can serve directly as a Dify Code node or external API Tool
+> L13: |**API Infrastructure, Not Reimplementation**|Capabilities come from Bitget Wallet's production API. The skill prov
+> L156: AI Agent (OpenClaw / Dify / Custom)
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `cfe8bb007fdd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `32e1470f31b2` · [字段定义](../../DATASET.md)*

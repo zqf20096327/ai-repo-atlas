@@ -2,9 +2,9 @@
 
 ⭐ 215 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/xiongQvQ/AI_Find_Customer) · [官网](https://b2binsights.io/) · 个人维护 · 中文 README
 
-**外贸 B2B 场景的 AI 客户挖掘与开发信自动化系统**
+**面向外贸与 B2B 场景的 AI 客户挖掘与开发信发送系统**
 
-基于 FastAPI、LangGraph 与 React 的多 Agent 流水线：输入官网、文档或关键词后，自动完成公司理解（Insight）、关键词生成（KeywordGen）、多通道网页搜索、线索提取（LeadExtract）与评估（Evaluate），并提取邮箱、电话、社媒等联系方式；支持基于 ICP 与历史邮件样例生成 3 步开发信序列，经人工审核后创建 campaign 由 scheduler 自动发送并检测回信。模型统一经 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、MiniMax 等，推荐 MiniMax 起步。邮件依赖自配 SMTP/IMAP；开源仓库不含 license-server 与 landing 等模块，另有商业产品 B2Binsights。
+基于 FastAPI、LangGraph 与 React 的自动化客户挖掘系统：用户提供公司官网、产品文档或关键词，多 Agent 流水线（Insight→KeywordGen→Search→LeadExtract→Evaluate）依次完成公司理解、关键词生成、网页搜索、线索提取与联系方式发现；另支持生成 3 步开发信序列、人工审批后经 SMTP 自动发送并做 IMAP 回信检测。任务队列与邮件发送队列基于 SQLite 持久化，支持 producer/consumer 无界面部署、状态监控接口与飞书通知。运行需自备 LLM 与搜索 API Key；license-server 等模块不在公开仓库内。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 五阶段多 Agent 流水线：Insight→KeywordGen→Search→LeadExtract→Evaluate
-- 通过 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、GLM、Moonshot、MiniMax 等多模型
-- SQLite 两层持久化队列（hunt_jobs / email_messages）支持 7x24 无界面 producer/consumer 运行
-- AI 生成 3 步开发信序列，支持人工审核、campaign 自动发送与 IMAP 回信检测
-- 飞书通知（任务失败/新增企业/邮件已发送/周期汇总）与自动化状态监控接口
+- 多 Agent 流水线：公司理解→关键词生成→搜索→线索提取→评估
+- 双模型协作：推理模型负责 ReAct 决策，普通模型负责抽取与生成
+- 经 LiteLLM 可接入 OpenAI、Anthropic、OpenRouter、Groq、GLM、Moonshot、MiniMax
+- 邮件链路含模板种子、人工审批、campaign 自动发送与回信检测
 
 ## 适用场景
 
-- 外贸业务输入自己官网与产品关键词，自动挖出目标市场的潜在客户与决策人联系方式
-- 基于官网洞察和历史邮件样例批量生成并自动发送开发信序列
-- 在 VPS 上无界面长期运行客户挖掘与邮件外发流水线
+- 从官网和产品关键词出发批量挖掘海外客户线索与联系方式
+- 自动生成开发信序列并经人工审批后定时发送
+- 在 VPS 上以 producer/consumer 模式 7x24 持续跑获客任务
+- 通过飞书机器人接收挖掘进度与异常告警
 
 ## 场景标签
 
-`多智能体` `网页抓取` · 领域:Agent 开发
+ · 领域:企业服务/销售与营销
 
 ## 证据(README 行号)
 
 > L10: AI Hunter 是一个面向外贸与 B2B 线索挖掘场景的开源版项目。你只需要提供公司官网、产品文档或产品关键词，再指定目标市场，系统就会自动完成公司理解、关键词生成、网页搜索、线索提取和联系方式发现。
-> L56: - 多 Agent 流水线：`Insight -> KeywordGen -> Search -> LeadExtract -> Evaluate`
-> L67: - 可替换模型：统一通过 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、GLM、Moonshot、MiniMax
+> L54: - 多 Agent 流水线：`Insight -> KeywordGen -> Search -> LeadExtract -> Evaluate`
+> L65: - 可替换模型：统一通过 LiteLLM 接入 OpenAI、Anthropic、OpenRouter、Groq、GLM、Moonshot、MiniMax
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `57aa5c0332e5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7658c5f8d0ff` · [字段定义](../../DATASET.md)*

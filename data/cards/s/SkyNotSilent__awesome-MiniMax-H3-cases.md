@@ -2,9 +2,9 @@
 
 ⭐ 222 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/SkyNotSilent/awesome-MiniMax-H3-cases) · [官网](https://awesome-minimax-h3-cases.zzskysilent.com) · 个人维护 · 中文 README
 
-**MiniMax H3 / 海螺 H3 视频案例库：可播放案例、完整 Prompts 与教程**
+**MiniMax H3 视频案例库：案例、公开 Prompt 与教程的溯源聚合**
 
-面向视频创作者与学习者的 MiniMax H3（亦称 Hailuo H3 / 海螺 3.0）策展库：收录 2940 条带来源的视频案例、756 条完整公开 Prompt 与 26 篇教程，按日期、时长、类别、风格、场景筛选，站内可直接播放并保留原始出处。Prompt 仅收录来源完整发布的逐字文本，不重构、不改写缺失 Prompt。提供按目标/硬件（NVIDIA/Apple Silicon/低显存）选择的学习路线、三个可安装到 Codex 与 Claude Code 的 Agent Skills（npx skills add），以及 git clone + npm ci 的本地运行方式。声明与 MiniMax 无关联。
+以目录站点形式聚合 MiniMax H3（Hailuo H3）的公开视频案例、完整公开 Prompt 与教程，共 3145 个可播放案例、781 条完整 Prompt、26 篇教程，双语呈现，标注来源与创作者，不重建或推断缺失的 Prompt。提供按日期/时长/风格/场景筛选、收藏同步，及按目标与硬件（NVIDIA/Apple Silicon/低显存）分路径的教程索引。提供三个可安装到 Codex/Claude Code 的 Agent Skill，作为查询客户端返回真实来源内容。案例数据每日自动发现并经人工源核查。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 2940 条来源可溯案例、756 条完整公开 Prompt、26 篇教程（截至 2026-10-21 核查）
-- Prompt 仅收录来源完整逐字文本，不重构/改写/逆向
-- 三个 Agent Skills 可安装至 Codex 与 Claude Code
-- git clone + npm ci 本地运行，公开目录无需生产凭证
+- 3145 个来源可溯源的 H3 可播放案例，保留原出处与创作者
+- 781 条完整逐字公开 Prompt，与未公开 Prompt 明确区分
+- 按目标与硬件（NVIDIA/Apple Silicon/8-12GB 显存/Turbo）分路的教程索引
+- 三个 Agent Skill（Prompt 库/教程导航/投稿助手）可装入 Codex 与 Claude Code
 
 ## 适用场景
 
-- 浏览带来源的 H3 生成视频寻找灵感
-- 筛选完整 Prompt 文本并核对原始出处
-- 按目标与硬件（NVIDIA / Apple Silicon / 低显存）选择学习路线
+- 先看真实 H3 生成结果，再查完整 Prompt 学习创作
+- 按自己显卡和目标挑选教程路线生成视频
+- 投稿自己的 H3 教程或案例获得展示
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: **A source-attributed MiniMax H3 library with 2940 playable videos, 756 complete public Prompts, and 26 practical gu
+> L5: **A source-attributed MiniMax H3 library with 3145 playable videos, 781 complete public Prompts, and 26 practical gu
 > L26: MiniMax H3 is also searched as **Hailuo H3**, **Hailuo 3.0**, and **海螺 H3**. Every published case plays inside the 
+> L64: ## Agent Skills
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `54727285e82f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `35246d8cc53b` · [字段定义](../../DATASET.md)*

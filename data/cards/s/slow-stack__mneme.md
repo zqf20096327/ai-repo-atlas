@@ -2,9 +2,9 @@
 
 ⭐ 255 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/slow-stack/mneme) · [官网](https://www.npmjs.com/package/@modusensus/dsh-mneme) · 组织维护 · 中文 README
 
-**给 DeepSeek Harness 装跨会话记忆的插件，本地 SQLite+Markdown**
+**给 AI agent 提供跨会话长期记忆的本机存储插件**
 
-dsh-mneme 是 DeepSeek Harness (DSH) 的跨会话记忆插件：记忆落在本机 SQLite 并同步为可手工编辑的 Markdown 镜像，后台 autoDream 自动去重合并、矛盾先冻结挂起等人工裁决，检索支持关键词/向量/BM25/实体四路召回，可设 embedProvider=local 完全离线。提供记忆面板、10 个模型工具、零依赖 stdio MCP server（记忆六件套）与 CLI；配套 dsh-mneme-serve 可在不开 DSH 时跑常驻数据面。记忆按 agent 与工作区隔离（可关），每次自动整理留可回放的决策凭证。
+DeepSeek Harness 插件：对话结束时蒸馏出事实、偏好与决定写入本机 SQLite，并维护十份可手改的 Markdown 镜像；空闲时段 autoDream 合并重复、压缩陈旧、归档过期，召回时按热度、近因、重要度排序注入上下文。记忆冲突时冻结并交用户裁决。另提供零依赖 stdio MCP server（mneme-memory）、常驻 daemon 与 HTTP API 接入方式。要求 Node 24+ 与 DSH 0.1.x/0.2.x；巩固与摘要默认走宿主模型，可切换本地模型实现完全离线。
 
 ## 筛选速览
 
@@ -12,24 +12,24 @@ dsh-mneme 是 DeepSeek Harness (DSH) 的跨会话记忆插件：记忆落在本�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- SQLite + Markdown 双向同步，人工改动被优先尊重
-- autoDream 后台巩固：去重合并、矛盾冻结待人工裁决、留可回放决策凭证
-- 四路召回（关键词/向量/BM25/实体），embedProvider=local 可完全离线
-- 零依赖 stdio MCP server（mneme-memory），Claude Code/Cursor/Codex 等客户端可挂载
+- 对话结束自动蒸馏写入本机 SQLite + Markdown 镜像，无手动保存步骤
+- autoDream 空闲巩固：合并、压缩、归档，整理过程可复现回放
+- 四路并行召回并按热度/近因/重要度融合排序注入上下文
+- 通过 MCP 接入 Claude Code / Cursor / Codex / OpenCode 等客户端
 
 ## 适用场景
 
-- 让 DSH 的 AI 记住我聊过的项目、偏好与决定，跨会话生效
-- 多 Agent、多项目场景下隔离并管理各自的记忆
-- 通过 MCP 让其他 AI 工具（Claude Code/Cursor 等）读写同一份记忆库
+- 让 AI 助手在多次会话间记住项目背景与个人偏好
+- 在无网络、无 API Key 环境下运行本地化记忆检索
+- 需要人工查看和手改机器记忆内容的知识管理
 
 ## 场景标签
 
@@ -37,9 +37,8 @@ dsh-mneme 是 DeepSeek Harness (DSH) 的跨会话记忆插件：记忆落在本�
 
 ## 证据(README 行号)
 
-> L18: **dsh-mneme** 是 DeepSeek Harness (DSH) 的跨会话记忆插件。它不只「存得下」，更「管得好」：后台自动去重合并、矛盾先冻结等你裁决、全程可回放审计、记忆只落在本机，还支持导出成人可读的 Markd
-> L168: 插件自带零依赖 stdio MCP server（独立 npm 包 **`mneme-memory`**，bin 名 `mneme-mcp`），任何 MCP 客户端都能挂载记忆六件套（`memory_save` / `memor
-> L193: npm i -g @modusensus/dsh-mneme
+> L5:  DeepSeek Harness 的跨会话长期记忆
+> L85: |**MCP**|一个零依赖 stdio server（独立包 `mneme-memory`）；Claude Code / Cursor / Codex / OpenCode 等任何 MCP 客户端都能挂上六个记忆工具|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `597b3d526de9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2be2174230c8` · [字段定义](../../DATASET.md)*

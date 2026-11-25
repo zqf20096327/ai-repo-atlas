@@ -2,9 +2,9 @@
 
 ⭐ 220 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/JaydenTeoh/NextLat) · [官网](https://jaydenteoh.github.io/blog/2026/nextlat) · 个人维护
 
-**Next-Latent Prediction Transformer 论文官方训练代码库**
+**NextLat 论文官方代码库：复现世界模型训练实验**
 
-论文《Next-Latent Prediction Transformers Learn Compact World Models》的官方代码库，提供 NextLat 及 GPT/MTP/JTP/BST 等基线算法的实现，覆盖 Path-Star、Countdown、Manhattan Taxi Rides、TinyStories、FineWeb-Edu 等基准的训练与评估脚本，支持单卡与 DDP 多卡训练（PyTorch Lightning Fabric），指标记录到 Weights & Biases 与 CSV。限制：需 PyTorch 2.6+（Muon 优化器需 2.9+），实验结果在 NVIDIA RTX A5000/H100 NVL/B200 GPU 上产生。
+论文《Next-Latent Prediction Transformers Learn Compact World Models》的官方实现，提供 NextLat 及 GPT、MTP、JTP、BST 等 baseline 算法代码，覆盖 Path-Star、Countdown、Manhattan Taxi Rides、TinyStories、FineWeb-Edu 五个基准。支持单卡与 Lightning Fabric 多卡训练，YAML 配置记录论文复现所需超参数，脚本目录含每个算法与基准的现成训练脚本。要求 PyTorch ≥2.6（Muon 优化器需 ≥2.9），文档提示 torch.compile 在数值敏感基准与 Hopper GPU 上可能产生不一致结果。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- NextLat 与 4 种基线算法实现（GPT/MTP/JTP/BST）
-- YAML 配置含论文精确超参，支持 seed 网格扫描
-- 单卡与 Lightning Fabric DDP 多卡训练
-- Manhattan 世界模型可视化、线性探针、自投机解码等评估脚本
+- NextLat 与 4 种 baseline（GPT/MTP/JTP/BST）统一实现于 models/ 目录
+- YAML 配置含论文实验的超参数，支持多 seed 与网格搜索
+- 单 GPU 与 Lightning Fabric DDP 多 GPU 训练脚本
+- 含 Manhattan 世界模型可视化与 TinyStories 线性探针评估脚本
 
 ## 适用场景
 
-- 复现论文实验结果
-- 对比 next-token 与 next-latent 预测算法
-- 基于 NextLat 改进自己的序列建模研究
+- 复现论文中各基准的实验结果
+- 对比 next-latent 与 next-token 等预测目标
+- 研究潜在预测对模型内部世界模型的影响
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L7:  Official codebase for Next-Latent Prediction Transformers Learn Compact World Models
-> L27: |model_nextlat.py|Next-Latent Prediction (NextLat)|
+> L23: The code for NextLat and all baseline algorithms can be found in the `models/` folder:
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ae10865aae1d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e1114df7d966` · [字段定义](../../DATASET.md)*

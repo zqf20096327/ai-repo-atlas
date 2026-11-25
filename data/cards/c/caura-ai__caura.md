@@ -2,9 +2,9 @@
 
 ⭐ 575 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/caura-ai/caura) · [官网](https://caura.ai) · 组织维护
 
-**面向多智能体舰队的管理式共享记忆层**
+**为多租户多 agent 集群提供受治理共享记忆的服务层**
 
-开源的多租户、多智能体 AI 舰队记忆系统（前身 MemClaw）：agent 写入纯文本后由服务端单次 LLM 调用完成记忆分类、标题摘要生成、重要性评分、PII 标记与实体抽取；检索采用 pgvector 语义相似度 + 全文关键词 + 知识图谱扩展（最多 2 跳）的混合搜索。治理机制包括租户隔离、三级可见范围（agent/team/org）、四级 agent 信任等级与全量审计日志。部署形态覆盖托管平台、Docker 自托管、OpenClaw 插件与 Rail SDK（Python/TypeScript），通过 MCP 与 REST 接入；无 API key 的 standalone 模式仅支持关键词检索。README 同时说明公共基准（LoCoMo 等）测的是单 agent 场景，舰队治理尚需环境内验证。
+开源的 AI agent 集群共享记忆层：agent 写入文本，系统经单趟 LLM 富化生成记忆类型、标题、摘要、重要性评分与 PII 标记，检索时用 pgvector 语义相似度加全文关键词加知识图谱（最多 2 跳）混合排序。治理机制包括租户行级隔离、三级可见范围、四级 agent 信任档位与完整审计日志。部署路径有托管平台、Docker 自托管、OpenClaw 插件，另有 Python/TypeScript 客户端与 Rail SDK（每轮回调前取规则与事实、轮后写回）。无 API key 时退化为关键词匹配的本地启发式模式。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 单次 LLM 调用完成写入时的记忆分类/摘要/重要性评分/PII 标记/实体抽取
-- pgvector + 全文检索 + 知识图谱扩展（2 跳）的混合搜索
-- 租户隔离、三级可见范围、四级信任等级与全量审计日志
-- MCP/REST 接入，提供 Python/TypeScript 客户端与 Rail SDK
+- 写-取-复合三支柱：单 agent 写入的经验可被同集群其他 agent 召回复用
+- 混合检索：pgvector 语义 + 全文关键词 + 知识图谱扩展（≤2 跳），被替换记忆不会排在替换项之上
+- 治理：租户隔离、scope_agent/team/org 可见性、四级信任档位、全量审计日志
+- Rail SDK 在每轮 agent 运行前后自动取回上下文并写回所学，临时失败进 outbox 重放
 
 ## 适用场景
 
-- 多智能体团队让一个 agent 学到的经验被其他 agent 复用
-- 需要租户隔离与审计的 agent 记忆管理
-- 在 OpenClaw 舰队中以插件方式挂载共享记忆
-- 给自研 agent 每轮对话前注入相关规则与事实（Rail SDK）
+- 让部署 agent、运维 agent 共享同一集群里的操作经验与回滚手册
+- 自托管部署满足隐私、本地化或隔离网络的记忆存储需求
+- 为自研 agent 在每轮对话前注入相关规则与事实（Rail SDK）
+- 多租户 SaaS 中按租户隔离并审计各 agent 的记忆读写
 
 ## 场景标签
 
-`Agent 记忆` `多智能体` · 领域:Agent 开发
+`Agent 记忆` `多智能体` `知识图谱` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L24: ## Caura (formerly MemClaw) — the shared governed memory layer for AI agent fleets
 > L26: Caura — formerly MemClaw — is open-source memory for **multi-tenant, multi-agent** AI fleets. Your agents store wha
-> L243: ### Memory Pipeline
+> L240: - **Visibility scopes** — every memory is stamped at write time: `scope_agent` (private), `scope_team` (fleet-wide
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `94bbf4d97714` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7aae19f2026a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 214 · TypeScript · 推送 2026-10-27 · [GitHub](https://github.com/Tolga1452/ai-prompts) · 个人维护
 
-**各 AI 聊天机器人系统提示词与工具数据的收集清单**
+**收录各家 AI 聊天机器人系统提示词与工具数据的集合**
 
-汇集从各 AI 聊天产品中提取的原始系统提示词与工具（function calling）数据，覆盖 Apple Intelligence、bolt.new、ChatGPT（含 Agent、Canvas、o3 思维链、个性人设等子项）、Claude、Gemini、Grok、GitHub Copilot、Microsoft Copilot、v0、VS Code 等来源，按产品与子功能分类整理。README 声明内容直接提取自聊天机器人，不保证完全准确且部分可能过时；变量信息以占位符标注并汇于 variables.json；已从官方应用移除的条目以 🪦 标记。附 CHANGELOG.md 与 STATS.md 供查阅更新与统计。
+以目录形式组织各家 AI 聊天机器人的原始系统提示词与工具数据，覆盖 Apple Intelligence、bolt.new、ChatGPT、Claude、Gemini、Grok、GitHub Copilot、Lovable、v0 等产品，按类别与版本分层列出。提示词多数直接提取自聊天机器人本体，README 声明不保证完全准确且可能过时；变量信息以占位符替换并由 variables.json 列出，附 CHANGELOG 与 STATS 跟踪更新与统计。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 覆盖 ChatGPT/Claude/Gemini/Grok/Copilot 等十余个产品的系统提示词
-- 包含工具数据（function calling）与变量占位符说明（variables.json）
-- 用 🆕/✨/🪦 标记新增、更新与已移除条目
-- 附 CHANGELOG.md 与 STATS.md 提供更新与统计信息
+- 按产品与版本组织的系统提示词目录，标注新增/更新/已下线条目
+- 变量以占位符替换，variables.json 列出全部变量
+- CHANGELOG.md 记录更新，STATS.md 提供提示词统计
+- Credits 区注明各条提示词的来源仓库
 
 ## 适用场景
 
-- 研究各家 AI 产品系统提示词的写法与结构
-- 了解 AI 聊天机器人的工具调用（function calling）定义方式
-- 为自己的 chatbot 设计提示词时作参考素材
+- 研究各家聊天机器人的系统提示词写法
+- 为自己构建聊天机器人时参考工具数据结构
+- 跟踪某产品提示词随版本的变动
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`提示工程` `精选清单` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: A collection of original system prompts and tool data used for AI chatbots.
 > L17: ## Categories
+> L157: ## Credits
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a9fe4ed9219a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9b914ab03e26` · [字段定义](../../DATASET.md)*

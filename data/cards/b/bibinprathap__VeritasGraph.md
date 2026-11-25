@@ -2,9 +2,9 @@
 
 ⭐ 326 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/bibinprathap/VeritasGraph) · [官网](https://bibinprathap.github.io/VeritasGraph/studio/) · 个人维护
 
-**开源 GraphRAG 与治理型 Agent 框架：图结构检索+可验证溯源**
+**面向企业的本地 GraphRAG 知识图谱框架，每个回答带来源引用**
 
-以 Python 包（pip install veritasgraph）提供的知识图谱与 GraphRAG 框架，结合树状导航与图谱多跳推理，写入时存储出处，读取时以 [doc#chunk] 引用回答问题。包含本地 Agent 构建工作台 Studio（FastAPI+单页 UI），提供护栏（PII 脱敏/策略拦截）、记忆、工具目录、MCP 桥接、评测看板等编排能力；可完全本地运行（Ollama）或使用 OpenAI/Anthropic 云 API，full 模式需 Docker+Neo4j。附临床知识图谱、市政事件聊天机器人等示例。MIT 许可。
+基于知识图谱的 GraphRAG 与 agent 框架：从自有文档构建图，写入时保存出处实现可验证引用，证据不足时明确拒答而非猜测。核心机制包括本体治理（词汇 certified 工作流约束抽取与回答）、ontology compiler 清洗图谱、SHA-256 哈希链审计日志、PII 策略、角色鉴权，以及可只读接入多种数据库生成 SQL 回答的结构化数据层。提供 Studio 界面、CLI 与 MCP server 三种入口，支持 100% 本地运行（Ollama），也可云端部署。MIT 许可，Python 3.10+。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 写入时存储出处，回答带 [doc#chunk] 可验证引用
-- Studio 本地 Agent 工作台：护栏→记忆→KG→工具→日志编排管线
-- 支持 100% 本地（Ollama）或云 API，lite 模式无需 GPU
-- 示例覆盖临床 KG（HIPAA 脱敏/ICD-10 归一化）与市政事件机器人
+- 写入时保存出处，引用与实际检索来源严格比对，不符则标记 grounded:false
+- 本体与术语表走 proposed→certified→deprecated 治理流程，certified 词汇驱动抽取与回答
+- SHA-256 哈希链审计日志、快照恢复、实体合并等治理功能
+- 可读接入 Postgres/MySQL/SQLite/DuckDB/ClickHouse/Snowflake 等，自然语言生成 SQL 回答
 
 ## 适用场景
 
-- 在企业自有数据上构建可溯源的 GraphRAG 问答
-- 本地搭建带护栏与审计日志的治理型 AI Agent
-- 临床笔记转合规、可引用的患者知识图谱
+- 企业内部数据上构建可审计、带引用的知识图谱问答
+- 对 PII 和数据隐私有合规要求的本地部署场景
+- 为 IDE 中的 agent 提供图谱推理、记忆与护栏能力
+- 对业务数据库做语义层治理并用自然语言查询
 
 ## 场景标签
 
-`Agent 框架` `RAG` `知识图谱` · 领域:Agent 开发
+`Agent 框架` `知识图谱` `RAG` `数据分析` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L1: ﻿# VeritasGraph — The Governed, On-Prem GraphRAG & Agent Framework
-> L103: **Studio** is a local Agent Build Workspace (FastAPI + single-page UI) that lets you build a knowledge graph from 
-> L128: - 🔀 **Governed orchestration pipeline** — per-turn flow of Guardrails → Memory → Knowledge Graph → Headroom budget
+> L1: # VeritasGraph — The Governed, On-Prem GraphRAG & Agent Framework
+> L3: **A knowledge graph your agents can trust: every answer cites its sources, the vocabulary is governed by a certified
+> L109: Studio, MCP and the CLI are thin layers over the same engine and store. A graph built in Studio can be queried fro
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d14b09a88bda` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `67382d75c7fa` · [字段定义](../../DATASET.md)*

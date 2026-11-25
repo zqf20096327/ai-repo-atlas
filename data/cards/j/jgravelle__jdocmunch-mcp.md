@@ -2,9 +2,9 @@
 
 ⭐ 207 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/jgravelle/jdocmunch-mcp) · [官网](https://j.gravelle.us/jDocMunch) · 个人维护
 
-**面向编码 agent 的 MCP 文档检索服务器：按章节索引精确取用**
+**面向编码 agent 的文档分节检索 MCP 服务器**
 
-jDocMunch 是一个 MCP 服务器，供编码 agent 检索文档时按章节而非整文件取用内容。机制：将文档集按标题层级解析为章节树，存储各章节在原文件中的字节偏移，agent 可取单个章节、标题子树或 BM25 与语义余弦融合的排序搜索结果。章节在路径/标题文本/标题层级不变时跨重建保持稳定 ID。附 CLI，支持索引本地文件夹与 GitHub 仓库、MDX 感知分节、扫描 PDF 的可选 OCR（本地引擎，不下载模型）。限制：文件夹上限 10,000 个文件，OCR 每文档最多读 50 页，表格与手写识别受限。个人使用免费，商业使用需付费许可。
+将文档集按标题层级解析为分节树并记录字节偏移，通过 MCP 暴露检索工具，使 agent 按节获取安装说明、配置块或标题子树，而非整文件读入上下文。支持 Markdown、RST、AsciiDoc、Jupyter、HTML、OpenAPI 等格式；检索融合 BM25 与可选嵌入语义匹配；发布流程以 nDCG 0.95 重放基线作为门槛。个人使用免费，商业使用需一次性付费许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ jDocMunch 是一个 MCP 服务器，供编码 agent 检索文档时按章节而�
 
 ## 能力要点
 
-- 按标题层级建章节树，按字节偏移精确提取章节内容
-- BM25 与语义余弦融合的 search_sections，支持 compact/snippet_bytes 压缩响应
-- 章节 ID 在重建索引后保持稳定（路径/标题/层级不变时）
-- 扫描 PDF 可选本地 OCR（Tesseract 或 Windows OCR，需双重开关确认）
+- 按节检索：get_section 从原文件字节偏移精确提取内容
+- search_sections 在配置嵌入提供方时融合 BM25 与语义余弦
+- 分节 ID 跨重建索引保持稳定
+- 本地运行，配 Claude Code 及任意 MCP 客户端
 
 ## 适用场景
 
-- 让编码 agent 查文档时只取所需章节，减少上下文窗口占用
-- 索引 Kubernetes/SciPy 等大型文档集供 agent 精确检索
-- 检查文档缺失、陈旧页面、孤儿章节与坏链（doc health 工具集）
+- 让编码 agent 按需读取文档某一节而非整文件
+- 索引本地文档目录或直接索引 GitHub 仓库文档
+- 用 OCR 检索扫描版 PDF 中的文本
 
 ## 场景标签
 
@@ -39,7 +39,6 @@ jDocMunch 是一个 MCP 服务器，供编码 agent 检索文档时按章节而�
 
 > L3: **jDocMunch is an MCP server for coding agents that retrieves the exact documentation section a task needs, without 
 > L22: **The mechanism.** jDocMunch parses a documentation set into a section tree keyed by heading hierarchy, stores each
-> L186: - **Search by meaning, not just keywords.** `search_sections` fuses BM25 with semantic cosine when an embedding pr
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `52ec316d0a08` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7dd4159cac6f` · [字段定义](../../DATASET.md)*

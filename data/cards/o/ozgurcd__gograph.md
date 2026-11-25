@@ -2,9 +2,9 @@
 
 ⭐ 232 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ozgurcd/gograph) · [官网](https://gograph.identuum.ai) · 个人维护
 
-**本地 Go 代码静态分析引擎，为 AI 编码代理提供结构感知**
+**为 Go 编码 agent 提供本地确定性代码结构分析的 MCP 引擎**
 
-gograph 在本地对 Go 仓库构建结构图，支持可选的类型检查 CHA/SSA 增强，提供 CLI 与内置 MCP 服务器两种工作流。面向 Go 编码代理与开发者，用于追踪调用者/被调用者与接口实现、变更影响分析、符号搜索与架构约束检查，不依赖嵌入向量或托管代码索引。默认索引本地解析 Go 源码、不执行目标代码；精确模式需类型检查通过，否则按配置回退。会话遥测仅存于本地 .gograph/ 目录。
+在本地为 Go 仓库构建结构图（调用图、接口实现、影响分析、符号查询），可选 type-checked CHA/SSA 精确增强；通过 CLI 与内置 MCP server 两种方式供编码 agent 使用，无需嵌入向量或托管代码索引。默认索引仅解析源码不执行目标代码；精确模式会调用本机 Go 工具链（可能按 GOPROXY 策略联网），cgo 包还会调用 C 编译器。支持 Homebrew 与 go install 安装，遥测数据仅存本地 .gograph/ 目录。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ gograph 在本地对 Go 仓库构建结构图，支持可选的类型检查 CHA/
 
 ## 能力要点
 
-- 本地构建 Go 仓库结构图，可选类型检查 CHA/SSA 精确模式
-- 提供 CLI 与 MCP 服务器（stdio），可在 MCP Registry 分发
-- 机器可读结构校验（gograph validate --json，SHA-256 指纹绑定）
-- 低内存模式（--memory-mode=low --max-memory）与增量重建
+- CLI 与 MCP server 双入口，MCP 无需预构建即可在内存建图
+- 确定性结构查询：调用者/被调用者、影响分析、符号定位
+- 可选 --precise 类型检查增强（CHA/SSA），离线时回退 AST 图
+- 机器可读验证谓词（symbol_exists、call_edge_exists 等）与 JSON 输出
 
 ## 适用场景
 
-- 让 AI 编码代理在重构前获取调用图与影响分析
-- 对 Go 仓库做符号搜索与接口实现追踪
-- 在 CI 中用结构校验命令检查符号/调用边存在性
+- 让 Claude Code 等编码 agent 在重构前查询调用关系与影响面
+- 在 CI 中以 --strict 模式校验精确索引未回退
+- 用 validate 谓词检查架构约束（如 imports_only_from）
+- 本地离线环境下做 Go 代码导航与热点分析
 
 ## 场景标签
 
- · 领域:开发工具/静态分析
+ · 领域:开发者工具/代码分析
 
 ## 证据(README 行号)
 
-> L47: `gograph` builds a local structural graph of your Go repository, with optional
-> L48: type-checked CHA/SSA enrichment. Its CLI and MCP workflows help coding agents
-> L79: Homebrew and `go install` install the normal `gograph` CLI. MCP clients that
+> L49: `gograph` builds a local structural graph of your Go repository, with optional
+> L50: type-checked CHA/SSA enrichment. Its CLI and MCP workflows help coding agents
+> L85:  with `run 'gograph build' first`. The MCP server needs no build step:
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `172d7acf0e4f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2f662deebdb9` · [字段定义](../../DATASET.md)*

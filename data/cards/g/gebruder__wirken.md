@@ -2,9 +2,9 @@
 
 ⭐ 221 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gebruder/wirken) · [官网](https://wirken.ai) · 组织维护
 
-**企业级自主 agent 网关：通道隔离、凭据金库与审计日志**
+**面向企业的自主代理安全网关：隔离、凭证保管与审计**
 
-以单一静态 Rust 二进制交付的自主 agent 网关：把团队消息通道（Telegram/Discord/Slack/Teams/Matrix 等）与代理 AI 连接起来，代理替用户读文件、调 API、跑工具。安全机制包括：凭据保存在加密金库且模型不可见、执行前写入签名哈希链审计日志、三级权限模型、shell 命令在无网络的一次性容器沙箱执行、每个通道独立进程。模型连接 provider 无关，支持前沿 API、Ollama 本地权重、TEE 等，按代理设支出预算。README 另列出网络出口未完全受限、沙箱可关闭等已知限制。
+Rust 编写的单文件静态二进制网关，位于团队消息渠道与 AI 代理之间：Telegram/Slack/Teams/Matrix 等渠道各有独立适配器进程，代理读文件、调 API、执行工具均先过权限门控。凭证存于加密 vault，不暴露给模型；每条工具调用写入哈希链审计日志并签名；shell 命令默认在无网络容器沙箱执行；支持三级权限模型与按代理的预算上限。模型连接与具体厂商无关，可为本地权重或各类 API。MIT 许可，提供 WebChat UI、代理模式与定时预设。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 凭据边缘注入：令牌与密钥存于加密金库，agent 与 LLM 不可见
-- 动作执行前写入签名哈希链审计日志并归因到人
-- shell 命令在无网络一次性容器中执行，沙箱不可用则拒绝执行
-- 单一静态 Rust 二进制，Linux/macOS/Windows 11 预编译产物，模型连接 provider 无关（含 Ollama 本地权重）
+- 哈希链审计日志，签名链头可离线核验
+- 凭证保存在加密 vault，代理与模型不可见
+- shell 命令默认在无网络容器沙箱中运行
+- 代理模式为外部代理记录并门控模型与 MCP 调用
 
 ## 适用场景
 
-- 让团队从现有聊天平台使用 AI 代理并满足安全合规要求
-- 控制被入侵代理的影响范围（凭据隔离、沙箱、权限分级）
-- 向 SIEM/OpenTelemetry 导出代理操作的防篡改审计链
+- 安全团队为代理行为提供可追责的审计记录
+- 让代理通过企业现有聊天渠道工作且不接触密钥
+- 限制被攻陷代理可触碰的凭据与网络出口
 
 ## 场景标签
 
-`模型网关` `Agent 框架` · 领域:Agent 开发
+`网络安全` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: Wirken is the enterprise gateway for autonomous agents: the switchboard
-> L26: A message comes in on a channel, Wirken wakes an agent to handle it, and every
-> L81: `wirken run` spawns adapter processes, accepts authenticated connections,
+> L13: It also stands in front of agents it does not run. A coding agent or a script
+> L44: - **Every action is logged and attributed.** Each tool call is written to a
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5d3424e08677` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6cc9c5139796` · [字段定义](../../DATASET.md)*

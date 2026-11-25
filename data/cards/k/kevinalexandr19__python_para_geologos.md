@@ -2,9 +2,9 @@
 
 ⭐ 258 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kevinalexandr19/python_para_geologos) · [官网](https://kevinalexandr19.github.io/python_para_geologos/lab/index.html) · 个人维护
 
-**面向地质学学生的 Python 与机器学习教学笔记本集**
+**面向地质学者与学生的 Python 地质编程教程笔记本集**
 
-由 Kevin Alexander Gómez 维护的学术教学项目，以 Jupyter 笔记本形式讲授面向地质学的 Python 编程、统计学、数据科学与机器学习（回归、随机森林、PCA、神经网络等），并覆盖地球物理、地球化学、矿产勘查等地质应用章节。面向地质及相关专业学生与从业者，建议先具备普通地质学、统计与线性代数基础。可通过 JupyterLite 在浏览器中免安装运行，或下载后用 Jupyter Lab / Google Colab / VS Code 打开；部分章节标注为开发中。
+以 Jupyter Notebook 组织的地质学 Python 教学项目（2.6 版，2025 年 7 月），章节涵盖 Python 基础、统计与数学、数据科学与机器学习（回归、决策树、XGBoost、PCA、聚类、神经网络）、以及地质统计、地球化学、空间分析等地质应用。读者为地质学及相关领域的学生与从业者，需具备地质、统计与线性代数基础。内容可通过 JupyterLite 在线运行，无需安装 Python；本地使用需按教程安装 Python 与 JupyterLab。部分笔记本仍标注为开发中。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 以 .ipynb 笔记本组织，含练习与解答章节
-- 覆盖机器学习（监督/无监督/深度学习）与地质应用章节
-- 提供 JupyterLite 免安装浏览器运行方式
-- 附地质工作模板（3D 钻孔可视化）与参考文献列表
+- 以 .ipynb 笔记本组织的地质学 Python 课程，覆盖基础、统计、机器学习与地质应用
+- 提供 JupyterLite 在线运行选项，无需安装 Python
+- 包含钻孔 3D 可视化等工作模板与练习题及解答
 
 ## 适用场景
 
-- 地质专业学生系统学习 Python 编程与数据分析
-- 地质从业者学习将机器学习应用于地球化学、地球物理等问题
-- 不安装 Python 直接在浏览器中练习代码
+- 系统学习用 Python 解决地质学问题
+- 学习机器学习方法在地质数据上的应用（回归、聚类、神经网络）
+- 以仓库内容为模板编写自己的地质分析笔记本
 
 ## 场景标签
 
@@ -38,8 +37,8 @@
 ## 证据(README 行号)
 
 > L18: Este proyecto académico fue creado con la finalidad de facilitar el aprendizaje en Python para estudiantes y profes
-> L70: - Ciencia de datos y Machine Learning
-> L89: - Aplicaciones en Geología
+> L26: Todos los capítulos están disponibles dentro del repositorio como notebooks de Jupyter `.ipynb`.
+> L127: - A través de JupyterLite, la opción del proyecto para ejecutar los notebooks disponibles sin instalar Python.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `3dd54a1a6f4e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6cfa1a94c907` · [字段定义](../../DATASET.md)*

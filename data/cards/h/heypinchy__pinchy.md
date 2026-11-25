@@ -2,9 +2,9 @@
 
 ⭐ 193 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/heypinchy/pinchy) · [官网](https://heypinchy.com) · 个人维护
 
-**自托管的企业级 AI agent 平台，基于 OpenClaw 加权限与审计**
+**企业自托管 AI agent 平台：为 OpenClaw 加权限与审计**
 
-在开源 agent 框架 OpenClaw 之上叠加企业治理层的自托管平台：提供按 agent 授权的工具 allow-list、角色访问控制、HMAC 签名的可验证审计日志、多用户管理，以及 Web UI 与 Telegram 两种对话入口。集成覆盖 Odoo ERP、Gmail/Microsoft 365 邮件、Brave 网页搜索。支持 OpenAI、Anthropic、Google 及经 Ollama 的本地模型，可完全离线运行。通过 Docker Compose 单命令部署，AGPL-3.0 许可；自述处于早期开发阶段，细粒度 RBAC 与插件市场仍在路线图中。
+基于 OpenClaw agent 框架的企业层：在其上补齐用户管理、RBAC、按 agent 的工具白名单权限、HMAC 签名审计日志，并提供 Web 与 Telegram 两种对话入口。集成 Odoo ERP（20+ 模板）、Gmail/Microsoft 365/IMAP 邮件自动化、Brave 搜索等。通过 Docker Compose 一键部署，可配 Ollama 本地模型实现全离线运行。当前处于早期开发阶段，细粒度 RBAC 与插件市场尚未完成，Groups 与成本明细导出为 Enterprise 功能。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 每 agent 工具 allow-list 与 RBAC 权限控制
-- HMAC 签名的防篡改审计日志与 CSV 导出
-- Web UI 与 Telegram 多入口，每 agent 一个 bot
-- 支持 Ollama 本地模型，可完全离线自托管
+- 按 agent 的工具白名单权限，替代原始 shell 访问
+- HMAC 签名、可验证的审计日志与 CSV 导出
+- Odoo ERP 集成（20+ 预置模板）与邮件自动化
+- 模型无关：OpenAI/Anthropic/Google/Ollama 本地模型
 
 ## 适用场景
 
-- 企业在内网部署带权限与审计的 AI agent
-- 受监管行业让 agent 访问 Odoo 与邮箱且数据不出网
-- 团队按角色共享和管控多个 AI agent
+- 在合规要求下自托管运行企业 AI agent
+- 让 agent 以受控权限访问 Odoo ERP 与邮箱
+- 通过 Telegram 随时与受权限约束的 agent 对话
+- 对 agent 的每次操作留有可验证的审计记录
 
 ## 场景标签
 
-`Agent 框架` `AI 助手` · 领域:Agent 开发
+`Agent 框架` `聊天机器人` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5:  Self-hosted AI agent platform built on OpenClaw.
 > L23: Pinchy is an enterprise layer on top of OpenClaw — the open-source AI agent framework. OpenClaw is incredibly power
-> L40: - **Plugin Architecture** — Agents get scoped tools, not raw shell access. A "read Odoo sales orders" tool, not `ex
+> L45: - **Model Agnostic** — OpenAI, Anthropic, local models via Ollama. Your choice.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `32bb6a25b53e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e2780bbcbaeb` · [字段定义](../../DATASET.md)*

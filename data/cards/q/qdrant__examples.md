@@ -2,9 +2,9 @@
 
 ⭐ 232 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/qdrant/examples) · 组织维护
 
-**Qdrant 向量搜索引擎的示例与教程合集**
+**Qdrant 向量检索引擎的教程与示例集**
 
-由 Qdrant 维护的官方教程仓库，收录 30 余个示例，覆盖语义搜索、多模态检索、GraphRAG、混合搜索、二值量化、多向量检索、协同过滤与 RAG 评测等主题。每个条目以表格形式列出说明与所用技术（如 CLIP、LangChain、LlamaIndex、ColPali、DSPy、Ragas），另含 Qdrant Essentials 与多向量搜索等多模块课程笔记本。面向使用 Qdrant 及配套技术栈的开发者与学习者。
+收录面向 Qdrant 向量搜索引擎的教程、演示与操作指南，以表格形式编目为数十个示例条目，覆盖语义搜索、RAG、图像/音频/多模态检索、二值量化、混合检索、协同过滤、代码搜索等主题；每个条目标注所用技术栈（如 LangChain、LlamaIndex、FastEmbed、ColPali）并可跳转对应实现。供希望学习如何使用 Qdrant 及相关技术的开发者查阅，按教程逐个运行，不构成完整产品。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 30 余个示例覆盖语义搜索、RAG、混合搜索与量化等主题
-- 含多天课程笔记本（HNSW 调优、大规模摄取、多向量检索）
-- 每条示例标注所用技术栈（CLIP/ColPali/DSPy/Ragas 等）
-- 包含 RAG 流水线端到端评测示例（recall@10、Ragas 指标）
+- 以表格编目数十个教程/演示/指南条目，含技术栈索引
+- 覆盖文本、图像、音频、多模态语义搜索与推荐场景
+- 包含 RAG、量化、混合检索、协同过滤等进阶主题
+- 提供多天课程式 notebook（Qdrant Essentials / Multi-Vector Search）
 
 ## 适用场景
 
-- 跟随示例上手 Qdrant 语义搜索与推荐 API
-- 学习多向量检索、二值量化等进阶用法
-- 参考 GraphRAG、混合搜索等完整流水线搭建方案
+- 我想按教程上手 Qdrant 的语义搜索与推荐 API
+- 我需要参考 RAG、量化或混合检索的可运行示例
+- 我想为电商或文档场景搭建以图搜图、PDF 检索
 
 ## 场景标签
 
-`向量数据库` `教程课程` `语义搜索` `RAG` · 领域:知识与检索
+`RAG` `语义搜索` `教程课程` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L1: # Qdrant Examples
 > L3: This repo contains a collection of tutorials, demos, and how-to guides on how to use Qdrant and adjacent technologie
+> L5: |Example|Description|Technologies|
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6d3a061afd91` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `95a71b7fc2db` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 194 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/DasDigitaleMomentum/searxNcrawl) · [官网](https://www.searxncrawl.io) · 组织维护
 
-**给 AI agent 的自托管 MCP 搜索与爬取服务器**
+**给 AI agent 提供自托管网页搜索与 Markdown 抓取的 MCP 服务器**
 
-开源 MCP 服务器与 CLI 工具集，基于 Crawl4AI 为 AI agent 提供 Web 搜索与页面转 Markdown 爬取。搜索可并行查询自托管 SearXNG 和/或 You.com API 并合并去重结果；提供单页/整站爬取、登录后爬取（crawl-capture 会话捕获）、CLI 与 Python API。通过 uvx 运行，setup 命令可自动配置 Claude Code、Codex、Cursor、VS Code 等客户端；无需 API key（使用 SearXNG 时）。为 searxng-mcp 的后继项目，Firecrawl 兼容 API 在规划中。
+基于 Crawl4AI 构建的开源 MCP 服务器与 CLI 工具集，为 agent 提供三个工具：search（并行查询 SearXNG 与 You.com 并合并去重）、crawl（Chromium 渲染 URL 输出 Markdown/JSON）、crawl_site（限深抓取整站）。支持登录后会话抓取（storage_state）、STDIO 与 HTTP 两种传输、Python API。运行在自有硬件上，SearXNG 路径无需 API key；首次抓取需下载约 550MB 的 Playwright Chromium。search 功能需要自备 SearXNG 实例（开启 JSON 输出）或 You.com key。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- SearXNG 与 You.com 并行搜索、合并去重并标注来源
-- Playwright Chromium 渲染页面后输出 Markdown/JSON，支持 JS 重页面
-- crawl-capture 捕获登录会话后爬取登录后区域
-- uvx searxncrawl setup 一键配置多种 MCP 客户端
+- 三个 MCP 工具：search/crawl/crawl_site，支持语言、时间范围、safe search 等过滤
+- crawl-capture 捕获登录会话后抓取登录后页面
+- uvx searxncrawl setup 自动检测 Claude Code、Cursor、VS Code 等客户端并写入配置
+- STDIO/HTTP 双传输，HTTP 模式支持 Host/Origin 校验与 CORS 配置
 
 ## 适用场景
 
-- 让我的编程 agent 具备自托管网络搜索能力
-- 把文档站或页面爬成干净 Markdown 供 LLM 使用
-- 不想依赖按次计费的托管搜索/爬取 API
+- 让本地 agent 具备网页搜索并把页面转成 Markdown 上下文
+- 自托管替代按调用计费的托管搜索抓取 API
+- 抓取需要登录的文档站或站点并保持干净输出
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L24: **searxNcrawl** is an open-source MCP server and CLI toolkit that gives AI agents web search and clean Markdown cra
-> L117: |Tool|What it does|
+> L23: **searxNcrawl** is an open-source MCP server and CLI toolkit that gives AI agents web search and clean Markdown cra
+> L30:  STDIO and HTTP Plug into local MCP clients, or run an HTTP endpoint with opt-in Host/Origin checks and configurabl
+> L129: Results return to the agent as the tool response. Search and crawling are also available as the `search` and `craw
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b81b414ed07f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e5bfff9c9ea9` · [字段定义](../../DATASET.md)*

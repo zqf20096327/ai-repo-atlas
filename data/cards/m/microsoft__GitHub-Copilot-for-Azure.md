@@ -2,9 +2,9 @@
 
 ⭐ 267 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/GitHub-Copilot-for-Azure) · 组织维护
 
-**面向 Azure 开发的 Copilot 扩展集：IDE 内问答与运维辅助**
+**为 IDE 与 AI 编码客户端接入 Azure 技能的插件集**
 
-微软发布的 VS Code、Visual Studio 2022/2026 及 Claude Code 扩展集合，用于在 IDE 内回答 Azure 服务相关问题并辅助 Azure 管理与开发任务。核心机制为随扩展安装的 Azure skills 与 Azure MCP Server（需 Node.js 运行 npx），支持通过编辑 .mcp.json 的 --cloud 参数接入 Azure China Cloud 与 Azure US Government 主权云，并给出 8 个客户端（Copilot CLI、Claude Code、VS Code、IntelliJ、Gemini CLI、Cursor、Codex、Eclipse）的 Skills/MCP/Hooks 支持矩阵。安装经 VS Code 命令面板或 Copilot CLI/Claude Code 的 /plugin 命令完成。
+微软发布的扩展与插件集合，面向 Visual Studio、VS Code、Copilot CLI、Claude Code、Cursor、Gemini CLI 等客户端，以 Agent Plugins 1.0.0 格式打包 skills、MCP 配置与 hooks，用于在 IDE 内回答 Azure 服务问题并辅助 Azure 管理与开发任务。提供全局/工作区两种技能安装范围，Azure MCP server 默认连接 Azure 公有云，可按主权云（中国/美国政府云）配置 --cloud 参数并认证对应 CLI 工具。前置条件为 Git 与 Node.js。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 以 skills + Azure MCP Server 形式向 IDE 内 agent 提供 Azure 能力
-- 支持 Azure China Cloud 与 Azure US Government 主权云配置
-- 提供 8 个客户端的 Skills/MCP/Hooks/Marketplace 支持矩阵
-- Visual Studio 2026 中随 Azure & AI 工作负载内置
+- 支持 VS Code、Visual Studio、Claude Code、Copilot CLI、Cursor、Gemini CLI 等多客户端接入
+- 以 Agent Plugins 1.0.0 格式提供 plugin.json/mcp.json/skills 与 hooks
+- 支持 Azure 中国云与 Azure 美国政府云的 MCP server 配置
+- VS Code 中可通过命令面板全局或工作区级安装/卸载 Azure Skills
 
 ## 适用场景
 
-- 在 IDE 内向 AI 询问 Azure 服务问题并获得操作辅助
-- 让 Claude Code/Copilot CLI 等 agent 执行 Azure 管理与开发任务
-- 在 Azure 主权云环境下使用 MCP Server 连接对应云环境
+- 在 IDE 中询问 Azure 服务相关并获取管理任务辅助
+- 让 Claude Code、Cursor 等 AI 编码客户端调用 Azure 技能
+- 在主权云环境开发时配置对应云端的 MCP 连接
 
 ## 场景标签
 
- · 领域:云计算/开发工具
+ · 领域:开发者工具/云开发
 
 ## 证据(README 行号)
 
 > L3: GitHub Copilot for Azure is a set of extensions for Visual Studio, VS Code, and Claude Code designed to streamline t
-> L59: - `@azure: Install Azure Skills Globally` — installs to your home directory (for example `~` on macOS/Linux or `%Us
-> L125: |Client|Skills|MCP Servers|Hooks|Marketplace|Manifest|Status|
+> L126: root `plugin.json` provides metadata, `mcp.json` provides portable MCP
+> L88: By default, the Azure MCP server connects to the Azure Public Cloud. If you use a sovereign cloud (Azure China Clou
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `166ab46c8a04` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `c9a7d958fa65` · [字段定义](../../DATASET.md)*

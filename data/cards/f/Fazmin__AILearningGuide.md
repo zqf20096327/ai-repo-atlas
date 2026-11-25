@@ -2,9 +2,9 @@
 
 ⭐ 261 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Fazmin/AILearningGuide) · [官网](https://fazmin.github.io/AILearningGuide) · 个人维护
 
-**面向学习者的桌面/网页 AI 教学应用：51 个互动实验讲解 AI 原理**
+**交互式 AI 学习桌面应用：62 个动手实验室自学机器学习**
 
-Discover AI 是一个教学应用，含 51 个互动实验，覆盖 ML 基础、transformer、RAG、agent、微调与量化等主题，分为六组并配Connections 地图展示知识关联。每个实验提供三档阅读难度（Simple/Plain/Standard）、检查题与进度保存；注意力实验在应用内运行真实小型 transformer，训练实验现场训练微型语言模型。可选 AI 向导支持本地小模型（下载 Qwen3.5 2B + llama.cpp 引擎，离线运行）或用户自有 OpenAI/Anthropic/Google API key。桌面版基于 Tauri 2/Rust，网页版提供 GitHub Pages 在线访问，无账号、无追踪，课程可离线使用。
+以桌面/Web 应用形式提供的 AI 交互式教程：62 个实验分布在七个模块，覆盖数学基础、神经网络、transformer、RAG、agent、预训练与微调量化等主题，每个实验配 Simple/Plain/Standard 三档讲解、checkpoint 测验、进度保存与词汇表搜索。应用内可实时运行小型 transformer 与训练小语言模型。附带可选 AI 问答助手（本地 llama.cpp 模型或用户自备 API key），离线可用，MIT 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Discover AI 是一个教学应用，含 51 个互动实验，覆盖 ML 基础、
 
 ## 能力要点
 
-- 51 个互动实验分六组，覆盖 ML 基础到微调、量化与部署
-- 应用内运行真实小型 transformer 与现场训练的微型语言模型
-- 三档阅读难度（Simple/Plain/Standard）与检查题、进度保存
-- 可选 AI 向导：本地 Qwen3.5 2B + llama.cpp 离线运行，或自带云端 API key
+- 62 个交互实验分七组，覆盖从数学基础到微调、量化与服务化
+- 应用内实时运行小型 transformer 并可现场训练小语言模型
+- 三种阅读模式、进度保存、Cmd+K 全局搜索与无障碍选项
+- 可选 AI 助手：本地 Qwen 模型（llama.cpp）或 OpenAI/Anthropic/Google 自备 key
 
 ## 适用场景
 
-- 零基础按顺序系统学习现代 AI 的工作原理
-- 通过拖动滑块、点击词语等互动操作直观理解注意力与反向传播
-- 离线、无账号、无追踪地自学 AI 课程并跟踪进度
+- 想通过拖动滑块、动手实验的方式自学机器学习与 transformer 原理
+- 需要离线、无账号的 AI 入门学习材料
+- 教学中向学生演示注意力、梯度下降、训练过程等概念
+- 用 checkpoint 测验和进度追踪安排自己的学习路线
 
 ## 场景标签
 
@@ -38,7 +39,8 @@ Discover AI 是一个教学应用，含 51 个互动实验，覆盖 ML 基础、
 ## 证据(README 行号)
 
 > L3: A desktop app that teaches you how modern AI works by letting you play with it.
-> L5: There are 51 small hands-on labs. In each one you move a slider, click a word, or train a tiny model, and you watch 
+> L5: There are 62 small hands-on labs. In each one you move a slider, click a word, or train a tiny model, and you watch 
+> L79: - **62 interactive labs.** Each lab is split into a few short steps with a "Try this" hint, so you always know what
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ae3dc0045355` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `36cd940c4be2` · [字段定义](../../DATASET.md)*

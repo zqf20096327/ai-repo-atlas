@@ -2,15 +2,15 @@
 
 ⭐ 299 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Dongbumlee/ontosmith) · [官网](https://dongbumlee.github.io/ontosmith/) · 个人维护
 
-**本体驱动的知识图谱构建器：从文档产出带证据溯源的受治理图谱**
+**给文档构建受治理、可溯源知识图谱的抽取管线**
 
-OntoSmith 是一个从文档语料构建知识图谱的流水线工具：先人工设计并批准本体（实体/关系类型的封闭清单），再由 LLM proposer 提出候选三元组，确定性门控与 Jev 决策模型判定后才写入 Neo4j 图数据库，每条三元组携带证据片段与出处。构建后可通过 search/API/MCP 提供句级证据检索与混合检索。非正式本体：无类层级、无推理。需 Python≥3.11，Linux 上开发测试（Windows 需 WSL2），构建阶段需 LLM 连接与 Neo4j 5.x。profiling/检验等步骤可无 key 运行。
+以本体为先的知识图谱构建管线：先用确定性 corpus profiler 分析语料，人工审批后生成 hash 锁定的本体 pack，再由批处理管线分层构建图谱——LLM 提候选三元组，Jev 决策模型逐条裁决，仅写入带证据片段与出处的事实。构建写入 Neo4j（图遍历+向量+全文检索），提供 search/serve/API/MCP 等服务出口。构建需 LLM 连接与 Neo4j；分析、检索示例等步骤可无 key 运行；每次构建前给出成本预估并记录账本。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
@@ -20,26 +20,26 @@ OntoSmith 是一个从文档语料构建知识图谱的流水线工具：先人�
 
 ## 能力要点
 
-- 模型提议、Jev 决策模型判定的分离式构建，仅写入带证据三元组
-- 确定性语料画像与本体构建/导入，hash 固定的 versioned pack
-- 构建前成本预估与账本记录，可设 USD 停止线
-- ontosmith search/serve/mcp 提供句级证据检索与 MCP 只读工具
+- 提案/裁决分离的构建循环：候选事实经 Jev 决策模型逐条把关后才写入
+- 每条写入三元组携带证据片段与 provenance
+- 四领域 pack + Core 基线，本体以数据形式版本化并 hash 锁定
+- 提供 search、示例 API 与五工具只读 MCP server 三类服务出口
 
 ## 适用场景
 
-- 从合同或领域文档语料构建可审计的知识图谱
-- 为 RAG/agent 提供带证据溯源的检索层
-- 导入已有本体并按其受治理地构建图谱
+- 把合同、文档语料转成可溯源的领域知识图谱
+- 基于构建好的图谱做证据级检索与问答
+- 按领域定制或导入已有本体后批量构建图谱
 
 ## 场景标签
 
-`知识图谱` · 领域:知识与检索
+`知识图谱` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L9: **An ontology-driven knowledge-graph builder: design the
-> L211: |Batch pipeline|The staged build: ingest → NER/roster → candidates → gates → route → write → index → verify, under
-> L217: |Serving|Sentence-level evidence retrieval via `ontosmith search` (direct sentence index + graph pool + beam trave
+> L22: Most knowledge-graph tooling starts from whatever a model
+> L27: that separates proposing from judging. Models propose
+> L222: |Serving|Sentence-level evidence retrieval via `ontosmith search` (direct sentence index + graph pool + beam trave
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `f5d9241390f7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `10da63733e63` · [字段定义](../../DATASET.md)*

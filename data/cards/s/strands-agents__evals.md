@@ -2,9 +2,9 @@
 
 ⭐ 262 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/strands-agents/evals) · [官网](https://strandsagents.com) · 组织维护
 
-**AI agent 与 LLM 应用的评测框架**
+**为 AI agent 与 LLM 应用提供评测的 Python 框架**
 
-Strands Evals SDK 是面向 AI agent 和 LLM 应用的评测框架，提供输出评测、轨迹分析、工具使用评估、多轮对话模拟、LLM-as-a-Judge 评分、OpenTelemetry trace 评测、自动实验生成、失败检测与根因分析、混沌测试与红队评测等能力。配套 strands-evals 命令行工具（validate/run/report/diagnose/generate 五个子命令），实验以 JSON 序列化管理。要求 Python 3.10+，通过 pip 安装。部分评测器（如结构化输出相似度）支持离线确定性评分，无需 LLM 调用。
+Strands Evals SDK 是面向 AI agent 与 LLM 应用的评测框架，覆盖输出评估、轨迹分析、工具使用评估与多轮交互评估。关键机制包括 LLM-as-a-Judge 评估器、基于 OpenTelemetry 轨迹的评估、多轮对话与工具模拟、从上下文描述自动生成实验、失败检测与根因分析、确定性故障注入的混沌测试及红队评估（Crescendo/GOAT/PAIR 等）。经 pip 安装并提供 CLI 子命令用于 CI 流程；需 Python 3.10+。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Strands Evals SDK 是面向 AI agent 和 LLM 应用的评测框架，提供输�
 
 ## 能力要点
 
-- 输出/轨迹/工具使用/技能选择等多类评测器
-- ActorSimulator 多轮对话模拟与 ToolSimulator 工具模拟
-- strands-evals CLI 含 run/validate/report/diagnose/generate 五个子命令
-- 混沌测试（确定性故障注入）与红队评测（含 Crescendo/PAIR 等攻击策略）
+- 多种评测类型：输出、轨迹、工具使用与多轮交互评估
+- 多轮对话模拟与 LLM 驱动的工具模拟（支持共享状态与 schema 校验）
+- 失败检测、根因分析与混沌测试（确定性故障注入）
+- CLI 支持 validate/run/report/diagnose/generate 子命令
 
 ## 适用场景
 
-- 为基于 Strands 的 agent 编写并运行评测实验
-- 在 CI 中对实验 JSON 做模式校验并输出报告
-- 不依赖真实 API 通过工具模拟测试 agent 行为
-- 对 agent 会话做失败检测与根因分析
+- 在 CI 中对 agent 应用做输出与轨迹的自动评测
+- 通过模拟用户对话测试 agent 能否完成目标
+- 检测 agent 会话中的失败并分析根因
+- 对 agent 做对抗性安全（红队）测试
 
 ## 场景标签
 
@@ -39,8 +39,8 @@ Strands Evals SDK 是面向 AI agent 和 LLM 应用的评测框架，提供输�
 ## 证据(README 行号)
 
 > L9:  A comprehensive evaluation framework for AI agents and LLM applications.
-> L30: - **Multiple Evaluation Types**: Output evaluation, trajectory analysis, tool usage assessment, and interaction eva
-> L60: Installing `strands-agents-evals` also installs the `strands-evals` console script, a thin wrapper over the Python 
+> L66: Installing `strands-agents-evals` also installs the `strands-evals` console script, a thin wrapper over the Python 
+> L89: Ensure you have Python 3.10+ installed, then:
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `92dcd9d5a4f3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `71035b0976ee` · [字段定义](../../DATASET.md)*

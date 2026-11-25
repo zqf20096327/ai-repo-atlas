@@ -1,10 +1,10 @@
 # Yzmblog/DMAD
 
-⭐ 268 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Yzmblog/DMAD) · 组织维护 · 中文 README
+⭐ 268 · Python · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Yzmblog/DMAD) · 组织维护
 
-**扩散模型对抗蒸馏方法 DMAD 的训练与少步推理代码**
+**少步蒸馏的音频-视频生成模型权重与训练/推理代码库**
 
-DMAD（Distribution Matching as Adversarial Distillation）将分布匹配蒸馏重构为分类问题，用共享骨干上的两个判别器头学习对数密度比，替代 DMD 中的辅助扩散模型拟合。本仓库提供 MiniMax-H3（33B 文生音视频）4 步学生 LoRA 的推理代码（inference.py、Diffusers 管线、ComfyUI 工作流），以及 ImageNet-64、SDXL、Wan2.1、MiniMax-H3 的训练代码。支持 --low-vram 在 8 GB 消费级 GPU 上分层流式推理，基座模型约 170 GB 需从 Hugging Face 下载并接受 MiniMax H3 Community License。由 Texas A&M 与字节跳动人员共同维护。
+DMAD 提出把分布匹配重述为分类任务，用判别器 logits 上的线性损失直接训练少步学生模型，省去 DMD 所需的辅助扩散模型。仓库提供 MiniMax-H3 33B 的三个 rank-128 LoRA 学生（4 步与 8 步）、推理脚本 inference.py、Diffusers 管线示例、ComfyUI 工作流，以及 ImageNet-64、SDXL、Wan2.1、MiniMax-H3 四套训练代码。模型以 LoRA 形式运行在 50 步教师之上，默认输出 1344x768、124 帧 5.2 秒视频并带 32 kHz 立体声。运行需先在 Hugging Face 接受 MiniMax H3 Community License 并下载约 170 GB 基础模型组件。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ DMAD（Distribution Matching as Adversarial Distillation）将分布匹配蒸馏
 
 ## 能力要点
 
-- 4 步生成 1344x768 视频与原生立体声音频的学生 LoRA（rank 128）
-- --low-vram 逐层流式推理，8 GB GPU 可生成 5 秒视频，与更大 GPU 输出逐位一致
-- 提供 Diffusers 管线封装与 ComfyUI 工作流（4/8 步）
-- 含 ImageNet-64/SDXL/Wan2.1/MiniMax-H3 四套训练代码
+- 三个 rank-128 LoRA 学生权重：4 步 lora_critic/full_critic 与 8 步 8step_full_critic（各 1.4 GB）
+- --low-vram 支持 8 GB 消费级 GPU，5 秒视频占用低于 7 GiB 显存
+- 提供 ComfyUI 键位布局的 LoRA 转换版本与现成工作流（16-24 GB 与 8 GB GPU）
+- 四套训练代码（ImageNet-64/SDXL/Wan2.1/MiniMax-H3）及 Wan2.1 训练数据开放
 
 ## 适用场景
 
-- 在消费级 GPU 上少步快速生成带音频的视频
-- 复现论文中 DMAD 蒸馏训练与评测流程
-- 在 ComfyUI 或 Diffusers 工作流中使用 4 步学生模型
+- 用消费级 GPU 少步生成带立体声音频的视频
+- 在 ComfyUI 中挂载 LoRA 直接跑 4/8 步工作流
+- 基于开放的训练代码在自有数据上复现 DMAD 蒸馏
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ DMAD（Distribution Matching as Adversarial Distillation）将分布匹配蒸馏
 ## 证据(README 行号)
 
 > L27: This repository contains the **4-step DMAD students of MiniMax-H3
-> L28: (33B, text-to-audio-video)** and the code to run them: a LoRA of rank 128 on the H3 transformer turns the 50-step
-> L70: * ⚡️ `inference.py`: few-step sampling with the re-noise step rule the students were trained with
+> L73: * ⚡️ `inference.py`: few-step sampling with the re-noise step rule the students were trained with
+> L143: classifier-free guidance (MiniMax-H3 is guidance-distilled). The default output is 1344x768, 124 frames (5.2 s at
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `45bd0911de3c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `49adc2fe2f4a` · [字段定义](../../DATASET.md)*

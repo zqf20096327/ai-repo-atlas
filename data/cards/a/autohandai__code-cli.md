@@ -2,9 +2,9 @@
 
 ⭐ 219 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/autohandai/code-cli) · [官网](https://www.autohand.ai/code/) · 组织维护
 
-**终端原生 AI 编程代理：多模型接入下自动规划并改代码**
+**终端原生 AI 编码 agent：读代码、规划、编辑、测试并自动化工程任务**
 
-在终端中运行的 AI 编程代理，读取项目上下文，以规划-反思-记忆循环完成文件编辑、Shell 命令、测试与自动化任务，风险操作前请求批准。支持 OpenRouter、OpenAI、AWS Bedrock、DeepSeek、Z.ai 等多种模型提供商及本地模型，可导入 Claude Code 配置。提供交互式 REPL（斜杠命令、文件提及、技能）与非交互命令模式（stream-json 输出）用于 CI/CD，另有 VS Code/Zed 扩展与多语言 Code Agent SDK。安装方式含脚本、Homebrew、npm 与源码构建，需 Bun≥1.0 与 Git。附带本地追踪组件 ahtraces 与 Computer Use 组件。
+终端中运行的 AI 编码 agent：读取项目上下文、规划变更、编辑文件、执行 shell 命令，并在高风险操作前请求确认。提供交互式 REPL（文件提及、斜杠命令、技能、权限控制、会话历史）与面向 CI/CD 的命令模式（JSON 流输出）。支持 15+ 模型提供商及本地模型，可从 Claude Code 导入设置、技能与会话；附带 VS Code 扩展、Zed/ACP 集成与多语言 Agent SDK。要求 Node.js 22+，跨 macOS/Linux/Windows。安装器会替换 PATH 上的 agent 命令，并附带 ahtraces 与 Computer Use 组件。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多提供商支持（OpenRouter/OpenAI/Bedrock/DeepSeek/Z.ai）及本地模型
-- 规划模式 + 工具循环，风险操作前请求批准
-- 非交互命令模式输出 stream-json 事件流，可用于 CI/CD
-- Code Agent SDK 提供 TypeScript/Go/Python/Java/Swift 多语言包
+- 终端 REPL 与非交互命令模式，支持 stream-json 事件输出
+- 15+ 模型提供商接入，含 Ollama/llama.cpp/MLX 本地模型
+- plan/edit/YOLO/auto 模式切换与 --dry-run 预览
+- autohand import claude 导入 Claude Code 的设置、技能与记忆
 
 ## 适用场景
 
-- 在终端用自然语言让 AI 代理修改、测试我的代码库
-- 在 CI/CD 流水线中自动执行重复性编码任务
-- 通过 SDK 把编码代理能力嵌入自己的工具或编辑器集成
+- 在终端用自然语言让 agent 完成代码修改与测试补充
+- 在 CI/CD 脚本中用 --prompt 跑单条自动化编码任务
+- 从 Claude Code 迁移已有配置与技能继续使用
+- 通过 VS Code/Zed/JetBrains 的集成在编辑器内调用 agent
 
 ## 场景标签
 
@@ -38,7 +39,8 @@
 ## 证据(README 行号)
 
 > L10: **A fast, self-improving terminal-native AI coding agent for planning, reflecting, remembering, editing, testing, a
-> L26: - **Multi-Provider Support**: Works with OpenRouter, LLMGateway, OpenAI, AWS Bedrock, DeepSeek, Azure Foundry Model
+> L12: Autohand Code CLI is a fast, terminal-native AI coding agent that lives where you already work. It reads project co
+> L34: - **Multi-Provider Support**: Free Fantail model with an Autohand account, or 15+ providers incl. Anthropic, OpenAI
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `9b39156b7d5d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `74030a1f85e5` · [字段定义](../../DATASET.md)*

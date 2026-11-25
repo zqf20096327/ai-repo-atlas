@@ -2,15 +2,15 @@
 
 ⭐ 214 · Python · 推送 2026-10-28 · [GitHub](https://github.com/harveybc/gym-fx) · 个人维护
 
-**面向 FX/加密货币的 Gymnasium 交易模拟环境，供 RL 训练**
+**给强化学习智能体提供外汇与加密货币回测交易环境的 Gymnasium 库**
 
-将 backtrader 模拟封装为标准 gym.Env 的交易环境库：提供真实化订单执行、受保护的止损/止盈括号单、保证金与偿付能力记账、执行成本模型和会话/事件上下文，供强化学习智能体在历史行情上交易。数据源、经纪商、策略、预处理器、奖励与指标均为按名称从 JSON 配置选择的插件。定位仅为环境层，不含训练、预测和实盘下单；默认离线 CSV 模拟，无需网络与凭证。通过源码 editable 安装，附带 84 项测试与可复现的回合诊断输出。
+以 Gymnasium `gym.Env` 接口封装 backtrader 模拟，让 RL 智能体在历史行情上执行交易回测。关键机制包括：受保护 SL/TP 括号订单（插件缺失或失败时拒绝并计数，不静默降级）、两种偿付能力模式（保证金违约终止或训练用续期记账）、逐步与每回合诊断计数器、可脱离环境独立重建观测向量的 observation builder。数据源、经纪商、策略、预处理、奖励与指标均为 JSON 配置按名选择的插件。仅做模拟，无实盘下单路径；实验复现需固定版本与成本配置。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- backtrader 封装为 Gymnasium step/reset 接口（GymFxEnv）
-- 受保护 SL/TP 执行：插件未实现括号单时入场被拒绝并计数，不静默降级
-- 两种偿付能力模式：normal_realistic 与仅训练用的 easy_chronological_continuation
-- 回合级 action_diagnostics / execution_diagnostics 审计输出与回写完整配置以便复现
+- 受保护 SL/TP 括号订单：插件失败时动作被拒绝并计数
+- 偿付能力模式：normal_realistic / easy_chronological_continuation（仅训练）
+- 全部组件为 JSON 配置选择的插件（数据源/经纪商/策略/奖励/指标）
+- observation builder 可在无环境时按契约精确重建观测向量
 
 ## 适用场景
 
-- 为 SAC/PPO/DQN 等 RL 智能体提供外汇/加密货币回测交易环境
-- 在保证金强平与执行成本约束下研究智能体偿付能力课程
-- 生成带执行诊断的证据链以复现实验结果
+- 在历史外汇/加密行情上训练和评估强化学习交易智能体
+- 需要受保护止损止盈与保证金记账的回测实验
+- 在训练与评估之间复现完全一致的执行语义与诊断
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L3: Gymnasium-compatible trading environment for FX and crypto time series. It
 > L5: `gym.Env` step/reset interface so reinforcement-learning agents can trade a
-> L27: **Lifecycle: ACTIVE-CORE.** This environment is the execution layer consumed by
+> L47: **Role:** provide the trading *environment only* — observation construction,
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `ad8ed5fd3b73` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bff90611bb86` · [字段定义](../../DATASET.md)*

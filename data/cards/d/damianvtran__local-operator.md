@@ -2,17 +2,17 @@
 
 ⭐ 229 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/damianvtran/local-operator) · [官网](https://local-operator.com) · 个人维护
 
-**本机 AI agent 组织枢纽：多 agent 协作、后台常驻、共用现有订阅**
+**本机运行的 AI agent 协作中枢：托管、监督并连接多 agent**
 
-开源终端 AI agent 运行时（MIT），用于在本机托管、监督并连接一组协作 agent：单会话可自规划、执行工具、浏览并记忆；配置团队后由 manager 将任务委派给受角色限制的 worker，跨仓库 agent 之间可通过 send 互发消息，唤醒任务在终端关闭后仍按计划执行。账号层面汇集 ChatGPT、Claude、Kimi、Grok、Z.AI、Qwen 等已有登录并做池化与负载均衡，也支持 OpenAI/Anthropic/xAI/DeepSeek 等 API key 及 LM Studio/Ollama/vLLM/llama.cpp 本地模型。写入与 shell 命令默认需人工批准。提供一键安装脚本、uv/pipx/pip 安装与桌面应用（另行 npx 安装）。
+Local Operator 是一个运行时/中枢，用于在用户本机托管、监督并连接 AI agent：单会话可规划工作、调用工具、浏览网页并记录历史；支持组建团队，由 manager 向受工具限制的 worker 分派任务，跨仓库会话间互发消息，并可在终端关闭后调度后续执行。写入与执行前需用户批准。接入方式包括已有订阅账号、API key 及本地推理服务器。提供桌面应用、终端 UI、手机 web 中继与浏览器扩展等形态，MIT 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 角色即能力边界：reviewer 等角色失去编辑工具，限制随委派继承
-- 跨仓库 agent 间 send 消息与计划唤醒，终端关闭后后台任务继续
-- 汇集多个 ChatGPT/Claude 等订阅账号，池化、负载均衡并针对 prompt cache 优化
-- 读写默认审批门控（/approvals auto 或 --yolo 显式关闭），工具调用留可审计回执
+- agent 组织：subagent 并行、角色能力边界（reviewer/coder 等）与可嵌套团队
+- 跨会话消息（send/hub）与多机 P2P mesh（lop network）
+-  wakes 调度与后台任务，终端关闭后可恢复执行
+- 订阅账号登录（ChatGPT/Claude 等）与本地服务器（Ollama/vLLM 等）接入
 
 ## 适用场景
 
-- 在本机搭建由 manager 与多个专职 worker 组成的 agent 团队协作完成任务
-- 复用已有 ChatGPT/Claude 等订阅驱动多个 agent 而不另购 API
-- 让 agent 在后台按计划执行长任务，并用手机远程查看和干预
+- 在本机组建多 agent 团队分工完成编码、评审等任务
+- 通过手机或浏览器远程查看和操控本机 agent 会话
+- 让 agent 定时唤醒执行后续任务，长期后台运行
 
 ## 场景标签
 
-`多智能体` `模型网关` · 领域:Agent 开发
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L13: **Local Operator** is a harness for organizations of agents: the runtime
-> L20: every ChatGPT, Claude, Kimi, Grok, Z.AI, and Qwen login you already have,
+> L12: **Local Operator** is the runtime that hosts, supervises and connects your
+> L149: `lop network` pairs your own machines into a peer-to-peer **mesh**: their
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `2fcb396f0fc1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `73d2731452b6` · [字段定义](../../DATASET.md)*

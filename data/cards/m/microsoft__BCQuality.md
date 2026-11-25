@@ -2,9 +2,9 @@
 
 ⭐ 251 · AL · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/BCQuality) · 组织维护
 
-**面向 Business Central 开发的 AI 质量知识与技能库**
+**为 AI 工具提供 Business Central 开发质量知识与技能库**
 
-微软维护的 Business Central（BC）开发质量知识库：以知识条目与可复用技能形式提供，本体不是 agent 也不是 BC 扩展，由宿主（如 GitHub Copilot CLI 插件）调用。提供 al-code-review 技能按需审查 AL 代码并输出带位置、严重度、置信度与依据的 findings-report；preview 状态的 al-plan-guidance 技能对开发计划做只读的约束补充。内容分 Microsoft/Community/Custom 三层，覆盖 AL 技术审查及部分 SCM 与 Finance 领域，明确声明不替代编译器、分析器与人工审查。
+BCQuality 是面向 Business Central（AL 语言）开发的知识与可复用技能仓库，本身不含 agent 或 BC 扩展，由宿主 agent 提供执行能力。内容含 229 篇知识文章与三项能力：AL 代码审查（al-code-review）、带引用的知识问答（al-knowledge）、开发计划指导（al-plan-guidance，预览）。通过 Copilot CLI 插件安装使用，也可由 CI 等集成直接调用 Entry 路由。当前覆盖技术代码审查与 SCM、Finance 部分功能域，明确不替代编译器、分析器、测试或人工审查。
 
 ## 筛选速览
 
@@ -16,29 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- al-code-review 技能输出带来源位置、严重度、置信度的审查报告
-- al-plan-guidance（preview）对开发计划做只读指导补充
-- Microsoft/Community/Custom 三层知识与技能结构，支持组织 fork 覆盖
-- Entry 路由可供 CI 集成直接调用，与插件走相同规则
+- 229 篇社区与 Microsoft 知识文章，分 Microsoft/Community/Custom 三层组织
+- 三项能力：代码审查、带引用知识问答、计划指导（预览）
+- copilot plugin install 一条命令安装，CI 集成可直连 Entry 路由
+- 审查结果含源码位置、严重度、置信度与对应指导引用
 
 ## 适用场景
 
-- 我在 Business Central 项目里让 AI 工具审查 AL 代码的 BC 特有缺陷
-- 编码前用 BCQuality 约束补充我的开发计划
-- 在 CI/AL-Go 流水线中自动审查 BC 仓库（开发中）
+- 用 Copilot CLI 对 Business Central AL 应用做 BC 专项代码审查
+- 在 AL-Go 仓库中对拉取请求自动运行代码审查
+- 编码前让 al-plan-guidance 为开发计划补充约束与校验要点
+- 开发中查询 BC 开发问题并获得可追溯引用的回答
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+`代码审查` `文档问答` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L7: BCQuality contains **knowledge and reusable skills**, not agents or a Business
-> L8: Central extension. Your host supplies the agent. You can install the content
+> L165: Knowledge articles cover one concern each. Skills tell an agent how to find
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c53892532530` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5400e993969c` · [字段定义](../../DATASET.md)*

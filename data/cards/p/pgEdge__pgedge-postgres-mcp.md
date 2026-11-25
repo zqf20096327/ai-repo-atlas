@@ -2,9 +2,9 @@
 
 ⭐ 249 · Go · PostgreSQL · 推送 2026-11-16 · [GitHub](https://github.com/pgEdge/pgedge-postgres-mcp) · [官网](https://docs.pgedge.com/pgedge-postgres-mcp-server) · 组织维护
 
-**PostgreSQL MCP 服务器：让 LLM 客户端用自然语言查库**
+**让 MCP 客户端用自然语言查询 PostgreSQL 的 MCP 服务器**
 
-用 Go 实现的 PostgreSQL MCP 服务器，通过 MCP 兼容客户端（CLI、Web UI、Claude Desktop/Code、Cursor、Windsurf、VS Code Copilot）执行 SQL 查询，Natural Language Agent 支持自然语言转 SQL。提供 MCP 工具（查询执行、schema 分析、BM25+MMR 混合搜索、嵌入生成）、资源、提示工作流、Go 聊天客户端与 React Web UI。默认只读事务，支持 TLS、用户/Token 认证、Docker 部署。README 明确声明不适用于面向公众的应用（LLM 可读取全部 schema 与数据）。要求 PostgreSQL 14+。
+pgEdge 的 PostgreSQL MCP 服务器：通过 MCP 协议向兼容客户端暴露只读 SQL 查询、模式分析、BM25+MMR 混合检索与嵌入生成等工具，并提供自然语言生成 SQL 的 Agent CLI 与 React Web UI。支持 Claude Desktop/Cursor 等客户端接入、用户与令牌认证、TLS 与只读事务强制、Docker Compose 部署与配置热重载。README 明确声明不适用于面向公众的应用，仅限可信用户的内部环境。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- MCP 工具集：查询执行、schema 分析、BM25+MMR 混合搜索、嵌入生成
-- 默认只读事务保护，支持 TLS、用户/Token 认证与热重载
-- 提供 Go 聊天客户端（含 Anthropic prompt caching）与 React Web UI
-- Docker Compose 部署，预构建镜像发布于 GitHub Container Registry
+- 通过 MCP 协议向兼容客户端提供只读 SQL 查询、模式分析与混合检索工具
+- 自带 Go 命令行聊天客户端与 React Web UI，支持自然语言转 SQL
+- Docker 镜像发布于 GitHub Container Registry，支持 Compose 部署
+- 内置用户/令牌认证、TLS 与只读事务强制
 
 ## 适用场景
 
-- 在 Claude Desktop/Cursor 等客户端中用自然语言查询 PostgreSQL
-- 内部开发工作流中让 LLM 读取数据库 schema 与统计信息
-- 通过浏览器 Web UI 与数据库对话式交互
+- 在 Claude Desktop 或 Cursor 中用自然语言查询内部 PostgreSQL 数据库
+- 为开发者工作流搭建数据库探索与查询诊断助手
+- 通过 Web UI 为团队提供基于对话的数据库访问
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L75: The pgEdge Postgres Model Context Protocol (MCP) server enables
-> L76: SQL queries against PostgreSQL databases through MCP-compatible
+> L77: clients. The Natural Language Agent provides supporting
+> L117: - **Tools** - Query execution, schema analysis, advanced hybrid
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5cda659d83fc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f9991fdbba97` · [字段定义](../../DATASET.md)*

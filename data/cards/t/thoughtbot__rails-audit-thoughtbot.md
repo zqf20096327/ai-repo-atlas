@@ -2,15 +2,15 @@
 
 ⭐ 266 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/thoughtbot/rails-audit-thoughtbot) · [官网](https://thoughtbot.com) · 组织维护
 
-**Claude Code 技能：对 Rails 应用按 thoughtbot 规范做代码审计**
+**Rails 代码审计的 Claude Code 技能：按 thoughtbot 实践生成审计报告**
 
-面向 Claude Code 的技能（skill），对 Ruby on Rails 应用执行代码审计并生成报告：覆盖 RSpec 测试实践、安全漏洞、代码设计（瘦控制器/PORO）、Rails 约定、数据库优化、外部服务与性能反模式等。审计依据来自 thoughtbot 的 Ruby Science、Testing Rails 与 Rails Antipatterns 等资料的压缩参考文档。可选步骤（每步 opt-in）临时向 Gemfile 添加 SimpleCov/RubyCritic 采集覆盖率与质量指标，跑完恢复原 Gemfile 并清理生成文件。安装方式为复制或克隆技能目录到 ~/.claude/skills/。
+一个 Claude Code 技能，依据 thoughtbot 的 Ruby Science 与 Testing Rails 实践对 Ruby on Rails 应用执行代码审计，生成涵盖测试实践、安全漏洞、代码设计、Rails 约定、数据库优化、性能反模式等维度的详细审计报告。审计可全量运行也可定向到特定文件或目录；支持可选的数据收集步骤（SimpleCov 覆盖率、RubyCritic 代码质量），均为 opt-in 并在收集后恢复原 Gemfile。内置参考文档与两个子代理定义。安装走 Claude Code 插件市场或手动复制/克隆到 skills 目录。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 基于 thoughtbot Ruby Science / Testing Rails 等实践的多维度 Rails 审计
-- 可选 SimpleCov 覆盖率与 RubyCritic 复杂度/坏味道采集（临时改 Gemfile，事后还原）
-- 支持全应用审计与针对 controllers 等指定目录的定向审计
-- 附带 6 份参考文档与 2 个采集子代理定义
+- 生成覆盖测试、安全、设计、约定、数据库、性能等维度的审计报告
+- 支持定向审计特定文件或目录
+- 可选 SimpleCov 覆盖率与 RubyCritic 质量指标数据收集（opt-in，收集后恢复 Gemfile）
+- 内置 Ruby Science/Testing Rails 提炼的参考文档与报告模板
 
 ## 适用场景
 
-- 让 Claude Code 对我的 Rails 项目生成全面审计报告
-- 只审计 controllers 等特定目录的代码质量
-- 在审计报告中获得实际测试覆盖率与代码复杂度数据
+- 对 Rails 项目做全面代码质量与安全审计
+- 针对性检查 controllers 等特定目录的代码问题
+- 收集测试覆盖率与代码复杂度指标写入审计报告
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `866303be7a21` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f102abfd5eb4` · [字段定义](../../DATASET.md)*

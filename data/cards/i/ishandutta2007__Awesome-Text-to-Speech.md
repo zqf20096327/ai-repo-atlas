@@ -2,9 +2,9 @@
 
 ⭐ 232 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/ishandutta2007/Awesome-Text-to-Speech) · 个人维护
 
-**语音合成（TTS）模型与服务策展清单，面向开发者选型**
+**面向 TTS 使用者的模型与工具策展清单（云服务+开源项目）**
 
-持续维护的 Text-to-Speech 资源聚合清单：按云端商业平台（含订阅价格与公司规模）和开源/本地优先项目（按 GitHub 星数排序）两大板块组织，收录 NVIDIA NeMo、Azure、ElevenLabs、Coqui TTS、GPT-SoVITS、Piper、sherpa-onnx 等条目，每条列出关键特性、语言栈与链接。面向需要挑选 TTS 方案的开发者与内容创作者，覆盖语音克隆、低延迟实时合成、多语言、CPU 本地运行等主题。本体为清单仓库，不提供可运行代码。
+收录 Text-to-Speech 领域工具、模型与资源的策展清单，分为商业云平台与开源/本地项目两部分，以表格列出服务/模型、所属组织、关键特性、定价或语言与仓库链接。云平台部分按公司规模排序，开源部分按 GitHub Stars 排序，覆盖语音克隆、多语言、CPU 运行、实时低延迟等类别条目。清单面向寻找 TTS 模型或 API 的用户，通过 PR 接受社区贡献，不含自身安装或运行说明。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 云端商业 TTS 平台对照表（含最低订阅价与公司规模）
-- 开源 TTS 库列表按 GitHub 星数排序并标注关键特性
-- 覆盖语音克隆、低延迟实时合成、CPU 本地运行等主题
+- 商业 TTS 平台表格：收录 20 余项服务并标注定价与组织信息
+- 开源 TTS 项目表格：收录 25+ 项目并标注语言与仓库链接
+- 涵盖语音克隆、低延迟实时 TTS、CPU 端运行、浏览器内运行等条目
 
 ## 适用场景
 
-- 为应用挑选云端或本地 TTS 服务
-- 对比各 TTS 平台的定价与特性
-- 寻找可本地运行、支持语音克隆的开源模型
+- 为 AI Agent 或应用挑选 TTS API 服务
+- 寻找可本地运行或商用许可的开源 TTS 模型
+- 对比各开源项目支持的语言与语音克隆能力
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`语音合成` `精选清单` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L3: # Awesome Text-to-Speech (TTS) 🗣️: Best AI Voice Generation Models & Tools 2026
 > L48: ## 📚 Comprehensive List of Text-to-Speech (TTS) Resources 🌐
-> L85: ### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
+> L76: ### 🏗️ Open-Source Text-to-Speech Libraries & Local-First Projects
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9b89de8530f0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `58cffdf6f0ac` · [字段定义](../../DATASET.md)*

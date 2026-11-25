@@ -2,9 +2,9 @@
 
 ⭐ 242 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/claudioemmanuel/squeez) · 个人维护
 
-**给 AI 编程 CLI 用户的 hook 式 token 压缩器**
+**为 7 个 AI 编码 CLI 压缩工具输出的 token 节省器**
 
-面向 Claude Code、Copilot CLI、OpenCode、Gemini CLI、Codex CLI、Pi、Hermes 七种 AI CLI 宿主的可执行工具：通过 PreToolUse hook 拦截 bash 输出，经内置过滤器、跨调用去重、日志模板合并与相关性截断压缩至最多 95%，压缩原文以内容寻址 blob 暂存并可通过 squeez_retrieve MCP 工具取回；附带 41 条内置过滤规则、git status porcelain 原生路径、净收益门槛与标识符保留机制。Rust 编写，零运行时依赖，安装后自动检测并注册到已装宿主。Windows 下 curl 安装需 Git Bash。
+以 hook 方式嵌入 Claude Code、Copilot CLI、OpenCode、Gemini CLI、Codex CLI、Pi、Hermes 七个 agent CLI，在模型读取前压缩命令输出、重复读取、截图与重复结果：60+ 程序处理器、41 条过滤器规则、MinHash 跨调用去重、超 500 行输出转摘要。压缩可逆（squeez_retrieve 取回），拒绝净亏损改写，出错时回退为原始输出。单个静态 Rust 二进制，零运行时依赖，提供 MCP 只读工具与会话记忆。
 
 ## 筛选速览
 
@@ -15,31 +15,30 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `high` | 编译与系统依赖俱全 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- PreToolUse hook 拦截 bash 输出，最多压缩 95%，原文暂存可经 MCP 工具取回
-- 支持 7 个 AI CLI 宿主，squeez setup 自动检测并注册 hook
-- 41 条内置过滤 DSL 规则 + git status porcelain 原生处理路径
-- MCP server 暴露 17 个工具供 MCP 兼容 LLM 查询会话记忆
+- hook 嵌入 7 个 agent CLI，压缩 bash 输出/重复读取/截图
+- 压缩可逆：squeez_retrieve 取回被丢弃内容，按语义搜索 stash
+- 自适应强度随上下文占用切换（80% 阈值），squeez receipt 统计节省 token 与费用
+- 过滤器 DSL 带 test_input/test_expect，安装前跑测试
 
 ## 适用场景
 
-- 降低 AI CLI 编程会话的 bash 输出 token 消耗
-- 长日志/构建输出压缩后仍可取回原始内容
-- 跨调用去重避免重复输出占用上下文窗口
+- AI 编码 CLI 长会话中减少上下文占用与 API 费用
+- 团队用 squeez export 汇总 token 节省指标到自有后端
+- 为特定程序编写自定义输出压缩过滤规则
 
 ## 场景标签
 
- · 领域:LLM 基础设施/上下文工程
+ · 领域:开发者工具/LLM 上下文管理
 
 ## 证据(README 行号)
 
-> L12: End-to-end token optimizer for seven AI CLI hosts — Claude Code, GitHub Copilot CLI, OpenCode, Gemini CLI, OpenAI C
-> L63: `squeez setup` auto-detects every CLI present on disk and registers the hooks. `squeez uninstall` removes them. Ses
-> L116: |**MCP server**|`squeez mcp` runs a JSON-RPC 2.0 server over stdio exposing 17 tools (16 read-only session-memory 
+> L14: It sits in the hooks of seven agent CLIs (Claude Code, GitHub Copilot CLI, OpenCode, Gemini CLI, OpenAI Codex CLI, 
+> L12: **squeez decides what tool output reaches your AI coding agent's context — and shows you what that saved.**
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `bbdff0bdcf89` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e9970b01aa52` · [字段定义](../../DATASET.md)*

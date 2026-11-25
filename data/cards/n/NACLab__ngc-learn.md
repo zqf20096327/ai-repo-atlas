@@ -2,9 +2,9 @@
 
 ⭐ 215 · Python · BSD-3-Clause · 推送 2026-11-07 · [GitHub](https://github.com/NACLab/ngc-learn) · [官网](https://ngc-learn.readthedocs.io/en/latest/#) · 组织维护
 
-**计算神经科学研究库：构建与仿真生物合理的神经网络与智能体**
+**面向计算神经科学与NeuroAI研究的生物可塑性神经网络仿真库**
 
-基于 JAX 的 Python 仿真工具库，用于构建、仿真和分析生物物理/神经生物学系统、脉冲神经网络、预测编码回路以及以生物合理方式学习的仿生（NeuroAI）智能体。面向计算神经科学与类脑计算研究者，由 NAC 实验室（RIT）维护。依赖 NumPy/SciPy/JAX 与自研 ngcsimlib，需 Python 3.12+；GPU 支持需另装 CUDA 12 版 JAX，Pascal 老架构 GPU 需固定 cuDNN 版本。配套文档、教程、模型博物馆仓库及 Nature Communications 论文。
+基于 JAX 的 Python 仿真工具库，用于构建、模拟与分析生物物理系统、脉冲神经网络、预测编码回路及以生物可塑性方式学习的仿生 agent。面向计算神经科学与脑启发计算研究者，提供 Hebbian 局部学习、自由能、预测编码等学习算法实现，并附 ngc-museum 历史模型库。以 pip 包分发（BSD 3-clause），依赖 Python≥3.12、NumPy、SciPy、ngcsimlib 与 JAX；GPU 需 CUDA 版 JAX，早期 Tensorflow-2 版本不再支持。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 构建/仿真脉冲神经网络、预测编码回路与仿生智能体
-- 基于 JAX，支持 CUDA 12 GPU 运行（默认 pip 安装为 CPU 版）
+- 基于 JAX 构建的生物可塑性神经网络仿真与学习算法库
+- 支持脉冲神经网络、预测编码回路与仿生 NeuroAI agent 建模
 - 配套 ngc-museum 历史模型仓库与官方教程文档
-- BSD 3-Clause 许可，附 Nature Communications 论文引用条目
+- 源论文入选 Nature Neuromorphic Hardware and Computing Collection (2023)
 
 ## 适用场景
 
-- 搭建生物合理学习规则的神经网络仿真实验
-- 研究预测编码与脉冲神经计算模型
-- 开发类脑（NeuroAI）学习智能体并分析其行为
+- 构建并模拟脉冲神经网络与预测编码回路
+- 研究局部学习与生物可信的信用分配算法
+- 复现计算神经科学与神经形态计算领域的已发表模型
 
 ## 场景标签
 
- · 领域:计算神经科学/类脑计算
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3:  ngc-learn is a Python library for building, simulating, and analyzing biophysical / neurobiological systems, spikin
-> L18: You can find the related paper right here, which
+> L6: Neural Adaptive Computing (NAC) laboratory.
+> L139: Rochester Institute of Technology, Department of Computer Science
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `12ec9ca14fe0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5d11f13192f5` · [字段定义](../../DATASET.md)*

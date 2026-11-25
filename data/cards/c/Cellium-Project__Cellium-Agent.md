@@ -2,15 +2,15 @@
 
 ⭐ 221 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Cellium-Project/Cellium-Agent) · [官网](https://agent.cellium.top) · 组织维护 · 中文 README
 
-**自进化 AI Agent 助手：决策环驱动、失败中学习、多平台接入**
+**决策环驱动的自进化通用 AI Agent 框架**
 
-面向终端用户的通用 AI 助手与自扩展 Agent 框架，基于微内核架构（EventBus + DI + BaseTool），支持任意 OpenAI 兼容 API。核心机制是决策环（Control Loop）加贝叶斯 Bandit 的自学习：每轮提取特征、评估规则、选择 action（continue/retry/redirect/compress/terminate）并更新策略。具备三层记忆（人格/会话/长期，FTS5+可选向量）、PEOP 计划-执行-重规划循环、组件热插拔与沙箱隔离、运行时通过自然语言创建新组件。支持 WebUI、QQ、Telegram、飞书、微信接入，提供定时任务与后台事件触发。可选向量检索默认关闭、不依赖外部服务；QQBot 依赖 websockets，飞书需额外安装 lark-oapi。
+基于微内核架构（EventBus + DI + BaseTool）的通用 AI 助手框架，核心是决策环（Control Loop）配合贝叶斯 Bandit 做自学习：每轮执行特征提取、规则评估、action 选择、反馈与更新，从失败中调整策略。提供三层记忆（人格+会话+FTS5/向量长期记忆）、组件热插拔与沙箱隔离、敏感信息脱敏、会话委托与子 Agent 并行。支持 WebUI/TUI 及 QQ、Telegram、飞书、微信多通道接入，提供一键安装包、pip 与源码运行方式。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 决策环 + 贝叶斯 Bandit（Thompson Sampling）实现从失败中学习的自适应决策
-- 运行时自扩展：Agent 可通过自然语言创建新组件，3 秒热加载生效，带进程隔离沙箱
-- 三层记忆系统：FTS5 全文 + 可选向量检索混合召回，内置敏感信息脱敏与写入拦截
-- 多平台接入（WebUI/QQ/Telegram/飞书/微信）与自然语言创建定时任务
+- 决策环 5 阶段闭环：特征提取→规则评估→Bandit 选择→执行反馈→学习更新
+- PEOP 循环：批量规划（最多 5 步）、执行内验证与局部重规划
+- 三层记忆系统：FTS5 全文检索 + 可选向量嵌入混合召回，含敏感信息脱敏
+- 组件热插拔（3 秒自动加载）与进程隔离沙箱，支持 QQ/Telegram/飞书/微信多通道
 
 ## 适用场景
 
-- 需要一个能自己总结失败经验、避免死循环的个人 AI 助手
-- 通过 QQ/Telegram/飞书/微信等渠道与 Agent 对话并接收定时任务结果
-- 让 Agent 在运行时自己编写新工具组件扩展能力
-- 本地部署带记忆和沙箱隔离的自动化任务助手
+- 通过自然语言完成文件处理、代码编写、数据分析等日常任务
+- 接入 QQ/Telegram 等聊天平台作为个人 AI 助手
+- 创建定时任务并自动推送结果到对应平台
+- 通过组件市场安装或用自然语言生成新组件扩展能力
 
 ## 场景标签
 
-`Agent 框架` `AI 助手` · 领域:Agent 开发
+`Agent 框架` `Agent 记忆` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L16: **这是一个自进化AI Agent**
-> L30: Cellium Agent 是一个通用的 AI 助手，可以帮助你完成各种任务：
-> L40: |**多平台接入**|支持 WebUI、QQ、Telegram、飞书、微信等多平台对话|
+> L22: 基于微内核架构（EventBus + DI + BaseTool），支持任意 OpenAI 兼容 API
+> L24: 核心设计：决策环（Control Loop）驱动的自学习 Agent，通过贝叶斯 Bandit 实现自适应决策优化。
+> L160: Cellium Agent 的核心是 **Control Loop（控制环）** 驱动的决策系统，结合 **贝叶斯 Bandit** 实现自学习优化。
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f66d69589d6b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f5da11030aa4` · [字段定义](../../DATASET.md)*

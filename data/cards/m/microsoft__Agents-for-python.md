@@ -2,9 +2,9 @@
 
 ⭐ 219 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/Agents-for-python) · 组织维护
 
-**微软官方 Python SDK：构建多渠道企业 agent 应用**
+**用 Python 构建 M365/Teams 等多渠道企业 Agent 的 SDK**
 
-Microsoft 365 Agent SDK 的 Python 组件仓库，提供构建面向 M365、Teams、Copilot Studio、Webchat 等平台的全栈多渠道 agent 所需的开发模块，并支持 Facebook Messenger、Slack、Twilio 等第三方集成。以约 10 个 PyPI 包形式分发，覆盖 Activity 协议类型、aiohttp/FastAPI/Teams 托管、瀑布对话系统、Azure Blob/CosmosDB 存储扩展、MSAL 与 Entra ID 认证等，多个包明确标注替代旧版 botbuilder 系列。要求 Python 3.10 及以上，推荐 3.11+。
+Microsoft 365 Agent SDK 的 Python 开发仓库，提供 PyPI 包用于构建面向 M365、Teams、Copilot Studio、Webchat 等平台的多渠道 Agent，并支持与 Facebook Messenger、Slack、Twilio 等第三方集成。核心机制包括 Activity 协议类型与校验、aiohttp/FastAPI 托管适配、瀑布式对话框系统、Azure Blob/CosmosDB 存储扩展与 MSAL/Entra 认证，另提供 Copilot Studio 客户端。要求 Python 3.11 及以上。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Microsoft 365 Agent SDK 的 Python 组件仓库，提供构建面向 M365、Team
 
 ## 能力要点
 
-- 多渠道托管包：aiohttp、FastAPI、MS Teams
-- 瀑布对话与多轮会话管理系统（dialogs 包）
-- Azure Blob 与 CosmosDB 存储扩展、MSAL/Entra ID 认证包
-- 多个包明确替代 botbuilder-core 等旧 Bot Framework 组件
+- 提供 hosting、dialogs、storage、authentication 等多个 PyPI 包
+- aiohttp 与 FastAPI 两种托管运行方式
+- 替代 botbuilder/botframework 系列旧包
+- Copilot Studio Client 直接与 Copilot Studio 创建的 Agent 交互
 
 ## 适用场景
 
-- 为 Teams 或 Webchat 构建企业对话 agent
-- 将 Bot Framework Python 项目迁移到新 SDK
-- 以 FastAPI/aiohttp 为宿主托管 agent 服务
+- 在 Teams/M365 平台构建企业级对话 Agent
+- 集成 Azure AI Foundry SDK 与 Semantic Kernel 组件
+- 为已有 Copilot Studio Agent 搭建直连客户端
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Microsoft 365 Agent SDK 的 Python 组件仓库，提供构建面向 M365、Team
 ## 证据(README 行号)
 
 > L6: The Microsoft 365 Agent SDK simplifies building full stack, multichannel, trusted agents for platforms including M36
-> L8: The M365 Agent SDK is a comprehensive framework for building enterprise-grade agents, enabling developers to integra
+> L18: We offer the following PyPI packages to create conversational experiences based on Agents:
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a1cb006446a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2f12ff1a8f01` · [字段定义](../../DATASET.md)*

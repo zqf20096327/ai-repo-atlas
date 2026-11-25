@@ -2,9 +2,9 @@
 
 ⭐ 198 · Swift · MIT · 推送 2026-11-08 · [GitHub](https://github.com/31d4r/Raven) · 个人维护
 
-**macOS/iOS 本地文档问答应用：上传文件后提问，全程设备内处理**
+**macOS/iOS 上的本地文档问答应用：上传文件提问，全程设备端运行**
 
-面向 Apple 平台用户的文档对话应用：上传图片、PDF、音频、视频等文件，应用进行文本提取、音频转录与视频文字提取，随后基于项目内容回答问题并生成摘要。AI 处理全部通过 Apple Foundation Models 在本地完成，数据不离开设备，AI 功能无需联网。要求 macOS 26 Tahoe 及以上、Xcode 26 构建，依赖 Vision/Speech/PDFKit 等系统框架与 GRDB.swift。项目自述处于活跃开发阶段，同时在 App Store 提供发布版本。
+面向 iPhone 和 Mac 用户的设备端文档助手：将 PDF、照片、音频或视频添加到对话中，针对文件提问并获得基于文件内容的回答与摘要。所有处理通过 Apple Foundation Models 在本地完成，不发送数据到服务器或云端，AI 功能无需联网。支持来源面板查看引用、跨会话搜索、Projects 文件组织。需 iOS 26 / macOS 26 Tahoe 且设备支持 Apple Foundation Models；可通过 App Store 安装或用 Xcode 26 从源码构建。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 支持图片、PDF、音频、视频的文本提取与音频转录
-- 基于项目内容的问答与上下文分析
-- 全部 AI 处理通过 Apple Foundation Models 在设备本地完成
-- 提供 dmg/app 安装包或源码构建两种获取方式
+- 基于 Apple Foundation Models 的全本地文档问答与摘要
+- 支持 PDF、图片、音频、视频的文本提取
+- 来源面板展示每条回答所依据的文件
+- Projects 在设备端组织文件，数据不出设备
 
 ## 适用场景
 
-- 把文档集中到项目中提问和获取摘要
-- 在不上传云端的前提下对敏感文档做问答
-- 从音频和视频文件中提取文字并提问
+- 在 iPhone/Mac 上离线阅读并提问长 PDF 文档
+- 对照片、录音、视频内容做摘要与问答
+- 处理涉密或隐私文件且不希望上传云端
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L14: Raven is an AI assistant app for macOS / iOS that transforms documents into interactive content. Upload files and g
-> L16: **🔒 Privacy First**: All processing happens locally using Apple Foundation Models. Nothing is sent to servers or cl
+> L14: Raven is an on-device document assistant for iPhone and Mac. You add PDFs, photos, audio, or video to a chat, then 
+> L16: All processing runs locally with Apple Foundation Models. Nothing is sent to a server or cloud service.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5f8f4d7ef28b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9b5c7f5d480a` · [字段定义](../../DATASET.md)*

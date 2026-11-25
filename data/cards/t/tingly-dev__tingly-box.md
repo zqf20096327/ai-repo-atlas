@@ -2,9 +2,9 @@
 
 ⭐ 383 · Go · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tingly-dev/tingly-box) · [官网](https://tingly-dev.github.io/tingly-box/) · 组织维护 · 中文 README
 
-**自托管 LLM 网关：任意 Agent 接任意模型，含团队管理与远程控制**
+**为个人与团队统一接入任意 Agent 与任意模型的 AI 网关**
 
-Go 编写的统一 AI 网关，通过单一端点将 Claude Code、OpenCode、Codex、Xcode 等 agent 客户端桥接到各类模型供应商，支持 Anthropic/OpenAI 协议双向转换、API key 与 OAuth、按成本/速度的智能路由。面向个人与团队：提供共享端点、成员专属 key、按用户用量统计；另含 Guardrails、MCP 网关、用量分析、图像生成 API，以及经 Telegram/钉钉/飞书/微信等 IM 平台远程操控 agent。npm/npx/Docker 方式安装，自带 Web 管理界面。
+用 Go 与 Node 开发的自托管 LLM 网关：将多个上游 provider（官方 API、OAuth 账号、自托管推理服务器）桥接为统一端点，并在 Anthropic/OpenAI 协议间双向转换；支持按成本、速度或自定义策略路由，提供团队共享端点、成员独立密钥与用量统计。附带 Guardrails、MCP Gateway、图像生成 API 与通过 Telegram/钉钉/飞书/微信等 IM 远程控制 Agent 的功能，提供 Web 管理界面，运行开销 <1ms。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Go 编写的统一 AI 网关，通过单一端点将 Claude Code、OpenCode、Co
 
 ## 能力要点
 
-- 任意 Agent ⇄ 任意模型的统一端点，协议双向转换
-- DeepSeek 专项兼容：视觉代理、1M 上下文、缓存命中优化
-- 团队成员专属 key 与按用户用量追踪
-- 经 Telegram/钉钉/飞书/微信/企业微信远程控制 agent
+- 统一端点桥接任意 Agent 与任意模型，协议双向转换
+- 支持 API key 与 OAuth 两种接入方式复用现有配额
+- 团队共享端点：按成员分发密钥并统计用量
+- 通过 Telegram/钉钉/飞书/微信等 IM 远程控制 Agent
 
 ## 适用场景
 
-- 让 Claude Code 等 agent 客户端接入不同模型供应商
-- 团队共享一个模型端点并按成员追踪用量
-- 通过手机 IM 远程执行与监控 AI agent 任务
+- 为 Claude Code/OpenCode/Codex 等客户端一键配置统一模型端点
+- 团队集中管理模型规则并按成员追踪 AI 用量
+- 把自托管的 vLLM/Ollama 推理服务器接入统一网关
+- 通过手机 IM 远程下达任务给运行中的 Agent
 
 ## 场景标签
 
@@ -39,7 +40,6 @@ Go 编写的统一 AI 网关，通过单一端点将 Claude Code、OpenCode、Co
 
 > L15: Tingly Box **connects any agent to any model** — for you and your whole team, with built-in power-ups.
 > L20:  * Unified endpoint for AI — bridge any providers, with protocols translated both ways
-> L100:  Agent Integration - Claude Code / Claude Desktop / OpenCode / Codex / Xcode / VSCode / OpenClaw
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a00c0778ff3d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4dea001e8c46` · [字段定义](../../DATASET.md)*

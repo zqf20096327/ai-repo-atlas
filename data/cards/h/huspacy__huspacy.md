@@ -2,9 +2,9 @@
 
 ⭐ 195 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huspacy/huspacy) · [官网](https://huspacy.github.io) · 组织维护
 
-**面向匈牙利语的 spaCy 工业级 NLP 工具包与模型集**
+**面向开发者的匈牙利语工业级 spaCy NLP 流水线**
 
-基于 spaCy 构建的匈牙利语自然语言处理库，提供分词、断句、词形还原、词性标注（含形态句法特征）、依存句法分析与命名实体识别的完整流水线，并附带词/短语向量。提供 4 个预训练模型：CNN 版 hu_core_news_lg（默认）、基于 huBERT 的 hu_core_news_trf（建议 GPU）、高吞吐的 hu_core_news_md，以及基于 XLM-RoBERTa-large 的实验性 trf_xl。模型发布到 Hugging Face Hub，兼容 spaCy API，可 pip 安装后经 huspacy.download() 获取模型。由 SzegedAI 团队在匈牙利 AI 国家实验室 MILAB 计划下实现，Apache 2.0 许可。
+基于 spaCy 的匈牙利语处理工具：发布多个预训练流水线，组件覆盖分词、分句、词形还原、词性标注与形态特征、依存句法分析和命名实体识别，并通过 spaCy API 提供词/短语嵌入。提供 CPU 优化的 CNN 模型（md/lg）、基于 huBERT/XLM-R 的 transformer 模型（trf/trf_xl，建议 GPU）。模型发布至 Hugging Face Hub 与 PyPI，兼容 spaCy API，提供在线演示与 API 文档。由 SzegedAI 团队在 MILAB 项目下开发，Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 完整匈牙利语流水线：分词/断句/词形还原/词性/依存分析/NER
-- 4 个预训练模型（CNN、huBERT、XLM-RoBERTa-large 变体）覆盖 CPU/GPU 场景
-- 附带预训练词向量，兼容 spaCy API
-- 模型发布于 Hugging Face Hub，pip 可直接安装
+- 流水线组件：分词、分句、词形还原、标注、依存解析、NER
+- 提供 CPU 优化模型与 GPU 优化的 transformer 模型（huBERT/XLM-R）
+- 完全兼容 spaCy API，模型可经 huspacy.download 或 pip/uv 直接安装
+- 提供在线演示，模型发布于 Hugging Face Hub
 
 ## 适用场景
 
-- 对匈牙利语文本做命名实体识别与依存句法分析
-- 构建匈牙利语信息抽取或检索管线时获取词向量
-- 按吞吐或精度需求选择 CPU/GPU 模型处理大规模语料
+- 对匈牙利语文本做分词、词形还原与句法分析
+- 匈牙利语命名实体识别任务
+- 需要嵌入向量的匈牙利语文本处理管线
 
 ## 场景标签
 
- · 领域:自然语言处理
+ · 领域:自然语言处理/多语言模型
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `8573cff22729` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `58be871ec594` · [字段定义](../../DATASET.md)*

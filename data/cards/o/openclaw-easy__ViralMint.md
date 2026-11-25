@@ -1,16 +1,16 @@
 # openclaw-easy/ViralMint
 
-⭐ 214 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/openclaw-easy/ViralMint) · [官网](https://viralmint.net) · 组织维护 · 中文 README
+⭐ 214 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/openclaw-easy/ViralMint) · [官网](https://viralmint.net) · 个人维护 · 中文 README
 
-**本地优先的开源视频生产流水线：选题、剪辑、生成短视频**
+**开源本地视频流水线：选题、切片、生成带字幕短视频**
 
-面向内容创作者的自托管视频工具链：跨 YouTube/TikTok/抖音发现趋势、本地 Whisper 转录分析、时间线剪辑长视频为短视频、由脚本生成配字幕的素材成片、制作动效图形，内置 22 种编辑工具（多为 FFmpeg+Whisper 本地运行）。AI 部分采用 BYOK 模式，支持 Anthropic/OpenAI/OpenRouter 及任意 OpenAI 兼容服务器（Ollama、LM Studio、vLLM），密钥本地 Fernet 加密存储；提供 MCP 服务器（69 个工具）供 Claude Code、Cursor 等客户端调用，并支持 Telegram/WhatsApp/Discord/Slack 远程对话。AGPL-3.0 许可，无遥测。
+面向内容创作者的本地视频流水线应用：跨 YouTube/TikTok/抖音做趋势发现，用本地 Whisper 转录，在时间线上把长视频剪成短片，按场景把脚本转成带字幕视频，或生成动态图形，内置 22 个基于 FFmpeg/Whisper 的本地工具。AI 能力通过 BYOK 接入（Anthropic/OpenAI/OpenRouter 或任意 OpenAI 兼容服务器），密钥 Fernet 加密存储；无 API key 时下载、转录、配音、字幕等功能可离线运行。经 git clone 运行或 Releases 预编译安装，并可经 MCP 暴露 69 个工具供外部 agent 驱动。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 本地优先：SQLite、本地 Whisper、本地 FFmpeg，数据不离开本机
-- BYOK：密钥 Fernet 加密（AES-128-CBC+HMAC），直连 provider，无中间服务器
-- 内置 MCP 服务器暴露 69 个工具，可被 Claude Code/Codex/Cursor 等驱动
-- 22 个内置编辑工具多数纯 FFmpeg+Whisper 本地运行，无需 API key
+- 五个专用 agent（Planner/Scout/Download/Analyzer/Generator）由流式聊天编排
+- MCP server 暴露 69 个工具，可接入 Claude Code、Cursor 等 6 种客户端
+- 无 API key 路径：yt-dlp 下载 1800+ 站点、faster-whisper 转录、Edge TTS 配音
+- 支持 Telegram/WhatsApp/Discord/Slack 双向对话与任务提醒
 
 ## 适用场景
 
-- 把长视频剪成可发布的短视频，由 AI 提议高光片段
-- 从脚本一键生成带字幕、配音、配乐的成品 MP4
-- 跨平台挖掘热门趋势视频并做 AI 分析
-- 通过 Claude Code 或手机聊天软件远程指挥整个视频流水线
+- 把长视频剪成可发布的字幕短片
+- 从选题、脚本到成品短视频一条流水线完成
+- 在手机上通过聊天软件远程指挥视频生成任务
+- 让外部 AI agent 以自然语言运行整个视频流水线
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L30: > Find trending videos across YouTube, TikTok and Douyin, transcribe and analyze them with local Whisper, cut long 
+> L5: ### The open-source, local-first video pipeline for creators
 > L38: |🤖 **Agents, not a chat wrapper**|Purpose-built agents — Planner, Scout, Download, Analyzer and Generator — orchest
-> L152: |AI chat, scripting, analysis|**Anthropic** · **OpenAI** · **OpenRouter** · any **OpenAI-compatible** server|conso
+> L40: |🧩 **Drive it from your AI agent**|A built-in **MCP server** exposes 69 tools — scout, download, clip, generate, th
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9c2761868492` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `66e66b7bb8de` · [字段定义](../../DATASET.md)*

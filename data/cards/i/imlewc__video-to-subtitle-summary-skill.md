@@ -2,9 +2,9 @@
 
 ⭐ 265 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/imlewc/video-to-subtitle-summary-skill) · [官网](https://top9.cc) · 个人维护 · 中文 README
 
-**视频转字幕并生成 AI 摘要的 Codex/Claude Code Skill**
+**给 Codex/Claude Code Agent 用的视频转字幕+AI 摘要 Skill**
 
-面向 Codex / Claude Code 的本地 Skill：输入抖音、小红书、B 站、YouTube 链接或本地视频/音频路径，自动下载（或直抓 YouTube 字幕）、提取音频、生成字幕并输出 AI 摘要。字幕后端可通过环境变量切换：默认本地 faster-whisper（无 API 费用，检测到 NVIDIA/CUDA 自动走 GPU），可选火山引擎 VC。视频解析默认用 AI Douyin 代理（解析扣积分），可换自有 TikHub Token。依赖 FFmpeg、yt-dlp，Python 3.9+；另提供在线免部署版本与私有化部署联系方式。
+以 Skill 形式安装在 Codex/Claude Code 等本地 Agent 环境中的视频字幕与摘要工具：输入抖音、小红书、B 站、YouTube 链接或本地视频/音频路径，经下载/抓字幕、音频提取、字幕后端转写后生成字幕文件与 AI 中文摘要。默认后端为本地 faster-whisper，可通过环境变量切换火山引擎 VC；YouTube 优先用 yt-dlp 直抓人工/自动字幕。支持私有化部署。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 默认 faster-whisper 本地转写，无 API 费用，支持 CUDA 自动切换
-- YouTube 链接优先用 yt-dlp 直抓字幕，无需 ASR
-- 支持抖音/小红书/B 站/YouTube 在线视频与本地音视频文件
-- 支持火山引擎 VC、TikHub 等可选后端切换
+- 默认 faster-whisper 本地转写，无 API 转写费用，检测到 NVIDIA/CUDA 自动切 GPU
+- YouTube 经 yt-dlp 优先直抓字幕，无字幕时回退 ASR 转写
+- 抖音/小红书/B 站经 AI Douyin 或 TikHub 解析下载直链
+- 提供 AI Douyin 历史任务查询脚本与私有化部署支持
 
 ## 适用场景
 
-- 在 Claude Code 里发链接直接获取短视频字幕和摘要
-- 把本地录屏/音频文件转成带摘要的文字记录
-- 批量抓取并总结 B 站/YouTube 视频内容
+- 把短视频链接发给 Claude Code，拿到字幕文件和中文摘要
+- 批量整理本地录制的音视频为文字稿并提炼要点
+- 内网环境下私有化部署做视频字幕转写
 
 ## 场景标签
 
-`语音识别` `AI 写作` · 领域:内容生成
+`语音识别` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L3: 一个 Codex / Claude Code Skill，自动将短视频平台（抖音、小红书、B 站、YouTube 等）视频或本地视频/音频文件转换为字幕文本并生成 AI 摘要。
-> L6: - **在线视频：** 提供视频链接 → 自动下载视频或直接抓字幕 → 生成字幕 → AI 总结
 > L9: 默认字幕后端是本地 `faster-whisper`，也支持通过环境变量切换到火山引擎 VC。
+> L24: 当前版本支持两种字幕转写后端：
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `fe2c9e9cd2a1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `cff2f1903070` · [字段定义](../../DATASET.md)*

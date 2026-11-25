@@ -1,10 +1,10 @@
 # liuyanghejerry/Clausura
 
-⭐ 205 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/liuyanghejerry/Clausura) · 个人维护
+⭐ 205 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/liuyanghejerry/Clausura) · 个人维护 · 中文 README
 
-**面向 CI/CD 流水线的 agent CLI 工具：LLM 找问题、规则引擎定门禁**
+**CI 流水线中的 LLM agent 门禁 CLI：结构化发现+确定性判定**
 
-平台无关的 agent CLI，在 CI/CD 中运行有界的 LLM agent 任务审查代码库：LLM 提取结构化发现，确定性门禁规则（按严重度/数量阈值）判定，输出 0/1/2/3 退出码与 SARIF v2.1.0。设 max_iterations、timeout、token 预算等运行边界，未完成默认 fail-closed。支持 OpenAI 兼容/Anthropic/自定义三类 Provider 简写，可复用 Markdown 社区技能作为审查提示词，可选 TypeSafe 决策模型核验发现真伪。以单个静态二进制分发给 CI 流水线使用者。
+面向 CI/CD 流水线的 Rust 编写的 agent CLI：对代码库运行有界的 LLM agent 任务，抽取结构化 findings，再由确定性规则引擎评估并输出退出码 0/1/2/3 与 SARIF v2.1.0。运行边界由 max_iterations、timeout_secs、token_budget 等参数控制，未完成运行默认 fail-closed；提供技能文件复用（渐进式披露加载）、append-only 事件日志与 findings 台账用于审计。提供 1.0 静态二进制，无运行时依赖，自动检测 GitHub Actions/GitLab CI/Jenkins 等环境。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- LLM 发现 + 确定性规则门禁，输出退出码 0/1/2/3 与 SARIF v2.1.0
-- 运行边界（max_iterations/timeout/token 预算）与默认 fail-closed
-- 三类 Provider 简写：OpenAI 兼容（openai/deepseek/groq/ollama）、Anthropic、自定义
-- 复用 Markdown 社区技能作为审查提示词，目录渐进披露节省 token
+- LLM 找问题、规则引擎判定、退出码+SARIF 输出的闭环设计
+- 运行边界控制（max_iterations/timeout_secs/token_budget）与 fail-closed 策略
+- 支持 OpenAI 兼容、Anthropic 兼容及自定义三类 LLM 接入
+- 复用社区 Markdown 技能文件作为审查提示词，按需加载节省 token
 
 ## 适用场景
 
-- 合并前在 PR 上做代码审查门禁，拦截违规
-- 跨仓库执行一致性/架构合规检查
-- 按阈值智能门禁：仅当发现超过配置数量时让流水线失败
-- 扫描源文件做 i18n 抽取与翻译覆盖校验
+- 在 PR 合并前对违规项做流水线门禁
+- 跨仓库强制执行编码约定检查
+- 仅当发现数量超过阈值时使流水线失败
+- 校验代码结构是否符合项目架构约定
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+`代码审查` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L11: Clausura is a platform-agnostic agent CLI tool built for CI/CD pipelines. It runs bounded LLM agent tasks against y
-> L17: General-purpose agent harnesses (DeepSeek Harness, Claude Code, Codex and similar) optimize for open-ended interact
-> L31: If you are building an interactive coding agent, use a generic harness. If you need a *deterministic gate in CI* — 
+> L13: **Key philosophy: closed-loop execution with deterministic gating.** The LLM finds issues. The rule engine decides 
+> L316: Clausura auto-detects your CI environment using well-known environment variables. It gathers repo, PR number, comm
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1e9a30ceeb47` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f54f957a6333` · [字段定义](../../DATASET.md)*

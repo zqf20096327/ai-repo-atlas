@@ -2,9 +2,9 @@
 
 ⭐ 229 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/abbosaliboev/free-ai-bible) · [官网](https://github.com/abbosaliboev/free-ai-bible) · 个人维护 · 中文 README
 
-**免费 AI API 与工具策展清单：700+ 资源按类别整理**
+**面向开发者的免费 AI API 与本地 AI 工具目录（72 条资源）**
 
-面向开发者的免费 AI 资源聚合清单（awesome list）：收录 700+ 条经作者测试验证的免费资源，以表格形式按免费 LLM API（Groq/Google AI Studio/Mistral 等）、图像视频生成、模型托管平台、本地 AI 工具、向量数据库、语音转写等类别组织，标注免费额度与限制；另提供快速上手示例（云端 LLM、本地 Ollama 栈、本地图像生成）、/scripts 一键脚本与 /templates 应用模板，社区通过 PR 贡献并要求核实资源真实免费。
+以清单形式聚合免费 LLM API、图像生成、本地模型运行、编程助手、嵌入/RAG、语音、Agent 框架与模型托管等类别的 72 条资源，标注各家免费额度与许可信息；提供可搜索、可过滤、可收藏并支持 CSV/JSON 导出的交互式目录，以及 Groq 聊天机器人、本地 RAG、本地运行 Ollama 等可运行示例模板。声明无联盟链接与付费推广，免费额度随模型、账户与地区变化，需自行核对当前方案。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 700+ 免费资源按 6+ 类别表格化组织，标注免费额度与限制
-- 提供云端/本地/图像生成三条 5 分钟内可跑通的快速上手路径
-- 附 /scripts 一键安装脚本与 /templates 应用模板
-- 社区 PR 贡献机制，要求提交前核实资源真实免费
+- 按 9 个类别组织 72 条资源，标注免费额度与许可
+- 可搜索、过滤、收藏的交互式目录，支持 CSV/JSON 下载
+- 提供 Groq 聊天、本地 RAG、图像 API、语音助手等启动模板
+- 含阿拉伯语指南与多语言版本
 
 ## 适用场景
 
-- 我要找不用信用卡的免费 LLM API 来开发应用
-- 我要零预算搭建本地 LLM/图像生成/转写工具栈
-- 我要对比各托管平台免费层能部署什么
+- 为副项目寻找不用信用卡的免费 LLM API
+- 挑选本地运行模型的工具组合
+- 对比向量数据库与 RAG 组件的自托管方案
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L10: # 🧠 Free AI Bible 2026 — Free AI APIs & Tools for Developers
-> L18: **700+ free AI tools, APIs, and services — curated, tested, and organized.**
-> L29: This repository proves that a skilled developer can build production-grade AI applications — LLMs, image generation
+> L10: # 🧠 Free AI Bible 2026
+> L63: ### 🔥 Free LLM APIs
+> L59: **☁️ Free tier** = hosted service with usage limits. **🖥️ Local** = run it yourself using your own hardware. Full l
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `0c085b265157` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `0a9389246765` · [字段定义](../../DATASET.md)*

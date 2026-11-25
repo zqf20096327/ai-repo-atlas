@@ -2,9 +2,9 @@
 
 ⭐ 219 · Python · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/pwc-cli) · 组织维护
 
-**面向人类与 coding agent 的 Papers with Code 论文目录 CLI/Skill/MCP 服务**
+**给开发者与 agent 提供 Papers with Code 论文目录的 CLI/MCP 访问**
 
-由 Hugging Face 维护的命令行客户端，读取并编辑 Papers with Code 论文目录：支持论文检索、元数据与 Markdown 阅读、相关/后续/前驱论文追溯，以及任务、方法、会议、组织、框架、基准与排行榜浏览，可用 --json 输出机器可读结果。附带面向 Codex、Cursor 等 coding agent 的 Skill 安装命令，以及匿名只读的 MCP 服务器（Streamable HTTP，每条研究命令对应一个工具）。公开读取无需账号或 API token；论文编辑为需认证的受限工作流（单篇授权、批次与速率限制）。提供预编译二进制与源码安装两种途径。
+huggingface/pwc-cli 提供三件形态：交互/脚本化的 pwc CLI、供 coding agent 加载的 Skill、以及只读 MCP 服务器（含托管实例）。命令覆盖论文搜索、元数据与 Markdown 读取、趋势与相关工作发现、lineage 追溯、任务/方法/会议/机构/框架/基准浏览及排行榜筛选；编辑论文需登录且限单篇授权一小时。公共读取匿名无 token，输出支持 JSON/TSV/Markdown 并有稳定退出码，可通过 PWC_API_URL 指向兼容 v1 API。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 论文/任务/方法/基准等目录的检索、浏览与 --json 机器可读输出
-- pwc skills add 为 Codex、Cursor 等 coding agent 安装版本匹配的 Skill
-- 匿名只读 MCP 服务器，每个 pwc 研究命令对应一个工具
-- 受限认证的论文编辑工作流（导出/操作批次/幂等重试）
+- CLI、Agent Skill 与 MCP 服务器三形态共用同一命令集
+- 公共读取匿名免 token，托管 MCP 实例无需 API key
+- 支持语义搜索、官方实现过滤、lineage 与 SOTA 基准查询
+- JSON 输出含 schema_version，退出码与批处理脚本友好
 
 ## 适用场景
 
-- 在终端检索论文、查看基准与 SOTA 结果
-- 让 coding agent 通过 Skill 或 MCP 查询论文目录辅助科研编码
-- 以 JSON 输出接入脚本与自动化流程
+- 在终端里搜索并阅读 Papers with Code 目录中的论文与基准
+- 让 coding agent 通过 Skill/MCP 检索相关论文与 SOTA 方法
+- 批量脚本化导出论文元数据与评测表
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`科研工具` `模型评测` `语义搜索` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
+> L1: # pwc CLI, Skill, and MCP server
 > L3: A fast command-line client for exploring and editing the
-> L9: The `mcp_server` package exposes an anonymous, read-only,
-> L26: - search papers
+> L51: - search papers
+> L290: Public catalog commands are anonymous and read-only. Paper editing is an
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5ffd39900bd1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `64087d4af6d8` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 336 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iuliandita/digarr) · [官网](https://github.com/iuliandita/digarr#readme) · 个人维护
 
-**自托管音乐发现工具：从收听历史生成推荐并送往 Lidarr 等服务**
+**自托管音乐发现工具：从听歌记录找艺人专辑并推送**
 
-Digarr 是面向个人音乐库的自托管发现应用：连接 ListenBrainz、Last.fm、Spotify、Plex、Jellyfin 等收听/媒体服务，扫描后生成带评分的艺术家与专辑建议，可试听、批准或拒绝，再发送到 Lidarr、slskd 或播放列表。AI 推荐支持 Anthropic/OpenAI/Gemini/Ollama 及 OpenAI 兼容端点，也可跳过 AI 仅用收听来源。不含下载器与完整播放器。以 Docker 单容器（内嵌 PGlite）、Compose、Helm 或 k8s 清单部署，支持多用户、OIDC/SSO 与 15 种语言。
+自托管的音乐发现 Web 应用：连接 ListenBrainz/Last.fm/Spotify/Plex 等收听来源，扫描后生成带评分的艺人/专辑推荐，用户预览、批准或拒绝后可发送至 Lidarr、slskd 或导出为 Spotify/媒体服务器播放列表。AI 部分由用户自选提供商或本地模型驱动推荐（Anthropic/OpenAI/Gemini/Ollama/OpenAI 兼容端点）。不含下载器与完整播放器，Lidarr 为可选；支持多用户隔离、OIDC/SSO、15 种语言，凭据加密依赖 DIGARR_ENCRYPTION_KEY。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Digarr 是面向个人音乐库的自托管发现应用：连接 ListenBrainz、
 
 ## 能力要点
 
-- 连接 ListenBrainz/Last.fm/Spotify/Plex/Jellyfin/Emby 等多种收听与媒体服务
-- 建议经预览/批准/拒绝流程后发送 Lidarr、slskd 或播放列表
-- AI 推荐支持 Anthropic/OpenAI/Gemini/Ollama 与 OpenAI 兼容端点，也可跳过
-- 单容器部署内嵌 PGlite，另提供 Compose、Helm 与 k8s 清单
+- 从收听历史或心情生成评分推荐，支持 Release Radar 与专辑补缺等模式
+- AI 提供商可自选：Anthropic、OpenAI、Gemini、Ollama 或 OpenAI 兼容端点
+- 单容器运行，内嵌 PGlite 数据库；另提供 Docker Compose/Helm/k8s 部署
+- 多用户隔离与审批策略，支持 OIDC/SSO 与 15 种语言
 
 ## 适用场景
 
-- 为自托管音乐库发现新艺术家和缺失专辑
-- 把批准的推荐自动推送到 Lidarr 或 slskd
-- 从收听历史或心情生成并导出播放列表
+- 根据听歌记录发现新发行和缺失专辑并加入 Lidarr
+- 不用 Lidarr，仅生成并同步 Spotify/媒体服务器播放列表
+- 团队共享一个实例，各成员有独立队列与连接
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Digarr 是面向个人音乐库的自托管发现应用：连接 ListenBrainz、
 
 ## 证据(README 行号)
 
-> L13: **Self-hosted music discovery for your library.** Digarr finds artists and albums from your listening history or a 
-> L82: 1. Sign in, then choose Lidarr, Emby, or discovery-only in the setup wizard and configure your AI provider, or skip
+> L11: **Self-hosted music discovery for your library.** Digarr finds artists and albums from your listening history or a 
+> L42: |AI recommendations|Anthropic, OpenAI, Gemini, Ollama, OpenAI-compatible endpoints|
+> L59: You need Docker and access to an AI provider or local model. Digarr includes an embedded PostgreSQL database (PGlit
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2c17bc287d3e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b382e3470c30` · [字段定义](../../DATASET.md)*

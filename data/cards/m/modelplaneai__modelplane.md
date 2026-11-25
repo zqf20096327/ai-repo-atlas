@@ -2,9 +2,9 @@
 
 ⭐ 244 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/modelplaneai/modelplane) · [官网](https://modelplane.ai) · 组织维护
 
-**面向平台团队与开发者的 AI 推理基础设施编排控制平面**
+**Kubernetes 上的 AI 推理控制平面：编排模型部署与服务**
 
-基于 Crossplane 构建的自托管控制平面软件，运行在用户自己的环境中，跨云、neocloud 与本地设施编排模型、服务栈与底层基础设施。平台团队声明 InferenceCluster/InferenceClass 与网关，开发者声明 ModelDeployment/ModelService 即获得统一的 OpenAI 兼容端点；系统持续调和集群供给、副本调度、扩缩容、权重缓存与流量路由。对服务引擎不设限，可运行任意容器化引擎。当前为 v0.1 早期版本，API 与行为可能随版本变化。
+基于 Crossplane 构建的推理编排系统，安装运行在用户自己的环境中，跨云、neocloud 与本地基础设施编排模型、推理服务栈与底层设施。平台团队声明 InferenceCluster/InferenceClass，开发者声明 ModelDeployment/ModelService，系统持续向声明状态调和：供给集群、按硬件调度副本、伸缩、缓存权重并路由流量。对外提供统一的 OpenAI 兼容端点，引擎不限定（任意容器化推理引擎）。当前处于 pre-1.0 早期阶段，API 可能变化。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 跨云/neocloud/本地编排推理集群，从单 GPU 到多节点解耦部署
-- 开发者声明模型即获得 OpenAI 兼容统一端点，含加权灰度与 A/B 发布
-- 持续调和五种关注点：供给、调度、扩缩、路由、权重缓存
-- 引擎无关：一套 API 支持任意容器化引擎与拓扑
+- 基于 Crossplane 的持续调和式控制平面
+- 对开发者提供统一 OpenAI 兼容端点
+- 不限定引擎，支持任意容器化推理引擎与单 GPU 到多节点拓扑
+- 覆盖供给、调度、伸缩、路由（加权金丝雀/A/B）与权重缓存五类机制
 
 ## 适用场景
 
-- 平台团队统一管理 GPU 资源池并发布硬件类别
-- 开发者用声明式清单部署模型并获取统一推理端点
-- 多集群环境下调度与扩缩推理工作负载
+- 平台团队统一管理多个推理集群并发布硬件类别
+- 开发者以声明式清单部署模型并获得统一端点
+- 对多副本模型服务做金丝雀与 A/B 发布
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L7: Modelplane is software you install and run in your own environment to orchestrate
-> L60: Modelplane runs as a control plane on its own cluster, above the inference
+> L11: [Crossplane], it is an active system that continuously reconciles your fleet
+> L17: declare a model and get back a unified, OpenAI-compatible endpoint. Neither team
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `97b3e465eee1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `dbf3198ac3b0` · [字段定义](../../DATASET.md)*

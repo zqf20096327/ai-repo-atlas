@@ -2,9 +2,9 @@
 
 ⭐ 264 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ZipengWu365/TOMC) · [官网](https://github.com/ZipengWu365/TOMC) · 个人维护 · 中文 README
 
-**面向 AI 编程助手的 CPU 上下文压缩与任务记忆工具**
+**给 Codex/Claude Code 等 MCP 客户端提供上下文压缩与任务记忆**
 
-基于任务导向记忆编译（TOMC）的开源工具，通过 MCP 服务器与 Python API 两种形式提供：给定历史、下一任务与内存预算，选取源文本并生成状态/关系/计数记录，替代完整历史发送给助手；另支持 remember_memory/recall_memory 显式保存与召回任务笔记。准备过程在 CPU 运行，无需训练或额外模型服务。支持 Codex、Claude Code、Cursor、TRAE、WorkBuddy、Claude Desktop 等客户端集成。当前为 0.1.0 研究预览版，无 PyPI 包，宿主管理会话时不主动重压缩。
+以 MCP 服务器与 Python API 形式提供的任务型记忆编译工具：对用户交给它的历史记录按预算压缩，保留变更事实的最新值及其来源行，改写后的值标注 STATE? 供人工核对；用户可用 remember_memory/forget_memory 在本地 SQLite 中保存与删除笔记。提供 Claude Code 插件、Codex 安装器、通用 MCP 客户端源码安装三条路径，并有离线自测与桌面伴侣（beta，Windows/macOS）。限制：不缩小客户端正在进行的对话，短历史收益小，基于词匹配而非语义匹配，部分客户端未经真机验证。
 
 ## 筛选速览
 
@@ -14,22 +14,22 @@
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | `cpu-ok` | |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 硬件要求 | — | 无带数字的原话,不猜 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 上下文压缩在 CPU 运行，无需训练或额外模型服务
-- 显式 remember_memory / recall_memory 任务笔记保存与召回
-- 跨助手复用同一本地 TOMC 数据库中的任务笔记
-- 提供 MCP 服务器与 Python API 两种接入形式
+- 任务型记忆编译：变更事实只保留最新值并附来源行
+- MCP 服务器接入 Codex、Claude Code、Cursor、TRAE、WorkBuddy 等客户端
+- 本地 SQLite 存储笔记，提供 erase-all 等删除命令
+- 离线自测可通过 make reproduce 复现
 
 ## 适用场景
 
-- 压缩长会话历史以减小发送给 AI 助手的请求
-- 在新会话或其他助手中召回已保存的任务决策与待办
-- 跨 Codex 与 Claude Code 交接任务时携带笔记
+- 跨会话保留项目决策的最新状态，避免向新对话重复交代背景
+- 压缩长项目历史以减少请求输入量
+- 在不同助手之间迁移并保留已有笔记
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L22: **TOMC Memory** is an open-source tool built on Task-Oriented Memory Compilation (TOMC). It compresses and compiles
-> L107: |Client|Start here|Prerequisites|
+> L1: TOMC Memory
+> L21: 1. **It does not shrink the chat your assistant is already having.** Claude Code and Codex manage their own chat. T
+> L52: ### Any MCP client (Cursor, Claude Desktop, WorkBuddy, TRAE …)
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `1f2796aa5484` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9845b8c3914b` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 224 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/jatingargiitk/saas-builder) · [官网](https://gocodeo.com) · 个人维护
 
-**AI 生成全栈 SaaS 应用的代码生成框架**
+**AI agent 框架：从想法生成全栈 SaaS 应用**
 
-面向开发者的 CLI 框架，通过交互式向导（项目名、模板、技术栈、AI 模型选择）用自主 AI agent 将高层想法脚手架为全栈 SaaS 应用：生成 React + TypeScript 前端、Flask 后端、SQLite 数据库，并自动完成认证、schema 与迁移、依赖安装和开发服务器启动。支持选择 Claude 3.7 Sonnet、GPT-4.1 或 Gemini 2.5 Pro，仅需对应的一个 API key。以 PyPI 包与源码两种方式安装。
+SaaS-Builder 是一个以 CLI 形式发布的 AI 原生框架，通过自主 AI agent 将高层想法生成为可运行的全栈 SaaS 应用：自动搭建 React + TypeScript 前端、Flask 后端与 SQLite 数据库，包含认证与路由保护、数据模型与迁移、实时功能配置，并自动安装 npm/pip 依赖、启动开发服务器供即时预览。交互式 init 流程引导选择项目模板（电商/SaaS 营销/CRM）、技术栈与 AI 模型，所选模型只需一个 API key，写入 .env 即可运行。MIT 许可。
 
 ## 筛选速览
 
@@ -13,27 +13,27 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 交互式向导生成 React + Flask + SQLite 全栈应用
-- 自动完成认证、数据库 schema 与迁移、依赖安装、开发服务器启动
-- 可选 Claude / GPT-4.1 / Gemini 三种模型，单一 API key 即可运行
-- 内置 E-commerce / SaaS Marketing / CRM 等项目模板
+- 交互式 init 流程生成 React+Flask+SQLite 全栈应用
+- 内置认证、数据库 schema 与迁移的自动生成
+- 自动安装依赖并启动前后端开发服务器
+- 支持 4 种项目模板与 2 种技术栈组合
 
 ## 适用场景
 
-- 我想从一句产品想法快速得到可运行的全栈 SaaS 骨架
-- 需要自带认证和数据库的应用起点来继续开发业务逻辑
-- 选择不同 LLM 供应商来驱动代码生成流程
+- 从想法快速生成带认证和数据库的 SaaS 原型
+- 用电商/CRM 模板初始化全栈项目脚手架
+- 自动完成依赖安装与开发环境配置
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+`代码生成` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1aa28a308b03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b950fbb0fd94` · [字段定义](../../DATASET.md)*

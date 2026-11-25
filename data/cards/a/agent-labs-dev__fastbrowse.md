@@ -2,9 +2,9 @@
 
 ⭐ 234 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/agent-labs-dev/fastbrowse) · 组织维护
 
-**浏览器 Agent：选择模型 Jev 逐步操作页面，LLM 规划并输出带引文引用的回答**
+**给 Agent 配浏览器的命令行工具：操作页面并给出带引文的答案**
 
-fastbrowse 是一个本地或云端浏览器中运行任务的 CLI 工具：它把页面索引为候选控件，由选择模型 Jev 逐个挑选动作（不生成页面上不存在的选择器），LLM 负责阅读与规划；最终返回引用页面原文的回答或 schema 校验的数据。凭据、授权与支出由代码控制：`--secret` 作用域密钥、`--authorize` 提交门、`--max-dollars` 预算上限。默认使用 Browser Use Cloud 浏览器，也可 `--local` 用本地 Chrome 或通过 CDP 接管已有浏览器/Electron 窗口。需 uv，Python 3.13+，经 PyPI 分发。
+浏览器自动化 Agent：将页面索引为其真实存在的控件，由选择模型 Jev 从中挑选动作并规划，LLM 负责起始地址提议与答案撰写；答案中每条声明附带页面原文引文和定位链接，传入 schema 可返回校验后的数据。提交、支付、删除等不可逆操作由代码门控，密钥仅以名称暴露给模型，支持步数/时间/金额上限。核心用 Rust 实现，提供 CLI、Python 库、Node/Go SDK、MCP server 与编码 agent 技能。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ fastbrowse 是一个本地或云端浏览器中运行任务的 CLI 工具：它�
 
 ## 能力要点
 
-- 选择模型 Jev 从页面已索引控件中挑选动作，不生成虚构选择器
-- 回答中的事实声明引用页面原文，支持 schema 校验数据输出
-- --secret/--bitwarden 作用域凭据与 --authorize 提交授权门、--max-dollars 支出上限
-- 支持本地 Chrome、Browser Use Cloud、CDP 接管已开浏览器与 Electron 应用
+- 页面控件索引 + Jev 选择模型，只点击页面实际存在的控件
+- 答案逐条声明附页面逐字引文与定位链接
+- 代码级门控：不可逆操作需 --authorize，密钥按来源绑定
+- CLI、Python 库、Node/Go SDK、MCP server、编码 agent 技能多种接口
 
 ## 适用场景
 
-- 用自然语言让 Agent 在网页上完成登录、下单、填表等任务
-- 从网页提取有原文出处引用的事实性回答
-- 在已登录的浏览器配置文件或 Bitwarden 密码库下代操作站点
+- 让 agent 在我已登录的 Chrome 里完成下单、填表等网页任务
+- 对整列页面批量提取数据并保留每条出处
+- 需要每个结论都能回溯到页面原文的可核查回答
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ fastbrowse 是一个本地或云端浏览器中运行任务的 CLI 工具：它�
 
 ## 证据(README 行号)
 
-> L5: Run browser tasks locally or in a cloud browser. Jev chooses from indexed page controls; fastbrowse returns
-> L15: fastbrowse indexes the page into candidates and has Jev, a choice model, **pick one**, so it cannot click
-> L41: - **LLM agents that generate actions** (the hosted Browser Use agent and similar): Jev picks each action from the c
+> L5: A browser agent that picks from the controls a page actually has, cites the page for every claim, and keeps
+> L30: - **One agent, every interface.** A CLI, a Python library, Node and Go SDKs that need no Python, an MCP
+> L56: export OPENROUTER_API_KEY=...   # Jev, the model that picks each action, and the LLM for start pages, written field
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `0ba07023bfe3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9658e1e225f1` · [字段定义](../../DATASET.md)*

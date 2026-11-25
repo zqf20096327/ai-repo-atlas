@@ -2,9 +2,9 @@
 
 ⭐ 223 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes) · 个人维护
 
-**ComfyUI 自定义节点集：图像/遮罩统一缩放、可视裁剪、LoRA 堆叠与 H3 补丁**
+**面向 ComfyUI 的图像/遮罩处理与 MiniMax H3 视频工作流节点包**
 
-面向 ComfyUI 用户的自定义节点集合，包含四组功能：图像与遮罩的统一缩放节点（多种缩放模式、保持宽高比、整除约束、张量级遮罩变换）；可视化拖拽裁剪节点（宽高比锁定、归一化坐标）；面向 LTX-2.3 的 10 槽 LoRA 堆叠加载器（音视频分支独立强度、兼容 MiniMax-H3 与通用模型）；以及 MiniMax-H3 的块稀疏注意力节点和 AdaLN LoRA 兼容性修复节点。通过 git clone 或 ComfyUI Manager 安装，除标准 ComfyUI 环境外无必需依赖，H3 SLA Attention 需 Triton 与支持的 GPU（缺失时自动回退）。
+为 ComfyUI 提供一组自定义节点：统一的图像/遮罩缩放管线（多种缩放模式、宽高比预设、中心裁剪、整除约束）、可视化 BBox 裁剪、10 槽 LoRA 堆叠加载器（含 LTX/MiniMax 分支拆分模式）、RefMod 加载器、多文件媒体加载器与 Bundle 传递节点，以及面向 MiniMax H3 的参考图/视频到视频提示编码器和块稀疏注意力（SLA）补丁。除标准 ComfyUI 安装外无外部依赖，可选组件缺失时降级为警告而非阻断启动。
 
 ## 筛选速览
 
@@ -15,32 +15,31 @@
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 图像与遮罩走同一几何管线的统一缩放节点，支持整除约束适配 LTX-2.3/SDXL
-- 可视化拖拽裁剪节点，宽高比锁定与归一化坐标
-- 10 槽 LoRA 堆叠加载器，音/视频分支独立强度控制（LTX-2.3、MiniMax-H3、通用模型）
-- MiniMax-H3 块稀疏注意力与 AdaLN LoRA 兼容性修复，实测报告 1.4–1.75x 提速
+- 图像与遮罩走同一几何变换管线，提供 5 种缩放模式与整除约束
+- 节点上直接拖拽的可视化裁剪框，支持比例锁定与归一化坐标
+- LoRA 堆叠加载器按 video/audio/text 模态拆分强度，最多 10 槽
+- MiniMax H3 块稀疏注意力补丁，sparsity_ratio 与 block_size 可调
 
 ## 适用场景
 
-- 修复 ComfyUI 工作流中图像与遮罩缩放不一致导致的 inpainting 对齐问题
-- 在节点上直接拖拽选择裁剪区域并复用
-- 为 LTX-2.3 音视频扩散管线做多 LoRA 分支强度控制
-- 让稠密 MiniMax-H3 LoRA 在剪枝检查点上生效并获得干净日志
+- 为 LTX-2.3 / SDXL / MiniMax H3 视频生成工作流准备尺寸一致的图像与遮罩
+- 在节点图上直接框选裁剪区域并接续缩放管线
+- 同时管理多张参考图、参考视频与音频输入的 H3 参考到视频编码
+- 对 H3 推理做稀疏注意力加速并控制最后若干步为稠密计算
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+`图像生成` `视频生成` `图像视频处理` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L3: ComfyUI custom nodes providing unified image and mask resizing with multiple scaling modes, aspect-ratio preservatio
-> L7: A single ComfyUI node that ensures consistent resizing behavior between images and masks using a unified geometric p
-> L170: git clone https://github.com/PlagueKind/ComfyUI-PlagueKind-Nodes.git
+> L3: ComfyUI custom nodes for MiniMax H3 (and general) video workflows: unified image/mask resizing and visual crop tools
+> L5: The pack loads with no external dependencies beyond a standard ComfyUI install; every optional part degrades with a 
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `43a8b20a59da` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `18570bb0f38a` · [字段定义](../../DATASET.md)*

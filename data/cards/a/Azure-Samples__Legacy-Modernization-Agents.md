@@ -2,9 +2,9 @@
 
 ⭐ 234 · C# · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Azure-Samples/Legacy-Modernization-Agents) · 组织维护
 
-**AI agent 框架：将 COBOL 大机代码自动迁移到 Java Quarkus 或 C#**
+**用 AI Agent 把 COBOL 主机代码迁移到 Java/C# 的开源框架**
 
-基于 Microsoft Agent Framework 的开源迁移框架，面向遗留大机代码现代化。多 provider 架构支持 Azure OpenAI、GitHub Copilot SDK 与直接 OpenAI，由分析、转换、依赖映射等 agent 协作，把 COBOL 及其依赖转换为 Java Quarkus 或 C# .NET。本地用 REKT 解析 COBOL 与 JCL 构建 Neo4j 依赖图，提供 Web 门户可视化迁移进度与切片规划。限制：需 .NET 10 SDK 与 Docker（Neo4j），Java 输出尚无编译门禁，源码会包含在发送给模型的提示中。
+基于 Microsoft Agent Framework 的迁移框架，面向需要改造遗留主机系统的团队：先用无模型调用的 REKT 解析器解析 COBOL/CICS/JCL 并将结构载入 Neo4j，再由多个可编辑 persona 的 Agent（分析、业务逻辑逆向、Java/C# 转换、依赖映射）完成逆向工程与代码转换，支持 Quarkus 或 Spring 目标框架，产出迁移报告与编译状态。通过 doctor.sh 脚本编排流程，附带 Web 门户展示资产全景、AST 与转换过程。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 多 provider 架构：Azure OpenAI、GitHub Copilot SDK、直接 OpenAI，含模型能力自动检测
-- REKT 本地解析 COBOL/JCL 入 Neo4j 依赖图，不调用模型
-- Estate Mission Control 门户：资产概览、切片规划与转换命令生成
-- JCL 迁移不调用模型，生成后可用 dotnet build / mvn compile 编译
+- 多 Provider 架构：Azure OpenAI、GitHub Copilot SDK、直连 OpenAI
+- REKT 解析 + Neo4j 图谱步骤无模型调用，无需 AI 登录
+- Agent prompt 为 Markdown 文件可编辑，另提供 Prompt Studio 生成与评分
+- 支持按程序、调用闭包或 JCL 任务粒度选择性转换
 
 ## 适用场景
 
-- 把 COBOL 程序与 JCL 作业转换为 Java Quarkus 或 C# .NET
-- 迁移前梳理遗留资产依赖关系并规划分批切出方案
-- 仅提取 COBOL 业务逻辑文档（reverse-eng）
+- 把 COBOL/CICS 遗留系统批量转换为 Java 或 C# .NET
+- 转换前解析并核查 AST 覆盖缺口，评估可迁移性
+- 生成业务规则与术语的逆向工程报告供团队阅读
+- 从 JCL 任务出发规划迁移切片与波次
 
 ## 场景标签
 
-`Agent 框架` `编码 Agent` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L3: This open source migration framework was developed to demonstrate AI Agents capabilities for converting legacy code 
-> L4: The migration uses Microsoft Agent Framework with a multi-provider architecture supporting **Azure OpenAI** (Respons
+> L7: This open source migration framework was developed to demonstrate AI Agents capabilities for converting legacy code 
+> L8: The migration uses Microsoft Agent Framework with a multi-provider architecture supporting **Azure OpenAI** (Respons
+> L41: |**.NET SDK**|10.0+|Download|
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `22b36f43e695` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `3b4879c792b8` · [字段定义](../../DATASET.md)*

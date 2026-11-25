@@ -1,10 +1,10 @@
 # ThinkFlowLab/agentdescent
 
-⭐ 221 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 组织维护
+⭐ 221 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ThinkFlowLab/agentdescent) · [官网](https://thinkflowlab.github.io/agentdescent/) · 个人维护
 
-**自进化 agent 框架：并行 worker 提出编辑、聚合器合并演进提示与技能**
+**面向开发者的 agent 自进化框架：并行提议 diff、聚合器合并进化 agent**
 
-面向开发者的自进化 agent 框架：N 个 worker 并行对提示、技能、agent 代码提出 diff，聚合器经五阶段合并管线提交到 git 版本化账本，留出集门控决定保留内容。以 Python 库（evolve() 单调用）与 CLI 提供，另带 MCP 服务器，可从 Claude Code、Codex、DeepSeek Harness 等宿主内调用。支持离线 demo（约 10 秒、无需 API key）。自述为研究参考实现而非生产系统，吞吐前提为可检验假设。
+AgentDescent 是一个并行异步框架，将梯度下降类比用于 agent 参数：N 个 worker 对提示词、多文件技能库、agent 目录、agent 代码和 host 插件并行提出修改 diff，单个聚合器经五阶段合并管线合入 git 版本化账本，由 held-out 门控决定保留项。可通过 Python 的 evolve() 调用、CLI 或从 Claude Code、Codex、OpenCode 等 host 内使用。README 自述为研究参考实现而非生产系统，pytest 离线且无需 API key。
 
 ## 筛选速览
 
@@ -16,29 +16,30 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 并行 worker 提出 diff + 聚合器合并 + 留出集门控的演进循环
-- evolve() 单调用、CLI 与 MCP 服务器三种使用方式
-- 离线确定性 demo 与测试套件，无需 API key
-- 23 个算法移植与可注册算法卡
+- diff 即梯度、聚合器即优化器的自进化机制，N worker 并行 + held-out 门控
+- 支持进化提示词、技能库、agent 目录、agent 代码与 host 插件
+- 提供离线 demo（agentdescent demo，无需 API key）与 doctor/plan/start/apply 流程
+- 23 个命名算法端口，用例数据置于 bench/results/ 与 CITATION.cff
 
 ## 适用场景
 
-- 用自己的数据集自动演进提示词或多文件技能库
-- 在 Claude Code 等 agent 宿主内运行演进流程
-- 复现和扩展 agent 演进算法的研究实验
+- 用自有样例数据集进化 agent 的提示词与技能规则
+- 在 Claude Code 等 host 内通过 MCP 调用进化工具
+- 研究并行 diff 合并与 agent 自进化算法
 
 ## 场景标签
 
-`Agent 框架` `提示工程` · 领域:Agent 开发
+`Agent 框架` `提示工程` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: > **Gradient descent — but the parameters are agents.** AgentDescent evolves
 > L11: > kept. Use it from Python with one `evolve()` call, from the CLI, or from inside
+> L119: A **research reference implementation**, not a production system. The novelty is
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `e00facdb8969` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `45927ed91ce8` · [字段定义](../../DATASET.md)*

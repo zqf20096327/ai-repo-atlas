@@ -1,10 +1,10 @@
 # ailinone/collective-intelligence
 
-⭐ 228 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ailinone/collective-intelligence) · [官网](https://ailin.one) · 组织维护 · 中文 README
+⭐ 228 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ailinone/collective-intelligence) · [官网](https://ailin.one) · 组织维护
 
-**让十万级 AI 模型协作的集体智能推理引擎**
+**多模型协作引擎：按策略调度大量模型协同产出并留审计**
 
-Ailin¹ 是一个集体智能引擎：通过发现引擎索引 103,224 个模型、约 90 个 provider 集成，请求经 OpenAI 兼容 API 进入后由 32 种协调策略（共识、盲辩论、专家小组、成本级联等）组装模型团队、执行、仲裁并产出带完整溯源（ailin_metadata）的响应。面向需要跨多模型降低单点依赖、做成本治理与决策审计的开发者/企业。平台部分层级已生产可用，协调器权重等仍在开发中；多轮仲裁带来成本与延迟开销。
+开源的集体智能引擎：索引 100,000+ 可发现模型标识，通过发现引擎自动吸收新模型，按 31 种注册策略（收敛共识、盲辩、专家面板、最佳 N 验证等）为每个请求实时组建模型团队，输出带完整决策溯源（ailin_metadata）。对外提供 OpenAI 兼容 API，支持每请求成本上限与租户隔离。许可证为 AGPL-3.0-or-later；文档自述部分层尚在成熟中，自有协调模型权重仍在开发。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Ailin¹ 是一个集体智能引擎：通过发现引擎索引 103,224 个模型
 
 ## 能力要点
 
-- 103,224 个模型索引、约 90 个 provider 集成、32 种协调策略
-- OpenAI 兼容 API，仅需改 base_url 即可接入
-- 每次请求输出完整决策溯源与成本治理（max_cost、租户隔离）
-- 基准的原始数据与复现脚本提交在仓库内
+- 31 种注册协作策略与 ailin-auto 保守级联
+- 持续发现引擎自动吸收新模型，无硬编码模型清单
+- OpenAI 兼容 API，仅改 base_url 即可接入
+- 每请求决策溯源与 max_cost 成本控制
 
 ## 适用场景
 
-- 把请求交给多模型集体协作以降低单模型单点依赖
-- 企业流量上做成本上限、租户隔离与决策审计
-- 对可客观验证的任务用共识+确定性校验器提升可靠性
+- 需要多模型交叉验证以提高可验证任务可靠性的应用
+- 需要决策溯源与成本治理的企业 LLM 接入层
+- 在单一服务商故障时保持请求可用的路由层
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Ailin¹ 是一个集体智能引擎：通过发现引擎索引 103,224 个模型
 
 ## 证据(README 行号)
 
-> L200:     SDK[Any OpenAI SDK / curl<br/>base_url swap only] --> GW[OpenAI-compatible API]
-> L205: *In text: a request enters through the OpenAI-compatible API from any OpenAI SDK or curl client (only the base_url
+> L62: **This is not multi-model routing. This is not an API gateway. This is
+> L206:     SDK[Any OpenAI SDK / curl<br/>base_url swap only] --> GW[OpenAI-compatible API]
+> L211: *In text: a request enters through the OpenAI-compatible API from any OpenAI SDK or curl client (only the base_url
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `67fba996e532` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d15ca5d4f434` · [字段定义](../../DATASET.md)*

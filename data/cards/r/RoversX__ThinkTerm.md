@@ -1,10 +1,10 @@
 # RoversX/ThinkTerm
 
-⭐ 262 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RoversX/ThinkTerm) · [官网](https://closex.org/thinkterm/) · 个人维护
+⭐ 262 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RoversX/ThinkTerm) · [官网](https://closex.org/thinkterm/) · 个人维护 · 中文 README
 
-**内置多路复用器的 Rust 终端，跨机运行 shell 与编码代理**
+**为多机终端与 AI agent 会话提供持久复用器的终端**
 
-基于 WezTerm、用 Rust 编写的开源终端，内置 mux server 持有会话与分屏：客户端（桌面、TUI、浏览器，移动端开发中）断开后进程继续运行，可从其他设备重连。支持跨机器连接本地与远程会话（SSH/Mosh）、ThinkTerm Connect 汇聚远程工作区、内置 Tailscale、SFTP 文件访问、Obsidian 兼容笔记与 Rust 插件 SDK。面向运行多个编码代理的开发者，提供 Agents 面板展示代理状态，并通过 CLI 命令让代理操作终端面板。会话持久性依赖 mux server 存活，服务器重启后不恢复进程。
+基于 WezTerm、用 Rust 编写的开源终端，核心是内建复用器（mux server）：会话、标签页与分屏由服务器持有，断开后继续运行，可从桌面、TUI、浏览器等多客户端重连。支持 Space/Project/Thread 工作区组织、SSH/Mosh 远程会话、内建 Tailscale、SFTP 文件浏览、Markdown 笔记、片段与 Rust 插件 SDK。Agents 面板将识别到的编码 agent 集中展示工作状态，可在设置中禁用。桌面版通过 GPU 渲染，无 Electron 与内嵌 WebView；会话持久性不覆盖服务器重启或主机断电。
 
 ## 筛选速览
 
@@ -16,30 +16,29 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- mux server 持有会话，客户端断开后 shell 与代理任务继续运行
-- 桌面/TUI/浏览器多客户端接入同一会话，跨机器切换工作区
-- CLI 暴露面板给自动化（send-text/get-text/wait 等），供代理操作终端
-- Agents 面板汇总识别到的编码代理及其状态（可在设置中关闭）
+- mux server 持有会话，断开客户端后 shell/构建/agent 任务继续运行
+- 桌面、TUI、浏览器多客户端接入同一批共享会话
+- Agents 面板集中显示识别到的编码 agent 的状态与项目上下文
+- Rust + GPU 渲染，基于 WezTerm，无 Electron 或 WebView
 
 ## 适用场景
 
-- 在多台机器上运行多个 AI 编码代理并集中监控其状态
-- 从桌面、浏览器或 TUI 随时接续同一批终端会话
-- 通过远程 mux 会话在本地界面中操作远程服务器工作区
+- 在多台机器上运行多个 coding agent 并统一查看各自状态
+- SSH 断线后回到原来的远程会话继续任务
+- 从浏览器或 TUI 接入家里/服务器上的工作区
 
 ## 场景标签
 
- · 领域:开发者工具/终端
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L22: ThinkTerm is an open-source **terminal with a built-in multiplexer, written in Rust**, built on WezTerm. Its mux se
-> L72: - **Agent status.** The Agents panel brings recognized coding agents into one list with their work status and proje
-> L82: The CLI also exposes panes to automation: `thinkterm cli send-text` sends input, `send-key` presses keys, `get-text
+> L137: - **Agent status.** The Agents panel brings recognized coding agents into one list with their work status and proj
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `3a447b075d86` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `459941183db3` · [字段定义](../../DATASET.md)*
