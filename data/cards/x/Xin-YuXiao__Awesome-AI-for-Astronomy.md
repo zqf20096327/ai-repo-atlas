@@ -1,10 +1,10 @@
 # Xin-YuXiao/Awesome-AI-for-Astronomy
 
-⭐ 415 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 个人维护
+⭐ 415 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 组织维护
 
-**天文与天体物理 AI 论文/模型/基准策展清单**
+**天体物理等领域 AI 研究的论文清单（468 篇）**
 
-收录天文学、天体物理、宇宙学、日球物理与行星科学领域机器学习研究的策展清单：覆盖综述、基础模型（图像/光谱/时序/多模态）、天文语言模型、Agent 与检索系统、基准等类别，共 429 篇论文与 66 个软件包，条目标注日期、发表渠道、代码/模型/数据可得性。提供可按年份、渠道、代码可得性等维度过滤的可检索网页，支持 JSON/CSV 下载。另有 AstroAI Today 每日收集 arXiv 新论文并用语言模型生成 TL;DR（未评审），主清单经人工收录核验。
+收录天文学、天体物理、宇宙学、太阳物理与行星科学中机器学习相关论文、模型、数据集、基准与软件的可检索清单，共 468 篇论文与 66 个软件包。条目按综述、基础模型、语言模型、Agent、基准等章节组织，收录前核对 arXiv 标识、DOI 与代码仓库链接。配套网页可按章节、年份、发表载体、公开代码/权重/数据、数据模态过滤，并导出 JSON/CSV；另有每日 arXiv 论文筛选栏目与可查询该目录的 AI 技能。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 429 篇论文与 66 个软件包，按基础模型/语言模型/Agent/基准等类别组织
-- 可检索网页支持按年份、渠道、代码、模型权重、数据模态过滤
-- 条目经 arXiv 标识符、DOI 与仓库链接核验，附一句话摘要
-- AstroAI Today 每日收集新论文并由语言模型生成 TL;DR
+- 468 篇论文与 66 个软件包的链接核验清单
+- 网页按章节/年份/载体/代码/权重/数据模态过滤，支持 JSON/CSV 导出
+- 每日 arXiv 机器学习-天文论文筛选（语言模型生成 TL;DR）
+- 提供可查询目录的 AstroAI Research skill
 
 ## 适用场景
 
-- 查找天文领域的基础模型与语言模型论文及代码
-- 追踪天文 AI 基准与评测数据集
-- 了解 2021 年以来天文领域 AI 研究脉络
+- 查找天文各子领域的基础模型与深度学习论文
+- 检索带公开代码或模型权重的天文 ML 工作
+- 跟进天文领域 LLM 与 Agent 研究进展
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L3: **A curated list of papers, models, datasets, benchmarks and software for artificial intelligence in astronomy, astr
-> L14: > The searchable web page filters all 429 papers and 66 software packages by section, year, venue type, public code
+> L14: > The searchable web page filters all 468 papers and 66 software packages by section, year, venue type, public code
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `503284414e47` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4c561052d002` · [字段定义](../../DATASET.md)*

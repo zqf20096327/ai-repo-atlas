@@ -1,16 +1,16 @@
 # open-spaced-repetition/srs-benchmark
 
-⭐ 297 · Jupyter Notebook · 推送 2026-11-19 · [GitHub](https://github.com/open-spaced-repetition/srs-benchmark) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护
+⭐ 297 · Jupyter Notebook · 推送 2026-11-19 · [GitHub](https://github.com/open-spaced-repetition/srs-benchmark) · [官网](https://github.com/open-spaced-repetition/fsrs4anki/wiki) · 组织维护 · 中文 README
 
-**间隔重复调度算法的预测精度评测基准**
+**评估间隔重复调度算法预测准确性的基准测试集**
 
-面向间隔重复（抽认卡复习排程）算法的评测基准：使用 1 万名 Anki 用户约 7.27 亿条复习记录（托管于 Hugging Face 数据集 anki-revlogs-10k），通过 sklearn 的 TimeSeriesSplit 按时间切分训练/测试数据，以 Log Loss、AUC 和自定义 RMSE(bins) 三项指标衡量算法预测回忆概率的准确度。收录 FSRS 各版本、Ebisu、HLR、DASH、ACT-R、GRU/LSTM、RWKV 等多类算法，并开放提交：可通过 GitHub issue 申请评测自己的算法。面向记忆算法研究与新算法验证场景。
+该仓库提供对多种间隔重复（spaced repetition）算法的统一评估基准：使用来自约 1 万名 Anki 用户的约 7.27 亿条复习记录（托管于 Hugging Face），以 TimeSeriesSplit 按时间切分训练与测试数据，用 Log Loss、RMSE (bins) 和 AUC 三个指标衡量算法预测回忆概率的准确性。README 逐条列出被评估算法（FSRS 各版本、HLR、Ebisu、DASH、ACT-R、GRU/LSTM、RWKV、逻辑回归及基线等）并给出结果表，欢迎作者提交算法参与评估。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 基于 1 万 Anki 用户的约 7.27 亿条复习记录构建数据集
-- Log Loss / AUC / RMSE(bins) 三项评测指标，按时间切分避免数据泄漏
-- 收录 FSRS 系列、Ebisu、HLR、DASH、ACT-R、GRU/LSTM、RWKV 等多族算法
-- 开放提交：可通过 GitHub issue 申请评测新算法
+- 评估约 9,999 个 Anki 用户集合、3.49 亿条复习记录
+- 三项评估指标：Log Loss、RMSE (bins)、AUC
+- 覆盖 FSRS 多版本、记忆模型、神经网络与基线等多类算法
+- 提供数据集托管于 Hugging Face（anki-revlogs-10k）
 
 ## 适用场景
 
-- 我想验证自己新设计的间隔重复算法的预测精度
-- 比较各记忆模型在同一数据集上的表现
-- 为学习类应用选择复习排程算法提供依据
+- 比较不同间隔重复算法的预测准确性
+- 为新的调度算法提交基准评估
+- 研究记忆/遗忘曲线模型的数据实验
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7d314f1a0d6f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `6b06f5153706` · [字段定义](../../DATASET.md)*

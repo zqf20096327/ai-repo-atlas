@@ -2,9 +2,9 @@
 
 ⭐ 85,707 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
 
-**面向开发者的开源 SuperAgent 运行时：编排子代理执行长时程任务**
+**编排子代理、记忆与沙箱的开源 SuperAgent 运行框架**
 
-DeerFlow（Deep Exploration and Efficient Research Flow）是字节跳动开源的 super agent harness，编排子代理、记忆、沙箱、技能与消息网关来处理数分钟到数小时的任务；起家于 Deep Research 框架，2.0 为全新重写，基于 LangGraph 与 LangChain，内置文件系统、沙箱感知执行与子代理派生能力。支持 Docker 与本地运行（需 Node.js 22+、pnpm、uv、nginx），模型接入为 OpenAI 兼容 API，官方声明可执行命令与读写文件，设计用于本地可信环境。
+由字节跳动开源的 SuperAgent harness（DeerFlow 2.0 为完全重写版本），基于 LangGraph 与 LangChain 构建，内置文件系统、记忆、技能、沙箱执行与子代理规划派生能力，用于处理持续数分钟到数小时的长期任务。提供 Web UI（默认端口 2026）、TUI 终端工作台、API 与 Python 客户端，并支持 IM 渠道、GitHub webhooks、定时任务与可观测性追踪。模型无关，兼容 OpenAI 风格 API；README 提示其可执行命令与读写文件，建议在本地可信环境运行。
 
 ## 筛选速览
 
@@ -27,24 +27,26 @@ DeerFlow（Deep Exploration and Efficient Research Flow）是字节跳动开源�
 
 ## 能力要点
 
-- 编排子代理、记忆、沙箱、技能与消息网关的 agent harness
-- 基于 LangGraph 与 LangChain 构建，模型接入为 OpenAI 兼容 API
-- 支持 Docker 部署与本地开发（make 工作流，Node.js 22+/pnpm/uv/nginx）
-- 支持 MCP 服务器、IM 通道（飞书/Slack/Telegram/Discord/钉钉）与 GitHub 事件驱动
+- 基于 LangGraph/LangChain 的 agent harness，内置文件系统、记忆、技能与沙箱执行
+- 支持子代理、agent teams、长期记忆与上下文压缩
+- 兼容 OpenAI 风格 API 的模型接入，提供 Docker 与本地两种运行方式
+- 覆盖 RAGFlow 私有知识检索、MCP、IM 渠道、定时任务等扩展指南
 
 ## 适用场景
 
-- 让 agent 自主执行需要数分钟到数小时的多步长时程任务
-- 搭建深度研究、数据管道、幻灯片生成、仪表盘等自动化工作流
-- 通过 IM 通道或 GitHub webhook 接入事件驱动的 agent
+- 让 agent 执行深度研究并产出报告/幻灯片等内容
+- 搭建可派生子代理的多步骤自动化工作流
+- 通过沙箱运行 agent 生成的代码任务
+- 接入飞书/Slack/Telegram 等 IM 渠道部署 agent
 
 ## 场景标签
 
-`Agent 框架` `多智能体` `工作流自动化` · 领域:Agent 开发
+`Agent 框架` `多智能体` `科研工具` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L10: DeerFlow (**D**eep **E**xploration and **E**fficient **R**esearch **Flow**) is an open-source **super agent harness
+> L96: That told us something important: DeerFlow wasn't just a research tool. It was a **harness** — a runtime that gives
 > L100: DeerFlow 2.0 is no longer a framework you wire together. It's a super agent harness — batteries included, fully ex
 
 ## 星数曲线
@@ -61,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `2c17e4f908e8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `6ff8768d90f1` · [字段定义](../../DATASET.md)*

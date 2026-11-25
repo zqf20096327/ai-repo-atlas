@@ -2,9 +2,9 @@
 
 ⭐ 313 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/benjiyaya/Calliope) · 个人维护
 
-**本地化故事转视频工作室：从创意到成片驱动 ComfyUI 生成**
+**本地运行的从故事创意到视频生成的工作室，驱动自有 ComfyUI**
 
-本地优先的故事到视频生成应用：输入故事创意后，由多 agent（主 agent、规划、故事、剧本、资产、视频）经 OpenAI 兼容 LLM 端点起草情节、剧本，把场景拆成约 5-10 秒的镜头片段，通过用户自装的 ComfyUI 队列渲染各片段，再用 ffmpeg 拼接、响度归一出成片。项目数据存 SQLite，不依赖云服务（除自配的 LLM 端点）。技术栈为 FastAPI + SvelteKit，需从源码安装，前置要求 Python 3.11+、Node.js 18+、ComfyUI 与 ffmpeg。
+Calliope 是本地优先的故事转视频工作室：输入故事创意后，由 LLM 起草带节拍、角色、地点的故事线，逐场景生成剧本并切分为 5–10 秒的镜头片段，再通过用户自装的 ComfyUI 为每个片段生成视频，最后用 ffmpeg 拼接成片（叠化转场与响度归一）。项目存于 SQLite，媒体存于本地文件夹，无云端服务（LLM 端点除外）。需 Python 3.11+、Node.js 18+、运行中的 ComfyUI、OpenAI 兼容 LLM 端点与 ffmpeg，从源码安装运行。
 
 ## 筛选速览
 
@@ -13,32 +13,32 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多 agent 流水线：故事→资产→剧本→镜头拆分→视频生成
-- 通过角色标签发现 ComfyUI 工作流节点，不硬编码节点 ID
-- 支持 MiniMax H3 六段式提示词确定性编译
-- Agents 对话模式经工具操作同一数据库与渲染队列
+- 四阶段流水线：Story→Assets→Script→Video，逐镜头生成并一键成片
+- 通过工作流节点标题中的角色标签（Input:role/Output:role）动态发现 ComfyUI 可编辑节点
+- Agent 对话模式：子代理按授权工具执行工作室操作，写操作经数据库校验
+- 可选 Comfy Router 云端模型（MiniMax H3 / FLUX 3）与本地工作流并存
 
 ## 适用场景
 
-- 把故事创意做成分镜头 AI 视频并导出成片
-- 用自己的 ComfyUI 工作流本地生成角色、场景参考图与视频片段
-- 通过对话让 agent 代跑完整制作流水线
+- 用自有 ComfyUI 工作流把故事创意批量生成为分镜头短片
+- 通过对话让 agent 代为操作项目创建、剧本与渲染队列
+- 在离线/本地环境管理素材引用图与视频生成任务
 
 ## 场景标签
 
-`视频生成` `多智能体` · 领域:Agent 开发
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L3: Calliope is a local-first story-to-video studio. You type a story idea; Calliope drafts a storyline with beats, char
-> L87: - **Script:** **Regenerate Script** also opens a project-linked Agents chat (pre-filled) to rewrite the per-scene s
+> L26: - An OpenAI-compatible LLM endpoint — local (LM Studio, Ollama, etc.) or hosted
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `37ba0b18053f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `763fe2ca398d` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 375 · Python · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/Entelligence-AI/agentplay) · [官网](https://entelligence.ai/agentplay) · 组织维护
 
-**本地回放编码 agent 会话的工具：把会话转成地图和时间线**
+**回放编码 agent 会话的本地查看器：地图+时间线审计工具**
 
-读取本机已有的编码 agent 会话记录（Claude Code、Codex、Cursor、GitHub Copilot、OpenCode、Kiro、Gemini CLI），为每个会话生成可回放的径向地图（文件、工具、MCP 服务器、子 agent、模型等触达对象）与时间线（编辑、错误、重试、token 与上下文等泳道），并在本地 127.0.0.1 打开查看器。地图默认做脱敏（不含提示词、工具输入输出、命令参数），支持路径哈希与单文件导出共享。面向使用编码 agent 的开发者；需 Python 3.11+，无运行时依赖，会话数据不离开本机，仅可选邮箱注册产生一次网络请求且可关闭。
+读取本机已存的编码 agent 会话记录（~/.claude、~/.codex、~/.cursor 等目录），为每个会话构建经脱敏的回放地图与时间线，展示读取的文件、编辑、命令失败、上下文窗口与子 agent 产出。以 uvx/pipx/pip 运行，除标准库外无运行时依赖，本地起 127.0.0.1 查看器；地图文件不含提示词与文件内容，支持 dirs_only/hashed 路径模式与单会话导出。面向使用 Claude Code、Codex、Cursor 等编码 agent 的开发者。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 一条 uvx agentplay 命令即可发现并回放本机 agent 会话
-- 支持 8 种编码 agent 的会话格式（JSONL/SQLite）读取
-- 地图默认脱敏：不含提示词、工具输入输出与命令参数，提供三种路径模式
-- 本地运行，无遥测无上传，查看器仅监听 127.0.0.1
+- 单命令 uvx agentplay@latest 扫描本机会话并打开本地查看器，无需账号与 API key
+- 地图为径向树：文件、shell 动词、MCP 服务器、子 agent、模型、产出（commit/PR/ticket）
+- 时间线支持 1x/4x/16x 回放、键盘快捷跳转与按任务/模型/子 agent 重新定界
+- 隐私契约：会话数据不出本机，地图不含提示词文本与文件内容，支持路径脱敏模式
 
 ## 适用场景
 
-- 回看我的 agent 到底读了什么、改了什么、哪些命令反复失败
-- 定位上下文窗口何时填满、子 agent 带回了什么
-- 把脱敏后的会话地图导出分享给队友评审
+- 排查 agent 编辑某文件前读过哪些文件、漏掉了什么
+- 统计会话中重复失败并重试的命令
+- 回放定位上下文窗口何时填满、子 agent 返回了什么
+- 以脱敏地图形式向他人分享 agent 工作过程
 
 ## 场景标签
 
@@ -38,7 +39,8 @@
 ## 证据(README 行号)
 
 > L10: **See what your coding agent actually did. Replay every session as a map and a timeline: what it read, what it edit
-> L103: |Agent|Reads from (defaults)|Subagent lanes|Tokens|Notes|
+> L28: Your agent's transcripts already record what it did: which files it read before editing, which commands it retried,
+> L30: agentplay makes that data readable. Every session becomes a map of everything it touched and a timeline you can pla
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `4395f28c8015` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c0098ff57d9f` · [字段定义](../../DATASET.md)*

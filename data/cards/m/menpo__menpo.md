@@ -2,9 +2,9 @@
 
 ⭐ 328 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/menpo/menpo) · [官网](http://www.menpo.org) · 组织维护
 
-**处理标注图像/网格数据的统计建模核心库**
+**给 CV/ML 研究者处理标注图像与网格数据的 Python 工具库**
 
-Menpo 是 Menpo Project 的 Python 核心库，面向机器学习与计算机视觉领域的带标注（annotated）数据，提供导入、操作与可视化图像和网格数据的功能。地标（landmark）作为一等公民，支持基于地标的图像掩码、裁剪与对齐等操作。它是 menpofit（形变模型算法）、menpo3d（3D 网格与 OpenGL 光栅化）、menpodetect（目标检测封装）等上层库的基础。安装推荐 conda（conda-forge 渠道），也支持 pip；要求 Python 3.10+，部分功能（3D 视图、dsift 特征）需可选依赖。
+Menpo 项目核心库，面向机器学习与计算机视觉领域常见的标注数据：导入、操作与可视化图像和网格数据，所有核心类型均可携带 landmarks（标注点），支持基于标注点的图像掩膜、裁剪与对齐。定位为在 ML/CV 领域实现算法的基础库，配套 menpofit（可变形模型）、menpo3d（3D 网格）、menpodetect（目标检测封装）等派生库；安装推荐 conda，也支持 pip；Python 3.10+；部分功能依赖可选包（menpo3d、cyvlfeat、opencv）。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Menpo 是 Menpo Project 的 Python 核心库，面向机器学习与计算机视
 
 ## 能力要点
 
-- 地标为中心的图像/网格数据导入、操作与可视化
-- 基于地标实现掩码、裁剪、对齐等任务
-- 作为 menpofit/menpo3d/menpodetect 等库的核心基础库
-- Jupyter Notebook 形式的功能文档与示例
+- 所有核心类型均为 Landmarkable，标注点为一等公民
+- 基于标注点的图像掩膜、裁剪与图像对齐操作
+- conda-forge 安装无需编译，兼容 pip
+- 配套 menpofit/menpo3d/menpodetect 派生库
 
 ## 适用场景
 
-- 在计算机视觉/机器学习研究中处理带地标标注的图像与网格数据
-- 构建形变模型（AAM/CLM/SDM）等算法时的数据基础层
-- 在 Jupyter 中交互式可视化与操作标注数据
+- 导入并可视化带标注点的图像与网格数据
+- 按标注点做图像裁剪、掩膜和对齐预处理
+- 作为基础库实现自己的 ML/CV 算法
+- 通过 Jupyter 笔记本学习各项功能
 
 ## 场景标签
 
@@ -37,8 +38,9 @@ Menpo 是 Menpo Project 的 Python 核心库，面向机器学习与计算机视
 
 ## 证据(README 行号)
 
-> L10: Menpo is a Menpo Project package designed from
+> L8: Menpo. The Menpo Project Python package for handling annotated data.
 > L13: we focus on **annotated** data which is common within the fields of Machine
+> L72: Menpo is designed to be a core library for implementing algorithms within
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `86517996eb53` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `134b0f377ead` · [字段定义](../../DATASET.md)*

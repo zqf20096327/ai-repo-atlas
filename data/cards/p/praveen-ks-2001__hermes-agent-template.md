@@ -2,9 +2,9 @@
 
 ⭐ 328 · Python · 推送 2026-10-21 · [GitHub](https://github.com/praveen-ks-2001/hermes-agent-template) · [官网](https://railway.com/deploy/hermes-agent-ai?referralCode=QXdhdr) · 个人维护
 
-**在 Railway 一键部署 Hermes Agent 并通过 Web 管理面板运维**
+**在 Railway 一键部署 Hermes Agent 的管理面板模板**
 
-面向 Hermes Agent（Nous Research 的自主 AI agent）的一键 Railway 部署模板：单容器内以 Starlette+Uvicorn 前端进程代理原生 Hermes 面板与管理网关子进程，提供设置向导（LLM 提供商/频道/工具勾选配置，无需改配置文件）、网关启停与崩溃自动重启、配对审批、备份恢复与实时日志。支持 25+ 提供商下拉选择、7 种消息频道、多种工具集成，配置存于 /data 卷以跨重部署持久化。也可通过 Docker 本地运行。
+面向在 Railway 上部署 Hermes Agent 的用户，提供 Web 管理面板与部署模板：通过 /setup 向导选择 LLM provider、勾选消息渠道与工具、配置并启停 Hermes 网关，支持用户配对审批、日志流查看、备份/恢复，并将 Hermes 原生 UI（Chat、Keys、Skills、Kanban 等）代理在同一登录之后。容器内由 server.py 统一暴露唯一入口，托管并守护 Hermes 网关子进程；配置持久化于 /data 卷。模板在 Dockerfile 中固定 Hermes 版本，升级需使用对应 release 分支。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Web 设置向导配置提供商/频道/工具，无需编辑配置文件
-- 网关监管：崩溃/OOM 后自动退避重启，日志环形缓冲流式查看
-- 备份恢复：Hermes-home 数据打包下载（6 小时内有效，未加密），恢复前自动安全快照
-- 单 cookie 登录同时守卫设置向导与代理的 Hermes 原生面板
+- Setup 向导覆盖 provider/渠道/工具选择，无需编辑配置文件
+- 网关浏览器端启停与崩溃自动重启（带退避）
+- 用户配对审批与待审批请求列表
+- 备份 zip 下载（6 小时有效）与恢复前自动安全快照
 
 ## 适用场景
 
-- 在 Railway 上一键部署自己的 Telegram/Discord AI 机器人
-- 通过浏览器管理 Hermes 网关状态、日志与用户配对
-- 无需命令行即可配置 LLM 提供商并升级 Hermes 版本
+- 一键在 Railway 上部署自己的 Hermes Agent 并接入 Telegram 等渠道
+- 通过 Web 面板审批哪些用户可以和机器人对话
+- 定期备份 Hermes 配置、凭证与聊天历史
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L3: Deploy Hermes Agent on Railway with a web-based admin dashboard for configuration, gateway management, and user pair
-> L7: > Hermes Agent is an autonomous AI agent by Nous Research that lives on your server, connects to your messaging chan
-> L95: One container runs a single public process that fronts two managed Hermes subprocesses:
+> L15: - **Admin Dashboard** — dark-themed setup wizard at `/setup` to configure providers, channels, tools, and manage th
+> L18: - **Gateway Management** — start, stop, restart the Hermes gateway from the browser, with automatic restart if it c
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ddbef078bbd7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `702201596562` · [字段定义](../../DATASET.md)*

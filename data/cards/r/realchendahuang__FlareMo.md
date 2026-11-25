@@ -2,9 +2,9 @@
 
 ⭐ 364 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/realchendahuang/FlareMo) · [官网](https://flaremo.app) · 个人维护 · 中文 README
 
-**部署在 Cloudflare 边缘的笔记/任务/知识库应用，兼作 AI Agent 长期记忆**
+**给个人与团队：在 Cloudflare 上零服务器运行的知识库与 AI Agent 笔记记忆**
 
-运行于 Cloudflare Workers 的自托管第二大脑：D1 与 R2 存储笔记、任务、文章与附件，含 SQLite FTS5 全文搜索、Workers AI 向量检索、待办/看板、团队空间与三级可见性、PWA 离线同步、插件系统。AI 部分：提供 flaremo CLI 与 flaremo-memory 技能，让 Claude、Cursor、Codex、ChatGPT 等通过 MCP 或 REST 读写跨会话长期记忆，人工可在 /memory 页面审核。提供一键部署、GitHub Action、Agent 部署与手动 wrangler 四种部署方式；数据一键导出导入。
+部署在 Cloudflare Workers/D1/R2 上的笔记、任务与文章管理应用，定位为第二大脑与团队共享知识库。提供 FTS5 全文检索、Workers AI 嵌入加 Vectorize 的语义搜索、每日回顾、待办与看板、三级可见性团队空间、PWA 离线同步、Web Push 提醒。AI 侧通过 /mcp 端点与 flaremo-notes 技能，让外部 agent 对笔记执行搜索、读取与写入；agent 按需读取笔记，不自动抽取到独立记忆库。支持一键导出、API 兼容层与插件卡片系统。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 笔记/待办/文章沉淀为可搜索、互链的知识库
-- Agent Memory CLI + 跨 Agent 技能，通过 MCP/REST 读写长期记忆，人工可审核
-- FTS5 全文搜索与向量语义检索（可回退）
-- PWA 离线同步、一键部署到 Cloudflare 免费额度
+- /mcp 端点提供笔记 list/search/read/create/update/delete，配 memos_pat_ 令牌鉴权
+- Workers AI embeddings + Vectorize 语义搜索，可回退 FTS5
+- 笔记-任务-文章流转与标签/反向链接图回顾
+- 一键导出全量数据并自带迁移转换器
 
 ## 适用场景
 
-- 零服务器自托管个人笔记与任务管理
-- 让 Claude/Cursor/Codex 等 Agent 保存和复用长期记忆
-- 小团队共享知识空间并按三级可见性控制权限
+- 部署个人第二大脑，零服务器维护笔记与待办
+- 让 Claude Code/Cursor 等工具直接读写我的笔记
+- 小团队共享空间发布与评论笔记
+- 部署为 AI Agent 的长期记忆库
 
 ## 场景标签
 
-`Agent 记忆` `知识库管理` · 领域:Agent 开发
+`Agent 记忆` `知识库管理` `语义搜索` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L37: - **AI-native, not bolted on**: Agent Memory ships a CLI and a cross-agent skill, so Claude, Cursor, Codex, ChatGPT
-> L54: ### 2. AI Long-term Memory (CLI + Skills)
-> L55: - **Agent Memory**: Ships `flaremo` CLI and the `flaremo-memory` skill — agents record and update cross-session lon
+> L4:  An AI-native second brain for you. A shared knowledge base for your team.
+> L37: - **AI-native, not bolted on**: A notes MCP endpoint plus the `flaremo-notes` skill lets Claude, Cursor, Codex, Cha
+> L38: - **Truly serverless**: code and static assets run on the Cloudflare Workers edge node nearest you; D1 and R2 hold 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-02 · 置信度 mid · 依据 README sha `9a76326a73ac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `456f732de5a9` · [字段定义](../../DATASET.md)*

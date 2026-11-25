@@ -2,15 +2,15 @@
 
 ⭐ 405 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/swytchcodehq/swytchcode-examples) · [官网](https://swytchcode.com) · 组织维护
 
-**Swytchcode 官方示例集：AI agent 接入真实 API 的模板与参考架构**
+**为开发者提供 AI agent 工作流的官方示例与脚手架模板集**
 
-Swytchcode 的官方示例仓库，展示其统一接口与 SDK 如何将自主 AI agent 接入 HubSpot、Stripe、GitHub、Jira、Slack 等真实 API 与工具。提供 13 个示例工程：前 6 个（客户入驻、支付链接、缺陷升级等）可经 swytchcode CLI 交互式脚手架生成，其余为可直接克隆的参考架构，框架覆盖 LangGraph、OpenClaw、OpenAI Agents SDK、CrewAI 与 Swytchcode SDK。面向构建生产级 agent 工作流的开发者，含幂等、审计与策略执行机制说明。
+Swytchcode 官方示例仓库，收录可直接脚手架生成的入门模板与供克隆研究的参考架构，覆盖客户入驻、支付、工单分诊、线索路由、周报分发、合规流程、退款处理等十余个 agent 项目，分别基于 LangGraph、OpenClaw、Swytchcode SDK、CrewAI 等框架实现。通过 npm 全局安装 Swytchcode CLI 后运行交互式生成器选择用例与框架创建项目，各示例需按其自身 README 配置运行。MIT 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,24 +20,25 @@ Swytchcode 的官方示例仓库，展示其统一接口与 SDK 如何将自主 
 
 ## 能力要点
 
-- 13 个示例工程覆盖 CRM、支付、工程协作、合规等场景
-- swytchcode CLI 交互式脚手架生成项目模板
-- 集成 LangGraph、OpenAI Agents SDK、Vercel AI SDK、CrewAI 等框架
+- CLI 交互式脚手架生成 6 类用例模板
+- 13 个示例项目，覆盖 LangGraph/OpenClaw/Swytchcode SDK/CrewAI/Instinct 等框架
+- 参考架构类示例可直接克隆研究
+- 声明内置幂等、审计轨迹与策略执行能力（via Swytchcode 平台）
 
 ## 适用场景
 
-- 基于模板快速搭建接入 Stripe/HubSpot/GitHub 的 agent 工作流
-- 学习多 agent 编排与合规守卫的参考架构
-- 通过 CLI 脚手架初始化生产级 agent 项目
+- 用脚手架快速创建客户入驻、支付、工单分诊等 agent 项目
+- 参考多 API 编排的合规与多用户工作流架构
+- 了解 LangGraph/OpenClaw 等框架的实际集成写法
 
 ## 场景标签
 
-`Agent 框架` `多智能体` · 领域:Agent 开发
+`代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L7: **Swytchcode** is the standard for connecting autonomous AI agents to real-world APIs, databases, and tooling. By pr
 > L9: This centralized repository houses our official starter templates, reference architectures, and multi-API orchestrat
+> L13: The fastest way to scaffold a production-ready agent is via the **Swytchcode CLI**. The CLI provides instant access
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7ab702eba1dd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e40cbf5ed53f` · [字段定义](../../DATASET.md)*

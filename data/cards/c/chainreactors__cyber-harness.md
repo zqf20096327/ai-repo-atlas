@@ -2,9 +2,9 @@
 
 ⭐ 433 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/chainreactors/cyber-harness) · 组织维护 · 中文 README
 
-**网络安全工作流通用 Agent 框架：可嵌入、全扩展化的攻防工具集**
+**面向网络安全工作流的通用 agent harness，覆盖渗透/审计**
 
-用 Go 编写的通用 Agent 框架，面向渗透测试、红队、代码审计等网络安全工作流。模型推理、工具执行、知识、观测与协作均通过同一扩展生命周期组装，任务与已安装扩展决定可用工具与流程。提供四个入口：aiscan（Agent 任务与扫描器，完整版含浏览器自动化与爬虫）、cyber-audit（模型主导的源码/二进制审计）、cyber-web（会话与工件 Web Hub）及最小化本地 agent。可下载二进制运行，也可从源码构建，并支持嵌入自定义 Go 应用。LLM 通过 OpenAI/Anthropic 兼容协议接入。仅限授权目标使用。
+以 Go 编写的通用 agent harness，将模型推理、工具执行、知识、观测与协作统一通过扩展生命周期组装；提供 cyber-scan（扫描/代理/浏览器自动化）、cyber-audit（源码与二进制审计）、cyber-harness（Web Hub 管理会话与产物）及最小本地 agent 四个入口。通过 cyber.yaml 配置 LLM provider 与端点，节点可经 --server-url 连接 Hub。发布预编译二进制，也可用 Go/Make 从源码构建；文档以中文为主维护。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 四个入口：aiscan/aiscan-full、cyber-audit、cyber-web、最小 agent
-- 一切皆扩展：模型、工具、知识、观测、协作共用扩展生命周期
-- 配置文件接入 OpenAI/Anthropic 兼容 LLM 服务（示例为 DeepSeek）
-- 可编译单二进制并嵌入自定义 Go 应用
+- 四个入口：cyber-scan、cyber-audit、cyber-harness Web Hub 与最小本地 agent
+- 模型、工具、知识与协作统一经扩展生命周期组装，可嵌入自研 Go 应用
+- 支持 openai/anthropic 两种 provider 协议配置（cyber.yaml）
+- GitHub Releases 提供多平台预编译二进制
 
 ## 适用场景
 
-- 在授权目标上执行 Agent 驱动的扫描与侦察任务
-- 让模型主导源码或二进制审计并生成证据与报告
-- 通过 Web Hub 管理会话、事件与扫描/审计节点
+- 在授权目标上运行 agent 驱动的扫描与被动侦察
+- 对源码或二进制做模型主导的审计并收集证据生成报告
+- 用 Web Hub 集中管理多个扫描/审计执行节点
 
 ## 场景标签
 
-`Agent 框架` `网络安全` · 领域:Agent 开发
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L13: cyber-harness is a general-purpose agent harness for cyber workflows. Model reasoning, tool execution, knowledge, o
-> L21: |`cyber-web` (from source)|A profile-neutral Web Hub for sessions, events and artifacts from scan, audit or custom 
-> L76: |Build a Go application or embed a session|Developer guide|
+> L54: Run `cyber-harness init` or `cyber-scan init` to configure your model in `~/.cyber/cyber.yaml`. For project overrid
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b093a8a61205` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1de6d640c35c` · [字段定义](../../DATASET.md)*

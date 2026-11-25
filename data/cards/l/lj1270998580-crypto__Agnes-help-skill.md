@@ -2,9 +2,9 @@
 
 ⭐ 316 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/lj1270998580-crypto/Agnes-help-skill) · [官网](https://ailabing.cn/tools/agnes-creative-space/) · 个人维护 · 中文 README
 
-**Agnes AI 全模态 API 的非官方帮助中心：文档与通用支持 Skill**
+**为开发者提供 Agnes AI 全模态 API 文档与 Agent 支持技能**
 
-社区维护的 Agnes AI API 非官方资源集合，包含整合官方全部接口的完整 API 文档（agnes-ai-api-documentation.md，带版本号）与通用支持 Skill（SKILL.md）。Skill 可放入 Claude Code、OpenClaw、Hermes、Codex、WorkBuddy、Cherry Studio 等 AI 工具的 Skill 目录，让 Agent 指导用户完成接入、诊断 401/429 等错误、排查视频排队与图像生成失败问题。文档覆盖文本（3.0 Flash，512K 上下文）、图像与视频模型参数、Token Plan 配额与 RPM 限制；文件加载时可自动检查 GitHub 最新 commit 提示更新。仓库为非官方内容，以官方文档为准。
+非官方的 Agnes AI API 帮助资源仓库，包含整合官方接口信息的完整 API 文档（agnes-ai-api-documentation.md）与通用支持 Skill（SKILL.md），覆盖文本、图像、视频模型的接入参数、定价、订阅配额与 RPM 限制。Skill 可放入 AI 工具的 Skill 目录，由 Agent 读取后执行接入指导、错误排查（401/400/429 等）、Thinking/流式/工具调用说明等；文件带版本号并支持加载时检查 GitHub 更新。维护者非 Agnes 官方。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 整合 Agnes AI 官方全部接口的完整 API 文档，带版本号标注
-- SKILL.md 兼容 OpenClaw / Claude Code / Codex / Hermes 等 9 种 AI 工具
-- Agent 加载时自动检查 GitHub 最新 commit 并提醒更新
-- 覆盖文本/图像/视频模型参数、Token Plan 配额与 RPM 限制
+- 整合 Agnes AI 官方全部接口信息的 API 文档（带版本号，供 Agent 读取）
+- SKILL.md 兼容 OpenClaw/Claude Code/Codex/Hermes 等 9 个工具，加载时自动检查更新
+- 覆盖模型上下文长度、定价、订阅计划、RPM 限制与错误码排查
+- 提供国际站/国内站/镜像三组 Base URL 与模型名称速记
 
 ## 适用场景
 
-- 在 Claude Code 等 AI 工具中安装 Skill 获得接入与排错指导
-- 查阅 Agnes AI 各模型的 API 参数、端点与计费规则
-- 通过 Agnes 创意空间在线体验图像/视频生成
+- 让 Agent 自动指导接入 Agnes AI 文本/图像/视频 API
+- 排查 401/429 等错误与视频排队、图像生成失败问题
+- 查询 Agnes 各模型参数、价格与订阅配额
+- 为 Claude Code、Codex 等工具配置 Agnes API 集成
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+ · 领域:LLM 基础设施/API 文档
 
 ## 证据(README 行号)
 
 > L7: 本仓库是 Agnes AI API 的**非官方帮助资源集合**，包含完整 API 文档与通用支持 Skill，帮助开发者快速接入 Agnes AI 全模态 API（文本、图像、视频）。
-> L36: |`agnes-ai-api-documentation.md`|完整 API 文档|整合官方全部接口信息，供 Agent 读取（**带版本号**）|
-> L37: |`SKILL.md`|通用支持 Skill|兼容 OpenClaw / Claude Code / Claude Desktop / Hermes / Codex / WorkBuddy / Cherry Studio / Op
+> L48: |`agnes-ai-api-documentation.md`|完整 API 文档|整合官方全部接口信息，供 Agent 读取（**带版本号**）|
+> L55: 将 `SKILL.md` 放入你的 AI 工具 Skill 目录，即可让 Agent 自动：
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `fee49196eb81` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `579f2d18da10` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 315 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/ROCm/FlyDSL) · 组织维护
 
-**面向 AMD GPU 的 Python DSL + MLIR 编译栈，用于编写高性能内核**
+**为 GPU 高性能内核开发提供 Python DSL 与 MLIR 编译栈**
 
-ROCm/FlyDSL 是一个用于编写高性能 GPU 内核的 Python DSL，配套 MLIR 原生的编译栈：以 fly dialect（布局 IR）为核心，支持在高层表达 tiling、partition、数据移动与内核结构，并提供可组合的 GPU/ROCDL 降级管线。内核以 @flyc.kernel/@flyc.jit 编写，追踪为 MLIR 模块后编译，可导出为可链接的 C 对象，编译结果按类型签名缓存到磁盘。面向 AMD GPU 内核开发者，GPU 执行需 ROCm 6.x/7.x，主要包经 pip 发布，源码构建需自行编译 LLVM/MLIR。测试覆盖 GEMM（FP8/INT8/FP4/BF16）、MoE、注意力等内核，部分仍标注 WIP。
+FlyDSL 是 ROCm 项目的 Python 前端 DSL，用布局代数（Shape/Stride/Layout/Coord）在高层表达 tiling、分区、数据搬运与内核结构，经内置 MLIR 编译管线 lowering 到 GPU/ROCDL，支持 @flyc.kernel/@flyc.jit JIT 编译与磁盘缓存，并可导出可链接的 C 对象做 AOT。面向在 AMD GPU 上编写与调优内核的开发者。依赖 ROCm 6.x/7.x 与 Python 3.10+；测试需 ROCm 版 torch；Windows 构建需 VS2022 等工具链。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ ROCm/FlyDSL 是一个用于编写高性能 GPU 内核的 Python DSL，配套 MLI
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
@@ -20,26 +20,26 @@ ROCm/FlyDSL 是一个用于编写高性能 GPU 内核的 Python DSL，配套 MLI
 
 ## 能力要点
 
-- fly dialect 布局 IR：显式代数（composition/product/divide）与坐标映射
-- @flyc.kernel/@flyc.jit 将 Python 函数追踪编译为 MLIR 模块，支持导出可链接 C 对象
-- 跨 block/warp/thread/instruction 层级的显式 tiling 控制
-- 包内置嵌入式 MLIR Python runtime，无需外部 mlir wheel
+- 基于布局代数的显式 tiling/分区/数据搬运表达
+- @flyc.jit 首次调用即追踪为 MLIR 模块并编译，结果磁盘缓存
+- 内置 MLIR Python 绑定，无需外部 mlir wheel
+- 提供 Claude Code 插件形式的编写/调试/调优技能包
 
 ## 适用场景
 
-- 为 AMD GPU（MI300X/MI350/gfx1250 等）编写与调优 GEMM、注意力等内核
-- 在 Python 中以布局代数表达 tiling、swizzle 与数据移动
-- 将编译后的内核特化导出为 C 对象供链接复用
+- 为 AMD MI300X/MI350 等 GPU 编写自定义 GEMM/Attention 内核
+- 在高层布局代数上做 tiling、swizzle、MFMA 调度调优
+- 将内核 AOT 导出为 C 对象集成到其他工程
 
 ## 场景标签
 
- · 领域:GPU 内核/编译器基础设施
+ · 领域:GPU 编译器/深度学习基础设施
 
 ## 证据(README 行号)
 
 > L8: > A Python DSL and a MLIR stack for authoring high‑performance GPU kernels with explicit layouts and tiling.
+> L14: an end‑to‑end, MLIR‑native compiler stack for GPU kernels. Its core is the `fly` dialect—a first‑class
 > L19: - **FlyDSL (Python DSL)**: author kernels in Python, compile them through the Fly dialect,
-> L43: - **ROCm**: required for GPU execution, tests, and benchmarks (tested on ROCm 6.x, 7.x)
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ea6555976654` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0cab7c94806a` · [字段定义](../../DATASET.md)*

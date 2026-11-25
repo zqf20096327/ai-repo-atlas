@@ -2,9 +2,9 @@
 
 ⭐ 383 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/goruck/home-generative-agent) · [官网](https://community.home-assistant.io/t/a-generative-agent-integration-based-on-langchain-and-langgraph/864923) · 个人维护
 
-**面向 Home Assistant 的生成式 AI agent 集成，用自然语言控制智能家居**
+**Home Assistant 的生成式 AI agent 集成：对话控制家居并分析摄像头**
 
-一个 Home Assistant 集成，把生成式 AI agent 引入智能家居：用户用自然语言控制 HA 实体、让 agent 编写并注册自动化 YAML、分析摄像头画面（含人脸识别）、进行长期语义记忆检索（pgvector）。Sentinel 异常引擎以确定性规则监控安全与安全问题（未锁门锁、陌生人、新设备入网等），LLM 仅建议不执行。模型可选用 OpenAI/Gemini/Anthropic 云端或 Ollama 等本地部署，数据可不离开家庭网络。另有内置 STT/TTS（Whisper API 或本地 Speaches）。需 HA 2026.8.0+、HACS 安装、PostgreSQL+pgvector。
+一个 Home Assistant 集成，基于 LangGraph 构建 agent，通过工具调用控制 HA 实体、查询历史、分析摄像头画面并用自然语言创建自动化（由 agent 生成 YAML 并注册）。提供 pgvector 长期语义记忆、Sentinel 确定性异常规则引擎与人脸识别（可选 face-service）、内置 STT/TTS 流水线。支持云模型（OpenAI/Gemini/Anthropic）或全本地（Ollama/OpenAI 兼容服务器）。需 Home Assistant 2026.8+、HACS 或手动安装，以及 PostgreSQL with pgvector。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- 自然语言控制实体并让 agent 编写注册 HA 自动化
-- Sentinel 确定性异常/安全审计规则（LLM 只建议不执行）
-- pgvector 长期语义记忆，支持跨对话记忆偏好
-- 支持云端（OpenAI/Gemini/Anthropic）或本地（Ollama/OpenAI 兼容服务器）模型
+- 基于 LangGraph 的 agent，用工具控制实体、写真实 HA 自动化
+- pgvector 长期语义记忆，跨对话记住偏好
+- Sentinel 异常引擎：确定性规则告警，LLM 只建议不执行
+- 内置 STT/TTS，支持 OpenAI API 或本地 Speaches/faster-whisper
 
 ## 适用场景
 
-- 用对话方式控制家里的灯、开关、摄像头等设备
-- 口述需求让 AI 直接生成并注册自动化
-- 让 agent 分析摄像头画面并推送主动异常告警
-- 本地部署模型，语音与数据全部留在家庭网络内
+- 用自然语言对话控制家电并创建自动化
+- 摄像头运动触发分析与陌生人识别告警
+- 全本地部署让智能家居数据不出家门
+- 对家居安全状态做定期审计与异常提醒
 
 ## 场景标签
 
-`语音 Agent` `人脸识别` · 领域:对话与助手
+`聊天机器人` `语音 Agent` `人脸识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b7110f4e489f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `90e2965298ec` · [字段定义](../../DATASET.md)*

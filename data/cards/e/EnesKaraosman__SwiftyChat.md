@@ -2,15 +2,15 @@
 
 ⭐ 356 · Swift · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/EnesKaraosman/SwiftyChat) · [官网](https://swiftpackageindex.com/EnesKaraosman/SwiftyChat) · 个人维护
 
-**SwiftUI 聊天 UI 框架：11 种消息类型，跨 iOS/macOS**
+**给 iOS/macOS 开发者的 SwiftUI 聊天界面组件库**
 
-基于 SwiftUI 的轻量级聊天界面框架，供 iOS/macOS 开发者构建聊天应用。提供文本、图片、视频、位置、轮播、快捷回复、链接预览、联系人等 11 种消息类型，5 个主题与通过 environment 注入的完整样式定制，支持自定义消息 cell、多行输入栏、未读指示、回复引用导航与发送重试。单一代码库覆盖 iOS 17+ 与 macOS 14+，唯一包依赖为 Kingfisher，通过 Swift Package Manager 安装。README 说明其适合 AI 聊天机器人与客服界面，但仅提供 UI 层，AI 逻辑需开发者自行接入。
+SwiftyChat 是一个 SwiftUI 聊天 UI 框架，提供 11 种内置消息类型（文本、图片、视频、位置、轮播、快速回复、链接预览等）、5 个演示主题与通过 SwiftUI environment 注入的样式定制。支持 iOS 17+ 与 macOS 14+ 单一代码库，内置 BasicInputView 输入栏、未读消息指示、回复引用导航、失败重试、链接预览辅助类。消息渲染为懒加载，唯一包依赖为 Kingfisher。README 将轮播、快速回复、加载指示等组件定位为适配聊天机器人界面，应用自行实现 AI 逻辑。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 11 种内置消息类型（文本/图片/视频/位置/轮播/快捷回复/链接预览等）
-- iOS 17+ 与 macOS 14+ 单一 Swift 代码库跨平台
-- 支持自定义 SwiftUI 消息 cell 与 ChatMessageCellStyle 全样式定制
-- 唯一包依赖为 Kingfisher
+- 11 种内置消息类型与自定义消息 cell
+- 通过 ChatMessageCellStyle 与 environment 全量样式定制，支持浅色/深色外观
+- 未读指示、回复引用导航、失败重试、分页与流式回复等会话功能
+- 快速回复、轮播、加载指示组件面向机器人对话界面
 
 ## 适用场景
 
-- 为 AI 聊天机器人或客服应用快速搭建聊天界面
-- 构建带轮播、快捷回复、加载状态的对话式应用 UI
-- iOS/macOS 应用中嵌入可深度定制的消息列表与输入栏
+- 为我的聊天机器人 App 搭建 SwiftUI 聊天界面
+- 开发客服消息应用并自定义消息气泡样式
+- 在 iOS 和 macOS 用同一套代码渲染对话 UI
 
 ## 场景标签
 
- · 领域:移动/桌面 UI 组件
+ · 领域:移动开发/用户界面组件
 
 ## 证据(README 行号)
 
 > L3:  A lightweight, cross-platform SwiftUI chat UI framework. Perfect for AI chatbots, customer support, and messaging a
-> L178: ## AI & Chatbot Use Case
 > L189: Building a ChatGPT-style app, a customer support bot, or an in-app assistant? SwiftyChat gives you the UI layer so
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `ba1bd1545d19` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `eedda601fb98` · [字段定义](../../DATASET.md)*

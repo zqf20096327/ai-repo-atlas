@@ -1,10 +1,10 @@
 # bdg9412/artex-ko-plus
 
-⭐ 284 · Go · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/bdg9412/artex-ko-plus) · 个人维护 · 中文 README
+⭐ 284 · Go · AGPL-3.0 · 推送 2026-11-07 · [GitHub](https://github.com/bdg9412/artex-ko-plus) · 个人维护
 
-**ARTEX 韩语版扩展：漏洞诊断、事件调查与检测规则闭环的 Web 平台**
+**韩语版安全验证平台：漏洞诊断、防御验证与自主狩猎**
 
-基于 ARTEX 韩语版（上游 Autumn-27/ARTEX，AGPL-3.0）扩展的攻防验证 Web 应用，保留 Go·Next.js·PostgreSQL 结构。新增：API/源码诊断（Schemathesis·Semgrep 收集候选并逐条 AI 判定）、无漏洞起点的日志事件 AI 调查（文件或 Splunk 日志为证据，只读 Planner/Worker 调查）、检测规则改进与重验证闭环及离线规则评估（TP/FP/precision/recall）。通过 ./scripts/local-start.sh 以 Docker Compose 构建运行；漏洞点检与 AI 调查需用户自行配置 LLM 连接；不自动部署运营 SIEM 规则或阻断策略。
+基于 ARTEX 韩语版 artex-ko 的安全验证项目 AegisLoop：以授权资产上发现的漏洞为起点，由 Planner·Worker 引擎执行渗透诊断并记录证据；再用漏洞证据生成攻击与检测场景草稿（含 SPL 初稿），结合文件或只读 Splunk 日志独立判定复现、检测与阻断；另提供四阶段（Research→Scenario→Hunting→Verification）的 Defensive 自主狩猎，并每 15 分钟采集 CISA KEV 与安全新闻动态。Docker Compose 运行，默认含应用与 PostgreSQL，Splunk 与演练靶场需另行准备。
 
 ## 筛选速览
 
@@ -13,32 +13,34 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Offensive：OpenAPI/URL/HAR/源码 ZIP 输入，Schemathesis·Semgrep 候选收集与逐条 AI 判定续查
-- Defensive：文件或 Splunk 日格证据起点的 AI 事件调查，只读范围限制
-- Closed-loop：漏洞重验证→证据收集→候选规则保存→新验证 ID 重执行的检测改进闭环
-- 离线日志规则评估：基线/候选规则对比，输出 TP/FP/TN/FN·precision·recall
+- Planner·Worker 多智能体引擎在授权范围内执行漏洞诊断并保留资产/探索图
+- 漏洞证据驱动的攻击·检测场景生成，含 SPL 检测规则草稿
+- 四阶段自主狩猎：公开资料核验、假设设计、只读 Splunk 查询、证据判定
+- 支持 Anthropic/OpenAI/Ollama/Amazon Bedrock/OrcaRouter 等多种 LLM 连接配置
 
 ## 适用场景
 
-- 授权环境下做漏洞点检并验证是否被检测/阻断
-- 用历史日志（文件或 Splunk）发起 AI 辅助的入侵事件调查
-- 通过攻击重执行对比检测规则改进前后的检出与误报
+- 在授权测试后验证安全设备与检测规则能否发现和阻断该漏洞
+- 用 Splunk 历史日志对 CVE 与攻击技术做蓝队自主狩猎
+- 跟踪 CISA KEV 与安全新闻并为自有资产筛选狩猎目标
+- 从漏洞复现到入侵调查的完整证据链复盘
 
 ## 场景标签
 
-`网络安全` · 领域:学习与行业
+`多智能体` `网络安全` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L92: 로그 근거 준비와 기초 분석에는 LLM이 필요하지 않습니다. 취약점 점검·재검증과 **AI 조사**에는 사용자가 설정한 LLM 연결이 필요하며, AI 조사 시작 시 선택된 취약점 근거와 로그 발췌가 그 공급
-> L80: |침해 조사|파일 또는 Splunk로 과거 로그 근거를 준비한 뒤 AI 조사를 명시적으로 시작|가설·로그 조회·원문 확인·후속 계획, 관측/추정/자료 부족, 조사 이력과 원문 내보내기|
+> L9: AegisLoop는 ARTEX의 한국어판 artex-ko를 기반으로 한 보안 검증 프로젝트입니다. 허가된 자산에서 찾은 취약점을 출발점으로 공격·탐지 시나리오를 설계하고, 실제 실행 로그로 탐지·차단 여부를 
+> L13: **시스템 → LLM → 새 프로필**에서 모델 연결을 직접 선택할 수 있습니다. 화면에서 제공하는 형식은 **Anthropic**, **OpenAI (Chat Completions)**, **OpenAI 
+> L170: 취약점 상세의 방어 검증·침해 조사는 Splunk 없이 파일 업로드로 시작할 수 있습니다. **자율헌팅은 활성화된 Splunk 연결과 LLM 설정이 필요합니다.** Splunk 연결의 인덱스와 `sourc
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d075f2144dd7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `556cdaa82493` · [字段定义](../../DATASET.md)*

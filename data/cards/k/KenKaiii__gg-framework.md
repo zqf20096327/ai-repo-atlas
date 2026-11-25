@@ -2,44 +2,44 @@
 
 ⭐ 311 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/KenKaiii/gg-framework) · [官网](https://www.kenkais.com) · 个人维护
 
-**桌面 AI 编程与聊天应用，支持多模型接入与视频生成**
+**复用已有 AI 订阅的桌面编程 Agent 与框架**
 
-GG Coder 是面向开发者的桌面 AI 应用（macOS/Windows），提供编程 agent（计划-编辑-测试-验证）、Ken Autopilot 代码审查循环、GG Goals 整体目标交付（可拆分任务给多个并行 worker，支持非代码文件夹）、基于本地开源代码库的 Agent Steroids、带记忆的聊天以及视频生成。接入方式覆盖 Claude/ChatGPT/Gemini/Grok/Kimi 订阅登录、OpenAI/Anthropic/DeepSeek/GLM/MiniMax/OpenRouter 等 API key 及本地模型，支持 MCP 服务器与 Telegram 驱动。同时以 npm 包形式提供框架组件（gg-ai/gg-agent/gg-core/ggcoder）供自建 agent。README 含与其他 19 个编码 agent 的速度与用量对比表格。
+桌面端编程 Agent，通过接入用户已有的 AI 订阅（Claude、ChatGPT、Kimi Code、MiniMax、MiMo）或任意 API key、本地模型来执行编码任务；包含 Agent Steroids（本地检索真实开源代码）、Ken Autopilot（任务验证循环）、一键式安全/合规/无障碍检查与项目健康分。另提供 npm 包（gg-ai/gg-agent/gg-core/ggcoder）供在自己的应用中复用引擎。提供 macOS/Windows/Linux 安装包，README 附带与其他 20 个 Agent 的同任务基准对比数据。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | AGPL-3.0 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Ken Autopilot 审查编码工作并循环推进至完成
-- GG Goals 拆分目标给并行 worker 团队执行，支持非代码文件夹
-- 多提供商接入：订阅登录、API key 与本地模型，含用量计量
-- 框架组件以 npm 包形式可独立用于自建 agent
+- 支持订阅计划、API key 或本地模型多种接入方式
+- Agent Steroids 在本地无限检索真实开源代码
+- 一键检查安全、合规、数据安全、无障碍与测试
+- 提供 gg-ai/gg-agent/gg-core/ggcoder 四个 npm 包供构建自己的 Agent
 
 ## 适用场景
 
-- 让编程 agent 计划、编辑并运行我的测试
-- 把一个整体目标交给应用并行完成（代码、文档、研究）
-- 在同一桌面应用里切换多家 AI 提供商做编码与聊天
+- 用已付费的 AI 订阅驱动编程 Agent 完成编码任务
+- 在自己的应用中集成其 Agent 引擎包
+- 对项目做安全、合规等一键检查并得到健康评分
 
 ## 场景标签
 
-`编码 Agent` `代码审查` `视频生成` · 领域:编码与开发
+`编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L24: GG Coder is a desktop AI app for coding, chatting, running whole goals and making videos. Pick your AI provider, op
-> L59: - **Code:** a coding agent that plans, edits, runs your tests and tells you straight what it verified. Plan mode le
-> L65: - **Your models, your way:** sign in with Claude, ChatGPT, Gemini, Grok or Kimi subscriptions, use API keys for Ope
+> L19: GG Coder is a desktop coding agent that gets more out of the AI subscription you already pay for.
+> L34: - **Your subscriptions.** Claude, ChatGPT, Kimi Code, MiniMax and MiMo plans, any API key, or local models.
+> L93: - **@kenkaiiii/gg-ai**: Connect to AI providers and stream responses.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-26 · 置信度 high · 依据 README sha `6293b9d237bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f2141c85fce5` · [字段定义](../../DATASET.md)*

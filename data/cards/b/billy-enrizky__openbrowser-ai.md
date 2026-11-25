@@ -2,9 +2,9 @@
 
 ⭐ 279 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
 
-**面向开发者的 AI 浏览器自动化框架，LLM 写代码控制网页**
+**面向开发者的 LLM 驱动浏览器自动化框架，用 CDP 执行网页操作**
 
-Python 框架，通过直连 CDP（Chrome DevTools Protocol）与 CodeAgent 架构实现智能浏览器自动化：LLM 在持久化类 Jupyter 命名空间中编写并执行 Python 代码，完成页面导航、交互与信息抽取。支持 15 个 LLM 提供商（OpenAI、Anthropic、Google、Ollama 等），内置 MCP Server（单 execute_code 工具）、CLI 守护进程、会话录制导出为 Jupyter notebook、Claude Code 插件（7 个技能）。自动检测已装 Chromium 内核浏览器，无需单独安装浏览器。提供云端托管版（域名 openbrowser.me，含 Web UI 与定时任务）。
+OpenBrowser 是一个 Python 编写的智能浏览器自动化框架，通过 Chrome DevTools Protocol 直接通信，采用 CodeAgent 架构：LLM 生成 Python 代码并在持久化命名空间中执行，自主完成网页导航、交互与信息提取。支持截图视觉理解、会话录制回放（导出 Jupyter/爬虫代码）、MCP Server 接入多种 AI 助手、CLI 守护进程与插件系统。要求 Python 3.12+，自动检测本地 Chromium 系浏览器，提供托管云版（cookie 保存与定时任务）的等待名单。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Python 框架，通过直连 CDP（Chrome DevTools Protocol）与 CodeAgent 架�
 
 ## 能力要点
 
-- CodeAgent 架构：LLM 在持久化命名空间中编写 Python 代码控制浏览器
-- 直连 CDP 通信，自动检测 Chrome/Edge/Brave/Chromium
-- 支持 15 个 LLM 提供商含本地 Ollama
-- MCP Server、CLI 守护进程、会话录制导出、Claude Code 插件（7 技能）
+- CodeAgent 架构：LLM 在持久化 Jupyter 式命名空间中编写并执行浏览器自动化代码
+- 直接使用 Chrome DevTools Protocol 通信
+- 支持 15 家 LLM 提供商（含本地 Ollama）
+- MCP Server 与 Claude Code 插件（8 个引导技能）
 
 ## 适用场景
 
-- 让 LLM 自动抓取网页数据、填表、登录
-- 通过 MCP 接入 Claude Desktop/Code 等 AI 助手做浏览器操作
-- 录制浏览器会话并导出为 Jupyter notebook 或爬虫代码
-- 端到端测试与页面无障碍审计
+- 自动抓取电商商品信息
+- 自动完成机票预订等网页操作流程
+- 自动填写网页表单
+- 作为 Claude Code/Claude Desktop 的浏览器操作技能
 
 ## 场景标签
 
@@ -38,9 +38,9 @@ Python 框架，通过直连 CDP（Chrome DevTools Protocol）与 CodeAgent 架�
 
 ## 证据(README 行号)
 
-> L30: **AI-powered browser automation using CodeAgent and CDP (Chrome DevTools Protocol)**
 > L32: OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgen
 > L42: - **CodeAgent Architecture** - LLM writes Python code in a persistent Jupyter-like namespace for browser automation
+> L45: - **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRoute
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b500d86dd880` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 low · 依据 README sha `2a2afbe9bac2` · [字段定义](../../DATASET.md)*

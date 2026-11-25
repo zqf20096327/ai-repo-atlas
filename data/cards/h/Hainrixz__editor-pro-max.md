@@ -2,9 +2,9 @@
 
 ⭐ 311 · TypeScript · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Hainrixz/editor-pro-max) · [官网](https://www.tododeia.com) · 个人维护
 
-**用自然语言让 Claude Code 生成视频的本地视频编辑器**
+**让 Claude Code 成为视频编辑器：自然语言生成 MP4**
 
-基于 Remotion + Claude Code 的视频创作工具：用户以自然语言描述需求，Claude Code 编写 React 合成代码，由 Remotion 本地渲染为 MP4。提供 25 个组件、10 个模板（TikTok/YouTube/演示等）、7 个 AI 技能与 5 个流水线脚本（含 Whisper.cpp 词级字幕转录、静音检测、背景移除）。全程本地运行，无需 API key。要求 Node.js 20+ 与 Claude Code CLI，无图形界面，面向熟悉命令行的内容创作者。
+该项目把 Claude Code 接入 Remotion 视频渲染流程：用户用自然语言描述需求，由 Claude 编写 React 组件组合，通过 Remotion 渲染为 MP4。提供 25 个组件（文字动画、背景、overlay、布局、转场）、10 个平台模板（TikTok/Instagram/YouTube/演示等）与 5 个管线脚本（视频分析、音频提取、Whisper 转录、静音检测、背景去除）。全程本地运行，无需 API key，需 Node.js 20+ 与已安装的 Claude Code CLI；Windows 需 WSL。
 
 ## 筛选速览
 
@@ -13,33 +13,34 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 自然语言驱动：Claude Code 编写合成代码，Remotion 渲染 MP4
-- 25 个组件、10 个平台模板、9 种平台尺寸预设
-- Whisper.cpp 本地词级字幕转录与静音检测流水线
-- 无需 API key，全部本地运行
+- 自然语言描述 → Claude 写 React 组合 → Remotion 渲染 MP4
+- 25 个可复用组件、10 个平台模板、12 种转场预设
+- 5 个管线脚本：Whisper 词级字幕、静音检测、背景去除
+- 本地运行，无 GUI 与导出配置，无需 API key
 
 ## 适用场景
 
-- 用一句话生成 TikTok/YouTube 短视频或幻灯片
-- 给口播视频自动加字幕、剪掉静音段
-- 将素材自动剪辑并按平台尺寸导出 MP4
+- 给课程或产品快速生成社交平台宣传视频
+- 给口播视频自动加词级字幕并剪掉静音
+- 从长录像中裁剪出适合 Instagram 的 30 秒片段
+- 按 TikTok/YouTube 等平台尺寸渲染同一内容的多版本
 
 ## 场景标签
 
-`视频生成` `语音识别` `图像视频处理` · 领域:内容生成
+`语音识别` `视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L15: Editor Pro Max turns Claude Code into a professional video editor. Instead of dragging clips on a timeline, you des
-> L61: "Make me a TikTok"  ──>  Writes React composition  ──>  Renders to MP4
-> L78:  - `npx tsx scripts/transcribe.ts` — Whisper AI generates word-level captions
+> L17: No GUI to learn. No export settings to configure. No API keys needed. Everything runs locally on your machine.
+> L128: |Whisper.cpp|Local AI transcription (word-level timestamps)|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `90c853073c54` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `08e5cc8ca5b7` · [字段定义](../../DATASET.md)*

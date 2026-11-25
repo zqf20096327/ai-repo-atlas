@@ -2,9 +2,9 @@
 
 ⭐ 340 · Swift · CC-BY-4.0 · 推送 2026-11-16 · [GitHub](https://github.com/saksham2001/PulseLoopiOS) · 个人维护
 
-**iOS 健康追踪应用：连接廉价智能戒指并内置可选 AI 教练**
+**平价智能指环的 iOS 健康追踪器，可选拒绝付费墙的 AI 教练**
 
-SwiftUI 编写的 iOS 应用，通过蓝牙 LE 直连廉价智能戒指（generic Jring、Colmi/Yawell 家族、R10M、TK5），解码厂商私有协议读取心率、血氧、步数、睡眠分期等数据，本地 SwiftData 持久化，不依赖厂商云与账号。在此之上提供可选的 AI Coach 代理循环，支持 OpenAI、Gemini、OpenRouter、MiniMax、Apple 端侧模型及任意 OpenAI 兼容服务器（Ollama/llama.cpp/vLLM 等），可读取指标、生成图表、长期记忆并支持图片输入。另有 Android 姊妹项目共享 BLE 协议工作。安装途径为 TestFlight 公测或 Xcode 16+ 源码构建（需 iOS 18+ 设备）。TK5 戒指标注为实验性有限支持。
+原生 iOS 健康追踪应用，通过蓝牙 LE 直连指环、解码私有协议（心率、血氧、步数、睡眠分期等），不依赖厂商云与账号，数据经 SwiftData 本地持久化。提供 Today/Vitals/Sleep/Activity 仪表盘、锻炼记录、营养追踪、Apple Health 导出与 Strava 上传。可叠加 AI 教练：基于用户数据的 agent 循环，读取指标、自主分析、绘图、长期记忆，支持 OpenAI/Gemini/OpenRouter/MiniMax/苹果端侧模型及自托管 OpenAI 兼容服务器。支持 8 个驱动家族的指环；CC BY 4.0 许可。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@ SwiftUI 编写的 iOS 应用，通过蓝牙 LE 直连廉价智能戒指（generi
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- BLE 直连智能戒指，解码私有协议，无需厂商云与账号
-- 可选 AI Coach：多提供商/自托管 OpenAI 兼容服务器，带工具、图表生成、长期记忆与图片输入
-- SwiftUI 原生界面 + SwiftData 本地持久化，含运动记录、GPS 路线与实时心率区间
-- 设备无关驱动层，Colmi 戒指两种 BLE 协议均支持
+- BLE 直连指环解码私有协议，无厂商云、无账号
+- 可选拟人 AI 教练：数据分析、绘图、长期记忆与工具调用
+- 8 个驱动家族支持多型号平价指环，含能力检测
+- Apple Health 导出、Strava 上传、GPS 路线与灵动岛组件
 
 ## 适用场景
 
-- 用廉价智能戒指记录睡眠、心率、活动并本地查看
-- 向 AI 教练提问自己的健康趋势，让其分析数据生成图表
-- 拍照食物/标签让教练结合自身数据分析
+- 用平价指环本地追踪睡眠、心率与活动数据
+- 通过 AI 教练提问个人睡眠与恢复情况
+- 自托管本地 LLM 服务器做隐私优先的 AI 分析
+- 将指环数据导出到 Apple Health 或 Strava
 
 ## 场景标签
 
@@ -37,8 +38,9 @@ SwiftUI 编写的 iOS 应用，通过蓝牙 LE 直连廉价智能戒指（generi
 
 ## 证据(README 行号)
 
-> L31: An LLM-native health app for iOS that turns a cheap Bluetooth "smart ring"
-> L37: account) and layers an **optional** AI Coach on top of your own data. Instead of
+> L31: PulseLoop is a native iOS health tracker for affordable Bluetooth smart rings,
+> L63: - **AI Coach** — an agentic loop (OpenAI, Google Gemini, OpenRouter, MiniMax,
+> L145: **Not supported:** Oura, Ultrahuman, RingConn, and the SIMSONLAB **LA380-YJ**.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f799e9f75091` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2d28471a2c44` · [字段定义](../../DATASET.md)*

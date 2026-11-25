@@ -2,9 +2,9 @@
 
 ⭐ 336 · Astro · MIT · 推送 2026-11-21 · [GitHub](https://github.com/elie222/botdirectory.ai) · [官网](https://botdirectory.ai) · 组织维护
 
-**社区维护的 agent 机器人提示词目录网站**
+**面向 agent 用户的社区机器人提示词目录站**
 
-收录可直接复制使用的 agent 提示词（每个 bot 一个 markdown 文件），覆盖邮件分诊、每日简报、SEO、流失预警等场景，面向 Grok Bot、Rakazo 等任意 agent 用户。贡献方式为 fork 后提交 PR 或在 X 上 @botdirectoryai 由 mention bot 代开 PR，CI 校验后上线。提供公共读写 API（分页列表、cursor 同步、bots.json 全量镜像 feed、updates.json 摘要 feed、API key 写入）。本地开发为 Astro 静态站点 + TypeScript + pnpm，MIT 许下由 Inbox Zero Inc. 维护。
+社区维护的 agent 提示词目录：每个 bot 是 bots/ 目录下的一个 markdown 文件，用户复制提示词粘贴到自己的 agent 中，使其配置为定时机器人，覆盖邮件分拣、每日简报、SEO 修复、流失预警等任务。贡献方式包括 fork 仓库提交 PR（CI 校验）或在 X 上 @botdirectoryai 由 bot 代开 PR。提供公开读写 API（分页查询、游标同步、账号注册、以 API 写入自动开 PR）、原始 JSON feed 与本地开发指南（Astro + pnpm）。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 每 bot 一个 markdown 文件，PR/mention bot/写 API 三种贡献方式
-- 公共 API 支持分页、cursor 同步与全量镜像 feed
-- 支持 Grok Bot share link 的 Add to Grok Bot 直达（不重托管配置）
-- Astro 静态站点，CI 校验 bots/ 目录文件
+- 一个 bot = 一个 markdown 文件，CI 校验后合入即上线
+- 公开读写 API：分页查询、cursor 增量同步、JSON 全量 feed
+- 通过 API 写入会自动开 PR，不直接推送 main
+- 支持在 X 上 @botdirectoryai 由 bot 代为提交
 
 ## 适用场景
 
-- 为我的 agent 找现成的定时机器人提示词
-- 提交自己写的 agent 提示词获得曝光
-- 通过 API 镜像或增量同步整个目录数据
+- 为自己的 agent 挑选现成的定时任务提示词
+- 把我的 bot 提示词贡献进目录并暴露给检索
+- 通过公开 API 镜像或同步整个目录数据
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c965606103bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3dbb776dfd93` · [字段定义](../../DATASET.md)*

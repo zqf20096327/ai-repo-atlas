@@ -2,9 +2,9 @@
 
 ⭐ 345 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Fergana-Labs/stash) · [官网](https://www.joinstash.ai) · 组织维护
 
-**让 coding agent 从历史经验中学习的知识与技能基础设施**
+**为 agent 捕捉经验轨迹并沉淀为可复用知识与技能的基础设施**
 
-面向 agent 开发者的开源基础设施：通过 hooks 或 API 捕获生产会话轨迹，由定时 curator 从中提取持久经验并写入 Memory wiki，再以 CLI/MCP/API/虚拟文件系统供后续运行检索，或打包为含 SKILL.md 的技能并经 `stash skills install` 安装到 agent。Python SDK、REST API、MCP 与 CLI 四种访问方式，可自托管。另含奖励模型实验：从评审反馈构造偏好对训练个人奖励模型，经 GEPA 生成候选提示与技能；该功能仅对特定账户开放。
+Stash 提供开源基础设施：通过 hooks 或 API 采集 agent 运行记录与人工修正，由定时 curator 从会话中提炼持久经验并更新 Memory wiki，再经 CLI、MCP、API 或虚拟文件系统供后续运行检索；相关指令与文件可打包为含 SKILL.md 的 Skill，用 stash skills install 安装并在会话开始时自动更新，不改动模型权重。以 Python SDK、REST API、MCP、CLI 形式提供，支持自托管。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- hooks/API 捕获 agent 会话轨迹并提取持久经验
-- 经验以 CLI/MCP/API/虚拟文件系统检索，或打包为 SKILL.md 技能
-- 从轨迹反馈训练个人奖励模型并用 GEPA 优化提示与技能
-- Python SDK、REST API、MCP、CLI 四种访问方式，支持自托管
+- 捕捉 agent 会话轨迹与人工修正，沉淀为持久知识
+- 定时 curator 从会话提取经验并更新 Memory wiki
+- 将指令与文件打包为 SKILL.md 格式的可安装 Skill，自动随会话更新
+- 提供 Python SDK、REST API、MCP 与 CLI 四种接入方式
 
 ## 适用场景
 
-- 把评审对 agent 输出的纠正沉淀为项目规则供后续运行使用
-- 团队维护跨会话的 agent 记忆与可复用技能库
-- 基于生产轨迹反馈训练奖励模型并持续优化提示词
+- 让编码 agent 从历史失败与修正中吸取项目规则
+- 把人工审查意见固化为可复用的检查清单技能
+- 团队共享 agent 经验，跨会话传递变更指令
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`知识库管理` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L14: This repository provides the open-source foundation: trace collection, persistent
-> L87: 1. **Capture experience.** Hooks for coding agents record prompts, tool calls,
-> L93: 3. **Make lessons reusable.** Agents search and read that knowledge through the
+> L16: REST API, MCP, and CLI. It works alongside your existing agents and models.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5c26addd46a7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f8b5f11597e6` · [字段定义](../../DATASET.md)*

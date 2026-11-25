@@ -1,10 +1,10 @@
 # eth-sri/matharena
 
-⭐ 299 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/eth-sri/matharena) · [官网](https://matharena.ai) · 组织维护 · 中文 README
+⭐ 299 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/eth-sri/matharena) · [官网](https://matharena.ai) · 组织维护
 
-**在最新数学竞赛上评测 LLM 的平台（NeurIPS D&B '25）**
+**在最新数学竞赛与奥赛上评测 LLM 的平台**
 
-苏黎世联邦理工学院 SRI 维护的 LLM 数学能力评测平台（matharena.ai 后端代码）：以最新数学竞赛与奥赛题为评测集，通过 YAML 配置文件指定模型与竞赛，运行评测脚本产出答案并可用本地 Web 服务器查看完整推理轨迹；支持 xAI/OpenAI/Anthropic/DeepSeek/OpenRouter/GLM 等 API 提供商及 vllm 本地运行，部分证明类赛题需 judge 脚本或人工评分，ArXivLean 等竞赛支持 codex/claude 等 harness 在 Docker/Podman 中运行。依赖 UV 或 conda 安装，评测日志发布于 Hugging Face。
+MathArena 是一个对 LLM 在最新数学竞赛与奥赛题目上进行评测的平台（NeurIPS D&B '25 论文），托管于 matharena.ai；本仓库包含模型评测的全部代码。用户通过 YAML 配置文件添加模型与竞赛，用 uv 运行评测脚本，支持按题目数量、重跑、容器后端等参数控制；需要判分的竞赛单独运行 judge 脚本，结果通过本地 Web 服务器（Flask 端口 5001）查看，包含模型完整交互轨迹与警告标记。评测日志与推理轨迹发布在 HuggingFace 页面。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 以最新数学竞赛/奥赛（AIME、IMO、Putnam 等）为评测集
-- YAML 配置添加模型，支持十余家 API 提供商与 vllm 本地运行
-- 本地 Web 界面查看最终答案与完整模型交互/Agent 步骤
-- 支持 Docker/Podman 容器化 harness 运行与 LLM judge 评分
+- 支持 AIME、HMMT、IMO、Putnam 等 20+ 竞赛配置，含 ArXivMath/ArXivLean 与 Visual Math
+- 模型经 YAML 配置接入，支持 xai/openai/anthropic/google/deepseek/vllm 等多种 API
+- 可通过 codex/claude/kimi 等 harness CLI 运行 agent 型评测
+- 本地 Web 服务器展示最终答案、完整模型交互与解析警告标记
 
 ## 适用场景
 
-- 把我的模型在最新数学竞赛上跑分并与榜单对比
-- 复现 MathArena 网站上的评测结果
-- 为新数学竞赛构建可复现的 LLM 评测流程
+- 在新发布的数学竞赛题上复现 LLM 评测结果
+- 将自选模型或 agent 接入统一评测流程对比得分
+- 在本地查看模型答题的完整推理轨迹与判分细节
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L15: MathArena (NeurIPS D&B '25) is a platform for evaluation of LLMs on latest math competitions and olympiads. It is h
-> L146:  - `api`: API provider. The API key should be defined as an environment variable when using the specified API. The
+> L50: Execute the following command to evaluate a model on a competition:
+> L149:  - `api`: API provider. The API key should be defined as an environment variable when using the specified API. The
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `821c970ebfee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d8dd3be43cae` · [字段定义](../../DATASET.md)*

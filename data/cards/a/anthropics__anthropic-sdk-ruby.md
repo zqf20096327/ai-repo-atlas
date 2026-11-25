@@ -4,7 +4,7 @@
 
 **Ruby 应用接入 Claude API 的官方 SDK**
 
-Anthropic 官方维护的 Ruby 客户端库，通过 Gemfile 以 gem 'anthropic' 安装，要求 Ruby 3.2.0+。提供消息创建等 API 调用接口，文档托管在 platform.claude.com。内置 OpenTelemetry 支持：默认开启 span 上报，每次 API 调用生成 span 并在请求头携带 traceparent 等追踪上下文；可通过客户端选项或 ANTHROPIC_OPEN_TELEMETRY 系列环境变量调整 span 内容模式、字节上限与传播行为，并支持 gen_ai.conversation.id 标注。Gem 名称由社区开发者捐赠而来。
+Anthropic 官方维护的 Ruby 语言 SDK，让 Ruby 应用能够访问 Claude API。通过 Gemfile 添加依赖即可安装，README 提供初始化调用的入门代码示例，要求 Ruby 3.2.0 以上版本。采用 Apache License 2.0 许可，此前的旧版本及早期第三方贡献仍遵循 MIT 许可（存在双许可历史）。文档托管于 platform.claude.com。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@ Anthropic 官方维护的 Ruby 客户端库，通过 Gemfile 以 gem 'anthropic'
 
 ## 能力要点
 
-- 以 Ruby gem 形式提供 Claude API 访问
-- OpenTelemetry span 默认开启，每次 API 调用自动上报
-- 客户端选项与环境变量两种方式配置追踪行为
-- content 模式可将消息、停止序列与工具调用纳入 span
+- 官方 Ruby SDK，提供 Claude API 访问
+- 通过 Gemfile 安装（anthropic gem ~> 2.13.0）
+- 要求 Ruby 3.2.0+
+- Apache-2.0 与 MIT 双许可历史声明
 
 ## 适用场景
 
-- Ruby/Rails 应用中调用 Claude API 生成回复
-- 通过 OpenTelemetry 追踪和观测 LLM 调用链路
-- 按会话 ID 关联分析多轮请求
+- 在 Ruby 项目中调用 Claude API
+- 为 Ruby 应用集成大模型对话能力
 
 ## 场景标签
 
- · 领域:LLM 基础设施/开发工具
+ · 领域:LLM 基础设施/SDK
 
 ## 证据(README 行号)
 
-> L5: The Claude SDK for Ruby provides access to the Claude API from Ruby applications.
-> L16: gem "anthropic", "~> 1.82.0"
+> L1: # Anthropic SDK for Ruby
+> L5: The Anthropic SDK for Ruby provides access to the Claude API from Ruby applications.
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d724c807346d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `163a2ee32317` · [字段定义](../../DATASET.md)*

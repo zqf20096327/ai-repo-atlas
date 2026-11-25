@@ -2,9 +2,9 @@
 
 ⭐ 276 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PunGrumpy/logixlysia) · [官网](https://logixlysia.vercel.app) · 个人维护
 
-**面向 ElysiaJS 的结构化日志库**
+**ElysiaJS 框架的请求日志中间件插件**
 
-Logixlysia 是为 Bun 运行时上的 ElysiaJS 框架提供的日志库，以插件方式挂载到 Elysia 实例，为每个请求生成访问日志。功能包括：mergeContext 累积请求上下文字段、dev/prod/json 三种输出预设、按大小/时长/数量轮转的文件日志、九个内置输出目标（Axiom、Better Stack、ClickHouse、Datadog、HyperDX、Loki、OTLP、PostHog、Sentry）、头/尾采样控制、日志增补字段、HttpError 结构化错误、请求 ID 与 OpenTelemetry 追踪关联。AI 相关功能为可选的神经脱敏（logixlysia/desertant）与访问日志中的 AI 用量指标。
+面向 ElysiaJS 应用的日志插件，通过 bun 安装后作为插件挂载。为每个请求输出结构化访问行（时间、方法、路径、状态码、耗时），支持 mergeContext 在请求上下文累积字段；按路径 glob 过滤健康检查与静态资源日志；提供 dev/prod/json 输出预设、按大小/年龄/数量的文件轮转、九个内置日志后端适配器（Axiom、Datadog、Loki、Sentry 等）、采样控制、PII 自动脱敏、请求 ID 与 OpenTelemetry 追踪关联。另提供 testing 模块的内存 transport 供测试断言日志内容。MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Logixlysia 是为 Bun 运行时上的 ElysiaJS 框架提供的日志库，以插
 
 ## 能力要点
 
-- 九个内置日志输出适配器（Axiom、Datadog、Loki、OTLP 等）
-- 按大小/时长/数量轮转的文件日志
-- autoRedact 模式脱敏 PII，可选 logixlysia/desertant 神经脱敏
-- OpenTelemetry 追踪关联与访问日志中的 AI 用量指标
+- 路径 glob 的 logFilter 包含/排除路由日志
+- 九个内置日志后端适配器（Axiom、Datadog、Loki、OTLP、Sentry 等）
+- 文件日志按大小/年龄/数量轮转
+- logixlysia/testing 内存 transport 支持测试断言
 
 ## 适用场景
 
-- 在 ElysiaJS 服务中接入结构化请求日志
-- 将日志转发到 Datadog、Loki、ClickHouse 等观测平台
-- 对请求日志中的 PII 做脱敏后落盘或外发
+- 给 ElysiaJS 服务加请求访问日志与结构化错误记录
+- 把日志转发到 Datadog、Loki 等现有观测平台
+- 测试中断言路由的日志输出并自动脱敏 PII
 
 ## 场景标签
 
- · 领域:后端可观测性/日志
+ · 领域:Web 开发/可观测性
 
 ## 证据(README 行号)
 
 > L2:  Logixlysia is a logging library for ElysiaJS
-> L28: - **Redaction**: `autoRedact` masks PII by pattern; `logixlysia/desertant` adds neural redaction. Config docs, Neur
-> L31: - **OpenTelemetry**: trace correlation and AI usage metrics on the access log. Docs
+> L18: import { Elysia } from 'elysia'
+> L67: - **Adapters**: nine built-in destinations, Axiom, Better Stack, ClickHouse, Datadog, HyperDX, Loki, OTLP, PostHog,
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4c4e024edbbb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4d7897405473` · [字段定义](../../DATASET.md)*

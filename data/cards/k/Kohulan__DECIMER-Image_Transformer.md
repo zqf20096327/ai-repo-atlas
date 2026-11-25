@@ -2,9 +2,9 @@
 
 ⭐ 419 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/Kohulan/DECIMER-Image_Transformer) · 组织维护
 
-**深度学习 OCSR 工具：把化学结构图像转为 SMILES 字符串**
+**化学结构图像转 SMILES 的深度学习识别工具**
 
-DECIMER Image Transformer 面向光学化学结构识别（OCSR）任务：使用 EfficientNet-V2 提取图像特征，配合 Transformer 模型预测 SMILES 字符串，将扫描文档、文献中的化学结构图像数字化。训练使用 TFRecord、Google Cloud Buckets、TensorFlow Data Pipeline 与 Google TPU 策略处理超百万图像数据集。以 Python 包形式提供（conda 环境下 pip 安装），提供 predict_SMILES 接口，另有针对手绘化学结构的模型版本。由耶拿大学 Steinbeck 化学信息学组维护，附有 Nat. Commun. 与 J Cheminform 论文。
+DECIMER 2.2 是面向 OCSR（光学化学结构识别）任务的开源深度学习工具：用 EfficientNet-V2 提取图像特征，经 transformer 模型将化学结构图像转换为 SMILES 字符串。通过 Python/pip 分发，模型权重不含在包内，首次调用时从 Zenodo 下载并缓存（约 300 MB），预置模型目录后可离线运行。支持印刷与手绘两种结构模型，训练使用 Google TPU。由耶拿大学 Steinbeck 课题组维护，附三篇可引用论文。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ DECIMER Image Transformer 面向光学化学结构识别（OCSR）任务：使�
 
 ## 能力要点
 
-- EfficientNet-V2 特征提取 + Transformer 预测 SMILES
-- 支持扫描文档与文献中的化学结构图像数字化
-- 另提供手绘化学结构识别模型
-- 训练管线支持 Google TPU 与超百万图像数据集
+- EfficientNet-V2 + transformer 将化学结构图像转 SMILES
+- 支持印刷结构与手绘结构（hand_drawn=True）两种模型
+- 模型权重首次调用时从 Zenodo 下载，可预装目录实现离线运行
+- 基于 TPU 训练，可处理超百万级图像数据集
 
 ## 适用场景
 
-- 从扫描文献或专利中批量提取化学结构为 SMILES
-- 把手绘化学结构图转换为机器可读格式
-- 化学数据数字化流程中的结构识别环节
+- 从扫描文献或专利中数字化化学结构
+- 批量识别论文图片中的分子结构并转为 SMILES
+- 识别手绘的化学结构示意图
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`科研工具` `OCR` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L24: > The DECIMER 2.2 project tackles the OCSR (Optical Chemical Structure Recognition) challenge using cutting-edge co
-> L31:  Now utilizing EfficientNet-V2 for superior image analysis
-> L34:  Employing a state-of-the-art transformer model
+> L61: SMILES = predict_SMILES(image_path)
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e4699de450bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2e931d042c15` · [字段定义](../../DATASET.md)*

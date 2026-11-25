@@ -2,15 +2,15 @@
 
 ⭐ 380 · Vue · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nuxt-ui-templates/chat) · [官网](https://chat-template.nuxt.dev) · 组织维护
 
-**Nuxt 全栈 AI 聊天机器人模板，含认证与聊天历史**
+**开发者可复用的 Nuxt AI 聊天应用模板**
 
-基于 Nuxt UI 组件与 Vercel AI SDK 构建的完整 AI 聊天应用模板：流式 AI 消息（含 thinking/reasoning）、通过 Vercel AI Gateway 接入 Claude Haiku 4.5、Gemini 3 Flash、GPT-5 Nano 多模型，支持 Web 搜索工具、WebSocket 听写转录、图表与天气工具调用渲染、GitHub OAuth 认证、基于 SQLite/Turso 与 Drizzle ORM 的聊天历史持久化、NuxtHub Blob 文件上传。面向 Nuxt/Vue 开发者快速搭建聊天应用，通过 npm create 命令或 pnpm 安装运行，本地开发需配置 AI Gateway API key，可选配置 GitHub OAuth 与 Blob 存储。
+基于 Nuxt UI 与 Vercel AI SDK 的全功能聊天应用模板：流式 AI 回复（含思考/推理）、多模型接入、Web 搜索工具调用、语音听写转写、图表/天气工具的富 UI 渲染，并内置 GitHub OAuth 认证、SQLite/Turso 聊天历史持久化（Drizzle ORM）、文件上传、Markdown 渲染与暗色模式。面向 Vue/Nuxt 开发者快速搭建聊天产品，通过 npm 脚手架创建，本地开发需配置 AI Gateway API key。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 流式 AI 消息与 thinking/reasoning 支持
-- 经 Vercel AI Gateway 接入 Claude/Gemini/GPT 多模型
-- GitHub OAuth 认证与 SQLite/Turso + Drizzle ORM 聊天历史持久化
-- Web 搜索、听写转录、工具调用（图表/天气）与文件上传
+- 流式 AI 消息，支持 thinking/reasoning 输出
+- 经 Vercel AI Gateway 接入 Claude、Gemini、GPT 等多模型
+- Web 搜索、图表与天气的工具调用及富 UI 渲染
+- GitHub OAuth 认证与基于 Drizzle ORM 的聊天历史持久化
 
 ## 适用场景
 
-- 用 Nuxt 快速搭建带认证和聊天历史的 AI 聊天应用
-- 部署到 Vercel 获得自动配置的 AI Gateway 与数据库
-- 作为学习 Nuxt UI + AI SDK 集成的起点模板
+- 为 Nuxt 项目快速搭建带认证与历史记录的聊天界面
+- 基于模板开发多模型对话式产品原型
+- 需要语音听写与工具调用能力的聊天应用开发
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5: Full-featured AI Chatbot Nuxt application with authentication, chat history, collapsible sidebar, keyboard shortcuts
-> L21: - 🤖 **Multiple model support** — Claude Haiku 4.5, Gemini 3 Flash and GPT-5 Nano via Vercel AI Gateway
+> L59: This template uses the Vercel AI SDK for streaming AI responses with support for multiple providers through Vercel 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `185773ea27f2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d11037ed9d2d` · [字段定义](../../DATASET.md)*

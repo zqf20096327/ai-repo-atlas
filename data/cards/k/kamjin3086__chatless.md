@@ -2,9 +2,9 @@
 
 ⭐ 310 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kamjin3086/chatless) · [官网](https://kamjin3086.github.io/chatless) · 个人维护 · 中文 README
 
-**本地优先的桌面 AI 聊天客户端，数据全存本地**
+**本地优先的桌面 AI 聊天客户端，支持多提供商与本地 RAG**
 
-基于 Tauri 2.0 与 Next.js 编写的桌面 AI 聊天客户端，面向终端用户。支持接入多种云端 AI 服务（OpenAI、Anthropic、DeepSeek 等）或本地模型（Ollama、LM Studio），提供 PDF/Word/Markdown 文档解析、本地向量检索 RAG 知识库、Vision 图片分析、MCP 协议集成、Prompt 管理与 WebDAV 提示词同步。数据完全存储在本地，不强制账号。安装包覆盖 Windows/macOS/Linux，部分 Windows 环境需另装 VC++ 运行库。
+基于 Tauri 2.0 与 Next.js 构建的桌面 AI 聊天客户端，可接入 OpenAI、Anthropic、DeepSeek 等云端服务或 Ollama、LM Studio 本地模型，数据存储在本地。功能包括 PDF/Word/Markdown 文档解析、向量检索知识库（RAG）、Vision 模型图像分析、MCP 协议集成、Prompt 管理与 WebDAV 多设备同步。Windows/macOS/Linux 提供 GitHub Releases 安装包；Windows 部分环境需安装 VC++ 运行库。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 多提供商接入：云端 API 与本地模型（Ollama/LM Studio）
-- 本地 RAG 知识库，支持 PDF/Word/Markdown 解析与向量检索
-- MCP 协议集成扩展第三方工具
-- 数据本地存储，WebDAV 同步 Prompt（tombstone 策略）
+- 多 AI 提供商支持：云端服务与 Ollama、LM Studio 本地模型
+- 本地 RAG 知识库：解析 PDF/Word/Markdown 并向量检索
+- MCP 协议集成扩展第三方工具能力
+- WebDAV 同步提示词，数据本地存储
 
 ## 适用场景
 
-- 在桌面端用一个客户端对接多个云端或本地模型聊天
-- 把自己的文档做成本地知识库做问答检索
-- 离线或隐私敏感场景下配合 Ollama 使用本地模型
+- 在本地桌面端与多家云端模型或本地模型对话
+- 导入 PDF/Word 文档构建知识库辅助问答
+- 离线或注重隐私的场景下使用本地模型聊天
 
 ## 场景标签
 
-`聊天机器人` `RAG` `文档问答` · 领域:对话与助手
+`聊天机器人` `文档问答` `文档解析` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L18: chatless 是一个桌面 AI 聊天客户端，支持接入多种云端 AI 服务（OpenAI、Anthropic、DeepSeek 等）或本地模型（Ollama、LM Studio）。数据完全存储在本地，支持文档解析与向量检索（RA
-> L22: - 多 AI 提供商支持 - 云端服务与本地模型
+> L5:  基于 Tauri 2.0 与 Next.js 的本地优先 AI 聊天客户端
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `30ab88e1b95a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e97371a2b3cf` · [字段定义](../../DATASET.md)*

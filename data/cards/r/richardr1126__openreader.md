@@ -2,9 +2,9 @@
 
 ⭐ 595 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/richardr1126/openreader) · [官网](https://openreader.richardr.dev) · 个人维护
 
-**自托管友好的多格式文档朗读阅读器，支持同步高亮与有声书导出**
+**自托管 TTS 文档阅读器：EPUB/PDF 等随读高亮并导出有声书**
 
-基于 Next.js 的文本转语音文档阅读服务器，读取 EPUB、PDF、DOCX、TXT、MD 五种格式，提供逐词同步高亮的跟读播放。关键机制：PP-DocLayoutV3（ONNX）做版面感知 PDF 解析，ONNX Whisper 做词级对齐，后台渐进生成音频并复用缓存；支持多 TTS 提供方（本地 Kokoro 无需 API key、OpenAI 兼容自托管服务及多家云 API）；可导出 M4B/MP3 有声书。提供 macOS/Windows/Linux 桌面应用与 Docker 部署两种形态，后端可选 SQLite/Postgres 与 S3 兼容存储。
+基于 Next.js 的开源文本转语音文档阅读器，支持 EPUB、PDF、TXT、MD、DOCX 五种格式的同步跟读播放与 M4B/MP3 有声书导出。核心机制包括：PP-DocLayoutV3（ONNX）做版面感知 PDF 解析以实现跨页高亮同步；Kokoro 本地音素时长生成逐词高亮，其他提供商则用 ONNX Whisper 对齐；后端为 NATS JetStream 支撑的 compute worker，配合嵌入式 SeaweedFS/S3 存储与 SQLite/Postgres。提供 macOS/Windows/Linux 桌面安装包，也支持 Docker Compose、Vercel 部署与自托管服务，内置 MCP 服务器与版本化 REST API。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 五种文档格式的同步跟读朗读
-- 多 TTS 提供方：本地 Kokoro 无需 API key，兼容 OpenAI 等云 API
-- PP-DocLayoutV3 版面感知 PDF 解析与 ONNX Whisper 词级对齐
-- M4B/MP3 有声书导出，复用播放缓存
+- 五种可读格式（EPUB/PDF/TXT/MD/DOCX）同步跟读播放
+- PP-DocLayoutV3 (ONNX) 版面感知解析与逐词高亮
+- 多提供商 TTS：本地 Kokoro 无需 API key，另支持自托管 OpenAI 兼容服务器与多家云 API
+- M4B/MP3 有声书导出，及内置 MCP 服务器与 REST API
 
 ## 适用场景
 
-- 阅读 EPUB/PDF 等文档时边听边看跟读高亮
-- 把文档导出为有声书离线收听
-- 家庭或团队自托管部署多人使用的朗读服务
+- 把 EPUB/PDF 文档转为可跟读的朗读页面并同步高亮
+- 将电子书导出为 M4B/MP3 有声书
+- 为团队自托管一个多格式文档朗读服务
+- 录制或导入短样本用自己的声音叙述文档
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5e104b01318a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a5c0687edfc0` · [字段定义](../../DATASET.md)*

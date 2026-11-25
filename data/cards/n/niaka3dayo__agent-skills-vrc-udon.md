@@ -1,10 +1,10 @@
 # niaka3dayo/agent-skills-vrc-udon
 
-⭐ 369 · Shell · MIT · 推送 2026-11-11 · [GitHub](https://github.com/niaka3dayo/agent-skills-vrc-udon) · 个人维护 · 中文 README
+⭐ 369 · Shell · MIT · 推送 2026-11-11 · [GitHub](https://github.com/niaka3dayo/agent-skills-vrc-udon) · 个人维护
 
-**教 AI 编程代理正确生成 UdonSharp 代码的技能与规则知识库**
+**教 AI 编码代理生成正确 UdonSharp 代码的技能知识库**
 
-面向 VRChat 世界开发者的知识库项目：以 SKILL.md 技能、约束规则文件和校验钩子三种形式，向 AI 编程代理提供 UdonSharp（C#→Udon Assembly）的编译约束、网络同步模式、SDK 版本特性映射与 17 个代码模板。PostToolUse 钩子在编辑 .cs 文件后自动检测被阻塞的 C# 特性（async/await、List<T>、LINQ 等）并按 ERROR/WARNING 分级告警。自 v1.0.0 起以 npm 包分发，支持 skills CLI、Claude Code 插件与 git clone 三种安装方式；不提供可执行代码，仅验证至 VRChat SDK 3.10.5，不接受 PR，由维护者独立更新。
+面向 AI 编码代理的 VRChat UdonSharp 知识库，包含技能文件（SKILL.md）、约束规则与验证钩子三类内容：技能覆盖编译限制、网络同步、事件、SDK 版本特性与 17 个代码模板；规则文件在代码生成前约束代理行为；PostToolUse 钩子检查代理写入的每个 .cs 文件并将发现反馈给代理，且从不阻止编辑。仅支持最新稳定 SDK 3.10.6，旧版条目标为历史参考。不分发 VRChat SDK 或 UdonSharp，不含可执行代码。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- UdonSharp 编译约束知识：被阻塞 C# 特性及其替代方案（List<T>→DataList 等）
-- 同步决策树与数据预算目标（每 behaviour <50 字节）
-- Bash/PowerShell 校验钩子自动检测违规代码并分级报错
-- 17 个代码模板覆盖交互、同步、持久化与编辑器工具
+- 技能+规则+验证钩子三层结构，钩子检查代理写入的每个 .cs 文件
+- 覆盖 Udon 运行时禁用的 C# 特性及其替代方案（List<T>→DataList 等）
+- 包含同步决策树、数据预算目标与反模式库
+- 同时支持 Bash 与 PowerShell 验证器，兼容 Codex 的 apply_patch 输入
 
 ## 适用场景
 
-- 让 Claude Code 等 AI 代理在 VRChat 项目中生成可编译的 UdonSharp 代码
-- 编辑 .cs 文件后自动校验 Udon 不支持的 C# 特性与网络同步问题
-- 查询不同 VRChat SDK 版本的功能引入记录以做迁移参考
+- 在 VRChat Unity 项目中让 Claude Code/Codex/Gemini CLI 生成符合 Udon 约束的代码
+- 为世界开发查找 SDK 3.10.6 特性参考与同步模式模板
+- 用验证钩子自动检测 AI 生成代码中的运行时禁用特性与同步膨胀
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L14:  Skills, rules, and validation hooks that teach AI coding agents to generate correct UdonSharp code
 > L29: This repository provides AI coding agents with the knowledge to generate correct UdonSharp code from the start.
-> L230: > This repository is a **personal knowledge base** for AI coding agents to generate correct UdonSharp code. It doe
+> L248: > This repository is a **personal knowledge base** for AI coding agents to generate correct UdonSharp code. It doe
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0b6d14366f92` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `891f0c122266` · [字段定义](../../DATASET.md)*

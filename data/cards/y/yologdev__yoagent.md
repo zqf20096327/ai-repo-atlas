@@ -2,9 +2,9 @@
 
 ⭐ 380 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/yologdev/yoagent) · [官网](https://yologdev.github.io/yoagent/) · 组织维护 · 中文 README
 
-**Rust agent 循环库：接入 7 种 LLM 协议，运行工具直至完成**
+**Rust 的 agent 循环库：接入 7 种 LLM 协议，运行工具循环至完成**
 
-面向 Rust 开发者的 agent loop 库（crate），提供 prompt→LLM 流→工具调用（经策略门控）→完成检查的循环，支持 Anthropic Messages、OpenAI Completions/Responses、Azure、Gemini、Vertex、Bedrock 共 7 种原生协议。通过单一 Extension 插件契约扩展工具策略、输入检查、脱敏、预算与审计；支持会话树分支、子 agent、MCP（stdio/HTTP）、OpenAPI 工具、结构化输出与离线 MockProvider 测试。可编译到 wasm32 并运行于 Cloudflare Workers；不包含向量存储、嵌入或任务图编排层，明确将 RAG/编排类需求指向 rig、swiftide 等项目。MSRV 1.86。
+面向 Rust 开发者的 agent 循环库（crates.io 发布，版本 0.27）：提供事件流、工具调用门控、循环终止检查与执行限制；通过 Extension 插件契约支持输入检查、工具决策、结果脱敏与审计；会话历史为树状结构，支持分支、检查点与重放，运行可记录为 GASP 事件日志。原生支持 7 种线上协议（Anthropic Messages、OpenAI Completions/Responses、Azure、Gemini、Vertex、Bedrock），可编译为 wasm32 运行于 Cloudflare Worker。不含向量存储与 RAG 管线，相关需求被引导至 rig/swiftide 等其他库。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 7 种原生 LLM 线协议实现，保留各 provider 特有特性
-- 单一 Extension 契约覆盖工具策略、输入检查、脱敏、审计等环节
-- 会话以树结构组织，支持分支、检查点与回放
-- 同一代码可原生构建并编译到 wasm32 运行于 Cloudflare Workers
+- 7 种原生线上协议接入 20+ 提供商，而非单一 OpenAI 兼容层
+- Extension 单一契约：工具门控、输入检查、脱敏、fail-closed 语义
+- 会话历史为树状，支持 fork/checkpoint/seek 与中途转向
+- MockProvider 离线脚本化多轮工具调用测试，无需网络与 key
 
 ## 适用场景
 
-- 在 Rust 项目中自建带工具调用的 agent 而不引入整套框架
-- 为工具调用加策略门控、脱敏与审计日志
-- 在 Cloudflare Workers 等边缘环境运行 agent loop
-- 用 MockProvider 离线测试 agent 的中断与转向路径
+- 用 Rust 构建自托管的编码 agent 循环
+- 需要工具调用策略门控与审计日志的 agent 应用
+- 将 agent 编译为 wasm32 部署到 Cloudflare Worker
 
 ## 场景标签
 
@@ -38,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L12: **The agent loop for Rust.** Stream from any of 7 LLM protocols, run tools, loop until done.
-> L14: A loop library, not an agent: it powers yoyo, a coding agent evolving its own source since March 2026, and runs fro
-> L101: - **7 native wire protocols**, not one OpenAI-compat shim with adapters bolted on. Anthropic
+> L12: **The agent loop for Rust.** Stream from any LLM protocol, run tools and extensions, loop until done.
+> L87: So it ships **no** vector stores, embedding pipelines, or task-graph layer — if your problem is
+> L98: - **The loop is a free function.** `agent_loop()` is stateless and takes
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9adc3070274a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6d02191b57d1` · [字段定义](../../DATASET.md)*

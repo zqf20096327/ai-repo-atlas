@@ -1,10 +1,10 @@
 # ncoevoet/facet
 
-⭐ 404 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ncoevoet/facet) · [官网](https://ncoevoet.github.io/facet/) · 个人维护 · 中文 README
+⭐ 404 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ncoevoet/facet) · [官网](https://ncoevoet.github.io/facet/) · 个人维护
 
-**本地照片 AI 评分与筛选引擎：评分、人脸识别、语义搜索**
+**本地照片评分与选片引擎：打分、筛选并建立人脸/语义检索图库**
 
-本地运行的照片分析与筛选系统：对每张照片按美学、构图、面部质量等 9 个维度评分，支持 JPG/RAW/HEIF 等格式解析；提供 Web 画廊浏览、连拍检测、眨眼标记、相似照片分组与一键自动筛选；人脸识别可聚类与合并人物，语义搜索用自然语言找图，另有时间线、地图、统计看板与 AI 评语/描述（部分功能标注 Edition 或 GPU/显存要求）。全部在本机运行，无需云端账号或 API key。后端 FastAPI，前端 Angular。
+Facet 是本地运行的照片分析与选片引擎：对每张照片按审美质量、构图、人脸质量、清晰度等 9 个维度打分，按 30+ 内容类别加权；检测连拍、闭眼、相似照片与重复图，支持一键 auto-cull、终端命令行选片，并识别包围曝光/全景/HDR 序列整组保留。提供 Web 图库（滤镜、语义搜索、时间线、地图）、人脸识别分组、相册管理与评分，以及分享链接、客户选片校样、MCP 端点。全部在本机运行，无云端、账号或 API key；GPU 可选，无 GPU 时可指向远程 vlm_backend。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-24g` | |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 9 维度照片评分与 30+ 内容类别的加权分类
-- 连拍/包围曝光/全景序列检测与一键自动筛选
-- 人脸检测、人物聚类与眨眼标记
-- 自然语言语义搜索与地理地图浏览
+- 9 维度照片评分与按类别的权重调节，可从 A/B 比较学习个人偏好
+- 连拍/相似/闭眼/重复检测与带 dry-run 预览的 auto-cull
+- 语义搜索（"sunset on the beach"）与人脸识别分组管理
+- 零样本杂物清扫（截图/文档/表情包）与零样本场景标签
 
 ## 适用场景
 
-- 摄影师从大批照片中快速选出最佳照片
-- 按人物、场景、内容标签整理本地照片库
-- 向客户发送选片链接进行确认与评论
+- 从大量本地照片中筛选最佳照片并剔除连拍废片
+- 自建无人脸云服务的人脸分组与语义检索照片库
+- 通过分享链接让客户对选片进行标记与评论
+- 用 Ollama/OpenAI 兼容后端补充 VLM 打标与说明生成
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L5: Facet is a local photo-analysis and culling engine. It scores each image across 9 dimensions — from aesthetic qualit
-> L17: 1. **Scan** — Point Facet at a folder of photos. Each image is analyzed for quality, composition, and faces. Suppor
 > L27: Each photo is scored across 9 dimensions: aesthetic quality, composition, face quality, eye sharpness, technical sh
+> L147: - **No GPU?** Point VLM tagging, captions and critique at a remote **Ollama** or **OpenAI-compatible** server with
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c247d3708464` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f594f2f40960` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 358 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/GUYI-AI/gugu) · [官网](https://gugu.nextmind.space) · 组织维护 · 中文 README
 
-**连接用户与 AI agent 的桌面/安卓协作客户端**
+**连接 agent 与团队成员的桌面/Android 协作客户端**
 
-基于 Electron/Capacitor 的桌面与 Android 客户端，让用户在自己机器上运行 Claude Code、Codex 等 agent，并与他人在共享群组和文件中协作。功能包括分屏工作区、群组文件夹内文件编辑、个人助手（提醒与日程）、按任务选择引擎与模型（gugu 模型、API key 或自有 Claude Code/Codex 登录）、agent 团队分工、可安装 Apps 市场、MCP 服务器接入、通过 SSH 或远程隧道添加机器。自托管依赖 gugu-supabase 仓库提供账户、消息同步与权限。许可为修改版 Apache 2.0。
+gugu 是一个桌面与 Android 客户端，用户在自己机器上运行 Claude Code、Codex 等 agent，并在共享群组、文件与应用中与 agent 和其他人协作。功能包括分屏工作区（聊天/文件/应用并排）、每群组一个文件夹的文件协同编辑、个人助理（记忆、提醒、日程）、按任务选择引擎与模型（官方模型、API key 或自有 Claude Code/Codex 登录）、lead agent 拆分子 agent 的项目树、应用市场（Context、Data Lens、Gugu Office、Arcade）、MCP 服务器库，以及通过 SSH/远程隧道把 agent 添加到其他机器。提供 macOS/Windows/Linux/Android 下载与自托管仓库。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 按任务选择引擎与模型（gugu 模型、API key 或自有 Claude Code/Codex 登录）
-- agent 团队分工：主 agent 启动命名子 agent，项目树展示分工
-- Apps 市场：安装后人类用页面、agent 用工具与 Skills
-- 支持添加 MCP 服务器与通过 SSH/远程隧道接入机器
+- 群组内共享上下文与文件，agent 编辑实时写入打开的文档
+- lead agent 生成按职责命名的子 agent，项目树展示分工
+- 按任务选择引擎与模型：官方模型、API key 或自有 Claude Code/Codex 登录
+- MCP 服务器库与开源应用市场（应用自带工具与 Skills）
 
 ## 适用场景
 
-- 在自己的设备上运行 Claude Code/Codex 并与 agent 对话协作
-- 团队在共享群组和文件中与多个 agent 协同完成工作
-- 为 agent 安装 MCP 服务器和 Apps 扩展工具能力
+- 与同事在群组中共享 agent 与文件协作完成任务
+- 用个人助理记录请求并设置提醒和日程
+- 通过应用市场安装 Calendar/Data Lens 等应用扩展聊天场景
+- 把 agent 部署到服务器或远程机器上运行任务
 
 ## 场景标签
 
@@ -39,7 +40,6 @@
 
 > L15: gugu is a desktop and Android client. You run Claude Code, Codex and other agents on your own machines, and work wi
 > L35:  </a> Pick an engine and a model for each task: gugu's models, an API key, or your own Claude Code and Codex sign-i
-> L49:  </a> Add MCP servers in the library. Installed Apps bring their own tools and Skills for agents.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `2cd299308b67` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c1588d3fe555` · [字段定义](../../DATASET.md)*

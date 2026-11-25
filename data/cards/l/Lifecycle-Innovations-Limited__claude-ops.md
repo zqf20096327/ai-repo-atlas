@@ -2,9 +2,9 @@
 
 ⭐ 562 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Lifecycle-Innovations-Limited/claude-ops) · [官网](https://github.com/Lifecycle-Innovations-Limited/claude-ops/wiki) · 组织维护
 
-**把 Claude Code 变成企业运营操作系统的插件（68 技能/多 agent）**
+**面向 Claude Code 用户的商业运营插件：收件箱、营收、运维一站式**
 
-以 Claude Code 插件形式交付的运营层：68 个技能覆盖晨报仪表盘、统一收件箱、自主 PR 合并、全 AWS 基础设施监控、收入（Stripe/RevenueCat）、电商（Shopify）、营销（Klaviyo/Meta/GA4）与语音（Twilio/Bland/ElevenLabs）等 22 项服务集成；通过 launchd 后台守护进程预热数据，技能用 shell 块在模型上下文加载前采集数据。提供 Claude Code marketplace 一键安装，也可经 installer 以 npm 脚本镜像到 Codex/Grok/Cursor 等多个 CLI。多处机制（launchd、Phone.app、Continuity）面向 macOS。
+一个 Claude Code 插件（含 Hermes/Grok/Codex 等多 CLI 安装器），提供 70 个 /ops 技能与专家 agent：晨间简报仪表盘、统一收件箱（WhatsApp/Email/Slack/Telegram）、自主 PR 合并与构建失败自动修复、AWS/数据狗监控、营收快照、Shopify 电商与 Klaviyo/Meta/GA4 营销、语音通话表面（Twilio/Bland/ElevenLabs/Zoom）。后台 launchd 守护进程预热数据；外发消息走逐条审批门；含安全钩子与预算上限。
 
 ## 筛选速览
 
@@ -13,33 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 68 个技能 + 专家 agent 路由，覆盖工程、业务、自动化与维护
-- 22 项服务集成，多数提供 MCP OAuth 与 CLI 双通道
-- launchd 后台守护进程预热数据，晨报从冷启动约 30s 降至 3s 内
-- 跨 CLI 安装器可把技能镜像到 Codex/Grok/Cursor 等多个 CLI
+- 70 个 /ops 技能 + 专家 agent，覆盖运维/营收/电商/营销/语音
+- 统一收件箱聚合 WhatsApp/Email/Slack/Telegram 等渠道
+- 自主 PR 合并与构建失败自动修复（预算上限+单飞锁+内容哈希去重）
+- 跨 CLI 安装器镜像技能到 Claude Code/Codex/Gemini/Cursor 等布局
 
 ## 适用场景
 
-- 在 Claude Code 里一站式查看基础设施、CI、收入与 PR 状态
-- 让自主 agent 处理收件箱、PR 合并与构建失败自动修复
-- 统一管理跨 WhatsApp/Email/Slack/Telegram 的消息
+- 每天早晨一条命令获取业务与基础设施状态简报
+- 由 agent 自主合并 PR 并修复构建失败
+- 在一个界面处理多渠道收件箱与客户关系
+- 查询 Stripe/RevenueCat 营收与 Shopify 订单运营
 
 ## 场景标签
 
-`多智能体` `工作流自动化` · 领域:Agent 开发
+`编码 Agent` `工作流自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3: **Business Operating System for Claude Code**
+> L7: Claude Code Plugin
 > L24: Turn Claude Code into a complete business operating system — infrastructure health, CI/CD status, unified inbox, op
-> L77: git clone https://github.com/Lifecycle-Innovations-Limited/claude-ops.git
+> L109: All 70 skills, grouped by category:
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6a50998b0588` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8350d8a9e836` · [字段定义](../../DATASET.md)*

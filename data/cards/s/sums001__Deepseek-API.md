@@ -2,9 +2,9 @@
 
 ⭐ 382 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/sums001/Deepseek-API) · 个人维护
 
-**将 DeepSeek 网页聊天封装成 OpenAI 兼容本地 API 的桥梁**
+**把 DeepSeek 网页聊天转为本地 OpenAI 兼容 API**
 
-逆向工程 chat.deepseek.com 的非官方项目：用用户自己的免费 DeepSeek 账号登录，把网页聊天转为可编程接口。提供两种形态——Python 库（DeepSeekClient，支持流式与多轮对话）和运行在 localhost:8000 的 OpenAI 兼容 FastAPI 服务器，官方 openai SDK 可直接指向使用。自动处理 AWS WAF 人机验证与 PoW 挑战（在 wasmtime 沙箱内运行 DeepSeek 的 wasm 模块）。限制：单账号串行无并发、请求按 IP 限流、多数 OpenAI 参数被忽略、不支持视觉。
+逆向工程 chat.deepseek.com 的免费网页聊天，将其封装为可编程访问的接口：既可作为 Python 库（chat/stream 方法、多轮会话），也可启动 FastAPI 服务器暴露 OpenAI 格式的 /v1/chat/completions 端点，官方 openai SDK 无需改动即可指向 localhost 使用。自动处理 AWS WAF 人机验证与 PoW 挑战（wasmtime 沙箱运行官方 wasm 模块），浏览器登录一次后会话缓存于 session/ 并自动刷新。限制：上游调用串行、按 IP 自限流、多数 OpenAI 参数被忽略、无视觉能力、需遵守 DeepSeek 条款。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Python 库与 OpenAI 兼容本地服务器两种使用方式
-- 自动处理人机验证与 PoW 挑战，会话缓存约 6 小时并自动刷新
-- 支持流式输出、多轮对话、DeepThink 推理与联网搜索开关
-- 依赖项内置滑动窗口限流（默认 30 请求/分钟/IP）
+- OpenAI 兼容本地服务器，官方 openai SDK 可直接指向使用
+- 自动处理人机验证与 PoW 挑战，会话缓存并自动刷新
+- 支持流式输出、多轮会话、DeepThink 与联网搜索开关
+- 提供 Docker Compose 部署与按 IP 滑动窗口限流
 
 ## 适用场景
 
-- 在没有 API 付费预算时用代码调用 DeepSeek 模型
-- 让现有 OpenAI SDK 应用零改动切换到本地 DeepSeek 接口
-- 个人项目中获得流式与多轮对话能力
+- 让现有 OpenAI 客户端应用直接调用 DeepSeek 模型
+- 在 Python 脚本中以库形式调用 DeepSeek 聊天
+- 自托管轻量 LLM API 用于个人开发测试
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L8: - 🔌 **As a local OpenAI-compatible API:** runs a server at `http://localhost:8000/v1` that speaks the OpenAI format,
-> L88: python app.py
+> L83: ## Usage 2: As an OpenAI-compatible server
+> L224: |server/|The FastAPI OpenAI-compatible server|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `da378dee0942` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d900e80c6e10` · [字段定义](../../DATASET.md)*

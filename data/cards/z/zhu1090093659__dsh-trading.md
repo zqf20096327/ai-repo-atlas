@@ -2,9 +2,9 @@
 
 ⭐ 373 · TypeScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/zhu1090093659/dsh-trading) · [官网](https://dsh-trading.win) · 个人维护 · 中文 README
 
-**给个人交易者的 agent 原生多市场交易终端与量化研究平台**
+**面向个人交易者的 agent-native 多市场交易终端，实盘下单前须人工审批**
 
-基于 DeepSeek Harness（DSH）与 Cordis 微内核的开源交易终端：三栏 GUI 聚合加密货币、美股、A股、港股与中国商品期货行情，提供 19+ 热插拔行情/经纪商连接器、TradingView Lightweight Charts v5 图表、内置策略回测与指标编写。AI 侧以角色化多智能体团队（master/researcher/trader/risk-reviewer）自主查询行情工具、做财报分析与估值研究并起草交易计划；订单默认 dry-run 模拟，实盘需 liveTrading 显式开启并经人工确认门与 Ed25519 权限层，无头环境 fail-closed。BYOK，密钥与交易记录仅存本地。安装器按启用市场生成四个角色预设。
+基于 DeepSeek Harness（DSH）与 Cordis 微内核构建的开源交易终端与多智能体量化研究平台，覆盖加密货币、美股、A股、港股、国内期货及全球商品/外汇/预测市场，提供 19+ 可热插拔连接器。界面为三列工作台：行情图表（TradingView Lightweight Charts v5）、策略回测与选股器、知识图谱，以及右侧任务/持仓/快讯面板。多智能体团队由 master 统领，含研究员、交易员、风险审查员角色。默认 dry-run 模拟，实盘单需显式开启 liveTrading 并通过交互式人工审批与 Ed25519 授权，无头环境 fail-closed。BYOK，密钥与数据保存在本地。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 多市场统一工作区：加密、美股、A股、港股、商品期货，19+ 连接器
-- 角色化多智能体团队（master/researcher/trader/risk-reviewer）驱动原生行情与研究工具
-- 零信任双轨审批：默认 dry-run，实盘订单需人工确认与 Ed25519 权限层，无头环境 fail-closed
-- 内置 strategy_backtest 回测引擎与 15+ 技术指标、机构级研究清单与估值手册
+- 单一工作台覆盖六大市场，19+ 连接器（Binance、OKX、Alpaca、IB、MiniQMT、Longbridge 等）
+- 多智能体团队：master + researcher/trader/risk-reviewer 三个委托预设
+- 双轨审批门：默认 dry-run，实盘需显式开启、人工点击审批与 Ed25519 授权
+- 内置策略回测引擎（6 种范式）与 5 个市场选股器
 
 ## 适用场景
 
-- 在一个终端里同时跟踪加密货币、美股、A股、港股持仓与行情
-- 让 AI 研究团队起草交易计划并做风险压力测试，实盘前人工审批
-- 对系统化交易信号做历史回测与自定义指标验证
+- 在同一个终端里看加密货币、美股、A股、港股行情并管理持仓
+- 让 AI agent 按内置风控清单做交易前分析并起草交易计划
+- 本地回测趋势/均值回归等策略并运行市场筛选器
+- 实盘下单前强制人工审批，防止 agent 擅自执行
 
 ## 场景标签
 
-`多智能体` `金融量化` · 领域:Agent 开发
+`多智能体` `知识图谱` `金融量化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L7: **dsh-trading** is an open-source, agent-native AI trading terminal and quantitative investment research platform bu
-> L30: - **Agent-Native Multi-Agent Orchestration:** A collaborative AI team (`master` lead, `instrument-researcher`, `tra
-> L33: - **Zero-Trust Safety & Dual-Track Approval Gate:** Dry-run simulation by default; live broker orders require expli
+> L7: **dsh-trading** is an open-source, agent-native AI trading terminal, cross-platform desktop application (macOS / Win
+> L9: Combining TradingView Lightweight Charts v5 (with right-click **KDAS key-day anchored lines** and cross-source 5-day
+> L35: - **Zero-Trust Dual-Track Gate & BYOK Privacy:** Order routing defaults to dry-run simulation; live orders require 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `d2e6945bdef4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `276a0acabada` · [字段定义](../../DATASET.md)*

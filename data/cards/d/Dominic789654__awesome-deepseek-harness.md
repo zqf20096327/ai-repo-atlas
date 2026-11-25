@@ -1,10 +1,10 @@
 # Dominic789654/awesome-deepseek-harness
 
-⭐ 436 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Dominic789654/awesome-deepseek-harness) · 个人维护 · 中文 README
+⭐ 436 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Dominic789654/awesome-deepseek-harness) · 组织维护 · 中文 README
 
-**DeepSeek Harness（DSH）生态插件策展清单**
+**为 DeepSeek Harness（DSH）生态收录插件/技能/MCP 服务器的清单**
 
-面向 DeepSeek Harness（DeepSeek 官方 agent 运行时）的社区策展清单，收录插件、技能、MCP 服务器、patch/profile 层、编排器与 UI 等生态项目，按近期新增与官方精选组织。条目附星标数、安装命令（dsh plugin add）与团队推荐原文，要求被收录仓库携带 #dsh GitHub topic 以便索引。README 为中英双语，提供 Quick Start 命令与官方仓库链接，本身不含可运行代码。
+围绕 DeepSeek 官方 agent 运行时 DeepSeek Harness（DSH）维护的社区生态清单，按官方精选、插件目录、Profiles 与补丁层等分类收录仓库条目，附星标数与入选日期。收录机制依赖 GitHub `#dsh` topic 供发现与索引，接受社区 PR 投稿，另收录 DSH 团队负责人在 X 上推荐的插件系列并保持与中文版 README 同步。快速启动部分给出 DSH Web UI 的 npx 启动命令与插件安装命令。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录插件、技能、MCP 服务器、profile 层、编排器与 UI 等类目
-- 含官方团队推荐（Official Picks）与近 7 天新增（自动生成）分区
-- 条目附 dsh plugin add 安装命令与星标数
-- 要求被收录项目携带 #dsh GitHub topic
+- 按官方精选/插件目录/Profiles & Patch Layers 等分类收录生态仓库
+- 通过 GitHub `#dsh` topic 与 PR 流程实现收录与发现
+- 收录 DSH 团队负责人在 X 的推荐系列并链接原帖
+- 提供中英双语 README 并保持同步
 
 ## 适用场景
 
-- 为 DSH 运行时查找社区插件、技能与 UI
-- 了解 DeepSeek Harness 插件生态的构成与官方推荐
-- 插件作者提交自己的 #dsh 仓库进入索引
+- 为 DSH 查找和安装社区插件、技能或 MCP 服务器
+- 了解 DSH 插件生态的最新收录动态
+- 插件作者按 `#dsh` 规范提交自己的仓库
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L12: > A curated list of **plugins, skills, MCP servers, patch/profile layers, orchestrators, aggregators & UIs** for **
 > L16: DeepSeek Harness ("DSH") is DeepSeek's agent runtime / harness layer — the "hands" that turn the model's reasoning 
+> L18: This list collects the best of that ecosystem. Contributions welcome — see Contributing.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `45d3f8d2184f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4f74273a6716` · [字段定义](../../DATASET.md)*

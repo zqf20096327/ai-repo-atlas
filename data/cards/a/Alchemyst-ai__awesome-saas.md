@@ -2,9 +2,9 @@
 
 ⭐ 422 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Alchemyst-ai/awesome-saas) · [官网](https://alchemyst-ai.github.io/awesome-saas/) · 组织维护
 
-**基于 Alchemyst AI 平台的社区模板与 AI Agent 作品集**
+**为开发者提供的 Alchemyst AI 平台模板与 Agent 项目清单**
 
-由 Alchemyst AI 团队维护的策展仓库，收录基于 Alchemyst AI 平台构建的官方模板、社区模板与社区 AI Agent（如邮件代理、Deep Research、PDF 问答、营销自动化等）。条目以表格列出项目名、星数、描述与主题标签，通过仓库 topic 标签 alchemyst-awesome-saas 自动聚合，每日 UTC 12:00 刷新；另提供平台 API 文档链接、贡献指南与贡献者排行榜。仓库本身不含可运行代码，各项目跳转至独立 GitHub 仓库。
+由 Alchemyst AI 团队维护的模板合集（Cookbook）：收录社区构建的 5 个 AI Agent 与 20 余个基于 Alchemyst AI 平台的项目模板，涵盖邮件自动化、招聘、深度研究、爬虫营销、PDF 问答等场景；提供平台 API 文档、OpenAPI 链接与 curl 快速开始命令，并通过仓库 topic 与每日定时刷新的机制接收社区贡献，附贡献者排行榜。条目均链接到各自独立仓库，README 本身不含各模板的安装说明。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按官方模板/社区模板/社区 Agent 分类的项目清单
-- 通过 topic 标签 alchemyst-awesome-saas 自动聚合，每日刷新
-- 附平台 API 文档（OpenAPI）链接与贡献者排行榜
+- 收录社区 AI Agent 与官方/社区模板两类条目
+- 提供平台 OpenAPI 与交互式 API 文档入口
+- curl 命令快速开始调用平台 API
+- 按 topic 提交 PR + 每日 UTC 0 点自动刷新收录
 
 ## 适用场景
 
-- 查找基于 Alchemyst AI 平台的启动模板
-- 发现社区构建的 AI Agent 与 SaaS 项目案例
-- 将自己的 Alchemyst 项目提交进清单获得曝光
+- 为下一个 AI 应用寻找基于 Alchemyst 平台的起步模板
+- 浏览社区已构建的 AI Agent 项目获取思路
+- 把自己做的 Alchemyst 项目提交进清单获得曝光
 
 ## 场景标签
 
@@ -36,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L48:  These agents are part of the awesome-saas collection.
 > L83:  ## 📦 Templates
-> L47:  🧠 Community AI Agents
+> L105: This is an ever expanding list - we'll keep on adding open source templates!
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0cfe7445d099` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8d3ebbdde2b4` · [字段定义](../../DATASET.md)*

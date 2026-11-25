@@ -2,9 +2,9 @@
 
 ⭐ 350 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/agentmorris/MegaDetector) · 组织维护
 
-**相机陷阱图像中检测动物/人/车辆的 AI 模型及工具集**
+**生态研究者的相机陷阱图像检测模型：识别动物/人/车辆**
 
-面向保护生物学研究者的目标检测模型：在相机陷阱图像中定位动物、人和车辆并输出边界框，可用于剔除空白图像；在数百万张多生态系统的图像上训练。不做物种级识别，物种分类推荐配合 SpeciesNet 使用。仓库还提供训练/运行模型、结果后处理（生成预览页、按 AI 结果分类文件夹）、相机陷阱元数据格式转换（COCO Camera Traps）等工具；Python 包可通过 pip 安装，另有 conda 环境文件；分类相关目录已标记为 deprecated。
+一个面向保护生物学领域的目标检测模型，在数百万张多生态系统相机陷阱图像上训练，识别图像中的动物、人和车辆，并可据此剔除空白图像；只定位目标、不区分物种。仓库提供模型训练与运行工具、批量结果审查工具、相机陷阱元数据格式转换、可视化及 COCO Camera Traps 数据管理代码，以 Python 包发布（pip install megadetector），另推荐 GUI 工具 AddaxAI 和 SpeciesNet 物种分类器配合使用。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 检测动物/人/车辆三类目标并输出边界框，可剔除空白图像
-- 提供训练与运行 MegaDetector 的工具
-- 后处理工具：结果预览页、按 AI 结果分文件夹、格式转换
-- 元数据格式转换（转为 COCO Camera Traps 格式）与分类名到标准分类体系的映射
+- 识别相机陷阱图像中的动物、人、车辆，支持剔除空白图像
+- 提供训练、运行模型及处理批量输出的工具链
+- 支持相机陷阱元数据格式转换与 COCO Camera Traps 数据库管理
+- 提供 Python 包（pip install megadetector）与 mamba/conda 环境文件
 
 ## 适用场景
 
-- 相机陷阱海量图像中过滤空白图像，减少人工标注工作量
-- 定位图像中的动物/人/车辆以辅助物种分类流程
-- 转换与可视化相机陷阱元数据数据库
+- 批量处理相机陷阱图像，筛除空白图片
+- 在物种分类前先检测动物位置
+- 批量审查模型检测结果并整理元数据
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+`目标检测` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L7: MegaDetector is an AI model that identifies animals, people, and vehicles in camera trap images (which also makes it
+> L20: * If you're a programmer-type looking to use tools from this repo, check out the MegaDetector Python package that p
 > L161: - Tools for training and running MegaDetector.
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f6687e81db9e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fb746edbda60` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 397 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/eddyzzl/marvis-risk-agent) · 个人维护 · 中文 README
 
-**面向风险团队：本地信贷风控Agent，从数据到策略与报告**
+**本地信贷风控 Agent 工作台：从业务问题到模型与策略报告**
 
-面向信贷风控团队的本地优先Agent平台：自然语言描述需求后，Agent澄清输入、生成可审查计划、在责任关卡暂停，调用确定性工具完成数据处理、特征工程、建模、验证与七步策略开发，输出数据集、模型、PMML、策略代码与报告。AI负责理解规划，指标由确定性代码计算并附带溯源证据；组合分析模块公开部分未达生产级。
+MARVIS 是一个本地优先的信贷风控 Agent 桌面平台：用户用自然语言描述风险目标，Agent 澄清缺失材料、生成可审查的工作流计划，在责任确认门暂停，运行确定性工具并产出数据集、证据、模型、策略代码与报告。功能覆盖数据处理、特征分析、模型开发与校验、策略开发、Vintage 分析、组合与监控七大模块。支持中英界面、任务工作区、记忆复用与审计记录；关键指标由平台代码计算，后果性操作需人工确认，材料默认保留在本地。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 七步策略开发工作流：从样本设计到影响测量与审查包交付
-- KS/AUC/PSI等指标由确定性平台代码计算并附带溯源与审计证据
-- 数据到建模工作流：支持PMML导出并直接移交模型验证
-- 高影响操作在责任关卡暂停，需人工确认
+- 自然语言描述业务目标，Agent 生成可审查工作流计划并在责任门暂停确认
+- 七大模块：数据处理、特征分析、模型开发/校验、策略开发、Vintage、组合分析
+- 确定性工具计算关键指标，保留证据、哈希与审计溯源
+- 中英双语界面，支持 Workflow 模板、插件、Hook 与用户自定义 Skill
 
 ## 适用场景
 
-- 用自然语言驱动信贷风控的建模与验证全流程
-- 开发审批/限额/定价策略并生成可审计的审查包
-- 对Vintage与组合进行风险分析并输出Excel报告
+- 客户分群恶化或欺诈信号出现时，快速完成数据分析到策略调整的闭环
+- 信采风控团队开发、校验评分模型并产出审计可查的 Excel/Word 报告
+- 将机构风控经验封装为可复用的 Workflow 模板与有来源引用的记忆
+- 对提交的 PMML/Notebook 模型做批量校验与监控交接
 
 ## 场景标签
 
-`金融量化` `数据分析` · 领域:效率与自动化
+`数据分析` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L23: MARVIS is a local-first, governed credit-risk Agent platform—not a chatbot
-> L26: Describe the business outcome in natural language. MARVIS asks for missing
+> L71: MARVIS brings those needs into one governed workspace. The aim is to put AI
+> L126: |**Data processing**|Register CSV/Excel files, infer schemas, profile data, align columns, propose and confirm joi
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `851c22affcc7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `389f424477cc` · [字段定义](../../DATASET.md)*

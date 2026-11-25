@@ -2,9 +2,9 @@
 
 ⭐ 387 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VasiHemanth/tokentelemetry) · [官网](https://tokentelemetry.com/docs/) · 个人维护
 
-**本地观测面板：追踪 AI 编程/自主 agent 的 token、成本与会话**
+**本地 token 遥测面板：追踪多个 AI agent 的用量与成本**
 
-面向同时使用多个 AI coding agent（Claude Code、Codex、Gemini CLI、Cursor、Copilot 等 20+ 种）及 Hermes 自主 agent 的开发者，提供 100% 本地运行的遥测面板：自动从各 agent 默认日志目录读取会话数据，展示 token 用量、LLM 成本、工具调用瀑布追踪、推理链与 plan 输出；支持按项目设预算告警（仅观测不阻断），并读取各 coding agent 的套餐配额窗口。限制：仅本地读取日志，无远程数据库模式；默认开启可选匿名遥测（可一键关闭）。
+以本地仪表盘形式读取已安装 AI coding/autonomous agent 的会话日志，自动检测各 agent 默认日志位置，汇总 token 用量、成本、工具调用、会话轨迹与推理步骤，覆盖 18 个 coding agent 与 Hermes Agent（后者有独立 /hermes 视图）。提供预算告警（仅观察不阻断）、订阅计划额度读取、模型效率对比与项目级洞察。数据全部留在本机，无注册无云服务，仅两项可选外呼（更新检查与匿名使用统计）。需 Node.js 20.9+、Python 3.9+ 与 git。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 自动检测并读取 20+ 种 AI coding agent 的本地会话日志
-- token/成本/工具调用/推理链的会话瀑布追踪
-- 按项目与 agent 设预算告警（80%/100% 阈值，观测性质）
-- Hermes Agent 专属面板：38 个来源平台、网关健康、cron、子 agent 卡片
+- 自动检测并读取 18+ 个 coding agent 的本地会话日志
+- Hermes Agent 专属面板：38 个来源平台、cron/gateway 健康、子代理卡片
+- 预算与告警为观察模式，永不阻断 agent 运行
+- 100% 本地：日志不离开本机，无数据库、纯 JSON 配置
 
 ## 适用场景
 
-- 我在用多个 AI 编程工具，想在一个地方看 token 花费和对比效率
-- 想知道某次重构会话实际花了多少钱、调用了哪些工具
-- 为每个项目设月度/滚动预算上限并接收告警
-- 观测 Hermes 自主 agent 在各消息平台的运行与成本
+- 统计各 AI coding agent 会话的 token 消耗与 API 成本
+- 在一个面板里统一查看多个 agent 的会话轨迹与工具调用
+- 监控 Hermes Agent 在多平台上的运行状态与成本异常
 
 ## 场景标签
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `547adcdb6d58` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3b21c1115dba` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 423 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/gotalab/skillport) · 组织维护
 
-**面向 AI/coding agent 的技能管理工具：校验、分发、MCP 托管**
+**Agent Skills 的验证、管理与分发工具，经 CLI 或 MCP 服务于各类 AI agent**
 
-SkillPort 是一个 Python 编写的 SkillOps 工具包，用于按 Agent Skills 规范批量校验、管理并分发技能：支持从 GitHub 等来源添加技能、程序化读写技能元数据、在 CI 中校验；通过 MCP server 或 CLI 两种模式把技能交付给 Cursor、Copilot、Codex、Claude Code 等客户端，采用 Tool Search Tool 模式——仅加载技能元数据（约 100 tokens/技能），按需加载完整指令。提供 pip/uv 安装、一键接入常用客户端。README 自述开发状态为进行中，API 可能变更。
+SkillPort 是面向 Agent Skills 规范的 SkillOps 工具：按规范校验技能（可输出 CI 友好的 JSON）、从 GitHub 等来源安装技能、以元数据命令批量维护，并通过 CLI 模式（生成 AGENTS.md 技能表、按需加载）或 MCP 服务器（search_skills/load_skill，先搜索后加载以控制上下文消耗）向 agent 交付技能。支持按类别/标签对客户端过滤暴露技能。以 uv/pip 安装，MCP 模式需另装 skillport-mcp。开发状态标注为进行中，API 可能变动。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ SkillPort 是一个 Python 编写的 SkillOps 工具包，用于按 Agent Skills
 
 ## 能力要点
 
-- 按 Agent Skills 规范校验技能，支持 CI 友好 JSON 输出
-- MCP server 与 CLI 两种分发模式，兼容 Cursor/Copilot/Windsurf/Cline/Codex 等
-- 搜索优先加载：仅加载元数据约 100 tokens/技能，按需加载完整指令
-- 分类/标签/命名空间过滤与按客户端差异化暴露技能
+- 按 Agent Skills 规范校验技能，支持 CI 中 JSON 输出
+- MCP 服务器采用先搜索后加载模式，每技能约 100 token 元数据
+- 从 GitHub URL 一键安装技能并做全生命周期管理
+- 按类别/标签对不同客户端过滤暴露技能
 
 ## 适用场景
 
-- 为不原生支持 Agent Skills 的 coding agent 提供技能接入
-- 团队统一管理 50+ 技能并在 CI 中校验部署
-- 不同 agent 客户端按类别暴露不同技能子集
+- 为不支持原生技能的编码 agent 通过 MCP 提供 Agent Skills
+- 在 CI 中校验技能是否符合规范后再部署
+- 管理团队内大量技能的元数据一致性
+- 为自研 AI agent 提供技能检索与按需加载能力
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: **The SkillOps Toolkit for Agent Skills**
+> L5: SkillOps = Validate, manage, and deliver skills at scale.
+> L16: |Build your own AI agent|Provides MCP server, CLI, and Python library|
 > L61: MCP server for clients that don't natively support Agent Skills.
-> L72: Works with Cursor, Copilot, Windsurf, Cline, Codex, and any MCP-compatible client.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `13f53736b00b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `11c09a81065f` · [字段定义](../../DATASET.md)*

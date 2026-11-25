@@ -2,9 +2,9 @@
 
 ⭐ 355 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/michaelwilhelmsen/humla) · [官网](https://humla.team) · 个人维护
 
-**macOS 本地优先的开源 AI 会议笔记应用：录音转写与摘要**
+**macOS 本地优先会议笔记应用：录音转写并生成摘要**
 
-面向 macOS 用户的会议笔记应用（Tauri 2 + Rust + Swift，MIT 许可）。同时录制麦克风与系统音频两路流，转录可选本地 Whisper（Apple Silicon GPU 运行）、OpenAI、Deepgram、Groq，可按语言混配引擎；离线说话人分离（Nematron 3 默认 / pyannote 聚类）；摘要将用户笔记与转写作为两个标注输入交给 OpenAI 或任意 OpenAI 兼容本地服务器（Ollama、LM Studio、llama.cpp、vLLM）。另带基于混合检索的笔记问答（带引用）与只读 MCP 服务器供 Claude Code 等客户端查询。数据存本机 SQLite，可选 PocketBase 同步（托管付费 $5/用户/月或自托管免费）。
+面向 macOS（Apple Silicon）的会议笔记应用，受 Granola 启发：同时录制麦克风与系统音频两路流，在本机完成转写与说话人分离，并把用户手写笔记与转写合并生成结构化摘要（预设 Meeting/1:1/Lecture 等场景）。转写可按语言混搭 Local Whisper、OpenAI、Deepgram、Groq；摘要与问答可指向 Ollama、LM Studio、llama.cpp、vLLM 等本地服务器。内置 MCP 服务器（六个只读工具）供 Claude Code、Codex 等客户端检索笔记。团队同步为可选付费云服务或自托管 PocketBase。
 
 ## 筛选速览
 
@@ -16,31 +16,31 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 麦克风与系统音频双流录制，保持“我说/对方说”可区分
-- 本地 Whisper / OpenAI / Deepgram / Groq 转录引擎按语言混配
-- 离线说话人识别（最多 8 人）+ 笔记与转写融合摘要
-- 笔记问答带引用与可审计检索过程；内置只读 MCP 服务器（6 个工具）
+- 双流录音（麦克风+系统音频）与离线说话人识别（Nemotron 3 / Community-1）
+- 转写引擎可按语言覆盖：Local Whisper、OpenAI、Deepgram、Groq
+- 摘要以 [Notater]/[Transkripsjon] 双输入融合手写笔记与转写
+- 内置只读 MCP 服务器与混合检索（关键词+语义）的笔记问答，答案带引用
 
 ## 适用场景
 
-- 开会时边记笔记边自动获得带说话人标签的转写与结构化摘要
-- 敏感会议全程本地运行（本地 Whisper + 本地 LLM）不出机器
-- 在 Claude Code 等 agent 中检索自己的会议记录
-- 小团队通过自托管 PocketBase 同步共享工作区
+- 远程会议中分别记录我和对方的发言，生成干净转写
+- 全部用本地模型处理敏感会议，数据不出本机
+- 会后向历史笔记提问并核对引用出处
+- 让 Claude Code 直接检索我的会议纪要
 
 ## 场景标签
 
-`语音识别` `知识库管理` `文档问答` · 领域:知识与检索
+`语音识别` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L27: **Humla** is a meeting-notes app for macOS, inspired by Granola. You take freeform notes during your meeting; Humla
+> L29: Built around one principle: **your audio and your data stay on your machine** unless you explicitly send them somew
 > L46: - **Local Whisper** — runs entirely on your Mac via Apple Silicon's GPU. Free after a one-time download. Multiple m
-> L61: ### Summarises with both your notes and the transcript
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `19f6257b61da` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `fbd07cf1db50` · [字段定义](../../DATASET.md)*

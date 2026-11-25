@@ -2,9 +2,9 @@
 
 ⭐ 302 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/computesdk/computesdk) · [官网](https://computesdk.com) · 组织维护
 
-**给开发者的多云端沙箱统一 SDK 与基准评测工具**
+**为应用运行他人代码的沙箱路由工具包**
 
-TypeScript SDK，通过统一 API 在 40 余个云端沙箱提供商（E2B、Modal、Daytona、Vercel、AWS 等）上创建沙箱、执行命令、操作文件系统与交互终端，支持运行时切换提供商、多提供商配置与自定义 Provider 扩展。同时是 ComputeSDK Benchmarks 背后的开源基准评测引擎，可在各提供商上运行同一负载并发布可复现结果。面向构建 AI 代码执行 agent、数据科学平台与开发者工具的开发者，以 npm 包形式分发。
+ComputeSDK 提供统一的沙箱路由器与 Actions 两类执行方式：前者通过 compute CLI、TypeScript SDK 或 API 在隔离沙箱中运行生成的代码、测试与脚本，支持自动选择 provider、手动指定或设置 fallback 顺序，可选择托管计算或自带 provider 密钥（BYOK）；后者在同一路由器上运行支持的 GitHub workflow，可跟踪日志、下载产物与重跑失败任务。提供 npm 安装的 CLI 与 SDK、macOS/Linux/Windows 安装器，并支持通过 MCP server 连接 AI 助手。创建沙箱需要可用额度或配置 BYOK 路由。
 
 ## 筛选速览
 
@@ -13,32 +13,32 @@ TypeScript SDK，通过统一 API 在 40 余个云端沙箱提供商（E2B、Mod
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 40 余个沙箱提供商的统一 TypeScript API
-- 运行时切换提供商，应用代码不变
-- 可复现的跨提供商基准评测负载（ComputeSDK Benchmarks）
-- 通过 @computesdk/provider 框架扩展自定义提供商
+- 统一路由器在多 provider 沙箱中运行代码，支持 fallback 顺序
+- 支持托管计算与 BYOK（自带 provider 密钥）两种模式
+- compute CLI 提供 login/route/exec/destroy 等命令行管理
+- 提供 MCP server 供 AI 助手连接
 
 ## 适用场景
 
-- 让 AI agent 在云沙箱中执行代码，不被单一提供商绑定
-- 在多个沙箱基础设施上运行同一负载做基准对比
-- 构建需要远程代码执行的开发者工具或教学环境
+- 在应用中安全运行 AI agent 生成的代码
+- 在隔离沙箱中执行测试与脚本
+- 通过统一路由器在沙箱 provider 上运行 GitHub workflow
 
 ## 场景标签
 
- · 领域:开发工具/云沙箱基础设施
+ · 领域:AI 基础设施/代码执行沙箱
 
 ## 证据(README 行号)
 
-> L15: ComputeSDK is the open, multi-provider benchmark harness for cloud infrastructure. It is the engine behind ComputeS
-> L20: - **Build provider-agnostic apps** — switch sandboxes without changing application code for AI agents, code-executi
+> L9:  Run agent code and GitHub workflows across sandbox providers. We handle the compute.
+> L24: - **Sandbox Router** runs generated code, tests, and scripts in isolated sandboxes. Use the `compute` CLI, TypeScri
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `71509483af06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `19685b80e297` · [字段定义](../../DATASET.md)*

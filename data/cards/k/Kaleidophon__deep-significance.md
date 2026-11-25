@@ -2,9 +2,9 @@
 
 ⭐ 344 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Kaleidophon/deep-significance) · [官网](https://deep-significance.rtfd.io/en/latest/) · 个人维护
 
-**深度学习模型对比的统计显著性检验库**
+**面向深度学习研究者的模型分数统计显著性检验库**
 
-Python 库 deepsig，提供面向深度神经网络的统计显著性检验：核心是 Almost Stochastic Order（ASO）检验，用于比较两组模型得分分布，返回 eps_min 置信分数；另含 bootstrap、permutation-randomization 检验、Bonferroni 多重比较校正和 bootstrap 功效分析以确定样本量。函数兼容 PyTorch/TensorFlow 张量及 NumPy/Jax 数组，通过 pip 安装，面向需要严谨比较模型性能的机器学习研究者。ASO 不计算 p 值，也不对得分分布作假设。
+提供深度神经网络实验结果的统计假设检验功能：实现 Almost Stochastic Order、bootstrap、permutation 检验，附带 Holm-Bonferroni/Bonferroni 多重比较校正、bootstrap 功效分析与样本量确定函数。所有函数经过测试，兼容 PyTorch/TensorFlow 张量及 NumPy/Jax 数组。通过 pip 安装，提供多场景示例文档与演示 notebook。适用于 NLP、强化学习、计算机视觉等领域的模型比较场景。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Python 库 deepsig，提供面向深度神经网络的统计显著性检验：�
 
 ## 能力要点
 
-- ASO 检验比较两组得分分布，返回 eps_min 置信分数
-- 支持 bootstrap、permutation-randomization 与 Bonferroni 校正
-- multi_aso() 对多模型两两比较并默认做多重比较校正
-- 兼容 PyTorch/TensorFlow 张量与 NumPy/Jax 数组
+- 实现 ASO/bootstrap/permutation 三类显著性检验
+- Holm-Bonferroni 与 Bonferroni 多重比较校正
+- bootstrap 功效分析与样本量确定函数
+- 兼容 PyTorch/TensorFlow/NumPy/Jax 数据结构
 
 ## 适用场景
 
-- 比较多随机种子下两个模型的得分是否显著差异
-- 跨数据集比较多模型并控制多重比较问题
-- 论文中按规范报告 ASO 置信水平与 eps_min 分数
+- 比较两个模型多次随机种子运行的分数是否差异显著
+- 跨多个数据集比较多组模型分数并做多重比较校正
+- 样本级分数的逐点配对比较
+- 确定实验需要的运行次数与样本量
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L31: To help mitigate this problem, this package supplies fully-tested re-implementations of useful functions for signif
-> L38: All functions are fully tested and also compatible with common deep learning data structures, such as PyTorch /
+> L39: All functions are fully tested and also compatible with common deep learning data structures, such as PyTorch /
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `653e498db7f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5a3777e57e70` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # CodeAlta/CodeAlta
 
-⭐ 359 · C# · BSD-2-Clause · 推送 2026-11-23 · [GitHub](https://github.com/CodeAlta/CodeAlta) · [官网](https://codealta.io) · 个人维护
+⭐ 359 · C# · BSD-2-Clause · 推送 2026-11-23 · [GitHub](https://github.com/CodeAlta/CodeAlta) · [官网](https://codealta.io) · 组织维护
 
-**AI 编码 agent 的桌面/TUI 工作区：会话、Git 与多模型接入**
+**多机协同的 AI 编码 agent 工作区：统一管理代理、终端与 Git**
 
-面向使用 AI 编码 agent 的开发者的开源工作区，提供 Desktop 桌面应用与终端 TUI 两种形态，共享配置与会话。功能包括多面板会话运行与委派、会话分叉回退、文件/图片/PDF 附件、本地语音转提示词、本地索引搜索、Git worktree、issue/PR 浏览、定时/事件触发自动化、插件、本地统计与上下文用量显示。接入 Claude、ChatGPT、GitHub Copilot 订阅或 API key，支持 MCP 与技能。需先安装 .NET 10，声明无遥测。
+开源的 agentic 开发环境，把 AI 编码代理、代码、终端和 Git 集中在一个工作区，可在单机、多台机器或团队服务器上运行会话。提供桌面应用、终端 UI、CLI 和 Node/Server 组件；代理运行在用户自己的机器上。声明无遥测数据。Fleet 模式支持会话跨机迁移、按标签调度自动化任务；本地模型路径通过 llama.cpp 服务器按机器 GPU 架构安装并从 Hugging Face 下载 GGUF 模型。声明在 SWE-bench Pro 部分任务上与 Claude Code、Codex 对比的结果。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | BSD-2-Clause |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Desktop 与 TUI 双形态，共享 profile、providers 与会话
-- 会话分叉/回退、委派、排队与审批式提交流程
-- 接入 Claude Code/Codex/Copilot 订阅或 API，支持多账号与模型分层回退
-- 本地语音转提示词与本地语义搜索（模型在本机运行）
+- 桌面/TUI/CLI/Node/Server 五种形态，跨 Windows、macOS、Linux
+- Fleet 跨机会话迁移、按标签调度与端到端加密中继
+- 本地模型服务器按机器 GPU（CUDA/ROCm/Vulkan/Metal）安装 llama.cpp 并下载 GGUF
+- 会话分叉回退、工作树管理、自动化调度与本地统计
 
 ## 适用场景
 
-- 在分屏会话中并行运行并管理多个 AI 编码 agent
-- 跨 GitHub/GitLab/Azure DevOps/Bitbucket/Jira 处理 issue 与 PR 工作流
-- 按项目隔离 providers、MCP 服务器与技能配置（Spaces）
+- 在多台机器上统一运行和调度 AI 编码代理会话
+- 团队通过 Server 集中管理成员、机器与预算
+- 用本地 llama.cpp 模型为代理提供推理后端
+- 从手机或终端远程跟进和干预代理任务
 
 ## 场景标签
 
@@ -37,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L3: CodeAlta is an open-source workspace for AI coding agents, local code, terminals and Git. It runs on Windows, macOS 
-> L25: Launch the app from a project folder. On first launch it opens the provider setup: sign in with a Claude, ChatGPT o
+> L5: CodeAlta is an open-source agentic development environment, local and distributed: AI coding agents, your code, term
+> L96: - **Model choice**: use Claude Code, Codex, GitHub Copilot or Mistral Vibe subscriptions, APIs (OpenCode Zen and Go
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `177eba054778` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0a43f33818df` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 306 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/yogeshhk/TeachingDataScience) · 个人维护
 
-**AI 与数据科学开源课程讲义与配套代码集（LaTeX）**
+**面向师生学者的免费开源 AI 与数据科学 LaTeX 课程讲义**
 
-由 Yogesh H Kulkarni 维护的开源教学资料库：以 LaTeX/Beamer 源码编写机器学习、深度学习、NLP、生成式 AI、ML 数学与 Python 的幻灯片与两栏速查笔记，内容分课程（约40小时）、工作坊（8-16小时）、研讨会（1-2小时）三层。同一 .tex 源可编译为 Beamer 幻灯片或可打印笔记，PDF 需自行编译，仓库不含预构建产物。另含 Code/ 目录下的可运行 Python/notebook 项目（LangChain、LangGraph、RAG、微调、GNN 等），各配 conda environment.yml 与 pytest 测试。MIT 许可。
+以 LaTeX Beamer 组织的 AI 与数据科学教学资料仓库，含五门完整课程（约 40 小时）及数十个独立 workshop 与 seminar，主题覆盖机器学习、深度学习、NLP、GenAI、数学基础与 Python。每份源文件可同时编译为幻灯片和双栏速查表；`Code/` 目录提供可运行的 Python/notebook 项目，每个项目带 conda environment.yml 与 pytest 测试。需自行安装 LaTeX 发行版编译 PDF。MIT 许可，欢迎通过 CONTRIBUTING.md 贡献。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 单一 .tex 源同时编译出 Beamer 幻灯片与两栏速查笔记
-- 课程/工作坊/研讨会三层内容结构，可按深度选取
-- Code/ 提供可运行 Python/notebook 项目，各带 conda 环境与 pytest 测试
-- 覆盖 GenAI/Agent、RAG、微调、GNN、NLP 等多领域代码示例
+- 课程/工作坊/研讨三级深度组织的教学内容
+- 同一 .tex 源编译出幻灯片与速查表两种输出
+- Code/ 目录提供带 environment.yml 与 pytest 的可运行项目
 
 ## 适用场景
 
-- 讲师直接取用编译成套 ML/DL/GenAI 课程幻灯片与讲义
-- 学员按研讨会或工作坊粒度自学单一主题
-- 运行配套代码项目实践 RAG、微调与图神经网络
+- 为高校或企业内训挑选完整 AI/ML 课程或单场讲座材料
+- 编译 PDF 幻灯片直接用于课堂教学
+- 运行配套 notebook 复现 RAG、微调、GNN 等示例代码
 
 ## 场景标签
 
@@ -39,7 +38,7 @@
 
 > L3:  Free, open-source Beamer slide decks and code for Machine Learning, Deep Learning, NLP, Generative AI, Maths for ML
 > L24: - **Courses** (full curriculum, ~1-2 weeks / ~40 hrs): Machine Learning, Deep Learning, Generative AI, Maths for ML
-> L28: Workshops and seminars span far more ground than the courses above: classical ML, linear algebra, LLMs, RAG, LangGr
+> L38: `Code/` has runnable Python/notebook projects: GenAI and agents, RAG applications, fine-tuning, document parsing, d
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `789a3356c782` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `faa78ddbe762` · [字段定义](../../DATASET.md)*

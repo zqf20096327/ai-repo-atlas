@@ -2,9 +2,9 @@
 
 ⭐ 419 · Kotlin · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/droidrun/mobilerun-portal) · [官网](https://mobilerun.ai/framework) · 组织维护
 
-**mobilerun 框架的 Android 配套应用：暴露 UI 控制与数据采集接口**
+**供 mobilerun 框架控制 Android 设备的无障碍服务端口应用**
 
-基于 Android 无障碍服务的配套应用，为 mobilerun 自然语言移动自动化框架提供设备侧能力：交互式 overlay 高亮可点击/可滚动等 UI 元素，暴露三种本地接口（HTTP、WebSocket JSON-RPC、ContentProvider/ADB），支持反向 WebSocket 云端控制、WebRTC 屏幕推流、APK 安装与通知事件流。面向做移动 UI 测试、自动化开发与无障碍评估的开发者。最低 API 26，文件操作需 Android 11+，Kotlin 编写，CI 自动构建签名 APK。
+Mobilerun Portal 是一个 Android 无障碍服务应用，为屏幕上的可点击、可勾选、可编辑、可滚动、可聚焦 UI 元素提供实时高亮叠加层与数据采集，作为 mobilerun 移动自动化框架的 Android 端配套应用。它提供三种本地控制接口（HTTP socket 服务器、WebSocket JSON-RPC、ContentProvider）、反向 WebSocket 云端控制、WebRTC 屏幕流、URL 安装 APK 与通知事件流。需要 Android 8.0+（API 26），文件操作要求 Android 11+，通过 GitHub Actions 自动构建并发布 APK。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 三种本地控制接口：HTTP(8080)、WebSocket JSON-RPC(8081)、ContentProvider/ADB
-- 反向 WebSocket 云端控制与 WebRTC 屏幕推流
-- overlay 高亮可交互 UI 元素，用于测试与自动化开发
-- 通过 ADB ContentProvider 提供 JSON 格式 UI 元素数据
+- 三种本地控制 API：HTTP（8080）、WebSocket（8081）、ADB ContentProvider
+- 反向 WebSocket 连接支持云端控制（供 Mobilerun Cloud 使用）
+- WebRTC 屏幕流与通知事件流推送
+- 无障碍模式下 UI 树提取、手势、截图；另提供无无障碍的本地托管模式
 
 ## 适用场景
 
-- 为移动自动化 agent 提供设备侧控制与数据接口
-- 开发移动 UI 自动化测试，可视化可交互元素
-- 云端远程控制真机并串流屏幕画面
+- 用自然语言命令自动化操作 Android 设备
+- UI 测试与无障碍可用性评估
+- 通过 ADB 或 WebSocket 脚本批量控制手机界面
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L10: Mobilerun Portal is an Android accessibility service that provides real-time visual feedback and data collection fo
 > L15: - Local control APIs (HTTP socket server, WebSocket JSON-RPC, and ContentProvider)
+> L16: - Reverse WebSocket connection for cloud control
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d8b963814779` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `58deb4258744` · [字段定义](../../DATASET.md)*

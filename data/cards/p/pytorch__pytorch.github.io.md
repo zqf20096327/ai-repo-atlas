@@ -2,9 +2,9 @@
 
 ⭐ 294 · HTML · BSD-3-Clause · 推送 2026-11-11 · [GitHub](https://github.com/pytorch/pytorch.github.io) · [官网](https://pytorch.org) · 组织维护
 
-**PyTorch 官网的 Jekyll 静态站点源码仓库**
+**PyTorch 官网源码：文档与教程静态站点**
 
-托管 pytorch.org 的静态网站源码仓库，使用 Jekyll 与 Bootstrap 构建，承载 PyTorch 的官网页面、教程与文档。README 声明本仓库已非官网唯一事实来源，站点现由 PyTorch Foundation 团队单独管理，仅少量文件仍在使用，网站改动需联系该团队而非提交 PR。本地开发需安装 rbenv、ruby-build、nvm、Yarn，通过 make serve 运行、make build 生成静态站点，部署于 GitHub Pages 并经 CircleCI 自动构建。
+PyTorch 官方网站 pytorch.org 的源码仓库，用 Jekyll 和 Bootstrap 构建静态站点，承载 PyTorch 的教程与文档。README 提供本地开发环境搭建步骤：通过 rbenv 安装指定 Ruby 版本、nvm 安装 Node 版本、yarn 管理依赖，用 make serve 本地运行、make build 构建静态站点至 ./_site，站点托管在 GitHub Pages，通过合并到 site 分支由 CircleCI 自动构建部署。仓库已公告将于 2026 年 11 月 9 日当周归档，网站改由 PyTorch Foundation 团队单独管理，仅少数文件仍在使用。
 
 ## 筛选速览
 
@@ -20,23 +20,25 @@
 
 ## 能力要点
 
-- Jekyll + Bootstrap 构建的静态站点，托管教程与文档
-- make serve 本地运行，make build 输出到 ./_site
-- 通过 GitHub Pages + CircleCI 自动部署
+- Jekyll + Bootstrap 构建的 pytorch.org 静态站点源码
+- make serve 本地开发、make build 构建静态站点
+- GitHub Pages 托管，CircleCI 自动构建部署
+- 仓库将于 2026 年 11 月归档，维护转移至 PyTorch Foundation
 
 ## 适用场景
 
-- 查看 pytorch.org 站点的构建与部署方式
-- 了解向 PyTorch 文档与教程贡献的入口指引
+- 本地运行或修改 PyTorch 官网页面
+- 为 PyTorch 官网添加额外加速器平台条目
+- 查找 PyTorch 文档与教程的贡献入口
 
 ## 场景标签
 
- · 领域:开发者文档/网站基础设施
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L12: A static website built in Jekyll and Bootstrap for PyTorch, and its tutorials and documentation.
-> L83: ## Contributing to PyTorch Documentation and Tutorials
+> L17: A static website built in Jekyll and Bootstrap for PyTorch, and its tutorials and documentation.
+> L9: > Only a very small number of files in this repo are still actively used. The website is now managed separately by t
 
 ## 星数曲线
 
@@ -52,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ca83b1f3db0b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b30e2d8451e0` · [字段定义](../../DATASET.md)*

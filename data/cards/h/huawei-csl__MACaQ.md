@@ -2,9 +2,9 @@
 
 ⭐ 394 · C++ · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huawei-csl/MACaQ) · [官网](https://huawei-csl.com/blog/macaq/) · 组织维护 · 中文 README
 
-**模型无关的校准量化工具：压缩文本/图像/音频模型供本地推理**
+**面向本地推理的模型无关量化工具：文本/图像/视频/音频模型压至低比特**
 
-MACaQ 提供跨模态（文本、图像、视频、音频、语音）模型的低比特量化：文本走 llama.cpp 生成 2/3/4-bit GGUF，扩散模型经 Diffusers 以 W4A4 量化生成图像/视频/音频，vLLM 支持 W4A4 或 weight-only 服务化，PyTorch 面向语音生成。另提供 MACaQ-R，可精炼已有 GGUF 并保持与标准 llama.cpp 兼容。README 给出 122B 模型 64 分钟、32.5GB 显存的量化数据，并发布 Ascend CANN 内核的 PR。需 Python 3.12，各后端建议独立环境。
+MACaQ（Model Agnostic Calibrated Quantization）是一个量化工具与库，用于将文本、图像、视频、音频生成模型量化为 GGUF 或 W4A4 紧凑权重，并配套四种后端运行：llama.cpp（2/3/4-bit GGUF 文本生成）、vLLM（文本生成与 HTTP API 服务）、Diffusers（图像/视频/音频生成）、PyTorch（语音生成 WAV）。另提供 MACaQ-R，在保留原生格式的前提下精炼既有 GGUF 权重码，产物可在标准 llama.cpp 安装上直接运行。README 给出各后端的模型工作流链接与量化质量数据；Ascend 支持通过外部 CANN PR 提供内核。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ MACaQ 提供跨模态（文本、图像、视频、音频、语音）模型的�
 
 ## 能力要点
 
-- 模型无关校准量化，覆盖文本/图像/视频/音频后端（llama.cpp、vLLM、Diffusers、PyTorch）
-- MACaQ-R 精炼已有 GGUF 且保持标准 llama.cpp 兼容
-- README 数据：122B 模型 64 分钟量化、32.5GB 显存
-- Ascend W4A4 密集与分组 matmul 内核以 CANN PR 形式提供
+- 四种后端覆盖文本/图像/视频/音频模型量化与生成
+- MACaQ-R 精炼既有 GGUF 且兼容标准 llama.cpp 运行
+- 支持 2/3/4-bit GGUF 与 W4A4、weight-only 等精度方案
+- 各后端要求 Python 3.12 独立环境，llama.cpp 后端可 CPU 运行
 
 ## 适用场景
 
-- 把大模型量化成 GGUF 在本地 llama.cpp 上运行
-- 压缩扩散模型以降低图像/视频/音频生成成本
-- 用 vLLM 做 W4A4 量化推理与服务化
-- 在昇腾平台上使用 W4A4 内核
+- 把大模型量化成 GGUF 后在本地用 llama.cpp 生成文本
+- 为 vLLM 服务压缩模型权重并输出低精度 checkpoint
+- 量化 Diffusers/PyTorch 的图像、视频、语音生成模型
+- 精炼社区已有 GGUF 以适配自己的负载
 
 ## 场景标签
 
@@ -38,8 +38,9 @@ MACaQ 提供跨模态（文本、图像、视频、音频、语音）模型的�
 
 ## 证据(README 行号)
 
-> L9: Quantize and run text, image, video and audio models with llama.cpp, vLLM,
-> L28: - **Diffusers**: image, video and audio generation, W4A4.
+> L11: Quantize and run text, image, video and audio models with llama.cpp, vLLM,
+> L28: ## Choose your backend
+> L31: - **llama.cpp**: text generation, 2/3/4-bit GGUF.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `fc5c169b25ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `74775016eb38` · [字段定义](../../DATASET.md)*

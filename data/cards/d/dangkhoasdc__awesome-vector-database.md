@@ -2,9 +2,9 @@
 
 ⭐ 362 · CC0-1.0 · 推送 2026-11-06 · [GitHub](https://github.com/dangkhoasdc/awesome-vector-database) · 个人维护
 
-**向量检索与向量数据库领域的策展清单（服务/引擎/论文/课程）**
+**向量数据库与向量检索领域资源的策展清单**
 
-一个 awesome 类别的资料聚合仓库：收录高维向量检索与向量数据库相关资源，按云服务、对比评测、库与引擎、基准测试、书籍、会议与课程、综述论文、量化（PQ/IVF 等）研究方向等板块组织。条目覆盖 Pinecone、Qdrant、Milvus、Faiss 等数十种产品与大量学术论文（含 arXiv 预印本与 VLDB/CIKM 等会议论文）。面向做向量检索选型、研究或学习的开发者和科研人员，仓库本身不提供可安装运行的软件。
+围绕高维结构/向量搜索与向量数据库的收录清单，按服务、库与引擎、基准测试与数据集、书籍、会议、课程、论文（综述与量化方向）等板块组织。收录商业与开源向量数据库服务、近似最近邻搜索库、ANN 基准与向量数据库基准工具、大学课程与讲座幻灯片/视频链接，以及 2017-2026 年间的量化与索引相关论文条目。纯链接型清单，本身不含可安装的代码或运行环境。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 覆盖向量数据库云服务、开源引擎与库三大类别条目
-- 收录基准测试（ANN-Benchmarks、VectorDBBench 等）与对比资源
-- 系统整理向量量化（PQ/OPQ/ScaNN/RaBitQ）方向的论文列表
-- 包含课程、书籍、会议与研讨会等学习资源
+- 分类收录 20+ 向量数据库/搜索服务（含 Vertex AI、Pinecone、Weaviate 等）
+- 库与引擎板块覆盖 40+ 向量检索库（Faiss、Qdrant、Milvus、pgvector 等）
+- 收录 ANN/向量数据库基准工具、竞赛结果与数据集链接
+- 论文板块按综述与量化方向组织，含多条附 Paper/Code 链接的条目
 
 ## 适用场景
 
-- 选型时浏览向量数据库服务与开源引擎的清单
-- 查找向量检索/ANN 方向的综述与量化论文
-- 了解基准测试工具与对比评测资源
+- 为项目选型时查找可用的向量数据库服务与引擎
+- 查找近似最近邻搜索的基准测试结果与数据集
+- 按论文条目跟进向量量化与索引方向的研究进展
+- 查找向量检索相关的课程与讲座资料
 
 ## 场景标签
 
@@ -39,6 +40,7 @@
 
 > L1: # :mag: Awesome Vector Database Awesome
 > L2: A curated list of awesome works related to high dimensional structure/vector search &amp; database
+> L33: # Libraries & Engines
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b3d09413e06f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a3fe3b10a610` · [字段定义](../../DATASET.md)*

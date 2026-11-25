@@ -1,16 +1,16 @@
 # Jinfeng-Xu/Multimodal-Recommendation-Library
 
-⭐ 330 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) · 组织维护 · 中文 README
+⭐ 330 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/Jinfeng-Xu/Multimodal-Recommendation-Library) · 个人维护 · 中文 README
 
-**面向研究的多模态推荐模型库与基准（26 个模型）**
+**面向研究者的多模态推荐模型基准库（收录 26 个模型）**
 
-MRLib 是研究导向的多模态推荐开源库：收录 2016-2026 年来自 AAAI、ACM MM、SIGIR、WWW 等会议/期刊的 26 个模型实现，提供统一运行入口（python src/main.py）、YAML 配置、自动模态文件发现（.npy/.pt 特征）、按模型划分的图缓存与训练实时可视化。支持 Amazon 系列与 TikTok、Microlens 数据集，附 Baby 数据集上各模型的 Recall/NDCG 基准表；自定义模型可继承 GeneralRecommender 接入。代码结构基于 MMRec，安装方式为 git clone 源码。
+开源研究型多模态推荐代码库，收录 26 个模型（VBPR 至 2026 年多个顶会工作）并提供统一入口：自动扫描 *_feat.npy/*_feat.pt 发现模态特征、按模型分目录缓存图结构、训练指标实时可视化。支持 Amazon Baby/Sports/Clothing 等与 TikTok/Microlens 数据集及自定义格式，YAML 配置模型与数据集，附 Baby 数据集基准结果日志与自定义模型接入流程，MIT 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,25 @@ MRLib 是研究导向的多模态推荐开源库：收录 2016-2026 年来自 AA
 
 ## 能力要点
 
-- 收录 26 个多模态推荐模型实现，按发表年份持续更新
-- 自动扫描 *_feat.npy/.pt 文件发现模态，按数据集动态加载
-- Baby 数据集上的 Recall@N/NDCG@N 基准与训练耗时记录
-- 自定义模型通过继承 GeneralRecommender 接入
+- 收录 26 个多模态推荐模型并持续从顶会论文集成
+- 自动扫描 *_feat.npy/*_feat.pt 文件发现模态，支持视觉/文本/音频等
+- 按模型的图缓存目录与参数校验
+- 提供 Baby 数据集 26 个模型的基准指标结果表
 
 ## 适用场景
 
-- 在同一框架下对比多个多模态推荐模型的表现
-- 复现顶会多模态推荐论文的实验结果
-- 基于现有代码结构开发自己的推荐模型
+- 在自己的数据集上复现或对比多个多模态推荐模型
+- 按论文格式继承 GeneralRecommender 接入自定义模型
+- 查看 Baby 数据集上各模型的 Recall/NDCG 等基准结果
 
 ## 场景标签
 
-`推荐系统` · 领域:学习与行业
+`推荐系统` `多模态` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3:  **MRLib** is an open-source, research-oriented library for multimodal recommendation.
-> L10: - [2026.04]🎯[Update]: We release the MRLib as a comprehensive benchmark and code base for mutlimodal recommendation
+> L88: python src/main.py -m HPMRec -d baby
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8d28bb07ae43` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `38811ab9481e` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # QwenLM/open-computer-use
 
-⭐ 325 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/QwenLM/open-computer-use) · 组织维护 · 中文 README
+⭐ 325 · Rust · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/QwenLM/open-computer-use) · 组织维护
 
-**让 AI agent 通过 MCP 控制三平台电脑的计算机使用服务**
+**供 Qwen Code 及任意 AI agent 调用的跨平台桌面/Browser Use 运行时**
 
-由 QwenLM 维护、基于 MCP stdio 的 Computer Use 服务，向 Qwen Code 及任意 MCP 客户端提供 9 个计算机操作工具，通过无障碍 API 控制 macOS、Linux 与 Windows（分别基于 SCScreenshotManager/AT-SPI/UI Automation）。macOS 需一次性授予辅助功能与屏幕录制权限。提供 CLI 诊断与单工具调用命令，macOS 截图大小/质量可用环境变量调节且坐标精度在缩放后保持。系 iFurySt/open-codex-computer-use 的跨平台 fork，以 npm 包分发。
+从 Qwen Code 0.28 开发快照中抽取的 Computer Use 与 Browser Use 运行时仓库，包含原生的桌面驱动 cua-driver、TypeScript/Python SDK、常驻 JavaScript MCP 服务器和 Chrome 扩展，可独立于 Qwen Code 运行。通过操作系统辅助功能 API 控制 macOS、Windows 与 Linux X11/XWayland 桌面；浏览器控制需额外安装扩展与原生消息宿主。仅支持源码构建，npm 发布包与原生 release 资产尚未发布，且存在一个未解决的 macOS 原生崩溃问题待调查。
 
 ## 筛选速览
 
@@ -15,30 +15,31 @@
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- MCP stdio 传输，含 9 个 Computer Use 工具
-- 跨 macOS/Linux/Windows 三平台无障碍 API 控制
-- CLI 提供 doctor/call/snapshot/list-apps 命令
-- macOS 截图大小/质量经环境变量调节且坐标精度保持
+- 桌面驱动、TS/Python SDK、常驻 MCP 服务器、Chrome 扩展四类组件
+- 经辅助功能 API 支持 macOS、Windows 与 Linux X11/XWayland
+- stdio MCP 客户端可接入 js/js_reset 工具，会话预加载 cua 与 API 文档
+- 提供 typecheck、test、contracts、smoke:mcp 等验证脚本
 
 ## 适用场景
 
-- 为 Qwen Code 等 MCP 客户端接入桌面自动化能力
-- 诊断或脚本化调用单个计算机操作工具
-- 控制截图体积以适配模型输入限制
+- 让 MCP 客户端或 agent 操控本机桌面应用
+- 为 agent 接入浏览器自动化能力（macOS/Linux）
+- 基于源码构建自己的计算机使用集成
 
 ## 场景标签
 
-`GUI 自动化` · 领域:效率与自动化
+`浏览器自动化` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L6: MCP-based Computer Use service for Qwen Code and any MCP client — controls macOS, Linux, and Windows via accessibili
-> L71: - **MCP server**: Full MCP stdio transport with 9 Computer Use tools
+> L5: Computer Use and Browser Use runtimes for AI agents. This repository contains
+> L51: After building, configure any stdio MCP client with the absolute Node executable
+> L61: The server provides `js` and `js_reset`. Its JavaScript session preloads `cua`
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3720cc63e24c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3b73d03ab63f` · [字段定义](../../DATASET.md)*

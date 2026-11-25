@@ -2,9 +2,9 @@
 
 ⭐ 347 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/postmill-ai/postmill-app) · [官网](https://postmill.ai) · 组织维护
 
-**自托管的多品牌社交媒体管理与排期平台，内嵌 BYOK AI 层**
+**给代理和品牌团队的开源自助社交媒体管理与发布平台**
 
-面向代理商与多品牌团队的自托管社交媒体排期与设计平台：视觉发布日历覆盖 45+ 渠道，内置分层图像/视频设计器与 46 个媒体工具，支持 BYOK 接入 30 个 AI 提供商（17 个直连模型商 + 13 个多模型枢纽），可为文本/视觉/媒体任务分别指定默认模型。AI 治理层提供品牌语气、提示词库、RAG 检索、护栏（提示注入/PII/品牌安全/NSFW）与按组织限额和审计日志。另含自然语言操作全平台的 agent（可经 Slack/Telegram/Discord 等使用）、跨渠道评论收件箱、每日快照持久化分析、活动中心、多品牌管理与 5 内置角色 + 90 权限的 RBAC。许可证 AGPL-3.0，提供 Node SDK 与公共 API，另有托管服务。
+自托管社交媒体管理平台，整合设计、发布、排期、分析与互动：可视化发布日历、45+ 渠道统一编辑器、46 个内置媒体工具（含分层图像/视频编辑器与 38 个 BYOK 生成工作室）、持久化跨渠道分析、评论收件箱、活动中心与多品牌管理。AI 层采用 bring-your-own-key，按组织配置 31 个模型/媒体提供商，带提示注入/PII/品牌安全护栏与支出上限。提供自然语言 Agent 操作全平台，外部操作需确认卡片。AGPL-3.0 许可，可自托管或使用托管云。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 45+ 渠道单一编辑器排期发布，含首评自动化与渠道级 VPN 出口
-- BYOK 接入 30 个 AI 提供商，文本/视觉/媒体任务可分别指定默认模型
-- 内置分层图像/视频设计器 + 38 个 BYOK 生成工作室 + 6 个素材浏览器
-- AI 治理：护栏、按组织限额、审计日志；agent 对外操作需经确认卡片
+- 45+ 渠道单一编辑器排期发布，OAuth 或自有应用密钥接入
+- 内置分层图像/多轨视频编辑器与 46 个媒体工具，支持多渠道变体导出
+- BYOK AI 层：31 个提供商按组织配置，含 RAG 检索、护栏与审计日志
+- 自然语言 Agent 可在应用内或经 Slack/Telegram/Discord/Matrix/LINE 操作平台
 
 ## 适用场景
 
-- 代理商在同一工作区管理多客户的跨渠道社媒发布
-- 在自托管环境中按组织自带 AI key 生成图文、视频与配音素材
-- 汇总回复多渠道评论并用品牌语气回复
-- 按活动维度组织帖子并生成可撤销的只读客户报告
+- 为多个客户品牌集中排期和发布社交媒体内容
+- 在编辑器内生成素材并直接发布到多渠道
+- 通过聊天让 AI Agent 代为排期、生成素材和拉取分析
+- 自托管管理团队角色权限与跨渠道评论回复
 
 ## 场景标签
 
-`图像生成` `视频生成` `语音合成` · 领域:内容生成
+`图像生成` `AI 写作` `工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L19: **Open-source, AI-native social media management, design and scheduling.**
 > L98: Postmill is AI-native from the ground up. A single governed AI layer powers every surface, and you bring your own k
-> L102: On top of that: brand-voice profiles, a shared prompt library, retrieval-augmented (RAG) search over your own cont
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-26 · 置信度 mid · 依据 README sha `7f72e967e053` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a1e5e4ee8afa` · [字段定义](../../DATASET.md)*

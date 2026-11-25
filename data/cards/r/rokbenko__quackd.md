@@ -2,15 +2,15 @@
 
 ⭐ 297 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rokbenko/quackd) · [官网](https://www.quackd.org) · 个人维护
 
-**多机器人统一 CLI：为每台机器人接 LLM 大脑并发目标指令**
+**给机器人爱好者的 LLM 机器人指挥层：用自然语言驱动多台机器人协作**
 
-面向机器人拥有者的命令行工具：通过适配器声明每台机器人的身体与技能清单，注册后可用自然语言目标驱动，由 LLM 逐技能挑选执行，多机组成 flock 时各自带模型并分工。支持 Claude/OpenAI/Gemini/Grok 等云 API 及 Ollama/vLLM/llama.cpp/LM Studio 本地模型，可选 decision LLM（非文本生成）。收录 9 个机体，其中仅 SO-101 臂经 LeRobot 在真实硬件运行，其余 8 个处于模拟或 mock 阶段。无机器人时可用自带卡通/ MuJoCo 物理模拟器。Apache 2.0，Python 3.11+，PyPI 发布，MCP 支持。
+以 Python 包（PyPI，Python 3.11+，Apache 2.0）形式提供的人-机与机-机通信层：每台机器人经适配器以清单声明技能，用户从终端、网页或 Claude 会话下达目标，LLM 逐次挑选技能执行直到完成或失败；多机器人组队时各自配备 LLM 并互报能力分工。内置契约限制可用技能、步数与人工确认时机。作者自述十种机器人中仅 SO-101 机械臂在真实硬件上跑过，其余九种均为 mock 后端，团队跨机器协作尚未实现。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- LLM 按技能清单逐步选择执行机器人目标，契约限定技能/步数/人工确认
-- 支持多家云 API 与 Ollama/vLLM/llama.cpp/LM Studio 本地模型（无 key）
-- 可选 --decision-llm 打分式决策（不生成文本），支持 shadow 模式
-- 9 个机体适配器；无实体机器人可用卡通或 MuJoCo 模拟器（种子测试 10/10 通过）
+- 每台机器人以清单声明技能，LLM 按契约逐次调用并接受步数与人工确认限制
+- 支持多家 API 厂商及本机开源 LLM（Ollama/vLLM/llama.cpp/LM Studio，无需 key）
+- 所有适配器带 mock 后端，无机器人也能运行
+- 可选 decision LLM 对固定选项打分，含 shadow 记录模式
 
 ## 适用场景
 
-- 把拥有的多台机器人注册到一个 CLI 统一下达目标指令
-- 让带轮/带臂的机器人组队分工协作完成任务
-- 无实体机器人时在模拟器中试用目标驱动机器人控制
+- 用一句话指挥 LeRobot SO-101 机械臂完成动作
+- 在购置真实机器人前用 mock 后端体验指令流程
+- 把多台不同类型机器人接入统一 CLI 并尝试分工
 
 ## 场景标签
 
-`多智能体` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3:  One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain.
-> L41: **quackd** is a command line for the robots you own. Each one joins through an adapter that declares, as a manifest
-> L45: **One of the nine bodies runs on real hardware, and the recording above is it.** On 2026-09-15 an SO-101 follower a
+> L4:  Roboglot is the communication layer between people and robots, and between robots themselves. Say what you want in 
+> L41: **Roboglot** is the communication layer between people and the robots they own, and between those robots. Each one 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `775b8c0d8f6e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f188bcfca8bb` · [字段定义](../../DATASET.md)*

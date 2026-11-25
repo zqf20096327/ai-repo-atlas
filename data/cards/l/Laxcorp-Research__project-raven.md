@@ -2,9 +2,9 @@
 
 ⭐ 435 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Laxcorp-Research/project-raven) · 组织维护
 
-**开源本地优先 AI 会议副驾：实时转录+会中提示+会后纪要**
+**给参会者的本地会议 copilot：实时转写与 AI 助手**
 
-Electron 桌面应用，双流采集系统音频与麦克风，本地经 GStreamer WebRTC AEC3 与残差回声门做回声消除，用 Deepgram nova-3 或 AssemblyAI 双流并行实时转录，并由 Anthropic/OpenAI 提供会中悬浮提示、会后行动项、跟进邮件草稿与跨会议问答。BYOK 模式，录音与笔记存本地 SQLite，文档 RAG 用本地 MiniLM 嵌入；无账号与托管后端。支持 macOS 12+ 与 Windows 10/11，提供预编译安装包，Linux 不支持。
+Electron 桌面应用，捕获麦克风与系统音频双流，经 WebRTC AEC3（GStreamer）本地回声消除后，将 You/Them 两路并行送 Deepgram 或 AssemblyAI 实时转写；会议中通过隐形 overlay 调用 Anthropic/OpenAI 提供回答建议，会后生成行动项、跟进邮件草稿、发言占比并导出 Markdown/PDF。数据存于本地 SQLite，支持按模式的本地 RAG（MiniLM 嵌入）与跨会议检索问答。转录与 AI 均需用户自备 API key；不支持 Linux，Intel Mac 需源码构建。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Electron 桌面应用，双流采集系统音频与麦克风，本地经 GStream
 
 ## 能力要点
 
-- 双流采集+本地 WebRTC AEC3 回声消除，You/Them 分流转录
-- BYOK：转录与 AI 均使用用户自有 API key，数据留本地 SQLite
-- 会中隐形悬浮提示（对屏幕共享不可见）与会后结构化行动项/邮件草稿
-- 按模式本地 RAG（MiniLM 嵌入）与跨会议历史检索问答
+- 双流捕获 + WebRTC AEC3 回声消除 + 残余回声门控
+- Deepgram nova-3 / AssemblyAI 实时转写，按语言自动路由
+- 隐形 overlay（setContentProtection）不进入屏幕共享
+- 本地 SQLite 会话存储与设备端 MiniLM 跨会议检索问答
 
 ## 适用场景
 
-- 会议中实时看到转录并获得 AI 建议的应答提示
-- 会后自动生成行动项、跟进邮件草稿与谈话占比
-- 在本地检索并问答自己的全部会议历史
+- 会议中实时获取转录并让 AI 建议如何回应
+- 会后自动整理行动项、跟进邮件与会议纪要导出
+- 跨历史会议检索提问并引用来源会话
+- 销售/面试等场景用本地 RAG 资料辅助应答
 
 ## 场景标签
 
-`语音识别` `RAG` · 领域:知识与检索
+`AI 助手` `语音识别` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 
+> L11: - **During the call** — dual-stream capture and an overlay that suggests what to say, invisible to screen share.
 > L15: Raven is an Electron desktop app. It captures microphone and system audio, cancels echo on your machine, transcribe
-> L75: - **Real-time transcription** — Two streams: **You** (cleaned mic) and **Them** (system audio). Deepgram `nova-3` a
-> L76: - **AI assistance** — Anthropic or OpenAI from the overlay (Assist, recap, follow-up, and custom prompts). Optional
+> L17: Capture, echo cancellation, SQLite history, and document RAG run locally. Microphone/system audio goes to **Deepgra
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d40ae7e32706` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `fd7a9f9d9970` · [字段定义](../../DATASET.md)*

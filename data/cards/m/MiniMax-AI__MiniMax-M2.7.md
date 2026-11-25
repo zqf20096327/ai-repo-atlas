@@ -1,10 +1,10 @@
 # MiniMax-AI/MiniMax-M2.7
 
-⭐ 368 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.7) · 组织维护 · 中文 README
+⭐ 368 · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/MiniMax-AI/MiniMax-M2.7) · 组织维护
 
-**MiniMax 开源的 M2.7 大语言模型权重，面向 agent 与工程任务**
+**MiniMax 开源的 Agent/编程任务大语言模型 M2.7**
 
-MiniMax 公司发布的开源权重大语言模型 M2.7，官方 README 描述其在开发过程中参与自身迭代（更新记忆、构建技能、优化学习流程），支持 Agent Teams 多智能体协作、动态工具搜索与 40+ 技能，覆盖软件工程（SWE 系列基准）、专业办公（Word/Excel/PPT 多轮编辑）与娱乐角色交互场景。提供 HuggingFace/ModelScope 权重下载，推荐 SGLang、vLLM、Transformers 部署，另有 MiniMax Agent/API/NVIDIA NIM 使用途径，并给出推荐推理参数与系统提示词。
+MiniMax 发布的开源权重模型 M2.7，定位为构建 agent harness 与完成复杂生产力任务：官方介绍其支持 Agent Teams 多智能体协作、Skills 与动态工具搜索，应用于软件工程（日志分析、调试、重构、SRE 决策）、办公文档处理与角色互动娱乐场景。README 给出基准成绩、推荐推理参数（temperature/top_p/top_k）与默认系统提示词；本地部署需从 HuggingFace/ModelScope 下载权重，通过 SGLang、vLLM 或 Transformers 服务；也可经 MiniMax API、NVIDIA NIM Endpoint 使用。README 含官方自评基准对比表述。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@ MiniMax 公司发布的开源权重大语言模型 M2.7，官方 README 描述�
 
 ## 能力要点
 
-- 支持 Agent Teams 多智能体协作与动态工具搜索
-- 在 SWE-Pro 56.22%、GDPval-AA ELO 1495 等基准有官方报告成绩
-- 提供 SGLang / vLLM / Transformers 部署指南与推荐推理参数
-- 附 Tool Calling 指南与 OpenRoom 交互演示（openroom.ai）
+- 开源权重模型，可从 HuggingFace 与 ModelScope 下载
+- 支持 Agent Teams 多智能体协作、Skills 与动态工具搜索
+- 官方推荐 SGLang/vLLM/Transformers 三种本地推理框架
+- 提供 Tool Calling 指南与推荐推理参数
 
 ## 适用场景
 
-- 本地部署开源权重大模型做代码生成与软件工程任务
-- 构建多智能体协作与工具调用应用
-- 通过 MiniMax API 或 Agent 平台直接调用该模型
+- 本地部署大模型跑编程与 agent 工作流
+- 软件工程任务：调试、重构、日志与故障分析
+- 通过 API 接入 MiniMax 模型做文本生成
 
 ## 场景标签
 
- · 领域:大模型/开源权重
+`编码 Agent` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L40: **MiniMax-M2.7** is our first model deeply participating in its own evolution. M2.7 is capable of building complex 
+> L68: Download the model from HuggingFace repository: https://huggingface.co/MiniMaxAI/MiniMax-M2.7
 > L70: We recommend using the following inference frameworks (listed alphabetically) to serve the model:
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d2902f70aa35` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `818b28a66ef1` · [字段定义](../../DATASET.md)*

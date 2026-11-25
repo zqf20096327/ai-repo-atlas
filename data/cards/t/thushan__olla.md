@@ -1,10 +1,10 @@
 # thushan/olla
 
-⭐ 341 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/thushan/olla) · [官网](https://tensorfoundry.io/products/olla) · 组织维护
+⭐ 341 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/thushan/olla) · [官网](https://tensorfoundry.io/products/olla) · 个人维护
 
-**自托管 LLM 推理后端的代理与负载均衡器**
+**自托管 LLM 基础设施的代理与负载均衡器：路由、故障转移、统一模型目录**
 
-用 Go 编写的 LLM 基础设施代理与负载均衡器：跨本地/远程推理后端（Ollama、vLLM、llama.cpp、LM Studio、SGLang 等 11 类）做优先级路由、自动故障转移与统一模型发现。提供 OpenAI 与 Anthropic 两种 API 形态（透传或格式转换），含 KV-cache 亲和的粘性会话、熔断器、嵌入式只读管理面板，运行内存低于 50Mb。定位为与 LiteLLM 等 API 网关配合使用，面向自建 GPU 集群与家庭实验室场景。
+用 Go 编写的轻量代理与负载均衡器，面向自托管 LLM 推理后端：提供优先级路由、自动故障转移、连接重试、KV-cache 感知的粘性会话、模型发现与统一目录、健康检查与熔断。支持 OpenAI 与 Anthropic 两种 API 路径（透传或自动转换格式），内嵌只读管理面板。运行时内存低于 50Mb，提供安装脚本、Docker 镜像、go install 与源码构建方式。云 API 需经 LiteLLM 桥接，本体不代理托管云服务。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 11 类后端原生接入（Ollama/vLLM/llama.cpp/LM Studio/SGLang 等）
-- 优先级路由、自动故障转移、熔断器与自愈式模型发现刷新
-- Anthropic Messages API 透传或 OpenAI 格式自动转换
-- 二进制内嵌只读管理面板，运行内存低于 50Mb
+- 双代理引擎：Sherpa（简单）与 Olla（含熔断、连接池）
+- 原生支持 Ollama、vLLM、llama.cpp、SGLang、LM Studio 等 13 类后端
+- Anthropic Messages API 透传或 OpenAI 格式自动翻译
+- 内嵌只读管理面板，二进制内直接提供
 
 ## 适用场景
 
-- 多个 Ollama/vLLM 实例间做负载均衡与故障转移
-- 让 Claude Code 等 CLI 工具接入本地模型
-- 通过 LiteLLM 桥接本地端点与云 API 的混合部署
+- 家庭实验室里在多台机器的 Ollama 实例间做负载均衡
+- 团队本地端点与云 API 混合部署的统一路由
+- 让 Claude Code 等 CLI 工具通过本地模型运行
+- 企业 GPUStack 集群与 vLLM 服务器的接入层
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 ## 证据(README 行号)
 
 > L28: Olla is a high-performance, low-overhead, low-latency proxy and load balancer for managing LLM infrastructure. It i
-> L30: Olla works alongside API gateways like LiteLLM or orchestration platforms like GPUStack, focusing on making your **
+> L70: Olla proxies the following self-hosted inference backends. The **Anthropic API** column shows whether `/olla/anthro
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `63bd2738a6bc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ac01f757a89e` · [字段定义](../../DATASET.md)*

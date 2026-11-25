@@ -2,9 +2,9 @@
 
 ⭐ 371 · Julia · MIT · 推送 2026-11-21 · [GitHub](https://github.com/IBM/AutoMLPipeline.jl) · 组织维护
 
-**Julia 机器学习流水线构建与评估包**
+**Julia 机器学习流水线构建与评估库：组合特征处理与学习器**
 
-IBM 维护的 Julia 包，用管道组合算子（|>、+、*）把特征选择、PCA/ICA 降维、缩放、独热编码与多种学习器（RandomForest、PrunedTree、VoteEnsemble、StackEnsemble，及经 skoperator 调用的 sklearn 学习器）串成机器学习流水线，并提供 crossvalidate 交叉验证、score 评估、@pipeline 宏与 Distributed 并行评估，支持自动选择最优学习器。面向用 Julia 做数据挖掘与机器学习的开发者，配套论文含基准比较，通过 Julia pkg 安装。
+基于 Julia 的 AutoML 流水线包：将特征选择器、预处理器（PCA/ICA/FA/多种 Scaler/OneHotEncoder）与学习器（随机森林、SVC、梯度提升、剪枝决策树、投票/堆叠集成、BestLearner）用 |> 管道操作符和 + 组合符串联成流水线，通过 fit_transform! 训练与预测，crossvalidate 支持按 sklearn 指标做交叉验证，并提供 @pipeline/@pipelinex 宏展开流水线表达式、Distributed 并行处理，另含异常检测扩展 AutoAD。面向 Julia 数据科学用户，安装通过 Julia Pkg（pkg> add AutoMLPipeline），并附论文链接与基准对比。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ IBM 维护的 Julia 包，用管道组合算子（|>、+、*）把特征选择�
 
 ## 能力要点
 
-- 管道算子语法组合预处理、特征提取与学习器
-- crossvalidate 十折交叉验证与 sklearn 性能指标
-- Distributed 并行处理多学习器评估
-- skoperator 接入 sklearn 学习器（PCA、SVC、MLP 等）
+- |> 与 + 组合符将特征处理与学习器串联为流水线
+- crossvalidate 支持 sklearn 性能指标的交叉验证
+- @pipeline 宏展开流水线表达式，支持 Distributed 并行
+- skoperator() 接入 sklearn 风格算子，含集成学习器
 
 ## 适用场景
 
-- 组合降维、缩放与编码步骤搭建分类/回归流水线
-- 并行交叉验证比较多个学习器性能
-- 自动在候选学习器中选出最优模型
+- 快速组合预处理与分类/回归学习器并交叉验证
+- 对比多个学习器在数据集上的表现
+- 并行评估多条流水线架构
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ IBM 维护的 Julia 包，用管道组合算子（|>、+、*）把特征选择�
 ## 证据(README 行号)
 
 > L1: ## AutoMLPipeline
-> L20: #### Please read this [AutoMLPipeline Paper](https://doi.org/10.21105/jcon.00129) for benchmark comparisons.
-> L80: rf = skoperator("RandomForestClassifier")
+> L76: #### 2. Load Filters, Transformers, and Learners
+> L102: rf = skoperator("RandomForestClassifier")
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `64cbcb1e8d62` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `be30126e4a50` · [字段定义](../../DATASET.md)*

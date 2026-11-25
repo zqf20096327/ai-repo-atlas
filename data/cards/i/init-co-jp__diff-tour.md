@@ -1,10 +1,10 @@
 # init-co-jp/diff-tour
 
-⭐ 379 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/init-co-jp/diff-tour) · 组织维护 · 中文 README
+⭐ 379 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/init-co-jp/diff-tour) · 组织维护
 
-**把 git 变更转成 LLM 生成的讲解式导览 TUI，供阅读代码变更**
+**把 git diff 变成 LLM 生成的分步导览 TUI，供开发者学习**
 
-只读终端工具：对选定分支或提交，用 git archive/diff/log 导出前后两个版本的受控文件到缓存目录，随后以只读权限和固定提示词启动用户本机的 CLI agent（Claude Code、Codex CLI、Gemini CLI、OpenCode 2、Copilot CLI）生成一份 JSON 导览，校验其中文件与行号（最多回传修正两次），再用 ←/→ 两键分页展示：变更目的、评审关注点、必须修复项与可选项等。导览内容来自收集于 internal/generate/lessons 的评审经验。工具自身无网络请求、无遥测；LLM 仅能读导出目录，禁止写入、联网与加载 MCP。生成需 2-5 分钟，结果缓存可即时重开。
+diff-tour 是只读终端 TUI，调用用户已登录的 LLM 命令行工具（Claude Code、Codex CLI、Gemini CLI、OpenCode、Copilot CLI、Pi）读取 git 变更，生成带导航的分步导览：改动目的、审阅重点、思考题与答案。它通过向各工具传入严格参数（限只读工具、禁 MCP/网络/写入、会话不持久）控制 LLM 行为，tour 为 JSON 并校验文件行号引用，本工具自身不发起网络请求。需 git 和一个受支持的 LLM CLI；tour 生成需 2-5 分钟。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 用 git archive/diff/log 导出受控快照，LLM 以只读权限在缓存目录内生成导览
-- 支持 Claude Code、Codex CLI、Gemini CLI、OpenCode 2、Copilot CLI 五种 CLI agent
-- 导览 JSON 中的文件与行号会被校验，错误回传 LLM 修正（至多两次）
-- 按各工具自身旗标（restricted/sandbox/admin-policy 等）强制只读、断网、禁 MCP，工具本身无网络请求与遥测
+- 只读 TUI：逐步浏览 LLM 生成的 diff 导览（→/←/q）
+- 对每个 LLM CLI 传入只读限制参数并禁用 MCP、网络与会话持久化
+- 校验导览 JSON 中的文件与行号引用，错误最多回传修正两次
+- 本工具自身无服务器、无遥测，导览缓存后可秒开
 
 ## 适用场景
 
-- 新接手代码库时按资深工程师视角走读一个分支的变更
-- 新人 onboarding：理解某次变更为什么这样写、评审者会担心什么
-- code review 前快速了解变更的风险点与必须修复项
+- 接入新代码库时按导览理解一次变更的设计意图
+- 学习资深工程师审阅代码时的关注点与提问方式
+- 在不改动工作区的前提下审阅分支或未提交变更
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L43: `tour` turns a git change into a guided tour you step through with two keys, **→** and **←**. The tour shows what a
-> L52: The tour is written by an LLM you already use: Claude Code, Codex CLI, Gemini CLI, OpenCode or Copilot CLI. `tour` 
-> L64: 2. **Write.** `tour` starts the LLM's command-line tool in that directory with a fixed prompt and read-only permiss
+> L51: `tour` turns a git change into a guided tour you step through with two keys, **→** and **←**. The tour shows what a
+> L60: The tour is written by an LLM you already use: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot CLI or Pi. `to
+> L71: 1. **Export.** `tour` reads your repository with `git archive`, `git diff` and `git log`, and writes the files into
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ca96d6760b22` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `27a8317e1f06` · [字段定义](../../DATASET.md)*

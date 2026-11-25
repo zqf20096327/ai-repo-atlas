@@ -2,9 +2,9 @@
 
 ⭐ 308 · Rust · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/tony3liu/eido) · [官网](https://cairno.cn/eido/) · 个人维护 · 中文 README
 
-**macOS AI 编码工作台：对话、编辑、审查与浏览器/桌面操作一体**
+**面向 macOS 用户的 AI 工作区：会话为中心完成任务**
 
-基于 Zed 编辑器与 pi coding agent 构建的 macOS 桌面应用（0.0.1 首个稳定通道版本），将 AI 对话与代码编辑放在同一工作区：用 @ 引入代码上下文下达任务，agent 调查并提出修改，用户在原生审查界面决定接受或拒绝。提供 Workbench/Code/Split 三种视图、任务历史与恢复、Ask Before Actions 与 Full Access 两种全局权限控制，并捆绑 pi 1.3.0。浏览器代理改编自 browser-use/jev-ultrafast。Browser/Computer Use 为实验特性，桌面后台输入与焦点隔离在部分应用不可靠。要求 macOS 13+、Apple Silicon。
+基于 Zed 编辑器与 pi agent 构建的本地 macOS 应用，将任务、对话与结果文件保持在同一工作区。提供原生代码编辑与变更审查、Browser Use 与 Computer Use（捆绑 Chromium 与桌面驱动）、全局 Agent 权限控制（Ask Before Actions/Full Access）、自定义 API 接入、图像生成扩展与实验性研究文档提取功能。当前版本 0.0.5，仅支持 Apple Silicon 且标注为早期发布，未通过 Apple 公证。
 
 ## 筛选速览
 
@@ -13,33 +13,33 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 捆绑官方未修改的 pi 1.3.0，Full Access 支持自主执行与 Code Mode、子代理
-- 原生变更审查界面，逐项接受/拒绝文件修改
-- Ask Before Actions / Full Access 全局 Agent 访问控制
-- 实验性 Browser Use 与 Computer Use（内置桌面驱动）
+- 内置任务/文件/分屏视图，会话与原生编辑审查结合
+- Browser Use 与 Computer Use，捆绑 Chromium 与桌面驱动
+- 全局 Agent 访问控制（Ask Before Actions / Full Access）
+- 自定义 API 连接与图像生成（gpt-image-1 系列模型 ID）
 
 ## 适用场景
 
-- 在真实项目中用自然语言描述任务并让 agent 提出修改
-- 在同一工作区内边对话边编辑和审查代码
-- 让 agent 检查网页或操作桌面应用（实验性）
+- 在对话中完成代码修改并逐项审查接受变更
+- 让 AI 操作浏览器与桌面应用完成网站流程
+- 基于本地文档与外部来源做研究对比并保留证据
 
 ## 场景标签
 
-`编码 Agent` `代码审查` `GUI 自动化` · 领域:效率与自动化
+`GUI 自动化` `编码 Agent` `代码审查` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L5:  An AI workspace for understanding code, building with an agent,
-> L27: This release bundles the official, unmodified **pi 1.3.0**. Full Access uses pi's autonomous execution for enabled 
-> L136: Eido builds on the work of **Zed** and **pi**. Zed provides the native editor foundation; pi powers the coding age
+> L17: Eido is a native AI workspace built on Zed and the official, unmodified pi agent. Start with an outcome, bring in r
+> L40: Reference relevant files with `@`, attach supporting material, and continue earlier tasks with their saved context.
+> L66: 3. **Set Agent Access.** Start with **Ask Before Actions**, or choose **Full Access** to let pi decide how to use e
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `33d7f7af683c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `68c8567375af` · [字段定义](../../DATASET.md)*

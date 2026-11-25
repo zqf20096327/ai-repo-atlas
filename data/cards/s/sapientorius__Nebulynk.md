@@ -1,10 +1,10 @@
 # sapientorius/Nebulynk
 
-⭐ 276 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/sapientorius/Nebulynk) · [官网](https://nebulynk.net) · 个人维护
+⭐ 276 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/sapientorius/Nebulynk) · [官网](https://nebulynk.net) · 组织维护
 
-**自托管团队协作平台：聊天、会议与可选 AI 辅助**
+**自托管团队协作平台：聊天、会议与 AI 跟进一体化**
 
-面向团队的自托管协作产品，整合频道聊天、语音视频会议、屏幕共享、文件、搜索、提醒与通知，以及基于 BYOK（自带 API key）的可选 AI 功能：转写、会议摘要、可检索的后续事项与过往会议的上下文问答。自带 Docker 部署资源，支持 Coolify/Dokploy/Plesk 等部署方式。采用 BSL 1.1 源码可用许可（非开源许可），免费生产使用受许可条件限制；技术栈为 FeathersJS、Vue.js、LiveKit、PostgreSQL、Redis。
+Nebulynk 是一个自托管的团队协作平台，集成频道与私信聊天、语音视频会议、屏幕共享、文件与搜索，并提供可选的 AI 功能：会议转录、会议摘要、可搜索跟进内容与针对历史会议的上下文问答。AI 功能采用 BYOK 模式，用户自选模型提供方并自行管理密钥。项目以 BSL 1.1 源码可用许可发布，支持 Docker 部署与 Coolify/Dokploy/Plesk 等平台部署，浏览器/PWA 访问，另有可选的 Windows/macOS 全局按键说话辅助程序。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 聊天、语音视频会议、屏幕共享、文件与搜索整合于同一工作区
-- BYOK 模式的可选 AI 功能：转写、会议摘要、后续事项检索
-- 角色权限、访客访问、passkey 与双因素认证
-- 提供 Docker 部署资源与 GHCR 镜像
+- BYOK 模式：自选 AI 提供方与模型，密钥由用户控制
+- 语音/视频会议、屏幕共享与定时会议
+- AI 转录、会议摘要与历史会议上下文问答
+- 提供 GHCR 镜像与 Coolify/Dokploy/Plesk 部署文档
 
 ## 适用场景
 
-- 团队在自有基础设施上运行聊天与会议平台
-- 用自带 key 的 AI 生成会议摘要与可检索的后续事项
-- 需要数据与 AI 供应商可控的团队协作环境
+- 团队在一个自托管工作区内完成聊天与视频会议
+- 会议结束后自动生成转录与摘要跟进事项
+- 在自有基础设施上运行协作工具以掌控数据
 
 ## 场景标签
 
-`语音识别` · 领域:感知与多模态
+`语音识别` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L6: Nebulynk brings the everyday flow of teamwork into one place: focused chat,
 > L24: Nebulynk uses a bring-your-own-key (BYOK) model for AI features. Choose the
+> L27: summaries, searchable follow-up, and contextual answers about past meetings.
+> L7: voice and video meetings, files, search, notifications, and optional AI tools
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c641c0301ffc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `62103940cb18` · [字段定义](../../DATASET.md)*

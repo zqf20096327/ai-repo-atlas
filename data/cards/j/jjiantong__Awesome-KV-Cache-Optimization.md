@@ -1,10 +1,10 @@
 # jjiantong/Awesome-KV-Cache-Optimization
 
-⭐ 428 · Python · 推送 2026-10-23 · [GitHub](https://github.com/jjiantong/Awesome-KV-Cache-Optimization) · [官网](https://jjiantong.github.io/Awesome-KV-Cache-Optimization/) · 组织维护 · 中文 README
+⭐ 428 · Python · 推送 2026-10-23 · [GitHub](https://github.com/jjiantong/Awesome-KV-Cache-Optimization) · [官网](https://jjiantong.github.io/Awesome-KV-Cache-Optimization/) · 组织维护
 
-**LLM 服务中 KV 缓存优化论文综述清单**
+**LLM 服务中 KV Cache 优化方法的持续更新论文集**
 
-配合 ACL 2026 Findings 综述论文维护的文献集合：收录面向服务时、无需重训练或架构修改的系统级 KV 缓存优化方法（作者称为 sKis 范围），按 Temporal/Spatial/Structural 三类系统行为导向分类组织条目，持续更新（如 2026-10 新增 63 篇），并含工具/模拟器/基准资源章节。面向 LLM 推理服务与系统方向的研究者，用于检索方法与追踪新工作。仓库本身不含可运行代码。
+配套 ACL 2026 Findings 综述论文的文献集合仓库，收录无需重训练或架构修改、面向服务时系统指标的 KV Cache 优化工作，按自提出的系统行为导向分类法组织为 Temporal/Spatial/Structural 三类，并分析跨行为协同设计与行为-目标效应。仓库以表格形式列出各论文的类型描述与代码链接，持续更新并新增 Tools、Simulators & Benchmarking 资源章节及交互式论文浏览网站。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 按 Temporal/Spatial/Structural 系统行为分类组织论文
-- 持续更新收录（2026-10 单次新增 63 篇）
-- 配套综述论文（ACL 2026 Findings）与交互式论文浏览网站
-- 含工具、模拟器与基准资源章节
+- 按 Temporal/Spatial/Structural 系统行为分类法组织文献
+- 聚焦服务时、系统感知、KV 中心的优化方法（sKis 范围）
+- 持续更新，2026-10 新增 63 篇论文与工具/仿真/基准资源章节
+- 配套交互式论文浏览网站
 
 ## 适用场景
 
-- 查找 LLM serving 的 KV 缓存优化方法论文
-- 按调度/卸载/压缩等系统行为定位相关工作
-- 追踪该方向的最新论文动态
+- 调研 KV Cache 调度、流水线、缓存管理等 LLM 服务优化方向
+- 为推理系统研究查找相关工作与开源代码
+- 按分类法定位尚未被充分研究的问题区域
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`科研工具` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L9: This repository accompanies our survey paper (**ACL 2026 Findings**):
 > L15: This repository maintains a continuously updated collection of **system-aware, serving-time, KV-centric** optimizat
-> L40: ## Temporal — Execution & Scheduling
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cb1f76919082` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `125462acc453` · [字段定义](../../DATASET.md)*

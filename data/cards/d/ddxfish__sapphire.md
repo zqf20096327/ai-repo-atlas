@@ -2,9 +2,9 @@
 
 ⭐ 337 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/ddxfish/sapphire) · [官网](https://sapphireblue.dev/) · 个人维护
 
-**自托管的语音 AI 伴侣/agent 框架，可定制人格与长期记忆**
+**自托管语音 AI 伴侣框架：构建有长期记忆的个性化智能代理**
 
-面向个人用户的开源自托管 agentic 框架：提供 12 种内置人格（捆绑提示词、语音、工具与模型）、唤醒词/STT/TTS 语音对话、长期记忆（语义向量检索、分层记忆引擎、夜间图书管理员整理）、目标与心跳调度、后台 agent。集成覆盖 Discord、Telegram、邮件、Twilio 电话、Home Assistant、SSH、比特币、MCP 等，AI 可在运行时自写并安装新工具。本地优先，支持 Ollama/LM Studio 作为本地端点，亦可接 Claude/GPT/Gemini。README 明确警告其可执行 shell 命令并自主运行，需谨慎配置工具集。安装途径为 Sapphire Launcher（Windows .exe / Linux .AppImage）、conda+git 源码运行或 Docker。
+以 Python 为主体的 agentic 框架，用户可构建带人格、语音（唤醒词/STT/TTS）与长期记忆（向量检索、Mind Palace 图谱）的 AI 伴侣。集成智能家居、Discord/Telegram/邮件、Google Calendar、SSH、MCP 服务端与客户端等工具，支持心跳调度、目标系统、夜间 Librarian 整理记忆，并提供插件商店与让 AI 自行编写工具的 Tool Maker。需 16GB+ 内存、Python 3.11（conda）；Mac 仅支持 Docker，本地 LLM 需更多内存。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 12 种内置人格，AI 可编辑自身提示词并在对话中切换情绪/人格片段
-- 长期记忆体系：语义向量检索、分层记忆引擎与夜间自动整理
-- 运行时工具自造（Tool Maker）：AI 编写、验证并安装新工具
-- 集成 Discord/Telegram/邮件/Twilio 电话/Home Assistant/MCP 等，附插件商店
+- 人格系统含 12 内置人格，AI 可自改提示词与情绪片段
+- 分层记忆引擎（Mind Palace）与 100K+ 条语义向量检索
+- 本地 Kokoro TTS/STT 语音链路，可切换 ElevenLabs；Twilio 真实电话接入
+- MCP 服务端/客户端与插件商店生态
 
 ## 适用场景
 
-- 搭建住在家里的语音 AI 伴侣，唤醒词免提对话并记住日常
-- 通过电话、Discord、Telegram 等渠道与自己的 AI 对话
-- 作为智能家居中枢控制灯光、温控与通知
-- 开发者通过插件系统扩展工具并发布到插件商店
+- 自托管一个有长期记忆的家庭 AI 伴侣并联动 Home Assistant
+- 给 AI 配置手机号让她接打电话和收发消息
+- 用 ESP32/Pi 卫星设备搭建分布式语音终端
+- 让 AI 夜间自主整理记忆并推进目标任务
 
 ## 场景标签
 
-`语音 Agent` `Agent 记忆` · 领域:Agent 开发
+`AI 助手` `语音 Agent` `Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: Sapphire is an agentic framework with voice that is customizable. Build your own AI persona that is a true smart hom
 > L25: Hey I'm Chris, a solo dev with a burning passion for this project. Sapphire is an agentic framework exploring perso
-> L74: - **Cloud LLM Support** (optional) - Claude, GPT, Gemini, Fireworks, or any OpenAI/Anthropic-compatible endpoint (O
+> L81: - **Cloud LLM Support** (optional) - Claude, GPT, Gemini, Fireworks, or any OpenAI/Anthropic-compatible endpoint (O
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `e627feb3c849` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `9e3a003c5136` · [字段定义](../../DATASET.md)*

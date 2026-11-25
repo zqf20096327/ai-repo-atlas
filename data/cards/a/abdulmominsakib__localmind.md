@@ -2,15 +2,15 @@
 
 ⭐ 343 · Dart · MIT · 推送 2026-11-20 · [GitHub](https://github.com/abdulmominsakib/localmind) · 个人维护
 
-**移动端本地 LLM 聊天客户端：离线跑 GGUF 模型或连接自有服务器**
+**移动端本地/云端 LLM 聊天客户端，支持离线运行 GGUF 模型**
 
-基于 Flutter 3.44 的 Android/iOS 开源聊天应用：通过 llamadart（llama.cpp）与 flutter_gemma（LiteRT）在设备上离线运行 GGUF 与 Gemma 模型，或连接 Ollama、LM Studio、OpenRouter、Requesty 及任意 OpenAI 兼容服务器。内置 MCP 工具支持（文件访问、Web API、shell 动作）、模型管理器（含从 HuggingFace 下载 GGUF）、流式响应、Markdown 渲染、STT/TTS、多模态附件、persona 管理与可选端到端加密 S3 同步。隐私上无分析埋点，对话仅存本地。提供 App Store、Google Play 与 GitHub Releases APK 安装包，源码经 FVM + Flutter 构建。
+基于 Flutter 的开源 Android/iOS LLM 聊天应用，MIT 许可。可在手机上完全离线运行 GGUF（经 llama.cpp/llamadart）与 LiteRT 模型，也可连接 Ollama、LM Studio、OpenRouter、Requesty 或任意 OpenAI 兼容服务器，内置 MCP 工具支持。功能包括模型管理（可从 HuggingFace 直接下载 GGUF）、多服务器连接与健康监测、语音输入输出、多模态附件、人设管理、对话全文检索与本地备份。源码经 FVM 固定 Flutter 3.44 构建，应用商店与 GitHub Releases 提供安装包。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 设备端离线推理：GGUF（llamadart/llama.cpp）与 LiteRT（flutter_gemma）
-- MCP 工具支持：本地/远程 MCP 服务器，细粒度权限开关
-- 多后端连接：Ollama/LM Studio/OpenRouter/Requesty/OpenAI 兼容 API，含服务器健康监控
-- STT/TTS 语音输入输出、多模态附件与 persona 管理
+- Android/iOS 离线运行 GGUF 与 LiteRT 模型（llamadart + flutter_gemma）
+- 内置 MCP 支持，可为模型接入自定义工具
+- Android 本地 API：将已加载模型以 OpenAI 兼容端点提供给其他应用
+- 15 种语言界面，S3 端到端加密云同步（仅连用户自控的桶）
 
 ## 适用场景
 
-- 在手机上完全离线与本地 GGUF 模型对话
-- 把手机作为连接家里 Ollama/LM Studio 服务器的聊天客户端
-- 通过 MCP 让本地模型调用自定义工具
+- 在手机上离线运行本地模型进行私密对话
+- 通过一个客户端统一连接 Ollama、LM Studio 与云服务商
+- 为视觉模型附加照片与文档进行多模态提问
+- 为模型配置 MCP 工具（文件访问、Web API 等）
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`聊天机器人` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L5: LocalMind is an open-source Android and iOS chat app for LLMs. Run GGUF and LiteRT models fully offline on your phon
-> L45: - **Multi-Server Connection**: Connect to Ollama, LM Studio, OpenRouter, Requesty, or any OpenAI-compatible API wit
+> L43: - **On-Device AI Support (iOS & Android)**: Private, fast, and offline. Run powerful GGUF and LiteRT models (Gemma,
+> L47: - **Multi-Server Connection**: Connect to Ollama, LM Studio, OpenRouter, Requesty, Standard Compute, or any OpenAI-
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a63963c2e196` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7ac94ab7c564` · [字段定义](../../DATASET.md)*

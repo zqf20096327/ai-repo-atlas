@@ -2,9 +2,9 @@
 
 ⭐ 316 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/automaticdai/rpi-object-detection) · 个人维护
 
-**面向树莓派的实时目标检测与追踪示例集合**
+**给树莓派开发者的实时目标检测与跟踪示例集**
 
-基于 Python/OpenCV 的树莓派计算机视觉起步项目，提供 8 个独立示例：摄像头测试、运动检测（帧差+轮廓）、基于颜色/形状/ORB 特征的目标追踪、Haar 级联人脸检测，以及 YOLO（Ultralytics）和 TensorFlow Lite 两类神经网络目标检测。给 DIY/maker 开发者作为 RPi+CV 项目起点。代码跨平台，可跑在 x86/x64、Jetson、Banana Pi 等 Linux 平台；YOLO 与 TFLite 示例仅限 RPi 3/4/5。通过 install.sh 建虚拟环境安装依赖，逐脚本运行。
+基于 Python + OpenCV 的树莓派视觉示例仓库，提供相机测试、HTTP 视频流、运动检测、颜色/形状/ORB 特征三种跟踪、Haar 人脸检测，以及 Ultralytics YOLO 与 TensorFlow Lite 两类神经网络目标检测示例。代码跨平台，可在 x86/x64、Jetson、Banana Pi 等其他 Linux 板卡运行；通过 install.sh 创建 venv 并安装依赖，含各板卡 FPS 基准测试脚本。Jetson 特定功能需另用其姊妹仓库。
 
 ## 筛选速览
 
@@ -14,32 +14,31 @@
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 硬件要求 | `cpu-ok` | |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 8 个独立 CV 示例：运动/颜色/形状/ORB 特征/人脸/YOLO/TFLite
-- 支持树莓派 1/2/Zero/3/4/5 与 Nvidia Jetson（Nano 已测试）
-- Picamera2 官方摄像头模块与 USB 摄像头均可接入
-- install.sh 一键创建 venv 并安装全部 Python 依赖
+- 9 个示例覆盖相机测试到 YOLO/TFLite 目标检测
+- 支持 Picamera2 自动切换 CSI 相机或 USB 相机
+- install.sh 安装 CPU-only PyTorch 避免 ARM64 拉 GB 级 CUDA 包
+- 提供各板卡 FPS 基准测试脚本与实测平台表
 
 ## 适用场景
 
-- 在树莓派上跑实时目标检测和追踪的 DIY 项目起步
-- 对比颜色/形状/特征/深度学习多种检测方案的实现
-- 在 Jetson 等其他 Linux 嵌入式板卡上复用这些 CV 示例
+- 为 DIY 树莓派视觉项目寻找入门起点
+- 在 Pi 3/4/5 上跑 YOLO 或 TFLite 物体识别
+- 用浏览器远程查看树莓派摄像头画面
 
 ## 场景标签
 
-`目标检测` `人脸识别` · 领域:感知与多模态
+`目标检测` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L49: - `src/object-detection-yolo`: Object detection using YOLO (RPi 3/4/5 only)
-> L50: - `src/object-detection-tflite`: Object detection using TensorFlow Lite (RPi 3/4/5 only)
-> L89: ### 3.7. Object Detection using YOLO
+> L12: Using a Raspberry Pi and a camera module for computer vision with OpenCV, YOLO, and TensorFlow Lite. The aim of thi
+> L69: - `src/object-detection-yolo`: Object detection using YOLO (RPi 3/4/5 only)
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `c943e2fd7f6a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bef1b07b4161` · [字段定义](../../DATASET.md)*

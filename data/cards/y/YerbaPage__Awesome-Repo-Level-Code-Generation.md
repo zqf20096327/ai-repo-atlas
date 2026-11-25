@@ -1,10 +1,10 @@
 # YerbaPage/Awesome-Repo-Level-Code-Generation
 
-⭐ 339 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation) · 组织维护
+⭐ 339 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/YerbaPage/Awesome-Repo-Level-Code-Generation) · 个人维护
 
-**仓库级代码生成与议题修复论文策展清单**
+**面向 AI4SE 研究者的仓库级代码生成论文清单**
 
-由上海交大研究者维护的 awesome list，收录仓库级（repository-level）代码生成与议题修复方向的研究论文，按 Repo-Level Issue Resolution 与 Repo-Level Code Completion 等章节组织，时间跨度 2023 至 2026，多为 arXiv 论文并附会议出处；部分条目附带论文链接与代码仓库链接。面向软件工程与 LLM 方向的研究者和开发者，可通过 PR 贡献新条目。内容为清单本体，不含可运行代码。
+由 SJTU 研究者维护的策展清单（curated list），收录仓库级代码生成与 Issue Resolution 方向的研究论文及资源，按 Issue Resolution、Code Completion 等类别组织，条目标注发表会议/arXiv 时间并提供论文与代码仓库链接，接受社区 pull request 贡献。清单本身不包含可运行代码或工具，属于文献导航资源，适用于跟踪 SWE-agent、程序修复、代码补全等研究的进展。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 按议题修复/代码补全等章节组织的论文清单
-- 覆盖 2023-2026 年 arXiv 与会议论文（EMNLP/NeurIPS/ASE 等）
-- 部分条目附代码仓库链接
+- 收录仓库级代码生成与 Issue Resolution 方向研究论文
+- 按 Issue Resolution、Code Completion 等类别组织条目
+- 条目附论文与代码仓库链接，标注会议/arXiv 时间
+- 接受社区 pull request 补充
 
 ## 适用场景
 
-- 查找仓库级代码生成方向的论文与代码
-- 跟踪 SWE agent 与自动程序修复的研究进展
-- 为选型或研究综述收集参考文献
+- 查找仓库级代码生成方向的论文入口
+- 跟踪 SWE-agent 与自动程序修复研究进展
+- 为 AI4SE 综述或课题调研收集文献
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: 🌟 A curated list of awesome repository-level code generation research papers and resources. If you want to contribut
 > L9: ## 💥 Repo-Level Issue Resolution
-> L89: ## 🤖 Repo-Level Code Completion
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b41a09c4fa49` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2c04c8c6c49f` · [字段定义](../../DATASET.md)*

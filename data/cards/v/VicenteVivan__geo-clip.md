@@ -2,9 +2,9 @@
 
 ⭐ 422 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/VicenteVivan/geo-clip) · [官网](https://arxiv.org/abs/2309.16020) · 组织维护
 
-**图像全球地理定位模型：将图像与 GPS 坐标对齐预测拍摄位置**
+**图像地理定位研究者：从图片预测全球 GPS 位置**
 
-NeurIPS 2023 论文 GeoCLIP 的官方 PyTorch 实现。借鉴 CLIP 对比学习，用 470 万张全球图像-GPS 配对数据（MP-16）训练，将图像与地理位置对齐，实现全球图像地理定位，并可将位置编码器用作预训练 GPS 编码器，辅助其他地理感知神经网络（如 GPS-only 多分类，在 Geo-Tagged NUS-Wide 上报告结果）。面向科研与开发者，pip 安装即用，提供 Colab 演示与推理代码示例；基准数据集包括 Im2GPS3k、YFCC26k、GWS15k 等。
+NeurIPS 2023 论文 GeoCLIP 的官方 PyTorch 实现：通过对比学习对齐图像与 GPS 坐标，在 Im2GPS3k、YFCC26k、GWS15k、Geo-Tagged NUS-Wide 等基准数据集上进行图像地理定位。训练使用 4.7M 全球图像的 MP-16 数据集；位置编码器将地球建模为连续函数，可作为预训练 GPS 编码器为其他地理感知神经网络提供 GPS 特征。要求 Python 3.11+，通过 pip 或源码安装，提供 Colab demo。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@ NeurIPS 2023 论文 GeoCLIP 的官方 PyTorch 实现。借鉴 CLIP 对比学习�
 
 ## 能力要点
 
-- CLIP 式对比训练实现图像与 GPS 坐标对齐的全球地理定位
-- 预训练位置编码器可作为 GPS 特征提取器用于其他架构
-- 在 Im2GPS3k/YFCC26k/GWS15k/NUS-Wide 基准上报告结果
-- pip 安装并提供 Colab 演示
+- 图像到 GPS 位置的地理定位推理（GeoCLIP 类）
+- 预训练位置编码器可输出全球 GPS 嵌入，供地理感知架构复用
+- 基于 MP-16 数据集（4.7M 全球图像）对比训练
+- 提供 Colab demo 与 pip 模块
 
 ## 适用场景
 
-- 给定照片预测其拍摄的 GPS 位置
-- 为地理感知模型提取 GPS 嵌入特征
-- 复现论文中的地理定位与 GPS 分类实验
+- 从照片预测拍摄地点的经纬度
+- 为图像分类模型拼接 GPS 特征做地理感知分类
+- 复用位置编码器作为地理感知神经网络的 GPS 编码模块
 
 ## 场景标签
 
- · 领域:计算机视觉/地理定位
+`多模态` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fc8ecd8abd30` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `42f170d4850a` · [字段定义](../../DATASET.md)*

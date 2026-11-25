@@ -2,9 +2,9 @@
 
 ⭐ 354 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/fitchmultz/pi-cursor-sdk) · 个人维护
 
-**在 Pi 终端编码代理中接入 Cursor SDK 模型的提供方扩展**
+**让 Pi 终端 agent 通过本地 Cursor SDK 运行 Cursor 模型**
 
-pi coding agent 的 provider 扩展包：在本地运行 Cursor 的 SDK agent，将 Cursor 模型接入 Pi 会话，支持模型选择、thinking 级别、fast/plan 模式、图片输入与上下文窗口指定（@1m）。通过 MCP 桥接把 Pi 扩展工具以 pi__* 名称暴露给 Cursor agent，可复用/重连本地 agent 会话，并提供 /cursor-usage 计费数据查询。需 Node.js 24+、Pi 0.87.1+ 与 Cursor SDK API key；本地运行时 Cursor 的自动审查与沙箱默认关闭，另有可选 Cursor Cloud 运行时（Max Mode 计费）。
+一个 pi 扩展包：在本地运行 Cursor SDK agent 并接入 Pi 会话与工具，使 Pi 用户使用 Cursor 的模型目录与控制项。提供 cursor/ 前缀模型选择、thinking 级别、fast/plan 模式切换、图像输入、会话恢复与 Cloud 可选运行时；本地 MCP 桥把 Pi 扩展工具以 pi__* 名称暴露给 Cursor agent。需要 Node.js、Pi 与 Cursor SDK API key（Dashboard 用户键或服务账号键，Team Admin 键不可用）；本地运行默认关闭 Cursor 自动审查与沙箱。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ pi coding agent 的 provider 扩展包：在本地运行 Cursor 的 SDK agent，
 
 ## 能力要点
 
-- cursor/ 前缀模型选择，支持 @1m 上下文与 :fast/:slow 变体
-- MCP 桥接将 Pi 扩展工具以 pi__* 名称暴露给 Cursor agent
-- 会话复用与重启后重连（失败时从 Pi transcript 新建 agent）
-- /cursor-usage 查询与导出 Cursor 计费数据
+- 通过 cursor/ 前缀在 Pi 中选择 Cursor 模型，支持 @1m 上下文窗口与 :fast/:slow 选择
+- 本地 MCP 桥将活跃的 Pi 扩展工具暴露为 pi__* 名称
+- 支持 /cursor-usage 读取与导出 Cursor 计费数据
+- 可选 /cursor-runtime cloud 运行时，本地为默认
 
 ## 适用场景
 
-- 在 Pi 终端 UI 中直接使用 Cursor 模型与工具
-- 在 Pi 工作流里切换 Cursor fast/plan 模式与 thinking 级别
-- 查看并导出 Cursor 用量计费数据
+- 在 Pi 终端界面里使用 Cursor 的模型与 agent 能力
+- 在 Pi 会话中复用 Pi 扩展工具驱动 Cursor agent
+- 需要按模型查看和导出 Cursor 用量与计费数据
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L3: Use Cursor models in Pi's terminal UI. `pi-cursor-sdk` runs Cursor's SDK agent and connects it to Pi sessions and ex
 > L5: Pi connects to a local Cursor SDK agent through pi-cursor-sdk. The agent uses Cursor tools and a bridge to Pi tools.
-> L16: pi install npm:pi-cursor-sdk
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9221d91fb2d6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5c440a25961a` · [字段定义](../../DATASET.md)*

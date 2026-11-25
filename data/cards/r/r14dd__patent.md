@@ -2,15 +2,15 @@
 
 ⭐ 568 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/r14dd/patent) · [官网](https://crates.io/crates/patent) · 个人维护
 
-**开发工具创意的现有技术检索 CLI：查想法是否已被实现**
+**开发者的代码创意查重 CLI：检索 19 个源判断点子是否已被做过**
 
-Rust 编写的命令行/TUI 工具，输入一句英文开发工具创意，同时检索 19 个来源（crates.io、npm、PyPI、Homebrew、Packagist、Hex 等包注册表及 GitHub、Hacker News）。用 fastembed 在本地嵌入结果，按余弦相似度做语义排序，再由 LLM（默认本地 Ollama 后端，可用 --fast 跳过）汇总为 Open/Crowded/Saturated 三档判定；判定限定于实际检到的来源，不宣称不存在。2 年未更新的结果标旗但不降权。退出码可对接脚本与 CI，也可作为库 crate 复用。限制：预编译二进制与源码构建均要求 glibc 2.38+。
+输入一段英文描述的开发工具创意，CLI 同时向 crates.io、npm、PyPI、Homebrew、GitHub、Hacker News 等 19 个源发起检索，用 fastembed 在本地嵌入并按余弦相似度排序，标记超过 2 年未更新的项目，再由 LLM 将结果归纳为 Open/Crowded/Saturated 三档结论。提供 TUI 与 JSON 输出、库形式复用、退出码供 CI 门控。默认经本地 Ollama 出 LLM 结论，--fast 可完全跳过 LLM。注意其结论只覆盖已检索的源，不证明点子不存在。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@ Rust 编写的命令行/TUI 工具，输入一句英文开发工具创意，同�
 
 ## 能力要点
 
-- 一次查询扇出到 19 个来源（包注册表+GitHub+Hacker News）
-- fastembed 本地嵌入 + 余弦相似度语义排序
-- LLM 三档判定（Open/Crowded/Saturated），--fast 可完全跳过 LLM 本地运行
-- 退出码可接入脚本与 CI 门禁
+- 一次查询并发检索 19 个包注册表与 GitHub/Hacker News
+- 本地嵌入（fastembed）做语义相似度排序，非关键词匹配
+- LLM 结论受相似度数据下限约束，并声明结论仅限于已检索源
+- 退出码映射三档结论，可用于脚本与 CI 门控
 
 ## 适用场景
 
-- 动手开发前检查工具创意是否已有同类实现
-- 在 CI 中用退出码门禁判断某个工具方向是否拥挤
-- 以库 crate 形式复用其多源搜索与语义排序引擎
+- 动手写新 CLI/库之前查一下是否已有同类工具
+- 在 CI 里用退出码自动拦截与现有项目重复的提案
+- 浏览同类工具的维护状态（最近更新时间与停更标记）
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Rust 编写的命令行/TUI 工具，输入一句英文开发工具创意，同�
 
 ## 证据(README 行号)
 
-> L25: 2. **Semantic ranking** — every match is embedded locally with `fastembed` and ranked by cosine similarity to your 
-> L27: 4. **Verdict** — an LLM summarises the landscape into one of three levels, *floored* against the similarity data so
+> L66: **Ollama** (optional) powers the LLM verdict — install from ollama.com, then `ollama pull qwen3.5`. Use `--fast` to
+> L87: |`--fast`|no LLM, no wait — verdict derived from similarity scores|—|
+> L20: Before you build a dev tool, `patent` checks whether it already exists. One query fans out across 19 sources at onc
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d872a6f6b833` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `7f42606a6216` · [字段定义](../../DATASET.md)*

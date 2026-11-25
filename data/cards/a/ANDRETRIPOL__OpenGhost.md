@@ -2,9 +2,9 @@
 
 ⭐ 302 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ANDRETRIPOL/OpenGhost) · [官网](https://andretripol.github.io/OpenGhost/) · 个人维护
 
-**跨平台桌面 AI agent：对话生成回答并配可视化绘图**
+**面向个人用户的桌面 AI agent：执行任务并用图表可视化解释**
 
-面向终端用户的 Electron 桌面 agent 应用，覆盖 Windows/macOS/Linux：可执行命令、编辑文件、操作 git、驱动自研内置浏览器访问网页与用户账户，并在回答旁生成 43 种可交互编辑的图表、示意图与图片视频。自研 agent 循环、绘图引擎、浏览器与 Markdown 渲染器，仅依赖 Electron 与 Anthropic 官方 SDK。支持 ChatGPT 账号登录及 OpenAI/Claude/DeepSeek/OpenRouter API key 接入，密钥本地加密存储；含记忆、笔记、快速聊天、三种权限模式与 Agent Skills 格式技能。v1.4.9 beta 阶段，可从源码构建安装包。
+基于 Electron 的开源桌面 agent，覆盖 Windows/macOS/Linux。自带 agent 引擎、内置浏览器（自主点击输入、可登录用户账号）、绘图引擎（43 种图形随回答生成且可就地编辑），支持命令执行、文件编辑、git、多步计划与完成校验、定时例程、记忆分层、技能格式与快速聊天窗口。接口仅依赖 Electron 与 Anthropic 官方 SDK；设置中可配规则约束 agent 行为。提供各平台版本下载与网页试用。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 自研 agent 引擎、绘图引擎、浏览器与渲染器，不使用现成 UI/图表/agent 框架
-- 43 种可交互、就地编辑的可视化绘图（流程图、曲线图、路线图等）
-- 自研内置浏览器：agent 移动自己的光标、点击、输入并读取页面
-- 支持 ChatGPT 登录与 OpenAI/Claude/DeepSeek/OpenRouter API key，密钥本地加密存储
+- 自研 agent 引擎：命令/文件/git/网页工具、审批卡片与三种权限模式
+- 绘图引擎读取模型输出并绘制 43 种图形，支持就地编辑
+- 内置浏览器：agent 以编号元素视图操作页面，可工作在用户已登录账号内
+- 多步计划带完成校验（测试/构建/回读检查），例程可在后台运行
 
 ## 适用场景
 
-- 用自然语言让 agent 代为执行命令、编辑文件和管理 git 项目
-- 在回答旁以图表和示意图理解复杂概念
-- 让 agent 在自己已登录的网站账户中完成查询与整理任务
+- 让 agent 操作浏览器完成账号内的日常事务（如整理评论、统计浏览量）
+- 以图表和示意图方式学习与讲解概念、流程和数据
+- 让 agent 自动执行代码修改并跑测试、构建等校验后收尾
+- 设定每日/定时任务（如价格监控、晨间检查）由例程在后台完成
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L28: OpenGhost is an open desktop agent for Windows, macOS and Linux. It runs commands, edits files, keeps git and works
-> L40: - **The agent.** The loop, the tools (commands, files, git, web search, pages, PDFs, video frames), the approval ca
+> L27: OpenGhost is an open desktop agent for Windows, macOS and Linux. It runs commands, edits files, keeps git and works
+> L43: The app stands on two things only: Electron, which gives it a window, and Anthropic's official SDK, which talks to 
+> L37: - **The agent.** The loop, the tools (commands, files, git, web search, pages, PDFs, video frames), the approval ca
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `41e0f7e31ec2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9827af927239` · [字段定义](../../DATASET.md)*

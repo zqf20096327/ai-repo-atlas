@@ -2,9 +2,9 @@
 
 ⭐ 298 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tobilg/ai-observer) · 个人维护
 
-**自托管单二进制的 AI 编程助手可观测性后端**
+**本地自托管的 AI 编码助手遥测观测后端**
 
-面向 Claude Code、Gemini CLI、OpenAI Codex CLI、GitHub Copilot、OpenCode 等本地 AI 编程工具的统一监控后端：通过标准 OTLP（HTTP/JSON 与 HTTP/Protobuf）摄取遥测，或用文件 watcher 直接读取各工具本地会话文件，跟踪 token 用量、成本、API 延迟、错误率与会话活动；数据存于 DuckDB，提供实时仪表盘、历史导入与 Parquet 导出，内嵌各模型定价数据用于成本计算。单二进制（约 54MB）或多架构 Docker 镜像部署，无外部依赖，数据本地保存。
+单二进制、自托管的 OpenTelemetry 兼容观测后端，面向本地 AI 编码工具：通过 OTLP（HTTP/JSON、HTTP/Protobuf、gRPC）摄取或文件监听方式收集 Claude Code、Gemini CLI、Codex CLI、GitHub Copilot、OpenCode 的遥测数据，存储于内嵌 DuckDB，提供实时仪表盘、令牌用量与成本核算、日志/追踪查询、历史会话导入与 Parquet 导出、密钥脱敏、可选 MCP 端点供 agent 查询数据。默认仅监听 127.0.0.1，无内置认证时需注意网络暴露。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- OTLP 标准协议摄取 + 文件 watcher 两种数据接入方式
-- DuckDB 存储支撑大数据量即时查询
-- 内嵌 Claude/Codex/Gemini/Copilot 模型定价数据计算成本
-- 单二进制部署、多架构 Docker 镜像、零外部依赖
+- OTLP 原生摄取 + Claude/Codex/Gemini 会话文件实时监听与历史导入
+- 内嵌 DuckDB 存储与定价数据，支持成本与延迟、错误率分析
+- 单二进制（约 54MB，内嵌前端），提供多架构 Docker 镜像
+- 内置脱敏（secrets/all/off）与可选 TLS、Token 认证
 
 ## 适用场景
 
-- 统一查看多个 AI 编程助手的 token 用量与花费
-- 追踪 API 延迟与错误到具体会话交互
-- 在本地保留遥测数据并导出 Parquet 归档
+- 本地集中查看多个 AI 编码助手的令牌用量与花费
+- 排查 AI 工具的报错与慢响应到具体交互
+- 把遥测数据保留在本地而非第三方服务
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L3: > Unified local observability for AI coding assistants
 > L5: **AI Observer** is a self-hosted, single-binary, OpenTelemetry-compatible observability backend designed specificall
-> L7: Track token usage, costs, API latency, error rates, and session activity across all your AI coding assistants in one
+> L29: - **OTLP-native** — Standard OpenTelemetry Protocol ingestion (HTTP/JSON, HTTP/Protobuf and gRPC)
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `87fa66cf2c25` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6a3d59e83881` · [字段定义](../../DATASET.md)*

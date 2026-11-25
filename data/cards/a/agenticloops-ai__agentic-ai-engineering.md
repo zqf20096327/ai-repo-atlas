@@ -1,10 +1,10 @@
 # agenticloops-ai/agentic-ai-engineering
 
-⭐ 395 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/agenticloops-ai/agentic-ai-engineering) · [官网](http://agenticloops.ai) · 组织维护 · 中文 README
+⭐ 395 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/agenticloops-ai/agentic-ai-engineering) · [官网](http://agenticloops.ai) · 组织维护
 
-**从零构建 AI agent 的实操教程库，覆盖 LLM 调用到评测**
+**工程师从零构建 AI Agent 的实战教程集**
 
-面向工程师的动手教程仓库：从第一次 LLM API 调用起步，逐步从零实现 agent loop、工具执行器、记忆层与评测框架，再进入编排模式、上下文工程、安全护栏、MCP 集成及多框架对比等 7 个模块，每模块含生产级 capstone 项目。教程用 uv 一条命令运行，需自备 Anthropic/OpenAI API key；部分模块标注 coming soon。配套 Substack 文章拆解 Claude Code、GitHub Copilot 等真实 agent 的实现机制。MIT 许可。
+面向无 AI/ML 背景的工程师的 Agent 构建教程仓库：从单次 LLM API 调用、提示工程、工具调用到自主 Agent 循环，逐模块覆盖 Anthropic「Building Effective Agents」中的架构模式（链式/路由/并行/编排器-工作者等）、上下文工程、成本优化、RAG、评测与红队测试，后续模块将对比 LangGraph、CrewAI、AutoGen 等框架的同一实现。每个教程为自包含 Python 脚本，用 uv 一条命令运行；需自备 Anthropic/OpenAI API key。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 从零实现 agent loop、工具执行器、记忆层与 eval harness，先于引入任何框架
-- 7 个渐进模块：基础、模式、进阶技术、测试评测、loop 工程、框架对比、生产化
-- 每条教程自包含幂等，`uv run --directory` 一条命令运行
-- 配套拆解 Claude Code / GitHub Copilot / OpenCode 的逆向系列文章
+- 从零构建 Agent 循环、工具执行器、记忆层与评测工具，再引入框架
+- 7 个模块覆盖基础、模式、高级技术、测试评测、生产部署
+- 每个教程自包含，uv run 一条命令即可运行，支持 Codespaces
+- 配套 Substack 系列拆解 Claude Code、GitHub Copilot 等生产 Agent
 
 ## 适用场景
 
-- 系统学习 AI agent 从基础到生产的完整工程路径
-- 面试前掌握工具调用与推理循环等 agent 基础原理
-- 动手复现真实生产 agent 的模式与机制
+- 系统学习 LLM API 调用、提示工程与工具调用的底层机制
+- 面试前准备 Agent 基础概念（工具调用、推理循环）
+- 为团队搭建 Agent 评测与回归测试流程
+- 按模块递进学习从原型到生产级 Agent 的工程实践
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
+> L16: # Agentic AI Engineering
 > L23: - 🔁 **The whole path** — from your first LLM call to a production eval harness
-> L33: - 📦 **First principles, no black boxes.** You build the agent loop, the tool executor, the memory layer, the eval h
+> L71: ### 🎓 01 - Foundations new
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3f6f03f5fff1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2a924d6a7e55` · [字段定义](../../DATASET.md)*

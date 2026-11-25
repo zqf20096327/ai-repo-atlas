@@ -4,7 +4,7 @@
 
 **给 AI agent 提供自托管长期记忆的 MCP 服务器**
 
-自托管的 MCP 服务器，为 Claude Code、ChatGPT、Cursor 等 MCP 兼容客户端增加持久记忆与个性化能力：用单次 LLM 调用完成事实抽取、分类、去重与矛盾消解，两层结构（向量库摘要 + S3/MinIO 工件存储）配合多查询语义检索与时间感知。附带管理 UI、三阶段健康检查（fsck）、16 个 MCP 工具与 REST 双接口、Prometheus 监控。需要 OpenAI 兼容 API key 运行；删除为尽力而为，非合规级擦除保证。LoCoMo 基准总体 73.2。
+自托管的 MCP 服务器，为 AI 助手与 agent 添加持久化长期记忆：单次 LLM 调用完成事实抽取、元数据分类、去重与矛盾解决，记忆以向量形式语义可检索，并支持两级存储（向量摘要 + S3/MinIO 工件）。提供 16 个 MCP 工具与 REST API 双接口、管理 UI、健康检查、TTL 过期机制与 Prometheus 监控。需 OpenAI 兼容 API key 运行；删除为 best effort，非合规级擦除。Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 单次 LLM 调用完成事实抽取、分类、去重与矛盾消解
-- 两层记忆：向量库摘要 + 按需取回的工件存储
-- 三阶段健康检查（fsck）检测重复、矛盾与提示注入
-- 16 个 MCP 工具 + REST API 双接口，Qdrant/S3 生产部署
+- 单次 LLM 调用完成事实抽取、分类与去重，矛盾自动更新
+- 两级记忆：向量摘要 + S3/MinIO 工件按需取回
+- 16 个 MCP 工具 + REST API（OpenAPI spec）双接口
+- 内置管理 UI、三阶段健康检查与 Prometheus/Grafana 监控
 
 ## 适用场景
 
-- 让我的 AI 助手跨对话记住偏好、事实与决定
-- 为生产环境 agent 部署自托管记忆层
-- 审计与修复积累的记忆（去重、矛盾、质量）
+- 让 Claude Code / Cursor 等客户端跨会话记住用户偏好与决策
+- 自托管部署，记忆数据不出自有基础设施
+- 团队级 agent 记忆隔离与运维监控（Kubernetes/Prometheus）
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L9: Give your AI agents persistent memory. mnemory is a self-hosted MCP server that adds personalization and long-term m
-> L29: - **REST API + MCP** — Dual interface with the same backend. 16 MCP tools + full REST API with OpenAPI spec. Build 
+> L15: Give your AI agents persistent memory. mnemory is a self-hosted MCP server that adds personalization and long-term 
+> L33: - **Production ready** — Qdrant for vectors, S3/MinIO for artifacts, API key or Cognis JWT authentication, per-user
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `680450dbd42c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `71b9b5e5812c` · [字段定义](../../DATASET.md)*

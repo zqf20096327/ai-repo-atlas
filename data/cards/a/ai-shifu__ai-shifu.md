@@ -2,9 +2,9 @@
 
 ⭐ 333 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ai-shifu/ai-shifu) · [官网](https://ai-shifu.com) · 组织维护 · 中文 README
 
-**面向创作者与培训团队的一对一 AI 教学代理平台**
+**面向创作者与教育团队的可扩展一对一 AI 教学代理**
 
-AI-Shifu 是可自托管的教学代理平台：创作者或培训团队一次性输入课程框架与教学意图，系统将其扩展为完整课程、练习与测评，并按学习者背景、目标与水平生成个性化学习路径，会话中支持交互式提问、澄清追问与反馈闭环。可通过网站、课程平台与企业培训门户嵌入。由 AI-Shifu 团队与哈尔滨工业大学智能软件工程研究中心开发。自托管基于 Docker Compose，支持最多 9 个 LLM 模型 ID 配置与多种 TTS 供应商；另有托管平台 AI-Shifu.com。
+AI-Shifu 供创作者、讲师与企业培训团队使用：用户提供一次专业知识与教学意图，系统将其扩展为完整课程（讲解、活动、测评），并按学习者背景实时调整解释与追问。支持 Docker/Compose 自托管（API+Web 镜像），首个验证用户自动成为管理员，内置演示课程与通用验证码，支持 i18n 与火山引擎 TTS，可嵌入网站与培训门户。源码安装另有安装手册。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ AI-Shifu 是可自托管的教学代理平台：创作者或培训团队一次�
 
 ## 能力要点
 
-- 一次性输入教学意图，扩展为课程、活动与测评
-- 按学习者画像生成个性化学习路径与讲解语气
-- 会话内交互问答、澄清追问与下一步建议
-- 可配置 1-9 个 LLM 模型与多种 TTS 供应商（含火山引擎）
+- 个性化讲解引擎：按学习者背景、目标、水平生成学习路径
+- 交互式问答与追问：拆解问题、提出澄清、建议下一步
+- 高层框架+意图快速组装课程并生成测评
+- 可嵌入网站、课程平台与企业培训门户，支持 TTS 语音合成
 
 ## 适用场景
 
-- 课程创作者用一份课纲为学员生成个性化讲解
-- 企业一次性输入培训内容，员工获得按岗位定制的路径
-- 教育者用大纲生成辅导内容并附带问答助手
+- 给课程框架，让学员获得个性化讲解与实时互动
+- 企业培训内容一次录入，员工按角色获得学习路径
+- 从大纲生成个性化辅导内容与问答助手
 
 ## 场景标签
 
- · 领域:教育/企业培训
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L6: AI-Shifu is designed for creators, instructors, and training/education teams, offering a scalable one-on-one teachin
-> L12: - **Personalized explanation engine** — Generates learning paths and tone based on learner background, goals, and l
+> L36: Make sure your machine has installed Docker and Docker Compose.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `bb503294066f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d151df5a50cf` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 343 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/m3dev/gokart) · [官网](https://gokart.readthedocs.io/en/latest/) · 组织维护
 
-**基于 luigi 的 Python 机器学习流水线框架，解决可复现与任务依赖**
+**面向 ML 工程的 pipeline 框架：解决可复现性与任务依赖**
 
-构建在 luigi 之上的 Python 批处理流水线框架：以 Task 类组织机器学习任务，为每个任务以 pkl 文件分别存储输出数据、模块版本、处理时间、随机种子与参数等元数据；参数变更时自动重跑流水线，支持 GCS/S3 作为中间结果存储，任务间以中间文件交换数据。并行任务通过 redis 加锁，自动固定 numpy/random 种子，支持 pandas.DataFrame 类型与列校验及 mypy 类型注解。限制：不支持任务可视化、不做实验管理（拆分至 Thunderbolt），I/O 与存储容量可能成为瓶颈。m3.inc 使用超过 3 年。
+基于 luigi 的 Python 机器学习 pipeline 框架。每个 Task 的输出数据、模块版本、随机种子、参数等元数据随 hash 存入 pkl 文件，参数变更时自动重跑；中间结果以文件形式在任务间交换，支持 S3/GCS 作为中间数据存储，提供 pandas DataFrame 列校验、numpy/random 种子自动固定，并通过 redis 对并行任务加锁。声明非实验管理工具（结果管理由 Thunderbolt 承担），不支持任务可视化，建议以 Python 而非 toml/yaml 描述 pipeline。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 每任务以 pkl 文件存储输出/模块版本/参数/种子等元数据
-- 参数变更自动重跑流水线，支持 GCS/S3 中间结果存储
-- 任务间以中间文件交换数据，并行任务经 redis 锁定
-- pandas.DataFrame 类型与列校验，支持类型注解的流水线
+- Task 元数据（输出、模块版本、随机种子、参数）随 hash 存储，参数变更自动重跑
+- 支持 S3/GCS 作为中间结果存储，任务间以文件交换数据
+- pandas DataFrame I/O 列校验，numpy/random 种子自动固定
+- redis 锁支持并行任务的锁定
 
 ## 适用场景
 
 - 构建可复现的机器学习批处理流水线
-- 团队协作中追踪每个任务的参数、版本与运行记录
-- 将中间结果存至 S3/GCS 并自动管理依赖重跑
+- 团队协作开发中管理任务依赖与中间产物
+- 将任务中间结果保存到 S3 或 GCS
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 ## 证据(README 行号)
 
 > L7: Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pip
-> L104: gokart is a wrapper for luigi. Thanks to luigi and dependent projects!
+> L107: gokart is a wrapper for luigi. Thanks to luigi and dependent projects!
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `dfb248830f42` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `55198ee9bbf2` · [字段定义](../../DATASET.md)*

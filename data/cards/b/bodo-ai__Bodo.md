@@ -2,15 +2,15 @@
 
 ⭐ 387 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/bodo-ai/Bodo) · [官网](https://docs.bodo.ai) · 组织维护
 
-**面向大规模数据与 AI 工作流的 Pandas 替代型高性能 DataFrame 库**
+**大规模 Python 数据处理的 Pandas 替代库**
 
-Bodo DataFrames 是一个 Python DataFrame 库，定位为 Pandas 的 drop-in 替换：将 import pandas 改为 import bodo.pandas 即可加速和扩展工作流。机制上依赖基于 MPI 的 HPC 技术、JIT 编译器、C++ 运行时与集成 SQL 引擎，支持流式处理超内存数据集，I/O 支持 Iceberg、Snowflake、Parquet、CSV、JSON，并对 Pandas/Numpy/Scikit-learn 提供原生 JIT 支持。需 Python 3.10+，通过 pip 或 conda 安装；平台支持 Linux x86、Mac x86/ARM 与 Windows，Linux ARM 暂未支持。
+Bodo DataFrames 是面向大规模 Python 数据处理与 AI/ML 负载的 DataFrame 库，作为 Pandas 的直接替换（仅需修改 import），提供 JIT 编译器加速自定义转换，并集成 SQL 引擎。底层基于 MPI 并行技术消除 driver-executor 模型开销，支持流式执行处理超内存数据集，兼容 Iceberg、Snowflake、Parquet 等数据源，并在不支持的操作上回退到原生 Pandas。通过 pip 或 conda 安装，要求 Python 3.10+，支持 Linux x86、Mac 与 Windows。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,27 +20,26 @@ Bodo DataFrames 是一个 Python DataFrame 库，定位为 Pandas 的 drop-in �
 
 ## 能力要点
 
-- 单行 import 改动即可作为 Pandas 替换，未支持部分自动回退到原生 Pandas
-- MPI 并行执行、C++ 运行时与 JIT 编译加速自定义变换
-- 集成 SQL 引擎与流式执行，可处理超内存数据集
-- I/O 支持 Iceberg、Snowflake、Parquet、CSV、JSON 并带过滤下推与列裁剪
+- 一行 import 替换即可并行化 Pandas 工作负载，不支持的操作自动回退原生 Pandas
+- 基于 MPI 的真实并行执行，消除 driver-executor 模型运行时开销
+- JIT 编译原生支持 Pandas、NumPy、Scikit-learn 的自定义转换加速
+- 流式执行处理大于内存的数据集，I/O 支持自动谓词下推与列裁剪
 
 ## 适用场景
 
-- 在笔记本或多节点集群上加速现有 Pandas 数据处理代码
-- 处理超出内存的大规模数据集
-- 在同一 Python 工作流中结合 SQL 查询与 DataFrame 操作
-- 对 Scikit-learn 等 AI/ML 工作流做数据侧加速
+- 用最小代码改动扩展现有 Pandas 数据管道到集群规模
+- 为 AI/ML 工作流加速大规模数据预处理
+- 处理超出单机内存的大数据集
+- 在 Python 中运行高性能 SQL 查询
 
 ## 场景标签
 
- · 领域:数据工程/分布式计算
+ · 领域:数据科学/分布式数据处理
 
 ## 证据(README 行号)
 
 > L11: Bodo DataFrames is a high performance DataFrame library for large scale Python data processing, AI/ML use cases.
 > L45: - Intuitive APIs for simplifying and scaling AI workloads.
-> L50: - Just in time (JIT) compilation with native support for Pandas, Numpy and Scikit-learn
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f75e5e5da989` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7be05205a605` · [字段定义](../../DATASET.md)*

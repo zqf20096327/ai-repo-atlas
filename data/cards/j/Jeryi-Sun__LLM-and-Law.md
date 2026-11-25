@@ -2,9 +2,9 @@
 
 ⭐ 340 · 推送 2026-11-23 · [GitHub](https://github.com/Jeryi-Sun/LLM-and-Law) · 个人维护
 
-**法律领域大语言模型论文与资源追踪清单**
+**法律领域大语言模型论文与资源的追踪清单**
 
-追踪法律领域大语言模型相关论文与资源的策展仓库：每日扫描 arXiv cs.CL 日更列表，按严格的法律任务+模型/agent/RAG/数据集/基准准入规则做标题去重收录，并按 Applications、Legal Reasoning Models、Legal Agent、Legal Problems、Data Resources、Law LLMs、Evaluation 等类别组织。每条目附论文摘要并显式标注其局限（如翻译分数、准确率不构成法律正确性保证）。MIT 许可。
+以 Awesome 清单形式追踪法律领域的大语言模型论文与资源，按应用、法律推理模型、法律 Agent、法律问题、数据资源、法律 LLM、评测等类别组织条目。维护者按 cs.CL 每日列表扫描并按标题去重收录，每日更新记录扫描论文总数、各类目增量，并注明收录边界：仅纳入有明确法律子任务的论文，排除泛化隐私、合规与政策讨论等非法律用途内容。
 
 ## 筛选速览
 
@@ -20,24 +20,24 @@
 
 ## 能力要点
 
-- 每日扫描 arXiv cs.CL 列表并按准入规则去重收录
-- 多类别组织：应用、法律推理模型、法律 Agent、数据资源、评测等
-- 条目附局限说明，区分基准指标与法律正确性
+- 每日扫描 arXiv cs.CL 列表并做标题去重收录
+- 按应用/法律推理模型/法律 Agent/数据资源/评测等类目组织
+- 每日更新说明收录理由与排除标准
 
 ## 适用场景
 
-- 查找法律 NLP/LLM 最新论文与数据资源
-- 按类别浏览法律推理、法律 Agent、评测方向的进展
-- 跟踪法律 LLM 领域每日新增文献
+- 查找法律领域 LLM 相关的最新论文
+- 跟踪法律 Agent 与法律推理模型的研究进展
+- 检索多语言与多法域的法律 NLP 数据资源
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: This repository tracks papers and resources about large language models (LLMs) in the legal domain.
-> L31: ## Contents
+> L7: > Daily update 2026-11-23 (cs.CL): scanned all 91 papers on the dated list; added 3 title-deduplicated papers on app
 
 ## 星数曲线
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `049dc31ad8b6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `177c68643223` · [字段定义](../../DATASET.md)*

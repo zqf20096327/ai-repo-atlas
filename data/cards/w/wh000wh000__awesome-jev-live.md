@@ -1,10 +1,10 @@
 # wh000wh000/awesome-jev-live
 
-⭐ 380 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 个人维护 · 中文 README
+⭐ 380 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 组织维护 · 中文 README
 
-**每2小时自动重建的 Jev/System One 生态分级索引清单**
+**Jev/System One 生态的证据分级索引清单，每 2 小时自动重建**
 
-围绕 TypeSafe AI 的 System One 模型 Jev 构建的证据分级策展清单：流水线自动采集、过滤并复核条目，每 2 小时重建一次，当前收录 694 个条目、23 种实现语言。条目按 official/observed/inferred/unverified 四级标注核实程度，覆盖官方 SDK、社区客户端与适配器、MCP 工具、agent 与应用等类别，并附星标、最近推送等数据。README 提供多语言版本与条目卡片式的浏览结构。
+围绕 TypeSafe AI 的 System One 模型 Jev 维护的 awesome 清单：收录 SDK、MCP 工具、agent、应用与开源模型共 802 条，覆盖 26 种实现语言，由仓库内流水线每 2 小时采集、过滤并复核重建。每条按证据分级为 official/observed/inferred/unverified 四档，供用户按验证程度过滤；首页按分级与 star 数重算各分类置顶，并提供 20 种语言的站点版本。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 每 2 小时自动重建的动态索引，标注最近同步时间
-- 四级证据分级（official/observed/inferred/unverified）标明核实程度
-- 收录 694 个条目、23 种实现语言
-- 含 What is Jev 说明与各类别优选条目
+- 802 条条目由流水线每 2 小时自动重建
+- 四档证据分级（official/observed/inferred/unverified）可过滤
+- 提供 official Python/TypeScript SDK、社区客户端、适配器等分类
+- 20 种语言的多语言站点版本
 
 ## 适用场景
 
-- 查找 Jev/System One 的官方 SDK 与社区客户端
-- 按证据分级筛选可信度不同的生态项目
-- 跟踪 Jev 生态最新新增项目
+- 查找接入 Jev System One API 的官方 SDK 与社区客户端
+- 按证据分级筛选生态内可信度可核的工具
+- 跟踪 Jev 生态新收录条目与分类置顶变化
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L5:  The evidence-graded Jev index that rebuilds itself every two hours.
-> L81: Most lists in this space assert inclusion. This one says how much it actually verified, then lets you filter accord
+> L20:  Every entry below was collected, filtered and re-checked by the pipeline in this repository. Numbers and timestamp
+> L84: |`official`|Published by TypeSafe AI itself.|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `432704883c6f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `a1de10f5077e` · [字段定义](../../DATASET.md)*

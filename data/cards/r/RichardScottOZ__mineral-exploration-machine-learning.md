@@ -2,9 +2,9 @@
 
 ⭐ 361 · 推送 2026-11-18 · [GitHub](https://github.com/RichardScottOZ/mineral-exploration-machine-learning) · 个人维护
 
-**矿产勘查机器学习资源清单：框架、找矿预测与地质制图代码示例**
+**矿产勘探与机器学习资源清单：汇集代码、论文与数据链接**
 
-个人维护的矿产勘查与机器学习资源聚合清单，收录作者实践中认为有用的仓库、论文、数据集与教程，多数条目附带可运行代码或示例。内容按主题组织：ML 框架（UNCOVER-ML、EIS Toolkit、TorchGeo 等）、按大洲/国家分类的找矿预测建模（Prospectivity）项目、地质与岩性制图、训练数据、矿物学、钻探、地层与构造等。条目多附论文与数据链接，部分为作者修改后留作参考的 fork。清单通过 issue/PR 接受补充建议。
+一个由个人维护的资源列表仓库，按类别整理矿产勘探领域与机器学习结合的代码库、论文、数据与竞赛信息。条目分为框架（如 UNCOVER-ML、TorchGeo、PySpatialML）、成矿预测（按澳大利亚、北美、南美、中国等地区组织）、地质制图、岩性识别、矿物学、钻孔数据等板块。每条目附仓库链接，常配有论文、Zenodo 数据或视频教程链接。不做安装说明，不提供本产品代码，仅作链接导航。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按主题与地域组织的资源分类（框架、找矿预测、地质、岩性、钻探等）
-- 条目普遍附带论文、数据集（Zenodo 等）与代码链接
-- 覆盖全球多国找矿预测建模案例（澳、加、巴西、印度、纳米比亚等）
+- 按框架/成矿预测/地质/岩性/矿物学/钻孔等类别组织资源
+- 覆盖多地区成矿预测案例与竞赛资料（Explorer Challenge、Explore SA）
+- 条目常附论文、Zenodo 数据或 Collab 教程链接
 
 ## 适用场景
 
-- 寻找矿产勘查领域的机器学习框架与代码示例
-- 按国家/矿种查找找矿预测建模项目与配套论文
-- 获取地质制图、岩性分类相关的数据集与基准
+- 查找矿产勘探机器学习的入门代码与示例
+- 调研某地区成矿预测建模的相关工作与论文
+- 寻找地质制图与岩性分类的数据集
 
 ## 场景标签
 
@@ -37,7 +37,8 @@
 ## 证据(README 行号)
 
 > L2: This page lists resources for mineral exploration and machine learning, generally with useful code and examples.
-> L3: ML and Data Science is a huge field, these are resources I have found useful and/or interesting to me in practice.
+> L16: * UNCOVER-ML Framework
+> L65: # Prospectivity
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f3c1e62a3fb9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b452a6364aab` · [字段定义](../../DATASET.md)*

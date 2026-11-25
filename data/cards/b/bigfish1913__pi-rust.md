@@ -2,9 +2,9 @@
 
 ⭐ 298 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/bigfish1913/pi-rust) · [官网](https://rpi.bigfisharc.cn/) · 个人维护
 
-**Rust 编写的库优先 coding-agent 运行时与终端 CLI**
+**Rust 编写的编码 agent 运行时库与终端 CLI**
 
-以九个可组合 crate 提供 coding-agent 运行时：provider 适配层（Anthropic、OpenAI 兼容与离线 faux 确定性 provider）、崩溃可恢复的 agent 循环、JSONL 会话持久化、终端 UI 与稳定的 Rust cdylib 插件 ABI。同一实现既可作为嵌入式 SDK 在用户进程内运行 agent，也可作为 rpi 命令提供 TUI、one-shot 与 JSON 流模式。面向想在自有程序中嵌入或扩展 agent 循环的开发者；插件可注册工具、provider、斜杠命令等；brew 公式目前仅支持 Apple silicon。
+以库为先的 coding-agent 运行时，含 11 个可组合 crate：provider 适配层、可崩溃恢复的 agent 循环、可嵌入 runtime、终端 UI 与稳定的插件 C ABI。同一实现可用作嵌入式 SDK（rpi-agent/rpi-ai）、终端 agent（rpi-cli）或扩展各会话的插件（rpi-plugin-sdk）。会话以 JSONL 持久化并支持崩溃恢复；内置 faux 确定性 provider 可离线测试；源自对 Pi TypeScript SDK 的 Rust 重实现。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 九个 crate 单向依赖，SDK 与 CLI 共享同一实现
-- 会话以 JSONL 树持久化，崩溃后从最后提交帧恢复
-- 离线确定性 faux provider，测试无需 API key 与网络
-- 稳定 #[repr(C)] 插件 ABI，含版本协商
+- 库与 CLI 共用一套实现：嵌入式 SDK、终端 agent、cdylib 插件三种用法
+- JSONL 会话持久化与崩溃后从已提交帧恢复
+- 确定性 faux provider 与内存执行环境支持离线无网络测试
+- 手写 #[repr(C)] 稳定插件 ABI，带版本协商
 
 ## 适用场景
 
-- 在自己的 Rust 进程内嵌入 coding agent 循环
-- 通过终端 TUI 或 one-shot/JSON 模式运行 rpi CLI
-- 以 cdylib 插件扩展所有会话的工具与 provider
-- 用离线 faux provider 做确定性测试
+- 在自有进程中嵌入一个编码 agent 循环
+- 作为终端 TUI coding agent 日常使用
+- 编写 Rust cdylib 插件扩展 agent 工具集
 
 ## 场景标签
 
@@ -38,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L12: `rpi` is a library-first coding-agent runtime written in Rust, plus a terminal
-> L14: durable crash-resumable agent loop, a terminal UI, and a stable plugin ABI — so
-> L177: - **Embeddable.** The agent loop is a library. `rpi-agent` + `rpi-ai` is enough
+> L15: `rpi` is a library-first coding-agent runtime written in Rust, plus a terminal
+> L18: stable plugin ABI — so the same code works as an embedded SDK or as a ready-to-run
+> L257: Most coding agents are CLIs. `rpi` is a **runtime with a CLI attached**, which
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `55999caf94ae` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d9504e11d3ff` · [字段定义](../../DATASET.md)*

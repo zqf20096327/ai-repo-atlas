@@ -2,9 +2,9 @@
 
 ⭐ 595 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/agentvivekkumar/dontbemichael) · [官网](https://dontbemichael.com) · 个人维护
 
-**面向小企业的本地多 AI 员工办公室桌面应用**
+**给小企业的本地多 Agent 办公室：用现有 Claude 订阅跑一支 AI 团队**
 
-在 macOS/Windows 11 上运行的桌面应用，围绕用户已有的 Claude Code 订阅或 Anthropic API key，组建由角色化 AI agent 构成的虚拟办公室：Michael 作为办公经理负责路由任务、每小时主持站会，其他成员按财务、客服、销售等角色各管一个邮箱（Gmail/iCloud/Yahoo/Zoho/IMAP），支持定时任务、审批流（Can send/Send on approval/Draft only）、可编辑的记忆与 Claude 连接器。全部本地运行，MIT 许可，自称 early release，Outlook/Microsoft 365 暂不支持。
+桌面应用，在本机运行一支由 Claude Code agent 组成的虚拟办公室：按业务类型从 Office Pack 建议团队（财务、客服、销售、市场等），Michael 作为办公室经理负责分派任务、汇总决策。每个成员有独立文件夹与记忆，绑定各自的邮箱（Gmail/IMAP 等），支持定时任务、审批发送、草稿模式与循环熔断。依赖用户已有的 Claude 订阅或 Anthropic API key；Outlook/Microsoft 365 暂不支持。提供 macOS 与 Windows 安装包，状态为早期发布。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 每个团队成员是一个 Claude Code agent，有自己的角色、文件夹与记忆
-- 按业务类型提供 Office Pack 建议团队，可雇佣/解雇成员
-- 每个角色绑定独立邮箱，支持发送审批、定时收件与越权限制
-- Needs you 审批板：花钱、删除、范围变更需用户决定
+- 多 agent 办公室结构：经理 Michael 路由任务，各部门各占一个 pod
+- 每个成员绑定独立邮箱，支持审批发送/草稿/免审白名单三种出信方式
+- 每个成员的持久记忆与后台整理合并机制
+- 全部在本机运行，使用用户已有的 Claude 计划或 Anthropic API key
 
 ## 适用场景
 
-- 小企业主用对话让 Michael 分派财务、客服、销售等日常工作
-- 为不同部门邮箱配置 AI 自动回复或起草邮件
-- 通过定时任务自动跟进未付发票、检查客服收件箱
+- 让 AI 团队分部门接管客服、销售、财务邮箱的日常处理
+- 小企业主只需对经理下指令，决策事项集中到 Needs you 面板
+- 为定时任务（如每小时检查支持邮箱）配置自动化流程
 
 ## 场景标签
 
-`AI 助手` `多智能体` `工作流自动化` · 领域:Agent 开发
+`多智能体` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L37: Don't Be Michael is a desktop app that runs a small office of AI team members for your business.
-> L39: Each team member is a Claude Code agent with a specific role
+> L12: Every team member is an AI agent with a clear job, its own folder, and its own memory. Everything
+> L35: Don't Be Michael is a desktop app that runs a small office of AI team members for your business.
+> L42: Everything runs on your computer, on the Claude plan you already have. Each team member has a
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d3faf082b87d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `7c1ad8441848` · [字段定义](../../DATASET.md)*

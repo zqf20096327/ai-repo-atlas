@@ -2,9 +2,9 @@
 
 ⭐ 432 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/seyedehsanhadi/sloptrim) · 个人维护
 
-**本地 AI 写作痕迹检测插件：给 agent 保存的文本打分并要求修正**
+**本地检测 AI 写作模式的命令行工具与编码代理插件**
 
-面向 Claude Code 等 coding agent 的命令行工具与插件：通过 hooks 在文件保存时提取正文前 262,144 字符，按 71 个已文档化模式（62 个带检测器）打 0-100 分，标记可疑片段并要求修复。仅用 Python 标准库，无网络、无模型，纯词法检测。支持 20 种格式（docx/pptx/xlsx/epub/ipynb/LaTeX 等），需 Node 运行 hooks 与 Python 3.9+。README 明确声明其不能证明作者是否为模型，不得作为作者身份分类器。
+以 Claude Code 插件与命令行工具形式运行：对经支持的文件编辑工具保存的文本文件提取正文并打 0-100 分，针对 71 种已记录模式（62 种有检测器），超过阈值时要求修正被标记片段。支持 20 种格式（.docx/.pptx/.epub/.ipynb/LaTeX 等），仅纯 Python 标准库实现，无网络、无模型、不上传文本。提供 full/strict/lite/off 模式、/sloptrim check 等命令，README 明确声明它不是作者归属分类器，不可用于判断文本是否由模型写成。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 对 71 个模式打 0-100 分，五个等级带（clean 至 pervasive tells）
-- 20 种格式支持，含从 Office 归档与 EPUB 中读取文本
-- Python 标准库实现，无网络无模型，数据不出本机
-- 公开匹配基准 ROC-AUC 0.783–0.943（五个 30/30 人机对照臂）
+- 0-100 评分，71 种模式中 62 种有本地检测器，纯 Python 标准库实现
+- 支持 20 种格式（.docx/.pptx/.xlsx/OpenDocument/.epub/.ipynb/LaTeX）
+- 以 Claude Code 插件运行于保存时，其他代理可经 /sloptrim init 写入契约
+- 公开匹配基准 ROC-AUC 0.783–0.943，结果记录固定源哈希
 
 ## 适用场景
 
-- 让 coding agent 保存文档时自动检查并修正 AI 写作痕迹
-- 对草稿文件单独打分查看命名模式，不做改写
-- 在 Cursor 等其他 agent 中通过 AGENTS.md 契约接入
+- 让编码代理保存的文档在保存时被自动打分并标记 AI 写作模式
+- 用 /sloptrim check 对单个文档打分并列出命中的模式
+- 在无网络的本地环境运行，不外传任何文本
 
 ## 场景标签
 
- · 领域:开发者工具/文本检测
+ · 领域:开发者工具/AI 写作检测
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3e650e80d328` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a39791a1cada` · [字段定义](../../DATASET.md)*

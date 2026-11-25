@@ -2,9 +2,9 @@
 
 ⭐ 365 · JavaScript · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/iflytek/astron-harness-tutorial) · [官网](https://astronclaw-tutorial.space/) · 组织维护 · 中文 README
 
-**AstronClaw/Loomy/AStudio 三款 AI 助理的使用教程站**
+**科大讯飞 Astron 三产品的双语图文使用教程站**
 
-由 iflytek 维护的 VitePress 双语文档教程，面向 AstronClaw（云端 AI 助手）、Loomy（桌面端 AI 工作助手）和 AStudio（AI 生产力工作台）三款产品：覆盖快速部署、130+ 技能系统、飞书/钉钉/企业微信渠道接入、本地文件授权、任务模式与套餐说明等，并对 15 个官方页面做每日文档巡检。本地预览需 git clone 后 npm 构建；内嵌学习助手使用 Spark-X2.6-4B 模型，需配置 MaaS API key。
+面向 AStudio、Loomy、AstronClaw 三个产品的图文教程项目，按「完成任务→交付成果→建立工作流」的学习路径组织，覆盖工作台、桌面协作与云端助手三类使用入口。配有 56 张官方截图、中英文双语页面，并提供每日巡检机制跟踪官方文档与图片更新。基于 VitePress 构建，可本地预览，另含使用 Spark-X2.6-4B 模型的学习助手，密钥仅在服务端使用。教程源码采用 Apache License 2.0。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 覆盖三款产品的部署、技能系统、渠道接入与办公场景教程
-- 中英双语文档并每日巡检 15 个官方页面
-- 学习助手基于 Spark-X2.6-4B，支持流式回答与回归测试
+- 覆盖 AStudio/Loomy/AstronClaw 三个产品的分步教程
+- 56 张官方截图，中英文页面均按步骤对照
+- 每日巡检官方资料并报告图片新增与替换
+- 内置学习助手，使用 Spark-X2.6-4B 模型
 
 ## 适用场景
 
-- 零基础用户学习部署和使用 AstronClaw 云端助手
-- 自媒体/电商从业者了解 Loomy 的办公自动化场景
-- 查阅 AStudio 的任务模式、套餐与隐私协议说明
+- 作为 AStudio 新用户跟随快速上手指南完成任务
+- 为 Loomy 桌面搭子配置本地文件与办公工具协作
+- 为 AstronClaw 托管助手接入技能与消息渠道
 
 ## 场景标签
 
@@ -36,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L22: 本项目是一个面向 **AstronClaw**、**Loomy** 和 **AStudio** 的完整学习教程，帮助你从零开始掌握这款强大的 AI 助理系统。
-> L24: * **AstronClaw**：基于 OpenClaw 核心能力打造的**云端 AI 助手**，提供全天候在线服务，随时随地通过企业微信、钉钉、飞书等渠道为你效劳。
+> L5: **AStudio → Loomy → AstronClaw。** 从完成一个任务开始，学习如何交付真实成果，再建立适合自己的 AI 工作流。
+> L40: 每日巡检按 AStudio、Loomy、AstronClaw 检查官方资料。AStudio 覆盖全部 15 个指南与协议页面，并检查图片内容；新增图片和同地址替换图片都会报告，供人工核对。详见巡检说明与图片来源清单。
+> L46: 本项目基于 VitePress 构建。如果你想在本地预览或修改文档：
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 high · 依据 README sha `18a1ec4b1fdf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `75a064659d44` · [字段定义](../../DATASET.md)*

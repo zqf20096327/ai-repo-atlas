@@ -2,9 +2,9 @@
 
 ⭐ 309 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/uucz/moyu) · [官网](https://uucz.github.io/moyu/) · 个人维护 · 中文 README
 
-**约束 AI 编码助手少做废活的提示词技能包**
+**给 AI 编码助手的反过度工程规则、Hook 与 PR Linter**
 
-面向 Claude Code、Cursor、Copilot、Windsurf、Cline、Codex CLI、Kiro、Aider 等 12 个 AI 编程平台的规则/技能文件集合：通过三条铁律（只改被要求改的、最简方案优先、不确定就问）和 4 级过度工程检测规则，约束 AI 不引入未要求的抽象、依赖、注释与测试。以 curl 复制规则文件或 claude skill install 一行命令安装，安装后自动生效，也可手动激活。提供中/英/日/韩/法语言变体与 lite/strict 变体。附 1460 次控制实验数据，说明价值在于消除特定模型的讨好行为而非普适缩减代码量。
+面向使用 AI 编码助手的开发者，通过软约束（SKILL/AGENTS.md 规则文件）与硬护栏（Claude Code/Cursor/Git 钩子、GitHub Action PR Linter）抑制 AI 的过度工程倾向。含 L1-L4 四级 diff 检测、7 类过度工程信号 linter、五种语言规则变体；README 附 10 模型 × 1460 次控制实验数据，并注明整体 LOC 减少不具统计显著性（p=0.25）。MIT 许可，经 npx skills CLI、插件市场或 curl 复制文件安装。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 三条铁律 + 4 级过度工程检测规则
-- 支持 12 个 AI 编程平台（Claude Code/Cursor/Copilot/Windsurf 等）
-- 5 种语言与 lite/strict 变体
-- 附 1460 次控制实验数据（benchmark/）
+- 软约束（Skill/AGENTS.md）+ 硬护栏（Hooks/PR Linter）双层机制
+- L1-L4 四级过度工程检测与分级干预动作
+- linter 检测 7 类过度工程信号，零依赖，含 16 项单元测试
+- README 附 1460 次控制实验数据与 benchmark 目录
 
 ## 适用场景
 
-- 我的 AI 编码助手总是顺手重构没让改的代码
-- 想减少 AI 生成代码里多余的抽象和依赖
-- 在 Cursor/Claude Code 里约束 diff 范围、要求最简实现
+- 让 AI 编码助手只修改被要求改的代码，控制 diff 范围
+- 在 PR 检查中自动检测 AI 产生的过度工程改动
+- 为团队定制 AI 编码规则与 Git pre-commit 护栏
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`提示工程` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L29: claude skill install --url https://github.com/uucz/moyu --skill moyu
-> L124: ## 安装
-> L282: |平台|状态|维护|
+> L27: 1460 次控制实验证实：AI 编码助手存在系统性的过度工程倾向。它不是在认真工作，是在讨好你。**软约束（Skill / AGENTS.md）+ 硬护栏（Agent Hooks / PR Linter）** 双层治好它。
+> L145: ### 确定性硬护栏：Agent Hooks & PR Linter
+> L302: |Claude Code|✅|核心|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c8f3fc623755` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a5ae806a0797` · [字段定义](../../DATASET.md)*

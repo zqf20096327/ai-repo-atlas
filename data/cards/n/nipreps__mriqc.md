@@ -2,9 +2,9 @@
 
 ⭐ 383 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/nipreps/mriqc) · [官网](http://mriqc.readthedocs.io) · 组织维护
 
-**脑部 MRI 影像质量指标提取与可视化质控工具**
+**为科研人员自动提取脑 MRI 影像质量指标并生成质控报告**
 
-MRIQC 从结构（T1w/T2w）、功能与弥散 MRI 数据中提取无参考图像质量指标（IQM），生成质量评估报告。基于 nipype 工作流集成 ANTs、AFNI 等第三方工具箱，遵循 BIDS 数据结构与 BIDS-App 标准，采用最小预处理原则。由 NiPreps 社区维护，以 Apache-2.0 许可发布（21.0.x 起），提供 PyPI 包与 Docker 镜像，配套论文发表于 PLOS ONE。
+MRIQC 从结构像（T1w/T2w/FLAIR）、功能像和扩散 MRI 数据中提取无参考图像质量指标（IQMs），输出用于质量评估的可视化报告。基于 nipype 工作流集成 ANTs、AFNI 等第三方工具，遵循 BIDS 数据格式与 BIDS-App 标准，采用最小化预处理原则在原始或最小处理数据上估计指标。衍生自 PCP 质量评估协议，以 Apache 2.0 许可发布，由 NiPreps 社区维护。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ MRIQC 从结构（T1w/T2w）、功能与弥散 MRI 数据中提取无参考图�
 
 ## 能力要点
 
-- 对结构/功能/弥散 MRI 提取无参考质量指标（IQM）
-- 基于 nipype 工作流，集成 ANTs、AFNI 工具箱
+- 提取结构、功能与扩散 MRI 的无参考图像质量指标（IQMs）
+- 基于 nipype 工作流集成 ANTs 与 AFNI 工具箱
 - 遵循 BIDS 与 BIDS-App 标准
-- 以 Docker 镜像与 PyPI 包形式分发
+- 提供可视化质量报告与 Docker 开发构建
 
 ## 适用场景
 
-- 对脑部 MRI 数据做自动化质量控制
-- 在 BIDS 格式数据集上批量生成影像质量报告
-- 神经影像流水线前筛除低质量扫描
+- 对脑 MRI 数据集做批量质量评估
+- 研究前筛查采集质量不合格的扫描数据
+- 多站点研究中比较不同采集参数的影像质量
 
 ## 场景标签
 
- · 领域:神经影像/医学影像质量控制
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: MRIQC extracts no-reference IQMs (image quality metrics) from
-> L6: structural (T1w and T2w), functional and diffusion MRI (magnetic resonance imaging)
+> L35:  *MRIQC: Advancing the Automatic Prediction of Image Quality in MRI from Unseen Sites*;
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `8c2cca9d7b7e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fe8fde7bb901` · [字段定义](../../DATASET.md)*

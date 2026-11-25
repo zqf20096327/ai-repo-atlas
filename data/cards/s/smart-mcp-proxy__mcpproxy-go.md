@@ -2,9 +2,9 @@
 
 ⭐ 431 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/smart-mcp-proxy/mcpproxy-go) · [官网](https://mcpproxy.app) · 组织维护
 
-**MCP 服务器聚合代理：统一端点+隔离审查+按需工具发现**
+**给 AI Agent 前置的 MCP 服务器安全代理与工具发现网关**
 
-面向使用 AI Agent 的开发者的 MCP 网关：将数百个 MCP 服务器联邦到单一本地端点，Agent 通过少量发现/执行工具（retrieve_tools、describe_tool、call_tool_*）按需检索（BM25）与调用工具，减少上下文占用。新服务器进入隔离区需人工审查批准，工具定义变更默认需复审；支持可插拔安全扫描器（Snyk/Semgrep/Trivy 等，结果归一为 SARIF）；每次调用记录本地活动日志，含敏感数据检测，并提供 headless 任务的工具预检命令。提供 macOS/Windows/Linux 二进制、Homebrew/apt/dnf/AUR/go install 等安装方式，web UI 内嵌于单二进制。
+以单一二进制提供的 MCP 代理网关：将数百个上游 MCP 服务器聚合为一个端点，agent 只看到少量检索与调用工具（retrieve_tools/describe_tool/call_tool_* 变体），通过 BM25 按需检索工具并按需加载 schema，以减少上下文占用。新服务器进入隔离区，需人工审核批准后工具才对 agent 可见；调用按 read/write/destructive 意图变体校验，全部调用写入本地 Activity Log。支持可插拔 Docker 安全扫描器（Snyk/Semgrep/Trivy 等，输出 SARIF）。提供 web UI 与 macOS 菜单栏应用，README 同时给出令牌节省的实测口径与不适用范围。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 联邦多个 MCP 服务器，绕过 Cursor 40 工具限制与 OpenAI 128 函数上限
-- BM25 按需工具发现，减少初始工具定义的上下文占用
-- 新服务器隔离审查 + 工具定义变更默认复审，可插拔 Docker 安全扫描器
-- 全量调用活动日志（request ID 关联、敏感数据检测）与 headless 预检命令
+- BM25 工具检索与按需 schema 加载，减少 agent 上下文占用
+- 新服务器隔离审核机制与工具定义变更复查（manual/scan/auto 信任模式）
+- read/write/destructive 意图校验与本地 Activity Log 审计
+- 可插拔 Docker 安全扫描器，结果归一为 SARIF
 
 ## 适用场景
 
-- 把多个 MCP 服务器聚合成一个端点供 Cursor、VS Code、Claude Desktop 使用
-- 在批准新 MCP 服务器前隔离审查，降低工具定义攻击风险
-- 审计 Agent 实际调用了哪些工具、参数是否含敏感数据
-- CI/cron 等 headless 任务运行前预检所需工具是否就绪
+- 接入大量 MCP 服务器时绕过 IDE 的工具数量上限
+- 控制 agent 上下文中工具定义占用的 token
+- 新接入的 MCP 服务器先隔离审核再放行
+- 为 cron/CI 无人值守任务预检工具可用性
 
 ## 场景标签
 
-`网络安全` `模型网关` · 领域:Agent 开发
+ · 领域:AI Agent 基础设施/MCP 网关
 
 ## 证据(README 行号)
 
 > L2:  MCPProxy — Supercharge AI Agents, Safely · One safe endpoint in front of every MCP server
 > L29: - **Scale beyond API limits** – Federate hundreds of MCP servers while bypassing Cursor's 40-tool limit and OpenAI'
-> L32: - **Pluggable security scanners** – Run Snyk, Semgrep, Trivy, Cisco, and other Docker-based scanners against quaran
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `617be6f3dc4d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c7bc86266a01` · [字段定义](../../DATASET.md)*

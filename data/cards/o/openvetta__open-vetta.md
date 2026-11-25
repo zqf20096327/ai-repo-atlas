@@ -2,9 +2,9 @@
 
 ⭐ 302 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openvetta/open-vetta) · [官网](https://www.openvetta.com) · 组织维护 · 中文 README
 
-**本地优先的开源桌面 AI agent，用于编码与实际工作**
+**开源本地优先桌面 AI agent 工作区：写代码与处理真实任务**
 
-基于 Electron 的跨平台（macOS/Windows/Linux）桌面 AI agent 工作区：把模型、项目文件、本地工具与可复用能力集中在一处，支持 BYOK 接入各模型供应商、OpenAI 兼容端点或本地推理。Agent 可检查工作区、以可见权限边界调用工具、产出真实文件并保留可审查的执行轨迹。扩展层级覆盖 Skill、MCP、插件、主题、SDK/RPC/CLI；源码构建默认为 lite 版，不依赖官方后端。仓库还包含 CLI、移动端与 IM 网关。
+跨平台 Electron 桌面应用，将模型、项目文件、本地工具与可复用能力整合进单一工作区，覆盖编码、文档、数据、研究与自动化工作流。agent 可检视工作区、在可见权限边界内调用工具、产出真实文件并保留可审查的执行轨迹。扩展体系含 skill、MCP、plugin、theme 与 SDK/RPC/CLI；源码默认构建为不依赖官方后端的 lite 模式，模型请求指向用户自配端点（BYOK），凭据存于本地。安装包支持 macOS/Windows/Linux，源码运行需 Bun 1.3+ 与 Node.js 20+。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- BYOK 接入供应商、OpenAI 兼容端点或本地推理
-- 工具调用、计划、权限与执行轨迹可审查
-- Skill/MCP/插件/主题/SDK/RPC/CLI 多层级扩展模型
-- 源码 lite 构建无需账号或托管后端，凭据存本地
+- 本地优先工作区：项目、会话、文件与执行均在用户选择的环境中
+- BYOK 接入受支持 provider、OpenAI 兼容端点或本地推理
+- 多级扩展模型：skill、MCP、plugin、theme、SDK/RPC/CLI
+- 工具调用、计划、权限与结果全程可见可审查
 
 ## 适用场景
 
-- 在本地桌面工作区让 AI agent 完成编码、文档、数据等实际任务
-- 通过 MCP、插件与技能把 agent 接入自己的工具链
-- 将成熟任务批量运行或定时自动化
-- 构建私有知识库并在项目中复用组织知识
+- 在一个桌面工作区完成编码、文档处理与数据任务
+- 通过 MCP 与插件接入外部工具和数据
+- 将成熟流程以批处理或定时任务形式跨目录复用
+- 构建本地知识库并安装可复用技能
 
 ## 场景标签
 
-`编码 Agent` `AI 助手` `知识库管理` · 领域:编码与开发
+`编码 Agent` `工作流自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L22: Open Vetta brings models, project files, local tools, and reusable capabilities into one desktop workspace. Use it 
 > L24: It is more than a chat interface: Vetta can inspect a workspace, use tools with visible permission boundaries, prod
+> L33: |**Bring your own models**|Connect supported providers, OpenAI-compatible endpoints, or local inference through BYO
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `97623986898d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `670d541312e2` · [字段定义](../../DATASET.md)*

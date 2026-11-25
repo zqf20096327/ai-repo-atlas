@@ -2,9 +2,9 @@
 
 ⭐ 394 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) · 个人维护
 
-**可信深度学习论文策展清单：覆盖对抗、后门、隐私等方向**
+**可信深度学习论文清单：面向研究者按主题追踪 ArXiv 新论文**
 
-持续更新的可信深度学习研究论文清单，覆盖分布外泛化、对抗攻击与防御、投毒攻击、隐私泄露、机器遗忘、可解释性等主题。每条目含论文链接、作者、关键词与内容摘要，部分附代码仓库；从 ArXiv 每日更新，预览 README 仅收录近一年提交的论文，更早内容通过 Full List 查看。面向科研人员与安全研究者做文献追踪。
+持续更新的可信深度学习（trustworthy deep learning）论文策展清单，按主题分类组织：分布外泛化、逃避攻击与防御、投毒攻击与防御、隐私等，每条目含论文链接、作者、关键词与内容摘要。数据每日从 ArXiv 同步，预览 README 仅收录最近一年提交的论文，更早内容通过分主题的 Full List 链接访问，并接受 PR 补充。
 
 ## 筛选速览
 
@@ -20,22 +20,24 @@
 
 ## 能力要点
 
-- 按主题分类组织（OOD 泛化、对抗攻击、投毒、隐私等）
-- 每日从 ArXiv 更新，条目附关键词与摘要
-- 预览仅含近一年论文，完整清单另存
+- 每日从 ArXiv 更新论文条目
+- 按 OOD 泛化、对抗攻击、投毒、隐私等主题分类
+- 每条含论文链接、关键词与内容摘要
+- 超出一年窗口的内容通过分主题 Full List 链接提供
 
 ## 适用场景
 
-- 追踪可信深度学习各子方向的新论文
-- 按关键词摘要快速筛选相关研究
-- 查找附带开源代码的攻击/防御方法论文
+- 查找对抗攻击与防御方向的研究论文
+- 跟进可信机器学习各子领域的最新进展
+- 为论文写作收集相关文献线索
 
 ## 场景标签
 
-`科研工具` `精选清单` · 领域:学习与行业
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L9: # Awesome Trustworthy Deep Learning Awesome
 > L11: The deployment of deep learning in real-world systems calls for a set of complementary technologies that will ensur
 > L13: Daily updating from ArXiv. The preview README only includes papers submitted to ArXiv within the **last one year**.
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `bd398c7d241a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9263fc422e7b` · [字段定义](../../DATASET.md)*

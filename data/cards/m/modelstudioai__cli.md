@@ -2,9 +2,9 @@
 
 ⭐ 373 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelstudioai/cli) · [官网](https://bailian.console.aliyun.com/cli) · 组织维护 · 中文 README
 
-**阿里云百炼官方 CLI：为 AI Agent 提供百炼模型能力的命令行工具**
+**面向 AI Agent 的阿里云百炼官方 CLI，把模型与工作流暴露为工具调用**
 
-阿里云百炼（DashScope）平台的官方命令行工具，以结构化工具调用形式向 AI Agent 暴露平台能力：文本/图像/视频/语音的全模态生成与编辑、图像/文档/音视频理解、调用平台上托管的 Agent 与工作流、数据集校验上传、模型微调与专属部署、账号与配额管理。支持在 Codex、Claude Code、Cursor 等编码 Agent 中注册百炼 MCP 服务器。提供 npm、shell 脚本、PowerShell 三种安装方式；部分功能（应用编排、训练部署、账号操作）仅限中国站账号。
+阿里云百炼（DashScope）平台的官方命令行工具，用 Node.js/TypeScript 实现。功能覆盖文本/图像/视频/语音生成、图片与长视频理解、调用平台上发布的 Managed Agent 与工作流、数据集校验上传、SFT/DPO/CPT 微调与部署、批量推理、知识库管理与账号配额操作。每个命令设计为结构化工具调用供 AI Agent 使用，并提供原生命令把百炼 MCP 服务器注册进 Codex、Claude Code、Cursor 等编程 Agent。应用编排、训练部署与账号功能仅限中国站账号。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 全模态生成与编辑（文本/图像/视频/语音）及素材理解
-- MCP 服务器一键注册到 Codex、Claude Code、Cursor、Qwen Code 等 Agent
-- 数据集校验上传、模型微调与专属端点部署
-- 三种认证方式：控制台 OAuth 登录、API Key、阿里云 AK/SK
+- 全模态生成与理解：文本/图像/视频/语音的生成、编辑与解析
+- 每条命令可作为结构化工具调用供 AI Agent 框架使用
+- 支持微调（SFT/DPO/CPT）、RL 任务沙箱与专属模型端点部署
+- 原生 MCP 注册到 Codex/Claude Code/Cursor/Qwen Code 等客户端
 
 ## 适用场景
 
-- 让编码 Agent 通过自然语言调用百炼的生成、识别与检索能力
-- 在 Claude Code / Cursor 等工具中接入百炼 MCP 服务器
-- 用命令行管理百炼账号的模型用量、配额与限流
-- 通过 CLI 完成数据集上传与模型微调部署
+- 让编程 Agent 直接调用百炼平台的模型、知识库与工作流
+- 命令行管理模型微调数据集、批量推理任务与部署实例
+- 从一句话生成图像并转为视频的多模态创作流程
+- 查询模型用量、配额、限流与调用监控告警
 
 ## 场景标签
 
-`模型网关` `微调` · 领域:Agent 开发
+`图像生成` `视频生成` `微调` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
+> L3: **The official command-line interface for Aliyun Model Studio (DashScope) AI Platform**
 > L16: _Built for AI Agents. Every command works as a structured tool call._
 > L23: - **Native MCP setup** — Register Bailian MCP servers in Codex, Claude Code, Cursor, Qoder, Qoder Work, QwenWork (千
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0f7c687617ab` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f169251e3ce3` · [字段定义](../../DATASET.md)*

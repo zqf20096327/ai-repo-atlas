@@ -2,9 +2,9 @@
 
 ⭐ 290 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/martenlienen/torchode) · [官网](https://torchode.readthedocs.io) · 个人维护
 
-**为 PyTorch 提供的批量并行 ODE 求解器库**
+**为 PyTorch 提供批内并行的 ODE 求解器库**
 
-torchode 是一组单步 ODE 求解器（如 dopri5、tsit5），兼容 PyTorch 的 JIT 编译器，并支持在一个批次内按样本难度各自步长并行求解，避免不同刚性模型的性能陷阱，保证预测与批次组成无关。面向使用 PyTorch 做神经常微分方程建模的研究者与开发者，以 Python 库形式从 PyPI 提供，另有论文可引用。
+torchode 提供一组单步 ODE 求解器（如 dopri5、tsit5），兼容 torch.compile，并沿 batch 维度并行执行：每个样本可按自身难度采用不同步长，避免刚性差异导致的性能问题，并使预测与 batch 组成无关。以 pip 包发布，提供文档、使用示例与 GitHub issue 渠道，附学术论文引用条目。依赖 PyTorch 生态，属于科学计算/深度学习基础库。
 
 ## 筛选速览
 
@@ -21,23 +21,24 @@ torchode 是一组单步 ODE 求解器（如 dopri5、tsit5），兼容 PyTorch 
 ## 能力要点
 
 - 提供 dopri5、tsit5 等单步 ODE 求解器
-- 兼容 PyTorch JIT 编译器
-- 批次内按样本自适应步长并行求解
+- 兼容 torch.compile，可编译提升性能
+- batch 内并行，各样本可使用不同自适应步长
+- 提供文档与 PyPI 安装包
 
 ## 适用场景
 
-- 在 PyTorch 中求解神经常微分方程（Neural ODE）
-- 批次内样本刚性差异大时保持求解性能
-- 需要与批次组成无关的确定性预测结果
+- 训练含 Neural ODE 分支的深度学习模型
+- 在 PyTorch 中对不同刚性的 batch 样本并行积分
+- 需要预测结果与 batch 组成无关的建模任务
 
 ## 场景标签
 
- · 领域:科学计算/深度学习库
+ · 领域:深度学习/科学计算库
 
 ## 证据(README 行号)
 
 > L5: torchode is a suite of single-step ODE solvers such as `dopri5` or `tsit5` that are
-> L6: compatible with PyTorch's JIT compiler and parallelized across a batch. JIT compilation
+> L6: compatible with PyTorch's JIT compiler `torch.compile` and parallelized across a batch.
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4e6ab1b3d1a7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `dfb2d4bb6ca9` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 427 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/KernelTuner/kernel_tuner) · [官网](https://kerneltuner.github.io/kernel_tuner/) · 组织维护
 
-**面向开发者的 GPU kernel 自动调优框架（CUDA/HIP/OpenCL 等）**
+**面向 GPU 开发者的内核自动调优工具库**
 
-以 Python 库形式提供的 GPU kernel 基准测试与自动调优工具：作为外部工具在隔离环境中对已有 kernel 代码做参数搜索调优，无需大幅改动代码，支持 CUDA、HIP、OpenCL、OpenACC、OpenMP 等主流 GPU 编程语言，配合任意宿主语言的应用使用。提供 20 余种搜索/优化算法、能耗测量（功率上限、频率调节）、输出校验、缓存与自定义指标等功能。安装需先具备 CUDA/OpenCL/HIP 编译器，再通过 pip 安装；另有教程笔记本（含 Colab）与论文引用入口。
+Python 编写的 GPU 内核自动调优工具：作为外部工具对现有 CUDA/HIP/OpenCL/OpenACC/OpenMP 内核代码进行基准测试与参数搜索优化，无需大规模改动既有内核，支持任意宿主语言的应用。内置 20 多种优化算法加速调优搜索，提供能耗测量与优化（功耗上限、时钟频率调节）、输出验证、缓存、混合精度与精度调优、自定义指标等功能。通过 pip 安装，配套教程、示例与 Colab notebook，并有 C++ 集成、可视化监控等生态组件。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 对现有 kernel 代码做隔离式基准测试与调优，无需大幅改动
-- 支持 CUDA/HIP/OpenCL/OpenACC/OpenMP 多种 GPU 编程语言
-- 20 余种优化搜索算法
-- 能耗测量与优化（功率上限、时钟频率调节）
+- 支持 CUDA、HIP、OpenCL、OpenACC、OpenMP 多种 GPU 编程模型
+- 20 多种优化算法用于加速调优搜索空间
+- 能耗测量与优化（power capping、时钟频率调优）
+- 可直接用于现有内核代码并提供输出验证
 
 ## 适用场景
 
-- 为 CUDA/OpenCL 等 GPU kernel 搜索最优配置参数
-- 对 GPU 代码做时间或能耗目标的基准测试
-- 从 Python 中测试并调优 kernel 的宿主与设备代码
+- 对现有 CUDA 内核做基准测试并自动搜索最优配置
+- 优化 GPU 应用的能耗表现
+- 从 Python 中测试和调优 GPU 代码
+- 混合精度与精度调优实验
 
 ## 场景标签
 
- · 领域:GPU 计算/性能工程
+ · 领域:高性能计算/GPU 内核优化
 
 ## 证据(README 行号)
 
 > L9: Create optimized GPU applications in any mainstream GPU
-> L10: programming language (CUDA, HIP, OpenCL, OpenACC, OpenMP).
+> L14: - Works as an external tool to benchmark and optimize GPU kernels in isolation
+> L18: - More than 20 optimization algorithms to speedup tuning
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 low · 依据 README sha `35ab2b24e425` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `f36f74330e37` · [字段定义](../../DATASET.md)*

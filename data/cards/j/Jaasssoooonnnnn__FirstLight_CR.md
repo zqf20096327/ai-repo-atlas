@@ -2,9 +2,9 @@
 
 ⭐ 372 · Python · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/Jaasssoooonnnnn/FirstLight_CR) · 个人维护 · 中文 README
 
-**离线训练与评测 Clash Royale AI agent 的研究框架**
+**训练皇室战争离线对战 AI 的研究工具包**
 
-面向游戏 AI 研究者的完整流水线：基于原生对局引擎（headless 与渲染两种执行）重放 252K 局对局构建观测/动作序列做模仿学习，再用 PPO 自陪练（含匹配、对手池、常驻仿真与分布式采样）训练 actor-critic 模型；提供 5 个 checkpoint、策略 JSON-lines 服务与双模型对局评测命令。桌面环境依赖 Windows、Python 3.12、MuMu 模拟器（Android 12、root、ARM64）与用户自备的指定版本 APK；从源码构建离线 APK 需 JDK 17/NDK，直接运行已构建 APK 则不需要。不分发游戏 APK 及资源，与 Supercell 无关联。
+面向皇室战争的离线 AI 研究项目：提供原生对战环境（headless/渲染执行、Python reset/step 接口）、将 Parquet 回放重建为观测-动作序列的模仿学习、带匹配与对手池的 PPO 自博弈强化学习及分布式采集。内置 V4 actor-critic 模型、5 个 checkpoint 与 252,238 条回放数据集，支持与模型对战、手动操作双方、查看回放的本地界面。支持 CPU 推理；构建离线 APK 需 JDK 17、Android NDK、SDK build-tools 与 MuMu 模拟器，引擎依赖指定版本的 Null's Royale APK（用户自备）。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 原生对局环境：Python reset/step 接口、结构化观测、122 张支持卡牌
-- 模仿学习 + PPO 自陪练（对手池、分布式采样）
-- 252,238 局重放数据集托管于 Hugging Face，含 17,836,160 个动作
-- V4 actor-critic 使用卡牌特征、实体关系、空间特征与循环记忆
+- 原生对战环境：headless/渲染执行与 Python reset/step 接口
+- 模仿学习：重建 Parquet 回放为 IL 训练序列
+- PPO 自博弈：匹配、对手池、常驻模拟、分布式采集
+- 5 个内置 checkpoint，122 张支持卡牌，252K 回放数据集
 
 ## 适用场景
 
-- 离线训练自己的 Clash Royale 对战 AI 模型
-- 用模仿学习从重放数据起步，再切换 PPO 自陪练
-- 在离线模拟器中与模型对局或对比两个 checkpoint 的胜率
-- 通过 JSON-lines 策略服务接入自定义 actor 循环
+- 训练并评估皇室战争对战 AI agent
+- 在回放数据上做模仿学习研究
+- 本地与模型对战或查看自博弈回放
 
 ## 场景标签
 
-`模型训练` `强化学习` `模型评测` · 领域:评测与运维
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L37: - **Imitation learning.** Reconstruct Parquet replays in the engine and build observation/action sequences for IL t
-> L38: - **Self-play reinforcement learning.** PPO with matchmaking, opponent pools, resident simulation, and distributed 
-> L39: - **Models and inputs.** The V4 actor-critic uses card features, entity relations, spatial features, and recurrent 
+> L38: - **Native battle environment.** Headless and rendered execution, structured observations, card deployment and abil
+> L40: - **Self-play reinforcement learning.** PPO with matchmaking, opponent pools, resident simulation, and distributed 
+> L5:  Train Clash Royale agents and play offline, with imitation learning and PPO self-play.
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `02f490a98606` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e72919b788fc` · [字段定义](../../DATASET.md)*

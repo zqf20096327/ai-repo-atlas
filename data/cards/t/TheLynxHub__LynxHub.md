@@ -2,9 +2,9 @@
 
 ⭐ 426 · TypeScript · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/TheLynxHub/LynxHub) · [官网](https://LynxHub.app) · 个人维护
 
-**跨平台 AI WebUI 管理终端：安装、配置、启动本地 AI 界面**
+**给 AI 高级用户的一站式本地 AI 接口管理桌面环境**
 
-基于 Electron/React/TypeScript 的桌面工作台，面向本地 AI 界面（WebUI）的配置、管理与运行：支持安装新 AI 界面（可指定分支、克隆深度）、界面卡片上的 Git 操作（切分支、reset、stash）、扩展的查找安装与批量更新、可视化参数管理与启动前自动化命令。内置终端、浏览器与多标签实例，自动检测并启动 WebUI URL。开发者可通过扩展和模块体系（Module Federation 运行时注入）添加新 AI WebUI。提供 Windows/Linux/macOS 的 X64 与 ARM64 构建及便携版，开发由个人维护者推进，Patreon 支持者可获早期构建与付费扩展。
+基于 Electron 的跨平台桌面环境，面向本地 AI 工具用户，将多个 AI WebUI 的安装、定位、配置与启动整合到统一工作区。核心机制：模块化架构允许开发者编写模块添加新 AI WebUI；参数管理器可视化组织启动参数；内置终端与浏览器多标签并行运行多个实例；提供 Git 分支切换、仓库重置、扩展批量更新等管理功能。支持 X64/ARM64 及 Portable 版本；macOS 为未签名应用，首次启动需手动绕过安全警告。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- AI 界面安装与 Git 级管理（分支切换、reset、unshallow、stash）
-- 可视化参数管理器与自定义启动命令、启动前自动化
-- 内置终端、浏览器与多标签，支持同时运行多个 AI 实例
-- 扩展/模块体系（Module Federation 运行时注入）可添加新 AI WebUI
+- 模块化架构：开发者可创建并分享模块，为工作区添加新 AI WebUI
+- 参数管理器：可视化添加/编辑启动参数并保存预设
+- 内置终端与浏览器，多标签同时运行多个 AI 实例
+- 扩展管理：查找、安装、批量更新 AI 扩展
 
 ## 适用场景
 
-- 在一个工作台里管理多个本地 AI WebUI 的安装、更新与启动
-- 为不同 AI 界面维护参数预设与自定义启动方式
-- 在应用内直接进行终端操作、浏览文档与多实例切换
+- 在一处统一安装、配置并启动多个本地 AI WebUI
+- 通过内置终端和浏览器在多标签间切换管理 AI 实例
+- 自定义 AI 接口的启动命令和启动前自动化操作
 
 ## 场景标签
 
- · 领域:AI 工具管理/桌面应用
+ · 领域:AI 工具管理/开发工具
 
 ## 证据(README 行号)
 
-> L5: **Cross-platform, extensible terminal and browser for AI management.**
 > L17: _An open-source, highly modular environment built for AI power users to configure, manage, and run local AI interfa
-> L38: - **Install, Locate & Configure:** Set up new AI interfaces with options for specific branches, clone depth, and qu
+> L33: - **Modular Design:** Developers can create and share modules that
+> L36: 🚀 **Manage Your AI Interfaces:** Handle your AI WebUIs easily from one place.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `48976e80e0f7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f1db7bffcec6` · [字段定义](../../DATASET.md)*

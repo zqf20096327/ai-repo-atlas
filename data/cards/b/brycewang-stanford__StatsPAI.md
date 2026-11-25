@@ -1,16 +1,16 @@
 # brycewang-stanford/StatsPAI
 
-⭐ 379 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/brycewang-stanford/StatsPAI) · [官网](https://brycewang-stanford.github.io/StatsPAI/) · 组织维护
+⭐ 379 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/brycewang-stanford/StatsPAI) · [官网](https://brycewang-stanford.github.io/StatsPAI/) · 组织维护 · 中文 README
 
-**Python 因果推断与计量经济学库，供 AI agent 调用 Stata/R 式工作流**
+**给实证研究者用 Python 替代 Stata/R 做因果推断，并可被 agent 调用**
 
-面向在 Stata、R、Python 之间切换的实证研究者，提供统一 API 覆盖 OLS、IV、高维固定效应、交错 DiD、断点回归、合成控制、匹配、双重机器学习等常见计量与因果推断工作流；结果对象支持 summary/tidy/LaTeX/DOCX 导出。每个公开函数注册机器可读 schema，并附带 statspai-mcp 服务器供 Claude Code、Claude Desktop、Cursor 等 MCP 客户端调用。捆绑 14 个离线数据集；各估计器带 validation_status 标注与 R/Stata 数值一致性校验程度，README 明示并非所有命令逐位一致。由斯坦福 REAP 团队开发，发表于 JOSS。
+面向需要在 Stata、R、Python 之间切换的实证研究者的因果推断与计量经济学 Python 库：以统一 API 覆盖 OLS/IV/固定效应、交叠 DiD、断点回归、合成控制、匹配、双重机器学习等流程，结果对象支持 .tidy()/.to_latex()/.to_docx() 导出。每个公开函数带机器可读 schema，通过捆绑的 statspai-mcp server 暴露给 MCP 客户端；内置 14 个离线数据集、1,691 个注册函数。各估计器带 validation_status 区分数值对齐证据与仅 API 稳定两种情形，发表前需查证。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 1,627 个注册函数覆盖 90 个子模块，含 Stata/R 风格估计量与 sp.stata() 直跑 Stata 命令行
-- 每个公开函数有机器可读 schema（list_functions/describe_function）
-- 附带 statspai-mcp 服务器，可被 Claude Code、Claude Desktop、Cursor 调用
-- 29 个估计器的标准误以 1e-6 精度对齐 Stata 18，各函数带 validation_status 标注
+- 每个公开函数注册机器可读 schema，statspai-mcp server 暴露给 MCP 客户端（Claude Code/Claude Desktop/Cursor 等）
+- 遵循 Stata vce() 语法、29 个估计器标准误与 Stata 18 以 1e-6 预算对齐
+- 每个函数带 validation_status 区分认证/验证/API 稳定三类证据
+- 内置 14 个离线数据集，支持 sp.stata()/sp.from_stata() 直接运行或翻译已有命令
 
 ## 适用场景
 
-- 在 Python 中复现 Stata/R 的回归、IV、DiD、RD 等实证流程并导出论文表格
-- 让 AI agent 通过 MCP 直接执行计量估计与诊断
-- 验证既有 Stata 代码在 Python 下的结果一致性
+- 把原有 Stata/R 计量流程迁到 Python 单一 API
+- 让代码 agent 通过 MCP 调用计量估计器做实证分析
+- 发表研究前查 validation_status 确认估计器的对齐证据等级
+- 将 Stata .do 片段翻译为 Python 并交叉核对结果
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+ · 领域:统计/计量经济学工具
 
 ## 证据(README 行号)
 
 > L43: - Agent-native access: every public function is registered with a
-> L45:  `sp.function_schema()`), and the bundled `statspai-mcp` server exposes the
 > L46:  estimators to MCP clients such as Claude Code, Claude Desktop, and Cursor.
+> L110: At a glance: 1,691 registered functions across 92 submodules; 756k LOC (core) + 519k LOC (tests). Run `python scri
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5369624cbe37` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `35cc7f199362` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 393 · Kotlin · MIT · 推送 2026-11-22 · [GitHub](https://github.com/niki914/zafiro) · 个人维护 · 中文 README
 
-**安卓端 BYOK 开源 AI Agent：控制手机、跑 Shell 与 Python**
+**Android 上的 BYOK AI agent，可操控手机执行任务**
 
-运行在 Android 设备上的开源智能 Agent 应用，采用 BYOK 模式自带 LLM API key，内置 OpenAI、Anthropic 之外的 DeepSeek、OpenRouter、Kimi 等多家 Provider 配置。通过 Accessibility Service 或 Shizuku（免 Root）实现自主 GUI 导航与跨应用设备控制，可原生运行 Shell 与 Python 3，支持 Skills、MCP、记忆与会话分支。经 LSPosed 可接管系统语音助手（需 Root，目前支持 OPPO Breeno）。提供 Releases 下载或从源码构建。
+运行于 Android 的 BYOK（自带密钥）agent 应用， Kotlin/Jetpack Compose 构建，Material 3 Expressive 界面。除对话外，可通过 Phone-Use（accessibility 树、截图、手势派发）跨应用执行任务，内置 Shell/SSH 与 Python 3（Chaquopy）运行时，支持 Skills、MCP、记忆与工作区扩展，亦可作为 MCP server 暴露给编程 agent。提供 Release 下载，也可经 Android Studio/Gradle 从源码构建；语音助手接管（Breeno/小爱）需 Root 与 LSPosed。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 通过 Accessibility Service/Shizuku 实现手机屏幕指针控制，Root 体验最全
-- 原生运行 Shell 与 Python 3，Agent 可自建并维护工具
-- 支持 Skills、MCP、记忆、工作区与本地会话分支
-- LSPosed 接管系统语音助手（Breeno/XiaoAi 演示）
+- Phone-Use 屏幕交互：打开应用、点歌、下单等后台代操作
+- 设备上原生运行 Shell/SSH 与 Python 3，可自封装工具
+- BYOK 接入多家模型，支持 Skills/MCP/记忆扩展
+- 经 LSPosed 接管系统语音助手（需 Root）
 
 ## 适用场景
 
-- 用自然语言让 Agent 替我在手机上操作应用、点歌、点餐
-- 在手机上运行 Python 工具并通过 SSH 连接远程开发机
-- 用自己的 API key 在安卓设备上获得带设备控制能力的 AI 助手
+- 让 agent 代我在手机上完成打开应用、下单等操作
+- 在手机端本地跑 Shell/Python 完成开发与自动化任务
+- 把手机上的 agent 作为 MCP server 接给我的编程 agent
+- 唤醒小爱/Breeno 时改由 Zafiro 应答
 
 ## 场景标签
 
-`AI 助手` `GUI 自动化` · 领域:效率与自动化
+`GUI 自动化` `AI 助手` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L14: Zafiro is an open-source intelligent Agent running on Android devices, with BYOK support. It understands your scree
-> L57: - **Out-of-the-Box** - built-in support for OpenAI, Anthropic, Google Gemini, DeepSeek, OpenRouter, Kimi, Alibaba B
+> L25: Zafiro is an intelligent BYOK Agent with elegant UI design, running on Android.
+> L27: Zafiro is more than just a chatbot—it can perform tasks across apps through Phone-Use, with full support for Skills
+> L41: - **Out-of-the-Box** - built-in BYOK support for OpenAI, Anthropic, Google Gemini, DeepSeek, OpenRouter, etc.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `eed5346b681c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `706ce842dc24` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 374 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hogeheer499-commits/strix-halo-guide) · [官网](https://strixhaloguide.com/) · 个人维护
 
-**AMD Strix Halo 本地 LLM 配置指南与基准证据库**
+**面向 Strix Halo 设备的本地 LLM 安装脚本与实测基准指南**
 
-面向 AMD Ryzen AI MAX+ 395（Radeon 8060S, gfx1151, 96/128GB 统一内存）用户的实操指南仓库：覆盖 BIOS 配置、Ubuntu 24.04/内核设置、Ollama 与 llama.cpp Vulkan/RADV 安装、ROCm/HIP 与 vLLM 实验、70B/120B 及 284B GGUF 容量验证、基准数据与原始日志。每条 headline 声明链接到 CSV、原始日志或明确标注 n/a，跨 13 个系统/独立来源的社区结果与第一方 Beelink 数据分开保存。仅提供文档、脚本、数据与图表，不含可执行文件或模型权重；自动化 setup.sh 仅限 128GB 级 Ubuntu 24.04 系统。
+针对 AMD Ryzen AI MAX+ 395（128GB 统一内存）设备的本地 LLM 部署指南与基准数据集：提供六步 Quick Start 与 setup.sh 脚本（修改 GRUB 启动参数、升级 Mesa/RADV、配置 Ollama Vulkan 环境变量），附带 boot/answer 检查脚本验证模型是否 100% 跑在 GPU 上。基准行均为单流实测并附原始日志；社区结果独立收录，覆盖 13 台不同 OEM 设备，并给出 RPC、MTP、IOMMU 等经验规则。限制：脚本仅适用于 Ubuntu 24.04、120–136GiB 内存机型，无自动回滚。
 
 ## 筛选速览
 
@@ -15,31 +15,31 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 可复制的 Ubuntu + Vulkan/RADV 的 Ollama 与 llama.cpp 配置流程
-- 基准声明逐条链接 CSV/原始日志/图表或显式 n/a，保留失败与更正记录
-- 跨 13 个系统与 10 位社区贡献者的跨 OEM 证据，与本地数据分离
-- Qwen3.8 27B 经 Ollama API 实测 20.42 t/s（含默认 MTP drafting）并附对照实验
+- 提供 128GB 机型的一键 setup.sh 与 boot/answer 自动检查脚本
+- 基准行附原始日志，单流直测 llama-bench
+- 收录 13 台 Strix Halo 系统的社区实测数据
+- 总结 RPC、MTP/投机解码、IOMMU 策略等经验规则
 
 ## 适用场景
 
-- 我在 Strix Halo 小主机上搭建本地 LLM 推理环境
-- 我需要判断某个大模型（70B-284B）能否在这类统一内存机器上跑
-- 我想复现或核对基准数据再决定购买哪款 OEM 机器
+- 在 Strix Halo 迷你主机上把 Qwen 等模型配置为 100% GPU 运行
+- 购机前按 RAM 大小与任务选择合适模型
+- 排查 Vulkan/CPU fallback 等部署问题
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L14: A complete, practical guide to running large language models locally on AMD Strix Halo / Ryzen AI MAX+ 395 systems 
-> L16: Covers BIOS config, Ubuntu 24.04/kernel setup, Ollama, `llama.cpp` Vulkan/RADV, ROCm/HIP experiments, vLLM notes, 7
-> L59: > Measured primarily on one Beelink GTR9 Pro. Community results are kept separate from local headline claims. This 
+> L1: # Strix Halo Guide: AMD Ryzen AI MAX+ 395 Local LLM Setup & Benchmarks
+> L10: This guide gives you one setup script and measurements from one 128GB Beelink GTR9 Pro. Community results are kept 
+> L29: Run a local LLM on the GPU of a 128GB AMD Strix Halo / Ryzen AI MAX+ 395 (Radeon 8060S) with Ubuntu 24.04, Ollama a
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e2b4b6e0c92e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a7c986093368` · [字段定义](../../DATASET.md)*

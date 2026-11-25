@@ -1,10 +1,10 @@
 # AnotiaWang/awesome-decision-models
 
-⭐ 728 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/AnotiaWang/awesome-decision-models) · [官网](https://anotiawang.github.io/awesome-decision-models/) · 个人维护
+⭐ 728 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/AnotiaWang/awesome-decision-models) · [官网](https://anotiawang.github.io/awesome-decision-models/) · 个人维护 · 中文 README
 
-**决策模型资源的社区策展清单**
+**决策模型（System One）资源清单：API、开源模型、运行时与论文**
 
-社区维护的决策模型清单，收录托管 API、开放权重模型、运行时、SDK、应用、基准与论文。决策模型读取状态与预声明问题（Noul/Choice/Score 三种形态），返回每个答案的概率而非生成文本。条目按托管 API 与开放模型分类，标注兼容 `/v1/systemone` 请求格式的模型与服务器。声明不隶属于任何模型提供商，接受 Pull Request。
+社区维护的决策模型策展清单，收录托管 API、开放权重模型、运行时、SDK、应用、基准与论文。决策模型读取状态与预先声明的问题（Noul/Choice/Score 三种形态），为每个答案返回概率而非生成文本。清单按托管 API 与开放模型（公司/社区）分类组织，条目标注兼容 `/v1/systemone` 请求格式、许可与性能数据。声明不隶属任何模型提供商，提供英文与简体中文版本。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按托管 API 与开放权重模型两类组织条目
-- 标注各模型对 `/v1/systemone` 请求格式的兼容情况
-- 开放模型条目附各自基准分数（声明跨条目不可比）
+- 托管 API 与开放权重决策模型分类收录
+- 条目标注 `/v1/systemone` API 兼容性与许可信息
+- 覆盖 Noul/Choice/Score 三种问题形态的模型生态
+- 提供英文与简体中文双语版本
 
 ## 适用场景
 
-- 查找兼容同一请求格式的决策模型
-- 了解可下载运行的开放权重决策模型清单
-- 调研决策模型的托管 API 与基准
+- 查找支持 /v1/systemone 格式的托管决策模型 API
+- 挑选可下载并本地运行的开源决策模型
+- 了解决策模型基准与相关研究论文
 
 ## 场景标签
 
@@ -36,6 +37,7 @@
 
 ## 证据(README 行号)
 
+> L1: # Awesome Decision Models Awesome
 > L3: A curated list of decision models (also called System One models or typed decision models) and the APIs, runtimes, t
 > L9: Community-maintained and not affiliated with any model provider. Pull requests welcome.
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `881ff699b50e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `c296d2c7f4a2` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 347 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-csharp) · 组织维护
 
-**C# 官方 Claude API SDK，供 .NET 应用接入 Claude 模型**
+**供 C# 开发者接入 Claude API 的官方 SDK**
 
-Anthropic 官方维护的 C#/.NET SDK，从 10 版起作为 Claude API 的官方 C# 客户端（此前包名由 tryAGI 社区 SDK 使用，后者已迁移至 tryAGI.Anthropic）。通过 NuGet 分发（dotnet add package Anthropic），提供 Messages API 的类型化调用接口，要求 .NET Standard 2.0+。文档托管于 platform.claude.com。MIT 许可。
+Anthropic 官方维护的 C# SDK，使 .NET 应用可调用 Claude API；通过 NuGet 以 Anthropic 包分发，运行于 .NET Standard 2.0+。README 说明版本 10 起为官方 SDK，此前 3.X 及以下为 tryAGI 社区版，旧客户端需改用 tryAGI.Anthropic 包名。文档在 platform.claude.com 提供，示例代码展示创建客户端并发送 Messages 请求。许可证由 MIT 变更为 Apache 2.0，旧版本仍保留 MIT。
 
 ## 筛选速览
 
@@ -20,22 +20,23 @@ Anthropic 官方维护的 C#/.NET SDK，从 10 版起作为 Claude API 的官方
 
 ## 能力要点
 
-- Anthropic 官方 C# SDK（版本 10+ 起）
-- 通过 NuGet 包 Anthropic 安装
-- 要求 .NET Standard 2.0+
+- 官方 C# SDK，经 NuGet 包 Anthropic 分发（dotnet add package）
+- 运行于 .NET Standard 2.0+
+- 示例展示 Messages API 调用
+- v10+ 与社区版 tryAGI.Anthropic 的包名划分说明
 
 ## 适用场景
 
-- 在 C#/.NET 应用中调用 Claude Messages API
-- 为企业 .NET 服务集成 Claude 模型能力
+- 在 C#/.NET 应用中集成 Claude 对话与文本生成能力
+- 将原先使用 tryAGI 社区版 SDK 的项目迁移到官方包
 
 ## 场景标签
 
- · 领域:LLM 基础设施/API SDK
+ · 领域:LLM 基础设施/API 客户端
 
 ## 证据(README 行号)
 
-> L8: The Claude SDK for C# provides access to the Claude API from C# applications.
+> L8: The Anthropic SDK for C# provides access to the Claude API from C# applications.
 > L17: dotnet add package Anthropic
 
 ## 星数曲线
@@ -52,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `3af312faecd3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `36b335f9cad3` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # FaqFirebase/pi-desktop
 
-⭐ 429 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FaqFirebase/pi-desktop) · [官网](https://pi-desktop.com) · 组织维护 · 中文 README
+⭐ 429 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FaqFirebase/pi-desktop) · [官网](https://pi-desktop.com) · 个人维护
 
-**Pi 编码 agent 的跨平台桌面 GUI 客户端**
+**给 Pi/oh-my-pi 编码 agent 提供的开源桌面 GUI**
 
-基于 Electron 的桌面应用，为 Pi 与 oh-my-pi（OMP）编码 agent 提供图形界面：流式聊天、文件树、diff 查看与 Git 提交/PR、每工作区终端、权限模式与自定义 allow/deny 规则、多工作区并行会话（每个会话独立 agent 进程）、跨多仓库的 Linked tasks 与一键开 PR。通过 Pi 的 RPC 协议与 pi/omp 引擎通信，支持自定义模型与 providers 编辑。另含子 agent 面板、用量统计、主题系统与中英文界面。自述处于 alpha 阶段。
+Pi Desktop 是为 Pi 与 oh-my-pi 编码 agent 提供的桌面图形界面，基于 Electron 构建，支持 Linux/macOS/Windows，目前处于 alpha 阶段。它通过 Pi 的 RPC 协议连接引擎，提供流式聊天（含工具调用与 diff 展示）、文件浏览与编辑、终端、diff 审查与 Git 操作（commit/push/PR）、多工作区与后台会话、四级权限模式加自定义 allow/deny 规则、包浏览器与用量统计。用户需自行安装 Pi 或 omp 引擎，会话与模型配置存于各引擎目录。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 通过 Pi RPC 协议运行 pi CLI 或 omp 二进制，双引擎会话共存
-- 权限四模式 + 按工具/glob 的 allow/deny 规则（deny 优先，可入库共享）
-- Linked tasks 跨多 Git 仓库改动并 Ship all 开出关联 PR
-- Multi-Agent Council Planning：Pi/Claude/Codex 各出方案后由 Pi 合并（默认关闭）
+- 通过 RPC 协议同时支持 pi 与 omp 两种引擎，可切换并读取双方会话历史
+- 四级权限模式（Plan/Ask edits/Ask commands/Trusted）与 glob 模式的 allow/deny 规则
+- Linked tasks 跨多 Git 仓库协作，隔离 worktree 并批量开 PR
+- 多 Agent Council Planning：Pi/Claude/Codex 各自只读规划后合并共识计划（opt-in）
 
 ## 适用场景
 
-- 在桌面窗口里聊天式驱动 Pi/OMP 编码 agent 并审查 diff
-- 并行管理多个项目的 agent 会话与后台任务
-- 跨多个 Git 仓库让 agent 协同改动并批量开 PR
+- 在图形界面里使用 Pi/oh-my-pi 编码 agent 进行聊天、改代码和跑终端
+- 审查 agent 会话修改的文件 diff 并做 Git 提交或开 PR
+- 按工作区配置精细权限规则，限制 agent 可执行的工具
+- 让多个 agent（Pi/Claude/Codex）先各自规划再执行编码任务
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `30256155fb3e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4d6313b5b862` · [字段定义](../../DATASET.md)*

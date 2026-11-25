@@ -1,16 +1,16 @@
 # mobile-next/mobilecli
 
-⭐ 328 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mobile-next/mobilecli) · [官网](https://mobilenext.ai) · 组织维护 · 中文 README
+⭐ 328 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/mobile-next/mobilecli) · [官网](https://mobilenext.ai) · 组织维护
 
-**iOS/Android 设备与模拟器统一管理 CLI，支持 AI agent 驱动**
+**给开发者的移动设备/模拟器通用管理命令行工具**
 
-来自 Mobile Next 的跨平台命令行工具，统一管理 iOS 真机/模拟器与 Android 真机/模拟器：设备列举与启动、截图与 mjpeg/h264 视频流、点击/按键控制、App 安装卸载与前台管理、文件系统操作、GPS 位置覆写、崩溃报告、日志流与 Webview 检查。架构上由后台 daemon 维持设备发现与 iOS 隧道，CLI/HTTP/WebSocket 均通过 JSON-RPC 访问同一 daemon。附带 SKILL.md 技能，使 Claude Code 等 agent 可通过自然语言驱动本工具，并通过 npx skills 安装。
+Mobile Next 出品的通用 CLI，覆盖 iOS 实机/模拟器与 Android 实机/模拟器的管理：设备列表与启停、截图与屏幕视频流（mjpeg/H.264）、触控与硬件按键控制、应用安装/卸载/启停、设备文件系统读写、GPS 位置覆盖、崩溃报告获取、实时日志流（支持过滤，可经 HTTP API 访问）、内嵌 Webview 检查（走 Chrome DevTools 协议与 Safari Web Inspector）。后台常驻 daemon 复用设备发现与隧道。内置 SKILL.md 供 Claude Code 等兼容 agent 学习驱动本工具。iOS 触控等能力需设备端 agent。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- iOS/Android 真机与模拟器四类平台的统一命令行管理
-- 后台 daemon + JSON-RPC 架构，CLI/HTTP/WebSocket 共享设备与隧道
-- 截图/视频流、点击按键、文件系统、GPS 覆写、崩溃报告、日志过滤、Webview 检查
-- 附带 Claude Code 兼容的 agent 技能（SKILL.md），可由 agent 自然语言驱动
+- 跨平台设备管理：iOS 实机/模拟器、Android 实机/模拟器
+- 截图、屏幕视频流、触控、按键与 GPS 位置覆盖
+- 应用管理、设备文件系统、崩溃报告与过滤日志流
+- 内置 SKILL.md 使 Claude Code 等 agent 可自动驱动 CLI
 
 ## 适用场景
 
-- 统一管理多台 iOS/Android 测试设备与模拟器
-- 让编程 agent 通过对话指令操作真机：截图、点击、装 App
-- 通过 HTTP/WebSocket JSON-RPC 接入自动化测试流水线
-- 拉取崩溃报告与实时日志定位移动端问题
+- 从命令行批量管理 iOS 与 Android 测试设备
+- 让编码 agent 自动执行截屏、点击、装包等设备操作
+- App 自动化测试中抓取 UI 树、日志与崩溃报告
 
 ## 场景标签
 
@@ -38,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L298: This repo includes an agent skill (skills/mobilecli/SKILL.md) that teaches Claude Code (or any SKILL.md-compatible
+> L5: A universal command-line tool for managing iOS and Android devices, simulators, emulators and apps from Mobile Next.
 > L66: ### Agent Setup 🤖
+> L316: This repo includes an agent skill (skills/mobilecli/SKILL.md) that teaches Claude Code (or any SKILL.md-compatible
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `7c34262b725b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a9ba48d4285c` · [字段定义](../../DATASET.md)*

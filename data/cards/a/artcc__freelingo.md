@@ -1,10 +1,10 @@
 # artcc/freelingo
 
-⭐ 312 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/artcc/freelingo) · [官网](https://www.arturocarreterocalvo.com/freelingo) · 个人维护
+⭐ 312 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/artcc/freelingo) · [官网](https://www.arturocarreterocalvo.com/freelingo) · 组织维护
 
-**自托管/托管的 AI 语言学习平台：CEFR 课程与 AI 导师**
+**自托管 AI 语言学习平台：结构化课程+语音 AI 导师**
 
-开源语言学习平台，以自托管（AGPL-3.0，Docker Compose 部署）与托管服务两种模式提供。LLM 评估用户 CEFR 等级（A1-C2），生成 4-16 周个性化学习路线，依次解锁语法、词汇、阅读、写作课程；配套 SM-2 间隔重复闪卡、AI 生成的听力/阅读练习、语音对话导师 Lingu 与发音练习。后端 FastAPI 代理全部 LLM/TTS/STT 调用，LLM 可选 Ollama/OpenAI/Anthropic/DeepSeek；本地语音服务默认需 NVIDIA GPU，实时语音对话在生产环境要求反向代理与 HTTPS。另提供商业许可。
+开源语言学习平台，提供 A1–C2 结构化课程、自适应分级测试与按语言/级别/时长（4/8/12/16 周）生成的学习计划。核心功能包括名为 Lingu 的文本与语音 AI 导师（用户可控记忆）、SM-2 间隔重复闪卡、50 种日常情景语音角色扮演、学习游戏与进度看板，支持 20 种学习语言。架构为 Next.js 前端 + FastAPI 后端，Docker Compose 部署，存储用 PostgreSQL 16 与 Redis 7。LLM 支持 Ollama、OpenAI、Anthropic、DeepSeek；TTS/STT 支持本地与云服务。托管服务另有商业许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- CEFR 对齐课程（A1-C2）与 LLM 定级、周计划生成
-- 语音对话导师 Lingu 与用户可控持久记忆
-- SM-2 间隔重复闪卡与 AI 生成听力/阅读练习
-- LLM/TTS/STT 提供商均可本地（Ollama/Kokoro/faster-whisper）或云端切换
+- A1–C2 课程与自适应分级测试，计划周期可选 4/8/12/16 周
+- Lingu 语音/文本 AI 导师与 50 种情景角色扮演
+- SM-2 间隔重复闪卡与学习游戏
+- LLM 可选本地 Ollama 或 OpenAI/Anthropic/DeepSeek
 
 ## 适用场景
 
-- 自托管部署一个可控数据的语言学习平台
-- 按 CEFR 等级获得结构化课程与 AI 导师辅导
-- 机构私有化部署或定制白标版本（商业许可）
+- 自托管一个结构化的多语言学习平台
+- 用 AI 语音导师和情景角色扮演练口语
+- 用闪卡和间隔重复复习词汇与语法
 
 ## 场景标签
 
- · 领域:教育/语言学习
+`语音合成` `语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L12: Open source AI language learning platform available in two modes: self-hosted (free, run it on your own
-> L14: A language model evaluates your CEFR level, generates a personalized study plan, and guides you through
-> L15: grammar, vocabulary, reading comprehension, writing lessons, AI-generated listening and reading exercises, and voic
+> L18: FreeLingo is an open-source language learning platform with a structured A1–C2 curriculum and an AI
+> L27: 3. **Practise with Lingu.** Use text and voice tutoring with user-controlled memories. Completed
+> L109: - **LLM:** Ollama, OpenAI, Anthropic, or DeepSeek
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `41b10bfa8f14` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3c83c39df1bb` · [字段定义](../../DATASET.md)*

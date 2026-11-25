@@ -2,9 +2,9 @@
 
 ⭐ 359 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/DevDock-AI/claude-unlimited) · [官网](https://github.com/DevDock-AI/claude-unlimited#readme) · 组织维护
 
-**在 Claude Code 内轮换 Claude/ChatGPT 订阅与 API key 的本地代理**
+**给 Claude Code 用户做多账号额度轮换的本地代理与面板**
 
-面向 Claude Code 用户的本地代理/守护进程：把多个 Claude Pro/Max 订阅、ChatGPT/Codex 订阅和 Anthropic API key 汇入一个池，账户额度用尽时在请求间自动切换，会话与上下文不中断；Codex 请求被翻译为 Anthropic API 形态（含流式），并可编辑 Claude→GPT 模型映射。自带 127.0.0.1 仪表盘展示用量/成本/活动日志，凭据存于系统钥匙串，无遥测、无云端组件。macOS 为主要测试平台，Windows/Linux 为尽力支持；需 Python 3.10+ 与 claude CLI。
+本地运行的代理与仪表盘：将 Claude（Pro/Max/Ultra）订阅、ChatGPT/Codex 订阅与 Anthropic API key 汇成一个池，供 Claude Code CLI 使用；某账号触达用量上限时在请求间自动切换到下一账号，会话与上下文不中断。Codex 账号经 API 形状转换后可服务 Claude Code，模型映射与计费配额由用户配置。提供用量条、成本统计、活动日志等面板，凭据存于 OS 密钥库。macOS 为主测平台，Windows/Linux 为 best-effort；需 Python 3.10+、git 与 claude CLI。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 多账户混合池，请求间自动轮换，会话不重启
-- Codex 账户翻译为 Anthropic API 形态，含流式与模型映射表
-- 本地仪表盘：用量、成本、项目归因、活动日志、HUD
-- 凭据存 OS 钥匙串（Keychain/Secret Service/DPAPI），无遥测
+- 账号触顶时在请求间无缝轮换，会话不中断
+- Codex/ChatGPT 账号与 Anthropic API 形状双向转换，支持 token 级流式
+- 本地仪表盘：用量、成本、按项目归因与活动日志
+- 100% 本地：无遥测，凭据存于 Keychain/Secret Service/DPAPI
 
 ## 适用场景
 
-- 单账户额度用尽时不中断 Claude Code 会话
-- 把 Claude 订阅、ChatGPT 订阅和 API key 混用一个池
-- 在仪表盘里查看各账户用量与花费统计
+- 多个 Claude/ChatGPT 订阅轮着用，避免用量中断编码会话
+- 在 Claude Code 中通过 Codex 账号运行 GPT 模型
+- 本地查看各账号用量与成本统计
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L82:       │   ANTHROPIC_BASE_URL=http://127.0.0.1:4317
-> L86: **The rotation is invisible to Claude Code.** It sends one request, gets one answer. It is
+> L5: Claude Unlimited pools your Claude (Pro · Max · Ultra), ChatGPT/Codex, and Anthropic API accounts
+> L64: ||**The codex CLI too** — `cu codex` runs OpenAI's own CLI on the pool's ChatGPT accounts, moving to the next one w
+> L97: - **No account. No sign-up. No cloud component.** There is no Claude Unlimited server. It
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `6eb6cb76ac57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `addf2af9c197` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 318 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FootprintAI/Containarium) · [官网](https://containarium.dev) · 组织维护
 
-**给 AI agent 的自托管隔离运行时：每个 agent 一个 SSH 可达容器**
+**为 AI agent 提供隔离沙箱运行时的自托管平台**
 
-开源 agent 运行时：在 LXC 或 Kubernetes 上为每个 AI agent 提供一个持久化、SSH 可达的非特权容器（box），通过 MCP 暴露平台管理与盒内文件/命令工具（shell_exec、read_file 等）。安全机制包括可选的每租户 eBPF 出网策略、审计日志拒绝记录、模型网关使 provider API key 不进入容器、agent 仅持有 SSH key 而非集群 token。支持自带 agent（Claude Code、Cursor、OpenCode 等），提供 curl 一键安装脚本与 quickstart 流程，另有托管云选项。默认配置与各项安全声明的依据记录在 docs/security/CLAIMS.md。
+自托管的 agent 运行时平台：为每个 agent 在无特权容器（LXC 或 Kubernetes 后端）中提供持久、可通过 SSH 访问的沙箱环境，配合 eBPF 出站策略与审计日志，并内置模型网关使 provider API key 不进入沙箱。管理面通过 MCP server 暴露，容器内另运行 agent-box MCP server 提供 shell_exec、文件读写等工具；支持将 Claude Code 安装进沙箱并支持断线重连的输出流。安装脚本面向 Ubuntu 24.04 VM，另有托管云版本。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- 每个 agent 一个持久化 SSH 容器，运行于 LXC 或 Kubernetes 后端
-- 盒内 agent-box MCP 服务器：shell_exec/read_file/write_file 等有界工具（30s 默认超时、256KiB 输出上限）
-- 可选每租户 eBPF 出网策略与审计日志；模型网关使 API key 不进入容器
-- quickstart 一条命令完成建 box、SSH 配置与 agent MCP 接线（默认 Claude Code，可选 gemini/codex）
+- 每个 agent 一个持久、SSH 可达的无特权容器沙箱
+- eBPF 出站策略与审计日志、模型网关隔离 API key
+- MCP-native：平台管理面与容器内 agent-box 双 MCP server
+- agent 运行输出可断线重连、字节级精确回放
 
 ## 适用场景
 
-- 让 AI agent 在隔离沙箱里构建、安装、部署和验证，而非在本机
-- agent 长时间任务（如跑测试）在 box 内运行，断线后 byte-exact 重连查看输出
-- 把 agent 构建的应用通过 expose-port 暴露到公网域名
-- CI 失败后保留环境供 agent 调试（ci-context/ci-prompt MCP 资源）
+- 给 coding agent 一个不占用本机的持久构建/测试环境
+- 让 agent 在沙箱中构建并对外发布 HTTPS 应用
+- 为团队提供自托管的 agent 基础设施并限制出站行为
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+ · 领域:AI 基础设施/agent 运行时
 
 ## 证据(README 行号)
 
-> L58: That's the runtime Containarium gives you. It runs as a self-hosted
-> L60: ships a second MCP server that lives *inside* the box so the agent can
-> L165: Your agent reaches the box through `agent-box`, an MCP server that runs
+> L5: **The open-source, self-hostable agent runtime for AI agents.**
+> L59: platform on LXC or Kubernetes, exposes its admin surface over MCP, and
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `fb29c674ddeb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1fc57242e14a` · [字段定义](../../DATASET.md)*

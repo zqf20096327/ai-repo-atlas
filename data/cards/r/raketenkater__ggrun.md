@@ -2,9 +2,9 @@
 
 ⭐ 284 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/raketenkater/ggrun) · 个人维护
 
-**本地 GGUF 模型启动器：按显存/内存精确规划并启动 llama.cpp 后端**
+**为多 GPU 主机精确分配显存运行 llama.cpp 大模型的启动器**
 
-基于 Go 的终端工具，读取 GGUF 文件与本机硬件信息（VRAM、RAM、GPU 带宽），为 llama.cpp / ik_llama.cpp 等后端生成并校验启动计划，随后启动 llama-server；本身不是推理引擎，未知旗标透传给 llama-server。支持大型 MoE 模型跨多 GPU 与系统 RAM 分布、模型推荐、从 Hugging Face 下载、--ai-tune 有界性能调优，并可将 OpenAI /v1 与 Anthropic 兼容端点接入 Claude Code 本地工作流。macOS 后端为弃用且尽力维护状态。
+ggrun 是 llama.cpp 与 ik_llama.cpp 的启动器：读取 GGUF 与本机 CPU/RAM/GPU/PCIe 拓扑，为异构多卡环境生成并校验 llama-server 启动命令，启动前用后端自身的内存测量确认可装入。提供模型推荐与下载、按带宽加权的专家层放置、Linux 上的 cgroup v2 内存遏制、按架构选择后端，并通过 OpenAI 兼容 /v1 与 /v1/messages 端点对接 Claude Code 等客户端。Linux+NVIDIA 是已测试路径。
 
 ## 筛选速览
 
@@ -12,35 +12,34 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 读取 GGUF 与机器信息生成后端启动计划，启动前校验模型/KV-cache/安全余量内存
-- 支持大型 MoE 跨多 GPU 与 RAM 分布，含 NVIDIA 主机-设备带宽实测
-- --ai-tune 测量有界安全旗标组合并保留最优配置
-- 暴露 OpenAI 兼容 /v1 API 与 Anthropic 端点，--claude-code 接入本地 Claude Code
+- 跨不匹配 GPU 的带宽加权层放置与启动前准入检查
+- Linux 上每个后端独立 cgroup v2 内存遏制
+- 按模型架构在主线/ik_llama.cpp/fork 间选择后端
+- 在检测到的显存/内存范围内给出可启动的模型推荐
 
 ## 适用场景
 
-- 在显存不匹配的多 GPU 机器上跑大 MoE 模型
-- 不知道选什么模型时按硬件获得推荐并一键下载启动
-- 把本地模型接给 Claude Code 做编码与 agent 任务
-- 自动调优后端旗标并固化最优启动配置
+- 把大 MoE 模型拆到 PCIe 链路不均的多卡主机上运行
+- 为 Claude Code 长会话在本地启动稳定的大上下文后端
+- 安装前先知道哪些模型与量化能装进这台机器
 
 ## 场景标签
 
- · 领域:LLM 基础设施/本地推理
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L15: Underneath, ggrun uses llama.cpp,
-> L20: ggrun is not an inference engine. It reads the GGUF and the machine, builds a
-> L123: - Exposes llama.cpp's OpenAI-compatible `/v1` API (chat completions and
+> L3: A launcher for llama.cpp and ik_llama.cpp. It recommends a model for your machine, places it across mismatched GPUs 
+> L5: ggrun is not an inference engine. It reads the GGUF and the hardware: CPU, RAM, GPUs and PCIe links. From those it b
+> L64: ## What it adds on top of llama-server
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `53912482ca94` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4ef646adfd7d` · [字段定义](../../DATASET.md)*

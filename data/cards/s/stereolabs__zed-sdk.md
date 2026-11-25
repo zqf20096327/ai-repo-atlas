@@ -2,9 +2,9 @@
 
 ⭐ 1,247 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/stereolabs/zed-sdk) · [官网](https://stereolabs.com) · 组织维护
 
-**为 ZED 相机开发空间感知应用的跨平台 SDK**
+**为 ZED 相户开发空间感知应用的跨平台 SDK**
 
-Stereolabs 官方 SDK，配合 ZED 立体相机使用，提供深度感知、目标检测、人体跟踪、位置跟踪、全局定位、空间建模、多相机融合等模块，并附教程与按模块组织的代码示例（点云、网格、SVO 录制回放等）。支持 Windows/Linux/Jetson，可经 C++/Python/C#/C 集成到 Unity、ROS 2、OpenCV 等环境。需 NVIDIA GPU（算力>5），官方提供 Docker 镜像。
+Stereolabs 官方的跨平台空间感知库，配合 ZED 系列相机使用，提供深度感知、目标检测、人体跟踪、位置跟踪、全局定位、空间映射、平面检测与多相机融合等模块。本仓库为 SDK 的教程与代码示例集合，按模块组织，覆盖 C++、Python、C#、C 语言接口，并可集成 Unity、ROS、OpenCV 等第三方环境。SDK 需 NVIDIA GPU（Compute Capability > 5），支持 Windows、Linux 与 Jetson 平台，提供 Docker 镜像。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Stereolabs 官方 SDK，配合 ZED 立体相机使用，提供深度感知、目
 
 ## 能力要点
 
-- 深度感知、目标检测、人体跟踪、位置跟踪、空间建模等模块
-- C++/Python/C#/C API 及 Unity/Unreal/ROS 2/OpenCV/YOLO 集成
-- 支持 Windows、Linux 与 NVIDIA Jetson，提供 Docker 镜像
-- 5.5 版引入 GEN_2 人体跟踪、TensorRT 11 支持与 Jetson 零拷贝采集
+- 深度感知、目标检测、人体跟踪、空间映射等模块示例
+- 支持 C++/Python/C#/C 四种语言接口
+- 多相机 SLAM 与外部运动先验（轮式里程计/VIO）融合
+- 支持 Ubuntu/Windows/Jetson 平台，需 NVIDIA GPU
 
 ## 适用场景
 
-- 为机器人开发深度感知与避障程序
-- 构建人体姿态跟踪与行为分析应用
-- 做空间三维建模与建图
-- 融合 GNSS 数据做全局定位
+- 为机器人开发实时深度感知与空间建图
+- 做人形/人体姿态跟踪与目标检测
+- 多相机融合的全局定位与 SLAM
+- 无相机时用 SVO 录制文件回放开发调试
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+`教程课程` `目标检测` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3:  The ZED SDK is a cross-platform library designed to get the best out of the ZED cameras.
-> L84: * **Object Detection** - This sample shows how to use the **Object Detection API** module with the ZED.
-> L86: * **Body Tracking** - This sample shows how to use the **Body Tracking API** with the ZED.
+> L34: Depth Sensing | Object Detection | Body Tracking |
+> L106: The ZED SDK requires the use of an **NVIDIA GPU** with a **Compute Capability > 5**.
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `c2cb96cbe0f6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bfe08b118388` · [字段定义](../../DATASET.md)*

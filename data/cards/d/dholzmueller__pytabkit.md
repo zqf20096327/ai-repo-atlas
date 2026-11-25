@@ -1,10 +1,10 @@
 # dholzmueller/pytabkit
 
-⭐ 407 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/dholzmueller/pytabkit) · 个人维护
+⭐ 407 · Python · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/dholzmueller/pytabkit) · 组织维护
 
-**表格数据分类/回归的 scikit-learn 接口模型库与基准代码**
+**面向表格数据分类回归的现代 ML 模型与基准库**
 
-为使用 scikit-learn 工具链的开发者与科研人员提供表格数据分类与回归模型：包含作者论文中的 RealMLP 神经网络模型、TabM、TabR、xRFM，以及 XGBoost/LightGBM/CatBoost 的接口，均有库默认(D)、调优默认(TD)、随机搜索超参优化(HPO)等变体。附基准测试代码，支持数据集下载、单/多节点多 GPU 并行调度与结果分析。通过 pip 安装，RealMLP 可无附加依赖使用，部分模型需可选依赖；缺失数值需先填补。
+提供经论文基准测试的表格分类/回归方法的 scikit-learn 接口，并附基准测试代码。模型含 RealMLP、TabM、TabR、xRFM 及 XGBoost/LightGBM/CatBoost 接口，支持 D/TD/HPO/Ensemble 变体、向量交叉验证加速、后校准与精炼停止。通过 pip 安装；基准代码支持数据下载、单/多节点多 GPU 并行调度与结果分析。限制：缺失数值需预先插补，方法评估场景推荐 TabArena。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- RealMLP 等 10 余种表格模型提供 scikit-learn 接口（D/TD/HPO 变体）
-- 自动 GPU 检测、类别列检测、数值与回归目标预处理、早停
-- 向量化交叉验证与 Caruana 加权集成、事后温度缩放校准
-- 基准代码支持多节点多 GPU 并行调度与结果分析
+- RealMLP/TabM/TabR/xRFM 等表格模型的 scikit-learn 接口
+- 向量交叉验证加速 RealMLP 训练，自动选择 GPU 与类别列检测
+- 基准代码支持多节点/多 GPU 并行调度与 RAM 约束
+- 内置 few-shot 基准（TabICLv2 论文，16 样本训练）
 
 ## 适用场景
 
-- 在 scikit-learn 流水线中直接使用 RealMLP/TabM 做表格分类回归
-- 复现或运行论文中的表格数据基准实验
-- 对比调优默认(TD)与超参搜索(HPO)配置的效果
+- 对表格数据做分类或回归建模，开箱即用调优默认参数
+- 为表格 ML 方法开发做快速基准对比
+- 复现 NeurIPS 2024 论文及 TabICLv2 few-shot 实验
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L11: PyTabKit provides **scikit-learn interfaces for modern tabular classification and regression methods**
-> L73: model = RealMLP_TD_Classifier()  # or TabR_S_D_Classifier, CatBoost_TD_Classifier, etc.
-> L75: model.predict(X_test)
+> L13: It also contains the code we used for **benchmarking** these methods
+> L73: Most of our machine learning models are directly available via scikit-learn interfaces.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1dc6fe12cf42` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6ac2a3b9347e` · [字段定义](../../DATASET.md)*

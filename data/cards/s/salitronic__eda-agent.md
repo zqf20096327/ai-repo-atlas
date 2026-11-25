@@ -2,9 +2,9 @@
 
 ⭐ 393 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/salitronic/eda-agent) · [官网](https://salitronic.com/eda-agent) · 个人维护
 
-**MCP 服务器：让 AI 实时操控 Altium Designer 进行电路设计**
+**让 AI 通过 MCP 驱动 Altium Designer 实时编辑电路设计的服务器**
 
-面向 MCP 兼容客户端（如 Claude Code）的服务器，通过常驻 DelphiScript 轮询桥以文件 IPC 连接正在运行的 Altium Designer 会话，也可选 KiCad、EasyEDA Pro 作为后端。Altium 后端暴露约 450 个工具，覆盖原理图、PCB、库、项目管理、设计审查与自动布局布线；支持批量原语、31 项 lint 审计、SPICE 仿真工作流、原理图模板绘制与 GUI 驱动。附带 Altium 内浮动状态窗与浏览器端设计审查仪表盘。README 自声明为实验性，部分工具可致 DelphiScript 引擎崩溃，建议先备份设计。
+一个 MCP 服务器，使 AI 或任何 MCP 兼容客户端能够操作正在运行的 Altium Designer 会话，KiCad 与 EasyEDA Pro 作为可选后端。通过 Altium 脚本引擎内的 DelphiScript 轮询循环和基于文件的 IPC 保持实时连接，AI 读取当前打开的设计、回答问题并就地修改。默认后端提供约 600 个工具，覆盖原理图、PCB、元件库、项目和设计代理操作；附带 Altium 内状态窗口与本地 Web 仪表盘（设计审查、lint 审计、交叉探测）。README 标注为实验性，部分工具可能使脚本引擎崩溃，建议先备份设计。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- Altium 后端约 450 个 MCP 工具，覆盖原理图/PCB/库/项目/设计 agent 操作
-- 批量原语与 design_review_snapshot 将多次 LLM 轮次合并为单次调用
-- 31 项 design_lint 审计检查，原理图与 PCB 侧结构化违规清单
-- datasheet-first 纪律：禁止 LLM 编造数据手册数值，逐元件附带厂商检索指引
+- 默认 Altium 后端约 600 个工具，覆盖原理图/PCB/库/项目自动化
+- 批量调用机制：一次请求最多 200 个条目、合并为一个撤销步骤
+- design_lint_report 一次 IPC 通过运行 31 项审计检查
+- GUI 驱动能力：通过菜单/对话框/OCR 操作无 API 的 Altium 功能
 
 ## 适用场景
 
-- 在 Altium 中让 AI 依据数据手册从一句话规格绘制电源等电路
-- 对打开的设计做对话式审查、lint 审计与 BOM/网络查询
-- 原理图与 PCB 网表交叉核对、SPICE 仿真就绪性检查
+- 从文字规格生成原理图与制造文件（Gerber、BOM、pick-and-place）
+- 对话式设计审查与引导式重构，边看 AI 边改设计
+- 对打开的工程做 BOM 查询、网络连接性问答
+- 原理图与 PCB 网表交叉核对，发现 ECO 漂移
 
 ## 场景标签
 
- · 领域:电子设计自动化（EDA）/AI 工具服务
+`GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L3: MCP server that lets an AI (or any MCP-compatible client) **interact with a live Altium Designer session**, with KiC
-> L32: - `eda-agent` (Python, launched by your MCP client) sends commands via file-based IPC
+> L39: - `eda-agent` (Python, launched by your MCP client) sends commands via file-based IPC
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7b54cd267cdc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `76bd3ad82c55` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 379 · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/junxchan54-maker/mcd-cn-assistant) · 个人维护 · 中文 README
 
-**麦当劳中国 MCP 助手技能：把 35 个官方工具编排成点餐/活动/拼单分账流程**
+**给麦当劳中国 MCP 用户的点餐 Agent 技能：活动/优惠/拼单算账**
 
-建立在麦当劳中国官方 MCP 服务（mcp.mcd.cn，35 个原子工具）之上的 Agent 技能包，以 SKILL.md + 配置 + 参考文档形式分发给任意支持 MCP 的客户端（WorkBuddy、Claude Code、Cursor 等），需自备 MCP Token。核心机制：把原子工具编排成活动推送、联名关注、最优惠点餐、多人群点分账等业务流；金额一律经 calculate-price 实算；下单等写操作必须列明细并获用户显式同意。仅面向中国大陆，MCP 远程托管、无本地进程。
+建立在麦当劳中国官方 MCP 服务（mcp.mcd.cn，35 个原子工具）之上的 Agent 技能包，由 SKILL.md、config/ 与 references/ 组成。将查门店、查券、calculate-price 算价、create-order 下单等原子工具编排为四条业务流（活动推送、联名关注、最优惠点餐、群点聚合账单）与社媒场景六项。安全边界写死：所有写操作须二次确认，金额以 calculate-price 返回为准。需自备 MCP Token，仅覆盖中国大陆。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 四条主业务流 + 小红书场景六项能力编排 35 个官方 MCP 工具
-- 所有金额经 calculate-price 实算，写操作强制二次确认
-- 群点代录、满减凑单、券归属与公共费用分摊，输出每人应付账单
-- 不绑定特定 Agent 框架，兼容任何支持 MCP 的客户端
+- 将 35 个官方 MCP 原子工具编排为 4 条业务流与 6 项社媒场景
+- 最优惠方案逐个调用 calculate-price 实算比价，不靠模型心算
+- 写操作（下单/领券/取消）必须列明细并获用户显式同意
+- 群点聚合输出每人应付账单，公共费用按消费比例分摊
 
 ## 适用场景
 
-- 一句话查询并订阅麦当劳当月活动/联名推送
-- 枚举券组合实算比价，拿到最优惠点餐方案
-- 办公室多人拼单代录与账单分摊
-- 复刻小红书隐藏吃法、凑穷鬼套餐、按营养约束配餐
+- 一句话拉取当月麦当劳活动日历与联名款推送
+- 在券与满减约束下让 Agent 算出应付最低的点法
+- 办公室多人拼单时代录餐品、凑满减并生成每人应付账单
+- 按热量/蛋白/控糖约束组合营养搭配并算价下单
 
 ## 场景标签
 
- · 领域:生活服务/Agent 技能
+ · 领域:消费/生活服务 Agent 应用
 
 ## 证据(README 行号)
 
 > L17: `mcd-cn-assistant` 是一个**面向 AI Agent 的技能包（Skill）**，建立在**麦当劳中国官方 MCP 服务**（<https://mcp.mcd.cn>）之上。
 > L21: 本项目做的事情是：**把这堆原子工具编排成四条用户真正会用的业务流**，并把安全边界写死。
-> L98: - 任意支持 MCP 的 AI 客户端（WorkBuddy / Claude Code / Cursor / Cline / Cherry Studio / Trae / Kiro / VSCode Copilot 等）；
+> L306: 技能本身不绑定任何特定的 Agent 框架。`SKILL.md` 与 `references/mcd-tools.md` 全程使用**官方工具名**（`query-meals`、`calculate-price` 等）描述流程，
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `9e818f49c1bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5393f40eb458` · [字段定义](../../DATASET.md)*

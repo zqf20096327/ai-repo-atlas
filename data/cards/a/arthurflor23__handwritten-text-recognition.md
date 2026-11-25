@@ -2,9 +2,9 @@
 
 ⭐ 307 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/arthurflor23/handwritten-text-recognition) · [官网](https://arthurflor23.medium.com/handwritten-text-synthesis-and-recognition-cf5bcf2aaeb8) · 个人维护
 
-**基于 TensorFlow 的手写文本识别与合成工具集（pySarah）**
+**给研究者的手写文本识别训练与推理工具集**
 
-pySarah 项目提供手写文本识别（HTR）的完整工作流：数据处理、模型训练、测试与推理，支持合成、识别、分割、书写者识别与拼写纠正等多类模型，模型可选用 flor 等。已集成 IAM、RIMES、Bentham、BRESSAY 等 12 个手写数据集，支持以 .ttf 字体原型作为生成输入，提供十余种数据增强变换。训练与测试通过 MLflow Tracking 记录并可比较实验。以 git clone 源码方式安装，需 Python>=3.11,<3.13，通过 sarah 命令行驱动，附可在 Google Colab 运行的教程 Notebook。
+基于 TensorFlow 的手写文本识别（HTR）解决方案，提供数据处理、模型训练、测试与推理的命令行工具。内置对 Bentham、IAM、RIMES 等 12 个数据集的集成，支持合成模型、拼写校正、作者识别与分割模型，并集成 MLflow 用于实验跟踪与模型存档。需 Python 3.11–3.13，通过 git clone 与 pip 安装依赖，支持 GPU 索引指定。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ pySarah 项目提供手写文本识别（HTR）的完整工作流：数据处理
 
 ## 能力要点
 
-- 手写文本识别/合成/分割/书写者识别/拼写纠正多模型工作流
-- 12 个数据集（IAM、RIMES、Bentham、BRESSAY、Saint Gall 等）开箱集成
-- MLflow Tracking 记录训练测试实验，可比较指标并复用模型
-- 十余种图像数据增强变换（mixup、elastic、perspective 等）与字体原型输入
+- 集成 12 个手写数据集（IAM/RIMES/Bentham 等）用于训练与评估
+- 支持识别、合成、分割、作者识别、拼写校正多类模型
+- MLflow 实验跟踪：记录指标、对比实验、存储模型
+- 支持 20 余种数据增强变换（弹性/透视/噪声等）与 .ttf 字体输入
 
 ## 适用场景
 
-- 在手写数据集上训练并测试 HTR 识别模型
-- 生成合成手写样本缓解数据稀缺
-- 对手写图像运行推理并做拼写纠正
+- 在 IAM、RIMES 等数据集上训练手写识别模型
+- 对输入图片执行手写文本识别推理
+- 生成手写风格合成数据以扩充训练集
 
 ## 场景标签
 
-`OCR` `图像生成` `模型训练` · 领域:内容生成
+`模型训练` `OCR` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L3: The `pySarah` project provides a solution for Handwritten Text Recognition (HTR) using Tensorflow. It includes a tut
-> L91: - `--synthesis`: Specify synthesis model (e.g., flor).
+> L3: The `pySarah` project provides a solution for Handwritten Text Recognition (HTR) using Tensorflow. It includes a set
+> L55: The project supports a wide range of datasets for handwritten text recognition. The following datasets are already 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `e5688af7832e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `353f309820d9` · [字段定义](../../DATASET.md)*

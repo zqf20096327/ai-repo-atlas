@@ -2,9 +2,9 @@
 
 ⭐ 391 · JavaScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/Cerlancism/chatgpt-subtitle-translator) · [官网](https://cerlancism.github.io/chatgpt-subtitle-translator/) · 个人维护
 
-**基于 LLM API 的 SRT 字幕/逐行文本翻译工具**
+**基于 ChatGPT/OpenAI 兼容 API 的 SRT 字幕逐行翻译工具**
 
-调用 OpenAI ChatGPT 或任意 OpenAI 兼容 API 进行翻译的工具，面向需要翻译 SRT 字幕或纯文本的用户。核心机制：去除 SRT 格式开销并按批次分组提交，保证输入输出逐行一一对应，同时按 token 预算自动调整批大小并配合 prompt caching 降低 token 消耗；支持结构化输出、流式输出、限速与进度续传。提供 Web UI 与 CLI 两种界面，Agent 模式可先对文件做多轮概览与规划再翻译。限制：需自备 API key，依赖 Node.js >= 20 从源码安装。
+调用 OpenAI Chat Completion API（含 OpenAI 兼容端点）翻译 SRT 字幕与纯文本的工具，提供 Web UI 与 CLI 两种使用方式。核心机制：剥离 SRT 结构开销、将文本按行分批提交以规避单请求 token 限制，并强制输入输出逐行一一对应以保持字幕时序；支持结构化输出（array/object/timestamp/agent 模式）、prompt caching 上下文打包、RPM 限速、流式进度、断点续传与重复循环检测。需要 Node.js >= 20，通过 .env 配置 API key；Agent 模式在翻译前执行概览与规划多轮 passes。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 去除 SRT 开销并分批翻译，保证输入输出逐行一一对应
-- 按 token 预算自动调整批大小并配合 prompt caching（-c/--context）
-- 支持任意 OpenAI 兼容 provider，包括本地运行的 Ollama
-- Agent 模式：多轮概览（语言检测、角色/风格摘要）后生成精化翻译指令再执行
+- 行级分批与一一对行匹配，避免字幕时序错位
+- timestamp 模式允许合并相邻条目并按时间边界校验重试
+- Agent 模式：先采样生成内容概览再生成精化翻译指令
+- 支持 OpenAI 兼容 API，可搭配本地 Ollama 运行
 
 ## 适用场景
 
-- 把外语 SRT 字幕翻译成目标语言且不破坏时间轴
-- 翻译纯文本文件或命令行中的短句
-- 利用本地 Ollama 等兼容服务离线/低成本翻译字幕
+- 翻译日文/中文 SRT 字幕为英文
+- 批量翻译纯文本文件并断点续传
+- 通过本地 Ollama 模型离线翻译字幕
 
 ## 场景标签
 
- · 领域:文本/字幕翻译工具
+ · 领域:翻译/多媒体工具
 
 ## 证据(README 行号)
 
 > L4: This utility uses the OpenAI ChatGPT API to translate text, with a specific focus on line-based translation, especia
-> L11: - Web User Interface (Web UI) and Command Line Interface (CLI)
+> L14: - Supports any OpenAI API compatible providers such as running Ollama locally
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `510a9eea4e2f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0c170c5c5609` · [字段定义](../../DATASET.md)*

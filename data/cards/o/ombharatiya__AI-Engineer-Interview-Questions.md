@@ -2,9 +2,9 @@
 
 ⭐ 317 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ombharatiya/AI-Engineer-Interview-Questions) · [官网](https://aidaddy.tech) · 个人维护
 
-**AI 工程师面试题库：1,172 题带答案与 33 家公司面试题**
+**AI 工程师面试题库与备考路线合集，含公司真题与编程挑战**
 
-面向准备 AI Engineer、LLM Engineer、Applied AI 面试的软件工程师与 ML 从业者的学习资源仓库：收录 1,172 道带解题的题目、13 个主题（含 RAG、微调、Agent/MCP、推理服务、安全等）、10 个系统设计案例、19 个仅依赖 numpy 与标准库的可运行 Python 编码挑战，以及 33 家公司的面试题与流程图（全部基于公开信息）。提供 'AI Engineer 75' 精选清单、按准备周期（数天至两个月）的学习计划和 10 个岗位指南，另附模拟面试与付费辅导入口。
+面向 AI Engineer / LLM Engineer / Applied AI 岗位备考的内容仓库：1,254 道带解答的题目、10 个系统设计案例、19 个可运行的从零实现编程挑战、33 家公司的面试题与流程梳理、10 个岗位学习地图。内容按 13 个主题组织，每个主题含速成讲义与完整题库；提供 75 题精选清单、按时间跨度的学习计划、术语表与模拟面试工具包。编程挑战仅依赖 numpy 与标准库，直接用 python3 运行。附付费模拟面试与 1:1 辅导入口。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 1,172 道题目带可折叠的解题答案，覆盖 13 个主题
-- 33 家公司（前沿实验室到大厂）的面试题与流程图，基于公开信息
-- 19 个仅用 numpy 与标准库的从零实现编码挑战（attention/BPE/KV cache 等）
-- 'AI Engineer 75' 精选清单与按准备周期分档的学习计划
+- 1,254 道题与 13 个主题题库，解答可折叠自测
+- 33 家公司面试题与 loop map，注明来源与 last reviewed
+- 19 个从零实现的 Python 编程挑战，附参考实现与测试
+- 按准备时长（数天到 2 个月+）的多套学习计划
 
 ## 适用场景
 
-- 我要系统准备 AI/LLM 工程师面试并查漏补缺
-- 我想查看某家公司（如 Anthropic、DeepSeek）的面试题型
-- 我想通过从零实现 attention、BPE 等练习巩固基础
+- 准备 AI Engineer 岗位的系统设计与编码面试
+- 转岗软件工程师按角色指南规划学习路径
+- 面试前用 75 题清单和 cheat sheet 快速复习
+- 从零实现 attention、BPE、KV cache 等核心组件练手
 
 ## 场景标签
 
-`教程课程` `精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3:  The complete prep resource for AI Engineer, LLM Engineer, and Applied AI interviews. 1,172 questions with worked an
-> L157: |#|Topic|Questions|What it covers|
+> L3:  The complete prep resource for AI Engineer, LLM Engineer, and Applied AI interviews. 1,254 questions with worked an
+> L155: Each topic has a crash-course primer (`README.md`) and a full question bank with worked, collapsible answers (`que
+> L192: Nineteen self-contained Python files in 12-coding-challenges, numpy and the standard library only, each with a ref
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `cf13fd5e3bd0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `855e5029338f` · [字段定义](../../DATASET.md)*

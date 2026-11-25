@@ -2,9 +2,9 @@
 
 ⭐ 279 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/autonomous-ai/autonomous-grid) · [官网](https://www.autonomous.ai/grid) · 组织维护
 
-**把多台自有电脑组成一个 OpenAI 兼容端点的本地推理与训练网格**
+**把家里多台电脑组成本地模型内网，统一 OpenAI 端点**
 
-Grid 是一个 CLI 工具：在一台电脑上启动网格地址，其余电脑安装引擎（如 llama.cpp）、下载 GGUF 模型后加入网格；请求被路由到持有对应模型的电脑。支持接入已在运行的 Ollama/vLLM/LM Studio 引擎，也支持远程模式连接不同网络的机器。面向拥有多台机器、想本地共享模型算力的开发者与 homelab 用户；另提供桌面应用下载。macOS/Linux 通过 curl 脚本安装，本地默认无需账号。
+Grid 是一个本地分布式推理编排 CLI：将用户已有的多台电脑组成一个网格，对外暴露单一 OpenAI 兼容端点，并按请求路由到持有对应模型的机器。它内置 llama.cpp 引擎安装器（Metal/Vulkan/CPU 自动选择，CUDA 可从源码编译），也能把已运行的 Ollama、vLLM、LM Studio 作为后端接入。主机格仅做路由，无需显卡；支持 GGUF 模型下载（含视觉模型双文件自动获取）、远程模式跨网络组网、多网格管理，以及为 OpenClaw/Hermes/OpenAI SDK 提供接入配置。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@ Grid 是一个 CLI 工具：在一台电脑上启动网格地址，其余电脑�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
@@ -20,26 +20,27 @@ Grid 是一个 CLI 工具：在一台电脑上启动网格地址，其余电脑�
 
 ## 能力要点
 
-- 多台电脑聚合为单一 OpenAI 兼容端点，按模型路由请求
-- 可接入已运行的 Ollama / vLLM / LM Studio 引擎，不替换它们
-- grid engine install 按机器自动选择 Metal/Vulkan/CPU 构建
-- 支持本地与远程两种模式，模型文件下载一次多机共享
+- 单一 OpenAI 兼容端点，请求路由到持有对应模型的机器
+- 内置引擎安装器按机器选择 Metal/Vulkan/CPU 构建，CUDA 可源码编译
+- 可接入已运行的 Ollama、vLLM 或 LM Studio，仅做路由不替换
+- 支持本地/远程模式、多网格、视觉模型与 Hugging Face 任意 GGUF 仓库拉取
 
 ## 适用场景
 
-- 把家里几台电脑的算力组成一个本地推理端点供所有应用调用
-- 保留现有 Ollama/vLLM 服务，将其纳入统一路由
-- 异地机器通过远程模式加入同一网格
+- 把家中多台 Mac/PC 组成本地模型池，统一给应用调用
+- 已有 Ollama/vLLM/LM Studio 的机器纳入同一入口统一调度
+- 为 OpenClaw、Hermes 或自写代码提供本地 OpenAI 端点
+- 不同地点的电脑通过远程模式组成一个推理网格
 
 ## 场景标签
 
-`模型网关` `推理引擎` `微调` `强化学习` · 领域:Agent 开发
+`模型网关` `推理引擎` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L11: **Grid** puts every computer you own behind one OpenAI-compatible endpoint, and sends each request
 > L17: If you already run Ollama, vLLM or LM Studio, keep them — Grid networks them, it does not replace them.
-> L226: Grid attaches to any engine that speaks the OpenAI API — Ollama, vLLM and LM Studio among them — so
+> L121: - **engine** — the program that runs a model. Grid installs one for you.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `387097e48f21` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `31bc30128bc3` · [字段定义](../../DATASET.md)*

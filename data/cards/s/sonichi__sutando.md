@@ -2,9 +2,9 @@
 
 ⭐ 411 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/sonichi/sutando) · [官网](https://sutando.ai) · 个人维护
 
-**自托管的个人 AI 代理：语音/电话/会议替你干活并自我改进**
+**macOS 上的个人 AI 代理：语音/屏幕/电话协作与自主改进**
 
-运行在用户 Mac 上的个人 AI 代理应用：通过语音、屏幕捕获、电话（Twilio）、Zoom/Google Meet、Telegram、Discord 等渠道接收指令，由 Claude Code 或 Codex CLI 会话作为核心代理执行任务（改文档、代打电话、参会做纪要、记笔记）。空闲时运行自主构建循环，监控自身健康并生成新功能代码。四个进程协作：Gemini Live 语音代理、通话服务器、Web 客户端与核心代理。声明为 Alpha 阶段，仅支持 macOS，核心以无头模式从源码启动，菜单栏应用需本地构建。
+运行在用户自己 Mac 上的开源个人 AI 代理：白天通过语音、屏幕视觉、会议接入（Zoom/Google Meet）、电话拨打等方式实时协助工作，空闲时运行自主构建循环，检测使用模式、发现技能并生成缺失能力。核心代理复用用户已登录的 Claude Code 或 Codex CLI 会话执行任务，语音与电话通道基于 Gemini Live，多通道经 tasks/ 目录与内联工具分流。要求 macOS、Node.js、Python 3 等前置条件，项目自述处于 Alpha 阶段。
 
 ## 筛选速览
 
@@ -13,33 +13,34 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 多渠道接入：语音、电话、会议、Telegram、Discord、Web 共享同一代理与记忆
-- 核心代理通过 Claude Code 或 Codex CLI 会话执行，无需按 token 计费的核心 API key
-- 空闲时自主构建循环：健康检查、模式学习、生成缺失能力代码
-- 3 级访问门控与 git-rules-guard 钩子对公开写操作弹出审批
+- 复用 Claude Code 或 Codex CLI 会话作为核心代理，无需按 token 付费的独立 API key
+- 语音代理与电话会话服务基于 Gemini Live（WebSocket :9900/:3100）
+- 自主构建循环：cron 每 15/30 分钟执行 /proactive-loop，监控 tasks/ 目录
+- 支持多 Mac 间代理自行协调迁移服务，语音/Telegram/Discord/电话/邮件多通道接入
 
 ## 适用场景
 
-- 用语音指挥代理改文档、接会议、代打电话并汇报
-- 外出时通过电话/Telegram 远程查看与操作自己的 Mac
-- 让代理在空闲时自动维护并扩展自身功能
+- 工作时用语音让代理改写文档、截图识别内容
+- 让代理代替自己参加会议并生成总结
+- 通过电话或 Telegram 远程指挥 Mac 上的代理执行任务
+- 让代理在空闲时段自主学习技能并完善自身代码
 
 ## 场景标签
 
-`AI 助手` `编码 Agent` `语音 Agent` · 领域:编码与开发
+`语音 Agent` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L8: Voice, vision, screen, meetings, calls when I'm engaged. Learns my patterns, ships its own code when I'm not. Runs a
-> L41: **Talk while you work.** You're looking at a doc. You say "make this paragraph shorter." Sutando sees your screen, 
-> L82: - **Core agent** (Claude Code or Codex CLI) — executes tasks with full system access. The persistent CLI session pr
+> L91: - **Voice agent** (Gemini Live, WebSocket on :9900) — listens and talks in real time for browser voice.
+> L94: - **Core agent** (Claude Code or Codex CLI) — executes tasks with full system access. The persistent CLI session pr
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `510117f7759f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d64502ff442e` · [字段定义](../../DATASET.md)*

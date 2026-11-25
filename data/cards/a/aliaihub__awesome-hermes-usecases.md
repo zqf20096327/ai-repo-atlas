@@ -1,10 +1,10 @@
 # aliaihub/awesome-hermes-usecases
 
-⭐ 305 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aliaihub/awesome-hermes-usecases) · 组织维护
+⭐ 305 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/aliaihub/awesome-hermes-usecases) · 个人维护
 
-**Hermes Agent 真实用例策展清单，每条附一手来源证据**
+**Hermes Agent 真实用例策展清单，附需求、设置与来源**
 
-社区维护的 Hermes Agent（Nous Research 出品的自我改进 AI agent）真实用例合集，按自动化调度、消息机器人、编码工作流、多 agent 编排、记忆与上下文、可观测运维、安全测试等 14 个类别组织。收录规则要求每条用例链接到一手来源（官方文档、配套仓库、含部署细节的 issue 或第一人称博客），仅推文或营销页证据的条目放入 unverified 清单。提供 curl 安装 Hermes 的快速开始命令与 3 个可运行的示例工程。
+面向 Nous Research 的 Hermes Agent 的用例聚合清单：按业务管理、编码工程、内容营销、个人生产力、知识研究、家庭设备、基础设施安全等目标分类收录工作流，并单列托管与模型接入、界面集成、编排与 Agent 记忆等配置扩展条目。每个条目标注格式（本地演示/插件/技能/指南/案例研究等），页面含需求、设置、提示词与来源，并声明验证边界：格式标签不代表经过运行或审计。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 每条用例强制链接一手来源，弱证据条目隔离到 unverified 清单
-- 覆盖 10+ 类别：自动化、团队机器人、编码、多 agent 编排、记忆、运维等
-- /demos 提供 3 个可运行入门工程（Daily Briefing、Open WebUI、Team Telegram）
+- 44+ 用例按 7 个目标类别与 3 个配置扩展类别组织
+- 条目区分 Local demo/Plugin/Skill/Guide/Case study 等格式并声明验证限制
+- 收录本地推理后端、企业网关（Bedrock/Azure/NVIDIA）与国内模型端点等接入指南
+- 覆盖 K8s 编排、多 Agent 协作、技能自进化等进阶模式
 
 ## 适用场景
 
-- 寻找 Hermes Agent 在自动化、消息机器人、SRE 等场景的落地参考
-- 按一手证据评估 agent 用例的真实性与部署细节
-- 作为 agent 应用场景的调研素材库
+- 为 Hermes Agent 查找特定场景的工作流与配置方法
+- 参考企业模型网关或国内模型端点的接入指南
+- 了解 Agent 编排、记忆与技能自进化的实践模式
 
 ## 场景标签
 
@@ -36,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L11: **A community collection of real-world Hermes Agent use cases — each one backed by public evidence.**
-> L21: > **Evidence rule.** Every use case here links to a primary source: an official Hermes doc, a Nous Research compani
+> L3: # Awesome Hermes Agent Use Cases
+> L13: Browse by the result you want, then open a page for requirements, setup, prompts, and sources. Public evidence and 
+> L49: **Formats:** **Local demo** includes a starter in this repo; **Plugin**, **Skill**, and **Project** link to an impl
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `942655a1297d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `23b70c682045` · [字段定义](../../DATASET.md)*

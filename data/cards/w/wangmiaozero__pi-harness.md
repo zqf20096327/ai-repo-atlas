@@ -1,10 +1,10 @@
 # wangmiaozero/pi-harness
 
-⭐ 359 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/wangmiaozero/pi-harness) · [官网](https://wangmiaozero.github.io/pi-harness-website/) · 个人维护
+⭐ 359 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/wangmiaozero/pi-harness) · [官网](https://wangmiaozero.github.io/pi-harness-website/) · 个人维护 · 中文 README
 
-**为 Pi Coding Agent 提供可视化运维工作台的桌面应用**
+**Pi Coding Agent 的桌面运维工作台：观测、治理与多 Agent 编排**
 
-基于 Electron 的桌面应用，将 Pi Coding Agent 嵌入可视化工作区：管理会话、项目、文件、Git、模型与 Skills；新增运行追踪（Runs/Trace/Replay/Run Compare）、评估、工具策略与预算、检查点与故障恢复、多 Agent 团队与任务 DAG 编排等运维能力。Pi 会话与配置保持兼容，可继续在桌面应用外使用 Pi。社区发布版捆绑 Pi、Node.js 与 npm，提供 macOS/Windows/Linux 安装包；macOS 包为 Ad-hoc 签名，Windows 安装包未签名。
+围绕 Pi Coding Agent 构建的 Electron 桌面应用，Pi 本体继续负责 agent 循环、会话、上下文、工具与模型执行，Pi-Harness 在其上提供可视化工作区：运行记录、Trace、Replay、评估与回归基线，策略与预算控制、检查点与恢复（resume/fork/retry），以及基于任务 DAG、模板与 Worktree 隔离的多 Agent 团队编排。另聚合 Claude Code、Codex、Cursor、Gemini CLI 等会话历史，提供项目架构图与文件/Git 工具。安装包捆绑 Pi 与 Node.js，覆盖 macOS/Windows/Linux。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 继承 Pi Coding Agent 全部能力并提供可视化会话/模型/Skills 管理
-- Runs、Trace、Replay、Run Compare 等运行观测与评估能力
-- 工具策略、按次运行预算、检查点与恢复机制
-- 多 Agent 团队、任务 DAG、Worktree 隔离与评审门
+- 运行记录、Trace、Replay、Run Compare 与评估回归，从记录证据排查失败
+- 策略与预算控制、检查点恢复（resume/fork/retry）
+- 多 Agent 团队：任务 DAG、结果传递、Review Gate 与 Worktree 隔离
+- 聚合 Claude Code/Codex/Cursor/Gemini CLI/Pi 的会话历史，浏览与检索不消耗模型 token
 
 ## 适用场景
 
-- 在桌面端统一管理 Pi 编码会话、文件与 Git
-- 观测和回放 Agent 运行并做回归评估
-- 编排多个 Agent 协作完成带依赖关系的任务
-- 聚合浏览 Claude Code/Codex/Cursor 等工具的本地对话历史
+- 在真实项目中查看并操控 Pi agent 每次运行的工具活动与结果
+- 给 agent 设置工具权限与花费上限，出错后从检查点恢复
+- 把大任务拆给多个 Pi agent 并行/串行协作并保持改动隔离
+- 统一检索多个编码 agent 工具的历史会话
 
 ## 场景标签
 
-`编码 Agent` `多智能体` `LLM 可观测性` · 领域:Agent 开发
+`多智能体` `LLM 可观测性` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L31: Pi-Harness brings Pi Coding Agent into a desktop workspace for macOS, Windows, and Linux. Manage conversations, pro
-> L33: Native Pi runs the agent. Your Pi sessions, configuration, tools, Skills, and extensions remain compatible with Pi,
-> L37: Pi-Harness is the operational superset of Pi Coding Agent: native Pi capabilities form the foundation, with observa
+> L3: ### The Operational Superset of Pi Coding Agent
+> L29: - **Stay on native Pi**: Pi runs the agent loop, sessions, context, tools, models and thinking. Pi-Harness manages 
+> L100: |Agent Runtime|Yes|Native Pi|
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4dc50a53ca5c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `3f5636e02e8e` · [字段定义](../../DATASET.md)*

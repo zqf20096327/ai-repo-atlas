@@ -2,9 +2,9 @@
 
 ⭐ 340 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/janosh/pymatviz) · [官网](https://janosh.github.io/pymatviz) · 个人维护
 
-**材料信息学可视化 Python 工具库，覆盖元素周期表到晶体结构**
+**材料信息学可视化工具库，面向材料科研绘图**
 
-面向材料科学研究者的 Python 可视化库：提供周期表热图/直方图/散点、声子能带与态密度、成分与结构聚类、3D 晶体结构、布里渊区、XRD 图样、径向分布函数、配位统计、Sunburst 与 Treemap 等绘图函数。基于 Plotly 生成交互式图形，内置 Jupyter/Marimo/VSCode 交互组件，支持导出 HTML/图片。成分聚类功能可选用 Magpie/Matscholar/MEGNET 嵌入与 PCA/t-SNE/UMAP 等降维方法。需 Python 3.12+，通过 pip 安装。
+面向材料信息学的 Python 可视化工具包，提供元素周期表热图、声子带结构与 DOS、成分/结构聚类、布里渊区、XRD 谱、径向分布函数与配位数等图表。基于 matplotlib/plotly 生态，交互式 3D 结构与轨迹组件通过 anywidget 在 Jupyter、Marimo 和 VSCode notebook 中运行；widget 支持 to_html/to_img 导出，可在无前端的脚本、CI 与 agent 工作流中使用。接受 kemio、pymatgen、ASE、phonopy 对象作为输入但自身不依赖它们。静态导出需另装 Playwright 及 Chromium。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 周期表多模式可视化（热图/分块热图/直方图/散点/折线）
-- 基于 Plotly 的交互式图形与 anywidget/MatterViz 交互组件
-- 成分聚类支持 One-hot/Magpie/Matscholar/MEGNET 嵌入与 PCA/t-SNE/UMAP 等降维
-- widget 可导出 HTML/PNG 等格式，支持无 notebook 前端的 CI 与 agent 工作流
+- 元素周期表热图/直方图/散点等多种可视化形式
+- 成分聚类支持 One-hot/Magpie 嵌入与 PCA/t-SNE/UMAP/Isomap 降维
+- 交互式 widget 可在脚本、CI 与 agent 工作流中导出 HTML/PNG/SVG/PDF
+- 接受 pymatgen、ASE、phonopy 对象输入，运行时零依赖
 
 ## 适用场景
 
-- 可视化材料数据集的元素分布与结构特征
-- 绘制并检查声子能带、XRD 图样与径向分布函数
-- 在 notebook 中交互浏览晶体结构与分子动力学轨迹
+- 为材料数据集做探索性数据分析与论文图表绘制
+- 可视化机器学习模型的预测结果与不确定性
+- 在 CI 或脚本中批量导出结构/XRD 等静态图像
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`数据分析` `科研工具` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L5: A toolkit for visualizations in materials informatics.
-> L45: See `pymatviz/ptable/figures.py`. The module supports heatmaps, heatmap splits (multiple values per element), histo
+> L98: See `pymatviz/widgets`. Interactive 3D structure, molecular dynamics trajectory and composition visualization widge
+> L107: All widgets support export and inspection APIs that work in plain Python scripts, CI, and agent workflows — no not
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `09146c68e50c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `3411f6162224` · [字段定义](../../DATASET.md)*

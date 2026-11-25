@@ -1,10 +1,10 @@
 # humanfia/humanize
 
-⭐ 436 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/humanfia/humanize) · [官网](https://humanfia.ai/humanize/) · 组织维护
+⭐ 436 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/humanfia/humanize) · [官网](https://humanfia.ai/humanize/) · 个人维护
 
-**让多 CLI 编码 agent 按流程编排运行的系统**
+**面向编码 agent 的流程编排系统，按预算运行任务流**
 
-Python 实现的 agent flow 系统：用户在终端（hmz）、浏览器（hmz web）或 shell（hmz exec -f）中运行由编码 agent 组成的流程，以单一任务命令指定模型（如 claude-opus）。支持接入多种后端 CLI：Claude Code、Codex、DeepSeek Harness、Kimi Code，以及通过 litellm 调用模型。安装依赖 Python 3.12+、uv 与已登录的编码 agent CLI；macOS 提供将 hmz web 装入窗口的桌面 dmg。运行时审批默认旁路，文档建议在临时仓库中开始。
+Humanize（hmz）是一个编码 agent 的流程编排工具：在仓库内的终端或浏览器界面中，通过 /flow 命令启动预定义的 agent 流程，并以成本预算参数约束运行，例如让 agent 迭代直至测试通过。它本身不内置任何流程，需从官方 flowverse 安装或自行编写。需要 Python 3.12+、uv 以及一个已登录的编码 agent CLI（如 Claude Code 或 Codex）。提供 macOS/Windows 桌面安装包、uv 安装的 CLI、以及 hmz exec/web/chat 等命令行用法。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Python 实现的 agent flow 系统：用户在终端（hmz）、浏览器（hmz 
 
 ## 能力要点
 
-- 终端/浏览器/shell 三种方式运行 agent 流程
-- 多后端支持：Claude Code、Codex、DeepSeek Harness、Kimi Code、litellm
-- uv tool install 安装，hmz update 保留 extras 升级
-- macOS dmg 桌面应用承载 hmz web
+- 通过 flow 定义并以预算参数（如 budget.cost）运行编码 agent 任务
+- 官方 flowverse 提供可安装的流程，也可自写
+- 支持 Claude Code、Codex 等已登录的编码 agent CLI 作为后端
+- 提供桌面端（macOS/Windows）、CLI 与 hmz web 浏览器界面
 
 ## 适用场景
 
-- 在仓库里以流程方式驱动编码 agent 完成任务
-- 跨多个 agent CLI 后端统一编排工作流
-- 用浏览器集中查看本机所有 epic
+- 用固定流程迭代驱动编码 agent 直至测试通过
+- 为 agent 任务设置成本预算以防 token 开销失控
+- 在终端或浏览器中统一管理仓库内的 agent 会话
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` `多智能体` · 领域:Agent 开发
+`编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L5: The agent flow system for token maxxing.
-> L16: Three backends need a package of their own: `[dsh]` for DeepSeek Harness, `[kimi]` for Kimi
+> L46: Open the terminal interface in a repository, on a chat with your coding agent; `$<flow>` or
+> L70: hmz exec -f ralph_loop -a agent=claude/claude-opus-5:high -p budget.cost=5 "Make the tests pass"
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c4a9d871cfbb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `96eabf36bbd4` · [字段定义](../../DATASET.md)*

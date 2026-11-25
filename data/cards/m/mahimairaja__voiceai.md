@@ -2,9 +2,9 @@
 
 ⭐ 343 · Astro · MIT · 推送 2026-10-28 · [GitHub](https://github.com/mahimairaja/voiceai) · [官网](https://voiceai.mahimai.ca) · 个人维护 · 中文 README
 
-**实时语音 AI agent 开发学习资源策展清单**
+**构建实时语音 AI Agent 的开发者学习资源清单**
 
-面向开发者的 Voice AI 学习路径清单：按基础概念、框架（LiveKit Agents/Pipecat 等）、STT/ASR、TTS 等分层组织资源，覆盖开源框架、托管平台与实时 API 的选型表格及对比评测。条目按初学者/中级/高级分级标注，优先收录免费官方文档并披露作者商业利益；另附作者撰写的付费配套书《Voice Agents Handbook》及免费样章。清单同时提供英文与中文版本。
+按学习路径组织的实时语音 Agent 资源聚合清单：从基础概念（STT→LLM→TTS 流水线、延迟预算、轮次检测）到框架选型（LiveKit Agents、Pipecat 等开源框架与 Vapi、Retell 等托管平台）、再到 STT/TTS 组件、电话接入与生产化议题。资源按初/中/高级三级标注，优先收录免费官方文档并标注作者商业利益；作者另出版配套书籍《Voice Agents Handbook》并在 README 中披露利益关系。
 
 ## 筛选速览
 
@@ -20,20 +20,19 @@
 
 ## 能力要点
 
-- 按学习路径组织：基础→框架→组件→传输→生产/评估
-- 资源按 🟢初学/🟡中级/🔴高级 分级标注
-- 各组件提供选型表格（开源/商业/托管平台对比）
-- 披露作者商业利益并提供中英双语版本
+- 按 Foundations→Frameworks→Components→Telephony→Production 顺序组织的学习路径
+- 资源标注 🟢/🟡/🔴 难度级别并披露作者商业利益
+- 覆盖开源框架、托管平台、Realtime API 与 STT/TTS 组件的选型表格
 
 ## 适用场景
 
-- 从零学习构建实时语音 agent 的完整技术栈
-- 选型 STT/TTS/框架时查找对比资源与榜单
-- 了解语音 agent 生态中的开源与托管方案
+- 入门实时语音 Agent 开发时按路径系统学习
+- 为语音 Agent 项目选型 STT、框架或托管平台时查阅资源
+- 了解语音 Agent 流水线各组件（VAD、轮次检测等）的原理资料
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `2c34b0c50c47` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `f7c3c35787be` · [字段定义](../../DATASET.md)*

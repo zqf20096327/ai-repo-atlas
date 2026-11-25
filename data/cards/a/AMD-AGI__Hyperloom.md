@@ -2,9 +2,9 @@
 
 ⭐ 284 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AMD-AGI/Hyperloom) · [官网](https://rocm.docs.amd.com/projects/hyperloom) · 组织维护
 
-**在 AMD Instinct GPU 上自动优化 LLM 推理的多 Agent 系统**
+**在 AMD GPU 上自动优化 LLM 推理负载的多智能体工具**
 
-ROCm Hyperloom 是面向 AMD Instinct GPU（MI300X/MI325X/MI355X）的推理优化多 Agent harness：以 input→optimize→validate→learn 闭环运行，Profile 基线、搜索服务框架配置与 GPU kernel 优化、端到端验证后写入 recipe 知识库供后续会话热启动。支持 vLLM、SGLang、xDiT 上的文本生成、图像生成与自定义流水线；kernel 后端为 GEAK 或 KernelForge（单选），LLM 后端为 Claude 或 Codex。基准由协调者执行而非模型自判，失败改动回滚。以 Python 包与 CLI（hyperloom 命令）形式提供，需 ROCm 环境。
+ROCm Hyperloom 是一个多智能体优化框架：对 AMD Instinct GPU 上的推理负载进行性能剖析、搜索服务框架与 GPU 内核层面的优化、对每个候选改动做端到端验证，并把验证通过的配置写入配方知识库供后续会话复用。支持 vLLM、SGLang、xDiT 上的文本生成、图像生成与自定义流水线；内核优化委托 GEAK 或 KernelForge 后端。平台限定 MI300X、MI325X、MI355X；基准由协调器运行而非模型判定，改动按 keep-or-revert 规则处理。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ ROCm Hyperloom 是面向 AMD Instinct GPU（MI300X/MI325X/MI355X）的推理优�
 
 ## 能力要点
 
-- 闭环优化流程：基线测量→框架/内核搜索→端到端验证→recipe 知识库回写
-- 支持 vLLM/SGLang/xDiT，kernel 语言 HIP/Triton/FlyDSL
-- 多 Agent 架构：Coordinator（Orchestration/Critic）+ 临时 Specialist，源码修改经隔离 worktree 与统一 diff 门控
-- 附计算分区扫描与 BIOS/BMC 平台调优审计脚本
+- 多智能体闭环：input → optimize → validate → learn，带硬性循环上限
+- 配方知识库按模型/硬件/框架等字段渐进放宽匹配，实现暖启动
+- 风险源码改动经隔离 worktree、diff 门、策略检查与 Critic 签核
+- 26 项优化已合入 vLLM/SGLang 上游（截至 2026-11-02）
 
 ## 适用场景
 
-- 我在 MI300X 等 AMD GPU 上部署 LLM 服务，想自动调优吞吐与延迟
-- 减少每个新模型/框架版本重复的人工调优工作
-- 沉淀跨会话可复用的优化配置知识库
+- 为 AMD Instinct GPU 上的 LLM 服务负载自动寻找更优推理配置
+- 将内核与服务框架层面的调优改动验证后贡献回 vLLM/SGLang
+- 在多模型、多框架版本迭代中复用历史优化配方
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ ROCm Hyperloom 是面向 AMD Instinct GPU（MI300X/MI325X/MI355X）的推理优�
 ## 证据(README 行号)
 
 > L9: **ROCm™ Hyperloom** is a multi-agent harness that autonomously optimizes inference
-> L10: on AMD Instinct™ GPUs. It profiles each workload, searches framework and kernel
-> L30: unsafe patches. Hyperloom is the harness around that loop: it keeps the mission
+> L53: unsafe patches. Hyperloom is the harness around that loop: it keeps the mission
+> L127: |Framework|SGLang, vLLM, xDiT|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f8ae219e3e88` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d48e65c30f04` · [字段定义](../../DATASET.md)*

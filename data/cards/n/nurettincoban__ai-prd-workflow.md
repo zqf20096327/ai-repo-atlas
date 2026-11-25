@@ -2,9 +2,9 @@
 
 ⭐ 319 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nurettincoban/ai-prd-workflow) · [官网](https://nurettincoban.github.io/ai-prd-workflow/) · 个人维护 · 中文 README
 
-**面向 AI 编码代理的 RFC 驱动开发工作流技能集**
+**为 AI 编码代理提供 PRD→RFC 流程规范的工作流技能集**
 
-以 Agent Skills 形式提供的一套斜杠命令工作流：从想法或既有代码出发，经访谈生成 PRD，逐步产出 FEATURES.md、RULES.md、按依赖顺序排列的小 RFC、测试策略与实现审查，每步写 markdown 文件供下一步读取，决策可跨会话留存。附带 scripts/trace-check.py 检查文档间引用一致性。支持 Claude Code 插件安装，或经 install.sh 安装到 Codex、Copilot、Cursor、Gemini CLI、OpenCode、Devin 等工具，也可复制提示词在任意聊天助手中使用。
+一组以提示形式安装到 AI 编码工具的 Agent Skills，把想法或既有代码库推进为经校验的 PRD、带 ID 的特性清单、项目规则、按依赖排序的 RFC，再逐条实现并审查。每步产出 markdown 文件供下一步读取，脚本检查跨文档一致性与 ID 引用。以 Claude Code 插件或 install.sh 脚本安装，命令即普通提示，无 CLI、无框架依赖。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 访谈→PRD→特性→规则→RFC→实现→审查的完整命令链（/create-prd 至 /workflow-status）
-- 每步输出 markdown 文件，决策跨会话、跨工具留存
-- trace-check.py 脚本校验 ID 引用与文件间一致性
-- 支持 7 种 AI 编码工具安装及任意聊天助手的提示词使用方式
+- /verify-prd 在写代码前发现规格中的缺口与矛盾
+- 特性/规则/RFC 通过永久 ID 互相引用，trace-check.py 脚本校验引用一致性
+- 支持 Claude Code、Codex、Copilot、Cursor、Gemini CLI、OpenCode、Devin 等工具
+- /implement-rfc 先出计划等用户批准再写码，/review-rfc 在独立上下文审查
 
 ## 适用场景
 
-- 用 AI 编码代理做数周规模的多特性项目，先定范围再写码
-- 把需求、规则与 RFC 固化为文件，避免决策随会话丢失
-- 变更时检查与历史决策和规则的冲突并同步更新所有文件
+- 用 AI 编码代理开发多周规模项目时管理需求与决策记录
+- 为既有代码库补齐文档后增量添加功能
+- 在多会话、多模型、多工具之间保持项目决策不丢失
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`提示工程` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L38: **Codex, GitHub Copilot, Cursor, Gemini CLI, OpenCode or Devin** — install the skills into your project:
-> L41: curl -fsSL https://raw.githubusercontent.com/nurettincoban/ai-prd-workflow/main/install.sh | bash -s -- /path/to/yo
-> L81: |`/create-prd`|Interviews you about the idea, a few questions at a time|`PRD.md`|view|
+> L17: AI coding agents write code well. They are worse at deciding what to build, remembering yesterday's decisions, and 
+> L19: Every step writes a markdown file that the next step reads, so decisions outlive the chat session. A script checks 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `79afe7270e60` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5012665ff63b` · [字段定义](../../DATASET.md)*

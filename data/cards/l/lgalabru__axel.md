@@ -2,9 +2,9 @@
 
 ⭐ 327 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/lgalabru/axel) · [官网](https://axel.md) · 个人维护
 
-**面向 Rex 终端的编码 agent 编排工具：线程与命名 agent 协作**
+**终端里的 AI 编码 Agent 编排工具：线程、命名 Agent 与远端主机**
 
-Axel 是运行在 Rex 终端中的 agent 编排程序：以线程（thread）承载任务意图，跨进程与跨机器存续；以命名 agent 组成团队，各自拥有 Ed25519 密钥、权限、预算与技能集。通过 ACP 协议驱动 Claude Code、Codex 等编码 agent 的 CLI（harness），支持远程主机运行、AXEL.md 统一上下文与技能锁定。安装需 Rex 终端与至少一个 harness，提供 curl 脚本与 Homebrew 两种安装方式。
+Axel 是面向 Rex 终端的 Agent 编排程序：以线程为单位组织任务，线程以签名事件记录、可跨机器合并续接；支持创建多个命名 Agent，各自持有 Ed25519 密钥、权限、预算与技能集。它通过 Agent Client Protocol 驱动 Claude Code、Codex 等多种编码 Agent harness（内置适配器无需 Node），并提供守卫机制拒绝不可逆命令、按 Agent 限制预算。安装依赖 Rex 终端与所选 harness；提供 curl 脚本、Homebrew、Nix 三种安装方式。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Axel 是运行在 Rex 终端中的 agent 编排程序：以线程（thread）承
 
 ## 能力要点
 
-- 线程为持久化任务单元，变更以签名事件记录，跨机器合并
-- 命名 agent 各有 Ed25519 密钥、权限、预算与独立技能集
-- 通过 ACP 协议驱动 Claude Code、Codex、OpenCode、Goose、Cursor 等多种 harness
-- 守卫机制拒绝不可逆命令并为每个 agent 设预算上限
+- 线程持久化：签名事件存储，跨机器合并、合盖后继续运行
+- 命名 Agent 各自拥有密钥、权限、预算与独立技能集
+- 经 ACP 协议驱动 Claude Code、Codex，另支持 OpenCode/Goose/Cursor 等多种 harness
+- 守卫拒绝不可逆命令，按 Agent 设置支出预算
 
 ## 适用场景
 
-- 在终端中组织多个编码 agent 分工协作与互相评审
-- 任务线程跨机器、跨会话接续推进
-- 用统一 AXEL.md 为不同 harness 的 agent 提供项目上下文与技能
+- 在一个终端里同时运行多个编码 Agent 并让它们互相交接（构建+评审）
+- 在远程主机上运行 Agent，密钥保留在本机
+- 为不同 Agent 分配不同模型与技能分工
 
 ## 场景标签
 
@@ -38,6 +38,7 @@ Axel 是运行在 Rex 终端中的 agent 编排程序：以线程（thread）承
 ## 证据(README 行号)
 
 > L8:  Agent orchestration, designed for Rex.
+> L54: ### 🤖 Claude Code, Codex, OpenCode, Goose, Cursor and more
 > L57: `codex`, `goose`, `cursor/sonnet`. Axel drives Claude Code and Codex over the Agent Client
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `40ae8d9e287b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `983d1c9c4a7a` · [字段定义](../../DATASET.md)*

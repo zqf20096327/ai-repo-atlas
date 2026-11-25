@@ -2,9 +2,9 @@
 
 ⭐ 284 · HTML · MIT · 推送 2026-11-08 · [GitHub](https://github.com/enmerasoftware/ai-design-check) · [官网](https://www.npmjs.com/package/@enmera/ai-design-check) · 组织维护
 
-**零依赖 UI 设计规则检查器：检测并修复 AI 生成界面的设计问题**
+**检测并修复 AI 生成界面痕迹的开发者检查工具**
 
-针对 AI 编码代理（Claude Code、Cursor、Codex）生成的界面提供 76 条设计规则与零依赖 Node 检查器，读取 .tsx/.jsx/.vue/.svelte/.html/CSS/i18n JSON 以及 SwiftUI 与 Jetpack Compose 代码，报告规则 ID 与文件行号；附带代理技能在修复后复查并给出前后计数。另含 inventory 组件外观盘点、narrow 手机宽度渲染检查、system 从品牌色生成设计令牌、story 生成前后对比视频。规则来自 Enmera 与 Searvia 实际界面并与 Dribbble/Behance 设计对比归纳，提供英文与土耳其文。
+提供 147 条界面设计规则与零依赖、无 API key 的检查器，读取 Web 项目（React/Vue/Svelte/Laravel Blade/HTML，Tailwind/Bootstrap/纯 CSS）及 SwiftUI、Jetpack Compose、Flutter、React Native 应用，输出无障碍、排版、布局、文案等问题清单；机械性修复可由 --fix 直接完成，其余通过安装为 agent skill 交由 Claude Code 或 Codex 修复。redesign 子命令调用 agent 生成重设计卡片并在 git 分支上逐 pass 应用，图像生成需 OPENAI/GEMINI key 且逐张确认。文档提供英文与土耳其语。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 76 条设计规则，零依赖 Node 检查器，覆盖 Web 与 SwiftUI/Jetpack Compose
-- 无 LLM、无 API key，检测可测缺陷并报告文件与行号
-- inventory 盘点组件外观漂移；narrow 以手机宽度渲染检查布局
-- system 从品牌色与性格生成设计令牌（CSS/Swift/Kotlin/JSON）
+- 147 条规则，检查器零依赖、无 API key，规则文档提供英文与土耳其语
+- 68 条规则读代码、61 条读运行页面（scan），33 条标记为 review 留给人工
+- scan/redesign/inventory/narrow/system/story 等多个子命令
+- redesign 在新 git 分支逐 pass 应用修复，丢失内容的 pass 被丢弃
 
 ## 适用场景
 
-- AI 代理生成界面后检查并修复设计缺陷
-- 清理既有项目中重复的组件外观
-- CI 中用 npx 命令拦截新增设计问题
-- 为新产品从品牌色生成完整设计系统
+- 检查用 AI 编码代理构建的前端界面是否存在生成痕迹
+- 对 AI 生成的页面做无障碍与移动端适配排查
+- 让 agent 批量修复界面设计问题并前后对比
+- 统计项目内按钮、输入框、标题等组件数量
 
 ## 场景标签
 
- · 领域:软件开发/设计工具
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L7: Finds and fixes what makes interfaces built with AI coding agents (Claude Code, Cursor, Codex) look generated:
-> L8: 76 design rules, a zero-dependency checker that marks every finding, and an agent skill that fixes the screen and
-> L150: ## For AI coding agents
+> L9: For anyone building with Claude Code, Cursor or Codex: 147 design rules, a checker with no dependencies and no API k
+> L115: `redesign` is the one part that needs your agent (Claude Code or Codex), because deciding what a page should show 
+> L66: 68 rules read your code (34 of them in app code too) and 61 read the running page (`scan`), some of them both. The 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-02 · 置信度 high · 依据 README sha `862106b4ae59` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `059ff43543e2` · [字段定义](../../DATASET.md)*

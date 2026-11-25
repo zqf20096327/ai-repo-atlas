@@ -2,9 +2,9 @@
 
 ⭐ 322 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/flyteorg/flytekit) · [官网](https://docs.flyte.org/en/latest/api/flytekit/docs_index.html) · 组织维护
 
-**面向 Flyte 平台的 Python SDK：编写、测试与部署任务和工作流**
+**Flyte 工作流的 Python SDK：编写、测试、部署任务与工作流**
 
-Flytekit 是构建在 Flyte 之上的 Python 库，用于编写、测试、部署 Flyte 任务、工作流和 launch plan，并与 Flyte 后端服务交互。任务以装饰器方式定义，支持缓存、重试等参数配置。通过 pip 安装，插件体系可扩展（见 plugins 目录），README 顶部声明当前内容针对 Flyte 1.x，Flyte 2 已发布并可用 Devbox 本地体验。面向使用 Flyte 平台的数据科学与 MLOps 开发者。
+Flytekit 是构建在 Flyte 之上的 Python SDK，用于编写、测试、部署和交互 Flyte 任务、工作流与 launch plans，是 Flyte 生态的核心可扩展库。通过装饰器（如 @task/@workflow）声明任务并组合成工作流，支持缓存与重试配置；插件机制可扩展数据/Spark 等能力，插件列表在 plugins/README.md 维护。经 PyPI 分发，文档与示例齐备。注意：Flyte 1 将于 2026-12-31 终止生命周期，Flyte 2 已正式可用。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ Flytekit 是构建在 Flyte 之上的 Python 库，用于编写、测试、部�
 
 ## 能力要点
 
-- 装饰器方式编写 Flyte 任务与工作流
-- 任务支持缓存（cache）与重试（retries）配置
-- 提供插件体系扩展后端能力
+- 以装饰器方式编写任务与工作流（task/workflow API）
+- 支持任务缓存、缓存版本与重试配置
+- 插件机制扩展（Spark 等主题标签对应的能力）
+- 覆盖编写、测试、部署、与后端交互的完整流程
 
 ## 适用场景
 
-- 用 Python 编写可在 Flyte 上运行的数据/ML 工作流
-- 在本地测试后部署任务与工作流到 Flyte 后端
-- 通过插件接入 Spark 等计算后端
+- 为机器学习流水线编写可部署的 Flyte 工作流
+- 以 Python 代码编排数据处理任务并交给 Flyte 后端执行
+- 通过插件扩展接入 Spark 等数据场景
 
 ## 场景标签
 
@@ -36,8 +37,8 @@ Flytekit 是构建在 Flyte 之上的 Python 库，用于编写、测试、部�
 
 ## 证据(README 行号)
 
-> L32: Flytekit Python is the Python Library for easily authoring, testing, deploying, and interacting with Flyte tasks, w
-> L40: Flytekit is the core extensible library to author Flyte workflows and tasks and interact with Flyte backend service
+> L42: Flytekit Python is the Python Library for easily authoring, testing, deploying, and interacting with Flyte tasks, w
+> L50: Flytekit is the core extensible library to author Flyte workflows and tasks and interact with Flyte backend service
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `389b0a80df62` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `11bb69f8caf1` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 415 · Jupyter Notebook · MIT · 推送 2026-11-17 · [GitHub](https://github.com/microsoft/iq-series) · [官网](https://aka.ms/iq-series) · 组织维护
 
-**Microsoft IQ 企业智能层的学习教程系列：视频+Notebook 实操**
+**学习 Microsoft IQ 企业智能层的教学系列：视频+notebook+实验**
 
-Microsoft 官方出品的动手学习项目，围绕 Microsoft IQ 企业智能层（Foundry IQ 知识层、Work IQ 组织智能、Fabric IQ 业务语义、Web IQ 网页接地）组织教学。每集包含约 17 分钟的视频节目与配套 Jupyter notebook cookbook 或 markdown 实验指引，覆盖知识源数据管道、多源知识库查询、A2A/MCP 协议与 Copilot CLI 工具链。完成全部 cookbook/lab 可申请 Global AI Community 徽章；Fabric IQ 与 Web IQ 部分标注即将推出。
+微软官方出品的 Microsoft IQ 学习系列，覆盖 Fabric IQ、Foundry IQ、Work IQ 与 Web IQ 四项企业级智能服务。内容形式为视频剧集配 Jupyter notebook cookbook 或 markdown 实验指引，逐集讲解知识接入、数据管道、多源知识库查询、A2A 与 MCP 协议、实时网络检索 grounding 等主题。完成 cookbook/实验可向 Global AI Community 申请社区徽章；Foundry IQ、Work IQ、Web IQ 内容已发布，Fabric IQ 剧集标注即将推出。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Microsoft 官方出品的动手学习项目，围绕 Microsoft IQ 企业智能�
 
 ## 能力要点
 
-- 视频节目 + Jupyter notebook cookbook / markdown lab 的分集结构
-- Foundry IQ 三集（组件架构、知识源管道、多源知识库查询）已上线
-- Work IQ 三集覆盖 REST/A2A/MCP 协议与 GitHub Copilot CLI 集成
-- 完成实操后可申请 Global AI Community 徽章
+- 视频剧集 + Jupyter notebook cookbook + markdown 实验的成套学习材料
+- 覆盖 Foundry IQ、Work IQ、Web IQ，Fabric IQ 内容标注即将推出
+- 完成实验可申请 Global AI Community 颁发的社区徽章
+- Work IQ 系列讲解 REST、A2A、MCP 协议与 Copilot CLI 工具化
 
 ## 适用场景
 
-- 系统学习 Microsoft IQ 四大智能服务的架构与用法
-- 跟做 notebook 实操，掌握 Foundry IQ 知识库与 Work IQ MCP 工具链
-- 企业 AI agent 开发者了解知识层与协议策略设计
+- 系统学习如何为企业 agent 接入 Foundry IQ 知识层
+- 按 cookbook 动手搭建多源知识库查询管道
+- 了解 Work IQ 的 MCP/A2A 协议策略与工具集成
+- 为 agent 接入实时网络检索并生成带引用的回答
 
 ## 场景标签
 
@@ -37,8 +38,9 @@ Microsoft 官方出品的动手学习项目，围绕 Microsoft IQ 企业智能�
 
 ## 证据(README 行号)
 
-> L24: |**Episode**|**Description**|**Video**|**Cookbook/Lab**|
+> L5: Learn Microsoft IQ with The IQ Series! Microsoft IQ is Microsoft's unified intelligence layer for the enterprise, gi
 > L43: Episode folders also include Jupyter notebook cookbooks or markdown lab instructions with hands-on and step-by-step
+> L47: Complete an IQ's cookbooks or labs to earn its community badge. Badges are issued by the Global AI Community, so pl
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `78e5ffb034c0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `077ec78784ce` · [字段定义](../../DATASET.md)*

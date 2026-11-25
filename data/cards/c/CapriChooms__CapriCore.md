@@ -2,9 +2,9 @@
 
 ⭐ 392 · JavaScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/CapriChooms/CapriCore) · [官网](https://capri-core.com/) · 组织维护
 
-**Windows 桌面 AI 伴侣：本地/API 模型对话、语音与桌面工具**
+**Windows 桌面 AI 伴侣应用：文本/语音对话、记忆与桌面工具**
 
-面向 Windows 10/11 x64 用户的桌面 AI 伴侣应用：支持捆绑 Qwen3.5 本地模型、Hugging Face GGUF 导入（托管于 llama.cpp 运行时）或 OpenAI 兼容 API（OpenRouter/DeepSeek/Gemini 等预设），提供共享对话与记忆、可搜索记忆事实、本地文档知识库、可选本地语音识别与 TTS、51 种界面语言，以及经权限授权的桌面工具（应用/文件操作、Spotify/Discord 控制、网页搜索，计算机控制为 BETA）。含动画桌宠形象、BPM 音乐反应等桌面伴侣功能。提供安装程序与源码运行两种途径。
+基于 OpenClaw 的 Windows AI 桌面伴侣，提供文本与语音聊天、持久记忆、动画桌面头像以及基于权限的应用/文件工具。推理可选三种方式：内置 Qwen3.5 本地模型、导入 Hugging Face GGUF 权重（经 llama.cpp Vulkan 运行时），或连接 OpenAI 兼容 API（OpenRouter/DeepSeek/Gemini 等预设）。带 CPU/GPU 负载控制、本地语音识别与 TTS、本地文档知识库。提供 Windows 安装向导；源码方式需 Node.js 24.x 与 llama.cpp 运行时。语音与计算机控制在部分配置下标注 BETA，安装包未签名。
 
 ## 筛选速览
 
@@ -14,32 +14,33 @@
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | — | 无带数字的原话,不猜 |
+| 硬件要求 | `gpu-8g` | |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 本地 GGUF（llama.cpp 运行时）/ 捆绑模型 / OpenAI 兼容 API 三种推理模式
-- 本地语音识别与 TTS（Chatterbox、Qwen3-TTS CPU BETA），默认启动不加载
-- 权限制的桌面工具与可见指示的 BETA 计算机控制
-- 可搜索记忆事实与本地文档知识库
+- 三种推理来源：内置 Qwen3.5、GGUF 导入、OpenAI 兼容 API，可切换不丢对话
+- 本地语音识别与 TTS（Chatterbox/Qwen3-TTS），语音与麦克风默认关闭
+- 权限范围化的应用/文件/Spotify/Discord 桌面工具与录制工作流
+- 32K 上下文硬件档位表与 CPU/GPU 负载控制
 
 ## 适用场景
 
-- 在桌面上与本地或 API 大模型持续对话并保留记忆
-- 让 AI 在授权范围内执行应用/文件与网页搜索等桌面操作
-- 以桌宠形式获得带语音与动画反应的陪伴体验
+- 在 Windows 桌面上运行一个带动画形象和持久记忆的本地 AI 伴侣
+- 用语音与本地模型对话，避免云端数据上传
+- 通过权限审批让 AI 执行应用、文件与 Discord/Spotify 操作
+- 导入自己挑选的 Hugging Face GGUF 模型作为对话模型
 
 ## 场景标签
 
-`AI 助手` `GUI 自动化` `文档问答` · 领域:效率与自动化
+`AI 助手` `语音 Agent` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L5: A Windows AI desktop companion powered by OpenClaw: bundled local LLMs, Hugging Face GGUF models or OpenAI-compatibl
-> L17: - **Talk and remember.** Text chat, optional local speech recognition and voice, independent language settings, com
-> L20: - **Use tools with permission.** Scoped app/file actions, Spotify, Discord desktop control, web search, deep-thinki
+> L5: Capri is a Windows AI desktop companion powered by OpenClaw. Run a bundled local model, import a compatible Hugging 
+> L22: - **Choose your inference.** Use bundled Qwen3.5 models, BETA Gemma/Ministral alternatives, compatible Hugging Face
+> L75: **Windows 10 22H2 or Windows 11, x64.** The smallest supported configuration has
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `2792ab0c4e71` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `94cba91d80c5` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # dirge-code/dirge
 
-⭐ 391 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dirge-code/dirge) · 组织维护
+⭐ 391 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dirge-code/dirge) · 个人维护
 
-**Rust 编写的轻量终端编码 agent，带跨会话记忆**
+**Rust 编写的极简编码 agent：多模型路由+跨会话项目记忆**
 
-用 Rust 实现的命令行编码 agent：主循环、审查、升级、摘要等角色可路由到不同模型（Cerebras/DeepSeek/GLM/Anthropic/OpenAI/Ollama/OpenAI 兼容端点）。内置 tree-sitter 写前校验、LSP 诊断、单一策略决策点的权限引擎、Janet 插件系统、持久化项目记忆与 SQLite FTS5 检索、agent 看板任务、可恢复会话检查点；无向量索引，上下文默认预算 250k token。支持 cargo/Homebrew/Nix 安装，提供各平台预编译二进制；源码构建需 C/LLVM 工具链。可通过 `dirge mcp` 作为 MCP server 被其他 agent 调用。
+以 Rust 实现的终端编码 agent，主打低内存占用（空闲约 8MB、二进制约 36MB）与弱模型的容错运行：修复畸形工具调用、写入前经 tree-sitter 校验、重复失败时升级到更强模型。机制包括单一策略决策点的权限引擎、按角色多提供商路由、持久化项目记忆与会话检查点、SQLite FTS5 记忆检索（无向量索引，作者声明为有意设计）、内置 issue 看板、Janet 插件系统与 MCP server 模式。安装途径有 cargo、Homebrew、Nix flake 与各平台预编译二进制；源码构建需 C 编译器与 libclang。
 
 ## 筛选速览
 
@@ -20,18 +20,16 @@
 
 ## 能力要点
 
-- 空闲约 8 MB 内存、36 MB 二件的原生 Rust 实现
-- 角色级多模型路由，含失败升级到更强模型与熔断机制
-- 两层持久化记忆（inline + FTS5 面包屑索引）与会话检查点恢复
-- tree-sitter 写前校验与 LSP 诊断覆盖 10+ 语言
-- Janet 运行时插件与 Claude 兼容 skills 按需加载
+- 按角色多提供商路由：主循环/评审/升级/摘要可指向不同模型，支持 Cerebras、DeepSeek、GLM、Anthropic、OpenAI、Ollama 及任意 OpenAI 兼容端点
+- 250k 默认上下文预算与增量检查点，长会话可恢复到活动状态
+- 持久化两级项目记忆（SQLite FTS5 检索），会话后编排器抽取学习成果
+- tree-sitter 写入校验、LSP 诊断、权限策略可追溯（/why）
 
 ## 适用场景
 
-- 在终端让 agent 完成编码任务并修复编译错误
-- 用较便宜的模型跑长任务，靠记忆与护栏保持稳定
-- 让 Claude Code 等规划型 agent 通过 MCP 委派实现任务给 dirge
-- 跨会话保留项目偏好与踩坑记录
+- 在终端中用多个模型协作完成代码修改与评审
+- 希望 agent 在多次会话间保留项目偏好与教训
+- 让 planner 型 agent 通过 MCP 把实现任务委派给 dirge
 
 ## 场景标签
 
@@ -40,6 +38,7 @@
 ## 证据(README 行号)
 
 > L3: A minimal, fast coding agent written in Rust — inspired by pi, opencode, and maki.
+> L11: - **Tiny and fast.** Roughly 8 MB RAM idle, 15 MB working, 36 MB binary (approximate, measured on a Linux release b
 > L14: - **Role-based multi-provider routing.** Point the main loop, review, escalation, summarization, and subagent roles
 
 ## 星数曲线
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c734a41486e0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fb544c01189e` · [字段定义](../../DATASET.md)*

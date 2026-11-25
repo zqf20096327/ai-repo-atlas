@@ -2,9 +2,9 @@
 
 ⭐ 361 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BichengWang/ai-decision-system) · [官网](https://bichengwang.github.io/ai-decision-system/) · 个人维护
 
-**AI 辅助 go/no-go 决策的可重放、离线可验证记录工具集**
+**为 AI 决策提供可重放、可离线验证记录的工具集**
 
-由三个独立 Python 包（jevdecision、decisioncontrol、expgate）与未发布的 RELIA 组成的仓库，非一体化运行时：jevdecision 对类型化模型答案（是/否、选择、评分）做带标签的质量门控；decision-control 冻结路由策略并记录人工审批，可重放；expgate 从导出的 A/B 聚合数据生成 SHIP/HOLD/ROLLBACK/INVALID 决策记录。每个包发出机器可校验的记录（含 RFC 8785 摘要、可选 DSSE 签名），供第三方离线复核。三个包已发布 0.1.0，仅依赖 Python 3.11+ 标准库；0.2.0 功能未发布。Jev 支持 Jev 与 OpenAI Decisions 后端，需相应 API key。RELIA 未发布且许可状态未确定。
+面向 AI 辅助 go/no-go 决策的记录工具集，包含四个独立包：jevdecision 生成类型化模型答案与质量门记录，decisioncontrol 冻结路由策略并生成可回放的人工审批记录，expgate 从 A/B 聚合数据产出 SHIP/HOLD/ROLLBACK 决策，RELIA 提供模型发布门验证。三个已发布包仅需 Python 3.11+，运行时仅用标准库；各包相互独立，非一体化运行时。0.2.0 功能（签名、schema、OPA/Cedar 适配器等）尚未发布。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 四类决策点各自发出机器可校验的离线复核记录
-- jev-decision-verify / experiment-gate-verify / decision-control replay 等校验命令
-- RFC 8785 摘要与可选签名（DSSE/in-toto、Sigstore via cosign）
-- 运行时仅用 Python 标准库，三包 0.1.0 已上 PyPI
+- 四个独立包分别覆盖模型答案、审批、实验晋升与发布门
+- 决策记录可离线重放验证（jev-decision-verify、experiment-gate-verify 等 CLI）
+- 已发布包运行时仅依赖 Python 标准库
+- 支持 in-toto/DSSE、Sigstore（cosign）等签名机制（0.2.0 未发布）
 
 ## 适用场景
 
-- 为模型晋升/审批/发布决策留档并供第三方离线复核
-- 对 LLM 类型化答案做带标签的 PASS/FAIL 质量门控
-- 从 GrowthBook 导出的 A/B 聚合数据生成可验证的发布决策
+- 对 AI 辅助的晋升/审批决策留存第三方可复核的证据记录
+- 从 A/B 实验导出的聚合数据生成可验证的上线/回滚决策
+- 对带标签数据集上的模型答案做质量门与校准评估
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`模型评测` `MLOps` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L19: These are **independent packages, not one integrated runtime**. The arrows show
-> L28: |Jev decision|Typed yes/no, choice and score answers; labeled quality gates|`jevdecision`|Typed answer, `evaluation
-> L108: |Evaluation tools (promptfoo, OpenAI Evals)|Score prompts and model behavior|Jev gates typed answers with explicit
+> L25: These are **independent packages, not one integrated runtime**. The arrows show
+> L39: The three small packages require Python 3.11+ and use only the standard library
+> L108: These tools complement existing platforms; the bounded contribution is retained,
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `098a3269fb9a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3a9f615dfaf8` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 338 · C# · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/feiyun0112/Gradio.Net) · 个人维护 · 中文 README
 
-**Gradio 的 .NET 移植：用 C# 几行代码为模型/API 构建 Web 界面**
+**给 .NET 开发者用的 Gradio 移植：为模型或方法快速建 Web UI**
 
-将 Python 包 Gradio 6.30.0 移植到 .NET：把任意 C# 方法包装成 Web 页面，用户通过浏览器上传图片、输入文本、录音并与代码交互，无需编写 JavaScript/CSS。前端与协议复用 Python 版编译产物；提供 gr.Interface 快速封装与 gr.Blocks 布局控制两种 API 形态，名称与默认参数与 Python 版保持一致，移植仅需三类语法改动。附十个离线示例程序（聊天、流式、表单、媒体、多页、主题、图表等），可嵌入现有 ASP.NET Core 项目。
+Python 库 Gradio 的 .NET 移植：通过 gr.Interface / gr.Blocks 工厂函数把任意 C# 方法包装为浏览器可访问的 Web 应用，前端复用 Python 版编译产物，协议与配置一致。提供 AddGradio()/UseGradio() 与 ASP.NET Core 集成，支持聊天、流式输出、文件上传、多媒体、多页面、主题与图表组件；带十个可 dotnet run 的示例工程和 Python→C# 迁移对照表。无前端经验要求，MCP 工具等成员在当前版本尚未实现。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- gr.Interface 将 C# 方法直接包装为 Web 页面
-- API 命名与 Python 版一致，移植仅需三类语法改动
-- 可嵌入现有 ASP.NET Core 项目（AddGradio/UseGradio）
-- 附十个离线示例程序，dotnet run 即可运行
+- gr.Interface 将任意 C# 方法包装为页面，无需布局代码
+- 与 ASP.NET Core 集成：AddGradio() 注册、UseGradio() 承载路由/资产/队列
+- 前端与协议沿用 Python 版 Gradio 编译产物
+- 十个离线示例工程覆盖聊天、流式、文件、多页面、图表等
 
 ## 适用场景
 
-- 给 .NET 机器学习模型或 API 快速搭一个演示页面
-- 把 Python Gradio 应用移植到 C#/.NET 技术栈
-- 在现有 ASP.NET Core 项目中挂载模型交互页面
+- 为 C# 机器学习模型快速生成可交互的演示页面
+- 在现有 ASP.NET Core 项目中为 API 增加浏览器界面
+- Python Gradio 用户将现有应用迁移到 .NET
 
 ## 场景标签
 
- · 领域:机器学习工具/UI 组件
+ · 领域:机器学习应用开发工具/用户界面框架
 
 ## 证据(README 行号)
 
-> L5: Gradio for .NET — a port of Gradio 6.30.0, the Python package
-> L9: With Gradio.Net you build a UI for a model, an API or any C# method in a few lines: users drag in
+> L11: Gradio for .NET — a port of Gradio, the Python package
+> L15: With Gradio.Net you build a UI for a model, an API or any C# method in a few lines: users drag in
+> L54: `AddGradio()` registers the kernel; write the page, hand it to `UseGradio(page)`, and the host serves
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-30 · 置信度 high · 依据 README sha `c3387421f617` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9380b585d79a` · [字段定义](../../DATASET.md)*

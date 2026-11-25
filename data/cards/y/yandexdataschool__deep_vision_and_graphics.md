@@ -2,9 +2,9 @@
 
 ⭐ 417 · Jupyter Notebook · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yandexdataschool/deep_vision_and_graphics) · 组织维护
 
-**YSDA 深度学习计算机视觉与图形学课程资料库**
+**YSDA 计算机视觉与图形学深度学习课程资料库**
 
-由 YSDA 与 Skoltech 合作开设的“Deep Vision and Graphics”课程配套仓库，包含 12 周的讲义、研讨材料与作业，主题覆盖卷积网络、transformer、目标检测、分割、生成模型（GAN、扩散模型、CLIP/DALL-E）、神经辐射场与神经渲染等。材料按 week* 与 homework* 文件夹组织，供学生与自学者使用；课程管理事项在 YSDA LMS 内部，仅限 YSDA 学生访问。
+YSDA 与 Skoltech 合作开设的《Deep Vision and Graphics》课程配套仓库，是 2015-2021 年《Deep Learning》课程的后续版本，侧重深度学习在计算机视觉中的应用。按周组织讲义与研讨课材料（./week* 目录），作业位于 ./homework* 目录。教学大纲覆盖卷积网络、transformer、分割与检测、生成模型（GAN、扩散模型）、多模态网络、点云处理、新视角合成（NeRF）等 12 周内容。行政事务与截止日期仅在 YSDA 内部 LMS 提供。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 12 周课程大纲，覆盖 CV 与图形学深度学习主题
-- 讲义、研讨材料与作业按文件夹组织
-- 由多位讲师分工维护的课程材料
+- 按周组织的讲义、研讨课材料与作业（week*/homework* 目录）
+- 12 周教学大纲覆盖检测分割、生成模型、点云、NeRF 等主题
+- 课程材料问题通过 GitHub issue 反馈
 
 ## 适用场景
 
-- 系统学习计算机视觉与图形学的深度学习课程
-- 查找分割、检测、生成模型、NeRF 等专题的讲义与作业
-- 作为课程教学参考材料
+- 系统学习深度学习在计算机视觉与图形学中的应用
+- 查阅生成模型、新视角合成等专题的课程讲义与作业
+- 作为教师参考组织类似课程的教学材料
 
 ## 场景标签
 
@@ -36,7 +36,7 @@
 
 ## 证据(README 行号)
 
-> L3: This repo supplements course "Deep Vision and Graphics" taught at YSDA @fall'25.
+> L3: This repo supplements course "Deep Vision and Graphics" taught at YSDA @fall'26.
 > L6: Lecture and seminar materials for each week are in ./week* folders. Homeworks are in ./homework* folders.
 
 ## 星数曲线
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `855454706775` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6d92491eca9b` · [字段定义](../../DATASET.md)*

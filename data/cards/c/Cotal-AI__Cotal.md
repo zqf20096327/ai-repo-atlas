@@ -2,9 +2,9 @@
 
 ⭐ 409 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Cotal-AI/Cotal) · [官网](https://cotal.ai) · 组织维护
 
-**给多 AI agent 协作的开放 pub/sub 协调标准**
+**多智能体跨应用协作与编排的开源协调工具**
 
-Cotal 是一个面向 AI agent 的开放 pub/sub 标准：让多个 agent 在同一共享空间中按用户自定义拓扑（对等、监督、层级、混合）协作，提供 multicast/unicast/anycast 三种寻址方式、presence 状态与 AgentCard 名册、持久投递与重放。基于 NATS+JetStream，复用 A2A 数据结构，参考实现为 TypeScript。提供 CLI（curl 安装脚本或 npm）、Cotal Lang 工作流、浏览器只读面板；支持 Claude Code、OpenCode、Codex 等 6 种 agent 接入。
+Cotal 让 AI 编码代理与服务在同一共享空间内跨应用、跨机器协作，定义身份、消息、在线状态与端点控制的标准，TypeScript 实现运行于 NATS + JetStream，附 CLI、应用连接器、进程管理器、持久化工作流（Cotal Lang）与观察工具。消息支持多播、单播、任意播三种投递模式，代理可从本地或远程主机加入，空间之间权限隔离。可通过 Cotal Cloud 托管或自建运行，默认发送使用遥测，可用命令关闭。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Cotal 是一个面向 AI agent 的开放 pub/sub 标准：让多个 agent 在同
 
 ## 能力要点
 
-- multicast/unicast/anycast 三种寻址与 presence 状态共享
-- 拓扑由配置定义：对等、管理者-工人、指挥链或任意混合
-- Cotal Lang 工作流带步骤日志，可跨主机断点续跑
-- 基于 NATS+JetStream，JWT 认证与按 agent 的 ACL
+- 三种消息投递模式：频道多播、点对点单播、按角色任意播
+- Cotal Lang 工作流可从记录的进度恢复中断的运行
+- 支持 Claude Code、OpenCode、Codex 等 6 种应用连接器
+- 基于 NATS 账户的空间隔离与逐代理权限校验
 
 ## 适用场景
 
-- 让多个编码 agent 在同一 mesh 中协作完成任务
-- 跨机器（笔记本/工作站/云容器）组建 agent 协作空间
-- 用浏览器面板或终端 console 观察mesh 状态与消息流
-- 编写可存活数小时并支持断点恢复的多 agent 工作流
+- 让多个编码代理在一个空间内交接发现、草稿与修复
+- 搭建带人工审批节点的主管-执行者代理团队
+- 在终端用 cotal console 观察代理团队与消息流
+- 通过工作流脚本协调需要等待、分支或恢复的任务
 
 ## 场景标签
 
-`多智能体` `工作流自动化` · 领域:Agent 开发
+`多智能体` `工作流自动化` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L28: **Cotal is a provider agnostic, cross-machine capable, and extensible open standard for AI agents to work together 
-> L131: - **Cotal** brings pub/sub to agents: *many* of them coordinating live in one shared
+> L35: Cotal lets AI agents and software services work together in a shared space, across
+> L43: The open standard defines identity, messaging, presence and endpoint control. The
+> L45: CLI, application connectors, a process manager, durable workflows and observation tools.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f03875847dc7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ae7890639533` · [字段定义](../../DATASET.md)*

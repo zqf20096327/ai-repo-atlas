@@ -2,9 +2,9 @@
 
 ⭐ 319 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/runpod/runpod-python) · [官网](https://pypi.org/project/runpod/) · 组织维护
 
-**RunPod 官方 Python SDK：定义 GPU 函数并部署到云端**
+**Runpod 云 GPU 的 Python API 客户端与 Serverless Worker SDK**
 
-RunPod 官方 Python 库，含两部分：一是 API 客户端与 rp CLI，用装饰器方式在 Python 中定义 GPU 函数（App/Model/NetworkVolume 等资源对象），通过 rp flash dev 进行实时开发、rp flash deploy 部署生产端点；二是 Serverless Worker SDK，可将模型封装为自定义端点 API 部署到 RunPod，并支持 --rp_serve_api 本地测试 worker。要求 Python 3.10+，安装包附带 rp CLI，面向使用 RunPod 云 GPU 平台的开发者。
+Runpod 官方 Python 库，提供两条用法：一是作为 Runpod API 的客户端，通过装饰器在 Python 中定义 GPU 函数并部署到云端运行，附 rp CLI（登录、密钥存储、开发会话、生产端点部署）；二是作为 Serverless Worker SDK，将包含模型定义的 Python 脚本打包为可部署到 Runpod 的自定义端点 API，支持部署前本地测试 worker。需要 Python 3.10+。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ RunPod 官方 Python 库，含两部分：一是 API 客户端与 rp CLI，用�
 
 ## 能力要点
 
-- 装饰器方式定义 GPU 函数并云端运行
-- rp CLI 提供登录、实时开发（flash dev）与部署（flash deploy）
+- 一个装饰器即可将 Python GPU 函数部署到 Runpod 云端
+- 附带 rp CLI：登录认证、密钥存储、流式日志开发会话与部署
 - Serverless Worker SDK 可将模型封装为自定义端点 API
-- 支持本地测试 worker（--rp_serve_api）
+- 支持本地测试 worker（--rp_serve_api）再部署
 
 ## 适用场景
 
-- 把机器学习模型部署为 RunPod serverless 端点 API
-- 在云端以装饰器方式运行 GPU 函数
-- 部署前本地调试 RunPod worker
+- 把模型推理脚本封装为 Runpod Serverless API 端点
+- 用 Python 直接调用和管理 Runpod 云端 GPU 任务
+- 部署前在本地调试 worker 再推上云
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+ · 领域:云计算/GPU 基础设施
 
 ## 证据(README 行号)
 
 > L3: **Define GPU functions in Python. Run them in the cloud with one decorator.**
-> L41: This python package can also be used to create a serverless worker that can be deployed to Runpod as a custom endpo
+> L42: This python package can also be used to create a serverless worker that can be deployed to Runpod as a custom endpo
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3b0d0609a8f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `a6f965f5905f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 376 · Go · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/qqqqqf-q/Arkloop) · [官网](https://arkloop.io) · 个人维护 · 中文 README
 
-**本地优先的对话式 AI Agent 桌面平台**
+**本地优先的个人 AI Agent 桌面平台，开箱即用**
 
-个人开源项目，提供 local-first 的对话式 AI Agent 平台：Electron 桌面应用内嵌单个 Go 进程作为全部后端，配 SQLite 存储，无需部署服务器。功能含多模型路由（OpenAI/Anthropic/Gemini 及 OpenAI 兼容 API，自带 key）、Agent 运行时（内置工具、MCP、ClawHub 技能、子 Agent 与定时任务）、纯文本/可选语义记忆、Telegram/Discord/QQ/飞书/微信渠道接入与自定义人格。支持 GitHub Releases 下载安装包、Homebrew/AUR 安装 CLI，限 Arkloop License（修改版 Apache 2.0，附条件）。
+本地优先的对话式 AI Agent 平台：Electron 桌面应用内嵌单一 Go 进程后端，存储为本地 SQLite，无需部署服务器或维护基础设施。功能包括多模型路由（用户自备 key，OpenAI/Anthropic/Gemini 及 OpenAI 兼容 API）、内置工具与 MCP 服务器、子 Agent 与定时任务、可选语义记忆，以及 Telegram/Discord/QQ/飞书/微信 渠道机器人共用同一 Agent 管线。提供 macOS/Linux/Windows 安装包，CLI 可经 Homebrew、AUR 或脚本安装。许可证为修改版 Apache 2.0，含附加条件。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 单进程 Go 后端 + SQLite，本地运行零部署
-- 多模型优先级路由，OpenAI 兼容 API 通用接入
-- MCP servers、ClawHub 技能与子 Agent 调度
-- Telegram/Discord/QQ/飞书/微信多渠道共享同一 Agent 管线
+- 多模型路由：OpenAI、Anthropic、Gemini 及任何 OpenAI 兼容 API，按优先级路由
+- Agent 运行时：内置工具、MCP 服务器、ClawHub 技能，支持子 Agent 与定时任务
+- 渠道机器人：Telegram/Discord/QQ/飞书/微信 共用同一 Agent 管线
+- 单 Go 进程 + SQLite 架构，无 Postgres/Redis/消息队列依赖
 
 ## 适用场景
 
-- 桌面开箱即用的多模型 AI 聊天与 Agent 工具调用
-- 通过 Telegram/QQ 等机器人渠道复用同一 Agent
-- 无头 Linux 服务器上用 ark web 运行本地实例
+- 在本地桌面运行个人 AI Agent 并接入 IM 渠道对话
+- 用自有 API key 做多模型优先级路由
+- 通过定时任务与子 Agent 运行自动化工作流
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L14: Arkloop is a personal open-source project: a local-first platform for conversational AI agents. Multi-model routing
 > L55: - **Multi-Model Routing** — OpenAI, Anthropic, Gemini, and any OpenAI-compatible API; priority-based routing with y
-> L58: - **Channels** — Telegram, Discord, QQ, Feishu, and WeChat bots sharing the same agent pipeline, with scheduled hea
+> L56: - **Agent Runtime** — Built-in tools, MCP servers, and ClawHub skills; sub-agent spawning and scheduled jobs
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `3fee7a16d731` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `9f1ddddddaa7` · [字段定义](../../DATASET.md)*

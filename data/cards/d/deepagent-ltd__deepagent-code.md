@@ -2,15 +2,15 @@
 
 ⭐ 429 · TypeScript · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/deepagent-ltd/deepagent-code) · [官网](https://ai.deepagent.ltd/) · 组织维护 · 中文 README
 
-**带持久记忆与 IM 接入的 AI 编程工作区**
+**面向开发者的 AI 编码工作区：持久记忆+长任务执行**
 
-结合桌面编程工作区与终端 agent，共享执行核心：持久会话、可编辑计划、可检视的项目记忆、子代理委派与隔离 worktree、桌面托管浏览器，以及通过 /dac 命令从 IM 调用本地 agent（最终答案回到会话）。文件编辑、终端命令、LSP 导航、Skills、domain packs 与 MCP 扩展构成工具层。面向需要跨多轮、多文件长期任务的开发者；需连接模型 provider，IM 激活为单独购买（1 credit）。以 AGPL-3.0-or-later 开源，提供 GitHub Releases 安装包或 Bun 1.4.2 从源码构建。
+DeepAgent Code 结合桌面编码工作区与终端 agent，共享同一执行核心：持久化会话与可编辑目标计划、可检视的项目记忆（带来源与准入控制）、可委派子代理的隔离 worktree 协作、托管浏览器操作，以及通过公共 IM 的 /dac 命令远程驱动本地 agent。GUI 与 TUI 共享核心，支持配置多个 provider、Skills、领域包与 MCP。源码针对 2.0.5 版本，桌面端提供安装包，源码构建需固定版本的 Bun。IM 功能需单独绑定设备的授权。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 持久会话、可编辑目标与计划、执行中实时引导
-- 可检视的项目记忆，带来源与进入上下文的受控准入
-- 子代理委派、隔离 worktree 与审查边界
-- IM 中 /dac 命令调用本地 agent，答案返回原会话
+- 持久会话：输入先落盘再调度，支持中断后区分已记录与需恢复的操作
+- 可检视的项目记忆：事实/决策/技能带类型、范围与来源引用
+- 子代理委派独立任务，写权限协作使用隔离 worktree 与评审边界
+- 公共 IM /dac 命令在本地执行，附件上限 10 MiB
 
 ## 适用场景
 
-- 跨多文件、多轮的长时编程任务管理
-- 在 IM 讨论中直接把工作委派给本地 agent 并跟进
-- 保留并复用项目决策与执行证据，避免重复交代上下文
+- 跨多轮、多文件的长任务保持上下文与计划
+- 把讨论中的任务通过 IM 指派给本地 agent 并取回结果
+- 委派子代理并行处理独立的调研/实现/评审任务
 
 ## 场景标签
 
-`编码 Agent` `Agent 记忆` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L12: **DeepAgent Code (DAC)** combines a desktop coding workspace and a terminal agent with a shared execution core. It 
-> L61: DAC combines file editing, terminal commands, LSP-backed code navigation, a managed browser, and project knowledge.
+> L63: DAC combines file editing, terminal commands, LSP-backed code navigation, a managed browser, and project knowledge.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ea0699b5613a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `cff18de343a9` · [字段定义](../../DATASET.md)*

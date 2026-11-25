@@ -2,34 +2,34 @@
 
 ⭐ 322 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/tui-test) · [官网](https://tui-test.dev) · 组织维护
 
-**控制、录制与测试终端/TUI 应用的跨平台工具，供 AI agent 结构化访问终端**
+**让 AI 代理控制、录制与测试终端 TUI 应用的工具**
 
-在 Windows/Linux/macOS 上控制、检查、测试并录制真实 shell 会话与全屏终端应用的工具。以 CLI 与 Rust/Python/JavaScript/Go 库形式提供同一引擎；支持文本定位器、键鼠模拟、快照断言、SVG/PNG 截图与 APNG/GIF/MP4/asciinema 录制、失败 trace 产物（trace.md/json/timeline.json）。面向终端自动化、TUI 应用测试，以及需要结构化读取终端状态的 AI agent；agent 可通过 agent-context/skill 命令获取 JSON 命令模式与技能指南。支持 bash/fish/PowerShell 等 9 种 shell 与 Alacritty/Ghostty 等 4 种后端。
+tui-test 提供 CLI 与 Rust/Python/JavaScript/Go 四种语言库，用于控制、检查、测试并录制真实的 shell 会话与全屏终端应用，支持 Windows、Linux 和 macOS。核心能力包括生成终端端到端测试（expect/click 等断言操作）、录制视频/GIF 截图，以及向 AI 代理暴露终端状态的结构化访问；还提供 agent skill 安装方式（Vercel skills CLI 或 tui-test CLI）。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- CLI 与 Rust/Python/JavaScript/Go 四语言库共用同一引擎
-- 文本定位器（find/expect/click/highlight）支持正则、锚点与样式匹配
-- 截图与 APNG/GIF/MP4/asciinema 录制，失败时保留 trace 与自动 cast
-- agent-context/skill 命令输出 JSON 命令模式与 agent 技能指南
+- CLI 与 Rust/Python/JavaScript/Go 多语言库
+- 对终端应用执行 expect/click 断言式端到端测试
+- 录制终端视频/GIF 与 SVG 截图
+- 可作为 agent skill 安装，向 AI 代理暴露结构化终端访问
 
 ## 适用场景
 
-- 对 CLI/TUI 应用做端到端测试与快照断言
-- 让 AI agent 结构化读取并操作终端会话
-- 录制终端操作生成动画演示或失败证据
+- 为 TUI/CLI 应用编写端到端测试
+- 让 AI 代理在脚本化终端会话中执行操作
+- 录制终端操作的演示视频或 GIF
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L3: `tui-test` controls, inspects, tests, and records real shell sessions and full-screen terminal apps on Windows, Linu
-> L357: ### Agent commands
+> L7: `tui-test` controls, inspects, tests, and records real shell sessions and full-screen terminal apps on Windows, Linu
+> L32: ### Agent skill
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `abba6321768a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `410c3bff6e6c` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 332 · Kotlin · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/DevEmperor/DictateKeyboard) · [官网](https://dictatekeyboard.com) · 个人维护
 
-**Android AI 语音听写键盘：多引擎实时转文字**
+**Android AI 键盘：任意应用内语音听写与实时转写**
 
-基于 Kotlin/Jetpack Compose、构建于 FlorisBoard 之上的 Android 键盘应用，核心功能为语音听写与实时转录：支持 OpenAI Whisper、Gemini、Deepgram、Soniox、EleLabs 等云端引擎，也可下载模型在设备上离线转录；并提供 AI 改写（翻译/摘要/改语气，OpenAI、Anthropic、Gemini 等模型，可用自有 API key、自建服务器、端侧模型或预付额度）。同时是完整键盘：滑行输入、40+ 语言词典、自动纠错，另含 Wear OS、悬浮听写按钮、离线翻译、文字扫描等功能。通过 Google Play 收费分发。
+面向 Android 用户的听写键盘应用：按住麦克风说话即可在任意应用中实时生成带标点的文本，同时具备完整的打字键盘功能（滑行输入、联想词、自动纠错）。语音引擎可自选：OpenAI Whisper、Gemini、Deepgram、Soniox、ElevenLabs 等云端服务，或下载到手机本地的离线模型。支持自定义 AI 改写提示（正式化、翻译、摘要）、语音消息转写、转写历史、Wear OS 手表端，以及四种供电方式（自有 API key、自建服务器、本地模型、预付额度）并可配置回退。通过 Google Play 付费分发。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 多云端引擎（Whisper/Gemini/Deepgram/Soniox/ElevenLabs 等）+ 端侧离线模型实时转录
-- AI 改写与自定义提示词，支持 OpenAI/Anthropic/Gemini 等提供商及自有 API key
-- 完整键盘功能：滑行输入、下一词预测、40+ 语言词典与自动纠错
-- Wear OS 手表听写、悬浮按钮、离线翻译（Firefox Translations 49 语言）
+- 多引擎可选的语音听写，支持百余种语言与自动标点
+- 可下载本地模型完全离线转写（含 Whisper、Parakeet、Canary、Dolphin）
+- 自定义 AI 改写提示与社区提示库，支持语音命令式改写
+- 注册为系统级语音输入，其他键盘的麦克风键可经 Dictate 转写
 
 ## 适用场景
 
-- 在任意应用中用语音代替打字输入文字
-- 离线场景下用端侧模型做隐私保护的听写
-- 把口述内容直接翻译、摘要或改写为正式文体
+- 在任意应用里用语音替代打字输入文字
+- 无网络环境下用本地模型听写
+- 把聊天里的语音消息转成可搜索的文本
+- 对选中文本用 AI 提示做翻译、摘要或改写
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L63: **Dictate** is an easy-to-use keyboard for transcribing and dictating. The speech engine is
-> L78: There are four ways to power it, and you pick one during setup: **your own API key** with the
+> L7: A powerful AI keyboard for dictation, real-time transcription and typing — with Whisper and many
+> L53: **Dictate** is an easy-to-use keyboard for transcribing and dictating. The speech engine is
+> L68: There are four ways to power it, and you pick one during setup: **your own API key** with the
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b52db39bf215` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `11ad710898c6` · [字段定义](../../DATASET.md)*

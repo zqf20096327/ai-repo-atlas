@@ -2,9 +2,9 @@
 
 ⭐ 309 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/debug-gym) · [官网](https://aka.ms/debug-gym/) · 组织维护
 
-**供 LLM agent 交互式调试 Python 代码的文本环境框架**
+**面向 LLM agent 的文本式交互调试环境框架**
 
-微软开源的文本交互式调试框架：以 Gymnasium 范式提供仿真环境，agent 可通过 pdb、bash、view、edit、grep 等工具迭代探索代码仓库并提出补丁，环境执行测试用例返回结果；附带 LLM 后端抽象（OpenAI、Azure OpenAI、Hugging Face/vLLM、Anthropic）、示例 agent 与 swebench/aider/r2egym 等基准集成，终端后端支持 Docker 与 Kubernetes。要求 Python>=3.12，非 Linux 平台对 pdb 工具支持有限。面向构建与评测调试 agent 的开发者/科研用户。
+针对 Python 程序调试的文本式交互环境：提供 Gymnasium 范式的仿真环境，agent 通过 bash、pdb、eval、edit、grep 等工具迭代探查代码仓库并生成补丁，再由测试用例验证。内置 froggy_agent 等 LLM agent 示例，接入 OpenAI、Azure OpenAI、Hugging Face/vLLM、Anthropic 后端，支持 Docker/Kubernetes 终端与 aider、swebench 等基准集成。主要面向研究者构建与评测调试类 agent；pdb 工具仅在 Linux 可用。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- Gymnasium 范式的交互式调试环境（reset/step）
-- bash/pdb/edit/grep 等 9 类可动态加载的工具，支持 MCP 外部工具注册
-- 支持 OpenAI、Azure OpenAI、Hugging Face/vLLM、Anthropic 后端
-- Docker 与 Kubernetes 两种终端后端，内置多级超时机制
+- pdb、bash、eval、edit 等可动态导入与自定义的工具集
+- 提供 froggy_agent 等示例 agent 与 swebench-debug 定制基准
+- 支持 OpenAI/Azure OpenAI/Hugging Face(vLLM)/Anthropic 多种 LLM 后端
+- Docker 与 Kubernetes 终端后端及超时机制
 
 ## 适用场景
 
-- 构建和评测 LLM 驱动的自动调试 agent
-- 在 SWE-bench 等基准上复现调试实验
-- 开发自定义调试工具并接入 agent 动作空间
+- 构建并评测基于 LLM 的交互式调试 agent
+- 在 swebench、swesmith 等基准上运行调试任务实验
+- 通过自定义工具扩展 agent 的动作与观察空间
 
 ## 场景标签
 
-`编码 Agent` `模型评测` · 领域:编码与开发
+`编码 Agent` `模型评测` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L69: `debug_gym.gym` is a simulation environment. Given a code repository, an agent can iteratively interact with a set 
-> L73: `debug_gym.llms` are the different LLM backends that can be used to instantiate agents. Currently, we support OpenA
+> L3: `debug-gym` is a text-based interactive debugging framework, designed for debugging Python programs.
+> L74: `debug_gym.gym` is a simulation environment. Given a code repository, an agent can iteratively interact with a set 
+> L78: `debug_gym.llms` are the different LLM backends that can be used to instantiate agents. Currently, we support OpenA
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `905759026c2e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4d23691ddbe2` · [字段定义](../../DATASET.md)*

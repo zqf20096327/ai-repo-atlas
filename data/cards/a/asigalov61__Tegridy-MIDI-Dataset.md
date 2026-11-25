@@ -2,9 +2,9 @@
 
 ⭐ 303 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/asigalov61/Tegridy-MIDI-Dataset) · [官网](https://soundcloud.com/aleksandr-sigalov-61/) · 个人维护
 
-**多乐器 MIDI 数据集聚合中心，供 MIR 与音乐 AI 研究**
+**面向 MIR 与音乐 AI 的多乐器 MIDI 数据集与资源目录**
 
-由 asigalov61 维护的符号音乐资源库：自带 Tegridy MIDI Dataset、Tegridy Piano、Children Songs 等原创归一化 MIDI 集合（CC BY-NC-SA 许可），同时编目约 30 个外部 MIDI 数据集（Discover 674 万条、Godzilla 580 万条、MAESTRO、GiantMIDI、POP909 等），并汇集 FluidSynth 等软件工具、soundfonts 及 Colab AI 工具（转录、生成、humanization）。通过 git clone 获取，面向音乐信息检索与音乐 AI 模型训练场景。
+本体是一个符号音乐数据资源仓库：提供多个自建 MIDI 数据集（如 Tegridy Piano、Tegridy Children Songs 等，CC BY-NC-SA 许可），并作为目录页收录数十个外部 MIDI 数据集（Discover、Godzilla、MAESTRO、GiantMIDI、LAKH 等）的链接与说明，另整合 FluidSynth、soundfont、Colab 形式的音乐 AI 工具（audio-to-MIDI、MIDI captioning、生成等）。安装方式为 git clone。面向 MIR 研究者与音乐 AI 模型开发者。
 
 ## 筛选速览
 
@@ -20,26 +20,24 @@
 
 ## 能力要点
 
-- 原创归一化多乐器 MIDI 数据集集合（CC BY-NC-SA）
-- 编目 30+ 外部数据集，含 Discover（674 万）与 Godzilla（580 万）大规模语料
-- 覆盖 MAESTRO/POP909/ATEPP 等专门研究数据集的描述与链接
-- 汇集软件工具、soundfonts 与在线/Colab AI 工具资源
+- 自建多个多乐器/钢琴主题 MIDI 数据集，CC BY-NC-SA 许可
+- 收录 Discover（6.74M）、Godzilla（5.8M）等大规模外部数据集索引
+- 附带软件、soundfont 与 Colab 形式的音乐 AI 工具链接
 
 ## 适用场景
 
-- 为符号音乐生成或 MIR 模型寻找训练数据
-- 按任务（转录、对齐、流行/爵士/古典）挑选合适的 MIDI 数据集
-- 获取音频转 MIDI、MIDI 生成等配套 AI 工具入口
+- 为符号音乐模型训练寻找大规模 MIDI 语料
+- 做多乐器、钢琴等特定任务的 MIR 研究
+- 查找 audio-to-MIDI、MIDI captioning 等工具
 
 ## 场景标签
 
- · 领域:音乐信息检索/数据集
+ · 领域:音乐/数据集
 
 ## 证据(README 行号)
 
-> L3: ## Ultimate Multi-Instrumental MIDI Dataset for MIR and Music AI purposes
 > L17: > The Tegridy MIDI Dataset is a comprehensive, multi-instrumental symbolic music resource specifically designed for
-> L19: # Must-have MIDI datasets:
+> L23: * **Massive, Curated Datasets (e.g., Discover, Godzilla, Meta):** These are enormous collections (often millions of
 
 ## 星数曲线
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `863176eb7a35` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `016b5eff8bad` · [字段定义](../../DATASET.md)*

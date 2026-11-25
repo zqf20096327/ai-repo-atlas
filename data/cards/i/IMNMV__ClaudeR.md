@@ -2,9 +2,9 @@
 
 ⭐ 374 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/IMNMV/ClaudeR) · 个人维护
 
-**把 R/Python 会话接入 Claude Code 等 LLM agent 的 MCP 工具**
+**把 RStudio/Positron 的 R/Python 会话接入 MCP LLM agent 的桥接服务器**
 
-通过 MCP 将 Claude Code、Codex 等 LLM agent 连接到用户正在使用的 R 或 Python 会话（RStudio/Positron）：agent 在数据所在环境运行代码、查看绘图、读取对象、编辑打开的文件。支持多 agent 共享或隔离会话、协调消息、控制台日志与 41 个可配置工具；内置论文审计流程（Reviewer Zero 五遍协议）、系统综述筛选、模拟基金评审与审稿回复等科研工作流。R 包经 devtools 从 GitHub 安装，配套 Python 包发布于 PyPI。
+ClaudeR 通过 MCP 协议把 Claude Code、Codex 等 LLM agent 连接到用户正在使用的 R 会话（配套 Python 包连接 Python 会话）：agent 在用户数据与模型所在环境中运行代码、查看图表、读取环境对象、编辑打开的文件。支持多 agent 共享或隔离会话、消息板协调、后台任务与唤醒机制、批量标注任务（run_annotation_job）、手稿审计，共 41 个工具。R 包经 GitHub 安装，MCP 服务可用 uvx 零配置启动；支持 RStudio、Positron 及终端/集群 R。
 
 ## 筛选速览
 
@@ -13,28 +13,28 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- MCP 连接活动 R/Python 会话，agent 可运行代码、读对象、编辑编辑器文件
-- 多 agent 共享或并行隔离会话与协调消息机制
-- Reviewer Zero 论文审计（含内容推理 Pass 5）与数值/引用核验工具
-- 系统综述双筛选、模拟基金评审、审稿回复等科研工作流
+- 多 agent 编排：多 agent 共享一个会话分工，或并行独立会话互不干扰
+- 41 个 MCP 工具，可按组隐藏以减少每次请求的 schema 开销
+- run_annotation_job 批量标注：空文件夹/空系统提示调用，断点续跑
+- 支持 RStudio、Positron、终端 R、tmux、ssh 集群与 Rscript
 
 ## 适用场景
 
-- 在 RStudio 中让 Claude Code 直接分析我已清洗的数据与模型
-- 多个 agent（如 Codex+Claude Code）分工协作完成分析任务
-- 对论文手稿做数值、引用与内容推理的自动审计
-- 用两个不同模型家族的 AI 筛选系统综述文献并计算一致性
+- 让 Claude Code 直接在我的 R 数据和模型上做交互式分析
+- 多个 agent 分工协作同一数据项目
+- 用 CLI agent 批量标注数据行并保留原始回复记录
+- 在集群或 tmux 中无 RStudio 环境下接入 agent
 
 ## 场景标签
 
-`多智能体` `科研工具` `数据分析` · 领域:Agent 开发
+`编码 Agent` `数据分析` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0fdeb6ffc642` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ed9d2537672b` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 364 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/MattFiler/OpenCAGE) · [官网](http://opencage.co.uk) · 个人维护
 
-**《异形：隔离》开源模组工具箱：改脚本/配置/资产/行为树**
+**《异形：隔离》的开源 Mod 制作工具包**
 
-面向《Alien: Isolation》玩家与模组作者的免费开源模组工具箱，通过 Steam 下载。首次启动需定位游戏 AI.exe，之后可载入关卡、浏览并修改脚本（Composites）、编辑角色与物品配置、编辑行为树以及模型/纹理/材质等资产，支持全局或按关卡修改，并提供启动游戏与备份管理功能。工具本身不含 AI 功能，行为树编辑针对游戏 AI 逻辑的模组修改。需已购买并安装原游戏。
+OpenCAGE 是面向 Alien: Isolation 的开源 Mod 工具包，提供 3D 关卡编辑视口、CATHODE 脚本流程图编辑与运行时调试（Live Link、断点、断点步进）、动画曲线与动画树编辑、模型/材质/纹理导入导出、从零构建新关卡并生成光照/导航网格/碰撞、电影镜头拍摄，以及行为树节点级编辑（驱动异形、仿生人与人类的 AI）。通过 Steam 免费分发，需自行购买并安装游戏本体，与 Creative Assembly/SEGA 无关联。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 图形界面浏览与修改关卡脚本（Composites）逻辑
-- 行为树编辑器（基于 Brainiac Designer 库）
-- 模型/纹理/材质等资产的关卡级与全局编辑
-- 工具栏内直接启动游戏与备份管理
+- 编辑游戏内 CATHED 脚本流程图并支持 Live Link 运行时调试
+- 可节点级编辑驱动异形/仿生人/人类的行为树
+- 从零创建新关卡，Save and Build 生成光照、导航网格、碰撞与声音
+- Mod Manager 打包、安装、合并与更新 Mod
 
 ## 适用场景
 
-- 给《异形：隔离》做自定义脚本与配置修改的模组
-- 编辑游戏 AI 行为树调整敌人/角色行为
-- 替换或修改模型、纹理、材质等游戏资产
+- 为 Alien: Isolation 制作新关卡、任务或模式
+- 修改异形的行为树与游戏配置
+- 导入自定义模型和纹理制作 Mod
+- 用电影镜头工具拍摄游戏内画面
 
 ## 场景标签
 
- · 领域:游戏/模组工具
+ · 领域:游戏/Mod 工具
 
 ## 证据(README 行号)
 
-> L15: Once the toolkit has set itself up you will be prompted to load a level into the editor. After loading you can brow
-> L47:  OpenCAGE is in no way related to (or endorsed by) Creative Assembly or SEGA. Alien: Isolation must be purchased an
+> L7:  OpenCAGE is an extensive open-source modding toolkit for Alien: Isolation which unlocks the ability to fully custom
+> L117:  Edit and Create Behaviour Trees
+> L121:  OpenCAGE is a hobby project and is not affiliated with Creative Assembly, SEGA, or Feral Interactive.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 low · 依据 README sha `f2d9021542e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `28a695b26af1` · [字段定义](../../DATASET.md)*

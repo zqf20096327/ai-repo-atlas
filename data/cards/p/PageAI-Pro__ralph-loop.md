@@ -2,9 +2,9 @@
 
 ⭐ 346 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/PageAI-Pro/ralph-loop) · [官网](https://ralphloop.sh) · 组织维护
 
-**长时运行的 AI 编码 agent 循环脚本：迭代完成任务列表**
+**开发者的长时 AI agent 编码循环：按任务清单迭代至完成**
 
-Ralph 是一个可修改的 bash 循环脚本，驱动编码 agent 在 Docker Sandboxes 沙箱中反复迭代：每轮从 .agent/tasks.json 取最高优先级任务，执行任务步骤，运行测试/lint/类型检查，截图并提交，直至任务完成或达到迭代上限。默认使用 Claude Code，可通过 --agent 参数切换 codex/copilot/cursor/gemini/opencode 等 Docker Sandboxes 支持的 agent CLI。附带 prd-creator 技能从需求生成 PRD 与任务表、STEERING.md 运行中干预、promise 语义标签与退出码。默认假设前端技术栈（Playwright/Vitest/TypeScript/ESLint/Prettier），其他栈需自行改 PROMPT.md。
+一个可配置的长时 agent 循环脚本：读取 PRD 生成的任务清单，每轮选一个任务、实现、冒烟测试、运行测试/lint/类型检查并提交，直到任务完成或达到最大轮数；通过 promise 标签与退出码报告 COMPLETE/BLOCKED/DECIDE 状态。默认在 Docker Sandboxes 中运行 Claude Code，支持切换其他 agentic CLI；附带 prd-creator 等 14 个技能与 STEERING.md 中途干预机制。依赖 Node 生态与 Docker，默认面向 React/TypeScript 技术栈。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@ Ralph 是一个可修改的 bash 循环脚本，驱动编码 agent 在 Docker Sa
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 每轮迭代自动取任务、实现、测试、lint、提交的循环机制
-- 默认 Claude Code，支持 codex/copilot/cursor/gemini/opencode 六种 agent CLI
-- Docker Sandboxes 沙箱隔离运行，确定性命名便于复用
-- 运行中可通过 STEERING.md 插入优先任务，含 13 个内置技能
+- 每轮任务自动实现-测试-提交流程，最多可设 50 轮
+- 默认在 Docker Sandboxes 中运行 Claude Code，隔离执行
+- prd-creator 技能将需求转成 PRD 与任务清单
+- STEERING.md 文件支持循环运行中插入优先工作
 
 ## 适用场景
 
-- 让 AI agent 长时间自动完成拆解好的软件开发任务列表
-- 从自然语言需求生成 PRD 与任务表再交给 agent 循环执行
-- 在沙箱中无人值守跑迭代开发并保留每轮日志与截图
+- 把需求文档转成任务清单后无人值守地逐步实现
+- 让 agent 连续多轮处理带测试的大型功能拆解
+- 在沙箱里跑 agent 避免改动本机环境
+- 需要 BLOCKED/DECIDE 状态与退出码接入自动化流水线
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `0098fe469db2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `dec48a573ed0` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # unixwin/WinuxCmd
 
-⭐ 275 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/unixwin/WinuxCmd) · [官网](https://unixwin.dev/products/winuxcmd/) · 个人维护 · 中文 README
+⭐ 275 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/unixwin/WinuxCmd) · [官网](https://unixwin.dev/products/winuxcmd/) · 组织维护 · 中文 README
 
-**Windows 原生 Unix 命令行工具集：单个 3MB 二进制提供 176 个 GNU 命令**
+**为 Windows 用户提供 176 个原生 Unix 命令，单执行文件无需 WSL**
 
-以 C++23 编写的原生 Win32 可执行文件，在 Windows 上实现 176 个 Unix 命令与 1,924 个选项，覆盖 coreutils、findutils、grep、sed、BSD 工具与进程管理，grep 内置 PCRE2，find 实现 88 个选项。针对 GNU coreutils 9.7 做差分测试（178 例、93% 通过），附带 2,420 个单元测试。内置 WPM 包管理器安装 jq、ripgrep 等外部工具，配套同组织的 niubash 提供 bash 语法；`niu -c` 输出确定、退出码精确，面向 AI agent 调用设计。提供安装包、便携版与源码构建三种方式。
+一个 Win32 原生可执行文件，在 Windows 本地路径上提供 GNU 语法的 176 个命令，覆盖 coreutils、findutils、grep/sed、util-linux 等家族；无需 WSL、Cygwin 或 MSYS2。2.0 版将命令核心迁移到 Rust 静态库，与 C++ 前端链接为单一镜像；每条已接入命令通过 GNU oracle 字节级比对、ctest 基线与新旧 exe 参数矩阵三重差分门禁。提供 Default/Full 两种版本与 wpm 包管理器，README 声明体积约 3.0MB，标注 AI-friendly。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 单文件原生 Win32 二进制，176 命令 / 1,924 选项，零运行时依赖
-- 针对 GNU coreutils 9.7 的 178 例差分测试，93% 通过
-- 内置 WPM 包管理器安装 jq、ripgrep、fzf 等外部工具
-- 配套 niubash 提供 bash 语言与面向 agent 的确定性 `niu -c` 模式
+- 176 个命令以单一原生 Win32 执行文件提供，无运行时与虚拟机依赖
+- 2.0 将 50 个 applet 迁移至 Rust 核心，行为以 GNU oracle 逐字节验证
+- 流式 stdin 回调与注入式 IO，无进程级全局状态
+- 提供 winget、安装包、便携 zip 与源码构建四种获取方式
 
 ## 适用场景
 
-- 在 Windows 上直接使用 grep/sed/find 等 GNU 命令而无需 WSL/Cygwin
-- 为 AI agent 提供输出确定、退出码稳定的命令行环境
-- 用便携版随项目分发一套 Unix 工具链
+- 在 Windows 上直接使用 grep/sed/find 等 GNU 语法命令
+- 避免 WSL 的虚拟机文件系统边界与安装开销
+- 在脚本中用 GNU 行为一致的工具处理 Windows 路径
 
 ## 场景标签
 
- · 领域:系统工具/命令行
+ · 领域:开发者工具/命令行
 
 ## 证据(README 行号)
 
-> L72: - **Agent-friendly** — `niu -c` is quiet and deterministic: no banners, stable stdout/stderr, exact exit codes. The
-> L3: **Real Unix commands. Real Windows paths. One ~3 MB executable.**
+> L4: No WSL · No Cygwin · No MSYS2 · No path-translation pain
+> L27: GNU syntax on Windows paths: **176 commands**, no runtime, no VM. 2.0 moves
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `ec2f98c55e35` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4a313389d048` · [字段定义](../../DATASET.md)*

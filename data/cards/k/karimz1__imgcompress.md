@@ -1,16 +1,16 @@
 # karimz1/imgcompress
 
-⭐ 382 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/karimz1/imgcompress) · [官网](https://imgcompress.karimzouine.com) · 个人维护 · 中文 README
+⭐ 382 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/karimz1/imgcompress) · [官网](https://imgcompress.karimzouine.com) · 个人维护
 
-**自托管图像处理工具箱：70+ 格式转换、压缩与本地 AI 抠图**
+**自托管图片工具箱：本地压缩、转换格式与 AI 抠图/放大**
 
-运行于单个 Docker 容器的自托管图像处理服务，面向个人与 homelab 用户。功能包括 70+ 输入格式（PSD/HEIC/EPS/RAW 等）的批量压缩与格式转换、图片生成 PDF、逐文件裁剪（比例预设与自定义像素），以及基于内置模型的本地 AI 背景移除（CPU 运行，无需 API key）。提供浏览器 Web UI 与 CLI，镜像拉取后可完全离线运行，UI 支持 12 种语言。采用 GPL-3.0 许可。
+以单个 Docker 容器运行的自托管图片处理应用，提供 Web 界面与 CLI 两种使用方式。功能覆盖 70+ 格式的读取与转换（HEIC、PSD、SVG、EPS 等）、批量压缩、浏览器内编辑（裁剪、文字、Logo、社交尺寸预设）、图片转分页 PDF、AI 抠图与 AI 放大（最高 16K，CPU 运行）。全部处理在本地容器内完成，不上传外部服务，支持 12 种界面语言，GPL-3.0 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 支持 70+ 图像输入格式（含 PSD/HEIC/EPS/TIFF）
-- 内置模型在本地 CPU 运行 AI 背景移除，无需 API key
-- 批量压缩与多核并行处理
-- 单容器部署，拉取后可完全离线运行
+- 70+ 图片格式读取与转换，含 HEIC、PSD、SVG、EPS、PDF
+- 内置 AI 抠图与 AI 放大（General/Anime 模式，CPU 运行，无需显卡）
+- 单容器部署，Web 界面与 CLI 双入口，离线可用
+- 浏览器内图片编辑器：裁剪、精确尺寸、文字水印、社交平台尺寸预设
 
 ## 适用场景
 
-- 在不联网的环境里批量转换与压缩照片库
-- 把 HEIC/PSD 等格式转为常用格式或合并为 PDF
-- 在自有服务器上对个人或客户照片做背景移除
+- 把手机 HEIC 和设计稿 PSD 批量转成常见图片格式
+- 本地一键去除照片背景，文件不出服务器
+- 将低分辨率图片或动漫图放大到高分辨率
+- 把截图或图片批量合成 PDF 用于邮件分享
 
 ## 场景标签
 
@@ -37,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L55: ImgCompress is a **self-hosted image processing server** that runs entirely inside a single Docker container. It ha
-> L64: |**Local AI Background Removal**|Bundled model runs on your CPU. No API key, no subscription, no upload|
+> L57: ImgCompress is a **self-hosted image app in a single Docker container**, easy for everyone with no IT knowledge nee
+> L64: |**AI Background Removal**|Built in and ready to use. No account, no subscription, no upload|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `a494aaeea634` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bea4cc9cf9a3` · [字段定义](../../DATASET.md)*

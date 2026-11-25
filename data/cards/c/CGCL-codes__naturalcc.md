@@ -2,44 +2,43 @@
 
 ⭐ 320 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/CGCL-codes/naturalcc) · [官网](http://xcodemind.github.io) · 组织维护 · 中文 README
 
-**面向科研者的代码智能工具包：训练/评测代码大模型**
+**本地运行的上下文感知代码编辑 Agent，含 Web UI/CLI/VS Code 入口**
 
-基于 Fairseq 注册机制与 PyTorch 的代码智能序列建模工具包，支持训练自定义模型完成代码生成、补全、摘要、检索、克隆检测与类型推断等软件工程任务。内置 Human-Eval、CodeSearchNet、Py150 等预处理基准数据集，兼容 Transformers 并接入 Code Llama、CodeT5、CodeGen、StarCoder 等大代码模型，提供 pass@k 等评测指标与多 GPU 分布式训练（FP32/FP16）。2.0 版起从源码编译安装，需 GCC≥5.0，GPU/NCCL/CUDA 为可选推荐项。
+仓库包含两部分：code_agent 是本地运行的代码编辑 Agent，结合 NaturalCC 静态解析（C/C++ 用 libclang，Java 用 tree-sitter）与 21 个内置工具（文件读写、跑测试、Git 状态、知识图谱检索），提供 Web UI、CLI 与 VS Code 插件三种入口；ncc 为上游代码智能研究工具集（代码解析、模型训练/评估、PEFT）。Agent 模式采用事件溯源（SQLite）实现可审计可恢复，支持上下文压缩、长期记忆（人工确认后 FTS5 检索）、高风险操作人工审批与 Token/成本预算控制。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `high` | 编译与系统依赖俱全 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 支持代码生成/补全/摘要/检索/克隆检测/类型推断等任务的训练与推理
-- 内置 Human-Eval、CodeSearchNet、Py150 等基准数据集与评测（pass@k）
-- 兼容 Transformers，接入 Code Llama、CodeT5、CodeGen、StarCoder
-- NCCL + torch.distributed 多 GPU 训练，支持 FP16
+- 结合 libclang/tree-sitter 静态解析与 21 个内置工具的上下文感知 Agent
+- 事件溯源（SQLite）持久化：每步可审计可恢复，上下文自动压缩与长期记忆
+- 安全机制：人工审批、命令白名单/黑名单、敏感路径禁读、结果脱敏
+- CodeGraph 知识图谱：符号探索、调用路径、影响分析与交互式可视化
 
 ## 适用场景
 
-- 训练或微调代码理解/生成模型
-- 在标准基准上评测代码大模型表现
-- 用 Code Llama 等模型批量生成代码并导出结果
+- 在本地 workspace 用 Agent 完成代码补全、修复与漏洞检测
+- 通过知识图谱做代码符号探索与影响分析
+- 在 VS Code 内直接调用 Agent 面板编辑代码
 
 ## 场景标签
 
-`代码生成` `模型评测` `科研工具` `微调` · 领域:编码与开发
+`编码 Agent` `Agent 记忆` `知识图谱` `微调` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L22: NaturalCC is a sequence modeling toolkit designed to bridge the gap between programming and natural languages throu
-> L28: - **Support for Large Code Models:** Incorporates state-of-the-art large code models like Code Llama, CodeT5, CodeG
-> L29: - **Benchmarking and Evaluation**: Benchmarks multiple downstream tasks (including code generation and code complet
+> L7: |`code_agent/`|**开源的主角**：一个上下文感知的本地编码 Agent，提供 Web UI、CLI 和 VS Code 插件三种使用方式|📖 中文教程|
+> L26: - **上下文感知**：结合 NaturalCC 静态解析（C/C++ 用 libclang，Java 用 tree-sitter）与 21 个内置工具（读写文件、跑测试、Git 状态、知识图谱检索……），不是通用聊天机器人；
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `5be03763334d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `162f0f3112ee` · [字段定义](../../DATASET.md)*

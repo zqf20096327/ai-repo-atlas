@@ -2,9 +2,9 @@
 
 ⭐ 325 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/AleksNeStu/ai-real-estate-assistant) · [官网](https://realty.kittray.com) · 个人维护
 
-**面向购房者的 AI 对话式房产搜索与分析平台**
+**开源自托管房产问答助手：自然语言搜房+RAG+财务工具**
 
-全栈 Web 应用（FastAPI + Next.js），支持自然语言房产搜索、对话式 AI 助手、按揭/租金-购买/ROI/TCO 金融工具、AI 房产估值与多年价格预测、社区 AI 摘要、Mapbox/Leaflet 地图与 9 语言界面。检索采用 ChromaDB 混合语义+关键词搜索与 MMR 重排，查询复杂度分类器将请求路由到 RAG 或 agent+工具路径。接入 16 家 LLM 提供商（含本地 Ollama）并带自动回退链；提供 Docker/脚本/手动三种部署方式与免登录在线演示。演示模式使用模拟 AI 响应，生产部署需 API key。
+面向房产搜索场景的对话式助手：对自有房源目录建立语义索引，支持自然语言查询、混合检索（ChromaDB 语义+关键词+MMR 重排）、聊天背后的工具集（按揭、租买对比、ROI、TCO、估值与多年预测）、交互地图、9 种语言。提供三种部署方式：托管平台一键部署、自备 Docker 的 VPS、拉取 GHCR 镜像；快速安装脚本无需 API key，可用内置演示模型，接入真实模型需自行填 provider key。MIT 许可，另有付费托管版 PropVector AI 在建。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 16 家 LLM 提供商接入与自动回退链，含本地 Ollama
-- ChromaDB 混合语义+关键词搜索与 MMR 重排，查询复杂度分类路由（RAG/agent）
-- AI 房产估值与 1/3/5/10 年价格预测（含置信区间）
-- 9 语言界面与金融工具（按揭、租金-购买、ROI、TCO、CMA 报告）
+- 17 个 LLM 提供商路由与自动回退，可按请求切换
+- 混合 RAG 检索：ChromaDB + MMR 重排，查询复杂度分类路由
+- 聊天内置财务工具：按揭、租买对比、ROI、TCO、CMA、估值预测
+- 三种部署路径：托管平台 / 自托管 Docker Compose / GHCR 镜像
 
 ## 适用场景
 
-- 用自然语言查找符合条件的房源（如'克拉科夫 50 万以下两居室'）
-- 获取房产估值与多年价格预测辅助投资决策
-- 对比租房与购房成本并计算投资回报率
-- 通过 AI 聊天界面浏览房源与市场分析
+- 在自己的服务器上搭建自然语言房源搜索
+- 为房源目录提供带出处的 AI 问答与估值分析
+- 多语言房产门户中嵌入对话式助手
 
 ## 场景标签
 
-`聊天机器人` `AI 助手` `语义搜索` · 领域:对话与助手
+`聊天机器人` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L3: > **AI-powered conversational platform for property search, analytics, and market insights.**
-> L28: - 🔍 **Natural Language Property Search** — ask questions like *"2-bedroom apartment in Kraków under 500k"* and get 
-> L130: 16 LLM providers with intelligent routing — OpenAI, Anthropic, Google, Grok, DeepSeek, OpenRouter, Together AI, Fi
+> L190: |**Conversational search**|Natural-language queries with automatic filter extraction; hybrid semantic + keyword re
+> L199: 1. **Multi-provider LLM routing** — `17` providers with an automatic fallback
+> L205: 3. **A complete reference stack** — FastAPI + Next.js `16` + ChromaDB, Docker
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `12a69c28abf9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0d2c3aac5ed3` · [字段定义](../../DATASET.md)*

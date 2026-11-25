@@ -2,15 +2,15 @@
 
 ⭐ 420 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/PapilotAI/papilot) · [官网](https://papilot.ai) · 组织维护 · 中文 README
 
-**面向 PDF 的 AI LaTeX 编辑器：直接在排版页面上标注修改**
+**面向科研作者的 AI LaTeX 编辑器：在 PDF 上批注并审阅 AI 修改**
 
-跨平台（macOS/Linux/Windows）开源 LaTeX 编辑器：用户在编译后的 PDF 页面上框选句子、公式或图片并写指令，由外部 AI agent 定位并修改 .tex 源码，编辑结果以排版前后的对照 PDF 呈现，可接受、拒绝或评论。项目文件保持为本地普通文件，变更进入 Git 历史，可与合作者通过 Git 同步。支持接入 Claude、Codex、Cursor、Copilot、Grok、Kimi、GLM、DeepSeek、Qwen 等多种 agent。提供桌面安装包与 npm CLI 两种分发方式，运行需另装 Git 和 TeX Live/MacTeX。
+Papilot 是一款 Electron 桌面 LaTeX 编辑器：用户直接在 PDF 上圈选句子、公式或图并写批注，编辑器将对应源码行交给接入的 agent，修改以排版后的 before/after 形式回到 PDF 上，经 Accept/Reject/Comment 后才写入论文。支持与 Overleaf 双向实时同步（约一秒送达）、每个任务在独立 Git worktree 运行、提交记录进 Git 历史、手机/平板远程审阅，以及含 400+ 会议模板的 Papilot Universe。需要 Git、TeX 发行版和一个已登录的 agent。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 在 PDF 页面上直接标注目标（句子/公式/图），agent 查找并修改 .tex 源码
-- AI 编辑以排版前后的 PDF 对照展示，支持 Accept/Reject/Comment
-- 文件保持本地普通文件，变更落入 Git 历史，支持 agent 解决合并冲突
-- 可接入多种已有 AI agent（Claude、Codex、Cursor、Copilot、Kimi、Qwen 等）
+- 在 PDF 上圈选批注，agent 获取精确源码行
+- 每处修改以排版前后对照呈现，接受前不进入论文
+- 与 Overleaf 双向实时同步，保留合作者署名
+- 每个任务独立 Git worktree，变更记录进 Git 历史
 
 ## 适用场景
 
-- 写论文/学位论文时直接在成品页面上提出修改，不手写 LaTeX
-- 审查 AI 对 LaTeX 源码的改动，直接看排版效果而非源码 diff
-- 与合作者通过 Git 协作维护 LaTeX 项目
+- 与 Overleaf 合作者并行写作时让 agent 修改论文并逐条审阅
+- 在 PDF 上直接圈点公式、图和句子提出修改意见
+- 从论文、期刊、会议模板库快速创建新论文项目
+- 通过手机或平板远程审阅并接受论文修改
 
 ## 场景标签
 
-`AI 写作` `代码审查` · 领域:编码与开发
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L17:  Papilot shows an AI edit as a typeset before-and-after on the PDF, with Accept, Reject and Comment.
-> L33: Mark a sentence, an equation or a figure, and write a note.
-> L44:  &nbsp;**Free and open source.** MIT licensed, for macOS, Linux and Windows.
+> L1: PapilotPapilot **Next-Generation AI LaTeX Editor**
+> L27: Select a sentence, or box an equation or a figure, and write what should change. Your agent gets the exact source l
+> L66:  Papilot Writer, Codex, Claude, Cursor, GitHub Copilot, Grok, Antigravity, Kimi, GLM, DeepSeek, Qwen, OpenCode, Qod
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `ed923735b365` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2ae575a117f0` · [字段定义](../../DATASET.md)*

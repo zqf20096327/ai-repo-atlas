@@ -2,9 +2,9 @@
 
 ⭐ 287 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/huggingface/open_asr_leaderboard) · 组织维护
 
-**语音识别（ASR）模型评测排行榜：多数据集比较模型准确率**
+**面向研究者与开发者的开源 ASR 模型精度排行榜及其评测代码**
 
-由 Hugging Face 维护的开源 ASR 排行榜代码库，以 Gradio Space 形式托管，用于在多套公开基准（英文短音频、长音频、多语种、分块会议级参考）上比较 ASR 模型的 WER 等指标。评测通过 HF Jobs 在固定硬件（H200）上以 Docker 镜像运行以保证可复现性；每类模型家族有独立 Docker 镜像与 run_eval.py 入口，也可本地评测。另提供 RTFx-WER 权衡图脚本与基准过拟合检测脚本。提交模型由维护者在私有测试集上评测。
+该仓库包含 Open ASR Leaderboard 的代码，以 Gradio Space 形式托管在 Hugging Face 上，用于比较 ASR 模型在多数据集上的准确率。评测覆盖英语短音频、长音频与多语言基准（中文按 CER 计分），通过 HF Jobs 在统一 Docker 镜像与固定硬件上运行以保证可复现性；每个模型族有各自的 Docker 镜像、run_eval.py 入口与提交脚本，输出 JSONL 预测与 WER/RTFx 指标。还提供基准拟合检测脚本与 WER-RTFx 权衡图。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 覆盖英文短音频/长音频/多语种/分块会议级等多套公开基准
-- HF Jobs 固定硬件 + Docker 镜像运行，保证评测可复现
-- 每类模型家族独立 run_eval.py 入口，输出 JSONL 预测与 WER/RTFx
-- 提供 RTFx vs WER 权衡图与基准过拟合检测脚本
+- 覆盖英语短音频、长音频与多语言（含中文 CER）三套基准
+- HF Jobs 统一 Docker 镜像与硬件保证评测可复现
+- 按模型族提供 run_eval.py 与 submit_jobs 脚本，输出 WER 与 RTFx
+- 提供 benchmark_fitting 脚本检测模型对测试集的过拟合
 
 ## 适用场景
 
-- 对比各 ASR 模型在我关心的数据集上的 WER 表现
-- 提交自己的 ASR 模型参与标准化评测
-- 在本地复现或预跑评测后再提交排行榜
+- 为项目选型 ASR 模型时对比各模型的 WER/RTFx
+- 以可复现流程自行评测并提交新的 ASR 模型
+- 检测候选模型是否对基准测试集过拟合
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: This repository contains the code for the Open ASR Leaderboard. The leaderboard is a Gradio Space that allows users 
-> L24: # Evaluate a model (as of 24 July 2026)
+> L26: English short-form, English long-form, and multilingual evaluations use Hugging Face Jobs to guarantee reproducibil
+> L77: Each model family has a `run_eval.py` entry point, launched on HF Jobs by a `submit_jobs*.sh` script (e.g. `transfo
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `eaf331d2394b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e676fb3c647d` · [字段定义](../../DATASET.md)*

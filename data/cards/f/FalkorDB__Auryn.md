@@ -2,9 +2,9 @@
 
 ⭐ 397 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FalkorDB/Auryn) · [官网](https://falkordb.com/products/codegraph-auryn) · 组织维护
 
-**把代码库转为可查询代码图，供编码 agent 经 MCP 遍历**
+**把代码库构建为 FalkorDB 代码图谱供编码代理查询**
 
-Auryn 将代码库解析为存于 FalkorDB 的代码图，节点与边覆盖函数、类型、表、端点及其 CALLS/EXTENDS 等关系，支持 16 种语言及 SQL/Oracle 模式自动检测。编码 agent 通过 MCP 调用其工具集（locate、who_calls、impact_of、find_path 等）做只读查询，回答附文件与行号引用。提供嵌入式 FalkorDB 免服务启动、增量重同步与本地查看器，可接入 Claude Code、Cursor 等多种 agent。
+Auryn 将代码库解析为存于 FalkorDB 的代码图谱（函数、类型、表、端点及 CALLS/EXTENDS/READS/WRITES/DEPENDS_ON 等边），编码代理通过 MCP 工具查询：定位符号、N 跳调用方、影响范围、入口点闭包、路径查询与语义搜索，回答带 file:line 引用。支持 16 种语言加 SQL/Oracle 活库，提交后增量重同步仅重析变更文件，跨仓库引用自动链接。本地解析运行，需 Python ≥3.12，提供嵌入式 FalkorDB 或远程后端两种方式。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Auryn 将代码库解析为存于 FalkorDB 的代码图，节点与边覆盖函�
 
 ## 能力要点
 
-- 16 种语言 + SQL/Oracle 模式单次自动检测解析
-- MCP 只读工具集：调用链、影响面、路径追踪、语义搜索
-- 嵌入式 FalkorDB，零基础设施 quickstart，图持久化复用
-- 增量重同步，commit 后仅重解析变更文件
+- 解析 16 种语言加 SQL，生成存于 FalkorDB 的代码图谱
+- 通过 MCP 提供状态、索引、定位、调用方、影响范围、Cypher 查询等 10 余个工具
+- 增量重同步仅重析变更文件及受影响代码
+- 跨仓库引用在对方仓库入库后自动链接
 
 ## 适用场景
 
-- 让编码 agent 回答调用关系与改动影响面并附行号引用
-- 跨语言追踪一条请求从前端到数据库的路径
-- 本地为代码库建立可查询知识图避免全库扫描
+- 让编码代理回答'谁调用了这个函数/这次改动影响哪些端点'类结构问题
+- 跨仓库、跨语言追踪一次请求从 UI 到数据库的完整链路
+- 提交后增量刷新图谱，保持查询结果与代码同步
 
 ## 场景标签
 
-`知识图谱` · 领域:知识与检索
+`编码 Agent` `知识图谱` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L5: Auryn turns any codebase into a queryable codegraph in FalkorDB.
-> L6: Your agent traverses it over MCP and answers from real structure, with file and line citations, instead of grepping 
-> L35:     A -- MCP tools --> M[Auryn]
+> L37:     A -- MCP tools --> M[Auryn]
+> L42: 1. **Parse.** Auryn reads every file and builds a codegraph of functions, types, tables and endpoints, plus the edg
+> L17: **Claude Code** &nbsp;·&nbsp; **Codex** &nbsp;·&nbsp; **Cursor** &nbsp;·&nbsp; **Windsurf** &nbsp;·&nbsp; **GitHub 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `385a8a9be426` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0b95815b4674` · [字段定义](../../DATASET.md)*

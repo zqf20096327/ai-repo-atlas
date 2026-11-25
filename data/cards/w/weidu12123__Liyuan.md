@@ -2,9 +2,9 @@
 
 ⭐ 299 · TypeScript · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/weidu12123/Liyuan) · 个人维护 · 中文 README
 
-**面向角色扮演用户的 RP Agent 应用，将编码 agent 机制引入叙事**
+**基于 pi 的 AI 角色扮演 Agent 应用：用编码 Agent 原语做 RP 前端**
 
-基于 pi agent 框架构建的 AI 角色扮演应用，供终端用户进行沉浸式故事创作。核心机制把编码 agent 原语映射到 RP 场景：每张角色卡为独立工作区，支持按需世界观检索、叙事压缩、状态账本防设定漂移、跨会话记忆与物理遗忘、非破坏性剧情分支回滚。兼容 Tavern 角色卡 V2/V3 格式，数据以纯文本 JSON/Markdown 本地存储。要求 Node.js ≥ 22 与任意 OpenAI 兼容 API key，提供脚本与 Docker Compose 两种部署方式，采用 PolyForm Noncommercial 许可，商业使用需作者授权。
+以 RP Agent 为主体的角色扮演应用，把编码 Agent 原语映射为 RP 机制：角色卡即独立工作区、定向文本修订、lorebook 按需检索、故事分支回滚、叙事压缩、跨会话卡片记忆、决策卡交互。支持 Tavern/Character Card V2/V3 格式互通，数据以 JSON/Markdown 明文本地存储。需 Node.js ≥22 与 OpenAI 兼容 API key，本地脚本启动或 Docker 部署，端口默认无鉴权。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 每张角色卡为独立可移植工作区（会话/状态/记忆自包含）
-- 叙事压缩、按需 lorebook 检索与状态账本防设定漂移
-- 跨会话卡级记忆与删除会话触发物理遗忘
-- 兼容 Tavern 角色卡 V2/V3、lorebook 与聊天记录格式
+- 编码 Agent 原语映射为 RP 机制（工作区/补丁/检索/回滚/压缩）
+- 实时状态台账与角色花名册，防止设定漂移
+- 卡片级跨会话记忆与物理遗忘机制
+- 兼容 Tavern / Character Card V2 & V3 格式与 lorebook
 
 ## 适用场景
 
-- 进行长篇角色扮演且需要设定一致性与记忆管理
-- 与 AI 共同创作和调试角色卡
-- 在不同机器间迁移角色卡与剧情进度
+- 长篇角色扮演中管理多角色设定与状态一致性
+- 复制角色卡文件夹在不同机器间迁移会话与记忆
+- 自建角色卡并使用自定义前端脚本共创剧情
 
 ## 场景标签
 
-`聊天机器人` `AI 写作` · 领域:对话与助手
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b070e4167d23` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `92cb65c5a20c` · [字段定义](../../DATASET.md)*

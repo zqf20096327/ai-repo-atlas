@@ -2,9 +2,9 @@
 
 ⭐ 417 · JavaScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/chadbyte/clay) · 个人维护
 
-**自托管工作区：人与多个编码 agent 跨项目协作**
+**自托管工作区：人与编码 Agent 跨项目协作**
 
-Clay Studio 是运行在本机的自托管工作区：通过浏览器统一管理并运行多个本地编码 agent CLI（Claude Code、Codex、Grok Build、Kimi Code、GitHub Copilot CLI、Qwen Code 等），支持多人进入同一会话、实时协同、交接与权限响应；提供持久化 Mates（带身份/指令/记忆的 AI 协作者）、跨提供商的 YOKE 会话接口、git worktree 并行任务、PWA 移动端与 MCP 连接。会话与知识以 JSONL/Markdown 存储在本地磁盘。需 Node.js 20+ 且至少安装一个受支持的编码 agent CLI。
+Clay Studio 是一个自托管的浏览器工作区，把本地安装的多个编码 Agent CLI（Claude Code、Codex、Kimi Code 等 10 种）纳入同一团队空间。核心机制：守护进程在本机运行并经浏览器提供工作区，YOKE 层为不同 Agent 提供统一会话接口并跨厂商携带项目指令文件；支持共享项目、实时协作会话、持久化 AI 协作者（含记忆与角色）、git worktree 并行任务、移动端 PWA 与推送通知。数据以 JSONL/Markdown 存于本地磁盘，不经厂商中继。要求 Node.js 20+ 与至少一个已认证的 Agent CLI。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Clay Studio 是运行在本机的自托管工作区：通过浏览器统一管�
 
 ## 能力要点
 
-- 统一浏览器工作区运行 10 种编码 agent CLI
-- 持久化 Mates：带身份、指令、知识与记忆的 AI 协作者
-- YOLO/YOKE 跨提供商会话接口与项目指令延续
-- 本地 daemon 架构，会话以 JSONL/Markdown 可移植存储
+- 一个浏览器工作区运行 10 种编码 Agent，自动检测本地已装运行时
+- YOKE 提供跨厂商统一会话接口与项目指令文件携带
+- 持久化 Mates：身份、指令、知识、记忆与结构化辩论角色
+- 数据以 JSONL/Markdown 存于本地磁盘，流量不经云端中继
 
 ## 适用场景
 
-- 在同一界面并行运行多个编码 agent 处理多个仓库
-- 团队共享会话、实时协同与交接编码任务
-- 在自有基础设施上管理 agent 会话而不依赖第三方云
+- 多人围绕同一会话协作并响应 Agent 的权限请求
+- 在手机上接收任务完成/失败通知并远程处理审批
+- 用 git worktree 与定时任务并行管理多仓库工作
 
 ## 场景标签
 
-`编码 Agent` `多智能体` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L6:  A self-hosted workspace where people and coding agents work together
-> L45: **Claude Code · Codex · Grok Build · Kimi Code · GitHub Copilot CLI · Qwen Code · Junie CLI · Antigravity CLI · Ope
-> L63: Browser → Clay Studio daemon → selected coding-agent runtime → model provider
+> L14: Clay Studio turns local coding agents into a shared, persistent team. Run different agents from one browser workspa
+> L41: ## Supported coding agents
+> L53: - **Cross-provider continuity.** YOKE gives supported coding agents a common session interface and carries project 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `82008bd288c1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fe309db95172` · [字段定义](../../DATASET.md)*

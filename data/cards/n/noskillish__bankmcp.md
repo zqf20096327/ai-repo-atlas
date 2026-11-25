@@ -4,7 +4,7 @@
 
 **自托管只读 MCP 服务器：让 AI 助手读取你的银行账户**
 
-单用户、只读的开源 MCP 服务器（npm 包 bankmcp），通过 Enable Banking 的 PSD2 API 连接 2,700+ 欧洲银行，把账户余额与交易以 MCP 工具形式暴露给 Claude、ChatGPT、Cursor、Ollama 等客户端。支持本机运行或 Docker/Railway/Fly.io/Render 部署，内含 OAuth 2.1 授权服务器、账户标签、后台余额/交易监控（watches，每日最多 4 次轮询）与 webhook 通知。限制：银行数据链路必经 Enable Banking 服务器；本地小模型（8B）实测不可靠。
+开源 Node.js 服务器（npm 包 bankmcp），通过 Enable Banking 的 PSD2 API 连接 2,700+ 家欧洲银行，将余额与交易以 MCP 连接器形式暴露给任意 MCP 客户端。只读设计，无支付功能，不存储交易数据，不发遥测。支持本机 stdio 模式（Claude Desktop/Code、Cursor）与服务器部署（Railway/Fly.io/Render/Docker），内置 OAuth 2.1 单用户授权、余额/交易监控规则与 webhook 通知，另附 Claude Code 插件市场与本地 Ollama 桥接（实验性）。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 只读银行工具集：余额、交易、账户标签、监控规则
-- Enable Banking 聚合 2,700+ 欧洲银行（PSD2）
-- 单用户 OAuth 2.1 授权服务器，tokens 哈希存储，锁定机制
-- npm run chat 将 Ollama 本地模型桥接到同一工具集（experimental）
+- 只读工具集：余额、交易、月度汇总、跨账户交易搜索
+- 服务器端监控规则（Watches），每日最多四次轮询，webhook 通知
+- 完整 OAuth 2.1 单用户授权服务器，令牌哈希存储
+- 提供 Claude Code 插件（安装/部署/数据分析技能）
 
 ## 适用场景
 
-- 在 Claude/ChatGPT/Cursor 里直接问自己的账户余额与支出
-- 设置余额阈值或特定交易的监控并接收 Slack/webhook 通知
-- 本地 Ollama 模型查询银行数据，避免交易数据经 AI 厂商
-- 订阅审计、月度汇总、预算等预设 prompts
+- 用自然语言查询各银行账户余额与交易
+- 审计每月订阅费用与异常支出
+- 余额低于阈值时收到 webhook 通知
+- 向第三方出具 IBAN 归属证明（默认关闭）
 
 ## 场景标签
 
- · 领域:个人财务/开放银行工具
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L6: (npm package `bankmcp`). It connects to your banks
-> L18: Your assistant ──OAuth──▶ your BankMCP™ server ──JWT──▶ Enable Banking ──PSD2──▶ your bank
-> L21: - **Your assistant** (Claude, ChatGPT, Cursor, or any MCP client) talks to
+> L5: BankMCP™ is not a bank. It is a small open-source server you host yourself
+> L8: European banks in one PSD2 API, and exposes them to any MCP client as a
+> L257: The server does not care which model asks. `npm run chat` bridges an
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bfa7cd0be782` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2b1afcba657b` · [字段定义](../../DATASET.md)*

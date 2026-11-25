@@ -2,9 +2,9 @@
 
 ⭐ 322 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/zenml-io/kitaru) · [官网](https://kitaru.ai) · 组织维护
 
-**给 AI agent 开发者的回放式评测工具：录制生产运行并重放验证变更**
+**Agent 评测洞察工具：从 trace 中发现模式并回放验证修复**
 
-Kitaru 是面向 AI agent 团队的回放式评测系统：将 agent 运行录制或从 Langfuse、LangSmith、Braintrust、Logfire、Arize Phoenix、MLflow 导入为 session，通过重放（工具调用由录制应答）在更换模型/提示词/代码后对比改进与回归。评测引入人工判断校准评估器，cohort 冻结样本后在发布前实验。提供 Python/TypeScript SDK 与 6 个框架适配器（PydanticAI、LangGraph、OpenAI Agents SDK、Claude Agent SDK、Mastra、Vercel AI SDK），通过 MCP server 与技能接入 Claude Code、Codex、Cursor、Windsurf 等编码助手。自托管设计：服务器跑在自有基础设施（含 Docker 镜像与 Helm chart），回放运行在用户环境的 worker 上。由 ZenML 团队维护，Apache 2.0；本地服务器免费，托管云为 14 天试用。
+面向 agent 开发者的评测与可观测性工具：导入已有的 trace（Langfuse、LangSmith、Braintrust、Logfire、Arize Phoenix、MLflow 等）或用 adapter 录制新运行，内置分析器跨全部会话找出失败模式；发现的问题可固化为 evaluator 形成回归检查，修改后对失败会话进行回放对比实验。提供 Python 与 TypeScript SDK、MCP server 与 coding-agent skills，本地自托管（Docker/Helm）或托管云两种服务端。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Kitaru 是面向 AI agent 团队的回放式评测系统：将 agent 运行录�
 
 ## 能力要点
 
-- 回放重执行 agent 代码，工具调用由录制应答，不产生真实副作用
-- 从 6 种 trace 平台导入历史运行，trace 存储仍是系统记录源
-- 人工判断校准评估器，cohort 冻结样本后做发布前实验
-- MCP server + agent skills 接入 Claude Code/Codex/Cursor/Windsurf
+- 从既有 trace 存储导入或 adapter 录制，trace 存储保持为系统记录
+- 内置确定性分析器无需模型或 API key
+- insight→check→replay 四步闭环，回放时工具调用从录制应答
+- 为 Claude Code/Codex/Cursor/Windsurf 安装 skills 并注册 MCP server
 
 ## 适用场景
 
-- 换了模型或提示词后，用生产回放验证 agent 是否回归再上线
-- 把已积累的 Langfuse/LangSmith trace 变成可运行的回归测试套件
-- 让编码助手驱动调研-访谈-实验-报告的评测循环
+- 上万条生产 agent 会话中找出反复出现的失败模式
+- 修改 prompt 或换模型前，先对历史失败会话做回放验证
+- 构建 agent 回归套件并在 CI 中门禁
+- 团队自托管评测基础设施，trace 不离开内部系统
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+`LLM 可观测性` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L7:  Kitaru (来る, "to arrive") gives you replay-based evals for AI agents. Record or import production runs as sessions, 
-> L30: - **Replay re-executes your code.** Your real agent runs again, with tool calls answered from the recording, so no 
-> L31: - **Evaluation starts with human judgment.** Your coding assistant reviews the sessions that matter, interviews you
+> L5:  Insights from your agent's traces.
+> L29: - **Bring your traces.** Import the traces you already collect from Langfuse, LangSmith, Braintrust, Logfire, Arize
+> L114: One server runs on your infrastructure, with Docker image and Helm chart included, and no user code executes on it
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0a40f3adb5b1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `256214caef49` · [字段定义](../../DATASET.md)*

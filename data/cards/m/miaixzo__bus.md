@@ -2,9 +2,9 @@
 
 ⭐ 803 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/miaixzo/bus) · [官网](https://miaixz.org) · 个人维护 · 中文 README
 
-**给 Java 开发者的轻量级企业应用/服务框架与中间件套件**
+**Java 企业级应用/服务总线框架，提供全套业务组件与中间件**
 
-基于 Java 17+ 的企业级应用/服务框架，以 Maven/Gradle 依赖形式提供 30 余个模块，覆盖认证、缓存、限流、日志、支付聚合、对象存储、分布式任务调度、MyBatis 增强与响应式网关等。其中 AI 相关能力包括 bus-cortex（API/MCP/Prompt 统一注册与配置中心）与 bus-metrics 的 LLM 可观测性支持，另有封装 OpenCV 的图像模块。提供 3.x/5.x/6.x/8.x 多版本按 JDK 选择，bus-tracer 尚在开发中。
+基于 Java 17+（8.x 编译于 Java 21）的企业级应用/服务框架与组件套件，覆盖统一认证（OIDC/OAuth2/SAML）、分布式缓存、加密、限流、任务调度、API 网关、对象存储、支付聚合、OCR 图像处理、OpenCV 封装等 30+ 模块；其中 bus-cortex 提供 API/MCP/Prompt 的注册与配置中心，bus-metrics 含 LLM 可观测性。通过 Maven/Gradle 依赖或 Maven Central 下载 JAR 使用，支持 GraalVM 相关元数据配置。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 30+ 模块化组件：认证/缓存/限流/支付/存储/任务调度等
-- bus-cortex 提供 API/MCP/Prompt 统一注册与健康探测
-- bus-metrics 支持 LLM 可观测性与 SLO 跟踪
-- 多 JDK 版本线（Java 8/17/21）按需选择
+- 30+ 模块：认证、缓存、限流、网关、支付、调度、存储等标准化套件
+- bus-cortex 统一注册 API/MCP/Prompt 条目，含健康探测与空间隔离
+- bus-opencv 封装 OpenCV 提供图像识别/人脸检测/视频分析
+- bus-auth 集成 15+ 第三方登录平台，支持 OIDC/OAuth2/SAML
 
 ## 适用场景
 
-- Java 微服务项目按需引入中间件能力，减少重复代码
-- 统一管理 API/MCP/Prompt 注册与配置
-- 接入支付、对象存储、通知等多渠道服务
+- 快速搭建分布式微服务架构的企业业务系统
+- 统一管理 API/MCP/Prompt 入口的注册与配置
+- Java 项目中集成支付、缓存、限流、对象存储等通用能力
 
 ## 场景标签
 
- · 领域:企业级 Java 中间件/微服务框架
+ · 领域:企业应用开发/Java 基础框架
 
 ## 证据(README 行号)
 
 > L24: Bus (Enterprise Application/Service Bus) is a foundational framework and service suite; a lightweight enterprise-le
 > L54: |[√]|bus-cortex|Unified registry and configuration center for API/MCP/Prompt entries, with health probing and space
-> L64: |[√]|bus-metrics|Production-grade metrics framework, supporting cardinality guard/EWMA rates/SLO tracking/LLM obser
+> L68: |[√]|bus-opencv|Computer vision library, wrapping OpenCV to provide image recognition/face detection/video analysis
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `e90a56d8813e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `7505907104dc` · [字段定义](../../DATASET.md)*

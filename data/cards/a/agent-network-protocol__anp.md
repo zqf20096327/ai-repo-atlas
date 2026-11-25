@@ -2,9 +2,9 @@
 
 ⭐ 359 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/agent-network-protocol/anp) · [官网](https://agent-network-protocol.com/) · 组织维护 · 中文 README
 
-**Agent Network Protocol (ANP) 多语言 SDK，实现智能体互联互信与通信**
+**为智能体提供互联通信能力的多语言协议 SDK**
 
-ANP 协议的多语言 SDK 与参考实现仓库，覆盖身份、发现、调用、验证与加密通信：DID WBA 去中心化身份与 HTTP 消息签名认证、Agent Description 与 OpenRPC/JSON-RPC 接口发布、W3C Data Integrity 证明、WNS 人类可读句柄解析、端到端加密（直连 P5 与群组 MLS P6）及 AP2 支付协议。Python 提供快速构建智能体的 OpenANP，另含 Go/Rust/Dart/TypeScript/Java SDK，Java 仅可从本地 Maven 构建使用。
+AgentConnect 是 Agent Network Protocol（ANP）的多语言 SDK 与参考实现，覆盖 Python、Go、Rust、Dart、TypeScript、Java。它让 agent 之间完成身份识别（DID WBA）、发布可发现接口（Agent Description/OpenRPC）、经 JSON-RPC 互调、附加可验证证明、解析可读句柄（WNS）以及端到端加密通信。面向构建 agent 互联应用的开发者；Java 版为本地 Maven 构建，LLM 协商示例需 .env 配置 LLM provider。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@ ANP 协议的多语言 SDK 与参考实现仓库，覆盖身份、发现、调�
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- DID WBA 身份、签名认证与验证工具
-- OpenANP 从 Python 类型提示生成可发现的 OpenRPC/JSON-RPC 接口
-- W3C Data Integrity 证明与 WNS 句柄解析绑定
-- 直连与群组（MLS）端到端加密构件及跨语言互操作测试向量
+- DID WBA 身份认证与 W3C Data Integrity 证明体系
+- OpenANP 将 Python 方法自动生成 ad.json、OpenRPC 接口与 JSON-RPC 端点
+- Direct/Group E2EE（HPKE/MLS）加密通信模块
+- AP2 支付协议 mandate 模型与 WNS 句柄解析
 
 ## 适用场景
 
-- 快速构建可被其他智能体发现和调用的 ANP 智能体
-- 为 HTTP 服务添加 DID WBA 认证
-- 跨语言实现智能体间的身份验证、接口发现与加密通信
+- 让多个 agent 互相发现接口并通过标准 RPC 调用
+- 为 HTTP 服务添加 DID WBA 去中心化身份认证
+- 实现 agent 间端到端加密私聊与群聊
+- 探索 agent 间支付授权流程（AP2）
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: AgentConnect is the multi-language SDK and reference implementation for the Agent Network Protocol (ANP). It helps a
-> L23: - **Python agent SDK**: OpenANP for quickly building and calling ANP agents, plus authentication, proof, WNS, AP2, 
-> L180: |anp/|Python package: OpenANP, authentication, proof, WNS, AP2, crawler, E2EE, and meta-protocol modules.|
+> L15: ANP is a protocol stack for an open network of interoperable agents. In practice, it answers these questions:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f8bb4f544e89` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `39472c1f4c96` · [字段定义](../../DATASET.md)*

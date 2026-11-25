@@ -2,9 +2,9 @@
 
 ⭐ 316 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MicTx/spec-harness) · 个人维护 · 中文 README
 
-**面向 AI 编程智能体的任务包工作流工具，含 Git 门禁与验证链**
+**给 AI 编程智能体的任务包工作流工具：可验证交付**
 
-Spec Harness 为 AI 编程智能体提供跨会话的任务包工作流：在目标项目的 .spec/ 目录保存 spec.md 与 tasks.md，形成“目标→范围→任务→验证→归档→提交→推送”的可验证链；每个任务声明 boundary 与 verify，verify 命令由 spec_verify.py 真实执行并记录到 runs.jsonl 作为证据。提供 autoplan 交互式规划与 autorun 可恢复自动链，支持会话边界交接（handoff.md）。以本地 Skill 形式安装到 17 种 agent 宿主（Claude Code、Codex、Gemini CLI、Cursor 等），需 Python 3.9+、Bash 与 tmux≥3.2（仅 fresh CLI 会话）。不提供模型、不运营托管服务；许可为 PolyForm Noncommercial，商业使用需书面授权。
+以两相任务包（spec.md/tasks.md）组织 AI 编程智能体的改动流程：规划期用宪章与机器 lint 消除未知并生成可判定字段，Go 之后按任务 DAG 自动推进、验证并做检查点提交。交付前运行门禁，要求每条 Criteria 有真实操作证据，命中 UI 的包须保存操作流程与截图；提供 /spec 系列命令与 purge、doctor、push 等 Git 门禁操作。通过 install.sh 安装到多种智能体宿主（Claude Code、Codex、Cursor 等），需 Python 3.9+、Git、Bash。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@ Spec Harness 为 AI 编程智能体提供跨会话的任务包工作流：在目
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 任务包保存为 .spec/specs/ 下的 spec.md 与 tasks.md，换会话可恢复
-- verify 命令真实执行并将 exit/耗时/工作树指纹追加到 runs.jsonl 作为证据
-- 支持 17 种 agent 宿主的 Skill 安装（Claude Code、Codex、Gemini、Cursor、Devin 等）
-- autoplan 交互式规划与 autorun 可恢复自动链，默认最多 5 个已接纳轮次
+- 任务包生命周期：规划、执行、验证、检查点提交到交付归档
+- 交付门禁校验证据：证据缺失、陈旧或未闭合时不能交付
+- UI 路径要求真实操作流程与截图回写 ui-review.json
+- 安装器支持多种智能体宿主并提供国内镜像更新
 
 ## 适用场景
 
-- 用 AI 智能体做长期、跨会话的工程改动并保留可审计记录
-- 多人或 agent 协作时通过 handoff.md 交接会话边界
-- 在提交前用 verify 证据链门禁核验任务真实完成
+- 用带门禁的流程约束 AI 编程智能体完成长期改动
+- 管理需要证据留痕的规格驱动开发任务包
+- 在多个智能体宿主间统一工作流与升级
 
 ## 场景标签
 
@@ -37,9 +37,9 @@ Spec Harness 为 AI 编程智能体提供跨会话的任务包工作流：在目
 
 ## 证据(README 行号)
 
-> L3: 面向 AI 编程智能体的任务包工作流工具，用可验证的范围、证据和 Git 门禁管理长期改动。
-> L12: Spec Harness 把跨会话、跨测试轮次的工程任务保存为可恢复的 Development Record。它提供任务包、路由、验证、归档和 Git 收尾，不提供模型，也不替用户做产品决策。
-> L246: Spec Harness 提供任务包、工作流指令、模板、验证脚本和可选的 self-hosted server-mode 适配器。它不运营托管服务、不提供模型、不替用户做产品决策，也不负责 PR 创建或远程 CI 编排。
+> L3: 面向 AI 编程智能体的两相任务包工作流：规划期做厚，执行期不问用户，直到可核对地交付。
+> L9: 一个包只包含 `.spec/specs/YYYY-MM-DD_slug/` 下的 `spec.md` 与 `tasks.md`；`runs.jsonl` 和 `state.json` 由 harness 写入。规划期用宪章与机器 l
+> L25: |宿主|`INSTALL_HOSTS`|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-02 · 置信度 high · 依据 README sha `c978373faded` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `6630c4c33678` · [字段定义](../../DATASET.md)*

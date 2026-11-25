@@ -2,9 +2,9 @@
 
 ⭐ 289 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/codersauce/red) · [官网](https://rededitor.app) · 个人维护
 
-**Rust 编写的 Vim 风格终端编辑器，可接入 Codex 编码代理**
+**Vim 风格终端代码编辑器：让 Codex agent 在编辑器内工作**
 
-单文件 Rust 二进制的终端模态编辑器，提供 Vim 模式/操作符、Tree-sitter 高亮、内置多语言 LSP 默认配置、Git 工作区（含 Codex 生成的提交信息）、主题与插件系统（Husk 语言）、可分离会话与崩溃恢复。代理功能可选：需安装并登录 Codex CLI（0.144.1+），代理经编辑器事务读写文件，另有针对选中代码的内联审查/解释/重构。当前为 pre-1.0 早期版本。
+用 Rust 编写的终端模态编辑器，单个自包含二进制，开箱即用无需配置。编辑部分提供 Vim 模式/动作/操作符兼容、Tree-sitter 语法高亮、LSP 支持、模糊文件搜索、Git 工作区、插件与主题系统、可分离会话与崩溃恢复。AI 部分为可选功能：需安装并登录 Codex CLI（0.144.1+），agent 通过编辑器事务读写文件，支持带编辑器上下文的 Agent 工作区与针对选区/函数的内联审查、解释、重构，内联编辑以未保存、可撤销的事务形式呈现。安装覆盖 Homebrew、Nix、Scoop、DEB/RPM 及安装脚本，支持自动更新。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Codex 代理通过编辑器受限工具读写文件，编辑归属会话并经保存路径落盘
-- 内联辅助：对选区或包含函数进行审查/解释/重构，改动未保存且可撤销
-- 单二进制内嵌默认配置、主题与插件，开箱无需配置
-- macOS/Linux 可分离会话保留 buffers、LSP 状态与运行中的代理
+- Vim 模态编辑兼容契约（versioned behavior contract）+ Tree-sitter 高亮与内置 LSP 默认配置
+- Codex agent 仅通过编辑器工具读写文件，编辑经过事务与保存路径并落盘
+- 内联辅助（Space i）针对选区或封闭函数，改动为未保存可撤销事务
+- 原生 Git 工作区（暂存/提交/分支/rebase）与 macOS/Linux 可分离会话
 
 ## 适用场景
 
-- 习惯 Vim 操作的开发者在终端完成编辑与代码导航
-- 让 Codex 代理在编辑器内读写文件并保持变更可审查
-- 在终端内完成 Git 暂存、提交、分支与变基等操作
+- 在终端里用 Vim 操作习惯编辑代码并获得 LSP/语法高亮
+- 让 Codex agent 基于打开缓冲区、未保存改动与诊断进行代码修改
+- 在 SSH 断开后恢复编辑会话与运行中的 agent
+- 用 Markdown 渲染模式阅读表格、链接与图片并同时可编辑源码
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L10: > The Vim-style terminal editor where your coding agent works through your editor.
-> L82: Agent support is optional. It requires Codex CLI 0.144.1 or newer and a
-> L89: - **Give your agent the real editor.** Codex sees open buffers, unsaved changes,
+> L14: configuration; optional agent support requires an installed, authenticated Codex CLI.
+> L115: Agent support is optional. It requires Codex CLI 0.144.1 or newer and a
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `7d6723300bd2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9122aaac50d0` · [字段定义](../../DATASET.md)*

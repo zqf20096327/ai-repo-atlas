@@ -2,9 +2,9 @@
 
 ⭐ 314 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jin-bo/agentao) · [官网](https://agentao.cn) · 个人维护 · 中文 README
 
-**面向 Python 开发者的本地优先受治理 AI agent 运行时**
+**Python 可嵌入的治理型本地 Agent 运行时，含 CLI 与 ACP 服务**
 
-Agentao 是一个可嵌入 Python 应用的受治理 agent 运行时（Governed Agent Runtime），也可作为 CLI 或 ACP 服务器运行。核心机制包括工具确认与四种权限模式（含 plan 模式与 macOS sandbox-exec）、MCP（stdio/Streamable HTTP/SSE）与 ACP 协议、SQLite 持久化记忆（jieba 中文分词）、JSONL 会话回放与子 agent。通过 pip 安装，要求 Python 3.10+ 与 OPENAI_API_KEY/BASE_URL/MODEL 三个环境变量；支持 Anthropic Messages API、OpenAI Responses API 及任意 OpenAI 兼容服务商。0.5.0 移除了 0.4.x 已弃用接口，提供迁移文档。
+面向 Python 开发者的本地优先（local-first）Agent 运行时，可作为库嵌入应用、以 CLI REPL 运行，或作为 ACP（stdio JSON-RPC）服务器对外提供 Agent 能力。内置三块治理机制：约束（工具确认、四种权限模式、macOS sandbox-exec）、连接（MCP 工具协议、ACP、插件、hooks）、可观测性（实时思考展示、LLM 调用日志、JSONL 会话回放）。另提供 SQLite 持久记忆（含 jieba 中文分词）、技能自动发现与 GitHub 安装、子 Agent、会话恢复。要求 Python 3.10+，启动需配置 OpenAI 兼容的环境变量三件套。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Agentao 是一个可嵌入 Python 应用的受治理 agent 运行时（Governed 
 
 ## 能力要点
 
-- 四种权限模式（read-only/workspace-write/full-access/plan）与 macOS sandbox-exec
-- MCP 与 ACP 协议支持，技能可从 GitHub 安装
-- SQLite 持久记忆（用户/项目两级）与 JSONL 会话回放
-- 可嵌入（Agentao 构造器、events 流）或作为 CLI/ACP 服务器运行
+- 权限模式（read-only/workspace-write/full-access/plan）与工具确认、macOS sandbox
+- MCP（stdio/Streamable HTTP/SSE）与 ACP（JSON-RPC）双协议
+- SQLite 持久记忆（用户/项目双作用域，jieba 中文分词）与 JSONL 会话回放
+- 技能从 skills/ 自动发现，支持 agentao skill install 从 GitHub 安装
 
 ## 适用场景
 
-- 在我的 Python 应用中嵌入带权限控制的 agent 能力
-- 通过终端 CLI 驱动受治理的编码 agent 并回放会话
-- 以 ACP 服务器形式对外提供完整 agent 服务
+- 把带权限控制与审计回放的 Agent 能力嵌入自己的 Python 应用
+- 在终端用 CLI 驱动多会话 Agent 并通过 JSONL 回放复盘执行过程
+- 通过 MCP 接入外部工具、通过 ACP 与其他 Agent 互操作
 
 ## 场景标签
 
-`Agent 框架` `Agent 记忆` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L13: > **Agentao** is a **Governed Agent Runtime** — a local-first, private-first, embeddable agent harness for Python h
-> L39: pip install agentao
 > L86: |**Connectivity** (连接)|Agents must reach the world beyond training|MCP (stdio / Streamable HTTP / SSE) · ACP (full-
+> L103: |**Embedding**|`Agentao(...)` constructor · `events()` stream · `active_permissions()` · capability injection · AC
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `4476d102d23a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `0c512adb3ac4` · [字段定义](../../DATASET.md)*

@@ -2,44 +2,43 @@
 
 ⭐ 285 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Microqian2th/dsh-codex-effort-slider) · 个人维护 · 中文 README
 
-**DeepSeek Harness 的推理等级滑条插件：可拖动连续调档带渐变特效**
+**给 DSH 桌面端加推理等级滑条的界面插件**
 
-面向 DeepSeek Harness（DSH）Desktop 的 UI 插件：把官方模型菜单里的「推理等级」一行改造为可拖动连续滑条，拖动即时切档，填充色由蓝渐变至紫，高档位显示星云与星尘粒子动画，数值文字同步变色（Off 档保持官方灰）。通过 react-dom portal 注入 DOM，读写走官方公开接口 directoryFor/select；依赖官方语义锚点（aria 属性），官方改版时静默不生效（fail-open），不注册宿主钩子。零运行时依赖、无构建步骤，提供 npm/面板/脚本三种安装方式，需重启 DSH Desktop 生效，附 272 项离线断言测试与无需安装的在线试玩预览页。
+DeepSeek Harness（DSH）的界面插件：不新增入口，直接在官方模型菜单的「推理等级」一行内注入可拖动的连续滑条，并带高档位渐变、星云与星尘粒子特效。通过 DOM 语义属性锚点定位，经官方同一写入口读写档位，任何识别失败即静默退回（fail-open）。支持 npm、插件面板、本地路径与脚本多种安装方式；零运行时依赖、无构建步骤，需重启 DSH Desktop 生效。面向 DSH 用户调节推理档位。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 把官方推理等级行改造为跟手连续滑条，拖到即切档
-- 位置驱动的色彩/能量/粒子系统（高档位星云+22颗星尘，对比度经校验）
-- fail-open：锚点认不出即静默不生效，不动官方界面；不注入消息不注册钩子
-- 零运行时依赖、无构建步骤；含无需安装的 preview/panel.html 试玩页
+- 拖动即时切换推理档位，滑过边界即切档
+- 一档一色渐变 + 高档位星云与星尘粒子特效
+- 仅依赖官方语义属性锚点，fail-open 不破坏官方界面
+- 272 项离线断言测试套件
 
 ## 适用场景
 
-- 在 DSH Desktop 里拖滑条快速切换模型推理等级
-- 不安装先通过 preview 页面预览滑条观感
-- 打包 zip 分发给其他 DSH 用户离线安装
+- 在 DSH 桌面端用滑条快速切换推理档位
+- 个性化美化模型菜单的档位显示
+- 反馈问题时导出逐帧诊断记录
 
 ## 场景标签
 
- · 领域:AI 客户端插件/UI 组件
+ · 领域:AI 客户端插件/界面增强
 
 ## 证据(README 行号)
 
 > L5: 给 DeepSeek Harness（DSH）用的 **Codex 风格推理等级滑条**。
 > L45: 它不新增入口：**直接改造官方模型菜单里的「推理等级」那一行** ——
-> L181: |读档位|`directoryFor(sessionId).store.getSnapshot()` → `groups[].models[].reasoning.efforts`|
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6d51fbfa3f6e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `eed397c18936` · [字段定义](../../DATASET.md)*

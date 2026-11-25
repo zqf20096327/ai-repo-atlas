@@ -2,9 +2,9 @@
 
 ⭐ 297 · Python · CC0-1.0 · 推送 2026-11-14 · [GitHub](https://github.com/Yigtwxx/awesome-rag-production) · [官网](https://yigtwxx.github.io/awesome-rag-production/) · 个人维护
 
-**生产级 RAG 工具与实践策展清单，面向 RAG 系统建设者**
+**面向工程团队的生产级 RAG 工具与最佳实践清单**
 
-策展型 awesome 清单：收录构建、扩展与监控生产级 RAG 系统的工具、框架与最佳实践，条目按框架编排、数据摄取与解析等类别组织。提供选型决策指南（含 Mermaid 决策树）、三套参考架构（本地/中等规模/企业级）以及 LinkedIn、DoorDash、Discord 的实际案例。基准数字按来源标注（第三方/厂商/作者）或移除，并声称每周做新鲜度审计。许可为 CC0-1.0。
+一份面向生产环境的 RAG 资源策展清单，按框架、向量数据库、嵌入模型、数据解析、评测与可观测性等环节组织条目。每条 benchmark 数字带来源标签（第三方/厂商/作者），配套决策树、三套参考架构（本地/中规模/企业级）及 LinkedIn、DoorDash 案例研究，每周通过 discovery_engine 做新鲜度审计，另提供可搜索的网站版本。受众为搭建可扩展 RAG 系统的工程团队。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `viral` | CC0-1.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 三套分阶段参考架构（本地 Ollama+Chroma → 企业级 Milvus+vLLM）
-- 框架对比表覆盖 LlamaIndex/LangChain/LangGraph/Haystack 等维度
-- 基准数字按来源标签（[3P]/[V]/[A]）标注
-- 收录 LinkedIn/DoorDash/Discord 生产案例与共性模式
+- 每条目生产用途筛选，benchmark 数字带来源标签或移除
+- 决策树与三套参考架构（本地/中规模/企业级）
+- 每周新鲜度审计并标注条目维护状态（如 R2R、OmniParse）
+- LinkedIn/DoorDash 真实生产案例研究
 
 ## 适用场景
 
-- 搭建 RAG 系统前按规模选型框架与向量库
-- 了解各成熟度阶段的技术栈组合与风险
-- 查阅生产环境 RAG 的真实案例经验
+- 为生产 RAG 系统选型框架、向量库、reranker
+- 参考架构规划从原型到企业级的技术栈演进
+- 了解大规模向量检索在生产中的常见模式
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: > A curated collection of battle-tested tools, frameworks, and best practices for building, scaling, and monitoring 
-> L22: **Not a link dump.** Every entry is selected for production use, and every
+> L26: **Not a link dump.** Every entry is selected for production use, and every
+> L42: ## Contents
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `31d7d239c735` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d6c4e824a94b` · [字段定义](../../DATASET.md)*

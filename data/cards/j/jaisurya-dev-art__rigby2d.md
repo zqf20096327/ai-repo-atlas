@@ -1,10 +1,10 @@
 # jaisurya-dev-art/rigby2d
 
-⭐ 345 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jaisurya-dev-art/rigby2d) · [官网](https://rigby2d.com) · 组织维护
+⭐ 345 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jaisurya-dev-art/rigby2d) · [官网](https://rigby2d.com) · 个人维护
 
-**开源 2D 骨骼动画编辑器：绑定 PSD/PNG、制作动画、导出运行时，内置 MCP 供 AI 助手操作**
+**游戏与影视的开源 2D 骨骼动画编辑器，带 MCP 供 AI 操控**
 
-面向游戏、影视与交互体验的开源 2D 骨骼动画工具：导入分层 PSD 或 PNG，用骨骼、网格、约束与皮肤进行绑定，AutoRig 一步从 PSD 生成可编辑骨架并支持动画重定向；Game 与 Film 双工作区，可导出 JSON/.skel + atlas，附带 JavaScript（无依赖）与 Rust 运行时及 Godot 4 节点（预览）。内置 MCP 服务器，AI 助手（如 Claude）可检查、验证、编辑、绑定与转换项目；内置 Python（Pyodide）脚本与自定义工具。基于 Tauri 构建，Windows 提供 MSI/安装包与便携版 exe，macOS/Linux 需从源码构建（Node 20+ 与 Tauri 系统依赖）。自述处于早期 alpha，Unity 运行时在计划中。
+开源 2D 骨骼动画编辑器，覆盖从分层 PSD/SVG/Aseprite 一键 AutoRig、骨骼与网格绑定、IK/物理约束、图编辑器动画，到 4K 影片工作区（含基于本地 Whisper 转写的口型同步）与 GPU 渲染输出。动画以无损 skeleton JSON/二进制 .skel 导出，由 Godot、Unity、Defold、Cocos Creator、Phaser、PixiJS、Ren'Py、JavaScript、Rust 共 9 个开源运行时逐帧播放。内置 MCP 服务器供 Claude 等 AI 助手检查、绑定与动画项目；提供 Python 脚本与 CLI 自动化。桌面版覆盖 Windows/macOS/Linux，亦可浏览器直接运行。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- AutoRig 一步绑定分层 PSD（骨骼/关节/网格/IK）与动画重定向
-- 内置 MCP 服务器：AI 助手可检查、编辑、绑定与转换项目
-- JavaScript（无依赖）/Rust 运行时及 Godot 4 节点（预览）
-- 内置 Python 3（Pyodide）脚本，离线可用，可注册为自定义工具
+- 分层 PSD/SVG/Aseprite 一键 AutoRig 生成骨骼、关节、网格与 IK
+- 9 个开源运行时（Godot/Unity/Defold/Cocos/Phaser/PixiJS/Ren'Py/JS/Rust）逐帧一致播放
+- 影片工作区：4K、可动画相机、on-device Whisper 口型同步、GPU 渲染 PNG/WebM/MP4
+- 内置 MCP 服务器与 Python 脚本、CLI 自动化（转换、校验、导出、渲染）
 
 ## 适用场景
 
-- 为游戏或交互应用制作 2D 角色骨骼动画并导出到引擎/网页运行
-- 制作影视与动态图形动画（PNG 序列/WebM/MP4 渲染、口型同步）
-- 让 AI 助手通过 MCP 直接检查与编辑动画项目
-- 迁移与转换既有 skeleton JSON/.skel 格式文件
+- 为游戏角色制作骨骼动画并导出到 Godot/Unity 等引擎
+- 用音频自动生成角色口型同步的动画短片
+- 通过 AI 助手（MCP）自动执行绑定与动画任务
+- 从 Spine/DragonBones 项目迁移现有动画资产
 
 ## 场景标签
 
- · 领域:游戏/动画工具
+ · 领域:游戏/影视动画工具
 
 ## 证据(README 行号)
 
-> L3:  Open-source 2D skeletal animation for games, films and interactive experiences.
-> L5:  Built-in MCP server: AI assistants can inspect, validate and animate your projects.
-> L27: Rigby2D ships a Model Context Protocol server, so assistants such
+> L5:  Open-source 2D skeletal animation for games and film.
+> L100:  **MCP server** so AI assistants such as Claude can inspect, rig and animate your projects.
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 high · 依据 README sha `11f79b4039f5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bf448a4e42ed` · [字段定义](../../DATASET.md)*

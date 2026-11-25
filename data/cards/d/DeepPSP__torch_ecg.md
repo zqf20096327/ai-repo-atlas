@@ -2,9 +2,9 @@
 
 ⭐ 274 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DeepPSP/torch_ecg) · 个人维护
 
-**基于 PyTorch 的心电图深度学习框架**
+**给心电图研究者/开发者的 PyTorch 深度学习框架**
 
-面向研究者和开发者的 ECG 深度学习 Python 库：提供 8 种数据增强器、4 种预处理器、覆盖 PhysioNet/CPSC 等 14 个 ECG 数据库的读取类与内置 Dataset、CRNN/U-Net/RR-LSTM 等模型架构，以及 VGG/ResNet 变体等 CNN backbone。模型输出分类、序列标注、波形勾画、R 波检测等结果，并配套日志、指标、BaseTrainer 训练管线抽象。文档仍在开发中，测试流程待完善，支持 pip 安装。
+基于 PyTorch 的心电图深度学习框架，提供数据增强器、预处理器、14 个 PhysioNet/CPSC 等来源数据库的读取类、多种网络架构（CRNN、U-Net、RR-LSTM）及 VGG/ResNet/DenseNet 等 CNN 骨干，并内置日志器、输出容器、指标计算与抽象训练器。任务覆盖分类、序列标注、波形轮廓划分与 R 峰检测。通过 pip 安装，benchmarks 文件夹提供可复用的训练示例，文档尚在开发中，测试流程待完善。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- CRNN、U-Net、RR-LSTM 等模型架构与多种 ResNet 变体 backbone
-- 14 个 ECG 数据库读取类与内置 Dataset（PhysioNet/CPSC 等）
-- 分类、R 波检测、波形勾画等任务的输出容器与内置指标
-- BaseTrainer 抽象训练管线与 9 个基准赛题使用示例
+- 内置 14 个 ECG 数据库的读取类与配套 Dataset
+- 支持 CRNN/U-Net/RR-LSTM 与多种 CNN 骨干，可自定义模型配置
+- 统一管理的数据增强器（mixup、cutmix 等 8 种）与预处理器
+- 内置分类/R峰检测/波形划分指标与抽象训练器
 
 ## 适用场景
 
-- 我在做 ECG 心律失常分类任务的模型训练与基准复现
-- 我需要统一接口读取多个公开 ECG 数据库并构建 Dataset
-- 我想快速实验不同的 CNN backbone 与数据增强组合
+- 训练 12 导联心电图分类模型（如 NSR/AF/PVC/SPB）
+- 复现 PhysioNet Computing in Cardiology 竞赛基线
+- 读取并管理 PhysioNet/CPSC 数据库的 ECG 记录与标注
+- 构建 QRS 检测或波形划分的训练流水线
 
 ## 场景标签
 
-`模型训练` · 领域:训练与推理
+`模型训练` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L13: ECG Deep Learning Framework Implemented using PyTorch.
-> L151: 1. CRNN, both for classification and sequence tagging (segmentation)
+> L150: 1. CRNN, both for classification and sequence tagging (segmentation)
+> L273: - `ClassificationOutput`
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bc001b5e9c03` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d3fcab7ef31c` · [字段定义](../../DATASET.md)*

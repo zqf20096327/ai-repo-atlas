@@ -2,44 +2,45 @@
 
 ⭐ 325 · Python · 推送 2026-11-06 · [GitHub](https://github.com/didilili/deepsearch-agents) · [官网](https://didilili.github.io/ai-agents-from-zero/#/%E5%AE%9E%E6%88%98%E9%A1%B9%E7%9B%AE-%E6%B7%B1%E5%BA%A6%E7%A0%94%E6%90%9C/0-%E5%89%8D%E8%A8%80) · 个人维护 · 中文 README
 
-**对话式多智能体深度研搜系统，面向 DeepAgents 学习与实战**
+**配套教程的多智能体深度研究实战项目：学 DeepAgents 工程落地**
 
-基于 DeepAgents/LangGraph/LangChain 构建的一主三从多智能体研究助手：主智能体调度网络搜索助手（Tavily）、数据库查询助手（MySQL）、RAGFlow 知识库助手，可读取上传附件，生成 Markdown/PDF 交付物；FastAPI + WebSocket + React 前后端实时联动，Docker Compose 部署 MySQL 教学库。模型经 OpenAI 兼容接口接入（默认示例为 DashScope）。仓库配套 ai-agents-from-zero 免费教程与按章节演进的 Git 分支；README 声明其未覆盖登录权限、任务队列、事件持久化等生产治理能力，定位为学习工程骨架而非企业级生产系统。
+基于 DeepAgents + LangGraph 构建的对话式多智能体深度研究系统，采用一主三从架构：主智能体负责任务规划与调度，网络搜索（Tavily）、MySQL 结构化查询、RAGFlow 知识库三个专家子智能体分别检索不同信息来源，最终汇总生成 Markdown/PDF 交付物。后端 FastAPI + WebSocket 提供任务、上传、下载与事件推送接口，前端 React/Vite 展示执行链路。仓库同时是 ai-agents-from-zero 教程体系的配套源码，提供 14 个章节的图文讲义与对应 Git 分支，README 声明不包含权限、任务队列、评测等生产治理能力。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 一主三从多智能体架构（主智能体+网络搜索/数据库/RAGFlow 三助手）
-- 多来源检索与文件交付：Tavily、MySQL、RAGFlow、上传附件读取，生成 Markdown/PDF
-- FastAPI + WebSocket 实时推送工具调用、助手调用与结果事件，React 前端
-- 配套免费教程与章节代码分支，可按阶段对照学习
+- 一主三从 Orchestrator-Workers 多智能体架构，按来源分工检索
+- Tavily/MySQL/RAGFlow/上传附件四类信息来源统一汇总，产出 Markdown/PDF
+- FastAPI + WebSocket 全链路事件推送，执行过程可观察
+- 14 章节免费教程与 Git 分支逐阶段对照代码演进
 
 ## 适用场景
 
-- 系统学习 DeepAgents 多智能体开发并跑通完整工程链路
-- 搭建结合网络搜索、数据库与私有知识库的深度研究助手
-- 参考 FastAPI/WebSocket 前后端实时联调的 Agent 项目骨架
+- 系统学习 DeepAgents 多智能体框架与子智能体调度
+- 学习 FastAPI + WebSocket 的前后端实时联动工程实现
+- 搭建能同时查公开网络、数据库与私有知识库的研究助手
+- 准备大模型应用开发的简历项目与面试题
 
 ## 场景标签
 
-`多智能体` `RAG` `教程课程` `科研工具` · 领域:Agent 开发
+`多智能体` `RAG` `教程课程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L19: 它不是只调用一次大模型接口，也不是套一个搜索 API 做问答演示。这个项目围绕深度研究场景，用 DeepAgents 组织主智能体和专家子智能体，让系统可以根据任务需要查公开网络、查结构化数据库、查 RAGFlow 私有知识库、读
-> L47: 所以「深度研搜」更像一个会分工、会查资料、会生成交付物的研究助手。用户只需要提出任务，系统会在后端组织一条可观察的多智能体执行链路。
-> L90: 项目采用 DeepAgents 中典型的 Orchestrator-Workers 模式：主智能体作为调度中心，三个专家助手负责信息获取，文件工具由主智能体直接掌握。
+> L3:  可能是全网最适合用于系统学习 DeepAgents 的多智能体深度研究实战项目，配套系统性文字教程与对应章节分支，带你打通主智能体调度、专家助手分工、多来源检索、文件交付与前后端实时联动全链路
+> L21: > 本套仓库是 ai-agents-from-zero 教程体系中的 实战项目-深度研搜 配套源码仓库，除了可直接运行和二次开发的项目代码之外，也提供了与教程章节对应的 Git 分支演进过程，以及完整的在线图文讲义入口。
+> L85:  - 项目配有一套系统化、完全免费的教程讲义，适合按章节从 DeepAgents 基础、子智能体、Backend、中间件一直学到完整项目闭环。
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `8f355d6d2ad8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `7928f91b00e0` · [字段定义](../../DATASET.md)*

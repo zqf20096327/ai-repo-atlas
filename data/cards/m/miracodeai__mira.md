@@ -2,15 +2,15 @@
 
 ⭐ 422 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/miracodeai/mira) · [官网](https://docs.miracode.ai) · 组织维护
 
-**自托管 AI 代码审查工具：用自带 LLM key 自动审查 PR**
+**自托管 AI 代码评审服务：索引化审查 PR 并给出反馈**
 
-面向工程团队的自托管代码审查服务：以 Docker 部署，接入 GitHub/GitLab/Forgejo，对每个 PR 和合并请求生成审查意见，支持自然语言自定义规则，并从被拒评论与人工审查模式中合成团队规则（learning loop）。模型无关：经 OpenRouter 或直连 vLLM/Ollama/Bedrock 等任意 OpenAI 兼容端点，用户自带 key，按模型商直接付费。附带全仓代码索引、OSV.dev CVE 小时级扫描、依赖与影响面图、逐仓成本遥测的仪表盘。数据存储在自有 SQLite/Postgres。
+Mira 是自托管的 PR 代码评审服务：对每个 pull request 生成评审意见、全库索引的跨文件上下文、PR walkthrough、漏洞扫描（OSV.dev）、依赖图与自定义评审规则，并从已合并 PR 中学习形成团队规则。模型通过 OpenRouter 或任意 OpenAI 兼容端点接入，用户自带 API key；数据存于自有 SQLite/Postgres。支持 GitHub、GitLab、Forgejo/Codeberg、Bitbucket Cloud 的 webhook 自动评审与 `@miracodeai` 行内问答，也可用 CLI 对本地分支运行 `mira review`。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- PR 自动审查与置信度阈值、去重、自我批评等降噪机制
-- 模型无关：OpenRouter、vLLM、Ollama、Bedrock、Codex CLI 等通道
-- 全仓代码索引与跨文件上下文，附组织级包搜索
-- 每小时 OSV.dev CVE 扫描与依赖/影响面图仪表盘
+- 全库代码索引提供跨文件上下文，而非仅 diff
+- 从已合并 PR 的被拒评论与人工评审模式合成团队规则
+- 每小时轮询 OSV.dev 做 CVE 扫描，仪表盘提供依赖爆炸半径图
+- 支持 Codex CLI 作为本地认证的推理后端
 
 ## 适用场景
 
-- 自建服务自动审查每个 PR 并在页面内回答提问
-- 团队用自然语言定义仓库级/组织级审查规则
-- 查询哪些仓库受某 CVE 影响及改动的波及范围
+- 让团队自托管一个对每个 PR 自动出评审意见的服务
+- 查询哪些仓库使用了某个有 CVE 的依赖包
+- 在合并前检查 PR 之间的冲突风险与重复工作
+- 对本地分支在提交前运行评审
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L5:  Self-hosted AI code review. Your code, your dashboard, your LLM key.
 > L17: Mira reviews your pull requests using your choice of LLM (via OpenRouter, which fronts Anthropic, OpenAI, Google, D
-> L29: - **GitHub, GitLab, and Forgejo** — Auto-reviews every PR and merge request and answers `@miracodeai` questions inl
+> L21: - **Model agnostic** — Run Claude, GPT, Gemini, DeepSeek, Llama, or any OpenAI-compatible endpoint: OpenRouter, vLL
+> L85: Run Mira self-hosted to auto-review every PR and merge request and answer `@miracodeai` questions inline. GitHub (a
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `2a088456517d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d5dc9fc57977` · [字段定义](../../DATASET.md)*

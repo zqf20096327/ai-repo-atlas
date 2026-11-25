@@ -2,9 +2,9 @@
 
 ⭐ 274 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/JyChen9811/FaithDiff) · 组织维护 · 中文 README
 
-**扩散先验图像超分复原模型，用于老照片/老电影修复**
+**面向老照片/胶片等真实退化的扩散模型图像超分与修复库**
 
-CVPR 2025 论文 FaithDiff 的官方实现，基于扩散先验做真实世界图像超分辨率与复原，覆盖老照片修复、经典电影修复、社交媒体图像修复与 AIGC 图像增强。结合 LLaVA 生成退化感知提示（可关闭），支持 8K 及以上超高分复原；提供 Gradio 演示、训练与测试代码及预训练模型，代码已集成进 Diffusers。FP8 推理加 CPU offload 时 2 倍上采样仅需约 5GB 显存。由南京理工大学 IMAG Lab 团队维护。
+CVPR 2025 论文 FaithDiff 的官方实现，利用扩散先验做忠实图像超分辨率，适用于经典胶片翻新、老照片修复、社交媒体图像恢复、图像增强与 AIGC 结果增强。提供 Gradio demo、训练与测试脚本、预训练模型及 238 张未知退化图像的 RealDeg 测试集；支持 FP8 推理、CPU offloading、8K 及以上超高分辨率修复，代码已集成进 Diffusers。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ CVPR 2025 论文 FaithDiff 的官方实现，基于扩散先验做真实世界�
 
 ## 能力要点
 
-- 基于扩散先验的图像超分/复原，含 LLaVA 提示生成（可关闭）
-- 支持 8K 及以上超高分复原；FP8+CPU offload 下 2x 上采样约 5GB 显存
-- 提供训练（两阶段）与测试脚本、预训练模型及 Gradio 演示
-- 代码已集成进 Diffusers，并发布含 238 张图的 RealDeg 测试集
+- 支持 FP8 推理与 CPU offloading，2x 放大仅需约 5GB 显存
+- 24GB GPU 上支持 8K 及以上超高分辨率修复
+- 提供训练代码、测试代码与预训练模型
+- 代码已集成进 Diffusers 库
 
 ## 适用场景
 
-- 修复老照片与经典电影胶片影像
-- 恢复社交媒体压缩图像质量
-- 对 AIGC 生成图像做增强处理
+- 翻新经典胶片与老照片
+- 修复社交媒体上的低质图像
+- 对 AIGC 生成的图像做增强
+- 在低显存 GPU 上运行图像超分
 
 ## 场景标签
 
@@ -38,8 +39,8 @@ CVPR 2025 论文 FaithDiff 的官方实现，基于扩散先验做真实世界�
 ## 证据(README 行号)
 
 > L1: ### (CVPR 2025) FaithDiff: Unleashing Diffusion Priors for Faithful Image Super-resolution
-> L25: - ✅ February 09, 2025. Support ultra-high-resolution (8K and above) image restoration on 24GB GPUs.
-> L47: --use_fp8 = Changes the diffusion model precision from FP16 to FP8, significantly reducing GPU memory requirements.
+> L23: - ✅ March 28, 2025. Update a nice gradio demo.
+> L39: ### :gift: Gradio Demo
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `90466095b853` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `229fbe72bc89` · [字段定义](../../DATASET.md)*

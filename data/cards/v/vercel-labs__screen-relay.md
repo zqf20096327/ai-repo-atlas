@@ -2,15 +2,15 @@
 
 ⭐ 384 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vercel-labs/screen-relay) · [官网](https://screen-relay.dev) · 组织维护
 
-**给人类和 AI agent 用的低延迟桌面串流与控制工具**
+**供人类与 AI agent 观看并控制桌面的低延迟流式工具**
 
-screen-relay 在 Linux VM/沙箱/容器内启动桌面，或接入 Mac 显示器与 Windows 登录桌面，将画面以 H.264 串流到浏览器。人类通过浏览器观看，AI agent 通过 CLI/Node SDK/HTTP 与 WebSocket API 逐条下发命令：截图、点击、键入、再截图验证结果。引擎单端口提供查看器、流与输入 API，链路慢时自动降低码率，带输入权转移与令牌保护。由 Vercel Labs 以实验项目形式发布，Apache-2.0 许可。
+screen-relay 在 Linux VM/沙箱/容器中启动桌面，或接入 macOS/Windows 已登录桌面，以 H.264 流式传输到浏览器；同一会话可通过 CLI、Node SDK、HTTP/WebSocket API 由 agent 逐步执行截图、点击、输入等操作。引擎在用户机器上由 screen-relay install 构建，要求 Node 22+；支持 X11 与 Wayland 后端，慢链路自动降低码率，本地默认监听 loopback，远程需 token。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ screen-relay 在 Linux VM/沙箱/容器内启动桌面，或接入 Mac 显示器
 
 ## 能力要点
 
-- CLI、Node SDK 与 HTTP/WebSocket API 访问同一会话
-- 随版本内置 agent skills（screen-relay skills get core）
-- 支持 X11/Wayland、Linux/macOS/Windows 三平台
-- 默认仅监听 loopback，远程访问需令牌
+- CLI/Node SDK/HTTP+WebSocket API 三种方式访问同一会话
+- 附带与版本匹配的 agent skills，供 AI agent 引用控制流程
+- 支持 X11/Wayland 后端，覆盖 Linux/macOS/Windows
+- 单输入所有者机制与 token 鉴权
 
 ## 适用场景
 
-- 让 AI agent 操控桌面并截图验证执行结果
-- 在浏览器中远程观看 VM 或容器内的桌面
-- 通过 shell 对远端桌面执行点击、键入等操作
+- 在浏览器中远程观看沙箱或 VM 里的桌面
+- 让 AI agent 通过截图-操作-再截图的循环控制桌面
+- 对另一台机器的桌面会话做截图与键鼠操作
 
 ## 场景标签
 
@@ -39,6 +39,7 @@ screen-relay 在 Linux VM/沙箱/容器内启动桌面，或接入 Mac 显示器
 
 > L3: Desktop streaming and control for humans and AI agents: watch a desktop in a browser, and click, type, and take scre
 > L9: screen-relay starts a desktop on a Linux VM, sandbox, or container, or attaches to the display of a Mac or the signe
+> L49: The CLI ships skills that match its version:
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `eb57030639ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d9930a5a8175` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 303 · Swift · MIT · 推送 2026-11-21 · [GitHub](https://github.com/openclaw/Tachikoma) · [官网](http://tachikoma.build) · 组织维护
 
-**Swift 统一 AI SDK：一套类型安全接口接入多家模型服务商**
+**Swift 开发者的多模型 AI 统一 SDK**
 
-面向 Swift 应用的 AI 接入 SDK：以单一类型化、并发安全的接口封装文本生成、流式输出、视觉、工具调用、语音转录/TTS/实时音频与 Agent 工作流，替代各家服务商的专属客户端。内置目录覆盖 OpenAI、Anthropic、Gemini、xAI、MiniMax、Kimi、Mistral、Groq、Ollama、LM Studio 等服务商，并支持自定义 OpenAI/Anthropic 兼容端点。凭据从环境变量或 TKAuthManager 读取。要求 Swift 6.2，声明部署目标为 macOS 14/iOS 17/tvOS 17/watchOS 10/visionOS 1，Linux 由 CI 覆盖。包拆分为核心、Agent、Audio、MCP 四个可选模块。
+Tachikoma 是一个 Swift 包，为文本生成与流式输出、视觉与工具调用、实时语音与 agent 工作流提供单一的类型安全、并发安全接口，覆盖托管与本地 AI 提供商。内置目录含 OpenAI、Anthropic、Google Gemini、xAI、MiniMax、Kimi、Mistral、Groq、Ollama、LM Studio，并支持自定义 OpenAI/Anthropic 兼容端点。按模块拆分可选产品（Agent、Audio、MCP），需 Swift 6.2，通过 Swift Package Manager 安装。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 单一类型化接口覆盖文本生成、流式输出、视觉与工具调用
-- 内置 10 家服务商目录，另支持 OpenAI/Anthropic 兼容自定义端点
-- 可选模块：Agent 工作流、音频（转录/TTS/实时）、MCP 集成
-- 凭据从环境变量或 TKAuthManager 存储档案解析
+- 统一的 typed、并发安全 Swift 接口调用多家 AI 提供商
+- 支持流式输出、视觉、类型化工具调用（maxSteps 反馈循环）
+- 可选模块：Agent 会话、语音转写/TTS/实时音频、MCP 集成
+- 支持 Ollama、LM Studio 本地模型及自定义兼容端点
 
 ## 适用场景
 
-- 在 Swift 应用中用一套 API 切换多家 AI 服务商
-- 构建带工具调用与多步执行的 Agent 工作流
-- 接入本地模型（Ollama/LM Studio）做生成与转录
+- 在 Swift/iOS/macOS 应用中接入多家大模型而无需逐家写客户端
+- 构建带工具调用的 agent 工作流
+- 在 Apple 平台应用中实现实时语音转写与 TTS
+- 通过 Ollama/LM Studio 在本地运行模型
 
 ## 场景标签
 
-`模型网关` `Agent 框架` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f246aa32e50e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a34aa207db0e` · [字段定义](../../DATASET.md)*

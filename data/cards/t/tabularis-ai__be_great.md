@@ -2,9 +2,9 @@
 
 ⭐ 375 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/tabularis-ai/be_great) · 组织维护
 
-**用预训练 LLM 生成合成表格数据的 Python 框架**
+**用预训练语言模型生成合成表格数据的 Python 库**
 
-GReaT（be-great）是基于预训练 Transformer 语言模型的表格数据合成框架：对真实数据微调 LLM 后采样生成新表格行，支持缺失值填补、条件约束采样（age >= 30 等逻辑条件在 token 生成时强制生效）、基于声明式 schema 的无训练 mock 数据生成、LoRA 参数高效微调及训练中质量监控。内置统计、保真/效用与隐私三类指标（含 k 匿名、成员推断攻击模拟等）。需 Python >= 3.9，pip 安装，有论文支撑（ICLR 2023）。
+GReaT 框架基于预训练 Transformer 语言模型生成合成表格数据，以 Python 库形式通过 PyPI 分发，提供 fit/sample 风格 API。支持缺失值插补、带逻辑运算符的约束采样、无需真实数据的声明式 schema 造数、LoRA 参数高效微调、训练中的质量监控，并内置统计、保真度/效用与隐私三类评估指标。要求 Python >= 3.9，依赖 huggingface transformers Trainer，作者提供论文引用条目。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ GReaT（be-great）是基于预训练 Transformer 语言模型的表格数据合
 
 ## 能力要点
 
-- 微调 LLM 采样生成合成表格数据，支持缺失值填补
-- 条件约束采样在 token 生成时强制生效（支持 >=/<=/==/!= 等操作符）
-- 声明式 schema 的 mock 数据生成，无需训练数据
-- 内置统计、保真/效用、隐私三类评估指标
-- 支持 LoRA 高效微调与训练中质量实时监控
+- 基于预训练 Transformer 语言模型生成合成表格数据
+- 约束采样支持 >=, <=, ==, != 等逻辑运算符，逐 token 强制约束
+- 内置评估套件：统计相似性、判别器/ML 效用、距离最近记录等隐私指标
+- 支持 LoRA 微调与训练过程中的实时质量评分
 
 ## 适用场景
 
-- 为机器学习开发或测试生成隐私安全的合成表格数据
-- 填补数据集中任意组合的缺失值
-- 在指定条件约束下生成满足业务规则的样本
-- 评估合成数据的统计保真度与隐私风险
+- 为机器学习任务生成补充的合成表格数据集
+- 填充表格数据中任意组合的缺失值
+- 按声明式 schema 生成隐私安全的测试与开发用假数据
+- 评估合成数据的质量、效用与隐私风险
 
 ## 场景标签
 
- · 领域:合成数据生成/表格机器学习
+ · 领域:数据合成/机器学习
 
 ## 证据(README 行号)
 
-> L19: Our GReaT framework leverages the power of advanced pretrained Transformer language models to produce high-quality 
-> L34: In the example below, we show how the GReaT approach is used to generate synthetic tabular data for the California 
+> L16: Our GReaT framework leverages the power of advanced pretrained Transformer language models to produce high-quality 
+> L26: pip install be-great
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `e6fd27b81be0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `27cd15610ca6` · [字段定义](../../DATASET.md)*

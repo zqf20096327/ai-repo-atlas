@@ -2,9 +2,9 @@
 
 ⭐ 321 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/reposwarm/reposwarm) · 组织维护
 
-**多仓库架构发现平台：为 AI agent 生成架构文档上下文**
+**为 AI 编码代理分析多仓库并生成统一架构文档**
 
-RepoSwarm 分析整个代码库组合并生成标准化的 .arch.md 架构文档，可用作 AI agent 上下文、入职文档或架构评审材料。流程为：缓存检查→克隆→类型检测→结构分析→提示选择→AI 分析→存储结果。使用 Claude 做代码理解，LLM 提供方可选 Anthropic API、Amazon Bedrock 或 LiteLLM proxy；Git 提供方支持 GitHub、GitLab、CodeCommit、Azure DevOps、Bitbucket。通过 CLI 一键引导 Temporal、API、Worker、UI 等容器化服务，需 Docker 运行；核心引擎为 Temporal 工作流，由 Verbit 黑客松团队开发。
+RepoSwarm 分析多个代码仓库，生成标准化 `.arch.md` 架构文件并提交到共享 hub 仓库，供编码代理作为上下文读取；同一输出可用于新人上手与架构评审。分析通过 Claude（Anthropic API、Amazon Bedrock 或 LiteLLM 代理）执行，基于 Temporal 工作流运行，支持按提交/分支/prompt 版本决定增量重分析，结果缓存在 DynamoDB 或本地文件。需 Docker 运行环境与 Git；生成结果需人工复核。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ RepoSwarm 分析整个代码库组合并生成标准化的 .arch.md 架构文档
 
 ## 能力要点
 
-- 生成标准化 .arch.md 架构文档，作为 AI agent 上下文
-- LLM 提供方三选一：Anthropic API / Amazon Bedrock / LiteLLM proxy
-- 按仓库类型（后端/前端/移动/库/基础设施）选择专门分析提示词
-- 增量分析与 DynamoDB 或文件缓存，支持并行调查多仓库
+- 生成标准化 .arch.md 架构文档并集中到结果 hub 仓库
+- 支持 GitHub、GitLab、CodeCommit、Azure DevOps、Bitbucket 五种 Git 提供商
+- 模型后端可选 Anthropic API、Amazon Bedrock 或 LiteLLM 代理
+- 按仓库类型（后端/前端/移动/基础设施等）使用专用分析 prompt
 
 ## 适用场景
 
-- 为 AI agent 准备跨多个代码仓库的架构上下文
-- 批量生成团队架构文档与新人入职材料
-- 对整个代码库组合做架构评审与文档检索
+- 给 AI 编码代理提供跨仓库的架构上下文
+- 新成员入职时快速了解多仓库代码库结构
+- 定期开展架构评审并跟踪文档更新
 
 ## 场景标签
 
- · 领域:开发者工具/架构分析
+ · 领域:开发者工具/架构文档
 
 ## 证据(README 行号)
 
-> L5:  AI-powered multi-repo architecture discovery platform
-> L58: RepoSwarm automatically analyzes your entire codebase portfolio and generates standardized architecture documentati
-> L64: - 🔍 **AI-Powered Analysis** — Uses Claude to deeply understand codebases
+> L3: RepoSwarm analyzes repositories and generates standardized `.arch.md` architecture files.
+> L82: - 🔍 **AI-Powered Analysis** — Uses Claude to deeply understand codebases
+> L14: - **Runs with Temporal workflows.** Local setup requires running Docker, Docker Compose and Git.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `17560afd22cd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3cc8918c8e95` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 277 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/UNLINEARITY/Obsidian-CodeSpace) · 个人维护 · 中文 README
 
-**Obsidian 代码文件管理插件：索引、编辑、嵌入、外部挂载与终端**
+**Obsidian 代码文件管理插件：索引、查看、编辑与嵌入代码**
 
-面向 Obsidian 用户的社区插件，补足其以 Markdown 为中心的工作流中对代码文件的集中管理能力。提供可视化仪表盘统一索引与管理 Vault 内代码文件；基于 CodeMirror 6 的语法高亮编辑环境（结构导航、正则搜索替换、代码折叠）；在 Markdown 中以 ![[file#L20-40]] 语法嵌入代码片段并支持原生 PDF 导出为真实代码块；通过 symlink/junction 将 Vault 外部文件夹挂载进库（仅桌面端）；集成基于 xterm.js 与 node-pty 的真实系统终端（默认关闭，需手动下载平台支持包）。已上架官方社区插件目录。README 本身未描述 AI 功能，仅仓库主题标签含 ai/claude/codex。
+Obsidian 社区插件，弥补其原生以 Markdown 为中心对代码文件支持的不足。提供五层功能：代码文件的统一索引与可视化仪表盘、基于 CodeMirror 6 的语法高亮编辑与结构化导航、Markdown 中按行范围嵌入代码并支持原生 PDF 导出为代码块、通过 symlink/junction 挂载外部文件夹进行跨 Vault 管理（仅桌面端），以及基于 xterm.js 与 node-pty 的系统集成终端（仅桌面端，需手动下载平台辅助包）。通过 Obsidian 官方社区插件目录安装。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 可视化仪表盘统一索引、筛选与管理代码文件
-- CodeMirror 6 语法高亮编辑与代码结构导航（类/函数点击跳转）
-- Markdown 中按行范围嵌入代码片段，PDF 导出为真实代码块
-- symlink/junction 外部文件夹挂载与真实 PTY 系统终端（均仅桌面端）
+- 代码文件可视化仪表盘：按文件夹/扩展名过滤、搜索与排序
+- CodeMirror 6 语法高亮编辑器，支持类/函数大纲点击跳转
+- Markdown 嵌入代码支持行范围语法（含 GitHub 风格 L 前缀）
+- 基于 node-pty 的真实系统终端（PowerShell/zsh/bash），桌面端可用
 
 ## 适用场景
 
-- 在 Obsidian 内集中浏览、编辑和管理散落的代码文件
-- 在笔记中引用并嵌入代码文件的指定行片段
-- 跨项目工作时挂载外部代码仓库目录直接管理
-- 在编辑器内直接运行系统终端执行命令
+- 在 Obsidian 库内集中浏览和管理代码文件
+- 笔记中嵌入代码片段并导出为带真实代码块的 PDF
+- 不复制代码进 Vault 直接管理外部项目目录
+- 编辑代码时随手调用系统终端运行命令
 
 ## 场景标签
 
- · 领域:笔记/开发工具
+ · 领域:知识管理/开发工具
 
 ## 证据(README 行号)
 
-> L3:  Professional code file support for Obsidian
-> L28: Obsidian's native workflow is centered on Markdown notes, so its support for centralized code file browsing, manage
+> L31: Obsidian's native workflow is centered on Markdown notes, so its support for centralized code file browsing, manage
+> L55: - **Syntax highlighting**: Powered by CodeMirror 6 with accurate highlighting for many languages.
+> L39: 5. **Terminal space**: Run a real system shell (PowerShell, zsh, bash) inside the editor, on desktop.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `f975fa0a7f14` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 low · 依据 README sha `747e98f6820a` · [字段定义](../../DATASET.md)*

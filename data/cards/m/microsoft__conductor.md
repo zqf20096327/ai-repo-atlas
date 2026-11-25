@@ -2,9 +2,9 @@
 
 ⭐ 506 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/conductor) · 组织维护
 
-**用 YAML 定义并确定性运行多 agent 工作流的 CLI**
+**开发者用 YAML 定义并运行多智能体工作流的 CLI 编排工具**
 
-微软开源的命令行工具：在单个 YAML 文件中定义多个 agent、提示词与路由条件，然后运行代码评审流水线、先研究后综合、先规划后实现等多 agent 工作流。编排层不使用 LLM——路由靠 Jinja2 模板与表达式求值（首个匹配条件生效），不消耗 token 决定下一步。支持 GitHub Copilot、Anthropic Claude 等多个提供方，支持并行执行、子工作流组合、MCP 工具直接调用、人机协同暂停、Web 仪表盘与 TUI Fleet Manager。面向构建可版本化、可复现 agent 工作流的开发者。
+微软出品的 Python CLI 工具，用单个 YAML 文件定义多智能体工作流（代码评审流水线、研究-综合流程、计划-实施循环等），通过 GitHub Copilot SDK、Anthropic Claude、Claude Agent SDK 等多后端驱动各 agent。路由基于 Jinja2 模板与表达式求值，编排环内不含 LLM，同一输入走相同路径；支持并行执行、子工作流组合、脚本与 MCP 步骤、条件路由、人在回路、迭代/超时限制，并提供实时 Web 仪表盘、Fleet Manager TUI 与 OpenTelemetry 追踪。要求 Python 3.12+。
 
 ## 筛选速览
 
@@ -13,23 +13,24 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- YAML 定义多 agent 工作流，编排循环中无 LLM，路由确定性
-- 多提供方支持：GitHub Copilot、Anthropic Claude、Claude Agent SDK、NousResearch Hermes（实验性）
-- 并行执行、for-each 动态分组与子工作流组合
-- MCP 工具直接调用（无 LLM、零 prompt token）、Web 仪表盘与 Fleet Manager TUI
+- YAML 定义工作流，Jinja2 条件路由，编排决策不消耗 LLM token
+- 多 provider 后端（GitHub Copilot、Anthropic Claude、Claude Agent SDK 等）可切换
+- 并行执行、for_each 动态分组与可复用子工作流
+- Web 仪表盘 DAG 可视化、OpenTelemetry 追踪导出
 
 ## 适用场景
 
-- 把代码评审、研究-综合、规划-实现等多 agent 流程固化为可版本控制的 YAML
-- 在 CI 与本地以相同方式运行同一工作流
-- 通过 Web 仪表盘实时观测 DAG 执行并处理人机协同节点
+- 把代码评审流水线固化为版本可控、可复现的 YAML 工作流
+- 编排先研究后综合、先计划后实施的多 agent 流程
+- 在本地与 CI 中以相同方式运行同一份工作流定义
+- 通过 Web 仪表盘监控并行 agent 运行并在浏览器中处理人工审批
 
 ## 场景标签
 
@@ -37,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L3: A CLI tool for defining and running multi-agent workflows with the GitHub Copilot SDK and Anthropic Claude.
 > L10: Conductor makes multi-agent workflows — code review pipelines, research-then-synthesize flows, plan-then-implement 
+> L13: - **Deterministic** — Routing uses Jinja2 templates and expression evaluation. First matching condition wins. No LL
 > L19: - **Multiple providers** - GitHub Copilot, Anthropic Claude, Claude Agent SDK (experimental), NousResearch Hermes (
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `f3eee01a1a9a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `31a1e44c7c7a` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 351 · Go · MIT · 推送 2026-11-19 · [GitHub](https://github.com/MiniMax-AI/OpenAgentCore) · [官网](https://openagentcore.dev/) · 组织维护 · 中文 README
 
-**开源自托管版 OpenAI Agents API，用自有模型跑 Codex/Claude Code 等**
+**自托管的 OpenAI Agents API 兼容运行时，运行 Codex/Claude Code 等 coding agent**
 
-MiniMax 开源的自托管 agent 运行时：提供与 OpenAI Agents API 相同协议的 /v1 端点，应用程序将 OPENAI_BASE_URL 指向自部署实例后即可用官方 OpenAI SDK 调用。每个 Session 在沙箱内原生运行 Codex、Claude Code 或 MiniMax Code 等 Harness，模型提供商可自行配置。沙箱（microsandbox/E2B/Docker/本机 Linux/macOS/Windows）、工作区文件系统、Harness 与模型提供商均通过协议可替换。通过 Docker 与安装脚本部署 Core、Web 与 PostgreSQL。
+提供与 OpenAI Agents API 相同协议的自托管服务：应用通过官方 OpenAI SDK 与 OPENAI_BASE_URL 接入，每个 Session 在沙箱环境中原生运行 Codex、Claude Code 或 MiniMax Code 等 Harness，模型提供者由用户配置。组件（沙箱提供者、工作区文件系统、Harness、模型提供者）通过定义的协议接入替换；空闲沙箱可释放计算并保留文件（microsandbox/E2B）。部署由 Core、Web 与 PostgreSQL 组成，提供 Linux/macOS/Windows 安装脚本，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ MiniMax 开源的自托管 agent 运行时：提供与 OpenAI Agents API 相同�
 
 ## 能力要点
 
-- 与 OpenAI Agents API 同协议，官方 OpenAI SDK 改 base URL 即可用
-- Session 在沙箱中原生运行 Codex / Claude Code / MiniMax Code
-- microsandbox 闲置释放算力、恢复时保留工作区文件
-- 沙箱/文件系统/Harness/模型提供商均按协议可插拔
+- 与 OpenAI Agents API 相同协议，官方 OpenAI SDK 经 OPENAI_BASE_URL 即可接入
+- Session 原生运行 Codex、Claude Code 或 MiniMax Code，模型提供者可配置
+- 沙箱组件可替换（microsandbox、E2B 或自有 Linux/macOS/Windows 机器）
+- 空闲沙箱释放计算、恢复时文件保留
 
 ## 适用场景
 
-- 在自己服务器上自托管兼容 OpenAI Agents API 的 agent 服务
-- 通过 OpenAI SDK 调用自配模型的编码 agent
-- 用 Docker 或 E2B 或本机作为沙箱运行 agent Session
+- 在自己的机器上用自有模型运行 coding agent
+- 为应用提供 OpenAI Agents API 兼容的自托管后端
+- 管理带持久工作区的 agent 沙箱会话
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: The OpenAI Agents API, open source and self-hosted. Run Codex, Claude Code or MiniMax Code on your own machines with
-> L11: - **Same API as OpenAI.** Set `OPENAI_BASE_URL` and the official OpenAI SDK, or plain HTTP, works unchanged.
-> L53: |**Agents API**|`/v1`|Your applications. Same protocol as OpenAI's Agents API|
+> L13: - **Same API as OpenAI.** Set `OPENAI_BASE_URL` and the official OpenAI SDK, or plain HTTP, works unchanged.
+> L16: - **Replaceable parts.** Sandbox Providers, workspace filesystems, Harnesses and model providers plug in through de
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3bfb66a141fa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fd4989e8831d` · [字段定义](../../DATASET.md)*

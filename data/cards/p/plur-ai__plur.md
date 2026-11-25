@@ -2,9 +2,9 @@
 
 ⭐ 319 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/plur-ai/plur) · [官网](https://plur.ai) · 组织维护
 
-**面向 AI agent 的本地优先共享记忆层（MCP 记忆服务器）**
+**给 AI agent 提供本地共享记忆的 MCP 记忆层**
 
-PLUR 是给 MCP 客户端（Claude Code、Codex、Cursor、OpenCode 等）提供持久共享记忆的本地优先 MCP 服务器与 CLI：agent 学到的纠正、偏好与约定以纯 YAML engram 存储在 ~/.plur/，跨会话、跨工具、跨机器共享。检索采用 BM25 + 本地嵌入的混合搜索，可选用本地重排器（BGE-reranker），无云端调用；对 Claude Code、Codex、Cursor、OpenCode 等提供 hooks 实现自动注入记忆。安装需要 Node.js 20+，通过 npm 全局安装后运行 plur init / plur doctor。Codex 需手动信任 hooks，部分客户端（Windsurf、Gemini CLI 等）仅有 tools-only 支持，无自动注入。
+PLUR 为 AI agent 提供跨会话、跨工具、跨机器的持久化共享记忆：以本地纯文本 engram（YAML）存储纠错、偏好与约定，用户可直接读取、更正、删除。通过 MCP server 与 hooks 适配 Claude Code、Codex、Cursor、OpenCode、OpenClaw 等客户端，实现记忆自动注入；检索采用 BM25+本地嵌入混合，可完全离线运行，无云端调用。以 npm CLI 分发，提供 plur init/doctor 配置与诊断，支持 domain/scope 知识隔离及远程团队存储。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ PLUR 是给 MCP 客户端（Claude Code、Codex、Cursor、OpenCode 等）提供
 
 ## 能力要点
 
-- 记忆以纯 YAML engram 存储在本地磁盘，可读、可改、可删
-- 本地混合检索（BM25 + 嵌入，可选 BGE 重排器），无需云端调用
-- 为 Claude Code/Codex/Cursor/OpenCode/Antigravity 等提供 hooks 自动注入适配
-- 支持按 domain/scope 区分项目、团队与全局知识
+- 本地纯文本 engram 存储，可读、可更正、可删除
+- 混合检索（BM25+本地嵌入），可完全离线、无需 API key
+- 7 个客户端带 hooks 自动注入，其余 MCP 客户端可用工具
+- domain/scope 按内容粒度的知识隔离与团队共享 scope
 
 ## 适用场景
 
-- 在 Cursor 里教过的架构约定，希望 Claude Code 也能记得
-- 让 agent 记住我对编码风格的纠正，跨会话持久生效
-- 本地数据主权要求下为多个 MCP 工具共享一套记忆
+- 让 Claude Code 与 Codex 等多个工具共享同一份偏好与纠错记忆
+- 公司镜像/内网环境下本地运行 agent 记忆
+- 团队知识按 scope 隔离，避免全局记忆串项目
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ PLUR 是给 MCP 客户端（Claude Code、Codex、Cursor、OpenCode 等）提供
 ## 证据(README 行号)
 
 > L13: Persistent, **open** memory for AI agents — local-first, zero-cost, shared across MCP tools (Claude Code, Codex, Cu
-> L58: Requires **Node.js 20 or newer**. Install both packages so editor configurations can use the installed MCP server:
+> L56: ## Install
+> L157: Every MCP client can call PLUR's tools. Only some have an *adapter* — the hooks
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `19ba2c2aa41a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `accf419e4971` · [字段定义](../../DATASET.md)*

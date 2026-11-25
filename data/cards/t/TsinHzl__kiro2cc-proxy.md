@@ -2,9 +2,9 @@
 
 ⭐ 361 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TsinHzl/kiro2cc-proxy) · 个人维护 · 中文 README
 
-**把 Kiro 账号模型代理给 Claude Code/Codex 的 Rust 代理服务**
+**把 Kiro 账号代理为 Claude API 供 Claude Code/Codex 使用的服务**
 
-Rust 编写的本地/服务器代理服务：将标准 Anthropic Claude API 及 OpenAI 兼容请求转发给 Kiro（AWS AI 编程工具），使 Claude Code、Codex CLI 及任意 OpenAI SDK 客户端可使用 Kiro 账号下的模型。支持 SSE 流式输出、thinking 模式、工具调用、WebSearch 转换、OAuth Token 自动刷新、多账号故障转移与负载均衡、账号级 HTTP/SOCKS5 代理及 4 上游端点轮询限流处理，附带 Web 管理面板。部署需源码构建（Rust+Node.js）或使用 Docker 预构建镜像；国内网络须配置本地代理。README 声明仅供研究使用。
+Rust 编写的代理服务，将 Anthropic Claude API 请求转换为 Kiro API 请求，使 Kiro 账号中的模型可在 Claude Code 或 Codex CLI 中调用，而非仅限 Kiro IDE/CLI 使用。提供 Anthropic API 兼容端点与 OpenAI 兼容端点、SSE 流式输出、prefix cache、Token 自动刷新、多账号故障转移与负载均衡、Admin Web 管理面板。部署方式包括预编译包、macOS/Windows 本地构建、Docker Compose 预构建镜像、systemd。国内使用需配置本地 HTTP/SOCKS5 代理。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Rust 编写的本地/服务器代理服务：将标准 Anthropic Claude API 及 
 
 ## 能力要点
 
-- Anthropic API 与 OpenAI 兼容端点（/v1/chat/completions、/v1/responses）
-- 多账号优先级/均衡负载、单请求最多 9 次重试自动故障转移
-- 4 个 Kiro 上游端点独立限流桶，429 时按桶封禁 30s
-- Web 管理面板支持 KAM 账号导入与额度验活
+- Anthropic API 与 OpenAI API 兼容端点，可接入 Claude Code 与 Codex CLI
+- 多账号优先级故障转移与 balanced 负载均衡，Token 自动刷新
+- 支持 SSE 流式输出、prefix cache、extended thinking 与 function calling
+- 提供 Admin Web 面板管理账号、余额查询与 API Key
 
 ## 适用场景
 
-- 在 Claude Code 或 Codex CLI 中使用 Kiro 账号的模型
-- 多账号聚合管理与故障转移部署
-- 通过 Docker 在服务器上自建代理服务
+- 用 Claude Code 调用 Kiro 账号中的模型
+- 通过 OpenAI 兼容端点把 Kiro 模型接入任意 SDK 客户端
+- 多账号场景下做负载均衡与自动故障转移
+- 在服务器上用 Docker 部署代理并统一管理账号
 
 ## 场景标签
 
@@ -39,7 +40,7 @@ Rust 编写的本地/服务器代理服务：将标准 Anthropic Claude API 及 
 
 > L3: **将 Anthropic Claude API 请求转换为 Kiro API 请求的 Rust 代理服务**
 > L44: kiro2cc-proxy 是一个代理服务。它把标准的 Anthropic Claude API 请求转发给 Kiro（AWS 的 AI 编程工具），让你可以用 Claude Code使用Kiro账号的模型。
-> L28: |**🧬 OpenAI 兼容 / Codex CLI**|提供 `/v1/chat/completions` 与 `/v1/responses` 端点，可直接接入 Codex CLI 及任意 OpenAI SDK 客户端|
+> L27: |**🔌 Anthropic API 兼容**|完整支持 Anthropic Claude API 格式|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `739d43459132` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ce8f10ba9800` · [字段定义](../../DATASET.md)*

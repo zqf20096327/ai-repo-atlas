@@ -1,16 +1,16 @@
 # cluster1900/apexo-code
 
-⭐ 303 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cluster1900/apexo-code) · 个人维护 · 中文 README
+⭐ 303 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cluster1900/apexo-code) · 个人维护
 
-**跨终端/网页/桌面的通用编程 Agent，多模型接入**
+**开源通用编码 agent，提供终端/Web/桌面三端界面**
 
-Apexo 是一个开源通用编程 Agent，由单一本地 Agent 运行时驱动 TUI、Web UI 和 Electron 桌面三种界面。提供自主目标迭代（/goal）、多会话工作流、后台任务与子 Agent 编排、跨会话持久记忆、命令沙箱（macOS seatbelt / Linux bubblewrap）与生命周期钩子等机制。模型接入覆盖 Google Gemini/Antigravity、xAI Grok（含 OAuth 登录）及任意 OpenAI 兼容端点（OpenAI、Claude、MiniMax、DeepSeek、vLLM、Ollama 等）。通过 npm 全局安装预编译 CLI，桌面安装器从 GitHub Releases 获取；桌面应用无自动更新，需重建或重装新版。
+Apexo 是一个通用编码 agent，由本地 agent 运行时统一驱动终端 TUI、Web UI 与 Electron 桌面应用。核心机制包括自主目标（/goal）、多会话工作流（/workflow）、后台任务与子 agent 编排（/tasks）、跨会话持久项目记忆（/memory）、OS 级命令沙箱（seatbelt/bubblewrap）与生命周期钩子。认证在本地完成，模型请求直连所配置的 provider；桌面应用无自动更新器，需重新构建或安装新版以更新。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,17 @@ Apexo 是一个开源通用编程 Agent，由单一本地 Agent 运行时驱动 
 
 ## 能力要点
 
-- 统一本地运行时驱动 TUI/Web/桌面三界面
-- 自主目标（/goal）与多会话工作流、后台子 Agent 编排
-- OS 级命令沙箱（seatbelt/bubblewrap）与持久项目记忆
-- Gemini/Antigravity 与 xAI Grok 一等支持，兼容任意 OpenAI 兼容端点
+- 单本地运行时驱动 TUI、Web、桌面三种界面，共享会话历史
+- 自主目标迭代（/goal）与多会话工作流（/workflow）
+- OS 级命令沙箱（macOS seatbelt / Linux bubblewrap）
+- 支持 Google Antigravity 与 xAI Grok 的本地 OAuth 登录复用
 
 ## 适用场景
 
-- 在终端里让 Agent 按目标自主迭代完成编码任务
-- 用自定义端点（vLLM/Ollama/DeepSeek 等）驱动本地化编程助手
-- 通过沙箱限制 Agent 执行的 shell 命令权限
+- 在终端中以 TUI 方式运行编码 agent 处理项目任务
+- 通过配置接入 OpenAI 兼容的本地或第三方模型端点
+- 用持久记忆跨会话维护项目上下文
+- 在后台运行定时任务与子 agent 协调会话
 
 ## 场景标签
 
@@ -37,8 +38,8 @@ Apexo 是一个开源通用编程 Agent，由单一本地 Agent 运行时驱动 
 
 ## 证据(README 行号)
 
-> L10: Apexo is a **general-purpose coding agent** with a unified terminal UI (TUI), web UI, and Electron desktop app powe
-> L12: Rather than being tied to a single model vendor or acting as a thin wrapper, Apexo provides its own deeply engineer
+> L11: Apexo is a **general-purpose coding agent** with a unified terminal UI (TUI), web UI, and Electron desktop app powe
+> L17: - **Universal multi-provider & OpenAI-compatible runtime.** Connect OpenAI, Anthropic (Claude), MiniMax, DeepSeek, 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `34b8eb42d1b8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `127d98fbe0bc` · [字段定义](../../DATASET.md)*

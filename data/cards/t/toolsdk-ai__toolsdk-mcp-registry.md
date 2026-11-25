@@ -2,9 +2,9 @@
 
 ⭐ 312 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/toolsdk-ai/toolsdk-mcp-registry) · [官网](https://toolsdk.ai) · 组织维护
 
-**MCP 服务器注册表与网关：发现、接入并执行 MCP 工具**
+**MCP 服务器注册表与网关：发现、连接并执行工具**
 
-面向 MCP 生态的注册表与网关平台：收录 5096 个 MCP 服务器的结构化 JSON 配置与工具元数据，提供联邦发现（含官方 MCP Registry）、统一网关（将本地 STDIO 与远程 Streamable HTTP 服务器桥接为标准 MCP 端点）、HTTP API、沙箱执行（Sandock/Daytona/E2B）与 OAuth 2.1 代理。可通过 Docker Compose 自托管（含 Meilisearch 与 OpenAPI 文档），也可通过托管 API、npm 包或公开 JSON 端点读取目录数据。开发者还可提交自己的 MCP 服务器并获取状态徽章。
+提供 MCP 服务器的结构化 JSON 注册表（收录 5948 个服务器，按类别组织）与可自部署的 MCP 网关：通过 Docker Compose 部署后，可经 HTTP API 检查服务器、发现工具并执行调用；网关将本地 STDIO 包与远程 Streamable HTTP 服务器桥接为统一的 /mcp/<key> 端点供 MCP 客户端连接。支持 OAuth 2.1 代理、沙箱隔离执行（Sandock/Daytona/E2B）、联邦发现（本地条目与官方 MCP Registry）、Meilisearch 检索与 OpenAPI 文档。提供托管 API、npm 包与 GitHub Pages JSON 索引。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 5096 个 MCP 服务器的结构化 JSON 注册表与工具元数据
-- 统一网关桥接 STDIO 与 Streamable HTTP 至 /mcp/<registry-key> 端点
-- 沙箱执行（Sandock/Daytona/E2B）与 OAuth 2.1 代理
-- Docker Compose 一键自托管，含 Meilisearch 搜索与 OpenAPI 文档
+- 收录 5948 个 MCP 服务器的结构化 JSON 配置与工具元数据
+- 自部署 MCP 网关：统一桥接 STDIO 与 Streamable HTTP 工具
+- OAuth 2.1 代理与沙箱隔离执行（Sandock/Daytona/E2B）
+- 发布 JSON 索引与 npm 包，供构建目录与集成
 
 ## 适用场景
 
-- 为我的 AI 应用查找并接入 MCP 工具
-- 自部署 MCP 网关统一管理本地与远程 MCP 服务器
-- 通过 HTTP API 或 npm 包读取注册表数据构建目录服务
-- 发布自己的 MCP 服务器并展示注册状态徽章
+- 为 AI 应用查找并接入 MCP 服务器工具
+- 自托管一个私有 MCP 网关与注册表
+- 向社区目录提交自己的 MCP 服务器
 
 ## 场景标签
 
@@ -39,8 +38,9 @@
 ## 证据(README 行号)
 
 > L7: Discover MCP servers. Connect AI applications. Execute tools through one gateway.
-> L26:  ToolSDK connects AI clients with MCP servers through its registry and hosting platform
-> L147: - **Structured Registry** - 5096 MCP servers organized by category, with reusable JSON configurations and tool met
+> L43: Deploy your own **MCP Gateway & Registry** with Docker Compose:
+> L148: - **Structured Registry** - 5948 MCP servers organized by category, with reusable JSON configurations and tool met
+> L150: - **Unified Gateway** - Access local STDIO and remote Streamable HTTP tools through an HTTP API or a standard MCP 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `022d172d7ed2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `22edfa99b7c0` · [字段定义](../../DATASET.md)*

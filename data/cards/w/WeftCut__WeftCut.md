@@ -1,10 +1,10 @@
 # WeftCut/WeftCut
 
-⭐ 392 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/WeftCut/WeftCut) · [官网](https://weftcut.com) · 个人维护 · 中文 README
+⭐ 392 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/WeftCut/WeftCut) · [官网](https://weftcut.com) · 个人维护
 
-**可被 AI agent 通过 MCP 操控的开源桌面视频编辑器**
+**可用 MCP 客户端驱动时间线的开源桌面视频编辑器**
 
-面向 Windows/macOS/Linux 的完整桌面 NLE（多轨时间线、关键帧曲线编辑、字幕、基于角色的音频混音、硬件加速导出），核心机制是内置 localhost MCP 服务器，把全部编辑工具（place/trim/split/keyframe/caption/checkpoint 等）发布给 Codex、Claude 等 MCP 客户端驱动，支持多 agent 会话、dry_run 排练、检查点回滚、Tacks 审阅与 Timeline diff。Motif 机制让代码（HTML/CSS/WebGL）作为纯时间函数渲染成时间线图层。语音转写可选云端或本地引擎（whisper.cpp、FunASR），安装包不捆绑模型权重。作者声明仍在 v1.0.0 前活跃开发中。
+基于 Electron 的跨平台非线编（NLE）应用，通过内置 localhost MCP server 将全部编辑工具（放置、裁剪、关键帧、字幕、混音等）暴露给 Codex、Claude 等 MCP 客户端，代理操作落入实时时间线并可撤销、可审计（Tacks 标注、Timeline diff、检查点）。同时是完整的手动编辑器：A/B-roll、曲线编辑器、角色混音、硬件加速导出。安装不带模型权重，语音/视觉本地引擎（whisper.cpp、FunASR）为可选下载，转录也可走云端。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 内置 localhost MCP 服务器，发布全部编辑工具供任意 MCP 客户端调用
-- 多 agent 会话、dry_run 排练、检查点一键恢复、Timeline diff 审阅
-- Motif：以网页代码编写的时间线图层，按时间纯函数渲染，参数可在应用内编辑
-- 本地语音转写可选 whisper.cpp / FunASR 按需下载，安装包不捆绑模型权重
+- localhost MCP server 发布全部编辑工具，任何 MCP 客户端可驱动时间线
+- Tacks 标注、Timeline diff 与检查点提供代理工作会话的审查与回滚机制
+- Motif 机制：HTML/CSS/SVG/Canvas 编写的随时间纯函数渲染的屏幕元素层
+- 代理与人工均可操作完整 NLE：A/B-roll、关键帧曲线、角色混音、H.264/HEVC/AV1 导出
 
 ## 适用场景
 
-- 让 Claude/Codex 等 agent 直接在我正在观看的项目时间线上执行剪辑
-- 用 agent 审查素材（镜头边界检测、停顿检测）并留 Tacks 供我决策
-- 用代码编写倒计时、字幕条等动态叠加层并保持可编辑
+- 让代理按对话指令剪辑访谈素材并逐段审查后再落地
+- 用代码生成下三分之一字幕条、倒计时等动态图层
+- 本地或云端转录视频并生成可编辑字幕
+- 手动完成完整剪辑流程，导出硬件加速视频
 
 ## 场景标签
 
-`图像视频处理` · 领域:感知与多模态
+`语音识别` `图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
 > L27: Most editors bolt AI on as a feature: a button that generates something, a sidebar that suggests a cut. WeftCut exp
 > L29: None of that rides on a stripped-down editor. Everything an agent can reach, you can do by hand, in a full NLE: A/B
-> L6:  Point Codex, Claude, or any MCP client at a real desktop NLE — and watch
+> L132: |**Agent surface**|MCP · streamable HTTP on localhost · stdio through the `weftcut` binary (Go, standard library o
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `53a2df03e418` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `140d0776ecc4` · [字段定义](../../DATASET.md)*

@@ -2,16 +2,16 @@
 
 ⭐ 318 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/summarizepaper/summarizepaper) · [官网](https://www.summarizepaper.com) · 个人维护
 
-**arXiv 论文 AI 摘要网站，附全文问答助手**
+**面向研究人员的论文摘要、全文问答与文献追踪工具**
 
-基于 Django 5.2 的 Web 应用：从 arXiv 抓取论文（优先 HTML、PDF 回退）生成详细摘要、要点、通俗摘要与博客式文章，支持英文/法语；提供基于论文全文的流式问答助手，可同时与多篇论文对话，并有每日邮件摘要、BibTeX/PDF 导出、Stripe 付费订阅（更强模型与更高额度）。部署面向 Heroku（PostgreSQL、Redis、Channels websocket），本地运行需 Python 3.11 venv、Redis 与 OPENAI_KEY 环境变量。
+面向研究人员的论文辅助 Web 应用：对 arXiv、bioRxiv、medRxiv 等来源的论文生成摘要、关键点与多语言改写；支持基于全文的论文问答与多篇论文的带出处对比表；提供每日摘要、保存的检索、上升话题、引用提醒、文献综述、新闻资料包与报告幻灯片等功能，部分功能属付费层级。技术栈为 Django 5.2、Channels/Redis、PostgreSQL，部署于 Heroku；文本、嵌入与语音使用 OpenAI 模型，元数据来自 arXiv、OpenAlex、Crossref 等多个学术 API。本地运行需 Python 3.12 与 Redis。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | MIT |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 论文全文问答助手（流式回答，可多论文对话）
-- 四种摘要形式（详细/要点/通俗/博客式），支持英法双语
-- 订阅类别新论文的每日邮件摘要
-- Stripe 付费订阅与配额控制（服务端核验）
+- 基于全文的论文问答，每条回答附对应原文段落链接
+- 多篇论文逐格带出处的对比表
+- 每日摘要、上升话题、引用提醒等文献追踪功能
+- 支持 16 种语言改写摘要与法语本地化
 
 ## 适用场景
 
-- 快速了解 arXiv 新论文的核心内容
-- 针对某篇论文全文提问获得解答
-- 订阅关注领域的每日论文邮件推送
+- 快速读取一篇论文的要点并向全文提问
+- 追踪所在领域的新论文与上升话题
+- 为一项研究问题整理文献综述
+- 准备期刊俱乐部报告幻灯片
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L3: A web application that uses AI to summarize academic papers from arXiv and provides a virtual assistant :robot: to a
-> L8: - An AI assistant that answers questions from the full text of the paper, with streamed answers
+> L3: **AI tools for researchers, from reading a paper to presenting it.** Summaries and a chat that answer
+> L26: |Chat with papers|Questions to one paper or several at once, answered from the full text with the passage behind ea
+> L64: Django 5.2 served by Daphne (ASGI), Channels websockets over Redis, PostgreSQL, on Heroku. Python 3.12.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `f7bdbf922ff7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e7aca1b638e0` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 320 · HTML · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/aaryansamanta/aaryansamanta.github.io) · 个人维护
 
-**机器学习研究者的个人静态作品集网站（GitHub Pages）**
+**AI/计算生物研究者 Aaryan Samanta 的个人静态主页与研究作品集**
 
-单页静态个人网站，展示 Aaryan Samanta 的机器学习（生物与医学方向）研究论文、竞赛成绩与所运营组织。无构建步骤、无框架、无第三方请求，禁 JS 也可用；内容全部写在 index.html，配 tools/check.py 做链接与占位文本校验，另有脚本重建简历 PDF 与横幅 GIF，通过 GitHub Pages 用户站点部署。仅内容为静态展示，不含可运行的 AI 功能。
+单文件 index.html 构建的 GitHub Pages 用户站点，汇总研究论文、竞赛成绩、组织经历与学术记录，每项数据附公开来源链接；内含 11 个交互式研究演示页（胸片分类、细胞追踪、糖尿病预测、RNA 折叠等）。无构建步骤、无框架、无第三方请求，支持明暗主题与无 JavaScript 浏览；仓库带 Python 检查脚本校验链接与数据一致性，并提供脚本重建简历 PDF 与 README 动图。内容与代码分许可：代码 MIT，文字与个人信息保留所有权利。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 单文件静态页，无构建步骤、无追踪器、字体自托管
-- tools/check.py 在提交前校验链接、联系方式与占位文本
-- 脚本化重建简历 PDF 与 72 帧横幅 GIF
-- 支持无 JavaScript 浏览与打印、深浅主题
+- 单文件静态站：无构建步骤、无框架、无跟踪器、无第三方请求
+- 11 个交互式研究演示页，配导航与对比入口
+- tools/check.py 在提交前校验失效链接、电话号码与占位文本
+- 脚本化重建简历 PDF 与 72 帧 README 动图
 
 ## 适用场景
 
-- 作为研究者个人主页展示论文、竞赛与项目记录
-- 通过 GitHub Pages 分支部署自动上线
-- 按内容指南维护可溯源的成果记录
+- 查阅该研究者的论文、竞赛与项目记录并核验来源
+- 浏览交互式机器学习与计算生物研究演示
+- 参考其单文件静态个人站的组织方式
 
 ## 场景标签
 
- · 领域:个人网站/学术展示
+ · 领域:个人网站/作品集
 
 ## 证据(README 行号)
 
 > L16: **Personal site of Aaryan Samanta: research, competitions, and the organizations I run.**
-> L35: |🔬|**Research**|Papers with a copy-BibTeX button, mentored research, projects|
+> L51: - 🪶 **No build step, no framework, no trackers, no third-party requests.** Fonts are self-hosted.
+> L140: This repository is a GitHub Pages **user site**, so it must be named exactly `aaryansamanta.github.io`.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 low · 依据 README sha `297e845b1854` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `c9bc33805db0` · [字段定义](../../DATASET.md)*

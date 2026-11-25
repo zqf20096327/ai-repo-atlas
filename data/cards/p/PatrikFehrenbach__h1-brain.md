@@ -2,9 +2,9 @@
 
 ⭐ 362 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PatrikFehrenbach/h1-brain) · 个人维护
 
-**连接 AI 助手与 HackerOne 的 MCP 服务器，辅助漏洞赏金**
+**把 AI 助手接入 HackerOne 的 MCP 服务器，辅助漏洞赏金狩猎**
 
-面向漏洞赏金研究者的 MCP server：通过 HackerOne API 拉取个人报告、项目范围与活动时间线到本地 SQLite，并内置 3,600+ 公开已付赏金报告数据库。提供十余个 MCP 工具用于检索、同步数据，核心工具 hack(handle) 一次性生成攻击简报——含最新范围、个人历史发现、弱点模式、未触及资产与建议攻击向量。需 Python 3.10+ 与 HackerOne API token，支持 Claude Desktop / Claude Code 等 MCP 客户端接入。
+一个 MCP 服务器，将 AI 助手连接到 HackerOne：通过 API 拉取用户的赏金报告历史、项目范围与报告详情，存入本地 SQLite 数据库，并随仓库附带 3,600+ 条公开披露且获得赏金的报告数据库。暴露 MCP 工具供 Claude Desktop、Claude Code 等客户端调用，主要工具 hack(handle) 一次性汇总新范围、历史发现、公开披露、弱点模式、未测资产并生成攻击简报。需要 Python 3.10+ 与 HackerOne API token，个人数据需先执行 fetch 工具同步。
 
 ## 筛选速览
 
@@ -20,19 +20,20 @@
 
 ## 能力要点
 
-- 内置 3,600+ 公开赏金报告的 SQLite 数据库，开箱可查
-- hack(handle) 单次调用生成含范围、弱点模式与建议攻击向量的攻击简报
-- 个人数据库与公开报告库分离，支持全文检索与报告时间线导出
+- hack(handle) 单次调用生成完整攻击简报（范围/弱点模式/未测资产/攻击向量）
+- 内置 3,600+ 条公开披露的赏金报告数据库，开箱可查询
+- 个人数据与公开披露双数据库分离，共提供约 12 个 MCP 工具
+- 支持 Claude Desktop 与 Claude Code 两种接入方式
 
 ## 适用场景
 
-- 让 Claude 等客户端检索我的历史赏金报告与项目范围
-- 针对某个目标程序生成汇总弱点模式与未触及资产的攻击简报
-- 全文检索社区公开披露的漏洞报告
+- 为自己参与的 HackerOne 项目生成攻击简报
+- 按弱点类型、严重度检索自己过往的报告
+- 搜索社区公开披露报告寻找可借鉴的弱点模式
 
 ## 场景标签
 
-`网络安全` `语义搜索` · 领域:知识与检索
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `531e07af1eb7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `6e9c5dde9ae0` · [字段定义](../../DATASET.md)*

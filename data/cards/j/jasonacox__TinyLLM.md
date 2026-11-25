@@ -2,9 +2,9 @@
 
 ⭐ 357 · JavaScript · MIT · 推送 2026-10-25 · [GitHub](https://github.com/jasonacox/TinyLLM) · 个人维护
 
-**在消费级硬件上搭建本地 LLM 与类 ChatGPT 聊天界面的指南项目**
+**在消费级硬件上搭建本地 LLM 推理服务与聊天界面**
 
-TinyLLM 是一个帮助用户在消费级硬件上运行本地 LLM 的项目：给出基于 Ollama、vLLM、llama-cpp-python 三种推理服务器的安装运行步骤（均提供 OpenAI 兼容 API），并提供一个 Python FastAPI 编写的 Chatbot Web 应用，支持多会话、对话历史、URL/PDF 摘要、新闻/股票/天气命令与向量数据库 RAG 查询。附推荐模型清单（GGUF 与 vLLM 各一组）与 `llm` CLI 工具接入说明。快速启动脚本标注为 TODO，尚无一键部署。
+面向想在本地小系统上运行大语言模型的用户，提供三条推理服务器部署路径（Ollama、vLLM、llama-cpp-python），三者均输出 OpenAI 兼容 API，并附带一个基于 FastAPI 的 ChatGPT 风格 Web 聊天应用，支持多会话、会话历史、URL/PDF 摘要、新闻/股票/天气命令及向量数据库 RAG 查询。README 给出硬件要求、模型推荐表（GGUF 量化与 vLLM 非量化两条线）及 Ollama 模型驻留调优方法；Quickstart 一节标注 TODO，需手动安装。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ TinyLLM 是一个帮助用户在消费级硬件上运行本地 LLM 的项目：�
 
 ## 能力要点
 
-- 三种推理服务器方案：Ollama / vLLM / llama-cpp-python（均带 OpenAI 兼容 API）
-- FastAPI Chatbot：多会话、URL/PDF 摘要、新闻/股票/天气命令
-- 向量数据库 RAG 查询支持
-- 分 GGUF 量化与 vLLM 两组的推荐模型清单（Mistral、Llama-3、Phi-4、Qwen 等）
+- 支持经 Ollama、llama.cpp、vLLM 三种推理服务器构建本地 OpenAI API 服务
+- FastAPI Web 聊天界面支持多会话、URL/PDF 摘要与 /news /stock /weather 命令
+- 向量数据库 RAG 查询与外部来源接入
+- 提供适配消费级 GPU 的量化模型推荐表与 Ollama 驻留/上下文调优说明
 
 ## 适用场景
 
-- 在自家 8GB 内存、消费级 GPU 的机器上跑一个本地 LLM 服务
-- 通过网页聊天界面访问本地模型并做 RAG 问答
-- 阅读 URL/PDF 并让本地模型生成摘要
+- 在带消费级 GPU 的家用机器上自托管 LLM 聊天服务
+- 需要 OpenAI 兼容 API 供本地工具接入的场景
+- 通过网页对话总结网页、PDF 或查询新闻股票天气
 
 ## 场景标签
 
-`聊天机器人` `RAG` `教程课程` · 领域:对话与助手
+`聊天机器人` `RAG` `推理引擎` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L5: This project helps you build a small locally hosted LLM with a ChatGPT-like web interface using consumer grade hardw
 > L12: * Builds a local OpenAI API web service via Ollama, llama.cpp or vLLM.
 > L38: To run a local LLM, you will need an inference server for the model. This project recommends these options: vLLM, l
-> L86: The TinyLLM Chatbot is a simple web based python FastAPI app that allows you to chat with an LLM using the OpenAI A
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `30f9e5c43933` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f64f326f2933` · [字段定义](../../DATASET.md)*

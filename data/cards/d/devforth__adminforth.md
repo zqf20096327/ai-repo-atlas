@@ -2,15 +2,15 @@
 
 ⭐ 388 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/devforth/adminforth) · [官网](https://adminforth.dev) · 组织维护
 
-**TypeScript/Vue 的 Agent 优先管理后台框架**
+**供团队与 AI agent 共用的开源后台管理面板框架**
 
-面向开发者的管理后台生成框架：通过 npx adminforth create-app 传入数据库 URL（支持 Postgres/MySQL/Mongo/SQLite/Clickhouse）生成完整 CRUD 界面，可用 Vue 组件与内置组件库 AFCL 定制外观，并带审计日志、文件上传、TOTP 2FA、I18N、Copilot 式 AI 写作与图像生成等后-office 插件。要求 Node.js 22.12+/24/26。声明始终免费开源、无付费版本与云订阅。去掉 AI 插件后仍是完整的管理后台框架。
+TypeScript + Vue 3 的后台/业务管理应用框架：声明数据库资源即可生成列表、详情、增删改界面，带过滤、校验与访问控制，并把同一资源暴露为 MCP 工具供 agent 调用。agent 调用走 OAuth 2.1 或按用户可撤销密钥，且受该用户角色权限约束；每次变更写入审计日志并标注操作者与所用 agent。数据源支持 Postgres、MySQL、SQLite、MongoDB、ClickHouse。安装需 Node.js 22.12+ 与 pnpm，MIT 许可、可自托管。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- CLI 从数据库 URL 导入表并生成 CRUD 界面
-- 支持 Postgres/MySQL/Mongo/SQLite/Clickhouse 五种数据库
-- Vue 组件自定义列/字段/页面，内置 AFCL 组件库
-- 插件含审计日志、TOTP 2FA、I18N、Copilot 式 AI 写作与图像生成
+- 将数据库资源同时生成管理界面与 MCP 工具
+- agent 调用按用户权限执行并写入含 agent 归属的审计日志
+- 安全插件：TOTP/passkeys、OAuth SSO、会话撤销、登录验证码
+- 生成的应用自带 AGENTS.md/CLAUDE.md 与 skills，文档发布 llms.txt
 
 ## 适用场景
 
-- 基于已有数据库快速搭建后台管理系统
-- 在管理页面中直接使用 AI 写作与图像生成
-- 通过 Vue 组件扩展后台的表格与自定义页面
+- 为自己的业务数据库搭建带权限控制的后台管理面板
+- 让编码 agent 生成后台应用后经 MCP 查询和更新业务数据
+- 需要审计每条数据变更是谁、经哪个 agent 做的团队
 
 ## 场景标签
 
- · 领域:Web 开发/管理后台框架
+ · 领域:后台管理/低代码框架
 
 ## 证据(README 行号)
 
-> L1: # AdminForth - powerfull Agent-first Typescript admin panel framework
-> L24: * Use various modern back-office-must-have plugins like audit log, files/image upload, TOTP 2FA, I18N, Copilot-styl
+> L69: AdminForth is a TypeScript and Vue 3 framework for back-office and business applications. Declare resources over yo
+> L72: - **Agents:** the MCP server plugin with OAuth 2.1 sign-in or per-user revocable secrets, every call under the user
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `29244f377444` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `be1faecd9a87` · [字段定义](../../DATASET.md)*

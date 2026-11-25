@@ -2,9 +2,9 @@
 
 ⭐ 342 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/huggingface/optimum-benchmark) · 组织维护
 
-**多后端多硬件的模型推理/训练基准测试工具**
+**给 HuggingFace 生态用户做多后端推理/训练性能基准测试**
 
-HuggingFace 维护的统一基准测试工具，面向 Transformers、Diffusers、PEFT、TIMM 及 Optimum 系列库，支持推理与训练场景下衡量延迟、吞吐、内存与能耗。支持 PyTorch、ONNXRuntime、OpenVINO、TensorRT-LLM、vLLM、Neural Compressor、IPEX、Py-TXI、LlamaCpp 等后端，覆盖 CPU/CUDA/ROCM/XPU 等设备，通过 Hydra CLI 或 Python API 运行单次或扫描式基准。提供 pip 安装与 cpu/cuda/rocm 三类 docker 镜像。README 自述为进行中项目、尚不适用于生产环境。
+面向 HuggingFace 生态用户与硬件合作伙伴的基准测试工具：对 Transformers、Diffusers、PEFT、Timm 等库的模型，在多后端（PyTorch、ONNXRuntime、OpenVINO、TensorRT-LLM、vLLM、Neural Compressor、Py-TXI、llama.cpp）与多设备（CPU/CUDA/ROCm）上测量延迟、吞吐、内存与能耗。基准由 launcher/scenario/backend 三要素定义，通过 Hydra CLI 或 Python API 运行，支持配置覆盖与 multirun 扫描，输出 JSON/Markdown 报告；提供 cpu/cuda/rocm Docker 镜像用于复现。README 注明项目仍在开发中，尚未可用于生产。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ HuggingFace 维护的统一基准测试工具，面向 Transformers、Diffusers�
 
 ## 能力要点
 
-- 9+ 种后端（PyTorch/ONNXRuntime/OpenVINO/TensorRT-LLM/vLLM/LlamaCpp 等）跨 CPU/CUDA/ROCM/XPU 设备
-- 推理/训练场景的延迟、吞吐、内存、能耗跟踪
-- Hydra CLI 支持配置覆盖与多设备扫描运行
-- no_weights 特性可用随机初始化权重测试模型，无需下载权重
+- 多后端基准测试：PyTorch/ONNXRuntime/OpenVINO/TensorRT-LLM/vLLM/Neural Compressor/Py-TXI/llama.cpp
+- 测量延迟、吞吐、内存与能耗，支持训练与推理两种场景
+- Hydra CLI 支持配置覆盖与 multirun 扫描，Python API 支持隔离与分布式基准
+- 提供 cpu/cuda/rocm 四个 Docker 镜像用于测试与复现
 
 ## 适用场景
 
-- 对比不同硬件平台上同一模型的推理性能
-- 评估不同量化与优化方案对延迟/内存/能耗的影响
-- 为模型选型比较多个后端的吞吐与延迟
+- 对比不同模型在延迟、吞吐、内存、能耗上的表现
+- 硬件厂商评估自家硬件在相同模型上的性能
+- 测试量化与优化方案对推理/训练效率的影响
+- 为 LLM 性能榜单类项目采集可复现的基准数据
 
 ## 场景标签
 
@@ -38,7 +39,8 @@ HuggingFace 维护的统一基准测试工具，面向 Transformers、Diffusers�
 ## 证据(README 行号)
 
 > L11: Optimum-Benchmark is a unified multi-backend & multi-device utility for benchmarking Transformers, Diffusers, PEFT,
-> L200: `optimum-benchmark` allows you to run benchmarks with minimal configuration. A benchmark is defined by three main 
+> L199: - The launcher to use (e.g. `process`)
+> L240: ### Backends & Devices 📱
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9d92fdce2435` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `eaeec3ec6825` · [字段定义](../../DATASET.md)*

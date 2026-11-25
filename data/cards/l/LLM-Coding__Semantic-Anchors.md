@@ -1,10 +1,10 @@
 # LLM-Coding/Semantic-Anchors
 
-⭐ 547 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/LLM-Coding/Semantic-Anchors) · [官网](https://llm-coding.github.io/Semantic-Anchors/) · 组织维护
+⭐ 547 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/LLM-Coding/Semantic-Anchors) · [官网](https://llm-coding.github.io/Semantic-Anchors/)
 
-**230+ 语义锚点策展清单：用术语激活 LLM 深层知识**
+**面向 LLM 使用者的 230+ 语义锚点术语编目清单**
 
-由 LLM Coding 社区维护的语义锚点目录：收录 arc42、TDD London School、tracer bullet 等 230+ 明确定义的术语与方法论，作为与 LLM 沟通时的共享词汇，替代在提示词中逐条展开方法描述。目录按 12 个 MECE 类别组织，支持按 18 种职业角色过滤，配有 Vite 构建的静态网站提供搜索与可视化。对本地/较小模型（Llama、Mistral、Phi 等）可将锚点定义注入 agent 指令文件，提供覆盖 Claude Code、Codex、Gemini CLI、Cursor、Copilot、Windsurf 的安装指南。贡献流程含 Anchor Prior Test 质量测试与 Copilot 辅助富化。
+该项目编目了 230+ 个语义锚点——即在提示词中引用即可激活 LLM 训练数据中对应方法论的既定术语（如 arc42、TDD London School）。条目按 15 个 MECE 类别组织，并支持按 18 种职业角色过滤，附交互式网站（搜索、卡片网格、英德双语）。收录遵循质量标准（精确、丰富、一致、可归因），社区通过 issue 模板提案，经 Anchor Prior Test 测试后由 Copilot 辅助生成条目并经维护者审核合并。本地/小模型可通过向 Claude Code、Codex 等工具的指令文件注入显式定义来使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 230+ 语义锚点按 12 个类别组织，可按 18 种角色过滤
-- 提供交互式网站：全文搜索、可视化、英德双语
-- 针对本地/小模型提供将锚点定义注入 agent 指令文件的指南
-- 贡献流程含质量测试（Anchor Prior Test）与 Copilot 辅助富化
+- 230+ 个经测试收录的语义锚点，按 15 个类别组织
+- 按 18 种职业角色过滤锚点
+- 配套 Vite 静态站点：全文搜索、卡片可视化、英德双语切换
+- 本地模型场景提供向 agent 指令文件注入定义的安装指南
 
 ## 适用场景
 
-- 写提示词或 agent 指令时查找可用的术语锚点，减少 token 并保持一致性
-- 为本地/较小 LLM 注入锚点定义以获得一致的方法论激活
-- 按职业角色（架构师、QA、产品负责人等）浏览适用的锚点
+- 写提示词时用简短术语替代冗长的方法论描述
+- 为 Claude Code、Cursor 等编码 agent 配置共享术语定义
+- 查找适合特定职业角色（架构师、QA、技术写作等）的提示词汇
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L16: Browse the full catalog of 230+ semantic anchors with interactive visualization, search, and role-based filtering:
 > L22: *Semantic anchors* are well-defined terms, methodologies, and frameworks that serve as reference points when commun
-> L36: Most frontier LLMs already recognize semantic anchors from their training data. However, if you use local or smalle
+> L63: The catalog is organized into 15 categories. Their scopes are MECE (Mutually Exclusive, Collectively Exhaustive); a
+> L110: │ ├── anchors/ # Individual anchor files (230+)
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `fcf6eba36e76` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `14828c7c97b3` · [字段定义](../../DATASET.md)*

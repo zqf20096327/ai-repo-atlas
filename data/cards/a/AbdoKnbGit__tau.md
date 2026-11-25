@@ -2,9 +2,9 @@
 
 ⭐ 432 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/AbdoKnbGit/tau) · 个人维护
 
-**自适应编码 Agent 客户端：30 个模型供应商原生接入**
+**面向开发者的自适应编码 agent，内置 30 家模型商适配器**
 
-终端中运行的编码 Agent harness：内置工具、技能、子 Agent、MCP 服务器、LSP 与 hooks 组成完整 agent loop，通过原生适配器直连 30 个模型供应商 API（非路由/代理层）。特色机制包括持久 Python kernel（单轮执行整段工作流以降低成本）、影子 git 仓库快照与时间回溯、终端 LaTeX/图表渲染、浏览器自动化、常驻命名子 Agent、Wi-Fi/隧道远程控制与共享会话、跨供应商的上下文与故障回退管理。npm 一键安装，需 Node.js 20.19+/22.12+ 与 Git，可选构建原生 helper 需 Go。
+Tau 是一个终端运行的编码 agent harness，通过 npm 安装后执行 `tau` 启动，`/login` 选择提供商即可使用。内置 tools、skills、subagents、MCP、LSP 与 hooks 组成的完整 agent 循环；自带搜索、文件读取、Bash 安全分类、Python 持久内核、终端 Mermaid 绘图、浏览器自动化与快照回滚工具。要求 Node.js（推荐 24 LTS）、Git、Bash 与 `gh`。子代理可配置独立提供商/模型，支持降级恢复与跨提供商上下文适配。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 30 个供应商原生适配器，直连各自 API，非路由层
-- 持久 Python kernel：整段工作流单轮执行，状态跨 cell 保留
-- 影子 git 快照：保存/对比/恢复工作区状态
-- 常驻命名子 Agent，可继续派发任务，各用独立供应商/模型
+- 30 个提供商原生适配器，直连各提供商 API，无中间代理
+- 完整 agent 循环内置：tools、skills、subagents、MCP、LSP、hooks
+- 持久 Python 内核单回合执行批处理工作流并返回结果
+- 影子 git 快照实现工作树保存、diff 与恢复
 
 ## 适用场景
 
-- 在终端里让 AI Agent 完成编码与仓库管理任务
-- 多供应商切换使用不同模型并做故障回退
-- 用手机远程查看和审批正在运行的 Agent 会话
-- 批量处理 CSV/代码库分析等可写成 Python 单元的工作流
+- 多提供商间切换并管理编码 agent 的模型与成本
+- 让 agent 批量分析 CSV/代码库并在单回合出结果
+- 通过手机远程查看并继续本机 agent 会话
+- 子代理并行搜代码、按需指定各自的提供商与模型
 
 ## 场景标签
 
-`编码 Agent` `浏览器自动化` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L11: Tau is an adaptive coding harness that is simple to use. It costs less to run, gives you higher quality output, and
-> L86: Everything a full agent loop needs is built in: tools, skills, subagents, MCP servers, LSP and hooks. It all works 
+> L61: 30 providers with native adapters. Not a routing layer, not a translation proxy. Each provider speaks its own API t
+> L65: Everything a full agent loop needs is built in: tools, skills, subagents, MCP servers, LSP and hooks. It all works 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `98a6a2d8831d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `89de276def12` · [字段定义](../../DATASET.md)*

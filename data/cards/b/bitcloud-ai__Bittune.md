@@ -2,9 +2,9 @@
 
 ⭐ 406 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bitcloud-ai/Bittune) · 组织维护 · 中文 README
 
-**本地推理工程智能体：自然语言驱动 vLLM/SGLang 部署压测调优**
+**在你自己的 GPU 上部署、压测、调优 vLLM/SGLang 的本地 Agent**
 
-运行在用户自有 GPU 机器上的推理工程智能体：以自然语言下达目标后，执行环境检查、本机模型发现、vLLM/SGLang 受管部署、EvalScope 压测与参数调优，并将结论记录为绑定环境指纹与配置 Hash 的可复核执行证据（Run Record/Artifact）。通过静态 Domain Tool Registry 提供受管操作，需配置 OpenAI-compatible Agent LLM 才能启动。以 Linux x86_64 tar.gz 安装包分发，安装器自带固定版本 Node.js，需 root 或 docker 组权限；GPU、Docker、NVIDIA Container Toolkit 为按需前置。
+Bittune 是运行在用户自有 GPU 机器上的本地推理服务 Harness：Agent 使用 4 个通用工具与 10 个受管工具完成环境探测、部署计划（校验并冻结为不可变快照）、受管容器部署、基于 EvalScope 的规范化压测（TTFT/TPOT/RPS/TPS 等指标）、结果可比性校验与报告生成。所有数字绑定硬件快照与 workload hash，Run、Artifact 与报告存于本地 SQLite+文件，由 Python Core 唯一写入。启动需任意 OpenAI-compatible Agent LLM endpoint；GPU、Docker、NVIDIA Container Toolkit、vLLM/SGLang 为按需准备项。以 Linux x86_64 发行包安装，也可从源码运行。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 自然语言驱动 vLLM/SGLang 服务部署、EvalScope 压测与参数调优
-- 性能结论绑定环境指纹与配置 Hash，失败与容量边界留痕可复核
-- Domain Tool Registry 受管操作，可选只读 MCP 接入
-- 在线/离线同一安装命令，离线包不访问网络
+- Agent + Harness 架构：4 个通用工具与 10 个受管工具分工，执行、校验与留痕分离
+- benchmark_service 固定 profile 压测，归一化 TTFT/TPOT/ITL/时延/RPS/TPS/成功率并归档原始 JSON 与日志
+- compare_results 先校验模型/环境/workload hash 可比性，再给出确定性 delta 结论
+- export_deliverable 导出同源 XLSX 与含实际 Artifact 字节和哈希清单的证据 ZIP
 
 ## 适用场景
 
-- 在我的 GPU 机器上部署并调优 vLLM/SGLang 推理服务
-- 对推理服务做可复现的性能压测与容量边界探索
-- 留存每一步部署与调优的可审计执行证据
+- 在自己的 GPU 机器上部署 Qwen 等模型到 vLLM 并压测吞吐
+- 对推理服务做多档测量并在不同配置间做公平比较
+- 生成每项实测数字可回溯到原始 Artifact 的审计报告
+- 离线环境下完成模型部署与性能测量
 
 ## 场景标签
 
-`推理引擎` · 领域:训练与推理
+`模型评测` `推理引擎` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L9: Bittune 是运行在你自己 GPU 机器上的**推理工程智能体**：你用自然语言说清目标，它替你完成环境检查、模型选择、vLLM/SGLang 服务部署、性能压测和参数调优，并把每一步的结论记录成可复核的执行证据。
-> L31: - 用受限配置创建并管理 vLLM 或 SGLang 服务，独立执行启动、就绪检查、端点探测、日志读取和停止。
+> L9: Bittune 是运行在你自己 GPU 机器上的**本地推理服务 Harness**：Agent 用通用工具（read/bash/edit/write）自由调查这台机器，用 10 个受管工具完成环境探测、部署计划、受管服务、规范化压
+> L70: - GPU、Docker、NVIDIA Container Toolkit、vLLM/SGLang、模型缓存和 EvalScope 都是按需能力；只有目标涉及对应操作时才需要准备。
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `56ae420a5a0b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `ef164c48a566` · [字段定义](../../DATASET.md)*

@@ -2,44 +2,44 @@
 
 ⭐ 312 · Python · 推送 2026-11-17 · [GitHub](https://github.com/songconmaisaix31-design/mcpet) · [官网](https://github.com/songconmaisaix31-design/mcpet/releases) · 个人维护 · 中文 README
 
-**麦当劳主题 AI 桌宠：盯 Agent 进度与 token 余额，提醒干饭查券**
+**监测 Agent 会话与本机用量的桌宠，附带餐饮提醒工具**
 
-基于 Python/PySide6 的 Windows 桌面宠物：提供陪伴动画与角色换装（DeepSeek 娘/ChatGPT 娘、麦麦套装），可查看已接入日志的 Agent 会话进度、本机 token 台账与 DeepSeek 官方余额；内置麦当劳优惠券/门店/订单、瑞幸下单取餐、营养记账与定时提醒，领券下单前需明确确认并带单笔 100 元/每日 3 单护栏。亦可通过 MCP stdio 接入 Agent 宿主，沿用宿主模型与计费。macOS/Linux 仅支持 Agent 接入，桌面兼容性未完整验收，多项功能标注待人工验收。
+由桌宠桌面程序与一个 MCP 服务组成，共用同一份数据目录：桌宠动画跟随从日志与宿主事件读取的 Agent 会话状态，本地台账记录 token 用量与余额，并按计划触发饭点/咖啡提醒。通过 MCP stdio 接入支持该协议的 Agent 宿主，餐饮相关功能（麦当劳优惠券、瑞幸预览、营养记账）需自备凭据且下单有确认步骤与金额护栏。v0.1.0 仅提供 Windows x64 便携包，macOS/Linux 只有 Agent 路径可用；仓库根目录无项目级许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 查看 Agent 会话进度、token 台账与 DeepSeek 官方余额（标明来源）
-- 麦当劳/瑞幸查询与下单，确认前展示摘要并有订单金额护栏
-- MCP stdio 接入 Agent 宿主，沿用宿主模型与计费
-- Windows 便携包内置运行环境，双击启动
+- 桌宠动画跟随可读的 Agent 会话状态，idle/Stop 显示为会话状态而非成功
+- MCP 服务以 stdio 接入宿主，提供会话状态、用量台账、餐饮、提醒等工具
+- 下单/领券/记账需显式确认，默认护栏单笔 100 元、每日 3 单
+- 本地台账每个数字带来源与更新时间
 
 ## 适用场景
 
-- 写代码时让桌宠同步展示 Agent 任务进度和 token 余额
-- 饭点/咖啡定时提醒并顺手查麦当劳优惠券、瑞幸下单
-- 在 Agent 会话里用自然语言操作桌宠换装和查状态
+- 在桌面直观查看长时间 Agent 运行处于工作/等输入/已停止哪种状态
+- 集中查看本机 token 用量与 DeepSeek 余额
+- 让 Agent 宿主代查麦当劳优惠并记录营养摄入
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`LLM 可观测性` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L5: McPet 是一只陪你工作的桌宠：看看 Agent 的会话状态和本机用量，提醒吃饭、喝咖啡，帮你查询麦当劳优惠与瑞幸商品。新用户默认由 DeepSeek 娘陪伴，也可以切换 ChatGPT 娘、给鲸鲸换上麦麦套装。
-> L49: |桌面陪伴|拖动、触摸、闲逛、休息；通过托盘隐藏、恢复或退出|
-> L58: 最新源码内置公开试用凭证，无需填写 MCP Token 就能试用麦当劳、瑞幸在线查询。试用操作使用共享账号；长期使用请配置自己的两家 Token，自己的配置优先。角色与皮肤可离线使用；进度和用量需要可读取的日志或宿主事件。订单生成
+> L26: |**Fix 做法**|A desktop pet + an MCP server over one shared data directory: session state drives the animation, a loc
+> L73: |**Host**|`src/agent_mcp.py`, `src/agent_install.py`|The MCP server is started by the host over stdio; the desktop 
+> L88: The host needs MCP stdio support. From the agent package directory, or from a source checkout:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `fd3f80453c58` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 low · 依据 README sha `ddebcc374f67` · [字段定义](../../DATASET.md)*

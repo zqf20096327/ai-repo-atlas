@@ -2,9 +2,9 @@
 
 ⭐ 539 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/emdgroup/baybe) · [官网](https://emdgroup.github.io/baybe/) · 组织维护
 
-**面向实验人员的贝叶斯实验设计与优化 Python 工具箱**
+**科研与工程人员的贝叶斯实验设计（DOE）工具箱**
 
-BayBE 是由 EMD Group（Merck KGaA）维护的开源 Python 库，通过贝叶斯实验设计帮助用户在复杂参数搜索空间中寻找好的参数配置。用户定义参数搜索空间与优化目标后，库推荐下一批待测参数配置，并将测量结果加入循环迭代。支持连续/离散混合参数、约束、多目标 Pareto 优化、化学分子编码（SMILES/指纹）、迁移学习与异步实验等特性。适用场景包括化学反应条件筛选、材料配方设计、仿真与超参数优化。0.14.0 起已完全移除遥测。
+BayBE 是一个用于贝叶斯实验设计（Design of Experiments）的 Python 工具箱：用户定义参数搜索空间与优化目标，系统基于已有测量数据推荐下一组待测参数配置，通过主动学习在开发与探索之间平衡，逐步逼近目标值。支持连续/离散混合参数、约束条件、多目标优化（Pareto/Desirability）、迁移学习、化学编码（SMILES 指纹）、异步实验与回测评估。通过 pip 从 PyPI、GitHub 或本地克隆安装，另有多组可选依赖（chem/simulation/benchmarking 等）。适用于工业与学术界的真实实验优化场景。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ BayBE 是由 EMD Group（Merck KGaA）维护的开源 Python 库，通过贝叶�
 
 ## 能力要点
 
-- 推荐下一批实验配置并循环加入测量结果的闭环优化
-- 支持连续/离散混合参数、约束与多目标（Pareto/期望函数）优化
-- 内置化学编码（如 MORDRED 指纹）与 SubstanceParameter
-- 支持异步实验、序列化、迁移学习与基于回测的基准评估
+- 混合搜索空间：连续与离散参数可在同一搜索空间中使用
+- 多目标优化：支持 Pareto 优化与 Desirability 标量化
+- 化学编码：可直接从 SMILES 计算分子指纹用于化学参数
+- 主动学习推荐循环：recommend → add_measurements 迭代推进
 
 ## 适用场景
 
-- 我需要用更少的实验次数找到化学反应的最优条件
-- 我需要优化配方、材料或仿真中的参数组合
-- 我需要对模型超参数或设备设置做高效搜索
+- 优化化学反应条件或工艺参数
+- 为材料、混合物或配方寻找满足目标性质的配置
+- 对物理对象的三维形状做参数化优化
+- 进行机器学习模型超参数选择
 
 ## 场景标签
 
- · 领域:科学计算/实验优化
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
+> L24: The **Bay**esian **B**ack **E**nd (**BayBE**) helps to find **good parameter configurations**
 > L38: This is achieved via **Bayesian Design of Experiments**,
 > L44: BayBE provides a **general-purpose toolbox** for Bayesian Design of Experiments,
-> L83: BayBE will **recommend the next set of parameter configurations** to be **measured**.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `4c0819a4c754` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5725ba48c74b` · [字段定义](../../DATASET.md)*

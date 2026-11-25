@@ -2,9 +2,9 @@
 
 ⭐ 393 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/labsai/EDDI) · [官网](https://eddi.technology) · 组织维护
 
-**面向生产环境的对话式 AI 多智能体编排中间件**
+**自托管 AI 代理管理服务器：运行、限制、审批并记录代理行为**
 
-EDDI 是用 Java 25 与 Quarkus 构建的配置驱动多智能体编排中间件：通过 JSON 配置而非代码定义智能体，提供智能路由、多智能体群组讨论（7 种讨论风格、投票、协商、共享黑板等）、持久记忆、MCP/A2A 协议支持、RAG、密钥保险库、租户配额与合规基础设施（GDPR/HIPAA/EU AI Act）。以 Red Hat 认证 Docker 镜像发布，内置 Manager 管理面板与聊天 UI，支持一键安装脚本、Docker Compose 与 Kubernetes/OpenShift 部署，可选接入 Ollama 本地模型、Keycloak 认证与 Prometheus/Grafana 监控。面向需要治理与审计的生产级智能体部署场景。
+一个部署在自己服务器上的 AI 代理管理服务：代理以版本化 JSON 配置定义（模型、提示词、工具、知识、审批点），一个 Docker 镜像提供 REST API、管理后台与聊天界面。支持 19 家模型提供商与本地模型、多代理群组、RAG、持久记忆、每步 HMAC 签名的审计账本、人工审批门（Manager/Slack/MCP）、速率与成本预算，并内置 GDPR/CCPA 删除导出。面向需要在自有基础设施上以受治理方式运行代理的企业与开发者。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ EDDI 是用 Java 25 与 Quarkus 构建的配置驱动多智能体编排中间件
 
 ## 能力要点
 
-- JSON 版本化配置定义智能体，无动态代码执行
-- 群组对话含 7 种讨论风格、投票、协商与共享黑板
-- 支持 MCP、A2A、OpenAI Chat Completions、Slack 接入
-- HMAC-SHA256 不可变审计账本与信封加密密钥保险库
+- 代理即版本化 JSON 配置，可 diff、导出 ZIP、跨实例同步
+- 19 家模型提供商含本地 Ollama，支持 OpenAI 兼容端点
+- MCP 服务器（120 工具）与 MCP 客户端、A2A、OpenAI 兼容 /v1 API
+- append-only 审计账本（HMAC 签名）与每轮/每工具调用的人工审批门
 
 ## 适用场景
 
-- 在生产环境以配置方式编排多智能体对话系统
-- 将智能体部署到 Slack 并运行多智能体讨论
-- 企业场景下按 GDPR/HIPAA/EU AI Act 要求治理 AI 智能体
-- 通过 Docker Compose 一键搭建含本地 Ollama 模型的智能体栈
+- 在自有服务器上运行受限且可审计的 AI 代理团队
+- 让已有 Claude/Cursor 等 MCP 助手代为创建和管理代理
+- 为需要人工审批与合规留痕的代理决策加治理层
 
 ## 场景标签
 
-`多智能体` `RAG` · 领域:Agent 开发
+`Agent 框架` `多智能体` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L11: **E.D.D.I** (Enhanced Dialog Driven Interface) is a production-grade, **config-driven multi-agent orchestration mid
-> L13: Built with **Java 25** and **Quarkus**. Ships as a **Red Hat-certified Docker image** with the **Manager dashboard 
-> L125: Most multi-agent frameworks (LangGraph, CrewAI, AutoGen) are Python/Node libraries — great for prototyping, hard t
+> L11: **The open-source AI agent management system.** Run teams of AI agents on your own infrastructure, limit what they 
+> L129: |🧠 **LLMs**|19 providers, among them OpenAI, Anthropic, Gemini, Mistral, Azure OpenAI, Bedrock, Vertex AI and Olla
+> L133: |🔗 **Protocols**|MCP server, A2A, an OpenAI-compatible API, SSE streaming, Slack|MCP server · A2A · OpenAI-compati
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b723a9c3fe0b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a10507381cab` · [字段定义](../../DATASET.md)*

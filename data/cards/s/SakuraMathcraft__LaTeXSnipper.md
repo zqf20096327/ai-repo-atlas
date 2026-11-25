@@ -2,9 +2,9 @@
 
 ⭐ 1,130 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SakuraMathcraft/LaTeXSnipper) · [官网](https://latexsnipper.interknot.dpdns.org/) · 个人维护 · 中文 README
 
-**面向写作用户的截图/手写/PDF 公式识别桌面工具**
+**面向科研写作者的截图/手写/PDF 公式识别桌面工具**
 
-LaTeXSnipper 是一款桌面应用：截屏选区、图片、PDF 页面或手写内容可识别为公式与文本，内置 MathJax 实时预览并编辑 LaTeX 源码，支持 LaTeX、MathML、Word、PDF、Typst 等 20 种导出格式。识别默认使用捆绑的 MathCraft OCR 本地模型，也可配置外部本地/在线模型；提供 Automation API 供脚本、批量任务与编辑器集成（默认关闭，token 鉴权）。另提供 Word/PowerPoint 插件，支持公式编号与交叉引用。Windows/Linux 安装包分 CPU 与 NVIDIA GPU 版。
+桌面端公式与文本识别工具：支持截图区域、图片、PDF 页面与手写输入，输出可编辑的 LaTeX/文本，带公式编辑器、MathJax 实时预览与识别历史。内置 MathCraft OCR 模型本地运行，也可配置本地/在线外部模型；结果可导出 LaTeX、MathML、Word 等 20 种格式。提供 Windows/macOS/Linux 安装包、Office 插件（Word 公式编号、PowerPoint 渲染）与默认关闭的 Automation API（token 认证，远程访问需 HTTPS 并显式开启）。文档导出依赖外部 Pandoc，PDF 导出另需 LaTeX 引擎。
 
 ## 筛选速览
 
@@ -20,23 +20,25 @@ LaTeXSnipper 是一款桌面应用：截屏选区、图片、PDF 页面或手写
 
 ## 能力要点
 
-- 截屏/图片/PDF/手写识别为公式、文本与混合内容
-- 20 种导出格式（LaTeX、MathML、Word、PDF、Typst 等）
-- 本地捆绑 MathCraft OCR，可配置外部模型
-- Automation API 与 Office 插件集成
+- 截图/图片/PDF/手写四种识别入口，输出可编辑公式与文本
+- 内置 MathCraft v2 权重（CPU INT8 / NVIDIA CUDA FP16），安装包自带依赖无需首run下载
+- 导出 20 种格式（LaTeX、MathML、Word、PDF、Typst 等）
+- Word/PowerPoint 插件与 Automation API 集成（默认禁用、token 保护）
 
 ## 适用场景
 
-- 把论文截图或手写公式转成可编辑 LaTeX
-- 将 PDF 页面批量转为 Markdown/Word 文档
-- 在 Word/PowerPoint 中插入并编号公式
+- 把论文截图里的公式转成可编辑 LaTeX
+- 将手写公式数字化并复制进文档
+- 从 PDF 批量提取公式和文本导出为 Markdown/Word
+- 在 Word/PPT 里直接编辑识别出的公式
 
 ## 场景标签
 
-`OCR` `文档解析` · 领域:知识与检索
+`OCR` `科研工具` `文档解析` · 领域:知识与检索
 
 ## 证据(README 行号)
 
+> L3: **Turn screenshots, images, PDFs, and handwriting into editable formulas and text.**
 > L21: |📸 **Recognize**|Capture a region, open an image, select PDF pages, or write by hand; recognize formulas, text, and
 > L25: |🧠 **Choose your model**|Run the bundled MathCraft OCR locally, or configure a local/online external model|
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5494a63b9a1e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3412957cb28a` · [字段定义](../../DATASET.md)*

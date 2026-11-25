@@ -2,9 +2,9 @@
 
 ⭐ 357 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/agentic-api) · [官网](https://vllm-project.github.io/agentic-api/) · 组织维护
 
-**为 vLLM 等推理后端提供有状态 agentic API 的 Rust 网关**
+**为 agentic 应用提供有状态 API 层的 vLLM Rust 网关**
 
-Rust 编写的 API 网关，置于 vLLM 等上游推理服务之前，将 OpenAI Responses API、Anthropic Messages API、服务端工具执行、多轮对话状态与多 agent 编排移到服务端管理。支持 Codex 与 Claude Code 客户端接入、Web 搜索（You.com/Brave/Tavily/Serply/SearXNG）、MCP 工具、上下文压缩与 OpenTelemetry 观测。安装方式含 cargo 构建、PyPI 包与 uv；存储默认 SQLite，可选 PostgreSQL。vLLM 是支持的后端之一而非产品组成部分。
+用 Rust 编写的网关服务，部署在 vLLM 等推理后端之前，把对话状态、工具调用循环与多轮编排从客户端移到服务端。提供 OpenAI 兼容的 Responses API 与 Anthropic Messages API，服务端管理历史（previous_response_id / Conversations API）、执行网关侧工具（web search、fetch、MCP、file search、可选代码解释器）、支持多 agent 编排与上下文压缩，传输层覆盖 HTTP、SSE 与 WebSocket。默认存储为 SQLite，可换 PostgreSQL；通过 cargo 构建或 PyPI 包安装。
 
 ## 筛选速览
 
@@ -15,31 +15,31 @@ Rust 编写的 API 网关，置于 vLLM 等上游推理服务之前，将 OpenAI
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 服务端管理对话状态（previous_response_id / Conversations API）
-- 服务端工具执行：Web 搜索、MCP 工具、可选嵌入式代码解释器
-- 兼容 Codex 与 Claude Code 流量，支持 HTTP/SSE/WebSocket 传输
-- 上下文压缩接口与 OpenTelemetry 观测
+- OpenAI 兼容 Responses API 与 Anthropic Messages API 的有状态服务端实现
+- 工具所有权模型：网关执行 web search/MCP/file search，客户端工具原样返回
+- 单请求服务端 spawn 子 agent 的多 agent 编排（HTTP/SSE/WebSocket）
+- automatic 与 explicit 的上下文压缩端点 /v1/responses/compact
 
 ## 适用场景
 
-- 让 Codex / Claude Code 完全跑在自有 GPU 的开源模型上
-- 在自托管 vLLM 前获得有状态的 Responses / Messages API
-- 将工具调用与多轮编排逻辑从客户端迁移到服务端
+- 在自己 GPU 上通过 vLLM 后端运行 Codex 会话
+- 让 Claude Code CLI 接入自托管的开源模型
+- 为需要多轮工具调用循环的应用做服务端状态管理
+- 部署带 OpenTelemetry 观测的 agentic API 网关
 
 ## 场景标签
 
-`模型网关` `多智能体` · 领域:Agent 开发
+`Agent 框架` `多智能体` `模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L16: **Agentic API moves it server-side.** It is a Rust-native gateway that sits in front of vLLM and owns the stateful 
 > L14: vLLM gives you state-of-the-art inference throughput. But real agentic applications need more than raw tokens: they
-> L48: |`POST /v1/messages` · `POST /v1/messages/count_tokens`|Anthropic Messages API forwarded to the upstream, with a se
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d7ef2ebbf0bd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5b619b04bfca` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 279 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nlpodyssey/openai-agents-go) · 组织维护
 
-**给 Go 开发者的多 Agent 工作流框架（OpenAI Agents SDK 移植）**
+**Go 开发者的多 Agent 工作流编排框架**
 
-OpenAI Agents Python SDK 的 Go 语言移植版，提供构建多 Agent 工作流的框架：Agent（带指令、工具、护栏与 handoff 的 LLM 配置）、Agent 循环（agents.Run() 迭代调用 LLM、处理工具调用与 handoff 直至产出最终输出）、结构化输出与 MaxTurns 限制。供应商无关，支持 OpenAI Responses 与 Chat Completions API 及其他 LLM，示例含 MCP、语音、会话记忆与自定义 model provider（如 LiteLLM）。需 Go 1.25+，非 OpenAI 官方项目，由社区维护。
+OpenAI Agents Python SDK 的 Go 移植版，行为与 API 尽量贴近原实现。以 Agent（配置指令/工具/护栏/移交的 LLM）、Handoffs（Agent 间控制权移交）、Guardrails（输入输出校验）为核心概念，提供 agent loop 执行机制与结构化输出、流式输出、会话记忆、MCP 客户端/服务端、语音响应等能力。Provider-agnostic 设计，支持 OpenAI Responses 与 Chat Completions API 及其他 LLM。需要 Go 1.25+，示例需设置 OPENAI_API_KEY。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ OpenAI Agents Python SDK 的 Go 语言移植版，提供构建多 Agent 工作�
 
 ## 能力要点
 
-- Agent/Handoff/Guardrail 核心概念与 agent 循环机制
-- 供应商无关：支持 OpenAI Responses/Chat Completions 及其他 LLM
-- MCP 服务器与客户端示例（文件系统、git、远程搜索等）
-- 结构化输出（OutputType）与 MaxTurns 循环限制
+- Provider-agnostic：支持 OpenAI Responses/Chat Completions 及其他 LLM
+- Agent loop 机制：工具调用、handoff、MaxTurns 循环上限、结构化输出
+- MCP 客户端与服务端示例（文件系统、git、远程搜索等）
+- 内置工具：代码解释器、computer use、文件搜索、网络搜索
 
 ## 适用场景
 
-- 用 Go 构建多 Agent 协作的工作流（如客服、研究机器人）
-- 为 Go 项目接入 OpenAI 或其他 LLM 的 Agent 能力
-- 在 Agent 间用 handoff 转移控制权并用 guardrails 做输入输出校验
+- 在 Go 服务中构建多 Agent 协作工作流
+- 开发客服、金融研究等多 Agent 编排应用
+- 为已有 Go 系统接入 LLM 与工具调用能力
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ OpenAI Agents Python SDK 的 Go 语言移植版，提供构建多 Agent 工作�
 ## 证据(README 行号)
 
 > L3: The OpenAI Agents SDK is a lightweight yet powerful framework for building
-> L14: 1. **Agents**: LLMs configured with instructions, tools, guardrails, and handoffs
+> L7: This is a Go port of OpenAI Agents Python SDK
+> L29: |model_providers|Integrating custom model providers and proxies like LiteLLM.|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e79f628b149c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `87ba7b02ddcb` · [字段定义](../../DATASET.md)*

@@ -2,15 +2,15 @@
 
 ⭐ 322 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/duckyshell/ComfyUI-MiniMaxH3-Prompt-Writer) · 个人维护
 
-**ComfyUI 扩展：为 MiniMax H3 视频模型编写提示词的工作台**
+**ComfyUI 插件：为 MiniMax H3 工作流生成提示词**
 
-以 ComfyUI UI 扩展（非工作流节点）形式提供，用户输入自然语言 Creative Brief，可附图片/视频/音频参考，由本地或 API 提示词模型（Ollama、Direct GGUF、外部 llama.cpp、Gemini/OpenAI/OpenRouter 等）生成可编辑的 H3 格式提示词，再复制进既有 H3 工作流。包含 Sequence 分块写作、Media Composer/Editor、浮动媒体面板等功能；扩展不运行 MiniMax H3 本身。另有 Windows 独立版，界面与文档为英文。
+一个 ComfyUI 扩展（非工作流节点），提供提示词写作工作台：用户用自然语言 Creative Brief 描述视频并挂载图片/视频/音频参考，扩展将其发送给所选提示词模型，生成可编辑的 MiniMax H3 格式提示词，供复制到既有 H3 工作流。支持序列工作台、媒体拼贴与剪辑、浮动媒体面板；本地运行可选 Ollama、Direct GGUF、外部 llama.cpp，也可接 API。不运行 MiniMax H3 也不排队生成视频。提供 Windows 独立版。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 从 Creative Brief 生成符合 MiniMax H3 格式的可编辑提示词
-- 支持 Ollama / Direct GGUF / 外部 llama.cpp / API 多类提示词模型提供方
-- T2VA、I2VA、FL2VA、L2VA、Reference 五种模式，最多 9 图 3 视频 3 音频参考
-- Sequence 工作区分块写作，含 Media Composer/Editor 媒体处理
+- Sequence 工作台：一个 brief 拆分为多个独立 H3 提示词块并共享媒体
+- 本地提示词模型路径：Ollama、Direct GGUF、外部 llama.cpp server
+- Media Editor 支持裁剪图片、剪辑视频、抽帧与联系表预览
+- T2VA/I2VA/FL2VA/L2VA/Reference 五种模式，参考最多 9 图 3 视频 3 音频
 
 ## 适用场景
 
-- 我想用自然语言给 MiniMax H3 写视频提示词而不用手写分段与时间戳
-- 为 H3 工作流准备并标注图像/视频参考素材
-- 本地 Ollama 模型下离线生成提示词以保护素材隐私
+- 为已有 MiniMax H3 视频工作流快速编写规范提示词
+- 本地（Ollama/GGUF）处理隐私敏感素材生成提示词
+- 用联系表检查提示词模型实际看到的视频帧
 
 ## 场景标签
 
@@ -38,6 +38,7 @@
 ## 证据(README 行号)
 
 > L5: H3 Prompt Writer is a prompt-writing workspace for MiniMax H3 inside ComfyUI. Start with a plain-language Creative B
+> L7: It is a ComfyUI UI extension, not a workflow node. It writes prompt text for your existing H3 workflow and helps pre
 > L19: - Local and remote prompt models: Ollama, Direct GGUF, External llama.cpp, and APIs.
 
 ## 星数曲线
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b36259879d74` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7aef958bf0a2` · [字段定义](../../DATASET.md)*

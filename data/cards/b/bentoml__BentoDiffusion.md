@@ -2,15 +2,15 @@
 
 ⭐ 390 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/bentoml/BentoDiffusion) · [官网](https://bentoml.com) · 组织维护
 
-**用 BentoML 自托管 Stable Diffusion 系列扩散模型的示例项目集**
+**开发者：用 BentoML 部署 Diffusion 图像生成模型服务**
 
-BentoML 官方维护的扩散模型部署示例集合：演示如何将 SDXL Turbo、FLUX.1、Stable Diffusion 3/3.5、ControlNet 等 Stable Diffusion 系列模型封装为 BentoML Service，提供 txt2img HTTP 接口，可本地 bentoml serve 运行或部署到 BentoCloud。本地测试建议使用至少 12GB 显存的 Nvidia GPU，推荐 Python 3.11，通过 git clone 后 pip 安装依赖运行。各模型位于对应子目录。
+一组 BentoML 示例项目集合，演示如何以服务形式部署 Stable Diffusion 系列扩散模型（含 FLUX.1、SD3、SDXL Turbo、ControlNet 等）。仓库以 SDXL Turbo 为例给出完整流程：git clone 后 pip 安装依赖，service.py 中定义 BentoML Service，bentoml serve 启动后经 /txt2img 端点以 CURL 或 Python 客户端调用，支持生成 OCI 镜像做自定义部署。本地测试建议至少 12GB 显存的 Nvidia GPU。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,15 +20,15 @@ BentoML 官方维护的扩散模型部署示例集合：演示如何将 SDXL Tur
 
 ## 能力要点
 
-- 覆盖 FLUX.1、SD 3/3.5、SDXL、ControlNet 等多个扩散模型的服务化示例
-- 定义 BentoML Service 提供 txt2img HTTP 接口与 Swagger UI
-- 支持部署到 BentoCloud 或生成 OCI 兼容镜像自建部署
+- 收录多个 SD 系列模型的部署示例子目录（FLUX.1/SD3/SDXL 等）
+- 提供 txt2img 的 CURL 与 Python 客户端调用示例
+- 支持用 BentoML 生成 OCI 兼容镜像进行自定义部署
 
 ## 适用场景
 
-- 我要把 Stable Diffusion 系列模型自托管为 HTTP 图像生成服务
-- 我要参考示例学习如何用 BentoML 服务化扩散模型
-- 我要将扩散模型服务部署到 Kubernetes 或自有基础设施
+- 在自己的服务器上以 HTTP 服务形式部署 Stable Diffusion 文生图模型
+- 生成 OCI 镜像把扩散模型部署到自有基础设施
+- 参考不同扩散模型的部署示例子目录做接入
 
 ## 场景标签
 
@@ -37,8 +37,7 @@ BentoML 官方维护的扩散模型部署示例集合：演示如何将 SDXL Tur
 ## 证据(README 行号)
 
 > L3: This repository contains a series of BentoML example projects, demonstrating how to deploy different models in the S
-> L25: We have defined a BentoML Service in `service.py`. Run `bentoml serve` in your project directory to start the Servi
-> L56: ## Deploy to BentoCloud
+> L23: We have defined a BentoML Service in `service.py`. Run `bentoml serve` in your project directory to start the Servi
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `5b93daf4f869` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c946053c59b9` · [字段定义](../../DATASET.md)*

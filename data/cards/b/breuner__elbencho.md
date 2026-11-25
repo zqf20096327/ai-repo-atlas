@@ -2,9 +2,9 @@
 
 ⭐ 304 · C++ · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/breuner/elbencho) · 个人维护
 
-**分布式存储基准测试工具：测文件/对象/块存储性能**
+**面向文件/对象/块存储的分布式基准测试工具**
 
-用 C++17 从零编写的统一存储基准工具，覆盖文件系统、对象存储（S3）与块设备的延迟、吞吐与 IOPS 测试；支持分布式服务模式测试本地与共享存储、Nvidia CUDA 与 GPUDirect Storage 的 GPU 存取性能测试、实时统计、CSV/JSON 输出与图表工具、数据完整性校验。面向存储系统与 HPC/深度学习基础设施的运维和评估人员。提供源码编译（make deb/rpm）方式，Releases 与 Docker Hub 提供预编译 Linux/Windows 版本；S3 支持默认关闭需手动开启，macOS 需通过 homebrew 安装依赖编译。
+用 C++17 从零编写的统一存储基准测试工具，覆盖文件系统、对象存储（S3）与块设备的延迟、吞吐与 IOPS 测试，支持多节点分布式服务模式、N-to-M 网络测试、数据完整性校验与实时统计。GPU 侧通过 CUDA 与 GPUDirect Storage 测试存储访问性能，供运行深度学习等 GPU 负载的场景使用。可通过源码编译、Releases 预编译包或 Docker Hub 获取，提供 Slurm、Kubernetes 示例及 CSV/JSON 结果与图表工具。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `viral` | GPL-3.0 |
-| 部署形态 | `None` |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 文件/对象/块存储统一的延迟、吞吐与 IOPS 基准
-- 分布式服务模式测试本地与共享存储
-- 通过 CUDA 与 GPUDirect Storage (GDS) 进行 GPU 存取性能测试
-- 实时统计、CSV/JSON 输出与 elbencho-chart 图表工具
+- 文件/对象/块三类存储的统一延迟、吞吐、IOPS 基准测试
+- 通过 Nvidia CUDA 或 GPUDirect Storage 测试 GPU 存储访问性能
+- 分布式服务模式支持本地与共享存储的多客户端测试
+- 内置网络基准模式，支持 TCP、InfiniBand/RoCE、libfabric 等 N-to-M 通信
 
 ## 适用场景
 
-- 评估 NVMe 或机械盘存储在多线程负载下的吞吐与 IOPS
-- 多节点分布式测试共享文件系统或 S3 对象存储性能
-- 深度学习场景下测量 GPU 直连存储的数据传输性能
+- 在部署深度学习训练前测试 GPU 直连存储的读写性能
+- 对分布式文件系统或多节点存储集群做吞吐与 IOPS 压测
+- 测试 S3 对象存储服务的性能表现
+- 对 NVMe 存储或块设备做延迟与吞吐基准
 
 ## 场景标签
 
- · 领域:存储/性能测试
+ · 领域:系统工具/存储性能测试
 
 ## 证据(README 行号)
 
 > L5: **A distributed storage benchmark for files, objects & blocks with support for GPUs**
-> L7: elbencho was inspired by traditional storage benchmark tools like fio, mdtest and ior, but was written from scratch 
 > L16: * GPU storage access performance testing through Nvidia CUDA or GPUDirect Storage (GDS)
 > L96: If GPU data transfer performance is critical for you, e.g. because you are running DeepLearning applications, you w
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `be775e11bdcb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3cf7aa82efeb` · [字段定义](../../DATASET.md)*

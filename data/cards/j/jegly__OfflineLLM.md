@@ -2,9 +2,9 @@
 
 ⭐ 293 · Kotlin · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/jegly/OfflineLLM) · [官网](https://jegly.xyz) · 个人维护
 
-**Android 全离线本地 LLM 聊天应用，通过 llama.cpp 运行 GGUF 模型**
+**Android 本地离线 AI 聊天应用，经 llama.cpp 运行 GGUF 模型**
 
-面向 Android 用户的本地大模型聊天应用：以 llama.cpp 为推理引擎，在设备端运行用户自带的 GGUF 模型，清单中无任何网络权限。支持按 SoC 特性自动选择 CPU 内核（dotprod/fp16/i8mm/SVE）、可选 Vulkan GPU 卸载与自动 CPU 回退、增量 KV 缓存的多轮对话、流式输出、采样参数与系统提示词、75+ 语言翻译、TTS 与 Markdown 渲染。安全方面提供加密设置、生物识别锁、APK 签名校验的防篡改检测。以单个 APK 发布，需 Android 13+ 与 arm64-v8a，也可从源码编译（需 JDK 17 与 NDK）。
+面向 Android 的本地大模型聊天客户端：通过 llama.cpp 在设备端推理用户导入的 GGUF 模型，manifest 不含 INTERNET 权限。推理侧按 SoC 特性在七种 CPU 内核变体间分派，支持可选 Vulkan GPU 卸载、增量 KV 缓存多轮对话与流式输出；安全侧提供加密设置、生物识别锁、启动时 APK 签名证书校验及 ML-DSA-87 后量子混合签名发布。安装为单个 APK，需 Android 13+ 与 arm64-v8a；源码构建需 JDK 17、NDK、CMake 等工具链。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 清单零网络权限，推理全部在设备端经 llama.cpp 完成
-- 七个 armv8.0→armv9.2 CPU 内核变体按 SoC 自动选择，可选 Vulkan GPU 卸载
-- 增量提示处理：多轮对话仅处理新消息进 KV 缓存
-- 加密设置、生物识别锁、APK 签名防篡改校验
+- GGUF 模型运行时导入，支持 Vulkan GPU 卸载与自动 CPU 回退
+- 无 INTERNET 权限，设置加密、生物识别锁与防篡改签名校验
+- 增量 prompt 处理：多轮对话仅处理新消息
+- 75+ 语言翻译器、TTS 朗读与思考标签剥离
 
 ## 适用场景
 
-- 在无网络环境下用本地 GGUF 模型聊天或翻译
-- 隐私敏感场景下运行 LLM，应用无法联网上报
-- 按自己设备的 RAM 挑选量化模型随身使用
+- 在无网络环境下的 Android 手机上运行本地 LLM 对话
+- 导入自己的 GGUF 模型进行隐私离线推理
+- 在低端设备上按内存选择小型模型获得快速响应
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: The only Android LLM app that has 0 Network connectivity. All LLM inference runs on-device via llama.cpp.
-> L35: - **On-Device Inference** — GGUF models via llama.cpp; runtime CPU dispatch picks the best kernel set (dotprod / fp
+> L34: - **100% Offline** — no INTERNET permission in the manifest, cannot phone home
+> L40: - **Import Any Model** — bring your own GGUF at runtime via file picker
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `65887551dcec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e666bd9c7a6b` · [字段定义](../../DATASET.md)*

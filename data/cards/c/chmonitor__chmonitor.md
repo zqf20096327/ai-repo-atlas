@@ -1,10 +1,10 @@
 # chmonitor/chmonitor
 
-⭐ 305 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chmonitor/chmonitor) · [官网](https://chmonitor.dev) · 个人维护
+⭐ 305 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/chmonitor/chmonitor) · [官网](https://chmonitor.dev) · 组织维护
 
-**ClickHouse 运维监控面板，附 AI 优化建议与 AI 问答**
+**ClickHouse 集群的监控仪表盘与 AI 运维建议工具**
 
-面向 ClickHouse 的自托管监控与运维顾问：读取 system.* 表展示查询、合并、副本、存储与健康状态，提供 30+ 图表、集群拓扑、只读 SQL 控制台与 chm CLI（含 TUI 和 chm doctor）。AI 部分为内置 agent：给出 projections、skip indexes、PREWHERE、物化视图等建议（不自动执行 DDL），并支持 MCP 供 Claude/Cursor 调用，可用英文询问 schema、存储与健康状况。以 Docker 单容器交付，可部署到 K8s、Cloudflare Workers、Railway 等，支持 ClickHouse Cloud。GPL-3.0 下全功能免费，另售可选商业许可（不含额外功能）。
+面向 ClickHouse 集群的仪表盘与顾问：读取 system.* 表展示查询、合并、复制、存储与健康状态，并提供 AI 建议（projections、skip indexes、PREWHERE、物化视图），明确不代为执行 DDL。支持多主机统一查看，带 chm CLI（TUI 与 chm doctor）、只读 SQL 控制台，内置 AI agent 并提供 MCP 接口供 Claude/Cursor 等客户端接入。可 Docker/K8s/Cloudflare Workers 等方式部署，GPL-3.0 自托管，另有可选商业许可（功能相同，提供发票与支持）。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- 读取 system.* 表呈现集群查询/合并/副本/存储/健康状态，30+ 图表
-- AI advisor 输出 projections/skip indexes/PREWHERE/MV 建议，不执行 DDL
-- 内置 AI agent 并提供 MCP 接入 Claude/Cursor
-- chm CLI 提供 live TUI 与 chm doctor 检查
+- 读取 system.* 表展示集群查询、合并、复制、存储与健康状况
+- AI advisor 输出 projections、skip indexes、PREWHERE、物化视图建议，不自动执行 DDL
+- 内置 AI agent + MCP，可从 Claude/Cursor 提问
+- chm CLI 提供终端 TUI 与 chm doctor 检查
 
 ## 适用场景
 
-- 自托管监控多个 ClickHouse 主机的运行状况
-- 让 AI 给出索引、分区与物化视图优化建议
-- 在 Claude/Cursor 中通过 MCP 查询 ClickHouse 运维状态
+- 实时查看 ClickHouse 集群的查询、副本与存储状态
+- 让 AI 对索引、分区和物化视图给出调整建议作第二意见
+- 在终端用 chm doctor 做集群体检
+- 通过 Claude/Cursor 以自然语言询问 schema、存储与健康状况
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+ · 领域:数据库运维/可观测性
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `73c886b4492c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ab88621e771f` · [字段定义](../../DATASET.md)*

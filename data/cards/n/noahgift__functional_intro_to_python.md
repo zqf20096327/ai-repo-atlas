@@ -2,9 +2,9 @@
 
 ⭐ 315 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/noahgift/functional_intro_to_python) · [官网](https://noahgift.github.io/functional_intro_to_python/) · 个人维护
 
-**面向数据科学的 Python 函数式入门教学仓库（含 Rust 转译）**
+**面向零基础学习者的 Python 函数式数据科学入门教程**
 
-面向零编程基础学习者的 Python 教学仓库，以 Jupyter notebook 形式提供函数式、数据科学导向的入门内容，后续章节覆盖机器学习、线性优化、命令行工具、推荐引擎、情感分析与云计算。仓库以 uv + ruff + ty 为唯一工具链，要求 100% 分支覆盖率，示例可通过 depyler 转译为 Rust 并以 clippy 与 proptest 校验。README 同时大量列出 Pragmatic AI Labs 与 Duke University 的课程 specialization 目录。
+以 Jupyter notebook 为主体的教学仓库：第一节为面向零编程经验者的极简函数式 Python 入门，后续章节覆盖机器学习、线性优化、命令行工具、推荐系统、情感分析与云计算。课程 notebook 存放于 notebooks/ 目录，通过 make install 配置 uv 环境后以 uv run jupyter lab 运行。仓库采用 uv + ruff + ty 工具链，CI 强制 100% 分支覆盖率与契约测试，并提供示例向 Rust 转译的质检流程；README 主体为 Pragmatic AI Labs 与 Duke University 的课程专项列表。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 5 课 notebook 教程，零基础可跟随学习
-- uv/ruff/ty 统一工具链，CI 强制 100% 分支覆盖率与契约测试（icontract + hypothesis）
-- 示例可经 depyler 转译为 Rust 并通过 clippy -D warnings 与 proptest 校验
+- notebooks/ 目录下的 5 课 Python 入门教程（uv run jupyter lab 运行）
+- uv + ruff + ty 工具链，make install 配置环境
+- 100% 分支覆盖率与 icontract/hypothesis 契约测试
+- 示例可经 depyler 转译至 Rust 并通过 clippy/proptest 校验
 
 ## 适用场景
 
-- 零基础者以数据科学视角入门 Python
-- 学习函数式写法与质量工程实践（测试、契约、覆盖率）
-- 了解 Python 示例转译 Rust 的工具链流程
+- 零编程经验者入门 Python 与数据科学
+- 学习机器学习与线性优化的 notebook 实践
+- 了解 uv/ruff 等现代 Python 工具链的教学示例
 
 ## 场景标签
 
@@ -36,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L150: The first section is an intentionally brief, functional, data-science-centric
-> L161: The notebook files live under `notebooks/`. Run them with
+> L148: The first section is an intentionally brief, functional, data-science-centric
+> L153: The sections after that vary in difficulty and cover Machine Learning,
+> L159: The notebook files live under `notebooks/`. Run them with
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `19c00f083892` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `924760651a5d` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 322 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
 
-**Python 流式异常检测库：逐点打分并校准告警**
+**给开发者用的 Python 流式异常检测库，逐点在线检测**
 
-面向流数据的异常检测 Python 库：每个数据点到达时即学习并打分（fit_partial/score_partial），内置 16 个来自已发表论文的在线检测器（xStream、LODA、RS-Hash、Half-Space Trees、RRCF 等），配合一致性校准将原始分数转为可比概率并按阈值触发告警；提供预处理、投影、后处理、集成与 AUROC/AUPR 等流式评估指标，另可通过 ReferenceWindowModel 将 PyOD 批量检测器在滑动窗口上运行。pip 单命令安装，支持 Python 3.10-3.14，附 17 个标注基准数据集与论文引用。
+PySAD 是一个面向多变量与单变量数据流的在线异常检测 Python 库，收录 50+ 个来自已发表论文的检测器（LODA、RRCF、Half-Space Trees、xStream、DAMP、SAND 等）。每个数据点到达时即通过 fit_partial/score_partial 更新与打分，无需完整数据集。关键机制包括：Conformal 等校准器将任意原始分数归一到 [0,1] 并配合过滤器生成二值告警、10 种漂移监测器处理概念漂移、prequential 评估框架在 17 个 ODDS 数据集和 58 个 NAB 序列上逐点更新指标。核心用纯 Python/NumPy/SciPy/scikit-learn 实现，无需 JVM；可选 PyO3 Rust 扩展加速部分树模型。以 PyPI 和 conda-forge 发布，支持 Python 3.11-3.14。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 16 个来自发表论文的在线检测器，逐点 fit/score
-- ConformalProbabilityCalibrator 将分数转为可比概率以触发告警
-- 预quential 评估：AUROC/AUPR/精确率/召回率逐点更新
-- ReferenceWindowModel 可将任意 PyOD 检测器用于流场景
+- 50+ 在线单变量/多变量流式检测器，覆盖统计、森林、子序列、图方法
+- Conformal/SPOT/高斯尾部校准器将分数归一到 [0,1] 并生成校准告警
+- 10 种概念漂移监测器与自动重置的 DriftAdaptiveDetector
+- prequential 逐点评估框架，含 17 ODDS 数据集、58 NAB 序列与信用卡欺诈数据
 
 ## 适用场景
 
-- 对传感器或业务指标流实时逐点检测异常并触发告警
-- 网络流量入侵检测（KitNet）
-- 在滑动窗口上复用已有 PyOD 批量模型处理流数据
-- 在 17 个标注数据集上对比检测器效果
+- 对传感器、网络流量或日志流逐点做实时异常检测
+- 信用卡欺诈检测等需要增量学习与漂移处理的场景
+- 将告警分数校准后接入现有监控告警系统
+- 在 River / scikit-learn / PyOD 管线中嵌入流式检测器
 
 ## 场景标签
 
@@ -38,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L5:  Streaming anomaly detection in Python. PySAD scores each data point when it arrives,
-> L41: #### 16 detectors from published papers
+> L7:  Streaming anomaly detection in Python for multivariate and univariate data streams.
+> L8:  PySAD scores and learns from each point as it arrives, with calibrated alerts, drift handling, and prequential eval
+> L45: Batch detectors train on a fixed dataset. Streaming detectors update as points arrive, without waiting for a comple
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `0726f1b97f39` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7640bc191e64` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 330 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/pensarai/apex) · [官网](https://pensar.dev) · 组织维护
 
-**终端内运行的自主 agent 渗透测试工具（黑白盒）**
+**终端里的自主 agent 渗透测试工具，供开发者与安全工程师使用**
 
-Pensar Apex 是在终端中运行的 AI 渗透测试工具：以自主 agent 执行黑盒/白盒测试，支持探索、推理并产出带严重度评分、证据与修复建议的漏洞发现。提供 TUI 与 headless CLI 两种模式，可集成 CI/CD；支持自定义 OpenAI 兼容推理端点、W&B Weave 追踪与 OpenTelemetry 观测，可选 Kali Linux Docker 容器预配置测试工具。面向开发者在 PR 合并前自查与安全工程师的大面积攻击面测试，仅限授权安全测试。
+基于自主 agent 的渗透测试 CLI/TUI 工具，支持黑盒与白盒模式：对目标 URL 执行探索与漏洞挖掘，输出带严重性评分、证据与修复建议的发现。提供 /pentest 自动化测试与 /operator 手动调查模式，支持持久化记忆、headless CLI 以接入 CI/CD，可通过 Ollama 使用本地模型或接入多种推理服务商，并可选在预置渗透工具的 Kali Linux 容器中运行。适用于无需安全背景的开发者与安全工程师团队。
 
 ## 筛选速览
 
@@ -13,25 +13,23 @@ Pensar Apex 是在终端中运行的 AI 渗透测试工具：以自主 agent 执
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 自主 agent 执行黑盒/白盒渗透测试，输出带严重度与证据的发现
-- TUI 与 headless CLI 双模式，可接入 CI/CD 与 evalgate
-- 支持 OpenAI 兼容自定义推理端点（customProviders / APEX_CUSTOM_PROVIDERS）
-- 可选 Kali Linux Docker 容器预配置渗透测试工具
-- W&B Weave 步级追踪与 OpenTelemetry span 输出
+- /pentest 与 /operator 双模式，覆盖自动测试与手动利用链验证
+- headless CLI 支持 --target/--cwd/--model 等参数以接入脚本与 CI
+- 自动发现并支持 Ollama 本地模型，无需 API key 或手动端点配置
+- 通过 OpenTelemetry/W&B Weave 输出 agent 追踪与结构化日志
 
 ## 适用场景
 
-- 在 PR 合并前运行 /pentest 及时发现漏洞
-- 安全工程师对大攻击面部署 agent 群测试与 exploit 链验证
-- 在 CI/CD 中以 headless CLI 自动化渗透测试
-- 在预配置渗透工具的 Kali 容器中运行测试
+- 合并 PR 前对目标服务做自动化渗透测试
+- 安全团队跨大规模攻击面部署 agent 编组测试
+- 在 CI/CD 流水线中以 headless 方式运行安全检测
 
 ## 场景标签
 
@@ -40,7 +38,8 @@ Pensar Apex 是在终端中运行的 AI 渗透测试工具：以自主 agent 执
 ## 证据(README 行号)
 
 > L3: AI-powered penetration testing using autonomous agents — directly in your terminal. Run blackbox and whitebox pentes
-> L24: - Deploy agent-driven swarm testing across large attack surfaces
+> L18: - Run `/pentest` before merging a PR — catch vulnerabilities as naturally as running tests
+> L85: |`--model <model>`|pentest, targeted-pentest|AI model (default: auto-selected)|
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `cd516f83a02e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c5e245895959` · [字段定义](../../DATASET.md)*

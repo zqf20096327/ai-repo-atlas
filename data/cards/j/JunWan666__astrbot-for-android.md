@@ -2,9 +2,9 @@
 
 ⭐ 426 · Kotlin · MIT · 推送 2026-11-24 · [GitHub](https://github.com/JunWan666/astrbot-for-android) · 个人维护 · 中文 README
 
-**在 Android 手机本地部署管理 AstrBot 与 NapCat 的应用**
+**在 Android 手机上本地部署和管理 AstrBot 的管理器**
 
-单个 APK 集成 PRoot Ubuntu 运行环境，在无需 Root 的 Android 手机上部署并管理 AstrBot 聊天机器人框架与 NapCat QQ 协议端：提供服务启停、状态监控、实时日志、备份恢复与三组件独立更新；Kotlin/Jetpack Compose 原生界面，内置 WebView 访问两者 WebUI 完成登录与模型配置，并附 SSH、Ubuntu 桌面（noVNC）与 cpolar 内网穿透扩展。要求 Android 8.0+ ARM64，完整 APK 约 720 MiB。
+面向 Android 设备的 AstrBot 运行管理应用：单个 APK 内置 PRoot Ubuntu、AstrBot 与运行依赖，无需 Root 即可完成环境初始化、服务启停、状态监控、日志查看、备份恢复与独立在线更新。原生 Kotlin/Jetpack Compose 界面支持中英文，从首页接入 QQ 官方机器人与微信官方 ClawBot，通过内置 WebUI 配置模型、插件与人设；另提供终端、自定义 Ubuntu 任务、SSH、Linux QQ 与 cpolar 扩展。要求 Android 8.0+/ARM64。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 单 APK 集成 PRoot Ubuntu，无需 Root 即可运行 AstrBot 与 NapCat
-- 内置 WebView 访问双 WebUI，预填初始凭据
-- App/AstrBot/NapCat 各自独立检查更新，支持签名校验与失败回退
-- SSH、Ubuntu 桌面（noVNC）、cpolar 内网穿透按需扩展
+- 单 APK 内置 PRoot Ubuntu 与 AstrBot，无需 Root 本地部署
+- 首页接入 QQ 官方机器人与微信官方 ClawBot，扫码授权
+- 服务启停、实时日志、资源概览、备份恢复与 AstrBot 独立更新
+- 终端多会话与自定义 Ubuntu 任务，可选 SSH/cpolar/Linux QQ 扩展
 
 ## 适用场景
 
-- 用一台 Android 手机跑 QQ 聊天机器人而不依赖电脑或服务器
-- 在手机端完成 QQ 登录、模型接入与插件配置
-- 通过内网穿透把手机上的机器人服务暴露到公网
+- 在闲置 Android 手机上自托管聊天机器人
+- 用 QQ/微信官方机器人接入消息平台并配置模型
+- 把手机当作口袋 Ubuntu 环境跑终端任务
+- 通过备份恢复与独立更新管理 AstrBot 部署
 
 ## 场景标签
 
@@ -37,8 +38,9 @@
 
 ## 证据(README 行号)
 
-> L26: **AstrBot for Android（AstrBot 运行管理器）** 是面向 Android 设备的 AstrBot 与 NapCat 本地部署及运行管理应用。通过单个 APK 集成 PRoot Ubuntu 运行环境与服
-> L79: 3. 打开 NapCat 后台登录 QQ，在 AstrBot 后台配置模型、平台和插件。
+> L29: **AstrBot for Android（AstrBot 运行管理器）** 是面向 Android 设备的 AstrBot 本地部署及运行管理应用。单个 APK 提供 PRoot Ubuntu、AstrBot 与通用运行依赖，支
+> L101: 原生 App 管理界面、前台任务和进程，AstrBot 在本机 PRoot Ubuntu 中运行。消息平台通过 AstrBot 调用用户配置的模型；终端、远程访问与其他接入方式独立管理。
+> L103:  项目架构：原生 App 管理本机 AstrBot、终端与任务，连接 QQ 官方机器人、微信官方 ClawBot 和模型 API
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-28 · 置信度 high · 依据 README sha `59d1b6c13c25` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `372c22f7985e` · [字段定义](../../DATASET.md)*

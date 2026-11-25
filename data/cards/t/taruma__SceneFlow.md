@@ -2,15 +2,15 @@
 
 ⭐ 408 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/taruma/SceneFlow) · [官网](https://sceneflow.taruma.my.id) · 个人维护
 
-**为 AI 影像创作者做剧本-视频同步与提示词遵循度分析的工具**
+**为 AI 影视创作者同步剧本与视频并评估生成画面**
 
-面向 AI 电影制作者的剧本-视频同步工具：将剧本文本分段（cue）与视频时间戳关联，播放时高亮当前台词/动作，支持 8 类彩色 cue 标注、多轨时间线与三面板编辑工作台。核心用于评估 AI 视频模型对提示词的还原度：定位遗漏的提示元素、镜头偏移与连贯性偏差。cue 可手动创建，也可借助外部多模态模型（如 Gemini）生成，内置同步提示词与 JSON Schema。项目以 JSON 文件保存，支持 URL 分享。
+SceneFlow 是一个将剧本/分镜与视频内容按时间轴同步的工具，实时高亮正在播放的脚本段落，用于评估 AI 视频模型对 prompt 指令的还原程度。支持传统剧本格式与含 5 部分舞台元数据的 Auteur Script 状态驱动格式，提供 8 类颜色编码 cue、多轨时间轴、三面板编辑工作台、 adherence 偏差分析（遗漏元素、镜头漂移、连续性问题）。同步 cue 需手动编写或借助外部多模态模型（如 Gemini）按内置 prompt 与 JSON schema 生成；不提供后台自动提取。项目以 JSON 文件保存、分享与版本管理，提供在线应用。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 剧本段落与视频时间戳的 cue 级同步，播放时自动跟随高亮
-- 提示词遵循度分析：定位遗漏元素、镜头偏移、连贯性偏差
-- 内置 Gemini 同步提示词与精简 JSON Schema，用于结构化 cue 生成
-- JSON 项目文件，支持保存、版本控制与 URL 分享
+- 剧本段落与视频时间戳的 cue 级同步，8 类元素类型颜色编码
+- 内置 Gemini Sync Prompt 与最小 JSON Schema 用于结构化 cue 生成
+- Adherence 分析定位遗漏 prompt 元素、镜头漂移与连续性偏差
+- JSON 项目文件可保存、分享（URL 参数）与版本管理
 
 ## 适用场景
 
-- 检查 AI 生成视频是否落实了剧本中的每个提示元素
-- 在带时间线的三面板工作台里手动对齐剧本与视频
-- 用 Gemini 等多模态模型批量生成同步 cue 后导入核对
+- 逐段核对 AI 生成的视频画面是否覆盖了 prompt 指令
+- 迭代 AI 电影项目时追踪镜头漂移与连续性偏差
+- 为剧本段落手动或借助 LLM 制作带时间戳的 cue 表
 
 ## 场景标签
 
-`模型评测` · 领域:评测与运维
+ · 领域:影视/创作工具
 
 ## 证据(README 行号)
 
+> L16: **SceneFlow** is a tool that syncs scripts and screenplays with video content, letting you see which parts of your 
 > L18: Built for evaluating how AI video models visualize prompt instructions, it supports both traditional **Screenplay f
-> L29: - **Adherence Analysis** — Pinpoint missed prompt elements, camera drift, or continuity deviations against the gene
+> L20: > **Note on Cue Creation**: SceneFlow does not automatically extract video sync cues in the background. Cues can be
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `2377e8b1d16a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `691ec5d84c4a` · [字段定义](../../DATASET.md)*

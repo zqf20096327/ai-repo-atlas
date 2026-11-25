@@ -2,9 +2,9 @@
 
 ⭐ 341 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/liugangcode/torch-molecule) · 组织维护
 
-**分子发现深度学习库：sklearn 风格接口做性质预测与生成**
+**分子发现的 sklearn 风格深度学习库**
 
-基于 PyTorch 的分子深度学习 Python 包，提供 sklearn 风格 API（fit/predict），无需额外 SMILES 特征化。覆盖三类模型：预测模型（GNN、Transformer、GREA 等约 11 种）、生成模型（GenMol、DiGress、JTVAE 等约 10 种，含多个 HuggingFace 预训练模型）与表示学习模型（GraphMAE、ChemBERTa 系列等）。内置 qm9、chembl2k、toxcast 等数据集加载函数，支持 HuggingFace checkpoint 保存与加载。面向化学、生物、材料科学领域的研究者与开发者；部分模型需额外安装 transformers、torch-scatter 等可选依赖。
+以 sklearn 风格接口封装分子深度学习任务，覆盖三类组件：预测模型（11 个）、生成模型（11 个）、表示模型（8 个及多个预训练权重），无需额外 SMILES 特征化即可 fit。提供 Hugging Face 上的模型 checkpoint 交互与本地保存/加载，附带分子数据集 hub 按名称加载数据并内置多种数据划分方式。要求 Python 3.10+，部分模型需 3.11+ 且 transformers 版本互相冲突需独立环境。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- sklearn 风格接口，无需额外 SMILES 特征化
-- 覆盖预测、生成、表示学习三类共 30+ 种模型
-- 内置 qm9/chembl2k/toxcast 等 7 个数据集加载函数
-- 支持 HuggingFace checkpoint 保存、加载与部署
+- sklearn 风格 fit/predict API，覆盖属性预测、逆分子设计与表示学习
+- 30 余个已实现模型及论文出处（NeurIPS/ICML/ICLR 等）
+- molecular dataset hub 按名称加载，含 WelQrate 十种划分方案
+- checkpoint 可上传 Hugging Face 或本地 .pt 保存/加载
 
 ## 适用场景
 
-- 用预测模型估算分子性质（量子化学、毒性、ADMET）
-- 用生成模型做 de novo 分子设计与骨架补全
-- 加载预训练模型做分子表示学习与虚拟筛选
-- 在自有数据集上以统一接口训练与基准测试多种模型
+- 对 SMILES/分子图做性质预测建模
+- 生成满足特定性质条件的新分子
+- 分子预训练表示学习与虚拟筛选
 
 ## 场景标签
 
@@ -39,7 +38,7 @@
 ## 证据(README 行号)
 
 > L12: `torch-molecule` is a package that facilitates molecular discovery through deep learning, featuring a user-friendly
-> L84: `torch-molecule` supports applications in broad domains from chemistry, biology, to materials science. To get start
+> L155: ## List of Supported Models
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2affb7c1cf1a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e2345ace0f41` · [字段定义](../../DATASET.md)*

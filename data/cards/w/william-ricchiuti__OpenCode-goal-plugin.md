@@ -2,9 +2,9 @@
 
 ⭐ 289 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/william-ricchiuti/OpenCode-goal-plugin) · [官网](https://www.npmjs.com/package/opencode-goal-plugin) · 个人维护
 
-**OpenCode 插件：为会话设定受守护的持久目标工作流**
+**OpenCode 的 /goal 插件：让 agent 持续运行直到证实目标完成**
 
-面向 OpenCode 的 npm 插件，提供会话级 /goal 命令：设定目标后跨轮次与压缩保持上下文，助手空闲时自动续跑，并在目标完成、报告阻塞或触达安全限制（轮次/时长/token/无进展/无工具调用）时停止。支持项目本地持久化与重启恢复、证据门控完成（可选独立 fail-closed 验证器）、多目标与有序目标序列。依赖 OpenCode 实验 hooks，需按所用版本钉死插件版本并自行重测。
+为 OpenCode 提供会话级 /goal 命令的插件：设定目标后 agent 自动持续运行，需通过独立只读子会话审核员（default-deny，仅 read/glob/grep）批准证据性完成声明后归档，否则默认拒绝。支持多目标与有序序列、轮次/时间/令牌/成本限额、fail-closed 持久化（原子写入、追加式生命周期账本、每会话租约）。同时兼容 OpenCode 1 与 2，经 npm 由 OpenCode 自行加载。注意：OpenCode 2.2.1+ 已内置 /goal，本项目仅维护，不再新增功能。
 
 ## 筛选速览
 
@@ -16,29 +16,31 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 轮次/时长/token/无进展等多重安全限制的守护式自动续跑
-- 持久化状态与有界生命周期账本支持重启恢复
-- 证据门控完成，可选独立 fail-closed 验证器
-- active/paused/blocked 生命周期与多目标、有序序列
+- 独立只读验证子会话，完成声明默认拒绝，需 [audit:approved]
+- fail-closed 持久化：原子写入、追加式生命周期账本、每会话租约
+- 支持多目标队列与有序序列，可配置轮次/分钟/令牌/成本限额
+- 94 项命名回归的变异测试契约（npm run test:mutation）
 
 ## 适用场景
 
-- 让 OpenCode 会话长时间自主推进一个目标并在完成后自动停止
-- 为无人值守任务设置 token/费用等安全上限
-- 需要完成证据与独立验证的多步开发目标
+- 让 OpenCode agent 无人值守长时间运行直至目标有证据地完成
+- 修复失败测试套件并验证通过（demo 提供示例）
+- 需要对目标完成做证据门控审核、防止模型虚报完成的场景
+- 多目标按序自动推进的批量任务
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L9: A session-scoped `/goal` workflow for OpenCode.
-> L11: Set a goal and the plugin keeps it in context, auto-continues the session whenever the assistant goes idle, and sto
+> L7: A `/goal` command for OpenCode: set an objective, walk away, and the plugin keeps the agent working until it proves 
+> L17: - **Independent verifier.** A goal is archived only after a separate child session, default-deny with `read`, `glob
+> L20: - **One core, two hosts.** OpenCode 1 and OpenCode 2 load the same entrypoint; `src/v2-bridge.js` adapts OpenCode 2
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `68920f07e4db` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c517266832ff` · [字段定义](../../DATASET.md)*

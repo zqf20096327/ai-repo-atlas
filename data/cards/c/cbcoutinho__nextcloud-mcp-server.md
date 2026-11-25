@@ -2,9 +2,9 @@
 
 ⭐ 420 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/cbcoutinho/nextcloud-mcp-server) · 个人维护
 
-**连接 AI 助手与 Nextcloud 的独立 MCP 服务器**
+**把 Nextcloud 数据经 MCP 接入 AI 助手的服务器**
 
-独立运行的 MCP 服务器，让 Claude、GPT、Gemini 等 LLM 通过自然语言操作 Nextcloud 数据：覆盖 Notes、Calendar、Contacts、Files、Deck、Mail、Talk 等 10 余个应用的 110+ MCP 工具，支持 CRUD、OCR 文档处理、共享管理与标签排除。认证采用应用密码 Basic Auth，多用户可经 Login Flow v2/OAuth。提供可选的实验性语义搜索（需 Qdrant + Ollama 向量与嵌入服务）。部署方式含 uvx、Docker、Kubernetes（Helm）与本地安装；另有托管服务 Astrolabe Cloud 在开发中。
+独立运行的 Model Context Protocol 服务器，向 Claude Code、IDE 等外部 MCP 客户端开放 Nextcloud 数据的 CRUD 操作，覆盖 Notes、Calendar、Contacts、Files、Deck、Mail、Talk 等 14 个应用、110+ 工具。部署方式含 uvx 本地运行、Docker、Kubernetes Helm chart；认证支持应用密码 Basic Auth 与多用户 Login Flow v2。另有实验性语义搜索（RAG）管道，默认关闭，需自备 Qdrant 与嵌入服务；Astrolabe Cloud 为开发中的托管服务。AGPL-3.0 许可。
 
 ## 筛选速览
 
@@ -20,24 +20,23 @@
 
 ## 能力要点
 
-- 110+ MCP 工具覆盖 10 余个 Nextcloud 应用的 CRUD 操作
-- 三种认证模式：单用户 Basic Auth、透传与 Login Flow v2（OAuth）
-- 实验性 RAG 语义搜索（Notes/Files/News/Deck/Mail，需 Qdrant + Ollama）
-- PDF/DOCX/图像的 OCR 与文本提取
+- 110+ MCP 工具覆盖 14 个 Nextcloud 应用的 CRUD 操作
+- 多用户 Login Flow v2：客户端经 OAuth 认证，服务端透明处理应用密码
+- 实验性语义搜索管道（可选 Qdrant + 嵌入服务）与重排序文档
+- 支持 streamable-http 与 stdio 两种传输方式
 
 ## 适用场景
 
-- 在 Claude Code 或 IDE 中用对话管理我的 Nextcloud 笔记、日历与文件
-- 让 AI 客户端对 Nextcloud 内容做语义检索而不仅靠关键词
-- 多用户部署下让每人以自己的身份访问 Nextcloud 数据
+- 让 Claude Desktop 或 IDE 通过自然语言管理 Nextcloud 笔记、日历、联系人
+- 对企业文件做 OCR 与文本提取后供 MCP 客户端检索
+- 多用户环境接入 Nextcloud 内容并按用户身份隔离访问
 
 ## 场景标签
 
-`语义搜索` `OCR` · 领域:知识与检索
+`知识库管理` `RAG` `OCR` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L7: **A production-ready MCP server that connects AI assistants to your Nextcloud instance.**
 > L11: This is a **dedicated standalone MCP server** designed for external MCP clients like Claude Code and IDEs. It runs 
 > L60: - **110+ MCP Tools** - Comprehensive API coverage across 10 Nextcloud apps
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `33ad95feb91e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `d5ca4c67e895` · [字段定义](../../DATASET.md)*

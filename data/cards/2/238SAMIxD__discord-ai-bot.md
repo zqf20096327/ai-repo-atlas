@@ -2,9 +2,9 @@
 
 ⭐ 294 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/238SAMIxD/discord-ai-bot) · [官网](https://github.com/ollama/ollama) · 个人维护
 
-**接入 Ollama 与 Stable Diffusion 的 Discord AI 聊天机器人**
+**接入 Ollama 与 Stable Diffusion 的 Discord 聊天/画图机器人**
 
-用 Node.js/TypeScript 编写的 Discord 机器人：在指定频道中被 @提及时调用本地 Ollama 服务生成对话回复，并可对接 AUTOMATIC1111 Stable Diffusion WebUI 的 API 生成图像。支持配置多个 Ollama 服务器地址、按频道 ID 限定生效频道、自定义或关闭系统提示。安装需先部署 Ollama 并拉取模型（如 orca/llama2），再通过 npm 安装依赖启动，或使用 Docker Compose 运行；Stable Diffusion 为可选步骤。仓库声明处于维护模式，正在 typescript 分支重写。
+以斜杠命令交互的 Discord 机器人：/chat 与 /generate 调用 Ollama 生成文本，/text2img 调用 AUTOMATIC1111 Stable Diffusion 生成图像，/models 列出可用模型，/clearhistory 清除历史。对话按用户与频道分别保存在 SQLite 中，每用户每频道保留最近 50 条。支持视觉模型读取图片附件、多个 Ollama 服务器负载排队、回复中断（Stop 按钮）、生成统计按钮与慢速模式，通过 Node.js 22+ 与 pnpm 运行，也可用 Docker Compose 部署。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 通过 @提及在 Discord 频道中与 Ollama 模型对话
-- 可对接 AUTOMATIC1111 Stable Diffusion API（--api --listen）
-- 支持多个 Ollama 服务器地址与按频道 ID 配置
-- 提供 npm 与 Docker Compose 两种运行方式
+- /chat、/generate 走 Ollama，/text2img 走 AUTOMATIC1111 Stable Diffusion API
+- 对话历史存 SQLite，按用户×频道隔离，重启后保留
+- 支持视觉模型读取图片附件（llava、qwen2.5vl 等）
+- 多服务器排队与每用户慢速模式，Stop 按钮可中断请求
 
 ## 适用场景
 
-- 在 Discord 服务器里用本地模型提供 AI 聊天
-- 让频道成员通过提及机器人生成对话或图像
-- 多 Ollama 服务器负载分摊的社区机器人部署
+- 在 Discord 服务器里通过斜杠命令与本地 LLM 对话
+- 在聊天中用文字生成图像
+- 多用户共享有限的本地推理服务器并排队使用
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3:  Discord bot to interact with Ollama and AUTOMATIC1111 Stable Diffusion as a chatbot
-> L33: 10. You can interact with the bot by @mentioning it with your message
+> L2:  Discord bot to interact with Ollama and AUTOMATIC1111 Stable Diffusion as a chatbot
+> L31:  - While `/chat`, `/generate` or `/text2img` runs, its reply shows a red Stop button that only the person who ran t
+> L39: 10. You can interact with the bot with its slash commands: `/chat`, `/generate`, `/text2img`, `/models` and `/clear
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9190ac3a4359` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `86f18fb82ca6` · [字段定义](../../DATASET.md)*

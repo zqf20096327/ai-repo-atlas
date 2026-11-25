@@ -2,9 +2,9 @@
 
 ⭐ 311 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sous-labs/songe) · [官网](https://souslabs.ai/songe) · 组织维护
 
-**利用空闲算力在本地持续微调你的本地模型的训练引擎**
+**利用闲置算力在本地微调你本地模型的学习引擎**
 
-Songe 是一个本地模型训练引擎：以本地代理服务器（127.0.0.1:7613）形式运行在 agent 与模型服务器之间，记录对话中的纠错、偏好声明与工具错误，在 agent 空闲时执行 Quick Dream（把偏好写入模型指令）或 Deep Dream（通过 on-policy distillation 训练小型适配器），新版本仅在自检通过后启用，支持一键回退。需本地模型服务器与 agent 配合；无 GPU 机器只记录不训练；数据不出本机，无账号与遥测。
+Songe 以本地代理与模型服务器之间的中间层运行（127.0.0.1:7613），记录代理会话中的纠正、偏好与工具错误作为学习素材；代理空闲时通过 Quick Dream（数分钟内把偏好写入模型指令）或 Deep Dream（基于 on-policy distillation 训练小型适配器）更新模型，新版仅在通过对比检查后启用，可一键回滚。数据不出本机，无账号与遥测。安装依赖 uv/pipx 或 Homebrew，需要本地模型服务器与代理配合使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Songe 是一个本地模型训练引擎：以本地代理服务器（127.0.0.1:7
 
 ## 能力要点
 
-- 拦截式记录 agent 对话中的纠错、偏好与工具错误作为学习素材
-- Quick Dream 分钟级改写指令，Deep Dream 用 on-policy distillation 训练 LoRA 适配器
-- 新版本经对比检查通过才启用，可一键回退任意旧版本
-- 仅在 agent 空闲、内存充足、电池状态良好时运行
+- 从代理会话中提取纠正、偏好与工具错误作为训练素材
+- Quick Dream 与 Deep Dream 两种更新方式，新版仅在检查通过后启用
+- 基于 on-policy distillation 训练小型适配器，并含回放与判分机制
+- 仅在代理空闲、内存与电量条件满足时运行，支持一键回滚与卸载还原
 
 ## 适用场景
 
-- 让本地编码 agent 在日常使用中逐步吸收我的偏好与纠错
-- 利用机器空闲时段自动训练专属模型版本
-- 在不上传对话数据的前提下做私有化模型微调
+- 让本地编码代理模型从日常使用中的纠正与报错持续学习
+- 在闲置时段自动训练模型且不影响正常工作
+- 希望训练数据留在本机、不上云的个人用户
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Songe 是一个本地模型训练引擎：以本地代理服务器（127.0.0.1:7
 ## 证据(README 行号)
 
 > L3:  A training engine for your local model, using your idle compute.
-> L73: |Model servers|LM Studio, vLLM, Ollama, llama.cpp, mlx-lm|LM Studio (macOS), vLLM (Linux)|
-> L110:  (on-policy distillation). Earlier skills are rehearsed so they stay.
+> L16: Use your local model as usual through opencode, pi or any OpenAI-compatible
+> L85: |Model servers|LM Studio, vLLM, Ollama, llama.cpp, mlx-lm|LM Studio (macOS), vLLM (Linux)|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `91741a121442` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ab44a84f304d` · [字段定义](../../DATASET.md)*

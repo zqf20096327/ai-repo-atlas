@@ -2,9 +2,9 @@
 
 ⭐ 277 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/smartcomputer-ai/lightspeed) · [官网](https://ls.bot/) · 组织维护
 
-**Rust 编写的托管 agent 舰队基础设施，基于 Temporal 持久工作流**
+**在 Temporal 上以持久工作流运行大规模托管 agent 集群的基础设施**
 
-开源基础设施项目：将 agent 循环、上下文与会话状态作为 Temporal 上的持久工作流运行，agent 可跨重启存活数周至数月；Shell、代码执行与文件系统在需要时才挂载 VM 或沙箱，单 worker 可管理数百 agent。核心为事件溯源、确定性设计且自身不做 I/O，数据存于 Postgres（可选 S3），前端 TypeScript/React。支持 OpenAI/Anthropic 及 OpenAI 兼容后端（OpenRouter/DeepSeek/vLLM/Ollama），提供子 agent、MCP、bot 联邦、多租户与角色权限。从源码运行需 Rust 工具链、Node.js 24+、Docker Compose 与 protoc，通过 ./dev.sh 启动。
+以 Rust 编写、运行于 Temporal 的开源 agent 基础设施：将 agent 循环、上下文与会话状态实现为事件溯源的确定性持久工作流，数据存于 Postgres（可选 S3），shell 与文件系统按需挂到临时借用的 VM/沙箱，单个 worker 可承载多个 agent，会话可在重启后存活并运行数周至数月。前端为 TypeScript/React，提供模型接入、MCP、子 agent、定时 Bot、多租户与 RBAC 等能力，含 web/CLI 启动脚本与文档站。
 
 ## 筛选速览
 
@@ -16,31 +16,31 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- harness 与计算分离：单 worker 管理数百持久 agent，按需挂载 VM/沙箱
-- 事件溯源的确定性核心，自身不做 I/O，大载荷存入 CAS
-- 支持 OpenAI/Anthropic 及 OpenAI 兼容后端（OpenRouter/DeepSeek/vLLM/Ollama）
-- 子 agent、MCP、bot 联邦、多租户与基于角色的权限
+- 事件溯源确定性内核：重放会话日志并发出 effect intents，内核不做 I/O
+- harness 与计算分离：一台 worker 管理多个 agent，环境按需挂载并随空闲策略暂停/停止
+- 支持 OpenAI/Anthropic 及 OpenAI 兼容端点（OpenRouter、DeepSeek、vLLM、Ollama）
+- Bot 联邦、触发器、子 agent 委派与会话 fork/clone 原语
 
 ## 适用场景
 
-- 为大量用户运行个人助手而不为每人保留空闲 VM
-- 构建长时间自治的软件工厂（多 agent 协作开发与测试）
-- 值班运维 agent 调查告警并通过 Telegram/WhatsApp 汇报
-- 长期运行的实验型研究 agent 按需拉起计算并监督进度
+- 为数千用户提供无需常驻 VM 的个人助理服务
+- 协调多个 agent 长期构建、测试、评审代码的软件工厂
+- 值班运维 agent：调查告警、提出修复并通过聊天回报
+- 长时间运行的科研实验 agent：按需启动计算并监督进度
 
 ## 场景标签
 
-`多智能体` `Agent 框架` · 领域:Agent 开发
+`AI 助手` `科研工具` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L13: Lightspeed is open-source infrastructure for running managed agent fleets as durable workflows.
+> L23: Lightspeed's Rust core runs on Temporal today and stores
 > L36: So, in Lightspeed, the harness (the agent loop, context, and session state) runs as a lightweight
-> L149: In Lightspeed, every agent is driven by an event-sourced, deterministic core. The runtime replays the session log,
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `9e9ad1111dac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `e9b3db2bd164` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # OEvortex/llm4free
 
-⭐ 383 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/OEvortex/llm4free) · [官网](https://pypi.org/project/llm4free/) · 组织维护
+⭐ 383 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/OEvortex/llm4free) · [官网](https://pypi.org/project/llm4free/) · 个人维护
 
-**统一 OpenAI 接口聚合 40+ 免费/付费 AI 提供商的 Python 工具包**
+**Python 库：将 40+ 免费第三方 AI 网站后端统一为 OpenAI 兼容接口**
 
-原 WebScout 更名而来的 Python 工具包：以与 OpenAI SDK 一致的 chat.completions 接口聚合 40+ 聊天提供商（含 HeckAI、Pollinations 等免 key 免费层与 Groq、DeepInfra 等认证提供商），统一 Client 提供自动故障转移与模型解析。另含多引擎网络搜索（DDG/Bing/Brave 等）、文生图、文生语音、OpenAI 兼容 FastAPI 服务器、CLI 及 Scout 爬虫、GGUF 转换等开发者工具。pip/uv/Docker 安装，Apache-2.0 许可。
+LLM4Free 收集经逆向工程得到的第三方 AI 网站后端，统一适配为 OpenAI SDK 形式的接口，覆盖 31 个聊天、13 个文生图、14 个 TTS、2 个 STT 提供商，以及 8 个搜索引擎。统一 Client 提供自动提供商选择、模型解析、实例缓存与故障转移，并内置 FastAPI 服务器暴露 OpenAI/Anthropic 兼容端点，附 CLI 工具。多数免费提供商无需 API key；README 声明第三方端点可能随时变化、限流或封禁，可用性为尽力而为，用户需自行遵守各提供商服务条款。
 
 ## 筛选速览
 
@@ -13,34 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 40+ 提供商统一实现 OpenAI 兼容接口，一行切换
-- 统一 Client 自动故障转移与模型解析（model="auto"）
-- 本地 OpenAI 兼容 FastAPI 服务器（llm4free-server）
-- 多引擎搜索、文生图、文生语音与 CLI、开发者工具箱
+- 40+ 免费后端统一为 chat.completions/images.generate/audio 接口
+- 自动提供商选择、模型解析、缓存与 failover
+- FastAPI 服务器暴露 OpenAI /v1 与 Anthropic /v1/messages 端点
+- CLI 提供搜索、天气、翻译、地图等命令
 
 ## 适用场景
 
-- 不改代码在多个免费/付费 LLM 提供商之间切换并自动容灾
-- 零 API key 快速接入可用的聊天模型
-- 把各种提供商经标准 /v1 端点供官方 OpenAI SDK 调用
-- 在同一工具包里做搜索、文生图、文生语音
+- 无需 API key 直接调用多家免费 LLM 聊天后端
+- 将逆向后端作为本地 OpenAI 兼容 API 服务给现有客户端使用
+- 统一入口做多提供商文本生成、生图与语音合成
+- 用 CLI 快速做网页搜索与查询工具
 
 ## 场景标签
 
-`模型网关` `网页抓取` `图像生成` `语音合成` · 领域:Agent 开发
+`模型网关` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L30: - 🔌 **One interface, 40+ providers.** Every chat provider implements `client.chat.completions.create(...)` — identi
-> L35: - 🚀 **OpenAI-compatible server.** Serve any provider through standard `/v1` endpoints — point the official OpenAI S
-> L181: All providers use the **OpenAI-compatible interface** (`client.chat.completions.create(...)`).
+> L28: LLM4Free is a Python package that collects **reverse-engineered backends for third-party AI websites** and exposes 
+> L36: - **Serving:** a FastAPI server exposing OpenAI- and Anthropic-compatible endpoints
+> L63: |API server|OpenAI `/v1` routes plus Anthropic `/v1/messages` compatibility|
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `34f6baebbd86` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5bea7e4febe0` · [字段定义](../../DATASET.md)*

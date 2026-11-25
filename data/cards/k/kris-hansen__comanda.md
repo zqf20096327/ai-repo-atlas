@@ -2,9 +2,9 @@
 
 ⭐ 333 · Go · MIT · 推送 2026-11-10 · [GitHub](https://github.com/kris-hansen/comanda) · [官网](https://comanda.sh) · 个人维护
 
-**终端原生的 AI agent 工作流编排运行时，用 YAML 编排编码代理**
+**终端内编排 AI 编码代理的声明式 YAML 工作流运行时**
 
-面向开发者的 CLI 工具：将英文描述生成为可审查的 YAML 工作流程序，在一个流程中协调 Claude Code、Codex、Gemini CLI、Kimi Code、API 模型与本地模型（Ollama/vLLM/llama.cpp）。核心机制包括带检查点持久化的 agentic loop（可中断/恢复）、基于自有测试与安全检查的质量门禁、Git worktree 隔离并行实现、代码库索引与知识图谱（SQLite FTS5 语义记忆），并可将工作流以 HTTP 端点或 MCP 服务暴露。MIT 许可，Go 编写，提供 brew/go 安装与三平台预编译二进制。
+一个 CLI 工具，将 Claude Code、Gemini CLI、Codex、Kimi Code 等编码代理的协作流程编写为可检入版本库的 YAML 程序：可从英文描述生成工作流、以持久化状态运行 agentic loop、每轮迭代后执行测试/安全等质量门控，并支持中断后从检查点恢复。另提供代码库索引与知识图谱构建、SQLite FTS5 项目语义记忆、MCP 服务暴露、HTTP 端点运行等能力。面向在终端与 CI 中管理代理工作流的开发者，安装途径包括 Homebrew、go install 与预编译二进制。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- 英文描述生成可版本化审查的 YAML 工作流
-- agentic loop 持久化状态、检查点恢复、质量门禁定义完成条件
-- 代码库索引与确定性知识图谱（含 PostgreSQL DDL 自动建图）
-- 工作流可作为 HTTP 端点或 MCP 工具/提示暴露
+- 持久化 agentic loop：状态存续、检查点恢复、质量门控
+- 协调 Claude Code/Gemini CLI/Codex/Kimi Code 及 API 与本地模型
+- 代码库索引与知识图谱，本地确定性抽取，localhost 可视化
+- 工作流可经 MCP、HTTP 端点或 shell 管道运行
 
 ## 适用场景
 
-- 在仓库内编排多个编码代理协同完成特性实现与审查
-- 让长时运行的 agent 循环在测试与安全检查通过后才停止
-- 把代码库结构做成可导航的知识图谱与 agent 上下文
-- 将签入的工作流接入 CI 或 MCP 客户端复用
+- 让编码代理迭代执行功能直到测试与安全检查通过
+- 多代理并行评审 git diff
+- 把仓库工作流暴露为 MCP 工具供客户端调用
 
 ## 场景标签
 
-`编码 Agent` `知识图谱` `Agent 框架` · 领域:Agent 开发
+`工作流自动化` `知识图谱` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L7: > Comanda is the terminal-native runtime for durable, self-improving agent work in a repository. Describe a workflow
-> L52: Coordinate Claude Code, Gemini CLI, OpenAI Codex, Kimi Code, API models, and local models in one workflow. Give age
-> L121: - Call OpenAI, Anthropic, Google, xAI, DeepSeek, Moonshot, Sakana, Ollama, vLLM, llama.cpp, and compatible provide
+> L105: Comanda sits between a coding agent and an agent framework: it turns agent work into a durable, reviewable program
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fef6f06af44d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `408fda1bc01c` · [字段定义](../../DATASET.md)*

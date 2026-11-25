@@ -1,10 +1,10 @@
 # SAILResearch/awesome-ai-leaderboard
 
-⭐ 383 · 推送 2026-11-16 · [GitHub](https://github.com/SAILResearch/awesome-ai-leaderboard) · [官网](https://sailresearch.github.io/awesome-ai-leaderboard/) · 组织维护
+⭐ 383 · 推送 2026-11-16 · [GitHub](https://github.com/SAILResearch/awesome-ai-leaderboard) · [官网](https://sailresearch.github.io/awesome-ai-leaderboard/) · 组织维护 · 中文 README
 
-**AI 榜单资源策展清单：收录排行榜、工具与评测组织**
+**AI 排行榜与基准评测资源的策展清单**
 
-由 SAIL（Software Analysis and Intelligence Lab）基于其 LBOps 学术调研维护的 awesome 类清单，汇集 AI 领域的 leaderboard 资源：开发工具（榜单后端、评测结果托管、竞赛创建）、挑战平台（Kaggle、AIcrowd、EvalAI 等）以及按综合/文本等类别组织的模型排行与评测榜单（Arena、HELM、SuperCLUE 等）。条目以表格形式给出名称与一句话描述，收录标准为积极维护且与 AI 相关。仓库本身不含代码，配套论文发表于 arXiv。
+由 Software Analysis and Intelligence Lab (SAIL) 维护的 awesome list，收录 AI 领域的排行榜、开发工具与评测组织，并按 Tools、Challenges、Rankings（综合/文本等）分类组织；收录标准为活跃维护且与 AI 相关（L34-37）。条目附一句话功能描述，覆盖基准数据检索、竞赛平台、agent 排名、中文模型评测等。清单源自其 LBOps 探索性研究论文（arXiv:2407.04065），本体为编目列表，不提供可运行代码，接受 PR 与 issue 贡献。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 按 Tools / Challenges / Rankings 分类组织榜单资源
-- 配套 LBOps 学术调研论文（arXiv 2407.04065）
-- 收录标准要求榜单积极维护且与 AI 相关
-- 覆盖综合、文本等多类别模型排行与评测榜单
+- 按 Tools / Challenges / Rankings 等分类收录 AI 排行榜资源
+- 收录标准：活跃维护且与 AI 相关
+- 配套 LBOps 探索性研究论文（arXiv 链接）
+- 开放 PR 与 issue 贡献
 
 ## 适用场景
 
-- 寻找可用的 AI 模型评测榜单与基准
-- 了解榜单运维相关的开发工具与挑战平台
-- 为学术调研引用 LBOps 论文与配套清单
+- 寻找某领域（文本、agent、中文模型等）的模型评测排行榜
+- 查找可托管模型评测结果的工具与后端
+- 调研排行榜运营（LBOps）的背景资料
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`模型评测` `精选清单` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L13: **Awesome AI Leaderboard** is a curated list of awesome AI leaderboards, along with various development tools and e
-> L15:  On the Workflows and Smells of Leaderboard Operations (LBOps): An Exploratory Study of Foundation Model Leaderboar
+> L34: Also, a leaderboard should be included if only:
+> L39: ## Table of Contents
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `bb7c5fe8046a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `dd9a718f76ab` · [字段定义](../../DATASET.md)*

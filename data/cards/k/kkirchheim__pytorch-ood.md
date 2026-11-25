@@ -2,9 +2,9 @@
 
 ⭐ 354 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kkirchheim/pytorch-ood) · [官网](https://pytorch-ood.readthedocs.io/) · 个人维护
 
-**基于 PyTorch 的分布外（OOD）检测库，供研究者评测检测方法**
+**为深度学习研究者提供 PyTorch 实现的分布外检测方法库**
 
-Python 库 pytorch-ood，面向使用深度神经网络做分布外检测（OOD Detection）的研究者与开发者：提供 20 余种检测器实现（OpenMax、ODIN、Mahalanobis、Energy-Based、ViM 等）、损失函数、数据集、预训练网络权重与数据增强，并兼容 pytorch-lightning 等框架；覆盖开集识别、新颖性检测、置信度估计、异常检测等相邻领域的方法。内置基准评测（如 OpenOOD v1.5），缓存 logits 复用计算；约定 OOD 检测器输出离群值分数且 OOD 数据标签须小于 0。经 PyPI 安装，依赖 torch/torchvision/scipy。
+基于 PyTorch 的分布外（OOD）检测 Python 库，提供多种检测器实现（如 OpenMax、Mahalanobis、Energy-Based、ODIN、ReAct 等）、损失函数、数据集、网络架构与预训练权重、数据增强及工具函数，并覆盖开放集识别、新颖性检测、置信度估计与异常检测等相关领域方法。设计为可与 pytorch-lightning、pytorch-segmentation-models 框架配合使用，统一约定检测器输出离群分数。通过 PyPI 安装，依赖 torch/torchvision/scipy，附 JOSS 与 CVPRW 论文引用及在线文档。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Python 库 pytorch-ood，面向使用深度神经网络做分布外检测（OOD 
 
 ## 能力要点
 
-- 20 余种 OOD 检测器实现（2016-2022 年论文方法）
-- 提供预训练模型权重（如 WideResNet-40 CIFAR-10）与统一加载接口
-- 内置 OpenOOD v1.5 等基准评测，支持 logits/特征缓存复用
-- 覆盖开集识别、新颖性检测、置信度估计、异常分割等相邻方法
+- 内置 OpenMax、Mahalanobis、Energy-Based、ODIN、ReAct 等多种 OOD 检测器实现
+- 提供损失函数、数据集、预训练模型权重与数据增强
+- 提供 OpenOOD v1.5 CIFAR 基准评测接口，支持 logits/特征缓存复用
+- 设计为兼容 pytorch-lightning 与 pytorch-segmentation-models
 
 ## 适用场景
 
-- 评测与对比多种 OOD 检测方法在标准基准上的表现
-- 给已有 PyTorch 分类模型添加分布外/离群检测能力
-- 复现 OOD 检测论文方法或开展新方法研究
+- 在图像分类模型上评估输入是否超出训练分布
+- 复现论文中的 OOD 检测方法与基准实验
+- 为开放集识别任务选择和比较不同检测器
 
 ## 场景标签
 
@@ -37,9 +37,8 @@ Python 库 pytorch-ood，面向使用深度神经网络做分布外检测（OOD 
 
 ## 证据(README 行号)
 
-> L38: A Python library for Out-of-Distribution (OOD) Detection with Deep Neural Networks based on PyTorch.
-> L42: - Out-of-Distribution Detection Methods
-> L109: Evaluate detectors against common benchmarks, for example the OpenOOD v1.5 CIFAR benchmark.
+> L41: A Python library for Out-of-Distribution (OOD) Detection with Deep Neural Networks based on PyTorch.
+> L45: - Out-of-Distribution Detection Methods
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d89bf539d7bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ad57fb2f414b` · [字段定义](../../DATASET.md)*

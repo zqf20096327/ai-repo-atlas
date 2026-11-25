@@ -2,9 +2,9 @@
 
 ⭐ 362 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/xr843/fojin) · [官网](https://fojin.app) · 个人维护 · 中文 README
 
-**面向佛学研究者与读者的佛教文献平台：带引文可验证的 AI 问答**
+**面向佛典研究者的可溯源 AI 问答与跨语种文本平台**
 
-聚合 612 个数据源、10,500+ 文本（19,000+ 卷）的佛教数字文献平台，覆盖汉文/巴利/藏文/梵文。核心是 RAG 问答助手'XiaoJin'，在 670K+ 嵌入段落上检索，生成带可点击【《经》卷 N】引文的回答，含引用白名单、逐字核验与反幻觉机制。另提供三语跨藏经对读（LLM 校验的块级对齐）、110K+ 实体知识图谱、39 部辞典、全文检索与朗读，以及供 Claude/ChatGPT 等 MCP 客户端调用的 fojin-mcp 服务器与引文核验 API。通过 git clone + docker compose 自部署，文本数据需另行从原始来源导入，仓库不内置数据。
+聚合 660+ 数据源、10,500+ 佛教文本的平台，核心是以 RAG 驱动的问答助手 XiaoJin：基于 670K+ 嵌入段落检索，支持重排序与跨语种引用抽屉，答案带可点击的【经·卷】引文回链。配套机制包括引用白名单与逐字校验降级等防幻觉守卫、fojin.ai 的逐句经文核查、开放 /api/verify/quote 端点，以及暴露 8 个只读工具的 fojin-mcp 服务器。安装依赖 git clone 加 docker compose，首启需另行导入语料数据。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- RAG 问答带可点击引文与逐字引文核验（/api/verify/quote）
-- CBETA×SuttaCentral×84000 三语跨藏经 LLM 校验块级对读
-- 110K+ 实体知识图谱与 39 部辞典（747K 词条）
-- fojin-mcp 服务器（8 个只读工具）供任意 MCP 客户端调用
+- RAG 问答 XiaoJin：670K+ 段落检索、可点击引文回链、防幻觉守卫
+- 三语跨藏对照阅读（CBETA × SuttaCentral × 84000），LLM 校验的块级对齐
+- 开放 /api/verify/quote 端点与 fojin.ai 逐句经文核查
+- fojin-mcp 服务器提供 8 个只读工具，托管的 mcp.fojin.ai 无需密钥
 
 ## 适用场景
 
-- 用自然语言提问佛经问题并获得可溯源引文回答
-- 对照阅读汉/巴利/藏文跨藏经平行段落
-- 从 Claude/ChatGPT 等 AI 助手中直接检索佛经典籍与核验引文
+- 用自然语言向佛典提问并获得带出处引文的回答
+- 粘贴一段网络流传的'佛陀说…'逐句核查是否出自汉译藏经
+- 跨汉/巴利/藏三语对照研读同一经文段落
+- 让 Claude 等助手通过 MCP 直接调用 FoJin 的引文语料
 
 ## 场景标签
 
-`RAG` `科研工具` `知识图谱` · 领域:知识与检索
+`RAG` `文档问答` `科研工具` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L7: Ask a question in plain language and FoJin's assistant **"XiaoJin"** answers from the canon itself — Retrieval-Augme
-> L31: |**Ask a question, get a sourced answer**|**AI Q&A ("XiaoJin")** — RAG over 670K+ passages, reranking, root-sutra r
+> L29: **FoJin answers the question for you.** Ask in plain language; XiaoJin retrieves the relevant passages from 660+ so
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `fd695e92bcff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `ccb2f6386165` · [字段定义](../../DATASET.md)*

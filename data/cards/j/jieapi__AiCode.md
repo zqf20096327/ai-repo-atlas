@@ -2,9 +2,9 @@
 
 ⭐ 436 · Kotlin · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/jieapi/AiCode) · [官网](https://aicode.murk.top) · 个人维护 · 中文 README
 
-**Android 上的 AI 编程 Agent，内置 Linux 容器与代码编辑器**
+**Android 上的 AI 编程 Agent：手机本地 Linux 环境写代码调试构建**
 
-运行在 Android 设备上的通用 AI Coding Agent 应用：基于 Termux 与 PRoot 提供内置 Alpine Linux 容器与终端，AI Agent 可读写文件、执行 Shell 命令与构建工具，本地完成写码、调试与构建；也可切换远程 SSH 服务器作为执行后端。不内置模型、不绑定供应商，兼容 OpenAI / Anthropic / Gemini 三类协议并支持自定义供应商与多 Key 轮换；支持 MCP 协议扩展、子代理并行、检查点回滚、Git 可视化管理与平板适配。通过 GitHub Releases 分发 APK，面向不用电脑也想进行软件开发的移动用户。
+运行在 Android 上的通用 AI Coding Agent，内置基于 Termux 与 PRoot 的 Alpine Linux 容器与多标签终端，Agent 可读写文件、执行 Shell 命令、运行构建工具；也可切换远程 SSH 服务器作为执行后端。不内置模型、不绑定供应商，支持 OpenAI/Anthropic/Gemini 三类协议与自定义供应商，配好多模型即可使用。功能覆盖子代理并行、三种权限模式、检查点回滚、MCP 工具扩展、Git 可视化、代码编辑器与 SFTP 同步。提供 GitHub Releases 的 APK 安装包，需 Android 8.0+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Termux+PRoot 内置 Alpine Linux 容器，AI Agent 可读写文件、执行 Shell 与构建
-- 兼容 OpenAI / Anthropic / Gemini 协议，模型、密钥与端点自行配置，支持多 Key 轮换
-- 支持本地（stdio）与远程（HTTP）MCP 服务器扩展 AI 工具
-- 远程 SSH 模式将远程服务器作为执行后端
+- 内置 Alpine Linux 容器与终端，代码编写到构建在手机本地完成
+- 兼容 OpenAI/Anthropic/Gemini 协议，模型、密钥、端点自行配置，多 Key 轮换
+- 支持 MCP 协议连接本地与远程服务器动态扩展工具
+- 检查点快照一键回滚代码与对话，BUILD/PLAN/AUTO 三种权限模式
 
 ## 适用场景
 
-- 在手机上不依赖电脑完成写码、调试与构建
-- 把手机作为远程 SSH 项目的移动工作站
-- 通过 MCP 服务器扩展 AI Agent 的工具能力
+- 没有电脑时用手机完成写代码、调试与构建
+- 通过 SSH 把手机当作远程项目的移动工作站
+- 连接 MCP 服务器扩展 Agent 的工具能力
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L26: AiCode 是运行在 Android 上的通用 AI Coding Agent，把一套完整的 Linux 开发环境装进手机：内置 Alpine Linux 容器与终端，AI Agent 能读写文件、执行 Shell 命令、运行构
-> L28: 上手无需任何准备：装上 App、在「AI 供应商」配好模型即可直接开发，不用电脑，也不用自己搭建环境。AiCode 不内置模型、不绑定供应商，支持 OpenAI / Anthropic / Gemini 三类协议与自定义供应商，模
+> L29: AiCode 是运行在 Android 上的通用 AI Coding Agent，把一套完整的 Linux 开发环境装进手机：内置 Alpine Linux 容器与终端，AI Agent 能读写文件、执行 Shell 命令、运行构
+> L31: 上手无需任何准备：装上 App、在「AI 供应商」配好模型即可直接开发，不用电脑，也不用自己搭建环境。AiCode 不内置模型、不绑定供应商，支持 OpenAI / Anthropic / Gemini 三类协议与自定义供应商，模
+> L61: - **协议兼容** — 兼容 OpenAI / Anthropic / Gemini 三类协议，内置多家官方预设，也支持自定义供应商，模型列表与单价可自定义
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5ee71d163a10` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `44a499c3f39f` · [字段定义](../../DATASET.md)*

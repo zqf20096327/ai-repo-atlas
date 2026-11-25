@@ -1,10 +1,10 @@
 # VinkyDev/vibestart
 
-⭐ 300 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VinkyDev/vibestart) · [官网](https://vibestart.net) · 个人维护 · 中文 README
+⭐ 300 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VinkyDev/vibestart) · [官网](https://vibestart.net) · 个人维护
 
-**为 AI 编码智能体生成经验证的全栈 TypeScript 项目脚手架**
+**为 AI 编码智能体生成经验证的全栈 TypeScript 项目**
 
-通过 Web studio 或终端问答组合全栈 TypeScript 技术栈，CLI 生成带有类型安全、lint、测试与 AGENTS.md 规则的项目，供 AI 编码智能体在其上持续开发。每个技术选型为独立集成，不兼容组合会被拒绝并给出最小修改建议；发布前所有支持的组合在 CI 中经过安装、类型检查、lint、测试、浏览器测试与构建验证。生成的项目是普通仓库，对 VibeStart 无运行时依赖；`upgrade` 命令可在保留用户代码的前提下更新模板。
+通过 CLI 或 Web Studio 组合选择各层技术（应用框架、后端、ORM、认证、部署、UI、测试等），生成带类型安全、lint 与测试的全栈 TypeScript 项目。每个技术项以集成形式组合，不兼容的组合会被拒绝并给出原因与最小修复建议；发布前 CI 对每个受支持组合进行安装、类型检查、lint、测试、浏览器测试与构建验证。生成的项目为普通仓库，无对 VibeStart 的运行时依赖，并可通过 upgrade 进行三方合并式模板更新。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按层组合技术栈，无法工作的组合会被拒绝并给出修复建议
-- 所有支持组合在 CI 中经过安装/检查/测试/构建验证并记录指纹
-- 每项目附带 AGENTS.md 与 `vp run ready` 一键运行 types/lint/tests
-- 可通过 `npx skills add` 作为技能安装给 Claude Code 等 agent 使用
+- 按层自由组合技术栈，不兼容组合被拒绝并给出修复建议
+- 每个受支持组合经 CI 安装/类型检查/lint/测试/构建验证并记录指纹
+- 生成的项目含 AGENTS.md 规则与快速检查（vp run ready）
+- upgrade 三方合并模板更新，保留用户应用代码
 
 ## 适用场景
 
-- 我需要为 AI 编码智能体准备一个规范的全栈 TypeScript 起点
-- 我想自由组合框架/ORM/数据库等选型并确保组合经过验证
-- 我想让 agent 直接安装技能并代为选型建项目
+- 用编码智能体（如 Claude Code、Cursor）快速启动全栈 TypeScript 项目
+- 获取各层均为当前标准的、经组合验证的项目脚手架
+- 长期维护生成项目并安全合并模板更新
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L5: Compose a full-stack TypeScript stack and get a cutting-edge, verified project made for AI coding agents, with type 
-> L27: Paste this command, along with what you want to build, into Claude Code, Codex, Cursor, or any coding agent:
-> L33: The agent installs the vibestart skill, chooses the stack, and creates the project. Later, ask it to add capabiliti
+> L28: Paste this command, along with what you want to build, into Claude Code, Codex, Cursor, or any coding agent:
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `efb57d46f269` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f57a27df64a8` · [字段定义](../../DATASET.md)*

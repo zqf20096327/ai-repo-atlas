@@ -2,9 +2,9 @@
 
 ⭐ 413 · JavaScript · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/simoncirstoiu/alice) · 个人维护
 
-**面向 Frigate 摄像头的 YOLO 数据集标注、训练与管理工具包**
+**面向 Frigate 摄像头用户的 YOLO 数据集标注与训练工具包**
 
-以 Python 编写、通过浏览器（localhost:8080）操作的 YOLO 数据集管理工具：提供画布级边界框标注、pHash 去重、Frigate NVR 快照/视频导入、YOLO 推理自动标注、五步训练流水线（导出→去重→自动标注→训练→ONNX 导出）。自动检测 NVIDIA GPU/CPU 并选择对应 PyTorch 与 onnxruntime 变体，GPU 需用户自行安装 NVIDIA 驱动与 CUDA。源码模块经 builder.py 组装为单文件 alice.py 运行，也支持生成 docker-compose 部署。许可为 PolyForm Noncommercial，商用需另行联系。
+为 Frigate NVR 摄像头场景构建的一体化图像标注、训练与数据集管理工具：浏览/标注 YOLO 边界框、pHash 去重、从 Frigate 快照与视频转入训练集、对图像运行 YOLO 推理并合并检测结果，以及五步训练管线（导出→去重→教师模型自动标注→微调→ONNX 导出）。启动时自动检测 NVIDIA GPU 或回退 CPU，依赖通过 Web 欢迎页一键安装；以单体 Python 脚本形式由 builder 组装，也支持 Docker。许可证为 PolyForm 非商业，商业用途需另行联系。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 画布编辑器标注 YOLO 边界框，支持撤销/快捷键/画廊视图
-- 五步训练流水线：导出、pHash 去重、教师模型自动标注、训练、ONNX 导出
-- 自动检测 NVIDIA GPU/CPU 并选择对应 PyTorch 与 onnxruntime 变体
-- 从 Frigate 数据库导入快照并自动 WebP→JPG 转换
+- 五步训练管线：导出/去重/自动标注/微调/ONNX 导出，各步可单独运行
+- 自动检测 NVIDIA GPU 与 CPU 并适配，无需手动配置
+- pHash（DCT 64 位哈希）+ 框相似度去重，多进程加速
+- 读取 Frigate NVR 事件快照与视频导出，一键转入训练集
 
 ## 适用场景
 
-- 用自家摄像头画面训练定制 YOLO 检测模型
-- 管理、标注与去重 YOLO 格式数据集
-- 将 Frigate NVR 的事件快照转入训练集并导出 ONNX 部署
+- 用自家摄像头图像训练适配自家场景的 YOLO 模型
+- 标注与管理 YOLO 格式数据集（画框、去重、统计）
+- 将 Frigate 历史快照批量转为训练数据
+- 训练后导出 ONNX 部署模型
 
 ## 场景标签
 
@@ -38,6 +39,7 @@
 ## 证据(README 行号)
 
 > L3:  All-in-one AI-powered image annotation, training, and dataset management toolkit.
+> L81: Run YOLO inference on any image across all three modes. Merge detected boxes into annotations (dedup by IoU > 0.5).
 > L92: |**4. Train**|Fine-tune student model with real-time metrics (loss, mAP50, mAP50-95)|
 
 ## 星数曲线
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f90c0f0dc324` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9c9a499c7679` · [字段定义](../../DATASET.md)*

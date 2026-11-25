@@ -1,10 +1,10 @@
 # ai-hpc/ai-hardware-engineer-roadmap
 
-⭐ 309 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) · [官网](https://ai-hpc.github.io/ai-hardware-engineer-roadmap/) · 个人维护
+⭐ 309 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ai-hpc/ai-hardware-engineer-roadmap) · [官网](https://ai-hpc.github.io/ai-hardware-engineer-roadmap/) · 组织维护
 
-**面向 AI 硬件工程师的学习路线图：从模型到自研 SoC**
+**面向工程师的 AI 硬件全栈学习路线图：从模型到自研芯片**
 
-一份结构化课程路线图，目标是让工程师掌握从模型工作负载到自定义物理 AI 系统级芯片（SoC）的全栈能力：VLA 模型推理、AI 编译器与运行时、RTL/FPGA/ASIC 设计、嵌入式 Linux 与无线子系统。内容分六个阶段与三条支柱，提供四种入门路径（推理、编译器、硬件、机器人）、按里程碑推进的设计工作室、多门带 CPU 实验的课程（如 32 讲 VLA 课程、10 讲可编程推理加速器课程）。面向 AI/ML、推理、嵌入式固件、RTL/FPGA 与机器人工程师及学生，无硬件背景要求。
+一份分六个阶段的学习路线图与课程集，目标是让学习者从 AI 模型工作负载出发，最终设计一个面向视觉-语言-动作（VLA）模型的物理 AI SoC，涵盖 AI 加速器、AI 编译器与运行时、嵌入式 Linux 与无线子系统集成。路线图提供四种入口（AI 推理、编译器/运行时、硬件工程、机器人学习）、入门诊断、硬件获取选项与共享完成标准；初学者可先在笔记本上完成十个引导实验。软件与硬件背景者均可按需跳过前置阶段。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 六阶段课程：数字基础→嵌入式→AI→部署编译→专业化→面试准备
-- 统一目标为设计面向 VLA 模型的自定义物理 AI SoC（含加速器、编译器、嵌入式 Linux、无线）
-- 四种入门路径均产出可验证的子系统里程碑
-- 提供带可运行 CPU 实验的专业课程与 Isaac Sim/Isaac Lab 工程实验
+- 六阶段路线：数字基础→嵌入式→AI→部署与编译→专精→面试准备
+- 四种入口路径连接至同一 SoC 设计目标，各入口产出独立子系统
+- Physical AI Design Studio 项目链：VLA 参考→仿真→推理测量→编译器→加速器→Linux→无线
+- 含 DeepSeek V4.1 Flash NVFP4 推理工程与 Isaac Sim/Lab 应用课程序列
 
 ## 适用场景
 
-- 系统学习从 AI 模型到芯片设计的完整技术栈
-- 为转做 AI 加速器/SoC 设计规划学习路径
-- 机器人工程师补齐计算平台底层知识
+- 推理工程师想理解模型到硬件的完整执行路径
+- 嵌入式/FPGA 工程师想按真实模型负载设计加速器
+- 机器人方向学生想搭建从模型到执行的完整计算平台
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
+> L9: ## Explore the curriculum
 > L11: Six phases toward one goal: a complete physical-AI chip and its software stack.
-> L41: - **AI/ML engineers** who want to stop treating inference as a black box and design the chip that runs it.
+> L55: Follow the **Physical AI Design Studio** to connect the courses through one project: task contract → VLA reference 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5439cee3aefc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `66fdacdfa7b7` · [字段定义](../../DATASET.md)*

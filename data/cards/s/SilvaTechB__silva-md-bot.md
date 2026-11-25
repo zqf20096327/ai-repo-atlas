@@ -2,9 +2,9 @@
 
 ⭐ 423 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/SilvaTechB/silva-md-bot) · [官网](https://silva-session-selector.vercel.app/) · 组织维护
 
-**给 WhatsApp 用户的多设备自动化机器人：1500+ 命令与群管功能**
+**WhatsApp 多设备机器人：自动交互、AI 助手与媒体下载**
 
-基于 Node.js 的 WhatsApp 多设备机器人，通过 Session ID 关联用户 WhatsApp 账号运行，自称含 1500+ 命令。功能覆盖防护（拒接来电、防删消息、防链接、防刷屏）、媒体下载（YouTube/TikTok/Instagram/Facebook）、群管理（踢人、警告、欢迎语、投票）、游戏与 15 种人格主题。其中 AI 部分为聊天助手、TTS、翻译等命令。支持一键部署到 Silva Host、Heroku、Railway、Koyeb、Replit 等平台，或本地克隆源码用 PM2 常驻运行；需 Node.js 20+ 与 Git。
+面向 WhatsApp 个人与群组场景的多设备机器人，宣称提供 1,400+ 命令。通过 Session ID 绑定 WhatsApp 账号后部署到多种托管平台或本地 Node.js 环境运行。功能涵盖消息防护（反删除/反链接/防骚扰）、YouTube/TikTok/Instagram 等媒体下载、群组管理（成员/警告/投票）、游戏娱乐命令，以及基于 ch.at（无需 API key）或可选 OpenAI 兼容 API 的 Agent v2 助手，支持工具调用与持久聊天记忆。可选 Postgres 加密存储会话数据。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 1500+ 命令，覆盖防护、媒体下载、群管、游戏与 AI 工具
-- 一键部署到 Silva Host/Heroku/Railway/Koyeb/Replit 五种平台
-- 15 种可切换的人格主题（动漫/影视角色风格）
-- 防护套件：拒接来电、恢复已删消息、揭示阅后即焚媒体
+- Agent v2 助手：工具调用、持久记忆、网络查询，默认经 ch.at 无需 API key
+- 1,400+ 命令覆盖媒体下载、群组管理、防护与游戏
+- 支持 Heroku/Railway/Koyeb/Replit 等多平台一键部署与 PM2 常驻
+- 可选 AES-256-GCM 加密的 Postgres 存储
 
 ## 适用场景
 
-- 让自己的 WhatsApp 账号自动回复、管理群成员与欢迎消息
-- 在聊天里直接下载 YouTube/TikTok/Instagram 等平台媒体
-- 给群组加防链接、防刷屏、防垃圾等保护规则
+- 在 WhatsApp 中用命令下载各平台视频与音频
+- 群主自动管理成员、警告与入群审批
+- 通过对话式 AI 助手完成计算、天气与记忆备忘
+- 自动防删消息恢复与群防骚扰
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`聊天机器人` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L5: > **A powerful multi-device WhatsApp bot — 1500+ commands, AI agent, 19 smart features, anti-ban protection.**
-> L150: ## ✨ Features
+> L5: > **A powerful multi-device WhatsApp bot — 1,400+ commands, AI agent, 19 smart features, anti-ban protection.**
+> L121: Agent v2 is the primary Silva assistant backed by ch.at and does not require an API key. It can use approved tools
+> L88: **Requirements:** Node.js 20+ · Git
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 low · 依据 README sha `8e9346d383af` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ee6114389b18` · [字段定义](../../DATASET.md)*

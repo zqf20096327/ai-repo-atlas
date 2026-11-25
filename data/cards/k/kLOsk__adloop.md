@@ -2,9 +2,9 @@
 
 ⭐ 304 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/kLOsk/adloop) · [官网](https://getadloop.com) · 个人维护
 
-**让 AI 助手读写 Google Ads/GA4 的 MCP 服务器，带防误花钱护栏**
+**给 Claude/ChatGPT/Cursor 接入 Google Ads 的 MCP server**
 
-一个 MCP 服务器，向 AI 助手（Claude Code、Cursor、Claude Desktop、ChatGPT 等）开放 Google Ads、Reddit Ads 与 GA4 的读+写访问：提供 GA4 报表、广告/关键词/受众/品牌列表等大量读取工具，以及草稿类写工具；写操作先出预览、需用户确认，新广告与系列默认暂停。还提供 Ads 与 GA4 数据交叉引用诊断（如转化缺口归因、GTM 三方审计）。自托管需自有 Google Cloud 项目，pip 安装；另有托管版 AdLoop Cloud（免费档）。
+一个 MCP server，让 AI 客户端对 Google Ads、Reddit Ads 和 GA4 获得读写访问，覆盖广告系列/关键词/受众/品牌列表等约 40 个工具，并提供 Ads 与 GA4 数据的交叉诊断（转化归因、追踪事件比对、GTM 容器审计）。所有写入变更先出预览、需用户确认后才生效，新广告默认暂停。提供 AdLoop Cloud 托管版（免费计划+付费计划）与自托管版（pip 安装，需自建 Google Cloud 项目），MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 读+写 Google Ads、Reddit Ads、GA4 的 MCP 工具集
-- 安全护栏：预览+用户确认才生效，新广告默认暂停
-- Ads 与 GA4 交叉引用诊断（转化缺口、追踪、GTM 三方审计）
-- compact 模式压缩响应约 90%，避免填满 AI 上下文
+- 40+ 只读工具：广告系列、关键词、PMax、受众、品牌列表、GA4 报表、任意 GAQL 查询
+- 写入前预览与确认机制，新广告/广告系列默认暂停
+- Ads 点击 × GA4 会话 × GTM 容器的三方交叉审计，含 GDPR 同意缺口识别
+- AdLoop Cloud 托管版与自托管版运行同一工具集与安全模型
 
 ## 适用场景
 
-- 在 IDE 里通过对话查广告数据、加否定关键词
-- 排查转化下跌原因（GDPR 拒绝/追踪损坏/落地页问题）
-- 用自然语言草拟搜索广告与广告系列并确认后上线
+- 在 IDE 对话中排查转化下降：一次查询交叉比对 Ads 与 GA4 数据
+- 从搜索词报表中识别无效流量并添加否定关键词
+- 用自然语言起草响应式搜索广告并逐条确认上线
+- 核对代码库中的埋点事件与 GA4 实际接收事件的差异
 
 ## 场景标签
 
- · 领域:营销/广告数据接入工具
+`数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L14: An MCP server that gives your AI assistant read + write access to Google Ads, Reddit Ads and GA4 — with safety guar
-> L32: |**Works with**|claude.ai, ChatGPT, Claude Code, Cursor, Gemini|Claude Code, Cursor, Claude Desktop, any local MCP 
+> L16: An MCP server that gives your AI assistant read + write access to Google Ads, Reddit Ads and GA4 — with safety guar
+> L34: |**Works with**|claude.ai, ChatGPT, Claude Code, Cursor, Gemini|Claude Code, Cursor, Claude Desktop, any local MCP 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a94266a3cdc1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a8b7f43a6e68` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 579 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/shootthesound/comfyUI-Realtime-Lora) · 个人维护
 
-**ComfyUI 内实时 LoRA 训练/分析/分块加载节点集**
+**ComfyUI 内直接训练与分块编辑 LoRA 的节点工具包**
 
-面向 ComfyUI 用户的自定义节点集，共 33 个节点：10 个训练节点通过三个后端（Kohya sd-scripts、Musubi Tuner、AI-Toolkit）在 ComfyUI 内直接训练 LoRA，覆盖 SDXL、SD 1.5、FLUX、Z-Image、Qwen Image、Wan 2.2、FLUX Klein 等 8 种架构；另含块级分析器、按块选择性加载器（含强度调度与 40+ 预设）、模型层编辑器与工具节点。分析/加载功能开箱即用，训练需另行安装对应后端与模型文件。
+以 ComfyUI 自定义节点形式提供的 LoRA 工具包，共 33 个节点：10 个训练节点调用 sd-scripts、Musubi Tuner、AI-Toolkit 三个训练后端，覆盖 SDXL、SD 1.5、Z-Image、FLUX Klein、Qwen Image、Wan 2.2 等架构；另有分析器与按块选择性加载器（支持 LoKR/LoHa/GLoRA 格式）、强度调度（40+ 预设）、LoRA 导出，以及 6 个模型层编辑节点。分析/加载/编辑功能无需额外安装即可使用，仅训练需安装对应后端（Python 3.10-3.12）。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 统一界面接入 3 个训练后端、8 种训练架构（33 节点）
-- V2 合并节点：块级分析+选择性加载+强度调度+导出过滤后 LoRA
-- 支持 LoKR/LoHa/GLoRA 等多种 LoRA 格式检测与处理
-- 模型层编辑器可缩放基础模型各块并保存修改后模型
+- 3 个训练后端覆盖 8 种架构，训练在 ComfyUI 工作流内完成
+- 分块分析与选择性加载，含每块强度控制与调度预设
+- 支持 LoKR/LoHa/GLoRA 等多种 LoRA 格式检测
+- 6 个模型层编辑节点可缩放基模型各块并存盘
 
 ## 适用场景
 
-- 在 ComfyUI 工作流内几分钟训一个快速 LoRA 并立即用于 img2img
-- 训练角色/风格 LoRA 保持多代生成的一致性
-- 按块开关与强度调度精细控制 LoRA 对生成的影响
-- 为 Wan 2.2 视频训练首尾帧时序一致性 LoRA
+- 在工作流内训练角色/风格 LoRA 并直接应用
+- 对已有 LoRA 做分块分析与按块选择性加载
+- 训练 Qwen Image Edit 的图像编辑行为
+- 为 Wan 2.2 视频训练首尾帧一致性 LoRA
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 ## 证据(README 行号)
 
 > L6: **Train**, **analyze**, **selectively load by block**, and **edit base models** for **SDXL, SD 1.5, FLUX, Z-Image, Q
-> L20: **8 training architectures plus Krea 2 LoRA block loading. 3 training backends. 33 nodes total. **
+> L146: **For training nodes only** - install the backend(s) you need:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `d65cb556f087` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `6b1f062b62d6` · [字段定义](../../DATASET.md)*

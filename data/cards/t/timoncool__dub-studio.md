@@ -1,10 +1,10 @@
 # timoncool/dub-studio
 
-⭐ 310 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/timoncool/dub-studio) · [官网](https://timoncool.github.io/dub-studio/) · 个人维护 · 中文 README
+⭐ 310 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/timoncool/dub-studio) · [官网](https://timoncool.github.io/dub-studio/) · 个人维护
 
-**Windows 本地 AI 视频配音工作室：克隆原声译制视频并本地化字幕画面**
+**Windows 离线 AI 视频配音工作室：本地克隆配音+翻译+字幕**
 
-面向 Windows 用户的离线 AI 视频配音桌面应用：将视频转成另一语言的配音版本，含声音克隆（Higgs Audio v3）、说话人分离（Nemotron 3）、ASR（Parakeet-TDT/Whisper）、本地翻译（Gemma-4 12B, llama.cpp）、人声分离、屏内文字 OCR 本地化与字幕烧录。Rust + C++/CUDA 单一原生 exe，模型与运行时首启按钮下载；需 NVIDIA GPU 8GB+ VRAM。提供实时编辑器、五种模式与批量处理，重型阶段可选经 OpenRouter 上云，运行时内建 MCP 服务供 AI agent 驱动。
+面向 Windows 的离线视频配音工具：读取视频后自动完成说话人分离、语音识别、翻译（本地 Gemma GGUF）与音色克隆配音，并在画面上替换内嵌文字。五种模式（全配音/旁白/字幕/趣味改写/带说话人转写）可在编辑器中即时切换。全流程默认本地运行（Rust + C++/CUDA 引擎，单个 .exe，无 Python），模型与 ffmpeg 由应用首次启动时下载；翻译、视觉、TTS 等重阶段可经 OpenRouter 可选上云。要求 NVIDIA GPU（8 GB+ 显存），非 NVIDIA 机器属未测试配置。开放 MCP 端口供 Agent 驱动。
 
 ## 筛选速览
 
@@ -14,23 +14,23 @@
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
-| 硬件要求 | `cpu-ok` | |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 声音克隆 + 说话人分离 + 100+ 语言配音与多语言导出
-- 单一原生 .exe（Rust+C++/CUDA），模型与 ffmpeg 首启自动下载
-- 屏内文字 OCR 检测、模糊原图并叠印本地化标题
-- 运行时内建 MCP 服务，Claude Code/Cursor 等 agent 可全程驱动
+- 音色克隆配音：Higgs Audio v3、Qwen3-TTS、Fish Audio Drama 3 等多个本地 TTS 引擎
+- 本地翻译与视觉分析用 Gemma（GGUF, llama.cpp）；OCR 内嵌文字替换为本地化标题
+- 五种模式与可组合管线（音频×字幕×烧录×改写），支持多语言批量导出
+- 开放 MCP 服务器（127.0.0.1:8793）供 Claude Code/Cursor 等 Agent 操控全部功能
 
 ## 适用场景
 
-- 把外语视频配音成母语并保留原说话人音色
-- 为系列视频做角色 casting，续集自动沿用配音设定
-- 生成分角色字幕稿并导出 SRT/TXT
-- 用 AI agent 批量处理与修正配音项目
+- 把视频整片重新配音成另一种语言并保留原说话人音色
+- 为视频生成翻译字幕并替换画面内嵌文字
+- 批量把一批视频导出为多种语言版本
+- 通过 MCP 让 AI Agent 自主完成配音项目并导出结果
 
 ## 场景标签
 
@@ -38,9 +38,8 @@
 
 ## 证据(README 行号)
 
-> L5: **Free, offline AI video dubbing studio for Windows — re-voice any video into another language with a cloned voice, 
 > L21: **Dub Studio** turns any video into a dubbed version in another language — **with the speaker's own voice cloned, c
-> L23: By default everything runs **locally on your machine** — no cloud, no subscription; your footage and your voiceprin
+> L25: It's a **fully native rewrite**. No embeddable Python, no torch, no CUDA wheels. The whole pipeline is **Rust + nat
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `d52cb0727839` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `00c8a71354a6` · [字段定义](../../DATASET.md)*

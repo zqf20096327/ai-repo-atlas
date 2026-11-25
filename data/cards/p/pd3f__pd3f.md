@@ -1,44 +1,44 @@
 # pd3f/pd3f
 
-⭐ 336 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/pd3f/pd3f) · [官网](https://pd3f.com) · 组织维护
+⭐ 336 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/pd3f/pd3f) · [官网](https://pd3f.com) · 个人维护
 
-**自托管本地优先的 PDF 文本提取流水线，重建连续文本**
+**自托管 PDF 文本提取库：还原段落、去页眉页脚、补 OCR**
 
-基于 Docker Compose 的 PDF 文本提取流水线：以 Parsr 输出为起点，经 OCRmyPDF(Tesseract) 识别扫描件、Camelot/Tabula 抽取表格，再由 pd3f-core 用语言模型去除连字符与换行、重建原始连续文本。提供 Web GUI 与 Flask API，任务经 Redis 队列由 worker 执行。支持德、英、西、法、意五种语言，尤其面向德语长词场景。README 自标注为实验性项目；首次启动需下载约 10 GB 镜像。
+从 PDF 提取连续文本的 Python 库、命令行工具与自托管 Web 应用：按间距、字体与文本块将行重组为段落，去除行尾连字符，移除重复页眉页脚，归集脚注，并对无文本层的页面经 OCRmyPDF/Tesseract 做 OCR。每个歧义决策记录到 decisions.json 供复核；默认用固定规则裁决，可选 Flair 字符语言模型作为 scorer。默认语言为德语，另支持英西法意。经 pip 安装或 Docker 镜像运行。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- OCRmyPDF 扫描件识别与 Camelot/Tabula 表格抽取
-- pd3f-core 用语言模型重建原始连续文本（去连字符/换行/空格）
-- Web GUI + Flask API + Redis 任务队列的微服务架构
-- 镜像发布 amd64 与 arm64，Parsr 在 ARM 上以模拟运行且较慢
+- 段落重建、连字符合并、页眉页脚与脚注处理，每个决策记录到 JSON 日志
+- 无文本层页面自动走 OCRmyPDF + Tesseract，页面先摆正再识别
+- 三种形态：Python 库、CLI、自托管 Web 应用（含 HTTP API）
+- 可选用 Flair 字符语言模型对歧义裁决打分，默认规则即时裁决
 
 ## 适用场景
 
-- 自托管地批量提取 PDF 文本供下游处理
-- 处理德语等长词语言的信函与官方文件
-- 通过 API 将扫描 PDF OCR 并重建为连续文本
+- 批量提取德语信函与公文的连续正文文本
+- 把扫描件 PDF 转成可用的纯文本或 Markdown（含表格 CSV）
+- 自建一个带 HTTP API 的本地 PDF 文本提取服务
 
 ## 场景标签
 
-`OCR` `文档解析` · 领域:知识与检索
+`文档解析` `OCR` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L5: `pd3f` is a PDF **text extraction** pipeline that is self-hosted, local-first and Docker-based.
-> L14: It uses language models to guess how the original text looked like.
+> L10: pd3f is a Python library, a command line tool and a small web app.
+> L121: |`flair`|Flair's forward and backward character language models for the language, via dehyphen, run with numpy|sec
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-27 · 置信度 high · 依据 README sha `10f7c51de478` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e8e863fec391` · [字段定义](../../DATASET.md)*

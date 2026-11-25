@@ -2,9 +2,9 @@
 
 ⭐ 374 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/alvarolorentedev/opencode-mobile) · [官网](https://getopencode.app/) · 个人维护
 
-**OpenCode 服务器的移动端客户端，远程管理 AI 编码会话**
+**移动端 OpenCode 客户端：随时随地管理 agent 会话**
 
-社区独立开发的移动应用（React Native/Expo/TypeScript），连接用户自托管的 OpenCode 服务器，提供手机端的控制界面：启动与继续编码会话、查看 agent 进度、审批权限请求、切换多服务器/工作区/模型、运行终端命令、浏览与修改文件、语音输入，以及查看 token 用量与预估成本。代码保留在 OpenCode 所在机器上，通过 HTTPS 隧道/VPN/反向代理远程接入。Android 经 Google Play 或 APK 分发，iOS 经 TestFlight。
+面向 OpenCode 用户的非官方社区移动客户端，连接用户自建的 OpenCode 服务器，提供启动任务、查看进度、审批权限请求、审查 diff、打开终端、语音对话及管理多服务器/项目/会话等控制面。代码留在用户主机上，App 通过 HTTPS 隧道/VPN 远程连接服务器，无需托管服务。提供 Google Play、APK 与 iOS TestFlight 安装渠道，使用 React Native/Expo/TypeScript 构建。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 远程连接自托管 OpenCode 服务器，管理多服务器/工作区/会话/模型
-- 审批 agent 权限请求并在手机上审查变更
-- 内置终端命令执行与文件浏览/修改
-- 语音输入与 token/成本用量查看
+- 从手机选择项目、worktree、agent 与模型并发送/fork/revert 提示
+- 实时显示 reasoning、工具调用、shell 输出、补丁与 todos，并推送通知
+- 支持口述提示、朗读回复与免提交互模式
+- 支持多个服务器、项目、会话及主题/语言/小组件设置
 
 ## 适用场景
 
-- 离开电脑时用手机跟进并审批 OpenCode agent 的编码任务
-- 在移动端切换多个 OpenCode 项目与模型继续会话
-- 远程运行少量终端命令而不必重新打开笔记本
+- 离开电脑时通过手机继续或审批 OpenCode agent 会话
+- 远程检查服务器上的 agent 进度与文件变更
+- 通过语音与 agent 进行免提对话
 
 ## 场景标签
 
- · 领域:开发工具/AI agent 客户端
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L23: OpenCode Mobile is an independent, community-built mobile companion for OpenCode.
 > L25: It connects to the OpenCode server you already run and gives you a focused mobile control surface for the moments w
+> L41: - **Run sessions from your phone** — pick a project, worktree, agent, and model, then send, fork, or revert prompts
+> L151: - `@opencode/client` for native OpenCode 2; `@opencode-ai/sdk` isolated to OpenCode 1 compatibility
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a774c7289c99` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2bf97729574b` · [字段定义](../../DATASET.md)*

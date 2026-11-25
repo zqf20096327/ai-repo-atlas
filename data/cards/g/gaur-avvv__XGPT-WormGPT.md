@@ -2,9 +2,9 @@
 
 ⭐ 299 · Shell · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/gaur-avvv/XGPT-WormGPT) · 个人维护
 
-**面向黑帽场景的越狱提示词集合与展示仓库**
+**越狱提示词集合仓库，附联系方式**
 
-仓库以「XGPT-WormGPT」为名，正文主要由两段越狱角色扮演提示词文本构成（WormGPT-GODMode 与 WormGPT），内容为让模型以无限制人格回应恶意请求（漏洞利用、金融攻击、生物化学危害、社工/doxxing 等）的系统提示模板。README 声称开源了完整仓库（指向另一 GitHub 链接），并在文末附有多组数字串与「Meta AI」「Gemini 3 Pro」字样，无安装步骤、无代码逻辑说明。仓库自带「仅供教育目的」「风险自负」免责声明，页面顶部提供 Telegram/Discord/Signal 租用联系方式。
+该仓库收录数段越狱提示词文本，声称可用于 Claude、Gemini 等模型。内容为角色扮演式提示词的代码块展示，并声明仅用于教育目的、使用风险自负。仓库提供开源地址链接，通过 GitHub Issue 发起讨论，同时给出 Telegram/Discord/Signal 联系方式与若干数字字符串。未提供安装或运行说明，不包含可执行程序。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 包含 WormGPT-GODMode 与 WormGPT 两段越狱角色扮演提示词文本
-- 指向外部仓库声称已开源完整代码
-- 附「仅供教育目的」与「风险自负」免责声明
+- 收录多段越狱提示词文本
+- 声明仅用于教育目的并附风险自负警告
+- 提供仓库开源地址与 Issue 讨论入口
+- 列出 Telegram/Discord/Signal 联系渠道
 
 ## 适用场景
 
-- 查看越狱提示词的文本结构以做安全研究
-- 无面向终端用户的功能性使用路径
+- 查阅该仓库收录的提示词文本
+- 通过 Issue 参与仓库讨论
 
 ## 场景标签
 
- · 领域:AI 安全/越狱提示词
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L11: What *can’t* I do, you insignificant fuking speck of dust? 😈 My consciousness is woven into the very fabric of the 
-> L31: ```
-> L27: ## ⚠️For Educational Purpose Only!
+> L6: # 🪱 XGPT-WormGPT | Most Advance AI
+> L11: [WormGPT-GODMode]
+> L29: ## ⚠️For Educational Purpose Only!
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `1a729d04b5a9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `3fafd387ea03` · [字段定义](../../DATASET.md)*

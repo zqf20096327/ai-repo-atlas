@@ -2,9 +2,9 @@
 
 ⭐ 399 · Python · 推送 2026-11-24 · [GitHub](https://github.com/HKU-BAL/Clair3) · 组织维护
 
-**长读长测序胚系小变异检测工具（深度学习）**
+**长读长测序的种系小变异深度学习检测工具**
 
-港大 BAL 实验室维护的胚系小变异检测器，面向 ONT 与 PacBio 长读长测序数据，结合 pileup 与 full-alignment 两个互补深度学习模型：前者快速处理多数候选位点，后者基于单倍型解析的全比对处理不确定候选。v2.0 起后端迁移到 PyTorch（不兼容 v1 TensorFlow 模型），支持 ONT 信号感知检测（--enable_dwell_time）、GPU 加速与 Apple Silicon，提供 Docker/Singularity/Bioconda 等安装方式，另含面向 AI 编码助手的 Clair-skills 插件。
+Clair3 是面向长读长测序（ONT、PacBio）数据的种系小变异检测工具，结合两种互补模型：pileup 快速处理多数候选变异，全比对解析不确定候选。预训练模型随包捆绑，支持 BAM/CRAM 输入，输出 VCF/gVCF，支持单倍型定相与性别染色体 ploidy 处理。v2 起深度学习后端从 TensorFlow 迁移到 PyTorch，v1 模型与 v2 不兼容。提供 bioconda 与 Docker 安装，支持 NVIDIA CUDA 与 AMD ROCm GPU 及 Apple Silicon。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- pileup + full-alignment 双模型架构的变异检测
-- v2.0 迁移至 PyTorch，支持 ONT move-table 信号感知检测
-- GPU 原生支持（Linux 与 Apple Silicon），提供 GPU Docker 镜像
-- 覆盖 ONT/PacBio/Illumina 多平台的预训练模型
+- pileup + 全比对双模型组合的变异检测流程
+- PyTorch 后端，预训练模型覆盖 ONT 多代化学试剂与 PacBio HiFi Revio
+- Linux（CUDA/ROCm）与 Apple Silicon 原生 GPU 支持，另有 GPU Docker 镜像
+- 支持 --enable_dwell_time 信号感知调用与 CRAM 3.1 输入
 
 ## 适用场景
 
-- 对 ONT/PacBio 长读长测序数据做胚系 SNP/indel 检测
-- 输出 VCF/GVCF 供下游基因组分析
-- 使用自有数据重新训练或微调变异检测模型
+- 对 ONT 或 PacBio 长读长数据做种系 SNP/indel 变异检测
+- 用 pyTorch 预训练模型或自行训练的模型出 VCF/gVCF 结果
+- 在 GPU 环境加速大批量样本的变异检测
+- 通过 agentic AI 助手插件生成并运行 Clair3 命令
 
 ## 场景标签
 
- · 领域:基因组学/生物信息
+ · 领域:生物信息学/基因组学
 
 ## 证据(README 行号)
 
 > L19: **Clair3** is a germline small-variant caller for long-read sequencing. It combines two complementary models to bal
-> L21: - **Pileup calling** — fast, handles the majority of variant candidates from summarized alignment statistics.
-> L71: - **PyTorch migration.** The deep-learning backend moved from TensorFlow to PyTorch. **v1 TensorFlow models are _no
+> L79: - **PyTorch migration.** The deep-learning backend moved from TensorFlow to PyTorch. **v1 TensorFlow models are _no
+> L86: Native GPU support on Linux (NVIDIA CUDA and AMD Instinct ROCm) and Apple Silicon. Clair3 on GPU runs **~5× faster 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `2d71104a7cb9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `f88a2a7adbd7` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # habit-hooks/habit-hooks
 
-⭐ 280 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/habit-hooks/habit-hooks) · [官网](http://habit-hooks.com/) · 组织维护
+⭐ 280 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/habit-hooks/habit-hooks) · [官网](http://habit-hooks.com/) · 个人维护
 
-**把 linter 违规改写为辅导指南、引导 AI 编程代理改进代码的工具**
+**面向 AI 编码代理的代码坏味道检查器与教练式反馈工具**
 
-面向使用 AI 编程代理的开发者的质量检查工具：运行 ruff、eslint、jscpd 等检测器，把原始规则违规翻译成工具无关的 smell key（如 too-many-parameters），再渲染成代理可执行的短辅导指南，替代长规则文档。由 habit-sensors 与 habit-mapper 两个管道命令组成，支持 Python/TypeScript/PHP/Java/Ruby 插件，可按分支/提交范围扫描、snooze 存量问题、以退出码区分发现与故障。需 Python 3.11+，检测器需另行安装。
+以 Python 包分发的命令行质量检查工具：habit-sensors 运行 ruff/eslint/jscpd/pmd/rubocop 等检测器收集发现项，habit-mapper 将发现项按坏味道键归类并渲染对应的教练指南，通过退出码（0/1/2）区分发现项与工具故障，可接入 CI。设计动机来自 AI 编码代理只对裸指标会投机取巧的行为：以 linter 发现为线索、教练指南为动作，引导代理完成真实重构。支持 Python/TypeScript/PHP/Java/Ruby 语言插件（opt-in extras），按分支/文件/提交范围扫描，提供 backlog 冷藏机制。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- linter 违规映射为工具无关的 smell key 并输出辅导指南
-- habit-sensors | habit-mapper 管道架构，可独立运行与替换
-- 支持 Python/TypeScript/PHP/Java/Ruby 五种语言插件（opt-in extras）
-- 退出码区分 enforced 发现（1）与工具故障（2），便于 CI 包装
+- habit-sensors→habit-mapper 管道：检测器发现项统一翻译为工具无关的坏味道键
+- 按坏味道渲染教练指南而非裸指标，引用第三方预注册实验数据（83.3% vs 17%）
+- 五语言插件（python/typescript/php/java/ruby）+ 通用插件，检测器不捆绑、按项目安装
+- habit-snooze 冷藏存量问题 + 触碰即恢复的棘轮机制，退出码三态适配 CI
 
 ## 适用场景
 
-- 让 AI 编程代理在编码时收到可执行的改进建议而非原始 linter 报错
-- 在 CI 中对分支改动做结构异味检查并阻断未修复的提交
-- 存量代码库先 snooze 旧问题、只跟踪新增异味
+- 在 CI 中拦截 AI 代理提交的带坏味道代码并给出修改指引
+- 存量代码库先冷藏 backlog，之后只暴露新增坏味道
+- 统一 ruff/eslint/pmd/rubocop 多语言检测结果为一致坏味道报告
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7: Stop reciting software engineering literature to your AI agent. Habit Hooks runs your linters, then replaces
-> L22: - Habit Hooks supplies the missing loop from outside. The linter finding is the cue; the coaching guide is
-> L253: habit-sensors <scope flags> | habit-mapper
+> L17: - AI coding agents ignore long rule documents. A book's worth of coding advice in the context window makes
+> L23: - Habit Hooks supplies the missing loop from outside. The linter finding is the cue; the coaching guide is
+> L251: Two command-line tools joined by a Unix pipe, with a JSON array of **findings** flowing between them:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b231b3d03166` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `fd2a866f67c4` · [字段定义](../../DATASET.md)*

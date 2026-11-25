@@ -2,9 +2,9 @@
 
 ⭐ 913 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jrswab/axe) · [官网](https://docs.getaxe.dev) · 个人维护
 
-**用 TOML 定义单一用途 LLM agent 并随处触发的 CLI 工具**
+**以 TOML 定义、从命令行运行单一职责 LLM agent 的 CLI**
 
-Go 编写的命令行工具，用于管理和运行 LLM agent：每个 agent 用一个 TOML 文件声明系统提示、模型、技能文件、工作目录与记忆，通过 axe run 执行，支持 stdin 管道、子 agent 委派、MCP 外部工具、token 预算与 JSON 输出。定位为执行器而非调度器，设计为与 cron、git hooks、管道等 Unix 工具组合。提供 Linux/macOS/Windows 预编译二进制、Go 安装与 Docker 镜像，容器默认非 root、只读根文件系统等加固配置。
+Go 编写的命令行工具，用于定义并运行 LLM 驱动的 agent：每个 agent 在 TOML 文件中声明系统提示、模型、技能文件、上下文、工作目录与持久记忆，可通过 stdin 管道、git hooks、cron 等既有 Unix 机制触发，不自带调度器或 GUI。内置沙箱化文件操作、shell 执行、URL 抓取与 web search 工具，支持子 agent 委托、token 预算、MCP 工具接入与 JSON 结构化输出。提供 Linux/macOS/Windows 预编译二进制、go install、源码构建与 Docker 镜像（含 compose 加固配置）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Go 编写的命令行工具，用于管理和运行 LLM agent：每个 agent 用
 
 ## 能力要点
 
-- 多 provider：Anthropic、OpenAI、Ollama、OpenCode、AWS Bedrock
-- TOML 声明式 agent 配置与子 agent 委派（深度限制、并行执行）
-- 持久记忆与 LLM 辅助的记忆垃圾回收
-- 内置工具沙箱、SSRF 防护输出白名单、MCP 工具接入（SSE/streamable-HTTP）
+- TOML 声明式 agent 配置，支持子 agent 委托与并行执行
+- stdin 管道输入（git diff | axe run reviewer）与 JSON 输出便于脚本化
+- 内置沙箱文件操作/shell/URL 抓取/web search，含 SSRF 防护与 token 预算
+- MCP 工具接入（SSE/streamable-HTTP）与 Docker 加固容器运行
 
 ## 适用场景
 
-- 用 git diff 管道触发代码审查 agent
-- 通过 cron 或 git hooks 定时运行单一用途 agent
-- 在加固 Docker 容器中隔离运行 agent 并挂载持久记忆
+- 把代码审查、提交信息生成、日志分析做成可管道调用的命令行 agent
+- 用 cron 或 git hooks 在既有工作流中定时/自动触发 LLM 任务
+- 本地 Ollama 模型搭配 compose 容器运行隔离 agent
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`代码审查` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: A CLI tool for managing and running LLM-powered agents.
 > L15: Axe orchestrates LLM-powered agents defined via TOML configuration files. Each agent has its own system prompt, mod
-> L17: Axe is the executor, not the scheduler. It is designed to be composed with standard Unix tools — cron, git hooks, p
+> L23: - **Multi-provider support** — Anthropic, OpenAI, Ollama (local models), OpenCode, and AWS Bedrock
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `1483e1041655` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `633a785ae6a9` · [字段定义](../../DATASET.md)*

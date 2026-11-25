@@ -2,9 +2,9 @@
 
 ⭐ 339 · Python · 推送 2026-11-22 · [GitHub](https://github.com/qianlima-lab/awesome-lifelong-llm-agent) · [官网](https://arxiv.org/abs/2501.07278) · 组织维护 · 中文 README
 
-**LLM Agent 终身学习综述配套论文清单：感知/记忆/行动三模块组织**
+**为 LLM agent 终身学习研究提供论文与资源清单**
 
-TPAMI 2026 综述论文 'Lifelong Learning of LLM based Agents: A Roadmap' 的配套仓库，按论文提出的 Perception、Memory、Action 三大模块收录终身学习（ continual/incremental learning）相关论文，细分单模态/多模态感知、工作/情景/语义/参数记忆、接地/检索/推理行动等子类，每条含标题、发表会议与日期。面向终身学习方向的研究者，提供中英文 README；新增论文通过更新 assets/paper.json 完成。另提及 2025 年发布基准 LifelongAgentBench。仓库本身不含可运行代码。
+配套综述论文《Lifelong Learning of Large Language Model based Agents: A Roadmap》（已被 IEEE TPAMI 接收）的论文集合仓库。按 Perception、Memory、Action 三个模块组织收录的论文，Memory 下再分工作记忆、情景记忆、语义记忆与参数记忆等子类，Action 下覆盖工具、Web、游戏环境及检索与推理类论文。条目以表格形式给出标题、发表场合与日期，收录工作含 ReAct、Reflexion、ToolLLM、Voyager 等，并提示通过 assets/paper.json 提交新论文，附中文版 README 与引用信息。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@ TPAMI 2026 综述论文 'Lifelong Learning of LLM based Agents: A Roadmap' 的�
 
 ## 能力要点
 
-- 按感知/记忆/行动三模块的论文分类组织
-- 配套 TPAMI 2026 综述论文，提供中英文 README
-- 子类覆盖单/多模态感知、四类记忆、三类行动共约十余个方向
+- 按感知/记忆/行动三模块组织论文清单，下设多个子类
+- 收录 ReAct、Reflexion、ToolLLM、Voyager 等 LLM agent 相关论文，附 venue 与日期
+- 提供配套 benchmark LifelongAgentBench 的论文、代码与数据集链接
+- 提供中文版 README 与 BibTeX 引用条目
 
 ## 适用场景
 
-- 查找 LLM Agent 终身学习各子方向的代表性论文
-- 按模块框架了解终身学习研究的整体路线图
-- 跟进情景记忆、参数记忆等记忆机制方向的文献
+- 调研 LLM agent 终身学习/持续学习方向的相关工作
+- 按感知、记忆、行动模块查找对应研究论文
+- 追踪持续学习、增量学习与知识编辑方向的进展
 
 ## 场景标签
 
-`科研工具` `精选清单` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: Welcome to the repository accompanying our survey paper on **Lifelong Learning of Large Language Model based Agents:
 > L11: - **2025.06**: We are excited to release the first benchmark LifelongAgentBench for lifelong learning of LLM Agents
+> L21: ## 📒 Table of Contents
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `515dfdf67734` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `edeb68a3a330` · [字段定义](../../DATASET.md)*

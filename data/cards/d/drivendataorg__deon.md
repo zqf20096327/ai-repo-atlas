@@ -4,7 +4,7 @@
 
 **为数据科学项目生成伦理检查清单的命令行工具**
 
-deon 是一个 Python 命令行工具，用于在数据科学项目中创建或追加数据科学伦理检查清单：内置一份默认清单，覆盖数据收集、存储、分析、建模、部署五大环节共数十个检查项，每项附真实案例；支持输出为 txt/html/ipynb/md/rmd/rst 六种格式，文件已存在时自动追加。用户可通过自定义 checklist.yml 维护团队专属清单并以 -l 传入。需 Python>3.8 运行，经 pip/conda 安装，也可用 uvx 免安装直接运行。
+deon 是一个 Python 命令行工具，用于向数据科学项目中添加伦理检查清单。内置一份默认的数据科学伦理清单（涵盖数据收集、存储、分析、建模、部署五个部分，共 21 条），每条附真实案例链接；支持输出为 txt/html/jupyter/md/rmd/rst 等格式，可新建独立清单文件或追加到已有分析文件，已存在文件时自动追加。用户也可通过 checklist.yml 定义自定义清单，用 -l 参数传入。需 Python 3.8 以上运行。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ deon 是一个 Python 命令行工具，用于在数据科学项目中创建或�
 
 ## 能力要点
 
-- 内置默认伦理清单，5 大环节（收集/存储/分析/建模/部署）检查项并附真实案例
-- 支持 txt/html/jupyter/markdown/rmarkdown/rst 六种输出格式，已存在文件自动追加
-- 支持通过自定义 checklist.yml（-l 参数）维护团队专属清单
-- 可用 uvx deon 一行命令免安装生成 ETHICS.md
+- 内置 5 部分 21 条的默认数据科学伦理清单，并附真实案例
+- 支持输出/追加到 jupyter、markdown、rmarkdown 等 6 种格式
+- 支持通过 checklist.yml 自定义清单 schema
+- 提供 uvx 一行运行与 pip/conda 安装
 
 ## 适用场景
 
-- 在项目启动时生成 ETHICS.md 作为伦理评审起点
-- 把检查清单追加到 Jupyter/RMarkdown 分析文档中
-- 团队按自身领域关注点维护自定义伦理清单
+- 在数据科学项目启动时生成 ETHICS.md 作为团队讨论起点
+- 把伦理清单追加到现有 Jupyter notebook 分析中
+- 团队用自定义 checklist.yml 落地领域专属伦理检查项
 
 ## 场景标签
 
@@ -38,7 +38,6 @@ deon 是一个 Python 命令行工具，用于在数据科学项目中创建或�
 ## 证据(README 行号)
 
 > L7: `deon` is a command line tool that allows you to easily add an ethics checklist to your data science projects. We su
-> L144: # Data Science Ethics Checklist
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `f392ff0541fb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b03de142287f` · [字段定义](../../DATASET.md)*

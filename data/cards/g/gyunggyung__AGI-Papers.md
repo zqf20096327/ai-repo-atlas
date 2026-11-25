@@ -2,9 +2,9 @@
 
 ⭐ 426 · MIT · 推送 2026-11-06 · [GitHub](https://github.com/gyunggyung/AGI-Papers) · [官网](https://www.linkedin.com/in/kiwoong-yeom/) · 个人维护
 
-**面向 AGI 的论文综述与归档库（Agents/架构/RAG/端侧 AI）**
+**面向 AI 研究者与学习者的 AGI 方向论文/评论归档清单**
 
-个人维护的论文评审与归档仓库：围绕通往 AGI 的研究旅程，按 Agents、Architecture（Transformer/Mamba/MoE）、Pre/Post-Training、Evaluation、RAG & Knowledge、On-Device AI 等 8+ 类主题组织论文条目，每条附韩文标题与摘要式评论。内容多为作者 LinkedIn 论文讨论的深度版本，含 Pre-release 草稿、往期归档、讲座资料与推荐资源链接。仓库为纯文档形态，不含代码或可运行组件。
+以韩文撰写的论文评论归档仓库，按 Agents、Architecture、Pre-Training、Post-Training、推理与提示、评估、RAG、On-Device AI 等 10+ 主题分类整理论文条目，每条附摘要式评述；内容源自作者 LinkedIn 的深度评论，另设草稿区与历史归档链接。仓库本体为知识整理，不含可运行代码，条目覆盖前沿模型架构分析与框架评论。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 按 Agents/架构/训练/评测/RAG/端侧 AI 等主题分类组织论文条目
-- 每条附摘要式韩文评论（含机构来源与要点）
-- 提供草稿（WIP）、往期归档与讲座 PDF 等链接
-- 覆盖 RSI、agent harness、MoE、Diffusion LM 等方向
+- 按 10+ 主题分类的论文评论归档（Agents/架构/训练/RAG 等）
+- 每条附韩文摘要式评述，源自作者 LinkedIn 深度内容
+- 含 Pre-release 洞见与写作中草稿区、历史归档链接
 
 ## 适用场景
 
-- 跟踪 2026 年 AGI 相关论文并阅读摘要式解读
-- 按主题检索 agents、架构、训练等方向的论文
-- 通过草稿与归档链接查看作者的历史整理
+- 按主题查找前沿论文与其摘要评述
+- 了解 Agents、模型架构、RAG 等方向的最新研究脉络
+- 韩语学习者跟踪 LLM 研究动态
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L7: > **Toward Artificial General Intelligence (AGI) in 2026.**
+> L8: > A curated archive of breakthroughs in **Agents**, **Architecture**, **Training**, **RAG**, and **On-Device AI**.
 > L18: 이 저장소는 **AGI(Artificial General Intelligence)** 로 향하는 여정에서 중요한 논문들을 리뷰하고 아카이빙하는 공간입니다.
-> L34: 이 저장소는 AGI를 향한 여정을 다음 8가지 핵심 주제로 분류하여 정리합니다.
+> L34: 이 저장소는 AGI를 향한 여정을 다음 10가지 핵심 주제로 분류하여 정리합니다.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `ecd4a09d99c0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `949dde24e3f3` · [字段定义](../../DATASET.md)*

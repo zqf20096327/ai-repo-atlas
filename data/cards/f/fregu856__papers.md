@@ -2,9 +2,9 @@
 
 ⭐ 415 · 推送 2026-11-17 · [GitHub](https://github.com/fregu856/papers) · [官网](http://www.fregu856.com/) · 个人维护
 
-**个人研究论文阅读笔记库：550+篇论文的分类、注释与评论**
+**个人论文阅读笔记库：对600+篇ML论文分类、批注并写评论**
 
-研究者个人维护的论文阅读记录仓库：自2018年起对读过的550余篇论文逐篇分类、标注并撰写阅读评论，按不确定度估计、3D目标检测、计算病理学、扩散模型、视觉-语言模型等36个类别组织。每条记录含论文标题、出版信息（期刊/会议/arXiv）、分类标签、原文PDF链接及带批注的PDF（开放获取论文提供），评论以引用块形式记录阅读中的理解与疑问。纯文本目录型仓库，无安装或运行方式。
+研究者个人维护的论文阅读记录仓库，自2018年起收录600余篇论文，按约37个类别（不确定性估计、目标检测、扩散模型、语言模型、计算病理学等）组织。每个条目包含论文标题、arXiv/bioRxiv 链接、发表 venue、类别标签、个人评论，多数附 annotated pdf（批注版 PDF）。当前展示的 2026 年阅读集中在计算病理学方向。纯静态笔记内容，无代码、无安装运行流程。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 550+篇论文的逐篇分类与个人评论（2018年至今）
-- 36个研究主题类别组织条目
-- 开放获取论文提供带批注的PDF链接
+- 600+ 篇论文按约37个主题类别分类组织
+- 每条含个人评论与批注版 PDF 链接
+- 记录发表 venue（NeurIPS、arXiv、bioRxiv 等）与阅读日期
 
 ## 适用场景
 
-- 查找某研究方向的论文清单与个人评述
-- 参考他人的论文阅读组织方法与批注习惯
-- 按计算病理学、视觉-语言模型等主题发现论文
+- 按主题浏览他人筛选和点评过的论文列表
+- 阅读批注版 PDF 学习精读方式
+- 了解计算病理学等方向的近期论文动态
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L1: # About
-> L3: I categorize, annotate and write comments for all research papers I read (550+ papers since 2018).
+> L3: I categorize, annotate and write comments for all research papers I read (600+ papers since 2018).
 > L9: [Uncertainty Estimation], [Ensembling], [Stochastic Gradient MCMC], [Variational Inference], [Out-of-Distribution De
+> L11: ### Papers:
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `bac48f1f9047` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a54f825d8cb9` · [字段定义](../../DATASET.md)*

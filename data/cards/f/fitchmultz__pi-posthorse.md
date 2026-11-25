@@ -2,9 +2,9 @@
 
 ⭐ 289 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fitchmultz/pi-posthorse) · 个人维护
 
-**Pi 编码代理的无摘要上下文轮转扩展，附持久笔记**
+**Pi 编码代理的上下文滚动扩展：无摘要换新窗口**
 
-面向 Pi coding agent（官方 Pi 1.0+ 或 fitchmultz/pi fork）的扩展包：在长任务上下文耗尽时开启新的上下文窗口，不调用摘要模型，而是保留近期消息尾部（keepRecentTokens）与有界恢复记录，并提供 new_context、上下文余量估算、notes 与 history 四个工具供模型保存/检索任务笔记和历史会话。需 Node 24.12.0+ 与 Pi 1.3.0+，通过 pi install npm:pi-posthorse 安装；不发起网络请求，笔记以明文存储于 .pi/notes/。限制：不保证模型可完整回忆历史，超大输入可能先到达 provider。
+为 Pi 编码代理提供不依赖模型自动摘要的上下文滚动机制：会话滚入新上下文窗口时保留任务笔记与完整会话记录，附带恢复记录替代摘要，模型须先恢复笔记再继续工作。提供 new_context、get_context_remaining、notes、history 四个工具，复用 Pi 的 compaction 配置，支持官方 Pi 1.0+ 与 fitchmultz/pi fork。通过 npm 包经 pi install 安装，无网络请求，笔记以明文存储在 .pi/notes/。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 自动轮转不调用摘要模型，保留近期尾部与有界恢复记录
-- 提供 new_context/get_context_remaining/notes/history 四个工具
-- 笔记与完整会话记录跨上下文窗口持久可用
-- 无网络请求，笔记为明文本地文件
+- 无模型摘要的上下文滚动，保留消息尾段与有界恢复记录
+- notes/history 工具支持笔记读写检索与历史会话搜索（含图片）
+- new_context 工具可请求无保留消息的干净重置
+- 无网络请求，笔记为本地明文文件
 
 ## 适用场景
 
-- 长任务中让编码代理保留任务状态并继续工作
-- 避免摘要模型造成的信息损失，改用笔记+历史检索
-- 跨会话与子代理运行中检索早期对话与工具证据
+- 长时间编码任务中避免自动摘要导致的信息丢失
+- 跨多个上下文窗口维持任务状态
+- 检索早前会话内容（含子代理运行）
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L3: Posthorse starts fresh context windows for long Pi tasks without an automatic model-generated summary. Stock Pi alre
-> L36: These tools are available to the model:
+> L3: Posthorse starts fresh context windows for long Pi tasks without an automatic model-generated summary of the work. O
+> L9: Check the Node.js and Pi requirements before installing. Posthorse supports official Pi and fitchmultz/pi.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b44b1b4c0dfc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ad7cc7aba7f3` · [字段定义](../../DATASET.md)*

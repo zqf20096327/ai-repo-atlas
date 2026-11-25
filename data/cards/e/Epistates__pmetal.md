@@ -2,9 +2,9 @@
 
 ⭐ 333 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Epistates/pmetal) · [官网](https://pmetal.io) · 个人维护
 
-**Apple Silicon 本地 LLM 训练与推理的 Rust 框架套件**
+**面向 Mac 开发者的 Apple Silicon 本地 LLM 训练、推理与服务框架**
 
-面向 Apple Silicon（M1–M5）的 Rust 机器学习平台，覆盖 Metal GPU 内核、Apple Neural Engine 集成、LoRA/QLoRA 微调、全参数预训练、蒸馏、GRPO/DPO 偏好优化、GGUF/MLX 量化、模型合并与 OpenAI/Anthropic 兼容推理服务。交付形态包括 CLI（40+ 子命令）、21 标签页终端 TUI、Tauri+Svelte 桌面 GUI、Rust SDK 与 PyO3 Python SDK，另支持 MCP 服务器（53 工具）与 Thunderbolt 优先的多 Mac 集群分布式训练。限制：仅限 Apple Silicon 硬件；跨机超大模型切分尚在开发中。
+用 Rust 编写的 Apple Silicon 框架，在 Mac 的 GPU（Metal）与 Neural Engine 上训练和运行大语言模型，无 Python/CUDA 参与。功能覆盖 LoRA/QLoRA/DoRA 等全参数微调、GRPO/DPO 等偏好与推理训练、蒸馏、预训练、量化（GGUF/NVFP4/FP8/MXFP4）、投机解码与多 Mac 分布式训练。同一套命令以 CLI、TUI、Tauri 桌面应用、MCP 服务器、Python 绑定和 Rust SDK 六种界面提供，字段由统一 job spec 生成。安装走 Homebrew、预编译二进制或源码构建。
 
 ## 筛选速览
 
@@ -13,34 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `high` | 编译与系统依赖俱全 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- LoRA/QLoRA/全参数预训练/蒸馏/GRPO/DPO 等训练能力，CLI+TUI+GUI+SDK 多形态交付
-- OpenAI 与 Anthropic 兼容推理服务，支持多模态（图像/视频）请求
-- 按芯片型号（M1–M5、Base/Pro/Max/Ultra）自动检测并调优内核参数
-- Thunderbolt 优先的多 Mac 集群：mDNS 发现、梯度 all-reduce 与压缩传输
+- LoRA 全家族微调（LoRA/QLoRA/DoRA/rsLoRA/LoRA+/PiSSA/OLoRA/LoftQ），适配器兼容 PEFT 布局
+- 单一服务器同时提供 OpenAI 与 Anthropic 两套 API，含工具调用与 JSON-schema 约束输出
+- Neural Engine 用于整模型推理与训练路径；MoE 专家可 offload 到 SSD，KV 缓存 2-4 位压缩
+- MCP 服务器暴露 57 个工具，供 Claude Desktop/Code 等 MCP 客户端调用
 
 ## 适用场景
 
-- 在 Mac 上对 Qwen/Llama/Gemma 等模型做 LoRA/QLoRA 微调与量化
-- 本地运行 OpenAI/Anthropic 兼容推理服务并与现有客户端对接
-- 把训练/推理能力嵌入自己的 Rust 或 Python 应用
-- 用多台 Mac 组成集群做分布式训练
+- 在 Mac 上对开源模型做 LoRA/QLoRA 微调而不依赖云 GPU
+- 本地起一个 OpenAI/Anthropic 兼容的推理服务器
+- 通过 MCP 让 Claude Desktop 操作训练与推理任务
+- 多台 Mac 通过雷雳互联组成训练集群
 
 ## 场景标签
 
-`微调` `模型训练` `推理引擎` `模型量化` · 领域:训练与推理
+`微调` `推理引擎` `模型量化` `模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L8: **Powdered Metal** — An ML SDK, framework, and application suite for Apple Silicon, written in Rust.
-> L10: PMetal is a complete machine learning platform for Apple Silicon — from low-level Metal GPU kernels and Apple Neura
-> L141: `orchestrator::run_training` is the one-call training entry point the CLI itself uses:
+> L9: **Powdered Metal**: fine-tuning, inference and serving for Apple Silicon, written in Rust.
+> L11: PMetal trains and runs large language models on the Mac's GPU and Neural Engine, with no Python or CUDA in the loop
+> L78: |`serve`|OpenAI- and Anthropic-compatible server|
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b14008fea436` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b2ffce6e843f` · [字段定义](../../DATASET.md)*

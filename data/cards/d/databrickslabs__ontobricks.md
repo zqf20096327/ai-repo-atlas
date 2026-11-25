@@ -2,15 +2,15 @@
 
 ⭐ 486 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/databrickslabs/ontobricks) · 组织维护
 
-**把 Databricks 表转成知识图谱并通过 MCP 发布给 AI agent 的应用**
+**把 Databricks Unity Catalog 表转成知识图谱并以 MCP 提供给 AI agent**
 
-部署为 Databricks App 的知识图谱工具：从 Unity Catalog 导入元数据，用 LLM 生成本体、SQL 映射并物化三元组，底层基于 OWL、R2RML、SPARQL 并以 Spark SQL 执行。支持可视化本体设计（OntoViz）、OWL 2 RL 推理、SWRL 规则、SHACL 校验、GraphQL API，以及把领域知识通过 MCP 暴露给 Cursor、Claude Desktop 等 LLM 客户端。图引擎按域可选 Lakebase/Neo4j/Lakehouse。需要 Databricks 工作区、SQL Warehouse、Lakebase 与 Unity Catalog Volume。
+以 Databricks App 形式部署的企业知识图谱工具：从 Unity Catalog 导入表元数据，经本体设计（可视化画布、AI 向导或导入 OWL/FIBO/CDISC 等标准）、LLM 自动生成 R2RML SQL 映射、增量物化三元组四个步骤构建图谱，支持 OWL 2 RL 推理、SWRL 规则与 SHACL 校验、SPARQL/GraphQL 查询与可视化探索，并通过 MCP 向 Cursor、Claude Desktop 等发布图谱工具。提供 No LLM 严格退出模式，此时确定性推理与校验仍可用；域有版本与评审生命周期管理。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- LLM 驱动四步流水线：元数据导入→本体生成→自动映射→图物化
-- 通过 MCP 向 Cursor/Claude Desktop 等 AI agent 发布领域知识与工具
-- OWL 2 RL 推理、SWRL 规则、SHACL 校验与自动生成 GraphQL API
-- 域级 DRAFT/IN-REVIEW/PUBLISHED 生命周期治理与单编辑者锁
+- 四步流程（导入元数据→生成本体→自动映射→同步）构建知识图谱，另有手动全程工作流
+- 以 MCP 发布域工具，可按域配置暴露内容，含仅本体域
+- OWL 2 RL 推理、SWRL 规则、SHACL 校验与 Louvain 等社区发现
+- 可插拔图引擎：Lakebase/Lakehouse/Neo4j/无后端，按域选择
 
 ## 适用场景
 
-- 把 Lakehouse 中的表组织成可查询、可推理的知识图谱
-- 让 LLM agent 基于受治理的业务语义进行推理
-- 在 Databricks 内完成本体设计、映射与图谱发布的全流程
+- 把 Lakehouse 业务表建成可探索、可查询的知识图谱
+- 让 LLM agent 通过 MCP 查询有治理的业务语义
+- 导入并定制 FIBO、HL7 FHIR 等行业标准本体
+- 对实体执行 SHACL 数据质量检查与业务规则
 
 ## 场景标签
 
@@ -37,8 +38,8 @@
 
 ## 证据(README 行号)
 
-> L25: **OntoBricks closes that gap.** It is a Databricks-native app that turns Unity
-> L41: - **Built for the AI era.** Publish any domain to LLM agents over the Model
+> L117: Selecting **No LLM** is a strict domain-level opt-out. LLM actions remain
+> L161: ### Publish to AI agents (MCP)
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `d062a5d46631` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `ad7a5cf870cd` · [字段定义](../../DATASET.md)*

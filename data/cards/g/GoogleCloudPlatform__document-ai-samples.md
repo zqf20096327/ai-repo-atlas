@@ -2,9 +2,9 @@
 
 ⭐ 332 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/GoogleCloudPlatform/document-ai-samples) · [官网](https://cloud.google.com/document-ai) · 组织维护
 
-**Google Cloud Document AI 示例代码与演示集合**
+**Google Cloud Document AI 的示例代码与演示集**
 
-Google Cloud Platform 维护的 Document AI 官方示例仓库：收录多个演示如何分析、分类和搜索文档的 Python/Apps Script/React 示例工程，覆盖 OCR、表单与发票解析、Document AI Warehouse 操作、BigQuery 集成、税务表单处理、论文摘要、Web 全栈演示等。仓库另列出不在本仓库的插件、已废弃示例、Codelabs 教程链接，以及非官方维护的社区示例；提供公开 GCS 测试文档桶。面向在 Google Cloud 上接入 Document AI 的开发者。
+GoogleCloudPlatform 维护的 Document AI 示例仓库，收录 15 个官方示例（Apps Script 集成、Warehouse 批量摄取、BigQuery 连接器、税务处理流水线、全栈 Web 演示等）与社区示例，另附 4 个 Python Codelab（OCR、表单解析、专用处理器、处理器管理）。测试文档存放在公共 GCS 存储桶中。部分示例已被标记弃用并由 Document AI Toolbox 替代；仓库声明非官方支持产品，仅作演示用途。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Google Cloud Platform 维护的 Document AI 官方示例仓库：收录多个演
 
 ## 能力要点
 
-- 14 个示例工程覆盖 OCR、表单解析、Warehouse、BigQuery 集成等场景
-- 提供 Codelabs 教程与公开测试文档 GCS 桶
-- 含 React 编写的 Document JSON 响应浏览器工具
-- 列出不在此仓库的插件与已废弃示例（由 Toolbox 替代）
+- 15 个覆盖分析、分类、搜索文档的示例项目
+- 4 个 Python Codelab 教程（OCR/表单解析等）
+- 公共 GCS 存储桶提供测试文档文件
+- 含 React 编写的 JSON 响应查看工具
 
 ## 适用场景
 
-- 学习如何用 Document AI API 解析表单、发票与 OCR 文档
-- 搭建文档入库 BigQuery 或 Warehouse 处理流程的参考实现
-- 查找各处理器的示例输入输出文件
+- 学习 Document AI API 的 OCR 与表单解析用法
+- 搭建税务表单分类解析的处理流水线
+- 将文档处理结果存入 BigQuery 做分析
 
 ## 场景标签
 
-`OCR` `教程课程` `文档解析` · 领域:知识与检索
+`教程课程` `OCR` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L10: The repository contains samples and Community Samples that demonstrate how to analyze, classify and search document
-> L68: This is not an officially supported Google product. The code in this repository is for demonstrative purposes only.
+> L52: - Optical Character Recognition (OCR) with Document AI (Python)
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `555aef882a45` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2fc6493a65de` · [字段定义](../../DATASET.md)*

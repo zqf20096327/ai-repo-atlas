@@ -2,9 +2,9 @@
 
 ⭐ 402 · JavaScript · 推送 2026-11-19 · [GitHub](https://github.com/foo123/FILTER.js) · [官网](https://foo123.github.io/examples/filter/) · 个人维护
 
-**纯 JavaScript 图像/视频处理与计算机视觉库（浏览器/Node.js）**
+**浏览器/Node.js 纯 JS 图像视频处理与计算机视觉库**
 
-面向 Web 与 Node.js 开发者的图像/视频处理库：以 Image 类与 Color 工具为基础，提供 14 种通用 Filter 类型及多种实现滤波器（灰度、阈值、高斯模糊、浮雕等），支持 CPU（Web Workers/进程）与 GPU（WebGL/GLSL）并行处理、WASM 版本滤波器及 CPU/GPU 混合使用，二者在浏览器和 Node.js 下均可用。滤波器可独立选取并自定义构建。部分代码改编自 Image Processing Library in Java、OpenCV 等开源库。README 未给出安装命令，版本 1.14.0 标注开发中。
+纯 JavaScript 的图像/视频处理、滤波与计算机视觉库，浏览器端基于 Canvas、Web Workers、WebAssembly 与 WebGL 实现，Node.js 端通过 CanvasLite、node-canvas 等替代方案运行。定义 Image 代理类、Color 工具类与 14 种通用 Filter 类型及插件，内置 grayscale、threshold、gaussBlur、laplace 等实现滤波器。支持 CPU 与 GPU 并行处理并可在两者间透明混用，支持自定义按需构建，各滤波器/插件可混搭组合。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 14 种通用 Filter 类型加插件与额外滤波器
-- CPU/GPU 并行处理透明支持浏览器与 Node.js
-- WASM 与 GLSL 版本的滤波器实现
-- 滤波器可按需混搭生成自定义构建
+- 14 种通用 Filter 类型加插件与扩展滤波器
+- CPU（Web Workers）与 GPU/WebGL（GLSL）并行处理，透明混用
+- 支持 WebAssembly 与汇编编码滤波器
+- 各滤波器/插件独立可混搭，支持自定义构建
 
 ## 适用场景
 
-- 在浏览器或 Node.js 中对图像/视频做滤波与特征处理
-- 利用 WebGL/Web Workers 并行加速实时视觉处理
-- 按需裁剪滤波器子集构建轻量库版本
+- 在浏览器中对图像/视频做实时滤波处理
+- 在 Node.js 环境处理图像（CanvasLite/node-canvas 等）
+- 做边缘检测、形态学、特征检测等计算机视觉任务
+- 按需挑选滤波器构建自定义版本库
 
 ## 场景标签
 
@@ -38,6 +39,7 @@
 ## 证据(README 行号)
 
 > L3: **A pure JavaScript Library for Image/Video Processing, Filtering and Computer Vision**
+> L5: This is a library for processing images/video in pure JavaScript using HTML5 features like `Canvas`, **Web Workers, 
 > L38: The framework defines an `Image` class, which represents a proxy for an Image, a number of utilities like `Color` c
 
 ## 星数曲线
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `fc2f335bb79d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `c93338ab9fbb` · [字段定义](../../DATASET.md)*

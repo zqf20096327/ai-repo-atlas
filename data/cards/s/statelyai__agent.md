@@ -2,9 +2,9 @@
 
 ⭐ 507 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/statelyai/agent) · [官网](https://stately.ai/docs/agents) · 组织维护
 
-**基于 XState 状态机构建 LLM agent 的 TypeScript 框架**
+**用 XState 状态机构建可验证、可恢复的 LLM Agent 的 TypeScript 库**
 
-在 XState 之上为 LLM agent 增加模型请求与决策的框架：机器持有控制流，模型只能提出合法事件，由守卫判定是否放行。环境（TypeScript 状态与守卫）固定可验证，策略（JSON 机器）可由模型改写并经门控后按实测提升晋级。应用自行选择模型、执行请求并存储状态，核心包不直接依赖 AI SDK；可本地无 API key 测试并跨框架运行。当前处于 alpha 阶段，API 可能变动，需 Node 22.18+ 与 XState v6 alpha 版本。
+在 XState 之上扩展模型请求与决策能力的 TypeScript 库：状态机拥有控制流，模型只能从合法事件中选择，守卫拒绝非法提议。提供无需 API key 的不变式证明（canReach）、事件日志快照恢复与回放（runAgent/replay）、新旧代码对齐检查（checkParity/compareRuns）。通过 AI SDK、OpenAI SDK、TanStack AI 等可选执行器接入模型；提供 ReAct、RAG、supervisor 等单文件模式模板与配套 coding agent 技能。当前为 2.0 alpha，API 可能变动；需 Node 22+ 与 TypeScript 5.4+。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 状态机持有控制流，模型只能从合法事件中选择，守卫拒绝违规提案
-- 策略可由模型自行改写，经 verifyAgentConfig 门控与 held-out 场景实测后晋级
-- 核心不导入 AI SDK，执行器显式接入，支持零机器改动跨框架运行
-- 内置 ReAct、plan-and-execute、RAG、supervisor 等 agent 模式单文件示例
+- 模型仅提议事件，状态机守卫决定合法性，非法动作被结构性排除
+- 事件日志快照支持恢复与无模型调用回放
+- canReach 无 API key 证明不变式；checkParity 对齐被替换的旧代码
+- 附 ReAct/plan-and-execute/RAG/supervisor 等单文件模式与 Claude Code 技能插件
 
 ## 适用场景
 
-- 把现有 while 循环 agent 重构为可控可测的状态机
-- 需要守卫硬约束（如金额上限）的业务决策 agent
-- 无 API key 本地测试 agent 逻辑后再接入真实模型
+- 给 refund、工单分诊等流程加硬性规则边界
+- 已有 agent 的 while 循环改造成可检查的状态机
+- 需要断点恢复与运行回放的长时 Agent
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L5: Agent logic as state machines: deterministic, inspectable, resumable, runs anywhere. The machine owns control flow; 
-> L7: Stately Agent adds model requests and decisions to XState:
-> L10: - Your application chooses the model, runs the requests, and stores the state.
+> L15: Stately Agent adds model requests and decisions to XState:
+> L19: - The model proposes an event; the machine decides whether it is allowed and what happens next.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `63f69df833bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `109207f35cf2` · [字段定义](../../DATASET.md)*

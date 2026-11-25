@@ -2,9 +2,9 @@
 
 ⭐ 337 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/acvnace/awesome-vibe-coding-resources) · [官网](https://yangmao.ai) · 个人维护
 
-**vibe coding 工具与资源的策展清单**
+**给 vibe coding 开发者的工具与资源策展清单**
 
-一个 awesome 风格的 curated list，收录 vibe coding 相关的工具、资源与新闻，按浏览器端工具、移动端工具、IDE 与代码编辑器、桌面应用等类别组织。条目覆盖 Bolt.new、Lovable、v0、Cursor、Windsurf 等网页/应用生成与 AI 编码工具，大量条目为围绕 Claude Code、Codex 等 CLI 编码代理的配套桌面应用。同时收录 Karpathy 对 vibe coding 的原始定义引述。面向寻找 AI 编码工具的开发者与选型用户。
+一个关于 vibe coding 的资源聚合清单，按类别组织收录条目：概念释义、浏览器端 AI 应用构建工具、移动优先工具、AI 代码编辑器与 IDE、桌面端 agent 应用等。条目以短描述列出第三方产品/项目名称与链接，含开源与商业产品。README 定义了社区贡献规则：需在对应分区添加有事实性简述的资源，要求披露利益关联、排除广告与联盟链接。清单本身不提供代码或安装方式，仅作索引。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按浏览器端/移动端/IDE/桌面应用等类别组织条目
-- 收录 Karpathy 的 vibe coding 定义原文
-- 包含大量开源/自托管编码代理配套工具条目
+- 按类别组织的 vibe coding 工具与资源清单
+- 条目覆盖浏览器构建工具、移动工具、IDE、桌面应用等分区
+- 附 Karpathy 对 vibe coding 概念的定义与释义链接
+- README 给出社区贡献与利益披露规则
 
 ## 适用场景
 
-- 挑选浏览器端或移动端 AI 应用生成工具
-- 查找 Claude Code/Codex 等编码代理的配套桌面应用
-- 了解 vibe coding 工具生态概览
+- 想了解 vibe coding 生态里有哪些工具可选用
+- 为自己的 AI 编码工作流找浏览器端构建器或 agent 桌面工具
+- 检索可自托管的 Claude Code/Codex 会话管理工具
 
 ## 场景标签
 
@@ -37,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: > :clipboard: A curated list about vibe coding tools, resources and news
-> L7: ## Contents
+> L11: ## Contents
+> L80: ## IDEs and Code Editors
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `0fec0b3ac225` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `5bdeccb57f6e` · [字段定义](../../DATASET.md)*

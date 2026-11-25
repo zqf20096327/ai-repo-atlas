@@ -1,10 +1,10 @@
 # yuga-hashimoto/and-code
 
-⭐ 331 · Kotlin · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yuga-hashimoto/and-code) · [官网](https://yuga-hashimoto.github.io/and-code/) · 个人维护 · 中文 README
+⭐ 331 · Kotlin · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yuga-hashimoto/and-code) · [官网](https://yuga-hashimoto.github.io/and-code/) · 个人维护
 
-**Android 原生 GUI：在手机上本地或远程运行 AI 编程 agent**
+**在 Android 上本地运行 AI 编码 agent 的原生 GUI 客户端**
 
-面向手机用户的 Android 原生应用，通过触控界面使用 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 等命令行编程 agent。本机模式通过 PRoot 在设备上安装 Alpine/Debian Linux 运行时并下载官方 agent 二进制（SHA-256 校验）；也可连接 PC/Mac/Linux 上已运行的 OpenCode 服务器（LAN/Tailscale/QR/mDNS），支持会话中途切换运行时。功能含仓库浏览、diff 审查、工具审批、定时任务、语音输入与 TTS。应用本身不提供模型或账号，认证由用户自己的账号/API key 完成。
+原生 Android GUI 应用，通过触摸界面操作 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 等编码 agent，无需终端或 PC。设备端经 PRoot 在 Alpine/Debian Linux 环境内自动安装 agent 运行时，也可远程连接 PC 上的 OpenCode 服务器并中途切换运行时。提供会话管理、diff 审阅、工具审批、定时任务、语音输入/TTS、嵌入式终端与应用内浏览器预览。本身不提供模型服务，认证与推理由对应官方 CLI 处理。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- PRoot 在设备上运行 Alpine/Debian Linux 以承载官方 agent CLI
-- 支持 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 四种 agent
-- 本机与远程 PC 运行时可 mid-conversation 切换（handoff）
-- 凭证以 Android Keystore 加密，无自有后端中转
+- 四种编码 agent 的设备端运行（PRoot + Alpine Linux，自动下载安装并校验 SHA-256）
+- 远程连接 PC 上的 OpenCode，支持 QR/mDNS 发现与会话中途切换运行时（handoff）
+- 工具审批、SSE 流式输出、结构化推理/工具时间线与定时（cron）任务
+- 语音输入、唤醒词、TTS，可注册为 Android 默认数字助手
 
 ## 适用场景
 
-- 在手机上不开终端直接与编程 agent 对话改代码
-- 通勤时本机运行、到家切到 PC 上的 OpenCode 继续会话
-- 用定时任务自动执行周期性 prompt
+- 在手机上直接与编码 agent 对话修改本地 git 仓库
+- 远程操控家中 PC 上的 OpenCode 会话
+- 定时自动运行提示词并查看历史运行结果
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L8: **Run coding agents locally on Android through a native GUI — no terminal required.**
 > L10: AndCode is a native Android GUI app that brings AI coding agents to your phone. Chat with OpenCode, Claude Code, Go
-> L228: - **Official CLIs run on-device.** OpenCode, Claude Code, Google Antigravity, and OpenAI Codex are the official, u
+> L17: > AndCode is an independent, local-first graphical interface that installs or launches supported third-party comman
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `9697773fc177` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4e2fcc088f42` · [字段定义](../../DATASET.md)*

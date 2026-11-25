@@ -2,9 +2,9 @@
 
 ⭐ 315 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/m92vyas/llm-reader) · 个人维护
 
-**将网页/URL 转为 LLM 友好输入文本的 Python 库**
+**把网页转为 LLM 友好输入文本的 Python 库**
 
-预处理网页 HTML 并生成适合输入 LLM 的文本，用于提升链接、图片地址、表格等结构化信息的抽取/抓取准确率，典型场景如电商网站抓取。基于 Playwright 获取页面源码（从 Selenium 迁移以支持并发抓取），可替换为自有代理或付费 API 获取源码。自称为 Firecrawl 与 Jina Reader API 的开源替代，提供 URL 转 Markdown、HTML 转 Markdown 的免费工具及 wiki 文档。MIT 许可。
+在网页内容交给 LLM 前做预处理：将任意 URL 或 HTML 源码转为 LLM 友好的文本，保留网站/图片链接、表格等结构信息，用于 RAG 与网页抓取场景。基于 Playwright 提供异步/并发抓取（自 Selenium 迁移），支持三种代理配置方式（代码直传、环境变量、配置文件）以及媒体/字体/跟踪器阻断以节省代理流量。通过 pip 从 GitHub 仓库安装，另提供 URL/HTML 转 Markdown 的免费工具。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 网页 URL/HTML 转 LLM 友好文本，含链接、图片地址与表格保留
-- 基于 Playwright 的异步/并发抓取支持
-- get_page_source 可替换为自有代理或付费 API 以规避封锁
-- 附带免费书签工具：URL/HTML 转 Markdown
+- URL/HTML 到 LLM 友好文本的转换，保留链接与表格结构
+- 基于 Playwright 的异步/并发网页抓取
+- 三种代理配置方式与环境变量零代码接入
+- block_media/block_fonts/block_trackers 省流量选项
 
 ## 适用场景
 
-- 我要让 LLM 从网页中抽取商品名、链接、图片和价格
-- 做 RAG 或 AI 网页抓取前先把网页转成干净的输入文本
-- 已有 HTML 源码，想低成本转成 Markdown 给 LLM 用
+- 为 RAG 流程准备网页内容的 LLM 输入文本
+- 抓取电商页面中的产品名、价格、图片链接
+- URL 与 HTML 文件批量转 Markdown
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+`网页抓取` `RAG` `文档解析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3: Pre-processing webpage before giving it as input to the LLM improves extraction/scraping accuracy especially if you 
 > L5: Use this library to turn any webpage/url to LLM friendly text. Fully open source alternative to firecrawl and jina r
+> L3: Pre-processing webpage before giving it as input to the LLM improves extraction/scraping accuracy especially if you 
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `466c7c96de2a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a6456e15cb14` · [字段定义](../../DATASET.md)*

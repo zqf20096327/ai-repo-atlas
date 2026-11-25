@@ -1,10 +1,10 @@
 # Code-Amadeus/Amadeus
 
-⭐ 578 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Code-Amadeus/Amadeus) · 个人维护 · 中文 README
+⭐ 578 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Code-Amadeus/Amadeus) · 组织维护 · 中文 README
 
-**面向桌面用户的实时多模态 AI 代理：语音、角色形象与任务执行合一**
+**面向桌面用户的实时多模态 AI 代理，整合语音、角色与任务执行**
 
-0.17.1 Alpha 阶段的桌面应用：将可打断的实时语音对话、带字幕/口型/表情的角色呈现、以及通过注册的 Work Providers（Pi、Codex、Browser、可选 OpenClaw）委派执行的任务整合在同一界面。Host 负责身份、状态、权限与恢复，提供 Projects/Artifacts/结构化 diff 等持久工作控制面，并定义 AUIP 协议让 Agent 与产出的工件在受权限约束的 AppSession 中继续协作。支持 DeepSeek 远程主对话与本地 GPT-SoVITS/Qwen3-ASR 语音栈（CUDA/ROCm/MPS/CPU 多档安装配置）。本仓库为可构建源码而非打包桌面发布版；Windows+NVIDIA 为参考平台，源码不含角色包与模型权重。安装按 T1–T4 四档用 uv 管理，未提供打包安装器。
+以 Electron 桌面应用加本地 Host 后端形式运行的桌面代理：语音对话支持打断（独立唤醒/ASR、两阶段端点检测、AEC/barge-in），角色呈现含字幕、口型与表情同步；主角色将任务委托给注册的 Work Provider（Pi、Codex、Browser、可选 OpenClaw），Host 负责身份、状态、权限与恢复。工作产物经 Artifact Registry 与 AUIP AppSession 协议进行受控交互。按 T1–T4 四档能力分层安装，T1/T2 无需 Torch；公开源码为 0.17.1 Alpha 候选分支，AGPL-3.0 许可，角色包与模型权重不在公开范围内。
 
 ## 筛选速览
 
@@ -14,22 +14,22 @@
 | 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
-| 硬件要求 | `gpu-8g` | |
+| 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `high` | 编译与系统依赖俱全 |
 | 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 跨 LLM/TTS/播放的可打断实时语音对话（Wake/Conversation ASR、两段式断点、AEC/barge-in）
-- Work Provider 架构：主角色委派任务给 Pi/Codex/Browser/OpenClaw，按调用粒度授权
-- AUIP 应用会话协议：工件经 Host 校验后以短时票据挂载，动作权限受限
-- 本地语音栈支持 CUDA cu124/cu128、ROCm、Apple MPS、CPU 多种 Torch 构建档
+- 可打断的实时语音对话：LLM、TTS 与播放全程可中断
+- 主角色委托 Work Provider 执行，Host 持有权限与恢复控制
+- AUIP AppSession：以短期票据绑定 Artifact 的受控应用协作协议
+- T1–T4 安装分层，默认档位不依赖 Torch
 
 ## 适用场景
 
-- 用语音或文字向桌面角色委派日常任务与编码工作并跟踪进度
-- 在带角色形象（口型、表情、字幕）的界面中与 AI 实时对话
-- 让 AI 在受权限约束的会话中继续操作其生成的工件
+- 通过语音或文字与桌面代理对话并委托任务
+- 长时间后台任务的进度、权限与失败恢复管理
+- 本地或远程模型配置下的桌面语音助手搭建
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L20: Amadeus is a **real-time multimodal desktop agent** that brings voice, character presence, and Agent work into one 
-> L33: 1. **Talk — communicate naturally:** speak or type, with interruption across generation, synthesis, and physical pl
-> L80: |**Remote Main Chat and local voice**|DeepSeek V4 Flash Main Chat; Qwen3-ASR / SenseVoice; embedded GPT-SoVITS stre
+> L82: |**Provider Runtime**|Pi over native RPC for daily tasks, Codex App Server / Direct Codex for complex coding, Brows
+> L168: |T1 core|Text Chat, Work, Providers, and character rendering|`uv sync --locked`|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `440f3a195151` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a99a023477b5` · [字段定义](../../DATASET.md)*

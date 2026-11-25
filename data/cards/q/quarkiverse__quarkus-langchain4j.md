@@ -2,9 +2,9 @@
 
 ⭐ 325 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/quarkiverse/quarkus-langchain4j) · [官网](https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html) · 组织维护
 
-**Quarkus 框架的 LangChain4j 扩展，帮助 Java 应用接入 LLM**
+**面向 Quarkus 开发者的 LangChain4j 集成扩展**
 
-由 Quarkiverse 维护的 Quarkus 扩展集合，将 LangChain4j 集成到 Quarkus 应用中，使 Java 开发者能在 Quarkus 项目内使用大语言模型。支持声明式 AI 服务、工具调用、嵌入、文档存储集成（Redis/Chroma/Infinispan 等）、原生编译（native image）以及 Quarkus 可观测栈（指标、追踪）集成。接入方式为添加 Maven 依赖，可对接 OpenAI GPT、Hugging Face、Ollama 等多种模型提供方。
+该项目提供一组 Quarkus 扩展，将 LangChain4j 与 Quarkus 应用集成，支持声明式 AI 服务、多种 LLM 接入（OpenAI、Hugging Face、Ollama 等）、工具调用、嵌入、文档存储（Redis、Chroma、Infinispan 等）、GraalVM 原生编译以及与 Quarkus 可观测性栈和可插拔认证提供方的整合。面向使用 Java/Quarkus 构建应用的开发者，通过添加 Maven 依赖即可使用，当前版本为 2.0.0.CR1。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 声明式 AI 服务与工具（Tool）支持
-- 对接多种 LLM（OpenAI GPT、Hugging Face、Ollama 等）
-- 文档存储集成（Redis、Chroma、Infinispan 等）
-- 原生编译支持与 Quarkus 可观测栈集成
+- 声明式 AI 服务与工具/嵌入支持
+- 接入多种 LLM：OpenAI、Hugging Face、Ollama 等
+- 文档存储集成（Redis、Chroma、Infinispan）
+- 支持原生编译与 Quarkus 可观测性栈
 
 ## 适用场景
 
-- 在 Quarkus Java 应用中接入 LLM 构建对话或生成功能
-- 用声明式方式定义 AI 服务并配合工具调用
-- 结合企业 Java 技术栈做 RAG（嵌入+文档存储）
+- 在 Quarkus Java 应用中集成 LLM 能力
+- 用声明式方式构建带工具调用的 AI 服务
+- 将嵌入与向量文档存储接入 Quarkus 项目
 
 ## 场景标签
 
-`RAG` `Agent 框架` · 领域:Agent 开发
+`Agent 框架` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `b5f06c68289f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f64e8714f275` · [字段定义](../../DATASET.md)*
