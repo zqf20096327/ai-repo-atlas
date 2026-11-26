@@ -2,9 +2,9 @@
 
 ⭐ 221 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
 
-**面向开发者的 ibl.ai 平台 AI 应用脚手架工具包**
+**ibl.ai 平台的 vibe coding 技能包：快速搭建 AI 应用**
 
-面向 vibe coding 场景的开发者工具包：通过 npx skills 命令向 Claude Code、OpenAI Codex、Cursor、Copilot 等 agent 安装一组技能，用 @iblai/iblai-js SDK 生成带 SSO 登录、AI agent 聊天、用户/组织管理、通知与分析的 Next.js 应用，支持 Tauri 打包为 macOS/Windows/iOS/Android 应用。运行依赖托管在 iblai.app 的后端环境；本地或自托管完整平台代码需另行联系获取许可。
+面向在 ibl.ai 托管平台上构建应用的工具集：通过 npx 安装技能到 Claude Code、Codex、Cursor 等编码代理，脚手架生成含 SSO 登录、AI 聊天、用户/管理员、自定义数据、记忆、分析、计费的 Next.js 应用。技能分 iblai-vibe-*（UI 组件）与 iblai-api-*（REST 无头）两族，覆盖 start/agents/users/organizations/billing/monetization/analytics/content/ship/security 十个目录。默认连接托管环境，本地自托管平台代码需另行联系获取许可。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- npx skills add 一条命令为多种编码 agent 安装技能
-- 约 30 个技能覆盖登录、agent 聊天、工作流、分析、RBAC 等界面与功能
-- 提供 SDK 文档 MCP 服务器与组件/ hook 查询接口
-- 支持 Tauri 桌面与移动端构建，含本地 LLM（Ollama/Foundry）集成契约
+- npx 一条命令安装技能到多种编码代理（Claude Code/Codex/Cursor/Copilot）
+- 两族技能：iblai-vibe-* 挂载 UI 组件，iblai-api-* 经 REST 无头调用
+- vibe-starter 脚手架开箱提供登录、聊天、管理区、记忆、分析、计费
+- 部署命令生成 URL，并可构建 macOS/Windows/iOS/Android 原生应用
 
 ## 适用场景
 
-- 在 ibl.ai 平台上快速搭一个带 agent 聊天与计费分析的 SaaS 应用
-- 用已有的 Claude Code/Cursor 工作流生成完整前后端工程
-- 构建可分发的 Tauri 桌面端并接入设备端本地模型
+- 在 ibl.ai 平台上从零生成一个带登录与 AI 聊天的 Next.js 应用
+- 给已有应用按需添加用户资料、记忆、分析、计费等模块技能
+- 为脚本或 CI 任务用 REST 技能无头调用平台功能
 
 ## 场景标签
 
@@ -39,7 +39,8 @@
 
 > L5: Ship AI-powered apps fast — and run the platform behind them. Backend included.
 > L27: **1. Install the skills** in the agent you already use.
-> L58: - `/iblai-vibe-local-llm` -- defines the contract for adding on-device LLM inference (Ollama / Foundry) to a Tauri 
+> L30: npx skills add iblai/base --all        # Claude Code, OpenAI Codex, Cursor, OpenCode, Copilot …
+> L89: Two families in one install: **🖥️ `iblai-vibe-*`** mounts a visual component in
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `5ed5f2237bac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ed823bb3ea43` · [字段定义](../../DATASET.md)*

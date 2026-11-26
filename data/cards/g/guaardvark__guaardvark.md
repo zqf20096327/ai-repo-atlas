@@ -1,10 +1,10 @@
 # guaardvark/guaardvark
 
-⭐ 362 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/guaardvark/guaardvark) · [官网](https://guaardvark.com) · 组织维护
+⭐ 362 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/guaardvark/guaardvark) · [官网](https://guaardvark.com) · 个人维护
 
-**本地 GPU 上自托管的 AI 工作室：对话、agent 与多模态生成**
+**自托管 AI 工作室：本地 GPU 上跑聊天/RAG、桌面代理与多模态生成**
 
-Guaardvark 是一个自托管 AI 工作室，在用户自己的 GPU 上运行：基于 pgvector 的本地 RAG 问答（混合检索、cross-encoder 重排、来源引用）、控制真实 Ubuntu 桌面的屏幕 agent、各占独立 git worktree 的并行编码 agent 群、LoRA 训练，以及本地视频/图像/音乐/语音生成。内置 MCP 服务器与插件，可被 Claude Code、Cursor 等 agent 驱动；GPU 编排器在同一张卡上分配显存给各任务。默认无遥测，出站路径由 egress.json 声明。提供 Linux 安装脚本、Docker、WSL2、Apple Silicon 与 PyPI CLI。
+以 MIT 许可发布的自托管 AI 工作室，全部推理在用户自有 GPU 上运行，通过 Ollama、ComfyUI 及其自带 GPU 服务调度。功能包括基于 pgvector 的本地 RAG（混合检索、交叉编码器重排、来源引用）、控制真实 Ubuntu 桌面的屏幕代理、并行编码代理群、LoRA 训练、视频/图像/音乐/语音本地生成，以及内置 MCP 服务器供 Claude Code、Cursor 等代理接入。默认无遥测，出站路径集中在 egress.json 声明。默认安装面向 NVIDIA GPU 的 Linux，另支持 WSL2、Docker、Apple Silicon 与 PyPI CLI。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ Guaardvark 是一个自托管 AI 工作室，在用户自己的 GPU 上运行：
 
 ## 能力要点
 
-- 本地 RAG：关键词+向量混合检索、重排序、chunk 级来源引用与检索轨迹
-- MCP 服务器与插件：Claude Code、Cursor、Gemini CLI 等可运行全部流程
-- 屏幕 agent 控制隔离的 Ubuntu 桌面，视觉模型单次推理输出点击坐标并闭环校正
-- 三层路由（Reflex/Instinct/Deliberation）按任务复杂度选择 LLM 调用路径
+- 本地 RAG：pgvector 混合检索、交叉编码器重排、带来源引用
+- 屏幕代理在隔离 Ubuntu 桌面（Xvfb/XFCE）上通过视觉模型操作
+- 内置 MCP 服务器与插件，可被 Claude Code、Cursor 等代理驱动
+- 13 个本地视频模型与 LoRA 训练，GPU 编排器调度显存
 
 ## 适用场景
 
-- 在自己的 GPU 上与本地文档做带引用的问答
-- 让 agent 在隔离桌面和浏览器中代为执行任务
-- 并行运行多个编码 agent 处理重构/补测试等任务
-- 本地生成图像、视频、音乐并训练角色 LoRA
+- 在自有 GPU 上与本地文档进行带引用的问答
+- 让代理操作隔离桌面完成浏览与页面任务
+- 本地生成视频、图像、音乐并训练角色 LoRA
 
 ## 场景标签
 
@@ -40,7 +39,7 @@ Guaardvark 是一个自托管 AI 工作室，在用户自己的 GPU 上运行：
 
 > L5: **The self-hosted AI studio.** Chat with your own files, hand tasks to agents that use a real desktop and browser, r
 > L20: - **It runs on your machine.** Language models, retrieval, agents and every generator run on your own hardware, thr
-> L46: - **Chat with your own files.** Local RAG on pgvector: keyword and vector search fused per query, cross-encoder rer
+> L22: - **Your coding agent can drive it.** A built-in MCP server, sixteen agent skills and plugins for Claude Code, Grok
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b74c67378ece` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `19a14eef80de` · [字段定义](../../DATASET.md)*

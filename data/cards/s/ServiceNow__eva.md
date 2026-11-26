@@ -2,9 +2,9 @@
 
 ⭐ 243 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ServiceNow/eva) · [官网](https://servicenow.github.io/eva/) · 组织维护
 
-**语音智能体端到端评测框架：同时评任务准确与对话体验**
+**语音智能体端到端自动评测框架：同时评任务准确与对话体验**
 
-EVA 是面向对话式语音智能体的开源评测框架，通过 bot-to-bot 架构全自动运行多轮语音对话并打分，无需人工听测。评分覆盖两个维度：EVA-A（任务完成准确性与忠实度）与 EVA-X（自然度、简洁性等口语交互体验）。内置 213 个企业场景、12 个级联与音频原生系统的结果、 judged prompts 与扰动套件（背景噪声、口音、连接劣化）。需配置 LLM/STT/TTS 与评测模型的 API 密钥；提供 CLI、Streamlit 配置编辑器与分析界面、Docker 运行方式及多语言扩展脚本。
+ServiceNow 开源的会话语音智能体评测框架，以 bot-to-bot 架构全自动运行多轮语音对话并打分，无需人工听审。评测覆盖两个维度：EVA-A（任务是否正确完成）与 EVA-X（对话是否自然、简洁、适合语音场景）。内置 213 个企业场景（3 个领域）、12 个级联与音频原生系统的结果、可施加背景噪声/口音/连接退化的扰动套件，并提供 Streamlit 配置编辑器与结果分析应用。需配置多个 LLM/STT/TTS 提供商的 API key 方可运行。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ EVA 是面向对话式语音智能体的开源评测框架，通过 bot-to-bot �
 
 ## 能力要点
 
-- bot-to-bot 全自动多轮语音对话评测，无需人工听测
-- EVA-A/EVA-X 双维度指标，含 judged prompts 与验证数据集
-- 扰动套件：背景噪声、口音变体、模拟连接劣化
-- Streamlit 配置编辑器与结果分析界面，Docker 可运行
+- EVA-A/EVA-X 双维度评分，覆盖级联与 speech-to-speech 两类系统
+- 213 个企业场景，针对语音特有失败模式
+- 扰动套件：背景噪声、口音变体、连接退化模拟
+- Streamlit 配置编辑器与结果可视化分析应用
 
 ## 适用场景
 
-- 在上线前对语音智能体做端到端自动化评测
-- 用噪声/口音扰动测试语音智能体的鲁棒性
-- 横向比较级联管线与语音到语音模型的表现
-- 扩展新语言场景并计算 WER 指标
+- 上线前对语音智能体做多轮对话自动化回归评测
+- 用扰动套件测试嘈杂环境与口音下的表现
+- 跨多个模型配置批量运行基准并对比结果
+- 扩展支持新语言的文化适配评测数据
 
 ## 场景标签
 
@@ -40,6 +40,7 @@ EVA 是面向对话式语音智能体的开源评测框架，通过 bot-to-bot �
 
 > L11: **EVA** is an open-source evaluation framework for conversational voice agents that scores complete, multi-turn spo
 > L16: Using a realistic **bot-to-bot architecture**, EVA runs fully automated evaluations without human listeners — end t
+> L258: Existing benchmarks evaluate voice agent components in isolation — speech understanding, TTS quality, or conversat
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `941516c00082` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `dc28e0eae35d` · [字段定义](../../DATASET.md)*

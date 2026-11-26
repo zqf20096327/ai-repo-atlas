@@ -2,9 +2,9 @@
 
 ⭐ 185 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/heygen-com/heygen-cli) · [官网](https://developers.heygen.com) · 组织维护
 
-**HeyGen 官方命令行工具：终端中创建 AI 数字人视频**
+**开发者用 HeyGen API 在终端生成/翻译 AI 视频的官方 CLI**
 
-HeyGen 视频生成 API 的官方 CLI，Go 编写的单一静态二进制，覆盖 macOS/Linux/Windows(WSL)。面向编码代理（Claude Code、Codex）、CI/CD 管道与批量操作设计：stdout 恒为 JSON、结构化错误信封、稳定退出码、--request-schema 自描述、默认非交互。命令镜像 HeyGen v3 API，支持文本生成视频、模板、数字人/声音管理、语音克隆、视频翻译、口型同步、webhook 等多种操作。认证支持 API key 环境变量、管道登录、OAuth 等六种方式；需 HeyGen 账户 API key。
+HeyGen 视频生成 API 的官方命令行客户端，以 Go 编写的单一静态二进制分发，命令与 HeyGen v3 API 对应：文本生成视频、模板/头像/语音管理、语音克隆、视频翻译、口型同步、素材上传等。面向 coding agents、CI/CD 流水线与批量操作设计：stdout 固定输出 JSON、stderr 输出结构化错误、退出码稳定、默认非交互，并提供 schema 自描述命令与面向 agent 的技能安装包。使用需 HeyGen API key 或 OAuth 凭证；Windows 仅经 WSL 支持。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ HeyGen 视频生成 API 的官方 CLI，Go 编写的单一静态二进制，覆�
 
 ## 能力要点
 
-- 命令覆盖视频生成/模板/数字人/声音克隆/视频翻译/口型同步等 HeyGen v3 API
-- 面向代理与 CI 设计：stdout 恒为 JSON、结构化错误、稳定退出码、自描述 schema
-- curl 安装脚本装单一静态二进制，无需运行时依赖
-- 提供 heygen-com/skills 一行安装的代理技能包
+- 命令镜像 HeyGen v3 API：video-agent、template、avatar、voice、video-translate、lipsync 等 12 组
+- Agent 优先设计：JSON stdout、结构化错误、稳定退出码、--request-schema/--response-schema 免鉴权自描述
+- 单一静态二进制，无运行时依赖，安装到 ~/.local/bin
+- 提供 Claude Code/Codex 等 agent 的一行式技能安装（heygen-com/skills）
 
 ## 适用场景
 
-- 在 CI/CD 中自动生成周报视频或版本发布视频
-- 用 shell 循环批量翻译或生成上百个视频
-- 让 Claude Code 等编码代理通过技能包在对话中生成视频
+- 在 shell 循环中批量翻译上百条视频
+- CI/CD 流水线自动生成发布说明视频
+- 让 Claude Code 等 agent 在对话中直接创建 avatar 视频
+- 在自有工具中包装 HeyGen API 做定制集成
 
 ## 场景标签
 
@@ -38,7 +39,7 @@ HeyGen 视频生成 API 的官方 CLI，Go 编写的单一静态二进制，覆�
 ## 证据(README 行号)
 
 > L7: **Make AI videos from the command line.** Drive HeyGen with code, not clicks.
-> L11: Full reference and examples: **developers.heygen.com/cli**.
+> L151: Mirrors the HeyGen v3 API. Pattern: `heygen <noun> <verb>`.
 > L26: - **JSON on stdout, structured errors on stderr, stable exit codes.**
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1c3f644693e6` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8350d9e58891` · [字段定义](../../DATASET.md)*

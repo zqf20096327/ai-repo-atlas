@@ -2,15 +2,15 @@
 
 ⭐ 189 · C# · 推送 2026-10-30 · [GitHub](https://github.com/fhhyyp/serein-flow) · 个人维护 · 中文 README
 
-**Web 端工作流编排引擎，内置 MCP 供 AI 客户端安全操作流程**
+**面向开发者的节点流工作流引擎，内置 MCP 供 AI 客户端操作**
 
-面向需要创建、维护和运行项目工作流的开发者：由 Vue+Vite 可视化 Web 控制台、ASP.NET Core API、隔离的 Worker Runner 进程与 HTTP/stdio MCP 服务组成。Web 控制台管理项目、流程、版本、运行与环境设置；不受信的脚本与插件仅在独立 Worker 进程中运行。内置 MCP 服务以访问密钥鉴权，向 AI 客户端暴露受控的 tools/resources/prompts，并附 Skill 素材包供 AI 工具生成本地技能。从源码本地运行：dotnet 启动 API（默认 127.0.0.1:8188），npm 启动前端；环境假定 Windows，需 .NET SDK 10 与 Node.js。
+SereinFlow 是一个 web 优先的工作流编排与执行系统，由 Vue+Vite 可视化控制台、ASP.NET Core API、隔离的 Worker Runner 进程组成，用于创建、维护和运行项目工作流；API 管理 projects、flows、versions、runs 与环境设置，不受信脚本与插件仅在独立 Worker 进程中运行。内置 HTTP/stdio MCP 服务向 AI 客户端暴露 tools、resources、prompts，并配套本地 MCP 客户端与 SKILL.md 技能模板；默认无鉴权直连，可选启用 API-key 认证。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 可视化 Web 控制台管理项目、流程、版本、运行与环境设置
-- 不受信脚本与插件在独立 Worker Runner 进程中隔离运行
-- 内置 HTTP/stdio MCP 服务，密钥鉴权，向 AI 客户端暴露受控 tools/resources/prompts
-- 提供类型化 HTTP 客户端 SDK（SereinFlow.SDK）与本地 MCP Skill 素材包
+- 可视化 Web 控制台管理 projects/flows/versions/runs/环境设置
+- 内置 HTTP/stdio MCP 服务，暴露 tools、resources、prompts
+- 不受信脚本与插件仅在隔离的 Worker Runner 进程中运行
+- 提供 typed HTTP client SDK 供第三方应用集成
 
 ## 适用场景
 
-- 在可视化界面中创建并运行项目工作流
-- 让 AI 工具通过 MCP 接入，安全地操作流程与节点
-- 在隔离进程中运行第三方脚本与插件
+- 搭建可维护的项目工作流并通过 Web 控制台管理运行
+- 让 AI 客户端通过 MCP 安全地操作工作流系统
+- 工业控制场景下做工作流编排与二次开发
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
+> L7: SereinFlow is a web-first workflow orchestration and execution system. It
 > L16: and plugins run only in separate Worker Runner processes. The MCP service
 > L17: exposes controlled tools, resources, and prompts so AI clients can work with
-> L22: |`src/SereinFlow.Api`|ASP.NET Core API and the HTTP/stdio MCP host.|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `92b06fd012b1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `825884f9b911` · [字段定义](../../DATASET.md)*

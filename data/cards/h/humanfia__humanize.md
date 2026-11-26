@@ -2,9 +2,9 @@
 
 ⭐ 439 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/humanfia/humanize) · [官网](https://humanfia.ai/humanize/) · 个人维护
 
-**面向编码 agent 的流程编排系统，按预算运行任务流**
+**给 coding agent 流程做调度与预算管理的运行时基础设施**
 
-Humanize（hmz）是一个编码 agent 的流程编排工具：在仓库内的终端或浏览器界面中，通过 /flow 命令启动预定义的 agent 流程，并以成本预算参数约束运行，例如让 agent 迭代直至测试通过。它本身不内置任何流程，需从官方 flowverse 安装或自行编写。需要 Python 3.12+、uv 以及一个已登录的编码 agent CLI（如 Claude Code 或 Codex）。提供 macOS/Windows 桌面安装包、uv 安装的 CLI、以及 hmz exec/web/chat 等命令行用法。
+Humanize (hmz) 是一个 agent 流程运行基础设施：它本身不提供流程（flow），而是承载 flow 运行——调度多个 nous（harness + 账号 + 模型 + effort 组合），为每个 agent 在本机、SSH、容器或集群分配工作环境，统一管控运行预算，并保留可恢复、可追溯的运行记录。提供 CLI 与 Desktop 两种形态，需 Python 3.12+、uv 和一个已登录的 coding agent CLI（如 Claude Code 或 Codex）。支持通过 extras 安装 DeepSeek Harness、Kimi Code、litellm 后端。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Humanize（hmz）是一个编码 agent 的流程编排工具：在仓库内的�
 
 ## 能力要点
 
-- 通过 flow 定义并以预算参数（如 budget.cost）运行编码 agent 任务
-- 官方 flowverse 提供可安装的流程，也可自写
-- 支持 Claude Code、Codex 等已登录的编码 agent CLI 作为后端
-- 提供桌面端（macOS/Windows）、CLI 与 hmz web 浏览器界面
+- 多 nous 调度：重试与跨 harness 回退，环境覆盖本机/SSH/容器/集群
+- 统一预算管控（如 budget.cost）与可恢复、可追溯的运行记录
+- CLI 与 Desktop 双形态，可经 skills add 将 hmz 注册为各 agent 的技能
+- 流程本体不内置，可从 flowverse 安装或自行编写
 
 ## 适用场景
 
-- 用固定流程迭代驱动编码 agent 直至测试通过
-- 为 agent 任务设置成本预算以防 token 开销失控
-- 在终端或浏览器中统一管理仓库内的 agent 会话
+- 在固定成本预算下驱动多个 coding agent 完成大型任务
+- 跨多台机器编排长时运行的 agent 流程并断点恢复
+- 在同一界面切换 Claude Code、Codex 等 agent 会话与 flow
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ Humanize（hmz）是一个编码 agent 的流程编排工具：在仓库内的�
 
 ## 证据(README 行号)
 
-> L46: Open the terminal interface in a repository, on a chat with your coding agent; `$<flow>` or
-> L70: hmz exec -f ralph_loop -a agent=claude/claude-opus-5:high -p budget.cost=5 "Make the tests pass"
+> L7: Humanize is infrastructure, not a flow. A flow is a Python program that says what to ask and of
+> L17: done by one model in one session, so what Humanize is built around is the scheduling: many
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `96eabf36bbd4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6231c6212a81` · [字段定义](../../DATASET.md)*

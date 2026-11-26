@@ -2,9 +2,9 @@
 
 ⭐ 188 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Aevonix/FlashAlign) · [官网](https://aevonix.com) · 组织维护
 
-**按请求切换模型对齐（abliteration）画像的推理路由工具**
+**按请求对 LLM 施加对齐配置的运行时网关工具**
 
-面向已部署 LLM 推理引擎的对齐切换层：为 DeepSeek、GLM、Qwen、Gemma 等模型提供 V1 拒答削减 starter profiles，按请求或常开方式应用，不永久修改权重。支持 TensorFold、vLLM、SGLang、llama.cpp 引擎，可配合 Hermes、OpenClaw 或自定义 harness 运行；内置 WhatsApp/RCS/SMS/Telegram 消息适配与联系人验证机制。托管推理需 Linux 与 NVIDIA GPU，starter profiles 被标注为实验性。
+FlashAlign 由 Aevonix Research 发布，对已下载的基座或量化模型按请求应用对齐配置（profile），不永久修改权重；提供 Verified contacts（仅经核验的联系人/通道生效）与 Always On（对所有路由请求生效）两种模式，内置 5 个以拒绝减少为主题的启动配置，并提供状态检查、doctor 探测、dashboard 监控与配置管理脚本。部署要求 Linux 与 NVIDIA GPU，通过 install.sh 脚本安装，面向需要按用户/通道控制模型对齐行为的自托管推理使用者。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 按请求或 Always On 应用 abliteration 对齐画像，不永久改动权重
-- 支持 TensorFold/vLLM/SGLang/llama.cpp 四类引擎与五个 starter profiles
-- Verified contacts 联系人验证模式，覆盖 WhatsApp/RCS/SMS/Telegram 通道
-- 可与 Hermes、OpenClaw 或自定义 harness 集成
+- 按请求应用对齐配置，无需永久修改基座或量化权重
+- Verified contacts / Always On 两种生效模式，支持工具继承开关
+- 支持 vLLM、SGLang、TensorFold、llama.cpp 等多种引擎的模型组合
+- 提供 status/doctor/dashboard 运维命令与配置哈希校验
 
 ## 适用场景
 
-- 为已验证用户/频道按需开启削弱拒答的模型画像
-- 在自建推理网关上常开指定对齐画像
-- 在 agent harness（Hermes/OpenClaw）中按工具控制画像继承
+- 仅对经核验的用户和消息通道应用 abliteration 配置
+- 在自托管网关上对所有路由请求统一施加对齐配置
+- 在已运行的推理引擎上接入对齐配置而更换模型
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L13: Apply alignment profiles per request. Use abliteration for approved users and
-> L17: changing them. Run it directly, with Hermes or OpenClaw, or through your own
-> L57: |DeepSeek V4.1 Flash 1017|TensorFold, vLLM|
+> L155: Always On gateway. FlashAlign controls only
+> L221: |Inference host|Linux and NVIDIA GPU; matched CPU and GPU architecture for TensorFold bundles|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `712dce6c2b02` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `da21b11dce3d` · [字段定义](../../DATASET.md)*

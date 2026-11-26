@@ -1,10 +1,10 @@
 # AkihikoWatanabe/paper_notes
 
-⭐ 187 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AkihikoWatanabe/paper_notes) · [官网](https://AkihikoWatanabe.github.io/paper_notes) · 个人维护 · 中文 README
+⭐ 187 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AkihikoWatanabe/paper_notes) · [官网](https://AkihikoWatanabe.github.io/paper_notes) · 个人维护
 
-**个人维护的 AI 论文笔记库：GitHub Issues 管理并可对话检索**
+**AI 研究论文的人工策展笔记集（GitHub Issue 形式）**
 
-以 GitHub Issues 形式手工整理 AI 论文及相关资源（博客、仓库、幻灯片、SNS 帖子）的个人学习日志：每条 Issue 含论文链接、元数据与摘要（经 arXiv API 获取）、日文翻译摘要（GPT 生成）与维护者笔记，并用手工标签（600+ 个，按媒介/领域/任务/方法等分类）组织。Issue 内容每日导出至 agent_docs/，可通过克隆仓库配合 agent 或 DeepWiki/CodeWiki 对话式检索。聚焦 NLP、CV、语音、推荐系统四领域，笔记以日文撰写，详细程度不一。
+维护者每日跟踪 X 上的 AI 研究讨论，将论文、博客等资源以 GitHub Issue 形式收录，内容含链接、arXiv API 获取的元数据与摘要、GPT 自动生成的日语摘要以及维护者的人工笔记，并按 600+ 标签分类。定位为个人学习日志与记忆辅助。每日将 Issue 导出为 agent_docs/ 下的 XML 文件，支持克隆仓库后用 AI agent 对话式查询，也可经 DeepWiki/CodeWiki 聊天界面浏览。笔记粒度不均，标注为人工手动进行。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 论文笔记以 GitHub Issues 管理，含元数据、日文摘要与维护者标签
-- 600+ 手工标签按媒介/领域/任务/方法/会议等维度分类
-- Issue 内容每日导出至 agent_docs/，支持 agent 对话式检索
-- 可通过 DeepWiki/CodeWiki 聊天界面探索仓库内容
+- 每条资源以 GitHub Issue 管理，含摘要、日语翻译与人工笔记
+- 600+ 手动标签，支持按标签过滤和检索
+- 每日导出 Issue 为 agent_docs/ XML，供 AI agent 检索问答
+- 提供 DeepWiki/CodeWiki 聊天式浏览界面
 
 ## 适用场景
 
-- 查找 AI 论文的日文摘要与笔记解读
-- 通过对话界面按主题检索论文积累与趋势
-- 了解 NLP/CV/语音/推荐系统领域的个人阅读脉络
+- 跟踪 LLM、AI agents、强化学习等方向的每日研究动态
+- 克隆仓库后用 AI agent 对话式检索论文笔记
+- 按标签查找某主题下的相关论文与讨论链接
 
 ## 场景标签
 
-`知识库管理` `科研工具` · 领域:知识与检索
+`精选清单` `科研工具` `知识库管理` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L19: This repository is a manually curated collection of **AI-related papers and related resources**, such as blog posts
-> L23: The primary purpose of this repository is to serve as a **personal study log and memory aid** for the maintainer.
-> L37: Paper metadata and abstracts are retrieved via the arXiv API[^1].
+> L19: This repository is a human-curated collection of AI research papers and related resources, including blog posts. Th
+> L25: **All content stored in GitHub Issues is exported daily as XML files under `agent_docs/`.** An AI agent can use the
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `642876132f72` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `02dcef575969` · [字段定义](../../DATASET.md)*

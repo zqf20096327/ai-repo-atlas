@@ -2,9 +2,9 @@
 
 ⭐ 304 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kLOsk/adloop) · [官网](https://getadloop.com) · 个人维护
 
-**给 Claude/ChatGPT/Cursor 接入 Google Ads 的 MCP server**
+**给 AI 助手接入 Google Ads/GA4 读写能力的 MCP 服务器**
 
-一个 MCP server，让 AI 客户端对 Google Ads、Reddit Ads 和 GA4 获得读写访问，覆盖广告系列/关键词/受众/品牌列表等约 40 个工具，并提供 Ads 与 GA4 数据的交叉诊断（转化归因、追踪事件比对、GTM 容器审计）。所有写入变更先出预览、需用户确认后才生效，新广告默认暂停。提供 AdLoop Cloud 托管版（免费计划+付费计划）与自托管版（pip 安装，需自建 Google Cloud 项目），MIT 许可。
+MCP 服务器，让 Claude、ChatGPT、Cursor 等 AI 客户端读写 Google Ads、Reddit Ads、GA4 与 Google Tag Manager。覆盖诊断、GA4/Ads 读取、关键词与受众管理等约四十个工具；每次变更先出预览，需用户确认才生效，新广告和系列默认暂停。提供 AdLoop Cloud 托管版（免费档）与自托管版，自托管需自建 Google Cloud 项目，MIT 许可，Python 3.11+。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 40+ 只读工具：广告系列、关键词、PMax、受众、品牌列表、GA4 报表、任意 GAQL 查询
-- 写入前预览与确认机制，新广告/广告系列默认暂停
-- Ads 点击 × GA4 会话 × GTM 容器的三方交叉审计，含 GDPR 同意缺口识别
-- AdLoop Cloud 托管版与自托管版运行同一工具集与安全模型
+- 覆盖 GA4、Google Ads、Reddit Ads、Tag Manager 的 MCP 工具集
+- 每次变更先预览，需用户明确确认才写入账户
+- GDPR 同意感知，不把正常同意缺口误判为跟踪故障
+- 支持托管云版与本地自托管两种部署方式
 
 ## 适用场景
 
-- 在 IDE 对话中排查转化下降：一次查询交叉比对 Ads 与 GA4 数据
-- 从搜索词报表中识别无效流量并添加否定关键词
-- 用自然语言起草响应式搜索广告并逐条确认上线
-- 核对代码库中的埋点事件与 GA4 实际接收事件的差异
+- 在 IDE 对话中分析转化下降原因并调整广告
+- 从搜索词报告中批量添加否定关键词
+- 比对代码库事件与 GA4 实际接收事件排查跟踪问题
+- 审计 GTM 容器、代码事件与 GA4 三方的一致性
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a8b7f43a6e68` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `895fea3c1688` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 357 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yuga-hashimoto/and-code) · [官网](https://yuga-hashimoto.github.io/and-code/) · 个人维护
 
-**在 Android 上本地运行 AI 编码 agent 的原生 GUI 客户端**
+**在 Android 手机上本地运行 AI 编码代理的原生 GUI**
 
-原生 Android GUI 应用，通过触摸界面操作 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 等编码 agent，无需终端或 PC。设备端经 PRoot 在 Alpine/Debian Linux 环境内自动安装 agent 运行时，也可远程连接 PC 上的 OpenCode 服务器并中途切换运行时。提供会话管理、diff 审阅、工具审批、定时任务、语音输入/TTS、嵌入式终端与应用内浏览器预览。本身不提供模型服务，认证与推理由对应官方 CLI 处理。
+Kotlin/Jetpack Compose 编写的 Android 应用，通过 PRoot 在设备内运行 Alpine Linux 环境，自动安装 OpenCode、Claude Code、Google Antigravity、OpenAI Codex 四种 CLI 编码代理；也可远程连接 PC/Mac/Linux 上的 OpenCode 服务器，支持会话中途在本地与远程运行时之间切换。提供仓库浏览、diff 审查、工具审批、定时任务、语音输入、SSE 流式输出等界面能力。应用本身不提供模型或订阅服务，认证与推理由各官方 CLI 处理。发布渠道为 APK，源码构建需 JDK 17 与 Android SDK。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 四种编码 agent 的设备端运行（PRoot + Alpine Linux，自动下载安装并校验 SHA-256）
-- 远程连接 PC 上的 OpenCode，支持 QR/mDNS 发现与会话中途切换运行时（handoff）
-- 工具审批、SSE 流式输出、结构化推理/工具时间线与定时（cron）任务
-- 语音输入、唤醒词、TTS，可注册为 Android 默认数字助手
+- 通过 PRoot 在 Android 设备内自动安装 Alpine Linux 与编码代理，无需 PC
+- 支持 OpenCode（Stable）、Claude Code、Google Antigravity、Codex（Beta）
+- 本地与远程 OpenCode 运行时可中途切换（handoff），支持 QR/mDNS 发现
+- 工具审批、定时任务、内嵌终端、agent 驱动浏览器与语音输入
 
 ## 适用场景
 
-- 在手机上直接与编码 agent 对话修改本地 git 仓库
-- 远程操控家中 PC 上的 OpenCode 会话
-- 定时自动运行提示词并查看历史运行结果
+- 没有电脑时在手机上与编码代理对话改代码
+- 出门用手机开始会话，回家通过 handoff 在 PC 上继续
+- 远程连接家里的 OpenCode 服务器做移动端运维
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4e2fcc088f42` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `609aed10eb81` · [字段定义](../../DATASET.md)*

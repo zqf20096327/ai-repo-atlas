@@ -2,34 +2,35 @@
 
 ⭐ 191 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AI-WorkDeck/aiworkdeck) · [官网](https://www.aiworkdeck.com) · 组织维护 · 中文 README
 
-**面向法律等专业文书工作的开源 AI 工作台**
+**面向律师的开源法律文档 AI 工作台**
 
-桌面端 AI 工作区：Agent 与文档编辑器（内嵌 LibreOffice WASM）、项目文件、来源引用和版本历史并排工作。AI 修改以修订形式写入文档，用户可逐条接受或拒绝；引用可跳转回源文档段落；支持基于 Git 历史的三方文档合并与段落级溯源；提供插件运行时（Web/Java/声明式）与内置 Skill 市场，并有 Office/WPS 任务窗格。面向法律尽调、合同审查等场景，由公司主体维护，采用 AGPL 并另设商业许可。
+将 IDE 形态引入法律工作：以案件（matter）组织文件与上下文，AI 直接在真实 Word 文档中以修订（tracked changes）形式写入改动，每处改动可接受或拒绝；每个结论带来源引用，点击可跳转到原文高亮段落并检测锚点变动；提供 Git 版本历史、三方文档合并与段落级溯源。桌面应用支持 Windows/macOS 与浏览器试用，内置 LibreOffice WASM 编辑器，提供插件 SDK、Skills 规范与一键安装插件/MCP 服务器的市场。文档默认本地存储，云模型与自托管需另行配置。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `dual` | AGPL-3.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- AI 修改以修订形式写入，可逐条接受/拒绝，带检查点恢复
-- 来源引用可跳转回源文档段落，并检测锚点变更/缺失
-- 基于 Git 的三方文档合并与段落级溯源
-- 可扩展插件运行时（Web/Java/声明式）与应用内扩展市场
+- AI 编辑以修订模式写入真实 Word 文档，逐条接受/拒绝
+- 结论带来源引用链接，锚点变动或缺失常标记
+- Git 版本历史、三方合并与段落级溯源
+- 插件/Skills/MCP 服务器市场，付费上架作者获得 85% 净收入
 
 ## 适用场景
 
-- 在尽调、合同审查中让 Agent 起草并逐条审阅修改
-- 为专业文书工作搭建带来源追溯与版本历史的桌面工作区
-- 开发面向垂直文书流程的插件与 Skill
+- 律师起草与审改诉状、合同等文书时逐条审阅 AI 改动
+- 文书中每个论点核验对应证据原文
+- 现场拍照录音自动归档到电脑端案卷
+- 开发法律工作流插件或 Skill 并上架市场
 
 ## 场景标签
 
@@ -37,9 +38,10 @@
 
 ## 证据(README 行号)
 
-> L17: **AI WorkDeck brings those steps into one extensible workspace.** Agents work alongside the document editor, projec
-> L44: |**Document-native agent actions**|Apply fine-grained edits through structured tools; inspect tracked changes and c
-> L45: |**Source-linked work**|Connect a passage to its supporting material, navigate back to the source, and detect chang
+> L8:  AI WorkDeck brings that infrastructure to lawyers — organised by matter, every answer sourced, every change on the 
+> L39:  AI edits the document itself. It writes straight into the real Word file as tracked changes, and you accept or rej
+> L64: - **Run from source:** Getting started · Architecture. The contributor stack uses JDK 21, Maven, Node/npm and Postg
+> L91: The steward is **北京公富信息技术有限公司 (BEIJING GONG FU INFORMATION TECHNOLOGY LIMITED)**. The same entity operates the dome
 
 ## 星数曲线
 
@@ -55,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `a29abd898f84` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `eaa4eee214be` · [字段定义](../../DATASET.md)*

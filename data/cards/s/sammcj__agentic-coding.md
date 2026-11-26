@@ -2,9 +2,9 @@
 
 ⭐ 174 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/sammcj/agentic-coding) · [官网](https://smcleod.net) · 个人维护
 
-**agentic 编程的规则、技能与模板合集，供编码 agent 复用**
+**面向开发者的 agentic coding 规则、技能与模板集**
 
-个人维护的 agentic 编程资源仓库，收录可组合的 Agent Skills、自定义 Agent、Agent 指令规则文件（以 CLAUDE.md 为主）、提示模板以及 Claude Code 本地插件市场（含 LSP 定义）。内容按工具无关方式组织于根目录，声明多数技能与规则可在不同 agentic 编程工具间移植。README 另包含 agentic 编程实践建议、第三方插件推荐（如 cc-safety-net、context-mode、Graphify）与订阅/按量付费服务的费用讨论。仓库以 Apache 2.0 许可发布。
+作者整理的个人 agentic coding 资产库：包含 Agent Skills（可组合技能）、自定义 agent 定义、CLAUDE.md 等规则文件、prompt 模板命令，以及本地 Claude Code 插件 marketplace（含 LSP 定义）。内容以工具无关方式组织，作者声明多数技能与规则可在不同 agentic coding 工具间移植。另附使用技巧（权限预批、沙箱运行、上下文管理、fresh session 策略）与订阅制/按量计费 provider 的成本说明，采用 Apache 2.0 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 按工具无关方式组织的 Agent Skills / Rules / Commands 模板
-- Claude Code 本地插件市场（含 LSP 定义）
-- 声明多数技能与规则可在 agentic 编程工具间移植
-- 包含 agentic 编程最佳实践与上下文工程建议
+- 工具无关组织的规则、技能、命令模板集合
+- 本地 Claude Code marketplace 插件（含 LSP 定义）
+- 提供 systematic-debugging 等技能与权限/沙箱配置建议
+- 订阅制与按量计费 provider 的成本对比说明
 
 ## 适用场景
 
-- 为编码 agent 配置可复用的规则与技能
-- 参考 agentic 编程的上下文工程与调试实践
-- 挑选适配 Claude Code / Cline 等工具的提示模板
+- 为 Claude Code 等 agent 工具复用现成的规则与技能模板
+- 参考 agent 权限、沙箱与上下文管理实践
+- 为团队建立 agentic coding 的 Setup→Plan→Act→Review 流程
 
 ## 场景标签
 
-`提示工程` `精选清单` · 领域:Agent 开发
+`提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L11: - Agent Skills - Composable skills that extend agent capabilities
-> L14:  - Rules/CLAUDE.md is usually the most up to date and comprehensive
-> L18: Most skills and rules are reasonably portable between agentic coding tools.
+> L5: My Agent Skills, Agent Rules for Agentic Coding.
+> L9: The repository is organised with tool-agnostic content at the root level:
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `88778ad34d85` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `dbcb5dffbc9e` · [字段定义](../../DATASET.md)*

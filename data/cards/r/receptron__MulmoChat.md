@@ -1,10 +1,10 @@
 # receptron/MulmoChat
 
-⭐ 180 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/receptron/MulmoChat) · 组织维护
+⭐ 180 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/receptron/MulmoChat) · 组织维护 · 中文 README
 
-**研究原型：多模态 AI 对话应用，画布呈现图像/地图/游戏**
+**多模态语音聊天研究原型：对话时画布上生成图像/地图/游戏**
 
-MulmoChat 是一个探索非文本流式对话的研究原型：用户通过语音或文本对话，同时在画布上获得图像、可探索地图与可玩游戏的输出，每种回答类型对应 GUI Chat Protocol 的一个插件。提供与厂商无关的文本生成 API（OpenAI/Anthropic/Gemini/Ollama），并集成 ComfyUI Desktop 实现本地图像生成（FLUX/SD 模型，参数自动选优）。用 TypeScript/Vue 构建，通过 yarn 安装依赖并运行开发服务器，配置各厂商 API key 后可用。
+TypeScript + Vue 构建的多模态 AI 聊天研究原型，探索非纯文本流式交互：用户持续语音对话的同时，画布上呈现图像、可交互地图与可玩游戏。每类回答以 GUI Chat Protocol 插件形式接入。文本生成 API 采用 provider 无关设计，支持 OpenAI、Anthropic、Google Gemini 与 Ollama；图像可经 ComfyUI Desktop 本地生成（FLUX/SD 模型）；语音可接 llama.cpp 运行本地 LFM3 Omni 2B 模型，该模式无需云端 API key。歌声合成依赖需自行安装的 NEUTRINO（可选）。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@ MulmoChat 是一个探索非文本流式对话的研究原型：用户通过语�
 
 ## 能力要点
 
-- 对话同时画布呈现图像、地图与可玩游戏，答案类型为 GUI Chat Protocol 插件
-- 厂商无关的文本生成 API：OpenAI/Anthropic/Google Gemini/Ollama
-- 集成 ComfyUI Desktop 本地图像生成，支持 FLUX/SD 模型并自动选参
-- 语音对话入口（浏览器麦克风权限）
+- 语音对话中画布同步呈现图像、地图与可玩游戏
+- provider 无关文本 API：OpenAI/Anthropic/Gemini/Ollama 统一接口
+- ComfyUI Desktop 本地图像生成集成（FLUX/SD 自动参数适配）
+- llama.cpp 本地语音模式（LFM3 Omni 2B），无需云端 LLM key
 
 ## 适用场景
 
-- 用语音与 AI 对话并直接在画布获得图像、地图等富内容
-- 本地通过 ComfyUI+FLUX 生成图像替代云端方案
-- 研究者参考其多模态聊天架构与插件设计模式
-- 通过统一文本 API 对多家厂商模型发起调用
+- 探索多模态对话界面与 generative UI 的设计模式
+- 为聊天应用开发新的 GUI 插件能力
+- 用本地模型搭建无需云端 API key 的语音助手实验环境
 
 ## 场景标签
 
-`多模态` `图像生成` · 领域:内容生成
+`语音 Agent` `图像生成` `多模态` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L3: **MulmoChat is a research prototype exploring a new paradigm for multimodal AI chat experiences.**
-> L48: Click the "Start Voice Chat", and start talking to the AI, which has a capability to generate images.
-> L52: MulmoChat now exposes a provider-agnostic text generation API that can be consumed by the client or external integr
+> L7: The key insight: **AI conversations don't have to be limited to text streams.** By designing an architecture where v
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `cbddb091ea06` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `33d15a151f35` · [字段定义](../../DATASET.md)*

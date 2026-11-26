@@ -1,10 +1,10 @@
 # VintLin/skill-flow
 
-⭐ 267 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/VintLin/skill-flow) · 个人维护
+⭐ 267 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/VintLin/skill-flow) · 个人维护 · 中文 README
 
-**跨编码 Agent 的技能安装与管理工具（CLI + macOS 桌面端）**
+**跨编程 Agent 统一安装与管理 skills 的 CLI/桌面工具**
 
-面向使用多种编码 Agent 的开发者：以 npm CLI 和 macOS 15+ SwiftUI 桌面应用两种形式，统一导入、部署、更新和卸载 AI agent 技能。支持从本地目录、GitHub、HTTPS/SSH Git URL 及 skills.sh（clawhub）导入技能源，按技能组一次性部署到 32 个内置目标（Claude Code、Codex、Cursor、Copilot 等）。状态由 manifest.json（意图）与 lock.json（实际安装）双文件管理，提供 doctor/repair-* 诊断修复命令和版本化 JSON bridge 协议。macOS 桌面版提供 dmg 发布包，未配置 Apple 开发者证书需手动处理隔离属性。
+面向使用多种编码 Agent 的开发者，将分散的 AI agent skills 以工作流组为单位统一管理：从 skills.sh、GitHub、本地目录等来源导入，一次部署到 32 个内置目标（Claude Code、Cursor、Copilot 等），用 manifest.json/lock.json 双文件记录意图与实际部署状态，并提供 doctor/repair 系列命令诊断漂移与修复状态。提供 npm 安装的 Ink 交互式 CLI（需 Node.js 22+）与 macOS 15+ 的 SwiftUI 桌面应用，桌面端通过版本化 JSON bridge 协议与 CLI 通信。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 统一导入模型覆盖本地/Git/skills.sh 三类技能源
-- 一次部署到 32 个内置编码 Agent 目标
-- manifest/lock 双文件显式状态管理与 repair/doctor 修复命令
-- macOS 桌面应用含安全退出恢复与菜单栏快捷配置
+- 一次将所选 skill 集合部署到 32 个内置 Agent 目标
+- manifest.json 与 lock.json 显式记录期望与实际部署状态
+- doctor 与 repair-source/state/targets 诊断与修复命令
+- Ink 交互式 TUI 与 skill-flow bridge --json 机器协议
 
 ## 适用场景
 
-- 同时在多个编码 Agent 间安装和同步技能
-- 批量管理 GitHub 技能仓库的导入、选择与更新
-- 诊断和修复技能部署漂移问题
+- 在多个编码 Agent 中同步部署同一组 skills
+- 管理来自 skills.sh 与 GitHub 的技能组更新，避免版本漂移
+- 排查和修复各 Agent 目标目录中失效的技能部署
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+ · 领域:开发工具/Agent 技能管理
 
 ## 证据(README 行号)
 
 > L13: Install, manage, and share skills across every major coding agent — Claude Code, Cursor, Grok Build, Copilot, Kimi 
-> L33: - **Grouped source management**: local, Git, and skills.sh sources all flow through the same import model.
 > L34: - **Multi-agent deployment**: deploy one selected skill set to Claude Code, Codex, Cursor, Grok Build, Gemini CLI, 
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `08a648c6d3a8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3eced352effb` · [字段定义](../../DATASET.md)*

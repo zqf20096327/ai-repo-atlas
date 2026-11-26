@@ -2,9 +2,9 @@
 
 ⭐ 4,551 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA/SkillEvaluator) · [官网](https://docs.nvidia.com/skills/skillevaluator/) · 组织维护
 
-**评估 AI agent 技能与插件质量的 CLI 与 CI 框架**
+**评测 AI agent 技能/插件质量的 CLI 与 CI 门禁框架**
 
-NVIDIA 出品的命令行工具与可复用 CI 模板集合，用于检查遵循 Agent Skills 规范的技能文件夹：Tier 1 静态验证（质量评分、模式/版本/PII/许可证/脚本检查、SkillSpector/Gitleaks/Bandit 等安全扫描、harness 兼容性检查）、Tier 2 语义重叠去重、Tier 3 沙箱内实测技能对 agent 行为的影响。静态检查无需 LLM key，全量运行需 NVIDIA Build key 与 Docker。通过 pip 或 uv 安装，支持 GitHub/GitLab CI 集成。
+面向编写 agent 技能与插件的开发者，提供三层评估管线：Tier 1 静态校验（500+ 规则覆盖质量、schema、PII、许可证、安全扫描与 harness 兼容性检查，无需 LLM key）；Tier 2 基于嵌入的语义重复检测；Tier 3 通过沙箱中的真实 agent 运行衡量技能对任务结果的影响（skill lift）。以 Python CLI（PyPI/uv）发布，提供 GitHub/GitLab 可复用 CI 模板，并属 NVIDIA Verified Skills 管线的一部分。全量运行需 NVIDIA Build key、外部扫描器与 Docker。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ NVIDIA 出品的命令行工具与可复用 CI 模板集合，用于检查遵循
 
 ## 能力要点
 
-- 500+ 静态规则的三层评估：验证、去重、live agent 实测
-- harness 兼容性检查判断 Claude Code/Codex 等能否加载技能
-- CI 模板自动生成质量与安全门禁（GitHub/GitLab）
-- 静态检查无需 LLM key、GPU 或 Docker
+- 三层评估：静态校验、语义去重、live agent 影响评测
+- Tier 1 质量检查无需 API key、GPU 或 Docker，输出 100 分制评分
+- harness-check 判定技能能否被 Claude Code/Codex 等 agent 正确加载
+- GitHub/GitLab CI 模板与 skillevaluator ci init 一键接入
 
 ## 适用场景
 
 - 技能合并前在 CI 中拦截质量与安全问题
-- 检测技能在 agent 间是否存在重复或语义重叠
-- 评估某技能对 agent 任务结果的增益
+- 检测多个技能间的语义重复与重叠
+- 用带/不带技能的对照运行衡量技能实际收益
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ NVIDIA 出品的命令行工具与可复用 CI 模板集合，用于检查遵循
 ## 证据(README 行号)
 
 > L17: SkillEvaluator checks AI agent skills and plugins, and measures a skill's effect
-> L109: `skillevaluator validate` includes Harness Check in Tier 1 alongside **quality,
+> L26: Agent Skills specification. SkillEvaluator is part of
+> L207: |Tier 1: Validation|Is the skill safe, well-formed and harness-compatible?|`skillevaluator tier1 ./my-skill --no-l
 > L210: |Tier 3: Live Agent Evaluation|Does the skill help the agent?|`skillevaluator tier3 ./my-skill`|Provider access, a
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b7b6349e9ab1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `0f2220d650bf` · [字段定义](../../DATASET.md)*

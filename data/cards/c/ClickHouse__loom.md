@@ -2,9 +2,9 @@
 
 ⭐ 226 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ClickHouse/loom) · [官网](https://loom.clickhouse.com/docs) · 组织维护 · 中文 README
 
-**为 AI agent 提供共享长期记忆、文档检索与代码索引的自托管服务**
+**给 AI 编码 agent 提供共享长期记忆、文档检索与代码索引的 MCP 服务器**
 
-ClickHouse 出品的开源自托管 MCP 服务器：让多个 agent 共享长期记忆，记忆关联到文件与符号，在 agent 读写代码时浮现；提供带引文的文档检索（支持 PDF/docx/pptx）、代码索引、任务收件箱与多用户命名空间/令牌控制。数据存于 ClickHouse，可选 Postgres。经 Docker 安装脚本或 Helm 部署，默认本地嵌入模型可无密钥启动，通过 Python/TypeScript SDK 或插件接入 Claude Code、Codex、Cursor、VS Code。
+开源、可自托管的 MCP 服务器，为多个 agent 提供跨会话共享的长期记忆：记忆与代码文件、符号关联，在 agent 读取或编辑相关代码时浮现，并随重构迁移、变更时标记冲突。另提供带引用的文档检索（支持 PDF/DOCX/PPTX）和可查询定义、调用者、变更影响的代码索引。通过 MCP、HTTP、Python/TypeScript SDK 接入，提供 Claude Code、Codex 插件与 Cursor/VS Code 集成，数据存于 ClickHouse，Docker 或 Helm 部署，支持命名空间、角色与令牌的多用户模式。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ ClickHouse 出品的开源自托管 MCP 服务器：让多个 agent 共享长期
 
 ## 能力要点
 
-- 跨 agent/跨会话的共享长期记忆，记忆链接到代码并随重构追踪
-- 带引用来源的文档检索（RAG），支持 PDF/.docx/.pptx
-- MCP server 及 Claude Code、Codex、Cursor、VS Code 插件，Python/TypeScript SDK
-- 自托管：Docker 安装脚本或 Kubernetes Helm chart，数据存于 ClickHouse
+- 记忆与代码位置关联，随重构追踪并在编辑时浮现
+- 带引用的文档检索（RAG），支持 PDF/DOCX/PPTX
+- 代码索引可查定义、调用者与变更影响
+- 多用户模式：命名空间、读写角色与令牌隔离
 
 ## 适用场景
 
-- 让团队多个编码 agent 共享跨会话的经验与项目上下文
-- 为自己的 agent 应用添加按用户的长期记忆
-- 对仓库建立代码索引供 agent 查询定义、调用方与变更影响
-- 多 agent 工作流中通过任务收件箱交接工作并保留审计记录
+- 让多个编码 agent 跨会话共享经验教训与项目上下文
+- 团队部署带权限隔离的多用户 MCP 记忆服务
+- 为 agent 应用提供按用户隔离的记忆 SDK
+- 检索内部文档并获得带出处的答案
 
 ## 场景标签
 
-`Agent 记忆` `RAG` · 领域:Agent 开发
+`Agent 记忆` `RAG` `语义搜索` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L26: Loom is an open-source, self-hosted MCP server that gives your agents long-term, shared
 > L31: Agents connect through MCP, HTTP, Python or TypeScript. Self-host with Docker or
-> L46: - **A multi-user MCP memory server** with namespaces, roles and tokens.
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b5e396e1bed5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d881c1f69cd0` · [字段定义](../../DATASET.md)*

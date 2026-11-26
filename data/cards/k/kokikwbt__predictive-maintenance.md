@@ -2,9 +2,9 @@
 
 ⭐ 177 · Jupyter Notebook · MIT · 推送 2026-11-10 · [GitHub](https://github.com/kokikwbt/predictive-maintenance) · 个人维护
 
-**预测性维护数据集的下载加载可视化 Python 工具包**
+**预测性维护研究数据集的下载/加载/可视化工具包**
 
-面向研究的 Python 工具包：提供统一 API 下载、加载与可视化预测性维护数据集（如 C-MAPSS），按数据集专属 loader 处理，按需下载、不做整包拉取。返回 Polars DataFrame/LazyFrame，带 Jupyter 内核注册与可视化函数。使用 uv 管理，要求 Python 3.14，自动创建锁定环境；IMS 数据集需要系统 libarchive 库（可选）。代码以 MIT 许可发布，各数据集有各自的使用条款。
+面向预测性维护研究的 Python 工具包：通过统一 API 与各数据集专属加载器，下载、加载并可视化维护类数据集，支持按需下载（如 cmapss，直连 URL 无需 Kaggle 登录）。加载结果为 Polars DataFrame/LazyFrame。安装基于 uv 与锁定 Python 3.14 环境，注册 Jupyter 内核；下载 IMS 数据集需可选的系统 libarchive。代码与文档采用 MIT 许可，数据使用条款另见各数据集 README。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 统一 API 的数据集专属 loader，按需下载
-- 返回 Polars DataFrame/LazyFrame
-- C-MAPSS 等数据集直接 URL 下载，无需 Kaggle 登录
-- 内置 sensor_trajectory 等可视化函数
+- 统一 API 的数据集下载/加载/可视化，按需下载
+- cmapss 等数据集直连 URL 下载，无需 Kaggle 登录
+- 加载器返回 Polars DataFrame/LazyFrame
+- uv 锁定环境与 Jupyter 内核一键配置
 
 ## 适用场景
 
-- 为预测性维护研究快速获取标准数据集
-- 在 JupyterLab 中浏览与可视化传感器退化数据
-- 按官方评分协议运行实验任务
+- 为 PHM/预测性维护研究获取公开基准数据集
+- 在 Jupyter 中浏览传感器轨迹等数据并做实验
+- 按任务列表查找数据集与评分协议
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+ · 领域:工业/科研数据集工具
 
 ## 证据(README 行号)
 
 > L1: # PdMData: Datasets for Predictive Maintenance
-> L3: A Python toolkit to download, load, and visualize predictive-maintenance
-> L4: datasets for research. Use a shared API with dataset-specific loaders; download
+> L6: A Python toolkit to download, load, and visualize predictive-maintenance
+> L7: datasets for research. Use a shared API with dataset-specific loaders; download
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `dabe3ee4f790` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9d580e12eb1c` · [字段定义](../../DATASET.md)*

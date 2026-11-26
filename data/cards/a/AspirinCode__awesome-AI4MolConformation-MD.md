@@ -2,9 +2,9 @@
 
 ⭐ 310 · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · 个人维护
 
-**面向计算化学研究者的 AI 分子构象与 MD 资源清单**
+**AI 生成分子构象与分子动力学研究的论文/数据集清单**
 
-一个 awesome 类论文/资源清单，收录使用生成式人工智能与深度学习生成分子（小分子、RNA、肽、蛋白质、酶、抗体、PPI）构象以及分子动力学力场相关的文献、数据集与软件包。按菜单组织：综述、数据集与包、分子动力学、力场、神经网络势，并按方法分类（AlphaFold、自回归、LSTM、Transformer、VAE、GAN、Flow、Diffusion、Score、GNN、LLM 等）。标注 GPL 许可，标注 Updating。
+面向分子构象生成与分子动力学方向的文献与资源聚合清单，覆盖小分子、RNA、多肽、蛋白质、酶、抗体及 PPI 等对象的构象与力场研究。按综述、数据集与软件包、分子动力学、神经网络力场、各类生成方法（VAE/GAN/Flow/Diffusion/Transformer 等）分类组织条目，主要收录论文引用、基准数据集链接与个别 Python 包。内容持续更新中，README 仅提供分类索引与条目列表，不含安装或运行说明。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 按方法类型（GAN/VAE/Diffusion/Flow/GNN/LLM 等）分类收录文献
-- 覆盖多类分子对象：小分子、RNA、肽、蛋白质、酶、抗体、PPI
-- 收录数据集（OMol25、nablaDFT 等）与 Python 包条目
+- 按生成方法（AlphaFold/自回归/LSTM/Transformer/VAE/GAN/Flow/Diffusion 等）分类组织文献条目
+- 收录分子构象动力学数据集（PED、DynaRepo、OMol25、mdCATH 等）
+- 覆盖分子动力学、神经网络势、自由能微扰、量子化学等多个子方向
+- 附 Python 包 MMolearn 的链接
 
 ## 适用场景
 
-- 查找用生成模型做分子构象采样的论文线索
-- 查找机器学习原子间势与分子模拟基准数据集
-- 了解 AI4MD 领域的综述与研究现状
+- 查找分子构象生成与 AI4MD 方向的入门综述
+- 为机器学习势训练寻找公开基准数据集
+- 按生成模型类型浏览相关研究工作
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`科研工具` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: ## awesome-AI4MolConformation-MD
 > L4: List of **molecules ( small molecules, RNA, peptide, protein, enzymes, antibody, and PPIs) conformations** and **mol
-> L16: |Reviews|Datasets and Package|Molecular dynamics|Molecular Force Fields|
+> L10: ## Menu
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f8da71e14ac3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6b47d25e27bc` · [字段定义](../../DATASET.md)*

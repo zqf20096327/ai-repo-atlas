@@ -2,9 +2,9 @@
 
 ⭐ 262 · 推送 2026-11-24 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/awesome-unipds-projects) · 组织维护
 
-**UNIPDS 应用 AI 研究生课程学生原创项目策展清单**
+**UNIPDS 应用 AI 研究生课程学生原创项目的策展清单**
 
-UNIPDS 软件工程与应用 AI 研究生课程的学生原创项目展示清单，按 MCP 服务器、AI Agent、Web 应用与游戏、集成自动化、工具五类组织条目。每个条目标注编程语言/运行时、是否调用云 API、是否本地运行、是否集成多服务，并附作者。收录项目涉及 LangGraph、TensorFlow.js、MCP、RAG、Neo4j、浏览器端 Web AI 等技术，要求为全新创作而非课程练习复制。
+收录 UNIPDS「软件工程与应用 AI」研究生课程学生的原创项目，按 MCP 服务器、AI Agent、Web 应用与游戏、集成自动化、工具五类组织，每条附语言/运行时与部署范围标记（调用云 API、完全本地运行、多服务集成）。项目覆盖 LangGraph 多智能体、MCP 服务器、TensorFlow.js 浏览器端推理、RAG 管线等。清单要求条目为全新创作而非课堂练习复制品，通过 CONTRIBUTING.md 接受新增。
 
 ## 筛选速览
 
@@ -20,14 +20,15 @@ UNIPDS 软件工程与应用 AI 研究生课程的学生原创项目展示清单
 
 ## 能力要点
 
-- 按 5 个类别组织的学生项目条目
-- 每条目附语言/运行时、云/本地、集成度标签
-- 覆盖 MCP 服务器、AI Agent、浏览器端 ML 等项目类型
+- 按 MCP 服务器/AI Agent/Web 应用/集成/工具五类组织学生项目
+- 每条目标注语言运行时与部署范围（云端 API/本地运行/多服务集成）
+- 要求收录条目为原创作品，非课堂练习复制品
 
 ## 适用场景
 
-- 查找 UNIPDS 课程学生的原创 AI 项目
-- 了解课程产出中 MCP、Agent、Web AI 等方向的实践案例
+- 浏览该课程学生 AI 项目的实现方向与技术选型
+- 为 MCP 服务器或浏览器端 AI 应用寻找参考实现
+- 按本地运行/云端调用等范围标签筛选项目
 
 ## 场景标签
 
@@ -35,8 +36,8 @@ UNIPDS 软件工程与应用 AI 研究生课程的学生原创项目展示清单
 
 ## 证据(README 行号)
 
-> L1: /# Awesome UNIPDS Projects 🎓
 > L3: A curated list of original projects built by students of the **UNIPDS Software engineering with Applied AI** postgra
+> L27: ## Projects
 
 ## 星数曲线
 
@@ -52,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b8ebc17e7ec0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `68168139723d` · [字段定义](../../DATASET.md)*

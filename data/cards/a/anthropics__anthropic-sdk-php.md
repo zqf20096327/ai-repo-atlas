@@ -2,9 +2,9 @@
 
 ⭐ 201 · PHP · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/anthropics/anthropic-sdk-php) · 组织维护
 
-**PHP 开发者接入 Claude API 的官方 SDK**
+**在 PHP 应用中调用 Claude API 的官方 SDK**
 
-由 Anthropic 维护的 PHP SDK，为 PHP 应用提供访问 Claude API 的能力。通过 Composer 安装，要求 PHP 8.1.0+，并依赖 PSR-18 HTTP 客户端（未安装时可添加 Guzzle）。文档位于 platform.claude.com，采用 Apache 2.0 许可，早期版本及此前合并的第三方贡献保留 MIT 许可。
+Anthropic 官方维护的 PHP SDK，为 PHP 应用提供访问 Claude API 的客户端。通过 Composer 分发，依赖 PSR-18 HTTP 客户端（未安装时可加装 Guzzle）。要求 PHP 8.1.0+。文档位于 platform.claude.com，README 提供最小调用示例。许可证为 Apache 2.0，早期版本及此前合并的第三方贡献仍保留 MIT 许可。
 
 ## 筛选速览
 
@@ -20,24 +20,24 @@
 
 ## 能力要点
 
-- PHP 应用访问 Claude API 的官方 SDK
-- Composer 安装（anthropic-ai/sdk ^1.13.0）
-- 依赖 PSR-18 HTTP 客户端，可选搭配 Guzzle
-- Apache 2.0 许可，早期版本保留 MIT 许可
+- 通过 Composer 安装（anthropic-ai/sdk）
+- 依赖 PSR-18 HTTP 客户端，可选配 Guzzle
+- 要求 PHP 8.1.0+
+- Apache 2.0 许可，旧版本保留 MIT
 
 ## 适用场景
 
-- 在 PHP 项目中调用 Claude 模型 API
-- 为 PHP 后端应用接入 Anthropic 模型服务
+- 在 PHP 项目中接入 Claude API
+- 为现有 PHP 服务添加模型调用能力
 
 ## 场景标签
 
- · 领域:LLM 基础设施/SDK
+ · 领域:LLM 基础设施/客户端 SDK
 
 ## 证据(README 行号)
 
 > L5: The Anthropic SDK for PHP provides access to the Claude API from PHP applications.
-> L14: composer require "anthropic-ai/sdk:^1.13.0"
+> L14: composer require "anthropic-ai/sdk:^1.14.0"
 
 ## 星数曲线
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7dfc76ed2cbf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `cf1596fe6d29` · [字段定义](../../DATASET.md)*

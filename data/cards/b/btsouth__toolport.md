@@ -1,10 +1,10 @@
 # btsouth/toolport
 
-⭐ 246 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/btsouth/toolport) · [官网](https://toolport.app) · 组织维护
+⭐ 246 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/btsouth/toolport) · [官网](https://toolport.app) · 个人维护
 
-**MCP 本地网关桌面应用：一次配置服务器，供所有 AI 客户端使用**
+**为多种编码 agent 提供统一配置检查与 MCP 网关的工具**
 
-免费桌面应用与本地 MCP 网关：在本机扫描已安装的 AI 客户端并导入其服务器配置，为各客户端提供单一 Toolport 入口，支持访问集控制各客户端可达的服务器。密钥存入操作系统钥匙串，对工具定义做固定与变更标记，默认 Ask 级别拦截破坏性调用，Strict 级别隔离被改动的工具并阻断检测到的注入。对全量加载工具定义的客户端提供按需工具搜索以减少输入 token。支持 Windows/macOS/Linux 安装包、Arch pacman 仓库、Docker 无头网关，以及 Teams 团队同步（Pro/托管或自托管）。
+面向在机器上使用 Claude Code、Codex、Cursor、OpenCode 等 40+ 编码 agent 的开发者：各 agent 各自维护 MCP server、skills、rules 文件与凭证，Toolport 通过 npx CLI 一次性扫描明文密钥、M 配置漂移、失效 skill 链接与启动 token 占用，并支持 --fix 修复、toolport.toml 仓库级配置、usage 离线分析本地会话转录。桌面应用提供本地 MCP 网关、OS 钥匙串存密、工具定义固定与注入检测；Teams 版支持团队共享配置。MIT 许可。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `None` |  |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 一次配置 MCP 服务器，40+ 客户端（Claude Code、Codex、Cursor、VS Code 等）共用
-- API 密钥移入 OS 钥匙串，工具定义固定、变更标记与隔离
-- 访问集控制各客户端可达服务器；按需工具搜索减少输入 token
-- Pro 同步多机配置；Teams 支持托管与自托管的策略共享
+- 单条 npx 命令扫描本机全部 agent 的密钥、漂移、skills 健康与 turn-0 token 预算
+- toolport.toml 仓库清单：克隆后 toolport up 即可还原全部 agent 配置
+- 本地 MCP 网关：一处配置，所有 agent 经同一入口访问，含访问集控制
+- 安全机制：密钥移入 OS 钥匙串、工具定义固定、注入检测与 Ask/Strict 审批级别
 
 ## 适用场景
 
-- 统一管理多个 AI 客户端的 MCP 服务器配置
-- 把 API 密钥从明文配置迁移到系统钥匙串
-- 监控并审批工具的破坏性调用与定义变更
-- 团队共享服务器配置与策略，各成员保留自有凭据
+- 检查本机多个编码 agent 的 MCP 配置是否漂移或泄漏密钥
+- 为仓库提交统一的 agent 配置清单供团队复用
+- 分析各 agent 会话的 token 构成与缓存健康
+- 用本地网关集中管理 MCP server 并控制各 agent 的访问范围
 
 ## 场景标签
 
- · 领域:AI 基础设施/MCP 工具链
+ · 领域:开发者工具/AI agent 基础设施
 
 ## 证据(README 行号)
 
-> L11: Toolport is a free desktop app and local gateway for MCP, the protocol that gives
-> L12: AI apps tools like GitHub, Linear and databases. Add a server once and Claude Code,
-> L65: - Headless gateway and Docker
+> L12: Claude Code, Codex, Cursor, OpenCode and 40+ other agents each keep their own MCP
+> L38: |`npx @toolport/cli`|Check every agent: secrets on disk, MCP drift, skills and rules health, turn-0 token budget|
+> L94: - **A local gateway for MCP.** Add a server once and every agent reaches it through
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `57dea12d44ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b45a26bef3e2` · [字段定义](../../DATASET.md)*

@@ -34,7 +34,7 @@ Kortix CompanyOS 将企业的数据源、agent、技能、记忆与连接器收�
 
 ## 场景标签
 
- · 领域:企业级 AI agent 平台/基础设施
+`多智能体` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 

@@ -2,9 +2,9 @@
 
 ⭐ 4,502 · Shell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nyldn/claude-octopus) · [官网](https://reddit.com/r/ClaudeOctopus/) · 个人维护
 
-**Claude Code 多模型协同插件：多模型交叉审查任务**
+**给 Claude Code 用户的十二家模型多意见评审与共识门插件**
 
-一个 Claude Code 插件（也可装到 Codex CLI、Cursor MCP、OpenCode、Factory Droid 等宿主），在同一任务上调用多个 AI 模型并汇总体、对齐分歧，提供 75% 共识门槛在交付前标记不一致。内置 31 个角色化 agent、56 个斜杠命令、64 个技能模块，默认休眠、需 /octo:* 显式调用；支持 12 个外部模型服务接入与跨会话记忆集成。要求 Claude Code v2.1.14+，MIT 许可，支持 Linux/macOS，Windows 需 WSL 或 SSH。
+以 Claude Code 插件形式安装的多模型工作流集合：默认休眠，仅通过显式 /octo:* 命令激活；可在同一研究、设计或编码任务上调用多个外部模型，用 75% 共识门标记分歧。提供 31 个角色 persona、56 个斜杠命令、64 个技能模块，并集成 claude-mem 等 persistent memory 组件。零外部 provider 也可运行；支持 Codex、Cursor（MCP）、OpenCode 等宿主，Windows 需经 WSL 或 SSH。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 12 个外部模型服务集成 + 内置 Claude 宿主，零外部依赖即可起步
-- 75% 共识门槛在交付前标记模型间分歧
-- 31 个角色 agent、56 个命令、64 个技能，默认休眠、显式调用
-- 支持 claude-mem/agentmemory/deja-vu 跨会话记忆与 Dark Factory 全流程自动化模式
+- 12 个外部 provider 集成与 75% 共识门标记模型分歧
+- 31 personas / 56 命令 / 64 skills 的显式激活工作流
+- Dark Factory 模式从规格自主运行 research→deliver 流水线
+- 同一插件支持 Claude Code、Codex、Cursor(MCP)、OpenCode、Droid 宿主
 
 ## 适用场景
 
-- 提交代码前用多模型交叉审查设计或实现
-- 让多个模型对同一研究任务给出意见并对比分歧
-- 在 Claude Code/Codex/Cursor 中统一接入多个模型服务工作流
+- 上线前让多个模型交叉评审代码找出分歧点
+- 需要更严格的多模型审查流程替代单模型 review
+- 跨会话保留研究决策与上下文的开发工作流
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+`工作流自动化` `编码 Agent` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L3: Every AI model has blind spots. Claude Octopus supports twelve external provider integrations — Codex, Antigravity C
 > L17: 🐙 **Research, build, review, and ship — with twelve external providers checking the host's work.** Claude-native ha
-> L25: 🐙 **31 specialized personas** (role-specific AI agents like security-auditor, backend-architect), **56 commands** (
+> L55: Code's native manual-invocation gate. Start it with `/octo:*`.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8cd48a297675` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c831df88f0b0` · [字段定义](../../DATASET.md)*

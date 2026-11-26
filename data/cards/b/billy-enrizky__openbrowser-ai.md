@@ -2,35 +2,35 @@
 
 ⭐ 279 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/billy-enrizky/openbrowser-ai) · [官网](https://docs.openbrowser.me/) · 个人维护
 
-**面向开发者的 LLM 驱动浏览器自动化框架，用 CDP 执行网页操作**
+**开发者用 LLM 编写代码驱动的浏览器自动化框架**
 
-OpenBrowser 是一个 Python 编写的智能浏览器自动化框架，通过 Chrome DevTools Protocol 直接通信，采用 CodeAgent 架构：LLM 生成 Python 代码并在持久化命名空间中执行，自主完成网页导航、交互与信息提取。支持截图视觉理解、会话录制回放（导出 Jupyter/爬虫代码）、MCP Server 接入多种 AI 助手、CLI 守护进程与插件系统。要求 Python 3.12+，自动检测本地 Chromium 系浏览器，提供托管云版（cookie 保存与定时任务）的等待名单。
+基于 CDP（Chrome DevTools Protocol）直连与 CodeAgent 架构的浏览器自动化框架：LLM 在持久化命名空间中生成并执行 Python 代码，完成网页导航、交互与信息提取。提供 CLI（含常驻 daemon、批量抓取、无浏览器 HTTP 模式）、MCP Server（供 Claude Desktop/Claude Code 等调用）、工作流录制回放、视频录制、插件系统与 8 个引导技能。支持 15 个 LLM 提供商，自动检测本机 Chromium 系浏览器，要求 Python 3.12+。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- CodeAgent 架构：LLM 在持久化 Jupyter 式命名空间中编写并执行浏览器自动化代码
-- 直接使用 Chrome DevTools Protocol 通信
-- 支持 15 家 LLM 提供商（含本地 Ollama）
-- MCP Server 与 Claude Code 插件（8 个引导技能）
+- CodeAgent 架构：LLM 在持久 Jupyter 式命名空间中写 Python 代码执行自动化
+- 原生 CDP 通信与 CLI 常驻 daemon（-c 直接执行代码，10 分钟自动关闭）
+- MCP Server 供 Claude Desktop、Claude Code、Codex 等接入
+- 批量抓取 scrape_pages 支持并发上限与 --no-browser 轻量 HTTP 模式
 
 ## 适用场景
 
-- 自动抓取电商商品信息
-- 自动完成机票预订等网页操作流程
-- 自动填写网页表单
-- 作为 Claude Code/Claude Desktop 的浏览器操作技能
+- 自动抓取电商商品数据并批量导出 JSON/JSONL
+- 让 LLM 自动完成订票、表单填写等网页流程
+- 把浏览器自动化能力通过 MCP 接入 Claude Code 等 AI 助手
+- 录制并回放浏览器工作流，导出为 Jupyter notebook 或爬虫代码
 
 ## 场景标签
 
@@ -40,7 +40,7 @@ OpenBrowser 是一个 Python 编写的智能浏览器自动化框架，通过 Ch
 
 > L32: OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgen
 > L42: - **CodeAgent Architecture** - LLM writes Python code in a persistent Jupyter-like namespace for browser automation
-> L45: - **15 LLM Providers** - OpenAI, Anthropic, Google, Groq, AWS Bedrock, Azure, Ollama, DeepSeek, Cerebras, OpenRoute
+> L47: - **MCP Server** - Model Context Protocol for Claude Desktop, Claude Code, Codex, OpenCode, and other AI assistants
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 low · 依据 README sha `2a2afbe9bac2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `3a9148a3b8c2` · [字段定义](../../DATASET.md)*

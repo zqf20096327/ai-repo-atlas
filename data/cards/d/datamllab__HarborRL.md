@@ -2,9 +2,9 @@
 
 ⭐ 325 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/datamllab/HarborRL) · 组织维护 · 中文 README
 
-**面向开发者的工具使用型 Agent 强化学习训练框架**
+**轻量级 Agent 强化学习训练框架：在沙箱可验证任务上训练工具使用型 Agent**
 
-HarborRL 是一个轻量级的 Agentic RL 框架，将模型服务、轨迹生成、工具执行、验证器奖励与策略更新整合为可复现流水线，用于在沙箱化可验证任务上训练工具使用型 Agent。实验按模型×算法×任务×Harness 四维组合：模型支持 Qwen 与 GLM，算法支持 GRPO 与 DAPO，任务为 200+ Harbor 格式任务，Harness 兼容 40+ 框架。提供 CLI 与本地 Web 控制台完成配置、校验、试运行与训练启动；CPU 开发安装无需 CUDA、Docker 或模型权重。
+HarborRL 将模型服务、轨迹生成、工具执行、验证器奖励与策略更新整合为一条可复现的训练流水线，用于训练工具使用型 Agent。支持模型（Qwen、GLM）、算法（GRPO、DAPO）、任务（200+ Harbor 格式任务，含 Terminal-Bench、SWE-Bench）、harness（40+ 框架，含 Claude Code、Codex、LangGraph）四个维度的组合，提供 CLI 与本地 Web 控制台做配置、校验、dry-run 与启动，默认 CPU 安装不依赖 CUDA/Docker/模型权重。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@ HarborRL 是一个轻量级的 Agentic RL 框架，将模型服务、轨迹生�
 
 ## 能力要点
 
-- 模型×算法×任务×Harness 四维组合（200+ 任务、40+ Harness）
-- GRPO 与 DAPO 训练算法，统一 Slime 流水线
-- CLI 与本地 Web 控制台，支持配置校验与 dry-run
-- CPU Hello World 示例无需 GPU 与模型推理
+- Models × Algorithms × Tasks × Harnesses 四维组合的训练配置
+- 200+ Harbor 格式沙箱任务与 40+ harness 框架接入
+- 默认 CPU 开发安装无需 CUDA、Docker、模型权重
+- 离线配置向导、本地 Web 控制台与 doctor 配置校验
 
 ## 适用场景
 
-- 在 Terminal-Bench、SWE-Bench 等沙箱任务上训练工具使用型 Agent
-- 用 GRPO/DAPO 对 Qwen、GLM 基座做数学推理 RL 训练
-- 配合 Claude Code、SWE-agent 等 Harness 框架做 RL
-- 离线配置向导与 Web 控制台管理训练部署
+- 在数学推理等可验证任务上对 Agent 做 RL 训练
+- 组合不同 base 模型、算法与 harness 框架做实验
+- 本地 Web 控制台演示任务的执行与奖励检查
 
 ## 场景标签
 
-`Agent 框架` `强化学习` · 领域:Agent 开发
+`强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L26: HarborRL is a lightweight framework for training tool-using agents on verifiable, sandboxed tasks. It makes model s
-> L28: HarborRL supports flexible combinations of **Models × Algorithms × Tasks × Harnesses (MATH)**:
-> L33: - **Harnesses:** RL training with **40+** harness frameworks, including Claude Code, Codex, LangGraph, SWE-agent, a
+> L28: HarborRL is a lightweight framework for training tool-using agents on verifiable, sandboxed tasks. It makes model s
+> L30: HarborRL supports flexible combinations of **Models × Algorithms × Tasks × Harnesses (MATH)**:
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `289d4f211f88` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c08d32b86aa0` · [字段定义](../../DATASET.md)*

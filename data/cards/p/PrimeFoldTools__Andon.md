@@ -2,9 +2,9 @@
 
 ⭐ 170 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PrimeFoldTools/Andon) · [官网](https://primefold.tools) · 个人维护
 
-**面向 AI agent 协作的精益质量体系工具包：把缺陷转为防错机制**
+**为 AI 编程 agent 提供缺陷记录与防误报 done 的 hook 工具集**
 
-由制造业操作员个人维护的开源操作套件，将丰田生产系统（Andon/Poka-yoke/Kaizen）纪律移植到 AI 辅助开发中。内容为纯 Markdown 模板加少量仅依赖标准库的 Python 脚本（claim-check 与 auto-orient 两个 hook）：Layer 1 提供结构化记忆文件缓解 agent 遗忘；Layer 3 的 Stop hook 在回合结束时检测完成声明并核验同会话验证记录，默认 warn 模式。README 详细列出了已知绕过路径与局限，包括 agent 伪造记录、命令行语法绕过等。
+借鉴丰田安灯机制的 AI 辅助开发质量工具：四层结构从记忆文件（MEMORY.md）、指令与错误日志、Stop/UserPromptSubmit/PreToolUse 三类 hook，到多 agent 团队与并行会话管理。核心 claim-check hook 检测完成声明并核对同会话验证记录，未通过可阻止 agent 声称完成；以 Claude Code/Codex 插件形式安装，或手动复制模板。纯 Markdown + 标准库 Python 脚本，无第三方依赖。README 明确声明其验证机制基于词元重叠，不构成实际工作的证明。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- claim-check hook 检测完成声明并核验验证条目，拦截虚假 done
-- 四层渐进结构：记忆文件→CLAUDE.md 指令→hook→操作者系统
-- DEFECT_LEDGER.md 记录缺陷→根因→对策→结果
-- 仅 Markdown + 标准库 Python 脚本，无依赖、无账号
+- claim-check Stop hook：完成声明需有同会话验证记录，支持 warn/block 模式
+- pipe-guard hook 拦截隐藏退出状态的测试命令（默认关闭，重放数据显示约 1/24 Bash 调用会触发）
+- 四层渐进结构：记忆文件 → 指令日志 → hooks → agent 团队与并行会话
+- 纯 Markdown 与标准库 Python，无依赖、无账号
 
 ## 适用场景
 
-- 让 AI agent 跨会话记住项目决策与约定
-- 拦截 agent 未验证即宣称完成的回合
-- 以缺陷台账方式积累并防错 agent 反复犯的错误
+- 让 Claude Code/Codex 在声称完成前留下验证记录
+- 为长期项目维护 agent 每次会话可读取的记忆文件
+- 把反复出现的 AI 编码错误转化为可复检的 hook 或测试
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L108: |**3 — The hooks**|claim-check (catches false "done") + auto-orient (loads memory at start)|30 min|False "done" + 
-> L116: - **Opt-in: evidence from the harness, not the agent (`CLAIM_CHECK_EVIDENCE=tool`).** Instead of the agent's own l
+> L90: - **Hooks, on at once:** the claim-check Stop hook in **warn** mode, the auto-orient UserPromptSubmit hook (it read
+> L128: |Open models|run Claude Code or Codex against a local model|the same as that app|
+> L164: |Layer|You add|Time|Fixes|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `ca65511efbbd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1a3ac9e47cc2` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # meangrinch/MangaTranslator
 
-⭐ 383 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/meangrinch/MangaTranslator) · 个人维护
+⭐ 383 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/meangrinch/MangaTranslator) · 个人维护 · 中文 README
 
-**一键翻译漫画/韩漫/国漫页面的桌面应用，支持 60+ 语言**
+**一键翻译漫画/韩漫/国漫页面的 AI 应用**
 
-面向漫画读者的自动化翻译应用：检测气泡内与气泡外文本（YOLO、SAM 2.1/3），用扩散模型 inpainting（FLUX.2 Klein / FLUX.1 Kontext）或 OpenCV 还原背景，经 OCR 与 LLM 翻译为 60+ 语言后用自定义字体排版嵌回页面，另提供文字区域与整页放大。翻译后端可在 Web UI 中选择云服务商（Google、OpenAI、Anthropic、DeepSeek 等）或本地 OpenAI 兼容端点。提供便携包（Windows 无额外要求，Linux/macOS 需 Python 3.10+ 与 Git）与源码安装两种方式，界面含 Gradio Web UI 与 CLI，支持单图、文件夹与 ZIP/CBZ 批量处理。
+基于 ML 模型的漫画翻译桌面/命令行应用：检测气泡内与气泡外文本（YOLO、SAM），用扩散模型修复去除原文，经 OCR 与 LLM 翻译后按 60+ 语言重新排版。提供 Gradio Web UI 与 CLI 两种界面，支持单图、文件夹与 ZIP/CBZ 批量处理，附带超分辨率与自定义字体渲染。Windows 提供免安装包，Linux/macOS 或全部平台可从源码运行（Python 3.11+），翻译需配置云端 LLM API key 或本地 OpenAI 兼容端点。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 语音气泡与气泡外文本检测（YOLO、SAM 2.1/3）
-- 扩散模型 inpainting 还原背景（FLUX.2 Klein / FLUX.1 Kontext / OpenCV）
-- 60+ 语言 OCR 翻译，支持云 API 或本地 LLM 端点
-- Web UI 与 CLI 双界面，支持 ZIP/CBZ 批量处理
+- 一键翻译漫画页，覆盖气泡内外文本检测（YOLO/SAM 2.1/3）
+- 扩散模型修复去字（Fibo、FLUX 系列等六种选项）
+- OCR+LLM 翻译 60+ 语言，支持云端 API 或本地 LLM 端点
+- Web UI 与 CLI 双界面，支持 ZIP/CBZ 批量与仅清洁模式
 
 ## 适用场景
 
-- 把日文/韩文漫画页面一键翻译成中文或英文阅读
-- 漫画汉化组批量处理整卷页面并保留目录结构
-- 仅清除文字保留背景供手工嵌字（Cleaning-only 模式）
+- 一键翻译日漫/韩漫/国漫页面生成可读版本
+- 扫描组批量处理整话 ZIP/CBZ 并保留目录结构
+- 仅去字不翻译，用于手动嵌字流程
 
 ## 场景标签
 
-`图像视频处理` `OCR` · 领域:感知与多模态
+`图像视频处理` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `c1f27b0fd2f2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8cb4aa9c57df` · [字段定义](../../DATASET.md)*

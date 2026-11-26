@@ -2,9 +2,9 @@
 
 ⭐ 235 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/InferMatrixLab/vllm-rlt) · 组织维护 · 中文 README
 
-**面向循环语言模型的循环级调度推理与服务引擎**
+**面向循环语言模型的独立推理与服务引擎**
 
-一个独立的循环语言模型推理与服务引擎：调度器按单个循环级别分配请求，不同深度的请求可共享批次而非等待整批完成。采用 Stage/Loop 架构，提供波前分块预填充（WCPB）、实验性 token 级自推测解码、深度感知分页 KV 缓存，以及 Python API、CLI 和 OpenAI 兼容的 completions 流式端点。当前为研究/评估里程碑，默认同步执行，高级模式为可选且受模型约束。
+受 vLLM 架构启发但独立运行的推理与服务引擎，针对循环语言模型：按循环层级做连续批处理，让不同深度的请求共享批次，包含 Stage/Loop 架构、wavefront chunked prefill（WCPB）、实验性 token 级解码流水线、深度感知分页 KV 缓存与早退门控。提供 Python API、CLI 与流式 OpenAI 兼容 completions 端点（非 chat-completions）。v0.2.0 为研究/评估里程碑，高级功能需显式开启且有模型特定约束；服务器无内置认证或 TLS。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 循环级连续批处理：不同深度请求共享批次
-- WCPB 分块预填充与实验性 token 级解码流水线
-- 深度感知分页 KV 缓存（LAST_EXITED/SHARED 布局）
-- Python API、CLI 与 OpenAI 兼容 completions 流式端点
+- 循环级连续批处理：不同深度的请求共享批次而非等待整批完成
+- Stage/Loop 架构统一 prefill 与 decode 的调度与执行
+- 深度感知分页 KV 缓存（LAST_EXITED/SHARED 布局、前缀复用、抢占）
+- Python API、CLI 与流式 OpenAI 兼容 completions 端点
 
 ## 适用场景
 
-- 运行 Ouro、Huginn 等循环语言模型的推理
-- 在共享批次中混排不同循环深度的请求
-- 研究深度自适应推理与提前退出策略
+- 对 Ouro/Huginn/Dory 等循环语言模型做离线推理
+- 部署 OpenAI 兼容的 completions 流式服务端点
+- 研究深度自适应推理与早退策略的质量影响
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L27: **vllm-rlt** is a standalone inference and serving engine for **recurrent
-> L30: to finish. Its engine organization is inspired by vLLM, but it runs independently
 > L71: - **Offline and online use:** Python API, CLI, and a streaming
+> L75: > **v0.2.0 is a research/evaluation milestone.** Default execution is synchronous;
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `dd52855385dc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `be6dc81a0995` · [字段定义](../../DATASET.md)*

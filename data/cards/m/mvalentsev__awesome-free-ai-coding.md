@@ -2,9 +2,9 @@
 
 ⭐ 275 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mvalentsev/awesome-free-ai-coding) · [官网](https://mvalentsev.github.io/awesome-free-ai-coding/) · 个人维护 · 中文 README
 
-**免费 LLM API 与编程代理的实时核验清单**
+**免费 LLM API 与编程 Agent 的自动核验清单（118 条优惠）**
 
-以数据清单形式维护的免费 AI 编码资源目录：收录 118 条免费额度/试用 offer（113 条无需信用卡）、143 个免费模型，其中 84 个兼容 OpenAI API 格式。核心机制是自动化探测管道：每周两次对各条目按厂商 API 或定价页进行存活核验，过期 offer 移入 Archive，验证日期链接到证据页。条目按编码代理/CLI、API、试用、聚合器等类别组织，并附模型评分对比图与接入配置说明。配套网站与搜索页。
+一份聚合免费 LLM API 与编程 Agent 免费套餐的清单：收录 118 条有效优惠（113 条无需信用卡）、143 个免费模型家族，其中 84 个提供 OpenAI 兼容接口。每条记录每周由自动探测程序对照厂商 API 或定价页核验两次，失效优惠移入 Archive，验证日期链接到证据。清单按编程 Agent/CLI、API、试用、聚合器等类别组织，附模型基准分数图表与按需求挑选指南。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 每周两次自动探测核验全部 offer 存活状态
-- 收录 118 条免费 offer 与 143 个免费模型家族
-- 84 个 OpenAI 兼容端点与代理接入配置（shell functions/profiles）
-- 按 Artificial Analysis 指数组织的模型评分对比图
+- 每周两次自动探测核验每条优惠的存活状态并留存证据链接
+- 收录 118 条有效优惠与 143 个免费模型家族，标注是否需信用卡
+- 提供 Claude Code / Codex CLI 免费通道的路由配置与连通性测试命令
+- 附 20 个免费模型的 Artificial Analysis 基准分数柱状图
 
 ## 适用场景
 
-- 为编码代理挑选免费可用的模型与接入通道
-- 查询某模型当前在哪些厂商处可免费使用
-- 监控免费 offer 的存续与失效情况
+- 为编程 Agent 找无需信用卡的免费模型通道
+- 对比各厂商免费套餐的模型与额度限制
+- 配置 Claude Code 或 Codex CLI 走免费路由
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `52c30950a579` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a6dc9c2fbdab` · [字段定义](../../DATASET.md)*

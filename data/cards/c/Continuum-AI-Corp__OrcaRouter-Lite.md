@@ -1,10 +1,10 @@
 # Continuum-AI-Corp/OrcaRouter-Lite
 
-⭐ 3,191 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) · [官网](https://www.orcarouter.ai) · 组织维护 · 中文 README
+⭐ 3,191 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Continuum-AI-Corp/OrcaRouter-Lite) · [官网](https://www.orcarouter.ai) · 组织维护
 
-**自托管 LLM 路由网关：OpenAI 兼容、多后端、自动选型与故障兜底**
+**给开发者和团队的自托管 LLM 路由网关：按 agent 计费封顶**
 
-OrcaRouter Lite 是 OrcaRouter 的开源单工作区版本，作为可自托管的服务运行：对外暴露 OpenAI Chat Completions、Anthropic Messages、Gemini 三种入站协议，按用户自带密钥（BYOK）路由到 OpenAI/Anthropic/Google 等提供商；支持 model="auto" 在满足能力要求的前提下选最便宜模型，提供路由策略（balanced/cheapest/fastest/quality）、跨提供商提示缓存、本地分析与单页仪表盘。默认 SQLite、无需 Postgres/Redis，可用作桌面本地服务或经 Docker/Railway/Fly.io 部署；另有需账号的托管版可作为兜底上游。设计上不含多租户、RBAC、计费等能力。
+OrcaRouter Lite 是开源（MIT）的自托管 LLM 路由网关，同时提供菜单栏桌面应用与服务器两种运行形态。它在本机 127.0.0.1 接收 OpenAI、Anthropic、Gemini 三种协议的请求，路由到用户自配的 provider 密钥（BYOK），支持 model="auto" 按能力要求选最便宜模型、跨 provider 故障转移、SSE 流式、按 agent 独立密钥拆分开销、每日预算告警与暂停。桌面应用携带引擎与本地 SQLite，无需另建服务；托管版 api.orcarouter.ai 可作为兜底上游，组织级功能（SSO/SCIM 等）仅存在于托管付费版。
 
 ## 筛选速览
 
@@ -12,25 +12,24 @@ OrcaRouter Lite 是 OrcaRouter 的开源单工作区版本，作为可自托管�
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 三种入站协议（OpenAI/Anthropic/Gemini）共用同一路由管线
-- model="auto" 按能力要求选最便宜模型，经响应头回传实际模型
-- 跨提供商确定性请求提示缓存（temperature=0 或固定 seed 命中零成本）
-- 提供商密钥 AES-256-GCM 加密存储与密钥轮换流程
+- 单端口同时支持 OpenAI、Anthropic、Gemini 三种入站协议
+- model="auto" 按能力（工具/视觉/JSON mode）自动选最便宜模型，返回 x-orca-resolved-model 头
+- 每个 agent 独立密钥，按 agent 拆分开销并支持每日预算告警与暂停
+- 模型目录启动时从 LiteLLM 社区定价数据库加载 100+ 模型
 
 ## 适用场景
 
-- 在自有服务后统一管理多家模型 API 密钥并做成本路由
-- Claude Code / Gemini SDK 等客户端直连本地网关使用多个提供商
-- 请求在本地记录与分析，不向外发送遥测
-- 本地提供商故障时用托管版兜底
+- 为 Claude Code、Codex 等编码 agent 统一设置每日预算与开销看板
+- 用自有 provider 密钥在本地或团队服务器自托管 LLM 网关
+- provider 失败或限流时自动故障转移到其他 provider 或托管版
 
 ## 场景标签
 
@@ -38,8 +37,9 @@ OrcaRouter Lite 是 OrcaRouter 的开源单工作区版本，作为可自托管�
 
 ## 证据(README 行号)
 
-> L33: OrcaRouter Lite is the open-source single-workspace edition of OrcaRouter. Run it on your laptop, ship it in your p
-> L202: - `POST /v1/chat/completions` — proxy + streaming + `model="auto"` + cross-provider prompt cache
+> L59: OrcaRouter Lite is the open-source edition of OrcaRouter. It runs on your computer or your server, speaks the OpenA
+> L210: Send `model="auto"` and OrcaRouter picks the **cheapest** model in your configured providers that meets the reques
+> L142: |**OrcaRouter Lite**|One developer up to a team that wants spend per agent, budgets and failover without new infra
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 mid · 依据 README sha `8e3efc4dd91b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a2feeef0b4a0` · [字段定义](../../DATASET.md)*

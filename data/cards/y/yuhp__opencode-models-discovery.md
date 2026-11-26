@@ -2,9 +2,9 @@
 
 ⭐ 226 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yuhp/opencode-models-discovery) · 个人维护
 
-**OpenCode 插件：从 OpenAI 兼容提供商自动发现并注入模型**
+**OpenCode 插件：自动发现 OpenAI 兼容供应商的模型列表**
 
-面向 OpenCode 用户的插件：查询提供商的模型列表端点（默认 /v1/models），应用可选过滤后把发现的模型自动注入 OpenCode 配置。支持 OpenCode v2 的 plugins/providers 集成与 /connect 凭据管理，保留 v1 适配器。可选的元数据丰富功能按多种格式（aiproxy、litellm、ollama、vllm 等）读取模型限制、推理、工具等字段；缓存默认关闭。要求已安装支持插件的 OpenCode 及至少一个 OpenAI 兼容提供商。
+面向 OpenCode 用户的插件：查询供应商的 /v1/models 端点，应用可选过滤器，把发现的模型自动注入 OpenCode。支持 OpenCode v2（主要集成路径，含 /connect 凭据、主机存储、刷新命令与模型控制台），并保留 v1 适配器用于旧配置。提供供应商级启用开关、端点覆盖、超时与模型过滤；元数据丰富为可选功能，支持 aiproxy、litellm、ollama、vllm、openrouter 等格式。通过 npm 分发，MIT 许可，非 OpenCode 官方构建。
 
 ## 筛选速览
 
@@ -21,19 +21,19 @@
 ## 能力要点
 
 - 从 /v1/models 或自定义端点动态发现模型并注入 OpenCode
-- 提供商级启用开关、端点覆盖、超时与模型过滤
-- 可选元数据丰富：限制、reasoning、tools、attachments、结构化输出等字段
+- 供应商级启用、端点覆盖、超时与 include/exclude 过滤
+- 可选元数据丰富，支持 10 种格式（litellm/ollama/vllm/openrouter 等）
 - v2 提供 /models-discovery-refresh、/models-discovery-console 命令与 agent 工具
 
 ## 适用场景
 
-- 让 OpenCode 自动发现本地 Ollama/vLLM/LM Studio 提供的模型
-- 多个 OpenAI 兼容提供商统一接入 OpenCode 时免去手动登记模型
-- 通过过滤规则只暴露特定模型子集给 OpenCode
+- 本地运行 Ollama/vLLM 时自动把模型列表接入 OpenCode
+- 多个 OpenAI 兼容供应商场景下统一发现并管理模型
+- 需要人类可读模型名与 limits/tools 等元数据补充的配置
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+ · 领域:LLM 基础设施/模型接入
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f865ecb46395` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c57385eef3c7` · [字段定义](../../DATASET.md)*

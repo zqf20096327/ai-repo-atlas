@@ -2,9 +2,9 @@
 
 ⭐ 191 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/habedi/cogitator) · [官网](https://habedi.github.io/cogitator/) · 个人维护
 
-**实验链式思考提示策略的 Python 工具库，供研究与集成**
+**帮助研究者与开发者实验思维链提示的 Python 工具库**
 
-提供统一同步/异步 API 的 Python 工具库，用于在 LLM 上实验和使用链式思考（CoT）提示方法，内置 Self-Consistency CoT、Automatic CoT、Least-to-Most、Tree of Thoughts、Graph of Thoughts 等多种策略实现，支持 OpenAI、Ollama、OpenRouter 作为 LLM 提供方，结构化输出经 Pydantic 校验，并附带可在 GSM8K、StrategyQA 等数据集上评估 CoT 策略的基准框架。面向研究者和希望将 CoT 策略集成进 AI 应用的开发者，以 PyPI 包或源码（Poetry）方式安装。
+Python 库，用于实验和使用大模型中的思维链（CoT）提示方法：提供统一的同步/异步 API、Pydantic 结构化输出校验，内置 Self-Consistency、Automatic CoT、Least-to-Most、Tree of Thoughts、Graph of Thoughts 等已发表策略的实现，并附带可定制的基准评测框架，可在 GSM8K、StrategyQA 等数据集上评估各策略。支持 OpenAI、Ollama、OpenRouter 作为 LLM 提供方，以 MIT 许可发布。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 统一 sync/async API 调用多种 CoT 策略
+- 内置 6 种已发表 CoT 策略实现（含 Tree/Graph of Thoughts）
+- 统一的同步/异步 API，Pydantic 结构化输出校验
+- 可定制的基准评测框架，覆盖 GSM8K 与 StrategyQA
 - 支持 OpenAI、Ollama、OpenRouter 作为 LLM 提供方
-- Pydantic 校验的结构化模型输出
-- 内置可扩展基准框架（GSM8K、StrategyQA 等数据集）
 
 ## 适用场景
 
-- 在我的研究中对比不同 CoT 提示策略的效果
-- 为 AI 应用集成 Least-to-Most 或 Tree of Thoughts 等推理策略
-- 在本地 Ollama 模型上运行 Self-Consistency CoT 示例
+- 在自己的数据集上对比不同 CoT 策略的效果
+- 将思维链策略集成进 AI 应用
+- 做推理过程可解释性的相关研究
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L17: Cogitator is a Python toolkit for experimenting and working with
-> L23: The toolkit aims to make it easier to use popular CoT strategies and frameworks for research or integrating them in
+> L14: Cogitator is a Python toolkit for experimenting and working with
+> L20: The toolkit aims to make it easier to use popular CoT strategies and frameworks for research or integrating them in
+> L26: * Supports using OpenAI, Ollama, and OpenRouter as LLM providers
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b40daaa4a9b4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `5a8ec249fedf` · [字段定义](../../DATASET.md)*

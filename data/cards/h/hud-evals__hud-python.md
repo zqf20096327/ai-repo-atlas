@@ -2,9 +2,9 @@
 
 ⭐ 333 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hud-evals/hud-python) · [官网](https://www.hud.ai) · 组织维护
 
-**为 AI agent 构建强化学习环境与评测的平台 SDK/CLI**
+**为 AI agent 构建 RL 环境与评测的平台**
 
-HUD 提供构建 agent 强化学习环境与评测的工具：以协议优先方式定义环境（manifest、tasks.start 返回 prompt、tasks.grade 返回奖励），通过模板函数生成任务数据集，用 CLI 打包部署并在任意模型上运行评测，每次评测记录为 trace。环境通过 ssh/mcp/cdp/rfb 四种能力暴露 shell、工具、浏览器与计算机操作接口，harness 在运行时接入所选模型。SDK 与 CLI 经 PyPI 安装，评测记录托管于 hud.ai 平台。
+HUD 提供一个协议优先的平台，用于为 AI agent 构建 RL 环境与评测，覆盖编码、浏览器与 computer-use 场景。核心机制是环境与 agent 之间仅交换 manifest、tasks.start（返回提示）与 tasks.grade（返回奖励）三件事，环境只暴露能力（ssh/mcp/cdp/rfb），任何 harness 或模型均可接入同一环境。任务以异步生成器模板定义，构建的镜像即任务产品，可经 hud deploy 部署到平台远程运行与对比。使用需在 hud.ai 获取 API key。
 
 ## 筛选速览
 
@@ -13,23 +13,23 @@ HUD 提供构建 agent 强化学习环境与评测的工具：以协议优先方
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 协议优先：manifest + tasks.start + tasks.grade 三要素衔接 agent 与环境
-- ssh/mcp/cdp/rfb 四种能力接口覆盖 shell、工具、浏览器与 computer-use
-- 原生接入 Claude、OpenAI、OpenAI 兼容端点与 Gemini，可自封装 harness
-- hud deploy 一步构建并注册环境，hud eval 支持本地与远程运行
+- 协议优先：manifest + tasks.start + tasks.grade 的薄封装协议
+- 四种能力协议：ssh、mcp、cdp（浏览器）、rfb（VNC computer-use）
+- 原生气 harness：Claude、OpenAI、OpenAI 兼容端点、Gemini，可自带 harness
+- hud deploy 一步构建并注册环境，评测 trace 记录在 hud.ai
 
 ## 适用场景
 
-- 为编码/浏览器/计算机操作类 agent 定义可复用的 RL 环境与任务集
+- 为编码或 computer-use agent 搭建可复用的 RL 训练环境
 - 在同一任务集上批量评测并对比多个模型
-- 训练时生成带奖励评分的 rollout（GRPO 等强化学习流程）
+- 通过模板函数生成覆盖整个数据集的任务变体
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `508bd3d3baa4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9a77287c7d43` · [字段定义](../../DATASET.md)*

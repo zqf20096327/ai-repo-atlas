@@ -2,9 +2,9 @@
 
 ⭐ 602 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/funes) · 组织维护
 
-**给 AI 编码 agent 建可检索持久记忆库，跨工具召回历史会话**
+**为 AI 编码 agent 提供跨会话持久记忆索引与召回**
 
-Rust 编写的命令行工具：将 Claude Code、Codex、pi、Hermes 等编码 agent 的历史会话索引为本地 Lance 数据集，解析为统一 turns 格式后分块、嵌入；召回时融合向量与 BM25 检索并用交叉编码器重排。记忆可作为数据集发布到 Hugging Face Hub，供其他机器或团队成员远程召回；发布前有凭证脱敏门控。内置本地嵌入与重排模型，无自有生成模型；提供预编译二进制安装，也可从源码构建（需 Rust 与 protoc）。
+funes 将 Claude Code、Codex、pi、Hermes 等编码 agent 的历史会话解析为统一 turns 格式，分块后写入本地 Lance 数据集并用固定本地模型嵌入；召回时融合向量与 BM25 检索，再经 cross-encoder 重排。记忆可发布为 Hugging Face 数据集仓库供他机或他人召回，发布时有凭据脱敏门控；也可借用 agent 对记忆提问获得标注来源的回答。本地嵌入/重排后端无 ML 运行时依赖，macOS 可用 Metal GPU。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Rust 编写的命令行工具：将 Claude Code、Codex、pi、Hermes 等编码 
 
 ## 能力要点
 
-- 跨多个 agent 的单一记忆，召回命中标注来源 agent
-- 向量+BM25 融合检索并用本地重排模型精排
-- 记忆发布为 Hugging Face Hub 数据集，支持 `funes ask` 借用 agent 生成有出处的回答
-- 发布门控自动脱敏凭证，数据集默认私有
+- 多个编码 agent 的会话索引进单一记忆，跨 agent 召回并标注来源
+- 本地记忆可发布为 Hugging Face 数据集，支持 push/recall 远程读取
+- 向量+BM25 融合检索并 cross-encoder 重排的确定性流水线
+- 发布门控自动脱敏凭据，数据集默认私有
 
 ## 适用场景
 
-- 让编码 agent 在任务中自动召回此前的决策与结论
-- 在 Claude Code 与 Codex 之间切换而保留完整工作历史
-- 把个人 agent 会话发布给团队或公开供他人查询
+- 让编码 agent 在任务中回忆此前的决策与结论
+- 跨机器、跨 agent 延续同一份工作记忆
+- 查阅并检索他人公开发布的项目过程记忆
 
 ## 场景标签
 
-`Agent 记忆` · 领域:Agent 开发
+`Agent 记忆` `语义搜索` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L3: **Durable memory for your AI coding agents.** `funes` indexes your past sessions across Claude
-> L150: is parsed into a generic turn/block shape, chunked, written to a local Lance dataset, and embedded
-> L151: with a pinned local model; recall fuses vector + BM25 search, and reranks the pool with a cross-encoder.
+> L5: **Durable memory for your AI coding agents.** `funes` indexes your past sessions across Claude
+> L86: Models work the same way. funes runs pinned local embedding and reranking models, but no generative
+> L153: with a pinned local model; recall fuses vector + BM25 search, and reranks the pool with a cross-encoder.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7679b61e0107` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `83901ab7f1e0` · [字段定义](../../DATASET.md)*

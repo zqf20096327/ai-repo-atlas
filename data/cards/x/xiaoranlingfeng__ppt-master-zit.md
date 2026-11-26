@@ -2,9 +2,9 @@
 
 ⭐ 180 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/xiaoranlingfeng/ppt-master-zit) · 个人维护 · 中文 README
 
-**ppt-master 的本机分支：AI 配图改走本地 ComfyUI 生成可编辑 PPTX**
+**本机 ComfyUI 配图的 PPT 生成技能分支，无需 API key**
 
-基于官方 ppt-master v6.7.0（MIT, Hugo He）的个人定制分支，整套可编辑 PPTX 生成工作流与上游一致，差异是图片后端新增本地 comfyui 并默认启用：通过 ComfyUI HTTP API 运行 Qwen-Image-2.1 文生图工作流（默认），可选 MOSS-Image SFT 与 Z-Image Turbo，无需 API key、提示词不出本机。保留上游云端后端；新增逐页访谈门禁 D0–D9、导出后逐页校验门禁、图片清单断点续跑等。以 agent 技能目录形式安装，需自备 ComfyUI 与本地 GPU；Qwen/MOSS 权重为非商业许可，不可商用。
+ppt-master v6.10.0 的定制分支，保留上游全部可编辑 PPTX 生成工作流，唯一差异是 AI 配图默认走本机 ComfyUI 的 Qwen-Image-2.1 文生图工作流（7B DiT int8 + Qwen3-VL 8B int8，原生 RGBA），另可按 deck 切换 MOSS-Image SFT 与 Z-Image Turbo 工作流。以 agent skill 形式交付：放入 agent 技能目录或由可执行 Python 的 agent 调用。含 D0–D9 访谈门禁、导出后 PDF 逐页检查门禁、提示词签名 sidecar 实现局部重绘。限制：Qwen/MOSS 权重许可禁止商业使用；图像生成依赖本地 GPU，实测 RTX 3080 Laptop 约 15–25 秒/张（1K、25 步）。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 本地 ComfyUI 图片后端，COMFY_MODEL=qwen|moss|zit 三档可切
-- Qwen-Image-2.1 默认工作流，原生 RGBA 透明图输出
-- ComfyUI 未启动时后端自动拉起整合包并打开 Web UI
-- 每 deck 一次的模型选择访谈门禁（D5）与导出后逐页校验
+- 本机 ComfyUI 配图后端：无需 API key，提示词不出本机
+- COMFY_MODEL=qwen|moss|zit 三套工作流按 deck 切换
+- ComfyUI 未启动时自动拉起集成包并打开 Web UI
+- 导出后经 soffice 转 PDF 并用 pymupdf 逐页核验的输出门禁
 
 ## 适用场景
 
-- 在无 API key、要求提示词不出本机的环境下生成带 AI 配图的 PPT
-- 用本地 GPU 按 deck 切换不同文生图模型做幻灯片配图
-- 只想改一条提示词重渲染单张配图而不重跑整套 deck
+- 在无网络/不出网环境下为本机生成 PPT 配图
+- 用本地 GPU 批量生成可编辑 PPTX 而不产生按张计费
+- 需要 RGBA 透明素材贴入任意底色幻灯片的排版场景
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L11: **PPT Master + local ComfyUI image backend.** This is a personal-machine fork of ppt-master (v6.7.0, MIT, Copyright
-> L26: - `templates/comfyui/qwen_image_2_1_t2i_api.json` — API-format export of the `image_qwen_image_2_1_t2i` workflow (Q
+> L11: **PPT Master + local ComfyUI image backend.** This is a personal-machine fork of ppt-master (v6.10.0, MIT, Copyrigh
+> L53: 2. Drop this folder into your agent's skills directory (e.g. `~/.hermes/skills/`, `~/.agents/skills/`), or use it w
+> L104: **PPT Master + 本机 ComfyUI 配图后端** — 这是 ppt-master (v6.10.0, MIT, Copyright © 2025-2026 Hugo He) 的本机定制分支：整套可编辑 PPTX 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `e5792e9e5ab1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `782c44d70218` · [字段定义](../../DATASET.md)*

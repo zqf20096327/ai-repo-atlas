@@ -2,9 +2,9 @@
 
 ⭐ 319 · Python · 推送 2026-11-25 · [GitHub](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) · [官网](https://github.com/bansky-cl/Diffusion-LM-Papers) · 个人维护
 
-**自动汇总 arXiv 扩散语言模型论文的月度清单仓库**
+**为 NLP 研究者自动汇总 arXiv 扩散语言模型论文的清单库**
 
-该仓库按月自动抓取并汇总 arXiv 上扩散模型与自然语言处理相关论文，以表格形式列出日期、标题、arXiv 分类标签、摘要全文与 arXiv 编号（附 PDF 与代码链接列）。README 还指向另一仓库 Diffusion-LM-Papers 获取更完整的策展文章列表。仓库本体为论文清单，不包含模型代码或运行环境；收录论文主题涵盖机器遗忘、CDLM 基准与库、推理加速与自适应去噪调度等方向。
+该仓库按月更新 arXiv 上扩散语言模型（diffusion LM / masked diffusion LM）方向的论文列表，以表格形式呈现日期、标题、cs.CL 等标签、摘要全文与 PDF 链接，代码链接字段多为空。内容覆盖量化、策略接口、采样加速、machine unlearning、评测基准等子方向。仓库声明更完整的策展列表在另一个仓库 "Diffusion-LM-Papers" 中。可见 README 未包含安装说明或代码，主体是论文索引数据本身。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 自动获取 arXiv 上 diffusion NLP 相关论文并按月更新
-- 表格条目含标题、分类标签、完整摘要与 arXiv 编号
-- 另设代码（Code）链接列并指向姊妹仓库 Diffusion-LM-Papers
+- 按月更新扩散语言模型方向的 arXiv 论文列表
+- 每条目含日期、标题、标签、完整摘要、PDF 链接与代码链接
+- 声明关联另一仓库 Diffusion-LM-Papers 提供更完整的策展列表
 
 ## 适用场景
 
-- 跟踪扩散语言模型方向的最新研究进展
-- 按月浏览该领域的论文标题与摘要
-- 为文献调研收集 arXiv 编号与 PDF 链接
+- 跟踪扩散语言模型方向的最新论文
+- 检索特定子方向（量化、采样、评测）的相关文献
+- 作为文献调研的起点材料
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`科研工具` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L10: Monthly Trend
 > L14: |Date|Title|label|Abstract|PDF|Code|
-> L16: |**2026-11-20**|**Auditing Post-Training Unlearning in Diffusion Language Models using Sparse Autoencoders**|cs.CL|
+> L16: |**2026-11-24**|**On the Importance of Hidden-State Refinement in Masked Diffusion Language Models**|cs.CL|Full Abs
 
 ## 星数曲线
 
@@ -54,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d46fc92cd7e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d515312405e6` · [字段定义](../../DATASET.md)*

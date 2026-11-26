@@ -2,9 +2,9 @@
 
 ⭐ 191 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/KalarisLabs/research-agent-skills) · [官网](https://docs.kalarislabs.com/research-agent-skills) · 组织维护
 
-**面向科研的 280+ 开源 agent 技能库，覆盖文献到投稿全流程**
+**面向科研场景的 280+ AI agent 技能库，覆盖文献到投稿全流程**
 
-Kalaris Labs 维护的开源科研 agent 技能库：280+ 个技能以含 SKILL.md、参考资料与脚本的标准文件夹形式组织，覆盖选题假设、文献检索与 PRISMA 综述、实验设计、数据分析（scanpy/rdkit/astropy 等领域工具链）、学术写作去 AI 腔、引文核验（对接 Crossref/OpenAlex/arXiv）、投稿与同行评审等阶段。兼容 Claude Code、Codex、Cursor、Gemini CLI 及任何遵循 Agent Skills 规范的 harness，通过 npx skills CLI、GitHub CLI、安装脚本或 Claude Code 插件市场安装，项目本身不在 npm 上。
+由 Kalaris Labs 维护的开源 agent 技能库（MIT 许可），每个技能为含 SKILL.md、参考材料与脚本的文件夹，agent 按任务按需加载。技能覆盖研究全流程：假设生成、文献综述与 PRISMA、实验设计、数据分析（scanpy/rdkit/astropy 等 150+）、写作与去 AI 痕迹、引用核验（对照 Crossref/OpenAlex/arXiv）、期刊格式与同行评审应答。通过 skills.sh CLI、pip/uv、Claude Code 插件市场等方式安装；自述模型相关基准为小样本试点，不代跑实验。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Kalaris Labs 维护的开源科研 agent 技能库：280+ 个技能以含 SKILL.
 
 ## 能力要点
 
-- 技能覆盖问题-文献-设计-分析-写作-核验-投稿-评审 8 个阶段
-- citation-verification 对接 Crossref/OpenAlex/arXiv 核验参考文献
-- unslop-academic-writing 检测并改写学术写作中的 AI 套话
-- 遵循开放 Agent Skills 规范，无 SDK、无服务端依赖
+- 280+ 技能按研究阶段组织，agent 按需加载单个技能
+- citation-verification 对每条引用核验 Crossref/OpenAlex/arXiv
+- 提供 Claude Code 插件市场与按学科的字段捆绑包
+- 每个 PR 运行 Cisco skill-scanner、CodeQL 与注入 linter 扫描
 
 ## 适用场景
 
-- 让 Claude Code/Codex 等 agent 按需加载技能完成文献综述或引文核验
-- 研究生写论文时去除 AI 腔调并按期刊格式排版
-- 为特定领域（ML/生物/化学/医学/物理）批量安装领域技能包
+- 让 Claude Code/Codex 等 agent 帮我做文献综述和引用核验
+- 写论文时按目标期刊格式整理投稿材料并回应审稿意见
+- 按学科安装捆绑包辅助数据分析与实验设计
 
 ## 场景标签
 
-`科研工具` · 领域:学习与行业
+`科研工具` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L49: **Research Agent Skills**, maintained by **Kalaris Labs**, is a free, open-source library of
+> L50: agent skills that gives your AI agent the methods of a careful scientist. Each skill is a folder
 > L7: ** 280+ open-source agent skills that take Claude Code, Codex, Cursor, Gemini CLI, Copilot or any Agent Skills harne
-> L41: **Research Agent Skills**, maintained by **Kalaris Labs**, is a free, open-source library of
-> L42: agent skills that gives your AI agent the methods of a careful scientist. Each skill is a folder
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `a8f282a8fc51` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `940ee2ca8d4b` · [字段定义](../../DATASET.md)*

@@ -4,7 +4,7 @@
 
 **一条命令把 DGX Spark/GB10 机器装成本地私有 AI 服务器**
 
-Alzeo 是面向 DGX Spark 及其他 GB10 机器的开源安装器，一条命令安装本地 AI 服务栈：提供 OpenAI 与 Anthropic 兼容 API、本地驾驶舱（cockpit），以及十四条在同一统一内存池中轮流加载的模型通道，覆盖文本、图像、视频生成、语音与类型化概率端点。通道按 digest/revision 固定并在安装结束前验证，附基准测量方法文档。适用对象为拥有该硬件、希望模型与数据不出本机运行的个人或团队。
+开源安装器，通过 curl 一行命令或 clone 后运行 install.sh，在 NVIDIA DGX Spark 或其他 GB10 机器（ASUS、Dell、HP、Lenovo、MSI 等）上安装自启动的服务栈：15 条按统一内存池轮流加载的模型 lane，提供 OpenAI 与 Anthropic 兼容 API 和浏览器 Cockpit（笔记本/手机访问）。模型以 digest/revision 固定并在安装结束前验证。限制：面向 GB10 硬件，内存池耗尽会冻结系统需断电重启，README 未提供安装包以外的其他平台支持。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Alzeo 是面向 DGX Spark 及其他 GB10 机器的开源安装器，一条命令
 
 ## 能力要点
 
-- 一条命令安装并更新整个本地 AI 服务栈与驾驶舱
-- OpenAI 与 Anthropic 兼容 API，opencode/Claude Code/Cursor 等客户端开箱接入
-- 十四条模型通道轮流共享一个内存池，Load 按钮从浏览器切换
-- 通道按 digest 固定并在服务前验证，基准数字附方法文档
+- 一条命令安装全部服务栈并支持同一命令更新
+- 15 条模型 lane 共享 128 GB 统一内存池轮流加载
+- 提供 OpenAI 与 Anthropic 兼容 API
+- 本地 Cockpit 从浏览器管理内存占用与 lane 切换
 
 ## 适用场景
 
-- 在 DGX Spark/GB10 上搭建数据不出本机的私有 AI 服务
-- 一台机器上轮流运行文本、图像、视频多个模型
-- 为本地开发工具（opencode、Claude Code、Cursor）接入本地模型
+- 把 DGX Spark/GX10 机器配置成不外发数据的私有 AI 服务器
+- 本地跑文本生成、图像生成、视频生成与语音识别
+- 在笔记本和手机上管理本地模型的加载与切换
 
 ## 场景标签
 
-`推理引擎` `图像生成` `视频生成` · 领域:内容生成
+`图像生成` `视频生成` `语音识别` `推理引擎` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L1: # Alzeo: one command turns a DGX Spark into a private AI server
 > L36: **Why this rather than a recipe.** A recipe starts one model. On a Spark the hard part comes
-> L84: One command installs a boot-persistent, hardened serving stack on a single DGX Spark,
+> L44: - **One pool, lanes that take turns.** The cockpit shows what holds the memory and loads a lane
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `2c71b25c1f2e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `6a617cc5dca4` · [字段定义](../../DATASET.md)*

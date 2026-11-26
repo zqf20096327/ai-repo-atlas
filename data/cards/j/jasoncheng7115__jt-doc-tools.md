@@ -2,9 +2,9 @@
 
 ⭐ 251 · HTML · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
 
-**自架開源 PDF/Office 文件處理平台，54 個工具整合**
+**给需要自托管文档处理的企业/机关：54 个 PDF/Office 工具一站整合**
 
-自架式文件處理平台，整合 54 個工具：填單用印、浮水印、合併/拆分、轉檔、OCR、去識別化、差異比對、逐句翻譯、電子發票處理、公文撰擬等。企業功能含 LDAP/AD 認證、SSO（OIDC/SAML）、RBAC、稽核記錄、SIEM 轉送、REST API 與 MCP。部分工具標示需 OxOffice/LibreOffice 引擎；LLM 用於公文撰擬、摘要、OCR 校正等選項。透過 curl 安裝腳本或 Windows 安裝程式部署，Linux/macOS/Windows 可單機或內網架站。
+自架、开源的 PDF/Office 文件处理平台，54 个工具覆盖合并拆分、转档、OCR、去识别化、用印盖章、差异比对、逐句翻译、发票与名片识别等，Linux/macOS/Windows 单机或内网多人使用，数据不出本地。企业功能含 LDAP/AD 认证、SSO、RBAC、审计记录与 REST API/MCP。部分工具依赖 OxOffice/LibreOffice 引擎；OCR 双引擎（EasyOCR/Tesseract），可选 LLM 校正与外部 GPU 识别服务器；名片整理等工具标注不需要 AI。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 54 個 PDF/Office 工具整合於單一自架平台
-- 企業功能：LDAP/AD 認證、SSO、RBAC、稽核記錄、SIEM 轉送
-- OCR 雙引擎（EasyOCR 預設/Tesseract），支援外部 GPU 識別伺服器部署
-- 用印申請核准流程與 MCP 介面（供 Claude Code 等呼叫工具）
+- 54 个 PDF/Office 工具整合，填单用印、水印、转档、OCR、去识别化等
+- 企业功能：LDAP/AD 多领域认证、SSO(OIDC+SAML)、RBAC、审计记录、SIEM 转送、REST API、MCP
+- OCR 双引擎（EasyOCR 预设/Tesseract 备援），支持外部 GPU 识别服务器部署
+- 用印申请流程：多关核准、保管人用印、全程稽核记录
 
 ## 适用场景
 
-- 企業內部自架文件處理平台，資料不上雲
-- 公文/標案文件的合併、用印、轉檔與送件前檢核
-- 掃描文件 OCR 與發票、名片、乘車證明批次整理報帳
+- 机关/企业内网自建文档处理与用印平台
+- 扫描件 OCR 与去识别化后再分发
+- 公文撰拟与会议逐字稿整理
+- 报帐场景的发票、车票证明批量整理
 
 ## 场景标签
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e3b4858a41d3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `167eac8c74a5` · [字段定义](../../DATASET.md)*

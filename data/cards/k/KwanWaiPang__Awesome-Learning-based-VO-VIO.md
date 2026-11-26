@@ -2,9 +2,9 @@
 
 ⭐ 221 · 推送 2026-11-01 · [GitHub](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) · [官网](https://kwanwaipang.github.io/Learning-based-VO-VIO/) · 个人维护 · 中文 README
 
-**基于学习的视觉/惯性里程计论文清单（VO/VIO/SLAM）**
+**面向 SLAM 研究者的学习型里程计论文清单**
 
-个人维护的 awesome 类论文综述仓库：按 Learning-based VO、VIO、惯性里程计等类别，以表格形式收录 2015-2026 年间发表于 CVPR、ICRA、TRO、RAL 等会议与期刊的论文，条目含年份、发表场所、论文标题、代码仓库链接与中文笔记（如 DROID-SLAM、MegaSaM、DEIO 等），部分条目附方法细节说明。面向 SLAM/机器人定位方向的研究者，通过 PR 与 issue 接收补充。
+按年份与会议组织的学习型里程计论文聚合清单，覆盖视觉里程计、视觉惯性里程计、惯性里程计、LiDAR 里程计、Semantic SLAM、NeRF SLAM 等方向，条目含论文标题、发表 venue、代码仓库与中文笔记链接，并欢迎通过 PR/issue 补充论文。仅做资源整理与链接索引，不含可安装运行的软件本体。
 
 ## 筛选速览
 
@@ -20,16 +20,15 @@
 
 ## 能力要点
 
-- 按 VO/VIO/惯性里程计等类别组织的论文表格（年份+会议+标题+代码链接）
-- 覆盖 2015-2026 年 CVPR/ICRA/TRO/RAL 等场所的论文
-- 多条目附中文方法笔记
-- 通过 PR/issue 接收社区补充
+- 覆盖 VO/VIO/IO/LiDAR/Semantic SLAM/NeRF SLAM 等多类学习型里程计论文
+- 条目按年份与 venue 组织，附代码仓库与笔记链接
+- 支持社区通过 pull request 与 issue 补充条目
 
 ## 适用场景
 
-- 查找学习类视觉里程计/SLAM 论文及对应开源代码
-- 调研 event camera、NeRF SLAM、语义 SLAM 等子方向文献
-- 为科研选题梳理 VO/VIO 领域发展脉络
+- 查找学习型视觉/惯性里程计的相关论文与开源实现
+- 调研 SLAM 方向的学习型方法脉络
+- 补充或维护领域论文清单
 
 ## 场景标签
 
@@ -39,6 +38,7 @@
 
 > L1: Awesome Learning-based Odometry
 > L3: This repository contains a curated list of resources addressing Learning-based visual odometry (including both image
+> L17: ## Learning-based VO
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4691fba25f22` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `806da5b0e052` · [字段定义](../../DATASET.md)*

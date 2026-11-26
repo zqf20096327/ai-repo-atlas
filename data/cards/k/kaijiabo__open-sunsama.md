@@ -2,9 +2,9 @@
 
 ⭐ 190 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/kaijiabo/open-sunsama) · [官网](https://opensunsama.com) · 个人维护
 
-**可被 Claude/ChatGPT 经 MCP 操控的开源自托管日计划工具**
+**可被 AI 助手通过 MCP 控制的开源每日计划工具**
 
-受 Sunsama 启发的开源每日计划器：看板式日程、拖拽时间块、专注模式与番茄钟、想法看板、日历同步，提供 Web/桌面/移动端。AI 部分为 MCP 服务器（24 个工具，OAuth 2.1 一键连接），使 Claude、ChatGPT、Cursor、Claude Code 等 agent 可读写任务与时间块；另有带作用域的 REST API。自托管经 Docker Compose（含 PostgreSQL、Redis）或从源码运行（需 Bun 与 PostgreSQL 15+），桌面/移动端应用仅连接官方云端。团队工作区、Linear/GitHub/Jira 集成与 AI 自动排程在路线图中尚未完成。
+开源每日计划应用，提供看板式任务管理、日历时间块拖拽、专注计时模式、任务滚动与例行任务；通过一键 MCP 连接器（OAuth 2.1 + PKCE）让 Claude、ChatGPT、Cursor 等 MCP 客户端读写任务与日程，共暴露 47 个带注解的工具，另有 JWT/作用域 API key 的 REST API。支持云端使用与 Docker 自托管，提供 Web、桌面（macOS/Windows/Linux）应用，移动端处于早期构建阶段；自托管时桌面与移动应用仅连接官方云。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- 24 个 MCP 工具覆盖任务、时间块、子任务与日历读取
-- OAuth 2.1 一键连接 Claude/ChatGPT，无 API key，令牌按小时过期
-- 带作用域的 REST API（JWT 或 X-API-Key）
-- Docker Compose 自托管，Web/桌面/移动三端
+- 47 个 MCP 工具覆盖任务、时间块、想法板、子任务、档案管理
+- OAuth 2.1 + PKCE 一键连接 Claude/ChatGPT，无 API key 配置
+- REST API 提供作用域 key（tasks:read 等 8 个 scope）
+- Docker Compose 一键自托管（PostgreSQL、Redis、API、Web）
 
 ## 适用场景
 
-- 在看板和时间块上做每日计划并进入专注模式
-- 让 Claude 或 ChatGPT 代为整理、排程和管理任务
-- 团队在自有服务器上自托管计划器并保持数据可控
+- 用 Claude/ChatGPT 对话式规划今天的任务和时间块
+- 自托管计划工具并把数据留在自己服务器上
+- 以专注计时模式跟踪任务实际用时与估算差距
+- 与 Google Calendar/Outlook/iCloud 同步日程
 
 ## 场景标签
 
- · 领域:生产力/任务管理
+ · 领域:生产力/个人计划工具
 
 ## 证据(README 行号)
 
 > L7: The open-source daily planner for time-blocking, focused work, and seamless AI integration.
-> L277: An open-source daily planner and task manager inspired by Sunsama. You plan each day on a kanban board, time-block
+> L26: - **🗓️ Sunsama-style daily planning.** A kanban board of days, drag-and-drop time blocking, focus mode with a timer
+> L280: An open-source daily planner and task manager inspired by Sunsama. You plan each day on a kanban board, time-block
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `7ade55078c50` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e207f1fd0c27` · [字段定义](../../DATASET.md)*

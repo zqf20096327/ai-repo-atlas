@@ -2,9 +2,9 @@
 
 ⭐ 257 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ralksta/ComfyUI-Photoshoot) · 个人维护
 
-**为 ComfyUI 生成同一人物系列提示词的自定义节点集**
+**ComfyUI 节点集：构建一次人物，生成保持一致的多图拍摄提示词系列**
 
-一组 ComfyUI 自定义节点（22 个），将人物定义（38 字段 Person、衣橱、双人）与拍摄调度（10 轴 Series：机位/姿势/表情/景别/光线/场景等）分离，输出英文提示词字符串、像素尺寸与确定性种子；人物在系列中保持一致，最终图像由用户所用 checkpoint/LoRA 决定。核心机制包括 Kronecker 确定性种子序列与景别耦合的字段缩短规则；内置 Studio 侧栏、Lightbox 选片面板与 LoRA 训练数据导出节点。仅通过 ComfyUI Manager 或 git clone 安装，无额外运行时依赖。
+为 ComfyUI 提供的提示词编排节点集：Person Builder 用 38 个字段描述人物，Series 节点沿相机、视角、姿势、表情、构图、光照等 10 个轴生成结构化英文提示词、像素尺寸与确定性种子，仅 Monochrome 节点触及像素，最终画面取决于用户的 checkpoint、LoRA 与采样器。含 Studio 侧栏、Lightbox 选片、Director 一句话生成拍摄 JSON、可渲染验证的参考海报矩阵与 LoRA 训练数据导出。描述对象限定成年人。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 10 轴系列规划：24 姿势、94 表情、17 场景、30 光线等词库池
-- 确定性 Kronecker 种子序列，可从任意照片号续拍或重拍
-- Studio 侧栏 + 4 套预置工作流，支持双人（Couples）输入
-- Save Dataset 节点导出 NNNN.png+txt 的 LoRA 训练数据
+- 10 轴系列规划：构图/视角/姿势/表情/格式/服装/场景/光照/种子等可变或锁定
+- 确定性 Kronecker 种子序列与构图耦合的提示词缩短机制
+- 22 个节点、5 个预置工作流（含 Z-Image Turbo 与 MiniMax 2K）
+- Lightbox 选片、导演一句话生成 shoot JSON、LoRA 训练数据集导出
 
 ## 适用场景
 
-- 为同一人物角色批量生成多景别、多姿势的图像系列
-- 从锚点图生成 LoRA 训练用的图文数据集
-- 在 ComfyUI 里用侧栏交互式地配置人物与拍摄方案
+- 在 ComfyUI 中为同一人物批量生成系列图像提示词
+- 导出 png+txt 数据集用于人物 LoRA 训练
+- 按 10 个轴自由组合姿势、光照与场景做风格化拍摄
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L25: **Build a person once. Now shoot 40 photos of her.** Photoshoot generates structured natural-language prompt series
-> L30: > **Text nodes by design:** Every builder and Series node emits English prompt strings, pixel dimensions, and deter
-> L34: No runtime dependencies beyond ComfyUI itself. Install via **ComfyUI Manager** (*Photoshoot*) or clone directly:
+> L23: **Build a person once. Now shoot 40 photos of her.** Photoshoot generates structured natural-language prompt series
+> L32: No runtime dependencies beyond ComfyUI itself. Install via **ComfyUI Manager** (*Photoshoot*) or clone directly:
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4a267ba4bb8a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `2ac24bbd20f0` · [字段定义](../../DATASET.md)*

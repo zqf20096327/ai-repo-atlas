@@ -2,9 +2,9 @@
 
 ⭐ 175 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/funboy322/avoid-ai-design) · 个人维护
 
-**审计并改写 AI 生成前端代码的 Claude Code 技能，消除 AI 设计痕迹**
+**审计并重写 AI 生成前端代码的 Claude Code 技能**
 
-以 SKILL.md 格式交付的 agent 技能：扫描 AI 生成的前端代码，按 67 条识别特征目录（含紫渐变、cream+terracotta 等二阶默认样式）标记 AI 设计痕迹，从产品本身推导设计方向后改写页面，多页项目写入 DESIGN.md 保持一致性。提供零依赖 Node 18+ 扫描脚本，可作为 CI 门禁。兼容 Claude Code、Cursor、Codex CLI 等支持 SKILL.md 格式的工具。限制：脚本仅覆盖源码可判定的部分，视觉层面需渲染截图配合。
+以 Claude Code 技能（SKILL.md）形式分发的前端代码审计与重写工具：扫描 AI 生成的界面，按 81 条 'AI 特征' 目录（含紫渐变等一级默认与 cream+terracotta 等二级默认）标记问题，再围绕产品自身重写界面，多页项目通过 DESIGN.md 保持一致性。附带零依赖的 Node 18+ 命令行扫描器 detect.mjs，输出含 P0/P1/P2 分级与堆叠数，退出码可作 CI 门禁；支持 detect/rewrite 两种模式与 PostToolUse hook 集成。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 67 条 AI 设计特征目录，按 P0/P1/P2 分级
-- 零依赖扫描脚本 detect.mjs，退出码可作 CI 门禁
-- rewrite 与 detect 两种模式，支持 PostToolUse 钩子实时检查
-- 多页项目通过 DESIGN.md（Google 开放格式模板）维持设计一致
+- 81 条 AI 设计特征目录，按 P0/P1/P2 可见度分级
+- 零依赖 Node 扫描器，--json 输出，退出码 2 可作 CI 门禁
+- detect/rewrite 两种模式；多页项目写 DESIGN.md 防漂移
+- 支持 Claude Code/Cursor/Codex 等 agent 的技能目录约定
 
 ## 适用场景
 
-- 把 AI 生成的落地页改得不像 AI 做的
-- 在 CI 中拦截含 AI 默认样式痕迹的前端代码
-- 审计他人生成的前端代码但不直接改动
-- 为多页站点建立统一设计方向防止漂移
+- 检测刚生成的落地页是否带有 AI 设计特征
+- 按产品自身重写界面并保持多页设计一致
+- 把扫描器接入 CI，在提交前拦截模板化页面
 
 ## 场景标签
 
-`代码审查` · 领域:编码与开发
+`编码 Agent` `代码审查` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L3: **A Claude Code skill that audits AI-generated frontend code and rewrites it so it stops looking AI-generated, inclu
-> L156: `avoid-ai-design` is a plain `SKILL.md` with reference files and one optional script. It needs no APIs or keys, so
-> L158: - Claude Code (CLI, desktop, web, IDE extensions)
+> L6: SKILL.md spec
+> L53: `scripts/detect.mjs` finds the code-certain tells with no model call and no dependencies (Node 18+):
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `7609c4b41f39` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1f8698a7a765` · [字段定义](../../DATASET.md)*

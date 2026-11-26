@@ -2,9 +2,9 @@
 
 ⭐ 741 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/lca-lc-foundations) · 组织维护
 
-**LangChain Academy 官方入门课程配套 notebook 库**
+**面向开发者的 LangChain 入门课程配套 Notebook 仓库**
 
-LangChain Academy《Introduction to LangChain》课程的配套代码仓库，包含三个模块共多个 Jupyter notebook 课程：创建 Agent（模型、工具、短期记忆、多模态消息）、高级 Agent（MCP、状态管理、多 Agent 系统）、生产级 Agent（中间件、长对话管理、人工介入）。README 提供完整的环境搭建流程：git clone 源码、配置 .env 中的模型 API key、用 uv 或 pip 建虚拟环境安装依赖，并附环境验证脚本与常见配置问题的排查说明。可选集成 LangSmith 做评测与追踪。
+LangChain Academy 官方课程的配套代码仓库，含三个模块的 Jupyter Notebook：创建 Agent（工具、短期记忆、多模态消息）、进阶 Agent（MCP、上下文与状态、多 Agent 系统）、生产级 Agent（中间件、长对话管理、人在回路）。提供 uv/pip 两种环境安装路径、env_utils.py 环境校验脚本、LangSmith LLM Gateway 或直连两种模型接入配置，以及可选的 langgraph dev 运行 Studio。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ LangChain Academy《Introduction to LangChain》课程的配套代码仓库，�
 
 ## 能力要点
 
-- 三个模块课程：创建 Agent、高级 Agent、生产级 Agent
-- 提供 uv 与 pip 两种依赖安装路径及环境验证脚本
-- 可选启用 LangSmith 追踪与评测
-- 涵盖 MCP、多 Agent、Human-in-the-loop 等主题
+- 三个模块递进式课程：创建 Agent、进阶 Agent（含 MCP 与多 Agent）、生产级 Agent（含中间件与 HITL）
+- 支持 LangSmith LLM Gateway 接入，无需本地 provider 密钥
+- 提供 env_utils.py 环境验证脚本排查配置问题
+- 每个模块附带实践项目（Personal Chef / Wedding Planner / Email Assistant）
 
 ## 适用场景
 
-- 跟学 LangChain 官方入门课程并运行配套 notebook
-- 学习如何用 create_agent 构建工具调用 Agent
-- 练习 MCP、多 Agent 系统与生产化部署流程
+- 跟着课程从零学习 LangChain 的 Agent 开发功能
+- 在本地 Notebook 环境中运行课程示例与练习
+- 配置 LangSmith Gateway 或直连密钥来调用课程中的聊天模型
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ LangChain Academy《Introduction to LangChain》课程的配套代码仓库，�
 ## 证据(README 行号)
 
 > L5: Welcome to LangChain Academy's **Introduction to LangChain** course!
-> L115: This repository contains three Modules that serve as introductions to many of LangChain's most-used features.
+> L140: This repository contains three Modules that serve as introductions to many of LangChain's most-used features.
+> L152: - Model Context Protocol (MCP)
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a3c60de27bcd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8717edaf4639` · [字段定义](../../DATASET.md)*

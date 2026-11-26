@@ -2,44 +2,45 @@
 
 ⭐ 174 · C# · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Azure-Samples/eShopLite) · [官网](https://aka.ms/eshoplite/repo) · 组织维护
 
-**面向开发者的 .NET AI 电商参考应用集（18 个场景）**
+**.NET 电商参考应用集：演示语义搜索、MCP 等场景**
 
-Azure-Samples 维护的参考应用集合：以 .NET Aspire 构建的电商站点为载体，用 18 个独立场景演示语义搜索、MCP 服务端/客户端、推理模型（DeepSeek-R1）、向量数据库（内存/Azure AI Search/Chroma DB/SQL Server 2025）、多 Agent 编排、A2A 协议、实时音频与 Blazor Agentic UI 等 AI 集成模式。面向开发者学习与复用；提供 azd 一键部署到 Azure，本地运行需 .NET 10 SDK（场景 18 需 .NET 11 RC2）、Docker/Podman 与 Aspire CLI，Azure 模型调用可能产生费用。
+由 Azure-Samples 维护的一组 .NET 参考应用，实现一个 eCommerce 站点，包含 18 个场景，覆盖关键词/语义搜索、向量数据库（内存、Azure AI Search、Chroma DB、SQL Server 2025 向量搜索）、GPT-4o Realtime Audio、DeepSeek-R1 集成、MCP 服务器与客户端、多 Agent 编排、A2A 协议等。基于 Aspire 构建，.NET 10 为基线，场景 18 使用 .NET 11 RC2 实验性 Blazor 组件。通过 azd 部署到 Azure，或用 Aspire CLI 本地运行；需要 Docker Desktop/Podman 与 Azure 模型部署。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 18 个场景覆盖语义搜索、MCP、多 Agent/A2A 编排、实时音频
-- 集成多种模型与向量库：GPT-4o/DeepSeek-R1、Azure AI Search、Chroma DB、SQL Server 2025 向量索引
-- 提供 azd 部署流程与 PowerShell 脚本统一配置 Foundry 模型和本地密钥
-- 场景 18 实验性 Blazor Agentic UI（.NET 11 RC2，人工审批购物车操作）
+- 18 个场景覆盖语义搜索、MCP、A2A、多 Agent、实时音频等
+- 支持多种向量数据库实现（内存、Azure AI Search、Chroma DB、SQL Server 2025）
+- 集成多种模型：GPT-4o/GPT-4.1-mini、DeepSeek-R1、GitHub Models
+- Aspire CLI 本地运行与 azd 一键部署到 Azure
 
 ## 适用场景
 
-- 学习 .NET Aspire + AI 的参考架构并按场景复用代码
-- 在 Azure 上一键部署带语义搜索的电商演示站
-- 试验 MCP 服务端/客户端与多 Agent 协作模式
+- 学习如何在 .NET Aspire 应用中接入语义搜索与向量数据库
+- 参考 MCP 服务器/客户端在电商场景中的实现方式
+- 体验多 Agent 协作与 A2A 通信的编排模式
+- 按 azd 模板把多服务 AI 应用部署到 Azure
 
 ## 场景标签
 
-`多智能体` `语义搜索` `教程课程` · 领域:Agent 开发
+`多智能体` `语义搜索` `向量数据库` `RAG` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L17: **eShopLite** is a set of reference .NET applications implementing an eCommerce site with features like Semantic Se
-> L30: - Integration with multiple AI models (GPT-4o, DeepSeek-R1, etc.)
-> L33: - Model Context Protocol (MCP) server and client implementation
+> L41: |01 - Semantic Search|A reference .NET application implementing an eCommerce site with Search features using Keywor
+> L68: - .NET 10 SDK 10.0.402, pinned in the root `global.json`
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e83982f0ed2b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `de3692d76ccb` · [字段定义](../../DATASET.md)*

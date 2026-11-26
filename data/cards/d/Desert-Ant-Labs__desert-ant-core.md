@@ -2,9 +2,9 @@
 
 ⭐ 466 · Swift · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Desert-Ant-Labs/desert-ant-core) · [官网](https://desertant.com) · 组织维护
 
-**面向移动/桌面/Web 开发者的离线端侧 AI 模型 SDK 套件**
+**给移动/Web 应用开发者的离线端侧模型 SDK 套件**
 
-提供 Swift、Kotlin、JavaScript/TypeScript SDK 与 CLI，集成 18 个端侧模型（语音识别、降噪、PII 脱敏、表情符号建议、人脸匹配、NSFW 检测、说话人分离等），全部在设备本地推理，数据不离开设备。模型权重公开在 Hugging Face，SDK 首次使用时按固定版本下载并校验。Apple 平台需 iOS 18+/macOS 15+ 且依赖 Core ML，Android 需 API 24+ 并共享 LiteRT，浏览器端经 WebAssembly/LiteRT.js 运行。许可证为 source-available，大规模商用需购买商业许可。
+一组端侧运行的小模型集合，覆盖语音识别、去噪、PII 脱敏、表情推荐、图片理解、人脸匹配、话题标注、NSFW 检测、说话人分离等 17 个模型，通过 Swift、Kotlin、JavaScript/TypeScript SDK 在 iOS/macOS/Android/Web/Node 上完全离线运行，底层使用 Core ML 与 LiteRT（Web 端 WebAssembly）。模型权重公开在 Hugging Face，首次使用时由 SDK 下载并缓存，版本固定校验。生产环境需在 platform.desertant.com 申请免费 API key。另有 CLI 及面向编码 agent 的技能配置。
 
 ## 筛选速览
 
@@ -16,20 +16,21 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 18 个端侧模型覆盖语音识别、脱敏、人脸匹配、内容审核等任务，全部离线推理
-- Swift/Kotlin/JavaScript 三语言 SDK，按模型拆分按需引入
-- 模型权重公开于 Hugging Face，SDK 固定版本并校验下载
-- 配套 CLI 支持 macOS (Apple silicon) 与 Linux，命令间以 JSON 串联
+- 17 个端侧模型，涵盖语音、图像、文本处理，全部离线运行
+- Swift/Kotlin/JS 三套 SDK，覆盖 Apple/Android/Web/Node 平台
+- 模型权重公开在 Hugging Face，SDK 内置下载校验与缓存机制
+- Android 端通过 LiteRT GPU 加速器运行，无 GPU 时回退 CPU
 
 ## 适用场景
 
-- 在 App 内实现本地语音转写与 PII 脱敏，数据不出设备
-- 在浏览器中离线运行图像理解或内容审核模型
-- 用 CLI 终端转写录音、切剪辑片段、清理音频
+- 在 App 内做离线语音转写与填充词检测
+- 对用户文本/音频做端侧 PII 脱敏，数据不出设备
+- 给图片库加离线场景、人脸、画质分析
+- 在浏览器端做语言识别或内容话题标注
 
 ## 场景标签
 
@@ -38,8 +39,8 @@
 ## 证据(README 行号)
 
 > L9: Add on-device speech recognition, audio cleanup, PII redaction, emoji suggestion, and more to your app, with SDKs fo
+> L24: |Model|What it does|Platform|Docs|
 > L41: |**Voz**|On-device speech recognition: transcripts with word-level timestamps, 25 languages.|Apple · Android · Linu
-> L57: On Apple platforms, the Swift package requires iOS 18+, macOS 15+, tvOS 18+, visionOS 2+, and Swift 6.2+ (Xcode 26)
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4230e2022839` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d29e9684a044` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 290 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ai-dynamo/aitune) · [官网](https://docs.nvidia.com/aitune) · 组织维护
 
-**为 PyTorch 模型自动调优推理后端的 NVIDIA GPU 工具包**
+**面向开发者的 PyTorch 模型推理调优与部署工具包**
 
-NVIDIA 维护的推理调优工具包：针对 PyTorch 模型与流水线，在各 nn.Module 级别评估多种后端候选（含 PTQ、kernel 选择、CUDA graphs 等加速技术），做数值校验与性能测量后按吞吐/延迟/延迟预算策略选实现。提供 JIT 推理中调优与 AOT 生成 .ait 制品两种工作流，可复用于 Python、生成 Triton 模型仓库或经 Dynamo workers 部署。要求 Linux + NVIDIA GPU + 兼容 PyTorch/CUDA，附模型配方目录。
+NVIDIA AITune 自动化 PyTorch 模型与流水线在 NVIDIA GPU 上的推理调优：inspect、wrap、tune、run/deploy 四阶段工作流，按模块评估后端候选（含 PTQ、kernel 选择、CUDA graphs），依据数值校验与性能测量选择实现。支持 JIT 调优（运行中启用）与 AOT 调优（生成 .ait 工件），可部署至 Triton 或 Dynamo。需 Linux 环境与 NVIDIA GPU，兼容的 PyTorch/CUDA 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ NVIDIA 维护的推理调优工具包：针对 PyTorch 模型与流水线，在�
 
 ## 能力要点
 
-- nn.Module 级后端评估、数值校验与性能测量一体化工作流
-- JIT 推理时调优与 AOT 可复用 .ait 制品两种模式
-- 支持 PTQ、kernel 选择、CUDA graphs 等加速技术
-- 可生成 Triton 模型仓库或经 Dynamo workers 部署
+- 单一 API 整合多后端评估、数值校验与性能测量
+- JIT 运行中调优与 AOT 生成可复用 .ait 工件两种模式
+- 流水线中不同模块可用不同后端
+- 生成 Triton 模型仓库或经 Dynamo worker 部署
 
 ## 适用场景
 
-- 为部署前的 PyTorch 模型自动选择推理后端与加速配置
-- 在现有应用中开启 JIT 调优加速推理
-- 生成可复用的调优制品并部署到 Triton/Dynamo
+- 为 Stable Diffusion 等模型寻找更快的推理后端
+- 调优后的模块保存为工件用于部署
+- 按吞吐/延迟/延迟预算策略自动选择后端实现
 
 ## 场景标签
 
@@ -39,7 +39,7 @@ NVIDIA 维护的推理调优工具包：针对 PyTorch 模型与流水线，在�
 
 > L7: **NVIDIA AITune automates inference tuning for PyTorch models and pipelines on NVIDIA GPUs.**
 > L8: It brings inference engines and acceleration techniques together under a single, extensible API. AITune combines
-> L9: backend evaluation, numerical validation, and performance measurement into one workflow, selecting implementations
+> L26: - **Prepare for deployment.** Reuse tuned modules in Python, generate Triton model repositories, or serve through
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `fc8cd2a18d0d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6865a60552f1` · [字段定义](../../DATASET.md)*

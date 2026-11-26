@@ -2,9 +2,9 @@
 
 ⭐ 258 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/slow-stack/mneme) · [官网](https://www.npmjs.com/package/@modusensus/dsh-mneme) · 组织维护 · 中文 README
 
-**给 AI agent 提供跨会话长期记忆的本机存储插件**
+**给 AI agent 跨会话记忆：本机文件存储，空闲巩固**
 
-DeepSeek Harness 插件：对话结束时蒸馏出事实、偏好与决定写入本机 SQLite，并维护十份可手改的 Markdown 镜像；空闲时段 autoDream 合并重复、压缩陈旧、归档过期，召回时按热度、近因、重要度排序注入上下文。记忆冲突时冻结并交用户裁决。另提供零依赖 stdio MCP server（mneme-memory）、常驻 daemon 与 HTTP API 接入方式。要求 Node 24+ 与 DSH 0.1.x/0.2.x；巩固与摘要默认走宿主模型，可切换本地模型实现完全离线。
+DeepSeek Harness 的跨会话长期记忆插件：对话结束时蒸馏事实、偏好与决定写入本机 SQLite 与十份 Markdown 镜像；下次会话四路并行召回、融合排序后注入上下文；空闲时段由 autoDream 合并重复、压缩陈旧、归档过期。冲突记忆冻结并列，由用户裁决；每条记忆带来源与整理回放账目。另提供独立 MCP server、常驻 daemon 与外部 HTTP API。硬性要求 Node 24+ 与 DSH 0.1.x/0.2.x。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ DeepSeek Harness 插件：对话结束时蒸馏出事实、偏好与决定写入
 
 ## 能力要点
 
-- 对话结束自动蒸馏写入本机 SQLite + Markdown 镜像，无手动保存步骤
+- 写入→巩固→四路召回→注入的记忆闭环，质量闸保证原子记忆
+- SQLite 正本 + 十份可手改 Markdown 镜像，手改内容合并时优先保留
 - autoDream 空闲巩固：合并、压缩、归档，整理过程可复现回放
-- 四路并行召回并按热度/近因/重要度融合排序注入上下文
-- 通过 MCP 接入 Claude Code / Cursor / Codex / OpenCode 等客户端
+- 独立 MCP server（mneme-memory）供 Claude Code/Cursor/Codex 等客户端挂载六个记忆工具
 
 ## 适用场景
 
-- 让 AI 助手在多次会话间记住项目背景与个人偏好
-- 在无网络、无 API Key 环境下运行本地化记忆检索
-- 需要人工查看和手改机器记忆内容的知识管理
+- 让编码 agent 记住项目背景与既定决定，跨会话继续工作
+- 按 agent/工作区隔离记忆并完全离线运行语义检索
+- 手工编辑 Markdown 文件接管并审计 AI 的长期记忆
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ DeepSeek Harness 插件：对话结束时蒸馏出事实、偏好与决定写入
 
 ## 证据(README 行号)
 
-> L5:  DeepSeek Harness 的跨会话长期记忆
-> L85: |**MCP**|一个零依赖 stdio server（独立包 `mneme-memory`）；Claude Code / Cursor / Codex / OpenCode 等任何 MCP 客户端都能挂上六个记忆工具|
+> L25: **dsh-mneme** 给 DeepSeek Harness 一份跨会话的记忆：对话结束，值得留下的部分自动蒸馏进本机；下次开口，相关的几条自己浮上来。记忆不是锁在向量库里的一堆浮点数——它落在本机的一份 SQLite，旁边配
+> L87: |**MCP**|一个零依赖 stdio server（独立包 `mneme-memory`）；Claude Code / Cursor / Codex / OpenCode 等任何 MCP 客户端都能挂上六个记忆工具|
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2be2174230c8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e31105fe8f13` · [字段定义](../../DATASET.md)*

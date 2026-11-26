@@ -2,16 +2,16 @@
 
 ⭐ 180 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langfuse/langfuse-js) · [官网](https://langfuse.com/docs/observability/sdk/overview) · 组织维护
 
-**Langfuse 官方 JS/TS SDK 集合：LLM 应用的可观测性接入**
+**面向 JS/TS 开发者的 Langfuse LLM 可观测性 SDK**
 
-Langfuse 的 JS/TS 客户端库 monorepo，含 7 个 npm 包：通用 API 客户端（client）、浏览器分数采集（browser）、基于 OpenTelemetry 的插桩（tracing/otel），以及 OpenAI、LangChain、Vercel AI SDK 集成包。v5 版本重写后推荐安装 @langfuse/tracing 等作用域包，旧的非作用域包（langfuse 等）已声明废弃；v6 要求 Langfuse Cloud 或自托管 v4.59.0+ 服务端。面向在 JS/TS 项目中接入 Langfuse 可观测性的开发者，MIT 许可。
+Langfuse JS/TS 客户端库的单仓多包仓库，v5 起重写并基于 OpenTelemetry：@langfuse/tracing 提供观测埋点方法，@langfuse/otel 提供导出助手，@langfuse/client 提供通用 JS API 客户端，@langfuse/browser 提供浏览器端公钥打分上报；另提供 OpenAI SDK、LangChain、Vercel AI SDK 的集成包。注意旧版非 scope 包（langfuse 等）已弃用，v6 需 Langfuse v4.59.0 以上服务端，多数 GET API 数据有最长 10 分钟延迟。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | MIT |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -20,15 +20,17 @@ Langfuse 的 JS/TS 客户端库 monorepo，含 7 个 npm 包：通用 API 客户
 
 ## 能力要点
 
-- 7 个 npm 包覆盖 API 客户端、浏览器采集、OpenTelemetry 插桩
-- 提供 OpenAI / LangChain / Vercel AI SDK 官方集成包
-- v5 重写，基于 OpenTelemetry 的实时数据摄入路径
+- 基于 OpenTelemetry 的埋点与导出（@langfuse/tracing、@langfuse/otel）
+- 多环境包划分：通用 JS、浏览器、Node.js 22+
+- 提供 OpenAI SDK / LangChain / Vercel AI SDK 集成包
+- pnpm 管理的 monorepo，含构建与 CI 测试脚本
 
 ## 适用场景
 
-- 在 Node.js 应用中对 LLM 调用做插桩并上报 Langfuse
-- 在浏览器端通过公钥上报用户评分
-- 查询 Langfuse 的 Observations API v2 数据
+- 为 LLM 应用接入 Langfuse 追踪与观测
+- 浏览器端以公钥上报用户打分
+- 通过 OpenAI SDK 或 LangChain 集成自动埋点
+- 自托管 Langfuse 服务端的客户端升级改造
 
 ## 场景标签
 
@@ -37,8 +39,7 @@ Langfuse 的 JS/TS 客户端库 monorepo，含 7 个 npm 包：通用 API 客户
 ## 证据(README 行号)
 
 > L11: Modular mono repo for the Langfuse JS/TS client libraries.
-> L32: |@langfuse/tracing|NPM|Langfuse instrumentation methods based on OpenTelemetry|Node.js 22+|
-> L34: |@langfuse/openai|NPM|Langfuse integration for OpenAI SDK|Universal JS|
+> L20: > **Latest install:** `npm install @langfuse/tracing @langfuse/otel "@opentelemetry/sdk-node@<0.300"` (OpenTelemetr
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0e6cd90e50a0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a3995397f4e0` · [字段定义](../../DATASET.md)*

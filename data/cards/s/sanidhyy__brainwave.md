@@ -2,9 +2,9 @@
 
 ⭐ 169 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/sanidhyy/brainwave) · [官网](https://app-brainwave.netlify.app/) · 个人维护
 
-**React 实现的生成式 AI SaaS 落地页模板**
+**生成式 AI 主题的动画 SaaS 落地页前端模板**
 
-基于 React JS、Vite、Tailwind CSS、Framer Motion 的 SaaS 生成式 AI 主题落地页模板，含 AI 聊天界面、Onboarding 等区块与动画效果。面向需要此类落地页的前端开发者，通过 Git 克隆仓库并 npm install 安装依赖后以 npm run dev 运行，可部署到 Netlify。README 提示保管 API keys，但未给出具体的 AI 服务接入说明。
+一个以生成式 AI 产品为主题的动画落地页模板，基于 React + Vite 构建，使用 Tailwind CSS、framer-motion、react-just-parallax 等实现动画与视差效果，页面包含 AI 聊天机器人应用展示、Onboarding 区块等分区，可部署到 Netlify。安装需 NodeJS 与 Git，通过 npm/yarn 安装依赖后以 dev 模式运行。README 未描述任何后端模型调用实现，仅提示保管 API keys 配置。
 
 ## 筛选速览
 
@@ -20,18 +20,20 @@
 
 ## 能力要点
 
-- React + Vite + Tailwind CSS + Framer Motion 技术栈
-- AI 聊天界面与 Onboarding 等展示区块
+- React + Vite + Tailwind CSS 技术栈的前端项目
+- framer-motion 与 react-just-parallax 实现动画与视差效果
 - 提供 Netlify 部署指引
+- npm/yarn 安装依赖后本地运行
 
 ## 适用场景
 
-- 快速搭建 AI SaaS 产品宣传落地页
-- 学习 React 动效落地页的实现结构
+- 为生成式 AI 产品搭建展示落地页
+- 学习 React 动画页面的实现方式
+- 部署到 Netlify 作为产品宣传站点
 
 ## 场景标签
 
- · 领域:前端/落地页模板
+ · 领域:Web 前端/营销落地页
 
 ## 证据(README 行号)
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d2c48af9bb04` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `6a11f6523e38` · [字段定义](../../DATASET.md)*

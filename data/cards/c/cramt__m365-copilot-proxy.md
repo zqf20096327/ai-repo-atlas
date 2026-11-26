@@ -2,9 +2,9 @@
 
 ⭐ 191 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/cramt/m365-copilot-proxy) · 个人维护
 
-**把 M365 Copilot 许可证封装成 OpenAI 兼容 API 的代理**
+**把已有 M365 Copilot 许可包装成 OpenAI 兼容后端的代理**
 
-TypeScript 实现的代理服务：将 Microsoft 365 Copilot 的 WebSocket/SignalR 协议翻译为 OpenAI 兼容的 /v1/chat/completions 接口，供 pi、OpenClaw 等 coding agent 作为 LLM 后端使用。因 M365 Copilot 原生不支持 tool_calls，采用提示注入的 Markdown 围栏格式模拟工具调用，并通过 PowerPlatform API 自动创建带工具指令的 Copilot Studio agent。限制：需工作/学校 Entra ID 账号，个人微软账号不支持；登录依赖 TOTP 密钥或一次性交互审批；存在按账号的限流预算。提供独立代理、OpenClaw 插件与 NixOS 模块三种形态。
+该仓库将 Microsoft 365 Copilot 的 SignalR WebSocket 协议翻译为 OpenAI 兼容的 /v1/chat/completions 与 /v1/models 接口，供 pi、OpenClaw 等编码 agent 把企业 Copilot 许可当作 LLM 后端使用。因 M365 不原生支持 tool_calls，项目通过提示内注入 Markdown 围栏模板模拟工具调用，并借助 Copilot Studio agent 与 shell 块路由实现多轮 agent 循环。会话跨轮复用以节省每会话 600 条消息配额，并支持 reasoning_content 透传。要求工作/学校 Entra ID 账户，个人账户不受支持；登录需 TOTP 种子或交互式浏览器批准。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ TypeScript 实现的代理服务：将 Microsoft 365 Copilot 的 WebSocket/Signa
 
 ## 能力要点
 
-- 将 M365 Copilot 的 SignalR 协议封装为 OpenAI 兼容 HTTP 接口
-- 提示注入 + 围栏格式模拟 tool_calls，shell 路由实现多轮代理循环
-- 自动创建 Copilot Studio agent 并缓存 agent ID
-- 会话复用与临时聊天模式，节约 M365 配额
+- OpenAI 兼容代理端点 /v1/chat/completions 与 /v1/models
+- 以 Markdown 围栏格式模拟 tool_calls 并转换为 OpenAI 格式
+- 通过 PowerPlatform/BAP API 自动创建并缓存 Copilot Studio agent
+- 每会话复用 M365 会话上下文以节省 600 条消息配额
 
 ## 适用场景
 
-- 用已有的 M365 Copilot 许可证驱动 pi/OpenClaw 等 coding agent
-- 让任意 OpenAI 兼容客户端调用企业 Copilot 服务
-- 在 NixOS 上以 systemd 服务方式部署
+- 让 pi、OpenClaw 等编码 agent 复用公司已有的 M365 Copilot 许可作为模型后端
+- 为 OpenAI 兼容客户端提供带工具调用的 M365 Copilot 接入通道
+- 查阅 M365 Copilot 未公开 WebSocket 协议的详细文档（auth/SignalR/节流）
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `12d910996b35` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d7c0a9461cca` · [字段定义](../../DATASET.md)*

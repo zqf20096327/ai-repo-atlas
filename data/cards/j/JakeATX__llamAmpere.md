@@ -2,9 +2,9 @@
 
 ⭐ 435 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/JakeATX/llamAmpere) · 个人维护
 
-**针对 RTX 30 系显卡优化的 llama.cpp 推理运行时 fork**
+**针对 RTX 30 系 Ampere 显卡优化的 llama.cpp 分支推理运行时**
 
-基于 mainline llama.cpp v1.0 的 fork，面向 NVIDIA RTX 30 系（Ampere）显卡调优，运行 Qwen3.8 系列模型。核心机制包括：mb-MTP 推测解码（默认开启的 MTP 草稿头）、Flash-Next 专家显存/RAM 分层、KV 缓存量化与 AI+ 自研权重格式；按显存档位提供 24/12/10/8 GB 的卡片预设（--preset 24dense 等），并区分有头/无头模式的上下文默认值。提供 llama-server/llama-cli 运行方式，release 附 Ubuntu 与 Windows 构建。多用户支持为未来工作。
+基于主线 llama.cpp (v1.0) 的分支，面向 NVIDIA RTX 30 系 Ampere 显卡调优，纳入 TurboQuant 量化工作。运行 Qwen3.8（含 27B 内置 MTP 草稿头）、Flash-Next 与 Inkling 2 Mini 等模型，提供按显存大小划分的预设（24ink/12ink/10ink/8ink 等），支持长上下文、KV 缓存量化、专家权重显存/内存分配，并通过 MTP/草稿头机制加速解码。发布页提供 Linux tar 与 Windows zip 二进制，需 NVIDIA 驱动 R550+。README 未提供 Docker 镜像与 pip 安装方式。
 
 ## 筛选速览
 
@@ -15,21 +15,21 @@
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 基于 llama.cpp v1.0，针对 RTX 30 系 Ampere 卡调优
-- 按显存档位的卡片预设（24dense/12dense/10dense/8dense）
-- mb-MTP 推测解码与 MTP 草稿头加速生成
-- AI+ 自研权重格式（较 IQ4_XS-M 更低 KL）
+- 按显卡显存划分的运行预设（24/12/10/8 GB 卡各有对应 preset）
+- MTP 草稿头与 KV 缓存量化（SJ-KVaRN 4-bit）用于解码加速
+- 支持最长 385K–614K 上下文与 12 GB 低显存长上下文配置
+- 附带 mmproj 文件可处理图像输入
 
 ## 适用场景
 
-- 在 RTX 3090/3080 等消费级显卡上本地运行 Qwen3.8-27B
-- 低显存（8-12 GB）配置下跑 200K+ 长上下文
-- 为编码 agent 提供本地 llama-server 推理后端
+- 在 RTX 3090 等消费级显卡上本地运行 Qwen3.8 长上下文推理
+- 8–12 GB 显存卡上通过专家放内存运行大上下文模型
+- 为本地编码 agent 提供兼容 Claude Code 的推理后端
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: llamAmpere is based on mainline llama.cpp (v1.0), tuned for NVIDIA RTX 30-series Ampere cards. With 1.0 we prioritiz
-> L100: llama-server --preset 24dense -m /path/to/qwen3.8-27b-Swift1.5-Uncensored-ATX-AI4.gguf
+> L5: It runs Qwen3.8 models, including Qwen3.8-27B with its built-in MTP draft head (a small helper that guesses several 
+> L145: ./llama-server --preset 24ink -m /path/to/Inkling-2-Mini-ATX-NVFP4Q8-5.4bpw.gguf -md /path/to/Inkling-2-Mini-ATX-D
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `8f8acd30dcaf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `ef26c730a9d1` · [字段定义](../../DATASET.md)*

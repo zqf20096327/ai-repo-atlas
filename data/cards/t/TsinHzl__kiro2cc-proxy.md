@@ -2,9 +2,9 @@
 
 ⭐ 365 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/TsinHzl/kiro2cc-proxy) · 个人维护 · 中文 README
 
-**把 Kiro 账号代理为 Claude API 供 Claude Code/Codex 使用的服务**
+**把 Kiro 账号代理为 Anthropic/OpenAI 兼容 API 供 Claude Code 与 Codex 使用**
 
-Rust 编写的代理服务，将 Anthropic Claude API 请求转换为 Kiro API 请求，使 Kiro 账号中的模型可在 Claude Code 或 Codex CLI 中调用，而非仅限 Kiro IDE/CLI 使用。提供 Anthropic API 兼容端点与 OpenAI 兼容端点、SSE 流式输出、prefix cache、Token 自动刷新、多账号故障转移与负载均衡、Admin Web 管理面板。部署方式包括预编译包、macOS/Windows 本地构建、Docker Compose 预构建镜像、systemd。国内使用需配置本地 HTTP/SOCKS5 代理。
+用 Rust 编写的代理服务：将 Anthropic Claude API 格式请求转换为 Kiro（AWS 的 AI 编程工具）API 请求，并提供 /v1/chat/completions 与 /v1/responses 端点接入 Codex CLI 及 OpenAI SDK 客户端。功能包括 SSE 流式输出、前缀缓存、Token 自动刷新、多账号故障转移与负载均衡、智能重试、WebSearch 工具转换、extended thinking、function calling，以及可选的 Web 管理面板。提供预编译包、源码构建、Docker Compose、systemd 等部署方式；国内用户需配置本地 HTTP/SOCKS5 代理，否则 Claude 模型请求返回错误。README 声明仅供研究使用，与 AWS/Kiro/Anthropic 官方无关。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ Rust 编写的代理服务，将 Anthropic Claude API 请求转换为 Kiro API �
 
 ## 能力要点
 
-- Anthropic API 与 OpenAI API 兼容端点，可接入 Claude Code 与 Codex CLI
-- 多账号优先级故障转移与 balanced 负载均衡，Token 自动刷新
-- 支持 SSE 流式输出、prefix cache、extended thinking 与 function calling
-- 提供 Admin Web 面板管理账号、余额查询与 API Key
+- Anthropic API 与 OpenAI 兼容端点（/v1/chat/completions、/v1/responses）
+- 多账号优先级/均衡负载均衡与自动故障转移、Token 自动刷新
+- SSE 流式输出与前缀缓存
+- 可选 Web 管理面板：账号管理、余额查询、API Key 创建
 
 ## 适用场景
 
-- 用 Claude Code 调用 Kiro 账号中的模型
-- 通过 OpenAI 兼容端点把 Kiro 模型接入任意 SDK 客户端
-- 多账号场景下做负载均衡与自动故障转移
-- 在服务器上用 Docker 部署代理并统一管理账号
+- 用 Claude Code 通过 Kiro 账号调用其支持的模型
+- 将 Kiro 账号接入 Codex CLI 或任意 OpenAI SDK 客户端
+- 本地或服务器上自托管多账号 API 代理服务
 
 ## 场景标签
 
@@ -39,8 +38,8 @@ Rust 编写的代理服务，将 Anthropic Claude API 请求转换为 Kiro API �
 ## 证据(README 行号)
 
 > L3: **将 Anthropic Claude API 请求转换为 Kiro API 请求的 Rust 代理服务**
-> L44: kiro2cc-proxy 是一个代理服务。它把标准的 Anthropic Claude API 请求转发给 Kiro（AWS 的 AI 编程工具），让你可以用 Claude Code使用Kiro账号的模型。
 > L27: |**🔌 Anthropic API 兼容**|完整支持 Anthropic Claude API 格式|
+> L44: kiro2cc-proxy 是一个代理服务。它把标准的 Anthropic Claude API 请求转发给 Kiro（AWS 的 AI 编程工具），让你可以用 Claude Code使用Kiro账号的模型。
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ce8f10ba9800` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `00bf11fb3d39` · [字段定义](../../DATASET.md)*

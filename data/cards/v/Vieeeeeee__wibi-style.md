@@ -2,15 +2,15 @@
 
 ⭐ 188 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Vieeeeeee/wibi-style) · [官网](https://style.abdc.design) · 个人维护 · 中文 README
 
-**给 OpenAI Codex 用户的 41 种照片转艺术画风格技能包**
+**54 个可安装的 AI 照片转艺术风格 agent 技能集**
 
-面向 OpenAI Codex 的视觉风格 Skill 集合：共 41 个可独立安装的风格，用户选风格、上传照片，由 Codex 中的 Skill 生成成品图，无需提示词工程或参数调优。每个风格位于隔离目录，含 SKILL.md、运行规则、提示词与版本清单；安装方式是在 Codex 中发送对应 GitHub 目录 URL，仅下载所选风格。首次调用时检查该风格是否有新版本，不上传照片与使用数据。工具部分 MIT 许可，视觉内容为非商业许可。
+面向 OpenAI Codex 等 agent 的视觉风格技能库：54 个风格各自独立成目录，可按 URL 单独安装到 agent，用户选择风格、提供照片后由 agent 生成成品图像，无需编写提示词或调参。技能按题材（人像/宠物/合影/场景/家居等）组织并给出适用照片建议；附带可复用的 Python 工具（MIT）与版本化包，视觉内容为非商业许可。提供在线试用入口。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 41 个可独立安装的视觉风格 Skill，按题材组织并附照片建议
-- 每个风格隔离目录，含 SKILL.md、提示词与版本清单
-- 安装仅需在 Codex 中发送对应 GitHub URL，只下载所选风格
-- 提供在线预览站点与中英双语 README
+- 54 个独立可安装的视觉风格 skill，按 URL 单独下载
+- 以 `Use $call-name` 命令调用，首次交互提供欢迎卡
+- 按题材组织并标注每种风格适用的照片类型
+- 工具链 MIT 许可、视觉内容非商业许可的双轨授权
 
 ## 适用场景
 
-- 把自拍或人像照片转成指定风格的头像或海报
-- 给宠物、街拍、家居角落生成插画风格成品图
-- 在 Codex 中按目录挑选并安装单个风格技能
+- 把自拍照转换成漫画、蜡笔、刺绣贴布等风格的头像
+- 把宠物照片生成线条画或蜡笔画作品
+- 为旅行、美食、家居照片生成海报或杂志式成品
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L3:  Turn everyday photos into art, with AI.
 > L20: > **For AI Agents**: This repository provides modular, production-ready visual style Skills for OpenAI Codex. The u
-> L48: |**Portraits & selfies**|Selfies, avatars, close-up people shots|Electric Blue Halftone Poster <code>electric-blue-
+> L23: > - **How to install**: Provide `https://github.com/Vieeeeeee/wibi-style/tree/main/skills/<call-name>` and have the
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `26ec0715bf55` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `862cd068b603` · [字段定义](../../DATASET.md)*

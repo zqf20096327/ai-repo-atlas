@@ -2,9 +2,9 @@
 
 ⭐ 171 · 推送 2026-11-14 · [GitHub](https://github.com/QuenithAI/Video-Generation-Paper-List) · 组织维护 · 中文 README
 
-**视频生成领域论文与模型策展清单（ Awesome List）**
+**视频生成领域论文追踪清单，面向科研人员**
 
-由 QuenithAI（应达学术）科研导师团队维护的视频生成论文聚合仓库：按综述、Text-to-Video、音频驱动生成、强化学习方向等类别组织条目，每条列出会议出处（AAAI/CVPR/ICLR/ICCV/NeurIPS 等）、论文链接、项目页、GitHub 与 Hugging Face 链接；区分已发表论文与 Pre-Print，并按年份（2025/2026）划分。更新记录显示持续跟踪各顶会接收论文。README 同时以中文重复说明，并附科研辅导 1V1 联系入口。
+由 QuenithAI（应达学术）维护的视频生成领域论文与资源清单，按综述、文生视频等方向组织，按 CVPR、ECCV、ICLR、NeurIPS、AAAI、ACM MM、ICLR、ICML 等会议分类收录论文条目，条目附 Paper、Project Page、GitHub、Hugging Face 等链接。更新日志记录各会议录取论文的持续收录，欢迎通过 issue 与 PR 参与共建。README 同时提供科研论文投稿的 1V1 指导联系方式，为商业服务引流。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@
 
 ## 能力要点
 
-- 按会议与年份组织已发表/Pre-Print 论文条目
-- 每条目链接 Paper/Project Page/GitHub/Hugging Face
-- 覆盖综述、T2V、音频驱动、强化学习等方向
+- 按会议（CVPR/ECCV/ICLR/NeurIPS/AAAI 等）与研究方向组织论文条目
+- 持续更新各会议录取论文（更新日志至 2026 年 11 月）
+- 条目附 Paper/Project Page/GitHub/Hugging Face 链接
+- 新增 Audio-Driven 与 Reinforcement Learning for Video Generation 方向
 
 ## 适用场景
 
-- 查找视频生成方向某顶会的最新论文
-- 按主题浏览综述与子方向文献
-- 通过项目页与代码链接跟进论文实现
+- 查找视频生成方向的最新发表论文
+- 跟踪各顶会视频生成录取论文动态
+- 调研文生视频、世界模型等细分方向的研究脉络
 
 ## 场景标签
 
@@ -37,7 +38,7 @@
 ## 证据(README 行号)
 
 > L6:  A curated collection of papers, models, and resources for the field of Video Generation.
-> L15: > This repository is proudly maintained by the frontline research mentors at **QuenithAI (应达学术)**. It aims to provi
+> L49: ### ✍️ Survey Papers
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `29f97315614d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `42f888177af9` · [字段定义](../../DATASET.md)*

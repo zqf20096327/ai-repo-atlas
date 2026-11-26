@@ -2,9 +2,9 @@
 
 ⭐ 182 · C · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Corebrum/corebrum-synapse) · [官网](https://corebrum.com/synapse) · 组织维护
 
-**把 ROS 2 机器人接入各类 AI agent 的接口层**
+**把 ROS 2 机器人接入多 AI Agent 平台的接口层**
 
-面向 ROS 2 机器人的 agent 接口层：通过 OpenClaw 插件、MCP server（Claude Code/Desktop/Dispatch、Codex、Hermes、Antigravity CLI）和 Gemini CLI 适配器，把相机、深度传感器、电机与 cmd_vel 暴露为统一工具面，支持能力清单、声明式任务链 run_mission、基于规则匹配的自然语言目标规划（无 LLM 依赖）、多机器人舰队发现与跨 agent 共享记忆。感知层含相机快照与 YOLOv8n 目标检测；可选本地 Ollama 视觉语言模型替代云端 API。经 npx @corebrum/synapse 一条命令安装（需 Node ≥ 20）。
+Corebrum Synapse 是面向 ROS 2 机器人的 agent 接口层（前身为 AgenticROS）：通过 OpenClaw 插件、MCP 服务器和 Gemini function calling 适配器，把同一套机器人工具暴露给多个 agent 平台。核心机制包括：能力清单（ros2_list_capabilities 声明 drive_base/find_object 等动词）、声明式任务链 run_mission、无 LLM 依赖的规则式自然语言目标编译、多机器人编队发现与任务取消/移交。提供 npx 一键安装 CLI，支持 Gazebo 仿真与实机两种运行方式。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 一套 ROS 2 工作区适配 OpenClaw/Claude/Codex/Hermes/Gemini 等多种 agent 平台
-- run_mission 声明式任务链与规则式自然语言目标编译（无 LLM 依赖）
-- 多机器人舰队发现、按能力筛选与跨 agent 共享任务记录
-- 本地 Ollama VLM（qwen3-vl）控制机器人，无需云端 API
+- 一套 MCP 服务器覆盖 Claude Code/Desktop/Dispatch、Codex CLI、Hermes、Antigravity CLI
+- 支持本地 VLM（Ollama + qwen3-vl）路径，无需云 API key
+- 规则式自然语言目标编译器，运行时不依赖 LLM
+- 能力清单、任务链、多机器人编队与跨 agent 任务移交
 
 ## 适用场景
 
-- 让 Claude Code、Codex 等 agent 直接对话并控制 ROS 2 机器人
-- 多机器人舰队中按能力分派任务步骤
-- Jetson/Pi 等边缘设备上用本地 Ollama 模型驱动机器人
+- 让多种 AI agent 通过自然语言控制同一台 ROS 2 机器人
+- 在 Jetson/树莓派边缘设备上用本地 VLM 驱动机器人
+- 在 Gazebo 仿真中演示 AMR 或 6-DOF 机械臂任务
+- 跨厂商 agent 之间共享任务记录并交接机器人任务
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L22: Corebrum Synapse turns ROS 2 robots into agent-native machines. Speak, type, or message — and your robot perceives,
-> L38: Corebrum Synapse is built so that new adapters (LangGraph, OpenAI, local models, voice stacks, etc.) can be added w
-> L68: - **Adapters**: OpenClaw plugin (`packages/synapse-openclaw`, including NemoClaw); MCP server (`packages/synapse-cl
+> L20: Corebrum Synapse turns ROS 2 robots into agent-native machines. Speak, type, or message — and your robot perceives,
+> L36: Corebrum Synapse is built so that new adapters (LangGraph, OpenAI, local models, voice stacks, etc.) can be added w
+> L65: - **Core** (`packages/core`): Platform-agnostic ROS2 transport (Zenoh, rosbridge, local DDS, WebRTC), capability/mi
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-31 · 置信度 high · 依据 README sha `68c482891520` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `f7c7dde5289d` · [字段定义](../../DATASET.md)*

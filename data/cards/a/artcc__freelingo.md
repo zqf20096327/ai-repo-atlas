@@ -1,10 +1,10 @@
 # artcc/freelingo
 
-⭐ 319 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/artcc/freelingo) · [官网](https://www.arturocarreterocalvo.com/freelingo) · 组织维护
+⭐ 319 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/artcc/freelingo) · [官网](https://www.arturocarreterocalvo.com/freelingo) · 个人维护
 
-**自托管 AI 语言学习平台：结构化课程+语音 AI 导师**
+**开源自学托管语言学习平台，内置 AI 语音导师 Lingu**
 
-开源语言学习平台，提供 A1–C2 结构化课程、自适应分级测试与按语言/级别/时长（4/8/12/16 周）生成的学习计划。核心功能包括名为 Lingu 的文本与语音 AI 导师（用户可控记忆）、SM-2 间隔重复闪卡、50 种日常情景语音角色扮演、学习游戏与进度看板，支持 20 种学习语言。架构为 Next.js 前端 + FastAPI 后端，Docker Compose 部署，存储用 PostgreSQL 16 与 Redis 7。LLM 支持 Ollama、OpenAI、Anthropic、DeepSeek；TTS/STT 支持本地与云服务。托管服务另有商业许可。
+以 Next.js 前端加 FastAPI 后端的单体仓库构建，通过 Docker Compose 部署，数据层使用 PostgreSQL 16 与 Redis 7。平台提供 A1–C2 结构化课程、自适应分级测试、按 4/8/12/16 周生成的学习计划、AI 生成的课程内容、文本与语音对话导师 Lingu、SM-2 间隔重复闪卡、50 种语音情景角色扮演和学习游戏，覆盖 20 种学习语言。LLM 支持 Ollama、OpenAI、Anthropic 或 DeepSeek；语音支持本地 Kokoro TTS 与 faster-whisper STT 或云服务，本地语音容器需 NVIDIA GPU。AGPL-3.0 自托管免费，另有云托管服务与商业许可。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@
 
 ## 能力要点
 
-- A1–C2 课程与自适应分级测试，计划周期可选 4/8/12/16 周
-- Lingu 语音/文本 AI 导师与 50 种情景角色扮演
-- SM-2 间隔重复闪卡与学习游戏
-- LLM 可选本地 Ollama 或 OpenAI/Anthropic/DeepSeek
+- 文本与语音对话导师 Lingu，支持用户可控记忆
+- A1–C2 课程、自适应分级测试与 4/8/12/16 周学习计划
+- SM-2 闪卡间隔重复与 50 种语音情景角色扮演
+- LLM 可选 Ollama/OpenAI/Anthropic/DeepSeek，语音支持本地或云端
 
 ## 适用场景
 
-- 自托管一个结构化的多语言学习平台
-- 用 AI 语音导师和情景角色扮演练口语
-- 用闪卡和间隔重复复习词汇与语法
+- 自托管一套按 CEFR 等级规划的语言学习课程并跟随计划学习
+- 用语音与 AI 导师练习日常情景对话（旅行、购物、工作等）
+- 用闪卡和间隔重复复习生词与语法
+- 同时学习多门语言并分别跟踪进度
 
 ## 场景标签
 
-`语音合成` `语音 Agent` · 领域:对话与助手
+`语音 Agent` · 领域:对话与助手
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `3c83c39df1bb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `79287ab558bb` · [字段定义](../../DATASET.md)*

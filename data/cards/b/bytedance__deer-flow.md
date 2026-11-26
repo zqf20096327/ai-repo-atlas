@@ -2,9 +2,9 @@
 
 ⭐ 85,804 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/bytedance/deer-flow) · [官网](https://deerflow.tech) · 组织维护 · 中文 README
 
-**编排子代理、记忆与沙箱的开源 SuperAgent 运行框架**
+**开源长时程 SuperAgent 运行时：编排子代理完成研究与编码任务**
 
-由字节跳动开源的 SuperAgent harness（DeerFlow 2.0 为完全重写版本），基于 LangGraph 与 LangChain 构建，内置文件系统、记忆、技能、沙箱执行与子代理规划派生能力，用于处理持续数分钟到数小时的长期任务。提供 Web UI（默认端口 2026）、TUI 终端工作台、API 与 Python 客户端，并支持 IM 渠道、GitHub webhooks、定时任务与可观测性追踪。模型无关，兼容 OpenAI 风格 API；README 提示其可执行命令与读写文件，建议在本地可信环境运行。
+DeerFlow 是字节跳动开源的 super agent harness，基于 LangGraph 与 LangChain 构建，提供文件系统、长期记忆、技能（skills）、沙箱执行、子代理规划与消息网关（IM 渠道接入）等运行时设施，处理从数分钟到数小时的长期任务。从 v1 的 Deep Research 框架重写为 2.0；模型无关，支持任何 OpenAI 兼容 API。通过 Docker 或本地 Node.js/pnpm/uv 环境运行，MIT 许可。README 提示其可执行命令并读写文件，需在可信本地环境运行。
 
 ## 筛选速览
 
@@ -16,7 +16,7 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- 基于 LangGraph/LangChain 的 agent harness，内置文件系统、记忆、技能与沙箱执行
-- 支持子代理、agent teams、长期记忆与上下文压缩
-- 兼容 OpenAI 风格 API 的模型接入，提供 Docker 与本地两种运行方式
-- 覆盖 RAGFlow 私有知识检索、MCP、IM 渠道、定时任务等扩展指南
+- 内置沙箱执行、长期记忆、技能系统与子代理编排
+- 模型无关，支持任何 OpenAI 兼容 API 的 LLM
+- 支持 Feishu/Slack/Telegram/Discord/DingTalk 等 IM 渠道接入
+- 提供 MCP Server、RAGFlow 私有知识检索与 GitHub webhook 事件驱动
 
 ## 适用场景
 
-- 让 agent 执行深度研究并产出报告/幻灯片等内容
-- 搭建可派生子代理的多步骤自动化工作流
-- 通过沙箱运行 agent 生成的代码任务
-- 接入飞书/Slack/Telegram 等 IM 渠道部署 agent
+- 运行多步骤深度研究并生成报告或幻灯片
+- 搭建带沙箱执行与子代理协作的自动化工作流
+- 通过 IM 渠道接入团队使用的 agent 服务
 
 ## 场景标签
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `6ff8768d90f1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `28fb1117600e` · [字段定义](../../DATASET.md)*

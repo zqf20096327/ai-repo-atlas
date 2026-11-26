@@ -2,9 +2,9 @@
 
 ⭐ 187 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Onyx-Dev-Labs/doodle-note) · [官网](https://www.doodlenote.ai) · 组织维护
 
-**本地优先的会议录音转写与 AI 笔记桌面应用**
+**本地优先的会议录制与 AI 笔记应用，录音不出设备**
 
-在用户设备上采集麦克风与通话对端音频，完成设备端转写（Apple Silicon 用 Swift/FluidAudio 引擎，Windows 用打包的本地语音引擎），将转写与用户草稿笔记结合生成摘要、决策与行动项，并支持基于单次会议记录的问答。不向通话注入机器人；音频留在本地，云端同步与外部 AI 提供商均为可选（Sync 订阅 $10/月）。macOS 版正式发布，Windows 10/11 版为 beta 且安装包未签名，iOS 与 Web 工作区开发中。另含可选只读 MCP 服务器供兼容 AI 工具检索本地笔记。
+面向需要记录会议的用户：捕获麦克风与通话另一侧音频，在本机完成转录，并把转录与手写粗笔记合并为含摘要、决定事项、行动项的会议记录。无会议机器人入会，音频保留在本地；可选付费云同步仅上传所选内容。内置 Bark 听写（macOS Apple Silicon）。Windows 版为 beta 且未签名；iOS 与 Web 工作区处于开发中。本地应用免费、无需账号、无会议次数限制。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 设备端双声道转写，保留说话人标签与时间戳
-- 本地模型或自带 API key 生成摘要、决策与行动项
-- 可选只读 MCP 服务器，供兼容 AI 工具检索本地笔记
-- 无需账号、无会议时长限制的免费本地应用
+- 设备端转录：macOS 用 Swift/FluidAudio 引擎，Windows 用打包的本地语音引擎
+- 本地模型或自带 API key 两种方式生成 AI 笔记
+- 可选、只读的 MCP server，让兼容 AI 工具检索本地笔记与转录
+- Bark 听写：任意应用内语音输入，本机识别且不保留音频
 
 ## 适用场景
 
-- 不引入会议机器人的情况下录制并转写通话
-- 会后自动整理摘要、决策与行动项
-- 跨历史会议搜索并提问
-- 自托管 Sync 服务器实现多设备同步
+- 不用机器人入会地录制并转录线上会议
+- 把转录和粗笔记一键整理成带行动项的会议纪要
+- 对历史会议记录提问、跨会议检索
 
 ## 场景标签
 
-`语音识别` `知识库管理` `文档问答` · 领域:知识与检索
+`知识库管理` `语音识别` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L12: DoodleNote captures your microphone and the other side of a call on your computer, transcribes the conversation on-
-> L49: - **On-device transcription.** Apple Silicon uses the Swift/FluidAudio engine; Windows uses a packaged local speech
-> L50: - **Local or bring-your-own AI.** Generate notes with a downloaded local model or your own provider key.
+> L7:  Privacy-first, local-first meeting capture, AI notes, and built-in Bark dictation. No meeting bot required.
+> L20: DoodleNote captures your microphone and the other side of a call on your computer, transcribes the conversation on-
+> L81: - **On-device transcription.** Apple Silicon uses the Swift/FluidAudio engine; Windows uses a packaged local speech
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `eb611d2f6afc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `b2283095e9f1` · [字段定义](../../DATASET.md)*

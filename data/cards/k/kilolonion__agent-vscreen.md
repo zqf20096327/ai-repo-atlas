@@ -2,9 +2,9 @@
 
 ⭐ 172 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kilolonion/agent-vscreen) · [官网](https://github.com/kilolonion/agent-vscreen/releases/latest) · 个人维护 · 中文 README
 
-**给手机 AI agent 用的 Android 后台虚拟屏操作工具**
+**安卓后台虚拟副屏，让任意 AI agent 操作手机应用**
 
-Android 应用，为手机上的 AI agent 提供一块不可见的虚拟显示屏：agent 通过 CLI（vscreen）、MCP 或 HTTP 驱动其他应用（启动、点击、滑动、输入、等待），每步返回屏幕、可见文本、可点元素与截图。内置离线 OCR（PaddleOCR/ML Kit）与时间感知、条件等待、步骤断言等脚手架；应用自身不调用任何模型，由调用方 agent 的模型决策。仅依赖 Shizuku 授权，无需 root，Android 11+（建议 14+）、arm64。支持悬浮窗监视与人工接管、按应用设置禁用/只读、多 agent 会话轮替，可经内置 Tailscale 跨设备连接。当前应用 UI 为中文。
+在安卓手机上创建一块不可见的虚拟屏幕，AI agent 在副屏上打开并操作应用（点击、滑动、输入、等待），用户主屏不受影响，可通过悬浮窗查看、接管或停止。提供 CLI（vscreen）、MCP 与 HTTP 三种接入方式，通过 Shizuku 或 root 获取权限，无需 root 默认可用。应用本身不调用任何模型，由 agent 侧模型决定操作；支持 OCR 与无障碍树合并定位元素、定时与条件监听、步骤教学录制回放、多 agent 令牌隔离。需 Android 11+ 与 arm64。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Android 应用，为手机上的 AI agent 提供一块不可见的虚拟显示�
 
 ## 能力要点
 
-- CLI / MCP / HTTP 三种接入方式，适配任意手机 agent
-- 内置离线 OCR（PaddleOCR、ML Kit），应用自身不调用 LLM
-- 仅 Shizuku 授权，无需 root 与 adb
-- 悬浮窗实时镜像，用户可随时接管或停止 AI
+- 后台虚拟屏驱动应用：点击/滑动/输入/按键，每步校验失败即停并报告屏幕状态
+- CLI / MCP / HTTP 三种接入方式，本地（127.0.0.1）与云端 agent 均可连接
+- 无障碍树 + 端侧 OCR（PP-OCRv6、ML Kit）合并为带坐标的可点元素列表
+- teach 教学录制、ask 让用户点选、handoff 与用户屏交接、条件监听通知
 
 ## 适用场景
 
-- 让手机 agent 在后台操作应用，同时不占用用户自己的屏幕
-- 为不同 Android agent 提供统一的屏幕操作与感知工具
-- 通过 Tailscale 让桌面或云端 agent 远程控制手机后台屏
+- 让手机或云端的 agent 帮我在后台签到、填表、查资料，同时我继续用手机
+- 给 agent 布置定时或条件触发的任务（如降价提醒、下载完成通知）
+- 让 agent 翻页采集整页列表内容（订单、聊天记录、搜索结果）
+- 把需要密码或人脸的步骤交还给我，其余交给 agent 完成
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Android 应用，为手机上的 AI agent 提供一块不可见的虚拟显示�
 
 ## 证据(README 行号)
 
-> L17: Any agent on the phone can use it: agents with a terminal use the `vscreen` CLI, agents that speak MCP use MCP, and
-> L36: - **Reports the screen back**: after each action it returns the current screen, visible text and tappable elements,
-> L57: - **No model inside, no fight over privileges**: the phone side calls no model; the caller's model decides what the
+> L11: **A background second screen on your Android phone, for any AI agent: on the phone, on a computer or in the cloud.*
+> L43: - **Hands the screen to the agent**: every reply carries the screen as it is now, the words on it, the tappable ele
+> L114: - **MCP**: agents that speak MCP add the address and token (transport `httpStream`).
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `6a958ba7b18b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a91965b7d836` · [字段定义](../../DATASET.md)*

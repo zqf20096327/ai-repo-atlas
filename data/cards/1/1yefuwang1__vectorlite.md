@@ -2,9 +2,9 @@
 
 ⭐ 360 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/1yefuwang1/vectorlite) · [官网](https://1yefuwang1.github.io/vectorlite/) · 个人维护
 
-**SQLite 向量搜索扩展：通过 SQL 接口提供基于 HNSW 的 ANN 检索**
+**SQLite 向量检索扩展：让任意语言用 SQL 做 ANN 搜索**
 
-面向开发者的 SQLite 可加载扩展，基于 hnswlib 提供近似最近邻（ANN）向量搜索，带 SQL 接口与虚拟表模块，任何具备 SQLite 驱动的语言均可使用。主体实现为 Rust，保留 hnswlib 与 Google Highway SIMD 的原生 C++ 部分。支持 Linux x64、Windows x64 与 macOS Apple Silicon，提供 Python wheel 与 npm 包。支持 l2/cosine/ip 距离、float32/float16/bfloat16 存储、谓词下推、索引显式持久化与加载 hnswlib 旧格式索引。项目自述处于 beta，可能有不兼容变更；官方支持平台不含 Intel macOS。
+Vectorlite 是一个可运行时加载的 SQLite 扩展，基于 hnswlib 提供 ANN 向量搜索，以 SQL 接口暴露，任何带 SQLite 驱动的语言均可调用。官方发布覆盖 Linux x64、Windows x64 与 macOS Apple Silicon，通过 Python wheel 与 npm 包分发；扩展主体以 Rust 实现，保留 hnswlib 与 Google Highway SIMD 的原生代码。功能包括 l2/cosine/ip 距离、HNSW 参数调优、rowid 谓词下推过滤、索引保存/加载（含 hnswlib 旧索引文件）、JSON 向量序列化，以及实验性的 SQLite-backed DiskANN 事务后端。当前为 beta，README 声明可能存在破坏性变更。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- hnswlib 支撑的 ANN 向量搜索虚拟表，SQL 接口操作
-- SIMD 加速的向量距离实现，支持 l2/cosine/ip 三种距离
-- 谓词下推的 rowid 元数据过滤（需 SQLite ≥ 3.38）
-- 索引可显式保存/加载，兼容 hnswlib 旧格式索引文件
+- 基于 hnswlib 的 ANN 搜索，支持 l2/cosine/ip 距离与 HNSW 参数调优
+- SQL 接口的虚拟表模块，任何带 SQLite 驱动的语言可用
+- 索引显式 save/load（带版本化封装），兼容 hnswlib 原始索引文件
+- 实验性 diskann() 后端：事务性增删改与显式 consolidation
 
 ## 适用场景
 
-- 在现有 SQLite 应用中嵌入向量检索而无需独立向量数据库
-- 配合任意带 SQLite 驱动的语言做 embedding 的 ANN 查询
-- 通过 SQL 完成向量插入、更新与 KNN 查询
+- 在已有 SQLite 应用里加入向量近邻搜索能力
+- 多语言项目复用同一份向量索引文件
+- 管理 RAG 场景下的 embedding 存储与 KNN 查询
+- 需要按 rowid 元数据过滤向量检索结果的场景
 
 ## 场景标签
 
@@ -38,8 +39,7 @@
 ## 证据(README 行号)
 
 > L5: Vectorlite is a Runtime-loadable extension for SQLite that enables fast vector search based on hnswlib and works on 
-> L7: **Rust is the main and only extension implementation.** The Cargo crate owns the SQLite virtual table, scalar functi
-> L60: The core of vectorlite is the virtual table module, which is used to hold vector index and way faster than brute fo
+> L83: The core of vectorlite is the virtual table module, which is used to hold vector index and way faster than brute fo
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `5f491202d14b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `478dd9b36dea` · [字段定义](../../DATASET.md)*

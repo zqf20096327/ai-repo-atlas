@@ -2,9 +2,9 @@
 
 ⭐ 212 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MoonshotAI/Kimi-Vendor-Verifier) · 组织维护 · 中文 README
 
-**给 Kimi 模型供应商部署做准确率与 API 功能验收的评测工具**
+**验证厂商 Kimi 模型部署的准确性与 API 功能符合度**
 
-Moonshot 提供的供应商部署验证器：用 inspect-ai 运行 OCRBench、MMMU Pro Vision、BEAM(1M)、DeepSWE 等基准，另含独立 pytest 套件验证 API 参数约束、tool-call JSON schema、畸形请求拒绝、K3 特性契约与 prompt_tokens 计数准确性。以 uv 管理 Python 依赖，通过 KIMI_API_KEY/KIMI_BASE_URL 环境变量指向待测端点，支持 kimi 官方 API 与开源部署（vLLM/SGLang/KTransformers）两种 think-mode。
+KVV 是一个针对 Kimi 模型厂商部署的验证工具：包含基于 inspect-ai 的基准评测（OCRBench、MMMU Pro Vision、BEAM 1M 长上下文、DeepSWE 多步工具使用）和直接调用 chat-completions API 的独立校验器（API 参数约束、工具调用 JSON Schema、非法请求拒绝、K3 特性、prompt_tokens 计数核对）。README 提供多家厂商的评测结果表。要求提供 KIMI_API_KEY 与 KIMI_BASE_URL，使用 uv 管理依赖并以 pytest 运行各项检查。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Moonshot 提供的供应商部署验证器：用 inspect-ai 运行 OCRBench、MM
 
 ## 能力要点
 
-- 基于 inspect-ai 的基准评测与独立 pytest 验证器两类评测
-- tool-call schema 校验含流式重组与 walle Go 补充用例
-- --think-mode opensource 适配 vLLM 等开源部署的 reasoning_effort 参数
-- 提供 GitLab CI 集成与 JUnit XML/JSON 报告
+- 基于 inspect-ai 的多模态与长上下文基准评测
+- Pytest 校验器验证 API 参数约束、工具调用 Schema 与 HTTP 400 行为
+- 核对厂商上报的 usage.prompt_tokens 是否准确
+- 支持 kimi 官方 API 与 vLLM/SGLang 等开源部署两种 think-mode
 
 ## 适用场景
 
-- 接入 Kimi 模型的供应商上线前做 API 合规验收
-- 对自建 vLLM/SGLang 部署跑基准对齐官方结果
-- 回归验证供应商端点的 tool-call 与 token 计数行为
+- 上线前验证厂商部署的 Kimi 模型是否达到精度与 API 功能要求
+- 对开源推理服务做 API 参数与工具调用合规性预检
+- 复现并对照各厂商的基准评测结果
 
 ## 场景标签
 
@@ -38,7 +38,8 @@ Moonshot 提供的供应商部署验证器：用 inspect-ai 运行 OCRBench、MM
 ## 证据(README 行号)
 
 > L5: Kimi Vendor Verifier (KVV) verifies whether a vendor deployment meets Kimi model accuracy and API feature requiremen
-> L62: |Agent benchmark|DeepSWE|Multi-step tool-use and coding-agent evaluation, run on the Pier platform|
+> L97: # Open-source deployment (vLLM/SGLang/KTransformers)
+> L166: |`--think-mode`|`kimi` (official API) or `opensource` (vLLM etc.)|`THINK_MODE` env var, otherwise `kimi`|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ee6277b09c00` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `611137d04d3a` · [字段定义](../../DATASET.md)*

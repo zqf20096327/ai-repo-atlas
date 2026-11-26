@@ -2,35 +2,34 @@
 
 ⭐ 182 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/GrayboxTech/weightslab) · [官网](https://www.graybx.com) · 组织维护
 
-**面向 ML 团队的训练监控与数据治理平台**
+**ML 团队实时监控并中途干预 PyTorch 训练的平台**
 
-接入现有 PyTorch 训练循环的监控平台：暴露实时 UI 供查看逐样本信号、按 loss 排序发现误标与离群样本，支持训练中暂停、在线重标注或丢弃样本并从同一 checkpoint 恢复训练；可监控并从 UI 修改超参、模型状态与学习率。覆盖图像、视频、文本与 LiDAR 数据。另提供两个 agent 表面：后端 SDK 数据操作 agent 与 OpenCode 驱动的本地 agent（可重启训练、编辑代码、跑 /loop 周期监控）。以 pip 安装，CLI 启动 UI。
+WeightsLab 通过包装参数、模型、优化器与数据集接入现有 PyTorch 训练循环，提供浏览器 UI，可在不重启训练的情况下按样本损失排序定位错标/类别不平衡/异常样本，实时改标、删样本或调学习率后从同一 checkpoint 继续。以 pip/uv 安装，CLI 启动本地 Studio UI，支持分类/分割/检测/聚类示例，并内置两个 agent 入口（SDK 数据操作 agent 与 OpenCode 本地 agent）。许可为非商业免费、商业需付费授权。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 训练中暂停并在不重启的情况下在线修改数据集
-- 逐样本 loss 信号排序，发现误标、类不平衡与离群样本
-- 从 UI 监控并修改超参、模型与优化器状态
-- 支持图像、视频、文本与 LiDAR 数据的策展
+- 暂停训练、按损失信号排查错标与异常样本，无需重启
+- 训练中途改标/删样本/调超参后从同一 checkpoint 恢复
+- 支持图像、视频、文本与 LiDAR 数据
+- 内置 SDK agent 与 OpenCode 本地 agent，可指向本地模型
 
 ## 适用场景
 
-- 训练中途暂停并清理坏数据后从同一 checkpoint 恢复
-- 按 loss 排序快速定位误标与离群样本
-- 分析逐样本 loss 轨迹定位模型退化
-- 通过对话 agent 操作与监控训练任务
+- 训练中发现脏数据时暂停并现场修复后继续训练
+- 排查错标、类别不平衡与异常样本
+- 通过逐样本损失轨迹定位模型退化的位置
 
 ## 场景标签
 
@@ -39,7 +38,8 @@
 ## 证据(README 行号)
 
 > L26: WeightsLab hooks into your existing PyTorch training loop and exposes a live UI where you can inspect per-sample si
-> L94:    parameters      = wl.watch_or_edit(parameters, flag='hp',     ...) # ← WeightsLab monitors your parameters and l
+> L131: WeightsLab ships two distinct agent surfaces: the backend SDK agent for data-manipulation
+> L158: WeightsLab is free for noncommercial use. Commercial use needs a paid licence.
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1e201efcf406` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `678584747441` · [字段定义](../../DATASET.md)*

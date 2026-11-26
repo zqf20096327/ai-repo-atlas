@@ -2,15 +2,15 @@
 
 ⭐ 246 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Ikomia-dev/IkomiaApi) · [官网](https://ikomia-dev.github.io/python-api-documentation/) · 组织维护
 
-**面向开发者的计算机视觉工作流编排 Python 框架**
+**数行代码部署计算机视觉算法的 Python 工作流库**
 
-Ikomia 提供统一的 Python 框架，将来自 OpenCV、Detectron2、OpenMMLab、Hugging Face 等来源的算法集成为可组合的工作流：通过 Workflow 对象添加任务（如目标检测、姿态估计）、运行于图片/URL 数据并可视化结果。附带 'ik' 自动补全工具用于在 Ikomia HUB 中检索可用算法，支持导出工作流以复现和协作，并可集成 Ikomia STUDIO。以 pip 包分发，Apache-2.0 许可，由 Ikomia 公司维护。
+Ikomia API 是一个 Python 库，将研究算法封装为可部署任务：通过 Workflow 对象添加检测、姿态估计等任务并自动连接、运行于图像或 URL。算法来自 OpenCV、Detectron2、OpenMMLab、Hugging Face 等来源，通过 Ikomia HUB 分发，并提供 'ik' 自动补全辅助发现算法。工作流可导出分享、与 Ikomia STUDIO 集成；提供 Colab 教程与文档，Apache-2.0 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ Ikomia 提供统一的 Python 框架，将来自 OpenCV、Detectron2、OpenMMLab
 
 ## 能力要点
 
-- 统一 Workflow 接口编排 OpenCV/Detectron2/OpenMMLab/Hugging Face 等来源的算法
-- 'ik' 自动补全工具检索 Ikomia HUB 中的可用算法
-- 工作流可导出分享，保证可复现性，支持 Ikomia STUDIO 集成
-- 提供 Google Colab 教程笔记本（YOLO v7 训练、风格迁移等）
+- Workflow 框架串联多算法并自动连接任务输入输出
+- 聚合 OpenCV、Detectron2、OpenMMLab、Hugging Face 来源的算法
+- 'ik' 自动补全系统辅助发现 Ikomia HUB 中的算法
+- 工作流导出与分享，可与 Ikomia STUDIO 集成
 
 ## 适用场景
 
-- 用少量代码组合多种 CV 算法构建处理流水线
-- 快速试验不同来源的目标检测/姿态估计模型
-- 将研究算法封装为可分享、可复现的工作流
+- 几行代码在图像上运行目标检测或姿态估计
+- 把多个视觉算法组合成可复现的工作流
+- 在数据集上训练并运行 YOLOv7 等检测模型
 
 ## 场景标签
 
@@ -37,8 +37,9 @@ Ikomia 提供统一的 Python 框架，将来自 OpenCV、Detectron2、OpenMMLab
 
 ## 证据(README 行号)
 
+> L29: Welcome to Ikomia, where we transform intricate research algorithms into user-friendly, deployable solutions for co
+> L60: pose_estimation = wf.add_task(name="infer_mmlab_pose_estimation", auto_connect=True)
 > L33: - **Research Meets Reality**: We bridge the gap between cutting-edge research and real-world applications. With Iko
-> L35: - **Unified Framework**: Say goodbye to integration complexities. Craft workflows and blend algorithms seamlessly, 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `3686818453f3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6bf89045f643` · [字段定义](../../DATASET.md)*

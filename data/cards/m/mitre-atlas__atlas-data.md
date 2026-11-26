@@ -2,9 +2,9 @@
 
 ⭐ 208 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/mitre-atlas/atlas-data) · [官网](https://atlas.mitre.org) · 组织维护
 
-**MITRE ATLAS 威胁知识库数据仓库：AI 系统攻防 TTP 数据与工具**
+**面向 AI 安全从业者：ATLAS 对抗 AI 系统 TTP 知识库的数据与工具**
 
-发布 MITRE ATLAS（面向 AI 系统的对抗威胁全景）知识库数据：战术、技术、缓解措施、案例研究及其类型化关系，以 YAML 格式按内容版本（YYYY.MM.N）与格式版本（SEMVER）双轨发布。附带 Python 包（Pydantic schema）、基于 SQLite 与 FastAPI 的 REST API 用于数据管理，以及生成 STIX、Excel、ATT&CK Navigator 图层的命令行工具。面向 AI 安全研究与防御分析人员，由 MITRE 维护并按月更新内容。
+MITRE ATLAS 的权威数据仓库：分发针对 AI 系统的对手战术与技术（TTP）、案例研究、缓解措施的 YAML 数据文件，附带解析、校验与管理工具。仓库内含 Pydantic 模式定义的 REST API 用于编辑数据，CLI 工具可将 YAML 导入数据库、生成 STIX 2.1 Attack Flow、Navigator 层与 Excel 格式，并按月发布内容版本与格式版本分离的数据。通过 uv 安装依赖，pytest 校验发布数据。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- ATLAS 战术/技术/缓解/案例研究数据及类型化关系（achieves/mitigates/employs 等）
-- Pydantic schema 校验 + FastAPI REST API（SQLite 存储）管理数据
-- 命令行工具生成 STIX、Excel、Navigator 图层分发格式
-- 内容版本与格式版本双轨版本化，月度更新
+- 分发 ATLAS 权威 YAML 数据：Matrix/Tactic/Technique/Mitigation/Case Study/Entity/Software 对象
+- 提供 REST API 作为数据编写工具，支持导入、编辑、导出 YAML
+- CLI 生成 STIX 2.1 Attack Flow bundle，支持按案例研究筛选
+- 按内容版本（YYYY.MM）与格式版本（SEMVER）双轨版本管理，附 manifest 映射
 
 ## 适用场景
 
-- 查询针对 AI 系统的对手战术与技术
-- 将 ATLAS 数据导入安全工具链（STIX/Navigator）做威胁建模
-- 基于 REST API 二次开发 ATLAS 数据管理应用
+- 查询针对 AI 系统的攻击战术、技术与真实案例研究
+- 为安全评估导入 STIX/Navigator 格式的 ATLAS 数据
+- 参与或审阅 ATLAS 数据的贡献编辑流程
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: This repository distributes data for MITRE ATLAS&trade; (Adversarial Threat Landscape for AI Systems), a public know
-> L31: - `dist/` - distributed ATLAS data files and the release manifest.
+> L7: The ATLAS YAML files in this repository are the authoritative source of ATLAS data. The database and REST API suppor
+> L34: - `atlas/` - ATLAS Python package containing Pydantic schemas and REST API
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `86d40f32fa5c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `56d8d4901736` · [字段定义](../../DATASET.md)*

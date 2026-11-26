@@ -2,9 +2,9 @@
 
 ⭐ 180 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/reshaprio/reshapr) · [官网](https://reshapr.io) · 组织维护
 
-**将既有 REST/GraphQL/gRPC API 转为 MCP 工具的运行时**
+**把现有 API 转为 MCP 工具的开源运行时，供开发者接入 LLM**
 
-面向开发者的开源运行时：导入既有 API 契约（如 OpenAPI 文件），自动生成可治理、可发现的 MCP 工具服务器，无需为每个 API 编写专属 MCP server。核心机制包括 Context Control（在载荷到达 LLM 前过滤与精简，减少 token 消耗）与多协议支持（REST、GraphQL、gRPC）。通过 npm 安装 CLI（需 Node.js），本地运行依赖 Docker（docker-compose 拉起容器，控制平面默认 localhost:5555，MCP 端点默认 localhost:7777），也提供 try.reshapr.io 在线沙箱。
+reShapr 是一个开源运行时，将既有 REST/GraphQL/gRPC 服务转换为受治理、可发现、上下文优化的 MCP 工具，无需重写 API 或为每个 API 搭建专属 MCP 服务器。针对 LLM 上下文窗口问题，提供 Context Control 在载荷进入 LLM 前过滤和精简。通过 npm 全局安装 CLI，本地依赖 Docker 以 `reshapr run` 启动平台容器，导入 OpenAPI 文件后即生成 MCP Server，可用 MCP 客户端连接使用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 导入既有契约即生成 MCP 工具服务器，无需逐 API 编写 MCP server
-- Context Control：在载荷到达 LLM 前过滤与精简
-- 支持 REST、GraphQL、gRPC 多协议
-- 提供在线沙箱 try.reshapr.io 与本地 docker-compose 两种运行方式
+- 将 REST/GraphQL/gRPC API 自动转换为 LLM 友好的 MCP 工具
+- Context Control 在载荷到达 LLM 前过滤与精简上下文
+- 导入现有契约即可生成 MCP Server，无需重写
+- 提供 CLI、本地 Docker 部署与在线沙箱（try.reshapr.io）
 
 ## 适用场景
 
-- 把公司内部 REST/GraphQL/gRPC 服务接入 LLM 或 AI agent
-- 为多个 API 统一暴露 MCP 工具端点
-- 控制发送给 LLM 的响应体积以降低 token 消耗
+- 把存量微服务 API 暴露给 AI agent 调用
+- 在 LLM 调用前精简 API 响应以节省 token
+- 为多个 API 统一生成 MCP 工具而不用逐个写 server
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L17: **reShapr** is the open source runtime that turns your existing APIs AI-Native, without rebuilding them. It bridges
-> L36: * AI-Native Transformation: Auto-transform API services into LLM-friendly tools.
+> L39: * Zero Rewrite: Import an existing contract and get working MCP tools in minutes, with no bespoke MCP server per AP
+> L58: 3. **Contribute code / launch the Web UI (Developer):** Head to install/README.md to run the `docker-compose` stack
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1941f504f7e0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ed47fe10fafc` · [字段定义](../../DATASET.md)*

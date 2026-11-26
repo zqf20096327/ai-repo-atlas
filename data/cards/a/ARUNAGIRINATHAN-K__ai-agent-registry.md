@@ -2,9 +2,9 @@
 
 ⭐ 359 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry) · [官网](https://ai-agent-registry-kappa.vercel.app) · 个人维护
 
-**AI Agent 生态策展目录：500+ 智能体与框架的分类检索**
+**社区驱动的 AI Agent 发现与编目平台（500+ 条目）**
 
-社区驱动的开源目录项目，收录 500+ AI agent、框架、工具、技能与基础设施条目，按 32 个类别组织，覆盖编排框架、编码智能体等。提供 Next.js 14 交互式检索应用（支持搜索与过滤），可本地运行（npm / Docker）或一键部署到 Vercel，并有线上注册表；条目通过 Web 提交门户或 GitHub Issue 表单贡献。README 以分类清单为主体，逐条列出项目名称、语言标签与一句描述。
+以 Next.js 14 Web 应用形式提供的开源 AI Agent 目录，收录 500+ 个 agent、框架、工具、技能与基础设施条目，按 32 个类别组织，支持搜索与过滤浏览。数据经 npm run build:data 生成，支持本地运行、Docker 部署与 Vercel 一键部署，通过 Web 表单或 GitHub Issue 提交新条目，数据模式公开，以 CC0 许可发布。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 收录 500+ 条目、32 个类别的社区驱动目录
-- Next.js 14 交互式检索应用，支持搜索与过滤
-- 提供 Web 提交门户与 GitHub Issue 无代码提交通道
-- 支持 Docker 与 Vercel 一键部署
+- 收录 500+ agent/框架/工具条目，覆盖 32 个类别
+- Next.js 14 交互式 Web 注册表，支持搜索与过滤
+- 支持 Web 表单与 GitHub Issue 两种条目提交途径
+- 提供 Docker Compose 与 Vercel 一键部署
 
 ## 适用场景
 
-- 查找和比较 AI agent 框架与编码智能体工具
-- 为自己的 agent 项目提交收录曝光
-- 了解 AI agent 生态的工具覆盖与分类结构
+- 按类别浏览和比较 AI agent 框架
+- 为项目寻找合适的 agent 工具或基础设施
+- 向社区提交自己的 agent 项目供收录
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `5fac7811434e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `137d38b9156f` · [字段定义](../../DATASET.md)*

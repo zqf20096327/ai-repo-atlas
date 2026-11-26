@@ -2,9 +2,9 @@
 
 ⭐ 192 · Python · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/PedroMarinhoDev/ComfyUI-Drama3) · [官网](https://pedromarinhodev.github.io/ComfyUI-Drama3/) · 个人维护
 
-**在 ComfyUI 中本地运行 Fish Audio Drama 3 语音合成与 Qwen3 转写的节点包**
+**在 ComfyUI 内本地运行 Fish Audio Drama 3 语音合成的节点包**
 
-ComfyUI 自定义节点集：将 35B 的 Fish Audio Drama 3 文本转语音模型以原生节点方式运行，支持数秒音频克隆声音、最多 16 个说话人的对话文本、[laughs]/[whispers] 等行内提示标签与自然语言导演注记；通过路由专家驻留系统 RAM、GPU 缓存激活专家的方式将显存门槛降至 8 GB，并提供专用 CUDA 内核加速。附带 Qwen3-ASR（1.7B/0.6B）节点用于生成语音转录与逐词对齐。安装方式为 git clone 至 custom_nodes，另需从 Hugging Face 下载 24.6–38.6 GB 模型文件。
+一组 ComfyUI 自定义节点，将 Fish Audio Drama 3（35B 文本转语音模型）以原生方式接入 ComfyUI 工作流：支持从数秒参考音频克隆声音、单脚本最多 16 个说话人、行内表演指示（如 [sighs]、[whispers]）与导演注记，另集成 Qwen3-ASR 为参考音频写转录。提供多种量化权重文件以适配 24/12/8 GB 显卡与不同系统内存，节点经 ComfyUI-Manager 或 comfy node install 安装，无需 pip 依赖。
 
 ## 筛选速览
 
@@ -14,31 +14,33 @@ ComfyUI 自定义节点集：将 35B 的 Fish Audio Drama 3 文本转语音模�
 | 许可风险 | `viral` | GPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
-| 硬件要求 | `gpu-8g` | |
+| 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 声音克隆（数秒音频+转录文本即可编码保存复用）与最多 16 说话人对话生成
-- 专家驻留 RAM + VRAM 缓存机制，8 GB 显存即可运行
-- 自带 Qwen3-ASR（30 语言）与 ForcedAligner 逐词对齐节点
-- 提供 Drama 3 Editor 图形编辑器（剪切、静音调整、逐词字幕、多音轨）
+- 数秒参考音频克隆声音，支持保存/复用编码后的声音文件（数 KB）
+- 单脚本最多 16 个说话人，多种对话生成模式（逐行/逐说话人/合声）
+- 四种量化权重文件覆盖 24 GB 至 8 GB 显卡与不同内存配置
+- 内置 Qwen3-ASR 为参考音频生成转录，与裁剪对齐
 
 ## 适用场景
 
-- 在 ComfyUI 工作流中做多说话人有声对话/播客内容生成
-- 用几秒参考音频克隆合成语音并保存复用
-- 为音频素材生成 30 语言转录与逐词时间轴
+- 在 ComfyUI 工作流里生成带表演指示的有声对白/播客
+- 用几秒参考音频克隆声音并批量生成语音
+- 8 GB 显卡本地运行大规模 TTS 模型
+- 为语音片段自动生成转录并做对齐检查
 
 ## 场景标签
 
-`语音合成` `语音识别` · 领域:内容生成
+`语音合成` `语音识别` `模型量化` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L13: Run **Fish Audio Drama 3**, a 35B text-to-speech model for voice cloning,
-> L16: GPU keeps a cache of the ones in use. The pack also brings a native **Qwen3-ASR** that writes a voice clip's
+> L3: **ComfyUI-Drama3** runs Fish Audio Drama 3, a 35B text-to-speech model,
+> L4: natively in ComfyUI. Clone a voice from a few seconds of audio, cast up to 16 speakers in one script and write
+> L5: directions such as `[sighs]` or `[whispers]` where they should land. It runs on NVIDIA cards from 8 GB, with nothing
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `fd04aff68091` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `e50bba76c6df` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 186 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/vericontext/vibeframe) · [官网](https://vibeframe.ai) · 组织维护
 
-**让编码 Agent 用自有 API key 生成视频的 CLI 与 MCP 工具**
+**让编码 agent 在自有密钥与花费上限下生成真实视频的 CLI+MCP 工具**
 
-面向 Claude Code、Codex、Cursor 等 bash 型 agent 的 CLI 与 MCP server：把文字 brief 转成 storyboard 计划，调用 Seedance、Runway、Kling、Gemini、OpenAI 等模型生成关键帧与视频素材，再经无头 Chrome 与 FFmpeg 本地渲染 MP4。所有付费步骤前置 --dry-run 估价与 --max-cost 硬上限，失败以机器可读的恢复动作返回；角色池机制用于跨场景保持角色一致。无 key 时本地管线（HTML 场景、Kokoro 配音、渲染）可零成本运行。需 Node.js 20+、FFmpeg、Chrome。
+面向 Claude Code、Codex、Cursor 等可执行 bash 的编码 agent，VibeFrame 提供 CLI 与 MCP 服务器两种接入方式：把书面 brief 转成计划，调用 Seedance、Grok、Runway、Kling、Gemini Omni 等模型生成图像/视频资产并渲染为 MP4。关键机制包括：--dry-run 预先计价、--max-cost 硬性花费上限、每次生成记录为带成本来源的 take、失败时返回 JSON 恢复动作。角色池机制可在多场景保持同一角色形象。无密钥时走本地 $0 路径（Kokoro 旁白+HTML/CSS 场景+FFmpeg）。生成环节才需要 API key。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@
 
 ## 能力要点
 
-- --dry-run 全链路估价与 --max-cost 硬性花费上限
-- 角色池 + Seedance 图生视频保持跨场景角色一致
-- 失败返回 retryWith/nextActions 等机器可读恢复动作
-- 免费本地管线（Kokoro 配音、FFmpeg 渲染）无需 provider key
+- --dry-run 计价 + --max-cost 硬性花费上限，超限拒绝启动
+- 每次生成保存为 take：提示词、文件哈希、provider 任务与成本
+- 角色池机制：角色表生成一次，各场景关键帧由此编辑保持一致
+- CLI 为主运行时，另提供 MCP 服务器与 Claude Desktop 扩展（mcpb）
 
 ## 适用场景
 
-- 让编码 agent 从一段 brief 端到端产出短视频
-- 在明确花费上限下调用前沿图像/视频模型生成素材
-- 用 review-report 驱动 agent 循环修复渲染质量问题
+- 让编码 agent 按预算上限自动生成宣传或演示视频
+- 先 dry-run 估价再决定是否向 provider 注册付费
+- 多场景视频保持同一角色形象一致
+- 无密钥时用本地路径先体验工作流
 
 ## 场景标签
 
-`视频生成` · 领域:内容生成
+`视频生成` `语音合成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L3: **Let your coding agent generate real video, on your own provider keys, under a spend ceiling it cannot cross.**
-> L6: It turns a written brief into a plan, generates the assets from frontier models (Seedance, Runway, Kling, Gemini Omn
+> L5: VibeFrame is a CLI and MCP server for Claude Code, Codex, Cursor, or any bash-capable agent.
+> L6: It turns a written brief into a plan, generates the assets with frontier models (Seedance, Grok, Runway, Kling, Gemi
+> L7: Every paid step has a dry run and a hard `--max-cost` ceiling.
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `fcdbf8be5e3a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `1c20bdc7084c` · [字段定义](../../DATASET.md)*

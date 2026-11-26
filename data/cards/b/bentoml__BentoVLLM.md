@@ -2,9 +2,9 @@
 
 ⭐ 175 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/bentoml/BentoVLLM) · 组织维护
 
-**BentoML 官方 vLLM 部署示例集：自托管开源 LLM 服务**
+**用 vLLM 与 BentoML 自托管部署开源 LLM 的示例集**
 
-BentoML 组织维护的示例项目集合，演示如何用 vLLM 推理引擎通过 BentoML 服务化部署 25 个开源大模型（Llama、Qwen、DeepSeek、gpt-oss 等）。每个模型目录包含为 BentoML Service 添加 OpenAI 兼容端点的代码，支持 vLLM 扩展参数（如 guided_json），可本地 bentoml serve 运行或部署到 BentoCloud；也可作为自定义模型、推理逻辑与 vLLM 选项的改造基础。面向希望自托管 LLM 的开发者。
+一组 BentoML 示例项目，展示如何以 vLLM 推理引擎部署开源大模型；每个模型目录含 service.py，通过 BentoML Service 暴露 OpenAI 兼容端点，支持 vLLM 扩展参数（如 guided_json 强制 JSON 输出），并可用 BentoML 生成 OCI 镜像做自定义部署。仓库收录约 24 个模型示例（DeepSeek、Llama、Qwen3、Phi-4、Gemma3 等）。定位为二次开发基础；免代码简单托管指向同组织的 OpenLLM 项目。
 
 ## 筛选速览
 
@@ -20,15 +20,16 @@ BentoML 组织维护的示例项目集合，演示如何用 vLLM 推理引擎通
 
 ## 能力要点
 
-- 25 个开源 LLM 的 BentoML+vLLM 服务化示例
-- 每个 Service 提供 OpenAI 兼容端点并支持 vLLM 扩展参数
-- 支持部署到 BentoCloud 或生成 OCI 镜像自建基础设施
+- 每个模型目录提供 OpenAI 兼容端点的 BentoML Service 代码
+- 支持 vLLM 扩展参数（guided_json 等）
+- 可生成 OCI 兼容镜像用于自有基础设施部署
+- 收录 DeepSeek-V3/R1、Qwen3、Llama 3.1-4 等多个模型示例目录
 
 ## 适用场景
 
-- 用 BentoML+vLLM 自托管 LLM 并获得 OpenAI 兼容 API
-- 参考示例代码定制推理逻辑或 vLLM 选项
-- 将 LLM 服务部署到 BentoCloud 管理
+- 在自己的基础设施上以 OpenAI 兼容 API 服务开源大模型
+- 基于示例定制模型、推理逻辑或 vLLM 参数
+- 用 BentoML 打包镜像进行生产部署
 
 ## 场景标签
 
@@ -37,7 +38,8 @@ BentoML 组织维护的示例项目集合，演示如何用 vLLM 推理引擎通
 ## 证据(README 行号)
 
 > L3: This repository contains a group of BentoML example projects, showing you how to serve and deploy open-source Large 
-> L5: 💡 You can use these examples as bases for advanced code customization, such as custom model, inference logic or vLLM
+> L25: We have defined a BentoML Service in `service.py`. Run `bentoml serve` in your project directory to start the Servi
+> L58: For custom deployment in your own infrastructure, use BentoML to generate an OCI-compliant image.
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c398cf78b3a2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c1f20dc4426d` · [字段定义](../../DATASET.md)*

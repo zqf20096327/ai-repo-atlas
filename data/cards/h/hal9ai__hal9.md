@@ -2,9 +2,9 @@
 
 ⭐ 181 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hal9ai/hal9) · [官网](https://hal9.com/docs/learn/code/) · 组织维护
 
-**面向生成式 AI 应用的创建与部署平台/CLI，让开发者免写框架**
+**帮开发者用 Python 创建并部署生成式 AI 应用（聊天机器人/Agent/API）**
 
-Hal9 提供以 pip 安装的 Python 包和 CLI（hal9 create/run/deploy），用于创建、本地运行和部署生成式 AI 应用（chatbot、agent、API、app）。应用代码只需用 input()/print() 读写输入输出，可配合任意库（LangChain、DSPy）与任意模型（OpenAI、Llama、Groq）。部署需 HAL9_TOKEN API token，默认部署到 hal9.com（有免费档），Docker 部署目标为计划中功能；本地运行需自行设置所选模型的 API key。由 Hal9 公司维护，另有面向创始人的付费 Startup Plan 服务。
+hal9 是一个面向生成式 AI 的 Python 包：用 input()/print()（或 h9.input/h9.complete/h9.save/h9.load 助手函数）编写聊天机器人、Agent、API 等应用，通过 hal9 create/run 本地运行，模板支持 OpenAI、Groq 等技术栈，也可配合 LangChain/DSPy。部署方面，原 Hal9 平台已转为只读并迁移到 Cloudish：应用需自带 Web 界面与 Dockerfile，由 AI 编码代理（Claude Code/Codex/Cursor）生成后部署，Cloudish 服务端构建容器并返回 HTTPS 地址。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Hal9 提供以 pip 安装的 Python 包和 CLI（hal9 create/run/deploy），用
 
 ## 能力要点
 
-- pip 安装，hal9 create/deploy 三条命令完成聊天机器人创建与部署
-- 应用代码仅需 input()/print() 读写，无需学习 Web 框架
-- 可用任意库与任意模型（OpenAI、Llama、Groq、MidJourney 等）
-- 提供 h9.load/save/complete 等会话状态与补全辅助函数
+- hal9 create/run 本地创建与运行聊天机器人
+- 内置 --template openai/groq 等模板生成可运行代码
+- h9.save()/h9.load() 跨会话保存数据（应用进程默认无状态）
+- 可打包为容器部署到 Cloudish 或其他容器平台
 
 ## 适用场景
 
-- 快速创建并部署一个 LLM 聊天机器人
-- 把生成式 AI 应用部署到 hal9.com 免费档或企业私有地址
-- 用熟悉的方式（input/print 或 LangChain）编写 AI 应用，跳过前端与运维
+- 快速创建并本地运行一个 LLM 聊天机器人
+- 把 Python AI 应用打包成容器发布为 HTTPS 服务
+- 让编码代理代为生成聊天前端、服务器和 Dockerfile
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`Agent 框架` `聊天机器人` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L9: Hal9 Platform is purpose-built for generative AI, enabling you to create and deploy generative (LLMs and diffusers) 
-> L16: Focus on AI (RAG, fine-tuning, alignment, training) and skip engineering tasks (frontend development, backend integ
+> L11: The `hal9` Python package is purpose-built for generative AI, enabling you to create and deploy generative (LLMs an
+> L13: - **Intuitive:** No need to learn app frameworks (Flask), simply use `input()` and `print()`, or write files to dis
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `29aac6f0b00c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `3018da44a6b0` · [字段定义](../../DATASET.md)*

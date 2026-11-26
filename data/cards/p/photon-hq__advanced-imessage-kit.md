@@ -2,9 +2,9 @@
 
 ⭐ 183 · TypeScript · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/photon-hq/advanced-imessage-kit) · [官网](https://photon.codes) · 组织维护
 
-**iMessage 自动化 TypeScript SDK（已停止维护）**
+**面向开发者的 iMessage 自动化 TypeScript SDK**
 
-面向开发者的 TypeScript SDK，通过连接本地或远程 iMessage 服务器（默认 http://localhost:1234，支持 apiKey 鉴权）实现对 iMessage/SMS 的程序化操作：收发消息（含特效、富文本样式与逐字动画）、编辑/撤回/排期消息、Tapback 回应、附件与语音发送、群聊管理、投票、联系人查询、Find My 位置、实时事件监听与自动回复机器人等。README 顶部声明本仓库已弃用、不再维护，建议改用 Photon Spectrum（商业版）或免费开源版 iMessage Kit。
+连接本地或远程 iMessage 服务器的 TypeScript SDK：通过 messages/chats/contacts/polls/icloud 等模块提供发送与撤回消息、编辑消息、tapback 表情回应、定时消息、群聊管理、附件与贴纸发送、消息历史查询、实时事件监听与自动回复机器人构建等接口。支持 iMessage 与 SMS 两种服务类型及 chatGuid 自动检测。README 顶部声明仓库已不再维护，指引改用 Photon Spectrum（付费）或开源版 iMessage Kit。
 
 ## 筛选速览
 
@@ -16,29 +16,29 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 消息收发/编辑/撤回/排期/Tapback 全覆盖，含 13 种消息特效与文本样式动画
-- 支持附件、语音、贴纸发送与群聊管理、投票、Find My 位置查询
-- 实时事件监听（sdk.on()），可构建自动回复机器人
-- 支持远程服务器模式：SDK 与 iMessage 服务器分机部署
+- 消息全生命周期操作：发送、编辑、撤回、tapback、定时发送
+- 支持文本特效、样式、动画与富链接预览
+- 实时事件监听与自动回复机器人构建
+- 支持群聊管理、投票、附件/贴纸/语音消息
 
 ## 适用场景
 
-- 构建 iMessage 自动回复机器人
-- 程序化批量收发、排期和管理 iMessage 消息
-- 在服务器上集成 iMessage 收发与群聊管理能力
+- 在 Mac 上构建 iMessage 自动回复机器人
+- 定时批量发送 iMessage 或短信
+- 通过脚本管理群聊、查询与归档消息历史
 
 ## 场景标签
 
- · 领域:即时通讯自动化/Apple 生态工具
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L3: # Advanced iMessage Kit
-> L64: |Auto Reply|Build automated reply bots|`sdk.on()`|auto-reply-hey.ts|
+> L71: npm install @photon-ai/advanced-imessage-kit
+> L63: |Real-time Events|Listen for new messages, typing, etc.|`sdk.on()`|listen-simple.ts|
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `53ebd3b5bd1a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `4e8d4e46f8ad` · [字段定义](../../DATASET.md)*

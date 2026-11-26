@@ -2,9 +2,9 @@
 
 ⭐ 1,278 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/Jenqyang/Awesome-AI-Agents) · [官网](https://jenqyang.github.io/Awesome-AI-Agents/) · 个人维护
 
-**面向关注 AI Agent 者的 LLM 自主 agent 项目清单**
+**LLM 驱动的自主智能体项目策展清单**
 
-收录由 LLM 驱动的自主 agent 开源项目链接清单，按 Applications 等分类组织，条目附一句话简介与 GitHub 仓库链接，覆盖任务求解、编程、研究、视频创作、个人助理等方向，并提供可检索网站入口。该仓库本身不包含代码或模型，仅提供项目编目与外部链接，供使用者浏览查找相关项目。
+以清单形式收录 LLM 驱动的自主 agent 开源项目，按 Applications 等类别组织，每个条目附一句话描述与 GitHub/论文链接，并提供可检索的网站版本。条目覆盖任务求解、编码、研究、浏览器操作、视频创作、个人助理等方向，部分条目注明许可证、部署方式（Docker/self-hosted）与所支持的模型提供方。本体为目录索引，不含可安装运行的代码。
 
 ## 筛选速览
 
@@ -20,16 +20,14 @@
 
 ## 能力要点
 
-- 按 Applications 等分类组织的项目编目
-- 条目附 GitHub 链接与一句话简介
-- 提供可检索网站入口
-- 覆盖编程/研究/视频/个人助理等多类 agent 项目
+- 收录大量 LLM 自主 agent 开源项目并附链接
+- 提供可搜索的网站版本
+- 部分条目注明许可证与部署方式
 
 ## 适用场景
 
-- 查找特定方向的自主 agent 开源项目
-- 浏览 LLM agent 生态有哪些已收录项目
-- 通过清单链接快速跳转到各项目仓库
+- 寻找某一方向的自主 agent 开源项目
+- 调研 LLM agent 生态的项目分布
 
 ## 场景标签
 
@@ -55,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 mid · 依据 README sha `c8bd289841d4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `4f00637edbd7` · [字段定义](../../DATASET.md)*

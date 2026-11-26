@@ -1,10 +1,10 @@
 # wuxuyun0606-collab/lmc-5
 
-⭐ 183 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/wuxuyun0606-collab/lmc-5) · 个人维护 · 中文 README
+⭐ 183 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/wuxuyun0606-collab/lmc-5) · 组织维护 · 中文 README
 
-**为长期运行 LLM agent 提供五轴记忆架构与可恢复记忆层**
+**给 LLM agent 提供跨会话长期记忆的五轴记忆架构实现**
 
-面向 Claude Code、Codex 类编码 agent 与个人助手 agent 的离线优先记忆层：将记忆组织为 X 时间线、Y 关系、Z 事实演化、E 经验信号、M 代谢五轴，底层保留原始事件日志，通过 surface() 输出脱敏上下文。提供两套参考实现：SQLite 最小版（FTS5+余弦检索、零依赖）与 PostgreSQL/pgvector 生产版（三级级联回忆、LLM 海马体、Claude Code hooks、cron 夜间任务）。核心不做网络调用、不绑定模型厂商，以本地 CLI 与 Python API 形式提供。
+LMC-5 将记忆按五个坐标组织：事件归属（X）、关联（Y）、当前事实（Z）、经验记录（E）与代谢衰减（M），提供 SQLite 与 PostgreSQL/pgvector 两套参考实现和多通道召回管线，支持两跳图扩展召回、LLM 撰写经验条目、夜间巩固任务与身份记忆保护。要求 Python 3.9+ 与 SQLite FTS5，提供 CLI（lmc5 add/list）与可运行示例，可部署为 VPS 7×24 服务。作者注明基准复现未覆盖 X/E/M 维度。
 
 ## 筛选速览
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `viral` | AGPL-3.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
+| 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- X/Y/Z/E/M 五轴记忆模型，区分原始事件与精选记忆
-- SQLite 零依赖最小版 + PostgreSQL/pgvector 生产版双实现
-- 两跳类型化关系扩展、事实键更替与 Z 轴冲突审计
-- 核心无网络调用、厂商无关，支持 Claude Code hooks / MCP sidecar / shell 包装集成
+- 五轴坐标记忆模型：episode/关联/事实时效/经验/代谢
+- SQLite 与 PostgreSQL/pgvector 双参考实现与多通道召回管线
+- 两跳图扩展召回：经主题与事件边检索未出现查询词的记录
+- 夜间巩固任务与身份记忆保护机制
 
 ## 适用场景
 
-- 让编码 agent 跨会话恢复项目上下文
-- VPS 7×24 部署个人 agent 的常驻记忆服务
-- 研究原型中对比普通 RAG、向量检索与结构化记忆
-- 在记忆注入 prompt 前做脱敏与事实演化管理
+- 让 agent 在新会话中延续上次对话的上下文与偏好
+- 管理会随时间变化的事实（如当前负责人）并保留历史
+- 在长周期运维中检索跨会话的事故与决策链路
 
 ## 场景标签
 
@@ -38,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7: > A recoverable memory layer for Claude Code, Codex, and other coding agents:
-> L22: LMC-5 is a small, offline-first memory architecture for **LLM agents** built
-> L202: The core is provider-free. You can use it with OpenAI models, Gemini, Voyage
+> L3: LMC-5 gives AI agents long-term memory across conversations. Open a new chat and your agent can pick up where you le
+> L93: **Local storage**　Point writes, searches and scheduled checks at the same SQLite file. Persistent deployment
+> L95: **PostgreSQL and Claude Code**　Verify full-text search with a sample record, then connect session archival and reca
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `1822445cfb09` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `215d11ac52e7` · [字段定义](../../DATASET.md)*

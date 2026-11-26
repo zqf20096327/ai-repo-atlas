@@ -1,10 +1,10 @@
 # Xin-YuXiao/Awesome-AI-for-Astronomy
 
-⭐ 420 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 组织维护
+⭐ 420 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 个人维护
 
-**天体物理等领域 AI 研究的论文清单（468 篇）**
+**天体物理领域 AI 论文/模型/数据集策展清单（482 篇）**
 
-收录天文学、天体物理、宇宙学、太阳物理与行星科学中机器学习相关论文、模型、数据集、基准与软件的可检索清单，共 468 篇论文与 66 个软件包。条目按综述、基础模型、语言模型、Agent、基准等章节组织，收录前核对 arXiv 标识、DOI 与代码仓库链接。配套网页可按章节、年份、发表载体、公开代码/权重/数据、数据模态过滤，并导出 JSON/CSV；另有每日 arXiv 论文筛选栏目与可查询该目录的 AI 技能。
+收录天文学、天体物理、宇宙学、空间物理与行星科学中机器学习工作的论文清单，覆盖综述、基础模型、语言与视觉语言模型、agent 与检索系统、基准等章节，每条附日期、发表载体与公开代码链接，按子领域最新在前排列，收录前核验 arXiv 编号、DOI 与仓库链接。配套可搜索网页按章节/年份/载体/公开代码等过滤全部 482 篇论文与 66 个软件包，并提供 JSON/CSV 下载；AstroAI Today 每日用语言模型筛选新 arXiv 论文并写一句话摘要（未经人工评审）。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 468 篇论文与 66 个软件包的链接核验清单
-- 网页按章节/年份/载体/代码/权重/数据模态过滤，支持 JSON/CSV 导出
-- 每日 arXiv 机器学习-天文论文筛选（语言模型生成 TL;DR）
-- 提供可查询目录的 AstroAI Research skill
+- 收录 482 篇论文与 66 个软件包，附公开代码链接
+- 覆盖综述、基础模型、LLM、agent、基准等章节，含图像/光谱/时序/多模态子类
+- 收录前逐条核验 arXiv 编号、DOI 与仓库链接
+- 配套可过滤搜索网页及 JSON/CSV 导出
 
 ## 适用场景
 
-- 查找天文各子领域的基础模型与深度学习论文
-- 检索带公开代码或模型权重的天文 ML 工作
-- 跟进天文领域 LLM 与 Agent 研究进展
+- 查找天文学各子领域的深度学习与基础模型论文
+- 调研天文领域专用语言模型与 agent 系统
+- 为科研选题追踪最新的 AI4Astronomy 进展
 
 ## 场景标签
 
-`精选清单` `模型评测` · 领域:评测与运维
+`精选清单` `科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: **A curated list of papers, models, datasets, benchmarks and software for artificial intelligence in astronomy, astr
-> L14: > The searchable web page filters all 468 papers and 66 software packages by section, year, venue type, public code
+> L14: > The searchable web page filters all 482 papers and 66 software packages by section, year, venue type, public code
+> L22: This list tracks machine learning work in astronomy with public papers, linking public code where it exists. It emp
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `4c561052d002` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `3976139c8e81` · [字段定义](../../DATASET.md)*

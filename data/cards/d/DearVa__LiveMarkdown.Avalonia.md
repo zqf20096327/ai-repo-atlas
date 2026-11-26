@@ -2,9 +2,9 @@
 
 ⭐ 186 · C# · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/DearVa/LiveMarkdown.Avalonia) · 个人维护 · 中文 README
 
-**面向 Avalonia 应用的实时 Markdown 渲染控件，适配 LLM 流式输出**
+**Avalonia 应用的 Markdown 实时渲染控件：流式呈现 LLM 输出**
 
-基于 Markdig 的高性能 Markdown 渲染库，供 Avalonia（.NET 8/10）应用程序嵌入使用。核心机制是通过 MarkdownBuilder 的变更事件增量更新可视树，实现内容追加时的实时重渲染，README 明确说明当前仅支持 Append 和 Clear 操作，足以覆盖大模型流式输出场景。功能包括表格、代码高亮（TextMateSharp）、跨元素文本选择、文本搜索与高亮、图片异步加载，LaTeX/SVG/Mermaid 以可选 NuGet 扩展包形式提供。开发者以 XAML 控件 + C# API 方式集成。
+面向 Avalonia 桌面/跨平台应用的 Markdown 渲染库，通过 ObservableStringBuilder 事件驱动增量更新可视树，实现内容流式到达时的实时重渲染，README 明确指出适用于流式呈现大模型输出的场景。基于 Markdig 解析渲染，提供 TextMateSharp 代码高亮、RaTeX 数学公式、Mermaider 图表（流程图/时序图/类图等 13 种）、异步图片加载与内存/文件缓存、可扩展渲染管线与节点注册。通过 NuGet 分发，支持 .NET 8/10/11 与 Avalonia 12。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 通过 MarkdownBuilder 变更事件实现增量实时重渲染（支持 Append/Clear）
-- 跨元素可选中文本与文本搜索/自定义高亮（UTF-16 坐标）
-- LaTeX（RaTeX）、Mermaid 图表（多种图类型与 Pan&Zoom）、SVG 以可选扩展包启用
-- 可注册自定义 Markdown 节点扩展渲染管线
+- 基于事件驱动的增量更新，适配流式 Markdown 内容
+- LaTeX（RaTeX）与 13 种 Mermaid 图表的原生渲染，通过可选包启用
+- 图片异步加载与内存/文件两级缓存，支持 HTTP 新鲜度头
+- 可扩展 Markdown 管线：自定义节点注册与节点生命周期钩子
 
 ## 适用场景
 
-- 在桌面 AI 应用中流式展示大模型的 Markdown 输出
-- 为聊天客户端渲染含代码块、表格、公式与 Mermaid 图的回答
-- 在已渲染或离屏 Markdown 中实现搜索与高亮定位
+- 为聊天式应用流式渲染大模型返回的 Markdown
+- 在 Avalonia 应用中展示含公式与图表的技术文档
+- 需要文本可选、可搜索高亮的 Markdown 阅读界面
 
 ## 场景标签
 
- · 领域:桌面 UI 组件/LLM 应用界面
+ · 领域:开发工具/UI 组件
 
 ## 证据(README 行号)
 
 > L18: `LiveMarkdown.Avalonia` is a High-performance Markdown viewer for Avalonia applications.
 > L20: updating, **especially when streaming large model outputs**.
-> L38: > This library currently only supports `Append` and `Clear` operations on the Markdown content, which is enough for
+> L122: `MarkdownBuilder` is the primary API for live output. Its change events let the renderer update the visual tree
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `dd059b095bbb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7842c3e9ecc7` · [字段定义](../../DATASET.md)*

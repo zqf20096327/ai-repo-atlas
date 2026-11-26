@@ -2,9 +2,9 @@
 
 ⭐ 188 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/antonbabenko/deliberation) · [官网](https://usedeliberation.com/) · 个人维护
 
-**让编码代理向 GPT/Gemini/Grok 等多模型征求二次意见与共识的 MCP 服务器**
+**为编码 agent 提供跨模型多评审共识的 MCP 服务器**
 
-一个跨主机通用的 MCP 服务器与插件集：让 Claude Code、Codex、Cursor、Kiro、OpenCode 等编码代理把问题委托给 GPT、Gemini、Grok、本地模型（Ollama、LM Studio）及 OpenRouter 的 400+ 模型（含 Qwen、Kimi、DeepSeek）。提供七位领域专家角色、多轮收敛共识循环、逐模型延迟/Token/裁决一致性分析，以及可选的本地只读仪表盘。各 provider 按已配置情况自动检测与路由；OpenRouter 需在 config.json 中声明模型。以 Claude Code 插件、npm 包（npx 启动独立服务器）及 Docker 镜像三种方式分发。
+Deliberation 是一个 MCP 服务器和 Claude Code 插件：在 /consensus 流程中，宿主 agent 先记录自身判断，再由 GPT、Gemini、Grok、本地模型及 OpenRouter 400+ 模型独立评审同一计划，经仲裁与多轮收敛产出一份结论，异议保留在报告中。内置 8 个领域专家角色（架构师、代码评审、安全分析等）与自动路由；附带本地仪表盘展示运行时间线、历史、统计，分析器按模型延迟、token、一致度标记可淘汰模型。需至少一个 provider：codex/agy CLI、xAI 或 OpenRouter key、或 Ollama/LM Studio 本地模型；只有 Gemini 可实施代码修改。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 七位领域专家（架构师、代码评审、安全分析等）审阅方案并多轮辩论至收敛
-- 接入 GPT/Gemini/Grok、本地模型与 OpenRouter 400+ 模型，自动检测已配置 provider 并路由
-- ask-all/consensus 等工具输出分歧矩阵与逐模型延迟、Token、裁决一致性分析
-- 可选本地仪表盘：时间线可视化运行、历史、用量统计与模型健康分析
+- 跨厂商仲裁共识流程：agent 先盲判、外部模型独立评审、异议保留
+- 8 个领域专家角色与自动路由，双模式（只读分析或实施）
+- 本地仪表盘：运行时间线、历史、provider 健康与用量统计
+- 内置分析器报告每模型延迟/token/一致度并标记 drop 候选
 
 ## 适用场景
 
-- 在编码代理中让多个模型交叉评审方案、找 bug 并达成共识
-- 为不同问题类型（架构、安全、调试）路由到对应专家模型
-- 用仪表盘跟踪各模型的延迟与一致性，决定保留哪些模型
+- 提交 diff 前让多个模型交叉评审真实 bug、安全问题与缺失测试
+- 让三个模型互相辩论并查看分歧矩阵以确定优先修复项
+- 用分析器评估哪些参与模型贡献不足并淘汰
+- 在 Claude Code、Codex、Cursor、Gemini CLI 等多个宿主中使用同一评审服务
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L40: OpenAI-compatible model (via OpenRouter) for help through MCP. Deliberation handles the wiring
-> L44: It is not tied to Claude Code. The same MCP server runs on any MCP host, and Codex, Cursor,
-> L145: Tools exposed: `ask-all`, `consensus` (the full convergence loop in one call, or a single synthesis pass with `syn
+> L10: Deliberation is an MCP server and Claude Code plugin. In `/consensus`, your agent records its own verdict before it
+> L83: It is not tied to Claude Code. The same MCP server runs on any MCP host, and Codex, Cursor,
+> L88: You can use any subset of the providers. Deliberation detects which are configured and routes
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `d6e48f099e1a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `535ac9e33f31` · [字段定义](../../DATASET.md)*

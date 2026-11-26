@@ -2,9 +2,9 @@
 
 ⭐ 171 · Jupyter Notebook · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/HelmchenLabSoftware/Cascade) · 组织维护
 
-**从钙成像数据推断神经元放电的深度学习工具箱**
+**用深度网络从钙成像ΔF/F轨迹推断放电的科研工具**
 
-Cascade 将钙成像 ΔF/F 信号转换为放电概率或离散脉冲：内置覆盖脑区、钙指示剂与物种的真值数据库，提供按噪声水平与帧率重采样训练数据的流程、多种预训练深度网络，以及将推断放电率转换为离散脉冲的工具。提供 Colab Notebook 免安装使用，或经 conda 本地安装；虽基于深度网络但 GPU 非必需，可集成到 CaImAn/Suite2P 流程。主要面向神经科学研究者。
+Cascade 将双光子钙成像的 ΔF/F 轨迹转换为放电概率或离散 spike。工具箱包含持续更新的 ground truth 数据库（35 个数据集、>400 神经元，覆盖多种钙指示剂、脑区与物种）、训练好的预训练模型库、按噪声水平与帧率重采样训练数据的流程，以及量化分布外泛化和将放电率转为离散 spike 的工具。可通过 Colab Notebook 免安装使用，也可在 Ubuntu/Windows 本地用 Anaconda 安装；GPU 非必需。科研用户需注意早期版本依赖 Tensorflow 2.1 的安装已弃用。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Cascade 将钙成像 ΔF/F 信号转换为放电概率或离散脉冲：内置�
 
 ## 能力要点
 
-- 深度网络从钙数据预测放电率，输出放电概率或离散脉冲
-- 覆盖多脑区、多钙指示剂与物种的持续更新真值数据库（35 个数据集、400+ 神经元）
-- 大量不同条件下的预训练网络，含 GCaMP8 与脊髓数据模型
-- GPU 非必需，训练可在 CPU 上运行
+- 预训练模型库覆盖多种钙指示剂（GCaMP6/7/8、R-CaMP、jRGECO 等）与脑区、物种
+- ground truth 数据库含 35 个数据集、>400 神经元，可在线浏览
+- 提供 Colab Notebook 免安装云端运行路径
+- GPU 非必需，CPU 即可运行推理与训练
 
 ## 适用场景
 
-- 将双光子钙成像记录转换为神经元放电率
-- 比较不同指示剂（如 GCaMP8）下的单脉冲检测
-- 将放电推断集成到 CaImAn/Suite2P 既有分析流程
+- 将双光子钙成像记录转换为绝对放电率估计
+- 把 spike 推断接入 CaImAn 或 Suite2P 的既有流程
+- 训练自定义网络适配特定噪声水平与帧率的记录
 
 ## 场景标签
 
- · 领域:神经科学/钙成像分析
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L8: *Cascade* translates calcium imaging ΔF/F traces into spiking probabilities or discrete spikes.
 > L15: - A deep network that is trained to predict spike rates from calcium data
-> L99: If you want to modify the code, if you want to integrate the algorithm into your existing pipeline (e.g., with CaIm
+> L101: If you want to modify the code, if you want to integrate the algorithm into your existing pipeline (e.g., with CaI
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `6a38e39d5a57` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `4b259494b823` · [字段定义](../../DATASET.md)*

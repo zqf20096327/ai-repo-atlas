@@ -2,9 +2,9 @@
 
 ⭐ 174 · Python · AGPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/garan0613/pawwake) · 个人维护 · 中文 README
 
-**给任意 LLM 客户端加长期记忆的 OpenAI 兼容转发网关**
+**给任意 LLM 客户端加长期记忆的转发网关**
 
-Pawwake 是部署在客户端与 LLM 服务商之间的轻量代理网关，以 OpenAI 兼容接口（/v1/chat/completions）转发请求，并在链路中加入记忆系统：自动提取对话关键信息，下次对话时检索注入。记忆分碎片/事件/核心三层，支持关键词+向量混合搜索（可选 pgvector）。附带分区缓存（A/B 区轮转+摘要压缩）以利用 prompt caching 降低 token 开销，并提供带独立密码登录的 Dashboard 管理记忆、对话线与运行时配置。通过环境变量配置，可一键部署到 Render/Railway，需 PostgreSQL 才能开启记忆功能；纯转发模式无需数据库。
+部署在你与 LLM 服务商之间的 OpenAI 兼容转发网关：转发请求的同时从对话中自动提取记忆，按碎片→事件→核心三层架构存储，检索后注入后续对话；另提供 MCP 记忆工具、A/B 分区缓存借助 prompt caching 降低 token 开销、对话线管理与 token 统计。纯转发模式无需数据库，记忆功能需另备 PostgreSQL（如 pgvector）。通过 Dockerfile 部署到 Render/Railway 等平台，Dashboard 热更新配置。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ Pawwake 是部署在客户端与 LLM 服务商之间的轻量代理网关，以 
 
 ## 能力要点
 
-- 三层记忆架构（碎片→事件→核心），支持 AI 整理草稿、合并与撤回
-- 分区缓存 A/B 区轮转+摘要压缩，利用 prompt caching 节省 token
-- 关键词+语义向量四维混合搜索（可选，兼容 OpenAI 格式 Embedding API）
-- Dashboard 一体化管理记忆、对话线、Token 统计，配置热更新
+- 三层记忆架构（碎片→事件→核心）与常驻标记注入
+- 兼容任何 OpenAI 格式客户端与服务商，改 API_BASE_URL 即可切换
+- A/B 区轮转分区缓存 + 摘要压缩以利用 prompt caching
+- 通过 /mcp 提供八个记忆管理工具，支持远程 MCP 前端
 
 ## 适用场景
 
-- 给我的聊天客户端（ChatBox/Kelivo 等）加上跨会话长期记忆
-- 通过网关自动管理对话上下文，降低 token 费用
-- 在 Dashboard 里导入预置记忆、查看和编辑 AI 记住的内容
+- 给 ChatBox/NextChat 等聊天客户端接入跨会话长期记忆
+- 固定 session 实现多端对话衔接并节省 token 费用
+- 给陪伴类 AI 批量导入预设背景信息并手动管理权重
 
 ## 场景标签
 
@@ -38,8 +38,8 @@ Pawwake 是部署在客户端与 LLM 服务商之间的轻量代理网关，以 
 ## 证据(README 行号)
 
 > L15: 一个轻量级转发网关，在你和 LLM 之间加一层记忆系统。支持任何 OpenAI 兼容客户端（Kelivo、ChatBox、NextChat 等）和任何 LLM 服务商（OpenRouter、OpenAI、本地 Ollama 等）。
-> L17: Give your AI long-term memory. A lightweight proxy gateway that adds a memory layer between you and any LLM.
-> L222: |`/v1/chat/completions`|POST|核心转发接口（OpenAI 兼容）|
+> L23: - **三层记忆架构 + 常驻标记** — 碎片（自动提取的原始记忆）→ 事件（整理合并后的完整事件）→ 核心（手动标记的重要记忆），支持 AI 生成可编辑的整理草稿、核心候选、手动合并、撤回合并和查看来源；任意一层的记忆都可以设
+> L232: |`/v1/chat/completions`|POST|核心转发接口（OpenAI 兼容）|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `14bda30f4c5b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `32d0aa0f8e4d` · [字段定义](../../DATASET.md)*

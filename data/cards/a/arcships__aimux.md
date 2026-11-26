@@ -1,10 +1,10 @@
 # arcships/aimux
 
-⭐ 268 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/arcships/aimux) · 个人维护 · 中文 README
+⭐ 268 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/arcships/aimux) · 个人维护
 
-**Rust 编写的统一 LLM 接入层：一套 API 调用 327 家服务商**
+**给开发者的 Rust 统一 LLM 接入层：一套 API 接入 329 家服务商**
 
-aimux 将各 AI 服务商的 HTTP API 收敛为单一 LanguageModel trait，提供 282 个 OpenAI-compatible 注册表预设与 45 个厂商包，覆盖文本、流式、工具调用、嵌入、图像、语音、转录、视频、重排序等模态。自带请求录制回放（JSONL）、会话分组、缓存命中追踪、路由回退与 MoA 组合模型；通过 C ABI 提供 Node/Python/Swift/Kotlin/Flutter/Go/Java/C 八种语言绑定，测试基于 2,800+ 回放磁带，无需网络与 API key。明确不做 agent 循环、RAG 或编排。
+Rust 编写的统一 LLM 服务接入层，把各家 AI 服务商的 HTTP API 收敛到单一 `dyn LanguageModel` 接口。覆盖 329 个 provider 名称（282 个 OpenAI 兼容预设 + 47 个 vendor 包），支持文本、流式、工具调用、嵌入、语音、图像、视频、实时转录等多模态操作；内置 JSONL 录制回放、会话分组与 prompt-cache 命中检测，提供 RouterModel 故障回退与 MoA 聚合组合模型。核心从一份 Rust 代码生成 8 种语言绑定，并附浏览器调试控制台。明确不做 agent 循环、RAG 或编排。0.7 为 breaking release。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ aimux 将各 AI 服务商的 HTTP API 收敛为单一 LanguageModel trait，提�
 
 ## 能力要点
 
-- 327 个服务商名：282 个 OpenAI-compatible 预设 + 45 个厂商包
-- 8 种语言绑定共享同一 Rust 核心（napi-rs/PyO3/C ABI）
-- 请求/响应录制为 JSONL 并支持离线回放，测试无需网络与密钥
-- RouterModel 带回退路由、MoaModel 并行聚合多个参考模型
+- 单一 LanguageModel trait 统一 329 个 provider 名称的接入
+- 8 种语言绑定（Node/Python/Swift/Kotlin/Flutter/Go/Java/C）共享同一 Rust 核心
+- 请求/响应 JSONL 录制与离线回放，测试无需网络与 API key
+- RouterModel 回退路由与 MoA 并行聚合组合模型
 
 ## 适用场景
 
-- 在多语言项目中用同一套接口调用不同 LLM 服务商
-- 在服务商间切换或做回退路由而不改调用点
-- 离线回放真实 API 响应做回归测试与事故取证
-- 为Flutter/移动端应用内嵌统一的模型调用能力
+- 在一个项目里统一接入多家 LLM 服务商并随时切换
+- 多语言（Go/Java/Swift 等）客户端共享同一套模型调用逻辑
+- 离线回放录制流量做回归测试与事故取证
+- 带回退策略的路由与 mixture-of-agents 聚合调用
 
 ## 场景标签
 
@@ -38,9 +38,9 @@ aimux 将各 AI 服务商的 HTTP API 收敛为单一 LanguageModel trait，提�
 
 ## 证据(README 行号)
 
-> L23: aimux is a Rust implementation of a unified LLM provider access layer. It
-> L27: Unlike **rig** or **langchain**, aimux does **not** build agent loops, RAG, or
-> L60: - **8 language bindings** from one core: Node, Python, Swift, Kotlin, Flutter,
+> L24: aimux is a Rust implementation of a unified LLM provider access layer. It
+> L28: Unlike **rig** or **langchain**, aimux does **not** build agent loops, RAG, or
+> L61: - **8 language bindings** from one core: Node, Python, Swift, Kotlin, Flutter,
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1f70457fa506` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `10e856b143a9` · [字段定义](../../DATASET.md)*

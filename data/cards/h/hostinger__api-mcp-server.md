@@ -2,9 +2,9 @@
 
 ⭐ 174 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hostinger/api-mcp-server) · [官网](https://developers.hostinger.com) · 组织维护
 
-**让 AI 客户端通过 MCP 操作 Hostinger 托管业务 API 的服务器**
+**让 AI 客户端通过 MCP 调用 Hostinger API 的服务器**
 
-Hostinger 官方发布的 Model Context Protocol 服务器，把 Hostinger API 的 409 个操作（托管、VPS、域名、DNS、邮件、WordPress、电商等 12 组）封装为 search/execute/multi-execute 三个 MCP 工具，供 Claude Code、Cursor 等 MCP 兼容客户端调用。提供托管远程服务器（mcp.hostinger.com，OAuth 授权）与本地 npm 安装两种方式；本地运行需 Node.js 24+，支持 stdio 与 HTTP 两种传输，认证可用 API Token 或 OAuth 2.0 with PKCE，按领域拆分为 12 个独立二进制。
+Hostinger API 的 MCP 服务器，将 426 个 Hostinger 运维操作封装为 search/execute/multi-execute 三个工具，供 Claude、Cursor 等 MCP 兼容客户端调用，覆盖托管、VPS、域名、DNS、邮件、WordPress、账单等 14 个分组（提供分组范围的独立二进制）。支持远程托管服务器直连或本地 npm 安装；认证支持 API Token 与 OAuth 2.0 + PKCE，stdio 与 HTTP 两种传输模式。需 Node.js 24+。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Hostinger 官方发布的 Model Context Protocol 服务器，把 Hostinger API �
 
 ## 能力要点
 
-- 统一服务器覆盖 409 个 Hostinger API 操作，另提供 12 个按领域拆分的独立二进制
-- search / execute / multi-execute（最多 20 步、支持步骤间结果引用）三个 MCP 工具
-- 支持 API Token 与 OAuth 2.0 with PKCE 两种认证，凭据本地加密存储
-- 提供托管远程服务器 https://mcp.hostinger.com，可免本地安装直连
+- 将 426 个 Hostinger API 操作以 search/execute/multi-execute 三个 MCP 工具暴露
+- 14 个按产品分组的二进制（hosting/vps/domains/dns/mail/wordpress 等）
+- API Token 与 OAuth 2.0 + PKCE 两种认证方式，凭证自动存储与刷新
+- 提供托管远程服务器（mcp.hostinger.com）免本地安装接入
 
 ## 适用场景
 
-- 在 Claude Code / Cursor 中通过对话管理 Hostinger 的主机、域名与 VPS
-- 部署静态网站或 PHP 应用到 Hostinger Agency Plan
-- 脚本/CI 中用 API Token 自动化执行 Hostinger 运维操作
+- 在 Claude Code 或 Cursor 中用自然语言管理 Hostinger 主机、VPS 与域名
+- 脚本/CI 中通过 API Token 自动化 Hostinger 账单与 DNS 操作
+- 按需只暴露某一产品分组（如仅 VPS）的 MCP 工具给客户端
 
 ## 场景标签
 
- · 领域:云托管/开发者工具
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L3: Model Context Protocol (MCP) server for Hostinger API.
-> L64: - `hostinger-api-mcp` — unified server over every operation (409 total)
-> L165: This server implements the Model Context Protocol (MCP) and can be used with any MCP-compatible consumer.
+> L177: This server implements the Model Context Protocol (MCP) and can be used with any MCP-compatible consumer.
+> L73: - `hostinger-api-mcp` — unified server over every operation (426 total)
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `07bc1dcdd708` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7a9acf529eef` · [字段定义](../../DATASET.md)*

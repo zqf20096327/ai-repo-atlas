@@ -2,9 +2,9 @@
 
 ⭐ 424 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aallan/vera) · [官网](https://veralang.dev/) · 个人维护
 
-**面向 LLM 编写而设计的可验证编程语言与工具链**
+**为 LLM 编写而设计的编程语言：契约强制、编译到 WebAssembly**
 
-Vera 是一种为大型语言模型编写代码而设计的编程语言：无变量名（结构化引用替代命名）、强制契约（requires/ensures）、类型化效应（LLM 推理/HTTP 需在签名声明）。程序经 Z3 静态证明契约，不可判定的转为运行时检查，编译产物为 WebAssembly，可在命令行、浏览器或 WASI 0.2 主机运行。以 PyPI 包 veralang 分发，含编译器、验证器、语言服务器（LSP）与结构化 JSON 诊断；错误信息以指令形式直接回传给 agent。要求 Python 3.11+，部分平台依赖 z3-solver wheel。
+Vera 是一门面向大语言模型作者的编程语言，名字取自拉丁语 veritas。语言层面取消变量名（用 @Int.0 等结构化引用）、强制契约（requires/ensures 由 Z3 静态证明或转为运行时检查）、效果类型化（LLM 调用、HTTP 须在签名声明），诊断信息按'给模型看的修复指令'格式输出并支持 JSON。程序编译为 WebAssembly，可在命令行、浏览器或 WASI 0.2 主机运行。通过 PyPI 发行 veralang，提供 vera check/verify/errors 命令与语言服务器（lsp 扩展）。不支持 macOS 14 及更早版本与低版本 glibc 的 Linux aarch64。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Vera 是一种为大型语言模型编写代码而设计的编程语言：无变
 
 ## 能力要点
 
-- 强制契约 + Z3 SMT 求解器静态证明，未证明项转为运行时检查
-- 类型化效应：调用 LLM 或 HTTP 必须在签名中声明
-- 错误诊断包含修复示例与规范引用，支持 --json 结构化输出
-- 编译到 WebAssembly，支持命令行/浏览器/WASI 0.2 运行
+- 契约强制：requires/ensures 由 SMT 求解器静态证明或降级为运行时检查
+- 变量名被结构化引用取代，效果在函数签名中显式声明（如 <Inference>、<Http>）
+- SQL 注入形态（字符串拼接查询）在类型检查阶段无法编译（E207）
+- 错误诊断含错误原因、修复示例与规范引用，支持 --json 结构化输出
 
 ## 适用场景
 
-- 让 LLM agent 编写带有机器可验证契约的代码
-- 对 AI 生成的代码做静态证明与运行时检查
-- 构建调用 LLM 推理并显式追踪效应的程序
+- 让 LLM agent 编写带强制契约的 Vera 代码并由 vera verify 校验
+- 将可验证的程序编译为 WebAssembly 在命令行或浏览器运行
+- 从语言层面消除 SQL 注入等字符串拼接类漏洞
+- 研究面向 AI 代码生成的语言设计与形式化验证结合
 
 ## 场景标签
 
-`代码生成` · 领域:编码与开发
+ · 领域:编程语言/程序验证
 
 ## 证据(README 行号)
 
 > L10: **Vera** (v-ERR-a) is a programming language designed for large language models to write. The name comes from the L
-> L27: Vera addresses this by making everything explicit and verifiable. The model doesn't need to be right; it needs to b
 > L158: The workflow: an LLM agent writes Vera with mandatory contracts; vera check and vera verify check every type and p
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `0875857a9cb0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e6b744e47b7e` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 173 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/clawboo/clawboo) · [官网](https://www.claw.boo) · 组织维护
 
-**自托管的多 AI agent 团队工作台：一次提问，团队分工协作交付**
+**自托管的多 AI agent 团队编排工作室：一次提问自动分派协作**
 
-本地运行的开源 agent 团队工作室：用户在群聊中提出需求，团队领队 Boo Zero 将其拆解为看板任务并分派给运行在不同工具上的队友（Claude Code、Codex、Hermes、OpenClaw 或内置 agent），用户可实时观看团队图与任务进度并取回汇总结果。模型接入支持 Anthropic、OpenAI、OpenRouter 等十余家 API key、本地 Ollama，或经 Codex CLI 使用 ChatGPT 订阅。提供共享团队记忆、连接器（MCP/Composio）、预算与审批控制；通过 npx/npm 安装，需 Node.js 22.12+，无遥测、无需账户。
+开源、自托管的多 agent 团队运行平台：用户在群聊中提问，领队 agent Boo Zero 将请求拆为看板任务并分派给不同 teammate，每个 teammate 可运行在 Claude Code、Codex、Hermes、OpenClaw 或 Clawboo 内置 agent 之上，过程在看板、群聊与组织图中实时可见。模型通过 API key（Anthropic、OpenAI、OpenRouter 等 11 家）、本地 Ollama 或 ChatGPT 订阅接入；提供共享团队记忆、预算与花费追踪、代码级委托深度限制与风险操作审批。通过 npx 或 npm 全局安装，浏览器内向导完成配置。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- Boo Zero 领队拆解任务并分派给多运行时 agent 队友
-- 支持 11 个模型提供方与本地 Ollama、ChatGPT 订阅接入
-- 共享团队记忆（可浏览的图结构）与 400+ 市场化 agent/团队
-- 预算追踪、代码内委派上限、风险工具调用审批与 git worktree 验证
+- Boo Zero 将一次请求拆为看板任务并自动分派给 teammate
+- teammate 可运行于 Claude Code、Codex、Hermes、OpenClaw 或内置 agent
+- 支持 11 家 API 提供商、本地 Ollama 无 key 使用与 ChatGPT 订阅登录
+- 预算告警/硬上限、代码级委托深度与 fan-out 限制、风险工具调用审批
 
 ## 适用场景
 
-- 让一组 AI agent 协作完成营销、开发或研究任务
-- 统一管理多个 agent 运行时（Claude Code/Codex/Hermes/OpenClaw）的团队
-- 自托管环境下用本地或自有 API key 运行 agent 团队
+- 让一支 agent 团队协作完成发布计划、文案与竞品比价
+- 自托管搭建混合多运行时（Claude Code/Codex/OpenClaw）的 agent 团队
+- 用本地 Ollama 模型在无 API key 下运行 agent 团队
+- 给营销、开发或研究小组配备可观测、可审批的 agent 分工看板
 
 ## 场景标签
 
-`多智能体` `Agent 框架` · 领域:Agent 开发
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5:  Ask once. Boo Zero, your team lead, splits the work into jobs on one board
-> L46: |**02**|**Boo Zero splits it into jobs**|Each job becomes a card on the board, handed to the teammate Boo Zero pick
-> L70: 2. **Add your AI tools (optional).** Connect Claude Code, Codex, Hermes or OpenClaw now, or skip and do it later fr
+> L10:  Your agents use the AI you connect: an API key (Anthropic, OpenAI, OpenRouter or seven more), a free local model t
+> L106: - **Routines replace the Scheduler.** Put work on a clock. A team routine posts into the group chat for Boo Zero t
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `77f0be6ce547` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `befd0b0e870c` · [字段定义](../../DATASET.md)*

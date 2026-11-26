@@ -2,9 +2,9 @@
 
 ⭐ 251 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Sanuu7/AndroidHarness) · [官网](https://androidharness.pages.dev/) · 个人维护
 
-**在 Android 手机上运行的 AI 编码 agent 与聊天助手应用**
+**在 Android 手机上运行的 AI 编程代理与聊天助手应用**
 
-Kotlin + Jetpack Compose 编写的原生 Android 应用，分 Code（项目内编码 agent：文件读写、shell、git、测试、浏览器控制、subagent）与 Chat（日常问答与调研）两部分。模型来源包括内置免密 provider、本地 GGUF 离线模型与云端 API。shell 通过 Shizuku/Wireless ADB/root/Termux 工具链分层获取，敏感操作需审批，变更以 diff 呈现可撤销。支持 21 种界面语言，可从 Google Play/GitHub Releases 安装或源码构建。
+Kotlin + Jetpack Compose 编写的原生 Android 应用，分 Code 与 Chat 两个模块：Code 在项目文件夹内通过文件编辑、shell、git、测试与浏览器工具执行编码任务；Chat 处理日常问答与研究，可移交任务给 Code。shell 通过 Shizuku、Wireless ADB、可选 root 或 Termux Linux 工具链运行；模型可用内置免密 provider、云端 API key 或设备端 GGUF 本地模型离线运行。支持插件、MCP、21 种语言，敏感操作需审批且改动可撤销。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Kotlin + Jetpack Compose 编写的原生 Android 应用，分 Code（项目内�
 
 ## 能力要点
 
-- 手机端编码 agent：文件编辑、shell、git、测试、浏览器与 subagent，工具调用以卡片展示
-- 分层 shell 访问：Shizuku、Wireless ADB、可选 root、Termux Linux 工具链与 toybox 回退
-- 内置免密 provider 与本地 GGUF 离线模型，云端 API key 可选
-- 插件/skill/MCP 支持，npm、GitHub、Claude marketplace 等来源安装
+- 文件编辑、shell、git、测试、浏览器控制与子代理的完整编码代理工具链
+- 内置免密 provider 与设备端 GGUF 模型离线运行
+- 11 个搜索 provider 的网页研究流程，读取页面并引用来源
+- 插件/skills/MCP 安装管理，命令经 Shizuku/Wireless ADB/Termux 多级 shell 执行
 
 ## 适用场景
 
-- 没有电脑时在手机上继续修改和提交代码项目
-- 离线场景用本地模型跑聊天与编码任务
-- 通过 SSH/FTP 在手机上管理远程工作区并推送 GitHub
+- 没有 PC 时在手机上修改代码、跑测试并推送到 GitHub
+- 用本地模型在离线环境运行编码代理
+- 把应用设为数字助理，随时询问当前屏幕内容
+- 通过 Chat 做网页研究并获取带引用的答案
 
 ## 场景标签
 
@@ -39,7 +40,7 @@ Kotlin + Jetpack Compose 编写的原生 Android 应用，分 Code（项目内�
 
 > L5: **An AI coding agent and chat assistant that runs on your Android phone.**
 > L21: AndroidHarness is a native Android app, written in Kotlin with Jetpack Compose, for working on real code projects f
-> L25: - **Code** is the agent. It works inside a project folder with files, shell, git, tests and browser tools.
+> L28: You can start for free with the built-in provider, which needs no account, or run models fully offline on the devic
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b4e707d90678` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3c6b51611439` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 304 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jammaru/sakutto) · [官网](https://chrome.google.com/webstore/detail/mhlbjjijfkoghmcjndgdimhdlfkhadfl) · 个人维护
 
-**浏览器本地翻译扩展：用 PLaMo 在设备上翻译网页/PDF/字幕**
+**浏览器本地翻译扩展：用 PLaMo 在设备上翻译网页/PDF/视频/输入**
 
-非官方的 Chrome/Firefox 扩展，默认引擎为 PLaMo 3 Translate，通过固定版本的 wllama 构建在 WebGPU 或 CPU 上运行，模型权重约 546 MB 首次从 Hugging Face 下载后离线使用。功能覆盖整页翻译、划词弹窗、输入框即时替换、自有阅读器中的版式保留 PDF 翻译、YouTube/X 视频字幕覆盖层，以及全局与按站点的术语表（CSV 导入导出）和 Easy Japanese 目标语言。无账号、无遥测；Chrome 上另有 11 种 PLaMo 不支持的目标语言交给 Chrome 内置翻译器。
+非官方 Chrome/Firefox 扩展，默认引擎为 PLaMo 3 Translate，通过固定版本的 wllama 构建在 WebGPU 或 CPU 上运行，翻译过程在用户设备本地完成、可离线使用。支持整页替换或双语视图、选中文本、输入框文字（Alt+T）、Gmail/Outlook 邮件横幅、保留版式的 PDF 翻译（无文本层的扫描页用 PP-OCRv6 本地 OCR）、YouTube/X 视频字幕覆盖翻译、全局与按站点术语表（CSV 导入导出）以及「易日语」目标。模型权重从 Hugging Face 下载（默认 0.8B 约 546 MB），无账号、无遥测。Chrome 上另有 11 个目标语言由 Chrome 内置翻译器处理；Firefox 仅用 PLaMo。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 默认引擎 PLaMo 3 Translate 经 wllama 在设备上运行，支持 53 种语言双向翻译
-- 版式保留的 PDF 逐页翻译（双栏、表格、图注结构保持）
-- 全局与按站点术语表，单表至 5,000 词、单次合并至 10,000 词
-- 实验性接入本地 OpenAI 兼容服务器（mlx_lm.server/LM Studio/llama-server 类）
+- 默认 PLaMo 引擎本地运行，53 种语言双向翻译，可离线
+- 保留版式的 PDF 翻译，扫描页用本地 PP-OCRv6 识别
+- 视频字幕（YouTube 含直播、X）播放时覆盖翻译
+- 全局/站点术语表与易日语目标，实验性本地 OpenAI 兼容服务器后端
 
 ## 适用场景
 
-- 在浏览器中离线翻译整页网页并保留原文布局
-- 将英文学术 PDF 或日文文档逐页翻译且保持排版
-- 观看 YouTube/X 视频时实时翻译字幕
-- 维护术语表使产品名与专业词汇按自己的译法输出
+- 在浏览外文网页和论文 PDF 时整页翻译且文本不出设备
+- 看 YouTube/X 视频时实时翻译字幕
+- 写邮件或消息前把草稿翻成目标语言再替换
+- 用术语表固定产品名和术语的译法
 
 ## 场景标签
 
- · 领域:浏览器工具/机器翻译
+ · 领域:浏览器工具/翻译
 
 ## 证据(README 行号)
 
-> L16: Sakutto is an unofficial Chrome and Firefox extension that translates web pages, PDFs, video captions, selections, 
-> L118: No, not by default. Translation runs on your device, and the developer receives no page text, selections, glossary
+> L16: Sakutto is an unofficial Chrome and Firefox extension that translates web pages, PDFs (including scans), images, vi
+> L18: For PLaMo's 53 languages, every translated line comes from PLaMo. On Chrome, Chrome's built-in translator is used o
+> L90: 3. Accept the PLaMo licence and let the one-time model download finish. After that, translation runs on your device
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `354e7a492372` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b2f278752860` · [字段定义](../../DATASET.md)*

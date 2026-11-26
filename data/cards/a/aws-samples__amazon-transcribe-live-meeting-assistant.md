@@ -2,9 +2,9 @@
 
 ⭐ 172 · Python · MIT-0 · 推送 2026-11-25 · [GitHub](https://github.com/aws-samples/amazon-transcribe-live-meeting-assistant) · [官网](https://aws-samples.github.io/amazon-transcribe-live-meeting-assistant/) · 组织维护
 
-**实时会议转录/翻译/摘要与 AI 助手的 AWS 解决方案**
+**加入会议的 AI 助手：实时转录、翻译、问答与纪要**
 
-基于 Amazon Transcribe、Amazon Bedrock 与 Strands Agents SDK 构建的实时会议助手：提供带说话人归属的直播转录、75+ 语言翻译、按需与自动会议摘要、带内置工具的 AI 会议助手，以及 MCP server 扩展。音频采集支持无头 Chrome 虚拟参会者（Zoom/Teams/Chime/WebEx）与 macOS/Windows 桌面捕获应用；转录结果经 Kinesis/Lambda 处理后存 DynamoDB 并通过 AppSync 推送 React 界面。以 AWS CloudFormation 一键部署方式提供，面向使用 AWS 的企业用户，含月度成本估算；要求使用者遵守会议录制相关法律与公司规定。
+部署在用户自有 AWS 账户的会议助手方案：Virtual Participant 以客人身份加入 Zoom、Teams、Google Meet、Webex、Chime 会议，实时生成带说话人标注的转录并翻译 75+ 种语言，可在会议聊天中回答提问，会后输出摘要、行动项、议程覆盖情况与可检索的幻灯片截图。语音引擎默认用 Amazon Transcribe，也可选自托管 ASR MicroVM；助手基于 Bedrock 模型与 Strands Agents SDK 构建，支持 MCP 双向集成。含会议同意记录与保留策略功能。
 
 ## 筛选速览
 
@@ -20,27 +20,25 @@
 
 ## 能力要点
 
-- 带说话人归属的实时转录（Amazon Transcribe）与 75+ 语言实时翻译
-- 基于 Strands Agents SDK + Amazon Bedrock 的 AI 会议助手，支持 MCP server 扩展外部工具
-- 虚拟参会者（无头 Chrome bot）可加入 Zoom/Teams/Chime/WebEx，另有 macOS/Windows 桌面捕获应用
-- 按需/自动会议摘要、行动项生成，以及基于 Bedrock Knowledge Base 的历史会议语义检索
+- Virtual Participant 以客人身份加入多平台会议并实时转录、翻译 75+ 种语言
+- 共享房间内区分并标注每位说话人，支持声纹注册（Beta）
+- 带工具的会议 Agent：搜索本次/历史会议、文档与网页，可在会议聊天中提问
+- 会议同意记录、保留策略与逐会议成本估算
 
 ## 适用场景
 
-- 会议中实时获得转录与翻译，无需手动记笔记
-- 会后自动生成摘要与行动项发给未参会成员
-- 通过对话让 AI 助手检索会议记录、网页和文档以即时答疑
-- 跨历史会议语义检索过往讨论内容
+- 远程会议实时转录、翻译并区分说话人
+- 会议进行中向 AI 提问并自动生成纪要和行动项
+- 需要留存参会者同意记录的合规录音场景
 
 ## 场景标签
 
-`语音识别` `AI 助手` `语义搜索` · 领域:对话与助手
+`AI 助手` `语音识别` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L21: - **Live transcription with speaker attribution** — Powered by Amazon Transcribe with custom vocabulary and languag
-> L23: - **AI meeting assistant** — Strands Agents SDK with Amazon Bedrock, with built-in tools for transcript search, web
-> L25: - **On-demand and automatic summaries** — Generate summaries, action items, and insights during and after meetings
+> L3: **An AI teammate in your meetings, not just a note taker.** LMA joins your Zoom, Microsoft Teams, Google Meet, Webex
+> L63: Audio streams over a secure WebSocket to the transcriber service on AWS Fargate. That service sends it to the meeti
 
 ## 星数曲线
 
@@ -56,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c5b7052dad18` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `32eeecee9763` · [字段定义](../../DATASET.md)*

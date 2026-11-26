@@ -1,10 +1,10 @@
 # ryuxdsgn/design-intelligence
 
-⭐ 182 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ryuxdsgn/design-intelligence) · [官网](https://ryux.design) · 组织维护
+⭐ 182 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ryuxdsgn/design-intelligence) · [官网](https://ryux.design) · 个人维护
 
-**给 AI 编码/设计 agent 的设计决策技能包**
+**给 AI agent 补设计流程能力的技能包：先问后做、可批判可验证**
 
-RYUX 是一套安装到 AI agent 中的设计智能技能：包含路由器 SKILL.md、五个能力文件（Analyze/Design/Build/Critique/QA）与设计规则知识模块。工作流为理解、框定问题、探索两三个方案、按 brief 评估、构建并评审、验证；任务前区分已知事实、设计假设与未确认能力，每个决策附带证据与置信度收据，规则分级且设硬性门槛（禁止编造数字、禁止缺失关键状态）。面向产品设计师、使用 AI 编码 agent 的开发者与设计工程师。通过 npx 安装器、skills.sh、Claude Code 插件等分发，另有本地 MCP server；参考屏幕的托管 MCP 与参考库尚未发布。自称 early access。
+RYUX 是一个面向 AI 编码 agent 的设计技能与配套 CLI：内置路由 skill 将任务分为 Analyze/Design/Build/Critique/QA 五类步骤，工作流要求先理解产品上下文、列出未决项而非编造业务规则，每个任务结束输出已验证/未验证报告。CLI 的 scan 以 Rust 编译的 WebAssembly 运行无 LLM 检查（可访问性、货币格式、布局），支持 CI 中 exit 1 失败与编辑钩子回传发现。兼容 Claude Code、Codex、Cursor、Gemini CLI 等多种 agent。基准文档同时公布 RYUX 落败的一项基准与 1.5-7 倍的运行成本。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ RYUX 是一套安装到 AI agent 中的设计智能技能：包含路由器 SKIL
 
 ## 能力要点
 
-- 五能力工作流：Analyze/Design/Build/Critique/QA
-- 决策收据：证据、置信度与假设标注，区分事实与假设
-- 规则分级（Required/Preferred/Contextual）加硬性门槛
-- 支持 npx 安装器、skills.sh、Claude Code/Codex/Copilot/VS Code/Gemini CLI 插件
+- skill 路由分发 Analyze/Design/Build/Critique/QA 五类任务并要求先提问后设计
+- scan 检查以 Rust/WASM 运行，无 LLM 与 API key，exit 1 可接入 CI
+- 支持 Figma 库读取生成 DESIGN.md，未决事项以标注列出而非编造
+- --hook 将每次编辑的检查结果回传给 Claude Code/Codex/Cursor/OpenCode
 
 ## 适用场景
 
-- 让 AI 编码 agent 在设计 UI 前先提问、列假设而非直接编造
-- 对已有界面做启发式评审与可访问性检查
-- 构建后按设计与多宽度/状态做 QA 核验
+- 让 agent 在没有完整需求时先提问再生成界面
+- 对已有前端页面做多宽度可访问性与布局扫描
+- 从 Figma 文件生成团队 DESIGN.md 设计规范
+- 在 CI 中对构建结果与设计稿做一致性 QA
 
 ## 场景标签
 
-`提示工程` · 领域:Agent 开发
+`编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L11: RYUX helps AI agents make better-informed design decisions. It gives them a structured way to
-> L145: One skill folder, `ryux/`: a router (`SKILL.md`) that picks the step, five capability files, and
-> L108: `/plugin install ryux@design-intelligence`), Codex, GitHub Copilot, VS Code, and Gemini CLI. The
+> L10: A design skill for AI agents. Your agent asks about the product before it designs, keeps what it does not know
+> L92: `scan` checks what a machine can see, with no LLM and no API key. The checks are written in Rust and run as
+> L119: `npx --no-install @ryuxdsgn/design-intelligence scan` from the project. In auto mode, Claude Code can refuse a
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `ad75770e2310` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0217c1267ff3` · [字段定义](../../DATASET.md)*

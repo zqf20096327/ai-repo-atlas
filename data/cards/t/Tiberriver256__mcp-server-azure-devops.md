@@ -4,7 +4,7 @@
 
 **让 AI 助手经 MCP 协议操作 Azure DevOps 的服务器**
 
-实现 Model Context Protocol 的 Azure DevOps 服务器，在 AI 助手（如 Claude）与 Azure DevOps API 之间充当桥接，提供项目、工作项、仓库、分支、流水线、Wiki、测试计划等工具集。支持 PAT、Azure Identity、Azure CLI 三种认证方式；提供工具过滤、只读模式（fail-closed）等安全控制；通过 npx 运行发布包或从源码构建。另注明 Microsoft 维护官方版，本社区版适用于本地部署的 Azure DevOps Server 及官方版尚未覆盖的功能。
+实现 Model Context Protocol 的服务器，充当 AI 助手与 Azure DevOps API 之间的桥梁：提供 77 个工具、13 个工具集，覆盖项目、工作项、仓库、PR、流水线、Wiki、测试计划、OData 分析与实时事件。支持 stdio 与 Streamable HTTP 传输、Docker 打包、PAT/Azure Identity/Azure CLI 三种认证、只读模式与工具过滤预设，并默认启用 prompt-injection Spotlighting。README 注明微软另维护官方云版 MCP，本社区版适合本地部署（on-premises）或官方版未覆盖的功能。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 提供工作项、仓库、PR、流水线、Wiki、测试计划等多组 MCP 工具
-- 支持 PAT / Azure Identity / Azure CLI 三种认证方式
-- 工具集过滤与只读模式（--read-only 为 fail-closed）
-- 支持本地部署版 Azure DevOps Server（仅 PAT 认证）
+- 77 个工具、13 个工具集，覆盖工作项/仓库/PR/流水线/测试计划等
+- 支持 stdio 与 Streamable HTTP 传输及 Docker 打包
+- 三种认证方式：PAT、Azure Identity、Azure CLI；on-prem 仅支持 PAT
+- 只读模式、工具过滤预设与默认启用的 Spotlighting 防注入机制
 
 ## 适用场景
 
-- 用自然语言创建和更新工作项、分支与 PR
-- 让 AI 助手查询流水线状态并触发运行
-- 在 Claude Desktop / Cursor 中接入 Azure DevOps 资源
-- 管理本地部署的 Azure DevOps Server（旧版本）
+- 让 Claude Desktop 或 Cursor 通过自然语言创建工作项、审查 PR、触发流水线
+- 本地部署 Azure DevOps Server 团队接入 AI 助手
+- 以只读模式向 AI 暴露 DevOps 数据避免误操作
 
 ## 场景标签
 
- · 领域:开发工具/DevOps 基础设施
+ · 领域:DevOps/AI 工具集成
 
 ## 证据(README 行号)
 
 > L3: A Model Context Protocol (MCP) server implementation for Azure DevOps, allowing AI assistants to interact with Azure
 > L11: This server implements the Model Context Protocol (MCP) for Azure DevOps, enabling AI assistants like Claude to int
+> L21: The server is structured around the Model Context Protocol (MCP) for communicating with AI assistants. It provides 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `659758ab0d2c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d26d61251e67` · [字段定义](../../DATASET.md)*

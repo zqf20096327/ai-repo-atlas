@@ -1,1 +1,80 @@
-{"fn": "kortix-ai/CompanyOS", "sha": "3d6b41a50e34", "source": "readme", "identity": {"one_liner": "面向 AI-native 公司的开源公司操作系统：托管与编排 agent", "review": "Kortix CompanyOS 将企业的数据源、agent、技能、记忆与连接器收进一个自有的 git 仓库（company as code），提供事件驱动的触发器、名为 My Kortix 的对话入口 agent、多 agent 并行（swarm）、每个会话独立的云端沙箱计算机、结果驱动（Outcome）工作流与审批/审计/SSO 等团队管控。用户通过 CLI、Web、Slack/Teams/邮件/MCP 接入；自托管经由 Docker Compose 栈部署到自有 VPC 或本地服务器，模型可自带 key 接任意 provider。", "highlights": ["agent、技能、记忆与连接器以文件形式存于单一自有 git 仓库", "事件驱动触发：定时、签名 webhook、连接器与应用事件、合并的变更请求", "每个会话独立云计算机，空闲休眠、状态持久，数千 agent 可按一份配置并行", "支持 Kortix Cloud、VPC 或本地自托管，模型 provider 与 key 自选"], "use_cases": ["把公司的 agent、技能与连接器作为代码集中管理并版本化", "让 agent 7×24 小时按定时/webhook 自主推进带完成定义的目标", "在自有 VPC 或本地网络中自托管企业 AI agent 平台", "团队多人共享同一套 agent、公司记忆与权限体系"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "none", "deploy": "self-host", "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "企业", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["agent编排", "company-as-code", "自托管", "LLM网关", "企业协作"], "domain": "企业级 AI agent 平台/基础设施", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "company", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L35: Kortix CompanyOS takes the session out of the person's hands. It is a **cloud-native agent harness**: you", "L76: |**Models**|Kortix-managed models, your own provider keys, a ChatGPT subscription or a Claude subscription. Every reques", "L105: |**Company as code** Extensible to the core.|Every agent, skill, rule, connector and piece of context is a file in one g"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-26", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "kortix-ai/CompanyOS",
+ "sha": "3d6b41a50e34",
+ "source": "readme",
+ "identity": {
+  "one_liner": "面向 AI-native 公司的开源公司操作系统：托管与编排 agent",
+  "review": "Kortix CompanyOS 将企业的数据源、agent、技能、记忆与连接器收进一个自有的 git 仓库（company as code），提供事件驱动的触发器、名为 My Kortix 的对话入口 agent、多 agent 并行（swarm）、每个会话独立的云端沙箱计算机、结果驱动（Outcome）工作流与审批/审计/SSO 等团队管控。用户通过 CLI、Web、Slack/Teams/邮件/MCP 接入；自托管经由 Docker Compose 栈部署到自有 VPC 或本地服务器，模型可自带 key 接任意 provider。",
+  "highlights": [
+   "agent、技能、记忆与连接器以文件形式存于单一自有 git 仓库",
+   "事件驱动触发：定时、签名 webhook、连接器与应用事件、合并的变更请求",
+   "每个会话独立云计算机，空闲休眠、状态持久，数千 agent 可按一份配置并行",
+   "支持 Kortix Cloud、VPC 或本地自托管，模型 provider 与 key 自选"
+  ],
+  "use_cases": [
+   "把公司的 agent、技能与连接器作为代码集中管理并版本化",
+   "让 agent 7×24 小时按定时/webhook 自主推进带完成定义的目标",
+   "在自有 VPC 或本地网络中自托管企业 AI agent 平台",
+   "团队多人共享同一套 agent、公司记忆与权限体系"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "none",
+  "deploy": "self-host",
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "企业",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "agent编排",
+   "company-as-code",
+   "自托管",
+   "LLM网关",
+   "企业协作"
+  ],
+  "domain": "Agent 开发",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "multi-agent",
+   "workflow-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "company",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L35: Kortix CompanyOS takes the session out of the person's hands. It is a **cloud-native agent harness**: you",
+   "L76: |**Models**|Kortix-managed models, your own provider keys, a ChatGPT subscription or a Claude subscription. Every reques",
+   "L105: |**Company as code** Extensible to the core.|Every agent, skill, rule, connector and piece of context is a file in one g"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-26",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

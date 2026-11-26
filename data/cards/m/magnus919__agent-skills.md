@@ -2,9 +2,9 @@
 
 ⭐ 191 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/magnus919/agent-skills) · 个人维护
 
-**AI agent 技能集合：多领域可复用工作流与知识包**
+**面向 agent 框架的可复用技能合集与工程方法库**
 
-遵循 Agent Skills 开放格式的技能仓库，收录覆盖精算建模、AI 治理、agent 评测与生产运维、后端工程、品牌设计、CRM/Confluence 命令行操作等领域的可复用工作流、协议与知识包，兼容任何支持该标准的 agent 框架（如 AutoGen、CrewAI）。作者同时在此沉淀让 agent 更可治理、可观测的实践模式。部分技能附带 CLI、模板与评测（如 agent-council 提供 pip 安装包）。
+按 Agent Skills 开放格式组织的技能合集，覆盖软件交付流程（实现规划、代码评审、系统化调试、验证交付）、AI 治理与运营经济学、多智能体协调、agent 评测与可观测性、生产运行控制面等领域，并以任务决策表引导按需选用。技能声明为格式开放、可兼容任何支持该标准的框架；另含部分打包为可安装 Python 包的子项。仓库由个人维护，附安装与更新目录的方式。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 条目遵循 Agent Skills 开放格式，兼容支持该标准的任意框架
-- 覆盖 AI 治理、评测、生产运维、多智能体协作等领域的技能
-- 部分技能自带 CLI、模板与评测场景（如 cncf-landscape、capacity-and-cost-engineering）
-- 含 PydanticAI 构建的多智能体辩论包 agent-council（pip 可安装）
+- 技能遵循 Agent Skills 开放格式，兼容支持该标准的框架
+- 按任务决策表索引（从要做的决策/工作出发选择技能）
+- 覆盖评测、发布门禁、运行控制面、AI 治理、运营经济学等主题
+- 部分技能以 pip 可安装 Python 包形式分发
 
 ## 适用场景
 
-- 为我的 agent 框架查找特定领域的可复用技能
-- 搭建 AI 治理、评测与生产运维相关的 agent 工作流
-- 参考技能格式编写自己的 Agent Skills
+- 为支持 Agent Skills 格式的 agent 框架补充工作流技能
+- 为 AI agent 系统设计评测、发布门禁与可观测性方案
+- 建立组织的 AI 治理与运营经济决策流程
+- 规范多智能体协作与变更交付的权限边界
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`Agent 框架` `多智能体` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L5: A collection of AI agent skills — reusable workflows, protocols, and knowledge packs for agentic systems. Skills fol
-> L7: The project is also where I codify practical patterns for making agents more capable, governable, observable, and tr
+> L13: Start with the decision or job you have. These are links to existing skills, not
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `d7284af53e50` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `897f0ccaaf00` · [字段定义](../../DATASET.md)*

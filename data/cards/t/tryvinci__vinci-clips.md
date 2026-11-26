@@ -1,10 +1,10 @@
 # tryvinci/vinci-clips
 
-⭐ 171 · TypeScript · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/tryvinci/vinci-clips) · [官网](https://tryvinci.com/clips) · 组织维护
+⭐ 171 · TypeScript · NOASSERTION · 推送 2026-11-04 · [GitHub](https://github.com/tryvinci/vinci-clips) · [官网](https://tryvinci.com/clips) · 个人维护
 
-**开源 AI 视频剪辑平台：长视频自动转社交媒体短视频**
+**自托管平台：把长视频自动切成带字幕的社交媒体竖屏短片**
 
-面向创作者、营销人员与企业的视频剪辑平台：上传长视频（上限 2GB）后，系统经 FFmpeg 抽取音频，调用 Google Gemini API 生成带说话人分离和时间戳对齐的转录，并给出建议片段以生成短视频，附带 TikTok/Reels 风格字幕渲染。技术栈为 Next.js 15 前端、Express 后端、MongoDB 存储、Google Cloud Storage 云存储。运行需 Node.js 18+、FFmpeg、MongoDB 与 Gemini API key；主体功能已标完成，部分改进项仍在计划中。
+用户上传视频（≤2 GB）或粘贴 YouTube 链接后，平台通过 FFmpeg 抽取音频，Gemini 返回带说话人标签的词级时间戳并建议可发布片段，再由 FFmpeg 渲染剪辑；face-api.js 人脸检测用于 9:16 竖屏取景，支持 5 种字幕样式烧录与主播画中画竖排布局。前端 Next.js、后端 Express，转录与片段元数据存于 JSON 文件，无数据库；需 Node.js 18+、FFmpeg 和一个 Gemini API key，支持 docker-compose 部署。AGPL-3.0 许可，修改版对外服务须公开变更。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- AI 转录含说话人分离与时间戳对齐（Google Gemini API）
-- AI 建议片段或手动选取时间区间生成短视频
-- TikTok/Reels 风格字幕（5 种样式，SRT+FFmpeg 渲染）
-- 批量上传队列管理与实时处理状态跟踪
+- Gemini 转录并建议片段，FFmpeg 完成剪辑与字幕烧录
+- face-api.js 人脸检测实现 9:16 自动取景
+- 5 种字幕样式与主播/游戏画面竖排布局
+- JSON 文件存储，无需数据库，视频文件留在本地
 
 ## 适用场景
 
-- 把播客/直播等长视频切成适合社交平台的短视频
-- 获得带说话人标记和时间戳的视频转录稿
-- 给短视频自动加 TikTok 风格字幕
+- 把播客或长视频批量切成 Shorts/Reels 竖屏短片
+- 自托管环境下处理视频且不依赖云存储
+- 给游戏录像加 webcam 分屏并转成竖屏内容
 
 ## 场景标签
 
-`图像视频处理` `语音识别` · 领域:感知与多模态
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
-> L19: - **Intelligent Video Analysis**: AI-powered content analysis using Google Gemini API
-> L21: - **Smart Clip Generation**: AI suggests optimal clip segments based on content analysis
-> L122:  - Creates AI-powered transcription with speaker identification
+> L3: Turn a long video into short vertical clips with captions. Self-hosted, open source (AGPL-3.0), runs on your machine
+> L20: - **Transcribe.** FFmpeg pulls the audio, Gemini returns word-level timestamps with speaker labels. Model is set by
+> L31: Next.js frontend (3000)  ->  Express API (8080)  ->  FFmpeg + Gemini API
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e9608c11c6d0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `01b56197efa4` · [字段定义](../../DATASET.md)*

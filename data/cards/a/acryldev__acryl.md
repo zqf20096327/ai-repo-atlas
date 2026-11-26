@@ -1,10 +1,10 @@
 # acryldev/acryl
 
-⭐ 280 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/acryldev/acryl) · [官网](https://acryl.dev) · 个人维护
+⭐ 280 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/acryldev/acryl) · [官网](https://acryl.dev) · 组织维护
 
-**供开发者用插件+内置 coding agent 构建和分享 agentic 应用的平台**
+**插件化 agentic 应用平台：让用户用 agent 搭建并分享应用**
 
-ACRYL 是构建 agentic 应用的开源平台与框架：应用由可热替换的 Cordis 插件组装，每个应用内含 agent，用户可通过自然语言让内置 chat 或 Claude Code/Codex/Pi 驱动应用变更，改动以可版本化、可回滚、可分享的 Blend 层保存。应用可运行于桌面/网页/终端 TUI，或部署到自托管 WebBox。仓库提供框架、运行时、插件与 acryl 命令；通过 npx 或 Release 安装包启动。构建其聊天 agent 基于 pin 的 DeepSeek Harness 检出版本。
+ACRYL 是构建 agentic 应用的开放平台与框架：应用由可替换的 Cordis 插件（页面、工具、服务）组装，内置 chat agent 及 Claude Code、Codex、Pi 等驱动器通过 app door 操作应用，核心代码保持不变；每个用户的改动是可版本化、可回滚、可分享到 GitHub 的 Blend 层。应用可运行于桌面、Web、CLI/TUI 或部署到 WebBox。需 Node.js 22.19+，通过 npx 安装脚本或源码构建（Corepack + PNPM）。MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ ACRYL 是构建 agentic 应用的开源平台与框架：应用由可热替换�
 
 ## 能力要点
 
-- 应用由可热替换的 Cordis 插件组成，一切能力皆为插件
-- 用户自然语言驱动 agent 修改应用，改动保存为可回滚的版本化 Blend
-- 同一应用支持 CLI/TUI、桌面 GUI、Web 三种界面形态
-- Blend 与插件可发布到 GitHub 与商店，供他人拉取与合并
+- 应用全部由可热替换的 Cordis 插件组装，每个 app 一个 Host 进程
+- 内置 chat agent 基于 pinned DeepSeek Harness，另支持 Claude Code/Codex/Pi 作为驱动器
+- 改动以 Blend 形式版本化分层：保存、回滚、分享到 GitHub 与商店
+- 支持桌面/Web/CLI-TUI 多形态运行及 WebBox 云部署
 
 ## 适用场景
 
-- 让终端用户自助扩展产品功能而无需改动源码
-- 用 npx 一条命令从空白或商店模板启动一个带 agent 的应用
-- 将 Blend 部署到自托管 WebBox 并与团队分享
+- 让终端用户用自然语言在产品内添加自己需要的功能
+- 基于商店中的 Blend 改制自己的应用并保留定制层
+- 把插件化应用一键部署到自己的 WebBox 托管环境
 
 ## 场景标签
 
-`编码 Agent` `Agent 框架` · 领域:Agent 开发
+`Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L22: Build agentic apps from plugins. Start blank, grow with an agent, share what you make. ACRYL is the open platform a
-> L45: 2. **The agent builds with those blocks.** ACRYL's chat, and Claude Code, Codex or Pi, operate the app through its 
-> L80: ACRYL builds on Cordis, the meta-framework of composable plugins, and on a pinned
+> L38: Build agentic apps from plugins. Start blank, grow with an agent, share what you make. ACRYL is the open platform a
+> L61: 2. **The agent builds with those blocks.** ACRYL's chat, and Claude Code, Codex or Pi, operate the app through its 
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bab848cf4018` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `816fc1843851` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 183 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/enmanuelmag/agent-harness-kit) · [官网](https://stack.cardor.dev/ahk) · 个人维护
 
-**给 AI 编码工具的多 agent 工作流脚手架与任务记录工具**
+**为 AI 编码工具提供多 agent 结构化工作流的脚手架套件**
 
-面向 AI 编码提供商（Claude Code、Codex CLI、Cursor、Grok Build、OpenCode）的 provider 无关脚手架：通过 `ahk init` 生成 MCP 配置与技能文件，在代码库中建立文档（用例/规格）、跟踪任务、角色交接与健康门禁（health gate）机制。MCP 作为任务生命周期数据的 source of truth，任务声明、操作日志、交接与最终健康结果由服务端管理；文档以 Markdown 形式留在 docs/ 目录。提供 `ahk-consultant`、`ahk-triage`、`ahk-spec` 等技能入口，npm/pnpm/bun 全局安装。限制：提示词指令（含 Codex instructions）不构成安全边界；无内置 Jira 连接器。
+Agent Harness Kit（AHK）以 npm 包形式发布全局 `ahk` 命令，为 AI 编码 provider（Claude Code、Codex CLI、Cursor、Grok Build、OpenCode 等）提供共享工作流：用例澄清、功能/技术规格、任务认领、交接与健康检查证据。通过 MCP 服务器管理任务状态与动作日志，文档以带日期前缀的 Markdown 存放于 docs 目录；提供 ahk init 初始化、ahk doctor 诊断与数据库延迟观测。README 声明 prompt 指令不是安全边界，权限为工具级控制而非 OS 沙箱。
 
 ## 筛选速览
 
@@ -12,24 +12,24 @@
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 部署形态 | `desktop` | 安装包/桌面程序 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- MCP 作为任务生命周期数据 source of truth（声明/操作日志/交接/健康结果）
-- 支持 Claude Code、Codex CLI、Cursor、Grok Build、OpenCode 五种 provider
-- 健康门禁：任务完成前运行健康脚本，失败进入需授权的修复模式
-- 规格以 Markdown 文档管理（use-cases/specs），人工显式审批推进
+- 12 个技能（ahk-spec/ahk-triage/ahk-review 等）覆盖从用例到评审的工作流
+- MCP 管理任务认领、动作日志、交接与健康门（health gate）
+- 支持 Claude Code/Codex CLI/Cursor/Grok Build/OpenCode 及 OpenCode V2
+- 提供 ahk doctor 数据库延迟诊断与 SQLite 历史规模探测
 
 ## 适用场景
 
-- 在 AI 编码工具中建立可审计的多角色（lead/explorer/builder/reviewer）工作流
-- 用用例→功能规格→技术规格的文档链路管理需求与审批
-- 以健康脚本作为任务完成的验证门禁
+- 在代码库中给 AI 编码代理建立规格先行、审批后再实现的工作流
+- 用健康脚本作为任务完成证据，跟踪多角色交接
+- 为团队统一管理 use-case/spec 等规格文档
 
 ## 场景标签
 
@@ -39,7 +39,6 @@
 
 > L8: Agent Harness Kit (AHK) gives AI coding providers a shared workflow for documents, tracked tasks, handoffs, and heal
 > L73: The lead coordinates the five roles. A reviewer may send bounded feedback back to the builder. MCP owns the task cl
-> L121: The stdio server uses the official MCP SDK v2 with a single authored Zod tool registry. Published argument schemas
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `3b77bc1d3214` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `adb7006a4229` · [字段定义](../../DATASET.md)*

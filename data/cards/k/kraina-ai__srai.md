@@ -2,9 +2,9 @@
 
 ⭐ 393 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kraina-ai/srai) · [官网](https://kraina-ai.github.io/srai/) · 组织维护
 
-**地理空间机器学习库：下载空间数据并生成区域嵌入向量**
+**给地理空间机器学习研究者提供区域化与空间嵌入的 Python 工具库**
 
-面向地理空间机器学习的 Python 库，处理矢量几何数据：提供 OSM/OvertureMaps 数据下载、路网与 POI 提取、GTFS 特征提取、多种区域划分算法（Uber H3、Google S2、Voronoi、行政边界），以及 hex2vec、GTFS2Vec、Highway2Vec 等嵌入方法将区域映射到向量空间，部分嵌入器提供预训练模型，采用类似 scikit-learn 的 API。通过 pip 安装，可按需装可选依赖（osm/gtfs/torch 等）。README 声明库处于重度开发期，小版本间可能出现破坏性变更。
+面向矢量几何数据的地理空间机器学习 Python 库，流程为：从 OSM/Overture Maps/GTFS 等来源下载数据，用 H3/S2/Voronoi 等算法将区域切分为微区域，再用 Hex2Vec、GTFS2Vec、CountEmbedder、Highway2Vec 等方法（含 PyTorch 模型，接口类似 scikit-learn 估计器）将区域嵌入向量空间，供下游任务使用。附带数据集与基准模块、可视化工具及部分方法的预训练模型。通过 pip 安装，按功能提供可选依赖组；README 声明库处于重度开发中，小版本间可能出现破坏性变更。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- H3/S2/Voronoi/行政边界等多种区域划分算法
-- Hex2Vec/GTFS2Vec/Highway2Vec 等区域嵌入方法，含预训练模型
-- OSM/OvertureMaps 数据下载与 GTFS 特征提取
-- Loader→Regionalizer→Joiner→Embedder 统一 API，附数据集与基准模块
+- OSM/Overture Maps/GTFS 多源空间数据下载与处理
+- H3/S2/Voronoi/行政边界等多种区域化算法
+- Hex2Vec/GTFS2Vec/Highway2Vec 等嵌入方法，共享统一 API
+- 提供下游任务数据集、基准模块与预训练模型
 
 ## 适用场景
 
-- 为下游任务生成地理微区域的嵌入向量
-- 下载并处理指定区域的 OpenStreetMap 路网/建筑/POI 数据
-- 基于 GTFS 数据提取公交站点特征做区域比较
+- 为城市区域生成空间嵌入向量用于下游预测任务
+- 下载并处理指定区域的 OpenStreetMap 数据
+- 把城市切分为微区域并比较公共交通供给
 
 ## 场景标签
 
- · 领域:地理空间机器学习
+`数据分析` `科研工具` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `594a2692273c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d359ad5ea89d` · [字段定义](../../DATASET.md)*

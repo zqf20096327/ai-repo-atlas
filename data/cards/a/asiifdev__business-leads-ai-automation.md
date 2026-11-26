@@ -1,10 +1,10 @@
 # asiifdev/business-leads-ai-automation
 
-⭐ 260 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/asiifdev/business-leads-ai-automation) · [官网](https://alatpintar.id) · 个人维护
+⭐ 260 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/asiifdev/business-leads-ai-automation) · [官网](https://alatpintar.id) · 组织维护
 
-**面向本地商家的开源 AI 销售外联系统：找线索、拟稿、人工审批后发送**
+**面向本地商户的 AI 销售营销自动化：找线索、写跟进、人工审批后发送**
 
-Prospex 是自托管的 AI 销售/营销自动化 Web 应用：用无头浏览器按行业和城市抓取 Google Maps 商家线索（每活动至多 2,000 条，不编造数据），基于评分与 AI 匹配度排序，按用户自己的写作风格（从 WhatsApp 聊天导出学习）起草 WhatsApp/Email 个性化外联，所有草稿进入 Outbox 等人工批准后逐条限速发送（每小时/每日上限、静默时段），并对回复分类、跟进与成交跟踪。技术栈为 Next.js + NestJS + PostgreSQL(pgvector) + Redis/BullMQ，AI 侧支持任意 OpenAI 兼容提供方（OpenAI/OpenRouter/Ollama），AGPL v3 许可，另有托管版 alatpintar.id。
+名为 Prospex 的开源销售营销自动化系统：用无头浏览器抓取 Google Maps 线索（每活动上限 2,000 条），辅以 Overture Maps、OpenStreetMap 与 CSV 导入；AI 读取用户网站或文档生成营销简报，按评分排序线索，依据知识库与用户语气画像起草 WhatsApp/邮件外联消息。所有草稿进入 Outbox，须经人工批准，按每小时/每日限额逐一发送。技术栈为 Next.js/NestJS/PostgreSQL，AGPL v3 许可，可自托管或使用托管版 alatpintar.id。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Prospex 是自托管的 AI 销售/营销自动化 Web 应用：用无头浏览�
 
 ## 能力要点
 
-- Google Maps 无头浏览器抓取线索，每活动至多 2,000 条，抓取失败即如实失败
-- AI 从真实数据与用户风格起草个性化 WhatsApp/Email，每条消息须经人工批准
-- 发送限速保护机制：每小时 10/每日 80 默认上限、静默时段、STOP 永久屏蔽、熔断器
-- AI Style 从 WhatsApp 聊天导出检索式学习写作风格，可本地 Ollama 运行
+- Google Maps/Overture/OpenStreetMap 多源线索抓取与 0-100 评分
+- AI 起草外联消息，Outbox 人工审批后按限额逐一发送
+- AI Style 从用户 WhatsApp 导出记录学习写作风格，不存原始聊天
+- 回复自动分类并生成跟进草稿，STOP 关键词永久停发
 
 ## 适用场景
 
-- 我想给本地商家做销售外联，让 AI 写初稿但由我逐条把关后再发
-- 我需要抓取某城市某行业商家线索并按匹配度排序跟进
-- 我想管理外联管线：回复分类、自动跟进草稿、成交与丢单原因追踪
+- 为本地商户批量寻找并打分潜在客户线索
+- 以自己的语气批量起草个性化 WhatsApp/邮件外联
+- 在管道看板中跟踪回复、跟进与成交状态
 
 ## 场景标签
 
-`网页抓取` `工作流自动化` · 领域:效率与自动化
+`RAG` `网页抓取` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L3:  Discover business leads, enrich business information, draft personalized outreach with AI, review every message bef
-> L113: |**AI**|Any OpenAI-compatible provider: OpenAI, OpenRouter, Ollama|
+> L2:  Open-source AI sales and marketing automation for local businesses.
+> L20: Prospex splits the job in two. The AI does the typing: it finds the leads, writes each draft, and drafts the replie
+> L32: |**Score**|A 0 to 100 ranking from signals in the listing (reachable by phone, rating weighted by review count, rev
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b2dc64d7393d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `2e95b6ac9d6a` · [字段定义](../../DATASET.md)*

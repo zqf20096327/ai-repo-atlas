@@ -2,9 +2,9 @@
 
 ⭐ 174 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/tercumantanumut/selene) · [官网](https://selene.engineer) · 个人维护
 
-**本地优先的 AI agent 桌面应用：聊天写码生图，接入聊天平台**
+**本地运行 AI agent 的桌面应用，可接入聊天渠道**
 
-基于 Electron 的 agent 桌面应用，在用户本机运行 AI：聊天、写代码、Git/PR 管理、生成图像与 UI 组件、Playwright 驱动的内嵌 Chromium 浏览器、屏幕感知（Ghost OS 视觉 sidecar）、语音输入与克隆、定时任务与记忆。可通过原生集成连接 WhatsApp/Telegram/Slack/Discord。支持 Anthropic/OpenAI/Ollama/vLLM/OpenRouter 等多种提供商，可完全离线运行；检索管线按需加载工具以压缩上下文。macOS/Windows 提供签名安装包，数据留在本地设备。
+Selene 是一个运行在本机的 agent 桌面应用（Electron 打包），提供聊天、代码编写、图像生成、UI 组件生成、浏览器控制与屏幕感知等 agent 能力，并以原生集成方式连接 WhatsApp、Telegram、Slack、Discord 四个渠道。检索管道先筛相关内容再交给主 agent，工具按需加载；聊天、嵌入、语音、图像均可在本地与云之间选择，支持完全离线或自带 API key。提供 macOS 签名 DMG 与 Windows 安装包/便携版。作者声明项目不再维护。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- WhatsApp/Telegram/Slack/Discord 原生集成，语音笔记自动转录
-- Playwright 驱动的内嵌 Chromium，支持并行隔离与操作回放
-- 本地与云端模型可混搭，支持完全离线运行
-- 先检索后生成的管线按需加载工具以降低每轮成本
+- 每个 UI 操作同时是 agent 操作，支持中途接管或端到端运行
+- 检索管道先行筛选相关内容、工具按需加载以控制上下文长度
+- 本地/云端可混合选择的模型、嵌入、语音与图像生成
+- Agent 驱动的嵌入式 Chromium 与多 agent 并行工作流
 
 ## 适用场景
 
-- 在本机跑一个接入 WhatsApp/Telegram 等聊天平台的个人 AI 助手
-- 让 agent 代为做 Git 操作、控制浏览器与写代码
-- 生成图像、UI 组件并实时预览编辑
+- 把个人 agent 通过 WhatsApp/Telegram 等渠道随时对话
+- 本地管理代码仓库的 git、diff 与 PR
+- 用 AI 生成 React/HTML UI 组件并实时预览调整
+- 定时任务结果推送到任意已连接渠道
 
 ## 场景标签
 
-`AI 助手` `Agent 记忆` `浏览器自动化` `图像生成` · 领域:Agent 开发
+`AI 助手` `Agent 记忆` `多智能体` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: Selene is an agent-first desktop app that runs AI on your machine. Chat, write code, generate images, design UIs, co
-> L104: |**Anthropic**|Claude (Opus 5.5, Sonnet 5.5, Fable 5.1, Haiku) via API or Agent SDK|
-> L107: |**Ollama**|Any local model; dynamic thinking detection|
+> L102: ## Providers
+> L122: One download, no prerequisites. Selene bundles everything: Electron 41 (Chrome 146 / Node 24), local model support
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `141b4e6d26ce` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6723154ee3b2` · [字段定义](../../DATASET.md)*

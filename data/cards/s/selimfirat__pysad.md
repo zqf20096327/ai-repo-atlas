@@ -1,10 +1,10 @@
 # selimfirat/pysad
 
-⭐ 322 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护
+⭐ 322 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/selimfirat/pysad) · [官网](https://pysad.readthedocs.io/en/stable/) · 个人维护 · 中文 README
 
-**给开发者用的 Python 流式异常检测库，逐点在线检测**
+**Python 流式异常检测库：逐点评分 50+ 在线检测器**
 
-PySAD 是一个面向多变量与单变量数据流的在线异常检测 Python 库，收录 50+ 个来自已发表论文的检测器（LODA、RRCF、Half-Space Trees、xStream、DAMP、SAND 等）。每个数据点到达时即通过 fit_partial/score_partial 更新与打分，无需完整数据集。关键机制包括：Conformal 等校准器将任意原始分数归一到 [0,1] 并配合过滤器生成二值告警、10 种漂移监测器处理概念漂移、prequential 评估框架在 17 个 ODDS 数据集和 58 个 NAB 序列上逐点更新指标。核心用纯 Python/NumPy/SciPy/scikit-learn 实现，无需 JVM；可选 PyO3 Rust 扩展加速部分树模型。以 PyPI 和 conda-forge 发布，支持 Python 3.11-3.14。
+面向数据流场景的 Python 异常检测库，提供 LODA、RRCF、Half-Space Trees、xStream、DAMP、SAND 等 50+ 多元/单变量在线检测器，每个数据点到达时即时学习与评分。核心机制包括共形校准将任意分数归一化到 [0,1] 并触发告警、10 种漂移监测器、prequential 评测（先评分后学习），以及用 |、& 组合预处理/检测/校准的流水线。提供 MCP server、实时终端仪表盘和可选 Rust 加速内核。限制：非本产品需要的系统级依赖为无 JVM，但可选 CapyMOA 集成需 Java（该库本身不依赖）。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ PySAD 是一个面向多变量与单变量数据流的在线异常检测 Python 
 
 ## 能力要点
 
-- 50+ 在线单变量/多变量流式检测器，覆盖统计、森林、子序列、图方法
-- Conformal/SPOT/高斯尾部校准器将分数归一到 [0,1] 并生成校准告警
-- 10 种概念漂移监测器与自动重置的 DriftAdaptiveDetector
-- prequential 逐点评估框架，含 17 ODDS 数据集、58 NAB 序列与信用卡欺诈数据
+- 50+ 在线多元/单变量检测器（LODA/RRCF/xStream/DAMP/SAND 等）
+- 共形/极值/高斯尾校准器将原始分数归一化并触发二值告警
+- prequential 评测与 17 个 ODDS、58 个 NAB 序列的基准复现
+- 通过 MCP 协议暴露检测器、漂移计与解释功能
 
 ## 适用场景
 
-- 对传感器、网络流量或日志流逐点做实时异常检测
-- 信用卡欺诈检测等需要增量学习与漂移处理的场景
-- 将告警分数校准后接入现有监控告警系统
-- 在 River / scikit-learn / PyOD 管线中嵌入流式检测器
+- 对传感器或指标数据流逐点做异常评分并输出校准告警
+- 检测网络流量、日志中的入侵或异常事件
+- 处理带概念漂移的数据流并自动重置检测器
+- 在欺诈检测中回放信用卡交易流并计算流式 AUROC
 
 ## 场景标签
 
-`网络安全` · 领域:学习与行业
+ · 领域:机器学习/流式异常检测
 
 ## 证据(README 行号)
 
 > L7:  Streaming anomaly detection in Python for multivariate and univariate data streams.
 > L8:  PySAD scores and learns from each point as it arrives, with calibrated alerts, drift handling, and prequential eval
-> L45: Batch detectors train on a fixed dataset. Streaming detectors update as points arrive, without waiting for a comple
+> L104: - `pysad.mcp` exposes detectors, drift meters, and explanations through the Model Context Protocol (MCP). Install 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7640bc191e64` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `77f5231ca6c2` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 182 · CC0-1.0 · 推送 2026-11-14 · [GitHub](https://github.com/zackchewa/awesome-china-mcp) · 个人维护 · 中文 README
 
-**面向中国应用与服务的 MCP Server 策展索引（官方优先）**
+**连接中国应用的 MCP Server 策展索引：让 AI Agent 调用国内服务**
 
-一个 awesome-list 形式的策展清单：汇总可连接中国互联网服务的 Model Context Protocol (MCP) 服务器，覆盖云基础设施、地图出行、支付、内容社交、电商、生活服务、办公协作与开发工具等类别，官方第一方服务优先标注。条目附 GitHub stars、语言、hosted/仓库区分与安全注意事项；另收录 78 个有官方 API 但尚无 MCP 的中国服务缺口地图。使用方式为将任意 MCP 客户端指向清单中的服务器，凭据需自备。
+收录可连接中国应用与服务的 Model Context Protocol 服务器索引，覆盖云服务、地图出行、支付、内容社交、电商、生活服务、办公协作等类别，优先收录官方服务器，并标注认证方式（API Key/OAuth/Cookie 等）与社区 star 数。附有 gap map 记录尚无官方 MCP 的服务，同时区分 MCP Server、Agent Skill 与 API 三种接入形态。使用方式为在 MCP 兼容客户端中配置；多数平台 API 需自备凭证，部分需企业认证。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按云服务/地图/支付/社交/电商/办公等类别组织条目，官方优先标注
-- 收录 78 个有官方 API 但尚无 MCP server 的中国服务缺口地图
-- 条目附安全注意事项（凭据泄露、越权读写等风险提示）
-- 条目链接与归档状态定期核查（README 标注 2026-10-10 更新）
+- 汇总覆盖云/地图/支付/社交/电商/办公等类别的中国应用 MCP Server
+- 标注官方（🏢）与社区（👥）来源、GitHub star 与认证方式
+- 附带 gap map：记录 78 个仅有官方 API 的服务
+- 区分 MCP Server、Agent Skill 与 API 三种接入路径
 
 ## 适用场景
 
-- 给我的 AI Agent 找可调用高德/12306/飞书等国内服务的 MCP server
-- 查某个中国应用有没有官方 MCP 及替代的社区实现
-- 从缺口地图里挑一个没有 MCP 的服务来开发
+- 为 AI Agent 查找接入高德地图、12306、小红书等国内服务的 MCP 配置
+- 对比同一服务的官方与社区 MCP 实现并选择接入方案
+- 排查某国内服务是否已有官方 MCP 或仅有 API/Skill
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L3: > The curated index of **Model Context Protocol (MCP) servers for Chinese apps & services** — give your AI agent the
-> L15: In the West, Composio, Nango and friends give an AI agent one place to connect 1000+ apps. **There is no open-sourc
-> L34: > 🧩 **Also in here:** a gap map of 78 Chinese services that have an official API but **no MCP server yet** — pick o
+> L17: 国外有 Composio 这样的「一个平台连上千个 app」。**国内没有对应的开源索引** —— 各家服务各自为政，MCP Server 散落各处。这个清单把它们汇总到一处，官方优先。
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-25 · 置信度 mid · 依据 README sha `8b87c8783a1a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `7541784173aa` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 1,070 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/KevRojo/Dulus) · [官网](https://dulus.ai/) · 个人维护
 
-**桌面与终端的 AI agent，聚合 MCP/技能/多模型**
+**桌面与终端的 AI agent 应用：操作文件、shell、浏览器与屏幕**
 
-Dulus 是运行于桌面和终端的 AI agent：在文件、shell、浏览器和屏幕上执行任务，支持对话中途用 /model 切换任意模型（自有 API key、本地模型或 Dulus 托管模型）。内置 117 个工具，可安装约 1,900 个 MCP 服务器、约 69,000 个技能和 1,946 个插件；提供最多 26 个 agent 同桌协作的 Round Table、WebDrive 浏览器面板、实时终端、语音对话和 Telegram 配对。GitHub 上的开源核心为终端 agent（pip 安装，GPLv3），完整桌面应用为闭源，采用 Free/Operator/Company 订阅模式，付费部分以 Fuel 余额结算。
+Dulus 起源于开源终端 agent（pip install dulus，GPLv3），在其之上构建闭源的桌面应用：读写文件与 shell、内置真实浏览器面板、屏幕点击输入、Telegram 配对续聊。支持 40+ 模型接入（自有 API key、本地模型或官方托管），多模型圆桌（最多 26 个 agent 共享任务板）、约 1,900 个 MCP 服务器市场、约 69,000 个技能与 1,946 个插件。免费版依赖用户自带 key，托管模型经 Fuel 计费，另有 Operator/Company 付费档。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ Dulus 是运行于桌面和终端的 AI agent：在文件、shell、浏览器和
 
 ## 能力要点
 
-- 对话中用 /model 切换 40+ provider 集成、本地运行时或托管模型
-- 约 1,900 个 MCP 服务器、约 69,000 个技能、1,946 个插件的内置市场
-- Round Table 支持最多 26 个 agent 共享任务板协作
-- 不可撤销命令在聊天中先行确认
+- 开源终端核心（pip install dulus）与闭源桌面应用双版本
+- 最多 26 个模型的 Mesa Redonda 圆桌协作与共享任务板
+- 约 1,900 个 MCP 服务器、约 69,000 技能、1,946 插件市场
+- 提供 OpenAI 兼容 API 端点，可用 Fuel/SOL/$DULUS 支付
 
 ## 适用场景
 
-- 在桌面和终端让 agent 代为执行文件、shell 和浏览器操作
-- 在自有 API key 或本地模型上零成本使用
-- 多模型同桌讨论并汇总为一个建议
-- 通过 Telegram 在手机上继续同一对话
+- 在桌面与终端用 agent 搜索、修改文件并运行命令与测试
+- 自带 API key 或本地模型免费使用，切换模型不中断对话
+- 让多个模型围绕同一问题辩论并汇总一个答案
+- 通过 Telegram 在手机上继续桌面端的任务与审批
 
 ## 场景标签
 
-`AI 助手` `多智能体` `浏览器自动化` `GUI 自动化` · 领域:Agent 开发
+`AI 助手` `浏览器自动化` `GUI 自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L36: > Dulus is an AI agent for your desktop and terminal. It works in your files, your shell, your browser and your scr
 > L34: Dulus started as an open-source terminal agent. It's still on GitHub, still free, and still a fine place to hack. T
+> L36: > Dulus is an AI agent for your desktop and terminal. It works in your files, your shell, your browser and your scr
+> L200: |**Get it**|github.com/KevRojo/Dulus · `pip install dulus`|dulus.ai/download|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bc7d3cede4cb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `22f2441137c6` · [字段定义](../../DATASET.md)*

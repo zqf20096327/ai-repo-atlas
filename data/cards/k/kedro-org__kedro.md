@@ -2,9 +2,9 @@
 
 ⭐ 11,062 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/kedro-org/kedro) · [官网](https://kedro.org) · 组织维护
 
-**为数据科学团队构建可复现、模块化的数据管线框架**
+**数据工程与数据科学流水线的工程化 Python 框架**
 
-由 LF AI & Data Foundation 托管的开源 Python 框架，用软件工程最佳实践组织数据工程与数据科学管线。核心机制包括基于 Cookiecutter Data Science 的项目模板、跨本地/网络文件系统与云对象存储读写数据的 Data Catalog（含数据与模型版本管理）、自动解析纯 Python 函数依赖的管线抽象与 Kedro-Viz 可视化，以及 pytest/Sphinx/ruff 编码规范；部署支持单机或分布式，并提供 Argo、Prefect、Kubeflow、AWS Batch、Databricks 等部署方案。通过 PyPI、conda 或源码安装。
+面向生产级数据工程与数据科学流水线的开源 Python 框架，由 LF AI & Data Foundation 托管。提供基于 Cookiecutter Data Science 的项目模板、跨本地/网络文件系统与云对象存储的 Data Catalog（含数据与模型版本控制）、纯 Python 函数间依赖的自动解析与 Kedro-Viz 可视化，以及 pytest/ruff/Sphinx 等工程规范集成；部署支持单机或分布式，并提供 Argo、Prefect、Kubeflow、AWS Batch、Databricks 的部署支持。通过 PyPI 或 conda 安装，要求 CPython 官方维护中的 Python 版本。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 项目模板与管线抽象：依赖自动解析 + Kedro-Viz 可视化
-- Data Catalog 支持多文件格式/文件系统及数据与模型版本管理
-- 部署支持 Argo、Prefect、Kubeflow、AWS Batch、Databricks
-- 内置 pytest/Sphinx/ruff 等编码规范支持
+- Data Catalog 支持多文件格式/文件系统的数据读写与版本控制
+- Pipeline Abstraction 自动解析函数依赖并支持 Kedro-Viz 可视化
+- 部署支持 Argo/Prefect/Kubeflow/AWS Batch/Databricks
+- LF AI & Data Foundation 托管的开源 Python 框架
 
 ## 适用场景
 
-- 把 notebook 与一次性脚本重构为可维护的管线代码
-- 团队协作场景下统一数据科学工程的代码规范
-- 将数据管线部署到单机或分布式环境
+- 把 notebook 和一次性脚本重构为可复现的模块化流水线
+- 团队协作时统一数据科学项目的工程规范
+- 构建的 ML 流水线需部署到 Kubeflow/AWS Batch 等平台
+- 需要数据与模型版本管理的文件型数据管道
 
 ## 场景标签
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `6b5e537919d1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `563a4f99a49d` · [字段定义](../../DATASET.md)*

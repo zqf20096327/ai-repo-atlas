@@ -2,9 +2,9 @@
 
 ⭐ 253 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/theBGuy/GitDesktop) · [官网](https://gitdesktop.app) · 个人维护
 
-**键盘优先的 AI Git 桌面客户端，AI 可选可关闭**
+**键盘优先的 Git 桌面客户端，覆盖 PR/CI 全流程**
 
-基于 Tauri 2 + React 19 的开源（Apache-2.0）Git 桌面客户端，覆盖 Windows/macOS/Linux。核心是 Git 操作与 PR 全流程：staging、diff、交互式 rebase、跨 GitHub/GitLab/Bitbucket 的 PR 评审与 CI、离线本地 PR、GitHub Actions 管理面板、分支清理与恢复。所有 GitHub 访问经由 gh CLI，token 不落盘。AI 功能（提交信息生成、评审、CI 调试、代理任务）由用户自选提供商（含本地模型），且可通过开关整体隐藏。
+基于 Tauri 2 与 React 19 的开源（Apache-2.0）跨平台 Git 桌面客户端，支持 Windows/macOS/Linux。功能覆盖暂存、diff、分支、历史等 git 操作，以及在应用内完成 GitHub/GitLab/Bitbucket 的 PR/MR 全流程（review、approve、merge）与 GitHub Actions 运行管理；还提供离线本地 PR、worktree 管理、交互式 rebase 等深度 git 工具。AI 部分为可选：AI 提交信息、AI review、Actions 调试，支持本地模型，可通过开关隐藏全部 AI 界面。GitHub 访问全部经 gh CLI，不存储令牌。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@
 
 ## 能力要点
 
-- 跨 GitHub/GitLab/Bitbucket 的 PR/MR、CI、issue 统一管理
-- 离线本地 PR 与 GitHub Actions 管理面板
-- AI 提交信息/评审/CI 调试，提供商可选含本地模型，可整体关闭
-- 交互式 rebase、merge prediction、丢失 stash 恢复等 git 深度工具
+- 应用内完成 GitHub/GitLab/Bitbucket 的 PR review、approve、merge 全流程
+- 离线本地 PR 与 GitHub Actions 运行驾驶舱（过滤、重跑、取消、日志）
+- 可将任务交给 Claude Code/Codex/Copilot/opencode，在隔离 worktree 或容器中执行
+- AI 功能可选，一键隐藏全部 AI 界面，支持本地模型
 
 ## 适用场景
 
-- 在桌面端完成 PR 评审、评论、批准与合并而不开浏览器
-- 把任务交给 Claude Code/Codex 等编码代理并审阅其改动
-- 一键清理与恢复大量过期分支
-- 隐私敏感环境下关闭全部 AI 界面使用纯 Git 客户端
+- 在一个客户端里管理多个 forge 仓库的 PR、issue 与 CI
+- 不动浏览器完成代码审查与合并
+- 把编码任务交给 agent 并以分支或本地 PR 收回结果
 
 ## 场景标签
 
@@ -38,7 +37,7 @@
 
 ## 证据(README 行号)
 
-> L5:  An AI-native, keyboard-first Git desktop client
+> L11: GitDesktop is a free, open-source (Apache-2.0) Git client for Windows, macOS,
 > L20: AI runs through commits, reviews, and CI debugging, with the provider you
 > L21: choose (local models included). It's also optional: one switch hides every AI
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `40c51b7040c3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `735acf1e85aa` · [字段定义](../../DATASET.md)*

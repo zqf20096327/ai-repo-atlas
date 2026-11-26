@@ -2,9 +2,9 @@
 
 ⭐ 220 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/arxhr007/lxask) · [官网](https://arxhr007.github.io/lxask/) · 个人维护
 
-**离线 Linux 命令助手：本地 1.5B 模型生成命令并核对文档**
+**本地离线 Linux 命令助手：自然语言生成 shell 命令并核对文档**
 
-以 Rust 与 llama.cpp 构建的命令行工具，基于 Qwen2.5-Coder-1.5B 经 LoRA 与强化学习微调：用户用自然语言请求，得到可插入命令行的 shell 命令，每条命令对照 man pages 与 tldr 检查，无法确认的部分会标记。安装后离线运行于 CPU，无需网络、账号或 API key；提供 Ctrl+G shell 集成、常驻服务加速、--explain 解释已有命令等模式。README 同时公布基准结果与错误样本。
+在用户机器上运行的 Linux 命令助手：基于 Qwen2.5-Coder-1.5B（LoRA 与强化学习微调），用 Rust 与 llama.cpp/GGUF 实现，纯 CPU 推理，约占 1 GB 磁盘与 1.3 GB 内存，每答约 2 秒。每条生成的命令对照 man pages 与 tldr 做核验，无法确认的部分会标注；支持多步请求、'without X' 限制、模糊请求追问，并可通过 Ctrl+G 在提示符处将自然语言转为命令。安装后离线运行，无需账户或 API key。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 本地 CPU 运行：约 1.1 GB 磁盘、峰值约 1.3 GB 内存，无需 GPU，加载后约 2 秒出答案
-- 每条命令对照 man pages 与 tldr 校验，无法确认的内容被标记
-- Ctrl+G 集成 bash/zsh/fish，自然语言行直接转换为命令
-- 权重、训练管线、训练数据与评测集全部公开，可复现训练
+- 1.5B 模型本地 CPU 推理，约 1.1 GB 磁盘、1.3 GB 内存峰值
+- 每条命令对照 man pages 与 tldr 核验，标注无法确认的内容
+- Ctrl+G 在 shell 提示符处将自然语言行转为命令
+- 在 NL2SH-ALFA 基准（300 任务）上报告 62% 解决率
 
 ## 适用场景
 
-- 忘记命令语法时用自然语言直接询问并取回命令
-- 受限环境下（如不能使用某工具）生成符合约束的命令
-- 解释自己不熟悉的命令各部分含义并做核对
-- 无网络或不愿使用云服务的机器上的日常 shell 工作
+- 忘记命令时用自然语言直接查询 Linux 用法
+- 无网络环境下获取带文档核验的命令建议
+- 对命令有约束需求（如'不用 lsof'）时生成替代方案
+- 用 --explain 逐部分解释并核验已有命令
 
 ## 场景标签
 
@@ -39,8 +39,8 @@
 ## 证据(README 行号)
 
 > L6:  A Linux command assistant that runs on your own machine:
-> L26: $ lxask "show disk usage of each folder here, biggest first"
-> L32: - ✅ **Checks its own work.** Every command is checked against the man pages and tldr, and anything it can't confirm
+> L16:  llama.cpp, GGUF
+> L32: - ✅ **Checks its own work.** Every command is checked against the man pages and tldr, then — where there is enough 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-20 · 置信度 high · 依据 README sha `b62c94856040` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `270e18d673bf` · [字段定义](../../DATASET.md)*

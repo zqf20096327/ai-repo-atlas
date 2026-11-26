@@ -2,9 +2,9 @@
 
 ⭐ 189 · CC0-1.0 · 推送 2026-10-31 · [GitHub](https://github.com/aaronhma/awesome-tensorflow-js) · [官网](https://www.tensorflow.org/js/) · 个人维护
 
-**TensorFlow.js 学习资源策展清单：教程/模型/书籍/工具汇总**
+**为 JavaScript 开发者收录 TensorFlow.js 学习与项目资源**
 
-由个人维护的 TensorFlow.js 资源聚合清单，收录官方文档、教程、预训练模型仓库、论文、视频、书籍、博客，以及基于 TensorFlow.js 构建的项目展示（如 NSFWJS、Pose Animator、BodyPix）。另列出 ml5.js、face-api.js、handtrack.js 等相关库与 Teachable Machine、TensorFlow Playground 等在线工具，并提供社区渠道与贡献指南（含条目弃用判定规则）。清单本身不含可安装代码。
+收录 TensorFlow.js 相关资源的策展清单，按文档、教程、模型/项目、论文、视频、书籍、博客、社区等类别组织，条目附一行说明。内容覆盖在浏览器与 Node.js 中训练与部署机器学习模型的学习路径，并收录使用该库的展示项目（如图像分类、姿态分割、人脸检测库等）与工具链接。社区部分列出贡献方式与废弃条目的移除标准，要求贡献者遵守行为准则。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 分类收录 TensorFlow.js 教程、论文、视频与书籍
-- 列出 @tensorflow-models 等 NPM 预训练模型与官方示例仓库
-- 收录基于 TensorFlow.js 的项目（NSFWJS/Pose Animator/BodyPix 等）与相关库
-- 定义了条目弃用判定规则与贡献流程
+- 按文档/教程/模型/论文/视频/书籍/工具等类别组织的策展清单
+- 收录官方预训练模型仓库与 NPM 上的 @tensorflow-models 包
+- 列出基于 TensorFlow.js 的展示项目与在线工具
+- 提供条目废弃移除标准（明确停止维护或长期未提交）
 
 ## 适用场景
 
-- 系统查找 TensorFlow.js 的学习路径与官方资源
-- 为浏览器端 ML 项目寻找相关库与预训练模型
-- 了解社区基于 TensorFlow.js 构建的项目案例
+- 想用 JavaScript 在浏览器里训练或运行机器学习模型时查找学习资料
+- 寻找可直接使用的 TensorFlow.js 预训练模型与示例项目
+- 为前端项目挑选人脸检测、手部检测等现成库
 
 ## 场景标签
 
@@ -37,7 +37,7 @@
 
 ## 证据(README 行号)
 
-> L3: TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine l
+> L1: # Awesome TensorFlowJS Awesome
 > L6: This list is a collection of the best TensorFlow.js tools, resources, videos and shiny things.
 
 ## 星数曲线
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b833d6e947ec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `49d19e7b3758` · [字段定义](../../DATASET.md)*

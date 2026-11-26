@@ -2,9 +2,9 @@
 
 ⭐ 204 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/fronalabs/frona) · [官网](https://docs.frona.ai) · 组织维护
 
-**自托管个人 AI 助手平台：创建可自主执行任务的 agent 并通过对话交互**
+**自托管个人 AI 助手平台：自主 agent 配工具并对话协作**
 
-用 Rust 编写的自托管个人 AI 助手平台，用户创建自主 agent，通过聊天界面下达任务；agent 可浏览网页、在沙箱中执行代码、部署应用、拨打电话、经 Telegram/Slack/Discord 等渠道沟通并相互委派任务。安全机制包括每主体进程级沙箱与统一策略引擎、凭证保险库（1Password/Bitwarden 等）、隔离浏览器会话。支持两种记忆后端（Basic 与本体论支持的 PKM），接入 Anthropic/OpenAI/Gemini/Ollama 等多家 LLM 提供商，以单个 OCI 容器部署，需 Docker/Podman 运行环境。
+自托管的个人 AI 助手平台：用户创建自主 agent，为其配置工具（浏览器自动化、联网搜索、沙箱代码执行、语音通话、MCP 服务器），通过聊天界面下达任务，agent 可自主多步执行并互相委派。安全机制包括按主体的沙箱进程隔离、统一策略引擎、凭据保险库审批与入站消息的隔离 LLM 分发。引擎以 Rust 编写，前后端打包为单个 rootless OCI 容器部署，内存支持 Basic 与知识图谱 PKM 两种后端。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 自主 agent 多步执行任务，可自建工具并相互委派
-- 每主体进程级沙箱与统一策略引擎控制工具访问和隔离规则
-- 凭证保险库实时审批，支持 1Password/Bitwarden/Vault/KeePass
-- 单个 rootless OCI 容器部署（兼容 Docker/Podman）
+- 每主体沙箱隔离与统一策略引擎（工具访问与沙箱规则同一语言）
+- 支持 Telegram/Slack/Discord/WhatsApp/Signal 等消息渠道接入同一 agent
+- MCP bridge 模式以单一 mcpctl CLI 向 LLM 暴露全部工具以节省 token
+- Basic memory 与本体驱动 PKM 知识图谱两种记忆后端
 
 ## 适用场景
 
-- 在自己服务器上运行个人 AI 助手并掌控数据
-- 让 agent 自动完成浏览网页、执行代码、构建部署应用等多步任务
-- 通过 Telegram/Slack/Discord 等消息渠道随时与同一 agent 对话
+- 在自己的服务器上部署可控的个人 AI 助手
+- 让 agent 自动浏览网页、执行代码并交付应用
+- 通过聊天软件随时随地与同一记忆的 agent 对话
 
 ## 场景标签
 
-`AI 助手` `多智能体` · 领域:Agent 开发
+`AI 助手` `浏览器自动化` `聊天机器人` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L12: Frona is a personal AI assistant. You create autonomous agents that browse the web, run code, build applications, m
-> L14: You deploy Frona on your own infrastructure and keep full control of your data. The platform is built from the grou
+> L50: - **Single-container deployment:** the entire backend (API server, embedded database, scheduler, tool execution) ru
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `08b19099cdff` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `111b8bf3b1b6` · [字段定义](../../DATASET.md)*

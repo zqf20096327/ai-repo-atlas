@@ -2,9 +2,9 @@
 
 ⭐ 190 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/khromov/svelte-bench) · [官网](https://khromov.github.io/svelte-bench/benchmark-results-merged.html) · 个人维护
 
-**评测 LLM 生成 Svelte 5 组件能力的基准（pass@k）**
+**评测 LLM 生成 Svelte 5 组件能力的基准测试工具**
 
-基于 HumanEval 方法论的代码生成基准，专测 LLM 编写 Svelte 5 组件（runes 等现代特性）的能力：向模型发送提示词生成组件，用 Vitest 测试与参考实现自动验证，计算 pass@1/pass@10 指标。支持 13 个 provider 含本地 Ollama；提供结果可视化（HTML 排行榜）、断点续跑、重试、上下文文件注入、Ollama 模型速度（tokens/s）与平均响应时长测量。可选 Go 编写的 TUI 交互前端。需 Node.js 24 与 pnpm 运行。
+基于 OpenAI HumanEval 论文方法论构建的基准，通过向 LLM 发送提示、生成 Svelte 5 组件并运行 Vitest 测试套件验证功能，计算 pass@1/pass@10 指标。支持十余家 LLM 接入商及本地 Ollama 运行时，提供 CLI（环境变量/.env 配置）、可选 Go 编写的 TUI 交互界面、批量脚本与结果 HTML 可视化。需 Node.js 24 与 pnpm；支持断点续跑、指数退避重试、上下文文件注入，测试集可在 src/tests/ 下自行扩展。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- pass@1/pass@10 指标，10 样本/测试的自动验证
-- 13 个 provider 支持（OpenAI/Anthropic/Gemini/Ollama 等）
-- Ollama 本地模型的速度（tokens/s）与平均响应测量
-- 样本级断点续跑与指数退避重试
+- HumanEval 方法论的 pass@k 指标（每测试默认 10 个样本）
+- 支持 OpenAI/Anthropic/Gemini/Ollama 等十余家提供商
+- 样本级 checkpoint 自动保存与断点续跑
+- pnpm run build 生成交互式 HTML 结果可视化
 
 ## 适用场景
 
-- 比较各 LLM 生成 Svelte 5 组件的准确率
-- 评测本地 Ollama 模型的生成质量与速度
-- 为选型 Svelte 项目编码模型提供参考数据
+- 比较不同 LLM 生成 Svelte 5 runes 组件的正确率
+- 在选型前批量评测多个模型对现代 Svelte 特性的掌握
+- 用 Ollama 本地跑分并测量 tokens/秒生成速度
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e4e1ad895eac` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `038e0a9df7d7` · [字段定义](../../DATASET.md)*

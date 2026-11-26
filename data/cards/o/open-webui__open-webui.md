@@ -1,16 +1,16 @@
 # open-webui/open-webui
 
-⭐ 159,563 · Svelte · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护
+⭐ 159,563 · Svelte · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/open-webui/open-webui) · [官网](https://openwebui.com) · 组织维护 · 中文 README
 
-**自托管 AI 聊天界面：连接 Ollama 与 OpenAI 兼容 API**
+**自托管的多模型 AI 对话界面，支持本地与云端模型**
 
-Open WebUI 是一个可扩展、可完全离线运行的自托管 AI 平台界面：通过 Ollama 连接本地模型，或通过 OpenAI 兼容 API 使用本地与云端模型。提供 Python（uvx/pip）、Docker 及桌面应用三种安装方式，Docker 镜像含标准、slim、CUDA 加速与捆绑 Ollama 等变体；主题标签显示包含 RAG 与 MCP 能力。许可证要求保留 Open WebUI 品牌标识。
+Open WebUI 是一个可自托管、可完全离线运行的 AI 交互平台：通过 Ollama 接入本地模型，通过 OpenAI 兼容 API 接入本地与云端模型，并可通过 Agent Client Protocol 添加 agent。安装方式包括 pip/uvx（Python 3.12）、Docker（提供 :main/:slim/:cuda/:ollama 等镜像标签）以及 macOS/Windows/Linux 桌面应用。README 另介绍生态组件（Terminal、知识库同步等），并说明许可证要求保留 Open WebUI 品牌。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -27,16 +27,16 @@ Open WebUI 是一个可扩展、可完全离线运行的自托管 AI 平台界�
 
 ## 能力要点
 
-- 支持通过 Ollama 接入本地模型与 OpenAI 兼容 API 接入云端模型
-- 完全离线运行的自托管平台
-- 提供 macOS/Windows/Linux 原生桌面应用
-- Docker 镜像含 CUDA 加速与捆绑 Ollama 变体
+- 通过 Ollama 运行本地模型，通过 OpenAI 兼容 API 接入本地与云端模型
+- 支持完全离线运行（HF_HUB_OFFLINE 环境变量）
+- 提供 :cuda 加速镜像与 :ollama 捆绑镜像
+- 支持 pip/Docker/桌面应用多种安装方式
 
 ## 适用场景
 
-- 在本地离线运行并与本地大模型对话
-- 用统一界面管理本地与云端多个模型服务
-- 在企业内部署带工作区编排的 AI 入口
+- 在内网或本地离线环境部署 AI 对话界面
+- 通过一个界面统一访问本地模型和云端 API 模型
+- 接入 ACP agent 进行对话交互
 
 ## 场景标签
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `04839d5ac964` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b48564d5c673` · [字段定义](../../DATASET.md)*

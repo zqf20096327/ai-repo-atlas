@@ -2,15 +2,15 @@
 
 ⭐ 230 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Staks-sor/ai-free) · [官网](https://github.com/Staks-sor/ai-free#readme) · 个人维护
 
-**把 DeepSeek/Qwen/ChatGPT 网页聊天变为本地 AI 客户端与代码代理**
+**把 DeepSeek/Qwen/ChatGPT 网页聊天接入本地开发流程的客户端**
 
-开源的本地 AI 客户端与开发者工具：通过浏览器会话登录 DeepSeek、Qwen 与 ChatGPT 的免费网页聊天，将其接入桌面窗口、CLI REPL、本地 OpenAI 兼容 API 与 Anthropic 兼容 API，并提供 VS Code 插件。内置 `/code` 代码代理（workspace 文件访问与受控命令权限）、SQLite FTS5 + Markdown 的长期记忆、memory graph、skills 与层级化 AGENTS.md 项目指令。安装需 Node.js ≥ 18 与 Chromium（约 150 MB，npm install 自动下载），Linux 需额外安装 Chromium 系统依赖。
+本地运行的 AI 客户端：将 DeepSeek、Qwen、ChatGPT、Google AI Mode、GLM 等网页聊天聚合到一个窗口（localhost:4317），并提供终端 REPL、OpenAI/Anthropic 兼容 API（localhost:4318）供 Kilo Code、Continue 等 IDE 工具接入。内置 /code 开发代理（读写 workspace 文件、执行许可命令）、SQLite FTS5 + Markdown 的持久记忆与记忆图谱、可自动匹配的 skills 机制及 AGENTS.md 项目规则加载。需要 Node.js 22+，通过 git clone + npm install 安装；登录依赖浏览器会话恢复，部分提供商登录需 Python 3.10+。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- DeepSeek/Qwen/ChatGPT 统一接入桌面、CLI 与 OpenAI/Anthropic 兼容 API
-- `/code` 代理可读写 workspace 文件并执行受控命令
-- SQLite FTS5 + Markdown vault 的长期记忆与 memory graph
-- 层级化 AGENTS.md 在每次代理任务前重载，内置 code-review/bug-fix 等 skills
+- 聚合四个以上提供商网页聊天，按项目文件夹组织多会话
+- 提供 OpenAI/Anthropic 兼容 API 供 IDE 插件接入
+- SQLite FTS5 + Markdown vault 的长期记忆与 task-file-bug-fix 记忆图谱
+- AGENTS.md 分层规则加载与 skills 自动匹配（code-review/bug-fix/video-script）
 
 ## 适用场景
 
-- 在一个本地窗口里使用 DeepSeek、Qwen 和 ChatGPT 编码助手
-- 把免费网页聊天封装成 OpenAI 兼容 API 供 Continue/Kilo Code 等 IDE 工具调用
-- 带本地记忆和 skills 的重复性开发任务工作流
+- 在本地终端和 IDE 里使用已有的 DeepSeek/Qwen/ChatGPT 网页账号做开发
+- 给 Kilo Code、Continue 等 IDE 工具接一个本地兼容 API
+- 让代理跨会话记住项目的任务、文件与修复历史
 
 ## 场景标签
 
-`Agent 记忆` `模型网关` `编码 Agent` · 领域:Agent 开发
+`模型网关` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L17: **AI Free** is an open-source local AI client and developer tool for using free web AI chats as a practical coding 
-> L23: - Run Qwen, DeepSeek and ChatGPT from one local desktop app.
+> L51: > Локальный AI-клиент, который превращает веб-чаты DeepSeek, Qwen, ChatGPT и Google AI Mode в инструмент для разраб
+> L74: - 🔌 **Совместимые API** (`localhost:4318`): OpenAI и Anthropic для Kilo Code, Continue и других IDE.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5a2956c9c94e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `506a7b90145c` · [字段定义](../../DATASET.md)*

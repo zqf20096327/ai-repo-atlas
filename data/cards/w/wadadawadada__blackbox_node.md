@@ -2,9 +2,9 @@
 
 ⭐ 181 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/wadadawadada/blackbox_node) · [官网](https://blackbox.host/) · 个人维护
 
-**离线优先的 Meshtastic/LoRa 网状网指挥节点，集成本地 AI 与比特币支付**
+**离线网格节点指挥所：本地 LLM+TAK 地图+链上支付**
 
-自托管的 Web 应用：将笔记本电脑或主机变为 LoRa 网状网节点，通过 llama.cpp 运行本地量化 GGUF 模型，支持网内其他节点用 @bot/!ask 或斜杠命令经无线电查询 AI；收发 TAK/ATAK CoT 地图对象，记录消息、遥测与电池数据；内置 Bitcoin BIP-39 钱包与 Cashu ecash，可用文本 token 在网内转账。面向离网通信、灾害响应与外场行动等场景。运行需 Node.js 18+，无线电/TAK 功能另需 Python 3.11+ 与 USB 连接的 Meshtastic 设备；npm install 自动下载 llama.cpp 运行时与入门模型。
+自托管的 Web 应用，将 Meshtastic/MeshCore LoRa 网络接入一个离线优先的指挥界面：通过可切换桥接进程连接无线电，支持本地 llama.cpp 运行量化 GGUF 模型（无 API key、无云调用），网内其他节点可用 @bot/!ask 通过无线电查询 AI；同时提供 TAK/ATAK CoT 地图对象收发（含 fountain transfer 大载荷传输）、遥测记录、Bitcoin BIP-39 钱包与 Cashu ecash 离线支付。仅安装时需联网，运行期可完全断网；无线电功能需 USB 串口连接 Meshtastic 设备，无设备时仍可启动。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- llama.cpp 运行本地量化 LLM，无 API key、无需联网
-- Meshtastic 节点可通过无线电查询 AI 与斜杠命令
-- TAK/ATAK CoT 地图对象经网状网收发，大负载自动切换喷泉传输
-- Cashu ecash token 以文本消息经网内传递，支持外部钱包客户端远程付款
+- 本地 llama.cpp 运行 GGUF 模型，网内节点可经无线电 @bot/!ask 查询 AI
+- TAK/ATAK CoT 地图对象收发，大载荷自动切换 fountain transfer
+- 内置 Bitcoin HD 钱包与 Cashu ecash，支付令牌可作为纯文本经 mesh 传输
+- mesh 斜杠命令（/summary /weather /battery 等）直接从遥测数据返回结构化结果
 
 ## 适用场景
 
-- 停电或灾害时维持本地通信与态势感知
-- 外场团队用 Meshtastic 加 TAK 式地图共享协同
-- 社区网状网内运行本地 AI 助手与离线小额支付
+- 灾害或断网环境下维持团队通信与态势感知
+- 野外队伍用 Meshtastic 无线电共享 TAK 地图对象
+- 无互联网地区经无线电收发 Cashu 小额支付
+- 社区自建本地 AI 节点供邻居设备无线电提问
 
 ## 场景标签
 
-`AI 助手` · 领域:对话与助手
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L7: Blackbox Node is an offline-first command post for Meshtastic and **LoRa** networks. It combines a fully local LLM, 
-> L17: - Run a local offline AI assistant on your own machine with `llama.cpp`
-> L42: Runs a quantized LLM entirely on your machine via `llama.cpp`. No API keys, no cloud calls, and no internet require
+> L7: Blackbox Node is an offline-first command post for Meshtastic or MeshCore **LoRa** networks. It combines a fully loc
+> L42: ### Local offline AI
+> L86: ### Off-grid payments
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5c771871c3d2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `eb6770f14f05` · [字段定义](../../DATASET.md)*

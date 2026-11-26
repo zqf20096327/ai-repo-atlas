@@ -2,9 +2,9 @@
 
 ⭐ 175 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/diceframe/diceframe) · [官网](https://diceframe.com) · 组织维护 · 中文 README
 
-**自部署 AI 跑团（TRPG）引擎：多人 WebUI 跑 D&D/COC 等规则**
+**可自部署的 AI 跑团引擎，支持 D&D/CoC 等规则与多人 WebUI**
 
-可自托管的 AI 桌面角色扮演游戏引擎：玩家用自然语言描述行动，系统将行动交给 GM 模型处理骰子检定与状态标签，再把结果同步回浏览器。支持 D&D 5e 风格 Lite、自定义 d20、COC 7e 风格 d100 与无骰叙事规则，提供角色卡、世界书/内容库、战役日志、单人与多人游玩（邀请链接）、QQ/NapCat 群聊 Bot、插件商店，以及可选的 TTS、嵌入记忆召回与 AI 内容生成。模型接入要求 OpenAI 兼容的 Chat Completions 端点，通过设置页配置 provider 与模型路由；旧版内联 AI 配置不再生效且无自动迁移。提供 Windows 便携版、源码运行与 Docker 部署，另有独立 Android 客户端。
+DiceFrame 是一个可自部署的 AI 桌面角色扮演游戏引擎，支持 D&D、CoC 及自定义规则。玩家在浏览器中自然语言描述行动，系统执行自动骰子检定、维护角色状态，并由 GM 生成回复。支持单人或多人联机（邀请与共享游戏状态）、世界书与剧本/PDF 导入、AI 辅助创建角色卡与规则、长战役摘要记忆、文本转语音、插件与群聊 Bot，以及仅限房主操作的 DF Agent。提供 Windows 安装包/便携版、Docker 与源码三种部署方式，采用 AGPL-3.0 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 多规则骰子检定层：d20/d100/无骰叙事，含优劣势、奖惩骰、HP/物品/死亡等状态处理
-- 单人与多人 WebUI 游玩，含邀请链接、GM 强制推进与实验性 WebRTC 玩家直连
-- AI 辅助生成世界、规则、角色与世界书；可选基于嵌入的长期会话记忆召回
-- 内置 QQ/NapCat Bot 插件与社区插件商店（.dfplugin 本地安装）
+- 支持 D&D/CoC/自定义规则的自动骰子检定与状态追踪
+- 多人 WebUI，支持邀请与共享游戏状态
+- 世界书/剧本/PDF 导入与 AI 辅助世界、角色、规则创建
+- 插件系统、群聊 Bot 与文本转语音
 
 ## 适用场景
 
-- 和朋友在线跑 D&D 或 COC 团，由 AI GM 主持叙事与检定
-- 导入 Foundry/Fantasy Grounds 剧本来跑模组
-- 通过 QQ 群聊 Bot 进行跑团对话与提问
-- 自托管在 NAS 或服务器上，用手机/浏览器加入游戏
+- 和朋友在线跑 COC 或 DND 团，规则判定交给系统
+- 自建服务器上托管长期战役并用摘要保留记忆
+- 用 AI 辅助搭建自己的世界观和角色卡
+- 在 QQ 等聊天平台通过 Bot 桥接跑团
 
 ## 场景标签
 
- · 领域:游戏/AI 娱乐
+`聊天机器人` `语音合成` `文档解析` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L13: DiceFrame is a self-hostable **AI tabletop RPG engine** supporting **D&D / CoC / custom rules** with a **multiplaye
-> L15: It brings the Web UI, character sheets, lorebooks, dice checks, state changes, campaign logs, and optional chat-bot
+> L9: DiceFrame is a self-hostable **AI tabletop RPG engine** supporting **D&D / CoC / custom rules** with a **multiplayer
+> L17: - Describe actions naturally; rules handle automatic dice checks and character state.
+> L21: - Add plugins and chat bots; use the owner-only DF Agent for reviewed operations.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bae83b3db54d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9b5d13189a35` · [字段定义](../../DATASET.md)*

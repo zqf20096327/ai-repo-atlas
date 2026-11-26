@@ -4,7 +4,7 @@
 
 **为 Nuxt 应用自动生成 llms.txt 文档的模块**
 
-Nuxt 模块，自动生成并预渲染 /llms.txt 与可选的 /llms-full.txt 路由，按 llms.txt 规范输出结构化 Markdown 文档供人与 LLM 消费。通过 nuxt.config.ts 配置标题、描述、分区与链接，提供 llms:generate 与 llms:generate:llms-full 运行时钩子，供应用或其他 Nuxt 模块动态扩展文档内容。Nuxt Content ^3.2.0 内置集成，可自动将 content 目录内容写入两份文档。以 npm 包分发，MIT 许可。
+一个 Nuxt 模块，为应用自动生成并预渲染遵循 llms.txt 规范的 markdown 文档路由 /llms.txt，可选启用更详细的 /llms-full.txt。通过 nuxt.config.ts 配置标题、描述、sections 与 notes，提供 llms:generate 与 llms:generate:full 两个运行时钩子，供应用插件或其他 Nuxt 模块（如 @nuxt/content）动态注入内容。支持构建时预渲染或动态服务，可选 UTF-8 BOM 处理非拉丁字符。安装方式为 npm 安装并注册模块，MIT 许可。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ Nuxt 模块，自动生成并预渲染 /llms.txt 与可选的 /llms-full.txt 路
 
 ## 能力要点
 
-- 自动生成并预渲染 /llms.txt，可选启用 /llms-full.txt
-- 运行时钩子系统支持应用与第三方 Nuxt 模块动态扩展文档
-- 与 @nuxt/content 内置集成，content 目录内容自动纳入文档
-- 分区/链接/notes 均可在 nuxt.config.ts 中配置，支持动态服务替代预渲染
+- 自动生成并预渲染遵循 llms.txt 规范的 /llms.txt 路由
+- 可选启用 /llms-full.txt 详细文档路由
+- 提供 llms:generate / llms:generate:full 运行时钩子供扩展
+- 与 @nuxt/content 模块集成，自动纳入站点内容
 
 ## 适用场景
 
-- 为我的 Nuxt 网站生成 LLM 可读的文档端点
-- 把 CMS 或 Nuxt Content 的内容聚合进 llms.txt
-- 作为 Nuxt 模块开发者向下游 llms.txt 注入文档章节
+- 为自己的 Nuxt 网站生成 LLM 可读的文档入口
+- 结合 Nuxt Content 将内容站输出为 llms.txt
+- 通过钩子把 CMS 等外部数据源注入文档
 
 ## 场景标签
 
- · 领域:Web 开发/LLM 文档基础设施
+ · 领域:Web 开发工具/LLM 文档规范
 
 ## 证据(README 行号)
 
 > L10: Nuxt LLMs automatically generates `llms.txt` markdown documentation for your Nuxt application. It provides runtime 
-> L74: The `/llms.txt` route generates a concise, structured documentation that follows the llms.txt specification. This f
+> L19: - Integrates with Nuxt modules and your application via the runtime hooks system
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `40065b33091f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6aff8899e92b` · [字段定义](../../DATASET.md)*

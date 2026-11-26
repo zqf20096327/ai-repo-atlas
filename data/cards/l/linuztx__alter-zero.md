@@ -2,9 +2,9 @@
 
 ⭐ 183 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/linuztx/alter-zero) · 个人维护
 
-**Rust 编写的终端 AI 编程 agent，兼做安全研究与自动化**
+**给终端用的开源编码 agent：读写代码、跑命令、可接本地模型**
 
-运行于 Linux 与 macOS 的单二进制终端 AI 编程代理，用 Rust 编写：在项目目录内读文件、改代码、执行命令并实时展示输出与 diff；也用于安全漏洞审查、技术调查与日常自动化。支持 13 种模型接入方式（订阅、API key、本地 Ollama/LM Studio），可通过 providers.toml 添加 OpenAI 兼容服务或 llama.cpp/vLLM 本地服务器。提供子代理、SKILL.md 技能、MCP 服务器、hooks、检查点回滚与四种权限模式。安装支持 curl 脚本、npm 或 cargo 源码编译，附 Kali Linux 容器构建脚本。
+Rust 编写的终端 AI agent，灵感来自 Claude Code 与 Codex CLI，在项目目录内读取文件、做编辑、运行命令并检查结果。支持订阅/API/本地模型多种接入方式，提供四档权限模式、审批提示、检查点回滚、子 agent、SKILL.md 技能、MCP 服务器与 headless 单次执行模式。单二进制、小内存占用，Linux/macOS 可用，支持 Docker/Kali 容器运行。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 四种权限模式与批准提示，支持检查点快照与回滚
-- 子代理、SKILL.md 技能、MCP 服务器（stdio/HTTP/SSE/OAuth）扩展
-- providers.toml 可添加任意 OpenAI 兼容 API 或 llama.cpp/vLLM 本地服务器
-- 内建 web-search（Exa/Parallel/Tavily/Jina）等技能与上下文压缩管理
+- 四档权限模式与审批提示，可审查 diff 与命令后再执行
+- 支持 Ollama/LM Studio 本地模型及任意 OpenAI 兼容 provider 配置
+- 子 agent、SKILL.md 技能、hooks 与 MCP 服务器扩展
+- headless 模式输出 stdout/JSON 与退出码，可嵌入脚本与 CI
 
 ## 适用场景
 
-- 在终端里让 agent 定位测试失败原因、修复并运行测试
-- 审查代码库安全漏洞并追踪到具体代码行
-- 调查陌生项目的认证/架构逻辑
-- 编写日志汇总与错误标记的自动化脚本
+- 让 agent 定位并修复失败的测试
+- 审查仓库中的安全漏洞并追溯到代码
+- 用脚本或 cron 对单条 prompt 做 headless 调用
+- 在 Kali 容器里做安全研究任务
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L36: Alter Zero is an open-source AI coding agent written in Rust. It works directly in your project: reading files, mak
-> L42: |**Your choice of model**|Connect with a supported subscription or API key, or run local models with Ollama or LM S
-> L141: Connect to a supported subscription service, API provider, or local model server. Use `/login` to connect and `/mo
+> L5: ### Give your terminal a coding agent.
+> L37: Alter Zero is an open-source AI coding agent written in Rust, inspired by Claude Code and Codex CLI. It works direc
+> L43: |**Your choice of model**|Connect with a supported subscription or API key, run local models with Ollama or LM Stud
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 high · 依据 README sha `b214760eeb94` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `864cb4a787fd` · [字段定义](../../DATASET.md)*

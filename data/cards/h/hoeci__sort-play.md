@@ -2,9 +2,9 @@
 
 ⭐ 178 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hoeci/sort-play) · 个人维护
 
-**给 Spotify 用户的桌面客户端增强扩展：排序/过滤/歌单生成**
+**为 Spotify 桌面客户端添加排序、过滤与播放列表生成功能的 Spicetify 扩展**
 
-一个 Spicetify 扩展，安装于 Spotify 桌面客户端，提供歌单/专辑/艺术家页面的多维排序（播放次数、Last.fm scrobbles、发行日期、BPM、能量等音频特征、口味匹配）、快捷过滤（去重、不可播曲目、关注艺人等）、额外数据列、右键菜单（全目录生成、流派查看）、艺人感知随机播放、以及一键生成和自更新的专用/动态歌单。部分功能需要 Last.fm 用户名。README 提供安装章节，具体命令在可见范围外。
+以 Spicetify 扩展形式运行于 Spotify 桌面客户端，提供按播放量、发行日期、Last.fm 收听记录、BPM 等音频特征排序，重复曲目检测与交互式审查清理，多列数据展示，按艺术家加载完整作品集并去重，以及自动更新的专属播放列表与多来源动态播放列表。功能依赖 Spotify 账号，部分排序与数据需 Last.fm 用户名。README 未提供安装命令之外的运行细节。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 按播放次数、scrobbles、音频特征（BPM/能量/调性）等 20+ 指标排序
-- 交互式重复曲目管理与智能去重（ISRC 匹配）
-- 基于收听历史与 Last.fm 的发现/口味歌单一键生成
-- 可设定时任务的自更新动态歌单
+- 按播放量、True Release Date、Last.fm 收听量、音频特征（BPM/能量/舞曲度等）多维度排序
+- 重复曲目管理器：精确/疑似重复检测、ISRC 对比、音频预览与多种清理动作
+- 艺术家完整作品集自动加载与可配置去重模式
+- 一键生成 Top Tracks、新发行、Discovery Mixes 等播放列表并支持定时自动更新
 
 ## 适用场景
 
-- 清理歌单中的重复与不可播曲目
-- 按 BPM/能量等音频特征整理 DJ 或连续听歌的歌单
-- 自动生成并定时更新新发行/发现类歌单
+- 整理和清理 Spotify 播放列表中的重复与不可播放曲目
+- 按发行日期或音频特征重新排序歌单和专辑
+- 基于 Last.fm 收听历史生成发现类播放列表
 
 ## 场景标签
 
- · 领域:音乐/桌面客户端扩展
+ · 领域:音乐/桌面工具
 
 ## 证据(README 行号)
 
 > L5: *A Spicetify extension that adds powerful sorting, filtering, UI features, and more to the Spotify desktop client.*
 > L29: * **Taste Match:** Sorts tracks by how well they align with your unique listening history and personal taste profil
-> L115:  * **Recent Taste:** Recommendations based on your recent listening habits.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 low · 依据 README sha `38e176d07194` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a5838fb592be` · [字段定义](../../DATASET.md)*

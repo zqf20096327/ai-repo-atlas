@@ -2,9 +2,9 @@
 
 ⭐ 170 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/healthymind-tech/Taiwan-Health-MCP) · [官网](https://tw-health-mcp.healthymind-tech.com) · 组织维护 · 中文 README
 
-**面向 AI agent 的台湾医疗数据 MCP 服务器（64 个工具）**
+**让 AI agent 读取台湾医疗数据的 MCP 服务器**
 
-以官方 TypeScript MCP SDK 构建的 Node.js 服务器，为 AI agent 提供 64 个工具、12 个群组：FHIR R4 / TW Core IG 验证与骨架填值、ICD-10-CM/PCS 与 SNOMED CT、LOINC、RxNorm 术语查询、TFDA 药品查询与药丸识别、临床计算器（确定性计算，不让 LLM 自算）、pgvector 语义搜索（默认 Ollama 嵌入，无嵌入时退回关键字）。除 crud_fhir_server 外工具均为只读。提供官方托管端点，也可 Docker Compose 自部署，数据经管理后台导入。面向生产级 SaaS 部署设计。
+基于官方 TypeScript MCP SDK 构建的 Node.js 服务器，通过 MCP streamable-http 与 OpenAPI bridge 两种接口对外提供 73 个工具，分属 12 个群组：FHIR R4/TW Core IG 验证与资源编写、ICD-10/SNOMED CT/LOINC/RxNorm 查码与映射、TFDA 药品与食品营养查询、11 个确定性临床计算器。语义搜索用 pgvector 嵌入，嵌入不可用时退回关键词搜索；除 FHIR 服务器注册工具外全部只读。通过 docker compose 部署，附管理后台用于导入数据与配置。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 64 个 MCP 工具：FHIR 验证、术语查询、临床计算器、TFDA 药品识别
-- TW Core IG 验证对齐 HL7 validator_cli 7.0.1，含不靠 LLM 的病历忠实度检查
-- pgvector 语义搜索默认 Ollama qwen3-embedding，无嵌入时自动退回关键字
-- 提供官方托管端点与 Docker Compose 自部署两种方式
+- 73 个 MCP 工具覆盖 FHIR 验证、医学术语、药品与临床计算
+- 临床计算器为确定性计算，不交由 LLM 自行运算
+- 除 FHIR 服务器注册外所有工具为只读
+- 同时提供 MCP 与 OpenAPI 两种客户端接入接口
 
 ## 适用场景
 
-- 让 Claude/Cursor 等 agent 查询台湾药品许可证与药品识别
-- 为医疗 agent 提供 ICD-10/SNOMED CT/LOINC 编码查询与检验值解读
-- 对 FHIR 资源做 TW Core IG 验证与 grounding 检查
-- 用确定性临床计算器（CHA₂DS₂-VASc、eGFR 等）替代 LLM 口算
+- 让 Claude/Cursor 等 agent 查询 ICD-10、LOINC、SNOMED CT 编码并做跨语汇映射
+- 对 TW Core IG 剖面验证与生成 FHIR R4 资源
+- 查询 TFDA 药品许可与按外观辨识药丸
+- 在院内部署后让 agent 读取已登记的 FHIR 服务器资源
 
 ## 场景标签
 
- · 领域:医疗信息化/AI agent 工具服务
+ · 领域:医疗健康/AI 工具基础设施
 
 ## 证据(README 行号)
 
-> L23: 以官方 **TypeScript MCP SDK**（`@modelcontextprotocol/sdk`）建構的 Node.js 伺服器，對外提供 **64 個工具**，涵蓋 12 個工具群組。專為高吞吐量的生產級 SaaS 
-> L8:  整合 ICD-10-CM/PCS、SNOMED CT、LOINC、台灣 FDA 藥品 / 健康補充品 / 食品營養，以及 FHIR R4 IG 授權與驗證工具
+> L7:  台灣醫療健康資料整合 MCP 伺服器
+> L23: 以官方 **TypeScript MCP SDK**（`@modelcontextprotocol/sdk`）建構的 Node.js 伺服器，對外提供 **73 個工具**，涵蓋 12 個工具群組。專為高吞吐量的生產級 SaaS 
+> L40: 其他支援 MCP streamable-http 的客戶端，填入同一個網址即可。要在自己的環境部署，請看自行部署。
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `b10cbc9ae92f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e2c297881365` · [字段定义](../../DATASET.md)*

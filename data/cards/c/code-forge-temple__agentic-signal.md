@@ -2,9 +2,9 @@
 
 ⭐ 180 · TypeScript · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/code-forge-temple/agentic-signal) · [官网](https://agentic-signal.com) · 个人维护
 
-**给非开发者的可视化 AI 工作流平台，本地 LLM 驱动**
+**可视化 AI agent 工作流自动化平台，本地 LLM 运行、无需云依赖**
 
-可视化 AI 工作流自动化平台：通过拖拽式节点界面构建数据处理、AI 处理、工具调用、RAG、HTTP 抓取、求职搜索、股票分析等类型的工作流，实时查看数据流动。AI 部分通过集成 Ollama 运行本地语言模型，支持工具调用、JSON schema 结构化输出与对话记忆，无需云依赖。提供 Windows/Linux/macOS 桌面应用与 Web 应用（含 Docker 选项）；Slack、Reddit、SMS 等节点为 PRO 功能，商业使用需购买商业许可（AGPL v3 双许可模式）。
+基于 React Flow 的拖拽式可视化工作流平台，用节点连接数据源、AI 处理器与输出，实时执行。AI 能力通过 Ollama 本地运行大模型，支持工具调用（天气/搜索/Google 服务/表单填写/网页转 Markdown 等）、JSON schema 结构化输出与跨执行的对话记忆，内置 RAG 与任务搜索等节点。提供 Windows/Linux/macOS 桌面应用与 Web 应用（含 Docker）。采用 AGPL v3 与商业许可双许可模式，商业使用需购买授权；部分集成节点（Slack/Reddit/SMS）标注为 PRO。
 
 ## 筛选速览
 
@@ -20,23 +20,25 @@
 
 ## 能力要点
 
-- React Flow 拖拽式节点工作流构建器，实时执行与数据流可视化
-- 通过 Ollama 运行本地 LLM，支持工具调用、结构化输出与对话记忆
-- 20+ 节点类型：数据源、AI 处理、RAG、HTTP、求职搜索、表单填写等
-- Windows/Linux/macOS 应用与 Web 版（含 Docker 选项）
+- 拖拽式可视化工作流构建（React Flow 节点架构）
+- Ollama 本地模型集成，含工具调用与结构化输出
+- 20 余种节点类型：RAG、表单填写、股票分析、Job Search 等
+- 提供桌面应用与 Web 应用（含 Docker）两种部署形式
 
 ## 适用场景
 
-- 不写代码搭建带本地 AI 的自动化工作流
-- 在离线/隐私优先环境下用本地 LLM 处理数据
-- 自动化网页表单填写、网页转 Markdown、数据聚合等任务
+- 在本地搭建无需云端的 AI 自动化工作流
+- 通过浏览器自动化读取、填写并提交多步网页表单
+- 连接 Ollama 本地模型做文本分析与生成
+- 用可视化节点编排股票分析与图表展示
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+`工作流自动化` `浏览器自动化` `RAG` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L3: **Visual AI Workflow Automation Platform with Local Agent Intelligence**
 > L29: > Transform complex tasks into visual workflows with local AI intelligence. No cloud dependencies required.
 > L43: - **Ollama Integration** - Run AI models locally with privacy and control
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `72475bfb3a18` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c066e90ddc7c` · [字段定义](../../DATASET.md)*

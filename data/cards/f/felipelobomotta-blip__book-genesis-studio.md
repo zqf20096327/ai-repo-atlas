@@ -2,15 +2,15 @@
 
 ⭐ 169 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/felipelobomotta-blip/book-genesis-studio) · [官网](https://felipelobomotta-blip.github.io/book-genesis-studio/) · 个人维护
 
-**给 AI 编程 agent 的整书创作技能集：从一句话到成书**
+**给 AI 编码 Agent 安装的写书工作流插件：从创意到成书导出**
 
-面向 Claude Code、Codex、OpenCode 等编码 agent 的写作技能集合：把一句创意驱动为完整书籍，流程含需求建档、人物与章节规划、逐章成稿、四个模拟盲读读者评审、只读审计与受限轮次修订，最终产出报告与 logline/简介/梗概/投稿信/封面简报等编辑包，机器支持时可生成 EPUB 与 PDF。提供 Python 安装器按 agent 安装，另含 beta-reader、editorial-package、literary-agent-panel 三个独立技能。README 声明案例均为维护者本人作品，多数 agent 尚未跑完整本书。
+以 Claude Code、Codex 等编码 Agent 为宿主的书稿生成工作流：把用户创意转为 brief，逐章起草并以四个盲模拟读者评审、只读审校、限次修订（每道门槛最多三轮），最终打分并打包输出 manuscript.md 与 EPUB（DOCX/PDF 需依赖存在）。进度以文件形式保存在用户文件夹中，可跨会话续写。通过 Codex/Claude Code 插件市场或独立 Python 安装器安装，需 Python 3.10+ 与 Git，占用用户自身订阅额度。当前为 beta，无人值守完整流程仍在验证中。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 五个 agent 为 first class 支持，安装器可列目标/试运行/校验
-- 四盲读读者 + 十项 rubric 双门修订，每门至多三轮
-- 附 beta-reader、editorial-package、literary-agent-panel 三个独立技能
-- 会话状态存于用户文件夹，可跨 agent 断点续写
+- 四个盲模拟读者加只读审校的分阶段写书工作流
+- 每道门槛最多三轮修订，报告保留未通过项
+- 默认导出 manuscript.md 与 EPUB，附 logline/blurb/synopsis 等编辑包
+- 批评者在隔离子 Agent 中运行，可选用其他公司的 AI 工具
 
 ## 适用场景
 
-- 用 Claude Code/Codex 等编码 agent 从一句创意写完整本书
-- 为已有书稿生成简介、梗概、投稿信等编辑包装材料
-- 让模拟读者与经纪人面板对书稿做市场适配评审
+- 让 Claude Code 或 Codex 按章节计划代写并修订长篇小说
+- 对已有手稿运行盲模拟读者评审与编辑包装
+- 独立作者成书后导出 Markdown/EPUB 用于出版准备
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L5: Give your AI agent an idea, even a one-line one, and Book Genesis takes it to a complete book: planned, written chap
-> L34: python runner/installer.py install claude
-> L60: - **book-genesis**: the full workflow, with its phase prompts, the three critic roles, the rubric, the patterns lib
+> L5: Book Genesis gives your AI agent a workflow for turning an idea into a complete book: planning, chapter-by-chapter w
+> L25: 1. **Intake.** Your idea becomes a brief: genre, reader, length, comparable books in your idea's language, and four
+> L29: 5. **Score and package.** A plain report of where the book stands, plus the editorial package, a hook test of alter
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `67dc514cac65` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a6fc486fbdf9` · [字段定义](../../DATASET.md)*

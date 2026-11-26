@@ -2,15 +2,15 @@
 
 ⭐ 306 · TypeScript · LGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/octree-labs/octree) · [官网](https://useoctree.com) · 组织维护
 
-**面向学术写作的 AI 辅助 LaTeX 编辑器，可自托管**
+**面向学术与技术写作者的 AI 辅助 LaTeX 编辑器**
 
-基于 Next.js + Monaco 的 LaTeX 编辑器，支持编写、编辑与通过 Go + TeX Live 编译服务编译 PDF。AI 能力包括与 Claude 对话生成文档、编辑建议与实时协作，由仓库内可独立托管的 agent 服务（Vercel AI SDK + @ai-sdk/anthropic）提供。技术栈含 Supabase（数据库/认证）、Stripe 计费；自托管需 Node.js 18+、Go 1.21+、TeX 发行版与 Claude API key，去掉 AI 仍可作为编辑与编译工具使用。
+Octree 是一个 AI 驱动的 LaTeX 编辑器，基于 Next.js 15 与 Monaco 编辑器构建，用户在编辑器中编写 LaTeX，可与 Claude 对话生成文档、获取编辑建议，并通过 Go + TeX Live 编译服务编译为 PDF。架构包含 Next.js 应用、agent 服务器（Vercel AI SDK + @ai-sdk/anthropic）、编译服务与 Supabase 数据库/认证四个部分；支持实时协作，计费接 Stripe。自托管需 Node.js 18+、Go 1.21+、TeX 发行版、Docker 与 Claude API key；agent 服务可独立部署，提供 Docker 生产部署方式，许可证为 LGPL-3.0。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `viral` | LGPL-3.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Monaco 编辑器内编写 LaTeX 并通过编译服务生成 PDF
-- 与 Claude 对话生成文档与获取编辑建议（agent 服务可独立托管）
-- Supabase 认证/数据库 + Stripe 计费，支持自托管部署
-- 编译服务提供 /compile 与 /synctex（源码-PDF 位置映射）API
+- Monaco 编辑器中编写 LaTeX，Claude 对话生成文档与编辑建议
+- Go + TeX Live 编译服务提供 /compile 与 /synctex API，返回 PDF 字节与错误日志
+- AI agent 服务器可独立部署，支持 Docker 生产运行
+- Supabase 认证与 JWT 鉴权，支持 Google OAuth
 
 ## 适用场景
 
-- 在浏览器中编写并编译 LaTeX 学术文档
-- 通过 AI 对话生成和修改 LaTeX 内容
-- 团队/机构自托管一套带认证与计费的编辑平台
+- 在线编写并编译 LaTeX 学术论文
+- 通过与 Claude 对话生成或修改 LaTeX 文档
+- 自托管完整的编辑与编译服务栈
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7: Write, edit, and compile LaTeX with AI assistance. Chat with Claude to generate documents,
+> L5:  AI-Powered LaTeX Editor
 > L22: Octree is an AI-powered LaTeX editor that brings intelligent writing assistance to academic and technical document 
-> L30: - Go 1.21+ and a TeX distribution with `latexmk` (e.g. MacTeX or TeX Live) for the compile service
+> L88: |AI|Vercel AI SDK, @ai-sdk/anthropic|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `719fa7868a10` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `275edace93e0` · [字段定义](../../DATASET.md)*

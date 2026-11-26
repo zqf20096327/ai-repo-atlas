@@ -1,10 +1,10 @@
 # yantrikos/yantrikdb-server
 
-⭐ 182 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/yantrikos/yantrikdb-server) · [官网](https://yantrikdb.com) · 组织维护
+⭐ 182 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/yantrikos/yantrikdb-server) · [官网](https://yantrikdb.com) · 个人维护
 
-**面向 AI agent 的认知记忆数据库：遗忘、合并、矛盾检测**
+**为 AI agent 提供记忆管理的认知记忆数据库**
 
-Rust 编写的记忆数据库，以 Python/Rust 嵌入库、单二进制 HTTP 服务器（含 2+1 HA 集群）和 MCP server 三种形态提供。核心机制：带可配置半衰期的时间衰减遗忘、think() 合并相似记忆、基于实体关系的矛盾检测（按 subject 键控，系词属性声明默认关闭）、多信号评分（时近×重要性×相似度×图邻近）、实体关系图与主动性触发。本地路径用 SQLite 文件。README 披露性能基准修正与尚未解决的读写竞争问题，矛盾检测范围有限（issue #95 跟踪）。
+以 Rust 编写的记忆数据库，面向 AI agent 的持久化记忆场景：通过时间衰减实现遗忘、合并重复记忆、检测矛盾声明，并提供实体关系图、多信号评分与主动触发。以三种形态提供：Python/Rust 嵌入式库、MCP server（含 15 个记忆工具）、HTTP 二进制 API 与 HA 集群。README 记录了基准数据的更正声明与已知限制（矛盾检测的作用域约束），当前版本为 v0.20.0。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Rust 编写的记忆数据库，以 Python/Rust 嵌入库、单二进制 HTTP �
 
 ## 能力要点
 
-- 时间衰减遗忘与 think() 记忆合并、矛盾检测
-- MCP server 提供 15 个记忆工具，接入 Claude Code/Cursor/Windsurf
-- 三种形态：pip/cargo 嵌入库、单二进制 HTTP 服务器、Docker 集群
-- 多信号评分与实体关系图，本地 SQLite 存储
+- 时间衰减半衰期、记忆合并与矛盾检测三项认知操作
+- MCP server 提供 15 个工具（remember/recall/think/graph 等）
+- Rust 单二进制 HTTP 服务，支持 2-voter+1-witness HA 集群
+- README 公开基准更正记录与未修复的读写性能问题
 
 ## 适用场景
 
-- 给我的编码 agent 加跨会话持久记忆，自动召回与记录决策
-- 多机/团队共享同一份 agent 记忆集群
-- 检测 agent 记忆中随时间出现的矛盾陈述
+- 为长期运行的 agent 提供持久记忆并自动召回
+- 合并 agent 会话中产生的重复记忆片段
+- 检测 agent 记忆中相互矛盾的声明
+- 多机/多租户部署共享 agent 记忆集群
 
 ## 场景标签
 
@@ -37,9 +38,9 @@ Rust 编写的记忆数据库，以 Python/Rust 嵌入库、单二进制 HTTP �
 
 ## 证据(README 行号)
 
-> L11: **A memory database that forgets, consolidates, and detects contradictions.**
 > L15: YantrikDB is different. It's a **cognitive memory engine** — embed it, run it as a server, or connect via MCP. It t
-> L99: Full cognitive architecture lives in the standalone engine repo. This server repo focuses on deployment, HTTP API, 
+> L107: ## Get started in 60 seconds — Claude Code / Cursor / Windsurf
+> L169: Single Rust binary. HTTP + binary wire protocol. 2-voter + 1-witness HA cluster via Docker Compose or Kubernetes. 
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2df130a44304` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `facbcac229d9` · [字段定义](../../DATASET.md)*

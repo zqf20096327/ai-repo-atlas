@@ -2,9 +2,9 @@
 
 ⭐ 662 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/epam/ai-dial-core) · [官网](https://dialx.ai) · 组织维护
 
-**给应用提供统一模型 API 的 AI DIAL 核心网关组件**
+**企业级 LLM 网关：统一 API 接入聊天/嵌入模型与应用**
 
-AI DIAL 的核心组件，以 HTTP 代理形式为聊天补全、嵌入模型、助手与应用提供统一 REST API，基于 Java 25 与 Eclipse Vert.x 构建。提供自动生成的 OpenAPI 3.0 规范，支持通过 Gradle 构建运行或 Helm chart 部署到 Kubernetes；配置分静态（环境变量/文件）与动态两类，涵盖 API key、分析日志、追踪、插件加载等设置。构建依赖 GitHub Packages 的 JClouds 包，需提供 GitHub 凭据。
+DIAL Core 是 AI DIAL 平台的主组件，以 HTTP 代理形式为不同 chat completion 与 embedding 模型、助手及应用提供统一 REST API；基于 Java 25 与 Eclipse Vert.x 构建，自动生成 OpenAPI 3.0 规范描述全部端点。提供静态/动态两层配置、插件加载机制、per-request API key、分析日志（含 claims/headers 采集与脱敏黑名单）、OTel GenAI 追踪等企业级运维能力；通过 Gradle 构建或 Helm chart 部署到 Kubernetes。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ AI DIAL 的核心组件，以 HTTP 代理形式为聊天补全、嵌入模型、
 
 ## 能力要点
 
-- 为聊天补全与嵌入模型、助手、应用提供统一 HTTP API
-- 自动生成 OpenAPI 3.0 规范（docs/open_api_core.yaml）
-- 静态/动态双层配置体系，支持环境变量、文件与热重载
-- 支持 Helm 部署到 Kubernetes（独立 Core 或 umbrella chart）
+- 为聊天补全、嵌入模型与应用提供统一 API 的 HTTP 代理
+- 自动生成 OpenAPI 3.0 规范，实验性端点带 x-preview 标记
+- 静态/动态配置体系与插件目录加载机制
+- OTel GenAI 追踪与分析日志，支持敏感头过滤与堆占用限制
 
 ## 适用场景
 
-- 为多个模型与应用接入统一的企业级 API 网关
-- 在 Kubernetes 集群上部署 AI DIAL 平台核心组件
-- 对模型调用做请求追踪与访问控制配置
+- 在企业内部为多个 LLM 模型与应用提供统一 API 入口
+- 在 Kubernetes 上集中部署和管理 LLM 网关组件
+- 需要对话追踪、分析日志与 API key 管理的 LLM 平台运维
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ AI DIAL 的核心组件，以 HTTP 代理形式为聊天补全、嵌入模型、
 ## 证据(README 行号)
 
 > L16: > HTTP Proxy provides unified API to different chat completion and embedding models and applications.
-> L82: You have the option to deploy the DIAL Core on the Kubernetes cluster by utilizing an _umbrella_ dial Helm chart, w
+> L17: > Written in Java 25 and built on top of Eclipse Vert.x.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `a8278c2d03fd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `8ed5e092c1fe` · [字段定义](../../DATASET.md)*

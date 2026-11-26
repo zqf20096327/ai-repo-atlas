@@ -2,9 +2,9 @@
 
 ⭐ 145,687 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/harry0703/MoneyPrinterTurbo) · 个人维护 · 中文 README
 
-**给内容创作者：从主题一键生成脚本配音字幕的高清短视频**
+**输入主题一键生成配音、字幕、素材齐全的高清短视频**
 
-一站式 AI 短视频生成工具：输入主题或关键词后自动完成脚本撰写、素材匹配、配音、字幕、背景音乐与成片合成，支持 9:16/16:9/1:1 三种画幅及批量生成。提供 WebUI、API、CLI 和 AI Agent 四种使用方式，模型服务、TTS 与素材源均通过填写对应 API Key 配置。脚本可由云端大模型生成或用户自定义，素材支持本地上传与 Pexels 等库存源，生成后可自动发布到 TikTok、Instagram、YouTube Shorts。GPU 非必需。
+一站式 AI 短视频生成工具：提供 AI Agent、WebUI、API 和 CLI 四种使用方式，从主题或关键词自动完成脚本生成、配音、素材匹配、字幕、配乐与剪辑合成，输出 9:16/16:9/1:1 三种画幅的成片，并支持一键发布至 TikTok、Instagram 和 YouTube Shorts。脚本生成支持多家模型服务与聚合网关，配音集成 Edge TTS、Azure Speech 等服务，字幕可用 TTS 时间戳或本地 Whisper 生成。本地部署需 Python 3.11+，GPU 非必需但可加速本地转录与批量处理。
 
 ## 筛选速览
 
@@ -27,26 +27,26 @@
 
 ## 能力要点
 
-- 主题到成片全流程自动化：脚本、配音、素材、字幕、配乐、剪辑
-- 四种使用方式：WebUI、API、CLI、AI Agent
-- 集成 Edge TTS（免费无需 Key）等十余种配音服务，支持声音克隆
-- 生成完成可一键自动发布至 TikTok、Instagram、YouTube Shorts
+- AI Agent、WebUI、API、CLI 四种使用方式，支持批量生成与任务历史
+- 集成 Edge TTS、Azure Speech 等多种配音服务，支持声音克隆
+- 支持从 Pexels/Pixabay/Coverr 获取素材、上传本地素材及多家文生视频服务
+- 生成完成后自动发布至 TikTok、Instagram 和 YouTube Shorts
 
 ## 适用场景
 
-- 输入一个主题快速批量产出短视频
-- 自媒体账号的自动化内容生产与跨平台发布
-- 不写代码通过 WebUI 配置 API Key 生成视频
+- 输入一个主题快速批量产出短视频内容
+- 为 TikTok/Instagram/YouTube Shorts 自动生成并发布视频
+- 接入自动化流程（API/n8n）批量生产短视频
 
 ## 场景标签
 
-`视频生成` `语音合成` `AI 写作` · 领域:内容生成
+`视频生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L5: 只需提供视频 主题 或 关键词 ，即可自动生成视频脚本、匹配素材、生成字幕和背景音乐，并合成高清短视频。
 > L157: - [x] 提供 **AI Agent、WebUI、API 和 CLI** 四种使用方式，既能快速上手，也能接入自动化流程
-> L165: - [x] 支持 Kimi / Moonshot AI、OpenAI、Anthropic Claude、Google Gemini、DeepSeek、阿里云通义千问、Microsoft Azure OpenAI、火山引擎方舟、x
+> L164: - [x] 支持 AI 自动生成或改写 **多语言视频脚本**，也可以直接使用自定义脚本
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `bd4edb94b48e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `08987c10c25c` · [字段定义](../../DATASET.md)*

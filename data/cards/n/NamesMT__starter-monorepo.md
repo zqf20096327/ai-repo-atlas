@@ -2,9 +2,9 @@
 
 ⭐ 191 · TypeScript · MIT · 推送 2026-10-27 · [GitHub](https://github.com/NamesMT/starter-monorepo) · [官网](https://starter-monorepo.isthe.top) · 个人维护
 
-**含 LLM Chat 功能的全栈 monorepo 起步模板**
+**带自托管 LLM Chat 的全栈 Monorepo 启动模板**
 
-基于 Turborepo 的全栈 monorepo 起步模板：前端为 Nuxt 4 应用，主后端为 Hono 应用（可 serverless 部署），另含可选的 Convex 后端。其中 AI 部分：一个面向个人自托管与小群组使用的 LLM Chat 系统，支持 BYOK 接入 OpenAI、OpenRouter 等提供商，具备多用户实时协作、线程分支/冻结/分享、游客匿名使用等特性。还集成 WorkOS AuthKit 认证、SST Ion 基础设施即代码、lingo.dev AI 自动本地化，并提供 AI Agent 初始化提示。需 pnpm 运行开发。
+一个包含预设配置的 monorepo 启动模板，内含 Nuxt 4 前端、Hono 主后端与可选的 Convex 后端，通过 Turborepo 组织，提供 WorkOS AuthKit 认证样板、SST Ion 基础设施即代码、Cloudflare Workers/Lambda 部署预设与电子表格驱动的 AI 自动 i18n。核心 AI 组件为可自托管的 LLM Chat：支持自控计费的 hosted provider 与 BYOK 接入，多用户实时同线程对话、线程分支/冻结/分享、流式恢复（轮询实现以简化基础设施）。Convex 后端的定时任务每日清空全部聊天记录以控制演示成本。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- LLM Chat 系统：BYOK 接入 OpenAI/OpenRouter 等提供商，多用户实时、线程分支与分享
-- Nuxt 4 前端 + Hono 主后端 + 可选 Convex 后端的 monorepo 结构
-- WorkOS AuthKit 认证样板与 SST Ion 部署配置
-- lingo.dev 驱动的 AI 自动本地化（pnpm run i18n）
+- 自托管 LLM Chat：hosted provider 自控计费 + OpenAI/OpenRouter 等 BYOK
+- 实时多 agent、多用户同线程对话，支持流式恢复与追问
+- Turborepo 组织：Nuxt 4 + Hono + Convex，附 Cloudflare/Lambda 部署预设
+- lingo.dev 驱动的 AI 自动本地化，pnpm run i18n 一键执行
 
 ## 适用场景
 
-- 快速搭建可自托管的全栈项目骨架
-- 为家人/朋友小群组自托管一个 LLM Chat 服务
-- 以模板为基础扩展多前端与多后端的 monorepo 工程
+- 为自己和家人朋友自托管一个免费云套餐可跑的 LLM 聊天站
+- 以此为模板快速启动全栈 monorepo 项目
+- 用 AI Agent 按需改造 monorepo 初始化自己的项目
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `6273ae2e853d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `9b9062d619c9` · [字段定义](../../DATASET.md)*

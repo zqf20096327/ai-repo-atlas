@@ -2,9 +2,9 @@
 
 ⭐ 393 · Elixir · MIT · 推送 2026-11-25 · [GitHub](https://github.com/marciok/gust) · 个人维护
 
-**Erlang VM 上的任务编排引擎：DAG 调度与 Web 监控**
+**基于 Erlang VM 的 DAG 工作流编排引擎，支持 agent 接入**
 
-基于 Elixir/Erlang VM 的任务编排系统：通过 Gust DSL、YAML 或 Python 编写 DAG，保存到 dags/ 目录即被加载，支持 Cron 式调度、依赖感知 DAG、并行 map_over、条件跳过、wait_for 暂停、重试与状态恢复，并提供 Web UI 实时监控、运行控制与 secrets 编辑。面向需要轻量替代多组件调度系统的开发者；单系统即可运行，可选 Docker 快速启动。内置 MCP Server 供 LLM 客户端列出/触发/调试 DAG。
+用 Elixir 编写、构建于 Erlang VM 上的任务编排系统，用户在 dags/ 目录保存 DAG 文件后由系统加载，通过 Web UI 手动触发或按 schedule 定时运行；支持 Elixir、Python、shell 三种工作流写法。核心机制包括自动重试与退避、中断恢复、手动任务控制、并发限制、跨节点分发、加密密钥与运行保留。安装需本机具备 Elixir 与 Docker，另有编码 agent 引导文档的安装方式。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- Elixir DSL / YAML / Shell / Python 多方式编写 DAG
-- Cron 调度、依赖感知、map_over 并行、wait_for 暂停等任务控制
-- 重试退避、损坏状态恢复与 Web UI 实时监控
-- 内置 MCP Server，LLM 客户端可触发与调试 DAG
+- 支持 schedules、并行任务、条件与外部事件暂停的 DAG 定义
+- 自动重试、中断恢复与手动任务控制
+- Web UI 实时仪表盘：日志、结果、堆栈与进程健康检查
+- 通过 HTTP、CLI、MCP 连接应用与 agent
 
 ## 适用场景
 
-- 编排 ETL 数据流水线与定时任务
-- 用 Web UI 监控与手动控制 DAG 运行
-- 让 Claude/Codex 等 MCP 客户端直接触发和调试工作流
+- 编排有依赖关系的定时/并行任务
+- 用 Elixir、Python 或 shell 编写工作流并集中监控
+- 多节点分布式执行任务并控制并发
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L47: From code to running workflow: you (or your agent) write a DAG, save it in the `dags/` folder, and Gust picks it up
-> L79: GustWeb includes a built-in MCP server that gives your LLM access to Gust’s core features, including listing DAGs, 
+> L3: A task orchestration system designed to be efficient, fast, developer-friendly, and easy to scale. Built on the Erla
+> L80: |Use your existing tools|Write Elixir, Python, or shell workflows; connect applications and agents through HTTP, CL
+> L93:  - MCP Server
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `200e058cdf8f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `3658579ed26b` · [字段定义](../../DATASET.md)*

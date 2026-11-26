@@ -1,10 +1,10 @@
 # hwdsl2/self-hosted-ai-stack
 
-⭐ 180 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hwdsl2/self-hosted-ai-stack) · [官网](https://selfhostedaistack.com) · 个人维护
+⭐ 180 · Shell · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hwdsl2/self-hosted-ai-stack) · [官网](https://selfhostedaistack.com) · 个人维护 · 中文 README
 
-**Docker Compose 一键部署的自托管 AI 服务全家桶**
+**用 Docker Compose 一键部署自托管本地 AI 服务栈**
 
-基于 Docker Compose 的自托管 AI 栈编排项目：打包 Ollama 本地 LLM（InferCrate）、LiteLLM 网关（GatewayCrate）、AnythingLLM 聊天界面、Hugging Face TEI 嵌入、Whisper 语音转写、Kokoro TTS、Docling 文档解析与 MCPHub 工具服务，首次启动自动配置与密钥生成。面向有 Linux 服务器的开发者和自托管用户，提供 8 种轻量子栈（最低约 4.5 GB 内存），支持可选 NVIDIA CUDA 加速（CUDA 镜像仅 linux/amd64）、Podman 运行与 Caddy HTTPS 覆盖层。
+以 Docker Compose 编排的开源自托管 AI 套件：通过 Ollama 运行本地 LLM，AnythingLLM 提供密码保护的 Web 聊天界面，LiteLLM 网关路由请求至 100+ 提供商，另含向量嵌入、语音转录（含实时 STT）、TTS、文档解析与 MCP 工具服务。首次启动自动配置，API 密钥自动生成，可选 Caddy HTTPS 覆盖层、NVIDIA CUDA 加速与低内存轻量栈（约 4.5 GB 起），支持 amd64/arm64 与 Podman。面向希望在自有服务器上运行本地 AI 服务栈的用户。
 
 ## 筛选速览
 
@@ -20,21 +20,20 @@
 
 ## 能力要点
 
-- 一条 docker compose 命令启动含 LLM/聊天/转写/TTS/MCP 的完整栈
-- 8 种轻量子栈按用途组合服务，最低约 4.5 GB 内存
-- 默认本地运行，自动生成密钥与 AnythingLLM 管理密码
-- 可选 NVIDIA CUDA GPU 加速与 Caddy HTTPS 覆盖层
+- Docker Compose 一条命令部署完整 AI 栈，服务首次启动自动配置
+- 8 个预配置轻量栈变体（chat-ui/voice-pipeline/rag-pipeline 等）按需选用
+- NVIDIA CUDA 加速与 HTTPS（Caddy）可选覆盖
+- 内置 stack-check.sh 健康检查与自动生成密钥管理
 
 ## 适用场景
 
-- 在自己服务器上搭建本地 LLM 聊天与文档问答
-- 组合语音转写→LLM→语音合成的语音流水线
-- 通过 LiteLLM 网关统一访问本地模型和外部提供商
-- 为 goose 等 AI 客户端提供本地推理与 MCP 工具后端
+- 在自己服务器上搭建本地文档问答/RAG 服务
+- 搭建语音转文字→LLM→语音合成的语音对话管线
+- 为 goose 等 AI agent 提供本地模型网关与 MCP 工具
 
 ## 场景标签
 
-`模型网关` `语音合成` `语音识别` `文档解析` · 领域:Agent 开发
+`模型网关` `聊天机器人` `RAG` `文档问答` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e28b75731d69` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `79880b30e624` · [字段定义](../../DATASET.md)*

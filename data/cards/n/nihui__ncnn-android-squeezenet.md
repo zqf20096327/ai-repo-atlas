@@ -2,9 +2,9 @@
 
 ⭐ 189 · C++ · 推送 2026-10-27 · [GitHub](https://github.com/nihui/ncnn-android-squeezenet) · 个人维护
 
-**基于 ncnn 的 SqueezeNet 图像分类 Android 示例应用**
+**基于 ncnn 的 Android 端 SqueezeNet 图像分类示例项目**
 
-nihui 维护的 Android 示例工程：在移动端运行 SqueezeNet 模型做图像分类，仅依赖 ncnn 库（支持 Vulkan GPU 加速）。提供预编译 apk 的 Releases 下载；源码构建需先下载 ncnn android-vulkan 预编译包解压到 jni 目录并修改 CMakeLists 中的 ncnn_DIR 路径，再用 Android Studio 打开构建。属于官方 ncnn 生态的示例项目，面向想在 Android 上部署神经网络推理的开发者。
+ncnn 库官方示例工程：在 Android 上运行 SqueezeNet 卷积神经网络，对输入图像做图像分类推理，支持 CPU 与 GPU（Vulkan，可选 OpenCL 驱动）两种推理路径。项目仅依赖 ncnn 库，README 给出四步构建流程——下载预编译 ncnn Android 包并配置 CMake、可选下载 mesa turnip GPU 驱动、可选下载 momoten 驱动、用 Android Studio 打开构建。提供最新 release 的 APK 直接下载，运行要求 Android 5.0（API 21）及以上；驱动无法加载时 CPU 推理仍可用。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@ nihui 维护的 Android 示例工程：在移动端运行 SqueezeNet 模型做�
 
 ## 能力要点
 
-- SqueezeNet 图像分类的完整 Android 示例工程
-- 仅依赖 ncnn 库，支持 Vulkan GPU 加速版本
-- 提供预编译 apk 与源码构建两条路径
+- Android 端 SqueezeNet 图像分类推理示例
+- 支持 CPU 与 Vulkan GPU 推理，可选 OpenCL 驱动
+- 提供预构建 APK 直接下载
+- 仅依赖 ncnn 库，四步完成构建
 
 ## 适用场景
 
-- 学习在 Android 项目中集成 ncnn 推理库
-- 验证 SqueezeNet 模型在移动端 CPU/GPU 上的运行效果
-- 作为其他 ncnn Android 应用的工程模板
+- 学习如何在 Android 上用 ncnn 部署图像分类模型
+- 测试手机端 CPU/GPU 神经网络推理
+- 作为 ncnn Android 工程集成模板参考
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+`目标检测` `教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: The squeezenet image classification
 > L5: this is a sample ncnn android project, it depends on ncnn library only
+> L43: * Select the GPU driver, then use the GPU button; CPU inference remains available when a driver cannot load
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `04ffbda74baf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7e0fa60f5355` · [字段定义](../../DATASET.md)*

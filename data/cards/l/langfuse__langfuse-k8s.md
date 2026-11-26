@@ -2,9 +2,9 @@
 
 ⭐ 288 · Go Template · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langfuse/langfuse-k8s) · [官网](https://langfuse.com/self-hosting/deployment/kubernetes-helm)
 
-**为开发者在 Kubernetes 上部署自托管 Langfuse 提供的社区 Helm chart**
+**在 Kubernetes 上部署 Langfuse 自托管环境的社区 Helm chart**
 
-社区维护的仓库，包含在 Kubernetes 上部署 Langfuse 所需的资源：charts/langfuse 提供 Helm chart，examples 目录提供示例 yaml。chart 默认捆绑部署 Postgres、ClickHouse（经 clickhouse-operator）、Valkey 和 SeaweedFS，首次安装自动生成并持久化凭据 Secrets；支持外部数据存储、Secret 引用/External Secrets Operator、AI gateway（beta）与内置 AI 功能配置，提供 v1→v2 迁移路径。要求 Helm ≥3.17、Kubernetes ≥1.28。
+由社区维护、用于在 Kubernetes 上部署 Langfuse（LLM 工程平台）的 Helm chart 仓库，含 examples 示例配置与 charts/langfuse chart。v2.0.0 起以 OSS 许可子图表替换 Bitnami 子图表，捆绑 Postgres、ClickHouse（经 clickhouse-operator）、Valkey、SeaweedFS，并自动生成并持久化应用凭证；提供 v1→v2 迁移路径与空卷升级保护。要求 Helm ≥3.17、Kubernetes ≥1.28，需预装 cert-manager 与 ClickHouse CRD。另含应用内 AI 功能与 beta AI gateway 的部署配置。
 
 ## 筛选速览
 
@@ -21,15 +21,15 @@
 ## 能力要点
 
 - Helm chart 一键部署 Langfuse 及捆绑的 Postgres/ClickHouse/Valkey/SeaweedFS
-- 首次安装自动生成凭据 Secrets，跨升级持久化，支持 secretKeyRef/existingSecret
-- 支持外部 ClickHouse/Postgres 部署与 v1→v2 迁移示例
-- 可开启 beta 版 AI gateway（独立 Deployment/Service/Ingress/HPA）
+- 首次安装自动生成凭证 Secrets 并跨升级持久化（lookup）
+- v1→v2 迁移指南与空卷升级阻塞保护
+- 可选部署 beta AI gateway（独立 Deployment/Service/Ingress/HPA）
 
 ## 适用场景
 
-- 在自管 Kubernetes 集群上自托管 Langfuse
-- 用 GitOps/ArgoCD 管理语言追踪平台的部署
-- 为生产环境配置外部 ClickHouse 与资源限额
+- 在 Kubernetes 集群自托管部署 Langfuse
+- 通过 GitOps/ArgoCD 管理 Langfuse 部署（需显式固定凭证）
+- 为自托管实例启用 AI gateway 与应用内 AI 功能
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8e9b600d97fb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6506240cb756` · [字段定义](../../DATASET.md)*

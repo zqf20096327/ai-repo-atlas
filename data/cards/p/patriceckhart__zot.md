@@ -2,9 +2,9 @@
 
 ⭐ 371 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/patriceckhart/zot) · [官网](https://zot.sh) · 个人维护
 
-**Go 编写的轻量编码代理客户端，一个静态二进制接 30+ 模型**
+**Go 编写的轻量编码 agent 命令行框架，单静态二进制**
 
-用 Go 编写的终端编码代理工具：单一静态二进制，内置 30+ 供应商接入（Anthropic、OpenAI、Ollama 本地模型等），提供 read/write/edit/bash/glob 工具与三种运行模式（交互式 TUI、print、json），内置 Telegram 机器人，支持任意语言子进程扩展。认证支持 API key 或复用订阅 OAuth（含 token 自动刷新）；通过 zot continuous 提供可崩溃恢复的持久运行（本地 journal/SQLite 或 PostgreSQL），该特性标注为实验性。
+zot 是一个编码 agent harness，以 Go 编写并编译为单个静态二进制分发。内置读写编辑/bash/glob 等工具，提供 TUI、print、json 三种运行模式；支持 30+ 模型提供方内置接入，凭据通过 /login、环境变量、auth.json 或密码管理器命令获取，OAuth 令牌自动刷新。通过 AGENTS.md 与 SKILL.md 持久化指令，扩展以子进程 + JSON-RPC 方式接入（默认不装）。`zot continuous` 提供崩溃可恢复的持久化运行，后端可选本地 journal/SQLite 或外部 PostgreSQL（实验性）。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 单一静态二进制，内置 30+ 供应商（含 Ollama 本地模型）
-- 三种运行模式：交互式 TUI、print、json
-- durable 可崩溃恢复运行（journal/SQLite/PostgreSQL 后端，实验性）
-- AGENTS.md 持久指令、SKILL.md 技能、.zot 便携代理文件
+- 单静态二进制，支持 Linux/macOS/Windows 的 amd64 与 arm64 预编译包
+- 内置 30+ 模型提供方接入（含 Ollama 本地模型与 AWS Bedrock）
+- 持久化、崩溃可恢复的 continuous 运行，审批与预算状态可保留
+- 扩展以任意语言经子进程 + JSON-RPC 接入
 
 ## 适用场景
 
-- 在终端里让 AI 代理读写代码、执行命令完成编码任务
-- 通过订阅账号（Claude Pro、ChatGPT Plus 等）或 API key 使用多种模型
-- 通过 Telegram 机器人远程驱动编码代理
-- 让长时间运行的任务崩溃后可恢复、不重复执行
+- 在终端里用多种模型提供方运行编码 agent
+- 通过 Telegram bot 远程与编码 agent 交互
+- 需要崩溃恢复的长时间 agent 任务运行
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`Agent 框架` `编码 Agent` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L13: Yet another coding agent harness, lightweight and written (vibe-slopped) in go.
 > L16: - built-in providers for Anthropic, OpenAI/Codex/Responses, Kimi, DeepSeek, Google Gemini/Vertex, GitHub Copilot, B
+> L18: - three run modes (interactive tui, print, json).
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `7485d18bbe55` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `045d1ec9877c` · [字段定义](../../DATASET.md)*

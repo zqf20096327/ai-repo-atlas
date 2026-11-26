@@ -2,9 +2,9 @@
 
 ⭐ 173 · Dart · Unlicense · 推送 2026-11-20 · [GitHub](https://github.com/Puzzaks/PAIOS) · [官网](https://puzzak.page) · 个人维护
 
-**Android 上离线运行 Gemini Nano 的本地聊天客户端**
+**离线运行 Gemini Nano 的 Android 端私人 AI 助手应用**
 
-面向终端用户的个人 AI 操作界面：作为 Google AI Core 中 Gemini Nano 模型的客户端，在支持设备（如 Pixel 9/10 系列）上完全离线运行对话，数据不出手机。功能包括多会话管理（创建/重命名/置顶）、温度与最大响应 token 调节、[USER INSTRUCTIONS] 自定义指令、可选注入时间/语言上下文、可查看实际 System Prompt。处于 Alpha 状态，模型为开发者预览版，推理与知识深度不及云端大模型，可能产生幻觉或丢失上下文；输入某些词汇可能因内部过滤器导致应用软锁。通过 Google Play 与 GitHub Releases 分发。
+面向 Android 用户的端侧 AI 界面应用：通过 Google AI Core / ML Kit GenAI Prompt API 在设备上运行 Gemini Nano，推理全程离线，提示词、对话与附件留在手机本地，在线扩展默认关闭。提供多模型管理（Stable/Preview 通道）、思考模式、可作为系统数字助理并读取屏幕上下文，支持图片输入、RAG 与最多 6 轮的工具链调用。限制方面依赖特定芯片与 8GB+ RAM，端侧输出有 256 token 上限，通过自动续写缓解。安装途径为 Google Play 与 GitHub Releases。
 
 ## 筛选速览
 
@@ -16,29 +16,29 @@
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 基于 Google AI Core 的 Gemini Nano，100% 设备内离线运行
-- 多会话管理、温度/最大 token 调节、自定义指令
-- 可查看实际使用的 System Prompt
-- 可选注入当前时间/日期与语言上下文
+- 端侧离线推理，对话与附件不上传（在线扩展默认关闭）
+- 多模型管理器：Stable/Preview 通道切换与思考模式
+- 可设为 Android 数字助理并读取屏幕上下文
+- 工具调用模块与 RAG，附带 23 页离线 GenAI 文档浏览器
 
 ## 适用场景
 
-- 在手机上离线进行私密 AI 对话，不联网不上传数据
-- 用自定义指令让本地模型扮演特定角色或执行任务
-- 在无网络环境下使用摘要、智能回复等端侧模型能力
+- 在不联网的手机上使用 AI 对话与文档问答
+- 把 Gemini Nano 设为系统助理并读取屏幕上下文
+- 拍照或相册图片的端侧识别描述
 
 ## 场景标签
 
-`聊天机器人` `AI 助手` · 领域:对话与助手
+`AI 助手` `文档问答` `RAG` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L28:  - **100% Offline & Private**: Runs entirely on-device using Google's AI Core. No data leaves your phone.
-> L36: PAIOS acts as a client for the underlying Gemini Nano model, which is a developer preview.
+> L26: - **100% Offline & Private by design**: Inference runs on-device with Gemini nano (`Google AI Core`). Prompts, chat
+> L48: Google AI Core / ML Kit GenAI Prompt API is now in **Beta**, powering `gemini-nano-v3` (Stable) and `gemini-nano-v4
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `68be0f78725d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e0d8a5b74902` · [字段定义](../../DATASET.md)*

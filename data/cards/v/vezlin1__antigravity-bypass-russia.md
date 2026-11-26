@@ -2,9 +2,9 @@
 
 ⭐ 237 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vezlin1/antigravity-bypass-russia) · 个人维护
 
-**俄罗斯用户解除 Google Antigravity/Gemini 区域封锁的本地工具**
+**俄罗斯用户一键解除 Google Antigravity/Gemini 区域限制的工具**
 
-开源 Rust 工具，通过 SmartDNS 选择性路由、本地 DNS 中继和对 Antigravity 内核的二进制补丁，移除 Google Antigravity、Gemini、Antigravity IDE 及 VS Code/Cursor/Windsurf 扩展中的地区封锁提示（User is ineligible / Location not supported），全程本地运行，仅 Google AI 相关域名走中继，其余流量直连。提供 Windows exe、PowerShell 脚本、macOS shell 脚本、Linux .deb/二进制/源码构建多种分发方式，含诊断与一键回滚。README 注明仅供研究与教育目的，违反服务条款的使用风险由用户自行承担。
+以 Rust 编写的桌面工具，通过本地 DNS 中继（SmartDNS NRPT）与二进制补丁移除 Google Antigravity、Gemini、Antigravity IDE 及 VS Code/Cursor/Windsurf 扩展中的 «User is ineligible» 与 «Location not supported» 区域报错，无需 VPN。交互式菜单提供开启/关闭绕过、单独修文件或网络、指定安装路径、连通性检测、诊断文件导出与回滚还原。Windows 提供 .exe 安装包，macOS 提供安装脚本，Linux 支持 curl 安装脚本、.deb 包、独立二进制与 PKGBUILD。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- SmartDNS 选择性路由：仅 Google AI 域名经本地 DNS 中继，其余流量直连
-- 对 Antigravity 内核（language_server，x64/ARM64）做二进制补丁移除地区检查
-- 一键回滚：从 .bak 备份恢复文件、清除 NRPT/hosts 规则与 DNS 缓存
-- 支持 Windows 10/11、macOS（Apple Silicon/Intel）、Linux 多发行版
+- 无需 VPN：仅对 Google AI 服务流量走本地 DNS 中继，其余流量不变
+- 本地二进制补丁移除 Antigravity 国家检查
+- 一键开启/一键还原（rollback 恢复原始文件与网络设置）
+- Windows/macOS/Linux 三平台提供预编译二进制与脚本安装
 
 ## 适用场景
 
-- 在俄罗斯本地网络下直接使用 Google Antigravity IDE 与 Gemini
-- 替代常开 VPN，保持全部上网速度不被代理拖慢
-- 编辑器更新后重新应用解锁并支持完整还原
+- 在俄罗斯家庭/移动网络下直接使用 Google Antigravity 与 Gemini
+- Antigravity 更新后重新应用文件补丁
+- 排查与 Google AI 服务器的连通性并导出诊断文件
 
 ## 场景标签
 
- · 领域:网络工具/开发工具
+ · 领域:网络工具/开发工具可用性
 
 ## 证据(README 行号)
 
-> L23: **Antigravity Bypass Russia** — бесплатная открытая утилита, которая устраняет региональные блокировки (**`User is 
-> L155: - **Селективная маршрутизация (SmartDNS):**
-> L163: ## 🧩 Поддерживаемые редакторы
+> L22: Утилита убирает ошибки **«User is ineligible»** и **«Location not supported»** в
+> L26: Работает без VPN: всё настраивается одной кнопкой и так же одной кнопкой
+> L171: Через локальный DNS-релей идут только запросы к серверам Google AI, а проверка
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `613e318aedde` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `18803a54c9a5` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 169 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/truespar/paddock) · 组织维护
 
-**Rust 原生推理服务器：NVIDIA 与 Apple Silicon 上运行开源模型**
+**为开发者和企业提供本地运行的开放模型推理服务器**
 
-用 Rust 编写的原生 AI 推理服务器，调度器、分页 KV cache、内存管理与 CUDA/Metal 内核均在仓库内实现，非封装其他引擎。提供 OpenAI 与 Anthropic 兼容 API，支持 GGUF 与 safetensors 权重及 FP8/NVFP4/MXFP4/Q8/Q4 等量化，覆盖文本、视觉、语音转写、说话人分离、嵌入、重排、表格预测、SAM 3 分割与 OCR 等模型。附带 Web Studio 用于下载、管理、并排比较模型。发行两个二进制（manager 与 runner），NVIDIA 平台仅需驱动；macOS 原生应用为预发布状态。
+用 Rust 编写的模型推理服务器，原生实现调度器、分页 KV 缓存、内存管理与 CUDA/Metal 内核，提供 OpenAI 与 Anthropic 兼容 API，支持 GGUF 与 safetensors 权重及 FP8/NVFP4/MXFP4/Q8/Q4 等量化格式。面向需要在 NVIDIA GPU 与 Apple Silicon 上运行开放模型的组织，附带内置 Studio 网页界面用于下载、运行、对比模型，并支持通过 OpenRouter 与云端模型对比。macOS 原生应用为预发布状态。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 调度器、分页 KV cache 与 CUDA/Metal 内核均在仓库内原生实现
-- OpenAI/Anthropic 兼容 API，含 Responses、Realtime WebSocket、MCP 端点
-- GGUF + safetensors，FP8/NVFP4/MXFP4/Q8_0/Q4_K_XL 等量化，逐张量分发
-- 内置 Web Studio：模型管理、并排比较（可与 OpenRouter 等云端端点对比）
+- 原生 Rust 推理引擎，CUDA 与 Metal 后端均在本仓库内实现
+- OpenAI 与 Anthropic 兼容 API，含 embeddings、图像生成、语音转录、reranking 等接口
+- 支持 GGUF 与 safetensors 格式及 FP8/NVFP4/MXFP4/Q8_0/Q4_K 等量化
+- 内置 Studio 网页界面：模型管理、并排对比、决策/表格/掩码/嵌入页面
 
 ## 适用场景
 
-- 在单张 NVIDIA GPU 或 Apple Silicon 上自托管开源模型服务
-- 以 OpenAI 兼容 API 支撑多个 agent 会话的长上下文高共享前缀负载
-- 在 Studio 中并排比较本地模型与云端模型的表现
-- 运行语音转写、表格预测、图像分割等多模态模型
+- 在本地 NVIDIA GPU 上为生产环境部署开放模型
+- 通过 OpenAI 兼容 API 服务编码 agent 的工作负载
+- 在 Studio 中并排对比本地模型与云端模型
+- 在 Apple Silicon Mac 上本地运行模型
 
 ## 场景标签
 
-`推理引擎` `多模态` · 领域:感知与多模态
+`推理引擎` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L11: AI inference server written in Rust, for NVIDIA GPUs and for Apple Silicon, with an OpenAI and
-> L14: It is a native engine and NOT A WRAPPER - the scheduler, the paged KV cache, the memory
-> L163: **Serving.** Paged KV cache, continuous batching with chunked prefill, radix
+> L17: Two binaries, paddock-runner is what runs models and is really the only thing needed but we made
+> L200: **APIs.** OpenAI chat completions, completions, the Responses API, embeddings,
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `5a4055a44a8f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e4caa8a5d8cc` · [字段定义](../../DATASET.md)*

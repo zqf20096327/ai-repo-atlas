@@ -2,9 +2,9 @@
 
 ⭐ 395 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/mindroom-ai/mindroom) · [官网](https://mindroom.chat) · 组织维护
 
-**个人与团队的 AI agent 聊天应用：接入日历/邮件/文档等工具**
+**基于 Matrix 的个人/团队 AI agent 聊天应用，可自托管**
 
-基于 Matrix 协议的开源 AI agent 平台：每个 agent 是 Matrix 上的真实用户，可连接 100+ 工具（Gmail、GitHub、Home Assistant、任意 MCP 服务器），支持多 agent 协作与路由、持久记忆（Mem0 + ChromaDB）、知识库 RAG、可接管的浏览器操作与桌面桥接。提供 uvx 一键运行、macOS 原生应用与 Helm/Kubernetes 部署路径，模型可按 agent/房间选择本地或云端，另有 hosted 版本。
+MindRoom 让用户在 Matrix 聊天客户端中运行个人与共享 AI agent：每个 agent 是 Matrix 上的真实用户，可接入日历、笔记、邮件、代码等 100+ 工具与任意 MCP 服务器，支持浏览器操作、桌面桥接、审批卡与交互式画布。每个 agent 可选不同模型（本地或云端），持久记忆存于本地磁盘，支持 Slack/Telegram/WhatsApp/Discord 桥接、定时任务、RAG 知识库与沙箱执行。可通过 uvx 命令、macOS 原生应用或托管版运行。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- agent 作为 Matrix 用户存在，可通过桥接进入 Slack/Telegram/WhatsApp/Discord
-- 每个 agent/房间/线程可独立指定模型，本地与云端混合路由
-- 持久记忆、自动技能学习与可选知识图谱（Graphiti）
-- 工具审批卡片、容器沙箱执行与 Matrix 端到端加密
+- 每个 agent 是 Matrix 真实用户，可经桥接接入 Slack/Telegram/WhatsApp/Discord
+- 100+ 工具集成与任意 MCP 服务器，支持持久 Chromium 浏览器与桌面桥接
+- 按 agent/房间/线程的模型路由，敏感房间可路由到本地 Ollama
+- Mem0+ChromaDB 持久记忆、Graphiti 知识图谱与 RAG 知识库
 
 ## 适用场景
 
-- 让 agent 帮我管理日历、待办并按语音下达指令
-- 团队共享 agent 处理邮件分诊、周报与跨工具检索
-- 敏感数据场景下用本地模型自托管整套服务
-- 在聊天中让 agent 操作浏览器下单并在登录时接手
+- 在聊天中管理日历、提醒、笔记并按语音指令操作
+- 团队共享 agent 处理邮件分拣、状态汇总与文档检索
+- 通过语音笔记控制智能家居并逐项审批 agent 动作
+- 自托管整套 agent 栈，让隐私数据不离开本地
 
 ## 场景标签
 
-`多智能体` `知识图谱` `RAG` `AI 助手` · 领域:Agent 开发
+`聊天机器人` `RAG` `知识图谱` · 领域:对话与助手
 
 ## 证据(README 行号)
 
+> L19: MindRoom gives you a personal agent for your calendar, notes, trips, and homelab, and shared agents for your team's
 > L20: Every agent is a real user on Matrix, the open chat standard, so you talk to it in MindRoom Chat, in any other Matr
-> L118: - **Multi-agent orchestration** — define specialist agents and teams in `config.yaml` or the dashboard; built-in r
-> L142: - **Model routing** — a different model per agent, room, or thread (`/model` and `/room_model`); route sensitive r
+> L96: Personal agents and shared team agents connect to 100+ tools, including email, calendar, Slack, Jira, GitHub, and a
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `b7bdb849ba6f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ca0e80078acb` · [字段定义](../../DATASET.md)*

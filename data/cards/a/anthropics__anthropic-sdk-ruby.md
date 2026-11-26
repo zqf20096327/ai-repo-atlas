@@ -4,7 +4,7 @@
 
 **Ruby 应用接入 Claude API 的官方 SDK**
 
-Anthropic 官方维护的 Ruby 语言 SDK，让 Ruby 应用能够访问 Claude API。通过 Gemfile 添加依赖即可安装，README 提供初始化调用的入门代码示例，要求 Ruby 3.2.0 以上版本。采用 Apache License 2.0 许可，此前的旧版本及早期第三方贡献仍遵循 MIT 许可（存在双许可历史）。文档托管于 platform.claude.com。
+Anthropic 官方 Ruby SDK，通过 Claude API 在 Ruby 应用中调用 Claude 模型。安装方式为在 Gemfile 中添加 gem 依赖（当前版本 2.14.0），要求 Ruby 3.2.0 及以上。README 提供 getting started 示例代码，完整文档托管于 platform.claude.com。项目采用 Apache 2.0 许可，此前的版本及早期第三方贡献仍保留 MIT 许可。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@ Anthropic 官方维护的 Ruby 语言 SDK，让 Ruby 应用能够访问 Claude A
 
 ## 能力要点
 
-- 官方 Ruby SDK，提供 Claude API 访问
-- 通过 Gemfile 安装（anthropic gem ~> 2.13.0）
+- 官方维护的 Claude API Ruby 接入 SDK
+- 通过 Gemfile/gem 安装，版本 2.14.0
 - 要求 Ruby 3.2.0+
-- Apache-2.0 与 MIT 双许可历史声明
+- Apache 2.0 许可，旧版本保留 MIT 许可
 
 ## 适用场景
 
-- 在 Ruby 项目中调用 Claude API
-- 为 Ruby 应用集成大模型对话能力
+- 在 Ruby 应用中调用 Claude API
+- 为 Ruby 项目接入 Claude 模型能力
 
 ## 场景标签
 
@@ -36,8 +36,8 @@ Anthropic 官方维护的 Ruby 语言 SDK，让 Ruby 应用能够访问 Claude A
 
 ## 证据(README 行号)
 
-> L1: # Anthropic SDK for Ruby
 > L5: The Anthropic SDK for Ruby provides access to the Claude API from Ruby applications.
+> L11: ## Installation
 
 ## 星数曲线
 
@@ -53,4 +53,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `163a2ee32317` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `db958a7e5eec` · [字段定义](../../DATASET.md)*

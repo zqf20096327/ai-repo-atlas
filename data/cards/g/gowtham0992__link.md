@@ -2,9 +2,9 @@
 
 ⭐ 221 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gowtham0992/link) · [官网](https://gowtham0992.github.io/link/) · 个人维护
 
-**面向本地 AI agent 的跨工具本地记忆层，以 Markdown 存储**
+**给本地 AI agent 提供基于 Markdown 的本地持久记忆层**
 
-Link 是开源的本地 agent 记忆层：为 Codex、Claude Code、Cursor、VS Code、Copilot 等本地 agent 提供共享的来源可溯记忆，存储为本地 Markdown wiki。机制包括：捕获原始材料生成带来源的 wiki 页面、review-gated 写入（agent 提议、用户批准）、记忆层无 LLM（摄入与召回为确定性流程）、经 git remote 由用户控制的同步。通过 CLI（lnk）、MCP、skills 与本地 web viewer 检索紧凑上下文包。Web viewer 仅绑定 127.0.0.1、无认证，不应暴露公网。
+Link 是面向本地 AI agent 的开源记忆层：把原始来源整理为可检视的 Markdown wiki，将用户明确要求记住的偏好、决策与项目上下文存为可审核的记忆，agent 通过 CLI、MCP、官方技能或本地查看器检索带出处的紧凑上下文。通过 hook 与规则文件接入 Claude Code、Cursor、Codex 等十余种 agent，写入需用户批准；记忆层本身不含 LLM，保存、去重、矛盾检查与召回均为确定性操作，并提供规则阻断、过期检查与 session receipt 机制。
 
 ## 筛选速览
 
@@ -20,25 +20,27 @@ Link 是开源的本地 agent 记忆层：为 Codex、Claude Code、Cursor、VS 
 
 ## 能力要点
 
-- 记忆以纯 Markdown 文件存储，可 grep/git-diff
-- review-gated 写入：agent 提议、用户批准
-- 记忆层无 LLM，摄入与召回确定性执行
-- 一条命令（lnk setup）为多个已安装 agent 配置 MCP 与 hooks
+- 记忆以纯 Markdown 文件存储，可 grep、git-diff、跨多个 agent 共享
+- review-gated 写入：agent 只能提议，用户批准后才落盘
+- 记忆层无 LLM，写入路径确定性运行
+- 记忆可携带规则，在工具调用前执行检查（约 0.2ms/次）
 
 ## 适用场景
 
-- 让多个 AI 编码 agent 共享同一份本地记忆与偏好
-- 把分散在各工具的记忆导入并审阅后合并
-- 以 git 远端在多机或团队间同步已审记忆
+- 让多个 agent 共享同一份已审核的个人偏好与项目决策
+- 避免每个新会话重复解释项目上下文
+- 在 agent 执行敏感命令前插入用户确认规则
+- 以本地纯文件方式保存私有记忆
 
 ## 场景标签
 
-`Agent 记忆` `知识库管理` · 领域:Agent 开发
+`Agent 记忆` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L52: Link is an open-source memory layer for local AI agents. Raw sources become an
-> L73: 4. **Retrieve** compact query packets through the CLI, MCP, official skills, or the local web viewer.
+> L5:  Local memory for AI agents.
+> L89: Link is an open-source memory layer for local AI agents. Raw sources become an
+> L91: memories. Agents retrieve compact, source-backed context through the CLI, MCP,
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2e21c14eafcc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `187457d56545` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 212 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/OWASP/www-project-agent-memory-guard) · [官网](https://owasp.org/projects/agent-memory-guard) · 组织维护
 
-**为 AI agent 记忆存储提供运行时防投毒防护的安全中间件**
+**AI agent 记忆投毒的运行时防护中间件库**
 
-面向 AI agent 的记忆投毒运行时防御库（OWASP ASI06 参考实现）：在 agent 与其记忆存储之间筛查每次读写，内置提示注入、敏感数据泄漏、受保护键篡改、尺寸异常与自我强化循环检测器，配合 YAML 声明式策略输出 allow/redact/quarantine/block 动作；每次决策产生结构化 SecurityEvent 支持取证回滚。无需 API key、本地运行，附带 55 例基准与 amg-bench 评分工具，支持 SIEM 关联与 OpenTelemetry 导出。
+OWASP 官方 Lab 项目，作为 ASI06（记忆与上下文投毒）的参考实现：在 agent 与其记忆存储之间拦截每次写入，通过检测器管道（prompt 注入、密钥/PII 泄露、受保护键篡改、尺寸异常、自我强化循环）与 YAML 声明式策略执行 allow/redact/quarantine/block 动作。无 API key、无外部调用、本地运行，中位延迟 62 µs；提供 LangChain 中间件、OpenAI Agents/AutoGen/mem0/CrewAI 适配器、SecurityEvent 取证与快照回滚、AMSB 基准评分工具 amg-bench。pip 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 内置提示注入、PII 泄漏、受保护键篡改、尺寸异常、自我强化循环检测器
-- YAML 声明式策略映射到 allow/redact/quarantine/block 动作
-- 提供 LangChain GuardedChatMessageHistory 中间件及 OpenAI Agents/AutoGen/mem0/CrewAI 适配
-- amg-bench 基准工具可对任意记忆系统按三方法适配器评分
+- pip 安装、三行代码接入，无需 API key 与外部调用
+- 内置五类检测器，支持 SHA-256 完整性基线与 YAML 策略
+- LangChain 中间件覆盖模型输入/输出与工具输出
+- 自研 AMSB 基准并公开自身 D 级评分结果
 
 ## 适用场景
 
-- 为跨会话记忆的 agent 拦截记忆投毒攻击
-- 给 LangChain agent 加一层输入输出与工具输出防护
-- 按 NIST AI RMF / EU AI Act 要求落实记忆安全控制
+- 为持久化记忆的 agent 加上防投毒写入检查
+- 给 LangChain agent 的输入输出与工具输出套上防护中间件
+- 用 amg-bench 给自己的记忆系统打弹性分
+- 导出 SecurityEvent 到 SIEM 做取证与合规映射
 
 ## 场景标签
 
@@ -37,6 +38,7 @@
 
 ## 证据(README 行号)
 
+> L9:  🏆 Official OWASP Lab Project · reference implementation for ASI06: Memory &amp; Context Poisoning
 > L83: Agent Memory Guard sits between the agent and its memory store, screening every operation through a pipeline of det
 > L149: - **Drop-in middleware** — ships with `GuardedChatMessageHistory` for LangChain; framework-agnostic `MemoryStore` 
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `1185ed4761be` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `baf16191e4f6` · [字段定义](../../DATASET.md)*

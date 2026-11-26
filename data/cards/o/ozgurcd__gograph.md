@@ -2,15 +2,15 @@
 
 ⭐ 232 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ozgurcd/gograph) · [官网](https://gograph.identuum.ai) · 个人维护
 
-**为 Go 编码 agent 提供本地确定性代码结构分析的 MCP 引擎**
+**Go 代码静态分析 CLI，向 AI agent 提供 MCP 接口**
 
-在本地为 Go 仓库构建结构图（调用图、接口实现、影响分析、符号查询），可选 type-checked CHA/SSA 精确增强；通过 CLI 与内置 MCP server 两种方式供编码 agent 使用，无需嵌入向量或托管代码索引。默认索引仅解析源码不执行目标代码；精确模式会调用本机 Go 工具链（可能按 GOPROXY 策略联网），cgo 包还会调用 C 编译器。支持 Homebrew 与 go install 安装，遥测数据仅存本地 .gograph/ 目录。
+面向 Go 仓库的本地静态分析命令行工具：将代码索引为 AST 与可选类型检查（CHA/SSA）图，提供调用链追踪、传递影响面分析、基于变更的测试选择、Mermaid 依赖图渲染，以及包边界/复杂度/API 漂移等 CI 架构门禁。内置 stdio MCP 服务器（70 个工具），供编码 agent 在本地读取仓库结构化分析结果；不执行目标代码、不外传源码。安装方式包括 Homebrew cask 与 go install。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- CLI 与 MCP server 双入口，MCP 无需预构建即可在内存建图
-- 确定性结构查询：调用者/被调用者、影响分析、符号定位
-- 可选 --precise 类型检查增强（CHA/SSA），离线时回退 AST 图
-- 机器可读验证谓词（symbol_exists、call_edge_exists 等）与 JSON 输出
+- 内置 stdio MCP 服务器，66 个仓库查询/分析命令加 4 个会话工具（共 70 个项目工具）
+- 基于 AST/CHA/SSA 的调用图、传递影响面与变更范围测试选择
+- CI 架构门禁：包导入分层、复杂度/不稳定性限值、API 漂移检测
+- 源到汇的安全流追踪（HTTP/JSON/环境变量到 SQL、进程执行、文件系统等）
 
 ## 适用场景
 
-- 让 Claude Code 等编码 agent 在重构前查询调用关系与影响面
-- 在 CI 中以 --strict 模式校验精确索引未回退
-- 用 validate 谓词检查架构约束（如 imports_only_from）
-- 本地离线环境下做 Go 代码导航与热点分析
+- 在 CI 中强制执行 Go 包导入边界与复杂度门禁
+- 为未提交的代码变更选出需要运行的 go test 命令
+- 让 Claude Code 等 MCP 客户端在本地查询仓库调用图与影响面
+- 追踪从输入源到 SQL/进程/文件系统汇点的进程间路径
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L49: `gograph` builds a local structural graph of your Go repository, with optional
-> L50: type-checked CHA/SSA enrichment. Its CLI and MCP workflows help coding agents
-> L85:  with `run 'gograph build' first`. The MCP server needs no build step:
+> L9: **Local Go static analysis, call-graph, blast-radius, and CI architecture-gate CLI—with a built-in stdio MCP server 
+> L153: ## Built-In MCP Server and AI Agent Integration
+> L59: > **Local-only analysis:** `gograph` does not execute target code or transmit source or telemetry to external servi
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2f662deebdb9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b75d37edfb96` · [字段定义](../../DATASET.md)*

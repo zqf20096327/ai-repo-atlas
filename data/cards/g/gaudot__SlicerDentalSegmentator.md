@@ -1,10 +1,10 @@
 # gaudot/SlicerDentalSegmentator
 
-⭐ 203 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/gaudot/SlicerDentalSegmentator) · 个人维护
+⭐ 203 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/gaudot/SlicerDentalSegmentator) · 组织维护
 
-**牙科 CT/CBCT 全自动多类分割的 3D Slicer 扩展**
+**3D Slicer 扩展：自动分割颅颌面 CT/CBCT 牙科结构**
 
-基于 nnU-Net 框架的 3D Slicer 扩展，从单个体积自动生成上颌骨与上颅骨、下颌骨、上下牙列、下颌管五类分割，覆盖颌面 CT 与 CBCT 扫描。训练数据为 470 例扫描，独立评估 256 例、来自 7 家机构。扩展通过 3D Slicer Extension Manager 安装，首次启动自动下载模型权重与 PyTorch/nnU-Net v2 依赖；结果可在 Segment Editor 中细化、平滑并导出，另提供独立于图形界面的 nnU-Net 命令行用法。macOS Apple Silicon 暂不支持 GPU 加速。
+面向 3D Slicer 的开源深度学习扩展，基于 nnU-Net 框架，对颅颌面部 CT 与 CBCT 扫描自动完成五类多类别分割：上颌骨与上颅骨、下颌骨、上下牙列、下颌管。面向牙科与颅面影像的临床及科研用户。通过 Extension Manager 安装，首次运行自动下载模型权重与 PyTorch、PyTorch Lightning、nnU-Net v2 等依赖；支持 CUDA 加速推理，CPU 回退时处理时间更长。另可通过 nnU-Net 命令行脱离图形界面使用，模型权重发布于 GitHub Releases 与 Zenodo。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 单次运行生成五类颌面解剖结构分割
-- 基于 nnU-Net v2，470 例 CT/CBCT 训练、7 机构 256 例独立评估
-- 通过 3D Slicer Extension Manager 一键安装，首启自动下载权重与依赖
-- 支持 CUDA GPU 加速推理与 CPU 回退，并提供命令行独立运行
+- 单次运行生成 5 类解剖结构分割（上颌骨、下颌骨、上下牙列、下颌管）
+- 基于 nnU-Net v2，训练数据 470 例、独立评估 256 例（7 家机构）
+- 通过 3D Slicer Extension Manager 安装，依赖自动安装
+- 支持 CUDA GPU 加速，并提供 nnU-Net 命令行独立使用方式
 
 ## 适用场景
 
-- 对牙科 CBCT/CT 批量执行牙齿与下颌管自动分割
-- 在 3D Slicer 中细化并导出颌面三维模型用于研究分析
-- 配合正畸、牙移植等临床研究做牙科影像量化
+- 对牙科 CT/CBCT 自动生成牙齿与下颌管等结构的三维分割
+- 分割结果导入 Segment Editor 精修后导出用于科研分析
+- 利用样例数据在不导入自有影像的情况下试用分割流程
 
 ## 场景标签
 
-`目标检测` · 领域:感知与多模态
+`科研工具` `目标检测` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L3: **Fully automatic AI-powered segmentation of Head and Dental CT and CBCT images in 3D Slicer.**
-> L5: DentalSegmentator is an open-source deep learning extension for **automatic multiclass segmentation of dento-maxillo
+> L30: DentalSegmentator is based on the **nnU-Net framework**, a self-configuring deep learning framework for biomedical 
 > L95: Click `Apply` to launch the automatic segmentation.
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `873a7328be40` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ef544538dad5` · [字段定义](../../DATASET.md)*

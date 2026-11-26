@@ -2,9 +2,9 @@
 
 ⭐ 118,353 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/debpalash/VoiceStudio) · [官网](https://voicestudio.sh) · 组织维护
 
-**本地运行的语音工作室：克隆、配音、转写、有声书**
+**全本地 AI 语音工作室：克隆、配音、转写、有声书**
 
-全本地桌面/移动语音应用，功能覆盖语音克隆、语音设计、视频翻译配音、浮动听写与转写、有声书与批量队列任务。默认引擎为 k2-fsa/OmniVoice，用户可在 Model Manager 中选择数十个其他引擎并按需下载模型。提供 Local API、MCP、CLI、watch folders 与 recipes 用于自动化。AGPL-3.0 应用本身免费且无需账号；Pro 为可选商业许可，Cloud 为尚未上线的托管 API；模型权重许可各异（默认 OmniVoice 权重为 CC-BY-NC 非商用）。
+在本地设备运行的语音工作台，功能覆盖声音克隆、文本描述生成声音、视频翻译配音、悬浮听写与本地转写、故事/有声书批量叙述，支持 646 种语言。通过 Model Manager 选择并按需下载本地语音引擎，默认引擎为 k2-fsa/OmniVoice；提供本地 API、MCP、recipes 与 watch folders 做自动化。桌面端覆盖 macOS/Windows/Linux 多种安装方式，另有 Android/iOS 预览版、Docker 镜像与托管 Cloud API（未上线）。应用以 AGPL-3.0 发布，Pro 为可选商业许可，默认模型权重为非商业许可（CC-BY-NC）。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@
 
 ## 能力要点
 
-- 语音克隆、语音设计、视频配音、听写、转写、有声书六大功能，支持 646 种语言
-- 默认 k2-fsa/OmniVoice 引擎，Model Manager 支持数十种本地引擎按需下载
-- 覆盖 Windows/macOS/Linux/Android/iOS/Docker 多平台安装
-- Local API、MCP、CLI 与 watch folders 自动化集成
+- 声音克隆、声音设计、视频配音、听写/转写、有声书批量生成
+- 646 种语言，模型按需下载，默认引擎 k2-fsa/OmniVoice
+- 本地 API、MCP、recipes、watch folders 用于连接与自动化
+- 桌面/移动/Docker 多端分发，CPU 可用，支持 CUDA/ROCm/Metal/Vulkan 加速
 
 ## 适用场景
 
-- 在笔记本上离线克隆声音并生成语音
-- 将视频翻译配音并保持原时间轴
-- 批量制作有声书与长文朗读
-- 通过本地 API 或 MCP 集成到自动化流程
+- 把参考录音克隆成指定声音来朗读文本
+- 给视频翻译配音并按原始时间轴对齐
+- 批量生成故事和有声书
+- 本地离线转写音频或悬浮听写
 
 ## 场景标签
 
@@ -46,8 +46,8 @@
 ## 证据(README 行号)
 
 > L5:  AI voice studio. On your device.
-> L46:  Voice cloning
-> L86:  Closed-source build, account required, 7-day full refund. The AGPL-3.0 app stays free, including commercial use un
+> L6:  Clone, design, dub, dictate, transcribe and narrate in 646 languages.
+> L71: Start with **VoiceStudio** (default, powered by k2-fsa/OmniVoice), or pick from dozens of other engines in the Mode
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 mid · 依据 README sha `ab9daa00e342` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f508e7afd299` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 3,442 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/github/squad) · [官网](https://github.github.io/squad/) · 组织维护
 
-**人主导的 AI 编码 agent 团队 CLI：为项目组建多专家智能体**
+**开发者工具：为任意项目组建人主导的 AI agent 团队**
 
-基于 GitHub Copilot 等编码 agent 客户端的 CLI 工具：通过 squad init 在仓库中生成由前端、后端、测试、负责人等角色组成的持久化 agent 团队（以文件形式存在于 .squad/ 目录），各成员独立上下文、共享决策记录，跨会话保留状态。支持 Claude Code、Kiro、OpenCode、Cursor、Codex 等多种宿主，提供 17 个命令覆盖初始化、升级、issue 自动分诊（Ralph 轮询模式）、状态导出与仪表盘。另提供 .NET NuGet 包将团队注册为 Agent Framework agent。定位为人的生产力工具，人保留优先级与审批权。
+以 CLI 形式安装的编排工具，通过 GitHub Copilot 及多种 AI 客户端为项目提供一组专家 agent：用户描述要构建的内容，Squad 在仓库内生成 `.squad/` 团队配置并跨会话保留上下文；优先级、审批与最终修改仍由用户掌控。支持 npm、Homebrew、WinGet 三种安装方式，可通过 `squad init --client` 适配 7 种客户端，各客户端共享同一团队配置。使用需自备已安装的 AI 客户端与模型访问权限。
 
 ## 筛选速览
 
@@ -15,30 +15,31 @@
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
+| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 以文件形式持久化的多角色 agent 团队，跨会话保留状态与决策
-- 同一团队可投影到 Copilot、Claude Code、Cursor、Codex 等多种客户端
-- Ralph watch 模式轮询 issue 并自动分诊、派发 agent 执行
-- 17 个 CLI 命令，含升级、状态外置、上下文压缩与本地仪表盘
+- 通过 `squad init` 适配 7 种 AI 客户端，共享一个 `.squad/` 团队
+- 团队配置驻留仓库内并跨会话保留上下文
+- 支持 npm / Homebrew / WinGet 安装
+- 变更需经用户审查确认后接受
 
 ## 适用场景
 
-- 在仓库中组建并管理多角色 AI 编码团队
-- 自动轮询 GitHub issue 并分诊给 agent 处理
-- 跨多个 AI 编码客户端复用同一团队配置
+- 在现有 Git 仓库中为项目搭建多 agent 协作团队
+- 在 Copilot CLI 或 VS Code Copilot Chat 中以 squad agent 方式工作
+- 多客户端场景下共享同一套团队配置
 
 ## 场景标签
 
-`多智能体` `编码 Agent` · 领域:Agent 开发
+`多智能体` `编码 Agent` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L13: Squad gives you a human-directed AI development team through GitHub Copilot. Describe what you're building. Get a t
-> L136: Squad is not tied to one client. Add `--client` to project the same team and the `squad_state` backend into Claude
+> L5: **Human-led AI agent teams for any project.**
+> L7: Squad gives you a team of specialists through GitHub Copilot and other AI clients. Describe what you're building; yo
+> L38: For GitHub Copilot (CLI or VS Code), run `squad init`. To choose a client explicitly, run one of:
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 high · 依据 README sha `bd3ce59129eb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a1f402139477` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 170 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mlx-node/mlx-node) · [官网](https://mlx.void.app) · 组织维护
 
-**Node.js 运行 MLX 模型的推理/训练工具链**
+**在 Node.js 中运行 MLX 模型的推理/训练运行时**
 
-在 Node.js 中运行 Apple MLX 模型的工具集：提供语言、视觉、语音、嵌入模型推理，OpenAI/Anthropic 风格端点的 HTTP 服务器（含连续批处理、分页 KV 缓存），模型转换与 GGUF K-quant 导入，以及 GRPO/SFT 训练器和本地编码 agent。主要目标平台是 Apple Silicon + Metal，另有面向 NVIDIA GB10/DGX Spark 的实验性 CUDA 后端（仅推理）。原生层为 Rust/C++，运行时不依赖 Python。通过 npm 安装 CLI 或各子包。
+从 Node.js 运行 MLX 模型的工具集，包含语言与多模态推理、HTTP 服务器、模型转换及 GRPO/SFT 训练，公开 API 为 TypeScript，原生层由 Rust 和 C++ 构成，运行时不依赖 Python。CLI 需 Node.js 22.19+，预编译二进制要求 Apple Silicon 上的 macOS 26+；CUDA 路径仅限 Linux aarch64/GB10 与 Windows ARM64 源码构建且为实验性。模型目录覆盖 Qwen、Gemma、DeepSeek、OCR、ASR、TTS、嵌入与重排等型号，服务器实现 OpenAI/Anthropic 风格端点并支持连续批处理。
 
 ## 筛选速览
 
@@ -13,32 +13,34 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | `idea` | |
+| 安装摩擦 | `high` | 编译与系统依赖俱全 |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- TypeScript 公共 API，原生层 Rust/C++，运行时无需 Python
-- HTTP 服务器实现 /v1/responses、/v1/messages、音频转写与合成等端点
-- GRPO/SFT 训练（dapo/dr_grpo/bnpo 损失、检查点续训）
-- GGUF K-quant 无损重打包为 MLX 布局，本地 PII 检测与编辑包
+- 从 Node.js 运行 MLX 模型，运行时无需 Python
+- mlx serve 提供多端点 HTTP 服务器，支持连续批处理与 SSE 背压
+- 包含 GRPO（多种 loss）与 SFT 训练包
+- 支持语言、视觉/OCR、ASR、TTS、嵌入与重排多类模型
 
 ## 适用场景
 
-- 在 Apple Silicon 上用 Node.js 跑本地 LLM 推理与 HTTP 服务
-- 对 Qwen 等模型做 GRPO/SFT 本地微调并带 TUI 监控
-- 构建本地编码 agent 或文档/OCR 处理流水线
+- 在 macOS/Apple Silicon 上本地部署 LLM 推理服务
+- 用 TypeScript 库构建带工具调用与流式输出的聊天会话
+- 在 Apple Silicon 上做 GRPO/SFT 微调
+- 本地运行 OCR、语音转写与文档处理流水线
 
 ## 场景标签
 
-`微调` `强化学习` `模型量化` · 领域:训练与推理
+`推理引擎` `微调` `强化学习` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L8: MLX-Node runs MLX models from Node.js. It includes language and multimodal inference, an HTTP server, model conversi
-> L10: The main target is Apple Silicon with Metal. There is also an experimental CUDA backend for Linux on NVIDIA GB10 / 
+> L10: The main target is Apple Silicon with Metal. CUDA source builds are available for Linux on NVIDIA DGX Spark and Win
+> L19: mlx serve --port 8080
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `d5535ac5fbf2` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d58c8f20b962` · [字段定义](../../DATASET.md)*

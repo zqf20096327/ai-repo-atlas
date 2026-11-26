@@ -2,9 +2,9 @@
 
 ⭐ 204 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pc-style/x-md) · [官网](https://mdfromx.com) · 个人维护
 
-**把公开 X 帖子/主页/搜索转为 Markdown/JSON 的 API 服务**
+**给 agent 用的 X 内容转 Markdown/JSON API 服务**
 
-自托管或托管的 Web 服务（托管于 mdfromx.com），将公开 X 帖子、会话、主页、搜索、关注关系与批量历史导入转换为面向 agent 的紧凑 Markdown 或结构化 JSON，默认无需 X API key。数据来源为 FxTwitter 主通道与 X syndication 回退，可选 Context.dev 与 Firecrawl。为程序化消费提供 /llms.txt、OpenAPI 3.1、MCP server、agent skill（browse-x）、ARD 目录与 RFC 9457 错误文档，响应带结构化限速头。自声明 beta，部分旧别名路由已宣布 2026-09-15 弃用。
+将公开 X 平台的帖子、会话、主页、搜索结果与关注关系转换为紧凑 Markdown 或 JSON，托管于 mdfromx.com，默认路径无需 X API key。返回带来源 URL 的内容、视频直链、会话上下文，支持游标分页、批量导入历史帖子（NDJSON 流式）。机器接口包括 Markdown 协商、/llms.txt、OpenAPI 3.1、MCP server（Streamable HTTP）与编码 agent 的 browse-x 技能；自托管目标为 Bun 1.4。搜索与批量导入有速率限制；/api/convert 与 /api/browse 别名已公布弃用时间表。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 帖子/主页/搜索/关注/批量历史（≤5000 帖，NDJSON 流式）转 Markdown 或 JSON
-- 面向 agent 的机器表面：/llms.txt、/openapi.json、/mcp（Streamable HTTP）、browse-x 技能、ARD 目录
-- RFC 9457 错误文档与 IETF RateLimit 结构化限速头，客户端可自行配速
-- 默认路径无需 X API key，FxTwitter 主通道 + X syndication 回退
+- 公开接口无需 key：Markdown 协商、/llms.txt、OpenAPI 3.1、MCP server、AR catalog
+- 对话上下文默认返回（父帖、作者线程、热门回复），可参数化收窄
+- 历史批量导入：多游标并发拉取，实测 1379 帖 7.8 秒
+- 错误为 RFC 9457 问题文档，限流通过 RateLimit 结构化字段通告
 
 ## 适用场景
 
-- 让 LLM agent 读取 X 帖子与会话上下文作为资料
-- 批量导入某账号的历史帖子做分析或归档
-- 在 Discord/Slack 等平台生成帖子预览嵌入
+- 让编码 agent 或 MCP 客户端读取 X 帖子与主页内容
+- 为 RAG 或研究流程批量导入某账号的历史推文
+- 生成可嵌入 Discord/Telegram/Slack 的帖子预览
 
 ## 场景标签
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `52d1136ec51a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3cb5a69fead3` · [字段定义](../../DATASET.md)*

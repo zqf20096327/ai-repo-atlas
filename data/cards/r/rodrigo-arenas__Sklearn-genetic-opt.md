@@ -4,7 +4,7 @@
 
 **scikit-learn 的进化算法超参搜索与特征选择库**
 
-为 scikit-learn 估计器提供基于进化算法的超参数调优（GASearchCV）与特征选择（GAFeatureSelectionCV）：给定模型、评分器和预算，用交叉验证评估候选、拟合胜出组合并支持对新数据调用 predict。内置 DEAP 优化后端，另有 scipy、nevergrad、cmaes、pymoo 四个可选引擎（pip extra 安装），五个引擎均支持实时绘图、早停与按代恢复；提供 cv_results_ 与 history 检查搜索过程，附基准测试与引文元数据。适用于组合穷举代价过高的场景。
+提供 GASearchCV 与 GAFeatureSelectionCV 两个估计器：输入模型、评分器与预算，用交叉验证评估候选、重拟合最优解并可直接 predict。适用于参数或特征组合使穷举搜索代价过高的场景。默认内置 DEAP 引擎，scipy、nevergrad、cmaes、pymoo 四个引擎通过 pip extras 安装，五种引擎均支持实时绘图、早停与从已完成代数恢复。要求 Python 3.12 及以上，以 MIT 许可在 PyPI 发布，附软件引用元数据与基准对比文档。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- GASearchCV 超参搜索与 GAFeatureSelectionCV 特征选择两类估计器
-- DEAP 默认引擎加 scipy/nevergrad/cmaes/pymoo 四个可选优化后端
-- 支持实时绘图、早停与从已完成代恢复
-- cv_results_ 与 history 提供逐候选与逐代进展检查
+- GASearchCV 超参搜索与 GAFeatureSelectionCV 特征选择，均基于交叉验证
+- 默认 DEAP 引擎，另提供 scipy/nevergrad/cmaes/pymoo 四个可选引擎（pip extras）
+- 支持实时绘图、早停、checkpoint 恢复与 CVBudgetStopping 预算控制
+- 0.17.0 新增保留 pandas 列名/类型的特征选择与 warm_start_masks 种群预热
 
 ## 适用场景
 
-- 参数组合过大无法穷举搜索时为 sklearn 模型调参
-- 为高维数据集筛选较小的特征子集
-- 以相匹配的 CV 调用数对比不同优化器在九类工作负载上的表现
+- 对决策树、神经网络等 scikit-learn 模型做超参数调优
+- 在候选特征过多时用 GAFeatureSelectionCV 做特征选择
+- 搜索空间过大导致 GridSearchCV 穷举代价过高时换用进化搜索
+- 长时间运行的超参实验需要 checkpoint 恢复与预算控制
 
 ## 场景标签
 
@@ -37,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L10: **Tune a scikit-learn estimator or find a smaller set of features.**
-> L71: Version 0.16.0 includes DEAP by default and supports four optional engines.
-> L106: Each optional engine has a pip extra with the same name. All five support
+> L10: **Hyperparameter tuning and feature selection for scikit-learn.**
+> L11: Give ``GASearchCV`` or ``GAFeatureSelectionCV`` a model, a scorer and a budget.
+> L72: DEAP is included by default. Four additional engines are available as extras.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d188a1637160` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `746bd1f55ce4` · [字段定义](../../DATASET.md)*

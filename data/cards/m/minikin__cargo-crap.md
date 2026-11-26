@@ -2,9 +2,9 @@
 
 ⭐ 437 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/minikin/cargo-crap) · 个人维护
 
-**Rust 项目的 CRAP 变更风险度量 cargo 插件**
+**给 Rust 与 TS/JS 代码计算 CRAP 分数，定位复杂且未测试的函数**
 
-面向 Rust 开发者的静态分析工具：用 syn 解析源码，读取覆盖率工具输出的 LCOV 文件，按 CRAP 公式（圈复杂度平方×未覆盖率立方+复杂度）为每个函数打分，本地查看测试缺口或在 CI 中按阈值与回归门禁拦截构建。另提供重复函数检测（可选 TypeSafe 或 OpenAI 模型做分类裁决）与六项结构信号（嵌套深度、stub、panic 位点等）回归检测。不运行测试，依赖外部覆盖率工具（如 cargo-llvm-cov）生成 LCOV。提供 GitHub Action、SARIF 上传与多种输出格式。
+cargo-crap 与 crapts 为 Rust、TypeScript 和 JavaScript 计算 CRAP 指标（圈复杂度与行覆盖率的组合公式），读取 LCOV 或 Istanbul 覆盖文件，输出按分数排序的函数表格，并支持 CI 中以基线或阈值拦截回归。可选功能包括结构重复函数分组、六个结构信号度量、uncovered 行提示，以及用 LLM（TypeSafe 默认或 OpenAI）对重复组做三类问题的分诊；分诊默认关闭，需配置文件与 API key 启用，不影响分数与退出码。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 基于圈复杂度与行覆盖率计算 CRAP 分数，支持阈值与回归门禁
-- 结构重复函数分组检测，可选 TypeSafe/OpenAI 模型分类裁决（是否值得合并）
-- 六项结构信号（嵌套深度、长度、todo!/panic 位点等）的回归检测
-- 提供 GitHub Action、PR 评论、SARIF 上传与 JSON 输出
+- CRAP 公式（comp²×(1−cov/100)³+comp）结合圈复杂度与覆盖率评分
+- 读取 cargo-llvm-cov、tarpaulin、Vitest、Jest、nyc、c8 生成的 LCOV/Istanbul 覆盖文件
+- GitHub Action 一步接入：PR 评论 delta、job summary 报告、SARIF 上传
+- 结构重复分组与可选的 LLM 分诊（TypeSafe/OpenAI，需配置与 API key）
 
 ## 适用场景
 
-- 找出复杂且缺乏测试覆盖的 Rust 函数
-- 在 CI 中当 CRAP 分数超阈值或回归时使构建失败
-- 检测并分类处理重复实现的函数
-- 为编码 agent 输出 JSON 格式的可维护性问题
+- 在 CI 中拦截分数超阈值或上升的变更函数
+- 找出 Rust 或 TS/JS 项目中复杂且缺测试的函数
+- 将重复代码分组并借助 LLM 判断是否值得合并
+- 为编码 agent 输出 JSON 格式的结构问题清单
 
 ## 场景标签
 
- · 领域:开发工具/代码质量
+ · 领域:开发者工具/代码质量
 
 ## 证据(README 行号)
 
-> L15: cargo-crap finds the Rust functions that are both complex and untested: the
-> L118: triage on, a model from TypeSafe (the default)
-> L162: `--format json` carries the same reasons for coding agents to act on.
+> L18: cargo-crap and crapts find the functions that are both complex and
+> L22: with `oxc`. Run either locally to see where tests are missing, or in CI to
+> L200: Triage sends both function bodies to the provider you pick, so it stays off
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `720d5eaf2919` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `91befef8ee03` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 178 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/yfedoseev/office_oxide) · [官网](https://office.oxide.fyi) · 个人维护
 
-**多语言 Office 文档解析库：6 种格式提取文本/Markdown**
+**多语言 Office 文档文本提取库：DOCX/XLSX/PPTX 及旧格式读取转换**
 
-以 Rust 为核心的 Office 文档处理库，提供 Python、Go、C#/.NET、Node.js（原生与 WASM）、C FFI 绑定及 CLI。支持 DOCX/XLSX/PPTX 读写编辑，DOC/XLS/PPT 旧格式可读取并转换为 OOXML，输出纯文本、Markdown、HTML 及格式无关中间表示。基准测试基于 6,062 个真实文档，对有效文件通过率 100%（97 个未通过文件均为无效输入）。渲染器对不可信输入设有每文档文本预算（默认 256 Mi 字符）并截断标注。另提供 MCP server 二进制，供 Claude、Cursor 等 AI 助手本地读取 Office 文档。MIT/Apache-2.0 双开源许可。
+以 Rust 为核心的 Office 文档处理库，提供 Python、Go、C#/.NET、Node.js（原生与 WASM）、C FFI 绑定及 CLI。支持 DOCX、XLSX、PPTX 的读取/写入/编辑，旧格式 DOC/XLS/PPT 可读取并转换为对应 OOXML 格式；输出纯文本、Markdown、HTML 与格式无关的中间表示。内置 8 项资源上限（条目数、解压比、内存等）用于处理不可信输入，命中上限仍返回结果并在警告中报告被裁剪内容。通过 crates.io、PyPI、npm、NuGet、go get 与 cargo install 分发。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 6 种格式支持：DOCX/XLSX/PPTX 读写，DOC/XLS/PPT 读取并可转换为 OOXML
-- 多语言绑定：Python/Go/C#/Node.js/WASM/C FFI，附 CLI 与 MCP server
-- 对不可信输入设 256 Mi 字符文本预算并截断标注
-- 基于 6,062 个真实文档的基准测试，有效文件通过率 100%
+- 6 种格式（DOCX/XLSX/PPTX/DOC/XLS/PPT）读取，旧格式可转换为 OOXML
+- Rust 内核 + Python/Go/C#/Node.js/WASM/C FFI 多语言绑定
+- 文本、Markdown、HTML 及格式无关中间表示（IR）输出
+- 内置 8 项不可信输入资源上限与 damage() 损坏报告机制
 
 ## 适用场景
 
-- RAG/LLM 流水线中从 Office 文档提取干净文本或 Markdown
-- 批量解析数千份文档做数据提取
-- 将旧版 DOC/XLS/PPT 转换为现代 OOXML 格式
-- 让 Claude/Cursor 等 AI 助手通过 MCP 本地读取 Office 文档
+- 批量从 Office 文档中提取文本做数据处理
+- 把旧版 DOC/XLS/PPT 批量转换为 OOXML 格式
+- 将 Office 文档转成 Markdown/HTML 供下游流程使用
+- 处理来源不可信的 Office 文件时按资源上限控制内存
 
 ## 场景标签
 
-`文档解析` · 领域:知识与检索
+`文档解析` `RAG` · 领域:知识与检索
 
 ## 证据(README 行号)
 
-> L1: # Office Oxide — The Fastest Native Office Document Library
-> L335: `office-oxide-mcp` lets AI assistants (Claude, Cursor, etc.) read Office documents locally via the Model Context P
-> L373: - **RAG / LLM pipelines** — Extract clean text or Markdown from Office documents for retrieval-augmented generatio
+> L3: A fast, memory-safe library for text extraction from Office documents. Rust core with **first-class bindings for Pyt
+> L35: |MCP server|`office-oxide-mcp` binary|`crates/office_oxide_mcp/`||
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `dc42a4cc430c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `36b74f9232cc` · [字段定义](../../DATASET.md)*

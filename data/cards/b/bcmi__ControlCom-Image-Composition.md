@@ -2,9 +2,9 @@
 
 ⭐ 186 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/bcmi/ControlCom-Image-Composition) · 组织维护 · 中文 README
 
-**基于扩散模型的可控图像合成模型，统一四种图像合成任务**
+**可控图像合成模型：统一混合/协调/视角合成/生成式合成四任务**
 
-论文 ControlCom 的官方代码库：基于 Stable Diffusion 的可控图像合成模型，用一个二维指示向量统一图像融合、图像和谐化、视角合成与生成式合成四种任务，可选择性地调整前景光照和/或姿态以适配背景。提供两份微调权重（分别面向融合/和谐化与视角/合成），支持推理脚本与训练代码（训练数据需自备，已移除部分敏感信息）。README 声明改变前景姿态的模式鲁棒性较低，可能产生结构失真；要求前景物体的长宽完全延伸到图像边缘。
+论文 ControlCom 的官方代码库，基于 Stable Diffusion 构建的可控图像合成模型，用二维二元指示向量在单一模型中统一四个任务：图像混合 (0,0)、图像协调 (1,0)、视角合成 (0,1)、生成式合成 (1,1)，可选地调整前景的光照与位姿以适配背景。提供 FOSCom 数据集（640 对背景-前景）与两个微调检查点，含推理脚本与训练代码（部分公司内信息已移除）。面向研究者，提供在线 demo 与评测代码。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 一个模型用二维指示向量统一图像融合、和谐化、视角合成、生成式合成四任务
-- 两份微调检查点，分别适配不同任务组合
-- 提供推理脚本（inference.py / test.sh）与自定义数据推理流程
-- 发布 FOSCom 数据集（640 对前景/背景）及其扩展 MureCom
+- 二维指示向量在单一模型中统一四种图像合成任务
+- 提供 blending/harmonization 与 view/composition 两个专用检查点
+- FOSCom 数据集（640 对）提供 Dropbox 与百度网盘下载
+- 基于 libcom toolbox 提供在线 demo
 
 ## 适用场景
 
-- 把前景物体插入背景图并自动调整光照与姿态
-- 对已有合成图做光照和谐化处理
-- 按参考图调整前景视角以适配背景
+- 把前景物体插入背景并按需协调光照
+- 改变插入物体的视角以适配背景
+- 复现论文实验或训练自己的合成模型
 
 ## 场景标签
 
@@ -37,9 +37,8 @@
 
 ## 证据(README 行号)
 
-> L9: > **ControlCom: Controllable Image Composition using Diffusion Model** [[arXiv]](https://arxiv.org/pdf/2308.10040.pd
-> L23: **In our controllable image composition model, we unify four tasks in one model using an 2-dim binary indicator vec
-> L33: Our method is built upon stable diffusion and the network architecture is shown as follows.
+> L19: **In our controllable image composition model, we unify four tasks in one model using an 2-dim binary indicator vec
+> L29: Our method is built upon stable diffusion and the network architecture is shown as follows.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `ad63c584236a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `df227e3e215a` · [字段定义](../../DATASET.md)*

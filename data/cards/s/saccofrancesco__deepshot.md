@@ -2,9 +2,9 @@
 
 ⭐ 176 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/saccofrancesco/deepshot) · 个人维护
 
-**基于机器学习与滚动统计的 NBA 比赛胜负预测应用**
+**面向 NBA 爱好者的机器学习比赛胜负预测工具**
 
-DeepShot 是一个用机器学习预测 NBA 比赛结果的应用：从 Basketball Reference 抓取真实历史数据，用 EWMA（指数加权移动平均）等滚动统计特征刻画球队近期状态，经模型训练后预测对阵胜负，并以 NiceGUI 网页界面可视化展示比赛与关键统计差异。数据全部来自免费公开来源，支持 Windows/macOS/Linux 本地运行。使用需先 git clone 并安装依赖，再运行 model.ipynb 训练生成 deepshot.pkl 模型文件，最后 python main.py 启动网页应用。
+基于 Basketball Reference 历史数据的 NBA 比赛结果预测工具，使用指数加权移动平均（EWMA）等滚动统计特征训练机器学习模型，通过 Jupyter notebook 训练生成模型文件，以 NiceGUI 构建的本地 Web 界面展示对阵预测与两队关键统计差异。依赖免费公开数据，支持 Windows/macOS/Linux 本地运行；模型需用户先运行 notebook 训练生成。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@ DeepShot 是一个用机器学习预测 NBA 比赛结果的应用：从 Basketba
 
 ## 能力要点
 
-- EWMA 滚动统计特征刻画球队近期状态
-- NiceGUI 网页界面展示预测与关键统计差异
-- 数据来自 Basketball Reference 免费公开来源
-- 跨平台本地运行（Windows/macOS/Linux）
+- 基于 EWMA 滚动统计的特征工程捕捉近期状态与势头
+- NiceGUI 实时 Web 界面可视化对阵与预测结果
+- 自动高亮两队关键统计差异
+- 完全基于公开免费数据（Basketball Reference）
 
 ## 适用场景
 
-- 预测 NBA 对阵胜负并查看依据的统计差异
-- 本地跑通一个从数据抓取到预测展示的完整 ML 流程
-- 了解滚动统计特征在体育预测中的用法
+- 预测 NBA 对阵的胜负结果
+- 可视化对比两支球队的近期统计趋势
+- 学习体育比赛预测的特征工程与模型评估流程
 
 ## 场景标签
 
- · 领域:体育数据分析
+`模型评测` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L23: DeepShot is a machine learning-based NBA game predictor using advanced rolling stats (like EWMA) and real historica
-> L33: * **Data-Driven Predictions** – Powered by real NBA stats from Basketball Reference.
+> L25: DeepShot is a machine learning-based NBA game predictor using advanced rolling stats (like EWMA) and real historica
+> L35: * **Data-Driven Predictions** – Powered by real NBA stats from Basketball Reference.
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `765e4fc4bc75` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d48e2f06bdc8` · [字段定义](../../DATASET.md)*

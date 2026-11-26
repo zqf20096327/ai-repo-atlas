@@ -2,9 +2,9 @@
 
 ⭐ 186 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sandbaseai/cli) · [官网](https://sandbaseai.github.io/cli/) · 组织维护 · 中文 README
 
-**连接 25 个 AI 客户端到 2,000+ 模型/API 的本地 MCP 网关 CLI**
+**AI CLI 与本地 MCP 桥：把 25 种 AI 客户端接入 2000+ 模型和 API**
 
-面向 AI 编码工具用户的 CLI 与本地 MCP 桥接服务：一条 connect 命令完成浏览器 OAuth 授权，为 Cursor、Claude Code、Codex、ChatGPT 等 25 个客户端自动配置 MCP，经 HTTPS 访问 SandBase API 的 2,000+ 模型与数据 API（搜索/社交/抓取/电商/金融）。提供 discover/inspect/run/run_get 等 MCP 工具，运行前可查实时价格，数据 API 免费而模型调用计费。无守护进程，凭据本地保存（权限 0600），支持 unregister 回滚与 doctor 检查。
+SandBase CLI 是一个 Node.js 命令行工具与本地 MCP 桥，通过一次浏览器 OAuth 授权把 Cursor、Claude Code、Codex 等 25 类 AI 客户端连接到 SandBase 的 2000+ 模型与数据 API（搜索、社交媒体、抓取、电商、金融、图像/视频/音频生成）。提供 discover/inspect/run 的工作流，调用前可查看输入 schema 与价格；数据 API 每组织每天 100 次免费额度。无后台守护进程，密钥以 0600 权限存本地。模型调用按量计费。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 一条命令接入 2,000+ AI 模型与数据 API，无需自行管理各家 API key
-- 自动配置 25 个 AI 编码客户端的本地 MCP 桥（OAuth 浏览器授权一次）
-- discover→inspect→run 工作流，运行前展示实时价格；数据 API 免费
-- doctor 健康检查、unregister 回滚、无守护进程、凭据文件权限 0600
+- 本地 MCP 桥按需启动，无守护进程与后台进程
+- 25 类客户端自动配置（Cursor/Claude Code/Codex/Gemini CLI 等）与 doctor/catalog 只读检查
+- discover→inspect→run 流程在计费调用前展示 schema 与实时价格
+- 每个 GitHub release 附 SHA-256 校验，可固定版本安装
 
 ## 适用场景
 
-- 给我的 Cursor/Claude Code/Codex 加上联网搜索、社媒抓取、图像生成等能力
-- 在编码助手中统一调用多家 LLM 而不逐个配置 API key
-- 运行前先查价格与输入 schema，控制 agent 的调用成本
+- 让 AI 编码代理统一调用模型与数据 API，无需分别管理各平台账号
+- 通过自然语言搜索社交数据、生成图片/视频/音频内容
+- 在调用前审查价格与参数，控制 API 支出
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L14:  SandBase CLI connects AI clients to 2,000+ AI models and APIs
-> L18: **SandBase changes that.** One command connects your agent to 2,000+ AI models and APIs through the Model Context P
-> L257: │  (Cursor, etc.) │────────▶│  (on-demand)  │────────▶│ 2,000+ models/APIs │
+> L267: │   Your Agent    │  MCP    │  Local Bridge │  HTTPS  │    SandBase API     │
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `aef654b03772` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c88dedc6bf81` · [字段定义](../../DATASET.md)*

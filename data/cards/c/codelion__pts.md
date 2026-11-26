@@ -2,9 +2,9 @@
 
 ⭐ 168 · Python · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/codelion/pts) · 个人维护
 
-**模型推理关键事件的因果搜索框架：定位改变解题结果的 token/句/隐层概念**
+**面向研究者的模型推理关键事件搜索框架（PTS）**
 
-PTS 将三种粒度的推理关键事件统一处理：隐层工作区概念（Latent，J-lens 读取）、已发射的关键 token（Token，源自 Phi-4 报告）、关键推理句（Sentence，源自 Thought Anchors）。通过对比事件有无时的成功概率差给事件打分，支持链接成链、导出 DPO 对与 steering 向量（对接 OptiLLM autothink）、上传 Hugging Face。核心库为纯 Python，模型代码按需加载；提供 CLI 与可视化器。隐层部分为基于论文方程的独立复现，未与原作者结果对齐验证。
+PTS 是一个因果事件搜索框架，在潜在元 token、发出的关键 token、推理句子三个尺度上搜索并评分改变模型解题概率的推理事件，用统一公式 event_importance 打分并链接成图。以 Python 包形式提供 CLI 命令（run/enrich/fit-jlens/link/export/steer/serve 等），支持导出 DPO 对与推理模式数据集、构建与验证转向向量、运行带逐请求转向的 OpenAI 兼容服务。结果可在托管可视化器或本地 app.py 中查看。需要 Python 3.9+，Jacobian lens 为独立重实现，作者声明未对照原论文结果验证。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ PTS 将三种粒度的推理关键事件统一处理：隐层工作区概念（L
 
 ## 能力要点
 
-- 三种粒度（latent/token/sentence）统一事件评分与链接成图
-- J-lens 读取中层工作区隐层概念，logit-lens 作为免校准备选
-- 导出 DPO 对与 steering 向量，steering 向量接入 OptiLLM autothink
-- `import pts` 不加载 torch/transformers，核心层为纯 Python
+- 三个尺度（潜在/token/句子）统一评分与事件链接
+- 导出 DPO 对、推理模式、转向向量等多种数据格式
+- pts serve 提供带逐请求转向的 OpenAI 兼容服务
+- pts discover 在行为评测上自动生成并对照验证转向向量
 
 ## 适用场景
 
-- 分析推理模型中哪些 token 或推理句决定解题成败
-- 生成 DPO 训练对与 steering 向量用于模型干预
-- 检验隐层工作区概念与后续关键事件的对应关系
+- 为模型微调生成 DPO 偏好对数据集
+- 机制可解释性研究：定位影响答案的关键推理事件
+- 构建并验证行为转向向量（如 sycophancy 评测）
+- 通过可视化器检查模型推理过程的事件链
 
 ## 场景标签
 
-`模型评测` `强化学习` · 领域:评测与运维
+`模型评测` `微调` `科研工具` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L21: PTS treats all three as the same thing at different scales. It searches for them,
-> L105: |`pts run --granularity token\|sentence\|latent\|all`|Search for pivotal events|
-> L110: |`pts export --format …`|`causal_events`, `metatokens`, `pivotal_tokens`, `thought_anchors`, `dpo`, `steering`|
+> L3: **A causal-event search framework for model reasoning.**
+> L105: |Command|Does|
+> L107: |`pts run --granularity token\|sentence\|latent\|all`|Search for pivotal events|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `c8b40bf6a951` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a0e875926960` · [字段定义](../../DATASET.md)*

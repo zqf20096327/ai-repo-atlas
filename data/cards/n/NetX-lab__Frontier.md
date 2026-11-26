@@ -2,9 +2,9 @@
 
 ⭐ 188 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/NetX-lab/Frontier) · 组织维护
 
-**面向现代 LLM 服务的离散事件仿真器，无需 GPU 集群即可做配置研究**
+**面向研究者的 LLM 推理服务离散事件模拟器**
 
-为 LLM serving 系统提供的离散事件仿真器：模拟 vLLM 逻辑的 serving 行为，覆盖协同部署与 PDD/AFD 分离部署、CUDA Graph、投机解码/MTP、前缀缓存、量化、分层缓存等运行时优化，结合标定的算子/通信/KV-cache 内存模型输出可用于部署决策的仿真结果。面向研究人员与工程师做 what-if 研究（SLA Pareto 搜索、异构 GPU 分配、推理调度验证、RL rollout 重配置）。端到端仿真可纯 CPU 运行；针对新硬件收集算子级指标需至少 1 块 GPU 的 profiling 模块。提供 conda 环境与 Docker 镜像，附 arXiv 论文。
+用于模拟现代 LLM serving 系统的离散事件模拟器，针对复杂并行、运行时优化、MoE 稀疏架构与有状态负载（reasoning agents、RL rollouts）的 serving 设计研究。当前模拟 vLLM 逻辑的 serving 行为。通过校准的算子、通信、传输与 KV-cache 内存模型产出仿真结果，用于在 SLA 约束下比较部署配置，避免在 GPU 集群上反复部署的时间与资金成本。仿真可全 CPU 运行；对新硬件收集 profiling 数据需至少 1 块 GPU，并使用独立的 conda 环境以隔离 vllm/flashinfer 的 CUDA 版本依赖。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 模拟协同部署与 PDD/AFD 分离部署及多种运行时优化（按运行时行为而非简单加速比建模）
-- 端到端仿真可在纯 CPU 机器上运行（利用预编译 profiling 数据库）
-- 标定的算子/通信/传输/KV-cache 内存模型，支持 SLA 约束下比较配置
-- 支持公式后端一键冒烟运行，可选 ASTRA-Sim 拓扑与 htsim 集合通信后端
+- 支持共置、PDD 与 AFD 三类 serving 架构的模拟
+- 将 CUDA Graph、投机解码、前缀缓存、量化等建模为运行时行为而非简单加速系数
+- 仿真可在纯 CPU 机器上借助预编译 profiling 数据库完整执行
+- 提供 SLA 约束下的 Pareto 前沿搜索等四类论文级用例
 
 ## 适用场景
 
-- 在 SLA 约束下搜索最佳 serving 架构与并行配置
-- 研究分离部署中异构 GPU 分配的成本效率
-- 验证多轮推理负载的调度策略与 RL rollout 的动态并行度重配置
+- 在 SLA 约束下搜索最优 serving 架构与并行配置
+- 评估异构 GPU 分配下 disaggregated serving 的成本效率
+- 验证多轮推理与 RL rollout 场景的调度策略
+- 在不实际部署的情况下探索大规模 GPU 设计空间
 
 ## 场景标签
 
- · 领域:LLM 推理基础设施/仿真
+ · 领域:LLM 基础设施/系统仿真
 
 ## 证据(README 行号)
 
 > L21: Frontier is a discrete-event simulator for modern LLM serving. It is built for serving systems that combine complex
-> L23: Frontier helps researchers and engineers better understand serving system designs and tradeoffs without the time an
-> L35: - **Simulation:** Frontier supports E2E execution entirely on CPU-only machines, leveraging pre-compiled profiling 
+> L31: - **Fidelity**: Frontier combines calibrated operator, communication, transfer, and KV-cache memory models to make 
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `819bb644ff67` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6efc09635c39` · [字段定义](../../DATASET.md)*

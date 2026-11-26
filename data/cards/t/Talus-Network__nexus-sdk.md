@@ -2,9 +2,9 @@
 
 ⭐ 177 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Talus-Network/nexus-sdk) · [官网](https://docs.talus.network) · 组织维护
 
-**构建 Talus 链上 agent 的 SDK/CLI 工具集**
+**面向开发者的 Nexus Agentic Workflow Engine 工具集 SDK**
 
-Talus Network 维护的 Nexus SDK 开源工具集，简化开发者基于 Nexus（Agentic Workflow Engine）创建 Talus agents 与 Talus tools。仓库包含 nexus-cli、nexus-sdk、nexus-toolkit-rust、nexus-walrus 及标准 Nexus Tools 等包。CLI 提供 Homebrew、AUR、cargo-binstall、cargo 源码编译四种安装途径；支持 Task→Schedule→Occurrence 调度模型、TAP 脚手架生成与在本地 Sui VM 中对已发布 Nexus 字节码运行 Move 单元测试。开发流程使用 just 命令运行器。
+Nexus SDK 是一组帮助开发者基于 Nexus（Agentic Workflow Engine）构建 Talus agents 与 Talus tools 的工具集合，仓库包含 nexus-cli、nexus-sdk、nexus-toolkit-rust、nexus-walrus 及标准 Nexus Tools 等开源包。安装方式覆盖 Homebrew、AUR、cargo-binstall 与 Cargo 源码编译。CLI 支持 Task/Schedule/Occurrence 的定时任务模型、跨交易组合任务、Move 单元测试（本地 Sui VM 运行已发布 Nexus 字节码）以及 TAP 脚手架生成。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Talus Network 维护的 Nexus SDK 开源工具集，简化开发者基于 Nexus�
 
 ## 能力要点
 
-- 多包仓库：nexus-cli / nexus-sdk / nexus-toolkit-rust / nexus-walrus 等
-- Task→Schedule→Occurrence 调度模型，Schedule 原子应用
-- nexus tap test 在本地 Sui VM 运行针对已发布字节码的 Move 单元测试
-- nexus tap scaffold 生成标准 TAP 项目结构
+- 包含 nexus-cli、nexus-sdk、nexus-toolkit-rust、nexus-walrus 等多个开源包
+- Task→Schedule→Occurrence 定时任务模型与原子调度命令
+- nexus tap test 在本地 Sui VM 运行 Move 单元测试
+- 提供 Homebrew/AUR/cargo-binstall/Cargo 多种安装途径
 
 ## 适用场景
 
-- 在 Sui/Talus 链上开发和管理 agent 工作流任务
-- 为 Talus agents 编写与测试 TAP（Tool Access Policy）
-- 通过命令行调度和查询 Task 的 occurrence 记录
+- 为 Nexus 工作流引擎开发 Talus agent 或工具
+- 在链上调度与检查定时任务及其执行记录
+- 对已发布的 Nexus 字节码运行本地 Move 测试
 
 ## 场景标签
 
-`Agent 框架` · 领域:Agent 开发
+`工作流自动化` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L8: The **Nexus SDK** is a collection of tools that simplifies building with **Nexus**, the Agentic Workflow Engine. Dev
-> L10: This repository includes open-source Nexus packages:
+> L83: TAP authors can run Move unit tests against published Nexus bytecode with
+> L85: and developer test extensions in one local Sui VM. See the canonical
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `079873c52cb8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a6ea4caacfeb` · [字段定义](../../DATASET.md)*

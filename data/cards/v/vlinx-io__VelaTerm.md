@@ -1,10 +1,10 @@
 # vlinx-io/VelaTerm
 
-⭐ 368 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vlinx-io/VelaTerm) · [官网](https://velaterm.com) · 组织维护 · 中文 README
+⭐ 368 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vlinx-io/VelaTerm) · [官网](https://velaterm.com) · 组织维护
 
-**面向 AI 编程 Agent 的原生开发环境终端（ADE）**
+**管理 AI 编码 agent 会话并支持终端分屏的原生应用**
 
-基于 Tauri 2（Rust 后端 + React 19 前端）的原生桌面应用，将编码 Agent（Claude Code、Codex、OpenCode、Copilot、Cursor 等）以受管会话形式运行：会话树组织项目/分组/会话，支持终端分屏、状态通知、配额与 token 监控。提供跨会话命令（vsearch/vrefer/vtell）、Plan/Execute 多会话分工模式、Session 知识库（vkb）与内置代码审计工作流。支持 macOS/Windows/Linux，可经 SSH/HTTPS/手机 App 远程访问同一会话树。MIT 许可，安装包从官网下载。
+以 Tauri 2 构建的桌面/浏览器/手机端应用，将多种编码 agent（Claude Code、Codex、OpenCode、Copilot、Cursor 等）作为托管会话统一管理，同时提供 iTerm2 式终端分屏。关键机制：会话树组织、真实伪终端后台保活、子会话派生（vspawn）、跨会话检索与消息互通（vsearch/vrefer/vtell）、Plan/Execute 多会话协作、Session Knowledge Base 与本地代码图查询（vkb）。支持 SSH 远程连接与 HTTPS 端到端加密的浏览器/手机访问。安装依赖 Homebrew 或安装包；源码构建需 Node.js、pnpm、Rust 工具链。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 多编码 Agent 以受管会话运行，支持实时状态、恢复与自定义启动参数
-- vspawn 子会话与 vsearch/vrefer/vtell 跨会话通信命令
-- Plan/Execute 模式将大任务拆分给多个 Agent 会话并行执行
-- SSH/HTTPS/手机 App 三种方式远程访问同一会话树
+- 多种编码 agent 以托管会话形式统一管理，带状态跟踪与完成通知
+- 跨会话互通：vsearch/vrefer/vtell 支持会话间检索、询问与消息
+- Plan/Execute 模式将大任务拆给 planner 与多个 executor 会话并行执行
+- 内置远程访问：SSH 连接与 HTTPS 端到端加密的浏览器/手机端接入
 
 ## 适用场景
 
-- 在单一窗口中并排管理多个 AI 编程 Agent 会话
-- 把大任务拆分给多个 Agent 会话并行开发并汇总评审
-- 在手机上查看并回复正在运行的 Agent 会话
+- 在同一窗口管理多个 AI 编码 agent 会话与终端
+- 让多个 agent 会话拆分协作完成一个大任务
+- 在手机或浏览器上远程查看并回复 agent 会话
+- 利用会话知识库让 agent 在行动前先查笔记与代码图
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+`编码 Agent` `知识库管理` · 领域:编码与开发
 
 ## 证据(README 行号)
 
 > L7: Manage agent sessions like Codex. Split terminals like iTerm2. VelaTerm keeps both in one native app,
 > L26: Claude Code, Codex, OpenCode, Copilot, Cursor, Antigravity, Cline, Pi and more. Each one runs as a
-> L91: Plan / Execute mode splits a large task across several agent sessions, each with one job. The
+> L153: - **Desktop.** Native app for macOS, Windows and Linux. Connect to remote machines over SSH from
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `6778aaa0ae1c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `97fb368e14aa` · [字段定义](../../DATASET.md)*

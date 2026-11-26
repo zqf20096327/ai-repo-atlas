@@ -2,9 +2,9 @@
 
 ⭐ 466 · Markdown · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/amitshekhariitbhu/machine-learning-interview-questions) · [官网](https://outcomeschool.com/program/ai-and-machine-learning) · 个人维护
 
-**面向机器学习面试者的问题与答案备考清单**
+**机器学习面试问答速查表，覆盖 LLM 到深度学习**
 
-按机器学习面试准备组织的问答知识库，覆盖 AI Engineering（LLM、RAG、MCP、Agent、微调、量化）、机器学习基础、算法、数据预处理与特征工程、优化、深度学习等章节，每题附外部文章形式的答案链接。由 Outcome School 创始人维护，声明会持续更新新问题；同站提供 AI Engineering 面试问答的延伸资源。
+由 Outcome School 创始人 Amit Shekhar 维护的机器学习面试问答清单，按 AI Engineering、机器学习基础、算法、数据预处理与特征工程、优化、深度学习等主题组织问题，多数问题附带指向其博客文章的答案链接；覆盖 LLM、RAG、MCP、Agent、微调、量化等 AI 工程话题，以及 Transformer、VAE、GAN 等深度学习内容。README 声明会持续更新新问题和答案。纯文档型仓库，无安装或运行步骤。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 分章节组织面试问答：ML 基础、算法、特征工程、优化、深度学习
-- AI Engineering 章节覆盖 LLM、RAG、MCP、Agent、Fine-tuning、Quantization
-- 每题附答案文章链接
+- 按 AI Engineering/机器学习基础/算法/特征工程/优化/深度学习分类的问题清单
+- 多数问题附指向博客文章的答案链接
+- 涵盖 LLM、RAG、MCP、Agent、微调、量化等 AI 工程话题
 - 声明持续更新问题与答案
 
 ## 适用场景
 
-- 准备机器学习工程师岗位面试
-- 复习监督/无监督学习、强化学习等基础概念
-- 查漏补缺 Transformer、GAN、VAE 等深度学习知识点
+- 准备 AI 工程师、ML 工程师、数据科学家等岗位的面试
+- 按主题查漏补缺机器学习与深度学习概念
+- 通过答案链接深入阅读具体知识点
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L3: # Machine Learning Interview Questions and Answers
-> L7: > These interview questions and answers are helpful for roles such as:
-> L53: ### Fundamentals of Machine Learning
+> L5: > Machine Learning Interview Questions and Answers - Your Cheat Sheet For Machine Learning Interview
+> L17: ### Prepared and maintained by the **Founder** of Outcome School: Amit Shekhar
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `525dd3234e61` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9a9184104fec` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 420 · Python · 推送 2026-11-25 · [GitHub](https://github.com/DataTalksClub/datatalksclub.github.io) · [官网](https://datatalks.club) · 组织维护
 
-**DataTalks.Club 社区官网源码：数据/AI 从业者的内容站点**
+**数据科学社区 DataTalks.Club 的静态网站源码仓库**
 
-用 Rustkyll 构建的静态社区网站源码与内容仓库，服务于数据科学、机器学习、AI 与数据工程从业者。内容以 Markdown 与数据文件组织为 collections（文章、播客、书籍、人物、课程、工具、会议），导航、活动与赞助商由 _data 下的 YAML 管理，页面用 Liquid 模板渲染。本地开发需 Rustkyll 发布二进制（make install）与 uv，提供 make serve 启动开发服务器，并带交互式内容创建与 DOCX 转文章的 Python 辅助脚本。
+datatalks.club 社区网站的静态站点源码与内容仓库：以 markdown 集合（_posts、_podcast、_books、_people 等）组织文章、播客、书籍、人物、课程与活动，用 Liquid 模板和 _data YAML 管理导航、活动、赞助商，由 Rustkyll 生成静态页面，make serve 本地运行，附带 uv/npm 脚本从模板创建内容、从 DOCX 生成文章草稿。面向数据科学与机器学习从业者的社区贡献者。仓库声明新内容已迁至新站点，此处仅保留旧静态站。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 7 类 collections（posts/podcast/books/people/courses/tools/conferences）+ YAML 数据驱动的站点结构
-- Rustkyll 构建，Liquid 模板与自定义 permalink 规则
-- scripts/create.py 交互式创建人物/书籍/活动，pandoc 脚本从 DOCX 生成文章草稿
-- make serve 本地开发服务器（localhost:4000）
+- 集合化内容模型：文章、播客、书籍、人物、活动各设独立集合与 permalink
+- 导航、活动、赞助商由 _data YAML 数据驱动
+- make install/make serve 本地构建与开发服务器
+- 辅助脚本支持模板化创建内容与 DOCX 转文章草稿
 
 ## 适用场景
 
-- 为 DataTalks.Club 社区贡献文章、播客或活动内容
-- 维护社区人物目录、赞助商与导航等站点数据
-- 了解以 collections + YAML 数据文件组织的静态站架构
+- 为社区网站投稿文章或播客节目页
+- 维护社区活动日历与人物档案
+- 本地构建预览站点页面改动
 
 ## 场景标签
 
- · 领域:数据科学社区/网站
+`教程课程` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L3: This repository contains the source code and content for datatalks.club, a Rustkyll-built community website for data
-> L9: - Main entities are modeled as collections (`_posts`, `_podcast`, `_books`, `_people`, etc.)
+> L9: This repository contains the source code and content for datatalks.club, a Rustkyll-built community website for data
+> L13: - Static website built with Rustkyll
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 low · 依据 README sha `83b8f7a0fb04` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `edbf473a797b` · [字段定义](../../DATASET.md)*

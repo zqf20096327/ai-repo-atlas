@@ -2,9 +2,9 @@
 
 ⭐ 224 · TeX · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/hqhq1025/ai-course-notes) · [官网](https://hqhq1025.github.io/ai-course-notes/) · 个人维护 · 中文 README
 
-**389 份 AI/LLM 中文讲义合集，支持在线阅读与本地 PDF 编译**
+**AI/LLM 中文讲义合集：398 份 LaTeX 讲义在线阅读与编译**
 
-将公开课视频字幕、slides、访谈与技术文章整理为 389 份中文 LaTeX 讲义，覆盖 Stanford（CS336/CS25/CS224R 等 7 门 169 份）、Berkeley LLM Agents、MIT、KAIST、CMU 课程及 B 站系列、演讲访谈与技术文章笔记。以 LaTeX 为源文稿，由 generate_site.py 自动生成 MkDocs 站点并部署到 GitHub Pages，支持目录导航与全文搜索；PDF 不入库，可 clone 后用 XeLaTeX 双遍编译生成。新讲义默认由 Argon 模型撰写、Codex 复核。完整克隆体积达数 GB，README 提供浅克隆与稀疏 checkout 方案。
+将 Stanford、MIT、KAIST、Berkeley、CMU 公开课视频、访谈与技术文章整理为 398 份中文 LaTeX 讲义，LaTeX 为源文稿，网页由 `.tex` 自动生成 MkDocs 站点并部署到 GitHub Pages，支持目录导航、全文搜索、公式渲染与在线讲义的 LaTeX 源码入口。PDF 不入库，需下载源码后用 XeLaTeX 编译两遍生成。仓库历史体积较大（数 GB），README 给出浅克隆、无 blob 克隆与稀疏 checkout 等按需获取方式。讲义采用 CC BY-NC-SA 4.0 许可，仅供学习研究用途。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 389 份 `*-notes.tex` 中文讲义，覆盖 11 类来源
-- LaTeX 源稿自动生成 MkDocs 在线阅读站（全文搜索、公式渲染）
-- 本地 XeLaTeX 双遍编译即可生成 PDF，仓库不存 PDF
-- 提供浅克隆/无 blob/稀疏 checkout 按需下载方案
+- 398 份中文讲义覆盖 8 门 Stanford 课程、Berkeley LLM Agents 系列等
+- LaTeX 为源文稿，在线站点由 `.tex` 自动生成并部署 GitHub Pages
+- 提供浅克隆、无 blob 克隆与稀疏 checkout 等按需获取方式
+- 访谈系列 PDF 托管于 GitHub Release 提供下载
 
 ## 适用场景
 
-- 系统学习 LLM、Agent、RL 等方向的中文课程讲义
-- 按推荐阅读路线入门 Transformer 与语言模型
-- 只下载某一门课的讲义并本地编译 PDF
+- 在线阅读 Stanford CS336、CS25 等 AI 课程的中文讲义
+- 按学习路线入门 LLM、RLHF 与 Agent 相关主题
+- 克隆某一门课目录后本地用 XeLaTeX 编译 PDF
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L3: 389 份 AI / LLM 中文讲义，支持在线阅读、LaTeX 源码查看与本地 PDF 编译
-> L85: |合计|389|统计口径：仓库内 `*-notes.tex` 讲义源文件|
+> L3: 398 份 AI / LLM 中文讲义，支持在线阅读、LaTeX 源码查看与本地 PDF 编译
+> L19: - **LaTeX 为源文稿**：仓库保留 `*-notes.tex` 和配套图片，网页由 `.tex` 自动生成；讲义 PDF 可在本地编译，不重复存入 Git。
+> L86: |合计|398|统计口径：仓库内 `*-notes.tex` 讲义源文件|
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `a49ca267cd05` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `2ca3f1e72934` · [字段定义](../../DATASET.md)*

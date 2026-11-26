@@ -2,9 +2,9 @@
 
 ⭐ 2,336 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tinyfish-io/tinyfish-cookbook) · [官网](https://tinyfish.ai) · 组织维护
 
-**基于 TinyFish web agent 的示例应用与 recipes 集合**
+**面向开发者的 TinyFish Web Agent 示例与配方集**
 
-TinyFish 官方维护的 cookbook 仓库，收录基于其 web agent 平台构建的示例应用与 recipes：平台提供 Search、Fetch、Agent、Browser 四个端点，分别对应结构化搜索、URL 转 markdown/JSON、自然语言多步浏览器自动化与托管云浏览器；Search 与 Fetch 端点免费。仓库提供 REST API、MCP Server、CLI、Agent Skill、Python/TypeScript SDK 等接入方式，并按购物、旅行、研究、教育、开发者工具、金融等类别组织数十个独立 recipe 项目，含 n8n 工作流示例。
+基于 TinyFish Web Agent 服务构建的示例与配方集合，每个配方为独立项目，按购物比价、旅行住宿、市场研究、教育发现、开发者工具、金融、生活健康等类别组织，并收录黑客松与赏金挑战的获奖作品。仓库同时展示 TinyFish 的四种使用方式：REST API、MCP Server、CLI 与 Agent Skill 安装，并提供 Python/TypeScript SDK 安装命令。Search 与 Fetch 端点免费，Agent 与 Browser 端点按量计费；配方依赖 TinyFish API key 运行。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ TinyFish 官方维护的 cookbook 仓库，收录基于其 web agent 平台构�
 
 ## 能力要点
 
-- Search 与 Fetch 端点免费，返回 rank-stable 的 JSON 结果
-- Agent 端点接收 URL + 自然语言目标，返回结构化 JSON
-- 提供 REST API、MCP Server、CLI、Agent Skill、Python/TypeScript SDK 多种接入方式
-- 数十个按类别组织的独立 recipe 项目，含 n8n 工作流
+- 按类别组织的数十个独立配方项目，多数附在线 Demo
+- 四种接入方式：REST API、MCP Server、CLI、Agent Skill
+- 提供 Python 与 TypeScript SDK（Search/Fetch/Browser/Agent/Vault 全覆盖）
+- 附带 n8n 预构建工作流 JSON 可直接导入
 
 ## 适用场景
 
-- 为 agent 接入实时网页搜索与页面读取能力
-- 通过示例学习如何把无 API 的网站转为可编程数据源
-- 用 MCP Server 在 Claude Code、Cursor 等客户端中调用 web agent
-- 参考 recipe 构建比价、聚合、监控类自动化应用
+- 学习如何用 TinyFish 把无 API 的网站变成可编程数据源
+- 参考现成配方构建比价、招标监控、竞品分析等 Web 自动化应用
+- 在 Claude Code/Cursor 等 MCP 客户端中接入 TinyFish 服务
+- 用 n8n 工作流定时抓取网站并推送摘要
 
 ## 场景标签
 
-`浏览器自动化` `网页抓取` `教程课程` · 领域:效率与自动化
+`浏览器自动化` `工作流自动化` `编码 Agent` `金融量化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L22: Welcome to the **TinyFish Cookbook!** A growing collection of recipes, demos, and automations built on TinyFish — t
-> L28: TinyFish gives you four endpoints, layered from lightning-fast retrieval to fully managed browser automation. **Sea
+> L114: ## The Recipes
 > L116: Each folder is a standalone project. Categorized below by what they do, not what's under the hood.
 
 ## 星数曲线
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `773b4ac022d0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d49db2a13924` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 184 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lab-emi/OpenDPD) · [官网](https://www.tudemi.com) · 组织维护
 
-**PyTorch 功放建模与数字预失真端到端学习框架**
+**面向射频工程师的功放建模与数字预失真训练框架**
 
-代尔夫特理工大学 EMI 实验室开发的 PyTorch 框架，面向射频功放（PA）行为建模与数字预失真（DPD）：生成或导入 I/Q 数据、训练 PA 行为模型、在其前级训练预失真器并导出预失真信号。提供浏览器/本地 Studio（uv 安装 GUI）、headless CLI 与 Python API 三种使用方式，共享同一训练核心。Studio 2.3 起含 DPD Arena 基准（冻结 TRes-GRU PA 上比较 EVM/ACLR/复杂度）。明确说明经 PA 模型评估的 DPD 结果是仿真，实测需物理 PA 测量。
+由 TU Delft EMI 实验室开发的 PyTorch 框架，覆盖功率放大器（PA）行为建模与数字预失真（DPD）训练全流程：生成或导入 I/Q 数据、训练 PA 行为模型、级联训练预失真器、导出预失真 I/Q 信号供实测。提供三种入口——浏览器版/本地版 OpenDPD Studio（pywebview 图形界面）、无头 CLI、Python API，共享同一训练核心；另设 DPD Arena 基准，以冻结 PA 模型对 250–2,000 参数量级的 DPD 配置按 EVM、ACLR 与复杂度 FoM 排名。文档强调经 PA 模型评估的 DPD 结果属于仿真，需实测验证线性化性能。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- PA 建模→DPD 训练→测试导出的四步工作流
-- Studio（浏览器/本地）、CLI、Python API 共用同一训练核心
-- DPD Arena 基准：冻结 TRes-GRU PA 上 250-2,000 参数扫描与 Pareto 图
-- 支持自建数据集、自选 PyTorch 后端（CUDA/Apple MPS/CPU 自适应）
+- PA 建模→DPD 训练→测试导出的四步工作流，支持实测 I/Q 数据导入
+- 浏览器 Studio、CLI 与 Python API 三种入口共用同一训练核心
+- DPD Arena 基准：冻结 TRes-GRU PA 模型上的参数量-性能 Pareto 对比
+- uv 自动按平台/驱动选择 PyTorch 后端，优先 CUDA 或 Apple MPS
 
 ## 适用场景
 
-- 用实测或仿真 I/Q 数据训练功放行为模型
-- 在训练好的 PA 模型前级设计并评估数字预失真器
-- 导出预失真信号用于物理功放测量实验
-- 复现论文结果或比较不同 DPD 模型结构
+- 用实测功放数据训练行为模型并仿真线性化效果
+- 为功放生成可导出用于实测的预失真 I/Q 信号
+- 在 DPD Arena 上对比自己的 DPD 网络配置并复现论文结果
 
 ## 场景标签
 
- · 领域:射频/无线通信信号处理
+`模型训练` · 领域:训练与推理
 
 ## 证据(README 行号)
 
 > L19: OpenDPD is a PyTorch framework for power amplifier (PA) modeling and digital predistortion (DPD), developed by the 
-> L77: |2. Model the PA|Train a behavioral model, then test it on held-out data.|How closely it predicts the dataset respo
+> L61: Studio 2.3 adds **DPD Arena** with Rank, Submit and Rules pages. The benchmark uses only **APA_200MHz_b**. Compare 
+> L76: |1. Make or select data|Generate x → configure a Virtual PA → simulate y → create a paired dataset; or open existin
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c4ff1199d0cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `74e294d8fc7b` · [字段定义](../../DATASET.md)*

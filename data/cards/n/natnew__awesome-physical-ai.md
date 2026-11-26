@@ -2,9 +2,9 @@
 
 ⭐ 179 · MDX · MIT · 推送 2026-11-21 · [GitHub](https://github.com/natnew/awesome-physical-ai) · [官网](https://natnew.github.io/awesome-physical-ai/) · 个人维护
 
-**Physical AI / 具身智能资源策展清单（235 条，14 类）**
+**Physical AI / 具身智能学习资源策展清单（258 条，14 类）**
 
-面向机器人与具身智能研究者的工程向资源清单：收录模拟器、数据集、基准测试、评测方法论、机器人基础模型（VLA/通用策略）、世界模型等 14 个类别的 235 个条目，每条附一句定位说明。提供快速上手路径（Gymnasium→MuJoCo→LeRobot→OpenVLA）与按角色选择路线的导航，并以 GitHub Pages 形式提供在线文档站点。内容定位为从基础到部署的学习与选型参考。
+面向机器人学与机器学习交叉领域的资源清单，收录 258 个条目并按 14 个规范类别组织，覆盖模拟器、数据集、基准、评估方法、机器人基础模型与 VLA 模型等。为研究者与从业者优先提供学习路径：从 Gymnasium 强化学习入门、MuJoCo 模拟、LeRobot 工作流到 OpenVLA 前沿模型，并按基础、机器人学习、基础模型、评估与安全、硬件五条路线分流。另有 GitHub Pages 在线文档站点，接受 PR 贡献。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 14 个类别组织 235 个条目，含模拟器、数据集、基准、VLA 模型
-- 提供五步快速上手路径（Gymnasium/MuJoCo/LeRobot/OpenVLA）
-- 按 Foundations/Robot Learning/Foundation Models 等路线导航
-- 提供 GitHub Pages 在线文档站点
+- 258 个条目按 14 个规范类别组织，含模拟器/数据集/基准/评估/基础模型
+- 提供零基础快速入门路径（Gymnasium→MuJoCo→LeRobot→OpenVLA）
+- 附 GitHub Pages 在线文档站点并接受社区 PR
+- 条目附简短事实性说明，如数据规模与出处
 
 ## 适用场景
 
-- 入门具身智能时按路径循序渐进学习
-- 为机器人项目选择模拟器、数据集与评测基准
-- 调研机器人基础模型（VLA/通用策略）领域的资源
+- 入门 Physical AI 时按路径系统学习模拟与机器人学习
+- 查找机器人策略训练可用的大规模数据集与基准
+- 调研 VLA 模型与通用机器人策略的开源实现
+- 技术选型时浏览模拟器与评估工具选项
 
 ## 场景标签
 
@@ -38,7 +39,8 @@
 ## 证据(README 行号)
 
 > L10: Physical AI and embodied AI bring large-scale machine learning to robotics — agents that perceive, reason, and act 
-> L22:  Last updated: 2026-10-18 &middot; 235 entries across 14 canonical categories
+> L20:  Last updated: 2026-11-12 &middot; 258 entries across 14 canonical categories
+> L59: ## Contents
 
 ## 星数曲线
 
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f1776dc4f1a4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `34c01cc04e8b` · [字段定义](../../DATASET.md)*

@@ -4,7 +4,7 @@
 
 **面向 SOC/DFIR 分析师的 PCAP 威胁狩猎工作台**
 
-以 Zeek、Tshark、PyShark 三引擎解析 PCAP 的威胁狩猎工作台：提供 React 前端工作台，覆盖地理流量地图、C2/beacon 检测、JA3 指纹、数据外泄检测、MITRE ATT&CK 假设映射、VirusTotal/GreyNoise 等 OSINT 富化、IOC 三层评分与跨指标贝叶斯相关性合成、多文件批处理与案件管理。LLM 为可选报告生成模块，支持 LM Studio 本地、OpenAI 与 Anthropic 云端后端，9 种语言报告；LLM 不可用时确定性证据仍可用。通过 Docker 构建 React 工作台并保留 Python 分析引擎，也支持源码运行。
+把原始 PCAP 转为可操作的威胁情报的加密流量分析工作台：内置 Zeek、tshark、PyShark 十阶段分析管线，提供 C2 beacon 检测、JA3 指纹、DNS 隧道与数据外泄检测、IOC 三层评分与贝叶斯独立性关联聚合、MITRE ATT&CK 假设映射，以及 VirusTotal/AbuseIPDB/GreyNoise/OTX/Shodan 情报富化。v3 为 React 工作台，含地理流量图、流量回放、案件管理与 9 语言报告。LLM 报告为可选功能，本地 LM Studio 或云端 OpenAI/Anthropic 均可，LLM 不可用时确定性证据视图仍完整可用。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- Zeek + Tshark + PyShark 多引擎解析与并发流水线
-- IOC 三层信号评分与贝叶斯跨指标相关性合成
-- MITRE ATT&CK 假设映射与 Navigator 层导出
-- 可选 LLM 报告：LM Studio 本地 / OpenAI / Anthropic，9 种语言
+- Zeek + tshark + PyShark 十阶段管线，DNS/TLS/beaconing/HTTP carving 四路并发
+- 三层 IOC 评分（OSINT 确证/行为/上下文）与 1−Π(1−wᵢsᵢ) 关联公式
+- MITRE ATT&CK 假设工作区，可导出 Navigator layers
+- 多后端 LLM 报告：LM Studio 本地分段生成、OpenAI/Anthropic 全上下文单次生成
 
 ## 适用场景
 
-- 对网络抓包做 C2、beacon 与数据外泄检测
-- 将网络证据映射到 MITRE ATT&CK 假设并记录分析员判定
-- 批量分析多份 PCAP 并以案件形式长期跟踪调查
-- 在隔离环境中用本地 LLM 生成威胁报告
+- 上传 PCAP 批量检测 C2 回连、信标与数据外泄行为
+- 对 IOC 做 VirusTotal/AbuseIPDB 等多源情报富化与分级
+- 把网络证据映射为 ATT&CK 假设并导出报告与 Navigator 层
+- 跨会话持久化管理事件调查案件与证据清单
 
 ## 场景标签
 
@@ -38,8 +38,9 @@
 
 ## 证据(README 行号)
 
+> L10: **PCAP Hunter** is an AI-enhanced threat hunting workbench that bridges manual packet analysis and automated securi
 > L12: The latest workbench keeps the full packet-analysis depth of **Zeek**, **Tshark**, and **PyShark**, then adds an an
-> L140: - **LLM-Optional Evidence View** — parsed packet, flow, IOC, correlation, stage, and warning evidence remains visi
+> L146: - **LLM-Optional Evidence View** — parsed packet, flow, IOC, correlation, stage, and warning evidence remains visi
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `42ca6b2db27a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7d19c6aafd6a` · [字段定义](../../DATASET.md)*

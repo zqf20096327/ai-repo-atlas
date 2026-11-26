@@ -1,10 +1,10 @@
 # termide/termide
 
-⭐ 190 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/termide/termide) · [官网](https://termide.github.io) · 组织维护 · 中文 README
+⭐ 190 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/termide/termide) · [官网](https://termide.github.io) · 组织维护
 
-**一体化终端工作区：编辑器/文件管理器/终端/git/数据库与编码 Agent，单一二进制**
+**面向开发者与服务器的终端一体化工作台，内置编码 Agent**
 
-用 Rust 编写的 TUI 应用，将代码编辑器（LSP、调试器）、双栏文件管理器（SFTP/FTP）、终端、git 面板、数据库查看器、资源监控与编码 Agent 合并在一个零配置静态二进制中，覆盖 Linux/macOS/Windows/Termux。Agent 支持任意 OpenAI 或 Anthropic 兼容端点（含 llama.cpp/Ollama/vLLM 本地运行时），可运行 Claude Code/Codex/Gemini CLI 等外部 Agent；默认不配置模型，其余功能不依赖 AI。提供 Homebrew/AUR/Nix/安装脚本及预编译包。
+单一 Rust 静态二进制实现的终端工作台，集成 LSP 代码编辑器、双窗格文件管理器（SFTP/FTP/FTPS/SMB/NFSv3）、PTY 终端、git 面板、数据库查看器与编码 Agent。Agent 部分默认关闭，需用户自行配置模型端点（OpenAI/Anthropic 兼容接口或本地运行时），支持逐工具权限审批、检查点回退、计划模式、子代理、MCP 服务器与 `--prompt` 无头模式。无遥测，密码经加密保管库存储。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 单一静态二进制，SSH 断线后 --detached 保持工作区运行
-- 编码 Agent：按工具调用授权、计划模式、MCP 服务器、headless JSON 输出
-- 双栏文件管理器支持 SFTP/FTP/FTPS、压缩包内浏览、加密密码库
-- 任意 OpenAI/Anthropic 兼容端点接入，含本地 llama.cpp/Ollama/vLLM
+- 编码 Agent 支持任意 OpenAI/Anthropic 兼容端点与本地运行时（llama.cpp/Ollama/vLLM）
+- 支持 Claude Code/Codex/Gemini CLI 经 Agent Client Protocol 接入同一面板
+- 纯 Rust 静态二进制，无运行时依赖，可在 Alpine、distroless 容器与 Termux 运行
+- detached 实例使 SSH 断开后编辑器、shell 与任务保持运行
 
 ## 适用场景
 
-- 在服务器或家用主机上用单一 TUI 完成编码、文件与运维操作
-- SSH 环境断线后恢复编辑器与后台任务
-- 接入本地或托管模型让 Agent 修改代码，可与其他 CLI Agent 并用
+- 在服务器上通过 SSH 使用一体化编辑器与文件管理器
+- 在终端内让模型代为修改代码并逐步审批
+- 在不可靠网络下保持远程开发工作区不中断
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L33: |Built-in Coding Agent (local or hosted models)|✓|✗|plugin|✗|✗|
-> L120: **Do I have to use the AI agent?** No. No provider or model is set by default, so the agent does nothing and sends
+> L9: An all-in-one terminal workspace for your workstation and your servers: code editor with LSP, dual-pane file manager
+> L121: **Do I have to use the AI agent?** No. No provider or model is set by default, so the agent does nothing and sends
+> L76: - **Bring your own model** - Any OpenAI- or Anthropic-compatible endpoint: llama.cpp, Ollama, vLLM, omlx on your ma
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `5be094e05a65` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6a4f9b7b9d15` · [字段定义](../../DATASET.md)*

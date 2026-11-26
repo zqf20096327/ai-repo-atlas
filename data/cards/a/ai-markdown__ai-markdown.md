@@ -1,10 +1,10 @@
 # ai-markdown/ai-markdown
 
-⭐ 170 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ai-markdown/ai-markdown) · [官网](https://ai-markdown.github.io/) · 组织维护
+⭐ 170 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ai-markdown/ai-markdown) · [官网](https://ai-markdown.github.io/) · 组织维护 · 中文 README
 
-**面向 AI 聊天应用的流式 Markdown 渲染库（React/Vue）**
+**AI 应用中的流式 Markdown 渲染库（React/Vue）**
 
-为 AI 应用渲染流式 Markdown 回答的组件库：单一组件接收完整当前 Markdown 字符串，引擎在追加输入且语法允许时复用已验证前缀做增量解析，否则全量解析；支持 GFM、KaTeX 数学（含货币符号与括号定界符预处理）、Mermaid 图、CJK 感知解析与 pangu 间距、跨块脚注/引用共享、打字机式平滑流式展示与双门 XSS 防护。React 与 Vue 适配器共享 @ai-markdown/core 与 engine 包，另有 React Mantine 集成。限制：不支持 React 18（需 React 19）与 React Native。
+面向 AI 聊天/问答界面的前端 Markdown 渲染组件库，由 7 个 npm 包组成：框架无关的 core/engine 层负责解析、预处理与增量算法，上层提供 React、Vue 3.5 及 React+Mantine 适配器。针对流式回答的中间状态做了前缀复用解析、块级 React 元素缓存、跨 chunk 的脚注与链接引用共享，并内置 KaTeX 数学、GFM、Mermaid 图表、代码高亮与 CJK 排版（pangu 间距）支持。仅支持 React 19，不支持 React Native。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 增量流式解析：追加输入时复用已验证前缀，块级记忆化复用 React 元素
-- KaTeX 数学预处理（货币 $、\[…\] 定界符、mhchem）与 CJK 感知解析/pangu 间距
-- <AIMarkdownDocuments> 跨块共享脚注与链接/图片定义
-- 双门 XSS 防护（urlTransform + rehype-sanitize）与类型化自定义组件
+- 流式输入的前缀复用增量解析与块级 React 元素缓存
+- 跨 chunk 文档协调：脚注/链接/图片引用按 documentId 共享
+- 内置 KaTeX 数学预处理（货币 $、\[…\] 定界符、mhchem）
+- CJK 感知解析与可选 pangu 中西文自动间距
 
 ## 适用场景
 
-- AI 聊天界面流式渲染含数学公式与表格的回答
-- 中文/中日混排 AI 回答的排版与间距处理
-- 多适配器共享 core/engine 的统一渲染方案
+- 为 LLM 聊天界面渲染逐 token 输出的 Markdown 回答
+- 渲染含 LaTeX 公式与 Mermaid 图表的模型回复
+- 中文场景下渲染 CJK 与半角字符混排的模型输出
 
 ## 场景标签
 
- · 领域:AI 应用前端/Markdown 渲染
+ · 领域:前端/UI 组件库（AI 应用）
 
 ## 证据(README 行号)
 
 > L17: > React and Vue Markdown rendering for AI responses: GFM, KaTeX math, CJK-aware parsing, incremental streaming, and
-> L27: - **Accumulated streaming input.** Pass the complete current Markdown string to one component. The engine reuses a 
-> L65: |`@ai-markdown/react`|React renderer, hooks and customizable typography.|@ai-markdown/react stable|@ai-markdown/rea
+> L23: An AI response changes while the user reads it. A fence may be incomplete, a citation definition may arrive after i
+> L33: Choose `@ai-markdown/react` for React rendering or `@ai-markdown/vue` for Vue 3.5 rendering with your own presentat
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `eeb682714823` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `e48e1ff165c9` · [字段定义](../../DATASET.md)*

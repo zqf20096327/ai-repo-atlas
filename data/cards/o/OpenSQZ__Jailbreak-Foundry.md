@@ -2,15 +2,15 @@
 
 ⭐ 176 · Python · 推送 2026-11-11 · [GitHub](https://github.com/OpenSQZ/Jailbreak-Foundry) · 组织维护 · 中文 README
 
-**将越狱论文自动转为可运行攻击并统一评测的基准系统**
+**把越狱研究论文转成可运行攻击模块并统一评测的系统**
 
-面向 AI 安全研究者的越狱攻击复现与评测系统：由 Planner/Coder/Auditor 多智能体工作流（JBF-FORGE）将论文自动翻译为遵循统一契约的攻击模块（平均 28.2 分钟），已复现 30 种攻击、覆盖 10 个受害模型，在 AdvBench/JailbreakBench/HarmBench 数据集上以 GPT-4o 判定的统一协议计算 ASR。共享库 JBF-LIB 提供注册、LLM 适配器与并发执行，攻击特定代码占比 17.5%；另含持续发现新研究的自动化管线。通过 git clone 源码安装，Python 运行。
+面向 AI 安全研究的系统：通过 Planner/Coder/Auditor 多智能体工作流（JBF-FORGE）将越狱论文自动转译为符合 JBF-LIB 契约的可执行攻击模块，并在 JBF-EVAL 统一评测框架下以固定数据集（AdvBench/JailbreakBench/HarmBench）和 GPT-4o judge 评测，覆盖 30 种攻击与 10 个受害模型。支持从 arXiv ID 一键转译、CLI 运行攻击、断点续跑与 ASR 报告生成，配套在线 Leaderboard 与 ICML 2026 论文。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 论文→可运行攻击模块的多智能体自动翻译（平均 28.2 分钟）
-- 30 种攻击 × 10 个受害模型的统一评测框架
-- 复现保真度：30 种攻击平均 ASR 偏差 +0.26pp
-- 支持自定义攻击的自动发现与手动实现两种扩展方式
+- 多智能体论文转译：平均 28.2 分钟将论文转为可运行攻击模块
+- 统一评测协议：30 攻击 × 10 受害模型的标准化 ASR 基准
+- 攻击仅需三个属性即可自动发现注册，约 58% 代码复用共享基础设施
+- 支持从 arXiv ID 自动转译论文为攻击实现
 
 ## 适用场景
 
-- 复现和统一比较越狱攻击在不同模型上的 ASR
-- 把新发表的越狱论文快速转化为可运行的评测模块
-- 跟踪各受害模型对不同攻击机制的鲁棒性差异
+- 将新发表的越狱论文快速转译为可复现的攻击模块
+- 在统一协议下跨模型对比攻击成功率（ASR）
+- 维护随研究前沿演进的动态安全基准
+- 为新攻击或防御机制贡献标准化实现
 
 ## 场景标签
 
-`多智能体` `模型评测` · 领域:Agent 开发
+`多智能体` `模型评测` `工作流自动化` `语音识别` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: A system that translates jailbreak research papers into executable attack modules and evaluates them under a unified
-> L83: Unified evaluation harness for comparable cross-attack and cross-model results:
-> L85: - **Consistent Judging**: GPT-4o judge with standardized rubric
+> L51: - **Standardizes** evaluation across 30 attacks and 10 victim models
+> L72: Multi-agent workflow automating paper-to-code conversion.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `076342dac7d1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `653cd99e63e0` · [字段定义](../../DATASET.md)*

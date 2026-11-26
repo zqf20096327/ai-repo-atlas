@@ -2,9 +2,9 @@
 
 ⭐ 189 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/intel/ros2_openvino_toolkit) · [官网](https://developer.robotics.intel.com) · 组织维护
 
-**将 Intel OpenVINO 集成到 ROS 2 的深度学习视觉推理运行时框架**
+**在 ROS 2 中集成 OpenVINO、在 Intel 硬件上运行视觉推理的工具集**
 
-Intel 维护的 ROS 2 工具与库集合，把 Intel OpenVINO 工具包封装为 ROS 适配的神经网络运行时框架，在 Intel 处理器与加速器上部署计算机视觉推理。内置 Pipeline/Pipeline Manager/参数管理器机制，通过 yaml 配置组装推理管线；支持 9 类推理功能（目标检测、人脸检测、年龄性别/情绪识别、头姿估计、分割、行人重识别、车辆属性与车牌检测）。输入支持 USB 相机、RealSense、ROS 图像话题、图片/视频文件与 RTSP 流；结果以 ROS Topic、Service、RViz 与 OpenCV 窗口输出。限定 Ubuntu 与指定 ROS 2/OpenVINO 版本组合，硬件要求 Intel 处理器平台。
+该仓库提供一组工具与库，将 Intel OpenVINO Toolkit 接入 ROS 2，用于在 Intel 硬件上部署深度学习视觉模型。支持目标检测、人脸检测、年龄性别识别、姿态估计、语义/实例分割、深度估计、行人重识别等 14 类推理功能，输入可来自 USB 相机、ROS 图像话题、图像/视频文件或 RTSP 流，结果以 ROS Topic/Service 及 RViz、CV 窗口输出。依赖 Ubuntu 与对应版本的 ROS 2 发行版及 OpenVINO，通过 Intel APT 安装。
 
 ## 筛选速览
 
@@ -13,32 +13,32 @@ Intel 维护的 ROS 2 工具与库集合，把 Intel OpenVINO 工具包封装为
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- Pipeline 生命周期管理与 yaml 配置驱动的推理管线组装
-- 9 类视觉推理功能，覆盖人脸/情绪/年龄性别/头姿/分割/行人重识别/车辆与车牌
-- 6 种图像输入源：USB 相机、RealSense、ROS 话题、图片、视频、RTSP
-- 结果输出支持 ROS Topic、Service 同步查询、RViz 与 OpenCV 窗口
+- 14 类视觉推理功能，含 OBB 旋转框检测与深度估计
+- 多种输入源：USB 相机、ROS 图像话题、图像/视频文件、RTSP
+- 基于 .yaml 配置的 pipeline 管理与生命周期控制
+- 支持 Intel NPU 加速（Core Ultra 处理器）
 
 ## 适用场景
 
-- 在 ROS 2 机器人系统中接入 OpenVINO 做实时视觉推理
-- 通过 ROS Service 同步获取单帧图像的检测结果
-- 在 Intel 平台上部署人脸/行人/车辆分析管线并在 RViz 可视化
+- 在 Intel 平台的机器人上运行目标检测与人脸识别视觉管线
+- 把相机或 RTSP 视频流接入 ROS 2 推理节点并发布检测结果话题
+- 利用 OpenVINO 将 Caffe/TensorFlow/ONNX 等训练模型转换部署到机器人视觉应用
 
 ## 场景标签
 
-`人脸识别` `目标检测` `推理引擎` · 领域:感知与多模态
+`人脸识别` `目标检测` `图像视频处理` `推理引擎` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L44: - **Intel® OpenVINO™ toolkit** provides a ROS-adapted runtime framework of neural network which quickly deploys app
-> L52: - **ROS OpenVINO Runtime Framework** is the main body of this repo. It provides key logic implementation for pipeli
+> L52: - **Intel® OpenVINO™ toolkit** provides a ROS-adapted runtime framework of neural network which quickly deploys app
+> L60: - **ROS OpenVINO Runtime Framework** is the main body of this repo. It provides key logic implementation for pipeli
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `8e9a354e190c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `48da26b851dd` · [字段定义](../../DATASET.md)*

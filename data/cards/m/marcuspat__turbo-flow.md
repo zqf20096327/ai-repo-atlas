@@ -1,10 +1,10 @@
 # marcuspat/turbo-flow
 
-⭐ 184 · Shell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/marcuspat/turbo-flow) · [官网](https://www.turboflow.online/) · 组织维护
+⭐ 184 · Shell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/marcuspat/turbo-flow) · [官网](https://www.turboflow.online/) · 个人维护
 
-**面向 AI 编写代码的治理套件：跨模型审查门禁与规则层**
+**给 AI 写的代码加跨模型审查门禁与治理规则的开发工具包**
 
-rig-lite 是一个仅依赖 bash 的可移植治理工具包，不捆绑任何 agent 或编排器，可放入任意仓库。核心是 gate.sh 跨模型审查门禁：先跑确定性检查，再由与构建者不同模型家族的审查者（Claude Code / Codex CLI）返回 APPROVED/REVISE，fail-closed 且从不自动合并；配套 tf 命令行、protect.sh 分支保护、git 版本化记忆、密钥加密、token 用量仪表盘与 9 个定时任务。给在仓库中运行多个 AI 编码工具并需要合并前审查的团队使用。v5 已移除早期版本的编排栈。
+一个打包为可移植工具包（rig-lite）的 AI 代码治理层：先运行确定性检查，再由不同模型家族的 reviewer 给出 fail-closed 的 APPROVED/REVISE 判定，判定写入本地 JSONL 日志并可发布为 GitHub PR 评论与必需状态检查。附带 git 版本化的 memory 模式、加密密钥管理、worktree 隔离、token 用量面板与 9 个后台自动化任务。仅依赖 bash，不自带 harness，适配任何读取 AGENTS.md 并能运行 bash 的编码代理；v5.2 起移除了编排栈，v1–4 曾是围绕 Claude Code 的代理开发环境。
 
 ## 筛选速览
 
@@ -16,20 +16,20 @@ rig-lite 是一个仅依赖 bash 的可移植治理工具包，不捆绑任何 a
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- gate.sh 跨模型审查门禁：确定性检查 + 异家族审查者，fail-closed，从不合并
-- protect.sh 将门禁判定设为 GitHub 必需状态检查
-- 仅依赖 bash，无新依赖，init-repo.sh 十分钟接入任意仓库
-- tf 统一命令：gate/test/status/wt/secrets/tokens/digest 等
+- gate.sh 跨模型审查门禁：拒绝同家族审查、判定钉住具体 SHA、轮次上限后交人工
+- protect.sh 将门禁判定设为 GitHub 分支保护的必需状态检查
+- tf 单命令入口：gate/test/status/tokens/digest 等子命令
+- git 版本化 memory 模式与加密密钥管理（Keychain/libsecret/age）
 
 ## 适用场景
 
-- 在 PR 合并前用不同模型家族交叉审查 AI 写的代码
-- 多 agent 并行写作时用隔离 worktree 与 git 版本化记忆管理状态
-- 通过分支保护把审查门禁变成强制规则
+- AI 代理生成的 PR 在合并前必须通过跨模型审查
+- 团队用 JSONL 日志与 digest 跟踪代理产出与仓库健康
+- 多代理并行开发时用 worktree 隔离各写入者
 
 ## 场景标签
 
@@ -37,8 +37,8 @@ rig-lite 是一个仅依赖 bash 的可移植治理工具包，不捆绑任何 a
 
 ## 证据(README 行号)
 
-> L6: > One product lives here: `rig-lite/` — a portable governance kit. It ships no harness, installs nothing, and depend
-> L47: |`gate.sh`|a cross-model review gate — deterministic checks first (they're free), then a reviewer from a **differen
+> L10: > The rules layer, packaged as a kit you drop into any repo: `rig-lite/` — a portable governance kit. It ships no h
+> L20: Turbo Flow bundles no agent and no orchestrator. It names harnesses by **role**, and works with any tool that reads
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `2b8756cc04d7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `ae7d37eeb571` · [字段定义](../../DATASET.md)*

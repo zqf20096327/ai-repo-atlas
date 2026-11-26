@@ -2,9 +2,9 @@
 
 ⭐ 279 · 推送 2026-11-25 · [GitHub](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) · 个人维护
 
-**面向网络安全从业者的 AI 应用与论文整理清单**
+**网络安全领域 AI 应用与论文的策展清单**
 
-一份按网络安全领域组织的 AI 资源清单，覆盖网络流量分析与入侵检测、终端反恶意软件、应用层 WAF/代码分析、用户行为分析（UBA）、进程行为反欺诈五个技术层，并按 Gartner PPDR 模型的预测/预防/检测/响应/监控五类任务组织内容。各章节给出回归/分类/聚类等机器学习任务示例，并罗列相关研究论文、书籍与综述；另收录行为安全决策模型、LLM 应用防火墙与 AI 安全 Agent 等开源项目条目。
+按 PPDR 任务维度（预测/预防/检测/响应/监控）与技术层维度（网络、终端、应用、用户、进程行为）组织的网络安全 AI 资源清单。每个层级列出 ML 任务形式（回归/分类/聚类）与对应研究论文、书籍和综述，另收录 AI 防火墙中间件、AI 安全 Agent、渗透测试平台等开源项目的条目，附许可证与功能简介。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按网络/终端/应用/用户/进程五层组织 AI 安全资源
-- 按 PPDR 模型五类任务划分安全目标
-- 收录 LLM 应用防火墙与 AI 安全 Agent 开源项目
-- 附带书籍与综述论文列表
+- 五层技术维度组织：网络/终端/应用/用户/进程行为
+- 每个层级给出回归/分类/聚类的 ML 任务拆解
+- 收录 AI 防火墙与 AI 安全 Agent 等开源项目条目
+- 附书籍与综述论文阅读清单
 
 ## 适用场景
 
-- 查找入侵检测、恶意软件分类方向的研究论文
-- 了解 AI 在各网络安全层面的应用任务类型
-- 寻找 AI 安全 Agent 或 LLM 防火墙相关开源项目
+- 为入侵检测/恶意软件分类等方向查找入门论文
+- 调研各安全层级可用的机器学习方法
+- 查找 AI 安全 Agent 与 LLM 防火墙类开源项目
 
 ## 场景标签
 
@@ -39,7 +39,7 @@
 
 > L1: # Awesome AI for cybersecurity
 > L2: This is a list of AI for cybersecurity, including **network** (network traffic analysis and intrusion detection), **
-> L11: The first dimension is a goal or a task. According to Gartner’s PPDR model, all security tasks can be divided into 
+> L33: And here are some research papers:
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `5adac42beceb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `a3c374a94fc6` · [字段定义](../../DATASET.md)*

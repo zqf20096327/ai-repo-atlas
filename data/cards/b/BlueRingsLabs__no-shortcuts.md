@@ -2,9 +2,9 @@
 
 ⭐ 178 · Python · NOASSERTION · 推送 2026-10-28 · [GitHub](https://github.com/BlueRingsLabs/no-shortcuts) · 个人维护
 
-**免费数据/ML/DL/AI 工程课程：173 课 166 实验长线自学**
+**面向工程师的免费系统化 AI/ML/DL 课程：173 课、166 可运行实验**
 
-由个人作者（Gonzalo L. Romero）编写的免费开放课程，覆盖 Python 与数学基础、数据工程、经典 ML、PyTorch 深度学习、语言模型、AI 工程（RAG/agents/MCP/LLM 安全）、强化学习与 MLOps，共 10 部分 57 模块 173 课。每课包含概念、数学推导、代码与生产失效分析；实验为纯 Python 文件、由 CI 执行并带断言校验，用 git clone 加 pip 安装依赖运行，支持转 notebook。许可为 CC BY-NC 4.0，禁止商用。作者预估完整学习约 1,800 小时。
+由 Gonzalo L. Romero (DeepRat) 编写的免费开源课程，覆盖数据工程、经典机器学习、深度学习、语言模型、AI 工程（RAG/agents/LLM 安全）、强化学习与 MLOps 十大部分，共 173 课、57 模块，附 166 个以普通 Python 文件组织的可运行实验，全部实验经 CI 验证并以断言校验结果。作者将安全（渗透测试视角）贯穿课程：教 RAG 同时教攻击方法。预计约 1,800 小时，目标学员为具备基本编程与高中数学基础、求职数据/AI 工程岗位的学习者，采用 CC BY-NC 4.0 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 173 课、166 个可运行实验，全部由 CI 执行校验
-- 实验为纯 Python 文件带断言，可经 jupytext 转 notebook
-- Part IV 起实验使用冻结课程快照训练小模型并本地缓存
-- 覆盖数据工程到 MLOps 与安全攻防的全链路内容
+- 十大部分 57 模块 173 课，166 个经 CI 验证的可运行实验
+- 实验为普通 Python 文件（# %% 单元），兼容 VS Code/PyCharm/Jupyter
+- 安全视角贯穿：讲解 RAG 与数据管道时同步讲授攻击面
+- COMPETENCIES.md 将五种岗位所需技能映射到具体课程与实验
 
 ## 适用场景
 
-- 系统自学从数据工程到 AI 工程的完整技能栈
-- 按 COMPETENCIES.md 技能映射查漏补缺准备求职
-- 在 CPU 或免费 Colab/Kaggle GPU 上动手做实验
+- 系统学习从数学基础到 LLM 工程、MLOps 的完整知识体系
+- 求职数据工程师/机器学习工程师/AI 工程师岗位前的能力准备
+- 通过带断言的实验以可复现方式学习 PyTorch 与模型训练
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L1: # No Shortcuts
-> L31: Ten parts, 57 modules, 173 lessons. The full catalogue is in SYLLABUS.md.
-> L41: |VI. AI Engineering|LLM APIs, prompting, tools, retrieval, RAG, agents, MCP, evals, LLM security|Building products 
+> L39: Ten parts, 57 modules, 173 lessons. The full catalogue is in SYLLABUS.md.
+> L49: |VI. AI Engineering|LLM APIs, prompting, tools, retrieval, RAG, agents, MCP, evals, LLM security|Building products 
+> L92: This course is free, and it stays free. It's licensed under Creative Commons Attribution-NonCommercial 4.0 (CC BY-N
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-24 · 置信度 mid · 依据 README sha `4afdaba048a3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e3c676d344ae` · [字段定义](../../DATASET.md)*

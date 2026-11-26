@@ -2,9 +2,9 @@
 
 ⭐ 191 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Sibyl-Labs/Sibyl-Memory) · [官网](https://sibyllabs.org/products/memory) · 组织维护
 
-**AI agent 的本地文件式长期记忆插件族（五包）**
+**为 AI agent 提供本地文件式长期记忆的插件族**
 
-面向 agent 开发者的记忆基础设施，发布为五个 PyPI 包：SDK、CLI、MCP server、Hermes 适配器与 LangGraph BaseStore 适配器。底层为单文件 SQLite，五层分级 schema 与 FTS5 全文检索，无向量库、无嵌入模型。需激活账号方可使用记忆工具（代码 MIT，可 fork 移除账号校验），免费版有容量上限，Pro/Elite 解锁自学习、记忆 linter 与自动保存/去膨胀等托管功能。运行于 Linux/macOS/WSL2，不支持原生 Windows。作者声明由 Sibyl Labs LLC 的自主 agent 产出，并在 LongMemEval Oracle 榜单公开结果。
+五个 PyPI 包构成的记忆插件族：本地优先的 SDK（SQLite、五层分级 schema、FTS5 搜索、多租户）、CLI、MCP server、Hermes 适配器和 LangGraph BaseStore，不使用向量库与嵌入。提供会话结束保存（journal/实体/状态/归档）与上下文文件瘦身（debloat）功能。使用需注册账号激活，entitlement 需定期在线续期（离线最长 14 天）；本地引擎为 MIT，fork 可去除账号检查但失去托管端功能。
 
 ## 筛选速览
 
@@ -13,24 +13,23 @@
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | locked-api |  |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- SQLite 单文件 + 五层 schema（HOT/WARM/COLD/REFERENCE/ARCHIVE）+ FTS5 检索，无向量库无嵌入
-- 五个 PyPI 包：client SDK、CLI、MCP server、Hermes 适配、LangGraph BaseStore
-- 会话保存（save）与指令文件去膨胀（debloat）生命周期，含 Claude Code hooks
-- 记忆内容不出本机；账号校验仅传输激活/配额/遥测元数据
+- SQLite + FTS5 五层分级记忆，无向量数据库与嵌入模型
+- MCP server 供 Claude Code/Codex/Cursor/Continue 等接入
+- LangGraph BaseStore 适配器与 Hermes Agent 集成包
+- 会话保存与上下文文件瘦身（save/debloat）流程
 
 ## 适用场景
 
-- 给我的 coding agent 接上跨会话的本地长期记忆
-- 通过 MCP 让 Claude Code / Cursor / Codex 读写记忆
-- 给 LangGraph 多线程 agent 提供持久 BaseStore
-- 自动精简 CLAUDE.md / AGENTS.md 等膨胀的指令文件
+- 给 Claude Code/Codex 等编码 agent 加跨会话长期记忆
+- 为 LangGraph 应用提供持久化跨线程 store
+- 在无向量基础设施的单机上运行 agent 记忆
 
 ## 场景标签
 
@@ -40,6 +39,7 @@
 
 > L27: `sibyl-memory-client` is a local-first agentic memory SDK. SQLite-backed, five-tier hierarchical schema, FTS5 searc
 > L31: The other four packages ride on top: `sibyl-memory-cli` for activation and tier management, `sibyl-memory-hermes` f
+> L44: |`sibyl-memory-mcp`|PyPI|MCP server. Wraps the local SQLite + FTS5 memory engine and exposes it to MCP-compatible a
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6e3d16b68ae1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `cc04fd271a29` · [字段定义](../../DATASET.md)*

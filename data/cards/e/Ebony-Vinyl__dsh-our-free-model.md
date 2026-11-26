@@ -2,9 +2,9 @@
 
 ⭐ 87,074 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Ebony-Vinyl/dsh-our-free-model) · 个人维护 · 中文 README
 
-**dsh 免费模型插件：免 Key 接入免费前沿模型与本地网关**
+**dsh 插件：免登录免 Key 接入免费 LLM 模型车道**
 
-挂在 dsh 宿主上的纯插件，不改内核、零依赖、无构建步骤；无需账号或 API Key 即可使用免费车道模型（来源为 OpenCode Zen 网关与 Kilo 公共网关）。模型清单每次刷新向上游拉取，选择器按出口实测剔除不可用模型；思考强度按档位菜单或 token 预算真实下发。另提供 OpenAI/Anthropic 兼容本地转发端口、用量看板（数据留本机）、十账号渠道接入、聚合渠道（内置 76 家提供商注册表）与降级链路由。EAC 渠道需 GitHub 登录并 star 仓库，仅桌面端可用。
+面向 dsh 宿主的纯插件，不改内核、零依赖、无构建步骤，挂载后无需账号或 API Key 即可使用免费车道模型（上游为 OpenCode Zen 网关与 Kilo AI 公共网关）。提供模型选择器与可用性探测、思考强度下发、用量看板、本地 OpenAI 兼容/Anthropic 兼容转发端口、聚合渠道（内置 77 家提供商注册表）、降级链路由与插件中心。注意 npm 裸名包非本仓库发布，官方渠道为带 scope 的包与本地 tarball。
 
 ## 筛选速览
 
@@ -27,17 +27,16 @@
 
 ## 能力要点
 
-- 免登录免 Key 使用免费车道模型，清单跟随上游实时刷新
-- 本地网关提供 OpenAI 与 Anthropic 兼容端点，供其它工具调用
-- 聚合渠道内置 76 家提供商注册表，Key 只写本机 0600 文件
-- 用量看板、省 Token 压缩与命名降级链路由均在本机完成
+- 免登录、免注册、免 API Key 的免费模型车道
+- 内置 77 家提供商注册表的聚合渠道，写入 Key 即并入模型清单
+- 本地转发端口提供 OpenAI 兼容与 Anthropic 兼容接口
+- 模型清单跟随上游刷新，不可用模型从选择器移除并注明拒因
 
 ## 适用场景
 
-- 在 dsh 里不注册账号直接调用免费前沿模型
-- 给本机其它工具配一个 OpenAI 兼容 base URL 复用同一批模型
-- 把多个第三方端点的 Key 聚合进同一条模型清单统一管理
-- 为关键调用配置降级链以应对配额限制
+- 在 dsh 里直接调用免费前沿模型而不注册任何账号
+- 本机其它工具通过 base URL 调用这些模型
+- 聚合多家 LLM 提供商到同一模型清单统一管理
 
 ## 场景标签
 
@@ -45,9 +44,9 @@
 
 ## 证据(README 行号)
 
-> L26: > 思考强度下发的是真实预算而不是提示词，另附一个 OpenAI 兼容的本地转发端口。
-> L48: - **聚合渠道，自带 Key**——设置页新增一页，把第三方端点接进同一条模型清单：注册表内置 76 家提供商（NVIDIA NIM、OpenRouter、Groq、Cerebras、SambaNova、Gemini、DeepS
-> L51: - **本地网关原生说 Anthropic**——新增 `POST /v1/messages`（流式与非流式，含 thinking / tool_use 块、真实 stop_reason 与流内 error 事件）与 `POST 
+> L24: > 思考强度下发的是真实预算而不是提示词，另附一个 OpenAI 兼容的本地转发端口。
+> L46: - **聚合渠道，自带 Key**——设置页新增一页，把第三方端点接进同一条模型清单：注册表内置 77 家提供商（NVIDIA NIM、OpenRouter、Groq、Cerebras、SambaNova、Gemini、DeepS
+> L49: - **本地网关原生说 Anthropic**——新增 `POST /v1/messages`（流式与非流式，含 thinking / tool_use 块、真实 stop_reason 与流内 error 事件）与 `POST 
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b9e350f27116` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7f59fdd45e01` · [字段定义](../../DATASET.md)*

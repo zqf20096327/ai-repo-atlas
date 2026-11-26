@@ -2,9 +2,9 @@
 
 ⭐ 176 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jupyter-naas/abi) · [官网](https://naas.ai) · 组织维护
 
-**把 LLM 接入组织本体知识图谱的开源 AI 操作系统**
+**开源 AI 操作系统：以本体知识图谱为底座构建企业 agent 系统**
 
-ABI（Agentic Brain Infrastructure）以模块化方式组织 agent、集成连接器、OWL/Turtle 本体、知识图谱管道与工作流，让 LLM 基于组织自有本体与上下文源（知识图谱、向量库、文件系统）进行推理。基础设施各层均为可换适配器（三元组库、向量库、关系库、对象存储、消息总线等，社区版以 Docker 容器提供），基于 BFO 顶层本体并提及对 ISO/IEC 42001 与欧盟 AI Act 合规的支持。提供 Web UI、REST API、CLI 三种界面，自称 Palantir 的开放替代。由 NaasAI、OpenTeams、布法罗大学与 NCOR 协作研发。
+ABI（Agentic Brain Infrastructure）将 LLM 接入组织自身的本体，提供从数据摄取到 UI 的完整栈。核心机制：基于 ISO/IEC 21838-2 BFO 本体的知识图谱、模块化组织（agent/集成/管道/工作流）、可插拔适配器（三端存储、向量库、消息总线等，社区版用 Apache Fuseki/Qdrant/PostgreSQL/NATS，企业可换云服务）、Abi 作为监督 agent 按意图分发到领域 agent。提供 Web UI、REST API 与 CLI。宣称是 Palantir 的开放替代。面向想在自有数据上构建 AI 系统的组织。
 
 ## 筛选速览
 
@@ -20,20 +20,21 @@ ABI（Agentic Brain Infrastructure）以模块化方式组织 agent、集成连�
 
 ## 能力要点
 
-- 模块化架构：agent/集成/本体/管道/工作流打包为模块，config.yaml 单行启用
-- 全栈可换适配器：三元组库、向量库、关系库、存储、消息总线各层均可替换
-- 知识图谱基于 ISO/IEC 21838-2 BFO 顶层本体，数据模型内建可追溯性
-- 提供 Web UI、REST API（每个 agent 一个端点）与终端 CLI
+- 基于 BFO 本体的知识图谱，OWL/Turtle 定义领域实体与关系
+- 每个基础设施关注点抽象为 port + 可插拔 adapter，config.yaml 切换
+- 每个 agent 暴露为 REST 端点，另有 Web UI 与终端 chat
+- abi dev 提供无 Docker 开发运行时（SQLite/Oxigraph 本地替代）
 
 ## 适用场景
 
-- 在自有数据与本体之上构建组织内的 agent 系统
-- 通过 GitHub/Salesforce/LinkedIn/Notion 等集成把外部数据接入知识图谱
-- 自托管替代商业 AI 平台并保留对数据与逻辑的所有权
+- 在组织自有知识图谱上构建可对话的领域 agent
+- 接入 GitHub/Salesforce/LinkedIn 等外部 API 数据做自动化分析
+- 需要可审计、可溯源数据模型的 AI 合规场景
+- 自托管完整 agent 平台或用托管云服务部署
 
 ## 场景标签
 
-`知识图谱` `Agent 框架` · 领域:Agent 开发
+`知识图谱` `工作流自动化` `Agent 框架` `数据分析` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `1a4dc59b74d8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `fa8558d6b300` · [字段定义](../../DATASET.md)*

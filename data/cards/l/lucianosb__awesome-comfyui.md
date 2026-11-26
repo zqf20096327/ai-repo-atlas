@@ -2,9 +2,9 @@
 
 ⭐ 218 · 推送 2026-11-24 · [GitHub](https://github.com/lucianosb/awesome-comfyui) · 个人维护
 
-**ComfyUI 工具与插件策展清单：收录自定义节点、工作流与相关项目**
+**ComfyUI 工具与资源的策展清单**
 
-受 awesome list 形式启发的 ComfyUI 资源聚合清单：组织为官方资源、Colab 笔记本、自定义节点与插件（ComfyUI Manager、WAS Node Suite、Impact Pack、animatediff 等约 24 项）、工作流分享站与模板、基于 ComfyUI 的项目（前端界面、Krita 插件、云工作区）等板块。面向 Stable Diffusion 工作流用户与开发者，用于发现工具与工作流。以 Markdown 清单形式提供，无安装步骤。
+围绕 ComfyUI 生态的精选链接列表，按类别组织：主仓库与官方资源、Google Colab 笔记本、自定义节点与插件（如 ComfyUI Manager、WAS Node Suite、Impact Pack）、工作流模板与分享平台，以及基于 ComfyUI 构建的项目（前端界面、桌面应用、云 GPU 服务、MCP 服务器等）。条目多为名称加一句话说明，不含安装命令；采用 Creative Commons 许可。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按类别组织：主资源/Colab/自定义节点/工作流/相关项目
-- 收录约 24 个自定义节点与插件条目
-- 收录工作流分享站点（Openart、Comfyworkflows 等）与模板
+- 收录自定义节点与插件清单
+- 收录工作流分享与诊断工具
+- 收录基于 ComfyUI 的前端/桌面/云服务项目
 
 ## 适用场景
 
-- 为 ComfyUI 查找自定义节点与插件
-- 发现可复用的 Stable Diffusion 工作流与模板
-- 了解基于 ComfyUI 的界面与项目生态
+- 查找 ComfyUI 的自定义节点与插件
+- 寻找工作流模板与分享平台
+- 了解基于 ComfyUI 构建的周边项目
 
 ## 场景标签
 
@@ -36,8 +36,9 @@
 
 ## 证据(README 行号)
 
-> L1: # awesome-comfyui
 > L2: An awesome and curated list of cool tools for ComfyUI.
+> L9: ## Main ComfyUI Resources
+> L64: ## Workflows
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b57ee90026b5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `058cedf7118e` · [字段定义](../../DATASET.md)*

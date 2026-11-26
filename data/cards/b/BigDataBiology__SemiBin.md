@@ -2,9 +2,9 @@
 
 ⭐ 175 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/BigDataBiology/SemiBin) · [官网](https://semibin.rtfd.io/) · 组织维护
 
-**宏基因组分箱工具：用自监督深度学习从contigs产出MAGs**
+**给微生物组研究者：用深度学习做宏基因组分箱的工具**
 
-面向宏基因组学研究的命令行工具，基于孪生神经网络与自监督对比学习，将组装得到的contigs聚类为宏基因组组装基因组（MAGs），支持短读长与长读长数据（长读长使用集成DBSCAN算法）。输入为contigs文件与BAM比对文件，或strobealign-aemb的丰度信息；支持单样本、共组装与多样本模式，内置12种环境预训练模型（human_gut、ocean等）可直接使用，也可为样本训练新模型（耗时且占磁盘）。
+SemiBin 是一个命令行宏基因组分箱（binning）工具，使用孪生神经网络与自监督对比学习，支持短读长与长读长数据。输入为 contigs（FASTA）与 BAM 比对文件，输出分箱结果、训练的深度学习模型及特征文件。提供单样本、共组装与多样本三种模式，内置 12 种环境预设模型（human_gut/ocean/soil 等），也可自行训练新模型；支持 GPU（CUDA）与 CPU-only 运行，通过 conda/bioconda、pixi 或 pip 源码安装，源码安装需 Bedtools 与 Hmmer 依赖。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 孪生神经网络+自监督对比学习做metagenomic binning
-- 同时支持短读长与长读长（集成DBSCAN算法）
-- 内置12种环境预训练模型，可免训练直接分箱
-- 支持单样本/共组装/多样本三种模式，兼容strobealign-aemb丰度输入
+- 自监督对比学习的宏基因组分箱命令行工具
+- 支持短读长与长读长（长读使用 ensemble DBSCAN 算法）
+- 12 种内置环境预训练模型可选，也可训练并复用自定义模型
+- 支持 strobealign-aemb 丰度信息作为输入
 
 ## 适用场景
 
-- 从宏基因组组装结果中恢复微生物基因组（MAGs）
-- 处理人体肠道、海洋、土壤等环境样本的分箱
-- 长读长测序数据的宏基因组分箱
+- 对人类肠道等环境样本做单样本宏基因组分箱
+- 多样本宏基因组数据的联合分箱
+- 对 Nanopore/PacBio 长读长组装结果做分箱
 
 ## 场景标签
 
- · 领域:生物信息学/宏基因组学
+ · 领域:生物信息学/宏基因组分析
 
 ## 证据(README 行号)
 
 > L9:  SemiBin is a command tool for metagenomic binning with deep learning, handles both short and long reads.
-> L15: > Pan, S.; Zhu, C.; Zhao, XM.; Coelho, LP. A deep siamese neural network improves metagenome-assembled genomes in m
-> L20: > Pan, S.; Zhao, XM; Coelho, LP. SemiBin2: self-supervised contrastive learning leads to better MAGs for short- and
+> L24: A tutorial of running SemiBin from scratch can be found here SemiBin tutorial.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2126ac3ab2d0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `11d82867e855` · [字段定义](../../DATASET.md)*

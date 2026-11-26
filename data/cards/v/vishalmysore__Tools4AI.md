@@ -2,9 +2,9 @@
 
 ⭐ 190 · Java · MIT · 推送 2026-11-08 · [GitHub](https://github.com/vishalmysore/Tools4AI) · 个人维护
 
-**Java 版 Agentic AI 框架：把自然语言转为 Java 方法/REST/Shell 调用**
+**Java Agentic 框架：将自然语言提示映射为 Java 方法/REST/Shell 动作**
 
-100% Java 实现的轻量级 ADK/Agentic 框架，面向企业 Java 应用集成：通过注解扫描既有类/方法，或将自然语言提示路由到 HTTP REST、Java 方法、Shell 脚本与 Swagger API，即所谓 actionble prompts。com.t4a.agent 包以装饰器形式提供记忆、多 agent 编排、ReAct 规划、重试降级、限流、风险审批、审计与指标等组件，支持 OpenAI/Gemini/Anthropic/LocalAI 处理器，无需 Spring。README 含与 Spring AI 的逐项对比表。
+面向 Java 企业的 Agentic 框架：通过注解驱动的类路径扫描与 YAML/JSON 配置，把自然语言提示转换为既有 Java 方法调用、HTTP REST 调用、Swagger/OpenAPI 接口或 Shell 脚本执行，无需 Spring 即可使用。提供 Agent Toolkit 装饰器体系，覆盖记忆（内存/文件持久化）、多 Agent 编排、ReAct 规划、重试与故障转移、令牌桶限流、风险门控人工审批、审计日志与指标观测。定位为对既有 Java 系统做 AI 改造的轻量改造层，单 JAR 发布于 Maven Central。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 注解驱动的提示到 Java 方法/REST/Shell/Swagger 动作路由
-- 装饰器式组件：记忆、多 agent 编排、ReAct 规划、重试与限流
-- 风险分级审批（LOW/MEDIUM/HIGH，多级人工确认）与 JSON 审计日志
-- 支持 OpenAI、Gemini、Anthropic、LocalAI 多种 AIProcessor
+- 提示到动作映射：Java 方法、HTTP REST、Swagger/OpenAPI、Shell 脚本
+- Agent Toolkit 装饰器：记忆、编排、ReAct 规划、限流、重试、审计、指标
+- 风险分级门控：LOW 直接执行，MEDIUM/HIGH 需人工审批，可配置 fail-closed
+- GuardRails、HumanInLoop 及幻觉/偏见/事实检测安全层
 
 ## 适用场景
 
-- 让既有企业 Java 系统通过自然语言被 AI 控制，少改代码
-- 为客服、项目管理等场景构建提示触发业务动作的 agent
-- 需要人工审批与审计追溯的生产级 agent 部署
+- 让既有 Java 企业应用接受自然语言指令并触发对应业务动作
+- 客服场景中由 AI Agent 解析用户请求并调度预约、报销、库存查询等操作
+- 对执行高风险动作的 Agent 强制人工审批与审计留痕
+- 为多 Agent 系统添加限流、重试与监控能力
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `304739424bf7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3cc5797a883e` · [字段定义](../../DATASET.md)*

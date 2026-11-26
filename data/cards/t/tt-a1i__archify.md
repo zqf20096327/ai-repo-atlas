@@ -2,15 +2,15 @@
 
 ⭐ 99,898 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/tt-a1i/archify) · [官网](https://archify.si) · 个人维护 · 中文 README
 
-**面向编码 agent 的交互式图表生成技能**
+**把想法或代码库变成交互式图表的 Agent Skill**
 
-Archify 是一个安装到 AI 编码 agent（Claude Code、Codex CLI、Cursor、OpenCode 等）中的开源技能：用户用自然语言描述想法、计划或仓库，agent 生成可交互的单文件 HTML 图表，支持节点点击、源码链接、路径追踪、主题切换，并可导出 PNG/WebP/JPG 与 PDF。附加能力包括将复杂回答整理为图表式解释页（explainer）、仓库架构诊断（依赖环、耦合、热点）、图表故事视频与 PR/MR 评注（可选 archify-pr 技能）。无需仓库即可从描述生成；查看产物不需要安装 Archify。Apache 2.0 许可，版本 3.3.0。
+一个面向编程 Agent 的 Skill：用户向 Agent（Claude Code、Codex、Cursor、OpenCode 等）描述想法、问题或让其读取代码库，Archify 生成可交互的单文件 HTML 图表或单页答案页。支持 10 种图表类型、4 种风格的 explainer 页、架构诊断（依赖环、耦合模块、复杂度热点，覆盖 JS/TS、Python、Java、Go、Rust、C/C++）、1080p 故事视频导出与 PR/MR 讲解。输出为自包含 HTML，浏览器打开即可交互，无需安装 Archify。Apache 2.0 许可。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -26,27 +26,26 @@ Archify 是一个安装到 AI 编码 agent（Claude Code、Codex CLI、Cursor、
 
 ## 能力要点
 
-- 将想法、计划或仓库生成为自包含的交互式 HTML 图表
-- 仓库架构诊断：依赖环、耦合模块、复杂度热点（支持 JS/TS、Python、Java、Go、Rust、C/C++）
-- 图表可导出 PNG/WebP/JPG/PDF 及 1080p 60fps 故事视频
-- 可在 GitHub PR / GitLab MR 上附加明暗两种图表做变更标注
+- 10 种图表类型与 4 种风格的单页答案（explainer）
+- 架构诊断：依赖环、耦合、复杂度热点，支持 6 类语言，输出离线 HTML
+- 故事视频导出 1080p/60fps（WebM/MP4）与 PR/MR 图上标注
+- 输出为自包含 HTML，查看无需安装
 
 ## 适用场景
 
-- 让 agent 读取仓库生成带源码出处、锚定 commit 的架构图
-- 排查性能问题时让 agent 输出结论优先的单页解释报告
-- 为 PR 评审生成标注变更位置的交互式图示
-- 把旅行计划、学习路线等非代码内容做成可交互页面
+- 让 Agent 读取仓库生成带来源引用的架构图
+- 排查 API 延迟等问题并得到单页诊断报告
+- 为 PR 生成图上标注的变更讲解
+- 把旅行计划等想法做成可交互页面分享
 
 ## 场景标签
 
-`代码生成` `代码审查` · 领域:编码与开发
+`代码审查` `代码生成` · 领域:编码与开发
 
 ## 证据(README 行号)
 
+> L3:  Turn anything you want to understand, plan, or share into an interactive visual.
 > L9:  Start with an idea, a question, or a plan. Describe it to your AI agent, and Archify turns it into an interactive H
-> L26:  Works with Claude Code, Codex, Cursor, and OpenCode
-> L132:  CODE ANALYSIS · Built into the Skill, no extra install
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8764dd05c7df` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c0bb2f1bc160` · [字段定义](../../DATASET.md)*

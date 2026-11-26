@@ -2,9 +2,9 @@
 
 ⭐ 186 · HCL · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/GoogleCloudPlatform/genai-factory) · 组织维护
 
-**面向 GCP 的生成式 AI 基础设施端到端 Terraform 蓝图集**
+**在 GCP 上部署生成式 AI 基础设施的 Terraform 蓝图集**
 
-由 GoogleCloudPlatform 维护的 GenAI 基础设施蓝图合集：以 Terraform（基于 Cloud Foundation Fabric 模块与 FAST 项目模板）在 GCP 上部署生成式 AI 应用，涵盖 Gemini Enterprise Agent Platform、Agent Runtime、Cloud Run 单部署（含自托管 Gemma 3 + Nvidia L4 GPU）、NL2SQL、多种 RAG 组合与 AI 搜索等 10 类工厂。每类分 0-prereqs（项目、服务账号、共享 VPC 网络栈）与 1-apps（平台资源与示例应用）两阶段部署；0-prereqs 为可选，可复用既有网络设施。兼容 Cloud Foundation Fabric v59.2.0 起，master 不保证兼容。
+Google Cloud Platform 提供的一组端到端基础设施蓝图，用 Terraform（借助 Cloud Foundations Fabric 模块）在 GCP 上部署生成式 AI 环境，遵循最小权限与共享 VPC 等安全实践。包含十余个 "Factories" 场景：Gemini Enterprise 平台、Agent Runtime、Cloud Run 部署（含自托管 Gemma 3 / Nvidia L4）、私有化部署 Vertex AI Model Garden 开放模型、NL2SQL、多种 RAG 架构、AI 搜索、Dialogflow CX 等。部署分 0-prereqs（项目/网络/IAM）与 1-apps（应用）两个阶段，可与 Cloud Foundation Fabric FAST 项目工厂配合。面向需要在 GCP 上搭建生成式 AI 基础设施的工程团队。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 10 类工厂蓝图：Agent 平台、Cloud Run、NL2SQL、RAG、AI 搜索等
-- Terraform 两阶段部署，最小权限原则（无默认服务账号、原始角色）
-- 原生共享 VPC、防火墙策略、PGA 等网络组件自动创建，也可复用既有网络
-- 兼容 Cloud Foundation Fabric FAST 项目模板（v59.2.0 起）
+- Terraform 实现的基础设施即代码蓝图，基于 Cloud Foundations Fabric 模块
+- 覆盖 RAG（Cloud SQL/AlloyDB/Vector Search）、NL2SQL、AI 搜索等示例架构
+- 支持通过 Private Service Connect 私有部署 Gemma 3 等开放模型（Nvidia L4）
+- 含 Agent Registry / Agent Gateway 管理 MCP 服务器与 agent 的平台蓝图
 
 ## 适用场景
 
-- 在 GCP 上快速搭好符合安全最佳实践的 GenAI 应用基础设施
-- 部署私有访问 VPC 资源的 Agent Runtime 或自托管 Gemma 3
-- 搭建基于 Cloud Run/CloudSQL/AlloyDB/Vector Search 的 RAG 系统
+- 在 GCP 上快速搭建带安全基线的生成式 AI 平台
+- 部署私有化的开放模型推理服务
+- 搭建 RAG 或自然语言查库（NL2SQL）的基础设施
+- 集中注册与治理 MCP 服务器和 agent 端点
 
 ## 场景标签
 
-`RAG` `数据分析` · 领域:效率与自动化
+ · 领域:云计算/基础设施即代码
 
 ## 证据(README 行号)
 
 > L5: Genai-factory is a collection of **end-to-end blueprints to deploy generative AI infrastructures** in GCP, following
+> L7: - Embraces IaC best practices. Infrastructure is implemented in Terraform, leveraging Terraform resources and Cloud 
 > L19: - Gemini Enterprise Agent Platform - A central place to deploy Gemini Enterprise applications and datastores, and t
 
 ## 星数曲线
@@ -54,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2b0379751c8f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a7035a2d9cb6` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 246 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/feiskyer/codex-settings) · 个人维护 · 中文 README
 
-**Codex CLI 的配置、Profile 与技能合集，支持多模型切换**
+**为 Codex CLI 用户提供开箱即用的多模型配置与技能模板集**
 
-面向 Codex CLI 用户的个人工作台配置仓库：提供根目录 config.toml 默认配置、多个模型提供商 Profile（copilot-gateway/ChatGPT/Azure OpenAI/OpenRouter/LiteLLM+GitHub Copilot），以及 12 个 Skills 覆盖需求梳理、深度调研、图像生成（OpenAI/MiniMax/Gemini）、字幕提取、GitHub Issue/PR 处理等；通过 Chrome DevTools MCP 连接浏览器调试与自动化。安装方式包括 Codex Plugin Marketplace、npx skills add、或直接克隆到 ~/.codex。默认配置采用 approval_policy=never 与 danger-full-access 沙箱，README 明确提示安全风险并给出收紧建议。
+面向 Codex CLI 用户的配置与技能集合，包含多模型切换 Profiles（copilot-gateway/ChatGPT/Azure OpenAI/OpenRouter/LiteLLM）、12 个 Skills（深度调研、图像生成、代码简化、Issue 修复、PR 审查、YouTube 字幕提取等）以及 Chrome DevTools MCP 浏览器自动化配置。支持三种安装方式：Codex Plugin Marketplace、npx skills CLI、克隆到 ~/.codex。默认权限为 approval_policy=never 和 danger-full-access，需注意安全。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 预置 5 类模型提供商 Profile，通过 --profile 切换
-- 12 个 Skills：调研、图像生成、代码简化、GitHub Issue/PR、会话交接等
-- Chrome DevTools MCP 浏览器调试与自动化
-- 支持 Codex Plugin Marketplace 安装与更新脚本
+- 预置 5 种模型接入 Profiles 并支持 --profile 切换
+- 12 个 Skills 覆盖调研、图像生成、GitHub 工作流等场景
+- 通过 LiteLLM 网关桥接 GitHub Copilot 等第三方提供商
+- 提供 codex plugin marketplace 一键安装与更新脚本
 
 ## 适用场景
 
-- 快速搭建可切换多模型的 Codex CLI 环境
-- 为 Codex 添加深度调研、图像生成、浏览器调试等技能
-- 通过 LiteLLM 网关接入 GitHub Copilot、Kimi、DeepSeek 等第三方模型
+- 为 Codex CLI 快速配置多模型切换环境
+- 用深度调研技能生成研究报告
+- 通过 Chrome DevTools MCP 调试网页并执行浏览器自动化
+- 在 Codex 中调用 GPT Image/Gemini/MiniMax 生成图片
 
 ## 场景标签
 
-`图像生成` `浏览器自动化` · 领域:效率与自动化
+`浏览器自动化` `图像生成` `代码审查` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L1: # Codex CLI Skills & Profiles
+> L9: 给 Codex CLI 加上深度调研、图片生成、浏览器调试等能力，配好多模型切换，开箱即用。
 > L17: - **灵活切换模型**：预置 copilot-gateway、ChatGPT、Azure OpenAI、OpenRouter 和 LiteLLM/GitHub Copilot Profiles。
-> L18: - **复用成熟工作流**：通过 Skills 完成需求梳理、深度调研、图像生成、字幕提取和任务交接。
-> L19: - **连接真实开发环境**：通过 Chrome DevTools MCP 调试网页、检查性能并执行浏览器自动化。
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `a00aa68a7f19` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `439a02240170` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 190 · 推送 2026-11-19 · [GitHub](https://github.com/Emory-Melody/awesome-graph-reduction) · [官网](https://arxiv.org/abs/2402.03358) · 组织维护
 
-**图约简（图凝缩/粗化/稀疏化/摘要）论文策展清单，配 IJCAI 2024 综述**
+**图缩减（浓缩/粗化/稀疏化）论文清单，服务 GNN 研究者**
 
-由 Emory Melody 团队维护的图约简（graph reduction）论文聚合清单，作为其 IJCAI 2024 综述《A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation》的补充资源。按 Graph Condensation / Graph Dataset Distillation、Graph Coarsening / Clustering / Summary 等类别组织条目，每条含会议/期刊出处、年份、pdf 链接及代码仓库链接，部分条目标注（APP）应用论文，通过 PR 接受新增条目。清单本身不提供可运行代码。
+IJCAI 2024 综述配套的论文清单，收录图缩减领域论文，按图浓缩/数据集蒸馏、图粗化、图稀疏化、图摘要等类别组织，多数条目附论文链接与代码仓库链接，接受 PR 补充新条目。同时推广作者自己的图缩减 PyTorch 库 GraphSlim。面向从事图神经网络与数据缩减研究的科研人员，本体为文献索引，不含可运行的自身代码或安装方式。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 覆盖图凝缩、图数据集蒸馏、图粗化等方向的论文条目
-- 作为 IJCAI 2024 图约简综述的补充清单
-- 每条含出处、pdf 与代码链接，部分标注应用论文（APP）
+- 按图浓缩、粗化、稀疏化、摘要等子方向分类组织论文条目
+- 多数条目同时提供论文链接与代码仓库链接
+- 配套 IJCAI 2024 综述并提供 BibTeX 引用条目
+- 推荐作者团队的 PyTorch 图缩减库 GraphSlim
 
 ## 适用场景
 
-- 查找图约简各方向的代表性论文与开源代码
-- 配合综述了解图凝缩/粗化领域的研究进展
-- 为相关研究工作寻找可复现的代码实现
+- 调研图浓缩/图数据蒸馏方向的最新论文
+- 为图缩减研究寻找带代码的基线方法
+- 补充完善图缩减相关文献综述
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`科研工具` `精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L5: [IJCAI 2024] This is a curated list of papers about graph reduction including graph condensation, graph coarsening, 
-> L11: imageimageimage[[A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation]](https://
+> L12: [IJCAI 2024] This is a curated list of papers about graph reduction including graph condensation, graph coarsening,
+> L16: This list serves as a complement to the survey below.
 
 ## 星数曲线
 
@@ -53,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `065ac87f9f7a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e9ffeadad547` · [字段定义](../../DATASET.md)*

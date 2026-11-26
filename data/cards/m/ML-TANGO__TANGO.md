@@ -2,9 +2,9 @@
 
 ⭐ 168 · Python · NOASSERTION · 推送 2026-10-29 · [GitHub](https://github.com/ML-TANGO/TANGO) · 组织维护
 
-**无代码神经网络自动生成与部署框架，面向视觉任务**
+**面向新手的无代码神经网络自动生成与部署框架**
 
-TANGO（Target Aware No-code neural network Generation and Operation framework）是为缺乏专业知识的用户提供的一体化机器学习框架：用户准备标注数据集与目标设备后，TANGO 通过 Web 标注工具、基础模型选择（按类别数与 GPU 显存推荐 YOLOv7/v9、ResNet 等）、NAS 与 HPO 自动生成并训练视觉模型（分类/检测/实例分割），随后生成代码、构建容器镜像并部署到云、K8S 或边缘设备。支持多推理引擎转换（ONNX/TFLite/TensorRT/TVM 等）与量化。限制：部分目标（KT cloud、Comma 3X）标注为 in progress。
+TANGO 是一个集成机器学习框架（Target Aware No-code neural network Generation and Operation），面向无专业知识的用户：用户只需准备带标注的数据集并指定目标设备，框架自动完成数据分析、基座模型选择、NAS/HPO 自动生成神经网络、训练、Docker 容器镜像构建并部署到目标设备。组件以容器与微服务架构（MSA）实现，通过 REST API 交互。内置 Web 标注工具、模型/训练可视化；聚焦分类、目标检测、实例分割三类视觉任务；2026 年 1 月为最终官方发布。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ TANGO（Target Aware No-code neural network Generation and Operation framework�
 
 ## 能力要点
 
-- 按类别数与 GPU 显存自动推荐基础模型（YOLOv7/v9、ResNet 系列）
-- NAS + HPO（贝叶斯超参优化、自动 batch、早停、数据增强）自动生成模型
-- 多格式模型导出：pt/onnx/torchscript/TensorFlow/TFLite/TPU，支持 INT8 量化
-- 部署目标覆盖 AWS/GCP/K8S、Jetson 系列、Galaxy 手机、树莓派 5、Odroid 等边缘设备
+- 无代码流程：数据集+目标设备输入，自动生成、训练并部署神经网络
+- 基座模型选择规则表按任务/类别数/GPU 内存推荐 YOLOv7、YOLOv9、ResNet 等
+- AutoNN 提供 NAS、HPO、贝叶斯超参调优、自动导出（pt/onnx/torchscript/tensorflow/TFLite/TPU，支持 INT8 量化）
+- 支持 cloud/K8S/ondevice 多目标部署，含 Jetson、Galaxy、树莓派等设备清单
 
 ## 适用场景
 
-- 没有深度学习经验的用户从标注数据到部署视觉模型的端到端流程
-- 在边缘设备（Jetson、手机、树莓派）上部署自动优化的检测/分类模型
-- 通过 Web GUI 完成数据标注并可视化模型结构与训练进度
+- 不懂代码但想为视觉任务训练并部署模型
+- 把训练好的模型打包成容器部署到边缘设备
+- 需要 Web 标注工具完成图像标注
 
 ## 场景标签
 
-`MLOps` `模型训练` `模型量化` · 领域:训练与推理
+`目标检测` `MLOps` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L11: TANGO (**T**arget **A**ware **N**o-code neural network **G**eneration and **O**peration framework) is code name of 
-> L13: It aims to develop automatic neural network generation and deployment framework that helps novice users to easily d
-> L17: > The TANGO framework aims to help users without specialized knowledge to create and use their own neural network m
+> L17: TANGO (**T**arget **A**ware **N**o-code neural network **G**eneration and **O**peration framework) is code name of 
+> L19: It aims to develop automatic neural network generation and deployment framework that helps novice users to easily d
+> L23: > The TANGO framework aims to help users without specialized knowledge to create and use their own neural network m
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e08455cf9a6a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `06cd0b9d04fe` · [字段定义](../../DATASET.md)*

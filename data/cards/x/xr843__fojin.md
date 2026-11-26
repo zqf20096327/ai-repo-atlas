@@ -2,9 +2,9 @@
 
 ⭐ 363 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/xr843/fojin) · [官网](https://fojin.app) · 个人维护 · 中文 README
 
-**面向佛典研究者的可溯源 AI 问答与跨语种文本平台**
+**面向佛学研究者与信众的佛典数字平台：RAG 问答带引文核验**
 
-聚合 660+ 数据源、10,500+ 佛教文本的平台，核心是以 RAG 驱动的问答助手 XiaoJin：基于 670K+ 嵌入段落检索，支持重排序与跨语种引用抽屉，答案带可点击的【经·卷】引文回链。配套机制包括引用白名单与逐字校验降级等防幻觉守卫、fojin.ai 的逐句经文核查、开放 /api/verify/quote 端点，以及暴露 8 个只读工具的 fojin-mcp 服务器。安装依赖 git clone 加 docker compose，首启需另行导入语料数据。
+聚合 660+ 数据源、11,600+ 部佛典（汉/巴利/藏/梵）的平台，核心功能是以 XiaoJin 助手做基于 66 万+ 嵌入片段的检索增强问答，答案附可点击的《经》卷 N 引文，并有引文白名单与逐字降级等防幻觉机制。另提供三语跨藏对读、知识图谱、全文检索、39 部词典、语录核验 API，以及 fojin-mcp 服务器供 Claude/ChatGPT 等 MCP 客户端调用其语料。部署经 docker compose，文本数据需启动后自行导入，仓库不含语料。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- RAG 问答 XiaoJin：670K+ 段落检索、可点击引文回链、防幻觉守卫
-- 三语跨藏对照阅读（CBETA × SuttaCentral × 84000），LLM 校验的块级对齐
-- 开放 /api/verify/quote 端点与 fojin.ai 逐句经文核查
-- fojin-mcp 服务器提供 8 个只读工具，托管的 mcp.fojin.ai 无需密钥
+- RAG 问答（XiaoJin）：66 万+ 嵌入片段、重排序与根经召回、可点击引文
+- 语录核验：/api/verify/quote 对任意句子判真伪并给字符级 diff
+- 汉/巴利/藏三语跨藏平行对读，4000+ LLM 校验的片段对齐
+- fojin-mcp 服务器（mcp.fojin.ai）提供 9 个只读工具供 MCP 客户端调用
 
 ## 适用场景
 
-- 用自然语言向佛典提问并获得带出处引文的回答
-- 粘贴一段网络流传的'佛陀说…'逐句核查是否出自汉译藏经
-- 跨汉/巴利/藏三语对照研读同一经文段落
-- 让 Claude 等助手通过 MCP 直接调用 FoJin 的引文语料
+- 用自然语言提问并获得可回溯到原典的佛学答案
+- 粘贴一段文章或“佛说”语录，逐句核对是否出自汉译藏经
+- 在同一界面并行比对汉/巴利/藏文本
+- 让 Claude 等 AI 助手通过 MCP 从 FoJin 语料回答佛学问题
 
 ## 场景标签
 
-`RAG` `文档问答` `科研工具` · 领域:知识与检索
+`RAG` `语义搜索` `知识图谱` · 领域:知识与检索
 
 ## 证据(README 行号)
 
+> L5: **AI Q&A grounded in the world's largest open aggregation of Buddhist texts: 600+ sources, 30+ languages, trilingual
 > L7: Ask a question in plain language and FoJin's assistant **"XiaoJin"** answers from the canon itself — Retrieval-Augme
-> L29: **FoJin answers the question for you.** Ask in plain language; XiaoJin retrieves the relevant passages from 660+ so
+> L11: FoJin is built to be **open, cross-canon, verifiable Buddhist knowledge infrastructure** — not just a site to read,
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `ccb2f6386165` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `adc67cad89ab` · [字段定义](../../DATASET.md)*

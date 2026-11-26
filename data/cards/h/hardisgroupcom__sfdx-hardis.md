@@ -2,9 +2,9 @@
 
 ⭐ 441 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/hardisgroupcom/sfdx-hardis) · [官网](https://sfdx-hardis.cloudity.com) · 组织维护
 
-**面向 Salesforce 管理员/开发者的 CLI 与 CI/CD 工具箱**
+**面向 Salesforce 管理员/开发者的 DevOps CLI 工具箱**
 
-Cloudity 出品的 Salesforce CLI 插件与 VS Code 扩展套件，在原生 Salesforce CLI 之上编排命令并提供交互式向导；支持定义完整 CI/CD 流水线、定时元数据备份与 org 监控（配 Grafana）、AI 生成项目文档，以及借助预装编码 agent CLI 的 Docker 镜像做 AI 自动修复。提供三种安装方式：VS Code 扩展、Salesforce CLI 插件、CI/CD Docker 镜像；依赖 Node.js、Git 与 Salesforce CLI，兼容主流 Git 平台与多种 AI 提供商（含 Agentforce）。
+Cloudity 出品的 Salesforce CLI 插件与 VS Code 扩展套件：编排基础命令并提供交互式向导，支持定义完整 CI/CD 流水线、每日元数据备份与 org 监控（含 Grafana 面板）、AI 生成的项目文档。原生兼容主流 Git 平台、消息工具、工单系统与 AI 提供商，并提供免费的 Salesforce DevOps 实操课程与徽章。三种安装方式：VS Code 扩展、Salesforce CLI 插件、CI/CD 用的 Docker 镜像（含预装编码 agent CLI 的变体）。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Cloudity 出品的 Salesforce CLI 插件与 VS Code 扩展套件，在原生 Sal
 
 ## 能力要点
 
-- 三种安装途径：VS Code 扩展、sf plugins 插件、CI/CD Docker 镜像
-- with-agents 镜像预装 Claude Code、Codex、Gemini CLI、GitHub Copilot 用于 AI 自动修复
-- CI/CD 流水线、每日元数据备份与 org 监控（Grafana 集成）
-- AI 生成项目文档与免费 DevOps 课程
+- 提供 CI/CD 流水线定义与每日元数据备份、org 监控（Grafana 面板）
+- AI 生成项目文档，with-agents 镜像预装 Claude/Codex/Gemini/Copilot CLI 支持 AI 自动修复
+- 三种安装路径：VS Code 扩展、sf plugins install、Docker 镜像
+- 附带免费实操课程（27 个实验，3 个等级）与可分享徽章
 
 ## 适用场景
 
-- 为 Salesforce 项目搭建完整的 CI/CD 部署流水线
-- 定时备份 org 元数据并监控配置漂移
+- 为 Salesforce 项目搭建 CI/CD 流水线
+- 每日自动备份 Salesforce 元数据并监控 org 状态
 - 用 AI 生成并维护项目文档
-- 在 CI 中用编码 agent 自动修复部署错误
+- 通过 VS Code 菜单向导替代命令行完成日常管理工作
 
 ## 场景标签
 
-`编码 Agent` · 领域:编码与开发
+ · 领域:DevOps/低代码平台工具链
 
 ## 证据(README 行号)
 
 > L18: Sfdx-hardis is a **CLI and visual productivity tools suite for Salesforce**, by **Cloudity** & friends, natively co
 > L32: - Generate your **Project Documentation** with AI
-> L218: These images include Claude Code, OpenAI Codex, Gemini CLI, and GitHub Copilot pre-installed and are required for 
+> L184: - **With-agents images** (`sfdx-hardis-with-agents`, `sfdx-hardis-ubuntu-with-agents`): Same as standard + coding 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `bbb3099aa54b` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `56ad9f81cc19` · [字段定义](../../DATASET.md)*

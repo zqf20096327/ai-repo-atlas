@@ -2,9 +2,9 @@
 
 ⭐ 90,116 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/heygen-com/hyperframes) · [官网](https://hyperframes.heygen.com) · 组织维护
 
-**开源 AI 视频编辑框架：描述或重制视频生成可逐帧编辑的项目**
+**面向人与 AI agent 的开源视频编辑框架：写 HTML 渲染 MP4**
 
-HeyGen 开源的 HTML/CSS/JavaScript 转确定性 MP4 的视频框架与编辑器（Apache 2.0）。用户描述视频、带入素材或重制已有视频，得到可编辑项目，通过打字或指点让 agent 修改指定元素。三种使用方式：Studio 桌面应用（免费计划，Pro 每月 25 美元含视频/图像/语音/音乐模型与 25,000 credits）、编码 agent 技能（Claude Code/Codex/Cursor 等）、聊天连接器。要求 Node.js 22+ 与 FFmpeg，支持云渲染与 AWS Lambda。
+HeyGen 开源的框架与配套应用：把 HTML、CSS、JavaScript、媒体与可 seek 的动画确定性地渲染为 MP4。提供三种使用方式：免费的 Studio 桌面应用（描述需求或导入素材后由 agent 编辑）、为 Claude Code/Codex/Cursor 等 coding agent 安装的 9 个 skills、以及本地 CLI（init/preview/render）。核心框架 Apache 2.0；Studio 有免费计划，Pro 订阅（$25/月）提供视频、语音、音乐模型与 25,000 月度积分。支持云端渲染与 AWS Lambda。
 
 ## 筛选速览
 
@@ -27,17 +27,17 @@ HeyGen 开源的 HTML/CSS/JavaScript 转确定性 MP4 的视频框架与编辑�
 
 ## 能力要点
 
-- HTML/CSS/JS 与可跳转动画确定性渲染为 MP4，无需 React
-- 9 个 skills 教 agent 完成规划、写 HTML、lint、预览、渲染的生产循环
-- 约 450 个可编辑源码的现成组件块（转场、字幕、图表、地图、3D）
-- 支持本地 CLI、云渲染与 AWS Lambda 三种渲染途径
+- HTML/CSS/JS 到 MP4 的确定性渲染框架（Apache 2.0，无 React 要求）
+- 为 Claude Code、Codex、Cursor 等 agent 提供的 9 个 skills 及约 450 个可编辑组件目录
+- CLI 本地渲染、hyperframes cloud render 云渲染与 AWS Lambda 渲染
+- Studio 应用支持脚本化编辑、字幕、改词定位帧级修改
 
 ## 适用场景
 
-- 从手机素材生成带字幕、音乐、文字钩子的社交短视频
-- 从网站 URL 或录屏生成产品演示与教程视频
-- 用代码生成运动图形并接入自动化内容流水线
-- 逐帧重制已有视频为可编辑项目
+- 用自然语言描述或导入素材生成产品介绍与社媒视频
+- 让 coding agent 按需求生成并渲染动效视频
+- 把任意视频重建为可逐帧编辑的 HyperFrames 项目
+- 用代码替代 After Effects 制作可流水线复用的动效
 
 ## 场景标签
 
@@ -47,7 +47,6 @@ HeyGen 开源的 HTML/CSS/JavaScript 转确定性 MP4 的视频框架与编辑�
 
 > L26: HyperFrames is HeyGen's AI video editor for people and agents. Describe a video, bring your own footage, or remake 
 > L28: Underneath, HyperFrames is a free, open-source framework (Apache 2.0) for turning HTML, CSS, JavaScript, media and 
-> L35: |**Your coding agent**|Claude Code, Codex, Cursor, Gemini CLI and other agents.|`npx skills add heygen-com/hyperfra
 
 ## 星数曲线
 
@@ -63,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `11d3d2bbd4e4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `34488dbca948` · [字段定义](../../DATASET.md)*

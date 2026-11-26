@@ -1,19 +1,19 @@
 # huggingface/transformers
 
-⭐ 169,326 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/transformers) · [官网](https://huggingface.co/transformers) · 组织维护
+⭐ 169,326 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/transformers) · [官网](https://huggingface.co/transformers) · 组织维护 · 中文 README
 
-**面向开发者的多模态预训练模型定义与推理训练框架**
+**ML 模型定义框架：为文本/视觉/音频/多模态模型提供统一的推理与训练定义**
 
-transformers 作为模型定义框架，集中维护文本、视觉、音频、视频与多模态模型的统一实现，供推理与训练使用。通过 Pipeline 高层 API 完成预处理与输出，支持 transformers serve/chat 命令行对话。生态中训练框架（Axolotl、DeepSpeed、FSDP 等）与推理引擎（vLLM、SGLang、TGI）复用其模型定义。要求 Python 3.11+ 与 PyTorch 2.6+；训练 API 仅针对其自身提供的 PyTorch 模型优化，通用机器学习循环需使用 Accelerate 等库。Hub 上有 1M+ 可用检查点。
+Transformers 将机器学习模型以 PyTorch 统一定义一次，同一份定义同时用于推理与训练；训练框架、推理引擎与本地运行时可基于该定义构建而无需自行实现。每个模型为一个自上而下的单文件，数百个架构共享同一结构，新架构发布后即被添加并与原始结果对齐。提供 Pipeline、文本生成、终端聊天（transformers chat）、HTTP 服务（transformers serve，兼容 OpenAI SDK）、Trainer 微调、PEFT/FSDP/张量并行等训练能力，以及量化、预编译 kernel 与注意力后端切换等加速手段。生产级大规模部署需配合外部推理引擎。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-native` | 本体是模型或模型工具 |
+| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
-| 模型依赖 | local-ok | 支持本地模型 |
+| 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
 | 成熟度 | — | 结构信号不足 |
@@ -25,27 +25,27 @@ transformers 作为模型定义框架，集中维护文本、视觉、音频、�
 
 ## 能力要点
 
-- 统一 API 定义文本/视觉/音频/视频/多模态模型，支持推理与训练
-- Pipeline 高层 API 覆盖文本生成、语音识别、图像分类、视觉问答等任务
-- 模型定义被主流训练框架与推理引擎（vLLM、SGLang、llama.cpp 等）复用
-- 可在 PyTorch/JAX/TF2.0 之间移动同一模型
+- 模型单文件定义，一次定义同时支持推理与训练
+- transformers serve 提供 OpenAI SDK 兼容的本地 HTTP 服务
+- Trainer/PEFT/FSDP/张量并行/专家并行等训练与微调机制
+- 可注册自定义 attention/experts 函数或从 Hub 加载优化 kernel
 
 ## 适用场景
 
-- 几行代码加载预训练模型做文本生成或对话
-- 用 Pipeline 处理语音识别、图像分类等多模态任务
-- 训练自定义模型并复用社区已有架构
-- 为下游训练/推理框架提供一致的模型定义
+- 加载 Hub 上的预训练模型做文本、图像、音频、视频推理
+- 在单 GPU 或多 GPU 上微调模型
+- 通过 OpenAI SDK 兼容接口向应用提供模型服务
+- 为新发布的模型架构添加实现
 
 ## 场景标签
 
-`多模态` `模型训练` · 领域:感知与多模态
+`微调` · 领域:训练与推理
 
 ## 证据(README 行号)
 
-> L35: Transformers acts as the model-definition framework for state-of-the-art machine learning with text, computer
-> L86: Get started with Transformers right away with the Pipeline API. The `Pipeline` is a high-level inference class that
-> L93: pipeline = pipeline(task="text-generation", model="Qwen/Qwen2.5-1.5B")
+> L35: Transformers is the model-definition framework for machine learning models in text, computer vision, audio, video, 
+> L37: Training frameworks, inference engines, and local runtimes build on that definition instead of writing their own. T
+> L97: Serve a model to other applications over HTTP. `transformers serve` is for evaluation, experimentation, and moderat
 
 ## 星数曲线
 
@@ -61,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `2873f04760b9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `621838d95778` · [字段定义](../../DATASET.md)*

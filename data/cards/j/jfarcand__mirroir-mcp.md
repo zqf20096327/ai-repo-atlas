@@ -2,9 +2,9 @@
 
 ⭐ 424 · Swift · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/jfarcand/mirroir-mcp) · [官网](https://mirroir.dev) · 个人维护
 
-**让 MCP agent 通过 macOS iPhone Mirroring 驱动真实 iPhone**
+**让 MCP agent 通过 iPhone Mirroring 操控真实 iPhone 的服务器**
 
-以 MCP 服务器形式提供 42 个工具（点击、输入、滑动、读屏、听音、启动应用等），使支持 MCP 的 agent 经由 macOS 的 iPhone Mirroring 操作一部真实 iPhone，无需开发者模式、Xcode 或越狱。探索过程可固化为 SKILL.md 技能，并编译为不依赖模型的确定性回放，在 CI 中运行并给出 pass/fail/DRIFT 判定。读屏默认用本地 OCR（Apple Vision + 设备端 YOLO），可选 AI vision 模式。默认只暴露 14 个只读工具，无遥测。
+一个 MCP 服务器，通过 macOS iPhone Mirroring 驱动用户自己的 iPhone，提供 42 个工具（点击、输入、滑动、读屏、听音、启动应用等），供支持 MCP 的 AI 客户端调用。要求 macOS 15 及以上并连接 iPhone Mirroring；手机端无需开发者模式、Xcode 或任何安装。探索结果可固化为 SKILL.md 技能，并编译为不依赖模型的确定性回放，可在 CI 中运行并输出 DRIFT 判定。默认只暴露 14 个只读工具，通过 permissions.json 控制权限。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- 42 个 MCP 工具驱动真实 iPhone，手机端无需安装任何东西
-- 技能编译为无模型参与的确定性回放，可在 CI 中运行
-- 本地 OCR 与 AI vision 两种读屏模式可配置
-- 默认只读工具 + permissions.json/blockApps 的权限模型
+- 42 个 MCP 工具驱动 iPhone：tap、type、swipe、读屏、listen、launch、run_steps
+- 探索生成 SKILL.md 技能，编译为无模型的确定性回放并在 CI 运行（pass/fail/DRIFT）
+- describe_screen 支持本地 OCR（Apple Vision + 设备端 YOLO）与 AI vision 两种读屏模式
+- 只读默认、blockedApps 屏蔽、无遥测、退出镜像即停止输入
 
 ## 适用场景
 
-- 让 coding agent 代我完成 iPhone 上的应用操作和跨应用事务
-- 把 agent 探索出的操作固化成可重复运行的自动化测试
-- 在真实 iPhone 上做 iOS 应用的 e2e 测试
-- 驱动 iPhone 上的游戏交互（如与 Chess.com 对弈）
+- 让编码 agent 代我在 iPhone 上跨应用办事和自动化操作
+- 把 agent 在手机上的一次操作沉淀为可复用的技能和 E2E 测试
+- 在 CI 中以确定性回放回归测试 iOS 登录界面等流程
+- 让 agent 操控手机上的应用与游戏（如 Spotify、Chess.com）
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L27: No Developer Mode, no Xcode, nothing installed on the phone. mirroir-mcp drives your iPhone through macOS iPhone Mi
-> L71: - **Tools.** 42 MCP tools: tap, type, swipe, read the screen, listen, launch, and `run_steps` to repeat a sequence 
-> L49: your agent ──MCP──▶ mirroir ──iPhone Mirroring──▶ your iPhone
+> L28: No Developer Mode, no Xcode, nothing installed on the phone. mirroir-mcp drives your iPhone through macOS iPhone Mi
+> L50: your agent ──MCP──▶ mirroir ──iPhone Mirroring──▶ your iPhone
+> L72: - **Tools.** 42 MCP tools: tap, type, swipe, read the screen, listen, launch, and `run_steps` to repeat a sequence 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `05598f32f45a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7cb232755a83` · [字段定义](../../DATASET.md)*

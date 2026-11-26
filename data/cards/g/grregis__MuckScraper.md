@@ -2,9 +2,9 @@
 
 ⭐ 170 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/grregis/MuckScraper) · [官网](https://sample.muckscraper.news) · 个人维护
 
-**自托管新闻聚合器：多源归并成故事并用本地 LLM 做摘要与偏向评分**
+**自托管新闻聚合器：分组报道并本地 LLM 偏见分析与摘要**
 
-用 Docker 部署于自有硬件的新闻聚合系统：按计划从 RSS（及可选 NewsAPI/GNews）抓取文章，用 nomic-embed-text 嵌入（存入 pgvector）将同一事件的多家报道归并为一个故事，LLM 生成摘要与深度报告，展示左/中/右媒体覆盖计数，媒体偏向评级来自 AllSides 或模型推断；社论与新闻分开存放，每日两次出版 20 条故事的平衡版次。LLM 运行时默认 Ollama，可选 Gemini/Groq/任意 OpenAI 兼容端点。定位为私有管理工具，不建议直接暴露公网。
+以 Docker 部署在自有硬件上的新闻聚合管道：定时从 RSS（可选 NewsAPI/GNews）抓取文章，用嵌入（nomic-embed-text + pgvector）将多源同类报道归并为单一故事，为每个故事生成摘要、左右翼覆盖对比和深度报告；媒体源带有 AllSides 与模型给出的偏见评级，社论单独归类。默认使用本地 Ollama 运行 LLM，也可切换 Gemini/Groq 等 OpenAI 兼容端点；含登录体系、三档用户角色与可选 MCP 服务器供 AI 助手查询运行状态。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 嵌入比对 + 模型判定将同一事件的多篇报道归并为单故事
-- 每故事显示左/中/右媒体覆盖计数，偏向评级来自 AllSides 或模型
-- Ollama 默认本地推理，无需订阅，阅读记录留在本机
-- 每日定时出版 20 条故事的平衡版次，历史版次可读
+- 多源文章按嵌入相似度归并成单一故事，重复报道与通稿合并计数
+- 每篇故事呈现左/中/右各派覆盖对比，并可一键补抓缺失立场的报道
+- 默认本地 Ollama 运行 LLM 与嵌入，支持 Gemini/Groq/OpenAI 兼容端点
+- 提供可选 MCP 服务器，让 AI 助手只读查询安装状态
 
 ## 适用场景
 
-- 在自己服务器上聚合多来源新闻并按故事阅读
-- 查看同一事件在不同政治倾向媒体的报道差异
-- 本地运行 LLM 生成新闻摘要与深度对比报告
+- 在自有服务器上聚合多来源新闻，避免同一事件读十几遍
+- 查看同一事件在不同政治立场媒体上的报道差异
+- 本地运行 LLM 分析媒体偏见，数据留在自己机器上
 
 ## 场景标签
 
-`网页抓取` `AI 写作` · 领域:效率与自动化
+`语义搜索` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L5: > **TL;DR:** MuckScraper pulls news from multiple sources, groups related articles into stories, scores outlet bias,
-> L22: - **Summaries of real reporting.** The model summarizes and compares articles that reporters wrote; it never writes
+> L20: - **One story, every outlet.** Each new article is turned into an embedding (`nomic-embed-text`, stored in pgvector
 > L68: - **LLM Runtime:** Ollama by default; Gemini, Groq, or any OpenAI-compatible endpoint optional
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `b579a46b3d5d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b30b9e9c7bcc` · [字段定义](../../DATASET.md)*

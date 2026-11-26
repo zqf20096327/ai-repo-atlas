@@ -2,9 +2,9 @@
 
 ⭐ 173 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/IlhamriSKY/TEDI) · [官网](https://tedi.ilhamriski.com) · 个人维护
 
-**八合一开发者工作台桌面应用：终端/SSH/编辑器/API 客户端/Git 加 AI agent**
+**八合一开发者工作台：终端/SSH/编辑器/AI Agent 集于一个窗口**
 
-基于 Tauri 2（Rust 核心 + 单一 webview）的轻量桌面应用，把终端复用器、SSH/SFTP、SQL 浏览器、代码编辑器、AI agent、浏览器、API 客户端和 Git 集成到单窗口，宣称常驻占用接近终端而非 IDE。AI agent 支持 12 家服务商及 LM Studio/Ollama 等 OpenAI 兼容本地服务，密钥存于 OS 钥匙串，支持完全离线本地模型运行；浏览器扩展仅限 Windows。为 crynta/terax-ai 的 Apache-2.0 分支。
+基于 Tauri 2 的桌面应用，将八个日常工具合并到一个窗口：终端复用器、SSH/SFTP 客户端、SQL 浏览器、代码编辑器、AI Agent、内嵌浏览器、API 客户端与 Git 源码管理。UI 为单个系统 webview，无 Node 运行时与捆绑 Chromium，体积在 10 MB 量级；无遥测，API key 存入系统 keychain。AI 部分为自带 key 的 Agent，支持十二家云服务商与本地模型（LM Studio/Ollama/llama.cpp/vLLM 等兼容端点）、Plan mode、MCP、子 Agent 与经审批的工具调用。扩展（浏览器、SQL、API 客户端）运行时安装，二进制不内置。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 八功能单窗口：终端/SSH/SQL/编辑器/AI agent/浏览器/API 客户端/Git
-- AI agent 支持 12 家云服务商及 LM Studio、Ollama、vLLM 等本地服务，可完全离线
-- API 密钥存 OS keychain，不落盘；无遥测
-- 扩展系统：运行时从 .zip 或 GitHub 安装，SQL 浏览器与 API 客户端也以扩展形式交付
+- Bring-your-own-key Agent，覆盖 OpenAI/Anthropic/DeepSeek 等云服务商及本地 OpenAI 兼容端点
+- Plan mode、MCP、十个子 Agent、语音输入与需审批的工具调用
+- API key 经 keyring 存入系统钥匙串，支持完全离线跑本地模型
+- 扩展系统：SQL 浏览器、浏览器、API 客户端均运行时安装，不增大体积
 
 ## 适用场景
 
-- 在一个窗口里完成终端、SSH、编辑、Git、API 调试等日常开发操作，减少切换
-- 用自带密钥或本地模型驱动的 agent 做编码辅助与浏览器自动化
-- 轻量替代多工具并开的开发环境
+- 在一个窗口里完成终端、SSH、Git 与代码编辑，减少窗口切换
+- 接入自己的 API key 或本地模型进行 AI 编码辅助与内联补全
+- 用 SSH 隧道访问堡垒机后的数据库并编辑远程文件
+- 打包 zip/GitHub release 安装扩展以扩展面板与命令
 
 ## 场景标签
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `1a51a97f28af` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `18ad7d16231e` · [字段定义](../../DATASET.md)*

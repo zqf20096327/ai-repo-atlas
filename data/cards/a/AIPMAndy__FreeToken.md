@@ -2,9 +2,9 @@
 
 ⭐ 192 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/AIPMAndy/FreeToken) · [官网](https://aipmandy.github.io/FreeToken/) · 个人维护 · 中文 README
 
-**面向中文开发者的免费 AI API 额度导航清单**
+**面向中文开发者的免费 AI API 额度申请导航清单**
 
-收集 Gemini、OpenRouter、Groq、Cloudflare、硅基流动、阿里云百炼等平台免费 API 额度的信息清单：每条记录免费资格、申请入口、限制、核验日期与审核状态（官方已核对/待核验），并列出常见误解澄清与安全注意事项。配套 data/providers.json 结构化台账、scripts/verify.py 一致性自动检查与零追踪静态查询网站。声明不销售、不托管、不代领任何 API Key，MIT 许可。
+整理 Gemini、OpenRouter、Groq、Cloudflare Workers AI、硅基流动等平台免费层与试用额度的资源清单，每条附申请入口、限制、官方来源与核验日期，并区分「官方免费层」「试用额度」「待核验」状态。维护者声明只核对公开文档、不实测账号额度、不分发共享 API Key。附带 OpenRouter curl 调用示例、常见误解澄清与安全成本注意事项，数据以 providers.json 台账与自动核验脚本维护。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按平台记录免费政策、限制、来源与核验日期的资源总表
-- providers.json 台账 + verify.py 自动检查台账/README/网站一致性
-- 列出十余条免费额度常见误解的澄清条目
-- 配套零追踪静态搜索网站与对抗式审查报告 AUDIT.md
+- 免费 API 平台资源总表，每条附官方来源与核验日期
+- 区分官方免费层、试用额度、待核验三类状态，过期宣传撤回
+- data/providers.json 结构化台账 + scripts/verify.py 自动一致性检查
+- 附 OpenRouter curl 调用示例与额度安全注意事项
 
 ## 适用场景
 
-- 查找当前哪些大模型平台提供官方免费 API 层
-- 核对特定平台免费额度的限制条件与有效期
-- 了解免费 API 常见误解与 Key 安全实践
+- 想低成本调用大模型的开发者寻找官方免费额度入口
+- 按低延迟推理、边缘 AI、国内模型等目标筛选平台
+- 核对某平台免费政策的现行状态与限制条件
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L7: 收集 **Gemini、OpenRouter、Groq、Cloudflare Workers AI、Hugging Face、Cohere、DeepSeek、Qwen、智谱 GLM、NVIDIA、硅基流动** 等平台的 AI API
-> L105: - data/providers.json 是结构化资源台账，保存分类、官方文档、核验范围和日期。
-> L106: - scripts/verify.py 自动检查台账、README、HTML 卡片、网站地图及过期宣传用语的一致性。
+> L5: **面向中文开发者的免费 AI API 额度导航，整理 Gemini、OpenRouter、Groq、DeepSeek、硅基流动等平台的申请入口、限制和核验日期。**
+> L30: |平台|类型|当前公开政策 / 注意|来源|审核状态|
+> L51: > 数据解释：**官方免费层**＝官方公布的指定 API / 模型免费层；**试用**＝限额体验金或测试密钥；**按模型区分**＝有免费模型也有付费模型；**待复核**＝不能在缺乏现行公开证据时声称免费。详细的领取步骤、限制和搜索
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `cd0b9f778daa` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a89d6e469ebb` · [字段定义](../../DATASET.md)*

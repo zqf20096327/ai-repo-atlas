@@ -2,9 +2,9 @@
 
 ⭐ 168 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/azrinaldi/gemini-stealth-bridge) · 个人维护
 
-**将 Gemini Web 账号转为 OpenAI 兼容 API 的本地代理守护进程**
+**把 Gemini Web 账号以 OpenAI 兼容 API 暴露的多账号代理**
 
-用 Go 编写的单二进制守护进程：把 OpenAI 风格的消息、图片与工具定义翻译成 Gemini Web 请求，通过 /v1/chat/completions 与 /v1/responses 返回 JSON 或 SSE。认证使用 Google 会话 cookie 而非 Developer API key，支持多账号池化、配额感知故障转移、每账号出口代理、搜索引用、Imagen/Veo 媒体生成与内置 MCP 端点，并带 Web 控制面板。声明为非官方桥接，Google 协议变更可能中断运行；不支持 temperature 等采样参数转发、音频输入与 embeddings。供希望在 OpenAI SDK 客户端、编码 agent 或路由器中使用 Gemini Web 账号的开发者部署。
+用 Go 编写的非官方 HTTP 代理：通过浏览器登录捕获 Google 会话 Cookie，经 uTLS/HTTP2 无浏览器传输访问 Gemini Web，对外提供 /v1/chat/completions、/v1/responses、图像与视频生成端点及 MCP web_search 服务器。支持多 Google 账号池、rotate/lru/fill-first 轮换策略、5 小时与 7 天配额跟踪和故障转移；内置 /ui 控制面板管理账号、配额与运行时设置。提供多平台预编译二进制、源码构建与 Docker Compose 部署。上游接口变更可能导致不可用。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- OpenAI 兼容的 Chat Completions 与 Responses 端点，JSON/SSE 输出
-- 多账号池化（rotate/lru/fill-first）与 5 小时/7 天配额窗口感知故障转移
-- 内置 Streamable HTTP MCP 端点，向 MCP 客户端暴露 web_search 工具
-- 静态单二进制发布（Linux/macOS/Windows，amd64/arm64），含 Web 控制面板
+- OpenAI Chat Completions 与 Responses API 兼容端点（JSON/SSE）
+- 多账号池与配额感知故障转移（rotate/lru/fill-first）
+- Imagen/Veo 原生图像与视频生成端点
+- 内置 MCP web_search 服务器与 Web 控制面板
 
 ## 适用场景
 
-- 让 OpenAI SDK 客户端或编码 agent 通过 Gemini Web 账号获得模型输出
-- 多个 Google 账号池化管理配额并自动故障转移
-- 通过 MCP 给 Claude Code、Cursor 等客户端提供带引用的搜索工具
+- 让只支持 OpenAI SDK 的客户端接入 Google 账号下的 Gemini Web
+- 用多个 Google 账号池化配额并自动故障转移
+- 在无头 VPS 上通过桌面 UI 转发完成账号登录
 
 ## 场景标签
 
@@ -37,8 +37,8 @@
 
 ## 证据(README 行号)
 
-> L9: OpenAI-compatible proxy for Gemini Web. Point coding agents, routers, and OpenAI SDK clients at `gsb` and use your G
-> L13: `gsb` translates OpenAI-style messages, images, and tool definitions into Gemini Web requests, then converts the re
+> L9: OpenAI-compatible HTTP proxy for Gemini Web. Use your Google account with OpenAI SDKs, routers (`9router`), and codi
+> L13: > **Unofficial.** `gsb` authenticates with Google session cookies over a browserless uTLS/HTTP2 transport (no headl
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2c3a7c1d2b45` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `15c3770393b3` · [字段定义](../../DATASET.md)*

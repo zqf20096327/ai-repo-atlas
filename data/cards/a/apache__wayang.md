@@ -2,15 +2,15 @@
 
 ⭐ 285 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/apache/wayang) · [官网](https://wayang.apache.org/) · 组织维护
 
-**跨平台数据处理系统：一次编写流水线，多引擎择优执行**
+**跨平台大数据处理框架：一次编写管道，多引擎运行**
 
-Apache 顶级项目（前身为 Rheem）：用户用统一 API 编写数据流水线，注册本地 Java、Spark、Flink、PostgreSQL、SQLite、Kafka、TensorFlow 等执行平台，可指定单一引擎运行，也可交给基于代价的优化器为每一步选引擎，甚至把一个作业拆到多个引擎执行。提供 Java/Scala/SQL API 与插件架构，可扩展新算子和平台；从 Maven Central 依赖引入或源码构建，运行需 Java 17，配合 Spark 需 Hadoop 3+。附多篇 SIGMOD/VLDB 论文。
+Apache Wayang 是一个基于 Java 的跨平台数据处理系统：用户针对单一 API 编写数据管道，注册本地已有引擎（Java Streams、Spark、Flink、Giraph、Postgres、SQLite、Kafka、TensorFlow）后运行；其基于成本的优化器可为每一步选择执行平台，并支持将单个任务拆分到多个引擎。提供 Maven Central 依赖引入与源码构建两种方式，运行需 Java 17，使用 Spark/Hadoop 时需额外环境变量与 JVM 参数。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
 | 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
@@ -20,16 +20,16 @@ Apache 顶级项目（前身为 Rheem）：用户用统一 API 编写数据流�
 
 ## 能力要点
 
-- 单一 API 编写流水线，切换引擎只改注册插件不改代码
-- 基于代价的优化器按步择优，可将作业拆分到多引擎执行
-- 支持 Java Streams/Spark/Flink/Giraph/PostgreSQL/SQLite/Kafka/TensorFlow 等平台
-- 插件架构支持新增算子与平台而不改动内核
+- 单一 API 编写管道，可注册 Spark/Flink/Postgres 等多个执行引擎
+- 基于成本的优化器为每个算子选择平台，支持单任务跨引擎拆分
+- 插件架构支持在不改动内部的情况下新增算子与平台
+- 提供 Java/Scala/SQL API，附 wordcount 等示例应用
 
 ## 适用场景
 
-- 本地开发小数据、上线后无缝切换到 Spark/Flink 执行同一流水线
-- 数据量增长后不重写代码，让优化器在多引擎间分配作业
-- 在统一框架下把数据处理与 TensorFlow 计算组合在同一流水线
+- 数据管道需要跨 Spark、Flink 与数据库等多种引擎运行
+- 数据规模增长时迁移执行平台而不重写管道代码
+- 将同一个作业的多个步骤分配到不同引擎执行
 
 ## 场景标签
 
@@ -38,7 +38,7 @@ Apache 顶级项目（前身为 Rheem）：用户用统一 API 编写数据流�
 ## 证据(README 行号)
 
 > L16: You write your pipeline against a single API, then decide how it runs. Point it at one engine and it runs there. Or
-> L18:  A single pipeline, written once, feeds the Wayang optimizer, which routes each step to the best available engine —
+> L26: Wayang sits one level up. You write a pipeline against Wayang's API and register the engines you *have*. Then it's 
 > L37: - TensorFlow
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `736ecfa7279c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `9993f845cac4` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 231 · HTML · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Vxtzq/CrowdGPT) · [官网](https://www.crowdgpt.net/) · 个人维护
 
-**用志愿者闲置算力分布式训练大模型的协作框架**
+**志愿者贡献闲置算力、分布式训练大语言模型的开源框架**
 
-CrowdGPT 将大模型训练分散到参与者的个人机器上：客户端从 Hugging Face 下载当前权重，与本池（3 人）共享同一数据分片、种子和步数进行训练，上传权重增量，由协调服务器去噪合并后发布到 Crowd-v1（658M 参数 decoder，Qwen3 tokenizer）。提供 backprop/solo/relora/dust/mosaic 五种训练范式、稀疏增量与低秩编码等带宽压缩选项、多 token 预测，以及协调端的 DiLoCo 外层动量与锚点步。无 API key、无数据中心；客户端不运行服务器下发的代码。提供安装脚本、Docker 部署、桌面窗口与 headless/TUI 模式、--doctor 环境诊断。
+CrowdGPT 是一个不依赖数据中心训练 LLM 的协作框架：客户端向协调服务器领取任务，与硬件兼容的 3 名志愿者组成一组，从 Hugging Face 下载当前权重、在自己数据分片上训练并上传权重增量，服务器剔除异常后合并为全局模型并发布到 Crowd-v1 仓库。当前模型为 658M 参数 decoder（Qwen3 tokenizer）。提供 5 种训练范式（backprop/solo/relora/dust/mosaic）、稀疏增量编码、multi-token prediction 等 opt-in 机制；提供桌面窗口与 headless CLI、--doctor 环境诊断，安装器自动检测硬件匹配 PyTorch 构建。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ CrowdGPT 将大模型训练分散到参与者的个人机器上：客户端从 H
 
 ## 能力要点
 
-- 五种可选训练范式（backprop/solo/relora/dust/mosaic），默认关闭均不改变 v1 行为
-- 支持 NVIDIA CUDA、AMD ROCm/DirectML、Intel XPU、Apple MPS 与纯 CPU 后端，装不下显存的层流式放入内存
-- 增量压缩：Engram 行筛选与 sparse/1-bit delta 编码减少上传带宽
-- 提供桌面窗口、headless、终端 TUI 仪表盘与 --doctor 只读诊断
+- 5 种训练范式（backprop/solo/relora/dust/mosaic）可选
+- 稀疏增量与 engram 行过滤减少上传带宽
+- 支持 NVIDIA/AMD/Intel Arc/Apple Silicon/CPU 后端
+- --doctor 只读环境检查与终端训练仪表盘
 
 ## 适用场景
 
-- 用自己闲置的 GPU/CPU 参与分布式大模型训练
-- 在没有数据中心或付费集群的情况下协作训练模型
-- 研究联邦学习/群体训练的范式与通信压缩机制
+- 用个人 GPU/CPU 空闲算力参与大模型协作训练
+- 自建协调服务器组织分布式训练轮次
+- 无数据中心或 API key 条件下参与开源模型训练
 
 ## 场景标签
 
@@ -37,9 +37,8 @@ CrowdGPT 将大模型训练分散到参与者的个人机器上：客户端从 H
 
 ## 证据(README 行号)
 
-> L118: CrowdGPT is a **project for training arbitrary big LLMs** using volunteered compute.
-> L126: 1. The client asks the server for a task and is placed in a pool of 3 volunteers with compatible hardware.
-> L131: The current model, Crowd-v1, is a 658M-parameter decoder (24 layers, 2048-token context, Qwen3 tokenizer) with an 
+> L119: CrowdGPT is a **project for training arbitrary big LLMs** using volunteered compute.
+> L127: 1. The client asks the server for a task and is placed in a pool of 3 volunteers with compatible hardware.
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `77f6695b6fa4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `1ea89a102f98` · [字段定义](../../DATASET.md)*

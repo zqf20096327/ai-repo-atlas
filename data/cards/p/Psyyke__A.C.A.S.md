@@ -1,10 +1,10 @@
 # Psyyke/A.C.A.S
 
-⭐ 195 · JavaScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Psyyke/A.C.A.S) · [官网](acaschess.com) · 个人维护
+⭐ 195 · JavaScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Psyyke/A.C.A.S) · [官网](acaschess.com) · 组织维护
 
-**给棋类玩家提供实时走法建议的浏览器棋类助手**
+**给国际象棋玩家的浏览器引擎辅助脚本：实时给出走子建议**
 
-以用户脚本形式运行的开放源代码国际象棋助手，无需下载安装，支持 chess.com、lichess.org、Pychess.org 等棋类网站。引擎在与棋局页面隔离的独立浏览器标签页中运行，通过跨窗口通信向页面脚本传输走法数据并渲染在棋盘上。内置多个 WebAssembly 引擎，支持修改 UCI 参数、多引擎配置、变体棋类、30+ 种语言界面，并声明可能违反平台规则导致封禁。
+以 userscript 形式安装的开源国际象棋辅助系统，面向 chess.com、lichess.org、Pychess.org 等棋类网站用户。运行时引擎在与对局页面隔离的独立标签页中执行，通过 CommLink 跨窗口通信传输走子数据，再用 UniversalBoardDrawer 在棋盘上渲染建议箭头。内置多个 WebAssembly 引擎，也可通过本地 localhost 服务器接入外部引擎；支持修改 UCI 选项（ELO、深度、multiPV 等）。README 提示使用该工具可能违反平台规则导致封禁。
 
 ## 筛选速览
 
@@ -20,20 +20,20 @@
 
 ## 能力要点
 
-- 内置多个 WebAssembly 引擎（Stockfish/Fairy Stockfish/Lozza/ZeroFish）
-- 引擎运行在独立标签页，与棋局页面跨窗口通信
-- 支持 UCI 选项调整（ELO、depth、multiPV、skill）
-- 覆盖变体棋类（chess960、Fairy Stockfish 变体）与 30+ 语言
+- 内置多个 WebAssembly 引擎（Fairy Stockfish、Stockfish、ZeroFish、Maia 等）
+- 通过 CommLink 跨窗口通信，引擎运行于独立标签页
+- 支持修改引擎 UCI 选项及多引擎各自独立设置
+- 支持 chess960 与 Fairy Stockfish 变体，翻译为 30+ 种语言
 
 ## 适用场景
 
-- 在支持的在线棋站上获取实时走法建议
-- 作为实时学习工具复盘自己的走法
-- 在变体棋类（如 chess960）中使用引擎辅助
+- 在对局网站棋盘上实时查看引擎走子建议
+- 通过走子反馈和对手预测复盘学习
+- 在 chess960 等变体棋局中获得引擎辅助
 
 ## 场景标签
 
- · 领域:游戏/棋类工具
+ · 领域:游戏/棋类辅助工具
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b189b8d850ec` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fbd5b2a90f4e` · [字段定义](../../DATASET.md)*

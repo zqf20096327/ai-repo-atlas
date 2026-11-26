@@ -2,9 +2,9 @@
 
 ⭐ 423 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/testdino-hq/playwright-skill) · [官网](https://www.testdino.com) · 组织维护
 
-**面向 AI 编程 agent 的 Playwright 测试技能指南包（79 篇）**
+**给 AI 编码代理加载的 79 篇 Playwright 测试最佳实践指南**
 
-由 testdino.com 维护的 Playwright Agent Skills 集合：79 篇 Markdown 指南覆盖 E2E、API、组件、视觉、无障碍与安全测试及 CI/CD、CLI 自动化、trace 调试、页面对象模型与迁移，配 TypeScript/JavaScript 示例，内容更新至 Playwright 1.64。指南以 SKILL.md 为索引，供 AI 编程 agent 按需加载，通过 `npx skills add` 命令安装为 7 个技能包（core/qa/frontend/ci/playwright-cli/migration/pom）。MIT 许可。
+一组以 Markdown 形式发布的 Agent Skills：覆盖 E2E、API、组件、视觉、无障碍与安全测试，以及 CI/CD、CLI 自动化、trace 调试、页面对象与迁移等 79 篇指南，附 TypeScript 示例。通过 skills CLI 安装后，AI 编码代理按需读取 SKILL.md 索引，在编写、调试或扩展 Playwright 测试时拉取对应指南。内容跟踪至 Playwright 1.65 的新特性与破坏性变更；MIT 许可，由 testdino.com 维护。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- 79 篇指南，含 TypeScript 示例，覆盖至 Playwright 1.64 新特性
-- 7 个技能包（core/qa/frontend/ci/playwright-cli/migration/pom）按需安装
-- SKILL.md 作为 agent 读取的规范索引，含 Golden Rules
-- QA 与 frontend 专属包分别面向测试工程师与前端工程师
+- 79 篇指南分 7 个技能包（core/qa/frontend/ci/playwright-cli/pom/migration）
+- SKILL.md 作为代理读取的规范索引，含 Golden Rules 与架构决策指南
+- 覆盖 Playwright 1.65 新特性并标注破坏性变更
+- npx skills add 一条命令安装全部或单个技能包
 
 ## 适用场景
 
-- 让 AI 编程 agent 在编写、调试 Playwright 测试时加载对应指南
-- 从 Cypress 或 Selenium 迁移到 Playwright 时获取指引
-- QA 工程师将手工用例转换为自动化测试并撰写缺陷报告
-- 前端工程师为组件添加稳定可定位的 data-testid
+- 让 AI 编码代理按最佳实践生成或修复 Playwright 测试
+- QA 工程师将手工用例转为自动化测试
+- 将 Cypress 或 Selenium 测试迁移到 Playwright
+- 为 GitHub Actions/GitLab CI 等配置 Playwright 流水线
 
 ## 场景标签
 
-`教程课程` · 领域:学习与行业
+`浏览器自动化` `代码生成` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `50be243eeb60` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `91f952d479f6` · [字段定义](../../DATASET.md)*

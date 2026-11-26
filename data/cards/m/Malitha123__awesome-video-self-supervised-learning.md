@@ -2,9 +2,9 @@
 
 ⭐ 176 · HTML · 推送 2026-11-03 · [GitHub](https://github.com/Malitha123/awesome-video-self-supervised-learning) · 组织维护
 
-**视频自监督学习论文策展清单：面向研究者的方法收录**
+**视频自监督学习论文清单：按年份整理方法与综述资源**
 
-源自综述论文《Unifying Video Self-Supervised Learning across Families of Tasks: A Survey》的持续维护清单，收录视频自监督学习方法条目，按发表年份组织，覆盖表征学习、综述与基准评测等板块；条目含论文链接及部分代码/项目页链接，另提供可搜索的镜像网站。面向视频理解方向的科研人员，接受社区 PR 补充，不提供代码或安装运行方式。
+源自作者综述论文《Unifying Video Self-Supervised Learning across Families of Tasks: A Survey》的文献清单仓库：按发表年份组织视频自监督学习（VideoSSL）方法条目，另设 Surveys 与 Benchmarking 板块，覆盖动作识别、视频检索等下游任务相关论文。每条含作者、出处与论文/代码链接，并提供可搜索网站版本，支持通过 pull request 协作补充。无安装运行步骤，以浏览查阅为主。
 
 ## 筛选速览
 
@@ -20,24 +20,26 @@
 
 ## 能力要点
 
-- 条目按发表年份组织，含论文/代码/项目页链接
-- 源自 2024 年综述论文并由作者持续更新
-- 提供可搜索的镜像网站（含论文检索与仓库统计）
+- 按发表年份组织 VideoSSL 方法条目（含 2026 年 CVPR/ICLR/ECCV 论文）
+- 设 Surveys 与 Benchmarking 两个独立板块
+- 多数条目附论文、代码或项目页链接
+- 提供带搜索与统计功能的配套网站
 
 ## 适用场景
 
-- 查找视频自监督学习的最新方法与基准评测论文
-- 按年份追踪该领域的发展脉络
-- 为下游任务（动作识别、视频检索等）寻找可复用的预训练方法与代码
+- 入门视频自监督学习时按年份查阅方法脉络
+- 调研 VideoSSL 综述与基准评测论文
+- 查找某篇 SSL 方法的论文与代码入口
 
 ## 场景标签
 
-`精选清单` `科研工具` · 领域:学习与行业
+`精选清单` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L8: This repository is originating from our survey paper "**Unifying Video Self-Supervised Learning across Families of T
+> L6: # `Awesome Video Self-Supervised Learning (Video SSL / VideoSSL)`
 > L17: This repository contains a collection of state-of-the-art self-supervised learning in video approaches for various 
+> L37: ### Contents
 
 ## 星数曲线
 
@@ -53,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bd6bd9e3e1cc` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e2707f05aa8a` · [字段定义](../../DATASET.md)*

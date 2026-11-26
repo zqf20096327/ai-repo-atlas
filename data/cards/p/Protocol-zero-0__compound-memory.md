@@ -2,9 +2,9 @@
 
 ⭐ 349 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Protocol-zero-0/compound-memory) · 个人维护 · 中文 README
 
-**给 Claude Code/Codex 等编程 agent 的跨会话长期记忆工具**
+**为 Claude Code/Codex 等编码 agent 提供跨会话跨机器长期记忆**
 
-后台进程每晚读取本机 AI 会话原文（Claude Code、Codex CLI、DeepSeek Harness 的 JSONL 记录），提炼成关于用户偏好、决定与未完事项的记忆快照，通过 hook 或 AGENTS.md 在每个新会话开局自动注入，支持多机经私有 GitHub 仓库或飞书共享。本地优先，原文不出机，出机记忆逐条判定并清洗密钥；LLM 后端默认本机 claude 命令，可换任何 OpenAI 兼容接口。提供 cm recall 检索、cm eval 回测、导入旧数据与卸载命令。
+本地运行的 agent 记忆工具：夜间自动读取 Claude Code、Codex CLI、DeepSeek Harness、Antigravity CLI 的会话记录，用 LLM 蒸馏为偏好、决策与待办记忆，生成快照并在新会话开始时注入上下文，可随时用 cm recall 带出处检索。支持 github/feishu 作为共享层实现多机同步；记录仅本地保存，共享条目逐条判定并清理秘密。需一个可调用的模型（默认 claude CLI，或任意 OpenAI 兼容端点），Python 3.9+、零依赖，通过 git clone 加 install.sh 安装。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 每晚自动读会话原文、提炼、更新记忆快照并在新会话开局注入
-- 支持 Claude Code/Codex CLI/DeepSeek Harness 三类 harness，新增只需写一个 sources 模块
-- 共享层可选本地/私有 GitHub 仓库/飞书，出机记忆逐条判定并清洗密钥
-- 旧记忆改主意后自动失效，带 cm eval 回测提示词改动
+- 夜间自动读取会话记录并蒸馏为带过期机制的快照记忆
+- 支持 Claude Code / Codex / DeepSeek Harness / Antigravity CLI 四种 harness
+- 多机共享：github 私有仓库或飞书作为 sink
+- 共享层逐条隐私判定，导出前清理秘密，附全局推送门控工具
 
 ## 适用场景
 
-- 换机器、换工具、换模型后不用重新向 AI 解释自己的偏好和背景
-- 在工作中按话题翻找此前会话里的决定和未完线头（带出处）
-- 多台机器之间共用同一份 agent 记忆
+- 新会话不用再重新介绍自己，AI 自动带上我的偏好和历史决策
+- 多台机器上的编码 agent 共享同一份长期记忆
+- 把散落在旧会话里的未完成事项整理成可检索的记忆库
 
 ## 场景标签
 
@@ -37,9 +37,9 @@
 
 ## 证据(README 行号)
 
-> L37: - **不用你做任何事。** 每晚自动读会话、提炼、写快照,你只管正常用 AI。
-> L90: |**Claude Code**|`~/.claude/projects/**/*.jsonl`|`settings.json` 的 `SessionStart` hook|✅ 已验证|
-> L94: 再加一个 harness = 写一个 `cm/sources/<名字>.py`,提供 `available / scan / load_turns` 三个函数。
+> L3: compound-memory: Long-Term Memory for Coding Agents
+> L41: - **Works across tools and machines.** Claude Code, Codex and DeepSeek Harness share one memory.
+> L92: |Harness|Reads transcripts from|Session-start injection|Status|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `4853adf5ded0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `745f97a9e09b` · [字段定义](../../DATASET.md)*

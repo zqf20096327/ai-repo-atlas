@@ -2,9 +2,9 @@
 
 ⭐ 185 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fiyo/DBCheck) · [官网](https://raccoonx.cn) · 个人维护 · 中文 README
 
-**开源跨平台数据库巡检运维平台，AI 辅助诊断**
+**数据库巡检与运维平台：覆盖22种数据库、839条规则、AI诊断**
 
-面向 DBA、数据库工程师与 DevOps 团队的巡检运维平台（原名 DBCheck）：连接 20+ 种数据库（MySQL/Oracle/DM8/OceanBase 等），用 800+ 条巡检规则检查配置、安全、性能、锁、索引、备份等维度，自动生成 Word 巡检报告。功能还包括慢 SQL 与锁诊断、实时监控、定时任务、SSH 终端、SQL 审计工单、数字孪生与工作流编排。AI 部分为辅助角色：Ollama 本地或云 API 的 AI 诊断、巡检对话、RAG 知识库与多专家智能中心。提供 Docker 镜像、Compose 部署与 Python 源码安装（Python 3.10+），Web UI 与 CLI 两种运行方式。
+面向 DBA、数据库工程师、DevOps 与基础设施团队的跨平台数据库巡检与运维平台，前身为 DBCheck。支持 22 种数据库类型与 839 条巡检规则，功能包括数据源管理、慢查询分析、锁诊断、索引健康、配置基线、AWR 解析、Word 巡检报告生成、定时任务与实时监控。AI 相关机制包括本地 Ollama 或云 API 辅助诊断、自然语言巡检对话、RAG 知识库以及多专家协同的智能中心。提供 Docker 镜像（多架构含 arm64）、Linux 二进制与源码安装，含 MCP Server 与可视化工作流编排。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 20+ 数据库类型、800+ 巡检规则，自动生成结构化 Word 报告
-- AI 诊断支持本地 Ollama 或兼容云 API，含 RAG 知识库
-- 慢 SQL/锁/索引/配置基线多维诊断与危险操作二次确认
-- 插件化架构、工作流编排与多语言 UI（9 种语言）
+- 支持 22 种数据库类型与 839 条巡检规则，自动生成 Word 报告
+- AI 诊断支持本地 Ollama 或兼容云 API，含 RAG 运维知识库
+- MCP Server 暴露 12 个工具供 Claude、Cursor 等客户端调用
+- 多架构 Docker 镜像（amd64/arm64）适配麒麟等国产服务器
 
 ## 适用场景
 
-- 定期巡检多种生产数据库并自动出报告
-- 分析慢 SQL、阻塞链与索引健康问题
-- 把运维文档上传 RAG 知识库做 AI 辅助诊断
+- 定时批量巡检生产环境多种数据库并生成巡检报告
+- 慢 SQL、锁等待与索引健康的人工辅助诊断
+- 信创环境下的数据库合规评估与国产数据库接入
+- 通过 MCP 客户端以自然语言查询巡检系统
 
 ## 场景标签
 
-`工作流自动化` `文档问答` · 领域:效率与自动化
+`工作流自动化` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L7: > **RaccoonX** is an open-source, cross-platform database inspection and operations platform designed for DBAs, data
-> L116: |🤖 AI Diagnostics|Local Ollama or compatible cloud APIs for AI-assisted analysis|
-> L122: |📚 RAG Knowledge Base|Upload operational documentation for AI-assisted diagnosis|
+> L115: |🤖 AI Diagnostics|Local Ollama or compatible cloud APIs for AI-assisted analysis|
+> L23: > 🤖 **AI-assisted diagnostics**
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `10c4d1ad05bf` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `3157b68bfb2c` · [字段定义](../../DATASET.md)*

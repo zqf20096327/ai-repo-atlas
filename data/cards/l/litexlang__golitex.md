@@ -2,9 +2,9 @@
 
 ⭐ 696 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/litexlang/golitex) · [官网](https://litexlang.com) · 个人维护 · 中文 README
 
-**面向形式化数学的高级验证语言，可编译到 Lean 4**
+**面向形式化数学的高阶语言，供数学证明的书写与机器检查**
 
-Litex 是一种形式化数学编程语言，采用类 Python 语法书写定义、事实与证明步骤，编译器自动验证表达式良定义性、检查定义域约束并搜索上下文事实。验证通过后生成可追溯的 JSON 证明记录，可编译为独立的 Lean 4 文件做独立内核验证，架构设计支持扩展到 Coq 与 Isabelle；还支持导出 LaTeX、交互式阅读、提取 Python/C 代码。提供持久会话 REPL 与 JSON 诊断，README 将其定位为适合 AI agent 提出并修复证明步骤的语言。当前为 Beta 阶段。
+Litex 是一种用于书写数学对象、定义、命题与证明的形式化语言，语法接近日常数学写作。自带原生检查器验证定义域与证明步骤，被接受的命题可通过持久 Session 供后续命题引用。提供 brew/scoop 安装的 CLI，支持以 JSON 输出检查结果；附 Agent Guide 支持与 agent 协作写证明，并可将受支持的证明编译为 Lean 交由独立检查。项目处于活跃开发期，检查器的信任边界见手册说明。
 
 ## 筛选速览
 
@@ -20,17 +20,16 @@ Litex 是一种形式化数学编程语言，采用类 Python 语法书写定义
 
 ## 能力要点
 
-- 类数学书写语法，de Bruijn 因子接近 1
-- 自动验证定义域义务与良定义性
-- 证明可编译为 Lean 4 文件做独立内核验证
-- 持久会话 REPL 与可追溯 JSON 诊断记录
+- 接近自然数学书写的形式化证明语言与原生检查器
+- 持久 Session 支持基于已接受命题继续修正证明
+- 可将受支持的证明编译到 Lean 进行独立检查
+- brew/scoop 两种系统包管理器安装，CLI 输出 JSON
 
 ## 适用场景
 
-- 用类数学语法书写并被机器验证的证明
-- 将已验证证明导出为 LaTeX 讲义或论文
-- 让 AI agent 在会话中逐步提出并修正证明步骤
-- 将数学定义提取为可执行的 Python/C 代码
+- 以机器可检查的方式书写数学定义与证明
+- 将证明编译为 Lean 做独立核验
+- 借助 agent 辅助撰写形式化证明
 
 ## 场景标签
 
@@ -38,8 +37,9 @@ Litex 是一种形式化数学编程语言，采用类 Python 语法书写定义
 
 ## 证据(README 行号)
 
-> L14: **Litex is a high-level programming language for formal mathematics.**
-> L129: ### 4. Built for AI Mathematicians (Agent-Native Architecture)
+> L9: Litex lets you write mathematical objects, definitions, statements and proofs
+> L53: |Write proofs with an agent|Agent Guide, primer|
+> L59: Litex is under active development. The Lean backend compiles supported proof
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `eee65b57db41` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `1078b7af1de0` · [字段定义](../../DATASET.md)*

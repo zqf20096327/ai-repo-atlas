@@ -2,9 +2,9 @@
 
 ⭐ 241 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/YuvrajSingh-mist/NeatRL) · [官网](https://www.neatrl.com) · 个人维护
 
-**面向研究者/学习者的单文件 PyTorch 强化学习算法库**
+**研究者可用的单文件 PyTorch 深度强化学习算法库**
 
-以 PyTorch 实现的强化学习算法库，每个算法（DQN、PPO、SAC、TD3、DDPG、A2C、REINFORCE、RND、Q-learning 等 21 个 CLI 别名）集中在单个自包含文件中，可通过 Python API 训练或经 neatrl CLI 命令行训练。兼容 Gymnasium 环境，支持 Atari（自动 CNN 架构）、Box2D、MuJoCo、Classic Control，内置 Weights & Biases 实验跟踪、向量化并行环境与视频录制；-cnn 别名需安装对应环境 extra。Apache 2.0（代码）+ CC BY 4.0（文档/数据）双许可声明的是不同内容类别而非商业版。
+以 PyTorch 实现的强化学习算法库，每个算法独立封装在单一文件中，提供 21 个 CLI 别名与 Python API 两种训练入口。支持 Gymnasium 环境、Atari/Box2D/MuJoCo 域、向量化并行训练、视频录制，并通过 Weights & Biases 做实验追踪（默认本地上传需显式 --wandb）。安装分可选 extra：atari/box2d/mujoco 需另行安装。定位研究与实验用途，含超参数调优文档与各算法指南。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 每个算法单文件自包含实现，提供 21 个 CLI 训练别名
-- 兼容 Gymnasium，支持 Atari/Box2D/MuJoCo/Classic Control
-- 内置 Weights & Biases 实验跟踪与视频录制
-- 向量化环境并行训练，本地运行、默认不上传
+- 11 种算法（DQN/PPO/SAC/TD3/DDPG 等）的单文件实现，21 个 CLI 别名
+- Gymnasium 兼容，覆盖 Classic Control/Atari/Box2D/MuJoCo
+- 内置 Weights & Biases 实验追踪与自动视频录制
+- 向量化环境并行训练，-cnn 别名自动构建 CNN 架构
 
 ## 适用场景
 
-- 学习与复现经典深度 RL 算法实现
-- 在 CartPole/LunarLander/Atari 等环境上做 RL 实验
-- 命令行快速训练并跟踪实验指标
+- 一行命令在 CartPole/LunarLander 上训练并对比 RL 算法
+- 研究实验中快速扩展新的 RL 算法实现
+- Atari/MuJoCo 连续控制任务的基准训练与录像记录
 
 ## 场景标签
 
-`强化学习` · 领域:训练与推理
+`强化学习` `模型训练` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
 > L7: NeatRL provides readable implementations of popular RL algorithms with a focus on simplicity and ease of use. Built 
-> L11: - **Single-file implementations**: Each algorithm lives entirely in one self-contained file -- no hunting across mo
+> L216: - **PPO** (Proximal Policy Optimization) - Policy gradient method with GAE
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `8f4b3f35994f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `bc204cd91515` · [字段定义](../../DATASET.md)*

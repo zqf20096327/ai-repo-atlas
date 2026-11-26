@@ -2,9 +2,9 @@
 
 ⭐ 355 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Project-AgML/AgML) · [官网](https://project-agml.github.io) · 组织维护
 
-**农业机器学习库：统一访问公共农业数据集与标准标注**
+**面向农业机器学习研究者/开发者的数据集与基准框架**
 
-面向农业深度学习开发者的 Python 库：通过 HuggingFaceDataLoader 与 AgMLDataLoader 提供公共农业数据集（含 400 万张图像的 iNatAg）的下载、加载与训练/验证/测试划分，覆盖图像分类、目标检测、语义分割任务，标注以 DatasetDict 列形式标准化（ClassLabel、COCO 风格框、单通道 mask）。支持 PyTorch 与 TensorFlow，预处理与训练直接使用 datasets/transformers 库，无 AgML 专属 API。另提供 zip 分片大图像文本数据集的惰性解码与有界缓存机制。
+AgML 是一个农业机器学习库，核心是提供公开农业深度学习数据集的统一访问：通过 HuggingFaceDataLoader/AgMLDataLoader 下载并加载为 DatasetDict，支持按列分层切分 train/val/test，标注以标准化列格式编码（分类/检测/分割）。另提供 USDA NASS 与加州产量基准等农业统计数据查询模块（按数据源装 extras），支持 TensorFlow 与 PyTorch。预处理、训练、推理需直接使用 datasets/transformers，库本身不提供单独的处理 API。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- HuggingFaceDataLoader/AgMLDataLoader 加载公共农业数据集并自动划分
-- iNatAg 数据集（超 400 万图像）按科名/俗名过滤访问
-- 标注格式标准化：ClassLabel、COCO 风格边界框、单通道分割 mask
-- loadImageTextToTextDataset 惰性解码 zip 分片大数据集，带 256 MiB 默认缓存
+- 公开农业数据集的统一下载与加载（AgMLDataLoader/HuggingFaceDataLoader）
+- 标准化标注格式：ClassLabel 标签、COCO 式边界框、单通道分割 mask
+- USDA NASS 与加州产量基准统计数据查询，输出 pandas/polars/arrow/csv/parquet
+- 支持 TensorFlow 与 PyTorch 两个框架
 
 ## 适用场景
 
-- 下载并加载农业图像数据集训练分类/检测/分割模型
-- 按物种过滤访问 iNatAg 大规模农业图像数据
-- 将多个农业数据集整合进统一训练流水线
+- 下载并标准化加载农业图像分类/检测/分割数据集
+- 查询县级作物产量与统计数据进行农业分析
+- 为农业深度学习任务准备训练就绪的数据管道
 
 ## 场景标签
 
- · 领域:农业/机器学习
+ · 领域:农业机器学习/数据集工具
 
 ## 证据(README 行号)
 
 > L8: AgML is a comprehensive library for agricultural machine learning. Currently, AgML provides
-> L49: **For any preprocessing, inference, or training beyond loading and splitting, use the
+> L11: AgML supports both the TensorFlow and PyTorch machine learning frameworks.
+> L50: `datasets` and `transformers`
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `c40afaef1ac5` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a726cd5e6242` · [字段定义](../../DATASET.md)*

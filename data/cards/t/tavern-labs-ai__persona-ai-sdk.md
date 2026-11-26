@@ -2,9 +2,9 @@
 
 ⭐ 175 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/tavern-labs-ai/persona-ai-sdk) · [官网](https://www.npmjs.com/package/ai-persona-sdk) · 组织维护
 
-**给应用开发者的角色 AI SDK：人设卡+持久角色记忆+模型适配器**
+**给开发者的 AI 角色人设 SDK：内置人设卡、持久记忆与模型适配器**
 
-TypeScript SDK，用于构建保持人设一致并跨对话记忆的 AI 角色应用。单包内含八张预制 persona 卡、记忆运行时（抽取、溯源、巩固、召回、生命周期管理）以及 Amazon Bedrock 与 OpenAI Responses API 适配器。单次调用完成记忆召回、提示编译、回复生成、对话摄取与关系状态演进。存储支持内存、原子 JSON 文件、SQLite（better-sqlite3，可选原生依赖），并可自定义 MemoryStore 对接 PostgreSQL/DynamoDB。兼容 SillyTavern 卡片导入。需 Node.js 20+，MIT 许可。
+TypeScript SDK（npm 包 ai-persona-sdk），面向需要在多轮对话中保持角色一致并持久记忆的应用开发者。分层设计：人设卡（8 张内置角色）、记忆运行时（抽取/溯源/合并/召回/生命周期）、模型生成、持久化（内存/JSON/SQLite）与接口层均可替换。提供 Amazon Bedrock 与 OpenAI 适配器（生成、抽取、嵌入），支持混合使用提供商，并含 SillyTavern 角色卡/聊天记录导入、HTTP 服务适配器与评估辅助工具。需 Node.js 20+ 与 OpenAI API key 或 AWS 凭证。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@ TypeScript SDK，用于构建保持人设一致并跨对话记忆的 AI 角色�
 
 ## 能力要点
 
-- 八张预制 persona 卡（prompts/traits/greetings/memorySeeds）
-- 记忆运行时：抽取、溯源、巩固、可见性、召回与生命周期
-- Bedrock Converse/Titan V2 与 OpenAI Responses/Embeddings 双适配器，可混用
-- 内存/原子 JSON/SQLite 三种存储，兼容 SillyTavern 卡片与聊天导入
+- 内置 8 张人设卡（atlas/sage 等），含提示词、特质、问候语与记忆种子
+- 记忆运行时覆盖抽取、溯源、合并、召回与关系状态演进
+- Bedrock 与 OpenAI 双适配器，生成/抽取/嵌入三个独立端口可混合替换
+- SillyTavern 角色卡与 JSONL 聊天记录导入兼容
 
 ## 适用场景
 
-- 为应用构建有持久记忆的 AI 角色或陪伴型助手
-- 在 Bedrock 与 OpenAI 之间切换或混用模型能力
-- 导入 SillyTavern 角色卡到自有应用
+- 为聊天/语音/游戏应用接入带持久记忆的 AI 角色
+- 在 Bedrock 与 OpenAI 之间灵活切换或混用人格化 LLM 调用
+- 把 SillyTavern 角色卡导入自己的应用
+- 用内置评估辅助工具检验记忆召回与角色表现
 
 ## 场景标签
 
-`Agent 记忆` `Agent 框架` · 领域:Agent 开发
+`提示工程` `Agent 记忆` `聊天机器人` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L29: `persona-ai-sdk` is a TypeScript SDK for applications where an AI character should remain
+> L29: `ai-persona-sdk` is a TypeScript SDK for applications where an AI character should remain
+> L33: |Layer|Responsibility|Replaceable?|
 > L189: Extraction, embeddings, and generation are independent ports. An application can use Bedrock for
-> L216: |`persona-ai-sdk/bedrock`|Bedrock Converse extraction, Titan V2 embeddings, character models|
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-02 · 置信度 high · 依据 README sha `676e08ec6791` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `71d750a55516` · [字段定义](../../DATASET.md)*

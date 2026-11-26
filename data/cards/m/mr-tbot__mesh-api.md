@@ -2,9 +2,9 @@
 
 ⭐ 188 · Python · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/mr-tbot/mesh-api) · [官网](https://mesh-api.dev) · 个人维护
 
-**LoRa 网格网络的 AI/API 路由桥，连接 Meshtastic 与 MeshCore**
+**连接 LoRa mesh 与 AI/API 的路由桥接器**
 
-单人开发的实验性项目：将 Meshtastic 与 MeshCore LoRa 网格网络同 AI 聊天服务与第三方 API 打通。定位为协议桥与网格骨干，可在两个网格网络间跨网路由消息，内置 30 个插件式扩展（通信、应急、智能家居、Ham Radio 等 7 类），支持 LM Studio、Ollama、OpenAI、Claude 等多种 AI 供应方，内置 MCP 服务器供外部 AI agent 调用，提供 REST API、WebUI 仪表盘与交互式节点地图。README 多处声明功能未经充分实测，不建议用于关键任务或紧急场景。可通过 pip 或 Docker 安装。
+面向 Meshtastic 与 MeshCore LoRa mesh 的协议桥接与 API 路由服务：提供 slash 命令、AI 助手、30 个插件式扩展（通信/通知/应急天气/智能家居/网桥/AI Agent 等 7 类）、内置 MCP server 可将 mesh 功能暴露为外部 AI agent 的工具，以及 REST API 与 WebUI 仪表盘。AI 部分支持本地模型（LM Studio、Ollama）与多家云端 API 及 Home Assistant 对接，并可跨双 mesh 网络路由消息。项目由单人维护，自述处于 Beta 阶段、部分功能未经充分实地测试。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 同时支持 Meshtastic 与 MeshCore，可跨网格网络路由消息
-- 30 个内置插件式扩展，文件夹即插即用
-- 支持 LM Studio/Ollama 本地模型及 OpenAI/Claude/Gemini 等多种 AI 供应方
-- 内置 MCP 服务器（POST /mcp），外部 AI agent 可驱动网格功能
+- 内置 MCP server，将 mesh 功能暴露为外部 AI agent 的工具（bearer-token 鉴权）
+- 支持 Meshtastic、MeshCore 单独或同时接入，可做跨网路由
+- 30 个内置插件式扩展，支持复制文件夹方式增删
+- AI 后端支持本地模型（LM Studio/Ollama）与多家云端 API
 
 ## 适用场景
 
-- 离网环境下让 LoRa 网格用户通过短信式命令访问 AI 问答
-- 将网格消息桥接到 Discord、Home Assistant 或 n8n 自动化流程
-- 应急告警经 Twilio 短信/邮件/Discord 发送含 GPS 坐标的通知
-- 通过 WebUI 仪表盘管理节点地图与消息收发
+- 在没有互联网的野外场景通过 LoRa mesh 使用 AI 助手
+- 将 mesh 消息转发到 Home Assistant 或 n8n 做自动化
+- 紧急情况经 Twilio SMS、SMTP 与 Discord 发送带 GPS 的告警
+- 在仪表盘地图查看 mesh 节点位置并与节点通信
 
 ## 场景标签
 
-`聊天机器人` `工作流自动化` · 领域:效率与自动化
+`工作流自动化` `AI 助手` `聊天机器人` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L48: - **Full Router / Mesh Operator**
-> L92:  - Support for **Local** models (LM Studio, Ollama), **OpenAI**, **Claude**, **Gemini**, **Grok**, **OpenRouter**, 
+> L42: **MESH-API** is an experimental project that bridges Meshtastic (& now MeshCore ) LoRa mesh networks with powerful 
 > L82:  - Exposes MESH-API core functions **and** extensions as MCP **tools** at `POST /mcp`, so external AI agents (Claud
+> L92:  - Support for **Local** models (LM Studio, Ollama), **OpenAI**, **Claude**, **Gemini**, **Grok**, **OpenRouter**, 
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `35f119970001` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `690f727fb207` · [字段定义](../../DATASET.md)*

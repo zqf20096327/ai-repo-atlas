@@ -1,10 +1,10 @@
 # luqman-v1/9router-go
 
-⭐ 307 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/luqman-v1/9router-go) · [官网](https://luqman-v1.github.io/9router-go/) · 个人维护
+⭐ 307 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/luqman-v1/9router-go) · [官网](https://luqman-v1.github.io/9router-go/) · 个人维护 · 中文 README
 
-**面向 CLI 编码工具的 Go 单二进制 LLM 代理网关与令牌节省器**
+**Go 编写的 LLM 代理网关：把 CLI 工具接入 150+ 提供商并省 token**
 
-9Router 的 Go 重写版：单二进制运行，无需 Node.js，内置 Svelte 仪表盘。将 Claude Code、Cursor、Codex 等工具接入 150+ 提供商与 1000+ 模型，提供 RTK 工具输出压缩（节省 20-40% tokens）、订阅→低价→免费的多级自动回退、combo 路由策略（fallback/round-robin/sticky/fusion）、多账号轮换、按 API key 绑定代理池、SQLite WAL 持久化与用量日志。可与上游 9Router 共享同一数据库。
+9Router 的 Go 重写版，单二进制包含代理 API 与内嵌 Svelte 仪表盘，运行时无需 Node.js。功能包括 RTK 工具结果压缩（宣称省 20-40% token）、订阅→低价→免费模型的自动回退、按组合的路由策略（回退/轮询/粘性/容量/融合）、多账号轮询、按 API key 绑定代理池、每模型熔断、SQLite WAL 持久化与后台守护/开机自启。可与上游 9Router 共享同一 SQLite 数据库。提供安装脚本、Docker 镜像与源码构建。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@
 
 ## 能力要点
 
-- RTK Token Saver 自动压缩 tool_result 内容，节省 20-40% tokens
-- 多级自动回退（订阅→低价→免费）与 per-combo 路由策略
-- 单二进制含嵌入式 Svelte 仪表盘，支持后台守护与开机自启
-- 与上游 9Router 直接共享同一 SQLite 数据库，无需迁移
+- 单二进制运行：Go 代理 API + 内嵌 Svelte 仪表盘，无 Node.js 运行时依赖
+- RTK 工具结果压缩与订阅→低价→免费自动回退路由
+- 每模型熔断、按 API key 代理池绑定、每 key 预算硬截断
+- 与上游 9Router 直接共享同一 SQLite 数据库，无迁移步骤
 
 ## 适用场景
 
-- 为多个 CLI 编码工具统一接入 150+ AI 提供商与模型
-- 订阅配额与限流场景下自动切换到免费/低价模型
-- 压缩 git diff、grep 等工具输出以降低 token 消耗
-- 在无 Node.js 环境下运行 9Router 兼容网关
+- 让 Claude Code/Cursor 等 CLI 工具通过统一本地端点调用 150+ 提供商
+- 在配额与限流间自动回退到免费或低价模型以降低开销
+- 为多个提供商账号做轮询与代理池隔离
+- 从 Node.js 版 9Router 平迁到 Go 版而不迁移数据
 
 ## 场景标签
 
@@ -38,9 +38,9 @@
 
 ## 证据(README 行号)
 
-> L9: **Connect Claude Code, Cursor, Antigravity, Codex, Gemini, OpenCode, Cline, OpenClaw... to 150+ AI providers & 1000+
 > L22: Same idea as 9Router, minus the Node.js runtime: **one Go binary** serves the proxy APIs + an embedded Svelte dashb
-> L42: - ✅ **Single binary** — Go + embedded dashboard, works with Claude Code, Codex, Cursor, Cline, any CLI tool
+> L34: - ✅ **Auto fallback** — Subscription → Cheap → Free, zero downtime
+> L155: - 🔌 OpenAI Chat, Claude Messages, Gemini, Ollama-compatible, Responses, embeddings, media, search, web tools, rera
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `2df7385239e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `b0d831520eb6` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 253 · Python · 推送 2026-11-18 · [GitHub](https://github.com/lechmazur/nyt-connections) · 个人维护
 
-**基于 NYT Connections 谜题的 LLM 言语联想推理评测基准**
+**用 940 道扩展版 NYT Connections 谜题评测 LLM 的基准**
 
-使用 940 个纽约时报 Connections 谜题评测大语言模型：在标准谜题上每题追加至多四个干扰词（已验证不落入任何原分类）以提高难度，考察词汇与文化知识、双关识别、全局约束求解与抗干扰能力。计分采用 quadratic-v1 规则（按完全命中的分组数平方取均），主榜仅收录完成全部 940 题的模型，另有仅含最新 100 题的子榜以对冲训练数据泄漏可能，并附模型家族进展、成本-性能、题级相关性等图表。README 自述它不是通用智力的全面度量。
+以《纽约时报》Connections 字词分组谜题为基础的 LLM 评测基准：每题额外加入最多 4 个经验证不落入原类别的干扰词，考察词汇联想、文字游戏识别与抗诱饵能力。采用 quadratic-v1 计分（精确分组数的平方占比），公布 940 题全量完成的模型排行榜与模型代际对比、单题成本估算、按发布日期与成本的散点图，并声明该基准不测软件工程等技能、不作为通用智能的综合度量。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 940 题扩展版谜题，每题追加至多 4 个经验证不落入原分类的干扰词
-- quadratic-v1 计分：(g/4)² 按题取均
-- 最新 100 题子榜用于对冲训练数据含答案的情况
-- 附带模型家族进展、引入日期-得分、成本-性能与相关性热图
+- 940 道谜题，每题最多加 4 个不落入原类别的干扰词
+- quadratic-v1 计分：0/1/2/3/4 组对应 0%/6.25%/25%/56.25%/100%
+- 排行榜、代际对比、成本估算与模型家族进度图表
+- 主榜仅收录完成全部 940 题的模型
 
 ## 适用场景
 
-- 比较各 LLM 在言语联想推理上的表现
-- 跟踪同一模型家族随时间的得分变化
-- 结合每题成本数据做性价比参考
+- 对比各 LLM 在词汇联想推理任务上的表现
+- 追踪同一模型家族不同版本的分数进展
+- 结合标准定价估算模型跑完基准的成本
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L3: This benchmark evaluates large language models (LLMs) using 940 NYT Connections puzzles, with additional words inclu
-> L7: It is a focused test of verbal associative reasoning under combinatorial
-> L13: Headline results use quadratic-v1 scoring: a puzzle with `g` exact groups
+> L5: To increase difficulty compared to standard NYT Connections puzzles, Extended Connections adds up to four extra tric
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `cc3c8dc750b1` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `d330b8d64e85` · [字段定义](../../DATASET.md)*

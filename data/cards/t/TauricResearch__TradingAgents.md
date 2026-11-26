@@ -1,10 +1,10 @@
 # TauricResearch/TradingAgents
 
-⭐ 123,761 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://tauric.ai) · 组织维护
+⭐ 123,761 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/TauricResearch/TradingAgents) · [官网](https://tauric.ai) · 组织维护 · 中文 README
 
-**多智能体 LLM 金融交易研究框架：分析师辩论生成交易决策**
+**终端金融研究 Agent：提问后给出带来源标注的研究答案**
 
-模拟真实交易公司分工的多智能体框架：由基本面、情绪、新闻、技术四类分析师并行产出报告，多空研究员结构化辩论，交易员决定交易时机与规模，风控团队与组合经理在模拟交易所完成最终裁决。设计定位为研究用途，声明不构成投资建议，回测采用 point-in-time 数据一致性约束避免前视偏差。提供 CLI 交互与免提问的 flag 脚本模式、LangGraph 检查点恢复、Docker 运行方式，支持 ChatGPT Plus/Pro 订阅登录运行。
+以终端 CLI 形式运行的金融研究 Agent：用户输入问题，主 Agent 制定研究计划、调用数据与计算工具，并向权益研究、宏观策略、量化研究、风险分析等专职 Agent 咨询，产出带来源编号的答案，可导出为 PDF 报告或 Markdown。支持自述的 agents 与 skills 扩展（Markdown 文件）。限制：仅做研究与回答，不执行交易；多数 Provider 需 API key。
 
 ## 筛选速览
 
@@ -12,11 +12,11 @@
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | Apache-2.0 |
-| 部署形态 | `self-host` | docker 或自建部署 |
+| 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 动量与使用信号
 
@@ -26,27 +26,26 @@
 
 ## 能力要点
 
-- 分析师/研究员/交易员/风控的多角色 LLM 智能体协作与辩论
-- 并行分析师与 LangGraph 检查点恢复、持久决策日志
-- 多 provider 接入：API key、ChatGPT 订阅登录、Ollama 本地模型、OpenAI 兼容端点
-- 回测的 point-in-time 数据完整性约束与模拟交易所执行
+- 主 Agent 分派任务给权益/宏观/量化/风险四类专职 Agent（各自独立上下文）
+- 答案中每个数字标注来源，并附编号来源列表
+- 按公司/估值/市场/风险提供内置研究 skills，可用 Markdown 自定义扩展
+- 支持 /model 选择模型与推理强度、/resume 恢复会话、/export 导出报告
 
 ## 适用场景
 
-- 对指定股票代码运行多智能体分析并生成交易决策报告
-- 在 ticker/日期网格上做回测研究
-- 用本地 Ollama 或自建 vLLM 端点跑离线研究流程
-- 通过 CLI flag 定时调度无交互分析任务
+- 在终端里向 Agent 提问并获取带出处的公司基本面研究
+- 生成收益预览、DCF 估值、技术分析等结构化研究报告
+- 对持仓做风险评估与组合回顾，并导出 PDF 报告
 
 ## 场景标签
 
-`多智能体` `金融量化` · 领域:Agent 开发
+`金融量化` · 领域:学习与行业
 
 ## 证据(README 行号)
 
-> L50: TradingAgents is a multi-agent trading framework that mirrors the dynamics of real-world trading firms. By deployin
-> L52: > TradingAgents framework is designed for research purposes. Trading performance may vary based on many factors, in
-> L74: ## Installation and CLI
+> L66: Type a question and press Enter. Every figure in the answer is marked with its source, and a numbered list of
+> L86: The main agent plans the research, reads what the question needs with its data tools, and works the numbers
+> L106: and answers; it does not place trades.
 
 ## 星数曲线
 
@@ -62,4 +61,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `42819fc94665` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c7d60b6fc387` · [字段定义](../../DATASET.md)*

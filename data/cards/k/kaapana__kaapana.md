@@ -2,9 +2,9 @@
 
 ⭐ 280 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/kaapana/kaapana) · [官网](https://www.kaapana.ai) · 组织维护
 
-**医学影像 AI 平台工具包：联邦式数据处理与多中心研究**
+**面向医疗影像分析的开放平台工具包与联邦学习框架**
 
-由德国癌症研究中心（DKFZ）开发的开源医学数据分析平台供给工具包，基于 Kubernetes/Helm/Airflow 构建，提供工作流管理（含 nnU-Net 分割、TotalSegmentator 等深度学习算法）、医学影像数据集探索与策展、集成 PACS（dcm4chee）与 Minio 存储、Keycloak 用户管理及 Prometheus/Grafana 监控。遵循联邦理念，数据留在各机构本地处理，支持分布式方法开发与联邦学习，面向研究人员和临床医生开展多中心研究。采用 AGPL 许可，暂不提供预构建 Docker 容器。
+Kaapana 是一个开源的医疗数据分析平台工具包，面向研究人员与临床机构，用于在多中心场景下部署 AI 工作流与联邦学习，重点覆盖放射与放射治疗影像。它提供工作流管理（内置 nnU-Net、TotalSegmentator 等分割算法）、数据集探索与可视化、PACS/Minio 存储、Keycloak 用户管理及系统监控。技术栈基于 Kubernetes、Helm、Airflow、dcm4chee、OpenSearch、Grafana 等，遵循 AGPL 许可，由德国癌症研究中心（DKFZ）维护。构建与部署说明在文档站给出。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 基于 Kubernetes/Helm/Airflow 的容器化工作流平台
-- 集成 nnU-Net、TotalSegmentator 等深度学习影像处理算法
-- 联邦式架构：数据留在本地机构，支持分布式开发与联邦学习
-- 内置 PACS（dcm4chee）、Minio、Keycloak、OHIF 查看器等组件
+- 基于 Kubernetes/Airflow 的医疗影像工作流管理与执行
+- 内置 nnU-Net、TotalSegmentator 等深度学习分割算法
+- 联邦学习支持：数据留在各机构本地处理
+- 集成 PACS（dcm4chee）、Keycloak 用户管理与系统监控
 
 ## 适用场景
 
-- 在多个临床站点部署分布式放射影像分析与量化平台
-- 开展数据不出院的多中心医学影像研究与联邦学习
-- 在临床 IT 环境中运行标准化医学影像 AI 工作流
+- 在多家医院间开展分布式放射影像分析与量化研究
+- 搭建符合临床 IT 基础设施的平台处理 DICOM 数据
+- 在数据不出院内的前提下做多中心机器学习实验
 
 ## 场景标签
 
-`工作流自动化` · 领域:效率与自动化
+`工作流自动化` `图像视频处理` `目标检测` `数据分析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
+> L11: Kaapana is an open-source toolkit for state-of-the-art platform provisioning in the field of medical data analysis.
 > L15: Following this federated concept, the goal of Kaapana is to provide a framework and a set of tools for sharing data
-> L20: * **Workflow management:** Large-scale image processing with SOTA deep learning algorithms, such as nnU-Net image s
+> L19: Core components of Kaapana:
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `4be721af41a0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `704dc5c00772` · [字段定义](../../DATASET.md)*

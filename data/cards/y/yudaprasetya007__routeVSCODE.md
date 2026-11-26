@@ -2,9 +2,9 @@
 
 ⭐ 172 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/yudaprasetya007/routeVSCODE) · [官网](https://github.com/yudaprasetya007/routeVSCODE#readme) · 个人维护
 
-**VSCode 扩展：一键零重载切换 Copilot Chat 的 AI 模型**
+**为 VSCode Copilot Chat 提供零重载切换模型与本地代理**
 
-面向使用 GitHub Copilot Chat 的开发者的 VSCode 扩展与本地代理：通过 9Router AI 网关（端口 20128）连接 40+ 提供商（OpenAI、Anthropic、Gemini、DeepSeek、Groq、OpenRouter），本地代理（端口 20129）透明注入模型、处理 SSE 流式与认证头，实现 Web 仪表盘（端口 5500）或状态栏一键切换模型而无需重载 VSCode 或改 JSON 配置；还提供模型并行对比与延迟基准。安装含 setup 脚本、npm 全局装 9Router 与 vsix 扩展安装。
+一个 VSCode 扩展与本地代理的组合工具，将 GitHub Copilot Chat 接入 9Router AI 网关。通过端口 20129 的本地代理动态注入模型、处理 SSE 流式与认证头，用户在 Web 仪表盘（端口 5500）或状态栏一键切换模型，无需修改 JSON 配置或重载窗口。另提供模型延迟对比与基准测试仪表盘。依赖 Node.js 与 9Router 网关，README 为印尼语，MIT 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 零重载动态切换 Copilot Chat 模型（仪表盘/状态栏 1 点击）
-- 本地代理（端口 20129）自动处理模型注入、SSE 流式与认证头
-- 经 9Router 网关接入 40+ AI 提供商
-- 并排模型对比与延迟基准测试
+- 零重载模型切换：不重启 VSCode 或聊天会话即换模型
+- 本地代理（端口 20129）处理模型注入、SSE 流式与认证头
+- Web 仪表盘支持模型对比与延迟基准测试
+- VSCode 状态栏直接切换模型
 
 ## 适用场景
 
-- 在 Copilot Chat 中即时切换 Claude/GPT/Gemini/DeepSeek 等模型
-- 并排对比多个模型的响应与延迟
-- 不改配置文件、不重启 VSCode 管理本地模型路由
+- 在 Copilot Chat 中一键切换 Claude/GPT/DeepSeek 等模型
+- 对比不同模型对同一提示词的响应与延迟
+- 不想每次改 JSON 配置并重载 VSCode 窗口
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L21: **9Router Model Connector** adalah integrasi pintar yang menghubungkan **Visual Studio Code (GitHub Copilot Chat)**
 > L31: - 🔌 **Dynamic Local Proxy (Port 20129)**: Menangani injeksi model, streaming token SSE, dan header otentikasi secar
+> L43: - **Port 20128** → 9Router core engine (AI gateway & load balancer).
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `362259483c6e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c14bc27a5c2a` · [字段定义](../../DATASET.md)*

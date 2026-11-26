@@ -2,9 +2,9 @@
 
 ⭐ 403 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Higangssh/homebutler) · [官网](https://homebutler.dev) · 个人维护
 
-**给 homelab 用户的单二进制服务器变更报告与运维工具，内置 MCP server**
+**给 homelab 用户的差异化巡检工具：只报告值得说的变更**
 
-单个 Go 二进制的自托管服务器运维工具：通过快照对比生成变更报告（gone/new/replaced/port/disk 等 8 类变化），提供 doctor 健康检查、backup drill 备份可恢复性验证（在隔离容器中启动归档并要求 HTTP 健康检查通过）、进程崩溃 watch（Docker/systemd/PM2 后端）、应用一键部署与 Proxmox 集群查看。无守护进程、无数据库，被监控机器上不留常驻进程，经 SSH 按需运行。所有输出带 --json，内置 MCP server 供 AI agent 在不授予 SSH shell 的情况下查询服务器。判定规则是书面规则而非模型。
+单个 Go 二进制的家用服务器运维工具：对上次快照与当前状态做对比，按八类变更（gone/new/replaced/port/disk 等）输出人读摘要与 JSON，专门识别同名容器被替换这类计数不变的变更；附带 doctor 体检（磁盘、证书、备份、Proxmox 等）、backup drill 恢复验证（隔离容器启动 + HTTP 健康检查）与一键应用部署。无守护进程、无数据库，通过 SSH 按需运行；判定规则为书面规则而非模型，支持 cron 与终端彩色输出。
 
 ## 筛选速览
 
@@ -20,24 +20,25 @@
 
 ## 能力要点
 
-- 快照对比变更报告，replaced 类型识别同名容器被替换
-- backup drill 在隔离容器启动备份并要求 HTTP 健康检查
-- doctor/config validate 只读检查，每个发现附下一条命令
-- 全命令支持 --json 输出，内置 MCP server
+- 快照对比报告：八类变更分类，JSON 与终端输出字段一致
+- backup drill 在隔离容器中启动备份并通过 HTTP 健康检查
+- doctor 只读体检，逐项给出下一条命令，支持 --strict 供 cron/CI
+- 内置 MCP server，AI 代理可在不持有 SSH shell 的情况下检查服务器
 
 ## 适用场景
 
-- 弄清服务器自上次以来发生了什么变化
-- 验证备份是否真的能恢复
-- 让 AI 助手检查服务器而不给它 SSH shell
-- 通过 cron 定时监控容器崩溃与重启原因
+- 想知道两次巡检之间服务器上到底变了什么
+- 验证备份是否真的可以恢复
+- 让 AI 助手查看服务器状态而不开放完整 SSH 权限
+- 一键部署 Uptime Kuma、Jellyfin 等自托管应用
 
 ## 场景标签
 
- · 领域:运维/自托管工具
+ · 领域:服务器运维/homelab 工具
 
 ## 证据(README 行号)
 
+> L91: The design goal is simple: give humans and agents a narrow, structured interface to the server. HomeButler returns 
 > L103: - **The judgement is a written rule, not a model.** What earns a line is in docs/report.md, and the same input giv
 > L152: - **Use it anywhere** — CLI, JSON, web dashboard, or MCP for AI agents without giving them SSH
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `a71c65e1cd2d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `ba8c0801a43f` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 527 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) · [官网](https://youmind.com/gemini-3-prompts) · 组织维护 · 中文 README
 
-**面向 Gemini 3 用户的创意提示词策展清单（49 条，多语言）**
+**面向 Gemini 3 用户的社区创意提示词精选清单**
 
-从社区（主要来源为 Twitter 帖子）收集的 Gemini 3 提示词合集，按发布日期倒序排列，每条含描述、Prompt 文本、示例图与作者信息；部分提示词标注 Raycast Friendly，支持 Raycast Snippets 动态参数语法替换变量。README 提供英语、简繁中文、日语、韩语等 11 种语言版本，并提供 youmind.com 在线画廊入口（支持搜索、瀑布流浏览与 AI 一键生成）。许可证为 CC BY 4.0，声明内容仅供教育目的收集。
+以 Markdown 清单形式收录面向 Google Gemini 3 的社区提示词（统计为 49 条），每条包含描述、提示词正文、示例图片与作者/来源信息，来源多为 Twitter 帖子。部分提示词使用 Raycast Snippets 动态参数语法，标注 🚀 Raycast Friendly。提供 12 种语言的 README 版本与 youmind.com 网页画廊（含全文搜索与筛选）。所有内容按 CC BY 4.0 许可，来自社区收集，声明仅用于教育目的。
 
 ## 筛选速览
 
@@ -20,25 +20,24 @@
 
 ## 能力要点
 
-- 收录 49 条社区来源的 Gemini 3 提示词，附示例图与作者出处
+- 收录 49 条面向 Gemini 3 的社区提示词，附示例图片与出处
 - 部分提示词支持 Raycast Snippets 动态参数语法
-- README 提供 11 种语言版本
-- 提供 youmind.com 在线画廊（全文搜索与瀑布流布局）
+- 提供 12 种语言版本的 README 与网页画廊
+- 网页画廊支持全文搜索、筛选与 AI 一键生成
 
 ## 适用场景
 
-- 查找可直接复制使用的 Gemini 3 网页生成提示词
-- 参考社区提示词的写法与参数化技巧
-- 在 Raycast 中通过动态参数快速迭代提示词
+- 想直接复用他人验证过的 Gemini 3 提示词
+- 需要带动态参数的 Raycast Snippet 提示词模板
+- 通过示例图片对比不同提示词写法的效果
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`精选清单` `提示工程` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L9: > 🎨 A curated collection of creative prompts for Google's Gemini 3
-> L69: ## 📋 All Prompts
 > L65: |📝 Total Prompts|**49**|
 
 ## 星数曲线
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `fb4923a6a934` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c455f3559d12` · [字段定义](../../DATASET.md)*

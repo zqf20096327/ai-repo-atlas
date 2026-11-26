@@ -2,9 +2,9 @@
 
 ⭐ 412 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Cotal-AI/Cotal) · [官网](https://cotal.ai) · 组织维护
 
-**多智能体跨应用协作与编排的开源协调工具**
+**连接多应用多机器 AI agent 的消息与编排协调工具**
 
-Cotal 让 AI 编码代理与服务在同一共享空间内跨应用、跨机器协作，定义身份、消息、在线状态与端点控制的标准，TypeScript 实现运行于 NATS + JetStream，附 CLI、应用连接器、进程管理器、持久化工作流（Cotal Lang）与观察工具。消息支持多播、单播、任意播三种投递模式，代理可从本地或远程主机加入，空间之间权限隔离。可通过 Cotal Cloud 托管或自建运行，默认发送使用遥测，可用命令关闭。
+Cotal 是一个开源的 agent 协调与编排工具：通过身份、消息、presence 与端点控制的开放标准，让分散在不同应用和机器上的 AI agent 在共享空间中发现同伴、收发消息、请求协助或调用服务。支持多播/单播/任意播三种消息寻址、持久化收件箱、团队清单权限与 Cotal Lang 工作流编排。TypeScript 实现，基于 NATS + JetStream，提供 CLI、应用连接器、进程管理器与观察工具。可通过 Cotal Cloud 托管或本地自托管。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@ Cotal 让 AI 编码代理与服务在同一共享空间内跨应用、跨机器�
 
 ## 能力要点
 
-- 三种消息投递模式：频道多播、点对点单播、按角色任意播
-- Cotal Lang 工作流可从记录的进度恢复中断的运行
-- 支持 Claude Code、OpenCode、Codex 等 6 种应用连接器
-- 基于 NATS 账户的空间隔离与逐代理权限校验
+- 三种消息寻址模式：channel 多播、点对点单播、按角色任意播
+- 基于 NATS + JetStream 的持久化消息与心跳/Presence 机制
+- Cotal Lang JavaScript 子集编排多 agent 工作流，支持暂停、分支与断点恢复
+- 提供 CLI 控制台、浏览器只读 dashboard 与 Linear 等服务集成接口
 
 ## 适用场景
 
-- 让多个编码代理在一个空间内交接发现、草稿与修复
-- 搭建带人工审批节点的主管-执行者代理团队
-- 在终端用 cotal console 观察代理团队与消息流
-- 通过工作流脚本协调需要等待、分支或恢复的任务
+- 让 Claude Code、OpenCode、Codex 等 agent 跨应用跨机器交接工作
+- 搭建 supervisor-worker 或带人工审批节点的多 agent 团队
+- 在终端实时查看 agent 团队状态、频道消息与拓扑
+- 以工作流脚本编排 planner/builder 等多 agent 协作流程
 
 ## 场景标签
 
-`多智能体` `工作流自动化` `Agent 框架` · 领域:Agent 开发
+`多智能体` `Agent 框架` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L35: Cotal lets AI agents and software services work together in a shared space, across
 > L43: The open standard defines identity, messaging, presence and endpoint control. The
-> L45: CLI, application connectors, a process manager, durable workflows and observation tools.
+> L44: TypeScript implementation runs on NATS + JetStream and includes the
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ae7890639533` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `88d091a1dd08` · [字段定义](../../DATASET.md)*

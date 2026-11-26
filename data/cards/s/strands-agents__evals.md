@@ -2,9 +2,9 @@
 
 ⭐ 263 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/strands-agents/evals) · [官网](https://strandsagents.com) · 组织维护
 
-**为 AI agent 与 LLM 应用提供评测的 Python 框架**
+**面向开发者的 AI agent 与 LLM 应用评测框架**
 
-Strands Evals SDK 是面向 AI agent 与 LLM 应用的评测框架，覆盖输出评估、轨迹分析、工具使用评估与多轮交互评估。关键机制包括 LLM-as-a-Judge 评估器、基于 OpenTelemetry 轨迹的评估、多轮对话与工具模拟、从上下文描述自动生成实验、失败检测与根因分析、确定性故障注入的混沌测试及红队评估（Crescendo/GOAT/PAIR 等）。经 pip 安装并提供 CLI 子命令用于 CI 流程；需 Python 3.10+。
+Strands Evals 是面向 AI agent 与 LLM 应用评测的 Python SDK 与 CLI：覆盖输出评测、轨迹分析、工具使用评估、多轮对话模拟、LLM-as-a-Judge 打分、基于 OpenTelemetry 轨迹的评测、失败检测与根因诊断、混沌测试、红队安全测试与 agent 配置优化。实验以 JSON 序列化保存与版本化，内置 UI 在本地浏览与编辑实验/报告，并提供 Copy as Markdown 等面向 coding agent 的接口。安装方式为 pip。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Strands Evals SDK 是面向 AI agent 与 LLM 应用的评测框架，覆盖输�
 
 ## 能力要点
 
-- 多种评测类型：输出、轨迹、工具使用与多轮交互评估
-- 多轮对话模拟与 LLM 驱动的工具模拟（支持共享状态与 schema 校验）
-- 失败检测、根因分析与混沌测试（确定性故障注入）
-- CLI 支持 validate/run/report/diagnose/generate 子命令
+- 多种评测类型：输出、轨迹、工具使用、交互评测，含图像任务 MLLM-as-a-Judge
+- CLI 提供 run/validate/report/diagnose/generate/fetch/optimize/ui 八个子命令
+- 失败自动检测与根因分析，附修复建议
+- 红队评测内置 Crescendo、GOAT、PAIR 等攻击策略
 
 ## 适用场景
 
-- 在 CI 中对 agent 应用做输出与轨迹的自动评测
-- 通过模拟用户对话测试 agent 能否完成目标
-- 检测 agent 会话中的失败并分析根因
-- 对 agent 做对抗性安全（红队）测试
+- 上线前对 agent 做批量实验评测并在 CI 中门禁校验
+- 诊断失败会话的根因并获得修复建议
+- 对 agent 做红队对抗性安全测试
+- 自动搜索更优的 agent 提示词与工具配置
 
 ## 场景标签
 
@@ -39,8 +39,8 @@ Strands Evals SDK 是面向 AI agent 与 LLM 应用的评测框架，覆盖输�
 ## 证据(README 行号)
 
 > L9:  A comprehensive evaluation framework for AI agents and LLM applications.
-> L66: Installing `strands-agents-evals` also installs the `strands-evals` console script, a thin wrapper over the Python 
-> L89: Ensure you have Python 3.10+ installed, then:
+> L31: Strands Evaluation is a powerful framework for evaluating AI agents and LLM applications. From simple output valida
+> L35: - **Multiple Evaluation Types**: Output evaluation, trajectory analysis, tool usage assessment, and interaction eva
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `71035b0976ee` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `4bb426768cfc` · [字段定义](../../DATASET.md)*

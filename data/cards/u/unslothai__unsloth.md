@@ -2,9 +2,9 @@
 
 ⭐ 80,250 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/unslothai/unsloth) · [官网](https://unsloth.ai/docs) · 组织维护
 
-**本地桌面应用：运行与微调 LLM/扩散模型并提供 Web UI**
+**本地运行与训练 LLM/扩散模型的桌面应用，供开发者与模型使用者**
 
-Unsloth 提供三种使用形态：Desktop 桌面应用（Windows/macOS/Linux 安装包）、Studio Web UI、Core 代码版（uv pip 安装）。功能覆盖本地运行与训练 LLM、GGUF、MLX、扩散、TTS、embedding 模型，支持 LoRA/QLoRA/GRPO/DPO/FP8 等训练方式与 GGUF/FP8 等导出格式；通过 unsloth start 命令把 Claude Code、Codex 等 agent 接到本地模型，并提供 OpenAI 兼容 API、RAG/搜索、LAN 与 Cloudflare HTTPS 远程访问、Docker 镜像部署。支持 NVIDIA/AMD/Intel GPU 与 CPU。
+提供三种使用形态：Desktop 桌面应用（Windows/macOS/Linux 安装包）、Studio Web UI、Core 代码库（pip 安装）。功能覆盖本地运行与训练 LLM、GGUF/MLX、扩散、嵌入、TTS 等模型，微调支持 LoRA/QLoRA/GRPO/DPO/FP8 等方法，导出 GGUF 等格式，并可通过 OpenAI 兼容 API 对外提供模型服务。可将本地模型接入 Claude Code、Codex、MCP 等 agent 工具，支持 Cloudflare HTTPS 远程与 LAN 访问，暴露服务时要求设置管理密码。
 
 ## 筛选速览
 
@@ -27,27 +27,27 @@ Unsloth 提供三种使用形态：Desktop 桌面应用（Windows/macOS/Linux �
 
 ## 能力要点
 
-- Desktop/Studio/Core 三种形态，覆盖 Windows/macOS/Linux 与 Docker 部署
-- 训练支持 LoRA、QLoRA、GRPO、DPO、RL、FP8，导出 GGUF/NVFP4/FP8
-- unsloth start 一条命令接入 Claude Code、Codex、VS Code 等 agent
-- OpenAI 兼容 API、LAN/Cloudflare HTTPS 远程访问与密码管理
+- 桌面/Web UI/代码库三种形态，Windows、Linux、WSL、macOS 均可运行
+- 运行与训练 LLM、扩散、决策、嵌入、音频模型，导出 GGUF、NVFP4、FP8 等格式
+- unsloth start 命令将本地模型接入 Claude Code、Codex、OpenCode 等 agent
+- 通过 OpenAI 兼容 API 服务模型，支持 LAN 与 Cloudflare HTTPS 远程访问
 
 ## 适用场景
 
-- 在本地桌面运行 GGUF/MLX 模型并对话
-- 用 notebooks 或 CLI 微调 LLM、TTS、视觉模型后导出部署
-- 把本地模型作为 Claude Code/Codex 等 agent 的后端
-- 通过 Docker 在服务器部署 Web UI 并远程访问
+- 在本地电脑运行开源 LLM 与图像/视频扩散模型
+- 微调模型并导出 GGUF 等格式部署
+- 把本地模型作为 Claude Code、Codex 等 agent 的后端
+- 通过 Web UI 或局域网从多设备访问本地模型
 
 ## 场景标签
 
-`微调` `强化学习` `推理引擎` `RAG` · 领域:知识与检索
+`图像生成` `语音合成` `微调` `模型量化` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L6: Unsloth is the first desktop app to run and train models.
-> L76: * Run and train LLMs, MLX, GGUF, diffusion, decision, embedding, audio models: Qwen3.8, GLM-5.3-Flash, Kimi K3, Qwe
-> L87: * **Complete support:** Supports reinforcement learning, LoRA, QLoRA, full fine tuning, pretraining, RL, GRPO, DPO,
+> L77: * **Agents & Tools:** Use local models with Claude Code, Codex, and MCP, including tool calling and code execution.
+> L86: * **Fine-tuning:** Train LLMs, diffusion, decision, TTS, and embedding models 2× faster with 70% less VRAM with no 
 
 ## 星数曲线
 
@@ -63,4 +63,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `87700781257f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `d71c6e8389ce` · [字段定义](../../DATASET.md)*

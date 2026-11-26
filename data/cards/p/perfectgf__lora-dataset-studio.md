@@ -2,9 +2,9 @@
 
 ⭐ 382 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/perfectgf/lora-dataset-studio) · [官网](https://perfectgf.github.io/lora-dataset-studio/) · 组织维护
 
-**本地 LoRA 训练工作台：从单张照片建数据集到训练对比选优**
+**本地 LoRA 训练工作台：从单张照片到数据集、训练与选型**
 
-在本地浏览器中运行的 LoRA 数据集与训练工作台：从单张参考照生成缺失镜头、整理大图库、去水印并按目标模型风格写caption（JoyCaption、prose 或 booru tags），再调用 ai-toolkit 训练适配多个图像模型的 LoRA；同 seed 渲染各 checkpoint 并按投票与人脸相似度排名选优。核心功能无需 GPU；本地自动 caption、生成与训练分别有显存下限。提供 Windows ZIP、Git、Docker、Pinokio、RunPod 等安装路径，部分保留功能需付费会员。
+在本地 PC 上运行的 LoRA 训练工作台：从一张参考照片生成缺失镜头或从大图库整理数据集，写 captions（prose 或 booru tags），通过 ai-toolkit 训练面向 Krea 2、FLUX.1、FLUX.2 Klein、Qwen-Image 2.1、Z-Image、SDXL、Anima 的 LoRA，并在同 seed 下渲染对比 checkpoint，支持投票与人脸相似度排名。核心功能无 GPU 可用；本地训练依赖 NVIDIA GPU（按任务 8–48 GB 不等），也可租用云 GPU。Windows 提供 ZIP 启动包，另支持 Docker、Pinokio 与源码安装。
 
 ## 筛选速览
 
@@ -13,24 +13,23 @@
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
-| 模型依赖 | — | README 未给出锁定关系 |
+| 模型依赖 | locked-api |  |
 | 硬件要求 | `cpu-ok` | |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 81 个工具覆盖单照扩图、图库分拣、caption、训练与 checkpoint 对比全流程
-- 五个生成引擎：Nano Banana Pro、ChatGPT、OpenRouter 及经 ComfyUI 的本地 Klein/Krea 2 Edit
-- Image Bank 单次评分提供美学/NSFW/风格排序、去重分组与可复用 embeddings
-- Test Studio 固定 seed 网格对比、投票、Wilson 排名与人脸相似度排名
+- 从单张参考照片生成数据集所需镜头（5 种生成引擎）
+- Image Bank：大图库评分、去重、聚类与短名单筛选
+- 封装 ai-toolkit 的免配置训练与 checkpoint 同 seed 对比、投票排名
+- 水印检测与修复、InsightFace 相似度检查等数据清洗工具
 
 ## 适用场景
 
-- 从一张角色照快速构建并训练角色 LoRA
-- 把几千张图的文件夹筛成平衡的数据集
-- 同一数据集并行多个云端训练对比超参
-- 固定 seed 逐个对比 checkpoint 选出最优
+- 为角色、风格或概念 LoRA 准备并清洗训练数据集
+- 在本地 GPU 上训练 LoRA 并按证据挑选最佳 checkpoint
+- 整理数千张图片的大文件夹并筛选可用训练素材
 
 ## 场景标签
 
@@ -39,7 +38,7 @@
 ## 证据(README 行号)
 
 > L5: LDS builds the dataset for you: it generates the shots your photos are missing, sorts a big image folder, cleans wat
-> L118: Pick a recipe and start: LDS fills in the ai-toolkit settings and scales the steps with the dataset, on your GPU o
+> L28: Complete **Setup**, then create a dataset or install the plugins you need. Importing, organizing and manually capti
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `7e6f6f9b24d7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `c1c20d2eee21` · [字段定义](../../DATASET.md)*

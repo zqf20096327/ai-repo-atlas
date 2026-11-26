@@ -2,9 +2,9 @@
 
 ⭐ 363 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Bria-AI/FIBO) · [官网](https://bria.ai) · 组织维护
 
-**8B 参数 JSON 原生文生图模型，支持可控迭代生成**
+**面向专业工作流的 JSON 原生开源文生图模型**
 
-Bria 开源的 8B 参数 DiT 架构文生图模型，基于流匹配训练，使用 SmolLM3-3B 文本编码器与 Wan 2.2 VAE。其特点是以约 1000 词的结构化 JSON 长描述训练，支持 Generate/Refine/Inspire 三种模式：短提示经 VLM 扩展为结构化 JSON 后生成图像、按指令迭代精修、从图像提取提示再生成。训练数据全部来自授权数据集。许可为非商业用途开源，商业使用需另行获取授权；可通过源码本地运行、ComfyUI 节点或 Bria/Fal.ai/Replicate API 使用。
+Bria AI 发布的 8B 参数开源文生图模型，仅以长结构化 JSON 字幕（1000+ 词）训练，围绕可控性与可复现性设计。提供三种模式：Generate（VLM 将短提示扩展为结构化 JSON 后生成）、Refine（仅更新指定属性进行迭代）、Inspire（从输入图像提取结构化提示生成变体）。Fibo 2.0 Dev 统一文生图与图像编辑（掩码编辑、多参考图）。提供本地推理脚本、ComfyUI 节点与 Bria/Fal.ai/Replicate API 端点；权重仅限非商业用途，商业用途需另行授权。
 
 ## 筛选速览
 
@@ -16,30 +16,30 @@ Bria 开源的 8B 参数 DiT 架构文生图模型，基于流匹配训练，使
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `medium` | 含编译或系统依赖之一 |
-| 成熟度 | — | 结构信号不足 |
+| 成熟度 | `idea` | |
 
 ## 能力要点
 
-- 结构化 JSON 长描述训练，支持属性级解耦控制与迭代精修
-- Generate/Refine/Inspire 三种模式，VLM 可用 Gemini 或本地 FIBO-VLM
-- TeaCache 加速选项（生成提速约 3 倍）
-- 提供微调代码、ComfyUI 节点与 API 端点多种接入方式
+- JSON 原生结构化提示，支持解耦的单属性微调
+- Generate/Refine/Inspire 三种生成模式与图像编辑（掩码、最多 4 张参考图）
+- VLM 后端可选 Gemini API 或本地 FIBO-VLM（--model-mode local）
+- TeaCache 加速生成 3 倍，另有 ComfyUI 节点与三家 API 端点
 
 ## 适用场景
 
 - 需要精确控制光照、构图、相机参数的专业图像生成
-- 对图像局部属性做迭代精修而不破坏整体场景
-- 从参考图像提取结构化提示生成变体获取灵感
-- 有合规数据要求的商业生产环境（需商业授权）
+- 基于结构化提示做迭代式属性级修图
+- 从参考图提取结构化提示生成相关变体
 
 ## 场景标签
 
-`图像生成` `微调` · 领域:内容生成
+`图像生成` · 领域:内容生成
 
 ## 证据(README 行号)
 
 > L48:  FIBO is the first open-source, JSON-native text-to-image model trained exclusively on long structured captions.
-> L227:  FIBO is an 8B-parameter DiT-based, flow-matching text-to-image model trained exclusively on licensed data and on 
+> L53:  Most text-to-image models excel at imagination—but not control. FIBO is built for professional workflows, not casu
+> L102:  The model is open source for non-commercial use with this license
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `db49767e8fbb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9eaa8a6d53c7` · [字段定义](../../DATASET.md)*

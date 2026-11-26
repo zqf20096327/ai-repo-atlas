@@ -1,10 +1,10 @@
 # helixnow/deep-student
 
-⭐ 340 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/helixnow/deep-student) · [官网](https://www.deepstudent.cn) · 组织维护 · 中文 README
+⭐ 340 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/helixnow/deep-student) · [官网](https://www.deepstudent.cn) · 个人维护 · 中文 README
 
-**面向学生的本地优先 AI 学习工作台：一句话生成笔记/导图/题卡**
+**本地优先的 AI 学习工作台：Agent 代做笔记与复习**
 
-DeepStudent 是一个开源、本地优先的 AI 学习工作台，提供聊天、文件、媒体转写、教材阅读、笔记、思维导图、试卷集、闪卡（FSRS 间隔重复）、作文批改、翻译等应用组成的 Study Desktop，学习 Agent 可在各应用内直接产出并写入结果。数据本地存储（SQLite/LanceDB），答案引用 PDF 页码或讲义时间戳；支持 13 个模型提供商、9 个搜索引擎、6 个 OCR 引擎、58 个内置技能、MCP 外接工具与 AI 插件工坊。AGPL-3.0-or-later 许可。
+面向学习者的桌面/移动端 AI 学习工作台，内置聊天、文件库、转录、PDF 阅读、笔记、思维导图、题集、抽认卡等应用；学习 Agent 通过专用工具在各应用中直接产出笔记、导图、题目、卡片、批改与复习计划。机制上采用 TypeScript 双内核插件架构（Cordis），内置 58 个技能、MCP 外部工具、15 个预设模型商、多搜索引擎与 OCR，支持风险分级审批、编辑撤销与 PDF 页级引用回链。数据本地存储（SQLite/LanceDB），支持 WebDAV/S3 同步与安全快照。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ DeepStudent 是一个开源、本地优先的 AI 学习工作台，提供聊天�
 
 ## 能力要点
 
-- Agent 在每个应用内产出笔记、思维导图、题目、闪卡与复习计划
-- 13 个模型提供商、9 个搜索引擎与 6 个 OCR 引擎内置
-- FSRS-6/7 间隔重复、APKG 导入导出与 Anki 同步
-- 本地存储（SQLite/LanceDB），答案带 PDF 页码/时间戳引用回链
+- Agent 在各应用内直接落地产出：笔记、导图、题集、卡片、作文批改与翻译
+- 58 个内置技能 + MCP 外接工具 + 15 个预设模型商与 9 个搜索引擎、6 个 OCR 引擎
+- Flashcards 应用内置 FSRS-6 间隔重复、.apkg 导入导出与 AnkiConnect v6 同步
+- 数据本地存储（SQLite/LanceDB），支持 WebDAV/S3 云与局域网同步及 pre_restore 安全快照
 
 ## 适用场景
 
-- 把教材章节导入后生成思维导图与复习闪卡
-- 转写录课音频并按时间戳引用提问
-- 按高考/雅思/考研等评分标准做作文批改
-- 多设备间用 WebDAV/S3 同步学习数据
+- 导入课本与真题，自动生成抽认卡并按 FSRS 安排每日复习冲刺
+- 把录播课程转成带时间戳的笔记，对照讲稿提问
+- 一句话生成学科思维导图，背记模式隐藏关键节点填空
 
 ## 场景标签
 
-`知识库管理` `RAG` `语音识别` `OCR` · 领域:知识与检索
+`知识库管理` `文档问答` · 领域:知识与检索
 
 ## 证据(README 行号)
 
 > L9: An open-source, local-first AI learning workbench.
-> L39: Notes, mind maps, exam sets, flashcards, todos, essay review and translation all have agent tools, so results land 
-> L65: |**Flashcards**|Review, card making and templates in one place: built-in FSRS-6 spaced repetition (plus an isolated
+> L41: Notes, mind maps, exam sets, flashcards, todos, essay review and translation all have agent tools, so results land 
+> L36: ## A study agent that works in every app
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `4aee3fa187f4` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `26e936756714` · [字段定义](../../DATASET.md)*

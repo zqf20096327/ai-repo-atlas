@@ -2,9 +2,9 @@
 
 ⭐ 175 · JavaScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/Sillyanonymous/SillyTavern-CharacterLibrary) · [官网](https://discord.gg/YpWrpqT4DF) · 个人维护
 
-**SillyTavern 角色卡库管理扩展：发现、整理与管理角色库**
+**SillyTavern 角色卡库管理扩展：发现、整理与批量管理角色卡**
 
-安装于 SillyTavern extensions 目录的第三方扩展，提供角色库网格浏览、搜索过滤排序、批量打标签/更新/导出、版本快照、播放列表与筛选预设，以及角色详情的标签页界面（编辑、聊天、媒体画廊、关联推荐）。支持 ChubAI 等在线角色站下载与图床媒体抓取。AI 部分为辅助功能：AI Studio 协助角色卡写作、AI 生成 Lorebook 条目与 CSS。README 声明开发暂停，等待独立版 Project Σ 发布。
+作为 SillyTavern 扩展运行，提供角色卡的网格浏览（虚拟滚动/懒加载）、搜索过滤排序、标签三态筛选、收藏与播放列表组织；支持单选或批量打标、更新检查、导出导入（.zip 打包卡片/聊天/媒体/世界书）、版本快照与差异预览。内嵌 AI Studio 辅助逐字段撰写与迭代角色卡，AI CSS 助手生成样式；可从 ChubAI、Pygmalion 等站点浏览与下载角色，外部图床提取需 cl-helper 插件。安装方式为克隆到 SillyTavern 扩展目录后刷新页面。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 角色库网格视图、三态标签过滤、批量操作与 Bundle 导入导出
-- 版本快照与 diff 预览、播放列表、筛选预设
-- AI Studio 协助角色卡字段创作与 Lorebook 条目生成
-- ChubAI/Wyvern/Pygmalion 角色下载与多图床媒体抓取
+- 网格视图、搜索过滤排序与批量打标/更新/导出导入等库管理能力
+- AI Studio 逐字段多轮对话生成与迭代角色卡内容
+- 版本历史快照、差异预览与 .zip 打包迁移
+- 外部图床提取器支持 Civitai/Imgchest/Mega/Pixiv 等十余站点
 
 ## 适用场景
 
-- 管理大量角色卡的整理、打标签与查找
-- 从在线角色站浏览并下载角色到本地库
-- 借助 AI Studio 辅助创作和迭代角色卡内容
+- 集中管理我在 SillyTavern 里的角色卡收藏与标签
+- 从 ChubAI 等站点批量浏览并下载角色卡
+- 用 AI Studio 辅助编写和打磨角色卡设定
+- 在不同 SillyTavern 实例之间打包迁移角色库
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+`聊天机器人` `AI 写作` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L16: A powerful SillyTavern extension for discovering, organizing, and managing your character library with a modern gla
 > L79: - **Character Creator** with built-in AI Studio for assisted card authoring, brainstorming, and iterative refinemen
-> L81: - **Custom CSS theming** with snippet management and an AI CSS Assistant that writes and iterates on styling for yo
+> L151: Create new characters from scratch or edit existing ones with an AI-powered assistant built into the library.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `a7d82bc64dbd` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 low · 依据 README sha `68ababa60618` · [字段定义](../../DATASET.md)*

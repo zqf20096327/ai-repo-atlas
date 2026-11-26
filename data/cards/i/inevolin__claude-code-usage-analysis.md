@@ -2,9 +2,9 @@
 
 ⭐ 170 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/inevolin/claude-code-usage-analysis) · [官网](https://nevolin.be) · 个人维护
 
-**Claude Code token 用量的实证研究：缓存过期与压缩时机分析**
+**Claude Code 用量反模式实测与本地日志分析工具**
 
-面向使用 Claude Code 的开发者与团队的实证用量研究：通过在专用 API key 上对 Claude Opus 5.5 的多轮实机运行（多数发现 n<3 标注为初步），测量缓存过期、/compact 时机、工具输出长度、CLI 与 Desktop 开销等对 token 用量的影响，并给出最佳实践清单（如休息前 /compact 约 2.5x vs 过期后恢复约 10x）。附带的 Python 分析器读取 ~/.claude/projects 日志生成本地用量报告，不复制提示词文本；也可作为 Claude 技能安装后用 /claude-code-usage-check 调用。
+围绕 Claude Code 提示缓存（prompt cache）过期造成的用量放大问题，给出实测数据（13 次 API key 实测，缓存过期后续聊约 9.83x）与最佳实践命令（如 /compact、/clear 加三行笔记），并区分实测、初步与估算三类证据。附带本地分析工具：读取 ~/.claude/projects 的时间戳与 token 元数据，生成习惯报告，不读取或上传聊天文本；亦提供 Claude Code skill 安装方式。MIT 许可。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 缓存过期前后同一小修复用量 1.5x vs 约 10x 的实测数据（含 n 与范围）
-- 量化 /compact 时机、长日志、中途关工具（22x）等习惯的开销
-- python3 -m cc_usage_study.analyze 本地分析 Claude Code 会话日志，不复制提示词文本
-- 提供 Claude 技能安装方式（/claude-code-usage-check）
+- 13 次实测给出缓存过期后 9.83x 用量数据，并标注证据等级（实测/初步/估算）
+- 本地分析工具仅读取元数据，不读取或上传聊天文本
+- 提供手动命令、skill 安装与一次性提示词三种自查方式
+- 覆盖 cron/CI、idle compact、1 小时缓存 TTL 等配置建议
 
 ## 适用场景
 
-- 我想降低 Claude Code 的 token 开销，查找可操作的习惯建议
-- 分析自己 ~/.claude/projects 日志核验个人用量模式
-- 为团队的 Claude Code 使用规范寻找实测依据
+- 查清自己的 Claude Code 会话缓存过期频率
+- 在长休息前用 /compact 降低续聊用量
+- 按自己的日志获取针对性的缓存配置建议
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L95: **Methods in brief.** All live runs used Claude Opus 5.5, effort medium, Claude Code 2.1.325, and the default 5-min
-> L43: To run only the analyzer yourself: `python3 -m cc_usage_study.analyze ~/.claude/projects --summary --sessions --cal
+> L1: # Claude Code usage anti-patterns & best-practices
+> L42: See how often your own cache expires. This runs on your computer, on metadata in `~/.claude/projects` (timestamps a
+> L116: - **Calculated estimate (not measured live):** 1-hour subscription miss (11.0x), scheduled `claude -p --resume` (a
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 mid · 依据 README sha `be8df9f51ade` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `dec8d0e5fe76` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 424 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/C4rohan/Lampline) · 个人维护
 
-**在本地构建并测试电话语音 AI agent 的开源平台**
+**在本地自托管构建并电话实测 AI 语音坐席的开源平台**
 
-Lampline 是一个本地运行的电话语音 agent 构建与测试平台：agent 以 YAML/Markdown 文件描述（agents-as code），用 vk CLI 做 lint、测试、导入导出；测试可由 AI Test Caller 拨打真实电话并按检查项逐条评分。支持导入/导出 Dialogflow CX 与 CX Agent Studio，内置拖拽式 builder、HTTP/MCP 工具、记录与文档检索，电话接入走 Twilio、Telnyx 或 SIP（经 jambonz），基于 Pipecat。提供 Claude Code 插件与 skills，测试路径无需 API key，整套平台经 Docker 一条命令启动，模型与语音可走本地 Ollama、Moonshine、Kokoro。
+以 YAML/Markdown 文件形式定义电话语音坐席（agents as code），提供 vk CLI 做离线检查与对话测试，由 AI Test Caller 拨打真实电话并逐条评分转录。支持导入/导出 Dialogflow CX 与 CX Agent Studio 坐席，拖拽式构建器混合脚本页与 LLM 步骤，通过 Twilio、Telnyx 或 SIP trunk（经 jambonz）接电话。内置 Claude Code/Cursor/Codex 技能用于构建、修复、评审坐席；默认 --free 模式用本地 Qwen3 4B（Ollama）与 Moonshine/Kokoro 语音，无需 API key。
 
 ## 筛选速览
 
@@ -20,17 +20,17 @@ Lampline 是一个本地运行的电话语音 agent 构建与测试平台：agen
 
 ## 能力要点
 
-- agent 以 YAML/Markdown 文件表达，vk CLI 完成 lint/test/import/export
-- AI Test Caller 拨打真实电话并逐项评分，含响应时间 p95 统计
-- Dialogflow CX / CX Agent Studio 双向导入导出映射
-- 20 个模型提供商可选，或本地 Ollama + Moonshine + Kokoro 免 key 运行
+- YAML 定义坐席并用 vk lint/test 运行对话测试，真实电话由 AI Test Caller 拨打并评分
+- 导入/导出 Dialogflow CX 与 CX Agent Studio（flows/pages/playbooks 双向映射）
+- --free 模式本地运行 Qwen3 4B + Moonshine + Kokoro，无 API key、无遥测
+- 提供 Claude Code 插件与 4 个 agent 技能，及 vk mcp 工具服务
 
 ## 适用场景
 
-- 为电话客服 agent 编写回归测试并在 CI 中运行
-- 把 Dialogflow CX agent 迁到本地自托管环境
-- 用 AI 模拟吵闹/打断/口音等复杂来电者考验语音 agent
-- 从编码代理（Claude Code 等）构建和修复语音 agent
+- 上線前对 Dialogflow CX 电话坐席写回归测试并自动评分
+- 在自己的服务器或笔记本上跑自托管语音坐席平台
+- 用编码 agent 自动构建、修复并评审电话坐席
+- 通过 Google Voice 浏览器桥免费测试任意带号码的语音坐席
 
 ## 场景标签
 
@@ -38,9 +38,9 @@ Lampline 是一个本地运行的电话语音 agent 构建与测试平台：agen
 
 ## 证据(README 行号)
 
-> L5:  Write conversation tests for your phone agents, including Dialogflow CX and CX Agent Studio agents,
+> L3:  Test and run phone agents on your own machine.
 > L6:  run them from Claude Code or CI, and have real phone calls graded by an AI caller.
-> L60: **Run it.** The same agents take real calls on hardware you control: a
+> L63: SIP trunk through jambonz. Import from Dialogflow CX and CX Agent Studio, or
 > L64: export back, whenever you like. Built on Pipecat.
 
 ## 星数曲线
@@ -57,4 +57,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `077972c9401a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `2609ea5a1e7e` · [字段定义](../../DATASET.md)*

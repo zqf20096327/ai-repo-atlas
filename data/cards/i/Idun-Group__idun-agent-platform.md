@@ -1,10 +1,10 @@
 # Idun-Group/idun-agent-platform
 
-⭐ 208 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Idun-Group/idun-agent-platform) · [官网](https://idun-group.github.io/idun-agent-platform/) · 组织维护 · 中文 README
+⭐ 208 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Idun-Group/idun-agent-platform) · [官网](https://idun-group.github.io/idun-agent-platform/) · 组织维护
 
-**自托管开源运行时：把 LangGraph/ADK agent 一键部署为生产级 FastAPI 服务**
+**将 LangGraph/ADK agent 打包为生产级 FastAPI 服务的运行时**
 
-面向使用 LangGraph 或 Google ADK 构建 agent 的团队，将 agent 包装为单一 FastAPI 进程交付，内置聊天 UI、管理面板、追踪查看器、15+ 护栏（基于 Guardrails AI）、MCP 工具治理、多后端记忆持久化（PostgreSQL/SQLite/内存/Vertex AI）与版本化提示词管理。观测支持 Langfuse、Phoenix、LangSmith、GCP 等多提供方同时接入，并提供 AG-UI/CopilotKit 兼容流式 API。通过 pip 安装单 wheel，YAML 配置，GPLv3 许可，由 Idun Group 维护并提供商业支持。
+开源自托管平台：通过 pip 安装后把 LangGraph 或 Google ADK 编写的 agent 作为 FastAPI 进程运行，内置聊天 UI、管理面板、trace 查看器、15+ 护栏（基于 Guardrails AI）、MCP 工具治理、记忆持久化（PostgreSQL/SQLite/内存等后端）与版本化提示词管理，经单个 YAML 配置并可从管理 REST 热加载。支持 AG-UI/CopilotKit 流式 API、OpenTelemetry 可观测性、OIDC/SSO。Python 3.12/3.13 可用，GPLv3 许可。README 声明项目已停止维护。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 单进程交付：engine SDK + Next.js 聊天 UI + 管理面板 + 追踪查看器
-- 15+ 内置护栏（PII/毒性/禁词/话题限制/NSFW 等），按 agent 作用于输入/输出
-- MCP 工具治理，支持 stdio/SSE/HTTP/WebSocket 传输
-- 多观测提供方（Langfuse/Phoenix/LangSmith/GCP）可同时接入
+- pip install 后 agent 即以 FastAPI 进程运行，wheel 内捆绑引擎、CLI 与三个 UI
+- 15+ 护栏按输入/输出策略执行（PII、毒性、话题限制等，基于 Guardrails AI）
+- MCP 服务器注册与按 agent 的工具访问控制，支持 stdio/SSE/HTTP/WebSocket
+- LangGraph 与 Google ADK 为一等适配，LangChain 经 LangGraph 适配器支持
 
 ## 适用场景
 
-- 把已写好的 LangGraph/ADK agent 自托管上线为生产服务
-- 对 agent 的工具访问、护栏与可观测性做统一治理
-- 在自有基础设施上运行 agent，避免 SaaS 托管
+- 把本地开发的 LangGraph/ADK agent 部署为带聊天界面的自托管服务
+- 通过管理面板统一配置护栏、MCP 工具与提示词版本
+- 在自有基础设施上接入 Langfuse/Phoenix 等多可观测性后端
 
 ## 场景标签
 
@@ -37,8 +37,9 @@
 
 ## 证据(README 行号)
 
-> L20:  Idun Agent Platform is an open-source, self-hosted production wrapper for LangGraph and Google ADK agents. <code>p
-> L24: > **Why Idun?** Teams building agents face a tradeoff: build the production wrapper yourself (FastAPI + traces + gu
+> L23:  Idun Agent Platform is an open-source, self-hosted production wrapper for LangGraph and Google ADK agents. <code>p
+> L162: > **Framework support** — LangGraph and Google ADK are first-class today, with full adapters in the engine. LangCh
+> L21: > Idun Agent Platform is no longer maintained. The code stays open source under GPLv3, and the documentation stays 
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `f5e137288b59` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `e34107e14a86` · [字段定义](../../DATASET.md)*

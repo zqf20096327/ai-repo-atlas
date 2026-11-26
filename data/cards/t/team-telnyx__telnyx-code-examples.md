@@ -2,9 +2,9 @@
 
 ⭐ 170 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
 
-**Telnyx 通信平台的代码示例集：Voice AI、呼叫、SMS 等**
+**面向 Telnyx 平台开发者的可运行示例代码集**
 
-Telnyx 官方维护的生产级代码示例仓库，每个示例为独立项目，含可运行代码、文档与环境配置，覆盖 Voice AI（161 个示例）、IVR、呼叫控制与转移、会议、语音信箱处理、深度伪造语音检测、传真结构化提取、多语言配音等场景，另含 SIP、SMS、IoT 等主题。示例以 Node.js/Python/Go/Java/PHP/Ruby/C# 等多语言编写，克隆配置后可运行；多个示例使用 Telngx Edge Compute 与 AI Inference binding 做 LLM 推理、STT/TTS 与通话处理。
+Telnyx 平台的示例代码集合，每个示例为自包含项目，含可运行代码、文档与环境配置，克隆并配置后即可运行；每个示例目录带 Quick Start 安装/运行命令、API.md 端点参考与 GUIDE.md 指南。覆盖 Voice AI（约 160+ 例）、IVR、会议通话、外呼、号码查询、AI Inference 绑定、Edge Compute 等，语言含 Python/Node.js/Go/PHP/Ruby/C#/Java/TypeScript。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@ Telnyx 官方维护的生产级代码示例仓库，每个示例为独立项目�
 
 ## 能力要点
 
-- Voice AI 类 161 个示例，覆盖 IVR、会议、AI 呼叫路由、实时转录
-- 多语言实现（Node.js/Python/Go/Java/PHP/Ruby/C# 等）
-- 每个示例含 Quick Start、API.md 与 GUIDE.md
-- 多个示例基于 Edge Compute 与 AI Inference binding 运行 STT→LLM→TTS 循环
+- 162+ 个 Voice AI 自包含示例，覆盖 IVR、会议、外呼、转写、情感监测等
+- 每个示例附 Quick Start、API.md 端点参考与 GUIDE.md 指南
+- 支持 Python/Node.js/Go/PHP/Ruby/C#/Java 等多语言版本
+- 含 Telnyx Agent SDK、AI Inference 绑定与 Edge Compute 用法示例
 
 ## 适用场景
 
-- 开发者快速上手 Telnyx Voice AI 与呼叫控制 API
-- 参考实现搭建 IVR、呼叫中心或语音 AI 助手
-- 学习在边缘计算环境接入 LLM 推理与消息 API
+- 参考官方示例快速接入 Telnyx 语音与短信 API
+- 为呼叫中心搭建 IVR、录音、坐席辅助等流程
+- 构建 AI 语音助手、实时转写或外呼工作流
 
 ## 场景标签
 
-`语音 Agent` `语音合成` · 领域:对话与助手
+`语音 Agent` `教程课程` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L1: # Telnyx Code Examples - AI Communications Infrastructure
 > L3: Production-ready code examples for the Telnyx platform. Each example is a self-contained project with working code, 
-> L18:  Voice AI (161 examples)
+> L18:  Voice AI (162 examples)
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `0b2a0b512cc3` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a14b74b29b73` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 185 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/diandiancha/LittleAIBox) · [官网](https://littleaibox.com) · 个人维护 · 中文 README
 
-**跨平台 Gemini AI 聊天应用：本地处理文件、隐私优先**
+**无需注册的跨平台 AI 聊天应用：本地解析文档并调用模型对话**
 
-基于 Vite/Capacitor/Cloudflare 的全栈跨平台 AI 对话应用，接入 Google Gemini API。浏览器端直接解析 PDF/DOCX/XLSX/PPTX 文件（无需上传），支持实时网页搜索、Semantic Scholar 研究模式、图像生成、语音输入与多格式导出；后端含弹性 API 密钥池（多密钥轮换、健康检查、自动故障转移）以绕过地区限制。面向受限地区用户、学生、开发者与注重隐私的用户；无需注册即可使用，提供 PWA 离线与 Android 原生支持。限制：本仓库仅开源前端，订阅/支付后端闭源；声明用于教育与研究目的，商业部署由作者另行运营。
+基于 Vite、Capacitor 与 Cloudflare 构建的跨平台 AI 聊天应用，面向受限地区用户、学生研究者、开发者与内容创作者。前端在浏览器内解析 PDF/Office 文档、渲染 Markdown/KaTeX/Mermaid/Vega 内容，服务层负责模型接入、检索、会话与密钥轮换熔断。支持双 API key 负载均衡、实时联网搜索、Semantic Scholar 学术检索与图像生成。本仓库仅发布前端快照，后端源码与支付等商业化部分未包含，需自行配置兼容服务。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 客户端直接解析 PPTX/DOCX/PDF/XLSX 文件，处理不上传
-- 弹性 Gemini API 密钥池：多密钥轮换、健康检查、自动故障转移
-- 研究模式对接 Semantic Scholar 并输出结构化带引文回答
-- PWA 离线可用 + Android 原生（Capacitor），免注册使用
+- 浏览器端解析 PDF/DOCX/PPTX/XLSX/CSV 等文档，本地处理内容后再发起模型请求
+- 双 API key 管理：智能负载均衡或备份回退模式，含密钥统计、重试与熔断（后端维护）
+- 搜索模式、研究模式（Semantic Scholar/OpenAlex 引用）与图像生成模式
+- Web/PWA/Capacitor 跨平台适配，7 种语言界面与 Canvas 工作台
 
 ## 适用场景
 
-- 在浏览器里让 AI 分析论文、PPT 与文档且不上传文件
-- 受限地区用户通过内置中继稳定访问 Gemini
-- 用自备 API 密钥进行私密 AI 对话并多端同步
+- 在浏览器中分析论文和文档并获得带引用的回答
+- 配置自己的 API key 进行私密对话，无需注册账号
+- 为受限网络环境配置服务中转以连接 Gemini
+- 导出含公式、图表、代码块的对话为 DOCX/PDF/PPTX/XLSX
 
 ## 场景标签
 
-`聊天机器人` `图像生成` `科研工具` · 领域:对话与助手
+`聊天机器人` `文档问答` `文档解析` `图像生成` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L14: This project is built using **Google Gemini API** for conversational AI interactions, providing an intelligent AI e
-> L58: > LittleAIBox is a full-stack, cross-platform Gemini AI chat application (built with Vite/Capacitor/Cloudflare) fea
-> L68: > Unlike traditional AI applications, LittleAIBox runs locally, ensuring your files and messages never leave your d
+> L14: LittleAIBox combines browser-side document processing, AI request orchestration and streamed rich-content rendering
+> L60: > LittleAIBox is a full-stack, cross-platform AI chat application built with Vite, Capacitor and Cloudflare. Its fr
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `a8e3f76d3746` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9c8c823a3136` · [字段定义](../../DATASET.md)*

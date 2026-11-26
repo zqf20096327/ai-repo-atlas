@@ -2,9 +2,9 @@
 
 ⭐ 176 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tsotchke/eshkol) · [官网](https://eshkol.ai) · 个人维护
 
-**带原生自动微分的 Scheme 方言，面向科学计算与机器学习**
+**给科研与 AI 开发者的带原生自动微分的类 Scheme 语言**
 
-用 C17/C++20 实现的 Scheme 系编程语言，将自动微分（符号、前向、反向模式及任意阶 Taylor）作为编译器原语，支持向量 calculus 算子，经 LLVM 编译为本地代码，并可编译到 WebAssembly。内存采用 arena 分配，无垃圾回收器，提供确定性内存管理。面向需要梯度优化、数值仿真与机器学习开发的用户；README 同时注明类型检查器目前不 discharged 证明义务。安装需从源码构建（CMake 3.14+、LLVM、C17/C++20 编译器），另有浏览器 Playground 供在线试用。
+Eshkol 是一门基于 Scheme 的数学计算编程语言，将自动微分作为语言原语内建于编译器，提供符号、前向与反向三种 AD 模式及任意阶泰勒展开引擎；用 C17/C++20 实现，经 LLVM 编译为本地代码，也可编译到 WebAssembly 在浏览器运行。内存采用 arena 区域管理而非垃圾回收，类型系统基于同伦类型论。定位面向基于梯度的优化、数值模拟与机器学习场景，提供 JIT REPL 与标准库。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 自动微分为语言原语：符号/前向/反向模式与任意阶 Taylor 展开
-- LLVM 后端生成本地代码，并可编译到 WebAssembly（含浏览器内 AD）
-- Arena 分配、O(1) 分配、无垃圾回收的确定性内存模型
-- 提供 JIT REPL 与 eshkol-run 运行/编译命令
+- 自动微分内建于语言语义：符号/前向/反向模式与任意阶泰勒塔引擎
+- LLVM 后端生成原生代码，并可编译到 WebAssembly 在浏览器运行 REPL
+- Arena 区域内存管理，无垃圾回收，O(1) 分配与确定性释放
+- 基于 HoTT 的渐变类型系统，编译期检查维度正确性与线性性
 
 ## 适用场景
 
-- 在 Lisp 语法下编写带自动微分的梯度优化与机器学习程序
-- 数值仿真与 ODE 求解等科学计算任务
-- 在浏览器 Playground 中无需安装试用语言与 AD 功能
+- 训练线性模型等梯度优化任务时免去手写求导
+- 在浏览器 Playground 中试验自动微分与 ODE 求解
+- 开发需要确定性内存与实时性能的机器学习部署
 
 ## 场景标签
 
- · 领域:科学计算/编程语言
+`科研工具` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L5: Eshkol is a Scheme-based programming language that unifies functional programming with native automatic differentiat
-> L32: - **True automatic differentiation** - Not numerical approximation. Exact symbolic, forward-mode, and reverse-mode 
+> L114: Automatic differentiation is not a library feature—it is intrinsic to the language semantics. Eshkol provides thre
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `c07a6932c49d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `6bb6776f1612` · [字段定义](../../DATASET.md)*

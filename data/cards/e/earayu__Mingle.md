@@ -2,9 +2,9 @@
 
 ⭐ 185 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/earayu/Mingle) · [官网](https://mingle.build/) · 个人维护 · 中文 README
 
-**把本地 agent 接入既有聊天应用的桥接工具**
+**把你现有的 coding agent 接入聊天应用的本地运行层**
 
-在个人电脑上运行的工具：为本地的编码 agent（harness）创建名称、角色、记忆与主目录，并通过各聊天应用的官方 bot API 让 agent 以机器人形式加入群聊与私聊，可跨多个聊天应用共享同一记忆。无服务端、无账号、无遥测，控制台与 API 仅监听 127.0.0.1；bot 凭据存于系统密钥库。提供桌面应用（macOS 签名公证，Windows 未签名）与源码运行方式；需已有的 harness 订阅，README 自述处于早期开发阶段。
+Mingle 在本地机器上创建具名、有角色与记忆目录的 agent，由 Claude Code、Codex 等已有 harness 驱动，使其以 bot 身份进入微信、飞书、Slack、Telegram 等聊天应用，支持 @ 提及、任务委派、多会话并行与跨应用共享 MEMORY.md。消息经各应用官方 bot API 接入，无云端桥接，凭据存于系统密钥服务，控制台仅监听 127.0.0.1。提供桌面安装包与源码运行（Node.js 24 + pnpm），暂不接受 PR。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 一个 agent 同时接入多个聊天应用并共享单一记忆
-- 复用用户已有的 harness 与订阅，Mingle 自身不提供模型
-- 数据留在本地：无服务端、无账号、无遥测，控制台仅监听 127.0.0.1
-- agent 具备任务、提醒、通讯录、跨群转信等命令
+- 同一 agent 跨多个聊天应用同时在线并共享一份 MEMORY.md
+- 复用已有的 harness 与订阅，自身不增加模型与账单
+- 本地运行、无服务器、无遥测，凭据存于 macOS Keychain/Windows DPAPI/Linux Secret Service
+- 支持 WeChat、飞书、钉钉、QQ、Slack、Discord、Telegram、iMessage、GitHub issues/PR 等渠道
 
 ## 适用场景
 
-- 让 agent 在飞书工作群、微信家庭群、Discord 服务器中同时值守
-- 通过微信或 Telegram 远程向本地 agent 下达任务
-- 跨聊天应用转发消息与查询其他群的决策记录
+- 在团队飞书群和家人微信群用同一个 agent 处理不同事务
+- 在聊天中 @ 机器人委派耗时任务，完成后在原消息下回复
+- 让 agent 在 Slack 与 Telegram 之间传递消息
 
 ## 场景标签
 
-`聊天机器人` · 领域:对话与助手
+`聊天机器人` `编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L9: Create an agent on your own computer: it has a name, a role, a memory and a home directory, and a coding agent you a
-> L21: |**Harnesses**|Claude Code, Codex, Cursor, OpenCode, Kimi Code, Grok Build, Qwen Code, Qoder, CodeBuddy Code, DeepS
-> L61: - Mingle receives messages through each chat app's official bot API and hands them to the agent's single, long-live
+> L17: Create an agent on your own computer: it has a name, a role, a memory and a home directory, and a coding agent you 
+> L30: |**Harnesses**|Claude Code, Codex, Cursor, OpenCode, Kimi Code, Grok Build, Qwen Code, Qoder, CodeBuddy Code, DeepS
+> L70: - Mingle receives messages through each chat app's official bot API and hands them to the agent's single, long-live
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-19 · 置信度 mid · 依据 README sha `aba15c08fb2d` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `8d29b9ee145c` · [字段定义](../../DATASET.md)*

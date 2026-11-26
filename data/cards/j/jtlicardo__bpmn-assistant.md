@@ -2,9 +2,9 @@
 
 ⭐ 178 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/jtlicardo/bpmn-assistant) · [官网](https://bpmn-frontend.onrender.com) · 个人维护
 
-**LLM 助手：把自然语言流程描述转成可编辑 BPMN 图**
+**用自然语言对话生成与编辑 BPMN 流程图的开源助手**
 
-面向流程分析师、团队与学生的应用：用户用自然语言描述业务流程，应用调用 OpenAI 或 Anthropic 模型生成含任务、网关、事件、泳道等 BPMN 元素的图，可对话式修改、导入既有 BPMN 文件或图片、问答解释流程，并在可视化编辑器中手动调整后导出 .bpmn 文件。提供托管版（自带 API key）或 Docker Compose 本地部署。限制：助手不感知手动编辑，仅基于其最后生成版本回应；不支持嵌套泳道。
+该应用将业务流程的自然语言描述转换为可编辑的 BPMN 图：生成任务、网关、事件、池、泳道与消息流等元素，支持对话式修改、拖拽导入 BPMN 文件、用图片创建或修改流程，并可在可视化编辑器中调整后导出 .bpmn 文件。提供托管版与 Docker 本地部署两种方式，需自备 OpenAI 或 Anthropic API key。README 列明支持的 BPMN 元素子集，并注明助手无法感知用户对图的手动修改。附有研究论文链接。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 自然语言生成含网关/事件/池/泳道/消息流的 BPMN 图并对话式修改
-- 导入 BPMN 文件或图片创建或修改流程
-- 对既有流程图问答式解释
-- 托管版或 Docker Compose 本地部署，支持 GPT 与 Claude 模型
+- 自然语言生成含池、泳道、消息流的 BPMN 图
+- 对话式修改流程与问答式解读现有图
+- 支持拖拽导入 BPMN 文件及图片输入
+- 支持任务标记、嵌入子流程、边界事件等元素子集
 
 ## 适用场景
 
-- 用自然语言起草业务流程图并导出 .bpmn 文件
-- 团队讨论流程变更时对话式迭代修改图
-- 导入既有流程图提问理解其运作方式
+- 分析师用自然语言起草工作流程图
+- 团队讨论流程改动并迭代生成图
+- 学生学习 BPMN 建模并让模型解释流程
+- 基于已有 BPMN 文件继续修改流程
 
 ## 场景标签
 
-`代码生成` `文档问答` · 领域:编码与开发
+`聊天机器人` · 领域:对话与助手
 
 ## 证据(README 行号)
 
 > L5: Describe a business process in plain language, refine it through conversation, and export a `.bpmn` file. An open-so
 > L19: - **Describe your process.** Generate BPMN diagrams with tasks, gateways, events, pools, lanes, and message flows.
-> L34: Open the **hosted app**, enter an API key, choose a model, and try this prompt:
+> L24: - **Run it your way.** Use the hosted app or run locally with Docker and your own API keys.
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1bc68ce1c58c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `a640f9ea9b99` · [字段定义](../../DATASET.md)*

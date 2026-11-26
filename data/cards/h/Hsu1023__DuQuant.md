@@ -1,45 +1,45 @@
 # Hsu1023/DuQuant
 
-⭐ 190 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Hsu1023/DuQuant) · [官网](https://arxiv.org/abs/2406.01721) · 组织维护
+⭐ 190 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Hsu1023/DuQuant) · [官网](https://arxiv.org/abs/2406.01721) · 组织维护 · 中文 README
 
-**LLM 训练后量化方法：用旋转与置换变换消除离群值**
+**LLM 4比特权重激活量化的算法实现库（NeurIPS 2024 Oral 论文代码）**
 
-NeurIPS 2024 Oral 论文 DuQuant 的官方代码仓库，面向 LLM 的 4-bit 权重-激活训练后量化。方法基于两项观察与机制：识别 FFN 模块 down_proj 层的 massive outliers，用 Rotation 与 Permutation 双变换分散并消除离群值，另提供可学习权重裁剪（LWC）选项。支持 LLaMA 1/2/3、Vicuna、Mistral 系列模型，提供困惑度、zero-shot、MMLU、MT-Bench 评测入口。以 conda + pip 依赖方式从源码运行，新版本 DuQuant++ 支持 MXFP4 格式。
+论文 DuQuant 的官方代码：通过旋转与置换双重变换消除 LLM 中的离群值，实现 W4A4 甚至 W4A4KV4 的训练后量化，覆盖 LLaMA 1/2/3、Vicuna、Mistral 系列。工作流包含预处理（生成旋转矩阵与激活缩放）、量化（支持 GPTQ 导出与 LWC 可学习裁剪）和评测（PPL、zero-shot 任务、MMLU、MT-Bench）。另提供面向 Ada（SM89）与 Hopper（SM90）的 CUDA INT4 推理后端，含 INT4 GEMM/GEMV 与 KV4 缓存。需 conda 环境与 CUDA GPU。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
-| 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
+| 安装摩擦 | `medium` | 含编译或系统依赖之一 |
 | 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 旋转与置换双变换消除 massive/normal outliers
-- W4A4 权重-激活量化，支持 LWC 可学习权重裁剪
-- 支持 LLaMA 1/2/3、Vicuna、Mistral 系列（7B 至 70B）
-- DuQuant++ 扩展支持 MXFP4 量化格式
+- 旋转+置换双重变换消除 down_proj 层大规模离群值
+- Ada 与 Hopper 两种 CUDA INT4 推理后端，含打包 KV4 缓存
+- 支持 LLaMA 1/2/3、Vicuna、Mistral 的量化模型库
+- 量化后可评测 PPL、七个 zero-shot 任务、MMLU 与 MT-Bench
 
 ## 适用场景
 
-- 研究者在本地对 LLaMA/Vicuna/Mistral 做 4-bit 量化实验
-- 评测量化模型在 PPL/MMLU/MT-Bench 上的表现
-- 探索更低比特（W4A4、MXFP4）的 LLM 部署方案
+- 在消费级 GPU 上以 4 比特量化运行并评测 LLaMA 类模型
+- 复现论文的 W4A4 量化对比实验
+- 为自有模型生成校准后的量化检查点并做 INT4 推理
 
 ## 场景标签
 
-`模型量化` · 领域:训练与推理
+`模型量化` `模型评测` · 领域:评测与运维
 
 ## 证据(README 行号)
 
-> L22: - We firstly identify **Massive Outliers** existence at the **down_proj** layer of FFN module in recent LLMs.
+> L9: Welcome to the official code repository for "DuQuant: Distributing Outliers via Dual Transformation Makes Stronger Q
 > L23: - DuQuant proposes to use **Rotation transformation** and **Permutation transformation** to effectively eliminate b
-> L46: - `--model`: the local model path or huggingface format.
+> L28: We implement an Ada (SM89) CUDA backend for DuQuant, including calibrated dual rotations and permutations, packed I
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 mid · 依据 README sha `462aa5c07b23` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fdfbceae1760` · [字段定义](../../DATASET.md)*

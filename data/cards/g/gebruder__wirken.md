@@ -1,10 +1,10 @@
 # gebruder/wirken
 
-⭐ 221 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gebruder/wirken) · [官网](https://wirken.ai) · 组织维护
+⭐ 221 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gebruder/wirken) · [官网](https://wirken.ai) · 个人维护
 
-**面向企业的自主代理安全网关：隔离、凭证保管与审计**
+**自主 Agent 的企业安全网关：身份、隔离、凭据保管与审计**
 
-Rust 编写的单文件静态二进制网关，位于团队消息渠道与 AI 代理之间：Telegram/Slack/Teams/Matrix 等渠道各有独立适配器进程，代理读文件、调 API、执行工具均先过权限门控。凭证存于加密 vault，不暴露给模型；每条工具调用写入哈希链审计日志并签名；shell 命令默认在无网络容器沙箱执行；支持三级权限模型与按代理的预算上限。模型连接与具体厂商无关，可为本地权重或各类 API。MIT 许可，提供 WebChat UI、代理模式与定时预设。
+面向企业安全团队的 Agent 网关，充当消息渠道（Telegram/Slack/Teams/Matrix 等）与 AI Agent 之间的交换机。每个渠道独立进程隔离，凭据存于加密保管库且模型不可见，每个工具调用写入哈希链审计日志，shell 命令默认在无网络容器沙箱执行。单个静态 Rust 二进制分发，模型连接 provider 无关（API、Ollama 本地权重均可），支持代理模式为外部 MCP 客户端提供同样的门控与记录。Docker 为沙箱默认前置条件。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@ Rust 编写的单文件静态二进制网关，位于团队消息渠道与 AI �
 
 ## 能力要点
 
-- 哈希链审计日志，签名链头可离线核验
-- 凭证保存在加密 vault，代理与模型不可见
-- shell 命令默认在无网络容器沙箱中运行
-- 代理模式为外部代理记录并门控模型与 MCP 调用
+- 加密凭据保管库：token 与密钥不经过模型与 Agent
+- 哈希链审计日志，签名链头可离机验证（audit verify）
+- 三级权限模型与每次询问的操作员审批流
+- 默认无网络容器沙箱与 per-agent 预算上限
 
 ## 适用场景
 
-- 安全团队为代理行为提供可追责的审计记录
-- 让代理通过企业现有聊天渠道工作且不接触密钥
-- 限制被攻陷代理可触碰的凭据与网络出口
+- 为接入消息渠道的企业 Agent 统一做权限审批与审计
+- 安全团队管控可能被提示注入的不可信 Agent
+- 以代理模式为外部编码 Agent 记录模型调用并门控 MCP 工具调用
 
 ## 场景标签
 
-`网络安全` `模型网关` · 领域:Agent 开发
+`网络安全` · 领域:学习与行业
 
 ## 证据(README 行号)
 
 > L7: Wirken is the enterprise gateway for autonomous agents: the switchboard
-> L13: It also stands in front of agents it does not run. A coding agent or a script
-> L44: - **Every action is logged and attributed.** Each tool call is written to a
+> L14: points its model base URL and its MCP client at Wirken and holds a Wirken
+> L59: - **Clients Wirken does not run get the same record and the same gate.** In
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `6cc9c5139796` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `1e7df9e366a6` · [字段定义](../../DATASET.md)*

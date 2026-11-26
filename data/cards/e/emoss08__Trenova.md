@@ -1,10 +1,10 @@
 # emoss08/Trenova
 
-⭐ 199 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/emoss08/Trenova) · [官网](https://trenova.app) · 个人维护
+⭐ 199 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/emoss08/Trenova) · [官网](https://trenova.app) · 组织维护
 
-**面向美国中小卡车承运商的开源可自托管运输管理系统**
+**面向美国中小公路货运承运商的 AI 驱动运输管理系统**
 
-用 Go、PostgreSQL、GraphQL 和 React 编写的运输管理系统（TMS），服务美国中小型公路承运商，覆盖订单到收款全流程：录入、调度派车、计价、开票、结算、记账与 FMCSA 合规，并含 EDI 对接（204/210/214/990/997）、Samsara 遥测、PC*MILER、文档自动生成与提取（BOL/POD/费率确认/发票/磅单）。采用 Fair Source 许可（FSL-1.1-ALv2），可自托管、可商用修改，但不得作为托管服务或竞品提供；发布两年后转为 Apache 2.0。声明为预发布版本，尚不适合生产使用。支持 Docker Compose 单机自托管。
+Trenova 是面向美国中小型整车公路承运商的运输管理系统（TMS），覆盖从接单到收款的完整流程：发货、调度、计费、会计与合规共用一条货运记录。核心功能对所有用户开放，附加模块按需开启。AI 部分（Trenova AI）包括调度台、分诊、瞭望塔以及处理舱位、滞期费、录入、计费与合规的 agent；文档智能将 BOL/POD/费率确认直接读入货运数据；支持 EDI 204/210/214/990/997、Samsara 远程信息处理与 PC*MILER。部署方式为官方托管、共享托管或 Docker Compose 自托管；当前处于 closed beta，自托管版本为预发布软件。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 覆盖订单到收款全流程：调度、计价、开票、记账、结算
-- EDI 204/210/214/990/997 工作流及 Samsara 遥测、PC*MILER、AS2 集成
-- 文档自动化：BOL/POD/费率确认/发票/磅单的提取与模板化生成
-- Docker Compose 单机自托管，GHCR 发布容器镜像，Caddy 自动 HTTPS
+- Trenova AI：调度台、分诊、瞭望塔及覆盖/滞期/录入/计费/合规 agent，可运行在自选模型（托管或自有 GPU）
+- 文档智能将 BOL、POD、费率确认读取为货运数据
+- 自备 EDI 204/210/214/990/997、Samsara、PC*MILER、AS2 集成
+- 自托管免费，Docker Compose 一键启动并自动 HTTPS
 
 ## 适用场景
 
-- 中小卡车车队自建调度、计价与开票系统
-- 承运商管理 FMCSA 合规记录与司机资质追踪
-- 集成伙伴通过 EDI 与遥测系统对接承运数据
+- 管理货运订单全流程：调度、追踪、计费、账务与结算
+- 通过 Freight Outlook 预判卡车运力缺口并让优化器建议派单
+- 司机工时、薪资结算、资质与 FMCSA 合规一站式管理
+- 与交易伙伴交换 EDI 单证并接入车队远程信息处理数据
 
 ## 场景标签
 
-`文档解析` · 领域:知识与检索
+`工作流自动化` `文档解析` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
-> L4:  Source-available trucking TMS written in Go, PostgreSQL, GraphQL, and React.
-> L5:  Dispatch, rating, billing, accounting, EDI, FMCSA compliance, and document automation for asset-based carriers.
-> L25: Trenova is a transportation management system (TMS) for small and mid-sized over-the-road carriers in the United St
+> L2:  Trenova: Transportation Management System for Trucking Carriers
+> L58: - **Trenova AI**: the Desk, triage, the watchtower, and agents that handle coverage, detention, intake, billing and
+> L70: |**Shared Trenova**|A workspace on Trenova's shared servers: a small monthly base plus a charge per shipment. Comin
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-21 · 置信度 high · 依据 README sha `9eb8aacf264f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `8469fd644839` · [字段定义](../../DATASET.md)*

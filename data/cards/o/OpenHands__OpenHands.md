@@ -2,9 +2,9 @@
 
 ⭐ 94,336 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/OpenHands/OpenHands) · [官网](https://openhands.dev) · 组织维护
 
-**自托管的编码 Agent 控制中心：统一运行与管理多个 agent**
+**自托管的编码 agent 控制中心：本地/云端运行与自动化**
 
-Agent Canvas 将编码 agent 变成自托管、持续在线的工程团队入口：可运行 OpenHands、Claude Code、Codex、Gemini、Pi、OpenCode 及任何 ACP 兼容 agent，后端可切换本地、Docker、VM、云等多种环境而不丢失会话；支持与 Slack、GitHub、Linear、Notion 等集成的定时/webhook 自动化；默认本地运行，前端与 OpenHands Agent Server（REST API）分离，仓库边界划为 frontend/SDK/typescript-client/automation 四个库。
+Agent Canvas 是一个自托管开发者控制中心，用于启动和编排 coding agent 对话与自动化任务。默认运行开源 OpenHands agent，也可接入 Claude Code、Codex、Gemini CLI、Pi、OpenCode 等支持 ACP 协议的第三方 agent。后端可运行在本地、Docker、VM 或云上，支持多后端切换；配套 Automation Server 支持按计划或 webhook 触发任务，并可集成 Slack、GitHub、Notion 等服务。提供 npm 全局安装、Docker 镜像、多沙箱与源码四种运行方式。
 
 ## 筛选速览
 
@@ -26,27 +26,27 @@ Agent Canvas 将编码 agent 变成自托管、持续在线的工程团队入口
 
 ## 能力要点
 
-- 支持 OpenHands、Claude Code、Codex、Gemini CLI、Pi、OpenCode 及任意 ACP 兼容 agent
-- 后端可在本地、Docker、VM、云间切换，同一前端管理多个 Agent Server
-- 定时/webhook 自动化，集成 Slack、GitHub、Linear 等第三方服务
-- 支持无沙盒、单 Docker 沙盒、多 Docker 沙盒、源码四种启动方式
+- 支持 OpenHands、Claude Code、Codex、Gemini CLI 等任何 ACP 兼容 agent
+- 后端可在本地、Docker、VM、云之间切换且不丢失上下文
+- 自动化工作流可按计划或 webhook 触发并集成 Slack/GitHub/Linear
+- 架构拆分为 Canvas 前端、Agent Server、SDK 与 automation 多仓库
 
 ## 适用场景
 
-- 在自托管环境中统一管理多个编码 agent
-- 把 GitHub issue 自动分解为任务、生成报告发布到 Slack
-- 团队共享 Agent Server 做代码审查与依赖更新
-- 让 agent 在服务器上持续运行，笔记本合盖后不中断
+- 把 GitHub issue 自动分解为任务并跟进
+- 生成报告并定时发布到 Slack
+- 团队共享一台 Agent Server 做代码审查与依赖更新
+- 在笔记本关闭后让 agent 继续在服务器运行
 
 ## 场景标签
 
-`编码 Agent` `代码审查` `工作流自动化` · 领域:效率与自动化
+`编码 Agent` `工作流自动化` `代码审查` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L4:  The self-hosted developer control center for coding agents and automations.
 > L6:  Run OpenHands, Claude Code, Codex, Gemini, Pi, OpenCode, or any ACP-compatible agent across local, remote, and clou
-> L186: Agent Canvas is powered by the OpenHands Agent Server, a REST API for running multiple agents on a single machine.
+> L24: OpenHands Agent Canvas turns your coding agents into a self-hosted, always-on engineering team. It's a developer co
 
 ## 星数曲线
 
@@ -62,4 +62,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `abbcabeff23c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f66670885a5e` · [字段定义](../../DATASET.md)*

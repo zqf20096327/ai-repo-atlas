@@ -2,9 +2,9 @@
 
 ⭐ 191 · Python · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/meetbryce/open-source-slack-ai) · [官网](https://opensourceslackai.com) · 个人维护
 
-**自托管 Slack AI 替代：按需生成频道与线程摘要**
+**自托管 Slack 机器人：随时生成频道与线程摘要**
 
-可自行托管的 Slack 应用，通过斜杠命令生成线程摘要、频道概述、指定时间以来的频道摘要与完整频道摘要（实验性），默认使用 OpenAI GPT-4.1，频道概述由 NLP 模型集成加 GPT-4.1 解释生成；支持自定义提示词。面向希望替代 Slack AI 付费附加功能的 Slack 工作区，需自备 OpenAI API key 与 Slack 应用令牌，以 Poetry + FastAPI 服务器方式运行并经 ngrok 暴露，GPL-3.0 许可。对其他开源 LLM 的支持列为未来计划。
+可自托管的 Slack AI 应用，替代 Slack AI 部分付费功能：为公共和私有频道提供线程摘要、频道主题概览、指定时间点后的频道摘要及全量频道历史摘要（实验性），支持自定义提示词。默认通过 OpenAI 模型驱动，频道概览另结合 NLP 模型做主题分析。技术上基于 Python 3.9–3.11 与 Poetry 管理，使用 FastAPI 提供服务，经 ngrok 暴露给 Slack；已迁移至 LangChain 与 LangSmith 做扩展与追踪。限制：目前仅支持 OpenAI，替代/开源 LLM 支持尚在计划中。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 四类摘要命令：线程/频道概述/自某时起/完整频道（实验性）
-- 默认 GPT-4.1，频道概述用 NLP 模型集成加 GPT-4.1
-- 支持自定义提示词（如匿名化摘要）
-- 基于 LangChain/LangSmith，含单元与集成测试
+- 四类摘要功能：线程摘要、频道概览、时间点摘要、全量历史摘要
+- 支持自定义提示词（如匿名化摘要指令）
+- 已集成 LangChain 与 LangSmith 的可观测性与用户反馈采集
+- 提供单元测试与真实 OpenAI 调用的集成测试套件
 
 ## 适用场景
 
-- 团队按需总结 Slack 频道和线程内容
-- 不购买 Slack AI 附加订阅而自托管摘要功能
-- 自定义摘要提示词（如匿名化输出）
+- 团队在 Slack 中按需获取长线程的快速摘要
+- 了解某个频道的用途与讨论主题概览
+- 替代付费的 Slack AI 摘要功能并自行托管
 
 ## 场景标签
 
-`AI 写作` · 领域:内容生成
+ · 领域:团队协作/LLM 应用
 
 ## 证据(README 行号)
 
 > L6: This repository is a ready-to-run basic Slack AI solution you can host yourself and unlock the ability to summarize
-> L15: 1. **Thread summaries** - Generate a detailed summary of any Slack thread (powered by GPT-4.1 by default)
+> L15: 1. **Thread summaries** - Generate a detailed summary of any Slack thread (powered by GPT-6 Luna by default)
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `3afabbd4935f` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `253ca69eea7b` · [字段定义](../../DATASET.md)*

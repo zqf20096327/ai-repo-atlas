@@ -1,10 +1,10 @@
 # cheaper-inference/OmniCopilot
 
-⭐ 207 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cheaper-inference/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 组织维护
+⭐ 207 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cheaper-inference/OmniCopilot) · [官网](https://github.com/diegosouzapw/OmniRoute) · 个人维护
 
-**把 1200+ 模型接入 GitHub Copilot Chat 的 VS Code 扩展**
+**把 OmniRoute 的 1200+ 模型接入 VS Code Copilot Chat 的扩展**
 
-由 Cheaper Inference 提供的 VS Code 扩展，将 OmniRoute 聚合端点（340+ 提供商、1200+ 模型）注入 Copilot Chat 原生模型选择器，需自建或连接 OmniRoute 服务器。保留 Copilot 的 agent 模式、工具调用、MCP 与视觉能力，支持组合模型自动故障转移、思考链展示、按模型配置推理档位，并可一键为 Codex CLI、Claude Code、Cursor 等工具生成配置。API key 存于 OS 钥匙串并绑定服务器。
+VS Code 扩展，通过 VS Code 原生语言模型 provider API，把 OmniRoute 服务器提供的 340+ provider、1200+ 模型注入 Copilot Chat 的模型选择器。支持 agent mode、工具调用、MCP、视觉附件、推理过程流式展示与组合自动回退。API key 存于系统钥匙串，UI 支持 42 种语言。需先运行 OmniRoute 服务器（npm 全局安装），VS Code 1.122 起无需 Copilot 订阅即可使用。
 
 ## 筛选速览
 
@@ -16,29 +16,29 @@
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
 | 安装摩擦 | `low` | 无编译、无系统依赖或容器化 |
-| 成熟度 | `idea` | |
+| 成熟度 | — | 结构信号不足 |
 
 ## 能力要点
 
-- 340+ 提供商、1200+ 模型经单一 OmniRoute 端点接入 Copilot Chat 模型选择器
-- 组合模型（优先/轮询/成本优化）自动故障转移
-- 一条命令为 Codex CLI、Claude Code、Cline、Cursor 等生成配置
-- API key 存于 VS Code SecretStorage，绑定服务器且忽略工作区级 URL 覆盖
+- 接入 VS Code 原生语言模型 API，模型直接出现在 Copilot Chat 选择器
+- 支持 agent mode、tool calling、MCP、视觉附件与推理流式输出
+- OmniRoute combos 提供跨 provider 自动 failover
+- 一条命令为 Codex CLI、Claude Code、Cline 等工具生成 OmniRoute 配置
 
 ## 适用场景
 
-- 不换聊天界面，在 Copilot Chat 里选用自有/免费模型
-- 为团队项目按工作区分配独立 API key 并跟踪用量
-- 在模型间设置自动故障转移与成本上限
+- 无 Copilot 订阅时在 VS Code 中使用自有模型做 AI 对话
+- 在 Copilot Chat 中按价格与上下文窗口挑选 1200+ 模型
+- 团队按 workspace 管理 OmniRoute API key 并按项目分组用量
 
 ## 场景标签
 
-`模型网关` · 领域:Agent 开发
+`模型网关` `AI 助手` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L17: **Don't replace Copilot — power it up.** No new sidebar to learn, no new chat UI. This extension drops every model 
-> L23: - **1200+ models, one picker.** OmniRoute unifies 340+ providers (OpenAI-compatible, Anthropic, Gemini, Ollama, loc
+> L24: - **Agent mode, tool calling, MCP, instructions — all of it still works.** This plugs into VS Code's native languag
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-17 · 置信度 mid · 依据 README sha `957ba432b9ea` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7d9ee59c8142` · [字段定义](../../DATASET.md)*

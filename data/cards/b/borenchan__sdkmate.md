@@ -2,9 +2,9 @@
 
 ⭐ 177 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/borenchan/sdkmate) · 个人维护 · 中文 README
 
-**跨平台 SDK 版本管理器：一条命令安装切换 40+ 开发工具版本**
+**全栈开发者的 Rust 跨平台 SDK 版本管理器，含桌面端与 AI Agent 技能**
 
-用 Rust 编写的单二进制跨平台 SDK 版本管理器（sdkm），面向全栈开发者：安装与切换 Java、Node.js、Python、Maven、Go、uv、bun 等 40 余种开发工具版本，支持全局/项目（.sdkm.toml）/临时三种作用域切换与模糊版本匹配，操作带快照回滚，Windows/Linux/macOS 均为一等公民。单文件约 4MB、零运行时依赖，可放入已有 SDK 接管。附带 agent 技能文档（SKILL.md），供 Claude Code / Codex 等 AI 编码助手读取后代为安装切换 SDK，本体去掉该功能仍可独立使用。
+纯 Rust 编写的跨平台 SDK 版本管理器，一条命令安装/切换 Java、Node.js、Python、Maven、Go 等 40+ 开发工具，定位替代多个单语言版本管理脚本的组合。机制上提供全局/项目/临时三种切换作用域（symlink+PATH、.sdkm.toml+shell hook、临时环境变量），失败自动回滚，CLI 为单二进制无运行时依赖。另附 Claude Code/Codex 可读取的 SKILL.md，让 AI Agent 代为执行安装与切换。Windows 需管理员终端执行 init/switch。
 
 ## 筛选速览
 
@@ -20,26 +20,27 @@
 
 ## 能力要点
 
-- 单 Rust 二进制约 4MB、零运行时依赖，可从 U 盘运行并接管已有 SDK
-- 全局/项目/临时三作用域版本切换，切换失败自动回滚
-- 内置 40+ SDK，任意 URL 可下载的工具可注册为自定义 SDK
-- 附带 agent 技能文档，AI 助手可据退出码判断成败并代为操作
+- 单二进制 CLI（约 4MB）+ 基于 GPUI 的原生桌面端，共用同一 Rust 核心
+- 全局/项目/临时三种版本切换作用域，进入目录自动切换、离开自动恢复
+- 操作失败自动回滚，config 原子写入+快照恢复
+- 内置 Agent 技能文档，Claude Code/Codex 读取后可代为安装/切换 SDK
 
 ## 适用场景
 
-- 在同一台机器上管理多个语言的 SDK 版本并按项目自动切换
-- 让 Claude Code 等 AI 编码助手代为安装和切换开发环境
-- 原生 Windows 环境下进行全局版本切换（WM_SETTINGCHANGE 广播）
+- 全栈开发中统一管理多语言 SDK 版本，替代多个单语言版本管理工具
+- 项目目录固定 SDK 版本，团队进入目录自动生效
+- 通过 Claude Code 等编码助手用自然语言管理本机开发环境
+- 把 sdkm 目录拷入 U 盘在多台机器间携带 SDK 环境
 
 ## 场景标签
 
- · 领域:开发者工具/环境管理
+ · 领域:开发工具/环境管理
 
 ## 证据(README 行号)
 
-> L62:  🤖 AI Agent Friendly
-> L75: - **🤖 AI-agent friendly, let AI manage your env**: ships with an agent skill doc — Claude Code / Codex / openclaw a
-> L79: > It's 2026 — tired of too many CLI flags? Worried about the learning curve? Let an AI agent do it for you.
+> L22:  sdkmate (a.k.a. "时代楷模" 👀) is a pure-Rust , cross-platform SDK version manager with a native desktop app built on G
+> L57:  🤖 AI Agent Friendly
+> L70: - **🤖 AI-agent friendly, let AI manage your env**: ships with an agent skill doc — Claude Code / Codex / openclaw a
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `2b8255965369` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `fc9a9fc0c607` · [字段定义](../../DATASET.md)*

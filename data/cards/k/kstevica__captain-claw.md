@@ -2,15 +2,15 @@
 
 ⭐ 200 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kstevica/captain-claw) · [官网](https://captain-claw.com) · 个人维护
 
-**自托管多智能体平台：编排专家团队并交付工作成果**
+**自托管多 agent 编排平台：团队与个人用一套面板指挥 AI agent 舰队**
 
-Python 编写的自托管多智能体指挥平台（MIT 许可）：提供 7 种编排模式、132 个预置角色模板、6 层共享记忆、83 个内置工具、Code 编码流水线（计划→构建→独立审查）、Flows 确定性工作流、任务看板与审批机制，支持经 BotPort 跨设备（VPS/笔记本/树莓派）互借 agent，带团队 kiosk、定时任务（First Mate）、匿名化与数据房间，可接入 WhatsApp/Telegram/M5Stack 语音设备。可用任何主流 LLM，或经 Ollama 100% 本地运行。
+Python 编写的自托管多 agent 平台（MIT），核心 Flight Deck 提供 7 种编排模式、132 个预设 agent 原型、85 个内置工具与 6 层共享记忆；含 plan→build→独立评审的编码流水线与 Crew（运行 Claude Code、Codex、OpenCode 等 CLI agent），支持确定性 Flows、常驻任务 First Mate、任务核验 Taskboard、数据脱敏与加密保险库。多 deck 经 BotPort 互联，入口覆盖 Web、WhatsApp、Telegram、团队 kiosk 及 M5Stack/Waveshare 语音设备。pip 安装，支持任意 LLM provider 或 100% 本地 Ollama。
 
 ## 筛选速览
 
 | 维度 | 判定 | 备注 |
 |---|---|---|
-| AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
+| AI 角色 | `ai-native` | 本体是模型或模型工具 |
 | 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
@@ -20,26 +20,27 @@ Python 编写的自托管多智能体指挥平台（MIT 许可）：提供 7 种
 
 ## 能力要点
 
-- 7 种编排模式与 132 个预置 agent 角色模板
-- 编码流水线：计划→批准→构建→三个独立审查者→修复
-- 6 层跨会话共享记忆与匿名化隐私门
-- 支持 WebSocket/HTTP/签名 webhook/MCP 双向接入
+- 7 种编排模式（盲集成、协作黑板、仲裁议会等）与 Agent Forge 自动组建团队
+- 编码流水线：计划→审批→构建→三个独立评审，每阶段 git 提交
+- 6 层共享记忆、Taskboard 任务核验与 tamper-evident 工具调用登记
+- 匿名化管道：模型读取前将姓名/公司/号码替换为 token，答后还原
 
 ## 适用场景
 
-- 自托管搭建专家 agent 团队协作完成研究或运维任务
-- 用编码流水线在自己仓库里以多审查流程交付代码
-- 团队 kiosk 中按计划限制共享使用 agent
-- 以 Ollama 本地模型运行保证数据不出本机
+- 给团队搭一个自托管的多 agent 工作台与任务看板
+- 用 plan→review 流水线在自有 git 仓库里交付软件
+- 通过 WhatsApp/Telegram/手表语音随时调度家中与 VPS 上的 agent
+- 用 Ollama 本地模型跑 agent，数据不出机器
 
 ## 场景标签
 
-`Agent 记忆` `多智能体` `编码 Agent` · 领域:Agent 开发
+`多智能体` `Agent 记忆` `编码 Agent` `工作流自动化` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L13: > Most AI tools give you one agent in a chat box. Captain **Flight Deck** is a multi-agent command center: spawn sp
 > L35: - **🔓 Yours, end to end.** Self-hosted, MIT, bring your own keys or run 100% local with Ollama. No lock-in.
+> L40: pip install captain-claw
 
 ## 星数曲线
 
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `b5e7ebaa2779` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `175554977fae` · [字段定义](../../DATASET.md)*

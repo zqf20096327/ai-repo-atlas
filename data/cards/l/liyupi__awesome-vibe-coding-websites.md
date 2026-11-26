@@ -2,9 +2,9 @@
 
 ⭐ 303 · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/liyupi/awesome-vibe-coding-websites) · [官网](https://vibefather.ai) · 个人维护 · 中文 README
 
-**AI 生成网站模板清单：274 套模板附原始提示词**
+**AI 生成网站模板库：324 套模板附原始提示词与设计文档**
 
-面向开发者、设计师与独立开发者的 vibe coding 网站模板策展清单：收录 274 个原创模板与 564 个在线演示，由 9 个 AI 模型（Claude、GPT、Gemini、Grok、Kimi、GLM、DeepSeek）生成，每个模板附带生成它的原始提示词与 DESIGN.md，可粘贴到 Claude Code、Cursor 或 Codex 等 AI 编码工具复现。按落地页、SaaS、作品集、电商、仪表盘等类别组织，并提供同一提示词在两个模型下的对照演示。站点采用 React、Tailwind CSS、Three.js 等前端栈，许可为 CC BY-NC 4.0。
+收集 324 个由 13 个 AI 模型生成的原创网站模板与 678 个在线演示，每条附完整提示词与 DESIGN.md。用户替换变量后将提示词粘贴到 Claude Code、Cursor、Codex 等 AI 编码工具复现同类网站。按落地页、SaaS、作品集、电商、仪表盘等 10 个类别组织，并提供同提示词跨模型对比页面。前端使用 React、Tailwind CSS、Three.js、GSAP 等真实技术栈。许可为 CC BY-NC 4.0，仅限非商业用途。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 274 个模板与 564 个在线演示，附原始提示词与 DESIGN.md
-- 覆盖 9 个 AI 模型的生成结果，可按模型浏览对照
-- 按落地页/SaaS/作品集/电商等类别组织
-- 提供同一提示词在两个模型下的设计对照（12 组）
+- 324 个模板均附生成所用确切提示词与 DESIGN.md
+- 按 10 个类别组织，支持按站点类型、风格或 AI 模型浏览
+- 提供同一提示词由不同模型生成的成对对比演示
+- 演示站点在 VibeFather 平台在线预览
 
 ## 适用场景
 
-- 找一个经过验证的提示词来快速生成落地页或 SaaS 站点
-- 对比不同 AI 模型在相同前端提示词下的产出差异
-- 浏览各类网站模板的在线演示寻找建站灵感
+- 想用 AI 编码工具快速搭一个落地页或 SaaS 站点，找已验证的提示词起步
+- 对比不同 AI 模型在同一前端提示词下的产出差异
+- 为作品集、店铺或活动页挑选可复用的前端模板与设计文档
 
 ## 场景标签
 
-`精选清单` · 领域:学习与行业
+`提示工程` `精选清单` `代码生成` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
-> L9:  274 original website templates and 564 live demos built by AI coding agents — each with the exact prompt and a DESI
-> L20: **Awesome Vibe Coding Websites** is a free, open library of 274 original vibe coding website templates and 564 live
+> L20: **Awesome Vibe Coding Websites** is a free, open library of 324 original vibe coding website templates and 678 live
+> L22: It's made for developers, designers, indie hackers and anyone who builds websites with AI. Browse by site type, sty
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-18 · 置信度 high · 依据 README sha `2e4f6d3ae1e7` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `732f88731fa3` · [字段定义](../../DATASET.md)*

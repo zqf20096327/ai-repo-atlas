@@ -2,9 +2,9 @@
 
 ⭐ 220 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DevelopersGlobal/ai-agent-skills) · [官网](https://developersglobal.github.io/ai-agent-skills/) · 组织维护
 
-**面向开发者的 AI 编码 agent 技能文件库**
+**面向 AI 编码 agent 的生产级技能提示词清单**
 
-一个策划维护的 SKILL.md 结构化提示词集合，收录 30+ 条技能文件，按 Think/Plan/Build/Test/Review/Harden/Ship 七阶段及日常效率类别组织，内容涵盖任务分解、TDD、安全加固、RAG 与记忆、提示注入防御等工程工作流。使用方式为将技能内容复制进 agent 的系统提示或规则文件（CLAUDE.md、.cursor/rules、GEMINI.md），并提供 GitHub Pages 浏览器支持全文搜索、分类筛选与一键复制。MIT 许可，欢迎贡献。
+以结构化 markdown 提示词（SKILL.md）形式组织、按 THINK→PLAN→BUILD→TEST→REVIEW→HARDEN→SHIP 流水线分类的技能库，覆盖任务分解、TDD、安全加固、RAG/记忆、提示注入防御等 30+ 条技能，另含 YouTube 创作者工作流。使用方式是将技能内容复制进 Claude、Cursor、Copilot 等 agent 的系统提示或规则文件，并提供 GitHub Pages 浏览器支持全文搜索、分类过滤与一键复制。受 addyosmani/agent-skills 与 andrej-karpathy-skills 启发，MIT 许可。
 
 ## 筛选速览
 
@@ -20,26 +20,25 @@
 
 ## 能力要点
 
-- 30+ 条 SKILL.md 技能文件，按七阶段工作流分类组织
-- 技能编码带步骤、检查点与反模式防护的完整工作流
-- GitHub Pages 浏览器提供全文搜索、筛选与一键复制
-- 兼容 Claude/Cursor/Copilot/Gemini CLI 等多类 agent
+- 30+ 条按开发流水线七阶段组织的 SKILL.md 技能文件
+- 含 RAG/记忆、提示注入防御、幻觉防护等 AI 安全类技能
+- GitHub Pages 浏览界面：全文搜索、分类过滤、一键复制
+- 适配 Claude Code、Cursor、Gemini CLI 等多种 agent 接入方式
 
 ## 适用场景
 
-- 给 AI 编码 agent 添加生产级工作流约束与质量门
-- 为团队沉淀可复用的提示词规范与安全防御技能
-- 快速检索并复制所需的 agent 技能文件
+- 给我的 AI 编码助手加载结构化工作流提示词
+- 为团队整理代码评审与安全加固的 agent 规则
+- 查找多 agent 协作与 RAG 模式的现成提示模板
 
 ## 场景标签
 
-`提示工程` `精选清单` · 领域:Agent 开发
+`提示工程` `编码 Agent` `代码审查` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
 > L17: AI agents are only as good as the instructions they follow. **AI Agent Skills** is a curated, battle-tested library
 > L76: ## 📚 All Skills
-> L165: The full skills library is browsable at **developersglobal.github.io/ai-agent-skills** with:
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ce1a54bae45e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `4f77bf87bcc7` · [字段定义](../../DATASET.md)*

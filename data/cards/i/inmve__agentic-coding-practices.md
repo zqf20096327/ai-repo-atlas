@@ -2,9 +2,9 @@
 
 ⭐ 355 · 推送 2026-11-24 · [GitHub](https://github.com/inmve/agentic-coding-practices) · [官网](https://inmve.github.io/agentic-coding-practices/) · 个人维护
 
-**面向用 AI 代理写代码的开发者的实践策展清单**
+**面向用 AI agent 写代码的开发者的实践策展清单**
 
-一份按软件开发生命周期阶段组织的代理编码实践清单：每条实践含定义、带日期的来源引用与逐字引文，部分条目标注其由哪些更早的工程实践演变而来（如 TDD、feature flags、tracer bullets）。内容覆盖规划原型、编码调试、测试验证、评审发布四个阶段，条目以最新在前排列，站点与 README 由同一 JSON 文件生成，并附 2026 年度调查问卷入口。
+以 JSON 单一数据源生成站点与 README 的实践策展清单：按软件开发生命周期阶段（规划原型、编码调试、测试验证、评审发布）组织条目，每条包含定义、带日期的来源与原文引述，并标注其所承袭的既有实践（如 Spike solution、Tracer bullets、TDD）。内容来自 Addy Osmani、Simon Willison、Armin Ronacher 等从业者，站点各节附带问卷收集答案。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 按 SDLC 阶段组织实践条目，每条附带日期来源与逐字引文
-- 标注实践与既有工程传统（如 TDD、KISS、feature flags）的演变关系
-- README 与站点由单一 JSON 文件生成
-- 配套 2026 年代理软件开发调查问卷
+- 按 SDLC 阶段组织条目，最新实践排前
+- 每条含定义、带日期来源与逐字引述
+- 标注实践的历史渊源（如源自 TDD、Mutation testing）
+- 站点与 README 由同一 JSON 文件生成
 
 ## 适用场景
 
-- 为团队引入代理编码寻找可参考的实践模式
-- 在测试、CI、代码评审环节规范 AI 代理的使用方式
-- 了解从业者如何让代理参与调试、验证与告警处理
+- 查找如何让 agent 参与规划、调试与测试的具体做法
+- 了解 agent 编码实践与既有工程实践的对应关系
+- 为团队制定 agent 协作规范收集参考素材
 
 ## 场景标签
 
@@ -39,6 +39,7 @@
 
 > L3: Practices from people who build software with agents. Each entry has a definition, dated sources with a verbatim quo
 > L20: ## Practices by SDLC stage
+> L22: ### Planning & prototyping
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ee305b731a22` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0c5501c69fb0` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 84,991 · 推送 2026-11-24 · [GitHub](https://github.com/Developer-Y/cs-video-courses) · 个人维护
 
-**计算机科学公开课视频清单：按学科整理大学课程链接**
+**面向学习者的高校计算机课程视频讲座汇总清单**
 
-以清单形式收录大学级别的计算机科学课程及视频讲座链接，按计算机入门、数据结构与算法、系统编程等学科分类组织，条目标注学校、学期与视频来源（YouTube/Bilibili/OCW 等）。收录标准排除小型 MOOC、基础教程与广告链接，仅接受真实大学课程，通过 issue 与 PR 接受社区贡献，维护者会屏蔽灌水账号。
+以清单形式汇总大学级别的计算机科学公开课程及其视频链接，按导论、数据结构与算法、系统编程、操作系统等类别组织；收录 MIT OCW、Stanford、UC Berkeley、CMU、IIT 等机构的课程条目，部分条目附课程网站、讲义、作业与考试资料链接。通过 CONTRIBUTING.md 接受社区 PR 贡献，明确排除 MOOC、基础教程与广告类链接。
 
 ## 筛选速览
 
@@ -26,16 +26,15 @@
 
 ## 能力要点
 
-- 按学科分类组织课程条目（入门、算法、系统编程等）
-- 条目标注学校、授课教师、学期与视频来源
-- 仅收录大学级别课程，排除 MOOC 与广告链接
-- 支持社区通过 PR 贡献新课程条目
+- 按学科类别组织的高校课程视频讲座索引
+- 部分课程附课程网站、作业、实验与考试资料链接
+- 通过 PR 机制接受社区贡献并维护收录标准
 
 ## 适用场景
 
-- 查找某门算法或系统课程的公开视频讲座
-- 自学时按学科挑选大学公开课
-- 为课程学习补充多个学校的教学资源
+- 按主题查找某门计算机课程的完整视频讲座
+- 自学时对比不同大学的同一学科课程
+- 为教学或备课收集公开课资源链接
 
 ## 场景标签
 
@@ -44,8 +43,8 @@
 ## 证据(README 行号)
 
 > L1: # Computer Science courses with video lectures
+> L8: - You are welcome to contribute, please create PR for actual college/University level courses. Please do not add lin
 > L14: ## Courses
-> L16: ### Introduction to Computer Science
 
 ## 星数曲线
 
@@ -61,4 +60,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `ad578ae14626` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9ead7e82f33c` · [字段定义](../../DATASET.md)*

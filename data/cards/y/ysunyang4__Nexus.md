@@ -2,9 +2,9 @@
 
 ⭐ 505 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/ysunyang4/Nexus) · [官网](https://github.com/ysunyang4/Nexus) · 个人维护 · 中文 README
 
-**通过 MCP 将网页 AI 助手连接到本地文件、终端与工具的控制面**
+**把网页 AI 助手接入本地文件/终端/Git/MCP 工具的控制面**
 
-面向 ChatGPT、DeepSeek 等网页 AI 客户端的本地控制面：通过带 Bearer 令牌的 Secure MCP Tunnel（Streamable HTTP）将远程 LLM 接入本地工作站，提供 332 个定义在协议中的 MCP 工具，覆盖文件系统、Git、命令执行、浏览器自动化、Windows 计算机使用等 24 个维度。安全机制包括多级路径沙箱、ACID 写前日志账本、命令风险分级与敏感文件屏蔽。提供 Tauri 桌面控制中心安装包与浏览器用户脚本，源码构建需 Node.js >= 24、pnpm、Rust。
+面向使用 ChatGPT、DeepSeek 等网页 AI 助手的开发者，通过 Secure MCP Tunnel（Streamable HTTP + Bearer token）将远程 LLM 接入本地工作站，提供 332 个规范化 MCP 工具，覆盖文件系统、Git、命令执行、浏览器自动化、Windows Computer Use 等维度。带桌面控制中心（Tauri 2）做权限治理与可观测性，配合路径沙箱、命令风险分级、WAL 操作日志与崩溃恢复。限制：部分能力（Windows Job Objects、DPAPI、NTFS junction 防护）面向 Windows。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@
 
 ## 能力要点
 
-- 332 个形式化定义的 MCP 工具，覆盖 24 个能力维度
-- ACID 写前日志（WAL）与崩溃恢复、幂等保护
-- 多级路径沙箱、符号链接逃逸防护与敏感文件自动屏蔽
-- AST 命令风险分级，默认拦截破坏性系统命令
+- 332 个 MCP 工具，覆盖文件系统、Git、命令执行、LSP、浏览器自动化等 24 个能力维度
+- 多级路径沙箱：目录穿越与符号链接逃逸防护、敏感文件自动遮蔽
+- ACID 风格操作账本：WAL 预写日志、崩溃恢复、幂等防重
+- Blender 3D 自动化与 Unity 编辑器内 Copilot 的 MCP 桥接
 
 ## 适用场景
 
-- 让网页版 AI 助手在授权沙箱内读写本地项目代码
-- 通过 AI 代理执行本地终端命令与 Git 操作
-- 在 Unity/Blender 编辑器中由 AI 代理生成场景与着色器
-- 对 AI 代理的本地操作做细粒度权限与审计管理
+- 让网页端 ChatGPT/DeepSeek 在沙箱边界内读写本地仓库、运行构建
+- 授权 AI 助手执行终端命令与调试工作流并控制读写权限
+- 通过对话驱动 Blender/Unity 生成 3D 场景与着色器
 
 ## 场景标签
 
-`浏览器自动化` `GUI 自动化` · 领域:效率与自动化
+`编码 Agent` · 领域:编码与开发
 
 ## 证据(README 行号)
 
-> L5:  Dedicated Local AI Control Plane for ChatGPT, DeepSeek & Modern Web AI Assistants
-> L19: **Nexus** is an enterprise-grade Local AI Control Plane designed specifically for ChatGPT, DeepSeek, and modern AI 
-> L77: #### 1. 332 Canonical MCP Tools
+> L7:  Dedicated Local AI Control Plane for ChatGPT, DeepSeek & Modern Web AI Assistants
+> L16: Nexus is an enterprise-grade Local AI Control Plane designed specifically for ChatGPT, DeepSeek, and modern AI codi
+> L77: - **Single Source of Truth**: All 332 tools are formally defined in `@localbridge/protocol`, with strict input sche
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `16787b89f04c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `706e5f825413` · [字段定义](../../DATASET.md)*

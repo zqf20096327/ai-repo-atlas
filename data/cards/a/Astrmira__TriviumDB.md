@@ -1,10 +1,10 @@
 # Astrmira/TriviumDB
 
-⭐ 196 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Astrmira/TriviumDB) · [官网](https://triviumdb.com) · 组织维护 · 中文 README
+⭐ 196 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Astrmira/TriviumDB) · [官网](https://triviumdb.com) · 个人维护 · 中文 README
 
-**面向 Agent/RAG 应用的向量×图×文档嵌入式数据库**
+**面向 Agent/RAG 的嵌入式向量-图-文档三模数据库**
 
-用 Rust 编写的进程内嵌入式数据库引擎，在单一存储内核中融合向量检索、属性图谱与 JSON 文档存储，每个节点同时携带向量、稀疏文本、元数据与图关系。通过 TQL 查询语言编排向量召回、图扩展、文本与认知算子，内置自研 ANN 索引 QuIVer 与双曲索引 Pelorus，提供 Python、Node.js、Rust 三语言 SDK 与预编译安装包，另有 nightly 状态的 HTTP 服务端壳。定位为 AI 应用（Agent 记忆、RAG、知识图谱）的本地存储层。当前版本为 0.9.4-beta 预发布。
+用 Rust 编写的进程内嵌入式数据库引擎，在单一存储内核中同时提供向量检索、属性图谱与 JSON 文档存储，每个节点可同时携带向量、稀疏文本、元数据与图关系。提供 TQL 查询语言（向量召回、图扩展、属性过滤、集合代数等算子可编排）、四类持久化属性索引、内嵌图算法库、WAL 与快照备份。通过 Rust/Python/Node.js SDK 使用，预编译分发无需本地编译环境；另有 nightly 状态的 HTTP 服务端壳，官方定位仍为嵌入式数据库。面向构建 Agent 记忆、RAG 与知识图谱应用的开发者。
 
 ## 筛选速览
 
@@ -20,21 +20,21 @@
 
 ## 能力要点
 
-- 单内核同时存储向量、图谱与文档，节点通过全局 NodeId 关联
-- TQL 查询语言可编排向量召回、属性索引、图扩展与图算法
-- 自研 ANN 索引 QuIVer，维度上限 3072，小规模走精确 BruteForce
-- pip/npm/cargo 三语言预编译安装，无需本地编译环境
+- 单内核原生融合向量、属性图谱与文档元数据，节点通过全局 NodeId 关联
+- TQL 查询语言支持向量召回、图扩展、BM25/AC 文本召回与集合代数的自由编排
+- 自研 QuIVer ANN 索引（BQ 构图 + SM-L2 导航 + 余弦精排），另有双曲向量索引 Pelorus
+- 多实例 ResourceRuntime 管理配额、线程与快照，支持只读多进程共享
 
 ## 适用场景
 
-- 给 AI Agent 存对话记忆，召回时向量匹配后沿关系链扩散
-- Markdown 笔记入库后做语义搜索加知识图谱导航
-- RAG 管线里一步完成向量、文本与图结构混合检索
-- 游戏 NPC 把观察到的事件存为带向量节点做记忆检索
+- 为 AI Agent 存储长期对话记忆并沿关系链扩散召回
+- 个人知识库的语义搜索与知识图谱导航
+- RAG 应用的向量召回加图上下文扩展
+- 小型推荐系统的混合检索
 
 ## 场景标签
 
-`Agent 记忆` `知识图谱` `RAG` `向量数据库` · 领域:Agent 开发
+`向量数据库` `Agent 记忆` `知识图谱` · 领域:Agent 开发
 
 ## 证据(README 行号)
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-23 · 置信度 high · 依据 README sha `5557080a408a` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `3a9463b3323e` · [字段定义](../../DATASET.md)*

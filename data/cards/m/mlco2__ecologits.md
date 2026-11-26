@@ -2,9 +2,9 @@
 
 ⭐ 364 · Python · MPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/mlco2/ecologits) · [官网](https://ecologits.ai/) · 组织维护
 
-**追踪生成式 AI API 调用能耗与环境足迹的 Python 库**
+**为通过 API 调用生成式 AI 的开发者估算能耗与环境足迹**
 
-EcoLogits 是一个 Python 库，通过包装主流生成式 AI 提供商的 API 客户端，追踪每次调用的能耗与环境足迹（能源消耗与环境影响）。以 pip 安装，按提供商安装可选集成（anthropic、cohere、google-genai、huggingface-hub、mistralai、openai），用法为在 OpenAI 等客户端初始化时注入 EcoLogits。属于 Code Carbon 非营利组织，由志愿者构建并有赞助商支持；MPL-2.0 许可。另有同生态的 EcoLogits API、EcoLogits.js、Calculator 与面向本地算力的 CodeCarbon。限制：面向 API 调用场景，本地算力需用 CodeCarbon。
+Python 库，追踪经 API 使用生成式 AI 模型时的能耗与环境影响。以 pip 安装后可叠加在 OpenAI 等客户端调用上，估算每次请求的能耗与排放指标。支持与特定 provider 集成的可选安装项，当前覆盖 anthropic、cohere、google-genai、huggingface-hub、mistralai、openai。隶属于 Code Carbon 非营利组织，由志愿者维护并有赞助方支持；本地计算场景则指向同组织的 CodeCarbon。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@ EcoLogits 是一个 Python 库，通过包装主流生成式 AI 提供商的 API
 
 ## 能力要点
 
-- 包装生成式 AI 提供商 SDK 客户端以追踪调用的能耗与环境足迹
-- 支持 6 个提供商的可选集成（anthropic/cohere/google-genai/huggingface-hub/mistralai/openai）
-- 由 Code Carbon 非营利组织维护，MPL-2.0 许可
-- 有社区构建的衍生集成（Claude Code 状态栏、VS Code 状态栏）
+- 以 pip 库形式追踪 API 调用生成式 AI 的能耗与环境影响
+- 提供按 provider 的可选集成安装（openai/anthropic/cohere 等）
+- 提供配套工具：EcoLogits API、EcoLogits.js、Calculator
+- 隶属 Code Carbon 非营利组织，由志愿者维护
 
 ## 适用场景
 
-- 我为应用中的 LLM API 调用估算碳排放与能耗
-- 我要在 OpenAI/Anthropic 等客户端中无侵入式接入环境足迹追踪
-- 我需要报告企业 AI 使用的可持续性指标
+- 在调用生成式 AI API 的应用中估算每次请求的能耗
+- 统计团队使用大模型 API 的环境足迹
+- 本地部署场景改用同组织 CodeCarbon 统计排放
 
 ## 场景标签
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `6db59935fa94` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `0fd2da2d3949` · [字段定义](../../DATASET.md)*

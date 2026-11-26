@@ -2,9 +2,9 @@
 
 ⭐ 206 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/agentscope-ai/QwenPaw-Data) · 组织维护 · 中文 README
 
-**面向企业数据分析的多智能体系统：自然语言到端到端分析工作流**
+**面向企业数据团队的自然语言数据分析 agent 系统**
 
-由 DataBridge、Skill-Hub、Host 三个子系统构成的企业级数据分析智能体系统：DataBridge 将数仓、仪表盘、业务文档等异构资产治理为元数据图、知识图与轨迹图；Skill-Hub 组织可复用分析方法（异常检测、维度下钻、归因等）；Host 将技能物化为 DAG 执行图并管理工件与恢复。提供浏览器 Console、CLI、Headless HTTP/SSE 引擎和 QwenPaw App 集成四种接入方式，本地安装无需登录或账户。
+由四个子系统组成的本地可部署数据 agent 系统：DataBridge 管理元数据图、知识图与业务语义，Skill-Hub 沉淀可复用的分析技能与方法，Host 将技能实例化为 DAG 执行图并管理工具调用、人工介入与产物登记，User Attention Loop 通过 Self-Judge 与反馈回路实现自我评估与经验沉淀。以 Python + uv 单仓库发布于 PyPI，含浏览器 Console、CLI、Headless HTTP/SSE 引擎等接入方式；本地安装无需登录或账号，源码安装需 Node.js 与 Docker。
 
 ## 筛选速览
 
@@ -20,27 +20,27 @@
 
 ## 能力要点
 
-- 三子系统架构：事实治理（DataBridge）、方法编排（Skill-Hub）、执行控制（Host）
-- 自然语言请求分解为 DAG 工作流，支持并行分支与 SQL/Python/文件工具调用
-- 任务轨迹与反馈转化为可复用经验的自进化机制
-- Python + uv 工作区 monorepo，包含七个包并发布至 PyPI
+- DataBridge 元数据图+知识图+用户图构成的受管语义底座
+- Skill-Hub 提供路由、规划到原子分析操作的复用技能
+- Host 生成 DAG 执行图，支持并行分支、人工介入与产物恢复
+- Self-Judge + Feedback Loop 将执行轨迹转化为技能与语义更新
 
 ## 适用场景
 
-- 业务指标监控与异常归因诊断（DAU、收入、转化率）
-- 月度/季度周期性业务报告的自动生成
-- 通过对话对数据做即席多维深挖分析
-- 将分析引擎以 HTTP/SSE 服务集成到自有应用
+- 用自然语言让 agent 完成从取数到报告的全流程业务分析
+- 监控 DAU、营收等核心指标并定位异常波动的归因
+- 管理企业数据源的语义配置与血缘图谱
+- 通过 Headless API 把分析能力集成到自有前端或系统
 
 ## 场景标签
 
-`多智能体` `数据分析` · 领域:Agent 开发
+`数据分析` `知识图谱` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L11: **QwenPaw-Data is an agentic data system built for enterprise data analysis.**
 > L17: QwenPaw-Data organizes its system design around three core dimensions: **facts**, **methodology**, and **execution*
-> L44: The design principle of QwenPaw-Data is to decompose enterprise data analysis according to the core questions an AI
+> L60: |**DataBridge**|Evidence grounding|Metadata, business knowledge, user context, metric definitions, data lineage, an
 
 ## 星数曲线
 
@@ -56,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e504a82e1075` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `80cafefb816e` · [字段定义](../../DATASET.md)*

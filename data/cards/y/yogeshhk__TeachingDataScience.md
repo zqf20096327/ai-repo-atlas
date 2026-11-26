@@ -2,9 +2,9 @@
 
 ⭐ 306 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yogeshhk/TeachingDataScience) · 个人维护
 
-**面向师生学者的免费开源 AI 与数据科学 LaTeX 课程讲义**
+**面向教师与学习者的 AI/数据科学开源 LaTeX 课程讲义**
 
-以 LaTeX Beamer 组织的 AI 与数据科学教学资料仓库，含五门完整课程（约 40 小时）及数十个独立 workshop 与 seminar，主题覆盖机器学习、深度学习、NLP、GenAI、数学基础与 Python。每份源文件可同时编译为幻灯片和双栏速查表；`Code/` 目录提供可运行的 Python/notebook 项目，每个项目带 conda environment.yml 与 pytest 测试。需自行安装 LaTeX 发行版编译 PDF。MIT 许可，欢迎通过 CONTRIBUTING.md 贡献。
+以 LaTeX Beamer 编写的开放课程材料库，覆盖机器学习、深度学习、NLP、生成式 AI、机器学习数学与 Python，按课程（约 40 小时）、工作坊（8-16 小时）、研讨（1-2 小时）三层组织；同一 .tex 源可同时编译为幻灯片与双栏速查表。另附 Code/ 目录下的可运行 Python/notebook 项目（RAG、微调、经典 ML、GNN 等），每个项目带 environment.yml 与 pytest 测试。MIT 许可，内容注明引用来源。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 课程/工作坊/研讨三级深度组织的教学内容
-- 同一 .tex 源编译出幻灯片与速查表两种输出
-- Code/ 目录提供带 environment.yml 与 pytest 的可运行项目
+- 三层内容组织：课程/工作坊/研讨，可独立取用
+- 同一 .tex 源同时编译为 Beamer 幻灯片与双栏速查表
+- Code/ 含可运行项目，各带 conda 环境文件与 pytest 测试套件
 
 ## 适用场景
 
-- 为高校或企业内训挑选完整 AI/ML 课程或单场讲座材料
-- 编译 PDF 幻灯片直接用于课堂教学
-- 运行配套 notebook 复现 RAG、微调、GNN 等示例代码
+- 我需要完整的数据科学课程讲义来授课
+- 我想要某个主题的短时研讨会幻灯片与速查表
+- 我需要可运行的 RAG/微调示例代码来动手学习
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 
 > L3:  Free, open-source Beamer slide decks and code for Machine Learning, Deep Learning, NLP, Generative AI, Maths for ML
 > L24: - **Courses** (full curriculum, ~1-2 weeks / ~40 hrs): Machine Learning, Deep Learning, Generative AI, Maths for ML
-> L38: `Code/` has runnable Python/notebook projects: GenAI and agents, RAG applications, fine-tuning, document parsing, d
+> L28: Workshops and seminars span far more ground than the courses above: classical ML, linear algebra, LLMs, RAG, LangGr
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `faa78ddbe762` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `db6ecaf02600` · [字段定义](../../DATASET.md)*

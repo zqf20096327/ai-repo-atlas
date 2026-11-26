@@ -2,9 +2,9 @@
 
 ⭐ 116,854 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/pbakaus/impeccable) · [官网](https://impeccable.style) · 个人维护
 
-**给编码 agent 的设计词汇与 UI 审查工具集**
+**给编码代理的设计词汇表：引导润色与审查，拦截 AI slop**
 
-以 agent skill 形式安装的 UI 设计工具集，提供 24 个斜杠命令：bolder/polish/quieter 等用于引导 agent 调整界面设计方向，critique/audit 用于按可用性启发式与技术质量评分并按 P0–P3 排序问题，另含由 62 条确定性规则驱动的 slop 检测器（无 LLM、无 API key），可经 agent 钩子、CLI、CI（GitHub code scanning/SARIF 上传）或 Chrome 扩展运行。支持 Claude Code、Cursor、Codex CLI 等 20+ 编码工具；live 模式可在浏览器中选中元素并回写源码。Node 仅 npx 需要，引擎为自包含二进制。
+为编码代理（Claude Code、Cursor、Codex CLI 等约 22 种工具）安装的技能包，提供 24 个斜杠命令分四类：Steer（bolder/polish 等改样式）、Review（critique 按 UX 启发式打分、audit 按 P0–P3 分级输出可访问性/性能报告）、Finish、Iterate。核心机制之一是 62 条确定性规则组成的 slop 检测器，无 LLM、无 API key，可在 agent 钩子、CLI（含 GitHub code scanning SARIF 上传）与 Chrome 扩展三处运行。以 npx 安装，引擎为自包含二进制；live 模式需本地 dev server。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 24 个斜杠命令覆盖引导、审查、收尾、迭代与规划
+- 24 个斜杠命令覆盖引导、审查、收尾与实时迭代
 - 62 条确定性规则的 slop 检测器，无需 LLM 与 API key
-- 三种检测运行方式：agent 钩子、CLI/CI（SARIF 上传）、Chrome 扩展
-- live 模式在浏览器中选中元素并热替换变体回写源码
+- 检测器可在 agent 钩子、CLI/CI（SARIF 上传）、Chrome 扩展三种方式运行
+- live 模式在浏览器中选中元素并热替换变体，支持 Vite/Next/SvelteKit/Astro/Nuxt
 
 ## 适用场景
 
-- 让编码 agent 修改页面时按指定设计方向迭代
-- 在 CI 中检测 AI 生成界面的一致性并阻断新引入问题
-- 浏览器中逐元素对比设计变体后写回代码
+- 让编码代理改 UI 时避免千篇一律的默认风格
+- 在 CI 中扫描 AI 生成的页面并只在 PR 上报告新增问题
+- 对已有组件运行 critique/audit 得到按优先级排序的修改清单
 
 ## 场景标签
 
@@ -38,8 +38,7 @@
 ## 证据(README 行号)
 
 > L3: The design vocabulary for your coding agent. Steer with `polish` and `bolder`, review with `critique` and `audit`, a
-> L29: - **A slop detector.** 62 deterministic rules flag the tells above, plus quality problems like cramped padding and 
-> L114: Node is only needed for `npx`. The skill itself runs a self-contained engine binary that ships next to it or downl
+> L13: Works with Claude Code, Cursor, Codex CLI, GitHub Copilot, Devin, Replit Agent, Gemini CLI, Grok Build, OpenCode, G
 
 ## 星数曲线
 
@@ -55,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-22 · 置信度 high · 依据 README sha `f5eec91440eb` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9f6291a1f92e` · [字段定义](../../DATASET.md)*

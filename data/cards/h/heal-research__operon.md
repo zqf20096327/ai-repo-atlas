@@ -2,9 +2,9 @@
 
 ⭐ 229 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/heal-research/operon) · [官网](https://operongp.readthedocs.io) · 组织维护
 
-**C++ 符号回归框架：用遗传编程拟合可解释数学模型**
+**C++ 符号回归框架：用遗传编程搜索数学表达式模型**
 
-基于 C++ 的符号回归框架，通过遗传编程演化表达式树，在候选数学表达式空间中搜索对给定回归目标拟合最佳的模型，面向系统辨识领域构建精确且可解释的白盒模型。构建依赖 CMake 与支持 C++23 的编译器，推荐通过 nix 或 vcpkg 构建；Python 绑接以独立项目 PyOperon 提供，其中含 scikit-learn 兼容的回归器。项目有 ACM 论文发表记录，并提供详细构建文档。
+Operon 是一个 C++ 符号回归框架，以遗传编程演化表达式树种群，在系统辨识领域寻找拟合目标变量的可解释白盒模型。需 CMake 与支持 C++23 的编译器，推荐通过 nix 或 vcpkg 构建；提供 operon_gp / operon_nsgp 两个命令行引擎，支持 --print-config 输出含算子参数、数据集 SHA-256、种子等信息的 JSON 解析配置以便复现。Python 绑定以独立项目 PyOperon 发布，含 scikit-learn 兼容回归器。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- 遗传编程演化表达式树执行符号回归
-- 输出可解释的白盒数学表达式模型
-- 提供 nix 与 vcpkg 两种推荐构建方式
-- 独立项目 PyOperon 提供 Python 绑定与 scikit-learn 兼容回归器
+- 遗传编程演化表达式树进行符号回归
+- CLI 支持 --print-config/--config-out 输出解析配置并校验设置
+- 提供含数据集 SHA-256、种子与线程溯源的可复现运行配置
+- Python 绑定 PyOperon 提供 scikit-learn 兼容回归器
 
 ## 适用场景
 
-- 为回归任务寻找可解释的数学表达式模型
-- 系统辨识领域构建白盒模型
-- 通过 Python/scikit-learn 接口使用符号回归
+- 对观测数据做符号回归，寻找可解释的数学表达式模型
+- 系统辨识中开发白盒模型
+- 需要显式种子与配置快照的可复现实验
 
 ## 场景标签
 
- · 领域:机器学习/符号回归
+`数据分析` `科研工具` · 领域:效率与自动化
 
 ## 证据(README 行号)
 
 > L10: *Operon* is a modern C++ framework for symbolic regression that uses genetic programming to explore a hypothesis sp
-> L11: Its main purpose is to help develop accurate and interpretable white-box models in the area of system identificatio
+> L21: The project requires CMake and a compiler supporting C++23. The recommended way to build Operon is via either nix o
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `0db447839620` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `062aaa0c284e` · [字段定义](../../DATASET.md)*

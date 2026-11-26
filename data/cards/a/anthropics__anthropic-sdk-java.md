@@ -4,7 +4,7 @@
 
 **Java 应用接入 Claude API 的官方 SDK**
 
-Anthropic 官方 Java SDK，提供从 Java 应用访问 Claude API 的客户端能力。通过 Maven Central 发布，支持 Gradle 与 Maven 依赖引入，提供 AnthropicClient/AnthropicOkHttpClient 客户端类与 messages 消息模型，要求 Java 8 及以上。采用 Apache License 2.0，早期版本及此前的第三方贡献仍适用 MIT 许可。
+Anthropic 官方 Java SDK，通过 Maven Central 分发，提供 AnthropicClient（含基于 OkHttp 的客户端实现）与消息模型类，供 Java 应用调用 Claude API。安装方式为 Gradle 或 Maven 添加依赖。要求 Java 8 及以上。文档位于 platform.claude.com。许可证历史上为 MIT，当前版本为 Apache License 2.0，早期发布版本及此前合并的第三方贡献仍保留 MIT 许可。
 
 ## 筛选速览
 
@@ -20,15 +20,14 @@ Anthropic 官方 Java SDK，提供从 Java 应用访问 Claude API 的客户端�
 
 ## 能力要点
 
-- 官方维护，发布于 Maven Central（当前版本 3.13.0）
-- 支持 Gradle 与 Maven 两种依赖管理方式
-- 提供同步 OkHttp 客户端与 messages 消息模型
-- 兼容 Java 8+
+- 官方 Claude API Java SDK，经 Maven Central 分发
+- 提供同步 OkHttp 客户端 AnthropicOkHttpClient 与消息模型
+- 支持 Gradle 与 Maven 两种依赖管理方式安装
 
 ## 适用场景
 
-- 在 Java 后端服务中调用 Claude API 生成或处理文本
-- 为现有 Java 应用集成 Claude 消息能力
+- 在 Java 后端服务中调用 Claude API 生成文本
+- 为已有 Java 应用集成 Anthropic 消息接口
 
 ## 场景标签
 
@@ -37,7 +36,7 @@ Anthropic 官方 Java SDK，提供从 Java 应用访问 Claude API 的客户端�
 ## 证据(README 行号)
 
 > L5: The Anthropic SDK for Java provides access to the Claude API from Java applications.
-> L1: # Anthropic SDK for Java
+> L16: implementation("com.anthropic:anthropic-java:3.14.0")
 
 ## 星数曲线
 
@@ -53,4 +52,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9a3406166441` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `f174e372de74` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 181 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/astro-stack/django-orbit) · [官网](https://labs.wearehik.com/django-orbit) · 组织维护
 
-**面向 AI agent 的 Django 运行时证据记录与调试工具**
+**给 Django 开发者与编码 agent 提供运行时取证与调试**
 
-Django 中间件/应用，捕获 HTTP 请求、SQL、慢查询与 N+1 候选、日志异常、缓存、后台任务及 LLM 调用元数据，按 family_hash 关联成有界上下文。人类通过 /orbit/ 仪表盘查看，编码 agent 通过本地 stdio 只读 MCP 服务器查询脱敏证据，配合 build_debug_brief、propose_fix_hypotheses 等 8 个工具完成排查；agent 不自动改代码。受 Django Debug Toolbar、Laravel Telescope 启发但不注入宿主 UI。MIT 许可，另有规划中的 Orbit Pro 自托管层（尚未发布）。
+嵌入 Django 请求生命周期的观测组件：通过 watcher 捕获 HTTP 请求、SQL（含慢查询与 N+1 分类）、日志、异常、缓存、后台任务、外发 HTTP/Redis 等运行时事件，并以 family_hash 关联为请求族。开发者可在 /orbit/ 本地面板检视证据；agent 通过本地 stdio 的只读 MCP 服务器查询脱敏、限界上下文，配合 build_debug_brief、propose_fix_hypotheses 等 8 个工具完成工单排查。要求 Python 3.11+ 与 Django 5.2+，MIT 许可，另有规划中的 Orbit Pro 商业层。
 
 ## 筛选速览
 
@@ -20,27 +20,26 @@ Django 中间件/应用，捕获 HTTP 请求、SQL、慢查询与 N+1 候选、�
 
 ## 能力要点
 
-- 捕获请求/SQL/异常/任务/LLM 元数据并按 family_hash 关联
-- 本地只读 MCP 服务器，敏感键脱敏、结果有界、默认不捕获提示词与补全内容
-- 8 个调查工具：匹配工单证据、排序修复假设、生成回归测试计划
-- 自带 /orbit/ 仪表盘与含预设场景的 demo 项目
+- watcher 捕获请求、SQL、异常、缓存、任务与 AI/LLM 元数据，按 family_hash 关联
+- 本地只读 MCP 服务器，输出脱敏、限界，含 8 个排查工具
+- 敏感键掩码、payload 可关、默认不捕获 prompt/completion 等安全控制
+- 面板资源由自身包提供，无需第三方 CDN
 
 ## 适用场景
 
-- Django 应用出现线上问题后，让编码 agent 基于运行时证据定位根因
-- 在仪表盘中按请求族查看关联的 SQL、日志与异常
-- 调试前生成脱敏的事件包供团队或 agent 使用
+- 排查 Django 工单时让编码 agent 读取本地运行时证据
+- 定位 N+1 查询、慢查询与异常分组
+- 生成脱敏事件包与回归测试计划辅助修复
 
 ## 场景标签
 
-`LLM 可观测性` · 领域:评测与运维
+ · 领域:开发工具/可观测性
 
 ## 证据(README 行号)
 
 > L3: **AI agent-native runtime evidence and debugging for Django.**
-> L10: Orbit has its own dashboard at <code>/orbit/</code> and a read-only MCP server. It does not
 > L104: Orbit's MCP server runs locally over stdio. It reads Orbit evidence and does
-> L197: - AI/LLM metadata such as provider, model, tokens, latency, errors and tool
+> L265: Django Orbit remains MIT-licensed and useful on its own. The open source
 
 ## 星数曲线
 
@@ -56,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `2cd8983e0170` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `10932baf7555` · [字段定义](../../DATASET.md)*

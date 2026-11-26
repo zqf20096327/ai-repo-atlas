@@ -2,9 +2,9 @@
 
 ⭐ 242 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-extension) · [官网](https://anythingllm.com) · 组织维护
 
-**将网页内容送入 AnythingLLM 的 Chrome 扩展**
+**AnythingLLM 的浏览器伴侣扩展：在任意网页侧边栏对话**
 
-Mintplex Labs 维护的 Chrome 浏览器扩展，用于连接本地或远程的 AnythingLLM 实例（Docker 或桌面版）。通过连接字符串或自动注册完成接入后，用户可在任意网页上右键保存选中文字或整页内容到 AnythingLLM，并嵌入指定工作区，同时自动同步实例 logo。提供 Chrome 商店安装与开发者模式加载 dist 目录两种安装方式，开发使用 yarn。
+面向 AnythingLLM（Desktop/Docker/Cloud，1.20.0+ 实例）的浏览器伴侣扩展：把当前标签页一键作为上下文对话，支持 @ 引用其他打开的标签页、右键对选中文本执行 Ask/Summarize/Explain/Rewrite 等操作、拖拽或粘贴附件、麦克风语音输入、面板内 Agent 工具调用审批，聊天线程同步回 AnythingLLM 工作区。可从 Chrome Web Store 安装，或用 Node.js 18+ 与 Yarn 自行构建后加载到 Chrome。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@ Mintplex Labs 维护的 Chrome 浏览器扩展，用于连接本地或远程的 
 
 ## 能力要点
 
-- 通过连接字符串或自动注册接入 AnythingLLM 实例
-- 右键保存选中文字或整页到 AnythingLLM
-- 内容可嵌入指定工作区
-- 自动同步实例 logo
+- 当前标签页一键作为上下文，@ 可引入其他打开的标签页
+- 右键选中文字执行 Ask/Summarize/Explain/Rewrite/纠错
+- 聊天线程自动同步保存到 AnythingLLM 工作区
+- 数据只发送到用户连接的 AnythingLLM 实例
 
 ## 适用场景
 
-- 浏览网页时把资料存入 AnythingLLM 知识库
-- 把整页内容发送到指定工作区处理
-- 配合自建 AnythingLLM 实例收集素材
+- 边浏览网页边向自己的 AnythingLLM 工作区提问
+- 选中网页文字后直接调用 AI 总结或改写
+- 把网页或整页内容存入 AnythingLLM 工作区
 
 ## 场景标签
 
-`网页抓取` · 领域:效率与自动化
+`聊天机器人` `AI 助手` · 领域:对话与助手
 
 ## 证据(README 行号)
 
-> L1: # AnythingLLM Chrome Extension
-> L16: - 🔗 Connect to your AnythingLLM instance with a simple connection string or automatic browser extension registratio
+> L5:  Chat with any page using AnythingLLM from your browser.
+> L14: > The companion needs a running AnythingLLM instance, version **1.20.0 or newer**. Desktop, Docker, and Cloud insta
+> L71: - AnythingLLM: the all-in-one AI app this extension connects to
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `e1c7668174b0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `ed517d500804` · [字段定义](../../DATASET.md)*

@@ -2,9 +2,9 @@
 
 ⭐ 182 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/awkoy/notion-mcp-server) · [官网](https://www.npmjs.com/package/notion-mcp-server) · 个人维护
 
-**MCP 服务器：用单个 Notion token 让各类 AI 客户端读写 Notion**
+**让 Claude/Cursor 等 MCP 客户端用 token 读写 Notion 的服务器**
 
-基于 Model Context Protocol 的 Notion 连接服务器：通过 Personal Access Token 或内部集成 token 鉴权，使 Claude Code、Claude Desktop、Cursor、VS Code、Codex 等 MCP 客户端能搜索、创建、编辑页面，查询数据库，添加评论与上传文件。提供 3 个工具覆盖 46 种操作，支持批量写入（原子回滚、幂等键）、限速重试、markdown 往返；可运行于 stdio 或 HTTP 传输，支持 Docker 与无头环境（CI/cron）。对比表格中列出了与 Notion 官方托管及开源服务器的差异。
+一个 Model Context Protocol 服务器，通过 Notion token 鉴权向 Claude Code、Claude Desktop、Cursor、VS Code、Codex 等 MCP 客户端提供 Notion 的读写能力，覆盖页面、数据库、评论与文件上传。提供 3 个工具，连接时占用约 1,005 tokens；支持批量写入（原子回滚与幂等键）、限流重试、markdown 输入输出，以及只读/操作黑白名单等环境变量约束。无需浏览器登录，可在 CI、cron、服务器等无界面环境运行，支持 stdio 与 HTTP 传输，提供 npm 与 Docker 分发。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 单一 token 鉴权，兼容所有 Notion 套餐（含免费版），支持无头运行
-- 3 个工具覆盖 46 种操作，批量写入带原子回滚与幂等键
-- 读写分离的细粒度操作权限（allowlist/blocklist、只读模式、破坏性操作确认）
-- 支持 stdio 与 Streamable HTTP 两种传输，Docker 部署
+- 3 个工具实现对 Notion 页面/数据库/评论/文件的读写与上传
+- token 鉴权适用于全部 Notion 计划（含 Free），可无界面运行
+- 批量写入带原子回滚与幂等键，限流自动重试
+- 只读模式、操作黑白名单与破坏性操作确认等安全约束
 
 ## 适用场景
 
-- 让 Claude Code 或 Cursor 在对话中直接读写我的 Notion 页面和数据库
-- 在 CI 或定时任务中让无人值守 agent 操作 Notion
-- 自建 HTTP 端点供多个网络化 agent 共享访问 Notion
+- 让 AI 助手批量重命名或整理我的 Notion 页面
+- 在 CI 或后台 agent 中无人值守地查询与更新 Notion 数据库
+- 把截图或文档从本地/URL 上传到指定 Notion 页面
 
 ## 场景标签
 
- · 领域:LLM 基础设施/MCP 工具
+ · 领域:LLM 基础设施/MCP 工具集成
 
 ## 证据(README 行号)
 
 > L7: **notion-mcp-server** is a Model Context Protocol (MCP) server that gives Claude Code, Claude Desktop, Cursor, VS Co
-> L46:  Manual setup: JSON config, Claude Code, Codex, Gemini CLI, Docker
-> L162: The server speaks stdio by default. Set `MCP_TRANSPORT=http` to run it as a Streamable HTTP endpoint for web clien
+> L9: - **Token auth on every Notion plan, Free included.** No browser sign-in, so it also runs headless: in CI, cron jobs
+> L103: |**This server**|Agents, automation, CI, self-hosting, long sessions|Token, every plan|✅|Actively maintained; 3 to
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-23 · 置信度 high · 依据 README sha `1ff54d0f06e9` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `591fbc5fd416` · [字段定义](../../DATASET.md)*

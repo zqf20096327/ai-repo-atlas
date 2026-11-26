@@ -2,9 +2,9 @@
 
 ⭐ 257 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Tomotsugu-dev/Hindsight) · [官网](https://hindsight.kyosweb.com/) · 个人维护 · 中文 README
 
-**本地优先的桌面活动记录器：自动记录并用 AI 生成日报**
+**本地优先的桌面活动追踪器，附设备端 AI 日报与多设备同步**
 
-后台自动记录应用与窗口活动的桌面时间追踪工具，按日/周/月以图表统计活动分布，无需手动计时或项目标签。AI 功能包括本地或云端模型生成的每日活动报告、基于个人记录的问答式 AI 聊天；另提供屏幕文字记忆搜索（截图与 OCR 默认关闭，按需开启）。数据默认留在本机，可选通过 Google Drive 或 WebDAV 同步聚合多设备数据。Windows 与 macOS 提供安装包下载；Windows 安装包未做 EV 代码签名，首启会触发 SmartScreen 拦截。
+一款跨平台桌面应用：后台自动记录电脑使用活动，以日/周/月统计图表与活动分类排名展示时间去向；可启用屏幕截图与 OCR，检索屏幕上出现过的文字并跳转到对应时刻。内置番茄钟。AI 部分包括用本地或云端模型生成每日书面报告、基于自身活动记录的问答聊天。数据默认留在本机，可选通过 Google Drive 或 WebDAV 在多设备间同步聚合，并支持插件市场与自定义主题。安装方式为各平台下载安装包；Arch Linux 需从源码用 makepkg 构建。
 
 ## 筛选速览
 
@@ -20,26 +20,26 @@
 
 ## 能力要点
 
-- 后台自动记录应用/窗口活动，日/周/月图表统计
-- 本地或云端模型生成 AI 每日报告
-- 基于个人活动记录的 AI 问答（如“本月 X 上花了多久”）
-- 屏幕文字记忆搜索（OCR 默认关闭，按需开启）
+- 后台自动记录活动，按日/周/月图表与分类统计展示
+- 本地或云端模型生成 AI 日报，并支持基于记录的 AI 问答
+- 屏幕文字检索：OCR 默认关闭，按需启用
+- 通过 Google Drive 或 WebDAV 做多设备同步聚合
 
 ## 适用场景
 
-- 想知道每天时间都花在哪些应用上
-- 让 AI 汇总生成一天的活动报告
-- 多台电脑的用户同步聚合活动数据分析
+- 查看自己每天/每周/每月的时间花在哪里
+- 让 AI 汇总当天活动生成日报
+- 搜索屏幕上曾出现过的文字定位截图时刻
+- 在多台电脑之间聚合分析活动数据
 
 ## 场景标签
 
-`数据分析` · 领域:效率与自动化
+`OCR` · 领域:感知与多模态
 
 ## 证据(README 行号)
 
-> L5:  A local-first computer activity log & AI review tool
-> L67: - 🤖 **AI daily report** — A local model summarizes your activities throughout the day into a daily report
-> L69: - 🔍 **Screen memory search** — Find any text that ever appeared on your screen and jump to the screenshot and momen
+> L64: - **See where your time goes** — Automatically records computer activity in the background and visualizes it in a r
+> L65: - **AI daily report** — A local model summarizes your activities throughout the day into a daily report
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `bb5cedba1f59` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6a7a5c109807` · [字段定义](../../DATASET.md)*

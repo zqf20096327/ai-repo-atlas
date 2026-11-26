@@ -2,9 +2,9 @@
 
 ⭐ 169 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cognizant-ai-lab/neuro-san) · [官网](https://decisionai.ml/neuro-san) · 组织维护
 
-**数据驱动多智能体网络构建库，可用作库或 HTTP 服务**
+**数据驱动的多智能体网络构建库，供开发者编排协作 agent**
 
-Neuro SAN 是用于构建多 LLM 智能体网络的 Python 库，可将复杂问题拆分给多个互相通信的智能体协作解决。网络用 HOCON 数据文件描述，非程序员也可编写；同时支持调用 CodedTools 执行 LLM 无法完成的确定性任务。提供 LLM 供应商无关配置、私有数据通道（sly_data）、fallback LLM、可观测性数据输出、数据驱动测试与 LLM 测试、MCP 服务端、BYOK 客户端密钥支持。可作为库直接使用，或经 HTTP 服务器对外提供，附 docker 部署脚本。
+Neuro SAN 是构建数据驱动多智能体网络的 Python 库，可作为库直接调用或以 HTTP 服务形式运行。网络完全由 HOCON 数据文件定义，使领域专家无需编程即可编写复杂 agent 网络；也可通过 CodedTools（langchain 或自定义接口）执行 LLM 无法独立完成的任务。提供 sly_data 私有数据通道、每个 agent 独立的 LLM 规格与回退配置、调试信息、MCP Server 协议接口、可观测性数据流及 agent 网络测试基础设施。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@ Neuro SAN 是用于构建多 LLM 智能体网络的 Python 库，可将复杂问
 
 ## 能力要点
 
-- HOCON 数据文件描述智能体网络，无需编程即可搭建
-- CodedTools 执行 LLM 无法完成的确定性任务（调 API、复杂数学等）
-- 私有数据通道 sly_data 使敏感数据不进入聊天流
-- 可观测性/tracing 输出兼容 LangSmith、Langfuse、Arize Phoenix、HoneyHive
+- HOCON 数据文件即可定义完整 agent 网络，无需编程
+- sly_data 私有数据通道，避免敏感数据进入 LLM 聊天流
+- 每个 agent 可独立配置 LLM 规格，并支持回退 LLM
+- 每个 Neuro SAN 服务端可作为 MCP Server
 
 ## 适用场景
 
-- 把大任务拆分给多个 LLM 智能体协作完成
-- 让领域专家用数据文件（非代码）编写智能体网络
-- 以 MCP 服务器或 HTTP 服务形式对外提供智能体网络
+- 将复杂任务拆分为多个协作 agent 共同完成
+- 让领域专家以纯数据配置方式编写 agent 网络
+- 为 agent 网络搭建测试与失败分类评估基础设施
+- 以 HTTP 服务形式托管 agent 供客户端调用
 
 ## 场景标签
 
@@ -38,7 +39,7 @@ Neuro SAN 是用于构建多 LLM 智能体网络的 Python 库，可将复杂问
 ## 证据(README 行号)
 
 > L5: **Neuro AI system of agent networks (Neuro SAN)** is a library for building data-driven multi-agent networks
-> L16: Neuro SAN agent networks can be entirely specified in a data-only
+> L13: Solution: Allow these problems to be broken up into smaller pieces so that multiple LLM-enabled
 > L226: The agent infrastructure is run as a library, or as an HTTP service.
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `32df2ea045df` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `7ac714d89a05` · [字段定义](../../DATASET.md)*

@@ -1,10 +1,10 @@
 # devlint/GitWand
 
-⭐ 200 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/devlint/GitWand) · [官网](https://gitwand.app) · 个人维护
+⭐ 200 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/devlint/GitWand) · [官网](https://gitwand.app) · 组织维护
 
-**给开发者解决合并冲突与日常 Git 工作流的桌面客户端**
+**面向开发者的原生 Git 客户端，内置琐碎冲突自动解决**
 
-基于 Tauri 2 + Rust/Vue 3 的原生 Git 客户端，覆盖日常变更、历史、分支、push/pull 流程；核心是冲突解决引擎，用 12 个模式注册表（8 个自动应用）自动处理琐碎冲突，其余以带置信分数与完整轨迹的方式交还用户。应用内提供 Git Tree 历史视图、跨 forge 的 PR 审查（GitHub/GitLab/Bitbucket/Azure DevOps/Gitea/Forgejo）、集成终端、Agent Sessions（MCP）与 AI 辅助功能（分支命名、PR 撰写、hunk 级审查、自然语言提交搜索）。提供桌面安装包与源码运行方式。
+基于 Tauri 2 与 Vue 3 的桌面 Git 客户端，覆盖变更、历史、分支、push/pull 等日常工作流；冲突引擎用 12 个模式注册表（8 个自动应用）处理琐碎合并冲突，每个 hunk 输出置信度分数，复杂冲突保留完整痕迹。集成 PR 审查（支持 GitHub/GitLab/Bitbucket/Azure DevOps/Gitea/Forgejo）、Git Tree DAG 历史视图、多仓库 Workspaces 与 worktree 管理。v1.3 起 AI 覆盖分支命名、PR 撰写、hunk 级审查、语义 squash、自然语言提交搜索；终端支持 Claude Code/Codex 标签页并在隔离 worktree 中运行 AI 任务。
 
 ## 筛选速览
 
@@ -20,16 +20,17 @@
 
 ## 能力要点
 
-- 冲突解决引擎：12 个模式中 8 个自动应用，每个 hunk 携带组合置信分数
-- 跨 6 种 forge 的 PR 浏览/创建/审查与 OAuth 设备流登录
-- 集成终端带 claude/codex 类型 AI agent 标签页与隔离 worktree 任务
-- Git Tree 全分辨率 DAG 历史、合并预览与 Today 跨仓库行动收件箱
+- 冲突模式注册表：12 个模式、8 个自动应用，输出置信度分数
+- 支持六种代码托管平台的 PR 浏览、创建与内联审查
+- Agent Sessions 与 MCP 目录，可在隔离 worktree 中一键启动 AI 任务
+- 跨三大桌面平台提供签名安装包
 
 ## 适用场景
 
-- 日常 Git 仓库管理中自动解决无歧义的合并冲突
-- 在一个客户端里跨 GitHub/GitLab 等平台处理 PR 审查
-- 从应用内直接启动 Claude Code/Codex 并在隔离 worktree 中执行 AI 任务
+- 日常 Git 工作流：暂存、提交、分支、push/pull
+- 合并前预览冲突结果，自动解决琐碎冲突
+- 在一个应用内跨多个托管平台做 PR 审查
+- 从客户端直接启动 Claude Code/Codex 处理任务
 
 ## 场景标签
 
@@ -38,7 +39,7 @@
 ## 证据(README 行号)
 
 > L23: GitWand is a lightweight, native Git client built with Tauri 2 and Vue 3. It covers the full daily workflow — chang
-> L99: Language (English, French, Spanish, Brazilian Portuguese, Simplified Chinese — OS auto-detected), theme (dark/light
+> L91: The **terminal panel** (v3.2) renders through WebGL with inline search (`Ctrl+F`), clickable links, and typed tabs 
 > L126: GitWand's core engine (`@gitwand/core`) automatically resolves trivial Git merge conflicts. It never touches compl
 
 ## 星数曲线
@@ -55,4 +56,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `e06b777d9e16` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `909fadacd2c7` · [字段定义](../../DATASET.md)*

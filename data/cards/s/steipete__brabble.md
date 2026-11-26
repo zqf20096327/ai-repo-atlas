@@ -2,9 +2,9 @@
 
 ⭐ 176 · Go · MIT · 推送 2026-11-16 · [GitHub](https://github.com/steipete/brabble) · [官网](https://brabble.dev) · 个人维护
 
-**macOS/Linux 本地常驻语音唤醒守护进程，转写后触发自定义命令**
+**macOS/Linux 本地常驻语音守护进程：唤醒词转写并触发命令**
 
-用 Go 编写的本地语音守护进程：通过 PortAudio 采集麦克风音频，经 WebRTC VAD 切分语音段，用 whisper.cpp 转写，识别唤醒词（默认 "clawd"，也接受 "Claude"）后触发用户自定义 hook 命令（如 warelay 发送消息），支持队列、冷却、超时与 PII 脱敏。全程本地运行，提供 CLI 管理守护进程生命周期、麦克风、模型下载与 launchd/systemd 服务安装，并有 Prometheus 指标端点。macOS 14+ 提供签名公证的发布包，Intel Mac 与 Linux 需从源码构建（需自行编译 whisper.cpp）。
+以 Go 编写的常驻语音守护进程，监听唤醒词（默认 "clawd"）后用 whisper.cpp 本地转写，再触发用户定义的 hook（如 warelay 心跳命令）。音频链路为 PortAudio 采集加 WebRTC VAD 分段，支持 partial 转写日志、队列/超时/冷却防刷、PII 掩码开关、Prometheus 指标端点。提供 daemon 生命周期管理、UNIX socket 状态查询、模型下载管理、launchd/systemd 服务安装及 WAV 文件离线转写命令。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- PortAudio 采集 + WebRTC VAD + whisper.cpp 本地转写链路
-- 唤醒词触发用户自定义 hook，支持队列/冷却/超时/PII 脱敏
-- 守护进程生命周期 CLI、launchd/systemd 服务安装、Prometheus 指标端点
-- macOS 发布包经 Developer ID 签名并公证
+- whisper.cpp 本地转写，支持 5 档 ggml 模型管理与下载
+- 唤醒词过滤、WebRTC VAD 分段、队列+冷却防刷机制
+- launchd/systemd 服务安装与 UNIX socket 状态查询
+- WAV 文件离线转写并可选经 hook 分发
 
 ## 适用场景
 
-- 对着麦克风说唤醒词来触发本地命令或脚本
-- 为 agent 提供常驻的本地语音入口
-- 无守护进程状态下用 transcribe 命令离线转写 WAV 文件
+- 语音说出唤醒词后让 agent 执行命令
+- 需要本地化、不出网的语音转写场景
+- 把语音输入接入自定义 hook 工作流
 
 ## 场景标签
 
@@ -38,7 +38,8 @@
 ## 证据(README 行号)
 
 > L3: Always-on, local-only voice daemon for macOS and Linux. Hears your wake word (“clawd” by default), transcribes with 
-> L61: - Wake word (case-insensitive) is stripped before dispatch; disable with `--no-wake` or `BRABBLE_WAKE_ENABLED=0`. I
+> L29: - `transcribe <wav>` — run whisper on a WAV file; add `--hook` to send it through your configured hook (respects wa
+> L60: - PortAudio capture → WebRTC VAD → partial segments every `partial_flush_ms` (suppressed from hook) → final segment
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 high · 依据 README sha `43650b81645e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `efcede2f0c28` · [字段定义](../../DATASET.md)*

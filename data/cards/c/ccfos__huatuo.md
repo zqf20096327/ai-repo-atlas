@@ -2,9 +2,9 @@
 
 ⭐ 1,152 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ccfos/huatuo) · [官网](https://huatuo.tech/) · 组织维护 · 中文 README
 
-**基于 eBPF 的 Linux 内核与 Agent 沙箱可观测性工具**
+**给 Linux 内核与 AI 基础设施提供内核级可观测性**
 
-滴滴开源、CCF 孵化的云原生操作系统可观测性项目：整合 kprobes/tracepoints/ftrace/eBPF 提供内核级指标、运行时上下文自动捕获与性能剖析，覆盖内存、调度、网络、块 I/O，宣称开销低于 1%。支持 GPU/NPU 异构硬件监控，可对接 Prometheus/Grafana/Pyroscope/Elasticsearch 并自动关联 Kubernetes 容器标签。通过 Docker 镜像或 Docker Compose 部署，要求内核 4.18 及以上。
+滴滴开源、CCF 孵化的云原生操作系统可观测性项目，整合 kprobes、tracepoints、ftrace 与 eBPF 实现内核级监控，性能开销低于 1%。提供内核全栈洞察（内存、CPU 调度、网络、块 I/O）、事件驱动的运行时上下文捕获、自动快照保留的 AutoTracing 与持续性能剖析，覆盖 GPU/NPU 等异构硬件，并与 Prometheus、Grafana、Elasticsearch 等栈集成，关联 Kubernetes 容器标签。已在滴滴生产环境规模化部署。
 
 ## 筛选速览
 
@@ -20,25 +20,25 @@
 
 ## 能力要点
 
-- eBPF 内核级观测，覆盖内存/CPU 调度/网络/块 I/O
-- AutoTracing 自动触发与快照保留机制
-- 持续性能剖析（CPU/Memory/I/O/Locks）
-- 对接 Prometheus/Grafana/Pyroscope/Elasticsearch 并关联 K8s 容器标签
+- 基于 eBPF 的内核级全栈可观测，性能开销低于 1%
+- AutoTracing 自动快照保留，处理 CPU idle 下降、I/O 激增等抖动
+- 覆盖 GPU/NPU 等异构 AI 计算硬件
+- 集成 Prometheus/Grafana/Pyroscope/Elasticsearch，自动关联 K8s 容器标签
 
 ## 适用场景
 
-- 云原生集群的内核级故障排查
-- AI 基础设施中 CPU idle 下降、I/O 激增等性能抖动定位
-- 混沌工程与稳定性建设中的持续性能剖析
+- 排查云原生环境下的系统故障与性能抖动
+- 对 AI 计算基础设施做内核级持续监控
+- 对操作系统与应用做持续性能剖析
+- 零侵入接入现有可观测性技术栈
 
 ## 场景标签
 
- · 领域:云原生/系统可观测性
+ · 领域:系统运维/可观测性
 
 ## 证据(README 行号)
 
 > L24: **HUATUO**, named after Hua Tuo, a legendary physician in ancient China, is a cloud-native OS observability project
-> L30: - **Kernel-Wide Insight**: Leverages eBPF to keep performance overhead below 1%, delivering full-stack, low-level o
 > L34: - **Heterogeneous Computing Hardware**: Encompassing core system components such as CPUs, memory, PCIe interconnect
 
 ## 星数曲线
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `535fd68c26e8` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `9cc7edefb1b9` · [字段定义](../../DATASET.md)*

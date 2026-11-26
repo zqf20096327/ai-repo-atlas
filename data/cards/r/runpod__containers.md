@@ -2,9 +2,9 @@
 
 ⭐ 241 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/runpod/containers) · [官网](https://hub.docker.com/u/runpod) · 组织维护
 
-**为 Runpod 官方模板构建容器镜像的 Dockerfile 集**
+**为 Runpod 平台官方容器模板提供 Dockerfile 的镜像仓库**
 
-存放 Runpod 官方模板所用容器镜像的 Dockerfile，构建后的镜像发布在 Docker Hub。每个容器文件夹附 README 说明端口代理等服务启动信息；所有镜像默认要求 nginx（端口代理）、openssh-server（SSH 访问）、jupyterlab（JupyterLab 访问）三项依赖，沙箱镜像与 k3s 节点镜像为例外。构建通过 Docker Buildx 与 bake 文件管理，由 bake.sh 脚本组合共享版本定义与模板专属 bake 文件。
+存放 Runpod 官方模板所用容器镜像的 Dockerfiles，构建后的镜像发布在 Docker Hub。所有平台镜像内置 nginx 端口代理、openssh-server SSH 访问与 jupyterlab 访问；sandbox 类镜像通过 Sandbox API 接收命令、k3s-node 镜像运行 k3s agent，均不包含上述服务。构建通过 Docker Buildx 与 bake 脚本管理，CUDA、Ubuntu、PyTorch 的版本兼容集中在 versions.hcl 文件中定义。使用者是需要在 Runpod 平台运行或贡献官方模板的开发者。
 
 ## 筛选速览
 
@@ -20,25 +20,26 @@
 
 ## 能力要点
 
-- 提供 Runpod 官方模板容器镜像的 Dockerfile，镜像发布于 Docker Hub
-- 统一依赖规范：nginx 端口代理、openssh-server、jupyterlab
-- bake.sh 脚本结合共享版本定义与模板 bake 文件管理构建
-- CUDA、Ubuntu、PyTorch 版本兼容性集中在 versions.hcl 维护
+- 提供 Runpod 官方模板容器镜像的 Dockerfile 源码
+- 内置 nginx 代理、openssh-server、jupyterlab 三类平台依赖
+- 通过 bake.sh 脚本与 Buildx 管理构建
+- versions.hcl 集中管理 CUDA/Ubuntu/PyTorch 版本兼容
 
 ## 适用场景
 
-- 为 Runpod 平台定制或重建官方模板容器镜像
-- 按集中定义的 CUDA/Ubuntu/PyTorch 版本矩阵构建镜像
-- 参考镜像内依赖规范编写符合平台要求的容器
+- 在 Runpod 平台上使用或定制官方 GPU 容器模板
+- 向官方模板贡献新镜像或更新版本配置
+- 为 stable-diffusion、bittensor 等工作负载获取预构建镜像
 
 ## 场景标签
 
- · 领域:云计算/容器基础设施
+ · 领域:云基础设施/容器化
 
 ## 证据(README 行号)
 
 > L3: This repository contains the Dockerfiles for the Runpod containers used for our official templates. Built containers
-> L11: The following dependencies are required for all images for Runpod platform functionality.
+> L13: The following dependencies are required for all images for Runpod platform functionality.
+> L27: This repository uses Docker Buildx with bake files to manage builds.
 
 ## 星数曲线
 
@@ -54,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `988156b5161c` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 high · 依据 README sha `6e29d2425108` · [字段定义](../../DATASET.md)*

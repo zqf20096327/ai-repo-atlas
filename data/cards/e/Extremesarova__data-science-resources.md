@@ -1,10 +1,10 @@
 # Extremesarova/data-science-resources
 
-⭐ 171 · 推送 2026-11-22 · [GitHub](https://github.com/Extremesarova/data-science-resources) · [官网](https://t.me/data_science_weekly) · 个人维护 · 中文 README
+⭐ 171 · 推送 2026-11-22 · [GitHub](https://github.com/Extremesarova/data-science-resources) · [官网](https://t.me/data_science_weekly) · 个人维护
 
-**数据科学面试与学习资源策展清单**
+**数据科学面试准备与学习资源清单**
 
-面向求职者与学习者的数据科学资源聚合清单：收录面试问答、算法与数据结构课程与练习平台、Python 教程与理论材料、行为面试建议、测试题与求职技巧等条目，条目来自 Terence Shin、Chip Huyen 等作者及多个平台，部分标注俄语内容。资源按目录分节组织，每周在 Telegram 频道 @data_science_weekly 对清单中一条资源做短评。不提供代码或工具，仅提供链接式条目。
+面向数据科学/机器学习求职者的资源汇总清单，按面试准备（DS/ML/DL/SQL/NLP/编程/行为面试问题、家庭作业、经验建议）、算法与数据结构（平台、课程、书籍）、编程（Python 课程与理论）等类别组织条目。收录英文与俄文资源，部分条目标注 foundations/lang:rus 等标签。维护者每周日在 Telegram 频道发布一条资源的简短介绍。README 仅为链接列表，无安装或运行内容。
 
 ## 筛选速览
 
@@ -20,15 +20,15 @@
 
 ## 能力要点
 
-- 按面试问答/算法/Python/行为面试等分节组织条目
-- 覆盖 Data Science、ML、Deep Learning、NLP/LLM、SQL 多方向面试资源
-- 每周在 Telegram 频道对清单中一条资源做短评
+- 按面试问题、课程、平台、书籍等类别组织的链接清单
+- 覆盖 DS/ML/DL/SQL/NLP/行为面试多类面试准备材料
+- 每周日在 Telegram 频道发布资源短评
 
 ## 适用场景
 
-- 准备数据科学/机器学习岗位的面试问答
-- 系统学习算法与数据结构及 Python
-- 查找行为面试与求职技巧材料
+- 准备数据科学家/机器学习工程师面试时查找练习题与经验帖
+- 系统学习 Python 与算法数据结构时挑选课程和书籍
+- 准备外企求职时参考行为面试与英文面试材料
 
 ## 场景标签
 
@@ -38,7 +38,7 @@
 
 > L1: # Data Science Resources
 > L3: For interview preparation and learning
-> L12: ## Interview Preparation
+> L8: **Table of Contents**:
 
 ## 星数曲线
 
@@ -54,4 +54,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-10-22 · 置信度 mid · 依据 README sha `b1bef4860bf0` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `1ab18ef0bfbf` · [字段定义](../../DATASET.md)*

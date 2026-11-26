@@ -1,10 +1,10 @@
 # wh000wh000/awesome-jev-live
 
-⭐ 380 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 组织维护 · 中文 README
+⭐ 380 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/wh000wh000/awesome-jev-live) · [官网](https://wh000wh000.github.io/awesome-jev-live/) · 个人维护 · 中文 README
 
-**Jev/System One 生态的证据分级索引清单，每 2 小时自动重建**
+**面向开发者的 Jev 模型生态分级收录索引，每 2 小时自动重建**
 
-围绕 TypeSafe AI 的 System One 模型 Jev 维护的 awesome 清单：收录 SDK、MCP 工具、agent、应用与开源模型共 802 条，覆盖 26 种实现语言，由仓库内流水线每 2 小时采集、过滤并复核重建。每条按证据分级为 official/observed/inferred/unverified 四档，供用户按验证程度过滤；首页按分级与 star 数重算各分类置顶，并提供 20 种语言的站点版本。
+围绕 TypeSafe 的 System One 模型 Jev 构建的自动化清单：流水线每两小时采集并复核条目，当前收录 786 条，覆盖官方 SDK、社区客户端、MCP 工具、agent、应用与开源复现，按 official/observed/inferred/unverified 四级标注验证程度，并以 20 种语言呈现。站点以 MIT 许可发布，条目附带星数、最近推送、首次收录时间等元数据，并明示 Jev 的已知缺陷类别与校准提示。
 
 ## 筛选速览
 
@@ -20,16 +20,16 @@
 
 ## 能力要点
 
-- 802 条条目由流水线每 2 小时自动重建
-- 四档证据分级（official/observed/inferred/unverified）可过滤
-- 提供 official Python/TypeScript SDK、社区客户端、适配器等分类
-- 20 种语言的多语言站点版本
+- 流水线每 2 小时自动重建，条目 786 条、实现语言 26 种
+- 四级证据分级（official/observed/inferred/unverified）可过滤
+- 每类目按证据等级与星数重算精选条目
+- 20 种语言版本，MIT 许可
 
 ## 适用场景
 
-- 查找接入 Jev System One API 的官方 SDK 与社区客户端
-- 按证据分级筛选生态内可信度可核的工具
-- 跟踪 Jev 生态新收录条目与分类置顶变化
+- 查找 Jev / TypeSafe System One API 的官方 SDK 与工具
+- 按验证程度筛选社区客户端与 MCP 工具
+- 跟踪 Jev 生态新增项目（每次更新列出新增条目）
 
 ## 场景标签
 
@@ -38,8 +38,8 @@
 ## 证据(README 行号)
 
 > L5:  The evidence-graded Jev index that rebuilds itself every two hours.
-> L20:  Every entry below was collected, filtered and re-checked by the pipeline in this repository. Numbers and timestamp
-> L84: |`official`|Published by TypeSafe AI itself.|
+> L80: Most lists in this space assert inclusion. This one says how much it actually verified, then lets you filter accord
+> L82: |Grade|What it means|
 
 ## 星数曲线
 
@@ -55,4 +55,4 @@ xychart-beta
 
 
 ---
-*卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `a1de10f5077e` · [字段定义](../../DATASET.md)*
+*卡片 v1 · prompt 1.4 · 生成 2026-11-26 · 置信度 mid · 依据 README sha `e5bd5d05b12b` · [字段定义](../../DATASET.md)*
