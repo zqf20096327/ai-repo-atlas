@@ -1,6 +1,6 @@
 # KlockTX/KlockUI
 
-⭐ 28 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/KlockTX/KlockUI) · [官网](https://github.com/KlockTX/KlockUI/releases/latest) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/KlockTX/KlockUI) · [官网](https://github.com/KlockTX/KlockUI/releases/latest) · 个人维护 · 中文 README
 
 **本地 AI 出图工作台：把 ComfyUI 封装成表单式界面**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "KlockTX/KlockUI 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    title "KlockTX/KlockUI 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 17 --> 29
-    line [18, 24, 26, 27, 28]
+    line [18, 24, 26, 27, 28, 27]
 ```
 
-2026-11-20 18 → 2026-11-25 28（+10）
+2026-11-20 18 → 2026-11-26 27（+9）
 
 
 ---

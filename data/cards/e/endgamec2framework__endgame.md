@@ -1,6 +1,6 @@
 # endgamec2framework/endgame
 
-⭐ 39 · C · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/endgamec2framework/endgame) · [官网](https://endgamec2framework.com) · 组织维护
+⭐ 41 · C · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/endgamec2framework/endgame) · [官网](https://endgamec2framework.com) · 组织维护
 
 **带 AI 控制台的红队 C2 框架：自然语言转 C2 命令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "endgamec2framework/endgame 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 35 --> 40
-    line [36, 37, 36, 37, 38, 39, 39]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 35 --> 42
+    line [36, 37, 36, 37, 38, 39, 41]
 ```
 
-2026-10-23 36 → 2026-11-25 39（+3）
+2026-10-24 36 → 2026-11-26 41（+5）
 
 
 ---

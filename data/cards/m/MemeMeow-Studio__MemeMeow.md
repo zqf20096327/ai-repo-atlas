@@ -1,6 +1,6 @@
 # MemeMeow-Studio/MemeMeow
 
-⭐ 1,265 · Python · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/MemeMeow-Studio/MemeMeow) · [官网](https://mememeow.cc/home) · 组织维护 · 中文 README
+⭐ 1,266 · Python · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/MemeMeow-Studio/MemeMeow) · [官网](https://mememeow.cc/home) · 组织维护 · 中文 README
 
 **给普通用户的自然语言表情包检索工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MemeMeow-Studio/MemeMeow 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 1261 --> 1266
-    line [1262, 1264, 1265, 1265]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 1261 --> 1267
+    line [1262, 1264, 1265, 1266]
 ```
 
-2026-10-23 1,262 → 2026-11-25 1,265（+3）
+2026-10-24 1,262 → 2026-11-26 1,266（+4）
 
 
 ---

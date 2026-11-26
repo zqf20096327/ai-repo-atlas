@@ -1,6 +1,6 @@
 # lightseekorg/TorchSpec
 
-⭐ 268 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lightseekorg/TorchSpec) · [官网](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) · 组织维护
+⭐ 269 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lightseekorg/TorchSpec) · [官网](https://pytorch.org/blog/torchspec-speculative-decoding-training-at-scale/) · 组织维护
 
 **面向 LLM 团队的推测解码草稿模型分布式训练框架**
 
@@ -47,12 +47,12 @@ TorchSpec 是一个 torch 原生的推测解码草稿模型训练框架，采用
 ```mermaid
 xychart-beta
     title "lightseekorg/TorchSpec 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 264 --> 269
-    line [266, 265, 266, 267, 268, 268]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 264 --> 270
+    line [266, 265, 266, 267, 268, 269]
 ```
 
-2026-10-23 266 → 2026-11-25 268（+2）
+2026-10-24 266 → 2026-11-26 269（+3）
 
 
 ---

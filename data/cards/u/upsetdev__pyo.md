@@ -1,6 +1,6 @@
 # upsetdev/pyo
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/upsetdev/pyo) · [官网](https://pyo.dev) · 组织维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/upsetdev/pyo) · [官网](https://pyo.dev) · 组织维护
 
 **自托管开源 PaaS：在自己服务器上部署应用与服务**
 
@@ -47,12 +47,12 @@ Pyo 是一个可部署在自己硬件（VPS、独立服务器或本地机器）�
 ```mermaid
 xychart-beta
     title "upsetdev/pyo 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-16 3 → 2026-11-25 4（+1）
+2026-11-16 3 → 2026-11-26 5（+2）
 
 
 ---

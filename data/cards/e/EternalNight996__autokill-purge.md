@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "EternalNight996/autokill-purge 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    title "EternalNight996/autokill-purge 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 10
-    line [3, 7, 9]
+    line [3, 7, 9, 9]
 ```
 
-2026-11-22 3 → 2026-11-25 9（+6）
+2026-11-22 3 → 2026-11-26 9（+6）
 
 
 ---

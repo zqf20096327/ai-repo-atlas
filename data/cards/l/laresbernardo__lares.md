@@ -1,6 +1,6 @@
 # laresbernardo/lares
 
-⭐ 242 · R · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/laresbernardo/lares) · [官网](https://laresbernardo.github.io/lares/) · 个人维护
+⭐ 242 · R · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/laresbernardo/lares) · [官网](https://laresbernardo.github.io/lares/) · 个人维护
 
 **R 分析师的机器学习与日常分析自动化工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "laresbernardo/lares 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 241 --> 243
     line [242, 242]
 ```
 
-2026-10-23 242 → 2026-11-25 242（+0）
+2026-10-24 242 → 2026-11-26 242（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenEnvision/BlogrXiv
 
-⭐ 166 · JavaScript · 推送 2026-11-16 · [GitHub](https://github.com/OpenEnvision/BlogrXiv) · [官网](https://openenvision.org/BlogrXiv) · 组织维护
+⭐ 166 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/OpenEnvision/BlogrXiv) · [官网](https://openenvision.org/BlogrXiv) · 组织维护
 
 **面向研究者的 AI 技术博客策展索引：按分类组织可检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenEnvision/BlogrXiv 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-15", "2026-11-26"]
     y-axis "stars" 163 --> 167
     line [164, 165, 166, 166]
 ```
 
-2026-10-23 164 → 2026-11-25 166（+2）
+2026-10-24 164 → 2026-11-26 166（+2）
 
 
 ---

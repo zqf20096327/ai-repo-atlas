@@ -1,6 +1,6 @@
 # MLNLP-World/SimBiber
 
-⭐ 468 · Python · MIT · 推送 2026-01-20 · [GitHub](https://github.com/MLNLP-World/SimBiber) · 组织维护
+⭐ 469 · Python · MIT · 推送 2026-01-20 · [GitHub](https://github.com/MLNLP-World/SimBiber) · 组织维护
 
 **给论文作者：把 BibTeX 参考文献精简为官方简称格式**
 
@@ -44,12 +44,12 @@ Python 命令行工具，读取 .bib 文件或目录，依据内置映射配置�
 ```mermaid
 xychart-beta
     title "MLNLP-World/SimBiber 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-26"]
     y-axis "stars" 467 --> 471
-    line [469, 470, 469, 468, 468]
+    line [469, 470, 469, 468, 469]
 ```
 
-2026-10-23 469 → 2026-11-25 468（-1）
+2026-10-24 469 → 2026-11-26 469（+0）
 
 
 ---

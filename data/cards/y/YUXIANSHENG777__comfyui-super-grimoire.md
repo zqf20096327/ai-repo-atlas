@@ -1,6 +1,6 @@
 # YUXIANSHENG777/comfyui-super-grimoire
 
-⭐ 21 · HTML · 推送 2026-07-13 · [GitHub](https://github.com/YUXIANSHENG777/comfyui-super-grimoire) · 个人维护 · 中文 README
+⭐ 22 · HTML · 推送 2026-07-13 · [GitHub](https://github.com/YUXIANSHENG777/comfyui-super-grimoire) · 个人维护 · 中文 README
 
 **AI绘画提示词组合器：标签管理与ComfyUI生图Web前端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "YUXIANSHENG777/comfyui-super-grimoire 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 19 --> 22
-    line [20, 21, 20, 21, 21]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 21, 22]
 ```
 
-2026-10-23 20 → 2026-11-25 21（+1）
+2026-10-24 20 → 2026-11-26 22（+2）
 
 
 ---

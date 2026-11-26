@@ -43,12 +43,12 @@ Skelebot 是 carsdotcom 维护的 Python 命令行工具，用于开发机器学
 ```mermaid
 xychart-beta
     title "carsdotcom/skelebot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-23 31 → 2026-11-25 31（+0）
+2026-10-24 31 → 2026-11-26 31（+0）
 
 
 ---

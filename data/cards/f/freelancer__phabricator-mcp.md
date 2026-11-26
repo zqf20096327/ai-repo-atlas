@@ -1,6 +1,6 @@
 # freelancer/phabricator-mcp
 
-⭐ 20 · TypeScript · 推送 2026-11-13 · [GitHub](https://github.com/freelancer/phabricator-mcp) · [官网](https://freelancer.github.io/phabricator-mcp/) · 组织维护
+⭐ 21 · TypeScript · 推送 2026-11-13 · [GitHub](https://github.com/freelancer/phabricator-mcp) · [官网](https://freelancer.github.io/phabricator-mcp/) · 组织维护
 
 **封装 Phabricator Conduit API 的 MCP server，供 AI 客户端操作任务与代码审查**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "freelancer/phabricator-mcp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 18, 19, 20, 20]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 18, 19, 20, 21]
 ```
 
-2026-10-23 18 → 2026-11-25 20（+2）
+2026-10-24 18 → 2026-11-26 21（+3）
 
 
 ---

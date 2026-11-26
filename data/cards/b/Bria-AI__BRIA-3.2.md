@@ -46,12 +46,12 @@ BRIA AI 发布的 4B 参数 rectified flow transformer 文生图模型，使用 
 ```mermaid
 xychart-beta
     title "Bria-AI/BRIA-3.2 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-11-08 44 → 2026-11-25 44（+0）
+2026-11-08 44 → 2026-11-26 44（+0）
 
 
 ---

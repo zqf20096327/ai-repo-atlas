@@ -1,6 +1,6 @@
 # Owurk/Beena
 
-⭐ 3 · Python · 推送 2026-11-21 · [GitHub](https://github.com/Owurk/Beena) · [官网](https://beena.vahedclassifyui.ir) · 个人维护
+⭐ 3 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Owurk/Beena) · [官网](https://beena.vahedclassifyui.ir) · 个人维护
 
 **自托管家庭安防守护：本地检测+AI 场景描述+Telegram 告警**
 
@@ -47,12 +47,12 @@ Beena 是自托管的摄像头安防系统：OpenCV 运动检测（MOG2 背景�
 ```mermaid
 xychart-beta
     title "Owurk/Beena 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-25 3（+0）
+2026-11-13 3 → 2026-11-26 3（+0）
 
 
 ---

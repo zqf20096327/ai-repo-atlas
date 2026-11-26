@@ -1,6 +1,6 @@
 # Gary2005/cs-net
 
-⭐ 117 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Gary2005/cs-net) · [官网](https://gary2005.github.io/cs-net/) · 个人维护 · 中文 README
+⭐ 117 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Gary2005/cs-net) · [官网](https://gary2005.github.io/cs-net/) · 个人维护 · 中文 README
 
 **基于 Transformer 的 CS2 比赛回放分析与路径预测框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Gary2005/cs-net 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25"]
+    title "Gary2005/cs-net 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 111 --> 118
-    line [112, 113, 112, 113, 114, 117]
+    line [112, 113, 112, 113, 114, 117, 117]
 ```
 
-2026-10-23 112 → 2026-11-25 117（+5）
+2026-10-24 112 → 2026-11-26 117（+5）
 
 
 ---

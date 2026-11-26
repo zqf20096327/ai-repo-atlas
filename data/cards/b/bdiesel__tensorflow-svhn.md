@@ -38,6 +38,18 @@
 > L3: A TensorFlow implementation of a
 > L5: that reads multi-digit sequences, such as house numbers, from real-world photos. It is trained on the
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bdiesel/tensorflow-svhn 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
+```
+
+2026-11-25 28 → 2026-11-26 28（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0d403c9330df` · [字段定义](../../DATASET.md)*

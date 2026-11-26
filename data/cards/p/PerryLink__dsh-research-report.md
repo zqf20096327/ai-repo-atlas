@@ -1,6 +1,6 @@
 # PerryLink/dsh-research-report
 
-⭐ 221 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-research-report) · [官网](https://www.npmjs.com/package/dsh-research-report) · 个人维护 · 中文 README
+⭐ 222 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PerryLink/dsh-research-report) · [官网](https://www.npmjs.com/package/dsh-research-report) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 提供可离线复核的封存研究报告插件**
 
@@ -45,13 +45,13 @@ DeepSeek Harness 的社区插件（与官方无关）：给模型一个主题与
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-research-report 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 211 --> 222
-    line [213, 212, 213, 212, 213, 214, 215, 214, 218, 219, 220, 221]
+    title "PerryLink/dsh-research-report 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 211 --> 223
+    line [213, 212, 213, 212, 213, 214, 215, 214, 218, 219, 220, 221, 222]
 ```
 
-2026-10-23 213 → 2026-11-25 221（+8）
+2026-10-24 213 → 2026-11-26 222（+9）
 
 
 ---

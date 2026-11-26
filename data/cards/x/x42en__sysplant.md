@@ -1,6 +1,6 @@
 # x42en/sysplant
 
-⭐ 137 · Nim · GPL-3.0 · 推送 2026-10-25 · [GitHub](https://github.com/x42en/sysplant) · [官网](https://docs.circle-cyber.com/sysplant/) · 个人维护
+⭐ 136 · Nim · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/x42en/sysplant) · [官网](https://docs.circle-cyber.com/sysplant/) · 个人维护
 
 **Windows syscall hooking 代码生成工具，含 MCP 服务器**
 
@@ -46,12 +46,12 @@ Python 编写的 syscall 检索与桩代码生成工具，聚合 Hell's/Halos's/
 ```mermaid
 xychart-beta
     title "x42en/sysplant 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 134 --> 138
-    line [135, 136, 135, 136, 137, 137]
+    line [135, 136, 135, 136, 137, 136]
 ```
 
-2026-10-23 135 → 2026-11-25 137（+2）
+2026-10-24 135 → 2026-11-26 136（+1）
 
 
 ---

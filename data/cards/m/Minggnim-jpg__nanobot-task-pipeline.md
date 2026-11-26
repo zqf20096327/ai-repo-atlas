@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Minggnim-jpg/nanobot-task-pipeline 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-11 14 → 2026-11-25 14（+0）
+2026-11-11 14 → 2026-11-26 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # terragon-labs/terragon-oss
 
-⭐ 261 · TypeScript · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/terragon-labs/terragon-oss) · [官网](https://www.terragonlabs.com/) · 组织维护
+⭐ 262 · TypeScript · Apache-2.0 · 推送 2026-02-10 · [GitHub](https://github.com/terragon-labs/terragon-oss) · [官网](https://www.terragonlabs.com/) · 组织维护
 
 **云端编码代理编排器：在云端沙箱运行 Claude Code 等编码 CLI**
 
@@ -45,12 +45,12 @@ Terragon 的开源停服快照：将开发任务委派给云端编码代理（Cl
 ```mermaid
 xychart-beta
     title "terragon-labs/terragon-oss 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 259 --> 262
-    line [261, 260, 261, 261]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 259 --> 263
+    line [261, 260, 261, 262]
 ```
 
-2026-10-23 261 → 2026-11-25 261（+0）
+2026-10-24 261 → 2026-11-26 262（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Takeoff0518/TinyChat
 
-⭐ 3 · Kotlin · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Takeoff0518/TinyChat) · 个人维护 · 中文 README
+⭐ 4 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Takeoff0518/TinyChat) · 个人维护 · 中文 README
 
 **Android 端轻量 AI 聊天客户端，接 DeepSeek 及兼容接口**
 
@@ -39,6 +39,18 @@
 
 > L12: TinyChat 是一款开源的 Android 聊天客户端，用来连接 DeepSeek 官方接口，以及其他兼容 OpenAI 或 Anthropic 接口的大模型。它的界面贴近官方客户端的操作习惯，轻巧纯净，且**所有数据都只保存
 > L30: 1. **需要自备 API Key**：应用本身不包含任何 Key，也不提供代充或共享账号服务。你可以前往 DeepSeek 开放平台 申请，或使用手头任意兼容 OpenAI 或 Anthropic 格式的服务商接口。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Takeoff0518/TinyChat 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

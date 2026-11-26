@@ -1,6 +1,6 @@
 # laxmimerit/MCP-Mastery-with-Claude-and-Langchain
 
-⭐ 35 · HTML · 推送 2026-04-16 · [GitHub](https://github.com/laxmimerit/MCP-Mastery-with-Claude-and-Langchain) · [官网](https://www.udemy.com/course/mcp-mastery-build-ai-apps-with-claude-langchain-and-ollama/?referralCode=31C17C306A59601B8689) · 组织维护
+⭐ 34 · HTML · 推送 2026-04-16 · [GitHub](https://github.com/laxmimerit/MCP-Mastery-with-Claude-and-Langchain) · [官网](https://www.udemy.com/course/mcp-mastery-build-ai-apps-with-claude-langchain-and-ollama/?referralCode=31C17C306A59601B8689) · 组织维护
 
 **AI/ML 付费课程合集目录：MCP、LangChain、RAG、深度学习等**
 
@@ -44,12 +44,12 @@ KGP Talkie 维护的 AI 与机器学习课程推广目录，列出 MCP 服务器
 ```mermaid
 xychart-beta
     title "laxmimerit/MCP-Mastery-with-Claude-and-Langchain 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 33 --> 36
+    line [35, 34]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 34（-1）
 
 
 ---

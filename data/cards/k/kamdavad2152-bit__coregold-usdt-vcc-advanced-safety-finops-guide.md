@@ -1,6 +1,6 @@
 # kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide
 
-⭐ 54 · 推送 2026-11-17 · [GitHub](https://github.com/kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 81 · 推送 2026-11-17 · [GitHub](https://github.com/kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向海外 AI 订阅用户的虚拟卡安全与预算治理教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 1 --> 58
-    line [5, 9, 18, 34, 54]
+    title "kamdavad2152-bit/coregold-usdt-vcc-advanced-safety-finops-guide 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 88
+    line [5, 9, 18, 34, 54, 81]
 ```
 
-2026-11-18 5 → 2026-11-25 54（+49）
+2026-11-18 5 → 2026-11-26 81（+76）
 
 
 ---

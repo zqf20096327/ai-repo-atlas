@@ -1,6 +1,6 @@
 # lucidrains/dreamer4
 
-⭐ 221 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/lucidrains/dreamer4) · 个人维护
+⭐ 221 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lucidrains/dreamer4) · 个人维护
 
 **面向研究者的 Dreamer 系列世界模型 PyTorch 实现**
 
@@ -45,12 +45,12 @@ Danijar Hafner Dreamer 系列工作最新迭代的 PyTorch 实现，提供 Video
 ```mermaid
 xychart-beta
     title "lucidrains/dreamer4 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 218 --> 222
     line [219, 220, 219, 221, 221]
 ```
 
-2026-10-23 219 → 2026-11-25 221（+2）
+2026-10-24 219 → 2026-11-26 221（+2）
 
 
 ---

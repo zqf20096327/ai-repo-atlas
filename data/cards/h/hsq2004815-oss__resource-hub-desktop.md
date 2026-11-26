@@ -1,6 +1,6 @@
 # hsq2004815-oss/resource-hub-desktop
 
-⭐ 11 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hsq2004815-oss/resource-hub-desktop) · [官网](https://github.com/hsq2004815-oss/resource-hub-desktop/releases/latest) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/hsq2004815-oss/resource-hub-desktop) · [官网](https://github.com/hsq2004815-oss/resource-hub-desktop/releases/latest) · 个人维护 · 中文 README
 
 **Windows 快捷启动器：一键呼出面板管理网站、文件夹收藏**
 
@@ -46,12 +46,12 @@ Flutter + Python 后端的 Windows 快捷启动器，把浏览器收藏、文件
 ```mermaid
 xychart-beta
     title "hsq2004815-oss/resource-hub-desktop 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-26", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-26 10 → 2026-11-25 11（+1）
+2026-10-26 10 → 2026-11-26 12（+2）
 
 
 ---

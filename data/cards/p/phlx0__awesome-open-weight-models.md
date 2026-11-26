@@ -1,6 +1,6 @@
 # phlx0/awesome-open-weight-models
 
-⭐ 11 · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/phlx0/awesome-open-weight-models) · 个人维护
+⭐ 12 · NOASSERTION · 推送 2026-04-20 · [GitHub](https://github.com/phlx0/awesome-open-weight-models) · 个人维护
 
 **开源权重 LLM 选型清单：许可、硬件、部署与按场景推荐**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "phlx0/awesome-open-weight-models 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

@@ -46,12 +46,12 @@ AAAI 2026 论文 BayesAgent 的官方实现：提出 vPGM（Verbalized Probabili
 ```mermaid
 xychart-beta
     title "xingbpshen/agentic-reasoning-vpgm 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

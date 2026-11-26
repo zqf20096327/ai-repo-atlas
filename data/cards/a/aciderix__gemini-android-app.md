@@ -1,6 +1,6 @@
 # aciderix/gemini-android-app
 
-⭐ 12 · Kotlin · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/aciderix/gemini-android-app) · [官网](https://github.com/aciderix/gemini-android-app/releases/latest) · 个人维护
+⭐ 13 · Kotlin · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/aciderix/gemini-android-app) · [官网](https://github.com/aciderix/gemini-android-app/releases/latest) · 个人维护
 
 **Android 原生 Gemini 编程客户端：手机上读写文件跑命令**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aciderix/gemini-android-app 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12, 12]
+    x-axis ["2026-10-25", "2026-10-28", "2026-11-02", "2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 11, 12, 13]
 ```
 
-2026-10-25 10 → 2026-11-25 12（+2）
+2026-10-25 10 → 2026-11-26 13（+3）
 
 
 ---

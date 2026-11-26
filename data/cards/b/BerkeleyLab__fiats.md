@@ -1,6 +1,6 @@
 # BerkeleyLab/fiats
 
-⭐ 80 · Fortran · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/BerkeleyLab/fiats) · 组织维护
+⭐ 81 · Fortran · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/BerkeleyLab/fiats) · 组织维护
 
 **Fortran 2023 编写的科学计算神经网络代理模型训练与推断库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BerkeleyLab/fiats 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 77 --> 81
-    line [78, 80, 80]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 77 --> 82
+    line [78, 80, 81]
 ```
 
-2026-10-23 78 → 2026-11-25 80（+2）
+2026-10-24 78 → 2026-11-26 81（+3）
 
 
 ---

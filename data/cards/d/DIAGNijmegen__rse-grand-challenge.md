@@ -1,6 +1,6 @@
 # DIAGNijmegen/rse-grand-challenge
 
-⭐ 195 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DIAGNijmegen/rse-grand-challenge) · [官网](https://grand-challenge.org) · 组织维护
+⭐ 195 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/DIAGNijmegen/rse-grand-challenge) · [官网](https://grand-challenge.org) · 组织维护
 
 **生物医学影像机器学习方案协作开发平台**
 
@@ -46,12 +46,12 @@ grand-challenge.org 是一个面向生物医学影像机器学习方案的端到
 ```mermaid
 xychart-beta
     title "DIAGNijmegen/rse-grand-challenge 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 193 --> 196
     line [194, 195, 195]
 ```
 
-2026-10-23 194 → 2026-11-25 195（+1）
+2026-10-24 194 → 2026-11-26 195（+1）
 
 
 ---

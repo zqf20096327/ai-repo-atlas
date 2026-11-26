@@ -1,6 +1,6 @@
 # ALERTua/styletts2-ukrainian-openai-tts-api
 
-⭐ 46 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/ALERTua/styletts2-ukrainian-openai-tts-api) · 个人维护 · 中文 README
+⭐ 46 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/ALERTua/styletts2-ukrainian-openai-tts-api) · 个人维护 · 中文 README
 
 **为乌克兰语 StyleTTS2 提供 OpenAI 兼容 TTS API 的自托管网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ALERTua/styletts2-ukrainian-openai-tts-api 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 44 --> 47
     line [45, 46, 46]
 ```
 
-2026-10-23 45 → 2026-11-25 46（+1）
+2026-10-24 45 → 2026-11-26 46（+1）
 
 
 ---

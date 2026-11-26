@@ -1,6 +1,6 @@
 # sgbaird-5DOF/interp
 
-⭐ 12 · MATLAB · MIT · 推送 2026-11-20 · [GitHub](https://github.com/sgbaird-5DOF/interp) · 个人维护
+⭐ 12 · MATLAB · MIT · 推送 2026-11-24 · [GitHub](https://github.com/sgbaird-5DOF/interp) · 个人维护
 
 **MATLAB 晶界五自由度属性插值库（GPR/NN/IDW）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sgbaird-5DOF/interp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

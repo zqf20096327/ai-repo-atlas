@@ -1,6 +1,6 @@
 # tlcdv/the_consciousness_ai
 
-⭐ 115 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/tlcdv/the_consciousness_ai) · [官网](https://theconsciousness.ai) · 个人维护
+⭐ 115 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/tlcdv/the_consciousness_ai) · [官网](https://theconsciousness.ai) · 个人维护
 
 **意识模拟研究框架：通过内部稳态与整合信息生成行为**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tlcdv/the_consciousness_ai 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22", "2026-11-23", "2026-11-26"]
     y-axis "stars" 103 --> 116
     line [104, 105, 106, 104, 108, 112, 113, 114, 115, 115]
 ```
 
-2026-10-23 104 → 2026-11-25 115（+11）
+2026-10-24 104 → 2026-11-26 115（+11）
 
 
 ---

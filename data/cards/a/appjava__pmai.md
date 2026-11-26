@@ -1,6 +1,6 @@
 # appjava/pmai
 
-⭐ 3 · 推送 2026-11-06 · [GitHub](https://github.com/appjava/pmai) · [官网](https://pmai-saas.web.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向拉美小农户与农业中小企业的物联网农业环境监测 SaaS**
 

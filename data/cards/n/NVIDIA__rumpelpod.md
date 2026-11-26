@@ -1,6 +1,6 @@
 # NVIDIA/rumpelpod
 
-⭐ 22 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/rumpelpod) · 组织维护
+⭐ 24 · Rust · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/NVIDIA/rumpelpod) · 组织维护
 
 **在容器中编排多个 LLM 编码 agent 并行工作的工具**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的编排工具：在 Docker/Podman 容器或 Kubernetes pod 中管
 ```mermaid
 xychart-beta
     title "NVIDIA/rumpelpod 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-23", "2026-11-26"]
+    y-axis "stars" 21 --> 25
+    line [22, 24]
 ```
 
-2026-10-22 22 → 2026-11-25 22（+0）
+2026-10-23 22 → 2026-11-26 24（+2）
 
 
 ---

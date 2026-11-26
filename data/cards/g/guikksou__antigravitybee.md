@@ -1,6 +1,6 @@
 # guikksou/antigravitybee
 
-⭐ 4 · Python · 推送 2026-11-20 · [GitHub](https://github.com/guikksou/antigravitybee) · 个人维护
+⭐ 5 · Python · 推送 2026-11-24 · [GitHub](https://github.com/guikksou/antigravitybee) · 个人维护
 
 **Google Antigravity 的像素风桌面宠物挂件，实时同步 agent 状态**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "guikksou/antigravitybee 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "guikksou/antigravitybee 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-21 3 → 2026-11-25 4（+1）
+2026-11-21 3 → 2026-11-26 5（+2）
 
 
 ---

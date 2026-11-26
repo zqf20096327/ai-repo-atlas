@@ -1,6 +1,6 @@
 # centuryofimage/nicegal
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/centuryofimage/nicegal) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/centuryofimage/nicegal) · 个人维护
 
 **桌面照片视频浏览器：用 CLIP/DINOv3 在杂乱文件夹中视觉搜索**
 
@@ -46,12 +46,12 @@ Electron 桌面图库应用，浏览本地照片与视频，支持三种手机�
 ```mermaid
 xychart-beta
     title "centuryofimage/nicegal 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

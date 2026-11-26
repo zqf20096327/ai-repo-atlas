@@ -1,6 +1,6 @@
 # amananandrai/llm-explained
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/amananandrai/llm-explained) · [官网](https://llm-explained-lovat.vercel.app) · 个人维护
+⭐ 6 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/amananandrai/llm-explained) · [官网](https://llm-explained-lovat.vercel.app) · 个人维护
 
 **讲解大语言模型原理的交互式滚动课程（43 页）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amananandrai/llm-explained 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-16 6 → 2026-11-25 6（+0）
+2026-11-16 6 → 2026-11-26 6（+0）
 
 
 ---

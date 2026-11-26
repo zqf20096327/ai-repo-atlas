@@ -1,6 +1,6 @@
 # restatedev/sdk-python
 
-⭐ 85 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/restatedev/sdk-python) · 组织维护
+⭐ 85 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/restatedev/sdk-python) · 组织维护
 
 **Python SDK：用 durable async/await 构建弹性分布式应用**
 
@@ -45,12 +45,12 @@ Restate 系统的官方 Python SDK，用于编写服务、虚拟对象、工作�
 ```mermaid
 xychart-beta
     title "restatedev/sdk-python 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-11-08 85 → 2026-11-25 85（+0）
+2026-11-08 85 → 2026-11-26 85（+0）
 
 
 ---

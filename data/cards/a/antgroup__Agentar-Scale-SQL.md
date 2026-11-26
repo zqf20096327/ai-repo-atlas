@@ -1,6 +1,6 @@
 # antgroup/Agentar-Scale-SQL
 
-⭐ 480 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/antgroup/Agentar-Scale-SQL) · 组织维护 · 中文 README
+⭐ 480 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/antgroup/Agentar-Scale-SQL) · 组织维护 · 中文 README
 
 **蚂蚁集团的 Text-to-SQL 测试时扩展框架，在 BIRD 榜单达 81.67%**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "antgroup/Agentar-Scale-SQL 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-26"]
     y-axis "stars" 477 --> 481
     line [478, 479, 480, 479, 480, 479, 480, 480]
 ```
 
-2026-10-23 478 → 2026-11-25 480（+2）
+2026-10-24 478 → 2026-11-26 480（+2）
 
 
 ---

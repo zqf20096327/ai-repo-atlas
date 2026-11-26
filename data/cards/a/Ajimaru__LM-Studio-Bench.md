@@ -1,6 +1,6 @@
 # Ajimaru/LM-Studio-Bench
 
-⭐ 21 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Ajimaru/LM-Studio-Bench) · [官网](https://ajimaru.github.io/LM-Studio-Bench/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Ajimaru/LM-Studio-Bench) · [官网](https://ajimaru.github.io/LM-Studio-Bench/) · 个人维护
 
 **自动对本地 LM Studio 全部模型做性能基准测试并生成报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ajimaru/LM-Studio-Bench 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 17 --> 22
     line [19, 18, 19, 21, 21]
 ```
 
-2026-10-23 19 → 2026-11-25 21（+2）
+2026-10-24 19 → 2026-11-26 21（+2）
 
 
 ---

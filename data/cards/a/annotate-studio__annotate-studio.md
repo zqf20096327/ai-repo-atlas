@@ -1,6 +1,6 @@
 # annotate-studio/annotate-studio
 
-⭐ 24 · TypeScript · NOASSERTION · 推送 2026-10-19 · [GitHub](https://github.com/annotate-studio/annotate-studio) · 个人维护
+⭐ 24 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/annotate-studio/annotate-studio) · 个人维护
 
 **本地优先的学习工作室：阅读、标注、AI 助手、闪卡与考试一体**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "annotate-studio/annotate-studio 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-26"]
     y-axis "stars" 22 --> 26
     line [23, 24, 23, 24, 25, 24, 24]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 24（+1）
 
 
 ---

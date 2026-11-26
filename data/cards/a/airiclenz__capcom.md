@@ -1,6 +1,6 @@
 # airiclenz/capcom
 
-⭐ 3 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/airiclenz/capcom) · [官网](https://airiclenz.com/capcom/) · 个人维护
+⭐ 3 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/airiclenz/capcom) · [官网](https://airiclenz.com/capcom/) · 个人维护
 
 **给 AI 编码 agent 及开发者的 git 原生 issue 跟踪与知识库**
 
@@ -42,6 +42,18 @@ capcom 是命令行 issue 跟踪器、任务管理器与项目知识库：issue 
 > L152: - **A server or hosting.** The repository is the only store; git already handles many writers.
 > L214: **Is it only for AI agents?**
 > L215: No. The files are readable markdown, and the terminal UI and plain-text output are made for
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "airiclenz/capcom 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

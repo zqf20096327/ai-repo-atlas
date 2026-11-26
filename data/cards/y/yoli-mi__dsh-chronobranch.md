@@ -1,6 +1,6 @@
 # yoli-mi/dsh-chronobranch
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yoli-mi/dsh-chronobranch) · 个人维护 · 中文 README
+⭐ 8 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yoli-mi/dsh-chronobranch) · 个人维护 · 中文 README
 
 **DSH 会话的时间线分支画布插件：可视化分叉与多对话关联**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yoli-mi/dsh-chronobranch 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 5, 6]
+    title "yoli-mi/dsh-chronobranch 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 9
+    line [3, 5, 6, 8]
 ```
 
-2026-11-22 3 → 2026-11-25 6（+3）
+2026-11-22 3 → 2026-11-26 8（+5）
 
 
 ---

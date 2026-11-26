@@ -1,6 +1,6 @@
 # haymon-ai/dbmcp
 
-⭐ 33 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/haymon-ai/dbmcp) · [官网](https://dbmcp.haymon.ai) · 组织维护
+⭐ 33 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/haymon-ai/dbmcp) · [官网](https://dbmcp.haymon.ai) · 组织维护
 
 **把 AI 助手接入 SQL 数据库的 MCP 服务器，含只读与防护**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "haymon-ai/dbmcp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "haymon-ai/dbmcp 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 31 --> 34
-    line [33, 32, 33, 32, 33, 33]
+    line [32, 33, 32, 33, 33]
 ```
 
-2026-10-23 33 → 2026-11-25 33（+0）
+2026-10-24 32 → 2026-11-26 33（+1）
 
 
 ---

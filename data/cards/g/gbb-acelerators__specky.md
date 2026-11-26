@@ -1,6 +1,6 @@
 # gbb-acelerators/specky
 
-⭐ 21 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/gbb-acelerators/specky) · [官网](https://getspecky.ai) · 组织维护
+⭐ 22 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/gbb-acelerators/specky) · [官网](https://getspecky.ai) · 组织维护
 
 **面向 AI IDE 的规格驱动开发 CLI 工具包：13 agent+58 MCP 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gbb-acelerators/specky 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gityuanbao/big-fat-fish-live-room
 
-⭐ 19 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/gityuanbao/big-fat-fish-live-room) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/gityuanbao/big-fat-fish-live-room) · 个人维护 · 中文 README
 
 **Windows 本地虚拟直播工作室，驱动虚拟主播回应弹幕直播**
 
@@ -45,13 +45,13 @@ git源宝工作室出品的 Windows 本地虚拟直播程序：观众弹幕经�
 
 ```mermaid
 xychart-beta
-    title "gityuanbao/big-fat-fish-live-room 星数(近 8 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 4 --> 20
-    line [5, 6, 8, 10, 11, 13, 16, 19]
+    title "gityuanbao/big-fat-fish-live-room 星数(近 9 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 23
+    line [5, 6, 8, 10, 11, 13, 16, 19, 22]
 ```
 
-2026-11-14 5 → 2026-11-25 19（+14）
+2026-11-14 5 → 2026-11-26 22（+17）
 
 
 ---

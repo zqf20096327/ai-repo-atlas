@@ -1,6 +1,6 @@
 # 0x471/proof-gated-endpoint
 
-⭐ 3 · Python · 推送 2026-11-23 · [GitHub](https://github.com/0x471/proof-gated-endpoint) · [官网](https://proof-gated-endpoint.pages.dev/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **树莓派验证密码学证明后才放行 AI 服务器答案的防权重外泄端点**
 

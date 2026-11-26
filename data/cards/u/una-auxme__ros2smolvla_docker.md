@@ -1,6 +1,6 @@
 # una-auxme/ros2smolvla_docker
 
-⭐ 24 · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/una-auxme/ros2smolvla_docker) · [官网](https://una-auxme.github.io/en/projects/ros2smolvla/) · 组织维护
+⭐ 26 · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/una-auxme/ros2smolvla_docker) · [官网](https://una-auxme.github.io/en/projects/ros2smolvla/) · 组织维护
 
 **在 UR 协作机器人上运行 LeRobot/SmoLVLA 的 Docker 容器套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "una-auxme/ros2smolvla_docker 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 26]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 26（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # adebnar/hermes-android
 
-⭐ 49 · Kotlin · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/adebnar/hermes-android) · 个人维护
+⭐ 50 · Kotlin · GPL-3.0 · 推送 2026-10-03 · [GitHub](https://github.com/adebnar/hermes-android) · 个人维护
 
 **Hermes agent 网关的 Android 原生客户端：聊天加全量管理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "adebnar/hermes-android 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 40 --> 50
-    line [41, 42, 43, 44, 42, 47, 48, 49, 49]
+    title "adebnar/hermes-android 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 41 --> 51
+    line [42, 43, 44, 42, 47, 48, 49, 50]
 ```
 
-2026-10-23 41 → 2026-11-25 49（+8）
+2026-10-24 42 → 2026-11-26 50（+8）
 
 
 ---

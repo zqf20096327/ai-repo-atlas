@@ -1,6 +1,6 @@
 # Badtheorylabs/Macaw
 
-⭐ 34 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/Badtheorylabs/Macaw) · 组织维护
+⭐ 35 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/Badtheorylabs/Macaw) · 组织维护
 
 **完全本地运行于 Mac 的 AI agent，97 个 macOS 工具自然语言操控**
 
@@ -46,12 +46,12 @@ Macaw 是基于 Liquid AI LFM2.5-2.6B 微调的 2.7B 模型及配套 macOS 应�
 ```mermaid
 xychart-beta
     title "Badtheorylabs/Macaw 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 33 --> 35
-    line [34, 34]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 33 --> 36
+    line [34, 35]
 ```
 
-2026-10-23 34 → 2026-11-25 34（+0）
+2026-10-24 34 → 2026-11-26 35（+1）
 
 
 ---

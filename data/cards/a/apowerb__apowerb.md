@@ -1,6 +1,6 @@
 # apowerb/apowerb
 
-⭐ 150 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/apowerb/apowerb) · [官网](https://docs.apowerb.com/) · 组织维护
+⭐ 150 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/apowerb/apowerb) · [官网](https://docs.apowerb.com/) · 组织维护
 
 **开源 agent 框架：构建、编排并运维生产级 AI agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "apowerb/apowerb 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-25"]
+    title "apowerb/apowerb 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-26"]
     y-axis "stars" 148 --> 152
-    line [149, 150, 151, 150, 149, 150, 150]
+    line [150, 151, 150, 149, 150, 150]
 ```
 
-2026-10-23 149 → 2026-11-25 150（+1）
+2026-10-24 150 → 2026-11-26 150（+0）
 
 
 ---

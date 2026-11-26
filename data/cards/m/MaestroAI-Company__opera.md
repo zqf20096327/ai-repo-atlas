@@ -1,6 +1,6 @@
 # MaestroAI-Company/opera
 
-⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/MaestroAI-Company/opera) · [官网](https://maestroai.company/opera/) · 组织维护
+⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/MaestroAI-Company/opera) · [官网](https://maestroai.company/opera/) · 组织维护
 
 **隐私优先的开源 AI 助手，支持手机与桌面多端本地运行**
 
@@ -44,13 +44,13 @@ Opera 是一个隐私优先的跨平台 AI 助手应用，内置助手 Maestro�
 
 ```mermaid
 xychart-beta
-    title "MaestroAI-Company/opera 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-25"]
+    title "MaestroAI-Company/opera 星数(近 6 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 12, 13, 14]
+    line [10, 11, 12, 13, 14, 14]
 ```
 
-2026-11-10 10 → 2026-11-25 14（+4）
+2026-11-10 10 → 2026-11-26 14（+4）
 
 
 ---

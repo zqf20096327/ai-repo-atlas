@@ -1,6 +1,6 @@
 # furkancavlak/claude-shorts-editor
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/furkancavlak/claude-shorts-editor) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/furkancavlak/claude-shorts-editor) · 个人维护
 
 **让个人 Claude Code 代理从原始录像剪辑竖版 Short 的本地剪辑引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "furkancavlak/claude-shorts-editor 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 4（+1）
 
 
 ---

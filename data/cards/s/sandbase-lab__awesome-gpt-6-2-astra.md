@@ -1,6 +1,6 @@
 # sandbase-lab/awesome-gpt-6-2-astra
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/sandbase-lab/awesome-gpt-6-2-astra) · [官网](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra) · 组织维护
+⭐ 5 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/sandbase-lab/awesome-gpt-6-2-astra) · [官网](https://www.sandbase.ai/lab/ai-videos/gpt-6-2-astra) · 组织维护
 
 **GPT-6.2 Astra 生成视频与提示词的策展清单**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sandbase-lab/awesome-gpt-6-2-astra 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-21 3 → 2026-11-25 4（+1）
+2026-11-21 3 → 2026-11-26 5（+2）
 
 
 ---

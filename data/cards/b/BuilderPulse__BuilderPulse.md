@@ -1,6 +1,6 @@
 # BuilderPulse/BuilderPulse
 
-⭐ 1,568 · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/BuilderPulse/BuilderPulse) · [官网](https://builderpulse.ai) · 组织维护 · 中文 README
+⭐ 1,567 · NOASSERTION · 推送 2026-08-14 · [GitHub](https://github.com/BuilderPulse/BuilderPulse) · [官网](https://builderpulse.ai) · 组织维护 · 中文 README
 
 **面向独立开发者的每日构建机会简报：AI 聚合 300+ 信号产出选题**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "BuilderPulse/BuilderPulse 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-25"]
+    title "BuilderPulse/BuilderPulse 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-26"]
     y-axis "stars" 1565 --> 1570
-    line [1568, 1569, 1567, 1566, 1569, 1566, 1567, 1566, 1567, 1568, 1568]
+    line [1569, 1567, 1566, 1569, 1566, 1567, 1566, 1567, 1568, 1567]
 ```
 
-2026-10-23 1,568 → 2026-11-25 1,568（+0）
+2026-10-24 1,569 → 2026-11-26 1,567（-2）
 
 
 ---

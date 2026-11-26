@@ -1,6 +1,6 @@
 # epam/ai-dial-admin-frontend
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epam/ai-dial-admin-frontend) · [官网](https://dialx.ai) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/epam/ai-dial-admin-frontend) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL 平台的管理面板 Web 前端**
 
@@ -45,12 +45,12 @@ EPAM AI DIAL 生态的管理端 UI：基于 Next.js 与 NX 构建的 Web 应用�
 ```mermaid
 xychart-beta
     title "epam/ai-dial-admin-frontend 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

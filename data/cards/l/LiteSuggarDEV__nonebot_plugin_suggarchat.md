@@ -1,6 +1,6 @@
 # LiteSuggarDEV/nonebot_plugin_suggarchat
 
-⭐ 43 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/LiteSuggarDEV/nonebot_plugin_suggarchat) · 组织维护 · 中文 README
+⭐ 44 · Python · GPL-3.0 · 推送 2026-08-21 · [GitHub](https://github.com/LiteSuggarDEV/nonebot_plugin_suggarchat) · 组织维护 · 中文 README
 
 **NoneBot2 平台的 QQ 聊天智能体插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LiteSuggarDEV/nonebot_plugin_suggarchat 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 42 --> 45
-    line [44, 43, 44, 43, 43]
+    line [44, 43, 44, 43, 44]
 ```
 
-2026-10-23 44 → 2026-11-25 43（-1）
+2026-10-24 44 → 2026-11-26 44（+0）
 
 
 ---

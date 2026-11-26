@@ -1,6 +1,6 @@
 # anthony-chaudhary/fak
 
-⭐ 50 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthony-chaudhary/fak) · [官网](https://anthony-chaudhary.github.io/fak/showcase.html) · 个人维护
+⭐ 51 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/anthony-chaudhary/fak) · [官网](https://anthony-chaudhary.github.io/fak/showcase.html) · 个人维护
 
 **面向开发者的本地 agentic 运行时：原生推理、KV 缓存与 agent 治理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anthony-chaudhary/fak 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 41 --> 51
-    line [42, 43, 44, 42, 47, 48, 49, 50, 50]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 41 --> 52
+    line [42, 43, 44, 42, 47, 48, 49, 50, 51]
 ```
 
-2026-10-23 42 → 2026-11-25 50（+8）
+2026-10-24 42 → 2026-11-26 51（+9）
 
 
 ---

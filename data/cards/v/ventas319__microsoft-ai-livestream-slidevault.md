@@ -1,6 +1,6 @@
 # ventas319/microsoft-ai-livestream-slidevault
 
-⭐ 56 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/ventas319/microsoft-ai-livestream-slidevault) · 个人维护
+⭐ 56 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/ventas319/microsoft-ai-livestream-slidevault) · 个人维护
 
 **AI 直播课程幻灯片与资源的社区归档知识库**
 
@@ -47,12 +47,12 @@ AI Tidepool 是围绕 AI LiveStream Series 的社区策展仓库：将每场直�
 ```mermaid
 xychart-beta
     title "ventas319/microsoft-ai-livestream-slidevault 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-23 56 → 2026-11-25 56（+0）
+2026-10-24 56 → 2026-11-26 56（+0）
 
 
 ---

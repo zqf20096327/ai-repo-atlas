@@ -1,6 +1,6 @@
 # pixelaigc/ComfyUI-MiniMax-H3-Studio
 
-⭐ 42 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/pixelaigc/ComfyUI-MiniMax-H3-Studio) · 组织维护 · 中文 README
+⭐ 43 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/pixelaigc/ComfyUI-MiniMax-H3-Studio) · 组织维护 · 中文 README
 
 **面向新手的 MiniMax H3 本地视频生成 Web 工作台（免节点图）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pixelaigc/ComfyUI-MiniMax-H3-Studio 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 25 --> 43
-    line [26, 31, 34, 36, 37, 39, 40, 41, 42]
+    title "pixelaigc/ComfyUI-MiniMax-H3-Studio 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 25 --> 44
+    line [26, 31, 34, 36, 37, 39, 40, 41, 42, 43]
 ```
 
-2026-11-08 26 → 2026-11-25 42（+16）
+2026-11-08 26 → 2026-11-26 43（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # kenryu42/open-grok-build
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/kenryu42/open-grok-build) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/kenryu42/open-grok-build) · 个人维护
 
 **OpenCode 插件：以 xAI OAuth 接入 Grok Build 模型并轮换多账号配额**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kenryu42/open-grok-build 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

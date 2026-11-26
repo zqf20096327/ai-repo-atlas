@@ -1,6 +1,6 @@
 # lowenbjer/claude-terse
 
-⭐ 58 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lowenbjer/claude-terse) · [官网](https://github.com/lowenbjer/claude-terse#readme) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/lowenbjer/claude-terse) · [官网](https://github.com/lowenbjer/claude-terse#readme) · 个人维护
 
 **让 Claude Code 回复简短直白的输出风格插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lowenbjer/claude-terse 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 51 --> 59
-    line [52, 53, 54, 55, 57, 58]
+    title "lowenbjer/claude-terse 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 51 --> 60
+    line [52, 53, 54, 55, 57, 58, 59]
 ```
 
-2026-10-23 52 → 2026-11-25 58（+6）
+2026-10-24 52 → 2026-11-26 59（+7）
 
 
 ---

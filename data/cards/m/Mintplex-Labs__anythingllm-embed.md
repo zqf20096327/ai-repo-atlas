@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-embed
 
-⭐ 192 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-embed) · [官网](https://anythingllm.com) · 组织维护
+⭐ 192 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-embed) · [官网](https://anythingllm.com) · 组织维护
 
 **AnythingLLM 的网站嵌入式聊天挂件（子模块）**
 
@@ -45,13 +45,13 @@ AnythingLLM 主应用的子模块，提供将工作区及其知识库以聊天�
 
 ```mermaid
 xychart-beta
-    title "Mintplex-Labs/anythingllm-embed 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25"]
+    title "Mintplex-Labs/anythingllm-embed 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 188 --> 193
-    line [189, 190, 189, 190, 191, 192]
+    line [189, 190, 189, 190, 191, 192, 192]
 ```
 
-2026-10-23 189 → 2026-11-25 192（+3）
+2026-10-24 189 → 2026-11-26 192（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # vultisig/vultisig-sdk
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vultisig/vultisig-sdk) · [官网](https://vultisig.com) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vultisig/vultisig-sdk) · [官网](https://vultisig.com) · 组织维护
 
 **面向 AI 代理与开发者的自托管 MPC 多链钱包 SDK/CLI**
 
@@ -46,12 +46,12 @@ TypeScript SDK 与 CLI，提供自托管 MPC 钱包能力：密钥分片、无�
 ```mermaid
 xychart-beta
     title "vultisig/vultisig-sdk 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 15（+0）
 
 
 ---

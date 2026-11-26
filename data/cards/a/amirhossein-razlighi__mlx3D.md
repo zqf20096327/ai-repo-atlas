@@ -1,6 +1,6 @@
 # amirhossein-razlighi/mlx3D
 
-⭐ 43 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/amirhossein-razlighi/mlx3D) · [官网](https://amirhossein-razlighi.github.io/mlx3D/) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/amirhossein-razlighi/mlx3D) · [官网](https://amirhossein-razlighi.github.io/mlx3D/) · 个人维护
 
 **面向 Apple Silicon 的可微 3D 视觉库：网格、NeRF、3D 高斯泼溅**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amirhossein-razlighi/mlx3D 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 41 --> 44
-    line [42, 43, 43]
+    title "amirhossein-razlighi/mlx3D 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 42 --> 44
+    line [43, 43]
 ```
 
-2026-10-23 42 → 2026-11-25 43（+1）
+2026-10-24 43 → 2026-11-26 43（+0）
 
 
 ---

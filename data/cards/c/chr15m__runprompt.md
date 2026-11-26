@@ -1,6 +1,6 @@
 # chr15m/runprompt
 
-⭐ 446 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/chr15m/runprompt) · 个人维护
+⭐ 444 · Python · MIT · 推送 2026-09-07 · [GitHub](https://github.com/chr15m/runprompt) · 个人维护
 
 **在 shell 中运行 .prompt 文件获得 LLM 结构化响应的单文件 Python 脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chr15m/runprompt 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 444 --> 447
-    line [445, 446, 446]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 443 --> 447
+    line [445, 446, 444]
 ```
 
-2026-10-23 445 → 2026-11-25 446（+1）
+2026-10-24 445 → 2026-11-26 444（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Hmbown/aleph
 
-⭐ 220 · Python · MIT · 推送 2026-04-11 · [GitHub](https://github.com/Hmbown/aleph) · [官网](https://aleph-web.pages.dev/) · 个人维护
+⭐ 219 · Python · MIT · 推送 2026-04-11 · [GitHub](https://github.com/Hmbown/aleph) · [官网](https://aleph-web.pages.dev/) · 个人维护
 
 **把 agent 变成递归语言模型的 MCP 服务器与技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hmbown/aleph 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 217 --> 221
-    line [218, 219, 218, 219, 220, 220]
+    line [218, 219, 218, 219, 220, 219]
 ```
 
-2026-10-23 218 → 2026-11-25 220（+2）
+2026-10-24 218 → 2026-11-26 219（+1）
 
 
 ---

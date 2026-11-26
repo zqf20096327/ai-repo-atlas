@@ -1,6 +1,6 @@
 # birdnet-team/BirdNET-Analyzer
 
-⭐ 1,757 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/birdnet-team/BirdNET-Analyzer) · [官网](https://birdnet-team.github.io/BirdNET-Analyzer/) · 组织维护
+⭐ 1,759 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/birdnet-team/BirdNET-Analyzer) · [官网](https://birdnet-team.github.io/BirdNET-Analyzer/) · 组织维护
 
 **面向科研人员的鸟类声学分析深度学习工具**
 
@@ -45,13 +45,13 @@ Cornell鸟类学实验室开发的BirdNET模型实现，提供处理大量音频
 
 ```mermaid
 xychart-beta
-    title "birdnet-team/BirdNET-Analyzer 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 1740 --> 1758
-    line [1741, 1742, 1741, 1742, 1744, 1749, 1750, 1751, 1754, 1755, 1756, 1757, 1757]
+    title "birdnet-team/BirdNET-Analyzer 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 1740 --> 1760
+    line [1742, 1741, 1742, 1744, 1749, 1750, 1751, 1754, 1755, 1756, 1757, 1759]
 ```
 
-2026-10-23 1,741 → 2026-11-25 1,757（+16）
+2026-10-24 1,742 → 2026-11-26 1,759（+17）
 
 
 ---

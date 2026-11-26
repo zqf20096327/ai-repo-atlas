@@ -1,6 +1,6 @@
 # bd-loser/opencode-bionic
 
-⭐ 46 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bd-loser/opencode-bionic) · [官网](https://github.com/bd-loser/opencode-bionic#install) · 个人维护
+⭐ 49 · Shell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/bd-loser/opencode-bionic) · [官网](https://github.com/bd-loser/opencode-bionic#install) · 个人维护
 
 **在 Android/Termux 上原生运行 opencode AI 编程代理的构建分发仓库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "bd-loser/opencode-bionic 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 29 --> 47
-    line [30, 31, 32, 30, 36, 38, 40, 41, 42, 46]
+    title "bd-loser/opencode-bionic 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 29 --> 50
+    line [30, 31, 32, 30, 36, 38, 40, 41, 42, 46, 49]
 ```
 
-2026-10-23 30 → 2026-11-25 46（+16）
+2026-10-24 30 → 2026-11-26 49（+19）
 
 
 ---

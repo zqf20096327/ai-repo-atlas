@@ -1,6 +1,6 @@
 # inc4/gonka-nop
 
-⭐ 23 · Go · MIT · 推送 2026-05-22 · [GitHub](https://github.com/inc4/gonka-nop) · 组织维护
+⭐ 23 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/inc4/gonka-nop) · 组织维护
 
 **一条命令部署 Gonka GPU 推理节点的 CLI 工具**
 
@@ -45,12 +45,12 @@ Go 编写的命令行工具，用于在 Gonka 网络中部署 GPU 加速的 AI �
 ```mermaid
 xychart-beta
     title "inc4/gonka-nop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-23 23 → 2026-11-25 23（+0）
+2026-10-24 23 → 2026-11-26 23（+0）
 
 
 ---

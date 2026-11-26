@@ -1,6 +1,6 @@
 # google/minimalloc
 
-⭐ 196 · C++ · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/google/minimalloc) · 组织维护
+⭐ 198 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/google/minimalloc) · 组织维护
 
 **面向硬件加速 ML 编译器的静态内存分配求解器**
 
@@ -44,13 +44,13 @@ Google 发布的 ASPLOS 2023 论文配套源码：求解深度学习编译器中
 
 ```mermaid
 xychart-beta
-    title "google/minimalloc 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 193 --> 197
-    line [194, 195, 196, 195, 196, 196]
+    title "google/minimalloc 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 194 --> 199
+    line [195, 196, 195, 196, 198]
 ```
 
-2026-10-23 194 → 2026-11-25 196（+2）
+2026-10-24 195 → 2026-11-26 198（+3）
 
 
 ---

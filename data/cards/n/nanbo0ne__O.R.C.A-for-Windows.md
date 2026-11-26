@@ -1,6 +1,6 @@
 # nanbo0ne/O.R.C.A-for-Windows
 
-⭐ 14 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/nanbo0ne/O.R.C.A-for-Windows) · [官网](https://orca-agent.io) · 个人维护 · 中文 README
+⭐ 14 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nanbo0ne/O.R.C.A-for-Windows) · [官网](https://orca-agent.io) · 个人维护 · 中文 README
 
 **面向真实工作的开源 AI 工作区：对话、编程、研究与办公产物一体**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "nanbo0ne/O.R.C.A-for-Windows 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

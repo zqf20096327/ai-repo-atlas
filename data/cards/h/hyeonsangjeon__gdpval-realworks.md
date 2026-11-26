@@ -1,6 +1,6 @@
 # hyeonsangjeon/gdpval-realworks
 
-⭐ 29 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hyeonsangjeon/gdpval-realworks) · [官网](https://hyeonsangjeon.github.io/gdpval-realworks/) · 个人维护 · 中文 README
+⭐ 29 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hyeonsangjeon/gdpval-realworks) · [官网](https://hyeonsangjeon.github.io/gdpval-realworks/) · 个人维护 · 中文 README
 
 **面向 220 个真实职业任务的 LLM 评测流水线与证据仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hyeonsangjeon/gdpval-realworks 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-23 28 → 2026-11-25 29（+1）
+2026-10-24 28 → 2026-11-26 29（+1）
 
 
 ---

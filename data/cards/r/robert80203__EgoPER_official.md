@@ -45,12 +45,12 @@ CVPR 论文 Error Detection in Egocentric Procedural Task Videos 的官方代码
 ```mermaid
 xychart-beta
     title "robert80203/EgoPER_official 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-26"]
     y-axis "stars" 43 --> 47
     line [44, 45, 46, 46]
 ```
 
-2026-10-23 44 → 2026-11-25 46（+2）
+2026-10-24 44 → 2026-11-26 46（+2）
 
 
 ---

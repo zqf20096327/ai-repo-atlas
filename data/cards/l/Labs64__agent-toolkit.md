@@ -1,6 +1,6 @@
 # Labs64/agent-toolkit
 
-⭐ 3 · HTML · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Labs64/agent-toolkit) · 组织维护
+⭐ 3 · HTML · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Labs64/agent-toolkit) · 组织维护
 
 **为 AI 编码 agent 提供 Claude Code 插件形式的开发技能包**
 
@@ -45,12 +45,12 @@ Labs64 发布的编码 agent 工具集，以 Claude Code 插件形式分发，la
 ```mermaid
 xychart-beta
     title "Labs64/agent-toolkit 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

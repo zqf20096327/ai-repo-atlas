@@ -1,6 +1,6 @@
 # keras-team/keras-tuner
 
-⭐ 2,923 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/keras-team/keras-tuner) · [官网](https://keras.io/keras_tuner/) · 组织维护
+⭐ 2,924 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/keras-team/keras-tuner) · [官网](https://keras.io/keras_tuner/) · 组织维护
 
 **Keras 超参数调优库：自动搜索模型最佳超参数**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "keras-team/keras-tuner 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-25"]
+    title "keras-team/keras-tuner 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2921 --> 2925
-    line [2923, 2922, 2923, 2924, 2923, 2922, 2923]
+    line [2923, 2922, 2923, 2924, 2923, 2922, 2923, 2924]
 ```
 
-2026-10-23 2,923 → 2026-11-25 2,923（+0）
+2026-10-24 2,923 → 2026-11-26 2,924（+1）
 
 
 ---

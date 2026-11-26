@@ -1,6 +1,6 @@
 # zaneGittins/skybreaker
 
-⭐ 5 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/zaneGittins/skybreaker) · 个人维护
+⭐ 5 · Go · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/zaneGittins/skybreaker) · 个人维护
 
 **在自有服务器沙箱中运行编程 agent 的凭证隔离代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zaneGittins/skybreaker 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-26 3 → 2026-11-25 5（+2）
+2026-10-26 3 → 2026-11-26 5（+2）
 
 
 ---

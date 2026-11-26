@@ -1,6 +1,6 @@
 # morethanrealio/brambit
 
-⭐ 24 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/morethanrealio/brambit) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管多人个人 AI 助手引擎：一台服务器，每人的独立助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

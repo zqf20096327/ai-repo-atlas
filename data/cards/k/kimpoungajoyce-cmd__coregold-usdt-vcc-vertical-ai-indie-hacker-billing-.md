@@ -1,6 +1,6 @@
 # kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-
 
-⭐ 15 · 推送 2026-11-23 · [GitHub](https://github.com/kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 41 · 推送 2026-11-23 · [GitHub](https://github.com/kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向出海独立开发者的虚拟卡开卡与账单管理教程**
 
@@ -39,6 +39,18 @@
 > L1: # coregold-usdt-vcc-vertical-ai-indie-hacker-billing-
 > L9: ### 🔍 实战干货：独立开发者与小团队的 4 个用卡实用技巧
 > L26: ### 🧭 极简开卡与绑定流程（一看就会）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kimpoungajoyce-cmd/coregold-usdt-vcc-vertical-ai-indie-hacker-billing- 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 43
+    line [15, 41]
+```
+
+2026-11-25 15 → 2026-11-26 41（+26）
 
 
 ---

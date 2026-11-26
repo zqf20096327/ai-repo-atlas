@@ -1,6 +1,6 @@
 # codewiththiha/mareader
 
-⭐ 120 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/codewiththiha/mareader) · 个人维护
+⭐ 138 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/codewiththiha/mareader) · 个人维护
 
 **跨平台 PDF/EPUB 阅读器：四窗对照、批注、离线朗读与 AI 辅助**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "codewiththiha/mareader 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 35 --> 127
-    line [42, 120]
+    title "codewiththiha/mareader 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 33 --> 147
+    line [42, 120, 138]
 ```
 
-2026-11-23 42 → 2026-11-25 120（+78）
+2026-11-23 42 → 2026-11-26 138（+96）
 
 
 ---

@@ -1,6 +1,6 @@
 # OlekTheModda/ai--manus
 
-⭐ 173 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/OlekTheModda/ai--manus) · 个人维护
+⭐ 161 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/OlekTheModda/ai--manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：代用户运行代码并控制浏览器**
 
@@ -44,13 +44,13 @@ README 描述的 Manus 是一个自主 AI agent，定位为家庭、学习与轻
 
 ```mermaid
 xychart-beta
-    title "OlekTheModda/ai--manus 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25"]
+    title "OlekTheModda/ai--manus 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 109 --> 267
-    line [122, 254, 182, 181, 177, 173]
+    line [122, 254, 182, 181, 177, 173, 161]
 ```
 
-2026-11-13 122 → 2026-11-25 173（+51）
+2026-11-13 122 → 2026-11-26 161（+39）
 
 
 ---

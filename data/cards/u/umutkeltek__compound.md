@@ -1,6 +1,6 @@
 # umutkeltek/compound
 
-⭐ 6 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/umutkeltek/compound) · 个人维护
+⭐ 5 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/umutkeltek/compound) · 个人维护
 
 **为编码 agent 会话留下可复用结构记忆的本地工具**
 
@@ -46,12 +46,12 @@ Compound 是一个本地运行的 CLI 工具，通过 `compound init` 向 Claude
 ```mermaid
 xychart-beta
     title "umutkeltek/compound 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-20", "2026-11-26"]
     y-axis "stars" 3 --> 7
-    line [4, 6, 6]
+    line [4, 6, 5]
 ```
 
-2026-11-10 4 → 2026-11-25 6（+2）
+2026-11-10 4 → 2026-11-26 5（+1）
 
 
 ---

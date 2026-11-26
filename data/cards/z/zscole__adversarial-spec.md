@@ -1,6 +1,6 @@
 # zscole/adversarial-spec
 
-⭐ 559 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/zscole/adversarial-spec) · 个人维护
+⭐ 558 · Python · MIT · 推送 2026-01-22 · [GitHub](https://github.com/zscole/adversarial-spec) · 个人维护
 
 **Claude Code 插件：多模型对抗辩论迭代完善产品规格文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zscole/adversarial-spec 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
     y-axis "stars" 555 --> 560
-    line [557, 556, 558, 559, 559]
+    line [557, 556, 558, 559, 558]
 ```
 
-2026-10-23 557 → 2026-11-25 559（+2）
+2026-10-24 557 → 2026-11-26 558（+1）
 
 
 ---

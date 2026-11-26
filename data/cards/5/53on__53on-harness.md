@@ -1,6 +1,6 @@
 # 53on/53on-harness
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/53on/53on-harness) · [官网](https://53on.com/harness/) · 个人维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/53on/53on-harness) · [官网](https://53on.com/harness/) · 个人维护
 
 **给桌面 AI 提供本地持久记忆与操控 PC 能力的开源外壳**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "53on/53on-harness 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-26"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-16 4 → 2026-11-25 5（+1）
+2026-11-16 4 → 2026-11-26 5（+1）
 
 
 ---

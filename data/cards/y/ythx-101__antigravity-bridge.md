@@ -1,6 +1,6 @@
 # ythx-101/antigravity-bridge
 
-⭐ 64 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/antigravity-bridge) · 个人维护 · 中文 README
+⭐ 65 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/antigravity-bridge) · 个人维护 · 中文 README
 
 **把 Google Antigravity 桌面端聊天封装成本地 REST API 的非官方桥**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ythx-101/antigravity-bridge 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-20", "2026-11-23", "2026-11-25"]
+    title "ythx-101/antigravity-bridge 星数(近 5 点)"
+    x-axis ["2026-11-12", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 62 --> 66
-    line [63, 64, 65, 64]
+    line [63, 64, 65, 64, 65]
 ```
 
-2026-11-12 63 → 2026-11-25 64（+1）
+2026-11-12 63 → 2026-11-26 65（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # neurotracee/ecommerce-price-hunt
 
-⭐ 3 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/neurotracee/ecommerce-price-hunt) · [官网](https://github.com/ccch1mneyyy/dsh-go/) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/neurotracee/ecommerce-price-hunt) · [官网](https://github.com/ccch1mneyyy/dsh-go/) · 个人维护 · 中文 README
 
 **给 AI Agent 用的电商全网比价 Skill 包（含国药准字药品专项）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neurotracee/ecommerce-price-hunt 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 4（+1）
 
 
 ---

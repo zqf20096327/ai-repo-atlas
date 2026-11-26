@@ -46,12 +46,12 @@ session_wrapper 读取 Claude Code、Codex 等编码 agent 留在磁盘上的会
 ```mermaid
 xychart-beta
     title "codegobrrrr9/session_wrapper 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-25 3（+0）
+2026-11-13 3 → 2026-11-26 3（+0）
 
 
 ---

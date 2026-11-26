@@ -1,6 +1,6 @@
 # Breadstick-Crumbs/fanout
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Breadstick-Crumbs/fanout) · [官网](https://github.com/Breadstick-Crumbs/fanout#install) · 个人维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Breadstick-Crumbs/fanout) · [官网](https://github.com/Breadstick-Crumbs/fanout#install) · 个人维护
 
 **协调并行 coding agent 会话，防止合并到 main 时互相破坏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Breadstick-Crumbs/fanout 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-26"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-10-28 4 → 2026-11-25 5（+1）
+2026-10-28 4 → 2026-11-26 5（+1）
 
 
 ---

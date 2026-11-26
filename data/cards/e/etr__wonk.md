@@ -1,6 +1,6 @@
 # etr/wonk
 
-⭐ 10 · Rust · MIT · 推送 2026-10-03 · [GitHub](https://github.com/etr/wonk) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-10-03 · [GitHub](https://github.com/etr/wonk) · 个人维护
 
 **给 AI 编码助手降低 token 消耗的结构感知代码搜索 CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "etr/wonk 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # llm-ring/lmring
 
-⭐ 207 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/llm-ring/lmring) · [官网](https://lmring.com) · 组织维护 · 中文 README
+⭐ 206 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/llm-ring/lmring) · [官网](https://lmring.com) · 组织维护 · 中文 README
 
 **可自托管的 LLM 对比竞技场：并排比较多模型并投票排名**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "llm-ring/lmring 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-26"]
     y-axis "stars" 205 --> 214
-    line [213, 212, 206, 208, 207, 207]
+    line [213, 212, 206, 208, 207, 206]
 ```
 
-2026-10-23 213 → 2026-11-25 207（-6）
+2026-10-24 213 → 2026-11-26 206（-7）
 
 
 ---

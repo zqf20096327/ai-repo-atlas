@@ -46,12 +46,12 @@ IronCore Labs 的统一加密 SDK，将原 SaaS Shield TSC SDK 与 Cloaked AI �
 ```mermaid
 xychart-beta
     title "IronCoreLabs/ironcore-alloy 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-10-23 31 → 2026-11-25 32（+1）
+2026-10-24 31 → 2026-11-26 32（+1）
 
 
 ---

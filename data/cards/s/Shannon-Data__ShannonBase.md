@@ -1,6 +1,6 @@
 # Shannon-Data/ShannonBase
 
-⭐ 201 · C++ · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/Shannon-Data/ShannonBase) · [官网](https://www.shannonbase.org) · 组织维护 · 中文 README
+⭐ 201 · C++ · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Shannon-Data/ShannonBase) · [官网](https://www.shannonbase.org) · 组织维护 · 中文 README
 
 **面向 AI 的 MySQL 兼容数据库：SQL 内完成训练/推理/向量检索/RAG/Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Shannon-Data/ShannonBase 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
+    title "Shannon-Data/ShannonBase 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26"]
     y-axis "stars" 197 --> 202
-    line [199, 198, 199, 200, 198, 200, 201, 201]
+    line [198, 199, 200, 198, 200, 201, 201]
 ```
 
-2026-10-23 199 → 2026-11-25 201（+2）
+2026-10-24 198 → 2026-11-26 201（+3）
 
 
 ---

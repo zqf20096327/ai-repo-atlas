@@ -1,6 +1,6 @@
 # stoyan-stoyanov/wavefunction
 
-⭐ 22 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/stoyan-stoyanov/wavefunction) · [官网](https://www.wavefunction.si) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/stoyan-stoyanov/wavefunction) · [官网](https://www.wavefunction.si) · 个人维护
 
 **macOS 开源桌面编码 agent：并行会话、MCP 连接器与计算机使用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "stoyan-stoyanov/wavefunction 星数(近 7 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-18", "2026-11-25"]
+    title "stoyan-stoyanov/wavefunction 星数(近 8 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 3 --> 23
-    line [4, 6, 8, 9, 20, 21, 22]
+    line [4, 6, 8, 9, 20, 21, 22, 22]
 ```
 
-2026-10-29 4 → 2026-11-25 22（+18）
+2026-10-29 4 → 2026-11-26 22（+18）
 
 
 ---

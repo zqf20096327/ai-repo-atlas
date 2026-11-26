@@ -1,6 +1,6 @@
 # teknium1/hermes-star-trek-profiles
 
-⭐ 166 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/teknium1/hermes-star-trek-profiles) · 个人维护
+⭐ 168 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/teknium1/hermes-star-trek-profiles) · 个人维护
 
 **给 Hermes Agent 用户：68 个可安装的星际迷航角色人格配置**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "teknium1/hermes-star-trek-profiles 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-19", "2026-11-25"]
+    title "teknium1/hermes-star-trek-profiles 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-10", "2026-11-19", "2026-11-26"]
     y-axis "stars" 165 --> 169
-    line [168, 167, 166, 167, 166, 167, 166, 166]
+    line [167, 166, 167, 166, 167, 166, 168]
 ```
 
-2026-10-23 168 → 2026-11-25 166（-2）
+2026-10-24 167 → 2026-11-26 168（+1）
 
 
 ---

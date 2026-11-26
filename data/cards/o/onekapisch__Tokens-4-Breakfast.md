@@ -45,13 +45,13 @@ macOS 菜单栏应用，聚合 Claude Code、Cursor、Codex、Copilot、OpenAI �
 
 ```mermaid
 xychart-beta
-    title "onekapisch/Tokens-4-Breakfast 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-16", "2026-11-25"]
+    title "onekapisch/Tokens-4-Breakfast 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-16", "2026-11-25", "2026-11-26"]
     y-axis "stars" 21 --> 28
-    line [22, 23, 26, 27]
+    line [22, 23, 26, 27, 27]
 ```
 
-2026-10-23 22 → 2026-11-25 27（+5）
+2026-10-24 22 → 2026-11-26 27（+5）
 
 
 ---

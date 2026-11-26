@@ -1,6 +1,6 @@
 # Dicklesworthstone/franken_whisper
 
-⭐ 98 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Dicklesworthstone/franken_whisper) · 个人维护
+⭐ 98 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Dicklesworthstone/franken_whisper) · 个人维护
 
 **Rust ASR 编排工具：统一多 Whisper 后端，agent 友好流式输出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/franken_whisper 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-26"]
     y-axis "stars" 92 --> 99
     line [94, 93, 94, 95, 96, 97, 98, 98]
 ```
 
-2026-10-23 94 → 2026-11-25 98（+4）
+2026-10-24 94 → 2026-11-26 98（+4）
 
 
 ---

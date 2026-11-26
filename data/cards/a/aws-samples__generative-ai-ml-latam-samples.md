@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-ml-latam-samples
 
-⭐ 64 · Python · MIT-0 · 推送 2026-10-29 · [GitHub](https://github.com/aws-samples/generative-ai-ml-latam-samples) · 组织维护
+⭐ 64 · Python · MIT-0 · 推送 2026-11-25 · [GitHub](https://github.com/aws-samples/generative-ai-ml-latam-samples) · 组织维护
 
 **面向拉美市场的生成式 AI 与 ML 示例/蓝图/POC 集合**
 
@@ -46,12 +46,12 @@ aws-samples 维护的代码样例仓库，收录三类内容：Blueprints（含 
 ```mermaid
 xychart-beta
     title "aws-samples/generative-ai-ml-latam-samples 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-23 64 → 2026-11-25 64（+0）
+2026-10-24 64 → 2026-11-26 64（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Gren-Research/skyros
 
-⭐ 3 · JavaScript · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/Gren-Research/skyros) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **带持久记忆与身份的多智能体运行框架（开发中）**
 
@@ -11,7 +11,7 @@ Skyros 是一个持久化智能体框架：每个 agent 拥有独立的身份、
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Azure/mlops-templates
 
-⭐ 143 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/Azure/mlops-templates) · [官网](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) · 组织维护
+⭐ 144 · Python · MIT · 推送 2026-07-25 · [GitHub](https://github.com/Azure/mlops-templates) · [官网](https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment) · 组织维护
 
 **微软 Azure 平台的 MLOps（v2）解决方案加速模板集合**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Azure/mlops-templates 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 142 --> 145
-    line [144, 143, 143]
+    line [144, 143, 144]
 ```
 
-2026-10-23 144 → 2026-11-25 143（-1）
+2026-10-24 144 → 2026-11-26 144（+0）
 
 
 ---

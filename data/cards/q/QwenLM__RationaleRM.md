@@ -1,6 +1,6 @@
 # QwenLM/RationaleRM
 
-⭐ 38 · Python · 推送 2026-03-18 · [GitHub](https://github.com/QwenLM/RationaleRM) · 组织维护 · 中文 README
+⭐ 37 · Python · 推送 2026-03-18 · [GitHub](https://github.com/QwenLM/RationaleRM) · 组织维护 · 中文 README
 
 **对齐奖励模型推理过程的研究项目与评测框架**
 
@@ -46,12 +46,12 @@ Qwen 团队与复旦大学合作的研究项目：发现生成式奖励模型与
 ```mermaid
 xychart-beta
     title "QwenLM/RationaleRM 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 36 --> 39
+    line [38, 37]
 ```
 
-2026-10-23 38 → 2026-11-25 38（+0）
+2026-10-24 38 → 2026-11-26 37（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # PawanOsman/OpenCursor
 
-⭐ 6,048 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PawanOsman/OpenCursor) · [官网](https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor) · 个人维护
+⭐ 6,050 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/PawanOsman/OpenCursor) · [官网](https://marketplace.visualstudio.com/items?itemName=pkrd.ocursor) · 个人维护
 
 **VS Code 开源 AI 编码 agent 扩展：多模型接入的代理式编程助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PawanOsman/OpenCursor 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-25"]
+    title "PawanOsman/OpenCursor 星数(近 14 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 6039 --> 6053
-    line [6040, 6042, 6044, 6048, 6050, 6040, 6050, 6052, 6051, 6052, 6050, 6047, 6048]
+    line [6040, 6042, 6044, 6048, 6050, 6040, 6050, 6052, 6051, 6052, 6050, 6047, 6048, 6050]
 ```
 
-2026-10-23 6,040 → 2026-11-25 6,048（+8）
+2026-10-24 6,040 → 2026-11-26 6,050（+10）
 
 
 ---

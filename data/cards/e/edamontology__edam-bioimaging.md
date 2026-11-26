@@ -1,6 +1,6 @@
 # edamontology/edam-bioimaging
 
-⭐ 13 · Shell · CC-BY-SA-4.0 · 推送 2026-10-29 · [GitHub](https://github.com/edamontology/edam-bioimaging) · [官网](https://webprotege.stanford.edu/#projects/2ce704bf-83ed-4d2e-985f-84c4841fac71/edit/Classes) · 组织维护
+⭐ 13 · Shell · CC-BY-SA-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/edamontology/edam-bioimaging) · [官网](https://webprotege.stanford.edu/#projects/2ce704bf-83ed-4d2e-985f-84c4841fac71/edit/Classes) · 组织维护
 
 **生物成像信息学领域的本体（ontology）扩展：成像/图像分析/数据格式的受控词表**
 
@@ -45,12 +45,12 @@ EDAM Bioimaging 是 EDAM 科学本体面向成像与生物图像信息学的扩�
 ```mermaid
 xychart-beta
     title "edamontology/edam-bioimaging 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

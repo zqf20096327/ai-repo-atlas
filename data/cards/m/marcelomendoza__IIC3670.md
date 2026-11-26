@@ -1,6 +1,6 @@
 # marcelomendoza/IIC3670
 
-⭐ 43 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/marcelomendoza/IIC3670) · 组织维护
+⭐ 42 · Jupyter Notebook · MIT · 推送 2026-10-29 · [GitHub](https://github.com/marcelomendoza/IIC3670) · 组织维护
 
 **智利大学 NLP 研究生课程的 Python 代码与示例集**
 
@@ -43,12 +43,12 @@ IIC3670 课程仓库，收录自然语言处理课程的 Python 代码与示例�
 ```mermaid
 xychart-beta
     title "marcelomendoza/IIC3670 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-25"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-31", "2026-11-26"]
+    y-axis "stars" 41 --> 44
+    line [43, 42]
 ```
 
-2026-10-31 43 → 2026-11-25 43（+0）
+2026-10-31 43 → 2026-11-26 42（-1）
 
 
 ---

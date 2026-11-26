@@ -1,6 +1,6 @@
 # cgbur/llama2.zig
 
-⭐ 225 · Zig · MIT · 推送 2026-08-02 · [GitHub](https://github.com/cgbur/llama2.zig) · 个人维护
+⭐ 226 · Zig · MIT · 推送 2026-08-02 · [GitHub](https://github.com/cgbur/llama2.zig) · 个人维护
 
 **单文件纯 Zig 的 Llama 2 推理实现**
 
@@ -45,12 +45,12 @@ llama2.c 的 Zig 移植版，在单个文件中以纯 Zig 实现 Llama 2 架构�
 ```mermaid
 xychart-beta
     title "cgbur/llama2.zig 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 223 --> 226
-    line [224, 225, 225]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 223 --> 227
+    line [224, 225, 226]
 ```
 
-2026-10-23 224 → 2026-11-25 225（+1）
+2026-10-24 224 → 2026-11-26 226（+2）
 
 
 ---

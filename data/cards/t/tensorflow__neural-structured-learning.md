@@ -1,6 +1,6 @@
 # tensorflow/neural-structured-learning
 
-⭐ 1,013 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/tensorflow/neural-structured-learning) · [官网](https://www.tensorflow.org/neural_structured_learning) · 组织维护
+⭐ 1,014 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/tensorflow/neural-structured-learning) · [官网](https://www.tensorflow.org/neural_structured_learning) · 组织维护
 
 **给开发者的 TensorFlow 结构化信号训练框架（图学习+对抗学习）**
 
@@ -46,12 +46,12 @@ Neural Structured Learning（NSL）是 TensorFlow 下的训练框架，供开发
 ```mermaid
 xychart-beta
     title "tensorflow/neural-structured-learning 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 1011 --> 1014
-    line [1012, 1013, 1013]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 1011 --> 1015
+    line [1012, 1013, 1014]
 ```
 
-2026-10-23 1,012 → 2026-11-25 1,013（+1）
+2026-10-24 1,012 → 2026-11-26 1,014（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # kasnerz/animated-llm
 
-⭐ 28 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/kasnerz/animated-llm) · [官网](https://animatedllm.github.io) · 组织维护
+⭐ 29 · JavaScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/kasnerz/animated-llm) · [官网](https://animatedllm.github.io) · 组织维护
 
 **交互式可视化讲解 LLM 工作原理的教学网页应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "kasnerz/animated-llm 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 24 --> 29
-    line [25, 26, 25, 26, 27, 28, 28]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 25, 26, 27, 28, 29]
 ```
 
-2026-10-23 25 → 2026-11-25 28（+3）
+2026-10-24 25 → 2026-11-26 29（+4）
 
 
 ---

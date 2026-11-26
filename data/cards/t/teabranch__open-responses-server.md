@@ -1,6 +1,6 @@
 # teabranch/open-responses-server
 
-⭐ 184 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/teabranch/open-responses-server) · [官网](https://open-responses-server.teabranch.dev) · 个人维护
+⭐ 183 · Python · MIT · 推送 2026-04-08 · [GitHub](https://github.com/teabranch/open-responses-server) · [官网](https://open-responses-server.teabranch.dev) · 个人维护
 
 **把任意 OpenAI 兼容后端桥接为 Responses API 的服务器，支持 MCP**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "teabranch/open-responses-server 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 183 --> 185
-    line [184, 184]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 182 --> 185
+    line [184, 183]
 ```
 
-2026-10-23 184 → 2026-11-25 184（+0）
+2026-10-24 184 → 2026-11-26 183（-1）
 
 
 ---

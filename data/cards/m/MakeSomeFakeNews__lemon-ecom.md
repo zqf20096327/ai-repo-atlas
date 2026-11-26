@@ -1,6 +1,6 @@
 # MakeSomeFakeNews/lemon-ecom
 
-⭐ 5 · Java · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/MakeSomeFakeNews/lemon-ecom) · [官网](https://makesomefakenews.github.io/lemon-ecom-website/) · 组织维护 · 中文 README
+⭐ 7 · Java · GPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/MakeSomeFakeNews/lemon-ecom) · [官网](https://makesomefakenews.github.io/lemon-ecom-website/) · 组织维护 · 中文 README
 
 **跨境卖家的开源可私有化部署 ERP，统一管理 11 平台店铺**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MakeSomeFakeNews/lemon-ecom 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 7]
 ```
 
-2026-11-16 3 → 2026-11-25 5（+2）
+2026-11-16 3 → 2026-11-26 7（+4）
 
 
 ---

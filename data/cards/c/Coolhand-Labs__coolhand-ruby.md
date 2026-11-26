@@ -1,6 +1,6 @@
 # Coolhand-Labs/coolhand-ruby
 
-⭐ 11 · Ruby · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Coolhand-Labs/coolhand-ruby) · [官网](https://coolhandlabs.com) · 组织维护
+⭐ 11 · Ruby · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Coolhand-Labs/coolhand-ruby) · [官网](https://coolhandlabs.com) · 组织维护
 
 **为 Ruby 应用自动记录并分析 LLM API 调用的监控 SDK**
 
@@ -46,12 +46,12 @@ Coolhand 的 Ruby SDK，通过拦截应用发出的 LLM API HTTP 请求（OpenAI
 ```mermaid
 xychart-beta
     title "Coolhand-Labs/coolhand-ruby 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

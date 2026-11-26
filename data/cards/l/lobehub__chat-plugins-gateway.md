@@ -44,12 +44,12 @@ LobeHub 维护的后端网关服务，为 LobeChat 插件生态提供统一的�
 ```mermaid
 xychart-beta
     title "lobehub/chat-plugins-gateway 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-23 25 → 2026-11-25 25（+0）
+2026-10-24 25 → 2026-11-26 25（+0）
 
 
 ---

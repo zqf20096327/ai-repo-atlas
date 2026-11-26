@@ -1,6 +1,6 @@
 # AstralFoundry/shotloom
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AstralFoundry/shotloom) · 组织维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/AstralFoundry/shotloom) · 组织维护 · 中文 README
 
 **给影像创作者的 AI 桌面工作台：画布+生成+3D 预演+剪辑**
 
@@ -41,6 +41,18 @@
 > L8: Shotloom 是面向 AI 影像创作的桌面工作台，将无限画布、AI 生成、3D 预演和视频剪辑放在同一个项目中。把参考素材和创作思路连起来，与 Agent 一起推进剧本、分镜和制作。
 > L74: Shotloom 通过厂商插件接入 AI 服务。一个插件可以同时提供生成模型和画布工具，共用连接与 API Key。插件支持通过 npm、本地文件或 URL 安装，也可以在插件中心启用、停用或卸载。
 > L93: 从 Releases 下载 macOS Apple Silicon 或 Windows x64 安装包。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AstralFoundry/shotloom 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-25 10 → 2026-11-26 11（+1）
 
 
 ---

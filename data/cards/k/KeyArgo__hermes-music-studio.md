@@ -1,6 +1,6 @@
 # KeyArgo/hermes-music-studio
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KeyArgo/hermes-music-studio) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/KeyArgo/hermes-music-studio) · 个人维护
 
 **Hermes 插件：描述歌曲，草拟歌词与风格，经批准后本地渲染成曲**
 
@@ -40,6 +40,18 @@
 > L14: A studio inside Hermes. You describe a feeling, the studio turns it into a draft with a title, style
 > L189: - **No model ships here.** Rendering needs a reachable engine: a ComfyUI host running MiniMax Music 3,
 > L8: The agent writes the song. You approve it. Your own machine renders it.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KeyArgo/hermes-music-studio 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 9
+    line [4, 8]
+```
+
+2026-11-25 4 → 2026-11-26 8（+4）
 
 
 ---

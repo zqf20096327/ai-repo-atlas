@@ -1,6 +1,6 @@
 # Horace-Maxwell/Easy-SillyTavern
 
-⭐ 9 · PowerShell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Horace-Maxwell/Easy-SillyTavern) · 个人维护 · 中文 README
+⭐ 10 · PowerShell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/Horace-Maxwell/Easy-SillyTavern) · 个人维护 · 中文 README
 
 **给非技术用户的 SillyTavern 一键安装与维护工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Horace-Maxwell/Easy-SillyTavern 星数(近 7 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 2 --> 10
-    line [3, 4, 5, 6, 7, 9, 9]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 2 --> 11
+    line [3, 4, 5, 6, 7, 9, 10]
 ```
 
-2026-11-13 3 → 2026-11-25 9（+6）
+2026-11-13 3 → 2026-11-26 10（+7）
 
 
 ---

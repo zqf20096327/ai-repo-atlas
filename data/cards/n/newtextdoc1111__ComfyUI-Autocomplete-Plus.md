@@ -1,6 +1,6 @@
 # newtextdoc1111/ComfyUI-Autocomplete-Plus
 
-⭐ 197 · JavaScript · MIT · 推送 2026-02-21 · [GitHub](https://github.com/newtextdoc1111/ComfyUI-Autocomplete-Plus) · 个人维护
+⭐ 198 · JavaScript · MIT · 推送 2026-02-21 · [GitHub](https://github.com/newtextdoc1111/ComfyUI-Autocomplete-Plus) · 个人维护
 
 **ComfyUI 提示词输入辅助节点：标签自动补全与相关标签显示**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "newtextdoc1111/ComfyUI-Autocomplete-Plus 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 193 --> 198
-    line [194, 196, 197, 197]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 193 --> 199
+    line [194, 196, 197, 198]
 ```
 
-2026-10-23 194 → 2026-11-25 197（+3）
+2026-10-24 194 → 2026-11-26 198（+4）
 
 
 ---

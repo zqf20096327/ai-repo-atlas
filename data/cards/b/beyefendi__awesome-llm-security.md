@@ -1,6 +1,6 @@
 # beyefendi/awesome-llm-security
 
-⭐ 49 · 推送 2026-11-16 · [GitHub](https://github.com/beyefendi/awesome-llm-security) · 个人维护
+⭐ 50 · 推送 2026-11-24 · [GitHub](https://github.com/beyefendi/awesome-llm-security) · 个人维护
 
 **LLM 与 agent 安全资源策展清单：工具、基准、威胁建模与课程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "beyefendi/awesome-llm-security 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 44 --> 50
-    line [45, 46, 47, 45, 47, 48, 49, 49]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 44 --> 51
+    line [45, 46, 47, 45, 47, 48, 49, 50]
 ```
 
-2026-10-23 45 → 2026-11-25 49（+4）
+2026-10-24 45 → 2026-11-26 50（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies
 
-⭐ 113 · 推送 2026-10-28 · [GitHub](https://github.com/beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 119 · 推送 2026-10-28 · [GitHub](https://github.com/beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向出海团队的虚拟信用卡（VCC）发卡与风控商业服务**
 
@@ -43,13 +43,13 @@ CoreGold 是一项虚拟信用卡发行服务，通过线上控制台提供批�
 
 ```mermaid
 xychart-beta
-    title "beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies 星数(近 13 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 0 --> 123
-    line [5, 17, 26, 29, 69, 90, 104, 109, 113, 112, 109, 111, 113]
+    title "beombeim-alt/CoreGold---Direct-Multi-Tenant-VCC-Clearing-Engine-for-Global-Ad-Scalers-Media-Agencies 星数(近 14 点)"
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 130
+    line [5, 17, 26, 29, 69, 90, 104, 109, 113, 112, 109, 111, 113, 119]
 ```
 
-2026-10-29 5 → 2026-11-25 113（+108）
+2026-10-29 5 → 2026-11-26 119（+114）
 
 
 ---

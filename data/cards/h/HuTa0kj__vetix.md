@@ -1,6 +1,6 @@
 # HuTa0kj/vetix
 
-⭐ 51 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/HuTa0kj/vetix) · 个人维护 · 中文 README
+⭐ 52 · Go · MIT · 推送 2026-09-29 · [GitHub](https://github.com/HuTa0kj/vetix) · 个人维护 · 中文 README
 
 **扫描 agent SKILL 目录安全风险的 LLM-agent 安全扫描器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HuTa0kj/vetix 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 49 --> 52
-    line [50, 51]
+    title "HuTa0kj/vetix 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-10-23 50 → 2026-11-25 51（+1）
+2026-10-24 50 → 2026-11-26 52（+2）
 
 
 ---

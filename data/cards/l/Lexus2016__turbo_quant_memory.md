@@ -1,6 +1,6 @@
 # Lexus2016/turbo_quant_memory
 
-⭐ 10 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Lexus2016/turbo_quant_memory) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Lexus2016/turbo_quant_memory) · 个人维护
 
 **给 AI 编码 agent 的本地优先 MCP 记忆服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lexus2016/turbo_quant_memory 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-25 10（+0）
+2026-11-02 10 → 2026-11-26 10（+0）
 
 
 ---

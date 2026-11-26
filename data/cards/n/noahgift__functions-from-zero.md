@@ -41,6 +41,18 @@
 > L18: `docker build .`
 > L25: `docker run -p 127.0.0.1:8080:8080 a81ce4f35866`
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/functions-from-zero 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
+```
+
+2026-11-25 22 → 2026-11-26 22（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e3072901757b` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # DevelopersGlobal/ai-agent-skills
 
-⭐ 220 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DevelopersGlobal/ai-agent-skills) · [官网](https://developersglobal.github.io/ai-agent-skills/) · 组织维护
+⭐ 220 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DevelopersGlobal/ai-agent-skills) · [官网](https://developersglobal.github.io/ai-agent-skills/) · 组织维护
 
 **面向开发者的 AI 编码 agent 技能文件库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DevelopersGlobal/ai-agent-skills 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 210 --> 221
-    line [211, 213, 215, 216, 213, 217, 218, 219, 220]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 212 --> 221
+    line [213, 215, 216, 213, 217, 218, 219, 220, 220]
 ```
 
-2026-10-23 211 → 2026-11-25 220（+9）
+2026-10-24 213 → 2026-11-26 220（+7）
 
 
 ---

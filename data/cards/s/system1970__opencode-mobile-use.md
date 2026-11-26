@@ -1,6 +1,6 @@
 # system1970/opencode-mobile-use
 
-⭐ 49 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/system1970/opencode-mobile-use) · [官网](https://www.npmjs.com/package/opencode-mobile-use) · 个人维护
+⭐ 50 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/system1970/opencode-mobile-use) · [官网](https://www.npmjs.com/package/opencode-mobile-use) · 个人维护
 
 **OpenCode 插件：让 AI agent 通过 adb 遥控 Android 手机**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "system1970/opencode-mobile-use 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 47 --> 50
-    line [48, 49, 49]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 47 --> 51
+    line [48, 49, 50]
 ```
 
-2026-10-23 48 → 2026-11-25 49（+1）
+2026-10-24 48 → 2026-11-26 50（+2）
 
 
 ---

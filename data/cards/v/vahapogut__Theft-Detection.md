@@ -1,6 +1,6 @@
 # vahapogut/Theft-Detection
 
-⭐ 34 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/vahapogut/Theft-Detection) · [官网](https://theft-detection-dusky.vercel.app) · 个人维护
+⭐ 35 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/vahapogut/Theft-Detection) · [官网](https://theft-detection-dusky.vercel.app) · 个人维护
 
 **面向零售的 AI 盗窃检测与安防事件审查系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vahapogut/Theft-Detection 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 33, 34, 34]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 33, 34, 35]
 ```
 
-2026-10-23 33 → 2026-11-25 34（+1）
+2026-10-24 33 → 2026-11-26 35（+2）
 
 
 ---

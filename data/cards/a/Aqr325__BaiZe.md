@@ -1,6 +1,6 @@
 # Aqr325/BaiZe
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Aqr325/BaiZe) · 个人维护 · 中文 README
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Aqr325/BaiZe) · 个人维护 · 中文 README
 
 **给安全测试人员的 LLM 多 Agent 自主渗透测试系统**
 
@@ -40,6 +40,18 @@ BaiZe 是基于 Go 的 LLM 多 Agent 自主渗透测试系统：输入一句话�
 > L5: **AI 自主渗透测试系统 · 从一句话目标到可交付漏洞报告**
 > L62: BaiZe 是一套 **LLM 多 Agent 自主渗透测试系统**：给一句话目标，它自动完成「目标拆解 → 侦察 → 漏洞挖掘 → 验证 → 报告」全流程，人随时可以插手纠偏。
 > L18: **Go 单体后端** · **Next.js 内嵌前端** · **PostgreSQL** · **多 Agent 自主推进** · **全程证据留痕** · **人在环路纠偏**
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aqr325/BaiZe 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

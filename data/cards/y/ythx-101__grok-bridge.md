@@ -45,13 +45,13 @@ macOS 上的本地桥接服务：通过 AppleScript 向已登录 grok.com 的 Sa
 
 ```mermaid
 xychart-beta
-    title "ythx-101/grok-bridge 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    title "ythx-101/grok-bridge 星数(近 3 点)"
+    x-axis ["2026-11-12", "2026-11-25", "2026-11-26"]
     y-axis "stars" 161 --> 164
-    line [163, 162]
+    line [163, 162, 162]
 ```
 
-2026-11-12 163 → 2026-11-25 162（-1）
+2026-11-12 163 → 2026-11-26 162（-1）
 
 
 ---

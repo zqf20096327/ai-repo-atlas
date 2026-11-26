@@ -1,6 +1,6 @@
 # whitneyland/riffmcp
 
-⭐ 17 · Swift · NOASSERTION · 推送 2025-11-29 · [GitHub](https://github.com/whitneyland/riffmcp) · [官网](https://whitneyland.github.io/riffmcp) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **macOS 原生 MCP 服务器：让 LLM 播放、作曲与渲染乐谱**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

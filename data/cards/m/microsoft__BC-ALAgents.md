@@ -1,6 +1,6 @@
 # microsoft/BC-ALAgents
 
-⭐ 13 · PowerShell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/BC-ALAgents) · 组织维护
+⭐ 14 · PowerShell · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/BC-ALAgents) · 组织维护
 
 **Business Central (AL) PR 的 Copilot CLI 自动审查引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/BC-ALAgents 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14]
 ```
 
-2026-10-22 12 → 2026-11-25 13（+1）
+2026-10-23 12 → 2026-11-26 14（+2）
 
 
 ---

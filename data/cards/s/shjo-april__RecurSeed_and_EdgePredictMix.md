@@ -1,6 +1,6 @@
 # shjo-april/RecurSeed_and_EdgePredictMix
 
-⭐ 44 · Python · 推送 2026-07-25 · [GitHub](https://github.com/shjo-april/RecurSeed_and_EdgePredictMix) · 组织维护
+⭐ 44 · Python · 推送 2026-11-24 · [GitHub](https://github.com/shjo-april/RecurSeed_and_EdgePredictMix) · 组织维护
 
 **弱监督语义分割论文官方实现：RecurSeed 与 EdgePredictMix 方法**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shjo-april/RecurSeed_and_EdgePredictMix 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-23 44 → 2026-11-25 44（+0）
+2026-10-24 44 → 2026-11-26 44（+0）
 
 
 ---

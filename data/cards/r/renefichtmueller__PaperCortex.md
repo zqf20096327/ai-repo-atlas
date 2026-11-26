@@ -1,6 +1,6 @@
 # renefichtmueller/PaperCortex
 
-⭐ 35 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/renefichtmueller/PaperCortex) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/renefichtmueller/PaperCortex) · 个人维护
 
 **给 Paperless-ngx 文档库加本地 AI：语义搜索、收据提取与 DATEV 导出**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "renefichtmueller/PaperCortex 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 29 --> 36
-    line [30, 31, 32, 33, 34, 35, 35]
+    title "renefichtmueller/PaperCortex 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 30 --> 37
+    line [31, 32, 33, 34, 35, 36]
 ```
 
-2026-10-23 30 → 2026-11-25 35（+5）
+2026-10-24 31 → 2026-11-26 36（+5）
 
 
 ---

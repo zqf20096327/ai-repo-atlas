@@ -1,6 +1,6 @@
 # hossebmarup-wq/-coregold-ecommerce-pay
 
-⭐ 94 · 推送 2026-10-30 · [GitHub](https://github.com/hossebmarup-wq/-coregold-ecommerce-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 119 · 推送 2026-10-30 · [GitHub](https://github.com/hossebmarup-wq/-coregold-ecommerce-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **跨境卖家海外虚拟卡服务的推广页，非软件项目**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "hossebmarup-wq/-coregold-ecommerce-pay 星数(近 11 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 0 --> 105
-    line [6, 10, 51, 72, 86, 90, 96, 95, 92, 94, 94]
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 0 --> 130
+    line [6, 10, 51, 72, 86, 90, 96, 95, 92, 94, 119]
 ```
 
-2026-10-31 6 → 2026-11-25 94（+88）
+2026-10-31 6 → 2026-11-26 119（+113）
 
 
 ---

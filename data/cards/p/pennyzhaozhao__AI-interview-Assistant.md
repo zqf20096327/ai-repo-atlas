@@ -1,6 +1,6 @@
 # pennyzhaozhao/AI-interview-Assistant
 
-⭐ 15 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pennyzhaozhao/AI-interview-Assistant) · 个人维护 · 中文 README
+⭐ 18 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pennyzhaozhao/AI-interview-Assistant) · [官网](https://pennyzhaozhao.github.io/AI-interview-Assistant/) · 个人维护 · 中文 README
 
 **给求职者的桌面端 AI 面试准备与实时辅助工具**
 
@@ -41,6 +41,18 @@ macOS（SwiftUI）与 Windows（WPF/.NET 10）双端桌面应用，功能覆盖�
 > L7:  **本地优先、开源的桌面端（macOS / Windows）AI 面试准备与辅助工具**
 > L24: - 通过悬浮提示板识别语音、分析截图并生成回答建议；
 > L198: 1. 在“服务商”中选择 Ollama、DeepSeek、OpenAI、Claude、Gemini 或火山方舟；
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pennyzhaozhao/AI-interview-Assistant 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 19
+    line [15, 18]
+```
+
+2026-11-25 15 → 2026-11-26 18（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # FatelessAI/SkyrimNet-GamePlugin
 
-⭐ 390 · Papyrus · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/FatelessAI/SkyrimNet-GamePlugin) · [官网](https://fateless.ai) · 组织维护
+⭐ 391 · Papyrus · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/FatelessAI/SkyrimNet-GamePlugin) · [官网](https://fateless.ai) · 组织维护
 
 **让 Skyrim 全部 NPC 可对话、记忆、行动的 AI 模组**
 
@@ -40,6 +40,18 @@ SkyrimNet 是将 Skyrim 中每个角色变为可交互 AI NPC 的游戏模组：
 > L18: SkyrimNet turns every character in Skyrim into someone you can actually talk to. Speak into your microphone or type
 > L22: It all runs as a single Skyrim mod. No separate app, no server window to keep open. Install it, launch the game, an
 > L131: SkyrimNet is made by Fateless. It is not open source; see LICENSE.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FatelessAI/SkyrimNet-GamePlugin 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 389 --> 392
+    line [390, 391]
+```
+
+2026-11-25 390 → 2026-11-26 391（+1）
 
 
 ---

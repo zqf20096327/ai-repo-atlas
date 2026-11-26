@@ -1,6 +1,6 @@
 # ozgursagiroglu/arbab
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ozgursagiroglu/arbab) · [官网](https://ozgursagiroglu.github.io/arbab/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Claude Code 插件：把会话拆成并行 headless worker 工程队**
 
@@ -11,7 +11,7 @@ arbab 是一个 Claude Code 插件：把大型工程任务拆分为独立 lane�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

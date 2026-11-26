@@ -44,13 +44,13 @@ LangChain 官方团队维护的上下文工程教学仓库，包含 4 个 Jupyte
 
 ```mermaid
 xychart-beta
-    title "langchain-ai/context_engineering 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
+    title "langchain-ai/context_engineering 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 201 --> 204
-    line [202, 203, 202, 202]
+    line [203, 202, 202]
 ```
 
-2026-10-23 202 → 2026-11-25 202（+0）
+2026-10-24 203 → 2026-11-26 202（-1）
 
 
 ---

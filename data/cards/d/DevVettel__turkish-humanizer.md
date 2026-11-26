@@ -1,6 +1,6 @@
 # DevVettel/turkish-humanizer
 
-⭐ 21 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DevVettel/turkish-humanizer) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/DevVettel/turkish-humanizer) · 个人维护 · 中文 README
 
 **消除土耳其语文本 AI 痕迹的 Claude 技能，兼容多家 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DevVettel/turkish-humanizer 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 15 --> 22
-    line [16, 17, 18, 20, 21]
+    title "DevVettel/turkish-humanizer 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 15 --> 24
+    line [16, 17, 18, 20, 21, 23]
 ```
 
-2026-11-08 16 → 2026-11-25 21（+5）
+2026-11-08 16 → 2026-11-26 23（+7）
 
 
 ---

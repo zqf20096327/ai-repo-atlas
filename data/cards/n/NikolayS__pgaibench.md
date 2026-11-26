@@ -45,13 +45,13 @@ PGAIBench 是一个基准测试项目：给定加列、改配置、修数据等�
 
 ```mermaid
 xychart-beta
-    title "NikolayS/pgaibench 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    title "NikolayS/pgaibench 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-19 3 → 2026-11-25 4（+1）
+2026-11-19 3 → 2026-11-26 4（+1）
 
 
 ---

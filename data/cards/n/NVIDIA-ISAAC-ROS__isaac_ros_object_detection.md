@@ -45,12 +45,12 @@ NVIDIA Isaac ROS 的目标检测组件，包含 isaac_ros_rtdetr、isaac_ros_det
 ```mermaid
 xychart-beta
     title "NVIDIA-ISAAC-ROS/isaac_ros_object_detection 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 204 --> 207
     line [205, 206, 206]
 ```
 
-2026-10-23 205 → 2026-11-25 206（+1）
+2026-10-24 205 → 2026-11-26 206（+1）
 
 
 ---

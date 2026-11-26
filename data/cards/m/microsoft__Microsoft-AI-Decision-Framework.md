@@ -1,6 +1,6 @@
 # microsoft/Microsoft-AI-Decision-Framework
 
-⭐ 106 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Microsoft-AI-Decision-Framework) · 组织维护
+⭐ 107 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/Microsoft-AI-Decision-Framework) · 组织维护
 
 **微软官方 AI 技术选型决策指南，帮架构师选对 AI 产品**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Microsoft-AI-Decision-Framework 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 101 --> 107
-    line [102, 103, 102, 104, 105, 106]
+    title "microsoft/Microsoft-AI-Decision-Framework 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 101 --> 108
+    line [102, 103, 102, 104, 105, 106, 107]
 ```
 
-2026-10-22 102 → 2026-11-25 106（+4）
+2026-10-23 102 → 2026-11-26 107（+5）
 
 
 ---

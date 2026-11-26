@@ -1,6 +1,6 @@
 # talos-hq/clud
 
-⭐ 17 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/talos-hq/clud) · [官网](https://talos-hq.github.io/clud/) · 组织维护
+⭐ 17 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/talos-hq/clud) · [官网](https://talos-hq.github.io/clud/) · 组织维护
 
 **在 Claude Code 终端内运行 Codex/DeepSeek 的 CLI 代理运行器**
 
@@ -46,12 +46,12 @@ Rust 编写的命令行工具，把 Codex、DeepSeek、Kimi、OpenRouter 等后�
 ```mermaid
 xychart-beta
     title "talos-hq/clud 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-26"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-26 16 → 2026-11-25 17（+1）
+2026-10-26 16 → 2026-11-26 17（+1）
 
 
 ---

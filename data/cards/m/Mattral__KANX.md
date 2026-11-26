@@ -46,12 +46,12 @@ kanx 是一个 Python 的 Kolmogorov-Arnold Network（KAN）实现库，同时�
 ```mermaid
 xychart-beta
     title "Mattral/KANX 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-23 38 → 2026-11-25 38（+0）
+2026-10-24 38 → 2026-11-26 38（+0）
 
 
 ---

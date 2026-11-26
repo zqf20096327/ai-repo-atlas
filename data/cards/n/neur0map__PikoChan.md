@@ -1,6 +1,6 @@
 # neur0map/PikoChan
 
-⭐ 23 · Swift · MIT · 推送 2026-03-12 · [GitHub](https://github.com/neur0map/PikoChan) · 个人维护
+⭐ 24 · Swift · MIT · 推送 2026-03-12 · [GitHub](https://github.com/neur0map/PikoChan) · 个人维护
 
 **驻留 macOS 刘海区的本地 AI 伙伴应用（Mac 用户）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neur0map/PikoChan 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-23 23 → 2026-11-25 23（+0）
+2026-10-24 23 → 2026-11-26 24（+1）
 
 
 ---

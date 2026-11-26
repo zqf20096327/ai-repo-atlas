@@ -1,6 +1,6 @@
 # gicait/pLitter
 
-⭐ 44 · Jupyter Notebook · 推送 2026-04-07 · [GitHub](https://github.com/gicait/pLitter) · 组织维护
+⭐ 45 · Jupyter Notebook · 推送 2026-04-07 · [GitHub](https://github.com/gicait/pLitter) · 组织维护
 
 **面向街面与河流塑料垃圾检测的数据集与预训练模型项目**
 
@@ -45,12 +45,12 @@ GIC-AIT 发起的塑料垃圾识别与监测项目：提供街面级（pLitterSt
 ```mermaid
 xychart-beta
     title "gicait/pLitter 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-23 44 → 2026-11-25 44（+0）
+2026-10-24 44 → 2026-11-26 45（+1）
 
 
 ---

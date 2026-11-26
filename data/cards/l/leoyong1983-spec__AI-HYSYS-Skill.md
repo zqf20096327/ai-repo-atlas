@@ -42,6 +42,18 @@
 > L29: **中文**：AI-HYSYS-Skill 是面向 Aspen HYSYS 的 AI 技能库，核心目标是接管人工已建、已经能运行的 HYSYS case，而不是让 AI 从零盲目建模。它帮助智能体检查 Windows/HYSYS 
 > L129: - Python with `pywin32` (`pythoncom` and `win32com.client`) for direct COM automation
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "leoyong1983-spec/AI-HYSYS-Skill 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `828632f287c2` · [字段定义](../../DATASET.md)*

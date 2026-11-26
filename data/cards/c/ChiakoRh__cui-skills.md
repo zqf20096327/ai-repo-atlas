@@ -1,6 +1,6 @@
 # ChiakoRh/cui-skills
 
-⭐ 3 · HTML · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ChiakoRh/cui-skills) · 个人维护
+⭐ 4 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ChiakoRh/cui-skills) · [官网](https://skills.sh/ChiakoRh/cui-skills) · 个人维护
 
 **面向 AI agent 的 CUI 界面开发技能集（4 个）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ChiakoRh/cui-skills 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 4（+1）
 
 
 ---

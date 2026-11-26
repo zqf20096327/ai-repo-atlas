@@ -1,6 +1,6 @@
 # magicnight/Mac-MLX
 
-⭐ 88 · Swift · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/magicnight/Mac-MLX) · [官网](https://macmlx.app/) · 个人维护 · 中文 README
+⭐ 89 · Swift · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/magicnight/Mac-MLX) · [官网](https://macmlx.app/) · 个人维护 · 中文 README
 
 **Apple Silicon 本地 LLM 原生 macOS 推理应用（GUI+CLI+API）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "magicnight/Mac-MLX 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 79 --> 89
-    line [80, 83, 80, 84, 85, 86, 87, 88]
+    title "magicnight/Mac-MLX 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 79 --> 90
+    line [80, 83, 80, 84, 85, 86, 87, 88, 89]
 ```
 
-2026-10-23 80 → 2026-11-25 88（+8）
+2026-10-24 80 → 2026-11-26 89（+9）
 
 
 ---

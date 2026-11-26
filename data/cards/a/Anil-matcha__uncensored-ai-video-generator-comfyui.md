@@ -1,6 +1,6 @@
 # Anil-matcha/uncensored-ai-video-generator-comfyui
 
-⭐ 10 · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Anil-matcha/uncensored-ai-video-generator-comfyui) · [官网](https://muapi.ai/ai-spicy-video-generator) · 组织维护
+⭐ 10 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Anil-matcha/uncensored-ai-video-generator-comfyui) · [官网](https://muapi.ai/ai-spicy-video-generator) · 组织维护
 
 **在 ComfyUI 中无 GPU 运行低过滤视频模型的 Muapi 节点使用指南**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Anil-matcha/uncensored-ai-video-generator-comfyui 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
+    title "Anil-matcha/uncensored-ai-video-generator-comfyui 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 5 --> 11
-    line [6, 7, 8, 6, 8, 9, 10]
+    line [6, 7, 8, 6, 8, 9, 10, 10]
 ```
 
-2026-10-23 6 → 2026-11-25 10（+4）
+2026-10-24 6 → 2026-11-26 10（+4）
 
 
 ---

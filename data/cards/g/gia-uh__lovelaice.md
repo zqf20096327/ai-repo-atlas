@@ -1,6 +1,6 @@
 # gia-uh/lovelaice
 
-⭐ 57 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gia-uh/lovelaice) · 个人维护
+⭐ 57 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gia-uh/lovelaice) · 个人维护
 
 **终端与编辑器用的本地优先 AI 编码代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gia-uh/lovelaice 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-23 57 → 2026-11-25 57（+0）
+2026-10-24 57 → 2026-11-26 57（+0）
 
 
 ---

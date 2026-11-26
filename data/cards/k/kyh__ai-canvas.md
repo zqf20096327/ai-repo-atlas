@@ -1,6 +1,6 @@
 # kyh/ai-canvas
 
-⭐ 40 · TypeScript · 推送 2026-10-16 · [GitHub](https://github.com/kyh/ai-canvas) · [官网](https://canvas.kyh.io) · 个人维护
+⭐ 41 · TypeScript · 推送 2026-10-16 · [GitHub](https://github.com/kyh/ai-canvas) · [官网](https://canvas.kyh.io) · 个人维护
 
 **可 Fork 的 Next.js AI 设计画布模板：自然语言生成编辑画布内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyh/ai-canvas 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 38 --> 42
+    line [39, 40, 41]
 ```
 
-2026-10-23 39 → 2026-11-25 40（+1）
+2026-10-24 39 → 2026-11-26 41（+2）
 
 
 ---

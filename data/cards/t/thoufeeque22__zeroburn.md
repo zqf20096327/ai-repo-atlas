@@ -1,6 +1,6 @@
 # thoufeeque22/zeroburn
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/thoufeeque22/zeroburn) · [官网](https://directly.social) · 组织维护
+⭐ 8 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/thoufeeque22/zeroburn) · [官网](https://directly.social) · 组织维护
 
 **降低 Claude/Gemini 编码代理 token 消耗的编排工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thoufeeque22/zeroburn 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 6]
+    title "thoufeeque22/zeroburn 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 9
+    line [3, 6, 8]
 ```
 
-2026-11-23 3 → 2026-11-25 6（+3）
+2026-11-23 3 → 2026-11-26 8（+5）
 
 
 ---

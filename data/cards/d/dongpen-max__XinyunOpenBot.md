@@ -1,6 +1,6 @@
 # dongpen-max/XinyunOpenBot
 
-⭐ 15 · TypeScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/dongpen-max/XinyunOpenBot) · [官网](https://github.com/dongpen-max/xinyunopenbot-releases/releases/latest) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-08-30 · [GitHub](https://github.com/dongpen-max/XinyunOpenBot) · [官网](https://github.com/dongpen-max/xinyunopenbot-releases/releases/latest) · 个人维护 · 中文 README
 
 **面向中国用户的多模型桌面 AI 机器人聊天客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dongpen-max/XinyunOpenBot 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 9 --> 16
-    line [10, 14, 15, 15]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 9 --> 17
+    line [10, 14, 15, 16]
 ```
 
-2026-10-26 10 → 2026-11-25 15（+5）
+2026-10-26 10 → 2026-11-26 16（+6）
 
 
 ---

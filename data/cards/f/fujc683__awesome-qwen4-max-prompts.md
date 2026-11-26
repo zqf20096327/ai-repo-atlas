@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fujc683/awesome-qwen4-max-prompts 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    title "fujc683/awesome-qwen4-max-prompts 星数(近 3 点)"
+    x-axis ["2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 11 --> 19
-    line [12, 18]
+    line [12, 18, 18]
 ```
 
-2026-11-19 12 → 2026-11-25 18（+6）
+2026-11-19 12 → 2026-11-26 18（+6）
 
 
 ---

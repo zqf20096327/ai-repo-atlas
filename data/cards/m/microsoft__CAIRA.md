@@ -1,6 +1,6 @@
 # microsoft/CAIRA
 
-⭐ 229 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/microsoft/CAIRA) · [官网](https://microsoft.github.io/CAIRA/) · 组织维护
+⭐ 230 · TypeScript · MIT · 推送 2026-09-22 · [GitHub](https://github.com/microsoft/CAIRA) · [官网](https://microsoft.github.io/CAIRA/) · 组织维护
 
 **面向构建 Azure AI 方案的编码代理参考架构库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/CAIRA 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
-    y-axis "stars" 228 --> 230
-    line [229, 229]
+    x-axis ["2026-10-23", "2026-11-26"]
+    y-axis "stars" 228 --> 231
+    line [229, 230]
 ```
 
-2026-10-22 229 → 2026-11-25 229（+0）
+2026-10-23 229 → 2026-11-26 230（+1）
 
 
 ---

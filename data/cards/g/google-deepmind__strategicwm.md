@@ -46,12 +46,12 @@ DeepMind 的 strategicwm（swm）面向研究者和开发者：用 LLM 从自然
 ```mermaid
 xychart-beta
     title "google-deepmind/strategicwm 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

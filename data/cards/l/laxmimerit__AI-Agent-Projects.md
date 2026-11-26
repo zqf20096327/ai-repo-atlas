@@ -1,6 +1,6 @@
 # laxmimerit/AI-Agent-Projects
 
-⭐ 32 · Jupyter Notebook · 推送 2026-03-28 · [GitHub](https://github.com/laxmimerit/AI-Agent-Projects) · [官网](https://kgptalkie.com/ai-agent-projects) · 组织维护
+⭐ 33 · Jupyter Notebook · 推送 2026-03-28 · [GitHub](https://github.com/laxmimerit/AI-Agent-Projects) · [官网](https://kgptalkie.com/ai-agent-projects) · 组织维护
 
 **面向学习者的 AI/ML 付费课程清单：LLM、Agent 与机器学习**
 
@@ -45,12 +45,12 @@ KGP Talkie 维护的 Udemy 课程目录仓库，按 LLM 与 AI Agent 开发、�
 ```mermaid
 xychart-beta
     title "laxmimerit/AI-Agent-Projects 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 28 --> 33
-    line [29, 30, 29, 31, 32, 32]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 28 --> 34
+    line [29, 30, 29, 31, 32, 33]
 ```
 
-2026-10-23 29 → 2026-11-25 32（+3）
+2026-10-24 29 → 2026-11-26 33（+4）
 
 
 ---

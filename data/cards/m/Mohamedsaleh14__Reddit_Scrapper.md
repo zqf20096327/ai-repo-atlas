@@ -1,6 +1,6 @@
 # Mohamedsaleh14/Reddit_Scrapper
 
-⭐ 217 · Python · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/Mohamedsaleh14/Reddit_Scrapper) · [官网](https://www.cronlytic.com) · 个人维护
+⭐ 218 · Python · NOASSERTION · 推送 2026-02-16 · [GitHub](https://github.com/Mohamedsaleh14/Reddit_Scrapper) · [官网](https://www.cronlytic.com) · 个人维护
 
 **抓取 Reddit 帖子并用 GPT 分析营销痛点与商机的工具**
 
@@ -45,12 +45,12 @@ Python 应用，通过 Reddit API 抓取配置的与探索性 subreddit 的帖�
 ```mermaid
 xychart-beta
     title "Mohamedsaleh14/Reddit_Scrapper 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 213 --> 218
-    line [214, 215, 214, 216, 217, 217]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 213 --> 219
+    line [214, 215, 214, 216, 217, 218]
 ```
 
-2026-10-23 214 → 2026-11-25 217（+3）
+2026-10-24 214 → 2026-11-26 218（+4）
 
 
 ---

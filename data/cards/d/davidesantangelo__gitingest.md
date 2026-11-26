@@ -44,12 +44,12 @@ Ruby 编写的 CLI 工具，通过 GitHub API 抓取指定仓库（user/repo）�
 ```mermaid
 xychart-beta
     title "davidesantangelo/gitingest 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-23 62 → 2026-11-25 62（+0）
+2026-10-24 62 → 2026-11-26 62（+0）
 
 
 ---

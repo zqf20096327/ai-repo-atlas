@@ -1,6 +1,6 @@
 # cernodatainc/cernodata
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cernodatainc/cernodata) · 组织维护
+⭐ 27 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cernodatainc/cernodata) · 组织维护
 
 **PDF 解析控制层：自动选方法、验证质量并回退**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "cernodatainc/cernodata 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-26"]
     y-axis "stars" 19 --> 28
     line [20, 21, 20, 22, 23, 24, 27, 27]
 ```
 
-2026-10-23 20 → 2026-11-25 27（+7）
+2026-10-24 20 → 2026-11-26 27（+7）
 
 
 ---

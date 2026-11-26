@@ -1,6 +1,6 @@
 # Chimera-Protocol/csl-core
 
-⭐ 27 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/Chimera-Protocol/csl-core) · [官网](https://runtime.chimera-protocol.com/) · 组织维护
+⭐ 28 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/Chimera-Protocol/csl-core) · [官网](https://runtime.chimera-protocol.com/) · 组织维护
 
 **发现并治理主机上 AI agent 的策略执行框架：Z3+TLA+ 证明、模型外强制**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Chimera-Protocol/csl-core 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-23 27 → 2026-11-25 27（+0）
+2026-10-24 27 → 2026-11-26 28（+1）
 
 
 ---

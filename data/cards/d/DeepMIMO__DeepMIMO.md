@@ -1,6 +1,6 @@
 # DeepMIMO/DeepMIMO
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/DeepMIMO/DeepMIMO) · [官网](https://deepmimo.net/) · 组织维护
+⭐ 140 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/DeepMIMO/DeepMIMO) · [官网](https://deepmimo.net/) · 组织维护
 
 **无线信道射线追踪数据集与工具链，衔接 5G/6G 仿真与 AI 基准测试**
 
@@ -46,12 +46,12 @@ DeepMIMO 提供 Python 工具链与场景数据库：将 Wireless InSite、Sionn
 ```mermaid
 xychart-beta
     title "DeepMIMO/DeepMIMO 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 133 --> 140
-    line [134, 135, 134, 136, 137, 138, 139, 139]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 133 --> 141
+    line [134, 135, 134, 136, 137, 138, 139, 140]
 ```
 
-2026-10-23 134 → 2026-11-25 139（+5）
+2026-10-24 134 → 2026-11-26 140（+6）
 
 
 ---

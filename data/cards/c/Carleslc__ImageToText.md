@@ -44,12 +44,12 @@ Python 3.6+ 编写的 img2txt 命令行脚本，封装 Google Cloud Vision API �
 ```mermaid
 xychart-beta
     title "Carleslc/ImageToText 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 80 --> 82
     line [81, 81]
 ```
 
-2026-10-23 81 → 2026-11-25 81（+0）
+2026-10-24 81 → 2026-11-26 81（+0）
 
 
 ---

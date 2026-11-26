@@ -1,6 +1,6 @@
 # langchain-ai/async-deep-agents
 
-⭐ 46 · Python · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/async-deep-agents) · 组织维护
+⭐ 47 · Python · 推送 2026-10-19 · [GitHub](https://github.com/langchain-ai/async-deep-agents) · 组织维护
 
 **LangSmith 上异步子代理编排的参考架构：监督者后台启动子代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/async-deep-agents 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 30 --> 47
-    line [31, 41, 42, 44, 45, 46, 46]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 30 --> 48
+    line [31, 41, 42, 44, 45, 46, 47]
 ```
 
-2026-10-23 31 → 2026-11-25 46（+15）
+2026-10-24 31 → 2026-11-26 47（+16）
 
 
 ---

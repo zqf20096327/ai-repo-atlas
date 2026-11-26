@@ -1,6 +1,6 @@
 # joshdev-de/qwen38-arc-pro-b70
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/joshdev-de/qwen38-arc-pro-b70) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/joshdev-de/qwen38-arc-pro-b70) · 个人维护
 
 **在 Intel Arc Pro B70 上运行 Qwen3.8-27B 的引擎/量化基准与脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "joshdev-de/qwen38-arc-pro-b70 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-16", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-16 3 → 2026-11-25 3（+0）
+2026-11-16 3 → 2026-11-26 4（+1）
 
 
 ---

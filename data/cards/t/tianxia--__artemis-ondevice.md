@@ -1,6 +1,6 @@
 # tianxia--/artemis-ondevice
 
-⭐ 3 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/tianxia--/artemis-ondevice) · 个人维护 · 中文 README
+⭐ 4 · Java · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/tianxia--/artemis-ondevice) · 个人维护 · 中文 README
 
 **在 Android 手机上运行的 GUI agent：读屏并点击滑动完成任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tianxia--/artemis-ondevice 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-25 3（+0）
+2026-11-18 3 → 2026-11-26 4（+1）
 
 
 ---

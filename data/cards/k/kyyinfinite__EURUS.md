@@ -1,6 +1,6 @@
 # kyyinfinite/EURUS
 
-⭐ 3 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/kyyinfinite/EURUS) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/kyyinfinite/EURUS) · 个人维护
 
 **终端中的 provider 无关自主 AI 编码代理运行时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kyyinfinite/EURUS 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-28", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-10-28 3 → 2026-11-25 3（+0）
+2026-10-28 3 → 2026-11-26 4（+1）
 
 
 ---

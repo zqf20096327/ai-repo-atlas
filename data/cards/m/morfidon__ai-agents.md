@@ -1,6 +1,6 @@
 # morfidon/ai-agents
 
-⭐ 38 · 推送 2026-04-04 · [GitHub](https://github.com/morfidon/ai-agents) · 个人维护
+⭐ 38 · 推送 2026-11-25 · [GitHub](https://github.com/morfidon/ai-agents) · 个人维护
 
 **50+ 个代码库审计专用 AI agent 定义集合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "morfidon/ai-agents 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-23 38 → 2026-11-25 38（+0）
+2026-10-24 38 → 2026-11-26 38（+0）
 
 
 ---

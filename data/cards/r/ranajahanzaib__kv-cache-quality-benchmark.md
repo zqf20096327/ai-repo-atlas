@@ -1,6 +1,6 @@
 # ranajahanzaib/kv-cache-quality-benchmark
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/kv-cache-quality-benchmark) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ranajahanzaib/kv-cache-quality-benchmark) · 个人维护
 
 **本地评测 llama.cpp KV-cache 压缩质量与内存开销的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/kv-cache-quality-benchmark 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-25 3（+0）
+2026-11-11 3 → 2026-11-26 3（+0）
 
 
 ---

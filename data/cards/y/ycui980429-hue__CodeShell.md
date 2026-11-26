@@ -1,6 +1,6 @@
 # ycui980429-hue/CodeShell
 
-⭐ 3 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ycui980429-hue/CodeShell) · 个人维护 · 中文 README
+⭐ 3 · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ycui980429-hue/CodeShell) · 个人维护 · 中文 README
 
 **给运维人员的一体化工作台：AI 助手直接操作服务器并巡检告警**
 
@@ -41,6 +41,18 @@
 > L3:  一个会自己看服务器、自己动手的 AI 运维工作台。
 > L114: - **任务模式**：一句话描述目标，AI 自主规划步骤、逐条执行、读取输出后决定下一步
 > L208: 本仓库是 CodeShell 的**发布与文档页**：这里提供安装包下载、功能说明与更新日志。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ycui980429-hue/CodeShell 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tz-WIND/ATRI_AGENT
 
-⭐ 33 · Python · AGPL-3.0 · 推送 2026-08-20 · [GitHub](https://github.com/Tz-WIND/ATRI_AGENT) · 组织维护 · 中文 README
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-08-20 · [GitHub](https://github.com/Tz-WIND/ATRI_AGENT) · 组织维护 · 中文 README
 
 **本地优先 AI Agent 运行时 + Agent 可直接操作的 DAW 音乐工作站**
 
@@ -47,12 +47,12 @@ ATRI 首先提供可本地运行的多 Provider Agent Runtime：OpenAI 兼容 / 
 ```mermaid
 xychart-beta
     title "Tz-WIND/ATRI_AGENT 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 29 --> 34
-    line [30, 31, 30, 32, 33, 33]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 30, 32, 33, 34]
 ```
 
-2026-10-23 30 → 2026-11-25 33（+3）
+2026-10-24 30 → 2026-11-26 34（+4）
 
 
 ---

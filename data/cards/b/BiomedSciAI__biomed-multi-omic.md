@@ -1,6 +1,6 @@
 # BiomedSciAI/biomed-multi-omic
 
-⭐ 64 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/BiomedSciAI/biomed-multi-omic) · [官网](https://research.ibm.com/projects/biomedical-foundation-models) · 组织维护
+⭐ 64 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/BiomedSciAI/biomed-multi-omic) · [官网](https://research.ibm.com/projects/biomedical-foundation-models) · 组织维护
 
 **构建与运行 RNA/DNA 组学基础模型的 Python 框架**
 
@@ -47,12 +47,12 @@ IBM 相关团队（BiomedSciAI）维护的生物医学基础模型包：支持 s
 ```mermaid
 xychart-beta
     title "BiomedSciAI/biomed-multi-omic 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
     y-axis "stars" 62 --> 65
     line [63, 64, 64]
 ```
 
-2026-10-23 63 → 2026-11-25 64（+1）
+2026-10-24 63 → 2026-11-26 64（+1）
 
 
 ---

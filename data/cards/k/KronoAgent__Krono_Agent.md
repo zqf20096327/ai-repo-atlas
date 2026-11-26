@@ -1,6 +1,6 @@
 # KronoAgent/Krono_Agent
 
-⭐ 3 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KronoAgent/Krono_Agent) · [官网](https://kronoagent.github.io/Krono_Agent/) · 个人维护
+⭐ 3 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/KronoAgent/Krono_Agent) · [官网](https://kronoagent.github.io/Krono_Agent/) · 个人维护
 
 **Windows 原生 AI agent 工作台，集成本地模型与工具调用**
 
@@ -40,6 +40,18 @@
 > L3: Native Windows agent workspace built with C# / WinUI 3. Chat, projects, settings,
 > L58: - In Settings, choose a model provider, save its API key locally, test the connection, and select a model. For Olla
 > L60: - In Chat mode, the agent has no tools. Ask permissions request approval for changes and commands. Project permissi
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KronoAgent/Krono_Agent 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

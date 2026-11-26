@@ -1,6 +1,6 @@
 # National-Compute/sentrytower
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/National-Compute/sentrytower) · 组织维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/National-Compute/sentrytower) · [官网](https://sentrytower.com) · 组织维护
 
 **用多智能体审计代码仓库并输出漏洞报告的安全工具**
 
@@ -48,12 +48,12 @@ SentryTower 以攻击者视角读取仓库，对代码单元做安全信号排�
 ```mermaid
 xychart-beta
     title "National-Compute/sentrytower 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 7 --> 10
     line [8, 9, 9]
 ```
 
-2026-11-10 8 → 2026-11-25 9（+1）
+2026-11-10 8 → 2026-11-26 9（+1）
 
 
 ---

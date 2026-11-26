@@ -1,6 +1,6 @@
 # nt-williams/lmtp
 
-⭐ 87 · R · AGPL-3.0 · 推送 2026-07-01 · [GitHub](https://github.com/nt-williams/lmtp) · [官网](http://www.beyondtheate.com) · 个人维护
+⭐ 87 · R · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/nt-williams/lmtp) · [官网](http://www.beyondtheate.com) · 个人维护
 
 **R 包：估计修正治疗策略下的非参数因果效应**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nt-williams/lmtp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 86 --> 88
     line [87, 87]
 ```
 
-2026-10-23 87 → 2026-11-25 87（+0）
+2026-10-24 87 → 2026-11-26 87（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # abab996/AI_MIDI
 
-⭐ 33 · JavaScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/abab996/AI_MIDI) · [官网](https://aimidi.baimoo.top/) · 个人维护 · 中文 README
+⭐ 34 · JavaScript · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/abab996/AI_MIDI) · [官网](https://aimidi.baimoo.top/) · 个人维护 · 中文 README
 
 **本地优先的 AI 辅助音乐创作与 MIDI 编曲桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "abab996/AI_MIDI 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 30 --> 34
-    line [32, 31, 32, 31, 33, 33]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 30 --> 35
+    line [32, 31, 32, 31, 33, 34]
 ```
 
-2026-10-23 32 → 2026-11-25 33（+1）
+2026-10-24 32 → 2026-11-26 34（+2）
 
 
 ---

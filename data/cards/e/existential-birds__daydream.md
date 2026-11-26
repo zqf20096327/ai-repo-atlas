@@ -1,6 +1,6 @@
 # existential-birds/daydream
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/existential-birds/daydream) · [官网](https://daydream.existentialbirds.com) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/existential-birds/daydream) · [官网](https://daydream.tools) · 组织维护
 
 **记录审查/修复/测试轨迹的 agentic 代码审查 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "existential-birds/daydream 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 22（+1）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

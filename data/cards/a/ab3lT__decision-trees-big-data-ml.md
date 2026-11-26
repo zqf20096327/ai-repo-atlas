@@ -1,6 +1,6 @@
 # ab3lT/decision-trees-big-data-ml
 
-⭐ 4 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/ab3lT/decision-trees-big-data-ml) · 个人维护
+⭐ 5 · Jupyter Notebook · 推送 2026-10-31 · [GitHub](https://github.com/ab3lT/decision-trees-big-data-ml) · 个人维护
 
 **决策树课程教学笔记本：讲概念数学并配可运行的 scikit-learn 代码**
 
@@ -45,12 +45,12 @@ Big Data and Machine Learning 课程的决策树教学仓库，提供两个已�
 ```mermaid
 xychart-beta
     title "ab3lT/decision-trees-big-data-ml 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-23", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-23 4 → 2026-11-25 4（+0）
+2026-11-23 4 → 2026-11-26 5（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # biomedical-signal-processing/sleepyland
 
-⭐ 54 · AMPL · MIT · 推送 2026-04-16 · [GitHub](https://github.com/biomedical-signal-processing/sleepyland) · [官网](https://youtube.com/playlist?list=PLl7J6NiydmVKJ2SAh7fTKaSK-JoPTgvG-&si=Tw0bxR_4i7JQwbzw) · 组织维护
+⭐ 54 · AMPL · MIT · 推送 2026-11-25 · [GitHub](https://github.com/biomedical-signal-processing/sleepyland) · [官网](https://youtube.com/playlist?list=PLl7J6NiydmVKJ2SAh7fTKaSK-JoPTgvG-&si=Tw0bxR_4i7JQwbzw) · 组织维护
 
 **睡眠数据分析与自动睡眠分期工具箱，面向研究者与临床医生**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "biomedical-signal-processing/sleepyland 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 51 --> 55
     line [52, 53, 54, 52, 54, 54]
 ```
 
-2026-10-23 52 → 2026-11-25 54（+2）
+2026-10-24 52 → 2026-11-26 54（+2）
 
 
 ---

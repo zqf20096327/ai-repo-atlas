@@ -1,6 +1,6 @@
 # Arbhh/XCcv_Multi-functional-Platform
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Arbhh/XCcv_Multi-functional-Platform) · 个人维护 · 中文 README
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Arbhh/XCcv_Multi-functional-Platform) · 个人维护 · 中文 README
 
 **给工业视觉从业者的离线标注训练部署一体化桌面平台**
 
@@ -40,6 +40,18 @@
 
 > L7: XCcv 是一个面向工业视觉场景的**离线桌面端**多功能深度学习视觉平台，全量开源。
 > L24: |训练平台|项目制管理；**五类任务 14 种内置模型**（分类 / 检测 / 分割 / 无监督与少样本异常检测 PatchCore、CIF、SubspaceAD / OCR CRNN，含 ResNet / MobileNetV3
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Arbhh/XCcv_Multi-functional-Platform 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # donovancraig54/buz-ai
 
-⭐ 22 · JavaScript · 推送 2026-11-15 · [GitHub](https://github.com/donovancraig54/buz-ai) · 个人维护
+⭐ 24 · JavaScript · 推送 2026-11-15 · [GitHub](https://github.com/donovancraig54/buz-ai) · 个人维护
 
 **面向企业与客服团队的 AI CRM 与客户支持平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "donovancraig54/buz-ai 星数(近 6 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 23
-    line [3, 7, 10, 13, 17, 22]
+    title "donovancraig54/buz-ai 星数(近 7 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1 --> 26
+    line [3, 7, 10, 13, 17, 22, 24]
 ```
 
-2026-11-16 3 → 2026-11-25 22（+19）
+2026-11-16 3 → 2026-11-26 24（+21）
 
 
 ---

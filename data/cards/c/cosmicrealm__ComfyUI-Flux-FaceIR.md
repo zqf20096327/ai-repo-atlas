@@ -44,13 +44,13 @@ ComfyUI 自定义节点扩展，封装 FLUX FaceIR 人脸修复流程：支持�
 
 ```mermaid
 xychart-beta
-    title "cosmicrealm/ComfyUI-Flux-FaceIR 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    title "cosmicrealm/ComfyUI-Flux-FaceIR 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 63 --> 67
-    line [66, 65, 64]
+    line [66, 65, 64, 64]
 ```
 
-2026-10-23 66 → 2026-11-25 64（-2）
+2026-10-24 66 → 2026-11-26 64（-2）
 
 
 ---

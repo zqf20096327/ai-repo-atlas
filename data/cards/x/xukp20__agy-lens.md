@@ -1,6 +1,6 @@
 # xukp20/agy-lens
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xukp20/agy-lens) · 个人维护 · 中文 README
+⭐ 9 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xukp20/agy-lens) · 个人维护 · 中文 README
 
 **Antigravity Desktop/CLI 的本地只读遥测侧边栏：缓存与成本观测**
 
@@ -40,6 +40,18 @@ AGY Lens 是面向 Antigravity Desktop 与 CLI 的本地只读遥测侧边栏，
 > L5:  Local-first, strictly read-only telemetry sidecar for Antigravity Desktop &amp; CLI.
 > L22: - **Strictly Local & Read-Only**: Opens Antigravity Desktop (`~/.gemini/antigravity/conversations/*.db`) and CLI (`
 > L24: - **Visibility-Gated Zero Idle Overhead**: Built on Antigravity's native `sidecar_sdk` auxiliary pane lifecycle—aut
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xukp20/agy-lens 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
+```
+
+2026-11-25 9 → 2026-11-26 9（+0）
 
 
 ---

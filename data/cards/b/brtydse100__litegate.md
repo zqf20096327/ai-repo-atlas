@@ -1,6 +1,6 @@
 # brtydse100/litegate
 
-⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/brtydse100/litegate) · [官网](https://brtydse100.github.io/litegate/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/brtydse100/litegate) · [官网](https://brtydse100.github.io/litegate/) · 个人维护
 
 **给组织自助发放管理 LiteLLM API 密钥的门户**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brtydse100/litegate 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "brtydse100/litegate 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

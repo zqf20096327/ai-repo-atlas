@@ -1,6 +1,6 @@
 # OmidZamani/dspy-skills
 
-⭐ 125 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/OmidZamani/dspy-skills) · 个人维护
+⭐ 126 · Python · MIT · 推送 2026-06-23 · [GitHub](https://github.com/OmidZamani/dspy-skills) · 个人维护
 
 **面向 Claude Code 的 DSPy 开发技能插件（22 个技能）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OmidZamani/dspy-skills 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 123 --> 126
-    line [124, 125, 125]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 123 --> 127
+    line [124, 125, 126]
 ```
 
-2026-10-23 124 → 2026-11-25 125（+1）
+2026-10-24 124 → 2026-11-26 126（+2）
 
 
 ---

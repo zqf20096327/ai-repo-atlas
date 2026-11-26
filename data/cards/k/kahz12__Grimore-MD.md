@@ -1,6 +1,6 @@
 # kahz12/Grimore-MD
 
-⭐ 35 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kahz12/Grimore-MD) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/kahz12/Grimore-MD) · 个人维护
 
 **本地优先的知识库守护进程：自动索引打标并问答你的文档库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kahz12/Grimore-MD 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 33 --> 36
-    line [34, 35, 35]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 33 --> 37
+    line [34, 35, 36]
 ```
 
-2026-10-23 34 → 2026-11-25 35（+1）
+2026-10-24 34 → 2026-11-26 36（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # openpeeps/datcontext
 
-⭐ 3 · Nim · MIT · 推送 2026-10-14 · [GitHub](https://github.com/openpeeps/datcontext) · 组织维护
+⭐ 3 · Nim · MIT · 推送 2026-11-24 · [GitHub](https://github.com/openpeeps/datcontext) · [官网](https://openpeeps.github.io/datcontext/) · 组织维护
 
 **Nim 开发者的 MCP 客户端/服务器构建库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "openpeeps/datcontext 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-25 3（+0）
+2026-11-11 3 → 2026-11-26 3（+0）
 
 
 ---

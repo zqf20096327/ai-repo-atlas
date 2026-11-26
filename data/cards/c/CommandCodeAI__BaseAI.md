@@ -1,6 +1,6 @@
 # CommandCodeAI/BaseAI
 
-⭐ 1,293 · TypeScript · NOASSERTION · 推送 2026-05-16 · [GitHub](https://github.com/CommandCodeAI/BaseAI) · [官网](https://BaseAI.dev) · 组织维护
+⭐ 1,294 · TypeScript · NOASSERTION · 推送 2026-05-16 · [GitHub](https://github.com/CommandCodeAI/BaseAI) · [官网](https://BaseAI.dev) · 组织维护
 
 **构建 Serverless AI Agent 的 TypeScript Web 框架（已归档）**
 
@@ -45,12 +45,12 @@ BaseAI 是 TypeScript-first 的 AI 框架，用于在本地构建带工具与记
 ```mermaid
 xychart-beta
     title "CommandCodeAI/BaseAI 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 1289 --> 1294
-    line [1290, 1292, 1293, 1293]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 1289 --> 1295
+    line [1290, 1292, 1293, 1294]
 ```
 
-2026-10-23 1,290 → 2026-11-25 1,293（+3）
+2026-10-24 1,290 → 2026-11-26 1,294（+4）
 
 
 ---

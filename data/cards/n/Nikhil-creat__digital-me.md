@@ -1,6 +1,6 @@
 # Nikhil-creat/digital-me
 
-⭐ 4 · Python · 推送 2026-10-10 · [GitHub](https://github.com/Nikhil-creat/digital-me) · [官网](https://nikhil-creat.github.io/digital-me/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人 AI 分身：RAG 问答、语音对话与数字人头像**
 

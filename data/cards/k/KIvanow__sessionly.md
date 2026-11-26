@@ -1,6 +1,6 @@
 # KIvanow/sessionly
 
-⭐ 95 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/KIvanow/sessionly) · [官网](https://sessionly.dev) · 组织维护
+⭐ 189 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/KIvanow/sessionly) · [官网](https://sessionly.dev) · 组织维护
 
 **为 AI 编码 agent 会话记录本地台账：追踪行为、成本与存活行**
 
@@ -40,6 +40,18 @@
 > L22: Sessionly keeps a ledger of your Claude Code, Codex, Cursor and Grok sessions, on your own
 > L55: - **Lab-neutral.** Sessionly is not any agent maker's tool. It reads every agent's sessions the
 > L104: 1. **Capture.** A hook appends each agent event to a local file in 2–4 ms. It only observes: it
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KIvanow/sessionly 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 86 --> 198
+    line [95, 189]
+```
+
+2026-11-25 95 → 2026-11-26 189（+94）
 
 
 ---

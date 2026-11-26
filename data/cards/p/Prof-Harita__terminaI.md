@@ -1,6 +1,6 @@
 # Prof-Harita/terminaI
 
-⭐ 428 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Prof-Harita/terminaI) · [官网](https://terminai.org/) · 个人维护
+⭐ 427 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Prof-Harita/terminaI) · [官网](https://terminai.org/) · 个人维护
 
 **本地优先的受治理终端 AI 操作器：意图→计划→审批→执行→审计**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Prof-Harita/terminaI 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-15", "2026-11-26"]
     y-axis "stars" 424 --> 429
-    line [425, 426, 428, 428]
+    line [425, 426, 428, 427]
 ```
 
-2026-10-23 425 → 2026-11-25 428（+3）
+2026-10-24 425 → 2026-11-26 427（+2）
 
 
 ---

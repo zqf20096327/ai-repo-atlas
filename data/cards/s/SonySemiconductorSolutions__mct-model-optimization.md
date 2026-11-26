@@ -1,6 +1,6 @@
 # SonySemiconductorSolutions/mct-model-optimization
 
-⭐ 450 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/SonySemiconductorSolutions/mct-model-optimization) · [官网](https://sonysemiconductorsolutions.github.io/mct-model-optimization/) · 组织维护
+⭐ 450 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/SonySemiconductorSolutions/mct-model-optimization) · [官网](https://sonysemiconductorsolutions.github.io/mct-model-optimization/) · 组织维护
 
 **面向边缘硬件的神经网络量化压缩工具库**
 
@@ -46,12 +46,12 @@ Sony 半导体团队开源的模型压缩工具包，在算力与存储受限的
 ```mermaid
 xychart-beta
     title "SonySemiconductorSolutions/mct-model-optimization 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-26"]
     y-axis "stars" 449 --> 452
     line [451, 450, 451, 450, 450]
 ```
 
-2026-10-23 451 → 2026-11-25 450（-1）
+2026-10-24 451 → 2026-11-26 450（-1）
 
 
 ---

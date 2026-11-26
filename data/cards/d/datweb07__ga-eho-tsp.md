@@ -1,6 +1,6 @@
 # datweb07/ga-eho-tsp
 
-⭐ 3 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/datweb07/ga-eho-tsp) · 个人维护 · 中文 README
+⭐ 3 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/datweb07/ga-eho-tsp) · 个人维护 · 中文 README
 
 **用遗传算法与象群优化求解 TSP 的课程实验项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "datweb07/ga-eho-tsp 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 3（+0）
 
 
 ---

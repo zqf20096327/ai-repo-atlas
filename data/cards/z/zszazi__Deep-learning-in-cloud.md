@@ -1,6 +1,6 @@
 # zszazi/Deep-learning-in-cloud
 
-⭐ 827 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zszazi/Deep-learning-in-cloud) · 个人维护
+⭐ 828 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/zszazi/Deep-learning-in-cloud) · 个人维护
 
 **深度学习云 GPU 服务商与 MLOps 平台的策展清单**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zszazi/Deep-learning-in-cloud 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-01", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-01", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-26"]
     y-axis "stars" 825 --> 829
-    line [826, 827, 826, 827, 828, 827, 827]
+    line [826, 827, 826, 827, 828, 827, 828]
 ```
 
-2026-10-23 826 → 2026-11-25 827（+1）
+2026-10-24 826 → 2026-11-26 828（+2）
 
 
 ---

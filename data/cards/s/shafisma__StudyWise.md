@@ -1,6 +1,6 @@
 # shafisma/StudyWise
 
-⭐ 52 · TypeScript · 推送 2026-01-11 · [GitHub](https://github.com/shafisma/StudyWise) · [官网](https://study-wise-orcin.vercel.app) · 个人维护
+⭐ 52 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/shafisma/StudyWise) · [官网](https://study-wise-orcin.vercel.app) · 个人维护
 
 **面向学生的学习助手：把文本/PDF/视频转成笔记、闪卡与测验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shafisma/StudyWise 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-23 52 → 2026-11-25 52（+0）
+2026-10-24 52 → 2026-11-26 52（+0）
 
 
 ---

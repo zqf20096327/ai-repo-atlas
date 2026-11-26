@@ -1,6 +1,6 @@
 # SylphAI-Inc/adal-cli
 
-⭐ 111 · HTML · 推送 2026-11-17 · [GitHub](https://github.com/SylphAI-Inc/adal-cli) · [官网](https://docs.sylph.ai/) · 组织维护
+⭐ 112 · HTML · 推送 2026-11-17 · [GitHub](https://github.com/SylphAI-Inc/adal-cli) · [官网](https://docs.sylph.ai/) · 组织维护
 
 **终端原生的 AI agent 编排框架，面向开发者自动化编码与工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SylphAI-Inc/adal-cli 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 109 --> 112
-    line [110, 111, 110, 111, 111]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 109 --> 113
+    line [110, 111, 110, 111, 112]
 ```
 
-2026-10-23 110 → 2026-11-25 111（+1）
+2026-10-24 110 → 2026-11-26 112（+2）
 
 
 ---

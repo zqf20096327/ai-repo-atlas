@@ -1,6 +1,6 @@
 # avalanche-run/predict-rlm
 
-⭐ 437 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/avalanche-run/predict-rlm) · [官网](https://trampoline.ai) · 组织维护
+⭐ 438 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/avalanche-run/predict-rlm) · [官网](https://trampoline.ai) · 组织维护
 
 **面向生产的多步 LLM 工作流运行时（RLM）：模型自写代码控制流程**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "avalanche-run/predict-rlm 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
-    y-axis "stars" 436 --> 438
-    line [437, 437]
+    x-axis ["2026-11-16", "2026-11-26"]
+    y-axis "stars" 436 --> 439
+    line [437, 438]
 ```
 
-2026-11-16 437 → 2026-11-25 437（+0）
+2026-11-16 437 → 2026-11-26 438（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-Coding-Plan-MCP
 
-⭐ 102 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Coding-Plan-MCP) · [官网](https://www.minimax.io/platform) · 组织维护 · 中文 README
+⭐ 101 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Coding-Plan-MCP) · [官网](https://www.minimax.io/platform) · 组织维护 · 中文 README
 
 **面向编码用户的 MiniMax MCP 服务器：网页搜索与图像理解工具**
 
@@ -46,12 +46,12 @@ MiniMax 官方维护的专用 Model Context Protocol (MCP) 服务器，面向 co
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-Coding-Plan-MCP 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
     y-axis "stars" 100 --> 103
-    line [101, 102, 102]
+    line [101, 102, 101]
 ```
 
-2026-10-23 101 → 2026-11-25 102（+1）
+2026-10-24 101 → 2026-11-26 101（+0）
 
 
 ---

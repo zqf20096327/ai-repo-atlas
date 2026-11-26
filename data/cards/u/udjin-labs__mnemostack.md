@@ -1,6 +1,6 @@
 # udjin-labs/mnemostack
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/udjin-labs/mnemostack) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/udjin-labs/mnemostack) · 个人维护
 
 **为 AI agent 提供持久化混合记忆与检索后端**
 
@@ -46,12 +46,12 @@ mnemostack 是一个自托管的 agent 记忆与检索层：摄取笔记、消�
 ```mermaid
 xychart-beta
     title "udjin-labs/mnemostack 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-25 10（+0）
+2026-11-16 10 → 2026-11-26 10（+0）
 
 
 ---

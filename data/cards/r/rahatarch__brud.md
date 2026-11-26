@@ -1,6 +1,6 @@
 # rahatarch/brud
 
-⭐ 44 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rahatarch/brud) · 组织维护
+⭐ 45 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/rahatarch/brud) · 组织维护
 
 **面向自主 agent 的可嵌入式零信任微内核运行时**
 
@@ -45,12 +45,12 @@ Brud OS 是一个以 npm 包 @brud/os 分发的 TypeScript 嵌入式运行时，
 ```mermaid
 xychart-beta
     title "rahatarch/brud 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-11-10 44 → 2026-11-25 44（+0）
+2026-11-10 44 → 2026-11-26 45（+1）
 
 
 ---

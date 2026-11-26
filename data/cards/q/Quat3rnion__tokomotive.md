@@ -1,6 +1,6 @@
 # Quat3rnion/tokomotive
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Quat3rnion/tokomotive) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Quat3rnion/tokomotive) · 个人维护
 
 **LLM 路由代理：多部署转发、故障回退与按用户成本记账**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Quat3rnion/tokomotive 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-25 3（+0）
+2026-11-14 3 → 2026-11-26 3（+0）
 
 
 ---

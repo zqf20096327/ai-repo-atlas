@@ -47,12 +47,12 @@ Google embeddinggemma-2 的从零 Rust 移植：将文本、图像、音频、�
 ```mermaid
 xychart-beta
     title "Dalailalama/embeddinggemma2-rust 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

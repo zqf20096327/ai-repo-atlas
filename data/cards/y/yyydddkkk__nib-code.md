@@ -1,6 +1,6 @@
 # yyydddkkk/nib-code
 
-⭐ 3 · Zig · MIT · 推送 2026-11-20 · [GitHub](https://github.com/yyydddkkk/nib-code) · 个人维护 · 中文 README
+⭐ 3 · Zig · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yyydddkkk/nib-code) · 个人维护 · 中文 README
 
 **轻量级命令行编码 agent：单脚本读改检项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yyydddkkk/nib-code 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 3（+0）
 
 
 ---

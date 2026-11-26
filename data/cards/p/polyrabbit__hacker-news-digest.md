@@ -1,6 +1,6 @@
 # polyrabbit/hacker-news-digest
 
-⭐ 755 · Python · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/polyrabbit/hacker-news-digest) · [官网](http://hackernews.betacat.io/) · 个人维护
+⭐ 755 · Python · LGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/polyrabbit/hacker-news-digest) · [官网](http://hackernews.betacat.io/) · 个人维护
 
 **为 Hacker News 首页新闻自动生成 AI 摘要与配图的静态站**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "polyrabbit/hacker-news-digest 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-25"]
+    title "polyrabbit/hacker-news-digest 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 752 --> 756
-    line [754, 753, 754, 755, 754, 755]
+    line [754, 753, 754, 755, 754, 755, 755]
 ```
 
-2026-10-23 754 → 2026-11-25 755（+1）
+2026-10-24 754 → 2026-11-26 755（+1）
 
 
 ---

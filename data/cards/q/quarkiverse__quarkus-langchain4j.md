@@ -1,6 +1,6 @@
 # quarkiverse/quarkus-langchain4j
 
-⭐ 325 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/quarkiverse/quarkus-langchain4j) · [官网](https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html) · 组织维护
+⭐ 325 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/quarkiverse/quarkus-langchain4j) · [官网](https://docs.quarkiverse.io/quarkus-langchain4j/dev/index.html) · 组织维护
 
 **面向 Quarkus 开发者的 LangChain4j 集成扩展**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "quarkiverse/quarkus-langchain4j 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "quarkiverse/quarkus-langchain4j 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 324 --> 327
-    line [325, 326, 325, 326, 325, 325]
+    line [326, 325, 326, 325, 325]
 ```
 
-2026-10-23 325 → 2026-11-25 325（+0）
+2026-10-24 326 → 2026-11-26 325（-1）
 
 
 ---

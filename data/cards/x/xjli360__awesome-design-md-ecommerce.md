@@ -1,6 +1,6 @@
 # xjli360/awesome-design-md-ecommerce
 
-⭐ 29 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/xjli360/awesome-design-md-ecommerce) · 组织维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-09-30 · [GitHub](https://github.com/xjli360/awesome-design-md-ecommerce) · 组织维护 · 中文 README
 
 **电商品牌 DESIGN.md 设计规范合集，供 AI 编码 agent 构建品牌一致 UI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xjli360/awesome-design-md-ecommerce 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 18 --> 30
-    line [19, 22, 24, 25, 26, 27, 28, 29]
+    title "xjli360/awesome-design-md-ecommerce 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 32
+    line [19, 22, 24, 25, 26, 27, 28, 29, 31]
 ```
 
-2026-10-23 19 → 2026-11-25 29（+10）
+2026-10-24 19 → 2026-11-26 31（+12）
 
 
 ---

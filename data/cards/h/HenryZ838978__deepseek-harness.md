@@ -1,6 +1,6 @@
 # HenryZ838978/deepseek-harness
 
-⭐ 48 · Python · MIT · 推送 2026-09-10 · [GitHub](https://github.com/HenryZ838978/deepseek-harness) · [官网](https://github.com/HenryZ838978/deepseek-harness) · 个人维护 · 中文 README
+⭐ 48 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HenryZ838978/deepseek-harness) · [官网](https://github.com/HenryZ838978/deepseek-harness) · 个人维护 · 中文 README
 
 **DeepSeek V4 协议适配与验证工具包：Python 库+CLI+MCP+Skill 四形态**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HenryZ838978/deepseek-harness 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 46 --> 49
     line [47, 48, 47, 48, 48]
 ```
 
-2026-10-23 47 → 2026-11-25 48（+1）
+2026-10-24 47 → 2026-11-26 48（+1）
 
 
 ---

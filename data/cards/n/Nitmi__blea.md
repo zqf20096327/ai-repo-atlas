@@ -1,6 +1,6 @@
 # Nitmi/blea
 
-⭐ 13 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Nitmi/blea) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/Nitmi/blea) · 个人维护
 
 **供 AI agent 安全执行 BLE 诊断与自动化的插件与 CLI 运行时**
 
@@ -46,12 +46,12 @@ BLEA 是一个面向 AI agent 的蓝牙低功耗（BLE）工具集：以 `ble` �
 ```mermaid
 xychart-beta
     title "Nitmi/blea 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 14（+2）
 
 
 ---

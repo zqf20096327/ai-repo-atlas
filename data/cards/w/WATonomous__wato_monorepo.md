@@ -1,6 +1,6 @@
 # WATonomous/wato_monorepo
 
-⭐ 129 · C · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/WATonomous/wato_monorepo) · [官网](https://www.watonomous.ca/) · 组织维护
+⭐ 129 · C · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/WATonomous/wato_monorepo) · [官网](https://www.watonomous.ca/) · 组织维护
 
 **WATonomous 自动驾驶软件全栈的 Docker 化 ROS2 单体仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "WATonomous/wato_monorepo 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "WATonomous/wato_monorepo 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 127 --> 130
-    line [128, 129]
+    line [128, 129, 129]
 ```
 
-2026-10-23 128 → 2026-11-25 129（+1）
+2026-10-24 128 → 2026-11-26 129（+1）
 
 
 ---

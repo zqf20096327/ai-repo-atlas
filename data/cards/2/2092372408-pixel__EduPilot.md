@@ -1,6 +1,6 @@
 # 2092372408-pixel/EduPilot
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/2092372408-pixel/EduPilot) · [官网](https://github.com/2092372408-pixel/EduPilot/releases/latest) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/2092372408-pixel/EduPilot) · [官网](https://github.com/2092372408-pixel/EduPilot/releases/latest) · 个人维护 · 中文 README
 
 **本地优先的教材 AI 成课与复习学习工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "2092372408-pixel/EduPilot 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 3（+0）
 
 
 ---

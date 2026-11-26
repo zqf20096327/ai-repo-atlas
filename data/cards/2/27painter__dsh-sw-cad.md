@@ -1,6 +1,6 @@
 # 27painter/dsh-sw-cad
 
-⭐ 15 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/27painter/dsh-sw-cad) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/27painter/dsh-sw-cad) · 个人维护 · 中文 README
 
 **让 AI agent 驱动 SolidWorks/AutoCAD 出图并自检交付**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "27painter/dsh-sw-cad 星数(近 8 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 2 --> 16
-    line [3, 6, 8, 9, 10, 12, 15, 15]
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 2 --> 18
+    line [3, 6, 8, 9, 10, 12, 15, 17]
 ```
 
-2026-10-29 3 → 2026-11-25 15（+12）
+2026-10-29 3 → 2026-11-26 17（+14）
 
 
 ---

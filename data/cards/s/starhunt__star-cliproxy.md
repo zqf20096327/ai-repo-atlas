@@ -1,6 +1,6 @@
 # starhunt/star-cliproxy
 
-⭐ 44 · TypeScript · 推送 2026-08-12 · [GitHub](https://github.com/starhunt/star-cliproxy) · 组织维护 · 中文 README
+⭐ 45 · TypeScript · 推送 2026-08-12 · [GitHub](https://github.com/starhunt/star-cliproxy) · 组织维护 · 中文 README
 
 **把已订阅的 AI 编程 CLI 封装成本地 OpenAI/Anthropic 兼容 API 的代理网关**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "starhunt/star-cliproxy 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 39 --> 45
-    line [40, 42, 43, 40, 44, 44]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 39 --> 46
+    line [40, 42, 43, 40, 44, 45]
 ```
 
-2026-10-23 40 → 2026-11-25 44（+4）
+2026-10-24 40 → 2026-11-26 45（+5）
 
 
 ---

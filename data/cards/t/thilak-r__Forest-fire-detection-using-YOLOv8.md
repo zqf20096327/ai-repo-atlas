@@ -1,6 +1,6 @@
 # thilak-r/Forest-fire-detection-using-YOLOv8
 
-⭐ 14 · Jupyter Notebook · 推送 2025-11-29 · [GitHub](https://github.com/thilak-r/Forest-fire-detection-using-YOLOv8) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于 YOLOv8 的实时森林火灾烟雾检测系统，含 Telegram 告警**
 

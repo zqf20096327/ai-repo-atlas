@@ -1,6 +1,6 @@
 # zihao-ai/Awesome-Backdoor-Research
 
-⭐ 249 · Python · GPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/zihao-ai/Awesome-Backdoor-Research) · 个人维护
+⭐ 250 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/zihao-ai/Awesome-Backdoor-Research) · 个人维护
 
 **AI 后门攻击与防御研究论文资源清单（896 篇）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zihao-ai/Awesome-Backdoor-Research 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 243 --> 250
-    line [244, 245, 246, 244, 248, 249, 249]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 243 --> 251
+    line [244, 245, 246, 244, 248, 249, 250]
 ```
 
-2026-10-24 244 → 2026-11-25 249（+5）
+2026-10-24 244 → 2026-11-26 250（+6）
 
 
 ---

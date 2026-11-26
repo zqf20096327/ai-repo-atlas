@@ -1,6 +1,6 @@
 # Theepankumargandhi/Multi-Agent-Orchestration
 
-⭐ 23 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Theepankumargandhi/Multi-Agent-Orchestration) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Theepankumargandhi/Multi-Agent-Orchestration) · 个人维护
 
 **带证据核验的文档/网页问答研究助手（CiteRight）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Theepankumargandhi/Multi-Agent-Orchestration 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 21 --> 24
     line [22, 23, 22, 23, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

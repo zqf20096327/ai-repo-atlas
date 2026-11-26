@@ -1,6 +1,6 @@
 # github/spec-kit-copilot
 
-⭐ 29 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/github/spec-kit-copilot) · [官网](https://github.com/github/spec-kit) · 组织维护
+⭐ 29 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/github/spec-kit-copilot) · [官网](https://github.com/github/spec-kit) · 组织维护
 
 **面向 GitHub Copilot 的 Spec Kit 集成插件集**
 
@@ -46,12 +46,12 @@ GitHub 官方维护的配套仓库，为 Spec Kit（规格驱动开发工具链�
 ```mermaid
 xychart-beta
     title "github/spec-kit-copilot 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-19", "2026-11-26"]
     y-axis "stars" 19 --> 30
     line [20, 22, 26, 27, 28, 29, 29]
 ```
 
-2026-10-23 20 → 2026-11-25 29（+9）
+2026-10-24 20 → 2026-11-26 29（+9）
 
 
 ---

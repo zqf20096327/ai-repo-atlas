@@ -1,6 +1,6 @@
 # LaRazaDelSol/AIEngineOnSmallUniMem
 
-⭐ 14 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/LaRazaDelSol/AIEngineOnSmallUniMem) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/LaRazaDelSol/AIEngineOnSmallUniMem) · 个人维护
 
 **在 PS5 Linux 上以流式方式运行 125B MoE 大模型的推理引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LaRazaDelSol/AIEngineOnSmallUniMem 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 10 --> 15
-    line [11, 13, 14, 14]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 10 --> 16
+    line [11, 13, 14, 15]
 ```
 
-2026-11-18 11 → 2026-11-25 14（+3）
+2026-11-18 11 → 2026-11-26 15（+4）
 
 
 ---

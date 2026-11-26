@@ -1,6 +1,6 @@
 # Drlinglong/Remis
 
-⭐ 29 · Python · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/Drlinglong/Remis) · [官网](https://drlinglong.github.io/Remis/) · 个人维护 · 中文 README
+⭐ 29 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Drlinglong/Remis) · [官网](https://drlinglong.github.io/Remis/) · 个人维护 · 中文 README
 
 **AI 游戏模组本地化桌面系统：术语感知翻译与人工审核**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Drlinglong/Remis 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 28 --> 31
     line [30, 29, 29]
 ```
 
-2026-10-23 30 → 2026-11-25 29（-1）
+2026-10-24 30 → 2026-11-26 29（-1）
 
 
 ---

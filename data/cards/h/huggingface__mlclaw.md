@@ -1,6 +1,6 @@
 # huggingface/mlclaw
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/huggingface/mlclaw) · [官网](http://mlclaw.dev/) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/huggingface/mlclaw) · [官网](http://mlclaw.dev/) · 组织维护
 
 **将 OpenClaw agent 部署到 Hugging Face Space 的部署工具**
 
@@ -45,13 +45,13 @@ Hugging Face 官方仓库，把 OpenClaw agent 以受保护的 Docker Space 形�
 
 ```mermaid
 xychart-beta
-    title "huggingface/mlclaw 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-21", "2026-11-25"]
+    title "huggingface/mlclaw 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
     y-axis "stars" 11 --> 14
-    line [12, 13, 12, 12]
+    line [13, 12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 13 → 2026-11-26 12（-1）
 
 
 ---

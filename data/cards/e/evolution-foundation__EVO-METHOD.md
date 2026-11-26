@@ -1,6 +1,6 @@
 # evolution-foundation/EVO-METHOD
 
-⭐ 40 · JavaScript · NOASSERTION · 推送 2026-03-11 · [GitHub](https://github.com/evolution-foundation/EVO-METHOD) · 组织维护
+⭐ 39 · JavaScript · NOASSERTION · 推送 2026-03-11 · [GitHub](https://github.com/evolution-foundation/EVO-METHOD) · 组织维护
 
 **面向 AI IDE 的敏捷开发方法框架（BMad Method 独立分支）**
 
@@ -45,12 +45,12 @@ EVO Method 是 BMad Method 的独立 fork，提供一套 AI 驱动的敏捷开�
 ```mermaid
 xychart-beta
     title "evolution-foundation/EVO-METHOD 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 38 --> 41
+    line [40, 39]
 ```
 
-2026-10-23 40 → 2026-11-25 40（+0）
+2026-10-24 40 → 2026-11-26 39（-1）
 
 
 ---

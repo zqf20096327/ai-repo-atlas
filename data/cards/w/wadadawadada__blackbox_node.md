@@ -1,6 +1,6 @@
 # wadadawadada/blackbox_node
 
-⭐ 180 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/wadadawadada/blackbox_node) · [官网](https://blackbox.host/) · 个人维护
+⭐ 181 · JavaScript · NOASSERTION · 推送 2026-10-26 · [GitHub](https://github.com/wadadawadada/blackbox_node) · [官网](https://blackbox.host/) · 个人维护
 
 **离线优先的 Meshtastic/LoRa 网状网指挥节点，集成本地 AI 与比特币支付**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wadadawadada/blackbox_node 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 172 --> 181
-    line [173, 174, 173, 176, 178, 179, 180]
+    title "wadadawadada/blackbox_node 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 172 --> 182
+    line [173, 174, 173, 176, 178, 179, 180, 181]
 ```
 
-2026-10-23 173 → 2026-11-25 180（+7）
+2026-10-24 173 → 2026-11-26 181（+8）
 
 
 ---

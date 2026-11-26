@@ -1,6 +1,6 @@
 # krishbuilds01/MockRoom
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/krishbuilds01/MockRoom) · [官网](https://beta-mockroom.vercel.app) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/krishbuilds01/MockRoom) · [官网](https://beta-mockroom.vercel.app) · 个人维护
 
 **面向 CS 学生与应届生的免费 AI 模拟面试网站**
 
@@ -40,6 +40,18 @@ MockRoom 是一个免费网页应用，用户打开即可练习技术面试，�
 
 > L13: You practice with two AI interviewers, Maya and Rohan. They ask questions, push back when your answer is thin, watc
 > L17: - Live voice interview - 5 questions, follow-ups, scored feedback
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "krishbuilds01/MockRoom 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 17 --> 49
+    line [19, 47]
+```
+
+2026-11-25 19 → 2026-11-26 47（+28）
 
 
 ---

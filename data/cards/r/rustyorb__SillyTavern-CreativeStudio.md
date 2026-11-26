@@ -1,6 +1,6 @@
 # rustyorb/SillyTavern-CreativeStudio
 
-⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rustyorb/SillyTavern-CreativeStudio) · [官网](https://github.com/rustyorb/SillyTavern-CreativeStudio) · 个人维护
+⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/rustyorb/SillyTavern-CreativeStudio) · [官网](https://github.com/rustyorb/SillyTavern-CreativeStudio) · 个人维护
 
 **SillyTavern 扩展：从一句话生成完整角色扮演套件**
 
@@ -46,13 +46,13 @@ SillyTavern 1.19+ 的角色创作扩展：从一句话或随机起点，经十�
 
 ```mermaid
 xychart-beta
-    title "rustyorb/SillyTavern-CreativeStudio 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 7 --> 12
-    line [8, 9, 10, 11, 8, 10, 11]
+    title "rustyorb/SillyTavern-CreativeStudio 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 7 --> 13
+    line [8, 9, 10, 11, 8, 10, 11, 12]
 ```
 
-2026-10-23 8 → 2026-11-25 11（+3）
+2026-10-24 8 → 2026-11-26 12（+4）
 
 
 ---

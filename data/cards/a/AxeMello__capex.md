@@ -1,6 +1,6 @@
 # AxeMello/capex
 
-⭐ 54 · HTML · MIT · 推送 2026-02-05 · [GitHub](https://github.com/AxeMello/capex) · 个人维护
+⭐ 55 · HTML · MIT · 推送 2026-02-05 · [GitHub](https://github.com/AxeMello/capex) · 个人维护
 
 **Flutter 文档扫描 App：拍照 OCR 并结构化写入 Google Sheets**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AxeMello/capex 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 53 --> 56
+    line [54, 55]
 ```
 
-2026-10-23 54 → 2026-11-25 54（+0）
+2026-10-24 54 → 2026-11-26 55（+1）
 
 
 ---

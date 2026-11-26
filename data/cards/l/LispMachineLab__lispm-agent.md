@@ -1,6 +1,6 @@
 # LispMachineLab/lispm-agent
 
-⭐ 5 · Emacs Lisp · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/LispMachineLab/lispm-agent) · [官网](https://lispm.ai/agent/) · 组织维护
+⭐ 5 · Emacs Lisp · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/LispMachineLab/lispm-agent) · [官网](https://lispm.ai/agent/) · 组织维护
 
 **在 GNU Emacs 内运行 AI agent 的 agent harness**
 
@@ -40,6 +40,18 @@
 > L7: AI agents that run inside Emacs rather than beside it. You chat with an agent as in Claude
 > L28: Emacs 30.1+, curl, and a model behind an OpenAI Chat Completions or Anthropic Messages
 > L163: - *Roles, agents, sessions.* A role is instructions, tools, policy and model: ~lispm-defrole~,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "LispMachineLab/lispm-agent 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
 
 
 ---

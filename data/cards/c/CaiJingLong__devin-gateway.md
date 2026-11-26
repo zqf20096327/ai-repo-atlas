@@ -1,6 +1,6 @@
 # CaiJingLong/devin-gateway
 
-⭐ 10 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/CaiJingLong/devin-gateway) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · MIT · 推送 2026-10-15 · [GitHub](https://github.com/CaiJingLong/devin-gateway) · 个人维护 · 中文 README
 
 **把 Devin/Windsurf Cascade 暴露为 OpenAI/Anthropic 兼容 API 的网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CaiJingLong/devin-gateway 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-11", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-11 10 → 2026-11-25 10（+0）
+2026-11-11 10 → 2026-11-26 11（+1）
 
 
 ---

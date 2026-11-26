@@ -1,6 +1,6 @@
 # fengshenx/dsh-leader-agent
 
-⭐ 23 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fengshenx/dsh-leader-agent) · [官网](https://fengshenx.github.io/dsh-leader-agent/) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/fengshenx/dsh-leader-agent) · [官网](https://fengshenx.github.io/dsh-leader-agent/) · 个人维护 · 中文 README
 
 **为 dsh 提供 Leader/worker 编排的插件：一人并行管理多个 agent 会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fengshenx/dsh-leader-agent 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 22 --> 25
-    line [24, 23, 23]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 22 --> 30
+    line [24, 23, 29]
 ```
 
-2026-11-20 24 → 2026-11-25 23（-1）
+2026-11-20 24 → 2026-11-26 29（+5）
 
 
 ---

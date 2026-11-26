@@ -1,6 +1,6 @@
 # alfa546/Auto-Apply-AI
 
-⭐ 19 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/alfa546/Auto-Apply-AI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自动化求职的多 agent 工作台：简历 ATS 评估、抓岗、自动投递**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

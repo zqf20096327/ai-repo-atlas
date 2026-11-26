@@ -1,6 +1,6 @@
 # qskousen/ggufy
 
-⭐ 111 · Zig · MIT · 推送 2026-11-10 · [GitHub](https://github.com/qskousen/ggufy) · 个人维护
+⭐ 111 · Zig · MIT · 推送 2026-11-25 · [GitHub](https://github.com/qskousen/ggufy) · 个人维护
 
 **Zig 编写的 safetensors/GGUF 模型格式与量化转换工具（CLI/GUI）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "qskousen/ggufy 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 106 --> 112
-    line [107, 108, 109, 110, 111, 111]
+    title "qskousen/ggufy 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 107 --> 112
+    line [108, 109, 110, 111, 111]
 ```
 
-2026-10-23 107 → 2026-11-25 111（+4）
+2026-10-24 108 → 2026-11-26 111（+3）
 
 
 ---

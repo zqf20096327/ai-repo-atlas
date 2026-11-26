@@ -1,6 +1,6 @@
 # ottr-ai/ottr
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ottr-ai/ottr) · 组织维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ottr-ai/ottr) · 组织维护
 
 **为开发者的编码 agent 提供本地看板式任务分发与合并管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ottr-ai/ottr 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-25 3（+0）
+2026-11-16 3 → 2026-11-26 3（+0）
 
 
 ---

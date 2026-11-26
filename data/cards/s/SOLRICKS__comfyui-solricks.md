@@ -1,6 +1,6 @@
 # SOLRICKS/comfyui-solricks
 
-⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SOLRICKS/comfyui-solricks) · [官网](https://solricks.com/en) · 组织维护
+⭐ 14 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SOLRICKS/comfyui-solricks) · [官网](https://solricks.com/en) · 组织维护
 
 **ComfyUI 的视频/图像抗锯齿与细节增强节点包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SOLRICKS/comfyui-solricks 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 12 --> 15
     line [14, 13, 14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

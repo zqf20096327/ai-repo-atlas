@@ -1,6 +1,6 @@
 # Genesis-Molecular-AI/genesis-potency-dataset
 
-⭐ 19 · CC-BY-SA-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/Genesis-Molecular-AI/genesis-potency-dataset) · 组织维护
+⭐ 21 · CC-BY-SA-4.0 · 推送 2026-11-19 · [GitHub](https://github.com/Genesis-Molecular-AI/genesis-potency-dataset) · 组织维护
 
 **面向药效预测模型的 540 万条公开蛋白-配体 potency 数据集**
 
@@ -44,13 +44,13 @@ GenesisPotency-2026 数据集：5,410,616 行来自 ChEMBL 37、BindingDB 与 Pu
 
 ```mermaid
 xychart-beta
-    title "Genesis-Molecular-AI/genesis-potency-dataset 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 10 --> 20
-    line [11, 13, 19]
+    title "Genesis-Molecular-AI/genesis-potency-dataset 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 22
+    line [11, 13, 19, 21]
 ```
 
-2026-11-22 11 → 2026-11-25 19（+8）
+2026-11-22 11 → 2026-11-26 21（+10）
 
 
 ---

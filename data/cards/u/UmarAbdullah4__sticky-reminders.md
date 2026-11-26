@@ -42,6 +42,18 @@
 > L56: **Assistant (optional)**
 > L215: Off until you choose a provider in **Settings → AI**. Enter a key, pick a model
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "UmarAbdullah4/sticky-reminders 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `9cf5387d51e6` · [字段定义](../../DATASET.md)*

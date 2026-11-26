@@ -1,6 +1,6 @@
 # allcolor/PawFlow-Agents
 
-⭐ 26 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/allcolor/PawFlow-Agents) · [官网](https://pawflow.allcolor.org/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/allcolor/PawFlow-Agents) · [官网](https://pawflow.allcolor.org/) · 个人维护
 
 **自托管 AI agent 运行时：在自有基础设施上运行持久化 agent 与工作流**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "allcolor/PawFlow-Agents 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-23 26 → 2026-11-25 26（+0）
+2026-10-24 26 → 2026-11-26 27（+1）
 
 
 ---

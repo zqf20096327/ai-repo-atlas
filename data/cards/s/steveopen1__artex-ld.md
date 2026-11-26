@@ -1,6 +1,6 @@
 # steveopen1/artex-ld
 
-⭐ 3 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/steveopen1/artex-ld) · 个人维护 · 中文 README
+⭐ 6 · Go · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/steveopen1/artex-ld) · 个人维护 · 中文 README
 
 **给授权渗透测试者的 AI 自主渗透平台，输出证据级报告**
 
@@ -41,6 +41,18 @@
 > L5: 基于 ARTEX v0.3.15 的二次开发版本：AI 自主渗透测试平台。
 > L74: 2. 在 **系统 → LLM** 配置模型（Anthropic / OpenAI / 兼容 OpenAI 的私有网关均可）。
 > L95: - **planner-worker**：1 个 planner + N 个 worker goroutine 事件驱动推进，自主派生意图、记录事实、确认漏洞。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "steveopen1/artex-ld 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 6]
+```
+
+2026-11-25 3 → 2026-11-26 6（+3）
 
 
 ---

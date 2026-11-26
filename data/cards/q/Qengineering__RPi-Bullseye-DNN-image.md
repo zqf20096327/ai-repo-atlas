@@ -1,6 +1,6 @@
 # Qengineering/RPi-Bullseye-DNN-image
 
-⭐ 30 · BSD-3-Clause · 推送 2026-07-23 · [GitHub](https://github.com/Qengineering/RPi-Bullseye-DNN-image) · [官网](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) · 个人维护
+⭐ 31 · BSD-3-Clause · 推送 2026-07-23 · [GitHub](https://github.com/Qengineering/RPi-Bullseye-DNN-image) · [官网](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html) · 个人维护
 
 **预装深度学习框架与示例的树莓派 4 Bullseye 64 位 SD 镜像**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Qengineering/RPi-Bullseye-DNN-image 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 31（+1）
 
 
 ---

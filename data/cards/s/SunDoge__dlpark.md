@@ -1,6 +1,6 @@
 # SunDoge/dlpark
 
-⭐ 67 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SunDoge/dlpark) · [官网](https://crates.io/crates/dlpark) · 个人维护
+⭐ 68 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SunDoge/dlpark) · [官网](https://crates.io/crates/dlpark) · 个人维护
 
 **纯 Rust 的 DLPack 实现，跨框架零拷贝交换张量**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "SunDoge/dlpark 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 64 --> 68
-    line [65, 66, 65, 66, 67, 67]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 64 --> 69
+    line [65, 66, 65, 66, 67, 68]
 ```
 
-2026-10-23 65 → 2026-11-25 67（+2）
+2026-10-24 65 → 2026-11-26 68（+3）
 
 
 ---

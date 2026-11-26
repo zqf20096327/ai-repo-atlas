@@ -1,6 +1,6 @@
 # bitforth/InjectRange
 
-⭐ 12 · Python · MIT · 推送 2026-09-26 · [GitHub](https://github.com/bitforth/InjectRange) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **提示注入防护规则的确定性回归评测工具**
 
@@ -11,7 +11,7 @@ InjectRange 是面向开发者自声明防护规则的评测 harness：用 24 �
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

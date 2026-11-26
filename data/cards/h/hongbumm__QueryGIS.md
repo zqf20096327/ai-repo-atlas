@@ -1,6 +1,6 @@
 # hongbumm/QueryGIS
 
-⭐ 11 · Python · 推送 2026-11-17 · [GitHub](https://github.com/hongbumm/QueryGIS) · 组织维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/hongbumm/QueryGIS) · 组织维护
 
 **QGIS 的 LLM 聊天插件：自然语言生成可执行 GIS 工作流**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hongbumm/QueryGIS 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

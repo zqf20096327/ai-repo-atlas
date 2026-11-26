@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jiyasiwach/cybersec-rag-copilot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 7 --> 9
     line [8, 8]
 ```
 
-2026-10-23 8 → 2026-11-25 8（+0）
+2026-10-24 8 → 2026-11-26 8（+0）
 
 
 ---

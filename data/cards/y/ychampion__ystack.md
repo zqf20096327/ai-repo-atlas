@@ -1,6 +1,6 @@
 # ychampion/ystack
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ychampion/ystack) · 个人维护
+⭐ 9 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ychampion/ystack) · 个人维护
 
 **为 Claude Code/Codex 等 agent 提供 mods/skills/守卫规则的增强工具集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ychampion/ystack 星数(近 4 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6, 6]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 3 --> 10
+    line [4, 5, 6, 9]
 ```
 
-2026-11-15 4 → 2026-11-25 6（+2）
+2026-11-15 4 → 2026-11-26 9（+5）
 
 
 ---

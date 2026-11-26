@@ -45,12 +45,12 @@ Python 实现的聊天应用，通过 OpenAI API 接入 LLM，按用户输入判
 ```mermaid
 xychart-beta
     title "devinambron/PyThoughtChain 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 20（+0）
 
 
 ---

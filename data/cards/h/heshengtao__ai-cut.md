@@ -1,6 +1,6 @@
 # heshengtao/ai-cut
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/heshengtao/ai-cut) · 个人维护 · 中文 README
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/heshengtao/ai-cut) · 个人维护 · 中文 README
 
 **桌面视频编辑工作站：让 AI agent 经 MCP 在时间线上剪辑**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "heshengtao/ai-cut 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 2 --> 9
-    line [3, 4, 5, 4, 7, 8, 8]
+    title "heshengtao/ai-cut 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 3 --> 9
+    line [4, 5, 4, 7, 8, 8]
 ```
 
-2026-10-23 3 → 2026-11-25 8（+5）
+2026-10-24 4 → 2026-11-26 8（+4）
 
 
 ---

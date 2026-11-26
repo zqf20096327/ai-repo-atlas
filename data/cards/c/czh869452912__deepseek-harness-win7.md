@@ -1,6 +1,6 @@
 # czh869452912/deepseek-harness-win7
 
-⭐ 19 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/czh869452912/deepseek-harness-win7) · [官网](https://github.com/czh869452912/deepseek-harness-win7/releases/latest) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/czh869452912/deepseek-harness-win7) · [官网](https://github.com/czh869452912/deepseek-harness-win7/releases/latest) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Windows 7 Python 移植版，供 Win7 用户运行 AI 编程助手**
 
@@ -40,6 +40,18 @@
 > L3: **DeepSeek Harness Win7（DSH Win7）** 是 DeepSeek Harness 的非官方 Python 3.8.10 移植，面向 Windows 7 SP1 及更新的 Windows。它是可在项目目录中
 > L23: 在桌面或 Web 设置中配置模型提供商和 API Key，选择一个工作区即可开始。用户可使用 DeepSeek API，也可按提供商设置配置 OpenAI 兼容端点。通过终端启动时，可以在当前 PowerShell 会话中设置 D
 > L45: - **极简模式（Minimal）** 提供编辑器和持久 Shell。**标准模式（Standard）** 提供文件、搜索、Shell、技能、规划和子智能体等工程工具。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "czh869452912/deepseek-harness-win7 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
+```
+
+2026-11-25 19 → 2026-11-26 20（+1）
 
 
 ---

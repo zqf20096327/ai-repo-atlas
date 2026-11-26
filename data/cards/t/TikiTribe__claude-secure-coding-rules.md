@@ -1,6 +1,6 @@
 # TikiTribe/claude-secure-coding-rules
 
-⭐ 147 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/TikiTribe/claude-secure-coding-rules) · 组织维护
+⭐ 148 · Python · MIT · 推送 2026-05-26 · [GitHub](https://github.com/TikiTribe/claude-secure-coding-rules) · 组织维护
 
 **供 Claude Code 加载的安全编码规则集：默认生成安全代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TikiTribe/claude-secure-coding-rules 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 142 --> 148
-    line [143, 144, 143, 145, 146, 147, 147]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 142 --> 149
+    line [143, 144, 143, 145, 146, 147, 148]
 ```
 
-2026-10-23 143 → 2026-11-25 147（+4）
+2026-10-24 143 → 2026-11-26 148（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # runapi-ai/mcp
 
-⭐ 56 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/runapi-ai/mcp) · [官网](https://runapi.ai) · 组织维护
+⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/runapi-ai/mcp) · [官网](https://runapi.ai) · 组织维护
 
 **连接 RunAPI 的 MCP 服务器：模型发现、定价查询与媒体任务创建**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "runapi-ai/mcp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 55 --> 59
+    line [56, 58]
 ```
 
-2026-10-23 56 → 2026-11-25 56（+0）
+2026-10-24 56 → 2026-11-26 58（+2）
 
 
 ---

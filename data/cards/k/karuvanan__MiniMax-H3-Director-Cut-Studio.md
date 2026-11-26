@@ -1,6 +1,6 @@
 # karuvanan/MiniMax-H3-Director-Cut-Studio
 
-⭐ 158 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio) · [官网](https://www.youtube.com/@imbiplazaASUS) · 个人维护 · 中文 README
+⭐ 159 · Python · NOASSERTION · 推送 2026-11-11 · [GitHub](https://github.com/karuvanan/MiniMax-H3-Director-Cut-Studio) · [官网](https://www.youtube.com/@imbiplazaASUS) · 个人维护 · 中文 README
 
 **面向 MiniMax H3 视频生成的本地 PySide6 导演剪辑工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "karuvanan/MiniMax-H3-Director-Cut-Studio 星数(近 14 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 144 --> 159
-    line [145, 146, 147, 148, 149, 148, 149, 147, 153, 154, 155, 157, 158, 158]
+    title "karuvanan/MiniMax-H3-Director-Cut-Studio 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 145 --> 160
+    line [146, 147, 148, 149, 148, 149, 147, 153, 154, 155, 157, 158, 159]
 ```
 
-2026-10-23 145 → 2026-11-25 158（+13）
+2026-10-24 146 → 2026-11-26 159（+13）
 
 
 ---

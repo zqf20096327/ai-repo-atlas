@@ -1,6 +1,6 @@
 # Mirascope/mirascope
 
-⭐ 1,535 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Mirascope/mirascope) · [官网](https://mirascope.com) · 组织维护
+⭐ 1,536 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Mirascope/mirascope) · [官网](https://mirascope.com) · 组织维护
 
 **统一接口调用任意前沿 LLM 的 Python/TypeScript 库**
 
@@ -45,12 +45,12 @@ Mirascope 是一个 Python 与 TypeScript 双实现的 LLM 接入库，提供统
 ```mermaid
 xychart-beta
     title "Mirascope/mirascope 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 1533 --> 1538
-    line [1536, 1537, 1535, 1534, 1535, 1534, 1535]
+    line [1537, 1535, 1534, 1535, 1534, 1535, 1536]
 ```
 
-2026-10-23 1,536 → 2026-11-25 1,535（-1）
+2026-10-24 1,537 → 2026-11-26 1,536（-1）
 
 
 ---

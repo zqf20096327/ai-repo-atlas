@@ -1,6 +1,6 @@
 # hemu996/smart-ppt-designer
 
-⭐ 31 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hemu996/smart-ppt-designer) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hemu996/smart-ppt-designer) · 个人维护 · 中文 README
 
 **把 PDF/DOCX 材料生成原生可编辑 PPT 的技能包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hemu996/smart-ppt-designer 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    title "hemu996/smart-ppt-designer 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 21 --> 32
-    line [22, 31]
+    line [22, 31, 31]
 ```
 
-2026-11-23 22 → 2026-11-25 31（+9）
+2026-11-23 22 → 2026-11-26 31（+9）
 
 
 ---

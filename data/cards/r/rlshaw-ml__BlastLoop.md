@@ -45,12 +45,12 @@ BlastLoop 是 Ross Shaw 提出的 AI 编码 agent 工作流程框架：将编码
 ```mermaid
 xychart-beta
     title "rlshaw-ml/BlastLoop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

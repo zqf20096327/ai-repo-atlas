@@ -1,6 +1,6 @@
 # Topurrra/themissingmanual
 
-⭐ 23 · HTML · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/Topurrra/themissingmanual) · [官网](https://themissingmanual.dev) · 个人维护
+⭐ 22 · HTML · NOASSERTION · 推送 2026-10-06 · [GitHub](https://github.com/Topurrra/themissingmanual) · [官网](https://themissingmanual.dev) · 个人维护
 
 **免费文本优先的开发者与 STEM 知识库（367 篇指南）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Topurrra/themissingmanual 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
+    title "Topurrra/themissingmanual 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    line [23, 22]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 23 → 2026-11-26 22（-1）
 
 
 ---

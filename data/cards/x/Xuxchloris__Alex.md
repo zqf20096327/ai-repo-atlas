@@ -1,6 +1,6 @@
 # Xuxchloris/Alex
 
-⭐ 36 · JavaScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Xuxchloris/Alex) · [官网](https://github.com/Xuxchloris/Alex#readme) · 个人维护 · 中文 README
+⭐ 37 · JavaScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/Xuxchloris/Alex) · [官网](https://github.com/Xuxchloris/Alex#readme) · 个人维护 · 中文 README
 
 **面向外贸获客的自主 Agent：研究买家、管邮箱与 WhatsApp 跟进**
 
@@ -46,12 +46,12 @@ Alex 是构建在 Hermes Agent 执行内核之上的外贸销售 Agent profile�
 ```mermaid
 xychart-beta
     title "Xuxchloris/Alex 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 34 --> 38
-    line [35, 37, 36, 36]
+    line [35, 37, 36, 37]
 ```
 
-2026-10-23 35 → 2026-11-25 36（+1）
+2026-10-24 35 → 2026-11-26 37（+2）
 
 
 ---

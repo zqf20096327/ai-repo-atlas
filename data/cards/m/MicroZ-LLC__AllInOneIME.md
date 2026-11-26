@@ -1,6 +1,6 @@
 # MicroZ-LLC/AllInOneIME
 
-⭐ 17 · Swift · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MicroZ-LLC/AllInOneIME) · [官网](https://allinoneime.com) · 组织维护 · 中文 README
+⭐ 19 · Swift · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/MicroZ-LLC/AllInOneIME) · [官网](https://allinoneime.com) · 组织维护 · 中文 README
 
 **带 AI 命令的 macOS 输入法：任意输入框内改写/翻译/提问**
 
@@ -46,12 +46,12 @@ macOS 原生输入法（Swift，基于 Rime/rime-ice 的拼音），本体是多
 ```mermaid
 xychart-beta
     title "MicroZ-LLC/AllInOneIME 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 10 --> 18
-    line [11, 13, 14, 15, 16, 17, 17]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 10 --> 20
+    line [11, 13, 14, 15, 16, 17, 19]
 ```
 
-2026-10-23 11 → 2026-11-25 17（+6）
+2026-10-24 11 → 2026-11-26 19（+8）
 
 
 ---

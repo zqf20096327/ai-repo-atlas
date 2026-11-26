@@ -41,6 +41,18 @@
 > L9: examples, and checks as people. No AI provider or API key is required.
 > L49:  Bun runs the TypeScript source directly; there is no compilation step.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EvolutionX-10/discordbot 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-25 20 → 2026-11-26 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `1ef714004c08` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # piomin/spring-ai-showcase
 
-⭐ 72 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/piomin/spring-ai-showcase) · [官网](https://piotrminkowski.com) · 个人维护
+⭐ 73 · Java · MIT · 推送 2026-11-19 · [GitHub](https://github.com/piomin/spring-ai-showcase) · [官网](https://piotrminkowski.com) · 个人维护
 
 **Spring AI 框架示例应用：演示聊天、RAG、多模态等集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "piomin/spring-ai-showcase 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 70 --> 74
+    line [71, 72, 73]
 ```
 
-2026-10-23 71 → 2026-11-25 72（+1）
+2026-10-24 71 → 2026-11-26 73（+2）
 
 
 ---

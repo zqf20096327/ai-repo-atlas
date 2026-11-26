@@ -1,6 +1,6 @@
 # hanlulong/econ-paper-review-skill
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/hanlulong/econ-paper-review-skill) · [官网](https://openecon.ai) · 个人维护 · 中文 README
+⭐ 39 · Python · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/hanlulong/econ-paper-review-skill) · [官网](https://openecon.ai) · 个人维护 · 中文 README
 
 **经济学论文的 AI 预审稿技能：在真实审稿人之前生成审稿报告与修改计划**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hanlulong/econ-paper-review-skill 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 28 --> 38
-    line [29, 31, 32, 33, 34, 31, 36, 37]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 30 --> 40
+    line [31, 32, 33, 34, 31, 36, 37, 39]
 ```
 
-2026-10-23 29 → 2026-11-25 37（+8）
+2026-10-24 31 → 2026-11-26 39（+8）
 
 
 ---

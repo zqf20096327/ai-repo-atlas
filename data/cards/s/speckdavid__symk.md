@@ -1,6 +1,6 @@
 # speckdavid/symk
 
-⭐ 49 · C · GPL-3.0 · 推送 2026-08-24 · [GitHub](https://github.com/speckdavid/symk) · 个人维护
+⭐ 49 · C · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/speckdavid/symk) · 个人维护
 
 **经典最优与 top-k 规划器：基于符号搜索求解 PDDL 任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "speckdavid/symk 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-10-23 49 → 2026-11-25 49（+0）
+2026-10-24 49 → 2026-11-26 49（+0）
 
 
 ---

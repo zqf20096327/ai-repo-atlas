@@ -1,6 +1,6 @@
 # alexrichi/screener-v2
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alexrichi/screener-v2) · 个人维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alexrichi/screener-v2) · 个人维护
 
 **多交易所加密行情筛选桌面应用，带 AI 助手侧栏**
 
@@ -39,6 +39,18 @@
 
 > L3: A multi-venue crypto screener (Binance, OKX, Bybit, Bitget, Hyperliquid,
 > L62: Any OpenAI-compatible endpoint works: OpenRouter, a local Ollama/LM Studio, or a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alexrichi/screener-v2 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-25 8 → 2026-11-26 8（+0）
 
 
 ---

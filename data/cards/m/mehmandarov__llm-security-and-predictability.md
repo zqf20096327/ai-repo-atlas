@@ -1,6 +1,6 @@
 # mehmandarov/llm-security-and-predictability
 
-⭐ 10 · Java · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/mehmandarov/llm-security-and-predictability) · 个人维护
+⭐ 10 · Java · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/mehmandarov/llm-security-and-predictability) · 个人维护
 
 **Java 开发者的 LLM 应用安全与确定性模式示例集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mehmandarov/llm-security-and-predictability 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-25 10（+0）
+2026-11-02 10 → 2026-11-26 10（+0）
 
 
 ---

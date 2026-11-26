@@ -1,6 +1,6 @@
 # JMcrafter26/awesome-ai-tools
 
-⭐ 68 · Python · 推送 2026-09-21 · [GitHub](https://github.com/JMcrafter26/awesome-ai-tools) · 个人维护
+⭐ 69 · Python · 推送 2026-09-21 · [GitHub](https://github.com/JMcrafter26/awesome-ai-tools) · 个人维护
 
 **GitHub 上的 AI 工具与仓库策展清单（awesome list）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JMcrafter26/awesome-ai-tools 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 65 --> 69
-    line [66, 67, 68, 68]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 65 --> 70
+    line [66, 67, 68, 69]
 ```
 
-2026-10-23 66 → 2026-11-25 68（+2）
+2026-10-24 66 → 2026-11-26 69（+3）
 
 
 ---

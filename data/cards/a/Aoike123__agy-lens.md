@@ -1,6 +1,6 @@
 # Aoike123/agy-lens
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Aoike123/agy-lens) · [官网](https://github.com/Aoike123/agy-lens#readme) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Aoike123/agy-lens) · [官网](https://github.com/Aoike123/agy-lens#readme) · 个人维护
 
 **Antigravity 2.0 本地配额与上下文监控面板/CLI：只读查看 token 用量**
 
@@ -39,6 +39,18 @@
 
 > L5: **The all-in-one local cockpit & CLI for Antigravity 2.0.**
 > L18: Never get blindsided by a 5-hour wall, silent context trimming, or quiet weekly quota shrinkage again. Agy Lens rea
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Aoike123/agy-lens 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-25 7 → 2026-11-26 7（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tarmojussila/zai-code-review
 
-⭐ 43 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/tarmojussila/zai-code-review) · 个人维护
+⭐ 44 · JavaScript · MIT · 推送 2026-09-16 · [GitHub](https://github.com/tarmojussila/zai-code-review) · 个人维护
 
 **用 Z.ai 模型在 GitHub Actions 中自动审查 PR 的 Action**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tarmojussila/zai-code-review 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-23 43 → 2026-11-25 43（+0）
+2026-10-24 43 → 2026-11-26 44（+1）
 
 
 ---

@@ -44,13 +44,13 @@ Darmstadt 理工大学自 2019 年开设的硕士课程教学仓库，为无或�
 
 ```mermaid
 xychart-beta
-    title "dominikjung42/AIAlgorithmsAndApplications 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 58 --> 61
-    line [59, 60, 60]
+    title "dominikjung42/AIAlgorithmsAndApplications 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 59 --> 61
+    line [60, 60]
 ```
 
-2026-10-23 59 → 2026-11-25 60（+1）
+2026-10-24 60 → 2026-11-26 60（+0）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "manu12121999/GIMP-Selection-Refiner 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 31 --> 34
-    line [33, 32, 32]
+    title "manu12121999/GIMP-Selection-Refiner 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 31 --> 33
+    line [32, 32]
 ```
 
-2026-10-23 33 → 2026-11-25 32（-1）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

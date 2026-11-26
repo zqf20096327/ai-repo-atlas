@@ -1,6 +1,6 @@
 # whudk/EVLab-CMCD
 
-⭐ 11 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/whudk/EVLab-CMCD) · 组织维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/whudk/EVLab-CMCD) · 组织维护 · 中文 README
 
 **历史土地利用图与遥感影像的跨模态变化检测**
 
@@ -45,12 +45,12 @@ EVLab-CMCD 仓库提供 CMPANet 变化检测模型的清理版单卡 PyTorch 实
 ```mermaid
 xychart-beta
     title "whudk/EVLab-CMCD 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

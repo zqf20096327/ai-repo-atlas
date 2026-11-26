@@ -1,6 +1,6 @@
 # Hebbian-Robotics/pareto
 
-⭐ 12 · Rust · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/Hebbian-Robotics/pareto) · [官网](https://pareto.hebbianrobotics.com) · 组织维护
+⭐ 13 · Rust · Apache-2.0 · 推送 2026-07-27 · [GitHub](https://github.com/Hebbian-Robotics/pareto) · [官网](https://pareto.hebbianrobotics.com) · 组织维护
 
 **为机器人团队从演示数据中筛选训练样本的数据策展系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hebbian-Robotics/pareto 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-23 10 → 2026-11-25 12（+2）
+2026-10-24 10 → 2026-11-26 13（+3）
 
 
 ---

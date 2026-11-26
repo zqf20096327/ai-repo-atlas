@@ -1,6 +1,6 @@
 # vandroogenbroeckmarc/doi2bib
 
-⭐ 43 · TeX · AGPL-3.0 · 推送 2026-06-02 · [GitHub](https://github.com/vandroogenbroeckmarc/doi2bib) · 个人维护
+⭐ 43 · TeX · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/vandroogenbroeckmarc/doi2bib) · 个人维护
 
 **科研作者用：把 DOI/arXiv 链接转换为规范 BiBTeX 条目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vandroogenbroeckmarc/doi2bib 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-10-23 43 → 2026-11-25 43（+0）
+2026-10-24 43 → 2026-11-26 43（+0）
 
 
 ---

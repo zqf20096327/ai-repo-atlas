@@ -45,12 +45,12 @@ PHDMamba 论文（IEEE Geoscience and Remote Sensing Letters 2025）的 PyTorch 
 ```mermaid
 xychart-beta
     title "YichuXu/PHDMamba 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

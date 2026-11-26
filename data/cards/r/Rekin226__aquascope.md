@@ -1,6 +1,6 @@
 # Rekin226/aquascope
 
-⭐ 31 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Rekin226/aquascope) · [官网](https://rekin226-aquascope-explorer.static.hf.space/) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Rekin226/aquascope) · [官网](https://rekin226-aquascope-explorer.static.hf.space/) · 个人维护
 
 **浏览器端水文数据分析工具：统一37个全球水数据源并自动执行分析流程**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "Rekin226/aquascope 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 29 --> 32
     line [30, 31, 30, 31, 31]
 ```
 
-2026-10-23 30 → 2026-11-25 31（+1）
+2026-10-24 30 → 2026-11-26 31（+1）
 
 
 ---

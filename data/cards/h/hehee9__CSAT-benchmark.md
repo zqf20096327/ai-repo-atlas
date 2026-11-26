@@ -1,6 +1,6 @@
 # hehee9/CSAT-benchmark
 
-⭐ 159 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/hehee9/CSAT-benchmark) · [官网](https://hehee9.github.io/CSAT-benchmark/) · 个人维护
+⭐ 160 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/hehee9/CSAT-benchmark) · [官网](https://hehee9.github.io/CSAT-benchmark/) · 个人维护
 
 **记录各 LLM 解答韩国高考（수능）成绩的基准数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hehee9/CSAT-benchmark 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 158 --> 160
-    line [159, 159]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 158 --> 161
+    line [159, 160]
 ```
 
-2026-11-22 159 → 2026-11-25 159（+0）
+2026-11-22 159 → 2026-11-26 160（+1）
 
 
 ---

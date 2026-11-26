@@ -1,6 +1,6 @@
 # pickeld/pick-a-recipe
 
-⭐ 57 · Python · 推送 2026-11-23 · [GitHub](https://github.com/pickeld/pick-a-recipe) · 个人维护
+⭐ 58 · Python · 推送 2026-11-23 · [GitHub](https://github.com/pickeld/pick-a-recipe) · 个人维护
 
 **从 TikTok/YouTube/Instagram 视频提取食谱并导入自托管菜谱管理器**
 
@@ -46,12 +46,12 @@ Python/Flask 自托管应用：用 yt-dlp 下载 TikTok、YouTube、Instagram �
 ```mermaid
 xychart-beta
     title "pickeld/pick-a-recipe 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 49 --> 58
-    line [50, 51, 52, 53, 51, 55, 56, 57, 57]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 49 --> 59
+    line [50, 51, 52, 53, 51, 55, 56, 57, 58]
 ```
 
-2026-10-23 50 → 2026-11-25 57（+7）
+2026-10-24 50 → 2026-11-26 58（+8）
 
 
 ---

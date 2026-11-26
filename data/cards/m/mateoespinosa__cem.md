@@ -1,6 +1,6 @@
 # mateoespinosa/cem
 
-⭐ 86 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/mateoespinosa/cem) · [官网](https://arxiv.org/abs/2209.09056) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-04-05 · [GitHub](https://github.com/mateoespinosa/cem) · [官网](https://arxiv.org/abs/2209.09056) · 个人维护
 
 **概念瓶颈/概念嵌入可解释神经网络模型族的 PyTorch 官方实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mateoespinosa/cem 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 84 --> 87
+    line [86, 85]
 ```
 
-2026-10-23 86 → 2026-11-25 86（+0）
+2026-10-24 86 → 2026-11-26 85（-1）
 
 
 ---

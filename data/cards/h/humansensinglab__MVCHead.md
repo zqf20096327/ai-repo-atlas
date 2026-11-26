@@ -1,6 +1,6 @@
 # humansensinglab/MVCHead
 
-⭐ 28 · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/humansensinglab/MVCHead) · [官网](https://humansensinglab.github.io/MVCHead/) · 组织维护
+⭐ 29 · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/humansensinglab/MVCHead) · [官网](https://humansensinglab.github.io/MVCHead/) · 组织维护
 
 **单视角图像生成多视角一致 3D 高斯头像的研究项目**
 
@@ -45,12 +45,12 @@ CVPR 2026 论文项目，作者来自卡内基梅隆大学。提出 MVCHead：�
 ```mermaid
 xychart-beta
     title "humansensinglab/MVCHead 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 26 --> 29
-    line [27, 28, 27, 28, 28]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 26 --> 30
+    line [27, 28, 27, 28, 29]
 ```
 
-2026-10-23 27 → 2026-11-25 28（+1）
+2026-10-24 27 → 2026-11-26 29（+2）
 
 
 ---

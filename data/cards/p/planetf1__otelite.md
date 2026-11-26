@@ -1,6 +1,6 @@
 # planetf1/otelite
 
-⭐ 99 · Rust · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/planetf1/otelite) · [官网](https://github.com/planetf1/otelite) · 个人维护
+⭐ 100 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/planetf1/otelite) · [官网](https://github.com/planetf1/otelite) · 个人维护
 
 **本地 LLM 开发用的轻量 OpenTelemetry 接收与可视化工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "planetf1/otelite 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 95 --> 100
-    line [97, 96, 97, 98, 99, 99]
+    title "planetf1/otelite 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 95 --> 101
+    line [96, 97, 98, 99, 100]
 ```
 
-2026-10-23 97 → 2026-11-25 99（+2）
+2026-10-24 96 → 2026-11-26 100（+4）
 
 
 ---

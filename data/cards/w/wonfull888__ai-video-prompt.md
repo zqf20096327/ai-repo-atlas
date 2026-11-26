@@ -1,6 +1,6 @@
 # wonfull888/ai-video-prompt
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/wonfull888/ai-video-prompt) · [官网](https://bestprompts.app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **为 AI 视频创作者从参考视频反向生成可复用提示词**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

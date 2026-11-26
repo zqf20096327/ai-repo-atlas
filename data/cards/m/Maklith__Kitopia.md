@@ -1,6 +1,6 @@
 # Maklith/Kitopia
 
-⭐ 27 · C# · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Maklith/Kitopia) · 个人维护 · 中文 README
+⭐ 28 · C# · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Maklith/Kitopia) · 个人维护 · 中文 README
 
 **带本地 AI 语义搜索与离线 OCR 的桌面效率工具箱**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Maklith/Kitopia 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 25 --> 29
+    line [26, 27, 28]
 ```
 
-2026-10-23 26 → 2026-11-25 27（+1）
+2026-10-24 26 → 2026-11-26 28（+2）
 
 
 ---

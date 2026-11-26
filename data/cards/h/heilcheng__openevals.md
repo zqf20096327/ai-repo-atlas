@@ -1,6 +1,6 @@
 # heilcheng/openevals
 
-⭐ 139 · Python · MIT · 推送 2025-12-29 · [GitHub](https://github.com/heilcheng/openevals) · [官网](http://haileycheng.com/openevals/) · 个人维护
+⭐ 138 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/heilcheng/openevals) · [官网](http://haileycheng.com/openevals/) · 个人维护
 
 **开源权重语言模型的评测基准框架（GSoC 2025 项目）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heilcheng/openevals 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 138 --> 140
-    line [139, 139]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 137 --> 140
+    line [139, 138]
 ```
 
-2026-10-23 139 → 2026-11-25 139（+0）
+2026-10-24 139 → 2026-11-26 138（-1）
 
 
 ---

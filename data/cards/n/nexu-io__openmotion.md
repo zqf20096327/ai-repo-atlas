@@ -1,6 +1,6 @@
 # nexu-io/openmotion
 
-⭐ 15,713 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nexu-io/openmotion) · [官网](https://open-design.ai/motion/) · 组织维护 · 中文 README
+⭐ 16,322 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/nexu-io/openmotion) · [官网](https://open-design.ai/motion/) · 组织维护 · 中文 README
 
 **开源的 agentic 视频工作室：把参考视频重做成带品牌素材的可编辑动效视频**
 
@@ -45,13 +45,13 @@ OpenMotion 是全栈 agentic 视频工作室，定位为 Claude Motion 与 CapCu
 
 ```mermaid
 xychart-beta
-    title "nexu-io/openmotion 星数(近 8 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 9498 --> 16278
-    line [10063, 10867, 11770, 12797, 13844, 14626, 15246, 15713]
+    title "nexu-io/openmotion 星数(近 9 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9438 --> 16947
+    line [10063, 10867, 11770, 12797, 13844, 14626, 15246, 15713, 16322]
 ```
 
-2026-11-16 10,063 → 2026-11-25 15,713（+5,650）
+2026-11-16 10,063 → 2026-11-26 16,322（+6,259）
 
 
 ---

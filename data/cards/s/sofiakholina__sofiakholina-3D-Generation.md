@@ -1,6 +1,6 @@
 # sofiakholina/sofiakholina-3D-Generation
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/sofiakholina/sofiakholina-3D-Generation) · [官网](https://sofiakholina.taplink.ws/) · 个人维护
+⭐ 24 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/sofiakholina/sofiakholina-3D-Generation) · [官网](https://sofiakholina.taplink.ws/) · 个人维护
 
 **在 ComfyUI 中从单张或多张视图生成无纹理 3D 模型的 3 个 workflow 及安装器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sofiakholina/sofiakholina-3D-Generation 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 4 --> 16
-    line [5, 10, 14, 15]
+    title "sofiakholina/sofiakholina-3D-Generation 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 25
+    line [5, 10, 14, 15, 24]
 ```
 
-2026-11-21 5 → 2026-11-25 15（+10）
+2026-11-21 5 → 2026-11-26 24（+19）
 
 
 ---

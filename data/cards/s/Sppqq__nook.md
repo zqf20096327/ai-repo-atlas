@@ -1,6 +1,6 @@
 # Sppqq/nook
 
-⭐ 4 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Sppqq/nook) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Sppqq/nook) · 个人维护
 
 **自托管 Telegram 服务器管理 AI 助手，可通过对话自我扩展**
 
@@ -46,12 +46,12 @@ Nook 是一个自托管的 Telegram 助手，运行于 Linux 服务器上，用�
 ```mermaid
 xychart-beta
     title "Sppqq/nook 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

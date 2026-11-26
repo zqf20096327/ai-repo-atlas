@@ -1,6 +1,6 @@
 # Dicklesworthstone/bio_inspired_nanochat
 
-⭐ 62 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Dicklesworthstone/bio_inspired_nanochat) · 个人维护
+⭐ 62 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Dicklesworthstone/bio_inspired_nanochat) · 个人维护
 
 **Nanochat 研究分叉：用生物启发机制替代静态权重的语言模型**
 
@@ -46,12 +46,12 @@ Karpathy Nanochat 的研究分支，将静态权重替换为突触蛋白的计�
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/bio_inspired_nanochat 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 61 --> 63
     line [62, 62]
 ```
 
-2026-10-23 62 → 2026-11-25 62（+0）
+2026-10-24 62 → 2026-11-26 62（+0）
 
 
 ---

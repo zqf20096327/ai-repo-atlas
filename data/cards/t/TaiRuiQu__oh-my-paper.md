@@ -42,6 +42,18 @@ Oh My Paper 是面向 K12 教师、学生和学校的开源教学平台：上传
 > L40: 小纸会按任务需要查找信息、使用平台功能，并给出可继续查看或编辑的结果。它沿用当前账号的权限，处理过程可以查看，也可以停止。AI 识别、答案和评分需要教师核验，正式成绩由有权限的教师确认和发布。
 > L52: 推荐使用 **Linux 服务器 + Docker Compose**。准备一个指向服务器的域名，开放 80、443 端口，安装 Git、Docker Engine、Compose、Buildx 和 Python 3。AI 功能需
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TaiRuiQu/oh-my-paper 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5009218c3a36` · [字段定义](../../DATASET.md)*

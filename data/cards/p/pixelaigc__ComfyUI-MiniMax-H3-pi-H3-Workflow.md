@@ -1,6 +1,6 @@
 # pixelaigc/ComfyUI-MiniMax-H3-pi-H3-Workflow
 
-⭐ 47 · 推送 2026-11-23 · [GitHub](https://github.com/pixelaigc/ComfyUI-MiniMax-H3-pi-H3-Workflow) · [官网](https://pixelaigc.cc) · 个人维护 · 中文 README
+⭐ 80 · 推送 2026-11-23 · [GitHub](https://github.com/pixelaigc/ComfyUI-MiniMax-H3-pi-H3-Workflow) · [官网](https://pixelaigc.cc) · 个人维护 · 中文 README
 
 **ComfyUI 首尾帧音视频生成工作流，面向 RTX 3060 用户**
 
@@ -39,6 +39,18 @@
 
 > L16: 这是一个面向 **MiniMax H3** 的 ComfyUI **FL2VA（First/Last Frame to Video and Audio）** 工作流。它可以根据提示词与首帧、尾帧生成带同步音频的视频，并通过 pi-
 > L144: This repository provides a ComfyUI FL2VA workflow for **MiniMax H3 + pi-H3**. It generates synchronized video and 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pixelaigc/ComfyUI-MiniMax-H3-pi-H3-Workflow 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 44 --> 83
+    line [47, 80]
+```
+
+2026-11-25 47 → 2026-11-26 80（+33）
 
 
 ---

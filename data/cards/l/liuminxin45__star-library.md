@@ -1,6 +1,6 @@
 # liuminxin45/star-library
 
-⭐ 8 · C · MIT · 推送 2026-11-03 · [GitHub](https://github.com/liuminxin45/star-library) · [官网](https://www.liuminxin.cn/works/star-library) · 个人维护 · 中文 README
+⭐ 9 · C · MIT · 推送 2026-11-03 · [GitHub](https://github.com/liuminxin45/star-library) · [官网](https://www.liuminxin.cn/works/star-library) · 个人维护 · 中文 README
 
 **给 GitHub 收藏者的本地星标管理器：中文概括与发现**
 
@@ -46,12 +46,12 @@ Windows 原生的 GitHub Stars 管理器，用 Win32/Direct2D 实现为单文件
 ```mermaid
 xychart-beta
     title "liuminxin45/star-library 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 4 --> 9
-    line [5, 6, 7, 8, 8]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 4 --> 10
+    line [5, 6, 7, 8, 9]
 ```
 
-2026-10-26 5 → 2026-11-25 8（+3）
+2026-10-26 5 → 2026-11-26 9（+4）
 
 
 ---

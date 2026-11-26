@@ -1,6 +1,6 @@
 # ollygarden/opentelemetry-agent-skills
 
-⭐ 126 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ollygarden/opentelemetry-agent-skills) · [官网](https://ollygarden.com/resources/agent-skills) · 组织维护
+⭐ 126 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ollygarden/opentelemetry-agent-skills) · [官网](https://ollygarden.com/resources/agent-skills) · 组织维护
 
 **给 AI 编码 agent 的厂商中立 OpenTelemetry 技能知识包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ollygarden/opentelemetry-agent-skills 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 113 --> 127
-    line [114, 115, 116, 117, 118, 119, 120, 116, 125, 126, 126]
+    title "ollygarden/opentelemetry-agent-skills 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 114 --> 127
+    line [115, 116, 117, 118, 119, 120, 116, 125, 126, 126]
 ```
 
-2026-10-23 114 → 2026-11-25 126（+12）
+2026-10-24 115 → 2026-11-26 126（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # sb-ai-lab/RePlay
 
-⭐ 417 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/sb-ai-lab/RePlay) · [官网](https://sb-ai-lab.github.io/RePlay/) · 组织维护
+⭐ 417 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/sb-ai-lab/RePlay) · [官网](https://sb-ai-lab.github.io/RePlay/) · 组织维护
 
 **推荐系统全流程开发与评估框架：数据处理到上线**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sb-ai-lab/RePlay 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 415 --> 418
     line [416, 417, 416, 417, 417]
 ```
 
-2026-10-23 416 → 2026-11-25 417（+1）
+2026-10-24 416 → 2026-11-26 417（+1）
 
 
 ---

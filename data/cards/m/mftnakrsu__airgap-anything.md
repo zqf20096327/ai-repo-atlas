@@ -1,6 +1,6 @@
 # mftnakrsu/airgap-anything
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mftnakrsu/airgap-anything) · [官网](https://airgap-anything.mefby.com) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mftnakrsu/airgap-anything) · [官网](https://airgap-anything.mefby.com) · 个人维护
 
 **为离线隔离环境设计 LLM 系统的 agent 技能**
 
@@ -40,6 +40,18 @@
 > L14: `airgap-anything` is a home for agent skills that design systems for networks without internet access. Its first sk
 > L89: > Design an air-gapped LLM platform for my organization.
 > L30: |`airgap-architect`|Interviews you and writes the blueprint, GPU sizing, the agent block and the transfer manifest 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mftnakrsu/airgap-anything 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

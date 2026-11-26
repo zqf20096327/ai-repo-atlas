@@ -1,6 +1,6 @@
 # higekibaka/dsh-vertex-argon
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/higekibaka/dsh-vertex-argon) · [官网](https://www.npmjs.com/package/dsh-vertex-argon) · 个人维护 · 中文 README
+⭐ 11 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/higekibaka/dsh-vertex-argon) · [官网](https://www.npmjs.com/package/dsh-vertex-argon) · 个人维护 · 中文 README
 
 **DSH 的 Gemini 4 双通道适配插件：接入 Vertex AI 与 Gemini API**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "higekibaka/dsh-vertex-argon 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-25"]
+    title "higekibaka/dsh-vertex-argon 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 4 --> 12
-    line [5, 6, 7, 8, 9, 11]
+    line [5, 6, 7, 8, 9, 11, 11]
 ```
 
-2026-10-23 5 → 2026-11-25 11（+6）
+2026-10-24 5 → 2026-11-26 11（+6）
 
 
 ---

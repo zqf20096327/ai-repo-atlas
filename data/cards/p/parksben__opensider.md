@@ -1,6 +1,6 @@
 # parksben/opensider
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/parksben/opensider) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/parksben/opensider) · 个人维护 · 中文 README
 
 **驱动本地 Agent CLI 操作网页的浏览器侧边栏扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "parksben/opensider 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-15", "2026-11-26"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 18（+2）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

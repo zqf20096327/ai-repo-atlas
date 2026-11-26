@@ -1,6 +1,6 @@
 # eiler2005/slidecraft
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/eiler2005/slidecraft) · [官网](https://eiler2005.github.io/slidecraft/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **从一个提示生成可编辑咨询级 PowerPoint 的 CLI 工具**
 
@@ -11,7 +11,7 @@ SlideCraft 是一个零安装 Node CLI，通过用户的 AI 助手（Claude Code
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

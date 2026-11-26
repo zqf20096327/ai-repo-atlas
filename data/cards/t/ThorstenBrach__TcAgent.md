@@ -1,6 +1,6 @@
 # ThorstenBrach/TcAgent
 
-⭐ 17 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThorstenBrach/TcAgent) · 个人维护
+⭐ 18 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThorstenBrach/TcAgent) · 个人维护
 
 **让 AI 编码代理操作 TwinCAT 3 IDE 的 MCP 服务器与 VS 扩展**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThorstenBrach/TcAgent 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 10 --> 18
-    line [11, 12, 14, 15, 16, 17]
+    title "ThorstenBrach/TcAgent 星数(近 7 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 19
+    line [11, 12, 14, 15, 16, 17, 18]
 ```
 
-2026-11-19 11 → 2026-11-25 17（+6）
+2026-11-19 11 → 2026-11-26 18（+7）
 
 
 ---

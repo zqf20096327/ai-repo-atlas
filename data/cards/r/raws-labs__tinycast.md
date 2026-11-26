@@ -1,6 +1,6 @@
 # raws-labs/tinycast
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-09-12 · [GitHub](https://github.com/raws-labs/tinycast) · [官网](https://arxiv.org/abs/2608.15767) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为嵌入式设备提供 146K 参数的零样本概率时序预测模型**
 
@@ -11,7 +11,7 @@ TinyCast 是一个 146,505 参数的注意力-free 时序基础模型，对未�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

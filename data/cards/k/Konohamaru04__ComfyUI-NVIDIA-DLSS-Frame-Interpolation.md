@@ -1,6 +1,6 @@
 # Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation
 
-⭐ 141 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation) · 个人维护
+⭐ 142 · Python · MIT · 推送 2026-09-17 · [GitHub](https://github.com/Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation) · 个人维护
 
 **ComfyUI 自定义节点：DLSS 5 视频/图像超分与插帧**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Konohamaru04/ComfyUI-NVIDIA-DLSS-Frame-Interpolation 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 137 --> 143
-    line [138, 139, 140, 141, 142, 138, 141, 141]
+    line [138, 139, 140, 141, 142, 138, 141, 142]
 ```
 
-2026-10-23 138 → 2026-11-25 141（+3）
+2026-10-24 138 → 2026-11-26 142（+4）
 
 
 ---

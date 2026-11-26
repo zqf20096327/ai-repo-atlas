@@ -1,6 +1,6 @@
 # adityakamath/ros2-skill
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-07-16 · [GitHub](https://github.com/adityakamath/ros2-skill) · [官网](kamathrobotics.com) · 个人维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/adityakamath/ros2-skill) · [官网](kamathrobotics.com) · 个人维护
 
 **让 AI agent 通过自然语言控制 ROS 2 机器人的技能包**
 
@@ -45,12 +45,12 @@ Agent Skill 形式的 ROS 2 机器人控制工具：AI agent 读取 SKILL.md 理
 ```mermaid
 xychart-beta
     title "adityakamath/ros2-skill 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-23 20 → 2026-11-25 21（+1）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # woldann/exoproc
 
-⭐ 102 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/woldann/exoproc) · 个人维护
+⭐ 103 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/woldann/exoproc) · 个人维护
 
 **让 AI agent 经 MCP 检查与插桩 Windows x64 进程的 CLI 工具箱**
 
@@ -47,12 +47,12 @@ Exoproc 提供 21 个工具的 MCP 服务器与独立终端 CLI，面向 Windows
 ```mermaid
 xychart-beta
     title "woldann/exoproc 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
-    y-axis "stars" 101 --> 103
-    line [102, 102]
+    x-axis ["2026-11-20", "2026-11-26"]
+    y-axis "stars" 101 --> 104
+    line [102, 103]
 ```
 
-2026-11-20 102 → 2026-11-25 102（+0）
+2026-11-20 102 → 2026-11-26 103（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Adelie-Squad/solosquad
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Adelie-Squad/solosquad) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Adelie-Squad/solosquad) · 组织维护
 
 **面向独立创始人的 24/7 AI 团队助手系统（Discord 机器人）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Adelie-Squad/solosquad 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 24 --> 30
     line [25, 29, 29]
 ```
 
-2026-10-23 25 → 2026-11-25 29（+4）
+2026-10-24 25 → 2026-11-26 29（+4）
 
 
 ---

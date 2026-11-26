@@ -1,6 +1,6 @@
 # wlmosv-png/apk-index
 
-⭐ 15 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/wlmosv-png/apk-index) · 个人维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/wlmosv-png/apk-index) · 个人维护 · 中文 README
 
 **零依赖 Python 的 APK/AAR/DEX 静态索引 MCP Server，供 Agent 逆向查询**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wlmosv-png/apk-index 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-13", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-13", "2026-11-16", "2026-11-26"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 16, 15, 15]
+    line [14, 15, 16, 15, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

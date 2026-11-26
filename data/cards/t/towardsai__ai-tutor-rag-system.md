@@ -1,6 +1,6 @@
 # towardsai/ai-tutor-rag-system
 
-⭐ 244 · Jupyter Notebook · 推送 2026-10-08 · [GitHub](https://github.com/towardsai/ai-tutor-rag-system) · [官网](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev) · 组织维护
+⭐ 244 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/towardsai/ai-tutor-rag-system) · [官网](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev) · 组织维护
 
 **RAG 课程配套 Jupyter 教学笔记本合集**
 
@@ -44,12 +44,12 @@ Towards AI 的 'From Beginner to LLM Developer' 课程仓库，内容为一组 J
 ```mermaid
 xychart-beta
     title "towardsai/ai-tutor-rag-system 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 243 --> 245
     line [244, 244]
 ```
 
-2026-10-23 244 → 2026-11-25 244（+0）
+2026-10-24 244 → 2026-11-26 244（+0）
 
 
 ---

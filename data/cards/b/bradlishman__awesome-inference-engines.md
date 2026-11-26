@@ -39,6 +39,18 @@
 > L3: Inference engines and execution systems for large language models, from portable local runtimes to highly specialize
 > L7: This is a curated technical reference, not a leaderboard. Performance claims should be evaluated against matching mo
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "bradlishman/awesome-inference-engines 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `19987655e615` · [字段定义](../../DATASET.md)*

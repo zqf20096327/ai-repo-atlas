@@ -1,6 +1,6 @@
 # voxel51/fiftyone-plugins
 
-⭐ 145 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/voxel51/fiftyone-plugins) · [官网](https://docs.voxel51.com/plugins) · 组织维护
+⭐ 146 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/voxel51/fiftyone-plugins) · [官网](https://docs.voxel51.com/plugins) · 组织维护
 
 **FiftyOne 插件策展清单：计算机视觉工作流扩展集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "voxel51/fiftyone-plugins 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 144 --> 146
-    line [145, 145]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 144 --> 147
+    line [145, 146]
 ```
 
-2026-10-23 145 → 2026-11-25 145（+0）
+2026-10-24 145 → 2026-11-26 146（+1）
 
 
 ---

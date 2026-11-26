@@ -1,6 +1,6 @@
 # Am4nn/90x
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/Am4nn/90x) · [官网](https://90x.amanarya.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向求职者的 DSA 与系统设计 AI 面试备考应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

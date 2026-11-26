@@ -1,6 +1,6 @@
 # loupistai/loupist
 
-⭐ 4 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/loupistai/loupist) · [官网](https://loupist.com) · 组织维护 · 中文 README
+⭐ 6 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/loupistai/loupist) · [官网](https://loupist.com) · 组织维护 · 中文 README
 
 **面向投资者的本地优先 AI 投资研究桌面应用**
 
@@ -39,6 +39,18 @@
 
 > L7: A research companion for investors, on your Mac. It reads filings and market data, checks each figure it cites again
 > L66: - **Your AI account.** Continue with ChatGPT or SuperGrok, or add an API key from Anthropic, OpenAI, Google Gemini,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "loupistai/loupist 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 7
+    line [4, 6]
+```
+
+2026-11-25 4 → 2026-11-26 6（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # melgarafael/tino-ai
 
-⭐ 14 · JavaScript · 推送 2026-05-18 · [GitHub](https://github.com/melgarafael/tino-ai) · 个人维护
+⭐ 15 · JavaScript · 推送 2026-05-18 · [GitHub](https://github.com/melgarafael/tino-ai) · 个人维护
 
 **本地优先的 AI 资讯策展工具：跑在 Claude Code 内，按你的 Obsidian 笔记排序资讯**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "melgarafael/tino-ai 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 15（+2）
 
 
 ---

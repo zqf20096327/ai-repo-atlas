@@ -1,6 +1,6 @@
 # LPD-EPFL/byzfl
 
-⭐ 36 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/LPD-EPFL/byzfl) · [官网](https://byzfl.epfl.ch/) · 组织维护
+⭐ 37 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/LPD-EPFL/byzfl) · [官网](https://byzfl.epfl.ch/) · 组织维护
 
 **健壮联邦学习 Python 库：抗拜占庭聚合与攻击仿真**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LPD-EPFL/byzfl 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 35 --> 38
+    line [36, 37]
 ```
 
-2026-10-23 36 → 2026-11-25 36（+0）
+2026-10-24 36 → 2026-11-26 37（+1）
 
 
 ---

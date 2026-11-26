@@ -1,6 +1,6 @@
 # team-telnyx/telnyx-code-examples
 
-⭐ 170 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
+⭐ 170 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/team-telnyx/telnyx-code-examples) · [官网](https://developers.telnyx.com) · 组织维护
 
 **Telnyx 通信平台的代码示例集：Voice AI、呼叫、SMS 等**
 
@@ -45,13 +45,13 @@ Telnyx 官方维护的生产级代码示例仓库，每个示例为独立项目�
 
 ```mermaid
 xychart-beta
-    title "team-telnyx/telnyx-code-examples 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 161 --> 171
-    line [162, 163, 164, 165, 163, 166, 167, 168, 169, 170, 170]
+    title "team-telnyx/telnyx-code-examples 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 162 --> 171
+    line [163, 164, 165, 163, 166, 167, 168, 169, 170, 170]
 ```
 
-2026-10-23 162 → 2026-11-25 170（+8）
+2026-10-24 163 → 2026-11-26 170（+7）
 
 
 ---

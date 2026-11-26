@@ -45,13 +45,13 @@ CasanovoGUI 是 Casanovo 的桌面图形界面，封装其命令行子命令—�
 
 ```mermaid
 xychart-beta
-    title "Noble-Lab/CasanovoGUI 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-25"]
+    title "Noble-Lab/CasanovoGUI 星数(近 3 点)"
+    x-axis ["2026-11-14", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-11-14 10 → 2026-11-25 11（+1）
+2026-11-14 10 → 2026-11-26 11（+1）
 
 
 ---

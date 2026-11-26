@@ -1,6 +1,6 @@
 # HaoyueQin/dsh-better-reasoning-effort
 
-⭐ 69 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HaoyueQin/dsh-better-reasoning-effort) · [官网](https://awesome-dsh-plugin.com/p/HaoyueQin/dsh-better-reasoning-effort) · 个人维护 · 中文 README
+⭐ 70 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/HaoyueQin/dsh-better-reasoning-effort) · [官网](https://awesome-dsh-plugin.com/p/HaoyueQin/dsh-better-reasoning-effort) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：在官方页面编辑第三方模型的推理力度**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HaoyueQin/dsh-better-reasoning-effort 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 63 --> 70
-    line [64, 65, 67, 68, 69, 69]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 63 --> 71
+    line [64, 65, 67, 68, 69, 70]
 ```
 
-2026-10-23 64 → 2026-11-25 69（+5）
+2026-10-24 64 → 2026-11-26 70（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ephemeral-AI-Lab/mayfly
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Ephemeral-AI-Lab/mayfly) · [官网](https://may-fly.dev) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Ephemeral-AI-Lab/mayfly) · [官网](https://may-fly.dev) · 组织维护
 
 **给 DeepSeek Harness（dsh）编码代理的终端 UI 前端**
 
@@ -46,12 +46,12 @@ Mayfly 是 DeepSeek Harness（dsh）的交互式终端 UI，以基于 dsh-base �
 ```mermaid
 xychart-beta
     title "Ephemeral-AI-Lab/mayfly 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 22, 23, 23]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 22, 23, 24]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 24（+2）
 
 
 ---

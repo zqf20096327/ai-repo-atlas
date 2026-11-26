@@ -45,12 +45,12 @@ ClearML 出品的 PyCharm 插件：把本地仓库信息同步到远程执行/�
 ```mermaid
 xychart-beta
     title "clearml/clearml-pycharm-plugin 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-23 36 → 2026-11-25 36（+0）
+2026-10-24 36 → 2026-11-26 36（+0）
 
 
 ---

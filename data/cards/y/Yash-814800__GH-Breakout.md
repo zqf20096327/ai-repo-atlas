@@ -1,6 +1,6 @@
 # Yash-814800/GH-Breakout
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Yash-814800/GH-Breakout) · [官网](https://yash-814800.github.io/GH-Breakout/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Yash-814800/GH-Breakout) · [官网](https://yash-814800.github.io/GH-Breakout/) · 个人维护
 
 **每日公开的新 GitHub 仓库突破预测排行榜，带可验证记录**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yash-814800/GH-Breakout 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    title "Yash-814800/GH-Breakout 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
 ```
 
-2026-10-23 4 → 2026-11-25 5（+1）
+2026-10-24 5 → 2026-11-26 5（+0）
 
 
 ---

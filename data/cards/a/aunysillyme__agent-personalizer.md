@@ -1,6 +1,6 @@
 # aunysillyme/agent-personalizer
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aunysillyme/agent-personalizer) · [官网](https://agent-personalizer.aunysillyme.dev) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aunysillyme/agent-personalizer) · [官网](https://agent-personalizer.aunysillyme.dev) · 个人维护
 
 **从单一源为多个 AI 客户端生成并同步自定义指令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "aunysillyme/agent-personalizer 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-26", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 6 --> 17
-    line [7, 10, 11, 13, 14, 16]
+    title "aunysillyme/agent-personalizer 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-26", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 19
+    line [7, 10, 11, 13, 14, 16, 18]
 ```
 
-2026-10-18 7 → 2026-11-25 16（+9）
+2026-10-18 7 → 2026-11-26 18（+11）
 
 
 ---

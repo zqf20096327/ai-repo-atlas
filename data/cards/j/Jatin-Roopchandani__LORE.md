@@ -1,6 +1,6 @@
 # Jatin-Roopchandani/LORE
 
-⭐ 55 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jatin-Roopchandani/LORE) · [官网](https://lore.jrvn.site) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jatin-Roopchandani/LORE) · [官网](https://lore.jrvn.site) · 个人维护
 
 **AI 阅读器：把电子书变成知识图谱并逐句引文回答问题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jatin-Roopchandani/LORE 星数(近 8 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 10 --> 59
-    line [14, 19, 25, 38, 47, 52, 55, 55]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 10 --> 60
+    line [14, 19, 25, 38, 47, 52, 55, 56]
 ```
 
-2026-11-14 14 → 2026-11-25 55（+41）
+2026-11-14 14 → 2026-11-26 56（+42）
 
 
 ---

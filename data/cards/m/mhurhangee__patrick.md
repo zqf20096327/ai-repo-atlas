@@ -45,12 +45,12 @@ Windows 桌面应用，AI agent 在用户自己的 .docx 文件中以 Word 原�
 ```mermaid
 xychart-beta
     title "mhurhangee/patrick 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 24（+0）
 
 
 ---

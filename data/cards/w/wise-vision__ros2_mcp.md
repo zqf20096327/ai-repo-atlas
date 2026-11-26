@@ -1,6 +1,6 @@
 # wise-vision/ros2_mcp
 
-⭐ 99 · Python · MPL-2.0 · 推送 2026-10-21 · [GitHub](https://github.com/wise-vision/ros2_mcp) · [官网](https://wisevision.tech) · 组织维护
+⭐ 99 · Python · MPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/wise-vision/ros2_mcp) · [官网](https://wisevision.tech) · 组织维护
 
 **让 AI agent 直接操作 ROS 2 机器人的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wise-vision/ros2_mcp 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 94 --> 100
     line [95, 96, 97, 98, 95, 99, 99]
 ```
 
-2026-10-23 95 → 2026-11-25 99（+4）
+2026-10-24 95 → 2026-11-26 99（+4）
 
 
 ---

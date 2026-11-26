@@ -1,6 +1,6 @@
 # ebbapanagiotou44/llm-key-rotator
 
-⭐ 41 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ebbapanagiotou44/llm-key-rotator) · 个人维护
+⭐ 41 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ebbapanagiotou44/llm-key-rotator) · [官网](https://github.com/ebbapanagiotou44/llm-key-rotator/releases) · 个人维护
 
 **为多 LLM API 密钥池化轮换、避免 429 的 Windows 运行时**
 
@@ -39,6 +39,18 @@
 
 > L5:  LLM Key Rotator — Multi-Provider API Key Pool with Automatic 429 Rotation (Portable x64 Build, JSON Configuration):
 > L20: **LLM Key Rotator — One pool, many keys, zero 429s** (`llm-key-rotator`) is a dedicated, low-overhead runtime and c
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ebbapanagiotou44/llm-key-rotator 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-11-25 41 → 2026-11-26 41（+0）
 
 
 ---

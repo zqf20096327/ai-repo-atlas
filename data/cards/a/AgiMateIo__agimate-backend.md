@@ -1,6 +1,6 @@
 # AgiMateIo/agimate-backend
 
-⭐ 14 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AgiMateIo/agimate-backend) · [官网](https://agimate.io) · 组织维护 · 中文 README
+⭐ 14 · Java · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/AgiMateIo/agimate-backend) · [官网](https://agimate.io) · 组织维护 · 中文 README
 
 **自托管多 agent 平台后端：凭证不出平台、出站调用逐次校验留痕**
 
@@ -46,12 +46,12 @@ AgiMate 平台的后端服务，按 Gradle 多模块组织：user-api 提供账�
 ```mermaid
 xychart-beta
     title "AgiMateIo/agimate-backend 星数(近 4 点)"
-    x-axis ["2026-11-01", "2026-11-10", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-01", "2026-11-10", "2026-11-19", "2026-11-26"]
     y-axis "stars" 10 --> 15
     line [11, 12, 14, 14]
 ```
 
-2026-11-01 11 → 2026-11-25 14（+3）
+2026-11-01 11 → 2026-11-26 14（+3）
 
 
 ---

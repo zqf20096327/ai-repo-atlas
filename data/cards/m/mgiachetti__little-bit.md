@@ -1,6 +1,6 @@
 # mgiachetti/little-bit
 
-⭐ 7 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mgiachetti/little-bit) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/mgiachetti/little-bit) · 个人维护
 
 **LLM 亚1比特压缩方法的 PyTorch 复现研究库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mgiachetti/little-bit 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 4 --> 8
-    line [5, 7]
+    title "mgiachetti/little-bit 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 9
+    line [5, 7, 8]
 ```
 
-2026-11-23 5 → 2026-11-25 7（+2）
+2026-11-23 5 → 2026-11-26 8（+3）
 
 
 ---

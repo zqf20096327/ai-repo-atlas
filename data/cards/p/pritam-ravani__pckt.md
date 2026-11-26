@@ -1,6 +1,6 @@
 # pritam-ravani/pckt
 
-⭐ 11 · Dart · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/pritam-ravani/pckt) · [官网](https://github.com/pritam-ravani/pckt/releases/latest) · 个人维护
+⭐ 12 · Dart · GPL-3.0 · 推送 2026-10-22 · [GitHub](https://github.com/pritam-ravani/pckt) · [官网](https://github.com/pritam-ravani/pckt/releases/latest) · 个人维护
 
 **面向个人用户的安卓本地记账应用：从银行短信/邮件自动生成账目**
 
@@ -47,12 +47,12 @@ Android 记账应用，读取手机上已有的银行/信用卡/UPI 短信与邮
 ```mermaid
 xychart-beta
     title "pritam-ravani/pckt 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 3 --> 12
-    line [4, 5, 6, 7, 4, 10, 11, 11]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 3 --> 13
+    line [4, 5, 6, 7, 4, 10, 11, 12]
 ```
 
-2026-10-24 4 → 2026-11-25 11（+7）
+2026-10-24 4 → 2026-11-26 12（+8）
 
 
 ---

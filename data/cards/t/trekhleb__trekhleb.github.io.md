@@ -1,6 +1,6 @@
 # trekhleb/trekhleb.github.io
 
-⭐ 241 · TypeScript · 0BSD · 推送 2026-11-23 · [GitHub](https://github.com/trekhleb/trekhleb.github.io) · [官网](https://trekhleb.dev) · 个人维护
+⭐ 241 · TypeScript · 0BSD · 推送 2026-11-25 · [GitHub](https://github.com/trekhleb/trekhleb.github.io) · [官网](https://trekhleb.dev) · 个人维护
 
 **个人网站源码：汇总开源项目与学习类博客文章**
 
@@ -43,12 +43,12 @@ Oleksii Trekhleb 的个人网站 trekhleb.dev 的源码，基于 Gatsby 构建�
 ```mermaid
 xychart-beta
     title "trekhleb/trekhleb.github.io 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 240 --> 242
     line [241, 241]
 ```
 
-2026-10-23 241 → 2026-11-25 241（+0）
+2026-10-24 241 → 2026-11-26 241（+0）
 
 
 ---

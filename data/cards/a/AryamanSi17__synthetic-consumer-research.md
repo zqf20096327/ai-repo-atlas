@@ -41,6 +41,18 @@
 > L35: 3. **Scores every answer with SSR.** Each answer becomes a probability for each rating from 1 to 5, not a single gu
 > L55: SSR lets the model answer like a person ("I like it, but $29 is a lot for me right now"). It then measures how clos
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AryamanSi17/synthetic-consumer-research 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `0bea6a3f2278` · [字段定义](../../DATASET.md)*

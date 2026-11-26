@@ -1,6 +1,6 @@
 # deusyu/translate-book
 
-⭐ 2,461 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/deusyu/translate-book) · [官网](https://translate.dyu.sh/en/) · 个人维护
+⭐ 2,473 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/deusyu/translate-book) · [官网](https://translate.dyu.sh/en/) · 个人维护
 
 **让 Claude Code 等 Agent 用并行子代理整本翻译书籍的技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "deusyu/translate-book 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 2455 --> 2462
-    line [2456, 2461]
+    title "deusyu/translate-book 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2455 --> 2474
+    line [2456, 2461, 2473]
 ```
 
-2026-11-23 2,456 → 2026-11-25 2,461（+5）
+2026-11-23 2,456 → 2026-11-26 2,473（+17）
 
 
 ---

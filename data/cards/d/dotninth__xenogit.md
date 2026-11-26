@@ -1,6 +1,6 @@
 # dotninth/xenogit
 
-⭐ 10 · PHP · MIT · 推送 2026-09-06 · [GitHub](https://github.com/dotninth/xenogit) · 个人维护
+⭐ 10 · PHP · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dotninth/xenogit) · 个人维护
 
 **开发者 CLI：用 Gemini 生成 Git 提交信息**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dotninth/xenogit 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

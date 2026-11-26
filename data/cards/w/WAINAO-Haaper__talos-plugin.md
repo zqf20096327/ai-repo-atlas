@@ -1,6 +1,6 @@
 # WAINAO-Haaper/talos-plugin
 
-⭐ 25 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/WAINAO-Haaper/talos-plugin) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/WAINAO-Haaper/talos-plugin) · 个人维护 · 中文 README
 
 **把 Obsidian Vault 变为可治理的个人 AI 工作台插件**
 
@@ -46,12 +46,12 @@ Obsidian 原生桌面插件，将 Vault 内任务、项目、知识、收件箱�
 ```mermaid
 xychart-beta
     title "WAINAO-Haaper/talos-plugin 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 20 --> 26
-    line [21, 22, 23, 21, 25, 25]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 20 --> 27
+    line [21, 22, 23, 21, 25, 26]
 ```
 
-2026-10-23 21 → 2026-11-25 25（+4）
+2026-10-24 21 → 2026-11-26 26（+5）
 
 
 ---

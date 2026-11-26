@@ -1,6 +1,6 @@
 # MARKASCHARAN/BorrowIQ
 
-⭐ 15 · TypeScript · 推送 2026-03-09 · [GitHub](https://github.com/MARKASCHARAN/BorrowIQ) · [官网](https://borrowiq.vercel.app) · 个人维护
+⭐ 17 · TypeScript · 推送 2026-03-09 · [GitHub](https://github.com/MARKASCHARAN/BorrowIQ) · [官网](https://borrowiq.vercel.app) · 个人维护
 
 **给 DeFi 借贷用户的链上信用评分与动态定价协议**
 
@@ -40,6 +40,18 @@
 > L15: **BorrowIQ** is a next-generation DeFi lending protocol built on the **Creditcoin Network** that replaces capital-i
 > L21: 1. **🧠 AI Credit Scoring:** Our Python/FastAPI backend analyzes a wallet's on-chain history (transaction counts, wa
 > L28: BorrowIQ utilizes a 4-layer architecture coordinating the user's wallet, the React frontend, the off-chain Python A
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MARKASCHARAN/BorrowIQ 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [15, 17]
+```
+
+2026-11-25 15 → 2026-11-26 17（+2）
 
 
 ---

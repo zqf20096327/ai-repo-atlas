@@ -1,6 +1,6 @@
 # ambroise-leclerc/WebFront
 
-⭐ 46 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ambroise-leclerc/WebFront) · 个人维护
+⭐ 47 · C++ · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ambroise-leclerc/WebFront) · 个人维护
 
 **C++23 header-only 库：用 TypeScript/React 构建原生窗口界面**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ambroise-leclerc/WebFront 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 44 --> 47
-    line [45, 46, 46]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47]
 ```
 
-2026-10-23 45 → 2026-11-25 46（+1）
+2026-10-24 45 → 2026-11-26 47（+2）
 
 
 ---

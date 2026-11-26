@@ -1,6 +1,6 @@
 # besidka/besidka
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/besidka/besidka) · [官网](https://besidka.com) · 个人维护
+⭐ 30 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/besidka/besidka) · [官网](https://besidka.com) · 个人维护
 
 **自带 API Key 的开源 AI 聊天应用，按用量付费**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "besidka/besidka 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "besidka/besidka 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 27 --> 31
-    line [28, 30]
+    line [28, 30, 30]
 ```
 
-2026-10-23 28 → 2026-11-25 30（+2）
+2026-10-24 28 → 2026-11-26 30（+2）
 
 
 ---

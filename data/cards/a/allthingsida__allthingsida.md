@@ -1,6 +1,6 @@
 # allthingsida/allthingsida
 
-⭐ 193 · Assembly · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/allthingsida/allthingsida) · [官网](https://www.youtube.com/@allthingsida) · 个人维护
+⭐ 194 · Assembly · NOASSERTION · 推送 2026-07-20 · [GitHub](https://github.com/allthingsida/allthingsida) · [官网](https://www.youtube.com/@allthingsida) · 个人维护
 
 **IDA Pro 逆向工程视频频道的配套代码片段合集**
 
@@ -44,12 +44,12 @@ All Things IDA YouTube 频道与 X 账号的官方代码仓库，收录视频中
 ```mermaid
 xychart-beta
     title "allthingsida/allthingsida 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 192 --> 195
-    line [194, 193, 194, 193, 194, 193, 193]
+    line [194, 193, 194, 193, 194, 193, 194]
 ```
 
-2026-10-23 194 → 2026-11-25 193（-1）
+2026-10-24 194 → 2026-11-26 194（+0）
 
 
 ---

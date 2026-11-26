@@ -1,6 +1,6 @@
 # jinzcdev/leetcode-mcp-server
 
-⭐ 159 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/jinzcdev/leetcode-mcp-server) · [官网](https://www.npmjs.com/package/@jinzcdev/leetcode-mcp-server) · 个人维护 · 中文 README
+⭐ 160 · TypeScript · MIT · 推送 2026-11-12 · [GitHub](https://github.com/jinzcdev/leetcode-mcp-server) · [官网](https://www.npmjs.com/package/@jinzcdev/leetcode-mcp-server) · 个人维护 · 中文 README
 
 **为 MCP 客户端接入 LeetCode 题目与用户数据的工具服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jinzcdev/leetcode-mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 153 --> 160
-    line [154, 155, 157, 158, 159]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 154 --> 161
+    line [155, 157, 158, 159, 160]
 ```
 
-2026-10-23 154 → 2026-11-25 159（+5）
+2026-10-24 155 → 2026-11-26 160（+5）
 
 
 ---

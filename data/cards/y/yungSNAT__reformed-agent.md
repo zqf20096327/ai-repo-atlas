@@ -1,6 +1,6 @@
 # yungSNAT/reformed-agent
 
-⭐ 6 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/yungSNAT/reformed-agent) · 个人维护
+⭐ 6 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/yungSNAT/reformed-agent) · 个人维护
 
 **面向开发者的 Rust 自治 agent 运行时，Hermes Agent 移植版**
 
@@ -40,6 +40,18 @@
 > L10: Rust-first autonomous agent runtime with functional parity goals against `NousResearch/hermes-agent`. Reformed Agen
 > L131: |Cron, MCP, ACP, skills, subagents|Yes (`hermes-cron`, `hermes-mcp`, `hermes-acp`, `hermes-skills`, `delegation.rs
 > L72: Gateway mode, in the foreground. Without chat platforms the gateway serves only cron jobs and HTTP webhooks; `herme
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yungSNAT/reformed-agent 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-25 6 → 2026-11-26 6（+0）
 
 
 ---

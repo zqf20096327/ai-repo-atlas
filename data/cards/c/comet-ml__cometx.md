@@ -1,6 +1,6 @@
 # comet-ml/cometx
 
-⭐ 16 · Python · MIT · 推送 2026-10-29 · [GitHub](https://github.com/comet-ml/cometx) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/comet-ml/cometx) · 组织维护
 
 **Comet ML 的社区开源 CLI 扩展：实验数据下载、迁移与管理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "comet-ml/cometx 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 16, 16]
+    title "comet-ml/cometx 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 14 --> 17
+    line [15, 16, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 16（+2）
+2026-10-24 15 → 2026-11-26 16（+1）
 
 
 ---

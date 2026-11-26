@@ -1,6 +1,6 @@
 # SimulaMet/SimpleAudit
 
-⭐ 33 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SimulaMet/SimpleAudit) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/SimulaMet/SimpleAudit) · 组织维护
 
 **本地优先的多语言 AI 安全审计与红队测试框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SimulaMet/SimpleAudit 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 27 --> 34
-    line [28, 29, 30, 31, 29, 31, 32, 33]
+    title "SimulaMet/SimpleAudit 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 27 --> 35
+    line [28, 29, 30, 31, 29, 31, 32, 33, 34]
 ```
 
-2026-10-23 28 → 2026-11-25 33（+5）
+2026-10-24 28 → 2026-11-26 34（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # lihaiya/freeipcc
 
-⭐ 133 · TypeScript · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/lihaiya/freeipcc) · [官网](https://www.freeipcc.com) · 组织维护 · 中文 README
+⭐ 133 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/lihaiya/freeipcc) · [官网](https://www.freeipcc.com) · 组织维护 · 中文 README
 
 **开源大模型呼叫中心/客服系统：话务、工单、质检与AI机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lihaiya/freeipcc 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-26"]
     y-axis "stars" 128 --> 134
     line [129, 131, 132, 133, 133]
 ```
 
-2026-10-23 129 → 2026-11-25 133（+4）
+2026-10-24 129 → 2026-11-26 133（+4）
 
 
 ---

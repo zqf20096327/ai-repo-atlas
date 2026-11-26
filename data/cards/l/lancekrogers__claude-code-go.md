@@ -1,6 +1,6 @@
 # lancekrogers/claude-code-go
 
-⭐ 59 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/lancekrogers/claude-code-go) · 个人维护
+⭐ 58 · Go · MIT · 推送 2026-11-12 · [GitHub](https://github.com/lancekrogers/claude-code-go) · 个人维护
 
 **非官方 Go SDK：在 Go 程序中封装调用 Claude Code CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lancekrogers/claude-code-go 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-26"]
     y-axis "stars" 52 --> 60
-    line [53, 55, 57, 58, 59, 59]
+    line [53, 55, 57, 58, 59, 58]
 ```
 
-2026-10-23 53 → 2026-11-25 59（+6）
+2026-10-24 53 → 2026-11-26 58（+5）
 
 
 ---

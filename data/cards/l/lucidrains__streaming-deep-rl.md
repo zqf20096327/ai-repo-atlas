@@ -44,12 +44,12 @@ University of Alberta 提出的 Streaming Deep Reinforcement Learning 方法的�
 ```mermaid
 xychart-beta
     title "lucidrains/streaming-deep-rl 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

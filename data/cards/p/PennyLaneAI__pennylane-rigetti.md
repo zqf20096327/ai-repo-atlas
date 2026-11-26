@@ -1,6 +1,6 @@
 # PennyLaneAI/pennylane-rigetti
 
-⭐ 46 · Python · BSD-3-Clause · 推送 2026-08-18 · [GitHub](https://github.com/PennyLaneAI/pennylane-rigetti) · [官网](https://docs.pennylane.ai/projects/rigetti) · 组织维护
+⭐ 45 · Python · BSD-3-Clause · 推送 2026-08-18 · [GitHub](https://github.com/PennyLaneAI/pennylane-rigetti) · [官网](https://docs.pennylane.ai/projects/rigetti) · 组织维护
 
 **PennyLane 的 Rigetti 量子设备接入插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PennyLaneAI/pennylane-rigetti 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 45 --> 47
-    line [46, 46]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 44 --> 47
+    line [46, 45]
 ```
 
-2026-10-23 46 → 2026-11-25 46（+0）
+2026-10-24 46 → 2026-11-26 45（-1）
 
 
 ---

@@ -45,12 +45,12 @@ IJCNN2025 论文 'Evaluating and Enhancing LLMs for Multi-turn Text-to-SQL with 
 ```mermaid
 xychart-beta
     title "mcxiaoxiao/MMSQL 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

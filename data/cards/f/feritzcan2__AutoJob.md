@@ -1,6 +1,6 @@
 # feritzcan2/AutoJob
 
-⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/feritzcan2/AutoJob) · [官网](https://feritzcan2.github.io/AutoJob/) · 个人维护
+⭐ 14 · JavaScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/feritzcan2/AutoJob) · [官网](https://feritzcan2.github.io/AutoJob/) · 个人维护
 
 **求职者桌面应用：抓取职位、评分匹配并自动投递**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "feritzcan2/AutoJob 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 7 --> 14
-    line [8, 9, 10, 11, 12, 13, 13]
+    title "feritzcan2/AutoJob 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 8 --> 15
+    line [9, 10, 11, 12, 13, 14]
 ```
 
-2026-10-23 8 → 2026-11-25 13（+5）
+2026-10-24 9 → 2026-11-26 14（+5）
 
 
 ---

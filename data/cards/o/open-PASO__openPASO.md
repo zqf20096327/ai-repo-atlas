@@ -1,6 +1,6 @@
 # open-PASO/openPASO
 
-⭐ 29 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/open-PASO/openPASO) · [官网](https://open-paso.github.io/openPASO/) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/open-PASO/openPASO) · [官网](https://open-paso.github.io/openPASO/) · 组织维护
 
 **MCP 服务器：让 AI 模型调用并运行 9 个有限元/多物理求解器**
 
@@ -45,12 +45,12 @@ open Platform for Agentic Simulation and Optimization：一个 MCP server，把 
 ```mermaid
 xychart-beta
     title "open-PASO/openPASO 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 30（+1）
 
 
 ---

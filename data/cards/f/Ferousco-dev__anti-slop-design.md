@@ -1,6 +1,6 @@
 # Ferousco-dev/anti-slop-design
 
-⭐ 21 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/Ferousco-dev/anti-slop-design) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/Ferousco-dev/anti-slop-design) · 个人维护
 
 **给 Claude 的设计规范 Skill：阻止 AI 生成千篇一律的界面**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ferousco-dev/anti-slop-design 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 15 --> 22
-    line [16, 17, 18, 17, 21, 21]
+    title "Ferousco-dev/anti-slop-design 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 17, 21, 22]
 ```
 
-2026-10-23 16 → 2026-11-25 21（+5）
+2026-10-24 17 → 2026-11-26 22（+5）
 
 
 ---

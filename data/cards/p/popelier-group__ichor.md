@@ -1,6 +1,6 @@
 # popelier-group/ichor
 
-⭐ 22 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/popelier-group/ichor) · [官网](https://ichor.readthedocs.io/) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/popelier-group/ichor) · [官网](https://ichor.readthedocs.io/) · 组织维护
 
 **计算化学数据管理 Python 库，辅助机器学习力场开发**
 
@@ -45,12 +45,12 @@ Python 包，面向计算化学与机器学习力场开发场景的数据管理�
 ```mermaid
 xychart-beta
     title "popelier-group/ichor 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 20 --> 23
     line [21, 22, 21, 22, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 22（+1）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

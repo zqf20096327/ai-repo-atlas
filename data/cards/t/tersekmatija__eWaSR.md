@@ -1,6 +1,6 @@
 # tersekmatija/eWaSR
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/tersekmatija/eWaSR) · 组织维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/tersekmatija/eWaSR) · 组织维护
 
 **面向嵌入式计算的海上障碍物检测网络 PyTorch 实现**
 
@@ -45,12 +45,12 @@ eWaSR 的官方 PyTorch 实现：WaSR 的嵌入式计算变体，基于轻量 tr
 ```mermaid
 xychart-beta
     title "tersekmatija/eWaSR 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-23 39 → 2026-11-25 39（+0）
+2026-10-24 39 → 2026-11-26 40（+1）
 
 
 ---

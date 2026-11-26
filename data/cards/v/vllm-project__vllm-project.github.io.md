@@ -1,6 +1,6 @@
 # vllm-project/vllm-project.github.io
 
-⭐ 76 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/vllm-project.github.io) · [官网](https://vllm.ai/blog) · 组织维护
+⭐ 78 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/vllm-project/vllm-project.github.io) · [官网](https://vllm.ai/blog) · 组织维护
 
 **vLLM 官方博客站点的 Jekyll 源码与博文写作指南**
 
@@ -44,12 +44,12 @@ vLLM 项目的 GitHub Pages 博客源码仓库，基于 Jekyll 与 Minima 主题
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-project.github.io 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 75 --> 79
+    line [76, 78]
 ```
 
-2026-10-23 76 → 2026-11-25 76（+0）
+2026-10-24 76 → 2026-11-26 78（+2）
 
 
 ---

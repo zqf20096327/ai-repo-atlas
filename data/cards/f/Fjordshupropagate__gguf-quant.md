@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fjordshupropagate/gguf-quant 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
+    title "Fjordshupropagate/gguf-quant 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 20
-    line [17, 19, 3, 3]
+    line [19, 3, 3]
 ```
 
-2026-10-23 17 → 2026-11-25 3（-14）
+2026-10-24 19 → 2026-11-26 3（-16）
 
 
 ---

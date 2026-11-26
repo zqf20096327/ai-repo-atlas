@@ -1,6 +1,6 @@
 # marvincaspar/agent-sandbox
 
-⭐ 10 · Shell · 推送 2026-11-20 · [GitHub](https://github.com/marvincaspar/agent-sandbox) · 个人维护
+⭐ 10 · Shell · 推送 2026-11-25 · [GitHub](https://github.com/marvincaspar/agent-sandbox) · 个人维护
 
 **在隔离 Docker 容器中运行 AI 编码代理的安全沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "marvincaspar/agent-sandbox 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-25 10（+0）
+2026-11-20 10 → 2026-11-26 10（+0）
 
 
 ---

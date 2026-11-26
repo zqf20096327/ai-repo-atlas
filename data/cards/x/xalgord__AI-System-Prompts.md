@@ -1,6 +1,6 @@
 # xalgord/AI-System-Prompts
 
-⭐ 86 · 推送 2025-11-29 · [GitHub](https://github.com/xalgord/AI-System-Prompts) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **用于 Gemini 的网络安全 agent 系统提示词（渗透测试）**
 

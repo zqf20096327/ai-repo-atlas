@@ -1,6 +1,6 @@
 # jongko54/webEmbedding
 
-⭐ 15 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/jongko54/webEmbedding) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jongko54/webEmbedding) · 个人维护
 
 **给 AI 编程 agent 的网页克隆引擎：按 URL 生成带自验证的克隆**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jongko54/webEmbedding 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-16", "2026-11-26"]
     y-axis "stars" 11 --> 16
     line [12, 14, 15, 15]
 ```
 
-2026-11-10 12 → 2026-11-25 15（+3）
+2026-11-10 12 → 2026-11-26 15（+3）
 
 
 ---

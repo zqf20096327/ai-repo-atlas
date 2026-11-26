@@ -1,6 +1,6 @@
 # JCodesMore/youtube-for-ai-agents
 
-⭐ 69 · TypeScript · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/JCodesMore/youtube-for-ai-agents) · [官网](https://dsc.gg/jcodesmore) · 个人维护
+⭐ 71 · TypeScript · Apache-2.0 · 推送 2026-04-30 · [GitHub](https://github.com/JCodesMore/youtube-for-ai-agents) · [官网](https://dsc.gg/jcodesmore) · 个人维护
 
 **让 Claude 在聊天中搜索、观看、剪辑 YouTube 视频的 Claude Code 插件**
 
@@ -43,13 +43,13 @@ Claude Code 的 YouTube 插件：以两个技能与一个 agent 的形式封装�
 
 ```mermaid
 xychart-beta
-    title "JCodesMore/youtube-for-ai-agents 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 57 --> 70
-    line [58, 60, 61, 58, 64, 65, 67, 68, 69]
+    title "JCodesMore/youtube-for-ai-agents 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 57 --> 72
+    line [58, 60, 61, 58, 64, 65, 67, 68, 69, 71]
 ```
 
-2026-10-23 58 → 2026-11-25 69（+11）
+2026-10-24 58 → 2026-11-26 71（+13）
 
 
 ---

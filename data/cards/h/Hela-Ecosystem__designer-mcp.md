@@ -1,6 +1,6 @@
 # Hela-Ecosystem/designer-mcp
 
-⭐ 17 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Hela-Ecosystem/designer-mcp) · [官网](http://demo-designer.glassgallery.my.id/) · 组织维护
+⭐ 18 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Hela-Ecosystem/designer-mcp) · [官网](http://demo-designer.glassgallery.my.id/) · 组织维护
 
 **面向生产级 UI/品牌设计的 MCP server：46 个设计工具与质量门**
 
@@ -46,12 +46,12 @@ TypeScript 实现的 Model Context Protocol（MCP）服务器，属于 HeLa MCP 
 ```mermaid
 xychart-beta
     title "Hela-Ecosystem/designer-mcp 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 14 --> 18
-    line [15, 17, 17]
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 14 --> 19
+    line [15, 17, 18]
 ```
 
-2026-11-01 15 → 2026-11-25 17（+2）
+2026-11-01 15 → 2026-11-26 18（+3）
 
 
 ---

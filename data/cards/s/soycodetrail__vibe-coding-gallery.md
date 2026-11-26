@@ -1,6 +1,6 @@
 # soycodetrail/vibe-coding-gallery
 
-⭐ 12 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/soycodetrail/vibe-coding-gallery) · [官网](https://soycodetrail.top/vibe-coding) · 个人维护 · 中文 README
+⭐ 13 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/soycodetrail/vibe-coding-gallery) · [官网](https://soycodetrail.top/vibe-coding) · 个人维护 · 中文 README
 
 **AI 辅助开发作品的中文策展清单（783 条 / 15 分类）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "soycodetrail/vibe-coding-gallery 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "soycodetrail/vibe-coding-gallery 星数(近 4 点)"
+    x-axis ["2026-11-19", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-19 10 → 2026-11-25 12（+2）
+2026-11-19 10 → 2026-11-26 13（+3）
 
 
 ---

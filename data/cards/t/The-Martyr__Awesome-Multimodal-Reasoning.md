@@ -1,6 +1,6 @@
 # The-Martyr/Awesome-Multimodal-Reasoning
 
-⭐ 109 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) · 个人维护
+⭐ 110 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/The-Martyr/Awesome-Multimodal-Reasoning) · 个人维护
 
 **多模态大模型推理与生成的论文清单（研究综述支持用）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-Martyr/Awesome-Multimodal-Reasoning 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 105 --> 110
-    line [106, 107, 106, 107, 108, 109, 109]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 105 --> 111
+    line [106, 107, 106, 107, 108, 109, 110]
 ```
 
-2026-10-23 106 → 2026-11-25 109（+3）
+2026-10-24 106 → 2026-11-26 110（+4）
 
 
 ---

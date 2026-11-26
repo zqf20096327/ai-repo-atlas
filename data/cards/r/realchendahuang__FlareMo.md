@@ -1,6 +1,6 @@
 # realchendahuang/FlareMo
 
-⭐ 364 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/realchendahuang/FlareMo) · [官网](https://flaremo.app) · 个人维护 · 中文 README
+⭐ 371 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/realchendahuang/FlareMo) · [官网](https://flaremo.app) · 个人维护 · 中文 README
 
 **给个人与团队：在 Cloudflare 上零服务器运行的知识库与 AI Agent 笔记记忆**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "realchendahuang/FlareMo 星数(近 9 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 338 --> 366
-    line [340, 352, 354, 355, 356, 357, 362, 363, 364]
+    title "realchendahuang/FlareMo 星数(近 10 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 337 --> 374
+    line [340, 352, 354, 355, 356, 357, 362, 363, 364, 371]
 ```
 
-2026-11-02 340 → 2026-11-25 364（+24）
+2026-11-02 340 → 2026-11-26 371（+31）
 
 
 ---

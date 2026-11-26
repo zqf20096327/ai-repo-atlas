@@ -1,6 +1,6 @@
 # axisvela/praxo-core-haskell
 
-⭐ 3 · Haskell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-haskell) · [官网](https://axisvela.github.io/praxo-core/languages/haskell/) · 组织维护
+⭐ 3 · Haskell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core-haskell) · [官网](https://axisvela.github.io/praxo-core/languages/haskell/) · 组织维护
 
 **Haskell 可嵌入 AI Agent 框架，带策略与检查点**
 
@@ -40,6 +40,18 @@ PRAXO-CORE 的原生 Haskell 实现，MIT 许可，以 Hackage 包 praxo-core �
 
 > L3: PRAXO-CORE is an embeddable, MIT-licensed AI agent framework. This package is its native Haskell Core. It implements
 > L11: |Install|`cabal install praxo-core`|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "axisvela/praxo-core-haskell 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

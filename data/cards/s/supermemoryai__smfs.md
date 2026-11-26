@@ -1,6 +1,6 @@
 # supermemoryai/smfs
 
-⭐ 493 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/supermemoryai/smfs) · [官网](https://smfs.ai) · 组织维护
+⭐ 494 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/supermemoryai/smfs) · [官网](https://smfs.ai) · 组织维护
 
 **把 Supermemory 记忆容器挂载为本地文件系统的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "supermemoryai/smfs 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 489 --> 494
-    line [490, 491, 490, 492, 493, 493]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 489 --> 495
+    line [490, 491, 490, 492, 493, 494]
 ```
 
-2026-10-23 490 → 2026-11-25 493（+3）
+2026-10-24 490 → 2026-11-26 494（+4）
 
 
 ---

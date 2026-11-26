@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TerraLabAI/QGIS_AI-Segmentation 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 41 --> 46
-    line [42, 43, 45, 45]
+    title "TerraLabAI/QGIS_AI-Segmentation 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 42 --> 46
+    line [43, 45, 45]
 ```
 
-2026-10-23 42 → 2026-11-25 45（+3）
+2026-10-24 43 → 2026-11-26 45（+2）
 
 
 ---

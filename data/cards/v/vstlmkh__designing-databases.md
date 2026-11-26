@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vstlmkh/designing-databases 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    title "vstlmkh/designing-databases 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
 ```
 
-2026-10-23 3 → 2026-11-25 4（+1）
+2026-10-24 4 → 2026-11-26 4（+0）
 
 
 ---

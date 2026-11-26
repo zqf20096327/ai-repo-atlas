@@ -1,6 +1,6 @@
 # Future-House/aviary
 
-⭐ 289 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Future-House/aviary) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook/aviary) · 组织维护
+⭐ 291 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Future-House/aviary) · [官网](https://futurehouse.gitbook.io/futurehouse-cookbook/aviary) · 组织维护
 
 **语言智能体强化学习环境库：科学任务的 gymnasium**
 
@@ -45,13 +45,13 @@ Future-House 维护的 Python 库，为语言智能体提供 gymnasium 式的自
 
 ```mermaid
 xychart-beta
-    title "Future-House/aviary 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 283 --> 290
-    line [284, 285, 286, 287, 284, 287, 288, 289]
+    title "Future-House/aviary 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 283 --> 292
+    line [284, 285, 286, 287, 284, 287, 288, 289, 291]
 ```
 
-2026-10-23 284 → 2026-11-25 289（+5）
+2026-10-24 284 → 2026-11-26 291（+7）
 
 
 ---

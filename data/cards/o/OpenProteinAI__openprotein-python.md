@@ -1,6 +1,6 @@
 # OpenProteinAI/openprotein-python
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/OpenProteinAI/openprotein-python) · [官网](https://openprotein.ai) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/OpenProteinAI/openprotein-python) · [官网](https://openprotein.ai) · 组织维护
 
 **OpenProtein.AI REST API 的 Python 客户端，用于蛋白质建模任务**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "OpenProteinAI/openprotein-python 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 17（+0）
 
 
 ---

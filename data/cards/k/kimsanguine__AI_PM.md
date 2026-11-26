@@ -1,6 +1,6 @@
 # kimsanguine/AI_PM
 
-⭐ 59 · Python · NOASSERTION · 推送 2026-10-20 · [GitHub](https://github.com/kimsanguine/AI_PM) · 个人维护
+⭐ 59 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/kimsanguine/AI_PM) · 个人维护
 
 **面向韩国语 PM 的 Claude Code 实战课程（8 部分 + 10 用例）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kimsanguine/AI_PM 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 56 --> 60
     line [57, 58, 57, 59, 59]
 ```
 
-2026-10-23 57 → 2026-11-25 59（+2）
+2026-10-24 57 → 2026-11-26 59（+2）
 
 
 ---

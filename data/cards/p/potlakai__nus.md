@@ -1,6 +1,6 @@
 # potlakai/nus
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/potlakai/nus) · [官网](https://pdaime.github.io/nus/) · 个人维护
+⭐ 17 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/potlakai/nus) · [官网](https://pdaime.github.io/nus/) · 个人维护
 
 **给大学生的 AI 学期管家：读教学大纲安排整学期**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "potlakai/nus 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    title "potlakai/nus 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 11 --> 19
-    line [12, 17, 18]
+    line [12, 17, 18, 17]
 ```
 
-2026-11-22 12 → 2026-11-25 18（+6）
+2026-11-22 12 → 2026-11-26 17（+5）
 
 
 ---

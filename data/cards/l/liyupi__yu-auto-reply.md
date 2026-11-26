@@ -42,6 +42,18 @@
 > L79: 1. 项目定义了统一的 `Answerer` 回答者接口，将不同 AI 模型或规则引擎的回复逻辑封装为可替换的实现类。
 > L89: 借助上述解耦架构，当你需要把 `yu-auto-reply` 接入微信公众号、企业微信、钉钉、飞书、GitHub Issues 等其他平台，或者切换为 DeepSeek、通义千问、智谱 GLM 等其他大模型时，只需要新增对应的实现
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liyupi/yu-auto-reply 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 886 --> 888
+    line [887, 887]
+```
+
+2026-11-25 887 → 2026-11-26 887（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ac4e32a2ed3a` · [字段定义](../../DATASET.md)*

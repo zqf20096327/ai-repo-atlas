@@ -1,6 +1,6 @@
 # openai/openai-structured-outputs-samples
 
-⭐ 689 · TypeScript · MIT · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-structured-outputs-samples) · 组织维护
+⭐ 690 · TypeScript · MIT · 推送 2025-12-15 · [GitHub](https://github.com/openai/openai-structured-outputs-samples) · 组织维护
 
 **OpenAI 结构化输出官方示例应用集（NextJS，3 个示例）**
 
@@ -44,12 +44,12 @@ OpenAI 维护的示例代码仓库，演示 Structured Outputs API 特性：通�
 ```mermaid
 xychart-beta
     title "openai/openai-structured-outputs-samples 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 685 --> 690
-    line [687, 686, 688, 686, 689, 689]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 685 --> 691
+    line [687, 686, 688, 686, 689, 690]
 ```
 
-2026-10-23 687 → 2026-11-25 689（+2）
+2026-10-24 687 → 2026-11-26 690（+3）
 
 
 ---

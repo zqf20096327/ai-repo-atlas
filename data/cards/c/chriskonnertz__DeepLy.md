@@ -42,6 +42,18 @@
 > L12: DeepL API using an API key.
 > L19: This library requires PHP 8.0 or higher and the cURL extension. Install DeepLy trough Composer:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chriskonnertz/DeepLy 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 229 --> 231
+    line [230, 230]
+```
+
+2026-11-25 230 → 2026-11-26 230（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `18d0f72757f2` · [字段定义](../../DATASET.md)*

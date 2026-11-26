@@ -1,6 +1,6 @@
 # jgravelle/jdatamunch-mcp
 
-⭐ 83 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/jgravelle/jdatamunch-mcp) · 个人维护
+⭐ 85 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/jgravelle/jdatamunch-mcp) · 个人维护
 
 **面向编码代理的表格数据检索 MCP 服务器，省 token 查询 CSV/Excel**
 
@@ -46,12 +46,12 @@ jDataMunch 是一个 stdio MCP 服务器，供 Claude Code、Cursor 等 MCP 客�
 ```mermaid
 xychart-beta
     title "jgravelle/jdatamunch-mcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 81 --> 84
-    line [82, 83, 83]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 81 --> 86
+    line [82, 83, 85]
 ```
 
-2026-10-23 82 → 2026-11-25 83（+1）
+2026-10-24 82 → 2026-11-26 85（+3）
 
 
 ---

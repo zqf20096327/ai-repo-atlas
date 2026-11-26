@@ -1,6 +1,6 @@
 # kingabzpro/JobFit-AI
 
-⭐ 19 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/kingabzpro/JobFit-AI) · [官网](https://www.datacamp.com/tutorial/kimi-k2-6-api-tutorial) · 个人维护 · 中文 README
+⭐ 18 · Jupyter Notebook · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/kingabzpro/JobFit-AI) · [官网](https://www.datacamp.com/tutorial/kimi-k2-6-api-tutorial) · 个人维护 · 中文 README
 
 **上传 CV 后由 AI agent 搜索并评分匹配职位的 Gradio 应用**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "kingabzpro/JobFit-AI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 17 --> 20
+    line [19, 18]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 18（-1）
 
 
 ---

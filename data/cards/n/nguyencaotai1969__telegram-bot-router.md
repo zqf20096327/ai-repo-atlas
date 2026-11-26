@@ -1,6 +1,6 @@
 # nguyencaotai1969/telegram-bot-router
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/nguyencaotai1969/telegram-bot-router) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nguyencaotai1969/telegram-bot-router) · 个人维护
 
 **让开发者通过 Telegram 群话题远程操控本机 Claude Code**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nguyencaotai1969/telegram-bot-router 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-26"]
     y-axis "stars" 3 --> 8
     line [4, 5, 7, 7]
 ```
 
-2026-11-10 4 → 2026-11-25 7（+3）
+2026-11-10 4 → 2026-11-26 7（+3）
 
 
 ---

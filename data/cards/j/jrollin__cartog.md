@@ -1,6 +1,6 @@
 # jrollin/cartog
 
-⭐ 20 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jrollin/cartog) · [官网](https://www.cartog.dev) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jrollin/cartog) · [官网](https://www.cartog.dev) · 个人维护
 
 **本地代码知识图谱 CLI/MCP 服务器：图谱结构查询+RAG 语义检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jrollin/cartog 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 17 --> 21
     line [18, 19, 18, 20, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 20（+2）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

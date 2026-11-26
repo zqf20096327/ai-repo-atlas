@@ -1,6 +1,6 @@
 # Ormus-Solutions/LibreUIUX-Claude-Code
 
-⭐ 126 · Shell · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Ormus-Solutions/LibreUIUX-Claude-Code) · [官网](https://ormus.solutions) · 个人维护
+⭐ 127 · Shell · MIT · 推送 2026-10-04 · [GitHub](https://github.com/Ormus-Solutions/LibreUIUX-Claude-Code) · [官网](https://ormus.solutions) · 个人维护
 
 **给 Claude Code 的 UI/UX 插件市场：71 插件/152 agents/74 skills**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ormus-Solutions/LibreUIUX-Claude-Code 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 120 --> 127
-    line [121, 122, 123, 122, 124, 125, 126, 126]
+    title "Ormus-Solutions/LibreUIUX-Claude-Code 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 121 --> 128
+    line [122, 123, 122, 124, 125, 126, 127]
 ```
 
-2026-10-23 121 → 2026-11-25 126（+5）
+2026-10-24 122 → 2026-11-26 127（+5）
 
 
 ---

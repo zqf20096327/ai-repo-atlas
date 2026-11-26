@@ -1,6 +1,6 @@
 # MacPaw/ComposablePipelines
 
-⭐ 29 · Swift · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/MacPaw/ComposablePipelines) · 组织维护
+⭐ 29 · Swift · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/MacPaw/ComposablePipelines) · 组织维护
 
 **Swift 声明式 AI 管道 DSL：编写、编译与执行中间表示框架**
 
@@ -46,12 +46,12 @@ MacPaw 开源的 Swift 6.1+ 包，将 AI 管道分为三层：result-builder 声
 ```mermaid
 xychart-beta
     title "MacPaw/ComposablePipelines 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-26"]
     y-axis "stars" 25 --> 30
     line [26, 27, 28, 29, 29]
 ```
 
-2026-10-23 26 → 2026-11-25 29（+3）
+2026-10-24 26 → 2026-11-26 29（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # cyberdeliaAI/comfyui-cyberdelia-z-engineer
 
-⭐ 16 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cyberdeliaAI/comfyui-cyberdelia-z-engineer) · 组织维护
+⭐ 17 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/cyberdeliaAI/comfyui-cyberdelia-z-engineer) · 组织维护
 
 **ComfyUI 的 LLM 提示词工程节点：自动生成/改写图像提示词**
 
@@ -45,12 +45,12 @@ Cyberdelia AI Lab 开发的 ComfyUI 自定义节点包，通过 LM Studio、Olla
 ```mermaid
 xychart-beta
     title "cyberdeliaAI/comfyui-cyberdelia-z-engineer 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 15 --> 18
-    line [17, 16, 16]
+    line [17, 16, 17]
 ```
 
-2026-10-23 17 → 2026-11-25 16（-1）
+2026-10-24 17 → 2026-11-26 17（+0）
 
 
 ---

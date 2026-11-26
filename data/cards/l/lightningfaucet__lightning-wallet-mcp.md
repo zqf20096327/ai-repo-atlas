@@ -1,6 +1,6 @@
 # lightningfaucet/lightning-wallet-mcp
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lightningfaucet/lightning-wallet-mcp) · [官网](https://lightningfaucet.com/ai-agents/) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lightningfaucet/lightning-wallet-mcp) · [官网](https://lightningfaucet.com/ai-agents/) · 组织维护
 
 **给 AI agent 配比特币闪电钱包的 MCP Server 与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lightningfaucet/lightning-wallet-mcp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

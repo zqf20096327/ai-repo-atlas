@@ -1,6 +1,6 @@
 # hhblaze/DBreeze
 
-⭐ 583 · C# · BSD-2-Clause · 推送 2026-11-11 · [GitHub](https://github.com/hhblaze/DBreeze) · 个人维护
+⭐ 582 · C# · BSD-2-Clause · 推送 2026-11-11 · [GitHub](https://github.com/hhblaze/DBreeze) · 个人维护
 
 **面向 .NET 开发者的嵌入式多范式 NoSQL 数据库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hhblaze/DBreeze 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-25", "2026-11-10", "2026-11-20", "2026-11-25"]
+    title "hhblaze/DBreeze 星数(近 6 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-10", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 580 --> 584
-    line [581, 582, 581, 582, 583]
+    line [581, 582, 581, 582, 583, 582]
 ```
 
-2026-10-22 581 → 2026-11-25 583（+2）
+2026-10-23 581 → 2026-11-26 582（+1）
 
 
 ---

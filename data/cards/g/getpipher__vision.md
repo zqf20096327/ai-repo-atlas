@@ -1,6 +1,6 @@
 # getpipher/vision
 
-⭐ 15 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/getpipher/vision) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-09-02 · [GitHub](https://github.com/getpipher/vision) · 个人维护
 
 **pi 编码 agent 的能力感知视觉扩展：按模型模态决定是否委托图像分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "getpipher/vision 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 16（+1）
 
 
 ---

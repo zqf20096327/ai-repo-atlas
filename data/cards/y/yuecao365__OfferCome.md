@@ -1,6 +1,6 @@
 # yuecao365/OfferCome
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yuecao365/OfferCome) · [官网](https://offercome.yuecao.dev/) · 个人维护 · 中文 README
+⭐ 25 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/yuecao365/OfferCome) · [官网](https://offercome.yuecao.dev/) · 个人维护 · 中文 README
 
 **面向求职者的 AI 求职工作台：投递跟踪、简历管理与模拟面试**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yuecao365/OfferCome 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 25（+1）
 
 
 ---

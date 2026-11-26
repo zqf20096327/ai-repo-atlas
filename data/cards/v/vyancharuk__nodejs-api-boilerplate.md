@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vyancharuk/nodejs-api-boilerplate 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
+    title "vyancharuk/nodejs-api-boilerplate 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 163 --> 166
-    line [164, 165, 164, 164]
+    line [165, 164, 164]
 ```
 
-2026-10-23 164 → 2026-11-25 164（+0）
+2026-10-24 165 → 2026-11-26 164（-1）
 
 
 ---

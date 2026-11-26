@@ -1,6 +1,6 @@
 # Oolab-labs/claude-ide-bridge
 
-⭐ 37 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/Oolab-labs/claude-ide-bridge) · 组织维护
+⭐ 38 · TypeScript · MIT · 推送 2026-04-28 · [GitHub](https://github.com/Oolab-labs/claude-ide-bridge) · 组织维护
 
 **已迁移仓库：原为 Claude Code 提供 IDE 集成的 MCP 桥接**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "Oolab-labs/claude-ide-bridge 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
+    title "Oolab-labs/claude-ide-bridge 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 36 --> 39
-    line [38, 37, 37]
+    line [37, 38]
 ```
 
-2026-10-23 38 → 2026-11-25 37（-1）
+2026-10-24 37 → 2026-11-26 38（+1）
 
 
 ---

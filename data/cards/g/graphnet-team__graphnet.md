@@ -1,6 +1,6 @@
 # graphnet-team/graphnet
 
-⭐ 120 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/graphnet-team/graphnet) · [官网](https://graphnet-team.github.io/graphnet/) · 组织维护
+⭐ 121 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/graphnet-team/graphnet) · [官网](https://graphnet-team.github.io/graphnet/) · 组织维护
 
 **中微子望远镜事件重建的深度学习 Python 框架**
 
@@ -43,13 +43,13 @@ GraphNeT 是面向中微子望远镜（IceCube、KM3NeT 等）的开源 Python �
 
 ```mermaid
 xychart-beta
-    title "graphnet-team/graphnet 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 116 --> 121
-    line [117, 118, 120, 120]
+    title "graphnet-team/graphnet 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 117 --> 122
+    line [118, 120, 121]
 ```
 
-2026-10-23 117 → 2026-11-25 120（+3）
+2026-10-24 118 → 2026-11-26 121（+3）
 
 
 ---

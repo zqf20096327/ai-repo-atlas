@@ -1,6 +1,6 @@
 # swarmauri/swarmauri-sdk
 
-⭐ 106 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/swarmauri/swarmauri-sdk) · [官网](https://swarmauri.com) · 组织维护
+⭐ 107 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/swarmauri/swarmauri-sdk) · [官网](https://swarmauri.com) · 组织维护
 
 **面向 AI agent 的模块化 Python SDK：可组合的组件与集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "swarmauri/swarmauri-sdk 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 103 --> 107
-    line [104, 105, 106, 106]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 103 --> 108
+    line [104, 105, 106, 107]
 ```
 
-2026-10-23 104 → 2026-11-25 106（+2）
+2026-10-24 104 → 2026-11-26 107（+3）
 
 
 ---

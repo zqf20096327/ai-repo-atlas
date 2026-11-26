@@ -1,6 +1,6 @@
 # frangelbarrera/Network-Scanner
 
-⭐ 25 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/frangelbarrera/Network-Scanner) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/frangelbarrera/Network-Scanner) · 个人维护
 
 **AI 辅助的网络侦察与安全评估工具包（CLI/Web/API/PDF 报告）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "frangelbarrera/Network-Scanner 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 23 --> 27
+    line [24, 25, 26]
 ```
 
-2026-10-23 24 → 2026-11-25 25（+1）
+2026-10-24 24 → 2026-11-26 26（+2）
 
 
 ---

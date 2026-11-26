@@ -1,6 +1,6 @@
 # taublast/AgentSignals
 
-⭐ 3 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/taublast/AgentSignals) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/taublast/AgentSignals) · 个人维护
 
 **在单窗口集中管理并监视 Claude Code 会话状态的桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "taublast/AgentSignals 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # xvirobotics/metabot
 
-⭐ 1,010 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/xvirobotics/metabot) · [官网](https://xvirobotics.com/metabot/) · 组织维护 · 中文 README
+⭐ 1,009 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/xvirobotics/metabot) · [官网](https://xvirobotics.com/metabot/) · 组织维护 · 中文 README
 
 **从飞书/Telegram 手机端运行 Codex/Kimi Code 的个人 Agent 工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xvirobotics/metabot 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-26"]
     y-axis "stars" 996 --> 1011
-    line [997, 998, 999, 997, 1005, 1006, 1007, 1009, 1010, 1010]
+    line [997, 998, 999, 997, 1005, 1006, 1007, 1009, 1010, 1009]
 ```
 
-2026-10-23 997 → 2026-11-25 1,010（+13）
+2026-10-24 997 → 2026-11-26 1,009（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # Mintplex-Labs/anything-llm-cli
 
-⭐ 33 · TypeScript · 推送 2026-03-05 · [GitHub](https://github.com/Mintplex-Labs/anything-llm-cli) · [官网](https://anythingllm.com) · 组织维护
+⭐ 34 · TypeScript · 推送 2026-03-05 · [GitHub](https://github.com/Mintplex-Labs/anything-llm-cli) · [官网](https://anythingllm.com) · 组织维护
 
 **终端与 AnythingLLM 实例对话的命令行客户端**
 
@@ -45,12 +45,12 @@ Mintplex-Labs 维护的 CLI 工具，通过 AnythingLLM Developer API 从终端�
 ```mermaid
 xychart-beta
     title "Mintplex-Labs/anything-llm-cli 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-23 33 → 2026-11-25 33（+0）
+2026-10-24 33 → 2026-11-26 34（+1）
 
 
 ---

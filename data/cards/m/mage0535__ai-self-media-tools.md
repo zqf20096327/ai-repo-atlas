@@ -1,6 +1,6 @@
 # mage0535/ai-self-media-tools
 
-⭐ 10 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/mage0535/ai-self-media-tools) · [官网](https://github.com/mage0535/ai-self-media-tools) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mage0535/ai-self-media-tools) · [官网](https://github.com/mage0535/ai-self-media-tools) · 个人维护 · 中文 README
 
 **面向自媒体运营者的多平台内容生成与发布工作流工具箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mage0535/ai-self-media-tools 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-25 10（+0）
+2026-11-20 10 → 2026-11-26 10（+0）
 
 
 ---

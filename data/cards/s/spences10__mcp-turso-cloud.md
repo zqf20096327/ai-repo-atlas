@@ -1,6 +1,6 @@
 # spences10/mcp-turso-cloud
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/spences10/mcp-turso-cloud) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/spences10/mcp-turso-cloud) · 个人维护
 
 **让 LLM 通过 MCP 直接管理与查询 Turso 数据库的服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spences10/mcp-turso-cloud 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-22 18 → 2026-11-25 18（+0）
+2026-10-23 18 → 2026-11-26 18（+0）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "swiss-ai/apertus-finetuning-recipes 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 38 --> 41
-    line [39, 40, 40]
+    title "swiss-ai/apertus-finetuning-recipes 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 39 --> 41
+    line [40, 40]
 ```
 
-2026-10-23 39 → 2026-11-25 40（+1）
+2026-10-24 40 → 2026-11-26 40（+0）
 
 
 ---

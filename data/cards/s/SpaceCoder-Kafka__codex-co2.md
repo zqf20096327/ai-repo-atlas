@@ -1,6 +1,6 @@
 # SpaceCoder-Kafka/codex-co2
 
-⭐ 40 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SpaceCoder-Kafka/codex-co2) · [官网](https://spacecoder-kafka.github.io/codex-co2/) · 组织维护 · 中文 README
+⭐ 45 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SpaceCoder-Kafka/codex-co2) · [官网](https://spacecoder-kafka.github.io/codex-co2/) · 组织维护 · 中文 README
 
 **给 Codex Desktop 加多人协作：队友用浏览器共享同一条 AI 会话**
 
@@ -40,6 +40,18 @@
 > L4:  团队成员用浏览器加入你正在进行的 Codex 会话，直接与同一个 AI 编程 Agent 对话。
 > L65: Co² 接入你已经打开的 Codex Desktop，不会重启、修补或替换它；接口不兼容时直接停止接入。只共享你选中的那条会话，协作者的消息进入原会话，Agent 始终在你的电脑上运行。
 > L81:  Codex Co²（Codex Conversation Collaboration）是独立实验项目，并非 OpenAI 官方产品，也未获 OpenAI 背书。项目代码使用 MIT 许可。随附组件的许可和项目素材的授权范围见许可
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SpaceCoder-Kafka/codex-co2 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 39 --> 46
+    line [40, 45]
+```
+
+2026-11-25 40 → 2026-11-26 45（+5）
 
 
 ---

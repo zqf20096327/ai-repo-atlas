@@ -1,6 +1,6 @@
 # Li-Evan/BloomTutor
 
-⭐ 329 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Li-Evan/BloomTutor) · [官网](https://bloomtutor.app/) · 个人维护 · 中文 README
+⭐ 334 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Li-Evan/BloomTutor) · [官网](https://bloomtutor.app/) · 个人维护 · 中文 README
 
 **给学习者的开源 AI 家教：生成大纲并按反馈自适应授课**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Li-Evan/BloomTutor 星数(近 7 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 311 --> 330
-    line [312, 313, 318, 323, 325, 327, 329]
+    title "Li-Evan/BloomTutor 星数(近 8 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 310 --> 336
+    line [312, 313, 318, 323, 325, 327, 329, 334]
 ```
 
-2026-11-16 312 → 2026-11-25 329（+17）
+2026-11-16 312 → 2026-11-26 334（+22）
 
 
 ---

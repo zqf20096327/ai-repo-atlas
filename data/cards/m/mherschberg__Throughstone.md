@@ -1,6 +1,6 @@
 # mherschberg/Throughstone
 
-⭐ 15 · Shell · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/mherschberg/Throughstone) · [官网](https://throughstone.org) · 个人维护
+⭐ 16 · Shell · BSD-3-Clause · 推送 2026-11-16 · [GitHub](https://github.com/mherschberg/Throughstone) · [官网](https://throughstone.org) · 个人维护
 
 **架构优先的软件项目脚手架：让 AI 编程助手按纪律流程从想法到成品**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mherschberg/Throughstone 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 16（+1）
 
 
 ---

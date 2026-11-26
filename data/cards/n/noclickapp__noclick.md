@@ -1,6 +1,6 @@
 # noclickapp/noclick
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/noclickapp/noclick) · [官网](https://www.noclick.com) · 组织维护
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/noclickapp/noclick) · [官网](https://www.noclick.com) · 组织维护
 
 **开源 AI agent 工作流自动化平台，可视化画布+约160集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "noclickapp/noclick 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 11 --> 15
     line [12, 13, 14, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 14（+2）
+2026-10-24 12 → 2026-11-26 14（+2）
 
 
 ---

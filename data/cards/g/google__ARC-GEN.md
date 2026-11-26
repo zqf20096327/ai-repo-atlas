@@ -1,6 +1,6 @@
 # google/ARC-GEN
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/google/ARC-GEN) · 组织维护
+⭐ 58 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/google/ARC-GEN) · 组织维护
 
 **ARC 抽象推理基准的程序化生成器：复现并扩展 ARC 任务**
 
@@ -45,12 +45,12 @@ Google 发布的 Abstraction and Reasoning Corpus（ARC）仿生程序化基准�
 ```mermaid
 xychart-beta
     title "google/ARC-GEN 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
     y-axis "stars" 56 --> 59
-    line [58, 57, 57]
+    line [58, 57, 58]
 ```
 
-2026-10-23 58 → 2026-11-25 57（-1）
+2026-10-24 58 → 2026-11-26 58（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # groundgrounder/Hortus
 
-⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/groundgrounder/Hortus) · 个人维护 · 中文 README
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/groundgrounder/Hortus) · 个人维护 · 中文 README
 
 **面向 AI agent 的原生 macOS Markdown 知识库阅读器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "groundgrounder/Hortus 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 5 --> 8
-    line [6, 7, 7]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 5 --> 9
+    line [6, 7, 8]
 ```
 
-2026-11-22 6 → 2026-11-25 7（+1）
+2026-11-22 6 → 2026-11-26 8（+2）
 
 
 ---

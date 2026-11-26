@@ -1,6 +1,6 @@
 # NevilPatel01/RVC-WebUI-MacOS
 
-⭐ 61 · Python · AGPL-3.0 · 推送 2026-01-31 · [GitHub](https://github.com/NevilPatel01/RVC-WebUI-MacOS) · 个人维护 · 中文 README
+⭐ 62 · Python · AGPL-3.0 · 推送 2026-01-31 · [GitHub](https://github.com/NevilPatel01/RVC-WebUI-MacOS) · 个人维护 · 中文 README
 
 **面向 Apple Silicon Mac 的语音变换（RVC）训练与推理 WebUI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NevilPatel01/RVC-WebUI-MacOS 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 60, 61, 61]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 60, 61, 62]
 ```
 
-2026-10-23 60 → 2026-11-25 61（+1）
+2026-10-24 60 → 2026-11-26 62（+2）
 
 
 ---

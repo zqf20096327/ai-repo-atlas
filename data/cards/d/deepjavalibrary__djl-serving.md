@@ -1,6 +1,6 @@
 # deepjavalibrary/djl-serving
 
-⭐ 258 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/deepjavalibrary/djl-serving) · 组织维护
+⭐ 258 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/deepjavalibrary/djl-serving) · 组织维护
 
 **通用深度学习模型 HTTP 服务化部署方案（JVM 单机 serving）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "deepjavalibrary/djl-serving 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 253 --> 259
     line [254, 256, 254, 256, 257, 258, 258]
 ```
 
-2026-10-23 254 → 2026-11-25 258（+4）
+2026-10-24 254 → 2026-11-26 258（+4）
 
 
 ---

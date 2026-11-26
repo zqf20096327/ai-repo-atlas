@@ -1,6 +1,6 @@
 # hyhmrright/StockAI
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/hyhmrright/StockAI) · [官网](https://github.com/hyhmrright/StockAI/releases/latest) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hyhmrright/StockAI) · [官网](https://github.com/hyhmrright/StockAI/releases/latest) · 个人维护 · 中文 README
 
 **本地运行的 AI 股票研究桌面应用，覆盖美股与 A 股**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hyhmrright/StockAI 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15, 15]
+    line [13, 14, 15, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 15（+2）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

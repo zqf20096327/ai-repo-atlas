@@ -41,6 +41,18 @@
 > L35: council of five models called **IRADE** (*will, resolve*) makes the **decisions**
 > L178: |14|Onay Merci (approval)|🔴|Blind final approval|`gates.approve`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ayazelrico/Milyonus-Imece 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `51442491dd4d` · [字段定义](../../DATASET.md)*

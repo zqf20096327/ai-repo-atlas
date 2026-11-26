@@ -1,6 +1,6 @@
 # jyjeanne/ditacraft
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jyjeanne/ditacraft) · [官网](https://marketplace.visualstudio.com/items?itemName=JeremyJeanne.ditacraft) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jyjeanne/ditacraft) · [官网](https://marketplace.visualstudio.com/items?itemName=JeremyJeanne.ditacraft) · 个人维护
 
 **VS Code 的 DITA 编辑发布扩展：可视化编辑、校验与 AI 辅助**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "jyjeanne/ditacraft 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

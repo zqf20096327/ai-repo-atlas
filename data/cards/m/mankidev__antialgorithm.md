@@ -1,6 +1,6 @@
 # mankidev/antialgorithm
 
-⭐ 774 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mankidev/antialgorithm) · 个人维护 · 中文 README
+⭐ 878 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mankidev/antialgorithm) · 个人维护 · 中文 README
 
 **面向创意工作的 Agent 技能：让模型脱离首个平均化选择**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mankidev/antialgorithm 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 547 --> 794
-    line [567, 601, 688, 774]
+    title "mankidev/antialgorithm 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 536 --> 909
+    line [567, 601, 688, 774, 878]
 ```
 
-2026-11-21 567 → 2026-11-25 774（+207）
+2026-11-21 567 → 2026-11-26 878（+311）
 
 
 ---

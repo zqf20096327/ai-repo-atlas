@@ -1,6 +1,6 @@
 # imphillip/SoulTavern
 
-⭐ 20 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/imphillip/SoulTavern) · [官网](https://soul.tavern.host/) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-05-11 · [GitHub](https://github.com/imphillip/SoulTavern) · [官网](https://soul.tavern.host/) · 个人维护 · 中文 README
 
 **把 SillyTavern V2 角色卡转换为 SOUL.md 人格文件的 agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "imphillip/SoulTavern 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 14 --> 21
-    line [15, 16, 17, 15, 19, 20]
+    title "imphillip/SoulTavern 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 23
+    line [15, 16, 17, 15, 19, 20, 22]
 ```
 
-2026-10-23 15 → 2026-11-25 20（+5）
+2026-10-24 15 → 2026-11-26 22（+7）
 
 
 ---

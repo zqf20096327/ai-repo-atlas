@@ -1,6 +1,6 @@
 # NegiAkash890/sheaf
 
-⭐ 6 · HTML · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/NegiAkash890/sheaf) · [官网](https://sheaf-site-nine-rouge.vercel.app/) · 个人维护
+⭐ 8 · HTML · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/NegiAkash890/sheaf) · [官网](https://sheaf-site-nine-rouge.vercel.app/) · 个人维护
 
 **本地 AI 整理 Mac 杂乱文件夹的桌面应用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NegiAkash890/sheaf 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 6]
+    title "NegiAkash890/sheaf 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 9
+    line [4, 6, 8]
 ```
 
-2026-11-23 4 → 2026-11-25 6（+2）
+2026-11-23 4 → 2026-11-26 8（+4）
 
 
 ---

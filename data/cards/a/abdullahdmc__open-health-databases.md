@@ -40,6 +40,18 @@
 > L5: A curated, searchable catalogue of **400 freely available health and clinical databases** in 17 categories, such as 
 > L25: ICU, perioperative and emergency care · EHR, cohorts, registries and synthetic data · population and public-health 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "abdullahdmc/open-health-databases 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `437eaabe0dbb` · [字段定义](../../DATASET.md)*

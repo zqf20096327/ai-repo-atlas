@@ -1,6 +1,6 @@
 # Anoise/Adapter
 
-⭐ 12 · Jupyter Notebook · 推送 2026-04-14 · [GitHub](https://github.com/Anoise/Adapter) · 个人维护 · 中文 README
+⭐ 13 · Jupyter Notebook · 推送 2026-04-14 · [GitHub](https://github.com/Anoise/Adapter) · 个人维护 · 中文 README
 
 **后处理式时间序列预测适配器：冻结原模型即可增强已部署预测器**
 
@@ -46,12 +46,12 @@ ICLR 2026 论文官方代码库。提出 δ-Adapter：一种轻量、架构无�
 ```mermaid
 xychart-beta
     title "Anoise/Adapter 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

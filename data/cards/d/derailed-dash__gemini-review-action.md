@@ -1,6 +1,6 @@
 # derailed-dash/gemini-review-action
 
-⭐ 21 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/derailed-dash/gemini-review-action) · [官网](https://github.com/derailed-dash/gemini-review-action) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/derailed-dash/gemini-review-action) · [官网](https://github.com/derailed-dash/gemini-review-action) · 个人维护
 
 **给 GitHub 仓库的 Gemini 自动 PR 代码评审与 Issue 分类 Action**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "derailed-dash/gemini-review-action 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-23", "2026-11-26"]
     y-axis "stars" 17 --> 22
     line [18, 19, 20, 21, 21]
 ```
 
-2026-10-23 18 → 2026-11-25 21（+3）
+2026-10-24 18 → 2026-11-26 21（+3）
 
 
 ---

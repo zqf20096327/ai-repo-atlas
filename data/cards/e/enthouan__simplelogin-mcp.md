@@ -1,6 +1,6 @@
 # enthouan/simplelogin-mcp
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/enthouan/simplelogin-mcp) · [官网](https://simplelogin-mcp.com) · 个人维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/enthouan/simplelogin-mcp) · [官网](https://simplelogin-mcp.com) · 个人维护
 
 **面向 SimpleLogin 用户的自托管 MCP 服务器：用 AI 客户端管理邮件别名**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "enthouan/simplelogin-mcp 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-15", "2026-11-26"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 18（+2）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

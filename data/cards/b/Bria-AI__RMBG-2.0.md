@@ -1,6 +1,6 @@
 # Bria-AI/RMBG-2.0
 
-⭐ 353 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Bria-AI/RMBG-2.0) · [官网](https://bria.ai/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向商用的图像背景去除分割模型，输出灰度 alpha 蒙版**
 
@@ -11,7 +11,7 @@ BRIA AI 开发的二分图像分割模型 RMBG-2.0，基于 BiRefNet 架构，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

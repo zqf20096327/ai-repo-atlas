@@ -1,6 +1,6 @@
 # markswendsen-code/mcp-doordash
 
-⭐ 10 · TypeScript · 推送 2026-04-21 · [GitHub](https://github.com/markswendsen-code/mcp-doordash) · [官网](https://www.npmjs.com/package/@striderlabs/mcp-doordash) · 组织维护
+⭐ 11 · TypeScript · 推送 2026-04-21 · [GitHub](https://github.com/markswendsen-code/mcp-doordash) · [官网](https://www.npmjs.com/package/@striderlabs/mcp-doordash) · 组织维护
 
 **让 AI agent 通过 MCP 下单 DoorDash 外卖的连接器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "markswendsen-code/mcp-doordash 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-12", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-12 10 → 2026-11-25 10（+0）
+2026-11-12 10 → 2026-11-26 11（+1）
 
 
 ---

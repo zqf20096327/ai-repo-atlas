@@ -1,6 +1,6 @@
 # meshery-extensions/digitalocean-academy
 
-⭐ 34 · Makefile · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/meshery-extensions/digitalocean-academy) · 组织维护
+⭐ 34 · Makefile · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/meshery-extensions/digitalocean-academy) · 组织维护
 
 **DigitalOcean 上用 Meshery 管理 AI 服务的教学内容库与认证学院**
 
@@ -45,12 +45,12 @@ Meshery Academy for DigitalOcean 的内容仓库：以 Markdown 编写学习路�
 ```mermaid
 xychart-beta
     title "meshery-extensions/digitalocean-academy 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-23 34 → 2026-11-25 34（+0）
+2026-10-24 34 → 2026-11-26 34（+0）
 
 
 ---

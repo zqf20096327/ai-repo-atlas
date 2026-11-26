@@ -1,6 +1,6 @@
 # the-snowpear/omp-studio
 
-⭐ 229 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/the-snowpear/omp-studio) · 组织维护 · 中文 README
+⭐ 238 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/the-snowpear/omp-studio) · [官网](https://the-snowpear.github.io/omp-studio/) · 组织维护 · 中文 README
 
 **oh-my-pi AI 编码 Agent 的跨平台桌面工作台 GUI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "the-snowpear/omp-studio 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 220 --> 230
-    line [221, 229]
+    title "the-snowpear/omp-studio 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 220 --> 239
+    line [221, 229, 238]
 ```
 
-2026-11-23 221 → 2026-11-25 229（+8）
+2026-11-23 221 → 2026-11-26 238（+17）
 
 
 ---

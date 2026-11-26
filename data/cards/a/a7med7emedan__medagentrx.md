@@ -1,6 +1,6 @@
 # a7med7emedan/medagentrx
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/a7med7emedan/medagentrx) · [官网](https://a7med7emedan.github.io/medagentrx/) · 个人维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/a7med7emedan/medagentrx) · [官网](https://a7med7emedan.github.io/medagentrx/) · 个人维护
 
 **给临床 AI 模型更新做变更控制审查的 Python 门禁工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "a7med7emedan/medagentrx 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 4 --> 11
     line [5, 9, 10, 5, 10, 10]
 ```
 
-2026-10-25 5 → 2026-11-25 10（+5）
+2026-10-25 5 → 2026-11-26 10（+5）
 
 
 ---

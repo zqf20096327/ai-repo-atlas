@@ -1,1 +1,77 @@
-{"fn": "agent-sh/agent-workspace-linux", "sha": "a78514eb1ba5", "source": "readme", "identity": {"one_liner": "给 AI agent 提供隔离 Linux 隐藏桌面的 MCP 服务器", "review": "在 Linux 上为 agent 创建私有 X11 或 Wayland 显示（含独立窗口管理器、应用、剪贴板与浏览器），agent 通过 MCP over stdio 调用工具在其中启动应用、输入、点击、截图和浏览，不占用用户真实桌面；用户可通过浮动查看器观察、暂停或停止。支持 X11/i3/KWin/GNOME/Hyprland/COSMIC 六种后端，提供 doctor 环境检查与权限上限控制。限制：workspace 本身不是沙箱，其中应用以用户身份运行；默认 X11 后端需安装一组系统包。", "highlights": ["六种桌面后端（X11/i3/KWin/GNOME 46/Hyprland/COSMIC），GNOME 46 独立版本运行时", "MCP over stdio 接入 Claude Code、Codex 等 MCP 宿主", "workspace 专属 Chrome 与 DevTools 浏览器自动化命令", "浮动查看器可观察、暂停或停止 agent 操作"], "use_cases": ["让 agent 做应用或网站的 GUI/网页测试而不占用我的桌面", "后台浏览与购物任务在可观看、可停止的隔离浏览器中运行", "为无人值守的长时任务提供一个专属 Linux 桌面"]}, "filters": {"ai_role": "ai-ecosystem", "license_risk": "permissive", "deploy": null, "model_dep": null, "hardware": null, "install_friction": "low", "maturity": null}, "eval": {"target_user": "开发者", "paper_url": null, "demo_url": null, "self_declared_early": {"flag": false, "lines": []}}, "links": {"scenario_tags": ["MCP服务器", "桌面自动化", "浏览器自动化", "AI Agent"], "domain": "AI Agent 基础设施/桌面与浏览器自动化", "alternative_to": [], "competitors_mentioned": [], "ecosystem_compat": []}, "intel": {"maintainer_type": "individual", "zh_origin": false, "zh_origin_signals": []}, "trust": {"confidence": "high", "evidence": ["L9:  A hidden Linux desktop that an AI agent controls over MCP. Your mouse, keyboard, focus and browser stay yours.", "L29: Agents that \"use a computer\" usually take over *your* screen. They move your mouse, steal focus and drive your logged-in"], "ver": 1, "prompt_ver": "1.4", "generated_at": "2026-11-25", "softened": null, "model_harness": {"model": "glm-5.3-flash", "thinking": "off", "max_tokens": 24000, "seed": null}}}
+{
+ "fn": "agent-sh/agent-workspace-linux",
+ "sha": "a78514eb1ba5",
+ "source": "readme",
+ "identity": {
+  "one_liner": "给 AI agent 提供隔离 Linux 隐藏桌面的 MCP 服务器",
+  "review": "在 Linux 上为 agent 创建私有 X11 或 Wayland 显示（含独立窗口管理器、应用、剪贴板与浏览器），agent 通过 MCP over stdio 调用工具在其中启动应用、输入、点击、截图和浏览，不占用用户真实桌面；用户可通过浮动查看器观察、暂停或停止。支持 X11/i3/KWin/GNOME/Hyprland/COSMIC 六种后端，提供 doctor 环境检查与权限上限控制。限制：workspace 本身不是沙箱，其中应用以用户身份运行；默认 X11 后端需安装一组系统包。",
+  "highlights": [
+   "六种桌面后端（X11/i3/KWin/GNOME 46/Hyprland/COSMIC），GNOME 46 独立版本运行时",
+   "MCP over stdio 接入 Claude Code、Codex 等 MCP 宿主",
+   "workspace 专属 Chrome 与 DevTools 浏览器自动化命令",
+   "浮动查看器可观察、暂停或停止 agent 操作"
+  ],
+  "use_cases": [
+   "让 agent 做应用或网站的 GUI/网页测试而不占用我的桌面",
+   "后台浏览与购物任务在可观看、可停止的隔离浏览器中运行",
+   "为无人值守的长时任务提供一个专属 Linux 桌面"
+  ]
+ },
+ "filters": {
+  "ai_role": "ai-ecosystem",
+  "license_risk": "permissive",
+  "deploy": null,
+  "model_dep": null,
+  "hardware": null,
+  "install_friction": "low",
+  "maturity": null
+ },
+ "eval": {
+  "target_user": "开发者",
+  "paper_url": null,
+  "demo_url": null,
+  "self_declared_early": {
+   "flag": false,
+   "lines": []
+  }
+ },
+ "links": {
+  "scenario_tags": [
+   "MCP服务器",
+   "桌面自动化",
+   "浏览器自动化",
+   "AI Agent"
+  ],
+  "domain": "效率与自动化",
+  "alternative_to": [],
+  "competitors_mentioned": [],
+  "ecosystem_compat": [],
+  "scenario_tags_v2": [
+   "browser-automation",
+   "gui-automation"
+  ]
+ },
+ "intel": {
+  "maintainer_type": "individual",
+  "zh_origin": false,
+  "zh_origin_signals": []
+ },
+ "trust": {
+  "confidence": "high",
+  "evidence": [
+   "L9:  A hidden Linux desktop that an AI agent controls over MCP. Your mouse, keyboard, focus and browser stay yours.",
+   "L29: Agents that \"use a computer\" usually take over *your* screen. They move your mouse, steal focus and drive your logged-in"
+  ],
+  "ver": 1,
+  "prompt_ver": "1.4",
+  "generated_at": "2026-11-25",
+  "softened": null,
+  "model_harness": {
+   "model": "glm-5.3-flash",
+   "thinking": "off",
+   "max_tokens": 24000,
+   "seed": null
+  },
+  "vocab_ver": "1.0"
+ }
+}

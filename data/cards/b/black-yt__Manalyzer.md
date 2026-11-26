@@ -1,6 +1,6 @@
 # black-yt/Manalyzer
 
-⭐ 21 · Python · 推送 2026-05-27 · [GitHub](https://github.com/black-yt/Manalyzer) · [官网](https://black-yt.github.io/meta-analysis-page/) · 组织维护 · 中文 README
+⭐ 22 · Python · 推送 2026-05-27 · [GitHub](https://github.com/black-yt/Manalyzer) · [官网](https://black-yt.github.io/meta-analysis-page/) · 组织维护 · 中文 README
 
 **多智能体系统：端到端自动化文献荟萃分析并生成报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "black-yt/Manalyzer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

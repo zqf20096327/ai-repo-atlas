@@ -1,6 +1,6 @@
 # zxs4KHf/agent-egress-controller
 
-⭐ 3 · Rust · GPL-3.0 · 推送 2026-10-18 · [GitHub](https://github.com/zxs4KHf/agent-egress-controller) · 个人维护 · 中文 README
+⭐ 4 · Rust · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/zxs4KHf/agent-egress-controller) · 个人维护 · 中文 README
 
 **让 AI 用的浏览器和 CLI 走固定网络出口的 Windows 托盘工具**
 
@@ -46,12 +46,12 @@ Windows 托盘程序，为 Claude Code、Codex 及 AI 浏览器提供固定网�
 ```mermaid
 xychart-beta
     title "zxs4KHf/agent-egress-controller 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 4（+1）
 
 
 ---

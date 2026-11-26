@@ -1,6 +1,6 @@
 # AtharvaTilewale/boltz2-notebook
 
-⭐ 19 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AtharvaTilewale/boltz2-notebook) · [官网](https://atharvatilewale.github.io/boltz2-notebook/) · 组织维护
+⭐ 20 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/AtharvaTilewale/boltz2-notebook) · [官网](https://atharvatilewale.github.io/boltz2-notebook/) · 组织维护
 
 **在浏览器中用 Boltz-2 预测蛋白结构与配体结合亲和力的 Colab 笔记本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AtharvaTilewale/boltz2-notebook 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 19（+1）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Pretend-to/mio-chat-backend
 
-⭐ 38 · JavaScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/Pretend-to/mio-chat-backend) · [官网](https://ai.krumio.com) · 组织维护 · 中文 README
+⭐ 38 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Pretend-to/mio-chat-backend) · [官网](https://ai.krumio.com) · 组织维护 · 中文 README
 
 **自托管模型无关的 Agent 运行时：多渠道接入与无人值守长跑**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Pretend-to/mio-chat-backend 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-26"]
     y-axis "stars" 37 --> 40
     line [38, 39, 38, 38]
 ```
 
-2026-10-23 38 → 2026-11-25 38（+0）
+2026-10-24 38 → 2026-11-26 38（+0）
 
 
 ---

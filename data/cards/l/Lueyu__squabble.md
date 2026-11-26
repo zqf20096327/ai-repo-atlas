@@ -1,6 +1,6 @@
 # Lueyu/squabble
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Lueyu/squabble) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给个人投资者的开源投研工作台：AI 多代理辩论研究+模拟交易**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

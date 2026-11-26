@@ -1,6 +1,6 @@
 # Alexandre-LPZ/ultracode-cockpit
 
-⭐ 4 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Alexandre-LPZ/ultracode-cockpit) · 个人维护
+⭐ 5 · MIT · 推送 2026-10-17 · [GitHub](https://github.com/Alexandre-LPZ/ultracode-cockpit) · 个人维护
 
 **约束 ultracode/动态工作流支出的 Claude 技能：先估价再花钱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Alexandre-LPZ/ultracode-cockpit 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4, 4]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 3, 4, 5]
 ```
 
-2026-10-25 3 → 2026-11-25 4（+1）
+2026-10-25 3 → 2026-11-26 5（+2）
 
 
 ---

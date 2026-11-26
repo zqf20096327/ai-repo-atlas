@@ -46,12 +46,12 @@ Grafana 应用插件，对接通过 HTTP 接收数值字段的 AI/ML 模型，�
 ```mermaid
 xychart-beta
     title "ertis-research/grafana-panel-what-if 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

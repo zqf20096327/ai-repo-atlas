@@ -1,6 +1,6 @@
 # Fixed-Seed/Robin
 
-⭐ 16 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Fixed-Seed/Robin) · [官网](https://audiorobin.io) · 组织维护
+⭐ 19 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Fixed-Seed/Robin) · [官网](https://audiorobin.io) · 组织维护
 
 **面向专业音频工作者的开源权重语音合成模型**
 
@@ -46,12 +46,12 @@ Robin 是 Fixed Seed 发布的开源权重语音合成模型（3.58B 参数，pl
 ```mermaid
 xychart-beta
     title "Fixed-Seed/Robin 星数(近 7 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 13, 14, 15, 16, 16]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 10 --> 20
+    line [11, 12, 13, 14, 15, 16, 19]
 ```
 
-2026-11-16 11 → 2026-11-25 16（+5）
+2026-11-16 11 → 2026-11-26 19（+8）
 
 
 ---

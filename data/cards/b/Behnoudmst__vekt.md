@@ -1,6 +1,6 @@
 # Behnoudmst/vekt
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Behnoudmst/vekt) · [官网](https://vekt.eu) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Behnoudmst/vekt) · [官网](https://vekt.eu) · 个人维护
 
 **自托管招聘平台：AI 简历筛选与候选人排名**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Behnoudmst/vekt 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-23 10 → 2026-11-25 10（+0）
+2026-11-23 10 → 2026-11-26 10（+0）
 
 
 ---

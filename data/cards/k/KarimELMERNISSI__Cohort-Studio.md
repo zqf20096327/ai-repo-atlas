@@ -1,6 +1,6 @@
 # KarimELMERNISSI/Cohort-Studio
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/KarimELMERNISSI/Cohort-Studio) · [官网](https://karimelmernissi.github.io/Cohort-Studio/) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/KarimELMERNISSI/Cohort-Studio) · [官网](https://karimelmernissi.github.io/Cohort-Studio/) · 个人维护
 
 **给临床研究者的队列数据分析与可复现报告应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "KarimELMERNISSI/Cohort-Studio 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # RibomX/GD-AI-bridge
 
-⭐ 7 · C++ · MIT · 推送 2026-10-19 · [GitHub](https://github.com/RibomX/GD-AI-bridge) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 AI 经 MCP/HTTP 在 Geometry Dash 编辑器中读写关卡的桥接 mod**
 
@@ -11,7 +11,7 @@ Geometry Dash 的 Geode mod，在本地运行 JSON API（127.0.0.1:7312），通
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

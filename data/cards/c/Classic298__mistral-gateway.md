@@ -1,6 +1,6 @@
 # Classic298/mistral-gateway
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Classic298/mistral-gateway) · 个人维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/Classic298/mistral-gateway) · 个人维护
 
 **本地代理：让 OpenAI 兼容客户端使用 Mistral Vibe 订阅内的模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Classic298/mistral-gateway 星数(近 7 点)"
-    x-axis ["2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 9 --> 18
-    line [10, 11, 14, 15, 16, 17, 17]
+    x-axis ["2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 9 --> 21
+    line [10, 11, 14, 15, 16, 17, 20]
 ```
 
-2026-11-12 10 → 2026-11-25 17（+7）
+2026-11-12 10 → 2026-11-26 20（+10）
 
 
 ---

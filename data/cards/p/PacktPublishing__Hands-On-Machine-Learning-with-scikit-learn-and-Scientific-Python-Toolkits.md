@@ -1,6 +1,6 @@
 # PacktPublishing/Hands-On-Machine-Learning-with-scikit-learn-and-Scientific-Python-Toolkits
 
-⭐ 153 · Jupyter Notebook · 推送 2026-11-17 · [GitHub](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-scikit-learn-and-Scientific-Python-Toolkits) · [官网](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn) · 组织维护
+⭐ 154 · Jupyter Notebook · 推送 2026-11-17 · [GitHub](https://github.com/PacktPublishing/Hands-On-Machine-Learning-with-scikit-learn-and-Scientific-Python-Toolkits) · [官网](https://www.packtpub.com/eu/data/hands-on-machine-learning-with-scikit-learn) · 组织维护
 
 **机器学习书籍配套代码库：scikit-learn 实战示例**
 
@@ -45,12 +45,12 @@ Packt 出版书籍《Hands-On Machine Learning with Scikit-Learn and Scientific 
 ```mermaid
 xychart-beta
     title "PacktPublishing/Hands-On-Machine-Learning-with-scikit-learn-and-Scientific-Python-Toolkits 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 152 --> 155
-    line [154, 153, 153]
+    line [154, 153, 154]
 ```
 
-2026-10-23 154 → 2026-11-25 153（-1）
+2026-10-24 154 → 2026-11-26 154（+0）
 
 
 ---

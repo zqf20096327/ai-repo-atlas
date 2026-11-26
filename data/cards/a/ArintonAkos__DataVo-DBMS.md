@@ -1,6 +1,6 @@
 # ArintonAkos/DataVo-DBMS
 
-⭐ 14 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ArintonAkos/DataVo-DBMS) · [官网](https://arintonakos.github.io/DataVo-DBMS/) · 个人维护
+⭐ 15 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ArintonAkos/DataVo-DBMS) · [官网](https://arintonakos.github.io/DataVo-DBMS/) · 个人维护
 
 **.NET 嵌入式数据库：进程内 SQL、LSM 存储、HNSW 向量搜索**
 
@@ -40,6 +40,18 @@
 
 > L8: **Pure C# embedded database for .NET 10** — in-process SQL, crash-safe LSM storage, columnar indexes, HNSW vector se
 > L38: - **Built-in SQL + vector search:** Native `VECTOR(n)` columns with SIMD-accelerated `FLAT` (exact) and `HNSW` inde
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ArintonAkos/DataVo-DBMS 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
+```
+
+2026-11-25 14 → 2026-11-26 15（+1）
 
 
 ---

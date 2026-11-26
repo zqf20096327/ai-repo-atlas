@@ -1,6 +1,6 @@
 # ayumu-ml/Omnitome
 
-⭐ 44 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayumu-ml/Omnitome) · [官网](https://github.com/ayumu-ml/Omnitome/releases) · 个人维护
+⭐ 55 · JavaScript · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ayumu-ml/Omnitome) · [官网](https://github.com/ayumu-ml/Omnitome/releases) · 个人维护
 
 **本地优先 AI 阅读应用：有界语义压缩+逐句溯源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ayumu-ml/Omnitome 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 16 --> 46
-    line [18, 23, 26, 30, 32, 44]
+    title "ayumu-ml/Omnitome 星数(近 7 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 15 --> 58
+    line [18, 23, 26, 30, 32, 44, 55]
 ```
 
-2026-11-19 18 → 2026-11-25 44（+26）
+2026-11-19 18 → 2026-11-26 55（+37）
 
 
 ---

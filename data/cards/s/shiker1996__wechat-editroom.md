@@ -1,6 +1,6 @@
 # shiker1996/wechat-editroom
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/shiker1996/wechat-editroom) · [官网](https://wechat-newsroom-guide.vercel.app/) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/shiker1996/wechat-editroom) · [官网](https://wechat-newsroom-guide.vercel.app/) · 个人维护 · 中文 README
 
 **公众号作者的本地内容采集、编辑与排版工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shiker1996/wechat-editroom 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-20", "2026-11-26"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-11-08 11 → 2026-11-25 13（+2）
+2026-11-08 11 → 2026-11-26 13（+2）
 
 
 ---

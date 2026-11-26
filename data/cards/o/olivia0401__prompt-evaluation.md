@@ -40,6 +40,18 @@
 > L3: Reproducible paired evaluation of prompt recipes and LLMs across 23 client briefs. It reports task scores, rerun noi
 > L19: uvicorn service.api:app --reload
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "olivia0401/prompt-evaluation 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-25 11 → 2026-11-26 11（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `38f9d91a907e` · [字段定义](../../DATASET.md)*

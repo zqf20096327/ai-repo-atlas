@@ -1,6 +1,6 @@
 # AiXenix/AiXenix-Telegram-Scraper-AI
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AiXenix/AiXenix-Telegram-Scraper-AI) · [官网](https://aixenix.com) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AiXenix/AiXenix-Telegram-Scraper-AI) · [官网](https://aixenix.com) · 个人维护 · 中文 README
 
 **Telegram 频道的 AI 新闻编辑台：采集、去重、按批准发布**
 
@@ -40,6 +40,18 @@
 > L3: **An AI news desk for your Telegram channel.**
 > L48: 3. **Repeat check.** Up to 10 posts at a time go to the filter model together with the titles of recent stories (pu
 > L50: 5. **Draft.** The writer model gets your style guide, up to six recent posts of your channel as examples and up to 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AiXenix/AiXenix-Telegram-Scraper-AI 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-25 4 → 2026-11-26 5（+1）
 
 
 ---

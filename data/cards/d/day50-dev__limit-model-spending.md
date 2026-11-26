@@ -46,12 +46,12 @@ DAY50 开源套件中的 capit：为各类编码/agent 客户端（Claude Code�
 ```mermaid
 xychart-beta
     title "day50-dev/limit-model-spending 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

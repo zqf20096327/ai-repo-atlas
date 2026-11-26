@@ -1,6 +1,6 @@
 # chenjunquan798/chenjunquan798
 
-⭐ 6 · Python · 推送 2026-11-23 · [GitHub](https://github.com/chenjunquan798/chenjunquan798) · 个人维护 · 中文 README
+⭐ 6 · Python · 推送 2026-11-25 · [GitHub](https://github.com/chenjunquan798/chenjunquan798) · 个人维护 · 中文 README
 
 **应用 AI / LLM 工程方向开发者的个人主页**
 
@@ -37,6 +37,18 @@ GitHub 个人档案仓库，内容为自述式主页：说明作者专注应用 
 
 > L7: I build with language models — mostly the unglamorous half: grounding answers in real corpora, keeping tool-using ag
 > L25: |**Retrieval & grounding**|Hybrid search, reranking, and citation-first answers over private corpora. 混合检索、重排序；基于私有
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "chenjunquan798/chenjunquan798 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-25 6 → 2026-11-26 6（+0）
 
 
 ---

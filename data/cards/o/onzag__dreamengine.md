@@ -1,6 +1,6 @@
 # onzag/dreamengine
 
-⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/onzag/dreamengine) · [官网](https://WildReality.org) · 个人维护
+⭐ 12 · JavaScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/onzag/dreamengine) · [官网](https://WildReality.org) · 个人维护
 
 **面向角色扮演玩家与创作者的 LLM 驱动网络模拟引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "onzag/dreamengine 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-16 10 → 2026-11-25 11（+1）
+2026-11-16 10 → 2026-11-26 12（+2）
 
 
 ---

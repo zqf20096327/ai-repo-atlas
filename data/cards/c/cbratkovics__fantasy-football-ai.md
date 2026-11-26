@@ -1,6 +1,6 @@
 # cbratkovics/fantasy-football-ai
 
-⭐ 17 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/cbratkovics/fantasy-football-ai) · [官网](https://fantasy-football-ai.vercel.app) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/cbratkovics/fantasy-football-ai) · [官网](https://fantasy-football-ai.vercel.app) · 个人维护
 
 **面向NFL梦幻橄榄球玩家的每周得分预测与决策工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cbratkovics/fantasy-football-ai 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

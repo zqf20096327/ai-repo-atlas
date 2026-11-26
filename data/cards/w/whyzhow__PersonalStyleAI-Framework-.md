@@ -1,6 +1,6 @@
 # whyzhow/PersonalStyleAI-Framework-
 
-⭐ 293 · Python · 推送 2026-03-21 · [GitHub](https://github.com/whyzhow/PersonalStyleAI-Framework-) · 个人维护
+⭐ 292 · Python · 推送 2026-03-21 · [GitHub](https://github.com/whyzhow/PersonalStyleAI-Framework-) · 个人维护
 
 **用个人聊天记录构建专属语言风格 AI 的框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "whyzhow/PersonalStyleAI-Framework- 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
     y-axis "stars" 291 --> 294
-    line [292, 293, 293]
+    line [292, 293, 292]
 ```
 
-2026-10-23 292 → 2026-11-25 293（+1）
+2026-10-24 292 → 2026-11-26 292（+0）
 
 
 ---

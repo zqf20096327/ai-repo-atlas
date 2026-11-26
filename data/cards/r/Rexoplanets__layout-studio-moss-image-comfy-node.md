@@ -42,6 +42,18 @@
 > L24: **Use the Studio right in ComfyUI to lay out what you want where**. Just hook the JSON Output to your positive prom
 > L180: Released open-source under the GNU GPL v3 Licence. Independent community tool, not affiliated with OpenMOSS.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Rexoplanets/layout-studio-moss-image-comfy-node 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `6da38944903b` · [字段定义](../../DATASET.md)*

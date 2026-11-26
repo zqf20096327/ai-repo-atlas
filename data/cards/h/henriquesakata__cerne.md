@@ -1,6 +1,6 @@
 # henriquesakata/cerne
 
-⭐ 6 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/henriquesakata/cerne) · 个人维护
+⭐ 6 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/henriquesakata/cerne) · 个人维护
 
 **为 AI agent 开发提供带生命周期的活文档工作流**
 
@@ -47,12 +47,12 @@ cerne 是一个面向 AI agent 协作开发的工程工作流 CLI：将功能、
 ```mermaid
 xychart-beta
     title "henriquesakata/cerne 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 3 --> 7
     line [4, 5, 6, 6]
 ```
 
-2026-11-16 4 → 2026-11-25 6（+2）
+2026-11-16 4 → 2026-11-26 6（+2）
 
 
 ---

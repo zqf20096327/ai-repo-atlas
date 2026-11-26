@@ -1,6 +1,6 @@
 # smithjohn78390/curated-translations-zh
 
-⭐ 151 · 推送 2026-06-19 · [GitHub](https://github.com/smithjohn78390/curated-translations-zh) · 个人维护 · 中文 README
+⭐ 152 · 推送 2026-06-19 · [GitHub](https://github.com/smithjohn78390/curated-translations-zh) · 个人维护 · 中文 README
 
 **优质文章与论文的非官方中文翻译存档**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "smithjohn78390/curated-translations-zh 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-26"]
     y-axis "stars" 149 --> 153
-    line [150, 152, 151, 152, 151, 151]
+    line [150, 152, 151, 152, 151, 152]
 ```
 
-2026-10-23 150 → 2026-11-25 151（+1）
+2026-10-24 150 → 2026-11-26 152（+2）
 
 
 ---

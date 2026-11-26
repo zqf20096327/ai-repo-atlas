@@ -1,6 +1,6 @@
 # pengsonal/PocketAI
 
-⭐ 7 · 推送 2026-11-10 · [GitHub](https://github.com/pengsonal/PocketAI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在手机上完全离线运行 GGUF 语言模型的开源 App 使用指南**
 

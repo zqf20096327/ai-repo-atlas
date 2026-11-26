@@ -1,6 +1,6 @@
 # peintune/runjam
 
-⭐ 221 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/peintune/runjam) · [官网](https://runjam.app) · 组织维护 · 中文 README
+⭐ 222 · Rust · MIT · 推送 2026-10-18 · [GitHub](https://github.com/peintune/runjam) · [官网](https://runjam.app) · 组织维护 · 中文 README
 
 **本地优先桌面端，统一管理多个 AI 编程 Agent CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "peintune/runjam 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 219 --> 222
-    line [221, 220, 221, 221]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 219 --> 223
+    line [221, 220, 221, 222]
 ```
 
-2026-10-23 221 → 2026-11-25 221（+0）
+2026-10-24 221 → 2026-11-26 222（+1）
 
 
 ---

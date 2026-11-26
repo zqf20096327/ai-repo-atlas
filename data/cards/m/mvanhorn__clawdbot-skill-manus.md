@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mvanhorn/clawdbot-skill-manus 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 26 --> 29
-    line [28, 27, 27]
+    title "mvanhorn/clawdbot-skill-manus 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 26 --> 28
+    line [27, 27]
 ```
 
-2026-10-23 28 → 2026-11-25 27（-1）
+2026-10-24 27 → 2026-11-26 27（+0）
 
 
 ---

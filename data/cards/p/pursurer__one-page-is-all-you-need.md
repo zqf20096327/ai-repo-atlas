@@ -1,6 +1,6 @@
 # pursurer/one-page-is-all-you-need
 
-⭐ 6 · HTML · MIT · 推送 2026-11-15 · [GitHub](https://github.com/pursurer/one-page-is-all-you-need) · [官网](https://pursurer.github.io/one-page-is-all-you-need/) · 个人维护
+⭐ 7 · HTML · MIT · 推送 2026-11-15 · [GitHub](https://github.com/pursurer/one-page-is-all-you-need) · [官网](https://pursurer.github.io/one-page-is-all-you-need/) · 个人维护
 
 **n8n 每日一页简报：Agent 汇总七个信息源并配 ASCII 锦鲤页面**
 
@@ -45,12 +45,12 @@ EPITA 课程项目，由两个 n8n 工作流组成：08:00 构建工作流抓取
 ```mermaid
 xychart-beta
     title "pursurer/one-page-is-all-you-need 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-16", "2026-11-26"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
 ```
 
-2026-11-16 6 → 2026-11-25 6（+0）
+2026-11-16 6 → 2026-11-26 7（+1）
 
 
 ---

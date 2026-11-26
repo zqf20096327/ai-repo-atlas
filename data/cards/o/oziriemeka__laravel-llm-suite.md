@@ -1,6 +1,6 @@
 # oziriemeka/laravel-llm-suite
 
-⭐ 35 · PHP · MIT · 推送 2026-05-14 · [GitHub](https://github.com/oziriemeka/laravel-llm-suite) · [官网](https://laravel-llm-suite.hashnode.space/) · 个人维护
+⭐ 36 · PHP · MIT · 推送 2026-05-14 · [GitHub](https://github.com/oziriemeka/laravel-llm-suite) · [官网](https://laravel-llm-suite.hashnode.space/) · 个人维护
 
 **给 Laravel 开发者的多 LLM 提供商统一接入工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oziriemeka/laravel-llm-suite 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 34 --> 39
-    line [38, 36, 38, 36, 35, 35]
+    line [38, 36, 38, 36, 35, 36]
 ```
 
-2026-10-23 38 → 2026-11-25 35（-3）
+2026-10-24 38 → 2026-11-26 36（-2）
 
 
 ---

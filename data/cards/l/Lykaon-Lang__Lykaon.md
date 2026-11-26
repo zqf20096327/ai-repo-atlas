@@ -1,6 +1,6 @@
 # Lykaon-Lang/Lykaon
 
-⭐ 6 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Lykaon-Lang/Lykaon) · [官网](https://lykaon-lang.github.io/Lykaon/) · 组织维护
+⭐ 6 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Lykaon-Lang/Lykaon) · [官网](https://lykaon-lang.github.io/Lykaon/) · 组织维护
 
 **类英语语法的编程语言：编译为原生可执行文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lykaon-Lang/Lykaon 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 5 --> 7
     line [6, 6]
 ```
 
-2026-11-23 6 → 2026-11-25 6（+0）
+2026-11-23 6 → 2026-11-26 6（+0）
 
 
 ---

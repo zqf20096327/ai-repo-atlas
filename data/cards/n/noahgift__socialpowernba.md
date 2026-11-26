@@ -41,6 +41,18 @@
 > L88: ## Player Impact Estimation
 > L116: ## Explore Juypter Notebooks
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/socialpowernba 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 29 --> 31
+    line [30, 30]
+```
+
+2026-11-25 30 → 2026-11-26 30（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `9936e4931468` · [字段定义](../../DATASET.md)*

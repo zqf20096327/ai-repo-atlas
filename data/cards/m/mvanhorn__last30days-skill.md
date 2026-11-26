@@ -1,6 +1,6 @@
 # mvanhorn/last30days-skill
 
-⭐ 73,446 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mvanhorn/last30days-skill) · 个人维护
+⭐ 75,051 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mvanhorn/last30days-skill) · 个人维护
 
 **为 AI agent 提供跨 20+ 平台的近 30 天话题研究技能**
 
@@ -40,6 +40,18 @@
 
 > L19: **An AI agent-led search engine scored by upvotes, likes, and real money - not editors.**
 > L39: Reddit upvotes. X likes. YouTube transcripts. TikTok engagement. Polymarket odds backed by real money and insider i
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mvanhorn/last30days-skill 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 73286 --> 75211
+    line [73446, 75051]
+```
+
+2026-11-25 73,446 → 2026-11-26 75,051（+1,605）
 
 
 ---

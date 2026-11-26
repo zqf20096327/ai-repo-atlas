@@ -1,6 +1,6 @@
 # yoza10635/dsh-argp
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yoza10635/dsh-argp) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yoza10635/dsh-argp) · 个人维护 · 中文 README
 
 **dsh 的第三方上下文压缩引擎插件：LLM 提议、守卫裁决**
 
@@ -44,13 +44,13 @@ DeepSeek Harness（dsh）的上下文压缩插件，替换摘要式压缩：Stag
 
 ```mermaid
 xychart-beta
-    title "yoza10635/dsh-argp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 12 --> 17
-    line [13, 14, 15, 14, 15, 16]
+    title "yoza10635/dsh-argp 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 12 --> 18
+    line [13, 14, 15, 14, 15, 16, 17]
 ```
 
-2026-10-23 13 → 2026-11-25 16（+3）
+2026-10-24 13 → 2026-11-26 17（+4）
 
 
 ---

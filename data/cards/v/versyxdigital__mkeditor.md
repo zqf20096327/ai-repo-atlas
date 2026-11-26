@@ -1,6 +1,6 @@
 # versyxdigital/mkeditor
 
-⭐ 233 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/versyxdigital/mkeditor) · [官网](https://versyxdigital.github.io/mkeditor) · 组织维护
+⭐ 234 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/versyxdigital/mkeditor) · [官网](https://versyxdigital.github.io/mkeditor) · 组织维护
 
 **带 AI 助手的 Markdown 编辑器，支持多 AI 提供商接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "versyxdigital/mkeditor 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 232 --> 235
-    line [234, 233, 234, 233, 233]
+    line [234, 233, 234, 233, 234]
 ```
 
-2026-10-23 234 → 2026-11-25 233（-1）
+2026-10-24 234 → 2026-11-26 234（+0）
 
 
 ---

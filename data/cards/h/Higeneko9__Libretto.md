@@ -1,6 +1,6 @@
 # Higeneko9/Libretto
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Higeneko9/Libretto) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Higeneko9/Libretto) · 个人维护
 
 **为 ComfyUI 用户提供节点式图像提示词组装与生成管理桌面工具**
 
@@ -45,13 +45,13 @@ Libretto 是面向 ComfyUI 用户的节点式提示词生成工具：把角色�
 
 ```mermaid
 xychart-beta
-    title "Higeneko9/Libretto 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 12
-    line [3, 11]
+    title "Higeneko9/Libretto 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 17
+    line [3, 11, 16]
 ```
 
-2026-11-18 3 → 2026-11-25 11（+8）
+2026-11-18 3 → 2026-11-26 16（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # michaelh03/ClipAi
 
-⭐ 22 · Swift · MIT · 推送 2026-06-24 · [GitHub](https://github.com/michaelh03/ClipAi) · 个人维护
+⭐ 23 · Swift · MIT · 推送 2026-06-24 · [GitHub](https://github.com/michaelh03/ClipAi) · 个人维护
 
 **macOS 菜单栏剪贴板管理器，可一键将剪贴板内容发给 AI 处理**
 
@@ -46,12 +46,12 @@ macOS 菜单栏剪贴板历史管理工具：记录并搜索剪贴板内容，�
 ```mermaid
 xychart-beta
     title "michaelh03/ClipAi 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 21 --> 24
-    line [23, 22, 22]
+    line [23, 22, 23]
 ```
 
-2026-10-23 23 → 2026-11-25 22（-1）
+2026-10-24 23 → 2026-11-26 23（+0）
 
 
 ---

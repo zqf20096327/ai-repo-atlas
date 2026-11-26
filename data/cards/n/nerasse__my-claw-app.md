@@ -1,6 +1,6 @@
 # nerasse/my-claw-app
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nerasse/my-claw-app) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nerasse/my-claw-app) · 个人维护
 
 **my-claw agent 服务器的 Android/网页客户端**
 
@@ -39,6 +39,18 @@ my-claw 服务器的客户端：agent、工具、会话与记忆保留在用户�
 
 > L14: The client of a my-claw server. The agent, its tools, its sessions and its memory stay on the
 > L19: The connection goes out from the client to the server over a secure WebSocket. Nothing listens on a
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nerasse/my-claw-app 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

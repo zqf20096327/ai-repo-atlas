@@ -1,6 +1,6 @@
 # DaraSingh1998/foretype
 
-⭐ 3 · Swift · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/DaraSingh1998/foretype) · 个人维护
+⭐ 4 · Swift · Apache-2.0 · 推送 2026-10-31 · [GitHub](https://github.com/DaraSingh1998/foretype) · 个人维护
 
 **macOS 全局内联自动补全工具：本地 LLM 帮你少打字**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DaraSingh1998/foretype 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-12", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 4（+1）
 
 
 ---

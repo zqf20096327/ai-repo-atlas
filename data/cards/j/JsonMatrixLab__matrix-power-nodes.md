@@ -1,6 +1,6 @@
 # JsonMatrixLab/matrix-power-nodes
 
-⭐ 21 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/JsonMatrixLab/matrix-power-nodes) · 组织维护
+⭐ 22 · Python · MIT · 推送 2026-07-30 · [GitHub](https://github.com/JsonMatrixLab/matrix-power-nodes) · 组织维护
 
 **ComfyUI 自定义节点包：通过 WaveSpeed 生成 25 镜头 AI 图像数据集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "JsonMatrixLab/matrix-power-nodes 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 18 --> 22
-    line [19, 20, 21, 20, 21, 21]
+    title "JsonMatrixLab/matrix-power-nodes 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 19 --> 23
+    line [20, 21, 20, 21, 22]
 ```
 
-2026-10-23 19 → 2026-11-25 21（+2）
+2026-10-24 20 → 2026-11-26 22（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # AgriciDaniel/claude-prompts
 
-⭐ 119 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-prompts) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
+⭐ 120 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/claude-prompts) · [官网](https://www.skool.com/ai-marketing-hub-pro/) · 个人维护
 
 **面向 Claude Code 的提示词数据库与构建技能（2,500+ 条）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/claude-prompts 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 112 --> 120
-    line [113, 114, 113, 117, 118, 119, 119]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 112 --> 121
+    line [113, 114, 113, 117, 118, 119, 120]
 ```
 
-2026-10-23 113 → 2026-11-25 119（+6）
+2026-10-24 113 → 2026-11-26 120（+7）
 
 
 ---

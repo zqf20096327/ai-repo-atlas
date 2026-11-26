@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/DroneSwarmGPT
 
-⭐ 24 · Python · MIT · 推送 2025-12-15 · [GitHub](https://github.com/The-Swarm-Corporation/DroneSwarmGPT) · [官网](https://swarms.xyz/) · 组织维护
+⭐ 25 · Python · MIT · 推送 2025-12-15 · [GitHub](https://github.com/The-Swarm-Corporation/DroneSwarmGPT) · [官网](https://swarms.xyz/) · 组织维护
 
 **面向企业与政府的无人机集群自然语言控制系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/DroneSwarmGPT 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 19 --> 25
-    line [20, 21, 22, 20, 22, 23, 24, 24]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 19 --> 26
+    line [20, 21, 22, 20, 22, 23, 24, 25]
 ```
 
-2026-10-23 20 → 2026-11-25 24（+4）
+2026-10-24 20 → 2026-11-26 25（+5）
 
 
 ---

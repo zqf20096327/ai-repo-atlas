@@ -1,6 +1,6 @@
 # Sievehouse/gpu-lens
 
-⭐ 5 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sievehouse/gpu-lens) · [官网](https://gpu-lens.onrender.com) · 组织维护
+⭐ 6 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Sievehouse/gpu-lens) · [官网](https://gpu-lens.onrender.com) · 组织维护
 
 **K8s GPU 集群只读可靠性诊断控制台，输出确定性事件报告**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Sievehouse/gpu-lens 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
-    y-axis "stars" 3 --> 6
-    line [4, 5]
+    title "Sievehouse/gpu-lens 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-16 4 → 2026-11-25 5（+1）
+2026-11-16 4 → 2026-11-26 6（+2）
 
 
 ---

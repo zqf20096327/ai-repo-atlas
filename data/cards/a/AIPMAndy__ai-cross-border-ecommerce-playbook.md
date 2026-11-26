@@ -1,6 +1,6 @@
 # AIPMAndy/ai-cross-border-ecommerce-playbook
 
-⭐ 4 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/AIPMAndy/ai-cross-border-ecommerce-playbook) · [官网](https://aipmandy.github.io/ai-cross-border-ecommerce-playbook/) · 个人维护
+⭐ 5 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/AIPMAndy/ai-cross-border-ecommerce-playbook) · [官网](https://aipmandy.github.io/ai-cross-border-ecommerce-playbook/) · 个人维护
 
 **面向零基础者的 AI 跨境电商开源实战手册（24 章/96 卡）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/ai-cross-border-ecommerce-playbook 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-10 4 → 2026-11-25 4（+0）
+2026-11-10 4 → 2026-11-26 5（+1）
 
 
 ---

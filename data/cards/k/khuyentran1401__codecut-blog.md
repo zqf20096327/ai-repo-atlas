@@ -1,6 +1,6 @@
 # khuyentran1401/codecut-blog
 
-⭐ 42 · Jupyter Notebook · 推送 2026-11-14 · [GitHub](https://github.com/khuyentran1401/codecut-blog) · [官网](https://codecut.ai/blog) · 个人维护
+⭐ 42 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/khuyentran1401/codecut-blog) · [官网](https://codecut.ai/blog) · 个人维护
 
 **45+ 篇数据科学/MLOps/AI 工具教程的代码仓库**
 
@@ -44,12 +44,12 @@ Khuyen Tran 维护的 CodeCut 博客配套代码仓库，收录 45+ 篇可执行
 ```mermaid
 xychart-beta
     title "khuyentran1401/codecut-blog 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 40 --> 43
     line [41, 42, 41, 42, 42]
 ```
 
-2026-10-23 41 → 2026-11-25 42（+1）
+2026-10-24 41 → 2026-11-26 42（+1）
 
 
 ---

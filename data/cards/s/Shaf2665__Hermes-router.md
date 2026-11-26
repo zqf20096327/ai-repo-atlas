@@ -1,6 +1,6 @@
 # Shaf2665/Hermes-router
 
-⭐ 111 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Shaf2665/Hermes-router) · [官网](https://hermes-router.vercel.app) · 个人维护
+⭐ 112 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Shaf2665/Hermes-router) · [官网](https://hermes-router.vercel.app) · 个人维护
 
 **给开发者的 AI 提供商路由网关：多 Key 轮换与故障转移**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Shaf2665/Hermes-router 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26"]
     y-axis "stars" 109 --> 113
-    line [110, 111, 112, 111, 111]
+    line [110, 111, 112, 111, 112]
 ```
 
-2026-10-23 110 → 2026-11-25 111（+1）
+2026-10-24 110 → 2026-11-26 112（+2）
 
 
 ---

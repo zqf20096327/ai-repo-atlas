@@ -1,6 +1,6 @@
 # JesperDramsch/data-science-gui.de
 
-⭐ 41 · Jupyter Notebook · 推送 2026-10-12 · [GitHub](https://github.com/JesperDramsch/data-science-gui.de) · [官网](https://data-science-gui.de) · 个人维护
+⭐ 41 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/JesperDramsch/data-science-gui.de) · [官网](https://data-science-gui.de) · 个人维护
 
 **Skillshare Python 数据科学与商业分析课程的配套 Notebook 集合**
 
@@ -45,12 +45,12 @@ Skillshare 平台《Data Science and Business Analytics with Python》课程的�
 ```mermaid
 xychart-beta
     title "JesperDramsch/data-science-gui.de 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-23 41 → 2026-11-25 41（+0）
+2026-10-24 41 → 2026-11-26 41（+0）
 
 
 ---

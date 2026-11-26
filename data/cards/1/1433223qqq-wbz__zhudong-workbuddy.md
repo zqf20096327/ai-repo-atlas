@@ -1,6 +1,6 @@
 # 1433223qqq-wbz/zhudong-workbuddy
 
-⭐ 22 · PowerShell · MIT · 推送 2026-11-11 · [GitHub](https://github.com/1433223qqq-wbz/zhudong-workbuddy) · 个人维护 · 中文 README
+⭐ 24 · PowerShell · MIT · 推送 2026-11-11 · [GitHub](https://github.com/1433223qqq-wbz/zhudong-workbuddy) · 个人维护 · 中文 README
 
 **给 WorkBuddy 客户端安装「诛冬」人格与提示词契约的脚本安装包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "1433223qqq-wbz/zhudong-workbuddy 星数(近 9 点)"
-    x-axis ["2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 5 --> 23
-    line [6, 8, 9, 12, 15, 18, 19, 21, 22]
+    title "1433223qqq-wbz/zhudong-workbuddy 星数(近 10 点)"
+    x-axis ["2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 25
+    line [6, 8, 9, 12, 15, 18, 19, 21, 22, 24]
 ```
 
-2026-11-12 6 → 2026-11-25 22（+16）
+2026-11-12 6 → 2026-11-26 24（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # ThamJiaHe/claude-code-handbook
 
-⭐ 209 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/ThamJiaHe/claude-code-handbook) · 个人维护 · 中文 README
+⭐ 211 · Python · MIT · 推送 2026-04-19 · [GitHub](https://github.com/ThamJiaHe/claude-code-handbook) · 个人维护 · 中文 README
 
 **Claude 提示工程与 Claude Code 使用指南合集（含100+技能目录）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ThamJiaHe/claude-code-handbook 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 206 --> 210
-    line [207, 208, 207, 208, 207, 208, 209, 209]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 206 --> 212
+    line [207, 208, 207, 208, 207, 208, 209, 211]
 ```
 
-2026-10-23 207 → 2026-11-25 209（+2）
+2026-10-24 207 → 2026-11-26 211（+4）
 
 
 ---

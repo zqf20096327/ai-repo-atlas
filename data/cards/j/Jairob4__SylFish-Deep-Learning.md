@@ -1,6 +1,6 @@
 # Jairob4/SylFish-Deep-Learning
 
-⭐ 3 · Jupyter Notebook · 推送 2026-11-20 · [GitHub](https://github.com/Jairob4/SylFish-Deep-Learning) · 个人维护
+⭐ 3 · Jupyter Notebook · 推送 2026-11-24 · [GitHub](https://github.com/Jairob4/SylFish-Deep-Learning) · 个人维护
 
 **鱼类图像分类与分割系统：识别鱼种并生成轮廓掩码**
 
@@ -39,6 +39,18 @@
 
 > L5: El sistema recibe la fotografía de un pez y responde dos cosas: de qué especie es, con qué confianza, y dónde está. 
 > L31: **Idea.** Usar **SAM 2** (Segment Anything Model 2, de Meta) como herramienta de **etiquetado offline**: genera más
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Jairob4/SylFish-Deep-Learning 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

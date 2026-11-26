@@ -1,6 +1,6 @@
 # GLips/enforced-architecture
 
-⭐ 11 · TypeScript · 推送 2026-11-10 · [GitHub](https://github.com/GLips/enforced-architecture) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-11-10 · [GitHub](https://github.com/GLips/enforced-architecture) · 个人维护
 
 **用 lint 规则约束 AI 编码代理的 TypeScript 架构规范目录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GLips/enforced-architecture 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-31", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-31 10 → 2026-11-25 11（+1）
+2026-10-31 10 → 2026-11-26 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-LivenessDetection-Flutter
 
-⭐ 25 · Dart · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Flutter) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 25 · Dart · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Flutter) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **Flutter 开发者的端侧人脸识别与活体检测 SDK**
 
@@ -39,6 +39,18 @@ FacePlugin 的 Flutter 插件，在设备本地运行人脸检测、被动活体
 
 > L22: FacePlugin **Face Recognition + Liveness Detection for Flutter** runs face recognition and passive liveness entirel
 > L32: |Face detection (bounding box, landmarks, pose, attributes)|`faceDetection`|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Faceplugin-ltd/FaceRecognition-LivenessDetection-Flutter 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-25 25 → 2026-11-26 25（+0）
 
 
 ---

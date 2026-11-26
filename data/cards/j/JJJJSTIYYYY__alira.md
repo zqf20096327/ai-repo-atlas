@@ -1,6 +1,6 @@
 # JJJJSTIYYYY/alira
 
-⭐ 314 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/JJJJSTIYYYY/alira) · 个人维护 · 中文 README
+⭐ 314 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/JJJJSTIYYYY/alira) · 个人维护 · 中文 README
 
 **给开发者用的 AI Agent 应用模块化运行时框架**
 
@@ -44,13 +44,13 @@ Alira 以模块化 harness 形式提供构建 AI Agent 应用所需的模型调�
 
 ```mermaid
 xychart-beta
-    title "JJJJSTIYYYY/alira 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-25"]
+    title "JJJJSTIYYYY/alira 星数(近 6 点)"
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 308 --> 315
-    line [309, 310, 311, 312, 314]
+    line [309, 310, 311, 312, 314, 314]
 ```
 
-2026-10-31 309 → 2026-11-25 314（+5）
+2026-10-31 309 → 2026-11-26 314（+5）
 
 
 ---

@@ -44,13 +44,13 @@ Airbyte 公司维护的 Python SDK：将 50+ 第三方 API 连接器封装为带
 
 ```mermaid
 xychart-beta
-    title "airbytehq/airbyte-agent-sdk 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 135 --> 138
-    line [137, 136, 136]
+    title "airbytehq/airbyte-agent-sdk 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 135 --> 137
+    line [136, 136]
 ```
 
-2026-10-23 137 → 2026-11-25 136（-1）
+2026-10-24 136 → 2026-11-26 136（+0）
 
 
 ---

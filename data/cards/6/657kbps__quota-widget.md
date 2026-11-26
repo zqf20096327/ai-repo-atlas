@@ -1,6 +1,6 @@
 # 657kbps/quota-widget
 
-⭐ 18 · Kotlin · 推送 2026-11-23 · [GitHub](https://github.com/657kbps/quota-widget) · 个人维护 · 中文 README
+⭐ 18 · Kotlin · 推送 2026-11-25 · [GitHub](https://github.com/657kbps/quota-widget) · [官网](https://657kbps.github.io/quota-widget/) · 个人维护 · 中文 README
 
 **Android 桌面小组件：一眼查看 AI API 余额与用量**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "657kbps/quota-widget 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 17, 18, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

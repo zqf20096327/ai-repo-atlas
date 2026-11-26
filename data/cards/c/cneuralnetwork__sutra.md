@@ -1,6 +1,6 @@
 # cneuralnetwork/sutra
 
-⭐ 9 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/cneuralnetwork/sutra) · 个人维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/cneuralnetwork/sutra) · 个人维护
 
 **面向开发者的终端 AI 编码代理：读码、改码、跑测试并报告改动**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cneuralnetwork/sutra 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 7 --> 10
-    line [8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-08 8 → 2026-11-25 9（+1）
+2026-11-08 8 → 2026-11-26 10（+2）
 
 
 ---

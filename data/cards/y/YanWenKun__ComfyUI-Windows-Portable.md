@@ -1,6 +1,6 @@
 # YanWenKun/ComfyUI-Windows-Portable
 
-⭐ 630 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/YanWenKun/ComfyUI-Windows-Portable) · 个人维护 · 中文 README
+⭐ 632 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/YanWenKun/ComfyUI-Windows-Portable) · 个人维护 · 中文 README
 
 **ComfyUI 的 Windows 便携整合包：预装 40+ 自定义节点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YanWenKun/ComfyUI-Windows-Portable 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 620 --> 631
-    line [621, 622, 623, 624, 621, 623, 625, 626, 627, 628, 629, 630]
+    title "YanWenKun/ComfyUI-Windows-Portable 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 620 --> 633
+    line [621, 622, 623, 624, 621, 623, 625, 626, 627, 628, 629, 630, 632]
 ```
 
-2026-10-23 621 → 2026-11-25 630（+9）
+2026-10-24 621 → 2026-11-26 632（+11）
 
 
 ---

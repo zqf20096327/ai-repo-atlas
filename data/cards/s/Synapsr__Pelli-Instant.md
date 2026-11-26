@@ -1,6 +1,6 @@
 # Synapsr/Pelli-Instant
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Synapsr/Pelli-Instant) · [官网](https://pelli.io) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Synapsr/Pelli-Instant) · [官网](https://pelli.io) · 组织维护
 
 **摄影师的本地 AI 选片工具：自动剔除糊片闭眼与重复**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Synapsr/Pelli-Instant 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25"]
+    title "Synapsr/Pelli-Instant 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 3 --> 11
-    line [4, 5, 6, 8, 9, 10]
+    line [4, 5, 6, 8, 9, 10, 10]
 ```
 
-2026-11-10 4 → 2026-11-25 10（+6）
+2026-11-10 4 → 2026-11-26 10（+6）
 
 
 ---

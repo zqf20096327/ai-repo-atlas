@@ -1,6 +1,6 @@
 # gitrgoliveira/vault-plugin-secrets-openai
 
-⭐ 25 · Go · MPL-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/gitrgoliveira/vault-plugin-secrets-openai) · [官网](https://www.hashicorp.com/en/blog/managing-openai-api-keys-with-hashicorp-vault-s-dynamic-secrets-plugin) · 个人维护
+⭐ 25 · Go · MPL-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/gitrgoliveira/vault-plugin-secrets-openai) · [官网](https://www.hashicorp.com/en/blog/managing-openai-api-keys-with-hashicorp-vault-s-dynamic-secrets-plugin) · 个人维护
 
 **HashiCorp Vault 插件：动态创建与轮换 OpenAI API 密钥**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gitrgoliveira/vault-plugin-secrets-openai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-23 25 → 2026-11-25 25（+0）
+2026-10-24 25 → 2026-11-26 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # laststance/git-gpt-commit
 
-⭐ 35 · JavaScript · MIT · 推送 2026-05-07 · [GitHub](https://github.com/laststance/git-gpt-commit) · [官网](https://www.npmjs.com/package/@laststance/git-gpt-commit) · 个人维护
+⭐ 35 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/laststance/git-gpt-commit) · [官网](https://www.npmjs.com/package/@laststance/git-gpt-commit) · 个人维护
 
 **用 OpenAI 模型生成 Git 提交信息的 CLI 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "laststance/git-gpt-commit 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 34 --> 37
     line [36, 35, 36, 35, 35]
 ```
 
-2026-10-23 36 → 2026-11-25 35（-1）
+2026-10-24 36 → 2026-11-26 35（-1）
 
 
 ---

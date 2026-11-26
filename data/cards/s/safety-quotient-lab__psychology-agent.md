@@ -1,6 +1,6 @@
 # safety-quotient-lab/psychology-agent
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/safety-quotient-lab/psychology-agent) · [官网](https://unratified.org) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/safety-quotient-lab/psychology-agent) · [官网](https://unratified.org) · 组织维护
 
 **基于 Claude Code 的多智能体心理学分析与咨询系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "safety-quotient-lab/psychology-agent 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 19 --> 24
-    line [20, 21, 20, 23, 23]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 19 --> 25
+    line [20, 21, 20, 23, 24]
 ```
 
-2026-10-23 20 → 2026-11-25 23（+3）
+2026-10-24 20 → 2026-11-26 24（+4）
 
 
 ---

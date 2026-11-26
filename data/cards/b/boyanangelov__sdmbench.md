@@ -1,6 +1,6 @@
 # boyanangelov/sdmbench
 
-⭐ 19 · R · MIT · 推送 2026-03-16 · [GitHub](https://github.com/boyanangelov/sdmbench) · 个人维护
+⭐ 20 · R · MIT · 推送 2026-03-16 · [GitHub](https://github.com/boyanangelov/sdmbench) · 个人维护
 
 **物种分布模型（SDM）基准评测的 R 工作流与 GUI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "boyanangelov/sdmbench 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # humanspeak/svelte-markdown
 
-⭐ 147 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/humanspeak/svelte-markdown) · [官网](https://markdown.svelte.page) · 组织维护
+⭐ 148 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/humanspeak/svelte-markdown) · [官网](https://markdown.svelte.page) · 组织维护
 
 **面向 Svelte 5 的 Markdown/HTML 渲染组件，适配 AI agent 流式输出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "humanspeak/svelte-markdown 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 144 --> 148
-    line [145, 146, 147]
+    title "humanspeak/svelte-markdown 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 144 --> 149
+    line [145, 146, 147, 148]
 ```
 
-2026-10-23 145 → 2026-11-25 147（+2）
+2026-10-24 145 → 2026-11-26 148（+3）
 
 
 ---

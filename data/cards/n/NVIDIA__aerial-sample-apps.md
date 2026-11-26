@@ -1,6 +1,6 @@
 # NVIDIA/aerial-sample-apps
 
-⭐ 28 · Python · NOASSERTION · 推送 2026-10-21 · [GitHub](https://github.com/NVIDIA/aerial-sample-apps) · 组织维护
+⭐ 28 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA/aerial-sample-apps) · 组织维护
 
 **NVIDIA AI Aerial 平台的示例应用与参考实现集合**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的开源仓库，收录基于 AI Aerial 平台的示例应用与�
 ```mermaid
 xychart-beta
     title "NVIDIA/aerial-sample-apps 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 25 --> 29
     line [26, 27, 28, 28]
 ```
 
-2026-10-22 26 → 2026-11-25 28（+2）
+2026-10-23 26 → 2026-11-26 28（+2）
 
 
 ---

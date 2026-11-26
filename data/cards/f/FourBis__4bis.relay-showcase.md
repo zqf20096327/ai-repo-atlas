@@ -1,6 +1,6 @@
 # FourBis/4bis.relay-showcase
 
-⭐ 12 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/FourBis/4bis.relay-showcase) · [官网](https://fourbis.github.io/4bis.relay-showcase/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/FourBis/4bis.relay-showcase) · [官网](https://fourbis.github.io/4bis.relay-showcase/) · 组织维护
 
 **本地 AI 工作区：多仓库对话、持久任务与可审查 PR**
 
@@ -47,12 +47,12 @@ FourBis 开发的实验性本地工作区，将客户、项目、人员与 AI �
 ```mermaid
 xychart-beta
     title "FourBis/4bis.relay-showcase 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

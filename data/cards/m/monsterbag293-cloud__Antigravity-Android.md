@@ -1,6 +1,6 @@
 # monsterbag293-cloud/Antigravity-Android
 
-⭐ 10 · Kotlin · 推送 2026-11-23 · [GitHub](https://github.com/monsterbag293-cloud/Antigravity-Android) · 个人维护
+⭐ 13 · Kotlin · 推送 2026-11-24 · [GitHub](https://github.com/monsterbag293-cloud/Antigravity-Android) · 个人维护
 
 **在 Android 上原生运行 Google Antigravity agent 工作区的非官方移植**
 
@@ -44,13 +44,13 @@ Google Antigravity 的非官方 Android 移植与移动兼容运行时，开发�
 
 ```mermaid
 xychart-beta
-    title "monsterbag293-cloud/Antigravity-Android 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 8 --> 11
-    line [9, 10]
+    title "monsterbag293-cloud/Antigravity-Android 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 8 --> 14
+    line [9, 10, 13]
 ```
 
-2026-11-23 9 → 2026-11-25 10（+1）
+2026-11-23 9 → 2026-11-26 13（+4）
 
 
 ---

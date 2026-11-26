@@ -1,6 +1,6 @@
 # HYUNJS/STTM
 
-⭐ 62 · Python · 推送 2026-02-02 · [GitHub](https://github.com/HYUNJS/STTM) · [官网](https://www.jshyun.me/projects/sttm) · 组织维护
+⭐ 61 · Python · 推送 2026-02-02 · [GitHub](https://github.com/HYUNJS/STTM) · [官网](https://www.jshyun.me/projects/sttm) · 组织维护
 
 **免训练的视频 LLM 时空 token 合并加速方法（ICCV 2025 论文代码）**
 
@@ -45,12 +45,12 @@ ICCV 2025 论文的官方代码库，提出 STTM：免训练的时空 token 合�
 ```mermaid
 xychart-beta
     title "HYUNJS/STTM 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 60 --> 63
+    line [62, 61]
 ```
 
-2026-10-23 62 → 2026-11-25 62（+0）
+2026-10-24 62 → 2026-11-26 61（-1）
 
 
 ---

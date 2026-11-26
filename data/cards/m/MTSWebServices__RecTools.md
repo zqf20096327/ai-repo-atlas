@@ -44,13 +44,13 @@ RecTools 是用于构建推荐系统的 Python 库，面向推荐系统开发与
 
 ```mermaid
 xychart-beta
-    title "MTSWebServices/RecTools 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 457 --> 461
-    line [458, 459, 460, 460]
+    title "MTSWebServices/RecTools 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 458 --> 461
+    line [459, 460, 460]
 ```
 
-2026-10-23 458 → 2026-11-25 460（+2）
+2026-10-24 459 → 2026-11-26 460（+1）
 
 
 ---

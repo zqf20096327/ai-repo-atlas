@@ -1,6 +1,6 @@
 # mirkolenz/llmhop
 
-⭐ 13 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mirkolenz/llmhop) · [官网](https://mirkolenz.github.io/llmhop/) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mirkolenz/llmhop) · [官网](https://mirkolenz.github.io/llmhop/) · 个人维护
 
 **按 model 字段分发请求的 OpenAI 兼容 LLM 网关路由器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mirkolenz/llmhop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

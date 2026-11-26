@@ -1,6 +1,6 @@
 # laude-institute/rev-engine
 
-⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/laude-institute/rev-engine) · 组织维护
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/laude-institute/rev-engine) · 组织维护
 
 **以 GitHub Action 运行的 agentic 代码审查工具**
 
@@ -46,12 +46,12 @@ RevEngine 是以 GitHub Action 形式部署在自有仓库中的代码审查工�
 ```mermaid
 xychart-beta
     title "laude-institute/rev-engine 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 20 --> 32
-    line [21, 22, 24, 25, 22, 28, 29, 31, 30]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 21 --> 32
+    line [22, 24, 25, 22, 28, 29, 31, 30, 30]
 ```
 
-2026-10-23 21 → 2026-11-25 30（+9）
+2026-10-24 22 → 2026-11-26 30（+8）
 
 
 ---

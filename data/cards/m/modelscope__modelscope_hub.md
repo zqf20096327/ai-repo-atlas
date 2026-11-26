@@ -1,6 +1,6 @@
 # modelscope/modelscope_hub
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/modelscope/modelscope_hub) · 组织维护 · 中文 README
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/modelscope/modelscope_hub) · 组织维护 · 中文 README
 
 **ModelScope Hub 官方 Python SDK 与 CLI，管理模型/数据集等 AI 资产**
 
@@ -45,12 +45,12 @@ ModelScope 官方的 Python 客户端：通过单一 HubApi 类或 ms-hub 命令
 ```mermaid
 xychart-beta
     title "modelscope/modelscope_hub 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 14 --> 17
     line [15, 16, 15, 16, 16]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 16（+1）
 
 
 ---

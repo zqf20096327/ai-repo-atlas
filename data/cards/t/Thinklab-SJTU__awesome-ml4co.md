@@ -1,6 +1,6 @@
 # Thinklab-SJTU/awesome-ml4co
 
-⭐ 2,177 · Python · 推送 2026-11-14 · [GitHub](https://github.com/Thinklab-SJTU/awesome-ml4co) · 组织维护 · 中文 README
+⭐ 2,178 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Thinklab-SJTU/awesome-ml4co) · 组织维护 · 中文 README
 
 **机器学习求解组合优化问题的论文资源清单**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Thinklab-SJTU/awesome-ml4co 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-18", "2026-11-21", "2026-11-25"]
+    title "Thinklab-SJTU/awesome-ml4co 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2174 --> 2179
-    line [2177, 2175, 2177, 2178, 2176, 2177]
+    line [2177, 2175, 2177, 2178, 2176, 2177, 2178]
 ```
 
-2026-10-23 2,177 → 2026-11-25 2,177（+0）
+2026-10-24 2,177 → 2026-11-26 2,178（+1）
 
 
 ---

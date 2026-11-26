@@ -1,6 +1,6 @@
 # windagency/valora.ai
 
-⭐ 25 · TypeScript · 推送 2026-10-13 · [GitHub](https://github.com/windagency/valora.ai) · 组织维护
+⭐ 24 · TypeScript · 推送 2026-10-13 · [GitHub](https://github.com/windagency/valora.ai) · 组织维护
 
 **AI 辅助软件开发的多 Agent 编排与生命周期控制层**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "windagency/valora.ai 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
     y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    line [24, 25, 24]
 ```
 
-2026-10-23 24 → 2026-11-25 25（+1）
+2026-10-24 24 → 2026-11-26 24（+0）
 
 
 ---

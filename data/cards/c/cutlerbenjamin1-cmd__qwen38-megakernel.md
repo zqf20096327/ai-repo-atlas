@@ -1,6 +1,6 @@
 # cutlerbenjamin1-cmd/qwen38-megakernel
 
-⭐ 23 · Cuda · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/cutlerbenjamin1-cmd/qwen38-megakernel) · 个人维护
+⭐ 28 · Cuda · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/cutlerbenjamin1-cmd/qwen38-megakernel) · 个人维护
 
 **单卡 24GB GPU 运行 Qwen3.8-27B 的 CUDA 推理引擎与服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cutlerbenjamin1-cmd/qwen38-megakernel 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 4 --> 24
-    line [5, 17, 20, 21, 22, 23, 23]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 3 --> 30
+    line [5, 17, 20, 21, 22, 23, 28]
 ```
 
-2026-11-02 5 → 2026-11-25 23（+18）
+2026-11-02 5 → 2026-11-26 28（+23）
 
 
 ---

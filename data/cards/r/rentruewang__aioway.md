@@ -1,6 +1,6 @@
 # rentruewang/aioway
 
-⭐ 1,821 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rentruewang/aioway) · [官网](https://aioway.rentruewang.com/) · 个人维护
+⭐ 1,820 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rentruewang/aioway) · [官网](https://aioway.rentruewang.com/) · 个人维护
 
 **面向开发者的深度学习算法优化编译器，构建白盒可解释模型**
 
@@ -39,6 +39,18 @@ Aioway 自述为深度学习算法的优化编译器：将机器学习模型/算
 
 > L11: > Aioway is an optimizing compiler for deep learning algorithms.
 > L25: - 🔥 Extensible with custom pytorch.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rentruewang/aioway 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 1819 --> 1822
+    line [1821, 1820]
+```
+
+2026-11-25 1,821 → 2026-11-26 1,820（-1）
 
 
 ---

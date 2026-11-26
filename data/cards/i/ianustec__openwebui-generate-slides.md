@@ -1,6 +1,6 @@
 # ianustec/openwebui-generate-slides
 
-⭐ 79 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ianustec/openwebui-generate-slides) · [官网](https://ianustec.com) · 个人维护
+⭐ 80 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/ianustec/openwebui-generate-slides) · [官网](https://ianustec.com) · 个人维护
 
 **Open WebUI 工具：从模型生成的 JSON 规格生成原生 PPTX 演示文稿**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ianustec/openwebui-generate-slides 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 65 --> 80
-    line [66, 67, 68, 69, 67, 73, 74, 76, 77, 78, 79]
+    title "ianustec/openwebui-generate-slides 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 65 --> 81
+    line [66, 67, 68, 69, 67, 73, 74, 76, 77, 78, 79, 80]
 ```
 
-2026-10-23 66 → 2026-11-25 79（+13）
+2026-10-24 66 → 2026-11-26 80（+14）
 
 
 ---

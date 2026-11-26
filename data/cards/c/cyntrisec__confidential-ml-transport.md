@@ -1,6 +1,6 @@
 # cyntrisec/confidential-ml-transport
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/cyntrisec/confidential-ml-transport) · 个人维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/cyntrisec/confidential-ml-transport) · 个人维护
 
 **为机密推理提供证明绑定加密张量传输的 Rust 库**
 
@@ -46,12 +46,12 @@ Rust 库，在 TEE enclave 与客户端之间提供二进制分帧的加密通�
 ```mermaid
 xychart-beta
     title "cyntrisec/confidential-ml-transport 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

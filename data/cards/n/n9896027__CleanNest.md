@@ -1,6 +1,6 @@
 # n9896027/CleanNest
 
-⭐ 14 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/n9896027/CleanNest) · 个人维护 · 中文 README
+⭐ 14 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/n9896027/CleanNest) · 个人维护 · 中文 README
 
 **隐私优先的 macOS 原生清理与系统监测工具，可选本机 AI 辅助**
 
@@ -45,12 +45,12 @@ Swift 编写的原生 macOS 图形客户端，功能包括磁盘空间分析、�
 ```mermaid
 xychart-beta
     title "n9896027/CleanNest 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

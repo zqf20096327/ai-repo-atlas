@@ -1,6 +1,6 @@
 # reductstore/reductstore
 
-⭐ 380 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/reductstore/reductstore) · [官网](https://www.reduct.store) · 组织维护
+⭐ 492 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/reductstore/reductstore) · [官网](https://www.reduct.store) · 组织维护
 
 **面向机器人与工业 IoT 的时间索引对象存储**
 
@@ -45,12 +45,12 @@ ReductStore 是一个面向机器人与工业物联网场景的时间索引对�
 ```mermaid
 xychart-beta
     title "reductstore/reductstore 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 374 --> 382
-    line [375, 376, 375, 377, 378, 379, 381, 380, 380]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 364 --> 503
+    line [375, 376, 375, 377, 378, 379, 381, 380, 492]
 ```
 
-2026-10-23 375 → 2026-11-25 380（+5）
+2026-10-24 375 → 2026-11-26 492（+117）
 
 
 ---

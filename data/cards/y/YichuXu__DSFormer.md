@@ -45,12 +45,12 @@ Neural Networks 2025 论文 DSFormer 的官方 PyTorch 实现：一种用于高�
 ```mermaid
 xychart-beta
     title "YichuXu/DSFormer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-23 104 → 2026-11-25 104（+0）
+2026-10-24 104 → 2026-11-26 104（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Decodo/decodo-openclaw-skill
 
-⭐ 152 · Python · 推送 2026-10-29 · [GitHub](https://github.com/Decodo/decodo-openclaw-skill) · [官网](https://decodo.com) · 组织维护
+⭐ 152 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Decodo/decodo-openclaw-skill) · [官网](https://decodo.com) · 组织维护
 
 **为 OpenClaw agent 提供网页抓取工具的技能包（Decodo API）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Decodo/decodo-openclaw-skill 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 151 --> 154
-    line [153, 152, 152]
+    title "Decodo/decodo-openclaw-skill 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 151 --> 153
+    line [152, 152]
 ```
 
-2026-10-23 153 → 2026-11-25 152（-1）
+2026-10-24 152 → 2026-11-26 152（+0）
 
 
 ---

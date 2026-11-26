@@ -1,6 +1,6 @@
 # djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection
 
-⭐ 19 · Python · 推送 2026-11-23 · [GitHub](https://github.com/djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection) · 个人维护
+⭐ 19 · Python · 推送 2026-11-25 · [GitHub](https://github.com/djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection) · [官网](https://github.com/djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection) · 个人维护
 
 **工业机器视觉与异常检测的深度学习论文清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "djene-mengistu/Awesome-Machine-Vision-and-Anomaly-Detection 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
     y-axis "stars" 16 --> 20
     line [17, 18, 17, 18, 19, 19]
 ```
 
-2026-10-23 17 → 2026-11-25 19（+2）
+2026-10-24 17 → 2026-11-26 19（+2）
 
 
 ---

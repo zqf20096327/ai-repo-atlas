@@ -1,6 +1,6 @@
 # ranajahanzaib/industrial-visual-defect-detection
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/industrial-visual-defect-detection) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ranajahanzaib/industrial-visual-defect-detection) · 个人维护
 
 **面向工业 QA/QC 的无监督视觉缺陷检测工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/industrial-visual-defect-detection 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 3（+0）
 
 
 ---

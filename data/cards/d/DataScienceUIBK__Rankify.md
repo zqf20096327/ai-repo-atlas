@@ -1,6 +1,6 @@
 # DataScienceUIBK/Rankify
 
-⭐ 683 · Python · 推送 2026-11-21 · [GitHub](https://github.com/DataScienceUIBK/Rankify) · [官网](https://rankify.readthedocs.io/) · 组织维护
+⭐ 682 · Python · 推送 2026-11-21 · [GitHub](https://github.com/DataScienceUIBK/Rankify) · [官网](https://rankify.readthedocs.io/) · 组织维护
 
 **检索、重排序与 RAG 的 Python 工具包，面向研究评测与开发**
 
@@ -45,13 +45,13 @@ Rankify 是模块化的检索/重排序/RAG 框架：支持 7 种以上检索技
 
 ```mermaid
 xychart-beta
-    title "DataScienceUIBK/Rankify 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 682 --> 686
-    line [685, 684, 683, 684, 683, 684, 683, 683]
+    title "DataScienceUIBK/Rankify 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 681 --> 685
+    line [684, 683, 684, 683, 684, 683, 682]
 ```
 
-2026-10-23 685 → 2026-11-25 683（-2）
+2026-10-24 684 → 2026-11-26 682（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # blkdmr/pixagon
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/blkdmr/pixagon) · [官网](https://blkdmr.github.io/pixagon/) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/blkdmr/pixagon) · [官网](https://blkdmr.github.io/pixagon/) · 个人维护
 
 **Aseprite 像素画 AI 助手：本地或云端生成、编辑、补绘 sprite**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "blkdmr/pixagon 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 4（+1）
 
 
 ---

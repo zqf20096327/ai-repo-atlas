@@ -1,6 +1,6 @@
 # hshiKoi/hsMuse
 
-⭐ 4 · 推送 2026-11-23 · [GitHub](https://github.com/hshiKoi/hsMuse) · [官网](https://www.patreon.com/c/hshiKoi) · 个人维护 · 中文 README
+⭐ 5 · 推送 2026-11-25 · [GitHub](https://github.com/hshiKoi/hsMuse) · [官网](https://www.patreon.com/c/hshiKoi) · 个人维护 · 中文 README
 
 **零显存本地 AI 绘画提示词生成与 Tag 清洗工作台**
 
@@ -40,6 +40,18 @@
 
 > L23: **hsMuse** 是一款纯本地运行、零显存占用的 AI 绘画提示词引擎与资产管理工作台，深度适配 **ComfyUI / Flux / Krea 2 / SDXL**。一键同步输出 **「8 级规范排序 Tag 序列」** 与
 > L47: - **多源并发灵感直采 & 批量清洗转换**：支持 SFW / 纯欲 / R18 分级并发抓取并沉淀至本地池；支持单次最高 200 行批量清洗，按需剥离 LoRA、权重、废词、外貌或基础服装（保留景别与神态词），一键转安全预览 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hshiKoi/hsMuse 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-25 4 → 2026-11-26 5（+1）
 
 
 ---

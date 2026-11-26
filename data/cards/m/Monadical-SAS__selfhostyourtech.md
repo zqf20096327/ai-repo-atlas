@@ -1,6 +1,6 @@
 # Monadical-SAS/selfhostyourtech
 
-⭐ 12 · Shell · 推送 2025-12-12 · [GitHub](https://github.com/Monadical-SAS/selfhostyourtech) · [官网](https://selfhostyour.tech) · 组织维护
+⭐ 13 · Shell · 推送 2025-12-12 · [GitHub](https://github.com/Monadical-SAS/selfhostyourtech) · [官网](https://selfhostyour.tech) · 组织维护
 
 **面向 1-100 人企业的 Docker 自托管全家桶部署套件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Monadical-SAS/selfhostyourtech 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

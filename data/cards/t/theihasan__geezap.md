@@ -1,6 +1,6 @@
 # theihasan/geezap
 
-⭐ 131 · PHP · 推送 2026-03-17 · [GitHub](https://github.com/theihasan/geezap) · [官网](http://geezap.com) · 个人维护
+⭐ 130 · PHP · 推送 2026-03-17 · [GitHub](https://github.com/theihasan/geezap) · [官网](http://geezap.com) · 个人维护
 
 **Laravel 职位聚合平台：统一搜索多平台职位并带 AI 求职信生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "theihasan/geezap 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 130 --> 132
-    line [131, 131]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 129 --> 132
+    line [131, 130]
 ```
 
-2026-10-23 131 → 2026-11-25 131（+0）
+2026-10-24 131 → 2026-11-26 130（-1）
 
 
 ---

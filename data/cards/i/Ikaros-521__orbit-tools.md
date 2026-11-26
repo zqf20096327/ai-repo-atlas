@@ -1,6 +1,6 @@
 # Ikaros-521/orbit-tools
 
-⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Ikaros-521/orbit-tools) · [官网](https://ikaros-521.github.io/orbit-tools/) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Ikaros-521/orbit-tools) · [官网](https://ikaros-521.github.io/orbit-tools/) · 个人维护 · 中文 README
 
 **给开发者的开源 uTools 风格插件化工具箱，含 AI Agent 对话**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Ikaros-521/orbit-tools 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-21", "2026-11-26"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-10 4 → 2026-11-25 5（+1）
+2026-11-10 4 → 2026-11-26 5（+1）
 
 
 ---

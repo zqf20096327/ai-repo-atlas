@@ -1,6 +1,6 @@
 # greydanus/mnist1d
 
-⭐ 264 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/greydanus/mnist1d) · 个人维护
+⭐ 265 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/greydanus/mnist1d) · 个人维护
 
 **MNIST 的 1D 类比数据集，用于测量空间归纳偏置**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "greydanus/mnist1d 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 261 --> 265
-    line [262, 263, 264, 264]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 261 --> 266
+    line [262, 263, 264, 265]
 ```
 
-2026-10-23 262 → 2026-11-25 264（+2）
+2026-10-24 262 → 2026-11-26 265（+3）
 
 
 ---

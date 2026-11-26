@@ -1,6 +1,6 @@
 # TopCited/topcited-skills
 
-⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/TopCited/topcited-skills) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/TopCited/topcited-skills) · 组织维护
 
 **教 AI 代理做 SEO/GEO 的技能包：知识库、CLI 驱动与可见性工作流**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TopCited/topcited-skills 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 5 --> 11
     line [6, 7, 10, 6, 10, 10]
 ```
 
-2026-10-23 6 → 2026-11-25 10（+4）
+2026-10-24 6 → 2026-11-26 10（+4）
 
 
 ---

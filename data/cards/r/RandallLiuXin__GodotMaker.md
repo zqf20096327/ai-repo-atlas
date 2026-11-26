@@ -1,6 +1,6 @@
 # RandallLiuXin/GodotMaker
 
-⭐ 564 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/RandallLiuXin/GodotMaker) · [官网](https://randallliuxin.github.io/GodotMaker/) · 个人维护 · 中文 README
+⭐ 565 · Python · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/RandallLiuXin/GodotMaker) · [官网](https://randallliuxin.github.io/GodotMaker/) · 个人维护 · 中文 README
 
 **用 AI agent 从文字想法自动生成可玩 Godot 游戏的流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RandallLiuXin/GodotMaker 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 553 --> 565
-    line [554, 555, 557, 558, 559, 555, 560, 562, 563, 564, 564]
+    title "RandallLiuXin/GodotMaker 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 554 --> 566
+    line [555, 557, 558, 559, 555, 560, 562, 563, 564, 565]
 ```
 
-2026-10-23 554 → 2026-11-25 564（+10）
+2026-10-24 555 → 2026-11-26 565（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # aivisionslab-studios/rx580-local-ai-guide
 
-⭐ 52 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/aivisionslab-studios/rx580-local-ai-guide) · [官网](https://setup-ia-local-rx580-vulkan.web.app) · 组织维护
+⭐ 53 · TypeScript · MIT · 推送 2026-06-23 · [GitHub](https://github.com/aivisionslab-studios/rx580-local-ai-guide) · [官网](https://setup-ia-local-rx580-vulkan.web.app) · 组织维护
 
 **AMD RX 580 8GB 上用 Vulkan 跑本地 AI 的完整指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aivisionslab-studios/rx580-local-ai-guide 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 42 --> 53
-    line [43, 44, 46, 44, 47, 50, 51, 50, 51, 52]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 43 --> 54
+    line [44, 46, 44, 47, 50, 51, 50, 51, 52, 53]
 ```
 
-2026-10-23 43 → 2026-11-25 52（+9）
+2026-10-24 44 → 2026-11-26 53（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # oficcejo/alphapilot
 
-⭐ 10 · Python · 推送 2026-11-24 · [GitHub](https://github.com/oficcejo/alphapilot) · [官网](https://discord.gg/jk4mnW53gK) · 个人维护 · 中文 README
+⭐ 12 · Python · 推送 2026-11-24 · [GitHub](https://github.com/oficcejo/alphapilot) · [官网](https://discord.gg/jk4mnW53gK) · 个人维护 · 中文 README
 
 **面向 OKX 交易所的 AI 量化交易平台：自动挖掘 Alpha 因子并支持实盘交易**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "oficcejo/alphapilot 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-11-21 10 → 2026-11-25 10（+0）
+2026-11-21 10 → 2026-11-26 12（+2）
 
 
 ---

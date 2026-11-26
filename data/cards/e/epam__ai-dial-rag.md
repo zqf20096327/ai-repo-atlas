@@ -1,6 +1,6 @@
 # epam/ai-dial-rag
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/epam/ai-dial-rag) · [官网](https://dialx.ai) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/epam/ai-dial-rag) · [官网](https://dialx.ai) · 组织维护
 
 **面向 Dial 环境的多检索方式文档问答系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "epam/ai-dial-rag 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

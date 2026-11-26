@@ -1,6 +1,6 @@
 # omnimux-ai/omnimux-client
 
-⭐ 29 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/omnimux-ai/omnimux-client) · [官网](https://omnimux.ai) · 组织维护 · 中文 README
+⭐ 89 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/omnimux-ai/omnimux-client) · [官网](https://omnimux.ai) · 组织维护 · 中文 README
 
 **本地 AI 商品视频工作台：营销视频与带货内容一站式生成剪辑**
 
@@ -41,6 +41,18 @@
 > L34: **OmniMux** solves the biggest headache in AI product video production: scattered prompts, inconsistent characters/
 > L39: - 🧩 **Co-edit workflows and timelines with your Agent** — Wire image, video, lip-sync, voiceover, and music nodes o
 > L163: |**Infinite Workflow Canvas** (`omnimux-workflow`)|Drag and wire prompt, reference image, first/last-frame video, 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "omnimux-ai/omnimux-client 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 23 --> 95
+    line [29, 89]
+```
+
+2026-11-25 29 → 2026-11-26 89（+60）
 
 
 ---

@@ -1,6 +1,6 @@
 # sergenes/mini_agent
 
-⭐ 37 · Python · 推送 2026-08-31 · [GitHub](https://github.com/sergenes/mini_agent) · 个人维护
+⭐ 38 · Python · 推送 2026-08-31 · [GitHub](https://github.com/sergenes/mini_agent) · 个人维护
 
 **从零实现的极简 AI agent：纯 Python 循环加工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sergenes/mini_agent 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-14", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 35 --> 38
-    line [37, 36, 37, 37]
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 35 --> 39
+    line [37, 36, 37, 38]
 ```
 
-2026-10-23 37 → 2026-11-25 37（+0）
+2026-10-24 37 → 2026-11-26 38（+1）
 
 
 ---

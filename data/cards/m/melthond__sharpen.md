@@ -1,6 +1,6 @@
 # melthond/sharpen
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/melthond/sharpen) · [官网](https://sharpen-site.vercel.app) · 个人维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/melthond/sharpen) · [官网](https://sharpen-site.vercel.app) · 个人维护
 
 **Claude Code 插件：把含糊的输入重写成明确的工程化提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "melthond/sharpen 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

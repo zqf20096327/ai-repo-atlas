@@ -1,6 +1,6 @@
 # ThomasRochefortB/open-agentinstruct
 
-⭐ 29 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThomasRochefortB/open-agentinstruct) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThomasRochefortB/open-agentinstruct) · 个人维护
 
 **开源复刻 AgentInstruct 的合成数据生成工作流，供开发者生成微调数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ThomasRochefortB/open-agentinstruct 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-11-02", "2026-11-26"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-11-02 29 → 2026-11-25 29（+0）
+2026-11-02 29 → 2026-11-26 30（+1）
 
 
 ---

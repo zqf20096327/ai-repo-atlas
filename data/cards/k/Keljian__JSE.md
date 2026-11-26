@@ -1,6 +1,6 @@
 # Keljian/JSE
 
-⭐ 30 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/Keljian/JSE) · [官网](https://ko-fi.com/keljian) · 个人维护
+⭐ 30 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Keljian/JSE) · [官网](https://ko-fi.com/keljian) · 个人维护
 
 **本地优先的求职全流程桌面助手：抓取、匹配、生成材料、看板跟踪**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Keljian/JSE 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 30（+0）
 
 
 ---

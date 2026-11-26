@@ -1,6 +1,6 @@
 # OpenDataBox/Workspace-Bench
 
-⭐ 86 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/OpenDataBox/Workspace-Bench) · [官网](https://workspace-bench.github.io) · 组织维护 · 中文 README
+⭐ 87 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/OpenDataBox/Workspace-Bench) · [官网](https://workspace-bench.github.io) · 组织维护 · 中文 README
 
 **评测 AI agent 在大规模文件依赖工作区任务上的基准**
 
@@ -45,12 +45,12 @@ Workspace-Bench 是评测 AI agent 在含大规模文件依赖的真实工作区
 ```mermaid
 xychart-beta
     title "OpenDataBox/Workspace-Bench 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 80 --> 87
-    line [81, 82, 83, 81, 83, 84, 86, 86]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 80 --> 88
+    line [81, 82, 83, 81, 83, 84, 86, 87]
 ```
 
-2026-10-23 81 → 2026-11-25 86（+5）
+2026-10-24 81 → 2026-11-26 87（+6）
 
 
 ---

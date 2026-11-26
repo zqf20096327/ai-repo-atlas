@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NirDiamant/moltbook-agent-guard 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "NirDiamant/moltbook-agent-guard 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 65 --> 68
-    line [66, 67]
+    line [66, 67, 67]
 ```
 
-2026-10-23 66 → 2026-11-25 67（+1）
+2026-10-24 66 → 2026-11-26 67（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tencent-RTC/agent-skills
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Tencent-RTC/agent-skills) · [官网](https://trtc.io) · 组织维护 · 中文 README
+⭐ 15 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Tencent-RTC/agent-skills) · [官网](https://trtc.io) · 组织维护 · 中文 README
 
 **面向开发者的 TRTC SDK 集成引导 agent 技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Tencent-RTC/agent-skills 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 13 --> 16
     line [14, 15, 14, 15, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

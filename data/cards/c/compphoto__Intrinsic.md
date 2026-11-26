@@ -1,6 +1,6 @@
 # compphoto/Intrinsic
 
-⭐ 394 · Python · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/compphoto/Intrinsic) · [官网](https://yaksoy.github.io/intrinsic) · 组织维护
+⭐ 395 · Python · NOASSERTION · 推送 2026-04-03 · [GitHub](https://github.com/compphoto/Intrinsic) · [官网](https://yaksoy.github.io/intrinsic) · 组织维护
 
 **野外图像高分辨率彩色本征图像分解的论文官方代码**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "compphoto/Intrinsic 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 387 --> 395
-    line [388, 389, 388, 389, 390, 391, 392, 393, 394]
+    title "compphoto/Intrinsic 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-01", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 387 --> 396
+    line [388, 389, 388, 389, 390, 391, 392, 393, 394, 395]
 ```
 
-2026-10-23 388 → 2026-11-25 394（+6）
+2026-10-24 388 → 2026-11-26 395（+7）
 
 
 ---

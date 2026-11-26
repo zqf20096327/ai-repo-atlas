@@ -1,6 +1,6 @@
 # debug2048/Harnex
 
-⭐ 6 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/debug2048/Harnex) · 组织维护 · 中文 README
+⭐ 7 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/debug2048/Harnex) · 组织维护 · 中文 README
 
 **面向开发者的多端 AI Agent 工作区：对话、生图与项目任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "debug2048/Harnex 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 6, 6]
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 3 --> 8
+    line [4, 6, 7]
 ```
 
-2026-11-21 4 → 2026-11-25 6（+2）
+2026-11-21 4 → 2026-11-26 7（+3）
 
 
 ---

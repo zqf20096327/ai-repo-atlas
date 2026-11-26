@@ -45,13 +45,13 @@ Bioconductor 生态的 R 包，为多组学数据（宏基因组、代谢组等�
 
 ```mermaid
 xychart-beta
-    title "himelmallick/IntegratedLearner 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    title "himelmallick/IntegratedLearner 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 33 --> 35
+    line [34, 34]
 ```
 
-2026-10-23 33 → 2026-11-25 34（+1）
+2026-10-24 34 → 2026-11-26 34（+0）
 
 
 ---

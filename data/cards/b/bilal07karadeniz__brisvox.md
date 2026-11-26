@@ -1,6 +1,6 @@
 # bilal07karadeniz/brisvox
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 36 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/bilal07karadeniz/brisvox) · 个人维护
 
 **Rust 实时语音代理引擎：电话/浏览器通话中接入 LLM 语音应答**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bilal07karadeniz/brisvox 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-21", "2026-11-22"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-01", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 0 --> 39
+    line [3, 4, 36]
 ```
 
-2026-11-01 3 → 2026-11-22 4（+1）
+2026-11-01 3 → 2026-11-26 36（+33）
 
 
 ---

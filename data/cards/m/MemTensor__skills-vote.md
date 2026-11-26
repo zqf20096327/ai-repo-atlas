@@ -1,6 +1,6 @@
 # MemTensor/skills-vote
 
-⭐ 309 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/MemTensor/skills-vote) · [官网](https://skills.vote) · 组织维护 · 中文 README
+⭐ 310 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/MemTensor/skills-vote) · [官网](https://skills.vote) · 组织维护 · 中文 README
 
 **Agent 技能全生命周期治理系统：采集、推荐到进化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MemTensor/skills-vote 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 304 --> 310
-    line [305, 306, 307, 308, 306, 309, 309]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 304 --> 311
+    line [305, 306, 307, 308, 306, 309, 310]
 ```
 
-2026-10-23 305 → 2026-11-25 309（+4）
+2026-10-24 305 → 2026-11-26 310（+5）
 
 
 ---

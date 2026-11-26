@@ -1,6 +1,6 @@
 # xiaobaidadada/filecat
 
-⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/xiaobaidadada/filecat) · [官网](https://docs.filecat.xiaobaidadada.fun/#/en/) · 个人维护 · 中文 README
+⭐ 106 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/xiaobaidadada/filecat) · [官网](https://docs.filecat.xiaobaidadada.fun/#/en/) · 个人维护 · 中文 README
 
 **自托管 Web 文件服务器与轻量服务器管理工具，集成 AI Agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xiaobaidadada/filecat 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 103 --> 107
     line [104, 105, 104, 105, 106, 106]
 ```
 
-2026-10-23 104 → 2026-11-25 106（+2）
+2026-10-24 104 → 2026-11-26 106（+2）
 
 
 ---

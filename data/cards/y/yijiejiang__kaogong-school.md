@@ -1,6 +1,6 @@
 # yijiejiang/kaogong-school
 
-⭐ 41 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yijiejiang/kaogong-school) · 个人维护 · 中文 README
+⭐ 119 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yijiejiang/kaogong-school) · 个人维护 · 中文 README
 
 **本地优先的考公备考多智能体 AI 学习系统**
 
@@ -41,6 +41,18 @@
 > L5: 自己做的一个考公学习系统。资料、知识、技能、出卷、改卷、学情都放在一个对话框里，数据默认存在本机。
 > L29: 对话只有一个入口。问什么由辅导员判断该谁接：找资料、整理知识、出卷、讲错题、看学情，各有对应老师。
 > L275: 没做登录鉴权，只适合单人本机用。想放到公网，先补认证。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yijiejiang/kaogong-school 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 34 --> 126
+    line [41, 119]
+```
+
+2026-11-25 41 → 2026-11-26 119（+78）
 
 
 ---

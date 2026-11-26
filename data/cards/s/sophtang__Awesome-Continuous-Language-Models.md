@@ -1,6 +1,6 @@
 # sophtang/Awesome-Continuous-Language-Models
 
-⭐ 39 · 推送 2026-11-20 · [GitHub](https://github.com/sophtang/Awesome-Continuous-Language-Models) · [官网](https://continuous-lm.github.io/) · 组织维护
+⭐ 41 · 推送 2026-11-20 · [GitHub](https://github.com/sophtang/Awesome-Continuous-Language-Models) · [官网](https://continuous-lm.github.io/) · 组织维护
 
 **连续扩散与流语言模型论文策展清单（配合综述维护）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sophtang/Awesome-Continuous-Language-Models 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 24 --> 40
-    line [25, 28, 32, 34, 35, 36, 37, 39]
+    title "sophtang/Awesome-Continuous-Language-Models 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 42
+    line [25, 28, 32, 34, 35, 36, 37, 39, 41]
 ```
 
-2026-11-10 25 → 2026-11-25 39（+14）
+2026-11-10 25 → 2026-11-26 41（+16）
 
 
 ---

@@ -1,6 +1,6 @@
 # HorizunGroup/naviscoord-mcp
 
-⭐ 22 · C# · MIT · 推送 2026-11-07 · [GitHub](https://github.com/HorizunGroup/naviscoord-mcp) · [官网](https://horizunhub.com/ia/) · 组织维护
+⭐ 23 · C# · MIT · 推送 2026-11-07 · [GitHub](https://github.com/HorizunGroup/naviscoord-mcp) · [官网](https://horizunhub.com/ia/) · 组织维护
 
 **连接 Navisworks 与 AI 客户端的 MCP 服务器：BIM 碰撞分析与协调计划**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HorizunGroup/naviscoord-mcp 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 18 --> 23
-    line [19, 20, 21, 22]
+    title "HorizunGroup/naviscoord-mcp 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 24
+    line [19, 20, 21, 22, 23]
 ```
 
-2026-10-23 19 → 2026-11-25 22（+3）
+2026-10-24 19 → 2026-11-26 23（+4）
 
 
 ---

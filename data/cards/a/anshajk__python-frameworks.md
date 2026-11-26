@@ -1,6 +1,6 @@
 # anshajk/python-frameworks
 
-⭐ 14 · Jupyter Notebook · 推送 2026-11-05 · [GitHub](https://github.com/anshajk/python-frameworks) · 个人维护
+⭐ 15 · Jupyter Notebook · 推送 2026-11-05 · [GitHub](https://github.com/anshajk/python-frameworks) · 个人维护
 
 **Python 框架分类清单：覆盖后端/ML/深度学习/数据工程等**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "anshajk/python-frameworks 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "anshajk/python-frameworks 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

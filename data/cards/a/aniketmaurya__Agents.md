@@ -45,12 +45,12 @@ AgentForce 是一个构建生产级 AI Agent 的 Python 框架：通过函数调
 ```mermaid
 xychart-beta
     title "aniketmaurya/Agents 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-23 27 → 2026-11-25 27（+0）
+2026-10-24 27 → 2026-11-26 27（+0）
 
 
 ---

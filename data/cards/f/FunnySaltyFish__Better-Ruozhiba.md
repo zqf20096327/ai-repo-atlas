@@ -1,6 +1,6 @@
 # FunnySaltyFish/Better-Ruozhiba
 
-⭐ 267 · Apache-2.0 · 推送 2026-02-21 · [GitHub](https://github.com/FunnySaltyFish/Better-Ruozhiba) · 个人维护 · 中文 README
+⭐ 268 · Apache-2.0 · 推送 2026-02-21 · [GitHub](https://github.com/FunnySaltyFish/Better-Ruozhiba) · 个人维护 · 中文 README
 
 **人工审核修订的中文弱智吧问答数据集**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "FunnySaltyFish/Better-Ruozhiba 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 264 --> 268
-    line [265, 266, 265, 266, 267, 267]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 264 --> 269
+    line [265, 266, 265, 266, 267, 268]
 ```
 
-2026-10-23 265 → 2026-11-25 267（+2）
+2026-10-24 265 → 2026-11-26 268（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Evalogical-Inc/devReady
 
-⭐ 4 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Evalogical-Inc/devReady) · [官网](https://devready-ten.vercel.app/) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Evalogical-Inc/devReady) · [官网](https://devready-ten.vercel.app/) · 组织维护
 
 **给开发者与 AI agent 做项目环境要求预检的只读 CLI**
 
@@ -47,12 +47,12 @@ DevReady 是零依赖、只读的命令行工具：读取项目声明的要求�
 ```mermaid
 xychart-beta
     title "Evalogical-Inc/devReady 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-28 3 → 2026-11-25 4（+1）
+2026-10-28 3 → 2026-11-26 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # chanto-sh/chanto
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/chanto-sh/chanto) · [官网](https://chanto.sh) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/chanto-sh/chanto) · [官网](https://chanto.sh) · 组织维护
 
 **终端里的编程 Agent CLI，可接本地或云端多种模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "chanto-sh/chanto 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-25"]
+    x-axis ["2026-10-25", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-25 3（+0）
+2026-10-25 3 → 2026-11-26 3（+0）
 
 
 ---

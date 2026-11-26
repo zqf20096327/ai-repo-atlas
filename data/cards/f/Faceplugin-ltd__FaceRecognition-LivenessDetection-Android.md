@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-LivenessDetection-Android
 
-⭐ 475 · Kotlin · 推送 2026-11-23 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Android) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 476 · Kotlin · 推送 2026-11-24 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-Android) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **安卓端离线人脸识别与活体检测 SDK 及演示应用**
 
@@ -40,6 +40,18 @@ FacePlugin 的 Android 人脸 SDK 仓库，包含引擎二进制（facerecogniti
 > L21: FacePlugin **Face Recognition + Liveness Detection for Android** runs face recognition and passive liveness entirel
 > L29: |Face detection (bounding box, landmarks, pose, attributes)|`FaceDetector.detect`|
 > L30: |passive liveness (anti-spoofing)|`face.liveness` · `FaceLimits.isLive`|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Faceplugin-ltd/FaceRecognition-LivenessDetection-Android 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 474 --> 477
+    line [475, 476]
+```
+
+2026-11-25 475 → 2026-11-26 476（+1）
 
 
 ---

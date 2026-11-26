@@ -1,6 +1,6 @@
 # dcellison/kai
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/dcellison/kai) · 个人维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/dcellison/kai) · 个人维护
 
 **自托管常驻编码 agent 服务：人与 agent 在本机长期协作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dcellison/kai 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-23 38 → 2026-11-25 39（+1）
+2026-10-24 38 → 2026-11-26 40（+2）
 
 
 ---

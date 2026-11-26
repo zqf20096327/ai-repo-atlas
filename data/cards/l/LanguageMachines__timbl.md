@@ -1,6 +1,6 @@
 # LanguageMachines/timbl
 
-⭐ 57 · C++ · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/LanguageMachines/timbl) · [官网](https://languagemachines.github.io/timbl) · 组织维护
+⭐ 58 · C++ · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/LanguageMachines/timbl) · [官网](https://languagemachines.github.io/timbl) · 组织维护
 
 **记忆学习算法软件包：提供 kNN 与决策树分类器**
 
@@ -44,12 +44,12 @@ TiMBL 是实现多种基于记忆的学习算法的开源 C++ 软件包，核心
 ```mermaid
 xychart-beta
     title "LanguageMachines/timbl 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 55 --> 58
-    line [56, 57, 57]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 55 --> 59
+    line [56, 57, 58]
 ```
 
-2026-10-23 56 → 2026-11-25 57（+1）
+2026-10-24 56 → 2026-11-26 58（+2）
 
 
 ---

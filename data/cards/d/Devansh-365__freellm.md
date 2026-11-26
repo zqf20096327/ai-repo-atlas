@@ -1,6 +1,6 @@
 # Devansh-365/freellm
 
-⭐ 78 · TypeScript · MIT · 推送 2026-05-29 · [GitHub](https://github.com/Devansh-365/freellm) · [官网](https://freellms.vercel.app) · 个人维护
+⭐ 78 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Devansh-365/freellm) · [官网](https://freellms.vercel.app) · 个人维护
 
 **聚合 8 家免费 LLM 提供商的 OpenAI 兼容网关，带自动故障转移**
 
@@ -44,13 +44,13 @@ TypeScript 实现的 OpenAI 兼容 API 网关，将 Groq、Gemini、Mistral、Ce
 
 ```mermaid
 xychart-beta
-    title "Devansh-365/freellm 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22", "2026-11-23", "2026-11-25"]
+    title "Devansh-365/freellm 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 65 --> 79
-    line [66, 68, 66, 71, 72, 73, 75, 78]
+    line [66, 68, 66, 71, 72, 73, 75, 78, 78]
 ```
 
-2026-10-23 66 → 2026-11-25 78（+12）
+2026-10-24 66 → 2026-11-26 78（+12）
 
 
 ---

@@ -45,12 +45,12 @@ Université Paris-Saclay 团队发布的论文《Folding-based compression of po
 ```mermaid
 xychart-beta
     title "mauriceqch/pcc_attr_folding 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

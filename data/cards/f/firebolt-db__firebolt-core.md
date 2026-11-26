@@ -1,6 +1,6 @@
 # firebolt-db/firebolt-core
 
-⭐ 261 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/firebolt-db/firebolt-core) · [官网](https://firebolt.io/core) · 组织维护
+⭐ 260 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/firebolt-db/firebolt-core) · [官网](https://firebolt.io/core) · 组织维护
 
 **给数据分析团队的自托管分布式查询引擎**
 
@@ -46,12 +46,12 @@ Firebolt 托管云数仓的自托管免费版本，以单个 Docker 镜像分发
 ```mermaid
 xychart-beta
     title "firebolt-db/firebolt-core 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 254 --> 262
-    line [255, 256, 258, 261, 261]
+    line [255, 256, 258, 261, 260]
 ```
 
-2026-10-23 255 → 2026-11-25 261（+6）
+2026-10-24 255 → 2026-11-26 260（+5）
 
 
 ---

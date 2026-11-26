@@ -1,6 +1,6 @@
 # julienkay/com.doji.diffusers
 
-⭐ 66 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/julienkay/com.doji.diffusers) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **在 Unity 中运行预训练扩散模型的 Sentis 包**
 
@@ -11,7 +11,7 @@ Doji 维护的 Unity 包，将 Hugging Face diffusers 库移植到 Unity Sentis 
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

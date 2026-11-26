@@ -1,6 +1,6 @@
 # E1Byte/wechat-jev-android
 
-⭐ 11 · Kotlin · MIT · 推送 2026-09-27 · [GitHub](https://github.com/E1Byte/wechat-jev-android) · [官网](https://typesafe.ai) · 个人维护 · 中文 README
+⭐ 12 · Kotlin · MIT · 推送 2026-09-27 · [GitHub](https://github.com/E1Byte/wechat-jev-android) · [官网](https://typesafe.ai) · 个人维护 · 中文 README
 
 **微信一对一聊天实时分析助手：分析对方消息的情绪与意图**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "E1Byte/wechat-jev-android 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 7 --> 12
-    line [8, 9, 10, 9, 11, 11]
+    title "E1Byte/wechat-jev-android 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 8 --> 13
+    line [9, 10, 9, 11, 12]
 ```
 
-2026-10-23 8 → 2026-11-25 11（+3）
+2026-10-24 9 → 2026-11-26 12（+3）
 
 
 ---

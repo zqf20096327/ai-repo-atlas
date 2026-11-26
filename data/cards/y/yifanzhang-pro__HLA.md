@@ -1,6 +1,6 @@
 # yifanzhang-pro/HLA
 
-⭐ 104 · HTML · CC-BY-4.0 · 推送 2026-11-05 · [GitHub](https://github.com/yifanzhang-pro/HLA) · [官网](https://yifanzhang-pro.github.io/HLA) · 个人维护
+⭐ 104 · HTML · CC-BY-4.0 · 推送 2026-11-24 · [GitHub](https://github.com/yifanzhang-pro/HLA) · [官网](https://yifanzhang-pro.github.io/HLA) · 个人维护
 
 **论文项目页：高阶线性注意力机制的论文介绍**
 
@@ -44,12 +44,12 @@ HLA（Higher-order Linear Attention）的研究项目页面，介绍一种因果
 ```mermaid
 xychart-beta
     title "yifanzhang-pro/HLA 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 103 --> 105
     line [104, 104]
 ```
 
-2026-10-23 104 → 2026-11-25 104（+0）
+2026-10-24 104 → 2026-11-26 104（+0）
 
 
 ---

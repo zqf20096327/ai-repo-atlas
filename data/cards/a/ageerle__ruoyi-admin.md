@@ -1,6 +1,6 @@
 # ageerle/ruoyi-admin
 
-⭐ 411 · Vue · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ageerle/ruoyi-admin) · [官网](https://admin.ruoyiai.chat/chat) · 个人维护 · 中文 README
+⭐ 413 · Vue · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ageerle/ruoyi-admin) · [官网](https://admin.ruoyiai.chat/chat) · 个人维护 · 中文 README
 
 **RuoYi-AI 平台的管理后台：系统/模型/知识库/工作流管理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ageerle/ruoyi-admin 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 408 --> 413
-    line [409, 410, 411, 412, 411, 411]
+    title "ageerle/ruoyi-admin 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 409 --> 414
+    line [410, 411, 412, 411, 413]
 ```
 
-2026-10-23 409 → 2026-11-25 411（+2）
+2026-10-24 410 → 2026-11-26 413（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # bbarit/bbarit-agent-oss
 
-⭐ 150 · Rust · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/bbarit/bbarit-agent-oss) · [官网](https://bbarit.com) · 组织维护 · 中文 README
+⭐ 151 · Rust · NOASSERTION · 推送 2026-07-21 · [GitHub](https://github.com/bbarit/bbarit-agent-oss) · [官网](https://bbarit.com) · 组织维护 · 中文 README
 
 **终端里的开源 AI 编程 agent，单一 Rust 二进制，多模型接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bbarit/bbarit-agent-oss 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 147 --> 151
-    line [148, 149, 148, 150, 150]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 147 --> 152
+    line [148, 149, 148, 150, 151]
 ```
 
-2026-10-23 148 → 2026-11-25 150（+2）
+2026-10-24 148 → 2026-11-26 151（+3）
 
 
 ---

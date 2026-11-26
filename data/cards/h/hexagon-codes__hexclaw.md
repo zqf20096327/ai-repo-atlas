@@ -1,6 +1,6 @@
 # hexagon-codes/hexclaw
 
-⭐ 32 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hexagon-codes/hexclaw) · [官网](https://hexclaw.net) · 组织维护 · 中文 README
+⭐ 33 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/hexagon-codes/hexclaw) · [官网](https://hexclaw.net) · 组织维护 · 中文 README
 
 **可自托管 Go AI Agent 服务：对话接工具、知识库与自动化**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hexagon-codes/hexclaw 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 30 --> 33
-    line [31, 32, 32]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 30 --> 34
+    line [31, 32, 33]
 ```
 
-2026-10-23 31 → 2026-11-25 32（+1）
+2026-10-24 31 → 2026-11-26 33（+2）
 
 
 ---

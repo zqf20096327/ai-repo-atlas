@@ -1,6 +1,6 @@
 # jayamitkatariya/personacli
 
-⭐ 27 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/jayamitkatariya/personacli) · [官网](https://jayamitkatariya.github.io/personacli/) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/jayamitkatariya/personacli) · [官网](https://jayamitkatariya.github.io/personacli/) · 个人维护
 
 **本地优先的个人工作区：Markdown 笔记、任务与知文件的 AI 聊天**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jayamitkatariya/personacli 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 23 --> 28
-    line [24, 26, 27, 27]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 23 --> 29
+    line [24, 26, 27, 28]
 ```
 
-2026-10-23 24 → 2026-11-25 27（+3）
+2026-10-24 24 → 2026-11-26 28（+4）
 
 
 ---

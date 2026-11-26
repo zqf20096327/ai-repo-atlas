@@ -1,6 +1,6 @@
 # OpenRouterTeam/ai-sdk-provider
 
-⭐ 697 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenRouterTeam/ai-sdk-provider) · [官网](https://www.npmjs.com/package/@openrouter/ai-sdk-provider) · 组织维护
+⭐ 698 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenRouterTeam/ai-sdk-provider) · [官网](https://www.npmjs.com/package/@openrouter/ai-sdk-provider) · 组织维护
 
 **给 Vercel AI SDK 接入 OpenRouter 数百个模型的提供者包**
 
@@ -46,13 +46,13 @@ OpenRouter 官方维护的 Vercel AI SDK provider 包，通过 OpenRouter 的 ch
 
 ```mermaid
 xychart-beta
-    title "OpenRouterTeam/ai-sdk-provider 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-25"]
+    title "OpenRouterTeam/ai-sdk-provider 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-26"]
     y-axis "stars" 689 --> 699
-    line [691, 692, 690, 691, 692, 693, 690, 695, 696, 697, 698, 697, 697]
+    line [692, 690, 691, 692, 693, 690, 695, 696, 697, 698, 697, 698]
 ```
 
-2026-10-23 691 → 2026-11-25 697（+6）
+2026-10-24 692 → 2026-11-26 698（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # amrzv/awesome-colab-notebooks
 
-⭐ 1,681 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/amrzv/awesome-colab-notebooks) · 个人维护
+⭐ 1,684 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/amrzv/awesome-colab-notebooks) · 个人维护
 
 **面向 ML 学习者的 Google Colab 笔记本清单，一键打开即跑**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "amrzv/awesome-colab-notebooks 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 1664 --> 1682
-    line [1665, 1670, 1671, 1672, 1673, 1672, 1673, 1681]
+    title "amrzv/awesome-colab-notebooks 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1664 --> 1685
+    line [1665, 1670, 1671, 1672, 1673, 1672, 1673, 1681, 1684]
 ```
 
-2026-10-23 1,665 → 2026-11-25 1,681（+16）
+2026-10-24 1,665 → 2026-11-26 1,684（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # saeedkolivand/claude-usage-streamdeck-plugin
 
-⭐ 22 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/saeedkolivand/claude-usage-streamdeck-plugin) · [官网](https://claude-usage.iamsaeed.dev/) · 个人维护
+⭐ 22 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/saeedkolivand/claude-usage-streamdeck-plugin) · [官网](https://claude-usage.iamsaeed.dev/) · 个人维护
 
 **Stream Deck 插件：在按键上实时显示 Claude 用量限额与本地 token/费用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "saeedkolivand/claude-usage-streamdeck-plugin 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-19", "2026-11-26"]
     y-axis "stars" 19 --> 23
     line [20, 21, 22, 22]
 ```
 
-2026-10-23 20 → 2026-11-25 22（+2）
+2026-10-24 20 → 2026-11-26 22（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # greekr4/viruagent-cli
 
-⭐ 45 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/greekr4/viruagent-cli) · 个人维护
+⭐ 46 · JavaScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/greekr4/viruagent-cli) · 个人维护
 
 **供 AI agent 调用的博客与社交平台自动发布 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "greekr4/viruagent-cli 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 41 --> 46
-    line [42, 43, 42, 43, 44, 45, 45]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 41 --> 47
+    line [42, 43, 42, 43, 44, 45, 46]
 ```
 
-2026-10-23 42 → 2026-11-25 45（+3）
+2026-10-24 42 → 2026-11-26 46（+4）
 
 
 ---

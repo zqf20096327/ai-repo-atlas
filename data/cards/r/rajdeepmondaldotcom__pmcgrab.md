@@ -45,12 +45,12 @@ Python 库与 CLI：读取 PubMed Central 文章与 JATS XML（按 PMCID/PMID/DO
 ```mermaid
 xychart-beta
     title "rajdeepmondaldotcom/pmcgrab 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 24（+0）
 
 
 ---

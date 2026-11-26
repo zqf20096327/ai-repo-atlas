@@ -1,6 +1,6 @@
 # naftiko/ikanos
 
-⭐ 38 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/naftiko/ikanos) · [官网](https://ikanos.io) · 个人维护
+⭐ 38 · Java · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/naftiko/ikanos) · [官网](https://ikanos.io) · 个人维护
 
 **把现有 HTTP API 声明为 YAML 能力并同时暴露 MCP/REST/Skill 的引擎**
 
@@ -46,12 +46,12 @@ Ikanos 是面向 Spec-Driven Integration 的开源能力引擎：读取一个 YA
 ```mermaid
 xychart-beta
     title "naftiko/ikanos 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 37 --> 40
     line [38, 39, 38, 38]
 ```
 
-2026-10-23 38 → 2026-11-25 38（+0）
+2026-10-24 38 → 2026-11-26 38（+0）
 
 
 ---

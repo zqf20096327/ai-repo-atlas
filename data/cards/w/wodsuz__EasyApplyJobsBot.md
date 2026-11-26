@@ -1,6 +1,6 @@
 # wodsuz/EasyApplyJobsBot
 
-⭐ 838 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/wodsuz/EasyApplyJobsBot) · [官网](https://www.apllie.com/en) · 个人维护
+⭐ 839 · Python · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/wodsuz/EasyApplyJobsBot) · [官网](https://www.apllie.com/en) · 个人维护
 
 **自动投递 LinkedIn Easy Apply 职位的 Python 求职机器人**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wodsuz/EasyApplyJobsBot 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-26"]
     y-axis "stars" 831 --> 840
-    line [832, 833, 834, 832, 837, 839, 838, 838]
+    line [832, 833, 834, 832, 837, 839, 838, 839]
 ```
 
-2026-10-23 832 → 2026-11-25 838（+6）
+2026-10-24 832 → 2026-11-26 839（+7）
 
 
 ---

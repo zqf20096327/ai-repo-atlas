@@ -1,6 +1,6 @@
 # sao-coding/sightline
 
-⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/sao-coding/sightline) · 个人维护 · 中文 README
+⭐ 15 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/sao-coding/sightline) · 个人维护 · 中文 README
 
 **给 Windows 上 AI 编码代理提供窗口截图与进程监控的 CLI 工具**
 
@@ -40,6 +40,18 @@
 
 > L10: Eyes and a stopwatch for AI coding agents on Windows. One small exe, command `sight`.
 > L14: whole process tree. It **only observes**: it never clicks, types or moves the mouse. The agent
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sao-coding/sightline 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 16
+    line [3, 15]
+```
+
+2026-11-25 3 → 2026-11-26 15（+12）
 
 
 ---

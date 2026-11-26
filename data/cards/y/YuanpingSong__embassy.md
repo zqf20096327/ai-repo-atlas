@@ -1,6 +1,6 @@
 # YuanpingSong/embassy
 
-⭐ 13 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/YuanpingSong/embassy) · [官网](https://yuanpingsong.github.io/embassy/) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/YuanpingSong/embassy) · [官网](https://yuanpingsong.github.io/embassy/) · 个人维护 · 中文 README
 
 **macOS 上让 Claude Code 会话与 Codex CLI agent 互相按名传信的本地消息代理**
 
@@ -45,12 +45,12 @@ Embassy 是一个运行在 macOS 上的消息代理（broker）：让在运行�
 ```mermaid
 xychart-beta
     title "YuanpingSong/embassy 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

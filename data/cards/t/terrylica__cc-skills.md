@@ -1,6 +1,6 @@
 # terrylica/cc-skills
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/terrylica/cc-skills) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/terrylica/cc-skills) · 个人维护
 
 **为 Claude Code 用户提供插件/技能市场，覆盖开发与 DevOps 工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "terrylica/cc-skills 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-15", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-15 3 → 2026-11-25 3（+0）
+2026-11-15 3 → 2026-11-26 4（+1）
 
 
 ---

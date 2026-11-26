@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "XiaoxuYangLab/DeepMosaic 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "XiaoxuYangLab/DeepMosaic 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 57 --> 60
-    line [58, 59]
+    line [58, 59, 59]
 ```
 
-2026-10-23 58 → 2026-11-25 59（+1）
+2026-10-24 58 → 2026-11-26 59（+1）
 
 
 ---

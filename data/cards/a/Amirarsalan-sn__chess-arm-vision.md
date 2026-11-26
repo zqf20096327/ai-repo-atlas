@@ -42,13 +42,13 @@ Dchess 是一个机器人国际象棋对弈系统，配合 Dobot Magician 机械
 
 ```mermaid
 xychart-beta
-    title "Amirarsalan-sn/chess-arm-vision 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [13, 12, 12]
+    title "Amirarsalan-sn/chess-arm-vision 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
 ```
 
-2026-10-23 13 → 2026-11-25 12（-1）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # 47thtechcorner/RayCodes_Unlimited_OCR_2
 
-⭐ 4 · Python · 推送 2026-10-30 · [GitHub](https://github.com/47thtechcorner/RayCodes_Unlimited_OCR_2) · [官网](https://youtu.be/azd2H0Riid4) · 个人维护
+⭐ 5 · Python · 推送 2026-10-30 · [GitHub](https://github.com/47thtechcorner/RayCodes_Unlimited_OCR_2) · [官网](https://youtu.be/azd2H0Riid4) · 个人维护
 
 **300页长文档单次OCR解析的本地流水线（3.34B MoE模型）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "47thtechcorner/RayCodes_Unlimited_OCR_2 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-02", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-02 3 → 2026-11-25 4（+1）
+2026-11-02 3 → 2026-11-26 5（+2）
 
 
 ---

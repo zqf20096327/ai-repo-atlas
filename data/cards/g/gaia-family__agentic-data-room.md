@@ -1,6 +1,6 @@
 # gaia-family/agentic-data-room
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gaia-family/agentic-data-room) · 组织维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gaia-family/agentic-data-room) · 组织维护
 
 **给融资创始人的文档数据室问答机器人，每个数字带引用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gaia-family/agentic-data-room 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 3（+0）
 
 
 ---

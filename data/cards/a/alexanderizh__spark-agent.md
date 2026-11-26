@@ -1,6 +1,6 @@
 # alexanderizh/spark-agent
 
-⭐ 122 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alexanderizh/spark-agent) · [官网](https://www.yiqibyte.com/) · 个人维护 · 中文 README
+⭐ 121 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alexanderizh/spark-agent) · [官网](https://www.yiqibyte.com/) · 个人维护 · 中文 README
 
 **本地优先桌面 Agent 工作台：编排工作流、多会话协作与模型路由**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alexanderizh/spark-agent 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 106 --> 123
-    line [107, 110, 111, 113, 118, 122, 111, 121, 122]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 109 --> 123
+    line [110, 111, 113, 118, 122, 111, 121, 122, 121]
 ```
 
-2026-10-23 107 → 2026-11-25 122（+15）
+2026-10-24 110 → 2026-11-26 121（+11）
 
 
 ---

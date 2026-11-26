@@ -40,6 +40,18 @@
 > L13: **Cut your Anthropic API bill by routing every request to the cheapest Claude model that can handle it — Haiku, Son
 > L32: |🔌 **Zero code changes**|Point any Anthropic app at the proxy via `ANTHROPIC_BASE_URL`, or `import` it as a library
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "serhiileniv/claude-router 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e7232f4d3df7` · [字段定义](../../DATASET.md)*

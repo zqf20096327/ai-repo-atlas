@@ -1,6 +1,6 @@
 # toppatronweave/ai--manus2.0
 
-⭐ 371 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/toppatronweave/ai--manus2.0) · 个人维护
+⭐ 365 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/toppatronweave/ai--manus2.0) · 个人维护
 
 **面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 
@@ -44,13 +44,13 @@ Manus 定位为自主 AI Agent，可在用户授权下编写并执行脚本、�
 
 ```mermaid
 xychart-beta
-    title "toppatronweave/ai--manus2.0 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 370 --> 381
-    line [380, 378, 377, 374, 371]
+    title "toppatronweave/ai--manus2.0 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 364 --> 381
+    line [380, 378, 377, 374, 371, 365]
 ```
 
-2026-11-15 380 → 2026-11-25 371（-9）
+2026-11-15 380 → 2026-11-26 365（-15）
 
 
 ---

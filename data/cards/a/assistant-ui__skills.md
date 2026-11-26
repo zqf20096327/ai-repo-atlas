@@ -1,6 +1,6 @@
 # assistant-ui/skills
 
-⭐ 29 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/assistant-ui/skills) · [官网](https://assistant-ui.com) · 组织维护
+⭐ 30 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/assistant-ui/skills) · [官网](https://assistant-ui.com) · 组织维护
 
 **assistant-ui 框架的 Agent 技能包：指导构建 AI 聊天界面**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "assistant-ui/skills 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 30（+1）
 
 
 ---

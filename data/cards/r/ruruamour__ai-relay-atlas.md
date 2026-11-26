@@ -1,6 +1,6 @@
 # ruruamour/ai-relay-atlas
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ruruamour/ai-relay-atlas) · 个人维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ruruamour/ai-relay-atlas) · 个人维护 · 中文 README
 
 **为选型者聚合 AI API 中转站与发卡店铺公开行情的名单地图**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ruruamour/ai-relay-atlas 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-21 3 → 2026-11-25 4（+1）
+2026-11-21 3 → 2026-11-26 5（+2）
 
 
 ---

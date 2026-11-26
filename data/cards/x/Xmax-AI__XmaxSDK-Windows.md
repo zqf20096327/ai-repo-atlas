@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-Windows
 
-⭐ 5 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Windows) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 5 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-Windows) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **面向开发者的实时交互式视频生成 Windows SDK**
 
@@ -46,12 +46,12 @@ XmaxSDK 是接入 Xmax 模型的 Windows SDK，提供从媒体采集、视频流
 ```mermaid
 xychart-beta
     title "Xmax-AI/XmaxSDK-Windows 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-12", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-12", "2026-11-19", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-02 3 → 2026-11-25 5（+2）
+2026-11-02 3 → 2026-11-26 5（+2）
 
 
 ---

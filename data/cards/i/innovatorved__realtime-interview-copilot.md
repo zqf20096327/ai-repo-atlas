@@ -1,6 +1,6 @@
 # innovatorved/realtime-interview-copilot
 
-⭐ 138 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/innovatorved/realtime-interview-copilot) · 个人维护
+⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/innovatorved/realtime-interview-copilot) · 个人维护
 
 **桌面应用：实时转录面试音频并生成 AI 回答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "innovatorved/realtime-interview-copilot 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 131 --> 139
-    line [132, 133, 134, 132, 137, 138, 138]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 131 --> 140
+    line [132, 133, 134, 132, 137, 138, 139]
 ```
 
-2026-10-23 132 → 2026-11-25 138（+6）
+2026-10-24 132 → 2026-11-26 139（+7）
 
 
 ---

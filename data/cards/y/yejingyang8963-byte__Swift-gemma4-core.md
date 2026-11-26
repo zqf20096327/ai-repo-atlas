@@ -46,12 +46,12 @@ Google Gemma 4 文本解码器的纯 Swift 移植，以 sidecar 模型注册接�
 ```mermaid
 xychart-beta
     title "yejingyang8963-byte/Swift-gemma4-core 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-23 27 → 2026-11-25 27（+0）
+2026-10-24 27 → 2026-11-26 27（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TheSyart/emperor-agent
 
-⭐ 220 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TheSyart/emperor-agent) · [官网](https://github.com/TheSyart/emperor-agent) · 个人维护 · 中文 README
+⭐ 222 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TheSyart/emperor-agent) · [官网](https://github.com/TheSyart/emperor-agent) · 个人维护 · 中文 README
 
 **面向个人用户的本地桌面 AI Agent 工作台**
 
@@ -45,13 +45,13 @@ Electron 桌面应用，提供 Chat（普通对话）与 Build（绑定本地项
 
 ```mermaid
 xychart-beta
-    title "TheSyart/emperor-agent 星数(近 14 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 202 --> 221
-    line [203, 204, 207, 209, 212, 204, 215, 217, 218, 219, 218, 219, 220, 220]
+    title "TheSyart/emperor-agent 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 203 --> 223
+    line [204, 207, 209, 212, 204, 215, 217, 218, 219, 218, 219, 220, 222]
 ```
 
-2026-10-23 203 → 2026-11-25 220（+17）
+2026-10-24 204 → 2026-11-26 222（+18）
 
 
 ---

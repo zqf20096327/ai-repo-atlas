@@ -46,12 +46,12 @@ OpenAssembler 是面向 A100/SM80 的编译器，将受支持的 Python 模型�
 ```mermaid
 xychart-beta
     title "lucialuka/OpenAssembler 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-26"]
     y-axis "stars" 220 --> 222
     line [221, 221]
 ```
 
-2026-11-14 221 → 2026-11-25 221（+0）
+2026-11-14 221 → 2026-11-26 221（+0）
 
 
 ---

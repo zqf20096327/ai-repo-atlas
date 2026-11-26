@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RizwanMunawar/yolov8-object-tracking 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 374 --> 378
-    line [375, 376, 377, 377]
+    title "RizwanMunawar/yolov8-object-tracking 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 375 --> 378
+    line [376, 377, 377]
 ```
 
-2026-10-23 375 → 2026-11-25 377（+2）
+2026-10-24 376 → 2026-11-26 377（+1）
 
 
 ---

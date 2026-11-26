@@ -1,6 +1,6 @@
 # huggingface/discord-bots
 
-⭐ 53 · Python · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/discord-bots) · 组织维护
+⭐ 54 · Python · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/discord-bots) · 组织维护
 
 **Hugging Face 官方 Discord 机器人代码集，用 Gradio Space 做 ML 后端**
 
@@ -44,12 +44,12 @@ Hugging Face 维护的 Discord 机器人代码合集，涵盖 CodeLlama 13B、De
 ```mermaid
 xychart-beta
     title "huggingface/discord-bots 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 52 --> 54
-    line [53, 53]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 52 --> 55
+    line [53, 54]
 ```
 
-2026-10-23 53 → 2026-11-25 53（+0）
+2026-10-24 53 → 2026-11-26 54（+1）
 
 
 ---

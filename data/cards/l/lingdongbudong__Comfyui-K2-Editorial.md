@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-K2-Editorial
 
-⭐ 39 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/lingdongbudong/Comfyui-K2-Editorial) · [官网](https://space.bilibili.com/516891894) · 个人维护 · 中文 README
+⭐ 47 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/lingdongbudong/Comfyui-K2-Editorial) · [官网](https://space.bilibili.com/516891894) · 个人维护 · 中文 README
 
 **给 ComfyUI 用户自动装配 Krea2 长文图像提示词的节点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | NOASSERTION |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lingdongbudong/Comfyui-K2-Editorial 星数(近 9 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 0 --> 42
-    line [3, 7, 11, 12, 14, 17, 23, 30, 39]
+    title "lingdongbudong/Comfyui-K2-Editorial 星数(近 10 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 51
+    line [3, 7, 11, 12, 14, 17, 23, 30, 39, 47]
 ```
 
-2026-11-14 3 → 2026-11-25 39（+36）
+2026-11-14 3 → 2026-11-26 47（+44）
 
 
 ---

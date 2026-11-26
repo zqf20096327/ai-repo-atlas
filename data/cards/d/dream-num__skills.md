@@ -1,6 +1,6 @@
 # dream-num/skills
 
-⭐ 82 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/dream-num/skills) · [官网](https://univer.ai) · 组织维护 · 中文 README
+⭐ 83 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/dream-num/skills) · [官网](https://univer.ai) · 组织维护 · 中文 README
 
 **指导编码 agent 使用 Univer Office SDK 的 agent 技能包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "dream-num/skills 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 77 --> 83
-    line [78, 79, 78, 79, 80, 79, 80, 81, 82]
+    title "dream-num/skills 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 77 --> 84
+    line [78, 79, 78, 79, 80, 79, 80, 81, 82, 83]
 ```
 
-2026-10-23 78 → 2026-11-25 82（+4）
+2026-10-24 78 → 2026-11-26 83（+5）
 
 
 ---

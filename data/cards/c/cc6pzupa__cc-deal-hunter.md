@@ -1,6 +1,6 @@
 # cc6pzupa/cc-deal-hunter
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/cc6pzupa/cc-deal-hunter) · [官网](https://wool.eshop.us.ci) · 个人维护 · 中文 README
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/cc6pzupa/cc-deal-hunter) · [官网](https://wool.eshop.us.ci) · 个人维护 · 中文 README
 
 **给 AI agent 装的薅羊毛技能：发现、核对、去重并自动领优惠**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cc6pzupa/cc-deal-hunter 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    line [3, 4, 3]
 ```
 
-2026-11-22 3 → 2026-11-25 4（+1）
+2026-11-22 3 → 2026-11-26 3（+0）
 
 
 ---

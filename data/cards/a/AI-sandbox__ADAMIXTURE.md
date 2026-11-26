@@ -1,6 +1,6 @@
 # AI-sandbox/ADAMIXTURE
 
-⭐ 40 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/AI-sandbox/ADAMIXTURE) · [官网](https://ai-sandbox.github.io/adamixture-showcase/) · 组织维护
+⭐ 43 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/AI-sandbox/ADAMIXTURE) · [官网](https://ai-sandbox.github.io/adamixture-showcase/) · 组织维护
 
 **面向生物库级基因数据的快速群体遗传聚类（ADMIXTURE 实现）**
 
@@ -45,13 +45,13 @@ ADMIXTURE 算法的 CPU/GPU 实现，用 Python 编写，面向处理生物库�
 
 ```mermaid
 xychart-beta
-    title "AI-sandbox/ADAMIXTURE 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 36 --> 41
-    line [37, 38, 40]
+    title "AI-sandbox/ADAMIXTURE 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 36 --> 44
+    line [37, 38, 40, 43]
 ```
 
-2026-10-23 37 → 2026-11-25 40（+3）
+2026-10-24 37 → 2026-11-26 43（+6）
 
 
 ---

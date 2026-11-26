@@ -1,6 +1,6 @@
 # OpenVie/OpenVie
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenVie/OpenVie) · [官网](https://openvie.linkednodedigital.com/) · 组织维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/OpenVie/OpenVie) · [官网](https://openvie.linkednodedigital.com/) · 组织维护
 
 **越南语优先的自托管企业内部文档 RAG 平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OpenVie/OpenVie 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 6 --> 11
     line [7, 9, 10, 10]
 ```
 
-2026-10-23 7 → 2026-11-25 10（+3）
+2026-10-24 7 → 2026-11-26 10（+3）
 
 
 ---

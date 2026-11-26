@@ -1,6 +1,6 @@
 # oh-my-omp/omp-config
 
-⭐ 16 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/oh-my-omp/omp-config) · 组织维护 · 中文 README
+⭐ 17 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/oh-my-omp/omp-config) · 组织维护 · 中文 README
 
 **Oh My Pi 编码 agent 的版本化配置与插件清单仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oh-my-omp/omp-config 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 10 --> 17
-    line [11, 12, 14, 15, 16, 16]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 10 --> 18
+    line [11, 12, 14, 15, 16, 17]
 ```
 
-2026-11-08 11 → 2026-11-25 16（+5）
+2026-11-08 11 → 2026-11-26 17（+6）
 
 
 ---

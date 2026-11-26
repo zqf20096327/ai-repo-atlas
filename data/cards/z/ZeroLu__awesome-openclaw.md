@@ -1,6 +1,6 @@
 # ZeroLu/awesome-openclaw
 
-⭐ 78 · 推送 2026-03-10 · [GitHub](https://github.com/ZeroLu/awesome-openclaw) · 个人维护 · 中文 README
+⭐ 79 · 推送 2026-03-10 · [GitHub](https://github.com/ZeroLu/awesome-openclaw) · 个人维护 · 中文 README
 
 **OpenClaw 教程、技能与用例的策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ZeroLu/awesome-openclaw 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 75 --> 79
-    line [76, 77, 76, 77, 78]
+    title "ZeroLu/awesome-openclaw 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 75 --> 80
+    line [76, 77, 76, 77, 78, 79]
 ```
 
-2026-10-23 76 → 2026-11-25 78（+2）
+2026-10-24 76 → 2026-11-26 79（+3）
 
 
 ---

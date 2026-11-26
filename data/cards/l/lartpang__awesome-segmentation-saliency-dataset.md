@@ -1,6 +1,6 @@
 # lartpang/awesome-segmentation-saliency-dataset
 
-⭐ 645 · MIT · 推送 2026-09-15 · [GitHub](https://github.com/lartpang/awesome-segmentation-saliency-dataset) · [官网](https://lartpang.github.io/awesome-segmentation-saliency-dataset/README.html) · 个人维护 · 中文 README
+⭐ 645 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lartpang/awesome-segmentation-saliency-dataset) · [官网](https://lartpang.github.io/awesome-segmentation-saliency-dataset/README.html) · 个人维护 · 中文 README
 
 **图像分割与显著性检测数据集的策展清单**
 
@@ -45,12 +45,12 @@ lartpang 维护的数据集聚合清单，按 RGB 显著性等类别组织分割
 ```mermaid
 xychart-beta
     title "lartpang/awesome-segmentation-saliency-dataset 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 644 --> 648
     line [647, 646, 645, 647, 645, 645]
 ```
 
-2026-10-23 647 → 2026-11-25 645（-2）
+2026-10-24 647 → 2026-11-26 645（-2）
 
 
 ---

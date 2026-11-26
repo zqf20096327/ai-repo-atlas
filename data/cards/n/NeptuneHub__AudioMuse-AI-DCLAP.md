@@ -1,6 +1,6 @@
 # NeptuneHub/AudioMuse-AI-DCLAP
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI-DCLAP) · 个人维护
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-06-17 · [GitHub](https://github.com/NeptuneHub/AudioMuse-AI-DCLAP) · 个人维护
 
 **7M 参数蒸馏版 CLAP，轻量快速的文本搜音乐模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NeptuneHub/AudioMuse-AI-DCLAP 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

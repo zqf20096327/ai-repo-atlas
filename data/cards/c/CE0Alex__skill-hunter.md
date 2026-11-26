@@ -1,6 +1,6 @@
 # CE0Alex/skill-hunter
 
-⭐ 22 · MIT · 推送 2026-02-06 · [GitHub](https://github.com/CE0Alex/skill-hunter) · 个人维护
+⭐ 23 · MIT · 推送 2026-02-06 · [GitHub](https://github.com/CE0Alex/skill-hunter) · 个人维护
 
 **分析代码仓库并推荐适配外部 agent 技能栈的技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CE0Alex/skill-hunter 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 20 --> 24
+    line [21, 22, 23]
 ```
 
-2026-10-23 21 → 2026-11-25 22（+1）
+2026-10-24 21 → 2026-11-26 23（+2）
 
 
 ---

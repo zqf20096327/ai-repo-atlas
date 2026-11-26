@@ -1,6 +1,6 @@
 # jangviktor-web/nihaixia-app
 
-⭐ 303 · Dart · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jangviktor-web/nihaixia-app) · [官网](https://jangviktor-web.github.io/nihaixia-app/) · 个人维护 · 中文 README
+⭐ 307 · Dart · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/jangviktor-web/nihaixia-app) · [官网](https://jangviktor-web.github.io/nihaixia-app/) · 个人维护 · 中文 README
 
 **中医爱好者/学习者的倪海厦经方离线辅助诊断与讲义问答 App**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "jangviktor-web/nihaixia-app 星数(近 12 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 285 --> 305
-    line [286, 290, 291, 293, 295, 296, 298, 297, 300, 302, 304, 303]
+    title "jangviktor-web/nihaixia-app 星数(近 13 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 284 --> 309
+    line [286, 290, 291, 293, 295, 296, 298, 297, 300, 302, 304, 303, 307]
 ```
 
-2026-11-08 286 → 2026-11-25 303（+17）
+2026-11-08 286 → 2026-11-26 307（+21）
 
 
 ---

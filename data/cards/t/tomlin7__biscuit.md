@@ -1,6 +1,6 @@
 # tomlin7/biscuit
 
-⭐ 265 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tomlin7/biscuit) · [官网](https://biscuit.tomlin7.com) · 个人维护
+⭐ 265 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tomlin7/biscuit) · [官网](https://biscuit.tomlin7.com) · 个人维护
 
 **轻量原生 Python 代码编辑器，内置 AI 编程 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tomlin7/biscuit 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
     y-axis "stars" 264 --> 267
     line [266, 265, 265]
 ```
 
-2026-10-23 266 → 2026-11-25 265（-1）
+2026-10-24 266 → 2026-11-26 265（-1）
 
 
 ---

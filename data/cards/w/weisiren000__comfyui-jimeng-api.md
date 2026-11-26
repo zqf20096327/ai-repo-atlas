@@ -45,12 +45,12 @@ ComfyUI 自定义节点插件，封装火山引擎即梦（Seedream 4.0，doubao
 ```mermaid
 xychart-beta
     title "weisiren000/comfyui-jimeng-api 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

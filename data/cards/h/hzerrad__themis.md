@@ -1,6 +1,6 @@
 # hzerrad/themis
 
-⭐ 3 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hzerrad/themis) · 个人维护
+⭐ 4 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hzerrad/themis) · 个人维护
 
 **为 AI 提议的 Kubernetes 修复提供治理与审批的引擎**
 
@@ -46,12 +46,12 @@ Themis 将 Kubernetes 告警转为事件，从集群收集证据，并对修复�
 ```mermaid
 xychart-beta
     title "hzerrad/themis 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 4（+1）
 
 
 ---

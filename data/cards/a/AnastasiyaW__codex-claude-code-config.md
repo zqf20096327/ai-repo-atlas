@@ -1,6 +1,6 @@
 # AnastasiyaW/codex-claude-code-config
 
-⭐ 215 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AnastasiyaW/codex-claude-code-config) · 个人维护
+⭐ 216 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AnastasiyaW/codex-claude-code-config) · 个人维护
 
 **面向 Claude Code/Codex 等 coding agent 的配置体系：原则、钩子、技能与工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AnastasiyaW/codex-claude-code-config 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 211 --> 216
-    line [212, 213, 212, 214, 215, 215]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 211 --> 217
+    line [212, 213, 212, 214, 215, 216]
 ```
 
-2026-10-23 212 → 2026-11-25 215（+3）
+2026-10-24 212 → 2026-11-26 216（+4）
 
 
 ---

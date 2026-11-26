@@ -1,6 +1,6 @@
 # spearsheep/anima-brain
 
-⭐ 87 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/spearsheep/anima-brain) · [官网](https://anima-lab.io) · 个人维护 · 中文 README
+⭐ 88 · HTML · MIT · 推送 2026-11-17 · [GitHub](https://github.com/spearsheep/anima-brain) · [官网](https://anima-lab.io) · 个人维护 · 中文 README
 
 **给 AI 陪伴体提供本地记忆与情绪连续性的 Python SDK**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "spearsheep/anima-brain 星数(近 9 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 24 --> 92
-    line [29, 52, 69, 76, 79, 82, 85, 86, 87]
+    title "spearsheep/anima-brain 星数(近 10 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 93
+    line [29, 52, 69, 76, 79, 82, 85, 86, 87, 88]
 ```
 
-2026-11-15 29 → 2026-11-25 87（+58）
+2026-11-15 29 → 2026-11-26 88（+59）
 
 
 ---

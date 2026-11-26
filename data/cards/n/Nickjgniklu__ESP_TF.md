@@ -41,6 +41,18 @@
 > L7: runs inference on five real MNIST test images bundled in the sketch (no
 > L39: Building with `ESP_NN`, `CONFIG_NN_OPTIMIZED`, and `ARCH_ESP32_S3` will enable ESP32-S3 specific optimizations.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Nickjgniklu/ESP_TF 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-25 15 → 2026-11-26 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `75f18cc635ac` · [字段定义](../../DATASET.md)*

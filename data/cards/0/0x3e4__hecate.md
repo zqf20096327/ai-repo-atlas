@@ -1,6 +1,6 @@
 # 0x3e4/hecate
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/0x3e4/hecate) · [官网](https://hecate.pw) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/0x3e4/hecate) · [官网](https://hecate.pw) · 个人维护
 
 **自托管漏洞管理平台：聚合 9 个 CVE 源并提供 SCA 扫描与 SBOM/VEX**
 
@@ -39,6 +39,18 @@
 
 > L5: > Self-hosted vulnerability management – aggregate, search and act on advisories, scan your images and repos. AI opt
 > L12: > **Works without AI.** Every core feature runs without an API key: the catalogue and its search, SCA scanning, SBO
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "0x3e4/hecate 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 13]
+```
+
+2026-11-25 10 → 2026-11-26 13（+3）
 
 
 ---

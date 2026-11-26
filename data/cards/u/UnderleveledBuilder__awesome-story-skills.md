@@ -1,6 +1,6 @@
 # UnderleveledBuilder/awesome-story-skills
 
-⭐ 13 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/UnderleveledBuilder/awesome-story-skills) · 个人维护 · 中文 README
+⭐ 16 · Python · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/UnderleveledBuilder/awesome-story-skills) · 个人维护 · 中文 README
 
 **可安装的 AI 写故事工具清单：845 个 skill/应用按叙事方法分类**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "UnderleveledBuilder/awesome-story-skills 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 14
-    line [3, 5, 6, 3, 8, 7, 8, 9, 11, 12, 13]
+    title "UnderleveledBuilder/awesome-story-skills 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 17
+    line [3, 5, 6, 3, 8, 7, 8, 9, 11, 12, 13, 16]
 ```
 
-2026-10-23 3 → 2026-11-25 13（+10）
+2026-10-24 3 → 2026-11-26 16（+13）
 
 
 ---

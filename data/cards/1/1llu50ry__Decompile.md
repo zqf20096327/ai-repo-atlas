@@ -1,6 +1,6 @@
 # 1llu50ry/Decompile
 
-⭐ 607 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/1llu50ry/Decompile) · [官网](https://github.com/1llu50ry/Decompile) · 个人维护 · 中文 README
+⭐ 616 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/1llu50ry/Decompile) · [官网](https://github.com/1llu50ry/Decompile) · 个人维护 · 中文 README
 
 **面向游戏逆向/安全研究的 MCP 服务器，聚合反编译工具与技能库**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "1llu50ry/Decompile 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 585 --> 609
-    line [587, 598, 607]
+    title "1llu50ry/Decompile 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 585 --> 618
+    line [587, 598, 607, 616]
 ```
 
-2026-11-22 587 → 2026-11-25 607（+20）
+2026-11-22 587 → 2026-11-26 616（+29）
 
 
 ---

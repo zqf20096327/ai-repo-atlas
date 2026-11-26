@@ -1,6 +1,6 @@
 # Rustam-Z/hamroh
 
-⭐ 56 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/Rustam-Z/hamroh) · 个人维护
+⭐ 56 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Rustam-Z/hamroh) · 个人维护
 
 **自托管持久 AI 伴侣框架：在 Telegram 上运行自己的 agent**
 
@@ -46,12 +46,12 @@ hamroh 是一个在 Telegram 上运行持久 AI 伴侣/助手的 agent harness �
 ```mermaid
 xychart-beta
     title "Rustam-Z/hamroh 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 54 --> 57
     line [55, 56, 56]
 ```
 
-2026-10-23 55 → 2026-11-25 56（+1）
+2026-10-24 55 → 2026-11-26 56（+1）
 
 
 ---

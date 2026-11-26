@@ -1,6 +1,6 @@
 # Chatway-app/chatway-mcp-server
 
-⭐ 34 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Chatway-app/chatway-mcp-server) · [官网](https://chatway.app/) · 组织维护
+⭐ 34 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Chatway-app/chatway-mcp-server) · [官网](https://chatway.app/) · 组织维护
 
 **将 AI 助手接入 Chatway 客服系统管理的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Chatway 官方的托管远程 MCP 服务器：让 ChatGPT、Claude、Gemini CLI�
 ```mermaid
 xychart-beta
     title "Chatway-app/chatway-mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 32 --> 35
     line [33, 34, 33, 34, 34]
 ```
 
-2026-10-23 33 → 2026-11-25 34（+1）
+2026-10-24 33 → 2026-11-26 34（+1）
 
 
 ---

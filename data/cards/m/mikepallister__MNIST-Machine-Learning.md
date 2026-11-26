@@ -1,6 +1,6 @@
 # mikepallister/MNIST-Machine-Learning
 
-⭐ 29 · 推送 2026-02-05 · [GitHub](https://github.com/mikepallister/MNIST-Machine-Learning) · [官网](https://www.youtube.com/edit?o=U&video_id=kCL065_0zTY) · 个人维护
+⭐ 30 · 推送 2026-02-05 · [GitHub](https://github.com/mikepallister/MNIST-Machine-Learning) · [官网](https://www.youtube.com/edit?o=U&video_id=kCL065_0zTY) · 个人维护
 
 **在 Excel 中用神经网络识别 MNIST 手写数字的教学项目**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mikepallister/MNIST-Machine-Learning 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 28 --> 31
-    line [30, 29, 29]
+    line [30, 29, 30]
 ```
 
-2026-10-23 30 → 2026-11-25 29（-1）
+2026-10-24 30 → 2026-11-26 30（+0）
 
 
 ---

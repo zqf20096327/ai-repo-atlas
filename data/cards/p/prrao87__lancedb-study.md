@@ -1,6 +1,6 @@
 # prrao87/lancedb-study
 
-⭐ 30 · Python · MIT · 推送 2026-02-08 · [GitHub](https://github.com/prrao87/lancedb-study) · 个人维护
+⭐ 31 · Python · MIT · 推送 2026-02-08 · [GitHub](https://github.com/prrao87/lancedb-study) · 个人维护
 
 **LanceDB 与 Elasticsearch 全文/向量检索性能对比基准项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prrao87/lancedb-study 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 31（+1）
 
 
 ---

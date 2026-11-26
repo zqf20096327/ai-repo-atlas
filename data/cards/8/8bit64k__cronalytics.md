@@ -1,6 +1,6 @@
 # 8bit64k/cronalytics
 
-⭐ 117 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/8bit64k/cronalytics) · 个人维护 · 中文 README
+⭐ 119 · Python · MIT · 推送 2026-06-24 · [GitHub](https://github.com/8bit64k/cronalytics) · 个人维护 · 中文 README
 
 **Hermes Agent 定时任务的成本与运行可观测性插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "8bit64k/cronalytics 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 112 --> 118
-    line [113, 114, 113, 116, 117, 117]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 112 --> 120
+    line [113, 114, 113, 116, 117, 119]
 ```
 
-2026-10-23 113 → 2026-11-25 117（+4）
+2026-10-24 113 → 2026-11-26 119（+6）
 
 
 ---

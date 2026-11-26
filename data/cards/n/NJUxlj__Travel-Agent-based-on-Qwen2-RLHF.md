@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "NJUxlj/Travel-Agent-based-on-Qwen2-RLHF 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 82 --> 84
     line [83, 83]
 ```
 
-2026-10-23 83 → 2026-11-25 83（+0）
+2026-10-24 83 → 2026-11-26 83（+0）
 
 
 ---

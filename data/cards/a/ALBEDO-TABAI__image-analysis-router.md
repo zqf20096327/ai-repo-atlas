@@ -1,6 +1,6 @@
 # ALBEDO-TABAI/image-analysis-router
 
-⭐ 14 · Python · 推送 2026-05-15 · [GitHub](https://github.com/ALBEDO-TABAI/image-analysis-router) · 组织维护 · 中文 README
+⭐ 15 · Python · 推送 2026-05-15 · [GitHub](https://github.com/ALBEDO-TABAI/image-analysis-router) · 组织维护 · 中文 README
 
 **为 OpenAI/Claude 类 agent 提供图像分析分流的本地 Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ALBEDO-TABAI/image-analysis-router 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 14, 15]
 ```
 
-2026-10-23 12 → 2026-11-25 14（+2）
+2026-10-24 12 → 2026-11-26 15（+3）
 
 
 ---

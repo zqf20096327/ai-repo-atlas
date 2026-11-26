@@ -45,12 +45,12 @@ Devinterview.io 维护的卷积神经网络（CNN）面试题仓库：以问答�
 ```mermaid
 xychart-beta
     title "Devinterview-io/cnn-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-23 42 → 2026-11-25 42（+0）
+2026-10-24 42 → 2026-11-26 42（+0）
 
 
 ---

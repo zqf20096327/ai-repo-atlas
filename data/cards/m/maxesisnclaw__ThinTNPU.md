@@ -41,6 +41,18 @@
 > L9: `WholeBlocked` provides architecture adapters for classic **YOLOv5**, **YOLOv8**, **YOLO11**, and **YOLO26** across 
 > L102: Tested toolchain: aarch64 Linux, CANN 9.0.0 / AscendC, PyTorch 2.8.0+cpu, Python 3.11.15, and Ascend 310P (`dav-20
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "maxesisnclaw/ThinTNPU 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `0af1f8adb9a7` · [字段定义](../../DATASET.md)*

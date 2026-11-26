@@ -1,6 +1,6 @@
 # howardpen9/grok-mcp
 
-⭐ 11 · TypeScript · MIT · 推送 2026-07-28 · [GitHub](https://github.com/howardpen9/grok-mcp) · [官网](https://www.npmjs.com/package/grok-cli-mcp) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-07-28 · [GitHub](https://github.com/howardpen9/grok-mcp) · [官网](https://www.npmjs.com/package/grok-cli-mcp) · 个人维护 · 中文 README
 
 **让 Claude Code/Cursor 等 MCP 宿主调用 Grok 做代码评审的 MCP 服务器**
 
@@ -45,12 +45,12 @@ MCP 服务器（npm 包 grok-cli-mcp），把 xAI Grok 接入 Claude Code、Curs
 ```mermaid
 xychart-beta
     title "howardpen9/grok-mcp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

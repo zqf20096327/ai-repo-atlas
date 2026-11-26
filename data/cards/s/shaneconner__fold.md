@@ -1,6 +1,6 @@
 # shaneconner/fold
 
-⭐ 19 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/shaneconner/fold) · [官网](https://shaneconner.com/projects/pi-fold/) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/shaneconner/fold) · [官网](https://shaneconner.com/projects/pi-fold/) · 个人维护
 
 **Pi 编码代理的无损上下文折叠插件：旧上下文换摘要原文留盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shaneconner/fold 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
     y-axis "stars" 13 --> 20
     line [14, 15, 17, 18, 19, 19]
 ```
 
-2026-10-23 14 → 2026-11-25 19（+5）
+2026-10-24 14 → 2026-11-26 19（+5）
 
 
 ---

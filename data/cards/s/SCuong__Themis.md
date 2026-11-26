@@ -1,6 +1,6 @@
 # SCuong/Themis
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/SCuong/Themis) · 个人维护
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/SCuong/Themis) · 个人维护
 
 **多模型群聊协作的 Chrome 扩展：多 AI 各担角色互评答案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SCuong/Themis 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-25 3（+0）
+2026-11-13 3 → 2026-11-26 3（+0）
 
 
 ---

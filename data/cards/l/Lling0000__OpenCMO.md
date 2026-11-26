@@ -1,6 +1,6 @@
 # Lling0000/OpenCMO
 
-⭐ 126 · Python · 推送 2026-10-13 · [GitHub](https://github.com/Lling0000/OpenCMO) · [官网](https://www.aidcmo.com/) · 个人维护 · 中文 README
+⭐ 127 · Python · 推送 2026-10-13 · [GitHub](https://github.com/Lling0000/OpenCMO) · [官网](https://www.aidcmo.com/) · 个人维护 · 中文 README
 
 **自托管多 agent AI 首席营销官：搜索可见性与增长分析工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lling0000/OpenCMO 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 124 --> 127
-    line [125, 126, 125, 126, 126]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 124 --> 128
+    line [125, 126, 125, 126, 127]
 ```
 
-2026-10-23 125 → 2026-11-25 126（+1）
+2026-10-24 125 → 2026-11-26 127（+2）
 
 
 ---

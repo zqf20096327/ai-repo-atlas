@@ -1,6 +1,6 @@
 # lucidrains/HoST-pytorch
 
-⭐ 46 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/lucidrains/HoST-pytorch) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lucidrains/HoST-pytorch) · 个人维护
 
 **人形机器人起身控制论文的 PyTorch 复现库（wip）**
 
@@ -43,12 +43,12 @@ PyTorch 实现论文 Learning Humanoid Standing-up Control across Diverse Postur
 ```mermaid
 xychart-beta
     title "lucidrains/HoST-pytorch 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-23 46 → 2026-11-25 46（+0）
+2026-10-24 46 → 2026-11-26 46（+0）
 
 
 ---

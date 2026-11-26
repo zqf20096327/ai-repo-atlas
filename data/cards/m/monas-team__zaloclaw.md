@@ -1,6 +1,6 @@
 # monas-team/zaloclaw
 
-⭐ 24 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/monas-team/zaloclaw) · [官网](https://openclaw.monas.us/zalo) · 组织维护
+⭐ 25 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/monas-team/zaloclaw) · [官网](https://openclaw.monas.us/zalo) · 组织维护
 
 **把个人 Zalo 账号接入 OpenClaw AI agent 的非官方插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "monas-team/zaloclaw 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 25（+1）
 
 
 ---

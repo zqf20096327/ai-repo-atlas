@@ -1,6 +1,6 @@
 # Nimbus318/dsh-niuma-broker
 
-⭐ 34 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Nimbus318/dsh-niuma-broker) · [官网](https://niumabroker.nimbus-nimo.com/) · 个人维护 · 中文 README
+⭐ 72 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Nimbus318/dsh-niuma-broker) · [官网](https://niumabroker.nimbus-nimo.com/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：求职者的目标寻岗与简历管理工具**
 
@@ -41,6 +41,18 @@
 > L59:  全网官网定时巡检 · AI 逐条匹配与日程联动
 > L62:  • 带理由的精准匹配 ：结合你的真实履历与求职方向打分，直接给出一句对口理由与醒目的「留意」硬伤提示
 > L146: 需要 DeepSeek Harness `>=0.2.2-rc.5 <0.3.0` 与 Node.js `>=22`。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Nimbus318/dsh-niuma-broker 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 31 --> 75
+    line [34, 72]
+```
+
+2026-11-25 34 → 2026-11-26 72（+38）
 
 
 ---

@@ -1,6 +1,6 @@
 # bassrehab/mhc-visualizer
 
-⭐ 28 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/bassrehab/mhc-visualizer) · [官网](http://subhadipmitra.com/mhc-visualizer/) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/bassrehab/mhc-visualizer) · [官网](http://subhadipmitra.com/mhc-visualizer/) · 个人维护
 
 **面向学习者的 mHC 稳定性交互可视化与教学工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bassrehab/mhc-visualizer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 27（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # KryptSec/oasis
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/KryptSec/oasis) · [官网](https://oasis.kryptsec.com) · 组织维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-05 · [GitHub](https://github.com/KryptSec/oasis) · [官网](https://oasis.kryptsec.com) · 组织维护
 
 **评测 AI 模型攻防安全能力的开源 CLI 基准工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "KryptSec/oasis 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 28 --> 32
-    line [29, 31, 31]
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 28 --> 34
+    line [29, 31, 33]
 ```
 
-2026-10-23 29 → 2026-11-25 31（+2）
+2026-10-24 29 → 2026-11-26 33（+4）
 
 
 ---

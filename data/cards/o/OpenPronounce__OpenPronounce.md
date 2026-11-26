@@ -1,6 +1,6 @@
 # OpenPronounce/OpenPronounce
 
-⭐ 245 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenPronounce/OpenPronounce) · [官网](https://openpronounce.github.io) · 个人维护
+⭐ 249 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenPronounce/OpenPronounce) · [官网](https://openpronounce.github.io) · 个人维护
 
 **自托管发音评估工具：给录音打分并找出读错的单词**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OpenPronounce/OpenPronounce 星数(近 7 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 219 --> 247
-    line [221, 224, 234, 240, 242, 243, 245]
+    title "OpenPronounce/OpenPronounce 星数(近 8 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 219 --> 251
+    line [221, 224, 234, 240, 242, 243, 245, 249]
 ```
 
-2026-11-18 221 → 2026-11-25 245（+24）
+2026-11-18 221 → 2026-11-26 249（+28）
 
 
 ---

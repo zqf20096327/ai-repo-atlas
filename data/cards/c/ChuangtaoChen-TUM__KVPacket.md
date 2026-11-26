@@ -46,12 +46,12 @@ KV Packet 是论文《KV Packet: Recomputation-Free Context-Independent KV Cachi
 ```mermaid
 xychart-beta
     title "ChuangtaoChen-TUM/KVPacket 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 38 --> 42
     line [39, 41, 41]
 ```
 
-2026-10-23 39 → 2026-11-25 41（+2）
+2026-10-24 39 → 2026-11-26 41（+2）
 
 
 ---

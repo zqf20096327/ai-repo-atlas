@@ -1,6 +1,6 @@
 # HarshLogic/FinFlow-Personal-Finance
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/HarshLogic/FinFlow-Personal-Finance) · [官网](https://finflowpr.vercel.app/) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HarshLogic/FinFlow-Personal-Finance) · [官网](https://finflowpr.vercel.app/) · 个人维护
 
 **MERN 个人财务应用：记录支出、管理投资并预测未来财富**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HarshLogic/FinFlow-Personal-Finance 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

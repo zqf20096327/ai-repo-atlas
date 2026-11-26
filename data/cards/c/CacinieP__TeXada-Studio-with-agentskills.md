@@ -1,6 +1,6 @@
 # CacinieP/TeXada-Studio-with-agentskills
 
-⭐ 61 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/CacinieP/TeXada-Studio-with-agentskills) · [官网](https://github.com/CacinieP/TeXada-Studio-with-agentskills/blob/main/docs/local-studio.md) · 个人维护 · 中文 README
+⭐ 61 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/CacinieP/TeXada-Studio-with-agentskills) · [官网](https://github.com/CacinieP/TeXada-Studio-with-agentskills/blob/main/docs/local-studio.md) · 个人维护 · 中文 README
 
 **本地 LaTeX 工作台：双栏编辑、图片识别与保真公式修复审阅**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "CacinieP/TeXada-Studio-with-agentskills 星数(近 14 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    title "CacinieP/TeXada-Studio-with-agentskills 星数(近 15 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 1 --> 66
-    line [6, 13, 17, 23, 28, 32, 36, 41, 45, 47, 49, 52, 54, 61]
+    line [6, 13, 17, 23, 28, 32, 36, 41, 45, 47, 49, 52, 54, 61, 61]
 ```
 
-2026-11-10 6 → 2026-11-25 61（+55）
+2026-11-10 6 → 2026-11-26 61（+55）
 
 
 ---

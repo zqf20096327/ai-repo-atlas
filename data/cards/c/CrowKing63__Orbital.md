@@ -1,6 +1,6 @@
 # CrowKing63/Orbital
 
-⭐ 49 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CrowKing63/Orbital) · [官网](https://crowking63.github.io/Orbital/) · 个人维护
+⭐ 49 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CrowKing63/Orbital) · [官网](https://crowking63.github.io/Orbital/) · 个人维护
 
 **Windows 划词弹出的 AI 动作栏：翻译、总结、改写、自定义提示词**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "CrowKing63/Orbital 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 48 --> 51
     line [50, 49, 49]
 ```
 
-2026-11-21 50 → 2026-11-25 49（-1）
+2026-11-21 50 → 2026-11-26 49（-1）
 
 
 ---

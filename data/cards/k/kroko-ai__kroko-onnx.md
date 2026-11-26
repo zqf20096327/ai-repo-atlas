@@ -1,6 +1,6 @@
 # kroko-ai/kroko-onnx
 
-⭐ 162 · C++ · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/kroko-ai/kroko-onnx) · [官网](https://kroko.ai) · 组织维护
+⭐ 163 · C++ · Apache-2.0 · 推送 2026-05-28 · [GitHub](https://github.com/kroko-ai/kroko-onnx) · [官网](https://kroko.ai) · 组织维护
 
 **开源语音识别引擎：流式语音转文字，多平台部署**
 
@@ -46,12 +46,12 @@ Kroko ASR 的开源语音转文字引擎，基于 ONNX Runtime 运行转导模�
 ```mermaid
 xychart-beta
     title "kroko-ai/kroko-onnx 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 161 --> 163
-    line [162, 162]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 161 --> 164
+    line [162, 163]
 ```
 
-2026-10-23 162 → 2026-11-25 162（+0）
+2026-10-24 162 → 2026-11-26 163（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xingkonglxl/pocketagent-android
 
-⭐ 4 · Kotlin · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/xingkonglxl/pocketagent-android) · 个人维护 · 中文 README
+⭐ 4 · Kotlin · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/xingkonglxl/pocketagent-android) · 个人维护 · 中文 README
 
 **让手机接续电脑上 AI agent 工作的 Android 客户端**
 
@@ -45,12 +45,12 @@ Android 应用，通过 SSH 连接用户自己的 Mac/Linux 电脑与服务器�
 ```mermaid
 xychart-beta
     title "xingkonglxl/pocketagent-android 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-25 4（+0）
+2026-11-08 4 → 2026-11-26 4（+0）
 
 
 ---

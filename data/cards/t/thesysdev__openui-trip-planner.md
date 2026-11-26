@@ -1,6 +1,6 @@
 # thesysdev/openui-trip-planner
 
-⭐ 10 · TypeScript · 推送 2026-11-16 · [GitHub](https://github.com/thesysdev/openui-trip-planner) · [官网](https://www.openui.com/demo/trip-planner) · 组织维护
+⭐ 11 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/thesysdev/openui-trip-planner) · [官网](https://www.openui.com/demo/trip-planner) · 组织维护
 
 **对话式生成行程界面的 AI 旅行规划 Web 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "thesysdev/openui-trip-planner 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 2 --> 11
-    line [3, 4, 6, 7, 3, 7, 8, 9, 10]
+    title "thesysdev/openui-trip-planner 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 12
+    line [3, 4, 6, 7, 3, 7, 8, 9, 10, 11]
 ```
 
-2026-10-24 3 → 2026-11-25 10（+7）
+2026-10-24 3 → 2026-11-26 11（+8）
 
 
 ---

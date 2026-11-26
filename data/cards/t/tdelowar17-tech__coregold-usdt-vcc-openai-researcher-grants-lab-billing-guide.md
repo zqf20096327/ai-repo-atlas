@@ -1,6 +1,6 @@
 # tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide
 
-⭐ 11 · 推送 2026-11-23 · [GitHub](https://github.com/tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 38 · 推送 2026-11-23 · [GitHub](https://github.com/tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向科研团队的海外虚拟卡（CoreGold）使用教程**
 
@@ -39,6 +39,18 @@
 
 > L2: 11 月 23 日 OpenAI 正式开放新一轮科研人员资助申请（再发 5 万个名额），高校实验室和硕博团队用海外工具的频率越来越高——聊聊课题组在订软件、买算力、做报销对账时最实用的用卡门道。 Markdown
 > L32: > **开卡小技巧**：第一次充 USDT 时，从 OKX 或币安提币务必选 **TRON（TRC20）** 网络，先充一笔小额测试资金走顺“钱包充值 -> 开卡 -> 查账单地址”的完整流程，后面批量给课题组开卡会非常快。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "tdelowar17-tech/coregold-usdt-vcc-openai-researcher-grants-lab-billing-guide 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 40
+    line [11, 38]
+```
+
+2026-11-25 11 → 2026-11-26 38（+27）
 
 
 ---

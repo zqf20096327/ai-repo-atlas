@@ -1,6 +1,6 @@
 # vedaant00/opendot
 
-⭐ 60 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/vedaant00/opendot) · [官网](https://pypi.org/project/opendot) · 个人维护
+⭐ 61 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/vedaant00/opendot) · [官网](https://pypi.org/project/opendot) · 个人维护
 
 **可完全撤销的终端 AI agent：文件与 shell 操作先快照再执行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "vedaant00/opendot 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 56 --> 61
-    line [57, 58, 59, 60, 58, 60, 60]
+    title "vedaant00/opendot 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 60, 58, 60, 61]
 ```
 
-2026-10-23 57 → 2026-11-25 60（+3）
+2026-10-24 58 → 2026-11-26 61（+3）
 
 
 ---

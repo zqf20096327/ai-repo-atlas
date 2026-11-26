@@ -1,6 +1,6 @@
 # tariqlang612/comfyui-flux-1-dev-gguf-nsfw-oneclick
 
-⭐ 97 · C# · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/tariqlang612/comfyui-flux-1-dev-gguf-nsfw-oneclick) · [官网](https://tariqlang612.github.io/comfyui-flux-1-dev-gguf-nsfw-oneclick/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 Windows 用户的 ComfyUI+FLUX.1 GGUF 一键便携运行包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

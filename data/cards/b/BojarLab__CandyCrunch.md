@@ -1,6 +1,6 @@
 # BojarLab/CandyCrunch
 
-⭐ 37 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BojarLab/CandyCrunch) · 组织维护
+⭐ 38 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BojarLab/CandyCrunch) · 组织维护
 
 **从 LC-MS/MS 数据预测聚糖结构的深度学习工具包**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "BojarLab/CandyCrunch 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-23 37 → 2026-11-25 37（+0）
+2026-10-24 37 → 2026-11-26 38（+1）
 
 
 ---

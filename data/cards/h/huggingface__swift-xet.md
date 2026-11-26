@@ -1,6 +1,6 @@
 # huggingface/swift-xet
 
-⭐ 32 · Swift · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/huggingface/swift-xet) · 组织维护
+⭐ 32 · Swift · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/swift-xet) · 组织维护
 
 **Swift 版 Xet 协议库：从 Hugging Face 内容寻址存储下载文件**
 
@@ -45,12 +45,12 @@ Hugging Face 官方维护的 Swift 库，实现 Xet 协议的下载路径，供 
 ```mermaid
 xychart-beta
     title "huggingface/swift-xet 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 30 --> 33
     line [31, 32, 31, 32, 32]
 ```
 
-2026-10-23 31 → 2026-11-25 32（+1）
+2026-10-24 31 → 2026-11-26 32（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # qbtrix/ripple
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/qbtrix/ripple) · [官网](https://ripple.pocketpaw.xyz) · 组织维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/qbtrix/ripple) · [官网](https://ripple.pocketpaw.xyz) · 组织维护
 
 **生成式 UI 引擎：模型输出 JSON spec，边流式边渲染成可用界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "qbtrix/ripple 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 13 --> 22
-    line [14, 15, 17, 18, 21, 21]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 13 --> 23
+    line [14, 15, 17, 18, 21, 22]
 ```
 
-2026-11-08 14 → 2026-11-25 21（+7）
+2026-11-08 14 → 2026-11-26 22（+8）
 
 
 ---

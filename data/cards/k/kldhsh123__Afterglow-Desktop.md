@@ -1,6 +1,6 @@
 # kldhsh123/Afterglow-Desktop
 
-⭐ 7 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/kldhsh123/Afterglow-Desktop) · [官网](https://afterglow.kldhsh.top) · 个人维护 · 中文 README
+⭐ 8 · Python · AGPL-3.0 · 推送 2026-10-24 · [GitHub](https://github.com/kldhsh123/Afterglow-Desktop) · [官网](https://afterglow.kldhsh.top) · 个人维护 · 中文 README
 
 **基于真实聊天记录构建 RAG 记忆的本地 AI 陪伴桌面端**
 
@@ -46,12 +46,12 @@ Afterglow 的 Windows 桌面客户端，为本地托管的 AI 陪伴应用提供
 ```mermaid
 xychart-beta
     title "kldhsh123/Afterglow-Desktop 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-25"]
-    y-axis "stars" 6 --> 8
-    line [7, 7]
+    x-axis ["2026-10-25", "2026-11-26"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
 ```
 
-2026-10-25 7 → 2026-11-25 7（+0）
+2026-10-25 7 → 2026-11-26 8（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L148: |**Transcription**|English: AssemblyAI (Medical Mode, speaker labels, keyterms). Ugandan/African languages: Sunbir
 > L27: **DaktariScribe** is a **clinical documentation and reporting tool** designed specifically for frontline healthcare
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "EGABO-TECH/DaktariScribe 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-25 15 → 2026-11-26 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e4ecc32e15de` · [字段定义](../../DATASET.md)*

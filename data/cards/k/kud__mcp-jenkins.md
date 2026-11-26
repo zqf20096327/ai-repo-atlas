@@ -45,12 +45,12 @@ TypeScript/Node.js 实现的 Jenkins MCP 服务器：向 Claude 等 MCP 客户�
 ```mermaid
 xychart-beta
     title "kud/mcp-jenkins 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
     y-axis "stars" 17 --> 20
     line [18, 19, 19]
 ```
 
-2026-10-23 18 → 2026-11-25 19（+1）
+2026-10-24 18 → 2026-11-26 19（+1）
 
 
 ---

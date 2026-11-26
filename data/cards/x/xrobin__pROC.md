@@ -1,6 +1,6 @@
 # xrobin/pROC
 
-⭐ 138 · R · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/xrobin/pROC) · [官网](https://xrobin.github.io/pROC/) · 个人维护
+⭐ 138 · R · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/xrobin/pROC) · [官网](https://xrobin.github.io/pROC/) · 个人维护
 
 **R 语言 ROC 曲线分析与可视化统计包**
 
@@ -45,12 +45,12 @@ pROC 是一个 R 包，用于展示和分析 ROC 曲线：计算 AUC 与置信�
 ```mermaid
 xychart-beta
     title "xrobin/pROC 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 136 --> 139
     line [137, 138, 137, 138, 138]
 ```
 
-2026-10-23 137 → 2026-11-25 138（+1）
+2026-10-24 137 → 2026-11-26 138（+1）
 
 
 ---

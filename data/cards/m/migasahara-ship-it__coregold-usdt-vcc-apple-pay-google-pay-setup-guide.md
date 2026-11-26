@@ -1,6 +1,6 @@
 # migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide
 
-⭐ 53 · 推送 2026-11-17 · [GitHub](https://github.com/migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 80 · 推送 2026-11-17 · [GitHub](https://github.com/migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **Coregold 虚拟卡申请、USDT 充值与绑定 Apple/Google Pay 的教程**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 0 --> 57
-    line [4, 8, 16, 32, 53]
+    title "migasahara-ship-it/coregold-usdt-vcc-apple-pay-google-pay-setup-guide 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 87
+    line [4, 8, 16, 32, 53, 80]
 ```
 
-2026-11-18 4 → 2026-11-25 53（+49）
+2026-11-18 4 → 2026-11-26 80（+76）
 
 
 ---

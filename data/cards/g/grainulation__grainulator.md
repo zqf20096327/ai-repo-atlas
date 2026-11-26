@@ -1,6 +1,6 @@
 # grainulation/grainulator
 
-⭐ 86 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/grainulation/grainulator) · [官网](https://grainulator.dev) · 组织维护
+⭐ 87 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/grainulation/grainulator) · [官网](https://grainulator.dev) · 组织维护
 
 **给 AI agent 的证据台账与验证工作流工具（CLI + MCP）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "grainulation/grainulator 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 85 --> 87
-    line [86, 86]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 85 --> 88
+    line [86, 87]
 ```
 
-2026-10-23 86 → 2026-11-25 86（+0）
+2026-10-24 86 → 2026-11-26 87（+1）
 
 
 ---

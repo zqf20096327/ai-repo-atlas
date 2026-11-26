@@ -1,6 +1,6 @@
 # burakgon/envelope
 
-⭐ 3 · Rust · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/burakgon/envelope) · [官网](https://burakgon.github.io/envelope/) · 个人维护 · 中文 README
+⭐ 4 · Rust · GPL-3.0 · 推送 2026-10-30 · [GitHub](https://github.com/burakgon/envelope) · [官网](https://burakgon.github.io/envelope/) · 个人维护 · 中文 README
 
 **Linux 邮件与日历桌面客户端，带可选 AI 功能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "burakgon/envelope 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-30", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-10-30 3 → 2026-11-25 3（+0）
+2026-10-30 3 → 2026-11-26 4（+1）
 
 
 ---

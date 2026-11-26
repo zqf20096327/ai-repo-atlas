@@ -1,6 +1,6 @@
 # willGuimont/prosac
 
-⭐ 48 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/willGuimont/prosac) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/willGuimont/prosac) · 个人维护
 
 **提供 RANSAC 与 PROSAC 鲁棒估计算法的 Python 库**
 
@@ -44,12 +44,12 @@ Python 包，实现 RANSAC 与 PROSAC 两种基于随机抽样的鲁棒模型估
 ```mermaid
 xychart-beta
     title "willGuimont/prosac 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 47 --> 49
-    line [48, 48]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 47 --> 50
+    line [48, 49]
 ```
 
-2026-10-23 48 → 2026-11-25 48（+0）
+2026-10-24 48 → 2026-11-26 49（+1）
 
 
 ---

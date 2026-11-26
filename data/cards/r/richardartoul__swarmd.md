@@ -45,12 +45,12 @@ Go 编写的多租户 agent 运行时（agent harness）：Agent 以 YAML 定义
 ```mermaid
 xychart-beta
     title "richardartoul/swarmd 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-23 32 → 2026-11-25 33（+1）
+2026-10-24 32 → 2026-11-26 33（+1）
 
 
 ---

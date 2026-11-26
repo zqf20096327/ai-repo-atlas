@@ -1,6 +1,6 @@
 # huggingface/optimum-onnx
 
-⭐ 163 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/optimum-onnx) · [官网](https://huggingface.co/docs/optimum-onnx/en/quickstart) · 组织维护
+⭐ 165 · Python · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/huggingface/optimum-onnx) · [官网](https://huggingface.co/docs/optimum-onnx/en/quickstart) · 组织维护
 
 **将 Hugging Face 模型导出为 ONNX 并用 ONNX Runtime 推理的扩展库**
 
@@ -44,12 +44,12 @@ Hugging Face Optimum 的 ONNX 扩展：支持将 Transformers、Diffusers、Timm
 ```mermaid
 xychart-beta
     title "huggingface/optimum-onnx 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 161 --> 164
-    line [162, 163, 163]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 161 --> 166
+    line [162, 163, 165]
 ```
 
-2026-10-23 162 → 2026-11-25 163（+1）
+2026-10-24 162 → 2026-11-26 165（+3）
 
 
 ---

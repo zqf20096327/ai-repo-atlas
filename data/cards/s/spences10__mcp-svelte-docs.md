@@ -1,6 +1,6 @@
 # spences10/mcp-svelte-docs
 
-⭐ 124 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/spences10/mcp-svelte-docs) · 个人维护
+⭐ 124 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/spences10/mcp-svelte-docs) · 个人维护
 
 **为 AI 工具提供 Svelte 5/SvelteKit 文档查询的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spences10/mcp-svelte-docs 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 122 --> 125
     line [123, 124, 124]
 ```
 
-2026-10-23 123 → 2026-11-25 124（+1）
+2026-10-24 123 → 2026-11-26 124（+1）
 
 
 ---

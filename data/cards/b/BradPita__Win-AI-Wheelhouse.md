@@ -1,6 +1,6 @@
 # BradPita/Win-AI-Wheelhouse
 
-⭐ 86 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BradPita/Win-AI-Wheelhouse) · [官网](https://huggingface.co/BradPita/Win-AI-Wheelhouse) · 个人维护 · 中文 README
+⭐ 86 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BradPita/Win-AI-Wheelhouse) · [官网](https://huggingface.co/BradPita/Win-AI-Wheelhouse) · 个人维护 · 中文 README
 
 **Windows 平台 AI 库预编译 wheel 聚合目录，免编译即装**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BradPita/Win-AI-Wheelhouse 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-26"]
     y-axis "stars" 83 --> 87
     line [85, 84, 85, 86, 86]
 ```
 
-2026-10-23 85 → 2026-11-25 86（+1）
+2026-10-24 85 → 2026-11-26 86（+1）
 
 
 ---

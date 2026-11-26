@@ -1,6 +1,6 @@
 # google-deepmind/long-form-factuality
 
-⭐ 698 · Python · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/google-deepmind/long-form-factuality) · [官网](https://arxiv.org/abs/2403.18802) · 组织维护
+⭐ 699 · Python · NOASSERTION · 推送 2026-06-18 · [GitHub](https://github.com/google-deepmind/long-form-factuality) · [官网](https://arxiv.org/abs/2403.18802) · 组织维护
 
 **LLM 长文本事实性基准：LongFact 提示集与 SAFE 评估器**
 
@@ -45,12 +45,12 @@ Google DeepMind 论文 Long-form factuality in large language models 的官方�
 ```mermaid
 xychart-beta
     title "google-deepmind/long-form-factuality 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-16", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-16", "2026-11-21", "2026-11-26"]
     y-axis "stars" 697 --> 701
-    line [698, 699, 700, 698, 699, 698, 698]
+    line [698, 699, 700, 698, 699, 698, 699]
 ```
 
-2026-10-23 698 → 2026-11-25 698（+0）
+2026-10-24 698 → 2026-11-26 699（+1）
 
 
 ---

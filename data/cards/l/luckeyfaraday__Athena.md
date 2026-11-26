@@ -1,6 +1,6 @@
 # luckeyfaraday/Athena
 
-⭐ 35 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/luckeyfaraday/Athena) · 个人维护
+⭐ 34 · TypeScript · 推送 2026-10-28 · [GitHub](https://github.com/luckeyfaraday/Athena) · 个人维护
 
 **AI 编程 agent 的本地桌面工作台：并排运行多家 agent 终端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "luckeyfaraday/Athena 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26"]
     y-axis "stars" 32 --> 36
-    line [33, 34, 33, 35, 34, 35, 35]
+    line [33, 34, 33, 35, 34, 35, 34]
 ```
 
-2026-10-23 33 → 2026-11-25 35（+2）
+2026-10-24 33 → 2026-11-26 34（+1）
 
 
 ---

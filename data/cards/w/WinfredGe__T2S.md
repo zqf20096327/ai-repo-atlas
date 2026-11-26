@@ -1,6 +1,6 @@
 # WinfredGe/T2S
 
-⭐ 95 · Python · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/WinfredGe/T2S) · [官网](https://arxiv.org/abs/2505.02417) · 组织维护
+⭐ 96 · Python · Apache-2.0 · 推送 2026-05-01 · [GitHub](https://github.com/WinfredGe/T2S) · [官网](https://arxiv.org/abs/2505.02417) · 组织维护
 
 **从文本生成高分辨率时间序列的扩散模型官方实现（IJCAI'25）**
 
@@ -46,12 +46,12 @@ IJCAI 2025 论文 T2S 的官方实现：以自然语言描述为条件，通过�
 ```mermaid
 xychart-beta
     title "WinfredGe/T2S 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 94 --> 97
+    line [95, 96]
 ```
 
-2026-10-23 95 → 2026-11-25 95（+0）
+2026-10-24 95 → 2026-11-26 96（+1）
 
 
 ---

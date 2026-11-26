@@ -1,6 +1,6 @@
 # cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework
 
-⭐ 187 · Python · 推送 2026-10-07 · [GitHub](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) · [官网](https://cnsdqd-dyb.github.io/VillagerAgent.github.io/2024/04/01/VillagerAgent.html) · 组织维护 · 中文 README
+⭐ 186 · Python · 推送 2026-10-07 · [GitHub](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework) · [官网](https://cnsdqd-dyb.github.io/VillagerAgent.github.io/2024/04/01/VillagerAgent.html) · 组织维护 · 中文 README
 
 **Minecraft 多智能体协作框架与基准（ACL 2024 论文）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 186 --> 190
-    line [188, 187, 188, 187, 188, 189, 188, 187, 187]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 185 --> 190
+    line [188, 187, 188, 187, 188, 189, 188, 187, 186]
 ```
 
-2026-10-23 188 → 2026-11-25 187（-1）
+2026-10-24 188 → 2026-11-26 186（-2）
 
 
 ---

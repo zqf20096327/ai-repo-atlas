@@ -1,6 +1,6 @@
 # InfiniEvolve/TraceVista
 
-⭐ 100 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/InfiniEvolve/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
+⭐ 101 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/InfiniEvolve/TraceVista) · [官网](https://tracevista.pages.dev/) · 个人维护 · 中文 README
 
 **给开发者把 agent 日志转成可交互决策地图与故事的可视化工具**
 
@@ -45,13 +45,13 @@ TraceVista 将 agent 会话日志（如 Claude Code、Codex、Pi 的 session log
 
 ```mermaid
 xychart-beta
-    title "InfiniEvolve/TraceVista 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 95 --> 101
-    line [96, 100]
+    title "InfiniEvolve/TraceVista 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 95 --> 102
+    line [96, 100, 101]
 ```
 
-2026-11-23 96 → 2026-11-25 100（+4）
+2026-11-23 96 → 2026-11-26 101（+5）
 
 
 ---

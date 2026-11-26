@@ -1,6 +1,6 @@
 # MadnessEngineering/Omnispindle
 
-⭐ 10 · Python · 推送 2026-11-19 · [GitHub](https://github.com/MadnessEngineering/Omnispindle) · [官网](https://madnessinteractive.cc/) · 组织维护
+⭐ 10 · Python · 推送 2026-11-25 · [GitHub](https://github.com/MadnessEngineering/Omnispindle) · [官网](https://madnessinteractive.cc/) · 组织维护
 
 **为 AI agent 提供任务管理与知识沉淀的 FastMCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MadnessEngineering/Omnispindle 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

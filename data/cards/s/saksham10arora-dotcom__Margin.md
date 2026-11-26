@@ -1,6 +1,6 @@
 # saksham10arora-dotcom/Margin
 
-⭐ 83 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/saksham10arora-dotcom/Margin) · [官网](https://saksham.digital/margin) · 个人维护
+⭐ 82 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/saksham10arora-dotcom/Margin) · [官网](https://saksham.digital/margin) · 个人维护
 
 **看视频课自动生成 Obsidian 学习笔记的 Chrome 扩展**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "saksham10arora-dotcom/Margin 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
+    title "saksham10arora-dotcom/Margin 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 49 --> 86
-    line [52, 60, 66, 72, 74, 75, 77, 78, 82, 83]
+    line [52, 60, 66, 72, 74, 75, 77, 78, 82, 83, 82]
 ```
 
-2026-11-08 52 → 2026-11-25 83（+31）
+2026-11-08 52 → 2026-11-26 82（+30）
 
 
 ---

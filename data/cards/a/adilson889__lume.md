@@ -1,6 +1,6 @@
 # adilson889/lume
 
-⭐ 3 · HTML · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/adilson889/lume) · [官网](https://chat-lume.vercel.app/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **基于规则、可由人类教学增长的葡萄牙语聊天机器人**
 
@@ -11,7 +11,7 @@ Lume 是一个以 BotQL 声明式规则语言编写的会话机器人，明确�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

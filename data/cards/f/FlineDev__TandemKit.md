@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlineDev/TandemKit 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    title "FlineDev/TandemKit 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 44 --> 46
+    line [45, 45]
 ```
 
-2026-10-23 44 → 2026-11-25 45（+1）
+2026-10-24 45 → 2026-11-26 45（+0）
 
 
 ---

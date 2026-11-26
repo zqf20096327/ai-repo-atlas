@@ -1,6 +1,6 @@
 # trefeon/Zed2Api
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/trefeon/Zed2Api) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-01 · [GitHub](https://github.com/trefeon/Zed2Api) · 个人维护
 
 **让 PI/OMP 把 Zed 订阅当原生模型提供方使用的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "trefeon/Zed2Api 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    line [3, 4, 3]
 ```
 
-2026-10-28 3 → 2026-11-25 4（+1）
+2026-10-28 3 → 2026-11-26 3（+0）
 
 
 ---

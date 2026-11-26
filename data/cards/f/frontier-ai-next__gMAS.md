@@ -1,6 +1,6 @@
 # frontier-ai-next/gMAS
 
-⭐ 29 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/frontier-ai-next/gMAS) · [官网](https://frontier-ai-next.github.io/gMAS/) · 组织维护
+⭐ 30 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/frontier-ai-next/gMAS) · [官网](https://frontier-ai-next.github.io/gMAS/) · 组织维护
 
 **给开发者的图结构多智能体 LLM 系统构建与运行框架**
 
@@ -47,12 +47,12 @@ gMAS 是一个开源 Python 框架，用图（RoleGraph）建模多智能体 LLM
 ```mermaid
 xychart-beta
     title "frontier-ai-next/gMAS 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 30（+1）
 
 
 ---

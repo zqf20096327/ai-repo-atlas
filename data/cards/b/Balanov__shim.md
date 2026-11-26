@@ -1,6 +1,6 @@
 # Balanov/shim
 
-⭐ 88 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Balanov/shim) · [官网](https://balanov.pro/shim/) · 个人维护 · 中文 README
+⭐ 88 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Balanov/shim) · [官网](https://balanov.pro/shim/) · 个人维护 · 中文 README
 
 **零依赖的本地优先终端 AI harness：接任意模型、MCP 与 Skills**
 
@@ -46,12 +46,12 @@ Go 编写的单静态二进制 CLI，作为终端与模型、MCP 服务器、Age
 ```mermaid
 xychart-beta
     title "Balanov/shim 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-26"]
     y-axis "stars" 78 --> 203
     line [192, 193, 94, 88, 88]
 ```
 
-2026-11-14 192 → 2026-11-25 88（-104）
+2026-11-14 192 → 2026-11-26 88（-104）
 
 
 ---

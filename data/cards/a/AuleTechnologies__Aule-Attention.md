@@ -1,6 +1,6 @@
 # AuleTechnologies/Aule-Attention
 
-⭐ 161 · Zig · 推送 2026-01-27 · [GitHub](https://github.com/AuleTechnologies/Aule-Attention) · [官网](https://auletechnologies.com) · 组织维护
+⭐ 162 · Zig · 推送 2026-01-27 · [GitHub](https://github.com/AuleTechnologies/Aule-Attention) · [官网](https://auletechnologies.com) · 组织维护
 
 **跨厂商 GPU 的 FlashAttention-2 实现库，免编译即装即用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AuleTechnologies/Aule-Attention 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 158 --> 162
-    line [159, 160, 159, 161, 161]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 158 --> 163
+    line [159, 160, 159, 161, 162]
 ```
 
-2026-10-23 159 → 2026-11-25 161（+2）
+2026-10-24 159 → 2026-11-26 162（+3）
 
 
 ---

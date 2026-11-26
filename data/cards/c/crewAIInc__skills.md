@@ -1,6 +1,6 @@
 # crewAIInc/skills
 
-⭐ 49 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/crewAIInc/skills) · 组织维护
+⭐ 50 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/crewAIInc/skills) · 组织维护
 
 **面向 AI 编程代理的 CrewAI 开发技能集（10 项，Agent Skills 格式）**
 
@@ -46,12 +46,12 @@ CrewAI 官方维护的技能仓库，收录 10 个遵循 Agent Skills 格式的�
 ```mermaid
 xychart-beta
     title "crewAIInc/skills 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 47, 48, 49, 49]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 47, 48, 49, 50]
 ```
 
-2026-10-23 47 → 2026-11-25 49（+2）
+2026-10-24 47 → 2026-11-26 50（+3）
 
 
 ---

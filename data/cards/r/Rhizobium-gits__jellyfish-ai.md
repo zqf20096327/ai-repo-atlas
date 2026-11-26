@@ -1,6 +1,6 @@
 # Rhizobium-gits/jellyfish-ai
 
-⭐ 3 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Rhizobium-gits/jellyfish-ai) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **桌面像素水母即独立 AI 代理的 macOS 应用**
 
@@ -11,7 +11,7 @@ macOS 常驻应用，屏幕上每只像素水母是一个独立 AI 代理，底�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

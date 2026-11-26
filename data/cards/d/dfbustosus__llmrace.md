@@ -1,6 +1,6 @@
 # dfbustosus/llmrace
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/dfbustosus/llmrace) · [官网](https://github.com/dfbustosus/llmrace#readme) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在终端对多个 LLM 提供商做并发延迟基准竞速的 Rust CLI**
 
@@ -11,7 +11,7 @@ llmrace 是一个 Rust 编写的命令行基准工具：对多个 LLM 提供商�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

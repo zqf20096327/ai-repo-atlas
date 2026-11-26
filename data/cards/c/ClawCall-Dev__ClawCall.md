@@ -1,6 +1,6 @@
 # ClawCall-Dev/ClawCall
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ClawCall-Dev/ClawCall) · [官网](https://clawcall.dev) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ClawCall-Dev/ClawCall) · [官网](https://clawcall.dev) · 组织维护
 
 **让 AI agent 通过 MCP 拨打真实电话的远程服务**
 
@@ -45,12 +45,12 @@ ClawCall 提供一个远程 MCP 服务器端点，AI 客户端添加该 URL 并�
 ```mermaid
 xychart-beta
     title "ClawCall-Dev/ClawCall 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-25 10（+0）
+2026-11-10 10 → 2026-11-26 10（+0）
 
 
 ---

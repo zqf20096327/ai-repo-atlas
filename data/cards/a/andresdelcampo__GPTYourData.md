@@ -40,6 +40,18 @@
 > L2: Welcome to GPTYourData! This project is a simple but fast and effective C# vector search engine that utilizes OpenAI
 > L19: * Put all the text or PDF files you want to query in the Inputs folder.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "andresdelcampo/GPTYourData 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-25 12 → 2026-11-26 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e8014ad6a0fb` · [字段定义](../../DATASET.md)*

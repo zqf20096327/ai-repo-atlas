@@ -1,6 +1,6 @@
 # raudhatulirfandta-droid/claude-code-billing-setup
 
-⭐ 91 · 推送 2026-11-03 · [GitHub](https://github.com/raudhatulirfandta-droid/claude-code-billing-setup) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 113 · 推送 2026-11-03 · [GitHub](https://github.com/raudhatulirfandta-droid/claude-code-billing-setup) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **教程/推广：用 CoreGold 虚拟商业卡为 Claude Code 与 Anthropic 绑卡**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "raudhatulirfandta-droid/claude-code-billing-setup 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 22 --> 97
-    line [28, 49, 60, 65, 71, 69, 71, 91]
+    title "raudhatulirfandta-droid/claude-code-billing-setup 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 20 --> 121
+    line [28, 49, 60, 65, 71, 69, 71, 91, 113]
 ```
 
-2026-11-08 28 → 2026-11-25 91（+63）
+2026-11-08 28 → 2026-11-26 113（+85）
 
 
 ---

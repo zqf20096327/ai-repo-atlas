@@ -1,6 +1,6 @@
 # ChatAndBuild/livingbrain
 
-⭐ 6 · 推送 2026-10-27 · [GitHub](https://github.com/ChatAndBuild/livingbrain) · [官网](https://livingbrain.com/) · 组织维护
+⭐ 7 · 推送 2026-10-27 · [GitHub](https://github.com/ChatAndBuild/livingbrain) · [官网](https://livingbrain.com/) · 组织维护
 
 **跨 AI 工具携带的持久记忆层：MCP/API 接入**
 
@@ -45,12 +45,12 @@ Living Brain 是一个面向 AI 工具的互操作持久记忆层：用户创建
 ```mermaid
 xychart-beta
     title "ChatAndBuild/livingbrain 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 5 --> 7
-    line [6, 6]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 5 --> 8
+    line [6, 7]
 ```
 
-2026-11-08 6 → 2026-11-25 6（+0）
+2026-11-08 6 → 2026-11-26 7（+1）
 
 
 ---

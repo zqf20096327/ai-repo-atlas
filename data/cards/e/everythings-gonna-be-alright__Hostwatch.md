@@ -1,6 +1,6 @@
 # everythings-gonna-be-alright/Hostwatch
 
-⭐ 3 · Swift · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/everythings-gonna-be-alright/Hostwatch) · [官网](https://hostwatch.tech) · 个人维护
+⭐ 3 · Swift · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/everythings-gonna-be-alright/Hostwatch) · [官网](https://hostwatch.tech) · 个人维护
 
 **macOS 行为式入侵检测：学习正常行为并拦截可疑连接与命令**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "everythings-gonna-be-alright/Hostwatch 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-25 3（+0）
+2026-11-16 3 → 2026-11-26 3（+0）
 
 
 ---

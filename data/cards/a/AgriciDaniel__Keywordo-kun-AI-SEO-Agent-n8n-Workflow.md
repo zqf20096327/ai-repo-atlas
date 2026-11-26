@@ -1,6 +1,6 @@
 # AgriciDaniel/Keywordo-kun-AI-SEO-Agent-n8n-Workflow
 
-⭐ 85 · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/Keywordo-kun-AI-SEO-Agent-n8n-Workflow) · [官网](https://agricidaniel.com/blog/n8n-seo-content-system) · 个人维护
+⭐ 86 · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/Keywordo-kun-AI-SEO-Agent-n8n-Workflow) · [官网](https://agricidaniel.com/blog/n8n-seo-content-system) · 个人维护
 
 **面向营销人员的 n8n 竞品分析与 SEO 博客自动写作 AI Agent 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/Keywordo-kun-AI-SEO-Agent-n8n-Workflow 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 80 --> 86
-    line [81, 83, 84, 85, 85]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 80 --> 87
+    line [81, 83, 84, 85, 86]
 ```
 
-2026-10-23 81 → 2026-11-25 85（+4）
+2026-10-24 81 → 2026-11-26 86（+5）
 
 
 ---

@@ -45,12 +45,12 @@ Electron + Python sidecar 架构的开源桌面应用，将 xAI Grok、Google Ge
 ```mermaid
 xychart-beta
     title "AuraVixStudio/caelo 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-10-23 25 → 2026-11-25 26（+1）
+2026-10-24 25 → 2026-11-26 26（+1）
 
 
 ---

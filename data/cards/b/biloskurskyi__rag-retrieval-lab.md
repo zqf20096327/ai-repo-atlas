@@ -1,6 +1,6 @@
 # biloskurskyi/rag-retrieval-lab
 
-⭐ 20 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/biloskurskyi/rag-retrieval-lab) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/biloskurskyi/rag-retrieval-lab) · 个人维护
 
 **单接口下对比 15 种 RAG 检索策略的学习/评测实验项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "biloskurskyi/rag-retrieval-lab 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 18 --> 21
+    line [20, 19]
 ```
 
-2026-11-08 20 → 2026-11-25 20（+0）
+2026-11-08 20 → 2026-11-26 19（-1）
 
 
 ---

@@ -40,6 +40,18 @@ Go 后端 + Next.js 前端的自主渗透测试系统：以任务为单位运行
 > L3: Autonomous AI Penetration Testing System (Go backend + Next.js frontend)
 > L58: > Requires **PostgreSQL**; exploration requires an **LLM** (`ANTHROPIC_API_KEY` or `OPENAI_API_KEY`, or configure i
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "konanguyen/ARTEX 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f84d60a01f2f` · [字段定义](../../DATASET.md)*

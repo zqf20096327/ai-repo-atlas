@@ -1,6 +1,6 @@
 # niyankhadka/yantra
 
-⭐ 9 · JavaScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/niyankhadka/yantra) · [官网](https://yantra.nbk.com.np/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/niyankhadka/yantra) · [官网](https://yantra.nbk.com.np/) · 个人维护
 
 **把描述或 agent 生成的 JSON 转成可分步讲解的交互式图表**
 
@@ -45,13 +45,13 @@ Yantra 提供 CLI、MCP 服务器、playground 与 Python SDK：用户或编码 
 
 ```mermaid
 xychart-beta
-    title "niyankhadka/yantra 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 4 --> 10
-    line [5, 6, 7, 8, 9, 7, 9, 9]
+    title "niyankhadka/yantra 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 5 --> 11
+    line [6, 7, 8, 9, 7, 9, 10]
 ```
 
-2026-10-23 5 → 2026-11-25 9（+4）
+2026-10-24 6 → 2026-11-26 10（+4）
 
 
 ---

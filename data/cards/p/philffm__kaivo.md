@@ -1,6 +1,6 @@
 # philffm/kaivo
 
-⭐ 25 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/philffm/kaivo) · [官网](http://kaivo.byphil.eu/) · 个人维护
+⭐ 25 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/philffm/kaivo) · [官网](http://kaivo.byphil.eu/) · 个人维护
 
 **浏览器阅读助手：本地或自选模型总结网页/PDF/YouTube**
 
@@ -41,6 +41,18 @@
 > L13:  A free, open-source browser extension that summarizes web pages, PDFs and YouTube videos in 41 languages, with you
 > L17: **Kaivo** (formerly *AI Summary Helper*, same extension, same data) turns that pile into a reading habit. It gives 
 > L50: - **Summaries of pages, PDFs and YouTube videos.** With your model: the byphil Cloud gives you access to most LLMs 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "philffm/kaivo 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 26
+    line [25, 25]
+```
+
+2026-11-25 25 → 2026-11-26 25（+0）
 
 
 ---

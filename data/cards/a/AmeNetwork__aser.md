@@ -1,6 +1,6 @@
 # AmeNetwork/aser
 
-⭐ 471 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AmeNetwork/aser) · [官网](https://ame.network/) · 组织维护 · 中文 README
+⭐ 472 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/AmeNetwork/aser) · [官网](https://ame.network/) · 组织维护 · 中文 README
 
 **轻量模块化 AI Agent 框架：几行代码组装智能体**
 
@@ -46,12 +46,12 @@ Aser 是一个模块化的 AI Agent 构建框架，通过 Agent 类以少量代�
 ```mermaid
 xychart-beta
     title "AmeNetwork/aser 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 468 --> 472
-    line [470, 469, 470, 469, 470, 471, 471]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 468 --> 473
+    line [470, 469, 470, 469, 470, 471, 472]
 ```
 
-2026-10-23 470 → 2026-11-25 471（+1）
+2026-10-24 470 → 2026-11-26 472（+2）
 
 
 ---

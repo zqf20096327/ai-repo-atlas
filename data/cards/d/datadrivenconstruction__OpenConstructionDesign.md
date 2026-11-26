@@ -1,6 +1,6 @@
 # datadrivenconstruction/OpenConstructionDesign
 
-⭐ 6 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionDesign) · [官网](https://openconstructiondesign.com) · 组织维护
+⭐ 62 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/datadrivenconstruction/OpenConstructionDesign) · [官网](https://openconstructiondesign.com) · 组织维护
 
 **建筑行业用户的 AI 驱动开源 CAD-BIM 编辑器**
 
@@ -41,6 +41,18 @@
 > L5:  A free, open-source CAD-BIM editor that your AI can drive.
 > L61: readers. You describe a building in the built-in chat, over MCP or as a JSON brief; the editor
 > L63: nothing changes in your model until you press **Apply**. Bring a cloud model with your own key,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "datadrivenconstruction/OpenConstructionDesign 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 1 --> 67
+    line [6, 62]
+```
+
+2026-11-25 6 → 2026-11-26 62（+56）
 
 
 ---

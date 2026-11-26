@@ -1,6 +1,6 @@
 # yckonnnnn/zack-design-skills
 
-⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yckonnnnn/zack-design-skills) · [官网](https://yckonnnnn.github.io/zack-design-skills/) · 个人维护 · 中文 README
+⭐ 8 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yckonnnnn/zack-design-skills) · [官网](https://yckonnnnn.github.io/zack-design-skills/) · 个人维护 · 中文 README
 
 **给 AI 编码工具用的网页设计技能包，修掉 AI 味**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yckonnnnn/zack-design-skills 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 6 --> 9
     line [7, 8, 7, 8, 8]
 ```
 
-2026-10-23 7 → 2026-11-25 8（+1）
+2026-10-24 7 → 2026-11-26 8（+1）
 
 
 ---

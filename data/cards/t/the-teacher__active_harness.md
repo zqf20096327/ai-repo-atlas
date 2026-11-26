@@ -1,6 +1,6 @@
 # the-teacher/active_harness
 
-⭐ 112 · Ruby · MIT · 推送 2026-10-23 · [GitHub](https://github.com/the-teacher/active_harness) · 个人维护
+⭐ 112 · Ruby · MIT · 推送 2026-11-24 · [GitHub](https://github.com/the-teacher/active_harness) · 个人维护
 
 **面向 Ruby/Rails 的 LLM 流水线构建框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "the-teacher/active_harness 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25"]
+    title "the-teacher/active_harness 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25", "2026-11-26"]
     y-axis "stars" 108 --> 113
-    line [109, 110, 111, 109, 110, 111, 112]
+    line [109, 110, 111, 109, 110, 111, 112, 112]
 ```
 
-2026-10-23 109 → 2026-11-25 112（+3）
+2026-10-24 109 → 2026-11-26 112（+3）
 
 
 ---

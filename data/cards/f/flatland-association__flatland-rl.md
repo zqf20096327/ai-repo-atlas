@@ -1,6 +1,6 @@
 # flatland-association/flatland-rl
 
-⭐ 79 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/flatland-association/flatland-rl) · [官网](https://flatland-association.github.io/flatland-book/) · 组织维护
+⭐ 79 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/flatland-association/flatland-rl) · [官网](https://flatland-association.github.io/flatland-book/) · 组织维护
 
 **多智能体强化学习算法开发与比较的网格世界环境工具包**
 
@@ -44,13 +44,13 @@ Flatland 是开源的强化学习环境工具包，用于在网格世界（含�
 
 ```mermaid
 xychart-beta
-    title "flatland-association/flatland-rl 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-25"]
+    title "flatland-association/flatland-rl 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-25", "2026-11-26"]
     y-axis "stars" 72 --> 80
-    line [73, 74, 75, 77, 78, 79]
+    line [73, 74, 75, 77, 78, 79, 79]
 ```
 
-2026-10-23 73 → 2026-11-25 79（+6）
+2026-10-24 73 → 2026-11-26 79（+6）
 
 
 ---

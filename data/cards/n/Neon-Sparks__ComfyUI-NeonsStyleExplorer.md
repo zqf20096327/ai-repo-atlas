@@ -1,6 +1,6 @@
 # Neon-Sparks/ComfyUI-NeonsStyleExplorer
 
-⭐ 23 · Python · MIT · 推送 2026-09-25 · [GitHub](https://github.com/Neon-Sparks/ComfyUI-NeonsStyleExplorer) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Neon-Sparks/ComfyUI-NeonsStyleExplorer) · 个人维护
 
 **ComfyUI 风格提示词节点：3015 条风格目录与预览图库管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Neon-Sparks/ComfyUI-NeonsStyleExplorer 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 22 --> 25
     line [24, 23, 23]
 ```
 
-2026-10-23 24 → 2026-11-25 23（-1）
+2026-10-24 24 → 2026-11-26 23（-1）
 
 
 ---

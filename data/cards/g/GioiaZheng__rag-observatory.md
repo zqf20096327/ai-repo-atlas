@@ -1,6 +1,6 @@
 # GioiaZheng/rag-observatory
 
-⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GioiaZheng/rag-observatory) · [官网](https://gioiazheng.github.io/projects/rag-observatory/) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GioiaZheng/rag-observatory) · [官网](https://gioiazheng.github.io/projects/rag-observatory/) · 个人维护
 
 **RAG 执行轨迹的可观测性与失败分析诊断层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GioiaZheng/rag-observatory 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 9 --> 20
-    line [19, 10, 18, 19, 19]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 9 --> 21
+    line [19, 10, 18, 19, 20]
 ```
 
-2026-10-18 19 → 2026-11-25 19（+0）
+2026-10-19 19 → 2026-11-26 20（+1）
 
 
 ---

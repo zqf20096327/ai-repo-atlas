@@ -1,6 +1,6 @@
 # Root-7-KHX/companion-memory
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Root-7-KHX/companion-memory) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Root-7-KHX/companion-memory) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 角色扮演对话加本地记忆与人格系统**
 
@@ -45,12 +45,12 @@ DeepSeek Harness 的插件，为角色扮演/伴侣型对话提供按对话隔�
 ```mermaid
 xychart-beta
     title "Root-7-KHX/companion-memory 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # honvu93/ChronosTrade
 
-⭐ 19 · TypeScript · ISC · 推送 2026-06-09 · [GitHub](https://github.com/honvu93/ChronosTrade) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · ISC · 推送 2026-06-09 · [GitHub](https://github.com/honvu93/ChronosTrade) · 个人维护 · 中文 README
 
 **量化交易回测与实盘执行平台：数据、回测、MT5 自动下单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "honvu93/ChronosTrade 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 21]
 ```
 
-2026-10-23 18 → 2026-11-25 19（+1）
+2026-10-24 18 → 2026-11-26 21（+3）
 
 
 ---

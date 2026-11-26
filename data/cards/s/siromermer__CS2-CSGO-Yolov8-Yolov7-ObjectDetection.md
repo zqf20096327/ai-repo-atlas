@@ -1,6 +1,6 @@
 # siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection
 
-⭐ 60 · Jupyter Notebook · 推送 2026-02-19 · [GitHub](https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection) · 个人维护
+⭐ 61 · Jupyter Notebook · 推送 2026-02-19 · [GitHub](https://github.com/siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection) · 个人维护
 
 **CSGO 游戏内实时目标检测与自动瞄准的 YOLOv8 扩展**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "siromermer/CS2-CSGO-Yolov8-Yolov7-ObjectDetection 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 59 --> 61
-    line [60, 60]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 59 --> 62
+    line [60, 61]
 ```
 
-2026-10-23 60 → 2026-11-25 60（+0）
+2026-10-24 60 → 2026-11-26 61（+1）
 
 
 ---

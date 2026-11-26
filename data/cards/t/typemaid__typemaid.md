@@ -46,12 +46,12 @@ TypeMaid 是一个 TypeScript SDK，开发者用 Mermaid `.mmd` 文件描述流�
 ```mermaid
 xychart-beta
     title "typemaid/typemaid 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [4, 3, 3]
 ```
 
-2026-11-21 4 → 2026-11-25 3（-1）
+2026-11-21 4 → 2026-11-26 3（-1）
 
 
 ---

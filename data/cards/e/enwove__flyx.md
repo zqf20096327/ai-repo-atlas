@@ -1,6 +1,6 @@
 # enwove/flyx
 
-⭐ 17 · C++ · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/enwove/flyx) · [官网](https://github.com/enwove/flyx) · 个人维护 · 中文 README
+⭐ 37 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/enwove/flyx) · [官网](https://enwove.ai/product/flyx) · 个人维护 · 中文 README
 
 **单文件本地 LLM 推理引擎：跑 GGUF 并提供兼容 API**
 
@@ -41,6 +41,18 @@ FLYX 是一个零依赖的本地 LLM 推理引擎，以约 50 MB 的单文件二
 > L22: **FLYX** is a zero-dependency local LLM engine in a ~50 MB binary — native long context, tuned per GPU, no setup re
 > L33: - **One-click coding agent integration** — Speaks OpenAI (Chat Completions, Responses) and Anthropic Messages with 
 > L111: |GPUs|RTX 30 / 40 / 50 series, L4, L40S, A100, H100 (`sm_80`–`sm_120`; `sm_100` in Linux release)|Single GPU per p
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "enwove/flyx 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 15 --> 39
+    line [17, 37]
+```
+
+2026-11-25 17 → 2026-11-26 37（+20）
 
 
 ---

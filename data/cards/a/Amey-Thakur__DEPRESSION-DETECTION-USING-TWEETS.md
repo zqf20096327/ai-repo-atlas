@@ -1,6 +1,6 @@
 # Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS
 
-⭐ 14 · Jupyter Notebook · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS) · [官网](https://huggingface.co/spaces/ameythakur/Depression-Detection-Using-Tweets) · 个人维护
+⭐ 15 · Jupyter Notebook · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS) · [官网](https://huggingface.co/spaces/ameythakur/Depression-Detection-Using-Tweets) · 个人维护
 
 **基于 SVM+spaCy 的推文抑郁情绪二分类 Web 应用**
 
@@ -45,12 +45,12 @@ Python+Flask 的机器学习应用：读取用户输入的推文文本，经 spa
 ```mermaid
 xychart-beta
     title "Amey-Thakur/DEPRESSION-DETECTION-USING-TWEETS 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # HugoLopes45/lmsk
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HugoLopes45/lmsk) · [官网](https://hugolopes45.github.io/lmsk/) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HugoLopes45/lmsk) · [官网](https://hugolopes45.github.io/lmsk/) · 个人维护
 
 **给 AI 编码代理发送内容前遮蔽密钥/密码/邮箱的本地代理**
 
@@ -46,12 +46,12 @@ lmsk 以本地代理（Claude Code 前）或 pi 扩展形式运行，在请求�
 ```mermaid
 xychart-beta
     title "HugoLopes45/lmsk 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 3（+0）
 
 
 ---

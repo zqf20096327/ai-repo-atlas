@@ -1,6 +1,6 @@
 # beacoder/gptel-agent-harness
 
-⭐ 11 · Emacs Lisp · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/beacoder/gptel-agent-harness) · 个人维护
+⭐ 11 · Emacs Lisp · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/beacoder/gptel-agent-harness) · 个人维护
 
 **为 Emacs gptel-agent 增加可靠自主编码代理行为的执行套件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "beacoder/gptel-agent-harness 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-31", "2026-11-15", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-31 10 → 2026-11-25 11（+1）
+2026-10-31 10 → 2026-11-26 11（+1）
 
 
 ---

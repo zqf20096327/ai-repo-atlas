@@ -1,6 +1,6 @@
 # Sidiora-Labs/workbox
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Sidiora-Labs/workbox) · [官网](https://workboxvm.ai) · 组织维护
+⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Sidiora-Labs/workbox) · [官网](https://workboxvm.ai) · 组织维护
 
 **在 Linux 主机上隔离运行 AI agent 与其 shell 工具的沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sidiora-Labs/workbox 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-10 17 → 2026-11-25 17（+0）
+2026-11-10 17 → 2026-11-26 17（+0）
 
 
 ---

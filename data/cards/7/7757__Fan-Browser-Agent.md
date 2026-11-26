@@ -47,12 +47,12 @@ Electron 桌面应用 + 内嵌 Chromium + 本地 Python agent 运行时的桌面
 ```mermaid
 xychart-beta
     title "7757/Fan-Browser-Agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-23 40 → 2026-11-25 40（+0）
+2026-10-24 40 → 2026-11-26 40（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AbstractionsLab/satrap-dl
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AbstractionsLab/satrap-dl) · [官网](https://abstractionslab.github.io/satrap-dl/website/product-presentation.html) · 组织维护
+⭐ 12 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AbstractionsLab/satrap-dl) · [官网](https://abstractionslab.github.io/satrap-dl/website/product-presentation.html) · 组织维护
 
 **面向 CTI 分析的半自动化威胁侦察与事件处置工具套件**
 
@@ -45,12 +45,12 @@ SATRAP-DL 套件包含两个子系统：SATRAP 提供基于知识表示系统（
 ```mermaid
 xychart-beta
     title "AbstractionsLab/satrap-dl 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-30", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-30 11 → 2026-11-25 11（+0）
+2026-10-30 11 → 2026-11-26 12（+1）
 
 
 ---

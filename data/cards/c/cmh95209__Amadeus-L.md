@@ -1,6 +1,6 @@
 # cmh95209/Amadeus-L
 
-⭐ 18 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/cmh95209/Amadeus-L) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cmh95209/Amadeus-L) · 个人维护
 
 **还原《命运石之门0》Amadeus 的本地 AI 桌面伴侣应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cmh95209/Amadeus-L 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-11-23 18 → 2026-11-25 18（+0）
+2026-11-23 18 → 2026-11-26 18（+0）
 
 
 ---

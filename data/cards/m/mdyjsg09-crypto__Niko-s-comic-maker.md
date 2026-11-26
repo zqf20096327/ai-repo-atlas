@@ -1,6 +1,6 @@
 # mdyjsg09-crypto/Niko-s-comic-maker
 
-⭐ 45 · Python · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/mdyjsg09-crypto/Niko-s-comic-maker) · 个人维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/mdyjsg09-crypto/Niko-s-comic-maker) · 个人维护
 
 **用本地 ComfyUI 从一句话生成日式彩色页漫画的个人工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mdyjsg09-crypto/Niko-s-comic-maker 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-26"]
     y-axis "stars" 34 --> 46
     line [35, 41, 43, 44, 45, 45]
 ```
 
-2026-11-08 35 → 2026-11-25 45（+10）
+2026-11-08 35 → 2026-11-26 45（+10）
 
 
 ---

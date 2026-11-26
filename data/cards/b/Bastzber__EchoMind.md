@@ -1,6 +1,6 @@
 # Bastzber/EchoMind
 
-⭐ 8 · Python · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/Bastzber/EchoMind) · 个人维护 · 中文 README
+⭐ 8 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Bastzber/EchoMind) · 个人维护 · 中文 README
 
 **给音效创作者：一句话语义检索本地音效库并生成新音效**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bastzber/EchoMind 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 9
     line [3, 6, 7, 3, 8, 8]
 ```
 
-2026-10-23 3 → 2026-11-25 8（+5）
+2026-10-24 3 → 2026-11-26 8（+5）
 
 
 ---

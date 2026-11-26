@@ -1,6 +1,6 @@
 # gaoweimax/recallweaver
 
-⭐ 8 · Python · 推送 2026-11-03 · [GitHub](https://github.com/gaoweimax/recallweaver) · 个人维护 · 中文 README
+⭐ 9 · Python · 推送 2026-11-03 · [GitHub](https://github.com/gaoweimax/recallweaver) · 个人维护 · 中文 README
 
 **给 LLM Agent 提供本地 SQLite 动态记忆的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gaoweimax/recallweaver 星数(近 6 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 3 --> 9
-    line [4, 5, 6, 7, 8, 8]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 3 --> 10
+    line [4, 5, 6, 7, 8, 9]
 ```
 
-2026-11-01 4 → 2026-11-25 8（+4）
+2026-11-01 4 → 2026-11-26 9（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # NazmusSayad/offsite
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NazmusSayad/offsite) · [官网](https://offsite.sayad.dev) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在浏览器中运行 Claude Code/Codex/OpenCode 并与 CLI 共享会话**
 
@@ -11,7 +11,7 @@ OffSite 把 Claude Code、Codex 与 OpenCode 三款编码代理 CLI 的会话带
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

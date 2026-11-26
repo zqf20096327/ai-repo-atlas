@@ -1,6 +1,6 @@
 # GetStream/awesome-ai-news
 
-⭐ 102 · 推送 2026-11-20 · [GitHub](https://github.com/GetStream/awesome-ai-news) · 组织维护
+⭐ 103 · 推送 2026-11-24 · [GitHub](https://github.com/GetStream/awesome-ai-news) · 组织维护
 
 **面向开发者的 AI 新闻月度清单，按月汇总模型与工具动态**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "GetStream/awesome-ai-news 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 99 --> 103
-    line [100, 101, 102, 101, 102, 102]
+    title "GetStream/awesome-ai-news 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 100 --> 104
+    line [101, 102, 101, 102, 103]
 ```
 
-2026-10-23 100 → 2026-11-25 102（+2）
+2026-10-24 101 → 2026-11-26 103（+2）
 
 
 ---

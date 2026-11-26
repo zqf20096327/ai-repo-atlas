@@ -1,6 +1,6 @@
 # kanaworksai-hue/painterly-25d
 
-⭐ 12 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/painterly-25d) · [官网](https://x.com/KanaWorks_AI) · 组织维护
+⭐ 13 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/painterly-25d) · [官网](https://x.com/KanaWorks_AI) · 组织维护
 
 **一键把 Blender 3D 场景转成手绘 2.5D 画面效果的免费插件**
 
@@ -45,13 +45,13 @@ Blender 5.0+ 扩展插件，通过 EEVEE 渲染管线将任意场景转为手绘
 
 ```mermaid
 xychart-beta
-    title "kanaworksai-hue/painterly-25d 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 8 --> 13
-    line [9, 10, 11, 12]
+    title "kanaworksai-hue/painterly-25d 星数(近 5 点)"
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 8 --> 14
+    line [9, 10, 11, 12, 13]
 ```
 
-2026-11-10 9 → 2026-11-25 12（+3）
+2026-11-10 9 → 2026-11-26 13（+4）
 
 
 ---

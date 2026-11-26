@@ -1,6 +1,6 @@
 # axisvela/praxo-core-fortran
 
-⭐ 3 · Fortran · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-fortran) · [官网](https://axisvela.github.io/praxo-core/languages/fortran/) · 组织维护
+⭐ 3 · Fortran · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core-fortran) · [官网](https://axisvela.github.io/praxo-core/languages/fortran/) · 组织维护
 
 **面向 Fortran 开发者的可嵌入 AI agent 框架核心库**
 
@@ -46,12 +46,12 @@ PRAXO-CORE 的 Fortran 2008 原生实现，提供进程内 agent 循环，包含
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-fortran 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

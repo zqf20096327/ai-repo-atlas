@@ -1,6 +1,6 @@
 # future-agi/cookbooks
 
-⭐ 28 · Python · 推送 2026-09-07 · [GitHub](https://github.com/future-agi/cookbooks) · [官网](https://app.futureagi.com) · 组织维护
+⭐ 28 · Python · 推送 2026-11-24 · [GitHub](https://github.com/future-agi/cookbooks) · [官网](https://app.futureagi.com) · 组织维护
 
 **Future AGI 技术栈集成示例项目集（TraceAI 评测与追踪）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "future-agi/cookbooks 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 28（+0）
 
 
 ---

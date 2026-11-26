@@ -1,6 +1,6 @@
 # opendatalab/mineru-tutorials
 
-⭐ 35 · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/opendatalab/mineru-tutorials) · [官网](https://aicarrier.feishu.cn/wiki/Bv0GwrC26iCp5LkqBjHcM8mjnOe) · 组织维护 · 中文 README
+⭐ 36 · NOASSERTION · 推送 2026-05-11 · [GitHub](https://github.com/opendatalab/mineru-tutorials) · [官网](https://aicarrier.feishu.cn/wiki/Bv0GwrC26iCp5LkqBjHcM8mjnOe) · 组织维护 · 中文 README
 
 **MinerU 训练营课程资料仓库：文档解析教学与实战教程**
 
@@ -44,12 +44,12 @@ OpenDataLab 维护的 MinerU 训练营课程材料合集，内容覆盖 MinerU �
 ```mermaid
 xychart-beta
     title "opendatalab/mineru-tutorials 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 31 --> 36
-    line [32, 33, 34, 32, 35, 35]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 34, 32, 35, 36]
 ```
 
-2026-10-23 32 → 2026-11-25 35（+3）
+2026-10-24 32 → 2026-11-26 36（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Babyhamsta/Yoable
 
-⭐ 78 · C# · 推送 2026-03-17 · [GitHub](https://github.com/Babyhamsta/Yoable) · 个人维护 · 中文 README
+⭐ 77 · C# · 推送 2026-03-17 · [GitHub](https://github.com/Babyhamsta/Yoable) · 个人维护 · 中文 README
 
 **带 AI 自动标注的 YOLO 图像标注桌面工具**
 
@@ -46,12 +46,12 @@ C# 开源图像标注工具，面向制作 YOLO 数据集的用户：支持手�
 ```mermaid
 xychart-beta
     title "Babyhamsta/Yoable 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 77 --> 82
-    line [81, 79, 78, 78]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 76 --> 82
+    line [81, 79, 78, 77]
 ```
 
-2026-10-23 81 → 2026-11-25 78（-3）
+2026-10-24 81 → 2026-11-26 77（-4）
 
 
 ---

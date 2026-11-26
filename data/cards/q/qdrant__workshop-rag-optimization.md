@@ -44,12 +44,12 @@ Qdrant 官方维护的 RAG 优化工作坊材料仓库，以一系列 Jupyter �
 ```mermaid
 xychart-beta
     title "qdrant/workshop-rag-optimization 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # 2722039978-source/Noosphere
 
-⭐ 53 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/2722039978-source/Noosphere) · [官网](https://github.com/2722039978-source/Noosphere/releases/latest) · 个人维护 · 中文 README
+⭐ 53 · Go · 推送 2026-11-24 · [GitHub](https://github.com/2722039978-source/Noosphere) · [官网](https://github.com/2722039978-source/Noosphere/releases/latest) · 个人维护 · 中文 README
 
 **面向个人用户的本地 AI 桌面工作台：对话、代码检索、记忆与运维 Agent**
 
@@ -11,7 +11,7 @@ Windows 优先的本地优先桌面应用：前端 React/TypeScript/Vite，桌�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Windows 优先的本地优先桌面应用：前端 React/TypeScript/Vite，桌�
 ```mermaid
 xychart-beta
     title "2722039978-source/Noosphere 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
     y-axis "stars" 51 --> 54
     line [52, 53, 53]
 ```
 
-2026-10-23 52 → 2026-11-25 53（+1）
+2026-10-24 52 → 2026-11-26 53（+1）
 
 
 ---

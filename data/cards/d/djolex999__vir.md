@@ -1,6 +1,6 @@
 # djolex999/vir
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/djolex999/vir) · [官网](https://virwiki.dev) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/djolex999/vir) · [官网](https://virwiki.dev) · 个人维护
 
 **从 Claude Code/Codex 会话记录蒸馏个人 LLM 知识库的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "djolex999/vir 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

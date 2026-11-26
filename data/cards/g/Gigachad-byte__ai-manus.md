@@ -1,6 +1,6 @@
 # Gigachad-byte/ai-manus
 
-⭐ 148 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Gigachad-byte/ai-manus) · 个人维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/Gigachad-byte/ai-manus) · 个人维护
 
 **自主 AI Agent 系统：在沙箱中运行工具、执行代码并控制浏览器**
 
@@ -44,13 +44,13 @@ README 以产品介绍形式描述一个通用自主 AI Agent：代理可自行�
 
 ```mermaid
 xychart-beta
-    title "Gigachad-byte/ai-manus 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25"]
+    title "Gigachad-byte/ai-manus 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 31 --> 283
-    line [54, 52, 262, 153, 152, 150, 148]
+    line [54, 52, 262, 153, 152, 150, 148, 142]
 ```
 
-2026-11-08 54 → 2026-11-25 148（+94）
+2026-11-08 54 → 2026-11-26 142（+88）
 
 
 ---

@@ -1,6 +1,6 @@
 # Data-Science-Big-Data-Research-Lab/MetaGen
 
-⭐ 33 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Data-Science-Big-Data-Research-Lab/MetaGen) · [官网](https://pymetagen.readthedocs.io/) · 组织维护
+⭐ 33 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Data-Science-Big-Data-Research-Lab/MetaGen) · [官网](https://pymetagen.readthedocs.io/) · 组织维护
 
 **面向科研与开发者的元启发式开发与超参数优化框架**
 
@@ -47,12 +47,12 @@ Python 框架，提供元启发式算法开发基类（含运行循环、精英�
 ```mermaid
 xychart-beta
     title "Data-Science-Big-Data-Research-Lab/MetaGen 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-23 33 → 2026-11-25 33（+0）
+2026-10-24 33 → 2026-11-26 33（+0）
 
 
 ---

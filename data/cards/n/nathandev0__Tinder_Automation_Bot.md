@@ -1,6 +1,6 @@
 # nathandev0/Tinder_Automation_Bot
 
-⭐ 84 · Python · 推送 2026-11-23 · [GitHub](https://github.com/nathandev0/Tinder_Automation_Bot) · [官网](https://t.me/nathandev0) · 个人维护
+⭐ 84 · Python · 推送 2026-11-25 · [GitHub](https://github.com/nathandev0/Tinder_Automation_Bot) · [官网](https://t.me/nathandev0) · 个人维护
 
 **基于 Appium 的 Tinder 自动注册与滑动机器人（iOS 真机）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nathandev0/Tinder_Automation_Bot 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 83 --> 87
     line [86, 85, 84, 84]
 ```
 
-2026-10-23 86 → 2026-11-25 84（-2）
+2026-10-24 86 → 2026-11-26 84（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ForeactLabs/OpenExecutive
 
-⭐ 5,834 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ForeactLabs/OpenExecutive) · [官网](https://openexecutive.ai) · 组织维护
+⭐ 5,841 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ForeactLabs/OpenExecutive) · [官网](https://openexecutive.ai) · 组织维护
 
 **开源 AI 虚拟高管团队：一个统一高管人设加多个专家 agent**
 
@@ -46,13 +46,13 @@ ForeAct Labs 开发的多 agent 虚拟高管系统：以一个统一的 Executiv
 
 ```mermaid
 xychart-beta
-    title "ForeactLabs/OpenExecutive 星数(近 11 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 5803 --> 5840
-    line [5806, 5812, 5814, 5819, 5824, 5829, 5834, 5837, 5836, 5833, 5834]
+    title "ForeactLabs/OpenExecutive 星数(近 12 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5803 --> 5844
+    line [5806, 5812, 5814, 5819, 5824, 5829, 5834, 5837, 5836, 5833, 5834, 5841]
 ```
 
-2026-11-13 5,806 → 2026-11-25 5,834（+28）
+2026-11-13 5,806 → 2026-11-26 5,841（+35）
 
 
 ---

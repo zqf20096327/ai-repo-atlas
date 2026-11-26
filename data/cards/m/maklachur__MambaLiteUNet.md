@@ -1,6 +1,6 @@
 # maklachur/MambaLiteUNet
 
-⭐ 44 · Python · 推送 2026-11-18 · [GitHub](https://github.com/maklachur/MambaLiteUNet) · [官网](https://openaccess.thecvf.com/content/CVPR2026/html/Rahman_MambaLiteUNet_Cross-Gated_Adaptive_Feature_Fusion_for_Robust_Skin_Lesion_Segmentation_CVPR_2026_paper.html) · 组织维护
+⭐ 45 · Python · 推送 2026-11-18 · [GitHub](https://github.com/maklachur/MambaLiteUNet) · [官网](https://openaccess.thecvf.com/content/CVPR2026/html/Rahman_MambaLiteUNet_Cross-Gated_Adaptive_Feature_Fusion_for_Robust_Skin_Lesion_Segmentation_CVPR_2026_paper.html) · 组织维护
 
 **CVPR 2026 论文官方代码：皮肤病变分割模型 MambaLiteUNet**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maklachur/MambaLiteUNet 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 41 --> 45
-    line [42, 43, 44, 44]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 41 --> 46
+    line [42, 43, 44, 45]
 ```
 
-2026-10-23 42 → 2026-11-25 44（+2）
+2026-10-24 42 → 2026-11-26 45（+3）
 
 
 ---

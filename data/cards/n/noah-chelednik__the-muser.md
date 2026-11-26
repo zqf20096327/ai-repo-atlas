@@ -1,6 +1,6 @@
 # noah-chelednik/the-muser
 
-⭐ 19 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/noah-chelednik/the-muser) · [官网](https://huggingface.co/spaces/Ched-ai/the-muser) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-05-27 · [GitHub](https://github.com/noah-chelednik/the-muser) · [官网](https://huggingface.co/spaces/Ched-ai/the-muser) · 个人维护
 
 **自然语言作曲的本地 AI 音乐生成工具：描述即出曲**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "noah-chelednik/the-muser 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 14 --> 20
-    line [15, 17, 18, 19, 19]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 14 --> 21
+    line [15, 17, 18, 19, 20]
 ```
 
-2026-10-23 15 → 2026-11-25 19（+4）
+2026-10-24 15 → 2026-11-26 20（+5）
 
 
 ---

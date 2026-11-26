@@ -1,6 +1,6 @@
 # maris205/airsim_agent
 
-⭐ 128 · Jupyter Notebook · 推送 2026-06-01 · [GitHub](https://github.com/maris205/airsim_agent) · [官网](https://airgpt.cloud/) · 个人维护 · 中文 README
+⭐ 129 · Jupyter Notebook · 推送 2026-06-01 · [GitHub](https://github.com/maris205/airsim_agent) · [官网](https://airgpt.cloud/) · 个人维护 · 中文 README
 
 **无人机+大模型入门课程：AirSim 仿真实战教程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "maris205/airsim_agent 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 123 --> 129
-    line [124, 126, 127, 128, 128]
+    title "maris205/airsim_agent 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 125 --> 130
+    line [126, 127, 128, 129]
 ```
 
-2026-10-23 124 → 2026-11-25 128（+4）
+2026-10-24 126 → 2026-11-26 129（+3）
 
 
 ---

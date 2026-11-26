@@ -1,6 +1,6 @@
 # ballerina-platform/module-ballerina-ai
 
-⭐ 20 · Ballerina · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/ballerina-platform/module-ballerina-ai) · 组织维护
+⭐ 24 · Ballerina · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/ballerina-platform/module-ballerina-ai) · 组织维护
 
 **Ballerina 语言的 AI agent 构建库**
 
@@ -43,13 +43,13 @@ Ballerina 平台下的 ai 模块源码仓库，提供用 Ballerina 语言构建�
 
 ```mermaid
 xychart-beta
-    title "ballerina-platform/module-ballerina-ai 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 12 --> 21
-    line [13, 16, 19, 20]
+    title "ballerina-platform/module-ballerina-ai 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 12 --> 25
+    line [13, 16, 19, 20, 24]
 ```
 
-2026-10-23 13 → 2026-11-25 20（+7）
+2026-10-24 13 → 2026-11-26 24（+11）
 
 
 ---

@@ -1,6 +1,6 @@
 # madhurimarawat/Semester-Notes
 
-⭐ 74 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/madhurimarawat/Semester-Notes) · [官网](https://madhurimarawat.github.io/Semester-Notes/) · 个人维护
+⭐ 74 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/madhurimarawat/Semester-Notes) · [官网](https://madhurimarawat.github.io/Semester-Notes/) · 个人维护
 
 **B.Tech CSE（AI/DS 方向）八年学期课程笔记与试卷知识库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "madhurimarawat/Semester-Notes 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 70 --> 75
     line [71, 74, 74]
 ```
 
-2026-10-23 71 → 2026-11-25 74（+3）
+2026-10-24 71 → 2026-11-26 74（+3）
 
 
 ---

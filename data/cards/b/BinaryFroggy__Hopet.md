@@ -46,12 +46,12 @@ SwiftUI + AppKit 编写的 macOS 桌面应用，面向使用 Claude Code 与 Cod
 ```mermaid
 xychart-beta
     title "BinaryFroggy/Hopet 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-23 63 → 2026-11-25 63（+0）
+2026-10-24 63 → 2026-11-26 63（+0）
 
 
 ---

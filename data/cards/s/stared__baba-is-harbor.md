@@ -1,6 +1,6 @@
 # stared/baba-is-harbor
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/stared/baba-is-harbor) · [官网](https://quesma.com/benchmarks/babaisbench/) · 个人维护
+⭐ 17 · Python · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/stared/baba-is-harbor) · [官网](https://quesma.com/benchmarks/babaisbench/) · 个人维护
 
 **基于 Baba Is You 的 AI agent 解谜基准（Harbor 框架）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stared/baba-is-harbor 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 17（+2）
 
 
 ---

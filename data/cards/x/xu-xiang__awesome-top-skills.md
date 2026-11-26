@@ -1,6 +1,6 @@
 # xu-xiang/awesome-top-skills
 
-⭐ 36 · 推送 2026-03-07 · [GitHub](https://github.com/xu-xiang/awesome-top-skills) · [官网](https://oneskill.one) · 个人维护 · 中文 README
+⭐ 37 · 推送 2026-03-07 · [GitHub](https://github.com/xu-xiang/awesome-top-skills) · [官网](https://oneskill.one) · 个人维护 · 中文 README
 
 **AI agent 技能自动策展清单：11,870 条技能按标签分类索引**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xu-xiang/awesome-top-skills 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 35 --> 39
-    line [38, 37, 36, 36]
+    line [38, 37, 36, 37]
 ```
 
-2026-10-23 38 → 2026-11-25 36（-2）
+2026-10-24 38 → 2026-11-26 37（-1）
 
 
 ---

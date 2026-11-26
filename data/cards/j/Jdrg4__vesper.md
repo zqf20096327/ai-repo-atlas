@@ -46,12 +46,12 @@ Vesper 通过 GitHub App 接管指定仓库，按 cron、push webhook、手动�
 ```mermaid
 xychart-beta
     title "Jdrg4/vesper 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 3（+0）
 
 
 ---

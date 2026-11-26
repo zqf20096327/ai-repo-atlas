@@ -1,6 +1,6 @@
 # felan-ai/felan
 
-⭐ 21 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/felan-ai/felan) · 组织维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/felan-ai/felan) · 组织维护
 
 **面向开发者的本地终端编程 Agent，注重成本与可验证任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "felan-ai/felan 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 18 --> 22
     line [19, 20, 19, 21, 21]
 ```
 
-2026-10-23 19 → 2026-11-25 21（+2）
+2026-10-24 19 → 2026-11-26 21（+2）
 
 
 ---

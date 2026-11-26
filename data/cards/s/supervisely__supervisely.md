@@ -1,6 +1,6 @@
 # supervisely/supervisely
 
-⭐ 549 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/supervisely/supervisely) · [官网](https://supervisely.com) · 组织维护
+⭐ 549 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/supervisely/supervisely) · [官网](https://supervisely.com) · 组织维护
 
 **计算机视觉平台的 Python SDK：自动化与扩展标注平台**
 
@@ -45,12 +45,12 @@ Supervisely 计算机视觉平台的官方 Python SDK，供开发者通过脚本
 ```mermaid
 xychart-beta
     title "supervisely/supervisely 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 544 --> 550
     line [545, 546, 545, 548, 549, 549]
 ```
 
-2026-10-23 545 → 2026-11-25 549（+4）
+2026-10-24 545 → 2026-11-26 549（+4）
 
 
 ---

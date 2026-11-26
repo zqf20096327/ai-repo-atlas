@@ -1,6 +1,6 @@
 # JasperGuWP/dsh-plugin-whale-soulmate
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/JasperGuWP/dsh-plugin-whale-soulmate) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/JasperGuWP/dsh-plugin-whale-soulmate) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的模块化 AI 伴侣与透明视频桌宠插件**
 
@@ -40,6 +40,18 @@
 
 > L13: 嗨～这里住着一只给 DeepSeek Harness（`dsh`）用的**模块化、可插拔 AI 小伙伴（Soulmate）** 🐋
 > L27: - **无字幕也能听懂视频**：B 站官方字幕缺失或不匹配时，可从 playurl 提取音轨并调用外部 ASR；支持 OpenAI 兼容、阿里 DashScope、DeepSeek 原生和自定义 JSON 协议，并可从服务端拉取模
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JasperGuWP/dsh-plugin-whale-soulmate 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

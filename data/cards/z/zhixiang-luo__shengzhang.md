@@ -45,13 +45,13 @@ Expo/React Native 开发的语音优先、本地优先个人记账应用：按�
 
 ```mermaid
 xychart-beta
-    title "zhixiang-luo/shengzhang 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6, 6]
+    title "zhixiang-luo/shengzhang 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 4 --> 7
+    line [5, 6, 6]
 ```
 
-2026-10-23 4 → 2026-11-25 6（+2）
+2026-10-24 5 → 2026-11-26 6（+1）
 
 
 ---

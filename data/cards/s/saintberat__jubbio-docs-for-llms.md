@@ -1,6 +1,6 @@
 # saintberat/jubbio-docs-for-llms
 
-⭐ 3 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/saintberat/jubbio-docs-for-llms) · 个人维护
+⭐ 3 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/saintberat/jubbio-docs-for-llms) · 个人维护
 
 **为 LLM 与 AI agent 提供的 Jubbio 平台开发者文档库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "saintberat/jubbio-docs-for-llms 星数(近 2 点)"
-    x-axis ["2026-10-30", "2026-11-25"]
+    x-axis ["2026-10-30", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-30 3 → 2026-11-25 3（+0）
+2026-10-30 3 → 2026-11-26 3（+0）
 
 
 ---

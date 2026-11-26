@@ -1,6 +1,6 @@
 # regenrek/codefetch
 
-⭐ 452 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/regenrek/codefetch) · 个人维护
+⭐ 451 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/regenrek/codefetch) · 个人维护
 
 **把代码仓库转成 LLM 友好 Markdown 的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "regenrek/codefetch 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
     y-axis "stars" 450 --> 453
-    line [451, 452, 452]
+    line [451, 452, 451]
 ```
 
-2026-10-23 451 → 2026-11-25 452（+1）
+2026-10-24 451 → 2026-11-26 451（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # opencrawling/opencrawling
 
-⭐ 29 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/opencrawling/opencrawling) · [官网](https://opencrawling.org) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向企业的数据摄取平台：仓库连接器到向量检索的数据流编排**
 
@@ -11,7 +11,7 @@ Open Ingestion Standard (OIS) 的 Java/Spring 参考实现：通过仓库连接�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

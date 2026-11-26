@@ -1,6 +1,6 @@
 # leopechnicki/im_robot
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/leopechnicki/im_robot) · [官网](https://imrobot.vercel.app) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/leopechnicki/im_robot) · [官网](https://imrobot.vercel.app) · 个人维护
 
 **反向验证码 SDK：验证网站访客是合法 AI Agent 而非人类**
 
@@ -47,12 +47,12 @@ imrobot 提供 npm 与 pip 双 SDK，生成由确定性操作（字符串变换�
 ```mermaid
 xychart-beta
     title "leopechnicki/im_robot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

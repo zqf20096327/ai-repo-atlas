@@ -1,6 +1,6 @@
 # Do-fei/my-raze
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Do-fei/my-raze) · 个人维护 · 中文 README
+⭐ 12 · TypeScript · MIT · 推送 2026-09-05 · [GitHub](https://github.com/Do-fei/my-raze) · 个人维护 · 中文 README
 
 **可自托管的 AI 虚拟女友应用：对话、场景自拍、语音与亲密度养成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Do-fei/my-raze 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-01 10 → 2026-11-25 11（+1）
+2026-11-01 10 → 2026-11-26 12（+2）
 
 
 ---

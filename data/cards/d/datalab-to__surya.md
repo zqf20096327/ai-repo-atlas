@@ -1,6 +1,6 @@
 # datalab-to/surya
 
-⭐ 21,616 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/datalab-to/surya) · [官网](https://www.datalab.to) · 组织维护
+⭐ 21,621 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/datalab-to/surya) · [官网](https://www.datalab.to) · 组织维护
 
 **面向开发者的多语言文档 OCR 与版面分析模型工具包**
 
@@ -44,13 +44,13 @@ Surya 是一个 689M 参数的文档 OCR 与版面视觉语言模型，用单一
 
 ```mermaid
 xychart-beta
-    title "datalab-to/surya 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 21599 --> 21617
-    line [21600, 21606, 21608, 21611, 21616]
+    title "datalab-to/surya 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 21598 --> 21623
+    line [21600, 21606, 21608, 21611, 21616, 21621]
 ```
 
-2026-11-18 21,600 → 2026-11-25 21,616（+16）
+2026-11-18 21,600 → 2026-11-26 21,621（+21）
 
 
 ---

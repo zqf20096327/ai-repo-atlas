@@ -1,6 +1,6 @@
 # anton-abyzov/vskill
 
-⭐ 47 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anton-abyzov/vskill) · [官网](https://verified-skill.com) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/anton-abyzov/vskill) · [官网](https://verified-skill.com) · 个人维护
 
 **面向 53 个 agent 平台的 AI 技能安装器：装前安全扫描+评测**
 
@@ -46,12 +46,12 @@ AI 技能（SKILL.md）的包管理器与本地开发环境：通过 npx 运行�
 ```mermaid
 xychart-beta
     title "anton-abyzov/vskill 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 46 --> 49
     line [48, 47, 47]
 ```
 
-2026-10-23 48 → 2026-11-25 47（-1）
+2026-10-24 48 → 2026-11-26 47（-1）
 
 
 ---

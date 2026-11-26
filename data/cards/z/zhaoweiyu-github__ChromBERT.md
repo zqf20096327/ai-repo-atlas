@@ -1,6 +1,6 @@
 # zhaoweiyu-github/ChromBERT
 
-⭐ 22 · Python · 推送 2026-03-24 · [GitHub](https://github.com/zhaoweiyu-github/ChromBERT) · [官网](https://chrombert.readthedocs.io/) · 组织维护
+⭐ 23 · Python · 推送 2026-03-24 · [GitHub](https://github.com/zhaoweiyu-github/ChromBERT) · [官网](https://chrombert.readthedocs.io/) · 组织维护
 
 **面向转录调控网络解读的基因组预训练基础模型**
 
@@ -45,12 +45,12 @@ ChromBERT 是一个在约一千个转录调控因子的全基因组共关联数�
 ```mermaid
 xychart-beta
     title "zhaoweiyu-github/ChromBERT 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

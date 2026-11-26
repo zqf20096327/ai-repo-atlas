@@ -1,6 +1,6 @@
 # talos-kernel/Talos
 
-⭐ 16 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/talos-kernel/Talos) · [官网](https://talos-agent.ch) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/talos-kernel/Talos) · [官网](https://talos-agent.ch) · 组织维护
 
 **自托管 AI agent：以确定性权限内核约束终端/Telegram 上的模型操作**
 
@@ -46,12 +46,12 @@ Talos 是面向 macOS/Linux（含树莓派）的自托管 AI agent，通过终�
 ```mermaid
 xychart-beta
     title "talos-kernel/Talos 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 11 --> 17
     line [12, 13, 14, 12, 14, 16, 16]
 ```
 
-2026-10-23 12 → 2026-11-25 16（+4）
+2026-10-24 12 → 2026-11-26 16（+4）
 
 
 ---

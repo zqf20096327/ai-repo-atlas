@@ -1,6 +1,6 @@
 # FedML-AI/FedML
 
-⭐ 4,068 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/FedML-AI/FedML) · [官网](https://TensorOpera.ai) · 组织维护
+⭐ 4,069 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/FedML-AI/FedML) · [官网](https://TensorOpera.ai) · 组织维护
 
 **分布式训练、模型服务与联邦学习的统一 ML 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FedML-AI/FedML 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-18", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-26"]
     y-axis "stars" 4067 --> 4071
-    line [4069, 4070, 4069, 4068, 4068]
+    line [4069, 4070, 4069, 4068, 4069]
 ```
 
-2026-10-18 4,069 → 2026-11-25 4,068（-1）
+2026-10-18 4,069 → 2026-11-26 4,069（+0）
 
 
 ---

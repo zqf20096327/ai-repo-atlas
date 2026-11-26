@@ -44,13 +44,13 @@ OWASP Social OSINT Agent 是一个自主代理，通过任意 OpenAI 兼容 API 
 
 ```mermaid
 xychart-beta
-    title "bm-github/owasp-social-osint-agent 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 103 --> 109
-    line [104, 105, 106, 107, 108, 108]
+    title "bm-github/owasp-social-osint-agent 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-20", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 104 --> 109
+    line [105, 106, 107, 108, 108]
 ```
 
-2026-10-23 104 → 2026-11-25 108（+4）
+2026-10-24 105 → 2026-11-26 108（+3）
 
 
 ---

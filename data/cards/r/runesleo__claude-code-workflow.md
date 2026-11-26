@@ -1,6 +1,6 @@
 # runesleo/claude-code-workflow
 
-⭐ 711 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/runesleo/claude-code-workflow) · [官网](https://leolabs.me) · 个人维护 · 中文 README
+⭐ 711 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/runesleo/claude-code-workflow) · [官网](https://leolabs.me) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex/Cursor 用的轻量可回滚行为边界系统**
 
@@ -45,13 +45,13 @@ QuietHarness 是一套为 Claude Code、Codex、Cursor 三种 AI 编程 Agent �
 
 ```mermaid
 xychart-beta
-    title "runesleo/claude-code-workflow 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 707 --> 714
-    line [708, 709, 710, 709, 711, 712, 711, 713, 711, 711]
+    title "runesleo/claude-code-workflow 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 708 --> 714
+    line [709, 710, 709, 711, 712, 711, 713, 711, 711]
 ```
 
-2026-10-23 708 → 2026-11-25 711（+3）
+2026-10-24 709 → 2026-11-26 711（+2）
 
 
 ---

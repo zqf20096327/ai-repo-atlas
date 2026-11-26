@@ -44,12 +44,12 @@ Michael Mayer 在伯尔尼大学讲授的 Statistical Computing 课程讲义仓�
 ```mermaid
 xychart-beta
     title "mayer79/statistical_computing_material 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

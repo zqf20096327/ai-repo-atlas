@@ -1,6 +1,6 @@
 # qsumm/CodeFlow
 
-⭐ 5 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/qsumm/CodeFlow) · [官网](https://codeflow.com.cn) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/qsumm/CodeFlow) · [官网](https://codeflow.com.cn) · 个人维护 · 中文 README
 
 **AI 需求交付平台：从需求澄清到验收的全流程管理**
 
@@ -40,6 +40,18 @@
 > L52: - **运行节点** — 主动回连领任务，代码在内网照样干活；6 种 CLI（Claude Code / Codex / Cursor / Gemini / Qoder）
 > L94: 模型任意 Anthropic 兼容端点（Claude / MiniMax / GLM / DeepSeek…），改执行器 env 三个变量即换，平台不绑定。
 > L80: |MCP Server（外部 Agent 操作平台）|✅ 19 工具|✅|❌|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qsumm/CodeFlow 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-25 5 → 2026-11-26 6（+1）
 
 
 ---

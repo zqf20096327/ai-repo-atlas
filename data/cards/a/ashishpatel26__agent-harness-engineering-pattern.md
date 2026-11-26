@@ -1,6 +1,6 @@
 # ashishpatel26/agent-harness-engineering-pattern
 
-⭐ 9 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/ashishpatel26/agent-harness-engineering-pattern) · [官网](https://ashishpatel26.github.io/agent-harness-engineering-pattern/) · 个人维护
+⭐ 8 · HTML · 推送 2026-10-27 · [GitHub](https://github.com/ashishpatel26/agent-harness-engineering-pattern) · [官网](https://ashishpatel26.github.io/agent-harness-engineering-pattern/) · 个人维护
 
 **agent 运行框架工程模式知识仓库**
 
@@ -39,12 +39,12 @@
 ```mermaid
 xychart-beta
     title "ashishpatel26/agent-harness-engineering-pattern 星数(近 5 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-25"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-26"]
     y-axis "stars" 4 --> 10
-    line [5, 7, 8, 9, 9]
+    line [5, 7, 8, 9, 8]
 ```
 
-2026-10-29 5 → 2026-11-25 9（+4）
+2026-10-29 5 → 2026-11-26 8（+3）
 
 
 ---

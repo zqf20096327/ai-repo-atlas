@@ -1,6 +1,6 @@
 # DreamDonghao/insoulforge
 
-⭐ 57 · C++ · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/DreamDonghao/insoulforge) · 个人维护 · 中文 README
+⭐ 58 · C++ · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/DreamDonghao/insoulforge) · 个人维护 · 中文 README
 
 **QQ 群聊 AI 机器人后端：智能回复、记忆与好感度**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DreamDonghao/insoulforge 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 47 --> 58
-    line [48, 50, 51, 53, 54, 56, 51, 56, 57, 57]
+    title "DreamDonghao/insoulforge 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 49 --> 59
+    line [50, 51, 53, 54, 56, 51, 56, 57, 58]
 ```
 
-2026-10-23 48 → 2026-11-25 57（+9）
+2026-10-24 50 → 2026-11-26 58（+8）
 
 
 ---

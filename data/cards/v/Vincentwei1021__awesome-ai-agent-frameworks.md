@@ -1,6 +1,6 @@
 # Vincentwei1021/awesome-ai-agent-frameworks
 
-⭐ 14 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/Vincentwei1021/awesome-ai-agent-frameworks) · [官网](https://github.com/GoogleCloudPlatform/scion) · 个人维护 · 中文 README
+⭐ 13 · MIT · 推送 2026-04-17 · [GitHub](https://github.com/Vincentwei1021/awesome-ai-agent-frameworks) · [官网](https://github.com/GoogleCloudPlatform/scion) · 个人维护 · 中文 README
 
 **面向中国开发者的 AI Agent 框架中文选型指南（对比+决策树）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Vincentwei1021/awesome-ai-agent-frameworks 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
     y-axis "stars" 10 --> 15
-    line [11, 12, 11, 13, 14, 14]
+    line [11, 12, 11, 13, 14, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 14（+3）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

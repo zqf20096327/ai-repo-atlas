@@ -1,6 +1,6 @@
 # Anri-Lombard/sallm
 
-⭐ 43 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Anri-Lombard/sallm) · 个人维护
+⭐ 43 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Anri-Lombard/sallm) · 个人维护
 
 **面向南非11种官方语言的LLM训练与评测框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anri-Lombard/sallm 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 42 --> 44
     line [43, 43]
 ```
 
-2026-11-22 43 → 2026-11-25 43（+0）
+2026-11-22 43 → 2026-11-26 43（+0）
 
 
 ---

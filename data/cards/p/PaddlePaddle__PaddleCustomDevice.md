@@ -44,12 +44,12 @@ PaddlePaddle 官方的自定义硬件接入实现仓库：按 Custom Device 接�
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleCustomDevice 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 108 --> 110
     line [109, 109]
 ```
 
-2026-10-23 109 → 2026-11-25 109（+0）
+2026-10-24 109 → 2026-11-26 109（+0）
 
 
 ---

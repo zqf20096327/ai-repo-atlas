@@ -1,6 +1,6 @@
 # tuvl-io/tuvl
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tuvl-io/tuvl) · [官网](https://tuvl.io) · 组织维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tuvl-io/tuvl) · [官网](https://tuvl.org) · 组织维护
 
 **为 AI agent 提供 YAML 声明式工作流引擎与运行时**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "tuvl-io/tuvl 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 6 --> 8
     line [7, 7]
 ```
 
-2026-11-08 7 → 2026-11-25 7（+0）
+2026-11-08 7 → 2026-11-26 7（+0）
 
 
 ---

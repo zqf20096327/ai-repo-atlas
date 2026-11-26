@@ -1,6 +1,6 @@
 # rigspark/rigspark
 
-⭐ 25 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rigspark/rigspark) · [官网](https://www.rigspark.ai/) · 个人维护
+⭐ 25 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rigspark/rigspark) · [官网](https://www.rigspark.ai/) · 个人维护
 
 **本地运行开源模型的桌面应用：聊天/图像/视频/语音与硬件适配检查**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rigspark/rigspark 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
     y-axis "stars" 19 --> 26
     line [20, 24, 25, 25]
 ```
 
-2026-11-10 20 → 2026-11-25 25（+5）
+2026-11-10 20 → 2026-11-26 25（+5）
 
 
 ---

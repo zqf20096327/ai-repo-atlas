@@ -1,6 +1,6 @@
 # rxmna8502/vybe-intelligence-vault
 
-⭐ 23 · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/rxmna8502/vybe-intelligence-vault) · [官网](https://rxmna8502.github.io/vybe-intelligence-vault/) · 个人维护
+⭐ 23 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/rxmna8502/vybe-intelligence-vault) · [官网](https://rxmna8502.github.io/vybe-intelligence-vault/) · 个人维护
 
 **自动更新的 AI 工程知识库，供 MCP agent 查询 16 万+ 节点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rxmna8502/vybe-intelligence-vault 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

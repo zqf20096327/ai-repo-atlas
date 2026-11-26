@@ -1,6 +1,6 @@
 # eresende/pitlane-mcp
 
-⭐ 75 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/eresende/pitlane-mcp) · 个人维护
+⭐ 75 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/eresende/pitlane-mcp) · 个人维护
 
 **面向 AI 编程代理的代码索引与符号级检索 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eresende/pitlane-mcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
     y-axis "stars" 74 --> 77
     line [76, 75, 75]
 ```
 
-2026-10-23 76 → 2026-11-25 75（-1）
+2026-10-24 76 → 2026-11-26 75（-1）
 
 
 ---

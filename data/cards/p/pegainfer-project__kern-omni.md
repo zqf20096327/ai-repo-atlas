@@ -1,6 +1,6 @@
 # pegainfer-project/kern-omni
 
-⭐ 54 · Rust · 推送 2026-11-20 · [GitHub](https://github.com/pegainfer-project/kern-omni) · 组织维护
+⭐ 54 · Rust · 推送 2026-11-24 · [GitHub](https://github.com/pegainfer-project/kern-omni) · 组织维护
 
 **Rust 实现的 OpenAI 兼容语音服务端：流式 TTS 与全双工实时会话**
 
@@ -47,12 +47,12 @@ pegainfer 项目的语音与图像推理服务端，以 Rust 编写，兼容 Ope
 ```mermaid
 xychart-beta
     title "pegainfer-project/kern-omni 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-11-21 54 → 2026-11-25 54（+0）
+2026-11-21 54 → 2026-11-26 54（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SkillMix/Brain
 
-⭐ 10 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/SkillMix/Brain) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SkillMix/Brain) · 组织维护
 
 **给团队提供由 AI agent 维护、带来源与签核的公司知识库模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SkillMix/Brain 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 6 --> 11
     line [7, 8, 10, 10]
 ```
 
-2026-11-16 7 → 2026-11-25 10（+3）
+2026-11-16 7 → 2026-11-26 10（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # luxonis/depthai
 
-⭐ 1,070 · Python · 推送 2026-10-26 · [GitHub](https://github.com/luxonis/depthai) · [官网](https://docs.luxonis.com) · 组织维护
+⭐ 1,069 · Python · 推送 2026-10-26 · [GitHub](https://github.com/luxonis/depthai) · [官网](https://docs.luxonis.com) · 组织维护
 
 **Luxonis 平台开发入口：引导至官方文档**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "luxonis/depthai 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-21", "2026-11-26"]
     y-axis "stars" 1068 --> 1072
-    line [1069, 1070, 1071, 1070, 1070]
+    line [1069, 1070, 1071, 1070, 1069]
 ```
 
-2026-10-23 1,069 → 2026-11-25 1,070（+1）
+2026-10-24 1,069 → 2026-11-26 1,069（+0）
 
 
 ---

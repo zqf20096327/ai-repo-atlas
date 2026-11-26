@@ -1,6 +1,6 @@
 # pytorch/benchmark
 
-⭐ 1,056 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/pytorch/benchmark) · 组织维护
+⭐ 1,058 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/pytorch/benchmark) · 组织维护
 
 **PyTorch 官方模型基准测试套件：评估 PyTorch 性能**
 
@@ -46,12 +46,12 @@ TorchBench 收集开源基准工作负载用于评估 PyTorch 性能：torchbenc
 ```mermaid
 xychart-beta
     title "pytorch/benchmark 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 1054 --> 1058
-    line [1055, 1056, 1057, 1056, 1055, 1056, 1056]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 1054 --> 1059
+    line [1055, 1056, 1057, 1056, 1055, 1056, 1058]
 ```
 
-2026-10-23 1,055 → 2026-11-25 1,056（+1）
+2026-10-24 1,055 → 2026-11-26 1,058（+3）
 
 
 ---

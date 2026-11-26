@@ -1,6 +1,6 @@
 # BeOnAuto/runtime
 
-⭐ 111 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/BeOnAuto/runtime) · [官网](https://on.auto) · 组织维护
+⭐ 110 · 推送 2026-11-25 · [GitHub](https://github.com/BeOnAuto/runtime) · [官网](https://on.auto) · 组织维护
 
 **自托管的业务自动化 playbook 运行时，全程记录账本**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BeOnAuto/runtime 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 110 --> 114
-    line [113, 112, 111, 111]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 109 --> 114
+    line [113, 112, 111, 110]
 ```
 
-2026-10-23 113 → 2026-11-25 111（-2）
+2026-10-24 113 → 2026-11-26 110（-3）
 
 
 ---

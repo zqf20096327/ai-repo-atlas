@@ -1,6 +1,6 @@
 # rnett/gradle-mcp
 
-⭐ 69 · Kotlin · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rnett/gradle-mcp) · [官网](https://gradle-mcp.rnett.dev/) · 个人维护
+⭐ 70 · Kotlin · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/rnett/gradle-mcp) · [官网](https://gradle-mcp.rnett.dev/) · 个人维护
 
 **面向 AI agent 的 Gradle MCP 服务器：探索项目、跑构建、审依赖**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rnett/gradle-mcp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 67 --> 70
-    line [68, 69, 68, 69, 69]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 67 --> 71
+    line [68, 69, 68, 69, 70]
 ```
 
-2026-10-23 68 → 2026-11-25 69（+1）
+2026-10-24 68 → 2026-11-26 70（+2）
 
 
 ---

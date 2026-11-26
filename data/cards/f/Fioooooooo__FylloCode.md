@@ -1,6 +1,6 @@
 # Fioooooooo/FylloCode
 
-⭐ 29 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Fioooooooo/FylloCode) · [官网](https://fyllocode.cc) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/Fioooooooo/FylloCode) · [官网](https://fyllocode.cc) · 个人维护 · 中文 README
 
 **桌面应用：把本地 Coding Agent 接入项目治理与决策留档工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Fioooooooo/FylloCode 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    line [28, 29, 28]
 ```
 
-2026-10-23 28 → 2026-11-25 29（+1）
+2026-10-24 28 → 2026-11-26 28（+0）
 
 
 ---

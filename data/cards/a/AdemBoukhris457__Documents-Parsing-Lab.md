@@ -44,12 +44,12 @@ Jupyter notebook 集合，用于实验和基准测试 OCR、文档解析、表�
 ```mermaid
 xychart-beta
     title "AdemBoukhris457/Documents-Parsing-Lab 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 81 --> 83
     line [82, 82]
 ```
 
-2026-10-23 82 → 2026-11-25 82（+0）
+2026-10-24 82 → 2026-11-26 82（+0）
 
 
 ---

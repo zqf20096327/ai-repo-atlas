@@ -1,6 +1,6 @@
 # marceloeatworld/clopinette-ai
 
-⭐ 28 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/marceloeatworld/clopinette-ai) · [官网](https://clopinette.app) · 个人维护
+⭐ 29 · TypeScript · 推送 2026-10-08 · [GitHub](https://github.com/marceloeatworld/clopinette-ai) · [官网](https://clopinette.app) · 个人维护
 
 **部署在 Cloudflare Workers 上的自托管多平台 AI agent，带持久记忆与 13 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "marceloeatworld/clopinette-ai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 29（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # huggingface/huggingface-inference-toolkit
 
-⭐ 98 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/huggingface/huggingface-inference-toolkit) · [官网](https://ui.endpoints.huggingface.co/) · 组织维护
+⭐ 99 · Python · Apache-2.0 · 推送 2026-10-05 · [GitHub](https://github.com/huggingface/huggingface-inference-toolkit) · [官网](https://ui.endpoints.huggingface.co/) · 组织维护
 
 **在容器中部署 Transformers/Diffusers/Sentence-Transformers 模型的服务工具包**
 
@@ -46,12 +46,12 @@ Hugging Face 维护的推理服务工具包：为 Transformers、Diffusers、Sen
 ```mermaid
 xychart-beta
     title "huggingface/huggingface-inference-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 96 --> 99
-    line [97, 98, 97, 98, 98]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 96 --> 100
+    line [97, 98, 97, 98, 99]
 ```
 
-2026-10-23 97 → 2026-11-25 98（+1）
+2026-10-24 97 → 2026-11-26 99（+2）
 
 
 ---

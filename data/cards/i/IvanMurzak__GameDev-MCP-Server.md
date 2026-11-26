@@ -1,6 +1,6 @@
 # IvanMurzak/GameDev-MCP-Server
 
-⭐ 21 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/IvanMurzak/GameDev-MCP-Server) · [官网](https://ai-game.dev) · 个人维护
+⭐ 22 · C# · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/IvanMurzak/GameDev-MCP-Server) · [官网](https://ai-game.dev) · 个人维护
 
 **跨游戏引擎的本地 MCP 服务器：桥接 AI 客户端与 Unity/Godot/Unreal 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "IvanMurzak/GameDev-MCP-Server 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 15 --> 22
-    line [16, 17, 16, 19, 20, 21, 21]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 15 --> 23
+    line [16, 17, 16, 19, 20, 21, 22]
 ```
 
-2026-10-23 16 → 2026-11-25 21（+5）
+2026-10-24 16 → 2026-11-26 22（+6）
 
 
 ---

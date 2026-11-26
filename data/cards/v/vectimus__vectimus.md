@@ -1,6 +1,6 @@
 # vectimus/vectimus
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/vectimus/vectimus) · [官网](https://vectimus.com/) · 组织维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/vectimus/vectimus) · [官网](https://vectimus.com/) · 组织维护
 
 **AI 编程代理的安全治理层：用 Cedar 策略拦截代理动作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "vectimus/vectimus 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
+    title "vectimus/vectimus 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 36 --> 39
-    line [38, 37, 37]
+    line [37, 38]
 ```
 
-2026-10-23 38 → 2026-11-25 37（-1）
+2026-10-24 37 → 2026-11-26 38（+1）
 
 
 ---

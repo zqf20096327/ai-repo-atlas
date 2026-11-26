@@ -1,6 +1,6 @@
 # frandbf/Onward-generator
 
-⭐ 6 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/frandbf/Onward-generator) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/frandbf/Onward-generator) · 个人维护
 
 **把地球上任意街道生成 Onward（Meta Quest）可玩地图的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "frandbf/Onward-generator 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-25"]
+    title "frandbf/Onward-generator 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7, 6]
+    line [4, 5, 6, 7, 6, 7]
 ```
 
-2026-11-08 4 → 2026-11-25 6（+2）
+2026-11-08 4 → 2026-11-26 7（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # HErkanuzun/AssetForge
 
-⭐ 4 · TypeScript · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/HErkanuzun/AssetForge) · [官网](https://github.com/HErkanuzun/AssetForge/releases/latest) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/HErkanuzun/AssetForge) · [官网](https://github.com/HErkanuzun/AssetForge/releases/latest) · 个人维护 · 中文 README
 
 **把文本描述变成 UE5 游戏资产的桌面 AI 流水线**
 
@@ -47,12 +47,12 @@ AssetForge 是面向 Windows 的开源桌面应用，把一段文字需求经节
 ```mermaid
 xychart-beta
     title "HErkanuzun/AssetForge 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 6]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 6（+3）
 
 
 ---

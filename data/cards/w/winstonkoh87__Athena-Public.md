@@ -1,6 +1,6 @@
 # winstonkoh87/Athena-Public
 
-⭐ 652 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/winstonkoh87/Athena-Public) · [官网](https://winstonkoh87.com/athena/) · 个人维护
+⭐ 654 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/winstonkoh87/Athena-Public) · [官网](https://winstonkoh87.com/athena/) · 个人维护
 
 **为 IDE 中的 AI agent 提供本地持久记忆与治理层**
 
@@ -45,13 +45,13 @@ Athena 是一个运行于 Claude Code、Antigravity、Cursor、Gemini CLI、VS C
 
 ```mermaid
 xychart-beta
-    title "winstonkoh87/Athena-Public 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 616 --> 655
-    line [619, 620, 621, 620, 619, 620, 622, 624, 627, 630, 648, 649, 652]
+    title "winstonkoh87/Athena-Public 星数(近 14 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 616 --> 657
+    line [619, 620, 621, 620, 619, 620, 622, 624, 627, 630, 648, 649, 652, 654]
 ```
 
-2026-10-23 619 → 2026-11-25 652（+33）
+2026-10-24 619 → 2026-11-26 654（+35）
 
 
 ---

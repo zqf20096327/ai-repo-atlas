@@ -1,6 +1,6 @@
 # mpecan/tokf
 
-⭐ 200 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mpecan/tokf) · [官网](https://tokf.net) · 个人维护
+⭐ 200 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mpecan/tokf) · [官网](https://tokf.net) · 个人维护
 
 **压缩 CLI 命令输出以减少 AI agent 上下文消耗的工具**
 
@@ -46,12 +46,12 @@ Rust 编写的配置驱动 CLI 工具：拦截 git、cargo、docker、npm 等命
 ```mermaid
 xychart-beta
     title "mpecan/tokf 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 198 --> 201
     line [199, 200, 200]
 ```
 
-2026-10-23 199 → 2026-11-25 200（+1）
+2026-10-24 199 → 2026-11-26 200（+1）
 
 
 ---

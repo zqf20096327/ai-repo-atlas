@@ -1,6 +1,6 @@
 # hyperionaidev/smolmaxxing
 
-⭐ 1,123 · C · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hyperionaidev/smolmaxxing) · [官网](https://hyperion-ai.com/products/smolmaxxing) · 个人维护
+⭐ 1,131 · C · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hyperionaidev/smolmaxxing) · [官网](https://hyperion-ai.com/products/smolmaxxing) · 个人维护
 
 **给极小硬件（电视盒/旧手机/Kindle）跑大 LLM 的 llama.cpp 补丁与实测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hyperionaidev/smolmaxxing 星数(近 11 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 578 --> 1172
-    line [627, 688, 740, 875, 963, 996, 1026, 1059, 1087, 1107, 1123]
+    title "hyperionaidev/smolmaxxing 星数(近 12 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 577 --> 1181
+    line [627, 688, 740, 875, 963, 996, 1026, 1059, 1087, 1107, 1123, 1131]
 ```
 
-2026-11-13 627 → 2026-11-25 1,123（+496）
+2026-11-13 627 → 2026-11-26 1,131（+504）
 
 
 ---

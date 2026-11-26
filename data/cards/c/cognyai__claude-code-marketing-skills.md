@@ -1,6 +1,6 @@
 # cognyai/claude-code-marketing-skills
 
-⭐ 116 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/cognyai/claude-code-marketing-skills) · [官网](https://cogny.com) · 组织维护
+⭐ 117 · HTML · 推送 2026-10-12 · [GitHub](https://github.com/cognyai/claude-code-marketing-skills) · [官网](https://cogny.com) · 组织维护
 
 **面向 Claude Code 等 AI 编码工具的营销技能包（SEO/广告/邮件）**
 
@@ -44,13 +44,13 @@ Cogny 公司维护的营销类 agent 技能集合，安装到 Claude Code、Curs
 
 ```mermaid
 xychart-beta
-    title "cognyai/claude-code-marketing-skills 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 106 --> 117
-    line [107, 108, 110, 111, 112, 110, 114, 116, 116]
+    title "cognyai/claude-code-marketing-skills 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 107 --> 118
+    line [108, 110, 111, 112, 110, 114, 116, 117]
 ```
 
-2026-10-23 107 → 2026-11-25 116（+9）
+2026-10-24 108 → 2026-11-26 117（+9）
 
 
 ---

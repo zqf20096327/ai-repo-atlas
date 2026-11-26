@@ -1,6 +1,6 @@
 # AXERA-TECH/ax-llm
 
-⭐ 172 · C++ · BSD-3-Clause · 推送 2026-11-03 · [GitHub](https://github.com/AXERA-TECH/ax-llm) · 组织维护 · 中文 README
+⭐ 173 · C++ · BSD-3-Clause · 推送 2026-11-03 · [GitHub](https://github.com/AXERA-TECH/ax-llm) · 组织维护 · 中文 README
 
 **爱芯元智芯片上的 LLM/VLM 推理运行时，提供 OpenAI 兼容 API**
 
@@ -45,12 +45,12 @@ AX-LLM 由爱芯元智开发，用于探索 LLM/VLM 在 AXera AI 芯片（AX650A
 ```mermaid
 xychart-beta
     title "AXERA-TECH/ax-llm 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-02", "2026-11-10", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 168 --> 173
-    line [170, 169, 170, 171, 172, 172]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-10", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 168 --> 174
+    line [170, 169, 170, 171, 172, 173]
 ```
 
-2026-10-23 170 → 2026-11-25 172（+2）
+2026-10-24 170 → 2026-11-26 173（+3）
 
 
 ---

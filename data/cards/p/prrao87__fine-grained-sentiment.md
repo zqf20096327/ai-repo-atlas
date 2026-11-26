@@ -1,6 +1,6 @@
 # prrao87/fine-grained-sentiment
 
-⭐ 171 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/prrao87/fine-grained-sentiment) · 个人维护
+⭐ 172 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/prrao87/fine-grained-sentiment) · 个人维护
 
 **SST-5 五类情感分类的多方法对比实验仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "prrao87/fine-grained-sentiment 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 170 --> 172
-    line [171, 171]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 170 --> 173
+    line [171, 172]
 ```
 
-2026-10-23 171 → 2026-11-25 171（+0）
+2026-10-24 171 → 2026-11-26 172（+1）
 
 
 ---

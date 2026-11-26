@@ -1,6 +1,6 @@
 # ldxm666/android-root-mcp
 
-⭐ 5 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ldxm666/android-root-mcp) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ldxm666/android-root-mcp) · 个人维护 · 中文 README
 
 **供 AI agent 通过 MCP 驱动已 root 安卓手机的语义控制服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ldxm666/android-root-mcp 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-14", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-08", "2026-11-14", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-08 3 → 2026-11-25 5（+2）
+2026-11-08 3 → 2026-11-26 6（+3）
 
 
 ---

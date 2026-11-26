@@ -1,6 +1,6 @@
 # MiniMax-AI/MiniMax-Code-MiniApps
 
-⭐ 79 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Code-MiniApps) · [官网](https://agent.minimax.io/docs/miniapp/overview) · 组织维护 · 中文 README
+⭐ 81 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MiniMax-AI/MiniMax-Code-MiniApps) · [官网](https://agent.minimax.io/docs/miniapp/overview) · 组织维护 · 中文 README
 
 **MiniMax Code 桌面端 MiniApp 插件的官方社区仓库**
 
@@ -46,12 +46,12 @@ MiniMax-AI 维护的社区仓库，聚合为 MiniMax Code 桌面应用开发的 
 ```mermaid
 xychart-beta
     title "MiniMax-AI/MiniMax-Code-MiniApps 星数(近 16 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 52 --> 81
-    line [54, 58, 59, 61, 62, 63, 65, 67, 58, 72, 73, 74, 75, 77, 78, 79]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 56 --> 83
+    line [58, 59, 61, 62, 63, 65, 67, 58, 72, 73, 74, 75, 77, 78, 79, 81]
 ```
 
-2026-10-23 54 → 2026-11-25 79（+25）
+2026-10-24 58 → 2026-11-26 81（+23）
 
 
 ---

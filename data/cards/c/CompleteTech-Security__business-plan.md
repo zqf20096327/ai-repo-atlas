@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CompleteTech-Security/business-plan 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-25 5（+0）
+2026-11-08 5 → 2026-11-26 5（+0）
 
 
 ---

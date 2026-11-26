@@ -1,6 +1,6 @@
 # feritzcan2/termloop
 
-⭐ 42 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/feritzcan2/termloop) · [官网](https://termloop.ai) · 个人维护
+⭐ 42 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/feritzcan2/termloop) · [官网](https://termloop.ai) · 个人维护
 
 **在本地与远程统一运行多个编码 agent 的 AI 终端**
 
@@ -45,12 +45,12 @@ Electron + Rust 守护进程的桌面终端工作区：在同一窗口运行 Cla
 ```mermaid
 xychart-beta
     title "feritzcan2/termloop 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
     y-axis "stars" 40 --> 43
     line [41, 42, 42]
 ```
 
-2026-10-23 41 → 2026-11-25 42（+1）
+2026-10-24 41 → 2026-11-26 42（+1）
 
 
 ---

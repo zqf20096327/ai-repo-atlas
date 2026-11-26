@@ -1,6 +1,6 @@
 # sadanandpai/ai-learning-kit
 
-⭐ 204 · MIT · 推送 2026-08-02 · [GitHub](https://github.com/sadanandpai/ai-learning-kit) · 个人维护
+⭐ 205 · MIT · 推送 2026-08-02 · [GitHub](https://github.com/sadanandpai/ai-learning-kit) · 个人维护
 
 **AI/ML 学习资源策展清单：路线图、课程、仓库与练习平台分类汇编**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sadanandpai/ai-learning-kit 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 203 --> 206
-    line [205, 204, 205, 204, 204]
+    line [205, 204, 205, 204, 205]
 ```
 
-2026-10-23 205 → 2026-11-25 204（-1）
+2026-10-24 205 → 2026-11-26 205（+0）
 
 
 ---

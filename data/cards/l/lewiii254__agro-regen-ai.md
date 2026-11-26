@@ -1,6 +1,6 @@
 # lewiii254/agro-regen-ai
 
-⭐ 10 · TypeScript · 推送 2026-05-25 · [GitHub](https://github.com/lewiii254/agro-regen-ai) · [官网](https://agro-regen-ai.vercel.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向农民的气候智慧型再生农业 AI 全栈平台**
 

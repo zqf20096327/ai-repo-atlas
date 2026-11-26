@@ -1,6 +1,6 @@
 # DataverseLabs/pyinterpolate
 
-⭐ 175 · Python · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/DataverseLabs/pyinterpolate) · [官网](https://pyinterpolate.readthedocs.io/en/stable/) · 个人维护
+⭐ 176 · Python · NOASSERTION · 推送 2026-05-23 · [GitHub](https://github.com/DataverseLabs/pyinterpolate) · [官网](https://pyinterpolate.readthedocs.io/en/stable/) · 个人维护
 
 **Python 空间统计库：Kriging 插值与半变异函数分析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DataverseLabs/pyinterpolate 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 174 --> 177
-    line [176, 175, 176, 175, 175]
+    line [176, 175, 176, 175, 176]
 ```
 
-2026-10-23 176 → 2026-11-25 175（-1）
+2026-10-24 176 → 2026-11-26 176（+0）
 
 
 ---

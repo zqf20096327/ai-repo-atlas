@@ -1,6 +1,6 @@
 # ItQianChen/dsh-github-flow
 
-⭐ 22 · JavaScript · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ItQianChen/dsh-github-flow) · [官网](https://github.com/ItQianChen/dsh-github-flow/releases) · 个人维护 · 中文 README
+⭐ 23 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ItQianChen/dsh-github-flow) · [官网](https://github.com/ItQianChen/dsh-github-flow/releases) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness Agent 提供 GitHub 操作工具的插件**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "ItQianChen/dsh-github-flow 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 12 --> 23
-    line [13, 14, 15, 13, 17, 19, 21, 22]
+    title "ItQianChen/dsh-github-flow 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 12 --> 24
+    line [13, 14, 15, 13, 17, 19, 21, 22, 23]
 ```
 
-2026-10-23 13 → 2026-11-25 22（+9）
+2026-10-24 13 → 2026-11-26 23（+10）
 
 
 ---

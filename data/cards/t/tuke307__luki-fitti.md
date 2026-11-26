@@ -1,6 +1,6 @@
 # tuke307/luki-fitti
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/tuke307/luki-fitti) · [官网](https://luki-fitti.tony-luke.de/) · 组织维护
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/tuke307/luki-fitti) · [官网](https://luki-fitti.tony-luke.de/) · 组织维护
 
 **面向健身者的开源训练与饮食追踪应用（Web/iPhone/Watch）**
 
@@ -47,12 +47,12 @@ LukiFitti 是一个社区驱动的开源健身与饮食追踪应用，覆盖 Web
 ```mermaid
 xychart-beta
     title "tuke307/luki-fitti 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-26"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-10 4 → 2026-11-25 5（+1）
+2026-11-10 4 → 2026-11-26 5（+1）
 
 
 ---

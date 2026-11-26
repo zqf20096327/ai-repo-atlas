@@ -1,6 +1,6 @@
 # ponytojas/Refract
 
-⭐ 8 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ponytojas/Refract) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管 LaTeX 工作区，AI 助手以 diff 形式提议修改**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # stanislavkozlovski/dclaude
 
-⭐ 16 · Python · 推送 2026-11-21 · [GitHub](https://github.com/stanislavkozlovski/dclaude) · 个人维护
+⭐ 16 · Python · 推送 2026-11-25 · [GitHub](https://github.com/stanislavkozlovski/dclaude) · 个人维护
 
 **在 Docker 容器内全权限运行 Claude Code / Codex 的封装器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "stanislavkozlovski/dclaude 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 14 --> 17
     line [15, 16, 15, 16, 16]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 16（+1）
 
 
 ---

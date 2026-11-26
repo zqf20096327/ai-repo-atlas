@@ -1,6 +1,6 @@
 # willsmanuel123-creator/ai-manus
 
-⭐ 148 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/willsmanuel123-creator/ai-manus) · 个人维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-11-08 · [GitHub](https://github.com/willsmanuel123-creator/ai-manus) · 个人维护
 
 **面向个人用户的自主 AI 代理：代为执行代码与浏览器操作**
 
@@ -43,13 +43,13 @@ Manus 是一个自主 AI 代理系统，描述中称其可在沙箱环境中运�
 
 ```mermaid
 xychart-beta
-    title "willsmanuel123-creator/ai-manus 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25"]
+    title "willsmanuel123-creator/ai-manus 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 31 --> 283
-    line [54, 52, 262, 153, 152, 150, 148]
+    line [54, 52, 262, 153, 152, 150, 148, 142]
 ```
 
-2026-11-08 54 → 2026-11-25 148（+94）
+2026-11-08 54 → 2026-11-26 142（+88）
 
 
 ---

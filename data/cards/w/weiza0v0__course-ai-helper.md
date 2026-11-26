@@ -1,6 +1,6 @@
 # weiza0v0/course-ai-helper
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/weiza0v0/course-ai-helper) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给网课学生：AI 读题解题并自动填回页面，永不交卷**
 
@@ -11,7 +11,7 @@ Node 脚本，通过 CDP 驱动用户已登录的浏览器读取课程作业题�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

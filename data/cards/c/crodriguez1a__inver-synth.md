@@ -46,12 +46,12 @@ InverSynth 论文（arXiv:1812.06349）的 Python 实现：给定音频片段，
 ```mermaid
 xychart-beta
     title "crodriguez1a/inver-synth 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-23 33 → 2026-11-25 33（+0）
+2026-10-24 33 → 2026-11-26 33（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "schwabauerbriantomas-gif/m2m-vector-search 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
+    title "schwabauerbriantomas-gif/m2m-vector-search 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 22 --> 25
-    line [24, 23, 24, 24]
+    line [23, 24, 24]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 23 → 2026-11-26 24（+1）
 
 
 ---

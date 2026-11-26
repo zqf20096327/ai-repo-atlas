@@ -1,6 +1,6 @@
 # JesperDramsch/ml.recipes
 
-⭐ 79 · HTML · MIT · 推送 2026-10-12 · [GitHub](https://github.com/JesperDramsch/ml.recipes) · [官网](https://ml.recipes/) · 个人维护
+⭐ 79 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/JesperDramsch/ml.recipes) · [官网](https://ml.recipes/) · 个人维护
 
 **面向科研的机器学习可复现性教程（Jupyter Book）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JesperDramsch/ml.recipes 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-23 79 → 2026-11-25 79（+0）
+2026-10-24 79 → 2026-11-26 79（+0）
 
 
 ---

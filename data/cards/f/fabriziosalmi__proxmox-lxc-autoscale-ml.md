@@ -1,6 +1,6 @@
 # fabriziosalmi/proxmox-lxc-autoscale-ml
 
-⭐ 36 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/fabriziosalmi/proxmox-lxc-autoscale-ml) · [官网](https://fabriziosalmi.github.io/proxmox-lxc-autoscale-ml/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/fabriziosalmi/proxmox-lxc-autoscale-ml) · [官网](https://fabriziosalmi.github.io/proxmox-lxc-autoscale-ml/) · 个人维护
 
 **给 Proxmox 管理员：用机器学习自动伸缩 LXC 容器 CPU/内存**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fabriziosalmi/proxmox-lxc-autoscale-ml 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 34 --> 37
     line [35, 36, 36]
 ```
 
-2026-10-23 35 → 2026-11-25 36（+1）
+2026-10-24 35 → 2026-11-26 36（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # FareedKhan-dev/rag-zero-hallucinations
 
-⭐ 179 · Jupyter Notebook · MIT · 推送 2026-06-08 · [GitHub](https://github.com/FareedKhan-dev/rag-zero-hallucinations) · 个人维护
+⭐ 180 · Jupyter Notebook · MIT · 推送 2026-06-08 · [GitHub](https://github.com/FareedKhan-dev/rag-zero-hallucinations) · 个人维护
 
 **教程：构建千万级文档、低幻觉并带引用的 RAG 管线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/rag-zero-hallucinations 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 170 --> 180
-    line [172, 171, 172, 173, 174, 171, 176, 177, 179, 179]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 170 --> 181
+    line [172, 171, 172, 173, 174, 171, 176, 177, 179, 180]
 ```
 
-2026-10-23 172 → 2026-11-25 179（+7）
+2026-10-24 172 → 2026-11-26 180（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # rustnn/rustnn
 
-⭐ 35 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rustnn/rustnn) · [官网](https://rustnn.github.io/rustnn/) · 组织维护
+⭐ 35 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/rustnn/rustnn) · [官网](https://rustnn.github.io/rustnn/) · 组织维护
 
 **W3C WebNN API 的 Rust 实现，带可插拔执行后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rustnn/rustnn 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 30 --> 36
     line [31, 32, 33, 31, 34, 35, 35]
 ```
 
-2026-10-23 31 → 2026-11-25 35（+4）
+2026-10-24 31 → 2026-11-26 35（+4）
 
 
 ---

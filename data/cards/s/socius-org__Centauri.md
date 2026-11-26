@@ -1,6 +1,6 @@
 # socius-org/Centauri
 
-⭐ 19 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/socius-org/Centauri) · [官网](https://socius.org/research/small-foundation-models-of-human-cognition/) · 组织维护
+⭐ 19 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/socius-org/Centauri) · [官网](https://socius.org/research/small-foundation-models-of-human-cognition/) · 组织维护
 
 **训练心理学行为预测小型基础模型的研究代码库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "socius-org/Centauri 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-23 17 → 2026-11-25 19（+2）
+2026-10-24 17 → 2026-11-26 19（+2）
 
 
 ---

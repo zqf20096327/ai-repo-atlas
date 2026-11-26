@@ -1,6 +1,6 @@
 # ThinkOffApp/CarWatch
 
-⭐ 307 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/ThinkOffApp/CarWatch) · [官网](https://carwatch.dev) · 个人维护
+⭐ 306 · Python · AGPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/ThinkOffApp/CarWatch) · [官网](https://carwatch.dev) · 个人维护
 
 **让汽车成为聊天室 agent 的树莓派本地 AI 车载系统**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "ThinkOffApp/CarWatch 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25"]
+    title "ThinkOffApp/CarWatch 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 298 --> 308
-    line [299, 300, 299, 303, 305, 306, 307]
+    line [299, 300, 299, 303, 305, 306, 307, 306]
 ```
 
-2026-10-23 299 → 2026-11-25 307（+8）
+2026-10-24 299 → 2026-11-26 306（+7）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jackksonns/pytorch-deep-learning-notes 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18, 18]
+    title "Jackksonns/pytorch-deep-learning-notes 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18, 18]
 ```
 
-2026-10-23 15 → 2026-11-25 18（+3）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

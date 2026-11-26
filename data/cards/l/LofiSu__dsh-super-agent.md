@@ -1,6 +1,6 @@
 # LofiSu/dsh-super-agent
 
-⭐ 151 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/LofiSu/dsh-super-agent) · 个人维护 · 中文 README
+⭐ 154 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/LofiSu/dsh-super-agent) · 个人维护 · 中文 README
 
 **个人多 Agent 运行时框架：Router/Worker 协作处理主动触发的工作流**
 
@@ -45,13 +45,13 @@ TypeScript 实现的多 Agent 框架，底层为异步 ReAct 运行时，上层�
 
 ```mermaid
 xychart-beta
-    title "LofiSu/dsh-super-agent 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 52 --> 160
-    line [61, 136, 144, 146, 148, 151]
+    title "LofiSu/dsh-super-agent 星数(近 7 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 52 --> 163
+    line [61, 136, 144, 146, 148, 151, 154]
 ```
 
-2026-11-19 61 → 2026-11-25 151（+90）
+2026-11-19 61 → 2026-11-26 154（+93）
 
 
 ---

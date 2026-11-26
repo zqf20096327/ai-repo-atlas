@@ -1,6 +1,6 @@
 # EvilFreelancer/docker-fish-speech-server
 
-⭐ 34 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EvilFreelancer/docker-fish-speech-server) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/EvilFreelancer/docker-fish-speech-server) · 个人维护
 
 **fish-speech-1.5 语音生成 API 服务器的 Docker 封装**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EvilFreelancer/docker-fish-speech-server 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    title "EvilFreelancer/docker-fish-speech-server 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 32 --> 35
-    line [33, 34]
+    line [33, 34, 33]
 ```
 
-2026-11-18 33 → 2026-11-25 34（+1）
+2026-11-18 33 → 2026-11-26 33（+0）
 
 
 ---

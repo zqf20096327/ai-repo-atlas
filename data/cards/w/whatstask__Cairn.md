@@ -1,6 +1,6 @@
 # whatstask/Cairn
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/whatstask/Cairn) · 个人维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/whatstask/Cairn) · 个人维护
 
 **给 Rust 开发者的持久化、可治理、模型无关的 agent 框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "whatstask/Cairn 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-30", "2026-11-20", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-30 3 → 2026-11-25 4（+1）
+2026-10-30 3 → 2026-11-26 4（+1）
 
 
 ---

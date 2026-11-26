@@ -1,6 +1,6 @@
 # MikeGT4/agent-tree
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MikeGT4/agent-tree) · [官网](https://www.digitalroots.de/en/leistungen/software/agent-tree/) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MikeGT4/agent-tree) · [官网](https://www.digitalroots.de/en/leistungen/software/agent-tree/) · 个人维护
 
 **Claude Code 终端侧栏：以实时树视图管理各终端中的 agents**
 
@@ -39,6 +39,18 @@
 
 > L5: A side pane for Claude Code that shows a session's agents as a live tree.
 > L11: Optional: Claude Code hands simple tasks to your local model (Ollama, LM Studio) and saves tokens.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MikeGT4/agent-tree 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 23 --> 25
+    line [24, 24]
+```
+
+2026-11-25 24 → 2026-11-26 24（+0）
 
 
 ---

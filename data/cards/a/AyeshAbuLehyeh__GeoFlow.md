@@ -1,6 +1,6 @@
 # AyeshAbuLehyeh/GeoFlow
 
-⭐ 13 · Python · 推送 2026-10-13 · [GitHub](https://github.com/AyeshAbuLehyeh/GeoFlow) · 组织维护
+⭐ 14 · Python · 推送 2026-10-13 · [GitHub](https://github.com/AyeshAbuLehyeh/GeoFlow) · 组织维护
 
 **CVPR'26 论文官方实现：细粒度跨视角地理定位框架**
 
@@ -45,12 +45,12 @@ GeoFlow（CVPR 2026）的官方训练与评估代码，将定位建模为迭代�
 ```mermaid
 xychart-beta
     title "AyeshAbuLehyeh/GeoFlow 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

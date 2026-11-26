@@ -1,6 +1,6 @@
 # madgodinc/mgi-mind
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/madgodinc/mgi-mind) · 个人维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/madgodinc/mgi-mind) · 个人维护
 
 **给 AI 助手提供本地长期记忆的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "madgodinc/mgi-mind 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-25"]
+    x-axis ["2026-10-25", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-25 10（+0）
+2026-10-25 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -46,12 +46,12 @@ DSphere Agent 是官方 Skill 与本地 stdio MCP 服务器（`dsphere-agent`）
 ```mermaid
 xychart-beta
     title "dsphere/dsphere-agent 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

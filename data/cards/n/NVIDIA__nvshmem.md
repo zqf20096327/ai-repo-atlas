@@ -1,6 +1,6 @@
 # NVIDIA/nvshmem
 
-⭐ 607 · Cuda · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/NVIDIA/nvshmem) · [官网](https://docs.nvidia.com/nvshmem/api/index.html) · 组织维护
+⭐ 606 · Cuda · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/NVIDIA/nvshmem) · [官网](https://docs.nvidia.com/nvshmem/api/index.html) · 组织维护
 
 **面向 NVIDIA GPU 集群的一侧通信并行编程库（OpenSHMEM 风格）**
 
@@ -45,13 +45,13 @@ NVSHMEM 是基于 OpenSHMEM 的并行编程接口，在多块 NVIDIA GPU 之间�
 
 ```mermaid
 xychart-beta
-    title "NVIDIA/nvshmem 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25"]
+    title "NVIDIA/nvshmem 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 594 --> 608
-    line [596, 595, 596, 599, 600, 595, 602, 604, 605, 606, 607]
+    line [596, 595, 596, 599, 600, 595, 602, 604, 605, 606, 607, 606]
 ```
 
-2026-10-23 596 → 2026-11-25 607（+11）
+2026-10-24 596 → 2026-11-26 606（+10）
 
 
 ---

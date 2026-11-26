@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "inboxpraveen/Autoencoders-Decoders-using-Keras 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-25"]
+    x-axis ["2026-10-31", "2026-11-26"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-31 20 → 2026-11-25 20（+0）
+2026-10-31 20 → 2026-11-26 20（+0）
 
 
 ---

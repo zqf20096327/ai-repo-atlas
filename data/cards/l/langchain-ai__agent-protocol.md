@@ -1,6 +1,6 @@
 # langchain-ai/agent-protocol
 
-⭐ 698 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/langchain-ai/agent-protocol) · [官网](https://langchain-ai.github.io/agent-protocol/api.html) · 组织维护
+⭐ 700 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/langchain-ai/agent-protocol) · [官网](https://langchain-ai.github.io/agent-protocol/api.html) · 组织维护
 
 **框架无关的 LLM agent 生产服务 API 协议规范**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/agent-protocol 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 689 --> 699
-    line [690, 692, 691, 692, 690, 697, 698, 698]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 689 --> 701
+    line [690, 692, 691, 692, 690, 697, 698, 700]
 ```
 
-2026-10-23 690 → 2026-11-25 698（+8）
+2026-10-24 690 → 2026-11-26 700（+10）
 
 
 ---

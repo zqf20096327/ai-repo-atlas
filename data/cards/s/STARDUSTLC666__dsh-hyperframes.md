@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-hyperframes
 
-⭐ 39 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/STARDUSTLC666/dsh-hyperframes) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 39 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/STARDUSTLC666/dsh-hyperframes) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：用 HTML 创作视频并导出 MP4**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "STARDUSTLC666/dsh-hyperframes 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-23", "2026-11-25"]
+    title "STARDUSTLC666/dsh-hyperframes 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 35 --> 40
-    line [36, 37, 38, 39]
+    line [36, 37, 38, 39, 39]
 ```
 
-2026-11-18 36 → 2026-11-25 39（+3）
+2026-11-18 36 → 2026-11-26 39（+3）
 
 
 ---

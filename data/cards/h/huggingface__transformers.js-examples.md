@@ -1,6 +1,6 @@
 # huggingface/transformers.js-examples
 
-⭐ 2,120 · JavaScript · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/huggingface/transformers.js-examples) · 组织维护
+⭐ 2,121 · JavaScript · Apache-2.0 · 推送 2026-02-17 · [GitHub](https://github.com/huggingface/transformers.js-examples) · 组织维护
 
 **Transformers.js 官方示例与演示应用合集**
 
@@ -43,13 +43,13 @@ HuggingFace 维护的 Transformers.js 演示与示例应用集合，覆盖 WebGP
 
 ```mermaid
 xychart-beta
-    title "huggingface/transformers.js-examples 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2109 --> 2121
-    line [2110, 2111, 2112, 2110, 2117, 2120, 2119, 2118, 2119, 2120]
+    title "huggingface/transformers.js-examples 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2109 --> 2122
+    line [2110, 2111, 2112, 2110, 2117, 2120, 2119, 2118, 2119, 2120, 2121]
 ```
 
-2026-10-23 2,110 → 2026-11-25 2,120（+10）
+2026-10-24 2,110 → 2026-11-26 2,121（+11）
 
 
 ---

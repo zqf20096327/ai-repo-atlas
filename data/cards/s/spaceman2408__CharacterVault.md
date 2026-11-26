@@ -1,6 +1,6 @@
 # spaceman2408/CharacterVault
 
-⭐ 28 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/spaceman2408/CharacterVault) · [官网](https://charactervault.app/) · 个人维护
+⭐ 29 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/spaceman2408/CharacterVault) · [官网](https://charactervault.app/) · 个人维护
 
 **浏览器内的 V2/V3 角色扮演角色卡与世界书编辑器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "spaceman2408/CharacterVault 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 20 --> 29
-    line [21, 22, 23, 24, 25, 22, 26, 27, 28, 28]
+    title "spaceman2408/CharacterVault 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 21 --> 30
+    line [22, 23, 24, 25, 22, 26, 27, 28, 29]
 ```
 
-2026-10-23 21 → 2026-11-25 28（+7）
+2026-10-24 22 → 2026-11-26 29（+7）
 
 
 ---

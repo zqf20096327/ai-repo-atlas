@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cx2002302-lang/zettelkasten-second-memory 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "cx2002302-lang/zettelkasten-second-memory 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 15 --> 18
-    line [17, 16]
+    line [17, 16, 16]
 ```
 
-2026-10-23 17 → 2026-11-25 16（-1）
+2026-10-24 17 → 2026-11-26 16（-1）
 
 
 ---

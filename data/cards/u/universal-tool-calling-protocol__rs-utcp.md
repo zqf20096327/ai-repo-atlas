@@ -47,12 +47,12 @@ Universal Tool Calling Protocol 的官方 Rust 实现，为开发者提供单一
 ```mermaid
 xychart-beta
     title "universal-tool-calling-protocol/rs-utcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 58 --> 62
     line [59, 61, 61]
 ```
 
-2026-10-23 59 → 2026-11-25 61（+2）
+2026-10-24 59 → 2026-11-26 61（+2）
 
 
 ---

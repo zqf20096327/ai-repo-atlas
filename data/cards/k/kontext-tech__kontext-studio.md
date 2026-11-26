@@ -1,6 +1,6 @@
 # kontext-tech/kontext-studio
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/kontext-tech/kontext-studio) · [官网](https://kontext.tech) · 组织维护
+⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kontext-tech/kontext-studio) · [官网](https://kontext.tech) · 组织维护
 
 **本地优先的对话式数据分析工作台：多 agent 查询数据并给出可复现答案**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kontext-tech/kontext-studio 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 3（+0）
 
 
 ---

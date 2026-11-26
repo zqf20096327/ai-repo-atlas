@@ -44,13 +44,13 @@ MotherDuck 维护的官方 cookbook 仓库，收录自包含的示例工程：db
 
 ```mermaid
 xychart-beta
-    title "motherduckdb/motherduck-cookbook 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-25"]
+    title "motherduckdb/motherduck-cookbook 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-25", "2026-11-26"]
     y-axis "stars" 71 --> 76
-    line [72, 73, 74, 75]
+    line [72, 73, 74, 75, 75]
 ```
 
-2026-10-23 72 → 2026-11-25 75（+3）
+2026-10-24 72 → 2026-11-26 75（+3）
 
 
 ---

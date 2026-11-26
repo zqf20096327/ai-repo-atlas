@@ -1,6 +1,6 @@
 # CyberAgentAILab/python-dte-adjustment
 
-⭐ 11 · Jupyter Notebook · MIT · 推送 2026-11-05 · [GitHub](https://github.com/CyberAgentAILab/python-dte-adjustment) · 组织维护
+⭐ 11 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/CyberAgentAILab/python-dte-adjustment) · 组织维护
 
 **估计分布处理效应的 Python 库：服务因果推断研究者**
 
@@ -44,12 +44,12 @@ dte_adj 是一个用于估计分布处理效应（distributional treatment effec
 ```mermaid
 xychart-beta
     title "CyberAgentAILab/python-dte-adjustment 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

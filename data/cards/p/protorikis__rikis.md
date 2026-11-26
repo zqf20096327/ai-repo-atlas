@@ -1,6 +1,6 @@
 # protorikis/rikis
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-06-18 · [GitHub](https://github.com/protorikis/rikis) · [官网](https://www.protorikis.com) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/protorikis/rikis) · [官网](https://www.protorikis.com) · 个人维护
 
 **本地 LLM 运行时的基准测试代理：拉取并执行 Bench 任务**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "protorikis/rikis 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 14 --> 17
     line [16, 15, 16, 15, 15]
 ```
 
-2026-10-23 16 → 2026-11-25 15（-1）
+2026-10-24 16 → 2026-11-26 15（-1）
 
 
 ---

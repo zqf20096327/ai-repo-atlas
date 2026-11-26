@@ -1,6 +1,6 @@
 # spar-x-fr/spar-x-skills
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/spar-x-fr/spar-x-skills) · [官网](https://www.spar-x.fr) · 组织维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/spar-x-fr/spar-x-skills) · [官网](https://www.spar-x.fr) · 组织维护
 
 **为 Claude Code 用户提供生产就绪的技能插件，按步骤选模型控成本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "spar-x-fr/spar-x-skills 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-10 4 → 2026-11-25 4（+0）
+2026-11-10 4 → 2026-11-26 4（+0）
 
 
 ---

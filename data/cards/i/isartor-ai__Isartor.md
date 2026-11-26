@@ -1,6 +1,6 @@
 # isartor-ai/Isartor
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/isartor-ai/Isartor) · [官网](https://github.com/isartor-ai/Isartor) · 组织维护
+⭐ 22 · Rust · Apache-2.0 · 推送 2026-06-03 · [GitHub](https://github.com/isartor-ai/Isartor) · [官网](https://github.com/isartor-ai/Isartor) · 组织维护
 
 **开源 Prompt 防火墙：本地拦截冗余 LLM 流量再转发云端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "isartor-ai/Isartor 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

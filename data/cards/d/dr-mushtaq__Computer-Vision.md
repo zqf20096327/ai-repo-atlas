@@ -1,6 +1,6 @@
 # dr-mushtaq/Computer-Vision
 
-⭐ 20 · Jupyter Notebook · MIT · 推送 2026-11-22 · [GitHub](https://github.com/dr-mushtaq/Computer-Vision) · [官网](https://coursesteach.com/) · 个人维护
+⭐ 20 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/dr-mushtaq/Computer-Vision) · [官网](https://coursesteach.com/) · 个人维护
 
 **计算机视觉教程清单：图像处理到深度学习的分章学习资源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dr-mushtaq/Computer-Vision 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 20（+0）
 
 
 ---

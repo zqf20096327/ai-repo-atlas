@@ -1,6 +1,6 @@
 # microsoft/agent-framework-durable-extension
 
-⭐ 25 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/microsoft/agent-framework-durable-extension) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/agent-framework-durable-extension) · 组织维护
 
 **为 Microsoft Agent Framework 提供 Durable Task 扩展的仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/agent-framework-durable-extension 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 18 --> 26
     line [19, 24, 19, 24, 25, 25]
 ```
 
-2026-10-22 19 → 2026-11-25 25（+6）
+2026-10-23 19 → 2026-11-26 25（+6）
 
 
 ---

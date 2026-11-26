@@ -1,6 +1,6 @@
 # netresearch/t3x-cowriter
 
-⭐ 10 · PHP · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/netresearch/t3x-cowriter) · 组织维护
+⭐ 10 · PHP · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/netresearch/t3x-cowriter) · 组织维护
 
 **为 TYPO3 编辑者提供 CKEditor 内 AI 写作助手的扩展**
 
@@ -47,12 +47,12 @@ TYPO3 CMS 扩展，在 CKEditor 中提供 AI 写作对话框：改进/摘要/扩
 ```mermaid
 xychart-beta
     title "netresearch/t3x-cowriter 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

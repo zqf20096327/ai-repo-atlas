@@ -1,6 +1,6 @@
 # aleclindz/seo-skill-bench
 
-⭐ 43 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aleclindz/seo-skill-bench) · [官网](https://seoagent.com/seo-skill-benchmark) · 组织维护
+⭐ 43 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aleclindz/seo-skill-bench) · [官网](https://seoagent.com/seo-skill-benchmark) · 组织维护
 
 **SEO 技能评测基准：在含预埋缺陷的固定站点上实测打分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aleclindz/seo-skill-bench 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 42 --> 49
     line [48, 43, 43]
 ```
 
-2026-10-23 48 → 2026-11-25 43（-5）
+2026-10-24 48 → 2026-11-26 43（-5）
 
 
 ---

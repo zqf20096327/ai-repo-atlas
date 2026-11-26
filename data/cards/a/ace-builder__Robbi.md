@@ -1,6 +1,6 @@
 # ace-builder/Robbi
 
-⭐ 24 · Python · 推送 2026-11-06 · [GitHub](https://github.com/ace-builder/Robbi) · [官网](https://youtube.com/@acebuilder-diy) · 个人维护
+⭐ 25 · Python · 推送 2026-11-06 · [GitHub](https://github.com/ace-builder/Robbi) · [官网](https://youtube.com/@acebuilder-diy) · 个人维护
 
 **DIY 树莓派 AI 桌面伴侣机器人：自带表情脸、摄像头与语音**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ace-builder/Robbi 星数(近 8 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 9 --> 25
-    line [10, 12, 14, 17, 19, 21, 23, 24]
+    title "ace-builder/Robbi 星数(近 9 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 26
+    line [10, 12, 14, 17, 19, 21, 23, 24, 25]
 ```
 
-2026-11-12 10 → 2026-11-25 24（+14）
+2026-11-12 10 → 2026-11-26 25（+15）
 
 
 ---

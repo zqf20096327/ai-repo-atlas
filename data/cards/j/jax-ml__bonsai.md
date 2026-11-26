@@ -1,6 +1,6 @@
 # jax-ml/bonsai
 
-⭐ 247 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/jax-ml/bonsai) · 组织维护
+⭐ 248 · Python · Apache-2.0 · 推送 2026-05-29 · [GitHub](https://github.com/jax-ml/bonsai) · 组织维护
 
 **流行模型的极简 JAX 实现，降低 JAX 上手门槛**
 
@@ -44,12 +44,12 @@ Google JAX 团队维护的模型实现库，以简洁、可改写的代码在 JA
 ```mermaid
 xychart-beta
     title "jax-ml/bonsai 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 245 --> 248
-    line [246, 247, 247]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 245 --> 249
+    line [246, 247, 248]
 ```
 
-2026-10-23 246 → 2026-11-25 247（+1）
+2026-10-24 246 → 2026-11-26 248（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DecartAI/decart-ios
 
-⭐ 11 · Swift · MIT · 推送 2026-11-08 · [GitHub](https://github.com/DecartAI/decart-ios) · [官网](https://docs.platform.decart.ai/sdks/swift) · 组织维护
+⭐ 12 · Swift · MIT · 推送 2026-11-08 · [GitHub](https://github.com/DecartAI/decart-ios) · [官网](https://docs.platform.decart.ai/sdks/swift) · 组织维护
 
 **iOS/macOS 开发者接入 Decart AI 实时视频与生成能力的 Swift SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DecartAI/decart-ios 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

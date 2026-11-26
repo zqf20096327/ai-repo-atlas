@@ -1,6 +1,6 @@
 # green-dalii/pi-shift-router
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/green-dalii/pi-shift-router) · [官网](https://shiftrouter.greenerai.top) · 个人维护 · 中文 README
+⭐ 16 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/green-dalii/pi-shift-router) · [官网](https://shiftrouter.greenerai.top) · 个人维护 · 中文 README
 
 **Pi 编码代理的逐轮模型路由扩展：由 judge 选便宜或强模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "green-dalii/pi-shift-router 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-15", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-15", "2026-11-22", "2026-11-26"]
     y-axis "stars" 12 --> 17
     line [13, 14, 15, 16, 16]
 ```
 
-2026-10-23 13 → 2026-11-25 16（+3）
+2026-10-24 13 → 2026-11-26 16（+3）
 
 
 ---

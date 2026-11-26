@@ -1,6 +1,6 @@
 # jroth1111/grokbot-BYOK
 
-⭐ 12 · TypeScript · 推送 2026-08-23 · [GitHub](https://github.com/jroth1111/grokbot-BYOK) · 个人维护
+⭐ 14 · TypeScript · 推送 2026-08-23 · [GitHub](https://github.com/jroth1111/grokbot-BYOK) · 个人维护
 
 **本地推理代理：用自己的 LLM API 密钥接管 Grok Bot 的推理调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jroth1111/grokbot-BYOK 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 14]
 ```
 
-2026-11-18 10 → 2026-11-25 12（+2）
+2026-11-18 10 → 2026-11-26 14（+4）
 
 
 ---

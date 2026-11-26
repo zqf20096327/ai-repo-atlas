@@ -1,6 +1,6 @@
 # ggml-org/llama-brand
 
-⭐ 11 · Svelte · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ggml-org/llama-brand) · [官网](https://ggml-org-llama-brand-storybook.static.hf.space) · 组织维护
+⭐ 12 · Svelte · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ggml-org/llama-brand) · [官网](https://ggml-org-llama-brand-storybook.static.hf.space) · 组织维护
 
 **Llama 与 llama.cpp 的官方品牌素材库：logo、字体与配色**
 
@@ -45,12 +45,12 @@ ggml-org 发布的品牌资产仓库，收录 Llama.app 与 llama.cpp 的 logo�
 ```mermaid
 xychart-beta
     title "ggml-org/llama-brand 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-12", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-12 10 → 2026-11-25 11（+1）
+2026-11-12 10 → 2026-11-26 12（+2）
 
 
 ---

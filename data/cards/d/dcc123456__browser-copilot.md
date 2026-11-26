@@ -1,6 +1,6 @@
 # dcc123456/browser-copilot
 
-⭐ 52 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/dcc123456/browser-copilot) · [官网](https://dcc123456.github.io/browser-copilot/) · 个人维护 · 中文 README
+⭐ 52 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/dcc123456/browser-copilot) · [官网](https://dcc123456.github.io/browser-copilot/) · 个人维护 · 中文 README
 
 **Chrome 侧栏 AI 助手：读取当前页面并代你点击、填表、执行流程**
 
@@ -46,13 +46,13 @@ Chrome（Manifest V3）侧边栏扩展，接入任意 OpenAI 兼容端点（Deep
 
 ```mermaid
 xychart-beta
-    title "dcc123456/browser-copilot 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 34 --> 53
-    line [35, 36, 37, 36, 45, 47, 48, 49, 51, 52, 52]
+    title "dcc123456/browser-copilot 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 35 --> 53
+    line [36, 37, 36, 45, 47, 48, 49, 51, 52, 52]
 ```
 
-2026-10-23 35 → 2026-11-25 52（+17）
+2026-10-24 36 → 2026-11-26 52（+16）
 
 
 ---

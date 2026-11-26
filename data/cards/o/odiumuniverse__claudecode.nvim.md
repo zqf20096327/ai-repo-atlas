@@ -1,6 +1,6 @@
 # odiumuniverse/claudecode.nvim
 
-⭐ 10 · Lua · MIT · 推送 2026-11-17 · [GitHub](https://github.com/odiumuniverse/claudecode.nvim) · [官网](https://home.odiumuniverse.com/p/claudecode-nvim) · 个人维护
+⭐ 10 · Lua · MIT · 推送 2026-11-24 · [GitHub](https://github.com/odiumuniverse/claudecode.nvim) · [官网](https://home.odiumuniverse.com/p/claudecode-nvim) · 个人维护
 
 **为 Neovim 用户提供带逐块审查的 Claude Code 集成插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "odiumuniverse/claudecode.nvim 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-25"]
+    x-axis ["2026-10-25", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-25 10 → 2026-11-25 10（+0）
+2026-10-25 10 → 2026-11-26 10（+0）
 
 
 ---

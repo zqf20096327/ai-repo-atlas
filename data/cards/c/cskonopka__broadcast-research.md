@@ -1,6 +1,6 @@
 # cskonopka/broadcast-research
 
-⭐ 14 · Python · 推送 2026-10-31 · [GitHub](https://github.com/cskonopka/broadcast-research) · [官网](https://cskonopka.gitbook.io/broadcast-research) · 个人维护
+⭐ 13 · Python · 推送 2026-10-31 · [GitHub](https://github.com/cskonopka/broadcast-research) · [官网](https://cskonopka.gitbook.io/broadcast-research) · 个人维护
 
 **模拟视频素材的数据挖掘研究项目：生成分析数据池**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cskonopka/broadcast-research 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    line [13, 14, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

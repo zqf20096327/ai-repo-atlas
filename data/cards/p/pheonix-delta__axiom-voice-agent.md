@@ -1,6 +1,6 @@
 # pheonix-delta/axiom-voice-agent
 
-⭐ 148 · Python · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/pheonix-delta/axiom-voice-agent) · 个人维护
+⭐ 149 · Python · Apache-2.0 · 推送 2026-05-24 · [GitHub](https://github.com/pheonix-delta/axiom-voice-agent) · 个人维护
 
 **面向机器人/边缘设备的离线低延迟语音助手**
 
@@ -46,12 +46,12 @@ AXIOM 是为机器人与边缘环境构建的语音代理：通过 WebSocket 实
 ```mermaid
 xychart-beta
     title "pheonix-delta/axiom-voice-agent 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 145 --> 149
-    line [146, 147, 148, 147, 146, 148, 148]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 145 --> 150
+    line [146, 147, 148, 147, 146, 148, 149]
 ```
 
-2026-10-23 146 → 2026-11-25 148（+2）
+2026-10-24 146 → 2026-11-26 149（+3）
 
 
 ---

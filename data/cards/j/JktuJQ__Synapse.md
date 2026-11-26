@@ -1,6 +1,6 @@
 # JktuJQ/Synapse
 
-⭐ 11 · Haskell · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JktuJQ/Synapse) · 个人维护
+⭐ 11 · Haskell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/JktuJQ/Synapse) · 个人维护
 
 **纯 Haskell 的机器学习库：构建与训练神经网络**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JktuJQ/Synapse 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

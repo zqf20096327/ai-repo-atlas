@@ -1,6 +1,6 @@
 # jeffersongoncalves/peek-cli
 
-⭐ 5 · PHP · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jeffersongoncalves/peek-cli) · 个人维护
+⭐ 5 · PHP · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jeffersongoncalves/peek-cli) · 个人维护
 
 **给 LLM 提供远程服务器只读检查的 SSH CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jeffersongoncalves/peek-cli 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-23 5 → 2026-11-25 5（+0）
+2026-11-23 5 → 2026-11-26 5（+0）
 
 
 ---

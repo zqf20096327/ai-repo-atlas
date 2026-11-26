@@ -1,6 +1,6 @@
 # ChenYu1991ppak/deepseek-harness-anatomy
 
-⭐ 10 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ChenYu1991ppak/deepseek-harness-anatomy) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ChenYu1991ppak/deepseek-harness-anatomy) · 个人维护 · 中文 README
 
 **DeepSeek Harness (dsh) 源码研读教程：18 章逐机制拆解**
 
@@ -40,6 +40,18 @@
 
 > L5: **18 chapters. One mechanism at a time. Every chapter runnable.** Deconstruct the DeepSeek Harness engineering skele
 > L41: - **Each chapter comes with runnable Python teaching code**: `chNN/code/` is self-contained and uses only the stand
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ChenYu1991ppak/deepseek-harness-anatomy 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-25 10 → 2026-11-26 11（+1）
 
 
 ---

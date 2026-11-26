@@ -1,6 +1,6 @@
 # khaled-dragon/Waey
 
-⭐ 16 · Rust · 推送 2026-10-17 · [GitHub](https://github.com/khaled-dragon/Waey) · [官网](https://waey-ai.vercel.app/) · 个人维护
+⭐ 17 · Rust · 推送 2026-10-17 · [GitHub](https://github.com/khaled-dragon/Waey) · [官网](https://waey-ai.vercel.app/) · 个人维护
 
 **屏幕感知 AI 桌面助手：随时向 LLM 提问当前屏幕内容**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "khaled-dragon/Waey 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 9 --> 17
-    line [10, 16, 16]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 18
+    line [10, 16, 17]
 ```
 
-2026-11-02 10 → 2026-11-25 16（+6）
+2026-11-02 10 → 2026-11-26 17（+7）
 
 
 ---

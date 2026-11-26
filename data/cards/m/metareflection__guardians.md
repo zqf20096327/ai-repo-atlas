@@ -1,6 +1,6 @@
 # metareflection/guardians
 
-⭐ 160 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/metareflection/guardians) · 个人维护
+⭐ 162 · Python · MIT · 推送 2026-07-16 · [GitHub](https://github.com/metareflection/guardians) · 个人维护
 
 **AI agent 工作流的形式化验证框架：静态检查后再执行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "metareflection/guardians 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 157 --> 161
-    line [158, 159, 160, 160]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 157 --> 163
+    line [158, 159, 160, 162]
 ```
 
-2026-10-23 158 → 2026-11-25 160（+2）
+2026-10-24 158 → 2026-11-26 162（+4）
 
 
 ---

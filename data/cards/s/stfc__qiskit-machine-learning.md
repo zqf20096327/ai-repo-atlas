@@ -1,6 +1,6 @@
 # stfc/qiskit-machine-learning
 
-⭐ 1,116 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/stfc/qiskit-machine-learning) · [官网](https://stfc.github.io/qiskit-machine-learning/) · 组织维护
+⭐ 1,116 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/stfc/qiskit-machine-learning) · [官网](https://stfc.github.io/qiskit-machine-learning/) · 组织维护
 
 **基于 Qiskit 的量子机器学习库：量子核与量子神经网络**
 
@@ -45,12 +45,12 @@ Qiskit Community 生态中的机器学习库，由 IBM 与英国 STFC Hartree Ce
 ```mermaid
 xychart-beta
     title "stfc/qiskit-machine-learning 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-21", "2026-11-26"]
     y-axis "stars" 1110 --> 1118
     line [1111, 1112, 1113, 1115, 1116, 1117, 1116, 1116]
 ```
 
-2026-10-30 1,111 → 2026-11-25 1,116（+5）
+2026-10-30 1,111 → 2026-11-26 1,116（+5）
 
 
 ---

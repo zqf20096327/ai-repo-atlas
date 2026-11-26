@@ -1,6 +1,6 @@
 # Agentboxx-dev/Agentboxx
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Agentboxx-dev/Agentboxx) · [官网](https://pypi.org/project/agentboxx/) · 组织维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Agentboxx-dev/Agentboxx) · [官网](https://pypi.org/project/agentboxx/) · 组织维护
 
 **AI agent 防篡改运行记录器：沙箱执行、签名审计、循环检测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Agentboxx-dev/Agentboxx 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-26"]
     y-axis "stars" 3 --> 8
     line [4, 5, 6, 7, 7]
 ```
 
-2026-11-08 4 → 2026-11-25 7（+3）
+2026-11-08 4 → 2026-11-26 7（+3）
 
 
 ---

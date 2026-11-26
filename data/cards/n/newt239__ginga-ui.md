@@ -1,6 +1,6 @@
 # newt239/ginga-ui
 
-⭐ 40 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/newt239/ginga-ui) · [官网](https://ginga-ui.vercel.app) · 个人维护
+⭐ 40 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/newt239/ginga-ui) · [官网](https://ginga-ui.vercel.app) · 个人维护
 
 **React UI 组件库：以 LLM 依据网站内容或提示生成组件样式主题**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "newt239/ginga-ui 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-23 39 → 2026-11-25 40（+1）
+2026-10-24 39 → 2026-11-26 40（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # BerriAI/inference-stack
 
-⭐ 28 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BerriAI/inference-stack) · [官网](https://inferencestack.io) · 组织维护
+⭐ 31 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BerriAI/inference-stack) · [官网](https://inferencestack.io) · 组织维护
 
 **一键部署的开源推理栈：整合 LiteLLM、llm-d、vLLM 与 Grafana**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BerriAI/inference-stack 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 18 --> 29
-    line [19, 28]
+    title "BerriAI/inference-stack 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 32
+    line [19, 28, 31]
 ```
 
-2026-11-23 19 → 2026-11-25 28（+9）
+2026-11-23 19 → 2026-11-26 31（+12）
 
 
 ---

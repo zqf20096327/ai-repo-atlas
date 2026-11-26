@@ -1,6 +1,6 @@
 # koltyakov/varro
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/koltyakov/varro) · [官网](https://marketplace.visualstudio.com/items?itemName=koltyakov.varro) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/koltyakov/varro) · [官网](https://marketplace.visualstudio.com/items?itemName=koltyakov.varro) · 个人维护
 
 **在 VS Code 内运行 OpenCode 的编码 agent 工作台扩展**
 
@@ -45,12 +45,12 @@ VS Code/VSCodium 扩展，将 OpenCode CLI 嵌入编辑器并提供图形界面�
 ```mermaid
 xychart-beta
     title "koltyakov/varro 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
     y-axis "stars" 22 --> 30
     line [23, 24, 25, 26, 23, 26, 27, 28, 29, 29]
 ```
 
-2026-10-23 23 → 2026-11-25 29（+6）
+2026-10-24 23 → 2026-11-26 29（+6）
 
 
 ---

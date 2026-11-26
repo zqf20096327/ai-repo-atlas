@@ -41,6 +41,18 @@
 > L3: ### 2845 道原创面试题 · 每题都有讲解 · 在线刷题、错题本、模拟考试 · 开源免费
 > L36: |**开放程度**|常见付费或闭源|开源免费，YAML / JSON / CSV 数据可二次开发|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anticipate218/llm-agent-interview-bank 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d9527b855879` · [字段定义](../../DATASET.md)*

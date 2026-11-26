@@ -1,6 +1,6 @@
 # PaulRitsche/DeepACSA
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/PaulRitsche/DeepACSA) · [官网](https://deepacsa.readthedocs.io/en/latest/) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-03-31 · [GitHub](https://github.com/PaulRitsche/DeepACSA) · [官网](https://deepacsa.readthedocs.io/en/latest/) · 组织维护
 
 **深度学习自动测量超声图像肌肉横截面积的开源工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PaulRitsche/DeepACSA 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

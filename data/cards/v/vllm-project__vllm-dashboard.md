@@ -1,6 +1,6 @@
 # vllm-project/vllm-dashboard
 
-⭐ 21 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/vllm-dashboard) · [官网](https://vllm-ci-dashboard.vercel.app) · 组织维护
+⭐ 21 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/vllm-project/vllm-dashboard) · [官网](https://vllm-ci-dashboard.vercel.app) · 组织维护
 
 **观测 vLLM Buildkite CI 的 Next.js 仪表盘：构建、队列、成本与性能趋势**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-dashboard 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 15 --> 22
     line [16, 18, 16, 19, 20, 21, 21]
 ```
 
-2026-10-23 16 → 2026-11-25 21（+5）
+2026-10-24 16 → 2026-11-26 21（+5）
 
 
 ---

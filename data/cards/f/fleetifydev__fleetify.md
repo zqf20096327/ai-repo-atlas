@@ -1,6 +1,6 @@
 # fleetifydev/fleetify
 
-⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fleetifydev/fleetify) · [官网](https://fleetify.dev) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fleetifydev/fleetify) · [官网](https://fleetify.dev) · 组织维护
 
 **在一个桌面应用中并行运行多个 AI 编码代理的控制中心**
 
@@ -41,6 +41,18 @@
 > L9:  A command center for AI agents.
 > L10:  Run Claude Code, Codex, OpenCode and more side by side, from one desktop app.
 > L48: Fleetify runs the agent CLIs you already use, such as Claude Code, Codex, OpenCode, Cursor CLI and GitHub Copilot C
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fleetifydev/fleetify 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 14
+    line [6, 13]
+```
+
+2026-11-25 6 → 2026-11-26 13（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # yejees/APT
 
-⭐ 16 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/yejees/APT) · 组织维护
+⭐ 17 · Python · MIT · 推送 2025-12-16 · [GitHub](https://github.com/yejees/APT) · 组织维护
 
 **CVPR 2025 论文 APT 官方代码：扩散模型多对比度 MR 图像合成**
 
@@ -45,12 +45,12 @@ CVPR 2025 论文 Anatomical Consistency and Adaptive Prior-informed Transformati
 ```mermaid
 xychart-beta
     title "yejees/APT 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

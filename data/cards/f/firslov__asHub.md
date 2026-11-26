@@ -1,6 +1,6 @@
 # firslov/asHub
 
-⭐ 139 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/firslov/asHub) · 个人维护 · 中文 README
+⭐ 139 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/firslov/asHub) · 个人维护 · 中文 README
 
 **开源桌面 Agent 工作区：多会话并行对话与可审查执行轨迹**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "firslov/asHub 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 138 --> 140
     line [139, 139]
 ```
 
-2026-10-23 139 → 2026-11-25 139（+0）
+2026-10-24 139 → 2026-11-26 139（+0）
 
 
 ---

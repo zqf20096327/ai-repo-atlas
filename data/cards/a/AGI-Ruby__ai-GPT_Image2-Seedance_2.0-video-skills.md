@@ -1,6 +1,6 @@
 # AGI-Ruby/ai-GPT_Image2-Seedance_2.0-video-skills
 
-⭐ 37 · JavaScript · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/AGI-Ruby/ai-GPT_Image2-Seedance_2.0-video-skills) · 个人维护
+⭐ 38 · JavaScript · NOASSERTION · 推送 2026-05-18 · [GitHub](https://github.com/AGI-Ruby/ai-GPT_Image2-Seedance_2.0-video-skills) · 个人维护
 
 **面向 Codex/Claude Code 的视频提示词技能包（2 个 SKILL）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AGI-Ruby/ai-GPT_Image2-Seedance_2.0-video-skills 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 36 --> 38
-    line [37, 37]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 36 --> 39
+    line [37, 38]
 ```
 
-2026-10-23 37 → 2026-11-25 37（+0）
+2026-10-24 37 → 2026-11-26 38（+1）
 
 
 ---

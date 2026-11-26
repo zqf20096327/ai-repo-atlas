@@ -1,6 +1,6 @@
 # yotambraun/APDTFlow
 
-⭐ 44 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/yotambraun/APDTFlow) · [官网](https://github.com/yotambraun/APDTFlow) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/yotambraun/APDTFlow) · [官网](https://github.com/yotambraun/APDTFlow) · 个人维护
 
 **连续时间概率时序预测库：Neural ODE 回答何时越限**
 
@@ -47,12 +47,12 @@ PyTorch 时序预测框架，用 Neural ODE（可选 Transformer/TCN/Ensemble）
 ```mermaid
 xychart-beta
     title "yotambraun/APDTFlow 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-23 44 → 2026-11-25 44（+0）
+2026-10-24 44 → 2026-11-26 45（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # penteos/penteos
 
-⭐ 14 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/penteos/penteos) · [官网](https://penteos.com) · 组织维护
+⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/penteos/penteos) · [官网](https://penteos.com) · 组织维护
 
 **给渗透测试者的 AI 测试工作台：侦察到报告一站完成**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "penteos/penteos 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 5 --> 15
-    line [6, 7, 14]
+    title "penteos/penteos 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 17
+    line [6, 7, 14, 16]
 ```
 
-2026-11-22 6 → 2026-11-25 14（+8）
+2026-11-22 6 → 2026-11-26 16（+10）
 
 
 ---

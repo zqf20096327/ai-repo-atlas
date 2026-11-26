@@ -1,6 +1,6 @@
 # DaniloCVieira/iMESc
 
-⭐ 10 · R · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/DaniloCVieira/iMESc) · 个人维护
+⭐ 10 · R · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/DaniloCVieira/iMESc) · 个人维护
 
 **面向环境科学的交互式机器学习数据分析应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DaniloCVieira/iMESc 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

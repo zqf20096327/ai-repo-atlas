@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-Krea2-Portrait-V3
 
-⭐ 18 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/lingdongbudong/Comfyui-Krea2-Portrait-V3) · 个人维护 · 中文 README
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/lingdongbudong/Comfyui-Krea2-Portrait-V3) · 个人维护 · 中文 README
 
 **ComfyUI 摄影人物中文提示词随机生成节点，模板填空、纯本地**
 
@@ -11,7 +11,7 @@ ComfyUI 自定义节点，为 Krea2 文生图工作流生成中文摄影人物�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ ComfyUI 自定义节点，为 Krea2 文生图工作流生成中文摄影人物�
 ```mermaid
 xychart-beta
     title "lingdongbudong/Comfyui-Krea2-Portrait-V3 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-26"]
     y-axis "stars" 10 --> 19
     line [11, 12, 13, 14, 11, 15, 16, 17, 18, 18]
 ```
 
-2026-10-23 11 → 2026-11-25 18（+7）
+2026-10-24 11 → 2026-11-26 18（+7）
 
 
 ---

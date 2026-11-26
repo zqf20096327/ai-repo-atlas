@@ -1,6 +1,6 @@
 # ironsparrows/swift-language-models
 
-⭐ 24 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ironsparrows/swift-language-models) · [官网](https://swiftpackageindex.com/ironsparrows/swift-language-models) · 个人维护
+⭐ 24 · Swift · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ironsparrows/swift-language-models) · [官网](https://swiftpackageindex.com/ironsparrows/swift-language-models) · 个人维护
 
 **统一 Swift API：把多家 LLM 接入 Apple Foundation Models 会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ironsparrows/swift-language-models 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-11-08 24 → 2026-11-25 24（+0）
+2026-11-08 24 → 2026-11-26 24（+0）
 
 
 ---

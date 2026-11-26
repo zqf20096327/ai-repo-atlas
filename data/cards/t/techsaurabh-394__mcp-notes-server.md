@@ -45,12 +45,12 @@ TypeScript 编写的 Model Context Protocol 服务器，通过 stdio JSON-RPC �
 ```mermaid
 xychart-beta
     title "techsaurabh-394/mcp-notes-server 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 3（+0）
 
 
 ---

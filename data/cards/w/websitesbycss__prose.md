@@ -1,6 +1,6 @@
 # websitesbycss/prose
 
-⭐ 12 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/websitesbycss/prose) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-10-13 · [GitHub](https://github.com/websitesbycss/prose) · 个人维护
 
 **Windows 离线办公套件：文档/表格/白板/幻灯片加本地 Ollama AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "websitesbycss/prose 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

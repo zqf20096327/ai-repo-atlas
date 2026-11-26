@@ -1,6 +1,6 @@
 # kodolaHQ/Ressac
 
-⭐ 4 · TypeScript · MPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/kodolaHQ/Ressac) · [官网](https://getressac.app) · 组织维护
+⭐ 4 · TypeScript · MPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kodolaHQ/Ressac) · [官网](https://getressac.app) · 组织维护
 
 **基于 Firefox 的 macOS 浏览器，可开启浏览代理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kodolaHQ/Ressac 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-15 3 → 2026-11-25 4（+1）
+2026-11-15 3 → 2026-11-26 4（+1）
 
 
 ---

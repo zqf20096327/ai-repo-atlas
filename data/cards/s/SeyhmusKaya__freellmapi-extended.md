@@ -1,6 +1,6 @@
 # SeyhmusKaya/freellmapi-extended
 
-⭐ 12 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/SeyhmusKaya/freellmapi-extended) · [官网](https://github.com/SeyhmusKaya/freellmapi-extended/pkgs/container/freellmapi-extended) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/SeyhmusKaya/freellmapi-extended) · [官网](https://github.com/SeyhmusKaya/freellmapi-extended/pkgs/container/freellmapi-extended) · 个人维护
 
 **自托管 OpenAI 兼容 LLM 网关：聚合 15+ 免费供应商自动故障转移**
 
@@ -46,12 +46,12 @@ Node.js/TypeScript 编写的自托管 LLM API 网关与聚合器，暴露单一 
 ```mermaid
 xychart-beta
     title "SeyhmusKaya/freellmapi-extended 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-02", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-30", "2026-11-02", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 14]
 ```
 
-2026-10-30 10 → 2026-11-25 12（+2）
+2026-10-30 10 → 2026-11-26 14（+4）
 
 
 ---

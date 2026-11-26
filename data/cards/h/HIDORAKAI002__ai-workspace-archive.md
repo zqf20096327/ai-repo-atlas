@@ -1,6 +1,6 @@
 # HIDORAKAI002/ai-workspace-archive
 
-⭐ 39 · 推送 2026-11-23 · [GitHub](https://github.com/HIDORAKAI002/ai-workspace-archive) · 个人维护
+⭐ 39 · 推送 2026-11-25 · [GitHub](https://github.com/HIDORAKAI002/ai-workspace-archive) · 个人维护
 
 **本地离线 AI 工具归档仓库：聚合技能、MCP、规则与提示词**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "HIDORAKAI002/ai-workspace-archive 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 36 --> 40
     line [37, 38, 37, 38, 39, 39]
 ```
 
-2026-10-23 37 → 2026-11-25 39（+2）
+2026-10-24 37 → 2026-11-26 39（+2）
 
 
 ---

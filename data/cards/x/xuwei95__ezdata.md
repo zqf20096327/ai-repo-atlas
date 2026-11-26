@@ -1,6 +1,6 @@
 # xuwei95/ezdata
 
-⭐ 294 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/xuwei95/ezdata) · [官网](http://www.ezdata.cloud) · 个人维护 · 中文 README
+⭐ 295 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/xuwei95/ezdata) · [官网](http://www.ezdata.cloud) · 个人维护 · 中文 README
 
 **AI 原生数据平台：数据集成调度 + 每源 RAG 知识库 + Agent 查询分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xuwei95/ezdata 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 293 --> 296
-    line [294, 295, 294, 295, 294, 294]
+    line [294, 295, 294, 295, 294, 295]
 ```
 
-2026-10-23 294 → 2026-11-25 294（+0）
+2026-10-24 294 → 2026-11-26 295（+1）
 
 
 ---

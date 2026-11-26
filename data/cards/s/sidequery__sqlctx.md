@@ -1,6 +1,6 @@
 # sidequery/sqlctx
 
-⭐ 143 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/sidequery/sqlctx) · [官网](https://sidemantic.com) · 组织维护
+⭐ 143 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/sidequery/sqlctx) · [官网](https://sidemantic.com) · 组织维护
 
 **开源语义层运行时：一次定义指标，多端一致查询**
 
@@ -41,6 +41,18 @@ sqlctx 定位为语义运行时，将指标定义一次后供 SQL、CLI、Python
 > L3: sqlctx is an open-source semantic runtime. Define governed metrics once—or import the semantic models you already ha
 > L8: - **Consume metrics anywhere:** semantic SQL, CLI, Python, HTTP/Arrow, PostgreSQL wire protocol, MCP, notebooks, Typ
 > L38: uvx --from "sqlctx[api,mcp] @ git+https://github.com/sidequery/sqlctx" sqlctx serve   # web UI + HTTP API + MCP on 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sidequery/sqlctx 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 142 --> 144
+    line [143, 143]
+```
+
+2026-11-25 143 → 2026-11-26 143（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hany202507/finance-ai-skills
 
-⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hany202507/finance-ai-skills) · 个人维护
+⭐ 9 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hany202507/finance-ai-skills) · 个人维护
 
 **韩国会计·税务·审计从业者用的 Claude Code 技能集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "hany202507/finance-ai-skills 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 3 --> 9
-    line [4, 5, 6, 7, 8]
+    title "hany202507/finance-ai-skills 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 10
+    line [4, 5, 6, 7, 8, 9]
 ```
 
-2026-11-08 4 → 2026-11-25 8（+4）
+2026-11-08 4 → 2026-11-26 9（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Thanathip55/AI-LiveStream-Series-Slides-Hub
 
-⭐ 56 · HTML · 推送 2026-11-24 · [GitHub](https://github.com/Thanathip55/AI-LiveStream-Series-Slides-Hub) · 组织维护
+⭐ 56 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/Thanathip55/AI-LiveStream-Series-Slides-Hub) · 组织维护
 
 **Microsoft AI LiveStream 系列课程的社区伴学资源库（幻灯片/转录/实验）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Thanathip55/AI-LiveStream-Series-Slides-Hub 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-23 56 → 2026-11-25 56（+0）
+2026-10-24 56 → 2026-11-26 56（+0）
 
 
 ---

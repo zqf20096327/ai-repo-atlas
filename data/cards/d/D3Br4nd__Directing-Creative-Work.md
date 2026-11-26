@@ -1,6 +1,6 @@
 # D3Br4nd/Directing-Creative-Work
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/D3Br4nd/Directing-Creative-Work) · [官网](https://www.debrandstudio.it) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/D3Br4nd/Directing-Creative-Work) · [官网](https://www.debrandstudio.it) · 个人维护
 
 **让 AI agent 在创意文案中主动选择创作方向的技能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "D3Br4nd/Directing-Creative-Work 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-22 4 → 2026-11-25 4（+0）
+2026-11-22 4 → 2026-11-26 5（+1）
 
 
 ---

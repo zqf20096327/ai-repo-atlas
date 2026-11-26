@@ -1,6 +1,6 @@
 # pmndrs/prai
 
-⭐ 86 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/pmndrs/prai) · [官网](https://pmndrs.github.io/prai/) · 组织维护
+⭐ 87 · TypeScript · MIT · 推送 2026-10-02 · [GitHub](https://github.com/pmndrs/prai) · [官网](https://pmndrs.github.io/prai/) · 组织维护
 
 **用 TypeScript 代码构建分步 LLM 指令的 JS 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pmndrs/prai 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 84 --> 87
-    line [85, 86, 85, 86, 86]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 84 --> 88
+    line [85, 86, 85, 86, 87]
 ```
 
-2026-10-23 85 → 2026-11-25 86（+1）
+2026-10-24 85 → 2026-11-26 87（+2）
 
 
 ---

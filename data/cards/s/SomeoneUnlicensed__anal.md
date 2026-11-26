@@ -41,6 +41,18 @@ ANAL 是一种紧凑的序列化格式，用于 agent 与模型之间传输的�
 > L9: format for data flowing between agents and models. It needs no model
 > L96: Install the ANAL skill so coding agents know to compress large structured data:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SomeoneUnlicensed/anal 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
+```
+
+2026-11-25 15 → 2026-11-26 15（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `008b3ed0a3e9` · [字段定义](../../DATASET.md)*

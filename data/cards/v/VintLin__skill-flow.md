@@ -1,6 +1,6 @@
 # VintLin/skill-flow
 
-⭐ 267 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/VintLin/skill-flow) · 个人维护
+⭐ 267 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/VintLin/skill-flow) · 个人维护
 
 **跨编码 Agent 的技能安装与管理工具（CLI + macOS 桌面端）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VintLin/skill-flow 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-26"]
     y-axis "stars" 262 --> 268
     line [264, 263, 264, 265, 266, 267, 267]
 ```
 
-2026-10-23 264 → 2026-11-25 267（+3）
+2026-10-24 264 → 2026-11-26 267（+3）
 
 
 ---

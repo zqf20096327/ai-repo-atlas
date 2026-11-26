@@ -1,6 +1,6 @@
 # fidenit/aperit
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/fidenit/aperit) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **无聊天窗口的 AI 工作台：对话生成并编辑卡片看板**
 
@@ -11,7 +11,7 @@ APERIT 是 Windows/macOS 桌面应用，以 PATET 协议驱动：AI 逐行写出
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

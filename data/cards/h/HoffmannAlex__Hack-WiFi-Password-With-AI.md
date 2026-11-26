@@ -1,6 +1,6 @@
 # HoffmannAlex/Hack-WiFi-Password-With-AI
 
-⭐ 11 · Python · 推送 2026-11-15 · [GitHub](https://github.com/HoffmannAlex/Hack-WiFi-Password-With-AI) · [官网](https://www.passwordrevelator.net/en/passwifi) · 个人维护
+⭐ 12 · Python · 推送 2026-11-15 · [GitHub](https://github.com/HoffmannAlex/Hack-WiFi-Password-With-AI) · [官网](https://www.passwordrevelator.net/en/passwifi) · 个人维护
 
 **AI 生成候选密码的 WiFi 握手包破解工具**
 
@@ -46,12 +46,12 @@ Python 编写的 WiFi 密码破解工具，流程为捕获 WPA 四次握手（�
 ```mermaid
 xychart-beta
     title "HoffmannAlex/Hack-WiFi-Password-With-AI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

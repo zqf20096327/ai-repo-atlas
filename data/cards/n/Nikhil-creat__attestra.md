@@ -1,6 +1,6 @@
 # Nikhil-creat/attestra
 
-⭐ 4 · HTML · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Nikhil-creat/attestra) · [官网](https://nikhil-creat.github.io/attestra/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为客户安全问卷起草带引用答案的 AI agent 应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

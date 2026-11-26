@@ -1,6 +1,6 @@
 # treygrainger/ai-powered-search
 
-⭐ 423 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/treygrainger/ai-powered-search) · [官网](https://aipoweredsearch.com) · 个人维护
+⭐ 423 · Jupyter Notebook · 推送 2026-11-24 · [GitHub](https://github.com/treygrainger/ai-powered-search) · [官网](https://aipoweredsearch.com) · 个人维护
 
 **《AI-Powered Search》图书配套的可运行代码示例集**
 
@@ -45,12 +45,12 @@ Manning 出版书籍《AI-Powered Search》(Trey Grainger、Doug Turnbull、Max 
 ```mermaid
 xychart-beta
     title "treygrainger/ai-powered-search 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 416 --> 424
     line [417, 423, 423]
 ```
 
-2026-10-23 417 → 2026-11-25 423（+6）
+2026-10-24 417 → 2026-11-26 423（+6）
 
 
 ---

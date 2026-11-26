@@ -1,6 +1,6 @@
 # 3294798852/magpie-doubao-work
 
-⭐ 4 · JavaScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/3294798852/magpie-doubao-work) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · NOASSERTION · 推送 2026-11-14 · [GitHub](https://github.com/3294798852/magpie-doubao-work) · 个人维护 · 中文 README
 
 **为 Magpie 提供豆包工作供应商接入的插件**
 
@@ -45,12 +45,12 @@ magpie-doubao-work 是 Magpie 的供应商插件，提供 doubaowork 供应商�
 ```mermaid
 xychart-beta
     title "3294798852/magpie-doubao-work 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-13 3 → 2026-11-25 4（+1）
+2026-11-13 3 → 2026-11-26 5（+2）
 
 
 ---

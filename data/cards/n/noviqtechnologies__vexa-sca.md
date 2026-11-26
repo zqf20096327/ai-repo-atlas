@@ -1,6 +1,6 @@
 # noviqtechnologies/vexa-sca
 
-⭐ 6 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/noviqtechnologies/vexa-sca) · 组织维护
+⭐ 6 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/noviqtechnologies/vexa-sca) · 组织维护
 
 **给 DevSecOps 团队的软件成分分析与漏洞扫描引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "noviqtechnologies/vexa-sca 星数(近 3 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-25"]
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-26"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-10-30 5 → 2026-11-25 6（+1）
+2026-10-30 5 → 2026-11-26 6（+1）
 
 
 ---

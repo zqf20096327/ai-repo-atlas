@@ -1,6 +1,6 @@
 # uiuctml/Localize-and-Stitch
 
-⭐ 33 · Python · MIT · 推送 2026-02-18 · [GitHub](https://github.com/uiuctml/Localize-and-Stitch) · 组织维护
+⭐ 34 · Python · MIT · 推送 2026-02-18 · [GitHub](https://github.com/uiuctml/Localize-and-Stitch) · 组织维护
 
 **稀疏任务算术的模型合并算法官方实现（TMLR 论文）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "uiuctml/Localize-and-Stitch 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-10-23 33 → 2026-11-25 33（+0）
+2026-10-24 33 → 2026-11-26 34（+1）
 
 
 ---

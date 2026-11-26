@@ -46,12 +46,12 @@ MovingPandas 团队维护的 Python 机器学习框架，面向移动/轨迹数�
 ```mermaid
 xychart-beta
     title "movingpandas/mobiml 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # iamsouravmourya-jpg/ShadRox
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/iamsouravmourya-jpg/ShadRox) · [官网](https://www.shadrox.cyou) · 个人维护
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/iamsouravmourya-jpg/ShadRox) · [官网](https://www.shadrox.cyou) · 个人维护
 
 **面向开发者的 Windows 本地 AI 编码工作区：编辑器+BYOK聊天+Agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iamsouravmourya-jpg/ShadRox 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 3（+0）
 
 
 ---

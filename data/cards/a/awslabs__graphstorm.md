@@ -1,6 +1,6 @@
 # awslabs/graphstorm
 
-⭐ 459 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/awslabs/graphstorm) · 组织维护
+⭐ 460 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/awslabs/graphstorm) · 组织维护
 
 **面向 ML 科学家的十亿级图机器学习训练框架**
 
@@ -46,12 +46,12 @@ AWS 开源的企业级图机器学习（GML）框架，用于在数十亿节点/
 ```mermaid
 xychart-beta
     title "awslabs/graphstorm 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 454 --> 460
-    line [455, 456, 458, 459, 459]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-20", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 454 --> 461
+    line [455, 456, 458, 459, 460]
 ```
 
-2026-10-23 455 → 2026-11-25 459（+4）
+2026-10-24 455 → 2026-11-26 460（+5）
 
 
 ---

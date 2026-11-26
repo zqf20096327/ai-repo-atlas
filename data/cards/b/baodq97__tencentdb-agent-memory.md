@@ -1,6 +1,6 @@
 # baodq97/tencentdb-agent-memory
 
-⭐ 13 · JavaScript · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/baodq97/tencentdb-agent-memory) · 个人维护
+⭐ 12 · JavaScript · NOASSERTION · 推送 2026-09-07 · [GitHub](https://github.com/baodq97/tencentdb-agent-memory) · 个人维护
 
 **Claude Code 四层长期记忆插件，本地 FTS5+向量混合召回**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "baodq97/tencentdb-agent-memory 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
     y-axis "stars" 10 --> 14
-    line [11, 12, 11, 12, 13, 13]
+    line [11, 12, 11, 12, 13, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 13（+2）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

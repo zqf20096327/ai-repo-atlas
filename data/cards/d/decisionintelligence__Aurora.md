@@ -1,6 +1,6 @@
 # decisionintelligence/Aurora
 
-⭐ 80 · Python · 推送 2026-04-29 · [GitHub](https://github.com/decisionintelligence/Aurora) · [官网](https://arxiv.org/pdf/2509.22295) · 组织维护
+⭐ 81 · Python · 推送 2026-04-29 · [GitHub](https://github.com/decisionintelligence/Aurora) · [官网](https://arxiv.org/pdf/2509.22295) · 组织维护
 
 **多模态时间序列预测基础模型：生成式概率预测**
 
@@ -46,12 +46,12 @@ ICLR 2026 论文 Aurora 的官方代码仓库，提供预训练多模态时间�
 ```mermaid
 xychart-beta
     title "decisionintelligence/Aurora 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 79 --> 82
-    line [81, 80, 81, 80, 80]
+    line [81, 80, 81, 80, 81]
 ```
 
-2026-10-23 81 → 2026-11-25 80（-1）
+2026-10-24 81 → 2026-11-26 81（+0）
 
 
 ---

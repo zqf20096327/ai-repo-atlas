@@ -1,6 +1,6 @@
 # codybrom/tsfm
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/codybrom/tsfm) · [官网](http://tsfm.dev) · 个人维护
+⭐ 23 · TypeScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/codybrom/tsfm) · [官网](http://tsfm.dev) · 个人维护
 
 **Apple 端侧 Foundation Models 的 TypeScript/Node.js SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codybrom/tsfm 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
     y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    line [23, 24, 23]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 23（+0）
 
 
 ---

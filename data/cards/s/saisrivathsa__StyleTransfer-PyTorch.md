@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "saisrivathsa/StyleTransfer-PyTorch 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-25"]
+    x-axis ["2026-10-31", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-31 18 → 2026-11-25 18（+0）
+2026-10-31 18 → 2026-11-26 18（+0）
 
 
 ---

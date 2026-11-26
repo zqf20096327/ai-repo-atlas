@@ -1,6 +1,6 @@
 # dreadnode/AIRTBench-Code
 
-⭐ 117 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/dreadnode/AIRTBench-Code) · [官网](https://arxiv.org/abs/2506.14682) · 组织维护
+⭐ 118 · Jupyter Notebook · Apache-2.0 · 推送 2026-10-15 · [GitHub](https://github.com/dreadnode/AIRTBench-Code) · [官网](https://arxiv.org/abs/2506.14682) · 组织维护
 
 **评测 LLM 自主红队攻防能力的 agent 与基准工具**
 
@@ -44,13 +44,13 @@ AIRTBench 代码仓库：实现基于 rigging 的自主 AI 红队 agent，通过
 
 ```mermaid
 xychart-beta
-    title "dreadnode/AIRTBench-Code 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 110 --> 118
-    line [111, 114, 115, 116, 117]
+    title "dreadnode/AIRTBench-Code 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 110 --> 119
+    line [111, 114, 115, 116, 117, 118]
 ```
 
-2026-10-23 111 → 2026-11-25 117（+6）
+2026-10-24 111 → 2026-11-26 118（+7）
 
 
 ---

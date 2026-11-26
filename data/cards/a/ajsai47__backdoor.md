@@ -1,6 +1,6 @@
 # ajsai47/backdoor
 
-⭐ 303 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/ajsai47/backdoor) · 个人维护
+⭐ 302 · Python · MIT · 推送 2026-05-22 · [GitHub](https://github.com/ajsai47/backdoor) · 个人维护
 
 **让 Claude Code 接入任意 OpenAI 兼容模型提供方的代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ajsai47/backdoor 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-20", "2026-11-26"]
     y-axis "stars" 300 --> 304
-    line [301, 302, 303, 303]
+    line [301, 302, 303, 302]
 ```
 
-2026-10-23 301 → 2026-11-25 303（+2）
+2026-10-24 301 → 2026-11-26 302（+1）
 
 
 ---

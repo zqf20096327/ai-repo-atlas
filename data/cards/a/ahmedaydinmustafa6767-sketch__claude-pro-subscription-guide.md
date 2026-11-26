@@ -1,6 +1,6 @@
 # ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide
 
-⭐ 92 · 推送 2026-11-02 · [GitHub](https://github.com/ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 117 · 推送 2026-11-02 · [GitHub](https://github.com/ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **教用户用 CoreGold 虚拟卡订阅 Claude Pro 的推广指南**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 26 --> 98
-    line [32, 53, 66, 70, 78, 77, 74, 75, 92]
+    title "ahmedaydinmustafa6767-sketch/claude-pro-subscription-guide 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 125
+    line [32, 53, 66, 70, 78, 77, 74, 75, 92, 117]
 ```
 
-2026-11-08 32 → 2026-11-25 92（+60）
+2026-11-08 32 → 2026-11-26 117（+85）
 
 
 ---

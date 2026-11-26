@@ -1,6 +1,6 @@
 # xipkit/vibescript
 
-⭐ 16 · Rust · MIT · 推送 2026-11-15 · [GitHub](https://github.com/xipkit/vibescript) · [官网](https://vibescript-lang.org) · 个人维护
+⭐ 17 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xipkit/vibescript) · [官网](https://vibescript-lang.org) · 个人维护
 
 **面向 AI 编写的可嵌入静态类型脚本语言（Rust 实现）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xipkit/vibescript 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Nocetic/flowly
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Nocetic/flowly) · [官网](https://www.useflowlyapp.com) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Nocetic/flowly) · [官网](https://www.useflowlyapp.com) · 组织维护
 
 **可自托管的开源个人 AI agent：自带记忆、技能与多渠道接入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Nocetic/flowly 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 17, 18, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

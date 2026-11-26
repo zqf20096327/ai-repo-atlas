@@ -1,6 +1,6 @@
 # AnimaLogica/ex_datalog
 
-⭐ 28 · Elixir · MIT · 推送 2026-06-22 · [GitHub](https://github.com/AnimaLogica/ex_datalog) · 个人维护
+⭐ 29 · Elixir · MIT · 推送 2026-06-22 · [GitHub](https://github.com/AnimaLogica/ex_datalog) · 个人维护
 
 **纯 Elixir 实现的 Datalog 规则推理引擎，供开发者构建声明式知识推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AnimaLogica/ex_datalog 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 29（+1）
 
 
 ---

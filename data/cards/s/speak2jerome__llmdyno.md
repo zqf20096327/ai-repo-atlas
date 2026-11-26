@@ -41,6 +41,18 @@ LLMDyno 是一个以编码代理身份运行本地与云端 LLM 的基准测试�
 > L19: multi-file coding tasks in offline Docker sandboxes. Hidden tests grade the result, LLM judges can review the code
 > L92: **Plans**: profiles × harnesses × benchmarks × iterations. Preflight checks compatibility, memory and budget; local
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "speak2jerome/llmdyno 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `15cf7c1c6601` · [字段定义](../../DATASET.md)*

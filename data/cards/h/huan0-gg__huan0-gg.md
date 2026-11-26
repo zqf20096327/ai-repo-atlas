@@ -39,6 +39,18 @@ GitHub 个人主页 README，介绍作者顾欢的身份与学习状态：以机
 > L7: I'm 顾欢 (Gu Huan) — a student, and I'm early. I picked machine learning as the thing I want to understand deeply, and
 > L45:  <a href="https://huan0-gg.github.io/handfeel/">
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "huan0-gg/huan0-gg 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-25 6 → 2026-11-26 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `5a5c53c7c1e0` · [字段定义](../../DATASET.md)*

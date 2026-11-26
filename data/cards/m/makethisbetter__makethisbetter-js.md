@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "makethisbetter/makethisbetter-js 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    title "makethisbetter/makethisbetter-js 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 92 --> 98
-    line [93, 96, 97]
+    line [93, 96, 97, 97]
 ```
 
-2026-10-23 93 → 2026-11-25 97（+4）
+2026-10-24 93 → 2026-11-26 97（+4）
 
 
 ---

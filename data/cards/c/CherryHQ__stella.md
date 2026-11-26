@@ -1,6 +1,6 @@
 # CherryHQ/stella
 
-⭐ 55 · Go · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/CherryHQ/stella) · [官网](https://stella.cherryai.com) · 组织维护 · 中文 README
+⭐ 55 · Go · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/CherryHQ/stella) · [官网](https://stella.cherryai.com) · 组织维护 · 中文 README
 
 **面向团队的共享 AI 同事系统：多用户多 agent、记忆与工具沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CherryHQ/stella 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-20", "2026-11-26"]
     y-axis "stars" 52 --> 56
     line [53, 54, 55, 55]
 ```
 
-2026-10-23 53 → 2026-11-25 55（+2）
+2026-10-24 53 → 2026-11-26 55（+2）
 
 
 ---

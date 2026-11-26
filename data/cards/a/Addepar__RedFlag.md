@@ -45,13 +45,13 @@ Addepar 开发的代码安全审查工具：调用 LLM（默认经 AWS Bedrock �
 
 ```mermaid
 xychart-beta
-    title "Addepar/RedFlag 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "Addepar/RedFlag 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 162 --> 165
-    line [163, 164]
+    line [163, 164, 164]
 ```
 
-2026-10-23 163 → 2026-11-25 164（+1）
+2026-10-24 163 → 2026-11-26 164（+1）
 
 
 ---

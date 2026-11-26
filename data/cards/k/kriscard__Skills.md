@@ -1,6 +1,6 @@
 # kriscard/Skills
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-28 · [GitHub](https://github.com/kriscard/Skills) · 个人维护
+⭐ 16 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kriscard/Skills) · 个人维护
 
 **覆盖开发/写作/生产力/知识管理的 agent 技能合集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kriscard/Skills 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 13 --> 17
     line [14, 15, 14, 16, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 16（+2）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # libxsmm/libxsmm
 
-⭐ 983 · C · BSD-3-Clause · 推送 2026-11-13 · [GitHub](https://github.com/libxsmm/libxsmm) · [官网](https://libxsmm.readthedocs.io/) · 组织维护
+⭐ 984 · C · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/libxsmm/libxsmm) · [官网](https://libxsmm.readthedocs.io/) · 组织维护
 
 **小规模稠密/稀疏矩阵运算与深度学习原语的高性能库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "libxsmm/libxsmm 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 979 --> 985
-    line [980, 981, 983, 984, 983, 983]
+    title "libxsmm/libxsmm 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 980 --> 985
+    line [981, 983, 984, 983, 984]
 ```
 
-2026-10-23 980 → 2026-11-25 983（+3）
+2026-10-24 981 → 2026-11-26 984（+3）
 
 
 ---

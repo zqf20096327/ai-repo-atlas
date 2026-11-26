@@ -41,6 +41,18 @@ USENIX Security 2026 论文配套代码：微调大语言模型作为毒文生�
 > L28: Confundo provides a unified framework capable of supporting multiple adversarial objectives. We provide interactive
 > L148: > 💡 **Note on Computation Time & Hardware:** A full training run typically requires a GPU with at least 48GB VRAM 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HKU-TASR/Confundo 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `d246e8cfad54` · [字段定义](../../DATASET.md)*

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LucasMaPaiva/rag-laravel-docs 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    title "LucasMaPaiva/rag-laravel-docs 星数(近 3 点)"
+    x-axis ["2026-11-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 5 --> 8
-    line [6, 7]
+    line [6, 7, 7]
 ```
 
-2026-11-18 6 → 2026-11-25 7（+1）
+2026-11-18 6 → 2026-11-26 7（+1）
 
 
 ---

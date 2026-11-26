@@ -1,6 +1,6 @@
 # yogeshhk/TeachingDataScience
 
-⭐ 306 · Jupyter Notebook · MIT · 推送 2026-11-19 · [GitHub](https://github.com/yogeshhk/TeachingDataScience) · 个人维护
+⭐ 306 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yogeshhk/TeachingDataScience) · 个人维护
 
 **面向师生学者的免费开源 AI 与数据科学 LaTeX 课程讲义**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yogeshhk/TeachingDataScience 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
     y-axis "stars" 302 --> 308
     line [303, 305, 306, 303, 306, 307, 306, 306]
 ```
 
-2026-10-23 303 → 2026-11-25 306（+3）
+2026-10-24 303 → 2026-11-26 306（+3）
 
 
 ---

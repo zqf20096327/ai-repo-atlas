@@ -1,6 +1,6 @@
 # WinfredGe/EventTSF
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/WinfredGe/EventTSF) · [官网](https://arxiv.org/abs/2508.13434v2) · 组织维护
+⭐ 24 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/WinfredGe/EventTSF) · [官网](https://arxiv.org/abs/2508.13434v2) · 组织维护
 
 **事件感知的非平稳时间序列预测框架（IJCAI 2026 论文官方实现）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "WinfredGe/EventTSF 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 24（+2）
 
 
 ---

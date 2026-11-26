@@ -1,6 +1,6 @@
 # croma-labs/ventanilla
 
-⭐ 29 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/croma-labs/ventanilla) · [官网](https://gov.usecroma.com) · 组织维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/croma-labs/ventanilla) · [官网](https://gov.usecroma.com) · 组织维护
 
 **面向公众的哥伦比亚/萨尔瓦多政府服务问答站，答案仅引官方来源**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "croma-labs/ventanilla 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 29（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # LiZh132707/novel-workspace-mcp
 
-⭐ 16 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LiZh132707/novel-workspace-mcp) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-01 · [GitHub](https://github.com/LiZh132707/novel-workspace-mcp) · 个人维护 · 中文 README
 
 **面向长篇小说创作的本地 AI 写作工作台（Web + MCP + Skill）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LiZh132707/novel-workspace-mcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 17（+2）
 
 
 ---

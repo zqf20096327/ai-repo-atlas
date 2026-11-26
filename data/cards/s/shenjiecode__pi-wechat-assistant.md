@@ -1,6 +1,6 @@
 # shenjiecode/pi-wechat-assistant
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/shenjiecode/pi-wechat-assistant) · [官网](https://www.npmjs.com/package/pi-wechat-assistant) · 个人维护 · 中文 README
+⭐ 23 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/shenjiecode/pi-wechat-assistant) · [官网](https://www.npmjs.com/package/pi-wechat-assistant) · 个人维护 · 中文 README
 
 **微信桥接扩展：在微信中继续 pi 会话**
 
@@ -45,12 +45,12 @@ pi 的微信扩展：通过微信向运行中的 pi 会话发送任务、图片�
 ```mermaid
 xychart-beta
     title "shenjiecode/pi-wechat-assistant 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
     y-axis "stars" 19 --> 24
     line [20, 22, 23, 23]
 ```
 
-2026-10-23 20 → 2026-11-25 23（+3）
+2026-10-24 20 → 2026-11-26 23（+3）
 
 
 ---

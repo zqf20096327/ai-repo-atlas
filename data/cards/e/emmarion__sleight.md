@@ -1,6 +1,6 @@
 # emmarion/sleight
 
-⭐ 3 · Scheme · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/emmarion/sleight) · 个人维护
+⭐ 3 · Scheme · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/emmarion/sleight) · 个人维护
 
 **带依赖类型与终止检查的 s-expression 语言，为 LLM 写作而设计**
 
@@ -46,12 +46,12 @@ Sleight 是一种 s-expression 语法的静态类型编程语言：受限依赖�
 ```mermaid
 xychart-beta
     title "emmarion/sleight 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

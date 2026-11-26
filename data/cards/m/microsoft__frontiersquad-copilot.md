@@ -1,6 +1,6 @@
 # microsoft/frontiersquad-copilot
 
-⭐ 53 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/frontiersquad-copilot) · [官网](https://aka.ms/devsquad-copilot) · 组织维护
+⭐ 56 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/frontiersquad-copilot) · [官网](https://aka.ms/devsquad-copilot) · 组织维护
 
 **面向开发团队的 GitHub Copilot 敏捷交付框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/frontiersquad-copilot 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 51 --> 54
-    line [52, 53]
+    title "microsoft/frontiersquad-copilot 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 51 --> 57
+    line [52, 53, 56]
 ```
 
-2026-11-23 52 → 2026-11-25 53（+1）
+2026-11-23 52 → 2026-11-26 56（+4）
 
 
 ---

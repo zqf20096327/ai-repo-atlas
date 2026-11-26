@@ -1,6 +1,6 @@
 # mq-yuan/project-docs
 
-⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mq-yuan/project-docs) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mq-yuan/project-docs) · 个人维护 · 中文 README
 
 **为 coding agent 提供项目级记忆：以仓库文档承载项目事实并就地改写**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mq-yuan/project-docs 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 14 --> 18
-    line [15, 17]
+    title "mq-yuan/project-docs 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 19
+    line [15, 17, 18]
 ```
 
-2026-11-23 15 → 2026-11-25 17（+2）
+2026-11-23 15 → 2026-11-26 18（+3）
 
 
 ---

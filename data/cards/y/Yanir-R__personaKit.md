@@ -1,6 +1,6 @@
 # Yanir-R/personaKit
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Yanir-R/personaKit) · [官网](https://personakit.me) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Yanir-R/personaKit) · [官网](https://personakit.me) · 个人维护
 
 **AI 助手的本地记忆层：提取、存储并按许可复用对话记忆**
 
@@ -46,12 +46,12 @@ PersonaKit 读取用户与 AI 助手已有的对话会话文件，用用户已�
 ```mermaid
 xychart-beta
     title "Yanir-R/personaKit 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-25 3（+0）
+2026-11-13 3 → 2026-11-26 3（+0）
 
 
 ---

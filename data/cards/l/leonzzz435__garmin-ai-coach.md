@@ -1,6 +1,6 @@
 # leonzzz435/garmin-ai-coach
 
-⭐ 158 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/leonzzz435/garmin-ai-coach) · 个人维护
+⭐ 157 · Python · MIT · 推送 2026-01-31 · [GitHub](https://github.com/leonzzz435/garmin-ai-coach) · 个人维护
 
 **把 Garmin Connect 数据变成 AI 训练分析与赛季计划报告的 CLI 工具**
 
@@ -46,12 +46,12 @@ Python 编写的 CLI 工具，读取 Garmin Connect 训练数据，经 LangGraph
 ```mermaid
 xychart-beta
     title "leonzzz435/garmin-ai-coach 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 152 --> 159
-    line [153, 154, 153, 154, 153, 156, 158, 158]
+    line [153, 154, 153, 154, 153, 156, 158, 157]
 ```
 
-2026-10-23 153 → 2026-11-25 158（+5）
+2026-10-24 153 → 2026-11-26 157（+4）
 
 
 ---

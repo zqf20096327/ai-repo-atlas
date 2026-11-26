@@ -1,6 +1,6 @@
 # universokobana/kobana-cli
 
-⭐ 27 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/universokobana/kobana-cli) · [官网](https://www.kobana.com.br/ia/cli) · 组织维护
+⭐ 29 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/universokobana/kobana-cli) · [官网](https://www.kobana.com.br/ia/cli) · 组织维护
 
 **面向人类与 AI agent 的巴西多银行金融操作命令行工具**
 
@@ -46,13 +46,13 @@ Kobana 七个产品 API 的统一命令行客户端，单个二进制覆盖银�
 
 ```mermaid
 xychart-beta
-    title "universokobana/kobana-cli 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 15 --> 28
-    line [16, 27]
+    title "universokobana/kobana-cli 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 15 --> 30
+    line [16, 27, 29]
 ```
 
-2026-11-23 16 → 2026-11-25 27（+11）
+2026-11-23 16 → 2026-11-26 29（+13）
 
 
 ---

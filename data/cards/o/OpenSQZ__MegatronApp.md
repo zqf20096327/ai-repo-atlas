@@ -1,6 +1,6 @@
 # OpenSQZ/MegatronApp
 
-⭐ 100 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/OpenSQZ/MegatronApp) · 组织维护 · 中文 README
+⭐ 101 · Python · NOASSERTION · 推送 2026-05-20 · [GitHub](https://github.com/OpenSQZ/MegatronApp) · 组织维护 · 中文 README
 
 **面向 Megatron-LM 分布式训练的工具链：调优、慢节点检测、可视化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenSQZ/MegatronApp 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 98 --> 101
-    line [100, 99, 100, 100]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 98 --> 102
+    line [100, 99, 100, 101]
 ```
 
-2026-10-23 100 → 2026-11-25 100（+0）
+2026-10-24 100 → 2026-11-26 101（+1）
 
 
 ---

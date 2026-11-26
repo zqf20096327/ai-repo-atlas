@@ -1,6 +1,6 @@
 # 4liyev/Gemini-Config-Checker-
 
-⭐ 40 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/4liyev/Gemini-Config-Checker-) · 个人维护
+⭐ 23 · Go · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/4liyev/Gemini-Config-Checker-) · 个人维护
 
 **为需要访问 Google AI Studio/Gemini 的用户检测可用代理配置**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "4liyev/Gemini-Config-Checker- 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 38 --> 64
-    line [62, 57, 56, 52, 40]
+    title "4liyev/Gemini-Config-Checker- 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 20 --> 65
+    line [62, 57, 56, 52, 40, 23]
 ```
 
-2026-11-18 62 → 2026-11-25 40（-22）
+2026-11-18 62 → 2026-11-26 23（-39）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoonshotAI/CombiBench
 
-⭐ 57 · Lean · MIT · 推送 2026-06-15 · [GitHub](https://github.com/MoonshotAI/CombiBench) · 组织维护
+⭐ 58 · Lean · MIT · 推送 2026-06-15 · [GitHub](https://github.com/MoonshotAI/CombiBench) · 组织维护
 
 **组合数学自动定理证明基准：100 道 Lean 4 形式化题**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MoonshotAI/CombiBench 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
-    y-axis "stars" 54 --> 58
-    line [55, 56, 57]
+    title "MoonshotAI/CombiBench 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 54 --> 59
+    line [55, 56, 57, 58]
 ```
 
-2026-10-23 55 → 2026-11-25 57（+2）
+2026-10-24 55 → 2026-11-26 58（+3）
 
 
 ---

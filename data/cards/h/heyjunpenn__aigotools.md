@@ -1,6 +1,6 @@
 # heyjunpenn/aigotools
 
-⭐ 659 · Astro · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/heyjunpenn/aigotools) · [官网](https://www.aigotools.com) · 个人维护 · 中文 README
+⭐ 660 · Astro · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/heyjunpenn/aigotools) · [官网](https://www.aigotools.com) · 个人维护 · 中文 README
 
 **面向建站者的 AI 工具目录静态站：自带 221 条工具档案与 38 篇场景指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heyjunpenn/aigotools 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
-    y-axis "stars" 658 --> 660
-    line [659, 659]
+    x-axis ["2026-11-20", "2026-11-26"]
+    y-axis "stars" 658 --> 661
+    line [659, 660]
 ```
 
-2026-11-20 659 → 2026-11-25 659（+0）
+2026-11-20 659 → 2026-11-26 660（+1）
 
 
 ---

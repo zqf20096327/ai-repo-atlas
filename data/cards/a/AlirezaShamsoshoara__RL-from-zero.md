@@ -1,6 +1,6 @@
 # AlirezaShamsoshoara/RL-from-zero
 
-⭐ 12 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/AlirezaShamsoshoara/RL-from-zero) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/AlirezaShamsoshoara/RL-from-zero) · 个人维护
 
 **从零实现 13 种强化学习算法的 PyTorch 学习项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AlirezaShamsoshoara/RL-from-zero 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "AlirezaShamsoshoara/RL-from-zero 星数(近 4 点)"
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-21 10 → 2026-11-25 12（+2）
+2026-11-21 10 → 2026-11-26 13（+3）
 
 
 ---

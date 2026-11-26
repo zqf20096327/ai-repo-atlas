@@ -46,12 +46,12 @@ Runiq AI 是面向 .NET 的代码优先 agent 运行时：以 C# 定义 agent �
 ```mermaid
 xychart-beta
     title "runiq-net/Runiq.AI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

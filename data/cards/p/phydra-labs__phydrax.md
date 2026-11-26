@@ -1,6 +1,6 @@
 # phydra-labs/phydrax
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/phydra-labs/phydrax) · [官网](https://phydra-labs.github.io/phydrax) · 组织维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/phydra-labs/phydrax) · [官网](https://phydra-labs.github.io/phydrax) · 组织维护
 
 **基于 JAX+Equinox 的 PDE 科学机器学习工具包，供科研人员构建物理约束模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "phydra-labs/phydrax 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 17（+0）
 
 
 ---

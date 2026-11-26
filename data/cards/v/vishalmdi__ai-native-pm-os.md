@@ -1,6 +1,6 @@
 # vishalmdi/ai-native-pm-os
 
-⭐ 111 · Shell · 推送 2026-04-27 · [GitHub](https://github.com/vishalmdi/ai-native-pm-os) · 个人维护
+⭐ 112 · Shell · 推送 2026-04-27 · [GitHub](https://github.com/vishalmdi/ai-native-pm-os) · 个人维护
 
 **教产品经理用 Claude Code 搭建个人 PM 工作系统的课程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vishalmdi/ai-native-pm-os 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 108 --> 112
-    line [109, 110, 109, 111, 111]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 108 --> 113
+    line [109, 110, 109, 111, 112]
 ```
 
-2026-10-23 109 → 2026-11-25 111（+2）
+2026-10-24 109 → 2026-11-26 112（+3）
 
 
 ---

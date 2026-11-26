@@ -1,6 +1,6 @@
 # aruru-project/alu_gtnh_aiplayer
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aruru-project/alu_gtnh_aiplayer) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aruru-project/alu_gtnh_aiplayer) · 个人维护 · 中文 README
 
 **GTNH 服务器里的 AI 玩家：LLM 驱动的 Forge mod + Node 大脑**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aruru-project/alu_gtnh_aiplayer 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7, 7]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 3 --> 10
+    line [4, 5, 6, 7, 9]
 ```
 
-2026-11-14 4 → 2026-11-25 7（+3）
+2026-11-14 4 → 2026-11-26 9（+5）
 
 
 ---

@@ -43,13 +43,13 @@ Google DeepMind 代码库所有的实时可视化工具：通过 Go、C++、Pyth
 
 ```mermaid
 xychart-beta
-    title "google-deepmind/multiscope 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    title "google-deepmind/multiscope 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 36 --> 40
-    line [37, 38, 39]
+    line [37, 38, 39, 39]
 ```
 
-2026-10-23 37 → 2026-11-25 39（+2）
+2026-10-24 37 → 2026-11-26 39（+2）
 
 
 ---

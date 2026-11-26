@@ -1,6 +1,6 @@
 # Interactive-Active-AI/NextTransformer
 
-⭐ 493 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Interactive-Active-AI/NextTransformer) · [官网](https://interactive-active-ai.github.io/NextTransformer/) · 组织维护 · 中文 README
+⭐ 498 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Interactive-Active-AI/NextTransformer) · [官网](https://interactive-active-ai.github.io/NextTransformer/) · 组织维护 · 中文 README
 
 **面向研究者的下一代 Transformer 架构训练评测框架与自动化研究平台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Interactive-Active-AI/NextTransformer 星数(近 17 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 0 --> 540
-    line [16, 87, 393, 402, 404, 408, 411, 412, 421, 457, 476, 481, 483, 487, 489, 492, 493]
+    title "Interactive-Active-AI/NextTransformer 星数(近 18 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 546
+    line [16, 87, 393, 402, 404, 408, 411, 412, 421, 457, 476, 481, 483, 487, 489, 492, 493, 498]
 ```
 
-2026-11-01 16 → 2026-11-25 493（+477）
+2026-11-01 16 → 2026-11-26 498（+482）
 
 
 ---

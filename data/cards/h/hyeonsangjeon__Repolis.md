@@ -1,6 +1,6 @@
 # hyeonsangjeon/Repolis
 
-⭐ 47 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hyeonsangjeon/Repolis) · [官网](https://hyeonsangjeon.github.io/Repolis/) · 个人维护
+⭐ 47 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hyeonsangjeon/Repolis) · [官网](https://hyeonsangjeon.github.io/Repolis/) · 个人维护
 
 **把公开 GitHub 仓库变成可步行的 3D 城镇的可视化作品**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hyeonsangjeon/Repolis 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-23 47 → 2026-11-25 47（+0）
+2026-10-24 47 → 2026-11-26 47（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zjy1346/OpenThesis
 
-⭐ 64 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/zjy1346/OpenThesis) · [官网](https://openthesis.cc.cd/) · 个人维护 · 中文 README
+⭐ 66 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/zjy1346/OpenThesis) · [官网](https://openthesis.cc.cd/) · 个人维护 · 中文 README
 
 **面向长期投资者的开源 Windows 公司研究桌面应用**
 
@@ -45,12 +45,12 @@ Windows x64 桌面应用，为长期投资者做公司基本面研究：先从 S
 ```mermaid
 xychart-beta
     title "zjy1346/OpenThesis 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 61 --> 65
-    line [62, 63, 62, 63, 62, 64, 64]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 61 --> 67
+    line [62, 63, 62, 63, 62, 64, 66]
 ```
 
-2026-10-23 62 → 2026-11-25 64（+2）
+2026-10-24 62 → 2026-11-26 66（+4）
 
 
 ---

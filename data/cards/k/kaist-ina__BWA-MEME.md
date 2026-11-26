@@ -1,6 +1,6 @@
 # kaist-ina/BWA-MEME
 
-⭐ 138 · C++ · MIT · 推送 2026-06-03 · [GitHub](https://github.com/kaist-ina/BWA-MEME) · [官网](https://ina.kaist.ac.kr/projects/bwa-meme/) · 组织维护
+⭐ 139 · C++ · MIT · 推送 2026-06-03 · [GitHub](https://github.com/kaist-ina/BWA-MEME) · [官网](https://ina.kaist.ac.kr/projects/bwa-meme/) · 组织维护
 
 **用学习索引加速的 BWA-MEM2 等价 DNA 序列比对工具**
 
@@ -45,12 +45,12 @@ KAIST 团队开发的短读段序列比对工具：以学习索引（P-RMI）替
 ```mermaid
 xychart-beta
     title "kaist-ina/BWA-MEME 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 137 --> 139
-    line [138, 138]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 137 --> 140
+    line [138, 139]
 ```
 
-2026-10-23 138 → 2026-11-25 138（+0）
+2026-10-24 138 → 2026-11-26 139（+1）
 
 
 ---

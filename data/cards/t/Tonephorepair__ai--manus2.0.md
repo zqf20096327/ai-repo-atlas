@@ -1,6 +1,6 @@
 # Tonephorepair/ai--manus2.0
 
-⭐ 362 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Tonephorepair/ai--manus2.0) · 个人维护
+⭐ 356 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Tonephorepair/ai--manus2.0) · 个人维护
 
 **面向个人用户的自主 AI 代理：自主执行代码并控制浏览器**
 
@@ -43,13 +43,13 @@ Manus 是一个自主 AI 代理系统，代表用户编写并执行脚本、控�
 
 ```mermaid
 xychart-beta
-    title "Tonephorepair/ai--manus2.0 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 361 --> 371
-    line [370, 369, 368, 365, 362]
+    title "Tonephorepair/ai--manus2.0 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 355 --> 371
+    line [370, 369, 368, 365, 362, 356]
 ```
 
-2026-11-15 370 → 2026-11-25 362（-8）
+2026-11-15 370 → 2026-11-26 356（-14）
 
 
 ---

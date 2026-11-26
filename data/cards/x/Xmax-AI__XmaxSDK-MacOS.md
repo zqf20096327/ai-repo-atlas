@@ -1,6 +1,6 @@
 # Xmax-AI/XmaxSDK-MacOS
 
-⭐ 21 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-MacOS) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
+⭐ 21 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Xmax-AI/XmaxSDK-MacOS) · [官网](https://platform.xmax.ai/docs) · 组织维护 · 中文 README
 
 **macOS SDK：接入 Xmax 模型做实时交互式视频生成**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xmax-AI/XmaxSDK-MacOS 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-25"]
-    y-axis "stars" 3 --> 22
-    line [4, 14, 21, 21]
+    title "Xmax-AI/XmaxSDK-MacOS 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    y-axis "stars" 13 --> 22
+    line [14, 21, 21]
 ```
 
-2026-10-23 4 → 2026-11-25 21（+17）
+2026-10-24 14 → 2026-11-26 21（+7）
 
 
 ---

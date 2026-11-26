@@ -1,6 +1,6 @@
 # JuankCadavid/akili-specs
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/JuankCadavid/akili-specs) · [官网](https://akili.com.co/) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/JuankCadavid/akili-specs) · [官网](https://akili.com.co/) · 个人维护
 
 **为 AI 编码助手添加规格驱动开发流程的命令与技能包**
 
@@ -46,12 +46,12 @@ AKILI 通过 npm 包向 AI 编码助手安装 slash 命令与技能文件：先�
 ```mermaid
 xychart-beta
     title "JuankCadavid/akili-specs 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-14", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-14", "2026-11-15", "2026-11-26"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-11-02 10 → 2026-11-25 12（+2）
+2026-11-02 10 → 2026-11-26 12（+2）
 
 
 ---

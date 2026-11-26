@@ -1,6 +1,6 @@
 # skillberry-ai/cap-evolve
 
-⭐ 71 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/skillberry-ai/cap-evolve) · [官网](https://skillberry-ai.github.io/cap-evolve/) · 组织维护
+⭐ 71 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/skillberry-ai/cap-evolve) · [官网](https://skillberry-ai.github.io/cap-evolve/) · 组织维护
 
 **AI agent 优化工具：基于评测轨迹迭代优化提示词、工具与技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skillberry-ai/cap-evolve 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20", "2026-11-26"]
     y-axis "stars" 65 --> 72
     line [66, 67, 66, 69, 70, 71, 71]
 ```
 
-2026-10-23 66 → 2026-11-25 71（+5）
+2026-10-24 66 → 2026-11-26 71（+5）
 
 
 ---

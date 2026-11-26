@@ -1,6 +1,6 @@
 # yuanqi99/manus-skills
 
-⭐ 18 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/yuanqi99/manus-skills) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-02-09 · [GitHub](https://github.com/yuanqi99/manus-skills) · 个人维护 · 中文 README
 
 **面向 Manus 等平台的可复用 AI agent 技能与独立 CLI 工具集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "yuanqi99/manus-skills 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 19（+2）
 
 
 ---

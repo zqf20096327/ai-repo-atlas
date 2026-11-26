@@ -1,6 +1,6 @@
 # lewiswigmore/open-wire
 
-⭐ 42 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/lewiswigmore/open-wire) · [官网](https://marketplace.visualstudio.com/items?itemName=lewiswigmore.open-wire) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lewiswigmore/open-wire) · [官网](https://marketplace.visualstudio.com/items?itemName=lewiswigmore.open-wire) · 个人维护
 
 **把 VS Code 内可见的语言模型暴露为 OpenAI 兼容 REST API 的扩展**
 
@@ -45,12 +45,12 @@ VS Code 扩展，在本机 127.0.0.1:3030 启动一个 OpenAI 兼容的 HTTP 服
 ```mermaid
 xychart-beta
     title "lewiswigmore/open-wire 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-23 42 → 2026-11-25 42（+0）
+2026-10-24 42 → 2026-11-26 42（+0）
 
 
 ---

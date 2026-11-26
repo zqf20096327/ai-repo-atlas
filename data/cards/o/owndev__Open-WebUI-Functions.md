@@ -1,6 +1,6 @@
 # owndev/Open-WebUI-Functions
 
-⭐ 395 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/owndev/Open-WebUI-Functions) · [官网](https://openwebui.com/u/owndev) · 个人维护
+⭐ 394 · Python · Apache-2.0 · 推送 2026-10-11 · [GitHub](https://github.com/owndev/Open-WebUI-Functions) · [官网](https://openwebui.com/u/owndev) · 个人维护
 
 **扩展 Open WebUI 的 Python 函数集：接入 Azure AI、N8N、Gemini 等外部服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "owndev/Open-WebUI-Functions 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 390 --> 396
-    line [392, 391, 392, 394, 395, 395]
+    line [392, 391, 392, 394, 395, 394]
 ```
 
-2026-10-23 392 → 2026-11-25 395（+3）
+2026-10-24 392 → 2026-11-26 394（+2）
 
 
 ---

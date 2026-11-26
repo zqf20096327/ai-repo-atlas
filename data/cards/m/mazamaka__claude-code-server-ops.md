@@ -1,6 +1,6 @@
 # mazamaka/claude-code-server-ops
 
-⭐ 14 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/mazamaka/claude-code-server-ops) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/mazamaka/claude-code-server-ops) · 个人维护
 
 **Claude Code API 服务器的部署与验证运维工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mazamaka/claude-code-server-ops 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [14, 13]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 13（-1）
 
 
 ---

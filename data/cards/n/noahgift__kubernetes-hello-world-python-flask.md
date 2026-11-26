@@ -40,6 +40,18 @@
 > L2: A Kubernetes Hello World Project for Python Flask. This project uses a simple Flask app that returns correct change 
 > L5: This recipe is in the book Practical MLOps.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/kubernetes-hello-world-python-flask 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 37 --> 39
+    line [38, 38]
+```
+
+2026-11-25 38 → 2026-11-26 38（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f0804497b595` · [字段定义](../../DATASET.md)*

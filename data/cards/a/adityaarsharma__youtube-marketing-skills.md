@@ -1,6 +1,6 @@
 # adityaarsharma/youtube-marketing-skills
 
-⭐ 88 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/adityaarsharma/youtube-marketing-skills) · [官网](https://adityaarsharma.com) · 个人维护
+⭐ 89 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/adityaarsharma/youtube-marketing-skills) · [官网](https://adityaarsharma.com) · 个人维护
 
 **连接 AI agent 与真实 YouTube 频道的技能套件 + MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adityaarsharma/youtube-marketing-skills 星数(近 15 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 64 --> 90
-    line [66, 68, 69, 72, 71, 72, 76, 77, 68, 80, 82, 83, 85, 88, 88]
+    title "adityaarsharma/youtube-marketing-skills 星数(近 14 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 66 --> 91
+    line [68, 69, 72, 71, 72, 76, 77, 68, 80, 82, 83, 85, 88, 89]
 ```
 
-2026-10-23 66 → 2026-11-25 88（+22）
+2026-10-24 68 → 2026-11-26 89（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # mahmoudsajjadi/pace
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/mahmoudsajjadi/pace) · [官网](https://huggingface.co/spaces/sajjadi/pace-studio) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/mahmoudsajjadi/pace) · [官网](https://huggingface.co/spaces/sajjadi/pace-studio) · 个人维护
 
 **面向研究者的多智能体 LLM 算力对齐评测工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mahmoudsajjadi/pace 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-25 3（+0）
+2026-11-19 3 → 2026-11-26 3（+0）
 
 
 ---

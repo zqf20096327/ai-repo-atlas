@@ -1,6 +1,6 @@
 # vercel-labs/eve-vercel-drives-starter
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-vercel-drives-starter) · [官网](https://vercel.com/templates/eve/eve-vercel-drives-starter) · 组织维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vercel-labs/eve-vercel-drives-starter) · [官网](https://vercel.com/templates/eve/eve-vercel-drives-starter) · 组织维护
 
 **基于 eve 与 Vercel Drives 的文件管理 agent 起始模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vercel-labs/eve-vercel-drives-starter 星数(近 3 点)"
-    x-axis ["2026-10-24", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-10-24 3 → 2026-11-25 4（+1）
+2026-10-24 3 → 2026-11-26 5（+2）
 
 
 ---

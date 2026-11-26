@@ -1,6 +1,6 @@
 # Veloresearch/kinetic
 
-⭐ 275 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Veloresearch/kinetic) · [官网](https://veloresearch.com/research/kinetic) · 组织维护
+⭐ 275 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Veloresearch/kinetic) · [官网](https://veloresearch.com/research/kinetic) · 组织维护
 
 **本地运行 GGUF 模型的推理引擎：CPU 与 NVIDIA/AMD/Intel GPU**
 
@@ -46,13 +46,13 @@ Rust 编写的本地 LLM 推理引擎，读取 llama.cpp 使用的 GGUF 格式�
 
 ```mermaid
 xychart-beta
-    title "Veloresearch/kinetic 星数(近 11 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    title "Veloresearch/kinetic 星数(近 12 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 40 --> 296
-    line [61, 84, 87, 89, 90, 91, 152, 246, 263, 270, 275]
+    line [61, 84, 87, 89, 90, 91, 152, 246, 263, 270, 275, 275]
 ```
 
-2026-11-11 61 → 2026-11-25 275（+214）
+2026-11-11 61 → 2026-11-26 275（+214）
 
 
 ---

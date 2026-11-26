@@ -1,6 +1,6 @@
 # raunakpatil/smart-glasses-ai-agent
 
-⭐ 12 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/raunakpatil/smart-glasses-ai-agent) · [官网](https://raunakpatil.com/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/raunakpatil/smart-glasses-ai-agent) · [官网](https://raunakpatil.com/) · 个人维护
 
 **Ray-Ban Meta 眼镜的开源语音 AI agent，控制电视与笔记本**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "raunakpatil/smart-glasses-ai-agent 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 5 --> 13
-    line [6, 10, 11, 12]
+    title "raunakpatil/smart-glasses-ai-agent 星数(近 5 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-14", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 14
+    line [6, 10, 11, 12, 13]
 ```
 
-2026-11-02 6 → 2026-11-25 12（+6）
+2026-11-02 6 → 2026-11-26 13（+7）
 
 
 ---

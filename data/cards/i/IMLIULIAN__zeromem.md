@@ -1,6 +1,6 @@
 # IMLIULIAN/zeromem
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/IMLIULIAN/zeromem) · 个人维护 · 中文 README
+⭐ 7 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/IMLIULIAN/zeromem) · 个人维护 · 中文 README
 
 **面向 Qwen3.5-4B-Memory-V2 的零依赖本地 LLM 记忆引擎**
 
@@ -41,6 +41,18 @@ ZeroMem 是一个仅依赖 Python 3.9+ 标准库的本地记忆引擎，为开�
 > L8: 项目围绕尽量简单的本地部署做了四项克制取舍：**无第三方 Python 依赖**（仅用 Python 3.9+ 标准库，含 MCP stdio 服务）、**无外部向量库与 Embedding 模型**（单个 SQLite 文件 + 
 > L47: |**接入形态**|CLI 命令行 / 5 行 Python SDK 单次预注|零依赖 MCP 4 工具 + 7 款主流 Agent 接入 + 并行拆查提示词|
 > L106: ZeroMem MCP 服务端兼容 `NDJSON` 与 `Content-Length` 双帧协议，提供 **`memory_remember` / `memory_recall` / `memory_stats` / `me
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "IMLIULIAN/zeromem 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 7]
+```
+
+2026-11-25 3 → 2026-11-26 7（+4）
 
 
 ---

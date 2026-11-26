@@ -1,6 +1,6 @@
 # DavidTeam2008/harness-engineering-kit
 
-⭐ 4 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DavidTeam2008/harness-engineering-kit) · [官网](https://github.com/DavidTeam2008/harness-engineering-kit/blob/main/docs/adoption.md) · 个人维护 · 中文 README
+⭐ 5 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/DavidTeam2008/harness-engineering-kit) · [官网](https://github.com/DavidTeam2008/harness-engineering-kit/blob/main/docs/adoption.md) · 个人维护 · 中文 README
 
 **给 AI Coding Agent 项目生成可验收规则、门禁与证据链的脚手架**
 
@@ -47,12 +47,12 @@ Harness Engineering 项目管理工具（治理层），按 Instructions / State
 ```mermaid
 xychart-beta
     title "DavidTeam2008/harness-engineering-kit 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-15", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-15 3 → 2026-11-25 4（+1）
+2026-11-15 3 → 2026-11-26 5（+2）
 
 
 ---

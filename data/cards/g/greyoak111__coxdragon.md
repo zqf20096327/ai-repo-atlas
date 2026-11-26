@@ -1,6 +1,6 @@
 # greyoak111/coxdragon
 
-⭐ 3 · JavaScript · AGPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/greyoak111/coxdragon) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/greyoak111/coxdragon) · 个人维护 · 中文 README
 
 **在 Android 应用内运行官方 Codex app-server 的图形工作台**
 
@@ -11,7 +11,7 @@ coxdragon 将 OpenAI 官方发布的 codex-app-server 下载到 Android 应用�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ coxdragon 将 OpenAI 官方发布的 codex-app-server 下载到 Android 应用�
 ```mermaid
 xychart-beta
     title "greyoak111/coxdragon 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 4（+1）
 
 
 ---

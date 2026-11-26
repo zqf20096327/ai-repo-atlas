@@ -1,6 +1,6 @@
 # Lisa-Harness/lisa
 
-⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Lisa-Harness/lisa) · [官网](https://migus.org/lisa) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Lisa-Harness/lisa) · [官网](https://migus.org/lisa) · 组织维护
 
 **模块化 AI agent 运行时与 MCP 宿主框架**
 
@@ -40,6 +40,18 @@ Lisa 是一个可组合、可扩展的模块化 AI agent 运行时与宿主：�
 > L7: Lisa is an composable, extensible and modular AI agent runtime and host.
 > L14: and an SDK that includes a "pack" loader.
 > L17: manages the MCP servers and model proxies,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lisa-Harness/lisa 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-25 11 → 2026-11-26 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # alexandriashai/cbrowser
 
-⭐ 19 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/alexandriashai/cbrowser) · [官网](https://cbrowser.ai) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **带认知模拟的浏览器自动化测试工具：预测用户在何处放弃**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | NOASSERTION |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

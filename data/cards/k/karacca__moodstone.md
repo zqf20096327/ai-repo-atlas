@@ -1,6 +1,6 @@
 # karacca/moodstone
 
-⭐ 46 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/karacca/moodstone) · [官网](https://moodstone.expo.app) · 个人维护
+⭐ 47 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/karacca/moodstone) · [官网](https://moodstone.expo.app) · 个人维护
 
 **给 React Native AI agent 的程序化生成动画头像组件库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "karacca/moodstone 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 42 --> 47
-    line [43, 44, 45, 46, 43, 46, 45, 46, 46]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 42 --> 48
+    line [43, 44, 45, 46, 43, 46, 45, 46, 47]
 ```
 
-2026-10-23 43 → 2026-11-25 46（+3）
+2026-10-24 43 → 2026-11-26 47（+4）
 
 
 ---

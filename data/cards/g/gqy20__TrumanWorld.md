@@ -1,6 +1,6 @@
 # gqy20/TrumanWorld
 
-⭐ 17 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/gqy20/TrumanWorld) · [官网](https://truman.gqy25.top/) · 个人维护 · 中文 README
+⭐ 18 · Python · MIT · 推送 2026-09-14 · [GitHub](https://github.com/gqy20/TrumanWorld) · [官网](https://truman.gqy25.top/) · 个人维护 · 中文 README
 
 **AI 社会模拟系统：观察不知自己是 AI 的小镇居民共同生活**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gqy20/TrumanWorld 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

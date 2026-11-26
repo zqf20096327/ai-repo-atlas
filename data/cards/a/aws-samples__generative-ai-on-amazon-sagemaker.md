@@ -1,6 +1,6 @@
 # aws-samples/generative-ai-on-amazon-sagemaker
 
-⭐ 117 · Jupyter Notebook · MIT-0 · 推送 2026-11-21 · [GitHub](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker) · 组织维护
+⭐ 117 · Jupyter Notebook · MIT-0 · 推送 2026-11-24 · [GitHub](https://github.com/aws-samples/generative-ai-on-amazon-sagemaker) · 组织维护
 
 **SageMaker/Bedrock 生成式 AI 示例与工作坊合集**
 
@@ -44,13 +44,13 @@ AWS 官方 samples 仓库，汇集在 Amazon SageMaker AI 与 Amazon Bedrock 上
 
 ```mermaid
 xychart-beta
-    title "aws-samples/generative-ai-on-amazon-sagemaker 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-11", "2026-11-16", "2026-11-25"]
+    title "aws-samples/generative-ai-on-amazon-sagemaker 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-11", "2026-11-16", "2026-11-26"]
     y-axis "stars" 112 --> 118
-    line [113, 114, 113, 114, 116, 117, 117]
+    line [114, 113, 114, 116, 117, 117]
 ```
 
-2026-10-23 113 → 2026-11-25 117（+4）
+2026-10-24 114 → 2026-11-26 117（+3）
 
 
 ---

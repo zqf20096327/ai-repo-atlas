@@ -1,6 +1,6 @@
 # sumeshi/forensia
 
-⭐ 39 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/sumeshi/forensia) · [官网](https://pypi.org/project/forensia/) · 个人维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/sumeshi/forensia) · [官网](https://pypi.org/project/forensia/) · 个人维护 · 中文 README
 
 **给取证分析师：用本地 LLM 自主调查 Windows 取证痕迹的实验性框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sumeshi/forensia 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 35, 39, 39]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 35, 39, 40]
 ```
 
-2026-10-23 35 → 2026-11-25 39（+4）
+2026-10-24 35 → 2026-11-26 40（+5）
 
 
 ---

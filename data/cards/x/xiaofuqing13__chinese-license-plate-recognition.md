@@ -1,6 +1,6 @@
 # xiaofuqing13/chinese-license-plate-recognition
 
-⭐ 14 · Python · 推送 2026-03-01 · [GitHub](https://github.com/xiaofuqing13/chinese-license-plate-recognition) · 个人维护 · 中文 README
+⭐ 15 · Python · 推送 2026-03-01 · [GitHub](https://github.com/xiaofuqing13/chinese-license-plate-recognition) · 个人维护 · 中文 README
 
 **面向中文车牌的两阶段检测识别系统：YOLOv5定位+PlateNet识别**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xiaofuqing13/chinese-license-plate-recognition 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

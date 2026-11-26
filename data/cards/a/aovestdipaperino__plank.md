@@ -1,6 +1,6 @@
 # aovestdipaperino/plank
 
-⭐ 37 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aovestdipaperino/plank) · [官网](https://plank-agent.dev) · 个人维护
+⭐ 37 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aovestdipaperino/plank) · [官网](https://plank-agent.dev) · 个人维护
 
 **macOS 本地运行 DeepSeek 等模型的终端编程 agent**
 
@@ -46,12 +46,12 @@ Rust 编写的交互式编程 agent，提供 Ratatui 全屏 TUI、终端 REPL �
 ```mermaid
 xychart-beta
     title "aovestdipaperino/plank 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 35 --> 38
     line [36, 37, 37]
 ```
 
-2026-10-23 36 → 2026-11-25 37（+1）
+2026-10-24 36 → 2026-11-26 37（+1）
 
 
 ---

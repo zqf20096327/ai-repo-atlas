@@ -1,6 +1,6 @@
 # gosomea/dsh-bigfish
 
-⭐ 30 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/gosomea/dsh-bigfish) · [官网](https://www.npmjs.com/package/dsh-bigfish) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/gosomea/dsh-bigfish) · [官网](https://www.npmjs.com/package/dsh-bigfish) · 个人维护 · 中文 README
 
 **DeepSeek Harness Web 的陪伴宠物插件，动画跟随 Agent 任务状态**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gosomea/dsh-bigfish 星数(近 16 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 32
-    line [5, 6, 8, 10, 13, 14, 15, 16, 6, 16, 25, 27, 28, 29, 30, 30]
+    title "gosomea/dsh-bigfish 星数(近 15 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 4 --> 33
+    line [6, 8, 10, 13, 14, 15, 16, 6, 16, 25, 27, 28, 29, 30, 31]
 ```
 
-2026-10-23 5 → 2026-11-25 30（+25）
+2026-10-24 6 → 2026-11-26 31（+25）
 
 
 ---

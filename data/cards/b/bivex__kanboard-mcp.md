@@ -1,6 +1,6 @@
 # bivex/kanboard-mcp
 
-⭐ 29 · Go · MIT · 推送 2026-06-12 · [GitHub](https://github.com/bivex/kanboard-mcp) · 个人维护
+⭐ 30 · Go · MIT · 推送 2026-06-12 · [GitHub](https://github.com/bivex/kanboard-mcp) · 个人维护
 
 **Go 编写的 Kanboard MCP 服务器：让 AI 客户端管理看板项目与任务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bivex/kanboard-mcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 27 --> 31
+    line [28, 29, 30]
 ```
 
-2026-10-23 28 → 2026-11-25 29（+1）
+2026-10-24 28 → 2026-11-26 30（+2）
 
 
 ---

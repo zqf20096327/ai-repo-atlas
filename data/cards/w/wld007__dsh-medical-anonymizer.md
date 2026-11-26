@@ -1,6 +1,6 @@
 # wld007/dsh-medical-anonymizer
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/wld007/dsh-medical-anonymizer) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/wld007/dsh-medical-anonymizer) · 个人维护 · 中文 README
 
 **医疗病历批量匿名化 DSH 插件：假名替换+评估报告**
 
@@ -46,12 +46,12 @@ DeepSeek Harness 插件，批量处理病历文本、表格与 DICOM 元数据�
 ```mermaid
 xychart-beta
     title "wld007/dsh-medical-anonymizer 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-25 5（+0）
+2026-11-08 5 → 2026-11-26 5（+0）
 
 
 ---

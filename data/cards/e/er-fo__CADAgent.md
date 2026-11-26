@@ -1,6 +1,6 @@
 # er-fo/CADAgent
 
-⭐ 97 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/er-fo/CADAgent) · [官网](https://cadagent.co) · 个人维护
+⭐ 98 · Python · MIT · 推送 2026-09-06 · [GitHub](https://github.com/er-fo/CADAgent) · [官网](https://cadagent.co) · 个人维护
 
 **面向 Fusion 360 的 AI 建模助手：自然语言生成与修改 CAD 模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "er-fo/CADAgent 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 95 --> 98
-    line [96, 97, 97]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 95 --> 99
+    line [96, 97, 98]
 ```
 
-2026-10-23 96 → 2026-11-25 97（+1）
+2026-10-24 96 → 2026-11-26 98（+2）
 
 
 ---

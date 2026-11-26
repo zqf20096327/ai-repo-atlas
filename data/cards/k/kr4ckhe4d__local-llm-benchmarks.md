@@ -1,6 +1,6 @@
 # kr4ckhe4d/local-llm-benchmarks
 
-⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kr4ckhe4d/local-llm-benchmarks) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kr4ckhe4d/local-llm-benchmarks) · 个人维护
 
 **AMD RDNA4 显卡上 llama.cpp 本地 LLM 实测基准记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kr4ckhe4d/local-llm-benchmarks 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

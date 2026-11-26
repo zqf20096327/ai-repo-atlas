@@ -1,6 +1,6 @@
 # dilyabareeva/quanda
 
-⭐ 61 · Jupyter Notebook · MIT · 推送 2026-11-06 · [GitHub](https://github.com/dilyabareeva/quanda) · [官网](https://quanda.readthedocs.io) · 个人维护
+⭐ 61 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/dilyabareeva/quanda) · [官网](https://quanda.readthedocs.io) · 个人维护
 
 **训练数据归因（TDA）方法的定量评测工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dilyabareeva/quanda 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-23 61 → 2026-11-25 61（+0）
+2026-10-24 61 → 2026-11-26 61（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AbdullhRtima/modwen
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AbdullhRtima/modwen) · [官网](https://modwen.rtima.org/) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/AbdullhRtima/modwen) · [官网](https://modwen.rtima.org/) · 个人维护
 
 **面向阿拉伯语优先的本地离线会议转写笔记应用**
 
@@ -46,12 +46,12 @@ Modwen（مُدوَّن）是一款在 Mac 和 Windows 本地运行的会议笔�
 ```mermaid
 xychart-beta
     title "AbdullhRtima/modwen 星数(近 5 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-26"]
     y-axis "stars" 5 --> 11
-    line [6, 8, 9, 10, 10]
+    line [6, 8, 9, 10, 9]
 ```
 
-2026-10-30 6 → 2026-11-25 10（+4）
+2026-10-30 6 → 2026-11-26 9（+3）
 
 
 ---

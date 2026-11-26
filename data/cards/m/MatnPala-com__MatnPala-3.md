@@ -1,6 +1,6 @@
 # MatnPala-com/MatnPala-3
 
-⭐ 8 · PHP · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/MatnPala-com/MatnPala-3) · 个人维护
+⭐ 8 · PHP · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/MatnPala-com/MatnPala-3) · 个人维护
 
 **波斯语文本的离线 NLP 摘要引擎（PHP 实现）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MatnPala-com/MatnPala-3 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-26"]
     y-axis "stars" 5 --> 9
     line [6, 8, 8]
 ```
 
-2026-11-13 6 → 2026-11-25 8（+2）
+2026-11-13 6 → 2026-11-26 8（+2）
 
 
 ---

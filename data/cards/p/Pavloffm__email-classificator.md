@@ -1,6 +1,6 @@
 # Pavloffm/email-classificator
 
-⭐ 4 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Pavloffm/email-classificator) · 个人维护
+⭐ 4 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Pavloffm/email-classificator) · 个人维护
 
 **用本地 LLM 将 Gmail 未读邮件分类打标的工具**
 
@@ -40,6 +40,18 @@
 > L3: Turn unread Gmail messages into a labeled to-do list: reply, read, skip, or flag as spam. Powered by a local LLM thr
 > L12: already have one of its labels. It normalizes their content, asks Ollama to choose
 > L22: Classification does not send replies, delete messages, or mark them as read.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Pavloffm/email-classificator 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # teunlao/swift-ai-sdk
 
-⭐ 158 · Swift · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/teunlao/swift-ai-sdk) · [官网](https://swift-ai-sdk-docs.vercel.app) · 个人维护
+⭐ 159 · Swift · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/teunlao/swift-ai-sdk) · [官网](https://swift-ai-sdk-docs.vercel.app) · 个人维护
 
 **面向 Apple 平台的 Swift 统一 AI SDK，单一 API 接 36 家模型商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "teunlao/swift-ai-sdk 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 155 --> 159
-    line [156, 157, 158, 158]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 155 --> 160
+    line [156, 157, 158, 159]
 ```
 
-2026-10-23 156 → 2026-11-25 158（+2）
+2026-10-24 156 → 2026-11-26 159（+3）
 
 
 ---

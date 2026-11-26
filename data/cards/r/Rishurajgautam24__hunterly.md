@@ -45,13 +45,13 @@ Chrome 侧边栏扩展加本地 Python 后端：在 LinkedIn 个人页一键保�
 
 ```mermaid
 xychart-beta
-    title "Rishurajgautam24/hunterly 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-25"]
-    y-axis "stars" 7 --> 11
-    line [8, 9, 10, 10]
+    title "Rishurajgautam24/hunterly 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    y-axis "stars" 8 --> 11
+    line [9, 10, 10]
 ```
 
-2026-10-23 8 → 2026-11-25 10（+2）
+2026-10-24 9 → 2026-11-26 10（+1）
 
 
 ---

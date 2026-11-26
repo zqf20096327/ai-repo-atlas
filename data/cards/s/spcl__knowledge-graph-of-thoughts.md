@@ -1,6 +1,6 @@
 # spcl/knowledge-graph-of-thoughts
 
-⭐ 233 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/spcl/knowledge-graph-of-thoughts) · [官网](http://arxiv.org/abs/2504.02670) · 组织维护
+⭐ 232 · Python · NOASSERTION · 推送 2026-07-28 · [GitHub](https://github.com/spcl/knowledge-graph-of-thoughts) · [官网](http://arxiv.org/abs/2504.02670) · 组织维护
 
 **AI 助手架构：把任务知识构建为动态知识图谱辅助 LLM 推理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "spcl/knowledge-graph-of-thoughts 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
     y-axis "stars" 231 --> 234
-    line [233, 232, 233, 233]
+    line [233, 232, 233, 232]
 ```
 
-2026-10-23 233 → 2026-11-25 233（+0）
+2026-10-24 233 → 2026-11-26 232（-1）
 
 
 ---

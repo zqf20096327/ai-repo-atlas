@@ -1,6 +1,6 @@
 # tokensafe-dev/tokensafe
 
-⭐ 47 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tokensafe-dev/tokensafe) · [官网](https://tokensafe.dev) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tokensafe-dev/tokensafe) · [官网](https://tokensafe.dev) · 组织维护
 
 **面向 AI 编程代理的本地上下文防火墙与零丢失运行时**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tokensafe-dev/tokensafe 星数(近 8 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 20 --> 49
-    line [22, 39, 41, 43, 44, 46, 47, 47]
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 20 --> 50
+    line [22, 39, 41, 43, 44, 46, 47, 48]
 ```
 
-2026-11-12 22 → 2026-11-25 47（+25）
+2026-11-12 22 → 2026-11-26 48（+26）
 
 
 ---

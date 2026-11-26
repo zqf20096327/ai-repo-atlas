@@ -1,6 +1,6 @@
 # volume-em/empanada-napari
 
-⭐ 38 · Python · BSD-3-Clause · 推送 2026-11-06 · [GitHub](https://github.com/volume-em/empanada-napari) · [官网](https://empanada.readthedocs.io/en/latest/empanada-napari.html) · 组织维护
+⭐ 39 · Python · BSD-3-Clause · 推送 2026-11-06 · [GitHub](https://github.com/volume-em/empanada-napari) · [官网](https://empanada.readthedocs.io/en/latest/empanada-napari.html) · 组织维护
 
 **napari 插件：在电子显微镜图像上运行 2D/3D 全景分割模型**
 
@@ -45,12 +45,12 @@ empanada-napari 是一个 napari 插件，用于在 2D 与 3D 电子显微镜细
 ```mermaid
 xychart-beta
     title "volume-em/empanada-napari 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 37 --> 40
+    line [38, 39]
 ```
 
-2026-10-23 38 → 2026-11-25 38（+0）
+2026-10-24 38 → 2026-11-26 39（+1）
 
 
 ---

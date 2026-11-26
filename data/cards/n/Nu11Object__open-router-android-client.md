@@ -44,12 +44,12 @@ Kotlin 编写的 Android 应用，通过 OpenRouter API 发送请求并获取模
 ```mermaid
 xychart-beta
     title "Nu11Object/open-router-android-client 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

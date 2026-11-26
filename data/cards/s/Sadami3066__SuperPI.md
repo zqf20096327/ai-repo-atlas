@@ -1,6 +1,6 @@
 # Sadami3066/SuperPI
 
-⭐ 56 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sadami3066/SuperPI) · 个人维护 · 中文 README
+⭐ 57 · Kotlin · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Sadami3066/SuperPI) · 个人维护 · 中文 README
 
 **本地优先的个人 AI Agent 生态：手机/桌面/自托管中继/插件平台**
 
@@ -40,6 +40,18 @@
 > L5: **Personal AI Agent Ecosystem — Android · Desktop · Self-Hosted Relay · Plugin Platform**
 > L25: **SuperPI** is a local-first personal AI agent ecosystem:
 > L27: - **Android (`apps/android`)**: On-device personal agent built with Jetpack Compose. Long-press the power button to
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Sadami3066/SuperPI 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
+```
+
+2026-11-25 56 → 2026-11-26 57（+1）
 
 
 ---

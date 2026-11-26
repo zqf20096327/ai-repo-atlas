@@ -1,6 +1,6 @@
 # PoweredByPassion/immich-llm-tagger
 
-⭐ 4 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/PoweredByPassion/immich-llm-tagger) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自托管 Immich 用户的照片自动分类与打标服务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

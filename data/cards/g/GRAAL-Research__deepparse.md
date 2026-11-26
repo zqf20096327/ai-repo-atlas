@@ -1,6 +1,6 @@
 # GRAAL-Research/deepparse
 
-⭐ 359 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/GRAAL-Research/deepparse) · [官网](https://deepparse.org/) · 组织维护
+⭐ 361 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/GRAAL-Research/deepparse) · [官网](https://deepparse.org/) · 组织维护
 
 **深度学习地址解析库：解析多国街道地址成分**
 
@@ -46,12 +46,12 @@ Deepparse 是一个用深度学习解析多国街道地址的 Python 库，基�
 ```mermaid
 xychart-beta
     title "GRAAL-Research/deepparse 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 354 --> 361
-    line [355, 359, 360, 359, 359]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 354 --> 362
+    line [355, 359, 360, 359, 361]
 ```
 
-2026-10-23 355 → 2026-11-25 359（+4）
+2026-10-24 355 → 2026-11-26 361（+6）
 
 
 ---

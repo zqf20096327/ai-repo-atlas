@@ -1,6 +1,6 @@
 # diskd-ai/dwg2png
 
-⭐ 17 · Rust · 推送 2026-06-25 · [GitHub](https://github.com/diskd-ai/dwg2png) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **纯 Rust 的 DWG 转多页 PNG 渲染器与元数据索引器**
 

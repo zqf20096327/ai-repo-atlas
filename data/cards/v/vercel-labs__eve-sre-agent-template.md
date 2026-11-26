@@ -1,6 +1,6 @@
 # vercel-labs/eve-sre-agent-template
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-sre-agent-template) · [官网](https://vercel.com/kb/guide/eve-incident-sre-agent) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vercel-labs/eve-sre-agent-template) · [官网](https://vercel.com/kb/guide/eve-incident-sre-agent) · 组织维护
 
 **面向 Slack 的 SRE 事件响应 agent 模板，跨工具排查告警**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vercel-labs/eve-sre-agent-template 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 15（+2）
 
 
 ---

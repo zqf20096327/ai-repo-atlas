@@ -1,6 +1,6 @@
 # jasoncheng7115/jt-doc-tools
 
-⭐ 251 · HTML · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
+⭐ 251 · HTML · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/jasoncheng7115/jt-doc-tools) · [官网](https://jasoncheng7115.github.io/jt-doc-tools/) · 个人维护 · 中文 README
 
 **自架開源 PDF/Office 文件處理平台，54 個工具整合**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jasoncheng7115/jt-doc-tools 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-26"]
     y-axis "stars" 243 --> 252
     line [244, 245, 246, 245, 246, 247, 248, 250, 251, 251]
 ```
 
-2026-10-23 244 → 2026-11-25 251（+7）
+2026-10-24 244 → 2026-11-26 251（+7）
 
 
 ---

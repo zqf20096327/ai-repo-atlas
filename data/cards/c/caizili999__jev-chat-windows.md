@@ -1,6 +1,6 @@
 # caizili999/jev-chat-windows
 
-⭐ 10 · Python · MIT · 推送 2026-10-15 · [GitHub](https://github.com/caizili999/jev-chat-windows) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **微信用户：本地 OCR 读屏并起草候选回复的桌面悬浮窗**
 
@@ -11,7 +11,7 @@ Windows 桌面悬浮窗工具：截取自己的微信窗口，本地离线 OCR�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

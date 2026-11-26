@@ -1,6 +1,6 @@
 # salahasfan02/Jarvis--private-local-AI-assistant
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/salahasfan02/Jarvis--private-local-AI-assistant) · [官网](https://buymeacoffee.com/salahasfan) · 个人维护
+⭐ 14 · Python · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/salahasfan02/Jarvis--private-local-AI-assistant) · [官网](https://buymeacoffee.com/salahasfan) · 个人维护
 
 **macOS 本地 AI 助手：语音、视觉与自动化，全部本地运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "salahasfan02/Jarvis--private-local-AI-assistant 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
-    y-axis "stars" 10 --> 14
-    line [11, 13, 13]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    y-axis "stars" 10 --> 15
+    line [11, 13, 14]
 ```
 
-2026-10-23 11 → 2026-11-25 13（+2）
+2026-10-24 11 → 2026-11-26 14（+3）
 
 
 ---

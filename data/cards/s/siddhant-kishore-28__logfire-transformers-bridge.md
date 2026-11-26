@@ -1,6 +1,6 @@
 # siddhant-kishore-28/logfire-transformers-bridge
 
-⭐ 56 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/siddhant-kishore-28/logfire-transformers-bridge) · 个人维护
+⭐ 56 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/siddhant-kishore-28/logfire-transformers-bridge) · 个人维护
 
 **把 Transformers 训练日志转为富化事件并接入 Logfire 的观测桥接层**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "siddhant-kishore-28/logfire-transformers-bridge 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-10-23 56 → 2026-11-25 56（+0）
+2026-10-24 56 → 2026-11-26 56（+0）
 
 
 ---

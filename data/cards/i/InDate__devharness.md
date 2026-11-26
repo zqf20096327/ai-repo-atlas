@@ -1,6 +1,6 @@
 # InDate/devharness
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/InDate/devharness) · 个人维护
+⭐ 20 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/InDate/devharness) · 个人维护
 
 **让 AI 助手通过 Chrome DevTools Protocol 直接调试 Web 应用的 MCP 服务器**
 
@@ -45,12 +45,12 @@ MCP server，通过 Chrome DevTools Protocol 驱动 Chrome 与 Node.js：为 AI 
 ```mermaid
 xychart-beta
     title "InDate/devharness 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 19（+1）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

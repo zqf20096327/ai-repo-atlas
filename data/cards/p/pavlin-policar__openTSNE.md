@@ -1,6 +1,6 @@
 # pavlin-policar/openTSNE
 
-⭐ 1,625 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/pavlin-policar/openTSNE) · [官网](https://opentsne.rtfd.io) · 个人维护
+⭐ 1,626 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/pavlin-policar/openTSNE) · [官网](https://opentsne.rtfd.io) · 个人维护
 
 **给数据分析师提供并行加速的 t-SNE 降维嵌入 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pavlin-policar/openTSNE 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25"]
+    title "pavlin-policar/openTSNE 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 1623 --> 1627
-    line [1626, 1625, 1626, 1625, 1624, 1625]
+    line [1626, 1625, 1626, 1625, 1624, 1625, 1626]
 ```
 
-2026-10-23 1,626 → 2026-11-25 1,625（-1）
+2026-10-24 1,626 → 2026-11-26 1,626（+0）
 
 
 ---

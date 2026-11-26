@@ -1,6 +1,6 @@
 # v0lka/skills
 
-⭐ 31 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/v0lka/skills) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/v0lka/skills) · 个人维护
 
 **面向研发任务的 AI agent 技能合集（约 40 个技能）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "v0lka/skills 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 31, 31]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 31, 32]
 ```
 
-2026-10-23 28 → 2026-11-25 31（+3）
+2026-10-24 28 → 2026-11-26 32（+4）
 
 
 ---

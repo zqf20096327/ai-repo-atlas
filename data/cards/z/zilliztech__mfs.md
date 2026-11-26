@@ -1,6 +1,6 @@
 # zilliztech/mfs
 
-⭐ 159 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/zilliztech/mfs) · [官网](https://zilliztech.github.io/mfs/) · 组织维护
+⭐ 160 · Python · Apache-2.0 · 推送 2026-07-31 · [GitHub](https://github.com/zilliztech/mfs) · [官网](https://zilliztech.github.io/mfs/) · 组织维护
 
 **面向 AI agent 的多源上下文统一索引与检索工作台**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zilliztech/mfs 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 155 --> 160
-    line [156, 157, 158, 157, 158, 159, 159]
+    title "zilliztech/mfs 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 156 --> 161
+    line [157, 158, 157, 158, 159, 160]
 ```
 
-2026-10-23 156 → 2026-11-25 159（+3）
+2026-10-24 157 → 2026-11-26 160（+3）
 
 
 ---

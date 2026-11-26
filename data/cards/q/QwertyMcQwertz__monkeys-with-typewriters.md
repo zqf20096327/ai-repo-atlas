@@ -1,6 +1,6 @@
 # QwertyMcQwertz/monkeys-with-typewriters
 
-⭐ 49 · C++ · 推送 2026-02-19 · [GitHub](https://github.com/QwertyMcQwertz/monkeys-with-typewriters) · [官网](https://monkeyswithtypewriters.com) · 个人维护
+⭐ 48 · C++ · 推送 2026-02-19 · [GitHub](https://github.com/QwertyMcQwertz/monkeys-with-typewriters) · [官网](https://monkeyswithtypewriters.com) · 个人维护
 
 **运行在 $3 微控制器上的戏仿式文本生成平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "QwertyMcQwertz/monkeys-with-typewriters 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 48 --> 50
-    line [49, 49]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 47 --> 50
+    line [49, 48]
 ```
 
-2026-10-23 49 → 2026-11-25 49（+0）
+2026-10-24 49 → 2026-11-26 48（-1）
 
 
 ---

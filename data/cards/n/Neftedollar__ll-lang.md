@@ -41,6 +41,18 @@ ll-lang 是一种静态类型函数式编程语言，提供端到端编译器 `l
 > L343: ll-lang is not a general-purpose language. It is optimized for one use case: **LLM agents writing correct code on 
 > L198: ll-lang ships a built-in MCP server. Wire it to Claude Code, Cursor, or Zed — your LLM client gains structured too
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Neftedollar/ll-lang 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3129c6ed0a72` · [字段定义](../../DATASET.md)*

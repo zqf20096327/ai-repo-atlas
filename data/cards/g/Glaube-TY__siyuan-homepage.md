@@ -1,6 +1,6 @@
 # Glaube-TY/siyuan-homepage
 
-⭐ 42 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Glaube-TY/siyuan-homepage) · [官网](https://glaube-ty.top/sites/siyuan-homepage/index.html) · 个人维护 · 中文 README
+⭐ 42 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Glaube-TY/siyuan-homepage) · [官网](https://glaube-ty.top/sites/siyuan-homepage/index.html) · 个人维护 · 中文 README
 
 **思源笔记的可定制信息聚合主页插件，含 AI Agent 与机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Glaube-TY/siyuan-homepage 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 41 --> 43
     line [42, 42]
 ```
 
-2026-10-23 42 → 2026-11-25 42（+0）
+2026-10-24 42 → 2026-11-26 42（+0）
 
 
 ---

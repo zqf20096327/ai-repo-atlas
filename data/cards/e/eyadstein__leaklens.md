@@ -1,6 +1,6 @@
 # eyadstein/leaklens
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/eyadstein/leaklens) · [官网](https://eyadstein.github.io/leaklens/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/eyadstein/leaklens) · [官网](https://eyadstein.github.io/leaklens/) · 个人维护
 
 **机器学习数据泄漏审计工具：扫描数据集、切分与代码中的泄漏**
 
@@ -46,12 +46,12 @@ LeakLens 审计数据泄漏常藏身的三个位置：数据集、训练/测试�
 ```mermaid
 xychart-beta
     title "eyadstein/leaklens 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-13", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-13", "2026-11-18", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 3, 3]
 ```
 
-2026-11-02 3 → 2026-11-25 3（+0）
+2026-11-02 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-marketing-solutions/copycat
 
-⭐ 89 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-marketing-solutions/copycat) · 组织维护
+⭐ 90 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-marketing-solutions/copycat) · 组织维护
 
 **用 Gemini 按品牌风格批量生成 Google 搜索广告文案的 Python 工具**
 
@@ -44,13 +44,13 @@ Google Marketing Solutions 下的 Python 包：读取 Google Ads 账户中已有
 
 ```mermaid
 xychart-beta
-    title "google-marketing-solutions/copycat 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 86 --> 90
-    line [87, 88, 89, 89]
+    title "google-marketing-solutions/copycat 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 87 --> 91
+    line [88, 89, 90]
 ```
 
-2026-10-23 87 → 2026-11-25 89（+2）
+2026-10-24 88 → 2026-11-26 90（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # DaviRain-Su/dreader
 
-⭐ 3 · Swift · NOASSERTION · 推送 2026-11-07 · [GitHub](https://github.com/DaviRain-Su/dreader) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **原生 macOS 电子书阅读器，内置本地优先的 AI 阅读伴侣**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # HITsz-TMG/JevEmbed
 
-⭐ 79 · Python · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/HITsz-TMG/JevEmbed) · [官网](https://github.com/HITsz-TMG/JevEmbed) · 组织维护
+⭐ 80 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/HITsz-TMG/JevEmbed) · [官网](https://github.com/HITsz-TMG/JevEmbed) · 组织维护
 
 **嵌入模型决策工具包：训练、推理与评测 Choice/Score/Noul 决策**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "HITsz-TMG/JevEmbed 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
     y-axis "stars" 70 --> 81
-    line [71, 72, 71, 78, 80, 79, 79]
+    line [71, 72, 71, 78, 80, 79, 80]
 ```
 
-2026-10-23 71 → 2026-11-25 79（+8）
+2026-10-24 71 → 2026-11-26 80（+9）
 
 
 ---

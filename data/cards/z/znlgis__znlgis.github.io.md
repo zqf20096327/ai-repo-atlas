@@ -1,6 +1,6 @@
 # znlgis/znlgis.github.io
 
-⭐ 23 · JavaScript · LGPL-2.1 · 推送 2026-11-13 · [GitHub](https://github.com/znlgis/znlgis.github.io) · [官网](https://znlgis.github.io/) · 个人维护 · 中文 README
+⭐ 24 · JavaScript · LGPL-2.1 · 推送 2026-11-13 · [GitHub](https://github.com/znlgis/znlgis.github.io) · [官网](https://znlgis.github.io/) · 个人维护 · 中文 README
 
 **个人 GIS/CAD/AI 开发教程博客（88 系列、1211 篇）**
 
@@ -44,12 +44,12 @@ znlgis 维护的 Jekyll 静态博客，托管于 GitHub Pages，内容按 GIS �
 ```mermaid
 xychart-beta
     title "znlgis/znlgis.github.io 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 24（+2）
 
 
 ---

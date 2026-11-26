@@ -1,6 +1,6 @@
 # anshcantcode/benchhand
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/anshcantcode/benchhand) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/anshcantcode/benchhand) · 个人维护
 
 **给个人用户在桌面端管理 AI 队友、模型与可审查操作的工作区**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anshcantcode/benchhand 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-10-29", "2026-10-30", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-28 3 → 2026-11-25 5（+2）
+2026-10-28 3 → 2026-11-26 5（+2）
 
 
 ---

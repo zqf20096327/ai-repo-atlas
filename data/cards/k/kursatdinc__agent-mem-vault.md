@@ -1,6 +1,6 @@
 # kursatdinc/agent-mem-vault
 
-⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kursatdinc/agent-mem-vault) · [官网](https://pypi.org/project/agent-mem-vault/) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kursatdinc/agent-mem-vault) · [官网](https://pypi.org/project/agent-mem-vault/) · 个人维护
 
 **为编码 agent 提供共享长期记忆的 MCP 服务器，存为 Obsidian vault**
 
@@ -46,12 +46,12 @@ agent-mem-vault 是一个 MCP 服务器，把 Obsidian vault 作为编码 agent 
 ```mermaid
 xychart-beta
     title "kursatdinc/agent-mem-vault 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 7
     line [3, 4, 5, 6, 6]
 ```
 
-2026-10-31 3 → 2026-11-25 6（+3）
+2026-10-31 3 → 2026-11-26 6（+3）
 
 
 ---

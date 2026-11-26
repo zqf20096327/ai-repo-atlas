@@ -1,6 +1,6 @@
 # TheAlgorithms/Mojo
 
-⭐ 62 · Mojo · MIT · 推送 2026-02-09 · [GitHub](https://github.com/TheAlgorithms/Mojo) · 组织维护
+⭐ 63 · Mojo · MIT · 推送 2026-02-09 · [GitHub](https://github.com/TheAlgorithms/Mojo) · 组织维护
 
 **用 Mojo 实现的算法合集，面向教学**
 
@@ -44,12 +44,12 @@ TheAlgorithms 社区维护的算法仓库的 Mojo 版本：以 Mojo 语言实现
 ```mermaid
 xychart-beta
     title "TheAlgorithms/Mojo 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-10-23 62 → 2026-11-25 62（+0）
+2026-10-24 62 → 2026-11-26 63（+1）
 
 
 ---

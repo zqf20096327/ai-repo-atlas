@@ -1,6 +1,6 @@
 # imteekay/machine-learning-research
 
-⭐ 456 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/imteekay/machine-learning-research) · [官网](https://www.iamtk.co/ml-ai-learning-path) · 个人维护
+⭐ 456 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/imteekay/machine-learning-research) · [官网](https://www.iamtk.co/ml-ai-learning-path) · 个人维护
 
 **AI/ML 学习路线与资料聚合清单：数学到深度学习**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imteekay/machine-learning-research 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-26"]
     y-axis "stars" 454 --> 459
     line [458, 457, 458, 456, 457, 455, 456, 456]
 ```
 
-2026-10-23 458 → 2026-11-25 456（-2）
+2026-10-24 458 → 2026-11-26 456（-2）
 
 
 ---

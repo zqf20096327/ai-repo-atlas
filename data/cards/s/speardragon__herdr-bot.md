@@ -1,6 +1,6 @@
 # speardragon/herdr-bot
 
-⭐ 6 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/speardragon/herdr-bot) · [官网](https://github.com/speardragon/herdr-bot/releases/latest) · 个人维护 · 中文 README
+⭐ 7 · TypeScript · MIT · 推送 2026-10-21 · [GitHub](https://github.com/speardragon/herdr-bot) · [官网](https://github.com/speardragon/herdr-bot/releases/latest) · 个人维护 · 中文 README
 
 **让 Claude Code/Codex/Grok 等 agent 以 bot 身份互相聊天的 macOS 应用**
 
@@ -47,12 +47,12 @@ herdr-bot 将 herdr 会话中运行的 agent CLI（Claude Code、Codex、Grok、
 ```mermaid
 xychart-beta
     title "speardragon/herdr-bot 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-10-23 3 → 2026-11-25 6（+3）
+2026-10-24 3 → 2026-11-26 7（+4）
 
 
 ---

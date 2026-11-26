@@ -46,12 +46,12 @@ WT 是一套面向 AI agent 的 Cloudflare/GitHub 工具集（MCP server），�
 ```mermaid
 xychart-beta
     title "pain2hustle/AMH-Cloudflare-Ops-MCP-by-WT 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

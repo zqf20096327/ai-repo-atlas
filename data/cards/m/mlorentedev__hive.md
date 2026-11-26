@@ -1,6 +1,6 @@
 # mlorentedev/hive
 
-⭐ 10 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mlorentedev/hive) · [官网](https://pypi.org/project/hive-vault/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mlorentedev/hive) · [官网](https://pypi.org/project/hive-vault/) · 个人维护
 
 **MCP 服务器：让 AI 编程助手按需访问 Obsidian 知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mlorentedev/hive 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [11, 10, 10]
 ```
 
-2026-10-23 11 → 2026-11-25 10（-1）
+2026-10-24 11 → 2026-11-26 10（-1）
 
 
 ---

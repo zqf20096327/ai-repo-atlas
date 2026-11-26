@@ -1,6 +1,6 @@
 # lab-emi/OpenDPD
 
-⭐ 183 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lab-emi/OpenDPD) · [官网](https://www.tudemi.com) · 组织维护
+⭐ 184 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lab-emi/OpenDPD) · [官网](https://www.tudemi.com) · 组织维护
 
 **PyTorch 功放建模与数字预失真端到端学习框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lab-emi/OpenDPD 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 180 --> 184
-    line [181, 182, 183]
+    title "lab-emi/OpenDPD 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 180 --> 185
+    line [181, 182, 183, 184]
 ```
 
-2026-10-23 181 → 2026-11-25 183（+2）
+2026-10-24 181 → 2026-11-26 184（+3）
 
 
 ---

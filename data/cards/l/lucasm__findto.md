@@ -1,6 +1,6 @@
 # lucasm/findto
 
-⭐ 104 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/lucasm/findto) · [官网](https://aspiral.app) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向普通用户的多源去中心化网络与 AI 搜索助手**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | AGPL-3.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

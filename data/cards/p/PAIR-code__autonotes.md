@@ -45,13 +45,13 @@ PAIR-code（Google）发布的实验性 AI 笔记应用原型：支持导入/新
 
 ```mermaid
 xychart-beta
-    title "PAIR-code/autonotes 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "PAIR-code/autonotes 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 44 --> 47
-    line [45, 46]
+    line [45, 46, 46]
 ```
 
-2026-10-23 45 → 2026-11-25 46（+1）
+2026-10-24 45 → 2026-11-26 46（+1）
 
 
 ---

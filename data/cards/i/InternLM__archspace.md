@@ -1,6 +1,6 @@
 # InternLM/archspace
 
-⭐ 90 · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/InternLM/archspace) · [官网](https://www.archspace.live/) · 组织维护 · 中文 README
+⭐ 91 · Apache-2.0 · 推送 2026-08-27 · [GitHub](https://github.com/InternLM/archspace) · [官网](https://www.archspace.live/) · 组织维护 · 中文 README
 
 **面向社区的 LLM 架构假设开放式验证与知识共享实验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "InternLM/archspace 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 86 --> 91
-    line [87, 88, 89, 87, 89, 90, 90]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 86 --> 92
+    line [87, 88, 89, 87, 89, 90, 91]
 ```
 
-2026-10-23 87 → 2026-11-25 90（+3）
+2026-10-24 87 → 2026-11-26 91（+4）
 
 
 ---

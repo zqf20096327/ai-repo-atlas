@@ -1,6 +1,6 @@
 # Micrurus-Ai/Corvid-lang
 
-⭐ 258 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Micrurus-Ai/Corvid-lang) · 组织维护
+⭐ 258 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Micrurus-Ai/Corvid-lang) · 组织维护
 
 **面向 AI 原生软件的编程语言：把 AI 边界交给编译器检查**
 
@@ -46,12 +46,12 @@ Corvid 是一门通用编程语言，将 agent、tool、prompt、approve、预�
 ```mermaid
 xychart-beta
     title "Micrurus-Ai/Corvid-lang 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 257 --> 259
     line [258, 258]
 ```
 
-2026-10-23 258 → 2026-11-25 258（+0）
+2026-10-24 258 → 2026-11-26 258（+0）
 
 
 ---

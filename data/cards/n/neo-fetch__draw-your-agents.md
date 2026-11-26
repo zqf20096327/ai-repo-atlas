@@ -1,6 +1,6 @@
 # neo-fetch/draw-your-agents
 
-⭐ 27 · TypeScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/neo-fetch/draw-your-agents) · [官网](https://neo-fetch.github.io/draw-your-agents/) · 个人维护
+⭐ 26 · TypeScript · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/neo-fetch/draw-your-agents) · [官网](https://neo-fetch.github.io/draw-your-agents/) · 个人维护
 
 **浏览器内可视化 AI agent 工作流编辑器，编译生成可运行的 Python 项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "neo-fetch/draw-your-agents 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 25 --> 28
+    line [27, 26]
 ```
 
-2026-10-23 27 → 2026-11-25 27（+0）
+2026-10-24 27 → 2026-11-26 26（-1）
 
 
 ---

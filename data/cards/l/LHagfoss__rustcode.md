@@ -1,6 +1,6 @@
 # LHagfoss/rustcode
 
-⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/LHagfoss/rustcode) · [官网](https://rustcode.lhagfoss.com) · 个人维护
+⭐ 19 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/LHagfoss/rustcode) · [官网](https://rustcode.lhagfoss.com) · 个人维护
 
 **Rust 编写的终端 AI 编码 agent，多模型接入与工具沙箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LHagfoss/rustcode 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-26"]
     y-axis "stars" 10 --> 20
     line [11, 12, 11, 15, 16, 17, 18, 19, 19]
 ```
 
-2026-10-23 11 → 2026-11-25 19（+8）
+2026-10-24 11 → 2026-11-26 19（+8）
 
 
 ---

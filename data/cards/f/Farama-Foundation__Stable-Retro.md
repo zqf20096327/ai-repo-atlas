@@ -1,6 +1,6 @@
 # Farama-Foundation/Stable-Retro
 
-⭐ 1,053 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Farama-Foundation/Stable-Retro) · [官网](https://stable-retro.farama.org/) · 组织维护
+⭐ 1,052 · C++ · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Farama-Foundation/Stable-Retro) · [官网](https://stable-retro.farama.org/) · 组织维护
 
 **为强化学习研究者将复古游戏转为 Gymnasium 环境的库**
 
@@ -45,13 +45,13 @@ gym-retro 的维护分支，将经典电子游戏封装为 Gymnasium 强化学�
 
 ```mermaid
 xychart-beta
-    title "Farama-Foundation/Stable-Retro 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 1049 --> 1105
-    line [1099, 1101, 1099, 1100, 1101, 1099, 1100, 1101, 1067, 1057, 1053, 1053]
+    title "Farama-Foundation/Stable-Retro 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 1048 --> 1105
+    line [1101, 1099, 1100, 1101, 1099, 1100, 1101, 1067, 1057, 1053, 1052]
 ```
 
-2026-10-23 1,099 → 2026-11-25 1,053（-46）
+2026-10-24 1,101 → 2026-11-26 1,052（-49）
 
 
 ---

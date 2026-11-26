@@ -1,6 +1,6 @@
 # icaros-usc/pyribs
 
-⭐ 270 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/icaros-usc/pyribs) · [官网](https://pyribs.org) · 组织维护
+⭐ 271 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/icaros-usc/pyribs) · [官网](https://pyribs.org) · 组织维护
 
 **质量多样性（QD）优化的 Python 库，面向科研与算法开发者**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "icaros-usc/pyribs 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 267 --> 271
-    line [268, 269, 270, 270]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 267 --> 272
+    line [268, 269, 270, 271]
 ```
 
-2026-10-23 268 → 2026-11-25 270（+2）
+2026-10-24 268 → 2026-11-26 271（+3）
 
 
 ---

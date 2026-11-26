@@ -1,6 +1,6 @@
 # amscotti/local-LLM-with-RAG
 
-⭐ 290 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/amscotti/local-LLM-with-RAG) · 个人维护
+⭐ 291 · Python · MIT · 推送 2026-07-11 · [GitHub](https://github.com/amscotti/local-LLM-with-RAG) · 个人维护
 
 **本地 LLM 驱动的 agentic RAG 文档问答应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "amscotti/local-LLM-with-RAG 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 287 --> 291
-    line [288, 289, 288, 290, 290]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 287 --> 292
+    line [288, 289, 288, 290, 291]
 ```
 
-2026-10-23 288 → 2026-11-25 290（+2）
+2026-10-24 288 → 2026-11-26 291（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ragpi/ragpi
 
-⭐ 260 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/ragpi/ragpi) · [官网](https://docs.ragpi.io) · 组织维护
+⭐ 261 · Python · MIT · 推送 2026-08-08 · [GitHub](https://github.com/ragpi/ragpi) · [官网](https://docs.ragpi.io) · 组织维护
 
 **基于自有文档构建知识库并生成回答的开源 AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ragpi/ragpi 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 259 --> 261
-    line [260, 260]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 259 --> 262
+    line [260, 261]
 ```
 
-2026-10-23 260 → 2026-11-25 260（+0）
+2026-10-24 260 → 2026-11-26 261（+1）
 
 
 ---

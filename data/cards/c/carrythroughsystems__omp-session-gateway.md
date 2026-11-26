@@ -1,6 +1,6 @@
 # carrythroughsystems/omp-session-gateway
 
-⭐ 52 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/carrythroughsystems/omp-session-gateway) · [官网](https://carrythroughsystems.github.io/omp-session-gateway/) · 组织维护
+⭐ 52 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/carrythroughsystems/omp-session-gateway) · [官网](https://carrythroughsystems.github.io/omp-session-gateway/) · 组织维护
 
 **手机浏览器集中查看与进入 OMP 终端会话的私有网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "carrythroughsystems/omp-session-gateway 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-26"]
     y-axis "stars" 43 --> 53
     line [44, 46, 47, 44, 50, 51, 52, 52]
 ```
 
-2026-10-23 44 → 2026-11-25 52（+8）
+2026-10-24 44 → 2026-11-26 52（+8）
 
 
 ---

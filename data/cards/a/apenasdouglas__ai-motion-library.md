@@ -1,6 +1,6 @@
 # apenasdouglas/ai-motion-library
 
-⭐ 84 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/apenasdouglas/ai-motion-library) · [官网](https://apenasdouglas.github.io/ai-motion-library/) · 个人维护
+⭐ 86 · MIT · 推送 2026-10-14 · [GitHub](https://github.com/apenasdouglas/ai-motion-library) · [官网](https://apenasdouglas.github.io/ai-motion-library/) · 个人维护
 
 **面向 Claude Code 的 24 种动画效果提示词库与技能包**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "apenasdouglas/ai-motion-library 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 72 --> 85
-    line [73, 74, 75, 73, 78, 79, 80, 81, 82, 81, 82, 84]
+    title "apenasdouglas/ai-motion-library 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 72 --> 87
+    line [73, 74, 75, 73, 78, 79, 80, 81, 82, 81, 82, 84, 86]
 ```
 
-2026-10-23 73 → 2026-11-25 84（+11）
+2026-10-24 73 → 2026-11-26 86（+13）
 
 
 ---

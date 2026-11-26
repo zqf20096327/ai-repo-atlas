@@ -1,6 +1,6 @@
 # Bencibr/bugx
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Bencibr/bugx) · [官网](https://bugx.dev) · 个人维护 · 中文 README
+⭐ 6 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Bencibr/bugx) · [官网](https://bugx.dev) · 个人维护 · 中文 README
 
 **装进 AI 编程助手的代码审计 Agent，输出可复现漏洞账本**
 
@@ -46,13 +46,13 @@ BugX 是通过 MCP 接入 Claude Code、Codex、Cline、OpenCode、ZCode 等宿�
 
 ```mermaid
 xychart-beta
-    title "Bencibr/bugx 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    title "Bencibr/bugx 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 7
-    line [3, 6]
+    line [3, 6, 6]
 ```
 
-2026-11-22 3 → 2026-11-25 6（+3）
+2026-11-22 3 → 2026-11-26 6（+3）
 
 
 ---

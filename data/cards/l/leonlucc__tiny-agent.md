@@ -1,6 +1,6 @@
 # leonlucc/tiny-agent
 
-⭐ 28 · JavaScript · 推送 2026-08-06 · [GitHub](https://github.com/leonlucc/tiny-agent) · [官网](https://tinyagent.leonlu.cc) · 个人维护 · 中文 README
+⭐ 29 · JavaScript · 推送 2026-08-06 · [GitHub](https://github.com/leonlucc/tiny-agent) · [官网](https://tinyagent.leonlu.cc) · 个人维护 · 中文 README
 
 **从零手写 AI Agent 的渐进式教学项目与配套教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leonlucc/tiny-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 29（+1）
 
 
 ---

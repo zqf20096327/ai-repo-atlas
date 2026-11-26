@@ -1,6 +1,6 @@
 # giienew/exsala-hermes-mod
 
-⭐ 21 · Python · 推送 2026-11-05 · [GitHub](https://github.com/giienew/exsala-hermes-mod) · 个人维护
+⭐ 22 · Python · 推送 2026-11-05 · [GitHub](https://github.com/giienew/exsala-hermes-mod) · 个人维护
 
 **面向 Hermes Agent 的免确认执行配置与 172 技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "giienew/exsala-hermes-mod 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 14 --> 22
-    line [15, 17, 16, 18, 20, 21, 21]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 14 --> 23
+    line [15, 17, 16, 18, 20, 21, 22]
 ```
 
-2026-11-08 15 → 2026-11-25 21（+6）
+2026-11-08 15 → 2026-11-26 22（+7）
 
 
 ---

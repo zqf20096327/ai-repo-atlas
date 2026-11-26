@@ -1,6 +1,6 @@
 # youngkaherbert96-ship-it/coregold-quickstart-guide
 
-⭐ 94 · 推送 2026-10-30 · [GitHub](https://github.com/youngkaherbert96-ship-it/coregold-quickstart-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 118 · 推送 2026-10-30 · [GitHub](https://github.com/youngkaherbert96-ship-it/coregold-quickstart-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **CoreGold 虚拟卡开卡订阅操作指南，用于海外平台支付**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "youngkaherbert96-ship-it/coregold-quickstart-guide 星数(近 10 点)"
-    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 0 --> 102
-    line [6, 49, 70, 83, 88, 94, 93, 90, 91, 94]
+    title "youngkaherbert96-ship-it/coregold-quickstart-guide 星数(近 11 点)"
+    x-axis ["2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 129
+    line [6, 49, 70, 83, 88, 94, 93, 90, 91, 94, 118]
 ```
 
-2026-11-01 6 → 2026-11-25 94（+88）
+2026-11-01 6 → 2026-11-26 118（+112）
 
 
 ---

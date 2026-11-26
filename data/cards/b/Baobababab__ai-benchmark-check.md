@@ -1,6 +1,6 @@
 # Baobababab/ai-benchmark-check
 
-⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Baobababab/ai-benchmark-check) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Baobababab/ai-benchmark-check) · 个人维护
 
 **基于公开榜单与价格推荐性价比 AI 模型的命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Baobababab/ai-benchmark-check 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 7
     line [3, 5, 6, 6]
 ```
 
-2026-11-11 3 → 2026-11-25 6（+3）
+2026-11-11 3 → 2026-11-26 6（+3）
 
 
 ---

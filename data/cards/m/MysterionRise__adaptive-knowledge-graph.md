@@ -1,6 +1,6 @@
 # MysterionRise/adaptive-knowledge-graph
 
-⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MysterionRise/adaptive-knowledge-graph) · 个人维护
+⭐ 24 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MysterionRise/adaptive-knowledge-graph) · 个人维护
 
 **本地优先的知识图谱 AI 导师：面向开放教材的带引用问答与自适应测验**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MysterionRise/adaptive-knowledge-graph 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-26"]
     y-axis "stars" 16 --> 25
     line [17, 18, 17, 20, 21, 22, 23, 24, 24]
 ```
 
-2026-10-23 17 → 2026-11-25 24（+7）
+2026-10-24 17 → 2026-11-26 24（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # rasatpetabit/masterplan
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rasatpetabit/masterplan) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rasatpetabit/masterplan) · 个人维护
 
 **Claude Code/Codex 插件：头脑风暴→计划→执行的开发工作流编排**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rasatpetabit/masterplan 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

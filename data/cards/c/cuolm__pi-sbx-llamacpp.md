@@ -1,6 +1,6 @@
 # cuolm/pi-sbx-llamacpp
 
-⭐ 35 · MIT · 推送 2026-06-16 · [GitHub](https://github.com/cuolm/pi-sbx-llamacpp) · 个人维护
+⭐ 36 · MIT · 推送 2026-06-16 · [GitHub](https://github.com/cuolm/pi-sbx-llamacpp) · 个人维护
 
 **在 Docker sbx 沙箱中运行 Pi 编程 agent 的配置指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cuolm/pi-sbx-llamacpp 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 30 --> 36
-    line [31, 32, 33, 32, 33, 34, 35, 35]
+    title "cuolm/pi-sbx-llamacpp 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 32, 33, 34, 35, 36]
 ```
 
-2026-10-23 31 → 2026-11-25 35（+4）
+2026-10-24 32 → 2026-11-26 36（+4）
 
 
 ---

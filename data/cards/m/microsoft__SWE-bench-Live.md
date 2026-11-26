@@ -1,6 +1,6 @@
 # microsoft/SWE-bench-Live
 
-⭐ 264 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/microsoft/SWE-bench-Live) · [官网](https://swe-bench-live.github.io/) · 组织维护
+⭐ 265 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/SWE-bench-Live) · [官网](https://swe-bench-live.github.io/) · 组织维护
 
 **为 agent 开发者提供持续更新的多语言 SWE 基准与评测工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/SWE-bench-Live 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 257 --> 265
-    line [258, 259, 260, 261, 259, 262, 263, 264, 264]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 257 --> 266
+    line [258, 259, 260, 261, 259, 262, 263, 264, 265]
 ```
 
-2026-10-23 258 → 2026-11-25 264（+6）
+2026-10-24 258 → 2026-11-26 265（+7）
 
 
 ---

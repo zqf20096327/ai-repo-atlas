@@ -1,6 +1,6 @@
 # GodsBoy/hermes-tuneup
 
-⭐ 3 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/GodsBoy/hermes-tuneup) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/GodsBoy/hermes-tuneup) · 个人维护
 
 **Hermes Agent 插件：检查各 profile 的压缩触发点与浪费配额的设置**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GodsBoy/hermes-tuneup 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-12", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 4（+1）
 
 
 ---

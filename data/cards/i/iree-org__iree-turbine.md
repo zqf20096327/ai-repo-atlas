@@ -1,6 +1,6 @@
 # iree-org/iree-turbine
 
-⭐ 112 · Python · Apache-2.0 · 推送 2026-07-20 · [GitHub](https://github.com/iree-org/iree-turbine) · [官网](https://iree.dev/guides/ml-frameworks/pytorch/) · 组织维护
+⭐ 112 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/iree-org/iree-turbine) · [官网](https://iree.dev/guides/ml-frameworks/pytorch/) · 组织维护
 
 **IREE 的 PyTorch 前端：将 PyTorch 模型编译为部署产物**
 
@@ -45,12 +45,12 @@ IREE Turbine 是 IREE 编译器/运行时的 PyTorch 前端，基于 Torch Dynam
 ```mermaid
 xychart-beta
     title "iree-org/iree-turbine 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
     y-axis "stars" 110 --> 113
     line [111, 112, 112]
 ```
 
-2026-10-23 111 → 2026-11-25 112（+1）
+2026-10-24 111 → 2026-11-26 112（+1）
 
 
 ---

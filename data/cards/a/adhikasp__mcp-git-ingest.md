@@ -1,6 +1,6 @@
 # adhikasp/mcp-git-ingest
 
-⭐ 316 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/adhikasp/mcp-git-ingest) · 个人维护
+⭐ 315 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/adhikasp/mcp-git-ingest) · 个人维护
 
 **供 LLM 读取 GitHub 仓库结构与关键文件的 MCP 服务器**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "adhikasp/mcp-git-ingest 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 314 --> 317
-    line [315, 316, 316]
+    line [315, 316, 315]
 ```
 
-2026-11-10 315 → 2026-11-25 316（+1）
+2026-11-10 315 → 2026-11-26 315（+0）
 
 
 ---

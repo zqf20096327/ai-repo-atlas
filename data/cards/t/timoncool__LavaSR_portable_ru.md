@@ -1,6 +1,6 @@
 # timoncool/LavaSR_portable_ru
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/timoncool/LavaSR_portable_ru) · [官网](https://github.com/timoncool/speech-studio) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/timoncool/LavaSR_portable_ru) · [官网](https://github.com/timoncool/speech-studio) · 个人维护
 
 **Windows 便携语音增强工具：LavaSR 超分辨率+降噪，一键安装离线运行**
 
@@ -44,13 +44,13 @@ LavaSR 语音增强模型的 Windows 便携封装：将 8-48kHz 音频超分辨�
 
 ```mermaid
 xychart-beta
-    title "timoncool/LavaSR_portable_ru 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 15 --> 20
-    line [16, 17, 18, 17, 18, 19, 19]
+    title "timoncool/LavaSR_portable_ru 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19, 19]
 ```
 
-2026-10-23 16 → 2026-11-25 19（+3）
+2026-10-24 17 → 2026-11-26 19（+2）
 
 
 ---

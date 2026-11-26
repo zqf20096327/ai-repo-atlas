@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "franciscovillaescusa/Quijote-simulations 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 106 --> 108
     line [107, 107]
 ```
 
-2026-10-23 107 → 2026-11-25 107（+0）
+2026-10-24 107 → 2026-11-26 107（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TheAlejo160/orchestra
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TheAlejo160/orchestra) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/TheAlejo160/orchestra) · 个人维护
 
 **Claude Code 插件：多 CLI agent 任务分派与协调**
 
@@ -46,12 +46,12 @@ orchestra 是 Claude Code 的插件（mod），按任务类型、难度、上下
 ```mermaid
 xychart-beta
     title "TheAlejo160/orchestra 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 4 --> 9
-    line [5, 7, 8, 8]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 4 --> 11
+    line [5, 7, 8, 10]
 ```
 
-2026-11-08 5 → 2026-11-25 8（+3）
+2026-11-08 5 → 2026-11-26 10（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # moiexpositoalonsolab/Deepbiosphere
 
-⭐ 34 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/moiexpositoalonsolab/Deepbiosphere) · 组织维护
+⭐ 35 · Python · MIT · 推送 2025-12-01 · [GitHub](https://github.com/moiexpositoalonsolab/Deepbiosphere) · 组织维护
 
 **深度学习绘制植物物种分布图的科研代码库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moiexpositoalonsolab/Deepbiosphere 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 32 --> 35
-    line [33, 34, 34]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 35]
 ```
 
-2026-10-23 33 → 2026-11-25 34（+1）
+2026-10-24 33 → 2026-11-26 35（+2）
 
 
 ---

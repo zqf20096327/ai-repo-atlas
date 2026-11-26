@@ -1,6 +1,6 @@
 # Nauro-AI/nauro
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Nauro-AI/nauro) · [官网](https://nauro.ai/decision-system) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Nauro-AI/nauro) · [官网](https://nauro.ai/decision-system) · 组织维护
 
 **为 AI 辅助开发记录并复用项目决策的系统**
 
@@ -45,13 +45,13 @@ Nauro 记录开发者批准的项目决策及其理由与被否决的替代方�
 
 ```mermaid
 xychart-beta
-    title "Nauro-AI/nauro 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "Nauro-AI/nauro 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 12
-    line [11, 10]
+    line [11, 10, 10]
 ```
 
-2026-10-23 11 → 2026-11-25 10（-1）
+2026-10-24 11 → 2026-11-26 10（-1）
 
 
 ---

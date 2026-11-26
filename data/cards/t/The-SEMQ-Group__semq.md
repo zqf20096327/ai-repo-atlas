@@ -1,6 +1,6 @@
 # The-SEMQ-Group/semq
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/The-SEMQ-Group/semq) · [官网](https://thesemqgroup.ai) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/The-SEMQ-Group/semq) · [官网](https://thesemqgroup.ai) · 组织维护
 
 **嵌入向量的确定性符号编码库：跨语言字节一致、可 diff 可验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-SEMQ-Group/semq 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # SalyyS1/loraspectra
 
-⭐ 3 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SalyyS1/loraspectra) · [官网](https://salyys1.github.io/loraspectra/) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SalyyS1/loraspectra) · [官网](https://salyys1.github.io/loraspectra/) · 个人维护
 
 **LoRA 适配器的 SVD 审计、压缩与合并 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SalyyS1/loraspectra 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 3（+0）
 
 
 ---

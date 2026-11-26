@@ -1,6 +1,6 @@
 # kevinthedang/discord-ollama
 
-⭐ 196 · TypeScript · CC-BY-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/kevinthedang/discord-ollama) · 个人维护
+⭐ 197 · TypeScript · CC-BY-4.0 · 推送 2026-10-22 · [GitHub](https://github.com/kevinthedang/discord-ollama) · 个人维护
 
 **连接本地 Ollama 模型的 Discord 聊天机器人**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kevinthedang/discord-ollama 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 195 --> 197
-    line [196, 196]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 195 --> 198
+    line [196, 197]
 ```
 
-2026-10-23 196 → 2026-11-25 196（+0）
+2026-10-24 196 → 2026-11-26 197（+1）
 
 
 ---

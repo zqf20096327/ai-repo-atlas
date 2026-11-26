@@ -46,13 +46,13 @@ Fork 自 rohitg00/ai-engineering-from-scratch 的中文课程仓库，覆盖 20 
 
 ```mermaid
 xychart-beta
-    title "cluster1900/ai-engineering-from-scratch-zh 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "cluster1900/ai-engineering-from-scratch-zh 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 13 --> 16
-    line [14, 15]
+    line [14, 15, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

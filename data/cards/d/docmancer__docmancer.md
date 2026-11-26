@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "docmancer/docmancer 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 131 --> 134
-    line [132, 133, 133]
+    title "docmancer/docmancer 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 132 --> 134
+    line [133, 133]
 ```
 
-2026-10-23 132 → 2026-11-25 133（+1）
+2026-10-24 133 → 2026-11-26 133（+0）
 
 
 ---

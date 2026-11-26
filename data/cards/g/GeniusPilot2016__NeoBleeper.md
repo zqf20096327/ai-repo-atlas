@@ -46,12 +46,12 @@ NeoBleeper 是一款运行于 Windows 的乐曲创作软件，通过访问主板
 ```mermaid
 xychart-beta
     title "GeniusPilot2016/NeoBleeper 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-12 10 → 2026-11-25 10（+0）
+2026-11-12 10 → 2026-11-26 10（+0）
 
 
 ---

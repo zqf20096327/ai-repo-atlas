@@ -1,6 +1,6 @@
 # FaustoS88/Pydantic-AI-Pinescript-Expert
 
-⭐ 70 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/FaustoS88/Pydantic-AI-Pinescript-Expert) · 个人维护
+⭐ 71 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/FaustoS88/Pydantic-AI-Pinescript-Expert) · 个人维护
 
 **基于 Pydantic AI 的 Pine Script v6 专家 RAG 问答与代码生成 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FaustoS88/Pydantic-AI-Pinescript-Expert 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-26"]
     y-axis "stars" 66 --> 72
-    line [67, 68, 67, 70, 71, 70, 70]
+    line [67, 68, 67, 70, 71, 70, 71]
 ```
 
-2026-10-23 67 → 2026-11-25 70（+3）
+2026-10-24 67 → 2026-11-26 71（+4）
 
 
 ---

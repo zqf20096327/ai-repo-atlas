@@ -1,6 +1,6 @@
 # Wanbao114514/chaoxing-watch
 
-⭐ 3 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Wanbao114514/chaoxing-watch) · 个人维护 · 中文 README
+⭐ 4 · Shell · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Wanbao114514/chaoxing-watch) · 个人维护 · 中文 README
 
 **学习通章节刷课 agent skill：自动播放视频并答题**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Wanbao114514/chaoxing-watch 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

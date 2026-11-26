@@ -1,6 +1,6 @@
 # lucidrains/deep-cross-attention
 
-⭐ 108 · Python · MIT · 推送 2026-04-03 · [GitHub](https://github.com/lucidrains/deep-cross-attention) · 个人维护
+⭐ 110 · Python · MIT · 推送 2026-04-03 · [GitHub](https://github.com/lucidrains/deep-cross-attention) · 个人维护
 
 **DeepCrossAttention 注意力机制的 PyTorch 实现，供研究者使用**
 
@@ -43,13 +43,13 @@ Heddes 等人在 Google Research 提出的 DeepCrossAttention（DCA）的 PyTorc
 
 ```mermaid
 xychart-beta
-    title "lucidrains/deep-cross-attention 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 106 --> 109
-    line [107, 108]
+    title "lucidrains/deep-cross-attention 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 106 --> 111
+    line [107, 108, 110]
 ```
 
-2026-10-23 107 → 2026-11-25 108（+1）
+2026-10-24 107 → 2026-11-26 110（+3）
 
 
 ---

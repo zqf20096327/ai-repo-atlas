@@ -1,6 +1,6 @@
 # AhsanAyaz/react-in-90ish
 
-⭐ 139 · HTML · 推送 2025-12-05 · [GitHub](https://github.com/AhsanAyaz/react-in-90ish) · [官网](https://ahsanayaz.github.io/react-in-90ish/) · 个人维护
+⭐ 140 · HTML · 推送 2025-12-05 · [GitHub](https://github.com/AhsanAyaz/react-in-90ish) · [官网](https://ahsanayaz.github.io/react-in-90ish/) · 个人维护
 
 **90 分钟 React 速成教程，含视频与全栈实战项目**
 
@@ -44,13 +44,13 @@ React 19 速成课程仓库：包含讲解幻灯片、YouTube 视频教程与动
 
 ```mermaid
 xychart-beta
-    title "AhsanAyaz/react-in-90ish 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 135 --> 140
-    line [136, 137, 138, 139, 137, 139, 139]
+    title "AhsanAyaz/react-in-90ish 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 136 --> 141
+    line [137, 138, 139, 137, 139, 140]
 ```
 
-2026-10-23 136 → 2026-11-25 139（+3）
+2026-10-24 137 → 2026-11-26 140（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # siboehm/lleaves
 
-⭐ 486 · Python · MIT · 推送 2026-01-01 · [GitHub](https://github.com/siboehm/lleaves) · [官网](https://lleaves.readthedocs.io/en/latest/) · 个人维护
+⭐ 487 · Python · MIT · 推送 2026-01-01 · [GitHub](https://github.com/siboehm/lleaves) · [官网](https://lleaves.readthedocs.io/en/latest/) · 个人维护
 
 **将训练好的 LightGBM 模型编译为机器码以加速预测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "siboehm/lleaves 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 483 --> 489
-    line [484, 485, 486, 485, 486, 487, 488, 486, 486]
+    title "siboehm/lleaves 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 484 --> 489
+    line [485, 486, 485, 486, 487, 488, 486, 487]
 ```
 
-2026-10-23 484 → 2026-11-25 486（+2）
+2026-10-24 485 → 2026-11-26 487（+2）
 
 
 ---

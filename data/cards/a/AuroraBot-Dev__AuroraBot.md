@@ -1,6 +1,6 @@
 # AuroraBot-Dev/AuroraBot
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-24 · [GitHub](https://github.com/AuroraBot-Dev/AuroraBot) · [官网](https://aurorabot-dev.github.io/AuroraBot/) · 组织维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/AuroraBot-Dev/AuroraBot) · [官网](https://aurorabot-dev.github.io/AuroraBot/) · 组织维护 · 中文 README
 
 **为自主 Agent 提供持续存在运行环境的 Bot 框架**
 
@@ -46,12 +46,12 @@ AuroraBot 是一个以 Bot 为主体设计的 Agent 运行框架：Bot 持有自
 ```mermaid
 xychart-beta
     title "AuroraBot-Dev/AuroraBot 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 16 --> 20
     line [17, 18, 17, 18, 19, 19]
 ```
 
-2026-10-23 17 → 2026-11-25 19（+2）
+2026-10-24 17 → 2026-11-26 19（+2）
 
 
 ---

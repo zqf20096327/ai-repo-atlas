@@ -1,6 +1,6 @@
 # AakashKumarNain/annotated_research_papers
 
-⭐ 2,803 · MIT · 推送 2026-08-29 · [GitHub](https://github.com/AakashKumarNain/annotated_research_papers) · 个人维护
+⭐ 2,804 · MIT · 推送 2026-08-29 · [GitHub](https://github.com/AakashKumarNain/annotated_research_papers) · 个人维护
 
 **深度学习研究论文的批注共享库，帮助读者理解论文**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AakashKumarNain/annotated_research_papers 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-26"]
     y-axis "stars" 2802 --> 2806
-    line [2804, 2805, 2803, 2804, 2803, 2803]
+    line [2804, 2805, 2803, 2804, 2803, 2804]
 ```
 
-2026-10-23 2,804 → 2026-11-25 2,803（-1）
+2026-10-24 2,804 → 2026-11-26 2,804（+0）
 
 
 ---

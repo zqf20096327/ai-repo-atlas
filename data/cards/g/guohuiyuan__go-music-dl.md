@@ -1,6 +1,6 @@
 # guohuiyuan/go-music-dl
 
-⭐ 6,719 · Go · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/guohuiyuan/go-music-dl) · [官网](https://music.zkkp.nyc.mn) · 个人维护 · 中文 README
+⭐ 6,780 · Go · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/guohuiyuan/go-music-dl) · [官网](https://music.zkkp.nyc.mn) · 个人维护 · 中文 README
 
 **面向个人用户的多平台音乐搜索下载工具，支持 AI 接口操控播放器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "guohuiyuan/go-music-dl 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 6593 --> 6730
-    line [6604, 6639, 6667, 6689, 6719]
+    title "guohuiyuan/go-music-dl 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 6587 --> 6797
+    line [6604, 6639, 6667, 6689, 6719, 6780]
 ```
 
-2026-11-20 6,604 → 2026-11-25 6,719（+115）
+2026-11-20 6,604 → 2026-11-26 6,780（+176）
 
 
 ---

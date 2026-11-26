@@ -1,6 +1,6 @@
 # microsoft/typechat.net
 
-⭐ 230 · C# · MIT · 推送 2026-10-27 · [GitHub](https://github.com/microsoft/typechat.net) · 组织维护
+⭐ 230 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/typechat.net) · 组织维护
 
 **帮助 .NET 开发者用强类型构建自然语言界面库**
 
@@ -46,12 +46,12 @@ TypeChat.NET 提供跨平台 .NET 库，借助语言模型把用户自然语言�
 ```mermaid
 xychart-beta
     title "microsoft/typechat.net 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 229 --> 231
     line [230, 230]
 ```
 
-2026-10-23 230 → 2026-11-25 230（+0）
+2026-10-24 230 → 2026-11-26 230（+0）
 
 
 ---

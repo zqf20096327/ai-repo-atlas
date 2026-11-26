@@ -1,6 +1,6 @@
 # mikenguyen13/data_analysis
 
-⭐ 101 · Stata · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/mikenguyen13/data_analysis) · [官网](https://bookdown.org/mike/data_analysis/) · 个人维护
+⭐ 101 · Stata · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/mikenguyen13/data_analysis) · [官网](https://bookdown.org/mike/data_analysis/) · 个人维护
 
 **面向零基础读者的数据分析与因果推断开源书籍（R）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mikenguyen13/data_analysis 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 98 --> 102
     line [99, 100, 101, 99, 101, 101]
 ```
 
-2026-10-23 99 → 2026-11-25 101（+2）
+2026-10-24 99 → 2026-11-26 101（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # arturict/tagvico-ai
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/arturict/tagvico-ai) · [官网](https://tagvico.arturf.ch/) · 个人维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/arturict/tagvico-ai) · [官网](https://tagvico.arturf.ch/) · 个人维护
 
 **Paperless-ngx 的自托管行动中心与审批门控 AI 伴侣**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "arturict/tagvico-ai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 35（+0）
 
 
 ---

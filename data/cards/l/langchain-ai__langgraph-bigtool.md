@@ -1,6 +1,6 @@
 # langchain-ai/langgraph-bigtool
 
-⭐ 562 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langchain-ai/langgraph-bigtool) · 组织维护
+⭐ 563 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/langchain-ai/langgraph-bigtool) · 组织维护
 
 **Python 库：为 LangGraph agent 提供海量工具的检索接入**
 
@@ -44,12 +44,12 @@ langchain-ai 团队维护的 Python 库，基于 LangGraph 长期记忆存储，
 ```mermaid
 xychart-beta
     title "langchain-ai/langgraph-bigtool 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 557 --> 563
-    line [558, 559, 558, 559, 561, 562, 561, 562, 562]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 557 --> 564
+    line [558, 559, 558, 559, 561, 562, 561, 562, 563]
 ```
 
-2026-10-23 558 → 2026-11-25 562（+4）
+2026-10-24 558 → 2026-11-26 563（+5）
 
 
 ---

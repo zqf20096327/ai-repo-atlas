@@ -1,6 +1,6 @@
 # SantanderAI/mech-gov-framework
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/mech-gov-framework) · [官网](https://github.com/SantanderAI) · 组织维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-10-01 · [GitHub](https://github.com/SantanderAI/mech-gov-framework) · [官网](https://github.com/SantanderAI) · 组织维护
 
 **LLM 高风险决策的机械治理框架：硬门禁与治理度量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SantanderAI/mech-gov-framework 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 79 --> 82
+    line [80, 81]
 ```
 
-2026-10-23 80 → 2026-11-25 80（+0）
+2026-10-24 80 → 2026-11-26 81（+1）
 
 
 ---

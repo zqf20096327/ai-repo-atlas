@@ -1,6 +1,6 @@
 # evolution-foundation/evo-crm-community
 
-⭐ 312 · HTML · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/evolution-foundation/evo-crm-community) · [官网](https://evolutionfoundation.com.br) · 组织维护
+⭐ 313 · HTML · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/evolution-foundation/evo-crm-community) · [官网](https://evolutionfoundation.com.br) · 组织维护
 
 **自托管单租户 AI 客服 CRM 平台（Evo CRM 开源版）**
 
@@ -45,13 +45,13 @@ Evo CRM 的开源社区版（v1.0.0-rc2），以 monorepo + Git submodules 聚�
 
 ```mermaid
 xychart-beta
-    title "evolution-foundation/evo-crm-community 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 300 --> 313
-    line [301, 302, 303, 304, 302, 308, 310, 311, 312, 312]
+    title "evolution-foundation/evo-crm-community 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 301 --> 314
+    line [302, 303, 304, 302, 308, 310, 311, 312, 313]
 ```
 
-2026-10-23 301 → 2026-11-25 312（+11）
+2026-10-24 302 → 2026-11-26 313（+11）
 
 
 ---

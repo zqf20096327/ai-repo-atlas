@@ -1,6 +1,6 @@
 # woctezuma/deep-learning-resources
 
-⭐ 45 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/woctezuma/deep-learning-resources) · 个人维护
+⭐ 46 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/woctezuma/deep-learning-resources) · 个人维护
 
 **深度学习书籍、课程、视频与博客的学习资源清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "woctezuma/deep-learning-resources 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-11-08 45 → 2026-11-25 45（+0）
+2026-11-08 45 → 2026-11-26 46（+1）
 
 
 ---

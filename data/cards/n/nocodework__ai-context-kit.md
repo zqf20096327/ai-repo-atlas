@@ -1,6 +1,6 @@
 # nocodework/ai-context-kit
 
-⭐ 36 · Shell · MIT · 推送 2026-10-16 · [GitHub](https://github.com/nocodework/ai-context-kit) · [官网](https://nocodework.io) · 组织维护
+⭐ 37 · Shell · MIT · 推送 2026-10-16 · [GitHub](https://github.com/nocodework/ai-context-kit) · [官网](https://nocodework.io) · 组织维护
 
 **一次编写个人/公司上下文 Markdown，复用于各 AI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nocodework/ai-context-kit 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 34 --> 37
-    line [35, 36, 36]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 34 --> 38
+    line [35, 36, 37]
 ```
 
-2026-10-23 35 → 2026-11-25 36（+1）
+2026-10-24 35 → 2026-11-26 37（+2）
 
 
 ---

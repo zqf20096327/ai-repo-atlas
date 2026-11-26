@@ -1,6 +1,6 @@
 # bojackduy/opencode-web-bridges
 
-⭐ 3 · Go · AGPL-3.0 · 推送 2026-11-01 · [GitHub](https://github.com/bojackduy/opencode-web-bridges) · [官网](https://bojackduy.github.io/opencode-web-bridges/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **将已有 ChatGPT/Gemini 等网页登录会话接入 OpenCode 的插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | AGPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

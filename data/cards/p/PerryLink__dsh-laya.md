@@ -1,6 +1,6 @@
 # PerryLink/dsh-laya
 
-⭐ 10 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-laya) · [官网](https://perrylink.github.io/plugins/dsh-laya/) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PerryLink/dsh-laya) · [官网](https://perrylink.github.io/plugins/dsh-laya/) · 个人维护 · 中文 README
 
 **将 Laya 决策模型接入 DeepSeek Harness 的插件，state 不出本机**
 
@@ -45,13 +45,13 @@ DeepSeek Harness 的社区插件（0.1.9），把 Laya 有类型决策模型（n
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-laya 星数(近 2 点)"
-    x-axis ["2026-10-18", "2026-11-25"]
+    title "PerryLink/dsh-laya 星数(近 3 点)"
+    x-axis ["2026-10-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 6 --> 11
-    line [7, 10]
+    line [7, 10, 10]
 ```
 
-2026-10-18 7 → 2026-11-25 10（+3）
+2026-10-18 7 → 2026-11-26 10（+3）
 
 
 ---

@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "ciouskeila-hue/cybercode-cli 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    title "ciouskeila-hue/cybercode-cli 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 44 --> 47
-    line [45, 46, 45]
+    line [45, 46, 45, 45]
 ```
 
-2026-10-23 45 → 2026-11-25 45（+0）
+2026-10-24 45 → 2026-11-26 45（+0）
 
 
 ---

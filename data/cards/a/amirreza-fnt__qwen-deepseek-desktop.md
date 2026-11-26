@@ -40,6 +40,18 @@
 > L3: **A free, open-source desktop AI coding assistant for Windows — chat with Qwen and DeepSeek in one app, stream full 
 > L19: The web chats of Qwen and DeepSeek are great at code, but copying code back and forth into your editor is slow. Thi
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "amirreza-fnt/qwen-deepseek-desktop 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `4389de9d68cf` · [字段定义](../../DATASET.md)*

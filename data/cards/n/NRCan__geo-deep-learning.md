@@ -1,6 +1,6 @@
 # NRCan/geo-deep-learning
 
-⭐ 208 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/NRCan/geo-deep-learning) · [官网](https://github.com/NRCan/geo-deep-learning/tree/main?tab=readme-ov-file#readme) · 组织维护
+⭐ 209 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/NRCan/geo-deep-learning) · [官网](https://github.com/NRCan/geo-deep-learning/tree/main?tab=readme-ov-file#readme) · 组织维护
 
 **地球观测数据的地理空间深度学习训练框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NRCan/geo-deep-learning 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 203 --> 209
-    line [204, 205, 206, 204, 206, 208, 208]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 203 --> 210
+    line [204, 205, 206, 204, 206, 208, 209]
 ```
 
-2026-10-23 204 → 2026-11-25 208（+4）
+2026-10-24 204 → 2026-11-26 209（+5）
 
 
 ---

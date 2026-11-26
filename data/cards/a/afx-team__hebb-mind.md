@@ -1,6 +1,6 @@
 # afx-team/hebb-mind
 
-⭐ 58 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/afx-team/hebb-mind) · [官网](https://afx-team.github.io/hebb-mind/) · 组织维护 · 中文 README
+⭐ 59 · Python · MIT · 推送 2026-08-03 · [GitHub](https://github.com/afx-team/hebb-mind) · [官网](https://afx-team.github.io/hebb-mind/) · 组织维护 · 中文 README
 
 **给 AI agent 的记忆框架：编码→巩固→检索→遗忘闭环**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "afx-team/hebb-mind 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 52 --> 59
-    line [53, 54, 53, 57, 58, 58]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 52 --> 60
+    line [53, 54, 53, 57, 58, 59]
 ```
 
-2026-10-23 53 → 2026-11-25 58（+5）
+2026-10-24 53 → 2026-11-26 59（+6）
 
 
 ---

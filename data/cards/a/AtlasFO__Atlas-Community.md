@@ -1,6 +1,6 @@
 # AtlasFO/Atlas-Community
 
-⭐ 121 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/AtlasFO/Atlas-Community) · [官网](https://www.dfir-systems.de) · 组织维护
+⭐ 122 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/AtlasFO/Atlas-Community) · [官网](https://www.dfir-systems.de) · 组织维护
 
 **自主 DFIR 取证调查 agent：对磁盘/内存/日志跑完整调查**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AtlasFO/Atlas-Community 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-25"]
+    title "AtlasFO/Atlas-Community 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 0 --> 133
-    line [4, 5, 4, 118, 120, 121, 122, 120, 121]
+    line [4, 5, 4, 118, 120, 121, 122, 120, 121, 122]
 ```
 
-2026-10-23 4 → 2026-11-25 121（+117）
+2026-10-24 4 → 2026-11-26 122（+118）
 
 
 ---

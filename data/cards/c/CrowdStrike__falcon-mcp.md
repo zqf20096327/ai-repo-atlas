@@ -1,6 +1,6 @@
 # CrowdStrike/falcon-mcp
 
-⭐ 289 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/CrowdStrike/falcon-mcp) · [官网](https://developer.crowdstrike.com/falcon-mcp/overview/) · 组织维护
+⭐ 290 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/CrowdStrike/falcon-mcp) · [官网](https://developer.crowdstrike.com/falcon-mcp/overview/) · 组织维护
 
 **将 AI agent 接入 CrowdStrike Falcon 平台做安全分析的 MCP 服务器**
 
@@ -45,13 +45,13 @@ falcon-mcp 是一个 Model Context Protocol 服务器，向 AI agent 提供对 C
 
 ```mermaid
 xychart-beta
-    title "CrowdStrike/falcon-mcp 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 271 --> 290
-    line [272, 273, 274, 273, 277, 279, 281, 282, 284, 287, 288, 289, 289]
+    title "CrowdStrike/falcon-mcp 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 272 --> 291
+    line [273, 274, 273, 277, 279, 281, 282, 284, 287, 288, 289, 290]
 ```
 
-2026-10-23 272 → 2026-11-25 289（+17）
+2026-10-24 273 → 2026-11-26 290（+17）
 
 
 ---

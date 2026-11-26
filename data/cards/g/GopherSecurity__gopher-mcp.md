@@ -1,6 +1,6 @@
 # GopherSecurity/gopher-mcp
 
-⭐ 156 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/GopherSecurity/gopher-mcp) · [官网](https://gopher.security) · 组织维护
+⭐ 157 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/GopherSecurity/gopher-mcp) · [官网](https://gopher.security) · 组织维护
 
 **面向 C++ 开发者的 MCP SDK：构建 MCP 服务器与客户端**
 
@@ -46,12 +46,12 @@ Model Context Protocol 的 C++ 实现（C++14），用于构建 MCP 服务器与
 ```mermaid
 xychart-beta
     title "GopherSecurity/gopher-mcp 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 151 --> 157
-    line [152, 153, 152, 154, 155, 156, 156]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 151 --> 158
+    line [152, 153, 152, 154, 155, 156, 157]
 ```
 
-2026-10-23 152 → 2026-11-25 156（+4）
+2026-10-24 152 → 2026-11-26 157（+5）
 
 
 ---

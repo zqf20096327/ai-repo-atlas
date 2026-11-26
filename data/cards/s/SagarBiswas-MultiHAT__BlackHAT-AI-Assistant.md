@@ -44,13 +44,13 @@ Python 编写的本地桌面工具，基于 Tkinter 构建 GUI。用户输入自
 
 ```mermaid
 xychart-beta
-    title "SagarBiswas-MultiHAT/BlackHAT-AI-Assistant 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 20 --> 31
-    line [30, 21, 21]
+    title "SagarBiswas-MultiHAT/BlackHAT-AI-Assistant 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
 ```
 
-2026-10-23 30 → 2026-11-25 21（-9）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

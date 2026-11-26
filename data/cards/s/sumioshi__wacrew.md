@@ -1,6 +1,6 @@
 # sumioshi/wacrew
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/sumioshi/wacrew) · [官网](https://wacrew.com.br) · 个人维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/sumioshi/wacrew) · [官网](https://wacrew.com.br) · 个人维护
 
 **用你的语气自动回复 WhatsApp 客户消息的自托管 AI 客服**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sumioshi/wacrew 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 3 --> 11
-    line [4, 9, 10, 10]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 3 --> 16
+    line [4, 9, 10, 15]
 ```
 
-2026-11-14 4 → 2026-11-25 10（+6）
+2026-11-14 4 → 2026-11-26 15（+11）
 
 
 ---

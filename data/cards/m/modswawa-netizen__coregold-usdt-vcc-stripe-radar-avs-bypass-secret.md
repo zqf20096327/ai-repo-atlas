@@ -1,6 +1,6 @@
 # modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret
 
-⭐ 44 · 推送 2026-11-19 · [GitHub](https://github.com/modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 69 · 推送 2026-11-19 · [GitHub](https://github.com/modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **讲解 Stripe Radar 拒付原理并推广 CoreGold 虚拟卡的说明文**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 5 --> 47
-    line [8, 22, 44]
+    title "modswawa-netizen/coregold-usdt-vcc-stripe-radar-avs-bypass-secret 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 75
+    line [8, 22, 44, 69]
 ```
 
-2026-11-20 8 → 2026-11-25 44（+36）
+2026-11-20 8 → 2026-11-26 69（+61）
 
 
 ---

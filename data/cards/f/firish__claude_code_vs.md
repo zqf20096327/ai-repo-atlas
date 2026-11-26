@@ -1,6 +1,6 @@
 # firish/claude_code_vs
 
-⭐ 108 · C# · MIT · 推送 2026-11-04 · [GitHub](https://github.com/firish/claude_code_vs) · [官网](https://marketplace.visualstudio.com/items?itemName=firish.bridgev1) · 个人维护 · 中文 README
+⭐ 109 · C# · MIT · 推送 2026-11-04 · [GitHub](https://github.com/firish/claude_code_vs) · [官网](https://marketplace.visualstudio.com/items?itemName=firish.bridgev1) · 个人维护 · 中文 README
 
 **把 Claude Code 接入 Visual Studio 2026 的社区 IDE 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "firish/claude_code_vs 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 101 --> 109
-    line [102, 103, 102, 105, 106, 107, 108, 108]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 101 --> 110
+    line [102, 103, 102, 105, 106, 107, 108, 109]
 ```
 
-2026-10-23 102 → 2026-11-25 108（+6）
+2026-10-24 102 → 2026-11-26 109（+7）
 
 
 ---

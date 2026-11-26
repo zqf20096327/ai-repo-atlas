@@ -1,6 +1,6 @@
 # fabriziosalmi/naso
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/fabriziosalmi/naso) · [官网](https://fabriziosalmi.github.io/naso/) · 个人维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/fabriziosalmi/naso) · [官网](https://fabriziosalmi.github.io/naso/) · 个人维护
 
 **自托管的数据泄露与暗网暴露监控平台，本地 LLM 协助分诊**
 
@@ -46,13 +46,13 @@ NASO 监控泄露语料、Paste 站点、公开 GitHub、Telegram 频道与 onio
 
 ```mermaid
 xychart-beta
-    title "fabriziosalmi/naso 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
+    title "fabriziosalmi/naso 星数(近 3 点)"
+    x-axis ["2026-10-26", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 12
-    line [10, 11]
+    line [10, 11, 11]
 ```
 
-2026-10-26 10 → 2026-11-25 11（+1）
+2026-10-26 10 → 2026-11-26 11（+1）
 
 
 ---

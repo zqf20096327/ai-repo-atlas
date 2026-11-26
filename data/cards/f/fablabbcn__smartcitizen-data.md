@@ -1,6 +1,6 @@
 # fablabbcn/smartcitizen-data
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/fablabbcn/smartcitizen-data) · [官网](https://docs.smartcitizen.me/data/data-tools/) · 组织维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/fablabbcn/smartcitizen-data) · [官网](https://docs.smartcitizen.me/data/data-tools/) · 组织维护
 
 **Smart Citizen 环境传感器数据分析框架**
 
@@ -45,12 +45,12 @@ Python 数据分析框架，面向低成本环境传感器数据：与多个传�
 ```mermaid
 xychart-beta
     title "fablabbcn/smartcitizen-data 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

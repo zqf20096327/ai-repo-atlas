@@ -1,6 +1,6 @@
 # LeeJuOh/claude-code-zero
 
-⭐ 52 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/LeeJuOh/claude-code-zero) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/LeeJuOh/claude-code-zero) · 个人维护
 
 **Claude Code 插件市场：9 个插件扩展 agent 技能与工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "LeeJuOh/claude-code-zero 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
+    title "LeeJuOh/claude-code-zero 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 51 --> 54
-    line [52, 53, 52, 52]
+    line [53, 52, 52]
 ```
 
-2026-10-23 52 → 2026-11-25 52（+0）
+2026-10-24 53 → 2026-11-26 52（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # radeksixi/laya-as-judge
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/radeksixi/laya-as-judge) · [官网](https://pypi.org/project/laya-as-judge/) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/radeksixi/laya-as-judge) · [官网](https://pypi.org/project/laya-as-judge/) · 个人维护
 
 **给 AI 应用与 agent 提供零输出 token 的决策/评判/治理 API**
 
@@ -41,6 +41,18 @@
 > L65: Software rarely needs an autoregressive LLM writing 250 tokens of prose just to route a ticket, block a prompt inje
 > L26: - **For AI Engineering Leads (5-Line Agent Integration):** Native **FastMCP** (`LayaToolGateMiddleware`) and **Lang
 > L24: - **For CISOs & AI Risk (Fail-Closed Tool-Call Firewall):** Air-gapped on-prem execution (`$0` cloud egress, FINMA 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "radeksixi/laya-as-judge 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-25 19 → 2026-11-26 19（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zengury/manastone-diag
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/zengury/manastone-diag) · [官网](https://pypi.org/project/manastone-diag/) · 个人维护 · 中文 README
+⭐ 24 · Python · Apache-2.0 · 推送 2026-07-03 · [GitHub](https://github.com/zengury/manastone-diag) · [官网](https://pypi.org/project/manastone-diag/) · 个人维护 · 中文 README
 
 **人形机器人离线日志故障诊断助手，LLM agent 三轮复核出报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zengury/manastone-diag 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 24（+2）
 
 
 ---

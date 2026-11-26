@@ -1,6 +1,6 @@
 # rishadbaniya/justless
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/rishadbaniya/justless) · 个人维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/rishadbaniya/justless) · 个人维护
 
 **为编码 agent 压缩工具输出与代码上下文的本地 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rishadbaniya/justless 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
+    title "rishadbaniya/justless 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 3 --> 9
-    line [4, 6, 7, 8]
+    line [4, 6, 7, 8, 8]
 ```
 
-2026-11-20 4 → 2026-11-25 8（+4）
+2026-11-20 4 → 2026-11-26 8（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # LocalMode-AI/LocalMode
 
-⭐ 71 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/LocalMode-AI/LocalMode) · [官网](https://localmode.ai) · 组织维护
+⭐ 73 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/LocalMode-AI/LocalMode) · [官网](https://localmode.ai) · 组织维护
 
 **面向前端的浏览器本地 AI 工具包：离线运行模型构建隐私优先应用**
 
@@ -47,12 +47,12 @@ monorepo 形式提供 16 个 npm 包与 shadcn 风格 UI 注册表（107 个组�
 ```mermaid
 xychart-beta
     title "LocalMode-AI/LocalMode 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 63 --> 72
-    line [64, 65, 66, 64, 68, 69, 70, 71, 71]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 63 --> 74
+    line [64, 65, 66, 64, 68, 69, 70, 71, 73]
 ```
 
-2026-10-23 64 → 2026-11-25 71（+7）
+2026-10-24 64 → 2026-11-26 73（+9）
 
 
 ---

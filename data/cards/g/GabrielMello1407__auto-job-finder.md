@@ -1,6 +1,6 @@
 # GabrielMello1407/auto-job-finder
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/GabrielMello1407/auto-job-finder) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/GabrielMello1407/auto-job-finder) · 个人维护
 
 **求职申请 AI 代理：找职位并生成简历与投递材料**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "GabrielMello1407/auto-job-finder 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

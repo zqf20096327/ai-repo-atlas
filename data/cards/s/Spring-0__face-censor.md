@@ -1,6 +1,6 @@
 # Spring-0/face-censor
 
-⭐ 62 · Python · GPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/Spring-0/face-censor) · [官网](https://huggingface.co/spaces/Spring-0/face-censor) · 个人维护
+⭐ 63 · Python · GPL-3.0 · 推送 2026-05-26 · [GitHub](https://github.com/Spring-0/face-censor) · [官网](https://huggingface.co/spaces/Spring-0/face-censor) · 个人维护
 
 **检测图像/视频中人脸并打码（模糊/表情/文字）的 Python 系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Spring-0/face-censor 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-10-23 62 → 2026-11-25 62（+0）
+2026-10-24 62 → 2026-11-26 63（+1）
 
 
 ---

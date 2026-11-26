@@ -1,6 +1,6 @@
 # 4pixeltechBR/Token-Saver
 
-⭐ 16 · Go · MIT · 推送 2026-09-21 · [GitHub](https://github.com/4pixeltechBR/Token-Saver) · [官网](https://github.com/4pixeltechBR/Token-Saver) · 组织维护
+⭐ 17 · Go · MIT · 推送 2026-09-21 · [GitHub](https://github.com/4pixeltechBR/Token-Saver) · [官网](https://github.com/4pixeltechBR/Token-Saver) · 组织维护
 
 **多 AI 编码助手的上下文审计与 token 优化技能，支持回滚**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "4pixeltechBR/Token-Saver 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

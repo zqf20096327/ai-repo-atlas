@@ -1,6 +1,6 @@
 # eshan-chawla/elfhub-mac
 
-⭐ 4 · Swift · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/eshan-chawla/elfhub-mac) · [官网](https://elfhub.ai/os) · 个人维护
+⭐ 4 · Swift · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/eshan-chawla/elfhub-mac) · [官网](https://elfhub.ai/os) · 个人维护
 
 **macOS 桌面 AI agent：看屏对话、标注指示、逐步代操作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "eshan-chawla/elfhub-mac 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-20 4 → 2026-11-25 4（+0）
+2026-11-20 4 → 2026-11-26 4（+0）
 
 
 ---

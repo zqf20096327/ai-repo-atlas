@@ -1,6 +1,6 @@
 # DTDucas/chm-converter
 
-⭐ 107 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/DTDucas/chm-converter) · [官网](https://dtducas.com/projects/chm-converter) · 个人维护 · 中文 README
+⭐ 108 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/DTDucas/chm-converter) · [官网](https://dtducas.com/projects/chm-converter) · 个人维护 · 中文 README
 
 **把 CHM 帮助文档转换为 Markdown 并生成检索索引的 Python 工具**
 
@@ -45,12 +45,12 @@ Python 编写的 Compiled HTML Help（.chm）转换工具：通过 7-Zip 解包 
 ```mermaid
 xychart-beta
     title "DTDucas/chm-converter 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-02", "2026-11-10", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 104 --> 108
-    line [105, 106, 105, 106, 107, 107]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-02", "2026-11-10", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 104 --> 109
+    line [105, 106, 105, 106, 107, 108]
 ```
 
-2026-10-23 105 → 2026-11-25 107（+2）
+2026-10-24 105 → 2026-11-26 108（+3）
 
 
 ---

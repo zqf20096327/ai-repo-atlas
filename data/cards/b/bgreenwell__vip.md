@@ -1,6 +1,6 @@
 # bgreenwell/vip
 
-⭐ 193 · R · 推送 2026-07-05 · [GitHub](https://github.com/bgreenwell/vip) · [官网](https://bgreenwell.github.io/vip/) · 个人维护
+⭐ 194 · R · 推送 2026-07-05 · [GitHub](https://github.com/bgreenwell/vip) · [官网](https://bgreenwell.github.io/vip/) · 个人维护
 
 **R 包：量化并可视化模型预测中各特征的重要性**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bgreenwell/vip 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 192 --> 194
-    line [193, 193]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 192 --> 195
+    line [193, 194]
 ```
 
-2026-10-23 193 → 2026-11-25 193（+0）
+2026-10-24 193 → 2026-11-26 194（+1）
 
 
 ---

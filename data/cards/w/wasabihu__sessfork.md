@@ -1,6 +1,6 @@
 # wasabihu/sessfork
 
-⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wasabihu/sessfork) · [官网](https://wasabihu.github.io/sessfork/) · 个人维护
+⭐ 27 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/wasabihu/sessfork) · [官网](https://wasabihu.github.io/sessfork/) · 个人维护
 
 **把已登录的 Chrome 会话无头派生给 AI agent 浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wasabihu/sessfork 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 4 --> 9
-    line [5, 8]
+    title "wasabihu/sessfork 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 29
+    line [5, 8, 27]
 ```
 
-2026-11-22 5 → 2026-11-25 8（+3）
+2026-11-22 5 → 2026-11-26 27（+22）
 
 
 ---

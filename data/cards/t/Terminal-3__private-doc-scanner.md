@@ -1,6 +1,6 @@
 # Terminal-3/private-doc-scanner
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Terminal-3/private-doc-scanner) · [官网](https://experiments-eta-ten.vercel.app/) · 组织维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Terminal-3/private-doc-scanner) · [官网](https://experiments-eta-ten.vercel.app/) · 组织维护
 
 **在设备端读取证件与账单、封存到自有加密保险库的隐私扫描器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Terminal-3/private-doc-scanner 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-11-10 11 → 2026-11-25 13（+2）
+2026-11-10 11 → 2026-11-26 13（+2）
 
 
 ---

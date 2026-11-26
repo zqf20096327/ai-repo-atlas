@@ -1,6 +1,6 @@
 # 1001WillsStudio/AuroraCoder
 
-⭐ 21 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/1001WillsStudio/AuroraCoder) · 组织维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/1001WillsStudio/AuroraCoder) · 组织维护 · 中文 README
 
 **自主 AI 编程 agent：Docker 沙箱内读写代码、跑命令、控 GUI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "1001WillsStudio/AuroraCoder 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-23 20 → 2026-11-25 21（+1）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

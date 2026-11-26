@@ -1,6 +1,6 @@
 # violetkomodolimit/ai--manus2.0
 
-⭐ 367 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/violetkomodolimit/ai--manus2.0) · 个人维护
+⭐ 361 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/violetkomodolimit/ai--manus2.0) · 个人维护
 
 **面向个人用户的自主 AI Agent：自动执行代码与浏览器操作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "violetkomodolimit/ai--manus2.0 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 366 --> 376
-    line [375, 374, 373, 370, 367]
+    title "violetkomodolimit/ai--manus2.0 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 360 --> 376
+    line [375, 374, 373, 370, 367, 361]
 ```
 
-2026-11-15 375 → 2026-11-25 367（-8）
+2026-11-15 375 → 2026-11-26 361（-14）
 
 
 ---

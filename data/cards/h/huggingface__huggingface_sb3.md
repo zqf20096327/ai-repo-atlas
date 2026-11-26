@@ -1,6 +1,6 @@
 # huggingface/huggingface_sb3
 
-⭐ 99 · Jupyter Notebook · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/huggingface_sb3) · 组织维护
+⭐ 100 · Jupyter Notebook · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/huggingface_sb3) · 组织维护
 
 **为 Stable-Baselines3 提供 Hub 模型上传下载的辅助库**
 
@@ -45,12 +45,12 @@ Hugging Face 官方维护的 Stable-Baselines3 扩展库：从 Hub 下载训练�
 ```mermaid
 xychart-beta
     title "huggingface/huggingface_sb3 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-23 99 → 2026-11-25 99（+0）
+2026-10-24 99 → 2026-11-26 100（+1）
 
 
 ---

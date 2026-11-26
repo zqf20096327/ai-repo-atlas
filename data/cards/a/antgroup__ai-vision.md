@@ -1,6 +1,6 @@
 # antgroup/ai-vision
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/antgroup/ai-vision) · [官网](https://antgroup.github.io/ai-vision/) · 组织维护 · 中文 README
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/antgroup/ai-vision) · [官网](https://antgroup.github.io/ai-vision/) · 组织维护 · 中文 README
 
 **给 AI agent 提供自托管观测与诊断的平台**
 
@@ -41,6 +41,18 @@ Ant AI Vision 是蚂蚁集团可观测团队与 OceanBase 联合开发的开源�
 > L5:  Ant AI Vision is an open-source, self-hosted platform for agent observability and diagnostics.
 > L30: - **Building your own?** Reuse supported instrumentation or follow the integration examples for LangGraph, Deep Age
 > L96: **Already instrumented with Langfuse?** Reuse a supported SDK and send new traces to Ant AI Vision. See the integra
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "antgroup/ai-vision 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 8
+    line [5, 7]
+```
+
+2026-11-25 5 → 2026-11-26 7（+2）
 
 
 ---

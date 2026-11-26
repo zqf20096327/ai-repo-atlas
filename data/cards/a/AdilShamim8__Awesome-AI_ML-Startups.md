@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AdilShamim8/Awesome-AI_ML-Startups 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-25"]
+    x-axis ["2026-10-31", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-31 10 → 2026-11-25 10（+0）
+2026-10-31 10 → 2026-11-26 10（+0）
 
 
 ---

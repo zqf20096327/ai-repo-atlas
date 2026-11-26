@@ -1,6 +1,6 @@
 # redmaplewww/easy-resume-review
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-08-06 · [GitHub](https://github.com/redmaplewww/easy-resume-review) · 个人维护 · 中文 README
 
 **私有部署的 AI 技术简历审查平台：七维评分+两轮复核**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "redmaplewww/easy-resume-review 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-10-22", "2026-11-18"]
+    x-axis ["2026-10-18", "2026-10-22", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-18 10 → 2026-11-18 11（+1）
+2026-10-18 10 → 2026-11-26 11（+1）
 
 
 ---

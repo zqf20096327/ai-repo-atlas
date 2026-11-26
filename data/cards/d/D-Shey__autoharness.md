@@ -1,6 +1,6 @@
 # D-Shey/autoharness
 
-⭐ 10 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/D-Shey/autoharness) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/D-Shey/autoharness) · 个人维护
 
 **给编码 agent 加工程纪律的 CLI：先备料、对照原始、独立评审**
 
@@ -44,13 +44,13 @@ AutoHarness 是一个与编码 agent 协同工作的 CLI 工具：agent 负责�
 
 ```mermaid
 xychart-beta
-    title "D-Shey/autoharness 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 5 --> 11
-    line [6, 10, 10]
+    title "D-Shey/autoharness 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
 ```
 
-2026-10-23 6 → 2026-11-25 10（+4）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

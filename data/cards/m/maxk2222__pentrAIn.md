@@ -1,6 +1,6 @@
 # maxk2222/pentrAIn
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/maxk2222/pentrAIn) · 个人维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/maxk2222/pentrAIn) · 个人维护
 
 **自托管渗透测试训练平台：CTF 任务+AI 教练+浏览器 Kali**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maxk2222/pentrAIn 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 3（+0）
 
 
 ---

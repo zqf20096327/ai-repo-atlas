@@ -1,6 +1,6 @@
 # Engine-Room-Games/after-effects-mcp
 
-⭐ 56 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Engine-Room-Games/after-effects-mcp) · [官网](https://www.npmjs.com/package/@engine-room/after-effects-mcp) · 组织维护
+⭐ 57 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Engine-Room-Games/after-effects-mcp) · [官网](https://www.npmjs.com/package/@engine-room/after-effects-mcp) · 组织维护
 
 **用 AI 控制Adobe After Effects的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Engine-Room-Games/after-effects-mcp 星数(近 15 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 33 --> 58
-    line [35, 36, 37, 38, 40, 41, 35, 49, 51, 52, 53, 54, 55, 56, 56]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 33 --> 59
+    line [35, 36, 37, 38, 40, 41, 35, 49, 51, 52, 53, 54, 55, 56, 57]
 ```
 
-2026-10-23 35 → 2026-11-25 56（+21）
+2026-10-24 35 → 2026-11-26 57（+22）
 
 
 ---

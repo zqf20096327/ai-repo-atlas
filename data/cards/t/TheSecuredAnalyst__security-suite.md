@@ -1,6 +1,6 @@
 # TheSecuredAnalyst/security-suite
 
-⭐ 135 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/TheSecuredAnalyst/security-suite) · 个人维护
+⭐ 136 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/TheSecuredAnalyst/security-suite) · 个人维护
 
 **开源安全测试套件：OSINT、Web/API 扫描与 SIEM 集成，含 AI 分析**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheSecuredAnalyst/security-suite 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 131 --> 136
-    line [132, 133, 134, 135, 135]
+    title "TheSecuredAnalyst/security-suite 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 132 --> 137
+    line [133, 134, 135, 136]
 ```
 
-2026-10-23 132 → 2026-11-25 135（+3）
+2026-10-24 133 → 2026-11-26 136（+3）
 
 
 ---

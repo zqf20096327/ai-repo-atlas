@@ -1,6 +1,6 @@
 # Photoroom/datago
 
-⭐ 128 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Photoroom/datago) · 组织维护
+⭐ 128 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Photoroom/datago) · 组织维护
 
 **面向图像 ML 的 Rust 并行数据加载器，Python 模块形式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Photoroom/datago 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 127 --> 129
     line [128, 128]
 ```
 
-2026-10-23 128 → 2026-11-25 128（+0）
+2026-10-24 128 → 2026-11-26 128（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ne1s0n/coding_excercises
 
-⭐ 26 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ne1s0n/coding_excercises) · 组织维护
+⭐ 26 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ne1s0n/coding_excercises) · 组织维护
 
 **生物学者深度学习入门课程的讲义与练习仓库**
 
@@ -45,12 +45,12 @@ Physalia 课程 'Introduction to deep learning for biologists'（2025）的配�
 ```mermaid
 xychart-beta
     title "ne1s0n/coding_excercises 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-23 26 → 2026-11-25 26（+0）
+2026-10-24 26 → 2026-11-26 26（+0）
 
 
 ---

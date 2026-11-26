@@ -1,6 +1,6 @@
 # lithander/Leorik
 
-⭐ 44 · C# · MIT · 推送 2026-05-15 · [GitHub](https://github.com/lithander/Leorik) · 个人维护
+⭐ 43 · C# · MIT · 推送 2026-05-15 · [GitHub](https://github.com/lithander/Leorik) · 个人维护
 
 **C# 编写的开源 UCI 国际象棋引擎，支持标准棋与Chess960**
 
@@ -45,12 +45,12 @@ UCI 协议国际象棋引擎，用 C# / .NET 编写，运行于外部棋类 GUI�
 ```mermaid
 xychart-beta
     title "lithander/Leorik 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
     y-axis "stars" 42 --> 45
-    line [43, 44, 44]
+    line [43, 44, 43]
 ```
 
-2026-10-23 43 → 2026-11-25 44（+1）
+2026-10-24 43 → 2026-11-26 43（+0）
 
 
 ---

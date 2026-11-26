@@ -1,6 +1,6 @@
 # bazongotalato-cyber/deepseek-api-overseas-proxy
 
-⭐ 91 · 推送 2026-11-04 · [GitHub](https://github.com/bazongotalato-cyber/deepseek-api-overseas-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 115 · 推送 2026-11-04 · [GitHub](https://github.com/bazongotalato-cyber/deepseek-api-overseas-proxy) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡用于 DeepSeek API 云平台结算的营销文档**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "bazongotalato-cyber/deepseek-api-overseas-proxy 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 14 --> 98
-    line [21, 40, 54, 59, 65, 64, 63, 69, 91]
+    title "bazongotalato-cyber/deepseek-api-overseas-proxy 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 12 --> 124
+    line [21, 40, 54, 59, 65, 64, 63, 69, 91, 115]
 ```
 
-2026-11-08 21 → 2026-11-25 91（+70）
+2026-11-08 21 → 2026-11-26 115（+94）
 
 
 ---

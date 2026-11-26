@@ -1,6 +1,6 @@
 # modelscope/DiffSynth-Engine
 
-⭐ 431 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/modelscope/DiffSynth-Engine) · 组织维护 · 中文 README
+⭐ 430 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/modelscope/DiffSynth-Engine) · 组织维护 · 中文 README
 
 **扩散模型高性能推理引擎：构建文生图/文生视频流水线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "modelscope/DiffSynth-Engine 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 430 --> 433
-    line [432, 431, 431]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 429 --> 433
+    line [432, 431, 430]
 ```
 
-2026-10-23 432 → 2026-11-25 431（-1）
+2026-10-24 432 → 2026-11-26 430（-2）
 
 
 ---

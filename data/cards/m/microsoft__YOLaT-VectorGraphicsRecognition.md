@@ -41,6 +41,18 @@ NeurIPS 2021 与 T-PAMI 2024 论文的官方 PyTorch 实现：将矢量图形的
 > L13: To summarize, we propose You Only Look at Text series (YOLaT & YOLaT++) which addresses issues with raster graphics
 > L58: YOLaT++ is introduced, characterized by a hierarchical structure designed for VGs, spanning three levels: **Primiti
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "microsoft/YOLaT-VectorGraphicsRecognition 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 108 --> 110
+    line [109, 109]
+```
+
+2026-11-25 109 → 2026-11-26 109（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `094e522e87d3` · [字段定义](../../DATASET.md)*

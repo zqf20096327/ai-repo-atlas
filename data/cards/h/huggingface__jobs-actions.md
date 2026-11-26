@@ -1,6 +1,6 @@
 # huggingface/jobs-actions
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/huggingface/jobs-actions) · 组织维护
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/huggingface/jobs-actions) · 组织维护
 
 **在 Hugging Face Jobs 上运行 GitHub Actions 的桥接工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/jobs-actions 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

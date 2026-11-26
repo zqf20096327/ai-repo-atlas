@@ -1,6 +1,6 @@
 # metrumresearchgroup/Torsten
 
-⭐ 66 · C++ · BSD-3-Clause · 推送 2026-04-21 · [GitHub](https://github.com/metrumresearchgroup/Torsten) · 组织维护
+⭐ 67 · C++ · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/metrumresearchgroup/Torsten) · 组织维护
 
 **药代动力学数据分析的 Stan 函数库**
 
@@ -41,13 +41,13 @@ Torsten 是由 Metrum Research Group 维护的 C++/Stan 函数集合，用于支
 
 ```mermaid
 xychart-beta
-    title "metrumresearchgroup/Torsten 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 66]
+    title "metrumresearchgroup/Torsten 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-23 65 → 2026-11-25 66（+1）
+2026-10-24 66 → 2026-11-26 67（+1）
 
 
 ---

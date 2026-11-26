@@ -1,6 +1,6 @@
 # typedef-ai/fenic
 
-⭐ 681 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/typedef-ai/fenic) · [官网](https://fenic.ai) · 组织维护
+⭐ 681 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/typedef-ai/fenic) · [官网](https://fenic.ai) · 组织维护
 
 **带 AI 算子的语义 DataFrame 引擎，供人与 agent 共用**
 
@@ -45,13 +45,13 @@ fenic 是一个 Python 语义 DataFrame 查询引擎：在 PySpark/SQL 风格操
 
 ```mermaid
 xychart-beta
-    title "typedef-ai/fenic 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 672 --> 682
-    line [673, 674, 675, 676, 679, 674, 679, 680, 681, 681]
+    title "typedef-ai/fenic 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 673 --> 682
+    line [674, 675, 676, 679, 674, 679, 680, 681, 681]
 ```
 
-2026-10-23 673 → 2026-11-25 681（+8）
+2026-10-24 674 → 2026-11-26 681（+7）
 
 
 ---

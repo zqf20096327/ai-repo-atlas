@@ -45,13 +45,13 @@ VibeScript 是一门以英文描述为源码的编程语言：用户在 .vibe �
 
 ```mermaid
 xychart-beta
-    title "andr3wV/VibeScript 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    title "andr3wV/VibeScript 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

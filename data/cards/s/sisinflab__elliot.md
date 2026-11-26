@@ -1,6 +1,6 @@
 # sisinflab/elliot
 
-⭐ 298 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sisinflab/elliot) · 组织维护
+⭐ 298 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/sisinflab/elliot) · 组织维护
 
 **面向科研的推荐系统实验评测框架：从数据到统计报告全流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sisinflab/elliot 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 297 --> 300
     line [298, 299, 298, 298]
 ```
 
-2026-10-23 298 → 2026-11-25 298（+0）
+2026-10-24 298 → 2026-11-26 298（+0）
 
 
 ---

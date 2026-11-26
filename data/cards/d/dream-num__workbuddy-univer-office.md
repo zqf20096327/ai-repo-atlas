@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dream-num/workbuddy-univer-office 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-16 11 → 2026-11-25 11（+0）
+2026-11-16 11 → 2026-11-26 11（+0）
 
 
 ---

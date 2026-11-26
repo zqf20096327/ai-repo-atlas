@@ -44,12 +44,12 @@ GoogleCloudPlatform 下的测试框架，提供在 Google Cloud 硬件加速器�
 ```mermaid
 xychart-beta
     title "GoogleCloudPlatform/ml-testing-accelerators 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 63 --> 65
     line [64, 64]
 ```
 
-2026-10-23 64 → 2026-11-25 64（+0）
+2026-10-24 64 → 2026-11-26 64（+0）
 
 
 ---

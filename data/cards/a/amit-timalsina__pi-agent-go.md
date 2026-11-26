@@ -1,6 +1,6 @@
 # amit-timalsina/pi-agent-go
 
-⭐ 24 · Go · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/amit-timalsina/pi-agent-go) · [官网](https://pkg.go.dev/github.com/amit-timalsina/pi-agent-go) · 个人维护
+⭐ 23 · Go · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/amit-timalsina/pi-agent-go) · [官网](https://pkg.go.dev/github.com/amit-timalsina/pi-agent-go) · 个人维护
 
 **Go 语言单循环 LLM 工具调用 agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "amit-timalsina/pi-agent-go 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 21 --> 25
-    line [22, 23, 22, 24, 24]
+    line [22, 23, 22, 24, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 24（+2）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # theab10hd/zone-playground
 
-⭐ 3 · JavaScript · 推送 2026-11-02 · [GitHub](https://github.com/theab10hd/zone-playground) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向 zOne 工作流的 Claude Code 插件集：规划开发、测试与工时填报**
 

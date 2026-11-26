@@ -1,6 +1,6 @@
 # vornicx/Midas
 
-⭐ 14 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/vornicx/Midas) · [官网](https://midas.archic.es/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/vornicx/Midas) · [官网](https://midas.archic.es/) · 个人维护
 
 **本地优先的长期 agent 记忆层：MCP 服务器 + Python SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vornicx/Midas 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 13 --> 16
     line [15, 14, 15, 14, 14]
 ```
 
-2026-10-23 15 → 2026-11-25 14（-1）
+2026-10-24 15 → 2026-11-26 14（-1）
 
 
 ---

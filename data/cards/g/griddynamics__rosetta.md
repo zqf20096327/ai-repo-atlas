@@ -1,6 +1,6 @@
 # griddynamics/rosetta
 
-⭐ 380 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/griddynamics/rosetta) · [官网](https://griddynamics.github.io/rosetta/) · 组织维护
+⭐ 381 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/griddynamics/rosetta) · [官网](https://griddynamics.github.io/rosetta/) · 组织维护
 
 **给 AI 编码代理注入团队工程规范与上下文的指令层**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "griddynamics/rosetta 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 358 --> 382
-    line [360, 362, 363, 364, 366, 362, 373, 375, 377, 379, 380]
+    title "griddynamics/rosetta 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 358 --> 383
+    line [360, 362, 363, 364, 366, 362, 373, 375, 377, 379, 380, 381]
 ```
 
-2026-10-23 360 → 2026-11-25 380（+20）
+2026-10-24 360 → 2026-11-26 381（+21）
 
 
 ---

@@ -1,6 +1,6 @@
 # machinable-org/machinable
 
-⭐ 36 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/machinable-org/machinable) · [官网](https://machinable.org) · 组织维护
+⭐ 36 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/machinable-org/machinable) · [官网](https://machinable.org) · 组织维护
 
 **面向科研代码的实验管理框架：一次编写、运行即查询**
 
@@ -44,12 +44,12 @@ Python 写的内容寻址研究代码系统：以模块与配置定义实验身�
 ```mermaid
 xychart-beta
     title "machinable-org/machinable 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-23 36 → 2026-11-25 36（+0）
+2026-10-24 36 → 2026-11-26 36（+0）
 
 
 ---

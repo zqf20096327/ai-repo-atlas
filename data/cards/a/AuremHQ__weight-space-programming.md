@@ -1,6 +1,6 @@
 # AuremHQ/weight-space-programming
 
-⭐ 19 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/AuremHQ/weight-space-programming) · [官网](https://auremhq.github.io/weight-space-programming/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/AuremHQ/weight-space-programming) · [官网](https://auremhq.github.io/weight-space-programming/) · 组织维护
 
 **小型开源权重模型的权重直编修复工具，含评估门禁**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AuremHQ/weight-space-programming 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 12 --> 20
-    line [13, 16, 18, 19, 19]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 12 --> 22
+    line [13, 16, 18, 19, 21]
 ```
 
-2026-11-08 13 → 2026-11-25 19（+6）
+2026-11-08 13 → 2026-11-26 21（+8）
 
 
 ---

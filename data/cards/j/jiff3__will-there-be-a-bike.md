@@ -1,6 +1,6 @@
 # jiff3/will-there-be-a-bike
 
-⭐ 3 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/jiff3/will-there-be-a-bike) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为通勤者预测 Citi Bike 站点余车/余位的网络应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

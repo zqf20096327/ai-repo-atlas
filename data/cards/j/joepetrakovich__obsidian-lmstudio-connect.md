@@ -1,6 +1,6 @@
 # joepetrakovich/obsidian-lmstudio-connect
 
-⭐ 26 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/joepetrakovich/obsidian-lmstudio-connect) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/joepetrakovich/obsidian-lmstudio-connect) · 个人维护
 
 **连接 LM Studio 的 Obsidian AI 聊天与笔记问答插件**
 
@@ -45,12 +45,12 @@ Obsidian 插件，连接本地 LM Studio 服务端，提供 AI 聊天界面与�
 ```mermaid
 xychart-beta
     title "joepetrakovich/obsidian-lmstudio-connect 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 21 --> 27
-    line [22, 24, 25, 22, 25, 26, 26]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 21 --> 28
+    line [22, 24, 25, 22, 25, 26, 27]
 ```
 
-2026-10-23 22 → 2026-11-25 26（+4）
+2026-10-24 22 → 2026-11-26 27（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # sou350121/Agent-Playbook
 
-⭐ 14 · PowerShell · CC-BY-4.0 · 推送 2026-11-24 · [GitHub](https://github.com/sou350121/Agent-Playbook) · 个人维护 · 中文 README
+⭐ 15 · PowerShell · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/sou350121/Agent-Playbook) · 个人维护 · 中文 README
 
 **AI Agent 工程情报库：每日过滤评级资讯并沉淀理论/速查/预测**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "sou350121/Agent-Playbook 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 13, 14, 14]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 15（+2）
 
 
 ---

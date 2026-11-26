@@ -1,6 +1,6 @@
 # Hamna-Munir/Machine-Learning-Roadmap
 
-⭐ 24 · Jupyter Notebook · MIT · 推送 2026-08-16 · [GitHub](https://github.com/Hamna-Munir/Machine-Learning-Roadmap) · 个人维护
+⭐ 25 · Jupyter Notebook · MIT · 推送 2026-08-16 · [GitHub](https://github.com/Hamna-Munir/Machine-Learning-Roadmap) · 个人维护
 
 **机器学习学习路线仓库：理论笔记+代码实现+实战项目**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Hamna-Munir/Machine-Learning-Roadmap 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 25（+1）
 
 
 ---

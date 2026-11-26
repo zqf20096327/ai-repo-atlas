@@ -1,6 +1,6 @@
 # moeru-ai/velin
 
-⭐ 79 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/moeru-ai/velin) · [官网](https://velin.dev) · 组织维护
+⭐ 79 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/moeru-ai/velin) · [官网](https://velin.dev) · 组织维护
 
 **用 Vue/React 组件开发与编排 LLM 提示词的库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "moeru-ai/velin 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
     y-axis "stars" 77 --> 80
     line [78, 79, 79]
 ```
 
-2026-10-23 78 → 2026-11-25 79（+1）
+2026-10-24 78 → 2026-11-26 79（+1）
 
 
 ---

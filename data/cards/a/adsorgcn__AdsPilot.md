@@ -1,6 +1,6 @@
 # adsorgcn/AdsPilot
 
-⭐ 26 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adsorgcn/AdsPilot) · [官网](https://ilang.ai) · 个人维护 · 中文 README
+⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adsorgcn/AdsPilot) · [官网](https://ilang.ai) · 个人维护 · 中文 README
 
 **广告联盟 SEM/PPC 投放基座与插件，交给自有 Agent 无人值守运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "adsorgcn/AdsPilot 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 24 --> 27
-    line [25, 26]
+    title "adsorgcn/AdsPilot 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27]
 ```
 
-2026-11-21 25 → 2026-11-25 26（+1）
+2026-11-21 25 → 2026-11-26 27（+2）
 
 
 ---

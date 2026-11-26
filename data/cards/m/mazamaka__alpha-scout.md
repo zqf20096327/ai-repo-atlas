@@ -1,6 +1,6 @@
 # mazamaka/alpha-scout
 
-⭐ 12 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/mazamaka/alpha-scout) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-03 · [GitHub](https://github.com/mazamaka/alpha-scout) · 个人维护
 
 **交易与市场情报收集器：多源抓取、LLM 筛选、Telegram 告警**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mazamaka/alpha-scout 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [12, 11]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 11（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # alphasecio/langchain-examples
 
-⭐ 551 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alphasecio/langchain-examples) · [官网](https://go.alphasec.io/langchain-examples) · 个人维护
+⭐ 552 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/alphasecio/langchain-examples) · [官网](https://go.alphasec.io/langchain-examples) · 个人维护
 
 **开发者示例应用：一个 Streamlit 应用集成四个 LangChain 工具**
 
@@ -39,6 +39,18 @@
 
 > L19: A single Streamlit app with four practical LangChain tools, using OpenAI models, your choice of web search provider
 > L23: |🔎 **Web Research**|An agent that searches the web, reads pages and answers with cited sources.|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alphasecio/langchain-examples 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 550 --> 553
+    line [551, 552]
+```
+
+2026-11-25 551 → 2026-11-26 552（+1）
 
 
 ---

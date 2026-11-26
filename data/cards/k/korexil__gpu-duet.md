@@ -1,6 +1,6 @@
 # korexil/gpu-duet
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/korexil/gpu-duet) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地 LLM 与声音克隆 TTS 共用 8 GB 显卡的语音服务端**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-8g` | |

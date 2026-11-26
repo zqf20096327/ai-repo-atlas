@@ -1,6 +1,6 @@
 # apache/cloudberry-pxf
 
-⭐ 14 · Java · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/apache/cloudberry-pxf) · [官网](https://cloudberry.apache.org) · 组织维护
+⭐ 14 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/apache/cloudberry-pxf) · [官网](https://cloudberry.apache.org) · 组织维护
 
 **让 Greenplum/Cloudberry 查询外部数据的扩展框架**
 
@@ -45,12 +45,12 @@ Apache Cloudberry 的平台扩展框架（源自 greenplum/pxf 定制），使�
 ```mermaid
 xychart-beta
     title "apache/cloudberry-pxf 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

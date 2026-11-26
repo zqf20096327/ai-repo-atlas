@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ErikThiart/ai-stock-dashboard 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    title "ErikThiart/ai-stock-dashboard 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 103 --> 106
-    line [105, 104]
+    line [105, 104, 104]
 ```
 
-2026-11-08 105 → 2026-11-25 104（-1）
+2026-11-08 105 → 2026-11-26 104（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # xprivo/ai-chat
 
-⭐ 138 · TypeScript · AGPL-3.0 · 推送 2026-05-06 · [GitHub](https://github.com/xprivo/ai-chat) · [官网](https://www.xprivo.com/) · 组织维护
+⭐ 137 · TypeScript · AGPL-3.0 · 推送 2026-05-06 · [GitHub](https://github.com/xprivo/ai-chat) · [官网](https://www.xprivo.com/) · 组织维护
 
 **可自托管的隐私优先 AI 聊天界面，自带 API key 即用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xprivo/ai-chat 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 136 --> 139
-    line [137, 138, 138]
+    line [137, 138, 137]
 ```
 
-2026-10-23 137 → 2026-11-25 138（+1）
+2026-10-24 137 → 2026-11-26 137（+0）
 
 
 ---

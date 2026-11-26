@@ -1,6 +1,6 @@
 # maxwellsdm1867/wheeler
 
-⭐ 14 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/maxwellsdm1867/wheeler) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-09-22 · [GitHub](https://github.com/maxwellsdm1867/wheeler) · 个人维护
 
 **面向科学家的 Claude Code/Codex 研究工作流插件：知识图谱+溯源**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maxwellsdm1867/wheeler 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 13, 14, 14]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 14, 15]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 15（+2）
 
 
 ---

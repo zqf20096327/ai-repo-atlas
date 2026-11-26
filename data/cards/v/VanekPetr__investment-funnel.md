@@ -1,6 +1,6 @@
 # VanekPetr/investment-funnel
 
-⭐ 77 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VanekPetr/investment-funnel) · [官网](https://investment-funnel.algostrata.com) · 组织维护
+⭐ 77 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/VanekPetr/investment-funnel) · [官网](https://investment-funnel.algostrata.com) · 组织维护
 
 **开源 Python 投资策略开发与回测平台，含 ETF/基金市场总览**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VanekPetr/investment-funnel 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 74 --> 78
     line [75, 76, 75, 77, 77]
 ```
 
-2026-10-23 75 → 2026-11-25 77（+2）
+2026-10-24 75 → 2026-11-26 77（+2）
 
 
 ---

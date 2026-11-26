@@ -1,6 +1,6 @@
 # wooyeolbaek/attention-map-diffusers
 
-⭐ 413 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/wooyeolbaek/attention-map-diffusers) · [官网](https://huggingface.co/spaces/We-Want-GPU/diffusers-cross-attention-map-SDXL-t2i) · 个人维护
+⭐ 412 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/wooyeolbaek/attention-map-diffusers) · [官网](https://huggingface.co/spaces/We-Want-GPU/diffusers-cross-attention-map-SDXL-t2i) · 个人维护
 
 **面向 Diffusers 图像/视频管线的注意力捕获与可视化工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wooyeolbaek/attention-map-diffusers 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 412 --> 416
-    line [413, 414, 415, 414, 415, 414, 413, 413]
+    title "wooyeolbaek/attention-map-diffusers 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 411 --> 416
+    line [414, 415, 414, 415, 414, 413, 412]
 ```
 
-2026-10-23 413 → 2026-11-25 413（+0）
+2026-10-24 414 → 2026-11-26 412（-2）
 
 
 ---

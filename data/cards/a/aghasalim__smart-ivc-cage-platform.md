@@ -1,6 +1,6 @@
 # aghasalim/smart-ivc-cage-platform
 
-⭐ 11 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/aghasalim/smart-ivc-cage-platform) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **实验动物 IVC 智能笼的软件平台：传感、喂水与行为分类**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

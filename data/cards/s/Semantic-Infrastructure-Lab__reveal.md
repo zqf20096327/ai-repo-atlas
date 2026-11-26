@@ -1,6 +1,6 @@
 # Semantic-Infrastructure-Lab/reveal
 
-⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Semantic-Infrastructure-Lab/reveal) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Semantic-Infrastructure-Lab/reveal) · 组织维护
 
 **供 AI agent 与工程师渐进式查看代码库结构的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Semantic-Infrastructure-Lab/reveal 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

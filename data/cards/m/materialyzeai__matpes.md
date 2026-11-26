@@ -1,6 +1,6 @@
 # materialyzeai/matpes
 
-⭐ 61 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/materialyzeai/matpes) · [官网](http://matpes.ai) · 组织维护
+⭐ 61 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/materialyzeai/matpes) · [官网](http://matpes.ai) · 组织维护
 
 **材料势能面（PES）数据集：覆盖周期表，训练机器学习原子间势**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "materialyzeai/matpes 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 60 --> 62
     line [61, 61]
 ```
 
-2026-10-23 61 → 2026-11-25 61（+0）
+2026-10-24 61 → 2026-11-26 61（+0）
 
 
 ---

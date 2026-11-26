@@ -1,6 +1,6 @@
 # fxai666/fxai-fully-automated-creation-skills
 
-⭐ 3 · Python · 推送 2026-11-22 · [GitHub](https://github.com/fxai666/fxai-fully-automated-creation-skills) · [官网](https://www.fxai.site) · 个人维护 · 中文 README
+⭐ 4 · Python · 推送 2026-11-24 · [GitHub](https://github.com/fxai666/fxai-fully-automated-creation-skills) · [官网](https://www.fxai.site) · 个人维护 · 中文 README
 
 **装进智能体的全自动化视频创作技能包：一句话从剧本到发布**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fxai666/fxai-fully-automated-creation-skills 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-16", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-16 3 → 2026-11-25 3（+0）
+2026-11-16 3 → 2026-11-26 4（+1）
 
 
 ---

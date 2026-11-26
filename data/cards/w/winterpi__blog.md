@@ -1,6 +1,6 @@
 # winterpi/blog
 
-⭐ 14 · 推送 2026-11-07 · [GitHub](https://github.com/winterpi/blog) · 个人维护 · 中文 README
+⭐ 14 · 推送 2026-11-24 · [GitHub](https://github.com/winterpi/blog) · 个人维护 · 中文 README
 
 **个人技术博客：AI、区块链、密码学文章目录与随笔**
 
@@ -46,12 +46,12 @@ winter pi 的个人博客仓库，以文章目录形式组织内容：LLM 与深
 ```mermaid
 xychart-beta
     title "winterpi/blog 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

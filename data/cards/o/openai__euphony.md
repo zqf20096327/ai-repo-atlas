@@ -1,6 +1,6 @@
 # openai/euphony
 
-⭐ 426 · TypeScript · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/openai/euphony) · [官网](https://openai.github.io/euphony/) · 组织维护
+⭐ 425 · TypeScript · Apache-2.0 · 推送 2026-04-22 · [GitHub](https://github.com/openai/euphony) · [官网](https://openai.github.io/euphony/) · 组织维护
 
 **在浏览器中可视化 Harmony 对话与 Codex 会话数据的查看器**
 
@@ -45,12 +45,12 @@ OpenAI 维护的浏览器端数据可视化工具：以可嵌入的 Web Componen
 ```mermaid
 xychart-beta
     title "openai/euphony 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 423 --> 427
-    line [424, 425, 426, 426]
+    line [424, 425, 426, 425]
 ```
 
-2026-10-23 424 → 2026-11-25 426（+2）
+2026-10-24 424 → 2026-11-26 425（+1）
 
 
 ---

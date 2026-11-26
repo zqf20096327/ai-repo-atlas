@@ -1,6 +1,6 @@
 # margelo/react-native-skills
 
-⭐ 181 · 推送 2026-08-21 · [GitHub](https://github.com/margelo/react-native-skills) · [官网](https://margelo.com) · 组织维护
+⭐ 180 · 推送 2026-08-21 · [GitHub](https://github.com/margelo/react-native-skills) · [官网](https://margelo.com) · 组织维护
 
 **面向 React Native 的 Agent Skills 技能集合**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "margelo/react-native-skills 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-26"]
     y-axis "stars" 177 --> 182
-    line [178, 179, 178, 179, 180, 181, 181]
+    line [178, 179, 178, 179, 180, 181, 180]
 ```
 
-2026-10-23 178 → 2026-11-25 181（+3）
+2026-10-24 178 → 2026-11-26 180（+2）
 
 
 ---

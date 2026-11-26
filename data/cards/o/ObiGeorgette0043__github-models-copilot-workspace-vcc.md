@@ -1,6 +1,6 @@
 # ObiGeorgette0043/github-models-copilot-workspace-vcc
 
-⭐ 84 · 推送 2026-11-11 · [GitHub](https://github.com/ObiGeorgette0043/github-models-copilot-workspace-vcc) · 个人维护 · 中文 README
+⭐ 105 · 推送 2026-11-11 · [GitHub](https://github.com/ObiGeorgette0043/github-models-copilot-workspace-vcc) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡用于 GitHub Copilot/Models 结算的营销指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ObiGeorgette0043/github-models-copilot-workspace-vcc 星数(近 10 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 3 --> 91
-    line [10, 15, 22, 21, 32, 36, 40, 50, 65, 84]
+    title "ObiGeorgette0043/github-models-copilot-workspace-vcc 星数(近 11 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1 --> 114
+    line [10, 15, 22, 21, 32, 36, 40, 50, 65, 84, 105]
 ```
 
-2026-11-11 10 → 2026-11-25 84（+74）
+2026-11-11 10 → 2026-11-26 105（+95）
 
 
 ---

@@ -1,6 +1,6 @@
 # blaz-r/mason_cd
 
-⭐ 24 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/blaz-r/mason_cd) · 组织维护
+⭐ 25 · Python · MIT · 推送 2026-09-11 · [GitHub](https://github.com/blaz-r/mason_cd) · 组织维护
 
 **无需标注变化掩膜的无监督遥感变化检测方法（IEEE TGRS 2026）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "blaz-r/mason_cd 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 25（+2）
 
 
 ---

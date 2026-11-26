@@ -45,12 +45,12 @@ msitarzewski/agency-agents 的日语社区版，收录 413 个 AI 专家角色�
 ```mermaid
 xychart-beta
     title "sscodeai/agency-agents-ja 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

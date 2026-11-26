@@ -1,6 +1,6 @@
 # martianacademy/olympus-coder
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/martianacademy/olympus-coder) · [官网](https://olympus.marsnext.in) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/martianacademy/olympus-coder) · [官网](https://olympus.marsnext.in) · 组织维护
 
 **统一桌面工作台：在一个应用里管理所有 ACP 编码 agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "martianacademy/olympus-coder 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    title "martianacademy/olympus-coder 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 14 --> 17
-    line [15, 16]
+    line [15, 16, 16]
 ```
 
-2026-11-23 15 → 2026-11-25 16（+1）
+2026-11-23 15 → 2026-11-26 16（+1）
 
 
 ---

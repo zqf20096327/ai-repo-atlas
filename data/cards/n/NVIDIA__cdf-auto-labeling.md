@@ -1,6 +1,6 @@
 # NVIDIA/cdf-auto-labeling
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/NVIDIA/cdf-auto-labeling) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA/cdf-auto-labeling) · 组织维护
 
 **把原始图像/视频自动标注为可训练数据集的流水线**
 
@@ -46,12 +46,12 @@ NVIDIA 的 CDF 工作流仓库，将原始图像与视频数据转换为可复�
 ```mermaid
 xychart-beta
     title "NVIDIA/cdf-auto-labeling 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-19", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-19 10 → 2026-11-25 10（+0）
+2026-11-19 10 → 2026-11-26 11（+1）
 
 
 ---

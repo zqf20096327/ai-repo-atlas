@@ -1,6 +1,6 @@
 # secondstar7/DocAutomate
 
-⭐ 4 · Python · 推送 2026-10-30 · [GitHub](https://github.com/secondstar7/DocAutomate) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **将文档处理委托给 Claude Code 的文档工作流自动化框架**
 

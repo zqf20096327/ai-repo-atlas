@@ -1,6 +1,6 @@
 # mcp2cli/source-code
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/mcp2cli/source-code) · [官网](https://mcp2cli.dev) · 组织维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/mcp2cli/source-code) · [官网](https://mcp2cli.dev) · 组织维护
 
 **将 MCP 服务器自动转换为可发现、可脚本化 CLI 工具的适配器**
 
@@ -47,12 +47,12 @@ Rust 编写的命令行适配器：连接任意 MCP 服务器后自动发现其�
 ```mermaid
 xychart-beta
     title "mcp2cli/source-code 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 14（+2）
 
 
 ---

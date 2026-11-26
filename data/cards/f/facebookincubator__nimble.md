@@ -1,6 +1,6 @@
 # facebookincubator/nimble
 
-⭐ 745 · C++ · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/facebookincubator/nimble) · 组织维护
+⭐ 746 · C++ · Apache-2.0 · 推送 2026-09-21 · [GitHub](https://github.com/facebookincubator/nimble) · 组织维护
 
 **面向宽表/机器学习训练数据的大规模列式文件格式**
 
@@ -45,12 +45,12 @@ Meta（原 Alpha 项目）开发的列式文件格式，定位为 Apache Parquet
 ```mermaid
 xychart-beta
     title "facebookincubator/nimble 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 740 --> 746
-    line [741, 742, 743, 741, 745, 745]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 740 --> 747
+    line [741, 742, 743, 741, 745, 746]
 ```
 
-2026-10-23 741 → 2026-11-25 745（+4）
+2026-10-24 741 → 2026-11-26 746（+5）
 
 
 ---

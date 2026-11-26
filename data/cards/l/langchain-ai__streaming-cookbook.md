@@ -1,6 +1,6 @@
 # langchain-ai/streaming-cookbook
 
-⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/langchain-ai/streaming-cookbook) · 组织维护
+⭐ 58 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/langchain-ai/streaming-cookbook) · 组织维护
 
 **LangChain 生态流式能力的可运行示例与文档集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "langchain-ai/streaming-cookbook 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-26"]
     y-axis "stars" 56 --> 60
     line [59, 58, 59, 58, 57, 58, 58]
 ```
 
-2026-10-23 59 → 2026-11-25 58（-1）
+2026-10-24 59 → 2026-11-26 58（-1）
 
 
 ---

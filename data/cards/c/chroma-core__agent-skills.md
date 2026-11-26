@@ -45,12 +45,12 @@ Chroma 团队发布的官方 Agent 技能仓库，含 chroma-local 与 chroma-cl
 ```mermaid
 xychart-beta
     title "chroma-core/agent-skills 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 24（+0）
 
 
 ---

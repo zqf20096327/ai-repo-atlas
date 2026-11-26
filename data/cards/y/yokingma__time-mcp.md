@@ -1,6 +1,6 @@
 # yokingma/time-mcp
 
-⭐ 72 · JavaScript · MIT · 推送 2026-01-31 · [GitHub](https://github.com/yokingma/time-mcp) · 个人维护
+⭐ 71 · JavaScript · MIT · 推送 2026-01-31 · [GitHub](https://github.com/yokingma/time-mcp) · 个人维护
 
 **为 LLM 提供时间感知能力的 MCP 服务器**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "yokingma/time-mcp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 71 --> 73
-    line [72, 72]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 70 --> 73
+    line [72, 71]
 ```
 
-2026-10-23 72 → 2026-11-25 72（+0）
+2026-10-24 72 → 2026-11-26 71（-1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L4: Python application test with Github Actions
 > L10: You can Notebook see the Databricks code here: https://github.com/noahgift/mlflow-project-best-practices/blob/main/
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/mlflow-project-best-practices 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 53 --> 55
+    line [54, 54]
+```
+
+2026-11-25 54 → 2026-11-26 54（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `32150335eaae` · [字段定义](../../DATASET.md)*

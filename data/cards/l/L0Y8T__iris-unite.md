@@ -1,6 +1,6 @@
 # L0Y8T/iris-unite
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/L0Y8T/iris-unite) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/L0Y8T/iris-unite) · 个人维护 · 中文 README
 
 **给科研人员的桌面工作台：检索真实文献并逐条核验引用**
 
@@ -47,12 +47,12 @@ Electron 桌面应用，按「检索→证据→推演→引用核验」流程�
 ```mermaid
 xychart-beta
     title "L0Y8T/iris-unite 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-25 3（+0）
+2026-11-20 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # xialongxl/TH06NC-Neural-Pilot
 
-⭐ 3 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/xialongxl/TH06NC-Neural-Pilot) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xialongxl/TH06NC-Neural-Pilot) · 个人维护 · 中文 README
 
 **用 PPO 强化学习玩东方红魔乡的游戏 AI 代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xialongxl/TH06NC-Neural-Pilot 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

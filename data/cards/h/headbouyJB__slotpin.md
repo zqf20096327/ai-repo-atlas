@@ -1,6 +1,6 @@
 # headbouyJB/slotpin
 
-⭐ 5 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/headbouyJB/slotpin) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地 LLM 服务器的槽位固定缓存感知反代与仪表盘**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

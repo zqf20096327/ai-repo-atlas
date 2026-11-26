@@ -1,6 +1,6 @@
 # Codesammit/Valorant-Aim-Architecture-Overlay
 
-⭐ 54 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay) · 个人维护
+⭐ 54 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/Codesammit/Valorant-Aim-Architecture-Overlay) · 个人维护
 
 **Valorant 屏幕分析叠加层：AI 注意力热图与 DNS 路由优化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Codesammit/Valorant-Aim-Architecture-Overlay 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-23 54 → 2026-11-25 54（+0）
+2026-10-24 54 → 2026-11-26 54（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jgraving/selfsne
 
-⭐ 160 · Python · NOASSERTION · 推送 2026-11-05 · [GitHub](https://github.com/jgraving/selfsne) · 个人维护
+⭐ 160 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/jgraving/selfsne) · 个人维护
 
 **自监督噪声嵌入库：预研重构中，暂不可用**
 
@@ -43,12 +43,12 @@ Self-SNE（Self-Supervised Noise Embeddings）是面向深度学习的自监督�
 ```mermaid
 xychart-beta
     title "jgraving/selfsne 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 159 --> 161
     line [160, 160]
 ```
 
-2026-10-23 160 → 2026-11-25 160（+0）
+2026-10-24 160 → 2026-11-26 160（+0）
 
 
 ---

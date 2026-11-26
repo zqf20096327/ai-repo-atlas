@@ -1,6 +1,6 @@
 # samuel325365/Tellcut
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/samuel325365/Tellcut) · [官网](https://samuel325365.github.io/Tellcut/) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/samuel325365/Tellcut) · [官网](https://samuel325365.github.io/Tellcut/) · 个人维护 · 中文 README
 
 **对话式本地视频剪辑器：AI agent 看素材、写分镜并剪初稿**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "samuel325365/Tellcut 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-25"]
-    y-axis "stars" 7 --> 10
-    line [8, 9, 9]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-26"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-01 8 → 2026-11-25 9（+1）
+2026-11-01 8 → 2026-11-26 10（+2）
 
 
 ---

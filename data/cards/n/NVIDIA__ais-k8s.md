@@ -1,6 +1,6 @@
 # NVIDIA/ais-k8s
 
-⭐ 139 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/NVIDIA/ais-k8s) · 组织维护
+⭐ 139 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA/ais-k8s) · 组织维护
 
 **AIStore 在 Kubernetes 上大规模部署的运维工具集**
 
@@ -45,12 +45,12 @@ NVIDIA 维护的 AIStore（面向 AI 应用的轻量级可扩展对象存储）K
 ```mermaid
 xychart-beta
     title "NVIDIA/ais-k8s 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-11", "2026-11-26"]
     y-axis "stars" 137 --> 140
     line [138, 139, 139]
 ```
 
-2026-10-22 138 → 2026-11-25 139（+1）
+2026-10-23 138 → 2026-11-26 139（+1）
 
 
 ---

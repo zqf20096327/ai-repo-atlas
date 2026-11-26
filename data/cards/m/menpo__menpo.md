@@ -1,6 +1,6 @@
 # menpo/menpo
 
-⭐ 328 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/menpo/menpo) · [官网](http://www.menpo.org) · 组织维护
+⭐ 328 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/menpo/menpo) · [官网](http://www.menpo.org) · 组织维护
 
 **给 CV/ML 研究者处理标注图像与网格数据的 Python 工具库**
 
@@ -47,12 +47,12 @@ Menpo 项目核心库，面向机器学习与计算机视觉领域常见的标�
 ```mermaid
 xychart-beta
     title "menpo/menpo 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 327 --> 330
     line [329, 328, 328]
 ```
 
-2026-11-18 329 → 2026-11-25 328（-1）
+2026-11-18 329 → 2026-11-26 328（-1）
 
 
 ---

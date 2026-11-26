@@ -46,12 +46,12 @@ MathWorks 教学团队制作的线性代数课程模块，由多个交互式 MAT
 ```mermaid
 xychart-beta
     title "MathWorks-Teaching-Resources/Applied-Linear-Algebra 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 24（+1）
 
 
 ---

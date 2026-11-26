@@ -1,6 +1,6 @@
 # nburrus/stereodemo
 
-⭐ 180 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nburrus/stereodemo) · 个人维护
+⭐ 181 · Python · MIT · 推送 2026-10-25 · [GitHub](https://github.com/nburrus/stereodemo) · 个人维护
 
 **比较和可视化多种立体深度估计算法输出的 Python 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nburrus/stereodemo 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 179 --> 181
-    line [180, 180]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 179 --> 182
+    line [180, 181]
 ```
 
-2026-10-23 180 → 2026-11-25 180（+0）
+2026-10-24 180 → 2026-11-26 181（+1）
 
 
 ---

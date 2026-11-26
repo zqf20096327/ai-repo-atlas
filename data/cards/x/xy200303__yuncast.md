@@ -1,6 +1,6 @@
 # xy200303/yuncast
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-06 · [GitHub](https://github.com/xy200303/yuncast) · [官网](https://yuncast.xyun.dev/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向不会直播的商家：AI 写稿配音自动回复评论的直播工作台**
 
@@ -11,7 +11,7 @@ Electron 桌面应用，把直播流程收进单窗口：导演 Agent 按项目�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

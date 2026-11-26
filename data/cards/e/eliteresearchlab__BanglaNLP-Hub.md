@@ -1,6 +1,6 @@
 # eliteresearchlab/BanglaNLP-Hub
 
-⭐ 10 · Astro · MIT · 推送 2026-11-23 · [GitHub](https://github.com/eliteresearchlab/BanglaNLP-Hub) · [官网](https://eliteresearchlab.github.io/BanglaNLP-Hub/) · 组织维护
+⭐ 10 · Astro · MIT · 推送 2026-11-25 · [GitHub](https://github.com/eliteresearchlab/BanglaNLP-Hub) · [官网](https://eliteresearchlab.github.io/BanglaNLP-Hub/) · 组织维护
 
 **面向孟加拉语 NLP 研究者的论文/数据集/模型/工具目录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eliteresearchlab/BanglaNLP-Hub 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [11, 10, 10]
 ```
 
-2026-11-08 11 → 2026-11-25 10（-1）
+2026-11-08 11 → 2026-11-26 10（-1）
 
 
 ---

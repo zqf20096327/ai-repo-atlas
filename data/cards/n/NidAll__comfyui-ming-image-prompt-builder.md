@@ -1,6 +1,6 @@
 # NidAll/comfyui-ming-image-prompt-builder
 
-⭐ 18 · JavaScript · GPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/NidAll/comfyui-ming-image-prompt-builder) · 个人维护
+⭐ 18 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/NidAll/comfyui-ming-image-prompt-builder) · 个人维护
 
 **ComfyUI 节点：为 Ming 文生图工作流可视化构建结构化 JSON 提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "NidAll/comfyui-ming-image-prompt-builder 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 18（+2）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

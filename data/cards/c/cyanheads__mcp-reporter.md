@@ -1,6 +1,6 @@
 # cyanheads/mcp-reporter
 
-⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/cyanheads/mcp-reporter) · 个人维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cyanheads/mcp-reporter) · [官网](https://www.npmjs.com/package/mcp-reporter) · 个人维护
 
 **为 MCP 服务器生成 Markdown 能力报告的 CLI/库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyanheads/mcp-reporter 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-15", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-15 13 → 2026-11-25 13（+0）
+2026-11-15 13 → 2026-11-26 13（+0）
 
 
 ---

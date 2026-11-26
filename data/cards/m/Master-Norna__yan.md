@@ -1,6 +1,6 @@
 # Master-Norna/yan
 
-⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Master-Norna/yan) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Master-Norna/yan) · 个人维护 · 中文 README
 
 **本地运行的中文聊天与轻量 Agent 界面，模型自接**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Master-Norna/yan 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-11-08 17 → 2026-11-25 18（+1）
+2026-11-08 17 → 2026-11-26 18（+1）
 
 
 ---

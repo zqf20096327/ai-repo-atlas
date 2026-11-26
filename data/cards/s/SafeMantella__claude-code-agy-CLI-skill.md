@@ -1,6 +1,6 @@
 # SafeMantella/claude-code-agy-CLI-skill
 
-⭐ 21 · MIT · 推送 2026-05-20 · [GitHub](https://github.com/SafeMantella/claude-code-agy-CLI-skill) · 个人维护
+⭐ 22 · MIT · 推送 2026-05-20 · [GitHub](https://github.com/SafeMantella/claude-code-agy-CLI-skill) · 个人维护
 
 **让 Claude Code 把重任务委派给 Antigravity CLI 的多 agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SafeMantella/claude-code-agy-CLI-skill 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 16 --> 22
-    line [17, 18, 19, 20, 21]
+    title "SafeMantella/claude-code-agy-CLI-skill 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 16 --> 23
+    line [17, 18, 19, 20, 21, 22]
 ```
 
-2026-10-23 17 → 2026-11-25 21（+4）
+2026-10-24 17 → 2026-11-26 22（+5）
 
 
 ---

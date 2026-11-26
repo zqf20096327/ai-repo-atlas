@@ -1,6 +1,6 @@
 # ThegeekyAbhi/claudex
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThegeekyAbhi/claudex) · [官网](https://www.claudex.live/) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThegeekyAbhi/claudex) · [官网](https://www.claudex.live/) · 个人维护
 
 **在 VS Code 中同时使用 Claude Code 与 Codex 的工作区扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ThegeekyAbhi/claudex 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 4（+1）
 
 
 ---

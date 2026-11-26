@@ -1,6 +1,6 @@
 # AmanCode22/deeperseeker
 
-⭐ 231 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AmanCode22/deeperseeker) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **自托管的 DeepSeek 网页会话反向代理，将其转换为 OpenAI/Anthropic 兼容的 API 端点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

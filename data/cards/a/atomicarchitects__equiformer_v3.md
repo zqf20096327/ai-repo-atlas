@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "atomicarchitects/equiformer_v3 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 126 --> 131
-    line [127, 128, 130, 130]
+    title "atomicarchitects/equiformer_v3 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 127 --> 131
+    line [128, 130, 130]
 ```
 
-2026-10-23 127 → 2026-11-25 130（+3）
+2026-10-24 128 → 2026-11-26 130（+2）
 
 
 ---

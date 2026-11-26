@@ -1,6 +1,6 @@
 # yang3kc/llm_for_css
 
-⭐ 54 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/yang3kc/llm_for_css) · [官网](https://yang3kc.github.io/llm_for_css/) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/yang3kc/llm_for_css) · [官网](https://yang3kc.github.io/llm_for_css/) · 个人维护
 
 **面向计算社会科学研究者的 LLM API 使用教程网站**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yang3kc/llm_for_css 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-23 54 → 2026-11-25 54（+0）
+2026-10-24 54 → 2026-11-26 54（+0）
 
 
 ---

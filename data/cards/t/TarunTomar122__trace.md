@@ -1,6 +1,6 @@
 # TarunTomar122/trace
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/TarunTomar122/trace) · [官网](https://www.yourtrace.online) · 个人维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/TarunTomar122/trace) · [官网](https://www.yourtrace.online) · 个人维护
 
 **自托管科技与 AI 新闻日报生成器，支持 MCP 接入 AI 助手**
 
@@ -41,6 +41,18 @@ Trace 每天从 100+ RSS/Atom、Hacker News、Reddit、Product Hunt、X 等来�
 > L6: Trace reads tech and AI news from over a hundred sources every morning, groups
 > L32: Trace is a read-only remote MCP server at `https://www.yourtrace.online/api/mcp`.
 > L68:  structured outputs) decide what makes the cut and what is worth an email.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TarunTomar122/trace 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-25 10 → 2026-11-26 11（+1）
 
 
 ---

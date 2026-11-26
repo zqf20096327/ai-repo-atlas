@@ -1,6 +1,6 @@
 # ranajahanzaib/agent-tool-selection-tester
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/agent-tool-selection-tester) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ranajahanzaib/agent-tool-selection-tester) · 个人维护
 
 **评测本地 LLM 在工具名/描述/顺序变化下的选工具可靠性**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/agent-tool-selection-tester 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-11 4 → 2026-11-25 4（+0）
+2026-11-11 4 → 2026-11-26 4（+0）
 
 
 ---

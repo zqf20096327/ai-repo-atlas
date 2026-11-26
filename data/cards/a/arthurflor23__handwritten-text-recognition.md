@@ -1,6 +1,6 @@
 # arthurflor23/handwritten-text-recognition
 
-⭐ 307 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/arthurflor23/handwritten-text-recognition) · [官网](https://arthurflor23.medium.com/handwritten-text-synthesis-and-recognition-cf5bcf2aaeb8) · 个人维护
+⭐ 308 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/arthurflor23/handwritten-text-recognition) · [官网](https://arthurflor23.medium.com/handwritten-text-synthesis-and-recognition-cf5bcf2aaeb8) · 个人维护
 
 **给研究者的手写文本识别训练与推理工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "arthurflor23/handwritten-text-recognition 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-25"]
-    y-axis "stars" 305 --> 309
-    line [306, 307, 308, 307, 307]
+    title "arthurflor23/handwritten-text-recognition 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-26"]
+    y-axis "stars" 306 --> 309
+    line [307, 308, 307, 308]
 ```
 
-2026-10-23 306 → 2026-11-25 307（+1）
+2026-10-24 307 → 2026-11-26 308（+1）
 
 
 ---

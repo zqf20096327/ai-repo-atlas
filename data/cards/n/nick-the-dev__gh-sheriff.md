@@ -1,6 +1,6 @@
 # nick-the-dev/gh-sheriff
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nick-the-dev/gh-sheriff) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nick-the-dev/gh-sheriff) · 个人维护
 
 **用 AI 在 CI 中审查 AI 代理提交的 PR，通过后才放行合并**
 
@@ -40,6 +40,18 @@
 > L5:  A GitHub CLI extension that reviews every pull request with AI in CI,
 > L16: Sheriff is for repositories where AI agents open pull requests. One command sets up:
 > L19: - an AI review on every push: an optional cheap model first, and a smart model only if that passes;
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nick-the-dev/gh-sheriff 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # walkinglabs/hands-on-world-models
 
-⭐ 42 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/walkinglabs/hands-on-world-models) · [官网](https://walkinglabs.github.io/hands-on-world-models/) · 组织维护 · 中文 README
+⭐ 43 · Python · NOASSERTION · 推送 2026-09-03 · [GitHub](https://github.com/walkinglabs/hands-on-world-models) · [官网](https://walkinglabs.github.io/hands-on-world-models/) · 组织维护 · 中文 README
 
 **中文世界模型动手课程：从零实现潜在动力学、JEPA、VLA 等模型**
 
@@ -44,13 +44,13 @@ WalkingLabs 维护的中文开源课件，系统讲解世界模型：从观察�
 
 ```mermaid
 xychart-beta
-    title "walkinglabs/hands-on-world-models 星数(近 15 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 26 --> 43
-    line [27, 28, 29, 31, 32, 27, 34, 35, 36, 37, 38, 39, 40, 41, 42]
+    title "walkinglabs/hands-on-world-models 星数(近 16 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 26 --> 44
+    line [27, 28, 29, 31, 32, 27, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43]
 ```
 
-2026-10-23 27 → 2026-11-25 42（+15）
+2026-10-24 27 → 2026-11-26 43（+16）
 
 
 ---

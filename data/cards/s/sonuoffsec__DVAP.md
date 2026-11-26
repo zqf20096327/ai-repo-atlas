@@ -1,6 +1,6 @@
 # sonuoffsec/DVAP
 
-⭐ 30 · TypeScript · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/sonuoffsec/DVAP) · 个人维护
+⭐ 31 · TypeScript · NOASSERTION · 推送 2026-06-10 · [GitHub](https://github.com/sonuoffsec/DVAP) · 个人维护
 
 **本地自托管 AI 安全训练与测试平台：含漏洞靶场、CTF 与基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sonuoffsec/DVAP 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 29, 30, 30]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 30, 31]
 ```
 
-2026-10-23 29 → 2026-11-25 30（+1）
+2026-10-24 29 → 2026-11-26 31（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # hengzhe-zhang/EvolutionaryForest
 
-⭐ 168 · Python · LGPL-3.0 · 推送 2026-06-10 · [GitHub](https://github.com/hengzhe-zhang/EvolutionaryForest) · 个人维护 · 中文 README
+⭐ 169 · Python · LGPL-3.0 · 推送 2026-06-10 · [GitHub](https://github.com/hengzhe-zhang/EvolutionaryForest) · 个人维护 · 中文 README
 
 **基于遗传编程的自动特征工程 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hengzhe-zhang/EvolutionaryForest 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 167 --> 169
-    line [168, 168]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 167 --> 170
+    line [168, 169]
 ```
 
-2026-10-23 168 → 2026-11-25 168（+0）
+2026-10-24 168 → 2026-11-26 169（+1）
 
 
 ---

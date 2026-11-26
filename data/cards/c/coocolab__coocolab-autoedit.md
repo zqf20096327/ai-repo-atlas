@@ -41,6 +41,18 @@
 > L23: |聽打|把人聲切成一段一段分開聽打，講到一半重講也抓得到|
 > L87: |Mac（M 系列晶片）|mlx-whisper，large-v3-turbo|幾分鐘|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "coocolab/coocolab-autoedit 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `dc1dd4883b80` · [字段定义](../../DATASET.md)*

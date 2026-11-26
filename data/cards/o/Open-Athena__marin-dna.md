@@ -1,6 +1,6 @@
 # Open-Athena/marin-dna
 
-⭐ 41 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Open-Athena/marin-dna) · [官网](http://openathena.ai/marin-dna/) · 组织维护
+⭐ 41 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Open-Athena/marin-dna) · [官网](http://openathena.ai/marin-dna/) · 组织维护
 
 **基因组语言模型的开放研发项目：数据、建模与评估**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Open-Athena/marin-dna 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "Open-Athena/marin-dna 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 37 --> 42
-    line [38, 39, 38, 40, 41]
+    line [38, 39, 38, 40, 41, 41]
 ```
 
-2026-10-23 38 → 2026-11-25 41（+3）
+2026-10-24 38 → 2026-11-26 41（+3）
 
 
 ---

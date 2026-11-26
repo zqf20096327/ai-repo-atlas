@@ -45,12 +45,12 @@ Ruby 文本分类 Gem，提供 Naive Bayes、LSI、k-近邻、逻辑回归与 TF
 ```mermaid
 xychart-beta
     title "cardmagic/classifier 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 740 --> 742
     line [741, 741]
 ```
 
-2026-10-23 741 → 2026-11-25 741（+0）
+2026-10-24 741 → 2026-11-26 741（+0）
 
 
 ---

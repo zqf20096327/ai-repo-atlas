@@ -1,6 +1,6 @@
 # peiman/ckeletin-go
 
-⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/peiman/ckeletin-go) · 个人维护
+⭐ 12 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/peiman/ckeletin-go) · 个人维护
 
 **AI-first Go CLI 脚手架框架：让 AI 编码代理产出结构正确的代码**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "peiman/ckeletin-go 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

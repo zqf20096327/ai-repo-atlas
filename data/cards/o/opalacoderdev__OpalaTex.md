@@ -1,6 +1,6 @@
 # opalacoderdev/OpalaTex
 
-⭐ 24 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opalacoderdev/OpalaTex) · [官网](https://opalacoder.com) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/opalacoderdev/OpalaTex) · [官网](https://opalacoder.com) · 组织维护
 
 **带 AI 助手的本地 LaTeX 编辑器，支持本地编译与可选模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "opalacoderdev/OpalaTex 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
     y-axis "stars" 23 --> 27
     line [26, 25, 24, 24]
 ```
 
-2026-10-23 26 → 2026-11-25 24（-2）
+2026-10-24 26 → 2026-11-26 24（-2）
 
 
 ---

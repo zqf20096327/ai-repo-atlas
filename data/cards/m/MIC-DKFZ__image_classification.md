@@ -46,12 +46,12 @@ GloViTa 是德国癌症研究中心（MIC-DKFZ）开源的 PyTorch 视觉任务�
 ```mermaid
 xychart-beta
     title "MIC-DKFZ/image_classification 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 65 --> 67
     line [66, 66]
 ```
 
-2026-10-23 66 → 2026-11-25 66（+0）
+2026-10-24 66 → 2026-11-26 66（+0）
 
 
 ---

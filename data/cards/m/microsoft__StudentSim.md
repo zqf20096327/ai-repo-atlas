@@ -1,6 +1,6 @@
 # microsoft/StudentSim
 
-⭐ 83 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/StudentSim) · 组织维护
+⭐ 83 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/StudentSim) · 组织维护
 
 **为AI辅导研究者训练单个学生模拟器以测试辅导方法**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/StudentSim 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 76 --> 84
-    line [77, 78, 79, 80, 81, 82, 83, 83]
+    title "microsoft/StudentSim 星数(近 7 点)"
+    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 77 --> 84
+    line [78, 79, 80, 81, 82, 83, 83]
 ```
 
-2026-10-22 77 → 2026-11-25 83（+6）
+2026-10-23 78 → 2026-11-26 83（+5）
 
 
 ---

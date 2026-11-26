@@ -46,12 +46,12 @@ Zeiss 显微镜部门维护的智能显微培训仓库，围绕 ZEN 软件、CZI
 ```mermaid
 xychart-beta
     title "zeissmicroscopy/ZEN_API_Python_CZI_workshop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 20（+0）
 
 
 ---

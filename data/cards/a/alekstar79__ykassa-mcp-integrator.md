@@ -41,6 +41,18 @@
 > L110: - `apps/api` - headless API: MCP-клиент, LLM-оркестрация, подтверждения и аудит.
 > L126: Удаление `apps/web` не влияет на API. Интеграция с YooKassa выполняется через
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "alekstar79/ykassa-mcp-integrator 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `82c4005098f3` · [字段定义](../../DATASET.md)*

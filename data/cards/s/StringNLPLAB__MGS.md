@@ -1,6 +1,6 @@
 # StringNLPLAB/MGS
 
-⭐ 23 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/StringNLPLAB/MGS) · 组织维护 · 中文 README
+⭐ 24 · Python · MIT · 推送 2026-03-15 · [GitHub](https://github.com/StringNLPLAB/MGS) · 组织维护 · 中文 README
 
 **论文实现：模块级梯度手术平衡 LLM 多目标 RL 训练**
 
@@ -44,12 +44,12 @@ Modular Gradient Surgery (MGS) 的官方实现：在 GRPO 强化学习后训练�
 ```mermaid
 xychart-beta
     title "StringNLPLAB/MGS 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 24（+2）
 
 
 ---

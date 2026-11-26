@@ -46,12 +46,12 @@ Percept 是一个常驻 macOS 菜单栏的本地推理应用，支持四种模�
 ```mermaid
 xychart-beta
     title "christofilojohn/MacPercept 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-20 13 → 2026-11-25 13（+0）
+2026-11-20 13 → 2026-11-26 13（+0）
 
 
 ---

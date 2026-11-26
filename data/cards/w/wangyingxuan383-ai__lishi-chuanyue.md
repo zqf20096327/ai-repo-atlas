@@ -1,6 +1,6 @@
 # wangyingxuan383-ai/lishi-chuanyue
 
-⭐ 13 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/wangyingxuan383-ai/lishi-chuanyue) · [官网](https://github.com/wangyingxuan383-ai/lishi-chuanyue/releases) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/wangyingxuan383-ai/lishi-chuanyue) · [官网](https://github.com/wangyingxuan383-ai/lishi-chuanyue/releases) · 个人维护 · 中文 README
 
 **装在手机和电脑里的历史穿越 AI 互动小说应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wangyingxuan383-ai/lishi-chuanyue 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-08", "2026-11-26"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 13, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

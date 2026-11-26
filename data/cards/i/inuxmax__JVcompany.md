@@ -1,6 +1,6 @@
 # inuxmax/JVcompany
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/inuxmax/JVcompany) · [官网](https://inuxmax.github.io/JVcompany/) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/inuxmax/JVcompany) · [官网](https://inuxmax.github.io/JVcompany/) · 个人维护 · 中文 README
 
 **自托管多 Agent 编排平台：10 个 AI 部门在 3D 办公室协作交付软件任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inuxmax/JVcompany 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-18 3 → 2026-11-25 3（+0）
+2026-11-18 3 → 2026-11-26 5（+2）
 
 
 ---

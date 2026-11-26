@@ -1,6 +1,6 @@
 # stdapi-ai/stdapi.ai
 
-⭐ 27 · Python · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/stdapi-ai/stdapi.ai) · [官网](http://stdapi.jgoutin.dev/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 Amazon Bedrock 的自托管 AI API 网关，兼容多种主流 API**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

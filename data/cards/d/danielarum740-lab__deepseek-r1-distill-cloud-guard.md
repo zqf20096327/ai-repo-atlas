@@ -1,6 +1,6 @@
 # danielarum740-lab/deepseek-r1-distill-cloud-guard
 
-⭐ 92 · 推送 2026-11-06 · [GitHub](https://github.com/danielarum740-lab/deepseek-r1-distill-cloud-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 117 · 推送 2026-11-06 · [GitHub](https://github.com/danielarum740-lab/deepseek-r1-distill-cloud-guard) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **海外 GPU 租用扣费熔断方案：CoreGold 商用卡限额止损**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "danielarum740-lab/deepseek-r1-distill-cloud-guard 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 0 --> 100
-    line [7, 29, 42, 46, 52, 49, 55, 70, 92]
+    title "danielarum740-lab/deepseek-r1-distill-cloud-guard 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 128
+    line [7, 29, 42, 46, 52, 49, 55, 70, 92, 117]
 ```
 
-2026-11-08 7 → 2026-11-25 92（+85）
+2026-11-08 7 → 2026-11-26 117（+110）
 
 
 ---

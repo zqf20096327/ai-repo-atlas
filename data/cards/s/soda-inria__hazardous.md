@@ -1,6 +1,6 @@
 # soda-inria/hazardous
 
-⭐ 121 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/soda-inria/hazardous) · [官网](https://soda-inria.github.io/hazardous/) · 组织维护
+⭐ 122 · Python · MIT · 推送 2026-07-17 · [GitHub](https://github.com/soda-inria/hazardous) · [官网](https://soda-inria.github.io/hazardous/) · 组织维护
 
 **竞争风险与生存分析的预测建模库**
 
@@ -45,12 +45,12 @@ Inria soda 团队维护的 Python 库，提供竞争风险（competing risks）�
 ```mermaid
 xychart-beta
     title "soda-inria/hazardous 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-23 121 → 2026-11-25 121（+0）
+2026-10-24 121 → 2026-11-26 122（+1）
 
 
 ---

@@ -46,12 +46,12 @@ AegisHarness 将红队攻击工具链、目标 LLM 工作负载与蓝队带外�
 ```mermaid
 xychart-beta
     title "harkirat-data/AegisHarness-Hacktoberfest 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

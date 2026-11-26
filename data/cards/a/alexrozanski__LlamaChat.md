@@ -1,6 +1,6 @@
 # alexrozanski/LlamaChat
 
-⭐ 1,502 · Swift · MIT · 推送 2026-06-17 · [GitHub](https://github.com/alexrozanski/LlamaChat) · [官网](https://llamachat.app) · 个人维护
+⭐ 1,501 · Swift · MIT · 推送 2026-06-17 · [GitHub](https://github.com/alexrozanski/LlamaChat) · [官网](https://llamachat.app) · 个人维护
 
 **在 Mac 上本地对话 LLaMA/Alpaca/GPT4All 模型的原生应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alexrozanski/LlamaChat 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 1501 --> 1506
-    line [1504, 1505, 1504, 1503, 1504, 1503, 1502, 1502]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 1500 --> 1506
+    line [1504, 1505, 1504, 1503, 1504, 1503, 1502, 1501]
 ```
 
-2026-10-23 1,504 → 2026-11-25 1,502（-2）
+2026-10-24 1,504 → 2026-11-26 1,501（-3）
 
 
 ---

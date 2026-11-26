@@ -1,6 +1,6 @@
 # SummerGift/EmbeddedSystem
 
-⭐ 718 · Jupyter Notebook · MIT · 推送 2026-05-05 · [GitHub](https://github.com/SummerGift/EmbeddedSystem) · 个人维护 · 中文 README
+⭐ 719 · Jupyter Notebook · MIT · 推送 2026-05-05 · [GitHub](https://github.com/SummerGift/EmbeddedSystem) · 个人维护 · 中文 README
 
 **嵌入式系统与计算机体系架构的学习笔记知识库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SummerGift/EmbeddedSystem 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 714 --> 719
-    line [715, 716, 715, 717, 716, 718, 718]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 714 --> 720
+    line [715, 716, 715, 717, 716, 718, 719]
 ```
 
-2026-10-23 715 → 2026-11-25 718（+3）
+2026-10-24 715 → 2026-11-26 719（+4）
 
 
 ---

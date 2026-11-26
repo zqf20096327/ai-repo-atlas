@@ -1,6 +1,6 @@
 # Hazrat-Ali9/Water_Potability_Check_ML
 
-⭐ 40 · Python · 推送 2026-11-18 · [GitHub](https://github.com/Hazrat-Ali9/Water_Potability_Check_ML) · [官网](https://huggingface.co/spaces/Hazrat-Ali9/Water_Potability_Check_ML) · 个人维护
+⭐ 41 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Hazrat-Ali9/Water_Potability_Check_ML) · [官网](https://huggingface.co/spaces/Hazrat-Ali9/Water_Potability_Check_ML) · 个人维护
 
 **机器学习预测饮用水可饮用性的分类项目**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/Water_Potability_Check_ML 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 24 --> 41
-    line [25, 26, 25, 31, 35, 37, 39, 40]
+    title "Hazrat-Ali9/Water_Potability_Check_ML 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 42
+    line [25, 26, 25, 31, 35, 37, 39, 40, 41]
 ```
 
-2026-10-23 25 → 2026-11-25 40（+15）
+2026-10-24 25 → 2026-11-26 41（+16）
 
 
 ---

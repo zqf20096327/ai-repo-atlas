@@ -1,6 +1,6 @@
 # TrapBladesmith/GitHub-Copilot-app
 
-⭐ 371 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TrapBladesmith/GitHub-Copilot-app) · 组织维护
+⭐ 365 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TrapBladesmith/GitHub-Copilot-app) · 组织维护
 
 **面向 GitHub 仓库的 Copilot 桌面端，代理并行开发工作台**
 
@@ -44,13 +44,13 @@ GitHub, Inc. 发布的桌面应用，用于查找、启动、引导并合并跨�
 
 ```mermaid
 xychart-beta
-    title "TrapBladesmith/GitHub-Copilot-app 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 370 --> 380
-    line [379, 378, 377, 374, 371]
+    title "TrapBladesmith/GitHub-Copilot-app 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 364 --> 380
+    line [379, 378, 377, 374, 371, 365]
 ```
 
-2026-11-15 379 → 2026-11-25 371（-8）
+2026-11-15 379 → 2026-11-26 365（-14）
 
 
 ---

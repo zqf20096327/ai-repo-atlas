@@ -1,6 +1,6 @@
 # wildminder/AI-windows-whl
 
-⭐ 888 · 推送 2026-09-07 · [GitHub](https://github.com/wildminder/AI-windows-whl) · [官网](https://wildminder.github.io/AI-windows-whl/) · 个人维护
+⭐ 889 · 推送 2026-09-07 · [GitHub](https://github.com/wildminder/AI-windows-whl) · [官网](https://wildminder.github.io/AI-windows-whl/) · 个人维护
 
 **Windows 平台 AI/ML 库预编译 whl 链接清单，免源码编译**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "wildminder/AI-windows-whl 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 877 --> 889
-    line [878, 881, 882, 884, 878, 886, 887, 888, 887, 886, 888]
+    title "wildminder/AI-windows-whl 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 877 --> 890
+    line [878, 881, 882, 884, 878, 886, 887, 888, 887, 886, 888, 889]
 ```
 
-2026-10-23 878 → 2026-11-25 888（+10）
+2026-10-24 878 → 2026-11-26 889（+11）
 
 
 ---

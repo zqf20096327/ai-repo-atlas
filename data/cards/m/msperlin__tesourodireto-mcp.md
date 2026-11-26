@@ -1,6 +1,6 @@
 # msperlin/tesourodireto-mcp
 
-⭐ 5 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/msperlin/tesourodireto-mcp) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/msperlin/tesourodireto-mcp) · 个人维护
 
 **为 LLM agent 提供巴西国债与 ANBIMA 收益率曲线数据的 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "msperlin/tesourodireto-mcp 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    title "msperlin/tesourodireto-mcp 星数(近 4 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-13 3 → 2026-11-25 5（+2）
+2026-11-13 3 → 2026-11-26 6（+3）
 
 
 ---

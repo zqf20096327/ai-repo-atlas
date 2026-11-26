@@ -1,6 +1,6 @@
 # codewith-aditya/metaphor-bridge
 
-⭐ 6 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/codewith-aditya/metaphor-bridge) · 个人维护
+⭐ 6 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/codewith-aditya/metaphor-bridge) · 个人维护
 
 **Linux 下访问 Metaphor 模型网关的本地 OpenAI 兼容桥**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codewith-aditya/metaphor-bridge 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-26"]
     y-axis "stars" 3 --> 7
     line [4, 6, 6]
 ```
 
-2026-11-19 4 → 2026-11-25 6（+2）
+2026-11-19 4 → 2026-11-26 6（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # heiye-vn/enterprise-knowledge-assistant
 
-⭐ 3 · Python · 推送 2026-11-20 · [GitHub](https://github.com/heiye-vn/enterprise-knowledge-assistant) · 个人维护 · 中文 README
+⭐ 3 · Python · 推送 2026-11-24 · [GitHub](https://github.com/heiye-vn/enterprise-knowledge-assistant) · 个人维护 · 中文 README
 
 **企业制度文档 RAG 问答系统：上传文档、溯源回答、拒答无据问题**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "heiye-vn/enterprise-knowledge-assistant 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-25 3（+0）
+2026-11-19 3 → 2026-11-26 3（+0）
 
 
 ---

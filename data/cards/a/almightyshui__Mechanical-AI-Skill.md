@@ -1,6 +1,6 @@
 # almightyshui/Mechanical-AI-Skill
 
-⭐ 33 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/almightyshui/Mechanical-AI-Skill) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-06-17 · [GitHub](https://github.com/almightyshui/Mechanical-AI-Skill) · 个人维护
 
 **让 AI agent 审阅机械装配体的工程审查技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "almightyshui/Mechanical-AI-Skill 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-16", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 28 --> 34
-    line [29, 30, 31, 32, 33, 33]
+    title "almightyshui/Mechanical-AI-Skill 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-16", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 29 --> 35
+    line [30, 31, 32, 33, 34]
 ```
 
-2026-10-23 29 → 2026-11-25 33（+4）
+2026-10-24 30 → 2026-11-26 34（+4）
 
 
 ---

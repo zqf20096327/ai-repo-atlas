@@ -40,6 +40,18 @@
 > L3: List of examples and tutorials of how to use the Vector Search Engine
 > L12: ## Examples
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "weaviate/weaviate-examples 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 330 --> 332
+    line [331, 331]
+```
+
+2026-11-25 331 → 2026-11-26 331（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f9b2d693d439` · [字段定义](../../DATASET.md)*

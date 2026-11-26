@@ -1,6 +1,6 @@
 # vcaesar/riot
 
-⭐ 6,068 · Go · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/vcaesar/riot) · 个人维护 · 中文 README
+⭐ 6,070 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/vcaesar/riot) · 个人维护 · 中文 README
 
 **Go 语言分布式文本/向量检索引擎库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vcaesar/riot 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 6064 --> 6069
-    line [6065, 6068, 6068]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 6064 --> 6071
+    line [6065, 6068, 6070]
 ```
 
-2026-11-20 6,065 → 2026-11-25 6,068（+3）
+2026-11-20 6,065 → 2026-11-26 6,070（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # sfu-mial/awesome-skin-image-analysis-datasets
 
-⭐ 56 · MIT · 推送 2026-06-23 · [GitHub](https://github.com/sfu-mial/awesome-skin-image-analysis-datasets) · 组织维护
+⭐ 57 · MIT · 推送 2026-06-23 · [GitHub](https://github.com/sfu-mial/awesome-skin-image-analysis-datasets) · 组织维护
 
 **皮肤图像分析研究的数据集清单（约40+个数据集）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sfu-mial/awesome-skin-image-analysis-datasets 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 55 --> 57
-    line [56, 56]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 55 --> 58
+    line [56, 57]
 ```
 
-2026-10-23 56 → 2026-11-25 56（+0）
+2026-10-24 56 → 2026-11-26 57（+1）
 
 
 ---

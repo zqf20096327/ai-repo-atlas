@@ -1,6 +1,6 @@
 # NetManAIOps/ChatTS
 
-⭐ 493 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/NetManAIOps/ChatTS) · [官网](https://huggingface.co/spaces/xiezhe22/ChatTS) · 组织维护 · 中文 README
+⭐ 494 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/NetManAIOps/ChatTS) · [官网](https://huggingface.co/spaces/xiezhe22/ChatTS) · 组织维护 · 中文 README
 
 **面向时间序列理解与推理问答的多模态 LLM（8B/14B）**
 
@@ -45,12 +45,12 @@ ChatTS 是 VLDB'25 论文的官方实现：一个以多元时间序列为原生�
 ```mermaid
 xychart-beta
     title "NetManAIOps/ChatTS 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 485 --> 494
-    line [486, 487, 488, 486, 490, 491, 490, 492, 493, 493]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 485 --> 495
+    line [486, 487, 488, 486, 490, 491, 490, 492, 493, 494]
 ```
 
-2026-10-23 486 → 2026-11-25 493（+7）
+2026-10-24 486 → 2026-11-26 494（+8）
 
 
 ---

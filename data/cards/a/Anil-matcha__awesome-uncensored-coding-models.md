@@ -1,6 +1,6 @@
 # Anil-matcha/awesome-uncensored-coding-models
 
-⭐ 13 · Python · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-coding-models) · [官网](https://muapi.ai/abliterated-llm-api) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Anil-matcha/awesome-uncensored-coding-models) · [官网](https://muapi.ai/abliterated-llm-api) · 个人维护
 
 **给开发者的低拒答编码模型目录与评测脚手架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/awesome-uncensored-coding-models 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-26"]
     y-axis "stars" 5 --> 14
     line [6, 7, 6, 11, 12, 13, 13]
 ```
 
-2026-10-23 6 → 2026-11-25 13（+7）
+2026-10-24 6 → 2026-11-26 13（+7）
 
 
 ---

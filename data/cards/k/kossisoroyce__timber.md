@@ -1,6 +1,6 @@
 # kossisoroyce/timber
 
-⭐ 692 · Python · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/kossisoroyce/timber) · [官网](https://kossisoroyce.github.io/timber/) · 个人维护
+⭐ 691 · Python · NOASSERTION · 推送 2026-04-16 · [GitHub](https://github.com/kossisoroyce/timber) · [官网](https://kossisoroyce.github.io/timber/) · 个人维护
 
 **将经典 ML 模型 AOT 编译为 C99 推理代码的工具链与服务**
 
@@ -46,12 +46,12 @@ Timber 读取 XGBoost、LightGBM、scikit-learn、CatBoost、ONNX 模型或 URDF
 ```mermaid
 xychart-beta
     title "kossisoroyce/timber 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26"]
     y-axis "stars" 688 --> 693
-    line [689, 690, 689, 690, 691, 692, 692]
+    line [689, 690, 689, 690, 691, 692, 691]
 ```
 
-2026-10-23 689 → 2026-11-25 692（+3）
+2026-10-24 689 → 2026-11-26 691（+2）
 
 
 ---

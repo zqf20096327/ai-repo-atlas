@@ -1,6 +1,6 @@
 # google-deepmind/formal-quantum-computation
 
-⭐ 39 · Lean · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-deepmind/formal-quantum-computation) · 组织维护
+⭐ 100 · Lean · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/google-deepmind/formal-quantum-computation) · 组织维护
 
 **量子程序形式化规范与验证的 Lean 4 库**
 
@@ -41,6 +41,18 @@
 > L11: * **`QuantumComputation`** is the core library covering the foundations of quantum computation (circuits, gates, re
 > L12: * **`QuantumComputationSpecs`** is a separate library of specifications and benchmark challenges for automated theo
 > L49: Copyright 2026 Google LLC
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "google-deepmind/formal-quantum-computation 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 33 --> 106
+    line [39, 100]
+```
+
+2026-11-25 39 → 2026-11-26 100（+61）
 
 
 ---

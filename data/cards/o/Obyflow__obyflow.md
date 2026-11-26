@@ -1,6 +1,6 @@
 # Obyflow/obyflow
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Obyflow/obyflow) · [官网](https://obyflowapp.onrender.com) · 个人维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Obyflow/obyflow) · [官网](https://obyflowapp.onrender.com) · 个人维护
 
 **CLI 优先的 AI 应用可观测性工具：本地追踪与 LLM 辅助根因排查**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Obyflow/obyflow 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

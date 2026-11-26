@@ -1,6 +1,6 @@
 # mala-project/mala
 
-⭐ 103 · Python · BSD-3-Clause · 推送 2026-01-05 · [GitHub](https://github.com/mala-project/mala) · [官网](https://mala-project.github.io/mala/) · 组织维护
+⭐ 104 · Python · BSD-3-Clause · 推送 2026-01-05 · [GitHub](https://github.com/mala-project/mala) · [官网](https://mala-project.github.io/mala/) · 组织维护
 
 **用机器学习生成 DFT 代理模型的材料模拟框架**
 
@@ -44,12 +44,12 @@ MALA 是一个开源 Python 包，基于第一性原理数据训练机器学习�
 ```mermaid
 xychart-beta
     title "mala-project/mala 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 102 --> 104
-    line [103, 103]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 102 --> 105
+    line [103, 104]
 ```
 
-2026-10-23 103 → 2026-11-25 103（+0）
+2026-10-24 103 → 2026-11-26 104（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # open-retina/open-retina
 
-⭐ 27 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/open-retina/open-retina) · [官网](https://open-retina.org) · 组织维护
+⭐ 27 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/open-retina/open-retina) · [官网](https://open-retina.org) · 组织维护
 
 **开源视网膜神经网络模型库：跨数据集与物种建模**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "open-retina/open-retina 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 24 --> 28
     line [25, 26, 27, 27]
 ```
 
-2026-10-23 25 → 2026-11-25 27（+2）
+2026-10-24 25 → 2026-11-26 27（+2）
 
 
 ---

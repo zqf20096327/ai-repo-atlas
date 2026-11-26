@@ -45,12 +45,12 @@ Microsoft 维护的 MCP（Model Context Protocol）安全实施指南仓库，�
 ```mermaid
 xychart-beta
     title "microsoft/mcp-azure-security-guide 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-22 13 → 2026-11-25 13（+0）
+2026-10-23 13 → 2026-11-26 13（+0）
 
 
 ---

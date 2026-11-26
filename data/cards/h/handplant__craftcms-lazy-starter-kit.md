@@ -1,6 +1,6 @@
 # handplant/craftcms-lazy-starter-kit
 
-⭐ 42 · Twig · MIT · 推送 2026-11-20 · [GitHub](https://github.com/handplant/craftcms-lazy-starter-kit) · [官网](https://craft-kit.dev) · 个人维护
+⭐ 42 · Twig · MIT · 推送 2026-11-25 · [GitHub](https://github.com/handplant/craftcms-lazy-starter-kit) · [官网](https://craft-kit.dev) · 个人维护
 
 **Craft CMS 5 起步套件：面向机构的超媒体优先建站基线**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "handplant/craftcms-lazy-starter-kit 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 40 --> 43
     line [41, 42, 41, 42, 42]
 ```
 
-2026-10-23 41 → 2026-11-25 42（+1）
+2026-10-24 41 → 2026-11-26 42（+1）
 
 
 ---

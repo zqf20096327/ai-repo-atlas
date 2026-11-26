@@ -41,6 +41,18 @@
 > L47: |LLM|Ollama (llama3.2)|Local, privacy-preserving inference|
 > L51: |Evaluation|RAGAs|Faithfulness, relevancy, precision, recall metrics|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ara-5/Enterprise-Agentic-RAG-Platform 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 11 --> 13
+    line [12, 12]
+```
+
+2026-11-25 12 → 2026-11-26 12（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ca7a4a534264` · [字段定义](../../DATASET.md)*

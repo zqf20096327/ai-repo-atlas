@@ -40,6 +40,18 @@
 > L4: # Python MLOps Cookbook
 > L202: **Learn MLOps end to end:** Machine Learning with Databricks and MLflow (Coursera) · MLOps specialization, Duke (C
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/Python-MLOps-Cookbook 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 438 --> 440
+    line [439, 439]
+```
+
+2026-11-25 439 → 2026-11-26 439（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `bd8b090162ae` · [字段定义](../../DATASET.md)*

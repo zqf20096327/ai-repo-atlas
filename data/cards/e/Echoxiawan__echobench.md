@@ -1,6 +1,6 @@
 # Echoxiawan/echobench
 
-⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Echoxiawan/echobench) · 个人维护 · 中文 README
+⭐ 82 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Echoxiawan/echobench) · 个人维护 · 中文 README
 
 **给移动 QA/开发的本机优先测试台：录制、回放、多端同步与 AI 导出**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Echoxiawan/echobench 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 28 --> 67
-    line [31, 36, 44, 52, 64]
+    title "Echoxiawan/echobench 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 26 --> 87
+    line [31, 36, 44, 52, 64, 82]
 ```
 
-2026-11-20 31 → 2026-11-25 64（+33）
+2026-11-20 31 → 2026-11-26 82（+51）
 
 
 ---

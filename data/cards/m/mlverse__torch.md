@@ -1,6 +1,6 @@
 # mlverse/torch
 
-⭐ 568 · C++ · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/mlverse/torch) · [官网](https://torch.mlverse.org) · 组织维护
+⭐ 569 · C++ · NOASSERTION · 推送 2026-11-19 · [GitHub](https://github.com/mlverse/torch) · [官网](https://torch.mlverse.org) · 组织维护
 
 **R 语言的 Torch 深度学习接口：张量运算与自动微分**
 
@@ -45,12 +45,12 @@ mlverse 维护的 R 包，封装 libtorch 提供 R 语言版本的张量创建�
 ```mermaid
 xychart-beta
     title "mlverse/torch 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 567 --> 570
-    line [569, 568, 569, 568, 568]
+    line [569, 568, 569, 568, 569]
 ```
 
-2026-10-23 569 → 2026-11-25 568（-1）
+2026-10-24 569 → 2026-11-26 569（+0）
 
 
 ---

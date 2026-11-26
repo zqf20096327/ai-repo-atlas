@@ -40,6 +40,18 @@ Pragmatic AI Labs 出版的《minimal Python》一书的公开源码仓库，按
 > L18: Public Source code for book minimal Python
 > L25: * Chapter 1: Learn to execute commands in Python- Colab Notebooks
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "paiml/minimal-python 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 73 --> 75
+    line [74, 74]
+```
+
+2026-11-25 74 → 2026-11-26 74（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b39fd5543ab7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # Anhao1314/FCode-FlowCredit
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Anhao1314/FCode-FlowCredit) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **本地可审计的 Agent 运行时，审计其他 agent 应用**
 
@@ -11,7 +11,7 @@ FCode 是一个本地优先、可恢复、可审计的单 Agent Runtime：模型
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

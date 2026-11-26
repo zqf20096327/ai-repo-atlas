@@ -45,12 +45,12 @@ Android 应用，通过 ONNX Runtime QNN 后端与 Qualcomm QNN Runtime，在 Sn
 ```mermaid
 xychart-beta
     title "carrycooldude/On-Device-Image-Generation 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-15", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-15 4 → 2026-11-25 4（+0）
+2026-11-15 4 → 2026-11-26 4（+0）
 
 
 ---

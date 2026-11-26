@@ -45,13 +45,13 @@ Python FastAPI 实现的元搜索网关：并发聚合多个搜索提供商，�
 
 ```mermaid
 xychart-beta
-    title "gefsikatsinelou/MetaSearchMCP 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 56 --> 61
-    line [60, 59, 57, 58, 58]
+    title "gefsikatsinelou/MetaSearchMCP 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 56 --> 60
+    line [59, 57, 58, 58]
 ```
 
-2026-10-23 60 → 2026-11-25 58（-2）
+2026-10-24 59 → 2026-11-26 58（-1）
 
 
 ---

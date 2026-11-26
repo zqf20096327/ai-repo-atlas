@@ -1,6 +1,6 @@
 # PsycherosAI/Psycheros
 
-⭐ 48 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/PsycherosAI/Psycheros) · [官网](https://psycherosai.github.io/Psycheros/) · 个人维护
+⭐ 59 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/PsycherosAI/Psycheros) · [官网](https://psycherosai.github.io/Psycheros/) · 个人维护
 
 **开源 agentic AI 伴侣框架：持久身份与多层记忆的实体系统**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "PsycherosAI/Psycheros 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 39 --> 49
-    line [40, 41, 42, 41, 44, 46, 47, 48]
+    title "PsycherosAI/Psycheros 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 39 --> 60
+    line [40, 41, 42, 41, 44, 46, 47, 48, 59]
 ```
 
-2026-10-23 40 → 2026-11-25 48（+8）
+2026-10-24 40 → 2026-11-26 59（+19）
 
 
 ---

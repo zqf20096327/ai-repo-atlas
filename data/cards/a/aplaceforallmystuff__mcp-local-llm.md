@@ -46,12 +46,12 @@ TypeScript 实现的 MCP server，供 Claude Code（或其他 MCP 客户端）�
 ```mermaid
 xychart-beta
     title "aplaceforallmystuff/mcp-local-llm 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

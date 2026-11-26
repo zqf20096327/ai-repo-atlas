@@ -1,6 +1,6 @@
 # thatsme/giulia
 
-⭐ 73 · Elixir · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/thatsme/giulia) · 个人维护
+⭐ 74 · Elixir · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/thatsme/giulia) · 个人维护
 
 **给 Elixir 开发者的本地优先代码智能守护进程，供 LLM 客户端调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thatsme/giulia 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 71 --> 74
-    line [72, 73, 72, 73, 73]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 71 --> 75
+    line [72, 73, 72, 73, 74]
 ```
 
-2026-10-23 72 → 2026-11-25 73（+1）
+2026-10-24 72 → 2026-11-26 74（+2）
 
 
 ---

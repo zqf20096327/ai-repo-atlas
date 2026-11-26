@@ -1,6 +1,6 @@
 # EthanYoQ/Skill-hub
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/EthanYoQ/Skill-hub) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/EthanYoQ/Skill-hub) · 个人维护 · 中文 README
 
 **面向 Codex/Claude Code 等的中文 Agent 技能库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "EthanYoQ/Skill-hub 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

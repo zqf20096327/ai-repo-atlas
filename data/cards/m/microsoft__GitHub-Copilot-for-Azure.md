@@ -1,6 +1,6 @@
 # microsoft/GitHub-Copilot-for-Azure
 
-⭐ 267 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/GitHub-Copilot-for-Azure) · 组织维护
+⭐ 267 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/GitHub-Copilot-for-Azure) · 组织维护
 
 **为 IDE 与 AI 编码客户端接入 Azure 技能的插件集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/GitHub-Copilot-for-Azure 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-26"]
     y-axis "stars" 258 --> 268
     line [259, 262, 263, 264, 265, 266, 267, 267]
 ```
 
-2026-10-22 259 → 2026-11-25 267（+8）
+2026-10-23 259 → 2026-11-26 267（+8）
 
 
 ---

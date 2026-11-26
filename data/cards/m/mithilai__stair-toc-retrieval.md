@@ -1,6 +1,6 @@
 # mithilai/stair-toc-retrieval
 
-⭐ 11 · Python · MIT · 推送 2026-09-20 · [GitHub](https://github.com/mithilai/stair-toc-retrieval) · [官网](https://medium.com/@mithilmaske/i-built-stair-from-scratch-a-retriever-that-returns-section-names-not-chunk-ids-22882a7b4cd8) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mithilai/stair-toc-retrieval) · [官网](https://medium.com/@mithilmaske/i-built-stair-from-scratch-a-retriever-that-returns-section-names-not-chunk-ids-22882a7b4cd8) · 个人维护
 
 **面向研究者的生成式检索复现：返回真实章节标题而非 chunk ID**
 
@@ -45,12 +45,12 @@ STAIR（STructure Aware Information Retriever）的独立复现实现：以文�
 ```mermaid
 xychart-beta
     title "mithilai/stair-toc-retrieval 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 3 --> 12
-    line [4, 5, 6, 10, 11, 11]
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-01", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 3 --> 13
+    line [4, 5, 6, 10, 11, 12]
 ```
 
-2026-10-29 4 → 2026-11-25 11（+7）
+2026-10-29 4 → 2026-11-26 12（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # DataJourneyHQ/DataJourney
 
-⭐ 91 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DataJourneyHQ/DataJourney) · [官网](https://datajourneyhq.com/) · 组织维护
+⭐ 91 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/DataJourneyHQ/DataJourney) · [官网](https://datajourneyhq.com/) · 组织维护
 
 **面向学习者的 AI 数据产品设计工具包，教你组装开源组件**
 
@@ -46,12 +46,12 @@ DataJourney 是一个设计优先的开源工具包，用于学习如何组装 A
 ```mermaid
 xychart-beta
     title "DataJourneyHQ/DataJourney 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-23 91 → 2026-11-25 91（+0）
+2026-10-24 91 → 2026-11-26 91（+0）
 
 
 ---

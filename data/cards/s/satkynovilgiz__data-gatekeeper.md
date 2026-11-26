@@ -1,6 +1,6 @@
 # satkynovilgiz/data-gatekeeper
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/satkynovilgiz/data-gatekeeper) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/satkynovilgiz/data-gatekeeper) · 个人维护
 
 **数据集画像、清洗与质量评分的自动化流水线后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "satkynovilgiz/data-gatekeeper 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 3（+0）
 
 
 ---

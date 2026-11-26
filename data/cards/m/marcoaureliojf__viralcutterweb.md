@@ -46,12 +46,12 @@ ViralCutterWeb 是一个网页应用，上传视频或提供 URL 后，用 AI �
 ```mermaid
 xychart-beta
     title "marcoaureliojf/viralcutterweb 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-18 10 → 2026-11-25 11（+1）
+2026-11-18 10 → 2026-11-26 11（+1）
 
 
 ---

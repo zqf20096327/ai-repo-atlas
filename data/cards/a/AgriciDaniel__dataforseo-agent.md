@@ -1,6 +1,6 @@
 # AgriciDaniel/dataforseo-agent
 
-⭐ 28 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/dataforseo-agent) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/AgriciDaniel/dataforseo-agent) · [官网](skool.com/ai-marketing-hub-pro) · 个人维护
 
 **终端里的 SEO 问答 agent：自然语言查 DataForSEO 数据并出图表**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/dataforseo-agent 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 16 --> 29
-    line [17, 22, 24, 26, 28]
+    title "AgriciDaniel/dataforseo-agent 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 16 --> 30
+    line [17, 22, 24, 26, 28, 29]
 ```
 
-2026-11-18 17 → 2026-11-25 28（+11）
+2026-11-18 17 → 2026-11-26 29（+12）
 
 
 ---

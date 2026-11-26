@@ -1,6 +1,6 @@
 # xl0/lovely-tensors
 
-⭐ 1,400 · Jupyter Notebook · MIT · 推送 2026-04-09 · [GitHub](https://github.com/xl0/lovely-tensors) · [官网](https://xl0.github.io/lovely-tensors) · 个人维护
+⭐ 1,401 · Jupyter Notebook · MIT · 推送 2026-04-09 · [GitHub](https://github.com/xl0/lovely-tensors) · [官网](https://xl0.github.io/lovely-tensors) · 个人维护
 
 **面向人类的 PyTorch 张量调试可视化库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xl0/lovely-tensors 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-21", "2026-11-26"]
     y-axis "stars" 1397 --> 1402
-    line [1398, 1399, 1400, 1398, 1400, 1401, 1400, 1400]
+    line [1398, 1399, 1400, 1398, 1400, 1401, 1400, 1401]
 ```
 
-2026-10-23 1,398 → 2026-11-25 1,400（+2）
+2026-10-24 1,398 → 2026-11-26 1,401（+3）
 
 
 ---

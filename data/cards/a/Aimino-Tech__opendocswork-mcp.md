@@ -1,6 +1,6 @@
 # Aimino-Tech/opendocswork-mcp
 
-⭐ 165 · Rust · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/Aimino-Tech/opendocswork-mcp) · [官网](https://github.com/Aimino-Tech/opendocwork-mcp) · 组织维护
+⭐ 166 · Rust · GPL-3.0 · 推送 2026-11-10 · [GitHub](https://github.com/Aimino-Tech/opendocswork-mcp) · [官网](https://github.com/Aimino-Tech/opendocwork-mcp) · 组织维护
 
 **Rust 实现的 Office/PDF 文档处理 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Aimino-Tech/opendocswork-mcp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 161 --> 166
-    line [163, 162, 164, 165, 165]
+    title "Aimino-Tech/opendocswork-mcp 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 161 --> 167
+    line [162, 164, 165, 166]
 ```
 
-2026-10-23 163 → 2026-11-25 165（+2）
+2026-10-24 162 → 2026-11-26 166（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # wso2/labs-agentic-engineer
 
-⭐ 25 · Go · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/wso2/labs-agentic-engineer) · 组织维护
+⭐ 25 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/wso2/labs-agentic-engineer) · 组织维护
 
 **WSO2 实验平台：在企业平台内用多 agent 驱动软件开发全流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wso2/labs-agentic-engineer 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-26"]
     y-axis "stars" 23 --> 26
     line [25, 24, 25, 25]
 ```
 
-2026-10-23 25 → 2026-11-25 25（+0）
+2026-10-24 25 → 2026-11-26 25（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jelni/craiyon-bot
 
-⭐ 50 · Rust · AGPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/jelni/craiyon-bot) · [官网](https://t.me/CraiyonArtBot) · 个人维护
+⭐ 51 · Rust · AGPL-3.0 · 推送 2026-06-20 · [GitHub](https://github.com/jelni/craiyon-bot) · [官网](https://t.me/CraiyonArtBot) · 个人维护
 
 **多用途 Telegram 机器人，提供文本与图像生成等命令**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "jelni/craiyon-bot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-23 50 → 2026-11-25 50（+0）
+2026-10-24 50 → 2026-11-26 51（+1）
 
 
 ---

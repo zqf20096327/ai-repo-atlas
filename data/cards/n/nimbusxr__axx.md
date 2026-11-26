@@ -1,6 +1,6 @@
 # nimbusxr/axx
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/nimbusxr/axx) · [官网](https://axx.nimbusxr.us) · 个人维护
+⭐ 12 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/nimbusxr/axx) · [官网](https://axx.nimbusxr.us) · 个人维护
 
 **面向 agentic 软件的黑盒验收测试框架**
 
@@ -44,13 +44,13 @@ axx 定位为 agentic 软件工厂的行为验证层：一个验收测试框架�
 
 ```mermaid
 xychart-beta
-    title "nimbusxr/axx 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 2 --> 12
-    line [3, 4, 5, 3, 5, 11]
+    title "nimbusxr/axx 星数(近 7 点)"
+    x-axis ["2026-10-18", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 13
+    line [3, 4, 5, 3, 5, 11, 12]
 ```
 
-2026-10-18 3 → 2026-11-25 11（+8）
+2026-10-18 3 → 2026-11-26 12（+9）
 
 
 ---

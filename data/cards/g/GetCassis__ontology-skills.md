@@ -1,6 +1,6 @@
 # GetCassis/ontology-skills
 
-⭐ 32 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GetCassis/ontology-skills) · [官网](https://blog.getcassis.com/a-blank-beats-a-guess/) · 组织维护
+⭐ 32 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/GetCassis/ontology-skills) · [官网](https://blog.getcassis.com/a-blank-beats-a-guess/) · 组织维护
 
 **为分析 agent 构建和扩展数据仓库本体（ontology）的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GetCassis/ontology-skills 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-11-08 31 → 2026-11-25 32（+1）
+2026-11-08 31 → 2026-11-26 32（+1）
 
 
 ---

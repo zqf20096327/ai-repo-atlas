@@ -1,6 +1,6 @@
 # fischerf/aar
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fischerf/aar) · 个人维护
+⭐ 37 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fischerf/aar) · 个人维护
 
 **面向开发者的开源编码 Agent，提供 CLI/TUI/IDE 集成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fischerf/aar 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
     y-axis "stars" 34 --> 38
     line [35, 37, 37]
 ```
 
-2026-10-23 35 → 2026-11-25 37（+2）
+2026-10-24 35 → 2026-11-26 37（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # SanggonBoy/PyreCrawl
 
-⭐ 25 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/SanggonBoy/PyreCrawl) · [官网](https://pypi.org/project/pyrecrawl/) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/SanggonBoy/PyreCrawl) · [官网](https://pypi.org/project/pyrecrawl/) · 个人维护
 
 **自托管的 MCP 服务器，让 AI agent 具备网页抓取/爬取/搜索/监控能力**
 
@@ -47,12 +47,12 @@ PyreCrawl 是一个自托管的 MCP（Model Context Protocol）服务器，通�
 ```mermaid
 xychart-beta
     title "SanggonBoy/PyreCrawl 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 21 --> 26
-    line [22, 23, 25, 25]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 21 --> 27
+    line [22, 23, 25, 26]
 ```
 
-2026-10-23 22 → 2026-11-25 25（+3）
+2026-10-24 22 → 2026-11-26 26（+4）
 
 
 ---

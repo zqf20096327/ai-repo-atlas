@@ -1,6 +1,6 @@
 # alphasecio/llama-index
 
-⭐ 54 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/alphasecio/llama-index) · [官网](https://go.alphasec.io/llama-index) · 组织维护
+⭐ 54 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/alphasecio/llama-index) · [官网](https://go.alphasec.io/llama-index) · 组织维护
 
 **基于 LlamaIndex 的 Streamlit 示例应用集：PDF 问答与网页摘要**
 
@@ -46,12 +46,12 @@ alphasecio 维护的 LlamaIndex 示例应用集合，含两个 Streamlit 应用�
 ```mermaid
 xychart-beta
     title "alphasecio/llama-index 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-23 54 → 2026-11-25 54（+0）
+2026-10-24 54 → 2026-11-26 54（+0）
 
 
 ---

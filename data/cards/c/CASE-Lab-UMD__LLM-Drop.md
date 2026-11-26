@@ -1,6 +1,6 @@
 # CASE-Lab-UMD/LLM-Drop
 
-⭐ 193 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/CASE-Lab-UMD/LLM-Drop) · [官网](https://openreview.net/forum?id=1I7PCbOPfe) · 组织维护
+⭐ 194 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/CASE-Lab-UMD/LLM-Drop) · [官网](https://openreview.net/forum?id=1I7PCbOPfe) · 组织维护
 
 **Transformer 层删除压缩框架：统一删层提速省显存**
 
@@ -46,12 +46,12 @@ TMLR 2026 论文的官方实现，面向 LLM 研究者与模型压缩使用者�
 ```mermaid
 xychart-beta
     title "CASE-Lab-UMD/LLM-Drop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 192 --> 194
-    line [193, 193]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 192 --> 195
+    line [193, 194]
 ```
 
-2026-10-23 193 → 2026-11-25 193（+0）
+2026-10-24 193 → 2026-11-26 194（+1）
 
 
 ---

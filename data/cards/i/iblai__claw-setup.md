@@ -45,12 +45,12 @@ ibl.ai 维护的仓库，提供在 Debian/Ubuntu VPS 上部署 OpenClaw 或 NVID
 ```mermaid
 xychart-beta
     title "iblai/claw-setup 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

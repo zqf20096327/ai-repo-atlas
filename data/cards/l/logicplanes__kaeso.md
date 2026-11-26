@@ -1,6 +1,6 @@
 # logicplanes/kaeso
 
-⭐ 20 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/logicplanes/kaeso) · [官网](https://kaeso.app) · 个人维护 · 中文 README
+⭐ 62 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/logicplanes/kaeso) · [官网](https://kaeso.app) · 个人维护 · 中文 README
 
 **自托管 AI 网关：统一 API 接入多家模型供应商**
 
@@ -41,6 +41,18 @@
 > L7:  The open-source AI gateway you run yourself
 > L8:  One OpenAI-, Anthropic-, Gemini- and ElevenLabs-compatible API in front of every provider and your own model server
 > L79: Built in are Amazon Bedrock, Anthropic, AssemblyAI, Azure, Baidu Qianfan, Baseten, Cartesia, Cerebras, Cloudflare A
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "logicplanes/kaeso 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 16 --> 66
+    line [20, 62]
+```
+
+2026-11-25 20 → 2026-11-26 62（+42）
 
 
 ---

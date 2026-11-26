@@ -41,6 +41,18 @@ Chrome/Arc 浏览器扩展加一个运行在本机的 Node 服务器：读取职
 > L33: |Rewrite your resume for every posting|Tailors a one-page PDF to the job's keywords, using only your real experienc
 > L53: - **✉️ Writes the cover letter.** Four paragraphs (hook, proof, fit, close) with your real numbers. A quality check
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "batmandevx/Auto-Job 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `fbe019d3b583` · [字段定义](../../DATASET.md)*

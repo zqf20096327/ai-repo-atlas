@@ -1,6 +1,6 @@
 # onmax/vite-doctor
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/onmax/vite-doctor) · [官网](https://vite-doctor.onmax.me) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/onmax/vite-doctor) · [官网](https://vite-doctor.onmax.me) · 个人维护
 
 **面向 AI agent 代码的 Nuxt/Vue/Vite/Nitro 框架缺陷诊断工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "onmax/vite-doctor 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 21 --> 36
-    line [22, 23, 22, 27, 29, 32, 34, 35, 35]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 21 --> 37
+    line [22, 23, 22, 27, 29, 32, 34, 35, 36]
 ```
 
-2026-10-23 22 → 2026-11-25 35（+13）
+2026-10-24 22 → 2026-11-26 36（+14）
 
 
 ---

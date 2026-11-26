@@ -1,6 +1,6 @@
 # Excelsus4/sfumato
 
-⭐ 7 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Excelsus4/sfumato) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Excelsus4/sfumato) · 个人维护
 
 **给 AI agent 的双轨跨域头脑风暴提示技能**
 
@@ -44,13 +44,13 @@ Sfumato 是一个以纯文本文件形式分发的 agent 技能（/sfumato、/sf
 
 ```mermaid
 xychart-beta
-    title "Excelsus4/sfumato 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 4 --> 8
-    line [5, 6, 7]
+    title "Excelsus4/sfumato 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 9
+    line [5, 6, 7, 8]
 ```
 
-2026-11-22 5 → 2026-11-25 7（+2）
+2026-11-22 5 → 2026-11-26 8（+3）
 
 
 ---

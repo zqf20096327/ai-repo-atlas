@@ -1,6 +1,6 @@
 # GeoloeG-IsT/agents-reverse-engineer
 
-⭐ 23 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/GeoloeG-IsT/agents-reverse-engineer) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-09-12 · [GitHub](https://github.com/GeoloeG-IsT/agents-reverse-engineer) · 个人维护
 
 **为 AI 编码助手生成代码库文档的工具（AGENTS.md/.sum）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "GeoloeG-IsT/agents-reverse-engineer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 21 --> 24
-    line [22, 23]
+    title "GeoloeG-IsT/agents-reverse-engineer 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 24（+2）
 
 
 ---

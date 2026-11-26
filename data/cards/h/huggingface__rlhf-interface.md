@@ -1,6 +1,6 @@
 # huggingface/rlhf-interface
 
-⭐ 35 · Python · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/rlhf-interface) · 组织维护
+⭐ 36 · Python · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/rlhf-interface) · 组织维护
 
 **面向 Amazon Mechanical Turk 的 RLHF 数据收集界面**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/rlhf-interface 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 36（+1）
 
 
 ---

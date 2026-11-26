@@ -1,6 +1,6 @@
 # noahnan-max/chanlun-trading-system
 
-⭐ 82 · Python · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/noahnan-max/chanlun-trading-system) · 个人维护 · 中文 README
+⭐ 84 · Python · NOASSERTION · 推送 2026-08-03 · [GitHub](https://github.com/noahnan-max/chanlun-trading-system) · 个人维护 · 中文 README
 
 **缠论技术分析的 AI Agent Skill：规则化分析流程与自检门**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "noahnan-max/chanlun-trading-system 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 78 --> 83
-    line [80, 79, 80, 81, 82, 81, 82, 82]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 78 --> 85
+    line [80, 79, 80, 81, 82, 81, 82, 84]
 ```
 
-2026-10-23 80 → 2026-11-25 82（+2）
+2026-10-24 80 → 2026-11-26 84（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # southleft/figmalint
 
-⭐ 81 · TypeScript · ISC · 推送 2026-11-18 · [GitHub](https://github.com/southleft/figmalint) · [官网](https://southleft.com) · 组织维护
+⭐ 83 · TypeScript · ISC · 推送 2026-11-18 · [GitHub](https://github.com/southleft/figmalint) · [官网](https://southleft.com) · 组织维护
 
 **面向设计系统团队的 Figma 插件：AI 审计组件合规性与可访问性**
 
@@ -46,12 +46,12 @@ Figma 社区插件，用多种 AI 提供商（Anthropic/OpenAI/Google/OpenRouter
 ```mermaid
 xychart-beta
     title "southleft/figmalint 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 78 --> 82
-    line [79, 80, 81, 81]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 78 --> 84
+    line [79, 80, 81, 83]
 ```
 
-2026-10-23 79 → 2026-11-25 81（+2）
+2026-10-24 79 → 2026-11-26 83（+4）
 
 
 ---

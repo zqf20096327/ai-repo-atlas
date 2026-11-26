@@ -1,6 +1,6 @@
 # Sriram-PR/doc-scraper
 
-⭐ 110 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sriram-PR/doc-scraper) · [官网](https://sriram-pr.github.io/doc-scraper/) · 个人维护
+⭐ 110 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Sriram-PR/doc-scraper) · [官网](https://sriram-pr.github.io/doc-scraper/) · 个人维护
 
 **抓取文档站点转 Markdown 并通过 MCP 供编程代理离线检索**
 
@@ -45,12 +45,12 @@ Go 编写的可配置并发爬虫，专抓技术文档站点：识别 30+ 文档
 ```mermaid
 xychart-beta
     title "Sriram-PR/doc-scraper 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-26"]
     y-axis "stars" 106 --> 111
     line [107, 109, 110, 110]
 ```
 
-2026-10-23 107 → 2026-11-25 110（+3）
+2026-10-24 107 → 2026-11-26 110（+3）
 
 
 ---

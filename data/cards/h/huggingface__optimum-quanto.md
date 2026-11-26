@@ -1,6 +1,6 @@
 # huggingface/optimum-quanto
 
-⭐ 1,055 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/huggingface/optimum-quanto) · 组织维护
+⭐ 1,055 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/huggingface/optimum-quanto) · 组织维护
 
 **为 PyTorch/Hugging Face 模型提供量化后端的 Python 库**
 
@@ -45,12 +45,12 @@ Optimum 的 PyTorch 量化后端：支持 int2/int4/int8/float8 权重与 int8/f
 ```mermaid
 xychart-beta
     title "huggingface/optimum-quanto 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-26"]
     y-axis "stars" 1052 --> 1057
     line [1053, 1054, 1055, 1056, 1053, 1056, 1055, 1056, 1055, 1055]
 ```
 
-2026-10-23 1,053 → 2026-11-25 1,055（+2）
+2026-10-24 1,053 → 2026-11-26 1,055（+2）
 
 
 ---

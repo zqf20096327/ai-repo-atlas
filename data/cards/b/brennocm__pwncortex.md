@@ -42,6 +42,18 @@
 > L15: - **Context-aware AI chat**: ask about the target in natural language. The LLM receives the full project context (n
 > L19: - **Two LLM providers**: use local Ollama (default: `qwen2.5:3b`) for air-gapped engagements, or switch to any Open
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "brennocm/pwncortex 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 15 --> 17
+    line [16, 16]
+```
+
+2026-11-25 16 → 2026-11-26 16（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `ad9a07dcea8c` · [字段定义](../../DATASET.md)*

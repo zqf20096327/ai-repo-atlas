@@ -47,12 +47,12 @@ Runcap 是面向 AI coding agent 的本地优先控制层：本地网关记录�
 ```mermaid
 xychart-beta
     title "kirder24-code/ai-agent-manager 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

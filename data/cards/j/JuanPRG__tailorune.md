@@ -1,6 +1,6 @@
 # JuanPRG/tailorune
 
-⭐ 17 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/JuanPRG/tailorune) · [官网](https://chromewebstore.google.com/detail/tailorune/chnibpoikgjckekkgpoeejdnmempllkh) · 个人维护
+⭐ 18 · JavaScript · MIT · 推送 2026-10-16 · [GitHub](https://github.com/JuanPRG/tailorune) · [官网](https://chromewebstore.google.com/detail/tailorune/chnibpoikgjckekkgpoeejdnmempllkh) · 个人维护
 
 **Chrome 浏览器扩展：用自带 AI key 定制简历与求职信**
 
@@ -45,12 +45,12 @@ Manifest V3 Chrome 扩展，面向求职者：从当前职位页面读取职位�
 ```mermaid
 xychart-beta
     title "JuanPRG/tailorune 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

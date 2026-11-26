@@ -1,6 +1,6 @@
 # GladLuter/Alethite
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/GladLuter/Alethite) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/GladLuter/Alethite) · 个人维护
 
 **Windows 下 Claude Code 插件：发送前看价格、聊天交接与本地记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GladLuter/Alethite 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-25 3（+0）
+2026-11-19 3 → 2026-11-26 3（+0）
 
 
 ---

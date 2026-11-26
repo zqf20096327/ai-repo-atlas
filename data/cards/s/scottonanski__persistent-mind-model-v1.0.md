@@ -44,13 +44,13 @@ Persistent Mind Model 是一个事件溯源运行时，将语言模型系统的�
 
 ```mermaid
 xychart-beta
-    title "scottonanski/persistent-mind-model-v1.0 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "scottonanski/persistent-mind-model-v1.0 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 45 --> 48
-    line [46, 47]
+    line [46, 47, 47]
 ```
 
-2026-10-23 46 → 2026-11-25 47（+1）
+2026-10-24 46 → 2026-11-26 47（+1）
 
 
 ---

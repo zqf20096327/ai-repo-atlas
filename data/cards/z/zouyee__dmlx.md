@@ -1,6 +1,6 @@
 # zouyee/dmlx
 
-⭐ 61 · Zig · MIT · 推送 2026-11-20 · [GitHub](https://github.com/zouyee/dmlx) · 个人维护
+⭐ 62 · Zig · MIT · 推送 2026-11-25 · [GitHub](https://github.com/zouyee/dmlx) · 个人维护
 
 **Apple Silicon 本地 LLM 推理引擎：48GB Mac 运行 284B MoE 模型**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zouyee/dmlx 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 60 --> 63
+    line [61, 62]
 ```
 
-2026-10-23 61 → 2026-11-25 61（+0）
+2026-10-24 61 → 2026-11-26 62（+1）
 
 
 ---

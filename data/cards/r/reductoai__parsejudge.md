@@ -1,6 +1,6 @@
 # reductoai/parsejudge
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/reductoai/parsejudge) · 组织维护
+⭐ 6 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/reductoai/parsejudge) · 组织维护
 
 **在自己的文档上对比各 PDF 解析/OCR API 的开源基准工具**
 
@@ -46,12 +46,12 @@ Parse Judge 将文档每页渲染为同一图像发送给多个解析服务商�
 ```mermaid
 xychart-beta
     title "reductoai/parsejudge 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-18", "2026-11-26"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-18 5 → 2026-11-25 5（+0）
+2026-11-18 5 → 2026-11-26 6（+1）
 
 
 ---

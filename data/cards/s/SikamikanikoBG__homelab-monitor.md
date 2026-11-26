@@ -1,6 +1,6 @@
 # SikamikanikoBG/homelab-monitor
 
-⭐ 238 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SikamikanikoBG/homelab-monitor) · [官网](https://sikamikanikobg.github.io/homelab-monitor/) · 个人维护
+⭐ 238 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SikamikanikoBG/homelab-monitor) · [官网](https://sikamikanikobg.github.io/homelab-monitor/) · 个人维护
 
 **自托管 homelab 监控面板，内置可问答的 AI agent 与 MCP 服务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SikamikanikoBG/homelab-monitor 星数(近 14 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 223 --> 240
-    line [224, 225, 226, 227, 229, 230, 225, 233, 235, 236, 237, 238, 239, 238]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 224 --> 240
+    line [225, 226, 227, 229, 230, 225, 233, 235, 236, 237, 238, 239, 238, 238]
 ```
 
-2026-10-23 224 → 2026-11-25 238（+14）
+2026-10-24 225 → 2026-11-26 238（+13）
 
 
 ---

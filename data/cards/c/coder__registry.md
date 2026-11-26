@@ -1,6 +1,6 @@
 # coder/registry
 
-⭐ 84 · HCL · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/coder/registry) · [官网](https://registry.coder.com) · 组织维护
+⭐ 84 · HCL · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/coder/registry) · [官网](https://registry.coder.com) · 组织维护
 
 **发布与发现 Coder 工作区 Terraform 模块的社区注册平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "coder/registry 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 81 --> 85
     line [82, 83, 82, 83, 84, 84]
 ```
 
-2026-10-23 82 → 2026-11-25 84（+2）
+2026-10-24 82 → 2026-11-26 84（+2）
 
 
 ---

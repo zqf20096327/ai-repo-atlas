@@ -45,12 +45,12 @@ Python 库，把 PDF/图像读入 Spark DataFrame，结合 OCR 引擎（Tesserac
 ```mermaid
 xychart-beta
     title "StabRise/ScaleDP 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

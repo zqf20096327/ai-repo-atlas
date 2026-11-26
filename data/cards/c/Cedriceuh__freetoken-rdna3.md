@@ -1,6 +1,6 @@
 # Cedriceuh/freetoken-rdna3
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Cedriceuh/freetoken-rdna3) · 个人维护
+⭐ 16 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/Cedriceuh/freetoken-rdna3) · 个人维护
 
 **在 AMD RDNA3 消费级显卡上本地运行 Qwen3.8-Flash-Next 的推理服务器**
 
@@ -46,12 +46,12 @@ FreeToken MoE 引擎针对 RDNA3（ROCm）的调优构建，让用户在一或�
 ```mermaid
 xychart-beta
     title "Cedriceuh/freetoken-rdna3 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 3 --> 16
-    line [4, 5, 4, 11, 12, 13, 14, 15, 15]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 3 --> 17
+    line [4, 5, 4, 11, 12, 13, 14, 15, 16]
 ```
 
-2026-10-23 4 → 2026-11-25 15（+11）
+2026-10-24 4 → 2026-11-26 16（+12）
 
 
 ---

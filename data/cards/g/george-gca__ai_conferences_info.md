@@ -1,6 +1,6 @@
 # george-gca/ai_conferences_info
 
-⭐ 35 · CC-BY-SA-4.0 · 推送 2026-07-21 · [GitHub](https://github.com/george-gca/ai_conferences_info) · 个人维护
+⭐ 36 · CC-BY-SA-4.0 · 推送 2026-07-21 · [GitHub](https://github.com/george-gca/ai_conferences_info) · 个人维护
 
 **顶会顶刊论文元数据聚合库：标题/摘要/作者/链接**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "george-gca/ai_conferences_info 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 31 --> 36
-    line [32, 33, 32, 34, 35, 35]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 31 --> 37
+    line [32, 33, 32, 34, 35, 36]
 ```
 
-2026-10-23 32 → 2026-11-25 35（+3）
+2026-10-24 32 → 2026-11-26 36（+4）
 
 
 ---

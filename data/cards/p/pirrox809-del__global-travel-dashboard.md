@@ -1,6 +1,6 @@
 # pirrox809-del/global-travel-dashboard
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pirrox809-del/global-travel-dashboard) · [官网](https://global-travel-dashboard.vercel.app) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pirrox809-del/global-travel-dashboard) · [官网](https://global-travel-dashboard.vercel.app) · 个人维护
 
 **面向旅行者的 250 国数据仪表盘，附 AI 生成国家指南**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pirrox809-del/global-travel-dashboard 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-25 3（+0）
+2026-11-18 3 → 2026-11-26 3（+0）
 
 
 ---

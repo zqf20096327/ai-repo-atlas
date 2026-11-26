@@ -1,6 +1,6 @@
 # can1357/llm-git
 
-⭐ 62 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/can1357/llm-git) · 个人维护
+⭐ 63 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/can1357/llm-git) · 个人维护
 
 **给开发者的 git 提交信息生成 CLI：用 LLM 从 diff 生成规范提交**
 
@@ -45,12 +45,12 @@ lgit 是 Python 编写的命令行工具，读取 git diff 并调用 Claude 或�
 ```mermaid
 xychart-beta
     title "can1357/llm-git 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 59 --> 63
-    line [60, 61, 60, 62, 62]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 59 --> 64
+    line [60, 61, 60, 62, 63]
 ```
 
-2026-10-23 60 → 2026-11-25 62（+2）
+2026-10-24 60 → 2026-11-26 63（+3）
 
 
 ---

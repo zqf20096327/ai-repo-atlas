@@ -1,6 +1,6 @@
 # TalyxTerminal/TalyxTerminal
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TalyxTerminal/TalyxTerminal) · 个人维护 · 中文 README
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/TalyxTerminal/TalyxTerminal) · 个人维护 · 中文 README
 
 **本地运行的模块化金融终端：图表、量化研究与 AI Agent**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "TalyxTerminal/TalyxTerminal 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 6]
+    title "TalyxTerminal/TalyxTerminal 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 15
+    line [4, 6, 14]
 ```
 
-2026-11-23 4 → 2026-11-25 6（+2）
+2026-11-23 4 → 2026-11-26 14（+10）
 
 
 ---

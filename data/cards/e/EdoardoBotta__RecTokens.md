@@ -46,12 +46,12 @@ PyTorch 库，用残差量化（RQ）把连续 item 嵌入转成多级离散 tok
 ```mermaid
 xychart-beta
     title "EdoardoBotta/RecTokens 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-25 10（+0）
+2026-11-10 10 → 2026-11-26 10（+0）
 
 
 ---

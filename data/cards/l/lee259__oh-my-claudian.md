@@ -1,6 +1,6 @@
 # lee259/oh-my-claudian
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lee259/oh-my-claudian) · [官网](https://community.obsidian.md/plugins/oh-my-claudian) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lee259/oh-my-claudian) · [官网](https://community.obsidian.md/plugins/oh-my-claudian) · 个人维护 · 中文 README
 
 **在 Obsidian 内接入多种编码 agent 做笔记对话与行内编辑的插件**
 
@@ -46,12 +46,12 @@ Obsidian 社区插件，将 Claude Code、Codex、Cursor Agent、Grok Build、Op
 ```mermaid
 xychart-beta
     title "lee259/oh-my-claudian 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 15 --> 21
     line [16, 18, 16, 20, 20]
 ```
 
-2026-10-23 16 → 2026-11-25 20（+4）
+2026-10-24 16 → 2026-11-26 20（+4）
 
 
 ---

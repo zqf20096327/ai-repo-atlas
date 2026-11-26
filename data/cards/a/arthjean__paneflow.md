@@ -1,6 +1,6 @@
 # arthjean/paneflow
 
-⭐ 100 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/arthjean/paneflow) · [官网](https://paneflow.dev) · 个人维护
+⭐ 103 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/arthjean/paneflow) · [官网](https://paneflow.dev) · 个人维护
 
 **面向编码 agent 的原生终端复用器：并行运行与审阅改动**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "arthjean/paneflow 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 99 --> 101
-    line [100, 100]
+    x-axis ["2026-11-23", "2026-11-26"]
+    y-axis "stars" 99 --> 104
+    line [100, 103]
 ```
 
-2026-11-23 100 → 2026-11-25 100（+0）
+2026-11-23 100 → 2026-11-26 103（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # ThallesLazaro/Gerador-de-Imagens-IA-Local
 
-⭐ 4 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/ThallesLazaro/Gerador-de-Imagens-IA-Local) · [官网](https://tutoriaisse.com/arquivos/gerador-de-imagens-ia-local) · 个人维护
+⭐ 6 · JavaScript · 推送 2026-10-24 · [GitHub](https://github.com/ThallesLazaro/Gerador-de-Imagens-IA-Local) · [官网](https://tutoriaisse.com/arquivos/gerador-de-imagens-ia-local) · 个人维护
 
 **Windows 本地 AI 图像与视频生成器，含编辑/合成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ThallesLazaro/Gerador-de-Imagens-IA-Local 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 6]
 ```
 
-2026-11-02 3 → 2026-11-25 4（+1）
+2026-11-02 3 → 2026-11-26 6（+3）
 
 
 ---

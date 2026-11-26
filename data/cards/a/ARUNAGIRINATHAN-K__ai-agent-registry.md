@@ -1,6 +1,6 @@
 # ARUNAGIRINATHAN-K/ai-agent-registry
 
-⭐ 358 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry) · [官网](https://ai-agent-registry-kappa.vercel.app) · 个人维护
+⭐ 359 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ARUNAGIRINATHAN-K/ai-agent-registry) · [官网](https://ai-agent-registry-kappa.vercel.app) · 个人维护
 
 **AI Agent 生态策展目录：500+ 智能体与框架的分类检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ARUNAGIRINATHAN-K/ai-agent-registry 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
-    y-axis "stars" 357 --> 359
-    line [358, 358]
+    x-axis ["2026-11-18", "2026-11-26"]
+    y-axis "stars" 357 --> 360
+    line [358, 359]
 ```
 
-2026-11-18 358 → 2026-11-25 358（+0）
+2026-11-18 358 → 2026-11-26 359（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nexaforgelab/english-skill
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/nexaforgelab/english-skill) · 组织维护 · 中文 README
+⭐ 11 · Python · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/nexaforgelab/english-skill) · 组织维护 · 中文 README
 
 **面向 AI Agent/提示工程的 100 个开源英语学习技能库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nexaforgelab/english-skill 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-15", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-29", "2026-11-15", "2026-11-21", "2026-11-26"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    line [10, 11, 12, 11]
 ```
 
-2026-10-29 10 → 2026-11-25 12（+2）
+2026-10-29 10 → 2026-11-26 11（+1）
 
 
 ---

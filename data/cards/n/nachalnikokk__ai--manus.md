@@ -1,6 +1,6 @@
 # nachalnikokk/ai--manus
 
-⭐ 193 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nachalnikokk/ai--manus) · 个人维护
+⭐ 180 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/nachalnikokk/ai--manus) · 个人维护
 
 **面向个人日常任务的自主 AI Agent，可执行代码并控制浏览器**
 
@@ -44,13 +44,13 @@ README 以营销文案形式描述一款名为 Manus 的自主 AI Agent：按用
 
 ```mermaid
 xychart-beta
-    title "nachalnikokk/ai--manus 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25"]
+    title "nachalnikokk/ai--manus 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 134 --> 286
-    line [146, 274, 202, 201, 197, 193]
+    line [146, 274, 202, 201, 197, 193, 180]
 ```
 
-2026-11-13 146 → 2026-11-25 193（+47）
+2026-11-13 146 → 2026-11-26 180（+34）
 
 
 ---

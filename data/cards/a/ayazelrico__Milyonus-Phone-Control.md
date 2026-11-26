@@ -40,6 +40,18 @@ Milyonus agent 的手机控制基础设施：Android 侧提供 adb 与 Companion
 > L9: Milyonus Agent'ın gerçek telefonları **bağlı (yerel)** ve **uzaktan** kontrol etmesini sağlayan sistem: Android (adb
 > L28: Durum: **P0 — Temel ve Kararlar**. Henüz telefon kontrol eden kod yok; ilk gerçek cihaz kontrolü P2'de (Plan-Action
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ayazelrico/Milyonus-Phone-Control 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c2ae2bedc021` · [字段定义](../../DATASET.md)*

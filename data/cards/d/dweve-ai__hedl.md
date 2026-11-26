@@ -1,6 +1,6 @@
 # dweve-ai/hedl
 
-⭐ 80 · Rust · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/dweve-ai/hedl) · [官网](https://dweve.com) · 组织维护
+⭐ 81 · Rust · Apache-2.0 · 推送 2026-07-29 · [GitHub](https://github.com/dweve-ai/hedl) · [官网](https://dweve.com) · 组织维护
 
 **面向 LLM 应用的省 token 数据格式，JSON 替代**
 
@@ -47,12 +47,12 @@ HEDL（Hierarchical Entity Data Language）是一种为 LLM 应用设计的数�
 ```mermaid
 xychart-beta
     title "dweve-ai/hedl 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 77 --> 81
-    line [78, 79, 78, 80, 80]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 77 --> 82
+    line [78, 79, 78, 80, 81]
 ```
 
-2026-10-23 78 → 2026-11-25 80（+2）
+2026-10-24 78 → 2026-11-26 81（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # MoonshotAI/kha
 
-⭐ 18 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MoonshotAI/kha) · 组织维护 · 中文 README
+⭐ 19 · Go · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/MoonshotAI/kha) · 组织维护 · 中文 README
 
 **Kimi Hosted Agents 的官方 Go SDK 与 CLI 客户端**
 
@@ -46,12 +46,12 @@ MoonshotAI 官方出品的 Go SDK 和命令行工具，用于接入 Kimi Hosted 
 ```mermaid
 xychart-beta
     title "MoonshotAI/kha 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 18]
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 19]
 ```
 
-2026-11-18 17 → 2026-11-25 18（+1）
+2026-11-18 17 → 2026-11-26 19（+2）
 
 
 ---

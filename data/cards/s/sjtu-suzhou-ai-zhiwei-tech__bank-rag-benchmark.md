@@ -1,6 +1,6 @@
 # sjtu-suzhou-ai-zhiwei-tech/bank-rag-benchmark
 
-⭐ 10 · CC-BY-4.0 · 推送 2026-08-11 · [GitHub](https://github.com/sjtu-suzhou-ai-zhiwei-tech/bank-rag-benchmark) · 组织维护 · 中文 README
+⭐ 11 · CC-BY-4.0 · 推送 2026-08-11 · [GitHub](https://github.com/sjtu-suzhou-ai-zhiwei-tech/bank-rag-benchmark) · 组织维护 · 中文 README
 
 **面向中文银行知识库 RAG 系统的评测基准数据集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sjtu-suzhou-ai-zhiwei-tech/bank-rag-benchmark 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-15", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-15 10 → 2026-11-25 10（+0）
+2026-11-15 10 → 2026-11-26 11（+1）
 
 
 ---

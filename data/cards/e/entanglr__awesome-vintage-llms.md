@@ -1,6 +1,6 @@
 # entanglr/awesome-vintage-llms
 
-⭐ 50 · 推送 2026-05-09 · [GitHub](https://github.com/entanglr/awesome-vintage-llms) · [官网](https://github.com/entanglr/awesome-vintage-llms) · 个人维护
+⭐ 51 · 推送 2026-05-09 · [GitHub](https://github.com/entanglr/awesome-vintage-llms) · [官网](https://github.com/entanglr/awesome-vintage-llms) · 个人维护
 
 **历史时段限定语料训练的 vintage LLM 策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "entanglr/awesome-vintage-llms 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 41 --> 51
-    line [42, 43, 45, 46, 47, 48, 42, 49, 50, 50]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 41 --> 52
+    line [42, 43, 45, 46, 47, 48, 42, 49, 50, 51]
 ```
 
-2026-10-23 42 → 2026-11-25 50（+8）
+2026-10-24 42 → 2026-11-26 51（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # Bc408/BeCoder-IDE
 
-⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/Bc408/BeCoder-IDE) · [官网](https://ide.becoder.tech/) · 个人维护 · 中文 README
+⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Bc408/BeCoder-IDE) · [官网](https://ide.becoder.tech/) · 个人维护 · 中文 README
 
 **面向 OI/ICPC 的 Windows C/C++ 竞赛编程编辑器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bc408/BeCoder-IDE 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-25 11（+1）
+2026-11-08 10 → 2026-11-26 11（+1）
 
 
 ---

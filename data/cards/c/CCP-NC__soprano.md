@@ -1,6 +1,6 @@
 # CCP-NC/soprano
 
-⭐ 13 · Jupyter Notebook · LGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/CCP-NC/soprano) · [官网](https://ccp-nc.github.io/soprano/) · 组织维护
+⭐ 13 · Python · LGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/CCP-NC/soprano) · [官网](https://ccp-nc.github.io/soprano/) · 组织维护
 
 **计算晶体学与 NMR 分析的 Python 库，面向晶体结构大数据集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "CCP-NC/soprano 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

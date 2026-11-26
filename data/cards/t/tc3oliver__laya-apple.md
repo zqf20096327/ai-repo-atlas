@@ -1,6 +1,6 @@
 # tc3oliver/laya-apple
 
-⭐ 30 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/tc3oliver/laya-apple) · 个人维护 · 中文 README
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tc3oliver/laya-apple) · 个人维护 · 中文 README
 
 **Apple Silicon 上经正确性校验的 Laya 异构推理运行时（MLX GPU+ANE）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tc3oliver/laya-apple 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
+    title "tc3oliver/laya-apple 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 22 --> 31
-    line [23, 24, 25, 26, 24, 27, 28, 29, 30]
+    line [23, 24, 25, 26, 24, 27, 28, 29, 30, 30]
 ```
 
-2026-10-23 23 → 2026-11-25 30（+7）
+2026-10-24 23 → 2026-11-26 30（+7）
 
 
 ---

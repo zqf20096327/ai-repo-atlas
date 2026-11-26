@@ -1,6 +1,6 @@
 # louvain-ai/louvain-engine
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/louvain-ai/louvain-engine) · [官网](https://louvain.ai/engine) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/louvain-ai/louvain-engine) · [官网](https://louvain.ai/engine) · 组织维护
 
 **为企业 agent/RAG 提供带权限校验的混合检索引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "louvain-ai/louvain-engine 星数(近 5 点)"
-    x-axis ["2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 11
-    line [3, 6, 7, 8, 10]
+    title "louvain-ai/louvain-engine 星数(近 6 点)"
+    x-axis ["2026-11-16", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 16
+    line [3, 6, 7, 8, 10, 15]
 ```
 
-2026-11-16 3 → 2026-11-25 10（+7）
+2026-11-16 3 → 2026-11-26 15（+12）
 
 
 ---

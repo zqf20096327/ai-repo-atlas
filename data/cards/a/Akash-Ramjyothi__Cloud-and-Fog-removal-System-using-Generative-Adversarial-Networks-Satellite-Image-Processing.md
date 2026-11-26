@@ -1,6 +1,6 @@
 # Akash-Ramjyothi/Cloud-and-Fog-removal-System-using-Generative-Adversarial-Networks-Satellite-Image-Processing
 
-⭐ 14 · Python · 推送 2026-05-29 · [GitHub](https://github.com/Akash-Ramjyothi/Cloud-and-Fog-removal-System-using-Generative-Adversarial-Networks-Satellite-Image-Processing) · 个人维护
+⭐ 13 · Python · 推送 2026-05-29 · [GitHub](https://github.com/Akash-Ramjyothi/Cloud-and-Fog-removal-System-using-Generative-Adversarial-Networks-Satellite-Image-Processing) · 个人维护
 
 **用 GAN 去除卫星影像中云雾的图像处理系统**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Akash-Ramjyothi/Cloud-and-Fog-removal-System-using-Generative-Adversarial-Networks-Satellite-Image-Processing 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [14, 13]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 13（-1）
 
 
 ---

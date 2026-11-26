@@ -1,6 +1,6 @@
 # pass-agent/loomkin
 
-⭐ 182 · Elixir · MIT · 推送 2026-05-17 · [GitHub](https://github.com/pass-agent/loomkin) · 个人维护
+⭐ 183 · Elixir · MIT · 推送 2026-05-17 · [GitHub](https://github.com/pass-agent/loomkin) · 个人维护
 
 **Elixir/OTP 多智能体团队平台，含实时任务控制台 UI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pass-agent/loomkin 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 180 --> 183
-    line [181, 182, 182]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 180 --> 184
+    line [181, 182, 183]
 ```
 
-2026-10-23 181 → 2026-11-25 182（+1）
+2026-10-24 181 → 2026-11-26 183（+2）
 
 
 ---

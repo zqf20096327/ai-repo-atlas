@@ -1,6 +1,6 @@
 # youdoufu-shuai/pdd-cs
 
-⭐ 6 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/youdoufu-shuai/pdd-cs) · 个人维护 · 中文 README
+⭐ 7 · Python · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/youdoufu-shuai/pdd-cs) · 个人维护 · 中文 README
 
 **拼多多多店铺自动客服：规则+可选AI自动接待**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "youdoufu-shuai/pdd-cs 星数(近 5 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-10-31 3 → 2026-11-25 6（+3）
+2026-10-31 3 → 2026-11-26 7（+4）
 
 
 ---

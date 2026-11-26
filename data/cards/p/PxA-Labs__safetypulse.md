@@ -1,6 +1,6 @@
 # PxA-Labs/safetypulse
 
-⭐ 6 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PxA-Labs/safetypulse) · [官网](https://huggingface.co/blog/purvansh01/safetypulse-safety-drift-monitor) · 组织维护
+⭐ 6 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/PxA-Labs/safetypulse) · [官网](https://huggingface.co/blog/purvansh01/safetypulse-safety-drift-monitor) · 组织维护
 
 **LLM 微调安全漂移的早期预警与修复审计工具包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PxA-Labs/safetypulse 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-22", "2026-11-26"]
     y-axis "stars" 3 --> 7
     line [4, 5, 6, 6]
 ```
 
-2026-11-10 4 → 2026-11-25 6（+2）
+2026-11-10 4 → 2026-11-26 6（+2）
 
 
 ---

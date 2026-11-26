@@ -1,6 +1,6 @@
 # MorpheusAIs/Morpheus-Lumerin-Node
 
-⭐ 24 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MorpheusAIs/Morpheus-Lumerin-Node) · [官网](https://mor.org) · 组织维护
+⭐ 24 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MorpheusAIs/Morpheus-Lumerin-Node) · [官网](https://mor.org) · 组织维护
 
 **接入 Morpheus 去中心化 LLM 网络的桌面聊天客户端与代理路由节点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MorpheusAIs/Morpheus-Lumerin-Node 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 24（+0）
 
 
 ---

@@ -46,12 +46,12 @@ GreenBoost 的 Windows 移植：针对量化 MoE GGUF 模型，将选定专家�
 ```mermaid
 xychart-beta
     title "denoflore/greenboost-windows 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-11-02 78 → 2026-11-25 78（+0）
+2026-11-02 78 → 2026-11-26 78（+0）
 
 
 ---

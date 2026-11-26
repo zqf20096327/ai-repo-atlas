@@ -1,6 +1,6 @@
 # sahajamit/promptwright
 
-⭐ 121 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/sahajamit/promptwright) · [官网](https://www.youtube.com/watch?v=2c7P4du6hDQ) · 个人维护
+⭐ 120 · TypeScript · MIT · 推送 2026-07-10 · [GitHub](https://github.com/sahajamit/promptwright) · [官网](https://www.youtube.com/watch?v=2c7P4du6hDQ) · 个人维护
 
 **免登录 BYOK 的桌面 AI 测试代理：自然语言驱动浏览器并生成测试脚本**
 
@@ -45,13 +45,13 @@ Electron 桌面应用加 CLI 形式的 AI QA 代理：用户用自然语言描�
 
 ```mermaid
 xychart-beta
-    title "sahajamit/promptwright 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-23", "2026-11-25"]
+    title "sahajamit/promptwright 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 119 --> 122
-    line [120, 121, 120, 121]
+    line [120, 121, 120, 121, 120]
 ```
 
-2026-10-23 120 → 2026-11-25 121（+1）
+2026-10-24 120 → 2026-11-26 120（+0）
 
 
 ---

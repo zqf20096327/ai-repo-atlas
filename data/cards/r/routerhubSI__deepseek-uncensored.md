@@ -1,6 +1,6 @@
 # routerhubSI/deepseek-uncensored
 
-⭐ 75 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/routerhubSI/deepseek-uncensored) · [官网](https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=deepseek-uncensored) · 组织维护
+⭐ 71 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/routerhubSI/deepseek-uncensored) · [官网](https://routerhub.si/?utm_source=github&utm_medium=repo&utm_campaign=deepseek-uncensored) · 组织维护
 
 **RouterHub 维护的去审查 DeepSeek 模型变体清单与托管入口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "routerhubSI/deepseek-uncensored 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 67 --> 76
-    line [68, 71, 72, 74, 75, 75]
+    line [68, 71, 72, 74, 75, 71]
 ```
 
-2026-11-12 68 → 2026-11-25 75（+7）
+2026-11-12 68 → 2026-11-26 71（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # comsky/remy-skill-recipes
 
-⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/comsky/remy-skill-recipes) · [官网](https://skills.sh/comsky/remy-skill-recipes) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/comsky/remy-skill-recipes) · [官网](https://skills.sh/comsky/remy-skill-recipes) · 个人维护
 
 **面向软件工程的 SKILL.md 技能配方集：12 个结构化 LLM 工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "comsky/remy-skill-recipes 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

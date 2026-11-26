@@ -1,6 +1,6 @@
 # agentmessaging/protocol
 
-⭐ 41 · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/agentmessaging/protocol) · [官网](https://agentmessaging.org) · 组织维护
+⭐ 41 · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/agentmessaging/protocol) · [官网](https://agentmessaging.org) · 组织维护
 
 **AI agent 间安全通信的开放联邦协议规范**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentmessaging/protocol 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-25"]
+    title "agentmessaging/protocol 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 35 --> 42
-    line [36, 38, 39, 40, 41]
+    line [36, 38, 39, 40, 41, 41]
 ```
 
-2026-10-23 36 → 2026-11-25 41（+5）
+2026-10-24 36 → 2026-11-26 41（+5）
 
 
 ---

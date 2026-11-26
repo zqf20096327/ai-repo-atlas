@@ -1,6 +1,6 @@
 # rishin-sharma/CorpusCustody
 
-⭐ 32 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/rishin-sharma/CorpusCustody) · 个人维护
+⭐ 30 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/rishin-sharma/CorpusCustody) · 个人维护
 
 **训练数据许可证与来源合规门：按用途校验 SPDX 义务并拦截语料入库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rishin-sharma/CorpusCustody 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 31 --> 35
-    line [34, 33, 34, 33, 32, 32]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 29 --> 35
+    line [34, 33, 34, 33, 32, 30]
 ```
 
-2026-10-23 34 → 2026-11-25 32（-2）
+2026-10-24 34 → 2026-11-26 30（-4）
 
 
 ---

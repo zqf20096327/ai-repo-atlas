@@ -42,6 +42,18 @@
 > L24: Put your sources into a collection: PDFs, Office files, web links, YouTube videos, audio and video recordings (tran
 > L42: - **Any model.** Bring your own key for OpenRouter, OpenAI, Anthropic, Gemini, Azure OpenAI, Mistral, Groq, DeepSee
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mahmoud-emad/notabit 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-25 14 → 2026-11-26 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `db05a51656ae` · [字段定义](../../DATASET.md)*

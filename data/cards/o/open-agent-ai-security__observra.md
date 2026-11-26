@@ -1,6 +1,6 @@
 # open-agent-ai-security/observra
 
-⭐ 28 · HTML · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/open-agent-ai-security/observra) · [官网](https://open-agent-ai-security.github.io/observra/) · 组织维护
+⭐ 29 · HTML · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/open-agent-ai-security/observra) · [官网](https://open-agent-ai-security.github.io/observra/) · 组织维护
 
 **框架无关的 AI agent 遥测与可观测性库**
 
@@ -44,13 +44,13 @@ Observra 是面向 AI agent 系统的观测与遥测框架，通过 Common Infor
 
 ```mermaid
 xychart-beta
-    title "open-agent-ai-security/observra 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 23 --> 29
-    line [24, 25, 26, 28, 28]
+    title "open-agent-ai-security/observra 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 28, 29]
 ```
 
-2026-10-23 24 → 2026-11-25 28（+4）
+2026-10-24 25 → 2026-11-26 29（+4）
 
 
 ---

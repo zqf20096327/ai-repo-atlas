@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-Anima-Wardrobe-V3
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-10-17 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V3) · 个人维护 · 中文 README
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V3) · 个人维护 · 中文 README
 
 **ComfyUI 节点：ANIMA3 提示词随机生成器，五级 NSFW 闸门**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lingdongbudong/Comfyui-Anima-Wardrobe-V3 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-23", "2026-11-26"]
     y-axis "stars" 9 --> 19
     line [10, 11, 12, 13, 14, 10, 14, 15, 16, 17, 18, 18]
 ```
 
-2026-10-23 10 → 2026-11-25 18（+8）
+2026-10-24 10 → 2026-11-26 18（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jungroo-AI/redefiner
 
-⭐ 9 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Jungroo-AI/redefiner) · [官网](https://jungroo.com/redefiner/) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Jungroo-AI/redefiner) · [官网](https://jungroo.com/redefiner/) · 组织维护
 
 **本地 CPU 运行的 0.8B 模型：按英文规则书抽取自定义实体**
 
@@ -47,12 +47,12 @@ ReDefiNER 是 Jungroo AI Labs 发布的 0.8B 非生成式命名实体抽取模�
 ```mermaid
 xychart-beta
     title "Jungroo-AI/redefiner 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 7 --> 10
-    line [8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 7 --> 11
+    line [8, 9, 10]
 ```
 
-2026-11-08 8 → 2026-11-25 9（+1）
+2026-11-08 8 → 2026-11-26 10（+2）
 
 
 ---

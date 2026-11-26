@@ -1,6 +1,6 @@
 # usual-labs/usual-bot
 
-⭐ 14 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/usual-labs/usual-bot) · [官网](https://github.com/usual-labs/usual-bot/releases/latest) · 组织维护
+⭐ 15 · Swift · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/usual-labs/usual-bot) · [官网](https://github.com/usual-labs/usual-bot/releases/latest) · 组织维护
 
 **Mac/iPhone 原生消息客户端：连接 Hermes 网关与 Bot 对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "usual-labs/usual-bot 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 15
-    line [3, 4, 9, 10, 13, 14]
+    title "usual-labs/usual-bot 星数(近 7 点)"
+    x-axis ["2026-10-29", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 16
+    line [3, 4, 9, 10, 13, 14, 15]
 ```
 
-2026-10-29 3 → 2026-11-25 14（+11）
+2026-10-29 3 → 2026-11-26 15（+12）
 
 
 ---

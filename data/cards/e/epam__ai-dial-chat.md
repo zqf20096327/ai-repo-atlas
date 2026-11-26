@@ -1,6 +1,6 @@
 # epam/ai-dial-chat
 
-⭐ 502 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/epam/ai-dial-chat) · [官网](https://chat.dialx.ai) · 组织维护
+⭐ 501 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/epam/ai-dial-chat) · [官网](https://chat.dialx.ai) · 组织维护
 
 **EPAM AI DIAL 的默认聊天前端与配套 BFF 后端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "epam/ai-dial-chat 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 500 --> 506
-    line [505, 502, 501, 502, 502]
+    title "epam/ai-dial-chat 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 500 --> 503
+    line [502, 501, 502, 501]
 ```
 
-2026-10-23 505 → 2026-11-25 502（-3）
+2026-10-24 502 → 2026-11-26 501（-1）
 
 
 ---

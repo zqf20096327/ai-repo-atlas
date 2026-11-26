@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cihadkocasahan/Awesome-Delphi-AI 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25"]
+    title "cihadkocasahan/Awesome-Delphi-AI 星数(近 5 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7]
+    line [4, 5, 6, 7, 7]
 ```
 
-2026-11-08 4 → 2026-11-25 7（+3）
+2026-11-08 4 → 2026-11-26 7（+3）
 
 
 ---

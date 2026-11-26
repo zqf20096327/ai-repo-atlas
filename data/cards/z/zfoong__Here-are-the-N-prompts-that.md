@@ -1,6 +1,6 @@
 # zfoong/Here-are-the-N-prompts-that
 
-⭐ 36 · MIT · 推送 2026-08-05 · [GitHub](https://github.com/zfoong/Here-are-the-N-prompts-that) · 个人维护
+⭐ 37 · MIT · 推送 2026-08-05 · [GitHub](https://github.com/zfoong/Here-are-the-N-prompts-that) · 个人维护
 
 **社媒“N个提示词”帖子的提示词收集清单（202包/1666条）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zfoong/Here-are-the-N-prompts-that 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 32 --> 37
-    line [33, 34, 35, 36, 36]
+    title "zfoong/Here-are-the-N-prompts-that 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 37]
 ```
 
-2026-10-23 33 → 2026-11-25 36（+3）
+2026-10-24 34 → 2026-11-26 37（+3）
 
 
 ---

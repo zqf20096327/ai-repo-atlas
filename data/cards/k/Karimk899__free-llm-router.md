@@ -1,6 +1,6 @@
 # Karimk899/free-llm-router
 
-⭐ 65 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Karimk899/free-llm-router) · 个人维护
+⭐ 65 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Karimk899/free-llm-router) · [官网](https://github.com/Karimk899/free-llm-router/releases) · 个人维护
 
 **免费额度 LLM 路由器：将请求分配到免费提供商并自动回退**
 
@@ -39,6 +39,18 @@ FreeLlmRouter 以 OpenAI 兼容的 CLI/路由器形式运行，将请求路由�
 
 > L3: # FreeLlmRouter — Free-Tier LLM Router with Automatic Fallback (One-Command Setup, Prebuilt Release)
 > L20: **FreeLlmRouter — Route every request to a free provider** (`free-llm-router`) ships as a native 64-bit Windows bui
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Karimk899/free-llm-router 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 64 --> 66
+    line [65, 65]
+```
+
+2026-11-25 65 → 2026-11-26 65（+0）
 
 
 ---

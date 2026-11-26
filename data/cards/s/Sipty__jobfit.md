@@ -1,6 +1,6 @@
 # Sipty/jobfit
 
-⭐ 7 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Sipty/jobfit) · [官网](https://exitnode.dev/get-jobfit/) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Sipty/jobfit) · [官网](https://exitnode.dev/get-jobfit/) · 个人维护
 
 **求职者用 LLM 匹配职位并生成定制简历 PDF 的 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Sipty/jobfit 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 2 --> 8
-    line [3, 6, 7, 7]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 2 --> 9
+    line [3, 6, 7, 8]
 ```
 
-2026-11-16 3 → 2026-11-25 7（+4）
+2026-11-16 3 → 2026-11-26 8（+5）
 
 
 ---

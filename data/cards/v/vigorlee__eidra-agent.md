@@ -1,6 +1,6 @@
 # vigorlee/eidra-agent
 
-⭐ 89 · JavaScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/vigorlee/eidra-agent) · 个人维护 · 中文 README
+⭐ 90 · JavaScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/vigorlee/eidra-agent) · 个人维护 · 中文 README
 
 **面向角色扮演、持久记忆与对抗评测的智能体 CLI 原型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vigorlee/eidra-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 88 --> 90
-    line [89, 89]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 88 --> 91
+    line [89, 90]
 ```
 
-2026-10-23 89 → 2026-11-25 89（+0）
+2026-10-24 89 → 2026-11-26 90（+1）
 
 
 ---

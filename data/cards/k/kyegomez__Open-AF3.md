@@ -1,6 +1,6 @@
 # kyegomez/Open-AF3
 
-⭐ 809 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/Open-AF3) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
+⭐ 808 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/kyegomez/Open-AF3) · [官网](https://discord.gg/7VckQVxvKk) · 个人维护
 
 **AlphaFold 3 论文的 PyTorch 开源复现，预测生物分子结构**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kyegomez/Open-AF3 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
     y-axis "stars" 807 --> 810
-    line [808, 809, 809]
+    line [808, 809, 808]
 ```
 
-2026-10-23 808 → 2026-11-25 809（+1）
+2026-10-24 808 → 2026-11-26 808（+0）
 
 
 ---

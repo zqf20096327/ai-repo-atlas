@@ -1,6 +1,6 @@
 # dialog-tools/reddit-research-mcp
 
-⭐ 268 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dialog-tools/reddit-research-mcp) · [官网](https://dialog.tools/) · 组织维护
+⭐ 270 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/dialog-tools/reddit-research-mcp) · [官网](https://dialog.tools/) · 组织维护
 
 **面向 AI 助手的 Reddit 研究数据接入 MCP 服务器**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "dialog-tools/reddit-research-mcp 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 256 --> 269
-    line [257, 259, 257, 263, 265, 266, 268]
+    title "dialog-tools/reddit-research-mcp 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 256 --> 271
+    line [257, 259, 257, 263, 265, 266, 268, 270]
 ```
 
-2026-10-23 257 → 2026-11-25 268（+11）
+2026-10-24 257 → 2026-11-26 270（+13）
 
 
 ---

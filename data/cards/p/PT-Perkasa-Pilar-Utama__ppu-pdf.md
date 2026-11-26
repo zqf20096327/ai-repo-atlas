@@ -46,12 +46,12 @@ TypeScript/JavaScript 库，提供 PdfReader（基于 mupdfjs）与 PdfReaderLeg
 ```mermaid
 xychart-beta
     title "PT-Perkasa-Pilar-Utama/ppu-pdf 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 17（+0）
 
 
 ---

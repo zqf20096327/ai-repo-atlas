@@ -1,6 +1,6 @@
 # bio-ontology-research-group/mowl
 
-⭐ 98 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/bio-ontology-research-group/mowl) · 组织维护
+⭐ 99 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/bio-ontology-research-group/mowl) · 组织维护
 
 **基于本体背景知识的机器学习 Python 库，面向生物医学研究**
 
@@ -45,12 +45,12 @@ mOWL 是 Python 机器学习库，将本体（ontologies）作为背景知识用
 ```mermaid
 xychart-beta
     title "bio-ontology-research-group/mowl 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 96 --> 99
-    line [97, 98, 98]
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 96 --> 100
+    line [97, 98, 99]
 ```
 
-2026-10-23 97 → 2026-11-25 98（+1）
+2026-10-24 97 → 2026-11-26 99（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # dynatrace-oss/dynatrace-ai-agent-instrumentation-examples
 
-⭐ 92 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dynatrace-oss/dynatrace-ai-agent-instrumentation-examples) · [官网](https://www.dynatrace.com/solutions/ai-observability/) · 组织维护
+⭐ 92 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dynatrace-oss/dynatrace-ai-agent-instrumentation-examples) · [官网](https://www.dynatrace.com/solutions/ai-observability/) · 组织维护
 
 **Dynatrace AI agent 可观测性 OTel 埋点示例集**
 
@@ -45,12 +45,12 @@ Dynatrace 官方维护的示例仓库，演示如何为 AI agent 与 LLM SDK 埋
 ```mermaid
 xychart-beta
     title "dynatrace-oss/dynatrace-ai-agent-instrumentation-examples 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
     y-axis "stars" 90 --> 93
     line [91, 92, 92]
 ```
 
-2026-10-23 91 → 2026-11-25 92（+1）
+2026-10-24 91 → 2026-11-26 92（+1）
 
 
 ---

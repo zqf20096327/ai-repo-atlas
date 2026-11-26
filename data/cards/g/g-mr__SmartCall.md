@@ -1,6 +1,6 @@
 # g-mr/SmartCall
 
-⭐ 17 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/g-mr/SmartCall) · [官网](https://qidiangk.com) · 个人维护 · 中文 README
+⭐ 18 · Java · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/g-mr/SmartCall) · [官网](https://qidiangk.com) · 个人维护 · 中文 README
 
 **面向企业的 AI 客服呼叫中心系统：智能应答与 IVR 编排**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "g-mr/SmartCall 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 10 --> 18
-    line [11, 12, 15, 11, 16, 17, 17]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 10 --> 19
+    line [11, 12, 15, 11, 16, 17, 18]
 ```
 
-2026-10-23 11 → 2026-11-25 17（+6）
+2026-10-24 11 → 2026-11-26 18（+7）
 
 
 ---

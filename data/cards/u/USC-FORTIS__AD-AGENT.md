@@ -1,6 +1,6 @@
 # USC-FORTIS/AD-AGENT
 
-⭐ 104 · Python · BSD-2-Clause · 推送 2026-04-24 · [GitHub](https://github.com/USC-FORTIS/AD-AGENT) · [官网](https://usc-fortis.github.io/AD-AGENT/) · 组织维护
+⭐ 105 · Python · BSD-2-Clause · 推送 2026-04-24 · [GitHub](https://github.com/USC-FORTIS/AD-AGENT) · [官网](https://usc-fortis.github.io/AD-AGENT/) · 组织维护
 
 **LLM 多智能体框架：自然语言驱动端到端异常检测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "USC-FORTIS/AD-AGENT 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-26"]
     y-axis "stars" 103 --> 106
-    line [104, 105, 104, 104]
+    line [104, 105, 104, 105]
 ```
 
-2026-10-23 104 → 2026-11-25 104（+0）
+2026-10-24 104 → 2026-11-26 105（+1）
 
 
 ---

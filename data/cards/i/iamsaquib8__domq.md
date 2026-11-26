@@ -1,6 +1,6 @@
 # iamsaquib8/domq
 
-⭐ 12 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/iamsaquib8/domq) · [官网](https://iamsaquib8.github.io/domq/) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-09 · [GitHub](https://github.com/iamsaquib8/domq) · [官网](https://iamsaquib8.github.io/domq/) · 个人维护
 
 **多语言零依赖 HTML 解析器：输入混乱 HTML，输出树/文本/Markdown/JSON**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "iamsaquib8/domq 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-11-10", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [11, 12, 10]
 ```
 
-2026-11-10 11 → 2026-11-25 12（+1）
+2026-11-10 11 → 2026-11-26 10（-1）
 
 
 ---

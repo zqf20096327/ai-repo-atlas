@@ -1,6 +1,6 @@
 # primitivedotdev/sdks
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/primitivedotdev/sdks) · [官网](https://www.primitive.dev/) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/primitivedotdev/sdks) · [官网](https://www.primitive.dev/) · 组织维护
 
 **面向 AI agent 的邮件平台 Primitive 官方多语言 SDK 与 CLI**
 
@@ -44,13 +44,13 @@ Primitive（收发邮件平台，面向 AI agent）官方 SDK 的 monorepo，由
 
 ```mermaid
 xychart-beta
-    title "primitivedotdev/sdks 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 11, 12, 13, 13]
+    title "primitivedotdev/sdks 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-23 10 → 2026-11-25 13（+3）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # ganon3264/focus
 
-⭐ 11 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ganon3264/focus) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ganon3264/focus) · 个人维护
 
 **面向 LLM 角色扮演的自托管聊天前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ganon3264/focus 星数(近 3 点)"
-    x-axis ["2026-11-01", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-01", "2026-11-12", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-01 10 → 2026-11-25 11（+1）
+2026-11-01 10 → 2026-11-26 11（+1）
 
 
 ---

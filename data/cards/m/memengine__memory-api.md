@@ -1,6 +1,6 @@
 # memengine/memory-api
 
-⭐ 13 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/memengine/memory-api) · [官网](https://memoryo.dev/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/memengine/memory-api) · [官网](https://memoryo.dev/) · 个人维护
 
 **为 AI agent 提供带来源追踪与更正历史的记忆服务**
 
@@ -46,12 +46,12 @@ MemoryOS 是面向聊天机器人与 agent 开发者的记忆存储服务：保�
 ```mermaid
 xychart-beta
     title "memengine/memory-api 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-22 13 → 2026-11-25 13（+0）
+2026-11-22 13 → 2026-11-26 13（+0）
 
 
 ---

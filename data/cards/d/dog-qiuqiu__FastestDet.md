@@ -1,6 +1,6 @@
 # dog-qiuqiu/FastestDet
 
-⭐ 863 · Python · BSD-3-Clause · 推送 2026-05-12 · [GitHub](https://github.com/dog-qiuqiu/FastestDet) · 个人维护 · 中文 README
+⭐ 862 · Python · BSD-3-Clause · 推送 2026-05-12 · [GitHub](https://github.com/dog-qiuqiu/FastestDet) · 个人维护 · 中文 README
 
 **超轻量 anchor-free 目标检测算法（仅 0.24M 参数）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dog-qiuqiu/FastestDet 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 862 --> 865
-    line [863, 864, 863, 863]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 861 --> 865
+    line [863, 864, 863, 862]
 ```
 
-2026-10-23 863 → 2026-11-25 863（+0）
+2026-10-24 863 → 2026-11-26 862（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nguyenvuthientrang/cliffcompaction
 
-⭐ 77 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/nguyenvuthientrang/cliffcompaction) · 组织维护
+⭐ 78 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/nguyenvuthientrang/cliffcompaction) · 组织维护
 
 **透明 API 代理：自动压缩长会话编码 agent 的上下文**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nguyenvuthientrang/cliffcompaction 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 64 --> 78
-    line [65, 67, 68, 69, 70, 67, 74, 75, 76, 77, 77]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 64 --> 79
+    line [65, 67, 68, 69, 70, 67, 74, 75, 76, 77, 78]
 ```
 
-2026-10-23 65 → 2026-11-25 77（+12）
+2026-10-24 65 → 2026-11-26 78（+13）
 
 
 ---

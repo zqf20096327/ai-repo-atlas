@@ -1,6 +1,6 @@
 # SodovaFo7/claude-code-unlimited
 
-⭐ 3 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SodovaFo7/claude-code-unlimited) · 个人维护
+⭐ 68 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SodovaFo7/claude-code-unlimited) · [官网](https://github.com/SodovaFo7/claude-code-unlimited/releases) · 个人维护
 
 **为 Claude Code CLI 自动轮换会话以规避用量限制的封装工具**
 
@@ -39,6 +39,18 @@
 
 > L18: **Claude Code Unlimited — Session Rotation Engine for Claude Code CLI** (`claude-code-unlimited`) is a dedicated, l
 > L34: |**Session Watcher**|Streams child-process stdout through a bounded ring-buffer limit detector|`rotate_on_limit`, l
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SodovaFo7/claude-code-unlimited 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 74
+    line [3, 68]
+```
+
+2026-11-25 3 → 2026-11-26 68（+65）
 
 
 ---

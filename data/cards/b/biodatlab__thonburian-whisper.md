@@ -1,6 +1,6 @@
 # biodatlab/thonburian-whisper
 
-⭐ 212 · Jupyter Notebook · MIT · 推送 2026-04-02 · [GitHub](https://github.com/biodatlab/thonburian-whisper) · [官网](https://huggingface.co/spaces/biodatlab/whisper-thai-demo) · 组织维护
+⭐ 213 · Jupyter Notebook · MIT · 推送 2026-04-02 · [GitHub](https://github.com/biodatlab/thonburian-whisper) · [官网](https://huggingface.co/spaces/biodatlab/whisper-thai-demo) · 组织维护
 
 **面向泰语的 Whisper 微调/蒸馏 ASR 模型集合**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "biodatlab/thonburian-whisper 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 206 --> 213
-    line [208, 207, 208, 209, 210, 211, 212]
+    title "biodatlab/thonburian-whisper 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 206 --> 214
+    line [208, 207, 208, 209, 210, 211, 212, 213]
 ```
 
-2026-10-23 208 → 2026-11-25 212（+4）
+2026-10-24 208 → 2026-11-26 213（+5）
 
 
 ---

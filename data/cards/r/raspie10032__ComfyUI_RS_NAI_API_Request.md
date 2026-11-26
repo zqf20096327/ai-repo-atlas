@@ -1,6 +1,6 @@
 # raspie10032/ComfyUI_RS_NAI_API_Request
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/raspie10032/ComfyUI_RS_NAI_API_Request) · 个人维护
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/raspie10032/ComfyUI_RS_NAI_API_Request) · 个人维护
 
 **ComfyUI 节点：通过 NovelAI API 生成与修整多角色图像**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raspie10032/ComfyUI_RS_NAI_API_Request 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-25 10（+0）
+2026-11-11 10 → 2026-11-26 10（+0）
 
 
 ---

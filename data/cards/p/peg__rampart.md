@@ -1,6 +1,6 @@
 # peg/rampart
 
-⭐ 93 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/peg/rampart) · [官网](https://rampart.sh) · 组织维护
+⭐ 93 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/peg/rampart) · [官网](https://rampart.sh) · 组织维护
 
 **给 AI agent 运维者的开源策略审批与审计防火墙**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "peg/rampart 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-22", "2026-11-25"]
+    title "peg/rampart 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-22", "2026-11-26"]
     y-axis "stars" 90 --> 94
-    line [93, 92, 91, 92, 93, 93]
+    line [92, 91, 92, 93, 93]
 ```
 
-2026-10-23 93 → 2026-11-25 93（+0）
+2026-10-24 92 → 2026-11-26 93（+1）
 
 
 ---

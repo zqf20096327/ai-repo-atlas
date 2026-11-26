@@ -1,6 +1,6 @@
 # scafoldr/scafoldr
 
-⭐ 63 · TypeScript · Apache-2.0 · 推送 2026-02-02 · [GitHub](https://github.com/scafoldr/scafoldr) · [官网](https://scafoldr.com/) · 组织维护
+⭐ 64 · TypeScript · Apache-2.0 · 推送 2026-02-02 · [GitHub](https://github.com/scafoldr/scafoldr) · [官网](https://scafoldr.com/) · 组织维护
 
 **从数据库模式生成后端代码的全栈应用生成工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "scafoldr/scafoldr 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
     y-axis "stars" 62 --> 65
-    line [64, 63, 63]
+    line [64, 63, 64]
 ```
 
-2026-10-23 64 → 2026-11-25 63（-1）
+2026-10-24 64 → 2026-11-26 64（+0）
 
 
 ---

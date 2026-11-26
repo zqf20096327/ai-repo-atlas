@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ataturhan21/Cifar10-Image-Classification 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-25"]
+    x-axis ["2026-11-01", "2026-11-26"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-11-01 29 → 2026-11-25 29（+0）
+2026-11-01 29 → 2026-11-26 29（+0）
 
 
 ---

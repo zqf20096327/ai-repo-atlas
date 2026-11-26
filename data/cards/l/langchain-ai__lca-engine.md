@@ -1,6 +1,6 @@
 # langchain-ai/lca-engine
 
-⭐ 21 · Python · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/lca-engine) · 组织维护
+⭐ 21 · Python · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/lca-engine) · 组织维护
 
 **LangChain 学院课程示例：招聘 Agent 与 LangSmith 评测工作流**
 
@@ -47,12 +47,12 @@ LangChain Academy 课程配套仓库：包含一个招聘助理 Agent（职位�
 ```mermaid
 xychart-beta
     title "langchain-ai/lca-engine 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

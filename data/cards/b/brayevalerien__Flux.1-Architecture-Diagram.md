@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "brayevalerien/Flux.1-Architecture-Diagram 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "brayevalerien/Flux.1-Architecture-Diagram 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 86 --> 89
-    line [87, 88]
+    line [87, 88, 88]
 ```
 
-2026-10-23 87 → 2026-11-25 88（+1）
+2026-10-24 87 → 2026-11-26 88（+1）
 
 
 ---

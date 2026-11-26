@@ -1,6 +1,6 @@
 # FederatedAI/FATE
 
-⭐ 6,110 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FederatedAI/FATE) · 组织维护
+⭐ 6,111 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FederatedAI/FATE) · 组织维护
 
 **面向企业机构的工业级联邦学习框架，支持隐私保护协同建模**
 
@@ -39,6 +39,18 @@ FATE（Federated AI Technology Enabler）是基于同态加密与多方计算（
 
 > L7: FATE (Federated AI Technology Enabler) is the world's first industrial grade federated learning open source framewor
 > L22: - Deploying FATE on a single node via PyPI, pre-built docker images or installers. It is for simple testing purpose
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FederatedAI/FATE 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 6109 --> 6112
+    line [6110, 6111]
+```
+
+2026-11-25 6,110 → 2026-11-26 6,111（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # padmarajnidagundi/Playwright-AI-Agent-POM-MCP-Server
 
-⭐ 40 · TypeScript · 推送 2026-11-10 · [GitHub](https://github.com/padmarajnidagundi/Playwright-AI-Agent-POM-MCP-Server) · 个人维护
+⭐ 40 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/padmarajnidagundi/Playwright-AI-Agent-POM-MCP-Server) · 个人维护
 
 **Playwright 测试框架 + MCP 服务器：让 AI 客户端运行与读取测试**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "padmarajnidagundi/Playwright-AI-Agent-POM-MCP-Server 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 38 --> 41
     line [39, 40, 40]
 ```
 
-2026-10-23 39 → 2026-11-25 40（+1）
+2026-10-24 39 → 2026-11-26 40（+1）
 
 
 ---

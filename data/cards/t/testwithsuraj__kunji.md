@@ -1,6 +1,6 @@
 # testwithsuraj/kunji
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/testwithsuraj/kunji) · [官网](http://kunji.iamsuraj.me) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/testwithsuraj/kunji) · [官网](http://kunji.iamsuraj.me) · 个人维护
 
 **BYOK 终端 AI 聊天客户端：接入多家模型并跟踪费用与预算**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "testwithsuraj/kunji 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-25"]
+    title "testwithsuraj/kunji 星数(近 4 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26"]
     y-axis "stars" 3 --> 7
-    line [4, 5, 6]
+    line [4, 5, 6, 6]
 ```
 
-2026-11-10 4 → 2026-11-25 6（+2）
+2026-11-10 4 → 2026-11-26 6（+2）
 
 
 ---

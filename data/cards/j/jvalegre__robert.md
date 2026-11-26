@@ -1,6 +1,6 @@
 # jvalegre/robert
 
-⭐ 58 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/jvalegre/robert) · 组织维护
+⭐ 58 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jvalegre/robert) · 组织维护
 
 **化学研究的一键式自动机器学习工作流：从 CSV 描述符或 SMILES 到可发表结果**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jvalegre/robert 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-23 58 → 2026-11-25 58（+0）
+2026-10-24 58 → 2026-11-26 58（+0）
 
 
 ---

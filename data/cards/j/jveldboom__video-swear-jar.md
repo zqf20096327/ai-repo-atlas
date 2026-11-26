@@ -1,6 +1,6 @@
 # jveldboom/video-swear-jar
 
-⭐ 20 · JavaScript · 推送 2026-11-02 · [GitHub](https://github.com/jveldboom/video-swear-jar) · 个人维护
+⭐ 20 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/jveldboom/video-swear-jar) · 个人维护
 
 **本地 Docker 工具：转录视频音频并剪除脏话片段**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jveldboom/video-swear-jar 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 20（+0）
 
 
 ---

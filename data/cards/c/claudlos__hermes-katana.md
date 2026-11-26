@@ -1,6 +1,6 @@
 # claudlos/hermes-katana
 
-⭐ 51 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/claudlos/hermes-katana) · [官网](https://claudlos.github.io/hermes-katana/) · 个人维护
+⭐ 50 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/claudlos/hermes-katana) · [官网](https://claudlos.github.io/hermes-katana/) · 个人维护
 
 **给 AI agent 开发者的纵深防御安全工具包：污点追踪、策略引擎与红队基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "claudlos/hermes-katana 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-14", "2026-11-26"]
     y-axis "stars" 48 --> 52
-    line [49, 50, 51, 51]
+    line [49, 50, 51, 50]
 ```
 
-2026-10-23 49 → 2026-11-25 51（+2）
+2026-10-24 49 → 2026-11-26 50（+1）
 
 
 ---

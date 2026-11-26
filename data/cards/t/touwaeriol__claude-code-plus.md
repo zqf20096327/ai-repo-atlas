@@ -1,6 +1,6 @@
 # touwaeriol/claude-code-plus
 
-⭐ 142 · JavaScript · MIT · 推送 2026-04-15 · [GitHub](https://github.com/touwaeriol/claude-code-plus) · [官网](https://plugins.jetbrains.com/plugin/28343-claude-code-plus) · 个人维护 · 中文 README
+⭐ 141 · JavaScript · MIT · 推送 2026-04-15 · [GitHub](https://github.com/touwaeriol/claude-code-plus) · [官网](https://plugins.jetbrains.com/plugin/28343-claude-code-plus) · 个人维护 · 中文 README
 
 **JetBrains IDE 中运行 Claude Code 的 GUI 插件**
 
@@ -45,12 +45,12 @@ IntelliJ IDEA 插件，将 Claude Code CLI 以图形界面嵌入 IDE：提供聊
 ```mermaid
 xychart-beta
     title "touwaeriol/claude-code-plus 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 141 --> 143
-    line [142, 142]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 140 --> 143
+    line [142, 141]
 ```
 
-2026-10-23 142 → 2026-11-25 142（+0）
+2026-10-24 142 → 2026-11-26 141（-1）
 
 
 ---

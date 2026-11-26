@@ -1,6 +1,6 @@
 # xinwithyu/moonlit-myriad
 
-⭐ 85 · Python · 推送 2026-09-14 · [GitHub](https://github.com/xinwithyu/moonlit-myriad) · 个人维护 · 中文 README
+⭐ 86 · Python · 推送 2026-09-14 · [GitHub](https://github.com/xinwithyu/moonlit-myriad) · 个人维护 · 中文 README
 
 **供 AI 直接游玩的单文件卡牌肉鸽游戏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xinwithyu/moonlit-myriad 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 83 --> 87
-    line [84, 85, 86, 84, 85, 85]
+    line [84, 85, 86, 84, 85, 86]
 ```
 
-2026-10-23 84 → 2026-11-25 85（+1）
+2026-10-24 84 → 2026-11-26 86（+2）
 
 
 ---

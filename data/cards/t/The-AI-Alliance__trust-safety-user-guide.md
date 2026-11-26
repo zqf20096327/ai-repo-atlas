@@ -44,12 +44,12 @@ AI Alliance 发布的《Understanding AI Trust and Safety: A Living Guide》内�
 ```mermaid
 xychart-beta
     title "The-AI-Alliance/trust-safety-user-guide 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

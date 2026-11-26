@@ -1,6 +1,6 @@
 # VectorDB-NTU/RaBitQ-Library
 
-⭐ 298 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/VectorDB-NTU/RaBitQ-Library) · [官网](https://vectordb-ntu.github.io/RaBitQ-Library/) · 组织维护 · 中文 README
+⭐ 298 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/VectorDB-NTU/RaBitQ-Library) · [官网](https://vectordb-ntu.github.io/RaBitQ-Library/) · 组织维护 · 中文 README
 
 **给需要向量检索的开发者提供带理论误差界的量化与 ANN 索引库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VectorDB-NTU/RaBitQ-Library 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-14", "2026-11-22", "2026-11-26"]
     y-axis "stars" 290 --> 299
     line [291, 292, 291, 295, 296, 297, 296, 297, 298, 298]
 ```
 
-2026-10-23 291 → 2026-11-25 298（+7）
+2026-10-24 291 → 2026-11-26 298（+7）
 
 
 ---

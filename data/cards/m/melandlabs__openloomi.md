@@ -1,6 +1,6 @@
 # melandlabs/openloomi
 
-⭐ 1,043 · TypeScript · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/melandlabs/openloomi) · [官网](https://openloomi.ai/) · 组织维护 · 中文 README
+⭐ 1,045 · TypeScript · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/melandlabs/openloomi) · [官网](https://openloomi.ai/) · 组织维护 · 中文 README
 
 **开源桌面 AI 同事：连接工作工具，汇总上下文并主动提醒待办**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "melandlabs/openloomi 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 1036 --> 1044
-    line [1037, 1038, 1037, 1038, 1040, 1041, 1042, 1043, 1043]
+    title "melandlabs/openloomi 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 1036 --> 1046
+    line [1038, 1037, 1038, 1040, 1041, 1042, 1043, 1045]
 ```
 
-2026-10-23 1,037 → 2026-11-25 1,043（+6）
+2026-10-24 1,038 → 2026-11-26 1,045（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tanguille/8-ball
 
-⭐ 4 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Tanguille/8-ball) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Tanguille/8-ball) · 个人维护
 
 **给 AI agent 提供类型化决策判定的 Rust 决策模型工具**
 
@@ -41,6 +41,18 @@
 > L6: 8-ball uses a small model to help AI agents decide what is worth reading or acting on. If 8-ball returns `unsure`, t
 > L83: |HTTP and MCP API|Routes, authentication, MCP tools|
 > L86: |MCP clients|Claude Code, Codex, Cursor, qwen-code, OpenCode|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Tanguille/8-ball 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [4, 3]
+```
+
+2026-11-25 4 → 2026-11-26 3（-1）
 
 
 ---

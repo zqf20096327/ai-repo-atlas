@@ -1,6 +1,6 @@
 # postmanlabs/postman-mcp-server
 
-⭐ 333 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/postmanlabs/postman-mcp-server) · [官网](https://www.postman.com/product/mcp-server/) · 组织维护
+⭐ 334 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/postmanlabs/postman-mcp-server) · [官网](https://www.postman.com/product/mcp-server/) · 组织维护
 
 **将 AI 编码代理接入 Postman 集合与 API 规范的 MCP 服务器**
 
@@ -44,12 +44,12 @@ Postman 官方维护的 Model Context Protocol (MCP) 服务器，把 Claude Code
 ```mermaid
 xychart-beta
     title "postmanlabs/postman-mcp-server 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 323 --> 334
-    line [324, 325, 326, 327, 328, 329, 332, 333, 332, 333]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 324 --> 335
+    line [325, 326, 327, 328, 329, 332, 333, 332, 333, 334]
 ```
 
-2026-10-23 324 → 2026-11-25 333（+9）
+2026-10-24 325 → 2026-11-26 334（+9）
 
 
 ---

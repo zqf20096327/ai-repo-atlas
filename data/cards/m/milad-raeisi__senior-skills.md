@@ -1,6 +1,6 @@
 # milad-raeisi/senior-skills
 
-⭐ 4 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/milad-raeisi/senior-skills) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/milad-raeisi/senior-skills) · 个人维护
 
 **为编码 Agent 安装 15 条资深工程师判断技能的命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "milad-raeisi/senior-skills 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-18 3 → 2026-11-25 4（+1）
+2026-11-18 3 → 2026-11-26 5（+2）
 
 
 ---

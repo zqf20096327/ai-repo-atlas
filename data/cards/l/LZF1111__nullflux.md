@@ -1,6 +1,6 @@
 # LZF1111/nullflux
 
-⭐ 39 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/LZF1111/nullflux) · [官网](https://lzf1111.github.io/nullflux/) · 个人维护 · 中文 README
+⭐ 40 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/LZF1111/nullflux) · [官网](https://lzf1111.github.io/nullflux/) · 个人维护 · 中文 README
 
 **本地部署的中文 CFD 仿真智能体，对话驱动 OpenFOAM 全流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LZF1111/nullflux 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 39, 39]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 36 --> 41
+    line [37, 38, 39, 40]
 ```
 
-2026-10-23 37 → 2026-11-25 39（+2）
+2026-10-24 37 → 2026-11-26 40（+3）
 
 
 ---

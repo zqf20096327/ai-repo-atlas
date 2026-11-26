@@ -1,6 +1,6 @@
 # ActiveCampaign/postmark-skills
 
-⭐ 47 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ActiveCampaign/postmark-skills) · [官网](https://postmark.com) · 组织维护
+⭐ 46 · MIT · 推送 2026-11-10 · [GitHub](https://github.com/ActiveCampaign/postmark-skills) · [官网](https://postmark.com) · 组织维护
 
 **Postmark 邮件平台的 AI agent 技能集（5 个技能）**
 
@@ -46,12 +46,12 @@ ActiveCampaign 官方维护的 Postmark 邮件平台 Agent Skills 集合，包�
 ```mermaid
 xychart-beta
     title "ActiveCampaign/postmark-skills 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
     y-axis "stars" 45 --> 48
-    line [46, 47, 47]
+    line [46, 47, 46]
 ```
 
-2026-10-23 46 → 2026-11-25 47（+1）
+2026-10-24 46 → 2026-11-26 46（+0）
 
 
 ---

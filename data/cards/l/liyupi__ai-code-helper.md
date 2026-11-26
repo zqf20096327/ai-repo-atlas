@@ -41,6 +41,18 @@
 > L3: 基于 Spring Boot 3.5、Java 21、LangChain4j 与 Vue 3 构建的开源 AI 编程学习与求职辅导助手，由 程序员鱼皮 原创出品，通过一个结构精炼的全栈项目带你系统掌握 LangChain4j 核心开
 > L12: > 大家好，我是 程序员鱼皮。如今 AI 应用开发已经成为程序员求职与进阶的必备技能。继使用 Spring AI 开源打造 AI 超级智能体项目（yu-ai-agent） 之后，我专门设计了这套小而精的实战项目，拒绝枯燥的纯理论灌
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "liyupi/ai-code-helper 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 770 --> 772
+    line [771, 771]
+```
+
+2026-11-25 771 → 2026-11-26 771（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `beca6669e4db` · [字段定义](../../DATASET.md)*

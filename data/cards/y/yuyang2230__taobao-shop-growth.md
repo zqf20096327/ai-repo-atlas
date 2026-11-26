@@ -1,6 +1,6 @@
 # yuyang2230/taobao-shop-growth
 
-⭐ 12 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/yuyang2230/taobao-shop-growth) · [官网](https://yuyang2230.github.io/taobao-shop-growth/) · 个人维护 · 中文 README
+⭐ 13 · MIT · 推送 2026-11-12 · [GitHub](https://github.com/yuyang2230/taobao-shop-growth) · [官网](https://yuyang2230.github.io/taobao-shop-growth/) · 个人维护 · 中文 README
 
 **淘宝个人小店获客优化的 AI 技能包与 SOP 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yuyang2230/taobao-shop-growth 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-27", "2026-11-06", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 4 --> 13
-    line [5, 6, 5, 10, 11, 12, 12]
+    x-axis ["2026-10-19", "2026-10-27", "2026-11-06", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 4 --> 14
+    line [5, 6, 5, 10, 11, 12, 13]
 ```
 
-2026-10-18 5 → 2026-11-25 12（+7）
+2026-10-19 5 → 2026-11-26 13（+8）
 
 
 ---

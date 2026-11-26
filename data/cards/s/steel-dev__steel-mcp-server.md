@@ -1,6 +1,6 @@
 # steel-dev/steel-mcp-server
 
-⭐ 58 · TypeScript · MIT · 推送 2026-10-26 · [GitHub](https://github.com/steel-dev/steel-mcp-server) · [官网](https://steel.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给 MCP 客户端提供云端 Chrome 浏览器操作的服务器**
 
@@ -11,7 +11,7 @@ Steel MCP Server 让 Claude、Cursor 等 MCP 客户端通过 16 个工具操作�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

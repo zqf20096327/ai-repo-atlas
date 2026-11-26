@@ -1,6 +1,6 @@
 # Muvon/octohub
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Muvon/octohub) · [官网](https://octomind.run/product/octohub/) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Muvon/octohub) · [官网](https://octomind.run/product/octohub/) · 组织维护
 
 **给团队的 LLM 代理网关：统一 OpenAI 风格 API 接入 20+ 上游**
 
@@ -46,12 +46,12 @@ Rust 编写的 LLM 代理，客户端连接单一稳定端点，由其路由到�
 ```mermaid
 xychart-beta
     title "Muvon/octohub 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

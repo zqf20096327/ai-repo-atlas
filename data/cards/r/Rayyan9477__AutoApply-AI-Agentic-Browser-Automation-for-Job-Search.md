@@ -1,6 +1,6 @@
 # Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search
 
-⭐ 81 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search) · 个人维护
+⭐ 82 · Python · 推送 2026-11-24 · [GitHub](https://github.com/Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search) · 个人维护
 
 **求职自动化全栈平台：AI 定制简历并跟踪投递**
 
@@ -44,13 +44,13 @@ FastAPI + React 的全栈求职工作流平台：从 LinkedIn、Indeed、Glassdo
 
 ```mermaid
 xychart-beta
-    title "Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 74 --> 82
-    line [75, 76, 77, 78, 79, 75, 79, 80, 81]
+    title "Rayyan9477/AutoApply-AI-Agentic-Browser-Automation-for-Job-Search 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 74 --> 83
+    line [75, 76, 77, 78, 79, 75, 79, 80, 81, 82]
 ```
 
-2026-10-23 75 → 2026-11-25 81（+6）
+2026-10-24 75 → 2026-11-26 82（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # Jamailar/VibeTrading
 
-⭐ 41 · TypeScript · NOASSERTION · 推送 2025-12-13 · [GitHub](https://github.com/Jamailar/VibeTrading) · 组织维护 · 中文 README
+⭐ 42 · TypeScript · NOASSERTION · 推送 2025-12-13 · [GitHub](https://github.com/Jamailar/VibeTrading) · 组织维护 · 中文 README
 
 **对话式创建量化交易策略并回测的开源桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Jamailar/VibeTrading 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 38 --> 42
-    line [39, 40, 39, 40, 41, 41]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 38 --> 43
+    line [39, 40, 39, 40, 41, 42]
 ```
 
-2026-10-23 39 → 2026-11-25 41（+2）
+2026-10-24 39 → 2026-11-26 42（+3）
 
 
 ---

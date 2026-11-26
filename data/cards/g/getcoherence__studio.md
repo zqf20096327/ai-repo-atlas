@@ -1,6 +1,6 @@
 # getcoherence/studio
 
-⭐ 80 · TypeScript · MIT · 推送 2026-07-22 · [GitHub](https://github.com/getcoherence/studio) · [官网](https://studio.getcoherence.io) · 组织维护
+⭐ 80 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/getcoherence/studio) · [官网](https://studio.getcoherence.io) · 组织维护
 
 **带 AI 编辑功能的开源录屏工具：自动字幕、智能剪辑、配音**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "getcoherence/studio 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 75 --> 81
     line [76, 77, 78, 76, 80, 80]
 ```
 
-2026-10-23 76 → 2026-11-25 80（+4）
+2026-10-24 76 → 2026-11-26 80（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # myNicole98/AuraMail
 
-⭐ 8 · Rust · MIT · 推送 2026-11-18 · [GitHub](https://github.com/myNicole98/AuraMail) · [官网](https://git.nikkosphere.com/nicole/AuraMail) · 个人维护
+⭐ 8 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/myNicole98/AuraMail) · [官网](https://git.nikkosphere.com/nicole/AuraMail) · 个人维护
 
 **面向个人用户的跨平台邮件客户端，含可选 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "myNicole98/AuraMail 星数(近 4 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-08", "2026-11-26"]
     y-axis "stars" 4 --> 9
     line [5, 6, 8, 8]
 ```
 
-2026-10-28 5 → 2026-11-25 8（+3）
+2026-10-28 5 → 2026-11-26 8（+3）
 
 
 ---

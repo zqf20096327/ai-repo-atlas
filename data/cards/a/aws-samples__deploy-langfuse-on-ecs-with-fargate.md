@@ -42,12 +42,12 @@ aws-samples 仓库，提供 AWS CDK Python 代码，将开源 LLM 工程平台 L
 ```mermaid
 xychart-beta
     title "aws-samples/deploy-langfuse-on-ecs-with-fargate 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 78 --> 80
     line [79, 79]
 ```
 
-2026-10-23 79 → 2026-11-25 79（+0）
+2026-10-24 79 → 2026-11-26 79（+0）
 
 
 ---

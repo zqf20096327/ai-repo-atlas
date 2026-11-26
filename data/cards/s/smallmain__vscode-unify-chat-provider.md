@@ -1,6 +1,6 @@
 # smallmain/vscode-unify-chat-provider
 
-⭐ 721 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/smallmain/vscode-unify-chat-provider) · 个人维护 · 中文 README
+⭐ 719 · TypeScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/smallmain/vscode-unify-chat-provider) · 个人维护 · 中文 README
 
 **把多家 LLM API 接入 VS Code Copilot Chat 的扩展**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "smallmain/vscode-unify-chat-provider 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-25"]
+    title "smallmain/vscode-unify-chat-provider 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 716 --> 724
-    line [719, 718, 717, 719, 717, 720, 721, 723, 721]
+    line [719, 718, 717, 719, 717, 720, 721, 723, 721, 719]
 ```
 
-2026-10-23 719 → 2026-11-25 721（+2）
+2026-10-24 719 → 2026-11-26 719（+0）
 
 
 ---

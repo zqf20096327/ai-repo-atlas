@@ -1,6 +1,6 @@
 # salty-fish-114514/PickWord
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/salty-fish-114514/PickWord) · [官网](https://github.com/salty-fish-114514/PickWord/releases/latest) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/salty-fish-114514/PickWord) · [官网](https://github.com/salty-fish-114514/PickWord/releases/latest) · 个人维护 · 中文 README
 
 **面向写作者的 Windows 本地写作软件，以候选词选择方式辅助续写**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "salty-fish-114514/PickWord 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "salty-fish-114514/PickWord 星数(近 4 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-10 10 → 2026-11-25 12（+2）
+2026-11-10 10 → 2026-11-26 13（+3）
 
 
 ---

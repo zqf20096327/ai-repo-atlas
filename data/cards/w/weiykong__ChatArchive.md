@@ -46,12 +46,12 @@ Chromium 扩展，从 ChatGPT、Gemini、Claude、DeepSeek、Perplexity 等 13 �
 ```mermaid
 xychart-beta
     title "weiykong/ChatArchive 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # MinhxThanh/Sen-Chat
 
-⭐ 43 · JavaScript · GPL-3.0 · 推送 2025-12-22 · [GitHub](https://github.com/MinhxThanh/Sen-Chat) · 个人维护
+⭐ 44 · JavaScript · GPL-3.0 · 推送 2025-12-22 · [GitHub](https://github.com/MinhxThanh/Sen-Chat) · 个人维护
 
 **浏览器侧边栏 AI 助手：集成多模型对话、搜索与文档交互**
 
@@ -46,12 +46,12 @@ Chrome/Firefox 浏览器扩展，在侧边栏提供 AI 对话、网页文本选�
 ```mermaid
 xychart-beta
     title "MinhxThanh/Sen-Chat 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-23 43 → 2026-11-25 43（+0）
+2026-10-24 43 → 2026-11-26 44（+1）
 
 
 ---

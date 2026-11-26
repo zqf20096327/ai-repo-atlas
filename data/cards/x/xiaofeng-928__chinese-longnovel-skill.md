@@ -1,6 +1,6 @@
 # xiaofeng-928/chinese-longnovel-skill
 
-⭐ 75 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/xiaofeng-928/chinese-longnovel-skill) · 个人维护 · 中文 README
+⭐ 76 · Python · MIT · 推送 2026-09-12 · [GitHub](https://github.com/xiaofeng-928/chinese-longnovel-skill) · 个人维护 · 中文 README
 
 **给网文作者的可安装 Skill：让 Codex/Claude Code 长篇连载不写崩**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaofeng-928/chinese-longnovel-skill 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 72 --> 76
-    line [73, 74, 75, 74, 75, 75]
+    title "xiaofeng-928/chinese-longnovel-skill 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 73 --> 77
+    line [74, 75, 74, 75, 76]
 ```
 
-2026-10-23 73 → 2026-11-25 75（+2）
+2026-10-24 74 → 2026-11-26 76（+2）
 
 
 ---

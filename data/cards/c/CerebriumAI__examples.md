@@ -1,6 +1,6 @@
 # CerebriumAI/examples
 
-⭐ 525 · Python · 推送 2026-11-05 · [GitHub](https://github.com/CerebriumAI/examples) · [官网](https://docs.cerebrium.ai/) · 组织维护
+⭐ 526 · Python · 推送 2026-11-24 · [GitHub](https://github.com/CerebriumAI/examples) · [官网](https://docs.cerebrium.ai/) · 组织维护
 
 **Cerebrium 无服务器 GPU 平台的官方示例集合**
 
@@ -44,13 +44,13 @@ Cerebrium（Serverless GPU 平台）官方维护的示例仓库，收录在平�
 
 ```mermaid
 xychart-beta
-    title "CerebriumAI/examples 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 524 --> 529
-    line [528, 527, 526, 527, 526, 525, 525]
+    title "CerebriumAI/examples 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 524 --> 528
+    line [527, 526, 527, 526, 525, 526]
 ```
 
-2026-10-23 528 → 2026-11-25 525（-3）
+2026-10-24 527 → 2026-11-26 526（-1）
 
 
 ---

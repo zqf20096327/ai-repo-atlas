@@ -1,6 +1,6 @@
 # goruck/home-generative-agent
 
-⭐ 383 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/goruck/home-generative-agent) · [官网](https://community.home-assistant.io/t/a-generative-agent-integration-based-on-langchain-and-langgraph/864923) · 个人维护
+⭐ 384 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/goruck/home-generative-agent) · [官网](https://community.home-assistant.io/t/a-generative-agent-integration-based-on-langchain-and-langgraph/864923) · 个人维护
 
 **Home Assistant 的生成式 AI agent 集成：对话控制家居并分析摄像头**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "goruck/home-generative-agent 星数(近 16 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 355 --> 385
-    line [357, 360, 363, 364, 367, 368, 370, 371, 363, 376, 377, 378, 380, 382, 383, 383]
+    title "goruck/home-generative-agent 星数(近 15 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 358 --> 386
+    line [360, 363, 364, 367, 368, 370, 371, 363, 376, 377, 378, 380, 382, 383, 384]
 ```
 
-2026-10-23 357 → 2026-11-25 383（+26）
+2026-10-24 360 → 2026-11-26 384（+24）
 
 
 ---

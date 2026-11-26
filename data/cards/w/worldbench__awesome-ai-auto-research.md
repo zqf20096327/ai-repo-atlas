@@ -1,6 +1,6 @@
 # worldbench/awesome-ai-auto-research
 
-⭐ 584 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/worldbench/awesome-ai-auto-research) · [官网](https://worldbench.github.io/awesome-ai-auto-research) · 组织维护
+⭐ 585 · HTML · MIT · 推送 2026-11-20 · [GitHub](https://github.com/worldbench/awesome-ai-auto-research) · [官网](https://worldbench.github.io/awesome-ai-auto-research) · 组织维护
 
 **科研人员：跟踪 AI 自动化科研全流程的论文清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "worldbench/awesome-ai-auto-research 星数(近 16 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 561 --> 586
-    line [563, 564, 565, 568, 570, 571, 564, 574, 576, 577, 578, 580, 581, 582, 584, 584]
+    title "worldbench/awesome-ai-auto-research 星数(近 15 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 562 --> 587
+    line [564, 565, 568, 570, 571, 564, 574, 576, 577, 578, 580, 581, 582, 584, 585]
 ```
 
-2026-10-23 563 → 2026-11-25 584（+21）
+2026-10-24 564 → 2026-11-26 585（+21）
 
 
 ---

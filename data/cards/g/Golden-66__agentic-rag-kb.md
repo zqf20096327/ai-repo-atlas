@@ -1,6 +1,6 @@
 # Golden-66/agentic-rag-kb
 
-⭐ 41 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Golden-66/agentic-rag-kb) · 个人维护 · 中文 README
+⭐ 43 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Golden-66/agentic-rag-kb) · 个人维护 · 中文 README
 
 **企业级 Agentic RAG 知识库：混合检索+重排+Agent 流式问答**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Golden-66/agentic-rag-kb 星数(近 7 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 15 --> 43
-    line [17, 25, 28, 32, 38, 40, 41]
+    title "Golden-66/agentic-rag-kb 星数(近 8 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 15 --> 45
+    line [17, 25, 28, 32, 38, 40, 41, 43]
 ```
 
-2026-11-18 17 → 2026-11-25 41（+24）
+2026-11-18 17 → 2026-11-26 43（+26）
 
 
 ---

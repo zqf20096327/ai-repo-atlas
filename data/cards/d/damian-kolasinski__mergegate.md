@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "damian-kolasinski/mergegate 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-23 5 → 2026-11-25 5（+0）
+2026-10-24 5 → 2026-11-26 5（+0）
 
 
 ---

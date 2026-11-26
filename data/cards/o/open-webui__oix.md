@@ -1,6 +1,6 @@
 # open-webui/oix
 
-⭐ 10 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/open-webui/oix) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/open-webui/oix) · 组织维护
 
 **为 Open WebUI 构建应用的 Python SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "open-webui/oix 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 11（+1）
 
 
 ---

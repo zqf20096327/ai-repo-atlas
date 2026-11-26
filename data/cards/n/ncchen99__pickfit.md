@@ -1,6 +1,6 @@
 # ncchen99/pickfit
 
-⭐ 3 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/ncchen99/pickfit) · [官网](https://pickfit.app) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **为人和 AI agent 推荐并沙箱实测软件的工具顾问**
 
@@ -11,7 +11,7 @@ pickfit 读取开源项目，在全新沙箱中安装并验证功能，离线回
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

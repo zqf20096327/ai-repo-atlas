@@ -1,6 +1,6 @@
 # mogurt/ComfyDownloader
 
-⭐ 37 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/mogurt/ComfyDownloader) · 个人维护 · 中文 README
+⭐ 36 · TypeScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/mogurt/ComfyDownloader) · 个人维护 · 中文 README
 
 **为 ComfyUI 用户下载与管理 AI 模型的跨平台桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mogurt/ComfyDownloader 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-26"]
     y-axis "stars" 35 --> 39
-    line [36, 37, 38, 37, 37]
+    line [36, 37, 38, 37, 36]
 ```
 
-2026-10-23 36 → 2026-11-25 37（+1）
+2026-10-24 36 → 2026-11-26 36（+0）
 
 
 ---

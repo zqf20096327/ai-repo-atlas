@@ -1,6 +1,6 @@
 # bncc-dev/bncc-benchmark
 
-⭐ 12 · TypeScript · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/bncc-dev/bncc-benchmark) · [官网](https://bncc.dev) · 组织维护
+⭐ 12 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/bncc-dev/bncc-benchmark) · [官网](https://bncc.dev) · 组织维护
 
 **测量 LLM 在巴西国家课程(BNCC)上幻觉的公开评测基准**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "bncc-dev/bncc-benchmark 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-10-29", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-10-29", "2026-11-26"]
     y-axis "stars" 9 --> 13
     line [10, 12, 12]
 ```
 
-2026-10-28 10 → 2026-11-25 12（+2）
+2026-10-28 10 → 2026-11-26 12（+2）
 
 
 ---

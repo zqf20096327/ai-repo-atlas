@@ -1,6 +1,6 @@
 # oolong-tea-2026/arena-ai-leaderboards
 
-⭐ 43 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oolong-tea-2026/arena-ai-leaderboards) · [官网](https://arena.ai/leaderboard) · 个人维护
+⭐ 43 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/oolong-tea-2026/arena-ai-leaderboards) · [官网](https://arena.ai/leaderboard) · 个人维护
 
 **Arena AI 各榜单的每日快照数据仓库，结构化 JSON 并带历史追踪**
 
@@ -45,12 +45,12 @@ Arena AI（原 LMSYS Chatbot Arena）不提供公开 API，本仓库通过 GitHu
 ```mermaid
 xychart-beta
     title "oolong-tea-2026/arena-ai-leaderboards 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
     y-axis "stars" 38 --> 44
     line [39, 40, 39, 42, 43, 43]
 ```
 
-2026-10-23 39 → 2026-11-25 43（+4）
+2026-10-24 39 → 2026-11-26 43（+4）
 
 
 ---

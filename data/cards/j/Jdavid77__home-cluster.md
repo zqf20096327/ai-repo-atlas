@@ -1,6 +1,6 @@
 # Jdavid77/home-cluster
 
-⭐ 10 · HCL · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Jdavid77/home-cluster) · [官网](https://live.jnobrega.com) · 个人维护
+⭐ 10 · HCL · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Jdavid77/home-cluster) · [官网](https://live.jnobrega.com) · 个人维护
 
 **个人家庭 Kubernetes 集群的 GitOps 配置仓库**
 
@@ -39,6 +39,18 @@
 
 > L15: This repository contains the configuration for my home Kubernetes cluster — a 7-node bare-metal setup running on Ta
 > L27: └── 📁 skills           # reusable Claude Code skills (commit, lint, create-app...)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Jdavid77/home-cluster 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
 
 
 ---

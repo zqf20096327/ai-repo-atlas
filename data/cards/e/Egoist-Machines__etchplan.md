@@ -1,6 +1,6 @@
 # Egoist-Machines/etchplan
 
-⭐ 29 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/Egoist-Machines/etchplan) · 组织维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-06-30 · [GitHub](https://github.com/Egoist-Machines/etchplan) · 组织维护
 
 **把 agent 重复工作流编译成可免费回放例程的工具，带 agent 兜底**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Egoist-Machines/etchplan 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 30（+1）
 
 
 ---

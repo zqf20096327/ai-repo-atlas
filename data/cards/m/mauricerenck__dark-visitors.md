@@ -1,6 +1,6 @@
 # mauricerenck/dark-visitors
 
-⭐ 21 · PHP · MIT · 推送 2026-07-16 · [GitHub](https://github.com/mauricerenck/dark-visitors) · [官网](https://maurice-renck.de/kirby/dark-visitors) · 个人维护
+⭐ 21 · PHP · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mauricerenck/dark-visitors) · [官网](https://maurice-renck.de/kirby/dark-visitors) · 个人维护
 
 **Kirby CMS 插件：通过 robots.txt 拦截 AI 爬虫**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mauricerenck/dark-visitors 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

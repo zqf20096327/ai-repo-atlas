@@ -1,6 +1,6 @@
 # osmandkitay/aura
 
-⭐ 107 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/osmandkitay/aura) · 个人维护
+⭐ 108 · TypeScript · MIT · 推送 2026-10-30 · [GitHub](https://github.com/osmandkitay/aura) · 个人维护
 
 **让网站以声明式 manifest 向 AI agent 暴露操作能力的开放协议**
 
@@ -45,12 +45,12 @@ AURA 是一个开放协议规范，配套 npm 包与参考实现：网站在 /.w
 ```mermaid
 xychart-beta
     title "osmandkitay/aura 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 105 --> 108
-    line [106, 107, 106, 107, 107]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 105 --> 109
+    line [106, 107, 106, 107, 108]
 ```
 
-2026-10-23 106 → 2026-11-25 107（+1）
+2026-10-24 106 → 2026-11-26 108（+2）
 
 
 ---

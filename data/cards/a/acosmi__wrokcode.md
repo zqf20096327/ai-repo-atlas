@@ -1,6 +1,6 @@
 # acosmi/wrokcode
 
-⭐ 6 · 推送 2026-11-22 · [GitHub](https://github.com/acosmi/wrokcode) · [官网](https://acosmi.com) · 组织维护 · 中文 README
+⭐ 9 · 推送 2026-11-22 · [GitHub](https://github.com/acosmi/wrokcode) · [官网](https://acosmi.com) · 组织维护 · 中文 README
 
 **个人 AI 工作台：从需求生成页面、文档与海报**
 
@@ -45,13 +45,13 @@ wrok Code（原 CrabCode）是运行在终端与桌面的 AI 工作台，提供 
 
 ```mermaid
 xychart-beta
-    title "acosmi/wrokcode 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 6]
+    title "acosmi/wrokcode 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 10
+    line [4, 6, 9]
 ```
 
-2026-11-22 4 → 2026-11-25 6（+2）
+2026-11-22 4 → 2026-11-26 9（+5）
 
 
 ---

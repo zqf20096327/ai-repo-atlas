@@ -1,6 +1,6 @@
 # arenekosreal/role-playing
 
-⭐ 10 · WTFPL · 推送 2025-12-25 · [GitHub](https://github.com/arenekosreal/role-playing) · 个人维护
+⭐ 11 · WTFPL · 推送 2025-12-25 · [GitHub](https://github.com/arenekosreal/role-playing) · 个人维护
 
 **为 LLM 角色扮演提供系统提示词的资料集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arenekosreal/role-playing 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-10 10 → 2026-11-25 10（+0）
+2026-11-10 10 → 2026-11-26 11（+1）
 
 
 ---

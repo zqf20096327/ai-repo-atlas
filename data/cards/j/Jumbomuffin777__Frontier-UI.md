@@ -1,6 +1,6 @@
 # Jumbomuffin777/Frontier-UI
 
-⭐ 75 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jumbomuffin777/Frontier-UI) · [官网](https://openwebui.com/posts/35572bd7-6dc8-42dc-9e54-bebfb9e978cb) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Jumbomuffin777/Frontier-UI) · [官网](https://openwebui.com/posts/35572bd7-6dc8-42dc-9e54-bebfb9e978cb) · 个人维护
 
 **Open WebUI 的生成式 UI 工具：把模型输出的 JSON 渲染为富交互卡片**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Jumbomuffin777/Frontier-UI 星数(近 10 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 13 --> 80
-    line [18, 65, 67, 68, 69, 70, 71, 73, 74, 75]
+    title "Jumbomuffin777/Frontier-UI 星数(近 11 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 81
+    line [18, 65, 67, 68, 69, 70, 71, 73, 74, 75, 76]
 ```
 
-2026-11-02 18 → 2026-11-25 75（+57）
+2026-11-02 18 → 2026-11-26 76（+58）
 
 
 ---

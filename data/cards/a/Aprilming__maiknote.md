@@ -1,6 +1,6 @@
 # Aprilming/maiknote
 
-⭐ 43 · Vue · GPL-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Aprilming/maiknote) · [官网](https://maiknote.91kfc.vip/) · 个人维护 · 中文 README
+⭐ 43 · Vue · GPL-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Aprilming/maiknote) · [官网](https://maiknote.91kfc.vip/) · 个人维护 · 中文 README
 
 **macOS 原生 AI Markdown 悬浮便签应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Aprilming/maiknote 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 20 --> 46
     line [22, 42, 43, 44, 43, 43]
 ```
 
-2026-11-13 22 → 2026-11-25 43（+21）
+2026-11-13 22 → 2026-11-26 43（+21）
 
 
 ---

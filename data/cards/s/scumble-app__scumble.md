@@ -1,6 +1,6 @@
 # scumble-app/scumble
 
-⭐ 184 · JavaScript · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/scumble-app/scumble) · [官网](https://scumble-app.github.io/scumble/) · 个人维护
+⭐ 187 · JavaScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/scumble-app/scumble) · [官网](https://scumble-app.github.io/scumble/) · 个人维护
 
 **AI 图像局部重绘/生成桌面编辑器，结果以图层返回**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "scumble-app/scumble 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 181 --> 185
-    line [182, 184, 184]
+    x-axis ["2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 181 --> 188
+    line [182, 184, 187]
 ```
 
-2026-11-21 182 → 2026-11-25 184（+2）
+2026-11-21 182 → 2026-11-26 187（+5）
 
 
 ---

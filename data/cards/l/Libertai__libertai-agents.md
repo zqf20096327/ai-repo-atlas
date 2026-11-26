@@ -1,6 +1,6 @@
 # Libertai/libertai-agents
 
-⭐ 31 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Libertai/libertai-agents) · 组织维护
+⭐ 31 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Libertai/libertai-agents) · 组织维护
 
 **在 Aleph Cloud 上构建自治 AI Agent 的插件与工具集**
 
@@ -45,12 +45,12 @@ LibertAI 维护的 agents 工具库，提供 x402 与 agentkit-plugin 两个包�
 ```mermaid
 xychart-beta
     title "Libertai/libertai-agents 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 30 --> 32
     line [31, 31]
 ```
 
-2026-10-23 31 → 2026-11-25 31（+0）
+2026-10-24 31 → 2026-11-26 31（+0）
 
 
 ---

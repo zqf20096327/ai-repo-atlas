@@ -1,6 +1,6 @@
 # cryskai/crysk
 
-⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/cryskai/crysk) · [官网](https://crysk.dev) · 个人维护
+⭐ 22 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cryskai/crysk) · [官网](https://crysk.dev) · 个人维护
 
 **多智能体 PR 审查引擎：并行猎手找缺陷并分级阻断**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cryskai/crysk 星数(近 6 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-25"]
+    title "cryskai/crysk 星数(近 7 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 13 --> 23
-    line [14, 15, 17, 18, 21, 22]
+    line [14, 15, 17, 18, 21, 22, 22]
 ```
 
-2026-11-12 14 → 2026-11-25 22（+8）
+2026-11-12 14 → 2026-11-26 22（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # guuguo/remodeck
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/guuguo/remodeck) · [官网](https://hub.guuguo.top/agent-control) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/guuguo/remodeck) · [官网](https://hub.guuguo.top/agent-control) · 个人维护 · 中文 README
 
 **给 AI 编程 Agent 的手机远程控制与 3D 桌面控制台**
 
@@ -40,6 +40,18 @@
 > L5:  把 Codex、Claude Code、Antigravity、Grok 和 Qoder 收进一个桌面 + 手机遥控台 （原 Agent Control）
 > L21: > - **严格只读解析上游记录**：只读解析 `~/.codex`、`~/.claude`、`~/.gemini`，自定义标题、置顶与归档保存在 RemoDeck（Agent Control）独立数据目录，**绝不修改**上游工
 > L95: 2. **电脑端统一管理**：左侧按项目查看所有运行中或历史会话，点进去即可续发消息、切换模型、设置 `/goal` 自动推进或批量归档；多账号（如多个 Codex 账号）自动标注归属与额度。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "guuguo/remodeck 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 17
+    line [11, 16]
+```
+
+2026-11-25 11 → 2026-11-26 16（+5）
 
 
 ---

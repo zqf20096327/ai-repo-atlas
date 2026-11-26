@@ -1,6 +1,6 @@
 # liumowan/Free-API
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/liumowan/Free-API) · [官网](https://liumowan.github.io/Free-API/) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/liumowan/Free-API) · [官网](https://liumowan.github.io/Free-API/) · 个人维护 · 中文 README
 
 **免费 AI API 中转站清单：注册送额度、签到续命的资源目录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liumowan/Free-API 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 3 --> 12
-    line [4, 7, 8, 10, 11, 11]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 3 --> 14
+    line [4, 7, 8, 10, 11, 13]
 ```
 
-2026-11-08 4 → 2026-11-25 11（+7）
+2026-11-08 4 → 2026-11-26 13（+9）
 
 
 ---

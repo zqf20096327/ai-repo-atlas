@@ -1,6 +1,6 @@
 # aws-solutions-library-samples/guidance-for-asynchronous-inference-with-stable-diffusion-on-aws
 
-⭐ 37 · Python · MIT-0 · 推送 2026-05-23 · [GitHub](https://github.com/aws-solutions-library-samples/guidance-for-asynchronous-inference-with-stable-diffusion-on-aws) · [官网](https://aws.amazon.com/solutions/guidance/asynchronous-image-generation-with-stable-diffusion-on-aws/) · 组织维护 · 中文 README
+⭐ 37 · Python · MIT-0 · 推送 2026-11-25 · [GitHub](https://github.com/aws-solutions-library-samples/guidance-for-asynchronous-inference-with-stable-diffusion-on-aws) · [官网](https://aws.amazon.com/solutions/guidance/asynchronous-image-generation-with-stable-diffusion-on-aws/) · 组织维护 · 中文 README
 
 **AWS 上构建可弹性伸缩的 Stable Diffusion 异步推理部署方案**
 
@@ -45,12 +45,12 @@ AWS 官方 Guidance 项目：提供 CDK 部署脚本与示例代码，在 AWS �
 ```mermaid
 xychart-beta
     title "aws-solutions-library-samples/guidance-for-asynchronous-inference-with-stable-diffusion-on-aws 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-23 37 → 2026-11-25 37（+0）
+2026-10-24 37 → 2026-11-26 37（+0）
 
 
 ---

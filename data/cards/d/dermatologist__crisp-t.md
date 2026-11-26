@@ -1,6 +1,6 @@
 # dermatologist/crisp-t
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dermatologist/crisp-t) · [官网](https://nuchange.ca/2025/10/crisp-t-ai-assisted-qualitative-research.html) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/dermatologist/crisp-t) · [官网](https://nuchange.ca/2025/10/crisp-t-ai-assisted-qualitative-research.html) · 个人维护
 
 **面向质性研究的文本+数值混合数据分析 CLI 工具包**
 
@@ -44,13 +44,13 @@ CRISP-T 是一套质性研究方法与工具包，将访谈文本、田野笔记
 
 ```mermaid
 xychart-beta
-    title "dermatologist/crisp-t 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 11 --> 15
-    line [12, 13, 14, 14]
+    title "dermatologist/crisp-t 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 14（+2）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

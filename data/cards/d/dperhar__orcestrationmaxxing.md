@@ -1,6 +1,6 @@
 # dperhar/orcestrationmaxxing
 
-⭐ 4 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/dperhar/orcestrationmaxxing) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/dperhar/orcestrationmaxxing) · 个人维护
 
 **为使用 Orca+OMP 的开发者提供多 agent 分层编排工具链**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dperhar/orcestrationmaxxing 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-16", "2026-11-26"]
+    y-axis "stars" 3 --> 7
+    line [4, 6]
 ```
 
-2026-11-16 4 → 2026-11-25 4（+0）
+2026-11-16 4 → 2026-11-26 6（+2）
 
 
 ---

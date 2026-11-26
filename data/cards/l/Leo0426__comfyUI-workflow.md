@@ -1,6 +1,6 @@
 # Leo0426/comfyUI-workflow
 
-⭐ 217 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/Leo0426/comfyUI-workflow) · 个人维护 · 中文 README
+⭐ 218 · Python · MIT · 推送 2026-06-22 · [GitHub](https://github.com/Leo0426/comfyUI-workflow) · 个人维护 · 中文 README
 
 **为 ComfyUI 用户提供 584 个多场景生图工作流的合集**
 
@@ -39,6 +39,18 @@
 
 > L3: > **584** 个精选 ComfyUI 工作流，覆盖 AI 生图、换脸、动画、修复、电商、室内设计等主流场景。
 > L13: ├── templates/          # 所有工作流 JSON（584 个，扁平结构）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Leo0426/comfyUI-workflow 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 216 --> 219
+    line [217, 218]
+```
+
+2026-11-25 217 → 2026-11-26 218（+1）
 
 
 ---

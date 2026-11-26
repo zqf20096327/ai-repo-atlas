@@ -1,6 +1,6 @@
 # Neotopia-Foundation/offline
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Neotopia-Foundation/offline) · 组织维护
+⭐ 4 · Shell · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Neotopia-Foundation/offline) · 组织维护
 
 **一份 Markdown 指南，让 AI agent 为欧洲家庭构建离线应急资料库**
 
@@ -40,6 +40,18 @@
 > L10:  Give your AI coding agent one Markdown file. It builds an offline library for your part of Europe.
 > L39: **2. Open your agent in that folder.** Claude Code, Codex, Gemini CLI or another agent that can run commands.
 > L70: - **Local AI chat.** Copy a passage from Kiwix and paste it into the chat for an explanation. The model runs on you
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Neotopia-Foundation/offline 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
 
 
 ---

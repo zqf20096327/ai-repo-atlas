@@ -1,6 +1,6 @@
 # hfproxy/hfproxy
 
-⭐ 8 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hfproxy/hfproxy) · 组织维护
+⭐ 8 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hfproxy/hfproxy) · 组织维护
 
 **面向组织的自托管 Hugging Face Hub 私有缓存代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hfproxy/hfproxy 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-10-30", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-29", "2026-10-30", "2026-11-12", "2026-11-26"]
     y-axis "stars" 4 --> 9
     line [5, 7, 8, 8]
 ```
 
-2026-10-29 5 → 2026-11-25 8（+3）
+2026-10-29 5 → 2026-11-26 8（+3）
 
 
 ---

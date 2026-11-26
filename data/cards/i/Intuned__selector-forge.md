@@ -1,6 +1,6 @@
 # Intuned/selector-forge
 
-⭐ 71 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/Intuned/selector-forge) · [官网](https://selectorforge.ai/) · 组织维护
+⭐ 72 · TypeScript · MIT · 推送 2026-07-02 · [GitHub](https://github.com/Intuned/selector-forge) · [官网](https://selectorforge.ai/) · 组织维护
 
 **浏览器扩展：选取页面元素并用 AI 生成并验证 CSS/XPath 选择器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Intuned/selector-forge 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 70 --> 72
-    line [71, 71]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 70 --> 73
+    line [71, 72]
 ```
 
-2026-10-23 71 → 2026-11-25 71（+0）
+2026-10-24 71 → 2026-11-26 72（+1）
 
 
 ---

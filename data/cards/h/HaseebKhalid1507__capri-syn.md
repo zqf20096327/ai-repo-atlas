@@ -1,6 +1,6 @@
 # HaseebKhalid1507/capri-syn
 
-⭐ 20 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HaseebKhalid1507/capri-syn) · 个人维护
+⭐ 23 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HaseebKhalid1507/capri-syn) · 个人维护
 
 **Linux/Windows 桌面伴侣宠物，内置 Synaps agent 会话与语音对话**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HaseebKhalid1507/capri-syn 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 21
-    line [3, 4, 5, 18, 20]
+    title "HaseebKhalid1507/capri-syn 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1 --> 25
+    line [3, 4, 5, 18, 20, 23]
 ```
 
-2026-11-20 3 → 2026-11-25 20（+17）
+2026-11-20 3 → 2026-11-26 23（+20）
 
 
 ---

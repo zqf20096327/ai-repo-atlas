@@ -1,6 +1,6 @@
 # rigwild/mcp-server-amazon
 
-⭐ 64 · TypeScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/rigwild/mcp-server-amazon) · 个人维护
+⭐ 66 · TypeScript · MIT · 推送 2026-07-25 · [GitHub](https://github.com/rigwild/mcp-server-amazon) · 个人维护
 
 **非官方 Amazon MCP 服务器：在 Claude 中搜索购买商品**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "rigwild/mcp-server-amazon 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 53 --> 65
-    line [54, 55, 56, 54, 59, 60, 61, 62, 63, 64]
+    title "rigwild/mcp-server-amazon 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 53 --> 67
+    line [54, 55, 56, 54, 59, 60, 61, 62, 63, 64, 66]
 ```
 
-2026-10-23 54 → 2026-11-25 64（+10）
+2026-10-24 54 → 2026-11-26 66（+12）
 
 
 ---

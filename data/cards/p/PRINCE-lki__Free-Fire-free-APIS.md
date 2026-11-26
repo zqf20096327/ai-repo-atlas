@@ -1,6 +1,6 @@
 # PRINCE-lki/Free-Fire-free-APIS
 
-⭐ 19 · HTML · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/PRINCE-lki/Free-Fire-free-APIS) · 组织维护
+⭐ 20 · HTML · NOASSERTION · 推送 2026-04-11 · [GitHub](https://github.com/PRINCE-lki/Free-Fire-free-APIS) · 组织维护
 
 **非官方 Free Fire 玩家信息与战绩查询 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PRINCE-lki/Free-Fire-free-APIS 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 19（+1）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

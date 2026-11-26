@@ -1,6 +1,6 @@
 # Cznorth/winkterm
 
-⭐ 31 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Cznorth/winkterm) · [官网](https://cznorth.github.io/winkterm/) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/Cznorth/winkterm) · [官网](https://cznorth.github.io/winkterm/) · 个人维护 · 中文 README
 
 **AI 直接在用户终端内键入命令的开源 AI 终端**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Cznorth/winkterm 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 25 --> 32
-    line [26, 27, 28, 26, 28, 30, 31]
+    title "Cznorth/winkterm 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 25 --> 33
+    line [26, 27, 28, 26, 28, 30, 31, 32]
 ```
 
-2026-10-23 26 → 2026-11-25 31（+5）
+2026-10-24 26 → 2026-11-26 32（+6）
 
 
 ---

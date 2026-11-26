@@ -1,6 +1,6 @@
 # floomhq/floom
 
-⭐ 47 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/floomhq/floom) · [官网](https://floom.dev) · 组织维护
+⭐ 48 · Python · MIT · 推送 2026-10-02 · [GitHub](https://github.com/floomhq/floom) · [官网](https://floom.dev) · 组织维护
 
 **自托管 AI Worker 运行时：定时/触发执行带审批与日志的后台智能体**
 
@@ -47,12 +47,12 @@ Floom 是一个开源的 AI worker 运行时：以文件夹（worker.yml + run.p
 ```mermaid
 xychart-beta
     title "floomhq/floom 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 45 --> 48
-    line [46, 47, 46, 47, 47]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 45 --> 49
+    line [46, 47, 46, 47, 48]
 ```
 
-2026-10-23 46 → 2026-11-25 47（+1）
+2026-10-24 46 → 2026-11-26 48（+2）
 
 
 ---

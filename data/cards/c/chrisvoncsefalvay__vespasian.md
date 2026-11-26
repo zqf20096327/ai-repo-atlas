@@ -1,6 +1,6 @@
 # chrisvoncsefalvay/vespasian
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/chrisvoncsefalvay/vespasian) · [官网](https://chrisvoncsefalvay.com/vespasian/) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/chrisvoncsefalvay/vespasian) · [官网](https://chrisvoncsefalvay.com/vespasian/) · 个人维护
 
 **小型语言模型权重空间编辑工具：用前沿模型提议并评估张量修改**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "chrisvoncsefalvay/vespasian 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-14 3 → 2026-11-25 3（+0）
+2026-11-14 3 → 2026-11-26 3（+0）
 
 
 ---

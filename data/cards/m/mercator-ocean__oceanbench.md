@@ -1,6 +1,6 @@
 # mercator-ocean/oceanbench
 
-⭐ 55 · Python · 推送 2026-11-23 · [GitHub](https://github.com/mercator-ocean/oceanbench) · 组织维护
+⭐ 57 · Python · 推送 2026-11-25 · [GitHub](https://github.com/mercator-ocean/oceanbench) · 组织维护
 
 **评估数据驱动全球海洋预报系统的基准工具**
 
@@ -43,13 +43,13 @@ Mercator Ocean International 维护的海洋预报基准评测工具：以 GLORY
 
 ```mermaid
 xychart-beta
-    title "mercator-ocean/oceanbench 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 48 --> 56
-    line [49, 50, 49, 52, 53, 54, 55]
+    title "mercator-ocean/oceanbench 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 48 --> 58
+    line [49, 50, 49, 52, 53, 54, 55, 57]
 ```
 
-2026-10-23 49 → 2026-11-25 55（+6）
+2026-10-24 49 → 2026-11-26 57（+8）
 
 
 ---

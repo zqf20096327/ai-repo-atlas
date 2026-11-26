@@ -1,6 +1,6 @@
 # UpstandPlatform/kavero
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/UpstandPlatform/kavero) · [官网](https://kavero.upstand.dev) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/UpstandPlatform/kavero) · [官网](https://kavero.upstand.dev) · 个人维护
 
 **面向卖家的 AI 原生产品目录与演示文稿构建器**
 
@@ -47,12 +47,12 @@ Kavero 将产品数据（粘贴、从 MCP 服务器导入或由 AI 生成）转�
 ```mermaid
 xychart-beta
     title "UpstandPlatform/kavero 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 10
-    line [3, 4, 9, 9]
+    x-axis ["2026-11-11", "2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 11
+    line [3, 4, 9, 10]
 ```
 
-2026-11-11 3 → 2026-11-25 9（+6）
+2026-11-11 3 → 2026-11-26 10（+7）
 
 
 ---

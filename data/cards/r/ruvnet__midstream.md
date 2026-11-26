@@ -1,6 +1,6 @@
 # ruvnet/midstream
 
-⭐ 151 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ruvnet/midstream) · [官网](https://ruv.io) · 个人维护
+⭐ 152 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ruvnet/midstream) · [官网](https://ruv.io) · 个人维护
 
 **Rust 实时分析 LLM 流式输出的工作区：边流式边匹配/评分/干预**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ruvnet/midstream 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-14", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-14", "2026-11-23", "2026-11-26"]
     y-axis "stars" 150 --> 153
-    line [151, 152, 151, 151]
+    line [151, 152, 151, 152]
 ```
 
-2026-11-10 151 → 2026-11-25 151（+0）
+2026-11-10 151 → 2026-11-26 152（+1）
 
 
 ---

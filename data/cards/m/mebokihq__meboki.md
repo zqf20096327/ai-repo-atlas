@@ -1,6 +1,6 @@
 # mebokihq/meboki
 
-⭐ 11 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/mebokihq/meboki) · [官网](https://meboki.com/) · 个人维护
+⭐ 18 · Swift · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/mebokihq/meboki) · [官网](https://meboki.com/) · 个人维护
 
 **macOS 本地私有语法检查工具：开源 LLM 在本机运行**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mebokihq/meboki 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 12
-    line [4, 10, 11]
+    title "mebokihq/meboki 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 19
+    line [4, 10, 11, 18]
 ```
 
-2026-11-22 4 → 2026-11-25 11（+7）
+2026-11-22 4 → 2026-11-26 18（+14）
 
 
 ---

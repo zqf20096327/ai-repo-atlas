@@ -1,6 +1,6 @@
 # taishi-i/awesome-japanese-nlp-resources
 
-⭐ 1,032 · CC0-1.0 · 推送 2026-11-23 · [GitHub](https://github.com/taishi-i/awesome-japanese-nlp-resources) · [官网](https://awesome-japanese-nlp.org) · 个人维护
+⭐ 1,032 · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/taishi-i/awesome-japanese-nlp-resources) · [官网](https://awesome-japanese-nlp.org) · 个人维护
 
 **日语 NLP 资源清单：901 个 GitHub 仓库与 512 个 HF 资源编目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "taishi-i/awesome-japanese-nlp-resources 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-22", "2026-11-25"]
+    title "taishi-i/awesome-japanese-nlp-resources 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 1022 --> 1033
-    line [1024, 1023, 1025, 1023, 1028, 1029, 1031, 1030, 1031, 1032]
+    line [1024, 1023, 1025, 1023, 1028, 1029, 1031, 1030, 1031, 1032, 1032]
 ```
 
-2026-10-23 1,024 → 2026-11-25 1,032（+8）
+2026-10-24 1,024 → 2026-11-26 1,032（+8）
 
 
 ---

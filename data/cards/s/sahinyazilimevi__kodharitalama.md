@@ -41,6 +41,18 @@
 > L17: `kodharitalama` turns a folder of source code, documents, papers, images, or
 > L25: For coding agents, the important part is retrieval: instead of grepping a large
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sahinyazilimevi/kodharitalama 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `5cb41d456bb6` · [字段定义](../../DATASET.md)*

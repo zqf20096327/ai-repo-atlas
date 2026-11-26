@@ -1,6 +1,6 @@
 # CrayLabs/SmartRedis
 
-⭐ 59 · C++ · BSD-2-Clause · 推送 2026-03-25 · [GitHub](https://github.com/CrayLabs/SmartRedis) · 组织维护
+⭐ 60 · C++ · BSD-2-Clause · 推送 2026-03-25 · [GitHub](https://github.com/CrayLabs/SmartRedis) · 组织维护
 
 **面向 HPC 的多语言 RedisAI 客户端库：连接模拟与 ML 模型**
 
@@ -46,12 +46,12 @@ SmartRedis 是一组支持 RedisAI 能力的 Redis 客户端库，提供 Python�
 ```mermaid
 xychart-beta
     title "CrayLabs/SmartRedis 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 57 --> 60
-    line [58, 59, 59]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 57 --> 61
+    line [58, 59, 60]
 ```
 
-2026-10-23 58 → 2026-11-25 59（+1）
+2026-10-24 58 → 2026-11-26 60（+2）
 
 
 ---

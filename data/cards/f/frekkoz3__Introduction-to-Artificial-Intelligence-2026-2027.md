@@ -1,6 +1,6 @@
 # frekkoz3/Introduction-to-Artificial-Intelligence-2026-2027
 
-⭐ 13 · Jupyter Notebook · 推送 2026-11-13 · [GitHub](https://github.com/frekkoz3/Introduction-to-Artificial-Intelligence-2026-2027) · 组织维护
+⭐ 13 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/frekkoz3/Introduction-to-Artificial-Intelligence-2026-2027) · 组织维护
 
 **的里雅斯特大学 AI 导论课程的辅导教学材料仓库**
 
@@ -45,12 +45,12 @@ University of Trieste 2026/2027 学年《人工智能导论》课程的辅导材
 ```mermaid
 xychart-beta
     title "frekkoz3/Introduction-to-Artificial-Intelligence-2026-2027 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-26"]
     y-axis "stars" 10 --> 14
     line [11, 12, 13, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 13（+2）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

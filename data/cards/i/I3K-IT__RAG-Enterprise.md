@@ -1,6 +1,6 @@
 # I3K-IT/RAG-Enterprise
 
-⭐ 59 · Rust · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/I3K-IT/RAG-Enterprise) · [官网](https://rag.i3k.eu) · 组织维护
+⭐ 60 · Rust · AGPL-3.0 · 推送 2026-10-20 · [GitHub](https://github.com/I3K-IT/RAG-Enterprise) · [官网](https://rag.i3k.eu) · 组织维护
 
 **单二进制全本地自托管 RAG 系统：对自有文档提问并引用来源**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "I3K-IT/RAG-Enterprise 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 58 --> 60
-    line [59, 59]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 58 --> 61
+    line [59, 60]
 ```
 
-2026-10-23 59 → 2026-11-25 59（+0）
+2026-10-24 59 → 2026-11-26 60（+1）
 
 
 ---

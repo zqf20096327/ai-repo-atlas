@@ -1,6 +1,6 @@
 # rraahh133/Worse
 
-⭐ 9 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/rraahh133/Worse) · [官网](https://rraahh133.github.io/Worse/) · 个人维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/rraahh133/Worse) · [官网](https://rraahh133.github.io/Worse/) · 个人维护
 
 **在单一桌面应用中并排运行多个 AI 编码 agent 并管理配额切换**
 
@@ -45,13 +45,13 @@ Rust 编写的原生桌面 GUI，通过 Agent Client Protocol (ACP) 驱动外部
 
 ```mermaid
 xychart-beta
-    title "rraahh133/Worse 星数(近 4 点)"
-    x-axis ["2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 10
-    line [3, 7, 8, 9]
+    title "rraahh133/Worse 星数(近 5 点)"
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 11
+    line [3, 7, 8, 9, 10]
 ```
 
-2026-11-20 3 → 2026-11-25 9（+6）
+2026-11-20 3 → 2026-11-26 10（+7）
 
 
 ---

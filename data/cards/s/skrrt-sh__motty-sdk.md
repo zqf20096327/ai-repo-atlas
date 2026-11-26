@@ -1,6 +1,6 @@
 # skrrt-sh/motty-sdk
 
-⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/skrrt-sh/motty-sdk) · 个人维护
+⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/skrrt-sh/motty-sdk) · 个人维护
 
 **用 TypeScript 写模型逻辑的 LLM 网关/中间层 SDK**
 
@@ -47,12 +47,12 @@ Motty SDK 是构建"由代码而非权重构成的模型"的工具包：用户�
 ```mermaid
 xychart-beta
     title "skrrt-sh/motty-sdk 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-23 5 → 2026-11-25 5（+0）
+2026-10-24 5 → 2026-11-26 5（+0）
 
 
 ---

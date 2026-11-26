@@ -1,6 +1,6 @@
 # SerapoQosa58/uncensored-ai-chat
 
-⭐ 41 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SerapoQosa58/uncensored-ai-chat) · 个人维护
+⭐ 41 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SerapoQosa58/uncensored-ai-chat) · [官网](https://github.com/SerapoQosa58/uncensored-ai-chat/releases) · 个人维护
 
 **Windows 本地便携版无过滤 LLM 聊天程序，带角色预设**
 
@@ -39,6 +39,18 @@
 
 > L3: # UncensoredAiChat — Local Unfiltered LLM Chat with Character Presets (Portable x64 Build, JSON Configuration)
 > L20: **UncensoredAiChat — Local, private, unfiltered AI chat. Your machine, your rules** (`uncensored-ai-chat`) is a ded
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SerapoQosa58/uncensored-ai-chat 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-11-25 41 → 2026-11-26 41（+0）
 
 
 ---

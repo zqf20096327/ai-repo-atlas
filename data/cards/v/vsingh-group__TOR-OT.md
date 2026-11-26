@@ -1,6 +1,6 @@
 # vsingh-group/TOR-OT
 
-⭐ 3 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/vsingh-group/TOR-OT) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/vsingh-group/TOR-OT) · 组织维护
 
 **用 transformer 自回归生成稀疏最优传输方案的科研代码库**
 
@@ -46,12 +46,12 @@ NeurIPS 2026 论文的官方实现：将离散最优传输建模为序列生成�
 ```mermaid
 xychart-beta
     title "vsingh-group/TOR-OT 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 4（+1）
 
 
 ---

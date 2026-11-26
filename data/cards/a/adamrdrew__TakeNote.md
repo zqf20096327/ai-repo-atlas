@@ -1,6 +1,6 @@
 # adamrdrew/TakeNote
 
-⭐ 20 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/adamrdrew/TakeNote) · 个人维护
+⭐ 21 · Swift · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/adamrdrew/TakeNote) · 个人维护
 
 **macOS/iOS/visionOS 的 Markdown 笔记应用，AI 功能由 Apple Intelligence 端侧提供**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "adamrdrew/TakeNote 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # JoasASantos/ironclaw
 
-⭐ 85 · Rust · 推送 2026-02-18 · [GitHub](https://github.com/JoasASantos/ironclaw) · 个人维护
+⭐ 86 · Rust · 推送 2026-02-18 · [GitHub](https://github.com/JoasASantos/ironclaw) · 个人维护
 
 **安全优先的 Rust AI Agent 框架，支持 25+ 提供商**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JoasASantos/ironclaw 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 82 --> 86
-    line [83, 84, 83, 85, 85]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 82 --> 87
+    line [83, 84, 83, 85, 86]
 ```
 
-2026-10-23 83 → 2026-11-25 85（+2）
+2026-10-24 83 → 2026-11-26 86（+3）
 
 
 ---

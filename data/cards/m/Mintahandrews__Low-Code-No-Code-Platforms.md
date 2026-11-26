@@ -1,6 +1,6 @@
 # Mintahandrews/Low-Code-No-Code-Platforms
 
-⭐ 39 · MIT · 推送 2026-09-21 · [GitHub](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms) · [官网](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms) · 个人维护
+⭐ 39 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Mintahandrews/Low-Code-No-Code-Platforms) · [官网](https://codemintah.dev) · 个人维护
 
 **低代码/无代码平台策展清单：开源与商业工具对比**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Mintahandrews/Low-Code-No-Code-Platforms 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
     y-axis "stars" 35 --> 40
     line [36, 37, 36, 37, 38, 39, 39]
 ```
 
-2026-10-23 36 → 2026-11-25 39（+3）
+2026-10-24 36 → 2026-11-26 39（+3）
 
 
 ---

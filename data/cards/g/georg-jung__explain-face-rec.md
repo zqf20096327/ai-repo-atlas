@@ -1,6 +1,6 @@
 # georg-jung/explain-face-rec
 
-⭐ 33 · HTML · MIT · 推送 2026-11-18 · [GitHub](https://github.com/georg-jung/explain-face-rec) · [官网](https://facerec.gjung.com/) · 个人维护
+⭐ 33 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/georg-jung/explain-face-rec) · [官网](https://facerec.gjung.com/) · 个人维护
 
 **交互式人脸识别教程：本地动手学人脸 AI 原理与 .NET 实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "georg-jung/explain-face-rec 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-23 33 → 2026-11-25 33（+0）
+2026-10-24 33 → 2026-11-26 33（+0）
 
 
 ---

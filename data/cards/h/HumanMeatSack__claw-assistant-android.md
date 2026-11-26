@@ -1,6 +1,6 @@
 # HumanMeatSack/claw-assistant-android
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HumanMeatSack/claw-assistant-android) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/HumanMeatSack/claw-assistant-android) · 个人维护
 
 **Android 端自托管语音助手：手机本地运行模型对话**
 
@@ -40,6 +40,18 @@
 > L12:  Android handles offline recognition, imported Qwen3-4B conversation, phone utilities, and voice playback. A privat
 > L39: 2. For phone-local conversation, download the pinned Qwen3-4B model separately. Open **Settings → Voice → Local pho
 > L57: The development handset is a Galaxy S24 Ultra running Android 17. The local runtime is an ARM64/GPU-oriented previe
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HumanMeatSack/claw-assistant-android 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

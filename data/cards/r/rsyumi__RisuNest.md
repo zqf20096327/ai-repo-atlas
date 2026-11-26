@@ -1,6 +1,6 @@
 # rsyumi/RisuNest
 
-⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/rsyumi/RisuNest) · 组织维护
+⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/rsyumi/RisuNest) · 组织维护
 
 **面向桌面与移动端的本地 AI 角色扮演聊天应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rsyumi/RisuNest 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-19 10 → 2026-11-25 11（+1）
+2026-11-19 10 → 2026-11-26 11（+1）
 
 
 ---

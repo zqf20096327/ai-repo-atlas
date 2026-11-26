@@ -1,6 +1,6 @@
 # ybouane/dash-p
 
-⭐ 23 · TypeScript · 推送 2026-09-11 · [GitHub](https://github.com/ybouane/dash-p) · [官网](https://ybouane.com/) · 个人维护
+⭐ 24 · TypeScript · 推送 2026-09-11 · [GitHub](https://github.com/ybouane/dash-p) · [官网](https://ybouane.com/) · 个人维护
 
 **让开发者以脚本驱动真实 Claude Code TUI 会话的 CLI/TS 库**
 
@@ -45,12 +45,12 @@ CLI 与 TypeScript 库，通过伪终端启动官方 claude 命令的交互式 T
 ```mermaid
 xychart-beta
     title "ybouane/dash-p 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-23 23 → 2026-11-25 23（+0）
+2026-10-24 23 → 2026-11-26 24（+1）
 
 
 ---

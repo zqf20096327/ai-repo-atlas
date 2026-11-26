@@ -1,6 +1,6 @@
 # Neilblaze/portscope
 
-⭐ 41 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Neilblaze/portscope) · [官网](https://portscope.apps.neilblaze.live) · 个人维护
+⭐ 41 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Neilblaze/portscope) · [官网](https://portscope.apps.neilblaze.live) · 个人维护
 
 **查看与管理本机端口进程的 CLI，附自然语言 AI 助手**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Neilblaze/portscope 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-26"]
     y-axis "stars" 40 --> 43
     line [41, 42, 41, 41]
 ```
 
-2026-10-22 41 → 2026-11-25 41（+0）
+2026-10-23 41 → 2026-11-26 41（+0）
 
 
 ---

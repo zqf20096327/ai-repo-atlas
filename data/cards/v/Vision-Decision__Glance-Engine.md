@@ -1,6 +1,6 @@
 # Vision-Decision/Glance-Engine
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vision-Decision/Glance-Engine) · 组织维护
+⭐ 34 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Vision-Decision/Glance-Engine) · 组织维护
 
 **视觉决策模型推理引擎：一次前向回答多问题、一问扫描多图**
 
@@ -45,13 +45,13 @@ Glance Engine 是面向视觉决策模型的服务引擎：读取一张图像后
 
 ```mermaid
 xychart-beta
-    title "Vision-Decision/Glance-Engine 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 19 --> 32
-    line [20, 28, 31]
+    title "Vision-Decision/Glance-Engine 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 19 --> 35
+    line [20, 28, 31, 34]
 ```
 
-2026-11-22 20 → 2026-11-25 31（+11）
+2026-11-22 20 → 2026-11-26 34（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # emonney/QuickApp
 
-⭐ 1,352 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/emonney/QuickApp) · [官网](https://www.ebenmonney.com/quickapp) · 个人维护
+⭐ 1,353 · TypeScript · MIT · 推送 2026-09-01 · [GitHub](https://github.com/emonney/QuickApp) · [官网](https://www.ebenmonney.com/quickapp) · 个人维护
 
 **面向 AI 扩展的 Angular/ASP.NET Core 全栈参考架构模板**
 
@@ -45,12 +45,12 @@ Angular 21 + ASP.NET Core 10 的模板项目，预先实现认证授权（OpenId
 ```mermaid
 xychart-beta
     title "emonney/QuickApp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 1351 --> 1355
-    line [1353, 1352, 1353, 1354, 1352, 1352]
+    line [1353, 1352, 1353, 1354, 1352, 1353]
 ```
 
-2026-10-23 1,353 → 2026-11-25 1,352（-1）
+2026-10-24 1,353 → 2026-11-26 1,353（+0）
 
 
 ---

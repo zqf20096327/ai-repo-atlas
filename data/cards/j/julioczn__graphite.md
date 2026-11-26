@@ -1,6 +1,6 @@
 # julioczn/graphite
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/julioczn/graphite) · [官网](https://julioczn.github.io/graphite/) · 个人维护
+⭐ 8 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/julioczn/graphite) · [官网](https://julioczn.github.io/graphite/) · 个人维护
 
 **面向开发者与 DBA 的多数据库桌面客户端，带 AI 助手与 MCP 服务**
 
@@ -40,6 +40,18 @@
 > L5:  A fast, keyboard-friendly desktop client for 24 databases : SQL, NoSQL and cloud warehouses
 > L83: ## AI: bring your own model or agent
 > L104: - **Anything else** opens an **approval dialog** in Graphite showing who asked, the connection and every statement
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "julioczn/graphite 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 9
+    line [7, 8]
+```
+
+2026-11-25 7 → 2026-11-26 8（+1）
 
 
 ---

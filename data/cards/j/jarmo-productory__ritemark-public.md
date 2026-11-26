@@ -1,6 +1,6 @@
 # jarmo-productory/ritemark-public
 
-⭐ 17 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jarmo-productory/ritemark-public) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向非程序员的本地优先 AI agent Markdown 编辑器**
 
@@ -11,7 +11,7 @@ Ritemark 是 macOS/Windows 桌面 Markdown 编辑器，三窗格布局：中央�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # wychmod/dsh-mini-superagent
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wychmod/dsh-mini-superagent) · [官网](https://wychmod.github.io/dsh-mini-superagent/) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/wychmod/dsh-mini-superagent) · [官网](https://wychmod.github.io/dsh-mini-superagent/) · 个人维护 · 中文 README
 
 **DSH 插件：主会话向后台子会话派发任务并回收报告**
 
@@ -46,12 +46,12 @@ DeepSeek Harness 的任务派发与工作台插件：主会话提交自包含任
 ```mermaid
 xychart-beta
     title "wychmod/dsh-mini-superagent 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 4（+1）
 
 
 ---

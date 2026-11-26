@@ -1,6 +1,6 @@
 # nejib1/Free-LLM
 
-⭐ 1,099 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nejib1/Free-LLM) · [官网](https://free-llm.com) · 个人维护 · 中文 README
+⭐ 1,117 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nejib1/Free-LLM) · [官网](https://free-llm.com) · 个人维护 · 中文 README
 
 **免费 LLM API 目录与本地路由器：聚合 79 家免费接口**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "nejib1/Free-LLM 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 1054 --> 1103
-    line [1058, 1068, 1073, 1081, 1087, 1099]
+    title "nejib1/Free-LLM 星数(近 7 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1053 --> 1122
+    line [1058, 1068, 1073, 1081, 1087, 1099, 1117]
 ```
 
-2026-11-19 1,058 → 2026-11-25 1,099（+41）
+2026-11-19 1,058 → 2026-11-26 1,117（+59）
 
 
 ---

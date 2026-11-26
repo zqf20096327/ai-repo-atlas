@@ -1,6 +1,6 @@
 # ilyautov/llm-manual-lab
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ilyautov/llm-manual-lab) · 个人维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ilyautov/llm-manual-lab) · 个人维护
 
 **俄语免费 LLM 理论教材，附 TypeScript 可复现实验室**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ilyautov/llm-manual-lab 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 6 --> 12
-    line [7, 8, 10, 11, 11]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 6 --> 13
+    line [7, 8, 10, 11, 12]
 ```
 
-2026-11-10 7 → 2026-11-25 11（+4）
+2026-11-10 7 → 2026-11-26 12（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # irthomasthomas/llm-consortium
 
-⭐ 409 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/irthomasthomas/llm-consortium) · 个人维护
+⭐ 410 · Python · Apache-2.0 · 推送 2026-09-05 · [GitHub](https://github.com/irthomasthomas/llm-consortium) · 个人维护
 
 **编排多 LLM 并行推理、迭代共识与仲裁合成的 llm 插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "irthomasthomas/llm-consortium 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 408 --> 410
-    line [409, 409]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 408 --> 411
+    line [409, 410]
 ```
 
-2026-10-23 409 → 2026-11-25 409（+0）
+2026-10-24 409 → 2026-11-26 410（+1）
 
 
 ---

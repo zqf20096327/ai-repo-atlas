@@ -1,6 +1,6 @@
 # huggingface/swift-huggingface
 
-⭐ 180 · Swift · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/huggingface/swift-huggingface) · [官网](https://huggingface.co/docs/hub/index) · 组织维护
+⭐ 180 · Swift · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/swift-huggingface) · [官网](https://huggingface.co/docs/hub/index) · 组织维护
 
 **Hugging Face Hub 与 Inference Providers 的 Swift 客户端库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/swift-huggingface 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 176 --> 181
     line [178, 177, 178, 179, 178, 180, 180]
 ```
 
-2026-10-23 178 → 2026-11-25 180（+2）
+2026-10-24 178 → 2026-11-26 180（+2）
 
 
 ---

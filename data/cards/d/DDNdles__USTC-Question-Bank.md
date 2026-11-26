@@ -1,6 +1,6 @@
 # DDNdles/USTC-Question-Bank
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DDNdles/USTC-Question-Bank) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DDNdles/USTC-Question-Bank) · 个人维护 · 中文 README
 
 **面向 USTC 本科课程的结构化题库：题干、解析、知识点树与可信分级**
 
@@ -40,6 +40,18 @@
 
 > L16: 面向中国科学技术大学（USTC）本科课程的**结构化、可编程题库底座**。每道题含 Markdown + LaTeX 题干、答案、分步解析、知识点树标签与可信分级，可直接驱动刷题网站、LaTeX 组卷、Anki 制卡、RAG 检索
 > L110: - **Hugging Face / RAG**：`load_dataset("json", data_files="courses/MATH1006/questions.jsonl")`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "DDNdles/USTC-Question-Bank 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 13
+    line [3, 12]
+```
+
+2026-11-25 3 → 2026-11-26 12（+9）
 
 
 ---

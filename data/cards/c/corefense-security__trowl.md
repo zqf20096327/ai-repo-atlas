@@ -1,6 +1,6 @@
 # corefense-security/trowl
 
-⭐ 4 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/corefense-security/trowl) · 组织维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/corefense-security/trowl) · 组织维护
 
 **为嵌入式 Linux 镜像扫描安全加固缺口、CVE 与 SBOM 差异**
 
@@ -40,6 +40,18 @@ Trowl 是面向嵌入式 Linux 镜像的构建后安全扫描器：解包镜像�
 > L8: Trowl is a post-build security scanner for embedded Linux images. It unpacks the image and checks the kernel and use
 > L30: ### Local LLM (experimental)
 > L32: Trowl uses local LLM to generate impact summaries. Model weights are downloaded from Hugging Face.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "corefense-security/trowl 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 17
+    line [4, 16]
+```
+
+2026-11-25 4 → 2026-11-26 16（+12）
 
 
 ---

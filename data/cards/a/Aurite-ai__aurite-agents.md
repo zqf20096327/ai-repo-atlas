@@ -1,6 +1,6 @@
 # Aurite-ai/aurite-agents
 
-⭐ 17 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Aurite-ai/aurite-agents) · [官网](https://aurite-ai.github.io/aurite-agents) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-08-27 · [GitHub](https://github.com/Aurite-ai/aurite-agents) · [官网](https://aurite-ai.github.io/aurite-agents) · 组织维护
 
 **配置驱动的 Python AI agent 构建与编排框架**
 
@@ -46,12 +46,12 @@ Aurite Agents 是一个 Python 框架，用于构建、测试和运行 AI agent�
 ```mermaid
 xychart-beta
     title "Aurite-ai/aurite-agents 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

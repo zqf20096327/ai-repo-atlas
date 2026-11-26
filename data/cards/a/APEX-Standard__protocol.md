@@ -46,12 +46,12 @@ APEX（Agent Protocol for EXchange）是定义 AI 代理如何与金融经纪商
 ```mermaid
 xychart-beta
     title "APEX-Standard/protocol 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

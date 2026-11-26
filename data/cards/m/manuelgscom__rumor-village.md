@@ -1,6 +1,6 @@
 # manuelgscom/rumor-village
 
-⭐ 17 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/manuelgscom/rumor-village) · [官网](https://manuelgs.com/en/rumor-village/) · 个人维护 · 中文 README
+⭐ 33 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/manuelgscom/rumor-village) · [官网](https://manuelgs.com/en/rumor-village/) · 个人维护 · 中文 README
 
 **用本地微调 LLM 驱动 100 个村民的谣言传播模拟游戏**
 
@@ -40,6 +40,18 @@
 > L3: **A rumor simulation game with an AI trained for it.** Drop a rumor into a 3D village of up to 100 neighbors and wat
 > L52: - **With AI:** the fine-tuned model decides what every neighbor does and says. You can type the rumor in your own w
 > L74: - **Every decision goes through the model**, in one batched loop of llama.cpp embedded in a C++ engine with integer
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "manuelgscom/rumor-village 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 16 --> 34
+    line [17, 33]
+```
+
+2026-11-25 17 → 2026-11-26 33（+16）
 
 
 ---

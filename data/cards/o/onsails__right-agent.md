@@ -1,6 +1,6 @@
 # onsails/right-agent
 
-⭐ 36 · Rust · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/onsails/right-agent) · [官网](https://right-agent.ai/) · 个人维护
+⭐ 36 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/onsails/right-agent) · [官网](https://right-agent.ai/) · 个人维护
 
 **通过 Telegram 对话驱动的沙箱化 AI agent 运行器**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "onsails/right-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-23 36 → 2026-11-25 36（+0）
+2026-10-24 36 → 2026-11-26 36（+0）
 
 
 ---

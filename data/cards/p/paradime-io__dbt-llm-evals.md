@@ -1,6 +1,6 @@
 # paradime-io/dbt-llm-evals
 
-⭐ 35 · Python · NOASSERTION · 推送 2026-02-10 · [GitHub](https://github.com/paradime-io/dbt-llm-evals) · [官网](https://www.paradime.io/) · 组织维护
+⭐ 36 · Python · NOASSERTION · 推送 2026-02-10 · [GitHub](https://github.com/paradime-io/dbt-llm-evals) · [官网](https://www.paradime.io/) · 组织维护
 
 **给 dbt 项目的数据仓库内 LLM 输出评测包，无数据外流**
 
@@ -46,12 +46,12 @@ dbt 包形式的 LLM 评测监控工具：通过 post-hook 自动捕获 AI 模�
 ```mermaid
 xychart-beta
     title "paradime-io/dbt-llm-evals 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 36（+1）
 
 
 ---

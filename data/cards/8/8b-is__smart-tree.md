@@ -1,6 +1,6 @@
 # 8b-is/smart-tree
 
-⭐ 274 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/8b-is/smart-tree) · [官网](https://s.8b.is/q/3PNnlY6jT) · 个人维护
+⭐ 274 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/8b-is/smart-tree) · [官网](https://s.8b.is/q/3PNnlY6jT) · 个人维护
 
 **AI 原生目录分析与压缩工具，为 AI Agent 提供 50+ MCP 工具**
 
@@ -46,12 +46,12 @@ Rust 编写的目录分析工具，自称较传统 tree 快 10–24 倍，输出
 ```mermaid
 xychart-beta
     title "8b-is/smart-tree 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
     y-axis "stars" 270 --> 275
     line [271, 272, 273, 274, 274]
 ```
 
-2026-10-23 271 → 2026-11-25 274（+3）
+2026-10-24 271 → 2026-11-26 274（+3）
 
 
 ---

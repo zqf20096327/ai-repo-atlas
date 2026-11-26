@@ -41,6 +41,18 @@
 > L17: - **256K Context Window** — Reviews entire PRs with full file context, not just diffs
 > L154: PR Event → Extract Context → Pack (256K) → Kimi API → Parse → Annotations
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "howardpen9/kimi-code-reviewer 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f89e1ec5ce45` · [字段定义](../../DATASET.md)*

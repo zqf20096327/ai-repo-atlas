@@ -45,12 +45,12 @@ HALO-Loss 是一个可替换标准 Categorical Cross-Entropy 的 PyTorch 损失�
 ```mermaid
 xychart-beta
     title "4rtemi5/halo 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-23 52 → 2026-11-25 52（+0）
+2026-10-24 52 → 2026-11-26 52（+0）
 
 
 ---

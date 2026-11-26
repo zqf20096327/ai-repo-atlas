@@ -1,6 +1,6 @@
 # ratishjain12/ai-engineering-notes
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ratishjain12/ai-engineering-notes) · [官网](https://learn.ratishfolio.com) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ratishjain12/ai-engineering-notes) · [官网](https://learn.ratishfolio.com) · 个人维护
 
 **AI 工程主题的公开学习笔记站，逐题记录理解与资源**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ratishjain12/ai-engineering-notes 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 3 --> 12
-    line [4, 5, 6, 7, 8, 6, 11, 11]
+    title "ratishjain12/ai-engineering-notes 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 4 --> 15
+    line [5, 6, 7, 8, 6, 11, 14]
 ```
 
-2026-10-23 4 → 2026-11-25 11（+7）
+2026-10-24 5 → 2026-11-26 14（+9）
 
 
 ---

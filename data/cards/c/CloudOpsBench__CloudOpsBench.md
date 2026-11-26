@@ -1,6 +1,6 @@
 # CloudOpsBench/CloudOpsBench
 
-⭐ 86 · Shell · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/CloudOpsBench/CloudOpsBench) · [官网](https://cloudopsbench.ai) · 组织维护
+⭐ 90 · Shell · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/CloudOpsBench/CloudOpsBench) · [官网](https://cloudopsbench.ai) · 组织维护
 
 **评测 AI agent 云运维能力的开源任务基准套件（45 个 AWS 任务）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CloudOpsBench/CloudOpsBench 星数(近 8 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 93
-    line [9, 20, 34, 82, 83, 85, 86, 86]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 1 --> 98
+    line [9, 20, 34, 82, 83, 85, 86, 90]
 ```
 
-2026-10-26 9 → 2026-11-25 86（+77）
+2026-10-26 9 → 2026-11-26 90（+81）
 
 
 ---

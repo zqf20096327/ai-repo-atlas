@@ -1,6 +1,6 @@
 # Pbatch/ChessCam
 
-⭐ 270 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Pbatch/ChessCam) · [官网](https://www.chesscam.net) · 组织维护
+⭐ 271 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/Pbatch/ChessCam) · [官网](https://www.chesscam.net) · 组织维护
 
 **用手机摄像头替代国际象棋电子棋盘、直播记谱的应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Pbatch/ChessCam 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-18", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-18", "2026-11-23", "2026-11-26"]
     y-axis "stars" 269 --> 272
-    line [270, 271, 270, 270]
+    line [270, 271, 270, 271]
 ```
 
-2026-11-12 270 → 2026-11-25 270（+0）
+2026-11-12 270 → 2026-11-26 271（+1）
 
 
 ---

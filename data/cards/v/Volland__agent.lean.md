@@ -1,6 +1,6 @@
 # Volland/agent.lean
 
-⭐ 5 · Lean · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/Volland/agent.lean) · 个人维护
+⭐ 6 · Lean · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/Volland/agent.lean) · 个人维护
 
 **给嵌入式/移动端开发者的可验证 Lean 4 LLM agent 库**
 
@@ -47,12 +47,12 @@ Lean 4 编写的 agent 库，核心是确定性 step 函数（状态+事件→�
 ```mermaid
 xychart-beta
     title "Volland/agent.lean 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-15", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-12", "2026-11-15", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-12 3 → 2026-11-25 5（+2）
+2026-11-12 3 → 2026-11-26 6（+3）
 
 
 ---

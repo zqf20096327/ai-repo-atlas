@@ -1,6 +1,6 @@
 # manthanguptaa/water
 
-⭐ 344 · Python · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/manthanguptaa/water) · [官网](https://manthanguptaa.in/posts/water/) · 个人维护
+⭐ 343 · Python · Apache-2.0 · 推送 2026-03-24 · [GitHub](https://github.com/manthanguptaa/water) · [官网](https://manthanguptaa.in/posts/water/) · 个人维护
 
 **面向生产环境的 Python agent 基础设施框架**
 
@@ -45,12 +45,12 @@ Water 是一个 agent harness 框架，提供 AI agent 周边的基础设施而�
 ```mermaid
 xychart-beta
     title "manthanguptaa/water 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-26"]
     y-axis "stars" 337 --> 345
-    line [338, 339, 340, 338, 341, 342, 343, 342, 343, 344, 344]
+    line [338, 339, 340, 338, 341, 342, 343, 342, 343, 344, 343]
 ```
 
-2026-10-23 338 → 2026-11-25 344（+6）
+2026-10-24 338 → 2026-11-26 343（+5）
 
 
 ---

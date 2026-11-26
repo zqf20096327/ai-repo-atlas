@@ -1,6 +1,6 @@
 # vincelele/ai-fomo-skills
 
-⭐ 246 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/vincelele/ai-fomo-skills) · 个人维护 · 中文 README
+⭐ 245 · Python · MIT · 推送 2026-05-29 · [GitHub](https://github.com/vincelele/ai-fomo-skills) · 个人维护 · 中文 README
 
 **给 AI 从业者的个人信息筛选 Agent Skill 套件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vincelele/ai-fomo-skills 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 245 --> 247
-    line [246, 246]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 244 --> 247
+    line [246, 245]
 ```
 
-2026-10-23 246 → 2026-11-25 246（+0）
+2026-10-24 246 → 2026-11-26 245（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nomansheikh/kiln
 
-⭐ 3 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nomansheikh/kiln) · 个人维护
+⭐ 3 · Swift · MIT · 推送 2026-11-24 · [GitHub](https://github.com/nomansheikh/kiln) · 个人维护
 
 **本地运行图像/语音/3D 生成模型的 macOS 原生应用**
 
@@ -40,6 +40,18 @@ Kiln 是面向 Apple Silicon Mac 的本地模型应用：从 Hugging Face 下载
 
 > L3: Kiln is a native macOS app that downloads models from Hugging Face and runs them on your own Mac. It makes images wi
 > L5: It is for people with an Apple Silicon Mac who want to try image, speech and 3D models locally without setting up Py
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nomansheikh/kiln 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

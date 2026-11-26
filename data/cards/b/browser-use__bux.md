@@ -1,6 +1,6 @@
 # browser-use/bux
 
-⭐ 465 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/browser-use/bux) · [官网](https://www.tiktok.com/@browser_use/video/7639824093721758989) · 组织维护
+⭐ 464 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/browser-use/bux) · [官网](https://www.tiktok.com/@browser_use/video/7639824093721758989) · 组织维护
 
 **在自有 VPS 上 7x24 运行 Claude Code 浏览器代理的安装与托管方案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "browser-use/bux 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
     y-axis "stars" 458 --> 466
-    line [459, 461, 464, 465, 465]
+    line [459, 461, 464, 465, 464]
 ```
 
-2026-10-23 459 → 2026-11-25 465（+6）
+2026-10-24 459 → 2026-11-26 464（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # MetOffice/data_science_cop
 
-⭐ 26 · Jupyter Notebook · 推送 2026-11-20 · [GitHub](https://github.com/MetOffice/data_science_cop) · 组织维护
+⭐ 26 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/MetOffice/data_science_cop) · 组织维护
 
 **Met Office 数据科学社区实践的示例与教程集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MetOffice/data_science_cop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-23 26 → 2026-11-25 26（+0）
+2026-10-24 26 → 2026-11-26 26（+0）
 
 
 ---

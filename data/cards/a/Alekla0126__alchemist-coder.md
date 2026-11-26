@@ -1,6 +1,6 @@
 # Alekla0126/alchemist-coder
 
-⭐ 10 · TypeScript · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/Alekla0126/alchemist-coder) · [官网](https://coder.alekla.com) · 组织维护
+⭐ 11 · TypeScript · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/Alekla0126/alchemist-coder) · [官网](https://coder.alekla.com) · 组织维护
 
 **管理 Claude Code/Codex 等 coding agent 的桌面客户端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Alekla0126/alchemist-coder 星数(近 9 点)"
-    x-axis ["2026-10-19", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 4 --> 11
-    line [5, 6, 7, 8, 6, 8, 9, 10, 10]
+    x-axis ["2026-10-20", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 4 --> 12
+    line [5, 6, 7, 8, 6, 8, 9, 10, 11]
 ```
 
-2026-10-19 5 → 2026-11-25 10（+5）
+2026-10-20 5 → 2026-11-26 11（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # con-dog/clingon
 
-⭐ 21 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/con-dog/clingon) · [官网](https://github.com/con-dog/clingon) · 个人维护
+⭐ 23 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/con-dog/clingon) · [官网](https://github.com/con-dog/clingon) · 个人维护
 
 **macOS 侧边命令菜单工具，AI 可代替用户挑选并执行命令**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "con-dog/clingon 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 15 --> 22
-    line [16, 17, 18, 19, 20, 21]
+    title "con-dog/clingon 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 15 --> 24
+    line [16, 17, 18, 19, 20, 21, 23]
 ```
 
-2026-11-13 16 → 2026-11-25 21（+5）
+2026-11-13 16 → 2026-11-26 23（+7）
 
 
 ---

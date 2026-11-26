@@ -1,6 +1,6 @@
 # irsdl/webhacklist
 
-⭐ 922 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/irsdl/webhacklist) · [官网](https://webhacklist.com/) · 组织维护
+⭐ 923 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/irsdl/webhacklist) · [官网](https://webhacklist.com/) · 组织维护
 
 **面向安全研究者的 Web 黑客技术研究档案库（2006 年至今）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "irsdl/webhacklist 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 921 --> 923
-    line [922, 922]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 921 --> 924
+    line [922, 923]
 ```
 
-2026-11-21 922 → 2026-11-25 922（+0）
+2026-11-21 922 → 2026-11-26 923（+1）
 
 
 ---

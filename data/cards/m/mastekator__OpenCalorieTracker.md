@@ -1,6 +1,6 @@
 # mastekator/OpenCalorieTracker
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/mastekator/OpenCalorieTracker) · 个人维护
+⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/mastekator/OpenCalorieTracker) · 个人维护
 
 **自托管 PWA 卡路里追踪：拍照识别菜品并记录饮食日记**
 
@@ -41,6 +41,18 @@
 > L6: Take a photo of your plate. A vision model of your choice lists the dishes with grams, kcal, protein, fat and carbs.
 > L54: Any model that reads images: Gemini, OpenAI, Anthropic, OpenRouter, or a local one through Ollama, or any OpenAI-co
 > L34: |Free and open source, one Docker container|Ads, subscriptions or upsells|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mastekator/OpenCalorieTracker 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

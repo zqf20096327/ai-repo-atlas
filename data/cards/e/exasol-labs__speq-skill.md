@@ -1,6 +1,6 @@
 # exasol-labs/speq-skill
 
-⭐ 55 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/exasol-labs/speq-skill) · 组织维护
+⭐ 56 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/exasol-labs/speq-skill) · 组织维护
 
 **给 Claude Code/Codex 的规格驱动开发插件，含 speq CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "exasol-labs/speq-skill 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 53 --> 56
-    line [54, 55]
+    title "exasol-labs/speq-skill 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 53 --> 57
+    line [54, 55, 56]
 ```
 
-2026-11-10 54 → 2026-11-25 55（+1）
+2026-11-10 54 → 2026-11-26 56（+2）
 
 
 ---

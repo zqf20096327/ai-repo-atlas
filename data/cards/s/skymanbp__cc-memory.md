@@ -46,12 +46,12 @@ cc-memory 是 Claude Code 插件：六个 hooks、CLI、MCP server、桌面 dash
 ```mermaid
 xychart-beta
     title "skymanbp/cc-memory 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-25"]
+    x-axis ["2026-10-29", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-29 10 → 2026-11-25 10（+0）
+2026-10-29 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiaotiewinner/xt-webnovel-writing 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 21 --> 26
-    line [22, 23, 24, 25, 25]
+    title "xiaotiewinner/xt-webnovel-writing 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25, 25]
 ```
 
-2026-10-23 22 → 2026-11-25 25（+3）
+2026-10-24 23 → 2026-11-26 25（+2）
 
 
 ---

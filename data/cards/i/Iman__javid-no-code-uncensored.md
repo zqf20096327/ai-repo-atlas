@@ -1,6 +1,6 @@
 # Iman/javid-no-code-uncensored
 
-⭐ 19 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Iman/javid-no-code-uncensored) · 个人维护 · 中文 README
+⭐ 20 · MIT · 推送 2026-08-31 · [GitHub](https://github.com/Iman/javid-no-code-uncensored) · 个人维护 · 中文 README
 
 **本地无审查 LLM 选型与部署指南清单**
 
@@ -40,6 +40,18 @@
 > L1: # Unrestricted LLMs on Devices
 > L12: This reference lists open-weight language models with the refusal behaviour removed. The community calls them "abli
 > L195: |ID|Model|Params|Quant|File Size|RAM Needed|Multilingual|Quality|Licence|Ev|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Iman/javid-no-code-uncensored 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
+```
+
+2026-11-25 19 → 2026-11-26 20（+1）
 
 
 ---

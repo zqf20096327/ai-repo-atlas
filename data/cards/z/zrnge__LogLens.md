@@ -1,6 +1,6 @@
 # zrnge/LogLens
 
-⭐ 11 · HTML · MIT · 推送 2026-04-11 · [GitHub](https://github.com/zrnge/LogLens) · [官网](https://zrnge.github.io/LogLens/) · 个人维护
+⭐ 12 · HTML · MIT · 推送 2026-04-11 · [GitHub](https://github.com/zrnge/LogLens) · [官网](https://zrnge.github.io/LogLens/) · 个人维护
 
 **浏览器内运行的本地日志探索器，配 Ollama AI 分析**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zrnge/LogLens 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-20", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-11-20 11 → 2026-11-25 11（+0）
+2026-11-20 11 → 2026-11-26 12（+1）
 
 
 ---

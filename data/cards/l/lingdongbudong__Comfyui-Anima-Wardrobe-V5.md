@@ -1,6 +1,6 @@
 # lingdongbudong/Comfyui-Anima-Wardrobe-V5
 
-⭐ 41 · Python · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V5) · [官网](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V5) · 个人维护 · 中文 README
+⭐ 43 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V5) · [官网](https://github.com/lingdongbudong/Comfyui-Anima-Wardrobe-V5) · 个人维护 · 中文 README
 
 **ComfyUI 自定义节点：按五级 NSFW 档位随机生成 ANIMA3 提示词**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lingdongbudong/Comfyui-Anima-Wardrobe-V5 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 27 --> 42
-    line [28, 30, 31, 33, 35, 36, 37, 39, 41, 41]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 27 --> 44
+    line [28, 30, 31, 33, 35, 36, 37, 39, 41, 43]
 ```
 
-2026-11-08 28 → 2026-11-25 41（+13）
+2026-11-08 28 → 2026-11-26 43（+15）
 
 
 ---

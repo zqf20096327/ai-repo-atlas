@@ -1,6 +1,6 @@
 # lukeprofits/TokenSaver
 
-⭐ 4 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lukeprofits/TokenSaver) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lukeprofits/TokenSaver) · 个人维护
 
 **为 Claude Code 降低重复发送 token 成本的本地代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lukeprofits/TokenSaver 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    line [3, 4, 3]
 ```
 
-2026-11-14 3 → 2026-11-25 4（+1）
+2026-11-14 3 → 2026-11-26 3（+0）
 
 
 ---

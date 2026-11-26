@@ -1,6 +1,6 @@
 # PanisHandsome/ai-rules-sync
 
-⭐ 101 · JavaScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/PanisHandsome/ai-rules-sync) · [官网](https://panishandsome.github.io/ai-rules-sync/) · 个人维护
+⭐ 100 · JavaScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/PanisHandsome/ai-rules-sync) · [官网](https://panishandsome.github.io/ai-rules-sync/) · 个人维护
 
 **为开发者同步各 AI 编码代理规则文件的 CLI 工具**
 
@@ -47,12 +47,12 @@ agentsync 是一个零依赖的 npm CLI 工具，解决多个 AI 编码代理规
 ```mermaid
 xychart-beta
     title "PanisHandsome/ai-rules-sync 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 100 --> 102
-    line [101, 101]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 99 --> 102
+    line [101, 100]
 ```
 
-2026-10-23 101 → 2026-11-25 101（+0）
+2026-10-24 101 → 2026-11-26 100（-1）
 
 
 ---

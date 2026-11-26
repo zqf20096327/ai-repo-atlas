@@ -1,6 +1,6 @@
 # ZYH1207/ManageAPI
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ZYH1207/ManageAPI) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ZYH1207/ManageAPI) · 个人维护 · 中文 README
 
 **面向多 API 中转站用户的本地比价、探针与统一网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZYH1207/ManageAPI 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-10-31", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-10-31 3 → 2026-11-25 4（+1）
+2026-10-31 3 → 2026-11-26 5（+2）
 
 
 ---

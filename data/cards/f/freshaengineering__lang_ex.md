@@ -1,6 +1,6 @@
 # freshaengineering/lang_ex
 
-⭐ 45 · Elixir · MIT · 推送 2026-09-16 · [GitHub](https://github.com/freshaengineering/lang_ex) · [官网](https://hexdocs.pm/lang_ex) · 组织维护
+⭐ 45 · Elixir · MIT · 推送 2026-11-24 · [GitHub](https://github.com/freshaengineering/lang_ex) · [官网](https://hexdocs.pm/lang_ex) · 组织维护
 
 **Elixir 的有状态 LLM agent 框架：图编排+检查点持久化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "freshaengineering/lang_ex 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 44 --> 46
     line [45, 45]
 ```
 
-2026-10-23 45 → 2026-11-25 45（+0）
+2026-10-24 45 → 2026-11-26 45（+0）
 
 
 ---

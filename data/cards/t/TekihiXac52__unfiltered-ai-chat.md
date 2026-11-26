@@ -1,6 +1,6 @@
 # TekihiXac52/unfiltered-ai-chat
 
-⭐ 66 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/TekihiXac52/unfiltered-ai-chat) · 个人维护
+⭐ 66 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/TekihiXac52/unfiltered-ai-chat) · [官网](https://github.com/TekihiXac52/unfiltered-ai-chat/releases) · 个人维护
 
 **本地 Windows 便携版 LLM 聊天客户端，带角色预设**
 
@@ -39,6 +39,18 @@ UnfilteredAiChat 是一个以本地方式运行的 LLM 聊天工具，提供 Win
 
 > L20: **UnfilteredAiChat — Local unfiltered AI chat — your machine, your rules** (`unfiltered-ai-chat`) ships as a native
 > L3: # UnfilteredAiChat — Local Unfiltered LLM Chat with Character Presets (One-Command Setup, Prebuilt Release)
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "TekihiXac52/unfiltered-ai-chat 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 65 --> 67
+    line [66, 66]
+```
+
+2026-11-25 66 → 2026-11-26 66（+0）
 
 
 ---

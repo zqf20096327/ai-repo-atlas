@@ -45,12 +45,12 @@ Rust 实现的 Model Context Protocol（MCP）服务器，向 Claude Desktop、C
 ```mermaid
 xychart-beta
     title "rustic-ai/codeprism 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

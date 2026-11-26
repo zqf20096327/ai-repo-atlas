@@ -1,6 +1,6 @@
 # Naksh7Gupta/ThinkNet
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-10-30 · [GitHub](https://github.com/Naksh7Gupta/ThinkNet) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为学习者/研究者提供可视化设计训练 AI 模型的桌面工作台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

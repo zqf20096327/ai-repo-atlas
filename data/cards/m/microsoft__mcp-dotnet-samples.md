@@ -1,6 +1,6 @@
 # microsoft/mcp-dotnet-samples
 
-⭐ 203 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/mcp-dotnet-samples) · [官网](https://aka.ms/mcp/dotnet/samples) · 组织维护
+⭐ 203 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/mcp-dotnet-samples) · [官网](https://aka.ms/mcp/dotnet/samples) · 组织维护
 
 **微软官方的 .NET MCP 服务器/客户端示例集**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/mcp-dotnet-samples 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-12", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-12", "2026-11-14", "2026-11-26"]
     y-axis "stars" 200 --> 204
     line [201, 202, 203, 203]
 ```
 
-2026-10-22 201 → 2026-11-25 203（+2）
+2026-10-23 201 → 2026-11-26 203（+2）
 
 
 ---

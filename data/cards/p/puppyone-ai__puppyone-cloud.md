@@ -1,6 +1,6 @@
 # puppyone-ai/puppyone-cloud
 
-⭐ 1,302 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/puppyone-ai/puppyone-cloud) · [官网](https://www.puppyone.ai) · 组织维护
+⭐ 1,302 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/puppyone-ai/puppyone-cloud) · [官网](https://www.puppyone.ai) · 组织维护
 
 **托管 agent 项目为 Git 仓库的团队云基础设施**
 
@@ -46,13 +46,13 @@ puppyone 的云端基础设施，把项目作为真实 Git 仓库托管，使团
 
 ```mermaid
 xychart-beta
-    title "puppyone-ai/puppyone-cloud 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-25"]
+    title "puppyone-ai/puppyone-cloud 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 1297 --> 1303
-    line [1300, 1298, 1299, 1300, 1301, 1302]
+    line [1300, 1298, 1299, 1300, 1301, 1302, 1302]
 ```
 
-2026-10-23 1,300 → 2026-11-25 1,302（+2）
+2026-10-24 1,300 → 2026-11-26 1,302（+2）
 
 
 ---

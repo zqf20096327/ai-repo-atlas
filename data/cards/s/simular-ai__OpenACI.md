@@ -43,12 +43,12 @@ OpenACI 是实验性的 Agent Computer Interface：接收自然语言指令后�
 ```mermaid
 xychart-beta
     title "simular-ai/OpenACI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-23 100 → 2026-11-25 100（+0）
+2026-10-24 100 → 2026-11-26 100（+0）
 
 
 ---

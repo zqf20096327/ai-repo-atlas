@@ -1,6 +1,6 @@
 # Havensky-stack/windows-ninfer-V100X2
 
-⭐ 13 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Havensky-stack/windows-ninfer-V100X2) · [官网](https://github.com/Havensky-stack/windows-ninfer-V100X2/releases) · 个人维护 · 中文 README
+⭐ 14 · C++ · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/Havensky-stack/windows-ninfer-V100X2) · [官网](https://github.com/Havensky-stack/windows-ninfer-V100X2/releases) · 个人维护 · 中文 README
 
 **让 Windows 双 Tesla V100 用户本地运行 Qwen 模型的推理发行包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Havensky-stack/windows-ninfer-V100X2 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 10, 12, 13, 13]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 10, 12, 13, 14]
 ```
 
-2026-10-23 10 → 2026-11-25 13（+3）
+2026-10-24 10 → 2026-11-26 14（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # turanszkij/mini-ai
 
-⭐ 23 · C++ · 推送 2026-08-22 · [GitHub](https://github.com/turanszkij/mini-ai) · 个人维护
+⭐ 24 · C++ · 推送 2026-08-22 · [GitHub](https://github.com/turanszkij/mini-ai) · 个人维护
 
 **本地运行多模态 AI 生成的 Windows 图形小应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "turanszkij/mini-ai 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 20 --> 24
-    line [21, 23, 23]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 20 --> 25
+    line [21, 23, 24]
 ```
 
-2026-10-23 21 → 2026-11-25 23（+2）
+2026-10-24 21 → 2026-11-26 24（+3）
 
 
 ---

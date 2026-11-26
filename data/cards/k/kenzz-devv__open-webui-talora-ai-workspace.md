@@ -1,6 +1,6 @@
 # kenzz-devv/open-webui-talora-ai-workspace
 
-⭐ 68 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kenzz-devv/open-webui-talora-ai-workspace) · 个人维护
+⭐ 48 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kenzz-devv/open-webui-talora-ai-workspace) · 个人维护
 
 **面向团队的多模型 AI 工作区：统一管理对话、模型与文档**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kenzz-devv/open-webui-talora-ai-workspace 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 57 --> 160
-    line [65, 152, 150, 147, 68]
+    title "kenzz-devv/open-webui-talora-ai-workspace 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 38 --> 162
+    line [65, 152, 150, 147, 68, 48]
 ```
 
-2026-11-20 65 → 2026-11-25 68（+3）
+2026-11-20 65 → 2026-11-26 48（-17）
 
 
 ---

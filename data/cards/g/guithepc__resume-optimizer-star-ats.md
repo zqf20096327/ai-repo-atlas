@@ -1,6 +1,6 @@
 # guithepc/resume-optimizer-star-ats
 
-⭐ 21 · 推送 2026-05-19 · [GitHub](https://github.com/guithepc/resume-optimizer-star-ats) · 个人维护
+⭐ 23 · 推送 2026-05-19 · [GitHub](https://github.com/guithepc/resume-optimizer-star-ats) · 个人维护
 
 **改写简历要点的 Claude 技能：STAR/XYZ 框架加 ATS 关键词审计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "guithepc/resume-optimizer-star-ats 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 17 --> 22
-    line [18, 19, 20, 21, 21]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 17 --> 24
+    line [18, 19, 20, 21, 23]
 ```
 
-2026-11-10 18 → 2026-11-25 21（+3）
+2026-11-10 18 → 2026-11-26 23（+5）
 
 
 ---

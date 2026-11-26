@@ -1,6 +1,6 @@
 # Thiggel/economize
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Thiggel/economize) · [官网](https://thiggel.github.io/economize/) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Thiggel/economize) · [官网](https://thiggel.github.io/economize/) · 个人维护
 
 **给 Hugging Face 语言模型叠加可组合推理加速技术的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Thiggel/economize 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-25 3（+0）
+2026-11-20 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Phat1911/Tributary
 
-⭐ 8 · Rust · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/Phat1911/Tributary) · 个人维护
+⭐ 8 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Phat1911/Tributary) · 个人维护
 
 **团队共享 AI 额度的自托管密钥治理网关**
 
@@ -46,12 +46,12 @@ Rust 编写的单容器自托管 AI token 池网关：组织将 provider 密钥�
 ```mermaid
 xychart-beta
     title "Phat1911/Tributary 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-11-01", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-10-28", "2026-11-01", "2026-11-26"]
     y-axis "stars" 5 --> 9
     line [6, 7, 8, 8]
 ```
 
-2026-10-26 6 → 2026-11-25 8（+2）
+2026-10-26 6 → 2026-11-26 8（+2）
 
 
 ---

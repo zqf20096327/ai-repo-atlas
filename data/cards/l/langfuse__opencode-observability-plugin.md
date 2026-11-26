@@ -43,13 +43,13 @@ OpenCode 插件，将 OpenCode 会话的用户轮次、助手生成、工具调�
 
 ```mermaid
 xychart-beta
-    title "langfuse/opencode-observability-plugin 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 33 --> 39
-    line [34, 35, 36, 38, 38]
+    title "langfuse/opencode-observability-plugin 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 34 --> 39
+    line [35, 36, 38, 38]
 ```
 
-2026-10-23 34 → 2026-11-25 38（+4）
+2026-10-24 35 → 2026-11-26 38（+3）
 
 
 ---

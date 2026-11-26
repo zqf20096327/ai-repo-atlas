@@ -1,6 +1,6 @@
 # Lyrcaxis/KokoroSharp
 
-⭐ 253 · C# · MIT · 推送 2026-08-14 · [GitHub](https://github.com/Lyrcaxis/KokoroSharp) · 个人维护
+⭐ 253 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Lyrcaxis/KokoroSharp) · 个人维护
 
 **C#/.NET 本地 Kokoro TTS 推理库：多说话人多语言语音合成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Lyrcaxis/KokoroSharp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22", "2026-11-26"]
     y-axis "stars" 247 --> 254
     line [248, 250, 251, 252, 253, 253]
 ```
 
-2026-10-23 248 → 2026-11-25 253（+5）
+2026-10-24 248 → 2026-11-26 253（+5）
 
 
 ---

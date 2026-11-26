@@ -1,6 +1,6 @@
 # kotuke/lumilo
 
-⭐ 7 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/kotuke/lumilo) · 个人维护
+⭐ 9 · Go · MIT · 推送 2026-11-09 · [GitHub](https://github.com/kotuke/lumilo) · 个人维护
 
 **macOS 菜单栏面板：管理本地 LLM 引擎的运行与监控**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "kotuke/lumilo 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-10", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 4 --> 8
-    line [5, 6, 7, 7]
+    x-axis ["2026-11-02", "2026-11-10", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 4 --> 10
+    line [5, 6, 7, 9]
 ```
 
-2026-11-02 5 → 2026-11-25 7（+2）
+2026-11-02 5 → 2026-11-26 9（+4）
 
 
 ---

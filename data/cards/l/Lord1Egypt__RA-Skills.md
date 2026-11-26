@@ -1,6 +1,6 @@
 # Lord1Egypt/RA-Skills
 
-⭐ 11 · 推送 2026-11-17 · [GitHub](https://github.com/Lord1Egypt/RA-Skills) · [官网](https://github.com/Lord1Egypt/RA-Skills) · 个人维护
+⭐ 12 · 推送 2026-11-25 · [GitHub](https://github.com/Lord1Egypt/RA-Skills) · [官网](https://github.com/Lord1Egypt/RA-Skills) · 个人维护
 
 **离线可用的 90,896 条 Hermes Agent 技能聚合仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Lord1Egypt/RA-Skills 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-19", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-19 10 → 2026-11-25 11（+1）
+2026-11-19 10 → 2026-11-26 12（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # vercel-labs/eve-memory-agent-template
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-memory-agent-template) · [官网](https://vercel.com/templates/eve/eve-memory-agent) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **保存并回忆用户偏好的 Slack AI 助手模板**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

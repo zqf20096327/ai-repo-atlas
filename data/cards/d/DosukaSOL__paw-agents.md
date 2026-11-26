@@ -1,6 +1,6 @@
 # DosukaSOL/paw-agents
 
-⭐ 22 · TypeScript · MIT · 推送 2026-04-22 · [GitHub](https://github.com/DosukaSOL/paw-agents) · 组织维护
+⭐ 23 · TypeScript · MIT · 推送 2026-04-22 · [GitHub](https://github.com/DosukaSOL/paw-agents) · 组织维护
 
 **自主 AI agent 框架：把自然语言转为安全可审计的跨渠道行动**
 
@@ -45,12 +45,12 @@ TypeScript 编写的自主 AI agent 运行框架：将自然语言经 INTENT→P
 ```mermaid
 xychart-beta
     title "DosukaSOL/paw-agents 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

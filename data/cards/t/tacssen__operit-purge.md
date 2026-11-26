@@ -1,6 +1,6 @@
 # tacssen/operit-purge
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/tacssen/operit-purge) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/tacssen/operit-purge) · 个人维护 · 中文 README
 
 **给 Operit 注入破甲提示词与拒答自动重答的 ToolPkg 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tacssen/operit-purge 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-19", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-19 3 → 2026-11-25 4（+1）
+2026-11-19 3 → 2026-11-26 5（+2）
 
 
 ---

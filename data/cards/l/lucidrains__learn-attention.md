@@ -1,6 +1,6 @@
 # lucidrains/learn-attention
 
-⭐ 63 · HTML · MIT · 推送 2026-11-19 · [GitHub](https://github.com/lucidrains/learn-attention) · [官网](https://lucidrains.github.io/learn-attention/) · 个人维护
+⭐ 63 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lucidrains/learn-attention) · [官网](https://lucidrains.github.io/learn-attention/) · 个人维护
 
 **面向学生的 attention 机制可视化讲解教程仓库**
 
@@ -43,12 +43,12 @@ lucidrains 维护的教学性质仓库（标注 wip），目标是以作者自�
 ```mermaid
 xychart-beta
     title "lucidrains/learn-attention 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 59 --> 64
     line [60, 61, 63, 63]
 ```
 
-2026-10-23 60 → 2026-11-25 63（+3）
+2026-10-24 60 → 2026-11-26 63（+3）
 
 
 ---

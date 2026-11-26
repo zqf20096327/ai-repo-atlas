@@ -1,6 +1,6 @@
 # thesysdev/openui-f1-dashboard
 
-⭐ 5 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/thesysdev/openui-f1-dashboard) · [官网](https://www.openui.com/demo/f1-dashboard) · 组织维护
+⭐ 5 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/thesysdev/openui-f1-dashboard) · [官网](https://www.openui.com/demo/f1-dashboard) · 组织维护
 
 **F1 聊天仪表盘：提问即得实时图表与数据表**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "thesysdev/openui-f1-dashboard 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 3, 5, 5]
 ```
 
-2026-10-24 3 → 2026-11-25 5（+2）
+2026-10-24 3 → 2026-11-26 5（+2）
 
 
 ---

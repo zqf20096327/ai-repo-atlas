@@ -1,6 +1,6 @@
 # Zero-stargazer/group-meeting-ppt-skill
 
-⭐ 20 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Zero-stargazer/group-meeting-ppt-skill) · 个人维护 · 中文 README
+⭐ 22 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/Zero-stargazer/group-meeting-ppt-skill) · 个人维护 · 中文 README
 
 **输入论文 PDF 生成可编辑中文组会汇报 PPTX 的 Codex Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Zero-stargazer/group-meeting-ppt-skill 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 14 --> 21
-    line [15, 16, 17, 15, 19, 20, 20]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 14 --> 23
+    line [15, 16, 17, 15, 19, 20, 22]
 ```
 
-2026-10-23 15 → 2026-11-25 20（+5）
+2026-10-24 15 → 2026-11-26 22（+7）
 
 
 ---

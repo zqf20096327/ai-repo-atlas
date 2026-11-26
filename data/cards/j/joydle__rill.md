@@ -41,6 +41,18 @@
 > L14: Rill renders Markdown that arrives incrementally, such as an LLM response streamed
 > L123: - **Layered, UI-free core.** `RillCore`, `RillMath`, and `RillAnalytics` never import
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "joydle/rill 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `cf14668cd188` · [字段定义](../../DATASET.md)*

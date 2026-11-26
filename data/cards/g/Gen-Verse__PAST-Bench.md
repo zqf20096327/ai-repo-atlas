@@ -1,6 +1,6 @@
 # Gen-Verse/PAST-Bench
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Gen-Verse/PAST-Bench) · [官网](https://arxiv.org/abs/2608.04003) · 组织维护 · 中文 README
+⭐ 40 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/Gen-Verse/PAST-Bench) · [官网](https://arxiv.org/abs/2608.04003) · 组织维护 · 中文 README
 
 **评测持久化 agent 跨会话自我改进能力的基准（26 任务族/204 集）**
 
@@ -44,13 +44,13 @@ PAST-Bench 是一个评测个人 agent 跨会话改进能力的基准：以有�
 
 ```mermaid
 xychart-beta
-    title "Gen-Verse/PAST-Bench 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 37, 38, 39]
+    title "Gen-Verse/PAST-Bench 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 34 --> 41
+    line [35, 36, 37, 38, 39, 40]
 ```
 
-2026-10-23 35 → 2026-11-25 39（+4）
+2026-10-24 35 → 2026-11-26 40（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # BerryUIKI/CatCup-Tavern
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/BerryUIKI/CatCup-Tavern) · [官网](https://berryuiki.github.io/CatCup-Tavern/) · 个人维护
+⭐ 35 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/BerryUIKI/CatCup-Tavern) · [官网](https://berryuiki.github.io/CatCup-Tavern/) · 个人维护
 
 **面向 SillyTavern 用户的 AI 角色扮演 Web/桌面客户端**
 
@@ -45,13 +45,13 @@ local-first 的 AI 角色扮演客户端，提供 Windows 安装包、浏览器�
 
 ```mermaid
 xychart-beta
-    title "BerryUIKI/CatCup-Tavern 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 6 --> 20
-    line [7, 12, 19]
+    title "BerryUIKI/CatCup-Tavern 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 37
+    line [7, 12, 19, 35]
 ```
 
-2026-11-22 7 → 2026-11-25 19（+12）
+2026-11-22 7 → 2026-11-26 35（+28）
 
 
 ---

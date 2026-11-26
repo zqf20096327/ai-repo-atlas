@@ -1,6 +1,6 @@
 # MelanthaCode/english-reading-analysis
 
-⭐ 3 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/MelanthaCode/english-reading-analysis) · [官网](https://github.com/MelanthaCode/english-reading-analysis) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MelanthaCode/english-reading-analysis) · [官网](https://github.com/MelanthaCode/english-reading-analysis) · 个人维护 · 中文 README
 
 **给 AI Agent 用的技能：英语试卷/文章转中文可打印解析**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MelanthaCode/english-reading-analysis 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-19 3 → 2026-11-25 3（+0）
+2026-11-19 3 → 2026-11-26 3（+0）
 
 
 ---

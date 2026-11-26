@@ -1,6 +1,6 @@
 # aayushch/codjiva
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/aayushch/codjiva) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/aayushch/codjiva) · 个人维护
 
 **面向开发者的代码可视化桌面应用：AI 将代码绘制为蓝图与动画**
 
@@ -48,12 +48,12 @@ Codjiva 是用 Tauri 和 Svelte 构建的桌面应用（macOS/Windows/Linux）�
 ```mermaid
 xychart-beta
     title "aayushch/codjiva 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-16 3 → 2026-11-25 4（+1）
+2026-11-16 3 → 2026-11-26 5（+2）
 
 
 ---

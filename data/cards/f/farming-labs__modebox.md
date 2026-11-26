@@ -1,6 +1,6 @@
 # farming-labs/modebox
 
-⭐ 3 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/farming-labs/modebox) · [官网](https://modebox.farming-labs.dev) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为 AI agent 提供 WebAssembly 沙箱，可安全执行工具调用脚本**
 
@@ -11,7 +11,7 @@ modebox 将 agent 生成的脚本运行在 WebAssembly 沙箱中，沙箱仅暴�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

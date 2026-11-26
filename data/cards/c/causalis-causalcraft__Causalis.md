@@ -1,6 +1,6 @@
 # causalis-causalcraft/Causalis
 
-⭐ 24 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/causalis-causalcraft/Causalis) · [官网](https://causalis.causalcraft.com/) · 组织维护
+⭐ 24 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/causalis-causalcraft/Causalis) · [官网](https://causalis.causalcraft.com/) · 组织维护
 
 **面向实验与观察研究的 Python 因果推断库**
 
@@ -45,12 +45,12 @@ Python 因果推断库，按研究场景（Classic RCT、CUPED、Unconfoundednes
 ```mermaid
 xychart-beta
     title "causalis-causalcraft/Causalis 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 24（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # ahnafnafee/local-llm-pdf-ocr
 
-⭐ 136 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ahnafnafee/local-llm-pdf-ocr) · [官网](https://www.ahnafnafee.dev/blog/local-llm-pdf-ocr) · 个人维护
+⭐ 137 · Python · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ahnafnafee/local-llm-pdf-ocr) · [官网](https://www.ahnafnafee.dev/blog/local-llm-pdf-ocr) · 个人维护
 
 **本地视觉 LLM OCR 工具：把扫描 PDF 转成可搜索文档**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ahnafnafee/local-llm-pdf-ocr 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 127 --> 137
-    line [128, 129, 128, 130, 132, 133, 134, 135, 136]
+    title "ahnafnafee/local-llm-pdf-ocr 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 127 --> 138
+    line [128, 129, 128, 130, 132, 133, 134, 135, 136, 137]
 ```
 
-2026-10-23 128 → 2026-11-25 136（+8）
+2026-10-24 128 → 2026-11-26 137（+9）
 
 
 ---

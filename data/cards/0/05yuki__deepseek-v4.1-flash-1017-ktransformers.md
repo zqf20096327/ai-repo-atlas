@@ -1,6 +1,6 @@
 # 05yuki/deepseek-v4.1-flash-1017-ktransformers
 
-⭐ 7 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/05yuki/deepseek-v4.1-flash-1017-ktransformers) · 个人维护
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/05yuki/deepseek-v4.1-flash-1017-ktransformers) · 个人维护
 
 **单机部署 DeepSeek-V4.1-Flash-1017 的 CPU/GPU 混合推理脚本集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "05yuki/deepseek-v4.1-flash-1017-ktransformers 星数(近 7 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 3, 4, 5, 7, 7]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-29", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 2 --> 10
+    line [3, 4, 3, 4, 5, 7, 9]
 ```
 
-2026-10-25 3 → 2026-11-25 7（+4）
+2026-10-25 3 → 2026-11-26 9（+6）
 
 
 ---

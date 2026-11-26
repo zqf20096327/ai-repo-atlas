@@ -1,6 +1,6 @@
 # Dirgha-AI/dirgha
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Dirgha-AI/dirgha) · [官网](https://dirgha.ai) · 组织维护
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Dirgha-AI/dirgha) · [官网](https://dirgha.ai) · 组织维护
 
 **本地运行的终端 AI 编码 agent，带安全门与审计**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Dirgha-AI/dirgha 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-11-21 16 → 2026-11-25 16（+0）
+2026-11-21 16 → 2026-11-26 16（+0）
 
 
 ---

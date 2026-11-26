@@ -1,6 +1,6 @@
 # Binfufu/Megu-bot
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Binfufu/Megu-bot) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Binfufu/Megu-bot) · 个人维护 · 中文 README
 
 **接入 QQ 的长期陪伴角色聊天机器人框架**
 
@@ -46,12 +46,12 @@ Node.js 编写的开源 QQ 机器人框架（公开 v1 子集），面向长期�
 ```mermaid
 xychart-beta
     title "Binfufu/Megu-bot 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-15", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-25 3（+0）
+2026-11-15 3 → 2026-11-26 3（+0）
 
 
 ---

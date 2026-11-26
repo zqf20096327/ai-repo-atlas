@@ -1,6 +1,6 @@
 # editor-code-assistant/eca-intellij
 
-⭐ 19 · Clojure · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/editor-code-assistant/eca-intellij) · [官网](https://plugins.jetbrains.com/plugin/28289-eca) · 组织维护
+⭐ 19 · Clojure · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/editor-code-assistant/eca-intellij) · [官网](https://plugins.jetbrains.com/plugin/28289-eca) · 组织维护
 
 **为 IntelliJ 接入 ECA 的 AI 结对编程插件客户端**
 
@@ -44,12 +44,12 @@ JetBrains 平台插件，作为 Editor Code Assistant (ECA) 的 IntelliJ 客户�
 ```mermaid
 xychart-beta
     title "editor-code-assistant/eca-intellij 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

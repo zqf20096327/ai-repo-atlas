@@ -1,6 +1,6 @@
 # zosmaai/zosma-cowork
 
-⭐ 120 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/zosmaai/zosma-cowork) · [官网](https://www.zosma.ai/zosma-cowork) · 组织维护
+⭐ 121 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/zosmaai/zosma-cowork) · [官网](https://www.zosma.ai/zosma-cowork) · 组织维护
 
 **面向团队的开源 AI 工作平台：跨机器运行与监督 AI agent**
 
@@ -45,12 +45,12 @@ MIT 许可的 work-focused AI agent 平台，供个人、小团队与企业在�
 ```mermaid
 xychart-beta
     title "zosmaai/zosma-cowork 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 119 --> 123
-    line [122, 121, 120, 122, 120, 120]
+    line [122, 121, 120, 122, 120, 121]
 ```
 
-2026-10-23 122 → 2026-11-25 120（-2）
+2026-10-24 122 → 2026-11-26 121（-1）
 
 
 ---

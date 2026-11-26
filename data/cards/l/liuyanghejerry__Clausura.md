@@ -1,6 +1,6 @@
 # liuyanghejerry/Clausura
 
-⭐ 205 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/liuyanghejerry/Clausura) · 个人维护 · 中文 README
+⭐ 205 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/liuyanghejerry/Clausura) · 个人维护 · 中文 README
 
 **CI 流水线中的 LLM agent 门禁 CLI：结构化发现+确定性判定**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "liuyanghejerry/Clausura 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 203 --> 206
     line [204, 205, 205]
 ```
 
-2026-10-23 204 → 2026-11-25 205（+1）
+2026-10-24 204 → 2026-11-26 205（+1）
 
 
 ---

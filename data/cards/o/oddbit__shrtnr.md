@@ -1,6 +1,6 @@
 # oddbit/shrtnr
 
-⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/oddbit/shrtnr) · [官网](https://oddbit.id/en/projects/shrtnr) · 组织维护
+⭐ 33 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/oddbit/shrtnr) · [官网](https://oddbit.id/en/projects/shrtnr) · 组织维护
 
 **自托管短链服务：REST API、类型化 SDK 与原生 MCP server**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oddbit/shrtnr 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-23 33 → 2026-11-25 33（+0）
+2026-10-24 33 → 2026-11-26 33（+0）
 
 
 ---

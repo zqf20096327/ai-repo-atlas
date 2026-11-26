@@ -1,6 +1,6 @@
 # vibegui/zapzero
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/vibegui/zapzero) · [官网](https://zapzero.dev) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/vibegui/zapzero) · [官网](https://zapzero.dev) · 个人维护
 
 **macOS 上的 WhatsApp 收件箱清零工具：AI 分诊并代拟回复**
 
@@ -46,12 +46,12 @@ zapzero 以只读方式复制 Mac 上 WhatsApp Desktop 的本地 SQLite 数据�
 ```mermaid
 xychart-beta
     title "vibegui/zapzero 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-19", "2026-11-26"]
     y-axis "stars" 4 --> 8
-    line [5, 6, 7, 7]
+    line [5, 6, 7, 6]
 ```
 
-2026-11-08 5 → 2026-11-25 7（+2）
+2026-11-08 5 → 2026-11-26 6（+1）
 
 
 ---

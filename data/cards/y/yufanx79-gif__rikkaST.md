@@ -1,6 +1,6 @@
 # yufanx79-gif/rikkaST
 
-⭐ 19 · Kotlin · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/yufanx79-gif/rikkaST) · 个人维护 · 中文 README
+⭐ 19 · Kotlin · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/yufanx79-gif/rikkaST) · 个人维护 · 中文 README
 
 **面向 Android 用户的酒馆角色扮演聊天客户端**
 
@@ -40,6 +40,18 @@
 > L7: rikkaST 是一个基于 RikkaHub 定制的原生 Android 大模型聊天客户端，内建 SillyTavern（酒馆）兼容层，目标是让酒馆的角色卡、世界书、预设、提示词处理和第三方扩展生态更自然地运行在手机上。
 > L30: SillyTavern 的角色卡、世界书、预设、宏、正则和第三方扩展构成了一套相互关联的生态。但这套生态主要围绕网页环境构建，在手机上使用时，浏览器性能、界面交互和扩展兼容性都可能成为障碍。
 > L167: - 模型与聊天：多模型提供商、流式输出、对话分支、消息编辑及重新生成等。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yufanx79-gif/rikkaST 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-25 19 → 2026-11-26 19（+0）
 
 
 ---

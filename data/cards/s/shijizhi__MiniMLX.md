@@ -1,6 +1,6 @@
 # shijizhi/MiniMLX
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-05 · [GitHub](https://github.com/shijizhi/MiniMLX) · 组织维护 · 中文 README
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/shijizhi/MiniMLX) · 组织维护 · 中文 README
 
 **在 Apple Silicon Mac 上运行与服务 MLX 模型的原生应用**
 
@@ -45,12 +45,12 @@ MiniMLX 是一款原生 macOS 应用，将 MLX 格式模型的搜索下载、本
 ```mermaid
 xychart-beta
     title "shijizhi/MiniMLX 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-25 4（+0）
+2026-11-08 4 → 2026-11-26 4（+0）
 
 
 ---

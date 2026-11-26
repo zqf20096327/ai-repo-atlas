@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheManuelML/obsidian-agent 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 69 --> 73
-    line [70, 71, 72, 72]
+    title "TheManuelML/obsidian-agent 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 70 --> 73
+    line [71, 72, 72]
 ```
 
-2026-10-23 70 → 2026-11-25 72（+2）
+2026-10-24 71 → 2026-11-26 72（+1）
 
 
 ---

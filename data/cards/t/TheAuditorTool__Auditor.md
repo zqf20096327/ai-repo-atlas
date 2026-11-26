@@ -1,6 +1,6 @@
 # TheAuditorTool/Auditor
 
-⭐ 550 · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/TheAuditorTool/Auditor) · [官网](https://blog.theauditortool.com) · 组织维护
+⭐ 549 · NOASSERTION · 推送 2026-07-23 · [GitHub](https://github.com/TheAuditorTool/Auditor) · [官网](https://blog.theauditortool.com) · 组织维护
 
 **本地数据库优先的代码智能与多语言 SAST 平台（尚未发布）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TheAuditorTool/Auditor 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-19", "2026-11-22", "2026-11-26"]
     y-axis "stars" 548 --> 551
-    line [549, 550, 549, 550, 550]
+    line [549, 550, 549, 550, 549]
 ```
 
-2026-10-23 549 → 2026-11-25 550（+1）
+2026-10-24 549 → 2026-11-26 549（+0）
 
 
 ---

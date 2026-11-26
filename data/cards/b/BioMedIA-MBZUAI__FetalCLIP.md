@@ -1,6 +1,6 @@
 # BioMedIA-MBZUAI/FetalCLIP
 
-⭐ 81 · Python · NOASSERTION · 推送 2026-02-05 · [GitHub](https://github.com/BioMedIA-MBZUAI/FetalCLIP) · [官网](https://biomedia-mbzuai.github.io/FetalCLIP/) · 组织维护
+⭐ 80 · Python · NOASSERTION · 推送 2026-02-05 · [GitHub](https://github.com/BioMedIA-MBZUAI/FetalCLIP) · [官网](https://biomedia-mbzuai.github.io/FetalCLIP/) · 组织维护
 
 **面向胎儿超声图像分析的视觉-语言基础模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BioMedIA-MBZUAI/FetalCLIP 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26"]
     y-axis "stars" 77 --> 82
-    line [78, 79, 80, 81, 81]
+    line [78, 79, 80, 81, 80]
 ```
 
-2026-10-23 78 → 2026-11-25 81（+3）
+2026-10-24 78 → 2026-11-26 80（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # cslylla/actually-remote
 
-⭐ 13 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/cslylla/actually-remote) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cslylla/actually-remote) · 个人维护
 
 **自托管全球远程职位监控机器人：AI 打分并每日推送匹配职位**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cslylla/actually-remote 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "cslylla/actually-remote 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 12 --> 15
-    line [14, 13]
+    line [14, 13, 13]
 ```
 
-2026-10-23 14 → 2026-11-25 13（-1）
+2026-10-24 14 → 2026-11-26 13（-1）
 
 
 ---

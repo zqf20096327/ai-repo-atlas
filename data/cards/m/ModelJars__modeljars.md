@@ -1,6 +1,6 @@
 # ModelJars/modeljars
 
-⭐ 30 · Java · NOASSERTION · 推送 2026-11-15 · [GitHub](https://github.com/ModelJars/modeljars) · [官网](https://modeljars.org) · 组织维护
+⭐ 30 · Java · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ModelJars/modeljars) · [官网](https://modeljars.org) · 组织维护
 
 **JVM 生态的模型编目与分发规范：用 Maven 坐标管理本地模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ModelJars/modeljars 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 25 --> 31
     line [26, 27, 26, 30, 30]
 ```
 
-2026-10-23 26 → 2026-11-25 30（+4）
+2026-10-24 26 → 2026-11-26 30（+4）
 
 
 ---

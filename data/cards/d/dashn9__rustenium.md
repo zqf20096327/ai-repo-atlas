@@ -1,6 +1,6 @@
 # dashn9/rustenium
 
-⭐ 27 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dashn9/rustenium) · 个人维护
+⭐ 28 · Rust · MIT · 推送 2026-10-25 · [GitHub](https://github.com/dashn9/rustenium) · 个人维护
 
 **Rust 多协议浏览器自动化库：同时支持 WebDriver BiDi 与 CDP**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dashn9/rustenium 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 24 --> 28
-    line [25, 27, 25, 27, 27]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 24 --> 29
+    line [25, 27, 25, 27, 28]
 ```
 
-2026-10-23 25 → 2026-11-25 27（+2）
+2026-10-24 25 → 2026-11-26 28（+3）
 
 
 ---

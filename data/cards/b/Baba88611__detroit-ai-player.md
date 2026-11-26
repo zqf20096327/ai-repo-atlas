@@ -1,6 +1,6 @@
 # Baba88611/detroit-ai-player
 
-⭐ 75 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Baba88611/detroit-ai-player) · [官网](https://github.com/Baba88611/detroit-ai-player) · 个人维护 · 中文 README
+⭐ 77 · Python · MIT · 推送 2026-10-08 · [GitHub](https://github.com/Baba88611/detroit-ai-player) · [官网](https://github.com/Baba88611/detroit-ai-player) · 个人维护 · 中文 README
 
 **让 LLM 自主游玩《底特律：变人》剧情决策树的实验框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Baba88611/detroit-ai-player 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 69 --> 76
-    line [70, 71, 72, 73, 71, 73, 74, 75, 75]
+    title "Baba88611/detroit-ai-player 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 70 --> 78
+    line [71, 72, 73, 71, 73, 74, 75, 77]
 ```
 
-2026-10-23 70 → 2026-11-25 75（+5）
+2026-10-24 71 → 2026-11-26 77（+6）
 
 
 ---

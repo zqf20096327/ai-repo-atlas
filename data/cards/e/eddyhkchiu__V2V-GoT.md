@@ -1,6 +1,6 @@
 # eddyhkchiu/V2V-GoT
 
-⭐ 30 · Python · 推送 2026-04-01 · [GitHub](https://github.com/eddyhkchiu/V2V-GoT) · [官网](https://arxiv.org/abs/2509.18053) · 组织维护
+⭐ 31 · Python · 推送 2026-04-01 · [GitHub](https://github.com/eddyhkchiu/V2V-GoT) · [官网](https://arxiv.org/abs/2509.18053) · 组织维护
 
 **车联网协同自动驾驶的 MLLM 图思维推理框架（ICRA2026 论文代码）**
 
@@ -45,12 +45,12 @@ NVIDIA 与 CMU 研究者的论文官方代码：提出首个面向 MLLM 协同�
 ```mermaid
 xychart-beta
     title "eddyhkchiu/V2V-GoT 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 31（+1）
 
 
 ---

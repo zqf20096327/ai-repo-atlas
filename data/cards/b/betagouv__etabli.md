@@ -1,6 +1,6 @@
 # betagouv/etabli
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/betagouv/etabli) · [官网](https://etabli.incubateur.net) · 组织维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/betagouv/etabli) · [官网](https://etabli.incubateur.net) · 组织维护
 
 **法国公共数字举措目录搜索平台，支持对话式助手查询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "betagouv/etabli 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

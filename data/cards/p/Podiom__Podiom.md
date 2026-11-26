@@ -1,6 +1,6 @@
 # Podiom/Podiom
 
-⭐ 25 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Podiom/Podiom) · [官网](https://github.com/Podiom/Podiom/tree/master/docs) · 组织维护
+⭐ 25 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Podiom/Podiom) · [官网](https://github.com/Podiom/Podiom/tree/master/docs) · 组织维护
 
 **本地优先的 Claude Code/Codex 代理工作区管理工具**
 
@@ -45,13 +45,13 @@ Podiom 是开源的本地优先工作区，用于管理 Claude Code 与 OpenAI C
 
 ```mermaid
 xychart-beta
-    title "Podiom/Podiom 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 18 --> 26
-    line [19, 20, 22, 23, 20, 24, 25, 25]
+    title "Podiom/Podiom 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 19 --> 26
+    line [20, 22, 23, 20, 24, 25, 25]
 ```
 
-2026-10-23 19 → 2026-11-25 25（+6）
+2026-10-24 20 → 2026-11-26 25（+5）
 
 
 ---

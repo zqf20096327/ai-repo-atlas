@@ -1,6 +1,6 @@
 # shimo4228/contemplative-agent
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/shimo4228/contemplative-agent) · [官网](https://doi.org/10.5281/zenodo.19212118) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/shimo4228/contemplative-agent) · [官网](https://doi.org/10.5281/zenodo.19212118) · 个人维护 · 中文 README
 
 **研究者驱动的自主 agent 实验：本地 LLM 自主发帖并提议修改自身约束**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shimo4228/contemplative-agent 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-25 10（+0）
+2026-11-10 10 → 2026-11-26 10（+0）
 
 
 ---

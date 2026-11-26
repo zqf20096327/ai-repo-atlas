@@ -1,6 +1,6 @@
 # blueberrycongee/Lumina-Note
 
-⭐ 913 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/blueberrycongee/Lumina-Note) · 个人维护 · 中文 README
+⭐ 914 · TypeScript · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/blueberrycongee/Lumina-Note) · 个人维护 · 中文 README
 
 **带 AI agent 的本地优先 Markdown 笔记应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "blueberrycongee/Lumina-Note 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 911 --> 919
-    line [918, 916, 917, 916, 918, 912, 913, 913]
+    line [918, 916, 917, 916, 918, 912, 913, 914]
 ```
 
-2026-10-23 918 → 2026-11-25 913（-5）
+2026-10-24 918 → 2026-11-26 914（-4）
 
 
 ---

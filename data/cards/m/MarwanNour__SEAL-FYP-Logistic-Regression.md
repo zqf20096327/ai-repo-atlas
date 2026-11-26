@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MarwanNour/SEAL-FYP-Logistic-Regression 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 32 --> 34
     line [33, 33]
 ```
 
-2026-10-23 33 → 2026-11-25 33（+0）
+2026-10-24 33 → 2026-11-26 33（+0）
 
 
 ---

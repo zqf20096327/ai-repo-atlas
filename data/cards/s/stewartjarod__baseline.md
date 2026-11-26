@@ -1,6 +1,6 @@
 # stewartjarod/baseline
 
-⭐ 10 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/stewartjarod/baseline) · [官网](https://www.npmjs.com/package/code-baseline) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/stewartjarod/baseline) · [官网](https://www.npmjs.com/package/code-baseline) · 个人维护
 
 **约束 AI 生成代码的 CI 架构规则工具：禁用、棘轮与设计系统强制**
 
@@ -46,12 +46,12 @@ Rust 编写的单二进制 CI 工具，通过 baseline.toml 配置强制团队�
 ```mermaid
 xychart-beta
     title "stewartjarod/baseline 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

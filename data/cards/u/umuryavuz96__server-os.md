@@ -1,6 +1,6 @@
 # umuryavuz96/server-os
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/umuryavuz96/server-os) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/umuryavuz96/server-os) · 个人维护
 
 **自托管家庭服务器控制面板：macOS/Linux 主机监控、应用开关与 Claude Code agent 运维**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "umuryavuz96/server-os 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 6, 6]
+    x-axis ["2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 3 --> 8
+    line [4, 6, 7]
 ```
 
-2026-11-08 4 → 2026-11-25 6（+2）
+2026-11-08 4 → 2026-11-26 7（+3）
 
 
 ---

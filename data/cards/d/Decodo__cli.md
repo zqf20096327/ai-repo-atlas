@@ -1,6 +1,6 @@
 # Decodo/cli
 
-⭐ 12 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Decodo/cli) · [官网](https://decodo.com/scraping/web) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Decodo/cli) · [官网](https://decodo.com/scraping/web) · 组织维护
 
 **终端网页抓取 CLI，供脚本与 AI agent 调用获取网页数据**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Decodo/cli 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "Decodo/cli 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-23 10 → 2026-11-25 12（+2）
+2026-10-24 10 → 2026-11-26 13（+3）
 
 
 ---

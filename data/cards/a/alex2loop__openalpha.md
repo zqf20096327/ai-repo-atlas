@@ -1,6 +1,6 @@
 # alex2loop/openalpha
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alex2loop/openalpha) · [官网](https://openalpha.link) · 个人维护 · 中文 README
+⭐ 8 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alex2loop/openalpha) · [官网](https://openalpha.link) · 个人维护 · 中文 README
 
 **自托管 AI 投研团队：多角色分析辩论后给出交易计划**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alex2loop/openalpha 星数(近 5 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-10-31", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-10-30", "2026-10-31", "2026-11-12", "2026-11-26"]
     y-axis "stars" 3 --> 9
     line [4, 6, 7, 8, 8]
 ```
 
-2026-10-28 4 → 2026-11-25 8（+4）
+2026-10-28 4 → 2026-11-26 8（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # shorin-nikita/lisa
 
-⭐ 85 · Python · Apache-2.0 · 推送 2026-03-13 · [GitHub](https://github.com/shorin-nikita/lisa) · [官网](https://aibot.direct) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **自托管本地 AI 平台：n8n+Ollama+Supabase+RAG 一键部署**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

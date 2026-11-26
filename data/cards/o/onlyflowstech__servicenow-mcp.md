@@ -1,6 +1,6 @@
 # onlyflowstech/servicenow-mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/onlyflowstech/servicenow-mcp) · [官网](https://onlyflows.tech) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/onlyflowstech/servicenow-mcp) · [官网](https://onlyflows.tech) · 组织维护
 
 **面向 ServiceNow 的 MCP 服务器：19 个工具覆盖 CRUD、CMDB 与 ATF**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "onlyflowstech/servicenow-mcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    title "onlyflowstech/servicenow-mcp 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

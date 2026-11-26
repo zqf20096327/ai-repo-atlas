@@ -1,6 +1,6 @@
 # HarryHsing/OmniAgent
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/HarryHsing/OmniAgent) · [官网](https://huggingface.co/spaces/harryhsing/OmniAgent-Slides) · 组织维护 · 中文 README
+⭐ 91 · Python · Apache-2.0 · 推送 2026-09-18 · [GitHub](https://github.com/HarryHsing/OmniAgent) · [官网](https://huggingface.co/spaces/harryhsing/OmniAgent-Slides) · 组织维护 · 中文 README
 
 **全模态主动感知视频理解 agent（7B），感知即推理迭代取帧/音频**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "HarryHsing/OmniAgent 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 79 --> 91
-    line [80, 81, 82, 83, 84, 80, 86, 88, 90, 90]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 79 --> 92
+    line [80, 81, 82, 83, 84, 80, 86, 88, 90, 91]
 ```
 
-2026-10-23 80 → 2026-11-25 90（+10）
+2026-10-24 80 → 2026-11-26 91（+11）
 
 
 ---

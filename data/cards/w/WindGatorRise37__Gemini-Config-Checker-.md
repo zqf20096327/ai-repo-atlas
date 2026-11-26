@@ -1,6 +1,6 @@
 # WindGatorRise37/Gemini-Config-Checker-
 
-⭐ 464 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/WindGatorRise37/Gemini-Config-Checker-) · 个人维护
+⭐ 451 · Makefile · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/WindGatorRise37/Gemini-Config-Checker-) · 个人维护
 
 **测试代理配置能否进入 Google AI Studio/Gemini 的链路扫描工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "WindGatorRise37/Gemini-Config-Checker- 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 463 --> 476
-    line [475, 473, 472, 469, 464]
+    title "WindGatorRise37/Gemini-Config-Checker- 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 449 --> 477
+    line [475, 473, 472, 469, 464, 451]
 ```
 
-2026-11-15 475 → 2026-11-25 464（-11）
+2026-11-15 475 → 2026-11-26 451（-24）
 
 
 ---

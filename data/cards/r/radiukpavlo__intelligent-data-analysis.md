@@ -1,6 +1,6 @@
 # radiukpavlo/intelligent-data-analysis
 
-⭐ 13 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/radiukpavlo/intelligent-data-analysis) · 组织维护
+⭐ 13 · Jupyter Notebook · 推送 2026-11-24 · [GitHub](https://github.com/radiukpavlo/intelligent-data-analysis) · 组织维护
 
 **计算机科学专业本科智能数据分析课程资料**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "radiukpavlo/intelligent-data-analysis 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

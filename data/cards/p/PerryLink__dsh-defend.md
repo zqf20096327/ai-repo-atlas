@@ -1,6 +1,6 @@
 # PerryLink/dsh-defend
 
-⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-defend) · [官网](https://www.npmjs.com/package/dsh-defend) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PerryLink/dsh-defend) · [官网](https://www.npmjs.com/package/dsh-defend) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的提示注入/越狱/密钥泄露防御插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PerryLink/dsh-defend 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 21 --> 32
-    line [23, 22, 23, 22, 27, 28, 29, 30, 31]
+    line [22, 23, 22, 27, 28, 29, 30, 31, 31]
 ```
 
-2026-10-23 23 → 2026-11-25 31（+8）
+2026-10-24 22 → 2026-11-26 31（+9）
 
 
 ---

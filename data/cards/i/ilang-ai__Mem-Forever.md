@@ -1,6 +1,6 @@
 # ilang-ai/Mem-Forever
 
-⭐ 28 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/ilang-ai/Mem-Forever) · [官网](https://ilang.ai) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ilang-ai/Mem-Forever) · [官网](https://ilang.ai) · 个人维护 · 中文 README
 
 **面向 AI 编程工具的 Git 原生持久记忆模板仓库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ilang-ai/Mem-Forever 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 19 --> 29
     line [20, 21, 20, 21, 24, 28, 28]
 ```
 
-2026-10-23 20 → 2026-11-25 28（+8）
+2026-10-24 20 → 2026-11-26 28（+8）
 
 
 ---

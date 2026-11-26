@@ -41,6 +41,18 @@
 > L17: LangChain does this but needs hundreds of lines of setup. **flowmcp does it in 5 lines.**
 > L103: ## How it works
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SreejaPasula/flowmcp 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `109f7d208e89` · [字段定义](../../DATASET.md)*

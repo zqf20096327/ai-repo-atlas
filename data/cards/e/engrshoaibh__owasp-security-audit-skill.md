@@ -1,6 +1,6 @@
 # engrshoaibh/owasp-security-audit-skill
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/engrshoaibh/owasp-security-audit-skill) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/engrshoaibh/owasp-security-audit-skill) · 个人维护
 
 **供 AI 编码代理执行的 OWASP 安全审计技能与漏洞扫描工具集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "engrshoaibh/owasp-security-audit-skill 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-18 4 → 2026-11-25 4（+0）
+2026-11-18 4 → 2026-11-26 4（+0）
 
 
 ---

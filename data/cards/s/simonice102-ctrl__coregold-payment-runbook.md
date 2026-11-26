@@ -1,6 +1,6 @@
 # simonice102-ctrl/coregold-payment-runbook
 
-⭐ 94 · 推送 2026-10-30 · [GitHub](https://github.com/simonice102-ctrl/coregold-payment-runbook) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 119 · 推送 2026-10-30 · [GitHub](https://github.com/simonice102-ctrl/coregold-payment-runbook) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **海外绑卡与支付报错排查手册，配套 CoreGold 虚拟卡操作流程**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "simonice102-ctrl/coregold-payment-runbook 星数(近 11 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 0 --> 103
-    line [4, 8, 48, 69, 83, 88, 93, 92, 89, 90, 94]
+    title "simonice102-ctrl/coregold-payment-runbook 星数(近 12 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 130
+    line [4, 8, 48, 69, 83, 88, 93, 92, 89, 90, 94, 119]
 ```
 
-2026-10-31 4 → 2026-11-25 94（+90）
+2026-10-31 4 → 2026-11-26 119（+115）
 
 
 ---

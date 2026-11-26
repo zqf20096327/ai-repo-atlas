@@ -1,6 +1,6 @@
 # open-assistant-org/open-assistant
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/open-assistant-org/open-assistant) · [官网](https://open-assistant.org) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/open-assistant-org/open-assistant) · [官网](https://open-assistant.org) · 组织维护
 
 **自托管个人 AI 助手：把邮件/日历/文件/笔记统一进对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "open-assistant-org/open-assistant 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 17, 19, 19]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 17, 19, 20]
 ```
 
-2026-10-23 17 → 2026-11-25 19（+2）
+2026-10-24 17 → 2026-11-26 20（+3）
 
 
 ---

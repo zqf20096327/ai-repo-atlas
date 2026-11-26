@@ -1,6 +1,6 @@
 # comet-ml/comet-examples
 
-⭐ 177 · Jupyter Notebook · 推送 2026-11-04 · [GitHub](https://github.com/comet-ml/comet-examples) · 组织维护
+⭐ 177 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/comet-ml/comet-examples) · 组织维护
 
 **Comet ML 实验追踪的代码示例集（多框架）**
 
@@ -11,7 +11,7 @@ Comet 官方维护的机器学习示例仓库，展示如何在 PyTorch、Keras�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -43,13 +43,13 @@ Comet 官方维护的机器学习示例仓库，展示如何在 PyTorch、Keras�
 
 ```mermaid
 xychart-beta
-    title "comet-ml/comet-examples 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 173 --> 178
-    line [174, 175, 176, 177, 177]
+    title "comet-ml/comet-examples 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 174 --> 178
+    line [175, 176, 177, 177]
 ```
 
-2026-10-23 174 → 2026-11-25 177（+3）
+2026-10-24 175 → 2026-11-26 177（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # OneCreditMY/ds-take-home
 
-⭐ 5 · HTML · 推送 2026-11-19 · [GitHub](https://github.com/OneCreditMY/ds-take-home) · 组织维护
+⭐ 6 · HTML · 推送 2026-11-19 · [GitHub](https://github.com/OneCreditMY/ds-take-home) · 组织维护
 
 **面向初级数据科学家的 LLM 招聘带回家测评题**
 
@@ -46,12 +46,12 @@ OneCredit 发布的数据科学岗位带回家测评模板：候选人生成一�
 ```mermaid
 xychart-beta
     title "OneCreditMY/ds-take-home 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-11-20 3 → 2026-11-25 5（+2）
+2026-11-20 3 → 2026-11-26 6（+3）
 
 
 ---

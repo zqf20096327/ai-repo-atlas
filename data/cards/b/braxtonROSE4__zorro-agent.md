@@ -1,6 +1,6 @@
 # braxtonROSE4/zorro-agent
 
-⭐ 10 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/braxtonROSE4/zorro-agent) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-04-14 · [GitHub](https://github.com/braxtonROSE4/zorro-agent) · 个人维护
 
 **自进化 CLI agent：将使用经验转化为领域知识与可执行技能**
 
@@ -46,12 +46,12 @@ Python CLI agent 框架，核心是经验进化循环：每轮对话用正则引
 ```mermaid
 xychart-beta
     title "braxtonROSE4/zorro-agent 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-24 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

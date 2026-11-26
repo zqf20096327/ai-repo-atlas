@@ -1,6 +1,6 @@
 # dartdavros/chatballs
 
-⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/dartdavros/chatballs) · [官网](https://chatballs.ru) · 个人维护
+⭐ 21 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/dartdavros/chatballs) · [官网](https://chatballs.ru) · 个人维护
 
 **自托管 AI 客服平台：在多渠道自动应答客户，难题转人工**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dartdavros/chatballs 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
     y-axis "stars" 20 --> 23
     line [22, 21, 21]
 ```
 
-2026-10-23 22 → 2026-11-25 21（-1）
+2026-10-24 22 → 2026-11-26 21（-1）
 
 
 ---

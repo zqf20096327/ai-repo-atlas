@@ -1,6 +1,6 @@
 # mtrnix/metronix-memory
 
-⭐ 107 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/mtrnix/metronix-memory) · [官网](https://mtrnix.com) · 组织维护
+⭐ 107 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/mtrnix/metronix-memory) · [官网](https://mtrnix.com) · 组织维护
 
 **自托管的 AI agent 记忆服务器：MCP 接入、混合检索、持久记忆**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mtrnix/metronix-memory 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-26"]
     y-axis "stars" 105 --> 108
     line [107, 106, 107, 107]
 ```
 
-2026-10-23 107 → 2026-11-25 107（+0）
+2026-10-24 107 → 2026-11-26 107（+0）
 
 
 ---

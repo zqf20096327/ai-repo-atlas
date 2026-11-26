@@ -1,6 +1,6 @@
 # skyliulu/LLM-Infra-Explorer
 
-⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/skyliulu/LLM-Infra-Explorer) · [官网](http://skyliulu.github.io/LLM-Infra-Explorer/) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/skyliulu/LLM-Infra-Explorer) · [官网](http://skyliulu.github.io/LLM-Infra-Explorer/) · 个人维护 · 中文 README
 
 **LLM 推理系统与底层机制的交互式可视化教学工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "skyliulu/LLM-Infra-Explorer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

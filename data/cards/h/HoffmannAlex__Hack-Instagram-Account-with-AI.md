@@ -46,12 +46,12 @@ Python 编写的 Instagram 密码强度测试工具，声称用于弱密码漏�
 ```mermaid
 xychart-beta
     title "HoffmannAlex/Hack-Instagram-Account-with-AI 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
     y-axis "stars" 10 --> 13
     line [11, 12, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

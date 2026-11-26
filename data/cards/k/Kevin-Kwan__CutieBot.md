@@ -1,6 +1,6 @@
 # Kevin-Kwan/CutieBot
 
-⭐ 28 · JavaScript · 推送 2026-07-18 · [GitHub](https://github.com/Kevin-Kwan/CutieBot) · 个人维护
+⭐ 28 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/Kevin-Kwan/CutieBot) · 个人维护
 
 **多功能 Discord 机器人：音乐、经济、管理并接入 ChatGPT 聊天**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "Kevin-Kwan/CutieBot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # xyzhhh123/Gradus
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xyzhhh123/Gradus) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xyzhhh123/Gradus) · 个人维护
 
 **面向开发者的分层 coding agent 运行时与 CLI/Web UI**
 
@@ -40,6 +40,18 @@
 > L8: **分层的 Coding Agent 运行时。** Gradus 把模型的流式输出变成能调用工具的会话，并给每个会话一份私有的 workspace 副本，会话结束时再合回宿主。
 > L30: 3. 🧰 **它是运行时，不是应用。** 四个包，import 单向。`ai` 对其上层一无所知，所以你可以只取协议层；`agent` 给你循环与门面，不附带 CLI。
 > L120: gradus/coding    产品层        配置、会话、工具、权限、沙箱、MCP、CLI
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xyzhhh123/Gradus 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

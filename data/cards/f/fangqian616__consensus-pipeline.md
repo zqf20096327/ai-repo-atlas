@@ -1,6 +1,6 @@
 # fangqian616/consensus-pipeline
 
-⭐ 120 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/fangqian616/consensus-pipeline) · [官网](https://consensus-pipeline.streamlit.app/) · 个人维护 · 中文 README
+⭐ 121 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/fangqian616/consensus-pipeline) · [官网](https://consensus-pipeline.streamlit.app/) · 个人维护 · 中文 README
 
 **多智能体辩论式文献综述生成管线，附引用核验与置信标注**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fangqian616/consensus-pipeline 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 119 --> 131
-    line [130, 120, 121, 120, 120]
+    line [130, 120, 121, 120, 121]
 ```
 
-2026-10-23 130 → 2026-11-25 120（-10）
+2026-10-24 130 → 2026-11-26 121（-9）
 
 
 ---

@@ -1,6 +1,6 @@
 # PIsberg/llm-fw
 
-⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/PIsberg/llm-fw) · 个人维护
+⭐ 10 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/PIsberg/llm-fw) · 个人维护
 
 **本地运行的提示注入防火墙：拦截工具与 LLM API 之间的流量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PIsberg/llm-fw 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-23 10 → 2026-11-25 10（+0）
+2026-11-23 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-marketing-solutions/feedgen
 
-⭐ 269 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-marketing-solutions/feedgen) · 组织维护
+⭐ 271 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/google-marketing-solutions/feedgen) · 组织维护
 
 **给电商商家用生成式 AI 优化 Shopping 商品标题与描述**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "google-marketing-solutions/feedgen 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 267 --> 271
-    line [268, 269, 270, 269, 268, 269]
+    title "google-marketing-solutions/feedgen 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 267 --> 272
+    line [268, 269, 270, 269, 268, 269, 271]
 ```
 
-2026-10-23 268 → 2026-11-25 269（+1）
+2026-10-24 268 → 2026-11-26 271（+3）
 
 
 ---

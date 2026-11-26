@@ -1,6 +1,6 @@
 # abstracta/tero
 
-⭐ 125 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/abstracta/tero) · [官网](https://abstracta.github.io/tero/) · 组织维护
+⭐ 126 · Python · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/abstracta/tero) · [官网](https://abstracta.github.io/tero/) · 组织维护
 
 **创建、共享与运行 AI agent 的平台，面向软件质量流程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "abstracta/tero 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 124 --> 126
-    line [125, 125]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 124 --> 127
+    line [125, 126]
 ```
 
-2026-10-23 125 → 2026-11-25 125（+0）
+2026-10-24 125 → 2026-11-26 126（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # five-plus-one/AI-Marker-Suite-Docs
 
-⭐ 10 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/five-plus-one/AI-Marker-Suite-Docs) · [官网](https://aimarking.five-plus-one.com/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 批改助手的文档站：查找脚本安装、评分设置与平台阅卷步骤**
 

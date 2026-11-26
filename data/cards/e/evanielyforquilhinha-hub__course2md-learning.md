@@ -41,6 +41,18 @@
 > L23: - **把“老师说过什么”变成“我该怎么理解”。** 开启学习讲义，让 AI 解释
 > L28: “转录”就是把讲课声音变成文字；“学习讲义”则会在文字基础上进一步
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "evanielyforquilhinha-hub/course2md-learning 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `a35a5a7f20c8` · [字段定义](../../DATASET.md)*

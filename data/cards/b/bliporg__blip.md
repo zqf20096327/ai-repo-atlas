@@ -1,6 +1,6 @@
 # bliporg/blip
 
-⭐ 287 · Go · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/bliporg/blip) · [官网](https://blip.game) · 组织维护
+⭐ 289 · Go · Apache-2.0 · 推送 2026-03-09 · [GitHub](https://github.com/bliporg/blip) · [官网](https://blip.game) · 组织维护
 
 **面向生成式 AI 的 Roblox 类跨平台游戏引擎与分发平台**
 
@@ -45,12 +45,12 @@ Blip 是一个类似 Roblox 的游戏创作与分发平台，定位服务生成�
 ```mermaid
 xychart-beta
     title "bliporg/blip 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 284 --> 288
-    line [286, 285, 286, 287, 287]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 284 --> 290
+    line [286, 285, 286, 287, 289]
 ```
 
-2026-10-23 286 → 2026-11-25 287（+1）
+2026-10-24 286 → 2026-11-26 289（+3）
 
 
 ---

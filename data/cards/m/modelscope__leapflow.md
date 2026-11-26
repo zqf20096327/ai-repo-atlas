@@ -1,6 +1,6 @@
 # modelscope/leapflow
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/modelscope/leapflow) · 组织维护 · 中文 README
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/modelscope/leapflow) · 组织维护 · 中文 README
 
 **信号驱动的自进化 agent 框架，开发者接入 LLM 与硬件**
 
@@ -45,12 +45,12 @@ LeapFlow 将虚拟信号（IM、OS 事件、web）与物理信号（机械臂、
 ```mermaid
 xychart-beta
     title "modelscope/leapflow 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

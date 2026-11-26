@@ -1,6 +1,6 @@
 # Li-Guijiang/DreamAI
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/Li-Guijiang/DreamAI) · [官网](https://github.com/Li-Guijiang) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Li-Guijiang/DreamAI) · [官网](https://github.com/Li-Guijiang) · 个人维护 · 中文 README
 
 **通用 AI 助手 agent：提供 CLI/Web/桌面三种形态，支持多步规划与工具调用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Li-Guijiang/DreamAI 星数(近 2 点)"
-    x-axis ["2026-10-25", "2026-11-25"]
+    x-axis ["2026-10-25", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-25 3 → 2026-11-25 3（+0）
+2026-10-25 3 → 2026-11-26 3（+0）
 
 
 ---

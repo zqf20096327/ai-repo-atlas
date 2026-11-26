@@ -1,6 +1,6 @@
 # pallaprolus/mendeley-mcp
 
-⭐ 51 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/pallaprolus/mendeley-mcp) · 个人维护
+⭐ 53 · Python · MIT · 推送 2026-10-13 · [GitHub](https://github.com/pallaprolus/mendeley-mcp) · 个人维护
 
 **把 Mendeley 文献库接入 LLM 客户端的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pallaprolus/mendeley-mcp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 45 --> 52
-    line [46, 47, 49, 50, 51, 51]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 45 --> 54
+    line [46, 47, 49, 50, 51, 53]
 ```
 
-2026-10-23 46 → 2026-11-25 51（+5）
+2026-10-24 46 → 2026-11-26 53（+7）
 
 
 ---

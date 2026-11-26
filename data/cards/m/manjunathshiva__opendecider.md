@@ -1,6 +1,6 @@
 # manjunathshiva/opendecider
 
-⭐ 42 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/manjunathshiva/opendecider) · [官网](https://manjunathshiva.github.io/opendecider/) · 个人维护
+⭐ 42 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/manjunathshiva/opendecider) · [官网](https://manjunathshiva.github.io/opendecider/) · 个人维护
 
 **开放校准的 System 1 决策模型：为每个选项输出概率**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "manjunathshiva/opendecider 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
+    title "manjunathshiva/opendecider 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26"]
     y-axis "stars" 35 --> 43
-    line [36, 37, 36, 39, 40, 41, 42]
+    line [36, 37, 36, 39, 40, 41, 42, 42]
 ```
 
-2026-10-23 36 → 2026-11-25 42（+6）
+2026-10-24 36 → 2026-11-26 42（+6）
 
 
 ---

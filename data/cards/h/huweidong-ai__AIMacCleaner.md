@@ -1,6 +1,6 @@
 # huweidong-ai/AIMacCleaner
 
-⭐ 5 · Swift · MIT · 推送 2026-11-20 · [GitHub](https://github.com/huweidong-ai/AIMacCleaner) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **macOS 应用深度卸载与残留清理工具，内置 AI Agent**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

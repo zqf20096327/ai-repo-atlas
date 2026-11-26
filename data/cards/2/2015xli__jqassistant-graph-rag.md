@@ -1,6 +1,6 @@
 # 2015xli/jqassistant-graph-rag
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-02-07 · [GitHub](https://github.com/2015xli/jqassistant-graph-rag) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-02-07 · [GitHub](https://github.com/2015xli/jqassistant-graph-rag) · 个人维护
 
 **将 jQAssistant 代码图增强为语义化 Graph RAG 供 AI agent 查询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "2015xli/jqassistant-graph-rag 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

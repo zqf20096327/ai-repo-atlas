@@ -1,6 +1,6 @@
 # tancheng33/tingo
 
-⭐ 49 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/tancheng33/tingo) · [官网](https://tancheng33.github.io/tingo/en.html) · 个人维护 · 中文 README
+⭐ 49 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tancheng33/tingo) · [官网](https://tancheng33.github.io/tingo/en.html) · 个人维护 · 中文 README
 
 **给 Mac 用户的本地 AI 会议纪要：录音转文字、分说话人、出纪要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tancheng33/tingo 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-26"]
     y-axis "stars" 42 --> 50
     line [43, 44, 45, 46, 47, 48, 49, 49]
 ```
 
-2026-11-08 43 → 2026-11-25 49（+6）
+2026-11-08 43 → 2026-11-26 49（+6）
 
 
 ---

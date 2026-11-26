@@ -1,6 +1,6 @@
 # NVIDIA/jaxpp
 
-⭐ 86 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/NVIDIA/jaxpp) · 组织维护
+⭐ 88 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/NVIDIA/jaxpp) · 组织维护
 
 **面向 JAX 的 MPMD 流水线并行库，用于大规模 LLM 训练**
 
@@ -46,12 +46,12 @@ NVIDIA 维护的 JAX 扩展库，通过 mark_stage_end(layer) 注解与 @mpmd_ji
 ```mermaid
 xychart-beta
     title "NVIDIA/jaxpp 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 82 --> 87
-    line [83, 84, 85, 86, 86]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 82 --> 89
+    line [83, 84, 85, 86, 88]
 ```
 
-2026-10-22 83 → 2026-11-25 86（+3）
+2026-10-23 83 → 2026-11-26 88（+5）
 
 
 ---

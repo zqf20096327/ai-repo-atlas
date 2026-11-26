@@ -1,6 +1,6 @@
 # ysraell/random-forest-mc
 
-⭐ 52 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/ysraell/random-forest-mc) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ysraell/random-forest-mc) · 个人维护
 
 **蒙特卡洛动态树选择的多分类随机森林 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ysraell/random-forest-mc 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-23 52 → 2026-11-25 52（+0）
+2026-10-24 52 → 2026-11-26 52（+0）
 
 
 ---

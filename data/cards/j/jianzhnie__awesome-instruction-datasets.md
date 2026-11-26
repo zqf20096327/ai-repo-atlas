@@ -1,6 +1,6 @@
 # jianzhnie/awesome-instruction-datasets
 
-⭐ 753 · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/jianzhnie/awesome-instruction-datasets) · [官网](https://jianzhnie.github.io/llmtech) · 个人维护 · 中文 README
+⭐ 754 · Apache-2.0 · 推送 2026-06-17 · [GitHub](https://github.com/jianzhnie/awesome-instruction-datasets) · [官网](https://jianzhnie.github.io/llmtech) · 个人维护 · 中文 README
 
 **指令微调数据集策展清单：为训练对话 LLM 汇总 SFT/RLHF/DPO 数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jianzhnie/awesome-instruction-datasets 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 749 --> 754
-    line [750, 752, 753, 753]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 749 --> 755
+    line [750, 752, 753, 754]
 ```
 
-2026-10-23 750 → 2026-11-25 753（+3）
+2026-10-24 750 → 2026-11-26 754（+4）
 
 
 ---

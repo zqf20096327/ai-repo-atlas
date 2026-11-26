@@ -1,6 +1,6 @@
 # jiawei686/wechat-dev-mcp
 
-⭐ 19 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/jiawei686/wechat-dev-mcp) · 个人维护 · 中文 README
+⭐ 20 · JavaScript · MIT · 推送 2026-09-24 · [GitHub](https://github.com/jiawei686/wechat-dev-mcp) · 个人维护 · 中文 README
 
 **让 AI 客户端自动调试微信小程序/小游戏的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jiawei686/wechat-dev-mcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 19（+1）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

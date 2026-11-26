@@ -1,6 +1,6 @@
 # Leo-luxy/Floe
 
-⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Leo-luxy/Floe) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Leo-luxy/Floe) · 个人维护 · 中文 README
 
 **A股投资者本地量化选股与五维 AI 决策桌面工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Leo-luxy/Floe 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-22 17 → 2026-11-25 17（+0）
+2026-11-22 17 → 2026-11-26 17（+0）
 
 
 ---

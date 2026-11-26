@@ -1,6 +1,6 @@
 # aivrar/portable-hermes-agent
 
-⭐ 252 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aivrar/portable-hermes-agent) · [官网](https://github.com/aivrar/portable-hermes-agent/releases/latest) · 个人维护 · 中文 README
+⭐ 253 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/aivrar/portable-hermes-agent) · [官网](https://github.com/aivrar/portable-hermes-agent/releases/latest) · 个人维护 · 中文 README
 
 **把 Hermes Agent 打包成 Windows 免安装桌面 AI agent**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aivrar/portable-hermes-agent 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 237 --> 253
-    line [238, 239, 241, 242, 238, 246, 247, 248, 249, 251, 252, 252]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 237 --> 254
+    line [238, 239, 241, 242, 238, 246, 247, 248, 249, 251, 252, 253]
 ```
 
-2026-10-23 238 → 2026-11-25 252（+14）
+2026-10-24 238 → 2026-11-26 253（+15）
 
 
 ---

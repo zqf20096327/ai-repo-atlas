@@ -1,6 +1,6 @@
 # wolf75222/dsh-romeo
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-11 · [GitHub](https://github.com/wolf75222/dsh-romeo) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **一条命令在 ROMEO 超算上启动 DeepSeek/Kimi 并接入 dsh 编码代理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

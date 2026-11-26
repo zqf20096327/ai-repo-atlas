@@ -1,6 +1,6 @@
 # t-kalinowski/deep-learning-with-r-code
 
-⭐ 66 · R · 推送 2026-02-10 · [GitHub](https://github.com/t-kalinowski/deep-learning-with-r-code) · [官网](https://blogs.rstudio.com/ai/posts/2022-05-31-deep-learning-with-r-2e/) · 个人维护
+⭐ 67 · R · 推送 2026-02-10 · [GitHub](https://github.com/t-kalinowski/deep-learning-with-r-code) · [官网](https://blogs.rstudio.com/ai/posts/2022-05-31-deep-learning-with-r-2e/) · 个人维护
 
 **《Deep Learning with R》图书配套代码仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "t-kalinowski/deep-learning-with-r-code 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 65 --> 67
-    line [66, 66]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 65 --> 68
+    line [66, 67]
 ```
 
-2026-10-23 66 → 2026-11-25 66（+0）
+2026-10-24 66 → 2026-11-26 67（+1）
 
 
 ---

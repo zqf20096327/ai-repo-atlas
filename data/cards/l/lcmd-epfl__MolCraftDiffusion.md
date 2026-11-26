@@ -1,6 +1,6 @@
 # lcmd-epfl/MolCraftDiffusion
 
-⭐ 20 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/lcmd-epfl/MolCraftDiffusion) · [官网](https://pregHosh.github.io/MolCraftDiffusion/) · 组织维护
+⭐ 21 · Python · MIT · 推送 2026-09-28 · [GitHub](https://github.com/lcmd-epfl/MolCraftDiffusion) · [官网](https://pregHosh.github.io/MolCraftDiffusion/) · 组织维护
 
 **3D 分子生成统一框架：训练、引导生成与评测一体化**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lcmd-epfl/MolCraftDiffusion 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 19 --> 21
-    line [20, 20]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

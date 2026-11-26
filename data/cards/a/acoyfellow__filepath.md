@@ -1,6 +1,6 @@
 # acoyfellow/filepath
 
-⭐ 18 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/acoyfellow/filepath) · [官网](https://myfilepath.com) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-06-14 · [GitHub](https://github.com/acoyfellow/filepath) · [官网](https://myfilepath.com) · 个人维护
 
 **部署在 Cloudflare 上的个人开发环境：以对话形式调度受限 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "acoyfellow/filepath 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 16 --> 19
+    line [18, 17]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 17（-1）
 
 
 ---

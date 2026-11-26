@@ -40,6 +40,18 @@
 > L1: # Edge Computer Vision Course
 > L11: ## Lesson 1: Introduction to Applied Computer Vision
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/edge-computer-vision 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 45 --> 47
+    line [46, 46]
+```
+
+2026-11-25 46 → 2026-11-26 46（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `11598d08e41b` · [字段定义](../../DATASET.md)*

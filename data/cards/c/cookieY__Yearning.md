@@ -1,6 +1,6 @@
 # cookieY/Yearning
 
-⭐ 8,981 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/cookieY/Yearning) · [官网](https://v4.yearning.io/) · 组织维护 · 中文 README
+⭐ 8,984 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/cookieY/Yearning) · [官网](https://v4.yearning.io/) · 组织维护 · 中文 README
 
 **给 DBA/平台团队提供 AI 预检与治理的 SQL 审核变更平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "cookieY/Yearning 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 8978 --> 8982
-    line [8979, 8981, 8981]
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 8978 --> 8985
+    line [8979, 8981, 8984]
 ```
 
-2026-11-20 8,979 → 2026-11-25 8,981（+2）
+2026-11-20 8,979 → 2026-11-26 8,984（+5）
 
 
 ---

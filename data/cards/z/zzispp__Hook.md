@@ -46,12 +46,12 @@ Rust + Next.js monorepo 实现的 AI API 网关：后端用 Axum/SeaORM/Redis/Po
 ```mermaid
 xychart-beta
     title "zzispp/Hook 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-23 20 → 2026-11-25 21（+1）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

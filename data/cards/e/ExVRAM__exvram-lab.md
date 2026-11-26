@@ -1,6 +1,6 @@
 # ExVRAM/exvram-lab
 
-⭐ 35 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ExVRAM/exvram-lab) · [官网](https://exvram.pro) · 组织维护
+⭐ 34 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ExVRAM/exvram-lab) · [官网](https://exvram.pro) · 组织维护
 
 **在 8GB 消费级 GPU 上运行 ~27B 大模型的研究实验框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ExVRAM/exvram-lab 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 33 --> 36
+    line [35, 34]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 34（-1）
 
 
 ---

@@ -45,12 +45,12 @@ IIT Bhilai Meraz 7.0 黑客松的入门套件，提供 12 只匿名化印度股�
 ```mermaid
 xychart-beta
     title "0770-Lakshya/ALPHA-ARENA-Agents-War- 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-02 5 → 2026-11-25 5（+0）
+2026-11-02 5 → 2026-11-26 5（+0）
 
 
 ---

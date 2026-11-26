@@ -1,6 +1,6 @@
 # guimatheus92/social-knowledge-base
 
-⭐ 14 · TypeScript · MIT · 推送 2026-06-29 · [GitHub](https://github.com/guimatheus92/social-knowledge-base) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/guimatheus92/social-knowledge-base) · 个人维护
 
 **把创作者短视频转成可检索知识库的自托管应用（下载+转录+RAG）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guimatheus92/social-knowledge-base 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 10 --> 15
     line [11, 12, 11, 14, 14]
 ```
 
-2026-10-23 11 → 2026-11-25 14（+3）
+2026-10-24 11 → 2026-11-26 14（+3）
 
 
 ---

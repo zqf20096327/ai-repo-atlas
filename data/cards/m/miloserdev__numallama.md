@@ -1,6 +1,6 @@
 # miloserdev/numallama
 
-⭐ 10 · C · MIT · 推送 2026-11-22 · [GitHub](https://github.com/miloserdev/numallama) · 个人维护 · 中文 README
+⭐ 16 · C · MIT · 推送 2026-11-25 · [GitHub](https://github.com/miloserdev/numallama) · 个人维护 · 中文 README
 
 **面向大 NUMA Arm 服务器的 Llama/Qwen 系列本地 CPU 推理引擎**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "miloserdev/numallama 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 6 --> 11
-    line [7, 8, 10]
+    title "miloserdev/numallama 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 17
+    line [7, 8, 10, 16]
 ```
 
-2026-11-22 7 → 2026-11-25 10（+3）
+2026-11-22 7 → 2026-11-26 16（+9）
 
 
 ---

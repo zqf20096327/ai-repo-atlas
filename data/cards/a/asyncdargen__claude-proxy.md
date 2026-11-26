@@ -1,6 +1,6 @@
 # asyncdargen/claude-proxy
 
-⭐ 12 · Kotlin · MIT · 推送 2026-11-18 · [GitHub](https://github.com/asyncdargen/claude-proxy) · 个人维护
+⭐ 13 · Kotlin · MIT · 推送 2026-11-18 · [GitHub](https://github.com/asyncdargen/claude-proxy) · 个人维护
 
 **自托管多账号轮换代理：管理自己的 Anthropic 账号池**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "asyncdargen/claude-proxy 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-08 10 → 2026-11-25 12（+2）
+2026-11-08 10 → 2026-11-26 13（+3）
 
 
 ---

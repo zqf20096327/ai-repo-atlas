@@ -1,6 +1,6 @@
 # aidatatools/ollama-benchmark
 
-⭐ 399 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aidatatools/ollama-benchmark) · [官网](https://llm.aidatatools.com/) · 个人维护
+⭐ 398 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/aidatatools/ollama-benchmark) · [官网](https://llm.aidatatools.com/) · 个人维护
 
 **面向本地 LLM 用户的 Ollama 吞吐量基准测试 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aidatatools/ollama-benchmark 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-14", "2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 396 --> 401
-    line [397, 398, 399, 400, 399, 399]
+    line [397, 398, 399, 400, 399, 398]
 ```
 
-2026-10-23 397 → 2026-11-25 399（+2）
+2026-10-24 397 → 2026-11-26 398（+1）
 
 
 ---

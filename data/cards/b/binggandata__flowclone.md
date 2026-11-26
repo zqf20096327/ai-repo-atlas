@@ -1,6 +1,6 @@
 # binggandata/flowclone
 
-⭐ 3 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/binggandata/flowclone) · 个人维护 · 中文 README
+⭐ 11 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/binggandata/flowclone) · 个人维护 · 中文 README
 
 **净室复刻 Google Flow 的安卓视频生成 App 教学项目**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "binggandata/flowclone 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 2 --> 12
+    line [3, 11]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 11（+8）
 
 
 ---

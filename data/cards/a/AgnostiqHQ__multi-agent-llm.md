@@ -45,12 +45,12 @@ Agnostiq 维护的 Python 库，提供多种多智能体 LLM 推理方法的精�
 ```mermaid
 xychart-beta
     title "AgnostiqHQ/multi-agent-llm 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 134 --> 136
     line [135, 135]
 ```
 
-2026-11-13 135 → 2026-11-25 135（+0）
+2026-11-13 135 → 2026-11-26 135（+0）
 
 
 ---

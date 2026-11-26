@@ -1,6 +1,6 @@
 # HorizunGroup/horizun-civil3d-mcp
 
-⭐ 10 · C# · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/HorizunGroup/horizun-civil3d-mcp) · [官网](https://horizunhub.com) · 组织维护
+⭐ 12 · C# · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/HorizunGroup/horizun-civil3d-mcp) · [官网](https://horizunhub.com) · 组织维护
 
 **让 Claude 等 MCP 客户端安全操作 Autodesk Civil 3D 图形的桥接服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HorizunGroup/horizun-civil3d-mcp 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 4 --> 11
-    line [5, 6, 10, 10]
+    title "HorizunGroup/horizun-civil3d-mcp 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 5 --> 13
+    line [6, 10, 12]
 ```
 
-2026-10-23 5 → 2026-11-25 10（+5）
+2026-10-24 6 → 2026-11-26 12（+6）
 
 
 ---

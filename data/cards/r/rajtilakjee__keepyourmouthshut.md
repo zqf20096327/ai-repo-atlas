@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rajtilakjee/keepyourmouthshut 星数(近 3 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-11-25"]
-    y-axis "stars" 73 --> 76
-    line [74, 75, 75]
+    title "rajtilakjee/keepyourmouthshut 星数(近 2 点)"
+    x-axis ["2026-10-22", "2026-11-26"]
+    y-axis "stars" 74 --> 76
+    line [75, 75]
 ```
 
-2026-10-21 74 → 2026-11-25 75（+1）
+2026-10-22 75 → 2026-11-26 75（+0）
 
 
 ---

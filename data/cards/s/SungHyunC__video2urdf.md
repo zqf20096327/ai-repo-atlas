@@ -1,6 +1,6 @@
 # SungHyunC/video2urdf
 
-⭐ 15 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/SungHyunC/video2urdf) · [官网](https://sunghyunc.github.io/video2urdf/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/SungHyunC/video2urdf) · [官网](https://sunghyunc.github.io/video2urdf/) · 个人维护
 
 **从手机视频生成关节物体测量 URDF/MJDF 模型的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SungHyunC/video2urdf 星数(近 7 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-26"]
     y-axis "stars" 13 --> 18
-    line [14, 15, 16, 17, 16, 15, 15]
+    line [14, 15, 16, 17, 16, 15, 16]
 ```
 
-2026-11-10 14 → 2026-11-25 15（+1）
+2026-11-10 14 → 2026-11-26 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-java
 
-⭐ 392 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-java) · 组织维护
+⭐ 393 · Kotlin · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/anthropics/anthropic-sdk-java) · 组织维护
 
 **Java 应用接入 Claude API 的官方 SDK**
 
@@ -44,12 +44,12 @@ Anthropic 官方 Java SDK，提供从 Java 应用访问 Claude API 的客户端�
 ```mermaid
 xychart-beta
     title "anthropics/anthropic-sdk-java 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 384 --> 395
-    line [385, 386, 387, 386, 391, 392, 394, 393, 392]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 385 --> 395
+    line [386, 387, 386, 391, 392, 394, 393, 392, 393]
 ```
 
-2026-10-23 385 → 2026-11-25 392（+7）
+2026-10-24 386 → 2026-11-26 393（+7）
 
 
 ---

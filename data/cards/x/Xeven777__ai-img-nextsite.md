@@ -1,6 +1,6 @@
 # Xeven777/ai-img-nextsite
 
-⭐ 16 · TypeScript · 推送 2025-12-24 · [GitHub](https://github.com/Xeven777/ai-img-nextsite) · [官网](https://img-gen7.netlify.app/) · 个人维护
+⭐ 17 · TypeScript · 推送 2025-12-24 · [GitHub](https://github.com/Xeven777/ai-img-nextsite) · [官网](https://img-gen7.netlify.app/) · 个人维护
 
 **Next.js AI 图像生成前端应用，支持 7 种文生图模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xeven777/ai-img-nextsite 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 15 --> 18
-    line [17, 16, 17, 16, 16]
+    line [17, 16, 17, 16, 17]
 ```
 
-2026-10-23 17 → 2026-11-25 16（-1）
+2026-10-24 17 → 2026-11-26 17（+0）
 
 
 ---

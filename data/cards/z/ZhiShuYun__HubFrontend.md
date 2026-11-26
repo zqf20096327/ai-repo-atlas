@@ -1,6 +1,6 @@
 # ZhiShuYun/HubFrontend
 
-⭐ 175 · Vue · MIT · 推送 2026-03-08 · [GitHub](https://github.com/ZhiShuYun/HubFrontend) · [官网](https://hub.zhishuyun.com) · 组织维护 · 中文 README
+⭐ 174 · Vue · MIT · 推送 2026-03-08 · [GitHub](https://github.com/ZhiShuYun/HubFrontend) · [官网](https://hub.zhishuyun.com) · 组织维护 · 中文 README
 
 **集成 GPT 问答与 Midjourney 绘画的一站式 AI 服务前端系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ZhiShuYun/HubFrontend 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 174 --> 176
-    line [175, 175]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 173 --> 176
+    line [175, 174]
 ```
 
-2026-10-23 175 → 2026-11-25 175（+0）
+2026-10-24 175 → 2026-11-26 174（-1）
 
 
 ---

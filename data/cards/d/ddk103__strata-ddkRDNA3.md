@@ -1,6 +1,6 @@
 # ddk103/strata-ddkRDNA3
 
-⭐ 7 · C++ · MIT · 推送 2026-11-20 · [GitHub](https://github.com/ddk103/strata-ddkRDNA3) · 个人维护
+⭐ 8 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ddk103/strata-ddkRDNA3) · 个人维护
 
 **面向 AMD RX 7900 XTX 的 Strata 调优分叉与实测记录**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ddk103/strata-ddkRDNA3 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 4 --> 8
-    line [5, 6, 7, 7]
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 4 --> 9
+    line [5, 6, 7, 8]
 ```
 
-2026-11-19 5 → 2026-11-25 7（+2）
+2026-11-19 5 → 2026-11-26 8（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # DreamRift/dsh-memory-context-lab
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/DreamRift/dsh-memory-context-lab) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **DSH 会话的上下文记忆管理插件：检索回注历史要点**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

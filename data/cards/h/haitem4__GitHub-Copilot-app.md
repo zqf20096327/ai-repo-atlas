@@ -1,6 +1,6 @@
 # haitem4/GitHub-Copilot-app
 
-⭐ 40 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/haitem4/GitHub-Copilot-app) · 组织维护
+⭐ 23 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/haitem4/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 GitHub Copilot 桌面端：管理、并行运行与落定代码 agent 工作流**
 
@@ -45,13 +45,13 @@ GitHub 官方的 agent-native 桌面应用，用于跨仓库查找、运行、�
 
 ```mermaid
 xychart-beta
-    title "haitem4/GitHub-Copilot-app 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 38 --> 64
-    line [62, 57, 56, 52, 40]
+    title "haitem4/GitHub-Copilot-app 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 20 --> 65
+    line [62, 57, 56, 52, 40, 23]
 ```
 
-2026-11-18 62 → 2026-11-25 40（-22）
+2026-11-18 62 → 2026-11-26 23（-39）
 
 
 ---

@@ -1,6 +1,6 @@
 # WLfear/manus--ai
 
-⭐ 193 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/WLfear/manus--ai) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向个人用户的自主 AI Agent：代为执行代码与浏览器操作**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

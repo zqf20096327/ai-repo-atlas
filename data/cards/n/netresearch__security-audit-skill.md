@@ -1,6 +1,6 @@
 # netresearch/security-audit-skill
 
-⭐ 53 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/netresearch/security-audit-skill) · 组织维护
+⭐ 54 · Shell · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/netresearch/security-audit-skill) · 组织维护
 
 **给 AI agent 的 PHP/Web 安全审计技能包：OWASP/CWE 模式与 80+ 检查点**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "netresearch/security-audit-skill 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 46 --> 54
-    line [47, 48, 50, 51, 52, 48, 52, 53, 53]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 46 --> 55
+    line [47, 48, 50, 51, 52, 48, 52, 53, 54]
 ```
 
-2026-10-23 47 → 2026-11-25 53（+6）
+2026-10-24 47 → 2026-11-26 54（+7）
 
 
 ---

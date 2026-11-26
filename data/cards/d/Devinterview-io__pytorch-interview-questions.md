@@ -1,6 +1,6 @@
 # Devinterview-io/pytorch-interview-questions
 
-⭐ 364 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/pytorch-interview-questions) · 组织维护
+⭐ 365 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/pytorch-interview-questions) · 组织维护
 
 **PyTorch 面试题与答案合集（50 题，2026 版）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Devinterview-io/pytorch-interview-questions 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 359 --> 365
-    line [360, 361, 362, 360, 363, 364, 364]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 359 --> 366
+    line [360, 361, 362, 360, 363, 364, 365]
 ```
 
-2026-10-23 360 → 2026-11-25 364（+4）
+2026-10-24 360 → 2026-11-26 365（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # hherb/bmlibrarian
 
-⭐ 12 · Python · 推送 2026-11-22 · [GitHub](https://github.com/hherb/bmlibrarian) · [官网](https://bmlibrarian.org/) · 个人维护
+⭐ 12 · Python · 推送 2026-11-25 · [GitHub](https://github.com/hherb/bmlibrarian) · [官网](https://bmlibrarian.org/) · 个人维护
 
 **面向生物医学研究者的本地 AI 文献研究工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hherb/bmlibrarian 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # guillermina-gatti/manual-operaciones
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/guillermina-gatti/manual-operaciones) · 组织维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/guillermina-gatti/manual-operaciones) · 组织维护
 
 **企业内部操作手册平台，RAG 助手引用内部文档作答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guillermina-gatti/manual-operaciones 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

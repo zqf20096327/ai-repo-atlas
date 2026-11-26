@@ -44,12 +44,12 @@ Lethal Company 的游戏模组：游戏内怪物 Masked 会收集玩家语音片
 ```mermaid
 xychart-beta
     title "TimShaw1/Wendigos-Mod 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

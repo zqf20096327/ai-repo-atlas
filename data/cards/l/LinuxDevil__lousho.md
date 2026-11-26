@@ -1,6 +1,6 @@
 # LinuxDevil/lousho
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/LinuxDevil/lousho) · [官网](https://lousho.com) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/LinuxDevil/lousho) · [官网](https://lousho.com) · 个人维护
 
 **TypeScript AI agent SDK：离线评测、可恢复运行、人工审批与 MCP**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "LinuxDevil/lousho 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-14 10 → 2026-11-25 10（+0）
+2026-11-14 10 → 2026-11-26 10（+0）
 
 
 ---

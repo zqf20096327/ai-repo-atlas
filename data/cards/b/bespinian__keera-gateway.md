@@ -1,6 +1,6 @@
 # bespinian/keera-gateway
 
-⭐ 13 · Go · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/bespinian/keera-gateway) · [官网](https://keera.ch/en/gateway) · 组织维护
+⭐ 12 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/bespinian/keera-gateway) · [官网](https://keera.ch/en/gateway) · 组织维护
 
 **给企业所有 AI 模型请求提供统一端点的 LLM 网关**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "bespinian/keera-gateway 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 7 --> 14
-    line [8, 9, 8, 10, 11, 12, 13, 13]
+    line [8, 9, 8, 10, 11, 12, 13, 12]
 ```
 
-2026-10-23 8 → 2026-11-25 13（+5）
+2026-10-24 8 → 2026-11-26 12（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # ranajahanzaib/marketplace-learning-to-rank
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/marketplace-learning-to-rank) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ranajahanzaib/marketplace-learning-to-rank) · 个人维护
 
 **本地排序学习实验场：比较规则、语义与LambdaMART排序**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/marketplace-learning-to-rank 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-25 3（+0）
+2026-11-13 3 → 2026-11-26 3（+0）
 
 
 ---

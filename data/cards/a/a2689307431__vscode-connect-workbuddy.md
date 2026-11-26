@@ -1,6 +1,6 @@
 # a2689307431/vscode-connect-workbuddy
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/a2689307431/vscode-connect-workbuddy) · 个人维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/a2689307431/vscode-connect-workbuddy) · 个人维护 · 中文 README
 
 **把 WorkBuddy/CodeBuddy 模型接入 VS Code Copilot Chat 的扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "a2689307431/vscode-connect-workbuddy 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-23", "2026-11-26"]
     y-axis "stars" 4 --> 7
     line [5, 6, 6]
 ```
 
-2026-11-08 5 → 2026-11-25 6（+1）
+2026-11-08 5 → 2026-11-26 6（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # dssg/mlforpublicpolicylab
 
-⭐ 125 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/dssg/mlforpublicpolicylab) · [官网](https://dssg.github.io/mlforpublicpolicylab/) · 组织维护
+⭐ 125 · Jupyter Notebook · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dssg/mlforpublicpolicylab) · [官网](https://dssg.github.io/mlforpublicpolicylab/) · 组织维护
 
 **CMU 机器学习实践研究生课程仓库（公共政策方向）**
 
@@ -45,12 +45,12 @@ Carnegie Mellon University Heinz College 的项目制研究生课程（Fall 2026
 ```mermaid
 xychart-beta
     title "dssg/mlforpublicpolicylab 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 124 --> 126
     line [125, 125]
 ```
 
-2026-10-23 125 → 2026-11-25 125（+0）
+2026-10-24 125 → 2026-11-26 125（+0）
 
 
 ---

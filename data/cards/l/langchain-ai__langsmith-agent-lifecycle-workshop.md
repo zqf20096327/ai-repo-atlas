@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-agent-lifecycle-workshop
 
-⭐ 55 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/langchain-ai/langsmith-agent-lifecycle-workshop) · 组织维护
+⭐ 56 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/langchain-ai/langsmith-agent-lifecycle-workshop) · 组织维护
 
 **讲授 AI 工程生命周期的工作坊课程仓库**
 
@@ -46,12 +46,12 @@ LangChain 官方维护的企业工作坊系列：围绕虚构电商 TechHub 的�
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-agent-lifecycle-workshop 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 51 --> 56
-    line [53, 52, 53, 52, 53, 54, 55, 55]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 51 --> 57
+    line [53, 52, 53, 52, 53, 54, 55, 56]
 ```
 
-2026-10-23 53 → 2026-11-25 55（+2）
+2026-10-24 53 → 2026-11-26 56（+3）
 
 
 ---

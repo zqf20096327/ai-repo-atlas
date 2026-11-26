@@ -1,6 +1,6 @@
 # ihabkhaled/ClawAI
 
-⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/ihabkhaled/ClawAI) · [官网](https://claw-ai.co) · 个人维护
+⭐ 24 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ihabkhaled/ClawAI) · [官网](https://claw-ai.co) · 个人维护
 
 **本地优先的多模型 AI 工作区：统一接入 22 个模型提供商**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ihabkhaled/ClawAI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 23 --> 25
     line [24, 24]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 24（+0）
 
 
 ---

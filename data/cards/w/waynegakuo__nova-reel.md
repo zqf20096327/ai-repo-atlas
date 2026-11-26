@@ -1,6 +1,6 @@
 # waynegakuo/nova-reel
 
-⭐ 13 · TypeScript · MIT · 推送 2026-07-09 · [GitHub](https://github.com/waynegakuo/nova-reel) · [官网](https://nova-reels.web.app/) · 个人维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/waynegakuo/nova-reel) · [官网](https://nova-reels.web.app/) · 个人维护
 
 **AI 驱动的影视浏览与个性化推荐 Web 应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "waynegakuo/nova-reel 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

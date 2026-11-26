@@ -1,6 +1,6 @@
 # kiyanstenke/cbase
 
-⭐ 5 · JavaScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/kiyanstenke/cbase) · 个人维护
+⭐ 5 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/kiyanstenke/cbase) · 个人维护
 
 **自托管工作台：在隔离容器中长时运行 coding agents**
 
@@ -40,6 +40,18 @@
 > L5: **A self-hosted workbench for long-running coding agents.** Let Claude Code, Codex and OpenRouter models work for ho
 > L15: - **Agents** — Claude Code and Codex through their official CLIs (pinned versions), OpenRouter models through a bui
 > L23: - **Operation** — a gateway with user management, one long-lived container per user with its own limits, idle stop,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kiyanstenke/cbase 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # vfaner/muask
 
-⭐ 32 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vfaner/muask) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vfaner/muask) · 个人维护 · 中文 README
 
 **桌面 Text2SQL 工具：中文一句话生成并执行 SQL，驱动全内置**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "vfaner/muask 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-19", "2026-11-25"]
+    title "vfaner/muask 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 28 --> 33
-    line [29, 30, 31, 32]
+    line [29, 30, 31, 32, 31]
 ```
 
-2026-10-23 29 → 2026-11-25 32（+3）
+2026-10-24 29 → 2026-11-26 31（+2）
 
 
 ---

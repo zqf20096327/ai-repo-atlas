@@ -1,6 +1,6 @@
 # aosama/astronomical
 
-⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/aosama/astronomical) · [官网](https://getastronomical.com) · 个人维护
+⭐ 28 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/aosama/astronomical) · [官网](https://getastronomical.com) · 个人维护
 
 **Apple Silicon 本地模型运行器：设定 RAM 上限、SSD 流式运行稀疏大模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aosama/astronomical 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-26"]
     y-axis "stars" 20 --> 29
     line [21, 22, 21, 22, 23, 24, 27, 28, 28]
 ```
 
-2026-10-23 21 → 2026-11-25 28（+7）
+2026-10-24 21 → 2026-11-26 28（+7）
 
 
 ---

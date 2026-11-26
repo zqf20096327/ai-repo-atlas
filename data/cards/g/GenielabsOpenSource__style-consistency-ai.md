@@ -1,6 +1,6 @@
 # GenielabsOpenSource/style-consistency-ai
 
-⭐ 13 · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/GenielabsOpenSource/style-consistency-ai) · 组织维护
+⭐ 14 · NOASSERTION · 推送 2026-08-01 · [GitHub](https://github.com/GenielabsOpenSource/style-consistency-ai) · 组织维护
 
 **保持 AI 生成角色/画风一致性的 Claude Agent 技能包（免训练）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GenielabsOpenSource/style-consistency-ai 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 12, 13, 13]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 12, 13, 14]
 ```
 
-2026-10-23 11 → 2026-11-25 13（+2）
+2026-10-24 11 → 2026-11-26 14（+3）
 
 
 ---

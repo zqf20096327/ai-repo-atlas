@@ -1,6 +1,6 @@
 # liangdabiao/langgraph_multi-agent-rag-customer-support
 
-⭐ 356 · Python · 推送 2026-07-10 · [GitHub](https://github.com/liangdabiao/langgraph_multi-agent-rag-customer-support) · [官网](https://skillhub.cn/skills/user_8bb4b4f5/deep-research-agent-skill) · 个人维护 · 中文 README
+⭐ 357 · Python · 推送 2026-07-10 · [GitHub](https://github.com/liangdabiao/langgraph_multi-agent-rag-customer-support) · [官网](https://skillhub.cn/skills/user_8bb4b4f5/deep-research-agent-skill) · 个人维护 · 中文 README
 
 **多智能体 RAG 客服系统：处理旅行与商城查询并带安全审核**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "liangdabiao/langgraph_multi-agent-rag-customer-support 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 341 --> 357
-    line [342, 343, 344, 345, 343, 349, 355, 356, 355, 356, 356]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 341 --> 358
+    line [342, 343, 344, 345, 343, 349, 355, 356, 355, 356, 357]
 ```
 
-2026-10-23 342 → 2026-11-25 356（+14）
+2026-10-24 342 → 2026-11-26 357（+15）
 
 
 ---

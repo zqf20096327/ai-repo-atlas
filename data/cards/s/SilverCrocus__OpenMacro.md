@@ -1,6 +1,6 @@
 # SilverCrocus/OpenMacro
 
-⭐ 8 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SilverCrocus/OpenMacro) · 个人维护
+⭐ 9 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/SilverCrocus/OpenMacro) · 个人维护
 
 **安卓本地优先营养教练：自适应热量目标与 AI 拍照记录**
 
@@ -45,13 +45,13 @@ Android 营养记录应用，用 Rust（Dioxus）编写：基于体重与饮食�
 
 ```mermaid
 xychart-beta
-    title "SilverCrocus/OpenMacro 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 9
-    line [3, 5, 6, 7, 8, 8]
+    title "SilverCrocus/OpenMacro 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-18", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 4 --> 10
+    line [5, 6, 7, 8, 9]
 ```
 
-2026-10-23 3 → 2026-11-25 8（+5）
+2026-10-24 5 → 2026-11-26 9（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # off-grid-ai/skills
 
-⭐ 179 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/off-grid-ai/skills) · [官网](https://getoffgridai.co/download) · 个人维护
+⭐ 184 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/off-grid-ai/skills) · [官网](https://getoffgridai.co/download) · 个人维护
 
 **给编码 agent 的 49 个免费技能包，覆盖构建、测试与交付流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "off-grid-ai/skills 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 174 --> 180
-    line [175, 177, 179, 179]
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 174 --> 185
+    line [175, 177, 179, 184]
 ```
 
-2026-11-18 175 → 2026-11-25 179（+4）
+2026-11-18 175 → 2026-11-26 184（+9）
 
 
 ---

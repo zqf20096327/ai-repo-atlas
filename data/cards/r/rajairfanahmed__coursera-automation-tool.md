@@ -1,6 +1,6 @@
 # rajairfanahmed/coursera-automation-tool
 
-⭐ 10 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/rajairfanahmed/coursera-automation-tool) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-04-24 · [GitHub](https://github.com/rajairfanahmed/coursera-automation-tool) · 个人维护
 
 **自动播放视频、完成阅读并用 Claude/ChatGPT 解答 Coursera 测验的 Chrome 扩展**
 
@@ -46,12 +46,12 @@ Chrome 扩展（Manifest V3），为 Coursera 用户提供一键式课程自动�
 ```mermaid
 xychart-beta
     title "rajairfanahmed/coursera-automation-tool 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-31", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-31 10 → 2026-11-25 10（+0）
+2026-10-31 10 → 2026-11-26 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # OMD-123/agent-loop-guard
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/OMD-123/agent-loop-guard) · [官网](https://github.com/OMD-123/agent-loop-guard#readme) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/OMD-123/agent-loop-guard) · [官网](https://github.com/OMD-123/agent-loop-guard#readme) · 个人维护
 
 **TypeScript AI agent 护栏库：拦截循环、注入与幻觉等失败模式**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OMD-123/agent-loop-guard 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 16
+    line [13, 15]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 15（+2）
 
 
 ---

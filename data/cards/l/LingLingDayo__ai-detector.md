@@ -1,6 +1,6 @@
 # LingLingDayo/ai-detector
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LingLingDayo/ai-detector) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/LingLingDayo/ai-detector) · 个人维护 · 中文 README
 
 **给开发者的 LLM API 真实性鉴别桌面客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LingLingDayo/ai-detector 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 3, 4, 4]
 ```
 
-2026-10-25 3 → 2026-11-25 4（+1）
+2026-10-25 3 → 2026-11-26 4（+1）
 
 
 ---

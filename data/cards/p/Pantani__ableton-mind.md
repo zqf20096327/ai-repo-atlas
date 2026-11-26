@@ -45,12 +45,12 @@ TypeScript 编写的 MCP 服务器，将 Ableton Live 的 Live Object Model 全�
 ```mermaid
 xychart-beta
     title "Pantani/ableton-mind 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-12", "2026-11-26"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-10-30 10 → 2026-11-25 12（+2）
+2026-10-30 10 → 2026-11-26 12（+2）
 
 
 ---

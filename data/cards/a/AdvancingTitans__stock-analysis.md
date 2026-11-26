@@ -1,6 +1,6 @@
 # AdvancingTitans/stock-analysis
 
-⭐ 39 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/AdvancingTitans/stock-analysis) · [官网](https://github.com/AdvancingTitans/stock-analysis) · 组织维护 · 中文 README
+⭐ 40 · Python · MIT · 推送 2026-07-28 · [GitHub](https://github.com/AdvancingTitans/stock-analysis) · [官网](https://github.com/AdvancingTitans/stock-analysis) · 组织维护 · 中文 README
 
 **面向投资者的证据驱动股票研究 CLI：一问进，一报告出**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AdvancingTitans/stock-analysis 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 32 --> 40
-    line [33, 34, 35, 37, 39]
+    title "AdvancingTitans/stock-analysis 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 32 --> 41
+    line [33, 34, 35, 37, 39, 40]
 ```
 
-2026-10-23 33 → 2026-11-25 39（+6）
+2026-10-24 33 → 2026-11-26 40（+7）
 
 
 ---

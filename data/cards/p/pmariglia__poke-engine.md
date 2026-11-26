@@ -1,6 +1,6 @@
 # pmariglia/poke-engine
 
-⭐ 59 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/pmariglia/poke-engine) · 个人维护
+⭐ 60 · Rust · MIT · 推送 2026-10-15 · [GitHub](https://github.com/pmariglia/poke-engine) · 个人维护
 
 **宝可梦单打对战引擎：状态推演与搜索求最优招式**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pmariglia/poke-engine 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 52 --> 60
-    line [53, 54, 55, 57, 55, 58, 59, 59]
+    title "pmariglia/poke-engine 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 53 --> 61
+    line [54, 55, 57, 55, 58, 59, 60]
 ```
 
-2026-10-23 53 → 2026-11-25 59（+6）
+2026-10-24 54 → 2026-11-26 60（+6）
 
 
 ---

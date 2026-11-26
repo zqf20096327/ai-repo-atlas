@@ -1,6 +1,6 @@
 # perpetual-ml/perpetual
 
-⭐ 718 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/perpetual-ml/perpetual) · [官网](https://perpetual-ml.github.io/perpetual) · 组织维护
+⭐ 719 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/perpetual-ml/perpetual) · [官网](https://perpetual-ml.github.io/perpetual) · 组织维护
 
 **免调参的梯度提升库：用 budget 参数单次训练得出模型**
 
@@ -46,12 +46,12 @@ PerpetualBooster 是一个无需超参数优化的梯度提升机（GBM），通
 ```mermaid
 xychart-beta
     title "perpetual-ml/perpetual 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 713 --> 719
-    line [714, 715, 714, 717, 718, 718]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 713 --> 720
+    line [714, 715, 714, 717, 718, 719]
 ```
 
-2026-10-23 714 → 2026-11-25 718（+4）
+2026-10-24 714 → 2026-11-26 719（+5）
 
 
 ---

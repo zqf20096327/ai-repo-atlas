@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TAO-LIUJIANG/tech-interview-skill 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 8 --> 10
     line [9, 9]
 ```
 
-2026-10-23 9 → 2026-11-25 9（+0）
+2026-10-24 9 → 2026-11-26 9（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lucidrains/torch-population
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lucidrains/torch-population) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lucidrains/torch-population) · 个人维护
 
 **为 torch 用户提供群体/遗传算法方法的封装库**
 
@@ -43,12 +43,12 @@ torch-population（wip 状态）是围绕 torch 的封装库，用于支持基�
 ```mermaid
 xychart-beta
     title "lucidrains/torch-population 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -46,12 +46,12 @@ utsurigi 将 AI Bot 的数据外置到统一存储（默认经 Bot 连接器写�
 ```mermaid
 xychart-beta
     title "transparent-pegasus/utsurigi 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 8 --> 10
     line [9, 9]
 ```
 
-2026-11-18 9 → 2026-11-25 9（+0）
+2026-11-18 9 → 2026-11-26 9（+0）
 
 
 ---

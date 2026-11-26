@@ -1,6 +1,6 @@
 # agentjido/req_llm
 
-⭐ 611 · Elixir · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agentjido/req_llm) · [官网](https://jido.run/ecosystem/req_llm) · 组织维护
+⭐ 611 · Elixir · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/agentjido/req_llm) · [官网](https://jido.run/ecosystem/req_llm) · 组织维护
 
 **Elixir 开发者跨厂商统一调用 LLM API 的库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "agentjido/req_llm 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-18", "2026-11-22", "2026-11-26"]
     y-axis "stars" 600 --> 612
     line [601, 602, 604, 606, 607, 608, 610, 611, 611]
 ```
 
-2026-10-23 601 → 2026-11-25 611（+10）
+2026-10-24 601 → 2026-11-26 611（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # FarsideResearch/StateFrame
 
-⭐ 4 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/FarsideResearch/StateFrame) · [官网](https://farsideresearch.com) · 组织维护
+⭐ 5 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/FarsideResearch/StateFrame) · [官网](https://farsideresearch.com) · 组织维护
 
 **长时运行 agent 的开源引擎：固定提示预算、无历史压缩**
 
@@ -46,12 +46,12 @@ StateFrame 是面向长时运行 agent 的引擎，每轮请求不发送聊天�
 ```mermaid
 xychart-beta
     title "FarsideResearch/StateFrame 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-11-08 4 → 2026-11-25 4（+0）
+2026-11-08 4 → 2026-11-26 5（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # gravion-ux/gravion-trainner
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravion-ux/gravion-trainner) · 组织维护
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gravion-ux/gravion-trainner) · 组织维护
 
 **对 OpenAI 兼容端点运行 JSONL 数据集评测的启发式冒烟测试工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gravion-ux/gravion-trainner 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-22 3 → 2026-11-25 4（+1）
+2026-11-22 3 → 2026-11-26 4（+1）
 
 
 ---

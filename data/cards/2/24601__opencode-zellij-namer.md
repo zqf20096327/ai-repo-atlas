@@ -1,6 +1,6 @@
 # 24601/opencode-zellij-namer
 
-⭐ 66 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/24601/opencode-zellij-namer) · 个人维护
+⭐ 67 · TypeScript · MIT · 推送 2025-12-20 · [GitHub](https://github.com/24601/opencode-zellij-namer) · 个人维护
 
 **给终端用户/开发者：按工作内容自动命名 Zellij 会话的 OpenCode 插件**
 
@@ -46,12 +46,12 @@ OpenCode 插件，监听 session.idle、file.edited、command.executed、todo.up
 ```mermaid
 xychart-beta
     title "24601/opencode-zellij-namer 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 64 --> 67
-    line [65, 66, 65, 66, 66]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 64 --> 68
+    line [65, 66, 65, 66, 67]
 ```
 
-2026-10-23 65 → 2026-11-25 66（+1）
+2026-10-24 65 → 2026-11-26 67（+2）
 
 
 ---

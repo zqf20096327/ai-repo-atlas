@@ -1,6 +1,6 @@
 # ReNothingg/ReMind
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ReNothingg/ReMind) · [官网](https://chat.synvexai.com) · 个人维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ReNothingg/ReMind) · [官网](https://chat.synvexai.com) · 个人维护
 
 **自托管的流式 AI 聊天工作台（React+Flask 全栈应用）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ReNothingg/ReMind 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

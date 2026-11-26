@@ -41,6 +41,18 @@ Noah Gift 所著《Pragmatic AI: An Introduction to Cloud-based Machine Learning
 > L77: ## Book Chapter Juypter Notebooks
 > L94: This code is released under the MIT license
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/pragmaticai 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 139 --> 141
+    line [140, 140]
+```
+
+2026-11-25 140 → 2026-11-26 140（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `97ee70723978` · [字段定义](../../DATASET.md)*

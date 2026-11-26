@@ -1,6 +1,6 @@
 # PerryLink/dsh-claude-move
 
-⭐ 35 · JavaScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PerryLink/dsh-claude-move) · [官网](https://www.npmjs.com/package/dsh-claude-move) · 个人维护 · 中文 README
+⭐ 36 · JavaScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PerryLink/dsh-claude-move) · [官网](https://www.npmjs.com/package/dsh-claude-move) · 个人维护 · 中文 README
 
 **把 Claude Code 等四源会话迁移进 DeepSeek Harness 的 DSH 插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-claude-move 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 28 --> 36
-    line [29, 30, 29, 30, 32, 33, 34, 35]
+    title "PerryLink/dsh-claude-move 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 28 --> 37
+    line [29, 30, 29, 30, 32, 33, 34, 35, 36]
 ```
 
-2026-10-23 29 → 2026-11-25 35（+6）
+2026-10-24 29 → 2026-11-26 36（+7）
 
 
 ---

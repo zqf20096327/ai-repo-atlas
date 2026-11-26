@@ -1,6 +1,6 @@
 # rhesis-ai/rhesis
 
-⭐ 405 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/rhesis-ai/rhesis) · [官网](https://www.rhesis.ai/) · 组织维护
+⭐ 407 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/rhesis-ai/rhesis) · [官网](https://www.rhesis.ai/) · 组织维护
 
 **AI agent 团队协作评测层：测试、模拟、追踪与专家标注**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rhesis-ai/rhesis 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 403 --> 406
-    line [404, 405, 405]
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 403 --> 408
+    line [404, 405, 407]
 ```
 
-2026-11-08 404 → 2026-11-25 405（+1）
+2026-11-08 404 → 2026-11-26 407（+3）
 
 
 ---

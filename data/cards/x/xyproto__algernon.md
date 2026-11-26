@@ -1,6 +1,6 @@
 # xyproto/algernon
 
-⭐ 3,028 · JavaScript · BSD-3-Clause · 推送 2026-11-22 · [GitHub](https://github.com/xyproto/algernon) · [官网](https://algernon.roboticoverlords.org) · 个人维护
+⭐ 3,028 · JavaScript · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/xyproto/algernon) · [官网](https://algernon.roboticoverlords.org) · 个人维护
 
 **给开发者的自包含 Go Web 服务器：内置 Lua/模板渲染与 LLM 内容生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xyproto/algernon 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-26"]
     y-axis "stars" 3027 --> 3033
     line [3031, 3032, 3031, 3032, 3031, 3030, 3028, 3028]
 ```
 
-2026-10-23 3,031 → 2026-11-25 3,028（-3）
+2026-10-24 3,031 → 2026-11-26 3,028（-3）
 
 
 ---

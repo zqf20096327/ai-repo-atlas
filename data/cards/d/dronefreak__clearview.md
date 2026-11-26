@@ -1,6 +1,6 @@
 # dronefreak/clearview
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dronefreak/clearview) · [官网](https://huggingface.co/spaces/dronefreak/clearview-derain-demo) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dronefreak/clearview) · [官网](https://huggingface.co/spaces/dronefreak/clearview-derain-demo) · 个人维护
 
 **PyTorch 图像去雨工具：单图/目录/视频去雨，含训练与评测**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dronefreak/clearview 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
+    title "dronefreak/clearview 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 12 --> 16
-    line [13, 14, 15]
+    line [13, 14, 15, 15]
 ```
 
-2026-10-23 13 → 2026-11-25 15（+2）
+2026-10-24 13 → 2026-11-26 15（+2）
 
 
 ---

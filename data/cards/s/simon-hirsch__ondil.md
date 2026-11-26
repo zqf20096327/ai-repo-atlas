@@ -1,6 +1,6 @@
 # simon-hirsch/ondil
 
-⭐ 39 · Python · GPL-3.0 · 推送 2026-06-16 · [GitHub](https://github.com/simon-hirsch/ondil) · [官网](https://simon-hirsch.github.io/ondil/) · 个人维护
+⭐ 39 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/simon-hirsch/ondil) · [官网](https://simon-hirsch.github.io/ondil/) · 个人维护
 
 **Python 在线分布回归库：流式增量估计 GAMLSS 等模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "simon-hirsch/ondil 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 38 --> 40
     line [39, 39]
 ```
 
-2026-10-23 39 → 2026-11-25 39（+0）
+2026-10-24 39 → 2026-11-26 39（+0）
 
 
 ---

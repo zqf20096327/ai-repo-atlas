@@ -1,6 +1,6 @@
 # aSimmons5907/key-pool-rotator
 
-⭐ 48 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aSimmons5907/key-pool-rotator) · 个人维护
+⭐ 48 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aSimmons5907/key-pool-rotator) · [官网](https://github.com/aSimmons5907/key-pool-rotator/releases) · 个人维护
 
 **为开发者聚合免费额度 LLM API 密钥池并自动轮换规避 429**
 
@@ -39,6 +39,18 @@
 
 > L5:  LLM Key Rotator — Multi-Provider API Key Pool with Automatic 429 Rotation (One-Command Setup, Prebuilt Release): Po
 > L20: **LLM Key Rotator — Pool your free-tier LLM keys, kill the 429s** (`key-pool-rotator`) ships as a native 64-bit Win
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aSimmons5907/key-pool-rotator 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
+```
+
+2026-11-25 48 → 2026-11-26 48（+0）
 
 
 ---

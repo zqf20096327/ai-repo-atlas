@@ -1,6 +1,6 @@
 # danielmamay/grokking
 
-⭐ 44 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/danielmamay/grokking) · 个人维护
+⭐ 45 · Python · MIT · 推送 2026-05-02 · [GitHub](https://github.com/danielmamay/grokking) · 个人维护
 
 **PyTorch 复现 Grokking 论文：小算法数据集上的泛化实验**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "danielmamay/grokking 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-23 44 → 2026-11-25 44（+0）
+2026-10-24 44 → 2026-11-26 45（+1）
 
 
 ---

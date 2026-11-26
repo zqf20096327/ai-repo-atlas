@@ -1,6 +1,6 @@
 # TeamAudio/reaspeech
 
-⭐ 47 · Lua · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/TeamAudio/reaspeech) · [官网](https://techaud.io/reaspeech/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **REAPER 音频工作站内的语音转文字转写工具**
 
@@ -11,7 +11,7 @@ ReaScript 前端加 Docker 托管 Whisper 后端组成：读取 REAPER 工程中
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `viral` | GPL-3.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

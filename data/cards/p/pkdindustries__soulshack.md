@@ -1,6 +1,6 @@
 # pkdindustries/soulshack
 
-⭐ 29 · Go · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pkdindustries/soulshack) · 个人维护
+⭐ 29 · Go · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/pkdindustries/soulshack) · 个人维护
 
 **LLM 驱动的 IRC 聊天机器人，多模型接入并带工具与沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pkdindustries/soulshack 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 29（+0）
 
 
 ---

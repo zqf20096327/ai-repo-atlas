@@ -1,6 +1,6 @@
 # hangzhou-hz/ApplyBuddy
 
-⭐ 27 · MIT · 推送 2026-08-16 · [GitHub](https://github.com/hangzhou-hz/ApplyBuddy) · 个人维护 · 中文 README
+⭐ 28 · MIT · 推送 2026-08-16 · [GitHub](https://github.com/hangzhou-hz/ApplyBuddy) · 个人维护 · 中文 README
 
 **给求职者：在 Codex 中按规则执行找岗、筛选与投递的工作区**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hangzhou-hz/ApplyBuddy 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 25, 26, 27, 27]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 23 --> 29
+    line [24, 25, 26, 25, 26, 27, 28]
 ```
 
-2026-10-23 24 → 2026-11-25 27（+3）
+2026-10-24 24 → 2026-11-26 28（+4）
 
 
 ---

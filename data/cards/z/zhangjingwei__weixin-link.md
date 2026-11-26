@@ -1,6 +1,6 @@
 # zhangjingwei/weixin-link
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zhangjingwei/weixin-link) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/zhangjingwei/weixin-link) · 个人维护 · 中文 README
 
 **在微信里遥控专属 AI 助手干活的自托管工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhangjingwei/weixin-link 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-11 5 → 2026-11-25 5（+0）
+2026-11-11 5 → 2026-11-26 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # TextGeneratorio/text-generator.io
 
-⭐ 38 · Python · 推送 2026-11-08 · [GitHub](https://github.com/TextGeneratorio/text-generator.io) · [官网](https://text-generator.io) · 组织维护
+⭐ 38 · Python · 推送 2026-11-25 · [GitHub](https://github.com/TextGeneratorio/text-generator.io) · [官网](https://text-generator.io) · 组织维护
 
 **可自托管的多模型 AI API 服务：文本生成、TTS 与语音转写**
 
@@ -46,12 +46,12 @@ text-generator.io 的服务端系统：在磁盘、RAM 与 GPU 间平衡调度�
 ```mermaid
 xychart-beta
     title "TextGeneratorio/text-generator.io 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 37 --> 39
     line [38, 38]
 ```
 
-2026-10-23 38 → 2026-11-25 38（+0）
+2026-10-24 38 → 2026-11-26 38（+0）
 
 
 ---

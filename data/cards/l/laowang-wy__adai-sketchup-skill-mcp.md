@@ -1,6 +1,6 @@
 # laowang-wy/adai-sketchup-skill-mcp
 
-⭐ 115 · JavaScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/laowang-wy/adai-sketchup-skill-mcp) · 个人维护 · 中文 README
+⭐ 119 · JavaScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/laowang-wy/adai-sketchup-skill-mcp) · 个人维护 · 中文 README
 
 **让 AI Agent 在 SketchUp 中做可编辑建筑建模的 MCP 服务器与 Skill**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "laowang-wy/adai-sketchup-skill-mcp 星数(近 9 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 100 --> 117
-    line [101, 102, 109, 112, 113, 114, 115, 116, 115]
+    title "laowang-wy/adai-sketchup-skill-mcp 星数(近 10 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 100 --> 120
+    line [101, 102, 109, 112, 113, 114, 115, 116, 115, 119]
 ```
 
-2026-11-10 101 → 2026-11-25 115（+14）
+2026-11-10 101 → 2026-11-26 119（+18）
 
 
 ---

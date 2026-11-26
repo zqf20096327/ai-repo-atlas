@@ -1,6 +1,6 @@
 # ammario/kalshi-docs
 
-⭐ 10 · TypeScript · CC0-1.0 · 推送 2026-11-22 · [GitHub](https://github.com/ammario/kalshi-docs) · 个人维护
+⭐ 10 · TypeScript · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/ammario/kalshi-docs) · 个人维护
 
 **给 AI 编码代理用的 Kalshi API 文档 Markdown 仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ammario/kalshi-docs 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

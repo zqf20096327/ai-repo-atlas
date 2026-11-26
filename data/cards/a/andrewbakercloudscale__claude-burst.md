@@ -1,6 +1,6 @@
 # andrewbakercloudscale/claude-burst
 
-⭐ 17 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/andrewbakercloudscale/claude-burst) · [官网](https://andrewbaker.ninja/2026/08/28/two-prices-for-the-same-model-building-claude-burst/) · 个人维护
+⭐ 17 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/andrewbakercloudscale/claude-burst) · [官网](https://andrewbaker.ninja/2026/08/28/two-prices-for-the-same-model-building-claude-burst/) · 个人维护
 
 **Mac 上长时间运行 Claude Code/Codex 的本地网关与运维面板**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "andrewbakercloudscale/claude-burst 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

@@ -41,6 +41,18 @@
 > L11: ## To run it locally follow these steps (on Python 3.8, there are issues on later version of Python)
 > L116: **Learn MLOps end to end:** Machine Learning with Databricks and MLflow (Coursera) · MLOps specialization, Duke (C
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/flask-ml-azure-serverless 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 122 --> 124
+    line [123, 123]
+```
+
+2026-11-25 123 → 2026-11-26 123（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `d48638ec7a9e` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # ProprietaryLegal/DGX-sPLIce-DeepSeek-V4.1-Flash-2xDGX-Spark-2xRTX3090-drafter-x86-offload
 
-⭐ 6 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/ProprietaryLegal/DGX-sPLIce-DeepSeek-V4.1-Flash-2xDGX-Spark-2xRTX3090-drafter-x86-offload) · [官网](https://proprietarylegal.ai) · 组织维护
+⭐ 7 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/ProprietaryLegal/DGX-sPLIce-DeepSeek-V4.1-Flash-2xDGX-Spark-2xRTX3090-drafter-x86-offload) · [官网](https://proprietarylegal.ai) · 组织维护
 
 **在 2x DGX Spark + 2x RTX 3090 上本地部署 DeepSeek 的构建与基准记录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ProprietaryLegal/DGX-sPLIce-DeepSeek-V4.1-Flash-2xDGX-Spark-2xRTX3090-drafter-x86-offload 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 6, 6]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 6, 7]
 ```
 
-2026-11-02 3 → 2026-11-25 6（+3）
+2026-11-02 3 → 2026-11-26 7（+4）
 
 
 ---

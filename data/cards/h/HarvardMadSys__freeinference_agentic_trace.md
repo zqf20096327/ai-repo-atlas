@@ -1,6 +1,6 @@
 # HarvardMadSys/freeinference_agentic_trace
 
-⭐ 19 · Python · 推送 2026-11-05 · [GitHub](https://github.com/HarvardMadSys/freeinference_agentic_trace) · [官网](https://agent-traces.freeinference.org/) · 组织维护
+⭐ 20 · Python · 推送 2026-11-05 · [GitHub](https://github.com/HarvardMadSys/freeinference_agentic_trace) · [官网](https://agent-traces.freeinference.org/) · 组织维护
 
 **人类驱动 Agent 工作负载的大规模追踪数据集与论文复现工件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HarvardMadSys/freeinference_agentic_trace 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 7 --> 20
-    line [8, 9, 10, 9, 12, 13, 15, 16, 18, 19, 19]
+    title "HarvardMadSys/freeinference_agentic_trace 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 8 --> 21
+    line [9, 10, 9, 12, 13, 15, 16, 18, 19, 20]
 ```
 
-2026-10-23 8 → 2026-11-25 19（+11）
+2026-10-24 9 → 2026-11-26 20（+11）
 
 
 ---

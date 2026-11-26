@@ -1,6 +1,6 @@
 # gplanchat/awf-workflow-openspec-tdd
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/gplanchat/awf-workflow-openspec-tdd) · 个人维护
+⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/gplanchat/awf-workflow-openspec-tdd) · 个人维护
 
 **给开发者提供 OpenSpec 测试先行的 agent 工作流包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gplanchat/awf-workflow-openspec-tdd 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 3（+0）
 
 
 ---

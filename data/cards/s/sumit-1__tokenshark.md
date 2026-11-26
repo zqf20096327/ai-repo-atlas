@@ -1,6 +1,6 @@
 # sumit-1/tokenshark
 
-⭐ 4 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/sumit-1/tokenshark) · 个人维护
+⭐ 4 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/sumit-1/tokenshark) · 个人维护
 
 **面向研究人员与学习者在浏览器中检查、编辑和单步调试开源语言与图像模型**
 
@@ -47,12 +47,12 @@ Tokenshark 是一个在浏览器中运行的可视化调试环境，从纯 PyTor
 ```mermaid
 xychart-beta
     title "sumit-1/tokenshark 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-12 4 → 2026-11-25 4（+0）
+2026-11-12 4 → 2026-11-26 4（+0）
 
 
 ---

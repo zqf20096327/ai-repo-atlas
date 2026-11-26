@@ -1,6 +1,6 @@
 # basetenlabs/loops-cookbook
 
-⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/basetenlabs/loops-cookbook) · [官网](https://docs.baseten.co/loops/overview) · 组织维护
+⭐ 7 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/basetenlabs/loops-cookbook) · [官网](https://docs.baseten.co/loops/overview) · 组织维护
 
 **面向 Baseten Loops 用户的 RL/SFT 后训练模板与配方集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "basetenlabs/loops-cookbook 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-20", "2026-11-26"]
     y-axis "stars" 6 --> 10
     line [9, 8, 7, 7]
 ```
 
-2026-11-08 9 → 2026-11-25 7（-2）
+2026-11-08 9 → 2026-11-26 7（-2）
 
 
 ---

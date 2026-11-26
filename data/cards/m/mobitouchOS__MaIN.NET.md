@@ -1,6 +1,6 @@
 # mobitouchOS/MaIN.NET
 
-⭐ 200 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mobitouchOS/MaIN.NET) · [官网](https://usemain.net) · 组织维护
+⭐ 199 · C# · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mobitouchOS/MaIN.NET) · [官网](https://usemain.net) · 组织维护
 
 **.NET 库：将 LLM、RAG 与 Agent 集成进 AI 工作流**
 
@@ -45,12 +45,12 @@ MaIN.NET（Modular Artificial Intelligence Network）是发布在 NuGet 的 .NET
 ```mermaid
 xychart-beta
     title "mobitouchOS/MaIN.NET 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 199 --> 201
-    line [200, 200]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 198 --> 201
+    line [200, 199]
 ```
 
-2026-10-23 200 → 2026-11-25 200（+0）
+2026-10-24 200 → 2026-11-26 199（-1）
 
 
 ---

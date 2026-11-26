@@ -1,6 +1,6 @@
 # Xin-YuXiao/Awesome-AI-for-Astronomy
 
-⭐ 415 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 组织维护
+⭐ 420 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy) · [官网](https://xin-yuxiao.github.io/Awesome-AI-for-Astronomy/) · 组织维护
 
 **天体物理等领域 AI 研究的论文清单（468 篇）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xin-YuXiao/Awesome-AI-for-Astronomy 星数(近 13 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 6 --> 452
-    line [43, 95, 155, 182, 216, 280, 329, 381, 398, 401, 407, 411, 415]
+    title "Xin-YuXiao/Awesome-AI-for-Astronomy 星数(近 14 点)"
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 457
+    line [43, 95, 155, 182, 216, 280, 329, 381, 398, 401, 407, 411, 415, 420]
 ```
 
-2026-11-11 43 → 2026-11-25 415（+372）
+2026-11-11 43 → 2026-11-26 420（+377）
 
 
 ---

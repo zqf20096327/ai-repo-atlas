@@ -45,12 +45,12 @@ IPSuite 提供生成 Machine Learned Interatomic Potentials（机器学习原子
 ```mermaid
 xychart-beta
     title "zincware/IPSuite 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-23 25 → 2026-11-25 25（+0）
+2026-10-24 25 → 2026-11-26 25（+0）
 
 
 ---

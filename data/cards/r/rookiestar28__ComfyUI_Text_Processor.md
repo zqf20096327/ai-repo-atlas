@@ -1,6 +1,6 @@
 # rookiestar28/ComfyUI_Text_Processor
 
-⭐ 18 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/rookiestar28/ComfyUI_Text_Processor) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/rookiestar28/ComfyUI_Text_Processor) · 个人维护
 
 **ComfyUI 文本处理节点包：20 个节点用于提示词与工作流自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "rookiestar28/ComfyUI_Text_Processor 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-26"]
     y-axis "stars" 17 --> 20
-    line [18, 19, 18, 18]
+    line [18, 19, 18, 19]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 19（+1）
 
 
 ---

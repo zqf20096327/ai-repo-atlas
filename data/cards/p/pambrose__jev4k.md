@@ -46,12 +46,12 @@ jev4k 是访问 TypeSafe Jev 模型的 Kotlin Multiplatform 库：开发者用 D
 ```mermaid
 xychart-beta
     title "pambrose/jev4k 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

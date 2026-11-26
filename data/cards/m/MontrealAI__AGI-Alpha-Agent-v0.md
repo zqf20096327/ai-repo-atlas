@@ -1,6 +1,6 @@
 # MontrealAI/AGI-Alpha-Agent-v0
 
-⭐ 310 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MontrealAI/AGI-Alpha-Agent-v0) · [官网](https://montrealai.github.io/AGI-Alpha-Agent-v0/) · 组织维护
+⭐ 309 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/MontrealAI/AGI-Alpha-Agent-v0) · [官网](https://montrealai.github.io/AGI-Alpha-Agent-v0/) · 组织维护
 
 **面向研究者与 agent 开发者的 AGI 架构研究论文集与配套实验工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "MontrealAI/AGI-Alpha-Agent-v0 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 301 --> 312
-    line [302, 303, 304, 305, 306, 307, 304, 309, 310, 311, 310, 310]
+    title "MontrealAI/AGI-Alpha-Agent-v0 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 302 --> 312
+    line [303, 304, 305, 306, 307, 304, 309, 310, 311, 310, 309]
 ```
 
-2026-10-23 302 → 2026-11-25 310（+8）
+2026-10-24 303 → 2026-11-26 309（+6）
 
 
 ---

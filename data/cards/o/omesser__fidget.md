@@ -1,6 +1,6 @@
 # omesser/fidget
 
-⭐ 11 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/omesser/fidget) · [官网](https://omesser.github.io/fidget/) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/omesser/fidget) · [官网](https://omesser.github.io/fidget/) · 个人维护
 
 **桌面宠物应用：可挂接已有 AI harness 协助工作**
 
@@ -47,12 +47,12 @@ Fidget 是一个屏幕桌面宠物（desktop pet），角色在桌面上行走�
 ```mermaid
 xychart-beta
     title "omesser/fidget 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-02", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-02 10 → 2026-11-25 11（+1）
+2026-11-02 10 → 2026-11-26 12（+2）
 
 
 ---

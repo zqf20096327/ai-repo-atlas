@@ -1,6 +1,6 @@
 # ebrahimpak/BizDiag
 
-⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/ebrahimpak/BizDiag) · 个人维护
+⭐ 11 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ebrahimpak/BizDiag) · 个人维护
 
 **面向企业架构师的 ArchiMate 模型分析与 AI 辅助文档套件**
 
@@ -41,6 +41,18 @@
 > L7: BizDiag™ is an open-source software suite that transforms ArchiMate® models into structured, analyzable data to supp
 > L9: Intelligent EA Architecture Blueprint, Capability-Based Planning, and AI-assisted architecture documentation. BizDia
 > L21: develop reusable automation around Enterprise Architecture models. Built around ArchiMate®, Archi, jArchi, GraalVM®
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ebrahimpak/BizDiag 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 12
+    line [11, 11]
+```
+
+2026-11-25 11 → 2026-11-26 11（+0）
 
 
 ---

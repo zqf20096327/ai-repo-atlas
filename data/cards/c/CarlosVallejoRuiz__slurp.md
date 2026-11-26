@@ -1,6 +1,6 @@
 # CarlosVallejoRuiz/slurp
 
-⭐ 47 · Python · 推送 2026-09-15 · [GitHub](https://github.com/CarlosVallejoRuiz/slurp) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/CarlosVallejoRuiz/slurp) · 个人维护
 
 **给 AI 编程 agent 的 token 预算感知知识图查询工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "CarlosVallejoRuiz/slurp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 46 --> 48
     line [47, 47]
 ```
 
-2026-10-23 47 → 2026-11-25 47（+0）
+2026-10-24 47 → 2026-11-26 47（+0）
 
 
 ---

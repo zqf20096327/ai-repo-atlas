@@ -1,6 +1,6 @@
 # MakazhanAlpamys/Kaspi-Analytics-Platform
 
-⭐ 10 · TypeScript · 推送 2026-02-14 · [GitHub](https://github.com/MakazhanAlpamys/Kaspi-Analytics-Platform) · 个人维护
+⭐ 11 · TypeScript · 推送 2026-02-14 · [GitHub](https://github.com/MakazhanAlpamys/Kaspi-Analytics-Platform) · 个人维护
 
 **面向电商卖家的 Kaspi.kz 商品分析平台，含销售 ML 预测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MakazhanAlpamys/Kaspi-Analytics-Platform 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-20", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-20 10 → 2026-11-25 10（+0）
+2026-11-20 10 → 2026-11-26 11（+1）
 
 
 ---

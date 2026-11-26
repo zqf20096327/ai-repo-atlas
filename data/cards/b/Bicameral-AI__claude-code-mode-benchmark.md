@@ -41,6 +41,18 @@
 > L44: **What the benchmark is.** Six small tests, each run in a new Claude Code session with Code Mode off and again with
 > L52: - **To be repeatable by anyone.** The scripts, prompts and test data are all here, and one model takes well under a
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Bicameral-AI/claude-code-mode-benchmark 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `40eca1483d8c` · [字段定义](../../DATASET.md)*

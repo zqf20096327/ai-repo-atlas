@@ -1,6 +1,6 @@
 # vaibhav-mattoo/cxt
 
-⭐ 54 · Rust · MIT · 推送 2026-08-28 · [GitHub](https://github.com/vaibhav-mattoo/cxt) · [官网](https://github.com/vaibhav-mattoo/cxt) · 个人维护
+⭐ 53 · Rust · MIT · 推送 2026-08-28 · [GitHub](https://github.com/vaibhav-mattoo/cxt) · [官网](https://github.com/vaibhav-mattoo/cxt) · 个人维护
 
 **将代码文件聚合为剪贴板上下文块的 Rust CLI，供 AI 助手使用**
 
@@ -45,12 +45,12 @@ Rust 编写的命令行/TUI 工具，把多个文件与目录聚合为单一上�
 ```mermaid
 xychart-beta
     title "vaibhav-mattoo/cxt 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 53 --> 55
-    line [54, 54]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 52 --> 55
+    line [54, 53]
 ```
 
-2026-10-23 54 → 2026-11-25 54（+0）
+2026-10-24 54 → 2026-11-26 53（-1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "BeamusWayne/RAG-learning 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "BeamusWayne/RAG-learning 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 48 --> 51
-    line [49, 50]
+    line [49, 50, 50]
 ```
 
-2026-10-23 49 → 2026-11-25 50（+1）
+2026-10-24 49 → 2026-11-26 50（+1）
 
 
 ---

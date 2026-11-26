@@ -1,6 +1,6 @@
 # DeepSoftwareAnalytics/Awesome-Issue-Resolution
 
-⭐ 91 · Python · 推送 2026-09-23 · [GitHub](https://github.com/DeepSoftwareAnalytics/Awesome-Issue-Resolution) · [官网](https://deepsoftwareanalytics.github.io/Awesome-Issue-Resolution/) · 组织维护
+⭐ 91 · Python · 推送 2026-11-24 · [GitHub](https://github.com/DeepSoftwareAnalytics/Awesome-Issue-Resolution) · [官网](https://deepsoftwareanalytics.github.io/Awesome-Issue-Resolution/) · 组织维护
 
 **LLM 驱动的软件 issue 自动解决综述与论文清单（286 篇，14 类）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DeepSoftwareAnalytics/Awesome-Issue-Resolution 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-23", "2026-11-26"]
     y-axis "stars" 87 --> 92
     line [88, 89, 88, 89, 90, 91, 91]
 ```
 
-2026-10-23 88 → 2026-11-25 91（+3）
+2026-10-24 88 → 2026-11-26 91（+3）
 
 
 ---

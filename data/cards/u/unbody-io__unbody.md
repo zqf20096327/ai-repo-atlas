@@ -1,6 +1,6 @@
 # unbody-io/unbody
 
-⭐ 525 · TypeScript · Apache-2.0 · 推送 2026-04-14 · [GitHub](https://github.com/unbody-io/unbody) · [官网](https://unbody.io) · 组织维护
+⭐ 524 · TypeScript · Apache-2.0 · 推送 2026-04-14 · [GitHub](https://github.com/unbody-io/unbody) · [官网](https://unbody.io) · 组织维护
 
 **构建 AI 原生软件的模块化开源后端（已归档，未维护）**
 
@@ -44,12 +44,12 @@ Unbody 是面向 AI 原生软件的开源模块化后端，自称 'AI 时代的 
 ```mermaid
 xychart-beta
     title "unbody-io/unbody 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 522 --> 526
-    line [523, 524, 523, 524, 525, 525]
+    line [523, 524, 523, 524, 525, 524]
 ```
 
-2026-10-23 523 → 2026-11-25 525（+2）
+2026-10-24 523 → 2026-11-26 524（+1）
 
 
 ---

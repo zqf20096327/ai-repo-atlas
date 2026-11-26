@@ -1,6 +1,6 @@
 # muratcakmak/expo-ai-elements
 
-⭐ 32 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/muratcakmak/expo-ai-elements) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/muratcakmak/expo-ai-elements) · 个人维护
 
 **给 React Native 开发者的 25 个 AI 聊天 UI 组件库**
 
@@ -45,12 +45,12 @@ Vercel AI Elements 的 React Native 移植版，提供 25 个可复制的 AI 聊
 ```mermaid
 xychart-beta
     title "muratcakmak/expo-ai-elements 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 29 --> 33
-    line [30, 31, 32, 32]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 29 --> 34
+    line [30, 31, 32, 33]
 ```
 
-2026-10-23 30 → 2026-11-25 32（+2）
+2026-10-24 30 → 2026-11-26 33（+3）
 
 
 ---

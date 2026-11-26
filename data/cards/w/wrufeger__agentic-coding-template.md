@@ -1,6 +1,6 @@
 # wrufeger/agentic-coding-template
 
-⭐ 10 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/wrufeger/agentic-coding-template) · [官网](https://wrufeger.github.io/agentic-coding-template-docs/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/wrufeger/agentic-coding-template) · [官网](https://wrufeger.github.io/agentic-coding-template-docs/) · 个人维护
 
 **AI 编码助手的项目模板：规则、技能、子代理与强制钩子**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wrufeger/agentic-coding-template 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-10-25", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-18", "2026-10-25", "2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 11
     line [3, 4, 10, 10]
 ```
 
-2026-10-18 3 → 2026-11-25 10（+7）
+2026-10-18 3 → 2026-11-26 10（+7）
 
 
 ---

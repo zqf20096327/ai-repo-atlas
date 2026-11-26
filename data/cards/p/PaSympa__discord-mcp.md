@@ -1,6 +1,6 @@
 # PaSympa/discord-mcp
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PaSympa/discord-mcp) · [官网](https://pasympa.github.io/discord-mcp/) · 个人维护
+⭐ 41 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/PaSympa/discord-mcp) · [官网](https://pasympa.github.io/discord-mcp/) · 个人维护
 
 **用自然语言管理 Discord 服务器的 MCP 服务器（95+ 工具）**
 
@@ -44,13 +44,13 @@ TypeScript + Node.js 实现的 Discord MCP 服务器，向 Claude Desktop、Clau
 
 ```mermaid
 xychart-beta
-    title "PaSympa/discord-mcp 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-25"]
+    title "PaSympa/discord-mcp 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 28 --> 42
-    line [29, 32, 33, 34, 37, 38, 39, 41]
+    line [29, 32, 33, 34, 37, 38, 39, 41, 41]
 ```
 
-2026-10-23 29 → 2026-11-25 41（+12）
+2026-10-24 29 → 2026-11-26 41（+12）
 
 
 ---

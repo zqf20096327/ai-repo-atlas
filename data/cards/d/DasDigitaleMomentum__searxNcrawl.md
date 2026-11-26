@@ -1,6 +1,6 @@
 # DasDigitaleMomentum/searxNcrawl
 
-⭐ 194 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/DasDigitaleMomentum/searxNcrawl) · [官网](https://www.searxncrawl.io) · 组织维护
+⭐ 195 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DasDigitaleMomentum/searxNcrawl) · [官网](https://www.searxncrawl.io) · 组织维护
 
 **给 AI agent 提供自托管网页搜索与 Markdown 抓取的 MCP 服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DasDigitaleMomentum/searxNcrawl 星数(近 14 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 178 --> 195
-    line [179, 181, 182, 183, 181, 185, 188, 189, 190, 191, 192, 193, 194, 194]
+    title "DasDigitaleMomentum/searxNcrawl 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 180 --> 196
+    line [181, 182, 183, 181, 185, 188, 189, 190, 191, 192, 193, 194, 195]
 ```
 
-2026-10-23 179 → 2026-11-25 194（+15）
+2026-10-24 181 → 2026-11-26 195（+14）
 
 
 ---

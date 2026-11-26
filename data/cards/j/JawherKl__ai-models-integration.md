@@ -1,6 +1,6 @@
 # JawherKl/ai-models-integration
 
-⭐ 38 · JavaScript · 推送 2026-05-17 · [GitHub](https://github.com/JawherKl/ai-models-integration) · 个人维护
+⭐ 45 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/JawherKl/ai-models-integration) · 个人维护
 
 **Node.js 后端：统一 API 接入多家 AI 模型服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JawherKl/ai-models-integration 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 37 --> 39
-    line [38, 38]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 37 --> 46
+    line [38, 45]
 ```
 
-2026-10-23 38 → 2026-11-25 38（+0）
+2026-10-24 38 → 2026-11-26 45（+7）
 
 
 ---

@@ -1,6 +1,6 @@
 # pprp/smol_training_zh
 
-⭐ 62 · TeX · 推送 2026-05-15 · [GitHub](https://github.com/pprp/smol_training_zh) · [官网](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) · 个人维护 · 中文 README
+⭐ 63 · TeX · 推送 2026-05-15 · [GitHub](https://github.com/pprp/smol_training_zh) · [官网](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook) · 个人维护 · 中文 README
 
 **SmolLM3 训练博客中文翻译：LLM 预训练/后训练/基础设施指南**
 
@@ -46,12 +46,12 @@ Hugging Face《Smol 训练手册》的中文翻译仓库，讲述 SmolLM3（3B �
 ```mermaid
 xychart-beta
     title "pprp/smol_training_zh 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-10-23 62 → 2026-11-25 62（+0）
+2026-10-24 62 → 2026-11-26 63（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # wrencanfly/openRocode
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/wrencanfly/openRocode) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/wrencanfly/openRocode) · 个人维护
 
 **让多模态模型以像素点击和代码驱动机器人的 agent harness**
 
@@ -47,12 +47,12 @@ openRocode 是一个开源 agent harness，把机器人控制转化为'3D comput
 ```mermaid
 xychart-beta
     title "wrencanfly/openRocode 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 8 --> 11
-    line [9, 10, 10]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 8 --> 13
+    line [9, 10, 12]
 ```
 
-2026-11-20 9 → 2026-11-25 10（+1）
+2026-11-20 9 → 2026-11-26 12（+3）
 
 
 ---

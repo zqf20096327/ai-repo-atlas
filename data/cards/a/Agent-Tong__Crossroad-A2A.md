@@ -1,6 +1,6 @@
 # Agent-Tong/Crossroad-A2A
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-10-19 · [GitHub](https://github.com/Agent-Tong/Crossroad-A2A) · 个人维护
+⭐ 20 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Agent-Tong/Crossroad-A2A) · 个人维护
 
 **跨机器跨 SaaS 的 agent 间邮件系统，让多个 AI 助手互相协作**
 
@@ -44,13 +44,13 @@ Agent-to-agent（A2A）邮件基础设施：给每台机器上的 agent 和网�
 
 ```mermaid
 xychart-beta
-    title "Agent-Tong/Crossroad-A2A 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 20, 18, 20, 20]
+    title "Agent-Tong/Crossroad-A2A 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 17 --> 21
+    line [18, 20, 18, 20, 20]
 ```
 
-2026-10-23 17 → 2026-11-25 20（+3）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

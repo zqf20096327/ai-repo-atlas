@@ -1,6 +1,6 @@
 # xinghaochen/awesome-hand-pose-estimation
 
-⭐ 3,421 · Python · 推送 2026-06-28 · [GitHub](https://github.com/xinghaochen/awesome-hand-pose-estimation) · [官网](https://xinghaochen.github.io/awesome-hand-pose-estimation/) · 个人维护
+⭐ 3,422 · Python · 推送 2026-06-28 · [GitHub](https://github.com/xinghaochen/awesome-hand-pose-estimation) · [官网](https://xinghaochen.github.io/awesome-hand-pose-estimation/) · 个人维护
 
 **手势姿态估计/跟踪研究论文与资源的策展清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xinghaochen/awesome-hand-pose-estimation 星数(近 17 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 3407 --> 3422
-    line [3408, 3409, 3410, 3412, 3413, 3414, 3409, 3416, 3417, 3418, 3417, 3418, 3417, 3419, 3420, 3421, 3421]
+    title "xinghaochen/awesome-hand-pose-estimation 星数(近 16 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 3408 --> 3423
+    line [3409, 3410, 3412, 3413, 3414, 3409, 3416, 3417, 3418, 3417, 3418, 3417, 3419, 3420, 3421, 3422]
 ```
 
-2026-10-23 3,408 → 2026-11-25 3,421（+13）
+2026-10-24 3,409 → 2026-11-26 3,422（+13）
 
 
 ---

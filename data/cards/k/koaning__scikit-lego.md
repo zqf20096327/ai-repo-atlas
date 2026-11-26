@@ -1,6 +1,6 @@
 # koaning/scikit-lego
 
-⭐ 1,412 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/koaning/scikit-lego) · [官网](https://koaning.github.io/scikit-lego/) · 组织维护
+⭐ 1,412 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/koaning/scikit-lego) · [官网](https://koaning.github.io/scikit-lego/) · 组织维护
 
 **给 scikit-learn 用户提供额外的 transformers/模型/指标组件库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "koaning/scikit-lego 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 1411 --> 1414
     line [1413, 1412, 1412]
 ```
 
-2026-10-23 1,413 → 2026-11-25 1,412（-1）
+2026-10-24 1,413 → 2026-11-26 1,412（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # jason-snell/humanized-cursor-trajectory-gen
 
-⭐ 52 · C# · MIT · 推送 2026-05-08 · [GitHub](https://github.com/jason-snell/humanized-cursor-trajectory-gen) · 个人维护
+⭐ 53 · C# · MIT · 推送 2026-05-08 · [GitHub](https://github.com/jason-snell/humanized-cursor-trajectory-gen) · 个人维护
 
 **生成拟人鼠标轨迹的自训练 ONNX 模型库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jason-snell/humanized-cursor-trajectory-gen 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 48 --> 53
-    line [49, 50, 49, 51, 52, 52]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 48 --> 54
+    line [49, 50, 49, 51, 52, 53]
 ```
 
-2026-10-23 49 → 2026-11-25 52（+3）
+2026-10-24 49 → 2026-11-26 53（+4）
 
 
 ---

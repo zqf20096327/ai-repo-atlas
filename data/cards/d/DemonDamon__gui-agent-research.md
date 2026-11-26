@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DemonDamon/gui-agent-research 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "DemonDamon/gui-agent-research 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 19 --> 22
-    line [21, 20]
+    line [21, 20, 20]
 ```
 
-2026-10-23 21 → 2026-11-25 20（-1）
+2026-10-24 21 → 2026-11-26 20（-1）
 
 
 ---

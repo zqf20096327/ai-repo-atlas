@@ -1,6 +1,6 @@
 # Fzkuji/OpenProgram
 
-⭐ 366 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/Fzkuji/OpenProgram) · [官网](https://openprogram.io/) · 组织维护 · 中文 README
+⭐ 374 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Fzkuji/OpenProgram) · [官网](https://fzkuji.github.io/OpenProgram/) · 组织维护 · 中文 README
 
 **开源 agent 框架：以会自我修改的 Python 程序构建 agent**
 
@@ -45,13 +45,13 @@ Agent 编排框架与工作区的组合：agent 定义为 Python 类，分支、
 
 ```mermaid
 xychart-beta
-    title "Fzkuji/OpenProgram 星数(近 9 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 265 --> 375
-    line [274, 291, 314, 328, 342, 352, 354, 362, 366]
+    title "Fzkuji/OpenProgram 星数(近 10 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 264 --> 384
+    line [274, 291, 314, 328, 342, 352, 354, 362, 366, 374]
 ```
 
-2026-11-15 274 → 2026-11-25 366（+92）
+2026-11-15 274 → 2026-11-26 374（+100）
 
 
 ---

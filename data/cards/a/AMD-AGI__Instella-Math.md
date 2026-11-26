@@ -46,12 +46,12 @@ AMD 发布的 Instella-3B-Math 模型训练代码库，覆盖两阶段数学 SFT
 ```mermaid
 xychart-beta
     title "AMD-AGI/Instella-Math 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-25 10（+0）
+2026-11-10 10 → 2026-11-26 10（+0）
 
 
 ---

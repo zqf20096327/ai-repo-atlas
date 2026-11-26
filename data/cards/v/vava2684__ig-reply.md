@@ -1,6 +1,6 @@
 # vava2684/ig-reply
 
-⭐ 19 · JavaScript · MIT · 推送 2026-08-01 · [GitHub](https://github.com/vava2684/ig-reply) · 个人维护 · 中文 README
+⭐ 19 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vava2684/ig-reply) · 个人维护 · 中文 README
 
 **用你的 AI 助理回 Instagram 留言的抓取/送出工具，零付费 AI API**
 
@@ -46,12 +46,12 @@ Node.js 命令行工具，面向经营 Instagram 商业账号的创作者：程�
 ```mermaid
 xychart-beta
     title "vava2684/ig-reply 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

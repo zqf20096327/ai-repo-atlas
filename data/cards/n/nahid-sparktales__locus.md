@@ -1,6 +1,6 @@
 # nahid-sparktales/locus
 
-⭐ 22 · Swift · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/nahid-sparktales/locus) · [官网](https://locushost.co) · 组织维护
+⭐ 23 · Swift · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/nahid-sparktales/locus) · [官网](https://locushost.co) · 组织维护
 
 **macOS 原生 AI 工作区：本地/托管模型、代理、浏览器与终端合一**
 
@@ -46,12 +46,12 @@ SwiftUI 编写的 macOS 桌面应用，把对话、项目文件、终端、浏�
 ```mermaid
 xychart-beta
     title "nahid-sparktales/locus 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

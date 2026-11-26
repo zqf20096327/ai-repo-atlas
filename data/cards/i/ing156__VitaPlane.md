@@ -1,6 +1,6 @@
 # ing156/VitaPlane
 
-⭐ 12 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ing156/VitaPlane) · [官网](https://ing156.github.io/VitaPlane/) · 个人维护
+⭐ 13 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ing156/VitaPlane) · [官网](https://ing156.github.io/VitaPlane/) · 个人维护
 
 **PS Vita 掌机上的第三方 Telegram 客户端**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ing156/VitaPlane 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-11-08", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-11-08 11 → 2026-11-25 12（+1）
+2026-11-08 11 → 2026-11-26 13（+2）
 
 
 ---

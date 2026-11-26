@@ -1,6 +1,6 @@
 # epam/statgpt-global-trusted-data-commons
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/epam/statgpt-global-trusted-data-commons) · [官网](https://statgpt.dialx.ai) · 组织维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/epam/statgpt-global-trusted-data-commons) · [官网](https://statgpt.dialx.ai) · 组织维护
 
 **面向用户的统计数据问答门户：LLM 对话探索 SDMX 数据**
 
@@ -45,12 +45,12 @@ EPAM 维护的 Global Trusted Data Commons 门户，基于 React、Next.js 与 N
 ```mermaid
 xychart-beta
     title "epam/statgpt-global-trusted-data-commons 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

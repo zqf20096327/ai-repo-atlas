@@ -1,6 +1,6 @@
 # Leostrange/DeepSeek-Harness-Android
 
-⭐ 14 · Kotlin · 推送 2026-11-13 · [GitHub](https://github.com/Leostrange/DeepSeek-Harness-Android) · 个人维护
+⭐ 13 · Kotlin · 推送 2026-11-13 · [GitHub](https://github.com/Leostrange/DeepSeek-Harness-Android) · 个人维护
 
 **DeepSeek Harness Android 的俄语化分支：安卓端 AI Agent 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Leostrange/DeepSeek-Harness-Android 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
     y-axis "stars" 5 --> 15
-    line [7, 6, 10, 11, 13, 14, 14]
+    line [7, 6, 10, 11, 13, 14, 13]
 ```
 
-2026-10-18 7 → 2026-11-25 14（+7）
+2026-10-18 7 → 2026-11-26 13（+6）
 
 
 ---

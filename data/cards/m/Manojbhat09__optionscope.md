@@ -1,6 +1,6 @@
 # Manojbhat09/optionscope
 
-⭐ 11 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/Manojbhat09/optionscope) · [官网](https://optionscope-ryto.onrender.com) · 个人维护
+⭐ 12 · JavaScript · 推送 2026-08-25 · [GitHub](https://github.com/Manojbhat09/optionscope) · [官网](https://optionscope-ryto.onrender.com) · 个人维护
 
 **给期权交易者的本地交易分析与 AI 辅助复盘仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Manojbhat09/optionscope 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # davidsorianop021-cmd/perplexity-pro-applepay-
 
-⭐ 91 · 推送 2026-11-04 · [GitHub](https://github.com/davidsorianop021-cmd/perplexity-pro-applepay-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 116 · 推送 2026-11-04 · [GitHub](https://github.com/davidsorianop021-cmd/perplexity-pro-applepay-) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **Perplexity Pro 订阅支付避坑指南与 CoreGold 开卡教程**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "davidsorianop021-cmd/perplexity-pro-applepay- 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 13 --> 98
-    line [20, 42, 54, 58, 64, 61, 70, 91]
+    title "davidsorianop021-cmd/perplexity-pro-applepay- 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 11 --> 125
+    line [20, 42, 54, 58, 64, 61, 70, 91, 116]
 ```
 
-2026-11-08 20 → 2026-11-25 91（+71）
+2026-11-08 20 → 2026-11-26 116（+96）
 
 
 ---

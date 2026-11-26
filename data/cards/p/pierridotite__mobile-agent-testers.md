@@ -1,6 +1,6 @@
 # pierridotite/mobile-agent-testers
 
-⭐ 1,472 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pierridotite/mobile-agent-testers) · 个人维护
+⭐ 2,290 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/pierridotite/mobile-agent-testers) · 个人维护
 
 **在 GitHub 免费运行器上并行运行 20 个 AI 测试员找出 App 缺陷**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "pierridotite/mobile-agent-testers 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 0 --> 1614
-    line [45, 48, 52, 377, 1472]
+    title "pierridotite/mobile-agent-testers 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 2514
+    line [45, 48, 52, 377, 1472, 2290]
 ```
 
-2026-11-20 45 → 2026-11-25 1,472（+1,427）
+2026-11-20 45 → 2026-11-26 2,290（+2,245）
 
 
 ---

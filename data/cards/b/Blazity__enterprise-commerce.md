@@ -1,6 +1,6 @@
 # Blazity/enterprise-commerce
 
-⭐ — · [GitHub]() · 组织维护
+⭐ 706 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Blazity/enterprise-commerce) · [官网](https://next-enterprise-commerce.vercel.app) · 组织维护
 
 **面向企业的 Next.js 电商店面模板：Shopify 后端 + Algolia 中间层**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Blazity/enterprise-commerce 星数(近 9 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-23", "2026-11-24"]
-    y-axis "stars" 703 --> 707
-    line [704, 706, 705, 706, 705, 706, 705, 706, 706]
+    title "Blazity/enterprise-commerce 星数(近 8 点)"
+    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 704 --> 707
+    line [706, 705, 706, 705, 706, 705, 706, 706]
 ```
 
-2026-10-22 704 → 2026-11-24 706（+2）
+2026-10-23 706 → 2026-11-26 706（+0）
 
 
 ---

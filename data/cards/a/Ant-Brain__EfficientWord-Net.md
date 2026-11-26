@@ -1,6 +1,6 @@
 # Ant-Brain/EfficientWord-Net
 
-⭐ 319 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/Ant-Brain/EfficientWord-Net) · [官网](https://ant-brain.github.io/EfficientWord-Net/) · 组织维护
+⭐ 320 · Jupyter Notebook · Apache-2.0 · 推送 2026-02-11 · [GitHub](https://github.com/Ant-Brain/EfficientWord-Net) · [官网](https://ant-brain.github.io/EfficientWord-Net/) · 组织维护
 
 **给开发者的少样本自定义热词检测 Python 引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ant-Brain/EfficientWord-Net 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-21", "2026-11-26"]
     y-axis "stars" 318 --> 321
-    line [319, 320, 319, 319]
+    line [319, 320, 319, 320]
 ```
 
-2026-10-23 319 → 2026-11-25 319（+0）
+2026-10-24 319 → 2026-11-26 320（+1）
 
 
 ---

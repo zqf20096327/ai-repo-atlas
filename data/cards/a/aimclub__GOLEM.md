@@ -1,6 +1,6 @@
 # aimclub/GOLEM
 
-⭐ 74 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/aimclub/GOLEM) · [官网](https://thegolem.readthedocs.io) · 组织维护
+⭐ 75 · Python · BSD-3-Clause · 推送 2026-09-30 · [GitHub](https://github.com/aimclub/GOLEM) · [官网](https://thegolem.readthedocs.io) · 组织维护
 
 **面向图结构模型的进化优化与学习框架**
 
@@ -45,12 +45,12 @@ ITMO 大学支持的通用 AI 框架，用元启发式（主要是进化）方�
 ```mermaid
 xychart-beta
     title "aimclub/GOLEM 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 73 --> 75
-    line [74, 74]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 73 --> 76
+    line [74, 75]
 ```
 
-2026-10-23 74 → 2026-11-25 74（+0）
+2026-10-24 74 → 2026-11-26 75（+1）
 
 
 ---

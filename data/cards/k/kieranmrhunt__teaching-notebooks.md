@@ -1,6 +1,6 @@
 # kieranmrhunt/teaching-notebooks
 
-⭐ 21 · Jupyter Notebook · 推送 2026-10-05 · [GitHub](https://github.com/kieranmrhunt/teaching-notebooks) · 组织维护
+⭐ 21 · Jupyter Notebook · 推送 2026-11-24 · [GitHub](https://github.com/kieranmrhunt/teaching-notebooks) · 组织维护
 
 **气象学与机器学习教学的可运行 Jupyter 笔记本集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kieranmrhunt/teaching-notebooks 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

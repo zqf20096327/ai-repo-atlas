@@ -40,6 +40,18 @@
 > L5: A primer on pytest
 > L16: * CI Systems with PyTest
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/pytest-tips-tricks 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 49 --> 51
+    line [50, 50]
+```
+
+2026-11-25 50 → 2026-11-26 50（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `fcb2c95414ab` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # parasite6/noullama
 
-⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/parasite6/noullama) · [官网](https://noullama.dev) · 个人维护
+⭐ 3 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/parasite6/noullama) · [官网](https://noullama.dev) · 个人维护
 
 **本地决策模型工作台与 API，基于 llama.cpp 运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "parasite6/noullama 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 3（+0）
 
 
 ---

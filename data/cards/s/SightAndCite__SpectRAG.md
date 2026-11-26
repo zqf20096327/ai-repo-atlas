@@ -1,6 +1,6 @@
 # SightAndCite/SpectRAG
 
-⭐ 51 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/SightAndCite/SpectRAG) · [官网](https://sightandcite.github.io/SpectRAG/) · 组织维护
+⭐ 52 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/SightAndCite/SpectRAG) · [官网](https://sightandcite.github.io/SpectRAG/) · 组织维护
 
 **给 RAG 开发者：谱图增强的检索框架，提升多跳问答上下文选择**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SightAndCite/SpectRAG 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 49 --> 52
-    line [50, 51, 51]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 49 --> 53
+    line [50, 51, 52]
 ```
 
-2026-11-08 50 → 2026-11-25 51（+1）
+2026-11-08 50 → 2026-11-26 52（+2）
 
 
 ---

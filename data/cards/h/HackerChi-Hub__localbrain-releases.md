@@ -1,6 +1,6 @@
 # HackerChi-Hub/localbrain-releases
 
-⭐ 16 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/HackerChi-Hub/localbrain-releases) · [官网](https://hyphentech.top/localbrain-local-ai-box/) · 组织维护 · 中文 README
+⭐ 16 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/HackerChi-Hub/localbrain-releases) · [官网](https://hyphentech.top/localbrain-local-ai-box/) · 组织维护 · 中文 README
 
 **本地大模型与文件、语音/图片/视频任务的桌面工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "HackerChi-Hub/localbrain-releases 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 12 --> 17
     line [13, 14, 13, 15, 16, 16]
 ```
 
-2026-10-23 13 → 2026-11-25 16（+3）
+2026-10-24 13 → 2026-11-26 16（+3）
 
 
 ---

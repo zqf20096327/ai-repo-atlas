@@ -1,6 +1,6 @@
 # photonixapp/photonix
 
-⭐ 1,953 · Python · AGPL-3.0 · 推送 2026-10-28 · [GitHub](https://github.com/photonixapp/photonix) · [官网](https://photonix.org/) · 组织维护
+⭐ 1,953 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/photonixapp/photonix) · [官网](https://photonix.org/) · 组织维护
 
 **自托管照片管理服务器：用物体/人脸识别等智能过滤找照片**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "photonixapp/photonix 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-18", "2026-11-20", "2026-11-22", "2026-11-26"]
     y-axis "stars" 1952 --> 1957
     line [1955, 1956, 1955, 1954, 1953, 1953]
 ```
 
-2026-10-23 1,955 → 2026-11-25 1,953（-2）
+2026-10-24 1,955 → 2026-11-26 1,953（-2）
 
 
 ---

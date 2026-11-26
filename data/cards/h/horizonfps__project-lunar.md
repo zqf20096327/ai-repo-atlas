@@ -1,6 +1,6 @@
 # horizonfps/project-lunar
 
-⭐ 48 · Python · 推送 2026-09-07 · [GitHub](https://github.com/horizonfps/project-lunar) · 个人维护
+⭐ 49 · Python · 推送 2026-09-07 · [GitHub](https://github.com/horizonfps/project-lunar) · 个人维护
 
 **LLM 驱动的本地优先叙事 RPG 引擎：作者建世界，AI 讲故事**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "horizonfps/project-lunar 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 41 --> 49
-    line [42, 45, 47, 48, 48]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 41 --> 50
+    line [42, 45, 47, 48, 49]
 ```
 
-2026-10-23 42 → 2026-11-25 48（+6）
+2026-10-24 42 → 2026-11-26 49（+7）
 
 
 ---

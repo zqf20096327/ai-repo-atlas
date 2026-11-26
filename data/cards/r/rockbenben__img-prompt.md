@@ -1,6 +1,6 @@
 # rockbenben/img-prompt
 
-⭐ 374 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rockbenben/img-prompt) · [官网](https://prompt.newzone.top) · 个人维护 · 中文 README
+⭐ 375 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rockbenben/img-prompt) · [官网](https://prompt.newzone.top) · 个人维护 · 中文 README
 
 **非英文用户点选母语标签自动拼装英文 AI 绘图/视频提示词**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "rockbenben/img-prompt 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 367 --> 375
-    line [368, 369, 368, 370, 369, 370, 371, 372, 373, 374]
+    title "rockbenben/img-prompt 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 367 --> 376
+    line [368, 369, 368, 370, 369, 370, 371, 372, 373, 374, 375]
 ```
 
-2026-10-23 368 → 2026-11-25 374（+6）
+2026-10-24 368 → 2026-11-26 375（+7）
 
 
 ---

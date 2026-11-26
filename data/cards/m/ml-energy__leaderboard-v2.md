@@ -1,6 +1,6 @@
 # ml-energy/leaderboard-v2
 
-⭐ 50 · Python · Apache-2.0 · 推送 2025-11-29 · [GitHub](https://github.com/ml-energy/leaderboard-v2) · [官网](https://ml.energy/leaderboard/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **GenAI 能耗基准测试与测量数据排行榜（V2，已弃用）**
 
@@ -11,7 +11,7 @@ ML.ENERGY Benchmark and Leaderboard V2 仓库，定位为生成式 AI 能耗基�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

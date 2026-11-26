@@ -1,6 +1,6 @@
 # marcopatzelt/brunnfeld-agentic-world
 
-⭐ 140 · TypeScript · MIT · 推送 2026-04-06 · [GitHub](https://github.com/marcopatzelt/brunnfeld-agentic-world) · 个人维护
+⭐ 141 · TypeScript · MIT · 推送 2026-04-06 · [GitHub](https://github.com/marcopatzelt/brunnfeld-agentic-world) · 个人维护
 
 **中世纪村庄经济模拟：最多 1000 个 LLM 智能体自主生产与交易**
 
@@ -45,12 +45,12 @@ Node.js/TypeScript 实现的 LLM 多智能体经济模拟引擎：22 个地点�
 ```mermaid
 xychart-beta
     title "marcopatzelt/brunnfeld-agentic-world 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 138 --> 141
-    line [139, 140, 140]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 138 --> 142
+    line [139, 140, 141]
 ```
 
-2026-10-23 139 → 2026-11-25 140（+1）
+2026-10-24 139 → 2026-11-26 141（+2）
 
 
 ---

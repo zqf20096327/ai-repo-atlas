@@ -1,6 +1,6 @@
 # jawherr/machine-learning-algorithme
 
-⭐ 21 · Jupyter Notebook · 推送 2026-01-12 · [GitHub](https://github.com/jawherr/machine-learning-algorithme) · 个人维护
+⭐ 28 · Jupyter Notebook · 推送 2026-01-12 · [GitHub](https://github.com/jawherr/machine-learning-algorithme) · 个人维护
 
 **Jupyter Notebook 实现的多种机器学习算法集合**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "jawherr/machine-learning-algorithme 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 21, 21]
+    title "jawherr/machine-learning-algorithme 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 20 --> 29
+    line [22, 21, 28]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 22 → 2026-11-26 28（+6）
 
 
 ---

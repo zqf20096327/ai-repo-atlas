@@ -1,6 +1,6 @@
 # jatinkrmalik/LLMFeeder
 
-⭐ 489 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jatinkrmalik/LLMFeeder) · [官网](https://llmfeeder.fyi) · 个人维护
+⭐ 491 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/jatinkrmalik/LLMFeeder) · [官网](https://llmfeeder.fyi) · 个人维护
 
 **一键把网页转为 Markdown 供 LLM 使用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jatinkrmalik/LLMFeeder 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 481 --> 490
-    line [482, 484, 485, 486, 487, 488, 489, 488, 489]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 483 --> 492
+    line [484, 485, 486, 487, 488, 489, 488, 489, 491]
 ```
 
-2026-10-23 482 → 2026-11-25 489（+7）
+2026-10-24 484 → 2026-11-26 491（+7）
 
 
 ---

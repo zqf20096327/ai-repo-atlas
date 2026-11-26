@@ -44,12 +44,12 @@ MIT 许可的公共 CLAUDE.md 模式文件，针对长时间 agent 会话中的�
 ```mermaid
 xychart-beta
     title "jaswalmohit8-collab/weasel 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 28 --> 30
     line [29, 29]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 29（+0）
 
 
 ---

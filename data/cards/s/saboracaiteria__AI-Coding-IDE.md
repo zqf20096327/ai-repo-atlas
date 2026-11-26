@@ -1,6 +1,6 @@
 # saboracaiteria/AI-Coding-IDE
 
-⭐ 13 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/saboracaiteria/AI-Coding-IDE) · [官网](https://saboracaiteria.github.io/AI-Coding-IDE/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 Android 手机上编译并安装 APK 的 AI 编码 IDE**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # MyPrototypeWhat/context-chef
 
-⭐ 31 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MyPrototypeWhat/context-chef) · [官网](https://myprototypewhat.github.io/context-chef/) · 个人维护 · 中文 README
+⭐ 32 · TypeScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/MyPrototypeWhat/context-chef) · [官网](https://myprototypewhat.github.io/context-chef/) · 个人维护 · 中文 README
 
 **面向 TS/JS AI agent 的上下文编译器：压缩历史、裁剪工具、适配多提供商**
 
@@ -47,12 +47,12 @@ TypeScript/JavaScript 库，在每次 LLM 调用前将 agent 状态编译为适�
 ```mermaid
 xychart-beta
     title "MyPrototypeWhat/context-chef 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-23 31 → 2026-11-25 31（+0）
+2026-10-24 31 → 2026-11-26 32（+1）
 
 
 ---

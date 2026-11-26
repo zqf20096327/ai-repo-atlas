@@ -1,6 +1,6 @@
 # who0xac/Pinakastra
 
-⭐ 62 · Go · 推送 2025-12-27 · [GitHub](https://github.com/who0xac/Pinakastra) · 个人维护
+⭐ 63 · Go · 推送 2025-12-27 · [GitHub](https://github.com/who0xac/Pinakastra) · 个人维护
 
 **面向渗透测试者的 AI 辅助自动化侦察与漏洞利用框架**
 
@@ -45,13 +45,13 @@ Go 编写的渗透测试框架，整合 subfinder、httpx、dnsx、Katana、GAU�
 
 ```mermaid
 xychart-beta
-    title "who0xac/Pinakastra 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "who0xac/Pinakastra 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 61 --> 64
-    line [63, 62]
+    line [63, 62, 63]
 ```
 
-2026-10-23 63 → 2026-11-25 62（-1）
+2026-10-24 63 → 2026-11-26 63（+0）
 
 
 ---

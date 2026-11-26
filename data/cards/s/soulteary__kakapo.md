@@ -1,6 +1,6 @@
 # soulteary/kakapo
 
-⭐ 17 · Go · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/soulteary/kakapo) · [官网](https://zhuanlan.zhihu.com/p/2045645710469732284) · 个人维护 · 中文 README
+⭐ 17 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/soulteary/kakapo) · [官网](https://zhuanlan.zhihu.com/p/2045645710469732284) · 个人维护 · 中文 README
 
 **桌面翻译应用：多服务商多模型多目标语言并行对比译文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "soulteary/kakapo 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-26 17 → 2026-11-25 17（+0）
+2026-10-26 17 → 2026-11-26 17（+0）
 
 
 ---

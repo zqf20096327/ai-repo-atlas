@@ -1,6 +1,6 @@
 # epam/statgpt-admin-frontend
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/epam/statgpt-admin-frontend) · [官网](https://statgpt.dialx.ai) · 组织维护
+⭐ 18 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/epam/statgpt-admin-frontend) · [官网](https://statgpt.dialx.ai) · 组织维护
 
 **StatGPT 平台的管理前端：管理数据源、数据集、渠道、文档与审计日志**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "epam/statgpt-admin-frontend 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

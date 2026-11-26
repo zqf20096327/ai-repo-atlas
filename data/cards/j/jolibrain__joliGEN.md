@@ -1,6 +1,6 @@
 # jolibrain/joliGEN
 
-⭐ 290 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/jolibrain/joliGEN) · [官网](https://www.joligen.com) · 组织维护
+⭐ 291 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/jolibrain/joliGEN) · [官网](https://www.joligen.com) · 组织维护
 
 **面向真实应用的图像到图像生成模型训练框架（GAN/扩散/一致性模型）**
 
@@ -46,12 +46,12 @@ Jolibrain 维护的生成式 AI 图像与视频工具集：集成 GAN、Diffusio
 ```mermaid
 xychart-beta
     title "jolibrain/joliGEN 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 289 --> 291
-    line [290, 290]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 289 --> 292
+    line [290, 291]
 ```
 
-2026-10-23 290 → 2026-11-25 290（+0）
+2026-10-24 290 → 2026-11-26 291（+1）
 
 
 ---

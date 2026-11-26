@@ -1,6 +1,6 @@
 # edde746/ompanion
 
-⭐ 11 · TypeScript · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/edde746/ompanion) · [官网](https://ompanion.app) · 个人维护
+⭐ 12 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/edde746/ompanion) · [官网](https://ompanion.app) · 个人维护
 
 **omp 编码 agent 的跨平台 GUI 客户端，支持本地与 SSH/Tailscale 远程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edde746/ompanion 星数(近 6 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 12
-    line [3, 5, 3, 5, 11, 11]
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 13
+    line [3, 5, 3, 5, 11, 12]
 ```
 
-2026-10-22 3 → 2026-11-25 11（+8）
+2026-10-22 3 → 2026-11-26 12（+9）
 
 
 ---

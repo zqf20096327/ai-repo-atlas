@@ -1,6 +1,6 @@
 # mbsantiago/whombat
 
-⭐ 95 · TypeScript · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/mbsantiago/whombat) · [官网](https://mbsantiago.github.io/whombat/) · 组织维护
+⭐ 96 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/mbsantiago/whombat) · [官网](https://mbsantiago.github.io/whombat/) · 组织维护
 
 **面向 ML 开发的开源网页音频标注工具（生物声学）**
 
@@ -44,12 +44,12 @@ Whombat 是开源、网页形式的音频标注与数据标注工具，服务于
 ```mermaid
 xychart-beta
     title "mbsantiago/whombat 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 94 --> 97
+    line [95, 96]
 ```
 
-2026-10-23 95 → 2026-11-25 95（+0）
+2026-10-24 95 → 2026-11-26 96（+1）
 
 
 ---

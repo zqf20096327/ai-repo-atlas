@@ -1,6 +1,6 @@
 # cuttlely/cuttlely
 
-⭐ 8 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cuttlely/cuttlely) · [官网](https://cuttlely.com) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管可视化编排 AI agent 团队的平台**
 
@@ -11,7 +11,7 @@ Cuttlely 以可视化方式构建 AI agent 团队（harness）：lead agent（Ha
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

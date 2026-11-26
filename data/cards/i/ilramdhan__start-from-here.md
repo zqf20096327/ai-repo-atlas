@@ -1,6 +1,6 @@
 # ilramdhan/start-from-here
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ilramdhan/start-from-here) · [官网](https://ilramdhan.github.io/start-from-here/) · 个人维护
+⭐ 8 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ilramdhan/start-from-here) · [官网](https://ilramdhan.github.io/start-from-here/) · 个人维护
 
 **面向 AI 编码代理的访谈式项目蓝图生成技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ilramdhan/start-from-here 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 5 --> 8
-    line [6, 7, 7]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 5 --> 9
+    line [6, 7, 8]
 ```
 
-2026-10-26 6 → 2026-11-25 7（+1）
+2026-10-26 6 → 2026-11-26 8（+2）
 
 
 ---

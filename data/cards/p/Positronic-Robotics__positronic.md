@@ -1,6 +1,6 @@
 # Positronic-Robotics/positronic
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Positronic-Robotics/positronic) · [官网](https://positronic.ro/) · 组织维护
+⭐ 90 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Positronic-Robotics/positronic) · [官网](https://positronic.ro/) · 组织维护
 
 **Python 原生机器人 ML 工具链：硬件接入、数据采集与 VLA 模型评测部署**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Positronic-Robotics/positronic 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 85 --> 91
-    line [86, 87, 90, 90]
+    title "Positronic-Robotics/positronic 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 86 --> 91
+    line [87, 90, 90]
 ```
 
-2026-10-23 86 → 2026-11-25 90（+4）
+2026-10-24 87 → 2026-11-26 90（+3）
 
 
 ---

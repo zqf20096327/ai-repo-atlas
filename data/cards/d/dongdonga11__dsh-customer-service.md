@@ -44,13 +44,13 @@ DSH 插件形态的客服工作台：Chrome MV3 扩展接管已登录的闲鱼/�
 
 ```mermaid
 xychart-beta
-    title "dongdonga11/dsh-customer-service 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    title "dongdonga11/dsh-customer-service 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-21 3 → 2026-11-25 4（+1）
+2026-11-21 3 → 2026-11-26 4（+1）
 
 
 ---

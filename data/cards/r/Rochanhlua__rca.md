@@ -1,6 +1,6 @@
 # Rochanhlua/rca
 
-⭐ 3 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Rochanhlua/rca) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Rochanhlua/rca) · 个人维护
 
 **AI 原生编程语言：内置张量与自动微分，Rust 实现**
 
@@ -46,12 +46,12 @@ RCA 是一门独立的静态类型编程语言，采用缩进式语法，编译�
 ```mermaid
 xychart-beta
     title "Rochanhlua/rca 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 3（+0）
 
 
 ---

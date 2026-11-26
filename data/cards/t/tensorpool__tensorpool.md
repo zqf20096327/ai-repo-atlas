@@ -1,6 +1,6 @@
 # tensorpool/tensorpool
 
-⭐ 439 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/tensorpool/tensorpool) · [官网](https://tensorpool.dev/) · 组织维护
+⭐ 438 · Python · MIT · 推送 2026-04-13 · [GitHub](https://github.com/tensorpool/tensorpool) · [官网](https://tensorpool.dev/) · 组织维护
 
 **通过 git 风格 CLI 提交 ML 训练任务与租用 GPU 集群**
 
@@ -45,12 +45,12 @@ TensorPool CLI 是面向机器学习开发者的命令行工具，提供 git 风
 ```mermaid
 xychart-beta
     title "tensorpool/tensorpool 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-16", "2026-11-26"]
     y-axis "stars" 436 --> 440
-    line [437, 438, 439, 439]
+    line [437, 438, 439, 438]
 ```
 
-2026-10-23 437 → 2026-11-25 439（+2）
+2026-10-24 437 → 2026-11-26 438（+1）
 
 
 ---

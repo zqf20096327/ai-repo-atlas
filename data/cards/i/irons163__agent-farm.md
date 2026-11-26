@@ -1,6 +1,6 @@
 # irons163/agent-farm
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/irons163/agent-farm) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/irons163/agent-farm) · 个人维护 · 中文 README
 
 **把本机 AI agent 显示为农场动物的可视化状态面板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "irons163/agent-farm 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 13
     line [10, 11, 12, 12]
 ```
 
-2026-11-10 10 → 2026-11-25 12（+2）
+2026-11-10 10 → 2026-11-26 12（+2）
 
 
 ---

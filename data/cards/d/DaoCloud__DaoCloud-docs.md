@@ -1,6 +1,6 @@
 # DaoCloud/DaoCloud-docs
 
-⭐ 204 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DaoCloud/DaoCloud-docs) · [官网](https://docs.daocloud.io) · 组织维护 · 中文 README
+⭐ 205 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/DaoCloud/DaoCloud-docs) · [官网](https://docs.daocloud.io) · 组织维护 · 中文 README
 
 **DaoCloud 云原生与 AI 服务官方文档站仓库**
 
@@ -46,12 +46,12 @@ DaoCloud 的文档仓库，内容覆盖其 Kubernetes 与 AI 服务的使用文�
 ```mermaid
 xychart-beta
     title "DaoCloud/DaoCloud-docs 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 202 --> 205
-    line [203, 204, 203, 204, 204]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 202 --> 206
+    line [203, 204, 203, 204, 205]
 ```
 
-2026-10-23 203 → 2026-11-25 204（+1）
+2026-10-24 203 → 2026-11-26 205（+2）
 
 
 ---

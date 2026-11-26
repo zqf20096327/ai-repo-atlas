@@ -1,6 +1,6 @@
 # Ultimateakiln/ai--manus2.0
 
-⭐ 363 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Ultimateakiln/ai--manus2.0) · 个人维护
+⭐ 357 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Ultimateakiln/ai--manus2.0) · 个人维护
 
 **面向个人用户的自主 AI Agent：代写执行代码并控制浏览器**
 
@@ -43,13 +43,13 @@ README 以宣传文案形式介绍名为 Manus 的自主 AI agent：据描述可
 
 ```mermaid
 xychart-beta
-    title "Ultimateakiln/ai--manus2.0 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 362 --> 372
-    line [371, 370, 369, 366, 363]
+    title "Ultimateakiln/ai--manus2.0 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 356 --> 372
+    line [371, 370, 369, 366, 363, 357]
 ```
 
-2026-11-15 371 → 2026-11-25 363（-8）
+2026-11-15 371 → 2026-11-26 357（-14）
 
 
 ---

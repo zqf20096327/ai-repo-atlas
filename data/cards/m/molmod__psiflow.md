@@ -1,6 +1,6 @@
 # molmod/psiflow
 
-⭐ 144 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/molmod/psiflow) · [官网](https://molmod.github.io/psiflow/) · 组织维护
+⭐ 145 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/molmod/psiflow) · [官网](https://molmod.github.io/psiflow/) · 组织维护
 
 **面向化学与材料科学的可扩展分子模拟引擎**
 
@@ -46,12 +46,12 @@ psiflow 是用于化学和材料科学应用的分子模拟 Python 库：支持�
 ```mermaid
 xychart-beta
     title "molmod/psiflow 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 143 --> 145
-    line [144, 144]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 143 --> 146
+    line [144, 145]
 ```
 
-2026-10-23 144 → 2026-11-25 144（+0）
+2026-10-24 144 → 2026-11-26 145（+1）
 
 
 ---

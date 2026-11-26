@@ -1,6 +1,6 @@
 # raullenchai/twinspark
 
-⭐ 173 · Shell · MIT · 推送 2026-08-14 · [GitHub](https://github.com/raullenchai/twinspark) · 个人维护
+⭐ 172 · Shell · MIT · 推送 2026-08-14 · [GitHub](https://github.com/raullenchai/twinspark) · 个人维护
 
 **在 2 台 DGX Spark 上部署 DeepSeek-V4-Flash 集群的完整配方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raullenchai/twinspark 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 172 --> 177
-    line [176, 173, 173]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 171 --> 177
+    line [176, 173, 172]
 ```
 
-2026-10-23 176 → 2026-11-25 173（-3）
+2026-10-24 176 → 2026-11-26 172（-4）
 
 
 ---

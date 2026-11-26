@@ -1,6 +1,6 @@
 # axeldelafosse/stemgen
 
-⭐ 305 · Python · 推送 2026-08-22 · [GitHub](https://github.com/axeldelafosse/stemgen) · [官网](https://stemgen.dev) · 个人维护
+⭐ 306 · Python · 推送 2026-08-22 · [GitHub](https://github.com/axeldelafosse/stemgen) · [官网](https://stemgen.dev) · 个人维护
 
 **将任意音轨分离为四轨并生成 Stem 文件的 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "axeldelafosse/stemgen 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 301 --> 306
-    line [302, 303, 304, 302, 305, 305]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 301 --> 307
+    line [302, 303, 304, 302, 305, 306]
 ```
 
-2026-10-23 302 → 2026-11-25 305（+3）
+2026-10-24 302 → 2026-11-26 306（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Faceplugin-ltd/Open-Source-Face-Liveness-Detection-SDK
 
-⭐ 3 · Python · MIT-0 · 推送 2026-11-12 · [GitHub](https://github.com/Faceplugin-ltd/Open-Source-Face-Liveness-Detection-SDK) · [官网](https://faceplugin.com/) · 组织维护
+⭐ 4 · Python · MIT-0 · 推送 2026-11-12 · [GitHub](https://github.com/Faceplugin-ltd/Open-Source-Face-Liveness-Detection-SDK) · [官网](https://faceplugin.com/) · 组织维护
 
 **本地 CPU 活体检测 SDK：区分真脸与打印/翻拍/屏幕攻击**
 
@@ -39,6 +39,18 @@ Faceplugin 开源的 Python 活体检测模型，基于 MobileNetV2 骨干加轻
 
 > L16: The Open Source Face Liveness Detection SDK tells a **live face** apart from a **spoofed face** (a printed photo, a
 > L20: - 🔒 **100% On-Premise**: All processing happens locally, so no data leaves your device
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Faceplugin-ltd/Open-Source-Face-Liveness-Detection-SDK 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

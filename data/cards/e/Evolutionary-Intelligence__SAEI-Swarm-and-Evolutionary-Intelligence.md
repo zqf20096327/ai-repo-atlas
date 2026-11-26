@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Evolutionary-Intelligence/SAEI-Swarm-and-Evolutionary-Intelligence 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 153 --> 156
-    line [154, 155, 155]
+    title "Evolutionary-Intelligence/SAEI-Swarm-and-Evolutionary-Intelligence 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 154 --> 156
+    line [155, 155]
 ```
 
-2026-10-23 154 → 2026-11-25 155（+1）
+2026-10-24 155 → 2026-11-26 155（+0）
 
 
 ---

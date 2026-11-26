@@ -1,6 +1,6 @@
 # NVIDIA/Deep-Learning-Accelerator-SW
 
-⭐ 241 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) · 组织维护
+⭐ 242 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/NVIDIA/Deep-Learning-Accelerator-SW) · 组织维护
 
 **面向嵌入式开发者的 NVIDIA DLA 推理软件工具与基准参考库**
 
@@ -46,12 +46,12 @@ NVIDIA 官方仓库，提供在 Orin/Xavier SoC 的 DLA 硬件加速核心上运
 ```mermaid
 xychart-beta
     title "NVIDIA/Deep-Learning-Accelerator-SW 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 238 --> 242
-    line [239, 241, 241]
+    x-axis ["2026-10-23", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 238 --> 243
+    line [239, 241, 242]
 ```
 
-2026-10-22 239 → 2026-11-25 241（+2）
+2026-10-23 239 → 2026-11-26 242（+3）
 
 
 ---

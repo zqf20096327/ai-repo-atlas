@@ -1,6 +1,6 @@
 # mirabarukaso/ComfyUI_Mira
 
-⭐ 218 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mirabarukaso/ComfyUI_Mira) · 个人维护
+⭐ 217 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/mirabarukaso/ComfyUI_Mira) · 个人维护
 
 **ComfyUI 自定义节点集：切分画布生成区域条件遮罩**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mirabarukaso/ComfyUI_Mira 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-14", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-14", "2026-11-16", "2026-11-26"]
     y-axis "stars" 215 --> 219
-    line [216, 217, 216, 217, 218, 218]
+    line [216, 217, 216, 217, 218, 217]
 ```
 
-2026-10-23 216 → 2026-11-25 218（+2）
+2026-10-24 216 → 2026-11-26 217（+1）
 
 
 ---

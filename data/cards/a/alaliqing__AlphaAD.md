@@ -1,6 +1,6 @@
 # alaliqing/AlphaAD
 
-⭐ 36 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/alaliqing/AlphaAD) · [官网](https://alaliqing.github.io/AlphaAD/) · 个人维护
+⭐ 37 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alaliqing/AlphaAD) · [官网](https://alaliqing.github.io/AlphaAD/) · 个人维护
 
 **自动驾驶 arXiv 论文日更清单：分类浏览最新研究**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alaliqing/AlphaAD 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-25"]
+    title "alaliqing/AlphaAD 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-25", "2026-11-26"]
     y-axis "stars" 34 --> 38
-    line [35, 36, 35, 36, 37, 36]
+    line [35, 36, 35, 36, 37, 36, 37]
 ```
 
-2026-10-23 35 → 2026-11-25 36（+1）
+2026-10-24 35 → 2026-11-26 37（+2）
 
 
 ---

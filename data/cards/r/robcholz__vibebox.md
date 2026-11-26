@@ -1,6 +1,6 @@
 # robcholz/vibebox
 
-⭐ 196 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/robcholz/vibebox) · [官网](https://vibebox.robcholz.com/) · 个人维护 · 中文 README
+⭐ 197 · Rust · MIT · 推送 2026-02-18 · [GitHub](https://github.com/robcholz/vibebox) · [官网](https://vibebox.robcholz.com/) · 个人维护 · 中文 README
 
 **Apple Silicon 上的微型 VM 沙箱：安全运行编码 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "robcholz/vibebox 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 190 --> 197
-    line [191, 193, 194, 196, 196]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 190 --> 198
+    line [191, 193, 194, 196, 197]
 ```
 
-2026-10-23 191 → 2026-11-25 196（+5）
+2026-10-24 191 → 2026-11-26 197（+6）
 
 
 ---

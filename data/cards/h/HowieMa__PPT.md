@@ -45,12 +45,12 @@ ECCV 2022 论文 "token-Pruned Pose Transformer" 的官方开源实现，面向�
 ```mermaid
 xychart-beta
     title "HowieMa/PPT 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-23 63 → 2026-11-25 63（+0）
+2026-10-24 63 → 2026-11-26 63（+0）
 
 
 ---

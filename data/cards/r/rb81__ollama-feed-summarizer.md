@@ -45,12 +45,12 @@ Python CLI 工具，读取 feeds.txt 中的 RSS 订阅源，并发抓取并提�
 ```mermaid
 xychart-beta
     title "rb81/ollama-feed-summarizer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

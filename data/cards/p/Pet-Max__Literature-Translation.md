@@ -1,6 +1,6 @@
 # Pet-Max/Literature-Translation
 
-⭐ 7 · Go · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Pet-Max/Literature-Translation) · 个人维护 · 中文 README
+⭐ 7 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Pet-Max/Literature-Translation) · 个人维护 · 中文 README
 
 **面向科研用户的英文学术文献 PDF/MD 中文翻译桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Pet-Max/Literature-Translation 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-19", "2026-11-26"]
     y-axis "stars" 5 --> 8
     line [6, 7, 7]
 ```
 
-2026-11-10 6 → 2026-11-25 7（+1）
+2026-11-10 6 → 2026-11-26 7（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # physical-superintelligence-lab/Agent-Driver
 
-⭐ 302 · Python · MIT · 推送 2025-12-09 · [GitHub](https://github.com/physical-superintelligence-lab/Agent-Driver) · [官网](https://physical-superintelligence-lab.github.io/Agent-Driver/) · 组织维护
+⭐ 303 · Python · MIT · 推送 2025-12-09 · [GitHub](https://github.com/physical-superintelligence-lab/Agent-Driver) · [官网](https://physical-superintelligence-lab.github.io/Agent-Driver/) · 组织维护
 
 **用 LLM 作认知 agent 的自动驾驶语言 agent 研究代码**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "physical-superintelligence-lab/Agent-Driver 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
-    y-axis "stars" 300 --> 303
-    line [301, 302, 302]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    y-axis "stars" 300 --> 304
+    line [301, 302, 303]
 ```
 
-2026-10-23 301 → 2026-11-25 302（+1）
+2026-10-24 301 → 2026-11-26 303（+2）
 
 
 ---

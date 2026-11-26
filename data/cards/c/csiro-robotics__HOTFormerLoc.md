@@ -46,12 +46,12 @@ CVPR 2025 论文 HOTFormerLoc 的官方 PyTorch 实现：基于层次八叉树�
 ```mermaid
 xychart-beta
     title "csiro-robotics/HOTFormerLoc 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

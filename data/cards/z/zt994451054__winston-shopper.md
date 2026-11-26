@@ -41,6 +41,18 @@
 > L7: 它是一个 Agent Skill（技能包），可以装进 Claude Code、Codex、CodeBuddy 等 AI 编程助手。AI 读了 SKILL.md 后，会通过随包的命令行程序操作浏览器，把页面上看到的内容整理成带来源的结
 > L9: > **从不下单。** 不加购、不付款、不改购物车、不动账户设置。遇到登录、验证码或限流，它会停下来交给你处理。
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zt994451054/winston-shopper 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `6d14bbb08a53` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # angeo-dev/module-llms-txt
 
-⭐ 18 · PHP · MIT · 推送 2026-11-20 · [GitHub](https://github.com/angeo-dev/module-llms-txt) · [官网](https://angeo.dev/) · 组织维护
+⭐ 18 · PHP · MIT · 推送 2026-11-25 · [GitHub](https://github.com/angeo-dev/module-llms-txt) · [官网](https://angeo.dev/) · 组织维护
 
 **为 Magento 2 商店生成 llms.txt 等 AI 可摄取文件的模块**
 
@@ -47,12 +47,12 @@ Magento 2 / Adobe Commerce 扩展，为店铺目录生成符合 llmstxt.org v2 �
 ```mermaid
 xychart-beta
     title "angeo-dev/module-llms-txt 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ElNiak/awesome-ai-cybersecurity
 
-⭐ 164 · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/ElNiak/awesome-ai-cybersecurity) · 个人维护
+⭐ 166 · CC0-1.0 · 推送 2026-10-29 · [GitHub](https://github.com/ElNiak/awesome-ai-cybersecurity) · 个人维护
 
 **AI 网络安全资源清单：按 PPDR 模型与技术层分类的工具与论文合集**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ElNiak/awesome-ai-cybersecurity 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 160 --> 165
-    line [161, 162, 163, 164, 162, 164, 164]
+    title "ElNiak/awesome-ai-cybersecurity 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 161 --> 167
+    line [162, 163, 164, 162, 164, 166]
 ```
 
-2026-10-23 161 → 2026-11-25 164（+3）
+2026-10-24 162 → 2026-11-26 166（+4）
 
 
 ---

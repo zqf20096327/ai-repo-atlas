@@ -46,12 +46,12 @@ Go 编写的 CLI，基于 git worktree 与 merge-tree 并行运行多个 AI 编�
 ```mermaid
 xychart-beta
     title "surya-koritala/sigbound 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 37 --> 45
     line [44, 38, 38]
 ```
 
-2026-10-23 44 → 2026-11-25 38（-6）
+2026-10-24 44 → 2026-11-26 38（-6）
 
 
 ---

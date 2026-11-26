@@ -45,12 +45,12 @@ Python 库 skbel 实现 Bayesian Evidential Learning 框架：通过预测变量
 ```mermaid
 xychart-beta
     title "robinthibaut/skbel 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 30（+0）
 
 
 ---

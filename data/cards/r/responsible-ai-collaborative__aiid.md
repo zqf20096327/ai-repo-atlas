@@ -1,6 +1,6 @@
 # responsible-ai-collaborative/aiid
 
-⭐ 280 · JavaScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/responsible-ai-collaborative/aiid) · [官网](https://incidentdatabase.ai) · 组织维护
+⭐ 280 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/responsible-ai-collaborative/aiid) · [官网](https://incidentdatabase.ai) · 组织维护
 
 **AI 事件数据库：收录、定义并编目人工智能相关事件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "responsible-ai-collaborative/aiid 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
+    title "responsible-ai-collaborative/aiid 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25", "2026-11-26"]
     y-axis "stars" 272 --> 281
-    line [273, 274, 275, 274, 278, 279, 280]
+    line [273, 274, 275, 274, 278, 279, 280, 280]
 ```
 
-2026-10-23 273 → 2026-11-25 280（+7）
+2026-10-24 273 → 2026-11-26 280（+7）
 
 
 ---

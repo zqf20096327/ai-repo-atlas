@@ -44,13 +44,13 @@ ContextKeep 是一个 MCP 服务器，为 MCP 兼容的 AI agent 提供基于 SQ
 
 ```mermaid
 xychart-beta
-    title "mordang7/ContextKeep 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 157 --> 161
-    line [158, 159, 160, 160]
+    title "mordang7/ContextKeep 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 158 --> 161
+    line [159, 160, 160]
 ```
 
-2026-10-23 158 → 2026-11-25 160（+2）
+2026-10-24 159 → 2026-11-26 160（+1）
 
 
 ---

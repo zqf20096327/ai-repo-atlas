@@ -1,6 +1,6 @@
 # w01fb0ss/PiBot
 
-⭐ 506 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/w01fb0ss/PiBot) · [官网](https://pibot.space) · 个人维护 · 中文 README
+⭐ 592 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/w01fb0ss/PiBot) · [官网](https://pibot.space) · 个人维护 · 中文 README
 
 **桌面端本地优先的多 Bot 协作 AI agent 团队应用**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "w01fb0ss/PiBot 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 113 --> 541
-    line [148, 362, 506]
+    title "w01fb0ss/PiBot 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 104 --> 636
+    line [148, 362, 506, 592]
 ```
 
-2026-11-22 148 → 2026-11-25 506（+358）
+2026-11-22 148 → 2026-11-26 592（+444）
 
 
 ---

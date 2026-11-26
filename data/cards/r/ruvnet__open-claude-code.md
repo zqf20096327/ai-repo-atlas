@@ -1,6 +1,6 @@
 # ruvnet/open-claude-code
 
-⭐ 576 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ruvnet/open-claude-code) · [官网](https://ruv.io) · 个人维护
+⭐ 578 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ruvnet/open-claude-code) · [官网](https://ruv.io) · 个人维护
 
 **开源重建的 Claude Code CLI：清洁室复刻的编码 agent 命令行**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ruvnet/open-claude-code 星数(近 8 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 566 --> 577
-    line [567, 570, 571, 572, 573, 574, 575, 576]
+    title "ruvnet/open-claude-code 星数(近 9 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 566 --> 579
+    line [567, 570, 571, 572, 573, 574, 575, 576, 578]
 ```
 
-2026-11-10 567 → 2026-11-25 576（+9）
+2026-11-10 567 → 2026-11-26 578（+11）
 
 
 ---

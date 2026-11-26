@@ -1,6 +1,6 @@
 # AgriciDaniel/marketing-skill-pack
 
-⭐ 54 · HTML · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/marketing-skill-pack) · [官网](https://agricidaniel.com/blog/ai-marketing-automation-stack) · 个人维护
+⭐ 57 · HTML · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/marketing-skill-pack) · [官网](https://agricidaniel.com/blog/ai-marketing-automation-stack) · 个人维护
 
 **一条命令安装 AI 营销技能包（Claude Code 技能集合）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/marketing-skill-pack 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 50 --> 55
-    line [51, 52, 51, 53, 54, 54]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 50 --> 58
+    line [51, 52, 51, 53, 54, 57]
 ```
 
-2026-10-23 51 → 2026-11-25 54（+3）
+2026-10-24 51 → 2026-11-26 57（+6）
 
 
 ---

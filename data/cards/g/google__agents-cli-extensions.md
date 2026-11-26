@@ -1,6 +1,6 @@
 # google/agents-cli-extensions
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/google/agents-cli-extensions) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/google/agents-cli-extensions) · 组织维护
 
 **agents-cli 的官方扩展集合：接入其他 agent 框架**
 
@@ -45,12 +45,12 @@ Google Agents CLI 团队维护的扩展仓库，扩展机制通过覆盖或新�
 ```mermaid
 xychart-beta
     title "google/agents-cli-extensions 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-21 10 → 2026-11-25 10（+0）
+2026-11-21 10 → 2026-11-26 10（+0）
 
 
 ---

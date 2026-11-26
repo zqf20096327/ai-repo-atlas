@@ -1,6 +1,6 @@
 # gravion-ux/Her--Him
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravion-ux/Her--Him) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gravion-ux/Her--Him) · 个人维护
 
 **面向消费者的 AI 伴侣人格目录：48 个人格与情绪引擎**
 
@@ -40,6 +40,18 @@
 > L10: A unified platform with a complete catalogue of AI personalities for boys and girls, featuring natural multilingual
 > L22: - **Deterministic affect engine**: Predictable mood and emotion evolution turn-to-turn
 > L24: - **Multilingual support**: 332 voices across English, Mandarin, Japanese, Korean, Spanish, Portuguese, Hindi, and 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/Her--Him 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
 
 
 ---

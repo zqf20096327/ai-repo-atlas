@@ -1,6 +1,6 @@
 # langfuse/experiment-action
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/langfuse/experiment-action) · 组织维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langfuse/experiment-action) · 组织维护
 
 **在 GitHub Actions 中运行 Langfuse 实验的 CI 组件**
 
@@ -45,12 +45,12 @@ Langfuse 官方维护的 GitHub Action：在 CI 流水线中加载用户的实�
 ```mermaid
 xychart-beta
     title "langfuse/experiment-action 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Magic-Resume/Magic-Resume
 
-⭐ 104 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Magic-Resume/Magic-Resume) · [官网](https://www.magic-resume.cn) · 组织维护 · 中文 README
+⭐ 105 · TypeScript · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Magic-Resume/Magic-Resume) · [官网](https://www.magic-resume.cn) · 组织维护 · 中文 README
 
 **开源 AI 简历工作台：AI 逐条提出修改，用户逐条采纳**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Magic-Resume/Magic-Resume 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 101 --> 105
-    line [102, 103, 104, 104]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 101 --> 106
+    line [102, 103, 104, 105]
 ```
 
-2026-10-23 102 → 2026-11-25 104（+2）
+2026-10-24 102 → 2026-11-26 105（+3）
 
 
 ---

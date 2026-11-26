@@ -1,6 +1,6 @@
 # 66wjz/dsh-model-cap
 
-⭐ 6 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/66wjz/dsh-model-cap) · [官网](https://github.com/66wjz/dsh-model-cap) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **dsh 用户的提供商与模型管理插件控制台**
 
@@ -11,7 +11,7 @@ DeepSeek Harness（dsh）的插件，在设置中新增「提供商配置」导�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

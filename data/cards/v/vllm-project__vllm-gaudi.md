@@ -1,6 +1,6 @@
 # vllm-project/vllm-gaudi
 
-⭐ 68 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/vllm-project/vllm-gaudi) · 组织维护
+⭐ 70 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vllm-project/vllm-gaudi) · 组织维护
 
 **让 vLLM 在 Intel Gaudi 加速器上运行推理的硬件插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "vllm-project/vllm-gaudi 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 64 --> 70
-    line [65, 66, 65, 67, 69, 68, 68]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 64 --> 71
+    line [65, 66, 65, 67, 69, 68, 70]
 ```
 
-2026-10-23 65 → 2026-11-25 68（+3）
+2026-10-24 65 → 2026-11-26 70（+5）
 
 
 ---

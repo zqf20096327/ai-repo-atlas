@@ -45,12 +45,12 @@ odctl 是一个命令行工具，用 Docker Compose 在本机运行 Kafka、Flin
 ```mermaid
 xychart-beta
     title "jaehyeon-kim/odctl 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

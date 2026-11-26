@@ -1,6 +1,6 @@
 # EthicalML/awesome-artificial-intelligence-regulation
 
-⭐ 1,485 · MIT · 推送 2026-11-16 · [GitHub](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) · 组织维护
+⭐ 1,487 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) · 组织维护
 
 **面向从业者的 AI 法规、原则与伦理框架导航清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "EthicalML/awesome-artificial-intelligence-regulation 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 1476 --> 1489
-    line [1477, 1480, 1486, 1487, 1488, 1487, 1486, 1485, 1485]
+    title "EthicalML/awesome-artificial-intelligence-regulation 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 1479 --> 1489
+    line [1480, 1486, 1487, 1488, 1487, 1486, 1485, 1487]
 ```
 
-2026-10-23 1,477 → 2026-11-25 1,485（+8）
+2026-10-24 1,480 → 2026-11-26 1,487（+7）
 
 
 ---

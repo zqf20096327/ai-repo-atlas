@@ -46,12 +46,12 @@ Decidra 是为 vllm-sr/d3-turbo（26.1B Qwen3.5 混合决策模型）专用构�
 ```mermaid
 xychart-beta
     title "juanqui/decidra 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-25 3（+0）
+2026-11-02 3 → 2026-11-26 3（+0）
 
 
 ---

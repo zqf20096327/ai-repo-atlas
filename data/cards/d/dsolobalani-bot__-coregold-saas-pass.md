@@ -1,6 +1,6 @@
 # dsolobalani-bot/-coregold-saas-pass
 
-⭐ 94 · 推送 2026-10-30 · [GitHub](https://github.com/dsolobalani-bot/-coregold-saas-pass) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 119 · 推送 2026-10-30 · [GitHub](https://github.com/dsolobalani-bot/-coregold-saas-pass) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推广 CoreGold 虚拟卡的 SaaS 试用防扣费指南页**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "dsolobalani-bot/-coregold-saas-pass 星数(近 10 点)"
-    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 0 --> 102
-    line [5, 9, 49, 70, 84, 89, 94, 91, 92, 94]
+    title "dsolobalani-bot/-coregold-saas-pass 星数(近 11 点)"
+    x-axis ["2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 130
+    line [5, 9, 49, 70, 84, 89, 94, 91, 92, 94, 119]
 ```
 
-2026-10-31 5 → 2026-11-25 94（+89）
+2026-10-31 5 → 2026-11-26 119（+114）
 
 
 ---

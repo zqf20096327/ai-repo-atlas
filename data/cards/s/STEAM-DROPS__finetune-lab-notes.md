@@ -1,6 +1,6 @@
 # STEAM-DROPS/finetune-lab-notes
 
-⭐ 54 · HTML · 推送 2026-11-24 · [GitHub](https://github.com/STEAM-DROPS/finetune-lab-notes) · 组织维护
+⭐ 54 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/STEAM-DROPS/finetune-lab-notes) · 组织维护
 
 **Transformer 微调实验笔记本合集：面向学习者的动手教程库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "STEAM-DROPS/finetune-lab-notes 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-26"]
     y-axis "stars" 52 --> 55
     line [53, 54, 54]
 ```
 
-2026-10-23 53 → 2026-11-25 54（+1）
+2026-10-24 53 → 2026-11-26 54（+1）
 
 
 ---

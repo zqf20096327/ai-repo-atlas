@@ -1,6 +1,6 @@
 # shayandaneshvar/VulScribeR
 
-⭐ 29 · Java · 推送 2025-12-09 · [GitHub](https://github.com/shayandaneshvar/VulScribeR) · 组织维护
+⭐ 30 · Java · 推送 2025-12-09 · [GitHub](https://github.com/shayandaneshvar/VulScribeR) · 组织维护
 
 **论文官方仓库：用 RAG+LLM 生成漏洞样本做数据增强**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shayandaneshvar/VulScribeR 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 30（+1）
 
 
 ---

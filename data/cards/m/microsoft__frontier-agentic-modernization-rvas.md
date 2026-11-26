@@ -1,6 +1,6 @@
 # microsoft/frontier-agentic-modernization-rvas
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/microsoft/frontier-agentic-modernization-rvas) · [官网](https://microsoft.github.io/frontier-agentic-modernization-rvas/) · 组织维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/frontier-agentic-modernization-rvas) · [官网](https://microsoft.github.io/frontier-agentic-modernization-rvas/) · 组织维护
 
 **用 GitHub Copilot 与 Azure 评估和改造遗留应用的工作坊工具链**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/frontier-agentic-modernization-rvas 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-25 10（+0）
+2026-11-16 10 → 2026-11-26 10（+0）
 
 
 ---

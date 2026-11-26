@@ -41,6 +41,18 @@
 > L24: - 🧩 **Zero backend footprint.** Bus is frontend-only. The prompt sent to the backend contains plain links, so cachi
 > L41: Requires ComfyUI frontend ≥ 1.58.5. No Python dependencies.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "javierportillo/comfyui-bus 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 8 --> 10
+    line [9, 9]
+```
+
+2026-11-25 9 → 2026-11-26 9（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `086488ad0ba7` · [字段定义](../../DATASET.md)*

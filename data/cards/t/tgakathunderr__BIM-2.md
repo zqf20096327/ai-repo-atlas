@@ -1,6 +1,6 @@
 # tgakathunderr/BIM-2
 
-⭐ 23 · Python · 推送 2026-05-21 · [GitHub](https://github.com/tgakathunderr/BIM-2) · [官网](https://unikai.vercel.app/docs/bim) · 个人维护
+⭐ 24 · Python · 推送 2026-05-21 · [GitHub](https://github.com/tgakathunderr/BIM-2) · [官网](https://unikai.vercel.app/docs/bim) · 个人维护
 
 **仿生序列学习模型：以 Jaccard 惊讶度为唯一训练信号的 CPU 语言模型**
 
@@ -46,12 +46,12 @@ BIM 2 是受生物学启发的序列学习架构，不使用反向传播、GPU �
 ```mermaid
 xychart-beta
     title "tgakathunderr/BIM-2 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 22 --> 24
-    line [23, 23]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
 ```
 
-2026-10-23 23 → 2026-11-25 23（+0）
+2026-10-24 23 → 2026-11-26 24（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # JasonHoku/ComfyUI-Ultimate-Auto-Sampler-Config-Grid-Testing-Suite
 
-⭐ 105 · Python · 推送 2026-11-19 · [GitHub](https://github.com/JasonHoku/ComfyUI-Ultimate-Auto-Sampler-Config-Grid-Testing-Suite) · 个人维护
+⭐ 106 · Python · 推送 2026-11-19 · [GitHub](https://github.com/JasonHoku/ComfyUI-Ultimate-Auto-Sampler-Config-Grid-Testing-Suite) · 个人维护
 
 **给 ComfyUI 用户的采样器/模型/LoRA 参数网格基准测试套件**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点套件，含三个节点：Config Builder（可视化构�
 ```mermaid
 xychart-beta
     title "JasonHoku/ComfyUI-Ultimate-Auto-Sampler-Config-Grid-Testing-Suite 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 104 --> 107
+    line [105, 106]
 ```
 
-2026-10-23 105 → 2026-11-25 105（+0）
+2026-10-24 105 → 2026-11-26 106（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # secretflow/trustflow
 
-⭐ 40 · C++ · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/secretflow/trustflow) · [官网](https://www.secretflow.org.cn/docs/trustedflow) · 组织维护 · 中文 README
+⭐ 41 · C++ · Apache-2.0 · 推送 2026-03-12 · [GitHub](https://github.com/secretflow/trustflow) · [官网](https://www.secretflow.org.cn/docs/trustedflow) · 组织维护 · 中文 README
 
 **基于 TEE 的零信任隐私计算系统，保护敏感数据存储与处理**
 
@@ -45,12 +45,12 @@ TrustFlow 是基于可信执行环境（TEE）的零信任计算系统，由 Sec
 ```mermaid
 xychart-beta
     title "secretflow/trustflow 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-23 40 → 2026-11-25 40（+0）
+2026-10-24 40 → 2026-11-26 41（+1）
 
 
 ---

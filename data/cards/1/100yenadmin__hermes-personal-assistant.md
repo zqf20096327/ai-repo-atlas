@@ -1,6 +1,6 @@
 # 100yenadmin/hermes-personal-assistant
 
-⭐ 8 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/100yenadmin/hermes-personal-assistant) · 个人维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/100yenadmin/hermes-personal-assistant) · 个人维护
 
 **Hermes agent 的个人事务插件：代填表单、停在最后一步等你确认**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "100yenadmin/hermes-personal-assistant 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-26"]
     y-axis "stars" 2 --> 9
     line [3, 5, 6, 8, 8]
 ```
 
-2026-11-13 3 → 2026-11-25 8（+5）
+2026-11-13 3 → 2026-11-26 8（+5）
 
 
 ---

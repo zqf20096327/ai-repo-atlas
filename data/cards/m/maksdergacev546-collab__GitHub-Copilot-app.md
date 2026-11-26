@@ -1,6 +1,6 @@
 # maksdergacev546-collab/GitHub-Copilot-app
 
-⭐ 40 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/maksdergacev546-collab/GitHub-Copilot-app) · 组织维护
+⭐ 23 · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/maksdergacev546-collab/GitHub-Copilot-app) · 组织维护
 
 **面向开发者的 GitHub Copilot agent 桌面端工作管理应用**
 
@@ -45,13 +45,13 @@ GitHub 官方发布的桌面应用，定位为 agent-native 的软件工作管�
 
 ```mermaid
 xychart-beta
-    title "maksdergacev546-collab/GitHub-Copilot-app 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 38 --> 64
-    line [62, 57, 56, 52, 40]
+    title "maksdergacev546-collab/GitHub-Copilot-app 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 20 --> 65
+    line [62, 57, 56, 52, 40, 23]
 ```
 
-2026-11-18 62 → 2026-11-25 40（-22）
+2026-11-18 62 → 2026-11-26 23（-39）
 
 
 ---

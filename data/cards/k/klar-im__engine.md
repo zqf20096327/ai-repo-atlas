@@ -1,6 +1,6 @@
 # klar-im/engine
 
-⭐ 12 · C++ · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/klar-im/engine) · [官网](https://klar.im/) · 组织维护
+⭐ 13 · C++ · AGPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/klar-im/engine) · [官网](https://klar.im/) · 组织维护
 
 **自建邮件服务器上的 transformer 垃圾邮件过滤引擎**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "klar-im/engine 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

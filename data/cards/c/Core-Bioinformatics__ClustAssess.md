@@ -1,6 +1,6 @@
 # Core-Bioinformatics/ClustAssess
 
-⭐ 34 · R · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Core-Bioinformatics/ClustAssess) · [官网](https://core-bioinformatics.github.io/ClustAssess/) · 组织维护
+⭐ 34 · R · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Core-Bioinformatics/ClustAssess) · [官网](https://core-bioinformatics.github.io/ClustAssess/) · 组织维护
 
 **评估聚类稳健性的 R 包，面向单细胞 RNA-seq 分析**
 
@@ -47,12 +47,12 @@ R 语言包，提供单细胞聚类结果稳健性评估工具集：基于元素
 ```mermaid
 xychart-beta
     title "Core-Bioinformatics/ClustAssess 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-23 34 → 2026-11-25 34（+0）
+2026-10-24 34 → 2026-11-26 34（+0）
 
 
 ---

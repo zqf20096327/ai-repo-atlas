@@ -1,6 +1,6 @@
 # Wye-Foundation/Fishial-Fish-Identification
 
-⭐ 131 · Jupyter Notebook · MIT · 推送 2026-04-09 · [GitHub](https://github.com/Wye-Foundation/Fishial-Fish-Identification) · [官网](https://www.fishial.ai) · 组织维护
+⭐ 130 · Jupyter Notebook · MIT · 推送 2026-04-09 · [GitHub](https://github.com/Wye-Foundation/Fishial-Fish-Identification) · [官网](https://www.fishial.ai) · 组织维护
 
 **鱼类识别平台官方训练脚本与预训练模型：分割/检测/分类**
 
@@ -44,13 +44,13 @@ Fishial.ai 鱼类识别平台的官方仓库，提供基于 Detectron2 的分割
 
 ```mermaid
 xychart-beta
-    title "Wye-Foundation/Fishial-Fish-Identification 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
+    title "Wye-Foundation/Fishial-Fish-Identification 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26"]
     y-axis "stars" 129 --> 133
-    line [130, 131, 130, 132, 131, 132, 131]
+    line [130, 131, 130, 132, 131, 132, 131, 130]
 ```
 
-2026-10-23 130 → 2026-11-25 131（+1）
+2026-10-24 130 → 2026-11-26 130（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # tersePrompts/fastMCP4J
 
-⭐ 14 · Java · MIT · 推送 2026-09-07 · [GitHub](https://github.com/tersePrompts/fastMCP4J) · [官网](https://central.sonatype.com/artifact/io.github.terseprompts/fastmcp-java) · 个人维护
+⭐ 15 · Java · MIT · 推送 2026-09-07 · [GitHub](https://github.com/tersePrompts/fastMCP4J) · [官网](https://central.sonatype.com/artifact/io.github.terseprompts/fastmcp-java) · 个人维护
 
 **Java 17+ 注解驱动的 MCP 服务器 SDK，内置沙箱 bash 终端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tersePrompts/fastMCP4J 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # asterisk-labs/rumi
 
-⭐ 13 · C · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/asterisk-labs/rumi) · [官网](http://asterisk.coop/rumi/) · 组织维护
+⭐ 46 · C · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/asterisk-labs/rumi) · [官网](http://asterisk.coop/rumi/) · 组织维护
 
 **面向 AI4EO 的无状态栅格存储格式，按帧切分影像与数据立方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "asterisk-labs/rumi 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 49
+    line [12, 13, 12, 13, 46]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 46（+34）
 
 
 ---

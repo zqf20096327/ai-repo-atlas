@@ -1,6 +1,6 @@
 # zxfccmm4/magpie-remote
 
-⭐ 56 · Swift · 推送 2026-11-22 · [GitHub](https://github.com/zxfccmm4/magpie-remote) · [官网](https://github.com/zxfccmm4/magpie-remote/releases/latest) · 个人维护 · 中文 README
+⭐ 55 · Swift · 推送 2026-11-22 · [GitHub](https://github.com/zxfccmm4/magpie-remote) · [官网](https://github.com/zxfccmm4/magpie-remote/releases/latest) · 个人维护 · 中文 README
 
 **为 magpie AI 网关打造的 iOS/iPadOS 原生控制中心**
 
@@ -45,12 +45,12 @@ yetone/magpie 的原生 Apple 客户端：用 SwiftUI 实现，无 WebView 壳�
 ```mermaid
 xychart-beta
     title "zxfccmm4/magpie-remote 星数(近 6 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
     y-axis "stars" 0 --> 61
-    line [5, 52, 53, 55, 56, 56]
+    line [5, 52, 53, 55, 56, 55]
 ```
 
-2026-11-16 5 → 2026-11-25 56（+51）
+2026-11-16 5 → 2026-11-26 55（+50）
 
 
 ---

@@ -1,6 +1,6 @@
 # gongxings/ai-creator
 
-⭐ 93 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/gongxings/ai-creator) · [官网](http://ai-creator.biyebang.com.cn) · 个人维护 · 中文 README
+⭐ 94 · Python · MIT · 推送 2026-05-13 · [GitHub](https://github.com/gongxings/ai-creator) · [官网](http://ai-creator.biyebang.com.cn) · 个人维护 · 中文 README
 
 **面向内容创作者的 AI 创作 Web 平台：写作/图片/视频/PPT 生成与多平台发布**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "gongxings/ai-creator 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 92 --> 94
-    line [93, 93]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 92 --> 95
+    line [93, 94]
 ```
 
-2026-10-23 93 → 2026-11-25 93（+0）
+2026-10-24 93 → 2026-11-26 94（+1）
 
 
 ---

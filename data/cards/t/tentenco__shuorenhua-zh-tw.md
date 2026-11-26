@@ -1,6 +1,6 @@
 # tentenco/shuorenhua-zh-tw
 
-⭐ 12 · MIT · 推送 2026-07-07 · [GitHub](https://github.com/tentenco/shuorenhua-zh-tw) · [官网](https://tenten.co/learning/) · 组织维护 · 中文 README
+⭐ 13 · MIT · 推送 2026-07-07 · [GitHub](https://github.com/tentenco/shuorenhua-zh-tw) · [官网](https://tenten.co/learning/) · 组织维护 · 中文 README
 
 **给臺灣繁中写作者的 AI 腔清理 Skill：去 AI 味、在地化用語**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tentenco/shuorenhua-zh-tw 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    title "tentenco/shuorenhua-zh-tw 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-11-08 10 → 2026-11-25 12（+2）
+2026-11-08 10 → 2026-11-26 13（+3）
 
 
 ---

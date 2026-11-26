@@ -1,6 +1,6 @@
 # lucidrains/rectified-flow-pytorch
 
-⭐ 490 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lucidrains/rectified-flow-pytorch) · 个人维护
+⭐ 490 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lucidrains/rectified-flow-pytorch) · 个人维护
 
 **研究者的 Rectified Flow 及后续方法 PyTorch 实现库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/rectified-flow-pytorch 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
     y-axis "stars" 488 --> 492
     line [489, 490, 489, 491, 490, 490]
 ```
 
-2026-10-23 489 → 2026-11-25 490（+1）
+2026-10-24 489 → 2026-11-26 490（+1）
 
 
 ---

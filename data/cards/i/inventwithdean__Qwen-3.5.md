@@ -1,6 +1,6 @@
 # inventwithdean/Qwen-3.5
 
-⭐ 3 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/inventwithdean/Qwen-3.5) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-10-24 · [GitHub](https://github.com/inventwithdean/Qwen-3.5) · 个人维护
 
 **Rust 实现的 Qwen3.5 2B 本地推理引擎，含自研 GPU 内核**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inventwithdean/Qwen-3.5 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-25 3（+0）
+2026-11-18 3 → 2026-11-26 4（+1）
 
 
 ---

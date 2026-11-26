@@ -1,6 +1,6 @@
 # maraxen/aminx
 
-⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/maraxen/aminx) · [官网](https://maraxen.github.io/aminx/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/maraxen/aminx) · [官网](https://maraxen.github.io/aminx/) · 个人维护
 
 **JAX/Equinox 重实现的 ProteinMPNN/LigandMPNN 蛋白序列设计库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "maraxen/aminx 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

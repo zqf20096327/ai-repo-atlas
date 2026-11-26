@@ -1,6 +1,6 @@
 # mattt/olleh
 
-⭐ 192 · Swift · MIT · 推送 2026-10-26 · [GitHub](https://github.com/mattt/olleh) · 个人维护
+⭐ 192 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mattt/olleh) · 个人维护
 
 **让 Apple Foundation Models 通过 Ollama 兼容 API 使用的 CLI 桥接工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mattt/olleh 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-10-29", "2026-11-08", "2026-11-26"]
     y-axis "stars" 188 --> 193
     line [189, 190, 192, 192]
 ```
 
-2026-10-26 189 → 2026-11-25 192（+3）
+2026-10-26 189 → 2026-11-26 192（+3）
 
 
 ---

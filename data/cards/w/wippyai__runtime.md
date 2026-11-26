@@ -1,6 +1,6 @@
 # wippyai/runtime
 
-⭐ 16 · Go · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wippyai/runtime) · [官网](https://wippy.ai/) · 组织维护
+⭐ 16 · Go · MPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/wippyai/runtime) · [官网](https://wippy.ai/) · 组织维护
 
 **开源 actor 模型运行时，用于构建复杂应用与 agent 系统**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "wippyai/runtime 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-18", "2026-11-25"]
+    title "wippyai/runtime 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 14 --> 18
-    line [16, 17, 16, 15, 16]
+    line [16, 17, 16, 15, 16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

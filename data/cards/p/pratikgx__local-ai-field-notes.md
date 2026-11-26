@@ -1,6 +1,6 @@
 # pratikgx/local-ai-field-notes
 
-⭐ 20 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/pratikgx/local-ai-field-notes) · 个人维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/pratikgx/local-ai-field-notes) · 个人维护
 
 **个人本地 AI 运行日志与基准脚本：给非工程师的笔记集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "pratikgx/local-ai-field-notes 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
+    title "pratikgx/local-ai-field-notes 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 4 --> 21
-    line [5, 7, 8, 7, 11, 12, 13, 16, 17, 20]
+    line [5, 7, 8, 7, 11, 12, 13, 16, 17, 20, 20]
 ```
 
-2026-10-23 5 → 2026-11-25 20（+15）
+2026-10-24 5 → 2026-11-26 20（+15）
 
 
 ---

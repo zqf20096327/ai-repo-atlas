@@ -1,6 +1,6 @@
 # explosion/spacy-layout
 
-⭐ 914 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/explosion/spacy-layout) · 组织维护
+⭐ 915 · Python · MIT · 推送 2026-03-27 · [GitHub](https://github.com/explosion/spacy-layout) · 组织维护
 
 **spaCy 插件：将 PDF/Word 等文档转为结构化 Doc 对象**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "explosion/spacy-layout 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-26"]
     y-axis "stars" 912 --> 916
-    line [913, 914, 913, 914, 915, 914, 914]
+    line [913, 914, 913, 914, 915, 914, 915]
 ```
 
-2026-10-23 913 → 2026-11-25 914（+1）
+2026-10-24 913 → 2026-11-26 915（+2）
 
 
 ---

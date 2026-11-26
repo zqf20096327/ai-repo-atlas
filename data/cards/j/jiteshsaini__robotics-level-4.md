@@ -45,12 +45,12 @@ Earth Rover 系列第 4 级项目：在树莓派上本机运行 TensorFlow Lite 
 ```mermaid
 xychart-beta
     title "jiteshsaini/robotics-level-4 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 99 --> 101
     line [100, 100]
 ```
 
-2026-10-23 100 → 2026-11-25 100（+0）
+2026-10-24 100 → 2026-11-26 100（+0）
 
 
 ---

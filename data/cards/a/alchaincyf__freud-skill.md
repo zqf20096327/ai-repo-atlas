@@ -1,6 +1,6 @@
 # alchaincyf/freud-skill
 
-⭐ 63 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/alchaincyf/freud-skill) · 个人维护 · 中文 README
+⭐ 64 · MIT · 推送 2026-10-13 · [GitHub](https://github.com/alchaincyf/freud-skill) · 个人维护 · 中文 README
 
 **给 AI Agent 的心理分析式认知调优技能（SKILL）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alchaincyf/freud-skill 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 58 --> 64
-    line [59, 60, 62, 63, 63]
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 58 --> 65
+    line [59, 60, 62, 63, 64]
 ```
 
-2026-11-08 59 → 2026-11-25 63（+4）
+2026-11-08 59 → 2026-11-26 64（+5）
 
 
 ---

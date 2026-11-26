@@ -1,6 +1,6 @@
 # 11suixing11/dfacm-calendar
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/11suixing11/dfacm-calendar) · [官网](https://dfacm.website/calendar) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-10-31 · [GitHub](https://github.com/11suixing11/dfacm-calendar) · [官网](https://dfacm.website/calendar) · 个人维护 · 中文 README
 
 **面向 HydroOJ 站点与参赛者的统一赛事日历**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "11suixing11/dfacm-calendar 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 4（+1）
 
 
 ---

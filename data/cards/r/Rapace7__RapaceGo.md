@@ -1,6 +1,6 @@
 # Rapace7/RapaceGo
 
-⭐ 25 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Rapace7/RapaceGo) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/Rapace7/RapaceGo) · 个人维护 · 中文 README
 
 **本地 AI 围棋对弈与复盘讲解的 Windows 桌面工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Rapace7/RapaceGo 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    title "Rapace7/RapaceGo 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 24 --> 27
+    line [25, 26]
 ```
 
-2026-10-23 24 → 2026-11-25 25（+1）
+2026-10-24 25 → 2026-11-26 26（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # kraina-ai/srai
 
-⭐ 393 · Python · Apache-2.0 · 推送 2026-11-02 · [GitHub](https://github.com/kraina-ai/srai) · [官网](https://kraina-ai.github.io/srai/) · 组织维护
+⭐ 393 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kraina-ai/srai) · [官网](https://kraina-ai.github.io/srai/) · 组织维护
 
 **地理空间机器学习库：下载空间数据并生成区域嵌入向量**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kraina-ai/srai 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
     y-axis "stars" 391 --> 395
     line [392, 393, 392, 393, 394, 393, 393]
 ```
 
-2026-10-23 392 → 2026-11-25 393（+1）
+2026-10-24 392 → 2026-11-26 393（+1）
 
 
 ---

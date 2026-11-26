@@ -46,12 +46,12 @@ Python SDK，提供由调用方驱动的 turn 循环：调用 FridayAgent.step()
 ```mermaid
 xychart-beta
     title "iml1111/friday 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 15（+0）
 
 
 ---

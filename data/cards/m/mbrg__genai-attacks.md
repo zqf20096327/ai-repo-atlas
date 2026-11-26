@@ -1,6 +1,6 @@
 # mbrg/genai-attacks
 
-⭐ 151 · Python · 推送 2025-12-22 · [GitHub](https://github.com/mbrg/genai-attacks) · [官网](https://ttps.ai) · 个人维护
+⭐ 152 · Python · 推送 2025-12-22 · [GitHub](https://github.com/mbrg/genai-attacks) · [官网](https://ttps.ai) · 个人维护
 
 **面向 GenAI 智能体与 Copilot 的攻击技术（TTP）知识库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mbrg/genai-attacks 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 148 --> 152
-    line [149, 150, 149, 151, 151]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 148 --> 153
+    line [149, 150, 149, 151, 152]
 ```
 
-2026-10-23 149 → 2026-11-25 151（+2）
+2026-10-24 149 → 2026-11-26 152（+3）
 
 
 ---

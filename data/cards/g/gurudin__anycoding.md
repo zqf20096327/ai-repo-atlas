@@ -1,6 +1,6 @@
 # gurudin/anycoding
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/gurudin/anycoding) · [官网](https://gurudin.github.io/anycoding/) · 个人维护 · 中文 README
+⭐ 19 · Java · Apache-2.0 · 推送 2026-04-21 · [GitHub](https://github.com/gurudin/anycoding) · [官网](https://gurudin.github.io/anycoding/) · 个人维护 · 中文 README
 
 **用 Android 手机远程接管电脑上 AI 编程代理会话的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "gurudin/anycoding 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 18, 18]
+    title "gurudin/anycoding 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 17 --> 20
+    line [18, 19, 18, 19]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 18 → 2026-11-26 19（+1）
 
 
 ---

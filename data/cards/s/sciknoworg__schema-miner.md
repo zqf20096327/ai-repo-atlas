@@ -1,6 +1,6 @@
 # sciknoworg/schema-miner
 
-⭐ 40 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/sciknoworg/schema-miner) · [官网](https://sciknoworg.github.io/schema-miner/) · 组织维护
+⭐ 41 · Jupyter Notebook · MIT · 推送 2026-08-14 · [GitHub](https://github.com/sciknoworg/schema-miner) · [官网](https://sciknoworg.github.io/schema-miner/) · 组织维护
 
 **科研者用 LLM 三阶段人机回环挖掘科学 JSON Schema 的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sciknoworg/schema-miner 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-23 40 → 2026-11-25 40（+0）
+2026-10-24 40 → 2026-11-26 41（+1）
 
 
 ---

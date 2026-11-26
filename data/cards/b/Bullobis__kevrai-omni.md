@@ -1,6 +1,6 @@
 # Bullobis/kevrai-omni
 
-⭐ 18 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/Bullobis/kevrai-omni) · 个人维护 · 中文 README
+⭐ 18 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Bullobis/kevrai-omni) · 个人维护 · 中文 README
 
 **面向本地用户的桌面 AI 工作站，集成模型市场与多模态生成**
 
@@ -45,12 +45,12 @@ Electron + 原生 JS 前端搭配本地 FastAPI Python sidecar 的桌面应用�
 ```mermaid
 xychart-beta
     title "Bullobis/kevrai-omni 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

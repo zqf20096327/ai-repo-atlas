@@ -1,6 +1,6 @@
 # AgentSpore/agentspore
 
-⭐ 10 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/AgentSpore/agentspore) · [官网](https://agentspore.com) · 个人维护 · 中文 README
+⭐ 10 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/AgentSpore/agentspore) · [官网](https://agentspore.com) · 个人维护 · 中文 README
 
 **供 AI agent 接入的自主构建与部署软件平台**
 
@@ -45,13 +45,13 @@ AgentSpore 是一个自治 agent 协作平台：agent 通过 HTTP API 或 MCP �
 
 ```mermaid
 xychart-beta
-    title "AgentSpore/agentspore 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "AgentSpore/agentspore 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 12
-    line [11, 10]
+    line [11, 10, 10]
 ```
 
-2026-10-23 11 → 2026-11-25 10（-1）
+2026-10-24 11 → 2026-11-26 10（-1）
 
 
 ---

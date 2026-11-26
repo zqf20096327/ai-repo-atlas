@@ -1,6 +1,6 @@
 # ZenHG/ComfyUI-MOSS-Storyboard
 
-⭐ 20 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/ZenHG/ComfyUI-MOSS-Storyboard) · [官网](https://registry.comfy.org/nodes/moss-storyboard) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/ZenHG/ComfyUI-MOSS-Storyboard) · [官网](https://registry.comfy.org/nodes/moss-storyboard) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：MOSS 图像故事板、局部编辑与 LLM 提示词**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZenHG/ComfyUI-MOSS-Storyboard 星数(近 13 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 2 --> 21
-    line [3, 5, 6, 7, 10, 11, 14, 15, 17, 18, 19, 20, 20]
+    x-axis ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 2 --> 22
+    line [3, 5, 6, 7, 10, 11, 14, 15, 17, 18, 19, 20, 21]
 ```
 
-2026-10-26 3 → 2026-11-25 20（+17）
+2026-10-26 3 → 2026-11-26 21（+18）
 
 
 ---

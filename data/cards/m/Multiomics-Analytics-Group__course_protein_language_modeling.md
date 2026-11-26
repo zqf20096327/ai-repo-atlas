@@ -1,6 +1,6 @@
 # Multiomics-Analytics-Group/course_protein_language_modeling
 
-⭐ 52 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/Multiomics-Analytics-Group/course_protein_language_modeling) · 组织维护
+⭐ 53 · Jupyter Notebook · Apache-2.0 · 推送 2026-08-20 · [GitHub](https://github.com/Multiomics-Analytics-Group/course_protein_language_modeling) · 组织维护
 
 **蛋白质语言建模课程：理论讲义与 Colab 实践笔记本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Multiomics-Analytics-Group/course_protein_language_modeling 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 51 --> 53
-    line [52, 52]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 51 --> 54
+    line [52, 53]
 ```
 
-2026-10-23 52 → 2026-11-25 52（+0）
+2026-10-24 52 → 2026-11-26 53（+1）
 
 
 ---

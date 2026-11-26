@@ -1,6 +1,6 @@
 # benchopt/benchopt
 
-⭐ 361 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/benchopt/benchopt) · [官网](https://benchopt.github.io) · 组织维护
+⭐ 363 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/benchopt/benchopt) · [官网](https://benchopt.github.io) · 组织维护
 
 **面向 ML 工作流的可复现基准测试框架**
 
@@ -46,12 +46,12 @@ Benchopt 是一个针对机器学习工作流的基准测试套件，以 Python 
 ```mermaid
 xychart-beta
     title "benchopt/benchopt 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 327 --> 364
-    line [330, 358, 359, 360, 359, 360, 361, 361]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 327 --> 366
+    line [330, 358, 359, 360, 359, 360, 361, 363]
 ```
 
-2026-10-23 330 → 2026-11-25 361（+31）
+2026-10-24 330 → 2026-11-26 363（+33）
 
 
 ---

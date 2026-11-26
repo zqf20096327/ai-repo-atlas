@@ -1,6 +1,6 @@
 # CrispStrobe/CrispSorter
 
-⭐ 13 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/CrispStrobe/CrispSorter) · 个人维护
+⭐ 13 · Rust · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/CrispStrobe/CrispSorter) · 个人维护
 
 **本地 LLM 整理文档：提取标题作者年份并归档**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "CrispStrobe/CrispSorter 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 9 --> 14
     line [10, 11, 10, 12, 13, 13]
 ```
 
-2026-10-23 10 → 2026-11-25 13（+3）
+2026-10-24 10 → 2026-11-26 13（+3）
 
 
 ---

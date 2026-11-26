@@ -1,6 +1,6 @@
 # NVlabs/neural_rx
 
-⭐ 111 · Jupyter Notebook · NOASSERTION · 推送 2025-12-11 · [GitHub](https://github.com/NVlabs/neural_rx) · 组织维护
+⭐ 112 · Jupyter Notebook · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/NVlabs/neural_rx) · 组织维护
 
 **5G NR 多用户 MIMO 神经接收机的设计训练与实时推理代码**
 
@@ -46,12 +46,12 @@ NVIDIA 实验室发布的科研代码库：基于 Sionna 链路级仿真库与 T
 ```mermaid
 xychart-beta
     title "NVlabs/neural_rx 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 105 --> 112
-    line [106, 107, 108, 109, 111, 111]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 105 --> 113
+    line [106, 107, 108, 109, 111, 112]
 ```
 
-2026-10-23 106 → 2026-11-25 111（+5）
+2026-10-24 106 → 2026-11-26 112（+6）
 
 
 ---

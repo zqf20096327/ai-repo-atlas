@@ -1,6 +1,6 @@
 # DomynAI/domyn-agents
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/DomynAI/domyn-agents) · 组织维护
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/DomynAI/domyn-agents) · 组织维护
 
 **Python/YAML 构建与运行 AI agent 的框架与终端客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DomynAI/domyn-agents 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-15", "2026-11-26"]
     y-axis "stars" 19 --> 23
     line [20, 21, 22, 22]
 ```
 
-2026-11-10 20 → 2026-11-25 22（+2）
+2026-11-10 20 → 2026-11-26 22（+2）
 
 
 ---

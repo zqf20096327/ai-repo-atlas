@@ -45,12 +45,12 @@ LangChain 官方的教学仓库，是 LangChain Academy 内容的浓缩版，面
 ```mermaid
 xychart-beta
     title "langchain-ai/ambient-agent-101 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 35（+0）
 
 
 ---

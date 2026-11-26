@@ -1,6 +1,6 @@
 # vanich-git/MelonTools
 
-⭐ 5 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/vanich-git/MelonTools) · 个人维护 · 中文 README
+⭐ 7 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vanich-git/MelonTools) · 个人维护 · 中文 README
 
 **本地桌面应用：管理 Codex 账户池、多模型网关与定时任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vanich-git/MelonTools 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 5, 7]
 ```
 
-2026-11-16 3 → 2026-11-25 5（+2）
+2026-11-16 3 → 2026-11-26 7（+4）
 
 
 ---

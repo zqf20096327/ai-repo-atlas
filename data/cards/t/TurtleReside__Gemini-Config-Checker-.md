@@ -1,6 +1,6 @@
 # TurtleReside/Gemini-Config-Checker-
 
-⭐ 464 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TurtleReside/Gemini-Config-Checker-) · 个人维护
+⭐ 451 · Go · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/TurtleReside/Gemini-Config-Checker-) · 个人维护
 
 **扫描代理配置能否真正进入 Google AI Studio 与 Gemini 的桌面/移动工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "TurtleReside/Gemini-Config-Checker- 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 463 --> 476
-    line [475, 473, 472, 469, 464]
+    title "TurtleReside/Gemini-Config-Checker- 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 449 --> 477
+    line [475, 473, 472, 469, 464, 451]
 ```
 
-2026-11-15 475 → 2026-11-25 464（-11）
+2026-11-15 475 → 2026-11-26 451（-24）
 
 
 ---

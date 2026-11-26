@@ -1,6 +1,6 @@
 # openreachtech/hora-boilerplate
 
-⭐ 62 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openreachtech/hora-boilerplate) · [官网](https://openreach.tech/#hora) · 组织维护
+⭐ 63 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/openreachtech/hora-boilerplate) · [官网](https://openreach.tech/#hora) · 组织维护
 
 **给开发者的 Claude Code 规格驱动 Web 应用模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openreachtech/hora-boilerplate 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 61 --> 64
+    line [62, 63]
 ```
 
-2026-11-08 62 → 2026-11-25 62（+0）
+2026-11-08 62 → 2026-11-26 63（+1）
 
 
 ---

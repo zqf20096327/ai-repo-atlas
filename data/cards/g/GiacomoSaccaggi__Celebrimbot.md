@@ -1,6 +1,6 @@
 # GiacomoSaccaggi/Celebrimbot
 
-⭐ 12 · Kotlin · MIT · 推送 2026-09-21 · [GitHub](https://github.com/GiacomoSaccaggi/Celebrimbot) · 个人维护
+⭐ 13 · Kotlin · MIT · 推送 2026-09-21 · [GitHub](https://github.com/GiacomoSaccaggi/Celebrimbot) · 个人维护
 
 **JetBrains IDE 内的多 Agent 自主编码助手插件**
 
@@ -46,12 +46,12 @@ IntelliJ 平台插件，在 IDE 内提供多 Agent 系统：按托尔金角色�
 ```mermaid
 xychart-beta
     title "GiacomoSaccaggi/Celebrimbot 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 12, 12]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 12, 13]
 ```
 
-2026-10-23 10 → 2026-11-25 12（+2）
+2026-10-24 10 → 2026-11-26 13（+3）
 
 
 ---

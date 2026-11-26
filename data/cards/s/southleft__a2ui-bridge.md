@@ -1,6 +1,6 @@
 # southleft/a2ui-bridge
 
-⭐ 30 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/southleft/a2ui-bridge) · [官网](https://a2ui.southleft.com/) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-09-09 · [GitHub](https://github.com/southleft/a2ui-bridge) · [官网](https://a2ui.southleft.com/) · 个人维护
 
 **让 AI agent 用任意组件库生成真实 UI 的 A2UI 协议 React 适配框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "southleft/a2ui-bridge 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 28 --> 31
-    line [29, 30, 29, 30, 30]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 28 --> 32
+    line [29, 30, 29, 30, 31]
 ```
 
-2026-10-23 29 → 2026-11-25 30（+1）
+2026-10-24 29 → 2026-11-26 31（+2）
 
 
 ---

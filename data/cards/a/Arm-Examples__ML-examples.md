@@ -1,6 +1,6 @@
 # Arm-Examples/ML-examples
 
-⭐ 492 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/Arm-Examples/ML-examples) · [官网](https://developer.arm.com/technologies/machine-learning-on-arm) · 组织维护
+⭐ 491 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/Arm-Examples/ML-examples) · [官网](https://developer.arm.com/technologies/machine-learning-on-arm) · 组织维护
 
 **Arm 官方机器学习教程与示例合集，面向 NPU/嵌入式开发者**
 
@@ -45,12 +45,12 @@ Arm 维护的机器学习教程与示例源码汇编，覆盖 Ethos-U NPU（Cors
 ```mermaid
 xychart-beta
     title "Arm-Examples/ML-examples 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 491 --> 494
-    line [492, 493, 492, 492]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 490 --> 494
+    line [492, 493, 492, 491]
 ```
 
-2026-10-23 492 → 2026-11-25 492（+0）
+2026-10-24 492 → 2026-11-26 491（-1）
 
 
 ---

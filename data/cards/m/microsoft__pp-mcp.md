@@ -1,6 +1,6 @@
 # microsoft/pp-mcp
 
-⭐ 61 · MIT · 推送 2026-11-13 · [GitHub](https://github.com/microsoft/pp-mcp) · [官网](https://aka.ms/pp-mcp) · 组织维护
+⭐ 61 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/pp-mcp) · [官网](https://aka.ms/pp-mcp) · 组织维护
 
 **微软 Power Platform 的 MCP 实验与示例集合**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/pp-mcp 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-26"]
     y-axis "stars" 59 --> 62
     line [60, 61, 61]
 ```
 
-2026-10-22 60 → 2026-11-25 61（+1）
+2026-10-23 60 → 2026-11-26 61（+1）
 
 
 ---

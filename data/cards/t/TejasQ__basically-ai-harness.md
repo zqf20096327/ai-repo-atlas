@@ -1,6 +1,6 @@
 # TejasQ/basically-ai-harness
 
-⭐ 202 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/TejasQ/basically-ai-harness) · [官网](https://tej.as/blog/what-is-an-agent-harness) · 个人维护
+⭐ 205 · TypeScript · MIT · 推送 2026-09-15 · [GitHub](https://github.com/TejasQ/basically-ai-harness) · [官网](https://tej.as/blog/what-is-an-agent-harness) · 个人维护
 
 **教学用 TypeScript 最小实现：评测 harness 与 agent harness 各一套**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TejasQ/basically-ai-harness 星数(近 14 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 189 --> 203
-    line [190, 191, 192, 193, 190, 193, 195, 196, 197, 198, 199, 200, 201, 202]
+    title "TejasQ/basically-ai-harness 星数(近 15 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 189 --> 206
+    line [190, 191, 192, 193, 190, 193, 195, 196, 197, 198, 199, 200, 201, 202, 205]
 ```
 
-2026-10-23 190 → 2026-11-25 202（+12）
+2026-10-24 190 → 2026-11-26 205（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # MiyanoShihoo/camty
 
-⭐ 8 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/MiyanoShihoo/camty) · 个人维护 · 中文 README
+⭐ 9 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/MiyanoShihoo/camty) · 个人维护 · 中文 README
 
 **给红队/安全测试者的全链渗透测试自动化工作台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MiyanoShihoo/camty 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 9
-    line [4, 6, 8]
+    title "MiyanoShihoo/camty 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 10
+    line [4, 6, 8, 9]
 ```
 
-2026-11-22 4 → 2026-11-25 8（+4）
+2026-11-22 4 → 2026-11-26 9（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # sabertaz/notes
 
-⭐ 49 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/sabertaz/notes) · [官网](https://notes.tazimi.dev) · 个人维护
+⭐ 49 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/sabertaz/notes) · [官网](https://notes.tazimi.dev) · 个人维护
 
 **个人技术学习笔记仓库（today I learned）**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "sabertaz/notes 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
     y-axis "stars" 47 --> 50
     line [48, 49, 49]
 ```
 
-2026-10-23 48 → 2026-11-25 49（+1）
+2026-10-24 48 → 2026-11-26 49（+1）
 
 
 ---

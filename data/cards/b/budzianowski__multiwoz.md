@@ -1,6 +1,6 @@
 # budzianowski/multiwoz
 
-⭐ 964 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/budzianowski/multiwoz) · 个人维护
+⭐ 963 · Python · MIT · 推送 2026-04-18 · [GitHub](https://github.com/budzianowski/multiwoz) · 个人维护
 
 **面向研究者的多领域任务型对话标注数据集与基准榜单**
 
@@ -44,13 +44,13 @@ MultiWOZ 是 10k 规模的人工-人工书面对话完全标注语料库，覆�
 
 ```mermaid
 xychart-beta
-    title "budzianowski/multiwoz 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-20", "2026-11-25"]
+    title "budzianowski/multiwoz 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 962 --> 965
-    line [963, 964, 963, 964]
+    line [963, 964, 963, 964, 963]
 ```
 
-2026-10-23 963 → 2026-11-25 964（+1）
+2026-10-24 963 → 2026-11-26 963（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # HKUDS/TokenWise
 
-⭐ 2,290 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/HKUDS/TokenWise) · 组织维护 · 中文 README
+⭐ 2,292 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/HKUDS/TokenWise) · 组织维护 · 中文 README
 
 **面向 9 种编码 Agent 的上下文压缩插件，减少 token 消耗**
 
@@ -40,6 +40,18 @@
 > L42: ## 🤖 Drop-In Plugin for the Agents You Already Use
 > L134: |Claude Code 2.1+|hooks; the catalog follows Claude's own summary|`/tokenwise:learn`|
 > L139: |Any agent or shell|`tokenwise run`, recall over MCP|`tokenwise learn`|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "HKUDS/TokenWise 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2289 --> 2293
+    line [2290, 2292]
+```
+
+2026-11-25 2,290 → 2026-11-26 2,292（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # GenRobo/GRID-playground
 
-⭐ 347 · Jupyter Notebook · NOASSERTION · 推送 2026-01-06 · [GitHub](https://github.com/GenRobo/GRID-playground) · [官网](https://generalrobotics.company) · 组织维护
+⭐ 346 · Jupyter Notebook · NOASSERTION · 推送 2026-01-06 · [GitHub](https://github.com/GenRobo/GRID-playground) · [官网](https://generalrobotics.company) · 组织维护
 
 **GRID 机器人智能开发平台的示例配置与 Notebook 仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "GenRobo/GRID-playground 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 345 --> 349
-    line [346, 347, 346, 348, 347, 347]
+    line [346, 347, 346, 348, 347, 346]
 ```
 
-2026-10-23 346 → 2026-11-25 347（+1）
+2026-10-24 346 → 2026-11-26 346（+0）
 
 
 ---

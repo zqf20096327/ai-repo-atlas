@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Joshua-Ludolf/rasptorch 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    title "Joshua-Ludolf/rasptorch 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 12
-    line [11, 10]
+    line [11, 10, 10]
 ```
 
-2026-11-10 11 → 2026-11-25 10（-1）
+2026-11-10 11 → 2026-11-26 10（-1）
 
 
 ---

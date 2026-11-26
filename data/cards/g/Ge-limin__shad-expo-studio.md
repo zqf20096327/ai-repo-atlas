@@ -1,6 +1,6 @@
 # Ge-limin/shad-expo-studio
 
-⭐ 177 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Ge-limin/shad-expo-studio) · [官网](https://main--6928fcf80c2ca635d2fe1c28.chromatic.com) · 个人维护
+⭐ 178 · TypeScript · MIT · 推送 2026-10-23 · [GitHub](https://github.com/Ge-limin/shad-expo-studio) · [官网](https://main--6928fcf80c2ca635d2fe1c28.chromatic.com) · 个人维护
 
 **Expo/React Native 组件的可视化回归工作台（非组件库）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Ge-limin/shad-expo-studio 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 176 --> 178
-    line [177, 177]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 176 --> 179
+    line [177, 178]
 ```
 
-2026-10-23 177 → 2026-11-25 177（+0）
+2026-10-24 177 → 2026-11-26 178（+1）
 
 
 ---

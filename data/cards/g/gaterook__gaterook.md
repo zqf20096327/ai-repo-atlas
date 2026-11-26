@@ -1,6 +1,6 @@
 # gaterook/gaterook
 
-⭐ 7 · Java · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/gaterook/gaterook) · [官网](https://gaterook.com) · 组织维护
+⭐ 7 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/gaterook/gaterook) · [官网](https://gaterook.com) · 组织维护
 
 **给 AI 应用接入生产基础设施加权限、审批与审计的 MCP 桌面网关**
 
@@ -45,13 +45,13 @@ GateRook 是一款桌面应用，在 AI 应用（Claude Desktop、Codex、Cursor
 
 ```mermaid
 xychart-beta
-    title "gaterook/gaterook 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    title "gaterook/gaterook 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 5 --> 8
-    line [6, 7]
+    line [6, 7, 7]
 ```
 
-2026-11-23 6 → 2026-11-25 7（+1）
+2026-11-23 6 → 2026-11-26 7（+1）
 
 
 ---

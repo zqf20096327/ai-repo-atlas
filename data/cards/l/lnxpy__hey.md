@@ -1,6 +1,6 @@
 # lnxpy/hey
 
-⭐ 236 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lnxpy/hey) · [官网](https://pypi.org/project/hey-mindsdb/) · 个人维护
+⭐ 235 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/lnxpy/hey) · [官网](https://pypi.org/project/hey-mindsdb/) · 个人维护
 
 **开发者用 CLI AI 助手：连 LLM 服务做结对问答**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lnxpy/hey 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 234 --> 237
-    line [235, 236, 235, 236, 236]
+    line [235, 236, 235, 236, 235]
 ```
 
-2026-10-23 235 → 2026-11-25 236（+1）
+2026-10-24 235 → 2026-11-26 235（+0）
 
 
 ---

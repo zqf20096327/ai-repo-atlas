@@ -1,6 +1,6 @@
 # termaxa/termaxa
 
-⭐ 29 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/termaxa/termaxa) · [官网](https://termaxa.com) · 组织维护
+⭐ 29 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/termaxa/termaxa) · [官网](https://termaxa.com) · 组织维护
 
 **拦截 AI 编程 agent 危险 shell 命令的 Rust 守门工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "termaxa/termaxa 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-15", "2026-11-26"]
     y-axis "stars" 26 --> 30
     line [27, 28, 29, 29]
 ```
 
-2026-10-23 27 → 2026-11-25 29（+2）
+2026-10-24 27 → 2026-11-26 29（+2）
 
 
 ---

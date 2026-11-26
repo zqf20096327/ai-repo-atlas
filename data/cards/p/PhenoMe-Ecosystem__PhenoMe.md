@@ -1,6 +1,6 @@
 # PhenoMe-Ecosystem/PhenoMe
 
-⭐ 13 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/PhenoMe-Ecosystem/PhenoMe) · [官网](https://phenome-ecosystem.github.io/PhenoMe/) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/PhenoMe-Ecosystem/PhenoMe) · [官网](https://phenome-ecosystem.github.io/PhenoMe/) · 组织维护
 
 **面向显微成像表型分析的深度学习嵌入框架**
 
@@ -45,12 +45,12 @@ PhenoMe 是模块化、数据集与模型无关的表型分析框架：用 DINOv
 ```mermaid
 xychart-beta
     title "PhenoMe-Ecosystem/PhenoMe 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-11-08 12 → 2026-11-25 13（+1）
+2026-11-08 12 → 2026-11-26 13（+1）
 
 
 ---

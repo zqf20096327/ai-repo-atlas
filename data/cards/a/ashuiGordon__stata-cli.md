@@ -1,6 +1,6 @@
 # ashuiGordon/stata-cli
 
-⭐ 60 · Python · 推送 2026-10-28 · [GitHub](https://github.com/ashuiGordon/stata-cli) · [官网](https://ashuigordon.github.io/stata-cli/) · 个人维护 · 中文 README
+⭐ 61 · Python · 推送 2026-10-28 · [GitHub](https://github.com/ashuiGordon/stata-cli) · [官网](https://ashuigordon.github.io/stata-cli/) · 个人维护 · 中文 README
 
 **供 AI 编程代理调用 Stata 的命令行工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ashuiGordon/stata-cli 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 56 --> 61
-    line [57, 58, 57, 58, 59, 60, 60]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 56 --> 62
+    line [57, 58, 57, 58, 59, 60, 61]
 ```
 
-2026-10-23 57 → 2026-11-25 60（+3）
+2026-10-24 57 → 2026-11-26 61（+4）
 
 
 ---

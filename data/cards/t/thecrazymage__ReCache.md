@@ -1,6 +1,6 @@
 # thecrazymage/ReCache
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/thecrazymage/ReCache) · [官网](https://arxiv.org/abs/2606.06060) · 组织维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/thecrazymage/ReCache) · [官网](https://arxiv.org/abs/2606.06060) · 组织维护
 
 **科研者用：REINFORCE 学习扩散模型缓存调度策略以加速推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thecrazymage/ReCache 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 92 --> 95
-    line [93, 94, 94]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 92 --> 96
+    line [93, 94, 95]
 ```
 
-2026-11-08 93 → 2026-11-25 94（+1）
+2026-11-08 93 → 2026-11-26 95（+2）
 
 
 ---

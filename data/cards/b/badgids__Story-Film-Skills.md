@@ -41,6 +41,18 @@
 > L34: - ComfyUI workflow validation, reference-binding audits, reusable workflow contracts, and complete built-in editabl
 > L36: - workflow-first generation using numbered choices only from the extension's `comfyui_workflows/` library: bundled 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "badgids/Story-Film-Skills 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `a8de7c5312f0` · [字段定义](../../DATASET.md)*

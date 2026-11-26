@@ -1,6 +1,6 @@
 # hankunpeng/skills
 
-⭐ 26 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/hankunpeng/skills) · 个人维护 · 中文 README
+⭐ 26 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hankunpeng/skills) · 个人维护 · 中文 README
 
 **个人维护的 AI agent 技能合集：11 个效率技能，npx 按需安装**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hankunpeng/skills 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 24 --> 27
     line [25, 26, 25, 26, 26]
 ```
 
-2026-10-23 25 → 2026-11-25 26（+1）
+2026-10-24 25 → 2026-11-26 26（+1）
 
 
 ---

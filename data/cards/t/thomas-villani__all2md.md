@@ -1,6 +1,6 @@
 # thomas-villani/all2md
 
-⭐ 34 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/thomas-villani/all2md) · [官网](https://all2md.readthedocs.io/) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/thomas-villani/all2md) · [官网](https://all2md.readthedocs.io/) · 个人维护
 
 **开发者工具：40+ 格式与 Markdown 双向转换、检索与分块，供 LLM/RAG 流水线用**
 
@@ -47,12 +47,12 @@ Python 库 + CLI + MCP 服务器三形态的文档转换工具：将 PDF、Offic
 ```mermaid
 xychart-beta
     title "thomas-villani/all2md 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 32 --> 36
     line [33, 34, 33, 35, 34, 34]
 ```
 
-2026-10-23 33 → 2026-11-25 34（+1）
+2026-10-24 33 → 2026-11-26 34（+1）
 
 
 ---

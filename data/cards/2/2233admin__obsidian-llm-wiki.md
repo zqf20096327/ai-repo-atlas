@@ -1,6 +1,6 @@
 # 2233admin/obsidian-llm-wiki
 
-⭐ 38 · TypeScript · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/2233admin/obsidian-llm-wiki) · [官网](https://github.com/2233admin/obsidian-llm-wiki/wiki) · 个人维护 · 中文 README
+⭐ 39 · TypeScript · GPL-3.0 · 推送 2026-11-02 · [GitHub](https://github.com/2233admin/obsidian-llm-wiki) · [官网](https://github.com/2233admin/obsidian-llm-wiki/wiki) · 个人维护 · 中文 README
 
 **把团队研究资料编译成可审查 Obsidian 知识库的 MCP 工具链**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "2233admin/obsidian-llm-wiki 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 35 --> 39
-    line [36, 37, 36, 38, 38]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 35 --> 40
+    line [36, 37, 36, 38, 39]
 ```
 
-2026-10-23 36 → 2026-11-25 38（+2）
+2026-10-24 36 → 2026-11-26 39（+3）
 
 
 ---

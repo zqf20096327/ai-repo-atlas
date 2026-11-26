@@ -1,6 +1,6 @@
 # harrrshall/barunlm-35m
 
-⭐ 75 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/harrrshall/barunlm-35m) · [官网](https://huggingface.co/harrrshall/BarunLM-35M) · 个人维护
+⭐ 76 · Python · Apache-2.0 · 推送 2026-08-05 · [GitHub](https://github.com/harrrshall/barunlm-35m) · [官网](https://huggingface.co/harrrshall/BarunLM-35M) · 个人维护
 
 **35M 参数小型基座语言模型，5.7B token 预训练**
 
@@ -44,13 +44,13 @@ BarunLM-35M 是一个 35,072,768 参数的基座语言模型，在 5.7B token �
 
 ```mermaid
 xychart-beta
-    title "harrrshall/barunlm-35m 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "harrrshall/barunlm-35m 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 74 --> 77
-    line [76, 75]
+    line [76, 75, 76]
 ```
 
-2026-10-23 76 → 2026-11-25 75（-1）
+2026-10-24 76 → 2026-11-26 76（+0）
 
 
 ---

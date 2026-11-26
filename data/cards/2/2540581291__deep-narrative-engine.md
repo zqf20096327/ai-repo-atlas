@@ -1,6 +1,6 @@
 # 2540581291/deep-narrative-engine
 
-⭐ 12 · JavaScript · 推送 2026-10-05 · [GitHub](https://github.com/2540581291/deep-narrative-engine) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · 推送 2026-10-05 · [GitHub](https://github.com/2540581291/deep-narrative-engine) · 个人维护 · 中文 README
 
 **AI 驱动的成人虚构内容创作桌面工具，以角色卡为核心**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "2540581291/deep-narrative-engine 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-02", "2026-11-15", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12, 12]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-02", "2026-11-15", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 10, 11, 12, 13]
 ```
 
-2026-10-23 10 → 2026-11-25 12（+2）
+2026-10-24 10 → 2026-11-26 13（+3）
 
 
 ---

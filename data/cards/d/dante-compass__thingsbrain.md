@@ -1,6 +1,6 @@
 # dante-compass/thingsbrain
 
-⭐ 18 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dante-compass/thingsbrain) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
+⭐ 18 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/dante-compass/thingsbrain) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
 
 **基于 Dante Cloud 构建的企业级物联网平台，兼容阿里云物联网平台标准**
 
@@ -46,12 +46,12 @@ ThingsBrain 是基于 Dante Cloud 微服务基座构建的物联网平台，面�
 ```mermaid
 xychart-beta
     title "dante-compass/thingsbrain 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 14 --> 19
     line [15, 16, 17, 18, 15, 18, 18]
 ```
 
-2026-10-23 15 → 2026-11-25 18（+3）
+2026-10-24 15 → 2026-11-26 18（+3）
 
 
 ---

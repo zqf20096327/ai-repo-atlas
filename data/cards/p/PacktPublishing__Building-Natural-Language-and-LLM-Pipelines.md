@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PacktPublishing/Building-Natural-Language-and-LLM-Pipelines 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 67 --> 72
-    line [68, 69, 70, 69, 70, 71, 71]
+    title "PacktPublishing/Building-Natural-Language-and-LLM-Pipelines 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 68 --> 72
+    line [69, 70, 69, 70, 71, 71]
 ```
 
-2026-10-23 68 → 2026-11-25 71（+3）
+2026-10-24 69 → 2026-11-26 71（+2）
 
 
 ---

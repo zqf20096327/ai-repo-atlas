@@ -1,6 +1,6 @@
 # tangtang356/frankenstein-llm-skill
 
-⭐ 7 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/tangtang356/frankenstein-llm-skill) · 个人维护 · 中文 README
+⭐ 8 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/tangtang356/frankenstein-llm-skill) · 个人维护 · 中文 README
 
 **指导 AI Agent 部署并持续优化本地 LLM 的技能包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tangtang356/frankenstein-llm-skill 星数(近 4 点)"
-    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 4 --> 8
-    line [5, 6, 7, 7]
+    x-axis ["2026-11-13", "2026-11-15", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 4 --> 9
+    line [5, 6, 7, 8]
 ```
 
-2026-11-13 5 → 2026-11-25 7（+2）
+2026-11-13 5 → 2026-11-26 8（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # pie-project/pie
 
-⭐ 245 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
+⭐ 246 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/pie-project/pie) · [官网](https://pie-project.org) · 组织维护
 
 **模型推理服务引擎：以可编程 inferlet 方式驱动模型**
 
@@ -46,12 +46,12 @@ Pie 是一个模型服务系统，运行 WebAssembly 程序 inferlet，紧邻模
 ```mermaid
 xychart-beta
     title "pie-project/pie 星数(近 6 点)"
-    x-axis ["2026-10-31", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 237 --> 246
-    line [238, 240, 242, 244, 245, 245]
+    x-axis ["2026-10-31", "2026-11-08", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 237 --> 247
+    line [238, 240, 242, 244, 245, 246]
 ```
 
-2026-10-31 238 → 2026-11-25 245（+7）
+2026-10-31 238 → 2026-11-26 246（+8）
 
 
 ---

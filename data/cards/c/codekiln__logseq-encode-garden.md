@@ -1,6 +1,6 @@
 # codekiln/logseq-encode-garden
 
-⭐ 12 · Python · 推送 2026-11-24 · [GitHub](https://github.com/codekiln/logseq-encode-garden) · [官网](https://codekiln.github.io/logseq-encode-garden/) · 个人维护
+⭐ 11 · Python · 推送 2026-11-25 · [GitHub](https://github.com/codekiln/logseq-encode-garden) · [官网](https://codekiln.github.io/logseq-encode-garden/) · 个人维护
 
 **个人 Logseq 知识库：可让 AI agent 基于其内容回答关于作者的问题**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "codekiln/logseq-encode-garden 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-22", "2026-11-26"]
     y-axis "stars" 9 --> 13
-    line [11, 10, 11, 12, 12]
+    line [11, 10, 11, 12, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

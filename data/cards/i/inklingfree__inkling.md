@@ -1,6 +1,6 @@
 # inklingfree/inkling
 
-⭐ 16 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/inklingfree/inkling) · [官网](https://inkling.free) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/inklingfree/inkling) · [官网](https://inkling.free) · 个人维护
 
 **自托管的 WhatsApp 个人 AI 助理，代管邮件/日历/事务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "inklingfree/inkling 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 13 --> 17
-    line [14, 15, 14, 15, 16, 16]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 13 --> 18
+    line [14, 15, 14, 15, 16, 17]
 ```
 
-2026-10-23 14 → 2026-11-25 16（+2）
+2026-10-24 14 → 2026-11-26 17（+3）
 
 
 ---

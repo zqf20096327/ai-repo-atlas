@@ -1,6 +1,6 @@
 # ai-lingnan/econai-agent-platform
 
-⭐ 41 · Python · AGPL-3.0 · 推送 2026-07-17 · [GitHub](https://github.com/ai-lingnan/econai-agent-platform) · [官网](https://ai-lingnan.github.io/econai-agent-platform/) · 组织维护 · 中文 README
+⭐ 42 · Python · AGPL-3.0 · 推送 2026-07-17 · [GitHub](https://github.com/ai-lingnan/econai-agent-platform) · [官网](https://ai-lingnan.github.io/econai-agent-platform/) · 组织维护 · 中文 README
 
 **多租户课程作业平台：AI 双 Agent 并行评审自动批改作业**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ai-lingnan/econai-agent-platform 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 38 --> 42
-    line [39, 41, 41]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 38 --> 43
+    line [39, 41, 42]
 ```
 
-2026-10-23 39 → 2026-11-25 41（+2）
+2026-10-24 39 → 2026-11-26 42（+3）
 
 
 ---

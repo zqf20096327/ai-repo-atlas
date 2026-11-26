@@ -1,6 +1,6 @@
 # Zaneham/setun70-emulator
 
-⭐ 20 · HTML · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Zaneham/setun70-emulator) · 个人维护
+⭐ 21 · HTML · MIT · 推送 2026-08-24 · [GitHub](https://github.com/Zaneham/setun70-emulator) · 个人维护
 
 **苏联 Setun 70 三进制计算机（1970）的 Python 模拟器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Zaneham/setun70-emulator 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 19, 20, 20]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 19, 20, 21]
 ```
 
-2026-10-23 19 → 2026-11-25 20（+1）
+2026-10-24 19 → 2026-11-26 21（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Tibab222/cvMaker
 
-⭐ 22 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Tibab222/cvMaker) · 个人维护
+⭐ 22 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Tibab222/cvMaker) · 个人维护
 
 **本地优先的开源简历与求职管理桌面平台，含语义匹配**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tibab222/cvMaker 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 22（+0）
 
 
 ---

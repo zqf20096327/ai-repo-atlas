@@ -1,6 +1,6 @@
 # antonellof/saetta
 
-⭐ 12 · C · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/antonellof/saetta) · [官网](https://saetta.dev) · 个人维护
+⭐ 17 · C · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/antonellof/saetta) · [官网](https://saetta.dev) · 个人维护
 
 **Mac 本地编码 agent 运行时：单二进制内置推理引擎跑开源编码模型**
 
@@ -40,6 +40,18 @@
 > L4:  Two families of open coding models, Qwen3.8 and Inkling 2 Mini, run inside the agent on its own inference engine, w
 > L62: Saetta Code is the coding agent inside the `saetta` binary. It is written in C and runs the model in its own proces
 > L122: `saetta start` joins the server on this machine or starts one, waits for the model and runs the agent pointed at i
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "antonellof/saetta 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 11 --> 18
+    line [12, 17]
+```
+
+2026-11-25 12 → 2026-11-26 17（+5）
 
 
 ---

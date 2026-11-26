@@ -1,6 +1,6 @@
 # kaiserern/Kaiser.charon
 
-⭐ 79 · JavaScript · 推送 2026-10-25 · [GitHub](https://github.com/kaiserern/Kaiser.charon) · 个人维护
+⭐ 80 · JavaScript · 推送 2026-10-25 · [GitHub](https://github.com/kaiserern/Kaiser.charon) · 个人维护
 
 **Solana pump.fun 交易机器人：Telegram 筛选代币并经 Jupiter 执行**
 
@@ -45,12 +45,12 @@ yunus-0x/charon 的 fork，Node.js 编写的 Telegram 交易机器人：从 Sign
 ```mermaid
 xychart-beta
     title "kaiserern/Kaiser.charon 星数(近 7 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 69 --> 80
-    line [70, 75, 76, 77, 78, 79, 79]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 69 --> 81
+    line [70, 75, 76, 77, 78, 79, 80]
 ```
 
-2026-10-26 70 → 2026-11-25 79（+9）
+2026-10-26 70 → 2026-11-26 80（+10）
 
 
 ---

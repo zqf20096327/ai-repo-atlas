@@ -1,6 +1,6 @@
 # pixeli99/InfiLoop
 
-⭐ 15 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pixeli99/InfiLoop) · [官网](https://arxiv.org/abs/2610.11570) · 组织维护
+⭐ 16 · Python · MIT · 推送 2026-10-21 · [GitHub](https://github.com/pixeli99/InfiLoop) · [官网](https://arxiv.org/abs/2610.11570) · 组织维护
 
 **循环 Transformer 的循环原生残差连接方法（研究代码）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pixeli99/InfiLoop 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 11 --> 16
-    line [12, 14, 15, 15]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 11 --> 17
+    line [12, 14, 15, 16]
 ```
 
-2026-10-23 12 → 2026-11-25 15（+3）
+2026-10-24 12 → 2026-11-26 16（+4）
 
 
 ---

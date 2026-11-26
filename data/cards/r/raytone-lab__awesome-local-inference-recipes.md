@@ -1,6 +1,6 @@
 # raytone-lab/awesome-local-inference-recipes
 
-⭐ 4 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/raytone-lab/awesome-local-inference-recipes) · [官网](https://raytone-lab.github.io/awesome-local-inference-recipes/) · 组织维护 · 中文 README
+⭐ 4 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/raytone-lab/awesome-local-inference-recipes) · [官网](https://raytone-lab.github.io/awesome-local-inference-recipes/) · 组织维护 · 中文 README
 
 **本地 AI 推理速度实测数据集：模型×引擎×硬件的来源可查清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "raytone-lab/awesome-local-inference-recipes 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

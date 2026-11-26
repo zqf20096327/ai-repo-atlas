@@ -45,13 +45,13 @@ Monorepo 形态提供两种交付：VS Code 原生扩展（内嵌 MCP 守护进�
 
 ```mermaid
 xychart-beta
-    title "Automations-Project/VSCode-Perplexity-MCP 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-25"]
-    y-axis "stars" 76 --> 80
-    line [77, 79, 78, 79, 79]
+    title "Automations-Project/VSCode-Perplexity-MCP 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-26"]
+    y-axis "stars" 77 --> 80
+    line [79, 78, 79, 79]
 ```
 
-2026-10-23 77 → 2026-11-25 79（+2）
+2026-10-24 79 → 2026-11-26 79（+0）
 
 
 ---

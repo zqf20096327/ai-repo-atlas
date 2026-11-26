@@ -1,6 +1,6 @@
 # Routstr/routstr-chat
 
-⭐ 23 · TypeScript · 推送 2026-11-18 · [GitHub](https://github.com/Routstr/routstr-chat) · [官网](https://chat.routstr.com) · 组织维护
+⭐ 23 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/Routstr/routstr-chat) · [官网](https://chat.routstr.com) · 组织维护
 
 **Routstr 协议的本地聊天前端，支持闪电网络支付**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Routstr/routstr-chat 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-23 23 → 2026-11-25 23（+0）
+2026-10-24 23 → 2026-11-26 23（+0）
 
 
 ---

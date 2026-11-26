@@ -1,6 +1,6 @@
 # michael-kitchin/agent-wars
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/michael-kitchin/agent-wars) · [官网](https://standingorders.substack.com) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **真实地球六边形地图上的回合制大战略游戏，对手为自选 LLM**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

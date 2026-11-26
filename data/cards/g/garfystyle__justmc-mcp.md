@@ -1,6 +1,6 @@
 # garfystyle/justmc-mcp
 
-⭐ 3 · JavaScript · 推送 2026-11-13 · [GitHub](https://github.com/garfystyle/justmc-mcp) · 个人维护
+⭐ 3 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/garfystyle/justmc-mcp) · 个人维护
 
 **给 AI 编程代理接 JustMC Creative+ 的 MCP 服务器**
 
@@ -40,6 +40,18 @@
 > L5:  MCP-сервер для JustMC Creative+ .
 > L6:  Нейросеть пишет код на Xero, заливает его в мир и сама проверяет в игре.
 > L60: Промпт `code` запускает весь цикл под задачу. Без игры работают `ask`, `guide`, `find`, `examples` и `check`.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "garfystyle/justmc-mcp 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

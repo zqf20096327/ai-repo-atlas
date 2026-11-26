@@ -1,6 +1,6 @@
 # be-a-guptaji/AI-PPT-Builder
 
-⭐ 26 · TypeScript · MIT · 推送 2025-12-31 · [GitHub](https://github.com/be-a-guptaji/AI-PPT-Builder) · [官网](https://ai-ppt-builder-aryan-baadlas.vercel.app/) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2025-12-31 · [GitHub](https://github.com/be-a-guptaji/AI-PPT-Builder) · [官网](https://ai-ppt-builder-aryan-baadlas.vercel.app/) · 个人维护
 
 **AI 生成演示文稿的 SaaS Web 应用（Next.js + OpenAI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "be-a-guptaji/AI-PPT-Builder 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 25 --> 27
-    line [26, 26]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 25 --> 28
+    line [26, 27]
 ```
 
-2026-10-23 26 → 2026-11-25 26（+0）
+2026-10-24 26 → 2026-11-26 27（+1）
 
 
 ---

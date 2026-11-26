@@ -1,6 +1,6 @@
 # opencode-dotnet/opencode-sdk-dotnet
 
-⭐ 46 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opencode-dotnet/opencode-sdk-dotnet) · [官网](https://www.nuget.org/packages/OpenCodeDotNet.Sdk/) · 组织维护
+⭐ 46 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/opencode-dotnet/opencode-sdk-dotnet) · [官网](https://www.nuget.org/packages/OpenCodeDotNet.Sdk/) · 组织维护
 
 **面向 .NET 开发者的 opencode HTTP API 非官方类型化 SDK**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "opencode-dotnet/opencode-sdk-dotnet 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 40 --> 47
     line [41, 45, 46, 46]
 ```
 
-2026-11-08 41 → 2026-11-25 46（+5）
+2026-11-08 41 → 2026-11-26 46（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # itsmuaaz/termux-whisper
 
-⭐ 15 · Shell · 推送 2026-02-16 · [GitHub](https://github.com/itsmuaaz/termux-whisper) · 个人维护
+⭐ 16 · Shell · 推送 2026-02-16 · [GitHub](https://github.com/itsmuaaz/termux-whisper) · 个人维护
 
 **Android 离线语音转文字工具：Termux 上封装 whisper.cpp**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "itsmuaaz/termux-whisper 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 14 --> 17
+    line [15, 16]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 16（+1）
 
 
 ---

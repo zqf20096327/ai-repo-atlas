@@ -1,6 +1,6 @@
 # zillow/quantile-forest
 
-⭐ 256 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/zillow/quantile-forest) · [官网](https://zillow.github.io/quantile-forest/) · 组织维护
+⭐ 257 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/zillow/quantile-forest) · [官网](https://zillow.github.io/quantile-forest/) · 组织维护
 
 **给数据科学家的分位数回归森林库：预测区间与不确定性估计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zillow/quantile-forest 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 254 --> 257
-    line [255, 256, 256]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 254 --> 258
+    line [255, 256, 257]
 ```
 
-2026-10-23 255 → 2026-11-25 256（+1）
+2026-10-24 255 → 2026-11-26 257（+2）
 
 
 ---

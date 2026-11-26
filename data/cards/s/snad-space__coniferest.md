@@ -1,6 +1,6 @@
 # snad-space/coniferest
 
-⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/snad-space/coniferest) · [官网](https://coniferest.snad.space) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/snad-space/coniferest) · [官网](https://coniferest.snad.space) · 组织维护
 
 **天文学数据主动异常检测 Python 包**
 
@@ -45,12 +45,12 @@ SNAD 合作组开发的主动异常检测（active anomaly detection）Python �
 ```mermaid
 xychart-beta
     title "snad-space/coniferest 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

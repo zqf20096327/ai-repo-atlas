@@ -1,6 +1,6 @@
 # AspirinCode/awesome-AI4MolConformation-MD
 
-⭐ 310 · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · 个人维护
+⭐ 310 · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) · 个人维护
 
 **面向计算化学研究者的 AI 分子构象与 MD 资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AspirinCode/awesome-AI4MolConformation-MD 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-26"]
     y-axis "stars" 305 --> 311
     line [306, 307, 308, 310, 310]
 ```
 
-2026-10-23 306 → 2026-11-25 310（+4）
+2026-10-24 306 → 2026-11-26 310（+4）
 
 
 ---

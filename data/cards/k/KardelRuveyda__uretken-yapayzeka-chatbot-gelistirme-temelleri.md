@@ -1,6 +1,6 @@
 # KardelRuveyda/uretken-yapayzeka-chatbot-gelistirme-temelleri
 
-⭐ 62 · 推送 2025-12-23 · [GitHub](https://github.com/KardelRuveyda/uretken-yapayzeka-chatbot-gelistirme-temelleri) · [官网](https://kardelruveyda.github.io/uretken-yapayzeka-chatbot-gelistirme-temelleri) · 组织维护
+⭐ 61 · 推送 2025-12-23 · [GitHub](https://github.com/KardelRuveyda/uretken-yapayzeka-chatbot-gelistirme-temelleri) · [官网](https://kardelruveyda.github.io/uretken-yapayzeka-chatbot-gelistirme-temelleri) · 组织维护
 
 **面向大学生的生成式 AI 聊天机器人开发课程讲义仓库**
 
@@ -43,12 +43,12 @@ Marmara 大学与 Yıldız Technical 大学课程『生成式 AI 辅助聊天机
 ```mermaid
 xychart-beta
     title "KardelRuveyda/uretken-yapayzeka-chatbot-gelistirme-temelleri 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 61 --> 63
-    line [62, 62]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 60 --> 63
+    line [62, 61]
 ```
 
-2026-10-23 62 → 2026-11-25 62（+0）
+2026-10-24 62 → 2026-11-26 61（-1）
 
 
 ---

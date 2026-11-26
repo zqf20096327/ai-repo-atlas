@@ -1,6 +1,6 @@
 # kekzl/PromptMill
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 10 · Python · 推送 2026-11-19 · [GitHub](https://github.com/kekzl/PromptMill) · 个人维护
 
 **面向创作者的本地化 AI 提示词生成器，覆盖视频/图像/音频/3D**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kekzl/PromptMill 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-21"]
+    x-axis ["2026-11-15", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-15 10 → 2026-11-21 10（+0）
+2026-11-15 10 → 2026-11-26 10（+0）
 
 
 ---

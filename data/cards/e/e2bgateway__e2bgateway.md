@@ -1,6 +1,6 @@
 # e2bgateway/e2bgateway
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/e2bgateway/e2bgateway) · [官网](https://deepwiki.com/e2bgateway/e2bgateway) · 组织维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/e2bgateway/e2bgateway) · [官网](https://deepwiki.com/e2bgateway/e2bgateway) · 组织维护
 
 **给 AI agent 沙箱用的统一网关：兼容 E2B API 接多后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "e2bgateway/e2bgateway 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-21", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-18 10 → 2026-11-25 11（+1）
+2026-11-18 10 → 2026-11-26 11（+1）
 
 
 ---

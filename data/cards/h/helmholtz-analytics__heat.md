@@ -1,6 +1,6 @@
 # helmholtz-analytics/heat
 
-⭐ 253 · Python · 推送 2026-11-24 · [GitHub](https://github.com/helmholtz-analytics/heat) · [官网](https://heat.readthedocs.io/) · 组织维护
+⭐ 254 · Python · 推送 2026-11-25 · [GitHub](https://github.com/helmholtz-analytics/heat) · [官网](https://heat.readthedocs.io/) · 组织维护
 
 **分布式张量与机器学习框架：Python 高性能数据计算**
 
@@ -45,12 +45,12 @@ Heat 是构建在 PyTorch 与 mpi4py 之上的分布式张量框架，为 CPU、
 ```mermaid
 xychart-beta
     title "helmholtz-analytics/heat 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 250 --> 254
-    line [251, 253, 253]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 250 --> 255
+    line [251, 253, 254]
 ```
 
-2026-10-23 251 → 2026-11-25 253（+2）
+2026-10-24 251 → 2026-11-26 254（+3）
 
 
 ---

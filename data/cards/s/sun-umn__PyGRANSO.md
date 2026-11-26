@@ -45,12 +45,12 @@ GRANSO 的 PyTorch 移植版 NCVX 初始求解器，用 BFGS-SQP 算法求解带
 ```mermaid
 xychart-beta
     title "sun-umn/PyGRANSO 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 43 --> 45
     line [44, 44]
 ```
 
-2026-10-23 44 → 2026-11-25 44（+0）
+2026-10-24 44 → 2026-11-26 44（+0）
 
 
 ---

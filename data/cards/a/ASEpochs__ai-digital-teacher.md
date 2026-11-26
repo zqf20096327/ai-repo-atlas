@@ -1,6 +1,6 @@
 # ASEpochs/ai-digital-teacher
 
-⭐ 14 · Python · 推送 2026-11-23 · [GitHub](https://github.com/ASEpochs/ai-digital-teacher) · [官网](https://asepochs.github.io/ai-digital-teacher/) · 个人维护 · 中文 README
+⭐ 14 · Python · 推送 2026-11-25 · [GitHub](https://github.com/ASEpochs/ai-digital-teacher) · [官网](https://asepochs.github.io/ai-digital-teacher/) · 个人维护 · 中文 README
 
 **多模态课堂观察 Agent：摄像头识别学生行为并提醒、生成报告**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ASEpochs/ai-digital-teacher 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

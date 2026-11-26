@@ -1,6 +1,6 @@
 # GUYI-AI/gugu-supabase
 
-⭐ 10 · PLpgSQL · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/GUYI-AI/gugu-supabase) · [官网](https://gugu.nextmind.space) · 组织维护
+⭐ 10 · PLpgSQL · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/GUYI-AI/gugu-supabase) · [官网](https://gugu.nextmind.space) · 组织维护
 
 **为 Gugu 社区客户端提供自托管 Supabase 后端**
 
@@ -45,12 +45,12 @@ Gugu 社区版后端，部署在用户自己的 Supabase 项目上，提供身�
 ```mermaid
 xychart-beta
     title "GUYI-AI/gugu-supabase 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

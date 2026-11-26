@@ -1,6 +1,6 @@
 # Emertels/Antigravity-Traducao-PTBR
 
-⭐ 12 · JavaScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/Emertels/Antigravity-Traducao-PTBR) · [官网](https://www.youtube.com/watch?v=jZhrmjrK5p4) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Emertels/Antigravity-Traducao-PTBR) · [官网](https://www.youtube.com/watch?v=jZhrmjrK5p4) · 个人维护
 
 **巴西葡萄牙语用户：Google Antigravity Desktop 的本地化补丁包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Emertels/Antigravity-Traducao-PTBR 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 3 --> 13
-    line [4, 5, 6, 7, 4, 8, 9, 10, 11, 12, 12]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 3 --> 15
+    line [4, 5, 6, 7, 4, 8, 9, 10, 11, 12, 14]
 ```
 
-2026-10-23 4 → 2026-11-25 12（+8）
+2026-10-24 4 → 2026-11-26 14（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # caiovicentino/eikos
 
-⭐ 43 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/caiovicentino/eikos) · [官网](https://huggingface.co/caiovicentino1) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/caiovicentino/eikos) · [官网](https://huggingface.co/caiovicentino1) · 个人维护
 
 **面向金融与交易的校准单次类型化决策开源模型（4B/27B）**
 
@@ -47,12 +47,12 @@ Eikos 是 MIT 许可的开放类型化决策模型家族，含 4B 与 27B 两档
 ```mermaid
 xychart-beta
     title "caiovicentino/eikos 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 40 --> 44
-    line [41, 43, 41, 43, 43]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 40 --> 45
+    line [41, 43, 41, 43, 44]
 ```
 
-2026-10-23 41 → 2026-11-25 43（+2）
+2026-10-24 41 → 2026-11-26 44（+3）
 
 
 ---

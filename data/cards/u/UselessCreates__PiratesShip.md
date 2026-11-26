@@ -46,12 +46,12 @@ PiratesShip 是一个 Windows 桌面应用（Rust 原生窗口 + Node 引擎）�
 ```mermaid
 xychart-beta
     title "UselessCreates/PiratesShip 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 3（+0）
 
 
 ---

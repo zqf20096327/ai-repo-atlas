@@ -1,6 +1,6 @@
 # Helldez/HearoPilot-App
 
-⭐ 110 · Kotlin · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/Helldez/HearoPilot-App) · 个人维护
+⭐ 111 · Kotlin · Apache-2.0 · 推送 2026-06-10 · [GitHub](https://github.com/Helldez/HearoPilot-App) · 个人维护
 
 **Android 离线会议助手：本机实时转录与 LLM 摘要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Helldez/HearoPilot-App 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 104 --> 111
-    line [105, 106, 105, 109, 110, 110]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 104 --> 112
+    line [105, 106, 105, 109, 110, 111]
 ```
 
-2026-10-23 105 → 2026-11-25 110（+5）
+2026-10-24 105 → 2026-11-26 111（+6）
 
 
 ---

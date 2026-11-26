@@ -1,6 +1,6 @@
 # oaknational/oak-ai-lesson-assistant
 
-⭐ 35 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oaknational/oak-ai-lesson-assistant) · [官网](https://labs.thenational.academy) · 组织维护
+⭐ 35 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oaknational/oak-ai-lesson-assistant) · [官网](https://labs.thenational.academy) · 组织维护
 
 **Oak 国家学院的 AI 课程规划助手（Aila）monorepo**
 
@@ -44,12 +44,12 @@ Oak National Academy 面向教师课程规划的 AI 助手项目仓库，以 Tur
 ```mermaid
 xychart-beta
     title "oaknational/oak-ai-lesson-assistant 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 35（+0）
 
 
 ---

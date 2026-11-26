@@ -1,6 +1,6 @@
 # ymm-oss/fsl
 
-⭐ 41 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ymm-oss/fsl) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向 LLM 写/验证/修复循环的形式化规约语言与有界模型检查器**
 
@@ -11,7 +11,7 @@ FSL 是一种形式化规约语言，设计目标是由生成式 AI 编写、验
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # ODO-TECH/Rikkahub-desktop-PLUS
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ODO-TECH/Rikkahub-desktop-PLUS) · 组织维护 · 中文 README
+⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/ODO-TECH/Rikkahub-desktop-PLUS) · 组织维护 · 中文 README
 
 **Windows/Linux/NAS 自托管的 LLM 桌面客户端，本地数据优先**
 
@@ -47,12 +47,12 @@ RikkaHub Desktop 的社区增强分支：在多供应商接入、助手/提示�
 ```mermaid
 xychart-beta
     title "ODO-TECH/Rikkahub-desktop-PLUS 星数(近 3 点)"
-    x-axis ["2026-11-19", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-19 3 → 2026-11-25 4（+1）
+2026-11-19 3 → 2026-11-26 4（+1）
 
 
 ---

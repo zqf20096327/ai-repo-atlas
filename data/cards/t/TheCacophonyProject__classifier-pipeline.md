@@ -1,6 +1,6 @@
 # TheCacophonyProject/classifier-pipeline
 
-⭐ 23 · Python · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/TheCacophonyProject/classifier-pipeline) · 组织维护
+⭐ 23 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/TheCacophonyProject/classifier-pipeline) · 组织维护
 
 **热成像视频动物追踪与分类的 CNN 训练/推理管线**
 
@@ -46,12 +46,12 @@ Cacophony Project 的热成像动物识别管线：提供从 CPTV 热视频构�
 ```mermaid
 xychart-beta
     title "TheCacophonyProject/classifier-pipeline 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-23 23 → 2026-11-25 23（+0）
+2026-10-24 23 → 2026-11-26 23（+0）
 
 
 ---

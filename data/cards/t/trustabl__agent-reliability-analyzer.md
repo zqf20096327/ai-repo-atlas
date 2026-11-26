@@ -1,6 +1,6 @@
 # trustabl/agent-reliability-analyzer
 
-⭐ 90 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/trustabl/agent-reliability-analyzer) · [官网](https://www.trustabl.ai/products/) · 组织维护
+⭐ 95 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/trustabl/agent-reliability-analyzer) · [官网](https://www.trustabl.ai/products/) · 组织维护
 
 **AI agent 代码的本地静态扫描器：检出可靠性缺陷并自动生成修复**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "trustabl/agent-reliability-analyzer 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 75 --> 91
-    line [76, 78, 79, 81, 82, 79, 87, 88, 89, 90, 90]
+    title "trustabl/agent-reliability-analyzer 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 77 --> 96
+    line [78, 79, 81, 82, 79, 87, 88, 89, 90, 95]
 ```
 
-2026-10-23 76 → 2026-11-25 90（+14）
+2026-10-24 78 → 2026-11-26 95（+17）
 
 
 ---

@@ -1,6 +1,6 @@
 # dababonpro/human-approved-agents
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dababonpro/human-approved-agents) · [官网](https://dababon.pro/playbook/) · 组织维护
+⭐ 5 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/dababonpro/human-approved-agents) · [官网](https://dababon.pro/playbook/) · 组织维护
 
 **给小团队用的 AI agent 治理手册、模板与技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dababonpro/human-approved-agents 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-10 3 → 2026-11-25 5（+2）
+2026-11-10 3 → 2026-11-26 5（+2）
 
 
 ---

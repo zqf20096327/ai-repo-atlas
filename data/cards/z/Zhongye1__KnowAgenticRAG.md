@@ -1,6 +1,6 @@
 # Zhongye1/KnowAgenticRAG
 
-⭐ 127 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Zhongye1/KnowAgenticRAG) · [官网](Zhongye1.github.io/KnowAgenticRAG/index.html) · 个人维护 · 中文 README
+⭐ 128 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Zhongye1/KnowAgenticRAG) · [官网](Zhongye1.github.io/KnowAgenticRAG/index.html) · 个人维护 · 中文 README
 
 **私有部署的多租户知识智能体平台：RAG+知识图谱+多智能体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Zhongye1/KnowAgenticRAG 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-25"]
+    title "Zhongye1/KnowAgenticRAG 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-26"]
     y-axis "stars" 126 --> 141
-    line [138, 139, 137, 138, 139, 140, 137, 127, 128, 127, 127]
+    line [139, 137, 138, 139, 140, 137, 127, 128, 127, 128]
 ```
 
-2026-10-23 138 → 2026-11-25 127（-11）
+2026-10-24 139 → 2026-11-26 128（-11）
 
 
 ---

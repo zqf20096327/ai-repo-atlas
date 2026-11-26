@@ -1,6 +1,6 @@
 # 777genius/social-monitor
 
-⭐ 53 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/777genius/social-monitor) · [官网](https://social-monitor.app) · 个人维护
+⭐ 53 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/777genius/social-monitor) · [官网](https://social-monitor.app) · 个人维护
 
 **自托管社媒/新闻聚合监控工具：跨源收集、排序并生成 AI 摘要**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "777genius/social-monitor 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-26"]
     y-axis "stars" 48 --> 54
     line [50, 49, 51, 52, 53, 53]
 ```
 
-2026-10-23 50 → 2026-11-25 53（+3）
+2026-10-24 50 → 2026-11-26 53（+3）
 
 
 ---

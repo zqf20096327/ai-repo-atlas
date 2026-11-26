@@ -1,6 +1,6 @@
 # glyndavidson/MACS
 
-⭐ 31 · JavaScript · NOASSERTION · 推送 2026-01-23 · [GitHub](https://github.com/glyndavidson/MACS) · 个人维护
+⭐ 32 · JavaScript · NOASSERTION · 推送 2026-01-23 · [GitHub](https://github.com/glyndavidson/MACS) · 个人维护
 
 **Home Assistant 的情绪化动画角色伴侣卡片**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "glyndavidson/MACS 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-23 31 → 2026-11-25 31（+0）
+2026-10-24 31 → 2026-11-26 32（+1）
 
 
 ---

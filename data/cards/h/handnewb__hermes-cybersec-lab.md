@@ -1,6 +1,6 @@
 # handnewb/hermes-cybersec-lab
 
-⭐ 26 · Shell · MIT · 推送 2026-08-11 · [GitHub](https://github.com/handnewb/hermes-cybersec-lab) · [官网](https://github.com/handnewb/hermes-cybersec-lab) · 个人维护
+⭐ 28 · Shell · MIT · 推送 2026-08-11 · [GitHub](https://github.com/handnewb/hermes-cybersec-lab) · [官网](https://github.com/handnewb/hermes-cybersec-lab) · 个人维护
 
 **面向 Hermes Agent 的网络安全技能与工具一体化实验室**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "handnewb/hermes-cybersec-lab 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 18 --> 27
-    line [19, 20, 21, 19, 23, 25, 24, 25, 26]
+    title "handnewb/hermes-cybersec-lab 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 29
+    line [19, 20, 21, 19, 23, 25, 24, 25, 26, 28]
 ```
 
-2026-10-23 19 → 2026-11-25 26（+7）
+2026-10-24 19 → 2026-11-26 28（+9）
 
 
 ---

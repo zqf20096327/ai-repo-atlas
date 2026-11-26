@@ -1,6 +1,6 @@
 # zivtech/accessibility-skills
 
-⭐ 15 · Python · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/zivtech/accessibility-skills) · [官网](https://zivtech.github.io/accessibility-skills/) · 组织维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/zivtech/accessibility-skills) · [官网](https://zivtech.github.io/accessibility-skills/) · 组织维护
 
 **面向 Claude Code 的网页无障碍测试与 WCAG 2.2 审计技能集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zivtech/accessibility-skills 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 11 --> 16
-    line [12, 14, 15, 15]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 11 --> 17
+    line [12, 14, 15, 16]
 ```
 
-2026-10-23 12 → 2026-11-25 15（+3）
+2026-10-24 12 → 2026-11-26 16（+4）
 
 
 ---

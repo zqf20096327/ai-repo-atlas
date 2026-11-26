@@ -1,6 +1,6 @@
 # microsoft/M365UsageAnalytics
 
-⭐ 12 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/M365UsageAnalytics) · 组织维护
+⭐ 13 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/microsoft/M365UsageAnalytics) · 组织维护
 
 **Power BI 模板：分析 M365 应用使用与 Copilot 就绪度**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/M365UsageAnalytics 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-23", "2026-11-26"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-22 12 → 2026-11-25 12（+0）
+2026-10-23 12 → 2026-11-26 13（+1）
 
 
 ---

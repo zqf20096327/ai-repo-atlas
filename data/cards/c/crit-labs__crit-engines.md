@@ -1,6 +1,6 @@
 # crit-labs/crit-engines
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/crit-labs/crit-engines) · [官网](https://crit-hub.dev) · 组织维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/crit-labs/crit-engines) · [官网](https://crit-hub.dev) · 组织维护
 
 **crit-hub 收录的 LLM 推理引擎源码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "crit-labs/crit-engines 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 3（+0）
 
 
 ---

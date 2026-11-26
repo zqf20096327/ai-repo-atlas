@@ -1,6 +1,6 @@
 # rairefgalon/OrbitRelay
 
-⭐ 37 · Python · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/rairefgalon/OrbitRelay) · [官网](https://mlabonne.github.io/blog/) · 个人维护
+⭐ 35 · Python · NOASSERTION · 推送 2026-09-04 · [GitHub](https://github.com/rairefgalon/OrbitRelay) · [官网](https://mlabonne.github.io/blog/) · 个人维护
 
 **多智能体交接记录检查器：评分上下文完整性并生成审查档案**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rairefgalon/OrbitRelay 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 36 --> 44
-    line [43, 42, 41, 40, 39, 37]
+    title "rairefgalon/OrbitRelay 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 34 --> 44
+    line [43, 42, 41, 40, 39, 37, 35]
 ```
 
-2026-10-23 43 → 2026-11-25 37（-6）
+2026-10-24 43 → 2026-11-26 35（-8）
 
 
 ---

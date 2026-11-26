@@ -1,6 +1,6 @@
 # Abhinivesh2729/theepori
 
-⭐ 8 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Abhinivesh2729/theepori) · [官网](https://tp.0xabhi.space) · 个人维护
+⭐ 9 · Rust · MIT · 推送 2026-10-19 · [GitHub](https://github.com/Abhinivesh2729/theepori) · [官网](https://tp.0xabhi.space) · 个人维护
 
 **面向单人的终端软件工厂守护进程，调度 Claude Code 执行任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Abhinivesh2729/theepori 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 5 --> 9
-    line [7, 6, 7, 8, 8]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 5 --> 10
+    line [7, 6, 7, 8, 9]
 ```
 
-2026-10-23 7 → 2026-11-25 8（+1）
+2026-10-24 7 → 2026-11-26 9（+2）
 
 
 ---

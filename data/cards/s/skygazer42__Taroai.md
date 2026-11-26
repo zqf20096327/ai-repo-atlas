@@ -41,6 +41,18 @@
 > L19: |**Chat 与 Agents** 流式对话、模型选择、Agent 创建与发布|**Skills 与 Tools** 动态工具发现、MCP、企业连接器与审批|**身份与策略** 多租户、RBAC、SSO、SCIM 与 Guard
 > L20: |**知识与记忆** 文件摄取、ACL 检索、RAG 与多层记忆|**隔离运行** Sandbox、Browser、Coding Workspace 与 Artifact|**质量与运营** 评估门禁、审计、计费、追踪与定时调度|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "skygazer42/Taroai 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `c28f8065bb40` · [字段定义](../../DATASET.md)*

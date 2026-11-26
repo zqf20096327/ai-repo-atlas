@@ -1,6 +1,6 @@
 # JadeHuang/RealPLC-Agent
 
-⭐ 45 · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/JadeHuang/RealPLC-Agent) · [官网](https://www.realplc.com) · 组织维护 · 中文 README
+⭐ 46 · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/JadeHuang/RealPLC-Agent) · [官网](https://www.realplc.com) · 组织维护 · 中文 README
 
 **连接 RealPLC 云端 AI 与本机 CODESYS/TIA 的 Windows 组件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JadeHuang/RealPLC-Agent 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 38 --> 46
-    line [39, 40, 41, 40, 42, 43, 44, 45, 45]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 38 --> 47
+    line [39, 40, 41, 40, 42, 43, 44, 45, 46]
 ```
 
-2026-10-23 39 → 2026-11-25 45（+6）
+2026-10-24 39 → 2026-11-26 46（+7）
 
 
 ---

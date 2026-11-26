@@ -1,6 +1,6 @@
 # meetpateltech/convelyze
 
-⭐ 42 · TypeScript · 推送 2026-09-06 · [GitHub](https://github.com/meetpateltech/convelyze) · [官网](https://convelyze.pages.dev) · 个人维护
+⭐ 41 · TypeScript · 推送 2026-09-06 · [GitHub](https://github.com/meetpateltech/convelyze) · [官网](https://convelyze.pages.dev) · 个人维护
 
 **可视化 ChatGPT 使用数据的网页分析工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meetpateltech/convelyze 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 40 --> 43
+    line [42, 41]
 ```
 
-2026-10-23 42 → 2026-11-25 42（+0）
+2026-10-24 42 → 2026-11-26 41（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ayushh0110/Weight-Space-Repair
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ayushh0110/Weight-Space-Repair) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ayushh0110/Weight-Space-Repair) · 个人维护
 
 **诊断并修复开源权重 LLM 输出故障的调试 CLI**
 
@@ -45,13 +45,13 @@ wsr 针对开源权重模型的不良回复（空白、循环、错语言、误�
 
 ```mermaid
 xychart-beta
-    title "ayushh0110/Weight-Space-Repair 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "ayushh0110/Weight-Space-Repair 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-15 3 → 2026-11-25 4（+1）
+2026-11-15 3 → 2026-11-26 5（+2）
 
 
 ---

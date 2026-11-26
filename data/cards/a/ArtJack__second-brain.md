@@ -1,6 +1,6 @@
 # ArtJack/second-brain
 
-⭐ 11 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ArtJack/second-brain) · [官网](https://artjeck.com) · 个人维护
+⭐ 39 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ArtJack/second-brain) · [官网](https://artjeck.com) · 个人维护
 
 **本地优先的个人 RAG 问答助手，答案强制引用自有文档**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ArtJack/second-brain 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-23", "2026-11-26"]
+    y-axis "stars" 9 --> 41
+    line [11, 39]
 ```
 
-2026-11-23 11 → 2026-11-25 11（+0）
+2026-11-23 11 → 2026-11-26 39（+28）
 
 
 ---

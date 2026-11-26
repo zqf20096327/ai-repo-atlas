@@ -1,6 +1,6 @@
 # geshang777/GaMMA
 
-⭐ 57 · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/geshang777/GaMMA) · 组织维护
+⭐ 58 · Apache-2.0 · 推送 2026-05-04 · [GitHub](https://github.com/geshang777/GaMMA) · 组织维护
 
 **音乐理解多模态大模型：统一处理全局语义与时序推理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "geshang777/GaMMA 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 56 --> 58
-    line [57, 57]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 56 --> 59
+    line [57, 58]
 ```
 
-2026-10-23 57 → 2026-11-25 57（+0）
+2026-10-24 57 → 2026-11-26 58（+1）
 
 
 ---

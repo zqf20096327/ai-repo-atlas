@@ -1,6 +1,6 @@
 # INFOKOM-KI/Wazuh-MCP-Server
 
-⭐ 107 · Python · BSD-3-Clause · 推送 2026-11-17 · [GitHub](https://github.com/INFOKOM-KI/Wazuh-MCP-Server) · 个人维护
+⭐ 107 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/INFOKOM-KI/Wazuh-MCP-Server) · 个人维护
 
 **连接 Wazuh SIEM 的蓝队 MCP 服务器：让 AI 客户端做安全运营**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "INFOKOM-KI/Wazuh-MCP-Server 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-21", "2026-11-26"]
     y-axis "stars" 92 --> 108
     line [93, 100, 102, 105, 106, 107, 107]
 ```
 
-2026-10-23 93 → 2026-11-25 107（+14）
+2026-10-24 93 → 2026-11-26 107（+14）
 
 
 ---

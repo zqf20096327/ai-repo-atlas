@@ -1,6 +1,6 @@
 # tsingliuwin/boundless
 
-⭐ 11 · Rust · AGPL-3.0 · 推送 2026-11-13 · [GitHub](https://github.com/tsingliuwin/boundless) · [官网](https://github.com/tsingliuwin/boundless/releases) · 个人维护 · 中文 README
+⭐ 12 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/tsingliuwin/boundless) · [官网](https://github.com/tsingliuwin/boundless/releases) · 个人维护 · 中文 README
 
 **给设计师与演示者的手绘风无限白板，AI 直接在画布作画**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "tsingliuwin/boundless 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11]
+    title "tsingliuwin/boundless 星数(近 3 点)"
+    x-axis ["2026-11-13", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-13 10 → 2026-11-25 11（+1）
+2026-11-13 10 → 2026-11-26 12（+2）
 
 
 ---

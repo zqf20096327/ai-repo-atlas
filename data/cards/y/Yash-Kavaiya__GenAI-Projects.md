@@ -1,6 +1,6 @@
 # Yash-Kavaiya/GenAI-Projects
 
-⭐ 165 · 推送 2026-11-10 · [GitHub](https://github.com/Yash-Kavaiya/GenAI-Projects) · 个人维护
+⭐ 165 · 推送 2026-11-24 · [GitHub](https://github.com/Yash-Kavaiya/GenAI-Projects) · 个人维护
 
 **个人生成式 AI 与 AI Agent 项目作品集目录（含演示与仓库链接）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Yash-Kavaiya/GenAI-Projects 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 159 --> 166
-    line [160, 161, 162, 161, 163, 164, 165, 165]
+    title "Yash-Kavaiya/GenAI-Projects 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 160 --> 166
+    line [161, 162, 161, 163, 164, 165, 165]
 ```
 
-2026-10-23 160 → 2026-11-25 165（+5）
+2026-10-24 161 → 2026-11-26 165（+4）
 
 
 ---

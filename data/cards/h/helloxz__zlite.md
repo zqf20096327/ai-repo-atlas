@@ -1,6 +1,6 @@
 # helloxz/zlite
 
-⭐ 15 · Go · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/helloxz/zlite) · [官网](https://note.xiaoz.top/doc/zlite) · 个人维护 · 中文 README
+⭐ 16 · Go · AGPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/helloxz/zlite) · [官网](https://note.xiaoz.top/doc/zlite) · 个人维护 · 中文 README
 
 **轻量命令行 AI agent：对话、写代码、自然语言管理服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "helloxz/zlite 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # NightFrost42/dsh-compaction-weave
 
-⭐ 63 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NightFrost42/dsh-compaction-weave) · [官网](https://www.npmjs.com/package/dsh-compaction-weave)
+⭐ 72 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/NightFrost42/dsh-compaction-weave) · [官网](https://www.npmjs.com/package/dsh-compaction-weave)
 
 **DeepSeek Harness 长对话上下文压缩插件：保留要求与进度**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "NightFrost42/dsh-compaction-weave 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 19 --> 67
-    line [23, 56, 63]
+    title "NightFrost42/dsh-compaction-weave 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 19 --> 76
+    line [23, 56, 63, 72]
 ```
 
-2026-11-22 23 → 2026-11-25 63（+40）
+2026-11-22 23 → 2026-11-26 72（+49）
 
 
 ---

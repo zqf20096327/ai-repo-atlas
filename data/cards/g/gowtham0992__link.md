@@ -1,6 +1,6 @@
 # gowtham0992/link
 
-⭐ 220 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/gowtham0992/link) · [官网](https://gowtham0992.github.io/link/) · 个人维护
+⭐ 221 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gowtham0992/link) · [官网](https://gowtham0992.github.io/link/) · 个人维护
 
 **面向本地 AI agent 的跨工具本地记忆层，以 Markdown 存储**
 
@@ -44,13 +44,13 @@ Link 是开源的本地 agent 记忆层：为 Codex、Claude Code、Cursor、VS 
 
 ```mermaid
 xychart-beta
-    title "gowtham0992/link 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 215 --> 221
-    line [216, 217, 218, 219, 217, 218, 219, 220, 220]
+    title "gowtham0992/link 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 216 --> 222
+    line [217, 218, 219, 217, 218, 219, 220, 221]
 ```
 
-2026-10-23 216 → 2026-11-25 220（+4）
+2026-10-24 217 → 2026-11-26 221（+4）
 
 
 ---

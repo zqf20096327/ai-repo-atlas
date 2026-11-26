@@ -43,13 +43,13 @@ IEEE TNSRE 2022 论文官方实现，提供基于时空图卷积网络（STGCN�
 
 ```mermaid
 xychart-beta
-    title "fokhruli/STGCN-rehab 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 43 --> 46
-    line [44, 45, 45]
+    title "fokhruli/STGCN-rehab 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 44 --> 46
+    line [45, 45]
 ```
 
-2026-10-23 44 → 2026-11-25 45（+1）
+2026-10-24 45 → 2026-11-26 45（+0）
 
 
 ---

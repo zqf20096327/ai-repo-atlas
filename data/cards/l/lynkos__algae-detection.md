@@ -1,6 +1,6 @@
 # lynkos/algae-detection
 
-⭐ 16 · C++ · MIT · 推送 2026-04-30 · [GitHub](https://github.com/lynkos/algae-detection) · 个人维护
+⭐ 17 · C++ · MIT · 推送 2026-04-30 · [GitHub](https://github.com/lynkos/algae-detection) · 个人维护
 
 **用低成本摄像头与 AI 实时检测天然水体中有害藻类的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lynkos/algae-detection 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

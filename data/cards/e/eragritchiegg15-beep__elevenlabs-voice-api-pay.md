@@ -1,6 +1,6 @@
 # eragritchiegg15-beep/elevenlabs-voice-api-pay
 
-⭐ 90 · 推送 2026-11-03 · [GitHub](https://github.com/eragritchiegg15-beep/elevenlabs-voice-api-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 113 · 推送 2026-11-03 · [GitHub](https://github.com/eragritchiegg15-beep/elevenlabs-voice-api-pay) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡为 ElevenLabs 等平台付费的营销文**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "eragritchiegg15-beep/elevenlabs-voice-api-pay 星数(近 9 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 18 --> 96
-    line [24, 46, 60, 65, 71, 70, 67, 71, 90]
+    title "eragritchiegg15-beep/elevenlabs-voice-api-pay 星数(近 10 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 16 --> 121
+    line [24, 46, 60, 65, 71, 70, 67, 71, 90, 113]
 ```
 
-2026-11-08 24 → 2026-11-25 90（+66）
+2026-11-08 24 → 2026-11-26 113（+89）
 
 
 ---

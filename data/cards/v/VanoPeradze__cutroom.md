@@ -1,6 +1,6 @@
 # VanoPeradze/cutroom
 
-⭐ 34 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/VanoPeradze/cutroom) · [官网](https://cutroom-studio.expo.app) · 个人维护
+⭐ 34 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/VanoPeradze/cutroom) · [官网](https://cutroom-studio.expo.app) · 个人维护
 
 **本地优先的免费视频剪辑器：手动剪辑为主，AI 草稿可选**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "VanoPeradze/cutroom 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 23 --> 35
-    line [24, 25, 26, 27, 26, 31, 32, 33, 34, 34]
+    title "VanoPeradze/cutroom 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 24 --> 35
+    line [25, 26, 27, 26, 31, 32, 33, 34, 34]
 ```
 
-2026-10-23 24 → 2026-11-25 34（+10）
+2026-10-24 25 → 2026-11-26 34（+9）
 
 
 ---

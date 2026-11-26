@@ -1,6 +1,6 @@
 # DECRUX9812/typesafe-skill-router
 
-⭐ 18 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/DECRUX9812/typesafe-skill-router) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-09-21 · [GitHub](https://github.com/DECRUX9812/typesafe-skill-router) · 个人维护
 
 **Hermes Agent 插件：调用前用 TypeSafe 挑出唯一值得加载的技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "DECRUX9812/typesafe-skill-router 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 18]
+    title "DECRUX9812/typesafe-skill-router 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 22
+    line [14, 15, 18, 21]
 ```
 
-2026-10-23 14 → 2026-11-25 18（+4）
+2026-10-24 14 → 2026-11-26 21（+7）
 
 
 ---

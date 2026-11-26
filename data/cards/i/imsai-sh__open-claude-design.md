@@ -1,6 +1,6 @@
 # imsai-sh/open-claude-design
 
-⭐ 18 · TypeScript · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/imsai-sh/open-claude-design) · [官网](https://www.imsai.cc/) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-05-15 · [GitHub](https://github.com/imsai-sh/open-claude-design) · [官网](https://www.imsai.cc/) · 个人维护 · 中文 README
 
 **开源复刻 Claude Design：浏览器内对话生成多文件 React 原型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imsai-sh/open-claude-design 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 17 --> 21
+    line [18, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

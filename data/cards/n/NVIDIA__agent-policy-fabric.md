@@ -1,6 +1,6 @@
 # NVIDIA/agent-policy-fabric
 
-⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/NVIDIA/agent-policy-fabric) · [官网](https://docs.nvidia.com/agent-policy-fabric) · 组织维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/NVIDIA/agent-policy-fabric) · [官网](https://docs.nvidia.com/agent-policy-fabric) · 组织维护
 
 **企业级 agent 策略层：一份签名策略在准入与每次请求时执行**
 
@@ -45,12 +45,12 @@ APF 管控 agentic 工作负载可执行的操作：策略独立于执行环境�
 ```mermaid
 xychart-beta
     title "NVIDIA/agent-policy-fabric 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-25 11（+1）
+2026-11-08 10 → 2026-11-26 11（+1）
 
 
 ---

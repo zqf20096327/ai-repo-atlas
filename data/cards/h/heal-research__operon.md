@@ -1,6 +1,6 @@
 # heal-research/operon
 
-⭐ 229 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/heal-research/operon) · [官网](https://operongp.readthedocs.io) · 组织维护
+⭐ 229 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/heal-research/operon) · [官网](https://operongp.readthedocs.io) · 组织维护
 
 **C++ 符号回归框架：用遗传编程拟合可解释数学模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "heal-research/operon 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-25"]
+    title "heal-research/operon 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 224 --> 230
-    line [225, 226, 225, 226, 227, 228, 229]
+    line [225, 226, 225, 226, 227, 228, 229, 229]
 ```
 
-2026-10-23 225 → 2026-11-25 229（+4）
+2026-10-24 225 → 2026-11-26 229（+4）
 
 
 ---

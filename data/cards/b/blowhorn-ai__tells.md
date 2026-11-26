@@ -1,6 +1,6 @@
 # blowhorn-ai/tells
 
-⭐ 8 · JavaScript · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/blowhorn-ai/tells) · 组织维护
+⭐ 8 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/blowhorn-ai/tells) · 组织维护
 
 **免费的浏览器机器人检测与指纹检查工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "blowhorn-ai/tells 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 7 --> 9
     line [8, 8]
 ```
 
-2026-11-22 8 → 2026-11-25 8（+0）
+2026-11-22 8 → 2026-11-26 8（+0）
 
 
 ---

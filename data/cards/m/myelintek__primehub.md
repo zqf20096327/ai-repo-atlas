@@ -1,6 +1,6 @@
 # myelintek/primehub
 
-⭐ 411 · Shell · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/myelintek/primehub) · [官网](https://docs.primehub.io) · 组织维护
+⭐ 410 · Shell · Apache-2.0 · 推送 2026-01-13 · [GitHub](https://github.com/myelintek/primehub) · [官网](https://docs.primehub.io) · 组织维护
 
 **Kubernetes 上的开源 MLOps 平台，面向团队提供 ML 基础设施**
 
@@ -45,12 +45,12 @@ PrimeHub Community Edition 是构建在 Kubernetes 之上的机器学习基础�
 ```mermaid
 xychart-beta
     title "myelintek/primehub 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 410 --> 413
-    line [411, 412, 411, 411]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 409 --> 413
+    line [411, 412, 411, 410]
 ```
 
-2026-10-23 411 → 2026-11-25 411（+0）
+2026-10-24 411 → 2026-11-26 410（-1）
 
 
 ---

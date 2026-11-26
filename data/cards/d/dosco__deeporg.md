@@ -1,6 +1,6 @@
 # dosco/deeporg
 
-⭐ 3,239 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/dosco/deeporg) · [官网](https://deeporg.io) · 个人维护
+⭐ 3,238 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dosco/deeporg) · [官网](https://deeporg.io) · 个人维护
 
 **面向企业的组织级 AI agent：统一访问数据库、API、文件与代码**
 
@@ -46,12 +46,12 @@ DeepORG（原 GraphJin）是一个 AI agent，用自然语言提问即可查询�
 ```mermaid
 xychart-beta
     title "dosco/deeporg 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 3238 --> 3240
-    line [3239, 3239]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 3237 --> 3240
+    line [3239, 3238]
 ```
 
-2026-11-22 3,239 → 2026-11-25 3,239（+0）
+2026-11-22 3,239 → 2026-11-26 3,238（-1）
 
 
 ---

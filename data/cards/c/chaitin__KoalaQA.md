@@ -1,6 +1,6 @@
 # chaitin/KoalaQA
 
-⭐ 565 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/chaitin/KoalaQA) · [官网](https://koalaqa.docs.baizhi.cloud) · 组织维护 · 中文 README
+⭐ 566 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/chaitin/KoalaQA) · [官网](https://koalaqa.docs.baizhi.cloud) · 组织维护 · 中文 README
 
 **AI 大模型驱动的开源售后服务社区与智能客服产品**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "chaitin/KoalaQA 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 558 --> 566
-    line [559, 561, 562, 563, 564, 565, 565]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 558 --> 567
+    line [559, 561, 562, 563, 564, 565, 566]
 ```
 
-2026-10-23 559 → 2026-11-25 565（+6）
+2026-10-24 559 → 2026-11-26 566（+7）
 
 
 ---

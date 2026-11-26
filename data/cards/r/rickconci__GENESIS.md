@@ -1,6 +1,6 @@
 # rickconci/GENESIS
 
-⭐ 14 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/rickconci/GENESIS) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/rickconci/GENESIS) · 个人维护
 
 **从实验协变量预测单细胞响应分布的生成式模型**
 
@@ -45,12 +45,12 @@ GENESIS（Generative ENErgy-based Single-cell Intervention Simulator）是单细
 ```mermaid
 xychart-beta
     title "rickconci/GENESIS 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 15]
 ```
 
-2026-11-08 13 → 2026-11-25 14（+1）
+2026-11-08 13 → 2026-11-26 15（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # newrelic-experimental/preflight
 
-⭐ 67 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/newrelic-experimental/preflight) · [官网](https://newrelic-experimental.github.io/preflight/) · 组织维护
+⭐ 67 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/newrelic-experimental/preflight) · [官网](https://newrelic-experimental.github.io/preflight/) · 组织维护
 
 **AI 编程助手的可观测性工具：成本追踪与效率评分**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "newrelic-experimental/preflight 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 64 --> 68
     line [65, 67, 67]
 ```
 
-2026-10-23 65 → 2026-11-25 67（+2）
+2026-10-24 65 → 2026-11-26 67（+2）
 
 
 ---

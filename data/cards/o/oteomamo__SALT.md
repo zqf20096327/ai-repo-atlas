@@ -1,6 +1,6 @@
 # oteomamo/SALT
 
-⭐ 17 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/oteomamo/SALT) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/oteomamo/SALT) · 组织维护
 
 **长上下文压缩工具：用显著性感知词典树压缩送入 LLM 的提示**
 
@@ -46,12 +46,12 @@ SALT 在长文档送入语言模型前将其压缩到固定 token 预算：先�
 ```mermaid
 xychart-beta
     title "oteomamo/SALT 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

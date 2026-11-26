@@ -1,6 +1,6 @@
 # baranskyi/interrogation-partner
 
-⭐ 19 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/baranskyi/interrogation-partner) · 个人维护
+⭐ 20 · MIT · 推送 2026-07-08 · [GitHub](https://github.com/baranskyi/interrogation-partner) · 个人维护
 
 **对自我决策做苏格拉底式盘问的 Claude Agent Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "baranskyi/interrogation-partner 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 16 --> 21
+    line [17, 18, 19, 20]
 ```
 
-2026-10-23 17 → 2026-11-25 19（+2）
+2026-10-24 17 → 2026-11-26 20（+3）
 
 
 ---

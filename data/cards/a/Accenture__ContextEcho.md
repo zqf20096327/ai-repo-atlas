@@ -1,6 +1,6 @@
 # Accenture/ContextEcho
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-10 · [GitHub](https://github.com/Accenture/ContextEcho) · [官网](https://accenture.github.io/ContextEcho/donate/) · 组织维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Accenture/ContextEcho) · [官网](https://accenture.github.io/ContextEcho/donate/) · 组织维护
 
 **评测长会话中 LLM 人格漂移的基准与测试框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Accenture/ContextEcho 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 16 --> 20
     line [17, 18, 19, 19]
 ```
 
-2026-10-23 17 → 2026-11-25 19（+2）
+2026-10-24 17 → 2026-11-26 19（+2）
 
 
 ---

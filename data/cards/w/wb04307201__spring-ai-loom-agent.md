@@ -1,6 +1,6 @@
 # wb04307201/spring-ai-loom-agent
 
-⭐ 311 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/wb04307201/spring-ai-loom-agent) · 个人维护 · 中文 README
+⭐ 311 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/wb04307201/spring-ai-loom-agent) · 个人维护 · 中文 README
 
 **为 Spring Boot 应用提供开箱即用对话/记忆/工具调用能力的 AI Agent 框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wb04307201/spring-ai-loom-agent 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 310 --> 313
     line [311, 312, 311, 311]
 ```
 
-2026-11-08 311 → 2026-11-25 311（+0）
+2026-11-08 311 → 2026-11-26 311（+0）
 
 
 ---

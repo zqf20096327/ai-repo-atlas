@@ -1,6 +1,6 @@
 # jellydn/tiny-coding-agent
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jellydn/tiny-coding-agent) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/jellydn/tiny-coding-agent) · 个人维护 · 中文 README
 
 **TypeScript 编写的轻量可扩展终端编码 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jellydn/tiny-coding-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 15（+0）
 
 
 ---

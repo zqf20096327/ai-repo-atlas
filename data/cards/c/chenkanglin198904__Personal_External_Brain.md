@@ -1,6 +1,6 @@
 # chenkanglin198904/Personal_External_Brain
 
-⭐ 200 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/chenkanglin198904/Personal_External_Brain) · 个人维护 · 中文 README
+⭐ 201 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/chenkanglin198904/Personal_External_Brain) · 个人维护 · 中文 README
 
 **本地优先的个人知识图谱工具：从笔记/网页/PDF/音视频构建可溯源召回**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "chenkanglin198904/Personal_External_Brain 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 198 --> 201
-    line [200, 199, 200, 200]
+    title "chenkanglin198904/Personal_External_Brain 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 198 --> 202
+    line [199, 200, 201]
 ```
 
-2026-10-23 200 → 2026-11-25 200（+0）
+2026-10-24 199 → 2026-11-26 201（+2）
 
 
 ---

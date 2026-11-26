@@ -1,6 +1,6 @@
 # BrainerVirus/opencode-commandcode
 
-⭐ 11 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/BrainerVirus/opencode-commandcode) · [官网](https://www.npmjs.com/package/@brainervirus/opencode-commandcode) · 个人维护
+⭐ 11 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BrainerVirus/opencode-commandcode) · [官网](https://www.npmjs.com/package/@brainervirus/opencode-commandcode) · 个人维护
 
 **为 OpenCode 接入 Command Code Provider API 的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BrainerVirus/opencode-commandcode 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-21", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-25 11（+1）
+2026-11-08 10 → 2026-11-26 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Qovery/qovery-skills
 
-⭐ 14 · Shell · 推送 2026-11-19 · [GitHub](https://github.com/Qovery/qovery-skills) · 组织维护
+⭐ 14 · Shell · 推送 2026-11-25 · [GitHub](https://github.com/Qovery/qovery-skills) · 组织维护
 
 **Qovery 官方 AI agent 技能集：让 agent 部署运维 Kubernetes 应用**
 
@@ -45,12 +45,12 @@ Qovery 公司维护的 Agent Skills 集合，包含 11 个 SKILL.md 格式技能
 ```mermaid
 xychart-beta
     title "Qovery/qovery-skills 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

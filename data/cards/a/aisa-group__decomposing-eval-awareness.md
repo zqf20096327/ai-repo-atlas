@@ -1,6 +1,6 @@
 # aisa-group/decomposing-eval-awareness
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/aisa-group/decomposing-eval-awareness) · [官网](https://arxiv.org/abs/2605.23055) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-09-29 · [GitHub](https://github.com/aisa-group/decomposing-eval-awareness) · [官网](https://arxiv.org/abs/2605.23055) · 组织维护
 
 **评测意识研究代码与 EvalAwareBench 基准：测量模型是否识别自己在被评测**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "aisa-group/decomposing-eval-awareness 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    title "aisa-group/decomposing-eval-awareness 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
     y-axis "stars" 18 --> 22
-    line [20, 21, 20, 21, 20, 19]
+    line [20, 21, 20, 21, 20, 19, 20]
 ```
 
-2026-10-23 20 → 2026-11-25 19（-1）
+2026-10-24 20 → 2026-11-26 20（+0）
 
 
 ---

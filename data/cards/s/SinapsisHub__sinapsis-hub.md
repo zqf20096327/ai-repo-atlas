@@ -1,6 +1,6 @@
 # SinapsisHub/sinapsis-hub
 
-⭐ 56 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/SinapsisHub/sinapsis-hub) · [官网](https://sinapsis.tech/) · 组织维护
+⭐ 56 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/SinapsisHub/sinapsis-hub) · [官网](https://sinapsis.tech/) · 组织维护
 
 **统一契约组装 AI 系统的开源框架：模板组合模型与框架**
 
@@ -45,13 +45,13 @@ Sinapsis 是一个用统一计算契约组装 AI 系统的 Python 框架：能�
 
 ```mermaid
 xychart-beta
-    title "SinapsisHub/sinapsis-hub 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25"]
+    title "SinapsisHub/sinapsis-hub 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 41 --> 57
-    line [42, 53, 54, 55, 56]
+    line [42, 53, 54, 55, 56, 56]
 ```
 
-2026-11-18 42 → 2026-11-25 56（+14）
+2026-11-18 42 → 2026-11-26 56（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # robocode-dev/tank-royale
 
-⭐ 275 · Kotlin · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/robocode-dev/tank-royale) · [官网](https://robocode.dev/) · 个人维护
+⭐ 275 · Kotlin · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/robocode-dev/tank-royale) · [官网](https://robocode.dev/) · 个人维护
 
 **编程对战游戏：写程序控制虚拟坦克在竞技场对战**
 
@@ -45,12 +45,12 @@ Robocode Tank Royale 是一个编程游戏：玩家编写程序控制虚拟坦�
 ```mermaid
 xychart-beta
     title "robocode-dev/tank-royale 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26"]
     y-axis "stars" 269 --> 277
     line [270, 272, 273, 274, 275, 276, 275, 275]
 ```
 
-2026-10-23 270 → 2026-11-25 275（+5）
+2026-10-24 270 → 2026-11-26 275（+5）
 
 
 ---

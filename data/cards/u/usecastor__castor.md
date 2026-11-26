@@ -1,6 +1,6 @@
 # usecastor/castor
 
-⭐ 14 · Rust · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/usecastor/castor) · [官网](https://usecastor.github.io) · 个人维护
+⭐ 14 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/usecastor/castor) · [官网](https://usecastor.github.io) · 个人维护
 
 **让云端编码代理把杂活交给本地 GPU 模型执行的 MCP 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "usecastor/castor 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-20 14 → 2026-11-25 14（+0）
+2026-11-20 14 → 2026-11-26 14（+0）
 
 
 ---

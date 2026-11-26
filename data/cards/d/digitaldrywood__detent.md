@@ -1,6 +1,6 @@
 # digitaldrywood/detent
 
-⭐ 16 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/digitaldrywood/detent) · [官网](https://digitaldrywood.com) · 组织维护
+⭐ 20 · Go · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/digitaldrywood/detent) · [官网](https://digitaldrywood.com) · 组织维护
 
 **基于看板的编码代理工作流编排器：让 agent 在自管机器上执行并合入 issue**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "digitaldrywood/detent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 15 --> 21
+    line [16, 20]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 20（+4）
 
 
 ---

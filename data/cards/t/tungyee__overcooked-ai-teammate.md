@@ -1,6 +1,6 @@
 # tungyee/overcooked-ai-teammate
 
-⭐ 6 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/tungyee/overcooked-ai-teammate) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **Overcooked! 2 的实时 AI 队友：边做菜边听懂语音指令**
 
@@ -11,7 +11,7 @@ CoChef 以虚拟手柄身份作为 Player 2 加入 Overcooked! 2 本地双人合
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

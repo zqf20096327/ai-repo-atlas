@@ -1,6 +1,6 @@
 # storm-orm/storm-framework
 
-⭐ 12 · Java · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/storm-orm/storm-framework) · [官网](https://orm.st) · 组织维护
+⭐ 12 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/storm-orm/storm-framework) · [官网](https://orm.st) · 组织维护
 
 **面向 Kotlin/Java 的类型安全 SQL-first ORM，支持编码 Agent 集成**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "storm-orm/storm-framework 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "storm-orm/storm-framework 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 10 --> 13
-    line [11, 12]
+    line [11, 12, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # IronSecCo/ironclaw
 
-⭐ 20 · Go · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/IronSecCo/ironclaw) · [官网](https://ironsecco.github.io/ironclaw/) · 组织维护
+⭐ 20 · Go · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/IronSecCo/ironclaw) · [官网](https://ironsecco.github.io/ironclaw/) · 组织维护
 
 **自托管安全沙箱 AI agent 运行时：可验证的隔离边界**
 
@@ -46,12 +46,12 @@ Go 编写的自托管 AI agent 平台：agent 以编译后二进制运行在 gVi
 ```mermaid
 xychart-beta
     title "IronSecCo/ironclaw 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 18 --> 21
     line [19, 20, 19, 20, 20]
 ```
 
-2026-10-23 19 → 2026-11-25 20（+1）
+2026-10-24 19 → 2026-11-26 20（+1）
 
 
 ---

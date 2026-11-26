@@ -1,6 +1,6 @@
 # thomaswantstobeaskeleton/BallonsTranslator-Pro
 
-⭐ 100 · Python · GPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/thomaswantstobeaskeleton/BallonsTranslator-Pro) · 个人维护 · 中文 README
+⭐ 101 · Python · GPL-3.0 · 推送 2026-07-31 · [GitHub](https://github.com/thomaswantstobeaskeleton/BallonsTranslator-Pro) · 个人维护 · 中文 README
 
 **面向漫画汉化/翻译工作流的 AI 辅助翻译工具（BallonsTranslator 分支）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thomaswantstobeaskeleton/BallonsTranslator-Pro 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 97 --> 102
-    line [98, 99, 100, 101, 100, 100]
+    title "thomaswantstobeaskeleton/BallonsTranslator-Pro 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 98 --> 102
+    line [99, 100, 101, 100, 101]
 ```
 
-2026-10-23 98 → 2026-11-25 100（+2）
+2026-10-24 99 → 2026-11-26 101（+2）
 
 
 ---

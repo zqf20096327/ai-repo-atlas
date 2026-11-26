@@ -1,6 +1,6 @@
 # microsoft/Spring-AI-for-Beginners
 
-⭐ 80 · Java · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/Spring-AI-for-Beginners) · 组织维护
+⭐ 83 · Java · MIT · 推送 2026-09-10 · [GitHub](https://github.com/microsoft/Spring-AI-for-Beginners) · 组织维护
 
 **面向 Java 开发者的 Spring AI 课程：从聊天到 RAG 与 Agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/Spring-AI-for-Beginners 星数(近 12 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 64 --> 81
-    line [65, 66, 67, 72, 73, 74, 75, 76, 77, 78, 79, 80]
+    title "microsoft/Spring-AI-for-Beginners 星数(近 13 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 64 --> 84
+    line [65, 66, 67, 72, 73, 74, 75, 76, 77, 78, 79, 80, 83]
 ```
 
-2026-10-22 65 → 2026-11-25 80（+15）
+2026-10-23 65 → 2026-11-26 83（+18）
 
 
 ---

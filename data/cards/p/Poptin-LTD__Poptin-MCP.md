@@ -1,6 +1,6 @@
 # Poptin-LTD/Poptin-MCP
 
-⭐ 36 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Poptin-LTD/Poptin-MCP) · [官网](https://poptin.com/) · 组织维护
+⭐ 36 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Poptin-LTD/Poptin-MCP) · [官网](https://poptin.com/) · 组织维护
 
 **面向 Poptin 营销账户的官方 MCP 服务器**
 
@@ -47,12 +47,12 @@ Poptin 官方托管的 MCP 服务器，通过 Streamable HTTP 与 OAuth 让 AI �
 ```mermaid
 xychart-beta
     title "Poptin-LTD/Poptin-MCP 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-11-16 36 → 2026-11-25 36（+0）
+2026-11-16 36 → 2026-11-26 36（+0）
 
 
 ---

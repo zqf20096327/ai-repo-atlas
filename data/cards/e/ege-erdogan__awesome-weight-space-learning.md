@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ege-erdogan/awesome-weight-space-learning 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 38 --> 45
-    line [39, 40, 43, 44, 44]
+    title "ege-erdogan/awesome-weight-space-learning 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 39 --> 45
+    line [40, 43, 44, 44]
 ```
 
-2026-10-23 39 → 2026-11-25 44（+5）
+2026-10-24 40 → 2026-11-26 44（+4）
 
 
 ---

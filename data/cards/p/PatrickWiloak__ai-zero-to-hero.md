@@ -1,6 +1,6 @@
 # PatrickWiloak/ai-zero-to-hero
 
-⭐ 20 · Python · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/PatrickWiloak/ai-zero-to-hero) · [官网](https://ai.noblerworks.com/) · 组织维护
+⭐ 21 · Python · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/PatrickWiloak/ai-zero-to-hero) · [官网](https://ai.noblerworks.com/) · 组织维护
 
 **免费 AI 学习资源库：156 篇论文白话解读 + 学习/应用/治理指南**
 
@@ -46,13 +46,13 @@ Nobler Works 维护的 AI 知识仓库，由六大指南板块组成：Learn（�
 
 ```mermaid
 xychart-beta
-    title "PatrickWiloak/ai-zero-to-hero 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 9 --> 21
-    line [10, 14, 17, 18, 19, 20]
+    title "PatrickWiloak/ai-zero-to-hero 星数(近 7 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 22
+    line [10, 14, 17, 18, 19, 20, 21]
 ```
 
-2026-11-02 10 → 2026-11-25 20（+10）
+2026-11-02 10 → 2026-11-26 21（+11）
 
 
 ---

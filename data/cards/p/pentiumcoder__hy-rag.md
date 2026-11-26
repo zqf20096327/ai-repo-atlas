@@ -1,6 +1,6 @@
 # pentiumcoder/hy-rag
 
-⭐ 4 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/pentiumcoder/hy-rag) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/pentiumcoder/hy-rag) · 个人维护
 
 **内部文档本地 RAG 问答系统：混合检索+引用核验**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pentiumcoder/hy-rag 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-25 4（+0）
+2026-11-08 4 → 2026-11-26 4（+0）
 
 
 ---

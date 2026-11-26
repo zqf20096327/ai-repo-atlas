@@ -1,6 +1,6 @@
 # JCodesMore/discord-for-ai-agents
 
-⭐ 12 · TypeScript · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/JCodesMore/discord-for-ai-agents) · [官网](https://dsc.gg/jcodesmore) · 个人维护
+⭐ 13 · TypeScript · Apache-2.0 · 推送 2026-05-07 · [GitHub](https://github.com/JCodesMore/discord-for-ai-agents) · [官网](https://dsc.gg/jcodesmore) · 个人维护
 
 **让 Claude Code 通过对话管理 Discord 服务器的插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JCodesMore/discord-for-ai-agents 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

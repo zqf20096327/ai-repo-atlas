@@ -1,6 +1,6 @@
 # jush-ai/jush
 
-⭐ 32 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/jush-ai/jush) · [官网](https://jush.ai) · 组织维护
+⭐ 32 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/jush-ai/jush) · [官网](https://jush.ai) · 组织维护
 
 **自托管网页版 AI agent：一台服务器承载对话并调度多台机器**
 
@@ -47,12 +47,12 @@ Jush 是自托管在自有服务器上的网页 AI agent：浏览器访问，服
 ```mermaid
 xychart-beta
     title "jush-ai/jush 星数(近 3 点)"
-    x-axis ["2026-11-13", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-22", "2026-11-26"]
     y-axis "stars" 30 --> 33
     line [31, 32, 32]
 ```
 
-2026-11-13 31 → 2026-11-25 32（+1）
+2026-11-13 31 → 2026-11-26 32（+1）
 
 
 ---

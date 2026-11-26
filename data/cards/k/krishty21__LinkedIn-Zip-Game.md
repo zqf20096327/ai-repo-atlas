@@ -1,6 +1,6 @@
 # krishty21/LinkedIn-Zip-Game
 
-⭐ 28 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/krishty21/LinkedIn-Zip-Game) · 个人维护
+⭐ 37 · Jupyter Notebook · 推送 2026-10-24 · [GitHub](https://github.com/krishty21/LinkedIn-Zip-Game) · 个人维护
 
 **AI 自动求解 LinkedIn Zip 拼图游戏并代为操作浏览器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "krishty21/LinkedIn-Zip-Game 星数(近 8 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 21 --> 29
-    line [22, 24, 25, 26, 27, 26, 27, 28]
+    title "krishty21/LinkedIn-Zip-Game 星数(近 9 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 21 --> 38
+    line [22, 24, 25, 26, 27, 26, 27, 28, 37]
 ```
 
-2026-11-08 22 → 2026-11-25 28（+6）
+2026-11-08 22 → 2026-11-26 37（+15）
 
 
 ---

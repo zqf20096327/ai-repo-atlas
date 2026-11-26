@@ -1,6 +1,6 @@
 # doronp/gitmemory
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/doronp/gitmemory) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/doronp/gitmemory) · 个人维护
 
 **为 AI agent 保存压缩丢失上下文的 git 版本化记忆工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "doronp/gitmemory 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 18 --> 21
     line [20, 19, 19]
 ```
 
-2026-10-23 20 → 2026-11-25 19（-1）
+2026-10-24 20 → 2026-11-26 19（-1）
 
 
 ---

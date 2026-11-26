@@ -1,6 +1,6 @@
 # johunsang/semble_rs
 
-⭐ 220 · Rust · 推送 2026-06-01 · [GitHub](https://github.com/johunsang/semble_rs) · [官网](https://github.com/johunsang/semble_rs) · 个人维护
+⭐ 221 · Rust · 推送 2026-06-01 · [GitHub](https://github.com/johunsang/semble_rs) · [官网](https://github.com/johunsang/semble_rs) · 个人维护
 
 **给 AI 编码代理用的 Rust 代码搜索与 CI 输出压缩 CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "johunsang/semble_rs 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 214 --> 221
-    line [215, 216, 215, 216, 217, 218, 219, 220]
+    title "johunsang/semble_rs 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 214 --> 222
+    line [215, 216, 215, 216, 217, 218, 219, 220, 221]
 ```
 
-2026-10-23 215 → 2026-11-25 220（+5）
+2026-10-24 215 → 2026-11-26 221（+6）
 
 
 ---

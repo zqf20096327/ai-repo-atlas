@@ -1,6 +1,6 @@
 # shibry88-netizen/TalkTact
 
-⭐ 16 · Kotlin · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/shibry88-netizen/TalkTact) · [官网](https://modules.lsposed.org/module/io.github.shibry88_netizen.talktact/) · 个人维护 · 中文 README
+⭐ 17 · Kotlin · GPL-3.0 · 推送 2026-10-13 · [GitHub](https://github.com/shibry88-netizen/TalkTact) · [官网](https://modules.lsposed.org/module/io.github.shibry88_netizen.talktact/) · 个人维护 · 中文 README
 
 **微信 Xposed 模块：聊天页悬浮 LLM 候选回复卡片，只填输入框不发送**
 
@@ -46,12 +46,12 @@ LSPosed/Xposed 模块，注入微信聊天页读取最近消息，调用 OpenAI 
 ```mermaid
 xychart-beta
     title "shibry88-netizen/TalkTact 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

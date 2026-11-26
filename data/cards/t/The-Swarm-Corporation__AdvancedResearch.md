@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/AdvancedResearch
 
-⭐ 39 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/The-Swarm-Corporation/AdvancedResearch) · [官网](https://swarms.ai) · 组织维护
+⭐ 40 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/The-Swarm-Corporation/AdvancedResearch) · [官网](https://swarms.ai) · 组织维护
 
 **基于 Anthropic 论文编排-工作者模式的多智能体研究系统**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/AdvancedResearch 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 37 --> 40
-    line [38, 39, 39]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 37 --> 41
+    line [38, 39, 40]
 ```
 
-2026-10-23 38 → 2026-11-25 39（+1）
+2026-10-24 38 → 2026-11-26 40（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # SatGate-io/satgate
 
-⭐ 11 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SatGate-io/satgate) · [官网](https://satgate.io/) · 组织维护
+⭐ 11 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/SatGate-io/satgate) · [官网](https://satgate.io/) · 组织维护
 
 **给 AI agent 与 MCP 流量做治理的 API 网关：观测、预算管控、付费准入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SatGate-io/satgate 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

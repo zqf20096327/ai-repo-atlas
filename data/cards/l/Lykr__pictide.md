@@ -1,6 +1,6 @@
 # Lykr/pictide
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/Lykr/pictide) · 个人维护
 
 **本地运行的生成图像浏览器，按你的偏好学习推荐**
 
@@ -11,7 +11,7 @@ Pictide 是一个本地运行的生成式图像浏览器：用户无需编写提
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@ Pictide 是一个本地运行的生成式图像浏览器：用户无需编写提
 
 ```mermaid
 xychart-beta
-    title "Lykr/pictide 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-22"]
+    title "Lykr/pictide 星数(近 3 点)"
+    x-axis ["2026-10-22", "2026-11-22", "2026-11-26"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-10-22 4 → 2026-11-22 5（+1）
+2026-10-22 4 → 2026-11-26 5（+1）
 
 
 ---

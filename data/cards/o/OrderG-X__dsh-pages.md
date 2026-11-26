@@ -1,6 +1,6 @@
 # OrderG-X/dsh-pages
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/OrderG-X/dsh-pages) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/OrderG-X/dsh-pages) · 个人维护 · 中文 README
 
 **DSH 插件：让模型把回答生成可交互网页嵌在对话里**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）的插件：模型调用 `show_page` 工具把回答做
 ```mermaid
 xychart-beta
     title "OrderG-X/dsh-pages 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-22", "2026-11-26"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-08 4 → 2026-11-25 5（+1）
+2026-11-08 4 → 2026-11-26 5（+1）
 
 
 ---

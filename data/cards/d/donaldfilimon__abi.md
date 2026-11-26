@@ -1,6 +1,6 @@
 # donaldfilimon/abi
 
-⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/donaldfilimon/abi) · [官网](https://donaldfilimon.github.io/abi/) · 个人维护
+⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/donaldfilimon/abi) · [官网](https://donaldfilimon.github.io/abi/) · 个人维护
 
 **Rust 编写的本地 AI 运行时与编排框架（路由/治理/CLI/MCP）**
 
@@ -46,12 +46,12 @@ ABI 是 Rust 2024（1.99.1）实现的本地 AI 运行时与集成框架，提�
 ```mermaid
 xychart-beta
     title "donaldfilimon/abi 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
     y-axis "stars" 17 --> 20
     line [19, 18, 18]
 ```
 
-2026-10-23 19 → 2026-11-25 18（-1）
+2026-10-24 19 → 2026-11-26 18（-1）
 
 
 ---

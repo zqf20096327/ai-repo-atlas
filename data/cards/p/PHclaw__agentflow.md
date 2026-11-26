@@ -1,6 +1,6 @@
 # PHclaw/agentflow
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/PHclaw/agentflow) · [官网](http://159.75.21.251:3000) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/PHclaw/agentflow) · [官网](http://159.75.21.251:3000) · 个人维护 · 中文 README
 
 **自托管零代码 AI Agent 平台：拖拽工作流+RAG+技能广场**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PHclaw/agentflow 星数(近 4 点)"
-    x-axis ["2026-11-12", "2026-11-14", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-14", "2026-11-18", "2026-11-26"]
     y-axis "stars" 22 --> 26
     line [23, 24, 25, 25]
 ```
 
-2026-11-12 23 → 2026-11-25 25（+2）
+2026-11-12 23 → 2026-11-26 25（+2）
 
 
 ---

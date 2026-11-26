@@ -1,6 +1,6 @@
 # tegridydev/dnd-llm-game
 
-⭐ 126 · Python · NOASSERTION · 推送 2026-08-22 · [GitHub](https://github.com/tegridydev/dnd-llm-game) · 个人维护
+⭐ 126 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/tegridydev/dnd-llm-game) · 个人维护
 
 **本地 LLM 驱动的单人 D&D 地下城主应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tegridydev/dnd-llm-game 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 124 --> 127
     line [125, 126, 125, 126, 126]
 ```
 
-2026-10-23 125 → 2026-11-25 126（+1）
+2026-10-24 125 → 2026-11-26 126（+1）
 
 
 ---

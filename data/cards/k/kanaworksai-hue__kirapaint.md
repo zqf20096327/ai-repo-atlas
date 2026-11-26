@@ -1,6 +1,6 @@
 # kanaworksai-hue/kirapaint
 
-⭐ 8 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/kirapaint) · [官网](https://x.com/KanaWorks_AI) · 组织维护
+⭐ 9 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/kirapaint) · [官网](https://x.com/KanaWorks_AI) · 组织维护
 
 **Blender 插件：把任意 3D 模型转为闪亮绘画风 2.5D**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kanaworksai-hue/kirapaint 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 4 --> 9
-    line [5, 8, 8]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 4 --> 10
+    line [5, 8, 9]
 ```
 
-2026-11-08 5 → 2026-11-25 8（+3）
+2026-11-08 5 → 2026-11-26 9（+4）
 
 
 ---

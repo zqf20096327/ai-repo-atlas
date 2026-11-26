@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/verl-tool
 
-⭐ 1,057 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/TIGER-AI-Lab/verl-tool) · [官网](https://arxiv.org/pdf/2509.01055) · 组织维护 · 中文 README
+⭐ 1,058 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/TIGER-AI-Lab/verl-tool) · [官网](https://arxiv.org/pdf/2509.01055) · 组织维护 · 中文 README
 
 **基于 verl 的工具调用 agent 强化学习训练框架**
 
@@ -45,13 +45,13 @@ VerlTool 是基于 verl（作为子模块引入）的工具型 agent 强化学�
 
 ```mermaid
 xychart-beta
-    title "TIGER-AI-Lab/verl-tool 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 1049 --> 1058
-    line [1051, 1050, 1051, 1054, 1055, 1056, 1057]
+    title "TIGER-AI-Lab/verl-tool 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1049 --> 1059
+    line [1051, 1050, 1051, 1054, 1055, 1056, 1057, 1058]
 ```
 
-2026-10-23 1,051 → 2026-11-25 1,057（+6）
+2026-10-24 1,051 → 2026-11-26 1,058（+7）
 
 
 ---

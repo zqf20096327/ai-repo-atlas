@@ -1,6 +1,6 @@
 # VictoriaMetrics/mcp-victoriatraces
 
-⭐ 20 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/VictoriaMetrics/mcp-victoriatraces) · [官网](https://victoriametrics.com) · 组织维护
+⭐ 20 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/VictoriaMetrics/mcp-victoriatraces) · [官网](https://victoriametrics.com) · 组织维护
 
 **为 VictoriaTraces 链路追踪系统提供 MCP 服务器接入**
 
@@ -44,13 +44,13 @@ VictoriaMetrics 官方维护的 Model Context Protocol（MCP）服务器实现�
 
 ```mermaid
 xychart-beta
-    title "VictoriaMetrics/mcp-victoriatraces 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-25"]
+    title "VictoriaMetrics/mcp-victoriatraces 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-25", "2026-11-26"]
     y-axis "stars" 17 --> 21
-    line [18, 19, 18, 19, 20]
+    line [18, 19, 18, 19, 20, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 20（+2）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

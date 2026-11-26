@@ -1,6 +1,6 @@
 # despriber/Umless
 
-⭐ 3 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/despriber/Umless) · 个人维护 · 中文 README
+⭐ 4 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/despriber/Umless) · 个人维护 · 中文 README
 
 **帮用户改掉口头禅的本地语音输入工具，Windows+Android**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "despriber/Umless 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-25 3（+0）
+2026-11-18 3 → 2026-11-26 4（+1）
 
 
 ---

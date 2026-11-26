@@ -1,6 +1,6 @@
 # vual/ChatGPT-Next-Web-Pro
 
-⭐ 803 · TypeScript · MIT · 推送 2026-07-19 · [GitHub](https://github.com/vual/ChatGPT-Next-Web-Pro) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向终端用户的多模态 AI 聊天应用：绘图/音乐/视频/知识库问答及后台管理**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

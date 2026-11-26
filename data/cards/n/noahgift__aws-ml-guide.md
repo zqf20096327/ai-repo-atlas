@@ -40,6 +40,18 @@ AWS Certified Machine Learning-Specialty (ML-S) 视频课程（Pearson 出版）
 > L1: # AWS Certified Machine Learning-Specialty (ML-S) Guide
 > L5: Interactive Jupyter/Colab book companion to AWS Certified Machine Learning-Speciality Video
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/aws-ml-guide 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 122 --> 124
+    line [123, 123]
+```
+
+2026-11-25 123 → 2026-11-26 123（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `65ab030fc350` · [字段定义](../../DATASET.md)*

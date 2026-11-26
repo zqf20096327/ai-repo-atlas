@@ -1,6 +1,6 @@
 # Rap3/NuclearOption-PlayableVehicles
 
-⭐ 9 · C# · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Rap3/NuclearOption-PlayableVehicles) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **在 Nuclear Option 中驾驶地面载具的游戏模组**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

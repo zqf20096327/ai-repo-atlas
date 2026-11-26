@@ -1,6 +1,6 @@
 # aaryansamanta/advanced-ai-curriculum
 
-⭐ 331 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/advanced-ai-curriculum) · [官网](https://aaryansamanta.github.io/) · 个人维护
+⭐ 330 · Jupyter Notebook · 推送 2026-09-20 · [GitHub](https://github.com/aaryansamanta/advanced-ai-curriculum) · [官网](https://aaryansamanta.github.io/) · 个人维护
 
 **个人 AI/数据科学课程与顶点项目作品集合**
 
@@ -45,12 +45,12 @@ Aaryan Samanta 的个人课程与顶点项目作品集，汇集五个荣誉项�
 ```mermaid
 xychart-beta
     title "aaryansamanta/advanced-ai-curriculum 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 329 --> 332
-    line [331, 330, 331, 331]
+    line [331, 330, 331, 330]
 ```
 
-2026-10-23 331 → 2026-11-25 331（+0）
+2026-10-24 331 → 2026-11-26 330（-1）
 
 
 ---

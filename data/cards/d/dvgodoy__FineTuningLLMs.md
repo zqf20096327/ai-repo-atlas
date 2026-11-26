@@ -1,6 +1,6 @@
 # dvgodoy/FineTuningLLMs
 
-⭐ 878 · Jupyter Notebook · MIT · 推送 2026-02-28 · [GitHub](https://github.com/dvgodoy/FineTuningLLMs) · 个人维护
+⭐ 879 · Jupyter Notebook · MIT · 推送 2026-02-28 · [GitHub](https://github.com/dvgodoy/FineTuningLLMs) · 个人维护
 
 **微调 LLM 的实战书籍配套仓库：PyTorch 与 Hugging Face 教程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dvgodoy/FineTuningLLMs 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-26"]
     y-axis "stars" 874 --> 880
-    line [876, 875, 876, 875, 878, 879, 878, 878]
+    line [876, 875, 876, 875, 878, 879, 878, 879]
 ```
 
-2026-10-23 876 → 2026-11-25 878（+2）
+2026-10-24 876 → 2026-11-26 879（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # averieh0202-maker/PodCut
 
-⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/averieh0202-maker/PodCut) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/averieh0202-maker/PodCut) · 个人维护 · 中文 README
 
 **面向中文播客作者的本地文字稿剪辑工具，AI 辅助初剪**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "averieh0202-maker/PodCut 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-08 3 → 2026-11-25 5（+2）
+2026-11-08 3 → 2026-11-26 5（+2）
 
 
 ---

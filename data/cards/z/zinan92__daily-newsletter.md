@@ -40,6 +40,18 @@ local-first 的每日信息流水线，从官方博客、RSS、GitHub Trending�
 > L21: 生产链路现在是 5-stage：`fetch -> to_md -> coarse_filter -> ai_process -> archive`。脚本只负责下载、转写、粗筛、保存和推送；内容判断、合并、打分、分类、快讯全集/深
 > L56: |`deepseek`（默认）|API|DeepSeek API key|`PARKIO_DEEPSEEK_KEY`|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "zinan92/daily-newsletter 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 mid · 依据 README sha `61f90c2188de` · [字段定义](../../DATASET.md)*

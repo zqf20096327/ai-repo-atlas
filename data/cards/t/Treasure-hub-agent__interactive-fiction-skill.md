@@ -1,6 +1,6 @@
 # Treasure-hub-agent/interactive-fiction-skill
 
-⭐ 40 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Treasure-hub-agent/interactive-fiction-skill) · [官网](https://github.com/Treasure-hub-agent/interactive-fiction-skill) · 组织维护 · 中文 README
+⭐ 41 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Treasure-hub-agent/interactive-fiction-skill) · [官网](https://github.com/Treasure-hub-agent/interactive-fiction-skill) · 组织维护 · 中文 README
 
 **装进 AI 助手的中文互动小说创作技能：你选，它写**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Treasure-hub-agent/interactive-fiction-skill 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 36 --> 41
-    line [37, 38, 37, 38, 39, 40, 40]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 36 --> 42
+    line [37, 38, 37, 38, 39, 40, 41]
 ```
 
-2026-10-23 37 → 2026-11-25 40（+3）
+2026-10-24 37 → 2026-11-26 41（+4）
 
 
 ---

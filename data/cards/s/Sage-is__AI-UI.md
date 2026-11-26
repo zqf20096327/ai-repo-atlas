@@ -1,6 +1,6 @@
 # Sage-is/AI-UI
 
-⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Sage-is/AI-UI) · [官网](https://sage.is) · 组织维护
+⭐ 11 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Sage-is/AI-UI) · [官网](https://sage.is) · 组织维护
 
 **自托管的多模型聊天与编排界面：私有运行自己的 AI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Sage-is/AI-UI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

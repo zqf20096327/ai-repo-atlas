@@ -1,6 +1,6 @@
 # Stealth-Coder44/ai-jailbreak-prompts
 
-⭐ 3 · 推送 2026-10-22 · [GitHub](https://github.com/Stealth-Coder44/ai-jailbreak-prompts) · [官网](https://discord.gg/sSZA24P8Ek) · 个人维护
+⭐ 4 · 推送 2026-10-22 · [GitHub](https://github.com/Stealth-Coder44/ai-jailbreak-prompts) · [官网](https://discord.gg/sSZA24P8Ek) · 个人维护
 
 **面向 ChatGPT/Claude 等多模型的越狱提示词收集社区**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Stealth-Coder44/ai-jailbreak-prompts 星数(近 2 点)"
-    x-axis ["2026-10-24", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-10-24 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 4（+1）
 
 
 ---

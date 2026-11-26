@@ -1,6 +1,6 @@
 # wasabihu/vericorpus
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/wasabihu/vericorpus) · 个人维护 · 中文 README
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/wasabihu/vericorpus) · 个人维护 · 中文 README
 
 **面向 XERJ/Elasticsearch 引擎的合规多语种语料包与中英双语检索评测基准**
 
@@ -40,6 +40,18 @@ VeriCorpus 提供经许可证审查的金融（SEC/港交所）、法规与临�
 > L13: **VeriCorpus** 是面向 XERJ 及 Elasticsearch 兼容检索引擎构建的**许可证严审语料工具包、可选坐标级 PDF 表格重建管线与零泄漏中英双语检索评测基准**（`Apache-2.0`）。核心控制面与
 > L29: 4. **多基准隔离实弹评测与分离签名套件（`eval_hub.py` + `eval_primary_weekly.py` + `eval_e2e_rag.py` + `scripts/build_hubpacks.py`）**
 > L42: |`ai-papers-ccby`|前沿 AI 论文 (`AI`)|`CC-BY-4.0`（OpenAlex + arXiv/EPMC 实核）|`pack`|50 篇 2022–2026 年高影响力开放获取 AI 论文（覆盖 RA
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "wasabihu/vericorpus 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-25 4 → 2026-11-26 5（+1）
 
 
 ---

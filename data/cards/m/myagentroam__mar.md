@@ -1,6 +1,6 @@
 # myagentroam/mar
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/myagentroam/mar) · [官网](https://myagentroam.dev) · 组织维护 · 中文 README
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/myagentroam/mar) · [官网](https://myagentroam.dev) · 组织维护 · 中文 README
 
 **自托管的 AI 编码代理工作台：跨设备跟踪与审查代理工作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "myagentroam/mar 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-13", "2026-11-26"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 7]
 ```
 
-2026-11-11 5 → 2026-11-25 7（+2）
+2026-11-11 5 → 2026-11-26 7（+2）
 
 
 ---

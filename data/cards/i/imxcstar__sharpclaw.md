@@ -1,6 +1,6 @@
 # imxcstar/sharpclaw
 
-⭐ 25 · C · MIT · 推送 2026-03-30 · [GitHub](https://github.com/imxcstar/sharpclaw) · 个人维护 · 中文 README
+⭐ 24 · C · MIT · 推送 2026-03-30 · [GitHub](https://github.com/imxcstar/sharpclaw) · 个人维护 · 中文 README
 
 **基于 .NET 10 的自主 AI agent，带跨会话长期记忆与 WASM 沙箱**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "imxcstar/sharpclaw 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 24 --> 26
-    line [25, 25]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 23 --> 26
+    line [25, 24]
 ```
 
-2026-10-23 25 → 2026-11-25 25（+0）
+2026-10-24 25 → 2026-11-26 24（-1）
 
 
 ---

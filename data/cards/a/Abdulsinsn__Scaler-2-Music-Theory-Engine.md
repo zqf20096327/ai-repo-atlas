@@ -1,6 +1,6 @@
 # Abdulsinsn/Scaler-2-Music-Theory-Engine
 
-⭐ 70 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/Abdulsinsn/Scaler-2-Music-Theory-Engine) · 个人维护
+⭐ 70 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/Abdulsinsn/Scaler-2-Music-Theory-Engine) · 个人维护
 
 **第三方分发商业音乐理论插件 Scaler 2 的安装与文档仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Abdulsinsn/Scaler-2-Music-Theory-Engine 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 69 --> 71
     line [70, 70]
 ```
 
-2026-10-23 70 → 2026-11-25 70（+0）
+2026-10-24 70 → 2026-11-26 70（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pugyy/dxkjailbreak
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/pugyy/dxkjailbreak) · [官网](https://github.com/pugyy/dxkjailbreak/releases) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/pugyy/dxkjailbreak) · [官网](https://github.com/pugyy/dxkjailbreak/releases) · 个人维护 · 中文 README
 
 **为 DeepSeek Harness 提供多域安全工作流预设的插件**
 
@@ -40,6 +40,18 @@
 > L23: `dxkjailbreak` 是面向 **DeepSeek Harness (DSH)** 的工作流预设插件：把十一个安全研究方向合成一张单卡，再配一个带 24 个页签的设置页控制台。
 > L29: |每种研究方向都要单独切模式、单独配技能|**单卡多域**：一张预设卡覆盖渗透 / 代码审计 / 逆向 / 内网 / 对抗样本 / 应急 / 云安全 / CTF / 资产测绘 / 注册反代 / 多任务编排，按任务自动换打法|
 > L177: |DSH `0.2.1-rc.2`|✅ 全量适配（86 条中 74 条生效，12 条按其原因不适用）|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "pugyy/dxkjailbreak 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-25 3 → 2026-11-26 5（+2）
 
 
 ---

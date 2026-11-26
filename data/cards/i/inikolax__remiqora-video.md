@@ -1,6 +1,6 @@
 # inikolax/remiqora-video
 
-⭐ 17 · Python · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/inikolax/remiqora-video) · [官网](https://remiqora.com/video/) · 个人维护
+⭐ 17 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/inikolax/remiqora-video) · [官网](https://remiqora.com/video/) · 个人维护
 
 **本地 GPU 视频工作室：一句话创意由本地 LLM 写分镜再逐场景生成影片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "inikolax/remiqora-video 星数(近 9 点)"
-    x-axis ["2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-26"]
     y-axis "stars" 3 --> 18
     line [4, 6, 12, 13, 14, 15, 16, 17, 17]
 ```
 
-2026-10-28 4 → 2026-11-25 17（+13）
+2026-10-28 4 → 2026-11-26 17（+13）
 
 
 ---

@@ -1,6 +1,6 @@
 # sseshachala/conductai
 
-⭐ 32 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/sseshachala/conductai) · [官网](https://conductai.ai) · 组织维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/sseshachala/conductai) · [官网](https://conductai.ai) · 组织维护
 
 **AI agent 运行时治理平台：策略拦截每次模型/工具调用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sseshachala/conductai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

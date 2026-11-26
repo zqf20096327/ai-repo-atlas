@@ -1,6 +1,6 @@
 # DatanoiseTV/revenant
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/DatanoiseTV/revenant) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-07-05 · [GitHub](https://github.com/DatanoiseTV/revenant) · 个人维护
 
 **面向被厂商弃维固件/二进制的 LLM 自动逆向工程引擎**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "DatanoiseTV/revenant 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 13, 13]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 13, 14]
 ```
 
-2026-10-23 10 → 2026-11-25 13（+3）
+2026-10-24 10 → 2026-11-26 14（+4）
 
 
 ---

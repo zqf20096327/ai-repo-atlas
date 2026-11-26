@@ -1,6 +1,6 @@
 # veekaybee/what_are_embeddings
 
-⭐ 1,105 · Jupyter Notebook · 推送 2026-01-17 · [GitHub](https://github.com/veekaybee/what_are_embeddings) · [官网](http://vickiboykis.com/what_are_embeddings/) · 个人维护
+⭐ 1,106 · Jupyter Notebook · 推送 2026-01-17 · [GitHub](https://github.com/veekaybee/what_are_embeddings) · [官网](http://vickiboykis.com/what_are_embeddings/) · 个人维护
 
 **embeddings 综述论文及配套网站与笔记本代码**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "veekaybee/what_are_embeddings 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 1104 --> 1108
-    line [1106, 1107, 1106, 1107, 1106, 1107, 1106, 1105, 1105]
+    line [1106, 1107, 1106, 1107, 1106, 1107, 1106, 1105, 1106]
 ```
 
-2026-10-23 1,106 → 2026-11-25 1,105（-1）
+2026-10-24 1,106 → 2026-11-26 1,106（+0）
 
 
 ---

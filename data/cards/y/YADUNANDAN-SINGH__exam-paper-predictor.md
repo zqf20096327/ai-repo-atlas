@@ -1,6 +1,6 @@
 # YADUNANDAN-SINGH/exam-paper-predictor
 
-⭐ 4 · MIT · 推送 2026-10-25 · [GitHub](https://github.com/YADUNANDAN-SINGH/exam-paper-predictor) · 个人维护
+⭐ 4 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/YADUNANDAN-SINGH/exam-paper-predictor) · 个人维护
 
 **帮考生从历年真题预测下次试卷并生成模拟卷与复习清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "YADUNANDAN-SINGH/exam-paper-predictor 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-20 3 → 2026-11-25 4（+1）
+2026-11-20 3 → 2026-11-26 4（+1）
 
 
 ---

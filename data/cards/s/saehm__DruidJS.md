@@ -1,6 +1,6 @@
 # saehm/DruidJS
 
-⭐ 127 · JavaScript · LGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/saehm/DruidJS) · [官网](https://saehm.github.io/DruidJS/) · 组织维护
+⭐ 128 · JavaScript · LGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/saehm/DruidJS) · [官网](https://saehm.github.io/DruidJS/) · 组织维护
 
 **浏览器端高维数据降维的 JavaScript 算法库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "saehm/DruidJS 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
-    y-axis "stars" 126 --> 128
-    line [127, 127]
+    x-axis ["2026-11-19", "2026-11-26"]
+    y-axis "stars" 126 --> 129
+    line [127, 128]
 ```
 
-2026-11-19 127 → 2026-11-25 127（+0）
+2026-11-19 127 → 2026-11-26 128（+1）
 
 
 ---

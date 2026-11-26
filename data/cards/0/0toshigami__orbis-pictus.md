@@ -1,6 +1,6 @@
 # 0toshigami/orbis-pictus
 
-⭐ 28 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/0toshigami/orbis-pictus) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/0toshigami/orbis-pictus) · 个人维护
 
 **点击即探索的 AI 绘制图画书浏览器，每页实时生成**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0toshigami/orbis-pictus 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 26 --> 29
+    line [28, 27]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 27（-1）
 
 
 ---

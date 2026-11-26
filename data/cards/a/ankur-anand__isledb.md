@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ankur-anand/isledb 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 57 --> 61
-    line [58, 60, 60]
+    title "ankur-anand/isledb 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 59 --> 61
+    line [60, 60]
 ```
 
-2026-10-23 58 → 2026-11-25 60（+2）
+2026-10-24 60 → 2026-11-26 60（+0）
 
 
 ---

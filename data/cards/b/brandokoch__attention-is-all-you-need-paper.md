@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "brandokoch/attention-is-all-you-need-paper 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-13", "2026-11-25"]
+    title "brandokoch/attention-is-all-you-need-paper 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 252 --> 256
-    line [254, 253, 254, 255, 255]
+    line [253, 254, 255, 255]
 ```
 
-2026-10-23 254 → 2026-11-25 255（+1）
+2026-10-24 253 → 2026-11-26 255（+2）
 
 
 ---

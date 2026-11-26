@@ -45,12 +45,12 @@ Jupyter Notebook 形式提供的深度学习图像分类项目：使用 torchvis
 ```mermaid
 xychart-beta
     title "AsadiAhmad/100-Sports-Image-Classification 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 17（+0）
 
 
 ---

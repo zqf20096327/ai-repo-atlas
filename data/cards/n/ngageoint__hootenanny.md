@@ -1,6 +1,6 @@
 # ngageoint/hootenanny
 
-⭐ 398 · JavaScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ngageoint/hootenanny) · 组织维护
+⭐ 397 · JavaScript · GPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/ngageoint/hootenanny) · 组织维护
 
 **将多源地图合并为单一无缝地图的地理数据融合工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ngageoint/hootenanny 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 394 --> 399
-    line [395, 396, 395, 398, 398]
+    line [395, 396, 395, 398, 397]
 ```
 
-2026-10-23 395 → 2026-11-25 398（+3）
+2026-10-24 395 → 2026-11-26 397（+2）
 
 
 ---

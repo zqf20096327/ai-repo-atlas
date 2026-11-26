@@ -1,6 +1,6 @@
 # dromara/dante-cloud
 
-⭐ 972 · Java · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/dromara/dante-cloud) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
+⭐ 972 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dromara/dante-cloud) · [官网](https://www.herodotus.cn) · 个人维护 · 中文 README
 
 **企业级云原生微服务基座，一套代码切换微服务/单体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dromara/dante-cloud 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-26"]
     y-axis "stars" 968 --> 973
     line [969, 970, 971, 972, 972]
 ```
 
-2026-10-23 969 → 2026-11-25 972（+3）
+2026-10-24 969 → 2026-11-26 972（+3）
 
 
 ---

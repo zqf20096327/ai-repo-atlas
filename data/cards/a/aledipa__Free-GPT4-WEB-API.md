@@ -1,6 +1,6 @@
 # aledipa/Free-GPT4-WEB-API
 
-⭐ 729 · Python · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/aledipa/Free-GPT4-WEB-API) · [官网](https://api.freegpt4.ddns.net/?text=Your Request Here) · 个人维护
+⭐ 727 · Python · GPL-3.0 · 推送 2026-11-04 · [GitHub](https://github.com/aledipa/Free-GPT4-WEB-API) · [官网](https://api.freegpt4.ddns.net/?text=Your Request Here) · 个人维护
 
 **自托管 Web API：免 API key 统一调用 GPT-4 等多家 LLM**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aledipa/Free-GPT4-WEB-API 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 724 --> 732
-    line [725, 726, 727, 726, 727, 728, 730, 729, 730, 731, 729]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 725 --> 732
+    line [726, 727, 726, 727, 728, 730, 729, 730, 731, 729, 727]
 ```
 
-2026-10-23 725 → 2026-11-25 729（+4）
+2026-10-24 726 → 2026-11-26 727（+1）
 
 
 ---

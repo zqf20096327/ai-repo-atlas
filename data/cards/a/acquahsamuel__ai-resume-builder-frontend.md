@@ -1,6 +1,6 @@
 # acquahsamuel/ai-resume-builder-frontend
 
-⭐ 13 · TypeScript · 推送 2025-12-10 · [GitHub](https://github.com/acquahsamuel/ai-resume-builder-frontend) · [官网](https://cleansheet-resume.vercel.app) · 个人维护
+⭐ 12 · TypeScript · 推送 2025-12-10 · [GitHub](https://github.com/acquahsamuel/ai-resume-builder-frontend) · [官网](https://cleansheet-resume.vercel.app) · 个人维护
 
 **面向求职者的隐私优先开源简历构建器（Angular 前端）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "acquahsamuel/ai-resume-builder-frontend 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 11 --> 14
+    line [13, 12]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 12（-1）
 
 
 ---

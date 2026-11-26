@@ -1,6 +1,6 @@
 # mddawoodrahman/zeus
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mddawoodrahman/zeus) · [官网](https://chromewebstore.google.com/detail/zeus-%E2%80%94-prompt-enhancement/nejhojapbopmedoagaimcdmgekjnkoal) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mddawoodrahman/zeus) · [官网](https://chromewebstore.google.com/detail/zeus-%E2%80%94-prompt-enhancement/nejhojapbopmedoagaimcdmgekjnkoal) · 个人维护
 
 **Chrome 扩展：在 ChatGPT/Claude/Gemini 等聊天页一键改写优化提示词**
 
@@ -46,12 +46,12 @@ Manifest V3 Chrome 扩展，在支持的 LLM 聊天站点输入框旁注入增�
 ```mermaid
 xychart-beta
     title "mddawoodrahman/zeus 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

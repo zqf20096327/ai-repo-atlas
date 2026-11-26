@@ -1,6 +1,6 @@
 # rozx/Tsukuyomi
 
-⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/rozx/Tsukuyomi) · [官网](https://tsukuyomi.rozx.moe/) · 个人维护 · 中文 README
+⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/rozx/Tsukuyomi) · [官网](https://tsukuyomi.rozx.moe/) · 个人维护 · 中文 README
 
 **面向小说的 AI 导入、双语阅读与翻译工具**
 
@@ -45,12 +45,12 @@ Tsukuyomi 将小说导入、双语对照阅读、AI 翻译、润色和校对整�
 ```mermaid
 xychart-beta
     title "rozx/Tsukuyomi 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-19", "2026-11-26"]
     y-axis "stars" 38 --> 47
     line [39, 40, 41, 40, 42, 43, 44, 46, 46]
 ```
 
-2026-10-23 39 → 2026-11-25 46（+7）
+2026-10-24 39 → 2026-11-26 46（+7）
 
 
 ---

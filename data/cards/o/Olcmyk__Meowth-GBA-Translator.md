@@ -1,6 +1,6 @@
 # Olcmyk/Meowth-GBA-Translator
 
-⭐ 51 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/Olcmyk/Meowth-GBA-Translator) · 个人维护 · 中文 README
+⭐ 52 · Python · MIT · 推送 2026-03-25 · [GitHub](https://github.com/Olcmyk/Meowth-GBA-Translator) · 个人维护 · 中文 README
 
 **用 LLM 全自动翻译宝可梦 GBA ROM 的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Olcmyk/Meowth-GBA-Translator 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 44 --> 52
-    line [45, 46, 47, 48, 45, 50, 51, 51]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 44 --> 53
+    line [45, 46, 47, 48, 45, 50, 51, 52]
 ```
 
-2026-10-23 45 → 2026-11-25 51（+6）
+2026-10-24 45 → 2026-11-26 52（+7）
 
 
 ---

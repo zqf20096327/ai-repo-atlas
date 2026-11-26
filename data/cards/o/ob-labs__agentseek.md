@@ -1,6 +1,6 @@
 # ob-labs/agentseek
 
-⭐ 208 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/ob-labs/agentseek) · [官网](https://ob-labs.github.io/agentseek/) · 组织维护 · 中文 README
+⭐ 210 · Python · Apache-2.0 · 推送 2026-10-08 · [GitHub](https://github.com/ob-labs/agentseek) · [官网](https://ob-labs.github.io/agentseek/) · 组织维护 · 中文 README
 
 **本地 AI Agent 应用开发生命周期工具包：模板生成、运行与观测**
 
@@ -46,12 +46,12 @@ OceanBase OSS 团队开发的模板优先 CLI 工具包，围绕可编辑的本�
 ```mermaid
 xychart-beta
     title "ob-labs/agentseek 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 201 --> 209
-    line [202, 203, 202, 203, 205, 207, 208, 208]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 201 --> 211
+    line [202, 203, 202, 203, 205, 207, 208, 210]
 ```
 
-2026-10-23 202 → 2026-11-25 208（+6）
+2026-10-24 202 → 2026-11-26 210（+8）
 
 
 ---

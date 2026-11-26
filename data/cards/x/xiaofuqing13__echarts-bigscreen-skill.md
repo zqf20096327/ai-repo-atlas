@@ -1,6 +1,6 @@
 # xiaofuqing13/echarts-bigscreen-skill
 
-⭐ 11 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/xiaofuqing13/echarts-bigscreen-skill) · 个人维护 · 中文 README
+⭐ 12 · MIT · 推送 2026-07-12 · [GitHub](https://github.com/xiaofuqing13/echarts-bigscreen-skill) · 个人维护 · 中文 README
 
 **给 AI 编程工具装的大屏技能：一句话生成 ECharts 大屏**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiaofuqing13/echarts-bigscreen-skill 星数(近 3 点)"
-    x-axis ["2026-10-26", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-26", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-26 10 → 2026-11-25 11（+1）
+2026-10-26 10 → 2026-11-26 12（+2）
 
 
 ---

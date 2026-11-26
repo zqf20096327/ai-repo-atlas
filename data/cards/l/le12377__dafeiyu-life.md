@@ -41,6 +41,18 @@
 > L19: 这是一台还在运行的 AstrBot 实例的完整配置档案。大脑是 DeepSeek，通过 NapCat 接进 QQ；嗓子是本机克隆出来的声音，手是本机的 ComfyUI，记性是 LivingMemory 加本地向量模型，另外接了一个
 > L292: ① AstrBot → ② NapCat → ③ 接上模型      到这一步，能在 QQ 里聊天
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "le12377/dafeiyu-life 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5b8957fe9a0a` · [字段定义](../../DATASET.md)*

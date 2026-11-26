@@ -1,6 +1,6 @@
 # databrickslabs/dbx
 
-⭐ 467 · Python · NOASSERTION · 推送 2026-03-27 · [GitHub](https://github.com/databrickslabs/dbx) · [官网](https://dbx.readthedocs.io) · 组织维护
+⭐ 468 · Python · NOASSERTION · 推送 2026-03-27 · [GitHub](https://github.com/databrickslabs/dbx) · [官网](https://dbx.readthedocs.io) · 组织维护
 
 **Databricks 工作流开发与部署的 CLI 工具（已停止维护）**
 
@@ -44,12 +44,12 @@ dbx 是 Databricks Labs 推出的命令行工具，用于在多环境间简化 D
 ```mermaid
 xychart-beta
     title "databrickslabs/dbx 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 465 --> 468
-    line [466, 467, 466, 467, 467]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 465 --> 469
+    line [466, 467, 466, 467, 468]
 ```
 
-2026-10-23 466 → 2026-11-25 467（+1）
+2026-10-24 466 → 2026-11-26 468（+2）
 
 
 ---

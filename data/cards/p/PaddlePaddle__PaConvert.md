@@ -45,12 +45,12 @@ Paddle 官方维护的代码转换工具：基于 PyTorch 与 Paddle 的 API 映
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaConvert 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 122 --> 124
     line [123, 123]
 ```
 
-2026-10-23 123 → 2026-11-25 123（+0）
+2026-10-24 123 → 2026-11-26 123（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # leek-wars/leek-wars
 
-⭐ 206 · Vue · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/leek-wars/leek-wars) · [官网](https://leekwars.com) · 组织维护
+⭐ 208 · Vue · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/leek-wars/leek-wars) · [官网](https://leekwars.com) · 组织维护
 
 **多人大葱 AI 编程对战游戏 Leek Wars 的网站前端**
 
@@ -43,13 +43,13 @@ Leek Wars 是一款多人网页端 AI 编程游戏，玩家编写代码训练自
 
 ```mermaid
 xychart-beta
-    title "leek-wars/leek-wars 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 203 --> 207
-    line [204, 205, 206]
+    title "leek-wars/leek-wars 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 203 --> 209
+    line [204, 205, 206, 208]
 ```
 
-2026-10-23 204 → 2026-11-25 206（+2）
+2026-10-24 204 → 2026-11-26 208（+4）
 
 
 ---

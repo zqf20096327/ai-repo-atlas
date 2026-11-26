@@ -1,6 +1,6 @@
 # appautomaton/automaton
 
-⭐ 26 · JavaScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/appautomaton/automaton) · [官网](https://appautomaton.com/automaton/) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-09-13 · [GitHub](https://github.com/appautomaton/automaton) · [官网](https://appautomaton.com/automaton/) · 个人维护 · 中文 README
 
 **给 Claude Code/Codex/OpenCode 装上阶段化工作流的 AI 编码 harness**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "appautomaton/automaton 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 23 --> 27
-    line [24, 25, 26, 26]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 26, 27]
 ```
 
-2026-10-23 24 → 2026-11-25 26（+2）
+2026-10-24 24 → 2026-11-26 27（+3）
 
 
 ---

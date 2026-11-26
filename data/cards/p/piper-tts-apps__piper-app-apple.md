@@ -1,6 +1,6 @@
 # piper-tts-apps/piper-app-apple
 
-⭐ 70 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/piper-tts-apps/piper-app-apple) · 组织维护
+⭐ 71 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/piper-tts-apps/piper-app-apple) · 组织维护
 
 **Piper 神经 TTS 的 iOS/macOS 官方应用移植**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "piper-tts-apps/piper-app-apple 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 65 --> 71
-    line [66, 67, 68, 66, 70, 70]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 65 --> 72
+    line [66, 67, 68, 66, 70, 71]
 ```
 
-2026-10-23 66 → 2026-11-25 70（+4）
+2026-10-24 66 → 2026-11-26 71（+5）
 
 
 ---

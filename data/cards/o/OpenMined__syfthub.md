@@ -1,6 +1,6 @@
 # OpenMined/syfthub
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/OpenMined/syfthub) · [官网](https://syfthub.openmined.org) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/OpenMined/syfthub) · [官网](https://syfthub.openmined.org) · 组织维护
 
 **AI/ML 端点的注册与发现平台：发布、共享、运行模型与数据源**
 
@@ -46,12 +46,12 @@ SyftHub 是面向 AI/ML 端点的注册与发现平台：用户可发布模型�
 ```mermaid
 xychart-beta
     title "OpenMined/syfthub 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

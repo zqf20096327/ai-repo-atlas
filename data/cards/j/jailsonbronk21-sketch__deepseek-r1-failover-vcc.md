@@ -1,6 +1,6 @@
 # jailsonbronk21-sketch/deepseek-r1-failover-vcc
 
-⭐ 94 · 推送 2026-10-31 · [GitHub](https://github.com/jailsonbronk21-sketch/deepseek-r1-failover-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 117 · 推送 2026-10-31 · [GitHub](https://github.com/jailsonbronk21-sketch/deepseek-r1-failover-vcc) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向 DeepSeek 用户的付费开卡推广页：引导用 CoreGold 虚拟卡充值**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "jailsonbronk21-sketch/deepseek-r1-failover-vcc 星数(近 10 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 3 --> 102
-    line [11, 41, 63, 77, 82, 87, 86, 83, 85, 94]
+    title "jailsonbronk21-sketch/deepseek-r1-failover-vcc 星数(近 11 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1 --> 127
+    line [11, 41, 63, 77, 82, 87, 86, 83, 85, 94, 117]
 ```
 
-2026-11-02 11 → 2026-11-25 94（+83）
+2026-11-02 11 → 2026-11-26 117（+106）
 
 
 ---

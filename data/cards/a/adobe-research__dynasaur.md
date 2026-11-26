@@ -1,6 +1,6 @@
 # adobe-research/dynasaur
 
-⭐ 361 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/adobe-research/dynasaur) · 组织维护
+⭐ 362 · Python · NOASSERTION · 推送 2026-08-05 · [GitHub](https://github.com/adobe-research/dynasaur) · 组织维护
 
 **动态自我扩展动作库的 LLM agent 框架（COLM 2025）**
 
@@ -43,12 +43,12 @@ Adobe Research 发布的 LLM agent 框架（COLM 2025 论文）：以编程语�
 ```mermaid
 xychart-beta
     title "adobe-research/dynasaur 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-21", "2026-11-26"]
     y-axis "stars" 360 --> 364
-    line [362, 363, 361, 361]
+    line [362, 363, 361, 362]
 ```
 
-2026-10-23 362 → 2026-11-25 361（-1）
+2026-10-24 362 → 2026-11-26 362（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mirpo/fastapi-gen
 
-⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mirpo/fastapi-gen) · [官网](https://pypi.org/project/fastapi-gen) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mirpo/fastapi-gen) · [官网](https://pypi.org/project/fastapi-gen) · 个人维护
 
 **FastAPI 项目脚手架 CLI：一条命令生成含 LLM 能力的应用模板**
 
@@ -45,12 +45,12 @@ Python 命令行工具，通过 uvx/pip 安装后以 fastapi-gen my_app 生成 F
 ```mermaid
 xychart-beta
     title "mirpo/fastapi-gen 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

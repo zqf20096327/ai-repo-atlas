@@ -1,6 +1,6 @@
 # FootprintAI/Containarium
 
-⭐ 318 · Go · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/FootprintAI/Containarium) · [官网](https://containarium.dev) · 组织维护
+⭐ 319 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/FootprintAI/Containarium) · [官网](https://containarium.dev) · 组织维护
 
 **为 AI agent 提供隔离沙箱运行时的自托管平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FootprintAI/Containarium 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 309 --> 319
-    line [310, 311, 313, 314, 310, 317, 318, 318]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 309 --> 320
+    line [310, 311, 313, 314, 310, 317, 318, 319]
 ```
 
-2026-10-23 310 → 2026-11-25 318（+8）
+2026-10-24 310 → 2026-11-26 319（+9）
 
 
 ---

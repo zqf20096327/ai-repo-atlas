@@ -1,6 +1,6 @@
 # ProjectNeura/MIPCandy
 
-⭐ 294 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/ProjectNeura/MIPCandy) · [官网](https://mipcandy.projectneura.org) · 组织维护
+⭐ 295 · Python · Apache-2.0 · 推送 2026-07-09 · [GitHub](https://github.com/ProjectNeura/MIPCandy) · [官网](https://mipcandy.projectneura.org) · 组织维护
 
 **医学图像处理 PyTorch 实验流水线框架，训练/推理/评测开箱即用**
 
@@ -43,12 +43,12 @@ Project Neura 维护的医学图像处理基础设施框架：预定义常见网
 ```mermaid
 xychart-beta
     title "ProjectNeura/MIPCandy 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 293 --> 295
-    line [294, 294]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 293 --> 296
+    line [294, 295]
 ```
 
-2026-10-23 294 → 2026-11-25 294（+0）
+2026-10-24 294 → 2026-11-26 295（+1）
 
 
 ---

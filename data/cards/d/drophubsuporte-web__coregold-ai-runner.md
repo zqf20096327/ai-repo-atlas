@@ -1,6 +1,6 @@
 # drophubsuporte-web/coregold-ai-runner
 
-⭐ 93 · 推送 2026-10-31 · [GitHub](https://github.com/drophubsuporte-web/coregold-ai-runner) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 116 · 推送 2026-10-31 · [GitHub](https://github.com/drophubsuporte-web/coregold-ai-runner) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **CoreGold 虚拟卡服务的推广页：用于 AI 订阅支付**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "drophubsuporte-web/coregold-ai-runner 星数(近 10 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 5 --> 101
-    line [13, 41, 61, 75, 80, 85, 82, 83, 85, 93]
+    title "drophubsuporte-web/coregold-ai-runner 星数(近 11 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 126
+    line [13, 41, 61, 75, 80, 85, 82, 83, 85, 93, 116]
 ```
 
-2026-11-02 13 → 2026-11-25 93（+80）
+2026-11-02 13 → 2026-11-26 116（+103）
 
 
 ---

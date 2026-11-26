@@ -1,6 +1,6 @@
 # jimoto-no-llm/rustdsh
 
-⭐ 108 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jimoto-no-llm/rustdsh) · [官网](https://jimoto-no-llm.github.io/rustdsh/) · 个人维护 · 中文 README
+⭐ 110 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jimoto-no-llm/rustdsh) · [官网](https://jimoto-no-llm.github.io/rustdsh/) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的 Rust 启动器/微型编排器，加速本地 LLM agent 运行**
 
@@ -45,12 +45,12 @@ rdsh 是 DeepSeek Harness (dsh) 的 Rust 实现 launcher：非原生子命令透
 ```mermaid
 xychart-beta
     title "jimoto-no-llm/rustdsh 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 99 --> 109
-    line [100, 105, 106, 108, 107, 108, 108]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 99 --> 111
+    line [100, 105, 106, 108, 107, 108, 110]
 ```
 
-2026-11-02 100 → 2026-11-25 108（+8）
+2026-11-02 100 → 2026-11-26 110（+10）
 
 
 ---

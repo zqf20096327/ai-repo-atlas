@@ -1,6 +1,6 @@
 # sebastianhaba/book-to-course-skill
 
-⭐ 84 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/sebastianhaba/book-to-course-skill) · 个人维护
+⭐ 85 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/sebastianhaba/book-to-course-skill) · 个人维护
 
 **把书籍文档转成交互式课程的 Claude 技能（含 APK/AppImage 打包）**
 
@@ -46,12 +46,12 @@ Claude Code 插件市场中的技能集：读取 EPUB/PDF/HTML/DOCX/Markdown 等
 ```mermaid
 xychart-beta
     title "sebastianhaba/book-to-course-skill 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 70 --> 85
-    line [71, 72, 73, 71, 77, 78, 80, 82, 84, 84]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 70 --> 86
+    line [71, 72, 73, 71, 77, 78, 80, 82, 84, 85]
 ```
 
-2026-10-23 71 → 2026-11-25 84（+13）
+2026-10-24 71 → 2026-11-26 85（+14）
 
 
 ---

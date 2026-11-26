@@ -1,6 +1,6 @@
 # aparmar2000/JNovelAIAPI
 
-⭐ 10 · Java · LGPL-2.1 · 推送 2026-11-16 · [GitHub](https://github.com/aparmar2000/JNovelAIAPI) · 个人维护
+⭐ 10 · Java · LGPL-2.1 · 推送 2026-11-25 · [GitHub](https://github.com/aparmar2000/JNovelAIAPI) · 个人维护
 
 **Java 开发者调用 NovelAI 生成 API 的绑定库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aparmar2000/JNovelAIAPI 星数(近 2 点)"
-    x-axis ["2026-11-01", "2026-11-25"]
+    x-axis ["2026-11-01", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-01 10 → 2026-11-25 10（+0）
+2026-11-01 10 → 2026-11-26 10（+0）
 
 
 ---

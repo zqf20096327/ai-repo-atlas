@@ -1,6 +1,6 @@
 # HaShiShark/context-editor-agent
 
-⭐ 44 · Python · GPL-3.0 · 推送 2026-08-05 · [GitHub](https://github.com/HaShiShark/context-editor-agent) · 个人维护 · 中文 README
+⭐ 43 · Python · GPL-3.0 · 推送 2026-08-05 · [GitHub](https://github.com/HaShiShark/context-editor-agent) · 个人维护 · 中文 README
 
 **桌面 AI 聊天客户端：可视化并让第二个 AI 精确编辑上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HaShiShark/context-editor-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 42 --> 45
+    line [44, 43]
 ```
 
-2026-10-23 44 → 2026-11-25 44（+0）
+2026-10-24 44 → 2026-11-26 43（-1）
 
 
 ---

@@ -46,12 +46,12 @@ AI Design Engine（alpha 阶段）通过确定性 prompt 路由识别需求所�
 ```mermaid
 xychart-beta
     title "Hugo-JC/ai-design-engine 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-25"]
+    x-axis ["2026-10-29", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-29 3 → 2026-11-25 3（+0）
+2026-10-29 3 → 2026-11-26 3（+0）
 
 
 ---

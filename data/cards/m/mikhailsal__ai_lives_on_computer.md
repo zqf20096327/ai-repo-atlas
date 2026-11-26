@@ -1,6 +1,6 @@
 # mikhailsal/ai_lives_on_computer
 
-⭐ 43 · Shell · 推送 2026-03-10 · [GitHub](https://github.com/mikhailsal/ai_lives_on_computer) · 个人维护
+⭐ 44 · Shell · 推送 2026-03-10 · [GitHub](https://github.com/mikhailsal/ai_lives_on_computer) · 个人维护
 
 **让自主 AI 代理驻留服务器的实验框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikhailsal/ai_lives_on_computer 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 40 --> 44
-    line [41, 43, 43]
+    title "mikhailsal/ai_lives_on_computer 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 42 --> 45
+    line [43, 44]
 ```
 
-2026-10-23 41 → 2026-11-25 43（+2）
+2026-10-24 43 → 2026-11-26 44（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # a-connoisseur/patch-claude-code
 
-⭐ 48 · TypeScript · 推送 2026-11-20 · [GitHub](https://github.com/a-connoisseur/patch-claude-code) · 个人维护
+⭐ 48 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/a-connoisseur/patch-claude-code) · 个人维护
 
 **为 Claude Code 发布补丁版二进制：透明显示工具调用与思考流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "a-connoisseur/patch-claude-code 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 47 --> 49
     line [48, 48]
 ```
 
-2026-10-23 48 → 2026-11-25 48（+0）
+2026-10-24 48 → 2026-11-26 48（+0）
 
 
 ---

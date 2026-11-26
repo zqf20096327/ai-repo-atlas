@@ -1,6 +1,6 @@
 # langchain-ai/langsmith-cli
 
-⭐ 81 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/langchain-ai/langsmith-cli) · 组织维护
+⭐ 81 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/langchain-ai/langsmith-cli) · 组织维护
 
 **面向 AI 编程代理的 LangSmith 资源查询管理 CLI**
 
@@ -46,12 +46,12 @@ LangChain 团队提供的命令行工具，用于脚本化访问 LangSmith 的�
 ```mermaid
 xychart-beta
     title "langchain-ai/langsmith-cli 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 79 --> 82
     line [80, 81, 81]
 ```
 
-2026-10-23 80 → 2026-11-25 81（+1）
+2026-10-24 80 → 2026-11-26 81（+1）
 
 
 ---

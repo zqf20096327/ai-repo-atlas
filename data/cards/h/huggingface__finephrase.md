@@ -1,6 +1,6 @@
 # huggingface/finephrase
 
-⭐ 44 · Python · 推送 2026-06-05 · [GitHub](https://github.com/huggingface/finephrase) · 组织维护
+⭐ 45 · Python · 推送 2026-06-05 · [GitHub](https://github.com/huggingface/finephrase) · 组织维护
 
 **486B token 合成预训练数据集及其改写/训练流水线**
 
@@ -46,12 +46,12 @@ Hugging Face 维护的合成预训练数据项目：通过对网页语料（Fine
 ```mermaid
 xychart-beta
     title "huggingface/finephrase 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 42 --> 45
-    line [43, 44, 43, 44, 44]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 44, 45]
 ```
 
-2026-10-23 43 → 2026-11-25 44（+1）
+2026-10-24 43 → 2026-11-26 45（+2）
 
 
 ---

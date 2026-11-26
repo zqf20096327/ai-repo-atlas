@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zhimin-z/awesome-awesome-artificial-intelligence 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-25"]
+    title "zhimin-z/awesome-awesome-artificial-intelligence 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 225 --> 228
-    line [226, 227, 226, 227, 227]
+    line [227, 226, 227, 227]
 ```
 
-2026-10-23 226 → 2026-11-25 227（+1）
+2026-10-24 227 → 2026-11-26 227（+0）
 
 
 ---

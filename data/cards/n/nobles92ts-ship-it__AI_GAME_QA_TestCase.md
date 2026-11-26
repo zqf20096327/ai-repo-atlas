@@ -1,6 +1,6 @@
 # nobles92ts-ship-it/AI_GAME_QA_TestCase
 
-⭐ 10 · JavaScript · 推送 2026-11-13 · [GitHub](https://github.com/nobles92ts-ship-it/AI_GAME_QA_TestCase) · [官网](https://nobles92ts-ship-it.github.io/en/built/tc-team/) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/nobles92ts-ship-it/AI_GAME_QA_TestCase) · [官网](https://nobles92ts-ship-it.github.io/en/built/tc-team/) · 个人维护 · 中文 README
 
 **游戏 QA 测试用例自动生成流水线：LLM 写句子，代码管结构**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "nobles92ts-ship-it/AI_GAME_QA_TestCase 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mahpate/Vlite
 
-⭐ 3 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mahpate/Vlite) · [官网](https://mahpate.github.io/Vlite/) · 个人维护
+⭐ 3 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mahpate/Vlite) · [官网](https://mahpate.github.io/Vlite/) · 个人维护
 
 **给嵌入检索应用的 Rust 单文件向量与图数据库**
 
@@ -46,12 +46,12 @@ VLite 以单个 .vlite 文件承载向量、元数据与属性图，可作为嵌
 ```mermaid
 xychart-beta
     title "mahpate/Vlite 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

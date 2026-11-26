@@ -42,6 +42,18 @@
 > L23: You bring a model service — your own API key, a self-hosted gateway, or a compatible proxy — and the app gives it a
 > L29: |**Multi-model chat**|Add any number of providers, pick a model per conversation, switch assistants freely. Long th
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gegewu26-source/Onvyra-Releases 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `007e8e0c1f5f` · [字段定义](../../DATASET.md)*

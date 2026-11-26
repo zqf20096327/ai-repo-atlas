@@ -1,6 +1,6 @@
 # PerfectXM/mcp-db-server
 
-⭐ 51 · Java · MIT · 推送 2026-07-06 · [GitHub](https://github.com/PerfectXM/mcp-db-server) · 个人维护 · 中文 README
+⭐ 52 · Java · MIT · 推送 2026-07-06 · [GitHub](https://github.com/PerfectXM/mcp-db-server) · 个人维护 · 中文 README
 
 **无状态 MCP 数据库服务：让 AI 客户端直连六种数据库执行 SQL**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PerfectXM/mcp-db-server 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 48 --> 52
-    line [49, 50, 51, 51]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 48 --> 53
+    line [49, 50, 51, 52]
 ```
 
-2026-10-23 49 → 2026-11-25 51（+2）
+2026-10-24 49 → 2026-11-26 52（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # AM-young-fun/Mochi-ai-chatbot
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AM-young-fun/Mochi-ai-chatbot) · [官网](https://www.mochichatbot.com?utm_source=github&utm_medium=mochi) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AM-young-fun/Mochi-ai-chatbot) · [官网](https://www.mochichatbot.com?utm_source=github&utm_medium=mochi) · 个人维护 · 中文 README
 
 **自托管聊天机器人平台：为 Discord/Telegram/Slack/QQ/网站搭建 AI bot**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "AM-young-fun/Mochi-ai-chatbot 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-22", "2026-11-25"]
+    title "AM-young-fun/Mochi-ai-chatbot 星数(近 4 点)"
+    x-axis ["2026-11-10", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 6
-    line [3, 4, 5]
+    line [3, 4, 5, 5]
 ```
 
-2026-11-10 3 → 2026-11-25 5（+2）
+2026-11-10 3 → 2026-11-26 5（+2）
 
 
 ---

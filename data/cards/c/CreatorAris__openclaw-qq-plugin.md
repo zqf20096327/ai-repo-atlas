@@ -46,12 +46,12 @@ OpenClaw 的 QQ 渠道插件，通过 NapCat（OneBot v11 WebSocket）连接 QQ�
 ```mermaid
 xychart-beta
     title "CreatorAris/openclaw-qq-plugin 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

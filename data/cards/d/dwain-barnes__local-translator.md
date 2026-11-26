@@ -1,6 +1,6 @@
 # dwain-barnes/local-translator
 
-⭐ 42 · HTML · 推送 2026-07-21 · [GitHub](https://github.com/dwain-barnes/local-translator) · 个人维护
+⭐ 43 · HTML · 推送 2026-07-21 · [GitHub](https://github.com/dwain-barnes/local-translator) · 个人维护
 
 **本地离线翻译应用：Ollama+translateGemma 翻译 55 种语言**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dwain-barnes/local-translator 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 36 --> 43
-    line [37, 38, 37, 40, 42, 42]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 36 --> 44
+    line [37, 38, 37, 40, 42, 43]
 ```
 
-2026-10-23 37 → 2026-11-25 42（+5）
+2026-10-24 37 → 2026-11-26 43（+6）
 
 
 ---

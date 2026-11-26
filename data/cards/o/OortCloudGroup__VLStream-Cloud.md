@@ -1,6 +1,6 @@
 # OortCloudGroup/VLStream-Cloud
 
-⭐ 10 · Java · MIT · 推送 2026-11-20 · [GitHub](https://github.com/OortCloudGroup/VLStream-Cloud) · [官网](https://vlstream.oortcloudsmart.com:2443/bus/vls-ui/login) · 组织维护 · 中文 README
+⭐ 10 · Java · MIT · 推送 2026-11-24 · [GitHub](https://github.com/OortCloudGroup/VLStream-Cloud) · [官网](https://vlstream.oortcloudsmart.com:2443/bus/vls-ui/login) · 组织维护 · 中文 README
 
 **企业视频物联网平台：设备接入、智能分析与算法全生命周期管理**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OortCloudGroup/VLStream-Cloud 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

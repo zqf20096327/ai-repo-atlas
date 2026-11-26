@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ArkanDash/Advanced-RVC-Inference 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-25"]
-    y-axis "stars" 88 --> 92
-    line [89, 90, 91, 90, 90]
+    title "ArkanDash/Advanced-RVC-Inference 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-26"]
+    y-axis "stars" 89 --> 92
+    line [90, 91, 90, 90]
 ```
 
-2026-10-23 89 → 2026-11-25 90（+1）
+2026-10-24 90 → 2026-11-26 90（+0）
 
 
 ---

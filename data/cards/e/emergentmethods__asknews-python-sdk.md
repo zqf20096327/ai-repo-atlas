@@ -1,6 +1,6 @@
 # emergentmethods/asknews-python-sdk
 
-⭐ 10 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/emergentmethods/asknews-python-sdk) · [官网](https://docs.asknews.app) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/emergentmethods/asknews-python-sdk) · [官网](https://docs.asknews.app) · 组织维护
 
 **一行代码把新闻接入任意 LLM 的 Python SDK**
 
@@ -45,12 +45,12 @@ AskNews API 的官方 Python SDK，支持 Python 3.10–3.14，通过 pip 安装
 ```mermaid
 xychart-beta
     title "emergentmethods/asknews-python-sdk 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-18 10 → 2026-11-25 10（+0）
+2026-11-18 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # trvon/yams
 
-⭐ 372 · C++ · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/trvon/yams) · [官网](https://yamsmemory.ai/) · 个人维护
+⭐ 372 · C++ · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/trvon/yams) · [官网](https://yamsmemory.ai/) · 个人维护
 
 **面向 LLM 与本地应用的持久化内容寻址记忆存储**
 
@@ -44,13 +44,13 @@ YAMS 是运行在本机的持久化可检索记忆系统：以 SHA-256 内容寻
 
 ```mermaid
 xychart-beta
-    title "trvon/yams 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
+    title "trvon/yams 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 371 --> 374
-    line [372, 373, 372, 372]
+    line [373, 372, 372]
 ```
 
-2026-10-23 372 → 2026-11-25 372（+0）
+2026-10-24 373 → 2026-11-26 372（-1）
 
 
 ---

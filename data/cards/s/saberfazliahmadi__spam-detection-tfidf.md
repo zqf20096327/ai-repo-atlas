@@ -40,6 +40,18 @@
 > L23: This is a research/analysis project rather than a packaged application, so the main value is in the notebook-based 
 > L257: - This repository is mainly a research and analysis project, not a production-ready API or web application.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "saberfazliahmadi/spam-detection-tfidf 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3097dc1eb6b4` · [字段定义](../../DATASET.md)*

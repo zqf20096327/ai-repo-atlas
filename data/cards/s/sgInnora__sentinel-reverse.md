@@ -1,6 +1,6 @@
 # sgInnora/sentinel-reverse
 
-⭐ 86 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/sgInnora/sentinel-reverse) · [官网](https://innora.ai) · 组织维护 · 中文 README
+⭐ 87 · Python · MIT · 推送 2026-02-05 · [GitHub](https://github.com/sgInnora/sentinel-reverse) · [官网](https://innora.ai) · 组织维护 · 中文 README
 
 **面向 Apple Silicon 的本地 LLM 二进制逆向分析 CLI**
 
@@ -46,12 +46,12 @@ Innora-Sentinel 平台逆向引擎的开源抽取版，以 CLI 与 Python API �
 ```mermaid
 xychart-beta
     title "sgInnora/sentinel-reverse 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 83 --> 87
-    line [84, 85, 84, 86, 86]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 83 --> 88
+    line [84, 85, 84, 86, 87]
 ```
 
-2026-10-23 84 → 2026-11-25 86（+2）
+2026-10-24 84 → 2026-11-26 87（+3）
 
 
 ---

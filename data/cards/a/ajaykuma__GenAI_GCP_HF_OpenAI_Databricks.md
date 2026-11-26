@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ajaykuma/GenAI_GCP_HF_OpenAI_Databricks 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-20", "2026-11-25"]
+    title "ajaykuma/GenAI_GCP_HF_OpenAI_Databricks 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 14 --> 19
-    line [15, 16, 17, 18]
+    line [15, 16, 17, 18, 18]
 ```
 
-2026-10-23 15 → 2026-11-25 18（+3）
+2026-10-24 15 → 2026-11-26 18（+3）
 
 
 ---

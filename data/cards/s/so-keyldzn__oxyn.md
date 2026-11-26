@@ -1,6 +1,6 @@
 # so-keyldzn/oxyn
 
-⭐ 13 · Rust · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/so-keyldzn/oxyn) · [官网](https://oxyn.keyldzn.dev/) · 个人维护
+⭐ 14 · Rust · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/so-keyldzn/oxyn) · [官网](https://oxyn.keyldzn.dev/) · 个人维护
 
 **面向数据专业人士的本地数据库工作区，AI 辅助理解库表与查询**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "so-keyldzn/oxyn 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 4 --> 14
-    line [5, 8, 10, 13, 13]
+    x-axis ["2026-10-18", "2026-10-23", "2026-11-01", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 4 --> 15
+    line [5, 8, 10, 13, 14]
 ```
 
-2026-10-18 5 → 2026-11-25 13（+8）
+2026-10-18 5 → 2026-11-26 14（+9）
 
 
 ---

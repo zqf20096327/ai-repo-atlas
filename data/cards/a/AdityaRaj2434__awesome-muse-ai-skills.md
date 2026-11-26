@@ -1,6 +1,6 @@
 # AdityaRaj2434/awesome-muse-ai-skills
 
-⭐ 5 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/AdityaRaj2434/awesome-muse-ai-skills) · 个人维护
+⭐ 6 · MIT · 推送 2026-11-07 · [GitHub](https://github.com/AdityaRaj2434/awesome-muse-ai-skills) · 个人维护
 
 **面向 Muse/Claude 等 agent 的技能策展清单，覆盖视频/语音/3D/工程**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AdityaRaj2434/awesome-muse-ai-skills 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-12", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-10-29", "2026-11-12", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-10-29 3 → 2026-11-25 5（+2）
+2026-10-29 3 → 2026-11-26 6（+3）
 
 
 ---

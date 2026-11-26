@@ -1,6 +1,6 @@
 # continuousintelligence/ci
 
-⭐ 86 · Python · NOASSERTION · 推送 2026-11-18 · [GitHub](https://github.com/continuousintelligence/ci) · [官网](https://www.continuousintelligence.co.uk) · 组织维护
+⭐ 87 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/continuousintelligence/ci) · [官网](https://www.continuousintelligence.co.uk) · 组织维护
 
 **给开发者的时序基础模型：零配置概率预测，2M+ 步历史**
 
@@ -45,13 +45,13 @@ ci-proto 是一个时间序列预测基础模型，以 Python 包 continuousinte
 
 ```mermaid
 xychart-beta
-    title "continuousintelligence/ci 星数(近 11 点)"
-    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 17 --> 92
-    line [23, 51, 62, 69, 74, 78, 80, 81, 82, 84, 86]
+    title "continuousintelligence/ci 星数(近 12 点)"
+    x-axis ["2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 17 --> 93
+    line [23, 51, 62, 69, 74, 78, 80, 81, 82, 84, 86, 87]
 ```
 
-2026-11-12 23 → 2026-11-25 86（+63）
+2026-11-12 23 → 2026-11-26 87（+64）
 
 
 ---

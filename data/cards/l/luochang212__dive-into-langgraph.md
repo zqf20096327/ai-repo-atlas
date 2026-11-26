@@ -1,6 +1,6 @@
 # luochang212/dive-into-langgraph
 
-⭐ 476 · Jupyter Notebook · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/luochang212/dive-into-langgraph) · [官网](http://www.luochang.ink/dive-into-langgraph/) · 个人维护 · 中文 README
+⭐ 478 · Jupyter Notebook · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/luochang212/dive-into-langgraph) · [官网](http://www.luochang.ink/dive-into-langgraph/) · 个人维护 · 中文 README
 
 **Agent 开发者的 LangGraph 1.0 中文开源教程电子书**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "luochang212/dive-into-langgraph 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 460 --> 477
-    line [461, 464, 465, 466, 464, 469, 471, 473, 474, 475, 476, 476]
+    title "luochang212/dive-into-langgraph 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 463 --> 479
+    line [464, 465, 466, 464, 469, 471, 473, 474, 475, 476, 478]
 ```
 
-2026-10-23 461 → 2026-11-25 476（+15）
+2026-10-24 464 → 2026-11-26 478（+14）
 
 
 ---

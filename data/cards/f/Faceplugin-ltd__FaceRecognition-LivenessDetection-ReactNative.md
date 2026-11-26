@@ -1,6 +1,6 @@
 # Faceplugin-ltd/FaceRecognition-LivenessDetection-ReactNative
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-ReactNative) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Faceplugin-ltd/FaceRecognition-LivenessDetection-ReactNative) · [官网](https://faceplugin.com/face-recognition-sdk/) · 组织维护
 
 **React Native 人脸识别+被动活体检测插件，全离线端侧运行**
 
@@ -40,6 +40,18 @@ FacePlugin 提供的 React Native 插件（face-recognition-sdk），含 Android
 > L22: FacePlugin **Face Recognition + Liveness Detection for React Native** runs face recognition and passive liveness en
 > L32: |Face detection (bounding box, landmarks, pose, attributes)|`faceDetection`|
 > L36: |**1:N identification** on a live camera feed|`startVideoWorker` · `syncVideoWorkerDatabase` · `addVideoWorkerFrame
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Faceplugin-ltd/FaceRecognition-LivenessDetection-ReactNative 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 22 --> 25
+    line [23, 24]
+```
+
+2026-11-25 23 → 2026-11-26 24（+1）
 
 
 ---

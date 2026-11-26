@@ -40,6 +40,18 @@
 > L5: Paste the URL of a recipe: Sans extracts it, shows which of the 14 EU regulatory allergens it contains, and can prop
 > L7: Built for the Symfony AI & MCP Hackathon (RAG, MCP, agents). Every allergen verdict comes from a deterministic looku
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "loicsapone/sans 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-25 6 → 2026-11-26 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `8e8245483393` · [字段定义](../../DATASET.md)*

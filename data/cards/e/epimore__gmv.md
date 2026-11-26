@@ -1,6 +1,6 @@
 # epimore/gmv
 
-⭐ 217 · Rust · MIT · 推送 2026-10-09 · [GitHub](https://github.com/epimore/gmv) · 个人维护 · 中文 README
+⭐ 218 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/epimore/gmv) · 个人维护 · 中文 README
 
 **Rust 编写的视音频监控基础设施：接入、流媒体与视觉分析**
 
@@ -46,12 +46,12 @@ GMV 是 Rust 构建的端到端视音频基础设施，分四个模块：Guard�
 ```mermaid
 xychart-beta
     title "epimore/gmv 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 209 --> 218
-    line [210, 214, 217, 217]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 209 --> 219
+    line [210, 214, 217, 218]
 ```
 
-2026-10-23 210 → 2026-11-25 217（+7）
+2026-10-24 210 → 2026-11-26 218（+8）
 
 
 ---

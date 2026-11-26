@@ -1,6 +1,6 @@
 # 47thtechcorner/RayCodes_QwenImage2.1Turbo
 
-⭐ 3 · Python · 推送 2026-10-10 · [GitHub](https://github.com/47thtechcorner/RayCodes_QwenImage2.1Turbo) · [官网](https://youtu.be/cdTB3TgD6OI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **为视频创作者本地生成 4 变体 YouTube 封面的工具**
 

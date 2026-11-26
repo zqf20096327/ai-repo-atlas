@@ -1,6 +1,6 @@
 # wengroup/matten
 
-⭐ 45 · Python · 推送 2026-05-28 · [GitHub](https://github.com/wengroup/matten) · [官网](https://doi.org/10.1039/D3DD00233K) · 组织维护
+⭐ 46 · Python · 推送 2026-05-28 · [GitHub](https://github.com/wengroup/matten) · [官网](https://doi.org/10.1039/D3DD00233K) · 组织维护
 
 **等变图神经网络模型，预测晶体的弹性张量等张量性质**
 
@@ -45,12 +45,12 @@ MatTen 是基于 e3nn 构建的等变图神经网络，用于预测晶体材料�
 ```mermaid
 xychart-beta
     title "wengroup/matten 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-23 45 → 2026-11-25 45（+0）
+2026-10-24 45 → 2026-11-26 46（+1）
 
 
 ---

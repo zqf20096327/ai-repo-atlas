@@ -1,6 +1,6 @@
 # ahmetkumass/yolo-gen
 
-⭐ 41 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/ahmetkumass/yolo-gen) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-04-21 · [GitHub](https://github.com/ahmetkumass/yolo-gen) · 个人维护
 
 **从 YOLO 标签自动生成 VLM 训练数据的一体化训练管线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ahmetkumass/yolo-gen 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-23 41 → 2026-11-25 41（+0）
+2026-10-24 41 → 2026-11-26 42（+1）
 
 
 ---

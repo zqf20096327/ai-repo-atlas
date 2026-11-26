@@ -1,6 +1,6 @@
 # Novartis/torchsurv
 
-⭐ 218 · Python · MIT · 推送 2026-10-28 · [GitHub](https://github.com/Novartis/torchsurv) · [官网](http://opensource.nibr.com/torchsurv/) · 组织维护
+⭐ 218 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Novartis/torchsurv) · [官网](http://opensource.nibr.com/torchsurv/) · 组织维护
 
 **PyTorch 生态的深度生存分析工具包，供自定义神经生存模型使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Novartis/torchsurv 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-26"]
     y-axis "stars" 215 --> 219
     line [216, 217, 218, 218]
 ```
 
-2026-10-23 216 → 2026-11-25 218（+2）
+2026-10-24 216 → 2026-11-26 218（+2）
 
 
 ---

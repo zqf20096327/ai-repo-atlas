@@ -1,6 +1,6 @@
 # legostin/learn-almost-anything
 
-⭐ 19 · TypeScript · 推送 2026-07-01 · [GitHub](https://github.com/legostin/learn-almost-anything) · [官网](https://github.com/legostin/learn-almost-anything/releases) · 个人维护
+⭐ 19 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/legostin/learn-almost-anything) · [官网](https://github.com/legostin/learn-almost-anything/releases) · 个人维护
 
 **本地桌面 AI 导师：把任意主题生成为含测验作业的完整课程**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "legostin/learn-almost-anything 星数(近 8 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-25"]
+    title "legostin/learn-almost-anything 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 20
-    line [10, 12, 13, 10, 14, 15, 18, 19]
+    line [10, 12, 13, 10, 14, 15, 18, 19, 19]
 ```
 
-2026-10-24 10 → 2026-11-25 19（+9）
+2026-10-24 10 → 2026-11-26 19（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # kittisora/top-ai-repos
 
-⭐ 75 · TypeScript · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/kittisora/top-ai-repos) · [官网](https://topairepos.com) · 个人维护
+⭐ 76 · TypeScript · Apache-2.0 · 推送 2026-08-17 · [GitHub](https://github.com/kittisora/top-ai-repos) · [官网](https://topairepos.com) · 个人维护
 
 **开源 AI 仓库发现与追踪站点：按趋势与质量双维度排名**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kittisora/top-ai-repos 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 70 --> 76
-    line [72, 71, 72, 73, 71, 72, 73, 74, 75, 75]
+    title "kittisora/top-ai-repos 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 70 --> 77
+    line [71, 72, 73, 71, 72, 73, 74, 75, 76]
 ```
 
-2026-10-23 72 → 2026-11-25 75（+3）
+2026-10-24 71 → 2026-11-26 76（+5）
 
 
 ---

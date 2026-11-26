@@ -1,6 +1,6 @@
 # egesabanci/gsq-rco-mlx
 
-⭐ 3 · Python · 推送 2026-10-24 · [GitHub](https://github.com/egesabanci/gsq-rco-mlx) · [官网](https://konic.io/research/gsq-rco-mixed-precision-mlx) · 个人维护
+⭐ 4 · Python · 推送 2026-10-24 · [GitHub](https://github.com/egesabanci/gsq-rco-mlx) · [官网](https://konic.io/research/gsq-rco-mixed-precision-mlx) · 个人维护
 
 **在 Apple Silicon 上用 MLX 做低比特 LLM 量化的论文复现库**
 
@@ -39,6 +39,18 @@
 
 > L3: This repository ports two quantization papers to Apple silicon with MLX. **GSQ** (Gumbel-Softmax scalar
 > L47: `gsq-rco run` is resumable. Finished steps are skipped on a rerun. Each step is also its own command
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "egesabanci/gsq-rco-mlx 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

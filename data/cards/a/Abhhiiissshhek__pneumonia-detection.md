@@ -1,6 +1,6 @@
 # Abhhiiissshhek/pneumonia-detection
 
-⭐ 15 · Python · 推送 2026-09-07 · [GitHub](https://github.com/Abhhiiissshhek/pneumonia-detection) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Abhhiiissshhek/pneumonia-detection) · 个人维护
 
 **用 ResNet18 从胸片 X 光图像分类是否患肺炎的深度学习应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Abhhiiissshhek/pneumonia-detection 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 14 --> 17
     line [16, 15, 16, 15, 15]
 ```
 
-2026-10-23 16 → 2026-11-25 15（-1）
+2026-10-24 16 → 2026-11-26 15（-1）
 
 
 ---

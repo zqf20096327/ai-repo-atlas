@@ -1,6 +1,6 @@
 # klausners/course-builder
 
-⭐ 20 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/klausners/course-builder) · 个人维护
+⭐ 21 · Shell · MIT · 推送 2026-10-27 · [GitHub](https://github.com/klausners/course-builder) · 个人维护
 
 **Claude Code 插件：基于真实文章研究并生成结构化课程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "klausners/course-builder 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 17, 18, 19, 20, 20]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 17, 18, 19, 20, 21]
 ```
 
-2026-10-23 17 → 2026-11-25 20（+3）
+2026-10-24 17 → 2026-11-26 21（+4）
 
 
 ---

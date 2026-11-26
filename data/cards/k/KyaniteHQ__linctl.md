@@ -1,6 +1,6 @@
 # KyaniteHQ/linctl
 
-⭐ 12 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KyaniteHQ/linctl) · [官网](https://github.com/KyaniteHQ/linctl) · 组织维护
+⭐ 12 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/KyaniteHQ/linctl) · [官网](https://github.com/KyaniteHQ/linctl) · 组织维护
 
 **给 AI agent 用的 Linear CLI：写入仅限仓库内钉定的团队**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "KyaniteHQ/linctl 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # solarian-dev/solarian
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/solarian-dev/solarian) · [官网](https://solarian.dev) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/solarian-dev/solarian) · [官网](https://solarian.dev) · 组织维护
 
 **给机器人开发者的开源 Python 框架：构建、仿真、训练并部署 AI 机器人**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "solarian-dev/solarian 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 10 --> 24
-    line [11, 15, 19, 21, 23]
+    title "solarian-dev/solarian 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 27
+    line [11, 15, 19, 21, 23, 26]
 ```
 
-2026-11-18 11 → 2026-11-25 23（+12）
+2026-11-18 11 → 2026-11-26 26（+15）
 
 
 ---

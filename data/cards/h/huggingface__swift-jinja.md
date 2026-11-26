@@ -1,6 +1,6 @@
 # huggingface/swift-jinja
 
-⭐ 138 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/huggingface/swift-jinja) · 组织维护
+⭐ 138 · Swift · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/swift-jinja) · 组织维护
 
 **Swift 实现的 Jinja 模板引擎，用于渲染 LLM 聊天模板**
 
@@ -44,13 +44,13 @@ Hugging Face 维护的 Jinja2 模板引擎 Swift 实现，聚焦生成 LLM 聊�
 
 ```mermaid
 xychart-beta
-    title "huggingface/swift-jinja 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 135 --> 139
-    line [136, 137, 138, 138]
+    title "huggingface/swift-jinja 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 136 --> 139
+    line [137, 138, 138]
 ```
 
-2026-10-23 136 → 2026-11-25 138（+2）
+2026-10-24 137 → 2026-11-26 138（+1）
 
 
 ---

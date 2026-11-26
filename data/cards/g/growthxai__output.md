@@ -1,6 +1,6 @@
 # growthxai/output
 
-⭐ 445 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/growthxai/output) · [官网](https://output.ai) · 组织维护
+⭐ 444 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/growthxai/output) · [官网](https://output.ai) · 组织维护
 
 **TypeScript AI 工作流与 agent 构建框架，为 Claude Code 设计**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "growthxai/output 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 442 --> 447
-    line [443, 445, 446, 443, 444, 445, 445]
+    line [443, 445, 446, 443, 444, 445, 444]
 ```
 
-2026-10-23 443 → 2026-11-25 445（+2）
+2026-10-24 443 → 2026-11-26 444（+1）
 
 
 ---

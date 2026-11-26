@@ -1,6 +1,6 @@
 # Surething-io/cockpit
 
-⭐ 48 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Surething-io/cockpit) · [官网](https://opencockpit.dev) · 组织维护 · 中文 README
+⭐ 49 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Surething-io/cockpit) · [官网](https://opencockpit.dev) · 组织维护 · 中文 README
 
 **开源的通用 Claude Code GUI/IDE，多引擎多项目并行的 AI 编码工作台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Surething-io/cockpit 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 43 --> 49
-    line [44, 45, 46, 48, 48]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 43 --> 50
+    line [44, 45, 46, 48, 49]
 ```
 
-2026-10-23 44 → 2026-11-25 48（+4）
+2026-10-24 44 → 2026-11-26 49（+5）
 
 
 ---

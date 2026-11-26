@@ -1,6 +1,6 @@
 # IsacHassle/Swedish-doomsdaykit
 
-⭐ 3 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/IsacHassle/Swedish-doomsdaykit) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/IsacHassle/Swedish-doomsdaykit) · 个人维护
 
 **断网可用的 Mac 离线应急箱：急救、瑞典语 AI 问答与全国地图**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "IsacHassle/Swedish-doomsdaykit 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 4（+1）
 
 
 ---

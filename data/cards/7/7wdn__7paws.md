@@ -1,6 +1,6 @@
 # 7wdn/7paws
 
-⭐ 25 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/7wdn/7paws) · 个人维护 · 中文 README
+⭐ 82 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/7wdn/7paws) · 个人维护 · 中文 README
 
 **Windows/macOS 的 3D 桌宠小猫，支持键鼠互动与 AI 定制配色**
 
@@ -40,6 +40,18 @@
 > L3:  Windows 与 macOS 的 3D 桌面小猫桌宠 全局键鼠响应 · 照片或 AI 定制专属猫咪 · 摸猫呼噜 · 点击穿透
 > L111: ## AI 助手接入（MCP）
 > L113: 7paws 内置一个不依赖 Node/Python 的 stdio MCP 服务。照片由你发给 AI 客户端，AI 读取后生成配色、花纹和斑纹，运行中的小猫约 1 秒内热更新，无需重启。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "7wdn/7paws 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 20 --> 87
+    line [25, 82]
+```
+
+2026-11-25 25 → 2026-11-26 82（+57）
 
 
 ---

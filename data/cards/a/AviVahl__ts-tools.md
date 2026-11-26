@@ -1,6 +1,6 @@
 # AviVahl/ts-tools
 
-⭐ 170 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/AviVahl/ts-tools) · 个人维护
+⭐ 170 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AviVahl/ts-tools) · 个人维护
 
 **Node.js 下直接运行 TypeScript 源码的工具包集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AviVahl/ts-tools 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 169 --> 171
     line [170, 170]
 ```
 
-2026-10-23 170 → 2026-11-25 170（+0）
+2026-10-24 170 → 2026-11-26 170（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # MRDK80/v8unpack-agent
 
-⭐ 10 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/MRDK80/v8unpack-agent) · [官网](https://infostart.ru/1c/articles/2794715/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/MRDK80/v8unpack-agent) · [官网](https://infostart.ru/1c/articles/2794715/) · 个人维护
 
 **为 LLM 工具解析 1С 配置的 Python 库与 CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MRDK80/v8unpack-agent 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

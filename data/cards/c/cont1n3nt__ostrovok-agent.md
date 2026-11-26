@@ -1,6 +1,6 @@
 # cont1n3nt/ostrovok-agent
 
-⭐ 3 · Python · 推送 2026-10-29 · [GitHub](https://github.com/cont1n3nt/ostrovok-agent) · [官网](ostrovok.kosmoweb.ru) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **一次消息生成整套旅行方案的 AI 旅行规划 Agent**
 

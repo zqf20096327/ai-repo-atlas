@@ -1,6 +1,6 @@
 # microsoft/Agent365-Samples
 
-⭐ 113 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agent365-Samples) · 组织维护
+⭐ 113 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/Agent365-Samples) · 组织维护
 
 **微软 Agent 365 SDK 的示例 agent 与提示词集合**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Agent365-Samples 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 111 --> 114
     line [112, 113, 112, 113, 113]
 ```
 
-2026-10-22 112 → 2026-11-25 113（+1）
+2026-10-23 112 → 2026-11-26 113（+1）
 
 
 ---

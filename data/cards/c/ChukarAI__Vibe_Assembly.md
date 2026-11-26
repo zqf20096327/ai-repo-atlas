@@ -1,6 +1,6 @@
 # ChukarAI/Vibe_Assembly
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/ChukarAI/Vibe_Assembly) · 组织维护
+⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/ChukarAI/Vibe_Assembly) · [官网](https://github.com/ChukarAI/Vibe_Assembly/releases/tag/v2.5.2) · 组织维护
 
 **多智能体编码工作台：小 agent 分工维护大项目不超上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ChukarAI/Vibe_Assembly 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-25 10（+0）
+2026-11-20 10 → 2026-11-26 10（+0）
 
 
 ---

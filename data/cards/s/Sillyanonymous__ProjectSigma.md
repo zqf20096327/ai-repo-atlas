@@ -1,6 +1,6 @@
 # Sillyanonymous/ProjectSigma
 
-⭐ 3 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Sillyanonymous/ProjectSigma) · [官网](https://discord.gg/YpWrpqT4DF) · 个人维护
+⭐ 4 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Sillyanonymous/ProjectSigma) · [官网](https://discord.gg/YpWrpqT4DF) · 个人维护
 
 **自托管的 AI 角色卡库：百万级卡片管理、搜索、聊天与站点浏览**
 
@@ -40,6 +40,18 @@
 
 > L41: - Your own AI connection. Any endpoint that speaks the OpenAI-compatible chat API, local
 > L69: - An API underneath. Everything the app does goes through a documented HTTP API: power users can
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Sillyanonymous/ProjectSigma 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # loopmark-opensource/loopmark-agent
 
-⭐ 10 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/loopmark-opensource/loopmark-agent) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/loopmark-opensource/loopmark-agent) · 组织维护
 
 **面向营销人员的 LangGraph AI 助手：社媒/邮件/客诉/线索**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "loopmark-opensource/loopmark-agent 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-23 10 → 2026-11-25 10（+0）
+2026-11-23 10 → 2026-11-26 10（+0）
 
 
 ---

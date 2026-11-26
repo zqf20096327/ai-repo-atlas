@@ -1,6 +1,6 @@
 # brass-lang/brass
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/brass-lang/brass) · [官网](https://brass-lang.github.io/brass/) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/brass-lang/brass) · [官网](https://brass-lang.github.io/brass/) · 个人维护
 
 **为 AI 编写、人类审核而设计的编程语言及配套工具**
 
@@ -46,12 +46,12 @@ Brass 是一门编程语言加配套命令行工具，目标是用更少的 toke
 ```mermaid
 xychart-beta
     title "brass-lang/brass 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-01", "2026-11-25"]
+    x-axis ["2026-10-29", "2026-11-01", "2026-11-26"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-10-29 4 → 2026-11-25 5（+1）
+2026-10-29 4 → 2026-11-26 5（+1）
 
 
 ---

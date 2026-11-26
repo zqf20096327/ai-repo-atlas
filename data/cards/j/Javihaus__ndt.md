@@ -1,6 +1,6 @@
 # Javihaus/ndt
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Javihaus/ndt) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Javihaus/ndt) · 个人维护
 
 **训练期神经网络表征维度监测与检测器效度验证库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Javihaus/ndt 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

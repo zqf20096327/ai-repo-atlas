@@ -45,12 +45,12 @@ ECCV 2024 论文 PointRegGPT 的 PyTorch 实现：从单张深度图出发，施
 ```mermaid
 xychart-beta
     title "Chen-Suyi/PointRegGPT 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 68 --> 70
     line [69, 69]
 ```
 
-2026-10-23 69 → 2026-11-25 69（+0）
+2026-10-24 69 → 2026-11-26 69（+0）
 
 
 ---

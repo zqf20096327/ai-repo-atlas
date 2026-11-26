@@ -1,6 +1,6 @@
 # aldevvv/aestry
 
-⭐ 5 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/aldevvv/aestry) · [官网](https://mhdalif.id/projects/aestry) · 个人维护
+⭐ 6 · TypeScript · 推送 2026-11-21 · [GitHub](https://github.com/aldevvv/aestry) · [官网](https://mhdalif.id/projects/aestry) · 个人维护
 
 **给开发者本地生成应用图标、Logo 和 OG 图片的自托管 AI 工作室**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aldevvv/aestry 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-22 5 → 2026-11-25 5（+0）
+2026-11-22 5 → 2026-11-26 6（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # RRFDunn/aegis-lang
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-03-07 · [GitHub](https://github.com/RRFDunn/aegis-lang) · [官网](https://github.com/RRFDunn/aegis-lang#readme) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-03-07 · [GitHub](https://github.com/RRFDunn/aegis-lang) · [官网](https://github.com/RRFDunn/aegis-lang#readme) · 个人维护
 
 **面向 AI agent 的安全优先编程语言，转译为带运行时防护的 Python**
 
@@ -45,12 +45,12 @@ Aegis 是一门 security-by-construction 的 DSL，将 .aegis 文件转译为 Py
 ```mermaid
 xychart-beta
     title "RRFDunn/aegis-lang 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

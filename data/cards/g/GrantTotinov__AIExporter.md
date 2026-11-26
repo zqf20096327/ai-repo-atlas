@@ -1,6 +1,6 @@
 # GrantTotinov/AIExporter
 
-⭐ 20 · TypeScript · NOASSERTION · 推送 2026-11-09 · [GitHub](https://github.com/GrantTotinov/AIExporter) · [官网](https://granttotinov.github.io/AIExporter/) · 个人维护 · 中文 README
+⭐ 20 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/GrantTotinov/AIExporter) · [官网](https://granttotinov.github.io/AIExporter/) · 个人维护 · 中文 README
 
 **浏览器扩展：将 15 个 AI 聊天站点的对话导出为多种格式文件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GrantTotinov/AIExporter 星数(近 7 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-22", "2026-11-26"]
     y-axis "stars" 10 --> 21
     line [11, 15, 16, 18, 19, 20, 20]
 ```
 
-2026-11-02 11 → 2026-11-25 20（+9）
+2026-11-02 11 → 2026-11-26 20（+9）
 
 
 ---

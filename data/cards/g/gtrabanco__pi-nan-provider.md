@@ -1,6 +1,6 @@
 # gtrabanco/pi-nan-provider
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gtrabanco/pi-nan-provider) · [官网](https://cloud.nan.builders/r/7GK06FX8) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gtrabanco/pi-nan-provider) · [官网](https://cloud.nan.builders/r/7GK06FX8) · 个人维护
 
 **为 pi agent 接入 NaN 平台模型与媒体工具的提供者插件**
 
@@ -45,12 +45,12 @@ pi 的扩展包：通过 pi.registerProvider() 以 NaN 的 OpenAI 兼容 API 注
 ```mermaid
 xychart-beta
     title "gtrabanco/pi-nan-provider 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-26"]
     y-axis "stars" 10 --> 16
     line [11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-23 11 → 2026-11-25 15（+4）
+2026-10-24 11 → 2026-11-26 15（+4）
 
 
 ---

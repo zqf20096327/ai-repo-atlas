@@ -1,6 +1,6 @@
 # isEmmanuelOlowe/llm-explorer
 
-⭐ 22 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/isEmmanuelOlowe/llm-explorer) · [官网](https://llm.labiium.com/) · 个人维护
+⭐ 23 · TypeScript · MIT · 推送 2026-08-24 · [GitHub](https://github.com/isEmmanuelOlowe/llm-explorer) · [官网](https://llm.labiium.com/) · 个人维护
 
 **图表式 LLM 架构与部署估算浏览器：查架构、算显存、配硬件、比云价**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "isEmmanuelOlowe/llm-explorer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

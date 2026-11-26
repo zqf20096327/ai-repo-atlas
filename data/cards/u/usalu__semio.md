@@ -1,6 +1,6 @@
 # usalu/semio
 
-⭐ 21 · HTML · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/usalu/semio) · [官网](https://play.semio-tech.com/) · 组织维护
+⭐ 21 · HTML · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/usalu/semio) · [官网](https://play.semio-tech.com/) · 组织维护
 
 **面向建筑领域的开源设计信息系统与工具生态（Kit-of-Parts 建模）**
 
@@ -48,12 +48,12 @@ semio 是面向建筑与工程设计的 Design-Information-Modeling 生态系统
 ```mermaid
 xychart-beta
     title "usalu/semio 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

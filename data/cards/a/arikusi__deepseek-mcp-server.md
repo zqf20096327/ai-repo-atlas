@@ -1,6 +1,6 @@
 # arikusi/deepseek-mcp-server
 
-⭐ 27 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/arikusi/deepseek-mcp-server) · [官网](https://mcp.tahirl.com) · 个人维护
+⭐ 27 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/arikusi/deepseek-mcp-server) · [官网](https://mcp.tahirl.com) · 个人维护
 
 **面向 MCP 客户端的 DeepSeek 模型接入服务器**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "arikusi/deepseek-mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "arikusi/deepseek-mcp-server 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 25 --> 28
-    line [26, 27]
+    line [26, 27, 27]
 ```
 
-2026-10-23 26 → 2026-11-25 27（+1）
+2026-10-24 26 → 2026-11-26 27（+1）
 
 
 ---

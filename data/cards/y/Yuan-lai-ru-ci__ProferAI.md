@@ -1,6 +1,6 @@
 # Yuan-lai-ru-ci/ProferAI
 
-⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/Yuan-lai-ru-ci/ProferAI) · [官网](https://profer.cn/) · 组织维护 · 中文 README
+⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Yuan-lai-ru-ci/ProferAI) · [官网](https://profer.cn/) · 组织维护 · 中文 README
 
 **桌面端通用 AI Agent 应用：本地执行多步骤任务与定时自动化**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yuan-lai-ru-ci/ProferAI 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 13 --> 18
     line [14, 15, 16, 14, 17, 17]
 ```
 
-2026-10-23 14 → 2026-11-25 17（+3）
+2026-10-24 14 → 2026-11-26 17（+3）
 
 
 ---

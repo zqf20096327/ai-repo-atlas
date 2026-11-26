@@ -1,6 +1,6 @@
 # AIRLab-POLIMI/BTGenBot
 
-⭐ 140 · Jupyter Notebook · MIT · 推送 2026-05-26 · [GitHub](https://github.com/AIRLab-POLIMI/BTGenBot) · 组织维护
+⭐ 139 · Jupyter Notebook · MIT · 推送 2026-05-26 · [GitHub](https://github.com/AIRLab-POLIMI/BTGenBot) · 组织维护
 
 **用轻量 LLM 为机器人生成行为树的系统（含执行与校验）**
 
@@ -46,12 +46,12 @@ IROS 2024 论文的代码发布：用不超过 70 亿参数的 LLM（llama2、ll
 ```mermaid
 xychart-beta
     title "AIRLab-POLIMI/BTGenBot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 139 --> 141
-    line [140, 140]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 138 --> 141
+    line [140, 139]
 ```
 
-2026-10-23 140 → 2026-11-25 140（+0）
+2026-10-24 140 → 2026-11-26 139（-1）
 
 
 ---

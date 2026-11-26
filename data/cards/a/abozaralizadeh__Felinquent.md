@@ -1,6 +1,6 @@
 # abozaralizadeh/Felinquent
 
-⭐ 9 · TypeScript · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/abozaralizadeh/Felinquent) · [官网](https://abozaralizadeh.github.io/Felinquent/) · 个人维护
+⭐ 9 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/abozaralizadeh/Felinquent) · [官网](https://abozaralizadeh.github.io/Felinquent/) · 个人维护
 
 **macOS/Windows 桌面宠物：在真实窗口上自主活动的动物**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "abozaralizadeh/Felinquent 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 7 --> 10
     line [8, 9, 9]
 ```
 
-2026-11-08 8 → 2026-11-25 9（+1）
+2026-11-08 8 → 2026-11-26 9（+1）
 
 
 ---

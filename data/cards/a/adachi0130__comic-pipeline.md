@@ -1,6 +1,6 @@
 # adachi0130/comic-pipeline
 
-⭐ 3 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/adachi0130/comic-pipeline) · 个人维护 · 中文 README
+⭐ 4 · Python · GPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/adachi0130/comic-pipeline) · 个人维护 · 中文 README
 
 **给漫画创作者：从大纲到成册 PDF 的 AI 漫画流水线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adachi0130/comic-pipeline 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 4（+1）
 
 
 ---

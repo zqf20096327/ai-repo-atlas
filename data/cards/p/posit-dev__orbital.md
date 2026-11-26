@@ -1,6 +1,6 @@
 # posit-dev/orbital
 
-⭐ 122 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/posit-dev/orbital) · [官网](https://posit-dev.github.io/orbital/) · 组织维护
+⭐ 122 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/posit-dev/orbital) · [官网](https://posit-dev.github.io/orbital/) · 组织维护
 
 **将 SKLearn 流水线与 PyTorch 前馈网络转为 SQL 查询**
 
@@ -44,12 +44,12 @@ Python 库：解析已训练的 scikit-learn 流水线和 PyTorch 前馈神经�
 ```mermaid
 xychart-beta
     title "posit-dev/orbital 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
     y-axis "stars" 119 --> 123
     line [120, 121, 122, 122]
 ```
 
-2026-10-23 120 → 2026-11-25 122（+2）
+2026-10-24 120 → 2026-11-26 122（+2）
 
 
 ---

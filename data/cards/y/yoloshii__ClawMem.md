@@ -1,6 +1,6 @@
 # yoloshii/ClawMem
 
-⭐ 212 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yoloshii/ClawMem) · 个人维护
+⭐ 212 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yoloshii/ClawMem) · 个人维护
 
 **给 AI 编码 Agent 提供本地持久记忆层：检索、钩子与 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yoloshii/ClawMem 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 210 --> 214
     line [212, 213, 212, 211, 212, 212]
 ```
 
-2026-10-23 212 → 2026-11-25 212（+0）
+2026-10-24 212 → 2026-11-26 212（+0）
 
 
 ---

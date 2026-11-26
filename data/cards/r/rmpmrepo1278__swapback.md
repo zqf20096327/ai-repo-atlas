@@ -1,6 +1,6 @@
 # rmpmrepo1278/swapback
 
-⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rmpmrepo1278/swapback) · [官网](https://pypi.org/project/swapback/) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rmpmrepo1278/swapback) · [官网](https://pypi.org/project/swapback/) · 个人维护
 
 **本地代理：把 PII 替换为占位符后再发给 LLM，回复中还原**
 
@@ -40,6 +40,18 @@
 > L21: Python 3.11 or newer. `swapback demo` runs a fake model with made-up data: no key, no network. The proxy listens on
 > L44: - **Any OpenAI-compatible client**: OpenAI Chat Completions and Responses (the official SDKs, OpenRouter, LiteLLM
 > L46: - **Anthropic Messages**: the Anthropic SDK, plain and streamed, including `tool_use`.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rmpmrepo1278/swapback 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

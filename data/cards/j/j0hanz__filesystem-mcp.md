@@ -1,6 +1,6 @@
 # j0hanz/filesystem-mcp
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/j0hanz/filesystem-mcp) · [官网](https://github.com/j0hanz/filesystem-mcp#readme) · 个人维护
+⭐ 36 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/j0hanz/filesystem-mcp) · [官网](https://github.com/j0hanz/filesystem-mcp#readme) · 个人维护
 
 **给 AI 助手提供安全本地文件操作工具的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "j0hanz/filesystem-mcp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 24 --> 37
-    line [25, 26, 32, 34, 35, 36]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 25 --> 37
+    line [26, 32, 34, 35, 36, 36]
 ```
 
-2026-10-23 25 → 2026-11-25 36（+11）
+2026-10-24 26 → 2026-11-26 36（+10）
 
 
 ---

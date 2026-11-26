@@ -1,6 +1,6 @@
 # efeslab/ConsumerBench
 
-⭐ 22 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/efeslab/ConsumerBench) · [官网](https://consumerbench.github.io/) · 组织维护
+⭐ 23 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/efeslab/ConsumerBench) · [官网](https://consumerbench.github.io/) · 组织维护
 
 **端侧 GenAI 应用的运行时性能基准测试框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "efeslab/ConsumerBench 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

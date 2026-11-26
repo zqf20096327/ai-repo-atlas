@@ -1,6 +1,6 @@
 # krishnakanthb13/antigravity_global_skills
 
-⭐ 69 · Python · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/krishnakanthb13/antigravity_global_skills) · [官网](https://antigravity.google/docs/skills) · 个人维护
+⭐ 70 · Python · NOASSERTION · 推送 2026-07-04 · [GitHub](https://github.com/krishnakanthb13/antigravity_global_skills) · [官网](https://antigravity.google/docs/skills) · 个人维护
 
 **Antigravity IDE 的 22+ 个 agent 技能集：斜杠命令自动化开发任务**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "krishnakanthb13/antigravity_global_skills 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-14", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 64 --> 70
-    line [65, 66, 67, 68, 69, 69]
+    title "krishnakanthb13/antigravity_global_skills 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-22", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 65 --> 71
+    line [66, 67, 68, 69, 70]
 ```
 
-2026-10-23 65 → 2026-11-25 69（+4）
+2026-10-24 66 → 2026-11-26 70（+4）
 
 
 ---

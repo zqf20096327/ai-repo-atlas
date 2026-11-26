@@ -1,6 +1,6 @@
 # microsoft/copilot-studio-plugin
 
-⭐ 105 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/copilot-studio-plugin) · 组织维护
+⭐ 107 · JavaScript · MIT · 推送 2026-10-29 · [GitHub](https://github.com/microsoft/copilot-studio-plugin) · 组织维护
 
 **Copilot Studio 插件：创建、编辑、验证与迁移 GHCP Harness agent**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/copilot-studio-plugin 星数(近 13 点)"
-    x-axis ["2026-10-22", "2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 87 --> 106
-    line [88, 89, 90, 92, 94, 95, 89, 99, 101, 102, 104, 105, 105]
+    title "microsoft/copilot-studio-plugin 星数(近 12 点)"
+    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 88 --> 108
+    line [89, 90, 92, 94, 95, 89, 99, 101, 102, 104, 105, 107]
 ```
 
-2026-10-22 88 → 2026-11-25 105（+17）
+2026-10-23 89 → 2026-11-26 107（+18）
 
 
 ---

@@ -1,6 +1,6 @@
 # yaoleifly/ai-stock-pool
 
-⭐ 113 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yaoleifly/ai-stock-pool) · [官网](https://stocks.mastersgo.cc) · 个人维护 · 中文 README
+⭐ 113 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yaoleifly/ai-stock-pool) · [官网](https://stocks.mastersgo.cc) · 个人维护 · 中文 README
 
 **AI 产业链美股/A股股票池研究工作台：图谱、发现与政策压力**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "yaoleifly/ai-stock-pool 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 109 --> 114
-    line [110, 112, 113, 112, 113, 113]
+    title "yaoleifly/ai-stock-pool 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 111 --> 114
+    line [112, 113, 112, 113, 113]
 ```
 
-2026-10-23 110 → 2026-11-25 113（+3）
+2026-10-24 112 → 2026-11-26 113（+1）
 
 
 ---

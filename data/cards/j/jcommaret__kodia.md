@@ -1,6 +1,6 @@
 # jcommaret/kodia
 
-⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jcommaret/kodia) · 个人维护
+⭐ 39 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/jcommaret/kodia) · 个人维护
 
 **基于 VS Code 的 AI 代码编辑器，自带模型接入**
 
@@ -46,12 +46,12 @@ Kodia 是构建于 VS Code 之上的 AI 代码编辑器，起始为 Void（Curso
 ```mermaid
 xychart-beta
     title "jcommaret/kodia 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 32 --> 38
-    line [33, 34, 33, 36, 37, 37]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 32 --> 40
+    line [33, 34, 33, 36, 37, 39]
 ```
 
-2026-10-23 33 → 2026-11-25 37（+4）
+2026-10-24 33 → 2026-11-26 39（+6）
 
 
 ---

@@ -41,6 +41,18 @@
 > L15: This is **a skill, not an email provider, separate inbox, continuous-monitoring service, or new mailbox connector**
 > L19: Inbox Envoy is designed for intelligent personal agents that can load a skill (a folder with `SKILL.md` plus refere
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "salespeak-ai/inbox-envoy 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ba68f1fbf627` · [字段定义](../../DATASET.md)*

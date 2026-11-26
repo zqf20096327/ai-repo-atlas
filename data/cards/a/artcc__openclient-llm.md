@@ -1,6 +1,6 @@
 # artcc/openclient-llm
 
-⭐ 37 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/artcc/openclient-llm) · [官网](https://www.arturocarreterocalvo.com/openclient-llm) · 个人维护
+⭐ 37 · Swift · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/artcc/openclient-llm) · [官网](https://www.arturocarreterocalvo.com/openclient-llm) · 个人维护
 
 **iOS/iPadOS/macOS 原生 LLM 聊天客户端，连接自有服务器**
 
@@ -45,12 +45,12 @@ SwiftUI 编写的开源 Apple 平台 LLM 客户端：直连用户配置的 LiteL
 ```mermaid
 xychart-beta
     title "artcc/openclient-llm 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 32 --> 38
     line [33, 34, 33, 37, 37]
 ```
 
-2026-10-23 33 → 2026-11-25 37（+4）
+2026-10-24 33 → 2026-11-26 37（+4）
 
 
 ---

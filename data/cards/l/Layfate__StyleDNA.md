@@ -1,6 +1,6 @@
 # Layfate/StyleDNA
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Layfate/StyleDNA) · 个人维护
+⭐ 5 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Layfate/StyleDNA) · 个人维护
 
 **把参考图分析为可复用 AI 风格技能的本地桌面应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Layfate/StyleDNA 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4]
+    title "Layfate/StyleDNA 星数(近 3 点)"
+    x-axis ["2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-16 3 → 2026-11-25 4（+1）
+2026-11-16 3 → 2026-11-26 5（+2）
 
 
 ---

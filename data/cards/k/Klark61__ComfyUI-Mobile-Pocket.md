@@ -1,6 +1,6 @@
 # Klark61/ComfyUI-Mobile-Pocket
 
-⭐ 11 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Klark61/ComfyUI-Mobile-Pocket) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Klark61/ComfyUI-Mobile-Pocket) · 个人维护
 
 **手机上使用 ComfyUI 的移动端界面（Android/iOS）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Klark61/ComfyUI-Mobile-Pocket 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 3 --> 12
-    line [4, 6, 8, 4, 8, 9, 10, 11, 11]
+    x-axis ["2026-10-25", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 3 --> 13
+    line [4, 6, 8, 4, 8, 9, 10, 11, 12]
 ```
 
-2026-10-25 4 → 2026-11-25 11（+7）
+2026-10-25 4 → 2026-11-26 12（+8）
 
 
 ---

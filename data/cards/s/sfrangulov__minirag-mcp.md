@@ -1,6 +1,6 @@
 # sfrangulov/minirag-mcp
 
-⭐ 59 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sfrangulov/minirag-mcp) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/sfrangulov/minirag-mcp) · 个人维护
 
 **本地优先的 RAG MCP 服务器：为 MCP 客户端提供文档混合检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sfrangulov/minirag-mcp 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "sfrangulov/minirag-mcp 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 57 --> 69
-    line [68, 58, 59, 58, 60, 59]
+    line [68, 58, 59, 58, 60, 59, 59]
 ```
 
-2026-10-24 68 → 2026-11-25 59（-9）
+2026-10-24 68 → 2026-11-26 59（-9）
 
 
 ---

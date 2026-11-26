@@ -1,6 +1,6 @@
 # regolo-ai/brick-SR1
 
-⭐ 133 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/regolo-ai/brick-SR1) · [官网](https://regolo.ai) · 组织维护
+⭐ 133 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/regolo-ai/brick-SR1) · [官网](https://regolo.ai) · 组织维护
 
 **LLM 智能路由网关：按提示能力与复杂度分发到模型池**
 
@@ -45,12 +45,12 @@ Brick 是 Mixture-of-Models 路由网关：读取每条提示在编码、数学�
 ```mermaid
 xychart-beta
     title "regolo-ai/brick-SR1 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26"]
     y-axis "stars" 128 --> 134
     line [129, 131, 132, 133, 133]
 ```
 
-2026-10-23 129 → 2026-11-25 133（+4）
+2026-10-24 129 → 2026-11-26 133（+4）
 
 
 ---

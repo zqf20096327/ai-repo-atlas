@@ -1,6 +1,6 @@
 # hasitpbhatt/awesome-ai-apps
 
-⭐ 15 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/hasitpbhatt/awesome-ai-apps) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hasitpbhatt/awesome-ai-apps) · 个人维护
 
 **面向终端用户的 AI 应用与工具分类精选清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hasitpbhatt/awesome-ai-apps 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 15]
+    x-axis ["2026-11-15", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 11 --> 18
+    line [12, 13, 14, 15, 17]
 ```
 
-2026-11-15 12 → 2026-11-25 15（+3）
+2026-11-15 12 → 2026-11-26 17（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # DrivingGodJ/workbuddy-qq-agent-gateway
 
-⭐ 26 · JavaScript · NOASSERTION · 推送 2026-11-21 · [GitHub](https://github.com/DrivingGodJ/workbuddy-qq-agent-gateway) · 个人维护 · 中文 README
+⭐ 26 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/DrivingGodJ/workbuddy-qq-agent-gateway) · 个人维护 · 中文 README
 
 **把本机 WorkBuddy Agent 接入 QQ 群聊/私聊的网关**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DrivingGodJ/workbuddy-qq-agent-gateway 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-14", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-14", "2026-11-16", "2026-11-26"]
     y-axis "stars" 23 --> 27
     line [24, 25, 26, 26]
 ```
 
-2026-11-11 24 → 2026-11-25 26（+2）
+2026-11-11 24 → 2026-11-26 26（+2）
 
 
 ---

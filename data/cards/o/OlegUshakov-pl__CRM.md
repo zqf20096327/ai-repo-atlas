@@ -1,6 +1,6 @@
 # OlegUshakov-pl/CRM
 
-⭐ 13 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/OlegUshakov-pl/CRM) · 个人维护
+⭐ 13 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/OlegUshakov-pl/CRM) · 个人维护
 
 **面向小型制造团队的本地 CRM/ERP，含 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OlegUshakov-pl/CRM 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 12 --> 15
     line [14, 13, 13]
 ```
 
-2026-10-23 14 → 2026-11-25 13（-1）
+2026-10-24 14 → 2026-11-26 13（-1）
 
 
 ---

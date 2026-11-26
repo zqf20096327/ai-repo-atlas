@@ -1,6 +1,6 @@
 # yile2020/fastapi-react-admin
 
-⭐ 257 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yile2020/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 组织维护 · 中文 README
+⭐ 262 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yile2020/fastapi-react-admin) · [官网](https://fra.wubunan.com) · 组织维护 · 中文 README
 
 **FastAPI+React 19 管理后台基座：内置权限、审批与受控 AI 助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yile2020/fastapi-react-admin 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 234 --> 259
-    line [236, 237, 257]
+    title "yile2020/fastapi-react-admin 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 234 --> 264
+    line [236, 237, 257, 262]
 ```
 
-2026-11-20 236 → 2026-11-25 257（+21）
+2026-11-20 236 → 2026-11-26 262（+26）
 
 
 ---

@@ -1,6 +1,6 @@
 # nicedreamzapp/nemotron-omni-mlx
 
-⭐ 14 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [官网](https://nicedreamzwholesale.com/2026/07/16/nvidia-nemotron-omni-mlx-apple-silicon-vision-audio-runtime/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nicedreamzapp/nemotron-omni-mlx) · [官网](https://nicedreamzwholesale.com/2026/07/16/nvidia-nemotron-omni-mlx-apple-silicon-vision-audio-runtime/) · 个人维护
 
 **在 Apple Silicon 上纯 MLX 运行 NVIDIA 三模态 Nemotron Omni 模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nicedreamzapp/nemotron-omni-mlx 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-25"]
+    title "nicedreamzapp/nemotron-omni-mlx 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-25", "2026-11-26"]
     y-axis "stars" 11 --> 16
-    line [12, 13, 14, 15, 14]
+    line [12, 13, 14, 15, 14, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 14（+2）
+2026-10-24 12 → 2026-11-26 14（+2）
 
 
 ---

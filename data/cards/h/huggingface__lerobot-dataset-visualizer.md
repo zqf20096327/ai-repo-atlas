@@ -1,6 +1,6 @@
 # huggingface/lerobot-dataset-visualizer
 
-⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/huggingface/lerobot-dataset-visualizer) · [官网](https://huggingface.co/spaces/lerobot/visualize_dataset) · 组织维护
+⭐ 139 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/huggingface/lerobot-dataset-visualizer) · [官网](https://huggingface.co/spaces/lerobot/visualize_dataset) · 组织维护
 
 **LeRobot 格式机器人数据集的可视化 Web 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/lerobot-dataset-visualizer 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 135 --> 140
     line [136, 137, 136, 138, 139, 139]
 ```
 
-2026-10-23 136 → 2026-11-25 139（+3）
+2026-10-24 136 → 2026-11-26 139（+3）
 
 
 ---

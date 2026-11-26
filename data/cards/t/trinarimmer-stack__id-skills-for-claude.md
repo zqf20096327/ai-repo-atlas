@@ -1,6 +1,6 @@
 # trinarimmer-stack/id-skills-for-claude
 
-⭐ 27 · 推送 2026-03-31 · [GitHub](https://github.com/trinarimmer-stack/id-skills-for-claude) · 个人维护
+⭐ 28 · 推送 2026-03-31 · [GitHub](https://github.com/trinarimmer-stack/id-skills-for-claude) · 个人维护
 
 **给教学设计者的 Claude 技能文件库，赋予领域思维框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "trinarimmer-stack/id-skills-for-claude 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-12", "2026-11-13", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 22 --> 28
-    line [23, 24, 25, 26, 27, 27]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-12", "2026-11-13", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 22 --> 29
+    line [23, 24, 25, 26, 27, 28]
 ```
 
-2026-10-23 23 → 2026-11-25 27（+4）
+2026-10-24 23 → 2026-11-26 28（+5）
 
 
 ---

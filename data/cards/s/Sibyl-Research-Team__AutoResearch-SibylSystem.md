@@ -1,6 +1,6 @@
 # Sibyl-Research-Team/AutoResearch-SibylSystem
 
-⭐ 290 · Python · 推送 2026-03-25 · [GitHub](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) · 组织维护 · 中文 README
+⭐ 291 · Python · 推送 2026-03-25 · [GitHub](https://github.com/Sibyl-Research-Team/AutoResearch-SibylSystem) · 组织维护 · 中文 README
 
 **全自动 AI 科研系统：从选题到论文无人干预**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Sibyl-Research-Team/AutoResearch-SibylSystem 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 287 --> 291
-    line [288, 289, 290, 290]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 287 --> 292
+    line [288, 289, 290, 291]
 ```
 
-2026-10-23 288 → 2026-11-25 290（+2）
+2026-10-24 288 → 2026-11-26 291（+3）
 
 
 ---

@@ -45,12 +45,12 @@ Google DeepMind 论文《Q-Transformer: Scalable Offline Reinforcement Learning 
 ```mermaid
 xychart-beta
     title "lucidrains/q-transformer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 405 --> 407
     line [406, 406]
 ```
 
-2026-10-23 406 → 2026-11-25 406（+0）
+2026-10-24 406 → 2026-11-26 406（+0）
 
 
 ---

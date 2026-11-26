@@ -1,6 +1,6 @@
 # PersiaML/PERSIA
 
-⭐ 411 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/PersiaML/PERSIA) · 组织维护 · 中文 README
+⭐ 411 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/PersiaML/PERSIA) · 组织维护 · 中文 README
 
 **训练万亿至百万亿参数推荐模型的 PyTorch 分布式框架**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "PersiaML/PERSIA 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 409 --> 412
     line [410, 411, 411]
 ```
 
-2026-10-23 410 → 2026-11-25 411（+1）
+2026-10-24 410 → 2026-11-26 411（+1）
 
 
 ---

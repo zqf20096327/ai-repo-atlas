@@ -45,12 +45,12 @@ DeepNLP 运营的 AI Agent 市场与索引服务：从 GitHub/HuggingFace/Produc
 ```mermaid
 xychart-beta
     title "aiagenta2z/ai-agent-marketplace 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-23 58 → 2026-11-25 58（+0）
+2026-10-24 58 → 2026-11-26 58（+0）
 
 
 ---

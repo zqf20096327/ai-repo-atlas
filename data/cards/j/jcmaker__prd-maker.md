@@ -1,6 +1,6 @@
 # jcmaker/prd-maker
 
-⭐ 15 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/jcmaker/prd-maker) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/jcmaker/prd-maker) · 个人维护 · 中文 README
 
 **通过对话式访谈生成 AI 编程代理可执行的 PRD.md 插件**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "jcmaker/prd-maker 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25"]
+    title "jcmaker/prd-maker 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-20", "2026-11-26"]
     y-axis "stars" 12 --> 17
-    line [13, 14, 13, 14, 16, 15, 15]
+    line [14, 13, 14, 16, 15, 16]
 ```
 
-2026-10-23 13 → 2026-11-25 15（+2）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

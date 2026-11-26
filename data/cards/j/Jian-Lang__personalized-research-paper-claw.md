@@ -1,6 +1,6 @@
 # Jian-Lang/personalized-research-paper-claw
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-10-29 · [GitHub](https://github.com/Jian-Lang/personalized-research-paper-claw) · [官网](https://jianlang.org/html/research-paper-claw) · 个人维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Jian-Lang/personalized-research-paper-claw) · [官网](https://jianlang.org/html/research-paper-claw) · 个人维护 · 中文 README
 
 **面向科研者的本地优先论文推荐与笔记系统（Codex/Obsidian）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Jian-Lang/personalized-research-paper-claw 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 14 --> 20
     line [15, 16, 18, 15, 19, 19]
 ```
 
-2026-10-23 15 → 2026-11-25 19（+4）
+2026-10-24 15 → 2026-11-26 19（+4）
 
 
 ---

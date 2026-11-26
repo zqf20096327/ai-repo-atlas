@@ -1,6 +1,6 @@
 # mlmed/torchxrayvision
 
-⭐ 1,220 · Jupyter Notebook · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/mlmed/torchxrayvision) · [官网](https://mlmed.org/torchxrayvision) · 组织维护
+⭐ 1,221 · Jupyter Notebook · NOASSERTION · 推送 2026-10-18 · [GitHub](https://github.com/mlmed/torchxrayvision) · [官网](https://mlmed.org/torchxrayvision) · 组织维护
 
 **胸部 X 光数据集与预训练模型的 PyTorch 库，服务医学影像研究**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlmed/torchxrayvision 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 1214 --> 1221
-    line [1215, 1216, 1215, 1217, 1218, 1216, 1217, 1220]
+    title "mlmed/torchxrayvision 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1214 --> 1222
+    line [1215, 1216, 1215, 1217, 1218, 1216, 1217, 1220, 1221]
 ```
 
-2026-10-23 1,215 → 2026-11-25 1,220（+5）
+2026-10-24 1,215 → 2026-11-26 1,221（+6）
 
 
 ---

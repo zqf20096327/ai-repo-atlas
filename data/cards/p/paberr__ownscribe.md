@@ -1,6 +1,6 @@
 # paberr/ownscribe
 
-⭐ 111 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/paberr/ownscribe) · 个人维护
+⭐ 110 · Python · MIT · 推送 2026-08-14 · [GitHub](https://github.com/paberr/ownscribe) · 个人维护
 
 **本地优先的会议录音转录与摘要命令行工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "paberr/ownscribe 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 110 --> 113
-    line [111, 112, 111, 112, 111, 111]
+    title "paberr/ownscribe 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 109 --> 113
+    line [112, 111, 112, 111, 110]
 ```
 
-2026-10-23 111 → 2026-11-25 111（+0）
+2026-10-24 112 → 2026-11-26 110（-2）
 
 
 ---

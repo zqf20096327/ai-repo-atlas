@@ -1,6 +1,6 @@
 # mateovalle/agent-campus
 
-⭐ 10 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/mateovalle/agent-campus) · [官网](https://mateovalle.github.io/agent-campus/) · 个人维护
+⭐ 10 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mateovalle/agent-campus) · [官网](https://mateovalle.github.io/agent-campus/) · 个人维护
 
 **为 Claude Code agent 提供像素风统一监控与编排的桌面应用**
 
@@ -46,12 +46,12 @@ Electron 桌面应用，把项目文件夹显示为像素地图上的办公室�
 ```mermaid
 xychart-beta
     title "mateovalle/agent-campus 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

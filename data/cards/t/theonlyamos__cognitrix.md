@@ -1,6 +1,6 @@
 # theonlyamos/cognitrix
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/theonlyamos/cognitrix) · 个人维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/theonlyamos/cognitrix) · 个人维护
 
 **开源自主 AI agent 编排框架：创建、管理并运行带工具的 agent**
 
@@ -46,12 +46,12 @@ Python 实现的自主 AI agent 编排框架，提供 Agent 基类创建与管�
 ```mermaid
 xychart-beta
     title "theonlyamos/cognitrix 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # mevarx/Arana
 
-⭐ 5 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mevarx/Arana) · [官网](https://arana.mevarx.xyz/) · 个人维护 · 中文 README
+⭐ 7 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mevarx/Arana) · [官网](https://arana.mevarx.xyz/) · 个人维护 · 中文 README
 
 **给 AI Agent 和脚本提供只读网页访问的 Rust CLI 与本地 MCP**
 
@@ -41,6 +41,18 @@ Arana 是一个 Rust 编写的 CLI 工具，附带本地 MCP 服务器（stdio �
 > L7: Arana reads public web content — pages, repositories, posts, videos, subtitles, stock quotes, and jobs — across 14 p
 > L92: `arana mcp` is a local, read-only server that speaks newline-delimited JSON-RPC 2.0 over stdio:
 > L103: The repository ships one shared skill (`skills/arana/SKILL.md`) plus manifests and setup instructions for eleven h
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mevarx/Arana 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 8
+    line [5, 7]
+```
+
+2026-11-25 5 → 2026-11-26 7（+2）
 
 
 ---

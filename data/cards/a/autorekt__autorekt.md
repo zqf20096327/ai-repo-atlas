@@ -46,12 +46,12 @@ autorekt 是一个 Rust 编写的 CLI，从 OKX、Binance、Yahoo Finance、Cboe
 ```mermaid
 xychart-beta
     title "autorekt/autorekt 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-08 5 → 2026-11-25 5（+0）
+2026-11-08 5 → 2026-11-26 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # kanaworksai-hue/mochitoon
 
-⭐ 11 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/mochitoon) · 组织维护 · 中文 README
+⭐ 12 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/kanaworksai-hue/mochitoon) · 组织维护 · 中文 README
 
 **让 AI 代理一键安装的 Blender 卡通渲染插件**
 
@@ -46,12 +46,12 @@ MochiToon 是一款面向 Blender 4.2+（EEVEE 渲染器）的免费开源插件
 ```mermaid
 xychart-beta
     title "kanaworksai-hue/mochitoon 星数(近 9 点)"
-    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 12
-    line [3, 4, 5, 4, 3, 7, 10, 11, 11]
+    x-axis ["2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 13
+    line [3, 4, 5, 4, 3, 7, 10, 11, 12]
 ```
 
-2026-10-25 3 → 2026-11-25 11（+8）
+2026-10-25 3 → 2026-11-26 12（+9）
 
 
 ---

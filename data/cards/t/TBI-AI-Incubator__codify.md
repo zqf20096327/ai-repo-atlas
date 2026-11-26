@@ -1,6 +1,6 @@
 # TBI-AI-Incubator/codify
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/TBI-AI-Incubator/codify) · [官网](https://codify.centreai.global) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/TBI-AI-Incubator/codify) · [官网](https://codify.centreai.global) · 组织维护
 
 **将法律文本转换为 Akoma Ntoso 结构化 XML 的文档处理工具**
 
@@ -45,12 +45,12 @@ Codify Core 接收 PDF、文本与已有 Akoma Ntoso XML，经 OCR/转录与锚�
 ```mermaid
 xychart-beta
     title "TBI-AI-Incubator/codify 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 10 --> 16
     line [11, 12, 11, 14, 15, 15]
 ```
 
-2026-10-23 11 → 2026-11-25 15（+4）
+2026-10-24 11 → 2026-11-26 15（+4）
 
 
 ---

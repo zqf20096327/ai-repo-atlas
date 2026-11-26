@@ -1,6 +1,6 @@
 # xxDoman/strata-gfx906
 
-⭐ 30 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/xxDoman/strata-gfx906) · [官网](https://hub.docker.com/r/xxdoman/strata-mi50) · 个人维护
+⭐ 31 · Shell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/xxDoman/strata-gfx906) · [官网](https://hub.docker.com/r/xxdoman/strata-mi50) · 个人维护
 
 **面向 AMD gfx906（MI50/MI60/Radeon VII）的 Strata 推理引擎预构建 Docker 镜像**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xxDoman/strata-gfx906 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 14 --> 31
-    line [15, 16, 17, 18, 19, 16, 24, 27, 28, 29, 30, 30]
+    title "xxDoman/strata-gfx906 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 15 --> 32
+    line [16, 17, 18, 19, 16, 24, 27, 28, 29, 30, 31]
 ```
 
-2026-10-23 15 → 2026-11-25 30（+15）
+2026-10-24 16 → 2026-11-26 31（+15）
 
 
 ---

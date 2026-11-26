@@ -1,6 +1,6 @@
 # tagadearpit/Monika-AI
 
-⭐ 10 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/tagadearpit/Monika-AI) · [官网](https://monika-ai-0jpf.onrender.com) · 个人维护
+⭐ 10 · JavaScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tagadearpit/Monika-AI) · [官网](https://monika-ai-0jpf.onrender.com) · 个人维护
 
 **基于 Gemini 的 AI 陪伴聊天应用，带前端与后端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tagadearpit/Monika-AI 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

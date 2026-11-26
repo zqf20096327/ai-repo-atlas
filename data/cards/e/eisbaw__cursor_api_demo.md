@@ -1,6 +1,6 @@
 # eisbaw/cursor_api_demo
 
-⭐ 72 · JavaScript · 推送 2026-04-02 · [GitHub](https://github.com/eisbaw/cursor_api_demo) · 个人维护
+⭐ 72 · JavaScript · 推送 2026-11-24 · [GitHub](https://github.com/eisbaw/cursor_api_demo) · 个人维护
 
 **逆向 Cursor IDE 2.6.22 后端 API 的 Python 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eisbaw/cursor_api_demo 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 71 --> 74
     line [72, 73, 72, 73, 72, 72]
 ```
 
-2026-10-23 72 → 2026-11-25 72（+0）
+2026-10-24 72 → 2026-11-26 72（+0）
 
 
 ---

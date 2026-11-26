@@ -44,12 +44,12 @@ PyTorch 复现苹果论文《MM1: Methods, Analysis & Insights from Multimodal L
 ```mermaid
 xychart-beta
     title "kyegomez/MM1 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-23 26 → 2026-11-25 26（+0）
+2026-10-24 26 → 2026-11-26 26（+0）
 
 
 ---

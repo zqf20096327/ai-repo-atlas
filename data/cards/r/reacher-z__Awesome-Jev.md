@@ -1,6 +1,6 @@
 # reacher-z/Awesome-Jev
 
-⭐ 8 · HTML · MIT · 推送 2026-11-03 · [GitHub](https://github.com/reacher-z/Awesome-Jev) · [官网](https://awesomejev.github.io/) · 组织维护 · 中文 README
+⭐ 7 · HTML · MIT · 推送 2026-11-03 · [GitHub](https://github.com/reacher-z/Awesome-Jev) · [官网](https://awesomejev.github.io/) · 组织维护 · 中文 README
 
 **Jev 与 System One 决策模型的论文/模型/数据集策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "reacher-z/Awesome-Jev 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 4 --> 9
-    line [5, 7, 8, 8]
+    line [5, 7, 8, 7]
 ```
 
-2026-10-23 5 → 2026-11-25 8（+3）
+2026-10-24 5 → 2026-11-26 7（+2）
 
 
 ---

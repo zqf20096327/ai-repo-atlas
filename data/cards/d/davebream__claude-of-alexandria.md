@@ -1,6 +1,6 @@
 # davebream/claude-of-alexandria
 
-⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/davebream/claude-of-alexandria) · [官网](https://github.com/davebream/claude-of-alexandria) · 个人维护
+⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/davebream/claude-of-alexandria) · [官网](https://github.com/davebream/claude-of-alexandria) · 个人维护
 
 **面向圣经研究的 Claude Code 技能插件：产出严谨解经分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "davebream/claude-of-alexandria 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-23 10 → 2026-11-25 10（+0）
+2026-11-23 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # zjunlp/HarnessGrad
 
-⭐ 27 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/zjunlp/HarnessGrad) · [官网](https://zjunlp.github.io/HarnessGrad/) · 组织维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/zjunlp/HarnessGrad) · [官网](https://zjunlp.github.io/HarnessGrad/) · 组织维护 · 中文 README
 
 **运行与比较 agent harness 自我改进方法的实验平台**
 
@@ -46,12 +46,12 @@ HarnessGrad 将一次实验定义为 harness × 方法 × benchmark 的组合：
 ```mermaid
 xychart-beta
     title "zjunlp/HarnessGrad 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 22 --> 28
-    line [23, 24, 25, 26, 27, 27]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-18", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 22 --> 29
+    line [23, 24, 25, 26, 27, 28]
 ```
 
-2026-11-08 23 → 2026-11-25 27（+4）
+2026-11-08 23 → 2026-11-26 28（+5）
 
 
 ---

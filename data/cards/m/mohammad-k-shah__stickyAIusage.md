@@ -1,6 +1,6 @@
 # mohammad-k-shah/stickyAIusage
 
-⭐ 3 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mohammad-k-shah/stickyAIusage) · 个人维护 · 中文 README
+⭐ 5 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mohammad-k-shah/stickyAIusage) · 个人维护 · 中文 README
 
 **在系统栏实时显示 Claude Code 用量与限额的工具**
 
@@ -41,6 +41,18 @@
 > L6: Your Claude Code limits in the Windows taskbar or the Mac menu bar, the time you'll hit them at this pace, and which
 > L74:   A["Claude Code<br/>(terminal, Desktop Code tab, VS Code)"] -->|"its own figures, after each answer"| B["the plugi
 > L104: |🔌 **Straight from Claude Code**|With the companion plugin, Claude Code itself hands over your limits after every 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mohammad-k-shah/stickyAIusage 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
+```
+
+2026-11-25 3 → 2026-11-26 5（+2）
 
 
 ---

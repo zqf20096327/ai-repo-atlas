@@ -41,6 +41,18 @@
 > L9: `/swiftui-skills` extracts internal Apple documentation shipped inside Xcode and turns it into reusable skills that 
 > L122: 1. The installer extracts Apple documentation from your local Xcode install.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ameyalambat/swiftui-skills 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 126 --> 128
+    line [127, 127]
+```
+
+2026-11-25 127 → 2026-11-26 127（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7796a30dfa6c` · [字段定义](../../DATASET.md)*

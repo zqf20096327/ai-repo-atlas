@@ -1,6 +1,6 @@
 # yapengl490-cmd/order-policy-assistant
 
-⭐ 40 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/yapengl490-cmd/order-policy-assistant) · 个人维护 · 中文 README
+⭐ 49 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yapengl490-cmd/order-policy-assistant) · 个人维护 · 中文 README
 
 **给买家与商家做只读订单与售后政策核查的演示应用**
 
@@ -39,6 +39,18 @@
 
 > L3: 面向**买家查询本人订单与适用政策、商家核对授权店铺金额变化**的只读应用。它把数据库事实、政策条件判断与模型解释分开：模型决定调用哪些已允许的工具并组织语言，程序负责身份、数据范围、金额计算、规则校验和执行限额。
 > L131: - 模型工具循环使用显式状态与共享限额；未安装 LangGraph（状态图框架）。检索文本不授予执行权限，模型输出需再次校验。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yapengl490-cmd/order-policy-assistant 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 39 --> 50
+    line [40, 49]
+```
+
+2026-11-25 40 → 2026-11-26 49（+9）
 
 
 ---

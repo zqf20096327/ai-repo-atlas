@@ -1,6 +1,6 @@
 # InCogNiTo124/knarrow
 
-⭐ 20 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/InCogNiTo124/knarrow) · [官网](https://knarrow.readthedocs.io/en/latest/) · 个人维护
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/InCogNiTo124/knarrow) · [官网](https://knarrow.readthedocs.io/en/latest/) · 个人维护
 
 **检测数据序列拐点(knee point)的 Python 库，含 CLI**
 
@@ -43,12 +43,12 @@ knarrow 是一个用多种方法检测曲线拐点(knee point)的 Python 库：�
 ```mermaid
 xychart-beta
     title "InCogNiTo124/knarrow 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 18 --> 21
-    line [19, 20, 20]
+    line [19, 20, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 20（+1）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

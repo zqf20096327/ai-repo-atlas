@@ -1,6 +1,6 @@
 # DreamSoul-AI/RPipe
 
-⭐ 25 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DreamSoul-AI/RPipe) · 个人维护 · 中文 README
+⭐ 25 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DreamSoul-AI/RPipe) · 个人维护 · 中文 README
 
 **研究实验代码架构与执行模板：YAML 声明实验并自动展开运行**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DreamSoul-AI/RPipe 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-10-23 25 → 2026-11-25 25（+0）
+2026-10-24 25 → 2026-11-26 25（+0）
 
 
 ---

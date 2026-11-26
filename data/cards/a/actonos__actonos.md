@@ -1,6 +1,6 @@
 # actonos/actonos
 
-⭐ 54 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/actonos/actonos) · [官网](https://actonos.github.io/docs/) · 组织维护
+⭐ 53 · Go · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/actonos/actonos) · [官网](https://actonos.github.io/docs/) · 组织维护
 
 **面向 MiniPC 的可扩展 AI Agent 操作系统内核，7x24 运行**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "actonos/actonos 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 52 --> 80
-    line [78, 77, 57, 55, 54, 54]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 51 --> 80
+    line [78, 77, 57, 55, 54, 53]
 ```
 
-2026-10-23 78 → 2026-11-25 54（-24）
+2026-10-24 78 → 2026-11-26 53（-25）
 
 
 ---

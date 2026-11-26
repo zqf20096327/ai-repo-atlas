@@ -1,6 +1,6 @@
 # kvyb/opentulpa
 
-⭐ 41 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/kvyb/opentulpa) · 个人维护
+⭐ 42 · Python · MIT · 推送 2026-09-03 · [GitHub](https://github.com/kvyb/opentulpa) · 个人维护
 
 **自我改写源码以适配特定用途的自托管 AI agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kvyb/opentulpa 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 38 --> 42
-    line [39, 41, 41]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 38 --> 43
+    line [39, 41, 42]
 ```
 
-2026-10-23 39 → 2026-11-25 41（+2）
+2026-10-24 39 → 2026-11-26 42（+3）
 
 
 ---

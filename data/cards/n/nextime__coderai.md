@@ -1,6 +1,6 @@
 # nextime/coderai
 
-⭐ 16 · Python · GPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/nextime/coderai) · [官网](https://aisbf.cloud/coderai/) · 个人维护
+⭐ 16 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/nextime/coderai) · [官网](https://aisbf.cloud/coderai/) · 个人维护
 
 **多后端本地/云端 GPU 模型编排器，暴露 OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@ CoderAI 是一个多模态、多后端的模型编排器，通过 OpenAI 兼容 
 ```mermaid
 xychart-beta
     title "nextime/coderai 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 15 --> 28
     line [27, 26, 17, 16, 16]
 ```
 
-2026-10-23 27 → 2026-11-25 16（-11）
+2026-10-24 27 → 2026-11-26 16（-11）
 
 
 ---

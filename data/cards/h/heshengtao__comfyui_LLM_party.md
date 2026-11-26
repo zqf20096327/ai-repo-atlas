@@ -1,6 +1,6 @@
 # heshengtao/comfyui_LLM_party
 
-⭐ 2,393 · Python · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/heshengtao/comfyui_LLM_party) · 个人维护 · 中文 README
+⭐ 2,395 · Python · AGPL-3.0 · 推送 2026-07-29 · [GitHub](https://github.com/heshengtao/comfyui_LLM_party) · 个人维护 · 中文 README
 
 **ComfyUI 里的 LLM 工作流节点集：搭建 Agent/RAG/多模态工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "heshengtao/comfyui_LLM_party 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2383 --> 2395
-    line [2384, 2386, 2385, 2386, 2389, 2390, 2391, 2394, 2393, 2393]
+    title "heshengtao/comfyui_LLM_party 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 2384 --> 2396
+    line [2386, 2385, 2386, 2389, 2390, 2391, 2394, 2393, 2395]
 ```
 
-2026-10-23 2,384 → 2026-11-25 2,393（+9）
+2026-10-24 2,386 → 2026-11-26 2,395（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # vertesia/llumiverse
 
-⭐ 30 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/vertesia/llumiverse) · 组织维护
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/vertesia/llumiverse) · 组织维护
 
 **Node.js/Bun 的多 LLM 提供商统一连接驱动库**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "vertesia/llumiverse 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 30（+0）
 
 
 ---

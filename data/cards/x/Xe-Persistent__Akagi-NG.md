@@ -1,6 +1,6 @@
 # Xe-Persistent/Akagi-NG
 
-⭐ 83 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Xe-Persistent/Akagi-NG) · 组织维护 · 中文 README
+⭐ 83 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Xe-Persistent/Akagi-NG) · 组织维护 · 中文 README
 
 **日本麻将 AI 助手：为雀魂对局提供实时分析与切牌建议**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Xe-Persistent/Akagi-NG 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-25"]
+    title "Xe-Persistent/Akagi-NG 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-25", "2026-11-26"]
     y-axis "stars" 80 --> 84
-    line [82, 81, 82, 81, 82, 83, 82, 83]
+    line [82, 81, 82, 81, 82, 83, 82, 83, 83]
 ```
 
-2026-10-23 82 → 2026-11-25 83（+1）
+2026-10-24 82 → 2026-11-26 83（+1）
 
 
 ---

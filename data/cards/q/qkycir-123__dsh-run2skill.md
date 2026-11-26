@@ -1,6 +1,6 @@
 # qkycir-123/dsh-run2skill
 
-⭐ 109 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/qkycir-123/dsh-run2skill) · 个人维护 · 中文 README
+⭐ 110 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/qkycir-123/dsh-run2skill) · 个人维护 · 中文 README
 
 **DSH 插件：把成功会话经验自动整理为可复用 Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qkycir-123/dsh-run2skill 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-26"]
     y-axis "stars" 103 --> 111
-    line [104, 107, 109, 110, 109, 109]
+    line [104, 107, 109, 110, 109, 110]
 ```
 
-2026-10-23 104 → 2026-11-25 109（+5）
+2026-10-24 104 → 2026-11-26 110（+6）
 
 
 ---

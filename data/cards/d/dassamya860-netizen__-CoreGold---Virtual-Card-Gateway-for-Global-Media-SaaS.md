@@ -1,6 +1,6 @@
 # dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS
 
-⭐ 111 · 推送 2026-10-28 · [GitHub](https://github.com/dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 120 · 推送 2026-10-28 · [GitHub](https://github.com/dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **面向出海企业的 Visa/Mastercard 虚拟卡发卡平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS 星数(近 12 点)"
-    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 5 --> 122
-    line [14, 24, 28, 68, 89, 103, 108, 113, 112, 109, 110, 111]
+    title "dassamya860-netizen/-CoreGold---Virtual-Card-Gateway-for-Global-Media-SaaS 星数(近 13 点)"
+    x-axis ["2026-10-30", "2026-10-31", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 130
+    line [14, 24, 28, 68, 89, 103, 108, 113, 112, 109, 110, 111, 120]
 ```
 
-2026-10-30 14 → 2026-11-25 111（+97）
+2026-10-30 14 → 2026-11-26 120（+106）
 
 
 ---

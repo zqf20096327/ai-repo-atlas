@@ -1,6 +1,6 @@
 # cyrus-cai/notchi
 
-⭐ 37 · Swift · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cyrus-cai/notchi) · [官网](https://notch.website/) · 个人维护 · 中文 README
+⭐ 38 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cyrus-cai/notchi) · [官网](https://notch.website/) · 个人维护 · 中文 README
 
 **在 MacBook 刘海处记笔记、设提醒、问 AI 的 macOS 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cyrus-cai/notchi 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 32 --> 38
-    line [33, 34, 35, 33, 35, 36, 37, 37]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 32 --> 39
+    line [33, 34, 35, 33, 35, 36, 37, 38]
 ```
 
-2026-10-23 33 → 2026-11-25 37（+4）
+2026-10-24 33 → 2026-11-26 38（+5）
 
 
 ---

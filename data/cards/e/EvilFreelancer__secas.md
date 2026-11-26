@@ -1,6 +1,6 @@
 # EvilFreelancer/secas
 
-⭐ 13 · Makefile · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/EvilFreelancer/secas) · 个人维护
+⭐ 14 · Makefile · Apache-2.0 · 推送 2026-10-13 · [GitHub](https://github.com/EvilFreelancer/secas) · 个人维护
 
 **把 AI 编码代理变成受授权约束的信息安全助手的配置集**
 
@@ -47,12 +47,12 @@ SECAS 是一套自包含配置：以 AGENTS.md 定义代理的行为守则（授
 ```mermaid
 xychart-beta
     title "EvilFreelancer/secas 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 13, 13]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 13, 14]
 ```
 
-2026-10-23 11 → 2026-11-25 13（+2）
+2026-10-24 11 → 2026-11-26 14（+3）
 
 
 ---

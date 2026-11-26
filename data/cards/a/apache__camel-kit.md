@@ -1,6 +1,6 @@
 # apache/camel-kit
 
-⭐ 4 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/apache/camel-kit) · [官网](https://camel.apache.org) · 组织维护
+⭐ 4 · Java · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/apache/camel-kit) · [官网](https://camel.apache.org) · 组织维护
 
 **给开发者的 Camel 集成 AI 辅助开发与文档检索工具集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "apache/camel-kit 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    title "apache/camel-kit 星数(近 3 点)"
+    x-axis ["2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

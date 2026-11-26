@@ -1,6 +1,6 @@
 # aisecnomad/Nexus-ShadowScan
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/aisecnomad/Nexus-ShadowScan) · [官网](https://medium.com/@EmmanuelDahunsi) · 个人维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/aisecnomad/Nexus-ShadowScan) · [官网](https://medium.com/@EmmanuelDahunsi) · 个人维护
 
 **扫描组织内影子 AI agent 证据并与已批准清单对账的安全工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aisecnomad/Nexus-ShadowScan 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-16", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-30", "2026-11-06", "2026-11-16", "2026-11-23", "2026-11-26"]
     y-axis "stars" 13 --> 19
     line [14, 16, 17, 16, 17, 18, 18]
 ```
 
-2026-10-18 14 → 2026-11-25 18（+4）
+2026-10-18 14 → 2026-11-26 18（+4）
 
 
 ---

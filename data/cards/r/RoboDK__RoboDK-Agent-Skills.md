@@ -1,6 +1,6 @@
 # RoboDK/RoboDK-Agent-Skills
 
-⭐ 10 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/RoboDK/RoboDK-Agent-Skills) · [官网](https://robodk.com/) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/RoboDK/RoboDK-Agent-Skills) · [官网](https://robodk.com/) · 组织维护
 
 **教 AI agent 操作 RoboDK 的技能包：建模、写 API 代码、生成机器人程序**
 
@@ -47,12 +47,12 @@ RoboDK 官方发布的 agent 技能集合，以 SKILL.md 格式供 Claude Code �
 ```mermaid
 xychart-beta
     title "RoboDK/RoboDK-Agent-Skills 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 3 --> 11
-    line [4, 7, 8, 9, 10, 10]
+    x-axis ["2026-10-18", "2026-10-19", "2026-10-24", "2026-10-25", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 3 --> 12
+    line [4, 7, 8, 9, 10, 11]
 ```
 
-2026-10-18 4 → 2026-11-25 10（+6）
+2026-10-18 4 → 2026-11-26 11（+7）
 
 
 ---

@@ -46,12 +46,12 @@ NVIDIA 维护的推理工具包，将 PyTorch、TensorFlow、ONNX 模型与 Pyth
 ```mermaid
 xychart-beta
     title "triton-inference-server/model_navigator 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 225 --> 227
     line [226, 226]
 ```
 
-2026-10-23 226 → 2026-11-25 226（+0）
+2026-10-24 226 → 2026-11-26 226（+0）
 
 
 ---

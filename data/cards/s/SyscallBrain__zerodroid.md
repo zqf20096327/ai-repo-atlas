@@ -1,6 +1,6 @@
 # SyscallBrain/zerodroid
 
-⭐ 3 · Kotlin · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SyscallBrain/zerodroid) · 组织维护
+⭐ 4 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SyscallBrain/zerodroid) · 组织维护
 
 **ZeroClaw 代理守护进程的原生 Android 手机客户端**
 
@@ -39,6 +39,18 @@ ZeroClaw 守护进程的 Android 客户端，定位为遥控器而非第二个�
 
 > L26: ZeroDroid is a native Android client for the ZeroClaw
 > L32: It is a remote control, not a second runtime: agents, tools, channels and
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SyscallBrain/zerodroid 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

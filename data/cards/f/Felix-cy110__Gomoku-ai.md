@@ -1,6 +1,6 @@
 # Felix-cy110/Gomoku-ai
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/Felix-cy110/Gomoku-ai) · 个人维护 · 中文 README
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Felix-cy110/Gomoku-ai) · 个人维护 · 中文 README
 
 **本机运行 AI 引擎对弈的五子棋桌面客户端**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Felix-cy110/Gomoku-ai 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # bowen-upenn/PersonaMem-v2
 
-⭐ 53 · Python · 推送 2026-09-06 · [GitHub](https://github.com/bowen-upenn/PersonaMem-v2) · [官网](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2) · 组织维护
+⭐ 54 · Python · 推送 2026-09-06 · [GitHub](https://github.com/bowen-upenn/PersonaMem-v2) · [官网](https://huggingface.co/datasets/bowen-upenn/PersonaMem-v2) · 组织维护
 
 **LLM 个性化基准：1000 用户画像、2 万+偏好、300+场景**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bowen-upenn/PersonaMem-v2 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 48 --> 54
-    line [49, 50, 51, 52, 50, 52, 53, 53]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 48 --> 55
+    line [49, 50, 51, 52, 50, 52, 53, 54]
 ```
 
-2026-10-23 49 → 2026-11-25 53（+4）
+2026-10-24 49 → 2026-11-26 54（+5）
 
 
 ---

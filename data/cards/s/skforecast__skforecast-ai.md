@@ -1,6 +1,6 @@
 # skforecast/skforecast-ai
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/skforecast/skforecast-ai) · [官网](https://ai.skforecast.org) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/skforecast/skforecast-ai) · [官网](https://ai.skforecast.org) · 组织维护
 
 **面向分析师/开发者的确定性时间序列预测助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skforecast/skforecast-ai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 51 --> 53
     line [52, 52]
 ```
 
-2026-10-23 52 → 2026-11-25 52（+0）
+2026-10-24 52 → 2026-11-26 52（+0）
 
 
 ---

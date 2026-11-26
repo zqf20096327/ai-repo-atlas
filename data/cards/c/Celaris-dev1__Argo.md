@@ -1,6 +1,6 @@
 # Celaris-dev1/Argo
 
-⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Celaris-dev1/Argo) · [官网](https://argoai.top) · 组织维护 · 中文 README
+⭐ 7 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Celaris-dev1/Argo) · [官网](https://argoai.top) · 组织维护 · 中文 README
 
 **可自托管的持久化 AI 智能体，自带可操作的计算机环境**
 
@@ -40,6 +40,18 @@
 > L11: Argo is an open source AI agent for persistent teammates, and a self-hosted AI assistant you
 > L40: - Browser, terminal, file, and graphical desktop access
 > L89: Open http://127.0.0.1:5173, create an account, and connect a model.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Celaris-dev1/Argo 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 8
+    line [7, 7]
+```
+
+2026-11-25 7 → 2026-11-26 7（+0）
 
 
 ---

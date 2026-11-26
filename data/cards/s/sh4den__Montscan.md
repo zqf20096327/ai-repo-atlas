@@ -1,6 +1,6 @@
 # sh4den/Montscan
 
-⭐ 458 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sh4den/Montscan) · 个人维护
+⭐ 458 · Rust · MIT · 推送 2026-11-13 · [GitHub](https://github.com/sh4den/Montscan) · [官网](https://montscan.github.io) · 个人维护
 
 **自托管扫描文档处理服务：本地视觉模型自动命名归档**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sh4den/Montscan 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
+    title "sh4den/Montscan 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 453 --> 459
-    line [454, 456, 457, 456, 458]
+    line [454, 456, 457, 456, 458, 458]
 ```
 
-2026-10-23 454 → 2026-11-25 458（+4）
+2026-10-24 454 → 2026-11-26 458（+4）
 
 
 ---

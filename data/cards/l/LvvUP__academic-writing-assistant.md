@@ -1,6 +1,6 @@
 # LvvUP/academic-writing-assistant
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/LvvUP/academic-writing-assistant) · 组织维护 · 中文 README
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-11 · [GitHub](https://github.com/LvvUP/academic-writing-assistant) · 组织维护 · 中文 README
 
 **面向中文科研作者的通用学术写作 Agent Skill，保真润色不改数据**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LvvUP/academic-writing-assistant 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 10 --> 25
-    line [11, 12, 13, 11, 16, 17, 19, 20, 21, 22, 24]
+    title "LvvUP/academic-writing-assistant 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 26
+    line [11, 12, 13, 11, 16, 17, 19, 20, 21, 22, 24, 25]
 ```
 
-2026-10-23 11 → 2026-11-25 24（+13）
+2026-10-24 11 → 2026-11-26 25（+14）
 
 
 ---

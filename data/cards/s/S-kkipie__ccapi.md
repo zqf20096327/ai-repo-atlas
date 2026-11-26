@@ -45,12 +45,12 @@ ccapi 通过在 tmux 中运行带两个 mod 的 Claude Code 会话，在 127.0.0
 ```mermaid
 xychart-beta
     title "S-kkipie/ccapi 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-10-26 4 → 2026-11-25 4（+0）
+2026-10-26 4 → 2026-11-26 4（+0）
 
 
 ---

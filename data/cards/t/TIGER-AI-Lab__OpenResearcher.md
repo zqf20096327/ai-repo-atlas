@@ -1,6 +1,6 @@
 # TIGER-AI-Lab/OpenResearcher
 
-⭐ 1,269 · Python · 推送 2026-06-10 · [GitHub](https://github.com/TIGER-AI-Lab/OpenResearcher) · [官网](https://github.com/TIGER-AI-Lab/OpenResearcher) · 组织维护 · 中文 README
+⭐ 1,268 · Python · 推送 2026-06-10 · [GitHub](https://github.com/TIGER-AI-Lab/OpenResearcher) · [官网](https://github.com/TIGER-AI-Lab/OpenResearcher) · 组织维护 · 中文 README
 
 **面向长程深度研究的开源 agentic LLM（30B-A3B）及全流程配方**
 
@@ -45,12 +45,12 @@ TIGER-AI-Lab 发布的深度研究智能体项目：开源 30B-A3B MoE 模型、
 ```mermaid
 xychart-beta
     title "TIGER-AI-Lab/OpenResearcher 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-26"]
     y-axis "stars" 1261 --> 1271
-    line [1263, 1262, 1263, 1264, 1263, 1262, 1268, 1269, 1270, 1269, 1269]
+    line [1263, 1262, 1263, 1264, 1263, 1262, 1268, 1269, 1270, 1269, 1268]
 ```
 
-2026-10-23 1,263 → 2026-11-25 1,269（+6）
+2026-10-24 1,263 → 2026-11-26 1,268（+5）
 
 
 ---

@@ -45,13 +45,13 @@ DHG（DeepHypergraph）是基于 PyTorch 的深度学习库，面向图神经网
 
 ```mermaid
 xychart-beta
-    title "iMoonLab/DeepHypergraph 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 891 --> 895
-    line [892, 893, 894, 894]
+    title "iMoonLab/DeepHypergraph 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 892 --> 895
+    line [893, 894, 894]
 ```
 
-2026-10-23 892 → 2026-11-25 894（+2）
+2026-10-24 893 → 2026-11-26 894（+1）
 
 
 ---

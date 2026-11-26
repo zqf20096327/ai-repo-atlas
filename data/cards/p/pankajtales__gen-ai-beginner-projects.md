@@ -1,6 +1,6 @@
 # pankajtales/gen-ai-beginner-projects
 
-⭐ 14 · Python · MIT · 推送 2026-02-22 · [GitHub](https://github.com/pankajtales/gen-ai-beginner-projects) · 个人维护
+⭐ 15 · Python · MIT · 推送 2026-02-22 · [GitHub](https://github.com/pankajtales/gen-ai-beginner-projects) · 个人维护
 
 **生成式 AI 初学者实战项目集合：动手学提示工程/RAG/Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pankajtales/gen-ai-beginner-projects 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 10 --> 15
-    line [11, 13, 11, 14, 14]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 10 --> 16
+    line [11, 13, 11, 14, 15]
 ```
 
-2026-10-23 11 → 2026-11-25 14（+3）
+2026-10-24 11 → 2026-11-26 15（+4）
 
 
 ---

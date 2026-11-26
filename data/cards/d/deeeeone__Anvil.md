@@ -1,6 +1,6 @@
 # deeeeone/Anvil
 
-⭐ 45 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/deeeeone/Anvil) · 个人维护
+⭐ 46 · Swift · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/deeeeone/Anvil) · 个人维护
 
 **macOS 原生编码 agent：任意模型驱动的本地代码修改工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "deeeeone/Anvil 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 38 --> 46
-    line [39, 45]
+    title "deeeeone/Anvil 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 38 --> 47
+    line [39, 45, 46]
 ```
 
-2026-11-23 39 → 2026-11-25 45（+6）
+2026-11-23 39 → 2026-11-26 46（+7）
 
 
 ---

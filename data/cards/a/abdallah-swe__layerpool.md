@@ -1,6 +1,6 @@
 # abdallah-swe/layerpool
 
-⭐ 9 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/abdallah-swe/layerpool) · [官网](https://pypi.org/project/layerpool/) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/abdallah-swe/layerpool) · [官网](https://pypi.org/project/layerpool/) · 个人维护
 
 **把多台设备的显存合并，分层拆分训练大模型**
 
@@ -45,13 +45,13 @@ layerpool 将一个模型按层拆分到多台设备（笔记本、台式机、�
 
 ```mermaid
 xychart-beta
-    title "abdallah-swe/layerpool 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 10
-    line [3, 9]
+    title "abdallah-swe/layerpool 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 15
+    line [3, 9, 14]
 ```
 
-2026-11-23 3 → 2026-11-25 9（+6）
+2026-11-23 3 → 2026-11-26 14（+11）
 
 
 ---

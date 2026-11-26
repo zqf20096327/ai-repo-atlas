@@ -1,6 +1,6 @@
 # Xenolphthalein/toolbox-for-firefly-iii
 
-⭐ 26 · TypeScript · Unlicense · 推送 2026-04-04 · [GitHub](https://github.com/Xenolphthalein/toolbox-for-firefly-iii) · 个人维护
+⭐ 27 · TypeScript · Unlicense · 推送 2026-04-04 · [GitHub](https://github.com/Xenolphthalein/toolbox-for-firefly-iii) · 个人维护
 
 **Firefly III 交易管理工具箱：去重、订阅分析、AI 分类与银行导入**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Xenolphthalein/toolbox-for-firefly-iii 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 24 --> 27
-    line [25, 26, 25, 26, 26]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 25, 26, 27]
 ```
 
-2026-10-23 25 → 2026-11-25 26（+1）
+2026-10-24 25 → 2026-11-26 27（+2）
 
 
 ---

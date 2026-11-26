@@ -46,12 +46,12 @@ Python 库，读取原始 HTML 构建 DOM 树表示，用 BFS 遍历检测内容
 ```mermaid
 xychart-beta
     title "carlosplanchon/betterhtmlchunking 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 56 --> 58
     line [57, 57]
 ```
 
-2026-10-23 57 → 2026-11-25 57（+0）
+2026-10-24 57 → 2026-11-26 57（+0）
 
 
 ---

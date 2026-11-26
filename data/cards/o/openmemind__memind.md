@@ -1,6 +1,6 @@
 # openmemind/memind
 
-⭐ 906 · Java · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/openmemind/memind) · [官网](https://docs.openmemind.com) · 组织维护 · 中文 README
+⭐ 905 · Java · Apache-2.0 · 推送 2026-08-13 · [GitHub](https://github.com/openmemind/memind) · [官网](https://docs.openmemind.com) · 组织维护 · 中文 README
 
 **Java 原生的 AI agent 记忆与上下文引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "openmemind/memind 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 900 --> 907
-    line [901, 906, 905, 906, 906]
+    line [901, 906, 905, 906, 905]
 ```
 
-2026-10-23 901 → 2026-11-25 906（+5）
+2026-10-24 901 → 2026-11-26 905（+4）
 
 
 ---

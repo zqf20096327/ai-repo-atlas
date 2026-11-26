@@ -1,6 +1,6 @@
 # lfpoulain/yt2md
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lfpoulain/yt2md) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/lfpoulain/yt2md) · 个人维护
 
 **全本地转录 YouTube 频道并生成 RAG 语料库的工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lfpoulain/yt2md 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 6]
+    title "lfpoulain/yt2md 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 6, 7]
 ```
 
-2026-11-22 3 → 2026-11-25 6（+3）
+2026-11-22 3 → 2026-11-26 7（+4）
 
 
 ---

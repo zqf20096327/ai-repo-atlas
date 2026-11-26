@@ -1,6 +1,6 @@
 # midcodehub/miaoCut
 
-⭐ 55 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/midcodehub/miaoCut) · [官网](https://miaocut.app) · 个人维护 · 中文 README
+⭐ 56 · HTML · MIT · 推送 2026-11-16 · [GitHub](https://github.com/midcodehub/miaoCut) · [官网](https://miaocut.app) · 个人维护 · 中文 README
 
 **免注册的在线 AI 图像工具箱：一键抠图、去水印、老照片修复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "midcodehub/miaoCut 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 43 --> 56
-    line [44, 46, 47, 46, 52, 54, 55, 55]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 43 --> 57
+    line [44, 46, 47, 46, 52, 54, 55, 56]
 ```
 
-2026-10-23 44 → 2026-11-25 55（+11）
+2026-10-24 44 → 2026-11-26 56（+12）
 
 
 ---

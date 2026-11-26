@@ -1,6 +1,6 @@
 # smart-byte/pdf-to-einvoice
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/smart-byte/pdf-to-einvoice) · [官网](https://pdf-to-einvoice.app) · 个人维护
+⭐ 4 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/smart-byte/pdf-to-einvoice) · [官网](https://pdf-to-einvoice.app) · 个人维护
 
 **把现有发票 PDF 转成 EN 16931 电子发票，本地运行不上传**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "smart-byte/pdf-to-einvoice 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    title "smart-byte/pdf-to-einvoice 星数(近 3 点)"
+    x-axis ["2026-11-13", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 5
-    line [3, 4]
+    line [3, 4, 4]
 ```
 
-2026-11-13 3 → 2026-11-25 4（+1）
+2026-11-13 3 → 2026-11-26 4（+1）
 
 
 ---

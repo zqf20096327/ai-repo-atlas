@@ -1,6 +1,6 @@
 # insideout-ai/make-it-work
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/insideout-ai/make-it-work) · [官网](https://insideoutai.io/make-it-work) · 组织维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/insideout-ai/make-it-work) · [官网](https://insideoutai.io/make-it-work) · 组织维护
 
 **面向 Claude Code 的代码库上下文与需求工程命令集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "insideout-ai/make-it-work 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-23", "2026-11-25"]
+    title "insideout-ai/make-it-work 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 11 --> 15
-    line [12, 13, 14]
+    line [12, 13, 14, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 14（+2）
+2026-10-24 12 → 2026-11-26 14（+2）
 
 
 ---

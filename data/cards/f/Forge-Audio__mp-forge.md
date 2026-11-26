@@ -1,6 +1,6 @@
 # Forge-Audio/mp-forge
 
-⭐ 8 · Rust · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Forge-Audio/mp-forge) · [官网](https://forge-audio.github.io/mp-forge/) · 组织维护
+⭐ 8 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Forge-Audio/mp-forge) · [官网](https://forge-audio.github.io/mp-forge/) · 组织维护
 
 **为 Akai MPC 生成乐器/效果器插件的桌面 AI 工具**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Forge-Audio/mp-forge 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
+    title "Forge-Audio/mp-forge 星数(近 6 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 9
-    line [3, 4, 6, 7, 8]
+    line [3, 4, 6, 7, 8, 8]
 ```
 
-2026-11-19 3 → 2026-11-25 8（+5）
+2026-11-19 3 → 2026-11-26 8（+5）
 
 
 ---

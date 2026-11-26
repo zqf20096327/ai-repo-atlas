@@ -1,6 +1,6 @@
 # rfivesix/train-libre
 
-⭐ 19 · Dart · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/rfivesix/train-libre) · [官网](https://trainlibre.com/) · 个人维护
+⭐ 19 · Dart · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/rfivesix/train-libre) · [官网](https://trainlibre.com/) · 个人维护
 
 **面向健身者的离线优先训练与营养追踪 App（Android/iOS）**
 
@@ -47,12 +47,12 @@ Flutter 构建的开源健身 App，提供训练记录（PPL/上下分化等模�
 ```mermaid
 xychart-beta
     title "rfivesix/train-libre 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 16 --> 20
     line [17, 18, 17, 19, 19]
 ```
 
-2026-10-23 17 → 2026-11-25 19（+2）
+2026-10-24 17 → 2026-11-26 19（+2）
 
 
 ---

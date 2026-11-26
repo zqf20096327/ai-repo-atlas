@@ -1,6 +1,6 @@
 # Reisenbug/TerraBlind
 
-⭐ 81 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Reisenbug/TerraBlind) · 个人维护 · 中文 README
+⭐ 81 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Reisenbug/TerraBlind) · 个人维护 · 中文 README
 
 **在 Terraria 中实时游玩的 AI Agent（tModLoader 模组）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Reisenbug/TerraBlind 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-22", "2026-11-26"]
     y-axis "stars" 78 --> 82
     line [79, 80, 81, 81]
 ```
 
-2026-11-14 79 → 2026-11-25 81（+2）
+2026-11-14 79 → 2026-11-26 81（+2）
 
 
 ---

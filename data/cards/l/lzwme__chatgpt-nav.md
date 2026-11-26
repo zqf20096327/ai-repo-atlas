@@ -1,6 +1,6 @@
 # lzwme/chatgpt-nav
 
-⭐ 75 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lzwme/chatgpt-nav) · [官网](https://lzw.me/x/chatgpt-sites/) · 个人维护 · 中文 README
+⭐ 75 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lzwme/chatgpt-nav) · [官网](https://lzw.me/x/chatgpt-sites/) · 个人维护 · 中文 README
 
 **AI 聊天与绘图在线工具网址导航清单（837 站）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lzwme/chatgpt-nav 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 73 --> 76
     line [74, 75, 74, 75, 75]
 ```
 
-2026-10-23 74 → 2026-11-25 75（+1）
+2026-10-24 74 → 2026-11-26 75（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # liyupi/free-video-downloader
 
-⭐ 303 · Vue · 推送 2026-11-23 · [GitHub](https://github.com/liyupi/free-video-downloader) · [官网](https://www.codefather.cn/course/2027618983506640897) · 组织维护 · 中文 README
+⭐ 304 · Vue · 推送 2026-11-23 · [GitHub](https://github.com/liyupi/free-video-downloader) · [官网](https://www.codefather.cn/course/2027618983506640897) · 组织维护 · 中文 README
 
 **面向学习者的视频下载加 AI 总结全栈教学项目**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "liyupi/free-video-downloader 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 295 --> 304
-    line [296, 297, 298, 296, 301, 303, 303]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 295 --> 305
+    line [296, 297, 298, 296, 301, 303, 304]
 ```
 
-2026-10-23 296 → 2026-11-25 303（+7）
+2026-10-24 296 → 2026-11-26 304（+8）
 
 
 ---

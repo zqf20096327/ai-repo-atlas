@@ -1,6 +1,6 @@
 # psaegert/flash-ansr
 
-⭐ 12 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/psaegert/flash-ansr) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/psaegert/flash-ansr) · 个人维护
 
 **表格数据符号回归库：预训练模型直接拟合出符号表达式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "psaegert/flash-ansr 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-19", "2026-11-26"]
     y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    line [11, 12, 11]
 ```
 
-2026-11-02 11 → 2026-11-25 12（+1）
+2026-11-02 11 → 2026-11-26 11（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # sunxiaohui2025/AI-Infra-Handbook
 
-⭐ 55 · MDX · 推送 2026-11-22 · [GitHub](https://github.com/sunxiaohui2025/AI-Infra-Handbook) · [官网](https://ai-infra-handbook.sunxiaohui2022.workers.dev/) · 个人维护 · 中文 README
+⭐ 59 · MDX · 推送 2026-11-25 · [GitHub](https://github.com/sunxiaohui2025/AI-Infra-Handbook) · [官网](https://ai-infra-handbook.sunxiaohui2022.workers.dev/) · 个人维护 · 中文 README
 
 **面向工程师的 LLM 推理基础设施交互式课程（153 讲）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunxiaohui2025/AI-Infra-Handbook 星数(近 7 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 59
-    line [6, 13, 38, 44, 47, 51, 55]
+    title "sunxiaohui2025/AI-Infra-Handbook 星数(近 8 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1 --> 64
+    line [6, 13, 38, 44, 47, 51, 55, 59]
 ```
 
-2026-11-18 6 → 2026-11-25 55（+49）
+2026-11-18 6 → 2026-11-26 59（+53）
 
 
 ---

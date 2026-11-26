@@ -1,6 +1,6 @@
 # GramosoftAI/GSearchAI
 
-⭐ 27 · Python · 推送 2026-11-23 · [GitHub](https://github.com/GramosoftAI/GSearchAI) · [官网](https://gsearchai.com/) · 组织维护
+⭐ 27 · Python · 推送 2026-11-25 · [GitHub](https://github.com/GramosoftAI/GSearchAI) · [官网](https://gsearchai.com/) · 组织维护
 
 **自托管企业 AI 搜索与 Graph RAG 平台，面向多租户场景**
 
@@ -46,12 +46,12 @@ MIT 许可的开源后端框架，把 PDF、Excel、网页等非结构化数据�
 ```mermaid
 xychart-beta
     title "GramosoftAI/GSearchAI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-23 27 → 2026-11-25 27（+0）
+2026-10-24 27 → 2026-11-26 27（+0）
 
 
 ---

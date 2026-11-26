@@ -44,12 +44,12 @@ ICCV 2025 论文 Consistency Trajectory Matching for One-Step Generative Super-R
 ```mermaid
 xychart-beta
     title "CVL-UESTC/CTMSR 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-23 60 → 2026-11-25 60（+0）
+2026-10-24 60 → 2026-11-26 60（+0）
 
 
 ---

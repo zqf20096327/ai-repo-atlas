@@ -1,6 +1,6 @@
 # cap-js/mcp-server
 
-⭐ 119 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/cap-js/mcp-server) · [官网](https://cap.cloud.sap/docs) · 组织维护
+⭐ 120 · JavaScript · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/cap-js/mcp-server) · [官网](https://cap.cloud.sap/docs) · 组织维护
 
 **面向 SAP CAP 开发的 MCP 服务器：让 AI 模型检索 CAP 文档与 CDS 模型**
 
@@ -44,13 +44,13 @@ SAP 官方团队 cap-js 维护的 Model Context Protocol 服务器，用于 CAP 
 
 ```mermaid
 xychart-beta
-    title "cap-js/mcp-server 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 116 --> 120
-    line [117, 118, 117, 118, 119]
+    title "cap-js/mcp-server 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 116 --> 121
+    line [117, 118, 117, 118, 119, 120]
 ```
 
-2026-10-23 117 → 2026-11-25 119（+2）
+2026-10-24 117 → 2026-11-26 120（+3）
 
 
 ---

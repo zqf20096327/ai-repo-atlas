@@ -1,6 +1,6 @@
 # mlcommons/storage
 
-⭐ 209 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/mlcommons/storage) · [官网](https://mlcommons.org/en/groups/research-storage/) · 组织维护
+⭐ 210 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/mlcommons/storage) · [官网](https://mlcommons.org/en/groups/research-storage/) · 组织维护
 
 **MLPerf 存储基准套件：评测支撑 ML 工作负载的存储系统性能**
 
@@ -45,12 +45,12 @@ MLCommons 维护的存储基准套件，用 mlpstorage CLI 与基于 DLIO 的 I/
 ```mermaid
 xychart-beta
     title "mlcommons/storage 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 206 --> 210
-    line [207, 208, 207, 208, 209, 209]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 206 --> 211
+    line [207, 208, 207, 208, 209, 210]
 ```
 
-2026-10-23 207 → 2026-11-25 209（+2）
+2026-10-24 207 → 2026-11-26 210（+3）
 
 
 ---

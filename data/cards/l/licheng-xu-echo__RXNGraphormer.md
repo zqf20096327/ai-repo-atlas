@@ -1,6 +1,6 @@
 # licheng-xu-echo/RXNGraphormer
 
-⭐ 61 · Jupyter Notebook · MIT · 推送 2026-08-24 · [GitHub](https://github.com/licheng-xu-echo/RXNGraphormer) · [官网](https://www.nature.com/articles/s42256-025-01098-4) · 组织维护 · 中文 README
+⭐ 62 · Jupyter Notebook · MIT · 推送 2026-08-24 · [GitHub](https://github.com/licheng-xu-echo/RXNGraphormer) · [官网](https://www.nature.com/articles/s42256-025-01098-4) · 组织维护 · 中文 README
 
 **化学反应预测与合成规划的预训练深度学习框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "licheng-xu-echo/RXNGraphormer 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 59 --> 63
+    line [60, 61, 62]
 ```
 
-2026-10-23 60 → 2026-11-25 61（+1）
+2026-10-24 60 → 2026-11-26 62（+2）
 
 
 ---

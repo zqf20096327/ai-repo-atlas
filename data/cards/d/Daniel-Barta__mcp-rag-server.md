@@ -1,6 +1,6 @@
 # Daniel-Barta/mcp-rag-server
 
-⭐ 13 · TypeScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Daniel-Barta/mcp-rag-server) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-05-08 · [GitHub](https://github.com/Daniel-Barta/mcp-rag-server) · 个人维护
 
 **面向 MCP 客户端的轻量级仓库 RAG 检索服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Daniel-Barta/mcp-rag-server 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 10 --> 14
-    line [11, 12, 11, 13, 13]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 10 --> 15
+    line [11, 12, 11, 13, 14]
 ```
 
-2026-10-23 11 → 2026-11-25 13（+2）
+2026-10-24 11 → 2026-11-26 14（+3）
 
 
 ---

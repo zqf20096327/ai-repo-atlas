@@ -1,6 +1,6 @@
 # UCSB-AI/CSPD
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/UCSB-AI/CSPD) · [官网](https://arxiv.org/abs/2611.27376) · 组织维护
+⭐ 13 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/UCSB-AI/CSPD) · [官网](https://arxiv.org/abs/2611.27376) · 组织维护
 
 **给 RL 研究者：把各领域 RL 专家蒸馏为可拼接的软提示**
 
@@ -39,6 +39,18 @@
 
 > L7: Code for **Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training**.
 > L9: RL post-training produces domain experts that must then be consolidated into one model. Weight merging and multi-tea
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "UCSB-AI/CSPD 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 14
+    line [3, 13]
+```
+
+2026-11-25 3 → 2026-11-26 13（+10）
 
 
 ---

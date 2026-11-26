@@ -1,6 +1,6 @@
 # xinrui-z/free-llm
 
-⭐ 27 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xinrui-z/free-llm) · [官网](https://free-llm-apis.pages.dev/) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xinrui-z/free-llm) · [官网](https://free-llm-apis.pages.dev/) · 个人维护 · 中文 README
 
 **免费 LLM API 提供商的实时状态监控仪表盘与清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xinrui-z/free-llm 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
     y-axis "stars" 25 --> 28
     line [26, 27, 27]
 ```
 
-2026-10-23 26 → 2026-11-25 27（+1）
+2026-10-24 26 → 2026-11-26 27（+1）
 
 
 ---

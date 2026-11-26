@@ -1,6 +1,6 @@
 # lucidrains/survival-rl
 
-⭐ 15 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lucidrains/survival-rl) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-10-27 · [GitHub](https://github.com/lucidrains/survival-rl) · 个人维护
 
 **生存分析用于强化学习的探索库：预测事件到达时间并提取策略**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/survival-rl 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 14（-1）
 
 
 ---

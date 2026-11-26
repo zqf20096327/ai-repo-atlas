@@ -46,12 +46,12 @@ NeurIPS 2023 论文 INVERT 的官方代码库，提供 pip 安装的 Python 库�
 ```mermaid
 xychart-beta
     title "lapalap/invert 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # AgriciDaniel/skill-forge
 
-⭐ 190 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/skill-forge) · [官网](https://agricidaniel.com) · 个人维护
+⭐ 193 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/skill-forge) · [官网](https://agricidaniel.com) · 个人维护
 
 **为开发者设计、构建与发布 Claude Code 技能的技能工程工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AgriciDaniel/skill-forge 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 184 --> 191
-    line [185, 186, 187, 185, 187, 188, 189, 190, 190]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 184 --> 194
+    line [185, 186, 187, 185, 187, 188, 189, 190, 193]
 ```
 
-2026-10-23 185 → 2026-11-25 190（+5）
+2026-10-24 185 → 2026-11-26 193（+8）
 
 
 ---

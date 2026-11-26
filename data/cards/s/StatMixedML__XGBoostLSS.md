@@ -1,6 +1,6 @@
 # StatMixedML/XGBoostLSS
 
-⭐ 739 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/StatMixedML/XGBoostLSS) · [官网](https://statmixedml.github.io/XGBoostLSS/) · 个人维护
+⭐ 740 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/StatMixedML/XGBoostLSS) · [官网](https://statmixedml.github.io/XGBoostLSS/) · 个人维护
 
 **XGBoost 的概率建模扩展：预测完整条件分布**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "StatMixedML/XGBoostLSS 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 730 --> 740
-    line [731, 733, 734, 735, 736, 734, 736, 737, 738, 739, 739]
+    title "StatMixedML/XGBoostLSS 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 732 --> 741
+    line [733, 734, 735, 736, 734, 736, 737, 738, 739, 740]
 ```
 
-2026-10-23 731 → 2026-11-25 739（+8）
+2026-10-24 733 → 2026-11-26 740（+7）
 
 
 ---

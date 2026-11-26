@@ -1,6 +1,6 @@
 # agentty-xyz/agentty
 
-⭐ 42 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agentty-xyz/agentty) · [官网](https://agentty.xyz) · 组织维护
+⭐ 44 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/agentty-xyz/agentty) · [官网](https://agentty.xyz) · 组织维护
 
 **终端中的 Agentic 开发环境：统一驱动多款 CLI 编码 agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agentty-xyz/agentty 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 38 --> 43
-    line [39, 40, 41, 40, 41, 42, 42]
+    title "agentty-xyz/agentty 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 39 --> 45
+    line [40, 41, 40, 41, 42, 44]
 ```
 
-2026-10-23 39 → 2026-11-25 42（+3）
+2026-10-24 40 → 2026-11-26 44（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # hexwander/colabhive
 
-⭐ 3 · Go · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/hexwander/colabhive) · [官网](https://hexwander.github.io/colabhive/) · 个人维护 · 中文 README
+⭐ 3 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/hexwander/colabhive) · [官网](https://hexwander.github.io/colabhive/) · 个人维护 · 中文 README
 
 **把多个 Google Colab 账户池化成自托管 GPU 集群与 MCP 路由器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hexwander/colabhive 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

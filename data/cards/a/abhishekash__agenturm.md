@@ -1,6 +1,6 @@
 # abhishekash/agenturm
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/abhishekash/agenturm) · [官网](https://www.agenturm.dev) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/abhishekash/agenturm) · [官网](https://www.agenturm.dev) · 个人维护
 
 **本地终端优先的编程 agent 监控工具：查看每个 agent 请求与调用记录**
 
@@ -47,12 +47,12 @@ Agenturm 读取本地受支持的编程 agent 记录与配置的 OpenTelemetry �
 ```mermaid
 xychart-beta
     title "abhishekash/agenturm 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-25 3（+0）
+2026-11-18 3 → 2026-11-26 3（+0）
 
 
 ---

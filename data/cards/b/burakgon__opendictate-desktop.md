@@ -1,6 +1,6 @@
 # burakgon/opendictate-desktop
 
-⭐ 3 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/burakgon/opendictate-desktop) · [官网](https://github.com/burakgon/opendictate-desktop/releases/latest) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-10 · [GitHub](https://github.com/burakgon/opendictate-desktop) · [官网](https://github.com/burakgon/opendictate-desktop/releases/latest) · 个人维护
 
 **桌面语音输入与语音命令工具：按键即说即录，支持自定义模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "burakgon/opendictate-desktop 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-18", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-18 3 → 2026-11-25 3（+0）
+2026-11-18 3 → 2026-11-26 4（+1）
 
 
 ---

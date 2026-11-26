@@ -1,6 +1,6 @@
 # agenttrailhq/guard
 
-⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/agenttrailhq/guard) · [官网](https://www.agenttrail.sh) · 组织维护
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/agenttrailhq/guard) · [官网](https://www.agenttrail.sh) · 组织维护
 
 **给 AI 编码 agent 加护栏的本地 CLI：工具调用执行前拦截检查**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "agenttrailhq/guard 星数(近 7 点)"
-    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
+    title "agenttrailhq/guard 星数(近 8 点)"
+    x-axis ["2026-10-18", "2026-11-10", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 5 --> 16
-    line [6, 10, 11, 12, 13, 14, 15]
+    line [6, 10, 11, 12, 13, 14, 15, 15]
 ```
 
-2026-10-18 6 → 2026-11-25 15（+9）
+2026-10-18 6 → 2026-11-26 15（+9）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bilzeng/cartoon-studio 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    title "bilzeng/cartoon-studio 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 20 --> 24
-    line [21, 23]
+    line [21, 23, 23]
 ```
 
-2026-11-23 21 → 2026-11-25 23（+2）
+2026-11-23 21 → 2026-11-26 23（+2）
 
 
 ---

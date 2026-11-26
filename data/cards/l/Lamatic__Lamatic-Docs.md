@@ -1,6 +1,6 @@
 # Lamatic/Lamatic-Docs
 
-⭐ 18 · MDX · MIT · 推送 2026-11-20 · [GitHub](https://github.com/Lamatic/Lamatic-Docs) · [官网](https://lamatic.ai/docs) · 组织维护
+⭐ 18 · MDX · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Lamatic/Lamatic-Docs) · [官网](https://lamatic.ai/docs) · 组织维护
 
 **Lamatic.ai 托管平台的产品文档仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Lamatic/Lamatic-Docs 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Starysoor/career-barrier-cli
 
-⭐ 3 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/Starysoor/career-barrier-cli) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Starysoor/career-barrier-cli) · 个人维护 · 中文 README
 
 **为职规大赛学生自动完成生涯闯关答题的 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Starysoor/career-barrier-cli 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

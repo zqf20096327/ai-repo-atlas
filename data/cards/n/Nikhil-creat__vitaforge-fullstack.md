@@ -1,6 +1,6 @@
 # Nikhil-creat/vitaforge-fullstack
 
-⭐ 4 · Python · MIT · 推送 2026-10-10 · [GitHub](https://github.com/Nikhil-creat/vitaforge-fullstack) · [官网](https://nikhil-creat.github.io/vitaforge-fullstack/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **求职者上传简历，获得 ATS 评分与 AI 重写的一页简历**
 
@@ -11,7 +11,7 @@ FastAPI + 浏览器前端的全栈应用：上传 PDF/DOCX/TXT 简历后，本�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

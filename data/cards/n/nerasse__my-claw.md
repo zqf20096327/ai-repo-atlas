@@ -1,6 +1,6 @@
 # nerasse/my-claw
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nerasse/my-claw) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nerasse/my-claw) · [官网](https://nerasse.github.io/my-claw/) · 个人维护
 
 **自托管的单用户 AI agent 编排器，跑在自己的机器上**
 
@@ -41,6 +41,18 @@
 > L3: Self-hosted AI agent orchestrator: one agent, real tools, your own machine.
 > L20: The model is configuration: an OpenAI-compatible endpoint, a ChatGPT or Claude subscription,
 > L21: Gemini, OpenRouter, or a local server. There is no hosted tier. Prompts go to the provider you
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nerasse/my-claw 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

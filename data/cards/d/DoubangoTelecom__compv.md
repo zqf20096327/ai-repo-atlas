@@ -42,13 +42,13 @@ Doubango Telecom 的研究与开发计算机视觉库，面向 ARM 与 x86 设�
 
 ```mermaid
 xychart-beta
-    title "DoubangoTelecom/compv 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "DoubangoTelecom/compv 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 211 --> 214
-    line [212, 213]
+    line [212, 213, 213]
 ```
 
-2026-10-23 212 → 2026-11-25 213（+1）
+2026-10-24 212 → 2026-11-26 213（+1）
 
 
 ---

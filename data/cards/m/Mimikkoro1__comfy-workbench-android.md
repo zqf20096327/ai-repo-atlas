@@ -1,6 +1,6 @@
 # Mimikkoro1/comfy-workbench-android
 
-⭐ 12 · Kotlin · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/Mimikkoro1/comfy-workbench-android) · 个人维护 · 中文 README
+⭐ 13 · Kotlin · GPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/Mimikkoro1/comfy-workbench-android) · 个人维护 · 中文 README
 
 **手机直连自己电脑 ComfyUI 出图的安卓客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Mimikkoro1/comfy-workbench-android 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 7 --> 13
-    line [8, 9, 10, 9, 10, 11, 12, 9, 12, 12]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 7 --> 14
+    line [8, 9, 10, 9, 10, 11, 12, 9, 12, 13]
 ```
 
-2026-10-23 8 → 2026-11-25 12（+4）
+2026-10-24 8 → 2026-11-26 13（+5）
 
 
 ---

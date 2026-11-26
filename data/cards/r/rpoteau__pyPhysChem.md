@@ -1,6 +1,6 @@
 # rpoteau/pyPhysChem
 
-⭐ 15 · Jupyter Notebook · 推送 2026-11-23 · [GitHub](https://github.com/rpoteau/pyPhysChem) · 个人维护
+⭐ 16 · Jupyter Notebook · 推送 2026-11-25 · [GitHub](https://github.com/rpoteau/pyPhysChem) · 个人维护
 
 **物理化学教学用 Jupyter notebook 集合，含化学 ML 示例**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rpoteau/pyPhysChem 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 13 --> 16
-    line [14, 15]
+    title "rpoteau/pyPhysChem 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

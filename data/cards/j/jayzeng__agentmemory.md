@@ -1,6 +1,6 @@
 # jayzeng/agentmemory
 
-⭐ 30 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/jayzeng/agentmemory) · [官网](https://jayzeng.github.io/agentmemory/) · 个人维护
+⭐ 31 · TypeScript · MIT · 推送 2026-09-28 · [GitHub](https://github.com/jayzeng/agentmemory) · [官网](https://jayzeng.github.io/agentmemory/) · 个人维护
 
 **面向编码 agent 的本地持久记忆层（Markdown 存储 + MCP 服务）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jayzeng/agentmemory 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 27 --> 31
-    line [28, 29, 28, 29, 30, 30]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 28, 29, 30, 31]
 ```
 
-2026-10-23 28 → 2026-11-25 30（+2）
+2026-10-24 28 → 2026-11-26 31（+3）
 
 
 ---

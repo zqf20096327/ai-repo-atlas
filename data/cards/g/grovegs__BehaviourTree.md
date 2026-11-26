@@ -1,6 +1,6 @@
 # grovegs/BehaviourTree
 
-⭐ 35 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/grovegs/BehaviourTree) · 组织维护
+⭐ 35 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/grovegs/BehaviourTree) · 组织维护
 
 **面向 .NET/Unity/Godot 的轻量行为树框架**
 
@@ -44,13 +44,13 @@ Grove Games 开发的 C# 行为树框架，用于游戏 AI 行为构建：通过
 
 ```mermaid
 xychart-beta
-    title "grovegs/BehaviourTree 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 31 --> 36
-    line [32, 33, 34, 33, 34, 35, 35]
+    title "grovegs/BehaviourTree 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-10", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 32 --> 36
+    line [33, 34, 33, 34, 35, 35]
 ```
 
-2026-10-23 32 → 2026-11-25 35（+3）
+2026-10-24 33 → 2026-11-26 35（+2）
 
 
 ---

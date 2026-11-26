@@ -46,12 +46,12 @@ Arco Design 官方发布的 AI Skills 仓库：为 @arco-design/web-react（70 �
 ```mermaid
 xychart-beta
     title "arco-design/arco-design-skill 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 71 --> 74
     line [73, 72, 73, 73]
 ```
 
-2026-10-23 73 → 2026-11-25 73（+0）
+2026-10-24 73 → 2026-11-26 73（+0）
 
 
 ---

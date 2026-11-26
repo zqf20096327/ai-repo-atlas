@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "dangkhoasdc/awesome-vector-database 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 361 --> 363
     line [362, 362]
 ```
 
-2026-10-23 362 → 2026-11-25 362（+0）
+2026-10-24 362 → 2026-11-26 362（+0）
 
 
 ---

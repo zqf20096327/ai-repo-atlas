@@ -1,6 +1,6 @@
 # Netesh5/image_background_remover
 
-⭐ 29 · Shell · BSD-3-Clause · 推送 2026-09-13 · [GitHub](https://github.com/Netesh5/image_background_remover) · [官网](https://pub.dev/packages/image_background_remover) · 个人维护
+⭐ 30 · Shell · BSD-3-Clause · 推送 2026-09-13 · [GitHub](https://github.com/Netesh5/image_background_remover) · [官网](https://pub.dev/packages/image_background_remover) · 个人维护
 
 **Flutter 图像抠图包：内置 ONNX 模型离线去除图片背景**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Netesh5/image_background_remover 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 28 --> 31
+    line [29, 30]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 30（+1）
 
 
 ---

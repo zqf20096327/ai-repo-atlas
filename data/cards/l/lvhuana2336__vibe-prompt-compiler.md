@@ -1,6 +1,6 @@
 # lvhuana2336/vibe-prompt-compiler
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lvhuana2336/vibe-prompt-compiler) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lvhuana2336/vibe-prompt-compiler) · 个人维护 · 中文 README
 
 **为 AI 编程工具用户把自然语言想法编译成可执行开发提示词**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lvhuana2336/vibe-prompt-compiler 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-18 3 → 2026-11-25 3（+0）
+2026-11-18 3 → 2026-11-26 3（+0）
 
 
 ---

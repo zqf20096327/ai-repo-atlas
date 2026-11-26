@@ -1,6 +1,6 @@
 # Skull-boy/scyvera
 
-⭐ 25 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Skull-boy/scyvera) · [官网](https://pypi.org/project/scyvera/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Skull-boy/scyvera) · [官网](https://pypi.org/project/scyvera/) · 个人维护
 
 **AI agent 的运行时治理层：声明并强制行为边界**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Skull-boy/scyvera 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 24 --> 26
     line [25, 25]
 ```
 
-2026-11-22 25 → 2026-11-25 25（+0）
+2026-11-22 25 → 2026-11-26 25（+0）
 
 
 ---

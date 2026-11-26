@@ -45,12 +45,12 @@ KunRouter 站点的 Magpie/OpenCode 供应商插件：提供浏览器 PKCE 一�
 ```mermaid
 xychart-beta
     title "MY-Final/opencode-kunrouter-auth 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 3 --> 7
     line [4, 6, 6]
 ```
 
-2026-11-08 4 → 2026-11-25 6（+2）
+2026-11-08 4 → 2026-11-26 6（+2）
 
 
 ---

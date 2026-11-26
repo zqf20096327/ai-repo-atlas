@@ -1,6 +1,6 @@
 # lpaiu-cs/osk-system
 
-⭐ 76 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lpaiu-cs/osk-system) · 个人维护 · 中文 README
+⭐ 75 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/lpaiu-cs/osk-system) · 个人维护 · 中文 README
 
 **给 LLM agent 用的本地 Markdown 记忆运行时（MCP）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lpaiu-cs/osk-system 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 74 --> 77
+    line [76, 75]
 ```
 
-2026-10-23 76 → 2026-11-25 76（+0）
+2026-10-24 76 → 2026-11-26 75（-1）
 
 
 ---

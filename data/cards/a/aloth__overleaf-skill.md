@@ -1,6 +1,6 @@
 # aloth/overleaf-skill
 
-⭐ 26 · Shell · MIT · 推送 2026-11-07 · [GitHub](https://github.com/aloth/overleaf-skill) · 个人维护
+⭐ 27 · Shell · MIT · 推送 2026-11-07 · [GitHub](https://github.com/aloth/overleaf-skill) · 个人维护
 
 **让 AI 助手管理 Overleaf LaTeX 项目的 Agent 技能与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "aloth/overleaf-skill 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 22 --> 27
-    line [23, 24, 23, 24, 25, 26, 26]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 22 --> 28
+    line [23, 24, 23, 24, 25, 26, 27]
 ```
 
-2026-10-23 23 → 2026-11-25 26（+3）
+2026-10-24 23 → 2026-11-26 27（+4）
 
 
 ---

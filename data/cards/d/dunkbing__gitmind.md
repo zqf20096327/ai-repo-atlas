@@ -1,6 +1,6 @@
 # dunkbing/gitmind
 
-⭐ 3 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/dunkbing/gitmind) · [官网](https://gitmind.app) · 个人维护
+⭐ 5 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/dunkbing/gitmind) · [官网](https://gitmind.app) · 个人维护
 
 **为编码 agent 提供基于 git 的共享记忆的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dunkbing/gitmind 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 5（+2）
 
 
 ---

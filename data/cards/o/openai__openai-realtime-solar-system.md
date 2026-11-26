@@ -1,6 +1,6 @@
 # openai/openai-realtime-solar-system
 
-⭐ 517 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/openai/openai-realtime-solar-system) · 组织维护
+⭐ 518 · TypeScript · MIT · 推送 2026-03-04 · [GitHub](https://github.com/openai/openai-realtime-solar-system) · 组织维护
 
 **语音驱动的 3D 太阳系交互 Demo：用 Realtime API 声控场景**
 
@@ -45,12 +45,12 @@ OpenAI 官方演示项目，展示如何通过 Realtime API 与 WebRTC 集成，
 ```mermaid
 xychart-beta
     title "openai/openai-realtime-solar-system 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 512 --> 518
-    line [514, 513, 514, 517, 517]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 512 --> 519
+    line [514, 513, 514, 517, 518]
 ```
 
-2026-10-23 514 → 2026-11-25 517（+3）
+2026-10-24 514 → 2026-11-26 518（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Ashfaaq98/awesome-genai-cyberhub
 
-⭐ 67 · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Ashfaaq98/awesome-genai-cyberhub) · 个人维护
+⭐ 67 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Ashfaaq98/awesome-genai-cyberhub) · 个人维护
 
 **面向网络安全从业者的 LLM 安全资源策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ashfaaq98/awesome-genai-cyberhub 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 58 --> 68
     line [59, 60, 61, 59, 64, 66, 67, 67]
 ```
 
-2026-10-23 59 → 2026-11-25 67（+8）
+2026-10-24 59 → 2026-11-26 67（+8）
 
 
 ---

@@ -45,12 +45,12 @@ Flask Web 应用，整合三类模型：基于 ResNet50v2 的卫星图像野火�
 ```mermaid
 xychart-beta
     title "realOmSahu/Wildfire-Detection 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

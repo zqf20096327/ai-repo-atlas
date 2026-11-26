@@ -1,6 +1,6 @@
 # muxso/Shepherd
 
-⭐ 15 · Rust · GPL-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/muxso/Shepherd) · 组织维护 · 中文 README
+⭐ 15 · Rust · GPL-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/muxso/Shepherd) · 组织维护 · 中文 README
 
 **监督 AI 开发全流程的工程平台：需求拆解、人工审批门与验证**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "muxso/Shepherd 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-18", "2026-11-26"]
     y-axis "stars" 12 --> 16
     line [13, 14, 15, 15]
 ```
 
-2026-10-23 13 → 2026-11-25 15（+2）
+2026-10-24 13 → 2026-11-26 15（+2）
 
 
 ---

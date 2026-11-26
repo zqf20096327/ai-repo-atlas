@@ -1,6 +1,6 @@
 # braincore/hai-cli
 
-⭐ 14 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/braincore/hai-cli) · [官网](https://braincore.github.io/hai-cli/) · 个人维护
+⭐ 14 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/braincore/hai-cli) · [官网](https://braincore.github.io/hai-cli/) · 个人维护
 
 **面向黑客/开发者的 LLM 交互 REPL 命令行工具**
 
@@ -46,12 +46,12 @@ Rust 编写的单一二进制 CLI 工具 hai，提供 REPL 会话界面，支持
 ```mermaid
 xychart-beta
     title "braincore/hai-cli 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 12 --> 15
     line [13, 14, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

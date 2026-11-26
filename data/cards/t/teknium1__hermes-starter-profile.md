@@ -1,6 +1,6 @@
 # teknium1/hermes-starter-profile
 
-⭐ 45 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/teknium1/hermes-starter-profile) · [官网](https://hermes-agent.nousresearch.com/docs/user-guide/profile-distributions) · 个人维护
+⭐ 46 · Python · MIT · 推送 2026-08-09 · [GitHub](https://github.com/teknium1/hermes-starter-profile) · [官网](https://hermes-agent.nousresearch.com/docs/user-guide/profile-distributions) · 个人维护
 
 **Hermes Agent 的新手入门配置包：关闭系统级工具的精简 profile**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "teknium1/hermes-starter-profile 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 40 --> 46
-    line [41, 42, 41, 42, 45, 45]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 40 --> 47
+    line [41, 42, 41, 42, 45, 46]
 ```
 
-2026-10-23 41 → 2026-11-25 45（+4）
+2026-10-24 41 → 2026-11-26 46（+5）
 
 
 ---

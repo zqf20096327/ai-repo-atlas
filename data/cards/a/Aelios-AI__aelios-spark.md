@@ -1,6 +1,6 @@
 # Aelios-AI/aelios-spark
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-07-16 · [GitHub](https://github.com/Aelios-AI/aelios-spark) · [官网](https://www.aeliosai.com/) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-07-16 · [GitHub](https://github.com/Aelios-AI/aelios-spark) · [官网](https://www.aeliosai.com/) · 组织维护
 
 **给 Web 应用加 37 种语言语音控制的开源组件与 Agent 服务端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Aelios-AI/aelios-spark 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

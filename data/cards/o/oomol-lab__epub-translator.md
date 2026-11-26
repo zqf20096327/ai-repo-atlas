@@ -1,6 +1,6 @@
 # oomol-lab/epub-translator
 
-⭐ 885 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oomol-lab/epub-translator) · [官网](https://pdfcraft.ai/epub-translator) · 组织维护 · 中文 README
+⭐ 887 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/oomol-lab/epub-translator) · [官网](https://pdfcraft.ai/epub-translator) · 组织维护 · 中文 README
 
 **用 LLM 将 EPUB 转成保留原文的双语电子书**
 
@@ -46,13 +46,13 @@ Python 库与在线/托管服务，调用 LLM 翻译 EPUB 图书并保留原文�
 
 ```mermaid
 xychart-beta
-    title "oomol-lab/epub-translator 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 872 --> 886
-    line [873, 875, 876, 877, 876, 879, 873, 881, 882, 883, 884, 885]
+    title "oomol-lab/epub-translator 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 872 --> 888
+    line [873, 875, 876, 877, 876, 879, 873, 881, 882, 883, 884, 885, 887]
 ```
 
-2026-10-23 873 → 2026-11-25 885（+12）
+2026-10-24 873 → 2026-11-26 887（+14）
 
 
 ---

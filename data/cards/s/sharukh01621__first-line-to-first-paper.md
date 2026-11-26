@@ -1,6 +1,6 @@
 # sharukh01621/first-line-to-first-paper
 
-⭐ 29 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/sharukh01621/first-line-to-first-paper) · [官网](https://sharukh01621.github.io/first-line-to-first-paper/) · 个人维护
+⭐ 34 · Jupyter Notebook · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/sharukh01621/first-line-to-first-paper) · [官网](https://sharukh01621.github.io/first-line-to-first-paper/) · 个人维护
 
 **面向零基础量化学习者的 860 页 Python/统计/深度学习教材**
 
@@ -39,6 +39,18 @@
 
 > L25: ***From First Line to First Paper*** is an **860-page, 36-chapter** zero-to-researcher textbook paired **1-to-1** w
 > L27: Designed with **zero prior coding prerequisites**, the book guides quantitative students, biostatisticians, public 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "sharukh01621/first-line-to-first-paper 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 28 --> 35
+    line [29, 34]
+```
+
+2026-11-25 29 → 2026-11-26 34（+5）
 
 
 ---

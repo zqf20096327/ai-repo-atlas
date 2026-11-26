@@ -1,6 +1,6 @@
 # ggml-org/llama-pages
 
-⭐ 21 · Svelte · 推送 2026-11-23 · [GitHub](https://github.com/ggml-org/llama-pages) · [官网](https://llama.app) · 组织维护
+⭐ 21 · Svelte · 推送 2026-11-25 · [GitHub](https://github.com/ggml-org/llama-pages) · [官网](https://llama.app) · 组织维护
 
 **llama.cpp 官方网站（建设中）**
 
@@ -40,12 +40,12 @@ llama.cpp 项目的官方网站代码库，README 标注为 Work In Progress，�
 ```mermaid
 xychart-beta
     title "ggml-org/llama-pages 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

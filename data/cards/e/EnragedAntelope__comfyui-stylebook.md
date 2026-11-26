@@ -1,6 +1,6 @@
 # EnragedAntelope/comfyui-stylebook
 
-⭐ 12 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/EnragedAntelope/comfyui-stylebook) · [官网](https://enragedantelope.github.io/comfyui-stylebook/docs/gallery/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/EnragedAntelope/comfyui-stylebook) · [官网](https://enragedantelope.github.io/comfyui-stylebook/docs/gallery/) · 个人维护
 
 **ComfyUI 风格/艺术家/修饰词提示词节点包，含预览图库**
 
@@ -45,12 +45,12 @@ ComfyUI 自定义节点包，提供 700+ 视觉风格（每个含描述、关键
 ```mermaid
 xychart-beta
     title "EnragedAntelope/comfyui-stylebook 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 14
     line [10, 11, 12, 13, 10, 12, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 12（+2）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

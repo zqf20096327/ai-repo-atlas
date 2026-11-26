@@ -1,6 +1,6 @@
 # QuenithAI/Video-Generation-Paper-List
 
-⭐ 170 · 推送 2026-11-14 · [GitHub](https://github.com/QuenithAI/Video-Generation-Paper-List) · 组织维护 · 中文 README
+⭐ 171 · 推送 2026-11-14 · [GitHub](https://github.com/QuenithAI/Video-Generation-Paper-List) · 组织维护 · 中文 README
 
 **视频生成领域论文与模型策展清单（ Awesome List）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "QuenithAI/Video-Generation-Paper-List 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 169 --> 172
-    line [171, 170, 170]
+    line [171, 170, 171]
 ```
 
-2026-10-23 171 → 2026-11-25 170（-1）
+2026-10-24 171 → 2026-11-26 171（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # MatriksData/matriks-mask
 
-⭐ 23 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MatriksData/matriks-mask) · 组织维护
+⭐ 30 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/MatriksData/matriks-mask) · 组织维护
 
 **土耳其文本 PII 可逆脱敏 LiteLLM 防护栏，支持 KVKK 合规**
 
@@ -40,6 +40,18 @@
 
 > L10: Reversible personal data (PII) masking for Turkish text, built as a LiteLLM
 > L88: Minimum LiteLLM version is **1.106.1** (tested with 1.106.1, 1.106.5 and 1.110.2). LiteLLM `config.yaml`:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MatriksData/matriks-mask 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 22 --> 31
+    line [23, 30]
+```
+
+2026-11-25 23 → 2026-11-26 30（+7）
 
 
 ---

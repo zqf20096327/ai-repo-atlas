@@ -1,6 +1,6 @@
 # JKHeadley/instar
 
-⭐ 86 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/JKHeadley/instar) · [官网](https://instar.sh) · 个人维护
+⭐ 86 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/JKHeadley/instar) · [官网](https://instar.sh) · 个人维护
 
 **为 Claude Code/Codex 构建持久化 agent 的基础设施框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "JKHeadley/instar 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 83 --> 87
     line [84, 85, 84, 86, 86]
 ```
 
-2026-10-23 84 → 2026-11-25 86（+2）
+2026-10-24 84 → 2026-11-26 86（+2）
 
 
 ---

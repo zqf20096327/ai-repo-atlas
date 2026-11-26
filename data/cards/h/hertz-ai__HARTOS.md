@@ -1,6 +1,6 @@
 # hertz-ai/HARTOS
 
-⭐ 52 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/hertz-ai/HARTOS) · [官网](https://docs.hevolve.ai/) · 组织维护
+⭐ 52 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/hertz-ai/HARTOS) · [官网](https://docs.hevolve.ai/) · 组织维护
 
 **面向开发者与终端用户的本地优先 AI 原生运行时/OS**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "hertz-ai/HARTOS 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
     y-axis "stars" 50 --> 53
     line [51, 52, 52]
 ```
 
-2026-10-23 51 → 2026-11-25 52（+1）
+2026-10-24 51 → 2026-11-26 52（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Dicklesworthstone/fast_vector_similarity
 
-⭐ 429 · Rust · 推送 2026-11-01 · [GitHub](https://github.com/Dicklesworthstone/fast_vector_similarity) · [官网](https://pypi.org/project/fast-vector-similarity/) · 个人维护
+⭐ 430 · Rust · 推送 2026-11-01 · [GitHub](https://github.com/Dicklesworthstone/fast_vector_similarity) · [官网](https://pypi.org/project/fast-vector-similarity/) · 个人维护
 
 **Rust 向量相似度计算库，提供 Python 绑定与多种相关性度量**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Dicklesworthstone/fast_vector_similarity 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-21", "2026-11-26"]
     y-axis "stars" 428 --> 431
-    line [429, 430, 429, 429]
+    line [429, 430, 429, 430]
 ```
 
-2026-10-23 429 → 2026-11-25 429（+0）
+2026-10-24 429 → 2026-11-26 430（+1）
 
 
 ---

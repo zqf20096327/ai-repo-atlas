@@ -1,6 +1,6 @@
 # DiegoLopez0208/RpgMakerMVUltimate-MCP
 
-⭐ 32 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/DiegoLopez0208/RpgMakerMVUltimate-MCP) · [官网](https://www.npmjs.com/package/rpgmaker-mv-mcp) · 个人维护
+⭐ 33 · TypeScript · MIT · 推送 2026-10-12 · [GitHub](https://github.com/DiegoLopez0208/RpgMakerMVUltimate-MCP) · [官网](https://www.npmjs.com/package/rpgmaker-mv-mcp) · 个人维护
 
 **让 AI agent 检查、编辑并试玩 RPG Maker MV 项目的 MCP 服务器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DiegoLopez0208/RpgMakerMVUltimate-MCP 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 27 --> 33
-    line [28, 30, 28, 30, 31, 32, 31, 32, 32]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 27 --> 34
+    line [28, 30, 28, 30, 31, 32, 31, 32, 33]
 ```
 
-2026-10-23 28 → 2026-11-25 32（+4）
+2026-10-24 28 → 2026-11-26 33（+5）
 
 
 ---

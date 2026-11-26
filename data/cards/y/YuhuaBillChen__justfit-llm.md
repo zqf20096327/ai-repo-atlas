@@ -1,6 +1,6 @@
 # YuhuaBillChen/justfit-llm
 
-⭐ 14 · C++ · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/YuhuaBillChen/justfit-llm) · [官网](https://yuhuachen.com/justfit) · 个人维护
+⭐ 14 · C++ · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/YuhuaBillChen/justfit-llm) · [官网](https://yuhuachen.com/justfit) · 个人维护
 
 **在 24GB Mac 上运行 Qwen3.8-27B 全 256K 上下文的本地推理服务**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "YuhuaBillChen/justfit-llm 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    title "YuhuaBillChen/justfit-llm 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 11 --> 15
-    line [12, 14]
+    line [12, 14, 14]
 ```
 
-2026-11-23 12 → 2026-11-25 14（+2）
+2026-11-23 12 → 2026-11-26 14（+2）
 
 
 ---

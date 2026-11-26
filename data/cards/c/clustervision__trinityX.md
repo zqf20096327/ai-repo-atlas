@@ -1,6 +1,6 @@
 # clustervision/trinityX
 
-⭐ 131 · Jinja · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/clustervision/trinityX) · 组织维护
+⭐ 132 · Jinja · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/clustervision/trinityX) · 组织维护
 
 **企业级 HPC/AI 集群部署管理平台，供集群管理员快速搭建集群**
 
@@ -45,12 +45,12 @@ ClusterVision 开源的 HPC、AI 与云集群部署平台，基于 Ansible playb
 ```mermaid
 xychart-beta
     title "clustervision/trinityX 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 128 --> 132
-    line [129, 130, 129, 131, 131]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 128 --> 133
+    line [129, 130, 129, 131, 132]
 ```
 
-2026-10-23 129 → 2026-11-25 131（+2）
+2026-10-24 129 → 2026-11-26 132（+3）
 
 
 ---

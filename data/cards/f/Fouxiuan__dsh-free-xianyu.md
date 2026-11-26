@@ -1,6 +1,6 @@
 # Fouxiuan/dsh-free-xianyu
 
-⭐ 7 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Fouxiuan/dsh-free-xianyu) · 个人维护 · 中文 README
+⭐ 8 · HTML · MIT · 推送 2026-11-14 · [GitHub](https://github.com/Fouxiuan/dsh-free-xianyu) · 个人维护 · 中文 README
 
 **把闲鱼二手商品监控装进 DeepSeek Harness 的免费模型插件**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Fouxiuan/dsh-free-xianyu 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 5, 6, 7]
+    title "Fouxiuan/dsh-free-xianyu 星数(近 6 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 5, 6, 7, 8]
 ```
 
-2026-11-13 3 → 2026-11-25 7（+4）
+2026-11-13 3 → 2026-11-26 8（+5）
 
 
 ---

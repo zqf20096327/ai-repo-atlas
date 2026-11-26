@@ -1,6 +1,6 @@
 # JawherKl/AegisOps
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/JawherKl/AegisOps) · 个人维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/JawherKl/AegisOps) · 个人维护
 
 **面向研究者的 LLM+DevOps 自动化可复现实验平台**
 
@@ -40,6 +40,18 @@
 > L13: AegisOps is an **open, reproducible research testbed** for investigating how Large Language Models (LLMs) and class
 > L30: > **Research context.** This repository is the artifact companion to a PhD thesis on AI-augmented DevOps automation
 > L42: |5|Baseline RCA agent|🔄 Next|Ollama-backed agentic loop|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "JawherKl/AegisOps 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 12
+    line [4, 11]
+```
+
+2026-11-25 4 → 2026-11-26 11（+7）
 
 
 ---

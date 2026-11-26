@@ -1,6 +1,6 @@
 # linny006/llm-agents-radar
 
-⭐ 15 · Python · 推送 2026-11-02 · [GitHub](https://github.com/linny006/llm-agents-radar) · [官网](https://github.com/linny006?utm_source=github&utm_medium=about&utm_campaign=llm-agents-radar) · 个人维护 · 中文 README
+⭐ 16 · Python · 推送 2026-11-02 · [GitHub](https://github.com/linny006/llm-agents-radar) · [官网](https://github.com/linny006?utm_source=github&utm_medium=about&utm_campaign=llm-agents-radar) · 个人维护 · 中文 README
 
 **LLM agent 框架的自动更新索引，GitHub 每 15 分钟刷新**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "linny006/llm-agents-radar 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "linny006/llm-agents-radar 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 13 --> 17
-    line [14, 15, 14, 16, 15]
+    line [14, 15, 14, 16, 15, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # artk0de/TeaRAGs-MCP
 
-⭐ 33 · TypeScript · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/artk0de/TeaRAGs-MCP) · [官网](https://artk0de.github.io/TeaRAGs-MCP/) · 个人维护
+⭐ 33 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/artk0de/TeaRAGs-MCP) · [官网](https://artk0de.github.io/TeaRAGs-MCP/) · 个人维护
 
 **给 AI 编程代理的代码库情报层：五层索引经 MCP 供查询**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "artk0de/TeaRAGs-MCP 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 28 --> 34
     line [29, 30, 31, 32, 33, 33]
 ```
 
-2026-10-23 29 → 2026-11-25 33（+4）
+2026-10-24 29 → 2026-11-26 33（+4）
 
 
 ---

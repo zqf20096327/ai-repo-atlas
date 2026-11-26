@@ -1,6 +1,6 @@
 # sinanuozdemir/advanced-ai-intensive
 
-⭐ 44 · Jupyter Notebook · 推送 2026-07-29 · [GitHub](https://github.com/sinanuozdemir/advanced-ai-intensive) · [官网](https://www.oreilly.com/live-events/ai-engineering-intensive/0642572375317/0642572375300/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **O'Reilly 三周进阶 Agent/AI 工程课程配套代码仓库**
 

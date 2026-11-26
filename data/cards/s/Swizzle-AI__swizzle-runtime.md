@@ -47,12 +47,12 @@ Swizzle Runtime 是用 Rust 编写的本地推理运行时，读取 GGUF 与 .kt
 ```mermaid
 xychart-beta
     title "Swizzle-AI/swizzle-runtime 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-25 3（+0）
+2026-11-16 3 → 2026-11-26 3（+0）
 
 
 ---

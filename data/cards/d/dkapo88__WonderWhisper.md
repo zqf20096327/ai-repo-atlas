@@ -1,6 +1,6 @@
 # dkapo88/WonderWhisper
 
-⭐ 10 · Kotlin · MIT · 推送 2026-05-02 · [GitHub](https://github.com/dkapo88/WonderWhisper) · 个人维护
+⭐ 11 · Kotlin · MIT · 推送 2026-05-02 · [GitHub](https://github.com/dkapo88/WonderWhisper) · 个人维护
 
 **安卓系统级语音听写应用：录音转文字并插入任意输入框**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dkapo88/WonderWhisper 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-26", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-26 10 → 2026-11-25 10（+0）
+2026-10-26 10 → 2026-11-26 11（+1）
 
 
 ---

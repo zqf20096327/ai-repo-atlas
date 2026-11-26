@@ -1,6 +1,6 @@
 # Kalit31/Drone-Detection-and-Identification-using-RF-signals
 
-⭐ 16 · Jupyter Notebook · MIT · 推送 2026-01-12 · [GitHub](https://github.com/Kalit31/Drone-Detection-and-Identification-using-RF-signals) · [官网](https://ieeexplore.ieee.org/abstract/document/10068637) · 个人维护
+⭐ 17 · Jupyter Notebook · MIT · 推送 2026-01-12 · [GitHub](https://github.com/Kalit31/Drone-Detection-and-Identification-using-RF-signals) · [官网](https://ieeexplore.ieee.org/abstract/document/10068637) · 个人维护
 
 **基于 RF 信号的无人机检测与识别机器学习框架**
 
@@ -42,12 +42,12 @@
 ```mermaid
 xychart-beta
     title "Kalit31/Drone-Detection-and-Identification-using-RF-signals 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 16]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 17（+2）
 
 
 ---

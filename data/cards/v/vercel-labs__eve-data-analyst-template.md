@@ -1,6 +1,6 @@
 # vercel-labs/eve-data-analyst-template
 
-⭐ 8 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/vercel-labs/eve-data-analyst-template) · [官网](https://vercel.com/templates/other/eve-data-analyst) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **基于 eve 的 Slack 数据分析 Agent 模板，用自然语言查询 Postgres**
 
@@ -11,7 +11,7 @@ Vercel 提供的 Agent 模板：在 Slack 中 @机器人提问（如上月 MRR�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

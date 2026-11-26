@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-codex-port
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/STARDUSTLC666/dsh-codex-port) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 10 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/STARDUSTLC666/dsh-codex-port) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **把本机 Codex 技能移植到 DeepSeek Harness 的插件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "STARDUSTLC666/dsh-codex-port 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-18 10 → 2026-11-25 10（+0）
+2026-11-18 10 → 2026-11-26 10（+0）
 
 
 ---

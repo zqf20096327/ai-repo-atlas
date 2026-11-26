@@ -1,6 +1,6 @@
 # aixisstudio/awesome-ai-papers
 
-⭐ 3 · MIT · 推送 2026-10-30 · [GitHub](https://github.com/aixisstudio/awesome-ai-papers) · 组织维护
+⭐ 3 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aixisstudio/awesome-ai-papers) · 组织维护
 
 **AI 经典论文清单：用一句话讲清每篇必读论文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aixisstudio/awesome-ai-papers 星数(近 3 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-25"]
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [4, 3, 3]
 ```
 
-2026-10-29 4 → 2026-11-25 3（-1）
+2026-10-29 4 → 2026-11-26 3（-1）
 
 
 ---

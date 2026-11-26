@@ -1,6 +1,6 @@
 # srclight/srclight
 
-⭐ 60 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/srclight/srclight) · [官网](https://srclight.dev) · 组织维护
+⭐ 61 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/srclight/srclight) · [官网](https://srclight.dev) · 组织维护
 
 **供 AI 编码代理查询的本地代码索引 MCP 服务器**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "srclight/srclight 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 56 --> 61
-    line [57, 58, 59, 60, 60]
+    title "srclight/srclight 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 60, 61]
 ```
 
-2026-10-23 57 → 2026-11-25 60（+3）
+2026-10-24 58 → 2026-11-26 61（+3）
 
 
 ---

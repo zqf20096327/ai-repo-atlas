@@ -1,6 +1,6 @@
 # viztor/dsh-opencode-patch
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/viztor/dsh-opencode-patch) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **DSH 插件：让 OpenCode Zen/Go 模型在 DeepSeek Harness 中正常工作**
 
@@ -11,7 +11,7 @@ dsh-opencode-patch 是 DeepSeek Harness（DSH）的宿主插件，修复 DSH 直
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

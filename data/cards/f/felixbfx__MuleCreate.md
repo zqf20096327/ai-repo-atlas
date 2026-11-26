@@ -1,6 +1,6 @@
 # felixbfx/MuleCreate
 
-⭐ 68 · Python · GPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/felixbfx/MuleCreate) · 个人维护
+⭐ 71 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/felixbfx/MuleCreate) · 个人维护
 
 **3D 线稿草图工具，导出简报交 AI 在 Houdini/Blender 重建**
 
@@ -45,13 +45,13 @@ Mule Create 是独立的 3D 技术草图程序：在空间中放置平面并绘�
 
 ```mermaid
 xychart-beta
-    title "felixbfx/MuleCreate 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 41 --> 70
-    line [43, 56, 60, 65, 66, 68]
+    title "felixbfx/MuleCreate 星数(近 7 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 41 --> 73
+    line [43, 56, 60, 65, 66, 68, 71]
 ```
 
-2026-11-19 43 → 2026-11-25 68（+25）
+2026-11-19 43 → 2026-11-26 71（+28）
 
 
 ---

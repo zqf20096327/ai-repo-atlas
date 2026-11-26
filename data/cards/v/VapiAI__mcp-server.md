@@ -1,6 +1,6 @@
 # VapiAI/mcp-server
 
-⭐ 58 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/VapiAI/mcp-server) · [官网](https://vapi.ai/) · 组织维护
+⭐ 58 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/VapiAI/mcp-server) · [官网](https://vapi.ai/) · 组织维护
 
 **让 MCP 客户端通过 Vapi 创建语音助手与拨打电话的服务器**
 
@@ -46,12 +46,12 @@ Vapi 官方的 MCP 服务器，使 Claude Code、Claude Desktop 等 MCP 客户�
 ```mermaid
 xychart-beta
     title "VapiAI/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-23 58 → 2026-11-25 58（+0）
+2026-10-24 58 → 2026-11-26 58（+0）
 
 
 ---

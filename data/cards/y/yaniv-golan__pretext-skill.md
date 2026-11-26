@@ -1,6 +1,6 @@
 # yaniv-golan/pretext-skill
 
-⭐ 15 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/yaniv-golan/pretext-skill) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/yaniv-golan/pretext-skill) · 个人维护
 
 **教 AI agent 正确使用 pretext 文本测量库的 Agent Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yaniv-golan/pretext-skill 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 14 --> 16
-    line [15, 15]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 13 --> 16
+    line [15, 14]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 14（-1）
 
 
 ---

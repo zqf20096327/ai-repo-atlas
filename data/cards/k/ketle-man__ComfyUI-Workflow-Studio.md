@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ketle-man/ComfyUI-Workflow-Studio 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-25"]
+    title "ketle-man/ComfyUI-Workflow-Studio 星数(近 4 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 19 --> 22
-    line [21, 20, 21]
+    line [21, 20, 21, 21]
 ```
 
-2026-11-02 21 → 2026-11-25 21（+0）
+2026-11-02 21 → 2026-11-26 21（+0）
 
 
 ---

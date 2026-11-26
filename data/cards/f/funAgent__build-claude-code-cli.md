@@ -1,6 +1,6 @@
 # funAgent/build-claude-code-cli
 
-⭐ 64 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/funAgent/build-claude-code-cli) · [官网](https://build.funAgent.app) · 个人维护 · 中文 README
+⭐ 63 · TypeScript · MIT · 推送 2026-04-10 · [GitHub](https://github.com/funAgent/build-claude-code-cli) · [官网](https://build.funAgent.app) · 个人维护 · 中文 README
 
 **49 节课程：从零逐课构建对标 Claude Code 的 AI Agent CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "funAgent/build-claude-code-cli 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 63 --> 65
-    line [64, 64]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 62 --> 65
+    line [64, 63]
 ```
 
-2026-10-23 64 → 2026-11-25 64（+0）
+2026-10-24 64 → 2026-11-26 63（-1）
 
 
 ---

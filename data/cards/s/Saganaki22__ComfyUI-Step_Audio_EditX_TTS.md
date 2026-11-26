@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saganaki22/ComfyUI-Step_Audio_EditX_TTS 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "Saganaki22/ComfyUI-Step_Audio_EditX_TTS 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 62 --> 65
-    line [63, 64]
+    line [63, 64, 64]
 ```
 
-2026-10-23 63 → 2026-11-25 64（+1）
+2026-10-24 63 → 2026-11-26 64（+1）
 
 
 ---

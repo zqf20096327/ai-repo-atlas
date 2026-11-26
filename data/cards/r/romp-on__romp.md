@@ -1,6 +1,6 @@
 # romp-on/romp
 
-⭐ 25 · Python · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/romp-on/romp) · [官网](https://romp-on.github.io/romp/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **并行 Claude Code 会话的追踪与协调管理工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

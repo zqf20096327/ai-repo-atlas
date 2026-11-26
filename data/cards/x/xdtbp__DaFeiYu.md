@@ -1,6 +1,6 @@
 # xdtbp/DaFeiYu
 
-⭐ 7 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/xdtbp/DaFeiYu) · 个人维护 · 中文 README
+⭐ 9 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/xdtbp/DaFeiYu) · 个人维护 · 中文 README
 
 **为手机用户提供的仿 DeepSeek App 第三方安卓对话客户端**
 
@@ -40,6 +40,18 @@
 > L17: > 基于 DeepSeek 官方前端示例（`chat-demo`）改造的安卓客户端，应用显示名为「大肥鱼」，与官方品牌无关联。原生 WebView 壳 + 前端资源内置，配合一组原生能力桥，得到接近官方 App 的移动端体验。
 > L38: * 流式输出、停止生成、重新生成、分支切换（来自官方前端）
 > L43: * 模型切换：`API Key` 或 `Harness 账号` × `DeepSeek-V4.1-Flash` / `DeepSeek-V4-Pro`
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xdtbp/DaFeiYu 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 10
+    line [7, 9]
+```
+
+2026-11-25 7 → 2026-11-26 9（+2）
 
 
 ---

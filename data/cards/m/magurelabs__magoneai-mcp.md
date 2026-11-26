@@ -1,6 +1,6 @@
 # magurelabs/magoneai-mcp
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/magurelabs/magoneai-mcp) · 组织维护
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/magurelabs/magoneai-mcp) · 组织维护
 
 **为 AI agent 提供第三方 API 的 MCP 连接器集合（27 个连接器、283 个工具）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "magurelabs/magoneai-mcp 星数(近 4 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-20", "2026-11-26"]
     y-axis "stars" 4 --> 11
     line [5, 8, 10, 10]
 ```
 
-2026-11-14 5 → 2026-11-25 10（+5）
+2026-11-14 5 → 2026-11-26 10（+5）
 
 
 ---

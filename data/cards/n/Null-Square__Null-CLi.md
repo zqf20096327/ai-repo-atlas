@@ -1,6 +1,6 @@
 # Null-Square/Null-CLi
 
-⭐ 37 · TypeScript · NOASSERTION · 推送 2026-07-03 · [GitHub](https://github.com/Null-Square/Null-CLi) · [官网](https://nullsquare.net) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向授权测试的开源 AI 渗透测试与合规就绪 CLI**
 
@@ -11,7 +11,7 @@ NullSquare 开源的终端安全工具：以单 agent 循环对授权目标执�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

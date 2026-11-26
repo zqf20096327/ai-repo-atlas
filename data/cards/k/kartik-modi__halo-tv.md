@@ -1,6 +1,6 @@
 # kartik-modi/halo-tv
 
-⭐ 16 · Java · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/kartik-modi/halo-tv) · 个人维护
+⭐ 17 · Java · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/kartik-modi/halo-tv) · 个人维护
 
 **Android/Google/Fire TV 的替换桌面，含 AI 助手与跨平台影视聚合**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "kartik-modi/halo-tv 星数(近 6 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 2 --> 17
-    line [3, 4, 13, 14, 15, 16]
+    title "kartik-modi/halo-tv 星数(近 7 点)"
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 18
+    line [3, 4, 13, 14, 15, 16, 17]
 ```
 
-2026-10-29 3 → 2026-11-25 16（+13）
+2026-10-29 3 → 2026-11-26 17（+14）
 
 
 ---

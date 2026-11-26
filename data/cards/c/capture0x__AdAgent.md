@@ -45,13 +45,13 @@ Standalone 自主 agent，将 59 个 Active Directory 攻击工具按杀伤链�
 
 ```mermaid
 xychart-beta
-    title "capture0x/AdAgent 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-25"]
+    title "capture0x/AdAgent 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 12]
+    line [10, 11, 12, 12]
 ```
 
-2026-11-08 10 → 2026-11-25 12（+2）
+2026-11-08 10 → 2026-11-26 12（+2）
 
 
 ---

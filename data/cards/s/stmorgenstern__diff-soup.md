@@ -1,6 +1,6 @@
 # stmorgenstern/diff-soup
 
-⭐ 55 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/stmorgenstern/diff-soup) · [官网](https://stmorgenstern.github.io/diff-soup/) · 个人维护
+⭐ 56 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/stmorgenstern/diff-soup) · [官网](https://stmorgenstern.github.io/diff-soup/) · 个人维护
 
 **JAX 编写的可微分多物理场仿真与物理约束机器学习库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "stmorgenstern/diff-soup 星数(近 9 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 0 --> 60
-    line [4, 6, 7, 9, 50, 52, 53, 55, 55]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 0 --> 61
+    line [4, 6, 7, 9, 50, 52, 53, 55, 56]
 ```
 
-2026-10-28 4 → 2026-11-25 55（+51）
+2026-10-28 4 → 2026-11-26 56（+52）
 
 
 ---

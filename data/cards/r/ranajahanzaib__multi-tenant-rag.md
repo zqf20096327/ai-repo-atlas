@@ -1,6 +1,6 @@
 # ranajahanzaib/multi-tenant-rag
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/multi-tenant-rag) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ranajahanzaib/multi-tenant-rag) · 个人维护
 
 **面向 SaaS 的多租户权限感知 RAG 参考应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/multi-tenant-rag 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-25 3（+0）
+2026-11-13 3 → 2026-11-26 3（+0）
 
 
 ---

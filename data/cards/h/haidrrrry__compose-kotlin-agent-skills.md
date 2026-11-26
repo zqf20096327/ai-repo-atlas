@@ -1,6 +1,6 @@
 # haidrrrry/compose-kotlin-agent-skills
 
-⭐ 67 · Markdown · MIT · 推送 2026-07-08 · [GitHub](https://github.com/haidrrrry/compose-kotlin-agent-skills) · [官网](https://github.com/haidrrrry/compose-kotlin-agent-skills#readme) · 个人维护
+⭐ 69 · Markdown · MIT · 推送 2026-07-08 · [GitHub](https://github.com/haidrrrry/compose-kotlin-agent-skills) · [官网](https://github.com/haidrrrry/compose-kotlin-agent-skills#readme) · 个人维护
 
 **给 AI 编程代理的 Jetpack Compose/Kotlin 技能知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haidrrrry/compose-kotlin-agent-skills 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 60 --> 68
-    line [61, 63, 61, 65, 64, 65, 66, 67, 67]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 60 --> 70
+    line [61, 63, 61, 65, 64, 65, 66, 67, 69]
 ```
 
-2026-10-23 61 → 2026-11-25 67（+6）
+2026-10-24 61 → 2026-11-26 69（+8）
 
 
 ---

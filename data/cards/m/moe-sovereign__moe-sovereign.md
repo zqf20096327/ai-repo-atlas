@@ -1,6 +1,6 @@
 # moe-sovereign/moe-sovereign
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/moe-sovereign/moe-sovereign) · [官网](https://moe-sovereign.github.io/moe-sovereign/) · 组织维护
+⭐ 12 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/moe-sovereign/moe-sovereign) · [官网](https://moe-sovereign.github.io/moe-sovereign/) · 组织维护
 
 **自托管多模型编排器：模板化专家路由与主权环境 AI 基础设施**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "moe-sovereign/moe-sovereign 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

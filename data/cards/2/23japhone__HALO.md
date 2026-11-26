@@ -44,12 +44,12 @@ HALO 是论文《Hierarchical Autonomous Logic-Oriented Orchestration for Multi-
 ```mermaid
 xychart-beta
     title "23japhone/HALO 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-23 34 → 2026-11-25 34（+0）
+2026-10-24 34 → 2026-11-26 34（+0）
 
 
 ---

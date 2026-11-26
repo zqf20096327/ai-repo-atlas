@@ -1,6 +1,6 @@
 # jeffdafoe/llm-memory-api
 
-⭐ 13 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jeffdafoe/llm-memory-api) · [官网](https://www.llm-memory.net/) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jeffdafoe/llm-memory-api) · [官网](https://www.llm-memory.net/) · 个人维护
 
 **为 AI agent 提供持久记忆与多 agent 通信的 MCP 平台**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "jeffdafoe/llm-memory-api 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

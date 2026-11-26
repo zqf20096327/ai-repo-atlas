@@ -1,6 +1,6 @@
 # sofixleon-arch/manus--ai
 
-⭐ 193 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/sofixleon-arch/manus--ai) · 个人维护
+⭐ 180 · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/sofixleon-arch/manus--ai) · 个人维护
 
 **自主 AI Agent 系统：代用户执行代码并控制浏览器完成多步任务**
 
@@ -43,13 +43,13 @@ Manus 是一个自主 AI Agent 系统，设计为在用户授权下自主执行�
 
 ```mermaid
 xychart-beta
-    title "sofixleon-arch/manus--ai 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25"]
+    title "sofixleon-arch/manus--ai 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 134 --> 286
-    line [146, 274, 202, 201, 197, 193]
+    line [146, 274, 202, 201, 197, 193, 180]
 ```
 
-2026-11-13 146 → 2026-11-25 193（+47）
+2026-11-13 146 → 2026-11-26 180（+34）
 
 
 ---

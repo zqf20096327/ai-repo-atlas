@@ -1,6 +1,6 @@
 # dfx-org/dfx
 
-⭐ 8 · F# · BSD-2-Clause · 推送 2026-11-17 · [GitHub](https://github.com/dfx-org/dfx) · [官网](https://docs.dfx.ac/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **F# 可微编程张量库，面向机器学习与优化**
 
@@ -11,7 +11,7 @@ dfx 是 DiffSharp 的延续项目，一个支持可微编程的 F# 张量库，�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | BSD-2-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

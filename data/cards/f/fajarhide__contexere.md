@@ -1,6 +1,6 @@
 # fajarhide/contexere
 
-⭐ 380 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
+⭐ 381 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fajarhide/contexere) · [官网](https://omni.weekndlabs.com/docs) · 个人维护
 
 **为多个 AI 编码代理压缩工具输出并脱敏凭证的 CLI 中间层**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fajarhide/contexere 星数(近 6 点)"
-    x-axis ["2026-10-30", "2026-11-02", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 374 --> 381
-    line [375, 378, 377, 378, 379, 380]
+    title "fajarhide/contexere 星数(近 7 点)"
+    x-axis ["2026-10-30", "2026-11-02", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 374 --> 382
+    line [375, 378, 377, 378, 379, 380, 381]
 ```
 
-2026-10-30 375 → 2026-11-25 380（+5）
+2026-10-30 375 → 2026-11-26 381（+6）
 
 
 ---

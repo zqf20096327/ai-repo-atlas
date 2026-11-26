@@ -1,6 +1,6 @@
 # keylorpineda/healthycropping
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/keylorpineda/healthycropping) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/keylorpineda/healthycropping) · 个人维护
 
 **咖啡/可可/香蕉病害离线拍照诊断 Android 应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "keylorpineda/healthycropping 星数(近 6 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 3, 4, 5, 5]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 3, 4, 5, 6]
 ```
 
-2026-10-25 3 → 2026-11-25 5（+2）
+2026-10-25 3 → 2026-11-26 6（+3）
 
 
 ---

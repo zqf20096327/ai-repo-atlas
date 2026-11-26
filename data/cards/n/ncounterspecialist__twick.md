@@ -1,6 +1,6 @@
 # ncounterspecialist/twick
 
-⭐ 551 · TypeScript · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/ncounterspecialist/twick) · [官网](https://ncounterspecialist.github.io/twick/) · 组织维护
+⭐ 550 · TypeScript · NOASSERTION · 推送 2026-06-04 · [GitHub](https://github.com/ncounterspecialist/twick) · [官网](https://ncounterspecialist.github.io/twick/) · 组织维护
 
 **面向开发者的 React 视频编辑器 SDK，含 AI 字幕与 MP4 导出**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ncounterspecialist/twick 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-23", "2026-11-26"]
     y-axis "stars" 541 --> 552
-    line [542, 543, 544, 546, 543, 546, 547, 548, 550, 551, 551]
+    line [542, 543, 544, 546, 543, 546, 547, 548, 550, 551, 550]
 ```
 
-2026-10-23 542 → 2026-11-25 551（+9）
+2026-10-24 542 → 2026-11-26 550（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # opthub-org/pytorch-bsf
 
-⭐ 12 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/opthub-org/pytorch-bsf) · [官网](https://pypi.org/project/pytorch-bsf/) · 组织维护
+⭐ 12 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/opthub-org/pytorch-bsf) · [官网](https://pypi.org/project/pytorch-bsf/) · 组织维护
 
 **PyTorch 的 Bézier 单纯形体拟合库：曲线曲面回归与插值**
 
@@ -46,12 +46,12 @@ PyTorch-BSF 是基于 PyTorch 的 Python 库，用于将参数化曲线、曲面
 ```mermaid
 xychart-beta
     title "opthub-org/pytorch-bsf 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

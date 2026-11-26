@@ -1,6 +1,6 @@
 # ixiondt/photosweep
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/ixiondt/photosweep) · 个人维护
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/ixiondt/photosweep) · 个人维护
 
 **自托管 Nextcloud 照片库清理工具：本地视觉模型分类+感知哈希找重**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ixiondt/photosweep 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jiayuww/SkillOrchestra
 
-⭐ 80 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/jiayuww/SkillOrchestra) · [官网](https://arxiv.org/abs/2602.19672) · 组织维护
+⭐ 82 · Python · Apache-2.0 · 推送 2026-03-25 · [GitHub](https://github.com/jiayuww/SkillOrchestra) · [官网](https://arxiv.org/abs/2602.19672) · 组织维护
 
 **从执行经验学习技能并按技能路由/编排 agent 的框架**
 
@@ -45,12 +45,12 @@ NeurIPS'26 论文 SkillOrchestra 的官方代码库。框架不端到端学习�
 ```mermaid
 xychart-beta
     title "jiayuww/SkillOrchestra 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 79 --> 81
-    line [80, 80]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 79 --> 83
+    line [80, 82]
 ```
 
-2026-10-23 80 → 2026-11-25 80（+0）
+2026-10-24 80 → 2026-11-26 82（+2）
 
 
 ---

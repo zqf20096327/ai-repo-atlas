@@ -1,6 +1,6 @@
 # hamzamostafa77772-cyber/ai-manus
 
-⭐ 148 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/hamzamostafa77772-cyber/ai-manus) · 个人维护
+⭐ 142 · Python · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/hamzamostafa77772-cyber/ai-manus) · 个人维护
 
 **面向日常任务的自主 AI Agent：代写执行代码、控制浏览器**
 
@@ -46,13 +46,13 @@ Manus 是一个自主运行的 AI agent，在沙箱环境中执行代码并控�
 
 ```mermaid
 xychart-beta
-    title "hamzamostafa77772-cyber/ai-manus 星数(近 7 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25"]
+    title "hamzamostafa77772-cyber/ai-manus 星数(近 8 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 31 --> 283
-    line [54, 52, 262, 153, 152, 150, 148]
+    line [54, 52, 262, 153, 152, 150, 148, 142]
 ```
 
-2026-11-08 54 → 2026-11-25 148（+94）
+2026-11-08 54 → 2026-11-26 142（+88）
 
 
 ---

@@ -1,6 +1,6 @@
 # nexscope-ai/awesome-amazon-seller-tools
 
-⭐ 50 · 推送 2026-11-11 · [GitHub](https://github.com/nexscope-ai/awesome-amazon-seller-tools) · 组织维护
+⭐ 52 · 推送 2026-11-11 · [GitHub](https://github.com/nexscope-ai/awesome-amazon-seller-tools) · 组织维护
 
 **面向亚马逊卖家的电商工具与 AI agent 策展清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "nexscope-ai/awesome-amazon-seller-tools 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 46 --> 51
-    line [47, 48, 49, 50, 50]
+    title "nexscope-ai/awesome-amazon-seller-tools 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 47 --> 53
+    line [48, 49, 50, 52]
 ```
 
-2026-10-23 47 → 2026-11-25 50（+3）
+2026-10-24 48 → 2026-11-26 52（+4）
 
 
 ---

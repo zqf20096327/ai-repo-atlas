@@ -1,6 +1,6 @@
 # notsointresting/awesome-rea-builds
 
-⭐ 3 · HTML · MIT · 推送 2026-11-11 · [GitHub](https://github.com/notsointresting/awesome-rea-builds) · [官网](https://notsointresting.github.io/awesome-rea-builds/) · 个人维护
+⭐ 4 · HTML · MIT · 推送 2026-11-11 · [GitHub](https://github.com/notsointresting/awesome-rea-builds) · [官网](https://notsointresting.github.io/awesome-rea-builds/) · 个人维护
 
 **面向逆向工程研究者的 REA 实际项目案例目录（44 例）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "notsointresting/awesome-rea-builds 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-16", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-16 3 → 2026-11-25 3（+0）
+2026-11-16 3 → 2026-11-26 4（+1）
 
 
 ---

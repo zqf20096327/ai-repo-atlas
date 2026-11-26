@@ -1,6 +1,6 @@
 # DEEPX-AI/dx-runtime
 
-⭐ 25 · Shell · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/DEEPX-AI/dx-runtime) · [官网](https://developer.deepx.ai/tech-docs/) · 组织维护
+⭐ 25 · Shell · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/DEEPX-AI/dx-runtime) · [官网](https://developer.deepx.ai/tech-docs/) · 组织维护
 
 **DEEPX NPU 运行时与 Linux 驱动：在 DX-M1 加速器上运行 .dxnn 模型**
 
@@ -46,12 +46,12 @@ DEEPX 官方发布的边缘 AI 推理软件栈仓库：以 Git 子模块形式�
 ```mermaid
 xychart-beta
     title "DEEPX-AI/dx-runtime 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
     y-axis "stars" 21 --> 26
     line [22, 24, 25, 25]
 ```
 
-2026-11-08 22 → 2026-11-25 25（+3）
+2026-11-08 22 → 2026-11-26 25（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # pytraveler/LlamaServerLauncherAvalonia
 
-⭐ 83 · C# · MIT · 推送 2026-11-05 · [GitHub](https://github.com/pytraveler/LlamaServerLauncherAvalonia) · 个人维护 · 中文 README
+⭐ 85 · C# · MIT · 推送 2026-11-05 · [GitHub](https://github.com/pytraveler/LlamaServerLauncherAvalonia) · 个人维护 · 中文 README
 
 **跨平台桌面应用：启动并管理 llama.cpp llama-server 实例**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pytraveler/LlamaServerLauncherAvalonia 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 78 --> 84
-    line [79, 80, 79, 82, 83, 83]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 78 --> 86
+    line [79, 80, 79, 82, 83, 85]
 ```
 
-2026-10-23 79 → 2026-11-25 83（+4）
+2026-10-24 79 → 2026-11-26 85（+6）
 
 
 ---

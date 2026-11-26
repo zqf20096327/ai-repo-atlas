@@ -1,6 +1,6 @@
 # vizier-lab/vizier
 
-⭐ 30 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/vizier-lab/vizier) · [官网](https://www.vizier.rs/) · 组织维护
+⭐ 31 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/vizier-lab/vizier) · [官网](https://www.vizier.rs/) · 组织维护
 
 **自托管的 Rust 多 AI agent 框架：单二进制运行多身份 agent**
 
@@ -44,13 +44,13 @@ Rust 实现的单二进制 AI agent 框架，并发运行多个 agent，每个 a
 
 ```mermaid
 xychart-beta
-    title "vizier-lab/vizier 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 11 --> 31
-    line [12, 13, 14, 15, 16, 12, 18, 19, 30]
+    title "vizier-lab/vizier 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 11 --> 32
+    line [12, 13, 14, 15, 16, 12, 18, 19, 30, 31]
 ```
 
-2026-10-23 12 → 2026-11-25 30（+18）
+2026-10-24 12 → 2026-11-26 31（+19）
 
 
 ---

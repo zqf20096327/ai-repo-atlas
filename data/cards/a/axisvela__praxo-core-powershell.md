@@ -1,6 +1,6 @@
 # axisvela/praxo-core-powershell
 
-⭐ 3 · PowerShell · MIT · 推送 2026-11-22 · [GitHub](https://github.com/axisvela/praxo-core-powershell) · [官网](https://axisvela.github.io/praxo-core/languages/powershell/) · 组织维护
+⭐ 3 · PowerShell · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core-powershell) · [官网](https://axisvela.github.io/praxo-core/languages/powershell/) · 组织维护
 
 **给 PowerShell 自动化场景提供可嵌入的 AI agent 框架**
 
@@ -45,12 +45,12 @@ PRAXO-CORE 的 PowerShell 实现：以共享 C# 运行时为底座的包装层�
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-powershell 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

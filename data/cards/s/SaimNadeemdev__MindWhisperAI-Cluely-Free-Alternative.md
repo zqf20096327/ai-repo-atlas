@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "SaimNadeemdev/MindWhisperAI-Cluely-Free-Alternative 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 36 --> 40
     line [37, 39, 39]
 ```
 
-2026-10-23 37 → 2026-11-25 39（+2）
+2026-10-24 37 → 2026-11-26 39（+2）
 
 
 ---

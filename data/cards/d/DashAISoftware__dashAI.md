@@ -1,6 +1,6 @@
 # DashAISoftware/dashAI
 
-⭐ 491 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DashAISoftware/dashAI) · [官网](http://dash-ai.com/) · 组织维护
+⭐ 490 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DashAISoftware/dashAI) · [官网](http://dash-ai.com/) · 组织维护
 
 **图形化 AI 模型训练、评估与部署工具箱**
 
@@ -44,13 +44,13 @@ dashAI 是一个带 Web 图形界面的 AI 工作台，通过浏览器（localho
 
 ```mermaid
 xychart-beta
-    title "DashAISoftware/dashAI 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 480 --> 492
-    line [481, 482, 484, 485, 482, 488, 489, 490, 491, 491]
+    title "DashAISoftware/dashAI 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 481 --> 492
+    line [482, 484, 485, 482, 488, 489, 490, 491, 490]
 ```
 
-2026-10-23 481 → 2026-11-25 491（+10）
+2026-10-24 482 → 2026-11-26 490（+8）
 
 
 ---

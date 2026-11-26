@@ -1,6 +1,6 @@
 # samestrin/llm-pdf-ocr-api
 
-⭐ 37 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/samestrin/llm-pdf-ocr-api) · 个人维护
+⭐ 37 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/samestrin/llm-pdf-ocr-api) · 个人维护
 
 **自托管的 PDF OCR REST 服务：逐页提取文本并标注读取方式**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "samestrin/llm-pdf-ocr-api 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-11-02 37 → 2026-11-25 37（+0）
+2026-11-02 37 → 2026-11-26 37（+0）
 
 
 ---

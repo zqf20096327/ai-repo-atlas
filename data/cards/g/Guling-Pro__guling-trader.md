@@ -1,6 +1,6 @@
 # Guling-Pro/guling-trader
 
-⭐ 27 · Python · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Guling-Pro/guling-trader) · [官网](https://guling.pro) · 组织维护 · 中文 README
+⭐ 29 · Python · AGPL-3.0 · 推送 2026-10-15 · [GitHub](https://github.com/Guling-Pro/guling-trader) · [官网](https://guling.pro) · 组织维护 · 中文 README
 
 **把同花顺接入 AI 助手的 Windows 开源 MCP 交易客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Guling-Pro/guling-trader 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 20 --> 28
-    line [21, 22, 21, 26, 27, 27]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 20 --> 30
+    line [21, 22, 21, 26, 27, 29]
 ```
 
-2026-10-23 21 → 2026-11-25 27（+6）
+2026-10-24 21 → 2026-11-26 29（+8）
 
 
 ---

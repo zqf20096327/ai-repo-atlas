@@ -45,12 +45,12 @@ bitcrowd/rag 的分支，为 Elixir 开发者提供构建 RAG 系统的库：支
 ```mermaid
 xychart-beta
     title "nshkrdotcom/rag_ex 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

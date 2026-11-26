@@ -1,6 +1,6 @@
 # sealad886/ollamautil
 
-⭐ 19 · Python · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/sealad886/ollamautil) · 个人维护
+⭐ 19 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/sealad886/ollamautil) · 个人维护
 
 **管理 Ollama 模型缓存的 CLI 工具：内外置存储间迁移模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sealad886/ollamautil 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

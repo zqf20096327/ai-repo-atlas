@@ -44,12 +44,12 @@ Routstr 是基于 Nostr 与 Bitcoin 的去中心化 LLM 路由市场，本仓库
 ```mermaid
 xychart-beta
     title "Routstr/landingpage 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

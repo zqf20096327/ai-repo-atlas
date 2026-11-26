@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kavishka-dot/vulcan-os 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "kavishka-dot/vulcan-os 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 10 --> 13
-    line [12, 11]
+    line [12, 11, 11]
 ```
 
-2026-10-23 12 → 2026-11-25 11（-1）
+2026-10-24 12 → 2026-11-26 11（-1）
 
 
 ---

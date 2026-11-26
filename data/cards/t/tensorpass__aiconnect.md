@@ -1,6 +1,6 @@
 # tensorpass/aiconnect
 
-⭐ 42 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/tensorpass/aiconnect) · [官网](https://tensorpass.app/docs) · 组织维护
+⭐ 46 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/tensorpass/aiconnect) · [官网](https://tensorpass.app/docs) · 组织维护
 
 **网站 AI 功能 SDK：让访客用自己的 AI 账号付费回答**
 
@@ -45,13 +45,13 @@ TensorPass 开源的网站 AI 接入 SDK：在页面中添加 AI 聊天、可回
 
 ```mermaid
 xychart-beta
-    title "tensorpass/aiconnect 星数(近 8 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 23 --> 43
-    line [24, 27, 28, 29, 30, 31, 33, 42]
+    title "tensorpass/aiconnect 星数(近 9 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 22 --> 48
+    line [24, 27, 28, 29, 30, 31, 33, 42, 46]
 ```
 
-2026-11-16 24 → 2026-11-25 42（+18）
+2026-11-16 24 → 2026-11-26 46（+22）
 
 
 ---

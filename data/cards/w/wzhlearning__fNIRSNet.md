@@ -1,6 +1,6 @@
 # wzhlearning/fNIRSNet
 
-⭐ 37 · Python · Apache-2.0 · 推送 2026-05-23 · [GitHub](https://github.com/wzhlearning/fNIRSNet) · [官网](https://ieeexplore.ieee.org/document/10311392) · 个人维护
+⭐ 38 · Python · Apache-2.0 · 推送 2026-05-23 · [GitHub](https://github.com/wzhlearning/fNIRSNet) · [官网](https://ieeexplore.ieee.org/document/10311392) · 个人维护
 
 **面向 fNIRS 脑机接口分类的 CNN 模型 PyTorch 代码库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "wzhlearning/fNIRSNet 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-26"]
     y-axis "stars" 35 --> 39
-    line [36, 37, 38, 37, 37]
+    line [36, 37, 38, 37, 38]
 ```
 
-2026-10-23 36 → 2026-11-25 37（+1）
+2026-10-24 36 → 2026-11-26 38（+2）
 
 
 ---

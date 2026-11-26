@@ -1,6 +1,6 @@
 # daveshap/PostLaborEconomics
 
-⭐ 163 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/daveshap/PostLaborEconomics) · [官网](https://daveshap.github.io/PostLaborEconomics/) · 个人维护
+⭐ 164 · Python · CC0-1.0 · 推送 2026-10-26 · [GitHub](https://github.com/daveshap/PostLaborEconomics) · [官网](https://daveshap.github.io/PostLaborEconomics/) · 个人维护
 
 **后劳动经济学研究资料库：103 篇报告与图表供公开查阅**
 
@@ -45,12 +45,12 @@ David Shapiro 的个人研究仓库，为其多本书籍（含 Labor Zero）收�
 ```mermaid
 xychart-beta
     title "daveshap/PostLaborEconomics 星数(近 9 点)"
-    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 156 --> 164
-    line [157, 158, 159, 160, 158, 161, 162, 163, 163]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 156 --> 165
+    line [157, 158, 159, 160, 158, 161, 162, 163, 164]
 ```
 
-2026-10-24 157 → 2026-11-25 163（+6）
+2026-10-24 157 → 2026-11-26 164（+7）
 
 
 ---

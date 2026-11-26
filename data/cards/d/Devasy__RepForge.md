@@ -1,6 +1,6 @@
 # Devasy/RepForge
 
-⭐ 10 · Dart · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/Devasy/RepForge) · 个人维护
+⭐ 10 · Dart · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Devasy/RepForge) · 个人维护
 
 **开源 Android 健身记录应用，可选接入 Gemini AI 教练分析训练数据**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Devasy/RepForge 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-25 10（+0）
+2026-11-19 10 → 2026-11-26 10（+0）
 
 
 ---

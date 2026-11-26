@@ -1,6 +1,6 @@
 # sergey-homenko/llm_cost_tracker
 
-⭐ 45 · Ruby · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/sergey-homenko/llm_cost_tracker) · [官网](https://rubygems.org/gems/llm_cost_tracker) · 个人维护
+⭐ 45 · Ruby · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/sergey-homenko/llm_cost_tracker) · [官网](https://rubygems.org/gems/llm_cost_tracker) · 个人维护
 
 **Rails 应用的 LLM 支出记账与预算控制 gem**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sergey-homenko/llm_cost_tracker 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 44 --> 47
-    line [46, 45, 45]
+    title "sergey-homenko/llm_cost_tracker 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 44 --> 46
+    line [45, 45]
 ```
 
-2026-10-23 46 → 2026-11-25 45（-1）
+2026-10-24 45 → 2026-11-26 45（+0）
 
 
 ---

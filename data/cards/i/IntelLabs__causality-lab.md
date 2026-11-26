@@ -1,6 +1,6 @@
 # IntelLabs/causality-lab
 
-⭐ 253 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/IntelLabs/causality-lab) · 组织维护
+⭐ 254 · Jupyter Notebook · Apache-2.0 · 推送 2026-07-22 · [GitHub](https://github.com/IntelLabs/causality-lab) · 组织维护
 
 **Intel Labs 因果发现与因果推理算法研究代码库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "IntelLabs/causality-lab 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 252 --> 254
-    line [253, 253]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 252 --> 255
+    line [253, 254]
 ```
 
-2026-10-23 253 → 2026-11-25 253（+0）
+2026-10-24 253 → 2026-11-26 254（+1）
 
 
 ---

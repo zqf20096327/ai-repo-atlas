@@ -46,12 +46,12 @@ ICLR 2025 论文《Accelerating Training with Neuron Interaction and Nowcasting 
 ```mermaid
 xychart-beta
     title "SamsungSAILMontreal/nino 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 30 --> 33
     line [31, 32, 31, 32, 32]
 ```
 
-2026-10-23 31 → 2026-11-25 32（+1）
+2026-10-24 31 → 2026-11-26 32（+1）
 
 
 ---

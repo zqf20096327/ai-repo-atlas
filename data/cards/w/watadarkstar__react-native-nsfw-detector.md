@@ -1,6 +1,6 @@
 # watadarkstar/react-native-nsfw-detector
 
-⭐ 39 · JavaScript · NOASSERTION · 推送 2026-07-19 · [GitHub](https://github.com/watadarkstar/react-native-nsfw-detector) · [官网](https://www.npmjs.com/package/react-native-nsfw-detector) · 个人维护
+⭐ 40 · JavaScript · NOASSERTION · 推送 2026-07-19 · [GitHub](https://github.com/watadarkstar/react-native-nsfw-detector) · [官网](https://www.npmjs.com/package/react-native-nsfw-detector) · 个人维护
 
 **React Native/Expo 的 iOS 端本地 NSFW 图片检测库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "watadarkstar/react-native-nsfw-detector 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-23 39 → 2026-11-25 39（+0）
+2026-10-24 39 → 2026-11-26 40（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # samnodehi/n8n-nodes-duckduckgo
 
-⭐ 19 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/samnodehi/n8n-nodes-duckduckgo) · [官网](https://www.npmjs.com/package/n8n-nodes-duckduckgo-search) · 个人维护
+⭐ 19 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/samnodehi/n8n-nodes-duckduckgo) · [官网](https://www.npmjs.com/package/n8n-nodes-duckduckgo-search) · 个人维护
 
 **n8n 社区节点：在 n8n 工作流中集成 DuckDuckGo 搜索**
 
@@ -46,12 +46,12 @@ TypeScript 编写的 n8n 社区节点，通过 DuckDuckGo 公共搜索端点提�
 ```mermaid
 xychart-beta
     title "samnodehi/n8n-nodes-duckduckgo 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

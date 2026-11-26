@@ -1,6 +1,6 @@
 # abhimanyu-jain/PRML_Solutions
 
-⭐ 13 · 推送 2026-11-23 · [GitHub](https://github.com/abhimanyu-jain/PRML_Solutions) · 个人维护
+⭐ 13 · 推送 2026-11-25 · [GitHub](https://github.com/abhimanyu-jain/PRML_Solutions) · 个人维护
 
 **PRML 教材全部习题的个人解答仓库**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "abhimanyu-jain/PRML_Solutions 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 13, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

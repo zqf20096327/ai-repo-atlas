@@ -1,6 +1,6 @@
 # LuChangQiu/lrnev-govern
 
-⭐ 16 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/LuChangQiu/lrnev-govern) · [官网](https://www.npmjs.com/package/lrnev) · 个人维护 · 中文 README
+⭐ 15 · TypeScript · MIT · 推送 2026-09-10 · [GitHub](https://github.com/LuChangQiu/lrnev-govern) · [官网](https://www.npmjs.com/package/lrnev) · 个人维护 · 中文 README
 
 **AI 协作开发的项目治理引擎：Spec/Task 文件化追溯与结构门禁**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "LuChangQiu/lrnev-govern 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 14 --> 17
+    line [16, 15]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 15（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # abiek12/Fake-News-Detection-using-MachineLearning
 
-⭐ 45 · Jupyter Notebook · 推送 2026-08-05 · [GitHub](https://github.com/abiek12/Fake-News-Detection-using-MachineLearning) · 个人维护
+⭐ 46 · Jupyter Notebook · 推送 2026-08-05 · [GitHub](https://github.com/abiek12/Fake-News-Detection-using-MachineLearning) · 个人维护
 
 **基于机器学习的假新闻检测项目，含 Flask 实时预测 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "abiek12/Fake-News-Detection-using-MachineLearning 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-23 45 → 2026-11-25 45（+0）
+2026-10-24 45 → 2026-11-26 46（+1）
 
 
 ---

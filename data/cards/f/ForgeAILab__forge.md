@@ -1,6 +1,6 @@
 # ForgeAILab/forge
 
-⭐ 29 · Rust · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ForgeAILab/forge) · [官网](https://forgeailab.github.io/) · 组织维护
+⭐ 29 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ForgeAILab/forge) · [官网](https://forgeailab.github.io/) · 组织维护
 
 **自托管控制平面：多 coding agent 在同一仓库协作与任务治理**
 
@@ -45,12 +45,12 @@ Rust 编写的本地优先自托管控制平面，用于编排多个 AI coding a
 ```mermaid
 xychart-beta
     title "ForgeAILab/forge 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 27 --> 30
     line [28, 29, 29]
 ```
 
-2026-10-23 28 → 2026-11-25 29（+1）
+2026-10-24 28 → 2026-11-26 29（+1）
 
 
 ---

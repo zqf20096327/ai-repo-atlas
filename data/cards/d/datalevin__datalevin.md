@@ -1,6 +1,6 @@
 # datalevin/datalevin
 
-⭐ 1,496 · Clojure · EPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/datalevin/datalevin) · [官网](https://datalevin.org) · 组织维护
+⭐ 1,498 · Clojure · EPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/datalevin/datalevin) · [官网](https://datalevin.org) · 组织维护
 
 **支持内嵌 AI 能力的 Datalog 多模型数据库**
 
@@ -46,13 +46,13 @@ Datalevin 是构建在 LMDB 分支之上的持久化 Datalog 数据库，支持�
 
 ```mermaid
 xychart-beta
-    title "datalevin/datalevin 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 1487 --> 1497
-    line [1488, 1490, 1491, 1488, 1494, 1495, 1494, 1496]
+    title "datalevin/datalevin 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1487 --> 1499
+    line [1488, 1490, 1491, 1488, 1494, 1495, 1494, 1496, 1498]
 ```
 
-2026-10-23 1,488 → 2026-11-25 1,496（+8）
+2026-10-24 1,488 → 2026-11-26 1,498（+10）
 
 
 ---

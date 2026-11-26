@@ -1,6 +1,6 @@
 # akinauphill/vulkan-moe-streaming
 
-⭐ 3 · Shell · MIT · 推送 2026-10-10 · [GitHub](https://github.com/akinauphill/vulkan-moe-streaming) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **让 AMD/Vulkan GPU 游戏本从 NVMe 流式运行超 RAM 的 MoE 模型**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | `gpu-8g` | |

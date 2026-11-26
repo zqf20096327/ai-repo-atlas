@@ -1,6 +1,6 @@
 # 3x-haust/ondra
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/3x-haust/ondra) · [官网](https://github.com/3x-haust/ondra/releases) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/3x-haust/ondra) · [官网](https://github.com/3x-haust/ondra/releases) · 个人维护
 
 **面向 macOS 用户的 AI 任务委派工作区，拆分执行并核验结果**
 
@@ -46,13 +46,13 @@ Ondra 是一款 macOS 桌面应用（Tauri + SolidJS 构建），用户在单一
 
 ```mermaid
 xychart-beta
-    title "3x-haust/ondra 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
+    title "3x-haust/ondra 星数(近 4 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 7
-    line [3, 5, 6]
+    line [3, 5, 6, 6]
 ```
 
-2026-11-08 3 → 2026-11-25 6（+3）
+2026-11-08 3 → 2026-11-26 6（+3）
 
 
 ---

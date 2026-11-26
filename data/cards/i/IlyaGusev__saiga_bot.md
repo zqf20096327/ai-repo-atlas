@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IlyaGusev/saiga_bot 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 66 --> 69
-    line [67, 68, 68]
+    title "IlyaGusev/saiga_bot 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 67 --> 69
+    line [68, 68]
 ```
 
-2026-10-23 67 → 2026-11-25 68（+1）
+2026-10-24 68 → 2026-11-26 68（+0）
 
 
 ---

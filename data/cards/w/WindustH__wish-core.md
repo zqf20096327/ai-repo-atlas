@@ -1,6 +1,6 @@
 # WindustH/wish-core
 
-⭐ 18 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/WindustH/wish-core) · 个人维护 · 中文 README
+⭐ 18 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/WindustH/wish-core) · 个人维护 · 中文 README
 
 **本地运行的极简 AI agent 执行框架，含 Web 应用与 HTTP API**
 
@@ -45,12 +45,12 @@ Wish 是一个以单个 Rust 程序交付的 AI agent harness，内嵌数据库�
 ```mermaid
 xychart-beta
     title "WindustH/wish-core 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-26"]
     y-axis "stars" 17 --> 21
     line [18, 19, 20, 19, 18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

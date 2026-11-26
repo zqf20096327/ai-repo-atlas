@@ -1,6 +1,6 @@
 # mmr710/nightmux
 
-⭐ 28 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/mmr710/nightmux) · [官网](https://mmr710.github.io/nightmux/) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/mmr710/nightmux) · [官网](https://mmr710.github.io/nightmux/) · 个人维护
 
 **手机远程驱动多个 AI 编程代理的夜间值守自托管工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mmr710/nightmux 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 24 --> 29
     line [25, 28, 28]
 ```
 
-2026-10-23 25 → 2026-11-25 28（+3）
+2026-10-24 25 → 2026-11-26 28（+3）
 
 
 ---

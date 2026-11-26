@@ -1,6 +1,6 @@
 # RUCAIBox/RecBole
 
-⭐ 4,620 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RUCAIBox/RecBole) · [官网](https://recbole.io/) · 组织维护 · 中文 README
+⭐ 4,622 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/RUCAIBox/RecBole) · [官网](https://recbole.io/) · 组织维护 · 中文 README
 
 **面向推荐算法研究的统一 PyTorch 实现库**
 
@@ -41,6 +41,18 @@
 > L14: RecBole is developed based on Python and PyTorch for reproducing and developing recommendation algorithms in a unif
 > L16: Our library includes 94 recommendation algorithms, covering four major categories:
 > L94: |GPU-accelerated execution|Single-GPU utilization|Single-GPU utilization|Multi-GPU and mixed precision training|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "RUCAIBox/RecBole 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4619 --> 4623
+    line [4620, 4622]
+```
+
+2026-11-25 4,620 → 2026-11-26 4,622（+2）
 
 
 ---

@@ -45,12 +45,12 @@ Vite/React 网页应用加 Figma 插件，后端为 Supabase。用户创建项�
 ```mermaid
 xychart-beta
     title "Soba-noodl/qualia 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

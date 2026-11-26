@@ -1,6 +1,6 @@
 # springmusk026/locus
 
-⭐ 13 · Kotlin · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/springmusk026/locus) · 个人维护
+⭐ 14 · Kotlin · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/springmusk026/locus) · 个人维护
 
 **本地优先的 Android AI Agent，自带模型与工具执行环境**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "springmusk026/locus 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 14
-    line [4, 7, 9, 10, 11, 13]
+    title "springmusk026/locus 星数(近 7 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 15
+    line [4, 7, 9, 10, 11, 13, 14]
 ```
 
-2026-11-02 4 → 2026-11-25 13（+9）
+2026-11-02 4 → 2026-11-26 14（+10）
 
 
 ---

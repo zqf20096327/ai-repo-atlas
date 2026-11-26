@@ -1,6 +1,6 @@
 # zaqisilverano/agentmind
 
-⭐ 3 · TypeScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/zaqisilverano/agentmind) · [官网](https://agentmind.zaqi.build) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/zaqisilverano/agentmind) · [官网](https://agentmind.zaqi.build) · 个人维护
 
 **输入一个想法，五个 agent 协作生成可编辑导出的 3D 思维图**
 
@@ -46,12 +46,12 @@ Web 端头脑风暴工具：用户输入想法后由 LLM 拆解为分支与子�
 ```mermaid
 xychart-beta
     title "zaqisilverano/agentmind 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 3（+0）
 
 
 ---

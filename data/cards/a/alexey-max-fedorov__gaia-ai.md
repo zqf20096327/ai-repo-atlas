@@ -1,6 +1,6 @@
 # alexey-max-fedorov/gaia-ai
 
-⭐ 53 · Markdown · 推送 2026-11-22 · [GitHub](https://github.com/alexey-max-fedorov/gaia-ai) · [官网](https://gaiacode.pro) · 个人维护
+⭐ 53 · Markdown · 推送 2026-11-25 · [GitHub](https://github.com/alexey-max-fedorov/gaia-ai) · [官网](https://gaiacode.pro) · 个人维护
 
 **运行在 Perplexity Spaces 上的 Claude Code 式 agent 提示词系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alexey-max-fedorov/gaia-ai 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-26"]
     y-axis "stars" 52 --> 55
     line [53, 54, 53, 53]
 ```
 
-2026-10-23 53 → 2026-11-25 53（+0）
+2026-10-24 53 → 2026-11-26 53（+0）
 
 
 ---

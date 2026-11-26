@@ -42,6 +42,18 @@
 > L61: hermes-scout reads the folder you name, splits its files into chunks of whole lines and turns each
 > L149: - **Local-first.** Works out of the box with Ollama, LM Studio, llama.cpp or vLLM on your own machine.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Shizoqua/hermes-scout 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `95fc9d19df7f` · [字段定义](../../DATASET.md)*

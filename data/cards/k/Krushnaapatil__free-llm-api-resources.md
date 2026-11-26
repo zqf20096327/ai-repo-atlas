@@ -1,6 +1,6 @@
 # Krushnaapatil/free-llm-api-resources
 
-⭐ 22 · Python · 推送 2026-05-21 · [GitHub](https://github.com/Krushnaapatil/free-llm-api-resources) · 个人维护
+⭐ 23 · Python · 推送 2026-05-21 · [GitHub](https://github.com/Krushnaapatil/free-llm-api-resources) · 个人维护
 
 **免费/试用额度 LLM API 服务商策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Krushnaapatil/free-llm-api-resources 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 21 --> 23
-    line [22, 22]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

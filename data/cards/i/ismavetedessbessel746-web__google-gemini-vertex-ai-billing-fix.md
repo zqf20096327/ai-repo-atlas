@@ -1,6 +1,6 @@
 # ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix
 
-⭐ 89 · 推送 2026-11-10 · [GitHub](https://github.com/ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 113 · 推送 2026-11-10 · [GitHub](https://github.com/ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡绑定 GCP 结算账号的图文指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix 星数(近 11 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 0 --> 97
-    line [4, 18, 23, 30, 29, 36, 40, 44, 53, 68, 89]
+    title "ismavetedessbessel746-web/google-gemini-vertex-ai-billing-fix 星数(近 12 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 123
+    line [4, 18, 23, 30, 29, 36, 40, 44, 53, 68, 89, 113]
 ```
 
-2026-11-10 4 → 2026-11-25 89（+85）
+2026-11-10 4 → 2026-11-26 113（+109）
 
 
 ---

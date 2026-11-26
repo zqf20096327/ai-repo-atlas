@@ -1,6 +1,6 @@
 # jeffreycayao/Dev-Labs
 
-⭐ 80 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jeffreycayao/Dev-Labs) · [官网](http://devlabs.atmt.dev/) · 个人维护
+⭐ 82 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jeffreycayao/Dev-Labs) · [官网](http://devlabs.atmt.dev/) · 个人维护
 
 **桌面多 agent 编排应用：把终端编码 CLI 组成协作团队**
 
@@ -44,13 +44,13 @@ Electron 桌面应用，将 Claude Code、Codex、Gemini CLI、Grok、Kimi、Qwe
 
 ```mermaid
 xychart-beta
-    title "jeffreycayao/Dev-Labs 星数(近 10 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 0 --> 87
-    line [7, 8, 60, 63, 64, 67, 68, 69, 76, 80]
+    title "jeffreycayao/Dev-Labs 星数(近 11 点)"
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 89
+    line [7, 8, 60, 63, 64, 67, 68, 69, 76, 80, 82]
 ```
 
-2026-11-01 7 → 2026-11-25 80（+73）
+2026-11-01 7 → 2026-11-26 82（+75）
 
 
 ---

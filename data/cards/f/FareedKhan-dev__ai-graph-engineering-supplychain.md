@@ -1,6 +1,6 @@
 # FareedKhan-dev/ai-graph-engineering-supplychain
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/FareedKhan-dev/ai-graph-engineering-supplychain) · [官网](https://medium.com/@fareedkhandev/graph-engineering-for-supply-chain-cve-exposure-e62658e0c333) · 个人维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-09-03 · [GitHub](https://github.com/FareedKhan-dev/ai-graph-engineering-supplychain) · [官网](https://medium.com/@fareedkhandev/graph-engineering-for-supply-chain-cve-exposure-e62658e0c333) · 个人维护
 
 **软件供应链 CVE 暴露图分析库：给出依赖路径与安全修复**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "FareedKhan-dev/ai-graph-engineering-supplychain 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 9 --> 15
+    line [10, 11, 12, 13, 14]
 ```
 
-2026-10-23 10 → 2026-11-25 13（+3）
+2026-10-24 10 → 2026-11-26 14（+4）
 
 
 ---

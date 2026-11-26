@@ -1,6 +1,6 @@
 # enthouan/trello-mcp
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/enthouan/trello-mcp) · [官网](https://trello-mcp.com) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/enthouan/trello-mcp) · [官网](https://trello-mcp.com) · 个人维护
 
 **自托管的 Trello MCP 服务器：让 MCP 客户端操作 Trello**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "enthouan/trello-mcp 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-13 10 → 2026-11-25 10（+0）
+2026-11-13 10 → 2026-11-26 10（+0）
 
 
 ---

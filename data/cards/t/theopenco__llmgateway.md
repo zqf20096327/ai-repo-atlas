@@ -1,6 +1,6 @@
 # theopenco/llmgateway
 
-⭐ 1,758 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/theopenco/llmgateway) · [官网](https://llmgateway.io) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **统一 API 接口的 LLM 网关：多供应商路由与用量分析**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

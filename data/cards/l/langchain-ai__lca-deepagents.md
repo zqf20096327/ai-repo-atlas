@@ -1,6 +1,6 @@
 # langchain-ai/lca-deepagents
 
-⭐ 49 · TypeScript · 推送 2026-11-22 · [GitHub](https://github.com/langchain-ai/lca-deepagents) · 组织维护
+⭐ 49 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/langchain-ai/lca-deepagents) · 组织维护
 
 **LangChain Academy 深度 Agent 课程配套材料**
 
@@ -40,12 +40,12 @@ LangChain Academy 发布的 Deep Agents 课程配套材料仓库。README 仅说
 ```mermaid
 xychart-beta
     title "langchain-ai/lca-deepagents 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-22", "2026-11-26"]
     y-axis "stars" 39 --> 50
     line [40, 43, 44, 40, 46, 47, 48, 49, 49]
 ```
 
-2026-10-23 40 → 2026-11-25 49（+9）
+2026-10-24 40 → 2026-11-26 49（+9）
 
 
 ---

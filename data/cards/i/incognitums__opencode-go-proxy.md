@@ -1,6 +1,6 @@
 # incognitums/opencode-go-proxy
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/incognitums/opencode-go-proxy) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/incognitums/opencode-go-proxy) · 个人维护
 
 **为第三方编码 Agent 接入 OpenCode Go 修复会话/鉴权与 prompt 缓存的本地代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "incognitums/opencode-go-proxy 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-25 3（+0）
+2026-11-20 3 → 2026-11-26 3（+0）
 
 
 ---

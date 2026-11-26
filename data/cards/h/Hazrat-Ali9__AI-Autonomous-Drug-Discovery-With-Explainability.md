@@ -45,13 +45,13 @@ Python 实现的计算药物发现项目，整合分子属性预测（生物活�
 
 ```mermaid
 xychart-beta
-    title "Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability 星数(近 6 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
+    title "Hazrat-Ali9/AI-Autonomous-Drug-Discovery-With-Explainability 星数(近 7 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 27
-    line [10, 11, 15, 22, 25, 26]
+    line [10, 11, 15, 22, 25, 26, 26]
 ```
 
-2026-11-08 10 → 2026-11-25 26（+16）
+2026-11-08 10 → 2026-11-26 26（+16）
 
 
 ---

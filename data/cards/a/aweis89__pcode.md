@@ -1,6 +1,6 @@
 # aweis89/pcode
 
-⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/aweis89/pcode) · [官网](https://aweis89.github.io/pcode/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aweis89/pcode) · [官网](https://aweis89.github.io/pcode/) · 个人维护
 
 **终端原生 AI 编码代理：并行运行多个 agent 会话**
 
@@ -41,6 +41,18 @@
 > L3: **A terminal-native coding agent built to run many agents in parallel—without the chaos.**
 > L46: Running one coding agent is easy. Running five or ten at once breaks down fast: agents trample each other's git sta
 > L94: Because `pcode` is built directly on Pydantic AI and Harness, extensions have the full power of Pydantic AI in plai
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "aweis89/pcode 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
 
 
 ---

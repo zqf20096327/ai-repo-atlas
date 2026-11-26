@@ -1,6 +1,6 @@
 # visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide
 
-⭐ 21 · 推送 2026-11-23 · [GitHub](https://github.com/visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 48 · 推送 2026-11-23 · [GitHub](https://github.com/visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向虚拟卡用户挑选稳定 VCC 平台的实战指南**
 
@@ -40,6 +40,18 @@
 > L2: 最近虚拟卡行业数据审计曝光 11 月单月就有 23 次条款与福利变动，不少玩家刚充完钱就发现卡段受限或规则变脸——聊聊老玩家挑稳定 VCC 平台的实战经验。
 > L9: ### 🔍 实战干货：挑一张能长期用下去的 VCC，重点盯死这 4 点
 > L25: ### 🧭 极简开卡与绑定流程（一看就会）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "visitantexbox64-byte/coregold-usdt-vcc-november-terms-churn-selection-guide 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 19 --> 50
+    line [21, 48]
+```
+
+2026-11-25 21 → 2026-11-26 48（+27）
 
 
 ---

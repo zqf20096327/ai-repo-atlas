@@ -1,6 +1,6 @@
 # mockxing/weread2brief
 
-⭐ 6 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mockxing/weread2brief) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/mockxing/weread2brief) · 个人维护 · 中文 README
 
 **把微信读书书架里的公众号文章抓取并提炼成每日简报**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mockxing/weread2brief 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-16", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6, 6]
+    x-axis ["2026-11-08", "2026-11-16", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 6, 7]
 ```
 
-2026-11-08 4 → 2026-11-25 6（+2）
+2026-11-08 4 → 2026-11-26 7（+3）
 
 
 ---

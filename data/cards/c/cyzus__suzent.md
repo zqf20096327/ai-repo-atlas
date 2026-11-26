@@ -1,6 +1,6 @@
 # cyzus/suzent
 
-⭐ 70 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/cyzus/suzent) · [官网](https://suzent.com/) · 个人维护 · 中文 README
+⭐ 70 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cyzus/suzent) · [官网](https://suzent.com/) · 个人维护 · 中文 README
 
 **本地优先的个人 AI agent：自持记忆、权限与模型选择**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cyzus/suzent 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 66 --> 71
     line [67, 68, 67, 69, 70, 70]
 ```
 
-2026-10-23 67 → 2026-11-25 70（+3）
+2026-10-24 67 → 2026-11-26 70（+3）
 
 
 ---

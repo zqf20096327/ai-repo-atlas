@@ -1,6 +1,6 @@
 # microsoft/Agent365-nodejs
 
-⭐ 24 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/microsoft/Agent365-nodejs) · 组织维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/Agent365-nodejs) · 组织维护
 
 **微软 Agent 365 SDK（Node.js/TS）：为 M365/Teams 构建企业级 agent 提供扩展工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/Agent365-nodejs 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-19", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-19", "2026-11-20", "2026-11-26"]
     y-axis "stars" 23 --> 26
     line [24, 25, 24, 24]
 ```
 
-2026-10-22 24 → 2026-11-25 24（+0）
+2026-10-23 24 → 2026-11-26 24（+0）
 
 
 ---

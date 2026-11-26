@@ -46,12 +46,12 @@ Packt 出版图书《Time Series Analysis with Python Cookbook》的配套代码
 ```mermaid
 xychart-beta
     title "PacktPublishing/Time-Series-Analysis-with-Python-Cookbook 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 287 --> 289
     line [288, 288]
 ```
 
-2026-10-23 288 → 2026-11-25 288（+0）
+2026-10-24 288 → 2026-11-26 288（+0）
 
 
 ---

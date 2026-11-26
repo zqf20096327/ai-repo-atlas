@@ -1,6 +1,6 @@
 # bioimage-io/core-bioimage-io-python
 
-⭐ 40 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/bioimage-io/core-bioimage-io-python) · [官网](https://bioimage-io.github.io/core-bioimage-io-python) · 组织维护
+⭐ 40 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/bioimage-io/core-bioimage-io-python) · [官网](https://bioimage-io.github.io/core-bioimage-io-python) · 组织维护
 
 **加载、运行与打包 bioimage.io 模型的 Python 库**
 
@@ -45,12 +45,12 @@ bioimageio.core 是实现 bioimage.io 模型预测的 Python 包，包含标准�
 ```mermaid
 xychart-beta
     title "bioimage-io/core-bioimage-io-python 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 39 --> 41
     line [40, 40]
 ```
 
-2026-10-23 40 → 2026-11-25 40（+0）
+2026-10-24 40 → 2026-11-26 40（+0）
 
 
 ---

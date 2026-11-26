@@ -1,6 +1,6 @@
 # basilelt/overseer
 
-⭐ 9 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/basilelt/overseer) · [官网](https://basilelt.github.io/overseer/) · 个人维护
+⭐ 11 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/basilelt/overseer) · [官网](https://basilelt.github.io/overseer/) · 个人维护
 
 **统一运行与监督多个 AI 编码 agent 的桌面/移动应用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "basilelt/overseer 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 6 --> 10
-    line [7, 9, 9]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 6 --> 12
+    line [7, 9, 11]
 ```
 
-2026-11-08 7 → 2026-11-25 9（+2）
+2026-11-08 7 → 2026-11-26 11（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # SMACY2017/InterPilot
 
-⭐ 143 · Python · 推送 2026-09-23 · [GitHub](https://github.com/SMACY2017/InterPilot) · 个人维护 · 中文 README
+⭐ 144 · Python · 推送 2026-09-23 · [GitHub](https://github.com/SMACY2017/InterPilot) · 个人维护 · 中文 README
 
 **Windows AI 面试助手：捕获音频、本地转写并调用 LLM 生成回答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SMACY2017/InterPilot 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 140 --> 144
-    line [141, 142, 143, 143]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 140 --> 145
+    line [141, 142, 143, 144]
 ```
 
-2026-10-23 141 → 2026-11-25 143（+2）
+2026-10-24 141 → 2026-11-26 144（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # studiomoob/llmoobfs
 
-⭐ 3 · C · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/studiomoob/llmoobfs) · [官网](https://studiomoob.github.io/llmoobfs/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向 LLM agent 记忆的 Linux 内核文件系统模块：内核可查询的存储层**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | GPL-2.0 |
+| 许可风险 | `viral` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # VillagePrefect/stable-diffusion-atelier
 
-⭐ 92 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/VillagePrefect/stable-diffusion-atelier) · 个人维护
+⭐ 89 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/VillagePrefect/stable-diffusion-atelier) · 个人维护
 
 **本地 AI 绘画（Stable Diffusion）启动笔记与构建分发仓库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "VillagePrefect/stable-diffusion-atelier 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 91 --> 99
-    line [98, 94, 93, 92]
+    title "VillagePrefect/stable-diffusion-atelier 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 88 --> 99
+    line [98, 94, 93, 92, 89]
 ```
 
-2026-11-16 98 → 2026-11-25 92（-6）
+2026-11-16 98 → 2026-11-26 89（-9）
 
 
 ---

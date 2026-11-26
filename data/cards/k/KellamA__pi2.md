@@ -1,6 +1,6 @@
 # KellamA/pi2
 
-⭐ 3 · TypeScript · 推送 2026-11-24 · [GitHub](https://github.com/KellamA/pi2) · 组织维护
+⭐ 3 · Swift · 推送 2026-11-25 · [GitHub](https://github.com/KellamA/pi2) · 组织维护
 
 **Mac 上的 AI agent 宿主应用：项目化调度多 agent 且工作不因崩溃丢失**
 
@@ -40,6 +40,18 @@ pi² 是运行在 Mac 上的原生 AI agent 应用，基于 pi durable 库：每
 
 > L20: pi² is a home for AI agents on your Mac, built on pi durable. Every model turn, tool call and decision is saved bef
 > L22: It works with the models you already have: sign in with a subscription, paste an API key, point it at a local serve
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KellamA/pi2 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

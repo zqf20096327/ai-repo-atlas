@@ -1,6 +1,6 @@
 # genkit-ai/skills
 
-⭐ 40 · Python · 推送 2026-11-19 · [GitHub](https://github.com/genkit-ai/skills) · 组织维护
+⭐ 42 · Python · 推送 2026-11-19 · [GitHub](https://github.com/genkit-ai/skills) · 组织维护
 
 **教 AI 编码 agent 用 Genkit 框架开发应用的技能包**
 
@@ -43,12 +43,12 @@ Genkit 官方维护的 Agent Skills 集合：为 AI 编码 agent 提供指令性
 ```mermaid
 xychart-beta
     title "genkit-ai/skills 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 36 --> 41
-    line [37, 38, 37, 39, 40, 40]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 36 --> 43
+    line [37, 38, 37, 39, 40, 42]
 ```
 
-2026-10-23 37 → 2026-11-25 40（+3）
+2026-10-24 37 → 2026-11-26 42（+5）
 
 
 ---

@@ -42,6 +42,18 @@
 > L117: |`ANTHROPIC_API_KEY`|**Yes**|Claude Haiku for all AI reports + agent reasoning|~$0.001-0.008/run|
 > L254: graph/           LangGraph orchestration
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "daniel-st3/ai-cfo-agent 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `fb2915519af3` · [字段定义](../../DATASET.md)*

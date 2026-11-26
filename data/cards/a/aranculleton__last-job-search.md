@@ -1,6 +1,6 @@
 # aranculleton/last-job-search
 
-⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/aranculleton/last-job-search) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/aranculleton/last-job-search) · 个人维护
 
 **运行在 Claude Code 上的求职代理系统：找岗位、定制简历、跟进提醒**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "aranculleton/last-job-search 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
     y-axis "stars" 4 --> 8
     line [5, 6, 7, 5, 7, 6, 6]
 ```
 
-2026-10-23 5 → 2026-11-25 6（+1）
+2026-10-24 5 → 2026-11-26 6（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # eliashaeussler/typo3-solver
 
-⭐ 30 · PHP · GPL-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/eliashaeussler/typo3-solver) · [官网](https://docs.typo3.org/p/eliashaeussler/typo3-solver/main/en-us/) · 个人维护
+⭐ 30 · PHP · GPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/eliashaeussler/typo3-solver) · [官网](https://docs.typo3.org/p/eliashaeussler/typo3-solver/main/en-us/) · 个人维护
 
 **TYPO3 扩展：用 AI 生成的方案解决 CMS 异常**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "eliashaeussler/typo3-solver 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 30（+0）
 
 
 ---

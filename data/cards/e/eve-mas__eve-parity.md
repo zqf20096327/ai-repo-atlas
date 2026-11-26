@@ -1,6 +1,6 @@
 # eve-mas/eve-parity
 
-⭐ 21 · Python · GPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/eve-mas/eve-parity) · 组织维护
+⭐ 22 · Python · GPL-3.0 · 推送 2026-08-31 · [GitHub](https://github.com/eve-mas/eve-parity) · 组织维护
 
 **多智能体博弈时序均衡性质的形式化验证工具**
 
@@ -45,12 +45,12 @@ EVE（Equilibrium Verification Environment）是面向并发与多智能体系�
 ```mermaid
 xychart-beta
     title "eve-mas/eve-parity 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

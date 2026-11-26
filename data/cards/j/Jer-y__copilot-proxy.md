@@ -1,6 +1,6 @@
 # Jer-y/copilot-proxy
 
-⭐ 47 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Jer-y/copilot-proxy) · [官网](https://jer-y.github.io/copilot-proxy/) · 个人维护 · 中文 README
+⭐ 48 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/Jer-y/copilot-proxy) · [官网](https://jer-y.github.io/copilot-proxy/) · 个人维护 · 中文 README
 
 **将 GitHub Copilot 身份暴露为 OpenAI/Anthropic 兼容 API 的本地反向代理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Jer-y/copilot-proxy 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 44 --> 48
-    line [45, 46, 47, 47]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 44 --> 49
+    line [45, 46, 47, 48]
 ```
 
-2026-10-23 45 → 2026-11-25 47（+2）
+2026-10-24 45 → 2026-11-26 48（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # Fagan1024/smart-video-editor
 
-⭐ 10 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/Fagan1024/smart-video-editor) · [官网](https://github.com/Fagan1024/smart-video-editor#readme) · 个人维护 · 中文 README
+⭐ 11 · Python · MIT · 推送 2026-07-26 · [GitHub](https://github.com/Fagan1024/smart-video-editor) · [官网](https://github.com/Fagan1024/smart-video-editor#readme) · 个人维护 · 中文 README
 
 **给 Agent 用户的视频自动剪辑 Skill：先逐帧看懂素材再剪**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Fagan1024/smart-video-editor 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

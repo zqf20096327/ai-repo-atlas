@@ -1,6 +1,6 @@
 # WongiPark0628/Awesome-ComputerVision
 
-⭐ 129 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/WongiPark0628/Awesome-ComputerVision) · 个人维护
+⭐ 130 · Python · MIT · 推送 2026-11-07 · [GitHub](https://github.com/WongiPark0628/Awesome-ComputerVision) · 个人维护
 
 **计算机视觉论文与代码资源清单（分类/检测/分割/元学习等）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "WongiPark0628/Awesome-ComputerVision 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 128 --> 130
-    line [129, 129]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 128 --> 131
+    line [129, 130]
 ```
 
-2026-11-08 129 → 2026-11-25 129（+0）
+2026-11-08 129 → 2026-11-26 130（+1）
 
 
 ---

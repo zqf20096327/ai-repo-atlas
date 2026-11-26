@@ -1,6 +1,6 @@
 # tuya/TuyaOpen-Core
 
-⭐ 5 · C · 推送 2026-11-23 · [GitHub](https://github.com/tuya/TuyaOpen-Core) · [官网](https://tuyaopen.ai) · 组织维护 · 中文 README
+⭐ 5 · C · 推送 2026-11-25 · [GitHub](https://github.com/tuya/TuyaOpen-Core) · [官网](https://tuyaopen.ai) · 组织维护 · 中文 README
 
 **给嵌入式设备项目接入涂鸦云 IoT/AI/P2P 能力的 C SDK**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tuya/TuyaOpen-Core 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-19", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-19", "2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-02 3 → 2026-11-25 5（+2）
+2026-11-02 3 → 2026-11-26 5（+2）
 
 
 ---

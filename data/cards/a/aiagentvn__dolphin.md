@@ -1,6 +1,6 @@
 # aiagentvn/dolphin
 
-⭐ 3 · C# · MIT · 推送 2026-11-12 · [GitHub](https://github.com/aiagentvn/dolphin) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **C# 编写的开源 UCI 国际象棋引擎，带自训练 NNUE**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

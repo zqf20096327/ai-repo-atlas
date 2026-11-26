@@ -1,6 +1,6 @@
 # elementor/angie-sdk
 
-⭐ 28 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/elementor/angie-sdk) · [官网](https://elementor.github.io/angie-sdk/demo/) · 组织维护
+⭐ 28 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/elementor/angie-sdk) · [官网](https://elementor.github.io/angie-sdk/demo/) · 组织维护
 
 **WordPress Angie AI 助手的 MCP 扩展 SDK，供插件开发者接入**
 
@@ -46,12 +46,12 @@ Elementor 维护的 TypeScript SDK，用于为 WordPress AI 助手 Angie 创建�
 ```mermaid
 xychart-beta
     title "elementor/angie-sdk 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 27 --> 29
     line [28, 28]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 28（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # lab-cosmo/atomistic-cookbook
 
-⭐ 58 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/lab-cosmo/atomistic-cookbook) · [官网](https://atomistic-cookbook.org) · 组织维护
+⭐ 59 · Python · BSD-3-Clause · 推送 2026-11-24 · [GitHub](https://github.com/lab-cosmo/atomistic-cookbook) · [官网](https://atomistic-cookbook.org) · 组织维护
 
 **原子尺度材料/分子模拟的配方合集源码库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lab-cosmo/atomistic-cookbook 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 55 --> 59
-    line [56, 57, 56, 57, 58, 58]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 55 --> 60
+    line [56, 57, 56, 57, 58, 59]
 ```
 
-2026-10-23 56 → 2026-11-25 58（+2）
+2026-10-24 56 → 2026-11-26 59（+3）
 
 
 ---

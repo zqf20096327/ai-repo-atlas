@@ -41,6 +41,18 @@
 > L59: * Run `make all` which will install, lint and test code.
 > L84: **Learn MLOps end to end:** Machine Learning with Databricks and MLflow (Coursera) · MLOps specialization, Duke (Co
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/azure-ml-devops 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 19 --> 21
+    line [20, 20]
+```
+
+2026-11-25 20 → 2026-11-26 20（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b83c73be7984` · [字段定义](../../DATASET.md)*

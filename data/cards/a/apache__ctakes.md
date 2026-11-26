@@ -1,6 +1,6 @@
 # apache/ctakes
 
-⭐ 142 · Java · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/apache/ctakes) · [官网](https://ctakes.apache.org) · 组织维护
+⭐ 143 · Java · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/apache/ctakes) · [官网](https://ctakes.apache.org) · 组织维护
 
 **面向临床文本的 NLP 平台：从病历文本抽取医学知识与实体**
 
@@ -45,12 +45,12 @@ Apache cTAKES 是用自然语言处理技术从临床文本中抽取知识的模
 ```mermaid
 xychart-beta
     title "apache/ctakes 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 138 --> 143
-    line [139, 140, 139, 141, 142, 142]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 138 --> 144
+    line [139, 140, 139, 141, 142, 143]
 ```
 
-2026-10-23 139 → 2026-11-25 142（+3）
+2026-10-24 139 → 2026-11-26 143（+4）
 
 
 ---

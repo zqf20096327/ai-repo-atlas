@@ -1,6 +1,6 @@
 # ma-pony/ssq-predictor
 
-⭐ 15 · Python · 推送 2026-02-07 · [GitHub](https://github.com/ma-pony/ssq-predictor) · 个人维护 · 中文 README
+⭐ 16 · Python · 推送 2026-02-07 · [GitHub](https://github.com/ma-pony/ssq-predictor) · 个人维护 · 中文 README
 
 **双色球彩票预测 Agent Skill：统计/物理/易经多维选号分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ma-pony/ssq-predictor 星数(近 5 点)"
-    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 14, 15, 15]
+    x-axis ["2026-10-26", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 14, 15, 16]
 ```
 
-2026-10-26 10 → 2026-11-25 15（+5）
+2026-10-26 10 → 2026-11-26 16（+6）
 
 
 ---

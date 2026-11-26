@@ -1,6 +1,6 @@
 # gauravsharmaGG/mergejudge-runner
 
-⭐ 55 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/gauravsharmaGG/mergejudge-runner) · [官网](https://mergejudge.si) · 个人维护
+⭐ 55 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gauravsharmaGG/mergejudge-runner) · [官网](https://mergejudge.si) · 个人维护
 
 **给工程团队的自托管 AI 代码审查 GitHub Action 与 CLI**
 
@@ -46,13 +46,13 @@ MIT 许可的自托管 GitHub Action 与 CLI（mergejudge-runner），将 pull r
 
 ```mermaid
 xychart-beta
-    title "gauravsharmaGG/mergejudge-runner 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-25"]
+    title "gauravsharmaGG/mergejudge-runner 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 28 --> 57
-    line [46, 35, 31, 30, 55]
+    line [46, 35, 31, 30, 55, 55]
 ```
 
-2026-11-08 46 → 2026-11-25 55（+9）
+2026-11-08 46 → 2026-11-26 55（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # valentinradu/Pent
 
-⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/valentinradu/Pent) · 个人维护
+⭐ 10 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/valentinradu/Pent) · 个人维护
 
 **给开发者限制不可信进程文件与网络访问的轻量沙箱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "valentinradu/Pent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

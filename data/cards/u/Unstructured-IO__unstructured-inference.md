@@ -1,6 +1,6 @@
 # Unstructured-IO/unstructured-inference
 
-⭐ 211 · Python · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/Unstructured-IO/unstructured-inference) · 组织维护
+⭐ 211 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Unstructured-IO/unstructured-inference) · 组织维护
 
 **文档版面解析模型推理库：检测+OCR 提取文档文本元素**
 
@@ -44,12 +44,12 @@ unstructured 生态的托管模型推理库，为 unstructured 包的 partitioni
 ```mermaid
 xychart-beta
     title "Unstructured-IO/unstructured-inference 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-01", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-01", "2026-11-12", "2026-11-26"]
     y-axis "stars" 209 --> 212
     line [210, 211, 210, 211, 211]
 ```
 
-2026-10-23 210 → 2026-11-25 211（+1）
+2026-10-24 210 → 2026-11-26 211（+1）
 
 
 ---

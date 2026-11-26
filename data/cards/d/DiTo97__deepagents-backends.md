@@ -1,6 +1,6 @@
 # DiTo97/deepagents-backends
 
-⭐ 129 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/DiTo97/deepagents-backends) · [官网](https://dito97.github.io/deepagents-backends/) · 个人维护
+⭐ 128 · Python · MIT · 推送 2026-07-15 · [GitHub](https://github.com/DiTo97/deepagents-backends) · [官网](https://dito97.github.io/deepagents-backends/) · 个人维护
 
 **为 LangChain Deep Agents 提供远程存储后端：S3/PG/Azure/GCS/Mongo/Redis**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "DiTo97/deepagents-backends 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 124 --> 130
-    line [125, 127, 125, 127, 128, 129, 129]
+    line [125, 127, 125, 127, 128, 129, 128]
 ```
 
-2026-10-23 125 → 2026-11-25 129（+4）
+2026-10-24 125 → 2026-11-26 128（+3）
 
 
 ---

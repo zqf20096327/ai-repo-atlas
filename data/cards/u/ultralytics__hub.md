@@ -1,6 +1,6 @@
 # ultralytics/hub
 
-⭐ 255 · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/hub) · [官网](https://platform.ultralytics.com) · 组织维护
+⭐ 254 · AGPL-3.0 · 推送 2026-08-28 · [GitHub](https://github.com/ultralytics/hub) · [官网](https://platform.ultralytics.com) · 组织维护
 
 **已停服的 Ultralytics HUB 历史仓库，指向继任的 Ultralytics Platform**
 
@@ -45,13 +45,13 @@ Ultralytics HUB 的历史存档仓库：HUB 已于 2026 年 7 月 31 日关闭�
 
 ```mermaid
 xychart-beta
-    title "ultralytics/hub 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
+    title "ultralytics/hub 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25", "2026-11-26"]
     y-axis "stars" 248 --> 256
-    line [249, 250, 249, 252, 254, 255]
+    line [249, 250, 249, 252, 254, 255, 254]
 ```
 
-2026-10-23 249 → 2026-11-25 255（+6）
+2026-10-24 249 → 2026-11-26 254（+5）
 
 
 ---

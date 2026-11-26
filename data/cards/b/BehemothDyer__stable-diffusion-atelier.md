@@ -1,6 +1,6 @@
 # BehemothDyer/stable-diffusion-atelier
 
-⭐ 83 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/BehemothDyer/stable-diffusion-atelier) · 个人维护
+⭐ 80 · MIT · 推送 2026-11-15 · [GitHub](https://github.com/BehemothDyer/stable-diffusion-atelier) · 个人维护
 
 **面向本地 Stable Diffusion 的速记仓库，附 PowerShell 一键安装命令**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "BehemothDyer/stable-diffusion-atelier 星数(近 7 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 82 --> 98
-    line [97, 96, 91, 86, 85, 84, 83]
+    title "BehemothDyer/stable-diffusion-atelier 星数(近 8 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 79 --> 98
+    line [97, 96, 91, 86, 85, 84, 83, 80]
 ```
 
-2026-11-16 97 → 2026-11-25 83（-14）
+2026-11-16 97 → 2026-11-26 80（-17）
 
 
 ---

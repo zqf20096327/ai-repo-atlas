@@ -1,6 +1,6 @@
 # SamarthY06/OpenValet
 
-⭐ 10 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/SamarthY06/OpenValet) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SamarthY06/OpenValet) · 个人维护
 
 **开源语音/WhatsApp 代理，用自己的 Claude 登录操控 Mac 应用**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SamarthY06/OpenValet 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25"]
+    title "SamarthY06/OpenValet 星数(近 5 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-25", "2026-11-26"]
     y-axis "stars" 4 --> 11
-    line [5, 8, 9, 10]
+    line [5, 8, 9, 10, 10]
 ```
 
-2026-11-18 5 → 2026-11-25 10（+5）
+2026-11-18 5 → 2026-11-26 10（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # yqing004-boop/magpie-android
 
-⭐ 54 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/yqing004-boop/magpie-android) · [官网](https://www.coolapk.com/feed/74971201?s=NTU4MTYyYTQxOTEwNDdnNmFmMzNlZWF6a1665) · 个人维护 · 中文 README
+⭐ 62 · Java · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/yqing004-boop/magpie-android) · [官网](https://www.coolapk.com/feed/74971201?s=NTU4MTYyYTQxOTEwNDdnNmFmMzNlZWF6a1665) · 个人维护 · 中文 README
 
 **magpie 本地 AI 网关的非官方 Android 客户端**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yqing004-boop/magpie-android 星数(近 13 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 6 --> 58
-    line [10, 16, 18, 20, 22, 27, 28, 30, 34, 39, 47, 50, 54]
+    title "yqing004-boop/magpie-android 星数(近 14 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 67
+    line [10, 16, 18, 20, 22, 27, 28, 30, 34, 39, 47, 50, 54, 62]
 ```
 
-2026-11-10 10 → 2026-11-25 54（+44）
+2026-11-10 10 → 2026-11-26 62（+52）
 
 
 ---

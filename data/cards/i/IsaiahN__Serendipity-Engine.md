@@ -1,6 +1,6 @@
 # IsaiahN/Serendipity-Engine
 
-⭐ 17 · JavaScript · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/IsaiahN/Serendipity-Engine) · [官网](https://chromewebstore.google.com/detail/serendipity-storyweaver/bkpphanncdhpcbmalnpknoieglmopjib) · 个人维护
+⭐ 16 · JavaScript · NOASSERTION · 推送 2026-06-29 · [GitHub](https://github.com/IsaiahN/Serendipity-Engine) · [官网](https://chromewebstore.google.com/detail/serendipity-storyweaver/bkpphanncdhpcbmalnpknoieglmopjib) · 个人维护
 
 **面向作者的 AI 创意写作工作台：8 阶段构建完整叙事作品**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "IsaiahN/Serendipity-Engine 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    title "IsaiahN/Serendipity-Engine 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 14 --> 18
-    line [15, 16, 17]
+    line [15, 16, 17, 16]
 ```
 
-2026-10-23 15 → 2026-11-25 17（+2）
+2026-10-24 15 → 2026-11-26 16（+1）
 
 
 ---

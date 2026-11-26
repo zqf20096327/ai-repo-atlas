@@ -1,6 +1,6 @@
 # SciML/ReservoirComputing.jl
 
-⭐ 234 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/SciML/ReservoirComputing.jl) · [官网](https://docs.sciml.ai/ReservoirComputing/stable/) · 组织维护
+⭐ 234 · Julia · MIT · 推送 2026-11-24 · [GitHub](https://github.com/SciML/ReservoirComputing.jl) · [官网](https://docs.sciml.ai/ReservoirComputing/stable/) · 组织维护
 
 **Julia 储备计算库：构建与训练 ESN 等模型**
 
@@ -46,12 +46,12 @@ SciML 组织维护的 Julia 储备计算（Reservoir Computing）工具库，提
 ```mermaid
 xychart-beta
     title "SciML/ReservoirComputing.jl 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 232 --> 235
     line [234, 233, 234, 233, 234, 234]
 ```
 
-2026-10-23 234 → 2026-11-25 234（+0）
+2026-10-24 234 → 2026-11-26 234（+0）
 
 
 ---

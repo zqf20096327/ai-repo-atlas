@@ -1,6 +1,6 @@
 # AdemBoukhris457/Doctra
 
-⭐ 214 · Jupyter Notebook · Apache-2.0 · 推送 2025-11-29 · [GitHub](https://github.com/AdemBoukhris457/Doctra) · [官网](https://ademboukhris457.github.io/Doctra/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **面向开发者的文档解析库：PDF/DOCX 提取 OCR 与结构化输出**
 
@@ -11,7 +11,7 @@ Python 库，提供多个解析器处理 PDF 与 DOCX：布局检测（PaddleOCR
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

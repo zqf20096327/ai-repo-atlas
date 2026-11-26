@@ -1,6 +1,6 @@
 # prp/oscar
 
-⭐ 21 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/prp/oscar) · 组织维护
+⭐ 25 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/prp/oscar) · 组织维护
 
 **让 Apple Silicon Mac 以弹性内存运行超内存大型 MoE 模型**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "prp/oscar 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 4 --> 22
-    line [5, 17, 20, 21]
+    title "prp/oscar 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 27
+    line [5, 17, 20, 21, 25]
 ```
 
-2026-11-21 5 → 2026-11-25 21（+16）
+2026-11-21 5 → 2026-11-26 25（+20）
 
 
 ---

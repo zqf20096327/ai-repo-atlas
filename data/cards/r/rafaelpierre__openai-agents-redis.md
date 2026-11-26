@@ -1,6 +1,6 @@
 # rafaelpierre/openai-agents-redis
 
-⭐ 16 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/rafaelpierre/openai-agents-redis) · [官网](https://pypi.org/project/openai-agents-redis/) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-07-20 · [GitHub](https://github.com/rafaelpierre/openai-agents-redis) · [官网](https://pypi.org/project/openai-agents-redis/) · 个人维护
 
 **用 Redis 做持久层的 OpenAI Agents SDK 会话管理实现**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "rafaelpierre/openai-agents-redis 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

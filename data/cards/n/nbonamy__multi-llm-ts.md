@@ -45,12 +45,12 @@ TypeScript 库，为 12 家 LLM 提供商（Anthropic、Azure AI、Cerebras、De
 ```mermaid
 xychart-beta
     title "nbonamy/multi-llm-ts 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
     y-axis "stars" 83 --> 86
     line [84, 85, 85]
 ```
 
-2026-10-23 84 → 2026-11-25 85（+1）
+2026-10-24 84 → 2026-11-26 85（+1）
 
 
 ---

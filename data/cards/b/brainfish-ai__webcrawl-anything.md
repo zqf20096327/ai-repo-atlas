@@ -1,6 +1,6 @@
 # brainfish-ai/webcrawl-anything
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/brainfish-ai/webcrawl-anything) · [官网](https://webcrawl.app) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/brainfish-ai/webcrawl-anything) · [官网](https://webcrawl.app) · 组织维护
 
 **给 AI agent 的本地零 key 网页抓取/搜索/监控工具（MCP+CLI）**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "brainfish-ai/webcrawl-anything 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 13 --> 16
-    line [15, 14, 14]
+    line [15, 14, 15]
 ```
 
-2026-11-10 15 → 2026-11-25 14（-1）
+2026-11-10 15 → 2026-11-26 15（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # seanbabalala/SiftGate
 
-⭐ 675 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/seanbabalala/SiftGate) · [官网](https://github.com/seanbabalala/SiftGate/blob/main/docs/enterprise-overview.md) · 个人维护 · 中文 README
+⭐ 680 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/seanbabalala/SiftGate) · [官网](https://github.com/seanbabalala/SiftGate/blob/main/docs/enterprise-overview.md) · 个人维护 · 中文 README
 
 **自托管企业 AI 网关：密钥、策略、审计与路由集中管控**
 
@@ -41,6 +41,18 @@
 > L39: SiftGate is an MIT-licensed AI gateway that you run on your own
 > L41: Cursor, SDKs and MCP tools send requests to SiftGate instead of calling AI
 > L60: **1. Access and policy.** One ingress for OpenAI- and Anthropic-compatible
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "seanbabalala/SiftGate 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 674 --> 681
+    line [675, 680]
+```
+
+2026-11-25 675 → 2026-11-26 680（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # EndLess728/react-native-mediapipe-posedetection
 
-⭐ 30 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/EndLess728/react-native-mediapipe-posedetection) · [官网](https://endless728.github.io/react-native-mediapipe-posedetection/) · 个人维护
+⭐ 29 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/EndLess728/react-native-mediapipe-posedetection) · [官网](https://endless728.github.io/react-native-mediapipe-posedetection/) · 个人维护
 
 **React Native 实时人体姿态检测库：MediaPipe 33 个关键点**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EndLess728/react-native-mediapipe-posedetection 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 28 --> 31
+    line [30, 29]
 ```
 
-2026-11-10 30 → 2026-11-25 30（+0）
+2026-11-10 30 → 2026-11-26 29（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # ythx-101/huatu-skill
 
-⭐ 29 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/huatu-skill) · 个人维护 · 中文 README
+⭐ 30 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ythx-101/huatu-skill) · 个人维护 · 中文 README
 
 **面向 Codex/Agent 的视觉叙事 Skill：把文章做成小红书轮播与 ELI5 解释器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ythx-101/huatu-skill 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 28 --> 32
-    line [31, 30, 31, 30, 29, 29]
+    line [31, 30, 31, 30, 29, 30]
 ```
 
-2026-10-23 31 → 2026-11-25 29（-2）
+2026-10-24 31 → 2026-11-26 30（-1）
 
 
 ---

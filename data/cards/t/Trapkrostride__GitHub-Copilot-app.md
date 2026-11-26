@@ -1,6 +1,6 @@
 # Trapkrostride/GitHub-Copilot-app
 
-⭐ 367 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Trapkrostride/GitHub-Copilot-app) · 组织维护
+⭐ 361 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/Trapkrostride/GitHub-Copilot-app) · 组织维护
 
 **管理 GitHub Copilot agent 软件工作的桌面应用**
 
@@ -44,13 +44,13 @@ GitHub, Inc. 发布的桌面应用，用于跨仓库寻找、运行、引导和�
 
 ```mermaid
 xychart-beta
-    title "Trapkrostride/GitHub-Copilot-app 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 366 --> 376
-    line [375, 374, 373, 370, 367]
+    title "Trapkrostride/GitHub-Copilot-app 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 360 --> 376
+    line [375, 374, 373, 370, 367, 361]
 ```
 
-2026-11-15 375 → 2026-11-25 367（-8）
+2026-11-15 375 → 2026-11-26 361（-14）
 
 
 ---

@@ -1,6 +1,6 @@
 # Anthony-xyr/PlanReview
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Anthony-xyr/PlanReview) · 个人维护 · 中文 README
+⭐ 6 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Anthony-xyr/PlanReview) · 个人维护 · 中文 README
 
 **给个人用户做计划管理与 AI 时间复盘的桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Anthony-xyr/PlanReview 星数(近 4 点)"
-    x-axis ["2026-10-26", "2026-10-27", "2026-11-01", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-10-26", "2026-10-27", "2026-11-01", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-10-26 3 → 2026-11-25 5（+2）
+2026-10-26 3 → 2026-11-26 6（+3）
 
 
 ---

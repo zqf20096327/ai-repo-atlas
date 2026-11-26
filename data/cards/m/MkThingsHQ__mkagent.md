@@ -1,6 +1,6 @@
 # MkThingsHQ/mkagent
 
-⭐ 207 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/MkThingsHQ/mkagent) · [官网](https://mkagent.app) · 个人维护 · 中文 README
+⭐ 206 · TypeScript · Apache-2.0 · 推送 2026-11-14 · [GitHub](https://github.com/MkThingsHQ/mkagent) · [官网](https://mkagent.app) · 个人维护 · 中文 README
 
 **本地优先的 AI agent 工作台，覆盖桌面/WebUI/CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "MkThingsHQ/mkagent 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
     y-axis "stars" 204 --> 209
-    line [205, 206, 207, 205, 208, 207, 207]
+    line [205, 206, 207, 205, 208, 207, 206]
 ```
 
-2026-10-23 205 → 2026-11-25 207（+2）
+2026-10-24 205 → 2026-11-26 206（+1）
 
 
 ---

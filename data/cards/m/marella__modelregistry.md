@@ -1,6 +1,6 @@
 # marella/modelregistry
 
-⭐ 24 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/marella/modelregistry) · [官网](https://modelregistry.io) · 个人维护
+⭐ 24 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/marella/modelregistry) · [官网](https://modelregistry.io) · 个人维护
 
 **开源 AI 模型的去中心化分发注册目录**
 
@@ -41,12 +41,12 @@ README 仅含项目名、一句使命陈述（去中心化开源 AI 模型的分
 ```mermaid
 xychart-beta
     title "marella/modelregistry 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 23 --> 26
     line [25, 24, 25, 24, 24]
 ```
 
-2026-10-23 25 → 2026-11-25 24（-1）
+2026-10-24 25 → 2026-11-26 24（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # claude-did-this/MCPControl
 
-⭐ 335 · TypeScript · MIT · 推送 2025-12-02 · [GitHub](https://github.com/claude-did-this/MCPControl) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **Windows 自动化 MCP 服务器：让 AI 模型控制鼠标键盘与屏幕**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

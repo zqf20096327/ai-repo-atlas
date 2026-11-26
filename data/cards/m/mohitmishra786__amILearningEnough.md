@@ -1,6 +1,6 @@
 # mohitmishra786/amILearningEnough
 
-⭐ 1,369 · MIT · 推送 2026-03-26 · [GitHub](https://github.com/mohitmishra786/amILearningEnough) · [官网](https://mohitmishra786.github.io/amILearningEnough/) · 个人维护
+⭐ 1,370 · MIT · 推送 2026-03-26 · [GitHub](https://github.com/mohitmishra786/amILearningEnough) · [官网](https://mohitmishra786.github.io/amILearningEnough/) · 个人维护
 
 **低级与系统编程（C/汇编）学习路线图与资源清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mohitmishra786/amILearningEnough 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 1365 --> 1370
-    line [1366, 1367, 1369, 1368, 1367, 1368, 1369, 1368, 1367, 1369, 1369]
+    title "mohitmishra786/amILearningEnough 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 1366 --> 1371
+    line [1367, 1369, 1368, 1367, 1368, 1369, 1368, 1367, 1369, 1370]
 ```
 
-2026-10-23 1,366 → 2026-11-25 1,369（+3）
+2026-10-24 1,367 → 2026-11-26 1,370（+3）
 
 
 ---

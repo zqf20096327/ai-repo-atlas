@@ -1,6 +1,6 @@
 # Wolfe-Jam/faf
 
-⭐ 18 · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Wolfe-Jam/faf) · [官网](https://faf.one) · 个人维护
+⭐ 18 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Wolfe-Jam/faf) · [官网](https://faf.one) · 个人维护
 
 **给开发者的 IANA 注册 AI 上下文格式规范（.faf）及配套 CLI/MCP 工具链**
 
@@ -47,12 +47,12 @@ FAF 是一个面向 AI 上下文的开放格式规范：以结构化 YAML 文件
 ```mermaid
 xychart-beta
     title "Wolfe-Jam/faf 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [17, 18, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

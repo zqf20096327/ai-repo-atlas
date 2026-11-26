@@ -1,6 +1,6 @@
 # githrish/lenny-guest-product-mock-interview
 
-⭐ 18 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/githrish/lenny-guest-product-mock-interview) · 个人维护
+⭐ 19 · Python · MIT · 推送 2026-09-04 · [GitHub](https://github.com/githrish/lenny-guest-product-mock-interview) · 个人维护
 
 **基于 Lenny 播客嘉宾 transcript 的产品经理模拟面试技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "githrish/lenny-guest-product-mock-interview 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 16, 17, 18, 18]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 16, 17, 18, 19]
 ```
 
-2026-10-23 14 → 2026-11-25 18（+4）
+2026-10-24 14 → 2026-11-26 19（+5）
 
 
 ---

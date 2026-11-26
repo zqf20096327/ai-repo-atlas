@@ -1,6 +1,6 @@
 # wang2226/Awesome-LLM-Decoding
 
-⭐ 77 · Apache-2.0 · 推送 2026-09-23 · [GitHub](https://github.com/wang2226/Awesome-LLM-Decoding) · 个人维护
+⭐ 77 · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/wang2226/Awesome-LLM-Decoding) · 个人维护
 
 **LLM/LVLM 解码方法研究论文清单（配套已发表论文综述）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wang2226/Awesome-LLM-Decoding 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 76 --> 78
     line [77, 77]
 ```
 
-2026-10-23 77 → 2026-11-25 77（+0）
+2026-10-24 77 → 2026-11-26 77（+0）
 
 
 ---

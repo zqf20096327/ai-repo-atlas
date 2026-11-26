@@ -44,12 +44,12 @@ Devinterview.io 维护的数据工程师面试准备资料仓库，以 Markdown 
 ```mermaid
 xychart-beta
     title "Devinterview-io/data-engineer-interview-questions 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 106 --> 109
     line [107, 108, 108]
 ```
 
-2026-10-23 107 → 2026-11-25 108（+1）
+2026-10-24 107 → 2026-11-26 108（+1）
 
 
 ---

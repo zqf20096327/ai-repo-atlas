@@ -1,6 +1,6 @@
 # Noineri/vibe_tavern
 
-⭐ 86 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Noineri/vibe_tavern) · [官网](https://vibe-tavern.com) · 个人维护 · 中文 README
+⭐ 84 · TypeScript · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/Noineri/vibe_tavern) · [官网](https://vibe-tavern.com) · 个人维护 · 中文 README
 
 **本地优先的 AI 角色扮演聊天客户端，支持桌面与手机**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Noineri/vibe_tavern 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 79 --> 87
-    line [80, 81, 82, 81, 82, 83, 84, 85, 86, 86]
+    title "Noineri/vibe_tavern 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 80 --> 87
+    line [81, 82, 81, 82, 83, 84, 85, 86, 84]
 ```
 
-2026-10-23 80 → 2026-11-25 86（+6）
+2026-10-24 81 → 2026-11-26 84（+3）
 
 
 ---

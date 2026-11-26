@@ -1,6 +1,6 @@
 # sepiablue-ai/ComfyUI-MossPanelDataset
 
-⭐ 43 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/sepiablue-ai/ComfyUI-MossPanelDataset) · 组织维护
+⭐ 44 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/sepiablue-ai/ComfyUI-MossPanelDataset) · 组织维护
 
 **给 MOSS-Image 漫画创作者的 ComfyUI 自定义节点：从见本选分镜再填人物台词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sepiablue-ai/ComfyUI-MossPanelDataset 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 15 --> 45
-    line [17, 40, 41, 42, 43, 43]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 15 --> 46
+    line [17, 40, 41, 42, 43, 44]
 ```
 
-2026-11-02 17 → 2026-11-25 43（+26）
+2026-11-02 17 → 2026-11-26 44（+27）
 
 
 ---

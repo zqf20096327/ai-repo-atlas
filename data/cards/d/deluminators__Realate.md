@@ -1,6 +1,6 @@
 # deluminators/Realate
 
-⭐ 37 · Jupyter Notebook · MIT · 推送 2026-11-21 · [GitHub](https://github.com/deluminators/Realate) · 组织维护
+⭐ 37 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/deluminators/Realate) · 组织维护
 
 **面向房地产的土地覆盖分类与最优路径预测分析系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "deluminators/Realate 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-23 37 → 2026-11-25 37（+0）
+2026-10-24 37 → 2026-11-26 37（+0）
 
 
 ---

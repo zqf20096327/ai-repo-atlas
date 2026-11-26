@@ -45,12 +45,12 @@ Openlayer（持续模型改进平台）的官方 Python 库，封装其 REST API
 ```mermaid
 xychart-beta
     title "openlayer-ai/openlayer-python 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

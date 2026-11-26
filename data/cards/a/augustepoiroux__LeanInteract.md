@@ -1,6 +1,6 @@
 # augustepoiroux/LeanInteract
 
-⭐ 138 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/augustepoiroux/LeanInteract) · [官网](https://augustepoiroux.github.io/LeanInteract/) · 组织维护
+⭐ 140 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/augustepoiroux/LeanInteract) · [官网](https://augustepoiroux.github.io/LeanInteract/) · 组织维护
 
 **通过 Lean REPL 从 Python 交互执行 Lean 4 的接口库**
 
@@ -47,12 +47,12 @@ LeanInteract 是一个 Python 包，封装 Lean REPL，支持从 Python 执行 L
 ```mermaid
 xychart-beta
     title "augustepoiroux/LeanInteract 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 133 --> 139
-    line [134, 135, 134, 137, 138, 138]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 133 --> 141
+    line [134, 135, 134, 137, 138, 140]
 ```
 
-2026-10-23 134 → 2026-11-25 138（+4）
+2026-10-24 134 → 2026-11-26 140（+6）
 
 
 ---

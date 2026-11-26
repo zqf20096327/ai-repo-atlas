@@ -1,6 +1,6 @@
 # LBANN/lbann
 
-⭐ 231 · C++ · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/LBANN/lbann) · [官网](http://software.llnl.gov/lbann/) · 组织维护
+⭐ 232 · C++ · NOASSERTION · 推送 2026-08-06 · [GitHub](https://github.com/LBANN/lbann) · [官网](http://software.llnl.gov/lbann/) · 组织维护
 
 **LLNL 的高性能分布式深度学习训练框架**
 
@@ -44,12 +44,12 @@ Livermore Big Artificial Neural Network (LBANN) 是 Lawrence Livermore 国家实
 ```mermaid
 xychart-beta
     title "LBANN/lbann 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 230 --> 232
-    line [231, 231]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 230 --> 233
+    line [231, 232]
 ```
 
-2026-10-23 231 → 2026-11-25 231（+0）
+2026-10-24 231 → 2026-11-26 232（+1）
 
 
 ---

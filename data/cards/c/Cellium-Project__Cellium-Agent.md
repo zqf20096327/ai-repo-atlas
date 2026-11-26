@@ -1,6 +1,6 @@
 # Cellium-Project/Cellium-Agent
 
-⭐ 221 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Cellium-Project/Cellium-Agent) · [官网](https://agent.cellium.top) · 组织维护 · 中文 README
+⭐ 220 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/Cellium-Project/Cellium-Agent) · [官网](https://agent.cellium.top) · 组织维护 · 中文 README
 
 **决策环驱动的自进化通用 AI Agent 框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Cellium-Project/Cellium-Agent 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-30", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-18", "2026-11-19", "2026-11-26"]
     y-axis "stars" 217 --> 227
-    line [226, 221, 220, 221, 218, 219, 220, 221, 222, 221, 221]
+    line [226, 221, 220, 221, 218, 219, 220, 221, 222, 221, 220]
 ```
 
-2026-10-23 226 → 2026-11-25 221（-5）
+2026-10-24 226 → 2026-11-26 220（-6）
 
 
 ---

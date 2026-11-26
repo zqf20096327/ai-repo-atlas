@@ -1,6 +1,6 @@
 # bugwz/AIMeter
 
-⭐ 18 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/bugwz/AIMeter) · [官网](https://aimeter.cc/) · 个人维护 · 中文 README
+⭐ 19 · TypeScript · MIT · 推送 2026-03-15 · [GitHub](https://github.com/bugwz/AIMeter) · [官网](https://aimeter.cc/) · 个人维护 · 中文 README
 
 **自托管面板：集中追踪多家 AI 服务的用量、额度与历史**
 
@@ -45,12 +45,12 @@ React 前端 + Express 后端的自托管仪表盘，通过多供应商适配器
 ```mermaid
 xychart-beta
     title "bugwz/AIMeter 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 19（+1）
 
 
 ---

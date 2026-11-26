@@ -1,6 +1,6 @@
 # Bhushan2318/sih-main
 
-⭐ 10 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/Bhushan2318/sih-main) · [官网](https://sanket-a0dd.onrender.com) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Bhushan2318/sih-main) · [官网](https://sanket-a0dd.onrender.com) · 个人维护
 
 **面向印度 666 个区县的中期天气预报失误概率预测系统**
 
@@ -46,12 +46,12 @@ SIH 2026 赛题（MoES）的参赛项目：对 NOAA GEFS 预报，逐区县、�
 ```mermaid
 xychart-beta
     title "Bhushan2318/sih-main 星数(近 2 点)"
-    x-axis ["2026-10-29", "2026-11-25"]
+    x-axis ["2026-10-29", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-29 10 → 2026-11-25 10（+0）
+2026-10-29 10 → 2026-11-26 10（+0）
 
 
 ---

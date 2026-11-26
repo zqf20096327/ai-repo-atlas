@@ -1,6 +1,6 @@
 # codebyshambhavi/pramana-dfir
 
-⭐ 3 · Python · 推送 2026-11-23 · [GitHub](https://github.com/codebyshambhavi/pramana-dfir) · [官网](https://pramana-dfir.vercel.app) · 个人维护
+⭐ 3 · Python · 推送 2026-11-24 · [GitHub](https://github.com/codebyshambhavi/pramana-dfir) · [官网](https://pramana-dfir.vercel.app) · 个人维护
 
 **面向网络取证调查者的证据溯源分析平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "codebyshambhavi/pramana-dfir 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 3（+0）
 
 
 ---

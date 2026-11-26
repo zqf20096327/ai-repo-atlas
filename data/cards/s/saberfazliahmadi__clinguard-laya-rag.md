@@ -42,6 +42,18 @@
 > L57:  Models like open-weight **Laya** (`convaiinnovations/laya-typed-decisions`, Apache 2.0) and **Jev** (`POST /v1/sys
 > L67: |**5-stage safety pipeline** (screening, routing, search, filtering, fact-checking, and rulebook)|**Fully working &
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "saberfazliahmadi/clinguard-laya-rag 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `489b903680e3` · [字段定义](../../DATASET.md)*

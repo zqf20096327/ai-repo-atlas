@@ -1,6 +1,6 @@
 # SRX9/UsageAtlas
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/SRX9/UsageAtlas) · [官网](https://usageatlas.com/) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/SRX9/UsageAtlas) · [官网](https://usageatlas.com/) · 个人维护
 
 **跨 14 种 AI 编码工具的用量与额度桌面监控面板**
 
@@ -45,12 +45,12 @@ Electron 桌面应用，读取本地文件与各工具已有登录态，聚合 C
 ```mermaid
 xychart-beta
     title "SRX9/UsageAtlas 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-11-11", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 9 --> 15
-    line [10, 11, 12, 13, 14, 14]
+    x-axis ["2026-10-26", "2026-10-28", "2026-10-30", "2026-11-11", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 13, 14, 15]
 ```
 
-2026-10-26 10 → 2026-11-25 14（+4）
+2026-10-26 10 → 2026-11-26 15（+5）
 
 
 ---

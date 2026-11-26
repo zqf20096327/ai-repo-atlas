@@ -1,6 +1,6 @@
 # RyanCoreAI/spring-ai-crossborder-customer-service
 
-⭐ 32 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/RyanCoreAI/spring-ai-crossborder-customer-service) · [官网](https://yanxai.com/projects/) · 个人维护 · 中文 README
+⭐ 33 · Java · MIT · 推送 2026-11-14 · [GitHub](https://github.com/RyanCoreAI/spring-ai-crossborder-customer-service) · [官网](https://yanxai.com/projects/) · 个人维护 · 中文 README
 
 **跨境电商多语言客服 Agent 平台（Spring AI + Vue）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "RyanCoreAI/spring-ai-crossborder-customer-service 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 24 --> 33
-    line [25, 26, 25, 27, 28, 30, 31, 32]
+    title "RyanCoreAI/spring-ai-crossborder-customer-service 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 34
+    line [25, 26, 25, 27, 28, 30, 31, 32, 33]
 ```
 
-2026-10-23 25 → 2026-11-25 32（+7）
+2026-10-24 25 → 2026-11-26 33（+8）
 
 
 ---

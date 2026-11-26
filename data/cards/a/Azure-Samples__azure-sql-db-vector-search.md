@@ -1,6 +1,6 @@
 # Azure-Samples/azure-sql-db-vector-search
 
-⭐ 99 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Azure-Samples/azure-sql-db-vector-search) · [官网](https://learn.microsoft.com/en-us/sql/sql-server/artificial-intelligence-intelligent-applications) · 组织维护
+⭐ 100 · Jupyter Notebook · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Azure-Samples/azure-sql-db-vector-search) · [官网](https://learn.microsoft.com/en-us/sql/sql-server/artificial-intelligence-intelligent-applications) · 组织维护
 
 **Azure SQL/SQL Server 原生向量搜索的官方示例集合**
 
@@ -46,12 +46,12 @@ Azure-Samples 官方仓库，演示 Azure SQL DB 与 SQL Server 2025 的原生�
 ```mermaid
 xychart-beta
     title "Azure-Samples/azure-sql-db-vector-search 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 98 --> 100
-    line [99, 99]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 98 --> 101
+    line [99, 100]
 ```
 
-2026-10-23 99 → 2026-11-25 99（+0）
+2026-10-24 99 → 2026-11-26 100（+1）
 
 
 ---

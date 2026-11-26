@@ -1,6 +1,6 @@
 # AshishKumar4/better-compact
 
-⭐ 19 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/AshishKumar4/better-compact) · [官网](https://github.com/AshishKumar4/Better-Compact#readme) · 个人维护
+⭐ 18 · TypeScript · AGPL-3.0 · 推送 2026-10-12 · [GitHub](https://github.com/AshishKumar4/better-compact) · [官网](https://github.com/AshishKumar4/Better-Compact#readme) · 个人维护
 
 **为 Claude Code 等编码代理做分级上下文修剪的插件集**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AshishKumar4/better-compact 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 15 --> 20
-    line [16, 18, 19, 19]
+    line [16, 18, 19, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 19（+3）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

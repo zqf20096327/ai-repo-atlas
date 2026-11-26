@@ -1,6 +1,6 @@
 # shhossain/computer_science
 
-⭐ 290 · Jupyter Notebook · MIT · 推送 2026-05-18 · [GitHub](https://github.com/shhossain/computer_science) · 个人维护 · 中文 README
+⭐ 289 · Jupyter Notebook · MIT · 推送 2026-05-18 · [GitHub](https://github.com/shhossain/computer_science) · 个人维护 · 中文 README
 
 **计算机科学知识文档：面向学习者的主题百科式讲解**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "shhossain/computer_science 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 289 --> 291
-    line [290, 290]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 288 --> 291
+    line [290, 289]
 ```
 
-2026-10-23 290 → 2026-11-25 290（+0）
+2026-10-24 290 → 2026-11-26 289（-1）
 
 
 ---

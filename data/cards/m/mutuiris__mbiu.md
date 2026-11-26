@@ -1,6 +1,6 @@
 # mutuiris/mbiu
 
-⭐ 4 · Python · 推送 2026-11-17 · [GitHub](https://github.com/mutuiris/mbiu) · [官网](https://mbiu-music.vercel.app) · 个人维护
+⭐ 4 · Python · 推送 2026-11-24 · [GitHub](https://github.com/mutuiris/mbiu) · [官网](https://mbiu-music.vercel.app) · 个人维护
 
 **帮肯尼亚音乐人签约前逐条读懂音乐合同**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mutuiris/mbiu 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

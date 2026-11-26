@@ -1,6 +1,6 @@
 # timwuhaotian/killi
 
-⭐ 55 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/timwuhaotian/killi) · [官网](https://timwuhaotian.github.io/killi/) · 个人维护
+⭐ 55 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/timwuhaotian/killi) · [官网](https://timwuhaotian.github.io/killi/) · 个人维护
 
 **面向终端的 Rust 编写小型 AI 编程 agent（Apple Silicon Mac）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "timwuhaotian/killi 星数(近 9 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-26"]
     y-axis "stars" 15 --> 59
     line [18, 24, 45, 52, 53, 55, 56, 55, 55]
 ```
 
-2026-11-01 18 → 2026-11-25 55（+37）
+2026-11-01 18 → 2026-11-26 55（+37）
 
 
 ---

@@ -1,6 +1,6 @@
 # skydiscover-ai/jitengine
 
-⭐ 44 · Python · Apache-2.0 · 推送 2026-11-04 · [GitHub](https://github.com/skydiscover-ai/jitengine) · [官网](https://jitengine.ai) · 组织维护
+⭐ 45 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/skydiscover-ai/jitengine) · [官网](https://jitengine.ai) · 组织维护
 
 **面向 Apple silicon Mac 的 LLM serving 引擎集合，附本地 API 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "skydiscover-ai/jitengine 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 38 --> 45
-    line [39, 41, 42, 44, 44]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 38 --> 46
+    line [39, 41, 42, 44, 45]
 ```
 
-2026-11-08 39 → 2026-11-25 44（+5）
+2026-11-08 39 → 2026-11-26 45（+6）
 
 
 ---

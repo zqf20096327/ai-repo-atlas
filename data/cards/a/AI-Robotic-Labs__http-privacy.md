@@ -1,6 +1,6 @@
 # AI-Robotic-Labs/http-privacy
 
-⭐ 11 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AI-Robotic-Labs/http-privacy) · [官网](https://docs.rs/privacy_http_sdk/) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AI-Robotic-Labs/http-privacy) · [官网](https://docs.rs/privacy_http_sdk/) · 个人维护
 
 **以 HTTP 方式调用多家 AI API 并注重隐私的库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "AI-Robotic-Labs/http-privacy 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

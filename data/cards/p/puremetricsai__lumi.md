@@ -1,6 +1,6 @@
 # puremetricsai/lumi
 
-⭐ 15 · Shell · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/puremetricsai/lumi) · [官网](https://lumimac.app) · 组织维护
+⭐ 15 · Shell · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/puremetricsai/lumi) · [官网](https://lumimac.app) · 组织维护
 
 **Mac 本地录屏录音并转录索引的记忆应用，供 AI agent 查询**
 
@@ -46,12 +46,12 @@ macOS 菜单栏应用，持续捕获屏幕截图、系统音频与麦克风，OC
 ```mermaid
 xychart-beta
     title "puremetricsai/lumi 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

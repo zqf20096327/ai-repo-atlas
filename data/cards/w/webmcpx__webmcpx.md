@@ -1,6 +1,6 @@
 # webmcpx/webmcpx
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/webmcpx/webmcpx) · [官网](https://webmcpx.dev) · 组织维护 · 中文 README
+⭐ 7 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/webmcpx/webmcpx) · [官网](https://webmcpx.dev) · 组织维护 · 中文 README
 
 **给网站接入 WebMCP 工具、给 agent 提供 MCP 桥接的工具集**
 
@@ -46,12 +46,12 @@ webmcpx 包含四部分：一段 script 标签（Loader）为页面注册 search
 ```mermaid
 xychart-beta
     title "webmcpx/webmcpx 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    x-axis ["2026-11-10", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 4 --> 8
+    line [5, 6, 7]
 ```
 
-2026-11-10 5 → 2026-11-25 6（+1）
+2026-11-10 5 → 2026-11-26 7（+2）
 
 
 ---

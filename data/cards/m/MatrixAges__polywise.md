@@ -1,6 +1,6 @@
 # MatrixAges/polywise
 
-⭐ 655 · TypeScript · MIT · 推送 2026-06-11 · [GitHub](https://github.com/MatrixAges/polywise) · [官网](https://polywise.io) · 组织维护 · 中文 README
+⭐ 654 · TypeScript · MIT · 推送 2026-06-11 · [GitHub](https://github.com/MatrixAges/polywise) · [官网](https://polywise.io) · 组织维护 · 中文 README
 
 **开源 agentic 内容系统：对话、知识保存与检索、可复用 agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MatrixAges/polywise 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-26"]
     y-axis "stars" 653 --> 660
-    line [659, 658, 659, 654, 655, 655]
+    line [659, 658, 659, 654, 655, 654]
 ```
 
-2026-10-23 659 → 2026-11-25 655（-4）
+2026-10-24 659 → 2026-11-26 654（-5）
 
 
 ---

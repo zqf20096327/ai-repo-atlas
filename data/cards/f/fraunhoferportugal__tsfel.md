@@ -1,6 +1,6 @@
 # fraunhoferportugal/tsfel
 
-⭐ 1,116 · Python · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/fraunhoferportugal/tsfel) · [官网](https://tsfel.readthedocs.io) · 组织维护
+⭐ 1,117 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/fraunhoferportugal/tsfel) · [官网](https://tsfel.readthedocs.io) · 组织维护
 
 **时序特征提取 Python 库：统计/时域/频谱/分域 65+ 特征**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fraunhoferportugal/tsfel 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 1106 --> 1118
-    line [1107, 1109, 1111, 1112, 1109, 1113, 1114, 1116, 1117, 1116, 1116]
+    title "fraunhoferportugal/tsfel 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 1108 --> 1118
+    line [1109, 1111, 1112, 1109, 1113, 1114, 1116, 1117, 1116, 1117]
 ```
 
-2026-10-23 1,107 → 2026-11-25 1,116（+9）
+2026-10-24 1,109 → 2026-11-26 1,117（+8）
 
 
 ---

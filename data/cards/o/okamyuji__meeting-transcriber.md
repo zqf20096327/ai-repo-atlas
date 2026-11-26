@@ -1,6 +1,6 @@
 # okamyuji/meeting-transcriber
 
-⭐ 16 · Python · 推送 2026-11-19 · [GitHub](https://github.com/okamyuji/meeting-transcriber) · 个人维护 · 中文 README
+⭐ 16 · Python · 推送 2026-11-25 · [GitHub](https://github.com/okamyuji/meeting-transcriber) · 个人维护 · 中文 README
 
 **完全本地运行的日语会议转写与议事录自动生成工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "okamyuji/meeting-transcriber 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

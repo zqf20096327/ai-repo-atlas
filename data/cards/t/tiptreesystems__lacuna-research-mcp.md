@@ -1,6 +1,6 @@
 # tiptreesystems/lacuna-research-mcp
 
-⭐ 80 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tiptreesystems/lacuna-research-mcp) · [官网](https://lacuna.tiptreesystems.com) · 组织维护
+⭐ 83 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/tiptreesystems/lacuna-research-mcp) · [官网](https://lacuna.tiptreesystems.com) · 组织维护
 
 **面向机器学习研究者的 MCP 服务器：检索 Lacuna 科研知识图谱**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tiptreesystems/lacuna-research-mcp 星数(近 13 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 46 --> 83
-    line [49, 61, 63, 65, 67, 68, 69, 70, 72, 74, 76, 77, 80]
+    title "tiptreesystems/lacuna-research-mcp 星数(近 14 点)"
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 46 --> 86
+    line [49, 61, 63, 65, 67, 68, 69, 70, 72, 74, 76, 77, 80, 83]
 ```
 
-2026-11-02 49 → 2026-11-25 80（+31）
+2026-11-02 49 → 2026-11-26 83（+34）
 
 
 ---

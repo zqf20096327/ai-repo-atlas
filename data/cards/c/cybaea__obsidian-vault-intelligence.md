@@ -1,6 +1,6 @@
 # cybaea/obsidian-vault-intelligence
 
-⭐ 82 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cybaea/obsidian-vault-intelligence) · [官网](https://cybaea.github.io/obsidian-vault-intelligence/) · 组织维护
+⭐ 82 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cybaea/obsidian-vault-intelligence) · [官网](https://cybaea.github.io/obsidian-vault-intelligence/) · 组织维护
 
 **Obsidian 知识库维护插件：用 AI agent 检索、更新与整理笔记**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cybaea/obsidian-vault-intelligence 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-26"]
     y-axis "stars" 78 --> 83
     line [79, 80, 81, 82, 82]
 ```
 
-2026-10-23 79 → 2026-11-25 82（+3）
+2026-10-24 79 → 2026-11-26 82（+3）
 
 
 ---

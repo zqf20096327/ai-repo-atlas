@@ -1,6 +1,6 @@
 # fracpete/python-weka-wrapper3
 
-⭐ 148 · Python · GPL-3.0 · 推送 2026-04-12 · [GitHub](https://github.com/fracpete/python-weka-wrapper3) · [官网](https://fracpete.github.io/python-weka-wrapper3/) · 个人维护
+⭐ 149 · Python · GPL-3.0 · 推送 2026-04-12 · [GitHub](https://github.com/fracpete/python-weka-wrapper3) · [官网](https://fracpete.github.io/python-weka-wrapper3/) · 个人维护
 
 **通过 JPype 在 Python 3 中调用 Java 机器学习工具箱 Weka 的封装库**
 
@@ -44,12 +44,12 @@ Python 3 封装库，经由 jpype 桥接在 Python 中调用 Java 机器学习�
 ```mermaid
 xychart-beta
     title "fracpete/python-weka-wrapper3 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 147 --> 149
-    line [148, 148]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 147 --> 150
+    line [148, 149]
 ```
 
-2026-10-23 148 → 2026-11-25 148（+0）
+2026-10-24 148 → 2026-11-26 149（+1）
 
 
 ---

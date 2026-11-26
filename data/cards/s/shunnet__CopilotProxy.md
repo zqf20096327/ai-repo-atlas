@@ -1,6 +1,6 @@
 # shunnet/CopilotProxy
 
-⭐ 41 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/shunnet/CopilotProxy) · [官网](https://snet.cn) · 组织维护 · 中文 README
+⭐ 40 · JavaScript · MIT · 推送 2026-10-20 · [GitHub](https://github.com/shunnet/CopilotProxy) · [官网](https://snet.cn) · 组织维护 · 中文 README
 
 **Windows 桌面代理：把 Copilot 接到 DeepSeek/小米 MiMo**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shunnet/CopilotProxy 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 39 --> 42
+    line [41, 40]
 ```
 
-2026-10-23 41 → 2026-11-25 41（+0）
+2026-10-24 41 → 2026-11-26 40（-1）
 
 
 ---

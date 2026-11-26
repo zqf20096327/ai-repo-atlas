@@ -1,6 +1,6 @@
 # meetpateltech/AI-Infinity
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 571 · CC0-1.0 · 推送 2026-02-17 · [GitHub](https://github.com/meetpateltech/AI-Infinity) · [官网](https://ai-infinity.vercel.app/) · 个人维护
 
 **1600+ AI 工具的分类策展目录（含 Notion 数据库）**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-knowledge` | 知识聚合/清单类 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | CC0-1.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "meetpateltech/AI-Infinity 星数(近 3 点)"
-    x-axis ["2026-10-22", "2026-11-19", "2026-11-24"]
-    y-axis "stars" 571 --> 574
-    line [573, 572, 572]
+    x-axis ["2026-10-23", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 570 --> 574
+    line [573, 572, 571]
 ```
 
-2026-10-22 573 → 2026-11-24 572（-1）
+2026-10-23 573 → 2026-11-26 571（-2）
 
 
 ---

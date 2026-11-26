@@ -1,6 +1,6 @@
 # alyssonfranklin/b2b-agents
 
-⭐ 24 · Python · 推送 2026-06-09 · [GitHub](https://github.com/alyssonfranklin/b2b-agents) · [官网](https://www.linkedin.com/in/alyssonfranklin/) · 个人维护
+⭐ 25 · Python · 推送 2026-06-09 · [GitHub](https://github.com/alyssonfranklin/b2b-agents) · [官网](https://www.linkedin.com/in/alyssonfranklin/) · 个人维护
 
 **面向 B2B 企业的 56 个专业 agent 库及跨平台编译管线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "alyssonfranklin/b2b-agents 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 24]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 25]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 25（+2）
 
 
 ---

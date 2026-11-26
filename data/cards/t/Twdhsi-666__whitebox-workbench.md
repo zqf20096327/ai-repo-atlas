@@ -1,6 +1,6 @@
 # Twdhsi-666/whitebox-workbench
 
-⭐ 3 · JavaScript · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Twdhsi-666/whitebox-workbench) · [官网](https://twdhsi-666.github.io/whitebox-workbench/) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **AI 视频制作前用的 3D 白膜搭建与分镜预演工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

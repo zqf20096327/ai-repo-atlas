@@ -1,6 +1,6 @@
 # ErdemOzgen/Data-Engineering-Roadmap
 
-⭐ 267 · Java · 推送 2026-07-01 · [GitHub](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) · 个人维护
+⭐ 268 · Java · 推送 2026-07-01 · [GitHub](https://github.com/ErdemOzgen/Data-Engineering-Roadmap) · 个人维护
 
 **数据工程学习路线图与资源清单**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "ErdemOzgen/Data-Engineering-Roadmap 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 264 --> 268
-    line [265, 267]
+    title "ErdemOzgen/Data-Engineering-Roadmap 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 264 --> 269
+    line [265, 267, 268]
 ```
 
-2026-10-23 265 → 2026-11-25 267（+2）
+2026-10-24 265 → 2026-11-26 268（+3）
 
 
 ---

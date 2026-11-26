@@ -1,6 +1,6 @@
 # elbwalker/walkerOS
 
-⭐ 351 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/elbwalker/walkerOS) · [官网](https://www.walkeros.io/) · 组织维护
+⭐ 353 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/elbwalker/walkerOS) · [官网](https://www.walkeros.io/) · 组织维护
 
 **面向开发者的开源事件采集/标签管理器，经 MCP 供 AI agent 使用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "elbwalker/walkerOS 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 346 --> 352
-    line [347, 349, 350, 351, 351]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 346 --> 354
+    line [347, 349, 350, 351, 353]
 ```
 
-2026-10-23 347 → 2026-11-25 351（+4）
+2026-10-24 347 → 2026-11-26 353（+6）
 
 
 ---

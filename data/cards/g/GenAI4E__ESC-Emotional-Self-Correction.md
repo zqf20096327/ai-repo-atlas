@@ -45,12 +45,12 @@ ECCV 2026 论文的官方代码库。ESC 是一个 training-free、即插即用�
 ```mermaid
 xychart-beta
     title "GenAI4E/ESC-Emotional-Self-Correction 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

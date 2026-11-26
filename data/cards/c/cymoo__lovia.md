@@ -1,6 +1,6 @@
 # cymoo/lovia
 
-⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/cymoo/lovia) · [官网](https://cymoo.github.io/lovia) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/cymoo/lovia) · [官网](https://cymoo.github.io/lovia) · 个人维护 · 中文 README
 
 **轻量 Python AI Agent 框架：覆盖工具、会话、上下文压缩与服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cymoo/lovia 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-26", "2026-11-26"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-26 18 → 2026-11-25 18（+0）
+2026-10-26 18 → 2026-11-26 19（+1）
 
 
 ---

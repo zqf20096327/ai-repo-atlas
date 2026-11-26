@@ -1,6 +1,6 @@
 # app-vitals/shipwright
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/app-vitals/shipwright) · [官网](https://shipwrightharness.com) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/app-vitals/shipwright) · [官网](https://shipwrightharness.com) · 组织维护
 
 **面向 Claude Code 的自主交付 agent：从 PRD 到上线全流程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "app-vitals/shipwright 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 13 --> 17
     line [14, 16, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 16（+2）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

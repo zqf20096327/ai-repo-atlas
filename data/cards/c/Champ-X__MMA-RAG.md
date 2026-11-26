@@ -1,6 +1,6 @@
 # Champ-X/MMA-RAG
 
-⭐ 22 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Champ-X/MMA-RAG) · [官网](https://tessmora.xiangqingping.com/) · 组织维护 · 中文 README
+⭐ 22 · Python · 推送 2026-11-24 · [GitHub](https://github.com/Champ-X/MMA-RAG) · [官网](https://tessmora.xiangqingping.com/) · 组织维护 · 中文 README
 
 **自托管多模态 RAG 工作台：统一检索文档/图片/音视频并给出带引用回答**
 
@@ -45,13 +45,13 @@ Tessmora（仓库沿用 MMA-RAG 名称）是可自托管的多模态 RAG 与 Age
 
 ```mermaid
 xychart-beta
-    title "Champ-X/MMA-RAG 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    title "Champ-X/MMA-RAG 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 17 --> 23
-    line [18, 20, 22]
+    line [18, 20, 22, 22]
 ```
 
-2026-10-23 18 → 2026-11-25 22（+4）
+2026-10-24 18 → 2026-11-26 22（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # jin-s13/ai-research-writing-skill
 
-⭐ 66 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/jin-s13/ai-research-writing-skill) · 个人维护 · 中文 README
+⭐ 71 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/jin-s13/ai-research-writing-skill) · 个人维护 · 中文 README
 
 **面向 ML/AI 研究者的 agent 技能：把代码仓库转为证据支撑的论文包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jin-s13/ai-research-writing-skill 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 56 --> 67
-    line [57, 58, 60, 61, 58, 63, 64, 66, 66]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 56 --> 72
+    line [57, 58, 60, 61, 58, 63, 64, 66, 71]
 ```
 
-2026-10-23 57 → 2026-11-25 66（+9）
+2026-10-24 57 → 2026-11-26 71（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # yihong1120/Construction-Hazard-Detection
 
-⭐ 352 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/yihong1120/Construction-Hazard-Detection) · [官网](https://visionnaire-cda17.web.app/) · 个人维护 · 中文 README
+⭐ 353 · Python · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/yihong1120/Construction-Hazard-Detection) · [官网](https://visionnaire-cda17.web.app/) · 个人维护 · 中文 README
 
 **基于 YOLO 的工地危险行为实时检测与告警系统**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "yihong1120/Construction-Hazard-Detection 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-21", "2026-11-26"]
     y-axis "stars" 347 --> 355
-    line [348, 349, 351, 348, 350, 352, 353, 354, 352, 352]
+    line [348, 349, 351, 348, 350, 352, 353, 354, 352, 353]
 ```
 
-2026-10-23 348 → 2026-11-25 352（+4）
+2026-10-24 348 → 2026-11-26 353（+5）
 
 
 ---

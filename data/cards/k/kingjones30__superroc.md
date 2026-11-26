@@ -1,6 +1,6 @@
 # kingjones30/superroc
 
-⭐ 4 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kingjones30/superroc) · 个人维护
+⭐ 5 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/kingjones30/superroc) · [官网](https://kingjones30.github.io/superroc/) · 个人维护
 
 **面向 AMD Strix Halo 的本地 LLM 推理引擎与服务器**
 
@@ -40,6 +40,18 @@ Super Roc 是一个针对 AMD Strix Halo（Ryzen AI Max+ 395，gfx1151 GPU，最
 > L3: Super Roc is an LLM inference engine for AMD Strix Halo: Ryzen AI Max+ 395 systems with the Radeon 8060S GPU (`gfx11
 > L117: Then ask it something through the OpenAI-compatible API:
 > L197: Super Roc began as a fork of an MIT-licensed ROCm inference engine. The code is released under the MIT License in
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "kingjones30/superroc 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-25 4 → 2026-11-26 5（+1）
 
 
 ---

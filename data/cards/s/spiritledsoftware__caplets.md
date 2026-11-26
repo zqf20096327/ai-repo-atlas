@@ -1,6 +1,6 @@
 # spiritledsoftware/caplets
 
-⭐ 14 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/spiritledsoftware/caplets) · [官网](https://caplets.dev) · 组织维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/spiritledsoftware/caplets) · [官网](https://caplets.dev) · 组织维护
 
 **将 MCP/API/命令封装为能力卡片的编码 agent 工具层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "spiritledsoftware/caplets 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

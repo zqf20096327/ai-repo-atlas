@@ -1,6 +1,6 @@
 # LeastAction-Labs/LeastAction
 
-⭐ 13 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/LeastAction-Labs/LeastAction) · [官网](https://leastactionlabs.com) · 组织维护
+⭐ 12 · Python · NOASSERTION · 推送 2026-10-12 · [GitHub](https://github.com/LeastAction-Labs/LeastAction) · [官网](https://leastactionlabs.com) · 组织维护
 
 **自托管数据工作流平台：AI 操作员生成、运行并修复管道**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LeastAction-Labs/LeastAction 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 11 --> 14
+    line [13, 12]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 12（-1）
 
 
 ---

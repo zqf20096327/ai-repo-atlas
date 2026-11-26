@@ -1,6 +1,6 @@
 # neural-dreamer/ComfyUI-NeuralDreamer-Nodes
 
-⭐ 7 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/neural-dreamer/ComfyUI-NeuralDreamer-Nodes) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/neural-dreamer/ComfyUI-NeuralDreamer-Nodes) · 个人维护
 
 **ComfyUI 自定义节点集：变体挑选、实时预览、提示词与参数管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neural-dreamer/ComfyUI-NeuralDreamer-Nodes 星数(近 7 点)"
-    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-20", "2026-11-26"]
     y-axis "stars" 3 --> 8
     line [4, 5, 4, 5, 6, 7, 7]
 ```
 
-2026-10-24 4 → 2026-11-25 7（+3）
+2026-10-24 4 → 2026-11-26 7（+3）
 
 
 ---

@@ -46,12 +46,12 @@ Manifest V3 浏览器扩展，将浏览器书签呈现为画布工作区：永�
 ```mermaid
 xychart-beta
     title "Browser-bookmark-hub/Bookmark-Canvas 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-11 10 → 2026-11-25 10（+0）
+2026-11-11 10 → 2026-11-26 10（+0）
 
 
 ---

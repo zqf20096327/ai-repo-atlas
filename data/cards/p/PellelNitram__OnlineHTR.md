@@ -1,6 +1,6 @@
 # PellelNitram/OnlineHTR
 
-⭐ 31 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/PellelNitram/OnlineHTR) · [官网](http://lellep.xyz/blog/online-htr.html?utm_campaign=github) · 个人维护
+⭐ 32 · Jupyter Notebook · MIT · 推送 2026-06-11 · [GitHub](https://github.com/PellelNitram/OnlineHTR) · [官网](http://lellep.xyz/blog/online-htr.html?utm_campaign=github) · 个人维护
 
 **PyTorch 实现的在线手写文本识别模型，预测手写内容**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PellelNitram/OnlineHTR 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 28 --> 32
-    line [29, 30, 29, 30, 31, 31]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 28 --> 33
+    line [29, 30, 29, 30, 31, 32]
 ```
 
-2026-10-23 29 → 2026-11-25 31（+2）
+2026-10-24 29 → 2026-11-26 32（+3）
 
 
 ---

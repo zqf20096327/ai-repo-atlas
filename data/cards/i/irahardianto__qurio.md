@@ -1,6 +1,6 @@
 # irahardianto/qurio
 
-⭐ 17 · Go · MIT · 推送 2026-02-15 · [GitHub](https://github.com/irahardianto/qurio) · 个人维护
+⭐ 18 · Go · MIT · 推送 2026-02-15 · [GitHub](https://github.com/irahardianto/qurio) · 个人维护
 
 **自托管 RAG 引擎：为 AI 编程助手提供有据可查的文档上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "irahardianto/qurio 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

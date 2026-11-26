@@ -1,6 +1,6 @@
 # kentzjh-cmd/tmem
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/kentzjh-cmd/tmem) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **给 Coding Agent 的本地记忆插件：压缩存档、按需翻历史**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

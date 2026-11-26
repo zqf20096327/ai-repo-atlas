@@ -1,6 +1,6 @@
 # BugeStudioTeam/Zynox
 
-⭐ 11 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/BugeStudioTeam/Zynox) · [官网](https://bugestudio.website/zynox/) · 个人维护
+⭐ 12 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/BugeStudioTeam/Zynox) · [官网](https://bugestudio.website/zynox/) · 个人维护
 
 **面向开发者的自然语言 CLI 助手：生成文件并执行命令**
 
@@ -45,12 +45,12 @@ ZynoxAI 是一个 Python 编写的跨平台命令行工具，用户用自然语�
 ```mermaid
 xychart-beta
     title "BugeStudioTeam/Zynox 星数(近 3 点)"
-    x-axis ["2026-11-02", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-02", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-02 10 → 2026-11-25 11（+1）
+2026-11-02 10 → 2026-11-26 12（+2）
 
 
 ---

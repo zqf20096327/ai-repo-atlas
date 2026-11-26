@@ -1,6 +1,6 @@
 # sachitrafa/YourMemory
 
-⭐ 274 · Python · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/sachitrafa/YourMemory) · [官网](https://yourmemoryai.xyz/) · 个人维护
+⭐ 275 · Python · NOASSERTION · 推送 2026-09-19 · [GitHub](https://github.com/sachitrafa/YourMemory) · [官网](https://yourmemoryai.xyz/) · 个人维护
 
 **为 AI agent 提供持久化记忆的 MCP 服务器，含遗忘曲线衰减**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sachitrafa/YourMemory 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 269 --> 275
-    line [270, 271, 270, 271, 272, 273, 274, 274]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 269 --> 276
+    line [270, 271, 270, 271, 272, 273, 274, 275]
 ```
 
-2026-10-23 270 → 2026-11-25 274（+4）
+2026-10-24 270 → 2026-11-26 275（+5）
 
 
 ---

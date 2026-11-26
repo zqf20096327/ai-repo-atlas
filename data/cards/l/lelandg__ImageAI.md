@@ -1,6 +1,6 @@
 # lelandg/ImageAI
 
-⭐ 17 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lelandg/ImageAI) · 个人维护
+⭐ 17 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/lelandg/ImageAI) · 个人维护
 
 **多提供商 AI 图像/视频生成桌面应用与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "lelandg/ImageAI 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
     y-axis "stars" 15 --> 18
     line [16, 17, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

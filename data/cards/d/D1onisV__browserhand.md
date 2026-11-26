@@ -45,12 +45,12 @@ BrowserHand 由一个 Chromium 扩展和一个仅监听 127.0.0.1 的本地 Node
 ```mermaid
 xychart-beta
     title "D1onisV/browserhand 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 3（+0）
 
 
 ---

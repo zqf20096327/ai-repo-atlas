@@ -1,6 +1,6 @@
 # BBC6BAE9/a2ui-swift
 
-⭐ 69 · Swift · MIT · 推送 2026-09-24 · [GitHub](https://github.com/BBC6BAE9/a2ui-swift) · [官网](https://bbc6bae9.github.io/a2ui-swift/documentation/) · 个人维护
+⭐ 70 · Swift · MIT · 推送 2026-09-24 · [GitHub](https://github.com/BBC6BAE9/a2ui-swift) · [官网](https://bbc6bae9.github.io/a2ui-swift/documentation/) · 个人维护
 
 **把 AI 生成的 A2UI JSON 渲染为 Apple 原生 UI 的 Swift SDK**
 
@@ -45,12 +45,12 @@ A2UI 协议（Google 开源的 agent-to-user 界面协议）在 Apple 平台的�
 ```mermaid
 xychart-beta
     title "BBC6BAE9/a2ui-swift 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 64 --> 70
-    line [65, 66, 67, 68, 65, 68, 69, 69]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 64 --> 71
+    line [65, 66, 67, 68, 65, 68, 69, 70]
 ```
 
-2026-10-23 65 → 2026-11-25 69（+4）
+2026-10-24 65 → 2026-11-26 70（+5）
 
 
 ---

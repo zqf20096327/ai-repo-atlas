@@ -1,6 +1,6 @@
 # fainir/most-capable-agent-system-prompt
 
-⭐ 889 · MIT · 推送 2026-11-22 · [GitHub](https://github.com/fainir/most-capable-agent-system-prompt) · [官网](https://aiyourwork.chat/guides/lead-follow-up-for-service-companies?utm_source=github&utm_medium=about&utm_campaign=lead-follow-up-demo-en#sample-enquiry) · 个人维护
+⭐ 890 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/fainir/most-capable-agent-system-prompt) · [官网](https://aiyourwork.chat/guides/lead-follow-up-for-service-companies?utm_source=github&utm_medium=about&utm_campaign=lead-follow-up-demo-en#sample-enquiry) · 个人维护
 
 **给编码代理用的系统提示词：驱动其搭建自改进代理系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fainir/most-capable-agent-system-prompt 星数(近 11 点)"
-    x-axis ["2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-21", "2026-11-26"]
     y-axis "stars" 877 --> 891
-    line [878, 879, 880, 881, 885, 887, 888, 889, 890, 889, 889]
+    line [878, 879, 880, 881, 885, 887, 888, 889, 890, 889, 890]
 ```
 
-2026-10-28 878 → 2026-11-25 889（+11）
+2026-10-28 878 → 2026-11-26 890（+12）
 
 
 ---

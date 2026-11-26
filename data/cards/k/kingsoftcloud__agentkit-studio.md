@@ -1,6 +1,6 @@
 # kingsoftcloud/agentkit-studio
 
-⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/kingsoftcloud/agentkit-studio) · [官网](https://kingsoftcloud.github.io/agentkit-studio/) · 组织维护 · 中文 README
+⭐ 4 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/kingsoftcloud/agentkit-studio) · [官网](https://kingsoftcloud.github.io/agentkit-studio/) · 组织维护 · 中文 README
 
 **面向开发者的 DeepSeek Harness Agent 编排与部署工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kingsoftcloud/agentkit-studio 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-23 3 → 2026-11-25 4（+1）
+2026-10-24 3 → 2026-11-26 4（+1）
 
 
 ---

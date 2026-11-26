@@ -1,6 +1,6 @@
 # Masar-X/Masar-x
 
-⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Masar-X/Masar-x) · [官网](https://masarx.vercel.app) · 组织维护 · 中文 README
+⭐ 15 · TypeScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Masar-X/Masar-x) · [官网](https://masarx.vercel.app) · 组织维护 · 中文 README
 
 **面向大学生的双语 AI 学习平台：资料、测验与 AI 辅导**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Masar-X/Masar-x 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-22", "2026-11-25"]
+    title "Masar-X/Masar-x 星数(近 4 点)"
+    x-axis ["2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 11 --> 16
-    line [12, 14, 15]
+    line [12, 14, 15, 15]
 ```
 
-2026-11-20 12 → 2026-11-25 15（+3）
+2026-11-20 12 → 2026-11-26 15（+3）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "IvanCampos/Foundation-Models-Playgrounds 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-25"]
+    title "IvanCampos/Foundation-Models-Playgrounds 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-26"]
     y-axis "stars" 371 --> 374
-    line [373, 372, 373, 372, 372]
+    line [372, 373, 372, 372]
 ```
 
-2026-10-23 373 → 2026-11-25 372（-1）
+2026-10-24 372 → 2026-11-26 372（+0）
 
 
 ---

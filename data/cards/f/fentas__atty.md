@@ -1,6 +1,6 @@
 # fentas/atty
 
-⭐ 21 · Zig · MIT · 推送 2026-07-30 · [GitHub](https://github.com/fentas/atty) · [官网](https://atty.sh) · 个人维护
+⭐ 22 · Zig · MIT · 推送 2026-07-30 · [GitHub](https://github.com/fentas/atty) · [官网](https://atty.sh) · 个人维护
 
 **带 LLM 命令生成与危险命令防护的终端 PTY 代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fentas/atty 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

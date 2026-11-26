@@ -1,6 +1,6 @@
 # xinhuangcs/CareerDesk
 
-⭐ 45 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/xinhuangcs/CareerDesk) · 个人维护 · 中文 README
+⭐ 46 · Python · MIT · 推送 2026-08-07 · [GitHub](https://github.com/xinhuangcs/CareerDesk) · 个人维护 · 中文 README
 
 **运行在本机的开源求职工作台：看板管理投递 + AI 求职智能体**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xinhuangcs/CareerDesk 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 43 --> 46
-    line [44, 45, 44, 45, 45]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 43 --> 47
+    line [44, 45, 44, 45, 46]
 ```
 
-2026-10-23 44 → 2026-11-25 45（+1）
+2026-10-24 44 → 2026-11-26 46（+2）
 
 
 ---

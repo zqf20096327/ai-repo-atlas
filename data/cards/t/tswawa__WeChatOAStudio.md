@@ -1,6 +1,6 @@
 # tswawa/WeChatOAStudio
 
-⭐ 3 · JavaScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/tswawa/WeChatOAStudio) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/tswawa/WeChatOAStudio) · 个人维护 · 中文 README
 
 **面向公众号作者的 AI 自动采集写稿与发表工作台**
 
@@ -46,12 +46,12 @@ Electron + Vue 3 桌面应用，把资料采集、写稿、配图、排版和发
 ```mermaid
 xychart-beta
     title "tswawa/WeChatOAStudio 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-11", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-11 3 → 2026-11-25 3（+0）
+2026-11-11 3 → 2026-11-26 5（+2）
 
 
 ---

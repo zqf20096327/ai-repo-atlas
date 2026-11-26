@@ -1,6 +1,6 @@
 # plantnet/PlantNet-300K
 
-⭐ 269 · Python · BSD-2-Clause · 推送 2026-10-30 · [GitHub](https://github.com/plantnet/PlantNet-300K) · [官网](https://doi.org/10.5281/zenodo.5645731) · 组织维护
+⭐ 270 · Python · BSD-2-Clause · 推送 2026-10-30 · [GitHub](https://github.com/plantnet/PlantNet-300K) · [官网](https://doi.org/10.5281/zenodo.5645731) · 组织维护
 
 **植物图像长尾分类数据集及训练代码：面向植物识别研究者**
 
@@ -46,12 +46,12 @@ Pl@ntNet-300K-v2 数据集仓库，含 306,087 张图像、1,000 个植物物种
 ```mermaid
 xychart-beta
     title "plantnet/PlantNet-300K 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 268 --> 270
-    line [269, 269]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 268 --> 271
+    line [269, 270]
 ```
 
-2026-10-23 269 → 2026-11-25 269（+0）
+2026-10-24 269 → 2026-11-26 270（+1）
 
 
 ---

@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "zd87pl/ai-crypto-trader 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 70 --> 73
-    line [71, 72, 72]
+    title "zd87pl/ai-crypto-trader 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 71 --> 73
+    line [72, 72]
 ```
 
-2026-10-23 71 → 2026-11-25 72（+1）
+2026-10-24 72 → 2026-11-26 72（+0）
 
 
 ---

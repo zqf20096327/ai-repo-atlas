@@ -1,6 +1,6 @@
 # viniciusscience/fishid-studio
 
-⭐ 20 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/viniciusscience/fishid-studio) · 组织维护
+⭐ 26 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/viniciusscience/fishid-studio) · [官网](https://doi.org/10.5281/zenodo.24451918) · 组织维护
 
 **面向科研与渔业的海水鱼种自动识别与视频生物测量平台**
 
@@ -40,6 +40,18 @@
 > L24: **FishID Studio** é uma plataforma aberta de visão computacional voltada à **identificação automatizada de grandes 
 > L28: Identificação inteligente de **10 grandes espécies pelágicas migratórias** (atuns, agulhões, espadarte e dourado-do
 > L83: - **📊 Monitoramento Eletrônico (EM) — Contagem & Biometria:** aba dedicada no FishID Studio para auditar vídeos lon
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "viniciusscience/fishid-studio 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 19 --> 27
+    line [20, 26]
+```
+
+2026-11-25 20 → 2026-11-26 26（+6）
 
 
 ---

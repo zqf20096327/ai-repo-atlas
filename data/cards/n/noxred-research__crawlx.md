@@ -1,6 +1,6 @@
 # noxred-research/crawlx
 
-⭐ 9 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/noxred-research/crawlx) · 组织维护
+⭐ 10 · Rust · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/noxred-research/crawlx) · 组织维护
 
 **为授权安全测试映射动态 Web 应用攻击面的 AI 爬虫**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "noxred-research/crawlx 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 4 --> 10
-    line [5, 8, 9, 9]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 4 --> 11
+    line [5, 8, 9, 10]
 ```
 
-2026-11-08 5 → 2026-11-25 9（+4）
+2026-11-08 5 → 2026-11-26 10（+5）
 
 
 ---

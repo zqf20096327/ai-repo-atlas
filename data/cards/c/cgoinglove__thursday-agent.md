@@ -1,6 +1,6 @@
 # cgoinglove/thursday-agent
 
-⭐ 58 · TypeScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/cgoinglove/thursday-agent) · [官网](https://youtu.be/7XmsAtwQGjo) · 个人维护
+⭐ 59 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/cgoinglove/thursday-agent) · [官网](https://youtu.be/7XmsAtwQGjo) · 个人维护
 
 **开源语音助手：你说话，一组 AI bot 操作浏览器、shell 和文件**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "cgoinglove/thursday-agent 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 53 --> 59
-    line [54, 55, 56, 55, 58, 58]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 53 --> 60
+    line [54, 55, 56, 55, 58, 59]
 ```
 
-2026-10-23 54 → 2026-11-25 58（+4）
+2026-10-24 54 → 2026-11-26 59（+5）
 
 
 ---

@@ -46,12 +46,12 @@ HumeAI 官方发布的 Agent Skills 技能包，让 Claude Code、Codex、Cursor
 ```mermaid
 xychart-beta
     title "HumeAI/hume-audio-decisions-skills 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-19", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-14 3 → 2026-11-25 4（+1）
+2026-11-14 3 → 2026-11-26 4（+1）
 
 
 ---

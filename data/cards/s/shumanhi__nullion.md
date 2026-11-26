@@ -1,6 +1,6 @@
 # shumanhi/nullion
 
-⭐ 17 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/shumanhi/nullion) · [官网](https://www.nullion.ai) · 个人维护
+⭐ 17 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/shumanhi/nullion) · [官网](https://www.nullion.ai) · 个人维护
 
 **本地运行的个人 AI 助手：浏览器研究、文件与定时任务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shumanhi/nullion 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-23 17 → 2026-11-25 17（+0）
+2026-11-23 17 → 2026-11-26 17（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # DivyanshuSingh96/machyon
 
-⭐ 9 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DivyanshuSingh96/machyon) · [官网](https://divyanshusingh96.github.io/machyon/) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DivyanshuSingh96/machyon) · [官网](https://divyanshusingh96.github.io/machyon/) · 个人维护
 
 **给 ML 从业者的可靠异步图片批量下载 Python 库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DivyanshuSingh96/machyon 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 6 --> 10
-    line [7, 9]
+    title "DivyanshuSingh96/machyon 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 14
+    line [7, 9, 13]
 ```
 
-2026-11-23 7 → 2026-11-25 9（+2）
+2026-11-23 7 → 2026-11-26 13（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # PalenaAI/litellm-operator
 
-⭐ 16 · Go · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/PalenaAI/litellm-operator) · [官网](https://litellm-operator.palena.ai/) · 组织维护
+⭐ 16 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PalenaAI/litellm-operator) · [官网](https://litellm-operator.palena.ai/) · 组织维护
 
 **在 Kubernetes 上声明式部署与管理 LiteLLM AI 网关的 Operator**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PalenaAI/litellm-operator 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

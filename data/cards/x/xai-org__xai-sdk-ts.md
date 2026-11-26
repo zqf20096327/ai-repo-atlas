@@ -1,6 +1,6 @@
 # xai-org/xai-sdk-ts
 
-⭐ 70 · TypeScript · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/xai-org/xai-sdk-ts) · [官网](https://www.npmjs.com/package/@xai-official/sdk) · 组织维护
+⭐ 70 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/xai-org/xai-sdk-ts) · [官网](https://www.npmjs.com/package/@xai-official/sdk) · 组织维护
 
 **xAI 官方 TypeScript SDK：在 Node.js 中调用 Grok API**
 
@@ -44,13 +44,13 @@ xAI 官方维护的 TypeScript SDK，封装 SpaceXAI REST API，提供类型化�
 
 ```mermaid
 xychart-beta
-    title "xai-org/xai-sdk-ts 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-12", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 66 --> 71
-    line [67, 68, 69, 70, 70]
+    title "xai-org/xai-sdk-ts 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 67 --> 71
+    line [68, 69, 70, 70]
 ```
 
-2026-10-23 67 → 2026-11-25 70（+3）
+2026-10-24 68 → 2026-11-26 70（+2）
 
 
 ---

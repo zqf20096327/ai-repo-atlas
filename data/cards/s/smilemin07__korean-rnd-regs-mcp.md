@@ -1,6 +1,6 @@
 # smilemin07/korean-rnd-regs-mcp
 
-⭐ 14 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/smilemin07/korean-rnd-regs-mcp) · [官网](https://pypi.org/project/korean-rnd-regs-mcp/) · 个人维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/smilemin07/korean-rnd-regs-mcp) · [官网](https://pypi.org/project/korean-rnd-regs-mcp/) · 个人维护
 
 **韩国国家R&D法规审查MCP服务器，向AI提供66部法规检索**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "smilemin07/korean-rnd-regs-mcp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 13 --> 16
+    line [14, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

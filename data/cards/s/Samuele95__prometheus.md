@@ -1,6 +1,6 @@
 # Samuele95/prometheus
 
-⭐ 10 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Samuele95/prometheus) · [官网](https://samuele95.github.io/prometheus/) · 个人维护
+⭐ 10 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Samuele95/prometheus) · [官网](https://samuele95.github.io/prometheus/) · 个人维护
 
 **面向 agent 开发者的构建期元提示词框架，设计、审计并验证提示词**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Samuele95/prometheus 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # edsml-jz2321/QuoteMem
 
-⭐ 4 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/edsml-jz2321/QuoteMem) · [官网](https://agentmemoryleaderboard.ai/results/cycle-2/#industry-textual) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/edsml-jz2321/QuoteMem) · [官网](https://www.npmjs.com/package/quotemem) · 个人维护
 
 **为对话 agent 提供可审计长期记忆的 HTTP 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "edsml-jz2321/QuoteMem 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 3 --> 8
+    line [4, 7]
 ```
 
-2026-11-21 4 → 2026-11-25 4（+0）
+2026-11-21 4 → 2026-11-26 7（+3）
 
 
 ---

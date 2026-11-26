@@ -45,13 +45,13 @@ Dynatrace 维护的开源解决方案集合，面向平台管理员，包含三�
 
 ```mermaid
 xychart-beta
-    title "dynatrace-oss/CustomerSuccess 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 35 --> 38
-    line [36, 37, 37]
+    title "dynatrace-oss/CustomerSuccess 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 36 --> 38
+    line [37, 37]
 ```
 
-2026-10-23 36 → 2026-11-25 37（+1）
+2026-10-24 37 → 2026-11-26 37（+0）
 
 
 ---

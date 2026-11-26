@@ -1,6 +1,6 @@
 # plmbr/notebook-intelligence
 
-⭐ 356 · Python · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/plmbr/notebook-intelligence) · [官网](https://nbi.plmbr.dev) · 个人维护
+⭐ 357 · Python · GPL-3.0 · 推送 2026-11-14 · [GitHub](https://github.com/plmbr/notebook-intelligence) · [官网](https://nbi.plmbr.dev) · 个人维护
 
 **为 JupyterLab 提供多模型 AI 编程助手与可扩展 agent 框架**
 
@@ -46,13 +46,13 @@ JupyterLab 扩展（NBI），为笔记本添加聊天、内联编辑、自动补
 
 ```mermaid
 xychart-beta
-    title "plmbr/notebook-intelligence 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 346 --> 357
-    line [347, 348, 349, 348, 351, 355, 356, 355, 356, 356]
+    title "plmbr/notebook-intelligence 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 347 --> 358
+    line [348, 349, 348, 351, 355, 356, 355, 356, 357]
 ```
 
-2026-10-23 347 → 2026-11-25 356（+9）
+2026-10-24 348 → 2026-11-26 357（+9）
 
 
 ---

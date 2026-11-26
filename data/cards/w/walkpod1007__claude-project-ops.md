@@ -1,6 +1,6 @@
 # walkpod1007/claude-project-ops
 
-⭐ 75 · MIT · 推送 2026-09-09 · [GitHub](https://github.com/walkpod1007/claude-project-ops) · 个人维护 · 中文 README
+⭐ 74 · MIT · 推送 2026-09-09 · [GitHub](https://github.com/walkpod1007/claude-project-ops) · 个人维护 · 中文 README
 
 **让中阶模型接管项目运作的可移植调度规则模板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "walkpod1007/claude-project-ops 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 73 --> 76
-    line [74, 75, 75]
+    line [74, 75, 74]
 ```
 
-2026-10-23 74 → 2026-11-25 75（+1）
+2026-10-24 74 → 2026-11-26 74（+0）
 
 
 ---

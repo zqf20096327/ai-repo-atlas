@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RajdipDhar2007/IndicDLP-Live-Layout-Studio 星数(近 2 点)"
-    x-axis ["2026-10-28", "2026-11-25"]
+    x-axis ["2026-10-28", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-28 3 → 2026-11-25 3（+0）
+2026-10-28 3 → 2026-11-26 3（+0）
 
 
 ---

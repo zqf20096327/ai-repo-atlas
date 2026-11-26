@@ -1,6 +1,6 @@
 # anton-abyzov/specweave
 
-⭐ 173 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anton-abyzov/specweave) · [官网](https://spec-weave.com) · 个人维护
+⭐ 173 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/anton-abyzov/specweave) · [官网](https://spec-weave.com) · 个人维护
 
 **规范优先的 AI 开发工作流 CLI：跨编码代理交接与任务管理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "anton-abyzov/specweave 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-26"]
     y-axis "stars" 166 --> 174
     line [167, 169, 170, 167, 170, 171, 172, 173, 173]
 ```
 
-2026-10-23 167 → 2026-11-25 173（+6）
+2026-10-24 167 → 2026-11-26 173（+6）
 
 
 ---

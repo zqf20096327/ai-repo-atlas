@@ -1,6 +1,6 @@
 # ImRevoltexee/gonka-autoinject
 
-⭐ 43 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/ImRevoltexee/gonka-autoinject) · 个人维护
+⭐ 44 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/ImRevoltexee/gonka-autoinject) · 个人维护
 
 **自动化批量注册 GonkaRouter 账号并把密钥注入 9Router 的守护工具**
 
@@ -46,12 +46,12 @@ Python 标准库实现（约 700 行，无第三方依赖）的账号注册流�
 ```mermaid
 xychart-beta
     title "ImRevoltexee/gonka-autoinject 星数(近 6 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-26"]
     y-axis "stars" 18 --> 46
-    line [20, 42, 43, 44, 43, 43]
+    line [20, 42, 43, 44, 43, 44]
 ```
 
-2026-11-02 20 → 2026-11-25 43（+23）
+2026-11-02 20 → 2026-11-26 44（+24）
 
 
 ---

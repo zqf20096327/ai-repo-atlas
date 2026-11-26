@@ -1,6 +1,6 @@
 # nurettincoban/ai-prd-workflow
 
-⭐ 319 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nurettincoban/ai-prd-workflow) · [官网](https://nurettincoban.github.io/ai-prd-workflow/) · 个人维护 · 中文 README
+⭐ 317 · Python · MIT · 推送 2026-11-17 · [GitHub](https://github.com/nurettincoban/ai-prd-workflow) · [官网](https://nurettincoban.github.io/ai-prd-workflow/) · 个人维护 · 中文 README
 
 **为 AI 编码代理提供 PRD→RFC 流程规范的工作流技能集**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nurettincoban/ai-prd-workflow 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
+    title "nurettincoban/ai-prd-workflow 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 304 --> 320
-    line [305, 306, 307, 309, 305, 309, 310, 311, 315, 316, 317, 319]
+    line [305, 306, 307, 309, 305, 309, 310, 311, 315, 316, 317, 319, 317]
 ```
 
-2026-10-23 305 → 2026-11-25 319（+14）
+2026-10-24 305 → 2026-11-26 317（+12）
 
 
 ---

@@ -1,6 +1,6 @@
 # roni-clei-santos/ai-company-prospector
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/roni-clei-santos/ai-company-prospector) · [官网](https://roni-clei-santos.github.io/ai-company-prospector/demo/) · 个人维护
 
 **Claude Code agent：按技术栈找公司并起草求职触达消息**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "roni-clei-santos/ai-company-prospector 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-24"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-24 3（+0）
+2026-11-12 3 → 2026-11-26 3（+0）
 
 
 ---

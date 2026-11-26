@@ -1,6 +1,6 @@
 # SuperBruceJia/Awesome-Mixture-of-Experts
 
-⭐ 78 · MIT · 推送 2026-07-13 · [GitHub](https://github.com/SuperBruceJia/Awesome-Mixture-of-Experts) · [官网](https://github.com/SuperBruceJia/Awesome-Mixture-of-Experts) · 个人维护
+⭐ 77 · MIT · 推送 2026-07-13 · [GitHub](https://github.com/SuperBruceJia/Awesome-Mixture-of-Experts) · [官网](https://github.com/SuperBruceJia/Awesome-Mixture-of-Experts) · 个人维护
 
 **MoE 与多模态专家混合方向的论文/资源策展清单**
 
@@ -45,12 +45,12 @@ Awesome List 形式的论文与资源汇总，收录 Mixture of Experts (MoE) �
 ```mermaid
 xychart-beta
     title "SuperBruceJia/Awesome-Mixture-of-Experts 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-26"]
     y-axis "stars" 74 --> 79
-    line [75, 76, 77, 78, 78]
+    line [75, 76, 77, 78, 77]
 ```
 
-2026-10-23 75 → 2026-11-25 78（+3）
+2026-10-24 75 → 2026-11-26 77（+2）
 
 
 ---

@@ -41,6 +41,18 @@
 > L10: ## Building a CLI Workflow
 > L19: ## Building a Computer Vision
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/function-bike-rider 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 30 --> 32
+    line [31, 31]
+```
+
+2026-11-25 31 → 2026-11-26 31（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e7323399634f` · [字段定义](../../DATASET.md)*

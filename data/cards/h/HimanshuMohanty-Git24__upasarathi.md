@@ -1,6 +1,6 @@
 # HimanshuMohanty-Git24/upasarathi
 
-⭐ 18 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HimanshuMohanty-Git24/upasarathi) · [官网](https://upasarathi.vercel.app/) · 个人维护
+⭐ 37 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HimanshuMohanty-Git24/upasarathi) · [官网](https://upasarathi.vercel.app/) · 个人维护
 
 **13部奥义书知识图谱阅读站+检测AI迎合倾向的对齐评测工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HimanshuMohanty-Git24/upasarathi 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 5 --> 19
-    line [6, 18]
+    title "HimanshuMohanty-Git24/upasarathi 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 40
+    line [6, 18, 37]
 ```
 
-2026-11-23 6 → 2026-11-25 18（+12）
+2026-11-23 6 → 2026-11-26 37（+31）
 
 
 ---

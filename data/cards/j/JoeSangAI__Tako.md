@@ -1,6 +1,6 @@
 # JoeSangAI/Tako
 
-⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JoeSangAI/Tako) · 个人维护 · 中文 README
+⭐ 8 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JoeSangAI/Tako) · 个人维护 · 中文 README
 
 **Mac 桌面智能体：黏在任意窗口上替你看和操作**
 
@@ -45,13 +45,13 @@ macOS 原生应用（Swift + Python），把图标拖到任意窗口后可读取
 
 ```mermaid
 xychart-beta
-    title "JoeSangAI/Tako 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-12", "2026-11-18", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 8
-    line [3, 4, 5, 6, 7]
+    title "JoeSangAI/Tako 星数(近 6 点)"
+    x-axis ["2026-11-02", "2026-11-12", "2026-11-18", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 9
+    line [3, 4, 5, 6, 7, 8]
 ```
 
-2026-11-02 3 → 2026-11-25 7（+4）
+2026-11-02 3 → 2026-11-26 8（+5）
 
 
 ---

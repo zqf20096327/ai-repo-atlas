@@ -1,6 +1,6 @@
 # dougeeai/llama-cpp-python-wheels
 
-⭐ 89 · MIT · 推送 2026-04-18 · [GitHub](https://github.com/dougeeai/llama-cpp-python-wheels) · 个人维护
+⭐ 88 · MIT · 推送 2026-04-18 · [GitHub](https://github.com/dougeeai/llama-cpp-python-wheels) · 个人维护
 
 **llama-cpp-python 的预编译 CUDA wheel 分发：免本地编译安装**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dougeeai/llama-cpp-python-wheels 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-21", "2026-11-22", "2026-11-26"]
     y-axis "stars" 85 --> 90
-    line [86, 87, 86, 88, 87, 88, 89, 89]
+    line [86, 87, 86, 88, 87, 88, 89, 88]
 ```
 
-2026-10-23 86 → 2026-11-25 89（+3）
+2026-10-24 86 → 2026-11-26 88（+2）
 
 
 ---

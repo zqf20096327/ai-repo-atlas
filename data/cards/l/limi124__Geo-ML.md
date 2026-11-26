@@ -1,6 +1,6 @@
 # limi124/Geo-ML
 
-⭐ 9 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/limi124/Geo-ML) · 个人维护 · 中文 README
+⭐ 19 · Jupyter Notebook · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/limi124/Geo-ML) · 个人维护 · 中文 README
 
 **面向地理/GIS/遥感方向读者的中文机器学习实战教程（8 章 Notebook）**
 
@@ -40,6 +40,18 @@
 > L16: 这是一套面向**地理、GIS、遥感方向**读者的中文开源实战教程。你不需要先啃完机器学习理论：只要有基础 Python 语法，能看懂经纬度、投影、栅格与像元，就可以跟着 8 个循序渐进的 Jupyter Notebook 完成从原
 > L44: |**03**|构建训练表|怎样把二维栅格变成结构化样本表？|保留 `row/col/x/y` 定位、缺测统计、防泄漏 `Pipeline` 思想|
 > L62: 地理空间依赖（GDAL、Rasterio、GeoPandas、PROJ）强烈建议通过 Conda 安装，避免单独 `pip install` 引发二进制依赖冲突：
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "limi124/Geo-ML 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 8 --> 20
+    line [9, 19]
+```
+
+2026-11-25 9 → 2026-11-26 19（+10）
 
 
 ---

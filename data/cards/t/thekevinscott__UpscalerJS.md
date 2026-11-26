@@ -1,6 +1,6 @@
 # thekevinscott/UpscalerJS
 
-⭐ 905 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/thekevinscott/UpscalerJS) · [官网](https://upscalerjs.com) · 个人维护
+⭐ 905 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/thekevinscott/UpscalerJS) · [官网](https://upscalerjs.com) · 个人维护
 
 **JavaScript 图像超分辨率与增强库，浏览器/Node 均可用**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "thekevinscott/UpscalerJS 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-25"]
+    title "thekevinscott/UpscalerJS 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-06", "2026-11-10", "2026-11-14", "2026-11-20", "2026-11-21", "2026-11-26"]
     y-axis "stars" 902 --> 908
-    line [904, 903, 904, 905, 904, 905, 906, 907, 905, 905]
+    line [903, 904, 905, 904, 905, 906, 907, 905, 905]
 ```
 
-2026-10-23 904 → 2026-11-25 905（+1）
+2026-10-24 903 → 2026-11-26 905（+2）
 
 
 ---

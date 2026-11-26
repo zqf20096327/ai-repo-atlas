@@ -1,6 +1,6 @@
 # AncientiCe/palace-rs
 
-⭐ 14 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AncientiCe/palace-rs) · [官网](https://palacememory.com/) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AncientiCe/palace-rs) · [官网](https://palacememory.com/) · 个人维护
 
 **给编码 agent 提供本地跨会话记忆的 MCP 服务器**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "AncientiCe/palace-rs 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 9 --> 15
     line [10, 11, 12, 14, 14]
 ```
 
-2026-10-23 10 → 2026-11-25 14（+4）
+2026-10-24 10 → 2026-11-26 14（+4）
 
 
 ---

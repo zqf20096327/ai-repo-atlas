@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "anujdutt9/Handwritten-Digit-Recognition-using-Deep-Learning 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 271 --> 274
     line [272, 273, 273]
 ```
 
-2026-10-23 272 → 2026-11-25 273（+1）
+2026-10-24 272 → 2026-11-26 273（+1）
 
 
 ---

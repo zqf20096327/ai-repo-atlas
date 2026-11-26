@@ -42,6 +42,18 @@
 > L82: To demonstrate practical Machine Learning inference on neuromorphic silicon, a classic **Housing Price Regression**
 > L85: **Figure 3:** End-to-end Machine Learning to FPGA silicon pipeline. **(Panel 1)** Classical floating-point regressi
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Kxvinnnn/tang-nano-lif-verilog 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `654b98c79a6f` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # yunluo91/WorkBuddy2API-Android
 
-⭐ 5 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/yunluo91/WorkBuddy2API-Android) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/yunluo91/WorkBuddy2API-Android) · 个人维护 · 中文 README
 
 **把 WorkBuddy2API Python 网关打包成 Android APK 的外壳应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yunluo91/WorkBuddy2API-Android 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-08 3 → 2026-11-25 5（+2）
+2026-11-08 3 → 2026-11-26 6（+3）
 
 
 ---

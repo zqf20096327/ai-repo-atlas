@@ -1,6 +1,6 @@
 # untra/operator
 
-⭐ 43 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/untra/operator) · [官网](http://operator.untra.io/) · 个人维护
+⭐ 44 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/untra/operator) · [官网](http://operator.untra.io/) · 个人维护
 
 **管理多 AI 编码 agent 的看板式编排 TUI 工具**
 
@@ -45,12 +45,12 @@ TUI 终端应用，通过 tmux/cmux/Zellij 会话封装，在多仓库工作区�
 ```mermaid
 xychart-beta
     title "untra/operator 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 40 --> 44
-    line [41, 42, 43, 43]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 40 --> 45
+    line [41, 42, 43, 44]
 ```
 
-2026-10-23 41 → 2026-11-25 43（+2）
+2026-10-24 41 → 2026-11-26 44（+3）
 
 
 ---

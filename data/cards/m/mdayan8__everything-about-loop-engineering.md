@@ -1,6 +1,6 @@
 # mdayan8/everything-about-loop-engineering
 
-⭐ 20 · Shell · MIT · 推送 2026-06-23 · [GitHub](https://github.com/mdayan8/everything-about-loop-engineering) · 个人维护
+⭐ 21 · Shell · MIT · 推送 2026-06-23 · [GitHub](https://github.com/mdayan8/everything-about-loop-engineering) · 个人维护
 
 **loop engineering（设计驱动 AI 编程 agent 的循环系统）教程与参考仓库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mdayan8/everything-about-loop-engineering 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 17 --> 21
-    line [18, 19, 18, 20, 20]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 17 --> 22
+    line [18, 19, 18, 20, 21]
 ```
 
-2026-10-23 18 → 2026-11-25 20（+2）
+2026-10-24 18 → 2026-11-26 21（+3）
 
 
 ---

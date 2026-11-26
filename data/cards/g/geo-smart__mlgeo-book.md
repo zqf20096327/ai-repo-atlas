@@ -1,6 +1,6 @@
 # geo-smart/mlgeo-book
 
-⭐ 22 · Jupyter Notebook · MIT · 推送 2026-11-23 · [GitHub](https://github.com/geo-smart/mlgeo-book) · [官网](https://geo-smart.github.io/mlgeo-book/) · 组织维护
+⭐ 22 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/geo-smart/mlgeo-book) · [官网](https://geo-smart.github.io/mlgeo-book/) · 组织维护
 
 **地球科学机器学习课程教材（UW ESS 469/569），2026 版**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "geo-smart/mlgeo-book 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 19 --> 23
     line [20, 21, 20, 22, 22]
 ```
 
-2026-10-23 20 → 2026-11-25 22（+2）
+2026-10-24 20 → 2026-11-26 22（+2）
 
 
 ---

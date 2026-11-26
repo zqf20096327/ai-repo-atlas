@@ -1,6 +1,6 @@
 # 2Fivers/lastdrop
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/2Fivers/lastdrop) · 组织维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/2Fivers/lastdrop) · 组织维护
 
 **Windows 11 托盘应用：一键查看各 AI 服务剩余用量**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "2Fivers/lastdrop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 3（+0）
 
 
 ---

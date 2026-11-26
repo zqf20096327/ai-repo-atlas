@@ -1,6 +1,6 @@
 # jessepinkman9900/claude-second-brain
 
-⭐ 180 · JavaScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/jessepinkman9900/claude-second-brain) · [官网](https://jessepinkman9900.github.io/claude-second-brain/) · 个人维护
+⭐ 184 · JavaScript · MIT · 推送 2026-04-20 · [GitHub](https://github.com/jessepinkman9900/claude-second-brain) · [官网](https://jessepinkman9900.github.io/claude-second-brain/) · 个人维护
 
 **一条命令搭建 LLM 驱动的个人知识库（Claude Code+Obsidian+qmd）**
 
@@ -44,13 +44,13 @@ npm 脚手架 CLI：npx claude-second-brain 生成一个可直接在 Obsidian �
 
 ```mermaid
 xychart-beta
-    title "jessepinkman9900/claude-second-brain 星数(近 15 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 33 --> 193
-    line [46, 48, 64, 70, 72, 91, 110, 160, 166, 172, 173, 175, 176, 179, 180]
+    title "jessepinkman9900/claude-second-brain 星数(近 16 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 33 --> 197
+    line [46, 48, 64, 70, 72, 91, 110, 160, 166, 172, 173, 175, 176, 179, 180, 184]
 ```
 
-2026-10-23 46 → 2026-11-25 180（+134）
+2026-10-24 46 → 2026-11-26 184（+138）
 
 
 ---

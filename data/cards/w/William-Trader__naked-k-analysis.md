@@ -1,6 +1,6 @@
 # William-Trader/naked-k-analysis
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/William-Trader/naked-k-analysis) · 个人维护 · 中文 README
+⭐ 12 · Python · NOASSERTION · 推送 2026-11-12 · [GitHub](https://github.com/William-Trader/naked-k-analysis) · 个人维护 · 中文 README
 
 **给个人交易者的裸K价格行为分析终端，规则引擎判读+LLM 解读+QQ 群推送**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "William-Trader/naked-k-analysis 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 3 --> 12
-    line [4, 7, 4, 8, 9, 10, 11, 11]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 3 --> 13
+    line [4, 7, 4, 8, 9, 10, 11, 12]
 ```
 
-2026-10-23 4 → 2026-11-25 11（+7）
+2026-10-24 4 → 2026-11-26 12（+8）
 
 
 ---

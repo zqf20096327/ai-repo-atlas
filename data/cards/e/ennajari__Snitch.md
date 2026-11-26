@@ -1,6 +1,6 @@
 # ennajari/Snitch
 
-⭐ 4 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ennajari/Snitch) · [官网](https://ennajari.github.io/Snitch/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-12 · [GitHub](https://github.com/ennajari/Snitch) · [官网](https://ennajari.github.io/Snitch/) · 个人维护
 
 **检测 AI 编码 agent 用作弊手段让测试通过的完整性层**
 
@@ -47,12 +47,12 @@ Snitch 以确定性检测器（pytest 收集清单对比、AST 断言 diff、CI 
 ```mermaid
 xychart-beta
     title "ennajari/Snitch 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
-    y-axis "stars" 3 --> 5
-    line [4, 4]
+    x-axis ["2026-10-26", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
 ```
 
-2026-10-26 4 → 2026-11-25 4（+0）
+2026-10-26 4 → 2026-11-26 5（+1）
 
 
 ---

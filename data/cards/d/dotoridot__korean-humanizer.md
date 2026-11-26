@@ -1,6 +1,6 @@
 # dotoridot/korean-humanizer
 
-⭐ 19 · Python · MIT · 推送 2026-11-08 · [GitHub](https://github.com/dotoridot/korean-humanizer) · [官网](https://github.com/dotoricode/korean-humanizer/wiki) · 个人维护
+⭐ 20 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dotoridot/korean-humanizer) · [官网](https://github.com/dotoridot/korean-humanizer/wiki) · 个人维护
 
 **去除韩语 AI 文本痕迹的提示词/技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dotoridot/korean-humanizer 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 19]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 20]
 ```
 
-2026-11-08 18 → 2026-11-25 19（+1）
+2026-11-08 18 → 2026-11-26 20（+2）
 
 
 ---

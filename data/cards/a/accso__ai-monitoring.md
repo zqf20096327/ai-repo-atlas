@@ -1,6 +1,6 @@
 # accso/ai-monitoring
 
-⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/accso/ai-monitoring) · 组织维护
+⭐ 5 · TypeScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/accso/ai-monitoring) · 组织维护
 
 **AI 编码 agent 用量监控栈：按项目/模型/提供商追踪 token 与成本**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "accso/ai-monitoring 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-11 3 → 2026-11-25 4（+1）
+2026-11-11 3 → 2026-11-26 5（+2）
 
 
 ---

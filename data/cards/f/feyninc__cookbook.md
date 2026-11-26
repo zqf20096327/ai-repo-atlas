@@ -45,12 +45,12 @@ Chonkie 官方 cookbook 仓库，汇集使用 Chonkie 的示例、教程与项�
 ```mermaid
 xychart-beta
     title "feyninc/cookbook 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

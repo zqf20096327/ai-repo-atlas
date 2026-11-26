@@ -1,6 +1,6 @@
 # hoodini/yuv-studio
 
-⭐ 3 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hoodini/yuv-studio) · [官网](https://yuv.ai) · 个人维护
+⭐ 4 · TypeScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hoodini/yuv-studio) · [官网](https://yuv.ai) · 个人维护
 
 **给视频创作者与 AI Agent 的浏览器端视频编辑器**
 
@@ -39,6 +39,18 @@
 
 > L25: YUV.AI Studio makes **every edit an API call**. The same operations sit behind the editor, a REST API and 63 MCP to
 > L87: |🔌 **MCP + REST**|63 MCP tools and a REST API over the same operations. Claude Code, Claude Desktop, Codex, Cursor,
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "hoodini/yuv-studio 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

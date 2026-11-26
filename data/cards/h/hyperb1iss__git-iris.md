@@ -1,6 +1,6 @@
 # hyperb1iss/git-iris
 
-⭐ 43 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/hyperb1iss/git-iris) · [官网](https://hyperb1iss.github.io/git-iris) · 个人维护
+⭐ 42 · Rust · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/hyperb1iss/git-iris) · [官网](https://hyperb1iss.github.io/git-iris) · 个人维护
 
 **AI agent 驱动的 Git 工具：生成提交信息、代码审查与变更日志**
 
@@ -46,12 +46,12 @@ Rust 编写的 Git CLI 工具，内含名为 Iris 的智能 agent，通过工具
 ```mermaid
 xychart-beta
     title "hyperb1iss/git-iris 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 42 --> 44
-    line [43, 43]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 41 --> 44
+    line [43, 42]
 ```
 
-2026-10-23 43 → 2026-11-25 43（+0）
+2026-10-24 43 → 2026-11-26 42（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # epsilla-cloud/vectordb
 
-⭐ 874 · C++ · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/epsilla-cloud/vectordb) · [官网](https://epsilla.com) · 组织维护
+⭐ 873 · C++ · Apache-2.0 · 推送 2026-10-04 · [GitHub](https://github.com/epsilla-cloud/vectordb) · [官网](https://epsilla.com) · 组织维护
 
 **开源向量数据库，面向 LLM 应用的相似度检索与存储**
 
@@ -45,12 +45,12 @@ Epsilla 是一个用 C++ 实现的开源向量数据库，核心采用并行图�
 ```mermaid
 xychart-beta
     title "epsilla-cloud/vectordb 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 873 --> 875
-    line [874, 874]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 872 --> 875
+    line [874, 873]
 ```
 
-2026-10-23 874 → 2026-11-25 874（+0）
+2026-10-24 874 → 2026-11-26 873（-1）
 
 
 ---

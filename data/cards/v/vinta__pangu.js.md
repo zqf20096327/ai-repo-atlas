@@ -1,6 +1,6 @@
 # vinta/pangu.js
 
-⭐ 4,861 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/vinta/pangu.js) · [官网](https://chrome.google.com/webstore/detail/paphcfdffjnbcgkokihcdjliihicmbpd) · 个人维护 · 中文 README
+⭐ 4,863 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/vinta/pangu.js) · [官网](https://chrome.google.com/webstore/detail/paphcfdffjnbcgkokihcdjliihicmbpd) · 个人维护 · 中文 README
 
 **为中英文/数字/符号间自动插入空格的 JS 库与 Chrome 扩展**
 
@@ -45,13 +45,13 @@ pangu.js 提供 JavaScript 库、命令行工具与 Chrome 扩展，在中日韩
 
 ```mermaid
 xychart-beta
-    title "vinta/pangu.js 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 4851 --> 4863
-    line [4852, 4854, 4853, 4854, 4856, 4852, 4861, 4862, 4861, 4860, 4861]
+    title "vinta/pangu.js 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 4851 --> 4864
+    line [4852, 4854, 4853, 4854, 4856, 4852, 4861, 4862, 4861, 4860, 4861, 4863]
 ```
 
-2026-10-23 4,852 → 2026-11-25 4,861（+9）
+2026-10-24 4,852 → 2026-11-26 4,863（+11）
 
 
 ---

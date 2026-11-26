@@ -1,6 +1,6 @@
 # Eric-Song-Nop/mobvibe
 
-⭐ 147 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Eric-Song-Nop/mobvibe) · [官网](https://app.mobvibe.net) · 个人维护 · 中文 README
+⭐ 148 · TypeScript · Apache-2.0 · 推送 2026-09-11 · [GitHub](https://github.com/Eric-Song-Nop/mobvibe) · [官网](https://app.mobvibe.net) · 个人维护 · 中文 README
 
 **远程连接本地 AI 编程代理的跨设备 ACP WebUI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Eric-Song-Nop/mobvibe 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 144 --> 148
-    line [145, 146, 145, 147, 146, 147, 147]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 144 --> 149
+    line [145, 146, 145, 147, 146, 147, 148]
 ```
 
-2026-10-23 145 → 2026-11-25 147（+2）
+2026-10-24 145 → 2026-11-26 148（+3）
 
 
 ---

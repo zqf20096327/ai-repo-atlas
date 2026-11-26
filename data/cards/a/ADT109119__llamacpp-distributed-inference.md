@@ -1,6 +1,6 @@
 # ADT109119/llamacpp-distributed-inference
 
-⭐ 95 · JavaScript · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/ADT109119/llamacpp-distributed-inference) · 个人维护 · 中文 README
+⭐ 96 · JavaScript · Apache-2.0 · 推送 2026-08-23 · [GitHub](https://github.com/ADT109119/llamacpp-distributed-inference) · 个人维护 · 中文 README
 
 **基于 llama.cpp 的局域网分布式 LLM 推理桌面应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ADT109119/llamacpp-distributed-inference 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 94 --> 96
-    line [95, 95]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 94 --> 97
+    line [95, 96]
 ```
 
-2026-10-23 95 → 2026-11-25 95（+0）
+2026-10-24 95 → 2026-11-26 96（+1）
 
 
 ---

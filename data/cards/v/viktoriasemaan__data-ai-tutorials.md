@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "viktoriasemaan/data-ai-tutorials 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
+    title "viktoriasemaan/data-ai-tutorials 星数(近 3 点)"
+    x-axis ["2026-11-15", "2026-11-25", "2026-11-26"]
     y-axis "stars" 125 --> 128
-    line [126, 127]
+    line [126, 127, 127]
 ```
 
-2026-11-15 126 → 2026-11-25 127（+1）
+2026-11-15 126 → 2026-11-26 127（+1）
 
 
 ---

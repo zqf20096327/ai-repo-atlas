@@ -1,6 +1,6 @@
 # unipds-engenharia-de-ia-aplicada/awesome-unipds-projects
 
-⭐ 262 · 推送 2026-07-22 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/awesome-unipds-projects) · 组织维护
+⭐ 262 · 推送 2026-11-24 · [GitHub](https://github.com/unipds-engenharia-de-ia-aplicada/awesome-unipds-projects) · 组织维护
 
 **UNIPDS 应用 AI 研究生课程学生原创项目策展清单**
 
@@ -43,12 +43,12 @@ UNIPDS 软件工程与应用 AI 研究生课程的学生原创项目展示清单
 ```mermaid
 xychart-beta
     title "unipds-engenharia-de-ia-aplicada/awesome-unipds-projects 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 259 --> 263
     line [260, 262, 262]
 ```
 
-2026-10-23 260 → 2026-11-25 262（+2）
+2026-10-24 260 → 2026-11-26 262（+2）
 
 
 ---

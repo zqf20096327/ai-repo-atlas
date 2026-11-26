@@ -1,6 +1,6 @@
 # The-Swarm-Corporation/AI-CoScientist
 
-⭐ 135 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/The-Swarm-Corporation/AI-CoScientist) · [官网](https://swarms.ai) · 组织维护
+⭐ 136 · Python · MIT · 推送 2026-07-13 · [GitHub](https://github.com/The-Swarm-Corporation/AI-CoScientist) · [官网](https://swarms.ai) · 组织维护
 
 **多智能体科研框架：生成并演化科学假说**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "The-Swarm-Corporation/AI-CoScientist 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 131 --> 136
-    line [132, 134, 135, 135]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 131 --> 137
+    line [132, 134, 135, 136]
 ```
 
-2026-10-23 132 → 2026-11-25 135（+3）
+2026-10-24 132 → 2026-11-26 136（+4）
 
 
 ---

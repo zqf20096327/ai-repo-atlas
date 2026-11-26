@@ -1,6 +1,6 @@
 # Nikhil210206/FitYou
 
-⭐ 19 · HTML · 推送 2026-07-02 · [GitHub](https://github.com/Nikhil210206/FitYou) · [官网](https://fit-you-six.vercel.app/) · 个人维护
+⭐ 19 · HTML · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Nikhil210206/FitYou) · [官网](https://fit-you-six.vercel.app/) · 个人维护
 
 **面向健身用户的 AI 个性化训练与饮食计划网站**
 
@@ -11,7 +11,7 @@ FitYou 是一个 React.js 前端 + Flask 后端的健身 Web 应用：用户注�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | — |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,13 +46,13 @@ FitYou 是一个 React.js 前端 + Flask 后端的健身 Web 应用：用户注�
 
 ```mermaid
 xychart-beta
-    title "Nikhil210206/FitYou 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "Nikhil210206/FitYou 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 17 --> 20
-    line [19, 18, 19, 18, 19]
+    line [19, 18, 19, 18, 19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

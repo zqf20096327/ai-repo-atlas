@@ -1,6 +1,6 @@
 # coding-tools-mcp/desktop
 
-⭐ 10 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/coding-tools-mcp/desktop) · 组织维护
+⭐ 11 · Rust · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/coding-tools-mcp/desktop) · 组织维护
 
 **管理 Coding Tools MCP Python 进程的本地桌面应用**
 
@@ -39,6 +39,18 @@
 
 > L3: A local-first **Rust + Tauri 2** application with a **React, TypeScript and Mantine** interface. It manages an exter
 > L8: 2. Choose **Install recommended Core** in Settings, or **Use existing Core** in the new workspace wizard. Native bun
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "coding-tools-mcp/desktop 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
+```
+
+2026-11-25 10 → 2026-11-26 11（+1）
 
 
 ---

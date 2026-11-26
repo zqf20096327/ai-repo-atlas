@@ -1,6 +1,6 @@
 # lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive
 
-⭐ 34 · 推送 2026-11-20 · [GitHub](https://github.com/lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 61 · 推送 2026-11-20 · [GitHub](https://github.com/lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **讲解 AI Agent 高频扣款风险与 CoreGold 虚拟卡开卡实操**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 10 --> 36
-    line [12, 34]
+    title "lidambrunel309-ship-it/coregold-usdt-vcc-agentic-ai-token-burn-finops-deep-dive 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 8 --> 65
+    line [12, 34, 61]
 ```
 
-2026-11-21 12 → 2026-11-25 34（+22）
+2026-11-21 12 → 2026-11-26 61（+49）
 
 
 ---

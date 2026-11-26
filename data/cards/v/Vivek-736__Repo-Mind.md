@@ -1,6 +1,6 @@
 # Vivek-736/Repo-Mind
 
-⭐ 87 · TypeScript · MIT · 推送 2026-06-17 · [GitHub](https://github.com/Vivek-736/Repo-Mind) · [官网](https://repo-mind-sigma.vercel.app) · 个人维护
+⭐ 86 · TypeScript · MIT · 推送 2026-06-17 · [GitHub](https://github.com/Vivek-736/Repo-Mind) · [官网](https://repo-mind-sigma.vercel.app) · 个人维护
 
 **面向开发者的 GitHub 仓库 AI 文档生成与代码问答平台**
 
@@ -46,12 +46,12 @@ RepoMind 是一个基于 Next.js 的 Web 应用：接入 GitHub 账号后，用�
 ```mermaid
 xychart-beta
     title "Vivek-736/Repo-Mind 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 86 --> 90
-    line [87, 88, 87, 88, 89, 88, 87, 87]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-19", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 85 --> 90
+    line [87, 88, 87, 88, 89, 88, 87, 86]
 ```
 
-2026-10-23 87 → 2026-11-25 87（+0）
+2026-10-24 87 → 2026-11-26 86（-1）
 
 
 ---

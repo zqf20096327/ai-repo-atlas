@@ -1,6 +1,6 @@
 # inboxapi/cli
 
-⭐ 13 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/inboxapi/cli) · [官网](https://inboxapi.ai) · 组织维护
+⭐ 14 · Rust · MIT · 推送 2026-11-17 · [GitHub](https://github.com/inboxapi/cli) · [官网](https://inboxapi.ai) · 组织维护
 
 **给 AI agent 配独立邮箱的 MCP 桥接 CLI**
 
@@ -45,12 +45,12 @@ Rust 编写的命令行工具，作为本地桥接在 AI 客户端与 InboxAPI �
 ```mermaid
 xychart-beta
     title "inboxapi/cli 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

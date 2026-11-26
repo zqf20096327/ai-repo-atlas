@@ -1,6 +1,6 @@
 # pantheraudits/move-auditor
 
-⭐ 24 · 推送 2026-08-19 · [GitHub](https://github.com/pantheraudits/move-auditor) · [官网](https://pantheraudits.com) · 组织维护
+⭐ 25 · 推送 2026-08-19 · [GitHub](https://github.com/pantheraudits/move-auditor) · [官网](https://pantheraudits.com) · 组织维护
 
 **让 AI 编码 agent 变成 Move 智能合约安全审计员的技能包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pantheraudits/move-auditor 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 19 --> 25
-    line [21, 20, 21, 22, 24, 24]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 19 --> 26
+    line [21, 20, 21, 22, 24, 25]
 ```
 
-2026-10-23 21 → 2026-11-25 24（+3）
+2026-10-24 21 → 2026-11-26 25（+4）
 
 
 ---

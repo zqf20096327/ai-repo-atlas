@@ -1,6 +1,6 @@
 # AlphaaCode/Popbook
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AlphaaCode/Popbook) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/AlphaaCode/Popbook) · 个人维护
 
 **把课程 PDF 转成浏览器中交互式 3D 立体教科书的工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AlphaaCode/Popbook 星数(近 4 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 3 --> 19
-    line [4, 16, 18, 18]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 3 --> 20
+    line [4, 16, 18, 19]
 ```
 
-2026-11-02 4 → 2026-11-25 18（+14）
+2026-11-02 4 → 2026-11-26 19（+15）
 
 
 ---

@@ -1,6 +1,6 @@
 # ConcordDev/concord-cognitive-engine
 
-⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/ConcordDev/concord-cognitive-engine) · [官网](https://concord-os.org) · 个人维护
+⭐ 13 · JavaScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/ConcordDev/concord-cognitive-engine) · [官网](https://concord-os.org) · 个人维护
 
 **给工程师的可验证计算引擎：AI 问答附求解器凭据与手算校核**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ConcordDev/concord-cognitive-engine 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-26"]
     y-axis "stars" 11 --> 14
     line [13, 12, 13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

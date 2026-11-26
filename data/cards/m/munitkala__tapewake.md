@@ -1,6 +1,6 @@
 # munitkala/tapewake
 
-⭐ 26 · HTML · MIT · 推送 2026-11-08 · [GitHub](https://github.com/munitkala/tapewake) · 个人维护
+⭐ 28 · HTML · MIT · 推送 2026-11-08 · [GitHub](https://github.com/munitkala/tapewake) · 个人维护
 
 **本地修复老 VHS/家庭录像的桌面应用：去隔行+AI 超分+人脸与声音修复**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "munitkala/tapewake 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 19 --> 27
-    line [20, 23, 25, 26, 26]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 19 --> 29
+    line [20, 23, 25, 26, 28]
 ```
 
-2026-11-08 20 → 2026-11-25 26（+6）
+2026-11-08 20 → 2026-11-26 28（+8）
 
 
 ---

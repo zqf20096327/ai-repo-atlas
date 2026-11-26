@@ -1,6 +1,6 @@
 # lobehub/lobe-chat-plugins
 
-⭐ 302 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-chat-plugins) · [官网](https://lobechat.com/discover/plugin) · 组织维护 · 中文 README
+⭐ 301 · TypeScript · 推送 2026-10-15 · [GitHub](https://github.com/lobehub/lobe-chat-plugins) · [官网](https://lobechat.com/discover/plugin) · 组织维护 · 中文 README
 
 **LobeChat 官方插件索引：聚合 Function Calling 插件供用户浏览安装**
 
@@ -45,12 +45,12 @@ LobeHub 维护的插件索引仓库：LobeChat 通过读取本仓库的 index.js
 ```mermaid
 xychart-beta
     title "lobehub/lobe-chat-plugins 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 301 --> 304
-    line [302, 303, 302, 303, 302, 302]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 300 --> 304
+    line [302, 303, 302, 303, 302, 301]
 ```
 
-2026-10-23 302 → 2026-11-25 302（+0）
+2026-10-24 302 → 2026-11-26 301（-1）
 
 
 ---

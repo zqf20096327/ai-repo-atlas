@@ -1,6 +1,6 @@
 # dutchman-cad/pilot
 
-⭐ 6 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dutchman-cad/pilot) · 组织维护
+⭐ 7 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dutchman-cad/pilot) · 组织维护
 
 **让本地小模型在 SolidCraft 中生成 CAD 零件的工具**
 
@@ -45,13 +45,13 @@ Pilot 作为本地模型与 SolidCraft 之间的代理运行：对可识别的�
 
 ```mermaid
 xychart-beta
-    title "dutchman-cad/pilot 星数(近 3 点)"
-    x-axis ["2026-10-31", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6]
+    title "dutchman-cad/pilot 星数(近 4 点)"
+    x-axis ["2026-10-31", "2026-11-13", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 8
+    line [4, 5, 6, 7]
 ```
 
-2026-10-31 4 → 2026-11-25 6（+2）
+2026-10-31 4 → 2026-11-26 7（+3）
 
 
 ---

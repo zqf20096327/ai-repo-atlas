@@ -1,6 +1,6 @@
 # realchendahuang/dsh-provider-studio
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/realchendahuang/dsh-provider-studio) · 个人维护 · 中文 README
+⭐ 12 · JavaScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/realchendahuang/dsh-provider-studio) · 个人维护 · 中文 README
 
 **为 DSH 用户管理 LLM 供应商配置与 API 密钥的插件**
 
@@ -45,12 +45,12 @@ DeepSeek Harness（DSH）的供应商管理插件，替换内置 Models 设置�
 ```mermaid
 xychart-beta
     title "realchendahuang/dsh-provider-studio 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-11-08 10 → 2026-11-25 11（+1）
+2026-11-08 10 → 2026-11-26 12（+2）
 
 
 ---

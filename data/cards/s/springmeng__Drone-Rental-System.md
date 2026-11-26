@@ -1,6 +1,6 @@
 # springmeng/Drone-Rental-System
 
-⭐ 45 · Vue · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/springmeng/Drone-Rental-System) · [官网](https://www.javaclimb.com/) · 个人维护 · 中文 README
+⭐ 46 · Vue · Apache-2.0 · 推送 2026-05-26 · [GitHub](https://github.com/springmeng/Drone-Rental-System) · [官网](https://www.javaclimb.com/) · 个人维护 · 中文 README
 
 **AI 无人机租赁全栈实战系统，供毕业设计/课程设计/二次开发学习**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "springmeng/Drone-Rental-System 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 44 --> 46
-    line [45, 45]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 44 --> 47
+    line [45, 46]
 ```
 
-2026-10-23 45 → 2026-11-25 45（+0）
+2026-10-24 45 → 2026-11-26 46（+1）
 
 
 ---

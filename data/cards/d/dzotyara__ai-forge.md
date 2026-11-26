@@ -1,6 +1,6 @@
 # dzotyara/ai-forge
 
-⭐ 3 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/dzotyara/ai-forge) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **把 Claude Code/Codex 审批与问答转发到 Discord/Telegram 远程操作**
 

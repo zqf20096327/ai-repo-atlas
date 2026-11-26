@@ -1,6 +1,6 @@
 # rykou/ringdeck
 
-⭐ 8 · C# · MIT · 推送 2026-11-04 · [GitHub](https://github.com/rykou/ringdeck) · [官网](https://apps.microsoft.com/detail/9N75XDTQ48GV) · 个人维护
+⭐ 9 · C# · MIT · 推送 2026-11-04 · [GitHub](https://github.com/rykou/ringdeck) · [官网](https://apps.microsoft.com/detail/9N75XDTQ48GV) · 个人维护
 
 **Windows 径向菜单工具：快捷键唤出环形切片执行宏、粘贴、AI 问答**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rykou/ringdeck 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 5 --> 9
-    line [6, 7, 8, 6, 8, 8]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 5 --> 10
+    line [6, 7, 8, 6, 8, 9]
 ```
 
-2026-10-23 6 → 2026-11-25 8（+2）
+2026-10-24 6 → 2026-11-26 9（+3）
 
 
 ---

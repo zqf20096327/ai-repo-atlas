@@ -1,6 +1,6 @@
 # ask-marcel/ask-marcel-office-cli
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ask-marcel/ask-marcel-office-cli) · [官网](https://www.npmjs.com/package/ask-marcel-office-cli) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ask-marcel/ask-marcel-office-cli) · [官网](https://www.npmjs.com/package/ask-marcel-office-cli) · 个人维护
 
 **为 AI agent 提供只读访问 Microsoft 365 数据的命令行与 MCP 服务器**
 
@@ -39,6 +39,18 @@
 
 > L11: ask-marcel-office gives a tool-calling agent (Claude Code, Cursor, Cline, an MCP
 > L17: The project is three npm packages. Each package has its own bin, its own MCP
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ask-marcel/ask-marcel-office-cli 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
 
 
 ---

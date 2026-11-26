@@ -1,6 +1,6 @@
 # jaccen/AI-Copyright-Skill
 
-⭐ 20 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/jaccen/AI-Copyright-Skill) · 个人维护 · 中文 README
+⭐ 21 · Python · MIT · 推送 2026-05-23 · [GitHub](https://github.com/jaccen/AI-Copyright-Skill) · 个人维护 · 中文 README
 
 **面向 AI 项目的 Agent 知识产权技能：生成专利与软著文档**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jaccen/AI-Copyright-Skill 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 16 --> 21
-    line [17, 18, 17, 19, 20, 20]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 16 --> 22
+    line [17, 18, 17, 19, 20, 21]
 ```
 
-2026-10-23 17 → 2026-11-25 20（+3）
+2026-10-24 17 → 2026-11-26 21（+4）
 
 
 ---

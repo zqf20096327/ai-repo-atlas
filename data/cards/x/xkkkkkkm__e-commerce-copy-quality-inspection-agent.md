@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "xkkkkkkm/e-commerce-copy-quality-inspection-agent 星数(近 3 点)"
-    x-axis ["2026-10-18", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-18", "2026-11-21", "2026-11-26"]
     y-axis "stars" 8 --> 11
     line [9, 10, 10]
 ```
 
-2026-10-18 9 → 2026-11-25 10（+1）
+2026-10-18 9 → 2026-11-26 10（+1）
 
 
 ---

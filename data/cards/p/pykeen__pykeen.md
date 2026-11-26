@@ -1,6 +1,6 @@
 # pykeen/pykeen
 
-⭐ 2,049 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/pykeen/pykeen) · [官网](https://pykeen.readthedocs.io/en/stable/) · 组织维护
+⭐ 2,051 · Python · MIT · 推送 2026-11-13 · [GitHub](https://github.com/pykeen/pykeen) · [官网](https://pykeen.readthedocs.io/en/stable/) · 组织维护
 
 **知识图谱嵌入模型的训练与评测 Python 库**
 
@@ -45,12 +45,12 @@ PyKEEN 是用于训练和评测知识图谱嵌入模型（支持多模态信息�
 ```mermaid
 xychart-beta
     title "pykeen/pykeen 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 2045 --> 2051
-    line [2047, 2046, 2047, 2049, 2050, 2049, 2049]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-15", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 2045 --> 2052
+    line [2047, 2046, 2047, 2049, 2050, 2049, 2051]
 ```
 
-2026-10-23 2,047 → 2026-11-25 2,049（+2）
+2026-10-24 2,047 → 2026-11-26 2,051（+4）
 
 
 ---

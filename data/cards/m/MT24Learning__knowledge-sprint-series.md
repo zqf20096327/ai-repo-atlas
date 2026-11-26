@@ -1,6 +1,6 @@
 # MT24Learning/knowledge-sprint-series
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/MT24Learning/knowledge-sprint-series) · [官网](https://mt24learning.github.io/knowledge-sprint-series/) · 个人维护
+⭐ 3 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/MT24Learning/knowledge-sprint-series) · [官网](https://mt24learning.github.io/knowledge-sprint-series/) · 个人维护
 
 **面向学习者的 90 个可视化知识短跑学习路径，逐阶段 DOI 存档**
 
@@ -46,12 +46,12 @@ MT24 Learning 出品的开源可视化学习系列，规划 90 个 sprint、27 �
 ```mermaid
 xychart-beta
     title "MT24Learning/knowledge-sprint-series 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-25 3（+0）
+2026-11-11 3 → 2026-11-26 3（+0）
 
 
 ---

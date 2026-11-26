@@ -1,6 +1,6 @@
 # Climate-Vision/ClimateVision
 
-⭐ 378 · Python · MIT · 推送 2026-08-28 · [GitHub](https://github.com/Climate-Vision/ClimateVision) · 组织维护
+⭐ 379 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Climate-Vision/ClimateVision) · 组织维护
 
 **卫星影像环境变化检测平台：监测毁林、冰融与洪水**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Climate-Vision/ClimateVision 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 375 --> 379
-    line [376, 377, 378, 378]
+    title "Climate-Vision/ClimateVision 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 376 --> 380
+    line [377, 378, 379]
 ```
 
-2026-10-23 376 → 2026-11-25 378（+2）
+2026-10-24 377 → 2026-11-26 379（+2）
 
 
 ---

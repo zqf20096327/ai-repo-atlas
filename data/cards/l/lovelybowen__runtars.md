@@ -1,6 +1,6 @@
 # lovelybowen/runtars
 
-⭐ 3 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/lovelybowen/runtars) · [官网](https://runtars.com) · 个人维护
+⭐ 4 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/lovelybowen/runtars) · [官网](https://runtars.com) · 个人维护
 
 **自托管的 AI 队友平台：持久记忆、例程与沙盒电脑**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "lovelybowen/runtars 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-20", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-20 3 → 2026-11-25 3（+0）
+2026-11-20 3 → 2026-11-26 4（+1）
 
 
 ---

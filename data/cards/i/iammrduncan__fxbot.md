@@ -1,6 +1,6 @@
 # iammrduncan/fxbot
 
-⭐ 17 · JavaScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/iammrduncan/fxbot) · [官网](https://fxbot.sh) · 个人维护
+⭐ 18 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/iammrduncan/fxbot) · [官网](https://fxbot.sh) · 个人维护
 
 **自托管的个人 AI 助手平台：任意模型、自有机器、手机访问**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "iammrduncan/fxbot 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 14 --> 18
-    line [15, 16, 17, 17]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 14 --> 19
+    line [15, 16, 17, 18]
 ```
 
-2026-11-11 15 → 2026-11-25 17（+2）
+2026-11-11 15 → 2026-11-26 18（+3）
 
 
 ---

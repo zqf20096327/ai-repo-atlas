@@ -1,6 +1,6 @@
 # fstamatelopoulos/cerefox
 
-⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/fstamatelopoulos/cerefox) · [官网](https://cerefox.org/) · 个人维护
+⭐ 20 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/fstamatelopoulos/cerefox) · [官网](https://cerefox.org/) · 个人维护
 
 **AI agent 共享记忆层：多工具共享可检索知识库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fstamatelopoulos/cerefox 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-23 19 → 2026-11-25 20（+1）
+2026-10-24 19 → 2026-11-26 20（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # clawplays/ospec
 
-⭐ 391 · JavaScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/clawplays/ospec) · [官网](https://ospec.ai) · 组织维护 · 中文 README
+⭐ 392 · JavaScript · MIT · 推送 2026-08-26 · [GitHub](https://github.com/clawplays/ospec) · [官网](https://ospec.ai) · 组织维护 · 中文 README
 
 **面向 AI 编码代理的规格驱动工作流框架**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "clawplays/ospec 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 389 --> 392
-    line [391, 390, 391, 391]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 389 --> 393
+    line [391, 390, 391, 392]
 ```
 
-2026-10-23 391 → 2026-11-25 391（+0）
+2026-10-24 391 → 2026-11-26 392（+1）
 
 
 ---

@@ -45,12 +45,12 @@ O'Reilly 2020 年出版的 Python 文本分析书籍的官方代码仓库：按 
 ```mermaid
 xychart-beta
     title "blueprints-for-text-analytics-python/blueprints-text 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 273 --> 275
     line [274, 274]
 ```
 
-2026-10-23 274 → 2026-11-25 274（+0）
+2026-10-24 274 → 2026-11-26 274（+0）
 
 
 ---

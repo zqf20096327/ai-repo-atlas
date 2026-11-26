@@ -1,6 +1,6 @@
 # binhdzs1tg/halis-code
 
-⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-03 · [GitHub](https://github.com/binhdzs1tg/halis-code) · [官网](https://www.npmjs.com/package/halis-code) · 个人维护
+⭐ 3 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/binhdzs1tg/halis-code) · [官网](https://www.npmjs.com/package/halis-code) · 个人维护
 
 **带防护栏的终端/桌面双形态编码 Agent 工具**
 
@@ -46,12 +46,12 @@ Halis Code 是一个编码 Agent，流式读取、编辑并运行用户项目中
 ```mermaid
 xychart-beta
     title "binhdzs1tg/halis-code 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 3（+0）
 
 
 ---

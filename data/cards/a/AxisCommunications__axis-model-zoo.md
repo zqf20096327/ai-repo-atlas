@@ -1,6 +1,6 @@
 # AxisCommunications/axis-model-zoo
 
-⭐ 39 · C · Apache-2.0 · 推送 2026-10-09 · [GitHub](https://github.com/AxisCommunications/axis-model-zoo) · 组织维护
+⭐ 39 · C · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/AxisCommunications/axis-model-zoo) · 组织维护
 
 **Axis 网络摄像机可用的机器学习模型集合及性能基准**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "AxisCommunications/axis-model-zoo 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
     y-axis "stars" 37 --> 40
     line [38, 39, 39]
 ```
 
-2026-10-23 38 → 2026-11-25 39（+1）
+2026-10-24 38 → 2026-11-26 39（+1）
 
 
 ---

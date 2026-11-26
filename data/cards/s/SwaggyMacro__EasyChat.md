@@ -1,6 +1,6 @@
 # SwaggyMacro/EasyChat
 
-⭐ 53 · C# · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SwaggyMacro/EasyChat) · [官网](https://easychat.ncii.cn) · 个人维护 · 中文 README
+⭐ 55 · C# · MIT · 推送 2026-09-19 · [GitHub](https://github.com/SwaggyMacro/EasyChat) · [官网](https://easychat.ncii.cn) · 个人维护 · 中文 README
 
 **桌面即时翻译与语言辅助工具：截图/划词/语音翻译**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "SwaggyMacro/EasyChat 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 51 --> 54
-    line [53, 52, 53, 52, 53, 53]
+    title "SwaggyMacro/EasyChat 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 51 --> 56
+    line [52, 53, 52, 53, 55]
 ```
 
-2026-10-23 53 → 2026-11-25 53（+0）
+2026-10-24 52 → 2026-11-26 55（+3）
 
 
 ---

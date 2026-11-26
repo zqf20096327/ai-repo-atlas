@@ -1,6 +1,6 @@
 # DerwenAI/strwythura
 
-⭐ 233 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/DerwenAI/strwythura) · [官网](https://blog.derwen.ai/strwythura-2a8007af3682?source=friends_link&sk=93eb7dcce1f48206162e1f69a0f57661) · 组织维护
+⭐ 234 · Python · MIT · 推送 2026-04-15 · [GitHub](https://github.com/DerwenAI/strwythura) · [官网](https://blog.derwen.ai/strwythura-2a8007af3682?source=friends_link&sk=93eb7dcce1f48206162e1f69a0f57661) · 组织维护
 
 **教程与 Python 库：从结构化/非结构化来源构建实体消解知识图谱**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DerwenAI/strwythura 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 232 --> 234
-    line [233, 233]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 232 --> 235
+    line [233, 234]
 ```
 
-2026-10-23 233 → 2026-11-25 233（+0）
+2026-10-24 233 → 2026-11-26 234（+1）
 
 
 ---

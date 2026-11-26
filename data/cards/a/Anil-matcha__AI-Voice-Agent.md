@@ -1,6 +1,6 @@
 # Anil-matcha/AI-Voice-Agent
 
-⭐ 46 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/AI-Voice-Agent) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-10-01 · [GitHub](https://github.com/Anil-matcha/AI-Voice-Agent) · 个人维护
 
 **自托管的 AI 语音通话代理，实时接听与回应语音电话**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Anil-matcha/AI-Voice-Agent 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 41 --> 47
-    line [42, 45, 46, 46]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 41 --> 48
+    line [42, 45, 46, 47]
 ```
 
-2026-10-23 42 → 2026-11-25 46（+4）
+2026-10-24 42 → 2026-11-26 47（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # Wang-ML-Lab/llm-continual-learning-survey
 
-⭐ 568 · 推送 2025-12-23 · [GitHub](https://github.com/Wang-ML-Lab/llm-continual-learning-survey) · 组织维护
+⭐ 569 · 推送 2025-12-23 · [GitHub](https://github.com/Wang-ML-Lab/llm-continual-learning-survey) · 组织维护
 
 **LLM 持续学习论文综述清单（CSUR 2025，持续更新）**
 
@@ -46,12 +46,12 @@ ACM Computing Surveys 2025 论文 "Continual Learning of Large Language Models: 
 ```mermaid
 xychart-beta
     title "Wang-ML-Lab/llm-continual-learning-survey 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 566 --> 569
-    line [567, 568, 568]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 566 --> 570
+    line [567, 568, 569]
 ```
 
-2026-10-23 567 → 2026-11-25 568（+1）
+2026-10-24 567 → 2026-11-26 569（+2）
 
 
 ---

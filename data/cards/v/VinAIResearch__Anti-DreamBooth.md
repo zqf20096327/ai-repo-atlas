@@ -1,6 +1,6 @@
 # VinAIResearch/Anti-DreamBooth
 
-⭐ 324 · Python · AGPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/VinAIResearch/Anti-DreamBooth) · [官网](https://vinairesearch.github.io/Anti-DreamBooth/) · 组织维护
+⭐ 326 · Python · AGPL-3.0 · 推送 2026-03-27 · [GitHub](https://github.com/VinAIResearch/Anti-DreamBooth) · [官网](https://vinairesearch.github.io/Anti-DreamBooth/) · 组织维护
 
 **给用户与研究者：在人像上加对抗扰动以阻止 DreamBooth 个性化生成**
 
@@ -44,13 +44,13 @@ ICCV 2023 论文 Anti-DreamBooth 的官方 PyTorch 实现：在用户发布照�
 
 ```mermaid
 xychart-beta
-    title "VinAIResearch/Anti-DreamBooth 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 310 --> 325
-    line [311, 312, 313, 315, 316, 313, 320, 321, 322, 323, 324, 324]
+    title "VinAIResearch/Anti-DreamBooth 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 311 --> 327
+    line [312, 313, 315, 316, 313, 320, 321, 322, 323, 324, 326]
 ```
 
-2026-10-23 311 → 2026-11-25 324（+13）
+2026-10-24 312 → 2026-11-26 326（+14）
 
 
 ---

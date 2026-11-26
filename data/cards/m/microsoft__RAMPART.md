@@ -1,6 +1,6 @@
 # microsoft/RAMPART
 
-⭐ 428 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/RAMPART) · [官网](https://microsoft.github.io/RAMPART/) · 组织维护
+⭐ 429 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/RAMPART) · [官网](https://microsoft.github.io/RAMPART/) · 组织维护
 
 **面向 AI agent 的安全红队测试框架（pytest 原生）**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "microsoft/RAMPART 星数(近 10 点)"
-    x-axis ["2026-10-22", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 420 --> 429
-    line [421, 422, 424, 425, 424, 426, 425, 426, 427, 428]
+    title "microsoft/RAMPART 星数(近 11 点)"
+    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-02", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 420 --> 430
+    line [421, 422, 424, 425, 424, 426, 425, 426, 427, 428, 429]
 ```
 
-2026-10-22 421 → 2026-11-25 428（+7）
+2026-10-23 421 → 2026-11-26 429（+8）
 
 
 ---

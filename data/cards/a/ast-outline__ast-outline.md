@@ -1,6 +1,6 @@
 # ast-outline/ast-outline
 
-⭐ 63 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/ast-outline/ast-outline) · [官网](https://ast-outline.github.io/) · 个人维护 · 中文 README
+⭐ 64 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/ast-outline/ast-outline) · [官网](https://ast-outline.github.io/) · 个人维护 · 中文 README
 
 **给 AI 编程代理按需提取代码上下文的 tree-sitter CLI**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ast-outline/ast-outline 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 58 --> 64
-    line [59, 60, 59, 60, 61, 62, 63, 63]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 58 --> 65
+    line [59, 60, 59, 60, 61, 62, 63, 64]
 ```
 
-2026-10-23 59 → 2026-11-25 63（+4）
+2026-10-24 59 → 2026-11-26 64（+5）
 
 
 ---

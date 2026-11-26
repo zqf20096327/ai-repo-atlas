@@ -1,6 +1,6 @@
 # seratch/ChatGPT-in-Slack
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 512 · Python · MIT · 推送 2026-10-05 · [GitHub](https://github.com/seratch/ChatGPT-in-Slack) · 个人维护
 
 **在 Slack 中接入 ChatGPT 机器人的开源示例应用**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "seratch/ChatGPT-in-Slack 星数(近 4 点)"
-    x-axis ["2026-10-22", "2026-11-10", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-10", "2026-11-21", "2026-11-26"]
     y-axis "stars" 511 --> 514
     line [512, 513, 512, 512]
 ```
 
-2026-10-22 512 → 2026-11-24 512（+0）
+2026-10-23 512 → 2026-11-26 512（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Escap1ng/math-modeling-skill
 
-⭐ 20 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Escap1ng/math-modeling-skill) · 个人维护 · 中文 README
+⭐ 22 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Escap1ng/math-modeling-skill) · 个人维护 · 中文 README
 
 **数学建模竞赛全流程 AI 技能文件：赛题分析到论文交付**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Escap1ng/math-modeling-skill 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 15 --> 21
-    line [16, 17, 16, 18, 19, 20, 20]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 15 --> 23
+    line [16, 17, 16, 18, 19, 20, 22]
 ```
 
-2026-10-23 16 → 2026-11-25 20（+4）
+2026-10-24 16 → 2026-11-26 22（+6）
 
 
 ---

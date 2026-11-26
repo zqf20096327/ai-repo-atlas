@@ -1,6 +1,6 @@
 # grasponcrypto/venice_ai
 
-⭐ 16 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/grasponcrypto/venice_ai) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/grasponcrypto/venice_ai) · 个人维护
 
 **Home Assistant 对话集成：接入 Venice AI 控制智能家居**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "grasponcrypto/venice_ai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

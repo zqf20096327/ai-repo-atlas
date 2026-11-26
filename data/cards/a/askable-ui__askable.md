@@ -1,6 +1,6 @@
 # askable-ui/askable
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-03 · [GitHub](https://github.com/askable-ui/askable) · [官网](https://askable-ui.com) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/askable-ui/askable) · [官网](https://askable-ui.com) · 组织维护
 
 **前端 UI 上下文捕获库：把用户所见转为 LLM 实时结构化上下文**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "askable-ui/askable 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

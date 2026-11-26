@@ -1,6 +1,6 @@
 # EnzymeAD/Enzyme.jl
 
-⭐ 595 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EnzymeAD/Enzyme.jl) · [官网](https://enzymead.github.io/Enzyme.jl/) · 组织维护
+⭐ 594 · Julia · MIT · 推送 2026-11-25 · [GitHub](https://github.com/EnzymeAD/Enzyme.jl) · [官网](https://enzymead.github.io/Enzyme.jl/) · 组织维护
 
 **Julia 语言的 LLVM 级自动微分绑定库**
 
@@ -45,12 +45,12 @@ Enzyme.jl 提供 Enzyme（LLVM 自动微分编译器插件）的 Julia 绑定。
 ```mermaid
 xychart-beta
     title "EnzymeAD/Enzyme.jl 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 589 --> 596
-    line [590, 591, 590, 592, 593, 594, 595, 595]
+    line [590, 591, 590, 592, 593, 594, 595, 594]
 ```
 
-2026-10-23 590 → 2026-11-25 595（+5）
+2026-10-24 590 → 2026-11-26 594（+4）
 
 
 ---

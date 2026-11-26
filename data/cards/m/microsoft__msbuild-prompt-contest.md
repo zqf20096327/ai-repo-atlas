@@ -43,12 +43,12 @@ Microsoft 在 Build 2025 期间举办的 Best Agent Instructions 比赛专用仓
 ```mermaid
 xychart-beta
     title "microsoft/msbuild-prompt-contest 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-22 11 → 2026-11-25 11（+0）
+2026-10-23 11 → 2026-11-26 11（+0）
 
 
 ---

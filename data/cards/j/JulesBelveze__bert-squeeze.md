@@ -1,6 +1,6 @@
 # JulesBelveze/bert-squeeze
 
-⭐ 85 · Python · 推送 2026-10-30 · [GitHub](https://github.com/JulesBelveze/bert-squeeze) · [官网](https://julesbelveze.github.io/bert-squeeze/) · 个人维护
+⭐ 85 · Python · 推送 2026-11-25 · [GitHub](https://github.com/JulesBelveze/bert-squeeze) · [官网](https://julesbelveze.github.io/bert-squeeze/) · 个人维护
 
 **面向 NLP 开发者的 Transformer 压缩工具库：蒸馏/剪枝/量化/早退**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JulesBelveze/bert-squeeze 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 84 --> 86
     line [85, 85]
 ```
 
-2026-10-23 85 → 2026-11-25 85（+0）
+2026-10-24 85 → 2026-11-26 85（+0）
 
 
 ---

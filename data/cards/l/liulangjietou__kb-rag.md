@@ -1,6 +1,6 @@
 # liulangjietou/kb-rag
 
-⭐ 26 · Java · Apache-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/liulangjietou/kb-rag) · 个人维护 · 中文 README
+⭐ 26 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/liulangjietou/kb-rag) · 个人维护 · 中文 README
 
 **自托管企业知识库/RAG 系统：文档接入、混合检索与有据问答**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "liulangjietou/kb-rag 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-23", "2026-11-26"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-11-16 25 → 2026-11-25 26（+1）
+2026-11-16 25 → 2026-11-26 26（+1）
 
 
 ---

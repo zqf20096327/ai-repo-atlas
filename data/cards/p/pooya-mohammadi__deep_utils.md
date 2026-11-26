@@ -1,6 +1,6 @@
 # pooya-mohammadi/deep_utils
 
-⭐ 112 · Python · MIT · 推送 2026-08-20 · [GitHub](https://github.com/pooya-mohammadi/deep_utils) · [官网](https://github.com/pooya-mohammadi/deep_utils) · 组织维护
+⭐ 112 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/pooya-mohammadi/deep_utils) · [官网](https://github.com/pooya-mohammadi/deep_utils) · 组织维护
 
 **面向深度学习从业者的模型与工具函数工具箱**
 
@@ -46,12 +46,12 @@ Python 库 deep-utils，聚合常用深度学习模型为统一接口：人脸�
 ```mermaid
 xychart-beta
     title "pooya-mohammadi/deep_utils 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 111 --> 113
     line [112, 112]
 ```
 
-2026-10-23 112 → 2026-11-25 112（+0）
+2026-10-24 112 → 2026-11-26 112（+0）
 
 
 ---

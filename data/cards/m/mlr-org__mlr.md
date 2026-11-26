@@ -1,6 +1,6 @@
 # mlr-org/mlr
 
-⭐ 1,685 · R · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/mlr-org/mlr) · [官网](https://mlr.mlr-org.com) · 组织维护
+⭐ 1,686 · R · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/mlr-org/mlr) · [官网](https://mlr.mlr-org.com) · 组织维护
 
 **R 语言机器学习实验框架（已退役），统一接口调用与评测算法**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mlr-org/mlr 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 1684 --> 1687
-    line [1686, 1685, 1685]
+    line [1686, 1685, 1686]
 ```
 
-2026-10-23 1,686 → 2026-11-25 1,685（-1）
+2026-10-24 1,686 → 2026-11-26 1,686（+0）
 
 
 ---

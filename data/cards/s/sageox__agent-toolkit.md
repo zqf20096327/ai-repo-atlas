@@ -1,6 +1,6 @@
 # sageox/agent-toolkit
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/sageox/agent-toolkit) · [官网](https://sageox.ai) · 组织维护
+⭐ 13 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/sageox/agent-toolkit) · [官网](https://sageox.ai) · 组织维护
 
 **自托管 AI 协作 agent 工具包：一个模型多渠道回复团队消息**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sageox/agent-toolkit 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 11 --> 14
     line [12, 13, 12, 13, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

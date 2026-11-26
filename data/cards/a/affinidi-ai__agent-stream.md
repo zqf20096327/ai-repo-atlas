@@ -1,6 +1,6 @@
 # affinidi-ai/agent-stream
 
-⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/affinidi-ai/agent-stream) · 组织维护
+⭐ 4 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/affinidi-ai/agent-stream) · 组织维护
 
 **面向 Agent 多厂商 LLM 流量的 Rust 治理网关**
 
@@ -47,12 +47,12 @@ Rust 实现的 AI 网关，位于 Agent 与模型提供方之间：解析 OpenAI
 ```mermaid
 xychart-beta
     title "affinidi-ai/agent-stream 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-19", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

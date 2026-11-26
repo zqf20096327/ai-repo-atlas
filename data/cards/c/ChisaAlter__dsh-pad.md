@@ -1,6 +1,6 @@
 # ChisaAlter/dsh-pad
 
-⭐ 4 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ChisaAlter/dsh-pad) · [官网](https://github.com/ChisaAlter/dsh-pad#readme) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ChisaAlter/dsh-pad) · [官网](https://github.com/ChisaAlter/dsh-pad#readme) · 个人维护 · 中文 README
 
 **DSH 的 AI 生成悬浮面板插件：对话建面板、平铺组合**
 
@@ -47,12 +47,12 @@ DeepSeek Harness（dsh）的插件，在对话中由模型通过 `pad_*` 工具�
 ```mermaid
 xychart-beta
     title "ChisaAlter/dsh-pad 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-10-23 3 → 2026-11-25 4（+1）
+2026-10-24 3 → 2026-11-26 4（+1）
 
 
 ---

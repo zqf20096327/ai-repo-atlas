@@ -1,6 +1,6 @@
 # katahiromz/XWordGiver
 
-⭐ 17 · C++ · MIT · 推送 2026-11-13 · [GitHub](https://github.com/katahiromz/XWordGiver) · [官网](https://katahiromz.web.fc2.com/xword/en/) · 个人维护
+⭐ 17 · C++ · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/katahiromz/XWordGiver) · [官网](https://katahiromz.web.fc2.com/xword/en/) · 个人维护
 
 **Windows 免费填字游戏（ crossword）数据生成器，面向日语字谜**
 
@@ -11,7 +11,7 @@ Windows 平台的免费软件（MIT 许可），用于生成填字游戏数据�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | NOASSERTION |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@ Windows 平台的免费软件（MIT 许可），用于生成填字游戏数据�
 ```mermaid
 xychart-beta
     title "katahiromz/XWordGiver 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 16 --> 19
     line [18, 17, 17]
 ```
 
-2026-10-23 18 → 2026-11-25 17（-1）
+2026-10-24 18 → 2026-11-26 17（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # itallstartedwithaidea/agent-skills
 
-⭐ 45 · Shell · MIT · 推送 2026-04-12 · [GitHub](https://github.com/itallstartedwithaidea/agent-skills) · [官网](https://itallstartedwithaidea.com/work/advertising-hub/) · 组织维护 · 中文 README
+⭐ 46 · Shell · MIT · 推送 2026-04-12 · [GitHub](https://github.com/itallstartedwithaidea/agent-skills) · [官网](https://itallstartedwithaidea.com/work/advertising-hub/) · 组织维护 · 中文 README
 
 **面向 Google Ads 管理的 AI agent 技能库（73 个 SKILL.md）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "itallstartedwithaidea/agent-skills 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 42 --> 46
-    line [43, 44, 43, 44, 45, 45]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 42 --> 47
+    line [43, 44, 43, 44, 45, 46]
 ```
 
-2026-10-23 43 → 2026-11-25 45（+2）
+2026-10-24 43 → 2026-11-26 46（+3）
 
 
 ---

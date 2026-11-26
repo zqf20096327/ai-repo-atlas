@@ -1,6 +1,6 @@
 # janelia-cellmap/cellmap-flow
 
-⭐ 10 · Python · BSD-3-Clause · 推送 2026-11-18 · [GitHub](https://github.com/janelia-cellmap/cellmap-flow) · [官网](https://janelia-cellmap.github.io/cellmap-flow/) · 组织维护
+⭐ 10 · Python · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/janelia-cellmap/cellmap-flow) · [官网](https://janelia-cellmap.github.io/cellmap-flow/) · 组织维护
 
 **在 Neuroglancer 中对 3D 显微数据做即时推理与在线微调的工具**
 
@@ -41,6 +41,18 @@
 > L3:  Run segmentation models on any EM volume, on disk or in the cloud, and see their predictions in Neuroglancer as you
 > L29: - **Live.** Predictions are computed for what is on screen, nearest first, and
 > L36: - **Finetune in place.** Paint where a model is wrong and train it: with LoRA
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "janelia-cellmap/cellmap-flow 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
 
 
 ---

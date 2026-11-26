@@ -1,6 +1,6 @@
 # Feihei/PReferZ
 
-⭐ 10 · Rust · MIT · 推送 2026-11-19 · [GitHub](https://github.com/Feihei/PReferZ) · 个人维护 · 中文 README
+⭐ 10 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Feihei/PReferZ) · 个人维护 · 中文 README
 
 **给设计/构思者的轻量参考图画板，AI agent 可经 MCP 操作**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Feihei/PReferZ 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-19 10 → 2026-11-25 10（+0）
+2026-11-19 10 → 2026-11-26 10（+0）
 
 
 ---

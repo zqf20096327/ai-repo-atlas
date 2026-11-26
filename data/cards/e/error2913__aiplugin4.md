@@ -1,6 +1,6 @@
 # error2913/aiplugin4
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/error2913/aiplugin4) · 个人维护 · 中文 README
+⭐ 24 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/error2913/aiplugin4) · 个人维护 · 中文 README
 
 **SealDice 骰娘的 AI 对话插件，接入大模型 API 扮演 TRPG 角色**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "error2913/aiplugin4 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 21 --> 24
-    line [22, 23, 23]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 21 --> 25
+    line [22, 23, 24]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 24（+2）
 
 
 ---

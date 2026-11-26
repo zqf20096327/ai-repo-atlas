@@ -1,6 +1,6 @@
 # prompt-security/ps-fuzz
 
-⭐ 719 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/prompt-security/ps-fuzz) · [官网](https://www.prompt.security/fuzzer) · 组织维护
+⭐ 720 · Python · MIT · 推送 2026-08-19 · [GitHub](https://github.com/prompt-security/ps-fuzz) · [官网](https://www.prompt.security/fuzzer) · 组织维护
 
 **测试与加固 GenAI 应用系统提示词安全的开源模糊测试工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "prompt-security/ps-fuzz 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-26"]
     y-axis "stars" 717 --> 721
-    line [719, 718, 719, 720, 719, 719]
+    line [719, 718, 719, 720, 719, 720]
 ```
 
-2026-10-23 719 → 2026-11-25 719（+0）
+2026-10-24 719 → 2026-11-26 720（+1）
 
 
 ---

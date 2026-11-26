@@ -41,6 +41,18 @@ Pragmatic AI Labs 出品的课程配套资料库，包含 Colab 笔记本与教�
 > L32: * Day 1 (About 3 Hours): **Hardware AI & Cloud-Native AI Platforms**
 > L39: * Day 2 (About 3 Hours): **Managed ML & AutoML**
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/managed_ml_systems_and_iot 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 40 --> 42
+    line [41, 41]
+```
+
+2026-11-25 41 → 2026-11-26 41（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `787064123ac2` · [字段定义](../../DATASET.md)*

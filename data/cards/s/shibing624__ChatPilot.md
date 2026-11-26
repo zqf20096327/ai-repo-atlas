@@ -1,6 +1,6 @@
 # shibing624/ChatPilot
 
-⭐ 603 · Svelte · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/shibing624/ChatPilot) · [官网](https://chat.mulanai.com) · 个人维护 · 中文 README
+⭐ 604 · Svelte · Apache-2.0 · 推送 2026-01-27 · [GitHub](https://github.com/shibing624/ChatPilot) · [官网](https://chat.mulanai.com) · 个人维护 · 中文 README
 
 **Chat Agent Web UI：支持搜索/RAG/代码解释器的对话前端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shibing624/ChatPilot 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 600 --> 604
-    line [602, 601, 602, 603, 603]
+    x-axis ["2026-10-24", "2026-10-30", "2026-10-31", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 600 --> 605
+    line [602, 601, 602, 603, 604]
 ```
 
-2026-10-23 602 → 2026-11-25 603（+1）
+2026-10-24 602 → 2026-11-26 604（+2）
 
 
 ---

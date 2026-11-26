@@ -1,6 +1,6 @@
 # context-dot-dev/context-dev-cli
 
-⭐ 10 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/context-dot-dev/context-dev-cli) · [官网](https://context.dev) · 组织维护
+⭐ 10 · Go · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/context-dot-dev/context-dev-cli) · [官网](https://context.dev) · 组织维护
 
 **为开发者提供终端内网页抓取/搜索并输出 LLM 就绪数据的 CLI**
 
@@ -45,12 +45,12 @@ Context Dev REST API 的官方命令行客户端，由 Stainless 生成。终端
 ```mermaid
 xychart-beta
     title "context-dot-dev/context-dev-cli 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-25 10（+0）
+2026-11-20 10 → 2026-11-26 10（+0）
 
 
 ---

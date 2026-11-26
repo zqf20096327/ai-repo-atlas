@@ -1,6 +1,6 @@
 # abdulrehmandar2234/talaash
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/abdulrehmandar2234/talaash) · [官网](https://abdulrehmandar2234.github.io/talaash/) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/abdulrehmandar2234/talaash) · [官网](https://abdulrehmandar2234.github.io/talaash/) · 个人维护
 
 **本地运行的求职助手：抓取、评分职位并生成真实 CV 与求职信**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "abdulrehmandar2234/talaash 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-25 3（+0）
+2026-11-13 3 → 2026-11-26 3（+0）
 
 
 ---

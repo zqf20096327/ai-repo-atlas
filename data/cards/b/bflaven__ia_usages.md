@@ -1,6 +1,6 @@
 # bflaven/ia_usages
 
-⭐ 29 · Python · 推送 2026-09-15 · [GitHub](https://github.com/bflaven/ia_usages) · [官网](https://flaven.fr/) · 个人维护
+⭐ 28 · Python · 推送 2026-09-15 · [GitHub](https://github.com/bflaven/ia_usages) · [官网](https://flaven.fr/) · 个人维护
 
 **AI 应用实践博文与案例聚合仓库，记录 DENIA 项目设计思考**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "bflaven/ia_usages 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 28 --> 30
-    line [29, 29]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 27 --> 30
+    line [29, 28]
 ```
 
-2026-10-23 29 → 2026-11-25 29（+0）
+2026-10-24 29 → 2026-11-26 28（-1）
 
 
 ---

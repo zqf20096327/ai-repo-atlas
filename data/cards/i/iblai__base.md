@@ -1,6 +1,6 @@
 # iblai/base
 
-⭐ 220 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
+⭐ 221 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/iblai/base) · [官网](https://ibl.ai/join) · 组织维护
 
 **面向开发者的 ibl.ai 平台 AI 应用脚手架工具包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "iblai/base 星数(近 4 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
+    title "iblai/base 星数(近 5 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 219 --> 235
-    line [234, 222, 221, 220]
+    line [234, 222, 221, 220, 221]
 ```
 
-2026-11-19 234 → 2026-11-25 220（-14）
+2026-11-19 234 → 2026-11-26 221（-13）
 
 
 ---

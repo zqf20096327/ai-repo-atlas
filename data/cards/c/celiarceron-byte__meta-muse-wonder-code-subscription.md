@@ -1,6 +1,6 @@
 # celiarceron-byte/meta-muse-wonder-code-subscription
 
-⭐ 86 · 推送 2026-11-09 · [GitHub](https://github.com/celiarceron-byte/meta-muse-wonder-code-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 110 · 推送 2026-11-09 · [GitHub](https://github.com/celiarceron-byte/meta-muse-wonder-code-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **推广 CoreGold 虚拟卡以开通 AI 编程模型订阅的营销内容**
 
@@ -42,13 +42,13 @@
 
 ```mermaid
 xychart-beta
-    title "celiarceron-byte/meta-muse-wonder-code-subscription 星数(近 11 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 12 --> 92
-    line [18, 31, 36, 39, 38, 35, 36, 39, 48, 63, 86]
+    title "celiarceron-byte/meta-muse-wonder-code-subscription 星数(近 12 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 119
+    line [18, 31, 36, 39, 38, 35, 36, 39, 48, 63, 86, 110]
 ```
 
-2026-11-10 18 → 2026-11-25 86（+68）
+2026-11-10 18 → 2026-11-26 110（+92）
 
 
 ---

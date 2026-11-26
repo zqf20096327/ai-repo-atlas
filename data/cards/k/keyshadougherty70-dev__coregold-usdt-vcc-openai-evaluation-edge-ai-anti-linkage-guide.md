@@ -1,6 +1,6 @@
 # keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide
 
-⭐ 6 · 推送 2026-11-23 · [GitHub](https://github.com/keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
+⭐ 33 · 推送 2026-11-23 · [GitHub](https://github.com/keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 个人维护 · 中文 README
 
 **面向多账号测试开发者的 CoreGold 虚拟卡开卡与防关联指南**
 
@@ -40,6 +40,18 @@
 > L1: # coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide
 > L13: **正确做法**：在 CoreGold 按需为每个独立测试账号开一张专属虚拟卡，彻底切断支付层面的关联。
 > L34: #### 第二步：使用 USDT（TRC20）充值钱包
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "keyshadougherty70-dev/coregold-usdt-vcc-openai-evaluation-edge-ai-anti-linkage-guide 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 35
+    line [6, 33]
+```
+
+2026-11-25 6 → 2026-11-26 33（+27）
 
 
 ---

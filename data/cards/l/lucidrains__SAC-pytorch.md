@@ -1,6 +1,6 @@
 # lucidrains/SAC-pytorch
 
-⭐ 73 · Python · MIT · 推送 2026-11-10 · [GitHub](https://github.com/lucidrains/SAC-pytorch) · 个人维护
+⭐ 73 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lucidrains/SAC-pytorch) · 个人维护
 
 **PyTorch 实现的 Soft Actor-Critic 强化学习算法库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "lucidrains/SAC-pytorch 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 71 --> 74
     line [72, 73, 72, 73, 73]
 ```
 
-2026-10-23 72 → 2026-11-25 73（+1）
+2026-10-24 72 → 2026-11-26 73（+1）
 
 
 ---

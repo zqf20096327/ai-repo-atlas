@@ -1,6 +1,6 @@
 # codewith-aditya/agy-bridge
 
-⭐ 12 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/codewith-aditya/agy-bridge) · 个人维护
+⭐ 13 · Go · MIT · 推送 2026-11-18 · [GitHub](https://github.com/codewith-aditya/agy-bridge) · 个人维护
 
 **协议转换代理：让 Google Antigravity 接任意 OpenAI 兼容模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "codewith-aditya/agy-bridge 星数(近 6 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 5 --> 13
-    line [6, 9, 10, 11, 12, 12]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 5 --> 14
+    line [6, 9, 10, 11, 12, 13]
 ```
 
-2026-11-14 6 → 2026-11-25 12（+6）
+2026-11-14 6 → 2026-11-26 13（+7）
 
 
 ---

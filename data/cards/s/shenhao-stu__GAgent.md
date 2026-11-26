@@ -1,6 +1,6 @@
 # shenhao-stu/GAgent
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/shenhao-stu/GAgent) · [官网](https://gaagent.ai/) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/shenhao-stu/GAgent) · [官网](https://gaagent.ai/) · 个人维护 · 中文 README
 
 **手机上的自进化 Android 屏幕操作 Agent，BYOK 接模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shenhao-stu/GAgent 星数(近 4 点)"
-    x-axis ["2026-10-31", "2026-11-10", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-31", "2026-11-10", "2026-11-13", "2026-11-26"]
     y-axis "stars" 5 --> 11
     line [6, 7, 10, 10]
 ```
 
-2026-10-31 6 → 2026-11-25 10（+4）
+2026-10-31 6 → 2026-11-26 10（+4）
 
 
 ---

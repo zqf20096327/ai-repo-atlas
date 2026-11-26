@@ -1,6 +1,6 @@
 # pixelnull/sillytavern-DeepLore
 
-⭐ 95 · JavaScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/pixelnull/sillytavern-DeepLore) · [官网](https://pixelnull.github.io/sillytavern-DeepLore/) · 个人维护
+⭐ 96 · JavaScript · MIT · 推送 2026-07-04 · [GitHub](https://github.com/pixelnull/sillytavern-DeepLore) · [官网](https://pixelnull.github.io/sillytavern-DeepLore/) · 个人维护
 
 **SillyTavern 的 Obsidian 世界书引擎：关键词+AI 检索并自动注入上下文**
 
@@ -46,12 +46,12 @@ SillyTavern 扩展，把世界书（lorebook）存放在 Obsidian vault 中，�
 ```mermaid
 xychart-beta
     title "pixelnull/sillytavern-DeepLore 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 89 --> 96
-    line [91, 90, 91, 93, 94, 95, 95]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 89 --> 97
+    line [91, 90, 91, 93, 94, 95, 96]
 ```
 
-2026-10-23 91 → 2026-11-25 95（+4）
+2026-10-24 91 → 2026-11-26 96（+5）
 
 
 ---

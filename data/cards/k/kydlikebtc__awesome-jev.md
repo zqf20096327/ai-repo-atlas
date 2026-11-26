@@ -1,6 +1,6 @@
 # kydlikebtc/awesome-jev
 
-⭐ 603 · Python · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/kydlikebtc/awesome-jev) · [官网](https://kydlikebtc.github.io/awesome-jev/) · 个人维护
+⭐ 605 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/kydlikebtc/awesome-jev) · [官网](https://kydlikebtc.github.io/awesome-jev/) · 个人维护
 
 **基于 Jev 决策模型的产品发布榜与公开示例目录**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kydlikebtc/awesome-jev 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 592 --> 604
-    line [593, 594, 593, 594, 595, 596, 593, 599, 602, 603, 603]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 592 --> 606
+    line [593, 594, 593, 594, 595, 596, 593, 599, 602, 603, 605]
 ```
 
-2026-10-23 593 → 2026-11-25 603（+10）
+2026-10-24 593 → 2026-11-26 605（+12）
 
 
 ---

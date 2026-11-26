@@ -1,6 +1,6 @@
 # zenteiq-research/scirex
 
-⭐ 21 · Python · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/zenteiq-research/scirex) · [官网](https://zenteiq-research.github.io/scirex/) · 组织维护
+⭐ 23 · Python · LGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/zenteiq-research/scirex) · [官网](https://zenteiq-research.github.io/scirex/) · 组织维护
 
 **JAX/Flax 神经算子库：PDE 求解与物理系统代理建模**
 
@@ -46,12 +46,12 @@ JAX 原生的科学机器学习库，提供 FNO、WNO、GINO、Transolver 及实
 ```mermaid
 xychart-beta
     title "zenteiq-research/scirex 星数(近 5 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 15 --> 22
-    line [16, 18, 20, 21, 21]
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 15 --> 24
+    line [16, 18, 20, 21, 23]
 ```
 
-2026-11-13 16 → 2026-11-25 21（+5）
+2026-11-13 16 → 2026-11-26 23（+7）
 
 
 ---

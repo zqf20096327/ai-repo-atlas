@@ -1,6 +1,6 @@
 # tomcardoso/watchdog
 
-⭐ 10 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/tomcardoso/watchdog) · [官网](https://tomcardoso.github.io/watchdog/) · 个人维护
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tomcardoso/watchdog) · [官网](https://tomcardoso.github.io/watchdog/) · 个人维护
 
 **给记者的桌面文档情报应用：投入记录，发现关联**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tomcardoso/watchdog 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-16 10 → 2026-11-25 10（+0）
+2026-11-16 10 → 2026-11-26 10（+0）
 
 
 ---

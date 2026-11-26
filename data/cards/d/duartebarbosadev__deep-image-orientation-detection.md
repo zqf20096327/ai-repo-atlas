@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "duartebarbosadev/deep-image-orientation-detection 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 41 --> 46
-    line [42, 43, 44, 43, 44, 45, 45]
+    title "duartebarbosadev/deep-image-orientation-detection 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 42 --> 46
+    line [43, 44, 43, 44, 45, 45]
 ```
 
-2026-10-23 42 → 2026-11-25 45（+3）
+2026-10-24 43 → 2026-11-26 45（+2）
 
 
 ---

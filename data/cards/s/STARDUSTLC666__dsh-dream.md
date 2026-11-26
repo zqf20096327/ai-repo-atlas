@@ -1,6 +1,6 @@
 # STARDUSTLC666/dsh-dream
 
-⭐ 14 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/STARDUSTLC666/dsh-dream) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
+⭐ 14 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/STARDUSTLC666/dsh-dream) · [官网](https://github.com/STARDUSTLC666/dsh-suite) · 个人维护 · 中文 README
 
 **给 DSH 的任务经验记忆插件：复盘任务并回用经验**
 
@@ -46,12 +46,12 @@ DeepSeek Harness（DSH）的原生插件，在任务结束后按开关与额度�
 ```mermaid
 xychart-beta
     title "STARDUSTLC666/dsh-dream 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-11-18 14 → 2026-11-25 14（+0）
+2026-11-18 14 → 2026-11-26 14（+0）
 
 
 ---

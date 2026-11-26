@@ -1,6 +1,6 @@
 # burnjohn/ai-code-reviewer-workshop
 
-⭐ 7 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/burnjohn/ai-code-reviewer-workshop) · [官网](https://burnjohn.github.io/ai-code-reviewer-workshop/) · 个人维护
+⭐ 7 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/burnjohn/ai-code-reviewer-workshop) · [官网](https://burnjohn.github.io/ai-code-reviewer-workshop/) · 个人维护
 
 **45 分钟动手教程：构建基于 GitHub Action 的 AI 代码评审器**
 
@@ -46,13 +46,13 @@ GDG DevFest Warsaw 2026 的 45 分钟动手 workshop 教程：参与者从模板
 
 ```mermaid
 xychart-beta
-    title "burnjohn/ai-code-reviewer-workshop 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    title "burnjohn/ai-code-reviewer-workshop 星数(近 4 点)"
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 4 --> 8
-    line [5, 6, 7]
+    line [5, 6, 7, 7]
 ```
 
-2026-11-22 5 → 2026-11-25 7（+2）
+2026-11-22 5 → 2026-11-26 7（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # nebius/api
 
-⭐ 21 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/nebius/api) · [官网](https://nebius.com) · 组织维护
+⭐ 21 · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nebius/api) · [官网](https://nebius.com) · 组织维护
 
 **Nebius AI Cloud 的 gRPC API .proto 定义文件仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nebius/api 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 20 --> 22
     line [21, 21]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 21（+0）
 
 
 ---

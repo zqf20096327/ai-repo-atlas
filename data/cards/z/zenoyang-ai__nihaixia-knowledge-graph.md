@@ -1,6 +1,6 @@
 # zenoyang-ai/nihaixia-knowledge-graph
 
-⭐ 103 · JavaScript · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/zenoyang-ai/nihaixia-knowledge-graph) · [官网](https://www.nihaixia-knowledge.xyz) · 个人维护 · 中文 README
+⭐ 103 · JavaScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/zenoyang-ai/nihaixia-knowledge-graph) · [官网](https://www.nihaixia-knowledge.xyz) · 个人维护 · 中文 README
 
 **倪海厦中医与易经资料库：图谱网站+笔记+AI语料**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zenoyang-ai/nihaixia-knowledge-graph 星数(近 3 点)"
-    x-axis ["2026-11-22", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-23", "2026-11-26"]
     y-axis "stars" 101 --> 104
     line [102, 103, 103]
 ```
 
-2026-11-22 102 → 2026-11-25 103（+1）
+2026-11-22 102 → 2026-11-26 103（+1）
 
 
 ---

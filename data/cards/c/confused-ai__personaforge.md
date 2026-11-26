@@ -1,6 +1,6 @@
 # confused-ai/personaforge
 
-⭐ 11 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/confused-ai/personaforge) · [官网](https://confused-ai.github.io/personaforge/) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-09-25 · [GitHub](https://github.com/confused-ai/personaforge) · [官网](https://confused-ai.github.io/personaforge/) · 组织维护
 
 **TypeScript 多智能体框架：单包提供编排、护栏、评测与控制台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "confused-ai/personaforge 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 11]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 10, 11, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

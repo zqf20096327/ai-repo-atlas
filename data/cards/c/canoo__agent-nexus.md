@@ -1,6 +1,6 @@
 # canoo/agent-nexus
 
-⭐ 10 · Go · MIT · 推送 2026-11-22 · [GitHub](https://github.com/canoo/agent-nexus) · [官网](https://nexus.codelogiic.com/) · 组织维护
+⭐ 10 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/canoo/agent-nexus) · [官网](https://nexus.codelogiic.com/) · 组织维护
 
 **多模型 Agent 编排框架：统一配置、按复杂度路由本地或云端 LLM**
 
@@ -46,12 +46,12 @@ Go 编写的终端编排层：将项目指令、专家 persona 与路由规则�
 ```mermaid
 xychart-beta
     title "canoo/agent-nexus 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # JamieLivingstone/ArchStudio
 
-⭐ 33 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JamieLivingstone/ArchStudio) · [官网](https://archstudio.app) · 个人维护
+⭐ 34 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JamieLivingstone/ArchStudio) · [官网](https://archstudio.app) · 个人维护
 
 **理解系统架构的架构图编辑器，AI 改动可像 PR 逐条审阅**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JamieLivingstone/ArchStudio 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 32 --> 34
-    line [33, 33]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 32 --> 35
+    line [33, 34]
 ```
 
-2026-11-08 33 → 2026-11-25 33（+0）
+2026-11-08 33 → 2026-11-26 34（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # aveproject/ave
 
-⭐ 26 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/aveproject/ave) · [官网](https://aveproject.org/) · 组织维护
+⭐ 26 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/aveproject/ave) · [官网](https://aveproject.org/) · 组织维护
 
 **智能体 AI 组件行为漏洞的开放分类标准（87 条记录）**
 
@@ -50,12 +50,12 @@
 ```mermaid
 xychart-beta
     title "aveproject/ave 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 22 --> 27
     line [23, 24, 23, 24, 25, 26, 26]
 ```
 
-2026-10-23 23 → 2026-11-25 26（+3）
+2026-10-24 23 → 2026-11-26 26（+3）
 
 
 ---

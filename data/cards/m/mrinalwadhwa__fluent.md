@@ -1,6 +1,6 @@
 # mrinalwadhwa/fluent
 
-⭐ 136 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/mrinalwadhwa/fluent) · [官网](https://fluent.computer) · 个人维护
+⭐ 137 · Rust · Apache-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/mrinalwadhwa/fluent) · [官网](https://fluent.computer) · 个人维护
 
 **自主软件工厂：把愿景、反馈与日志经多 agent 变成可用软件**
 
@@ -44,13 +44,13 @@ Fluent 通过技能（skill）形式嵌入 Codex、Claude Code、Pi 等编码 ag
 
 ```mermaid
 xychart-beta
-    title "mrinalwadhwa/fluent 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 120 --> 137
-    line [121, 122, 123, 124, 122, 125, 130, 133, 135, 136]
+    title "mrinalwadhwa/fluent 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 120 --> 138
+    line [121, 122, 123, 124, 122, 125, 130, 133, 135, 136, 137]
 ```
 
-2026-10-23 121 → 2026-11-25 136（+15）
+2026-10-24 121 → 2026-11-26 137（+16）
 
 
 ---

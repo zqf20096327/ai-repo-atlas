@@ -1,6 +1,6 @@
 # glidermcp/glidermcp
 
-⭐ 18 · MIT · 推送 2026-11-23 · [GitHub](https://github.com/glidermcp/glidermcp) · [官网](https://glidermcp.com) · 组织维护
+⭐ 18 · MIT · 推送 2026-11-24 · [GitHub](https://github.com/glidermcp/glidermcp) · [官网](https://glidermcp.com) · 组织维护
 
 **面向编码 agent 的本地 C#/.NET 代码分析 MCP 工具集**
 
@@ -45,12 +45,12 @@ GliderMCP 是一组通过 MCP 协议接入编码 agent 的本地代码工具：G
 ```mermaid
 xychart-beta
     title "glidermcp/glidermcp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

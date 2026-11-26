@@ -1,6 +1,6 @@
 # limxdynamics-online-robotics/xbot
 
-⭐ 139 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/limxdynamics-online-robotics/xbot) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **人形机器人 AI 网红直播的控制平面运行时**
 
@@ -11,7 +11,7 @@ LimX Dynamics 开源的 24 小时直播主播 XBot 的控制平面：管理约�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

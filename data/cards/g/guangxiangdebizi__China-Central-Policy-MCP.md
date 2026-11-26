@@ -42,6 +42,18 @@ MCP 服务器，连接中国政府网官方栏目与检索接口，提供政策�
 > L19: 默认使用 stdio。启动后等待 MCP 客户端输入，不向 stdout 写日志。
 > L160: 产物返回 `path`、`downloadUrl`（未配置时 null）、`bytes`、`sha256`。HTTP 提供 `GET /files/<随机UUID>/policy-brief.md` 和 `.json`；平台应在
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "guangxiangdebizi/China-Central-Policy-MCP 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 28 --> 30
+    line [29, 29]
+```
+
+2026-11-25 29 → 2026-11-26 29（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `f347ca430922` · [字段定义](../../DATASET.md)*

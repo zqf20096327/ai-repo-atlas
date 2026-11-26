@@ -1,6 +1,6 @@
 # RRAlex/svolder
 
-⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/RRAlex/svolder) · 个人维护
+⭐ 6 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/RRAlex/svolder) · 个人维护
 
 **从 Linux 控制 Schiit Forkbeard 蓝牙音频设备的 CLI/TUI/守护进程套件**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "RRAlex/svolder 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    x-axis ["2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 3 --> 7
+    line [4, 5, 6]
 ```
 
-2026-11-10 4 → 2026-11-25 5（+1）
+2026-11-10 4 → 2026-11-26 6（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # JonasJoe233/rake-mac
 
-⭐ 14 · Swift · MIT · 推送 2026-11-13 · [GitHub](https://github.com/JonasJoe233/rake-mac) · [官网](https://jonasjoe233.github.io/rake-mac/) · 个人维护
+⭐ 15 · Swift · MIT · 推送 2026-11-13 · [GitHub](https://github.com/JonasJoe233/rake-mac) · [官网](https://jonasjoe233.github.io/rake-mac/) · 个人维护
 
 **macOS 磁盘清理工具：绘制磁盘地图并安全删除缓存**
 
@@ -45,12 +45,12 @@ Rake 是一款离线运行的 macOS 磁盘空间分析与清理工具：将整�
 ```mermaid
 xychart-beta
     title "JonasJoe233/rake-mac 星数(近 7 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 13, 14, 13, 14, 14]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 13, 14, 13, 14, 15]
 ```
 
-2026-11-14 11 → 2026-11-25 14（+3）
+2026-11-14 11 → 2026-11-26 15（+4）
 
 
 ---

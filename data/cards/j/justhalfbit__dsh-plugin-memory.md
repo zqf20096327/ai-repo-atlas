@@ -1,6 +1,6 @@
 # justhalfbit/dsh-plugin-memory
 
-⭐ 17 · JavaScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/justhalfbit/dsh-plugin-memory) · 个人维护 · 中文 README
+⭐ 18 · JavaScript · MIT · 推送 2026-09-30 · [GitHub](https://github.com/justhalfbit/dsh-plugin-memory) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 用户的跨会话 Markdown 记忆插件**
 
@@ -46,12 +46,12 @@ DeepSeek Harness (DSH) 的记忆插件：对话模型通过可见工具调用在
 ```mermaid
 xychart-beta
     title "justhalfbit/dsh-plugin-memory 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 15 --> 18
-    line [16, 17, 16, 17, 17]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 15 --> 19
+    line [16, 17, 16, 17, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

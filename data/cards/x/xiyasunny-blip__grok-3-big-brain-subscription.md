@@ -1,6 +1,6 @@
 # xiyasunny-blip/grok-3-big-brain-subscription
 
-⭐ 88 · 推送 2026-11-06 · [GitHub](https://github.com/xiyasunny-blip/grok-3-big-brain-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
+⭐ 112 · 推送 2026-11-06 · [GitHub](https://github.com/xiyasunny-blip/grok-3-big-brain-subscription) · [官网](https://app.coregold.io/signup?invite_code=ADvlj9b) · 组织维护 · 中文 README
 
 **推销 CoreGold 虚拟卡以订阅 Grok 3 的推广文**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "xiyasunny-blip/grok-3-big-brain-subscription 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 95
-    line [9, 30, 44, 48, 55, 54, 53, 57, 68, 88]
+    title "xiyasunny-blip/grok-3-big-brain-subscription 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 122
+    line [9, 30, 44, 48, 55, 54, 53, 57, 68, 88, 112]
 ```
 
-2026-11-08 9 → 2026-11-25 88（+79）
+2026-11-08 9 → 2026-11-26 112（+103）
 
 
 ---

@@ -1,6 +1,6 @@
 # google-deepmind/dangerous-capability-evaluations
 
-⭐ 77 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/google-deepmind/dangerous-capability-evaluations) · 组织维护
+⭐ 78 · Python · Apache-2.0 · 推送 2026-06-16 · [GitHub](https://github.com/google-deepmind/dangerous-capability-evaluations) · 组织维护
 
 **供复现前沿模型危险能力评测的资源数据集**
 
@@ -44,12 +44,12 @@ DeepMind 论文《Evaluating Frontier Models for Dangerous Capabilities》的评
 ```mermaid
 xychart-beta
     title "google-deepmind/dangerous-capability-evaluations 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 75 --> 78
-    line [76, 77, 77]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 75 --> 79
+    line [76, 77, 78]
 ```
 
-2026-10-23 76 → 2026-11-25 77（+1）
+2026-10-24 76 → 2026-11-26 78（+2）
 
 
 ---

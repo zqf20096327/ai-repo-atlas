@@ -1,6 +1,6 @@
 # caraml-dev/mlp
 
-⭐ 49 · Go · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/caraml-dev/mlp) · 组织维护
+⭐ 49 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/caraml-dev/mlp) · 组织维护
 
 **面向开发与运维人员的机器学习全生命周期管理平台**
 
@@ -46,12 +46,12 @@ MLP 是一组面向机器学习生命周期各阶段的系统与服务集合，�
 ```mermaid
 xychart-beta
     title "caraml-dev/mlp 星数(近 2 点)"
-    x-axis ["2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-19", "2026-11-26"]
     y-axis "stars" 48 --> 50
     line [49, 49]
 ```
 
-2026-11-19 49 → 2026-11-25 49（+0）
+2026-11-19 49 → 2026-11-26 49（+0）
 
 
 ---

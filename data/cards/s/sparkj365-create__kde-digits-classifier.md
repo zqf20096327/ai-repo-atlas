@@ -1,6 +1,6 @@
 # sparkj365-create/kde-digits-classifier
 
-⭐ 6 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/sparkj365-create/kde-digits-classifier) · 个人维护
+⭐ 7 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/sparkj365-create/kde-digits-classifier) · 个人维护
 
 **手写数字的贝叶斯 KDE 分类器库，含调参评估**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sparkj365-create/kde-digits-classifier 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 5, 6, 6]
+    x-axis ["2026-11-10", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 5, 6, 7]
 ```
 
-2026-11-10 3 → 2026-11-25 6（+3）
+2026-11-10 3 → 2026-11-26 7（+4）
 
 
 ---

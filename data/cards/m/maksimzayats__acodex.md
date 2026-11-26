@@ -1,6 +1,6 @@
 # maksimzayats/acodex
 
-⭐ 59 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/maksimzayats/acodex) · [官网](http://docs.acodex.dev/) · 个人维护
+⭐ 59 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/maksimzayats/acodex) · [官网](http://docs.acodex.dev/) · 个人维护
 
 **macOS 上连接 Codex 桌面应用的本地 MCP 自动化桥接工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "maksimzayats/acodex 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 57 --> 60
     line [58, 59, 59]
 ```
 
-2026-10-23 58 → 2026-11-25 59（+1）
+2026-10-24 58 → 2026-11-26 59（+1）
 
 
 ---

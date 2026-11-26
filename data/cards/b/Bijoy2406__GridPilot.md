@@ -1,6 +1,6 @@
 # Bijoy2406/GridPilot
 
-⭐ 3 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Bijoy2406/GridPilot) · [官网](https://gridpilot.xven.app) · 组织维护
+⭐ 3 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Bijoy2406/GridPilot) · [官网](https://gridpilot.xven.app) · 组织维护
 
 **多智能体工厂能源调度原型：优化器决策，LLM 解释**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bijoy2406/GridPilot 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 3（+0）
 
 
 ---

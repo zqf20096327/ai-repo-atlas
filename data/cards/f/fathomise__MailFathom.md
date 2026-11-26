@@ -1,6 +1,6 @@
 # fathomise/MailFathom
 
-⭐ 22 · C# · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/fathomise/MailFathom) · [官网](https://fathomise.github.io/MailFathom/) · 组织维护
+⭐ 22 · C# · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/fathomise/MailFathom) · [官网](https://fathomise.github.io/MailFathom/) · 组织维护
 
 **自托管 IMAP 邮件库：同步到自有 PostgreSQL 并经 MCP 服务 AI agent**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "fathomise/MailFathom 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 17 --> 23
-    line [18, 19, 20, 19, 21, 22, 22]
+    title "fathomise/MailFathom 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 18 --> 23
+    line [19, 20, 19, 21, 22, 22]
 ```
 
-2026-10-23 18 → 2026-11-25 22（+4）
+2026-10-24 19 → 2026-11-26 22（+3）
 
 
 ---

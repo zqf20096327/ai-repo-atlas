@@ -1,6 +1,6 @@
 # Cashara-io/eunomia
 
-⭐ 15 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Cashara-io/eunomia) · [官网](https://www.buildpaperless.com.au/eunomia) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **自托管的 AI agent 共享记忆服务：按 vault 存取人物、事实与决策**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

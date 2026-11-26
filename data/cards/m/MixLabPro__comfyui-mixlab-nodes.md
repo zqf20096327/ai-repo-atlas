@@ -1,6 +1,6 @@
 # MixLabPro/comfyui-mixlab-nodes
 
-⭐ 1,869 · JavaScript · MIT · 推送 2026-06-04 · [GitHub](https://github.com/MixLabPro/comfyui-mixlab-nodes) · [官网](https://mixlabnodes.com) · 个人维护 · 中文 README
+⭐ 1,869 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/MixLabPro/comfyui-mixlab-nodes) · [官网](https://mixlabnodes.com) · 个人维护 · 中文 README
 
 **ComfyUI 节点包：工作流转 Web App、GPT/语音/3D 等多类节点**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "MixLabPro/comfyui-mixlab-nodes 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 1865 --> 1876
-    line [1866, 1867, 1869, 1870, 1872, 1867, 1875, 1874, 1873, 1872, 1871, 1869, 1869]
+    title "MixLabPro/comfyui-mixlab-nodes 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 1866 --> 1876
+    line [1867, 1869, 1870, 1872, 1867, 1875, 1874, 1873, 1872, 1871, 1869, 1869]
 ```
 
-2026-10-23 1,866 → 2026-11-25 1,869（+3）
+2026-10-24 1,867 → 2026-11-26 1,869（+2）
 
 
 ---

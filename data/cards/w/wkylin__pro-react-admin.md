@@ -1,6 +1,6 @@
 # wkylin/pro-react-admin
 
-⭐ 947 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/wkylin/pro-react-admin) · [官网](https://pro-react-admin.vercel.app/) · 个人维护 · 中文 README
+⭐ 949 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/wkylin/pro-react-admin) · [官网](https://pro-react-admin.vercel.app/) · 个人维护 · 中文 README
 
 **给 React 团队的多租户管理后台脚手架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "wkylin/pro-react-admin 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26"]
     y-axis "stars" 946 --> 950
-    line [947, 948, 947, 948, 949, 948, 949, 948, 947, 947]
+    line [947, 948, 947, 948, 949, 948, 949, 948, 947, 949]
 ```
 
-2026-10-23 947 → 2026-11-25 947（+0）
+2026-10-24 947 → 2026-11-26 949（+2）
 
 
 ---

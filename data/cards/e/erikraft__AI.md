@@ -1,6 +1,6 @@
 # erikraft/AI
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/erikraft/AI) · [官网](https://ai.erikraft.com) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/erikraft/AI) · [官网](https://ai.erikraft.com) · 个人维护
 
 **个人 AI 助手网站：文生图/视频/文本/语音克隆聚合中心**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "erikraft/AI 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-26"]
     y-axis "stars" 3 --> 6
-    line [4, 5, 5]
+    line [4, 5, 4]
 ```
 
-2026-11-08 4 → 2026-11-25 5（+1）
+2026-11-08 4 → 2026-11-26 4（+0）
 
 
 ---

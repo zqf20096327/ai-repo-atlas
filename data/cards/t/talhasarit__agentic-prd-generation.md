@@ -1,6 +1,6 @@
 # talhasarit/agentic-prd-generation
 
-⭐ 17 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/talhasarit/agentic-prd-generation) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/talhasarit/agentic-prd-generation) · 个人维护
 
 **从项目想法生成产品需求文档（PRD）的 Alpha 阶段应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "talhasarit/agentic-prd-generation 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

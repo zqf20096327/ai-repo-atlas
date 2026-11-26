@@ -1,6 +1,6 @@
 # Robin-WZQ/BIT-AI-Review
 
-⭐ 259 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/Robin-WZQ/BIT-AI-Review) · 个人维护 · 中文 README
+⭐ 260 · Jupyter Notebook · 推送 2026-10-09 · [GitHub](https://github.com/Robin-WZQ/BIT-AI-Review) · 个人维护 · 中文 README
 
 **北理工人工智能专业本科课程资料与经验分享合集**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "Robin-WZQ/BIT-AI-Review 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 255 --> 260
-    line [256, 257, 258, 257, 258, 259]
+    title "Robin-WZQ/BIT-AI-Review 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-11-06", "2026-11-21", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 255 --> 261
+    line [256, 257, 258, 257, 258, 259, 260]
 ```
 
-2026-10-23 256 → 2026-11-25 259（+3）
+2026-10-24 256 → 2026-11-26 260（+4）
 
 
 ---

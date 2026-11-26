@@ -1,6 +1,6 @@
 # ThaoYou30020/llm-router-free
 
-⭐ 62 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ThaoYou30020/llm-router-free) · 个人维护
+⭐ 62 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ThaoYou30020/llm-router-free) · [官网](https://github.com/ThaoYou30020/llm-router-free/releases) · 个人维护
 
 **面向开发者的免费档 LLM 路由器：单一密钥接入 15+ 供应商并自动降级**
 
@@ -39,6 +39,18 @@
 
 > L5:  LlmRouterFree — Free-Tier LLM Router with Automatic Fallback (Portable x64 Build, JSON Configuration): One API key,
 > L20: **LlmRouterFree — One API key, 15+ free providers, automatic fallback** (`llm-router-free`) is a dedicated, low-ove
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ThaoYou30020/llm-router-free 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 61 --> 63
+    line [62, 62]
+```
+
+2026-11-25 62 → 2026-11-26 62（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # sysnet4admin/_Book_k8sInfra
 
-⭐ 502 · Shell · 推送 2026-11-23 · [GitHub](https://github.com/sysnet4admin/_Book_k8sInfra) · [官网](https://product.kyobobook.co.kr/detail/S000221973541) · 组织维护
+⭐ 502 · Shell · 推送 2026-11-24 · [GitHub](https://github.com/sysnet4admin/_Book_k8sInfra) · [官网](https://product.kyobobook.co.kr/detail/S000221973541) · 组织维护
 
 **Kubernetes/Docker 教材书的配套实练代码仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sysnet4admin/_Book_k8sInfra 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 501 --> 503
     line [502, 502]
 ```
 
-2026-11-21 502 → 2026-11-25 502（+0）
+2026-11-21 502 → 2026-11-26 502（+0）
 
 
 ---

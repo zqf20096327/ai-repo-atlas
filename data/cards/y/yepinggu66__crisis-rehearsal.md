@@ -1,6 +1,6 @@
 # yepinggu66/crisis-rehearsal
 
-⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/yepinggu66/crisis-rehearsal) · [官网](https://youtu.be/pj7PKonS2Ns) · 个人维护 · 中文 README
+⭐ 3 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/yepinggu66/crisis-rehearsal) · [官网](https://weixiayu.com/) · 个人维护 · 中文 README
 
 **危机推演工具：在事件前 72 小时以群体模拟演练声誉危机**
 
@@ -40,6 +40,18 @@
 > L46: 3. **Swarm simulation** — 7–12 persona agents (journalists, investors, regulators, short sellers, competitors) reac
 > L83: Three shapes — offline evidence workstation, private cloud, air-gap — with model choices (DeepSeek API / Ollama / v
 > L5: Crisis Rehearsal rewinds a real reputation crisis to T−72h, gives a swarm-simulation engine only what was publicly k
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yepinggu66/crisis-rehearsal 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

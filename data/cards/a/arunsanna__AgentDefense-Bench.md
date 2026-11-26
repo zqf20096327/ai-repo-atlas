@@ -1,6 +1,6 @@
 # arunsanna/AgentDefense-Bench
 
-⭐ 16 · Python · Apache-2.0 · 推送 2026-04-18 · [GitHub](https://github.com/arunsanna/AgentDefense-Bench) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **评估 MCP AI agent 基础设施层防御的安全基准数据集**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

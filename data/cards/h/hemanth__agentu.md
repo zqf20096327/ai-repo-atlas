@@ -1,6 +1,6 @@
 # hemanth/agentu
 
-⭐ 21 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/hemanth/agentu) · [官网](https://hemanth.github.io/agentu-codelab/) · 个人维护
+⭐ 21 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hemanth/agentu) · [官网](https://hemanth.github.io/agentu-codelab/) · 个人维护
 
 **面向开发者的 Python AI agent 运行时：工具沙箱、自纠错与权限分级**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hemanth/agentu 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 16 --> 22
-    line [17, 20, 21, 20, 21, 21]
+    title "hemanth/agentu 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 19 --> 22
+    line [20, 21, 20, 21, 21]
 ```
 
-2026-10-23 17 → 2026-11-25 21（+4）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

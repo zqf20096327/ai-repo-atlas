@@ -1,6 +1,6 @@
 # wanatabe-yuu/agentown
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/wanatabe-yuu/agentown) · [官网](https://agentown.site) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/wanatabe-yuu/agentown) · [官网](https://agentown.site) · 个人维护
 
 **自托管的 3D 办公室多智能体组织平台：让 AI 员工有岗位与权限**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wanatabe-yuu/agentown 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-23 3 → 2026-11-25 3（+0）
+2026-10-24 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # crlandsc/torch-log-wmse
 
-⭐ 50 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/crlandsc/torch-log-wmse) · 组织维护
+⭐ 51 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/crlandsc/torch-log-wmse) · 组织维护
 
 **音频质量度量与损失函数 logWMSE 的 PyTorch 实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "crlandsc/torch-log-wmse 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-23 50 → 2026-11-25 50（+0）
+2026-10-24 50 → 2026-11-26 51（+1）
 
 
 ---

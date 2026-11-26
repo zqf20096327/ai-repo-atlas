@@ -1,6 +1,6 @@
 # linyshdhhcb/PigHealthSmartMedicine
 
-⭐ 200 · Vue · MIT · 推送 2026-06-26 · [GitHub](https://github.com/linyshdhhcb/PigHealthSmartMedicine) · 个人维护 · 中文 README
+⭐ 201 · Vue · MIT · 推送 2026-06-26 · [GitHub](https://github.com/linyshdhhcb/PigHealthSmartMedicine) · 个人维护 · 中文 README
 
 **面向养殖户/兽医的生猪健康管理智慧医药系统（AI 问诊+RAG）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "linyshdhhcb/PigHealthSmartMedicine 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 193 --> 201
-    line [194, 195, 194, 198, 199, 200, 200]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 193 --> 202
+    line [194, 195, 194, 198, 199, 200, 201]
 ```
 
-2026-10-23 194 → 2026-11-25 200（+6）
+2026-10-24 194 → 2026-11-26 201（+7）
 
 
 ---

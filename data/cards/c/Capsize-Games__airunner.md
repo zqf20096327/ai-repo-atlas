@@ -1,6 +1,6 @@
 # Capsize-Games/airunner
 
-⭐ 1,317 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Capsize-Games/airunner) · [官网](https://airunner.art) · 个人维护
+⭐ 1,317 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/Capsize-Games/airunner) · [官网](https://airunner.art) · 个人维护
 
 **面向应用的离线推理引擎：美术、语音对话、LLM 聊天与自动化工作流**
 
@@ -46,12 +46,12 @@ AI Runner 提供 headless 服务形态的模型 worker、运行时编排、持�
 ```mermaid
 xychart-beta
     title "Capsize-Games/airunner 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-18", "2026-11-21", "2026-11-26"]
     y-axis "stars" 1316 --> 1320
     line [1319, 1318, 1317, 1318, 1319, 1318, 1317, 1317]
 ```
 
-2026-10-23 1,319 → 2026-11-25 1,317（-2）
+2026-10-24 1,319 → 2026-11-26 1,317（-2）
 
 
 ---

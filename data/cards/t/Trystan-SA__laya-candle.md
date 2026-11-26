@@ -47,12 +47,12 @@ Laya 的纯 Rust 移植版，基于 candle 加载 Hugging Face Hub 上的检查�
 ```mermaid
 xychart-beta
     title "Trystan-SA/laya-candle 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

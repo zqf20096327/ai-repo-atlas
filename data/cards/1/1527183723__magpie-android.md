@@ -1,6 +1,6 @@
 # 1527183723/magpie-android
 
-⭐ 3 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/1527183723/magpie-android) · 个人维护 · 中文 README
+⭐ 4 · Go · MIT · 推送 2026-11-21 · [GitHub](https://github.com/1527183723/magpie-android) · 个人维护 · 中文 README
 
 **把 magpie LLM 网关移植成 Android APK 供手机 agent 接入**
 
@@ -40,6 +40,18 @@
 > L3: 把 yetone/magpie 的网关和网页界面装进一个 Android APK：网关在应用的前台服务里运行，WebView 打开 magpie 自己的页面，手机上的 agent 通过 `http://127.0.0.1:3425/
 > L29: - **一个本地网关**：默认监听 `127.0.0.1:3425`，给 Claude Code、Codex、Gemini CLI 等 agent 当统一 base URL。
 > L30: - **完整网页界面**：magpie 自己的供应商、账号、模型、路由组、插件和设置页面都在 APK 里，首次启动自动打开。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "1527183723/magpie-android 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

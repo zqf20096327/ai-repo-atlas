@@ -1,6 +1,6 @@
 # w4n9H/mangopi-cli
 
-⭐ 39 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/w4n9H/mangopi-cli) · [官网](http://mangopi.chat/) · 个人维护 · 中文 README
+⭐ 40 · Python · Apache-2.0 · 推送 2026-09-01 · [GitHub](https://github.com/w4n9H/mangopi-cli) · [官网](http://mangopi.chat/) · 个人维护 · 中文 README
 
 **单文件零依赖的终端 AI 编码代理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "w4n9H/mangopi-cli 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-23 39 → 2026-11-25 39（+0）
+2026-10-24 39 → 2026-11-26 40（+1）
 
 
 ---

@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "HakureiMonika/QQ-Chat-AI-Analyzer 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    title "HakureiMonika/QQ-Chat-AI-Analyzer 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-25", "2026-11-26"]
     y-axis "stars" 43 --> 46
-    line [44, 45, 44]
+    line [44, 45, 44, 44]
 ```
 
-2026-10-23 44 → 2026-11-25 44（+0）
+2026-10-24 44 → 2026-11-26 44（+0）
 
 
 ---

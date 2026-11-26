@@ -1,6 +1,6 @@
 # arrase/ollama-agent
 
-⭐ 31 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/arrase/ollama-agent) · [官网](https://arrase.github.io/ollama-agent/) · 个人维护 · 中文 README
+⭐ 32 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/arrase/ollama-agent) · [官网](https://arrase.github.io/ollama-agent/) · 个人维护 · 中文 README
 
 **本地优先的通用 AI agent CLI/REPL，经 Ollama 运行本地模型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "arrase/ollama-agent 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 27 --> 32
-    line [28, 29, 30, 29, 28, 30, 31, 31]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 27 --> 33
+    line [28, 29, 30, 29, 28, 30, 31, 32]
 ```
 
-2026-10-23 28 → 2026-11-25 31（+3）
+2026-10-24 28 → 2026-11-26 32（+4）
 
 
 ---

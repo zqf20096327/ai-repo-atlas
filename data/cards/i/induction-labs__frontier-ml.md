@@ -46,12 +46,12 @@ FrontierML 由 Induction Labs 发布，包含 21 个端到端机器学习任务�
 ```mermaid
 xychart-beta
     title "induction-labs/frontier-ml 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-11-21 13 → 2026-11-25 13（+0）
+2026-11-21 13 → 2026-11-26 13（+0）
 
 
 ---

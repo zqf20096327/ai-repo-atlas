@@ -1,6 +1,6 @@
 # mmhospedagem/mvo-whats-php
 
-⭐ 15 · PHP · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/mmhospedagem/mvo-whats-php) · [官网](https://mmhospedagem.github.io/mvo-whats-php/) · 组织维护
+⭐ 15 · PHP · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/mmhospedagem/mvo-whats-php) · [官网](https://mmhospedagem.github.io/mvo-whats-php/) · 组织维护
 
 **PHP 原生 WhatsApp 协议库：QR 连接、多会话、消息与媒体**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "mmhospedagem/mvo-whats-php 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 14, 13, 15, 15]
+    title "mmhospedagem/mvo-whats-php 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 12 --> 16
+    line [13, 14, 13, 15, 15]
 ```
 
-2026-10-23 12 → 2026-11-25 15（+3）
+2026-10-24 13 → 2026-11-26 15（+2）
 
 
 ---

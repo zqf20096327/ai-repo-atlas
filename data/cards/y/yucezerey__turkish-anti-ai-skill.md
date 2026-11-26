@@ -1,6 +1,6 @@
 # yucezerey/turkish-anti-ai-skill
 
-⭐ 331 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/yucezerey/turkish-anti-ai-skill) · 个人维护
+⭐ 333 · Python · MIT · 推送 2026-11-11 · [GitHub](https://github.com/yucezerey/turkish-anti-ai-skill) · 个人维护
 
 **清除土耳其语文本中 AI 写作痕迹的 Agent Skill 与 Humanizer 包**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yucezerey/turkish-anti-ai-skill 星数(近 10 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 262 --> 338
-    line [268, 298, 304, 307, 309, 323, 326, 330, 332, 331]
+    title "yucezerey/turkish-anti-ai-skill 星数(近 11 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-16", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 262 --> 339
+    line [268, 298, 304, 307, 309, 323, 326, 330, 332, 331, 333]
 ```
 
-2026-11-08 268 → 2026-11-25 331（+63）
+2026-11-08 268 → 2026-11-26 333（+65）
 
 
 ---

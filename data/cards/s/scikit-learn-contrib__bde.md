@@ -46,12 +46,12 @@ bde 提供 Microcanonical Langevin Ensembles（MILE，ICLR 2025 论文方法）�
 ```mermaid
 xychart-beta
     title "scikit-learn-contrib/bde 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 45 --> 47
     line [46, 46]
 ```
 
-2026-10-23 46 → 2026-11-25 46（+0）
+2026-10-24 46 → 2026-11-26 46（+0）
 
 
 ---

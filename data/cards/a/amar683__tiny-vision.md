@@ -1,6 +1,6 @@
 # amar683/tiny-vision
 
-⭐ 8 · Python · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/amar683/tiny-vision) · [官网](https://huggingface.co/amartomar683/tiny-vision) · 个人维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/amar683/tiny-vision) · [官网](https://huggingface.co/amartomar683/tiny-vision) · 个人维护
 
 **让 AI 助手能看视频的 36M 参数本地图像/视频描述生成器**
 
@@ -39,6 +39,18 @@
 
 > L9: Under the hood it's a **36M-parameter** image and video captioner, small enough to run on
 > L131: `mcp_server.py` exposes three tools over stdio:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "amar683/tiny-vision 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 7 --> 9
+    line [8, 8]
+```
+
+2026-11-25 8 → 2026-11-26 8（+0）
 
 
 ---

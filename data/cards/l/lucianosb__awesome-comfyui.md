@@ -1,6 +1,6 @@
 # lucianosb/awesome-comfyui
 
-⭐ 217 · 推送 2026-09-18 · [GitHub](https://github.com/lucianosb/awesome-comfyui) · 个人维护
+⭐ 218 · 推送 2026-11-24 · [GitHub](https://github.com/lucianosb/awesome-comfyui) · 个人维护
 
 **ComfyUI 工具与插件策展清单：收录自定义节点、工作流与相关项目**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "lucianosb/awesome-comfyui 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 213 --> 218
-    line [214, 215, 214, 215, 216, 217]
+    title "lucianosb/awesome-comfyui 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 213 --> 219
+    line [214, 215, 214, 215, 216, 217, 218]
 ```
 
-2026-10-23 214 → 2026-11-25 217（+3）
+2026-10-24 214 → 2026-11-26 218（+4）
 
 
 ---

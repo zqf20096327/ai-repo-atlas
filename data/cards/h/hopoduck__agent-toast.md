@@ -1,6 +1,6 @@
 # hopoduck/agent-toast
 
-⭐ 26 · Rust · MIT · 推送 2026-11-12 · [GitHub](https://github.com/hopoduck/agent-toast) · [官网](https://github.com/hopoduck/agent-toast/releases/latest) · 个人维护
+⭐ 26 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/hopoduck/agent-toast) · [官网](https://github.com/hopoduck/agent-toast/releases/latest) · 个人维护
 
 **给终端 AI 编码代理用户的桌面通知工具：代理需要你时点击回到终端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hopoduck/agent-toast 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-23 26 → 2026-11-25 26（+0）
+2026-10-24 26 → 2026-11-26 26（+0）
 
 
 ---

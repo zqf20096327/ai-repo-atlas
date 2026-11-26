@@ -1,6 +1,6 @@
 # ysyisyourbrother/homebot
 
-⭐ 15 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ysyisyourbrother/homebot) · [官网](https://ysyisyourbrother.github.io/homebot/) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-11-02 · [GitHub](https://github.com/ysyisyourbrother/homebot) · [官网](https://ysyisyourbrother.github.io/homebot/) · 个人维护 · 中文 README
 
 **本地部署的语音驱动个人 AI 代理，用于对话式家居自动化**
 
@@ -45,12 +45,12 @@ Homebot 是一个可本地部署的个人 AI agent：通过自定义唤醒词、
 ```mermaid
 xychart-beta
     title "ysyisyourbrother/homebot 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
     y-axis "stars" 13 --> 17
-    line [14, 16, 15, 15]
+    line [14, 16, 15, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # memcpython/no-slop
 
-⭐ 16 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/memcpython/no-slop) · 个人维护
+⭐ 18 · MIT · 推送 2026-11-11 · [GitHub](https://github.com/memcpython/no-slop) · 个人维护
 
 **给 AI 编程 agent 的行为约束技能文件：先读码后改码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "memcpython/no-slop 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 13 --> 17
-    line [14, 16, 16]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 13 --> 19
+    line [14, 16, 18]
 ```
 
-2026-11-11 14 → 2026-11-25 16（+2）
+2026-11-11 14 → 2026-11-26 18（+4）
 
 
 ---

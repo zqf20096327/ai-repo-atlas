@@ -1,6 +1,6 @@
 # sagarxmodder/opencode-unlimited-termux
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sagarxmodder/opencode-unlimited-termux) · [官网](https://kuru-vanthex-production.up.railway.app) · 个人维护
+⭐ 4 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/sagarxmodder/opencode-unlimited-termux) · [官网](https://kuru-vanthex-production.up.railway.app) · 个人维护
 
 **Termux/Android 上绕过 opencode 免费模型每日限额的轮换工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "sagarxmodder/opencode-unlimited-termux 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 4（+1）
 
 
 ---

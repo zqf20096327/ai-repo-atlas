@@ -1,6 +1,6 @@
 # yasu-isct/J-Grad-Admission-RAG
 
-⭐ 10 · Python · MIT · 推送 2026-10-30 · [GitHub](https://github.com/yasu-isct/J-Grad-Admission-RAG) · [官网](https://yasu-isct.github.io/J-Grad-Admission-RAG/) · 个人维护 · 中文 README
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/yasu-isct/J-Grad-Admission-RAG) · [官网](https://yasu-isct.github.io/J-Grad-Admission-RAG/) · 个人维护 · 中文 README
 
 **日本大学院募集要項を根拠付きで整理する出願支援システム**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yasu-isct/J-Grad-Admission-RAG 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [11, 10, 10]
 ```
 
-2026-10-23 11 → 2026-11-25 10（-1）
+2026-10-24 11 → 2026-11-26 10（-1）
 
 
 ---

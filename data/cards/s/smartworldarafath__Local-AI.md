@@ -1,6 +1,6 @@
 # smartworldarafath/Local-AI
 
-⭐ 10 · Kotlin · AGPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/smartworldarafath/Local-AI) · [官网](https://github.com/smartworldarafath/Local-AI/releases) · 个人维护
+⭐ 11 · Kotlin · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/smartworldarafath/Local-AI) · [官网](https://github.com/smartworldarafath/Local-AI/releases) · 个人维护
 
 **Android 端本地优先 AI 助手：多模型接入+本地 RAG 记忆+工具调用**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "smartworldarafath/Local-AI 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-21 10 → 2026-11-25 10（+0）
+2026-11-21 10 → 2026-11-26 11（+1）
 
 
 ---

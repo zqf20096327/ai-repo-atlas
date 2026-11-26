@@ -1,6 +1,6 @@
 # fernandotonon/QtMeshEditor
 
-⭐ 71 · C++ · MIT · 推送 2026-11-21 · [GitHub](https://github.com/fernandotonon/QtMeshEditor) · [官网](http://editor.qtmesh.dev/) · 个人维护
+⭐ 71 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/fernandotonon/QtMeshEditor) · [官网](http://editor.qtmesh.dev/) · 个人维护
 
 **独立游戏开发者的 3D 资产工具：格式转换、动画合并、材质编辑**
 
@@ -41,6 +41,18 @@
 > L3: Automate your 3D asset pipeline — scan, validate, convert, fix, and merge 3D assets with GUI + CLI + CI/CD support.
 > L196: - **Material editor** — visual editing with AI-assisted generation; PBR + HDR/IBL materials look correct on first 
 > L203: - **AI agent** — describe a task in natural language; a local LLM plans it over the editor's tools, runs it step b
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fernandotonon/QtMeshEditor 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 70 --> 72
+    line [71, 71]
+```
+
+2026-11-25 71 → 2026-11-26 71（+0）
 
 
 ---

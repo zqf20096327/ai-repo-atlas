@@ -1,6 +1,6 @@
 # alexwkleung/reika
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/alexwkleung/reika) · [官网](https://reikacode.com) · 个人维护 · 中文 README
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/alexwkleung/reika) · [官网](https://reikacode.com) · 个人维护 · 中文 README
 
 **面向小型本地模型的编码 agent CLI（优先本地运行时）**
 
@@ -45,13 +45,13 @@ Reika 是一个终端编码 agent CLI，面向本地与托管模型，设计上�
 
 ```mermaid
 xychart-beta
-    title "alexwkleung/reika 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 14, 14]
+    title "alexwkleung/reika 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 11 --> 18
+    line [12, 14, 17]
 ```
 
-2026-10-23 11 → 2026-11-25 14（+3）
+2026-10-24 12 → 2026-11-26 17（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # douglac/banco-mcp
 
-⭐ 27 · MIT · 推送 2026-05-15 · [GitHub](https://github.com/douglac/banco-mcp) · [官网](https://github.com/douglac/banco-mcp) · 个人维护
+⭐ 28 · MIT · 推送 2026-05-15 · [GitHub](https://github.com/douglac/banco-mcp) · [官网](https://github.com/douglac/banco-mcp) · 个人维护
 
 **连接巴西 30+ 银行 Open Finance 数据到 AI agent 的 MCP 服务**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "douglac/banco-mcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 25 --> 28
-    line [26, 27, 27]
+    title "douglac/banco-mcp 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-23 26 → 2026-11-25 27（+1）
+2026-10-24 27 → 2026-11-26 28（+1）
 
 
 ---

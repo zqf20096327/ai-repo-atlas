@@ -1,6 +1,6 @@
 # KRLabsOrg/verbatim-rag
 
-⭐ 210 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/KRLabsOrg/verbatim-rag) · [官网](https://krlabsorg.github.io/verbatim-rag/) · 组织维护
+⭐ 210 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/KRLabsOrg/verbatim-rag) · [官网](https://krlabsorg.github.io/verbatim-rag/) · 组织维护
 
 **溯源优先的抽取式 RAG 库：返回带引文的原文片段**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "KRLabsOrg/verbatim-rag 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-26"]
     y-axis "stars" 206 --> 211
     line [207, 208, 207, 208, 209, 210, 210]
 ```
 
-2026-10-23 207 → 2026-11-25 210（+3）
+2026-10-24 207 → 2026-11-26 210（+3）
 
 
 ---

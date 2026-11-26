@@ -45,12 +45,12 @@ Project Elements 将 Entity-Component-System（ECS）架构与场景图结合，
 ```mermaid
 xychart-beta
     title "papagiannakis/Elements 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 36 --> 38
     line [37, 37]
 ```
 
-2026-10-23 37 → 2026-11-25 37（+0）
+2026-10-24 37 → 2026-11-26 37（+0）
 
 
 ---

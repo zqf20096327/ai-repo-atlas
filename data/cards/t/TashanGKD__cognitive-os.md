@@ -1,6 +1,6 @@
 # TashanGKD/cognitive-os
 
-⭐ 12 · Shell · MIT · 推送 2026-03-26 · [GitHub](https://github.com/TashanGKD/cognitive-os) · 组织维护 · 中文 README
+⭐ 13 · Shell · MIT · 推送 2026-03-26 · [GitHub](https://github.com/TashanGKD/cognitive-os) · 组织维护 · 中文 README
 
 **把个人认知框架外化为 AI 可操作知识体系的 Cursor 技能集**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "TashanGKD/cognitive-os 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

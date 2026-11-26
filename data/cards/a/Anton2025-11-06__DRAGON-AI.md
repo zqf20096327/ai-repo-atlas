@@ -1,6 +1,6 @@
 # Anton2025-11-06/DRAGON-AI
 
-⭐ 212 · Vue · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Anton2025-11-06/DRAGON-AI) · 个人维护 · 中文 README
+⭐ 212 · Vue · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Anton2025-11-06/DRAGON-AI) · 个人维护 · 中文 README
 
 **可私有部署的多租户企业 AI 中台：网关+RAG+工作流+智能体**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Anton2025-11-06/DRAGON-AI 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-26"]
     y-axis "stars" 208 --> 213
     line [209, 212, 212]
 ```
 
-2026-11-21 209 → 2026-11-25 212（+3）
+2026-11-21 209 → 2026-11-26 212（+3）
 
 
 ---

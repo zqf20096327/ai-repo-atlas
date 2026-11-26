@@ -1,6 +1,6 @@
 # fideus-labs/KonfAI
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/fideus-labs/KonfAI) · [官网](https://fideus-labs.github.io/KonfAI/) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/fideus-labs/KonfAI) · [官网](https://fideus-labs.github.io/KonfAI/) · 组织维护
 
 **声明式医学影像深度学习执行引擎，YAML 配置驱动训练到部署**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "fideus-labs/KonfAI 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-19", "2026-11-26"]
     y-axis "stars" 15 --> 19
     line [16, 17, 18, 18]
 ```
 
-2026-10-23 16 → 2026-11-25 18（+2）
+2026-10-24 16 → 2026-11-26 18（+2）
 
 
 ---

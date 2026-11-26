@@ -1,6 +1,6 @@
 # pochenai/llm-inference-calculator
 
-⭐ 27 · TypeScript · 推送 2026-11-08 · [GitHub](https://github.com/pochenai/llm-inference-calculator) · [官网](https://llm-inference-calculator-delta.vercel.app) · 个人维护 · 中文 README
+⭐ 28 · TypeScript · 推送 2026-11-08 · [GitHub](https://github.com/pochenai/llm-inference-calculator) · [官网](https://llm-inference-calculator-delta.vercel.app) · 个人维护 · 中文 README
 
 **浏览器端 LLM 推理性能估算器：给模型/GPU/并行配置算显存与时延**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pochenai/llm-inference-calculator 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 20 --> 28
-    line [21, 22, 21, 23, 24, 25, 26, 27, 27]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-15", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 20 --> 29
+    line [21, 22, 21, 23, 24, 25, 26, 27, 28]
 ```
 
-2026-10-23 21 → 2026-11-25 27（+6）
+2026-10-24 21 → 2026-11-26 28（+7）
 
 
 ---

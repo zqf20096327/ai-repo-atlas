@@ -1,6 +1,6 @@
 # AARCNoa/zhiyou
 
-⭐ 3 · Kotlin · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AARCNoa/zhiyou) · 个人维护 · 中文 README
+⭐ 9 · Kotlin · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/AARCNoa/zhiyou) · 个人维护 · 中文 README
 
 **给微信加 AI 好友记忆与群聊摘要的 LSPosed 模块**
 
@@ -40,6 +40,18 @@
 > L3: > 本项目是 wcx 的二次开发，一个跑在 LSPosed 上的微信增强模块。
 > L9: - **好友档案** —— 标签、带时间的记忆、关键事件、人格侧写；配智能建议与自动回复。
 > L99: 2. 打开 `微信 → 我 → 设置 → 知友`，主页的 AI 卡片点「配置」，填 **API 地址 / Key / 模型名称**。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AARCNoa/zhiyou 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 10
+    line [3, 9]
+```
+
+2026-11-25 3 → 2026-11-26 9（+6）
 
 
 ---

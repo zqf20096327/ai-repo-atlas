@@ -45,12 +45,12 @@ SourceSage 是一个 Python CLI 工具，面向需要让 AI 助手快速理解�
 ```mermaid
 xychart-beta
     title "Sunwood-ai-labs/SourceSage 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 70 --> 72
     line [71, 71]
 ```
 
-2026-10-23 71 → 2026-11-25 71（+0）
+2026-10-24 71 → 2026-11-26 71（+0）
 
 
 ---

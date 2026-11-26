@@ -1,6 +1,6 @@
 # barndog-ai/barndog-cli
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/barndog-ai/barndog-cli) · [官网](https://barndog.dev) · 组织维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/barndog-ai/barndog-cli) · [官网](https://barndog.dev) · 组织维护
 
 **跨 AI 编码工具统一安装与同步 Skills/MCP/Hooks 的 CLI**
 
@@ -45,13 +45,13 @@ barndog 是 BarnDog 的命令行工具，把 Skills、MCP 服务器、Hooks 和�
 
 ```mermaid
 xychart-beta
-    title "barndog-ai/barndog-cli 星数(近 4 点)"
-    x-axis ["2026-11-16", "2026-11-22", "2026-11-23", "2026-11-25"]
+    title "barndog-ai/barndog-cli 星数(近 5 点)"
+    x-axis ["2026-11-16", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 8
-    line [3, 5, 6, 7]
+    line [3, 5, 6, 7, 7]
 ```
 
-2026-11-16 3 → 2026-11-25 7（+4）
+2026-11-16 3 → 2026-11-26 7（+4）
 
 
 ---

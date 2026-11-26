@@ -1,6 +1,6 @@
 # kevinalexandr19/python_para_geologos
 
-⭐ 258 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kevinalexandr19/python_para_geologos) · [官网](https://kevinalexandr19.github.io/python_para_geologos/lab/index.html) · 个人维护
+⭐ 259 · Jupyter Notebook · MIT · 推送 2026-11-18 · [GitHub](https://github.com/kevinalexandr19/python_para_geologos) · [官网](https://kevinalexandr19.github.io/python_para_geologos/lab/index.html) · 个人维护
 
 **面向地质学者与学生的 Python 地质编程教程笔记本集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kevinalexandr19/python_para_geologos 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
-    y-axis "stars" 257 --> 259
-    line [258, 258]
+    x-axis ["2026-11-15", "2026-11-26"]
+    y-axis "stars" 257 --> 260
+    line [258, 259]
 ```
 
-2026-11-15 258 → 2026-11-25 258（+0）
+2026-11-15 258 → 2026-11-26 259（+1）
 
 
 ---

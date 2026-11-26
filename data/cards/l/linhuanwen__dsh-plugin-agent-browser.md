@@ -1,6 +1,6 @@
 # linhuanwen/dsh-plugin-agent-browser
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/linhuanwen/dsh-plugin-agent-browser) · 个人维护 · 中文 README
+⭐ 7 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/linhuanwen/dsh-plugin-agent-browser) · 个人维护 · 中文 README
 
 **给 DeepSeek Harness 桌面端加一个 Agent 可操作的真浏览器侧栏插件**
 
@@ -41,6 +41,18 @@ DSH Desktop 插件，在右侧栏渲染 Electron `<webview>` 浏览器面板，�
 > L5: **在 DeepSeek Harness 的右侧栏里，让 Agent 用你的真浏览器干活：它看得见、点得动，你随时可以接管。**
 > L83: |宿主|**仅 DSH Desktop（Electron）**。面板依赖 `<webview>` 与 `globalThis.dshDesktop.browser` 租约，Web 版没有这两样|
 > L20: DSH 桌面端本来就能开网页：你点开、你操作。这个插件补的不是"又一个浏览器"，而是**让 Agent 能用同一块面板**——它看得到带 `ref` 的元素、点得动、填得进、能把文件带回来，中间还能把鼠标交还给你。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "linhuanwen/dsh-plugin-agent-browser 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 7]
+```
+
+2026-11-25 3 → 2026-11-26 7（+4）
 
 
 ---

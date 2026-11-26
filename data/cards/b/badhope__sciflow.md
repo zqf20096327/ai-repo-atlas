@@ -1,6 +1,6 @@
 # badhope/sciflow
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/badhope/sciflow) · [官网](https://badhope.github.io/sciflow/) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/badhope/sciflow) · [官网](https://badhope.github.io/sciflow/) · 个人维护 · 中文 README
 
 **本地优先的自主科研循环与论文写作流水线平台**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "badhope/sciflow 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-11", "2026-11-26"]
     y-axis "stars" 10 --> 14
     line [12, 11, 12, 13, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

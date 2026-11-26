@@ -1,6 +1,6 @@
 # tykimos/agent-native-agent
 
-⭐ 151 · HTML · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/tykimos/agent-native-agent) · [官网](https://github.com/tykimos/ana-starter) · 个人维护 · 中文 README
+⭐ 157 · HTML · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/tykimos/agent-native-agent) · [官网](https://github.com/tykimos/ana-starter) · 个人维护 · 中文 README
 
 **自托管看板应用：以编码 agent 为运行时，边用边改**
 
@@ -45,13 +45,13 @@ ANA 是一个自托管的 agent-native 应用基座：用户通过浏览器查�
 
 ```mermaid
 xychart-beta
-    title "tykimos/agent-native-agent 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 126 --> 153
-    line [128, 130, 147, 150, 151]
+    title "tykimos/agent-native-agent 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 126 --> 159
+    line [128, 130, 147, 150, 151, 157]
 ```
 
-2026-10-23 128 → 2026-11-25 151（+23）
+2026-10-24 128 → 2026-11-26 157（+29）
 
 
 ---

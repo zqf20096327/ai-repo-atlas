@@ -1,6 +1,6 @@
 # supervaize/supervaizer
 
-⭐ 15 · Python · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/supervaize/supervaizer) · [官网](https://runwaize.com) · 组织维护
+⭐ 15 · Python · MPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/supervaize/supervaizer) · [官网](https://runwaize.com) · 组织维护
 
 **把 AI agent 接入 Supervaize Studio 的 Python 控制器 SDK（A2A/A2UI）**
 
@@ -45,12 +45,12 @@ Python 控制器 SDK，实现 A2A 协议的发现、Agent Card、JSON-RPC 控制
 ```mermaid
 xychart-beta
     title "supervaize/supervaizer 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 15（+0）
 
 
 ---

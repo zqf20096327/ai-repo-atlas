@@ -1,6 +1,6 @@
 # Alexey-Popov/awesome-ai-architect
 
-⭐ 244 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Alexey-Popov/awesome-ai-architect) · 个人维护
+⭐ 245 · MIT · 推送 2026-11-18 · [GitHub](https://github.com/Alexey-Popov/awesome-ai-architect) · 个人维护
 
 **面向解决方案架构师的 AI 系统设计学习资源清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Alexey-Popov/awesome-ai-architect 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 230 --> 245
-    line [231, 233, 231, 239, 240, 241, 242, 243, 244]
+    title "Alexey-Popov/awesome-ai-architect 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 230 --> 246
+    line [231, 233, 231, 239, 240, 241, 242, 243, 244, 245]
 ```
 
-2026-10-23 231 → 2026-11-25 244（+13）
+2026-10-24 231 → 2026-11-26 245（+14）
 
 
 ---

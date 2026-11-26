@@ -1,6 +1,6 @@
 # danielkov/agentkit
 
-⭐ 12 · Rust · MIT · 推送 2026-11-20 · [GitHub](https://github.com/danielkov/agentkit) · [官网](https://danielkov.github.io/agentkit/) · 个人维护
+⭐ 12 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/danielkov/agentkit) · [官网](https://danielkov.github.io/agentkit/) · 个人维护
 
 **Rust 的 LLM agent 应用构建工具包：编码代理、CLI 助手、多代理工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "danielkov/agentkit 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 13
     line [10, 11, 10, 12, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 12（+2）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

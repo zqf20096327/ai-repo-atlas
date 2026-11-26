@@ -1,6 +1,6 @@
 # runtypelabs/persona
 
-⭐ 266 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/runtypelabs/persona) · [官网](https://persona-chat.dev) · 组织维护
+⭐ 266 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/runtypelabs/persona) · [官网](https://persona-chat.dev) · 组织维护
 
 **网页端可嵌入 AI 聊天组件库：零框架依赖、WebMCP 原生**
 
@@ -47,12 +47,12 @@ Persona 是一个 TypeScript 编写的 AI 聊天挂件，用 Vanilla JS 渲染�
 ```mermaid
 xychart-beta
     title "runtypelabs/persona 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-26"]
     y-axis "stars" 252 --> 267
     line [253, 257, 253, 263, 264, 265, 266, 266]
 ```
 
-2026-10-23 253 → 2026-11-25 266（+13）
+2026-10-24 253 → 2026-11-26 266（+13）
 
 
 ---

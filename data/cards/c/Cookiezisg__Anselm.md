@@ -1,6 +1,6 @@
 # Cookiezisg/Anselm
 
-⭐ 10 · Go · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/Cookiezisg/Anselm) · [官网](https://anselm.website) · 个人维护 · 中文 README
+⭐ 10 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Cookiezisg/Anselm) · [官网](https://anselm.website) · 个人维护 · 中文 README
 
 **本地优先的桌面 Agent 工作流平台：对话生成并持久运行工作流**
 
@@ -47,12 +47,12 @@ Flutter 桌面应用 + Go sidecar + SQLite 的本地运行时：用户用自然�
 ```mermaid
 xychart-beta
     title "Cookiezisg/Anselm 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-31", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-31", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

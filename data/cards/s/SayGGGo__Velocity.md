@@ -1,6 +1,6 @@
 # SayGGGo/Velocity
 
-⭐ 3 · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/SayGGGo/Velocity) · [官网](https://isvelocity.ru) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向学生的一站式 AI 教育学习平台**
 
@@ -11,7 +11,7 @@ Velocity 是一个在线教育平台，将学习材料、练习与 AI 工具放�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # cbueth/infomeasure
 
-⭐ 81 · Python · AGPL-3.0 · 推送 2026-11-17 · [GitHub](https://github.com/cbueth/infomeasure) · [官网](https://infomeasure.org/) · 个人维护
+⭐ 81 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/cbueth/infomeasure) · [官网](https://infomeasure.org/) · 个人维护
 
 **计算熵、互信息、传递熵等信息度量的 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "cbueth/infomeasure 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "cbueth/infomeasure 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 78 --> 82
-    line [79, 80, 79, 80, 81]
+    line [79, 80, 79, 80, 81, 81]
 ```
 
-2026-10-23 79 → 2026-11-25 81（+2）
+2026-10-24 79 → 2026-11-26 81（+2）
 
 
 ---

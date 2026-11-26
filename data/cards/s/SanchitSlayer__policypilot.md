@@ -1,6 +1,6 @@
 # SanchitSlayer/policypilot
 
-⭐ 3 · Python · 推送 2026-10-24 · [GitHub](https://github.com/SanchitSlayer/policypilot) · 个人维护
+⭐ 3 · Python · 推送 2026-11-25 · [GitHub](https://github.com/SanchitSlayer/policypilot) · 个人维护
 
 **合规团队的 RAG 问答与合同审查工具，带页级引用**
 
@@ -46,12 +46,12 @@ PolicyPilot 是面向合规、运营与法务团队的 AI 合规助手：对上�
 ```mermaid
 xychart-beta
     title "SanchitSlayer/policypilot 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-25 3（+0）
+2026-11-02 3 → 2026-11-26 3（+0）
 
 
 ---

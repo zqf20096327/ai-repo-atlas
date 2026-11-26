@@ -1,6 +1,6 @@
 # Yeq6X/mazelingo
 
-⭐ 29 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Yeq6X/mazelingo) · 个人维护
+⭐ 28 · TypeScript · MIT · 推送 2026-08-25 · [GitHub](https://github.com/Yeq6X/mazelingo) · 个人维护
 
 **给语言学习者：网页句子级双语混合显示的 Chrome 扩展**
 
@@ -44,13 +44,13 @@ MV3 架构的 Chrome 扩展，将网页文本按句（长句按从句）以可�
 
 ```mermaid
 xychart-beta
-    title "Yeq6X/mazelingo 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
+    title "Yeq6X/mazelingo 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-25", "2026-11-26"]
     y-axis "stars" 26 --> 30
-    line [27, 28, 29]
+    line [27, 28, 29, 28]
 ```
 
-2026-10-23 27 → 2026-11-25 29（+2）
+2026-10-24 27 → 2026-11-26 28（+1）
 
 
 ---

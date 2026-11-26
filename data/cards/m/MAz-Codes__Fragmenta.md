@@ -1,6 +1,6 @@
 # MAz-Codes/Fragmenta
 
-⭐ 70 · JavaScript · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/MAz-Codes/Fragmenta) · [官网](https://misaghazimi.com/fragmenta) · 个人维护
+⭐ 70 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/MAz-Codes/Fragmenta) · [官网](https://misaghazimi.com/fragmenta) · 个人维护
 
 **面向音乐人的开源文本生成音频桌面应用：数据集、LoRA 训练到现场演奏**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "MAz-Codes/Fragmenta 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-19", "2026-11-26"]
     y-axis "stars" 67 --> 71
     line [68, 69, 70, 70]
 ```
 
-2026-10-23 68 → 2026-11-25 70（+2）
+2026-10-24 68 → 2026-11-26 70（+2）
 
 
 ---

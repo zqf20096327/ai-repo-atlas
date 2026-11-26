@@ -1,6 +1,6 @@
 # epam/ai-dial-analytics-realtime
 
-⭐ 11 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/epam/ai-dial-analytics-realtime) · [官网](https://dialx.ai) · 组织维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/epam/ai-dial-analytics-realtime) · [官网](https://dialx.ai) · 组织维护
 
 **AI DIAL 平台的实时分析服务：消费日志流写入 InfluxDB**
 
@@ -45,12 +45,12 @@ EPAM AI DIAL 生态的实时分析服务端：消费 AI DIAL Core 经 Vector 转
 ```mermaid
 xychart-beta
     title "epam/ai-dial-analytics-realtime 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

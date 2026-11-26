@@ -45,12 +45,12 @@ Flutter 聊天 UI 组件库，为含 LLM 的应用设计：开发者自行提供
 ```mermaid
 xychart-beta
     title "hooshyar/flutter_gen_ai_chat_ui 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 87 --> 89
     line [88, 88]
 ```
 
-2026-10-23 88 → 2026-11-25 88（+0）
+2026-10-24 88 → 2026-11-26 88（+0）
 
 
 ---

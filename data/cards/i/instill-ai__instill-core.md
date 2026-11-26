@@ -1,6 +1,6 @@
 # instill-ai/instill-core
 
-⭐ 2,322 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/instill-ai/instill-core) · [官网](https://www.instill-ai.com) · 组织维护
+⭐ 2,323 · Python · NOASSERTION · 推送 2026-06-01 · [GitHub](https://github.com/instill-ai/instill-core) · [官网](https://www.instill-ai.com) · 组织维护
 
 **端到端 AI 平台：数据、模型与流水线编排一体化**
 
@@ -44,13 +44,13 @@ Instill Core 是面向构建 AI 应用的全栈基础设施平台，覆盖四类
 
 ```mermaid
 xychart-beta
-    title "instill-ai/instill-core 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2317 --> 2324
-    line [2318, 2319, 2321, 2322, 2323, 2322, 2322]
+    title "instill-ai/instill-core 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-19", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 2318 --> 2324
+    line [2319, 2321, 2322, 2323, 2322, 2323]
 ```
 
-2026-10-23 2,318 → 2026-11-25 2,322（+4）
+2026-10-24 2,319 → 2026-11-26 2,323（+4）
 
 
 ---

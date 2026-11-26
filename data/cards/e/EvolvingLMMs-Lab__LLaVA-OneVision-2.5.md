@@ -1,6 +1,6 @@
 # EvolvingLMMs-Lab/LLaVA-OneVision-2.5
 
-⭐ 1,248 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2.5) · 组织维护 · 中文 README
+⭐ 1,253 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-2.5) · 组织维护 · 中文 README
 
 **全开源多模态模型家族：图像/视频理解与训练代码全量发布**
 
@@ -45,13 +45,13 @@ LLaVA-OneVision 系列的发布仓库：提供 2.5-4B（支持流式视频，逐
 
 ```mermaid
 xychart-beta
-    title "EvolvingLMMs-Lab/LLaVA-OneVision-2.5 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 1236 --> 1249
-    line [1237, 1239, 1245, 1246, 1248]
+    title "EvolvingLMMs-Lab/LLaVA-OneVision-2.5 星数(近 6 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1236 --> 1254
+    line [1237, 1239, 1245, 1246, 1248, 1253]
 ```
 
-2026-11-19 1,237 → 2026-11-25 1,248（+11）
+2026-11-19 1,237 → 2026-11-26 1,253（+16）
 
 
 ---

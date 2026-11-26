@@ -1,6 +1,6 @@
 # hitgalani/Learning-Lab
 
-⭐ 3 · Python · 推送 2026-11-17 · [GitHub](https://github.com/hitgalani/Learning-Lab) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **个人学习资源合集：AI、编程与开发的多来源资料整理**
 

@@ -1,6 +1,6 @@
 # OpenGVLab/VRBench
 
-⭐ 28 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/OpenGVLab/VRBench) · [官网](https://vrbench.github.io) · 组织维护 · 中文 README
+⭐ 29 · Python · Apache-2.0 · 推送 2026-06-04 · [GitHub](https://github.com/OpenGVLab/VRBench) · [官网](https://vrbench.github.io) · 组织维护 · 中文 README
 
 **长叙事视频多步推理基准：960 长视频、8,243 问答对**
 
@@ -45,12 +45,12 @@ ICCV 2025 论文配套的长叙事视频评测基准与评测套件：包含 960
 ```mermaid
 xychart-beta
     title "OpenGVLab/VRBench 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 27 --> 29
-    line [28, 28]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
 ```
 
-2026-10-23 28 → 2026-11-25 28（+0）
+2026-10-24 28 → 2026-11-26 29（+1）
 
 
 ---

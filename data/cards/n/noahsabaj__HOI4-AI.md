@@ -1,6 +1,6 @@
 # noahsabaj/HOI4-AI
 
-⭐ 25 · Python · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/noahsabaj/HOI4-AI) · 个人维护
+⭐ 26 · Python · NOASSERTION · 推送 2026-09-27 · [GitHub](https://github.com/noahsabaj/HOI4-AI) · 个人维护
 
 **用计算机视觉与强化学习让 AI 自学玩钢铁雄心4的研究原型**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "noahsabaj/HOI4-AI 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 22 --> 26
-    line [23, 24, 23, 25, 25]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 22 --> 27
+    line [23, 24, 23, 25, 26]
 ```
 
-2026-10-23 23 → 2026-11-25 25（+2）
+2026-10-24 23 → 2026-11-26 26（+3）
 
 
 ---

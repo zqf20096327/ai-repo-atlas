@@ -1,6 +1,6 @@
 # aws-samples/whats-new-summary-notifier
 
-⭐ 50 · TypeScript · MIT-0 · 推送 2026-11-24 · [GitHub](https://github.com/aws-samples/whats-new-summary-notifier) · 组织维护
+⭐ 50 · TypeScript · MIT-0 · 推送 2026-11-25 · [GitHub](https://github.com/aws-samples/whats-new-summary-notifier) · 组织维护
 
 **自动摘要 AWS What's New 等网页并推送 Slack/Teams 的生成式 AI 应用**
 
@@ -44,12 +44,12 @@ AWS 官方 samples 提供的示例实现：监控 AWS What's New 等网页更新
 ```mermaid
 xychart-beta
     title "aws-samples/whats-new-summary-notifier 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-23 50 → 2026-11-25 50（+0）
+2026-10-24 50 → 2026-11-26 50（+0）
 
 
 ---

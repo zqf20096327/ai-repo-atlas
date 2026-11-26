@@ -1,6 +1,6 @@
 # cascade-protocol/x402-proxy
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-08-14 · [GitHub](https://github.com/cascade-protocol/x402-proxy) · [官网](https://www.npmjs.com/package/x402-proxy) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cascade-protocol/x402-proxy) · [官网](https://www.npmjs.com/package/x402-proxy) · 组织维护
 
 **供 AI 代理与开发者自动支付付费 API 的 CLI/MCP 代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "cascade-protocol/x402-proxy 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "cascade-protocol/x402-proxy 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 12
-    line [10, 11, 10, 11, 10, 10]
+    line [11, 10, 11, 10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 11 → 2026-11-26 10（-1）
 
 
 ---

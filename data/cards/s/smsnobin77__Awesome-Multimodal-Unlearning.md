@@ -1,6 +1,6 @@
 # smsnobin77/Awesome-Multimodal-Unlearning
 
-⭐ 12 · Python · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) · [官网](https://smsnobin77.github.io/Awesome-Multimodal-Unlearning/) · 组织维护
+⭐ 13 · Python · CC0-1.0 · 推送 2026-10-12 · [GitHub](https://github.com/smsnobin77/Awesome-Multimodal-Unlearning) · [官网](https://smsnobin77.github.io/Awesome-Multimodal-Unlearning/) · 组织维护
 
 **多模态机器遗忘综述：跨视觉/语言/视频/音频的论文、数据集与基准清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "smsnobin77/Awesome-Multimodal-Unlearning 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 12]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

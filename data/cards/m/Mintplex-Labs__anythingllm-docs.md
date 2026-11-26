@@ -1,6 +1,6 @@
 # Mintplex-Labs/anythingllm-docs
 
-⭐ 435 · MDX · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-docs) · [官网](https://docs.anythingllm.com) · 组织维护
+⭐ 436 · MDX · MIT · 推送 2026-11-17 · [GitHub](https://github.com/Mintplex-Labs/anythingllm-docs) · [官网](https://docs.anythingllm.com) · 组织维护
 
 **AnythingLLM 官方文档站点仓库，供本地开发与贡献**
 
@@ -43,13 +43,13 @@ Mintplex Labs 维护的 AnythingLLM 产品文档仓库，基于 Next.js 构建�
 
 ```mermaid
 xychart-beta
-    title "Mintplex-Labs/anythingllm-docs 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 422 --> 436
-    line [423, 424, 425, 426, 427, 423, 430, 431, 432, 434, 435]
+    title "Mintplex-Labs/anythingllm-docs 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 422 --> 437
+    line [423, 424, 425, 426, 427, 423, 430, 431, 432, 434, 435, 436]
 ```
 
-2026-10-23 423 → 2026-11-25 435（+12）
+2026-10-24 423 → 2026-11-26 436（+13）
 
 
 ---

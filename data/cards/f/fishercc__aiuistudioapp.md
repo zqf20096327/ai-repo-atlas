@@ -1,6 +1,6 @@
 # fishercc/aiuistudioapp
 
-⭐ 18 · MIT · 推送 2026-10-04 · [GitHub](https://github.com/fishercc/aiuistudioapp) · [官网](https://aiuistudio.aiaode.com) · 组织维护 · 中文 README
+⭐ 19 · MIT · 推送 2026-10-04 · [GitHub](https://github.com/fishercc/aiuistudioapp) · [官网](https://aiuistudio.aiaode.com) · 组织维护 · 中文 README
 
 **带 AI 助手的 LVGL 嵌入式 GUI 可视化设计工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fishercc/aiuistudioapp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 16 --> 19
-    line [17, 18, 17, 18, 18]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 16 --> 20
+    line [17, 18, 17, 18, 19]
 ```
 
-2026-10-23 17 → 2026-11-25 18（+1）
+2026-10-24 17 → 2026-11-26 19（+2）
 
 
 ---

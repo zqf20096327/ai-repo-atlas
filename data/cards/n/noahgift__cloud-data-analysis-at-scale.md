@@ -40,6 +40,18 @@
 > L3: Course taught at Duke MIDS, Spring 2020-2022 by Noah Gift.
 > L100: ### MLOps, Big Data and Edge Computer Vision [Week 11 & Week 12 & Week 13]
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/cloud-data-analysis-at-scale 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 146 --> 148
+    line [147, 147]
+```
+
+2026-11-25 147 → 2026-11-26 147（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `c424660837d9` · [字段定义](../../DATASET.md)*

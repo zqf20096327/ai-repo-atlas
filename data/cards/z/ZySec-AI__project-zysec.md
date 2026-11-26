@@ -1,6 +1,6 @@
 # ZySec-AI/project-zysec
 
-⭐ 81 · Python · Apache-2.0 · 推送 2026-11-13 · [GitHub](https://github.com/ZySec-AI/project-zysec) · [官网](https://www.zysec.ai) · 个人维护
+⭐ 81 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/ZySec-AI/project-zysec) · [官网](https://www.zysec.ai) · 个人维护
 
 **面向安全专业人员的私有化网络安全 AI 助手（ZySec 7B）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ZySec-AI/project-zysec 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 78 --> 82
     line [79, 80, 79, 80, 81, 81]
 ```
 
-2026-10-23 79 → 2026-11-25 81（+2）
+2026-10-24 79 → 2026-11-26 81（+2）
 
 
 ---

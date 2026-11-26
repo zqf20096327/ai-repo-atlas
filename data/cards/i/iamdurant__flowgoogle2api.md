@@ -1,6 +1,6 @@
 # iamdurant/flowgoogle2api
 
-⭐ 9 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/iamdurant/flowgoogle2api) · 个人维护 · 中文 README
+⭐ 10 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/iamdurant/flowgoogle2api) · 个人维护 · 中文 README
 
 **把 Google Flow 图像生成/编辑封装为 OpenAI 兼容 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iamdurant/flowgoogle2api 星数(近 4 点)"
-    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 4 --> 10
-    line [5, 7, 9, 9]
+    x-axis ["2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 4 --> 11
+    line [5, 7, 9, 10]
 ```
 
-2026-11-18 5 → 2026-11-25 9（+4）
+2026-11-18 5 → 2026-11-26 10（+5）
 
 
 ---

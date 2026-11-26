@@ -1,6 +1,6 @@
 # MICS-Lab/thunder
 
-⭐ 50 · Python · CC-BY-4.0 · 推送 2026-11-02 · [GitHub](https://github.com/MICS-Lab/thunder) · [官网](https://mics-lab.github.io/thunder/) · 组织维护
+⭐ 50 · Python · CC-BY-4.0 · 推送 2026-11-24 · [GitHub](https://github.com/MICS-Lab/thunder) · [官网](https://mics-lab.github.io/thunder/) · 组织维护
 
 **病理图像基础模型评测基准：23 个模型 16 个数据集横向评测**
 
@@ -45,12 +45,12 @@ THUNDER 是发表于 NeurIPS 2025 D&B Track（Spotlight）的 tile 级数字病�
 ```mermaid
 xychart-beta
     title "MICS-Lab/thunder 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
     y-axis "stars" 49 --> 52
     line [51, 50, 50]
 ```
 
-2026-10-23 51 → 2026-11-25 50（-1）
+2026-10-24 51 → 2026-11-26 50（-1）
 
 
 ---

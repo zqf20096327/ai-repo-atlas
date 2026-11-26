@@ -1,6 +1,6 @@
 # dashscope/dashscope-sdk-python
 
-⭐ 82 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/dashscope/dashscope-sdk-python) · [官网](https://dashscope.github.io/dashscope-sdk-python/) · 组织维护 · 中文 README
+⭐ 83 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dashscope/dashscope-sdk-python) · [官网](https://dashscope.github.io/dashscope-sdk-python/) · 组织维护 · 中文 README
 
 **阿里云百炼 DashScope 官方 Python SDK，调用各类模型 API**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "dashscope/dashscope-sdk-python 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-13", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 79 --> 83
-    line [80, 81, 82, 82]
+    x-axis ["2026-11-11", "2026-11-13", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 79 --> 84
+    line [80, 81, 82, 83]
 ```
 
-2026-11-11 80 → 2026-11-25 82（+2）
+2026-11-11 80 → 2026-11-26 83（+3）
 
 
 ---

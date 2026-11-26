@@ -1,6 +1,6 @@
 # langgenius/graphon
 
-⭐ 90 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/langgenius/graphon) · 组织维护
+⭐ 90 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/langgenius/graphon) · 组织维护
 
 **面向 agentic AI 工作流的 Python 图执行引擎**
 
@@ -45,12 +45,12 @@ Graphon 是用于 agentic AI 工作流的 Python 图执行引擎：提供基于�
 ```mermaid
 xychart-beta
     title "langgenius/graphon 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-18", "2026-11-26"]
     y-axis "stars" 84 --> 91
     line [85, 86, 85, 86, 88, 89, 90, 90]
 ```
 
-2026-10-23 85 → 2026-11-25 90（+5）
+2026-10-24 85 → 2026-11-26 90（+5）
 
 
 ---

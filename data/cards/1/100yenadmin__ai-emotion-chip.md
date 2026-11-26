@@ -1,6 +1,6 @@
 # 100yenadmin/ai-emotion-chip
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/100yenadmin/ai-emotion-chip) · 个人维护
+⭐ 3 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/100yenadmin/ai-emotion-chip) · 个人维护
 
 **给 Hermes agent 生成语气标记并由 TTS 配音的插件**
 
@@ -45,12 +45,12 @@ Hermes Agent 插件：让 agent 在要朗读的文本中自行写入语气标记
 ```mermaid
 xychart-beta
     title "100yenadmin/ai-emotion-chip 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

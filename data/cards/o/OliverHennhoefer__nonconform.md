@@ -42,6 +42,18 @@ nonconform 是一个 Python 异常检测库：将现有检测器（PyOD、scikit
 > L22: anomalies there are. `nonconform` calibrates the scores of your existing detector
 > L84: With 95% probability over the calibration draw, the threshold flags at most 5%
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "OliverHennhoefer/nonconform 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 57 --> 59
+    line [58, 58]
+```
+
+2026-11-25 58 → 2026-11-26 58（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `dbd43ae0c568` · [字段定义](../../DATASET.md)*

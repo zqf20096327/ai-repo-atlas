@@ -1,6 +1,6 @@
 # topconstableinlet67/GitHub-Copilot-app
 
-⭐ 367 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topconstableinlet67/GitHub-Copilot-app) · 组织维护
+⭐ 361 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/topconstableinlet67/GitHub-Copilot-app) · 组织维护
 
 **管理 GitHub 仓库中 agent 开发工作的桌面应用**
 
@@ -45,13 +45,13 @@ GitHub 官方的 agent 桌面应用：面向开发者在一个控制中心内查
 
 ```mermaid
 xychart-beta
-    title "topconstableinlet67/GitHub-Copilot-app 星数(近 5 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 366 --> 376
-    line [375, 374, 373, 370, 367]
+    title "topconstableinlet67/GitHub-Copilot-app 星数(近 6 点)"
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 360 --> 376
+    line [375, 374, 373, 370, 367, 361]
 ```
 
-2026-11-15 375 → 2026-11-25 367（-8）
+2026-11-15 375 → 2026-11-26 361（-14）
 
 
 ---

@@ -1,6 +1,6 @@
 # catzoidhub/DialCatz
 
-⭐ 3 · TypeScript · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/catzoidhub/DialCatz) · [官网](https://catzoid.com/dialcatz) · 个人维护
+⭐ 3 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/catzoidhub/DialCatz) · [官网](https://catzoid.com/dialcatz) · 个人维护
 
 **开源 API 客户端：REST/GraphQL/WebSocket 调试与团队共享**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "catzoidhub/DialCatz 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-25 3（+0）
+2026-11-20 3 → 2026-11-26 3（+0）
 
 
 ---

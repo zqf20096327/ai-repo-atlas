@@ -1,6 +1,6 @@
 # TheoreticalEcology/s-jSDM
 
-⭐ 79 · R · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/TheoreticalEcology/s-jSDM) · [官网](https://cran.r-project.org/web/packages/sjSDM/index.html) · 组织维护
+⭐ 80 · R · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/TheoreticalEcology/s-jSDM) · [官网](https://cran.r-project.org/web/packages/sjSDM/index.html) · 组织维护
 
 **生态学研究者用的可扩展联合物种分布模型 R 包**
 
@@ -46,12 +46,12 @@ sjSDM 是估计联合物种分布模型（jSDM）的 R 包：以 GLMM 建模多�
 ```mermaid
 xychart-beta
     title "TheoreticalEcology/s-jSDM 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 78 --> 80
-    line [79, 79]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 78 --> 81
+    line [79, 80]
 ```
 
-2026-10-23 79 → 2026-11-25 79（+0）
+2026-10-24 79 → 2026-11-26 80（+1）
 
 
 ---

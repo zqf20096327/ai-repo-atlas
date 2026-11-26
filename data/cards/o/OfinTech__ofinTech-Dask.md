@@ -1,6 +1,6 @@
 # OfinTech/ofinTech-Dask
 
-⭐ 57 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OfinTech/ofinTech-Dask) · [官网](https://ofintech.ai/) · 组织维护
+⭐ 68 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/OfinTech/ofinTech-Dask) · [官网](https://ofintech.ai/) · 组织维护
 
 **面向财务/会计团队的 AI 工作台，每个数字可溯源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "OfinTech/ofinTech-Dask 星数(近 5 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 0 --> 62
-    line [3, 4, 45, 53, 57]
+    title "OfinTech/ofinTech-Dask 星数(近 6 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 74
+    line [3, 4, 45, 53, 57, 68]
 ```
 
-2026-11-18 3 → 2026-11-25 57（+54）
+2026-11-18 3 → 2026-11-26 68（+65）
 
 
 ---

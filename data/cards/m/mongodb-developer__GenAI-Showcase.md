@@ -1,6 +1,6 @@
 # mongodb-developer/GenAI-Showcase
 
-⭐ 4,262 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mongodb-developer/GenAI-Showcase) · [官网](https://www.mongodb.com/cloud/atlas/register) · 组织维护
+⭐ 4,263 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/mongodb-developer/GenAI-Showcase) · [官网](https://www.mongodb.com/cloud/atlas/register) · 组织维护
 
 **面向开发者的 MongoDB GenAI 示例与样例应用合集**
 
@@ -44,12 +44,12 @@ MongoDB 官方维护的生成式 AI 示例仓库，收录覆盖 RAG、AI Agents 
 ```mermaid
 xychart-beta
     title "mongodb-developer/GenAI-Showcase 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
     y-axis "stars" 4261 --> 4267
-    line [4266, 4264, 4265, 4266, 4264, 4266, 4265, 4264, 4263, 4262, 4262]
+    line [4266, 4264, 4265, 4266, 4264, 4266, 4265, 4264, 4263, 4262, 4263]
 ```
 
-2026-10-23 4,266 → 2026-11-25 4,262（-4）
+2026-10-24 4,266 → 2026-11-26 4,263（-3）
 
 
 ---

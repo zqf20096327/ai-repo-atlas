@@ -45,12 +45,12 @@ Julia 包，为 MLJ 框架中训练的有监督模型提供共形预测（Confor
 ```mermaid
 xychart-beta
     title "JuliaTrustworthyAI/ConformalPrediction.jl 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 147 --> 149
     line [148, 148]
 ```
 
-2026-10-23 148 → 2026-11-25 148（+0）
+2026-10-24 148 → 2026-11-26 148（+0）
 
 
 ---

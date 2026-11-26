@@ -1,6 +1,6 @@
 # string-os/string
 
-⭐ 78 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/string-os/string) · [官网](https://string-os.org) · 组织维护
+⭐ 78 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/string-os/string) · [官网](https://string-os.org) · 组织维护
 
 **AI agent 的应用框架与浏览器：统一界面操作文档、应用、网页与 shell**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "string-os/string 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-23 78 → 2026-11-25 78（+0）
+2026-10-24 78 → 2026-11-26 78（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # rinshadkk/selfbrowse
 
-⭐ 5 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/rinshadkk/selfbrowse) · [官网](https://rinshadkk.github.io/selfbrowse/) · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rinshadkk/selfbrowse) · [官网](https://rinshadkk.github.io/selfbrowse/) · 个人维护
 
 **给开发者的低 token 浏览器 agent：以编号清单代替 DOM/截图**
 
@@ -40,6 +40,18 @@
 > L10: Selfbrowse is an open-source Python browser agent for LLMs. It gives the model a short numbered list of page elemen
 > L25: **Less page.** The model reads each page as a short numbered list of what a person could click or type into, and an
 > L34: The model replies `click {"ref": 7}`. On 13 tasks with a local qwen3.8, the first model call averaged 1,128 tokens 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rinshadkk/selfbrowse 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
 
 
 ---

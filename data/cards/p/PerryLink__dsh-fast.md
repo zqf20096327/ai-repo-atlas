@@ -1,6 +1,6 @@
 # PerryLink/dsh-fast
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PerryLink/dsh-fast) · [官网](https://www.npmjs.com/package/dsh-fast) · 个人维护 · 中文 README
+⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/PerryLink/dsh-fast) · [官网](https://www.npmjs.com/package/dsh-fast) · 个人维护 · 中文 README
 
 **DeepSeek Harness 会话性能诊断插件：拆解延迟与缓存命中**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PerryLink/dsh-fast 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-25"]
+    title "PerryLink/dsh-fast 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 15
-    line [10, 11, 10, 11, 12, 13, 14]
+    line [10, 11, 10, 11, 12, 13, 14, 14]
 ```
 
-2026-10-23 10 → 2026-11-25 14（+4）
+2026-10-24 10 → 2026-11-26 14（+4）
 
 
 ---

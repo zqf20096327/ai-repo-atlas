@@ -41,6 +41,18 @@ PiAgents 是基于 Pi 框架的个人 AI 工作者协调系统：主路由会话
 > L83: |`packages/pi-web-bridge/`|Web mission control (127.0.0.1:7788) for the running session — coordinator conversation,
 > L98: One npm package plus eight locally vendored/local extensions (loaded directly from `packages/` so the running Pi al
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "yuyuan12138/Pi 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d1192505031e` · [字段定义](../../DATASET.md)*

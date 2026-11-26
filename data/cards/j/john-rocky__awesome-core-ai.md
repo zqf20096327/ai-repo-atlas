@@ -1,6 +1,6 @@
 # john-rocky/awesome-core-ai
 
-⭐ 11 · Python · 推送 2026-11-23 · [GitHub](https://github.com/john-rocky/awesome-core-ai) · [官网](https://john-rocky.github.io/core-ai/) · 个人维护
+⭐ 13 · Python · 推送 2026-11-23 · [GitHub](https://github.com/john-rocky/awesome-core-ai) · [官网](https://john-rocky.github.io/core-ai/) · 个人维护
 
 **Apple Core AI 框架资源策展清单：文档、模型、工具与教程**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "john-rocky/awesome-core-ai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

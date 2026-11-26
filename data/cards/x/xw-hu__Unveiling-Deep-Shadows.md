@@ -1,6 +1,6 @@
 # xw-hu/Unveiling-Deep-Shadows
 
-⭐ 109 · Python · 推送 2026-02-27 · [GitHub](https://github.com/xw-hu/Unveiling-Deep-Shadows) · [官网](https://arxiv.org/abs/2409.02108v3) · 组织维护 · 中文 README
+⭐ 110 · Python · 推送 2026-02-27 · [GitHub](https://github.com/xw-hu/Unveiling-Deep-Shadows) · [官网](https://arxiv.org/abs/2409.02108v3) · 组织维护 · 中文 README
 
 **图像/视频阴影检测、去除与生成的综述与基准仓库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "xw-hu/Unveiling-Deep-Shadows 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 108 --> 110
-    line [109, 109]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 108 --> 111
+    line [109, 110]
 ```
 
-2026-10-23 109 → 2026-11-25 109（+0）
+2026-10-24 109 → 2026-11-26 110（+1）
 
 
 ---

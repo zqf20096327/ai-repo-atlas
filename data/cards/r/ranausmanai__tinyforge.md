@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ranausmanai/tinyforge 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 70 --> 73
-    line [72, 71, 71]
+    title "ranausmanai/tinyforge 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 70 --> 72
+    line [71, 71]
 ```
 
-2026-10-23 72 → 2026-11-25 71（-1）
+2026-10-24 71 → 2026-11-26 71（+0）
 
 
 ---

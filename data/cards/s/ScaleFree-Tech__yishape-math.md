@@ -1,6 +1,6 @@
 # ScaleFree-Tech/yishape-math
 
-⭐ 235 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ScaleFree-Tech/yishape-math) · 组织维护 · 中文 README
+⭐ 233 · Java · Apache-2.0 · 推送 2026-10-22 · [GitHub](https://github.com/ScaleFree-Tech/yishape-math) · 组织维护 · 中文 README
 
 **Java 数学计算库：为开发者提供 NumPy 风格运算与 ML**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ScaleFree-Tech/yishape-math 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 234 --> 255
-    line [254, 252, 235, 236, 235, 235]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 231 --> 256
+    line [254, 252, 235, 236, 235, 233]
 ```
 
-2026-10-23 254 → 2026-11-25 235（-19）
+2026-10-24 254 → 2026-11-26 233（-21）
 
 
 ---

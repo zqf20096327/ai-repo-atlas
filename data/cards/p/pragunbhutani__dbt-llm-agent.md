@@ -45,12 +45,12 @@ Ragstar 连接 dbt 项目（dbt Cloud、GitHub 或 zip 上传），从模型与�
 ```mermaid
 xychart-beta
     title "pragunbhutani/dbt-llm-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 179 --> 181
     line [180, 180]
 ```
 
-2026-10-23 180 → 2026-11-25 180（+0）
+2026-10-24 180 → 2026-11-26 180（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # pjksens/heypip
 
-⭐ 11 · Swift · MIT · 推送 2026-10-15 · [GitHub](https://github.com/pjksens/heypip) · [官网](https://sachapraljak.com/?utm_source=github&utm_medium=repo&utm_campaign=heypip) · 个人维护
+⭐ 11 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/pjksens/heypip) · [官网](https://sachapraljak.com/?utm_source=github&utm_medium=repo&utm_campaign=heypip) · 个人维护
 
 **Mac 刘海实时会议转录工具，把对话喂给你的 AI agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pjksens/heypip 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 7 --> 12
     line [8, 9, 10, 9, 10, 11, 11]
 ```
 
-2026-10-23 8 → 2026-11-25 11（+3）
+2026-10-24 8 → 2026-11-26 11（+3）
 
 
 ---

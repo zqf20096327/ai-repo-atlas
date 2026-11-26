@@ -1,6 +1,6 @@
 # DuckCoding-dev/DuckCoding
 
-⭐ 142 · Rust · AGPL-3.0 · 推送 2026-02-19 · [GitHub](https://github.com/DuckCoding-dev/DuckCoding) · [官网](https://duckcoding.com) · 组织维护 · 中文 README
+⭐ 143 · Rust · AGPL-3.0 · 推送 2026-02-19 · [GitHub](https://github.com/DuckCoding-dev/DuckCoding) · [官网](https://duckcoding.com) · 组织维护 · 中文 README
 
 **一键安装配置 Claude Code/Codex/Gemini CLI 的跨平台桌面管理工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "DuckCoding-dev/DuckCoding 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "DuckCoding-dev/DuckCoding 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 141 --> 144
-    line [143, 142]
+    line [143, 142, 143]
 ```
 
-2026-10-23 143 → 2026-11-25 142（-1）
+2026-10-24 143 → 2026-11-26 143（+0）
 
 
 ---

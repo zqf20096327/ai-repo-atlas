@@ -1,6 +1,6 @@
 # lpalbou/mlx-gen
 
-⭐ 48 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lpalbou/mlx-gen) · [官网](http://www.lpalbou.info/mlx-gen/) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lpalbou/mlx-gen) · [官网](http://www.lpalbou.info/mlx-gen/) · 个人维护
 
 **Apple Silicon 本地图像/视频生成运行时（MLX）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lpalbou/mlx-gen 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-29", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 40 --> 49
-    line [41, 42, 43, 42, 44, 46, 47, 48, 48]
+    title "lpalbou/mlx-gen 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 41 --> 50
+    line [42, 43, 42, 44, 46, 47, 48, 49]
 ```
 
-2026-10-23 41 → 2026-11-25 48（+7）
+2026-10-24 42 → 2026-11-26 49（+7）
 
 
 ---

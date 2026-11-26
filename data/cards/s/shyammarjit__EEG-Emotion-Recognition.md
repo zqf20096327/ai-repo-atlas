@@ -1,6 +1,6 @@
 # shyammarjit/EEG-Emotion-Recognition
 
-⭐ 70 · Jupyter Notebook · MIT · 推送 2026-05-29 · [GitHub](https://github.com/shyammarjit/EEG-Emotion-Recognition) · [官网](https://ieeexplore.ieee.org/document/9588702) · 组织维护
+⭐ 71 · Jupyter Notebook · MIT · 推送 2026-05-29 · [GitHub](https://github.com/shyammarjit/EEG-Emotion-Recognition) · [官网](https://ieeexplore.ieee.org/document/9588702) · 组织维护
 
 **基于 GA 优化 MLP 的 EEG 情绪识别研究代码（IRIA 2021 论文）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "shyammarjit/EEG-Emotion-Recognition 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 69 --> 71
-    line [70, 70]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 69 --> 72
+    line [70, 71]
 ```
 
-2026-10-23 70 → 2026-11-25 70（+0）
+2026-10-24 70 → 2026-11-26 71（+1）
 
 
 ---

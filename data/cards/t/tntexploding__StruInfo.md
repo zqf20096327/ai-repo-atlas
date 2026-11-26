@@ -1,6 +1,6 @@
 # tntexploding/StruInfo
 
-⭐ 91 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tntexploding/StruInfo) · 个人维护 · 中文 README
+⭐ 92 · TypeScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/tntexploding/StruInfo) · 个人维护 · 中文 README
 
 **自托管个人知识库工作区：订阅/文档整理、检索、问答与报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tntexploding/StruInfo 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 90 --> 92
-    line [91, 91]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 90 --> 93
+    line [91, 92]
 ```
 
-2026-10-23 91 → 2026-11-25 91（+0）
+2026-10-24 91 → 2026-11-26 92（+1）
 
 
 ---

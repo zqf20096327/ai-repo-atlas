@@ -1,6 +1,6 @@
 # FanBroWell/AI-paper-reviewer
 
-⭐ 51 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/FanBroWell/AI-paper-reviewer) · 个人维护 · 中文 README
+⭐ 51 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/FanBroWell/AI-paper-reviewer) · 个人维护 · 中文 README
 
 **顶会论文投稿前自审的 prompt 工具箱（Claude/ChatGPT 可用）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FanBroWell/AI-paper-reviewer 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 45 --> 52
-    line [46, 47, 48, 47, 50, 51, 51]
+    title "FanBroWell/AI-paper-reviewer 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 46 --> 52
+    line [47, 48, 47, 50, 51, 51]
 ```
 
-2026-10-23 46 → 2026-11-25 51（+5）
+2026-10-24 47 → 2026-11-26 51（+4）
 
 
 ---

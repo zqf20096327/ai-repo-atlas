@@ -1,6 +1,6 @@
 # Deoroot/smak
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/Deoroot/smak) · 个人维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Deoroot/smak) · 个人维护
 
 **让 AI 编码代理读写 GoldSrc 游戏模型与地图的工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Deoroot/smak 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-25 3（+0）
+2026-11-16 3 → 2026-11-26 3（+0）
 
 
 ---

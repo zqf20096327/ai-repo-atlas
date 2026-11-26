@@ -1,6 +1,6 @@
 # neuron-core/maestro
 
-⭐ 40 · PHP · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/neuron-core/maestro) · 组织维护
+⭐ 41 · PHP · NOASSERTION · 推送 2026-06-19 · [GitHub](https://github.com/neuron-core/maestro) · 组织维护
 
 **PHP 编写的 CLI 编码 agent，交互式对话与工具审批**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "neuron-core/maestro 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 39 --> 41
-    line [40, 40]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 39 --> 42
+    line [40, 41]
 ```
 
-2026-10-23 40 → 2026-11-25 40（+0）
+2026-10-24 40 → 2026-11-26 41（+1）
 
 
 ---

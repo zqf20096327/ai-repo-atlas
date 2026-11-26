@@ -1,6 +1,6 @@
 # ArtyomITA/bonsai2-ternary-pascal
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ArtyomITA/bonsai2-ternary-pascal) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ArtyomITA/bonsai2-ternary-pascal) · 个人维护
 
 **让 Ternary Bonsai 2 9B 在 GTX 1080 上解码提速 51% 的 llama.cpp CUDA 补丁**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ArtyomITA/bonsai2-ternary-pascal 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 4（+1）
 
 
 ---

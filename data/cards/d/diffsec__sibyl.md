@@ -1,6 +1,6 @@
 # diffsec/sibyl
 
-⭐ 4 · Go · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/diffsec/sibyl) · 个人维护
+⭐ 4 · Go · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/diffsec/sibyl) · 个人维护
 
 **一体化私有 AI 推理服务器：把 GPU 主机变成本地 LLM 服务**
 
@@ -47,12 +47,12 @@ Sibyl 将一台或多 GPU 计算机部署为私有推理服务器，基于 Fedor
 ```mermaid
 xychart-beta
     title "diffsec/sibyl 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-25 4（+0）
+2026-11-08 4 → 2026-11-26 4（+0）
 
 
 ---

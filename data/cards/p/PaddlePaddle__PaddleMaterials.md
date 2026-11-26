@@ -1,6 +1,6 @@
 # PaddlePaddle/PaddleMaterials
 
-⭐ 130 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PaddlePaddle/PaddleMaterials) · [官网](https://paddlepaddle.github.io/PaddleMaterials/) · 组织维护 · 中文 README
+⭐ 131 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/PaddlePaddle/PaddleMaterials) · [官网](https://paddlepaddle.github.io/PaddleMaterials/) · 组织维护 · 中文 README
 
 **材料科学 AI 工具包：性质预测/结构生成/势函数/光谱解析**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "PaddlePaddle/PaddleMaterials 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 127 --> 131
-    line [128, 130, 130]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 127 --> 132
+    line [128, 130, 131]
 ```
 
-2026-10-23 128 → 2026-11-25 130（+2）
+2026-10-24 128 → 2026-11-26 131（+3）
 
 
 ---

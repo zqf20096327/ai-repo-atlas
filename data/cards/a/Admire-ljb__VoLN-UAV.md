@@ -1,6 +1,6 @@
 # Admire-ljb/VoLN-UAV
 
-⭐ 48 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Admire-ljb/VoLN-UAV) · 组织维护 · 中文 README
+⭐ 66 · Python · MIT · 推送 2026-08-04 · [GitHub](https://github.com/Admire-ljb/VoLN-UAV) · 组织维护 · 中文 README
 
 **视觉长时程无人机导航的基准与 VoLN-MLLM 智能体官方代码**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Admire-ljb/VoLN-UAV 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 45 --> 49
-    line [46, 47, 46, 48, 48]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 44 --> 68
+    line [46, 47, 46, 48, 66]
 ```
 
-2026-10-23 46 → 2026-11-25 48（+2）
+2026-10-24 46 → 2026-11-26 66（+20）
 
 
 ---

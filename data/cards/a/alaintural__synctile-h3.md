@@ -1,6 +1,6 @@
 # alaintural/synctile-h3
 
-⭐ 26 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/alaintural/synctile-h3) · [官网](https://pixedi.com/lab/minimax-h3-4k-synctile) · 个人维护
+⭐ 28 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/alaintural/synctile-h3) · [官网](https://pixedi.com/lab/minimax-h3-4k-synctile) · 个人维护
 
 **在单卡 RTX 4090 上加速 MiniMax H3 生成并输出无接缝 4K 视频的脚本**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "alaintural/synctile-h3 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 12 --> 27
-    line [13, 14, 22, 24, 25, 26]
+    title "alaintural/synctile-h3 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 12 --> 29
+    line [13, 14, 22, 24, 25, 26, 28]
 ```
 
-2026-10-23 13 → 2026-11-25 26（+13）
+2026-10-24 13 → 2026-11-26 28（+15）
 
 
 ---

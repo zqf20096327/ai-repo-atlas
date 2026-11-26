@@ -1,6 +1,6 @@
 # haolpku/Awesome-LLM-Data-Preparation
 
-⭐ 12 · Shell · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/haolpku/Awesome-LLM-Data-Preparation) · [官网](https://link.springer.com/article/10.1007/s11390-026-5948-8) · 组织维护 · 中文 README
+⭐ 13 · Shell · NOASSERTION · 推送 2026-04-28 · [GitHub](https://github.com/haolpku/Awesome-LLM-Data-Preparation) · [官网](https://link.springer.com/article/10.1007/s11390-026-5948-8) · 组织维护 · 中文 README
 
 **LLM 数据准备综述配套论文/数据集策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haolpku/Awesome-LLM-Data-Preparation 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 10 --> 13
-    line [11, 12, 11, 12, 12]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 10 --> 14
+    line [11, 12, 11, 12, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

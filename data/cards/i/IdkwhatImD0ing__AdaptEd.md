@@ -46,12 +46,12 @@ LA Hacks 2024 获奖项目（Google Gemini Challenge 第一名、Fetch.ai Agenti
 ```mermaid
 xychart-beta
     title "IdkwhatImD0ing/AdaptEd 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 19 --> 21
     line [20, 20]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 20（+0）
 
 
 ---

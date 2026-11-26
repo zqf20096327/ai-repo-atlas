@@ -1,6 +1,6 @@
 # hexjasur/AGENTS.md
 
-⭐ 6 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hexjasur/AGENTS.md) · 个人维护
+⭐ 3 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/hexjasur/AGENTS.md) · 个人维护
 
 **为开发者向 AI 编码代理一键安装项目规则与技能包**
 
@@ -46,12 +46,12 @@ npm CLI 工具，将 AGENTS.md 项目级约定与 17 个 Agent Skills（覆盖 R
 ```mermaid
 xychart-beta
     title "hexjasur/AGENTS.md 星数(近 4 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 3 --> 7
-    line [4, 5, 6, 6]
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [4, 5, 6, 3]
 ```
 
-2026-11-10 4 → 2026-11-25 6（+2）
+2026-11-10 4 → 2026-11-26 3（-1）
 
 
 ---

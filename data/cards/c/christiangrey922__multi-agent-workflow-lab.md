@@ -1,6 +1,6 @@
 # christiangrey922/multi-agent-workflow-lab
 
-⭐ 86 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/christiangrey922/multi-agent-workflow-lab) · 个人维护
+⭐ 87 · TypeScript · MIT · 推送 2026-08-14 · [GitHub](https://github.com/christiangrey922/multi-agent-workflow-lab) · 个人维护
 
 **多智能体委派与工作流的开源测试与可观测框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "christiangrey922/multi-agent-workflow-lab 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 84 --> 87
-    line [85, 86, 85, 86, 85, 86]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 84 --> 88
+    line [86, 85, 86, 85, 86, 87]
 ```
 
-2026-10-23 85 → 2026-11-25 86（+1）
+2026-10-24 86 → 2026-11-26 87（+1）
 
 
 ---

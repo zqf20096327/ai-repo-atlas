@@ -1,6 +1,6 @@
 # BraaMohammed/bricks
 
-⭐ 74 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/BraaMohammed/bricks) · [官网](https://usebricks.xyz) · 个人维护
+⭐ 75 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/BraaMohammed/bricks) · [官网](https://usebricks.xyz) · 个人维护
 
 **本地自托管的 Clay.com 替代表格：数据 enrichment 与外联自动化**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BraaMohammed/bricks 星数(近 3 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 72 --> 75
-    line [73, 74, 74]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 72 --> 76
+    line [73, 74, 75]
 ```
 
-2026-11-21 73 → 2026-11-25 74（+1）
+2026-11-21 73 → 2026-11-26 75（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # BKDDFS/PerfectFrameAI
 
-⭐ 44 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/BKDDFS/PerfectFrameAI) · 个人维护
+⭐ 45 · Python · NOASSERTION · 推送 2026-09-18 · [GitHub](https://github.com/BKDDFS/PerfectFrameAI) · 个人维护
 
 **用 NIMA 模型从视频/图集中自动挑出最美帧的 Docker 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BKDDFS/PerfectFrameAI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 43 --> 45
-    line [44, 44]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 43 --> 46
+    line [44, 45]
 ```
 
-2026-10-23 44 → 2026-11-25 44（+0）
+2026-10-24 44 → 2026-11-26 45（+1）
 
 
 ---

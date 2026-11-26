@@ -1,6 +1,6 @@
 # pinky39/grove
 
-⭐ 132 · C# · GPL-3.0 · 推送 2026-04-14 · [GitHub](https://github.com/pinky39/grove) · 个人维护
+⭐ 133 · C# · GPL-3.0 · 推送 2026-04-14 · [GitHub](https://github.com/pinky39/grove) · 个人维护
 
 **万智牌电脑对弈游戏：实现能与休闲玩家对战的 AI**
 
@@ -45,12 +45,12 @@ C#/WPF 实现的《Magic: The Gathering》卡牌游戏，玩家在 Windows 上�
 ```mermaid
 xychart-beta
     title "pinky39/grove 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 131 --> 133
-    line [132, 132]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 131 --> 134
+    line [132, 133]
 ```
 
-2026-10-23 132 → 2026-11-25 132（+0）
+2026-10-24 132 → 2026-11-26 133（+1）
 
 
 ---

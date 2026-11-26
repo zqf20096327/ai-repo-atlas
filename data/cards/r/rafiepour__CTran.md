@@ -1,6 +1,6 @@
 # rafiepour/CTran
 
-⭐ 31 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/rafiepour/CTran) · [官网](https://github.com/rafiepour/CTran) · 个人维护
+⭐ 32 · Jupyter Notebook · Apache-2.0 · 推送 2026-06-21 · [GitHub](https://github.com/rafiepour/CTran) · [官网](https://github.com/rafiepour/CTran) · 个人维护
 
 **面向 NLU 的 CNN-Transformer 联合意图识别与槽填充模型实现**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "rafiepour/CTran 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-10-23 31 → 2026-11-25 31（+0）
+2026-10-24 31 → 2026-11-26 32（+1）
 
 
 ---

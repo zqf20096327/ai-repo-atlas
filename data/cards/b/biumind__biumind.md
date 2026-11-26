@@ -1,6 +1,6 @@
 # biumind/biumind
 
-⭐ 33 · Go · NOASSERTION · 推送 2026-11-02 · [GitHub](https://github.com/biumind/biumind) · [官网](https://biumind.xxlab.tech) · 组织维护 · 中文 README
+⭐ 33 · Go · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/biumind/biumind) · [官网](https://biumind.xxlab.tech) · 组织维护 · 中文 README
 
 **一体化 AI 工作平台：文档、Agent、编码、笔记统一工作台**
 
@@ -46,12 +46,12 @@ BiuMind 将写文档、跑 Agent、写代码、做笔记收进同一个工作台
 ```mermaid
 xychart-beta
     title "biumind/biumind 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
     y-axis "stars" 31 --> 34
     line [32, 33, 33]
 ```
 
-2026-10-23 32 → 2026-11-25 33（+1）
+2026-10-24 32 → 2026-11-26 33（+1）
 
 
 ---

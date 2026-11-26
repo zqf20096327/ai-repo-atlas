@@ -1,6 +1,6 @@
 # ansh07verma/fpga-mini-npu
 
-⭐ 11 · Verilog · 推送 2026-05-25 · [GitHub](https://github.com/ansh07verma/fpga-mini-npu) · 个人维护
+⭐ 12 · Verilog · 推送 2026-05-25 · [GitHub](https://github.com/ansh07verma/fpga-mini-npu) · 个人维护
 
 **教学用 FPGA NPU：Verilog 实现的 INT8 脉动阵列 CNN 加速器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ansh07verma/fpga-mini-npu 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

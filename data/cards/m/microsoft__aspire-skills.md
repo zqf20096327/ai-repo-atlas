@@ -1,6 +1,6 @@
 # microsoft/aspire-skills
 
-⭐ 97 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/aspire-skills) · [官网](https://aspire.dev/get-started/aspire-skills/) · 组织维护
+⭐ 98 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/microsoft/aspire-skills) · [官网](https://aspire.dev/get-started/aspire-skills/) · 组织维护
 
 **微软官方 Aspire 技能包：让 AI 编码代理正确操作 Aspire 分布式应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/aspire-skills 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 91 --> 98
-    line [92, 93, 92, 93, 94, 95, 96, 97, 97]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 91 --> 99
+    line [92, 93, 92, 93, 94, 95, 96, 97, 98]
 ```
 
-2026-10-23 92 → 2026-11-25 97（+5）
+2026-10-24 92 → 2026-11-26 98（+6）
 
 
 ---

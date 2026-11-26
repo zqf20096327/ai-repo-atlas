@@ -1,6 +1,6 @@
 # Project-AgML/AgML
 
-⭐ 355 · Python · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/Project-AgML/AgML) · [官网](https://project-agml.github.io) · 组织维护
+⭐ 355 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Project-AgML/AgML) · [官网](https://project-agml.github.io) · 组织维护
 
 **农业机器学习库：统一访问公共农业数据集与标准标注**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Project-AgML/AgML 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-26"]
     y-axis "stars" 349 --> 356
     line [350, 352, 353, 354, 355, 355]
 ```
 
-2026-10-23 350 → 2026-11-25 355（+5）
+2026-10-24 350 → 2026-11-26 355（+5）
 
 
 ---

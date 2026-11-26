@@ -1,6 +1,6 @@
 # yavno/speech-text
 
-⭐ 3 · Swift · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/yavno/speech-text) · [官网](https://speech-text.app/) · 个人维护
+⭐ 3 · Swift · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/yavno/speech-text) · [官网](https://speech-text.app/) · 个人维护
 
 **macOS 全局语音输入工具：按键说话，文字落至光标处**
 
@@ -47,12 +47,12 @@ macOS 菜单栏应用：按住快捷键说话，松开后转写文本直接插�
 ```mermaid
 xychart-beta
     title "yavno/speech-text 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-13 3 → 2026-11-25 3（+0）
+2026-11-13 3 → 2026-11-26 3（+0）
 
 
 ---

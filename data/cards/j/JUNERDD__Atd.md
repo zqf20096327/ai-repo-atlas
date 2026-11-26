@@ -1,6 +1,6 @@
 # JUNERDD/Atd
 
-⭐ 57 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/JUNERDD/Atd) · [官网](https://atd.best) · 个人维护
+⭐ 57 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/JUNERDD/Atd) · [官网](https://atd.best) · 个人维护
 
 **macOS 开源桌面 AI 代理：对话、computer use、MCP 与自动化**
 
@@ -45,13 +45,13 @@ Atd 是运行于 macOS 15+ 的开源桌面 AI 代理应用，通过 ⌘⇧ Space
 
 ```mermaid
 xychart-beta
-    title "JUNERDD/Atd 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    title "JUNERDD/Atd 星数(近 3 点)"
+    x-axis ["2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 56 --> 59
-    line [58, 57]
+    line [58, 57, 57]
 ```
 
-2026-11-21 58 → 2026-11-25 57（-1）
+2026-11-21 58 → 2026-11-26 57（-1）
 
 
 ---

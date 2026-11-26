@@ -1,6 +1,6 @@
 # samukbg/Jarvis-Live
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/samukbg/Jarvis-Live) · [官网](https://jarvis-live.xyz) · 个人维护
 
 **自托管实时语音 AI 助手：照片级虚拟形象+委派编码 Agent 执行任务**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "samukbg/Jarvis-Live 星数(近 5 点)"
-    x-axis ["2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20"]
-    y-axis "stars" 3 --> 8
-    line [4, 5, 6, 7, 7]
+    x-axis ["2026-11-12", "2026-11-14", "2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 3 --> 12
+    line [4, 5, 6, 7, 11]
 ```
 
-2026-11-12 4 → 2026-11-20 7（+3）
+2026-11-12 4 → 2026-11-26 11（+7）
 
 
 ---

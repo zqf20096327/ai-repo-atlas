@@ -1,6 +1,6 @@
 # SnowWarri0r/lingxi
 
-⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SnowWarri0r/lingxi) · 个人维护 · 中文 README
+⭐ 20 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/SnowWarri0r/lingxi) · 个人维护 · 中文 README
 
 **有生活节奏与记忆的虚拟人格 agent，可自定义人设对话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "SnowWarri0r/lingxi 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
     y-axis "stars" 18 --> 21
     line [19, 20, 20]
 ```
 
-2026-10-23 19 → 2026-11-25 20（+1）
+2026-10-24 19 → 2026-11-26 20（+1）
 
 
 ---

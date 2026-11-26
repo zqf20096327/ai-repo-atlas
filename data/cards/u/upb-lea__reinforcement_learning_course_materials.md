@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "upb-lea/reinforcement_learning_course_materials 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 1198 --> 1202
-    line [1199, 1200, 1201, 1200, 1200]
+    title "upb-lea/reinforcement_learning_course_materials 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 1199 --> 1202
+    line [1200, 1201, 1200, 1200]
 ```
 
-2026-10-23 1,199 → 2026-11-25 1,200（+1）
+2026-10-24 1,200 → 2026-11-26 1,200（+0）
 
 
 ---

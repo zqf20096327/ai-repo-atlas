@@ -1,6 +1,6 @@
 # fru-dev3/glyph-engine
 
-⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-12 · [GitHub](https://github.com/fru-dev3/glyph-engine) · [官网](https://glyph.fru.dev/studio) · 个人维护
+⭐ 10 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/fru-dev3/glyph-engine) · [官网](https://glyph.fru.dev/studio) · 个人维护
 
 **终端驾驶舱：把一个问题并行问多个 AI CLI 并汇总裁决**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fru-dev3/glyph-engine 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-25 10（+0）
+2026-10-26 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # leminhnguyen/ai-speech-engineer-roadmap
 
-⭐ 52 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/leminhnguyen/ai-speech-engineer-roadmap) · 个人维护
+⭐ 52 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/leminhnguyen/ai-speech-engineer-roadmap) · 个人维护
 
 **语音 AI 工程师学习路线图：课程、论文与动手教程合集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "leminhnguyen/ai-speech-engineer-roadmap 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 47 --> 53
     line [48, 49, 50, 48, 51, 52, 52]
 ```
 
-2026-10-23 48 → 2026-11-25 52（+4）
+2026-10-24 48 → 2026-11-26 52（+4）
 
 
 ---

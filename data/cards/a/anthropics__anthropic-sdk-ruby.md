@@ -1,6 +1,6 @@
 # anthropics/anthropic-sdk-ruby
 
-⭐ 378 · Ruby · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/anthropics/anthropic-sdk-ruby) · 组织维护
+⭐ 378 · Ruby · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/anthropics/anthropic-sdk-ruby) · 组织维护
 
 **Ruby 应用接入 Claude API 的官方 SDK**
 
@@ -43,13 +43,13 @@ Anthropic 官方维护的 Ruby 语言 SDK，让 Ruby 应用能够访问 Claude A
 
 ```mermaid
 xychart-beta
-    title "anthropics/anthropic-sdk-ruby 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-25"]
+    title "anthropics/anthropic-sdk-ruby 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26"]
     y-axis "stars" 375 --> 381
-    line [376, 377, 376, 378, 379, 380, 379, 378]
+    line [376, 377, 376, 378, 379, 380, 379, 378, 378]
 ```
 
-2026-10-23 376 → 2026-11-25 378（+2）
+2026-10-24 376 → 2026-11-26 378（+2）
 
 
 ---

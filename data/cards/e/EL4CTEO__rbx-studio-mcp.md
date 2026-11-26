@@ -1,6 +1,6 @@
 # EL4CTEO/rbx-studio-mcp
 
-⭐ 19 · Luau · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EL4CTEO/rbx-studio-mcp) · [官网](https://www.npmjs.com/package/@el4cteo/rbx-studio-mcp) · 个人维护
+⭐ 20 · Luau · MIT · 推送 2026-11-23 · [GitHub](https://github.com/EL4CTEO/rbx-studio-mcp) · [官网](https://www.npmjs.com/package/@el4cteo/rbx-studio-mcp) · 个人维护
 
 **让 AI agent 操作 Roblox Studio 的 MCP 服务器（35 个工具）**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "EL4CTEO/rbx-studio-mcp 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 10 --> 20
-    line [11, 12, 13, 14, 11, 14, 15, 16, 19]
+    title "EL4CTEO/rbx-studio-mcp 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-20", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 21
+    line [11, 12, 13, 14, 11, 14, 15, 16, 19, 20]
 ```
 
-2026-10-23 11 → 2026-11-25 19（+8）
+2026-10-24 11 → 2026-11-26 20（+9）
 
 
 ---

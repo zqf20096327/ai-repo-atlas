@@ -1,6 +1,6 @@
 # varpsilon/hazzel
 
-⭐ 31 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/varpsilon/hazzel) · [官网](https://agenthazzel.vercel.app) · 个人维护
+⭐ 32 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/varpsilon/hazzel) · [官网](https://agenthazzel.vercel.app) · 个人维护
 
 **终端里的代码编辑 agent，BYOK 无订阅，写盘前 diff 确认**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "varpsilon/hazzel 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 30 --> 32
-    line [31, 31]
+    x-axis ["2026-11-23", "2026-11-26"]
+    y-axis "stars" 30 --> 33
+    line [31, 32]
 ```
 
-2026-11-23 31 → 2026-11-25 31（+0）
+2026-11-23 31 → 2026-11-26 32（+1）
 
 
 ---

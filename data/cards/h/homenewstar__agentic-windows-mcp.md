@@ -1,6 +1,6 @@
 # homenewstar/agentic-windows-mcp
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/homenewstar/agentic-windows-mcp) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/homenewstar/agentic-windows-mcp) · 个人维护
 
 **让任意 AI agent 远程安全控制 Windows PC 的 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "homenewstar/agentic-windows-mcp 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-10", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-10 3 → 2026-11-25 4（+1）
+2026-11-10 3 → 2026-11-26 5（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # nearmap/nmaipy
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/nearmap/nmaipy) · 组织维护
+⭐ 21 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/nearmap/nmaipy) · 组织维护
 
 **从 Nearmap 航拍影像 API 提取建筑、屋顶、灾害等 AI 特征的 Python 库**
 
@@ -40,6 +40,18 @@ nmaipy 是 Nearmap AI 的 Python 工具库：通过 Feature API、RoofAgeApi、D
 
 > L5: Extract building footprints, vegetation, damage assessments, roof condition, and other AI features from Nearmap's ae
 > L31: The repository ships with a 10-property smoke-test script (`run_10_test.py`) that extracts building features and ro
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "nearmap/nmaipy 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 20 --> 22
+    line [21, 21]
+```
+
+2026-11-25 21 → 2026-11-26 21（+0）
 
 
 ---

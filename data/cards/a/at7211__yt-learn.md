@@ -1,6 +1,6 @@
 # at7211/yt-learn
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-10 · [GitHub](https://github.com/at7211/yt-learn) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/at7211/yt-learn) · 个人维护 · 中文 README
 
 **把 YouTube 影片生成本地英文課：雙字幕＋單字＋複習卡**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "at7211/yt-learn 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-08 3 → 2026-11-25 5（+2）
+2026-11-08 3 → 2026-11-26 5（+2）
 
 
 ---

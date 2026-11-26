@@ -1,6 +1,6 @@
 # zhihongz/awesome-low-light-image-enhancement
 
-⭐ 1,858 · MATLAB · 推送 2026-11-02 · [GitHub](https://github.com/zhihongz/awesome-low-light-image-enhancement) · 个人维护
+⭐ 1,859 · MATLAB · 推送 2026-11-02 · [GitHub](https://github.com/zhihongz/awesome-low-light-image-enhancement) · 个人维护
 
 **低光照图像增强研究资源清单：数据集/论文/代码/指标**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "zhihongz/awesome-low-light-image-enhancement 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
     y-axis "stars" 1854 --> 1860
-    line [1855, 1856, 1857, 1855, 1858, 1859, 1858, 1858]
+    line [1855, 1856, 1857, 1855, 1858, 1859, 1858, 1859]
 ```
 
-2026-10-23 1,855 → 2026-11-25 1,858（+3）
+2026-10-24 1,855 → 2026-11-26 1,859（+4）
 
 
 ---

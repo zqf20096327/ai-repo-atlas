@@ -1,6 +1,6 @@
 # Endorpheen/Igorek-Harness
 
-⭐ 3 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/Endorpheen/Igorek-Harness) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **个人 AI agent 工作区：桌面、Android 与终端多端控制同一 agent**
 
@@ -11,7 +11,7 @@ Electron 桌面应用，将对话、文件读写、agent 工具调用、操作�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

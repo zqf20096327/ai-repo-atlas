@@ -1,6 +1,6 @@
 # BeforeLanding/mini-DSH
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BeforeLanding/mini-DSH) · [官网](https://github.com/BeforeLanding/mini-DSH/releases) · 组织维护 · 中文 README
+⭐ 21 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BeforeLanding/mini-DSH) · [官网](https://github.com/BeforeLanding/mini-DSH/releases) · 组织维护 · 中文 README
 
 **本地代码仓库的 CLI 编程 Agent，支持恢复与预算控制**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BeforeLanding/mini-DSH 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 9 --> 21
-    line [10, 20, 20]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 9 --> 22
+    line [10, 20, 21]
 ```
 
-2026-11-18 10 → 2026-11-25 20（+10）
+2026-11-18 10 → 2026-11-26 21（+11）
 
 
 ---

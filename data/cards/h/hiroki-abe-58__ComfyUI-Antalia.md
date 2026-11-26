@@ -1,6 +1,6 @@
 # hiroki-abe-58/ComfyUI-Antalia
 
-⭐ — · [GitHub]() · 个人维护
+⭐ 5 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/hiroki-abe-58/ComfyUI-Antalia) · 个人维护
 
 **在 ComfyUI 中调用土耳其语 TTS 模型 Antalia-2 Mini 的节点包**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | — |
+| 许可风险 | `permissive` | MIT |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hiroki-abe-58/ComfyUI-Antalia 星数(近 4 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-11", "2026-11-24"]
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-10-30 3 → 2026-11-24 5（+2）
+2026-10-30 3 → 2026-11-26 5（+2）
 
 
 ---

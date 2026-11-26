@@ -44,12 +44,12 @@ D-Wave 出品的 scikit-learn 插件包，提供 SelectFromQuadraticModel 转换
 ```mermaid
 xychart-beta
     title "dwavesystems/dwave-scikit-learn-plugin 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

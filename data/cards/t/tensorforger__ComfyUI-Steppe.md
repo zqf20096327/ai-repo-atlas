@@ -1,6 +1,6 @@
 # tensorforger/ComfyUI-Steppe
 
-⭐ 19 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/tensorforger/ComfyUI-Steppe) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tensorforger/ComfyUI-Steppe) · 组织维护
 
 **ComfyUI 潜空间生成式放大节点：图像视频 2×/4× 上采样与 2× 帧率**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tensorforger/ComfyUI-Steppe 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 8 --> 20
-    line [9, 19]
+    title "tensorforger/ComfyUI-Steppe 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 7 --> 31
+    line [9, 19, 29]
 ```
 
-2026-11-23 9 → 2026-11-25 19（+10）
+2026-11-23 9 → 2026-11-26 29（+20）
 
 
 ---

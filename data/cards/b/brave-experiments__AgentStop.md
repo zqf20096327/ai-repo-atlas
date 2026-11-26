@@ -1,6 +1,6 @@
 # brave-experiments/AgentStop
 
-⭐ 18 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/brave-experiments/AgentStop) · [官网](https://brave.com/blog/agentstop/) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/brave-experiments/AgentStop) · [官网](https://brave.com/blog/agentstop/) · 组织维护
 
 **本地 AI agent 提前终止的节能研究代码与数据集**
 
@@ -46,12 +46,12 @@ ACM CAIS '26 论文 'AgentStop: Terminating Local AI Agents Early to Save Energy
 ```mermaid
 xychart-beta
     title "brave-experiments/AgentStop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

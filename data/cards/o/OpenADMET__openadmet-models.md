@@ -1,6 +1,6 @@
 # OpenADMET/openadmet-models
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenADMET/openadmet-models) · [官网](https://docs.openadmet.org/en/latest/) · 组织维护
+⭐ 63 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/OpenADMET/openadmet-models) · [官网](https://docs.openadmet.org/en/latest/) · 组织维护
 
 **面向药物 ADMET 性质预测的机器学习建模库**
 
@@ -44,13 +44,13 @@ OpenADMET 项目的模型实现库，提供用于 ADMET（吸收、分布、代�
 
 ```mermaid
 xychart-beta
-    title "OpenADMET/openadmet-models 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 59 --> 64
-    line [60, 61, 62, 61, 63, 62, 62]
+    title "OpenADMET/openadmet-models 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 60 --> 64
+    line [61, 62, 61, 63, 62, 63]
 ```
 
-2026-10-23 60 → 2026-11-25 62（+2）
+2026-10-24 61 → 2026-11-26 63（+2）
 
 
 ---

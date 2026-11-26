@@ -1,6 +1,6 @@
 # GPuntobit/triad2.0
 
-⭐ 4 · Shell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/GPuntobit/triad2.0) · 个人维护
+⭐ 3 · Shell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/GPuntobit/triad2.0) · 个人维护
 
 **独立编程语言：规范+一致性测试+编辑器工具链**
 
@@ -45,12 +45,12 @@ Triad 2.0 是一门独立编程语言，语法特性包括块结构、声明类�
 ```mermaid
 xychart-beta
     title "GPuntobit/triad2.0 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    line [3, 4, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # jiiim/llmenubar
 
-⭐ 3 · Swift · MIT · 推送 2026-11-22 · [GitHub](https://github.com/jiiim/llmenubar) · [官网](https://llmenubar.app/) · 个人维护
+⭐ 5 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jiiim/llmenubar) · [官网](https://llmenubar.app/) · 个人维护
 
 **macOS 菜单栏应用，管理本地推理引擎的启停与配置**
 
@@ -45,12 +45,12 @@ LLMenuBar 是原生 macOS 菜单栏应用，用于启动、停止和配置用户
 ```mermaid
 xychart-beta
     title "jiiim/llmenubar 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 5]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 5（+2）
 
 
 ---

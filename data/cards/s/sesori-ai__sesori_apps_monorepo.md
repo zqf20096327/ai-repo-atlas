@@ -1,6 +1,6 @@
 # sesori-ai/sesori_apps_monorepo
 
-⭐ 144 · Dart · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/sesori-ai/sesori_apps_monorepo) · [官网](https://sesori.com) · 组织维护
+⭐ 144 · Dart · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/sesori-ai/sesori_apps_monorepo) · [官网](https://sesori.com) · 组织维护
 
 **手机远程驾驶本机 AI 编程 agent 的移动客户端+Bridge CLI**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "sesori-ai/sesori_apps_monorepo 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-25"]
+    title "sesori-ai/sesori_apps_monorepo 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-14", "2026-11-25", "2026-11-26"]
     y-axis "stars" 135 --> 145
-    line [136, 137, 138, 139, 138, 136, 140, 141, 142, 143, 144]
+    line [136, 137, 138, 139, 138, 136, 140, 141, 142, 143, 144, 144]
 ```
 
-2026-10-23 136 → 2026-11-25 144（+8）
+2026-10-24 136 → 2026-11-26 144（+8）
 
 
 ---

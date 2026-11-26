@@ -1,6 +1,6 @@
 # LeoYeAI/talewell
 
-⭐ 550 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/LeoYeAI/talewell) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
+⭐ 549 · JavaScript · MIT · 推送 2026-10-01 · [GitHub](https://github.com/LeoYeAI/talewell) · [官网](https://myclaw.ai) · 组织维护 · 中文 README
 
 **面向各类 agent 平台的插件式长期记忆层，AMP 协议参考实现**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "LeoYeAI/talewell 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 548 --> 551
-    line [550, 549, 550, 550]
+    line [550, 549, 550, 549]
 ```
 
-2026-10-23 550 → 2026-11-25 550（+0）
+2026-10-24 550 → 2026-11-26 549（-1）
 
 
 ---

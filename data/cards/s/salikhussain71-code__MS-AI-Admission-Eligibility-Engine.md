@@ -43,13 +43,13 @@ Python 编写的资格评估引擎：将 MBZUAI、KAUST、LUMS 等院校硕士�
 
 ```mermaid
 xychart-beta
-    title "salikhussain71-code/MS-AI-Admission-Eligibility-Engine 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-25"]
+    title "salikhussain71-code/MS-AI-Admission-Eligibility-Engine 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-23", "2026-11-26"]
     y-axis "stars" 113 --> 117
-    line [116, 115, 114, 115, 116, 116]
+    line [115, 114, 115, 116, 116]
 ```
 
-2026-10-23 116 → 2026-11-25 116（+0）
+2026-10-24 115 → 2026-11-26 116（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # WorBHacker/AFO
 
-⭐ 3 · Python · GPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/WorBHacker/AFO) · 个人维护
+⭐ 3 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/WorBHacker/AFO) · 个人维护
 
 **Windows 本地 AI 生态：管理项目/终端/模型的枢纽加轻量桌面窗口**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "WorBHacker/AFO 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-16 3 → 2026-11-25 3（+0）
+2026-11-16 3 → 2026-11-26 3（+0）
 
 
 ---

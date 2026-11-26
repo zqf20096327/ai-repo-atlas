@@ -1,6 +1,6 @@
 # anandapurva55/agentic-claims-adjudication-aws
 
-⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anandapurva55/agentic-claims-adjudication-aws) · [官网](https://anandapurva55.github.io/agentic-claims-adjudication-aws/) · 个人维护
+⭐ 23 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/anandapurva55/agentic-claims-adjudication-aws) · [官网](https://anandapurva55.github.io/agentic-claims-adjudication-aws/) · 个人维护
 
 **面向车险理赔审核员的多智能体理赔裁决系统**
 
@@ -40,6 +40,18 @@
 > L25: This project helps an insurance adjuster decide a motor insurance claim. A claim arrives as a claim form, a repair 
 > L30: 4. **A team of AI agents reads the claim.** **Strands Agents** does the orchestration. It builds each agent on a mo
 > L33: 7. **A person decides.** The recommendation appears in the app as it is produced. The adjuster accepts it, override
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anandapurva55/agentic-claims-adjudication-aws 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 21 --> 24
+    line [22, 23]
+```
+
+2026-11-25 22 → 2026-11-26 23（+1）
 
 
 ---

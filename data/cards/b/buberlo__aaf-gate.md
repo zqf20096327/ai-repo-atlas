@@ -1,6 +1,6 @@
 # buberlo/aaf-gate
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/buberlo/aaf-gate) · 个人维护
+⭐ 6 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/buberlo/aaf-gate) · 个人维护
 
 **为 AI agent 运行时提供确定性策略门控与审计的组件**
 
@@ -39,6 +39,18 @@ aaf-gate 是部署在既有 AI agent 运行时（主要为 Hermes Agent，锁定
 
 > L7: Deterministic policy gate, kill switch, call limits and tamper-evident audit for existing AI agent runtimes. **Not a
 > L13: aaf-gate sits in front of tool calls and applies a deterministic policy per tool class:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "buberlo/aaf-gate 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-25 5 → 2026-11-26 6（+1）
 
 
 ---

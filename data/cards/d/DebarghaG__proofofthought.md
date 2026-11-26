@@ -1,6 +1,6 @@
 # DebarghaG/proofofthought
 
-⭐ 378 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DebarghaG/proofofthought) · [官网](https://debarghag.github.io/proofofthought/) · 组织维护
+⭐ 379 · Python · MIT · 推送 2026-10-31 · [GitHub](https://github.com/DebarghaG/proofofthought) · [官网](https://debarghag.github.io/proofofthought/) · 组织维护
 
 **用 Z3 定理证明为 LLM 推理提供可验证输出的 Python 库**
 
@@ -45,13 +45,13 @@ Python 库，将 LLM 推理任务编码为 SMT 程序并交由 Z3 求解，输�
 
 ```mermaid
 xychart-beta
-    title "DebarghaG/proofofthought 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 376 --> 379
-    line [377, 378]
+    title "DebarghaG/proofofthought 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 376 --> 380
+    line [377, 378, 379]
 ```
 
-2026-10-23 377 → 2026-11-25 378（+1）
+2026-10-24 377 → 2026-11-26 379（+2）
 
 
 ---

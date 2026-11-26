@@ -1,6 +1,6 @@
 # andersondanieln/polyglot
 
-⭐ 35 · TypeScript · NOASSERTION · 推送 2025-12-29 · [GitHub](https://github.com/andersondanieln/polyglot) · [官网](https://andercoder.com/polyglot) · 个人维护
+⭐ 36 · TypeScript · NOASSERTION · 推送 2025-12-29 · [GitHub](https://github.com/andersondanieln/polyglot) · [官网](https://andercoder.com/polyglot) · 个人维护
 
 **本地 AI 桌面翻译与文本改写工具：划词快捷键即时处理**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "andersondanieln/polyglot 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 36（+1）
 
 
 ---

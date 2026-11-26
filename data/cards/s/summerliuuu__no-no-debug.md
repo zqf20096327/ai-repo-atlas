@@ -1,6 +1,6 @@
 # summerliuuu/no-no-debug
 
-⭐ 151 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/summerliuuu/no-no-debug) · 个人维护 · 中文 README
+⭐ 152 · Python · MIT · 推送 2026-05-07 · [GitHub](https://github.com/summerliuuu/no-no-debug) · 个人维护 · 中文 README
 
 **AI 编程助手的跨会话错误记忆与自我进化技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "summerliuuu/no-no-debug 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 150 --> 152
-    line [151, 151]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 150 --> 153
+    line [151, 152]
 ```
 
-2026-10-23 151 → 2026-11-25 151（+0）
+2026-10-24 151 → 2026-11-26 152（+1）
 
 
 ---

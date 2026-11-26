@@ -1,6 +1,6 @@
 # eraneos/snowflake-mlops
 
-⭐ 36 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/eraneos/snowflake-mlops) · [官网](https://eraneos.github.io/snowflake-mlops/) · 组织维护
+⭐ 36 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/eraneos/snowflake-mlops) · [官网](https://eraneos.github.io/snowflake-mlops/) · 组织维护
 
 **面向工程团队的 Snowflake 端到端 MLOps 参考代码库**
 
@@ -45,12 +45,12 @@ Eraneos 维护的开源参考 monorepo，演示如何在 Snowflake 上组织端�
 ```mermaid
 xychart-beta
     title "eraneos/snowflake-mlops 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-26"]
     y-axis "stars" 35 --> 37
     line [36, 36]
 ```
 
-2026-10-22 36 → 2026-11-25 36（+0）
+2026-10-23 36 → 2026-11-26 36（+0）
 
 
 ---

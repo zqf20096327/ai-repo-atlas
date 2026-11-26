@@ -39,6 +39,18 @@
 > L2: Machine Learning for Real Estate
 > L22: * Jupyter Notebook with Plotly Integration doing Zillow Data Exploration
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/real_estate_ml 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 87 --> 89
+    line [88, 88]
+```
+
+2026-11-25 88 → 2026-11-26 88（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `67a199b200d5` · [字段定义](../../DATASET.md)*

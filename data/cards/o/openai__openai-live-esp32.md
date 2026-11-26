@@ -1,6 +1,6 @@
 # openai/openai-live-esp32
 
-⭐ 31 · C · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-live-esp32) · 组织维护
+⭐ 33 · C · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/openai/openai-live-esp32) · 组织维护
 
 **在 ESP32-S3 开发板上通过 OpenAI Live API 构建语音助手**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "openai/openai-live-esp32 星数(近 5 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 13 --> 32
-    line [14, 23, 27, 28, 31]
+    title "openai/openai-live-esp32 星数(近 6 点)"
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 34
+    line [14, 23, 27, 28, 31, 33]
 ```
 
-2026-11-20 14 → 2026-11-25 31（+17）
+2026-11-20 14 → 2026-11-26 33（+19）
 
 
 ---

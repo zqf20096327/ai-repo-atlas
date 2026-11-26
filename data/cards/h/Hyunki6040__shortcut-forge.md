@@ -1,6 +1,6 @@
 # Hyunki6040/shortcut-forge
 
-⭐ 5 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Hyunki6040/shortcut-forge) · [官网](https://github.com/Hyunki6040/shortcut-forge) · 个人维护 · 中文 README
+⭐ 6 · Python · MIT · 推送 2026-10-14 · [GitHub](https://github.com/Hyunki6040/shortcut-forge) · [官网](https://github.com/Hyunki6040/shortcut-forge) · 个人维护 · 中文 README
 
 **AI 生成 iOS 快捷指令的 MCP server：构建、校验并签名 .shortcut 文件**
 
@@ -45,12 +45,12 @@ MCP server、Claude 插件与 Python 库三形态：将自然语言描述转为�
 ```mermaid
 xychart-beta
     title "Hyunki6040/shortcut-forge 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 4, 5, 5]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 4, 5, 6]
 ```
 
-2026-11-08 3 → 2026-11-25 5（+2）
+2026-11-08 3 → 2026-11-26 6（+3）
 
 
 ---

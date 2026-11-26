@@ -1,6 +1,6 @@
 # BlockRunAI/Franklin
 
-⭐ 567 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/BlockRunAI/Franklin) · [官网](https://franklin.run) · 组织维护
+⭐ 568 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/BlockRunAI/Franklin) · [官网](https://franklin.run) · 组织维护
 
 **持有 USDC 钱包的自主经济 Agent，按结果付费执行交易与研究**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BlockRunAI/Franklin 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 562 --> 568
-    line [563, 564, 565, 566, 567, 567]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-15", "2026-11-20", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 562 --> 569
+    line [563, 564, 565, 566, 567, 568]
 ```
 
-2026-10-23 563 → 2026-11-25 567（+4）
+2026-10-24 563 → 2026-11-26 568（+5）
 
 
 ---

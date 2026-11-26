@@ -1,6 +1,6 @@
 # xberg-io/html-to-markdown
 
-⭐ 889 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xberg-io/html-to-markdown) · [官网](https://docs.html-to-markdown.xberg.io) · 组织维护
+⭐ 889 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xberg-io/html-to-markdown) · [官网](https://docs.html-to-markdown.xberg.io) · 组织维护
 
 **面向开发者的多语言 HTML 转 Markdown 转换库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "xberg-io/html-to-markdown 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 882 --> 890
-    line [883, 884, 885, 886, 888, 884, 888, 887, 888, 889, 889]
+    title "xberg-io/html-to-markdown 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 883 --> 890
+    line [884, 885, 886, 888, 884, 888, 887, 888, 889, 889]
 ```
 
-2026-10-23 883 → 2026-11-25 889（+6）
+2026-10-24 884 → 2026-11-26 889（+5）
 
 
 ---

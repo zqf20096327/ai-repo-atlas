@@ -1,6 +1,6 @@
 # kiri-art/stable-diffusion-react-nextjs-mui-pwa
 
-⭐ 134 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/kiri-art/stable-diffusion-react-nextjs-mui-pwa) · [官网](https://kiri.art/) · 个人维护
+⭐ 133 · TypeScript · MIT · 推送 2026-08-11 · [GitHub](https://github.com/kiri-art/stable-diffusion-react-nextjs-mui-pwa) · [官网](https://kiri.art/) · 个人维护
 
 **面向 Web 开发者的 Stable Diffusion PWA 前端（React/NextJS/MUI）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "kiri-art/stable-diffusion-react-nextjs-mui-pwa 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 133 --> 135
-    line [134, 134]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 132 --> 135
+    line [134, 133]
 ```
 
-2026-10-23 134 → 2026-11-25 134（+0）
+2026-10-24 134 → 2026-11-26 133（-1）
 
 
 ---

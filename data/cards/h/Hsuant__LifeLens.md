@@ -1,6 +1,6 @@
 # Hsuant/LifeLens
 
-⭐ 41 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Hsuant/LifeLens) · 个人维护 · 中文 README
+⭐ 42 · Python · NOASSERTION · 推送 2026-10-25 · [GitHub](https://github.com/Hsuant/LifeLens) · 个人维护 · 中文 README
 
 **爬取携程/去哪儿景点与评论并提供分析的 Python 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hsuant/LifeLens 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 39 --> 42
-    line [40, 41, 40, 41, 41]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 39 --> 43
+    line [40, 41, 40, 41, 42]
 ```
 
-2026-10-23 40 → 2026-11-25 41（+1）
+2026-10-24 40 → 2026-11-26 42（+2）
 
 
 ---

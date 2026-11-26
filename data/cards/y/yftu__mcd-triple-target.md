@@ -1,6 +1,6 @@
 # yftu/mcd-triple-target
 
-⭐ 6 · Python · NOASSERTION · 推送 2026-10-10 · [GitHub](https://github.com/yftu/mcd-triple-target) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **基于麦当劳官方 MCP 的三目标配餐优化 Skill**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

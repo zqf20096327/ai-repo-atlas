@@ -1,6 +1,6 @@
 # BojarLab/glycowork
 
-⭐ 105 · Jupyter Notebook · MIT · 推送 2026-11-20 · [GitHub](https://github.com/BojarLab/glycowork) · [官网](https://Bojarlab.github.io/glycowork) · 组织维护
+⭐ 106 · Jupyter Notebook · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BojarLab/glycowork) · [官网](https://Bojarlab.github.io/glycowork) · 组织维护
 
 **糖链（glycan）数据科学 Python 库：解析、分析与机器学习**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "BojarLab/glycowork 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 102 --> 106
-    line [103, 104, 103, 104, 105, 105]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 102 --> 107
+    line [103, 104, 103, 104, 105, 106]
 ```
 
-2026-10-23 103 → 2026-11-25 105（+2）
+2026-10-24 103 → 2026-11-26 106（+3）
 
 
 ---

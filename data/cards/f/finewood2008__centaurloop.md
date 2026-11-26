@@ -1,6 +1,6 @@
 # finewood2008/centaurloop
 
-⭐ 58 · TypeScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/finewood2008/centaurloop) · [官网](https://www.centaurloop.com/) · 个人维护 · 中文 README
+⭐ 59 · TypeScript · MIT · 推送 2026-06-02 · [GitHub](https://github.com/finewood2008/centaurloop) · [官网](https://www.centaurloop.com/) · 个人维护 · 中文 README
 
 **构建 AI 员工的最小工作单元（循环工作流）框架**
 
@@ -46,12 +46,12 @@ TypeScript/React 实现的开源框架与本地工作台 MVP，把岗位拆解�
 ```mermaid
 xychart-beta
     title "finewood2008/centaurloop 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-26"]
     y-axis "stars" 54 --> 74
-    line [73, 66, 55, 56, 57, 58, 58]
+    line [73, 66, 55, 56, 57, 58, 59]
 ```
 
-2026-10-23 73 → 2026-11-25 58（-15）
+2026-10-24 73 → 2026-11-26 59（-14）
 
 
 ---

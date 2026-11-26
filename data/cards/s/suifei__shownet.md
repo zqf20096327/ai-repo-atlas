@@ -1,6 +1,6 @@
 # suifei/shownet
 
-⭐ 13 · Rust · GPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/suifei/shownet) · 个人维护 · 中文 README
+⭐ 14 · Rust · GPL-3.0 · 推送 2026-08-25 · [GitHub](https://github.com/suifei/shownet) · 个人维护 · 中文 README
 
 **带 AI 分析的本地抓包与协议逆向桌面工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "suifei/shownet 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 12, 13, 13]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 12, 13, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 14（+2）
 
 
 ---

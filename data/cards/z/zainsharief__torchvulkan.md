@@ -1,6 +1,6 @@
 # zainsharief/torchvulkan
 
-⭐ 36 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/zainsharief/torchvulkan) · 个人维护
+⭐ 37 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/zainsharief/torchvulkan) · 个人维护
 
 **为 PyTorch 注册跨平台 Vulkan GPU 后端的扩展库**
 
@@ -45,12 +45,12 @@ Python 包，import 后在 PyTorch 中注册 'vulkan' 设备，把张量操作�
 ```mermaid
 xychart-beta
     title "zainsharief/torchvulkan 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 31 --> 37
-    line [32, 33, 34, 35, 36, 36]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 31 --> 38
+    line [32, 33, 34, 35, 36, 37]
 ```
 
-2026-11-10 32 → 2026-11-25 36（+4）
+2026-11-10 32 → 2026-11-26 37（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # pyg-team/pyg-lib
 
-⭐ 243 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/pyg-team/pyg-lib) · [官网](https://pyg-lib.readthedocs.io) · 组织维护
+⭐ 244 · C++ · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/pyg-team/pyg-lib) · [官网](https://pyg-lib.readthedocs.io) · 组织维护
 
 **PyG 的低层图神经网络算子库**
 
@@ -43,13 +43,13 @@ pyg-lib 是 PyG（PyTorch Geometric）生态中的低层图神经网络算子库
 
 ```mermaid
 xychart-beta
-    title "pyg-team/pyg-lib 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 241 --> 244
-    line [242, 243, 243]
+    title "pyg-team/pyg-lib 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 242 --> 245
+    line [243, 244]
 ```
 
-2026-10-23 242 → 2026-11-25 243（+1）
+2026-10-24 243 → 2026-11-26 244（+1）
 
 
 ---

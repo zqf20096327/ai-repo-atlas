@@ -1,6 +1,6 @@
 # ranajahanzaib/llm-feedback-finetuning-pipeline
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/llm-feedback-finetuning-pipeline) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ranajahanzaib/llm-feedback-finetuning-pipeline) · 个人维护
 
 **把业务反馈修正转为 Apple Silicon 本地 LoRA 微调模型的工作流**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/llm-feedback-finetuning-pipeline 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 3（+0）
 
 
 ---

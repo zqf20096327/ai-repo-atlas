@@ -1,6 +1,6 @@
 # inssist/mcp
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/inssist/mcp) · [官网](https://inssist.com/feature-guides/inssist-mcp-server-for-ai-agents) · 组织维护
+⭐ 12 · TypeScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/inssist/mcp) · [官网](https://inssist.com/feature-guides/inssist-mcp-server-for-ai-agents) · 组织维护
 
 **让 AI agent 操作本人 Instagram 会话的 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "inssist/mcp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 12 --> 28
-    line [27, 14, 15, 13, 13]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-16", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 11 --> 28
+    line [27, 14, 15, 13, 12]
 ```
 
-2026-10-23 27 → 2026-11-25 13（-14）
+2026-10-24 27 → 2026-11-26 12（-15）
 
 
 ---

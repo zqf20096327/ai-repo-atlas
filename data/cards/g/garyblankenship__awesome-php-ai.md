@@ -1,6 +1,6 @@
 # garyblankenship/awesome-php-ai
 
-⭐ 58 · HTML · 推送 2026-10-13 · [GitHub](https://github.com/garyblankenship/awesome-php-ai) · [官网](https://garyblankenship.github.io/awesome-php-ai/) · 个人维护
+⭐ 57 · HTML · 推送 2026-10-13 · [GitHub](https://github.com/garyblankenship/awesome-php-ai) · [官网](https://garyblankenship.github.io/awesome-php-ai/) · 个人维护
 
 **PHP 语言 AI/ML/NLP 库与工具的策展清单，面向 PHP 开发者**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "garyblankenship/awesome-php-ai 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-21", "2026-11-26"]
     y-axis "stars" 50 --> 59
-    line [51, 52, 53, 54, 56, 51, 56, 57, 58, 58]
+    line [51, 52, 53, 54, 56, 51, 56, 57, 58, 57]
 ```
 
-2026-10-23 51 → 2026-11-25 58（+7）
+2026-10-24 51 → 2026-11-26 57（+6）
 
 
 ---

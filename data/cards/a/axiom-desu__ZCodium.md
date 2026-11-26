@@ -1,6 +1,6 @@
 # axiom-desu/ZCodium
 
-⭐ 36 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/axiom-desu/ZCodium) · [官网](https://axiom-desu.github.io/ZCodium/) · 个人维护 · 中文 README
+⭐ 37 · TypeScript · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/axiom-desu/ZCodium) · [官网](https://axiom-desu.github.io/ZCodium/) · 个人维护 · 中文 README
 
 **ZCode AI 编程工作台的社区 fork：补全官方包独有功能**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "axiom-desu/ZCodium 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-26"]
     y-axis "stars" 31 --> 39
-    line [32, 33, 34, 33, 34, 36, 37, 38, 37, 36, 36]
+    line [32, 33, 34, 33, 34, 36, 37, 38, 37, 36, 37]
 ```
 
-2026-10-23 32 → 2026-11-25 36（+4）
+2026-10-24 32 → 2026-11-26 37（+5）
 
 
 ---

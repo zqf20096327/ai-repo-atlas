@@ -1,6 +1,6 @@
 # alirostami01/aima-4e-persian
 
-⭐ 22 · HTML · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/alirostami01/aima-4e-persian) · [官网](https://alirostami.com/aima-4e-persian) · 个人维护
+⭐ 23 · HTML · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/alirostami01/aima-4e-persian) · [官网](https://alirostami.com/aima-4e-persian) · 个人维护
 
 **AIMA 第4版教科书的波斯语翻译开源项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alirostami01/aima-4e-persian 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 14 --> 23
-    line [15, 22]
+    title "alirostami01/aima-4e-persian 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 24
+    line [15, 22, 23]
 ```
 
-2026-11-23 15 → 2026-11-25 22（+7）
+2026-11-23 15 → 2026-11-26 23（+8）
 
 
 ---

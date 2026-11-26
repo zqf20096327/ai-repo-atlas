@@ -1,6 +1,6 @@
 # ultracontext/ultracontext
 
-⭐ 443 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ultracontext/ultracontext) · [官网](https://ultracontext.com) · 组织维护
+⭐ 452 · JavaScript · Apache-2.0 · 推送 2026-10-27 · [GitHub](https://github.com/ultracontext/ultracontext) · [官网](https://ultracontext.com) · 组织维护
 
 **多 AI agent 间实时捕获与共享上下文的开源基础设施**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ultracontext/ultracontext 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 423 --> 444
-    line [424, 425, 426, 425, 440, 441, 442, 443, 443]
+    title "ultracontext/ultracontext 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 423 --> 454
+    line [425, 426, 425, 440, 441, 442, 443, 452]
 ```
 
-2026-10-23 424 → 2026-11-25 443（+19）
+2026-10-24 425 → 2026-11-26 452（+27）
 
 
 ---

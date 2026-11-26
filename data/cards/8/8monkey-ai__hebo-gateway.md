@@ -1,6 +1,6 @@
 # 8monkey-ai/hebo-gateway
 
-⭐ 27 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/8monkey-ai/hebo-gateway) · [官网](https://hebo.ai/gateway) · 组织维护
+⭐ 27 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/8monkey-ai/hebo-gateway) · [官网](https://hebo.ai/gateway) · 组织维护
 
 **可嵌入应用的 AI 网关框架，控制模型路由与请求生命周期**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "8monkey-ai/hebo-gateway 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 26 --> 28
     line [27, 27]
 ```
 
-2026-10-23 27 → 2026-11-25 27（+0）
+2026-10-24 27 → 2026-11-26 27（+0）
 
 
 ---

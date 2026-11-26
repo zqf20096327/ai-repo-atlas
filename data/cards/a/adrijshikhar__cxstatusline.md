@@ -1,6 +1,6 @@
 # adrijshikhar/cxstatusline
 
-⭐ 14 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adrijshikhar/cxstatusline) · [官网](https://cxstatusline.adrijshikhar.dev/) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/adrijshikhar/cxstatusline) · [官网](https://cxstatusline.adrijshikhar.dev/) · 个人维护
 
 **为 OpenAI Codex CLI 提供可定制终端状态栏与实时遥测**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "adrijshikhar/cxstatusline 星数(近 6 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 4 --> 15
-    line [5, 10, 12, 13, 14, 14]
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 4 --> 16
+    line [5, 10, 12, 13, 14, 15]
 ```
 
-2026-10-18 5 → 2026-11-25 14（+9）
+2026-10-18 5 → 2026-11-26 15（+10）
 
 
 ---

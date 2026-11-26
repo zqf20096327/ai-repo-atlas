@@ -1,6 +1,6 @@
 # YassWorks/Ally
 
-⭐ 239 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/YassWorks/Ally) · [官网](https://hub.docker.com/r/yassw0rks/ally) · 个人维护
+⭐ 240 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/YassWorks/Ally) · [官网](https://hub.docker.com/r/yassw0rks/ally) · 个人维护
 
 **终端里的本地优先、多服务商 AI 代理 CLI**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "YassWorks/Ally 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 237 --> 240
-    line [239, 238, 239, 238, 239, 239]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 237 --> 241
+    line [239, 238, 239, 238, 239, 240]
 ```
 
-2026-10-23 239 → 2026-11-25 239（+0）
+2026-10-24 239 → 2026-11-26 240（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # christiandoxa/prodex
 
-⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/christiandoxa/prodex) · [官网](https://github.com/christiandoxa/prodex/releases) · 个人维护
+⭐ 61 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/christiandoxa/prodex) · [官网](https://github.com/christiandoxa/prodex/releases) · 个人维护
 
 **多账号多后端的 Codex CLI 包装器与配额轮换网关**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "christiandoxa/prodex 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 59 --> 62
-    line [60, 61, 61]
+    title "christiandoxa/prodex 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 60 --> 62
+    line [61, 61]
 ```
 
-2026-10-23 60 → 2026-11-25 61（+1）
+2026-10-24 61 → 2026-11-26 61（+0）
 
 
 ---

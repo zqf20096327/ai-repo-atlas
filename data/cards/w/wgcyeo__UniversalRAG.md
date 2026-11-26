@@ -1,6 +1,6 @@
 # wgcyeo/UniversalRAG
 
-⭐ 178 · Python · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/wgcyeo/UniversalRAG) · [官网](https://universalrag.github.io) · 组织维护
+⭐ 179 · Python · Apache-2.0 · 推送 2026-06-24 · [GitHub](https://github.com/wgcyeo/UniversalRAG) · [官网](https://universalrag.github.io) · 组织维护
 
 **跨模态多粒度检索的 any-to-any RAG 研究框架**
 
@@ -45,12 +45,12 @@ ACL 2026 论文配套的开源 RAG 框架：通过模态感知路由机制，为
 ```mermaid
 xychart-beta
     title "wgcyeo/UniversalRAG 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 176 --> 179
-    line [177, 178, 178]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 176 --> 180
+    line [177, 178, 179]
 ```
 
-2026-10-23 177 → 2026-11-25 178（+1）
+2026-10-24 177 → 2026-11-26 179（+2）
 
 
 ---

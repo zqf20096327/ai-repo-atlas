@@ -1,6 +1,6 @@
 # yahorbarkouski/bodylang
 
-⭐ 23 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/yahorbarkouski/bodylang) · [官网](https://bodylang.vercel.app) · 个人维护
+⭐ 24 · TypeScript · MIT · 推送 2026-11-07 · [GitHub](https://github.com/yahorbarkouski/bodylang) · [官网](https://bodylang.vercel.app) · 个人维护
 
 **本地运行的 3D 人体生理可视化应用：用 LLM 解读日常事件**
 
@@ -47,13 +47,13 @@
 
 ```mermaid
 xychart-beta
-    title "yahorbarkouski/bodylang 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 18 --> 24
-    line [19, 20, 21, 22, 23]
+    title "yahorbarkouski/bodylang 星数(近 6 点)"
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 25
+    line [19, 20, 21, 22, 23, 24]
 ```
 
-2026-11-08 19 → 2026-11-25 23（+4）
+2026-11-08 19 → 2026-11-26 24（+5）
 
 
 ---

@@ -45,12 +45,12 @@ WordPress 插件，作为主 Antimanual 插件的附加组件运行：提供全�
 ```mermaid
 xychart-beta
     title "spider-themes/antimanual-builder-public 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 21 --> 23
     line [22, 22]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 22（+0）
 
 
 ---

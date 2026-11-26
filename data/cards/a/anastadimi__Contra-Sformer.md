@@ -41,6 +41,18 @@
 > L23: Sformer achieves competitive performance (Spearman Correlation 0.65 -
 > L60: To train and evaluate the model, simply run experiment.py and specify the task (knot_tying/needle_passing/suturing)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "anastadimi/Contra-Sformer 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
+```
+
+2026-11-25 14 → 2026-11-26 14（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `6be2a57d408a` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # marcello-pichini/ai-science-tracker
 
-⭐ 3 · HTML · CC-BY-4.0 · 推送 2026-11-23 · [GitHub](https://github.com/marcello-pichini/ai-science-tracker) · [官网](https://aisciencetracker.org/) · 个人维护
+⭐ 3 · HTML · CC-BY-4.0 · 推送 2026-11-25 · [GitHub](https://github.com/marcello-pichini/ai-science-tracker) · [官网](https://aisciencetracker.org/) · 个人维护
 
 **AI 驱动的科学发现策展目录，关联模型族与原始来源**
 
@@ -40,6 +40,18 @@
 
 > L5: An English-language catalog of scientific results enabled by AI since 2020, with original sources, dates, evidence c
 > L95: The catalog is open data. Downloads: `data/discoveries.json`, `data/discoveries.csv`, `data/vulnerabilities.json`, 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "marcello-pichini/ai-science-tracker 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

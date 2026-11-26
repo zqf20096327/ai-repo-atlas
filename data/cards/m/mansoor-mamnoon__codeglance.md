@@ -1,6 +1,6 @@
 # mansoor-mamnoon/codeglance
 
-⭐ 74 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/mansoor-mamnoon/codeglance) · [官网](https://www.npmjs.com/package/codeglance) · 个人维护
+⭐ 73 · TypeScript · MIT · 推送 2026-06-03 · [GitHub](https://github.com/mansoor-mamnoon/codeglance) · [官网](https://www.npmjs.com/package/codeglance) · 个人维护
 
 **一条命令生成代码仓库导览与 LLM 上下文简报的 CLI 工具**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "mansoor-mamnoon/codeglance 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-12", "2026-11-18", "2026-11-26"]
     y-axis "stars" 72 --> 75
-    line [73, 74, 73, 74, 74]
+    line [73, 74, 73, 74, 73]
 ```
 
-2026-10-23 73 → 2026-11-25 74（+1）
+2026-10-24 73 → 2026-11-26 73（+0）
 
 
 ---

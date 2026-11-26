@@ -1,6 +1,6 @@
 # hermes-labs-ai/hermes-jailbench
 
-⭐ 12 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/hermes-labs-ai/hermes-jailbench) · [官网](https://hermes-labs.ai) · 组织维护
+⭐ 13 · Python · Apache-2.0 · 推送 2026-10-20 · [GitHub](https://github.com/hermes-labs-ai/hermes-jailbench) · [官网](https://hermes-labs.ai) · 组织维护
 
 **面向 LLM 端点的越狱回归基准：重放已知攻击并评分**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hermes-labs-ai/hermes-jailbench 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 11 --> 13
-    line [12, 12]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 11 --> 14
+    line [12, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

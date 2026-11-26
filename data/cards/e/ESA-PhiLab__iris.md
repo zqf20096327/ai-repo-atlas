@@ -1,6 +1,6 @@
 # ESA-PhiLab/iris
 
-⭐ 170 · JavaScript · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/ESA-PhiLab/iris) · 组织维护
+⭐ 172 · JavaScript · GPL-3.0 · 推送 2026-10-09 · [GitHub](https://github.com/ESA-PhiLab/iris) · 组织维护
 
 **卫星图像人工标注工具：AI 辅助加速地学训练集制作**
 
@@ -45,12 +45,12 @@ ESA PhiLab 维护的半自动图像分割标注工具，面向地球观测机器
 ```mermaid
 xychart-beta
     title "ESA-PhiLab/iris 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 169 --> 171
-    line [170, 170]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 169 --> 173
+    line [170, 172]
 ```
 
-2026-10-23 170 → 2026-11-25 170（+0）
+2026-10-24 170 → 2026-11-26 172（+2）
 
 
 ---

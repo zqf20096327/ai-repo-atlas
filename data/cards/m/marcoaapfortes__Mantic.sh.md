@@ -1,6 +1,6 @@
 # marcoaapfortes/Mantic.sh
 
-⭐ 553 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/marcoaapfortes/Mantic.sh) · [官网](https://www.npmjs.com/package/mantic.sh) · 个人维护
+⭐ 552 · TypeScript · MIT · 推送 2026-07-13 · [GitHub](https://github.com/marcoaapfortes/Mantic.sh) · [官网](https://www.npmjs.com/package/mantic.sh) · 个人维护
 
 **为 AI agent 提供的相关性优先的结构化代码搜索/MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "marcoaapfortes/Mantic.sh 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 551 --> 555
-    line [554, 553, 552, 554, 553, 553]
+    line [554, 553, 552, 554, 553, 552]
 ```
 
-2026-10-23 554 → 2026-11-25 553（-1）
+2026-10-24 554 → 2026-11-26 552（-2）
 
 
 ---

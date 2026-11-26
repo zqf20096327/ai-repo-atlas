@@ -1,6 +1,6 @@
 # yang-ai-lab/OSF-Open-Sleep-FM
 
-⭐ 36 · Jupyter Notebook · MIT · 推送 2026-03-12 · [GitHub](https://github.com/yang-ai-lab/OSF-Open-Sleep-FM) · [官网](https://yang-ai-lab.github.io/osf) · 组织维护
+⭐ 37 · Jupyter Notebook · MIT · 推送 2026-03-12 · [GitHub](https://github.com/yang-ai-lab/OSF-Open-Sleep-FM) · [官网](https://yang-ai-lab.github.io/osf) · 组织维护
 
 **睡眠基础模型 OSF：多导睡眠图信号的预训练与下游任务模型**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "yang-ai-lab/OSF-Open-Sleep-FM 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36]
+    title "yang-ai-lab/OSF-Open-Sleep-FM 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 33 --> 38
+    line [34, 35, 36, 37]
 ```
 
-2026-10-23 34 → 2026-11-25 36（+2）
+2026-10-24 34 → 2026-11-26 37（+3）
 
 
 ---

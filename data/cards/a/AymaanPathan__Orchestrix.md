@@ -40,6 +40,18 @@
 > L7: Orchestrix is a visual backend builder powered by Motia's scalable workflows, where anyone — even without coding — c
 > L150: - **Provider:** Groq (Claude/GPT models)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AymaanPathan/Orchestrix 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `6c138a5a8cc0` · [字段定义](../../DATASET.md)*

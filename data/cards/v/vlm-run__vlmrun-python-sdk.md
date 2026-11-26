@@ -1,6 +1,6 @@
 # vlm-run/vlmrun-python-sdk
 
-⭐ 15 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/vlm-run/vlmrun-python-sdk) · [官网](https://docs.vlm.run/sdk-reference/getting-started) · 组织维护
+⭐ 15 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/vlm-run/vlmrun-python-sdk) · [官网](https://docs.vlm.run/sdk-reference/getting-started) · 组织维护
 
 **VLM Run 平台的官方 Python SDK 与 CLI，接入其视觉语言模型 API**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "vlm-run/vlmrun-python-sdk 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 15（+0）
 
 
 ---

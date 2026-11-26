@@ -1,6 +1,6 @@
 # Devinterview-io/tensorflow-interview-questions
 
-⭐ 27 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/tensorflow-interview-questions) · 组织维护
+⭐ 28 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/tensorflow-interview-questions) · 组织维护
 
 **TensorFlow 面试题答案集（70 题），供 ML/数据科学求职备考**
 
@@ -45,12 +45,12 @@ Devinterview.io 维护的 TensorFlow 主题面试问答仓库，收录 70 道题
 ```mermaid
 xychart-beta
     title "Devinterview-io/tensorflow-interview-questions 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 26 --> 29
+    line [27, 28]
 ```
 
-2026-10-23 27 → 2026-11-25 27（+0）
+2026-10-24 27 → 2026-11-26 28（+1）
 
 
 ---

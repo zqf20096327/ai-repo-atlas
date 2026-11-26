@@ -1,6 +1,6 @@
 # THU-KEG/Awesome-AI-for-Research
 
-⭐ 138 · Python · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/THU-KEG/Awesome-AI-for-Research) · 组织维护 · 中文 README
+⭐ 140 · Python · NOASSERTION · 推送 2026-08-24 · [GitHub](https://github.com/THU-KEG/Awesome-AI-for-Research) · 组织维护 · 中文 README
 
 **AI for Research 论文与系统策展清单：按研究阶段/角色/领域组织**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "THU-KEG/Awesome-AI-for-Research 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 129 --> 139
-    line [130, 131, 132, 133, 134, 130, 136, 137, 138, 138]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 129 --> 141
+    line [130, 131, 132, 133, 134, 130, 136, 137, 138, 140]
 ```
 
-2026-10-23 130 → 2026-11-25 138（+8）
+2026-10-24 130 → 2026-11-26 140（+10）
 
 
 ---

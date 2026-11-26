@@ -1,6 +1,6 @@
 # tegridydev/abstract-agent
 
-⭐ 32 · Python · MIT · 推送 2026-09-13 · [GitHub](https://github.com/tegridydev/abstract-agent) · 个人维护
+⭐ 32 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/tegridydev/abstract-agent) · 个人维护
 
 **本地模型驱动的科研假设生成工具：检索文献并产出提案**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "tegridydev/abstract-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

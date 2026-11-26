@@ -1,6 +1,6 @@
 # xiaoxu123195/tool_forge
 
-⭐ 65 · TypeScript · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/xiaoxu123195/tool_forge) · [官网](https://github.com/xiaoxu123195/tool_forge/releases/latest) · 个人维护 · 中文 README
+⭐ 66 · TypeScript · GPL-3.0 · 推送 2026-10-10 · [GitHub](https://github.com/xiaoxu123195/tool_forge) · [官网](https://github.com/xiaoxu123195/tool_forge/releases/latest) · 个人维护 · 中文 README
 
 **给程序员的全本地桌面工具箱：46 工具含 AI 问答与用量洞察**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "xiaoxu123195/tool_forge 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 64 --> 66
-    line [65, 65]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 64 --> 67
+    line [65, 66]
 ```
 
-2026-10-23 65 → 2026-11-25 65（+0）
+2026-10-24 65 → 2026-11-26 66（+1）
 
 
 ---

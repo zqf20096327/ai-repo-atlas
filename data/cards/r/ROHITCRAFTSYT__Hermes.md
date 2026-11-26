@@ -1,6 +1,6 @@
 # ROHITCRAFTSYT/Hermes
 
-⭐ 13 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/ROHITCRAFTSYT/Hermes) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ROHITCRAFTSYT/Hermes) · 个人维护
 
 **用 ESP32 与本地 Python 大脑搭建的双语语音 AI 助手**
 
@@ -46,12 +46,12 @@ DIY 语音助手项目：ESP32 作为拾音与播放终端，语音推理全部�
 ```mermaid
 xychart-beta
     title "ROHITCRAFTSYT/Hermes 星数(近 5 点)"
-    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13, 13]
+    x-axis ["2026-11-02", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 12, 13, 16]
 ```
 
-2026-11-02 10 → 2026-11-25 13（+3）
+2026-11-02 10 → 2026-11-26 16（+6）
 
 
 ---

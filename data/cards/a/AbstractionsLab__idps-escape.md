@@ -1,6 +1,6 @@
 # AbstractionsLab/idps-escape
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AbstractionsLab/idps-escape) · [官网](https://abstractionslab.github.io/idps-escape/website/product-presentation.html) · 组织维护
+⭐ 17 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/AbstractionsLab/idps-escape) · [官网](https://abstractionslab.github.io/idps-escape/website/product-presentation.html) · 组织维护
 
 **面向 SOC 的入侵检测防护系统：ML 异常检测加自动化响应**
 
@@ -45,12 +45,12 @@ CyFORT 子项目，基于 MAPE-K 架构的 SOAR 系统，面向 SME、CERT/CSIRT
 ```mermaid
 xychart-beta
     title "AbstractionsLab/idps-escape 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 15, 16, 16]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 17（+2）
 
 
 ---

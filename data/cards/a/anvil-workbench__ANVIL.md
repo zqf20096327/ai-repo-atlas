@@ -1,6 +1,6 @@
 # anvil-workbench/ANVIL
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/anvil-workbench/ANVIL) · [官网](https://anvil-workbench.github.io/ANVIL/) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **AI 编码代理的本地确定性验证层，合并前检查代码变更**
 
@@ -11,7 +11,7 @@ ANVIL 是一个面向 AI 辅助软件工程的本地验证工具：当 Claude Co
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

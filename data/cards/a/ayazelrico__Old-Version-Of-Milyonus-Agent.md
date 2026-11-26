@@ -42,6 +42,18 @@
 > L57: Multi-provider: **Anthropic** (default, most poisoning-resistant), **OpenAI**,
 > L62: The same agent core runs behind **six surfaces**, all default-deny with in-chat approval:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "ayazelrico/Old-Version-Of-Milyonus-Agent 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 18 --> 20
+    line [19, 19]
+```
+
+2026-11-25 19 → 2026-11-26 19（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `e66eb8a8a07b` · [字段定义](../../DATASET.md)*

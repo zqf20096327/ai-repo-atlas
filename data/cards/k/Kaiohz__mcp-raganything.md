@@ -1,6 +1,6 @@
 # Kaiohz/mcp-raganything
 
-⭐ 15 · Python · 推送 2026-11-20 · [GitHub](https://github.com/Kaiohz/mcp-raganything) · 个人维护
+⭐ 15 · Python · 推送 2026-11-25 · [GitHub](https://github.com/Kaiohz/mcp-raganything) · 个人维护
 
 **为 RAGAnything/LightRAG 提供 REST API 与 MCP 服务的多模态 RAG 服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Kaiohz/mcp-raganything 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-12 15 → 2026-11-25 15（+0）
+2026-11-12 15 → 2026-11-26 15（+0）
 
 
 ---

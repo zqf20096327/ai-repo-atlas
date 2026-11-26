@@ -1,6 +1,6 @@
 # RoyaleGym/RoyaleGym
 
-⭐ 24 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/RoyaleGym/RoyaleGym) · [官网](https://royalegym.github.io/RoyaleGym/) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/RoyaleGym/RoyaleGym) · [官网](https://royalegym.github.io/RoyaleGym/) · 个人维护
 
 **用 Python 训练 Clash Royale 机器人对战的 RL 环境库**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "RoyaleGym/RoyaleGym 星数(近 10 点)"
-    x-axis ["2026-10-21", "2026-10-24", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 5 --> 25
-    line [6, 7, 10, 15, 17, 18, 19, 20, 22, 24]
+    title "RoyaleGym/RoyaleGym 星数(近 11 点)"
+    x-axis ["2026-10-22", "2026-10-24", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 26
+    line [6, 7, 10, 15, 17, 18, 19, 20, 22, 24, 25]
 ```
 
-2026-10-21 6 → 2026-11-25 24（+18）
+2026-10-22 6 → 2026-11-26 25（+19）
 
 
 ---

@@ -1,6 +1,6 @@
 # esanmohammad/Anvil
 
-⭐ 20 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/esanmohammad/Anvil) · [官网](https://drive.google.com/file/d/1IHTQiLEQ4tulpdbUzI2iD5dmy82jBK-m/view?usp=sharing) · 个人维护
+⭐ 21 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/esanmohammad/Anvil) · [官网](https://drive.google.com/file/d/1IHTQiLEQ4tulpdbUzI2iD5dmy82jBK-m/view?usp=sharing) · 个人维护
 
 **自托管的开源 AI 编码 agent：按阶段混用多家模型交付功能流水线**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "esanmohammad/Anvil 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 17 --> 21
-    line [18, 20, 20]
+    title "esanmohammad/Anvil 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 19 --> 22
+    line [20, 21]
 ```
 
-2026-10-23 18 → 2026-11-25 20（+2）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

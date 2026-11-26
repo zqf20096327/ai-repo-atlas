@@ -44,13 +44,13 @@ NAIM（Not Another Imputation Method）的 PyTorch 官方实现，面向表格�
 
 ```mermaid
 xychart-beta
-    title "cosbidev/NAIM 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    title "cosbidev/NAIM 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 14 --> 16
+    line [15, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 15 → 2026-11-26 15（+0）
 
 
 ---

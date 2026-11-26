@@ -1,6 +1,6 @@
 # BlockRunAI/router-core
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BlockRunAI/router-core) · [官网](https://blockrun.ai/clawrouter) · 组织维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/BlockRunAI/router-core) · [官网](https://blockrun.ai/clawrouter) · 组织维护
 
 **给 LLM 应用与 agent 的本地确定性模型路由引擎**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "BlockRunAI/router-core 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-10 10 → 2026-11-25 10（+0）
+2026-11-10 10 → 2026-11-26 10（+0）
 
 
 ---

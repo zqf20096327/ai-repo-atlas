@@ -1,6 +1,6 @@
 # LangerSword/smelt
 
-⭐ 5 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/LangerSword/smelt) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把慢的纯 Python 函数熔炼为已验证 Rust 扩展的开发工具**
 
@@ -11,7 +11,7 @@ smelt 针对一个纯 Python 函数先冻结 200+ 条输入/输出案例作为�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # Keeper-Security/keeper-mcp-golang-docker
 
-⭐ 10 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Keeper-Security/keeper-mcp-golang-docker) · [官网](https://www.keepersecurity.com/secrets-manager.html) · 组织维护
+⭐ 12 · Go · MIT · 推送 2026-07-16 · [GitHub](https://github.com/Keeper-Security/keeper-mcp-golang-docker) · [官网](https://www.keepersecurity.com/secrets-manager.html) · 组织维护
 
 **让 AI 通过 MCP 安全管理 Keeper 密钥的服务器**
 
@@ -46,12 +46,12 @@ Keeper Secrets Manager 的 MCP 服务器实现，在 AI 语言模型（如 Claud
 ```mermaid
 xychart-beta
     title "Keeper-Security/keeper-mcp-golang-docker 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 12（+2）
 
 
 ---

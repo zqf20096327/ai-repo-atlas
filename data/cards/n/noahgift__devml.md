@@ -41,6 +41,18 @@ Pragmatic AI Labs 赞助的 Python 工具库与 CLI（dml），可批量 clone �
 > L11: * Converts a tree of checked out repositories on disk into a pandas dataframe
 > L223: Code churn is the amount of times a file has been modified. Relative churn is the amount of times it has been modi
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/devml 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 27 --> 29
+    line [28, 28]
+```
+
+2026-11-25 28 → 2026-11-26 28（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `325abbcb0b88` · [字段定义](../../DATASET.md)*

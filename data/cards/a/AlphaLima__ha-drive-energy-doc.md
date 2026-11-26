@@ -1,6 +1,6 @@
 # AlphaLima/ha-drive-energy-doc
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AlphaLima/ha-drive-energy-doc) · [官网](https://github.com/AlphaLima/ha-drive-energy-doc) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AlphaLima/ha-drive-energy-doc) · [官网](https://github.com/AlphaLima/ha-drive-energy-doc) · 个人维护
 
 **Home Assistant 车辆加油/充电全自动记录集成**
 
@@ -39,6 +39,18 @@
 
 > L15: - **Connected to the car (fully automatic):** Home Assistant detects refuelling or charging on its own from the car
 > L16: - **Without any connection to the car (photo mode):** Just send a **photo of the odometer** and a **photo of the pu
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AlphaLima/ha-drive-energy-doc 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 6]
+```
+
+2026-11-25 3 → 2026-11-26 6（+3）
 
 
 ---

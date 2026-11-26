@@ -1,6 +1,6 @@
 # bad-antics/nullsec
 
-⭐ 77 · Shell · 推送 2026-04-16 · [GitHub](https://github.com/bad-antics/nullsec) · [官网](https://nullsec.us) · 组织维护
+⭐ 76 · Shell · 推送 2026-04-16 · [GitHub](https://github.com/bad-antics/nullsec) · [官网](https://nullsec.us) · 组织维护
 
 **含 AI 助手的渗透测试/红队框架（ParrotSec 定制发行版）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "bad-antics/nullsec 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-25"]
+    title "bad-antics/nullsec 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 75 --> 80
-    line [76, 77, 78, 79, 78, 77]
+    line [76, 77, 78, 79, 78, 77, 76]
 ```
 
-2026-10-23 76 → 2026-11-25 77（+1）
+2026-10-24 76 → 2026-11-26 76（+0）
 
 
 ---

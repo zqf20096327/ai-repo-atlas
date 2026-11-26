@@ -1,6 +1,6 @@
 # parthjod/KisanGuard
 
-⭐ 3 · TypeScript · 推送 2026-10-11 · [GitHub](https://github.com/parthjod/KisanGuard) · [官网](https://d2wnlort4mta2e.cloudfront.net) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向印度小农户的村域级高温与干旱情报预警平台**
 

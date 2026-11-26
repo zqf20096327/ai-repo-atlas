@@ -1,6 +1,6 @@
 # EmaFanClub/EverMemoryArchive
 
-⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/EmaFanClub/EverMemoryArchive) · 组织维护 · 中文 README
+⭐ 30 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/EmaFanClub/EverMemoryArchive) · 组织维护 · 中文 README
 
 **陪伴型 AI：可成长的虚拟角色长期记忆与生活**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EmaFanClub/EverMemoryArchive 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
     y-axis "stars" 28 --> 31
     line [29, 30, 30]
 ```
 
-2026-10-23 29 → 2026-11-25 30（+1）
+2026-10-24 29 → 2026-11-26 30（+1）
 
 
 ---

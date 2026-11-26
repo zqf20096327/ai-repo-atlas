@@ -1,6 +1,6 @@
 # aisingapore/SEA-HELM
 
-⭐ 42 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/aisingapore/SEA-HELM) · [官网](https://leaderboard.sea-lion.ai/) · 组织维护
+⭐ 43 · Python · MIT · 推送 2026-08-05 · [GitHub](https://github.com/aisingapore/SEA-HELM) · [官网](https://leaderboard.sea-lion.ai/) · 组织维护
 
 **东南亚语言 LLM 评测套件：五大维度评估模型表现**
 
@@ -44,13 +44,13 @@ AI Singapore 维护的东南亚语言大模型评测套件 SEA-HELM，覆盖 NLP
 
 ```mermaid
 xychart-beta
-    title "aisingapore/SEA-HELM 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 40 --> 43
-    line [41, 42, 42]
+    title "aisingapore/SEA-HELM 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-23 41 → 2026-11-25 42（+1）
+2026-10-24 42 → 2026-11-26 43（+1）
 
 
 ---

@@ -46,12 +46,12 @@ WordPress 插件，在 Gutenberg 区块编辑器内提供标题、摘要、Slug�
 ```mermaid
 xychart-beta
     title "aw-ng/ai-plus-block-editor 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 31 --> 33
     line [32, 32]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 32（+0）
 
 
 ---

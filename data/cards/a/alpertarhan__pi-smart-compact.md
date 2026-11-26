@@ -1,6 +1,6 @@
 # alpertarhan/pi-smart-compact
 
-⭐ 40 · TypeScript · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/alpertarhan/pi-smart-compact) · [官网](https://www.npmjs.com/package/pi-smart-compact) · 个人维护
+⭐ 40 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/alpertarhan/pi-smart-compact) · [官网](https://www.npmjs.com/package/pi-smart-compact) · 个人维护
 
 **Pi Coding Agent 的上下文治理与会话延续扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alpertarhan/pi-smart-compact 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 35 --> 41
     line [36, 38, 39, 40, 40]
 ```
 
-2026-10-23 36 → 2026-11-25 40（+4）
+2026-10-24 36 → 2026-11-26 40（+4）
 
 
 ---

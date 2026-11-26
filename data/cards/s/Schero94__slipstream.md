@@ -1,6 +1,6 @@
 # Schero94/slipstream
 
-⭐ 11 · Python · NOASSERTION · 推送 2026-08-17 · [GitHub](https://github.com/Schero94/slipstream) · [官网](https://schero94.github.io/slipstream/) · 个人维护
+⭐ 11 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/Schero94/slipstream) · [官网](https://schero94.github.io/slipstream/) · 个人维护
 
 **从 SSD 流式加载 MoE 专家的 llama.cpp 分支，让 Mac 本地跑超 RAM 编码模型**
 
@@ -45,12 +45,12 @@ Slipstream 是 llama.cpp 的一个分支，将 MoE 专家权重放在 SSD 上按
 ```mermaid
 xychart-beta
     title "Schero94/slipstream 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-26"]
     y-axis "stars" 9 --> 12
     line [10, 11, 11]
 ```
 
-2026-11-08 10 → 2026-11-25 11（+1）
+2026-11-08 10 → 2026-11-26 11（+1）
 
 
 ---

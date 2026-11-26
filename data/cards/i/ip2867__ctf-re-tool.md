@@ -1,6 +1,6 @@
 # ip2867/ctf-re-tool
 
-⭐ 21 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ip2867/ctf-re-tool) · [官网](https://github.com/ip2867/ctf-re-tool/releases) · 个人维护 · 中文 README
+⭐ 22 · JavaScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/ip2867/ctf-re-tool) · [官网](https://github.com/ip2867/ctf-re-tool/releases) · 个人维护 · 中文 README
 
 **Windows 桌面 CTF 逆向 AI 解题工作台，AI 调度工具自动解题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ip2867/ctf-re-tool 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 12 --> 22
-    line [13, 14, 15, 16, 14, 17, 19, 20, 21, 21]
+    title "ip2867/ctf-re-tool 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 13 --> 23
+    line [14, 15, 16, 14, 17, 19, 20, 21, 22]
 ```
 
-2026-10-23 13 → 2026-11-25 21（+8）
+2026-10-24 14 → 2026-11-26 22（+8）
 
 
 ---

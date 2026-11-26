@@ -1,6 +1,6 @@
 # ashlrai/phantom-secrets
 
-⭐ 20 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ashlrai/phantom-secrets) · [官网](https://phm.dev/secrets) · 个人维护
+⭐ 20 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ashlrai/phantom-secrets) · [官网](https://phm.dev/secrets) · 个人维护
 
 **给开发者的密钥隔离代理：AI 编码代理用密钥但看不到真实值**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ashlrai/phantom-secrets 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 17 --> 21
     line [18, 19, 18, 20, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 20（+2）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # FlowForgeLabAi/MiniMax-H3-8GB-Workflows
 
-⭐ 27 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FlowForgeLabAi/MiniMax-H3-8GB-Workflows) · 组织维护 · 中文 README
+⭐ 30 · MIT · 推送 2026-10-24 · [GitHub](https://github.com/FlowForgeLabAi/MiniMax-H3-8GB-Workflows) · 组织维护 · 中文 README
 
 **面向 8GB 笔记本 GPU 的 MiniMax H3 ComfyUI 三档工作流与实测指南**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FlowForgeLabAi/MiniMax-H3-8GB-Workflows 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 18 --> 28
-    line [19, 20, 21, 22, 24, 25, 24, 25, 26, 27, 27]
+    title "FlowForgeLabAi/MiniMax-H3-8GB-Workflows 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 19 --> 31
+    line [20, 21, 22, 24, 25, 24, 25, 26, 27, 30]
 ```
 
-2026-10-23 19 → 2026-11-25 27（+8）
+2026-10-24 20 → 2026-11-26 30（+10）
 
 
 ---

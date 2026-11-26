@@ -1,6 +1,6 @@
 # joshua-zyy/pi-omo-slim
 
-⭐ 26 · JavaScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/joshua-zyy/pi-omo-slim) · 个人维护 · 中文 README
+⭐ 27 · JavaScript · MIT · 推送 2026-09-14 · [GitHub](https://github.com/joshua-zyy/pi-omo-slim) · 个人维护 · 中文 README
 
 **为 Pi 编码智能体提供编排器与六个专家子智能体的配置包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "joshua-zyy/pi-omo-slim 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 22 --> 27
-    line [23, 25, 26, 26]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 22 --> 28
+    line [23, 25, 26, 27]
 ```
 
-2026-10-23 23 → 2026-11-25 26（+3）
+2026-10-24 23 → 2026-11-26 27（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # everafterlabs/jes
 
-⭐ 18 · Python · Apache-2.0 · 推送 2026-11-03 · [GitHub](https://github.com/everafterlabs/jes) · 组织维护
+⭐ 18 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/everafterlabs/jes) · 组织维护
 
 **AI agent 安全防护库：拦截注入/越狱/泄密的工具调用与响应检查**
 
@@ -45,12 +45,12 @@ Apache-2.0 的 Python 库，为 AI agent 各环节（用户输入、检索内容
 ```mermaid
 xychart-beta
     title "everafterlabs/jes 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 14 --> 19
     line [15, 16, 17, 15, 17, 18, 18]
 ```
 
-2026-10-23 15 → 2026-11-25 18（+3）
+2026-10-24 15 → 2026-11-26 18（+3）
 
 
 ---

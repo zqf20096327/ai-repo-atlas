@@ -1,6 +1,6 @@
 # data-prep-kit/data-prep-kit
 
-⭐ 969 · HTML · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/data-prep-kit/data-prep-kit) · [官网](https://data-prep-kit.github.io/data-prep-kit/) · 组织维护
+⭐ 971 · HTML · Apache-2.0 · 推送 2026-09-29 · [GitHub](https://github.com/data-prep-kit/data-prep-kit) · [官网](https://data-prep-kit.github.io/data-prep-kit/) · 组织维护
 
 **面向 LLM 应用的非结构化数据预处理框架（清洗/转换/丰富）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "data-prep-kit/data-prep-kit 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 966 --> 970
-    line [969, 968, 969, 968, 969, 968, 967, 968, 969]
+    title "data-prep-kit/data-prep-kit 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 966 --> 972
+    line [969, 968, 969, 968, 969, 968, 967, 968, 969, 971]
 ```
 
-2026-10-23 969 → 2026-11-25 969（+0）
+2026-10-24 969 → 2026-11-26 971（+2）
 
 
 ---

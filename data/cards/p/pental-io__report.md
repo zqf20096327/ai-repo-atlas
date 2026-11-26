@@ -1,6 +1,6 @@
 # pental-io/report
 
-⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/pental-io/report) · [官网](https://pental.io/report) · 组织维护
+⭐ 11 · JavaScript · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/pental-io/report) · [官网](https://pental.io/report) · 组织维护
 
 **渗透测试团队自托管的漏洞报告编写与 PDF/Word 交付平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pental-io/report 星数(近 5 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-15", "2026-11-26"]
     y-axis "stars" 4 --> 12
     line [5, 8, 10, 11, 11]
 ```
 
-2026-11-01 5 → 2026-11-25 11（+6）
+2026-11-01 5 → 2026-11-26 11（+6）
 
 
 ---

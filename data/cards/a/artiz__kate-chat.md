@@ -1,6 +1,6 @@
 # artiz/kate-chat
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/artiz/kate-chat) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/artiz/kate-chat) · 个人维护
 
 **自托管通用聊天机器人平台：多 LLM 切换 + RAG + MCP**
 
@@ -48,12 +48,12 @@ Node.js/Rust 实现的通用聊天平台，可定制为自有聊天机器人。�
 ```mermaid
 xychart-beta
     title "artiz/kate-chat 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # murtiunlimited/face-emotion-recognition
 
-⭐ 55 · Python · MIT · 推送 2026-05-18 · [GitHub](https://github.com/murtiunlimited/face-emotion-recognition) · 个人维护
+⭐ 55 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/murtiunlimited/face-emotion-recognition) · 个人维护
 
 **CNN 实时人脸表情识别系统：桌面摄像头与浏览器双形态**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "murtiunlimited/face-emotion-recognition 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-23 55 → 2026-11-25 55（+0）
+2026-10-24 55 → 2026-11-26 55（+0）
 
 
 ---

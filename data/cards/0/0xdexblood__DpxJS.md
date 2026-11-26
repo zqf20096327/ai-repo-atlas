@@ -41,6 +41,18 @@ DPXJS 是 Firefox 扩展（Manifest V3），收集页面加载的所有脚本，
 > L35: |🤖|**AI triage**|Optional one-click verdicts via Numes.|
 > L40: Firefox **115+**.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "0xdexblood/DpxJS 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `7295ddfe6812` · [字段定义](../../DATASET.md)*

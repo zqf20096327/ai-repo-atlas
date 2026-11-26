@@ -1,6 +1,6 @@
 # onetwothird/Vedit
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/onetwothird/Vedit) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/onetwothird/Vedit) · 个人维护
 
 **面向内容创作者的开源 AI 视频剪辑工具**
 
@@ -41,6 +41,18 @@
 > L3: **An open-source AI video editor for content creators. Raw footage in, finished video out.**
 > L30: - **A Claude Code skill.** Claude reads the word-level transcript, looks at frames from the video, and makes editor
 > L41: - **Smart cuts.** Removes dead air, filler words (*um*, *uh*) and flubbed takes, keeping the final take. Cuts are w
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "onetwothird/Vedit 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

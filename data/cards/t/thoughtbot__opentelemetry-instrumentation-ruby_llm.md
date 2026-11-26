@@ -45,12 +45,12 @@ thoughtbot 维护的 OpenTelemetry instrumentation 库，为 RubyLLM 框架的 c
 ```mermaid
 xychart-beta
     title "thoughtbot/opentelemetry-instrumentation-ruby_llm 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-23 55 → 2026-11-25 55（+0）
+2026-10-24 55 → 2026-11-26 55（+0）
 
 
 ---

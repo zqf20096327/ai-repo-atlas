@@ -1,6 +1,6 @@
 # lmanhes/loci
 
-⭐ 11 · Python · 推送 2026-01-20 · [GitHub](https://github.com/lmanhes/loci) · [官网](https://www.antiagent.io) · 个人维护
+⭐ 12 · Python · 推送 2026-01-20 · [GitHub](https://github.com/lmanhes/loci) · [官网](https://www.antiagent.io) · 个人维护
 
 **将文档转化为可视化知识地图并自动生成间隔重复抽认卡**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "lmanhes/loci 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

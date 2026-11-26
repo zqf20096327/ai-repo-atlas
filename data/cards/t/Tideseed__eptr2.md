@@ -1,6 +1,6 @@
 # Tideseed/eptr2
 
-⭐ 38 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Tideseed/eptr2) · [官网](https://robokami.com) · 组织维护
+⭐ 39 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/Tideseed/eptr2) · [官网](https://robokami.com) · 组织维护
 
 **土耳其电力/天然气市场透明平台 API 的 Python 客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Tideseed/eptr2 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 31 --> 39
-    line [32, 35, 36, 32, 37, 38, 38]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 31 --> 40
+    line [32, 35, 36, 32, 37, 38, 39]
 ```
 
-2026-10-23 32 → 2026-11-25 38（+6）
+2026-10-24 32 → 2026-11-26 39（+7）
 
 
 ---

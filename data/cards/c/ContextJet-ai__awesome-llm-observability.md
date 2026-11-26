@@ -1,6 +1,6 @@
 # ContextJet-ai/awesome-llm-observability
 
-⭐ 50 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ContextJet-ai/awesome-llm-observability) · 组织维护
+⭐ 52 · Python · NOASSERTION · 推送 2026-11-16 · [GitHub](https://github.com/ContextJet-ai/awesome-llm-observability) · 组织维护
 
 **LLM 可观测化工具策展清单，附 26 个可安装 agent 技能**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ContextJet-ai/awesome-llm-observability 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 41 --> 51
-    line [42, 43, 45, 43, 46, 47, 48, 49, 50, 50]
+    title "ContextJet-ai/awesome-llm-observability 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 42 --> 53
+    line [43, 45, 43, 46, 47, 48, 49, 50, 52]
 ```
 
-2026-10-23 42 → 2026-11-25 50（+8）
+2026-10-24 43 → 2026-11-26 52（+9）
 
 
 ---

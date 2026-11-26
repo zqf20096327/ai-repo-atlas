@@ -1,6 +1,6 @@
 # asgard-ai-platform/skills
 
-⭐ 249 · Python · MIT · 推送 2026-06-06 · [GitHub](https://github.com/asgard-ai-platform/skills) · [官网](https://vault.asgard-ai.com/skills/) · 组织维护 · 中文 README
+⭐ 250 · Python · MIT · 推送 2026-06-06 · [GitHub](https://github.com/asgard-ai-platform/skills) · [官网](https://vault.asgard-ai.com/skills/) · 组织维护 · 中文 README
 
 **301 個開源 coding agent skills 知識庫，覆蓋 22 個領域方法論**
 
@@ -45,12 +45,12 @@ Asgard AI Platform 的技能原料庫：收錄 301 個獨立 SKILL.md 格式的 
 ```mermaid
 xychart-beta
     title "asgard-ai-platform/skills 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 242 --> 250
-    line [243, 244, 243, 244, 245, 246, 247, 248, 249, 249]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 242 --> 251
+    line [243, 244, 243, 244, 245, 246, 247, 248, 249, 250]
 ```
 
-2026-10-23 243 → 2026-11-25 249（+6）
+2026-10-24 243 → 2026-11-26 250（+7）
 
 
 ---

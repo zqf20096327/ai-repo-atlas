@@ -45,12 +45,12 @@ IEEE TGRS 论文 'SAR Automatic Target Recognition Method Based on Multi-Stream 
 ```mermaid
 xychart-beta
     title "Crush0416/MS-CVNets-a-novel-complex-valued-neural-networks-for-SAR-ATR 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 47 --> 50
     line [48, 49, 48, 49, 49]
 ```
 
-2026-10-23 48 → 2026-11-25 49（+1）
+2026-10-24 48 → 2026-11-26 49（+1）
 
 
 ---

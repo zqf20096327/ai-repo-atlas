@@ -1,6 +1,6 @@
 # semlinker/awesome-workbuddy
 
-⭐ 27 · CC0-1.0 · 推送 2026-07-19 · [GitHub](https://github.com/semlinker/awesome-workbuddy) · 个人维护 · 中文 README
+⭐ 26 · CC0-1.0 · 推送 2026-07-19 · [GitHub](https://github.com/semlinker/awesome-workbuddy) · 个人维护 · 中文 README
 
 **腾讯 WorkBuddy 学习资源、提示词与 Skills 的第三方策展清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "semlinker/awesome-workbuddy 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 26 --> 28
-    line [27, 27]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 25 --> 28
+    line [27, 26]
 ```
 
-2026-10-23 27 → 2026-11-25 27（+0）
+2026-10-24 27 → 2026-11-26 26（-1）
 
 
 ---

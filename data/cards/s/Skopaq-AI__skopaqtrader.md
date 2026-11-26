@@ -1,6 +1,6 @@
 # Skopaq-AI/skopaqtrader
 
-⭐ 22 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/Skopaq-AI/skopaqtrader) · [官网](https://skopaq-ai.github.io/skopaqtrader/) · 组织维护
+⭐ 23 · Python · Apache-2.0 · 推送 2026-10-02 · [GitHub](https://github.com/Skopaq-AI/skopaqtrader) · [官网](https://skopaq-ai.github.io/skopaqtrader/) · 组织维护
 
 **面向印度股市的开源多智能体 LLM 量化交易平台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Skopaq-AI/skopaqtrader 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-26"]
     y-axis "stars" 21 --> 24
-    line [22, 23, 22, 22]
+    line [22, 23, 22, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 22（+0）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

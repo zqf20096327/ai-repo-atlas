@@ -1,6 +1,6 @@
 # 4thd1m/asitpofborscht
 
-⭐ 99 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/4thd1m/asitpofborscht) · [官网](https://sitp.ai) · 个人维护
+⭐ 99 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/4thd1m/asitpofborscht) · [官网](https://sitp.ai) · 个人维护
 
 **深度学习教科书仓库与配套教学用框架 borscht**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "4thd1m/asitpofborscht 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
     y-axis "stars" 96 --> 100
     line [97, 98, 99, 99]
 ```
 
-2026-11-08 97 → 2026-11-25 99（+2）
+2026-11-08 97 → 2026-11-26 99（+2）
 
 
 ---

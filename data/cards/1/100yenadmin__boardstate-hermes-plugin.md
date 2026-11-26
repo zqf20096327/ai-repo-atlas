@@ -1,6 +1,6 @@
 # 100yenadmin/boardstate-hermes-plugin
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/100yenadmin/boardstate-hermes-plugin) · 个人维护
+⭐ 11 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/100yenadmin/boardstate-hermes-plugin) · 个人维护
 
 **Hermes agent 的看板插件：一句指令生成并持续维护 KPI 看板**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "100yenadmin/boardstate-hermes-plugin 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-10 11 → 2026-11-25 11（+0）
+2026-11-10 11 → 2026-11-26 11（+0）
 
 
 ---

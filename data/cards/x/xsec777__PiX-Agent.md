@@ -1,6 +1,6 @@
 # xsec777/PiX-Agent
 
-⭐ 28 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xsec777/PiX-Agent) · 个人维护 · 中文 README
+⭐ 29 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xsec777/PiX-Agent) · 个人维护 · 中文 README
 
 **授权渗透测试 Agent 发行版：假设驱动推理+31个内置工具**
 
@@ -40,6 +40,18 @@
 > L1: # 🛡️ PiX — 假设驱动、自带渗透工具箱的 Pi Agent 发行版
 > L34: - 🧰 **自带工具箱**：31 个实测渗透工具 + 7 张扩展位卡，`toolbox` 网关按需发现（list / howto / search）
 > L211: PiX 仅面向**已授权的安全测试**（自建靶场、书面授权 SRC、红队任务书范围）。pent 模式内置授权首条红线；redt 模式以任务书围栏。禁止用于未授权测试、DoS、数据牟利。使用者自行承担合规责任。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xsec777/PiX-Agent 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 27 --> 30
+    line [28, 29]
+```
+
+2026-11-25 28 → 2026-11-26 29（+1）
 
 
 ---

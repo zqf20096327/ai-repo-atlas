@@ -45,12 +45,12 @@ Python 项目：用 YOLOv8 检测并跟踪视频中的汽车、公交与卡车�
 ```mermaid
 xychart-beta
     title "Devfusion009/yolov8-multiple-vehicle-detection 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 33 --> 35
     line [34, 34]
 ```
 
-2026-10-23 34 → 2026-11-25 34（+0）
+2026-10-24 34 → 2026-11-26 34（+0）
 
 
 ---

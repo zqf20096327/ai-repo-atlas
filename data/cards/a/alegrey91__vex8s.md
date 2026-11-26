@@ -1,6 +1,6 @@
 # alegrey91/vex8s
 
-⭐ 41 · Go · NOASSERTION · 推送 2026-10-23 · [GitHub](https://github.com/alegrey91/vex8s) · 个人维护
+⭐ 41 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/alegrey91/vex8s) · 个人维护
 
 **结合 Kubernetes 上下文判定 CVE 可利用性并生成 VEX 文档的扫描工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "alegrey91/vex8s 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 40 --> 42
     line [41, 41]
 ```
 
-2026-10-23 41 → 2026-11-25 41（+0）
+2026-10-24 41 → 2026-11-26 41（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PhonePe/arnold
 
-⭐ 14 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PhonePe/arnold) · [官网](https://phonepe.github.io/arnold/) · 组织维护
+⭐ 40 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/PhonePe/arnold) · [官网](https://phonepe.github.io/arnold/) · 组织维护
 
 **自托管代码评审平台，为 GitLab/GitHub 提供 AI 评审工作流**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "PhonePe/arnold 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 15
-    line [3, 14]
+    title "PhonePe/arnold 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 43
+    line [3, 14, 40]
 ```
 
-2026-11-22 3 → 2026-11-25 14（+11）
+2026-11-22 3 → 2026-11-26 40（+37）
 
 
 ---

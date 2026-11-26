@@ -1,6 +1,6 @@
 # puremachinery/carapace
 
-⭐ 49 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/puremachinery/carapace) · [官网](https://getcara.io/) · 组织维护
+⭐ 50 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/puremachinery/carapace) · [官网](https://getcara.io/) · 组织维护
 
 **本地优先的个人 AI 助手，注重安全，多渠道多模型接入**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "puremachinery/carapace 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 46 --> 50
-    line [47, 48, 49, 49]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 46 --> 51
+    line [47, 48, 49, 50]
 ```
 
-2026-10-23 47 → 2026-11-25 49（+2）
+2026-10-24 47 → 2026-11-26 50（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # HXHakf/easyeda-schematic-orchestrator
 
-⭐ 3 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/HXHakf/easyeda-schematic-orchestrator) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/HXHakf/easyeda-schematic-orchestrator) · 个人维护 · 中文 README
 
 **为嘉立创EDA专业版提供AI原理图绘制工作流Skill**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HXHakf/easyeda-schematic-orchestrator 星数(近 2 点)"
-    x-axis ["2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-12", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-12 3 → 2026-11-25 3（+0）
+2026-11-12 3 → 2026-11-26 3（+0）
 
 
 ---

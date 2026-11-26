@@ -1,6 +1,6 @@
 # crAK1644/orchestrator-mcp
 
-⭐ 10 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/crAK1644/orchestrator-mcp) · [官网](https://pypi.org/project/orchestrator-mcp-server/) · 个人维护
+⭐ 11 · Python · MIT · 推送 2026-10-18 · [GitHub](https://github.com/crAK1644/orchestrator-mcp) · [官网](https://pypi.org/project/orchestrator-mcp-server/) · 个人维护
 
 **MCP 服务器：让一个编码 Agent CLI 咨询另一个已登录的 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "crAK1644/orchestrator-mcp 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # bitmonky/BorgIOS
 
-⭐ 36 · JavaScript · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/bitmonky/BorgIOS) · 个人维护
+⭐ 40 · JavaScript · GPL-3.0 · 推送 2026-10-08 · [GitHub](https://github.com/bitmonky/BorgIOS) · 个人维护
 
 **自组织 P2P 分布式网络操作系统，内含 AI 代理集群**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "bitmonky/BorgIOS 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 35 --> 37
-    line [36, 36]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 35 --> 41
+    line [36, 40]
 ```
 
-2026-10-23 36 → 2026-11-25 36（+0）
+2026-10-24 36 → 2026-11-26 40（+4）
 
 
 ---

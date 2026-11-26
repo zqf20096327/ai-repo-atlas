@@ -1,6 +1,6 @@
 # profclaw/profclaw
 
-⭐ 16 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/profclaw/profclaw) · [官网](https://profclaw.ai) · 组织维护
+⭐ 17 · TypeScript · AGPL-3.0 · 推送 2026-10-05 · [GitHub](https://github.com/profclaw/profclaw) · [官网](https://profclaw.ai) · 组织维护
 
 **开发者自托管的 AI agent 引擎：35 家 LLM、22 个聊天渠道**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "profclaw/profclaw 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 15 --> 17
-    line [16, 16]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 15 --> 18
+    line [16, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

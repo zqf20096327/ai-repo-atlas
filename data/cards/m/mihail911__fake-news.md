@@ -1,6 +1,6 @@
 # mihail911/fake-news
 
-⭐ 172 · Jupyter Notebook · AGPL-3.0 · 推送 2026-02-15 · [GitHub](https://github.com/mihail911/fake-news) · 个人维护
+⭐ 171 · Jupyter Notebook · AGPL-3.0 · 推送 2026-02-15 · [GitHub](https://github.com/mihail911/fake-news) · 个人维护
 
 **端到端假新闻检测项目：从数据分析到模型训练与部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "mihail911/fake-news 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 170 --> 173
-    line [171, 172, 171, 172, 172]
+    line [171, 172, 171, 172, 171]
 ```
 
-2026-10-23 171 → 2026-11-25 172（+1）
+2026-10-24 171 → 2026-11-26 171（+0）
 
 
 ---

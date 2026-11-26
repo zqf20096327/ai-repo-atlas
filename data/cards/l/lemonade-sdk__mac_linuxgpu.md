@@ -1,6 +1,6 @@
 # lemonade-sdk/mac_linuxgpu
 
-⭐ 10 · C · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/lemonade-sdk/mac_linuxgpu) · 组织维护
+⭐ 11 · C · NOASSERTION · 推送 2026-10-11 · [GitHub](https://github.com/lemonade-sdk/mac_linuxgpu) · 组织维护
 
 **让 Linux amdgpu 驱动经雷雳在 Apple Silicon Mac 上运行 AMD GPU**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "lemonade-sdk/mac_linuxgpu 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 5 --> 11
-    line [6, 7, 8, 10]
+    title "lemonade-sdk/mac_linuxgpu 星数(近 5 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 12
+    line [6, 7, 8, 10, 11]
 ```
 
-2026-10-18 6 → 2026-11-25 10（+4）
+2026-10-18 6 → 2026-11-26 11（+5）
 
 
 ---

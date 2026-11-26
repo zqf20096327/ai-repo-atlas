@@ -1,6 +1,6 @@
 # gznnk/jiscribe
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gznnk/jiscribe) · [官网](https://beta.jiscribe.dev) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gznnk/jiscribe) · [官网](https://beta.jiscribe.dev) · 个人维护
 
 **人与 AI agent 共同绘制的 SVG 画布：图表、原型、海报、文档**
 
@@ -46,12 +46,12 @@ Jiscribe 是一个 SVG 绘图画布，文档以普通对象存在于代码中、
 ```mermaid
 xychart-beta
     title "gznnk/jiscribe 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 10（+0）
 
 
 ---

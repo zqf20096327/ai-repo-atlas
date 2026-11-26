@@ -45,12 +45,12 @@ TensorFlow.js 官网（js.tensorflow.org / tensorflow.org/js）的源码仓库�
 ```mermaid
 xychart-beta
     title "tensorflow/tfjs-website 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 74 --> 76
     line [75, 75]
 ```
 
-2026-10-23 75 → 2026-11-25 75（+0）
+2026-10-24 75 → 2026-11-26 75（+0）
 
 
 ---

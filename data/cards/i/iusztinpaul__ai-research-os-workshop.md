@@ -1,6 +1,6 @@
 # iusztinpaul/ai-research-os-workshop
 
-⭐ 185 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/iusztinpaul/ai-research-os-workshop) · [官网](https://academy.towardsai.net/courses/agent-engineering?utm_source=github&utm_medium=aieng&utm_campaign=2026_aieng_sf_online) · 个人维护
+⭐ 186 · Python · MIT · 推送 2026-06-27 · [GitHub](https://github.com/iusztinpaul/ai-research-os-workshop) · [官网](https://academy.towardsai.net/courses/agent-engineering?utm_source=github&utm_medium=aieng&utm_campaign=2026_aieng_sf_online) · 个人维护
 
 **给研究者的 Claude Code/Codex 技能包：把第二大脑变成可复用研究记忆**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "iusztinpaul/ai-research-os-workshop 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 180 --> 186
-    line [181, 182, 183, 184, 181, 184, 185]
+    title "iusztinpaul/ai-research-os-workshop 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 180 --> 187
+    line [181, 182, 183, 184, 181, 184, 185, 186]
 ```
 
-2026-10-23 181 → 2026-11-25 185（+4）
+2026-10-24 181 → 2026-11-26 186（+5）
 
 
 ---

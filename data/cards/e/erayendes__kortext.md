@@ -1,6 +1,6 @@
 # erayendes/kortext
 
-⭐ 10 · TypeScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/erayendes/kortext) · [官网](https://www.npmjs.com/package/kortext) · 个人维护
+⭐ 10 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/erayendes/kortext) · [官网](https://www.npmjs.com/package/kortext) · 个人维护
 
 **为 AI 驱动开发生成项目宪法文档的本地 CLI 工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "erayendes/kortext 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-26 10 → 2026-11-25 10（+0）
+2026-10-26 10 → 2026-11-26 10（+0）
 
 
 ---

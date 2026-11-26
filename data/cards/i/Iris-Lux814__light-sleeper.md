@@ -1,6 +1,6 @@
 # Iris-Lux814/light-sleeper
 
-⭐ 30 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Iris-Lux814/light-sleeper) · 个人维护 · 中文 README
+⭐ 31 · JavaScript · AGPL-3.0 · 推送 2026-10-19 · [GitHub](https://github.com/Iris-Lux814/light-sleeper) · 个人维护 · 中文 README
 
 **给 AI 伴侣加睡眠/做梦机制的库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Iris-Lux814/light-sleeper 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 29 --> 31
-    line [30, 30]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 29 --> 32
+    line [30, 31]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 31（+1）
 
 
 ---

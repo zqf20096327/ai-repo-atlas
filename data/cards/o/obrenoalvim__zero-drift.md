@@ -1,6 +1,6 @@
 # obrenoalvim/zero-drift
 
-⭐ 37 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/obrenoalvim/zero-drift) · [官网](https://github.com/obrenoalvim/zero-drift) · 个人维护
+⭐ 38 · JavaScript · MIT · 推送 2026-10-22 · [GitHub](https://github.com/obrenoalvim/zero-drift) · [官网](https://github.com/obrenoalvim/zero-drift) · 个人维护
 
 **让 Claude Code 长会话保持不漂移的任务交接技能**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "obrenoalvim/zero-drift 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-15", "2026-11-19", "2026-11-21", "2026-11-26"]
     y-axis "stars" 33 --> 42
-    line [41, 37, 34, 35, 36, 37, 36, 37, 37]
+    line [41, 37, 34, 35, 36, 37, 36, 37, 38]
 ```
 
-2026-10-23 41 → 2026-11-25 37（-4）
+2026-10-24 41 → 2026-11-26 38（-3）
 
 
 ---

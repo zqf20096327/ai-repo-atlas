@@ -1,6 +1,6 @@
 # Deodat-Lawson/LaunchStack
 
-⭐ 898 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Deodat-Lawson/LaunchStack) · 个人维护
+⭐ 898 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/Deodat-Lawson/LaunchStack) · 个人维护
 
 **AI 应用引擎+自托管文档问答参考应用：摄取、RAG、知识图谱**
 
@@ -46,12 +46,12 @@ TypeScript 编写的 AI 原生应用引擎，以端口化砖块（persistence、
 ```mermaid
 xychart-beta
     title "Deodat-Lawson/LaunchStack 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
     y-axis "stars" 893 --> 899
     line [894, 896, 897, 898, 898]
 ```
 
-2026-10-23 894 → 2026-11-25 898（+4）
+2026-10-24 894 → 2026-11-26 898（+4）
 
 
 ---

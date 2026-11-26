@@ -1,6 +1,6 @@
 # LucivHuang/heimdallr-sdk
 
-⭐ 685 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/LucivHuang/heimdallr-sdk) · [官网](https://lucivhuang.github.io/heimdallr-sdk/) · 个人维护 · 中文 README
+⭐ 684 · TypeScript · MIT · 推送 2026-08-22 · [GitHub](https://github.com/LucivHuang/heimdallr-sdk) · [官网](https://lucivhuang.github.io/heimdallr-sdk/) · 个人维护 · 中文 README
 
 **插件化的前端埋点监控 SDK（错误/性能/行为采集）**
 
@@ -45,12 +45,12 @@ TypeScript 编写、Rollup 构建、monorepo 组织的前端监控 SDK，采用�
 ```mermaid
 xychart-beta
     title "LucivHuang/heimdallr-sdk 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 684 --> 688
-    line [685, 686, 687, 685, 686, 685, 685]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-01", "2026-11-06", "2026-11-10", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 683 --> 688
+    line [685, 686, 687, 685, 686, 685, 684]
 ```
 
-2026-10-23 685 → 2026-11-25 685（+0）
+2026-10-24 685 → 2026-11-26 684（-1）
 
 
 ---

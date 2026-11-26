@@ -1,6 +1,6 @@
 # HenBOMB/Polyfish
 
-⭐ 18 · Rust · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/HenBOMB/Polyfish) · 个人维护
+⭐ 19 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/HenBOMB/Polyfish) · 个人维护
 
 **Polytopia 游戏的 Rust AI 引擎：AlphaZero 式自博弈训练与实时状态提取**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "HenBOMB/Polyfish 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 10 --> 19
-    line [11, 13, 14, 15, 13, 16, 17, 18, 18]
+    title "HenBOMB/Polyfish 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 12 --> 20
+    line [13, 14, 15, 13, 16, 17, 18, 19]
 ```
 
-2026-10-23 11 → 2026-11-25 18（+7）
+2026-10-24 13 → 2026-11-26 19（+6）
 
 
 ---

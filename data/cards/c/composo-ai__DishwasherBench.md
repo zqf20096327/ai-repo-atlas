@@ -1,6 +1,6 @@
 # composo-ai/DishwasherBench
 
-⭐ 74 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/composo-ai/DishwasherBench) · [官网](https://composo.ai) · 组织维护
+⭐ 75 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/composo-ai/DishwasherBench) · [官网](https://composo.ai) · 组织维护
 
 **洗碗机装载游戏基准：物理仿真中评测语言模型**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "composo-ai/DishwasherBench 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 71 --> 75
-    line [72, 73, 72, 73, 74, 74]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 71 --> 76
+    line [72, 73, 72, 73, 74, 75]
 ```
 
-2026-10-23 72 → 2026-11-25 74（+2）
+2026-10-24 72 → 2026-11-26 75（+3）
 
 
 ---

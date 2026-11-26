@@ -1,6 +1,6 @@
 # MatrixCoreX/RustClaw
 
-⭐ 26 · Rust · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/MatrixCoreX/RustClaw) · 组织维护 · 中文 README
+⭐ 26 · Rust · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/MatrixCoreX/RustClaw) · [官网](https://rustclaw.matrixai.one/) · 组织维护 · 中文 README
 
 **树莓派/Ubuntu/macOS 可自托管的 Rust AI agent 平台**
 
@@ -40,6 +40,18 @@
 
 > L3: Agent Runtime is a self-hosted AI agent platform written in Rust for Raspberry Pi, Ubuntu, and macOS. Use the web co
 > L5: Connect external tools through the Model Context Protocol (MCP) and import your own documents into a retrieval-augme
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "MatrixCoreX/RustClaw 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 25 --> 27
+    line [26, 26]
+```
+
+2026-11-25 26 → 2026-11-26 26（+0）
 
 
 ---

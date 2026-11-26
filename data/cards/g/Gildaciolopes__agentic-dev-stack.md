@@ -1,6 +1,6 @@
 # Gildaciolopes/agentic-dev-stack
 
-⭐ 6 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Gildaciolopes/agentic-dev-stack) · [官网](https://github.com/Gildaciolopes/agentic-dev-stack/blob/main/docs/00-smart-vibe-coding.md) · 个人维护
+⭐ 7 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Gildaciolopes/agentic-dev-stack) · [官网](https://github.com/Gildaciolopes/agentic-dev-stack/blob/main/docs/00-smart-vibe-coding.md) · 个人维护
 
 **为 Claude Code 用户提供多模型编排与省 token 的开发栈**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Gildaciolopes/agentic-dev-stack 星数(近 4 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 6, 6]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 6, 7]
 ```
 
-2026-11-11 3 → 2026-11-25 6（+3）
+2026-11-11 3 → 2026-11-26 7（+4）
 
 
 ---

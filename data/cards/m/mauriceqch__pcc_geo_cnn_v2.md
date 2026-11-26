@@ -46,12 +46,12 @@ Université Paris-Saclay 团队发布的论文《Improved Deep Point Cloud Geome
 ```mermaid
 xychart-beta
     title "mauriceqch/pcc_geo_cnn_v2 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-23 78 → 2026-11-25 78（+0）
+2026-10-24 78 → 2026-11-26 78（+0）
 
 
 ---

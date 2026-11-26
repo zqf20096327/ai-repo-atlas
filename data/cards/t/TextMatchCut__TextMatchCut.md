@@ -1,6 +1,6 @@
 # TextMatchCut/TextMatchCut
 
-⭐ 20 · TypeScript · GPL-3.0 · 推送 2025-12-06 · [GitHub](https://github.com/TextMatchCut/TextMatchCut) · [官网](https://textmatchcut.github.io/) · 组织维护
+⭐ 21 · TypeScript · GPL-3.0 · 推送 2025-12-06 · [GitHub](https://github.com/TextMatchCut/TextMatchCut) · [官网](https://textmatchcut.github.io/) · 组织维护
 
 **生成分词对齐混剪视频的跨平台本地桌面应用**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "TextMatchCut/TextMatchCut 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 18 --> 21
-    line [19, 20, 19, 20, 20]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 18 --> 22
+    line [19, 20, 19, 20, 21]
 ```
 
-2026-10-23 19 → 2026-11-25 20（+1）
+2026-10-24 19 → 2026-11-26 21（+2）
 
 
 ---

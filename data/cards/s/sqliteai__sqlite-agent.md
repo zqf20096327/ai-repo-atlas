@@ -1,6 +1,6 @@
 # sqliteai/sqlite-agent
 
-⭐ 42 · C · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sqliteai/sqlite-agent) · [官网](https://sqlite.ai) · 组织维护
+⭐ 43 · C · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sqliteai/sqlite-agent) · [官网](https://sqlite.ai) · 组织维护
 
 **让 SQLite 数据库内运行自主 AI agent 的 SQLite 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sqliteai/sqlite-agent 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-26"]
     y-axis "stars" 41 --> 44
-    line [42, 43, 42, 42]
+    line [42, 43, 42, 43]
 ```
 
-2026-10-23 42 → 2026-11-25 42（+0）
+2026-10-24 42 → 2026-11-26 43（+1）
 
 
 ---

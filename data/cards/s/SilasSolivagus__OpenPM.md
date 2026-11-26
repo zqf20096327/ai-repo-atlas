@@ -42,6 +42,18 @@
 > L24: OpenPM compiles rough ideas into **one standalone offline HTML file where Flowchart, Clickable Prototype, and Logic
 > L85: 1. **`01-pull-wiki`**: Pulls existing Wiki / WeCom / Feishu pages into `history/prd-remote.md` and `history/pull-di
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "SilasSolivagus/OpenPM 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `3673071a68e7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # 47thtechcorner/RayCodes_FreeToken
 
-⭐ 16 · Python · 推送 2026-08-23 · [GitHub](https://github.com/47thtechcorner/RayCodes_FreeToken) · [官网](https://youtu.be/kdoP47Xtpjw) · 个人维护
+⭐ 17 · Python · 推送 2026-08-23 · [GitHub](https://github.com/47thtechcorner/RayCodes_FreeToken) · [官网](https://youtu.be/kdoP47Xtpjw) · 个人维护
 
 **面向低显存消费级 GPU 的本地 MoE 推理服务引擎**
 
@@ -46,12 +46,12 @@ FreeToken 是一个边缘端 Mixture-of-Experts 推理服务引擎，用于在�
 ```mermaid
 xychart-beta
     title "47thtechcorner/RayCodes_FreeToken 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 14 --> 17
-    line [15, 16, 15, 16, 16]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 15, 16, 17]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 17（+2）
 
 
 ---

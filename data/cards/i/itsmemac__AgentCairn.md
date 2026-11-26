@@ -1,6 +1,6 @@
 # itsmemac/AgentCairn
 
-⭐ 7 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/itsmemac/AgentCairn) · 个人维护
+⭐ 8 · TypeScript · MIT · 推送 2026-11-21 · [GitHub](https://github.com/itsmemac/AgentCairn) · 个人维护
 
 **AI 编码 agent 的共享持久项目记忆：MCP 服务器+仪表盘**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "itsmemac/AgentCairn 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 4 --> 8
-    line [5, 6, 7, 7]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 4 --> 9
+    line [5, 6, 7, 8]
 ```
 
-2026-10-23 5 → 2026-11-25 7（+2）
+2026-10-24 5 → 2026-11-26 8（+3）
 
 
 ---

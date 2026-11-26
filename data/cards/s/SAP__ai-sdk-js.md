@@ -1,6 +1,6 @@
 # SAP/ai-sdk-js
 
-⭐ 131 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/SAP/ai-sdk-js) · 组织维护
+⭐ 131 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/SAP/ai-sdk-js) · 组织维护
 
 **SAP 官方 AI SDK：接入 SAP AI Core 与生成式 AI Hub 的 JS/TS 工具包**
 
@@ -46,12 +46,12 @@ SAP 官方维护的 JavaScript/TypeScript SDK，面向在业务应用中集成 S
 ```mermaid
 xychart-beta
     title "SAP/ai-sdk-js 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 126 --> 132
     line [127, 128, 129, 128, 130, 131, 131]
 ```
 
-2026-10-23 127 → 2026-11-25 131（+4）
+2026-10-24 127 → 2026-11-26 131（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # Joy-word/AutoXiaoer
 
-⭐ 35 · Kotlin · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Joy-word/AutoXiaoer) · 个人维护 · 中文 README
+⭐ 36 · Kotlin · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Joy-word/AutoXiaoer) · 个人维护 · 中文 README
 
 **安卓手机上的端侧视觉 Agent 应用：像人一样操作手机完成自然语言任务**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Joy-word/AutoXiaoer 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 27 --> 36
-    line [28, 32, 34, 35, 35]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 27 --> 37
+    line [28, 32, 34, 35, 36]
 ```
 
-2026-10-23 28 → 2026-11-25 35（+7）
+2026-10-24 28 → 2026-11-26 36（+8）
 
 
 ---

@@ -46,12 +46,12 @@ AutoCon4 会议 WS:A3 议程的实操教程仓库：在预配置 Linux VM 上以
 ```mermaid
 xychart-beta
     title "JNPRAutomate/agentic-ai-workshop 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

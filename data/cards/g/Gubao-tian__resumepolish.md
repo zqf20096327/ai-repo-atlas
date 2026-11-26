@@ -41,6 +41,18 @@ Web 应用：粘贴一条简历经历与目标岗位 JD，返回改写描述、�
 > L14: 产品不会新增你原文与补充回答中没有的事实、数字或专有名词；输出中的每个数字都必须可溯源至原文或补充回答（服务端七道校验一票否决）。
 > L42: 在 `.env` 中填写 `LLM_API_KEY`（默认 DeepSeek，OpenAI 兼容协议）。`.env` 由 `npm start` 自动加载，
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Gubao-tian/resumepolish 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
+```
+
+2026-11-25 6 → 2026-11-26 6（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `a45566a1062c` · [字段定义](../../DATASET.md)*

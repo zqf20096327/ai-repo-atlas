@@ -45,12 +45,12 @@ Itaú Quant Challenge 2025 的参赛项目（自称排名 40/953）：纯多头�
 ```mermaid
 xychart-beta
     title "paccafelipe/itau-quant-challenge-2025 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-23 23 → 2026-11-25 23（+0）
+2026-10-24 23 → 2026-11-26 23（+0）
 
 
 ---

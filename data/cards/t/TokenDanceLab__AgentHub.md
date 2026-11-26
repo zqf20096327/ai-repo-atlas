@@ -1,6 +1,6 @@
 # TokenDanceLab/AgentHub
 
-⭐ 14 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TokenDanceLab/AgentHub) · [官网](https://hub.tokendancelab.com) · 组织维护 · 中文 README
+⭐ 15 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/TokenDanceLab/AgentHub) · [官网](https://hub.tokendancelab.com) · 组织维护 · 中文 README
 
 **把 AI Agent 拉进 IM 群聊协作的多智能体平台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TokenDanceLab/AgentHub 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-02", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 9 --> 15
-    line [11, 10, 11, 12, 13, 14, 14]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-02", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 9 --> 16
+    line [11, 10, 11, 12, 13, 14, 15]
 ```
 
-2026-10-23 11 → 2026-11-25 14（+3）
+2026-10-24 11 → 2026-11-26 15（+4）
 
 
 ---

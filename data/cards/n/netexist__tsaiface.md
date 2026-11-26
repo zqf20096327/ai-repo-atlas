@@ -41,6 +41,18 @@
 > L11: - **实时换脸**：摄像头实时换脸，可用于直播 / 视频通话
 > L39: |`inswapper_128_fp16.onnx`|`models/`|换脸主模型（必需）|
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "netexist/tsaiface 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `944f0a3aebab` · [字段定义](../../DATASET.md)*

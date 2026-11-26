@@ -1,6 +1,6 @@
 # valentijnh/livebridge-ableton-mcp
 
-⭐ 15 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/valentijnh/livebridge-ableton-mcp) · [官网](https://valentijnh.github.io/livebridge-ableton-mcp/) · 个人维护
+⭐ 16 · Python · MIT · 推送 2026-09-23 · [GitHub](https://github.com/valentijnh/livebridge-ableton-mcp) · [官网](https://valentijnh.github.io/livebridge-ableton-mcp/) · 个人维护
 
 **连接 Claude 与 Ableton Live 12 的 MCP 服务器，用对话做音乐**
 
@@ -45,12 +45,12 @@ Model Context Protocol 服务器，把 Claude（Claude Code、Claude Desktop 或
 ```mermaid
 xychart-beta
     title "valentijnh/livebridge-ableton-mcp 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 9 --> 16
-    line [10, 11, 10, 12, 13, 14, 15, 15]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-14", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 9 --> 17
+    line [10, 11, 10, 12, 13, 14, 15, 16]
 ```
 
-2026-10-23 10 → 2026-11-25 15（+5）
+2026-10-24 10 → 2026-11-26 16（+6）
 
 
 ---

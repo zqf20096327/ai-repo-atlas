@@ -1,6 +1,6 @@
 # roke22/pisha
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/roke22/pisha) · [官网](https://pisha.dev) · 个人维护
+⭐ 5 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/roke22/pisha) · [官网](https://pisha.dev) · 个人维护
 
 **为 Claude Code 多代理团队提供协调器与自托管仪表盘**
 
@@ -46,12 +46,12 @@ Pisha 给 Claude Code 加一个协调器会话，将用户请求拆成任务分�
 ```mermaid
 xychart-beta
     title "roke22/pisha 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-11-14 5 → 2026-11-25 5（+0）
+2026-11-14 5 → 2026-11-26 5（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # concertypin/ArisuTalk
 
-⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/concertypin/ArisuTalk) · [官网](http://dev.arisutalk.moe/) · 个人维护
+⭐ 17 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/concertypin/ArisuTalk) · [官网](http://dev.arisutalk.moe/) · 个人维护
 
 **本地优先的多 LLM 角色扮演聊天 Web 应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "concertypin/ArisuTalk 星数(近 2 点)"
-    x-axis ["2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-13", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-11-13 17 → 2026-11-25 17（+0）
+2026-11-13 17 → 2026-11-26 17（+0）
 
 
 ---

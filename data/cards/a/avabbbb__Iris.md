@@ -1,6 +1,6 @@
 # avabbbb/Iris
 
-⭐ 146 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/avabbbb/Iris) · [官网](https://iris.avabbbb.com) · 个人维护 · 中文 README
+⭐ 145 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/avabbbb/Iris) · [官网](https://iris.avabbbb.com) · 个人维护 · 中文 README
 
 **开源无限画布 AgentOS：人与编码代理共同编辑的创意生成工具**
 
@@ -46,12 +46,12 @@ Iris（前身 Flovart）是一个开源、本地优先的创意工作流工具�
 ```mermaid
 xychart-beta
     title "avabbbb/Iris 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
-    y-axis "stars" 145 --> 147
-    line [146, 146]
+    x-axis ["2026-11-20", "2026-11-26"]
+    y-axis "stars" 144 --> 147
+    line [146, 145]
 ```
 
-2026-11-20 146 → 2026-11-25 146（+0）
+2026-11-20 146 → 2026-11-26 145（-1）
 
 
 ---

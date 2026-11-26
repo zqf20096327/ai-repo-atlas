@@ -1,6 +1,6 @@
 # intel/gpu-ai-skills
 
-⭐ 53 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/intel/gpu-ai-skills) · 组织维护
+⭐ 53 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/intel/gpu-ai-skills) · 组织维护
 
 **Intel GPU 上运行/评测/剖析 HF 模型的 Agent Skills 集合**
 
@@ -44,13 +44,13 @@ Intel 维护的 Agent Skills 集合，覆盖在 Intel GPU（Arc、Arc Pro、Batt
 
 ```mermaid
 xychart-beta
-    title "intel/gpu-ai-skills 星数(近 8 点)"
-    x-axis ["2026-10-22", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-25"]
+    title "intel/gpu-ai-skills 星数(近 9 点)"
+    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 41 --> 54
-    line [42, 43, 46, 42, 50, 51, 52, 53]
+    line [42, 43, 46, 42, 50, 51, 52, 53, 53]
 ```
 
-2026-10-22 42 → 2026-11-25 53（+11）
+2026-10-23 42 → 2026-11-26 53（+11）
 
 
 ---

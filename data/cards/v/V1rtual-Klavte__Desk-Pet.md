@@ -41,6 +41,18 @@ Rust 原生宿主 + 随包分发 Node 运行时的桌面宠物应用，角色以
 > L25: 角色以透明置顶窗口常驻桌面：可以陪聊、感知前台窗口并在合适的时候主动搭话，也能调用工具完成文件读写、命令执行与任务编排。整个应用由 Rust 原生宿主（含原生 UI 与平台能力）与一个随包分发的 Node 运行时组成，**没有 W
 > L98: - **出网请求只发生在模型服务、网页抓取、更新检查与 MCP 远程连接**：模型侧为 OpenAI 兼容接口（默认 DeepSeek，也支持 OpenAI / Ollama / LM Studio 等），Provider 调用单
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "V1rtual-Klavte/Desk-Pet 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `b5722424e2f7` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # wenboxia/airadar
 
-⭐ 23 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/wenboxia/airadar) · [官网](https://wenboxia.github.io/airadar/) · 个人维护 · 中文 README
+⭐ 23 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/wenboxia/airadar) · [官网](https://wenboxia.github.io/airadar/) · 个人维护 · 中文 README
 
 **每日定时运行的 AI 行业情报筛选与知识库工作流**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "wenboxia/airadar 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 22 --> 24
     line [23, 23]
 ```
 
-2026-10-23 23 → 2026-11-25 23（+0）
+2026-10-24 23 → 2026-11-26 23（+0）
 
 
 ---

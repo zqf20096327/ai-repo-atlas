@@ -1,6 +1,6 @@
 # claude-code-book/spinner-verbs-dictionary
 
-⭐ 76 · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/claude-code-book/spinner-verbs-dictionary) · [官网](https://github.com/paolobozzola/spinner-verbs-dictionary#download) · 个人维护
+⭐ 78 · NOASSERTION · 推送 2026-03-04 · [GitHub](https://github.com/claude-code-book/spinner-verbs-dictionary) · [官网](https://github.com/paolobozzola/spinner-verbs-dictionary#download) · 个人维护
 
 **Claude 思考时旋转动词的幽默词典（191 条，免费 PDF）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "claude-code-book/spinner-verbs-dictionary 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 75, 76, 76]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 74 --> 79
+    line [75, 76, 75, 76, 78]
 ```
 
-2026-10-23 75 → 2026-11-25 76（+1）
+2026-10-24 75 → 2026-11-26 78（+3）
 
 
 ---

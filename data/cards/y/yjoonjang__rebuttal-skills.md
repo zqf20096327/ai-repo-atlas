@@ -1,6 +1,6 @@
 # yjoonjang/rebuttal-skills
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/yjoonjang/rebuttal-skills) · [官网](https://yjoonjang-reviewsearch.hf.space) · 个人维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-07-30 · [GitHub](https://github.com/yjoonjang/rebuttal-skills) · [官网](https://yjoonjang-reviewsearch.hf.space) · 个人维护
 
 **论文评审回复技能包：检索真实评审先例并代跑实验起草 rebuttal**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "yjoonjang/rebuttal-skills 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 17 --> 20
-    line [18, 19, 18, 19, 19]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 17 --> 21
+    line [18, 19, 18, 19, 20]
 ```
 
-2026-10-23 18 → 2026-11-25 19（+1）
+2026-10-24 18 → 2026-11-26 20（+2）
 
 
 ---

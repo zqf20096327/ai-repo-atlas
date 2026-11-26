@@ -1,6 +1,6 @@
 # KeyArgo/hermes-game-center
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/KeyArgo/hermes-game-center) · 个人维护
+⭐ 8 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/KeyArgo/hermes-game-center) · 个人维护
 
 **Hermes Agent 桌游/棋牌插件：18 种游戏与拒绝非法着法的裁判**
 
@@ -41,6 +41,18 @@ Hermes Agent 插件，提供 11 种 Play 棋牌游戏（国际象棋、围棋、
 > L4: Eighteen games Hermes can actually play — and a referee that refuses an illegal move out loud. The model proposes th
 > L14: That puts the plugin in `~/.hermes/plugins/hermes-gameshelf/` and copies the Games page into the Desktop app from t
 > L111: **Play the computer** (`/games allow-ai <game> black=local`) is you agreeing to face the built-in player. A model 
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "KeyArgo/hermes-game-center 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 9
+    line [4, 8]
+```
+
+2026-11-25 4 → 2026-11-26 8（+4）
 
 
 ---

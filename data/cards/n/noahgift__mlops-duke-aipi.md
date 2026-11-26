@@ -41,6 +41,18 @@
 > L10: In this course, you will learn about the methodologies involved in Machine Learning Engineering and MLOps. By the e
 > L36: ## Syllabus
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/mlops-duke-aipi 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-11-25 33 → 2026-11-26 33（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `aaff957db642` · [字段定义](../../DATASET.md)*

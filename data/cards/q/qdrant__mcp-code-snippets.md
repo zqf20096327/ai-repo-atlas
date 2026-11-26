@@ -45,12 +45,12 @@ Qdrant 维护的本地 MCP server 适配器，使 Agent（如 MCP 客户端）�
 ```mermaid
 xychart-beta
     title "qdrant/mcp-code-snippets 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 12 --> 14
     line [13, 13]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 13（+0）
 
 
 ---

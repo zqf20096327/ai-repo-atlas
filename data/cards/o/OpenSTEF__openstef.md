@@ -1,6 +1,6 @@
 # OpenSTEF/openstef
 
-⭐ 184 · Python · MPL-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/OpenSTEF/openstef) · [官网](https://openstef.github.io/openstef) · 组织维护
+⭐ 184 · Python · MPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/OpenSTEF/openstef) · [官网](https://openstef.github.io/openstef) · 组织维护
 
 **电力行业短期负荷预测的机器学习流水线 Python 框架**
 
@@ -45,12 +45,12 @@ OpenSTEF（Open Short-Term Energy Forecasting）是面向能源领域的模型�
 ```mermaid
 xychart-beta
     title "OpenSTEF/openstef 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-19", "2026-11-21", "2026-11-26"]
     y-axis "stars" 174 --> 185
     line [175, 176, 178, 179, 180, 175, 180, 182, 183, 184, 184]
 ```
 
-2026-10-23 175 → 2026-11-25 184（+9）
+2026-10-24 175 → 2026-11-26 184（+9）
 
 
 ---

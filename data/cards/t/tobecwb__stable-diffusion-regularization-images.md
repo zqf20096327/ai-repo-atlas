@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "tobecwb/stable-diffusion-regularization-images 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 161 --> 163
     line [162, 162]
 ```
 
-2026-10-23 162 → 2026-11-25 162（+0）
+2026-10-24 162 → 2026-11-26 162（+0）
 
 
 ---

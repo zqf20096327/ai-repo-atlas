@@ -1,6 +1,6 @@
 # AshiteshSingh/House-price-prediction
 
-⭐ 64 · Python · 推送 2026-03-27 · [GitHub](https://github.com/AshiteshSingh/House-price-prediction) · [官网](https://ashiteshsingh.github.io/House-price-prediction/) · 个人维护
+⭐ 63 · Python · 推送 2026-03-27 · [GitHub](https://github.com/AshiteshSingh/House-price-prediction) · [官网](https://ashiteshsingh.github.io/House-price-prediction/) · 个人维护
 
 **印度房价预测系统：5 模型堆叠给出估价**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "AshiteshSingh/House-price-prediction 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-16", "2026-11-19", "2026-11-26"]
     y-axis "stars" 57 --> 66
-    line [62, 58, 60, 61, 63, 65, 64, 64]
+    line [62, 58, 60, 61, 63, 65, 64, 63]
 ```
 
-2026-10-23 62 → 2026-11-25 64（+2）
+2026-10-24 62 → 2026-11-26 63（+1）
 
 
 ---

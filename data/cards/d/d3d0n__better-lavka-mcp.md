@@ -1,6 +1,6 @@
 # d3d0n/better-lavka-mcp
 
-⭐ 58 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/d3d0n/better-lavka-mcp) · [官网](https://pypi.org/project/better-lavka-mcp/) · 个人维护
+⭐ 59 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/d3d0n/better-lavka-mcp) · [官网](https://pypi.org/project/better-lavka-mcp/) · 个人维护
 
 **让 AI 助手代为下单 Yandex Lavka 乌兹别克斯坦生鲜的 MCP 服务器**
 
@@ -41,6 +41,18 @@
 > L22: An MCP server for Yandex Lavka in Uzbekistan. Connect it to Claude, Codex, OpenCode or any other MCP client, and yo
 > L93: Twenty-six tools with plain verb + noun names, so the assistant picks the right one on the first try.
 > L151:  Unofficial · runs on your machine · GPL-3.0-only
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "d3d0n/better-lavka-mcp 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 57 --> 60
+    line [58, 59]
+```
+
+2026-11-25 58 → 2026-11-26 59（+1）
 
 
 ---

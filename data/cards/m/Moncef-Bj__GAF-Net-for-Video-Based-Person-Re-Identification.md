@@ -40,6 +40,18 @@ GAF-Net（VISAPP 2024）论文的官方 PyTorch 实现，将 RGB tracklet 提取
 > L17: Video-based person re-identification (Re-ID) is a challenging task aiming to match individuals across various camer
 > L32: This repository supports independently running the VISAPP 2024 iLIDS-VID feature-concatenation evaluation using the
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Moncef-Bj/GAF-Net-for-Video-Based-Person-Re-Identification 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `af4270094c33` · [字段定义](../../DATASET.md)*

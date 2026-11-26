@@ -1,6 +1,6 @@
 # Kaval-AI/kavalai
 
-⭐ 13 · Python · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/Kaval-AI/kavalai) · [官网](http://docs.kaval.ai/) · 组织维护
+⭐ 14 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Kaval-AI/kavalai) · [官网](http://docs.kaval.ai/) · 组织维护
 
 **构建类型化、可测试 agentic 工作流的 Python 库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Kaval-AI/kavalai 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 11 --> 15
+    line [12, 13, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 14（+2）
 
 
 ---

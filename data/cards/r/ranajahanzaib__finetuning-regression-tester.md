@@ -1,6 +1,6 @@
 # ranajahanzaib/finetuning-regression-tester
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ranajahanzaib/finetuning-regression-tester) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ranajahanzaib/finetuning-regression-tester) · 个人维护
 
 **微调前后对比评估工具：量化任务收益与行为回退**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ranajahanzaib/finetuning-regression-tester 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-11 4 → 2026-11-25 4（+0）
+2026-11-11 4 → 2026-11-26 4（+0）
 
 
 ---

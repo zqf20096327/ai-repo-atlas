@@ -1,6 +1,6 @@
 # HeytalePazguato/event-horizon
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HeytalePazguato/event-horizon) · [官网](https://heytalepazguato.github.io/event-horizon/) · 个人维护
+⭐ 14 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/HeytalePazguato/event-horizon) · [官网](https://heytalepazguato.github.io/event-horizon/) · 个人维护
 
 **VS Code 扩展：将多个 AI 编码代理编排为一个协作团队**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HeytalePazguato/event-horizon 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

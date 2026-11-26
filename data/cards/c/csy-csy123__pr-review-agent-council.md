@@ -1,6 +1,6 @@
 # csy-csy123/pr-review-agent-council
 
-⭐ 89 · Python · 推送 2026-05-24 · [GitHub](https://github.com/csy-csy123/pr-review-agent-council) · [官网](https://github.com/csy-csy123/pr-review-agent-council#readme) · 个人维护 · 中文 README
+⭐ 90 · Python · 推送 2026-05-24 · [GitHub](https://github.com/csy-csy123/pr-review-agent-council) · [官网](https://github.com/csy-csy123/pr-review-agent-council#readme) · 个人维护 · 中文 README
 
 **多 Agent 辩论式 PR 代码审查工具，含 AI Judge 质量评估**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "csy-csy123/pr-review-agent-council 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 86 --> 90
-    line [87, 88, 89, 89]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 86 --> 91
+    line [87, 88, 89, 90]
 ```
 
-2026-10-23 87 → 2026-11-25 89（+2）
+2026-10-24 87 → 2026-11-26 90（+3）
 
 
 ---

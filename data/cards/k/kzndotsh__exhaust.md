@@ -1,6 +1,6 @@
 # kzndotsh/exhaust
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kzndotsh/exhaust) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **面向安全研究的 agent 工具包：驱动 agent 详尽探测授权目标**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # realZillionX/InspireSkill
 
-⭐ 579 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/realZillionX/InspireSkill) · 组织维护 · 中文 README
+⭐ 582 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/realZillionX/InspireSkill) · 组织维护 · 中文 README
 
 **给启智平台科研用户：把算力操作搬进本地 CLI 与 AI Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "realZillionX/InspireSkill 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 576 --> 580
-    line [577, 579]
+    title "realZillionX/InspireSkill 星数(近 3 点)"
+    x-axis ["2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 576 --> 583
+    line [577, 579, 582]
 ```
 
-2026-11-22 577 → 2026-11-25 579（+2）
+2026-11-22 577 → 2026-11-26 582（+5）
 
 
 ---

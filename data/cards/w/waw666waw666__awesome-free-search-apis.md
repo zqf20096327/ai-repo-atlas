@@ -1,6 +1,6 @@
 # waw666waw666/awesome-free-search-apis
 
-⭐ 10 · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/waw666waw666/awesome-free-search-apis) · 个人维护 · 中文 README
+⭐ 12 · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/waw666waw666/awesome-free-search-apis) · 个人维护 · 中文 README
 
 **给无法联网的 AI 配免费搜索/抓取/嵌入 API 额度的清单**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "waw666waw666/awesome-free-search-apis 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 6 --> 11
-    line [7, 10]
+    title "waw666waw666/awesome-free-search-apis 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 6 --> 13
+    line [7, 10, 12]
 ```
 
-2026-11-23 7 → 2026-11-25 10（+3）
+2026-11-23 7 → 2026-11-26 12（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # RMA-MUN/oa-brain
 
-⭐ 13 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/RMA-MUN/oa-brain) · 组织维护 · 中文 README
+⭐ 14 · Python · MIT · 推送 2026-06-19 · [GitHub](https://github.com/RMA-MUN/oa-brain) · 组织维护 · 中文 README
 
 **前后端分离的 AI 办公系统：多Agent协作+RAG知识库问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RMA-MUN/oa-brain 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # cyberspacesec/har-skills
 
-⭐ 41 · Go · MIT · 推送 2026-07-20 · [GitHub](https://github.com/cyberspacesec/har-skills) · 组织维护 · 中文 README
+⭐ 42 · Go · MIT · 推送 2026-07-20 · [GitHub](https://github.com/cyberspacesec/har-skills) · 组织维护 · 中文 README
 
 **面向 AI Agent 的 HAR 文件分析工具集，含 CLI 与 Go SDK**
 
@@ -47,12 +47,12 @@ AI 优先设计的 HAR（HTTP Archive）分析工具：以 CLAUDE.md 技能文�
 ```mermaid
 xychart-beta
     title "cyberspacesec/har-skills 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 40 --> 42
-    line [41, 41]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 40 --> 43
+    line [41, 42]
 ```
 
-2026-10-23 41 → 2026-11-25 41（+0）
+2026-10-24 41 → 2026-11-26 42（+1）
 
 
 ---

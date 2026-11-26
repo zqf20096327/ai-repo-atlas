@@ -1,6 +1,6 @@
 # bug-ops/mcp-execution
 
-⭐ 48 · Rust · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/bug-ops/mcp-execution) · 组织维护
+⭐ 48 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/bug-ops/mcp-execution) · 组织维护
 
 **把 MCP 服务器转成可执行 TypeScript 工具，节省 token**
 
@@ -11,7 +11,7 @@ Rust 编写的 MCP 工具代码生成器：内省任意 MCP 服务器，按渐�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | Apache-2.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -46,12 +46,12 @@ Rust 编写的 MCP 工具代码生成器：内省任意 MCP 服务器，按渐�
 ```mermaid
 xychart-beta
     title "bug-ops/mcp-execution 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-20", "2026-11-26"]
     y-axis "stars" 45 --> 49
     line [46, 47, 48, 48]
 ```
 
-2026-10-23 46 → 2026-11-25 48（+2）
+2026-10-24 46 → 2026-11-26 48（+2）
 
 
 ---

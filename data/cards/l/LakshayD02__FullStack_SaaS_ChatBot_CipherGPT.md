@@ -1,6 +1,6 @@
 # LakshayD02/FullStack_SaaS_ChatBot_CipherGPT
 
-⭐ 14 · TypeScript · 推送 2026-08-20 · [GitHub](https://github.com/LakshayD02/FullStack_SaaS_ChatBot_CipherGPT) · [官网](https://ciphergpt-lakshay.vercel.app/) · 个人维护
+⭐ 13 · TypeScript · 推送 2026-08-20 · [GitHub](https://github.com/LakshayD02/FullStack_SaaS_ChatBot_CipherGPT) · [官网](https://ciphergpt-lakshay.vercel.app/) · 个人维护
 
 **MERN 全栈 SaaS AI 聊天平台，面向开发者与重度用户**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "LakshayD02/FullStack_SaaS_ChatBot_CipherGPT 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 13 --> 15
-    line [14, 14]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [14, 13]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 13（-1）
 
 
 ---

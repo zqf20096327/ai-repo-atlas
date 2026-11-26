@@ -1,6 +1,6 @@
 # alexjiaguo/dify-mcp
 
-⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-11-07 · [GitHub](https://github.com/alexjiaguo/dify-mcp) · [官网](https://github.com/alexjiaguo/dify-mcp) · 个人维护
+⭐ 32 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/alexjiaguo/dify-mcp) · [官网](https://github.com/alexjiaguo/dify-mcp) · 个人维护
 
 **让任意 AI agent 自动构建/测试/发布 Dify 工作流的 MCP 服务器与 CLI**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alexjiaguo/dify-mcp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-25"]
+    title "alexjiaguo/dify-mcp 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-25", "2026-11-26"]
     y-axis "stars" 25 --> 33
-    line [26, 28, 29, 30, 31, 32]
+    line [26, 28, 29, 30, 31, 32, 32]
 ```
 
-2026-10-23 26 → 2026-11-25 32（+6）
+2026-10-24 26 → 2026-11-26 32（+6）
 
 
 ---

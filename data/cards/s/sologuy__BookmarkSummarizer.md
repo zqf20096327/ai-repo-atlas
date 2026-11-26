@@ -1,6 +1,6 @@
 # sologuy/BookmarkSummarizer
 
-⭐ 31 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/sologuy/BookmarkSummarizer) · 个人维护 · 中文 README
+⭐ 32 · Python · Apache-2.0 · 推送 2025-12-01 · [GitHub](https://github.com/sologuy/BookmarkSummarizer) · 个人维护 · 中文 README
 
 **把浏览器书签抓取并生成 AI 摘要，构建可搜索的个人知识库**
 
@@ -46,12 +46,12 @@ Python 命令行工具，从 Chrome/Firefox/Edge/Safari 等浏览器读取书签
 ```mermaid
 xychart-beta
     title "sologuy/BookmarkSummarizer 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 31]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 32]
 ```
 
-2026-10-23 30 → 2026-11-25 31（+1）
+2026-10-24 30 → 2026-11-26 32（+2）
 
 
 ---

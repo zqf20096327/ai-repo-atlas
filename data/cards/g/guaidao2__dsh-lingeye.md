@@ -1,6 +1,6 @@
 # guaidao2/dsh-lingeye
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/guaidao2/dsh-lingeye) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **DeepSeek Harness 的授权渗透测试 agent 模式插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

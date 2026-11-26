@@ -1,6 +1,6 @@
 # xbsheng/stanford-cs329z
 
-⭐ 4 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/xbsheng/stanford-cs329z) · [官网](https://xbsheng.github.io/stanford-cs329z/) · 个人维护 · 中文 README
+⭐ 5 · JavaScript · 推送 2026-10-27 · [GitHub](https://github.com/xbsheng/stanford-cs329z) · [官网](https://xbsheng.github.io/stanford-cs329z/) · 个人维护 · 中文 README
 
 **斯坦福 CS329Z agent 工程课程的中文讲义站点**
 
@@ -39,6 +39,18 @@
 
 > L1: # 斯坦福 CS329Z · Engineering AI Agents（2026 秋）中文讲义
 > L70: - 本站是课程公开材料的中文二次整理，不替代原始课件；公式、数字与引用以 slides 为准。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xbsheng/stanford-cs329z 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 6
+    line [4, 5]
+```
+
+2026-11-25 4 → 2026-11-26 5（+1）
 
 
 ---

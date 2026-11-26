@@ -1,6 +1,6 @@
 # gauravvij/AutoPrompter
 
-⭐ 59 · Python · 推送 2026-04-16 · [GitHub](https://github.com/gauravvij/AutoPrompter) · [官网](https://heyneo.com) · 个人维护
+⭐ 58 · Python · 推送 2026-04-16 · [GitHub](https://github.com/gauravvij/AutoPrompter) · [官网](https://heyneo.com) · 个人维护
 
 **闭环自动优化 LLM 提示词的系统，含 Web 仪表盘**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "gauravvij/AutoPrompter 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "gauravvij/AutoPrompter 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 57 --> 60
-    line [58, 59]
+    line [58, 59, 58]
 ```
 
-2026-10-23 58 → 2026-11-25 59（+1）
+2026-10-24 58 → 2026-11-26 58（+0）
 
 
 ---

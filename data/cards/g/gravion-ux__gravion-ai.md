@@ -1,6 +1,6 @@
 # gravion-ux/gravion-ai
 
-⭐ 4 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/gravion-ux/gravion-ai) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/gravion-ux/gravion-ai) · 个人维护
 
 **为初创公司提供的模块化 AI 平台，含许可与身份层**
 
@@ -40,6 +40,18 @@
 > L8: **Gravion AI — one modular AI platform, every kind of AI a startup needs, ready to rename, re-policy and run as your
 > L11: before the first useful answer. Gravion AI is the base they should start
 > L119: Modules are sold/used individually (variant packages) or together
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "gravion-ux/gravion-ai 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
 
 
 ---

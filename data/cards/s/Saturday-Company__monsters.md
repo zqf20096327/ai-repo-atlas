@@ -1,6 +1,6 @@
 # Saturday-Company/monsters
 
-⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Saturday-Company/monsters) · [官网](https://getmonsters.dev) · 组织维护 · 中文 README
+⭐ 16 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Saturday-Company/monsters) · [官网](https://getmonsters.dev) · 组织维护 · 中文 README
 
 **本地多智能体桌面应用：一队 AI agent 在自己电脑上干活**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Saturday-Company/monsters 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 6 --> 17
-    line [7, 10, 13, 14, 13, 16, 16]
+    title "Saturday-Company/monsters 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 17
+    line [10, 13, 14, 13, 16, 16]
 ```
 
-2026-10-23 7 → 2026-11-25 16（+9）
+2026-10-24 10 → 2026-11-26 16（+6）
 
 
 ---

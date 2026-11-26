@@ -45,13 +45,13 @@ Python 脚本项目，调用 OpenRouter 免费档位的视觉 LLM 完成 OCR：�
 
 ```mermaid
 xychart-beta
-    title "ceodaniyal/free-llm-image-to-text 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 23 --> 28
-    line [24, 25, 26, 27, 27]
+    title "ceodaniyal/free-llm-image-to-text 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 24 --> 28
+    line [25, 26, 27, 27]
 ```
 
-2026-10-23 24 → 2026-11-25 27（+3）
+2026-10-24 25 → 2026-11-26 27（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # siddu1004/SFP
 
-⭐ 5 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/siddu1004/SFP) · [官网](https://www.npmjs.com/package/sfp-hive) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/siddu1004/SFP) · [官网](https://www.npmjs.com/package/sfp-hive) · 个人维护
 
 **为 AI 编码工具按需选取技能的本地路由器，节省上下文**
 
@@ -46,12 +46,12 @@ SFP 是面向 AI 编码工具的技能选择器：内置 1,065 个 SKILL.md 技�
 ```mermaid
 xychart-beta
     title "siddu1004/SFP 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-11-08 3 → 2026-11-25 5（+2）
+2026-11-08 3 → 2026-11-26 6（+3）
 
 
 ---

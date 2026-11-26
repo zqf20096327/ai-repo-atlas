@@ -1,6 +1,6 @@
 # Ruichen0424/ai-paper-explorer
 
-⭐ 15 · HTML · 推送 2026-08-31 · [GitHub](https://github.com/Ruichen0424/ai-paper-explorer) · [官网](https://ruichen0424.github.io/ai-paper-explorer/) · 个人维护
+⭐ 15 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/Ruichen0424/ai-paper-explorer) · [官网](https://ruichen0424.github.io/ai-paper-explorer/) · 个人维护
 
 **顶会顶刊论文元数据一站式检索库：AI/CV/NLP/ML 论文 JSON 数据集**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Ruichen0424/ai-paper-explorer 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
     y-axis "stars" 13 --> 16
     line [14, 15, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

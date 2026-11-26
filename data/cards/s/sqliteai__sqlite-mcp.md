@@ -1,6 +1,6 @@
 # sqliteai/sqlite-mcp
 
-⭐ 24 · C · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sqliteai/sqlite-mcp) · [官网](https://sqlite.ai) · 组织维护
+⭐ 25 · C · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/sqliteai/sqlite-mcp) · [官网](https://sqlite.ai) · 组织维护
 
 **SQLite 扩展：在 SQL 中连接 MCP 服务器并调用其工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sqliteai/sqlite-mcp 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 23, 24, 24]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 23, 24, 25]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 25（+2）
 
 
 ---

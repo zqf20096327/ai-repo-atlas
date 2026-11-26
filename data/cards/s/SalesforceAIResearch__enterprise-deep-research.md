@@ -1,6 +1,6 @@
 # SalesforceAIResearch/enterprise-deep-research
 
-⭐ 1,226 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/SalesforceAIResearch/enterprise-deep-research) · 组织维护
+⭐ 1,225 · Python · Apache-2.0 · 推送 2026-10-26 · [GitHub](https://github.com/SalesforceAIResearch/enterprise-deep-research) · 组织维护
 
 **企业级多智能体深度研究系统：自动生成研究报告**
 
@@ -46,12 +46,12 @@ Salesforce AI Research 推出的多智能体深度研究系统 EDR：主规划 A
 ```mermaid
 xychart-beta
     title "SalesforceAIResearch/enterprise-deep-research 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-26"]
     y-axis "stars" 1218 --> 1228
-    line [1219, 1221, 1223, 1219, 1224, 1225, 1226, 1227, 1226, 1226]
+    line [1219, 1221, 1223, 1219, 1224, 1225, 1226, 1227, 1226, 1225]
 ```
 
-2026-10-23 1,219 → 2026-11-25 1,226（+7）
+2026-10-24 1,219 → 2026-11-26 1,225（+6）
 
 
 ---

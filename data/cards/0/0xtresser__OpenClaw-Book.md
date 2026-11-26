@@ -1,6 +1,6 @@
 # 0xtresser/OpenClaw-Book
 
-⭐ 238 · 推送 2026-08-02 · [GitHub](https://github.com/0xtresser/OpenClaw-Book) · [官网](https://www.openclawbook.xyz) · 个人维护 · 中文 README
+⭐ 239 · 推送 2026-08-02 · [GitHub](https://github.com/0xtresser/OpenClaw-Book) · [官网](https://www.openclawbook.xyz) · 个人维护 · 中文 README
 
 **《深入 OpenClaw》：介绍个人 AI 助手 OpenClaw 的技术书籍**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0xtresser/OpenClaw-Book 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 236 --> 240
-    line [239, 238, 237, 239, 237, 238, 238]
+    line [239, 238, 237, 239, 237, 238, 239]
 ```
 
-2026-10-23 239 → 2026-11-25 238（-1）
+2026-10-24 239 → 2026-11-26 239（+0）
 
 
 ---

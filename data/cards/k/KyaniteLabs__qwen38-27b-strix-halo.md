@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "KyaniteLabs/qwen38-27b-strix-halo 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 12 --> 15
-    line [13, 14, 14]
+    title "KyaniteLabs/qwen38-27b-strix-halo 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 13 --> 15
+    line [14, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 14（+1）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # hidecard/YBS-Bus-Data
 
-⭐ 19 · 推送 2026-11-17 · [GitHub](https://github.com/hidecard/YBS-Bus-Data) · 个人维护
+⭐ 21 · 推送 2026-11-17 · [GitHub](https://github.com/hidecard/YBS-Bus-Data) · 个人维护
 
 **仰光 YBS 公交线路与站点静态 JSON 开放数据集**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "hidecard/YBS-Bus-Data 星数(近 5 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 11 --> 20
-    line [12, 15, 17, 18, 19]
+    title "hidecard/YBS-Bus-Data 星数(近 6 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 11 --> 22
+    line [12, 15, 17, 18, 19, 21]
 ```
 
-2026-11-19 12 → 2026-11-25 19（+7）
+2026-11-19 12 → 2026-11-26 21（+9）
 
 
 ---

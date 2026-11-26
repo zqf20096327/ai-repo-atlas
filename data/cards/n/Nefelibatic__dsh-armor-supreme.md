@@ -1,6 +1,6 @@
 # Nefelibatic/dsh-armor-supreme
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nefelibatic/dsh-armor-supreme) · 个人维护 · 中文 README
+⭐ 13 · JavaScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Nefelibatic/dsh-armor-supreme) · 个人维护 · 中文 README
 
 **DSH agent 的破甲预设插件：红队测试用的分层提示词装配**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Nefelibatic/dsh-armor-supreme 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
-    y-axis "stars" 5 --> 11
-    line [6, 10]
+    title "Nefelibatic/dsh-armor-supreme 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 14
+    line [6, 10, 13]
 ```
 
-2026-11-23 6 → 2026-11-25 10（+4）
+2026-11-23 6 → 2026-11-26 13（+7）
 
 
 ---

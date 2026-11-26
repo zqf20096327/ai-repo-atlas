@@ -1,6 +1,6 @@
 # eunomia-bpf/MCPtrace
 
-⭐ 76 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/eunomia-bpf/MCPtrace) · 个人维护
+⭐ 77 · Python · MIT · 推送 2026-02-12 · [GitHub](https://github.com/eunomia-bpf/MCPtrace) · 个人维护
 
 **MCP 服务器：让 AI 助手通过 bpftrace 追踪 Linux 内核**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "eunomia-bpf/MCPtrace 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 74 --> 77
-    line [75, 76, 75, 76, 76]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 74 --> 78
+    line [75, 76, 75, 76, 77]
 ```
 
-2026-10-23 75 → 2026-11-25 76（+1）
+2026-10-24 75 → 2026-11-26 77（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # se-schmitt/MLThermoProperties.jl
 
-⭐ 11 · Julia · MIT · 推送 2026-11-23 · [GitHub](https://github.com/se-schmitt/MLThermoProperties.jl) · 个人维护
+⭐ 11 · Julia · MIT · 推送 2026-11-25 · [GitHub](https://github.com/se-schmitt/MLThermoProperties.jl) · 个人维护
 
 **Julia 混合 ML 热力学性质预测模型库（集成 Clapeyron.jl）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "se-schmitt/MLThermoProperties.jl 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

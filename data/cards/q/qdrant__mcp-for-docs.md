@@ -39,6 +39,18 @@
 > L10: This project should serve as an example of how you can build ready-to-use MCP server for a specific package documen
 > L12: This MCP server is read-only, model is only allowed retrieve data about the documentation.
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "qdrant/mcp-for-docs 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `5004f9f59196` · [字段定义](../../DATASET.md)*

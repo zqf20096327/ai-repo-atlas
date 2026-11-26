@@ -1,6 +1,6 @@
 # fimgu/philium
 
-⭐ 3 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fimgu/philium) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/fimgu/philium) · 个人维护
 
 **在本机运行编码 Agent 的桌面工作区**
 
@@ -40,6 +40,18 @@
 > L18: Philium is a desktop workspace for running coding agents on your own machine. You add your repositories, connect a 
 > L24: It is built with Tauri 2. The agent runtime is HAL, a separate project that Philium starts in the background and st
 > L79: |Setup|One binary|Desktop app plus the HAL runtime|
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "fimgu/philium 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # conservationtechlab/animl-r
 
-⭐ 26 · R · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/conservationtechlab/animl-r) · 组织维护
+⭐ 26 · R · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/conservationtechlab/animl-r) · 组织维护
 
 **相机陷阱图像/视频动物自动识别的 R 机器学习包**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "conservationtechlab/animl-r 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 25 --> 27
     line [26, 26]
 ```
 
-2026-10-23 26 → 2026-11-25 26（+0）
+2026-10-24 26 → 2026-11-26 26（+0）
 
 
 ---

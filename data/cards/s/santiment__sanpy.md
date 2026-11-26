@@ -1,6 +1,6 @@
 # santiment/sanpy
 
-⭐ 114 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/santiment/sanpy) · 组织维护
+⭐ 114 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/santiment/sanpy) · 组织维护
 
 **Santiment API 的 Python 客户端：获取 3000+ 加密资产数据**
 
@@ -45,12 +45,12 @@ Santiment API 的 Python 客户端库，提供链上、社交、开发活动与�
 ```mermaid
 xychart-beta
     title "santiment/sanpy 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 113 --> 115
     line [114, 114]
 ```
 
-2026-10-23 114 → 2026-11-25 114（+0）
+2026-10-24 114 → 2026-11-26 114（+0）
 
 
 ---

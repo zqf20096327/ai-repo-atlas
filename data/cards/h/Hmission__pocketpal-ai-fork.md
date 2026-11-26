@@ -42,6 +42,18 @@
 > L148: - **llama.cpp / llama.rn** — GGUF 大模型端侧推理
 > L32: Pocket Chick is intentionally not a productivity tool. It's a "digital pet" — AI doesn't have to be a tool; it can 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Hmission/pocketpal-ai-fork 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `69cf132e8b18` · [字段定义](../../DATASET.md)*

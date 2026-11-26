@@ -1,6 +1,6 @@
 # iblai/government-agents
 
-⭐ 10 · MIT · 推送 2026-06-08 · [GitHub](https://github.com/iblai/government-agents) · [官网](https://ibl.ai/solutions/government) · 组织维护
+⭐ 11 · MIT · 推送 2026-06-08 · [GitHub](https://github.com/iblai/government-agents) · [官网](https://ibl.ai/solutions/government) · 组织维护
 
 **面向政府机构的 OpenClaw/NemoClaw 多 agent 配置包**
 
@@ -45,12 +45,12 @@ ibl.ai Government 解决方案段的 agent 配置目录：包含 1 个 Agency As
 ```mermaid
 xychart-beta
     title "iblai/government-agents 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # byrishi/punchcutter
 
-⭐ 35 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/byrishi/punchcutter) · [官网](https://byrishi.github.io/punchcutter/) · 个人维护
+⭐ 36 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/byrishi/punchcutter) · [官网](https://byrishi.github.io/punchcutter/) · 个人维护
 
 **在 Claude/ChatGPT/Codex 等 agent 内运行的字体铸造工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "byrishi/punchcutter 星数(近 6 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 5 --> 37
-    line [7, 21, 28, 31, 32, 35]
+    title "byrishi/punchcutter 星数(近 7 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 38
+    line [7, 21, 28, 31, 32, 35, 36]
 ```
 
-2026-11-16 7 → 2026-11-25 35（+28）
+2026-11-16 7 → 2026-11-26 36（+29）
 
 
 ---

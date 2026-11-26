@@ -1,6 +1,6 @@
 # auth0/agent-skills
 
-⭐ 59 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/auth0/agent-skills) · 组织维护
+⭐ 59 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/auth0/agent-skills) · 组织维护
 
 **Auth0 官方 AI 编程助手技能包：指导助手正确接入 Auth0 认证**
 
@@ -46,12 +46,12 @@ Auth0 维护的 Agent Skills 格式技能包，安装到 Claude Code、Cursor、
 ```mermaid
 xychart-beta
     title "auth0/agent-skills 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-15", "2026-11-26"]
     y-axis "stars" 53 --> 60
     line [54, 55, 54, 56, 57, 58, 59, 59]
 ```
 
-2026-10-23 54 → 2026-11-25 59（+5）
+2026-10-24 54 → 2026-11-26 59（+5）
 
 
 ---

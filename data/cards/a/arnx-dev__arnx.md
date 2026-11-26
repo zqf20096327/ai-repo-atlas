@@ -1,6 +1,6 @@
 # arnx-dev/arnx
 
-⭐ 8 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/arnx-dev/arnx) · [官网](https://arnx.dev) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/arnx-dev/arnx) · [官网](https://arnx.dev) · 组织维护
 
 **为编码 agent 的改动生成失败测试并给出可执行证据的工具**
 
@@ -46,12 +46,12 @@ arnx 面向使用编码 agent 的开发者：读取改动 diff，让模型列出
 ```mermaid
 xychart-beta
     title "arnx-dev/arnx 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 3 --> 9
-    line [4, 7, 8, 8]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 3 --> 11
+    line [4, 7, 8, 10]
 ```
 
-2026-11-08 4 → 2026-11-25 8（+4）
+2026-11-08 4 → 2026-11-26 10（+6）
 
 
 ---

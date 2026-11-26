@@ -1,6 +1,6 @@
 # OnlyTerp/openclaw-optimization-guide
 
-⭐ 395 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/OnlyTerp/openclaw-optimization-guide) · [官网](https://x.com/OnlyTerp) · 个人维护
+⭐ 394 · JavaScript · MIT · 推送 2026-07-01 · [GitHub](https://github.com/OnlyTerp/openclaw-optimization-guide) · [官网](https://x.com/OnlyTerp) · 个人维护
 
 **OpenClaw AI agent 的生产优化指南（33 部分）**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "OnlyTerp/openclaw-optimization-guide 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    title "OnlyTerp/openclaw-optimization-guide 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 386 --> 396
-    line [388, 389, 388, 387, 389, 393, 395, 395]
+    line [389, 388, 387, 389, 393, 395, 394]
 ```
 
-2026-10-23 388 → 2026-11-25 395（+7）
+2026-10-24 389 → 2026-11-26 394（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # FoneClaw-AI/foneclaw-android
 
-⭐ 25 · Kotlin · MIT · 推送 2026-11-20 · [GitHub](https://github.com/FoneClaw-AI/foneclaw-android) · [官网](https://www.foneclaw.ai) · 组织维护
+⭐ 26 · Kotlin · MIT · 推送 2026-11-25 · [GitHub](https://github.com/FoneClaw-AI/foneclaw-android) · [官网](https://www.foneclaw.ai) · 组织维护
 
 **Android 手机 AI 语音代理：一句话执行 120+ 设备操作**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "FoneClaw-AI/foneclaw-android 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 16 --> 26
-    line [17, 18, 19, 20, 21, 17, 21, 22, 21, 22, 23, 25]
+    title "FoneClaw-AI/foneclaw-android 星数(近 13 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-29", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 16 --> 27
+    line [17, 18, 19, 20, 21, 17, 21, 22, 21, 22, 23, 25, 26]
 ```
 
-2026-10-23 17 → 2026-11-25 25（+8）
+2026-10-24 17 → 2026-11-26 26（+9）
 
 
 ---

@@ -1,6 +1,6 @@
 # shakfu/chimera
 
-⭐ 14 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/shakfu/chimera) · 个人维护
+⭐ 14 · C++ · MIT · 推送 2026-11-24 · [GitHub](https://github.com/shakfu/chimera) · 个人维护
 
 **单二进制本地推理多工具：集成 llama/whisper/sd.cpp 三引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shakfu/chimera 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

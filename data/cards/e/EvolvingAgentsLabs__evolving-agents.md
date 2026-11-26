@@ -1,6 +1,6 @@
 # EvolvingAgentsLabs/evolving-agents
 
-⭐ 458 · TypeScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/EvolvingAgentsLabs/evolving-agents) · [官网](https://evolvingagentslabs.github.io/#director) · 组织维护
+⭐ 457 · TypeScript · Apache-2.0 · 推送 2026-11-06 · [GitHub](https://github.com/EvolvingAgentsLabs/evolving-agents) · [官网](https://evolvingagentslabs.github.io/#director) · 组织维护
 
 **给用 Claude Code 的团队管理代理记忆的指挥代理插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EvolvingAgentsLabs/evolving-agents 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 456 --> 459
-    line [457, 458, 458]
+    line [457, 458, 457]
 ```
 
-2026-10-23 457 → 2026-11-25 458（+1）
+2026-10-24 457 → 2026-11-26 457（+0）
 
 
 ---

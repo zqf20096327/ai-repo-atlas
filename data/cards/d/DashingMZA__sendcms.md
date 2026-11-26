@@ -1,6 +1,6 @@
 # DashingMZA/sendcms
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DashingMZA/sendcms) · [官网](https://sendcms.bond) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/DashingMZA/sendcms) · [官网](https://sendcms.bond) · 个人维护
 
 **为任意网站提供托管联系表单后端的服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "DashingMZA/sendcms 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

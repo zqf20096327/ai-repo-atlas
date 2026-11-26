@@ -1,6 +1,6 @@
 # Saganaki22/ComfyUI-SoulX-Singer
 
-⭐ 94 · Python · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/Saganaki22/ComfyUI-SoulX-Singer) · [官网](https://huggingface.co/drbaph/SoulX-Singer) · 个人维护
+⭐ 95 · Python · Apache-2.0 · 推送 2026-02-18 · [GitHub](https://github.com/Saganaki22/ComfyUI-SoulX-Singer) · [官网](https://huggingface.co/drbaph/SoulX-Singer) · 个人维护
 
 **ComfyUI 节点封装：零样本歌声合成模型 SoulX-Singer**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Saganaki22/ComfyUI-SoulX-Singer 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 92 --> 95
-    line [93, 94, 93, 94, 94]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 92 --> 96
+    line [93, 94, 93, 94, 95]
 ```
 
-2026-10-23 93 → 2026-11-25 94（+1）
+2026-10-24 93 → 2026-11-26 95（+2）
 
 
 ---

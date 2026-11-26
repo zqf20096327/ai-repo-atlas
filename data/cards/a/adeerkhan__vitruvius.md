@@ -1,6 +1,6 @@
 # adeerkhan/vitruvius
 
-⭐ 13 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adeerkhan/vitruvius) · [官网](https://adeerkhan.github.io/vitruvius/) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adeerkhan/vitruvius) · [官网](https://adeerkhan.github.io/vitruvius/) · 个人维护
 
 **面向工程师的工程研究 agent：检索-验证-溯源一条龙**
 
@@ -45,13 +45,13 @@ Vitruvius 是一个工程研究 agent，以 5 个学科、27 个技能的形式�
 
 ```mermaid
 xychart-beta
-    title "adeerkhan/vitruvius 星数(近 5 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25"]
+    title "adeerkhan/vitruvius 星数(近 6 点)"
+    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-26"]
     y-axis "stars" 7 --> 14
-    line [8, 10, 11, 12, 13]
+    line [8, 10, 11, 12, 13, 12]
 ```
 
-2026-10-18 8 → 2026-11-25 13（+5）
+2026-10-18 8 → 2026-11-26 12（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # AIPMAndy/grok-bot-handbook
 
-⭐ 6 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AIPMAndy/grok-bot-handbook) · [官网](https://aipmandy.github.io/grok-bot-handbook/) · 个人维护 · 中文 README
+⭐ 7 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AIPMAndy/grok-bot-handbook) · [官网](https://aipmandy.github.io/grok-bot-handbook/) · 个人维护 · 中文 README
 
 **中文用户的 Grok Bot 非官方操作教程与任务指令库**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "AIPMAndy/grok-bot-handbook 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-02", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 2 --> 7
-    line [3, 4, 6, 6]
+    x-axis ["2026-10-29", "2026-11-02", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 2 --> 8
+    line [3, 4, 6, 7]
 ```
 
-2026-10-29 3 → 2026-11-25 6（+3）
+2026-10-29 3 → 2026-11-26 7（+4）
 
 
 ---

@@ -1,6 +1,6 @@
 # paulfxyz/megamesh
 
-⭐ 6 · Shell · MIT · 推送 2026-11-12 · [GitHub](https://github.com/paulfxyz/megamesh) · [官网](https://megamesh.sh) · 个人维护
+⭐ 6 · Shell · MIT · 推送 2026-11-24 · [GitHub](https://github.com/paulfxyz/megamesh) · [官网](https://megamesh.sh) · 个人维护
 
 **把 1GB VPS 一键部署为自托管 WireGuard VPN 的脚本**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "paulfxyz/megamesh 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-18", "2026-11-26"]
     y-axis "stars" 2 --> 7
     line [3, 4, 6, 6]
 ```
 
-2026-10-23 3 → 2026-11-25 6（+3）
+2026-10-24 3 → 2026-11-26 6（+3）
 
 
 ---

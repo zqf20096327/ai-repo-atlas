@@ -1,6 +1,6 @@
 # lorena-bordonaba-pau/youtube-agent
 
-⭐ 29 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lorena-bordonaba-pau/youtube-agent) · 个人维护 · 中文 README
+⭐ 31 · Python · MIT · 推送 2026-09-29 · [GitHub](https://github.com/lorena-bordonaba-pau/youtube-agent) · 个人维护 · 中文 README
 
 **分析 YouTube 频道的 Claude Code 智能体，每个数据标注来源**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "lorena-bordonaba-pau/youtube-agent 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 16 --> 30
-    line [17, 18, 19, 18, 23, 24, 25, 26, 28, 29, 29]
+    title "lorena-bordonaba-pau/youtube-agent 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 17 --> 32
+    line [18, 19, 18, 23, 24, 25, 26, 28, 29, 31]
 ```
 
-2026-10-23 17 → 2026-11-25 29（+12）
+2026-10-24 18 → 2026-11-26 31（+13）
 
 
 ---

@@ -45,12 +45,12 @@ DeepMind 维护的 Python 库，在 absl.flags 之上提供 dict、dataclass、�
 ```mermaid
 xychart-beta
     title "google-deepmind/fancyflags 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 35（+0）
 
 
 ---

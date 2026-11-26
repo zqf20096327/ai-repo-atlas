@@ -1,6 +1,6 @@
 # Prescott-Data/jarviscore-framework
 
-⭐ 126 · Python · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/Prescott-Data/jarviscore-framework) · [官网](https://jarviscore.developers.prescottdata.io/) · 组织维护
+⭐ 129 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Prescott-Data/jarviscore-framework) · [官网](https://jarviscore.developers.prescottdata.io/) · 组织维护
 
 **多智能体对等网络运行时框架，含零信任凭证与故障恢复**
 
@@ -45,13 +45,13 @@ Python 多智能体系统框架：智能体通过 SWIM gossip（ZMQ 传输）组
 
 ```mermaid
 xychart-beta
-    title "Prescott-Data/jarviscore-framework 星数(近 12 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-25"]
+    title "Prescott-Data/jarviscore-framework 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-16", "2026-11-19", "2026-11-22", "2026-11-26"]
     y-axis "stars" 117 --> 208
-    line [200, 201, 172, 173, 172, 124, 126, 125, 126, 125, 126, 126]
+    line [201, 172, 173, 172, 124, 126, 125, 126, 125, 126, 129]
 ```
 
-2026-10-23 200 → 2026-11-25 126（-74）
+2026-10-24 201 → 2026-11-26 129（-72）
 
 
 ---

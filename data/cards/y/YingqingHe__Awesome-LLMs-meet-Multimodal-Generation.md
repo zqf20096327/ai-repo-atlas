@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "YingqingHe/Awesome-LLMs-meet-Multimodal-Generation 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-13", "2026-11-25"]
+    title "YingqingHe/Awesome-LLMs-meet-Multimodal-Generation 星数(近 4 点)"
+    x-axis ["2026-11-10", "2026-11-13", "2026-11-25", "2026-11-26"]
     y-axis "stars" 549 --> 552
-    line [551, 550, 551]
+    line [551, 550, 551, 551]
 ```
 
-2026-11-10 551 → 2026-11-25 551（+0）
+2026-11-10 551 → 2026-11-26 551（+0）
 
 
 ---

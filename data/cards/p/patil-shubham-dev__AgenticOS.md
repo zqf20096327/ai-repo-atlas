@@ -1,6 +1,6 @@
 # patil-shubham-dev/AgenticOS
 
-⭐ 25 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/patil-shubham-dev/AgenticOS) · 个人维护
+⭐ 27 · JavaScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/patil-shubham-dev/AgenticOS) · 个人维护
 
 **自托管的 AI 开发操作系统桌面工作台**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "patil-shubham-dev/AgenticOS 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 23 --> 26
-    line [24, 25, 25]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 23 --> 28
+    line [24, 25, 27]
 ```
 
-2026-10-23 24 → 2026-11-25 25（+1）
+2026-10-24 24 → 2026-11-26 27（+3）
 
 
 ---

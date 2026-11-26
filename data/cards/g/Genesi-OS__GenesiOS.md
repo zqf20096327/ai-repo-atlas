@@ -1,6 +1,6 @@
 # Genesi-OS/GenesiOS
 
-⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/Genesi-OS/GenesiOS) · [官网](https://www.genesios.org) · 组织维护
+⭐ 16 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Genesi-OS/GenesiOS) · [官网](https://www.genesios.org) · 组织维护
 
 **面向开发者的本地 AI 调优 Linux 发行版（基于 CachyOS）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Genesi-OS/GenesiOS 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-23", "2026-11-25"]
+    title "Genesi-OS/GenesiOS 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-18", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 17
-    line [10, 11, 10, 12, 13, 14, 15, 16]
+    line [10, 11, 10, 12, 13, 14, 15, 16, 16]
 ```
 
-2026-10-23 10 → 2026-11-25 16（+6）
+2026-10-24 10 → 2026-11-26 16（+6）
 
 
 ---

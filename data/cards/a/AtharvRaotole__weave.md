@@ -1,6 +1,6 @@
 # AtharvRaotole/weave
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AtharvRaotole/weave) · [官网](https://pypi.org/project/weave-lang/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/AtharvRaotole/weave) · [官网](https://pypi.org/project/weave-lang/) · 个人维护
 
 **让 LLM agent 写脚本批量执行工具调用的 Rust 运行时**
 
@@ -40,6 +40,18 @@ Weave 提供一个受限 Python 子集解释器：模型不再逐轮发起工具
 > L15: helpers). A Rust runtime runs the script's independent reads together, orders writes by their declared effects, and
 > L90: |OpenAI Chat Completions / Responses|`tool.chat_tool()`, `tool.responses_tool()`|
 > L93: |Claude Desktop, Cursor, VS Code, Claude Code|`weave mcp-config --client claude --config tools.json --write` (or `c
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AtharvRaotole/weave 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
 
 
 ---

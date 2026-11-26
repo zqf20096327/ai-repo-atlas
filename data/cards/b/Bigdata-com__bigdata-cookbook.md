@@ -1,6 +1,6 @@
 # Bigdata-com/bigdata-cookbook
 
-⭐ 39 · HTML · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Bigdata-com/bigdata-cookbook) · [官网](http://www.bigdata.com) · 组织维护
+⭐ 39 · HTML · MIT · 推送 2026-11-25 · [GitHub](https://github.com/Bigdata-com/bigdata-cookbook) · [官网](http://www.bigdata.com) · 组织维护
 
 **基于 Bigdata API 的金融文本分析即用笔记本合集**
 
@@ -46,13 +46,13 @@ Bigdata.com 维护的金融研究 notebook 库：将新闻、财报、电话会�
 
 ```mermaid
 xychart-beta
-    title "Bigdata-com/bigdata-cookbook 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 39, 38, 39, 39]
+    title "Bigdata-com/bigdata-cookbook 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 37 --> 40
+    line [38, 39, 38, 39, 39]
 ```
 
-2026-10-23 37 → 2026-11-25 39（+2）
+2026-10-24 38 → 2026-11-26 39（+1）
 
 
 ---

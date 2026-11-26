@@ -1,6 +1,6 @@
 # superlucky84/ctxbin
 
-⭐ 14 · JavaScript · MIT · 推送 2026-10-14 · [GitHub](https://github.com/superlucky84/ctxbin) · [官网](https://superlucky84.github.io/ctxbin/) · 个人维护
+⭐ 14 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/superlucky84/ctxbin) · [官网](https://superlucky84.github.io/ctxbin/) · 个人维护
 
 **用 Upstash Redis 存取 AI agent 上下文/技能/规则的 CLI**
 
@@ -45,12 +45,12 @@ TypeScript 编写的命令行工具，把分支级上下文（ctx）、agent 角
 ```mermaid
 xychart-beta
     title "superlucky84/ctxbin 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 13 --> 15
     line [14, 14]
 ```
 
-2026-10-23 14 → 2026-11-25 14（+0）
+2026-10-24 14 → 2026-11-26 14（+0）
 
 
 ---

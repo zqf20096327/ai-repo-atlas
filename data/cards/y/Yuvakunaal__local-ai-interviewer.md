@@ -1,6 +1,6 @@
 # Yuvakunaal/local-ai-interviewer
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Yuvakunaal/local-ai-interviewer) · 个人维护
+⭐ 4 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Yuvakunaal/local-ai-interviewer) · 个人维护
 
 **在本机隐私运行、由本地 LLM 评分的求职模拟面试应用**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Yuvakunaal/local-ai-interviewer 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-22", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 4（+1）
 
 
 ---

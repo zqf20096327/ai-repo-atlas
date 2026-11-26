@@ -1,6 +1,6 @@
 # ErdemOzgen/Python-developer-roadmap
 
-⭐ 414 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ErdemOzgen/Python-developer-roadmap) · 个人维护
+⭐ 415 · Python · MIT · 推送 2026-07-01 · [GitHub](https://github.com/ErdemOzgen/Python-developer-roadmap) · 个人维护
 
 **Python 开发者学习路线图与资源清单**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "ErdemOzgen/Python-developer-roadmap 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-12", "2026-11-21", "2026-11-26"]
     y-axis "stars" 412 --> 416
-    line [413, 414, 415, 414, 414]
+    line [413, 414, 415, 414, 415]
 ```
 
-2026-10-23 413 → 2026-11-25 414（+1）
+2026-10-24 413 → 2026-11-26 415（+2）
 
 
 ---

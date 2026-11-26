@@ -1,6 +1,6 @@
 # mikelma/craftium
 
-⭐ 217 · C++ · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/mikelma/craftium) · [官网](https://craftium.readthedocs.io/) · 组织维护
+⭐ 218 · C++ · NOASSERTION · 推送 2026-02-17 · [GitHub](https://github.com/mikelma/craftium) · [官网](https://craftium.readthedocs.io/) · 组织维护
 
 **为 AI 研究创建类 Minecraft 3D 单/多智能体环境的框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mikelma/craftium 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 213 --> 218
-    line [215, 214, 215, 214, 215, 216, 217]
+    title "mikelma/craftium 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 213 --> 219
+    line [215, 214, 215, 214, 215, 216, 217, 218]
 ```
 
-2026-10-23 215 → 2026-11-25 217（+2）
+2026-10-24 215 → 2026-11-26 218（+3）
 
 
 ---

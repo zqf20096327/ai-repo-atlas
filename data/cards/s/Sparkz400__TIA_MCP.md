@@ -1,6 +1,6 @@
 # Sparkz400/TIA_MCP
 
-⭐ 3 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/Sparkz400/TIA_MCP) · 个人维护
+⭐ 3 · C# · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Sparkz400/TIA_MCP) · 个人维护
 
 **面向 MCP 客户端的 TIA Portal V21 离线工程工具服务器**
 
@@ -47,12 +47,12 @@ Windows 上的 MCP 服务器，让 MCP 客户端以自然语言检查离线 TIA 
 ```mermaid
 xychart-beta
     title "Sparkz400/TIA_MCP 星数(近 2 点)"
-    x-axis ["2026-11-11", "2026-11-25"]
+    x-axis ["2026-11-11", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-11 3 → 2026-11-25 3（+0）
+2026-11-11 3 → 2026-11-26 3（+0）
 
 
 ---

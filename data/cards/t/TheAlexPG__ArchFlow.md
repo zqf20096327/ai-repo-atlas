@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "TheAlexPG/ArchFlow 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    title "TheAlexPG/ArchFlow 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 21 --> 23
+    line [22, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 22（+1）
+2026-10-24 22 → 2026-11-26 22（+0）
 
 
 ---

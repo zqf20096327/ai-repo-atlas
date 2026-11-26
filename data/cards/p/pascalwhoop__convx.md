@@ -1,6 +1,6 @@
 # pascalwhoop/convx
 
-⭐ 39 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/pascalwhoop/convx) · [官网](https://pypi.org/project/convx-ai/) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-03-06 · [GitHub](https://github.com/pascalwhoop/convx) · [官网](https://pypi.org/project/convx-ai/) · 个人维护
 
 **把 Codex/Claude/Cursor/Gemini 会话导出为 Git 仓库的工具**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "pascalwhoop/convx 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 38 --> 40
-    line [39, 39]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 38 --> 41
+    line [39, 40]
 ```
 
-2026-10-23 39 → 2026-11-25 39（+0）
+2026-10-24 39 → 2026-11-26 40（+1）
 
 
 ---

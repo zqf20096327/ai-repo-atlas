@@ -1,6 +1,6 @@
 # brunoamaral/gregory-ai
 
-⭐ 58 · Python · NOASSERTION · 推送 2026-11-20 · [GitHub](https://github.com/brunoamaral/gregory-ai) · [官网](https://gregory-ai.com/) · 个人维护
+⭐ 58 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/brunoamaral/gregory-ai) · [官网](https://gregory-ai.com/) · 个人维护
 
 **用机器学习追踪临床研究并筛选相关论文的系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "brunoamaral/gregory-ai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 57 --> 59
     line [58, 58]
 ```
 
-2026-10-23 58 → 2026-11-25 58（+0）
+2026-10-24 58 → 2026-11-26 58（+0）
 
 
 ---

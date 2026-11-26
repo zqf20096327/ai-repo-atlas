@@ -1,6 +1,6 @@
 # ChinaYouShen/ai-short-drama
 
-⭐ 5 · Python · GPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/ChinaYouShen/ai-short-drama) · [官网](https://www.fzgcwl.com) · 个人维护 · 中文 README
+⭐ 6 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/ChinaYouShen/ai-short-drama) · [官网](https://www.fzgcwl.com) · 个人维护 · 中文 README
 
 **给 AI 用的中文短剧创作技能包：从选题到分镜提示词**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ChinaYouShen/ai-short-drama 星数(近 3 点)"
-    x-axis ["2026-11-12", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 2 --> 6
-    line [3, 5, 5]
+    x-axis ["2026-11-12", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 2 --> 7
+    line [3, 5, 6]
 ```
 
-2026-11-12 3 → 2026-11-25 5（+2）
+2026-11-12 3 → 2026-11-26 6（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # AstrBotDevs/AstrBot_Plugins_Collection
 
-⭐ 127 · Python · AGPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/AstrBotDevs/AstrBot_Plugins_Collection) · [官网](https://cloud.astrbot.app) · 组织维护 · 中文 README
+⭐ 128 · Python · AGPL-3.0 · 推送 2026-09-14 · [GitHub](https://github.com/AstrBotDevs/AstrBot_Plugins_Collection) · [官网](https://cloud.astrbot.app) · 组织维护 · 中文 README
 
 **AstrBot 插件聚合仓库（已弃用），现迁移至云端平台提交**
 
@@ -43,12 +43,12 @@ AstrBot 机器人框架的插件合集仓库，原用于聚合社区插件。REA
 ```mermaid
 xychart-beta
     title "AstrBotDevs/AstrBot_Plugins_Collection 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 118 --> 128
-    line [119, 120, 121, 123, 119, 124, 125, 126, 127, 127]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 118 --> 129
+    line [119, 120, 121, 123, 119, 124, 125, 126, 127, 128]
 ```
 
-2026-10-23 119 → 2026-11-25 127（+8）
+2026-10-24 119 → 2026-11-26 128（+9）
 
 
 ---

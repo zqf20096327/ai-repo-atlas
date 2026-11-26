@@ -1,6 +1,6 @@
 # nachifur/MulimgViewer
 
-⭐ 1,404 · Python · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/nachifur/MulimgViewer) · [官网](https://mulimgviewer.readthedocs.io/) · 个人维护 · 中文 README
+⭐ 1,406 · Python · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/nachifur/MulimgViewer) · [官网](https://mulimgviewer.readthedocs.io/) · 个人维护 · 中文 README
 
 **多图像浏览器：单界面并排查看、比较与拼接多张图片**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nachifur/MulimgViewer 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 1402 --> 1407
-    line [1404, 1403, 1404, 1405, 1404, 1406, 1404, 1404]
+    line [1404, 1403, 1404, 1405, 1404, 1406, 1404, 1406]
 ```
 
-2026-10-23 1,404 → 2026-11-25 1,404（+0）
+2026-10-24 1,404 → 2026-11-26 1,406（+2）
 
 
 ---

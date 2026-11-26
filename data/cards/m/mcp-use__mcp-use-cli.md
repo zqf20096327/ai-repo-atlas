@@ -1,6 +1,6 @@
 # mcp-use/mcp-use-cli
 
-⭐ 53 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/mcp-use/mcp-use-cli) · [官网](https://github.com/mcp-use/mcp-use/tree/main/libraries/typescript/packages/cli) · 组织维护
+⭐ 53 · TypeScript · 推送 2026-11-25 · [GitHub](https://github.com/mcp-use/mcp-use-cli) · [官网](https://github.com/mcp-use/mcp-use/tree/main/libraries/typescript/packages/cli) · 组织维护
 
 **MCP 客户端与开发服务器的预构建 CLI**
 
@@ -45,12 +45,12 @@ mcp-use monorepo 中 CLI 包的只读镜像仓库。提供预构建 CLI：mcp-us
 ```mermaid
 xychart-beta
     title "mcp-use/mcp-use-cli 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-15", "2026-11-26"]
     y-axis "stars" 51 --> 54
     line [52, 53, 53]
 ```
 
-2026-10-23 52 → 2026-11-25 53（+1）
+2026-10-24 52 → 2026-11-26 53（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # leptonai/leptonai
 
-⭐ 2,826 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/leptonai/leptonai) · [官网](https://lepton.ai/) · 组织维护
+⭐ 2,826 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/leptonai/leptonai) · [官网](https://lepton.ai/) · 组织维护
 
 **NVIDIA DGX Cloud Lepton 平台的 Python 库与 lep CLI**
 
@@ -46,13 +46,13 @@ LeptonAI Python 库与 lep 命令行工具，用于从 Python 和终端操作 NV
 
 ```mermaid
 xychart-beta
-    title "leptonai/leptonai 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2823 --> 2828
-    line [2824, 2825, 2826, 2827, 2825, 2826, 2827, 2826, 2826]
+    title "leptonai/leptonai 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 2824 --> 2828
+    line [2825, 2826, 2827, 2825, 2826, 2827, 2826, 2826]
 ```
 
-2026-10-23 2,824 → 2026-11-25 2,826（+2）
+2026-10-24 2,825 → 2026-11-26 2,826（+1）
 
 
 ---

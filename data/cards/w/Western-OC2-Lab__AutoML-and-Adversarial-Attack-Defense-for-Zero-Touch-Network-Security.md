@@ -45,12 +45,12 @@ Western OC2 Lab 发布的 IEEE TNSM 论文配套代码，以 Jupyter Notebook �
 ```mermaid
 xychart-beta
     title "Western-OC2-Lab/AutoML-and-Adversarial-Attack-Defense-for-Zero-Touch-Network-Security 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 45 --> 48
     line [46, 47, 47]
 ```
 
-2026-10-23 46 → 2026-11-25 47（+1）
+2026-10-24 46 → 2026-11-26 47（+1）
 
 
 ---

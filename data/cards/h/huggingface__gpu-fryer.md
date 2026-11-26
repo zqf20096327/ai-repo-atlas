@@ -1,6 +1,6 @@
 # huggingface/gpu-fryer
 
-⭐ 414 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gpu-fryer) · 组织维护
+⭐ 416 · Rust · Apache-2.0 · 推送 2026-09-24 · [GitHub](https://github.com/huggingface/gpu-fryer) · 组织维护
 
 **GPU 压力测试工具：检测热降频与性能劣化**
 
@@ -45,12 +45,12 @@ Hugging Face 维护的 GPU 压力测试工具：通过 CUBLAS 执行 8192x8192 �
 ```mermaid
 xychart-beta
     title "huggingface/gpu-fryer 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 411 --> 415
-    line [412, 413, 414, 414]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 411 --> 417
+    line [412, 413, 414, 416]
 ```
 
-2026-10-23 412 → 2026-11-25 414（+2）
+2026-10-24 412 → 2026-11-26 416（+4）
 
 
 ---

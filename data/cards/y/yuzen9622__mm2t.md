@@ -1,6 +1,6 @@
 # yuzen9622/mm2t
 
-⭐ 23 · Swift · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/yuzen9622/mm2t) · [官网](https://mm2t.yuzen.dev/en) · 个人维护 · 中文 README
+⭐ 23 · Swift · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/yuzen9622/mm2t) · [官网](https://mm2t.yuzen.dev/en) · 个人维护 · 中文 README
 
 **macOS 菜单栏多方会议录制与说话人标注转录工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "yuzen9622/mm2t 星数(近 6 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25"]
+    title "yuzen9622/mm2t 星数(近 7 点)"
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-20", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 7 --> 24
-    line [8, 13, 17, 21, 22, 23]
+    line [8, 13, 17, 21, 22, 23, 23]
 ```
 
-2026-11-14 8 → 2026-11-25 23（+15）
+2026-11-14 8 → 2026-11-26 23（+15）
 
 
 ---

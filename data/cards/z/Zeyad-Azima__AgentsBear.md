@@ -1,6 +1,6 @@
 # Zeyad-Azima/AgentsBear
 
-⭐ 11 · JavaScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/Zeyad-Azima/AgentsBear) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-04-05 · [GitHub](https://github.com/Zeyad-Azima/AgentsBear) · 个人维护
 
 **用 YAML 声明式定义并运行多 Agent 流水线的 CLI+Web UI 框架**
 
@@ -47,12 +47,12 @@ AgentsBear 提供一个 CLI 与 Web UI，用户在单个 agent.yaml 文件中声
 ```mermaid
 xychart-beta
     title "Zeyad-Azima/AgentsBear 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 10 --> 13
-    line [12, 11, 12, 11, 11]
+    line [12, 11, 12, 11, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 11（-1）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

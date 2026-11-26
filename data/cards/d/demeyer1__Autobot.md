@@ -1,6 +1,6 @@
 # demeyer1/Autobot
 
-⭐ 24 · Shell · MIT · 推送 2026-10-02 · [GitHub](https://github.com/demeyer1/Autobot) · [官网](https://demeyer1.github.io/Autobot/) · 组织维护
+⭐ 25 · Shell · MIT · 推送 2026-10-02 · [GitHub](https://github.com/demeyer1/Autobot) · [官网](https://demeyer1.github.io/Autobot/) · 组织维护
 
 **在 Mac 上为 ChatGPT/Codex 加载的开源 agent harness**
 
@@ -46,12 +46,12 @@ MIT 开源项目（v0.5.0），以 agent harness 形式加载到 Mac 上 ChatGPT
 ```mermaid
 xychart-beta
     title "demeyer1/Autobot 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 22 --> 25
-    line [23, 24, 23, 24, 24]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 22 --> 26
+    line [23, 24, 23, 24, 25]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 25（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # sunglasses-dev/sunglasses
 
-⭐ 11 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/sunglasses-dev/sunglasses) · [官网](https://sunglasses.dev) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/sunglasses-dev/sunglasses) · [官网](https://sunglasses.dev) · 组织维护
 
 **面向 AI agent 的本地输入防火墙与 MCP 代理（beta）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "sunglasses-dev/sunglasses 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
+    title "sunglasses-dev/sunglasses 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 9 --> 13
-    line [10, 11, 10, 11, 12, 11]
+    line [10, 11, 10, 11, 12, 11, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 11（+1）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

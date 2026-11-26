@@ -1,6 +1,6 @@
 # QuantGeekDev/mcp-framework
 
-⭐ 978 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/QuantGeekDev/mcp-framework) · [官网](https://mcp-framework.com/) · 个人维护
+⭐ 977 · TypeScript · MIT · 推送 2026-04-16 · [GitHub](https://github.com/QuantGeekDev/mcp-framework) · [官网](https://mcp-framework.com/) · 个人维护
 
 **用 TypeScript 构建 MCP 服务器的开发框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "QuantGeekDev/mcp-framework 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-25"]
+    title "QuantGeekDev/mcp-framework 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26"]
     y-axis "stars" 926 --> 982
-    line [931, 930, 931, 930, 931, 978]
+    line [931, 930, 931, 930, 931, 978, 977]
 ```
 
-2026-10-23 931 → 2026-11-25 978（+47）
+2026-10-24 931 → 2026-11-26 977（+46）
 
 
 ---

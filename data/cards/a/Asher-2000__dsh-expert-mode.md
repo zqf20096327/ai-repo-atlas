@@ -1,6 +1,6 @@
 # Asher-2000/dsh-expert-mode
 
-⭐ 15 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Asher-2000/dsh-expert-mode) · 个人维护 · 中文 README
+⭐ 16 · JavaScript · MIT · 推送 2026-09-07 · [GitHub](https://github.com/Asher-2000/dsh-expert-mode) · 个人维护 · 中文 README
 
 **DeepSeek Harness 的专家模式预设：1 协调官 + 17 领域专家子代理**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Asher-2000/dsh-expert-mode 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 12 --> 16
-    line [14, 13, 14, 15, 15]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 12 --> 17
+    line [14, 13, 14, 15, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

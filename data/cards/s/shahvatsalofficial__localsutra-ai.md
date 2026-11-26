@@ -1,6 +1,6 @@
 # shahvatsalofficial/localsutra-ai
 
-⭐ 4 · HTML · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/shahvatsalofficial/localsutra-ai) · [官网](https://shahvatsalofficial.github.io/localsutra-ai/) · 个人维护
+⭐ 4 · HTML · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/shahvatsalofficial/localsutra-ai) · [官网](https://shahvatsalofficial.github.io/localsutra-ai/) · 个人维护
 
 **本地 AI 就绪度 CLI：检测硬件、估算模型适配、诊断本地运行时**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shahvatsalofficial/localsutra-ai 星数(近 2 点)"
-    x-axis ["2026-11-16", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-16 4 → 2026-11-25 4（+0）
+2026-11-16 4 → 2026-11-26 4（+0）
 
 
 ---

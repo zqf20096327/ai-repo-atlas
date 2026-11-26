@@ -1,6 +1,6 @@
 # rik-python/ComfyUI-Comfy-Pro-Alpha-Generator
 
-⭐ 57 · Python · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/rik-python/ComfyUI-Comfy-Pro-Alpha-Generator) · [官网](https://www.comfycompositing.com) · 个人维护
+⭐ 58 · Python · GPL-3.0 · 推送 2026-11-03 · [GitHub](https://github.com/rik-python/ComfyUI-Comfy-Pro-Alpha-Generator) · [官网](https://www.comfycompositing.com) · 个人维护
 
 **ComfyUI 抠像节点：点选人物，SAM3+LTX 生成发丝级 alpha**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "rik-python/ComfyUI-Comfy-Pro-Alpha-Generator 星数(近 15 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 13 --> 61
-    line [17, 18, 19, 32, 35, 36, 38, 18, 48, 50, 52, 55, 56, 57, 57]
+    title "rik-python/ComfyUI-Comfy-Pro-Alpha-Generator 星数(近 14 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-12", "2026-11-13", "2026-11-14", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 14 --> 62
+    line [18, 19, 32, 35, 36, 38, 18, 48, 50, 52, 55, 56, 57, 58]
 ```
 
-2026-10-23 17 → 2026-11-25 57（+40）
+2026-10-24 18 → 2026-11-26 58（+40）
 
 
 ---

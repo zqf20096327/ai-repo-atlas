@@ -1,6 +1,6 @@
 # exasol/mcp-server
 
-⭐ 18 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/exasol/mcp-server) · [官网](https://exasol.github.io/mcp-server/main/index.html) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/exasol/mcp-server) · [官网](https://exasol.github.io/mcp-server/main/index.html) · 组织维护
 
 **让 LLM 通过 MCP 访问 Exasol 数据库的服务器**
 
@@ -45,12 +45,12 @@ Exasol 官方维护的 Model Context Protocol 服务器，为 MCP 客户端（�
 ```mermaid
 xychart-beta
     title "exasol/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 17 --> 19
     line [18, 18]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 18（+0）
 
 
 ---

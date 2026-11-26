@@ -1,6 +1,6 @@
 # weaviate/typescript-client
 
-⭐ 101 · TypeScript · BSD-3-Clause · 推送 2026-11-23 · [GitHub](https://github.com/weaviate/typescript-client) · [官网](https://npmjs.com/package/weaviate-client) · 组织维护
+⭐ 101 · TypeScript · BSD-3-Clause · 推送 2026-11-25 · [GitHub](https://github.com/weaviate/typescript-client) · [官网](https://npmjs.com/package/weaviate-client) · 组织维护
 
 **Weaviate 官方 JS/TS 客户端库：便捷交互向量数据库实例**
 
@@ -41,12 +41,12 @@ Weaviate 官方维护的 JavaScript/TypeScript 客户端库，用于在 JS/TS �
 ```mermaid
 xychart-beta
     title "weaviate/typescript-client 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 100 --> 102
     line [101, 101]
 ```
 
-2026-10-23 101 → 2026-11-25 101（+0）
+2026-10-24 101 → 2026-11-26 101（+0）
 
 
 ---

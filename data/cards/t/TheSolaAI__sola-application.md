@@ -1,6 +1,6 @@
 # TheSolaAI/sola-application
 
-⭐ 53 · TypeScript · GPL-3.0 · 推送 2025-12-11 · [GitHub](https://github.com/TheSolaAI/sola-application) · [官网](https://beta.solaai.xyz/) · 组织维护
+⭐ 52 · TypeScript · GPL-3.0 · 推送 2025-12-11 · [GitHub](https://github.com/TheSolaAI/sola-application) · [官网](https://beta.solaai.xyz/) · 组织维护
 
 **面向 Solana 区块链的语音 AI 助手应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "TheSolaAI/sola-application 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 51 --> 54
-    line [52, 53, 52, 53, 53]
+    line [52, 53, 52, 53, 52]
 ```
 
-2026-10-23 52 → 2026-11-25 53（+1）
+2026-10-24 52 → 2026-11-26 52（+0）
 
 
 ---

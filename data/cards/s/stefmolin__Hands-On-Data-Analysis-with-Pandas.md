@@ -1,6 +1,6 @@
 # stefmolin/Hands-On-Data-Analysis-with-Pandas
 
-⭐ 429 · Jupyter Notebook · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas) · [官网](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1789615321/) · 个人维护
+⭐ 428 · Jupyter Notebook · MIT · 推送 2026-04-11 · [GitHub](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas) · [官网](https://www.amazon.com/Hands-Data-Analysis-Pandas-visualization/dp/1789615321/) · 个人维护
 
 **《Hands-On Data Analysis with Pandas》第一版配套代码仓库**
 
@@ -45,12 +45,12 @@ Packt 出版图书《Hands-On Data Analysis with Pandas》（2019年7月26日第
 ```mermaid
 xychart-beta
     title "stefmolin/Hands-On-Data-Analysis-with-Pandas 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-20", "2026-11-22", "2026-11-26"]
     y-axis "stars" 425 --> 430
-    line [426, 427, 428, 429, 428, 429, 429]
+    line [426, 427, 428, 429, 428, 429, 428]
 ```
 
-2026-10-23 426 → 2026-11-25 429（+3）
+2026-10-24 426 → 2026-11-26 428（+2）
 
 
 ---

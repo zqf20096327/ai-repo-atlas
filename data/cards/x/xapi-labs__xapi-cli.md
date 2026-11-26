@@ -1,6 +1,6 @@
 # xapi-labs/xapi-cli
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/xapi-labs/xapi-cli) · [官网](https://xapi.to) · 组织维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/xapi-labs/xapi-cli) · [官网](https://xapi.to) · 组织维护
 
 **面向 AI agent 的 xAPI 命令行客户端：发现并调用第三方 API**
 
@@ -46,12 +46,12 @@ Node.js 18.17+ 上的 CLI，供终端或 AI agent 通过统一接口发现与调
 ```mermaid
 xychart-beta
     title "xapi-labs/xapi-cli 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-26"]
     y-axis "stars" 14 --> 17
     line [15, 16, 16]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 16（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # satellite-image-deep-learning/software
 
-⭐ 162 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/satellite-image-deep-learning/software) · 组织维护
+⭐ 163 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/satellite-image-deep-learning/software) · 组织维护
 
 **卫星/航空影像 ML 数据集处理软件策展清单**
 
@@ -47,12 +47,12 @@ satellite-image-deep-learning.com 维护的软件清单仓库，收录处理卫�
 ```mermaid
 xychart-beta
     title "satellite-image-deep-learning/software 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 161 --> 163
-    line [162, 162]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 161 --> 164
+    line [162, 163]
 ```
 
-2026-10-23 162 → 2026-11-25 162（+0）
+2026-10-24 162 → 2026-11-26 163（+1）
 
 
 ---

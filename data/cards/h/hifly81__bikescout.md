@@ -1,6 +1,6 @@
 # hifly81/bikescout
 
-⭐ 23 · Python · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/hifly81/bikescout) · [官网](https://hifly81.github.io/bikescout/) · 个人维护
+⭐ 23 · Python · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/hifly81/bikescout) · [官网](https://hifly81.github.io/bikescout/) · 个人维护
 
 **面向骑行者的 MCP 骑行路线规划与地形分析工具服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "hifly81/bikescout 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 21 --> 24
     line [22, 23, 23]
 ```
 
-2026-10-23 22 → 2026-11-25 23（+1）
+2026-10-24 22 → 2026-11-26 23（+1）
 
 
 ---

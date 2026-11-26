@@ -1,6 +1,6 @@
 # hu-haibin/wonderful-launcher-comfyui
 
-⭐ 44 · 推送 2026-11-23 · [GitHub](https://github.com/hu-haibin/wonderful-launcher-comfyui) · [官网](https://wonderfullauncher.com/) · 个人维护 · 中文 README
+⭐ 44 · 推送 2026-11-25 · [GitHub](https://github.com/hu-haibin/wonderful-launcher-comfyui) · [官网](https://wonderfullauncher.com/) · 个人维护 · 中文 README
 
 **Windows 平台的 ComfyUI 启动器：导入/部署、缺件修复、AI 诊断**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hu-haibin/wonderful-launcher-comfyui 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-22", "2026-11-26"]
     y-axis "stars" 41 --> 45
     line [42, 43, 44, 44]
 ```
 
-2026-10-23 42 → 2026-11-25 44（+2）
+2026-10-24 42 → 2026-11-26 44（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # NirDiamant/Controllable-RAG-Agent
 
-⭐ 1,635 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/NirDiamant/Controllable-RAG-Agent) · 个人维护
+⭐ 1,636 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-01 · [GitHub](https://github.com/NirDiamant/Controllable-RAG-Agent) · 个人维护
 
 **图控 RAG 代理：对自有数据回答复杂多跳问题**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "NirDiamant/Controllable-RAG-Agent 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 1626 --> 1636
-    line [1629, 1627, 1628, 1627, 1629, 1630, 1631, 1633, 1634, 1635]
+    title "NirDiamant/Controllable-RAG-Agent 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 1626 --> 1637
+    line [1629, 1627, 1628, 1627, 1629, 1630, 1631, 1633, 1634, 1635, 1636]
 ```
 
-2026-10-23 1,629 → 2026-11-25 1,635（+6）
+2026-10-24 1,629 → 2026-11-26 1,636（+7）
 
 
 ---

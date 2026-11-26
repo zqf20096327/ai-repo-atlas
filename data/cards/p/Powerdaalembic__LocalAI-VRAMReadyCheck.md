@@ -42,6 +42,18 @@
 > L32: - Detects GPU model, dedicated VRAM (`GB`), driver version, supported **CUDA** / **Vulkan** compute level, and CPU 
 > L55: **Requirements:** Windows 10 or 11 (64-bit) with NVIDIA, AMD, or Intel Arc graphics (or CPU-only mode).
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Powerdaalembic/LocalAI-VRAMReadyCheck 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 32 --> 34
+    line [33, 33]
+```
+
+2026-11-25 33 → 2026-11-26 33（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `f55c3d2a8819` · [字段定义](../../DATASET.md)*

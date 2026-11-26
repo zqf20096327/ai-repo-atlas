@@ -40,6 +40,18 @@
 > L3: Data Engineering and DataOps Course: IDS 706, Fall 2023 by Noah Gift
 > L22: One of the unique aspects of the course is the emphasis on AI Pair Programming. This approach is designed to raise 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "noahgift/data-engineering-and-dataops 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 71 --> 73
+    line [72, 72]
+```
+
+2026-11-25 72 → 2026-11-26 72（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 mid · 依据 README sha `95b01b2e7cf1` · [字段定义](../../DATASET.md)*

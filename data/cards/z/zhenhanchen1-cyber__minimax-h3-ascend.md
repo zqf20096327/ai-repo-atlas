@@ -1,6 +1,6 @@
 # zhenhanchen1-cyber/minimax-h3-ascend
 
-⭐ 7 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/zhenhanchen1-cyber/minimax-h3-ascend) · [官网](https://gitcode.com/nxxwjbl/minimax-h3-nvidia-uncensored) · 个人维护 · 中文 README
+⭐ 9 · Python · NOASSERTION · 推送 2026-10-13 · [GitHub](https://github.com/zhenhanchen1-cyber/minimax-h3-ascend) · [官网](https://gitcode.com/nxxwjbl/minimax-h3-nvidia-uncensored) · 个人维护 · 中文 README
 
 **在昇腾 NPU 上本地部署 MiniMax-H3 视频生成的脚本方案**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "zhenhanchen1-cyber/minimax-h3-ascend 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 3 --> 8
-    line [4, 7, 7]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 3 --> 10
+    line [4, 7, 9]
 ```
 
-2026-11-08 4 → 2026-11-25 7（+3）
+2026-11-08 4 → 2026-11-26 9（+5）
 
 
 ---

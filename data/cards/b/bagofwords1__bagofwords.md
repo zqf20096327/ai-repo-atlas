@@ -1,6 +1,6 @@
 # bagofwords1/bagofwords
 
-⭐ 462 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/bagofwords1/bagofwords) · [官网](https://bagofwords.com) · 组织维护
+⭐ 464 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/bagofwords1/bagofwords) · [官网](https://bagofwords.com) · 组织维护
 
 **开源 agentic 数据分析平台：对话查询数据并带记忆与可观测性**
 
@@ -47,12 +47,12 @@ BOW 是一个开源的 agentic 分析平台，将 LLM 接入企业数据，为�
 ```mermaid
 xychart-beta
     title "bagofwords1/bagofwords 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 461 --> 464
-    line [463, 462, 462]
+    x-axis ["2026-10-24", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 461 --> 465
+    line [463, 462, 464]
 ```
 
-2026-10-23 463 → 2026-11-25 462（-1）
+2026-10-24 463 → 2026-11-26 464（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # akiselev/datasheet-cli
 
-⭐ 31 · Rust · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/akiselev/datasheet-cli) · 个人维护
+⭐ 32 · Rust · GPL-3.0 · 推送 2026-09-17 · [GitHub](https://github.com/akiselev/datasheet-cli) · 个人维护
 
 **用 Gemini 从电子元件 PDF 数据手册提取结构化数据的 CLI**
 
@@ -47,12 +47,12 @@ Rust 编写的命令行工具：将 PDF 数据手册上传至 Gemini（默认 ge
 ```mermaid
 xychart-beta
     title "akiselev/datasheet-cli 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 29 --> 32
-    line [30, 31, 30, 31, 31]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 29 --> 33
+    line [30, 31, 30, 31, 32]
 ```
 
-2026-10-23 30 → 2026-11-25 31（+1）
+2026-10-24 30 → 2026-11-26 32（+2）
 
 
 ---

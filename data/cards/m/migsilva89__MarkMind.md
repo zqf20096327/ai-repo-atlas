@@ -1,6 +1,6 @@
 # migsilva89/MarkMind
 
-⭐ 104 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/migsilva89/MarkMind) · [官网](https://www.markmind.xyz/) · 个人维护
+⭐ 105 · TypeScript · 推送 2026-10-31 · [GitHub](https://github.com/migsilva89/MarkMind) · [官网](https://www.markmind.xyz/) · 个人维护
 
 **用 AI 自动整理浏览器书签的 Chrome 扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "migsilva89/MarkMind 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 102 --> 106
-    line [103, 105, 103, 104, 104]
+    line [103, 105, 103, 104, 105]
 ```
 
-2026-10-23 103 → 2026-11-25 104（+1）
+2026-10-24 103 → 2026-11-26 105（+2）
 
 
 ---

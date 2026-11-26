@@ -1,6 +1,6 @@
 # oekazuma/svelte-vitals
 
-⭐ 25 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/oekazuma/svelte-vitals) · [官网](https://oekazuma.github.io/svelte-vitals/) · 个人维护
+⭐ 25 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/oekazuma/svelte-vitals) · [官网](https://oekazuma.github.io/svelte-vitals/) · 个人维护
 
 **SvelteKit 应用的静态代码健康检查工具，无需浏览器**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "oekazuma/svelte-vitals 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 23 --> 26
     line [24, 25, 25]
 ```
 
-2026-10-23 24 → 2026-11-25 25（+1）
+2026-10-24 24 → 2026-11-26 25（+1）
 
 
 ---

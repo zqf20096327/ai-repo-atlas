@@ -1,6 +1,6 @@
 # THU-BPM/MarkLLM
 
-⭐ 1,093 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/THU-BPM/MarkLLM) · [官网](https://aclanthology.org/2024.emnlp-demo.7/) · 组织维护 · 中文 README
+⭐ 1,095 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/THU-BPM/MarkLLM) · [官网](https://aclanthology.org/2024.emnlp-demo.7/) · 组织维护 · 中文 README
 
 **面向 LLM 水印研究者与社区的开源水印工具包**
 
@@ -46,12 +46,12 @@ MarkLLM 是一个促进 LLM 水印技术研究的开源工具包，覆盖水印�
 ```mermaid
 xychart-beta
     title "THU-BPM/MarkLLM 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 1087 --> 1095
-    line [1089, 1088, 1089, 1093, 1094, 1093, 1093]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 1087 --> 1096
+    line [1089, 1088, 1089, 1093, 1094, 1093, 1095]
 ```
 
-2026-10-23 1,089 → 2026-11-25 1,093（+4）
+2026-10-24 1,089 → 2026-11-26 1,095（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # flipcyde101/kvdiff
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/flipcyde101/kvdiff) · 个人维护
+⭐ 6 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/flipcyde101/kvdiff) · 个人维护
 
 **定位破坏 LLM 提示缓存的 UTF-8 字节的本地零代码代理**
 
@@ -39,6 +39,18 @@
 
 > L3: **Zero-code local proxy that pinpoints the exact UTF-8 byte breaking your LLM prompt cache (Anthropic, OpenAI, Googl
 > L81:     Agent["Coding Agent / IDE\n(Claude Code · Codex · Antigravity · Gemini · llama.cpp)"] -->|"HTTP (127.0.0.1:4318
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "flipcyde101/kvdiff 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
+```
+
+2026-11-25 5 → 2026-11-26 6（+1）
 
 
 ---

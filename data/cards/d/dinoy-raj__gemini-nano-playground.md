@@ -45,12 +45,12 @@ Android 应用，通过 ML Kit GenAI Prompt API（com.google.mlkit:genai-prompt�
 ```mermaid
 xychart-beta
     title "dinoy-raj/gemini-nano-playground 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 17（+0）
 
 
 ---

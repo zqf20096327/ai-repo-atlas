@@ -1,6 +1,6 @@
 # damienbod/McpSecurity
 
-⭐ 22 · C# · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/damienbod/McpSecurity) · [官网](https://mcpoauthsecurity-hag0drckepathyb6.westeurope-01.azurewebsites.net/.well-known/oauth-protected-resource) · 个人维护
+⭐ 24 · C# · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/damienbod/McpSecurity) · [官网](https://mcpoauthsecurity-hag0drckepathyb6.westeurope-01.azurewebsites.net/.well-known/oauth-protected-resource) · 个人维护
 
 **MCP OAuth 与安全研究资料汇总（含 Entra ID 示例配置）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "damienbod/McpSecurity 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 20 --> 23
-    line [21, 22, 22]
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 20 --> 25
+    line [21, 22, 24]
 ```
 
-2026-10-23 21 → 2026-11-25 22（+1）
+2026-10-24 21 → 2026-11-26 24（+3）
 
 
 ---

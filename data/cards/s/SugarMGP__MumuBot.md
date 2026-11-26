@@ -1,6 +1,6 @@
 # SugarMGP/MumuBot
 
-⭐ 29 · Go · GPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/SugarMGP/MumuBot) · 个人维护 · 中文 README
+⭐ 29 · Go · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/SugarMGP/MumuBot) · 个人维护 · 中文 README
 
 **运行在 QQ 群与私聊里的拟人智能体，会聊天记事并融入群文化**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "SugarMGP/MumuBot 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25"]
+    title "SugarMGP/MumuBot 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
     y-axis "stars" 25 --> 30
-    line [26, 27, 26, 28, 29]
+    line [26, 27, 26, 28, 29, 29]
 ```
 
-2026-10-23 26 → 2026-11-25 29（+3）
+2026-10-24 26 → 2026-11-26 29（+3）
 
 
 ---

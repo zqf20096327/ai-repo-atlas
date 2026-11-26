@@ -1,6 +1,6 @@
 # uveshm003/ai-dev-toolkit
 
-⭐ 3 · CC0-1.0 · 推送 2026-11-19 · [GitHub](https://github.com/uveshm003/ai-dev-toolkit) · 个人维护
+⭐ 14 · CC0-1.0 · 推送 2026-11-24 · [GitHub](https://github.com/uveshm003/ai-dev-toolkit) · 个人维护
 
 **AI 编程智能体的技能/插件/MCP/工作流策展清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "uveshm003/ai-dev-toolkit 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 4
-    line [3, 3]
+    x-axis ["2026-11-21", "2026-11-26"]
+    y-axis "stars" 2 --> 15
+    line [3, 14]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 14（+11）
 
 
 ---

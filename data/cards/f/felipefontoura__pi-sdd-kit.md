@@ -1,6 +1,6 @@
 # felipefontoura/pi-sdd-kit
 
-⭐ 39 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/felipefontoura/pi-sdd-kit) · [官网](https://felipefontoura.com/get/sdd-book/?utm_source=github&utm_medium=referral&utm_campaign=pi-sdd-kit&utm_content=about) · 个人维护
+⭐ 40 · MIT · 推送 2026-10-21 · [GitHub](https://github.com/felipefontoura/pi-sdd-kit) · [官网](https://felipefontoura.com/get/sdd-book/?utm_source=github&utm_medium=referral&utm_campaign=pi-sdd-kit&utm_content=about) · 个人维护
 
 **Pi 编程 Agent 的规格驱动开发（SDD）技能包**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "felipefontoura/pi-sdd-kit 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 34 --> 40
-    line [35, 36, 37, 38, 39, 39]
+    title "felipefontoura/pi-sdd-kit 星数(近 5 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 35 --> 41
+    line [36, 37, 38, 39, 40]
 ```
 
-2026-10-23 35 → 2026-11-25 39（+4）
+2026-10-24 36 → 2026-11-26 40（+4）
 
 
 ---

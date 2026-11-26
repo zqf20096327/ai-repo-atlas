@@ -1,6 +1,6 @@
 # hyperfx-ai/marketing-skills
 
-⭐ 118 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/hyperfx-ai/marketing-skills) · [官网](https://www.hyperfx.ai/mcp) · 组织维护
+⭐ 119 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/hyperfx-ai/marketing-skills) · [官网](https://www.hyperfx.ai/mcp) · 组织维护
 
 **面向 AI agent 的营销技能包（24+ 个 SKILL.md，跑在 Hyper MCP 上）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "hyperfx-ai/marketing-skills 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 106 --> 119
-    line [108, 107, 108, 112, 115, 116, 118, 118]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-02", "2026-11-08", "2026-11-16", "2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 106 --> 120
+    line [108, 107, 108, 112, 115, 116, 118, 119]
 ```
 
-2026-10-23 108 → 2026-11-25 118（+10）
+2026-10-24 108 → 2026-11-26 119（+11）
 
 
 ---

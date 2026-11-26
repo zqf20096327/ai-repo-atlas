@@ -1,6 +1,6 @@
 # R0650N/spirit-flux-refiner
 
-⭐ 55 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/R0650N/spirit-flux-refiner) · 个人维护
+⭐ 55 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/R0650N/spirit-flux-refiner) · 个人维护
 
 **面向 Flux1 等模型的 LoRA 训练工作台，供 AI 创作者微调模型**
 
@@ -46,12 +46,12 @@ Spirit-LoRA-Forge 是一个 LoRA 微调训练工具包，前身概念为 spirit-
 ```mermaid
 xychart-beta
     title "R0650N/spirit-flux-refiner 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 54 --> 56
     line [55, 55]
 ```
 
-2026-10-23 55 → 2026-11-25 55（+0）
+2026-10-24 55 → 2026-11-26 55（+0）
 
 
 ---

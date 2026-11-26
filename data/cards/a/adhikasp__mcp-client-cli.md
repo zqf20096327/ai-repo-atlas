@@ -1,6 +1,6 @@
 # adhikasp/mcp-client-cli
 
-⭐ 676 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/adhikasp/mcp-client-cli) · 个人维护
+⭐ 675 · Python · MIT · 推送 2025-12-02 · [GitHub](https://github.com/adhikasp/mcp-client-cli) · 个人维护
 
 **终端里运行 LLM 提示词并连接 MCP 服务器的 CLI 客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "adhikasp/mcp-client-cli 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-16", "2026-11-26"]
     y-axis "stars" 674 --> 677
-    line [675, 676, 675, 676, 676]
+    line [675, 676, 675, 676, 675]
 ```
 
-2026-10-23 675 → 2026-11-25 676（+1）
+2026-10-24 675 → 2026-11-26 675（+0）
 
 
 ---

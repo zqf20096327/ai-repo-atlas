@@ -1,6 +1,6 @@
 # figurehead-ai/AI-juggler
 
-⭐ 8 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/figurehead-ai/AI-juggler) · [官网](https://figurehead.ai/ai-juggler) · 个人维护
+⭐ 8 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/figurehead-ai/AI-juggler) · [官网](https://figurehead.ai/ai-juggler) · 个人维护
 
 **为 macOS 开发者集中管理多个 AI 编码工具会话与账号额度的桌面应用**
 
@@ -46,12 +46,12 @@ Rust + Tauri 构建的 macOS 本地应用，把用户已装的 Claude Code、Cod
 ```mermaid
 xychart-beta
     title "figurehead-ai/AI-juggler 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-13", "2026-11-14", "2026-11-15", "2026-11-26"]
     y-axis "stars" 2 --> 9
     line [3, 5, 7, 8, 8]
 ```
 
-2026-11-08 3 → 2026-11-25 8（+5）
+2026-11-08 3 → 2026-11-26 8（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # ai-resource-radar/ai-resource-radar
 
-⭐ 13 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ai-resource-radar/ai-resource-radar) · [官网](https://ai-resource-radar.github.io/ai-resource-radar/) · 个人维护 · 中文 README
+⭐ 15 · Python · MIT · 推送 2026-10-11 · [GitHub](https://github.com/ai-resource-radar/ai-resource-radar) · [官网](https://ai-resource-radar.github.io/ai-resource-radar/) · 个人维护 · 中文 README
 
 **免费 AI API 与 GPU 资源的每日核验追踪仪表盘**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "ai-resource-radar/ai-resource-radar 星数(近 4 点)"
-    x-axis ["2026-10-29", "2026-11-12", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 9 --> 14
-    line [10, 11, 12, 13]
+    title "ai-resource-radar/ai-resource-radar 星数(近 5 点)"
+    x-axis ["2026-10-29", "2026-11-12", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 16
+    line [10, 11, 12, 13, 15]
 ```
 
-2026-10-29 10 → 2026-11-25 13（+3）
+2026-10-29 10 → 2026-11-26 15（+5）
 
 
 ---

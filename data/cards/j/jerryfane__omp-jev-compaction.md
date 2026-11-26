@@ -1,6 +1,6 @@
 # jerryfane/omp-jev-compaction
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/jerryfane/omp-jev-compaction) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/jerryfane/omp-jev-compaction) · 个人维护
 
 **omp 编码代理的上下文压缩插件：请求前丢弃陈旧工具输出**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "jerryfane/omp-jev-compaction 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-11-18 15 → 2026-11-25 15（+0）
+2026-11-18 15 → 2026-11-26 15（+0）
 
 
 ---

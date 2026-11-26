@@ -1,6 +1,6 @@
 # Bessouat40/RAGLight
 
-⭐ 672 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Bessouat40/RAGLight) · [官网](https://raglight.mintlify.app/) · 个人维护
+⭐ 671 · Python · MIT · 推送 2026-10-16 · [GitHub](https://github.com/Bessouat40/RAGLight) · [官网](https://raglight.mintlify.app/) · 个人维护
 
 **组合经典与 Agentic RAG 管线的类型化 Python 工具包**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Bessouat40/RAGLight 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 671 --> 675
-    line [673, 672, 673, 674, 672, 672]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-11", "2026-11-15", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 670 --> 675
+    line [673, 672, 673, 674, 672, 671]
 ```
 
-2026-10-23 673 → 2026-11-25 672（-1）
+2026-10-24 673 → 2026-11-26 671（-2）
 
 
 ---

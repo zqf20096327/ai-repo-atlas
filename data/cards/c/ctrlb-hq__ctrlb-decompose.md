@@ -1,6 +1,6 @@
 # ctrlb-hq/ctrlb-decompose
 
-⭐ 305 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ctrlb-hq/ctrlb-decompose) · [官网](https://ctrlb.ai/decompose) · 组织维护
+⭐ 306 · Rust · MIT · 推送 2026-11-14 · [GitHub](https://github.com/ctrlb-hq/ctrlb-decompose) · [官网](https://ctrlb.ai/decompose) · 组织维护
 
 **把海量日志压缩为 LLM 可用模式的日志分析 CLI**
 
@@ -46,12 +46,12 @@ ctrlb-decompose 将数百万行嘈杂日志归约为带类型变量、分位数�
 ```mermaid
 xychart-beta
     title "ctrlb-hq/ctrlb-decompose 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 304 --> 306
-    line [305, 305]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 304 --> 307
+    line [305, 306]
 ```
 
-2026-10-23 305 → 2026-11-25 305（+0）
+2026-10-24 305 → 2026-11-26 306（+1）
 
 
 ---

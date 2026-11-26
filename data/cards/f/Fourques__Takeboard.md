@@ -1,6 +1,6 @@
 # Fourques/Takeboard
 
-⭐ 19 · TypeScript · Apache-2.0 · 推送 2026-11-09 · [GitHub](https://github.com/Fourques/Takeboard) · [官网](https://fourques.github.io/Takeboard/) · 个人维护 · 中文 README
+⭐ 21 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/Fourques/Takeboard) · [官网](https://fourques.github.io/Takeboard/) · 个人维护 · 中文 README
 
 **基于 ComfyUI 的开源 AI 图片/视频创作画布桌面应用**
 
@@ -47,12 +47,12 @@ TakeBoard 是连接本机或远程 ComfyUI 的桌面端创作画布：用户在�
 ```mermaid
 xychart-beta
     title "Fourques/Takeboard 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 10 --> 20
-    line [11, 16, 18, 11, 17, 18, 19, 19]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 10 --> 22
+    line [11, 16, 18, 11, 17, 18, 19, 21]
 ```
 
-2026-10-23 11 → 2026-11-25 19（+8）
+2026-10-24 11 → 2026-11-26 21（+10）
 
 
 ---

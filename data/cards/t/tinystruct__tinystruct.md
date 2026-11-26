@@ -1,6 +1,6 @@
 # tinystruct/tinystruct
 
-⭐ 365 · Java · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/tinystruct/tinystruct) · [官网](https://tinystruct.org) · 组织维护 · 中文 README
+⭐ 365 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/tinystruct/tinystruct) · [官网](https://tinystruct.org) · 组织维护 · 中文 README
 
 **面向 Web 与 CLI 的轻量级模块化 Java 应用框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "tinystruct/tinystruct 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 361 --> 367
-    line [362, 363, 364, 365, 366, 365, 365]
+    title "tinystruct/tinystruct 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-13", "2026-11-19", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 362 --> 367
+    line [363, 364, 365, 366, 365, 365]
 ```
 
-2026-10-23 362 → 2026-11-25 365（+3）
+2026-10-24 363 → 2026-11-26 365（+2）
 
 
 ---

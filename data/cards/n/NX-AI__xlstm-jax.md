@@ -1,6 +1,6 @@
 # NX-AI/xlstm-jax
 
-⭐ 105 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/NX-AI/xlstm-jax) · [官网](https://xlstm-jax.readthedocs.io/en/latest/) · 组织维护
+⭐ 106 · Python · NOASSERTION · 推送 2026-11-06 · [GitHub](https://github.com/NX-AI/xlstm-jax) · [官网](https://xlstm-jax.readthedocs.io/en/latest/) · 组织维护
 
 **xLSTM 循环神经网络架构的官方 JAX 训练与推理实现**
 
@@ -45,12 +45,12 @@ NX-AI 维护的 xLSTM 模型官方 JAX 代码库，提供在语言建模任务�
 ```mermaid
 xychart-beta
     title "NX-AI/xlstm-jax 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
-    y-axis "stars" 104 --> 106
-    line [105, 105]
+    x-axis ["2026-11-02", "2026-11-26"]
+    y-axis "stars" 104 --> 107
+    line [105, 106]
 ```
 
-2026-11-02 105 → 2026-11-25 105（+0）
+2026-11-02 105 → 2026-11-26 106（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # anubhavshrimal/open-loops
 
-⭐ 3 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/anubhavshrimal/open-loops) · [官网](https://anubhavshrimal.github.io/open-loops/) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/anubhavshrimal/open-loops) · [官网](https://anubhavshrimal.github.io/open-loops/) · 个人维护
 
 **开发者用任务编排器：规格进、已审 PR 出，驱动编码代理工作**
 
@@ -46,12 +46,12 @@ Open Loops 从 Tracker 取 Task，将每个 Ready 状态的 Task 交给一个编
 ```mermaid
 xychart-beta
     title "anubhavshrimal/open-loops 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 3（+0）
 
 
 ---

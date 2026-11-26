@@ -1,6 +1,6 @@
 # Devinterview-io/data-scientist-interview-questions
 
-⭐ 217 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/data-scientist-interview-questions) · 组织维护
+⭐ 218 · 推送 2026-01-04 · [GitHub](https://github.com/Devinterview-io/data-scientist-interview-questions) · 组织维护
 
 **数据科学家面试题与答案清单（100 题，2026 版）**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "Devinterview-io/data-scientist-interview-questions 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 211 --> 218
-    line [212, 214, 212, 214, 216, 217, 217]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 211 --> 219
+    line [212, 214, 212, 214, 216, 217, 218]
 ```
 
-2026-10-23 212 → 2026-11-25 217（+5）
+2026-10-24 212 → 2026-11-26 218（+6）
 
 
 ---

@@ -1,6 +1,6 @@
 # mbeijen/andrej-karpathy-skills-cursor-vscode
 
-⭐ 275 · TypeScript · 推送 2026-02-11 · [GitHub](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode) · [官网](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html) · 个人维护
+⭐ 274 · TypeScript · 推送 2026-02-11 · [GitHub](https://github.com/mbeijen/andrej-karpathy-skills-cursor-vscode) · [官网](https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html) · 个人维护
 
 **将 Karpathy 编码准则转为 Cursor/VS Code 规则文件的扩展**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mbeijen/andrej-karpathy-skills-cursor-vscode 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
     y-axis "stars" 273 --> 276
-    line [275, 274, 275, 274, 275, 275]
+    line [275, 274, 275, 274, 275, 274]
 ```
 
-2026-10-23 275 → 2026-11-25 275（+0）
+2026-10-24 275 → 2026-11-26 274（-1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Capricornus-joe/jianying-local-mcp
 
-⭐ 14 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Capricornus-joe/jianying-local-mcp) · 个人维护 · 中文 README
+⭐ 16 · Python · MIT · 推送 2026-09-18 · [GitHub](https://github.com/Capricornus-joe/jianying-local-mcp) · 个人维护 · 中文 README
 
 **让 AI 通过 MCP 驱动 Mac 剪映自动生成草稿的工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Capricornus-joe/jianying-local-mcp 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 9 --> 15
-    line [11, 10, 11, 12, 13, 14, 14]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 9 --> 17
+    line [11, 10, 11, 12, 13, 14, 16]
 ```
 
-2026-10-23 11 → 2026-11-25 14（+3）
+2026-10-24 11 → 2026-11-26 16（+5）
 
 
 ---

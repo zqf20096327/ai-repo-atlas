@@ -1,6 +1,6 @@
 # ourownstory/neural_prophet
 
-⭐ 4,313 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ourownstory/neural_prophet) · [官网](https://neuralprophet.com) · 组织维护
+⭐ 4,314 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/ourownstory/neural_prophet) · [官网](https://neuralprophet.com) · 组织维护
 
 **基于 PyTorch 的可解释时间序列预测框架**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ourownstory/neural_prophet 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-25"]
+    title "ourownstory/neural_prophet 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-13", "2026-11-19", "2026-11-21", "2026-11-25", "2026-11-26"]
     y-axis "stars" 4311 --> 4316
-    line [4312, 4313, 4312, 4315, 4312, 4313, 4312, 4313, 4312, 4313]
+    line [4312, 4313, 4312, 4315, 4312, 4313, 4312, 4313, 4312, 4313, 4314]
 ```
 
-2026-10-23 4,312 → 2026-11-25 4,313（+1）
+2026-10-24 4,312 → 2026-11-26 4,314（+2）
 
 
 ---

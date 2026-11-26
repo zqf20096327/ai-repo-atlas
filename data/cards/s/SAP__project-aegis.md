@@ -1,6 +1,6 @@
 # SAP/project-aegis
 
-⭐ 8 · Python · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SAP/project-aegis) · 组织维护
+⭐ 8 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/SAP/project-aegis) · 组织维护
 
 **为 AI 工作流提供可组合 guardrail 的 Python 库**
 
@@ -45,12 +45,12 @@ SAP 开源的 Python guardrail 库：在 agent 输入输出两侧校验与清洗
 ```mermaid
 xychart-beta
     title "SAP/project-aegis 星数(近 3 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-26"]
     y-axis "stars" 6 --> 9
     line [7, 8, 8]
 ```
 
-2026-11-16 7 → 2026-11-25 8（+1）
+2026-11-16 7 → 2026-11-26 8（+1）
 
 
 ---

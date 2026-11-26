@@ -1,6 +1,6 @@
 # partarstu/agentic-qa-framework
 
-⭐ 38 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/partarstu/agentic-qa-framework) · 组织维护
+⭐ 39 · Python · AGPL-3.0 · 推送 2026-11-22 · [GitHub](https://github.com/partarstu/agentic-qa-framework) · 组织维护
 
 **AI 多智能体软件测试自动化框架：从需求评审到测试报告**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "partarstu/agentic-qa-framework 星数(近 5 点)"
-    x-axis ["2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 34 --> 39
-    line [35, 36, 37, 38, 38]
+    x-axis ["2026-11-10", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 34 --> 40
+    line [35, 36, 37, 38, 39]
 ```
 
-2026-11-10 35 → 2026-11-25 38（+3）
+2026-11-10 35 → 2026-11-26 39（+4）
 
 
 ---

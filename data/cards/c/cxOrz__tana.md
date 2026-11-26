@@ -1,6 +1,6 @@
 # cxOrz/tana
 
-⭐ 32 · TypeScript · MIT · 推送 2025-12-31 · [GitHub](https://github.com/cxOrz/tana) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · MIT · 推送 2025-12-31 · [GitHub](https://github.com/cxOrz/tana) · 个人维护 · 中文 README
 
 **史莱姆桌宠：陪班陪伴+速记日记与每晚 AI 回顾**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "cxOrz/tana 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 31 --> 33
-    line [32, 32]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 30 --> 33
+    line [32, 31]
 ```
 
-2026-10-23 32 → 2026-11-25 32（+0）
+2026-10-24 32 → 2026-11-26 31（-1）
 
 
 ---

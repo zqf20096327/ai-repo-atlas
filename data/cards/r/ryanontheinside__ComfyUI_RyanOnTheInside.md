@@ -1,6 +1,6 @@
 # ryanontheinside/ComfyUI_RyanOnTheInside
 
-⭐ 868 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/ryanontheinside/ComfyUI_RyanOnTheInside) · 个人维护
+⭐ 869 · Python · MIT · 推送 2026-03-20 · [GitHub](https://github.com/ryanontheinside/ComfyUI_RyanOnTheInside) · 个人维护
 
 **ComfyUI 反应性节点包：用音频/MIDI/运动等驱动图像与视频创作**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "ryanontheinside/ComfyUI_RyanOnTheInside 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 865 --> 869
-    line [866, 867, 866, 867, 866, 867, 868, 867, 868, 868]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-16", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 865 --> 870
+    line [866, 867, 866, 867, 866, 867, 868, 867, 868, 869]
 ```
 
-2026-10-23 866 → 2026-11-25 868（+2）
+2026-10-24 866 → 2026-11-26 869（+3）
 
 
 ---

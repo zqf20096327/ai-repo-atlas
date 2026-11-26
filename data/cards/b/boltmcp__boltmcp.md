@@ -1,6 +1,6 @@
 # boltmcp/boltmcp
 
-⭐ 372 · HCL · 推送 2026-11-23 · [GitHub](https://github.com/boltmcp/boltmcp) · [官网](https://install.boltmcp.io) · 组织维护
+⭐ 371 · HCL · 推送 2026-11-23 · [GitHub](https://github.com/boltmcp/boltmcp) · [官网](https://install.boltmcp.io) · 组织维护
 
 **在 Kubernetes 上部署 BoltMCP 的安装工具，支持 Claude 引导安装**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "boltmcp/boltmcp 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-26"]
     y-axis "stars" 369 --> 374
-    line [370, 371, 370, 372, 373, 372, 372]
+    line [370, 371, 370, 372, 373, 372, 371]
 ```
 
-2026-10-23 370 → 2026-11-25 372（+2）
+2026-10-24 370 → 2026-11-26 371（+1）
 
 
 ---

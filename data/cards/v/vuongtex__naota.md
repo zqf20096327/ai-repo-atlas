@@ -1,6 +1,6 @@
 # vuongtex/naota
 
-⭐ 4 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/vuongtex/naota) · [官网](https://vuong.ai) · 个人维护
+⭐ 4 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/vuongtex/naota) · [官网](https://vuong.ai) · 个人维护
 
 **本地/VPS 运行的个人 AI 助理，可切换模型大脑做业务自动化**
 
@@ -46,12 +46,12 @@ NAOTA 是由个人开发者 Hoàng Ngọc Vương 开发的 AI 助理，运行�
 ```mermaid
 xychart-beta
     title "vuongtex/naota 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-23 4 → 2026-11-25 4（+0）
+2026-11-23 4 → 2026-11-26 4（+0）
 
 
 ---

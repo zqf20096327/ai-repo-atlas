@@ -1,6 +1,6 @@
 # john-rocky/apple-silicon-llm-bench
 
-⭐ 74 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/john-rocky/apple-silicon-llm-bench) · [官网](https://john-rocky.github.io/) · 个人维护
+⭐ 76 · Python · MIT · 推送 2026-11-16 · [GitHub](https://github.com/john-rocky/apple-silicon-llm-bench) · [官网](https://john-rocky.github.io/) · 个人维护
 
 **Apple Silicon 端侧 LLM 运行时性能基准：同模型同测试协议对比多引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "john-rocky/apple-silicon-llm-bench 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 71 --> 75
-    line [72, 73, 72, 73, 74, 74]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 71 --> 77
+    line [72, 73, 72, 73, 74, 76]
 ```
 
-2026-10-23 72 → 2026-11-25 74（+2）
+2026-10-24 72 → 2026-11-26 76（+4）
 
 
 ---

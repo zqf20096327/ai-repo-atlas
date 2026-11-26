@@ -1,6 +1,6 @@
 # T-Crypt/replicator
 
-⭐ 24 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/T-Crypt/replicator) · 个人维护
+⭐ 25 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/T-Crypt/replicator) · 个人维护
 
 **工程师用的一句话生成可验证三维实体建模工作台**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "T-Crypt/replicator 星数(近 6 点)"
-    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 13 --> 25
-    line [14, 15, 17, 21, 23, 24]
+    title "T-Crypt/replicator 星数(近 7 点)"
+    x-axis ["2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 26
+    line [14, 15, 17, 21, 23, 24, 25]
 ```
 
-2026-11-16 14 → 2026-11-25 24（+10）
+2026-11-16 14 → 2026-11-26 25（+11）
 
 
 ---

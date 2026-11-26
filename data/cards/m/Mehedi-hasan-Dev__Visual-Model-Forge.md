@@ -1,6 +1,6 @@
 # Mehedi-hasan-Dev/Visual-Model-Forge
 
-⭐ 53 · HTML · 推送 2026-11-23 · [GitHub](https://github.com/Mehedi-hasan-Dev/Visual-Model-Forge) · 个人维护
+⭐ 53 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/Mehedi-hasan-Dev/Visual-Model-Forge) · 个人维护
 
 **无代码图像分类训练工作台：可视化调参、实时训练**
 
@@ -46,12 +46,12 @@ PerceptaForge 是浏览器端的图像分类训练工具：在可视化画布上
 ```mermaid
 xychart-beta
     title "Mehedi-hasan-Dev/Visual-Model-Forge 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 52 --> 54
     line [53, 53]
 ```
 
-2026-10-23 53 → 2026-11-25 53（+0）
+2026-10-24 53 → 2026-11-26 53（+0）
 
 
 ---

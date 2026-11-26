@@ -1,6 +1,6 @@
 # aiguozhi123456/juso-search
 
-⭐ 31 · TypeScript · MPL-2.0 · 推送 2026-11-11 · [GitHub](https://github.com/aiguozhi123456/juso-search) · [官网](https://aiguozhi123456.github.io/juso-search/) · 个人维护 · 中文 README
+⭐ 31 · TypeScript · MPL-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/aiguozhi123456/juso-search) · [官网](https://aiguozhi123456.github.io/juso-search/) · 个人维护 · 中文 README
 
 **面向人类与本地 AI 智能体的双面搜索聚合浏览器扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "aiguozhi123456/juso-search 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-22", "2026-11-26"]
     y-axis "stars" 29 --> 32
     line [30, 31, 31]
 ```
 
-2026-10-23 30 → 2026-11-25 31（+1）
+2026-10-24 30 → 2026-11-26 31（+1）
 
 
 ---

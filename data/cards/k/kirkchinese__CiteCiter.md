@@ -1,6 +1,6 @@
 # kirkchinese/CiteCiter
 
-⭐ 43 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/kirkchinese/CiteCiter) · 个人维护 · 中文 README
+⭐ 43 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kirkchinese/CiteCiter) · 个人维护 · 中文 README
 
 **DeepSeek Harness 插件：选中 AI 回答内容追问与学习，不改主对话**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "kirkchinese/CiteCiter 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 37 --> 45
-    line [38, 39, 40, 41, 39, 43, 44, 43, 43]
+    title "kirkchinese/CiteCiter 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 38 --> 45
+    line [39, 40, 41, 39, 43, 44, 43, 43]
 ```
 
-2026-10-23 38 → 2026-11-25 43（+5）
+2026-10-24 39 → 2026-11-26 43（+4）
 
 
 ---

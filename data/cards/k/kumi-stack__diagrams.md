@@ -1,6 +1,6 @@
 # kumi-stack/diagrams
 
-⭐ 12 · Svelte · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/kumi-stack/diagrams) · 组织维护
+⭐ 13 · Svelte · GPL-3.0 · 推送 2026-09-02 · [GitHub](https://github.com/kumi-stack/diagrams) · 组织维护
 
 **面向开发者的本地 Mermaid 图表桌面编辑器，可配 Ollama 本地 AI**
 
@@ -45,12 +45,12 @@ KumiDiagrams 是基于 SvelteKit、Tauri 与 Rust 后端的桌面应用，用于
 ```mermaid
 xychart-beta
     title "kumi-stack/diagrams 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 9 --> 14
+    line [10, 11, 12, 13]
 ```
 
-2026-10-23 10 → 2026-11-25 12（+2）
+2026-10-24 10 → 2026-11-26 13（+3）
 
 
 ---

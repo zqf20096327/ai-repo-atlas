@@ -1,6 +1,6 @@
 # nibor1896/Crow
 
-⭐ 39 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nibor1896/Crow) · [官网](https://github.com/nibor1896/Crow/releases/latest) · 个人维护
+⭐ 40 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/nibor1896/Crow) · [官网](https://github.com/nibor1896/Crow/releases/latest) · 个人维护
 
 **本地运行的 AI agent：31 工具、MCP、记忆与图像生成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nibor1896/Crow 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 36 --> 40
-    line [37, 38, 37, 39, 39]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-02", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 36 --> 41
+    line [37, 38, 37, 39, 40]
 ```
 
-2026-10-23 37 → 2026-11-25 39（+2）
+2026-10-24 37 → 2026-11-26 40（+3）
 
 
 ---

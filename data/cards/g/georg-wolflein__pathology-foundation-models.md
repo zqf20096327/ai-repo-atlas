@@ -1,6 +1,6 @@
 # georg-wolflein/pathology-foundation-models
 
-⭐ 208 · Makefile · 推送 2026-02-15 · [GitHub](https://github.com/georg-wolflein/pathology-foundation-models) · 个人维护
+⭐ 209 · Makefile · 推送 2026-02-15 · [GitHub](https://github.com/georg-wolflein/pathology-foundation-models) · 个人维护
 
 **病理学基础模型与特征提取器清单（含 patch 级与切片级）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "georg-wolflein/pathology-foundation-models 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 207 --> 209
-    line [208, 208]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 207 --> 210
+    line [208, 209]
 ```
 
-2026-10-23 208 → 2026-11-25 208（+0）
+2026-10-24 208 → 2026-11-26 209（+1）
 
 
 ---

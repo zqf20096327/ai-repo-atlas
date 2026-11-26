@@ -1,6 +1,6 @@
 # kMegapnbedt/PreenCut
 
-⭐ 5 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kMegapnbedt/PreenCut) · 个人维护 · 中文 README
+⭐ 3 · Python · MIT · 推送 2026-10-19 · [GitHub](https://github.com/kMegapnbedt/PreenCut) · 个人维护 · 中文 README
 
 **用语音识别加 LLM 从视频/音频中按自然语言检索并导出片段**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kMegapnbedt/PreenCut 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [5, 3]
 ```
 
-2026-10-23 5 → 2026-11-25 5（+0）
+2026-10-24 5 → 2026-11-26 3（-2）
 
 
 ---

@@ -1,6 +1,6 @@
 # Alexandre-LPZ/avant-garde
 
-⭐ 4 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Alexandre-LPZ/avant-garde) · 个人维护
+⭐ 5 · MIT · 推送 2026-10-18 · [GitHub](https://github.com/Alexandre-LPZ/avant-garde) · 个人维护
 
 **给 Claude 加先写文档再写码的流程技能与安全门**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Alexandre-LPZ/avant-garde 星数(近 5 点)"
-    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 3, 4, 4]
+    x-axis ["2026-10-25", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 3, 4, 5]
 ```
 
-2026-10-25 3 → 2026-11-25 4（+1）
+2026-10-25 3 → 2026-11-26 5（+2）
 
 
 ---

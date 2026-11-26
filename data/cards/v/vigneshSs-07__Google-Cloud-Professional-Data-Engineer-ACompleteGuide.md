@@ -46,12 +46,12 @@ Udemy 课程《Google Cloud Professional Data Engineer - A Complete Guide》的�
 ```mermaid
 xychart-beta
     title "vigneshSs-07/Google-Cloud-Professional-Data-Engineer-ACompleteGuide 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 10 --> 13
     line [11, 12, 11, 12, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 12（+1）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Haardt/dctx0ctl
 
-⭐ 3 · Rust · MIT · 推送 2026-11-22 · [GitHub](https://github.com/Haardt/dctx0ctl) · [官网](https://haardt.github.io/dctx0ctl/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **给 AI 原生开发的可执行规格语言：先定契约再并行实现**
 
@@ -11,7 +11,7 @@ DCTX0 是一种可执行规格语言与配套 CLI：用户用自然语言描述�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

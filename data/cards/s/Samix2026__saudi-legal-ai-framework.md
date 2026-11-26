@@ -1,6 +1,6 @@
 # Samix2026/saudi-legal-ai-framework
 
-⭐ 37 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Samix2026/saudi-legal-ai-framework) · 个人维护
+⭐ 38 · Python · MIT · 推送 2026-11-04 · [GitHub](https://github.com/Samix2026/saudi-legal-ai-framework) · 个人维护
 
 **沙特法律 AI 上下文框架：技能文件与数据集供 LLM 引用沙特法规**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Samix2026/saudi-legal-ai-framework 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 33 --> 38
-    line [34, 36, 37, 37]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 33 --> 39
+    line [34, 36, 37, 38]
 ```
 
-2026-10-23 34 → 2026-11-25 37（+3）
+2026-10-24 34 → 2026-11-26 38（+4）
 
 
 ---

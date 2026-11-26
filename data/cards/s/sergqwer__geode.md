@@ -1,6 +1,6 @@
 # sergqwer/geode
 
-⭐ 5 · C++ · AGPL-3.0 · 推送 2026-11-19 · [GitHub](https://github.com/sergqwer/geode) · [官网](https://geode.tifu.xyz) · 个人维护
+⭐ 5 · C++ · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/sergqwer/geode) · [官网](https://geode.tifu.xyz) · 个人维护
 
 **在 Android 手机本地离线运行大模型的聊天、作曲与生图应用**
 
@@ -47,12 +47,12 @@ Geode 是一个 Android 应用，在手机本地运行语言、多模态、歌�
 ```mermaid
 xychart-beta
     title "sergqwer/geode 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 4, 5, 5]
 ```
 
-2026-11-21 3 → 2026-11-25 5（+2）
+2026-11-21 3 → 2026-11-26 5（+2）
 
 
 ---

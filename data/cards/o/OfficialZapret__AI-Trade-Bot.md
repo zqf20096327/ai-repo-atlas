@@ -1,6 +1,6 @@
 # OfficialZapret/AI-Trade-Bot
 
-⭐ 38 · 推送 2026-07-21 · [GitHub](https://github.com/OfficialZapret/AI-Trade-Bot) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **浏览器端 AI 驱动的 DEX 链上自动交易机器人**
 

@@ -1,6 +1,6 @@
 # LEVOGNE/airust
 
-⭐ 11 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/LEVOGNE/airust) · [官网](https://docs.rs/airust) · 个人维护
+⭐ 11 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/LEVOGNE/airust) · [官网](https://docs.rs/airust) · 个人维护
 
 **Rust 模块化知识检索库：词法搜索、文本匹配、可选语义检索**
 
@@ -45,12 +45,12 @@ AIRust 是一个 Rust 库，输入带 ID、文本与可选元数据的条目，�
 ```mermaid
 xychart-beta
     title "LEVOGNE/airust 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-11-23 11 → 2026-11-25 11（+0）
+2026-11-23 11 → 2026-11-26 11（+0）
 
 
 ---

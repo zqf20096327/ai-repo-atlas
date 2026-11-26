@@ -1,6 +1,6 @@
 # MasterAwesome/bart-harness
 
-⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/MasterAwesome/bart-harness) · 个人维护
+⭐ 3 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/MasterAwesome/bart-harness) · 个人维护
 
 **给开发者的终端编码 agent：持久 Python 会话驱动，自带模型接入**
 
@@ -47,12 +47,12 @@ Rust 编写的终端编码工具，围绕单个持久 Python 解释器运行：�
 ```mermaid
 xychart-beta
     title "MasterAwesome/bart-harness 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-20 3 → 2026-11-25 3（+0）
+2026-11-20 3 → 2026-11-26 3（+0）
 
 
 ---

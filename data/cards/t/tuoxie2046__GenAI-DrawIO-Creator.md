@@ -1,6 +1,6 @@
 # tuoxie2046/GenAI-DrawIO-Creator
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/tuoxie2046/GenAI-DrawIO-Creator) · [官网](https://genai-drawio-creator.vercel.app) · 个人维护
+⭐ 11 · TypeScript · Apache-2.0 · 推送 2026-04-06 · [GitHub](https://github.com/tuoxie2046/GenAI-DrawIO-Creator) · [官网](https://genai-drawio-creator.vercel.app) · 个人维护
 
 **面向开发者的自然语言对话式 draw.io 图表生成工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "tuoxie2046/GenAI-DrawIO-Creator 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 11（+1）
 
 
 ---

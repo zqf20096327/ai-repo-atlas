@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Bin-Cao/awesome-xrd2crystal 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "Bin-Cao/awesome-xrd2crystal 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 25 --> 28
-    line [26, 27]
+    line [26, 27, 27]
 ```
 
-2026-10-23 26 → 2026-11-25 27（+1）
+2026-10-24 26 → 2026-11-26 27（+1）
 
 
 ---

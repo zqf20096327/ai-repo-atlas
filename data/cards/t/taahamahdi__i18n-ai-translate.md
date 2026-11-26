@@ -1,6 +1,6 @@
 # taahamahdi/i18n-ai-translate
 
-⭐ 104 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/taahamahdi/i18n-ai-translate) · 个人维护
+⭐ 104 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/taahamahdi/i18n-ai-translate) · 个人维护
 
 **用 AI 自动翻译 i18n 多语言资源文件的 CLI/Node 库/Action**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "taahamahdi/i18n-ai-translate 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-01", "2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-01", "2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 101 --> 105
     line [102, 103, 102, 103, 104, 104]
 ```
 
-2026-10-23 102 → 2026-11-25 104（+2）
+2026-10-24 102 → 2026-11-26 104（+2）
 
 
 ---

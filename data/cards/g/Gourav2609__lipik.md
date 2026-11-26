@@ -1,6 +1,6 @@
 # Gourav2609/lipik
 
-⭐ 4 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Gourav2609/lipik) · [官网](https://lipik.refflux.dev) · 个人维护
+⭐ 4 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Gourav2609/lipik) · [官网](https://lipik.refflux.dev) · 个人维护
 
 **Mac 离线语音听写工具：按住 fn 说话即得整理后的文本**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Gourav2609/lipik 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

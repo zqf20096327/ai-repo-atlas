@@ -1,6 +1,6 @@
 # chensyCN/LogicRAG
 
-⭐ 241 · Python · GPL-3.0 · 推送 2026-07-19 · [GitHub](https://github.com/chensyCN/LogicRAG) · [官网](https://arxiv.org/abs/2508.06105) · 个人维护
+⭐ 242 · Python · GPL-3.0 · 推送 2026-07-19 · [GitHub](https://github.com/chensyCN/LogicRAG) · [官网](https://arxiv.org/abs/2508.06105) · 个人维护
 
 **AAAI'26 论文代码：查询逻辑依赖图引导的结构化 RAG 方法**
 
@@ -45,12 +45,12 @@ LogicRAG 的官方源码实现：将复杂问题转换为逻辑依赖图以规�
 ```mermaid
 xychart-beta
     title "chensyCN/LogicRAG 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 238 --> 242
-    line [239, 240, 241, 239, 241, 241]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 238 --> 243
+    line [239, 240, 241, 239, 241, 242]
 ```
 
-2026-10-23 239 → 2026-11-25 241（+2）
+2026-10-24 239 → 2026-11-26 242（+3）
 
 
 ---

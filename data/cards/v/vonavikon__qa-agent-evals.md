@@ -1,6 +1,6 @@
 # vonavikon/qa-agent-evals
 
-⭐ 7 · Python · MIT · 推送 2026-11-18 · [GitHub](https://github.com/vonavikon/qa-agent-evals) · 个人维护 · 中文 README
+⭐ — · [GitHub]() · 个人维护 · 中文 README
 
 **用角色扮演子代理对 LLM 系统做验收测试的 Claude Code 插件**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

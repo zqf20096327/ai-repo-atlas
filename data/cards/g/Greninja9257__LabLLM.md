@@ -1,6 +1,6 @@
 # Greninja9257/LabLLM
 
-⭐ 38 · Swift · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Greninja9257/LabLLM) · [官网](https://greninja9257.github.io/LabLLM/) · 个人维护
+⭐ 37 · Swift · MIT · 推送 2026-08-20 · [GitHub](https://github.com/Greninja9257/LabLLM) · [官网](https://greninja9257.github.io/LabLLM/) · 个人维护
 
 **macOS 原生应用：在 Apple Silicon 上从零构建、训练并对话小 LLM**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "Greninja9257/LabLLM 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 37 --> 43
-    line [41, 42, 38, 39, 38, 39, 38, 38]
+    title "Greninja9257/LabLLM 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 36 --> 43
+    line [42, 38, 39, 38, 39, 38, 37]
 ```
 
-2026-10-23 41 → 2026-11-25 38（-3）
+2026-10-24 42 → 2026-11-26 37（-5）
 
 
 ---

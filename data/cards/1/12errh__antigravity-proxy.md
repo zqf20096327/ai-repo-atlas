@@ -1,6 +1,6 @@
 # 12errh/antigravity-proxy
 
-⭐ 45 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/12errh/antigravity-proxy) · 个人维护
+⭐ 46 · TypeScript · MIT · 推送 2026-10-17 · [GitHub](https://github.com/12errh/antigravity-proxy) · 个人维护
 
 **让 Antigravity 2.0 使用任意 AI 提供商的 TypeScript 代理**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "12errh/antigravity-proxy 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 40 --> 46
-    line [41, 43, 41, 43, 42, 43, 44, 45]
+    title "12errh/antigravity-proxy 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-14", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 40 --> 47
+    line [41, 43, 41, 43, 42, 43, 44, 45, 46]
 ```
 
-2026-10-23 41 → 2026-11-25 45（+4）
+2026-10-24 41 → 2026-11-26 46（+5）
 
 
 ---

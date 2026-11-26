@@ -1,6 +1,6 @@
 # VonderVuflya/Yggdrasil
 
-⭐ 24 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/VonderVuflya/Yggdrasil) · 个人维护
+⭐ 25 · Python · AGPL-3.0 · 推送 2026-11-16 · [GitHub](https://github.com/VonderVuflya/Yggdrasil) · 个人维护
 
 **给 AI 编程 agent 的本地持久记忆层（MCP，零依赖）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "VonderVuflya/Yggdrasil 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 21 --> 25
-    line [22, 23, 24, 24]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 21 --> 26
+    line [22, 23, 24, 25]
 ```
 
-2026-10-23 22 → 2026-11-25 24（+2）
+2026-10-24 22 → 2026-11-26 25（+3）
 
 
 ---

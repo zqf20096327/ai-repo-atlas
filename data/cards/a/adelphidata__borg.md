@@ -1,6 +1,6 @@
 # adelphidata/borg
 
-⭐ 10 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/adelphidata/borg) · 组织维护
+⭐ 10 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/adelphidata/borg) · 组织维护
 
 **本地运行的安全优先个人 AI 助理，可接管任务与设备**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "adelphidata/borg 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-23 10 → 2026-11-25 10（+0）
+2026-11-23 10 → 2026-11-26 10（+0）
 
 
 ---

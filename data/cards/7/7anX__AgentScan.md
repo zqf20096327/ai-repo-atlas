@@ -1,6 +1,6 @@
 # 7anX/AgentScan
 
-⭐ 110 · Go · MIT · 推送 2026-08-01 · [GitHub](https://github.com/7anX/AgentScan) · 个人维护 · 中文 README
+⭐ 111 · Go · MIT · 推送 2026-08-01 · [GitHub](https://github.com/7anX/AgentScan) · 个人维护 · 中文 README
 
 **一条命令盘点 MCP、A2A Agent Card 与 LLM 开放接口暴露面**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "7anX/AgentScan 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 108 --> 111
-    line [109, 110, 109, 110, 110]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 108 --> 112
+    line [109, 110, 109, 110, 111]
 ```
 
-2026-10-23 109 → 2026-11-25 110（+1）
+2026-10-24 109 → 2026-11-26 111（+2）
 
 
 ---

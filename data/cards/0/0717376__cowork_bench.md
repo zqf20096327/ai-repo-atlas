@@ -1,6 +1,6 @@
 # 0717376/cowork_bench
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/0717376/cowork_bench) · 个人维护
+⭐ 11 · Python · Apache-2.0 · 推送 2026-08-08 · [GitHub](https://github.com/0717376/cowork_bench) · 个人维护
 
 **俄语多工具 LLM agent 基准：496 个 MCP 端到端任务本地评测**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "0717376/cowork_bench 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 9 --> 11
-    line [10, 10]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 9 --> 12
+    line [10, 11]
 ```
 
-2026-11-08 10 → 2026-11-25 10（+0）
+2026-11-08 10 → 2026-11-26 11（+1）
 
 
 ---

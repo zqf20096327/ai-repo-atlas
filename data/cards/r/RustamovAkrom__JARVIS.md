@@ -1,6 +1,6 @@
 # RustamovAkrom/JARVIS
 
-⭐ 107 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/RustamovAkrom/JARVIS) · 个人维护
+⭐ 109 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/RustamovAkrom/JARVIS) · 个人维护
 
 **桌面端语音 AI 助手：对话、电脑工具与本地记忆一体**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | MIT |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RustamovAkrom/JARVIS 星数(近 6 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 94 --> 108
-    line [95, 99, 100, 104, 106, 107]
+    title "RustamovAkrom/JARVIS 星数(近 7 点)"
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 94 --> 110
+    line [95, 99, 100, 104, 106, 107, 109]
 ```
 
-2026-11-14 95 → 2026-11-25 107（+12）
+2026-11-14 95 → 2026-11-26 109（+14）
 
 
 ---

@@ -1,6 +1,6 @@
 # CrystalDustt-V2/AI-Clipper
 
-⭐ 25 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CrystalDustt-V2/AI-Clipper) · 个人维护
+⭐ 33 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/CrystalDustt-V2/AI-Clipper) · 个人维护
 
 **本地视频智能剪辑 CLI：AI 分析并生成剪辑工程，FFmpeg 确定性渲染**
 
@@ -40,6 +40,18 @@
 > L3: A local-first Python CLI for video intelligence, structured AI-controlled video editing, and deterministic FFmpeg re
 > L19: - **Deterministic Validation & Fault-Tolerant Agent Loop**:
 > L74: ### OpenAI-Compatible Endpoint
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CrystalDustt-V2/AI-Clipper 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 24 --> 34
+    line [25, 33]
+```
+
+2026-11-25 25 → 2026-11-26 33（+8）
 
 
 ---

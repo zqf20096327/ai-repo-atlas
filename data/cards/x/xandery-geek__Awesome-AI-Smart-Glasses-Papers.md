@@ -40,6 +40,18 @@
 > L3: A curated reading list for **AI Smart Glasses**, organized according to the taxonomy in our survey paper **AI Smart 
 > L25: Following the survey, this list is organized around four connected layers:
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "xandery-geek/Awesome-AI-Smart-Glasses-Papers 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `d3f53a395718` · [字段定义](../../DATASET.md)*

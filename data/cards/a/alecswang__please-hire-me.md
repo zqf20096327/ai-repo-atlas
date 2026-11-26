@@ -1,6 +1,6 @@
 # alecswang/please-hire-me
 
-⭐ 46 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alecswang/please-hire-me) · 个人维护
+⭐ 47 · Python · MIT · 推送 2026-10-23 · [GitHub](https://github.com/alecswang/please-hire-me) · 个人维护
 
 **求职者的自动投递 agent：在真实 ATS 表单中代填并提交申请**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alecswang/please-hire-me 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 36 --> 47
-    line [37, 41, 42, 43, 45, 44, 45, 46]
+    title "alecswang/please-hire-me 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-14", "2026-11-16", "2026-11-19", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 36 --> 48
+    line [37, 41, 42, 43, 45, 44, 45, 46, 47]
 ```
 
-2026-10-23 37 → 2026-11-25 46（+9）
+2026-10-24 37 → 2026-11-26 47（+10）
 
 
 ---

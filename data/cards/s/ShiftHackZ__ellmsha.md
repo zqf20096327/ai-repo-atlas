@@ -1,6 +1,6 @@
 # ShiftHackZ/ellmsha
 
-⭐ 3 · JavaScript · AGPL-3.0 · 推送 2026-11-09 · [GitHub](https://github.com/ShiftHackZ/ellmsha) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给编码 agent 的本地优先工作台：项目记忆+多 agent+插件**
 
@@ -11,7 +11,7 @@ eLLMsha 是一个桌面优先的编码 agent 工作台（harness），把用户�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `dual` | AGPL-3.0 |
+| 许可风险 | `dual` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | local-ok | 支持本地模型 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # asmitsr/DoremanAI
 
-⭐ 3 · Kotlin · 推送 2026-11-11 · [GitHub](https://github.com/asmitsr/DoremanAI) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **Android 语音控制的个人助手，支持孟加拉语/英语**
 

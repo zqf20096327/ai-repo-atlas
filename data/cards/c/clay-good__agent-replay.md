@@ -1,6 +1,6 @@
 # clay-good/agent-replay
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/clay-good/agent-replay) · 个人维护
+⭐ 17 · TypeScript · MIT · 推送 2026-11-22 · [GitHub](https://github.com/clay-good/agent-replay) · 个人维护
 
 **本地 CLI 工具：AI agent 执行轨迹的录制、回放、diff 与评估**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "clay-good/agent-replay 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 14 --> 17
-    line [15, 16]
+    title "clay-good/agent-replay 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 17（+2）
 
 
 ---

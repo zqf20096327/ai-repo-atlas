@@ -46,12 +46,12 @@ AksharaCheck 在 Chromium 中以手机（390px）与桌面（1440px）两种宽�
 ```mermaid
 xychart-beta
     title "ashh-droid/AksharaCheck 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-02 3 → 2026-11-25 3（+0）
+2026-11-02 3 → 2026-11-26 3（+0）
 
 
 ---

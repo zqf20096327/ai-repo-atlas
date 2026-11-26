@@ -1,6 +1,6 @@
 # johannesulf/nautilus
 
-⭐ 119 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/johannesulf/nautilus) · [官网](https://nautilus-sampler.readthedocs.io) · 个人维护
+⭐ 120 · Python · MIT · 推送 2026-11-06 · [GitHub](https://github.com/johannesulf/nautilus) · [官网](https://nautilus-sampler.readthedocs.io) · 个人维护
 
 **神经网络加速的贝叶斯后验与证据估计 Python 库**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "johannesulf/nautilus 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 115 --> 120
-    line [116, 117, 116, 118, 119]
+    title "johannesulf/nautilus 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 115 --> 121
+    line [116, 117, 116, 118, 119, 120]
 ```
 
-2026-10-23 116 → 2026-11-25 119（+3）
+2026-10-24 116 → 2026-11-26 120（+4）
 
 
 ---

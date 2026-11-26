@@ -1,6 +1,6 @@
 # ognistik/ursus
 
-⭐ 18 · Swift · MIT · 推送 2026-08-05 · [GitHub](https://github.com/ognistik/ursus) · 个人维护
+⭐ 19 · Swift · MIT · 推送 2026-08-05 · [GitHub](https://github.com/ognistik/ursus) · 个人维护
 
 **macOS 本地 MCP 服务器与工具集，让 AI 应用读写 Bear 笔记**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ognistik/ursus 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 17 --> 20
-    line [19, 18, 18]
+    line [19, 18, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 18（-1）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

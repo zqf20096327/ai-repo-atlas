@@ -45,13 +45,13 @@ PromptKit 是一个 Go 库，提供多 provider 流式调用、带界压控制�
 
 ```mermaid
 xychart-beta
-    title "AltairaLabs/PromptKit 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 9 --> 13
-    line [10, 11, 12, 12]
+    title "AltairaLabs/PromptKit 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12, 12]
 ```
 
-2026-10-23 10 → 2026-11-25 12（+2）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

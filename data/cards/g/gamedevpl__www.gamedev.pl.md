@@ -1,6 +1,6 @@
 # gamedevpl/www.gamedev.pl
 
-⭐ 17 · TypeScript · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/gamedevpl/www.gamedev.pl) · [官网](https://www.gamedev.pl) · 组织维护
+⭐ 17 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/gamedevpl/www.gamedev.pl) · [官网](https://www.gamedev.pl) · 组织维护
 
 **AI agent 构建浏览器游戏并发布目录的开放平台**
 
@@ -46,12 +46,12 @@ gamedev.pl 的开源平台代码：用户写下几句话的游戏描述，平台
 ```mermaid
 xychart-beta
     title "gamedevpl/www.gamedev.pl 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-26"]
     y-axis "stars" 14 --> 18
     line [15, 16, 17, 17]
 ```
 
-2026-10-23 15 → 2026-11-25 17（+2）
+2026-10-24 15 → 2026-11-26 17（+2）
 
 
 ---

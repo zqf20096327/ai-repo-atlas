@@ -1,6 +1,6 @@
 # beehive-lab/jitllm
 
-⭐ 297 · Java · MIT · 推送 2026-11-23 · [GitHub](https://github.com/beehive-lab/jitllm) · [官网](https://beehive-lab.github.io/jitllm/) · 组织维护
+⭐ 304 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/beehive-lab/jitllm) · [官网](https://beehive-lab.github.io/jitllm/) · 组织维护
 
 **JVM 上的 GPU LLM 推理与 OpenAI 兼容服务引擎**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | Apache-2.0 |
 | 部署形态 | `None` |  |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "beehive-lab/jitllm 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 288 --> 298
-    line [289, 290, 291, 292, 290, 295, 296, 297, 297]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 288 --> 305
+    line [289, 290, 291, 292, 290, 295, 296, 297, 304]
 ```
 
-2026-10-23 289 → 2026-11-25 297（+8）
+2026-10-24 289 → 2026-11-26 304（+15）
 
 
 ---

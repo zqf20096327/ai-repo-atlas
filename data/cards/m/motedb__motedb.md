@@ -1,6 +1,6 @@
 # motedb/motedb
 
-⭐ 52 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/motedb/motedb) · [官网](https://motedb.github.io) · 组织维护 · 中文 README
+⭐ 52 · Rust · MIT · 推送 2026-11-24 · [GitHub](https://github.com/motedb/motedb) · [官网](https://motedb.github.io) · 组织维护 · 中文 README
 
 **面向具身智能与机器人的 AI 原生嵌入式多模态数据库**
 
@@ -48,12 +48,12 @@
 ```mermaid
 xychart-beta
     title "motedb/motedb 星数(近 7 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-26"]
     y-axis "stars" 48 --> 55
     line [49, 51, 52, 54, 53, 52, 52]
 ```
 
-2026-10-22 49 → 2026-11-25 52（+3）
+2026-10-23 49 → 2026-11-26 52（+3）
 
 
 ---

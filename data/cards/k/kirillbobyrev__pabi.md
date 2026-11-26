@@ -44,12 +44,12 @@ Pabi 是一个用 Rust 编写的国际象棋引擎，受 lc0 与 KataGo 等 Ches
 ```mermaid
 xychart-beta
     title "kirillbobyrev/pabi 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 11 --> 13
     line [12, 12]
 ```
 
-2026-10-23 12 → 2026-11-25 12（+0）
+2026-10-24 12 → 2026-11-26 12（+0）
 
 
 ---

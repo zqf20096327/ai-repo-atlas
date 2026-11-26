@@ -1,6 +1,6 @@
 # firebolt-db/mcp-server
 
-⭐ 15 · Go · Apache-2.0 · 推送 2026-11-10 · [GitHub](https://github.com/firebolt-db/mcp-server) · [官网](https://www.firebolt.io/) · 组织维护
+⭐ 15 · Go · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/firebolt-db/mcp-server) · [官网](https://www.firebolt.io/) · 组织维护
 
 **把 LLM 连接到 Firebolt 数据仓库的 MCP 服务器**
 
@@ -45,12 +45,12 @@ Firebolt 官方维护的 Model Context Protocol 服务器，用 Go 编写，使 
 ```mermaid
 xychart-beta
     title "firebolt-db/mcp-server 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 14 --> 16
     line [15, 15]
 ```
 
-2026-10-23 15 → 2026-11-25 15（+0）
+2026-10-24 15 → 2026-11-26 15（+0）
 
 
 ---

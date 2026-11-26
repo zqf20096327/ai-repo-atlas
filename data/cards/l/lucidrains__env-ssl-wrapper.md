@@ -1,6 +1,6 @@
 # lucidrains/env-ssl-wrapper
 
-⭐ 13 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/lucidrains/env-ssl-wrapper) · 个人维护
+⭐ 13 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/lucidrains/env-ssl-wrapper) · 个人维护
 
 **为强化学习仿真环境提供 torch 原生统一封装的研究库**
 
@@ -46,12 +46,12 @@ Python 库，将 mujoco warp、isaac sim、pybullet、gymnasium、dm_control、r
 ```mermaid
 xychart-beta
     title "lucidrains/env-ssl-wrapper 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 11 --> 14
     line [12, 13, 13]
 ```
 
-2026-10-23 12 → 2026-11-25 13（+1）
+2026-10-24 12 → 2026-11-26 13（+1）
 
 
 ---

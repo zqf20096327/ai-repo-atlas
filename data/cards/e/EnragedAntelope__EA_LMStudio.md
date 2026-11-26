@@ -1,6 +1,6 @@
 # EnragedAntelope/EA_LMStudio
 
-⭐ 26 · Python · MIT · 推送 2026-11-14 · [GitHub](https://github.com/EnragedAntelope/EA_LMStudio) · 个人维护
+⭐ 26 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/EnragedAntelope/EA_LMStudio) · 个人维护
 
 **ComfyUI 节点：经 LM Studio 调用本地 LLM/VLM 生成提示词与图像描述**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "EnragedAntelope/EA_LMStudio 星数(近 3 点)"
-    x-axis ["2026-11-14", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-19", "2026-11-26"]
     y-axis "stars" 24 --> 27
     line [25, 26, 26]
 ```
 
-2026-11-14 25 → 2026-11-25 26（+1）
+2026-11-14 25 → 2026-11-26 26（+1）
 
 
 ---

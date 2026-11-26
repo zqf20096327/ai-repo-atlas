@@ -1,6 +1,6 @@
 # Shiro836/forsen_ai_api
 
-⭐ 11 · Go · MIT · 推送 2026-11-13 · [GitHub](https://github.com/Shiro836/forsen_ai_api) · [官网](https://forsen.fun) · 个人维护
+⭐ 11 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/Shiro836/forsen_ai_api) · [官网](https://forsen.fun) · 个人维护
 
 **为 Twitch 主播提供观众点播的 AI 娱乐互动服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Shiro836/forsen_ai_api 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 10 --> 12
     line [11, 11]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 11（+0）
 
 
 ---

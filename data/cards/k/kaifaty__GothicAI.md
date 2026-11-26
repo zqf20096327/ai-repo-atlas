@@ -1,6 +1,6 @@
 # kaifaty/GothicAI
 
-⭐ 17 · C++ · MIT · 推送 2026-11-23 · [GitHub](https://github.com/kaifaty/GothicAI) · [官网](https://kaifaty.github.io/GothicAI/) · 个人维护
+⭐ 17 · C++ · MIT · 推送 2026-11-25 · [GitHub](https://github.com/kaifaty/GothicAI) · [官网](https://kaifaty.github.io/GothicAI/) · 个人维护
 
 **给哥特2重制版加 AI 语音 NPC 对话的开源项目**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "kaifaty/GothicAI 星数(近 8 点)"
-    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-25"]
+    title "kaifaty/GothicAI 星数(近 9 点)"
+    x-axis ["2026-10-30", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-18", "2026-11-21", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 18
-    line [3, 11, 12, 13, 14, 15, 16, 17]
+    line [3, 11, 12, 13, 14, 15, 16, 17, 17]
 ```
 
-2026-10-30 3 → 2026-11-25 17（+14）
+2026-10-30 3 → 2026-11-26 17（+14）
 
 
 ---

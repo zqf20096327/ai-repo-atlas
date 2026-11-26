@@ -1,6 +1,6 @@
 # iamzifei/red-publisher-skill
 
-⭐ 11 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/iamzifei/red-publisher-skill) · 个人维护 · 中文 README
+⭐ 12 · Python · MIT · 推送 2026-08-12 · [GitHub](https://github.com/iamzifei/red-publisher-skill) · 个人维护 · 中文 README
 
 **让 Claude Code 一键发布图片笔记到小红书的技能（CDP 连接浏览器）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "iamzifei/red-publisher-skill 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-10-23 11 → 2026-11-25 11（+0）
+2026-10-24 11 → 2026-11-26 12（+1）
 
 
 ---

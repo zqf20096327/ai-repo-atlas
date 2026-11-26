@@ -1,6 +1,6 @@
 # SASUKE40/Lexa
 
-⭐ 10 · Swift · MIT · 推送 2026-10-09 · [GitHub](https://github.com/SASUKE40/Lexa) · [官网](https://edward40.com/Lexa/) · 个人维护
+⭐ 10 · Swift · MIT · 推送 2026-11-25 · [GitHub](https://github.com/SASUKE40/Lexa) · [官网](https://edward40.com/Lexa/) · 个人维护
 
 **macOS 菜单栏文本润色工具：快捷键调用 LLM 校对/改写/翻译选中文本**
 
@@ -47,12 +47,12 @@ macOS 菜单栏应用，仿 Grammarly 的工作方式：在任意应用中选中
 ```mermaid
 xychart-beta
     title "SASUKE40/Lexa 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 8 --> 11
     line [9, 10, 10]
 ```
 
-2026-10-23 9 → 2026-11-25 10（+1）
+2026-10-24 9 → 2026-11-26 10（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # Saxo0213/line-agent-assistant
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Saxo0213/line-agent-assistant) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/Saxo0213/line-agent-assistant) · 个人维护 · 中文 README
 
 **让 Claude/Codex 通过 LINE 接收指令并回复的 Windows 桌面助手**
 
@@ -40,6 +40,18 @@
 > L7: **Put Claude or Codex to work on your LINE chats.** A Windows desktop app that lets an AI agent take instructions ov
 > L13:  Agent account: A dedicated LINE account that logs in inside the app by QR code (Windows version by default, Chrome
 > L54: 3. **Prepare the AI (required):** go to **Settings → Assistant**, install and log in to the official Claude or Code
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Saxo0213/line-agent-assistant 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

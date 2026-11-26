@@ -1,6 +1,6 @@
 # TianMingKanae/engineering-multi-ai-skills
 
-⭐ 6 · Python · MIT · 推送 2026-10-26 · [GitHub](https://github.com/TianMingKanae/engineering-multi-ai-skills) · 个人维护
+⭐ 6 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/TianMingKanae/engineering-multi-ai-skills) · 个人维护
 
 **多 AI agent 协作技能库与文件式工作流模板**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TianMingKanae/engineering-multi-ai-skills 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 4 --> 7
-    line [5, 6, 6]
+    title "TianMingKanae/engineering-multi-ai-skills 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 5 --> 7
+    line [6, 6]
 ```
 
-2026-10-23 5 → 2026-11-25 6（+1）
+2026-10-24 6 → 2026-11-26 6（+0）
 
 
 ---

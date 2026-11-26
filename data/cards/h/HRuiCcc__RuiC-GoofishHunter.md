@@ -1,6 +1,6 @@
 # HRuiCcc/RuiC-GoofishHunter
 
-⭐ 16 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/HRuiCcc/RuiC-GoofishHunter) · 个人维护 · 中文 README
+⭐ 19 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/HRuiCcc/RuiC-GoofishHunter) · 个人维护 · 中文 README
 
 **给闲鱼买家做可解释捡漏打分与监控的本地工具**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "HRuiCcc/RuiC-GoofishHunter 星数(近 7 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 3 --> 17
-    line [4, 5, 6, 10, 14, 15, 16]
+    title "HRuiCcc/RuiC-GoofishHunter 星数(近 8 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 20
+    line [4, 5, 6, 10, 14, 15, 16, 19]
 ```
 
-2026-11-18 4 → 2026-11-25 16（+12）
+2026-11-18 4 → 2026-11-26 19（+15）
 
 
 ---

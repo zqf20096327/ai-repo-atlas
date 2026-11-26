@@ -1,6 +1,6 @@
 # google/bigframes
 
-⭐ 299 · Python · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/google/bigframes) · [官网](https://dataframes.bigquery.dev/) · 组织维护
+⭐ 299 · Python · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/google/bigframes) · [官网](https://dataframes.bigquery.dev/) · 组织维护
 
 **给数据分析师/科学家：用 pandas 风格 API 在 BigQuery 上做大规模分析与 ML**
 
@@ -47,12 +47,12 @@ Google 开源的 Python DataFrame 库，将 pandas 风格代码转译为 SQL 在
 ```mermaid
 xychart-beta
     title "google/bigframes 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 296 --> 300
     line [297, 298, 299, 299]
 ```
 
-2026-10-23 297 → 2026-11-25 299（+2）
+2026-10-24 297 → 2026-11-26 299（+2）
 
 
 ---

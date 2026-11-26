@@ -1,6 +1,6 @@
 # bopalvelut-prog/autoresearch
 
-⭐ 20 · Python · 推送 2026-03-26 · [GitHub](https://github.com/bopalvelut-prog/autoresearch) · 组织维护
+⭐ 19 · Python · 推送 2026-03-26 · [GitHub](https://github.com/bopalvelut-prog/autoresearch) · 组织维护
 
 **CPU 上运行的自主 AI 研究循环：本地 LLM 自动调参训练**
 
@@ -46,12 +46,12 @@ karpathy/autoresearch 的分支，面向无 GPU 环境：由小型本地 LLM（Q
 ```mermaid
 xychart-beta
     title "bopalvelut-prog/autoresearch 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-14", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-14", "2026-11-16", "2026-11-26"]
     y-axis "stars" 18 --> 21
-    line [20, 19, 20, 20]
+    line [20, 19, 20, 19]
 ```
 
-2026-10-23 20 → 2026-11-25 20（+0）
+2026-10-24 20 → 2026-11-26 19（-1）
 
 
 ---

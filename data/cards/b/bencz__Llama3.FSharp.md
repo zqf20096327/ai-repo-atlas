@@ -47,12 +47,12 @@ F# 编写的 Llama/Qwen 推理运行时，起源于 likejazz/llama3.cuda 的移�
 ```mermaid
 xychart-beta
     title "bencz/Llama3.FSharp 星数(近 2 点)"
-    x-axis ["2026-11-22", "2026-11-25"]
+    x-axis ["2026-11-22", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-22 3 → 2026-11-25 3（+0）
+2026-11-22 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # OMD-123/browser-verified-skill
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/OMD-123/browser-verified-skill) · [官网](https://github.com/OMD-123/browser-verified-skill#readme) · 个人维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/OMD-123/browser-verified-skill) · [官网](https://github.com/OMD-123/browser-verified-skill#readme) · 个人维护
 
 **给 AI agent 的带审计证据的浏览器自动化技能**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "OMD-123/browser-verified-skill 星数(近 3 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 11 --> 14
-    line [12, 13, 13]
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-26"]
+    y-axis "stars" 11 --> 16
+    line [12, 13, 15]
 ```
 
-2026-11-10 12 → 2026-11-25 13（+1）
+2026-11-10 12 → 2026-11-26 15（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # yeuxuan/openclaw-docs
 
-⭐ 751 · JavaScript · 推送 2026-10-08 · [GitHub](https://github.com/yeuxuan/openclaw-docs) · [官网](https://openclaw-docs.dx3n.cn) · 个人维护 · 中文 README
+⭐ 750 · JavaScript · 推送 2026-10-08 · [GitHub](https://github.com/yeuxuan/openclaw-docs) · [官网](https://openclaw-docs.dx3n.cn) · 个人维护 · 中文 README
 
 **OpenClaw 中文文档站：767 篇安装与源码剖析教程**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "yeuxuan/openclaw-docs 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
     y-axis "stars" 749 --> 753
-    line [750, 751, 752, 750, 751, 752, 751, 751]
+    line [750, 751, 752, 750, 751, 752, 751, 750]
 ```
 
-2026-10-23 750 → 2026-11-25 751（+1）
+2026-10-24 750 → 2026-11-26 750（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # Geoalert/mapflow-qgis
 
-⭐ 35 · Python · 推送 2026-11-23 · [GitHub](https://github.com/Geoalert/mapflow-qgis) · [官网](https://docs.mapflow.ai/api/qgis_mapflow.html) · 组织维护
+⭐ 35 · Python · 推送 2026-11-24 · [GitHub](https://github.com/Geoalert/mapflow-qgis) · [官网](https://docs.mapflow.ai/api/qgis_mapflow.html) · 组织维护
 
 **QGIS 插件：在 QGIS 内调用 Mapflow 从卫星影像提取地物**
 
@@ -46,12 +46,12 @@ Geoalert 官方的 QGIS 插件，作为 Mapflow AI 服务的客户端：用户�
 ```mermaid
 xychart-beta
     title "Geoalert/mapflow-qgis 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 34 --> 36
     line [35, 35]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 35（+0）
 
 
 ---

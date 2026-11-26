@@ -1,6 +1,6 @@
 # zou-group/collaborative-intelligence
 
-⭐ 28 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zou-group/collaborative-intelligence) · [官网](https://zou-group.github.io/collaborative-intelligence/) · 组织维护
+⭐ 29 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/zou-group/collaborative-intelligence) · [官网](https://zou-group.github.io/collaborative-intelligence/) · 组织维护
 
 **评测 AI agent 作为队友表现的基准（240 场景 8 维度）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "zou-group/collaborative-intelligence 星数(近 5 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 24 --> 29
-    line [25, 26, 27, 28, 28]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-13", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 24 --> 30
+    line [25, 26, 27, 28, 29]
 ```
 
-2026-11-08 25 → 2026-11-25 28（+3）
+2026-11-08 25 → 2026-11-26 29（+4）
 
 
 ---

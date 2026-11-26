@@ -1,6 +1,6 @@
 # beiyuii/personal-api-skill
 
-⭐ 81 · Shell · MIT · 推送 2026-05-15 · [GitHub](https://github.com/beiyuii/personal-api-skill) · [官网](https://github.com/NousResearch/hermes-agent.git) · 个人维护 · 中文 README
+⭐ 82 · Shell · MIT · 推送 2026-05-15 · [GitHub](https://github.com/beiyuii/personal-api-skill) · [官网](https://github.com/NousResearch/hermes-agent.git) · 个人维护 · 中文 README
 
 **把 Obsidian 仓库变成 AI 代理可读的个人身份层**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "beiyuii/personal-api-skill 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 80 --> 82
-    line [81, 81]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 80 --> 83
+    line [81, 82]
 ```
 
-2026-10-23 81 → 2026-11-25 81（+0）
+2026-10-24 81 → 2026-11-26 82（+1）
 
 
 ---

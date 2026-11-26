@@ -1,6 +1,6 @@
 # ScaleBrick/founder-marketing-skills
 
-⭐ 93 · MIT · 推送 2026-05-01 · [GitHub](https://github.com/ScaleBrick/founder-marketing-skills) · [官网](https://scalebrick.com) · 组织维护
+⭐ 94 · MIT · 推送 2026-05-01 · [GitHub](https://github.com/ScaleBrick/founder-marketing-skills) · [官网](https://scalebrick.com) · 组织维护
 
 **给创始人自做营销的 4 个 agent 技能：关键词/增长策略/竞品分析**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ScaleBrick/founder-marketing-skills 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 85 --> 94
-    line [86, 87, 88, 86, 91, 93, 93]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 85 --> 95
+    line [86, 87, 88, 86, 91, 93, 94]
 ```
 
-2026-10-23 86 → 2026-11-25 93（+7）
+2026-10-24 86 → 2026-11-26 94（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # ywleeo/mark2
 
-⭐ 71 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/ywleeo/mark2) · [官网](https://ywleeo.github.io/mark2/) · 个人维护 · 中文 README
+⭐ 72 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/ywleeo/mark2) · [官网](https://ywleeo.github.io/mark2/) · 个人维护 · 中文 README
 
 **轻量离线 Markdown 写作桌面应用，内置 AI 续写与润色**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ywleeo/mark2 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 65 --> 72
-    line [66, 67, 68, 69, 67, 69, 70, 71, 71]
+    title "ywleeo/mark2 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 66 --> 73
+    line [67, 68, 69, 67, 69, 70, 71, 72]
 ```
 
-2026-10-23 66 → 2026-11-25 71（+5）
+2026-10-24 67 → 2026-11-26 72（+5）
 
 
 ---

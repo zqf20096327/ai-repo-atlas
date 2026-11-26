@@ -1,6 +1,6 @@
 # 159159pzy-crypto/comfyui-random-image-generation
 
-⭐ 16 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/159159pzy-crypto/comfyui-random-image-generation) · 个人维护 · 中文 README
+⭐ 17 · Python · MIT · 推送 2026-11-15 · [GitHub](https://github.com/159159pzy-crypto/comfyui-random-image-generation) · 个人维护 · 中文 README
 
 **本地 AI 生图工作台：ComfyUI 上做 Anima/Krea 2 随机批量与单图创作**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "159159pzy-crypto/comfyui-random-image-generation 星数(近 7 点)"
-    x-axis ["2026-10-21", "2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-25"]
+    title "159159pzy-crypto/comfyui-random-image-generation 星数(近 6 点)"
+    x-axis ["2026-10-22", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-26"]
     y-axis "stars" 14 --> 18
-    line [15, 16, 17, 16, 15, 16, 16]
+    line [16, 17, 16, 15, 16, 17]
 ```
 
-2026-10-21 15 → 2026-11-25 16（+1）
+2026-10-22 16 → 2026-11-26 17（+1）
 
 
 ---

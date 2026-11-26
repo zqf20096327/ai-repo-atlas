@@ -1,6 +1,6 @@
 # risense-ai/respire-magpie
 
-⭐ 5 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/risense-ai/respire-magpie) · 组织维护 · 中文 README
+⭐ 6 · JavaScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/risense-ai/respire-magpie) · 组织维护 · 中文 README
 
 **给 AI Agent 装上持续记忆的 Magpie 插件**
 
@@ -46,12 +46,12 @@ respire-memory 是 Magpie 网关的记忆插件：每轮对话先召回并读取
 ```mermaid
 xychart-beta
     title "risense-ai/respire-magpie 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
-    y-axis "stars" 4 --> 6
-    line [5, 5]
+    x-axis ["2026-11-08", "2026-11-26"]
+    y-axis "stars" 4 --> 7
+    line [5, 6]
 ```
 
-2026-11-08 5 → 2026-11-25 5（+0）
+2026-11-08 5 → 2026-11-26 6（+1）
 
 
 ---

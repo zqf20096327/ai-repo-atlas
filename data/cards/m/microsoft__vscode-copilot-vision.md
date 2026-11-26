@@ -46,12 +46,12 @@ Microsoft 维护的 VS Code 预览扩展（Copilot Vision Preview），在聊天
 ```mermaid
 xychart-beta
     title "microsoft/vscode-copilot-vision 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-26"]
     y-axis "stars" 77 --> 79
     line [78, 78]
 ```
 
-2026-10-22 78 → 2026-11-25 78（+0）
+2026-10-23 78 → 2026-11-26 78（+0）
 
 
 ---

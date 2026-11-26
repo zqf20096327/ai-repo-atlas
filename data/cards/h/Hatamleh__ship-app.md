@@ -1,6 +1,6 @@
 # Hatamleh/ship-app
 
-⭐ 11 · TypeScript · 推送 2026-08-07 · [GitHub](https://github.com/Hatamleh/ship-app) · [官网](https://qacart.com) · 个人维护
+⭐ 12 · TypeScript · 推送 2026-08-07 · [GitHub](https://github.com/Hatamleh/ship-app) · [官网](https://qacart.com) · 个人维护
 
 **教学软件测试用的发货管理应用，内置 AI 助手**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Hatamleh/ship-app 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
-    y-axis "stars" 10 --> 12
-    line [11, 11]
+    x-axis ["2026-11-10", "2026-11-26"]
+    y-axis "stars" 10 --> 13
+    line [11, 12]
 ```
 
-2026-11-10 11 → 2026-11-25 11（+0）
+2026-11-10 11 → 2026-11-26 12（+1）
 
 
 ---

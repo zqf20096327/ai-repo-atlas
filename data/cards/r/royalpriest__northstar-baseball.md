@@ -1,6 +1,6 @@
 # royalpriest/northstar-baseball
 
-⭐ 55 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/royalpriest/northstar-baseball) · [官网](https://northstar-baseball.vercel.app) · 个人维护
+⭐ 54 · Python · MIT · 推送 2026-11-22 · [GitHub](https://github.com/royalpriest/northstar-baseball) · [官网](https://northstar-baseball.vercel.app) · 个人维护
 
 **为棒球爱好者提供 2025 MLB 打者数据分析诊断**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "royalpriest/northstar-baseball 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    title "royalpriest/northstar-baseball 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 20 --> 58
-    line [23, 55]
+    line [23, 55, 54]
 ```
 
-2026-11-23 23 → 2026-11-25 55（+32）
+2026-11-23 23 → 2026-11-26 54（+31）
 
 
 ---

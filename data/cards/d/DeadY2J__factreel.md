@@ -1,6 +1,6 @@
 # DeadY2J/factreel
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/DeadY2J/factreel) · [官网](https://github.com/DeadY2J/factreel#readme) · 个人维护
+⭐ 3 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/DeadY2J/factreel) · [官网](https://github.com/DeadY2J/factreel#readme) · 个人维护
 
 **从已核实事实自动生成带字幕的无脸短视频**
 
@@ -46,12 +46,12 @@ FactReel 是一个 Python 命令行工具，将用户提供的事实清单（可
 ```mermaid
 xychart-beta
     title "DeadY2J/factreel 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-08 3 → 2026-11-25 3（+0）
+2026-11-08 3 → 2026-11-26 3（+0）
 
 
 ---

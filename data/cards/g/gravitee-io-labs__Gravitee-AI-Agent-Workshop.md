@@ -1,6 +1,6 @@
 # gravitee-io-labs/Gravitee-AI-Agent-Workshop
 
-⭐ 17 · JavaScript · 推送 2026-11-14 · [GitHub](https://github.com/gravitee-io-labs/Gravitee-AI-Agent-Workshop) · [官网](https://playground.gravitee.io) · 组织维护
+⭐ 16 · JavaScript · 推送 2026-11-14 · [GitHub](https://github.com/gravitee-io-labs/Gravitee-AI-Agent-Workshop) · [官网](https://playground.gravitee.io) · 组织维护
 
 **Gravitee AI 管理平台实操教程：暴露、安全与治理 AI Agent/LLM/MCP**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "gravitee-io-labs/Gravitee-AI-Agent-Workshop 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-12", "2026-11-26"]
     y-axis "stars" 15 --> 18
-    line [16, 17, 17]
+    line [16, 17, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 17（+1）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

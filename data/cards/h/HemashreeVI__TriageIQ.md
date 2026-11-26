@@ -1,6 +1,6 @@
 # HemashreeVI/TriageIQ
 
-⭐ 4 · HTML · 推送 2026-11-17 · [GitHub](https://github.com/HemashreeVI/TriageIQ) · 个人维护
+⭐ 4 · HTML · 推送 2026-11-25 · [GitHub](https://github.com/HemashreeVI/TriageIQ) · 个人维护
 
 **面向客服团队的 LLM 工单分类与回复草拟系统**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "HemashreeVI/TriageIQ 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-08 4 → 2026-11-25 4（+0）
+2026-11-08 4 → 2026-11-26 4（+0）
 
 
 ---

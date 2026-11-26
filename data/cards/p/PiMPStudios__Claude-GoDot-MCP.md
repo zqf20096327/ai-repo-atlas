@@ -1,6 +1,6 @@
 # PiMPStudios/Claude-GoDot-MCP
 
-⭐ 15 · GDScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/PiMPStudios/Claude-GoDot-MCP) · 个人维护
+⭐ 16 · GDScript · MIT · 推送 2026-07-08 · [GitHub](https://github.com/PiMPStudios/Claude-GoDot-MCP) · 个人维护
 
 **让 Claude 直接控制 Godot 编辑器的 MCP 服务器（170 工具）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PiMPStudios/Claude-GoDot-MCP 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 13 --> 16
-    line [14, 15, 15]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 13 --> 17
+    line [14, 15, 16]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 16（+2）
 
 
 ---

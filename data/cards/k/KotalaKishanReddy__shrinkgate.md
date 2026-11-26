@@ -1,6 +1,6 @@
 # KotalaKishanReddy/shrinkgate
 
-⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/KotalaKishanReddy/shrinkgate) · [官网](https://crates.io/crates/shrinkgate) · 个人维护
+⭐ 5 · Rust · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/KotalaKishanReddy/shrinkgate) · [官网](https://crates.io/crates/shrinkgate) · 个人维护
 
 **为 coding agent 本地缩减重复工具输出的 Rust 网关**
 
@@ -46,12 +46,12 @@ ShrinkGate 是运行在本地回环地址的 Rust 网关，代理 coding agent �
 ```mermaid
 xychart-beta
     title "KotalaKishanReddy/shrinkgate 星数(近 3 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-26"]
     y-axis "stars" 2 --> 6
     line [3, 5, 5]
 ```
 
-2026-11-18 3 → 2026-11-25 5（+2）
+2026-11-18 3 → 2026-11-26 5（+2）
 
 
 ---

@@ -1,6 +1,6 @@
 # microsoft/PowerPlatform-DataverseClient-Python
 
-⭐ 63 · Python · MIT · 推送 2026-11-21 · [GitHub](https://github.com/microsoft/PowerPlatform-DataverseClient-Python) · 组织维护
+⭐ 63 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/PowerPlatform-DataverseClient-Python) · 组织维护
 
 **微软 Dataverse 官方 Python SDK：以 Python 访问与操作业务数据**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/PowerPlatform-DataverseClient-Python 星数(近 2 点)"
-    x-axis ["2026-10-22", "2026-11-25"]
+    x-axis ["2026-10-23", "2026-11-26"]
     y-axis "stars" 62 --> 64
     line [63, 63]
 ```
 
-2026-10-22 63 → 2026-11-25 63（+0）
+2026-10-23 63 → 2026-11-26 63（+0）
 
 
 ---

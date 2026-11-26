@@ -1,6 +1,6 @@
 # adops-tool/awesome-lead-generation
 
-⭐ 13 · Python · CC0-1.0 · 推送 2026-11-20 · [GitHub](https://github.com/adops-tool/awesome-lead-generation) · [官网](https://adops-tool.github.io/awesome-lead-generation/) · 个人维护
+⭐ 15 · Python · CC0-1.0 · 推送 2026-11-25 · [GitHub](https://github.com/adops-tool/awesome-lead-generation) · [官网](https://adops-tool.github.io/awesome-lead-generation/) · 个人维护
 
 **面向销售增长的 AI 线索生成工具策展目录**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "adops-tool/awesome-lead-generation 星数(近 3 点)"
-    x-axis ["2026-11-15", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 9 --> 14
-    line [10, 12, 13]
+    title "adops-tool/awesome-lead-generation 星数(近 4 点)"
+    x-axis ["2026-11-15", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 16
+    line [10, 12, 13, 15]
 ```
 
-2026-11-15 10 → 2026-11-25 13（+3）
+2026-11-15 10 → 2026-11-26 15（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # OpenEuroLLM/ComplexKDA
 
-⭐ 10 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/OpenEuroLLM/ComplexKDA) · [官网](https://arxiv.org/abs/2609.24797) · 组织维护
+⭐ 11 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/OpenEuroLLM/ComplexKDA) · [官网](https://arxiv.org/abs/2609.24797) · 组织维护
 
 **Complex Kimi Delta Attention 论文的可复现实验工件库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "OpenEuroLLM/ComplexKDA 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 8 --> 11
-    line [9, 10, 9, 10, 10]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 8 --> 12
+    line [9, 10, 9, 10, 11]
 ```
 
-2026-10-23 9 → 2026-11-25 10（+1）
+2026-10-24 9 → 2026-11-26 11（+2）
 
 
 ---

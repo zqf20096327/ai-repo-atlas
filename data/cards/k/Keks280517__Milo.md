@@ -42,6 +42,18 @@
 > L16: - **AI chat with tools.** Gemini (with an optional, very fast Groq model as a partner and fallback) can open and ar
 > L17: - **Local AI, if you prefer.** Don't want to use Google? Milo works with Ollama or LM Studio and detects a running 
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Keks280517/Milo 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `ec2c6fdb91a4` · [字段定义](../../DATASET.md)*

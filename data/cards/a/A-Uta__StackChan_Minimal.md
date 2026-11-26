@@ -1,6 +1,6 @@
 # A-Uta/StackChan_Minimal
 
-⭐ 26 · C++ · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/A-Uta/StackChan_Minimal) · 个人维护
+⭐ 27 · C++ · Apache-2.0 · 推送 2026-06-15 · [GitHub](https://github.com/A-Uta/StackChan_Minimal) · 个人维护
 
 **M5Stack AtomS3R 小型 AI 陪伴机器人固件，接本地 STT/LLM/TTS**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "A-Uta/StackChan_Minimal 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 23 --> 27
-    line [24, 26, 26]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 23 --> 28
+    line [24, 26, 27]
 ```
 
-2026-10-23 24 → 2026-11-25 26（+2）
+2026-10-24 24 → 2026-11-26 27（+3）
 
 
 ---

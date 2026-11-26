@@ -1,6 +1,6 @@
 # Acelogic/Retrieval-based-Voice-Conversion-MLX
 
-⭐ 30 · Python · 推送 2026-03-05 · [GitHub](https://github.com/Acelogic/Retrieval-based-Voice-Conversion-MLX) · 个人维护
+⭐ 32 · Python · 推送 2026-03-05 · [GitHub](https://github.com/Acelogic/Retrieval-based-Voice-Conversion-MLX) · 个人维护
 
 **Apple Silicon 上的 RVC 语音转换 MLX 实现，含 Swift 原生版**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Acelogic/Retrieval-based-Voice-Conversion-MLX 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 28 --> 31
-    line [30, 29, 30, 30]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 28 --> 33
+    line [30, 29, 30, 32]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 32（+2）
 
 
 ---

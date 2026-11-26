@@ -1,6 +1,6 @@
 # ItBayMax/deepseek-harness-atlas
 
-⭐ 16 · JavaScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/ItBayMax/deepseek-harness-atlas) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ItBayMax/deepseek-harness-atlas) · 个人维护 · 中文 README
 
 **deepseek-harness 仓库的交互式架构学习地图与文档库站点**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "ItBayMax/deepseek-harness-atlas 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 14 --> 17
-    line [15, 16]
+    title "ItBayMax/deepseek-harness-atlas 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [15, 16, 17]
 ```
 
-2026-10-23 15 → 2026-11-25 16（+1）
+2026-10-24 15 → 2026-11-26 17（+2）
 
 
 ---

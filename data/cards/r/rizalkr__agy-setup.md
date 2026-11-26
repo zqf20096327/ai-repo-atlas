@@ -1,6 +1,6 @@
 # rizalkr/agy-setup
 
-⭐ 13 · JavaScript · 推送 2026-11-23 · [GitHub](https://github.com/rizalkr/agy-setup) · 个人维护
+⭐ 13 · JavaScript · 推送 2026-11-25 · [GitHub](https://github.com/rizalkr/agy-setup) · 个人维护
 
 **为 Google Antigravity CLI/IDE 提供节省 token 的配置方案**
 
@@ -39,6 +39,18 @@
 
 > L3: A portable, token-disciplined configuration for **Google Antigravity (CLI, App, and IDE)** across **Windows, macOS, 
 > L20: 1. **Orchestrator Mode (Plan-Execute)**:
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "rizalkr/agy-setup 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 12 --> 14
+    line [13, 13]
+```
+
+2026-11-25 13 → 2026-11-26 13（+0）
 
 
 ---

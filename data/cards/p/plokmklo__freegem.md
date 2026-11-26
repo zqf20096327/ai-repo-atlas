@@ -1,6 +1,6 @@
 # plokmklo/freegem
 
-⭐ 3 · Python · NOASSERTION · 推送 2026-11-22 · [GitHub](https://github.com/plokmklo/freegem) · [官网](https://github.com/plokmklo/freegem) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地桥接 Gemini Web 会话，暴露 OpenAI 兼容 API、Google 原生 API 与 MCP 工具**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `none` | NOASSERTION |
+| 许可风险 | `none` | — |
 | 部署形态 | `self-host` | docker 或自建部署 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

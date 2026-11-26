@@ -1,6 +1,6 @@
 # ReeceHarding/buffett-letters
 
-⭐ 14 · Python · 推送 2026-03-21 · [GitHub](https://github.com/ReeceHarding/buffett-letters) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **巴菲特致股东信全集（1977–2024）的 Markdown 格式档案**
 

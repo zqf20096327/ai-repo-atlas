@@ -1,6 +1,6 @@
 # TryllEngine/tryll-unreal-plugin
 
-⭐ 10 · C++ · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/TryllEngine/tryll-unreal-plugin) · [官网](https://www.tryllengine.com) · 组织维护
+⭐ 11 · C++ · NOASSERTION · 推送 2026-11-10 · [GitHub](https://github.com/TryllEngine/tryll-unreal-plugin) · [官网](https://www.tryllengine.com) · 组织维护
 
 **UE5 插件：在玩家本机运行 LLM 与语音模型驱动 AI NPC**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "TryllEngine/tryll-unreal-plugin 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 7 --> 11
-    line [8, 10, 10]
+    x-axis ["2026-11-11", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 7 --> 12
+    line [8, 10, 11]
 ```
 
-2026-11-11 8 → 2026-11-25 10（+2）
+2026-11-11 8 → 2026-11-26 11（+3）
 
 
 ---

@@ -1,6 +1,6 @@
 # yz-ai/yz-ai.github.io
 
-⭐ 61 · JavaScript · 推送 2026-06-23 · [GitHub](https://github.com/yz-ai/yz-ai.github.io) · [官网](https://yz-ai.github.io/) · 组织维护
+⭐ 60 · JavaScript · 推送 2026-06-23 · [GitHub](https://github.com/yz-ai/yz-ai.github.io) · [官网](https://yz-ai.github.io/) · 组织维护
 
 **土耳其语 AI 学习平台：深度学习等领域的项目、论文与教程**
 
@@ -43,12 +43,12 @@
 ```mermaid
 xychart-beta
     title "yz-ai/yz-ai.github.io 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 60 --> 62
-    line [61, 61]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 59 --> 62
+    line [61, 60]
 ```
 
-2026-10-23 61 → 2026-11-25 61（+0）
+2026-10-24 61 → 2026-11-26 60（-1）
 
 
 ---

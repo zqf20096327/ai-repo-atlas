@@ -1,6 +1,6 @@
 # DevExpress/agent-skills
 
-⭐ 69 · C# · MIT · 推送 2026-11-11 · [GitHub](https://github.com/DevExpress/agent-skills) · [官网](https://www.devexpress.com) · 组织维护
+⭐ 69 · C# · MIT · 推送 2026-11-24 · [GitHub](https://github.com/DevExpress/agent-skills) · [官网](https://www.devexpress.com) · 组织维护
 
 **DevExpress 产品知识的 AI 编码助手技能包，助其生成准确的 DevExpress 代码**
 
@@ -45,12 +45,12 @@ DevExpress 官方维护的 AI agent 技能仓库，面向 GitHub Copilot、Claud
 ```mermaid
 xychart-beta
     title "DevExpress/agent-skills 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-21", "2026-11-26"]
     y-axis "stars" 65 --> 71
     line [66, 67, 66, 67, 70, 69, 69]
 ```
 
-2026-10-23 66 → 2026-11-25 69（+3）
+2026-10-24 66 → 2026-11-26 69（+3）
 
 
 ---

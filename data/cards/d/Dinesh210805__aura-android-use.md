@@ -1,6 +1,6 @@
 # Dinesh210805/aura-android-use
 
-⭐ 27 · Kotlin · AGPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/Dinesh210805/aura-android-use) · [官网](https://aura-android-use.vercel.app) · 个人维护
+⭐ 28 · Kotlin · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/Dinesh210805/aura-android-use) · [官网](https://aura-android-use.vercel.app) · 个人维护
 
 **让 AI agent 直接操控 Android 手机的端侧助手与 MCP 服务器**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "Dinesh210805/aura-android-use 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 7 --> 28
-    line [8, 9, 8, 21, 24, 25, 26, 27, 27]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 6 --> 30
+    line [8, 9, 8, 21, 24, 25, 26, 27, 28]
 ```
 
-2026-10-23 8 → 2026-11-25 27（+19）
+2026-10-24 8 → 2026-11-26 28（+20）
 
 
 ---

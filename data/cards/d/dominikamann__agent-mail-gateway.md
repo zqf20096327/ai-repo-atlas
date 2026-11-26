@@ -1,6 +1,6 @@
 # dominikamann/agent-mail-gateway
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-14 · [GitHub](https://github.com/dominikamann/agent-mail-gateway) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/dominikamann/agent-mail-gateway) · 个人维护
 
 **给 AI agent 分配独立受控邮箱的自托管 MCP/REST 网关**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dominikamann/agent-mail-gateway 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-25"]
-    y-axis "stars" 11 --> 16
-    line [12, 13, 12, 14, 15, 15]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-26"]
+    y-axis "stars" 11 --> 17
+    line [12, 13, 12, 14, 15, 16]
 ```
 
-2026-10-23 12 → 2026-11-25 15（+3）
+2026-10-24 12 → 2026-11-26 16（+4）
 
 
 ---

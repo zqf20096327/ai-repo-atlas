@@ -1,6 +1,6 @@
 # jin-bo/agentao
 
-⭐ 314 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jin-bo/agentao) · [官网](https://agentao.cn) · 个人维护 · 中文 README
+⭐ 315 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/jin-bo/agentao) · [官网](https://agentao.cn) · 个人维护 · 中文 README
 
 **Python 可嵌入的治理型本地 Agent 运行时，含 CLI 与 ACP 服务**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jin-bo/agentao 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 309 --> 315
-    line [310, 311, 312, 313, 314, 314]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-12", "2026-11-16", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 309 --> 316
+    line [310, 311, 312, 313, 314, 315]
 ```
 
-2026-10-23 310 → 2026-11-25 314（+4）
+2026-10-24 310 → 2026-11-26 315（+5）
 
 
 ---

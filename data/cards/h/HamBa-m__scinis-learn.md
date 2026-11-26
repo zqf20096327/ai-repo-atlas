@@ -1,6 +1,6 @@
 # HamBa-m/scinis-learn
 
-⭐ 19 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/HamBa-m/scinis-learn) · 组织维护
+⭐ 18 · Python · MIT · 推送 2026-11-05 · [GitHub](https://github.com/HamBa-m/scinis-learn) · 组织维护
 
 **从零实现基础机器学习算法的教学用 Python 函数库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "HamBa-m/scinis-learn 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-22", "2026-11-26"]
     y-axis "stars" 16 --> 20
-    line [17, 18, 19, 19]
+    line [17, 18, 19, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 19（+2）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

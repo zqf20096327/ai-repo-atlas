@@ -1,6 +1,6 @@
 # axisvela/praxo-core-csharp
 
-⭐ 3 · C# · MIT · 推送 2026-11-23 · [GitHub](https://github.com/axisvela/praxo-core-csharp) · [官网](https://axisvela.github.io/praxo-core/languages/csharp/) · 组织维护
+⭐ 3 · C# · MIT · 推送 2026-11-25 · [GitHub](https://github.com/axisvela/praxo-core-csharp) · [官网](https://axisvela.github.io/praxo-core/languages/csharp/) · 组织维护
 
 **.NET 开发者的可嵌入 AI agent 框架（策略/工具/检查点）**
 
@@ -45,12 +45,12 @@ PRAXO-CORE 的 C#/.NET 实现，以 NuGet 包 Praxo.Core 发布：提供 agent �
 ```mermaid
 xychart-beta
     title "axisvela/praxo-core-csharp 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

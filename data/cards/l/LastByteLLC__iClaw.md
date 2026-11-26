@@ -44,13 +44,13 @@ Swift 编写的 macOS 26+ 菜单栏 AI agent（iOS 版在路线图中），推�
 
 ```mermaid
 xychart-beta
-    title "LastByteLLC/iClaw 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 46 --> 49
-    line [47, 48, 48]
+    title "LastByteLLC/iClaw 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 47 --> 49
+    line [48, 48]
 ```
 
-2026-10-23 47 → 2026-11-25 48（+1）
+2026-10-24 48 → 2026-11-26 48（+0）
 
 
 ---

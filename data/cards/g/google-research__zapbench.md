@@ -44,13 +44,13 @@ Google Research 维护的神经科学机器学习基准：衡量细胞分辨率�
 
 ```mermaid
 xychart-beta
-    title "google-research/zapbench 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    title "google-research/zapbench 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
     y-axis "stars" 79 --> 82
-    line [80, 81]
+    line [80, 81, 81]
 ```
 
-2026-10-23 80 → 2026-11-25 81（+1）
+2026-10-24 80 → 2026-11-26 81（+1）
 
 
 ---

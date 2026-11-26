@@ -1,6 +1,6 @@
 # MarcoNasi/TRAE-Agents
 
-⭐ 148 · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/MarcoNasi/TRAE-Agents) · 个人维护 · 中文 README
+⭐ 147 · NOASSERTION · 推送 2026-08-04 · [GitHub](https://github.com/MarcoNasi/TRAE-Agents) · 个人维护 · 中文 README
 
 **TRAE IDE 专用专家 Agent 提示词合集（已停止维护）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MarcoNasi/TRAE-Agents 星数(近 4 点)"
-    x-axis ["2026-10-18", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-19", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 146 --> 151
-    line [150, 147, 148, 148]
+    line [150, 147, 148, 147]
 ```
 
-2026-10-18 150 → 2026-11-25 148（-2）
+2026-10-19 150 → 2026-11-26 147（-3）
 
 
 ---

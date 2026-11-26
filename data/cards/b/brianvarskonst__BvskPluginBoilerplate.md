@@ -44,12 +44,12 @@ Shopware 6.7 插件开发模板，定位为供编码代理使用：开发者向 
 ```mermaid
 xychart-beta
     title "brianvarskonst/BvskPluginBoilerplate 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

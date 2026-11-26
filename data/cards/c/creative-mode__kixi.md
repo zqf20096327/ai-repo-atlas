@@ -1,6 +1,6 @@
 # creative-mode/kixi
 
-⭐ 13 · Java · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/creative-mode/kixi) · 组织维护
+⭐ 13 · Java · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/creative-mode/kixi) · 组织维护
 
 **安哥拉考试平台：试题管理、模拟考试、OCR 导入与 AI 导师**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "creative-mode/kixi 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 10 --> 14
     line [11, 12, 11, 12, 13, 13]
 ```
 
-2026-10-23 11 → 2026-11-25 13（+2）
+2026-10-24 11 → 2026-11-26 13（+2）
 
 
 ---

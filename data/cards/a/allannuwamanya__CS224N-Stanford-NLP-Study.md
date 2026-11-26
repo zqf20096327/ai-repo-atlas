@@ -1,6 +1,6 @@
 # allannuwamanya/CS224N-Stanford-NLP-Study
 
-⭐ 17 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/allannuwamanya/CS224N-Stanford-NLP-Study) · [官网](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule) · 个人维护
+⭐ 18 · Python · MIT · 推送 2026-07-09 · [GitHub](https://github.com/allannuwamanya/CS224N-Stanford-NLP-Study) · [官网](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/index.html#schedule) · 个人维护
 
 **Stanford CS224N 课程学习资料库：讲义、作业解答与复现环境**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "allannuwamanya/CS224N-Stanford-NLP-Study 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 16 --> 18
-    line [17, 17]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 16 --> 19
+    line [17, 18]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 18（+1）
 
 
 ---

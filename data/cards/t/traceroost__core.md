@@ -1,6 +1,6 @@
 # traceroost/core
 
-⭐ 15 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/traceroost/core) · [官网](https://marketplace.visualstudio.com/items?itemName=agentlens.agentlens-dashboard) · 组织维护
+⭐ 15 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/traceroost/core) · [官网](https://marketplace.visualstudio.com/items?itemName=agentlens.agentlens-dashboard) · 组织维护
 
 **本地化 agentic AI 编码工具监控：追踪、成本与效率分析**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "traceroost/core 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 12 --> 16
     line [14, 13, 14, 13, 14, 15, 15]
 ```
 
-2026-10-23 14 → 2026-11-25 15（+1）
+2026-10-24 14 → 2026-11-26 15（+1）
 
 
 ---

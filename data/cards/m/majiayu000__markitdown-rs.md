@@ -1,6 +1,6 @@
 # majiayu000/markitdown-rs
 
-⭐ 4 · Rust · MIT · 推送 2026-11-16 · [GitHub](https://github.com/majiayu000/markitdown-rs) · [官网](https://majiayu000.github.io/markitdown-rs/) · 个人维护
+⭐ 5 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/majiayu000/markitdown-rs) · [官网](https://majiayu000.github.io/markitdown-rs/) · 个人维护
 
 **为 LLM/RAG 管线将文档转为 Markdown 的 Rust 重写 CLI**
 
@@ -46,12 +46,12 @@ markitdown-rs 将 PDF、Word、PowerPoint、Excel、HTML、EPUB、Outlook 消息
 ```mermaid
 xychart-beta
     title "majiayu000/markitdown-rs 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 5（+2）
 
 
 ---

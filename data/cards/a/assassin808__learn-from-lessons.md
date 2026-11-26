@@ -1,6 +1,6 @@
 # assassin808/learn-from-lessons
 
-⭐ 47 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/assassin808/learn-from-lessons) · 个人维护
+⭐ 49 · Python · MIT · 推送 2026-11-09 · [GitHub](https://github.com/assassin808/learn-from-lessons) · 个人维护
 
 **让编码 agent 从用户纠正中沉淀经验教训的工具**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "assassin808/learn-from-lessons 星数(近 6 点)"
-    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 29 --> 48
-    line [30, 39, 43, 45, 46, 47]
+    title "assassin808/learn-from-lessons 星数(近 7 点)"
+    x-axis ["2026-11-10", "2026-11-11", "2026-11-12", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 29 --> 50
+    line [30, 39, 43, 45, 46, 47, 49]
 ```
 
-2026-11-10 30 → 2026-11-25 47（+17）
+2026-11-10 30 → 2026-11-26 49（+19）
 
 
 ---

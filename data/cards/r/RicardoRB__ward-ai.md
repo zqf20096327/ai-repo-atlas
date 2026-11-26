@@ -1,6 +1,6 @@
 # RicardoRB/ward-ai
 
-⭐ 10 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/RicardoRB/ward-ai) · [官网](https://ricardorb.github.io/ward-ai/) · 个人维护
+⭐ 10 · Java · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/RicardoRB/ward-ai) · [官网](https://ricardorb.github.io/ward-ai/) · 个人维护
 
 **给 AI 编程代理加质量闸门：检查每次编辑并让代理自行修复**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "RicardoRB/ward-ai 星数(近 6 点)"
-    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-10-31", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 2 --> 11
     line [3, 4, 5, 6, 10, 10]
 ```
 
-2026-10-26 3 → 2026-11-25 10（+7）
+2026-10-26 3 → 2026-11-26 10（+7）
 
 
 ---

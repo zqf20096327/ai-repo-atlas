@@ -1,6 +1,6 @@
 # Leochens/MuseUI
 
-⭐ 60 · TypeScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/Leochens/MuseUI) · [官网](https://muse.guantou.site/) · 组织维护 · 中文 README
+⭐ 61 · TypeScript · MIT · 推送 2026-06-25 · [GitHub](https://github.com/Leochens/MuseUI) · [官网](https://muse.guantou.site/) · 组织维护 · 中文 README
 
 **浏览器端 AI 图像生成器：用提示词生成 UI 稿与视觉设计**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Leochens/MuseUI 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 57 --> 61
-    line [58, 59, 58, 59, 60, 60]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 57 --> 62
+    line [58, 59, 58, 59, 60, 61]
 ```
 
-2026-10-23 58 → 2026-11-25 60（+2）
+2026-10-24 58 → 2026-11-26 61（+3）
 
 
 ---

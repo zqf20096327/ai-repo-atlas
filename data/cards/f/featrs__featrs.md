@@ -1,6 +1,6 @@
 # featrs/featrs
 
-⭐ 72 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/featrs/featrs) · [官网](https://crates.io/crates/featrs) · 个人维护
+⭐ 72 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/featrs/featrs) · [官网](https://crates.io/crates/featrs) · 个人维护
 
 **面向 Rust 开发者的 Polars 原生特征工程库**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "featrs/featrs 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-25"]
+    title "featrs/featrs 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-14", "2026-11-16", "2026-11-25", "2026-11-26"]
     y-axis "stars" 66 --> 73
-    line [67, 69, 70, 71, 72]
+    line [67, 69, 70, 71, 72, 72]
 ```
 
-2026-10-23 67 → 2026-11-25 72（+5）
+2026-10-24 67 → 2026-11-26 72（+5）
 
 
 ---

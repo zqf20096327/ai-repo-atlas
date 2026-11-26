@@ -1,6 +1,6 @@
 # sebastianor08/GitHub-Copilot-app
 
-⭐ 40 · Apache-2.0 · 推送 2026-11-21 · [GitHub](https://github.com/sebastianor08/GitHub-Copilot-app) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **面向开发者的 GitHub 仓库 agent 工作管理桌面应用**
 
@@ -11,7 +11,7 @@ GitHub 官方发布的桌面应用，用于在从想法到 pull request 的流�
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | Apache-2.0 |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `desktop` | 安装包/桌面程序 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

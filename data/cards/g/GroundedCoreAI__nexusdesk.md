@@ -1,6 +1,6 @@
 # GroundedCoreAI/nexusdesk
 
-⭐ 200 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/GroundedCoreAI/nexusdesk) · [官网](https://groundedcoreai.github.io/nexusdesk/) · 组织维护 · 中文 README
+⭐ 200 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/GroundedCoreAI/nexusdesk) · [官网](https://groundedcoreai.github.io/nexusdesk/) · 组织维护 · 中文 README
 
 **企业自托管 AI 员工运营平台，首个应用为 AI 客服**
 
@@ -45,13 +45,13 @@ NexusDesk 是开源、可自托管的企业 AI 运营平台，以"AI 员工"为�
 
 ```mermaid
 xychart-beta
-    title "GroundedCoreAI/nexusdesk 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    title "GroundedCoreAI/nexusdesk 星数(近 14 点)"
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29", "2026-10-30", "2026-10-31", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25", "2026-11-26"]
     y-axis "stars" 87 --> 210
-    line [97, 102, 108, 112, 122, 127, 135, 145, 154, 97, 197, 198, 200]
+    line [97, 102, 108, 112, 122, 127, 135, 145, 154, 97, 197, 198, 200, 200]
 ```
 
-2026-10-23 97 → 2026-11-25 200（+103）
+2026-10-24 97 → 2026-11-26 200（+103）
 
 
 ---

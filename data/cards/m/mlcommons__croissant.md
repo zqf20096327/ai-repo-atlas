@@ -1,6 +1,6 @@
 # mlcommons/croissant
 
-⭐ 922 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/mlcommons/croissant) · [官网](https://mlcommons.org/croissant) · 组织维护
+⭐ 923 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-16 · [GitHub](https://github.com/mlcommons/croissant) · [官网](https://mlcommons.org/croissant) · 组织维护
 
 **ML 数据集元数据标准格式及读取库 mlcroissant**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "mlcommons/croissant 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 914 --> 923
-    line [915, 916, 917, 916, 919, 921, 922, 922]
+    title "mlcommons/croissant 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 915 --> 924
+    line [916, 917, 916, 919, 921, 922, 923]
 ```
 
-2026-10-23 915 → 2026-11-25 922（+7）
+2026-10-24 916 → 2026-11-26 923（+7）
 
 
 ---

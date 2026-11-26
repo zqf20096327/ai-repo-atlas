@@ -1,6 +1,6 @@
 # peremartra/Rearchitecting-LLMs
 
-⭐ 80 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/peremartra/Rearchitecting-LLMs) · [官网](https://hubs.la/Q040tvsK0) · 个人维护
+⭐ 80 · Jupyter Notebook · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/peremartra/Rearchitecting-LLMs) · [官网](https://hubs.la/Q040tvsK0) · 个人维护
 
 **Manning 图书官方代码库：LLM 结构化优化（剪枝/蒸馏/注意力）教程 notebook**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "peremartra/Rearchitecting-LLMs 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 74 --> 82
-    line [75, 76, 77, 76, 79, 80, 81, 80, 80]
+    title "peremartra/Rearchitecting-LLMs 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-19", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 75 --> 82
+    line [76, 77, 76, 79, 80, 81, 80, 80]
 ```
 
-2026-10-23 75 → 2026-11-25 80（+5）
+2026-10-24 76 → 2026-11-26 80（+4）
 
 
 ---

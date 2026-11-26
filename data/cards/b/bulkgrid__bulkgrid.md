@@ -1,6 +1,6 @@
 # bulkgrid/bulkgrid
 
-⭐ 94 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/bulkgrid/bulkgrid) · [官网](https://bulkgrid.com) · 组织维护
+⭐ 91 · TypeScript · 推送 2026-11-23 · [GitHub](https://github.com/bulkgrid/bulkgrid) · [官网](https://bulkgrid.com) · 组织维护
 
 **面向开发者的网络数据获取与索引平台 SDK，为 AI 应用供检索**
 
@@ -45,12 +45,12 @@ Bulkgrid 托管服务的公开开发工具仓库：提供 TypeScript/Python SDK�
 ```mermaid
 xychart-beta
     title "bulkgrid/bulkgrid 星数(近 5 点)"
-    x-axis ["2026-10-24", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-18", "2026-11-20", "2026-11-21", "2026-11-26"]
     y-axis "stars" 0 --> 103
-    line [3, 66, 60, 94, 94]
+    line [3, 66, 60, 94, 91]
 ```
 
-2026-10-24 3 → 2026-11-25 94（+91）
+2026-10-24 3 → 2026-11-26 91（+88）
 
 
 ---

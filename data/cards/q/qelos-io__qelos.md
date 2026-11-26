@@ -1,6 +1,6 @@
 # qelos-io/qelos
 
-⭐ 54 · TypeScript · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/qelos-io/qelos) · [官网](https://qelos.io) · 组织维护
+⭐ 54 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/qelos-io/qelos) · [官网](https://qelos.io) · 组织维护
 
 **AI 优先的应用层网关：为应用提供后端 API、AI agent 与权限管理**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "qelos-io/qelos 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 53 --> 55
     line [54, 54]
 ```
 
-2026-10-23 54 → 2026-11-25 54（+0）
+2026-10-24 54 → 2026-11-26 54（+0）
 
 
 ---

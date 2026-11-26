@@ -1,6 +1,6 @@
 # JackYFL/awesome-VLLMs
 
-⭐ 221 · 推送 2026-11-07 · [GitHub](https://github.com/JackYFL/awesome-VLLMs) · 组织维护
+⭐ 222 · 推送 2026-11-07 · [GitHub](https://github.com/JackYFL/awesome-VLLMs) · 组织维护
 
 **视觉大语言模型（VLLM）应用论文清单，供研究者查阅**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JackYFL/awesome-VLLMs 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 220 --> 222
-    line [221, 221]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 220 --> 223
+    line [221, 222]
 ```
 
-2026-10-23 221 → 2026-11-25 221（+0）
+2026-10-24 221 → 2026-11-26 222（+1）
 
 
 ---

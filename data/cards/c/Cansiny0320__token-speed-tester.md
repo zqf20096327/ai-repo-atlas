@@ -1,6 +1,6 @@
 # Cansiny0320/token-speed-tester
 
-⭐ 21 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Cansiny0320/token-speed-tester) · [官网](https://token-speed-studio.cansiny0320.chatgpt.site) · 个人维护 · 中文 README
+⭐ 22 · TypeScript · MIT · 推送 2026-10-24 · [GitHub](https://github.com/Cansiny0320/token-speed-tester) · [官网](https://token-speed-studio.cansiny0320.chatgpt.site) · 个人维护 · 中文 README
 
 **LLM/Codex 测速工具：测 TTFT、Token 吞吐与流式曲线**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Cansiny0320/token-speed-tester 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
     y-axis "stars" 20 --> 23
-    line [22, 21, 21]
+    line [22, 21, 22]
 ```
 
-2026-10-23 22 → 2026-11-25 21（-1）
+2026-10-24 22 → 2026-11-26 22（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # dymchenkko/claude-study-agent
 
-⭐ 3 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/dymchenkko/claude-study-agent) · [官网](https://dymchenkko.github.io/claude-study-agent/) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **大学生的考试复习 AI 私教：用自己的课件教学并安排复习**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-native` | 本体是模型或模型工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

@@ -1,6 +1,6 @@
 # jianzongwu/Awesome-Open-Vocabulary
 
-⭐ 1,009 · 推送 2026-05-12 · [GitHub](https://github.com/jianzongwu/Awesome-Open-Vocabulary) · [官网](https://arxiv.org/abs/2306.15880) · 组织维护
+⭐ 1,010 · 推送 2026-05-12 · [GitHub](https://github.com/jianzongwu/Awesome-Open-Vocabulary) · [官网](https://arxiv.org/abs/2306.15880) · 组织维护
 
 **开放词汇学习综述配套论文清单：追踪检测/分割/跟踪方法**
 
@@ -43,13 +43,13 @@ TPAMI 2024 综述《Towards Open Vocabulary Learning: A Survey》的配套仓库
 
 ```mermaid
 xychart-beta
-    title "jianzongwu/Awesome-Open-Vocabulary 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 1007 --> 1012
-    line [1008, 1009, 1010, 1009, 1011, 1010, 1009, 1009]
+    title "jianzongwu/Awesome-Open-Vocabulary 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 1008 --> 1012
+    line [1009, 1010, 1009, 1011, 1010, 1009, 1010]
 ```
 
-2026-10-23 1,008 → 2026-11-25 1,009（+1）
+2026-10-24 1,009 → 2026-11-26 1,010（+1）
 
 
 ---

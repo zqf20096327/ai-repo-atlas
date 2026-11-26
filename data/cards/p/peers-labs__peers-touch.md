@@ -1,6 +1,6 @@
 # peers-labs/peers-touch
 
-⭐ 43 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/peers-labs/peers-touch) · [官网](https://peers-touch.vercel.app) · 组织维护
+⭐ 44 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/peers-labs/peers-touch) · [官网](https://peers-touch.vercel.app) · 组织维护
 
 **去中心化 P2P 社交网络，含个人 AI 助手与自托管 Station**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "peers-labs/peers-touch 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 16 --> 45
-    line [18, 20, 26, 28, 29, 20, 40, 41, 43, 43]
+    title "peers-labs/peers-touch 星数(近 9 点)"
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 18 --> 46
+    line [20, 26, 28, 29, 20, 40, 41, 43, 44]
 ```
 
-2026-10-23 18 → 2026-11-25 43（+25）
+2026-10-24 20 → 2026-11-26 44（+24）
 
 
 ---

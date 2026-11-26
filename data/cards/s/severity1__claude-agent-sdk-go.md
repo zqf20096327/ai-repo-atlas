@@ -1,6 +1,6 @@
 # severity1/claude-agent-sdk-go
 
-⭐ 180 · Go · MIT · 推送 2026-10-05 · [GitHub](https://github.com/severity1/claude-agent-sdk-go) · 个人维护
+⭐ 181 · Go · MIT · 推送 2026-10-05 · [GitHub](https://github.com/severity1/claude-agent-sdk-go) · 个人维护
 
 **Claude Code CLI 的非官方 Go SDK，封装查询与多轮会话**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "severity1/claude-agent-sdk-go 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 175 --> 181
-    line [176, 178, 179, 180, 180]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-13", "2026-11-19", "2026-11-26"]
+    y-axis "stars" 175 --> 182
+    line [176, 178, 179, 180, 181]
 ```
 
-2026-10-23 176 → 2026-11-25 180（+4）
+2026-10-24 176 → 2026-11-26 181（+5）
 
 
 ---

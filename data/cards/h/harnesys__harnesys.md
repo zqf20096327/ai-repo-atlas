@@ -1,6 +1,6 @@
 # harnesys/harnesys
 
-⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/harnesys/harnesys) · [官网](https://harnesys.github.io/harnesys/) · 个人维护
+⭐ 4 · TypeScript · NOASSERTION · 推送 2026-11-25 · [GitHub](https://github.com/harnesys/harnesys) · [官网](https://harnesys.github.io/harnesys/) · 个人维护
 
 **自托管的多 AI agent 团队控制台：集中监督每次运行**
 
@@ -46,12 +46,12 @@ Harnesys 是面向 AI agent 团队的自托管控制平面：一台主机运行 
 ```mermaid
 xychart-beta
     title "harnesys/harnesys 星数(近 2 点)"
-    x-axis ["2026-11-18", "2026-11-25"]
+    x-axis ["2026-11-18", "2026-11-26"]
     y-axis "stars" 3 --> 5
     line [4, 4]
 ```
 
-2026-11-18 4 → 2026-11-25 4（+0）
+2026-11-18 4 → 2026-11-26 4（+0）
 
 
 ---

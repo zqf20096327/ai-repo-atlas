@@ -1,6 +1,6 @@
 # pouriya/espai
 
-⭐ 13 · Rust · MIT · 推送 2026-08-09 · [GitHub](https://github.com/pouriya/espai) · 个人维护
+⭐ 14 · Rust · MIT · 推送 2026-08-09 · [GitHub](https://github.com/pouriya/espai) · 个人维护
 
 **把本机浏览器变成 HTTP 接口的本地服务，供 agent 用 curl 操控**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "pouriya/espai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 12 --> 14
-    line [13, 13]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 12 --> 15
+    line [13, 14]
 ```
 
-2026-10-23 13 → 2026-11-25 13（+0）
+2026-10-24 13 → 2026-11-26 14（+1）
 
 
 ---

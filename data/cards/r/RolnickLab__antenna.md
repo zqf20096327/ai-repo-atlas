@@ -1,6 +1,6 @@
 # RolnickLab/antenna
 
-⭐ 46 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/RolnickLab/antenna) · [官网](https://insectai.org) · 组织维护
+⭐ 47 · Python · AGPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/RolnickLab/antenna) · [官网](https://insectai.org) · 组织维护
 
 **昆虫相机陷阱图像的数据管理与 ML 流水线编排平台**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "RolnickLab/antenna 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 43 --> 47
-    line [44, 45, 46, 46]
+    title "RolnickLab/antenna 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 44 --> 48
+    line [45, 46, 47]
 ```
 
-2026-10-23 44 → 2026-11-25 46（+2）
+2026-10-24 45 → 2026-11-26 47（+2）
 
 
 ---

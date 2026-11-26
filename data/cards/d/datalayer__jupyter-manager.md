@@ -1,6 +1,6 @@
 # datalayer/jupyter-manager
 
-⭐ 17 · TypeScript · NOASSERTION · 推送 2026-04-30 · [GitHub](https://github.com/datalayer/jupyter-manager) · [官网](https://jupyter-manager.datalayer.tech) · 组织维护
+⭐ 17 · TypeScript · NOASSERTION · 推送 2026-11-24 · [GitHub](https://github.com/datalayer/jupyter-manager) · [官网](https://jupyter-manager.datalayer.tech) · 组织维护
 
 **Jupyter 平台的可视化管理用户界面**
 
@@ -45,12 +45,12 @@ Datalayer 维护的 Jupyter 平台管理界面：以可视化方式替代 shell 
 ```mermaid
 xychart-beta
     title "datalayer/jupyter-manager 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 16 --> 18
     line [17, 17]
 ```
 
-2026-10-23 17 → 2026-11-25 17（+0）
+2026-10-24 17 → 2026-11-26 17（+0）
 
 
 ---

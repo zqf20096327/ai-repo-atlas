@@ -1,6 +1,6 @@
 # AmazingAng/old-coder
 
-⭐ 766 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AmazingAng/old-coder) · 个人维护 · 中文 README
+⭐ 768 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AmazingAng/old-coder) · 个人维护 · 中文 README
 
 **给编码 agent 的证据优先开发技能：让代码过测试关卡**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "AmazingAng/old-coder 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 752 --> 767
-    line [753, 757, 758, 759, 760, 761, 766]
+    title "AmazingAng/old-coder 星数(近 8 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-14", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 752 --> 769
+    line [753, 757, 758, 759, 760, 761, 766, 768]
 ```
 
-2026-10-23 753 → 2026-11-25 766（+13）
+2026-10-24 753 → 2026-11-26 768（+15）
 
 
 ---

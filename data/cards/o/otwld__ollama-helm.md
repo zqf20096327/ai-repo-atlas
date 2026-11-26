@@ -1,6 +1,6 @@
 # otwld/ollama-helm
 
-⭐ 596 · Go Template · MIT · 推送 2026-11-21 · [GitHub](https://github.com/otwld/ollama-helm) · [官网](https://artifacthub.io/packages/helm/ollama-helm/ollama) · 组织维护
+⭐ 596 · Go Template · MIT · 推送 2026-11-24 · [GitHub](https://github.com/otwld/ollama-helm) · [官网](https://artifacthub.io/packages/helm/ollama-helm/ollama) · 组织维护
 
 **在 Kubernetes 上部署 Ollama 的社区 Helm chart**
 
@@ -44,13 +44,13 @@ OTWLD 维护的社区 Helm chart，用于在 Kubernetes 集群中部署 Ollama �
 
 ```mermaid
 xychart-beta
-    title "otwld/ollama-helm 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
+    title "otwld/ollama-helm 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
     y-axis "stars" 593 --> 597
-    line [595, 594, 595, 594, 595, 596, 596]
+    line [594, 595, 594, 595, 596, 596]
 ```
 
-2026-10-23 595 → 2026-11-25 596（+1）
+2026-10-24 594 → 2026-11-26 596（+2）
 
 
 ---

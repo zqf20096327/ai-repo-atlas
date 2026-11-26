@@ -1,6 +1,6 @@
 # AngusKit/AngusAI
 
-⭐ 91 · GPL-3.0 · 推送 2026-09-26 · [GitHub](https://github.com/AngusKit/AngusAI) · [官网](https://www.anguskit.com/en/products/ai) · 组织维护 · 中文 README
+⭐ 91 · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/AngusKit/AngusAI) · [官网](https://www.anguskit.com/en/products/ai) · 组织维护 · 中文 README
 
 **企业自托管 AI Agent 开发平台：可视化搭建、验证、一键发布**
 
@@ -46,12 +46,12 @@ AngusKit 旗下面向企业的 AI Agent 开发平台（Build 产品线），提�
 ```mermaid
 xychart-beta
     title "AngusKit/AngusAI 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 90 --> 92
     line [91, 91]
 ```
 
-2026-10-23 91 → 2026-11-25 91（+0）
+2026-10-24 91 → 2026-11-26 91（+0）
 
 
 ---

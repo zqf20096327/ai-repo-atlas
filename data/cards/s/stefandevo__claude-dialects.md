@@ -1,6 +1,6 @@
 # stefandevo/claude-dialects
 
-⭐ 10 · Go · MIT · 推送 2026-11-23 · [GitHub](https://github.com/stefandevo/claude-dialects) · [官网](https://claude-dialects.cc) · 个人维护
+⭐ 10 · Go · MIT · 推送 2026-11-24 · [GitHub](https://github.com/stefandevo/claude-dialects) · [官网](https://claude-dialects.cc) · 个人维护
 
 **为开发者隔离运行多模型版 Claude Code 的 CLI 工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "stefandevo/claude-dialects 星数(近 2 点)"
-    x-axis ["2026-11-02", "2026-11-25"]
+    x-axis ["2026-11-02", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-02 10 → 2026-11-25 10（+0）
+2026-11-02 10 → 2026-11-26 10（+0）
 
 
 ---

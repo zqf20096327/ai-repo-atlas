@@ -1,6 +1,6 @@
 # JsonMatrixLab/MATRIX-Qwen21-Dataset-Workflow
 
-⭐ 27 · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/JsonMatrixLab/MATRIX-Qwen21-Dataset-Workflow) · 组织维护
+⭐ 28 · Apache-2.0 · 推送 2026-10-14 · [GitHub](https://github.com/JsonMatrixLab/MATRIX-Qwen21-Dataset-Workflow) · 组织维护
 
 **ComfyUI 工作流：从少量参考图生成 32 张角色数据集图片**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "JsonMatrixLab/MATRIX-Qwen21-Dataset-Workflow 星数(近 11 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 13 --> 28
-    line [14, 15, 16, 17, 19, 15, 22, 24, 26, 27, 27]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 13 --> 29
+    line [14, 15, 16, 17, 19, 15, 22, 24, 26, 27, 28]
 ```
 
-2026-10-23 14 → 2026-11-25 27（+13）
+2026-10-24 14 → 2026-11-26 28（+14）
 
 
 ---

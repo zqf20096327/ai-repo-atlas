@@ -1,6 +1,6 @@
 # jube-home/aml-fraud-transaction-monitoring
 
-⭐ 116 · C# · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/jube-home/aml-fraud-transaction-monitoring) · [官网](https://www.jube.io) · 组织维护
+⭐ 117 · C# · AGPL-3.0 · 推送 2026-11-18 · [GitHub](https://github.com/jube-home/aml-fraud-transaction-monitoring) · [官网](https://www.jube.io) · 组织维护
 
 **开源实时反洗钱与欺诈交易监控平台，带 AI 代理问答**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "jube-home/aml-fraud-transaction-monitoring 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-02", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 113 --> 117
-    line [115, 114, 115, 116, 116]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-02", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 113 --> 118
+    line [115, 114, 115, 116, 117]
 ```
 
-2026-10-23 115 → 2026-11-25 116（+1）
+2026-10-24 115 → 2026-11-26 117（+2）
 
 
 ---

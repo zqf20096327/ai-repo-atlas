@@ -1,6 +1,6 @@
 # baidu/cosui
 
-⭐ 102 · TypeScript · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/baidu/cosui) · [官网](https://baidu.github.io/cosui/) · 组织维护 · 中文 README
+⭐ 103 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/baidu/cosui) · [官网](https://baidu.github.io/cosui/) · 组织维护 · 中文 README
 
 **面向 AI 应用的前端 UI 解决方案：UI 协议、渲染 SDK 与组件库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "baidu/cosui 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-10", "2026-11-12", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 96 --> 103
-    line [97, 98, 99, 100, 101, 102]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-12", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 97 --> 104
+    line [98, 99, 100, 101, 102, 103]
 ```
 
-2026-10-23 97 → 2026-11-25 102（+5）
+2026-10-24 98 → 2026-11-26 103（+5）
 
 
 ---

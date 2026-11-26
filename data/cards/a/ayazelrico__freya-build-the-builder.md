@@ -1,6 +1,6 @@
 # ayazelrico/freya-build-the-builder
 
-⭐ 4 · Python · 推送 2026-10-11 · [GitHub](https://github.com/ayazelrico/freya-build-the-builder) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **把银行需求简报和 OpenAPI 规格构建成语音电话 agent 的构建器**
 

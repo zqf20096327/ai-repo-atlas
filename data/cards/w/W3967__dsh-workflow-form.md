@@ -1,6 +1,6 @@
 # W3967/dsh-workflow-form
 
-⭐ 4 · JavaScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/W3967/dsh-workflow-form) · [官网](https://github.com/W3967/dsh-comfyui-panel) · 个人维护 · 中文 README
+⭐ 4 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/W3967/dsh-workflow-form) · [官网](https://github.com/W3967/dsh-comfyui-panel) · 个人维护 · 中文 README
 
 **把 ComfyUI 接入 DSH 的插件：工作流自动生成参数表单**
 
@@ -40,6 +40,18 @@ DeepSeek Harness 的 ComfyUI 前端插件：导入 ComfyUI「Save (API Format)�
 > L7: 把本机 **ComfyUI** 接进 DeepSeek Harness：导入任意 API 格式工作流，自动生成参数表单，侧栏里直接出图。
 > L17: 插件的核心不是某一套模型，而是**参数发现**：拿 ComfyUI 自己的 `/object_info` 当元数据，把任意工作流图翻译成表单。
 > L32: - **两种输入**：面板点着用，或者让模型通过 agent 工具调用，两者共用同一条任务队列。
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "W3967/dsh-workflow-form 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
 
 
 ---

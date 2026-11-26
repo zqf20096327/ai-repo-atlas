@@ -1,6 +1,6 @@
 # ulfurinn/wongi-engine-elixir
 
-⭐ 30 · Elixir · MIT · 推送 2026-11-21 · [GitHub](https://github.com/ulfurinn/wongi-engine-elixir) · 个人维护
+⭐ 30 · Elixir · MIT · 推送 2026-11-24 · [GitHub](https://github.com/ulfurinn/wongi-engine-elixir) · 个人维护
 
 **Elixir 实现的前向链规则引擎，基于 Rete 算法**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "ulfurinn/wongi-engine-elixir 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 29 --> 31
     line [30, 30]
 ```
 
-2026-10-23 30 → 2026-11-25 30（+0）
+2026-10-24 30 → 2026-11-26 30（+0）
 
 
 ---

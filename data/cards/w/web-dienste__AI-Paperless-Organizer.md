@@ -1,6 +1,6 @@
 # web-dienste/AI-Paperless-Organizer
 
-⭐ 17 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/web-dienste/AI-Paperless-Organizer) · [官网](https://hub.docker.com/r/webdienste/ai-paperless-organizer) · 个人维护 · 中文 README
+⭐ 18 · TypeScript · MIT · 推送 2026-11-02 · [GitHub](https://github.com/web-dienste/AI-Paperless-Organizer) · [官网](https://hub.docker.com/r/webdienste/ai-paperless-organizer) · 个人维护 · 中文 README
 
 **Paperless-ngx 的本地 AI 维护工具：清理、分类、重 OCR 与归档问答**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "web-dienste/AI-Paperless-Organizer 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 10 --> 18
-    line [11, 13, 15, 16, 17, 15, 17, 17]
+    title "web-dienste/AI-Paperless-Organizer 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 12 --> 19
+    line [13, 15, 16, 17, 15, 17, 18]
 ```
 
-2026-10-23 11 → 2026-11-25 17（+6）
+2026-10-24 13 → 2026-11-26 18（+5）
 
 
 ---

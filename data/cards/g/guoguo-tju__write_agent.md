@@ -1,6 +1,6 @@
 # guoguo-tju/write_agent
 
-⭐ 35 · Python · MIT · 推送 2026-05-05 · [GitHub](https://github.com/guoguo-tju/write_agent) · 个人维护 · 中文 README
+⭐ 36 · Python · MIT · 推送 2026-05-05 · [GitHub](https://github.com/guoguo-tju/write_agent) · 个人维护 · 中文 README
 
 **面向写作者的 AI 写作助手：改写、审校、封面与微信排版**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guoguo-tju/write_agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 34 --> 36
-    line [35, 35]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 34 --> 37
+    line [35, 36]
 ```
 
-2026-10-23 35 → 2026-11-25 35（+0）
+2026-10-24 35 → 2026-11-26 36（+1）
 
 
 ---

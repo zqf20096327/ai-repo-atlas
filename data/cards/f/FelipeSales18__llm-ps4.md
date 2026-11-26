@@ -41,6 +41,18 @@
 > L89: ## Local assistant on the PS4 (added 2026-11-15)
 > L148: 3. **llama.cpp:** built with `-DGGML_VULKAN=ON` against Vulkan and SPIR-V headers that were also extracted (with h
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "FelipeSales18/llm-ps4 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `714656e4c8c1` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # mbzuai-oryx/LoopedWSP
 
-⭐ 22 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/mbzuai-oryx/LoopedWSP) · [官网](https://mbzuai-oryx.github.io/LoopedWSP/) · 组织维护
+⭐ 115 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/mbzuai-oryx/LoopedWSP) · [官网](https://mbzuai-oryx.github.io/LoopedWSP/) · 组织维护
 
 **LLM 手写权重的循环 Transformer 权重与提示词仓库**
 
@@ -40,6 +40,18 @@ MBZUAI 团队发布的仓库，收录由 Claude 在无训练条件下手写权�
 > L34: The weights of every transformer and the prompts Claude received are all in this repository.
 > L56: ## Run the weights
 > L58: The `weights/` folder holds ten of the transformers together with `run.py`, one short script that runs any of them.
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "mbzuai-oryx/LoopedWSP 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 13 --> 124
+    line [22, 115]
+```
+
+2026-11-25 22 → 2026-11-26 115（+93）
 
 
 ---

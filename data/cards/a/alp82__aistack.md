@@ -1,6 +1,6 @@
 # alp82/aistack
 
-⭐ 50 · TypeScript · MIT · 推送 2026-11-09 · [GitHub](https://github.com/alp82/aistack) · [官网](https://aistack.to) · 个人维护
+⭐ 50 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/alp82/aistack) · [官网](https://aistack.to) · 个人维护
 
 **AI 技术栈的发现、对比与分享平台（Web + CLI）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "alp82/aistack 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-08", "2026-11-21", "2026-11-25"]
+    title "alp82/aistack 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-21", "2026-11-26"]
     y-axis "stars" 48 --> 51
-    line [49, 50, 49, 50, 50]
+    line [50, 49, 50, 50]
 ```
 
-2026-10-23 49 → 2026-11-25 50（+1）
+2026-10-24 50 → 2026-11-26 50（+0）
 
 
 ---

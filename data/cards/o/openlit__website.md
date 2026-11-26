@@ -1,6 +1,6 @@
 # openlit/website
 
-⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/openlit/website) · [官网](https://openlit.io/) · 组织维护
+⭐ 10 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/openlit/website) · [官网](https://openlit.io/) · 组织维护
 
 **OpenLIT 官网源码：面向开发者的 LLM 可观测平台营销站**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "openlit/website 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

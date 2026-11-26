@@ -1,6 +1,6 @@
 # danfeistar/house-skills-kit
 
-⭐ 10 · Python · Apache-2.0 · 推送 2026-10-28 · [GitHub](https://github.com/danfeistar/house-skills-kit) · [官网](https://clawhub.ai/skills/house-skills-kit) · 个人维护 · 中文 README
+⭐ 10 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/danfeistar/house-skills-kit) · [官网](https://clawhub.ai/skills/house-skills-kit) · 个人维护 · 中文 README
 
 **中文房地产行业的 AI 技能库：7 类角色 30 个技能**
 
@@ -41,6 +41,18 @@
 > L11: **房产 AI 技能仓库 —— 按身份分 Skill，按需取用。**
 > L13: 为房地产行业的七类角色提供开箱即用的 AI 技能（Skill）：房开企业、经纪公司、渠道分销公司、购房者/业主、二手经纪人、一手销售人员、房产自媒体博主。每个身份场景对应一个独立 Skill，`skills/` 目录下各技能均含完
 > L153: skills/            # 25 个独立技能，每个自带 SKILL.md（+ README.md / 正文 / 可选工具）
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "danfeistar/house-skills-kit 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
 
 
 ---

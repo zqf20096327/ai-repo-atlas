@@ -1,6 +1,6 @@
 # microsoft/OpenAIWorkshop
 
-⭐ 902 · Python · MIT · 推送 2026-11-19 · [GitHub](https://github.com/microsoft/OpenAIWorkshop) · 组织维护
+⭐ 902 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/microsoft/OpenAIWorkshop) · 组织维护
 
 **微软官方 AI Agent 工作坊：基于 Azure 的智能体方案教学材料**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "microsoft/OpenAIWorkshop 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-18", "2026-11-19", "2026-11-23", "2026-11-26"]
     y-axis "stars" 897 --> 903
     line [898, 899, 898, 899, 900, 901, 902, 902]
 ```
 
-2026-10-23 898 → 2026-11-25 902（+4）
+2026-10-24 898 → 2026-11-26 902（+4）
 
 
 ---

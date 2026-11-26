@@ -1,6 +1,6 @@
 # OrihuelaConde/LiteRtLmSharp
 
-⭐ 14 · C# · Apache-2.0 · 推送 2026-10-12 · [GitHub](https://github.com/OrihuelaConde/LiteRtLmSharp) · [官网](https://orihuelaconde.github.io/LiteRtLmSharp/) · 个人维护
+⭐ 14 · C# · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/OrihuelaConde/LiteRtLmSharp) · [官网](https://orihuelaconde.github.io/LiteRtLmSharp/) · 个人维护
 
 **LiteRT-LM 的 .NET 绑定：让 .NET 应用端上运行 Gemma 等 LLM**
 
@@ -46,12 +46,12 @@ Google LiteRT-LM C API 的非官方 .NET 10 绑定，通过源码生成 P/Invoke
 ```mermaid
 xychart-beta
     title "OrihuelaConde/LiteRtLmSharp 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
     y-axis "stars" 11 --> 15
     line [12, 13, 12, 13, 14, 14]
 ```
 
-2026-10-23 12 → 2026-11-25 14（+2）
+2026-10-24 12 → 2026-11-26 14（+2）
 
 
 ---

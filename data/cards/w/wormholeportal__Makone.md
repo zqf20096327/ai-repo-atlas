@@ -1,6 +1,6 @@
 # wormholeportal/Makone
 
-⭐ 29 · HTML · MIT · 推送 2026-09-05 · [GitHub](https://github.com/wormholeportal/Makone) · [官网](https://makone.dev) · 组织维护
+⭐ 31 · HTML · MIT · 推送 2026-09-05 · [GitHub](https://github.com/wormholeportal/Makone) · [官网](https://makone.dev) · 组织维护
 
 **让编程 agent 用代码构建 three.js 3D 世界的工具包与技能库**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "wormholeportal/Makone 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 27 --> 30
-    line [28, 29, 29]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 27 --> 32
+    line [28, 29, 31]
 ```
 
-2026-10-23 28 → 2026-11-25 29（+1）
+2026-10-24 28 → 2026-11-26 31（+3）
 
 
 ---

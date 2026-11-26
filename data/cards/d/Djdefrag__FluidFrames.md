@@ -1,6 +1,6 @@
 # Djdefrag/FluidFrames
 
-⭐ 280 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Djdefrag/FluidFrames) · 个人维护
+⭐ 282 · Python · MIT · 推送 2026-09-27 · [GitHub](https://github.com/Djdefrag/FluidFrames) · 个人维护
 
 **Windows 视频补帧与慢动作 AI 应用（RIFE）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Djdefrag/FluidFrames 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-25"]
-    y-axis "stars" 279 --> 282
-    line [281, 280, 281, 280, 280]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-26"]
+    y-axis "stars" 279 --> 283
+    line [281, 280, 281, 280, 282]
 ```
 
-2026-10-23 281 → 2026-11-25 280（-1）
+2026-10-24 281 → 2026-11-26 282（+1）
 
 
 ---

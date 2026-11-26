@@ -1,6 +1,6 @@
 # AhmadHassan-BTed/Jantt
 
-⭐ 6,240 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/AhmadHassan-BTed/Jantt) · [官网](https://ahmadhassan-bted.github.io/Jantt/) · 个人维护
+⭐ 6,239 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/AhmadHassan-BTed/Jantt) · [官网](https://ahmadhassan-bted.github.io/Jantt/) · 个人维护
 
 **用自然语言生成甘特图的在线工具与声明式 JSON 时间线引擎**
 
@@ -41,6 +41,18 @@
 > L3: # Create Interactive Gantt Charts with AI: No Code Required.
 > L41: Stop wrestling with spreadsheet rows or begging chatbots for fragile SVG/React code. Jantt ships a **built-in AI Co
 > L92: - **Official MCP Server (`@jantt/mcp`):** Connect Claude Desktop, Cursor, Gemini, or custom AI agents directly to 6
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "AhmadHassan-BTed/Jantt 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 6238 --> 6241
+    line [6240, 6239]
+```
+
+2026-11-25 6,240 → 2026-11-26 6,239（-1）
 
 
 ---

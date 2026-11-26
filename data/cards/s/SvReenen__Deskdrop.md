@@ -1,6 +1,6 @@
 # SvReenen/Deskdrop
 
-⭐ 62 · Kotlin · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/SvReenen/Deskdrop) · [官网](https://svreenen.github.io/Deskdrop/) · 个人维护
+⭐ 61 · Kotlin · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/SvReenen/Deskdrop) · [官网](https://svreenen.github.io/Deskdrop/) · 个人维护
 
 **带本地/云端 AI 的 Android 隐私键盘（HeliBoard 分支）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "SvReenen/Deskdrop 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-16", "2026-11-26"]
     y-axis "stars" 56 --> 63
-    line [57, 58, 59, 58, 59, 60, 61, 62, 62]
+    line [57, 58, 59, 58, 59, 60, 61, 62, 61]
 ```
 
-2026-10-23 57 → 2026-11-25 62（+5）
+2026-10-24 57 → 2026-11-26 61（+4）
 
 
 ---

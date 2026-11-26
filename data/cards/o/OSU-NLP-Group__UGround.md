@@ -1,6 +1,6 @@
 # OSU-NLP-Group/UGround
 
-⭐ 321 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/OSU-NLP-Group/UGround) · [官网](https://osu-nlp-group.github.io/UGround/) · 组织维护
+⭐ 320 · Python · MIT · 推送 2026-08-24 · [GitHub](https://github.com/OSU-NLP-Group/UGround) · [官网](https://osu-nlp-group.github.io/UGround/) · 组织维护
 
 **GUI 智能体的通用视觉定位模型（ICLR'25 Oral）**
 
@@ -45,12 +45,12 @@ OSU NLP Group 与 Orby AI 合作的学术研究成果：训练 GUI 视觉定位�
 ```mermaid
 xychart-beta
     title "OSU-NLP-Group/UGround 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-25"]
-    y-axis "stars" 320 --> 323
-    line [322, 321, 321]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-26"]
+    y-axis "stars" 319 --> 323
+    line [322, 321, 320]
 ```
 
-2026-10-23 322 → 2026-11-25 321（-1）
+2026-10-24 322 → 2026-11-26 320（-2）
 
 
 ---

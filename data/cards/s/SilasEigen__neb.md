@@ -1,6 +1,6 @@
 # SilasEigen/neb
 
-⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/SilasEigen/neb) · [官网](https://neuralenginebyte.org) · 个人维护
+⭐ 8 · Rust · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/SilasEigen/neb) · [官网](https://neuralenginebyte.org) · 个人维护
 
 **用神经网络训练步骤作工作量证明的加密货币**
 
@@ -45,13 +45,13 @@ NEB 是一条工作量证明的 layer-1 区块链：每次挖矿尝试是对链�
 
 ```mermaid
 xychart-beta
-    title "SilasEigen/neb 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
+    title "SilasEigen/neb 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 9
-    line [3, 6, 7, 8]
+    line [3, 6, 7, 8, 8]
 ```
 
-2026-11-21 3 → 2026-11-25 8（+5）
+2026-11-21 3 → 2026-11-26 8（+5）
 
 
 ---

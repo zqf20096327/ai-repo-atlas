@@ -1,6 +1,6 @@
 # crossoverJie/skills
 
-⭐ 19 · Python · Apache-2.0 · 推送 2026-07-01 · [GitHub](https://github.com/crossoverJie/skills) · 个人维护 · 中文 README
+⭐ 19 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/crossoverJie/skills) · 个人维护 · 中文 README
 
 **面向 Claude Code/Codex 等 agent 的个人技能合集（8 个）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "crossoverJie/skills 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 18 --> 20
     line [19, 19]
 ```
 
-2026-10-23 19 → 2026-11-25 19（+0）
+2026-10-24 19 → 2026-11-26 19（+0）
 
 
 ---

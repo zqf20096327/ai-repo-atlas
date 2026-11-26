@@ -1,6 +1,6 @@
 # zakariaf/Flutter-Skills
 
-⭐ 70 · Dart · MIT · 推送 2026-09-23 · [GitHub](https://github.com/zakariaf/Flutter-Skills) · [官网](https://zakaria.dev/Flutter-Skills/) · 个人维护
+⭐ 71 · Dart · MIT · 推送 2026-09-23 · [GitHub](https://github.com/zakariaf/Flutter-Skills) · [官网](https://zakaria.dev/Flutter-Skills/) · 个人维护
 
 **面向 AI 编码代理的 Flutter 工程技能集（40 个 SKILL.md）**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "zakariaf/Flutter-Skills 星数(近 13 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 57 --> 71
-    line [58, 61, 62, 63, 62, 63, 62, 66, 67, 68, 69, 70, 70]
+    title "zakariaf/Flutter-Skills 星数(近 12 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-14", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 60 --> 72
+    line [61, 62, 63, 62, 63, 62, 66, 67, 68, 69, 70, 71]
 ```
 
-2026-10-23 58 → 2026-11-25 70（+12）
+2026-10-24 61 → 2026-11-26 71（+10）
 
 
 ---

@@ -1,6 +1,6 @@
 # auto-use/Auto-Use
 
-⭐ 117 · Python · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/auto-use/Auto-Use) · [官网](https://autouse.netlify.app/) · 个人维护
+⭐ 116 · Python · Apache-2.0 · 推送 2026-07-26 · [GitHub](https://github.com/auto-use/Auto-Use) · [官网](https://autouse.netlify.app/) · 个人维护
 
 **让 AI 用自然语言操控电脑的桌面/浏览器自动化框架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "auto-use/Auto-Use 星数(近 3 点)"
-    x-axis ["2026-11-11", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 116 --> 119
-    line [118, 117, 117]
+    x-axis ["2026-11-11", "2026-11-23", "2026-11-26"]
+    y-axis "stars" 115 --> 119
+    line [118, 117, 116]
 ```
 
-2026-11-11 118 → 2026-11-25 117（-1）
+2026-11-11 118 → 2026-11-26 116（-2）
 
 
 ---

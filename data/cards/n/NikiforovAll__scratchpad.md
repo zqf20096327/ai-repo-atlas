@@ -1,6 +1,6 @@
 # NikiforovAll/scratchpad
 
-⭐ 16 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/NikiforovAll/scratchpad) · [官网](http://nikiforovall.blog/scratchpad/) · 个人维护
+⭐ 16 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/NikiforovAll/scratchpad) · [官网](http://nikiforovall.blog/scratchpad/) · 个人维护
 
 **为 AI agent 组织临时知识到 scratchpad 文件夹的 CLI，带只读查看器**
 
@@ -45,12 +45,12 @@ CLI 工具，将 agent 会话产生的笔记、代码片段、中间产物组织
 ```mermaid
 xychart-beta
     title "NikiforovAll/scratchpad 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 16（+0）
 
 
 ---

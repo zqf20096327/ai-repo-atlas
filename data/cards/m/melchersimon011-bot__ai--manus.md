@@ -1,6 +1,6 @@
 # melchersimon011-bot/ai--manus
 
-⭐ 193 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/melchersimon011-bot/ai--manus) · 个人维护
+⭐ 180 · Apache-2.0 · 推送 2026-11-15 · [GitHub](https://github.com/melchersimon011-bot/ai--manus) · 个人维护
 
 **自主 AI Agent：代用户执行代码与控制浏览器完成任务**
 
@@ -43,13 +43,13 @@ README 描述 Manus 为自主运行的 AI Agent，能够自行编写并执行脚
 
 ```mermaid
 xychart-beta
-    title "melchersimon011-bot/ai--manus 星数(近 6 点)"
-    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25"]
+    title "melchersimon011-bot/ai--manus 星数(近 7 点)"
+    x-axis ["2026-11-13", "2026-11-14", "2026-11-15", "2026-11-20", "2026-11-22", "2026-11-25", "2026-11-26"]
     y-axis "stars" 134 --> 286
-    line [146, 274, 202, 201, 197, 193]
+    line [146, 274, 202, 201, 197, 193, 180]
 ```
 
-2026-11-13 146 → 2026-11-25 193（+47）
+2026-11-13 146 → 2026-11-26 180（+34）
 
 
 ---

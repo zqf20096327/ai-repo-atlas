@@ -1,6 +1,6 @@
 # BrainRTP/byoglot-translator
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BrainRTP/byoglot-translator) · 个人维护
+⭐ 3 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BrainRTP/byoglot-translator) · 个人维护
 
 **复用你自有模型与提示词的浏览器页面/划词翻译扩展**
 
@@ -47,12 +47,12 @@ Manifest V3 的 Chrome/Firefox 扩展，按需翻译网页与选中文本，模�
 ```mermaid
 xychart-beta
     title "BrainRTP/byoglot-translator 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    x-axis ["2026-11-10", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-10 3 → 2026-11-25 3（+0）
+2026-11-10 3 → 2026-11-26 3（+0）
 
 
 ---

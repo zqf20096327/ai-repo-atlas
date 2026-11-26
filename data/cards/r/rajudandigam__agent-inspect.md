@@ -1,6 +1,6 @@
 # rajudandigam/agent-inspect
 
-⭐ 213 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/rajudandigam/agent-inspect) · [官网](https://agentinspect.vercel.app) · 个人维护
+⭐ 213 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/rajudandigam/agent-inspect) · [官网](https://agentinspect.vercel.app) · 个人维护
 
 **TypeScript AI agent 的本地证据调试与轨迹测试 CLI 工具**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "rajudandigam/agent-inspect 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-27", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-22", "2026-11-26"]
     y-axis "stars" 161 --> 217
     line [165, 166, 167, 168, 166, 211, 212, 213, 213]
 ```
 
-2026-10-23 165 → 2026-11-25 213（+48）
+2026-10-24 165 → 2026-11-26 213（+48）
 
 
 ---

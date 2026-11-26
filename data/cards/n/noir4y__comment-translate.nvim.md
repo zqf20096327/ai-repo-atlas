@@ -1,6 +1,6 @@
 # noir4y/comment-translate.nvim
 
-⭐ 21 · Lua · MIT · 推送 2026-11-08 · [GitHub](https://github.com/noir4y/comment-translate.nvim) · 个人维护
+⭐ 21 · Lua · MIT · 推送 2026-11-25 · [GitHub](https://github.com/noir4y/comment-translate.nvim) · 个人维护
 
 **Neovim 注释与字符串翻译插件，支持本地 LLM**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "noir4y/comment-translate.nvim 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-26"]
     y-axis "stars" 19 --> 22
     line [20, 21, 21]
 ```
 
-2026-10-23 20 → 2026-11-25 21（+1）
+2026-10-24 20 → 2026-11-26 21（+1）
 
 
 ---

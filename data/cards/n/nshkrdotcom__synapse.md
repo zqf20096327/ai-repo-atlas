@@ -1,6 +1,6 @@
 # nshkrdotcom/synapse
 
-⭐ 50 · Elixir · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nshkrdotcom/synapse) · [官网](https://github.com/nshkrdotcom/synapse) · 组织维护
+⭐ 51 · Elixir · MIT · 推送 2026-09-30 · [GitHub](https://github.com/nshkrdotcom/synapse) · [官网](https://github.com/nshkrdotcom/synapse) · 组织维护
 
 **Elixir 声明式多 agent 编排框架，含信号总线与工作流引擎**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nshkrdotcom/synapse 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 49 --> 51
-    line [50, 50]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 49 --> 52
+    line [50, 51]
 ```
 
-2026-10-23 50 → 2026-11-25 50（+0）
+2026-10-24 50 → 2026-11-26 51（+1）
 
 
 ---

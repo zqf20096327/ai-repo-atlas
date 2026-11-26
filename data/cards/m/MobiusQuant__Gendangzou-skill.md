@@ -1,6 +1,6 @@
 # MobiusQuant/Gendangzou-skill
 
-⭐ 309 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/MobiusQuant/Gendangzou-skill) · [官网](https://gendangzou.mobiusquant.ai) · 组织维护 · 中文 README
+⭐ 310 · Python · Apache-2.0 · 推送 2026-07-28 · [GitHub](https://github.com/MobiusQuant/Gendangzou-skill) · [官网](https://gendangzou.mobiusquant.ai) · 组织维护 · 中文 README
 
 **给 AI Agent 的可溯源 A 股板块研究 Skill 与 API 基座**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "MobiusQuant/Gendangzou-skill 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-31", "2026-11-25"]
-    y-axis "stars" 307 --> 310
-    line [309, 308, 309, 309]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-31", "2026-11-26"]
+    y-axis "stars" 307 --> 311
+    line [309, 308, 309, 310]
 ```
 
-2026-10-23 309 → 2026-11-25 309（+0）
+2026-10-24 309 → 2026-11-26 310（+1）
 
 
 ---

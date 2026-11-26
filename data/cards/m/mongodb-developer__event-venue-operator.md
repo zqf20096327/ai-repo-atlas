@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mongodb-developer/event-venue-operator 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 75 --> 77
     line [76, 76]
 ```
 
-2026-10-23 76 → 2026-11-25 76（+0）
+2026-10-24 76 → 2026-11-26 76（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # GUntilB/Anima-Prompt-Generator
 
-⭐ 14 · Python · GPL-3.0 · 推送 2026-11-08 · [GitHub](https://github.com/GUntilB/Anima-Prompt-Generator) · [官网](https://registry.comfy.org/nodes/anima-prompt-generator) · 个人维护
+⭐ 14 · Python · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/GUntilB/Anima-Prompt-Generator) · [官网](https://registry.comfy.org/nodes/anima-prompt-generator) · 个人维护
 
 **给 ComfyUI 用户把简短创意转成经校验的 Anima Danbooru 标签提示词**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "GUntilB/Anima-Prompt-Generator 星数(近 4 点)"
-    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-10", "2026-11-13", "2026-11-26"]
     y-axis "stars" 9 --> 15
     line [10, 13, 14, 14]
 ```
 
-2026-11-08 10 → 2026-11-25 14（+4）
+2026-11-08 10 → 2026-11-26 14（+4）
 
 
 ---

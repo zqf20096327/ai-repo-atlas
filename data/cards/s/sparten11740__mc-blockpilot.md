@@ -1,6 +1,6 @@
 # sparten11740/mc-blockpilot
 
-⭐ 3 · Java · Apache-2.0 · 推送 2026-11-22 · [GitHub](https://github.com/sparten11740/mc-blockpilot) · [官网](https://www.curseforge.com/minecraft/mc-mods/blockpilot) · 个人维护
+⭐ 3 · Java · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/sparten11740/mc-blockpilot) · [官网](https://www.curseforge.com/minecraft/mc-mods/blockpilot) · 个人维护
 
 **让 AI agent 通过 MCP 接口查看和操作 Minecraft 的 mod**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "sparten11740/mc-blockpilot 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-23 3 → 2026-11-25 3（+0）
+2026-11-23 3 → 2026-11-26 3（+0）
 
 
 ---

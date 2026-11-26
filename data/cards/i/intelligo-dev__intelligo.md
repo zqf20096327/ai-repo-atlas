@@ -1,6 +1,6 @@
 # intelligo-dev/intelligo
 
-⭐ 433 · TypeScript · Apache-2.0 · 推送 2026-11-18 · [GitHub](https://github.com/intelligo-dev/intelligo) · [官网](https://intelligo.dev) · 组织维护
+⭐ 433 · TypeScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/intelligo-dev/intelligo) · [官网](https://intelligo.dev) · 组织维护
 
 **为垂直 AI SaaS 提供鉴权、计费、执行边界等应用层框架**
 
@@ -47,12 +47,12 @@ Intelligo 自述为垂直 AI SaaS 的应用框架，补齐 agent 之外的部分
 ```mermaid
 xychart-beta
     title "intelligo-dev/intelligo 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-11", "2026-11-26"]
     y-axis "stars" 430 --> 434
     line [432, 431, 432, 433, 433]
 ```
 
-2026-10-23 432 → 2026-11-25 433（+1）
+2026-10-24 432 → 2026-11-26 433（+1）
 
 
 ---

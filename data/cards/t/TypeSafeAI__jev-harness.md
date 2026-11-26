@@ -1,6 +1,6 @@
 # TypeSafeAI/jev-harness
 
-⭐ 41 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TypeSafeAI/jev-harness) · [官网](https://jev.guru) · 个人维护
+⭐ 42 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/TypeSafeAI/jev-harness) · [官网](https://jev.guru) · 个人维护
 
 **LLM 编码提案的审查决策框架：证据留痕、代码裁决**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "TypeSafeAI/jev-harness 星数(近 9 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25"]
-    y-axis "stars" 32 --> 42
-    line [33, 34, 36, 37, 38, 34, 39, 40, 41]
+    title "TypeSafeAI/jev-harness 星数(近 10 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-28", "2026-10-31", "2026-11-01", "2026-11-06", "2026-11-08", "2026-11-19", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 32 --> 43
+    line [33, 34, 36, 37, 38, 34, 39, 40, 41, 42]
 ```
 
-2026-10-23 33 → 2026-11-25 41（+8）
+2026-10-24 33 → 2026-11-26 42（+9）
 
 
 ---

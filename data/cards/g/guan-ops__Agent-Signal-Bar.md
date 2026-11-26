@@ -1,6 +1,6 @@
 # guan-ops/Agent-Signal-Bar
 
-⭐ 71 · Swift · Apache-2.0 · 推送 2026-11-23 · [GitHub](https://github.com/guan-ops/Agent-Signal-Bar) · [官网](https://agentsignalbar.app) · 个人维护 · 中文 README
+⭐ 71 · Swift · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/guan-ops/Agent-Signal-Bar) · [官网](https://agentsignalbar.app) · 个人维护 · 中文 README
 
 **macOS 状态栏/桌面悬浮 AI Agent 信号灯，监控 Codex 与 Claude Code**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "guan-ops/Agent-Signal-Bar 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-11-11", "2026-11-19", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-11-11", "2026-11-19", "2026-11-26"]
     y-axis "stars" 69 --> 73
     line [70, 71, 72, 71, 71]
 ```
 
-2026-10-23 70 → 2026-11-25 71（+1）
+2026-10-24 70 → 2026-11-26 71（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # seaworld008/Commonly-used-high-value-skills
 
-⭐ 74 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/seaworld008/Commonly-used-high-value-skills) · 个人维护 · 中文 README
+⭐ 75 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/seaworld008/Commonly-used-high-value-skills) · 个人维护 · 中文 README
 
 **面向 AI 开发者的多客户端 Agent Skills 技能库（16 类 294 个）**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "seaworld008/Commonly-used-high-value-skills 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 72 --> 75
-    line [73, 74, 73, 74, 74]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-15", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 72 --> 76
+    line [73, 74, 73, 74, 75]
 ```
 
-2026-10-23 73 → 2026-11-25 74（+1）
+2026-10-24 73 → 2026-11-26 75（+2）
 
 
 ---

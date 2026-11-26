@@ -1,6 +1,6 @@
 # XiaomingX/awesome-ai-memory
 
-⭐ 196 · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/XiaomingX/awesome-ai-memory) · [官网](https://x.com/seclink) · 个人维护 · 中文 README
+⭐ 197 · Apache-2.0 · 推送 2026-10-06 · [GitHub](https://github.com/XiaomingX/awesome-ai-memory) · [官网](https://x.com/seclink) · 个人维护 · 中文 README
 
 **LLM 长期记忆项目与论文的中文精选清单**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "XiaomingX/awesome-ai-memory 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-25"]
-    y-axis "stars" 191 --> 197
-    line [192, 193, 194, 192, 195, 196, 196]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-15", "2026-11-26"]
+    y-axis "stars" 191 --> 198
+    line [192, 193, 194, 192, 195, 196, 197]
 ```
 
-2026-10-23 192 → 2026-11-25 196（+4）
+2026-10-24 192 → 2026-11-26 197（+5）
 
 
 ---

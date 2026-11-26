@@ -1,6 +1,6 @@
 # CNZHM666/ChatAtlas
 
-⭐ 3 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/CNZHM666/ChatAtlas) · [官网](https://github.com/CNZHM666/ChatAtlas/releases/latest) · 个人维护 · 中文 README
+⭐ 4 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CNZHM666/ChatAtlas) · [官网](https://github.com/CNZHM666/ChatAtlas/releases/latest) · 个人维护 · 中文 README
 
 **把多平台 AI 对话整理成可溯源交接 wiki 的 Chrome 扩展**
 
@@ -40,6 +40,18 @@
 > L13:  A local-first Chrome extension. Connect your own model API to generate a wiki, then export the Markdown you need f
 > L16: > **Alpha · Chrome / Edge.** Local reading, keyword search, and export require no AI key. Wiki generation uses your
 > L23: - **Local-first, with AI on demand.** Conversations, the ledger, and the wiki are stored in your browser's IndexedD
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "CNZHM666/ChatAtlas 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 5
+    line [3, 4]
+```
+
+2026-11-25 3 → 2026-11-26 4（+1）
 
 
 ---

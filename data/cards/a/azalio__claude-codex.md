@@ -1,6 +1,6 @@
 # azalio/claude-codex
 
-⭐ 10 · Python · 推送 2026-11-19 · [GitHub](https://github.com/azalio/claude-codex) · 个人维护
+⭐ 10 · Python · 推送 2026-11-25 · [GitHub](https://github.com/azalio/claude-codex) · 个人维护
 
 **让 Claude Code CLI 通过 ChatGPT 订阅使用 Codex 后端的桥接工具**
 
@@ -39,6 +39,18 @@
 > L8: skills, hooks, MCP servers, and tools. `claude-codex` connects it to the Codex
 > L54: Claude Code → local claude-codex bridge → ChatGPT Codex backend
 > L57: The launcher starts a local proxy, translates Anthropic Messages and streaming
+
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "azalio/claude-codex 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 9 --> 11
+    line [10, 10]
+```
+
+2026-11-25 10 → 2026-11-26 10（+0）
 
 
 ---

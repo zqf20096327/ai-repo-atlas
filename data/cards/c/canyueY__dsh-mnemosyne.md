@@ -1,6 +1,6 @@
 # canyueY/dsh-mnemosyne
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/canyueY/dsh-mnemosyne) · [官网](https://github.com/canyueY/dsh-mnemosyne) · 个人维护 · 中文 README
+⭐ 22 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/canyueY/dsh-mnemosyne) · [官网](https://github.com/canyueY/dsh-mnemosyne) · 个人维护 · 中文 README
 
 **面向 AI Agent 的模块化记忆与认知基础设施（含 DSH 插件适配层）**
 
@@ -46,12 +46,12 @@ Mnemosyne 2.0 是面向 AI Agent 的记忆基础设施：以独立运行的 Mnem
 ```mermaid
 xychart-beta
     title "canyueY/dsh-mnemosyne 星数(近 9 点)"
-    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 5 --> 22
-    line [6, 8, 18, 19, 20, 19, 20, 21, 21]
+    x-axis ["2026-11-01", "2026-11-02", "2026-11-08", "2026-11-12", "2026-11-14", "2026-11-15", "2026-11-16", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 5 --> 23
+    line [6, 8, 18, 19, 20, 19, 20, 21, 22]
 ```
 
-2026-11-01 6 → 2026-11-25 21（+15）
+2026-11-01 6 → 2026-11-26 22（+16）
 
 
 ---

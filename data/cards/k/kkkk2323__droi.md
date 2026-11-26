@@ -1,6 +1,6 @@
 # kkkk2323/droi
 
-⭐ 14 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kkkk2323/droi) · [官网](https://github.com/kkkk2323/droi/releases/latest) · 个人维护
+⭐ 15 · Go · MIT · 推送 2026-11-20 · [GitHub](https://github.com/kkkk2323/droi) · [官网](https://github.com/kkkk2323/droi/releases/latest) · 个人维护
 
 **Factory Droid 编码代理的 Mac/Windows/iPhone 原生客户端**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "kkkk2323/droi 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-25"]
-    y-axis "stars" 10 --> 15
-    line [11, 12, 13, 12, 13, 14, 14]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-26"]
+    y-axis "stars" 10 --> 16
+    line [11, 12, 13, 12, 13, 14, 15]
 ```
 
-2026-10-23 11 → 2026-11-25 14（+3）
+2026-10-24 11 → 2026-11-26 15（+4）
 
 
 ---

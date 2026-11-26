@@ -1,6 +1,6 @@
 # OshriFatkiev/ollama-cloud-free-tier
 
-⭐ 14 · Python · MIT · 推送 2026-10-22 · [GitHub](https://github.com/OshriFatkiev/ollama-cloud-free-tier) · 个人维护
+⭐ 14 · Python · MIT · 推送 2026-11-24 · [GitHub](https://github.com/OshriFatkiev/ollama-cloud-free-tier) · 个人维护
 
 **追踪 Ollama Cloud 模型在免费层可用性的探测清单**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "OshriFatkiev/ollama-cloud-free-tier 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-26"]
     y-axis "stars" 10 --> 15
     line [11, 12, 13, 14, 12, 14, 14]
 ```
 
-2026-10-23 11 → 2026-11-25 14（+3）
+2026-10-24 11 → 2026-11-26 14（+3）
 
 
 ---

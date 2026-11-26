@@ -1,6 +1,6 @@
 # mmargenot/tezcat
 
-⭐ 21 · TypeScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/mmargenot/tezcat) · 个人维护
+⭐ 23 · TypeScript · GPL-3.0 · 推送 2026-11-15 · [GitHub](https://github.com/mmargenot/tezcat) · 个人维护
 
 **Obsidian 插件：用 AI 嵌入索引笔记库并联想式检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "mmargenot/tezcat 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 24
+    line [21, 23]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 23（+2）
 
 
 ---

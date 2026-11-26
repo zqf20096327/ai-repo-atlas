@@ -1,6 +1,6 @@
 # cap-js/mcp
 
-⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/cap-js/mcp) · 组织维护
+⭐ 22 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/cap-js/mcp) · 组织维护
 
 **将 CAP 服务通过 MCP 协议暴露给 AI agent 的适配器插件**
 
@@ -45,12 +45,12 @@ SAP CAP（Cloud Application Programming Model）的协议适配器插件，把 C
 ```mermaid
 xychart-beta
     title "cap-js/mcp 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-26"]
     y-axis "stars" 20 --> 23
     line [21, 22, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 22（+1）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

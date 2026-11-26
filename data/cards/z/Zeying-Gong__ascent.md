@@ -1,6 +1,6 @@
 # Zeying-Gong/ascent
 
-⭐ 160 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/Zeying-Gong/ascent) · [官网](https://zeying-gong.github.io/projects/ascent/) · 组织维护
+⭐ 161 · Python · MIT · 推送 2026-01-11 · [GitHub](https://github.com/Zeying-Gong/ascent) · [官网](https://zeying-gong.github.io/projects/ascent/) · 组织维护
 
 **零样本多层目标导航框架：LLM 驱动的楼层感知粗到细探索**
 
@@ -45,12 +45,12 @@ ASCENT 是 RAL'26 论文的官方代码实现，做零样本物体目标导航�
 ```mermaid
 xychart-beta
     title "Zeying-Gong/ascent 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 155 --> 161
-    line [156, 157, 156, 158, 160, 160]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 155 --> 162
+    line [156, 157, 156, 158, 160, 161]
 ```
 
-2026-10-23 156 → 2026-11-25 160（+4）
+2026-10-24 156 → 2026-11-26 161（+5）
 
 
 ---

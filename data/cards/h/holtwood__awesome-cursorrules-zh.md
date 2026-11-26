@@ -1,6 +1,6 @@
 # holtwood/awesome-cursorrules-zh
 
-⭐ 243 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/holtwood/awesome-cursorrules-zh) · [官网](https://holtwood.github.io/awesome-cursorrules-zh/) · 个人维护 · 中文 README
+⭐ 244 · JavaScript · MIT · 推送 2026-10-19 · [GitHub](https://github.com/holtwood/awesome-cursorrules-zh) · [官网](https://holtwood.github.io/awesome-cursorrules-zh/) · 个人维护 · 中文 README
 
 **中文开发者的 Cursor AI 编程规则精选集（132 条）**
 
@@ -44,12 +44,12 @@ Awesome Cursor Rules 的中文本地化版本，收录 132 个 .cursorrules 规�
 ```mermaid
 xychart-beta
     title "holtwood/awesome-cursorrules-zh 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 238 --> 244
-    line [239, 240, 239, 241, 242, 243, 243]
+    x-axis ["2026-10-24", "2026-10-26", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 238 --> 245
+    line [239, 240, 239, 241, 242, 243, 244]
 ```
 
-2026-10-23 239 → 2026-11-25 243（+4）
+2026-10-24 239 → 2026-11-26 244（+5）
 
 
 ---

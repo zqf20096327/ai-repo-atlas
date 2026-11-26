@@ -41,6 +41,18 @@
 > L6: **LONI Image & Data Archive (IDA)**, written for machine-learning and deep-learning researchers who have never used
 > L52: ## Using an AI agent as your guide (optional)
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "GabrieleLozupone/adni-download-guide 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `c44890773c0b` · [字段定义](../../DATASET.md)*

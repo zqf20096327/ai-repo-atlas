@@ -1,6 +1,6 @@
 # goadesign/goa-ai
 
-⭐ 14 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/goadesign/goa-ai) · [官网](https://goa.design/docs/2-goa-ai/) · 组织维护
+⭐ 14 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/goadesign/goa-ai) · [官网](https://goa.design/docs/2-goa-ai/) · 组织维护
 
 **Go 语言设计优先的 AI agent/MCP 框架：声明式生成类型化运行时**
 
@@ -47,12 +47,12 @@ Goa DSL 的 AI 扩展：在 Go 设计文件中声明 agent、工具、MCP 客户
 ```mermaid
 xychart-beta
     title "goadesign/goa-ai 星数(近 6 点)"
-    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-13", "2026-11-26"]
     y-axis "stars" 9 --> 15
     line [10, 11, 10, 13, 14, 14]
 ```
 
-2026-10-24 10 → 2026-11-25 14（+4）
+2026-10-24 10 → 2026-11-26 14（+4）
 
 
 ---

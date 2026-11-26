@@ -1,6 +1,6 @@
 # openreachtech/hora-core
 
-⭐ 56 · JavaScript · Apache-2.0 · 推送 2026-11-17 · [GitHub](https://github.com/openreachtech/hora-core) · [官网](https://openreach.tech/#hora) · 组织维护
+⭐ 56 · JavaScript · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/openreachtech/hora-core) · [官网](https://openreach.tech/#hora) · 组织维护
 
 **向 Claude Code 等 agent 工具投放技能与子代理定义的 npm 载具包**
 
@@ -45,12 +45,12 @@ Hora Kit 的核心模块容器：携带 agents 与 skills 定义（kit/ 目录�
 ```mermaid
 xychart-beta
     title "openreachtech/hora-core 星数(近 2 点)"
-    x-axis ["2026-11-08", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-26"]
     y-axis "stars" 55 --> 57
     line [56, 56]
 ```
 
-2026-11-08 56 → 2026-11-25 56（+0）
+2026-11-08 56 → 2026-11-26 56（+0）
 
 
 ---

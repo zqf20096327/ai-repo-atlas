@@ -1,6 +1,6 @@
 # uhobnil/markitdown-rs
 
-⭐ 76 · Rust · MIT · 推送 2026-04-22 · [GitHub](https://github.com/uhobnil/markitdown-rs) · 个人维护
+⭐ 77 · Rust · MIT · 推送 2026-04-22 · [GitHub](https://github.com/uhobnil/markitdown-rs) · 个人维护
 
 **Rust 文档转 Markdown 库：多格式文件转 Markdown 供后续处理**
 
@@ -45,12 +45,12 @@ markitdown Python 库的 Rust 实现，将 xlsx、docx、PowerPoint、PDF、图�
 ```mermaid
 xychart-beta
     title "uhobnil/markitdown-rs 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 75 --> 77
-    line [76, 76]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 75 --> 78
+    line [76, 77]
 ```
 
-2026-10-23 76 → 2026-11-25 76（+0）
+2026-10-24 76 → 2026-11-26 77（+1）
 
 
 ---

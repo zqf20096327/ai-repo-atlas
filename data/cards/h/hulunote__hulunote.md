@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "hulunote/hulunote 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-25"]
-    y-axis "stars" 83 --> 86
-    line [85, 84, 84]
+    title "hulunote/hulunote 星数(近 2 点)"
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 83 --> 85
+    line [84, 84]
 ```
 
-2026-10-23 85 → 2026-11-25 84（-1）
+2026-10-24 84 → 2026-11-26 84（+0）
 
 
 ---

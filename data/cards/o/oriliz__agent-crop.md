@@ -1,6 +1,6 @@
 # oriliz/agent-crop
 
-⭐ 290 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oriliz/agent-crop) · 个人维护 · 中文 README
+⭐ 326 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/oriliz/agent-crop) · 个人维护 · 中文 README
 
 **给 AI 编程助手做本地时间观测与复盘改进的插件工具**
 
@@ -45,13 +45,13 @@ Agent Crop 以 DSH/Claude Code/Codex 插件形式运行，通过探针在会话�
 
 ```mermaid
 xychart-beta
-    title "oriliz/agent-crop 星数(近 7 点)"
-    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 0 --> 317
-    line [18, 61, 94, 171, 187, 237, 290]
+    title "oriliz/agent-crop 星数(近 8 点)"
+    x-axis ["2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 0 --> 356
+    line [18, 61, 94, 171, 187, 237, 290, 326]
 ```
 
-2026-11-18 18 → 2026-11-25 290（+272）
+2026-11-18 18 → 2026-11-26 326（+308）
 
 
 ---

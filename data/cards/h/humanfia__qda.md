@@ -1,6 +1,6 @@
 # humanfia/qda
 
-⭐ 21 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/humanfia/qda) · 组织维护
+⭐ 47 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/humanfia/qda) · 组织维护
 
 **让编码 Agent 为 LLM 设计量化配方并产出可部署检查点**
 
@@ -45,13 +45,13 @@ QDA 是一个 LLM 量化系统：编码 Agent 为每个模型与精度提出量�
 
 ```mermaid
 xychart-beta
-    title "humanfia/qda 星数(近 4 点)"
-    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 12 --> 22
-    line [13, 15, 17, 21]
+    title "humanfia/qda 星数(近 5 点)"
+    x-axis ["2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 50
+    line [13, 15, 17, 21, 47]
 ```
 
-2026-11-21 13 → 2026-11-25 21（+8）
+2026-11-21 13 → 2026-11-26 47（+34）
 
 
 ---

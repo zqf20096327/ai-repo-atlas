@@ -1,6 +1,6 @@
 # haoyu8717-ship-it/muse-local-agent
 
-⭐ 4 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/haoyu8717-ship-it/muse-local-agent) · 个人维护
+⭐ 5 · Shell · MIT · 推送 2026-11-19 · [GitHub](https://github.com/haoyu8717-ship-it/muse-local-agent) · 个人维护
 
 **让 Muse AI 代理把 Windows PC、Linux 云 VM 和 Android 手机当一套系统操作的技能配方**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "haoyu8717-ship-it/muse-local-agent 星数(近 3 点)"
-    x-axis ["2026-11-20", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 2 --> 5
-    line [3, 4, 4]
+    x-axis ["2026-11-20", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 2 --> 6
+    line [3, 4, 5]
 ```
 
-2026-11-20 3 → 2026-11-25 4（+1）
+2026-11-20 3 → 2026-11-26 5（+2）
 
 
 ---

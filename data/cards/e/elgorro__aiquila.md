@@ -1,6 +1,6 @@
 # elgorro/aiquila
 
-⭐ 41 · PHP · MIT · 推送 2026-11-22 · [GitHub](https://github.com/elgorro/aiquila) · 个人维护
+⭐ 41 · PHP · MIT · 推送 2026-11-25 · [GitHub](https://github.com/elgorro/aiquila) · 个人维护
 
 **自托管 Nextcloud 的私有 AI 套件：MCP 服务、原生应用与一键部署**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "elgorro/aiquila 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-15", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-15", "2026-11-26"]
     y-axis "stars" 38 --> 42
     line [39, 40, 41, 41]
 ```
 
-2026-10-23 39 → 2026-11-25 41（+2）
+2026-10-24 39 → 2026-11-26 41（+2）
 
 
 ---

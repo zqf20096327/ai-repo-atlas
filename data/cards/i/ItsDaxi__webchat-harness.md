@@ -1,6 +1,6 @@
 # ItsDaxi/webchat-harness
 
-⭐ 18 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ItsDaxi/webchat-harness) · 个人维护
+⭐ 19 · JavaScript · MIT · 推送 2026-11-15 · [GitHub](https://github.com/ItsDaxi/webchat-harness) · 个人维护
 
 **让 DeepSeek/Qwen 网页聊天直接操作本机文件的浏览器扩展**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "ItsDaxi/webchat-harness 星数(近 5 点)"
-    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 13 --> 19
-    line [14, 15, 17, 18, 18]
+    x-axis ["2026-11-14", "2026-11-16", "2026-11-18", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 13 --> 20
+    line [14, 15, 17, 18, 19]
 ```
 
-2026-11-14 14 → 2026-11-25 18（+4）
+2026-11-14 14 → 2026-11-26 19（+5）
 
 
 ---

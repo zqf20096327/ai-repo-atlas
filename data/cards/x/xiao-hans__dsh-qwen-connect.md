@@ -1,6 +1,6 @@
 # xiao-hans/dsh-qwen-connect
 
-⭐ 3 · JavaScript · MIT · 推送 2026-11-18 · [GitHub](https://github.com/xiao-hans/dsh-qwen-connect) · [官网](https://gitee.com/han-xiaos-whisper/dsh-qwen-connect) · 个人维护 · 中文 README
+⭐ 3 · JavaScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/xiao-hans/dsh-qwen-connect) · [官网](https://gitee.com/han-xiaos-whisper/dsh-qwen-connect) · 个人维护 · 中文 README
 
 **把千问办公桌面登录态接入 DSH 的模型 Provider 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "xiao-hans/dsh-qwen-connect 星数(近 2 点)"
-    x-axis ["2026-11-21", "2026-11-25"]
+    x-axis ["2026-11-21", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-21 3 → 2026-11-25 3（+0）
+2026-11-21 3 → 2026-11-26 3（+0）
 
 
 ---

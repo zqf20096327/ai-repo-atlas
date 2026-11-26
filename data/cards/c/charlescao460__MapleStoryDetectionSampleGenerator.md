@@ -1,6 +1,6 @@
 # charlescao460/MapleStoryDetectionSampleGenerator
 
-⭐ 54 · C# · MIT · 推送 2026-06-26 · [GitHub](https://github.com/charlescao460/MapleStoryDetectionSampleGenerator) · 个人维护
+⭐ 55 · C# · MIT · 推送 2026-06-26 · [GitHub](https://github.com/charlescao460/MapleStoryDetectionSampleGenerator) · 个人维护
 
 **为冒险岛生成目标检测训练样本的工具（COCO/TFRecord/Darknet）**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "charlescao460/MapleStoryDetectionSampleGenerator 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 50 --> 55
-    line [52, 51, 52, 53, 54, 54]
+    x-axis ["2026-10-24", "2026-10-27", "2026-11-06", "2026-11-10", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 50 --> 56
+    line [52, 51, 52, 53, 54, 55]
 ```
 
-2026-10-23 52 → 2026-11-25 54（+2）
+2026-10-24 52 → 2026-11-26 55（+3）
 
 
 ---

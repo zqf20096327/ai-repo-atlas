@@ -1,6 +1,6 @@
 # TokenSpender/ComfyUI-Sidebar-Gallery
 
-⭐ 48 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery) · 个人维护
+⭐ 49 · JavaScript · MIT · 推送 2026-10-10 · [GitHub](https://github.com/TokenSpender/ComfyUI-Sidebar-Gallery) · 个人维护
 
 **ComfyUI 侧边栏媒体画廊：索引产物并读取生成元数据**
 
@@ -44,13 +44,13 @@ ComfyUI 扩展，在侧边栏添加媒体浏览器：索引 output 及自选文�
 
 ```mermaid
 xychart-beta
-    title "TokenSpender/ComfyUI-Sidebar-Gallery 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 44 --> 49
-    line [45, 48, 45, 46, 47, 48]
+    title "TokenSpender/ComfyUI-Sidebar-Gallery 星数(近 7 点)"
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 44 --> 50
+    line [45, 48, 45, 46, 47, 48, 49]
 ```
 
-2026-10-23 45 → 2026-11-25 48（+3）
+2026-10-24 45 → 2026-11-26 49（+4）
 
 
 ---

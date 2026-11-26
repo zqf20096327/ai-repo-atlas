@@ -1,6 +1,6 @@
 # shaqmughal/seekstone
 
-⭐ 36 · TypeScript · MIT · 推送 2026-11-24 · [GitHub](https://github.com/shaqmughal/seekstone) · [官网](https://seekstone.dev) · 个人维护
+⭐ 38 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/shaqmughal/seekstone) · [官网](https://seekstone.dev) · 个人维护
 
 **直读 Obsidian 库的 MCP 服务器：为 AI 客户端提供毫秒级笔记检索**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "shaqmughal/seekstone 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 33 --> 37
-    line [34, 35, 36, 36]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 33 --> 39
+    line [34, 35, 36, 38]
 ```
 
-2026-10-23 34 → 2026-11-25 36（+2）
+2026-10-24 34 → 2026-11-26 38（+4）
 
 
 ---

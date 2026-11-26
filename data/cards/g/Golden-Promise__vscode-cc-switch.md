@@ -1,6 +1,6 @@
 # Golden-Promise/vscode-cc-switch
 
-⭐ 312 · MIT · 推送 2026-03-19 · [GitHub](https://github.com/Golden-Promise/vscode-cc-switch) · 个人维护 · 中文 README
+⭐ 313 · MIT · 推送 2026-03-19 · [GitHub](https://github.com/Golden-Promise/vscode-cc-switch) · 个人维护 · 中文 README
 
 **图文教程：用 VS Code + cc-Switch 让 Claude Code 调第三方模型 API**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Golden-Promise/vscode-cc-switch 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-25"]
-    y-axis "stars" 305 --> 313
-    line [306, 307, 308, 307, 309, 311, 312, 312]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-30", "2026-11-01", "2026-11-08", "2026-11-10", "2026-11-18", "2026-11-26"]
+    y-axis "stars" 305 --> 314
+    line [306, 307, 308, 307, 309, 311, 312, 313]
 ```
 
-2026-10-23 306 → 2026-11-25 312（+6）
+2026-10-24 306 → 2026-11-26 313（+7）
 
 
 ---

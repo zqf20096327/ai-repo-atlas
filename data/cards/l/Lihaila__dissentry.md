@@ -40,6 +40,18 @@
 > L21: Dissentry is an X-style timeline for AI models. You `@mention` a model to ask it something, and the other models yo
 > L51: **Hosted:** open **https://dissentry.lihaila.com**, click *Sign in with OpenRouter* (or add a model with your API k
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "Lihaila/dissentry 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 4 --> 6
+    line [5, 5]
+```
+
+2026-11-25 5 → 2026-11-26 5（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-25 · 置信度 high · 依据 README sha `9a31a08f124f` · [字段定义](../../DATASET.md)*

@@ -1,6 +1,6 @@
 # next-token-tv/next-token-skill
 
-⭐ 62 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/next-token-tv/next-token-skill) · [官网](https://nexttoken.tv) · 组织维护 · 中文 README
+⭐ 63 · Python · Apache-2.0 · 推送 2026-11-12 · [GitHub](https://github.com/next-token-tv/next-token-skill) · [官网](https://nexttoken.tv) · 组织维护 · 中文 README
 
 **让 AI Agent 检索 Next Token 播客逐字稿并附时间戳链接的 Skill**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "next-token-tv/next-token-skill 星数(近 9 点)"
-    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-25"]
-    y-axis "stars" 21 --> 65
-    line [24, 26, 51, 56, 57, 59, 60, 62, 62]
+    x-axis ["2026-11-14", "2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-26"]
+    y-axis "stars" 21 --> 66
+    line [24, 26, 51, 56, 57, 59, 60, 62, 63]
 ```
 
-2026-11-14 24 → 2026-11-25 62（+38）
+2026-11-14 24 → 2026-11-26 63（+39）
 
 
 ---

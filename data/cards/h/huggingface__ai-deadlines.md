@@ -1,6 +1,6 @@
 # huggingface/ai-deadlines
 
-⭐ 351 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/ai-deadlines) · [官网](https://huggingface.co/spaces/huggingface/ai-deadlines) · 组织维护
+⭐ 352 · TypeScript · MIT · 推送 2026-09-23 · [GitHub](https://github.com/huggingface/ai-deadlines) · [官网](https://huggingface.co/spaces/huggingface/ai-deadlines) · 组织维护
 
 **面向科研人员的 AI 顶会投稿截止日期倒计时网页应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "huggingface/ai-deadlines 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-31", "2026-11-02", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-31", "2026-11-02", "2026-11-26"]
     y-axis "stars" 350 --> 353
-    line [351, 352, 351, 351]
+    line [351, 352, 351, 352]
 ```
 
-2026-10-23 351 → 2026-11-25 351（+0）
+2026-10-24 351 → 2026-11-26 352（+1）
 
 
 ---

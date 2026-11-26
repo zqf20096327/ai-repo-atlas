@@ -1,6 +1,6 @@
 # adonaiongaia/Studio-for-Janas
 
-⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/adonaiongaia/Studio-for-Janas) · 个人维护
+⭐ 5 · Rust · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/adonaiongaia/Studio-for-Janas) · 个人维护
 
 **面向小型硬件的本地桌面 LLM 工作室，双引擎驱动推理与 Agent**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "adonaiongaia/Studio-for-Janas 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    title "adonaiongaia/Studio-for-Janas 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 3 --> 6
-    line [4, 5]
+    line [4, 5, 5]
 ```
 
-2026-11-23 4 → 2026-11-25 5（+1）
+2026-11-23 4 → 2026-11-26 5（+1）
 
 
 ---

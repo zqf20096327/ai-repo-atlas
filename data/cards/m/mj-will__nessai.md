@@ -44,12 +44,12 @@ nessai 是一个将正规化流（normalising flows）引入嵌套采样的 Pyth
 ```mermaid
 xychart-beta
     title "mj-will/nessai 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 49 --> 51
     line [50, 50]
 ```
 
-2026-10-23 50 → 2026-11-25 50（+0）
+2026-10-24 50 → 2026-11-26 50（+0）
 
 
 ---

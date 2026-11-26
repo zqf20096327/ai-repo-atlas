@@ -1,6 +1,6 @@
 # Vinist123/zhuling
 
-⭐ 51 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Vinist123/zhuling) · [官网](https://blog.csdn.net/vinist/article/details/163280950) · 个人维护 · 中文 README
+⭐ 52 · Java · Apache-2.0 · 推送 2026-10-23 · [GitHub](https://github.com/Vinist123/zhuling) · [官网](https://blog.csdn.net/vinist/article/details/163280950) · 个人维护 · 中文 README
 
 **面向 Java 开发者的零配置 AI Agent 开发脚手架**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "Vinist123/zhuling 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-11", "2026-11-26"]
     y-axis "stars" 50 --> 53
-    line [51, 52, 51, 51]
+    line [51, 52, 51, 52]
 ```
 
-2026-10-23 51 → 2026-11-25 51（+0）
+2026-10-24 51 → 2026-11-26 52（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # P-YI/OnBud
 
-⭐ 13 · TypeScript · MIT · 推送 2026-11-17 · [GitHub](https://github.com/P-YI/OnBud) · 个人维护 · 中文 README
+⭐ 13 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/P-YI/OnBud) · 个人维护 · 中文 README
 
 **macOS 本地端侧 AI 启动器：用苹果内置模型检索与操作本机文件**
 
@@ -46,13 +46,13 @@
 
 ```mermaid
 xychart-beta
-    title "P-YI/OnBud 星数(近 2 点)"
-    x-axis ["2026-11-10", "2026-11-25"]
+    title "P-YI/OnBud 星数(近 3 点)"
+    x-axis ["2026-11-10", "2026-11-25", "2026-11-26"]
     y-axis "stars" 2 --> 14
-    line [3, 13]
+    line [3, 13, 13]
 ```
 
-2026-11-10 3 → 2026-11-25 13（+10）
+2026-11-10 3 → 2026-11-26 13（+10）
 
 
 ---

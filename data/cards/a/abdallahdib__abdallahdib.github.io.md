@@ -45,12 +45,12 @@ Abdallah Dib 的 GitHub Pages 个人网站，作者任职于 Ubisoft La Forge（
 ```mermaid
 xychart-beta
     title "abdallahdib/abdallahdib.github.io 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-11", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-11", "2026-11-26"]
     y-axis "stars" 28 --> 31
     line [30, 29, 29]
 ```
 
-2026-10-23 30 → 2026-11-25 29（-1）
+2026-10-24 30 → 2026-11-26 29（-1）
 
 
 ---

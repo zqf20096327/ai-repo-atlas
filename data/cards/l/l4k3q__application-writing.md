@@ -40,6 +40,18 @@
 > L7: 一个用于 Codex 的申请文书写作 skill，覆盖个人陈述（PS）、目的陈述（SOP）、推荐信材料（RL）、履历（CV / résumé）和暑研申请信。它从申请要求和申请人的真实经历出发，帮助调研、挖掘主线、规划结构、起草及修订
 > L57: 在 Codex 中调用 `$application-writing`，给出目标项目和你已有的材料；不需要先想好文书主线。例如：
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "l4k3q/application-writing 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 2 --> 4
+    line [3, 3]
+```
+
+2026-11-25 3 → 2026-11-26 3（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `96ba266780e4` · [字段定义](../../DATASET.md)*

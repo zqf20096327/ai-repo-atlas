@@ -1,6 +1,6 @@
 # novalo-dev/Prestashop-MCP-Server
 
-⭐ 3 · PHP · AFL-3.0 · 推送 2026-11-23 · [GitHub](https://github.com/novalo-dev/Prestashop-MCP-Server) · [官网](https://github.com/novalo-dev/Prestashop-MCP-Server/wiki) · 组织维护
+⭐ 3 · PHP · AFL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/novalo-dev/Prestashop-MCP-Server) · [官网](https://github.com/novalo-dev/Prestashop-MCP-Server/wiki) · 组织维护
 
 **把 PrestaShop 店铺变成 MCP 服务器的免费模块**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "novalo-dev/Prestashop-MCP-Server 星数(近 2 点)"
-    x-axis ["2026-11-15", "2026-11-25"]
+    x-axis ["2026-11-15", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-11-15 3 → 2026-11-25 3（+0）
+2026-11-15 3 → 2026-11-26 3（+0）
 
 
 ---

@@ -46,12 +46,12 @@ CodeAgent Mobile 的客户端源码仓库，包含三部分：npm 发布的 code
 ```mermaid
 xychart-beta
     title "CodeAgentMobile/codeagent-mobile-clients 星数(近 2 点)"
-    x-axis ["2026-11-14", "2026-11-25"]
+    x-axis ["2026-11-14", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-14 10 → 2026-11-25 10（+0）
+2026-11-14 10 → 2026-11-26 10（+0）
 
 
 ---

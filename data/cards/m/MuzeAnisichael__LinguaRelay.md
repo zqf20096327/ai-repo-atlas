@@ -1,6 +1,6 @@
 # MuzeAnisichael/LinguaRelay
 
-⭐ 27 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/MuzeAnisichael/LinguaRelay) · [官网](https://github.com/MuzeAnisichael/LinguaRelay/releases/latest) · 个人维护 · 中文 README
+⭐ 28 · Python · MIT · 推送 2026-10-06 · [GitHub](https://github.com/MuzeAnisichael/LinguaRelay) · [官网](https://github.com/MuzeAnisichael/LinguaRelay/releases/latest) · 个人维护 · 中文 README
 
 **Windows 实时系统音频翻译字幕工具，支持中日英韩 12 路线**
 
@@ -46,12 +46,12 @@ Windows 桌面应用：通过 WASAPI 捕获系统输出、指定进程或麦克�
 ```mermaid
 xychart-beta
     title "MuzeAnisichael/LinguaRelay 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 16 --> 28
-    line [17, 18, 17, 20, 22, 24, 25, 26, 27, 27]
+    x-axis ["2026-10-24", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-15", "2026-11-18", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 16 --> 29
+    line [17, 18, 17, 20, 22, 24, 25, 26, 27, 28]
 ```
 
-2026-10-23 17 → 2026-11-25 27（+10）
+2026-10-24 17 → 2026-11-26 28（+11）
 
 
 ---

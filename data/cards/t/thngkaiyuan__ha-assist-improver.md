@@ -1,6 +1,6 @@
 # thngkaiyuan/ha-assist-improver
 
-⭐ 4 · Python · Apache-2.0 · 推送 2026-11-19 · [GitHub](https://github.com/thngkaiyuan/ha-assist-improver) · 个人维护
+⭐ 4 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/thngkaiyuan/ha-assist-improver) · 个人维护
 
 **从 Assist 对话中学习并提议经测试的改进的 Home Assistant 集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "thngkaiyuan/ha-assist-improver 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 2 --> 5
     line [3, 4, 4]
 ```
 
-2026-11-08 3 → 2026-11-25 4（+1）
+2026-11-08 3 → 2026-11-26 4（+1）
 
 
 ---

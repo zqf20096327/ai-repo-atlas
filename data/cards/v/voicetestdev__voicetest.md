@@ -1,6 +1,6 @@
 # voicetestdev/voicetest
 
-⭐ 40 · Python · Apache-2.0 · 推送 2026-11-20 · [GitHub](https://github.com/voicetestdev/voicetest) · [官网](https://voicetest.dev) · 组织维护
+⭐ 40 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/voicetestdev/voicetest) · [官网](https://voicetest.dev) · 组织维护
 
 **语音 agent 工作流的开源测试工具**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "voicetestdev/voicetest 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-29", "2026-11-06", "2026-11-26"]
     y-axis "stars" 38 --> 42
     line [39, 40, 41, 40, 40]
 ```
 
-2026-10-23 39 → 2026-11-25 40（+1）
+2026-10-24 39 → 2026-11-26 40（+1）
 
 
 ---

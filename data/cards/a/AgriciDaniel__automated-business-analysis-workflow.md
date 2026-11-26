@@ -1,6 +1,6 @@
 # AgriciDaniel/automated-business-analysis-workflow
 
-⭐ 229 · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/automated-business-analysis-workflow) · [官网](https://www.skool.com/ai-marketing-hub) · 个人维护
+⭐ 230 · MIT · 推送 2026-04-10 · [GitHub](https://github.com/AgriciDaniel/automated-business-analysis-workflow) · [官网](https://www.skool.com/ai-marketing-hub) · 个人维护
 
 **输入网址自动生成商业分析报告的 n8n 工作流**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "AgriciDaniel/automated-business-analysis-workflow 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25"]
-    y-axis "stars" 221 --> 230
-    line [222, 224, 225, 226, 225, 224, 225, 226, 228, 229]
+    title "AgriciDaniel/automated-business-analysis-workflow 星数(近 11 点)"
+    x-axis ["2026-10-24", "2026-10-25", "2026-10-26", "2026-10-30", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-11", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 221 --> 231
+    line [222, 224, 225, 226, 225, 224, 225, 226, 228, 229, 230]
 ```
 
-2026-10-23 222 → 2026-11-25 229（+7）
+2026-10-24 222 → 2026-11-26 230（+8）
 
 
 ---

@@ -1,6 +1,6 @@
 # fedeya/wisp-ai
 
-⭐ 8 · TypeScript · GPL-3.0 · 推送 2026-11-24 · [GitHub](https://github.com/fedeya/wisp-ai) · [官网](https://wisp.fedeya.sh) · 个人维护
+⭐ 8 · TypeScript · GPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/fedeya/wisp-ai) · [官网](https://wisp.fedeya.sh) · 个人维护
 
 **魔兽世界游戏内 AI 助手：不离开游戏即可查询角色信息**
 
@@ -45,13 +45,13 @@
 
 ```mermaid
 xychart-beta
-    title "fedeya/wisp-ai 星数(近 2 点)"
-    x-axis ["2026-11-23", "2026-11-25"]
+    title "fedeya/wisp-ai 星数(近 3 点)"
+    x-axis ["2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 6 --> 9
-    line [7, 8]
+    line [7, 8, 8]
 ```
 
-2026-11-23 7 → 2026-11-25 8（+1）
+2026-11-23 7 → 2026-11-26 8（+1）
 
 
 ---

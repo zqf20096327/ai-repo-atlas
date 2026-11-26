@@ -44,12 +44,12 @@ Apple 研究团队发布的 ICML 2023 论文 UPSCALE 配套库：对训练后模
 ```mermaid
 xychart-beta
     title "apple-aiml-research/ml-upscale 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 73 --> 75
     line [74, 74]
 ```
 
-2026-10-23 74 → 2026-11-25 74（+0）
+2026-10-24 74 → 2026-11-26 74（+0）
 
 
 ---

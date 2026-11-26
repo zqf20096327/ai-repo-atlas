@@ -1,6 +1,6 @@
 # PhilipAD/health-export-mcp
 
-⭐ 11 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/PhilipAD/health-export-mcp) · [官网](https://www.healthexport.dev) · 个人维护
+⭐ 12 · JavaScript · MIT · 推送 2026-11-13 · [GitHub](https://github.com/PhilipAD/health-export-mcp) · [官网](https://www.healthexport.dev) · 个人维护
 
 **把 Apple Health 数据暴露给 AI agent 查询的本地 MCP 服务器**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PhilipAD/health-export-mcp 星数(近 3 点)"
-    x-axis ["2026-10-28", "2026-11-02", "2026-11-25"]
-    y-axis "stars" 9 --> 12
-    line [10, 11, 11]
+    x-axis ["2026-10-28", "2026-11-02", "2026-11-26"]
+    y-axis "stars" 9 --> 13
+    line [10, 11, 12]
 ```
 
-2026-10-28 10 → 2026-11-25 11（+1）
+2026-10-28 10 → 2026-11-26 12（+2）
 
 
 ---

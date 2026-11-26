@@ -1,6 +1,6 @@
 # openai/openai-sora-sample-app
 
-⭐ 85 · TypeScript · MIT · 推送 2025-12-16 · [GitHub](https://github.com/openai/openai-sora-sample-app) · 组织维护
+⭐ 84 · TypeScript · MIT · 推送 2025-12-16 · [GitHub](https://github.com/openai/openai-sora-sample-app) · 组织维护
 
 **基于 Sora Video API 的 NextJS 视频生成示例应用**
 
@@ -45,12 +45,12 @@ OpenAI 官方维护的 NextJS 示例应用，构建于 Sora Video API 与 OpenAI
 ```mermaid
 xychart-beta
     title "openai/openai-sora-sample-app 星数(近 10 点)"
-    x-axis ["2026-10-23", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-27", "2026-10-28", "2026-10-31", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-19", "2026-11-20", "2026-11-26"]
     y-axis "stars" 82 --> 86
-    line [83, 84, 85, 84, 83, 84, 85, 84, 85, 85]
+    line [83, 84, 85, 84, 83, 84, 85, 84, 85, 84]
 ```
 
-2026-10-23 83 → 2026-11-25 85（+2）
+2026-10-24 83 → 2026-11-26 84（+1）
 
 
 ---

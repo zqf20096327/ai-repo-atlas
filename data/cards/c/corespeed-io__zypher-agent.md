@@ -1,6 +1,6 @@
 # corespeed-io/zypher-agent
 
-⭐ 335 · TypeScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/corespeed-io/zypher-agent) · [官网](https://zypher.corespeed.io) · 组织维护
+⭐ 334 · TypeScript · Apache-2.0 · 推送 2026-07-30 · [GitHub](https://github.com/corespeed-io/zypher-agent) · [官网](https://zypher.corespeed.io) · 组织维护
 
 **面向开发者的 Deno/TypeScript AI agent 构建框架**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "corespeed-io/zypher-agent 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-10", "2026-11-22", "2026-11-23", "2026-11-25"]
+    title "corespeed-io/zypher-agent 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-10", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
     y-axis "stars" 330 --> 336
-    line [331, 332, 333, 334, 335]
+    line [331, 332, 333, 334, 335, 334]
 ```
 
-2026-10-23 331 → 2026-11-25 335（+4）
+2026-10-24 331 → 2026-11-26 334（+3）
 
 
 ---

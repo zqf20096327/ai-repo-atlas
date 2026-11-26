@@ -1,6 +1,6 @@
 # VeryGoodOpenSource/vgv-ai-flutter-plugin
 
-⭐ 180 · Shell · MIT · 推送 2026-11-21 · [GitHub](https://github.com/VeryGoodOpenSource/vgv-ai-flutter-plugin) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **给 Flutter/Dart 开发者的 Claude Code 最佳实践技能插件**
 
@@ -11,7 +11,7 @@ Very Good Ventures 开发的 Claude Code 插件：以技能（skills）、子代
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | MIT |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `None` |  |
 | 模型依赖 | locked-api |  |
 | 硬件要求 | — | 无带数字的原话,不猜 |

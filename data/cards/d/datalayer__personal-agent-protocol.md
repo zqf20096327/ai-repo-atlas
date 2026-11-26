@@ -1,6 +1,6 @@
 # datalayer/personal-agent-protocol
 
-⭐ 6 · Python · BSD-3-Clause · 推送 2026-11-21 · [GitHub](https://github.com/datalayer/personal-agent-protocol) · [官网](https://personal-agent-protocol.datalayer.tech) · 组织维护
+⭐ — · [GitHub]() · 组织维护
 
 **为个人 agent 接入公司 agent 的 PAP 协议 Python/TypeScript SDK**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-ecosystem` | LLM/agent 周边工具 |
-| 许可风险 | `permissive` | BSD-3-Clause |
+| 许可风险 | `permissive` | — |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |

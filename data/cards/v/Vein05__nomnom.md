@@ -1,6 +1,6 @@
 # Vein05/nomnom
 
-⭐ 18 · Go · MIT · 推送 2026-06-01 · [GitHub](https://github.com/Vein05/nomnom) · 个人维护
+⭐ 19 · Go · MIT · 推送 2026-06-01 · [GitHub](https://github.com/Vein05/nomnom) · 个人维护
 
 **用 AI 批量重命名与整理文件的桌面应用与 CLI**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Vein05/nomnom 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 17 --> 19
-    line [18, 18]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 17 --> 20
+    line [18, 19]
 ```
 
-2026-10-23 18 → 2026-11-25 18（+0）
+2026-10-24 18 → 2026-11-26 19（+1）
 
 
 ---

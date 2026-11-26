@@ -1,6 +1,6 @@
 # Parithosh-Varma/puter-pool
 
-⭐ 47 · TypeScript · EPL-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/Parithosh-Varma/puter-pool) · [官网](https://puterpool.pages.dev/) · 个人维护
+⭐ 48 · TypeScript · EPL-2.0 · 推送 2026-10-17 · [GitHub](https://github.com/Parithosh-Varma/puter-pool) · [官网](https://puterpool.pages.dev/) · 个人维护
 
 **汇聚多个 Puter 免费账户额度的本地 AI API 代理池**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "Parithosh-Varma/puter-pool 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-25"]
-    y-axis "stars" 36 --> 48
-    line [37, 39, 40, 37, 45, 46, 47, 47]
+    x-axis ["2026-10-24", "2026-10-29", "2026-10-30", "2026-11-06", "2026-11-08", "2026-11-11", "2026-11-20", "2026-11-26"]
+    y-axis "stars" 36 --> 49
+    line [37, 39, 40, 37, 45, 46, 47, 48]
 ```
 
-2026-10-23 37 → 2026-11-25 47（+10）
+2026-10-24 37 → 2026-11-26 48（+11）
 
 
 ---

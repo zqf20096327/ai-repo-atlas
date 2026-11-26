@@ -1,6 +1,6 @@
 # rfdiosuao/AgentSkill
 
-⭐ 16 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rfdiosuao/AgentSkill) · [官网](https://clawhub.ai/rfdiosuao) · 个人维护 · 中文 README
+⭐ 17 · JavaScript · MIT · 推送 2026-11-19 · [GitHub](https://github.com/rfdiosuao/AgentSkill) · [官网](https://clawhub.ai/rfdiosuao) · 个人维护 · 中文 README
 
 **面向 OpenClaw/Codex 的中文 Agent Skill 仓库与分发目录**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rfdiosuao/AgentSkill 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-25"]
-    y-axis "stars" 14 --> 17
-    line [16, 15, 16, 15, 16, 16]
+    x-axis ["2026-10-24", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-16", "2026-11-26"]
+    y-axis "stars" 14 --> 18
+    line [16, 15, 16, 15, 16, 17]
 ```
 
-2026-10-23 16 → 2026-11-25 16（+0）
+2026-10-24 16 → 2026-11-26 17（+1）
 
 
 ---

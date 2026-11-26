@@ -1,6 +1,6 @@
 # Shuijing725/CrowdNav_HEIGHT
 
-⭐ 121 · Python · MIT · 推送 2025-12-26 · [GitHub](https://github.com/Shuijing725/CrowdNav_HEIGHT) · [官网](https://sites.google.com/view/crowdnav-height/home) · 组织维护
+⭐ 122 · Python · MIT · 推送 2025-12-26 · [GitHub](https://github.com/Shuijing725/CrowdNav_HEIGHT) · [官网](https://sites.google.com/view/crowdnav-height/home) · 组织维护
 
 **拥挤受限环境中机器人导航的深度强化学习策略代码**
 
@@ -45,12 +45,12 @@ T-ASE 论文 HEIGHT 的官方代码：用异构时空图建模人-机器人-障�
 ```mermaid
 xychart-beta
     title "Shuijing725/CrowdNav_HEIGHT 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 120 --> 122
-    line [121, 121]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 120 --> 123
+    line [121, 122]
 ```
 
-2026-10-23 121 → 2026-11-25 121（+0）
+2026-10-24 121 → 2026-11-26 122（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # rekursiv-ai/sagent
 
-⭐ 84 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/rekursiv-ai/sagent) · [官网](https://rekursiv.ai) · 组织维护
+⭐ 84 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/rekursiv-ai/sagent) · [官网](https://rekursiv.ai) · 组织维护
 
 **多供应商编码 agent CLI 与强类型 Python 库**
 
@@ -44,12 +44,12 @@
 ```mermaid
 xychart-beta
     title "rekursiv-ai/sagent 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-26"]
     y-axis "stars" 82 --> 85
     line [83, 84, 83, 84, 84]
 ```
 
-2026-10-23 83 → 2026-11-25 84（+1）
+2026-10-24 83 → 2026-11-26 84（+1）
 
 
 ---

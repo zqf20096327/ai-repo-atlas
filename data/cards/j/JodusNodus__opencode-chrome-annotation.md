@@ -1,6 +1,6 @@
 # JodusNodus/opencode-chrome-annotation
 
-⭐ 81 · TypeScript · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/JodusNodus/opencode-chrome-annotation) · 个人维护
+⭐ 82 · TypeScript · GPL-3.0 · 推送 2026-04-30 · [GitHub](https://github.com/JodusNodus/opencode-chrome-annotation) · 个人维护
 
 **Chrome 标注插件：把截图、元素信息与指令发给 OpenCode**
 
@@ -43,13 +43,13 @@
 
 ```mermaid
 xychart-beta
-    title "JodusNodus/opencode-chrome-annotation 星数(近 4 点)"
-    x-axis ["2026-10-23", "2026-10-24", "2026-11-13", "2026-11-25"]
-    y-axis "stars" 78 --> 82
-    line [79, 80, 81, 81]
+    title "JodusNodus/opencode-chrome-annotation 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
+    y-axis "stars" 79 --> 83
+    line [80, 81, 82]
 ```
 
-2026-10-23 79 → 2026-11-25 81（+2）
+2026-10-24 80 → 2026-11-26 82（+2）
 
 
 ---

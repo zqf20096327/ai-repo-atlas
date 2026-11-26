@@ -47,12 +47,12 @@ contextgit 是本地优先、git 友好的 CLI 工具，在业务需求、系统
 ```mermaid
 xychart-beta
     title "Mohamedsaleh14/ContextGit 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-10-23 10 → 2026-11-25 10（+0）
+2026-10-24 10 → 2026-11-26 10（+0）
 
 
 ---

@@ -1,6 +1,6 @@
 # PirateforFreedom/luann
 
-⭐ 24 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/PirateforFreedom/luann) · 个人维护 · 中文 README
+⭐ 25 · Python · Apache-2.0 · 推送 2026-10-18 · [GitHub](https://github.com/PirateforFreedom/luann) · 个人维护 · 中文 README
 
 **构建与部署多类型 LLM agent 的开发框架与服务**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "PirateforFreedom/luann 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 23 --> 25
-    line [24, 24]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 23 --> 26
+    line [24, 25]
 ```
 
-2026-10-23 24 → 2026-11-25 24（+0）
+2026-10-24 24 → 2026-11-26 25（+1）
 
 
 ---

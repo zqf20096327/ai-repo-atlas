@@ -43,12 +43,12 @@ Newelle 1.0+ 的扩展，单个 Python 文件加载后为 Newelle 增加 ics 日
 ```mermaid
 xychart-beta
     title "FrancescoCaracciolo/Newelle-Calendar 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-13", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-13", "2026-11-26"]
     y-axis "stars" 22 --> 25
     line [23, 24, 24]
 ```
 
-2026-10-23 23 → 2026-11-25 24（+1）
+2026-10-24 23 → 2026-11-26 24（+1）
 
 
 ---

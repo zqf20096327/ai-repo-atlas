@@ -45,12 +45,12 @@ MicroAI Security & Monitoring 是部署在边缘设备上的安全监控 agent�
 ```mermaid
 xychart-beta
     title "MicroAIInc/MicroAI-Security-and-Monitoring 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 59 --> 61
     line [60, 60]
 ```
 
-2026-10-23 60 → 2026-11-25 60（+0）
+2026-10-24 60 → 2026-11-26 60（+0）
 
 
 ---

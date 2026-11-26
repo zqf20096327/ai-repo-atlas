@@ -1,6 +1,6 @@
 # dylan-murray/agent-desk
 
-⭐ 5 · Python · Apache-2.0 · 推送 2026-11-24 · [GitHub](https://github.com/dylan-murray/agent-desk) · 个人维护
+⭐ 5 · Python · Apache-2.0 · 推送 2026-11-25 · [GitHub](https://github.com/dylan-murray/agent-desk) · 个人维护
 
 **给开发者的本地编码 agent 工作台：并排运行与审查多个 agent**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "dylan-murray/agent-desk 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 4 --> 6
     line [5, 5]
 ```
 
-2026-10-23 5 → 2026-11-25 5（+0）
+2026-10-24 5 → 2026-11-26 5（+0）
 
 
 ---

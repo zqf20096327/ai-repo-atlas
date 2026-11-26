@@ -1,6 +1,6 @@
 # BA4RNJ/3pi-desk-for-claude-code
 
-⭐ 5 · TypeScript · MIT · 推送 2026-11-23 · [GitHub](https://github.com/BA4RNJ/3pi-desk-for-claude-code) · [官网](https://github.com/BA4RNJ/3pi-desk-for-claude-code#readme) · 个人维护 · 中文 README
+⭐ 5 · TypeScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/BA4RNJ/3pi-desk-for-claude-code) · [官网](https://github.com/BA4RNJ/3pi-desk-for-claude-code#readme) · 个人维护 · 中文 README
 
 **面向中文用户的 Claude Code 图形化桌面客户端**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "BA4RNJ/3pi-desk-for-claude-code 星数(近 3 点)"
-    x-axis ["2026-11-08", "2026-11-12", "2026-11-25"]
+    x-axis ["2026-11-08", "2026-11-12", "2026-11-26"]
     y-axis "stars" 3 --> 6
     line [4, 5, 5]
 ```
 
-2026-11-08 4 → 2026-11-25 5（+1）
+2026-11-08 4 → 2026-11-26 5（+1）
 
 
 ---

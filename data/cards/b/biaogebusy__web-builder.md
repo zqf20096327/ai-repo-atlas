@@ -1,6 +1,6 @@
 # biaogebusy/web-builder
 
-⭐ — · [GitHub]() · 个人维护 · 中文 README
+⭐ 586 · TypeScript · AGPL-3.0 · 推送 2026-11-20 · [GitHub](https://github.com/biaogebusy/web-builder) · [官网](https://builder.design) · 个人维护 · 中文 README
 
 **基于 Angular+TailwindCSS 的拖拽式低代码建站平台**
 
@@ -11,7 +11,7 @@
 | 维度 | 判定 | 备注 |
 |---|---|---|
 | AI 角色 | `ai-enhanced` | 去掉 AI 部分产品仍成立 |
-| 许可风险 | `viral` | — |
+| 许可风险 | `viral` | AGPL-3.0 |
 | 部署形态 | `library` | 以包/库形式分发 |
 | 模型依赖 | — | README 未给出锁定关系 |
 | 硬件要求 | — | 无带数字的原话,不猜 |
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "biaogebusy/web-builder 星数(近 5 点)"
-    x-axis ["2026-10-22", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-24"]
+    x-axis ["2026-10-23", "2026-11-08", "2026-11-15", "2026-11-21", "2026-11-26"]
     y-axis "stars" 584 --> 588
     line [585, 586, 587, 586, 586]
 ```
 
-2026-10-22 585 → 2026-11-24 586（+1）
+2026-10-23 585 → 2026-11-26 586（+1）
 
 
 ---

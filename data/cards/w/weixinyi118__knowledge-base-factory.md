@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "weixinyi118/knowledge-base-factory 星数(近 2 点)"
-    x-axis ["2026-10-31", "2026-11-25"]
+    x-axis ["2026-10-31", "2026-11-26"]
     y-axis "stars" 2 --> 4
     line [3, 3]
 ```
 
-2026-10-31 3 → 2026-11-25 3（+0）
+2026-10-31 3 → 2026-11-26 3（+0）
 
 
 ---

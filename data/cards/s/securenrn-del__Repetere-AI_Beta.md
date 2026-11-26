@@ -1,6 +1,6 @@
 # securenrn-del/Repetere-AI_Beta
 
-⭐ 8 · 推送 2026-10-27 · [GitHub](https://github.com/securenrn-del/Repetere-AI_Beta) · 个人维护
+⭐ — · [GitHub]() · 个人维护
 
 **本地多模态 AI 工作站：代码/对话/写作/音乐/图像五大工作区**
 

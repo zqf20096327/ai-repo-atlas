@@ -1,6 +1,6 @@
 # LJungang/Awesome-Video-Reasoning-Landscape
 
-⭐ 196 · Python · 推送 2026-09-29 · [GitHub](https://github.com/LJungang/Awesome-Video-Reasoning-Landscape) · 个人维护
+⭐ 195 · Python · 推送 2026-09-29 · [GitHub](https://github.com/LJungang/Awesome-Video-Reasoning-Landscape) · 个人维护
 
 **视频推理研究论文策展清单：任务、范式与基准的持续收录**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "LJungang/Awesome-Video-Reasoning-Landscape 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-16", "2026-11-25"]
+    title "LJungang/Awesome-Video-Reasoning-Landscape 星数(近 4 点)"
+    x-axis ["2026-10-24", "2026-11-16", "2026-11-25", "2026-11-26"]
     y-axis "stars" 193 --> 197
-    line [194, 195, 196]
+    line [194, 195, 196, 195]
 ```
 
-2026-10-23 194 → 2026-11-25 196（+2）
+2026-10-24 194 → 2026-11-26 195（+1）
 
 
 ---

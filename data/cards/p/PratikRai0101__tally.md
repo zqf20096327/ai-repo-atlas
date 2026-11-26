@@ -40,6 +40,18 @@
 > L7:  A native macOS menu bar app for Claude, Codex, Cursor, Grok, Gemini, and OpenCode.
 > L48: Tally reads the session logs your agents already write and the usage endpoints your CLIs already sign in to, and pu
 
+## 星数曲线
+
+```mermaid
+xychart-beta
+    title "PratikRai0101/tally 星数(近 2 点)"
+    x-axis ["2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 5
+    line [4, 4]
+```
+
+2026-11-25 4 → 2026-11-26 4（+0）
+
 
 ---
 *卡片 v1 · prompt 1.4 · 生成 2026-11-24 · 置信度 high · 依据 README sha `34d8819bbcde` · [字段定义](../../DATASET.md)*

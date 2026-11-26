@@ -1,6 +1,6 @@
 # CGCL-codes/naturalcc
 
-⭐ 320 · C · MIT · 推送 2026-11-18 · [GitHub](https://github.com/CGCL-codes/naturalcc) · [官网](http://xcodemind.github.io) · 组织维护 · 中文 README
+⭐ 320 · C · MIT · 推送 2026-11-24 · [GitHub](https://github.com/CGCL-codes/naturalcc) · [官网](http://xcodemind.github.io) · 组织维护 · 中文 README
 
 **本地运行的上下文感知代码编辑 Agent，含 Web UI/CLI/VS Code 入口**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CGCL-codes/naturalcc 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-20", "2026-11-26"]
     y-axis "stars" 319 --> 322
     line [321, 320, 321, 320, 320]
 ```
 
-2026-10-23 321 → 2026-11-25 320（-1）
+2026-10-24 321 → 2026-11-26 320（-1）
 
 
 ---

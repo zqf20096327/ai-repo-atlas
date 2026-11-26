@@ -1,6 +1,6 @@
 # runta-dev/clawshell
 
-⭐ 350 · Rust · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/runta-dev/clawshell) · [官网](https://clawshell.org) · 组织维护
+⭐ 351 · Rust · Apache-2.0 · 推送 2026-07-13 · [GitHub](https://github.com/runta-dev/clawshell) · [官网](https://clawshell.org) · 组织维护
 
 **为 OpenClaw/Hermes Agent 代理 LLM API 的安全网关，保护密钥与拦截 PII**
 
@@ -46,12 +46,12 @@ Rust 编写的安全特权代理进程，部署在 OpenClaw/Hermes Agent 与上�
 ```mermaid
 xychart-beta
     title "runta-dev/clawshell 星数(近 7 点)"
-    x-axis ["2026-10-23", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-30", "2026-11-02", "2026-11-06", "2026-11-08", "2026-11-22", "2026-11-26"]
     y-axis "stars" 345 --> 352
-    line [346, 347, 348, 346, 351, 350, 350]
+    line [346, 347, 348, 346, 351, 350, 351]
 ```
 
-2026-10-23 346 → 2026-11-25 350（+4）
+2026-10-24 346 → 2026-11-26 351（+5）
 
 
 ---

@@ -1,6 +1,6 @@
 # fathiaomar/SolGuard-AI
 
-⭐ 10 · JavaScript · MIT · 推送 2026-11-20 · [GitHub](https://github.com/fathiaomar/SolGuard-AI) · [官网](https://sol-guard-ai-47px.vercel.app/) · 个人维护
+⭐ 10 · JavaScript · MIT · 推送 2026-11-25 · [GitHub](https://github.com/fathiaomar/SolGuard-AI) · [官网](https://sol-guard-ai-47px.vercel.app/) · 个人维护
 
 **给 Solidity 开发者的 AI 合约安全审计工作台**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "fathiaomar/SolGuard-AI 星数(近 7 点)"
-    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-25"]
+    x-axis ["2026-11-15", "2026-11-16", "2026-11-18", "2026-11-19", "2026-11-21", "2026-11-23", "2026-11-26"]
     y-axis "stars" 2 --> 11
     line [3, 4, 6, 8, 9, 10, 10]
 ```
 
-2026-11-15 3 → 2026-11-25 10（+7）
+2026-11-15 3 → 2026-11-26 10（+7）
 
 
 ---

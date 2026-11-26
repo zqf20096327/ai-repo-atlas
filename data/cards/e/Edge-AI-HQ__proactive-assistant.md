@@ -1,6 +1,6 @@
 # Edge-AI-HQ/proactive-assistant
 
-⭐ 48 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Edge-AI-HQ/proactive-assistant) · 组织维护 · 中文 README
+⭐ 63 · TypeScript · MIT · 推送 2026-11-16 · [GitHub](https://github.com/Edge-AI-HQ/proactive-assistant) · 组织维护 · 中文 README
 
 **连接你的应用与设备的主动式个人 AI 助手**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Edge-AI-HQ/proactive-assistant 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 4 --> 52
-    line [8, 11, 14, 23, 33, 48]
+    title "Edge-AI-HQ/proactive-assistant 星数(近 7 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 3 --> 68
+    line [8, 11, 14, 23, 33, 48, 63]
 ```
 
-2026-11-19 8 → 2026-11-25 48（+40）
+2026-11-19 8 → 2026-11-26 63（+55）
 
 
 ---

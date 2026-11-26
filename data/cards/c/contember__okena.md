@@ -1,6 +1,6 @@
 # contember/okena
 
-⭐ 104 · Rust · MIT · 推送 2026-11-23 · [GitHub](https://github.com/contember/okena) · [官网](https://www.okena.dev) · 组织维护
+⭐ 104 · Rust · MIT · 推送 2026-11-25 · [GitHub](https://github.com/contember/okena) · [官网](https://www.okena.dev) · 组织维护
 
 **Rust 原生终端复用器，带 AI 工具状态与用量集成**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "contember/okena 星数(近 6 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-28", "2026-11-06", "2026-11-08", "2026-11-20", "2026-11-26"]
     y-axis "stars" 101 --> 105
     line [102, 103, 102, 103, 104, 104]
 ```
 
-2026-10-23 102 → 2026-11-25 104（+2）
+2026-10-24 102 → 2026-11-26 104（+2）
 
 
 ---

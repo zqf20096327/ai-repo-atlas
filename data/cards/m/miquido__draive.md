@@ -1,6 +1,6 @@
 # miquido/draive
 
-⭐ 111 · Python · MIT · 推送 2026-11-23 · [GitHub](https://github.com/miquido/draive) · [官网](https://www.miquido.com/) · 组织维护
+⭐ 111 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/miquido/draive) · [官网](https://www.miquido.com/) · 组织维护
 
 **构建生产级 LLM agent 与工作流的 Python 框架**
 
@@ -47,12 +47,12 @@
 ```mermaid
 xychart-beta
     title "miquido/draive 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-26"]
     y-axis "stars" 110 --> 112
     line [111, 111]
 ```
 
-2026-10-23 111 → 2026-11-25 111（+0）
+2026-10-24 111 → 2026-11-26 111（+0）
 
 
 ---

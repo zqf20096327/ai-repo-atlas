@@ -1,6 +1,6 @@
 # Ignitic-AI/ignitic
 
-⭐ 15 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Ignitic-AI/ignitic) · [官网](https://igniticai.hinterbuild.com/) · 组织维护
+⭐ 16 · TypeScript · NOASSERTION · 推送 2026-11-23 · [GitHub](https://github.com/Ignitic-AI/ignitic) · [官网](https://igniticai.hinterbuild.com/) · 组织维护
 
 **自托管的电商运营 AI 代理平台：一个聊天入口驱动 14 个专家代理**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "Ignitic-AI/ignitic 星数(近 5 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25"]
-    y-axis "stars" 10 --> 16
-    line [11, 12, 13, 14, 15]
+    title "Ignitic-AI/ignitic 星数(近 6 点)"
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-10", "2026-11-12", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 10 --> 17
+    line [11, 12, 13, 14, 15, 16]
 ```
 
-2026-10-23 11 → 2026-11-25 15（+4）
+2026-10-24 11 → 2026-11-26 16（+5）
 
 
 ---

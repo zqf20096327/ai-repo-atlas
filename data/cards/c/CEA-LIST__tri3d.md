@@ -1,6 +1,6 @@
 # CEA-LIST/tri3d
 
-⭐ 19 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/CEA-LIST/tri3d) · [官网](https://cea-list.github.io/tri3d/) · 组织维护
+⭐ 20 · Python · NOASSERTION · 推送 2026-11-17 · [GitHub](https://github.com/CEA-LIST/tri3d) · [官网](https://cea-list.github.io/tri3d/) · 组织维护
 
 **统一 API 操作多种 3D 自动驾驶数据集的 Python 库**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "CEA-LIST/tri3d 星数(近 2 点)"
-    x-axis ["2026-10-19", "2026-11-25"]
-    y-axis "stars" 18 --> 20
-    line [19, 19]
+    x-axis ["2026-10-20", "2026-11-26"]
+    y-axis "stars" 18 --> 21
+    line [19, 20]
 ```
 
-2026-10-19 19 → 2026-11-25 19（+0）
+2026-10-20 19 → 2026-11-26 20（+1）
 
 
 ---

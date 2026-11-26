@@ -1,6 +1,6 @@
 # itsfutsy/OmegaStar
 
-⭐ 16 · Rust · AGPL-3.0 · 推送 2026-11-21 · [GitHub](https://github.com/itsfutsy/OmegaStar) · 个人维护
+⭐ 19 · Rust · AGPL-3.0 · 推送 2026-11-25 · [GitHub](https://github.com/itsfutsy/OmegaStar) · 个人维护
 
 **把已装好的 Claude Code 组建成 AI 员工团队的桌面应用**
 
@@ -44,13 +44,13 @@ Tauri 桌面应用（macOS/Windows/Linux，AGPL-3.0，alpha 阶段），为已�
 
 ```mermaid
 xychart-beta
-    title "itsfutsy/OmegaStar 星数(近 6 点)"
-    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25"]
-    y-axis "stars" 5 --> 17
-    line [6, 7, 9, 11, 15, 16]
+    title "itsfutsy/OmegaStar 星数(近 7 点)"
+    x-axis ["2026-11-19", "2026-11-20", "2026-11-21", "2026-11-22", "2026-11-23", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 5 --> 20
+    line [6, 7, 9, 11, 15, 16, 19]
 ```
 
-2026-11-19 6 → 2026-11-25 16（+10）
+2026-11-19 6 → 2026-11-26 19（+13）
 
 
 ---

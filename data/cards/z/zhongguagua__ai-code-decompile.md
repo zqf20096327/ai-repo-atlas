@@ -1,6 +1,6 @@
 # zhongguagua/ai-code-decompile
 
-⭐ 132 · TypeScript · 推送 2026-01-07 · [GitHub](https://github.com/zhongguagua/ai-code-decompile) · [官网](https://www.jsunpack.tech/) · 组织维护 · 中文 README
+⭐ 134 · TypeScript · 推送 2026-01-07 · [GitHub](https://github.com/zhongguagua/ai-code-decompile) · [官网](https://www.jsunpack.tech/) · 组织维护 · 中文 README
 
 **AI 驱动的 JS 反编译分析工具 JSUnpack 的前端界面**
 
@@ -45,12 +45,12 @@ JSUnpack 是基于 AI 的 JavaScript 反编译与分析工具，面向需要理�
 ```mermaid
 xychart-beta
     title "zhongguagua/ai-code-decompile 星数(近 3 点)"
-    x-axis ["2026-10-23", "2026-11-08", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-11-08", "2026-11-26"]
     y-axis "stars" 131 --> 140
-    line [139, 132, 132]
+    line [139, 132, 134]
 ```
 
-2026-10-23 139 → 2026-11-25 132（-7）
+2026-10-24 139 → 2026-11-26 134（-5）
 
 
 ---

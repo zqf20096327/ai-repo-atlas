@@ -1,6 +1,6 @@
 # agentforce314/clawcodex
 
-⭐ 928 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/agentforce314/clawcodex) · [官网](https://clawcodex.app) · 个人维护
+⭐ 927 · TypeScript · MIT · 推送 2026-11-08 · [GitHub](https://github.com/agentforce314/clawcodex) · [官网](https://clawcodex.app) · 个人维护
 
 **Claude Code 的 Python 重建版：面向开发者的终端编码 Agent**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "agentforce314/clawcodex 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-25"]
+    x-axis ["2026-10-24", "2026-10-26", "2026-10-27", "2026-11-06", "2026-11-08", "2026-11-10", "2026-11-16", "2026-11-26"]
     y-axis "stars" 920 --> 929
-    line [921, 922, 924, 921, 926, 927, 928, 928]
+    line [921, 922, 924, 921, 926, 927, 928, 927]
 ```
 
-2026-10-23 921 → 2026-11-25 928（+7）
+2026-10-24 921 → 2026-11-26 927（+6）
 
 
 ---

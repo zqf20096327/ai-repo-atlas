@@ -1,6 +1,6 @@
 # nonatofabio/luna-agent
 
-⭐ 21 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/nonatofabio/luna-agent) · 个人维护
+⭐ 22 · Python · MIT · 推送 2026-04-10 · [GitHub](https://github.com/nonatofabio/luna-agent) · 个人维护
 
 **自建极简本地 AI agent：持久记忆+MCP 工具+Discord 界面**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "nonatofabio/luna-agent 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 20 --> 22
-    line [21, 21]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 20 --> 23
+    line [21, 22]
 ```
 
-2026-10-23 21 → 2026-11-25 21（+0）
+2026-10-24 21 → 2026-11-26 22（+1）
 
 
 ---

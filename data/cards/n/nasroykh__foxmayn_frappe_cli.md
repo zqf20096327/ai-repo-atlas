@@ -1,6 +1,6 @@
 # nasroykh/foxmayn_frappe_cli
 
-⭐ 16 · Go · MIT · 推送 2026-11-11 · [GitHub](https://github.com/nasroykh/foxmayn_frappe_cli) · 个人维护
+⭐ 16 · Go · MIT · 推送 2026-11-25 · [GitHub](https://github.com/nasroykh/foxmayn_frappe_cli) · 个人维护
 
 **面向 Frappe/ERPNext 的 CLI、MCP 服务器与桌面应用**
 
@@ -45,12 +45,12 @@
 ```mermaid
 xychart-beta
     title "nasroykh/foxmayn_frappe_cli 星数(近 2 点)"
-    x-axis ["2026-10-26", "2026-11-25"]
+    x-axis ["2026-10-26", "2026-11-26"]
     y-axis "stars" 15 --> 17
     line [16, 16]
 ```
 
-2026-10-26 16 → 2026-11-25 16（+0）
+2026-10-26 16 → 2026-11-26 16（+0）
 
 
 ---

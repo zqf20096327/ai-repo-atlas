@@ -1,6 +1,6 @@
 # ondateta/teta
 
-⭐ 42 · Dart · AGPL-3.0 · 推送 2025-12-10 · [GitHub](https://github.com/ondateta/teta) · [官网](https://teta.so) · 组织维护
+⭐ 43 · Dart · AGPL-3.0 · 推送 2025-12-10 · [GitHub](https://github.com/ondateta/teta) · [官网](https://teta.so) · 组织维护
 
 **开源 AI 应用构建器：用描述生成移动应用（macOS）**
 
@@ -43,12 +43,12 @@ Teta 是开源的 AI 驱动应用构建器，用户通过描述来构建移动�
 ```mermaid
 xychart-beta
     title "ondateta/teta 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 41 --> 43
-    line [42, 42]
+    x-axis ["2026-10-24", "2026-11-26"]
+    y-axis "stars" 41 --> 44
+    line [42, 43]
 ```
 
-2026-10-23 42 → 2026-11-25 42（+0）
+2026-10-24 42 → 2026-11-26 43（+1）
 
 
 ---

@@ -1,6 +1,6 @@
 # nubskr/satoriDB
 
-⭐ 246 · Rust · MIT · 推送 2026-01-24 · [GitHub](https://github.com/nubskr/satoriDB) · 个人维护
+⭐ 247 · Rust · MIT · 推送 2026-01-24 · [GitHub](https://github.com/nubskr/satoriDB) · 个人维护
 
 **Rust 嵌入式向量数据库：处理超内存的十亿级 ANN 检索**
 
@@ -44,13 +44,13 @@
 
 ```mermaid
 xychart-beta
-    title "nubskr/satoriDB 星数(近 2 点)"
-    x-axis ["2026-10-23", "2026-11-25"]
-    y-axis "stars" 244 --> 247
-    line [245, 246]
+    title "nubskr/satoriDB 星数(近 3 点)"
+    x-axis ["2026-10-24", "2026-11-25", "2026-11-26"]
+    y-axis "stars" 244 --> 248
+    line [245, 246, 247]
 ```
 
-2026-10-23 245 → 2026-11-25 246（+1）
+2026-10-24 245 → 2026-11-26 247（+2）
 
 
 ---

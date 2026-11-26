@@ -1,6 +1,6 @@
 # PAIR-Systems-Inc/goodmem-claude-code-plugin
 
-⭐ 10 · Python · MIT · 推送 2026-11-20 · [GitHub](https://github.com/PAIR-Systems-Inc/goodmem-claude-code-plugin) · [官网](https://goodmem.ai) · 组织维护
+⭐ 10 · Python · MIT · 推送 2026-11-25 · [GitHub](https://github.com/PAIR-Systems-Inc/goodmem-claude-code-plugin) · [官网](https://goodmem.ai) · 组织维护
 
 **用自然语言操作 GoodMem 记忆基础设施的 Claude Code 插件**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "PAIR-Systems-Inc/goodmem-claude-code-plugin 星数(近 2 点)"
-    x-axis ["2026-11-20", "2026-11-25"]
+    x-axis ["2026-11-20", "2026-11-26"]
     y-axis "stars" 9 --> 11
     line [10, 10]
 ```
 
-2026-11-20 10 → 2026-11-25 10（+0）
+2026-11-20 10 → 2026-11-26 10（+0）
 
 
 ---

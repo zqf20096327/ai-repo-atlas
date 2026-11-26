@@ -1,6 +1,6 @@
 # unstackedapps/opensuitemcp
 
-⭐ 33 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/unstackedapps/opensuitemcp) · [官网](https://opensuitemcp.com) · 组织维护
+⭐ 34 · TypeScript · NOASSERTION · 推送 2026-10-27 · [GitHub](https://github.com/unstackedapps/opensuitemcp) · [官网](https://opensuitemcp.com) · 组织维护
 
 **面向 NetSuite 的 MCP 客户端/服务器：用 AI 对话操作业务数据**
 
@@ -46,12 +46,12 @@
 ```mermaid
 xychart-beta
     title "unstackedapps/opensuitemcp 星数(近 8 点)"
-    x-axis ["2026-10-23", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-25"]
-    y-axis "stars" 28 --> 34
-    line [29, 30, 31, 29, 31, 32, 33, 33]
+    x-axis ["2026-10-24", "2026-10-28", "2026-10-29", "2026-11-06", "2026-11-08", "2026-11-12", "2026-11-21", "2026-11-26"]
+    y-axis "stars" 28 --> 35
+    line [29, 30, 31, 29, 31, 32, 33, 34]
 ```
 
-2026-10-23 29 → 2026-11-25 33（+4）
+2026-10-24 29 → 2026-11-26 34（+5）
 
 
 ---
